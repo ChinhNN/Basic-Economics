@@ -71,4 +71,14 @@ Back to Basics: Rất phù hợp để học các khái niệm như lạm phát,
 
 ## AI and Fintech
 
-- [AI Meets Fiscal Policy: Mapping Government Spending Actions Across 64 Countries — AI và chính sách tài khoá](AI%20and%20Fintech/2026-wp043-ai-meets-fiscal-policy.md) — IMF Working Paper WP/2026/043 (PDF thiếu trang bìa và trang tác giả)
+- [AI Meets Fiscal Policy: Mapping Government Spending Actions Across 64 Countries — AI và chính sách tài khoá](AI%20and%20Fintech/2026-ai-meets-fiscal-policy.md) — IMF Working Paper WP/2026/043 (PDF thiếu trang bìa và trang tác giả)
+- [Financial Integrity Implications of Retail Central Bank Digital Currencies (rCBDCs) — Tác động của tiền số ngân hàng trung ương bán lẻ tới tính toàn vẹn tài chính](AI%20and%20Fintech/2025-financial-integrity-retail-cbdc.md) — IMF Fintech Note NOTE/2025/010 (PDF thiếu trang bìa và trang tác giả)
+- [Tokenized Finance — Tài chính token hoá](AI%20and%20Fintech/2026-tokenized-finance.md) — IMF Note NOTE/2026/001 (PDF thiếu trang bìa và trang tác giả)
+- [Global Economic and Financial Implications of AI: Lessons from a Scenario-Planning Exercise — Hàm ý kinh tế và tài chính toàn cầu của AI qua một bài tập hoạch định kịch bản](AI%20and%20Fintech/2026-global-implications-of-ai-scenario-planning.md) — IMF Note NOTE/2026/002 (PDF thiếu trang bìa và trang tác giả)
+- [How Agentic AI Will Reshape Payments — AI tác tử sẽ định hình lại thanh toán như thế nào](AI%20and%20Fintech/2026-agentic-ai-reshape-payments.md) — IMF Note NOTE/2026/004, Sonja Davidovic và Hervé Tourpe
+- [Artificial Intelligence and Cybersecurity in the Financial Sector — Trí tuệ nhân tạo và an ninh mạng trong khu vực tài chính](AI%20and%20Fintech/2026-ai-and-cybersecurity-financial-sector.md) — IMF Note NOTE/2026/005 (PDF thiếu trang bìa và trang tác giả)
+- [Understanding Stablecoins — Hiểu về stablecoin](AI%20and%20Fintech/2026-understanding-stablecoins.md) — IMF Departmental Paper (PDF bắt đầu từ trang 7)
+- [How Should Socially Minded AI Firms Price Their Products? — Doanh nghiệp AI có mục tiêu xã hội nên định giá sản phẩm thế nào?](AI%20and%20Fintech/2026-pricing-ai-socially-minded-firms.md) — IMF Working Paper (PDF thiếu trang bìa và trang tác giả)
+- [What Drives Crypto Mining? Evidence from Hardware Imports — Điều gì thúc đẩy hoạt động đào tiền mã hoá? Bằng chứng từ nhập khẩu phần cứng](AI%20and%20Fintech/2026-what-drives-crypto-mining.md) — IMF Working Paper (PDF thiếu trang bìa và trang tác giả)
+- [The Evolution of Financial Market Infrastructures in a Tokenized Economy — Sự tiến hoá của hạ tầng thị trường tài chính trong nền kinh tế token hoá](AI%20and%20Fintech/2026-fmi-tokenized-economy.md) — IMF Working Paper WP/2026/136 (PDF thiếu trang bìa và trang tác giả)
+- [Stablecoins and the Future of Payments: Evidence from Financial Markets — Stablecoin và tương lai của thanh toán: bằng chứng từ thị trường tài chính](AI%20and%20Fintech/2026-stablecoins-future-of-payments.md) — IMF Working Paper WP/2026/052, Copestake, Englander, Martinez Peria, Villegas-Bauer
