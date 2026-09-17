@@ -4,63 +4,98 @@
 **Tác giả:** Anna Postelnyak, chuyên viên nghiên cứu cao cấp, Vụ Chiến lược, Chính sách và Rà soát (Strategy, Policy, and Review Department) của IMF.
 **Ý chính:** Hãy hình dung IMF như một hợp tác xã tín dụng của các quốc gia: tự nuôi mình bằng lãi thu từ nước vay trừ đi lãi trả cho nước cho vay, với năng lực cho vay gần 1.000 tỷ USD.
 
-## Bản đồ tư duy
+## Sơ đồ
 
-```mermaid
-mindmap
-  root((How Does the IMF<br/>Finance Itself?))
-    1. IMF làm gì
-      Người chữa cháy tài chính toàn cầu: cho nước khủng hoảng vay
-      Tư vấn chính sách, giúp tạo điều kiện vĩ mô cho tăng trưởng, việc làm, mức sống
-      Nhiệm vụ đặc thù → cấu trúc tài chính đặc thù
-    2. Mô hình hợp tác xã tín dụng
-      Gộp nguồn lực thành viên
-      Thu lãi người vay, trả lãi người cho vay
-      Chênh lệch lãi → chi phí hành chính cho vay thông thường
-      Thu nhập đầu tư → chi phí giám sát, phát triển năng lực
-      Không cần thành viên đóng góp hằng năm
-      Năng lực cho vay gần 1.000 tỷ USD
-    3. Quota: cổ phần của thành viên
-      Xác định theo vị thế tương đối trong kinh tế thế giới
-      Quyết định: khoản ký gửi, hạn mức vay, quyền biểu quyết ở Ban Điều hành
-      Đang thực hiện tăng quota 50% theo đợt rà soát chung gần nhất
-    4. Ký gửi sinh lãi
-      1/4 quota bằng đồng tiền tự do sử dụng
-        USD, bảng Anh, euro, yen Nhật, nhân dân tệ
-        = vị thế dự trữ ban đầu, hưởng lãi thị trường, rút được khi cán cân thanh toán cần
-      3/4 quota bằng nội tệ, thường là giấy nhận nợ không lãi
-      Kế hoạch giao dịch tài chính
-        Chỉ rút tiền từ nước đủ mạnh để làm chủ nợ
-        Nước cho vay đổi ký gửi sang đồng tiền tự do sử dụng → IMF cho vay
-        Số cho vay cộng vào vị thế dự trữ, hưởng lãi
-        2024: ~50 nước chủ nợ nhận ~5 tỷ USD lãi
-    5. Lãi suất và dự trữ
-      Người vay trả = lãi trả chủ nợ + biên ~0,5 điểm %/năm
-      Biên này trang trải chi phí hoạt động cho vay
-      Thặng dư → dự trữ, số dư phòng ngừa cho bảng cân đối
-    6. Vỡ nợ và nợ quá hạn
-      Hiếm: chương trình thiết kế để ổn định kinh tế, cải thiện cán cân thanh toán
-      Điều kiện vay: thực hiện chính sách đã thoả thuận
-      Đánh giá an toàn với ngân hàng trung ương: giảm rủi ro lạm dụng vốn
-      Chưa nước nào vỡ nợ hoàn toàn; có nợ quá hạn kéo dài thập niên 1980, hiện không còn
-      Cơ chế chia sẻ gánh nặng
-        Chủ nợ và con nợ cùng bù thiếu hụt bằng nhau
-        Giảm lãi chủ nợ nhận, tăng lãi con nợ trả
-        Hoàn lại khi nước vay trả xong nợ quá hạn
-    7. Ai được lợi
-      Chủ nợ: khoản đầu tư an toàn, có lãi, gánh rủi ro rất nhỏ
-      Người vay: cải cách trong nước, lãi thấp hơn nhiều thị trường vốn tư nhân
-      Thế giới: giảm lan toả, không phải cắt nhập khẩu mạnh, giảm lây lan khủng hoảng
-    8. Cho vay ưu đãi
-      Phần lớn cho vay là thông thường, lãi theo thị trường
-      Nước nghèo nhất: vay ưu đãi từ Quỹ Giảm nghèo và Tăng trưởng PRGT
-        Tách khỏi bảng cân đối của IMF
-        Nguồn tự nguyện từ nước giàu: tài trợ hoặc cho vay
-        Tài khoản trợ cấp bù chênh lệch lãi
-        Khung mới: chuyển một phần thặng dư cho vay thông thường sang trợ cấp PRGT
-    9. Kết
-      Bretton Woods 1944, Morgenthau: chi tiết có vẻ bí ẩn
-      Cốt lõi vẫn là hợp tác xã tín dụng đơn giản, lợi cho cả hai bên và kinh tế thế giới
+### Dòng tiền của IMF
+
+```text
+                         CÁC QUỐC GIA THÀNH VIÊN
+                                    │
+                                    ▼
+                                  QUOTA
+          (theo vị thế kinh tế: ký gửi, hạn mức vay, phiếu bầu)
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+                  ▼                                   ▼
+              1/4 quota                           3/4 quota
+       đồng tiền tự do sử dụng                   bằng nội tệ
+      (USD, GBP, EUR, JPY, CNY)           (giấy nhận nợ không lãi)
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+                                   IMF
+              (hợp tác xã tín dụng, năng lực ~1.000 tỷ USD)
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+                  ▼                                   ▼
+             NƯỚC CÓ VỐN                      NƯỚC KHỦNG HOẢNG
+             (CREDITOR)                          (BORROWER)
+                  │                                   │
+                  │                                   ▼
+                  │                                VAY IMF
+                  │                           (điều kiện vay +
+                  │                        đánh giá an toàn NHTW)
+                  │                                   │
+                  ▼                                   ▼
+             IMF trả lãi                         IMF thu lãi
+          (lãi thị trường)              (= lãi creditor + ~0,5%/năm)
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+                           CHÊNH LỆCH LÃI SUẤT
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+                  │                                   ▼
+                  │                            Tăng dự trữ IMF
+                  │                          (số dư phòng ngừa)
+                  ▼                                   │
+             Chi phí IMF                              ▼
+         (hoạt động cho vay)                IMF tiếp tục cho vay
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+                 KHÔNG CẦN THÀNH VIÊN ĐÓNG GÓP HẰNG NĂM
+```
+
+### Khi có nợ quá hạn
+
+```text
+                               NỢ QUÁ HẠN
+                  (hiếm: chưa nước nào vỡ nợ hoàn toàn)
+                                    │
+                                    ▼
+                        CƠ CHẾ CHIA SẺ GÁNH NẶNG
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+                  ▼                                   ▼
+      Creditor nhận lãi ít hơn           Borrower trả lãi nhiều hơn
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+                    Hoàn lại khi nước vay trả xong nợ
+```
+
+### Cho vay ưu đãi qua PRGT
+
+```text
+                      NƯỚC GIÀU đóng góp tự nguyện
+                         (tài trợ hoặc cho vay)
+                                    │
+                                    ▼
+                                  PRGT
+                    (tách khỏi bảng cân đối của IMF)
+                                    │
+                                    ▼
+                       NƯỚC NGHÈO NHẤT vay ưu đãi
+                          (lãi rất thấp hoặc 0)
+                                    │
+                                    ▼
+                Chênh lệch lãi bù bằng TÀI KHOẢN TRỢ CẤP
+          (đóng góp tự nguyện + thặng dư cho vay thông thường)
 ```
 
 ## Dàn ý chi tiết

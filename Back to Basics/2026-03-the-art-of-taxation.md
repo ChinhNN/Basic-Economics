@@ -4,80 +4,99 @@
 **Tác giả:** Katherine Baer và Ruud de Mooij, Phó Vụ trưởng Vụ Tài chính công (Fiscal Affairs Department) của IMF.
 **Ý chính:** Huy động nguồn thu trong nước (domestic revenue mobilization) là nền tảng của phát triển. Thành công không chỉ nằm ở thiết kế thuế mà ở bộ máy thực thi và niềm tin của người dân.
 
-## Bản đồ tư duy
+## Sơ đồ
 
-```mermaid
-mindmap
-  root((The Art of Taxation<br/>Nghệ thuật đánh thuế))
-    1. Vì sao cần thuế
-      Chính phủ nào cũng cần tiền: đường, trường, bệnh viện, toà án, an ninh
-      Vay nợ hay viện trợ đều có, nhưng thuế là nguồn bền vững nhất
-      Bài toán cân bằng
-        Đủ thu để lo dịch vụ công
-        Thuế quá cao, thiết kế kém, thu kém → bóp nghẹt đầu tư, đổi mới, tăng trưởng
-      Ngày càng khó
-        Nợ công và thâm hụt cao
-        Dân số già, nghèo đói, áp lực chi cho giáo dục, y tế, hạ tầng số, khí hậu
-    2. Huy động nguồn thu trong nước
-      Thu thuế bền vững, hiệu quả, công bằng
-      Quyết định tài trợ ưu tiên, giảm lệ thuộc viện trợ, chống chịu cú sốc
-      Mang tính chính trị sâu sắc: ai nộp, bao nhiêu, dưới hình thức nào = khế ước xã hội
-      Mốc tham chiếu: thu thuế tối thiểu 15% GDP
-        Dưới mức này hiệu lực nhà nước, tài chính, tăng trưởng đình trệ
-        Hơn 70 nước đang phát triển vẫn dưới 15%
-      Tiềm năng chưa khai thác: thêm 4–5% GDP nhờ cải cách tốt
-        Jamaica, Maldives, Morocco, Nepal, Rwanda, Uzbekistan
-    3. Các loại thuế
-      Xu hướng: từ thuế hẹp, méo mó sang thuế rộng, hiệu quả
-      Thuế thương mại và thuế quan
-        Dễ thu ở biên giới, từng là nguồn chính
-        Giảm từ giữa thế kỷ 20, vẫn chiếm ~1/4 thu thuế ở nhiều nước đang phát triển
-        Lạm dụng → cản thương mại, tăng giá tiêu dùng, chậm hội nhập
-      VAT: con ngựa thồ
-        Hơn 1/3 tổng thu thuế, kể cả nước thu nhập thấp và trung bình
-        Đánh rộng trên tiêu dùng, khấu trừ đầu vào → giảm thuế chồng thuế
-      Thuế tiêu thụ đặc biệt
-        Thuốc lá, rượu, nhiên liệu hoá thạch
-        Vừa thu ngân sách vừa cải thiện sức khoẻ, môi trường
-      Thuế thu nhập doanh nghiệp
-        Quan trọng để đánh vào lợi nhuận công ty lớn, đa quốc gia
-        Áp lực: cạnh tranh thuế quốc tế, chuyển lợi nhuận → cần phối hợp quốc tế
-      Thuế thu nhập cá nhân
-        Thu ít ở nước đang phát triển: tầng lớp trung lưu nhỏ, phi chính thức lớn, tự làm chủ, tài chính chính thức hạn chế
-        Vẫn tiến bộ được: châu Phi tăng gấp đôi tỉ lệ trên GDP từ 2000
-        Quan trọng cho tính luỹ tiến
-      Thuế tài sản: đất và bất động sản
-        Bị bỏ quên, khó trốn, hiệu quả cho ngân sách địa phương
-        Rào cản: phản đối chính trị, sổ đăng ký lạc hậu
-    4. Thiết kế thuế
-      Mục tiêu: thu đủ, ít méo mó, ít bất công
-      Nguyên tắc trung lập: ít can thiệp vào quyết định làm việc, tiết kiệm, đầu tư, tiêu dùng
-        Thực tế = cơ sở thuế rộng, thuế suất vừa phải
-      Chi tiêu thuế: miễn, giảm, khấu trừ, chế độ đặc biệt
-        Chi phí gộp 3–4% GDP, khoảng 1/4 số thu
-        Không phải cái nào cũng xấu: chế độ đơn giản cho doanh nghiệp nhỏ, ưu đãi lao động kỹ năng thấp
-        Vấn đề khi tràn lan không đánh giá: méo mó, bất công, phức tạp, dễ trốn
-      Cần rà soát định kỳ và minh bạch: mỗi ưu đãi có đạt mục tiêu, có phải công cụ tốt nhất
-    5. Từ chính sách đến thực thi
-      Chính sách tốt nhất cũng thất bại nếu thực thi kém
-      Thách thức: năng lực hành chính hạn chế, khu vực phi chính thức lớn
-        Riêng thất thu VAT ~3% GDP
-      Mở rộng sổ đăng ký tràn lan không hiệu quả: nhiều người phi chính thức thu nhập quá thấp để phải nộp
-      Chiến lược hiệu quả hơn
-        Khấu trừ tại nguồn qua trung gian lớn: doanh nghiệp, ngân hàng
-        Kiểm tra theo rủi ro
-        Số hoá: khai nộp điện tử, hoá đơn thời gian thực, phân tích dữ liệu, AI
-      Luật rõ và đơn giản: phức tạp và thay đổi liên tục → bất định, tham nhũng
-      Nền tảng: nhân sự giỏi, tổ chức hiện đại, quản trị mạnh
-    6. Ba bài học
-      Nghĩ theo hệ thống: mức thuế, cơ cấu, thiết kế, hành chính liên kết chặt. Cải cách rời rạc hiếm khi bền
-      Kiên nhẫn: thắng nhanh có thể có, nhưng bền vững cần nhiều năm, giữ đà qua các chu kỳ chính trị
-      Hợp tác quốc tế giúp nhưng không đủ: trao đổi thông tin, hiệp định thuế không thay được thể chế trong nước
-    7. Chính trị và niềm tin
-      Thuế bị coi là tuỳ tiện, tham nhũng → tuân thủ giảm
-      Thuế được coi là đóng góp cho thịnh vượng chung → ủng hộ tăng
-      Minh bạch, trách nhiệm giải trình, truyền thông rõ ràng
-      Nộp thuế nên là đầu tư cho tương lai chung, không phải mất của riêng
+### Vì sao phải huy động nguồn thu
+
+```text
+                           CHÍNH PHỦ CẦN TIỀN
+               (đường, trường, bệnh viện, toà án, an ninh)
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+                  ▼                                   ▼
+          Vay nợ / viện trợ                         THUẾ
+        (có nhưng không bền)                (nguồn bền vững nhất)
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+                      HUY ĐỘNG NGUỒN THU TRONG NƯỚC
+                     (bền vững, hiệu quả, công bằng)
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+                  ▼                                   ▼
+               Đủ thu                          Không bóp nghẹt
+          cho dịch vụ công              đầu tư, đổi mới, tăng trưởng
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+                               MỐC 15% GDP
+                   (>70 nước đang phát triển còn dưới)
+                                    │
+                                    ▼
+                           TIỀM NĂNG +4–5% GDP
+         (Jamaica, Maldives, Morocco, Nepal, Rwanda, Uzbekistan)
+```
+
+### Cơ cấu thuế: từ hẹp sang rộng
+
+```text
+                 THUẾ HẸP, MÉO MÓ → THUẾ RỘNG, HIỆU QUẢ
+                                    │
+                                    ▼
+                                Thuế quan
+              (~1/4 thu ở nước đang phát triển, đang giảm)
+                                    │
+                                    ▼
+                                   VAT
+        (>1/3 tổng thu, khấu trừ đầu vào, tránh thuế chồng thuế)
+                                    │
+                                    ▼
+                         Thuế tiêu thụ đặc biệt
+                 (thuốc lá, rượu, nhiên liệu hoá thạch)
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+                  ▼                                   ▼
+              Thuế TNDN                           Thuế TNCN
+      (áp lực cạnh tranh thuế,              (thu ít; châu Phi x2
+          chuyển lợi nhuận)                  từ 2000; luỹ tiến)
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+                     Thuế tài sản: đất, bất động sản
+                 (bỏ quên, khó trốn, tốt cho địa phương)
+```
+
+### Từ thiết kế đến niềm tin
+
+```text
+                                THIẾT KẾ
+               (trung lập: cơ sở rộng, thuế suất vừa phải)
+                                    │
+                                    ▼
+                         Chi tiêu thuế 3–4% GDP
+                      (rà soát định kỳ, minh bạch)
+                                    │
+                                    ▼
+                                THỰC THI
+                         (thất thu VAT ~3% GDP)
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+                  ▼                                   ▼
+         Khấu trừ tại nguồn                      Số hoá, AI
+        kiểm tra theo rủi ro             luật đơn giản, nhân sự giỏi
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+                               BA BÀI HỌC
+           hệ thống · kiên nhẫn · quốc tế giúp nhưng không đủ
+                                    │
+                                    ▼
+                                NIỀM TIN
+           (minh bạch, giải trình → nộp thuế là đầu tư chung)
 ```
 
 ## Dàn ý chi tiết

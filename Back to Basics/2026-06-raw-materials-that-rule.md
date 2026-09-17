@@ -4,73 +4,111 @@
 **Tác giả:** Jean-Marc Natal, Trưởng bộ phận Hàng hoá của IMF.
 **Ý chính:** Quyền kiểm soát hàng hoá cơ bản đã định hình kinh tế thế giới trong quá khứ và có thể quyết định trật tự thế giới tương lai.
 
-## Bản đồ tư duy
+## Sơ đồ
 
-```mermaid
-mindmap
-  root((Raw Materials that Rule<br/>Hàng hoá cơ bản))
-    1. Hàng hoá là gì
-      Không có bản sắc riêng, không logo, không marketing
-      Đồng nhất và thay thế được → giao dịch toàn cầu liền mạch
-      Hard: dầu, đồng, sắt, vàng
-      Soft: lúa mì, cà phê, bông, ca cao
-      Ví dụ smartphone: 42 khoáng chất
-        Cobalt Congo, đồng Peru, quặng sắt Úc, đất hiếm Trung Quốc
-        Điện sạc máy: dầu, khí, than, uranium, khoáng chất trong pin mặt trời và tuabin gió
-    2. Lịch sử: cơ hội và tổn thương
-      Thiết yếu nhưng phân bố không đều
-      Caravan xuyên Sahara: vàng, muối Tây Phi → Bắc Phi, châu Âu
-      Hàng hải Ấn Độ Dương: gia vị, ngà voi, đá quý, kim loại quý
-      Cùng nguồn tài nguyên ấy châm ngòi xung đột
-    3. Từ chợ vật chất đến sàn giao dịch
-      Bài toán chung: giá biến động dữ dội
-        Được mùa rồi hạn hán → nông dân, chủ xay, thương nhân, ngân hàng
-      CBOT 1848: sàn chuẩn hoá đầu tiên, chốt giá trước nhiều tháng
-      Hợp đồng tương lai: giá, số lượng, loại hàng, ngày giao
-        Thu nhập ổn định
-        Dễ vay vốn: tưới tiêu, giống, phân bón, thuốc trừ sâu
-      NYMEX: năng lượng, kim loại. LME: kim loại cơ bản
-      Hệ quả
-        Người sản xuất phòng hộ rủi ro, người mua có giá ổn định
-        Thương nhân mở rộng quy mô → toàn cầu hoá thị trường hàng hoá
-    4. Futures và options: tài chính hoá
-      Giao dịch xoay quanh hợp đồng, không phải thùng dầu, giạ lúa, thỏi kim loại
-      Công cụ bảo hiểm trở thành tài sản
-        Nhà đầu cơ, quỹ phòng hộ, giao dịch tần suất cao
-      Ký quỹ chỉ một phần giá trị → đòn bẩy khuếch đại lãi và lỗ
-      Giá có thể phản ánh đầu cơ hơn cầu vật chất
-        Vàng tăng vọt rồi điều chỉnh mạnh, tháng 10–11/2025
-    5. Vì sao giá biến động
-      Cung chậm điều chỉnh
-        Khoan giếng, đào mỏ, trồng trọt: cần thời gian, vốn, hàng thập kỷ hoạch định
-      Cầu khó thay thế
-        Dây chuyền không đổi qua đêm
-        Nhà máy lọc chỉ xử lý một số loại dầu
-        Chuỗi cung ứng không đổi hướng tức thì
-      Cú sốc cầu, địa chính trị, khí hậu, logistics → giá đi nhanh và mạnh
-      Ví dụ cùng chiều: Trung Quốc bùng nổ hạ tầng đầu 2000s → siêu chu kỳ hàng hoá
-      Ví dụ ngược chiều: COVID-19
-        Cầu thép sụp vì phong toả ở Trung Quốc
-        Giá quặng sắt vẫn tăng vì mỏ ở châu Phi, Brazil đóng cửa
-      Dự báo khó: phải hiểu đặc thù từng thị trường, không chỉ kinh tế vĩ mô
-    6. Rạn nứt địa chính trị
-      Không mới
-        Đế chế tranh vàng, bạc, đường, gia vị
-        Hải quân bảo vệ đường tiếp cận cao su, dầu
-        Biên giới thuộc địa vẽ quanh bồn tài nguyên, di sản còn đến nay
-      Hàng hoá thiết yếu ngày nay
-        Quốc phòng, chuyển dịch năng lượng, công nghệ số và AI
-        Lithium, cobalt, đất hiếm = dầu và thép ngày xưa
-      Phản ứng của các nước
-        Nước giàu tài nguyên tăng ảnh hưởng
-        Nước thiếu chạy đua: liên minh, hợp đồng đầu tư, thiết kế lại chuỗi cung ứng
-        Kiểm soát xuất khẩu, trừng phạt, reshoring
-    7. Vị thế lâu bền
-      Giao điểm kinh tế, chính trị, công nghệ
-      Khối xây dựng lâu đời nhất, vẫn không thể thiếu cho ngành tiên tiến nhất
-      Chuyển dịch năng lượng, số hoá, cạnh tranh địa chính trị → vai trò càng trung tâm
-      Kiểm soát hàng hoá: định hình kinh tế quá khứ, có thể định hình trật tự tương lai
+### Từ hàng hoá đến thị trường tài chính
+
+```text
+                             HÀNG HOÁ CƠ BẢN
+              (đồng nhất, thay thế được, không thương hiệu)
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+                  ▼                                   ▼
+                HARD                                SOFT
+        dầu, đồng, sắt, vàng            lúa mì, cà phê, bông, ca cao
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+                          GIÁ BIẾN ĐỘNG DỮ DỘI
+         (được mùa / hạn hán → nông dân, thương nhân, ngân hàng)
+                                    │
+                                    ▼
+                        SÀN GIAO DỊCH: CBOT 1848
+             (hợp đồng tương lai: giá, số lượng, ngày giao)
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+                  ▼                                   ▼
+           Người sản xuất                         Người mua
+     phòng hộ rủi ro, dễ vay vốn               có giá ổn định
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+                THƯƠNG NHÂN MỞ RỘNG QUY MÔ → TOÀN CẦU HOÁ
+          (NYMEX: năng lượng, kim loại · LME: kim loại cơ bản)
+                                    │
+                                    ▼
+                              TÀI CHÍNH HOÁ
+        (futures, options thành tài sản; đầu cơ, hedge fund, HFT)
+                                    │
+                                    ▼
+             ĐÒN BẨY: ký quỹ một phần → khuếch đại lãi và lỗ
+              (giá có thể phản ánh đầu cơ: vàng 10–11/2025)
 ```
+
+### Vì sao giá biến động
+
+```text
+                                 CÚ SỐC
+            (cầu toàn cầu, địa chính trị, khí hậu, logistics)
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+                  ▼                                   ▼
+        CUNG chậm điều chỉnh                  CẦU khó thay thế
+   (giếng, mỏ, mùa vụ: thời gian,         (dây chuyền, nhà máy lọc,
+         vốn, hàng thập kỷ)                    chuỗi cung ứng)
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+                          GIÁ ĐI NHANH VÀ MẠNH
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+                  ▼                                   ▼
+             Cùng chiều                          Ngược chiều
+         Trung Quốc 2000s →                COVID-19: cầu thép sụp,
+        siêu chu kỳ hàng hoá               giá quặng sắt vẫn tăng
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+              DỰ BÁO KHÓ: phải hiểu đặc thù từng thị trường
+```
+
+### Địa chính trị của hàng hoá
+
+```text
+                    THIẾT YẾU NHƯNG PHÂN BỐ KHÔNG ĐỀU
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+                  ▼                                   ▼
+           Cơ hội kinh tế                 Tổn thương địa chính trị
+          (caravan Sahara,                   (xung đột, đế chế,
+        hàng hải Ấn Độ Dương)               biên giới thuộc địa)
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+                       HÀNG HOÁ THIẾT YẾU HÔM NAY
+                (quốc phòng, chuyển dịch năng lượng, AI)
+            lithium, cobalt, đất hiếm = dầu và thép ngày xưa
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+                  │                                   ▼
+                  ▼                              Nước thiếu
+        Nước giàu tài nguyên                 liên minh, đầu tư,
+           tăng ảnh hưởng                thiết kế lại chuỗi cung ứng
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+              KIỂM SOÁT XUẤT KHẨU · TRỪNG PHẠT · RESHORING
+                                    │
+                                    ▼
+             KIỂM SOÁT HÀNG HOÁ → TRẬT TỰ THẾ GIỚI TƯƠNG LAI
+```
+
 
 ## Bốn câu hỏi bài viết đặt ra
 

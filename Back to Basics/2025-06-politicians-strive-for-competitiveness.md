@@ -4,63 +4,92 @@
 **Tác giả:** Kevin Fletcher, Trợ lý Giám đốc, Vụ Châu Âu của IMF.
 **Ý chính:** "Năng lực cạnh tranh" là mục tiêu phổ biến nhưng mơ hồ. Trong hầu hết tình huống, năng suất mới là con đường tốt hơn tới thịnh vượng, vì thương mại thế giới không phải trò chơi tổng bằng không.
 
-## Bản đồ tư duy
+## Sơ đồ
 
-```mermaid
-mindmap
-  root((Politicians Strive for<br/>Competitiveness))
-    1. Một từ, nhiều nghĩa
-      Michael Porter, The Competitive Advantage of Nations, 1990
-      Uỷ ban cạnh tranh thời Reagan, thập niên 1980
-        Doanh nghiệp: chiến lược toàn cầu để cạnh tranh trên thị trường thế giới
-        Nghị sĩ: cán cân thương mại dương
-      Đến nay vẫn khó định nghĩa, gây chia rẽ
-    2. Năng suất hay cạnh tranh
-      Nếu cạnh tranh = tăng năng suất → hầu như luôn đáng theo đuổi
-      Năng suất tăng phúc lợi bất kể xuất khẩu, kể cả khi không giao thương
-      Cạnh tranh hàm ý tính tương đối: so với nước khác
-        Nước khác tăng năng suất = tin xấu?
-      Bóng đá là tổng bằng không, thương mại thì không
-        Chuyên môn hoá → năng suất toàn cầu tăng, mọi bên đều lợi
-    3. Điều kiện thương mại
-      Nước ngoài sản xuất hiệu quả hơn → cung toàn cầu tăng → giá giảm
-      Nếu mình xuất khẩu hàng đó → thiệt
-      Nếu mình nhập khẩu hàng đó → lợi
-      Tất cả phụ thuộc điều kiện thương mại: giá xuất khẩu so với giá nhập khẩu
-      Nước nhỏ chuyên môn hoá ít mặt hàng: tác động có thể rất lớn
-        Ví dụ: robot chuyên biệt bị lỗi thời khi đối thủ phát minh robot tốt hơn
-      Nước lớn, đa dạng như Mỹ, Trung Quốc, EU: tác động nhỏ, theo Krugman
-        Ít lệ thuộc ngoại thương, thương mại trải rộng nhiều sản phẩm
-        Ảnh hưởng cả giá nhập lẫn giá xuất → ròng khiêm tốn
-      Dễ tác động năng suất của mình hơn của nước khác → cải cách nên nhắm năng suất
-    4. Giảm giá xuất khẩu
-      Kìm tăng lương qua thương lượng tập thể, nếu doanh nghiệp dùng tiết kiệm để giữ giá
-      Làm yếu đồng tiền: giảm giá xuất khẩu và lương tính bằng ngoại tệ
-      Giới hạn: gần toàn dụng lao động → cầu vượt năng lực → giá và lương tăng → lợi thế biến mất
-      Cách tránh: phá giá + thắt chặt tài khoá
-        Tăng thuế hoặc cắt chi để giảm tổng cầu
-        Dịch chuyển việc làm và sản xuất sang xuất khẩu
-        Thu nhập quốc dân không đổi, tiết kiệm quốc gia tăng, tiêu dùng giảm
-    5. Tiết kiệm và đầu tư
-      Đồng nhất thức kế toán: cán cân thương mại = tiết kiệm − đầu tư
-      Tiết kiệm vượt đầu tư trong nước → phần dư đầu tư ra nước ngoài → cần thặng dư thương mại
-      Thâm hụt thương mại chỉ có được khi nước khác cho vay
-      Muốn tăng cán cân thương mại → phải tăng tiết kiệm hoặc giảm đầu tư
-      Có nên không? Tuỳ tiết kiệm và đầu tư đang ở đúng chỗ hay méo mó
-    6. Khi nào lo là chính đáng
-      Kém cạnh tranh phản ánh vấn đề thật
-        Giám sát tài chính lỏng → vốn ngoại đổ vào → bùng nổ tín dụng, tiêu dùng, đầu cơ
-        Cầu nội địa quá mức → lương, giá tăng → xuất khẩu kém cạnh tranh, nhập khẩu tăng
-        Thâm hụt thương mại lớn = mặt trái của bong bóng sắp vỡ
-      Đôi khi nước "quá cạnh tranh"
-        Tiết kiệm quá cao, đầu tư quá thấp, ví dụ thiếu đầu tư hạ tầng công
-        Chi thêm, thâm hụt cao hơn → nâng năng lực sản xuất
-        Lương, giá tăng, xuất khẩu kém cạnh tranh hơn là điều chỉnh cần thiết
-        Nếu lợi suất đầu tư trong nước cao hơn xuất khẩu → cả nền kinh tế mạnh hơn
-    7. Kết luận
-      Cạnh tranh là mục tiêu phổ biến, nhưng năng suất toàn nền kinh tế thường phù hợp hơn
-      Có lúc mức giá tương đối gây mất cân bằng thương mại thật
-      Nhưng hiếm hơn giới hoạch định nghĩ, và khó nhận diện kể cả với chỉ số chuyên dụng
+### Cạnh tranh hay năng suất
+
+```text
+                          "NĂNG LỰC CẠNH TRANH"
+                 (Porter 1990: mỗi người hiểu một kiểu)
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+                  ▼                                   ▼
+            Doanh nghiệp                           Nghị sĩ
+         chiến lược toàn cầu              cán cân thương mại dương
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+                  NƯỚC KHÁC TĂNG NĂNG SUẤT LÀ TIN XẤU?
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+                  │                                   ▼
+                  ▼                              Thương mại
+               Bóng đá                      KHÔNG tổng bằng không
+           tổng bằng không             (chuyên môn hoá → mọi bên lợi)
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+                          ĐIỀU KIỆN THƯƠNG MẠI
+                     (giá xuất khẩu / giá nhập khẩu)
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+                  ▼                                   ▼
+       Mình xuất khẩu hàng đó              Mình nhập khẩu hàng đó
+               → thiệt                              → lợi
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+                          TÁC ĐỘNG LỚN HAY NHỎ?
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+                  ▼                                   ▼
+        Nước nhỏ, ít mặt hàng                 Nước lớn, đa dạng
+            tác động lớn                   tác động nhỏ (Krugman)
+         (robot bị lỗi thời)                (Mỹ, Trung Quốc, EU)
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+                       CẢI CÁCH NÊN NHẮM NĂNG SUẤT
+                (dễ tác động của mình hơn của nước khác)
+```
+
+### Giảm giá xuất khẩu và đồng nhất thức
+
+```text
+                           GIẢM GIÁ XUẤT KHẨU
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+                  ▼                                   │
+           Kìm tăng lương                             ▼
+       (thương lượng tập thể)                 Phá giá đồng tiền
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+                              GẦN TOÀN DỤNG
+             (cầu vượt cung → giá, lương tăng → lợi thế mất)
+                                    │
+                                    ▼
+                      PHÁ GIÁ + THẮT CHẶT TÀI KHOÁ
+         (thu nhập không đổi · tiết kiệm tăng · tiêu dùng giảm)
+                                    │
+                                    ▼
+                 CÁN CÂN THƯƠNG MẠI = TIẾT KIỆM − ĐẦU TƯ
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+                  ▼                                   ▼
+            Thâm hụt lớn                        Thặng dư lớn
+         bong bóng tín dụng                   thiếu đầu tư công
+           → lo chính đáng                   → "quá cạnh tranh"
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+              HIẾM HƠN GIỚI HOẠCH ĐỊNH NGHĨ, KHÓ NHẬN DIỆN
 ```
 
 ## Dàn ý chi tiết

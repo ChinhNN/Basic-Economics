@@ -4,66 +4,86 @@
 **Tác giả:** Itai Agur, chuyên gia kinh tế cao cấp, Vụ Nghiên cứu của IMF. Bài dựa trên IMF Fintech Note "Tokenization and Financial Market Inefficiencies".
 **Ý chính:** Tiền đã mang nhiều hình thái qua hàng thiên niên kỷ, token số là hình thái mới nhất. Token hoá đưa tính tức thời của việc trao đổi vật chất vào thế giới số, cắt chi phí trung gian, nhưng cũng khuếch đại ba nguyên nhân quen thuộc của khủng hoảng: tốc độ, độ phức tạp và nợ.
 
-## Bản đồ tư duy
+## Sơ đồ
 
-```mermaid
-mindmap
-  root((Tokens: Finance's Newest<br/>and Oldest Innovation))
-    1. Từ vỏ ốc đến tiền mặt
-      Vỏ ốc cowrie: sáng kiến tài chính đầu tiên của loài người
-      Ưu điểm: dễ xác minh, thấy, chạm, tin ngay, không cần trung gian
-      Tiền mặt hôm nay vẫn vậy: đưa tờ tiền là xong, không chậm trễ
-    2. Giao dịch số chỉ có vẻ tức thời
-      Ngân hàng, mạng thẻ làm trung gian: duyệt rồi thanh toán sau
-      Trung gian gánh rủi ro thanh toán: một bên nuốt lời
-      Quản lý rủi ro qua trung gian tốn thời gian
-      Chứng khoán: clearinghouse gom tài sản và tiền, trao đổi sau 1–2 ngày
-      Wall Street: thời gian là tiền
-        J.P. Morgan: chi phí quản lý tài sản có thể giảm ~1/5 nếu thanh toán và tái đầu tư tức thì
-    3. Khả năng lập trình
-      Mục tiêu: đem tính tức thời của token vật chất vào thế giới số
-      Vấn đề: không gặp mặt, không thấy tài sản trước khi trao đổi
-      Giải pháp: đoạn mã khoá tiền người mua và tài sản người bán, đổi cùng một khoảnh khắc
-      Tiền nhận về tự động tái đầu tư
-    4. Token hoá và trung gian số
-      Sổ cái lập trình được: hệ thống ghi chép mà thị trường tin và cùng truy cập
-      Tài sản phát hành trực tiếp trên sổ cái, hoặc đại diện cho tài sản bên ngoài như cổ phiếu NYSE
-        Trường hợp đại diện: vẫn cần trung gian giữ tài sản gốc
-      Thúc đẩy cạnh tranh giữa môi giới
-        Hiện nay đổi môi giới phải qua clearinghouse chuyên biệt, hoặc bán rồi mua lại mất phí
-        Token: chuyển dữ liệu giữa môi giới bằng một cú bấm, dễ so giá
-      Không bỏ hết trung gian nhưng tái định hình ngành
-        Registrar quản lý sổ sở hữu, chuyển cổ tức và lãi
-        Trên sổ cái token: trả thẳng cho người giữ token, registrar mất việc
-      Tương tác giữa các sổ cái
-        Sổ cái riêng không nói chuyện được với nhau → phân mảnh thành ốc đảo
-        Interoperability cần hoạch định và phối hợp
-        Nhà hoạch định muốn hệ thống mở, kết nối, ổn định
-    5. Rủi ro: flash crash
-      Lái nhanh tiết kiệm thời gian nhưng tai nạn dễ hơn và nặng hơn
-      Flash crash Wall Street 2010: ~1.000 tỷ USD bốc hơi trong chốc lát
-      Dễ lập trình và thực thi tức thì quy tắc giao dịch tự động → biến động hơn
-    6. Rủi ro: domino và phức tạp
-      Khủng hoảng đổ như domino: Bear Stearns, Lehman Brothers, AIG sụp trong 6 tháng 2008–09
-      Chuỗi chương trình chồng lên nhau = domino được lập trình sẵn
-      Dễ tạo sản phẩm phức tạp mà cơ quan quản lý hiểu quá muộn
-        Báo cáo Điều tra Khủng hoảng Tài chính: bong bóng phức tạp vỡ cùng bong bóng bất động sản
-        Chứng khoán hầu như không ai hiểu là domino đầu tiên đổ
-    7. Rủi ro: nợ
-      Nợ quyết định gợn sóng hay sóng thần
-      Nợ khuếch đại cú sốc vì là lời hứa trả, và hứa vỡ làm mất niềm tin
-      Token làm thế chấp để vay rồi đầu tư nơi khác → nợ chồng dễ hơn
-      Một token mất giá có thể kéo tổn thất khắp hệ thống
-    8. Công nghệ lai
-      Tài sản tài chính: giấy → sổ cái số → token lập trình được
-      Mở rộng sang tài sản phi tài chính: bất động sản, đất nông nghiệp, gia súc
-      Vật chất không số hoá hết được: vẫn cần chăm sóc thực, như chăn đàn bò
-      Token hoá tài sản phi tài chính = lai giữa công nghệ vật chất và tài chính
-    9. Kết
-      Loài người đã chấp nhận nhiều phương tiện trao đổi
-      Lợi ích rõ: nhanh hơn, rẻ hơn
-      Tốc độ, phức tạp, nợ từng gây khủng hoảng, token cộng thêm cả ba
-      Sáng kiến nào cũng phải cầm nắm cẩn thận
+### Từ vỏ ốc đến token hoá
+
+```text
+                              VỎ ỐC COWRIE
+             (token vật chất đầu tiên: thấy, chạm, tin ngay)
+                                    │
+                                    ▼
+                                TIỀN MẶT
+               (giao dịch xong tức thì, không trung gian)
+                                    │
+                                    ▼
+                              GIAO DỊCH SỐ
+                          (chỉ có vẻ tức thời)
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+                  ▼                                   ▼
+             TRUNG GIAN                         CLEARINGHOUSE
+        (ngân hàng, mạng thẻ)                   (chứng khoán)
+       gánh rủi ro thanh toán               trao đổi sau 1–2 ngày
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+                            THỜI GIAN LÀ TIỀN
+           (J.P. Morgan: −1/5 chi phí nếu thanh toán tức thì)
+                                    │
+                                    ▼
+                           KHẢ NĂNG LẬP TRÌNH
+           (mã khoá tiền + tài sản, đổi cùng một khoảnh khắc)
+                                    │
+                                    ▼
+                                TOKEN HOÁ
+                  (tài sản trên sổ cái lập trình được)
+                                    │
+                  ┌─────────────────┴─────────────────┐
+                  │                                   │
+                  ▼                                   ▼
+         Cạnh tranh môi giới                 Registrar mất việc
+        (đổi bằng một cú bấm)          (cổ tức trả thẳng token holder)
+                  └─────────────────┬─────────────────┘
+                                    │
+                                    ▼
+                        CẦN TƯƠNG TÁC GIỮA SỔ CÁI
+                  (mở, kết nối, ổn định; tránh ốc đảo)
+```
+
+### Ba rủi ro cũ được khuếch đại
+
+```text
+                      TOKEN HOÁ: NHANH HƠN, RẺ HƠN
+                                    │
+            ┌───────────────────────┼───────────────────────┐
+            │                       │                       │
+            ▼                       ▼                       ▼
+         TỐC ĐỘ                 PHỨC TẠP                   NỢ
+    flash crash 2010         domino 2008–09        token làm thế chấp
+      ~1.000 tỷ USD        bong bóng phức tạp    một token mất giá → lan
+            └───────────────────────┼───────────────────────┘
+                                    │
+                                    ▼
+                            CẦM NẮM CẨN THẬN
+```
+
+### Tài sản thực: công nghệ lai
+
+```text
+                 GIẤY → SỔ CÁI SỐ → TOKEN LẬP TRÌNH ĐƯỢC
+                                    │
+                                    ▼
+                   Mở rộng sang tài sản phi tài chính
+                  (bất động sản, đất canh tác, gia súc)
+                                    │
+                                    ▼
+                     Vật chất vẫn cần chăm sóc thực
+                         (nông dân chăm đàn bò)
+                                    │
+                                    ▼
+                LAI GIỮA CÔNG NGHỆ VẬT CHẤT VÀ TÀI CHÍNH
 ```
 
 ## Dàn ý chi tiết
