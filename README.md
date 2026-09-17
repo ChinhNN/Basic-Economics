@@ -87,3 +87,7 @@ Back to Basics: Rất phù hợp để học các khái niệm như lạm phát,
 - [Regulatory Considerations Regarding Accelerated Use of AI in Securities Markets — Những cân nhắc về quản lý trước việc tăng tốc sử dụng AI trên thị trường chứng khoán](AI%20and%20Fintech/2025-ai-in-securities-markets-regulation.md) — Technical Notes and Manuals TNM/2025/16 (bản PDF không có trang bìa và trang tác giả)
 - [Central Bank Digital Currency: Further Navigating Challenges and Opportunities — Tiền số ngân hàng trung ương: tiếp tục điều hướng giữa thách thức và cơ hội](AI%20and%20Fintech/2025-cbdc-further-navigating-challenges.md) — Policy Paper trình Ban Giám đốc Điều hành, 11/2025 (bản PDF không có trang bìa và trang tác giả)
 - [The Impact of Central Bank Digital Currency on Payments Competition — Tác động của tiền số ngân hàng trung ương lên cạnh tranh trong thanh toán](AI%20and%20Fintech/2025-cbdc-and-payments-competition.md) — Fintech Note NOTE/2025/007 (bản PDF bắt đầu từ trang 4, không có trang tác giả)
+
+## Capital Flows
+
+- [Expanding the Landscape of Cross-Border Flow Restrictions: Modern Tools and Historical Perspectives — Mở rộng bức tranh về các biện pháp hạn chế dòng vốn xuyên biên giới: công cụ hiện đại và góc nhìn lịch sử](Capital%20Flows/2026-expanding-landscape-cross-border-flow-restrictions.md) — Working Paper WP/2026/098 (bản PDF bắt đầu từ trang 2, tên tác giả lấy từ Phụ lục E)
