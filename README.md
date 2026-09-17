@@ -3,6 +3,26 @@ Back to Basics: Rất phù hợp để học các khái niệm như lạm phát,
 
 ## Tài liệu đã tổng hợp
 
+- [Dutch Disease — Căn bệnh Hà Lan](Back%20to%20Basics/2003-03-dutch-disease.md) — F&D tháng 3/2003, Christine Ebrahim-zadeh
+- [The Big and the Small Picture — Vĩ mô và vi mô](Back%20to%20Basics/2011-09-the-big-and-the-small-picture.md) — F&D tháng 9/2011, G. Chris Rodrigo
+- [What Is Econometrics? — Kinh tế lượng](Back%20to%20Basics/2011-12-what-is-econometrics.md) — F&D tháng 12/2011, Sam Ouliaris
+- [What Is a Bank? — Ngân hàng là gì?](Back%20to%20Basics/2012-03-what-is-a-bank.md) — F&D tháng 3/2012, Jeanne Gobat
+- [What Are Money Markets? — Thị trường tiền tệ](Back%20to%20Basics/2012-06-what-are-money-markets.md) — F&D tháng 6/2012, Randall Dodd
+- [What Is Money? — Tiền là gì?](Back%20to%20Basics/2012-09-what-is-money.md) — F&D tháng 9/2012, Irena Asmundson và Ceyda Oner
+- [What Is LIBOR? — Lãi suất liên ngân hàng London](Back%20to%20Basics/2012-12-what-is-libor.md) — F&D tháng 12/2012, John Kiff
+- [What Are Structural Policies? — Chính sách cơ cấu](Back%20to%20Basics/2013-03-what-are-structural-policies.md) — F&D tháng 3/2013, Khaled Abdel-Kader
+- [What Is Shadow Banking? — Ngân hàng bóng tối](Back%20to%20Basics/2013-06-what-is-shadow-banking.md) — F&D tháng 6/2013, Laura E. Kodres
+- [What Is the Output Gap? — Chênh lệch sản lượng](Back%20to%20Basics/2013-09-what-is-the-output-gap.md) — F&D tháng 9/2013, Sarwat Jahan và Ahmed Saber Mahmud
+- [What Is a Price? — Giá là gì?](Back%20to%20Basics/2013-12-what-is-a-price.md) — F&D tháng 12/2013, Irena Asmundson
+- [What Is Monetarism? — Chủ nghĩa trọng tiền](Back%20to%20Basics/2014-03-what-is-monetarism.md) — F&D tháng 3/2014, Sarwat Jahan và Chris Papageorgiou
+- [What Is Keynesian Economics? — Kinh tế học Keynes](Back%20to%20Basics/2014-09-what-is-keynesian-economics.md) — F&D tháng 9/2014, Sarwat Jahan, Ahmed Saber Mahmud và Chris Papageorgiou
+- [Taxing Principles — Nguyên lý đánh thuế](Back%20to%20Basics/2014-12-taxing-principles.md) — F&D tháng 12/2014, Ruud De Mooij và Michael Keen
+- [Taxes in Practice — Thuế trong thực tế](Back%20to%20Basics/2015-03-taxes-in-practice.md) — F&D tháng 3/2015, Ruud De Mooij và Michael Keen
+- [What Is Capitalism? — Chủ nghĩa tư bản](Back%20to%20Basics/2015-06-what-is-capitalism.md) — F&D tháng 6/2015, Sarwat Jahan và Ahmed Saber Mahmud
+- [What Is Direct Investment? — Đầu tư trực tiếp](Back%20to%20Basics/2015-09-what-is-direct-investment.md) — F&D tháng 9/2015, Tadeusz Galeza và James Chan
+- [Strategic Thinking — Lý thuyết trò chơi](Back%20to%20Basics/2015-12-strategic-thinking.md) — F&D tháng 12/2015, Sarwat Jahan và Ahmed Saber Mahmud
+- [Subsidies: Some Work, Others Don't — Trợ cấp](Back%20to%20Basics/2018-09-subsidies-some-work-others-dont.md) — F&D tháng 9/2018, Benedict J. Clements và Ian Parry
+- [What Is Universal Basic Income? — Thu nhập cơ bản phổ quát](Back%20to%20Basics/2018-12-what-is-universal-basic-income.md) — F&D tháng 12/2018, Maura Francese và Delphine Prady (PDF chỉ có trang đầu)
 - [Does a Minimum Wage Help Workers? — Lương tối thiểu có giúp người lao động?](Back%20to%20Basics/2019-03-does-a-minimum-wage-help-workers.md) — F&D tháng 3/2019, Piyaporn Sodsriwiboon và Gabriel Srour (PDF chỉ có trang đầu)
 - [What Is Stress Testing? — Kiểm tra sức chịu đựng](Back%20to%20Basics/2019-09-what-is-stress-testing.md) — F&D tháng 9/2019, Martin Čihák, Hiroko Oura và Liliana Schumacher
 - [How Can Interest Rates Be Negative? — Lãi suất âm](Back%20to%20Basics/2020-03-how-can-interest-rates-be-negative.md) — F&D tháng 3/2020, Vikram Haksar và Emanuel Kopp
