@@ -1,7 +1,7 @@
 # IMF-Back-to-Basics
 Back to Basics: Rất phù hợp để học các khái niệm như lạm phát, GDP, thuế, trái phiếu, năng suất, tỷ giá
 
-## Tài liệu đã tổng hợp
+## Back to Basics
 
 - [Dutch Disease — Căn bệnh Hà Lan](Back%20to%20Basics/2003-03-dutch-disease.md) — F&D tháng 3/2003, Christine Ebrahim-zadeh
 - [Inequality — Bất bình đẳng](Back%20to%20Basics/2003-09-inequality.md) — F&D tháng 9/2003, Prakash Loungani
@@ -68,3 +68,7 @@ Back to Basics: Rất phù hợp để học các khái niệm như lạm phát,
 - [The Art of Taxation — Nghệ thuật đánh thuế](Back%20to%20Basics/2026-03-the-art-of-taxation.md) — F&D tháng 3/2026, Katherine Baer và Ruud de Mooij
 - [Raw Materials that Rule — Hàng hoá cơ bản](Back%20to%20Basics/2026-06-raw-materials-that-rule.md) — F&D tháng 6/2026, Jean-Marc Natal
 - [A World Seeking Balance — Mất cân bằng toàn cầu](Back%20to%20Basics/2026-09-a-world-seeking-balance.md) — F&D tháng 9/2026, Manasa Patnam
+
+## AI and Fintech
+
+- [AI Meets Fiscal Policy: Mapping Government Spending Actions Across 64 Countries — AI và chính sách tài khoá](AI%20and%20Fintech/2026-wp043-ai-meets-fiscal-policy.md) — IMF Working Paper WP/2026/043 (PDF thiếu trang bìa và trang tác giả)
