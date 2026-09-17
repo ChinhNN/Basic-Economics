@@ -3,6 +3,9 @@ Back to Basics: Rất phù hợp để học các khái niệm như lạm phát,
 
 ## Tài liệu đã tổng hợp
 
+- [What Is Sovereign Debt? — Nợ công là gì?](Back%20to%20Basics/2022-12-what-is-sovereign-debt.md) — F&D tháng 12/2022, S. M. Ali Abbas và Alex Pienkowski
+- [Price Prediction — Kỳ vọng lạm phát](Back%20to%20Basics/2023-03-price-prediction.md) — F&D tháng 3/2023, Francesco Grigoli
+- [Subsidy Wars — Chiến tranh trợ cấp](Back%20to%20Basics/2023-06-subsidy-wars.md) — F&D tháng 6/2023, Elizabeth Van Heuvelen
 - [Resilient Remittances — Kiều hối bền bỉ](Back%20to%20Basics/2023-09-resilient-remittances.md) — F&D tháng 9/2023, Dilip Ratha
 - [Artificial Intelligence's Promise and Peril — Hứa hẹn và hiểm hoạ của AI](Back%20to%20Basics/2023-12-artificial-intelligences-promise-and-peril.md) — F&D tháng 12/2023, Hervé Tourpe
 - [What Is Inclusive Growth? — Tăng trưởng bao trùm](Back%20to%20Basics/2024-03-what-is-inclusive-growth.md) — F&D tháng 3/2024, Ruchir Agarwal
@@ -14,3 +17,4 @@ Back to Basics: Rất phù hợp để học các khái niệm như lạm phát,
 - [How Does the IMF Finance Itself? — IMF tự tài trợ bằng cách nào?](Back%20to%20Basics/2025-12-how-does-the-imf-finance-itself.md) — F&D tháng 12/2025, Anna Postelnyak
 - [The Art of Taxation — Nghệ thuật đánh thuế](Back%20to%20Basics/2026-03-the-art-of-taxation.md) — F&D tháng 3/2026, Katherine Baer và Ruud de Mooij
 - [Raw Materials that Rule — Hàng hoá cơ bản](Back%20to%20Basics/2026-06-raw-materials-that-rule.md) — F&D tháng 6/2026, Jean-Marc Natal
+- [A World Seeking Balance — Mất cân bằng toàn cầu](Back%20to%20Basics/2026-09-a-world-seeking-balance.md) — F&D tháng 9/2026, Manasa Patnam
