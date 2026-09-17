@@ -4,6 +4,25 @@ Back to Basics: Rất phù hợp để học các khái niệm như lạm phát,
 ## Tài liệu đã tổng hợp
 
 - [Dutch Disease — Căn bệnh Hà Lan](Back%20to%20Basics/2003-03-dutch-disease.md) — F&D tháng 3/2003, Christine Ebrahim-zadeh
+- [Inequality — Bất bình đẳng](Back%20to%20Basics/2003-09-inequality.md) — F&D tháng 9/2003, Prakash Loungani
+- [Trading Places: Measuring Income Mobility — Dịch chuyển thu nhập](Back%20to%20Basics/2004-03-measuring-income-mobility.md) — F&D tháng 3/2004, Prakash Loungani
+- [Liberalizing Capital Account Restrictions — Tự do hoá tài khoản vốn](Back%20to%20Basics/2004-09-liberalizing-capital-account-restrictions.md) — F&D tháng 9/2004, M. Ayhan Kose và Eswar Prasad
+- [Dollarization: Controlling Risk Is Key — Đô la hoá](Back%20to%20Basics/2005-03-dollarization.md) — F&D tháng 3/2005, Socorro Heysen
+- [Fiscal Space: What It Is and How to Get It — Dư địa tài khoá](Back%20to%20Basics/2005-06-fiscal-space.md) — F&D tháng 6/2005, Peter Heller
+- [10 Myths About Governance and Corruption — Quản trị và tham nhũng](Back%20to%20Basics/2005-09-myths-about-governance-and-corruption.md) — F&D tháng 9/2005, Daniel Kaufmann
+- [Remittances: A Lifeline for Development — Kiều hối](Back%20to%20Basics/2005-12-remittances-a-lifeline-for-development.md) — F&D tháng 12/2005, Dilip Ratha
+- [Regressions: Why Are Economists Obsessed with Them? — Hồi quy](Back%20to%20Basics/2006-03-regressions.md) — F&D tháng 3/2006, Rodney Ramcharan
+- [Demystifying Hedge Funds — Quỹ đầu cơ](Back%20to%20Basics/2006-06-demystifying-hedge-funds.md) — F&D tháng 6/2006, Angel Ubide
+- [Do Current Account Deficits Matter? — Thâm hụt tài khoản vãng lai](Back%20to%20Basics/2006-12-do-current-account-deficits-matter.md) — F&D tháng 12/2006, Atish Ghosh và Uma Ramakrishnan
+- [Microfinance: Banking for the Poor — Tài chính vi mô](Back%20to%20Basics/2007-06-microfinance-banking-for-the-poor.md) — F&D tháng 6/2007, Ina Kota
+- [Exchange Rate Regimes: Fix or Float? — Chế độ tỷ giá](Back%20to%20Basics/2008-03-exchange-rate-regimes-fix-or-float.md) — F&D tháng 3/2008, Mark Stone, Harald Anderson và Romain Veyrune
+- [Over-the-Counter Markets — Thị trường phi tập trung](Back%20to%20Basics/2008-06-over-the-counter-markets.md) — F&D tháng 6/2008, Randall Dodd
+- [What Is a Recession? — Suy thoái là gì?](Back%20to%20Basics/2009-03-what-is-a-recession.md) — F&D tháng 3/2009, Stijn Claessens và M. Ayhan Kose
+- [What Is Fiscal Policy? — Chính sách tài khoá](Back%20to%20Basics/2009-06-what-is-fiscal-policy.md) — F&D tháng 6/2009, Mark Horton và Asmaa El-Ganainy
+- [What Is Monetary Policy? — Chính sách tiền tệ](Back%20to%20Basics/2009-09-what-is-monetary-policy.md) — F&D tháng 9/2009, Koshy Mathai
+- [Why Countries Trade — Vì sao các nước giao thương](Back%20to%20Basics/2009-12-why-countries-trade.md) — F&D tháng 12/2009, Brad McDonald
+- [What Is Inflation? — Lạm phát là gì?](Back%20to%20Basics/2010-03-what-is-inflation.md) — F&D tháng 3/2010, Ceyda Oner
+- [Supply and Demand — Cung và cầu](Back%20to%20Basics/2010-06-supply-and-demand.md) — F&D tháng 6/2010, Irena Asmundson
 - [The Big and the Small Picture — Vĩ mô và vi mô](Back%20to%20Basics/2011-09-the-big-and-the-small-picture.md) — F&D tháng 9/2011, G. Chris Rodrigo
 - [What Is Econometrics? — Kinh tế lượng](Back%20to%20Basics/2011-12-what-is-econometrics.md) — F&D tháng 12/2011, Sam Ouliaris
 - [What Is a Bank? — Ngân hàng là gì?](Back%20to%20Basics/2012-03-what-is-a-bank.md) — F&D tháng 3/2012, Jeanne Gobat
@@ -21,6 +40,7 @@ Back to Basics: Rất phù hợp để học các khái niệm như lạm phát,
 - [What Is Capitalism? — Chủ nghĩa tư bản](Back%20to%20Basics/2015-06-what-is-capitalism.md) — F&D tháng 6/2015, Sarwat Jahan và Ahmed Saber Mahmud
 - [What Is Direct Investment? — Đầu tư trực tiếp](Back%20to%20Basics/2015-09-what-is-direct-investment.md) — F&D tháng 9/2015, Tadeusz Galeza và James Chan
 - [Strategic Thinking — Lý thuyết trò chơi](Back%20to%20Basics/2015-12-strategic-thinking.md) — F&D tháng 12/2015, Sarwat Jahan và Ahmed Saber Mahmud
+- [What Are Cryptocurrencies? — Tiền mã hoá](Back%20to%20Basics/2018-06-what-are-cryptocurrencies.md) — F&D tháng 6/2018, Antoine Bouveret và Vikram Haksar (PDF chỉ có trang đầu)
 - [Subsidies: Some Work, Others Don't — Trợ cấp](Back%20to%20Basics/2018-09-subsidies-some-work-others-dont.md) — F&D tháng 9/2018, Benedict J. Clements và Ian Parry
 - [What Is Universal Basic Income? — Thu nhập cơ bản phổ quát](Back%20to%20Basics/2018-12-what-is-universal-basic-income.md) — F&D tháng 12/2018, Maura Francese và Delphine Prady (PDF chỉ có trang đầu)
 - [Does a Minimum Wage Help Workers? — Lương tối thiểu có giúp người lao động?](Back%20to%20Basics/2019-03-does-a-minimum-wage-help-workers.md) — F&D tháng 3/2019, Piyaporn Sodsriwiboon và Gabriel Srour (PDF chỉ có trang đầu)
