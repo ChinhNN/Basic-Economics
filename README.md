@@ -3,6 +3,16 @@ Back to Basics: Rất phù hợp để học các khái niệm như lạm phát,
 
 ## Tài liệu đã tổng hợp
 
+- [Does a Minimum Wage Help Workers? — Lương tối thiểu có giúp người lao động?](Back%20to%20Basics/2019-03-does-a-minimum-wage-help-workers.md) — F&D tháng 3/2019, Piyaporn Sodsriwiboon và Gabriel Srour (PDF chỉ có trang đầu)
+- [What Is Stress Testing? — Kiểm tra sức chịu đựng](Back%20to%20Basics/2019-09-what-is-stress-testing.md) — F&D tháng 9/2019, Martin Čihák, Hiroko Oura và Liliana Schumacher
+- [How Can Interest Rates Be Negative? — Lãi suất âm](Back%20to%20Basics/2020-03-how-can-interest-rates-be-negative.md) — F&D tháng 3/2020, Vikram Haksar và Emanuel Kopp
+- [What Is Debt Sustainability? — Bền vững nợ](Back%20to%20Basics/2020-09-what-is-debt-sustainability.md) — F&D tháng 9/2020, Dalia Hakura
+- [Risk and Return: The Search for Yield — Cuộc săn lợi suất](Back%20to%20Basics/2021-06-risk-and-return-the-search-for-yield.md) — F&D tháng 6/2021, Jay Surti
+- [What Is Mitigation vs Adaptation? — Giảm nhẹ và thích ứng khí hậu](Back%20to%20Basics/2021-09-what-is-mitigation-vs-adaptation.md) — F&D tháng 9/2021, Adam Behsudi
+- [What Are Global Public Goods? — Hàng hoá công toàn cầu](Back%20to%20Basics/2021-12-what-are-global-public-goods.md) — F&D tháng 12/2021, Moya Chin
+- [Value-Added Tax Continues to Expand — Thuế giá trị gia tăng](Back%20to%20Basics/2022-03-value-added-tax-continues-to-expand.md) — F&D tháng 3/2022, Ruud de Mooij và Artur Swistak
+- [The Stretch of Supply Chains — Chuỗi cung ứng kéo dài](Back%20to%20Basics/2022-06-the-stretch-of-supply-chains.md) — F&D tháng 6/2022, Diego A. Cerdeiro và Niels-Jakob H. Hansen
+- [Crypto's Conservative Coins — Stablecoin](Back%20to%20Basics/2022-09-cryptos-conservative-coins.md) — F&D tháng 9/2022, Parma Bains và Ranjit Singh
 - [What Is Sovereign Debt? — Nợ công là gì?](Back%20to%20Basics/2022-12-what-is-sovereign-debt.md) — F&D tháng 12/2022, S. M. Ali Abbas và Alex Pienkowski
 - [Price Prediction — Kỳ vọng lạm phát](Back%20to%20Basics/2023-03-price-prediction.md) — F&D tháng 3/2023, Francesco Grigoli
 - [Subsidy Wars — Chiến tranh trợ cấp](Back%20to%20Basics/2023-06-subsidy-wars.md) — F&D tháng 6/2023, Elizabeth Van Heuvelen
