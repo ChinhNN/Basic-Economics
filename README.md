@@ -110,3 +110,7 @@ Back to Basics: Rất phù hợp để học các khái niệm như lạm phát,
 - [Gulf Cooperation Council Diversification: The Role of Foreign Investments and Sovereign Wealth Funds — Đa dạng hoá kinh tế vùng Vịnh: vai trò của đầu tư nước ngoài và quỹ tài sản quốc gia](Capital%20Flows/2025-gcc-diversification-foreign-investment-swf.md) — Working Paper WP/25/174 (bản PDF bắt đầu từ trang 5, không có trang tác giả)
 - [Payment Frictions, Capital Flows, and Exchange Rates — Ma sát thanh toán, dòng vốn và tỷ giá](Capital%20Flows/2025-payment-frictions-capital-flows-exchange-rates.md) — Working Paper WP/2025/171 (bản PDF không có trang bìa và trang tác giả)
 - [Measuring Global Trade Policy Activity — Đo lường hoạt động chính sách thương mại toàn cầu](Capital%20Flows/2026-measuring-global-trade-policy-activity.md) — IMF Working Paper (không có số hiệu trong bản PDF), Samuele Centorrino, Antonia Diakantoni, Alexander Keck, Michele Ruta, Monika Sztajerowska, Yuting Wei
+
+## Public Investment and Public Debt
+
+- [Frontier Markets: Analyzing Drivers of Market Growth and Sovereign Risks — Thị trường cận biên: động lực phát triển thị trường và rủi ro nợ chính phủ](Public%20Investment%20and%20Public%20Debt/2026-frontier-markets-drivers-sovereign-risks.md) — Working Paper WP/26/140, tháng 7/2026, Younes Takki Chebihi, Naoya Kato, Maxwell Kushnir, Andreja Lenarčič, Yinhao Sun, Bilal Tabti
