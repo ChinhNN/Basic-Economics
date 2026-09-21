@@ -401,7 +401,7 @@ Một dấu hiệu đáng lưu ý trong chính bảng kết quả: các hệ s�
 
 Ngoài ra, thước đo chỉ đếm **số lần** củng cố, không đo **quy mô**. Một người Hungary trải qua đúng một đợt năm 1985 và một người Pháp trải qua hàng chục đợt nhỏ từ 1969 được so sánh trên cùng một thang, dù cường độ trải nghiệm có thể ngược lại.
 
-### Thí nghiệm thông tin thành công về mặt khoa học và thất bại về mặt chính sách
+### Thí nghiệm thông tin, và ba cơ chế chuyển được sang Việt Nam
 
 Thiết kế thí nghiệm rất tốt: ba nhánh xếp chồng, các nhóm cân bằng, và quan trọng nhất là bằng chứng rằng tác động đến từ **người bị bất ngờ** — người có niềm tin ban đầu lệch ngược chiều với thông tin — chứ không phải từ hiệu ứng mồi. Đó là bằng chứng thuyết phục rằng đây là cập nhật niềm tin thật.
 
@@ -410,8 +410,6 @@ Nhưng độ lớn thì rất nhỏ: **0,06 tới 0,11 độ lệch chuẩn**, t
 Điều này đặt phần kết luận vào thế khó. Bài khuyến nghị giáo dục, minh bạch và truyền thông nhắm đích như công cụ tăng ủng hộ cho các cải cách khó về chính trị. Nhưng kết quả của chính bài cho thấy: cung cấp đúng con số nợ trong điều kiện thí nghiệm lý tưởng — người trả lời đang tập trung, thông tin ngắn gọn, không có thông điệp cạnh tranh — dịch chuyển kỳ vọng chưa tới ba phần trăm. Trong đời thực, cùng thông tin đó phải cạnh tranh với truyền thông đảng phái và sự thờ ơ.
 
 Cách đọc trung thực hơn: **thông tin dịch chuyển niềm tin theo đúng chiều, nhưng không đủ để tạo ra một liên minh chính trị**. Điều thực sự quyết định kỳ vọng, theo chính phân tích rừng ngẫu nhiên của bài, là **hiệu ứng cố định nước và lòng tin vào chính phủ** — tức khế ước xã hội và thể chế, những thứ không thay đổi bằng một đoạn thông tin.
-
-### Với Việt Nam: mẫu không áp dụng được, nhưng ba cơ chế thì có
 
 Cần nói thẳng về giới hạn ngoại suy. Mười ba nước trong mẫu gồm chín nước phát triển cộng Argentina, Brazil, Hungary và Ba Lan. Không có nước châu Á mới nổi nào ngoài Nhật. Không có nước nào có cấu trúc chính trị và môi trường truyền thông tương tự Việt Nam. Các con số cụ thể — 63% kỳ vọng tăng thuế, 35% kỳ vọng cắt chi — không có ý nghĩa gì khi chuyển sang bối cảnh Việt Nam.
 

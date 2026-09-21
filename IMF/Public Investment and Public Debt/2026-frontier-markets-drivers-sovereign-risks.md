@@ -383,7 +383,7 @@ Bài giải thích diễn biến tài khoá bằng một câu trung tính: tiế
 
 Nếu đúng vậy thì việc lên hạng thị trường cận biên là một **sự kiện rủi ro đạo đức**, và toàn bộ giọng lạc quan của khái niệm "ngọn hải đăng" cần được đọc lại. Bài đưa ra tất cả dữ kiện cần thiết và dừng lại ngay trước kết luận.
 
-### Mệnh đề "thị trường cận biên mong manh" không đúng như phát biểu
+### Hai cách phải phát biểu lại kết quả về độ nhạy
 
 Câu được trích nhiều nhất của bài nói rằng độ nhạy của chênh lệch lợi suất thị trường cận biên ngang với thị trường mới nổi, và điều đó **cho thấy sự mong manh trong tiếp cận thị trường của họ**.
 
@@ -392,8 +392,6 @@ Nhưng chính bài chứng minh rằng con số bình quân đó là trung bình
 Đây không phải sự khác biệt về mức độ mà là sự khác biệt giữa **có phản ứng** và **không phản ứng**. Một thị trường cận biên có đệm gần như **miễn nhiễm** với chu kỳ tiền tệ Mỹ trong dữ liệu này.
 
 Phát biểu đúng vì thế phải là: **tiếp cận thị trường của một nước thị trường cận biên không có đệm là mong manh; tiếp cận thị trường của một nước có đệm thì không**. Và đó là một thông điệp chính sách hoàn toàn khác — nó nói rằng sự mong manh là một lựa chọn chính sách chứ không phải một thuộc tính của nhóm thu nhập.
-
-### Kết quả ba tầng thực ra là kết quả hai tầng cộng một khoảng trống đo lường
 
 Bức tranh ba nhóm — thị trường cận biên và mới nổi phản ứng giống nhau, còn nhóm thu nhập thấp chưa phải cận biên thì không phản ứng có ý nghĩa — được trình bày như một phát hiện về cấu trúc.
 
@@ -419,7 +417,7 @@ Bài gọi hiệu quả chính phủ là "tín hiệu tốt nhất cho nhà đ�
 
 Điều này đáng đặt cạnh tài liệu về tác động của tham nhũng trong cùng thư mục, nơi tham nhũng được đo là làm giảm đầu tư tư nhân và tăng trưởng. Hai kết quả không mâu thuẫn — chúng nói về hai loại nhà đầu tư và hai chân trời khác nhau — nhưng đặt cạnh nhau thì hiện ra một khoảng trống thật: **kênh kỷ luật thị trường không chạm tới tham nhũng.** Nếu một nước muốn giảm tham nhũng, động lực phải đến từ nơi khác, vì chi phí vốn quốc tế sẽ không trừng phạt nó.
 
-### Đối chiếu với thị trường mới nổi hé lộ một hạn sử dụng cho lời khuyên về tỷ giá
+### Một hạn sử dụng cho lời khuyên về tỷ giá, và một kết quả âm đáng ghi nhận
 
 Kết quả nổi bật nhất trong phần đệm là tỷ giá thả nổi: với thị trường cận biên, nó đưa phản ứng về gần **0**.
 
@@ -428,8 +426,6 @@ Nhưng với thị trường mới nổi, nó **không** làm giảm phản ứn
 Có một cách giải thích cụ thể hơn và có hàm ý thực tiễn rõ hơn. Ở một thị trường mới nổi, tỷ giá thả nổi thường đi cùng với thị trường tài chính sâu hơn và **sự tham gia lớn của nhà đầu tư nước ngoài vào nợ bằng nội tệ**. Khi đó tỷ giá không còn là tấm đệm hấp thụ cú sốc mà trở thành **một kênh truyền dẫn**: đồng tiền mất giá làm nhà đầu tư ngoại lỗ tính bằng đô la, họ bán ra, tỷ giá mất giá thêm, chênh lệch lợi suất rộng ra. Đây chính là lập luận về chu kỳ tài chính toàn cầu vốn đặt dấu hỏi cho bộ ba bất khả thi cổ điển, và bài không đề cập tới nó.
 
 Nếu cách giải thích này đúng thì lời khuyên "thả nổi để được che chắn" có **hạn sử dụng**: nó hiệu quả khi mức tham gia của nhà đầu tư ngoại vào thị trường nội tệ còn thấp, và mất hiệu lực khi thị trường sâu lên. Đó là một điều rất đáng biết với bất kỳ nước nào đang trên đường từ cận biên lên mới nổi, vì đúng quá trình chuyển đổi đó cũng là quá trình làm mất tác dụng của tấm đệm.
-
-### Một kết quả âm nhỏ nhưng có ý nghĩa
 
 Bài ghi nhận rằng **thời gian ở lại nhóm thị trường cận biên dài hay ngắn không liên quan tới việc có lên được thị trường mới nổi hay không**.
 

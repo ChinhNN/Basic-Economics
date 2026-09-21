@@ -388,7 +388,7 @@ Khi có chủ nợ lớn, xuất hiện thêm số hạng ∂x/∂b' > 0. Phát 
 
 Cũng vì thế, cơ chế này áp dụng rộng hơn phạm vi mà bài nhắm tới. Bất kỳ chủ nợ nào có **giá trị tăng lên khi con nợ gặp khó khăn** đều tạo ra cùng độ co giãn chéo đó — kể cả một ngân hàng trong nước độc quyền cấp tín dụng cho một chính quyền địa phương, hay một định chế chính sách là người mua cuối cùng cho trái phiếu doanh nghiệp nhà nước.
 
-### Chủ nợ trung tính rủi ro tự nhiên trở thành kẻ cho vay nặng lãi, không cần một chút ác ý nào
+### Chủ nợ trở thành kẻ cho vay nặng lãi, và vì sao 3% GDP đủ gây hại
 
 Mô tả hành vi của chủ nợ trong mô hình đáng được đọc chậm. Khi nợ và thu nhập của con nợ còn thấp, chủ nợ cho vay ở lãi suất **trợ giá, có khi âm tới khoảng −7%**, để kéo con nợ vào vùng nợ cao. Khi nợ đã cao và việc trả hết trở nên khó, điểm đe doạ của con nợ yếu đi và lãi suất được đẩy lên **5–15%**. Quanh thời điểm vỡ nợ, lãi suất song phương vọt lên **khoảng 19–20%** và chủ nợ thu lời suốt thời gian con nợ bị loại khỏi thị trường.
 
@@ -396,15 +396,13 @@ Hàm giá trị của chủ nợ lồi theo quy mô khoản vay, nên một ch�
 
 Đây là một mô tả gọn ghẽ của cấu trúc cho vay săn mồi, và điều khiến nó đáng chú ý là nó **xuất hiện nội sinh** từ một bài toán tối đa hoá lợi nhuận thuần tuý. Không cần giả định bất kỳ ý đồ nào. Hệ quả phân phối thì rõ: lợi nhuận của chủ nợ được tối đa hoá đúng ở những trạng thái mà phúc lợi của con nợ ở mức thấp nhất. Quan hệ này mang tính đối kháng đúng vào lúc con nợ cần nó nhất.
 
-### Vì sao 3% GDP lại gây ra chừng ấy thiệt hại: câu trả lời là kỳ hạn, không phải quy mô
-
 Con số gây ấn tượng nhất của bài là sự mất cân xứng: một khoản vay song phương trung bình chỉ khoảng **3% GDP**, tức nhỏ hơn nợ thị trường một bậc độ lớn, nhưng làm tần suất vỡ nợ tăng **từ 5,7% lên 13%** và chênh lệch lợi suất từ **714 lên 2.105 điểm cơ bản**.
 
 Lời giải thích của bài rất đáng nhớ và có giá trị thực tiễn trực tiếp. Nợ thị trường trong mô hình là dài hạn với coupon giảm dần, nên mỗi kỳ chỉ một phần nhỏ đến hạn. Khoản vay song phương thì **ngắn hạn và phải tái tục toàn bộ mỗi kỳ**. Vì thế biến động lãi suất trên 3% GDP nợ ngắn hạn tác động lên ngân sách kỳ này ngang với biến động lãi suất trên một khối nợ thị trường lớn hơn nhiều lần.
 
 Từ đó rút ra một chỉ báo rủi ro rất cụ thể: **mức nguy hiểm của một khoản vay tỷ lệ với tần suất phải quay vòng nó, không tỷ lệ với dư nợ**. Một hạn mức hoán đổi 90 ngày trị giá 2% GDP có thể nguy hiểm hơn một khoản vay ưu đãi 30 năm trị giá 10% GDP. Không một thước đo nợ trên GDP thông dụng nào nắm được sự phân biệt này.
 
-### Phép thử mà bài đề xuất rất hay và gần như không dùng được ở nơi cần nó nhất
+### Phép thử khó dùng ở nơi cần nó nhất, và trọng lượng đúng của các con số
 
 Bài kết thúc bằng một chỉ báo chẩn đoán đơn giản và thông minh: **điều khoản song phương có tốt lên khi nợ hoặc chênh lệch lợi suất thị trường tăng không?** Nếu có, đó là dấu hiệu của vay quá mức do quan hệ và nhiều khả năng gây hại phúc lợi. Nếu điều khoản tốt lên khi nợ thấp, đó là chủ nợ đang hỗ trợ bền vững nợ.
 
@@ -413,8 +411,6 @@ Phép thử này chỉ cần dữ liệu chuỗi thời gian về lãi suất so
 Vấn đề nằm ở chính điều bài ghi nhận ngay từ hình đầu tiên: hạn mức hoán đổi của ngân hàng trung ương **thường không nằm trong số liệu nợ công và nợ được bảo lãnh**, và lãi suất cùng kỳ hạn thường được **giữ bí mật**. Nghĩa là dữ liệu cần thiết để chạy phép thử bị giấu chính xác ở những quan hệ có nhiều khả năng thất bại phép thử nhất.
 
 Đây không phải một sơ suất của bài mà là một vòng lặp kín trong thực tế: các thoả thuận có động cơ lệch lạc nhất là các thoả thuận có điều khoản bảo mật chặt nhất, vì chính sự bảo mật là điều kiện để thương lượng lại từng kỳ diễn ra. Nó củng cố lập luận rằng yêu cầu công bố là biện pháp chính sách có tỷ suất cao nhất — cao hơn bất kỳ hạn mức hay quy tắc định lượng nào.
-
-### Cần đọc con số phúc lợi với đúng trọng lượng của nó
 
 Đây là một mô hình định lượng được hiệu chỉnh, không phải bằng chứng thực nghiệm, và ba hạn chế cần nhớ khi trích dẫn.
 

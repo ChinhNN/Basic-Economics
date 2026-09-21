@@ -798,7 +798,7 @@ Nhưng điều thực sự đã xảy ra là một cuộc chuyển giao tài s�
 
 Rồi bài đưa ra một nhận định làm nhẹ đi toàn bộ chuyện này: mức dung thứ lạm phát cao hơn ở Nhóm 1 phản ánh **sắp xếp thể chế** và lựa chọn tiền tệ rộng hơn, **không phải** mục tiêu giảm nợ một cách minh thị. Có thể đúng về mặt lịch sử. Nhưng nó không thay đổi được kết quả: hệ quả phân phối không phụ thuộc vào việc có ai chủ ý hay không. Việc dùng lập luận về ý định để làm mềm một kết quả về phân phối là một bước lùi mà một bài vốn rất chặt chẽ không cần phải làm.
 
-### Với Việt Nam, giá trị của bài nằm ở bộ chẩn đoán bốn chiều, không ở kết luận
+### Với Việt Nam: bộ chẩn đoán bốn chiều, và giới hạn của chính tài liệu
 
 Bài chỉ xét 13 nước phát triển và loại nước đang phát triển vì thiếu dữ liệu dài. Nhưng bốn chiều phân rã — đồng tiền phát hành, kỳ hạn, hồ sơ người nắm giữ, tính giao dịch được — là đúng bộ câu hỏi cần đặt cho thị trường trái phiếu chính phủ Việt Nam, và kết quả sẽ không dễ chịu.
 
@@ -807,8 +807,6 @@ Bài chỉ xét 13 nước phát triển và loại nước đang phát triển 
 **Về phía cầu**, có một hàm ý chính sách ít ai nghĩ tới. Động cơ cho phép các nước phát triển vừa tăng nợ vừa kéo dài kỳ hạn trong ba thập kỷ là **khu vực tiết kiệm theo hợp đồng**: quỹ hưu trí và công ty bảo hiểm có nghĩa vụ dài hạn nên có khẩu vị tự nhiên với giấy tờ dài hạn. Nghĩa là phát triển ngành bảo hiểm nhân thọ và hệ thống hưu trí bổ sung ở Việt Nam không chỉ là chính sách thị trường tài chính; nó là **chính sách quản lý nợ công**. Nó tạo ra người mua tự nguyện cho trái phiếu 20 và 30 năm, thay cho việc ép ngân hàng — vốn có nghĩa vụ ngắn hạn — cầm giấy dài hạn và tích tụ rủi ro kỳ hạn trong hệ thống.
 
 **Về mở cửa cho người không cư trú**, bài cho một bài học hai mặt. Tỷ trọng ngoại cao đã giúp các nước phát triển tài trợ nợ với kỳ hạn dài và chi phí thấp. Nhưng đó cũng chính là thứ làm cho lối thoát bằng lạm phát và áp chế không còn khả dụng, và là kênh lây truyền của một cú dừng đột ngột — điểm được khai thác kỹ trong nhánh tài liệu về dòng vốn của repo. Mở cửa thị trường trái phiếu nội tệ cho nhà đầu tư ngoại là một lựa chọn đánh đổi giữa chi phí vay thấp hơn hôm nay và mất độ tự do chính sách về sau, chứ không phải một cải cách thuần cải thiện.
-
-### Một tài liệu đo lường trung thực về chính giới hạn của nó
 
 Cần ghi nhận đúng bản chất của bài: đây là công trình **dựng dữ liệu**, không phải công trình nhận dạng nhân quả. Bài tự nói rằng không có khung lý thuyết nào diễn giải thống nhất được các mẫu hình nó ghi nhận, rằng số liệu cơ cấu nợ "khó tìm đến kinh ngạc", rằng không bảo đảm được tính nhất quán định nghĩa giữa các nước và thậm chí trong cùng một chuỗi, và rằng một phần dao động năm này qua năm khác chỉ do có nước mới gia nhập mẫu. Với giai đoạn trước 1970, tỷ trọng người không cư trú còn được **giả định** bằng cách coi nhà đầu tư ngoại nắm toàn bộ nợ ngoại tệ và không nắm đồng nợ nội tệ nào.
 

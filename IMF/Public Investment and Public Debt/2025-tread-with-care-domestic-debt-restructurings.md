@@ -495,7 +495,7 @@ Và từ đó ra chính cái "nghịch lý": DDR cho nhẹ nợ ít **bởi vì*
 
 Hệ quả phân phối cần được nói thẳng: một cuộc DDR là khoản chuyển giao từ **người tiết kiệm và người hưởng lương hưu tương lai** sang **người nộp thuế hiện tại và ngân sách**. Bài nhắc tới "tác động phân phối" đúng một lần trong phần mở đầu rồi không quay lại. Với một công cụ mà toàn bộ vấn đề nằm ở chỗ ai trả tiền, đó là một khoảng trống lớn.
 
-### Kết quả về phát triển tài chính đảo ngược một khuyến nghị chuẩn mực
+### Hai điều kiện quyết định kết quả: độ sâu tài chính và dự trữ ngoại hối
 
 Phát hiện gây khó chịu nhất: DDR ở nước có hệ thống tài chính **kém phát triển** cho nhẹ nợ **nhiều nhất** và **không có chi phí trung hạn có ý nghĩa**; ở nước tài chính **sâu** thì nhẹ nợ ít hơn và chi phí cao hơn. Cơ chế là hệ thống tài chính sâu truyền cú sốc rộng hơn qua kênh tín dụng.
 
@@ -504,8 +504,6 @@ Phát biểu lại cho thẳng thắn: **phát triển tài chính làm giảm k
 Thông thường điều này được coi là tin tốt — đó chính là kỷ luật thị trường. Nhưng kết quả của bài biến nó thành một ràng buộc có chi phí. Một nước càng xây dựng thị trường trái phiếu nội địa sâu rộng — điều mà mọi sổ tay quản lý nợ, kể cả tài liệu về kế hoạch vay nợ hằng năm trong cùng thư mục này, đều thúc giục — thì càng **đóng lại một trong các lối thoát khủng hoảng của chính mình**, và làm cho lối thoát đó đắt hơn nếu buộc phải dùng.
 
 Đây là một đánh đổi liên thời kỳ mà không tài liệu nào trong hai nhánh đặt cạnh nhau. Nó không hàm ý rằng đừng phát triển thị trường nội địa — lợi ích của việc đó rõ ràng và lớn. Nhưng nó có nghĩa là phát triển thị trường nội địa **làm tăng cái giá của việc để nợ trượt ra ngoài kiểm soát**, vì nó thu hẹp tập hợp các cách xử lý ít tốn kém.
-
-### Kết quả về dự trữ ngoại hối là phát hiện thực tiễn quan trọng nhất và bị để ở cuối bài
 
 Trong bảng phân tích theo bối cảnh có một dòng đáng ra phải nằm ở phần tóm tắt. Khi dự trữ ngoại hối **thấp**, DDR **không làm nợ và chi trả lãi giảm có ý nghĩa thống kê**, trong khi GDP và tín dụng vẫn co mạnh.
 

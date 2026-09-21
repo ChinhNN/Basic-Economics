@@ -560,7 +560,7 @@ Có một chi tiết kỹ thuật trong ví dụ minh hoạ của ghi chú đán
 
 Hệ quả thực tiễn rất cụ thể. Khi đánh giá xem thị trường trong nước có hấp thụ nổi chương trình phát hành hay không, con số phải dùng là tổng khối lượng đấu giá dự kiến trong năm, không phải nhu cầu tài trợ gộp. Với một nước có chương trình tín phiếu lớn, hai con số này có thể chênh nhau vài chục phần trăm. Và đây cũng chính là lý do một khối nợ ngắn hạn nhỏ về dư nợ lại tạo ra áp lực thị trường lớn — một điểm được chứng minh độc lập bằng mô hình trong tài liệu về nợ song phương ở cùng thư mục.
 
-### Toàn bộ bộ máy tinh vi này hoàn toàn dửng dưng với việc tiền được dùng làm gì
+### Hai điểm mù có chủ đích: tiền được dùng làm gì, và chu vi nào được lập kế hoạch
 
 Đây là nhận xét quan trọng nhất khi đặt tài liệu vào đúng thư mục của nó.
 
@@ -572,8 +572,6 @@ Quản lý nợ có một khung chuẩn quốc tế, một công cụ phân tíc
 
 Khâu thẩm định và lựa chọn dự án đầu tư công — việc quyết định **giá trị tạo ra trên mỗi đồng chi** — hiếm khi có được mức độ chuẩn hoá tương đương ở cùng một bộ. Và về mặt số học, một cải thiện 50 điểm cơ bản trong chi phí vay tạo ra giá trị nhỏ hơn nhiều so với việc tránh một dự án có suất sinh lời âm. Nhánh tài liệu về nợ và tăng trưởng trong thư mục này cho thấy nợ ảnh hưởng tăng trưởng chủ yếu qua kênh vốn trên mỗi lao động, tức là qua việc tiền vay có biến thành tài sản sản xuất hay không — đúng câu hỏi mà bộ máy quản lý nợ không được thiết kế để trả lời.
 
-### Phạm vi kế hoạch hẹp hơn phạm vi rủi ro, một cách có chủ đích
-
 ABP bao phủ **chính phủ trung ương**, và ghi chú nói rõ phạm vi phải trùng với chiến lược quản lý nợ, với khác biệt thường gặp là chiến lược có thể bao gồm cả nợ được bảo lãnh.
 
 Nghĩa là nợ của doanh nghiệp nhà nước, nghĩa vụ theo hợp đồng hợp tác công tư, và nợ của chính quyền địa phương nằm ngoài. Nhưng nhánh tài liệu về dễ tổn thương nợ của các nền kinh tế mới nổi trong cùng thư mục xác định chính xác những khoản đó là nguồn của các cú **nhảy nợ đột ngột**, và mô hình về mức nợ bền vững tối đa cho thấy tần suất nhảy nợ là tham số chi phối toàn bộ năng lực gánh nợ của một nước.
@@ -582,7 +580,7 @@ Kết quả là một sự lệch pha có hệ thống: bộ máy lập kế ho�
 
 Ghi chú không thể giải quyết điều này — nó là một sổ tay về vay nợ của chính phủ trung ương. Nhưng người đọc nên hiểu rằng việc có một ABP tốt không phải bằng chứng về kiểm soát rủi ro tài khoá; nó là bằng chứng về kiểm soát **một phần** rủi ro tài khoá.
 
-### Với Việt Nam: ba chỗ áp dụng được ngay và một chỗ cần thận trọng
+### Với Việt Nam, và giới hạn mà chính ghi chú thừa nhận
 
 **Thứ nhất, sự tham gia của đơn vị quản lý nợ vào khâu ước tính nhu cầu tài trợ trước khi con số được ấn định.** Ghi chú nêu đích danh các nước mà **luật ngân sách ấn định mức vay theo nguồn hoặc theo từng công cụ** — Kyrgyzstan, Nepal, Pakistan, Tajikistan — và nói rằng ở những nước đó, việc đưa đơn vị quản lý nợ vào sớm là đặc biệt quan trọng. Cấu trúc này mô tả đúng cơ chế của Việt Nam, nơi các hạn mức vay được quyết nghị ở cấp cao nhất trước khi năm ngân sách bắt đầu. Khi con số đã thành nghị quyết, nó trở thành một ràng buộc cứng chứ không còn là một mục tiêu có thể điều chỉnh, và toàn bộ gánh nặng thích ứng dồn xuống cơ cấu phát hành.
 
@@ -591,8 +589,6 @@ Ghi chú không thể giải quyết điều này — nó là một sổ tay v�
 **Thứ ba, uỷ ban phối hợp tiền mặt.** Một mô thức phổ biến ở các nước có Tài khoản Kho bạc Duy nhất chưa hợp nhất hoàn toàn là chính phủ vừa giữ số dư tiền mặt lớn tại ngân hàng trung ương vừa tiếp tục phát hành theo kế hoạch. Chi phí là kép: chênh lệch giữa lãi vay và lãi tiền gửi, cộng với tác động hút thanh khoản khỏi thị trường đúng lúc không cần thiết. Cơ chế mà ghi chú đề xuất — một uỷ ban do quan chức cấp cao chủ trì, rà soát dòng tiền thực tế và dự báo, và tối thiểu là điều chỉnh kế hoạch phát hành tín phiếu — là giải pháp trực tiếp cho tình huống này.
 
 **Chỗ cần thận trọng: lợi ích về phần bù rủi ro có thể không hiện thực hoá.** Lợi ích ④ của ghi chú — công bố lịch làm giảm bất đối xứng thông tin, do đó hạ phần bù rủi ro — giả định rằng cầu đối với trái phiếu chính phủ là **cầu thị trường phản ứng với giá**. Ở một thị trường mà người mua chi phối là các định chế trong nước có nghĩa vụ hoặc động cơ hành chính để nắm giữ, cầu không phản ứng với thông tin theo cách đó, và lợi suất quan sát được không phải một mức giá thị trường. Minh bạch vẫn đáng làm vì các lý do khác — kỷ luật nội bộ, chuẩn bị cho việc mở cửa sau này, và trách nhiệm giải trình — nhưng không nên kỳ vọng nó tự động chuyển thành chi phí vay thấp hơn. Đây là điểm được lập luận đầy đủ trong nhánh tài liệu về cơ cấu nợ và cơ sở nhà đầu tư của thư mục này.
-
-### Một tài liệu biết rõ nó không giải quyết được vấn đề gì
 
 Điểm đáng quý nhất của ghi chú là nó chẩn đoán đúng bệnh của chính lĩnh vực mình. Sau mười lăm năm phổ biến khung chiến lược quản lý nợ trung hạn, kết quả là nhiều nước **soạn và công bố được chiến lược nhưng không thực hiện được**. Đó là một mô thức rất quen thuộc trong hỗ trợ kỹ thuật quốc tế: văn bản được sản xuất vì văn bản là thứ đo đếm được và báo cáo được, trong khi năng lực vận hành thì không.
 

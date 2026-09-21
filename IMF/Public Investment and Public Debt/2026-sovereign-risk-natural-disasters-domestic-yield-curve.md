@@ -319,7 +319,7 @@ Nếu đúng vậy thì lo ngại mà chính bài nêu — rằng nhà đầu t�
 
 Câu hỏi còn lại, và nó là câu hỏi quan trọng hơn, là **chỉ số dễ tổn thương có cập nhật đủ nhanh không**. Bài ghi nhận rằng chỉ số này thay đổi rất chậm: trung vị chỉ tăng 0,5 điểm trong hai mươi năm. Nếu tần suất thiên tai thực tế đang tăng nhanh hơn tốc độ mà chỉ số phản ánh, thì việc định giá theo chỉ số cũng là định giá thấp — chỉ là định giá thấp một cách chậm hơn và ít nhìn thấy hơn.
 
-### Hệ số của biến dễ tổn thương lớn tới mức khó tin, và lời biện hộ không chạm vào vấn đề
+### Độ tin cậy rất khác nhau giữa hai nửa của bài
 
 Đây là chỗ cần dè dặt nhất. Các hệ số biến công cụ của mức dễ tổn thương khí hậu là **2,015 cho mọi kỳ hạn** và lên tới **6,033 cho kỳ hạn 2–3 năm**.
 
@@ -333,8 +333,6 @@ Và có một ứng viên rất rõ cho "thứ khác" đó. Chỉ số ND-GAIN �
 
 Kết quả về **thiên tai** thì không vướng vấn đề này, vì thời điểm thiên tai thực sự ngoại sinh. Đó là lý do phần đáng tin nhất của bài là phần thiên tai, và phần đáng ngờ nhất lại là phần được đưa lên làm kết luận thứ hai.
 
-### Ước lượng sạch nhất cho kết quả nhỏ nhất, và con số được trích lại là con số khác
-
 Phần tóm tắt nói hạn hán và bão làm lãi suất trung bình tăng **khoảng 80–100 điểm cơ bản**. Con số này đến từ đặc tả hiệu ứng cố định.
 
 Phép ước lượng có thiết kế nhận dạng tốt hơn — sai phân kép theo phép chiếu địa phương, với nhóm đối chứng sạch, đúng phương pháp để tránh thiên lệch của hiệu ứng cố định hai chiều khi tác động không đồng nhất — cho kết quả **nhỏ hơn đáng kể**: hạn hán đạt đỉnh khoảng **0,75 điểm phần trăm ở quý thứ ba** rồi tắt từ quý thứ năm; bão chỉ khoảng **0,3 điểm và chỉ có ý nghĩa ở quý đầu tiên**, ở kỳ hạn dưới một năm.
@@ -343,7 +341,7 @@ Phép ước lượng có thiết kế nhận dạng tốt hơn — sai phân k�
 
 Tóm tắt trung thực của bài nên là: **hạn hán làm tăng chi phí vay ngắn hạn trong nước khoảng 0,75 điểm phần trăm trong ba tới bốn quý; bão làm tăng khoảng 0,3 điểm trong một quý; lũ không có tác động đo được.** Đó là những con số vừa phải, hợp lý, và đáng tin hơn nhiều so với con số trong phần tóm tắt.
 
-### Kết quả âm về lũ lụt có thể là một sản phẩm của cách đo, không phải một phát hiện
+### Hai kết quả theo loại thiên tai cần được đọc lại
 
 Bài giải thích việc lũ không có tác động bằng hai lý do nội dung: lũ thường ngắn, và đôi khi còn có lợi cho nông nghiệp.
 
@@ -352,8 +350,6 @@ Nhưng có một lý do kỹ thuật khả dĩ hơn và bài không nêu. Biến
 Vấn đề này áp cho lũ mạnh hơn hẳn so với hạn hán và bão, vốn thưa hơn và do đó tạo ra biến thiên theo thời gian rõ hơn trong cùng một nước. Nghĩa là kết quả âm về lũ có thể đang phản ánh **tần suất** chứ không phải **tác động**.
 
 Đây không phải một lỗi mà là một giới hạn của thiết kế, và nó quan trọng với người đọc ở một nước mà lũ là loại thiên tai thường trực. Không nên đọc kết quả này thành "lũ lụt không ảnh hưởng tới chi phí vay".
-
-### Phần bù của bão hoá ra chủ yếu là cái giá của một lựa chọn chính sách tiền tệ
 
 Phần kiểm định kênh truyền dẫn chứa một kết quả mà bài không khai thác. Với **bão**, thêm nợ công vào hồi quy **không làm hệ số bão giảm** (1,129 xuống 1,156) — kênh nợ không hoạt động. Thêm lãi suất chính sách thì hệ số giảm xuống 0,831 — kênh tiền tệ có hoạt động.
 

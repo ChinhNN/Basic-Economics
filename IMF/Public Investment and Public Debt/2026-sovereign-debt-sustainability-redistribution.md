@@ -372,7 +372,7 @@ Vậy điều bài thực sự chứng minh là một mệnh đề có điều k
 
 Và có một hệ luận mà bài không đối mặt. Nếu bất bình đẳng cao nâng năng lực gánh nợ, thì **giảm bất bình đẳng thành công sẽ hạ năng lực gánh nợ**. Một chương trình cải thiện phân phối trước thuế — qua giáo dục, qua mở rộng cơ hội — sẽ làm giảm chính cái đang kỷ luật chính phủ trong mô hình này. Đưa ra như vậy thì rõ rằng cơ chế này hẹp hơn nhiều so với cách phát biểu: không phải bất bình đẳng tốt cho năng lực vay, mà là **nỗi đau của việc không thể tái phân phối** mới là thứ tạo ra kỷ luật.
 
-### Ràng buộc vay của mô hình nghịch chu kỳ, trong khi ràng buộc vay thực tế thuận chu kỳ
+### Hai giả định về hình phạt làm nên toàn bộ kết quả
 
 Đây là phê phán cấu trúc quan trọng nhất, và nó chạm thẳng vào kết luận chính sách được trích nhiều nhất.
 
@@ -385,8 +385,6 @@ Nhưng đây là điều ngược với mọi thứ quan sát được. Trong th
 Và kết luận chính sách nổi bật nhất của bài — **thắt lưng buộc bụng tối ưu nên diễn ra từ từ hơn khi có bất bình đẳng** — dựa trực tiếp vào đặc tính nghịch chu kỳ này. Chính phủ được vay thêm lúc khó khăn vì mô hình cho phép nó vay thêm lúc khó khăn. Một nước thật trong tình huống đó thường không có lựa chọn ấy.
 
 Nghĩa là lời khuyên "điều chỉnh từ từ" đúng trong một thế giới mà **năng lực vay là biến nội sinh theo hướng có lợi**, và có thể rất sai trong một thế giới mà năng lực vay biến mất đúng lúc cần nhất.
-
-### Hình phạt "tự cung tài chính vĩnh viễn" quá nặng so với thực tế, và độ lớn của kết quả phụ thuộc vào nó
 
 Giả định về hậu quả của vỡ nợ là **xoá toàn bộ nợ công và nợ tư, rồi rơi vào tự cung tài chính vĩnh viễn** — hình phạt tệ nhất có thể trong lớp mô hình này.
 
@@ -418,7 +416,7 @@ Bảng hồi quy trên 30 nước hay gặp khủng hoảng nợ là chỗ duy n
 
 Bài trình bày tương quan dương giữa bất bình đẳng và nợ như một xác nhận cho lý thuyết. Nhưng lý thuyết dự báo hai biến này đi cùng nhau, và dữ liệu cho thấy chúng đi cùng nhau — điều này tương thích với cả chiều nhân quả mà bài đề xuất lẫn chiều ngược lại, và với cả khả năng một biến thứ ba gây ra cả hai.
 
-### Với Việt Nam: giá trị nằm ở một cách định giá tiếp cận thị trường mà phân tích bền vững nợ thông thường bỏ sót
+### Với Việt Nam: một cách định giá tiếp cận thị trường bị bỏ sót, và cách trích dẫn bài này
 
 Đây là một mô hình lý thuyết trừu tượng, hiệu chỉnh cho một nền kinh tế khu vực euro, và không một con số nào chuyển giao được. Ba ý tưởng thì có.
 
@@ -431,8 +429,6 @@ Không một khung đánh giá bền vững nợ thông dụng nào tính giá t
 Lập luận này cũng đi theo chiều ngược, và đó là phần hữu ích hơn: **mở rộng cơ sở thuế và xây năng lực nhắm đích trợ cấp làm giảm sự phụ thuộc vào thị trường vốn quốc tế**, vì chúng làm cho việc tái phân phối rẻ đi. Đây là cùng một kết luận mà mô hình HANK về củng cố tài khoá ở cùng thư mục rút ra từ một hướng hoàn toàn khác.
 
 **Thứ ba, thuế vay nợ có một chiều phân phối thường bị bỏ qua.** Các biện pháp hạn chế vay nước ngoài — thuế, hạn mức, yêu cầu dự trữ bắt buộc với dòng vốn — thường được biện minh bằng lý do ổn định tài chính. Bài chỉ ra rằng chúng cũng có tác động phân phối, và tác động đó là **luỹ tiến** nếu người vay nước ngoài tập trung ở nhóm thu nhập cao và ở khu vực doanh nghiệp lớn. Đây là một chiều cần được đưa vào đánh giá khi cân nhắc các công cụ kiểm soát vốn, và nó liên hệ trực tiếp với nhánh tài liệu về dòng vốn và hiệu quả doanh nghiệp trong repo.
-
-### Nên trích dẫn bài này như thế nào
 
 Đây là một bài lý thuyết có một cơ chế mới, đẹp và đáng suy nghĩ, kèm một hiệu chỉnh minh hoạ. Nó **không** phải bằng chứng rằng bất bình đẳng làm tăng năng lực gánh nợ trong thực tế, và tác giả cũng cẩn trọng gọi phần Ý là ví dụ minh hoạ.
 

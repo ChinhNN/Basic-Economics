@@ -355,15 +355,13 @@ Bốn sự kiện này giống hệt nhau trong dữ liệu và hoàn toàn khá
 
 Điều này cũng cho một cách giải thích khác cho kết quả khác biệt nhóm nước: nợ có rủi ro giảm khoảng 3 điểm ở nước phát triển so với dưới 1 điểm ở nước mới nổi và đang phát triển. Bài quy cho việc nước phát triển có quy tắc tài khoá mạnh hơn và nợ cao hơn. Nhưng cũng nhất quán với khả năng rằng ở nước phát triển, sai số dự báo chi tiêu phản ánh quyết định chính sách thật, còn ở nước đang phát triển nó pha lẫn nhiều nhiễu hành chính hơn.
 
-### Phép ngoại suy ở cuối bài vượt xa vùng dữ liệu đã dùng để ước lượng
+### Hai điểm yếu thống kê: ngoại suy tuyến tính và mẫu hình ý nghĩa của quy tắc tài khoá
 
 Bài đối chiếu kết quả của mình với khuyến nghị của Fiscal Monitor về điều chỉnh tích luỹ 3–4,5% GDP, và kết luận nợ có rủi ro sẽ giảm khoảng 4,5–7 điểm. Đây là phép nhân tuyến tính hệ số của một cú sốc 1% GDP với 4,5.
 
 Chính bài cung cấp con số cho thấy phép nhân này không an toàn. Phân bố cú sốc có khoảng tứ phân vị chỉ từ **−1,4% đến +1,1% GDP**. Nghĩa là biến thiên nhận dạng điển hình — nguồn gốc thực sự của các hệ số — là những cú sốc quanh một điểm phần trăm, xảy ra trong **một năm**. Một chương trình điều chỉnh 4,5% GDP tích luỹ qua nhiều năm là một sự kiện khác về chất: nó đòi hỏi duy trì ý chí chính trị nhiều năm liên tiếp, nó gây phản ứng kỳ vọng, và nó dễ bị đảo ngược giữa chừng.
 
 Ngoài ra, chính bài đã chứng minh rằng tác động **không tuyến tính** theo bối cảnh — gấp bốn lần khi nợ ban đầu cao, gần bằng không khi không có quy tắc tài khoá. Một mô hình đã tìm thấy phi tuyến mạnh theo hai chiều thì khó biện minh cho việc ngoại suy tuyến tính theo chiều thứ ba, tức theo quy mô của chính cú sốc.
-
-### Kết quả về quy tắc tài khoá có một mẫu hình ý nghĩa thống kê đáng ngờ
 
 Khác biệt giữa nhóm có quy tắc và nhóm không có quy tắc được báo cáo là có ý nghĩa ở **năm 0** (p = 0,029) và **năm 4** (p = 0,002), nhưng **không có ý nghĩa ở năm 1, 2 và 3**.
 
@@ -373,15 +371,13 @@ Bên cạnh đó là vấn đề chọn lọc mà bài không xử lý. Nước 
 
 Hàm ý thực tiễn vì thế phải khiêm tốn hơn nhiều so với câu kết của bài: **ban hành một quy tắc tài khoá không tự động mang lại hiệu ứng đo được ở đây**, vì cái tạo ra hiệu ứng có thể là điều kiện cho phép quy tắc tồn tại, chứ không phải bản thân văn bản quy tắc.
 
-### Hệ số "gấp bốn lần" khi nợ cao có một phần là số học thuần tuý
+### Hệ số "gấp bốn lần", và vì sao củng cố không phải câu hỏi đúng với Việt Nam
 
 Kết quả rằng củng cố hiệu quả hơn khoảng bốn lần ở nước nợ cao được bài dùng làm cơ sở cho khuyến nghị trung tâm: nước nợ rất cao nên củng cố, vì ở đó củng cố càng hiệu quả.
 
 Cần tách hai thành phần. Một phần là hành vi: ở nước nợ cao, phần bù rủi ro lớn hơn nên việc củng cố hạ lãi suất dài hạn mạnh hơn, và bài đưa cơ chế này qua kết quả về giảm bất định sản lượng. Nhưng một phần khác thuần tuý là đòn bẩy số học. Với cùng một thay đổi về tốc độ tăng trưởng danh nghĩa hay lãi suất bình quân, một nước có nợ 120% GDP sẽ thấy tỷ lệ nợ trên GDP thay đổi gấp đôi so với một nước có nợ 60%. Thêm vào đó, nước nợ cao có phương sai nợ lớn hơn ngay từ đầu, nên phân vị 95 của họ nằm xa hơn và có nhiều dư địa để dịch chuyển hơn.
 
 Điều này không bác bỏ kết luận, nhưng nó có nghĩa là con số "gấp bốn lần" không nên được hiểu là "hiệu lực chính sách cao gấp bốn lần". Và nó có một hệ quả ngược mà bài không nêu: với nước nợ thấp, tác động lên nợ có rủi ro chỉ khoảng 0,6 điểm — tức **gần như không có lý do nợ nào để củng cố**. Với những nước đó, nếu có lý do để cắt chi thì đó phải là lý do về hiệu quả phân bổ nguồn lực, không phải lý do về rủi ro nợ.
-
-### Với Việt Nam: bài này nói rằng củng cố không phải câu hỏi đúng
 
 Nếu áp thẳng khung của bài, kết luận cho Việt Nam khá rõ và hơi ngược với trực giác thông thường. Với mức nợ công nằm ở nửa dưới của phân phối quốc tế và không có dấu hiệu nằm ở đuôi phải, **tác động của củng cố lên nợ có rủi ro sẽ thuộc nhóm nhỏ nhất** mà bài đo được. Khoản bảo hiểm ấy rẻ vì nó không bảo hiểm cho nhiều thứ.
 

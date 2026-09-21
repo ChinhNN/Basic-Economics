@@ -373,7 +373,7 @@ Và cơ chế thì khá rõ. Kiến trúc phân tầng cho phép một chính ph
 
 Bài chạm vào điều này một lần, khi ghi nhận rằng sự phân đoạn có thể tăng ủng hộ chính trị ngắn hạn nhưng làm yếu trách nhiệm giải trình. Nhưng nó vẫn xử lý hiện tượng như một sai sót về phối hợp. Cách đọc thuyết phục hơn là: **đây là một thiết kế, và nó tồn tại vì nó cho phép một chính phủ giữ hai lời hứa không tương thích với hai nhóm không đọc cùng một tài liệu**.
 
-### "Thiên lệch lạc quan" được đo bằng giọng điệu, không bằng kết quả
+### "Thiên lệch lạc quan" đo bằng giọng điệu, và phản ví dụ Nhật Bản
 
 Đây là chỗ cần dè dặt nhất về mặt khái niệm. Bài gán nhãn tích cực, tiêu cực hoặc trung lập cho từng câu nói về nợ công, và kết luận rằng giọng điệu tích cực chiếm ưu thế **ngay cả khi nợ đang tăng** — con số tiêu biểu là khoảng 72% câu tích cực trong bài phát biểu của Canada, 65% của Anh.
 
@@ -383,8 +383,6 @@ Nhưng nhiều câu được xếp là "tích cực" thực chất là **dự b�
 
 Nếu làm phép đo đó, ta sẽ có một thứ có giá trị thực: **tỷ lệ thực hiện lời hứa tài khoá theo nước và theo thời gian**. Đó mới là thước đo độ tin cậy mà bài nói là mình quan tâm. Cái đang được đo hiện nay là **tông giọng**, và hai thứ này chỉ trùng nhau khi dự báo sai.
 
-### Nhật Bản là phản ví dụ nằm ngay trong số liệu của bài
-
 Trong toàn bộ mẫu, Nhật Bản là nước có truyền thông tài khoá **bi quan nhất**: tài liệu ngân sách có khoảng 55% số câu về nợ mang giọng **tiêu cực**, mục tiêu trách nhiệm tài khoá chiếm khoảng **65%** nội dung ngân sách và khoảng 47% bài phát biểu — cao nhất mẫu ở cả hai chỉ tiêu. Bài cũng ghi nhận Nhật nhấn mạnh dân số già và củng cố nợ hơn bất kỳ nước nào.
 
 Nhật Bản cũng là nước có tỷ lệ nợ công cao nhất trong mẫu, khoảng 235% GDP.
@@ -393,7 +391,7 @@ Quan sát này đủ để bác bỏ bất kỳ liên hệ đơn giản nào gi�
 
 Kết luận đáng rút là: **truyền thông tài khoá phản ánh ràng buộc chứ không tạo ra nó**. Nhật nói bi quan vì tình hình bi quan, và nói bi quan không giúp cải thiện tình hình.
 
-### Bài đo lời nói và không bao giờ đo hệ quả của lời nói
+### Hai giới hạn: không đo hệ quả, và ranh giới của khâu dịch máy
 
 Bài rất trung thực về điều này: cách tiếp cận là mô tả, không nhân quả, và **không đo tác động lên lợi suất hay kỳ vọng**. Đây là một lựa chọn hợp lệ cho một công trình xây dựng bộ dữ liệu đầu tiên trong lĩnh vực.
 
@@ -406,8 +404,6 @@ Và có một điều trong chính bài đi ngược lại. Thiên lệch lạc 
 **Cách hiểu thứ hai:** nó có hại, nhưng qua một kênh chậm — sự mòn dần của lòng tin công chúng — mà bài không có công cụ để đo.
 
 Ví dụ thất bại duy nhất được bài nêu, ngân sách mini của Anh năm 2022, lại ủng hộ cách hiểu thứ nhất một cách khó chịu: thị trường phản ứng dữ dội vì tài liệu **không nói rõ khoản cắt thuế được tài trợ ra sao**, tức là vì một khoảng trống **nội dung**, không phải vì giọng điệu hay cách đóng khung.
-
-### Việc dịch máy trùng khít với đường ranh giới của một phát hiện
 
 Có một vấn đề kỹ thuật cụ thể đáng lưu ý. Văn bản của Pháp, Đức và Ý được dịch sang tiếng Anh bằng chính mô hình ngôn ngữ sau đó dùng để phân loại chủ đề và sắc thái, và mọi chỉ số đều được tính **sau khi dịch**.
 
@@ -429,7 +425,7 @@ Nghĩa là hướng dẫn tương lai của một bộ trưởng tài chính **k
 
 Đó là lý do đề xuất cụ thể nhất của bài — **hội đồng tài khoá độc lập thực hiện kiểm toán tự sự**, kiểm tra xem lời kể có khớp với số học không — lại là đề xuất đúng hình dạng nhất. Nó không cố làm cho lời hứa của chính trị gia đáng tin hơn; nó đặt độ tin cậy vào một cơ quan **không phải tái tranh cử**. Đó chính là cấu trúc tạo ra độ tin cậy của ngân hàng trung ương, và là phần duy nhất của mô hình đó thực sự chuyển giao được.
 
-### Một chuỗi nhân quả hoàn chỉnh khi ghép với tài liệu khác trong thư mục
+### Một chuỗi nhân quả ghép từ hai tài liệu, và hàm ý cho Việt Nam
 
 Tài liệu này và nghiên cứu khảo sát về nhận thức của người dân về nợ công trong cùng thư mục được viết bởi các nhóm khác nhau, và chúng khớp với nhau thành một lập luận mà không bài nào tự hoàn thành.
 
@@ -440,8 +436,6 @@ Bài này ghi nhận **cơ chế**: trong mọi kênh truyền thông chính th�
 Ghép lại: công chúng không hiểu ràng buộc ngân sách một phần vì **hệ thống truyền thông chính thức được cấu trúc để họ không hiểu**. Sự thiếu hiểu biết mà bài khảo sát đo được không phải một thất bại giáo dục ngẫu nhiên; nó là sản phẩm có thể dự đoán được của một cách nói đã ổn định suốt hai thập kỷ.
 
 Và điều đó làm cho khuyến nghị "giáo dục công chúng" trong tài liệu khảo sát trở nên yếu ớt: không thể giáo dục công chúng bằng cách bổ sung thông tin vào một hệ thống đang liên tục phát đi thông tin lệch.
-
-### Với Việt Nam: một chẩn đoán rẻ và một thể chế đáng cân nhắc
 
 Bài nói thẳng rằng các nước mới nổi đang cải cách khung minh bạch có cơ hội áp dụng cách truyền thông tích hợp và cân đối **ngay từ đầu**, thay vì phải gỡ một thói quen đã thành hình như ở G7. Đó là lời khuyên gửi đúng địa chỉ.
 

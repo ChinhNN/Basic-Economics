@@ -316,7 +316,7 @@
 
 ## Đánh giá và phát hiện đáng chú ý
 
-### Cơ cấu của co nhập khẩu quan trọng hơn quy mô của nó, và bài để nó ở phần phụ
+### Cơ cấu của co nhập khẩu, và mắt xích nó cung cấp cho một tài liệu khác trong thư mục
 
 Kết quả có sức nặng nhất trong toàn bài nằm ở phần phân tách theo nhóm hàng, và nó được trình bày như một chi tiết bổ sung.
 
@@ -325,8 +325,6 @@ Sau vỡ nợ, co nhập khẩu **không rơi đều**. Nhập khẩu **tư li�
 Đây là một mẫu hình có ý nghĩa rất rõ. Cuộc điều chỉnh đối ngoại bị ép buộc không được phân bổ lên tiêu dùng hiện tại; nó được dồn lên **năng lực sản xuất tương lai**. Máy móc không được nhập là nhà máy không được xây, dây chuyền không được nâng cấp, thiết bị không được thay. Cái giá của việc đó không xuất hiện trong năm khủng hoảng mà xuất hiện năm năm, mười năm sau, dưới dạng một trữ lượng vốn nhỏ hơn và một cơ cấu xuất khẩu lạc hậu hơn.
 
 Vì sao lại phân bổ theo hướng đó? Câu trả lời là kinh tế chính trị, và bài không đưa ra. Cắt nhập khẩu hàng tiêu dùng là việc thấy ngay: kệ hàng trống, giá tăng, phản ứng xã hội tức thì. Cắt nhập khẩu tư liệu sản xuất thì **không ai nhìn thấy**, vì nó chỉ là một dự án bị hoãn và một đơn hàng không được ký. Khi ngoại tệ khan hiếm và phải phân bổ — bằng thị trường hay bằng hành chính — hệ thống chính trị sẽ chọn đúng cách phân bổ làm hoãn cái đau sang nhiệm kỳ sau.
-
-### Kết quả này ghép khớp với một tài liệu khác trong thư mục, và cả hai đều mạnh hơn khi đặt cạnh nhau
 
 Nhánh nghiên cứu về nợ công và tăng trưởng trong cùng thư mục tìm thấy một kết quả mà nó không giải thích được đầy đủ: nợ cao làm tăng trưởng chậm **chủ yếu qua kênh vốn trên mỗi lao động**, trong khi tác động lên năng suất nhân tố tổng hợp không có ý nghĩa thống kê ở bất kỳ phương pháp nào. Lời giải thích được đưa ra là chèn lấn cổ điển: nhà nước vay nhiều, lãi suất lên, vốn tư nhân bị đẩy ra. Nhưng cơ chế chèn lấn đòi hỏi một thị trường vốn đóng, và nó không giải thích được vì sao tác động ở nước mới nổi lại lớn gần gấp đôi nước phát triển.
 
@@ -356,7 +354,7 @@ Khác biệt giữa hai loại có ý nghĩa theo z của Clogg, **không có ý
 
 Điều đó không làm bài mất giá trị. Bằng chứng mô tả vẫn rõ ràng và hướng của kết quả nhất quán qua nhiều kiểm tra độ vững. Nhưng nó có nghĩa là mệnh đề "tái cơ cấu chủ động ít tốn kém hơn về thương mại" nên được phát biểu như một **kết quả gợi ý**, không phải một khác biệt đã được xác lập về mặt thống kê.
 
-### Khác biệt theo tổng cầu lớn tới mức làm tan biến tác động bình quân
+### Tổng cầu ban đầu quyết định tất cả, và loại tái cơ cấu không hoàn toàn là một lựa chọn
 
 Phần được trình bày như một mở rộng lại là phần đảo ngược cách đọc cả bài.
 
@@ -375,8 +373,6 @@ Và nó gợi một cách đọc nhân quả khác với cách bài đưa ra. Th
 
 Nếu cách đọc này đúng thì thông điệp chính sách phải đổi. Không phải "tái cơ cấu chủ động để tránh điều chỉnh đau đớn", mà là "**đừng để tổng cầu nội địa vượt quá xa sản lượng trong thời gian dài, vì đó mới là khoản nợ thật sẽ phải trả**".
 
-### Việc chọn loại tái cơ cấu không hoàn toàn là một lựa chọn
-
 Khuyến nghị cuối bài — tái cơ cấu chủ động giúp tránh một cuộc điều chỉnh đối ngoại bị ép buộc và tốn kém — giả định rằng loại tái cơ cấu là một **biến chính sách** mà chính phủ chọn được.
 
 Thực tế hạn chế hơn nhiều. Tái cơ cấu chủ động đòi hỏi chủ nợ chịu ngồi vào bàn **trước khi** có một khoản thanh toán bị lỡ, và điều đó đòi hỏi con nợ còn ít nhiều khả năng tiếp cận thị trường, một chính phủ đủ gắn kết để đàm phán, một bộ máy kỹ thuật đủ năng lực, và thời gian. Một nước đâm vào bức tường thanh khoản không có lựa chọn chủ động nào cả.
@@ -393,7 +389,7 @@ Bài đưa biến này vào như một công cụ nhận dạng và không bình
 
 Hàm ý thực tiễn là tính thời điểm quan trọng hơn người ta tưởng, và rằng việc trì hoãn một cuộc tái cơ cấu cần thiết không chỉ tốn thêm thời gian — nó có thể làm mất luôn hình thức ít tốn kém của cuộc tái cơ cấu đó. Đây là mối liên hệ trực tiếp với nhánh tài liệu về dòng vốn và chu kỳ tài chính toàn cầu trong repo.
 
-### Với Việt Nam: giá trị nằm ở chỉ báo, không ở kịch bản
+### Với Việt Nam: giá trị nằm ở chỉ báo, và một lưu ý về phạm vi mẫu
 
 Việt Nam không ở trong tình huống mà bài mô tả, và khả năng rơi vào đó trong tầm nhìn hiện tại là thấp. Giá trị của tài liệu nằm ở ba chỉ báo và một cách đọc số liệu.
 
@@ -404,8 +400,6 @@ Việt Nam không ở trong tình huống mà bài mô tả, và khả năng rơ
 **Tổng cầu nội địa so với GDP là biến phân nhóm đáng theo dõi.** Bài dùng ngưỡng 101,8% GDP để tách hai thế giới. Đại lượng này chính là mức độ hấp thụ vượt quá sản lượng, và nó là chỉ báo cho biết một nền kinh tế sẽ phải điều chỉnh bao nhiêu nếu nguồn tài trợ bên ngoài dừng lại.
 
 **Và một cách đọc số liệu cần ghi nhớ:** cán cân thương mại cải thiện đột ngột không phải tin tốt. Bài phản bác thẳng quan điểm trọng thương đơn giản, và lập luận của nó áp dụng rộng hơn phạm vi khủng hoảng nợ. Xuất khẩu ròng tăng vì xuất khẩu tăng là một chuyện; xuất khẩu ròng tăng vì nhập khẩu tư liệu sản xuất sụp là chuyện hoàn toàn khác, và trong thống kê tổng hợp chúng trông giống hệt nhau.
-
-### Một lưu ý về phạm vi mẫu
 
 Cuối cùng, cần đặt mẫu của bài vào bối cảnh mà các tài liệu khác trong thư mục cung cấp. Đây là 194 đợt tái cơ cấu **nợ nước ngoài với chủ nợ tư nhân**, giai đoạn **1975–2019**.
 

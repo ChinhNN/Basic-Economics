@@ -513,7 +513,7 @@ Kết quả làm đảo lộn cách nhìn quen thuộc. Nhóm gặp cả hai lo�
 
 Đây là một mệnh đề có sức công phá lớn với phần còn lại của tài liệu về nợ công, kể cả nhánh nghiên cứu về ngưỡng nợ và tăng trưởng trong cùng thư mục này. Nếu ràng buộc thực tế là **r trên cơ sở thu**, chứ không phải **D/Y**, thì mọi khung đánh giá dựng quanh một ngưỡng nợ trên GDP đang đo sai biến số. Một nước có nợ 40% GDP vay ở 12% và thu thuế 11% GDP đang ở tình thế nguy hiểm hơn hẳn một nước có nợ 70% GDP vay ở 3% và thu thuế 25% GDP — nhưng chỉ có nước thứ hai bị cảnh báo bởi các quy tắc tài khoá thông dụng.
 
-### Nợ trong nước là chỗ vấn đề được chuyển tới, không phải chỗ nó được giải quyết
+### Nợ trong nước là chỗ vấn đề được chuyển tới, và kết luận trấn an có một vòng lặp logic
 
 Bài ghi nhận tỷ trọng nợ trong nước của trung vị nước thu nhập thấp tăng 9 điểm kể từ 2010, rồi **thêm 9 điểm nữa** sau khi đại dịch bắt đầu, và trình bày điều này như một diễn biến trung tính, thậm chí tích cực với nước mới nổi có hệ thống tài chính sâu.
 
@@ -523,8 +523,6 @@ Nhưng các con số khác trong chính bài cho thấy đó không phải một
 
 Nghĩa là một phần của "sự ổn định" mà bài ghi nhận ở các chỉ số nợ ngoài là kết quả của việc **di chuyển vấn đề sang một khu vực không có ai đo**. Bài nhắc tới liên kết chính phủ–ngân hàng đúng một lần, như một rủi ro vĩ mô–tài chính, và không nối nó với kết luận tổng thể.
 
-### Kết luận trấn an dựa vào giả định rằng đúng rủi ro được nêu sẽ không xảy ra
-
 Có một căng thẳng logic ở trung tâm tài liệu mà nó không tự giải.
 
 Vế trấn an: nợ đã ổn định, số nước khốn khó ít, kịch bản cơ sở lành. Vế đáng lo: nhóm thu nhập thấp cần tái tài trợ **vượt 30 tỷ USD mỗi năm** trong 2025–27, toàn nhóm cần khoảng **350 tỷ USD dòng vốn gộp mỗi năm chỉ để giữ nguyên mức phơi nhiễm** — ngang mức thời COVID và chưa tính tài trợ ròng mới — trong khi **dòng vốn ròng đang chững lại và giảm**, và ở nhóm nước mới nổi sức ép cao thì tổng dòng ròng đã **giảm khoảng 40% kể từ 2021**.
@@ -533,15 +531,13 @@ Hai vế này không tương thích một cách vô điều kiện. Kịch bản
 
 Điều này không làm bài sai. Kịch bản cơ sở buộc phải giả định điều gì đó. Nhưng nó có nghĩa là hai vế của tài liệu không nên được trích dẫn độc lập với nhau, và trên thực tế vế thứ nhất gần như luôn bị trích riêng.
 
-### Cơ cấu chủ nợ mới làm tái cơ cấu khó hơn, và bài chỉ nói nửa câu
+### Cơ cấu chủ nợ mới và các nghĩa vụ không ai đo: hai lý do tái cơ cấu khó hơn
 
 Con số then chốt: ở nước thu nhập thấp, tỷ trọng chủ nợ tư nhân cộng song phương ngoài Câu lạc bộ Paris đi từ **22% lên 38%** tổng nợ ngoài trong mười ba năm; riêng trái chủ từ **1% lên 10%**. Ở nước mới nổi, trái chủ chiếm **48%**.
 
 Bài diễn giải đây là một đánh đổi giữa tiếp cận dễ hơn và nghĩa vụ đắt hơn, rồi khép lại bằng một câu về "tiếp tục hoàn thiện cơ chế tái cơ cấu". Nhưng vấn đề không chỉ là giá. Câu lạc bộ Paris là một cơ chế phối hợp có sẵn giữa một nhóm chủ nợ nhỏ, đồng nhất và có quan hệ chính trị chặt chẽ với nhau. Một tập chủ nợ gồm hàng nghìn trái chủ phân tán, cộng với vài chủ nợ song phương lớn không tham gia câu lạc bộ đó và có ưu tiên chiến lược riêng, là một bài toán hành động tập thể khác hẳn về bản chất.
 
 Có một chi tiết trong bài làm điều này sắc hơn nữa. Với nhóm nước thu nhập thấp sức ép cao, chủ nợ tư nhân chiếm khoảng **một phần ba** khoản trả gốc nhưng khoảng **một nửa** khoản trả lãi. Tức vốn tư nhân đắt gấp rưỡi so với tỷ trọng của nó. Trong một cuộc tái cơ cấu, chính nhóm chủ nợ có tỷ suất sinh lời cao nhất là nhóm có động cơ mạnh nhất để không nhượng bộ và chờ người khác nhượng bộ trước. Đây là cơ chế đã làm các vụ việc gần đây kéo dài nhiều năm, và nó là hệ quả trực tiếp của sự dịch chuyển cơ cấu mà bài đo được — nhưng bài chỉ mô tả sự dịch chuyển, không nối nó với sự chậm trễ.
-
-### Nợ bảo lãnh, PPP và doanh nghiệp nhà nước: chỗ ai cũng biết và không ai đo
 
 Phần ngắn nhất của tài liệu có lẽ lại là phần có giá trị cảnh báo cao nhất. Đầu tư theo hình thức hợp tác công tư ở nước thu nhập thấp đi từ **0,3 tỷ USD năm 1994 lên 5,9 tỷ USD năm 2021** — gấp khoảng 17 lần — trong khi số dự án chỉ đi từ 11 lên 26. Nghĩa là quy mô bình quân mỗi dự án tăng vọt, và **phần lớn có bảo lãnh chính phủ**.
 
@@ -557,7 +553,7 @@ Chẩn đoán đúng. Nhưng phép so thời gian thì không khớp. Nâng thu 
 
 Còn một chiều nữa không được nhắc: **ai sẽ nộp phần thuế tăng thêm**. Ở một nhà nước có năng lực hành chính yếu, công cụ khả thi nhất để nâng thu nhanh là thuế gián thu trên tiêu dùng và siết khu vực chính thức, vì đó là chỗ dễ thu nhất. Cả hai đều có tính luỹ thoái. Nghĩa là con đường "tự tạo dư địa tài khoá" trên thực tế thường có nghĩa là hộ gia đình thu nhập thấp trả tiền cho khoản lãi mà chính phủ nợ trái chủ quốc tế. Đây là hệ quả phân phối cốt lõi của một đợt củng cố tài khoá ở nhóm nước này, và nó liên hệ trực tiếp với các tài liệu về nguyên lý đánh thuế và về thuế giá trị gia tăng trong thư mục Back to Basics.
 
-### Với Việt Nam: đọc bài này như một tấm gương của giai đoạn sau tốt nghiệp ưu đãi
+### Với Việt Nam: tấm gương của giai đoạn sau tốt nghiệp ưu đãi, và loại hình của tài liệu này
 
 Việt Nam thuộc nhóm nước mới nổi trong phân loại của bài, với tỷ lệ thu ngân sách trên GDP nằm trên ngưỡng tham chiếu 15% và mức nợ công cách xa vùng nguy hiểm. Bài không nói về Việt Nam. Nhưng nó mô tả rất chính xác **quỹ đạo mà một nước đi qua sau khi mất quyền tiếp cận vốn ưu đãi**.
 
@@ -570,8 +566,6 @@ Ba chỉ số cụ thể cần theo dõi, rút thẳng từ khung của bài và
 **Chi phí tương đối giữa nợ trong nước và nợ ngoài.** Bài cho thấy ở nhiều nước thu nhập thấp, nợ nội đắt gấp 2 tới 3,5 lần nợ ngoại, và việc dịch chuyển sang nguồn nội địa đắt đỏ là nguyên nhân chính khiến hoá đơn lãi phình. Với Việt Nam, nơi trái phiếu chính phủ chủ yếu do ngân hàng và bảo hiểm xã hội trong nước nắm, con số cần biết là lãi suất bình quân thực trả trên khối nợ nội so với chi phí vốn quốc tế tương ứng sau khi tính rủi ro tỷ giá.
 
 **Tổng nghĩa vụ tiềm tàng từ bảo lãnh chính phủ, hợp đồng PPP và nợ doanh nghiệp nhà nước.** Đây là mục mà bài cảnh báo có thể làm nợ tăng đột ngột và không hiện trong bất kỳ chỉ số thông thường nào. Với một nền kinh tế có khu vực doanh nghiệp nhà nước lớn và đang mở rộng mạnh hình thức PPP trong hạ tầng, đây là chỗ mà một đánh giá bền vững nợ dựa trên nợ công trực tiếp sẽ bỏ sót phần rủi ro lớn nhất.
-
-### Một tài liệu trung thực về việc nó là gì
 
 Cần nói rõ về loại hình. Đây không phải một nghiên cứu mà là một bản trình bày dữ liệu để định khung tranh luận, và nó tự nhận như vậy. Không có mô hình, không có nhận dạng nhân quả, không có kiểm định độ vững. Các nhóm nước được dựng bằng cách cắt tứ phân vị — một quy ước hoàn toàn hợp lý nhưng tuỳ ý, và các ngưỡng tứ phân vị còn được điều chỉnh bằng phán đoán để tránh lệch phân phối.
 

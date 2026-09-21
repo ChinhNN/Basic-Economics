@@ -372,7 +372,7 @@ Một mô hình lệch tới mức đó ở các đại lượng quyết định
 
 Điều này không làm hỏng bài, vì đóng góp thật của nó nằm ở chỗ khác.
 
-### Đóng góp thật là kết quả về trợ cấp nhắm đích, và nó là thứ mô hình đại diện không thể tạo ra
+### Trợ cấp nhắm đích cứu nhóm đáy, và dồn toàn bộ chi phí lên nhóm giữa
 
 Kết quả đáng giá nhất — và là lý do biện minh cho toàn bộ bộ máy HANK — là: dành **20% nỗ lực củng cố** cho trợ cấp nhắm đích **gần như triệt tiêu hoàn toàn thiệt hại tiêu dùng ở nhóm đáy**, với chi phí rất thấp.
 
@@ -381,8 +381,6 @@ Cơ chế thì đơn giản nhưng chỉ tồn tại trong một mô hình có h
 Từ đó ra câu có sức nặng nhất trong bài: **bảo trợ xã hội nhắm đúng không chỉ công bằng mà còn hiệu quả về vĩ mô.** Đây không phải một lời kêu gọi đạo đức được gắn thêm vào một phân tích kỹ thuật; nó là một kết quả của chính phân tích đó. Trong một mô hình đại diện với một hộ gia đình duy nhất, mệnh đề này thậm chí không phát biểu được.
 
 Hệ quả thiết kế rất cụ thể: nếu buộc phải củng cố, khoản chi **cuối cùng** nên bị cắt là khoản chi tới tay nhóm có xu hướng tiêu dùng biên cao nhất — vì cắt ở đó vừa đắt nhất về phúc lợi vừa đắt nhất về sản lượng. Hai tiêu chí trùng nhau, điều hiếm gặp trong kinh tế học tài khoá.
-
-### Nhưng cùng thiết kế đó dồn toàn bộ chi phí lên nhóm giữa
 
 Đây là điều bài ghi nhận trong một dòng và không khai thác, dù nó quyết định liệu kế hoạch có thực hiện được hay không.
 
@@ -406,7 +404,7 @@ Lời biện hộ — nhắm vào xu hướng tiêu dùng biên bình quân vì 
 
 Hai khiếm khuyết này đi theo hai hướng khác nhau về tỷ trọng hộ bị ràng buộc, nhưng cùng một hướng về kết luận: **trợ cấp nhắm đích trông rẻ hơn và hiệu quả hơn so với thực tế**.
 
-### "Chi phí của việc chờ đợi" được so với một kịch bản không công bằng
+### "Chi phí của việc chờ đợi", và chế độ tiền tệ đã tạo ra nó
 
 Con số được nhấn mạnh nhất về mặt chính sách — nợ ở mức 134% GDP so với 139% vào năm 2031, chênh khoảng 5 điểm — được tính bằng cách so kịch bản **ExC+SR** với kịch bản giữ nguyên chính sách.
 
@@ -417,8 +415,6 @@ Bài tự nêu cảnh báo này, và đó là thực hành tốt. Nhưng con s�
 Điều đáng chú ý là lập luận **mạnh hơn** cho việc hành động sớm lại nằm ở một dòng phụ: dẫn chiếu tới kết quả rằng vượt qua một ngưỡng nhất định, chính sách tài khoá chủ động và chính sách tiền tệ chủ động **không thể cùng duy trì**, nên chi phí có thể **nhảy bậc** chứ không tăng dần.
 
 Đó mới là lý do thuyết phục để không chờ: không phải vì chi phí của việc chờ tăng đều 5 điểm, mà vì **có thể tồn tại một vách đá**. Bài nhắc tới nó và không mô hình hoá nó.
-
-### Cơ chế cấp bách nhất của bài là một cơ chế của liên minh tiền tệ, không phải của mức nợ
 
 Vòng xoáy mà bài mô tả cần được đọc kỹ vì nó quyết định phạm vi áp dụng của toàn bộ kết luận: chênh lệch lợi suất tăng → cầu trong nước giảm → giá giảm → **Ngân hàng Trung ương châu Âu không bù riêng cho một nước** → lãi suất thực vẫn cao → tình hình tài khoá xấu thêm.
 

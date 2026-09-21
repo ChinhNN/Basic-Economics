@@ -401,7 +401,7 @@ Chính bài đã cung cấp ví dụ phản bác: hối lộ khó thu từ lươ
 
 Điều này có nghĩa là toàn bộ dòng khuyến nghị "cơ cấu lại chi tiêu công để giảm tham nhũng" chỉ có ý nghĩa ở mức độ chi tiết mà không một khuôn khổ ngân sách trung hạn nào theo được. Ràng buộc phải đặt ở cấp **dòng ngân sách**, không phải cấp ngành — và ở cấp đó, quyền tự chủ của cơ quan chi tiêu bị triệt tiêu, kéo theo một cái giá hiệu quả riêng.
 
-### Với Việt Nam: bài này nói rằng chỉ tiêu chi ngành không đo được điều ta tưởng
+### Với Việt Nam, và mức độ tin cậy cần giữ khi trích dẫn
 
 Ba hệ quả cụ thể.
 
@@ -410,8 +410,6 @@ Ba hệ quả cụ thể.
 **Thứ hai**, kết quả âm về đầu tư công có ý nghĩa trực tiếp với tranh luận về giải ngân đầu tư công. Tỷ lệ giải ngân cao không phải là bằng chứng về chất lượng quản trị, và tỷ lệ giải ngân thấp cũng không phải bằng chứng về sự trong sạch. Bằng chứng nằm ở suất đầu tư trên mỗi kilômét đường, mỗi megawatt công suất, và ở tuổi thọ công trình — đúng những chỉ số mà khuôn khổ đánh giá hiệu quả đầu tư công của IMF nhấn mạnh.
 
 **Thứ ba**, danh sách nguyên nhân của bài đặt độ mở thương mại, kiểm soát giá và đa tỷ giá ở vị trí trung tâm. Ở đây có một liên hệ thú vị với các tài liệu về kiểm soát vốn và hạn chế thanh toán thương mại trong repo: mỗi công cụ hành chính can thiệp vào giá hoặc vào quyền tiếp cận ngoại tệ đều tạo ra một khoản đặc lợi, và khoản đặc lợi đó có giá thị trường. Cái giá ấy hiếm khi được tính vào khi đánh giá lợi ích của công cụ.
-
-### Một bài năm 1996 vẫn được trích dẫn vì nó khiêm tốn hơn những người trích dẫn nó
 
 Cần nói thẳng về mức độ tin cậy. Đây là hồi quy chéo trên số bình quân dài hạn, với chỉ số tham nhũng do chuyên gia tư vấn chấm điểm — mà chính các chuyên gia đó có thể đã bị ảnh hưởng bởi kết quả kinh tế của nước họ đánh giá. Bài thừa nhận rủi ro này ngay ở trang đầu, thừa nhận công cụ chỉ là công cụ cho thể chế nói chung, và kết luận về giáo dục bằng đúng chữ "gợi ý chứ không kết luận được".
 

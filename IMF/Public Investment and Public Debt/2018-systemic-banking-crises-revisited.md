@@ -611,15 +611,13 @@
 
 ## Đánh giá và phát hiện đáng chú ý
 
-### Định nghĩa dựa trên phản ứng chính sách giải quyết một vấn đề và tạo ra một vấn đề khác
+### Định nghĩa và thước đo chi phí đều định hình sẵn kết quả
 
 Việc định ngày khủng hoảng theo cường độ can thiệp — ít nhất ba trong sáu biện pháp — là một lựa chọn phương pháp thông minh. Nó biến một khái niệm mơ hồ thành một quy tắc áp dụng được nhất quán qua 48 năm và qua mọi mức thu nhập, và đó là lý do bộ dữ liệu này trở thành chuẩn tham chiếu trong khi các bộ dựa vào phán đoán tường thuật chỉ phủ được vài chục nước.
 
 Nhưng nó cũng có nghĩa là **mẫu được chọn theo chính biến mà bài muốn so sánh**. Một nửa nội dung phân tích của bài là "nước giàu và nước nghèo phản ứng khác nhau như thế nào", trong khi chính phản ứng là điều kiện để lọt vào mẫu. Một hệ thống ngân hàng mục ruỗng ở một nước mà chính phủ không làm gì — không tái cấp vốn, không bảo lãnh, không mua tài sản, chỉ để ngân hàng zombie tồn tại — sẽ không bao giờ xuất hiện trong danh sách 151 đợt, trừ khi thua lỗ lớn đến mức thoả tiêu chí nợ xấu 20% hoặc chi phí tái cơ cấu 5% GDP một mình.
 
 Bài ý thức được điều này và chính vì thế mới giữ nhánh tiêu chí thứ nhất. Nhưng nhánh đó đòi ngưỡng rất cao, nên loại "khủng hoảng âm ỉ, xử lý bằng cách trì hoãn" vẫn gần như chắc chắn bị bỏ sót một cách có hệ thống — và theo logic của chính bài, đó lại là loại kéo dài nhất.
-
-### Nghịch lý chi phí tài khoá có một cách giải thích thứ hai mà bài không đưa ra
 
 Kết quả đảo ngược là phát hiện gây tò mò nhất: nước thu nhập cao có chi phí tài khoá trực tiếp ròng chỉ 3,3% GDP so với 9,6% ở nước nghèo, nhưng mức tăng nợ công lại là 21,1% so với 16,4%. Bài giải thích bằng chính sách tài khoá chủ động và các bộ ổn định tự động.
 
@@ -665,7 +663,7 @@ Xu thế được ước lượng bằng lọc HP trên 20 năm trước khủng
 
 Bài đã rất cẩn trọng khi nói rằng con số này chỉ nên đọc là "điều gì xảy ra với sản lượng sau một cuộc khủng hoảng", không phải điều khủng hoảng gây ra, và rằng xếp hạng thì vững còn mức thì nhạy với cách tính xu thế. Đó là lời cảnh báo đúng. Nhưng chính vì thế, **so sánh mức giữa hai nhóm nước — vốn là một so sánh về mức chứ không phải xếp hạng — là ứng dụng mà bài cảnh báo chống lại**, và lại là ứng dụng được đưa vào phần tóm tắt.
 
-### Với Việt Nam: cả sự vắng mặt trong danh sách lẫn cơ chế của bài đều đáng suy nghĩ
+### Với Việt Nam, và số phận của câu kết năm 2018
 
 Cơ sở dữ liệu chỉ ghi bốn đợt khủng hoảng ngân hàng bắt đầu từ 2011 trở đi — Síp, Guinea-Bissau, Moldova, Ukraine. Giai đoạn nợ xấu ngân hàng của Việt Nam những năm 2011–2015 không nằm trong đó.
 
@@ -674,8 +672,6 @@ Cơ sở dữ liệu chỉ ghi bốn đợt khủng hoảng ngân hàng bắt đ
 Và theo chính logic của bài, đó lại là loại đáng lo về độ dài. Cơ chế mà bài xác định là kéo dài khủng hoảng — có một công cụ cho phép hoãn thừa nhận thua lỗ — mô tả chính xác một mô hình xử lý dựa trên giãn thời gian trích lập. Chi phí không biến mất; nó được trải ra và chuyển thành nhiều năm tăng trưởng tín dụng thấp hơn và biên lãi cao hơn, tức là một khoản thuế phân tán lên người đi vay.
 
 Hai chỉ báo cụ thể để theo dõi rút ra từ bài, cả hai đều không phải chỉ báo tài khoá. **Thứ nhất**, trạng thái ngoại tệ hợp nhất của hệ thống, vì đó là mắt xích nối ngân hàng với chủ quyền trong gần như mọi trường hợp lịch sử. **Thứ hai**, khoảng cách giữa thời điểm nợ xấu bắt đầu tăng và thời điểm có quyết định tái cấp vốn hoặc xử lý dứt điểm — vì bài cho thấy chính khoảng cách đó, chứ không phải quy mô thua lỗ ban đầu, là thứ quyết định khủng hoảng kéo dài bao lâu.
-
-### Câu kết năm 2018 đã đúng theo một cách mà bài không lường
 
 "Giai đoạn này có thể chỉ là sự yên ả trước cơn bão" là một câu kết đẹp, và đáng được kiểm tra lại. Cơn bão đến — nhưng đến dưới dạng một đại dịch, và **không** kéo theo làn sóng khủng hoảng ngân hàng, vì các chính phủ và ngân hàng trung ương can thiệp với quy mô chưa từng có ngay từ đầu. Sau đó, đợt căng thẳng ngân hàng năm 2023 ở Mỹ và Thuỵ Sĩ được xử lý trong vài ngày bằng bảo lãnh và sáp nhập cưỡng bức.
 
