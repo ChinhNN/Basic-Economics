@@ -143,3 +143,7 @@ Back to Basics: Rất phù hợp để học các khái niệm như lạm phát,
 - [Climate Risks: The Role of Financial Regulators and Supervisors — Rủi ro khí hậu: vai trò của cơ quan quản lý và giám sát tài chính](imf/Risk%20Management/2026-climate-risks-role-financial-regulators-supervisors.md) — Technical Notes and Manuals TNM/2026/01, tháng 2/2026, Nila Khanolkar, David Lukáš Rozumek, Peter Windsor
 - [Good Practices in Cyber Risk Regulation and Supervision — Thực hành tốt trong quản lý và giám sát rủi ro mạng](imf/Risk%20Management/2026-good-practices-cyber-risk-regulation-supervision.md) — Departmental Paper, 2026, Tamas Gaidosch, Emran Islam, Tanai Khiaonarong, Rangachary Ravikumar, Chris Wilson
 - [The Global Financial Safety Net—A Stocktaking — Mạng lưới an toàn tài chính toàn cầu: một cuộc kiểm kê](imf/Risk%20Management/2025-global-financial-safety-net-stocktaking.md) — Policy Paper, tháng 10/2025, cán bộ IMF (Vụ Chiến lược, Chính sách và Đánh giá)
+
+## World Bank
+
+- [Vietnam 2035: Toward Prosperity, Creativity, Equity, and Democracy (Overview) — Việt Nam 2035: Hướng tới Thịnh vượng, Sáng tạo, Công bằng và Dân chủ (Bản tổng quan)](worldbank/2016-vietnam-2035-prosperity-creativity-equity-democracy.md) — Ngân hàng Thế giới và Bộ Kế hoạch và Đầu tư Việt Nam, 2016, nhóm tác giả do Cao Viết Sinh, Gabriel Demombynes, Victoria Kwakwa, Sandeep Mahajan, Sudhir Shetty dẫn dắt (bản PDF chỉ có phần Tổng quan, không có 7 chương của báo cáo đầy đủ)
