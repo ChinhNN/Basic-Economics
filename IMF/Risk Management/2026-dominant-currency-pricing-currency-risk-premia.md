@@ -635,3 +635,81 @@
 > "The policy conclusion is therefore not that a different rule eliminates the underlying friction. Rather, the rule changes the form in which the friction appears."
 
 > "The riskiness of a currency is not an exogenous country characteristic. It is an equilibrium outcome."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Mô hình nói nợ đô la là điều kiện cần, nhưng tiêu đề và phần thực nghiệm lại đặt ghi hoá đơn ở trung tâm
+
+Đây là căng thẳng nội tại rõ nhất của bài, và nó nằm ngay trong bảng kết quả mô phỏng quan trọng nhất.
+
+Bốn tổ hợp cho bốn mức đỉnh phần bù UIP sau cú sốc lãi suất ngoài: ghi hoá đơn cao **và** nợ đô la cao cho khoảng **1,30**; ghi hoá đơn thấp nhưng nợ đô la cao vẫn cho **0,80**; còn ghi hoá đơn cao mà **nợ đô la thấp** chỉ cho **khoảng 0,00 tới −0,05** — tức gần như không có gì. Chính bài phát biểu điều này rất rõ ở phần lý thuyết: khi tỷ trọng nợ đô la thấp, việc định giá lại nợ ngân hàng là nhỏ, hiệp phương sai yếu, và cấu phần giá trị tiếp diễn của hạt nhân định giá gần như không nhúc nhích. Câu kết của mục đó cũng thẳng thắn: DCP khuếch đại phần bù **chủ yếu bằng cách nâng giá của một phơi nhiễm bảng cân đối đô la vốn đã tồn tại**.
+
+Nhưng tiêu đề bài là "định giá bằng đồng tiền thống trị", kết quả thực nghiệm được nhấn mạnh nhất là hệ số +0,457 của biến ghi hoá đơn, và ba hàm ý chính sách cuối bài xếp "hạn chế vay ngoại tệ không phòng hộ" và "khuyến khích định giá xuất khẩu linh hoạt hơn" như hai lựa chọn ngang hàng.
+
+Chúng không ngang hàng, và sự bất đối xứng này quan trọng hơn nhiều so với cách trình bày. **Một nước gần như không thể chọn đồng tiền ghi hoá đơn cho hàng xuất khẩu của mình.** Việc đó được quyết định bởi cơ cấu ngành (hàng chế tạo phân biệt hoá hay hàng hoá cơ bản), bởi vị trí trong chuỗi giá trị, và bởi một cân bằng phối hợp giữa hàng nghìn người mua toàn cầu mà không chính phủ nào điều khiển được. Ngược lại, **vay ngoại tệ không phòng hộ của hệ thống ngân hàng là thứ có thể quản lý trực tiếp bằng công cụ an toàn vĩ mô**. Chính phân rã của bài nói rằng đòn bẩy duy nhất kéo được lại là đòn bẩy duy nhất nằm trong tầm tay.
+
+### Kết quả thực nghiệm đứng trên 14 tới 20 quan sát, và dấu của biến chủ đạo đổi chiều giữa hai cột
+
+Hệ số +0,457 với R² = 0,477 nghe rất mạnh cho tới khi đọc số quan sát: **20 ở hai cột đầu và 14 ở hai cột sau**. Ở các cột có 14 quan sát, bài đưa sáu biến giải thích vào, tức còn tám bậc tự do. Ở quy mô mẫu đó, R² không mang nhiều thông tin và khoảng tin cậy rất rộng dù hệ số có ba sao.
+
+Dấu hiệu rõ nhất cho thấy đây là vấn đề chứ không phải chỉ là hạn chế là **chính biến ghi hoá đơn đổi dấu giữa hai nhân tố**: âm và có ý nghĩa với nhân tố đô la (−0,098), dương và rất mạnh với nhân tố carry (+0,490). Đây đúng là mẫu hình xuất hiện khi các biến giải thích tương quan cao với nhau trong một mẫu nhỏ, chứ không phải mẫu hình của một quan hệ kinh tế ổn định. Lời giải thích của bài — sau khi đã kiểm soát mong manh tài chính, ghi hoá đơn cao đi kèm phơi nhiễm thấp hơn với riêng nhân tố cổ phiếu toàn cầu — được đưa ra **sau khi** thấy kết quả, và không được kiểm định độc lập.
+
+Thêm vào đó, bài ghi nhận rằng Thổ Nhĩ Kỳ và Brazil nằm cao hơn hẳn đường khớp trong biểu đồ ghi hoá đơn–phơi nhiễm carry. Với khoảng hai mươi điểm dữ liệu, hai giá trị ngoại lai cùng chiều có thể chi phối cả độ dốc lẫn R². Và đây cũng chính là hai nước có lịch sử lạm phát và chính sách tiền tệ đặc thù nhất trong mẫu.
+
+### Có một cách đọc ngược mà mặt cắt ngang không loại trừ được: phơi nhiễm carry có thể chỉ là một tên gọi khác của lãi suất cao
+
+Đây là chỗ cần dè dặt nhất về mặt nhân quả, và bài không xử lý nó.
+
+Phần bù carry được trích ra từ mặt cắt ngang lợi suất vượt trội của tiền tệ. Một đồng tiền có mức phơi nhiễm carry cao, về bản chất, là một đồng tiền **lãi suất danh nghĩa cao** — đó là định nghĩa của một đồng tiền mục tiêu cho giao dịch carry. Nhưng lãi suất danh nghĩa cao chủ yếu đến từ lạm phát cao.
+
+Vì vậy quan hệ mà bài trình bày như một chuỗi nhân quả — đặc điểm cơ cấu (ghi hoá đơn, nợ đô la) → tài sản nội tệ rủi ro → phần bù cao → lạm phát bình quân cao, với R² = 0,372 ở mắt xích cuối — có một cách đọc ngược hoàn toàn khả dĩ trên cùng dữ liệu: **lạm phát cao → lãi suất danh nghĩa cao → được phân loại là đồng tiền carry**. Ở cách đọc này, mắt xích cuối gần như là đồng nhất thức chứ không phải phát hiện.
+
+Cần ghi nhận rằng bài **có** một câu trả lời cho phản biện này, và đó là lý do phần mô hình tồn tại: mô hình cung cấp một cơ chế vi mô cụ thể (kênh hiệp phương sai) đi từ cơ cấu tới phần bù mà không đi qua lạm phát, và kết quả từ dự báo chuyên nghiệp cho thấy nhà đầu tư **đòi phần bù từ trước** chứ không chỉ nhận được nó hậu nghiệm. Đó là bằng chứng có trọng lượng. Nhưng nó có nghĩa là toàn bộ sức nặng nhân quả của bài nằm trên mô hình, không nằm trên mặt cắt ngang — và một mô hình định lượng không phải là một phép kiểm định.
+
+### Con số lạm phát trong mô phỏng không nên được trích dẫn như một dự báo
+
+Kết quả gây chú ý nhất — lạm phát trạng thái dừng đi từ khoảng 4,9% lên khoảng 7,6% một năm khi độ dính giá xuất khẩu tăng từ 0 lên 0,9 — cần được đọc rất cẩn trọng, vì ba lý do.
+
+**Thứ nhất, điểm xuất phát đã bất thường.** Một mô hình được hiệu chỉnh cho một thị trường mới nổi điển hình, dưới một quy tắc Taylor chuẩn, cho lạm phát bình quân **4,9% ngay cả khi độ dính giá xuất khẩu bằng không**. Đó không phải là điểm neo của bất kỳ chế độ lạm phát mục tiêu nào đang vận hành. Khi điểm xuất phát đã lệch, phần chênh lệch 2,7 điểm phần trăm được quy cho DCP cũng khó diễn giải.
+
+**Thứ hai, kết quả ở phụ lục còn cực đoan hơn.** Khi tỷ trọng nợ đô la đi từ 0,15 lên 0,5, lạm phát trạng thái dừng đi từ khoảng 2,5% lên **khoảng 20% một năm**. Không có nền kinh tế nào có chế độ lạm phát mục tiêu vận hành được duy trì mức lạm phát bình quân 20% chỉ vì đô la hoá nợ ở mức đó — và nhiều nước có tỷ trọng đô la hoá nợ trong vùng này. Độ lớn này là một cận trên của mô hình, không phải một ánh xạ ra thực tế.
+
+**Thứ ba, cơ chế sinh ra kết quả là một đặc tả quy tắc chính sách khó biện hộ.** Lập luận của bài là quy tắc Taylor có hệ số chặn cố định nên không nội hoá được mức tăng của lãi suất trung lập đã điều chỉnh rủi ro, buộc cân bằng phải đạt được qua lạm phát vượt mục tiêu. Điều này đúng **trong mô hình**, nhưng nó giả định một ngân hàng trung ương **không bao giờ cập nhật ước lượng lãi suất trung lập của mình** trong suốt một thay đổi cơ cấu kéo dài nhiều năm. Trên thực tế, việc ước lượng lại lãi suất trung lập là công việc thường xuyên của mọi ngân hàng trung ương theo lạm phát mục tiêu.
+
+Điều này làm kết quả với quy tắc bền vững của Orphanides–Williams trở thành trường hợp thực tế hơn — và ở đó, lạm phát được neo gần như hoàn toàn trên cả dải, cái giá là chênh lệch lãi suất đi từ 3,9% lên 4,3% và điều kiện tài chính siết chặt hơn. **Đây mới là phát biểu đáng trích dẫn**, và bài cũng nói đúng như vậy: quy tắc không xoá được ma sát, nó chỉ đổi hình thức ma sát hiện ra. Nhưng hình thức thực tế là lãi suất thực cao hơn, không phải lạm phát cao hơn.
+
+### Kết quả về xuất khẩu là cảnh báo sắc nhất của bài, và nó là một nền tảng vi mô cho nỗi sợ thả nổi
+
+Trong nền kinh tế có nợ đô la cao, **xuất khẩu vẫn tăng khoảng 3,2% GDP sau cú sốc** — tức về mặt số liệu, tỷ giá vẫn "làm việc của nó". Bài không dừng ở đó mà nói thẳng rằng đây không phải cơ chế chuyển đổi chi tiêu lành tính của mô hình giáo khoa, mà là một **điều chỉnh bên ngoài tốn kém**, tạo ra bởi một cú mất giá lớn hơn nhiều, với tài khoản vãng lai xấu đi khoảng 5% GDP ngay lập tức rồi đảo sang thặng dư khoảng 1%.
+
+Đây là quan sát quan trọng nhất của bài đối với thực tiễn chính sách, vì nó nói rằng **hai nền kinh tế có thể cho cùng một con số cải thiện cán cân thương mại sau khi mất giá, nhưng đi tới đó theo hai con đường hoàn toàn khác nhau**: một bên là tái phân bổ cầu êm ả, một bên là co hẹp cầu trong nước cưỡng bức trông giống một cuộc dừng vốn đột ngột. Nhìn vào cán cân thương mại sau sự kiện thì không phân biệt được hai trường hợp.
+
+Hàm ý mà bài để ngỏ: lập luận kinh điển ủng hộ tỷ giá thả nổi — rằng tỷ giá hấp thụ cú sốc ngoài — **mất đi nền tảng của nó đúng ở những nền kinh tế có ghi hoá đơn đô la cao và nợ đô la cao**. Ở đó tỷ giá không hấp thụ cú sốc mà khuếch đại nó qua bảng cân đối, rồi tạo ra điều chỉnh bên ngoài bằng cách bóp nghẹt cầu nội địa. Bài đã cung cấp một nền tảng vi mô tường minh cho hiện tượng "sợ thả nổi" mà không gọi tên nó, và đây là đóng góp có sức nặng vượt ra ngoài phạm vi bài viết.
+
+### Tính co hẹp của mất giá phần lớn đã được cài vào hiệu chỉnh trước khi hai ma sát bắt đầu hoạt động
+
+Ba tham số trong bảng hiệu chỉnh quyết định phần lớn kết quả, và chúng nên được nêu rõ khi đánh giá độ vững.
+
+**ηc = 0,41**, tức nhỏ hơn 1, nghĩa là hàng nội và hàng nhập là **bổ sung chứ không thay thế**. Với tham số này, mất giá đẩy CPI lên mạnh mà hầu như không tạo phản ứng thay thế, nên kênh thu nhập thực khuếch đại tính co hẹp. **γI = 0,290**, tức thiên lệch nội địa trong đầu tư rất thấp, nghĩa là tư liệu sản xuất chủ yếu là hàng nhập, nên mất giá làm đầu tư đắt lên ngay. **γR = −20**, tức lãi suất ngoài tăng đi kèm cầu xuất khẩu yếu đi, biến một cú sốc tài chính thành đồng thời một cú sốc cầu.
+
+Ba lựa chọn này đều có thể biện hộ được cho một thị trường mới nổi điển hình, và bài lập luận đầy đủ cho từng cái. Nhưng chúng có nghĩa là **mất giá đã co hẹp gần như theo thiết kế trước khi hai ma sát trung tâm của bài được bật lên**. Đóng góp riêng của tương tác DCP–nợ đô la vì vậy nhỏ hơn ấn tượng mà các hình phản ứng xung tạo ra. Một phân rã cho biết bao nhiêu phần của tính co hẹp đến từ nền hiệu chỉnh và bao nhiêu đến từ hai ma sát sẽ làm bài mạnh hơn nhiều; nó không có.
+
+### Với Việt Nam: bài đặt Việt Nam vào một góc hiếm, và kết luận lại là tin tốt có điều kiện
+
+Việt Nam không nằm trong mẫu 25 hay 32 nước của bài, nhưng khung phân tích áp vào rất sát và cho một chẩn đoán không hiển nhiên.
+
+Trên chiều thứ nhất — **ghi hoá đơn bằng đô la** — Việt Nam nằm ở cực trên của phân bố thế giới. Xuất khẩu là hàng chế tạo trong chuỗi giá trị toàn cầu, gần như toàn bộ được ghi hoá đơn bằng đô la, và người mua là các tập đoàn đa quốc gia định giá theo đồng tiền của chính họ. Đây đúng là điều kiện mà bài mô tả là làm yếu kênh chuyển đổi chi tiêu, và nó **không thay đổi được bằng chính sách**.
+
+Trên chiều thứ hai — **nợ ngân hàng bằng đô la** — Việt Nam ở vị trí khác hẳn Thổ Nhĩ Kỳ hay Brazil, nhờ việc hạn chế cho vay ngoại tệ trong nước đã được siết dần qua nhiều năm. Và đây chính là chiều mà mô hình nói là quyết định.
+
+Ghép hai chiều lại, Việt Nam rơi đúng vào ô **"ghi hoá đơn cao, nợ đô la thấp"** — ô mà mô phỏng của bài cho phần bù UIP gần bằng không. Đây là một kết luận có giá trị và không hiển nhiên: **cơ cấu ghi hoá đơn, dù cực đoan, tự nó không tạo ra rủi ro tiền tệ được định giá, miễn là bảng cân đối không bị đô la hoá.** Nó cũng là lời biện hộ hậu nghiệm mạnh cho chính sách hạn chế tín dụng ngoại tệ, vốn thường bị phê phán là kìm hãm phát triển thị trường tài chính.
+
+Ba điều kiện kèm theo cần nói rõ, vì "tin tốt" ở đây là có điều kiện.
+
+**Thứ nhất, hàm lượng giá trị gia tăng trong nước là biến ẩn làm tình hình xấu hơn con số ghi hoá đơn gợi ý.** Bài hiệu chỉnh tỷ trọng đầu vào nội địa trong xuất khẩu ở mức 0,500. Với một nền kinh tế gia công lắp ráp có hàm lượng nhập khẩu trong xuất khẩu rất cao, con số thực thấp hơn, và khi đó mất giá làm chi phí đầu vào nhập khẩu tăng gần như song song với doanh thu xuất khẩu tính bằng nội tệ. Kênh chuyển đổi chi tiêu yếu không chỉ vì giá dính bằng đô la mà còn vì **biên độ được chuyển đổi vốn đã mỏng**. Đây cũng chính là chỉ tiêu mà tài liệu về thương mại và đầu tư ASEAN trong repo này xác định là thước đo đúng để đánh giá lợi ích thực từ dịch chuyển chuỗi cung ứng — hai tài liệu chỉ vào cùng một con số vì hai lý do khác nhau.
+
+**Thứ hai, phơi nhiễm đô la có thể nằm ngoài hệ thống ngân hàng.** Mô hình đặt nợ đô la ở bảng cân đối ngân hàng, vì đó là nơi cơ chế khuếch đại tín dụng vận hành. Nhưng phơi nhiễm ngoại tệ của doanh nghiệp — vay nước ngoài trực tiếp, nghĩa vụ thanh toán nhập khẩu, nợ của doanh nghiệp nhà nước và các khoản có bảo lãnh — không đi qua bảng cân đối ngân hàng và không xuất hiện trong chỉ tiêu mà cơ quan giám sát theo dõi. Kết luận "nợ đô la thấp" chỉ đúng nếu tính đủ cả những khoản đó. Đây là câu hỏi đo lường, và nó quyết định toàn bộ chẩn đoán.
+
+**Thứ ba, phòng hộ chỉ tồn tại nếu có thị trường để phòng hộ.** Khuyến nghị "hạn chế vay ngoại tệ **không phòng hộ**" ngầm giả định tồn tại một thị trường kỳ hạn và hoán đổi ngoại tệ đủ sâu, đủ kỳ hạn dài, với chi phí hợp lý. Ở nơi thị trường đó mỏng, quy định về phòng hộ trên thực tế trở thành quy định cấm vay, và doanh nghiệp có nhu cầu thật sẽ chuyển sang các kênh không được quan sát. Phát triển thị trường phái sinh ngoại tệ vì vậy không phải là một mục tiêu phát triển thị trường tài chính tách biệt mà là **điều kiện cần để công cụ an toàn vĩ mô mà bài khuyến nghị có thể vận hành**.
+
+Cuối cùng, mệnh đề kết của bài — mức độ rủi ro của một đồng tiền không phải là một đặc điểm ngoại sinh của quốc gia mà là một kết cục cân bằng — là cách phát biểu mạnh nhất và cũng lạc quan nhất trong toàn bộ tập hồ sơ này. Nó nói rằng phần bù rủi ro mà một nước phải trả không phải là số phận địa lý, mà là hệ quả của những lựa chọn cụ thể về đồng tiền ghi nợ và về độ sâu của thị trường tài chính trong nước. Đặt cạnh tài liệu về mạng lưới an toàn tài chính toàn cầu cùng thư mục — nơi bảy nền kinh tế được bảo vệ gần như vô hạn còn phần còn lại thì không — hai bài bổ sung cho nhau: thứ bậc tiền tệ quốc tế là thứ không sửa được, nhưng **vị trí của một nước cụ thể trong thứ bậc đó thì có thể cải thiện**, và đòn bẩy nằm ở cơ cấu nợ chứ không ở cơ cấu thương mại.

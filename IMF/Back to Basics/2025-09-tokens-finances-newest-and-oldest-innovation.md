@@ -178,3 +178,71 @@
 > "Financial crises often unfold like falling dominoes, with one failure setting off the next."
 
 > "Speed, complexity, and risky debt have all contributed to previous financial crises—and tokenization adds to all of them."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Vỏ ốc cowrie chứng minh điều ngược lại với điều bài dùng nó để chứng minh
+
+Hình ảnh mở đầu rất đẹp: vỏ ốc cowrie là token vật chất đầu tiên, và ưu điểm của nó là dễ xác minh — thấy nó, chạm nó, tin nó, không cần trung gian nào xác nhận. Từ đó bài dẫn tới ý tưởng rằng token hóa số đem tính chất đó trở lại thế giới số.
+
+Nhưng lịch sử thực của tiền vỏ ốc kể một câu chuyện khác hẳn, và nó là bài học quan trọng nhất có thể rút ra từ chính ví dụ mà bài chọn.
+
+Vỏ ốc cowrie lưu hành rộng rãi ở Tây Phi trong nhiều thế kỷ, và giá trị của nó không đến từ việc dễ xác minh — vỏ ốc thì ai cũng xác minh được — mà đến từ việc **nguồn cung bị giới hạn một cách tự nhiên**: loài ốc này chỉ sinh sống ở một số vùng biển nhất định, cách Tây Phi rất xa, nên lượng vỏ ốc đưa vào lưu thông tăng rất chậm.
+
+Điều đã phá hủy hệ thống ấy là thương nhân châu Âu, khi tàu biển và thương mại đường dài cho phép nhập vỏ ốc vào Tây Phi với khối lượng lớn chưa từng có. Giá trị của đồng tiền vỏ ốc sụp đổ trong thế kỷ 19, gây ra một đợt mất giá kéo dài và tàn phá tiết kiệm của cả một xã hội.
+
+Bài học rút ra đi thẳng vào trọng tâm của mọi tranh luận về token số: **cái quyết định một token có giữ được giá trị hay không không phải là khả năng xác minh bản thân token, mà là khả năng tin cậy vào quy tắc chi phối nguồn cung của nó**. Vỏ ốc có thể xác minh hoàn hảo và vẫn mất giá hoàn toàn, vì không ai kiểm soát được việc ai đem thêm bao nhiêu vỏ ốc vào. Đây chính xác là câu hỏi mà mọi hệ thống token phải trả lời, và nó là câu hỏi về thể chế chứ không phải về công nghệ.
+
+### Token hóa dịch chuyển vấn đề niềm tin chứ không xóa bỏ nó, và bài viết ra điều này rồi bỏ qua
+
+Bài nêu một chi tiết có vẻ kỹ thuật nhưng thực ra làm lung lay luận điểm trung tâm: với token đại diện cho một tài sản tồn tại bên ngoài sổ cái, chẳng hạn cổ phiếu niêm yết trên một sở giao dịch, "vẫn cần một trung gian giữ an toàn tài sản gốc ở hậu trường".
+
+Phân biệt này quan trọng hơn nhiều so với vị trí mà bài dành cho nó. Có hai loại token hoàn toàn khác nhau về bản chất.
+
+Loại thứ nhất là tài sản **sinh ra ngay trên sổ cái**: một trái phiếu được phát hành trực tiếp dưới dạng token, không tồn tại ở đâu khác. Với loại này, sổ cái chính là sự thật, và lập luận của bài đúng trọn vẹn.
+
+Loại thứ hai là token **đại diện cho một thứ ở bên ngoài**: một căn nhà, một thửa ruộng, một đàn bò, một cổ phiếu đang gửi ở nơi lưu ký. Với loại này, token chỉ có giá trị bằng đúng giá trị của **quyền đòi** mà nó thể hiện, và quyền đòi thì phải được tòa án công nhận và cơ quan thi hành án thực thi. Không một dòng mã nào bắt được một con bò đi từ chuồng này sang chuồng khác.
+
+Nói cách khác, token hóa tài sản thực không loại bỏ trung gian mà **thay một trung gian bằng một trung gian khác**: thay người giữ sổ sở hữu bằng người kiểm chứng rằng tài sản còn tồn tại và còn nguyên trạng. Và trung gian thứ hai khó thay thế hơn nhiều, vì nó đòi hỏi sự hiện diện vật lý và đòi hỏi niềm tin vào một hệ thống pháp lý.
+
+Bài đưa nhận xét này vào phần cuối dưới nhãn "công nghệ lai" — một cách gọi chính xác nhưng làm dịu đi tầm quan trọng của vấn đề. Đây không phải một biến thể của token hóa; đây là giới hạn trên của toàn bộ ý tưởng khi áp vào bất cứ thứ gì có thật ngoài đời.
+
+### Thanh toán tức thì được trình bày như lợi ích thuần túy, trong khi nó là một sự đánh đổi đã được nghiên cứu kỹ
+
+Bài mô tả khoảng chờ một hai ngày của trung tâm bù trừ như một thứ ma sát cần loại bỏ, và dẫn ước tính rằng chi phí quản lý tài sản có thể giảm khoảng một phần năm nếu thanh toán diễn ra tức thì.
+
+Nhưng độ trễ trong thanh toán không hoàn toàn là lãng phí. Nó tồn tại vì nó cho phép **bù trừ ròng**: trong một ngày giao dịch, một tổ chức mua và bán rất nhiều lần, và cuối ngày chỉ cần chuyển phần chênh lệch ròng. Khi thanh toán từng giao dịch tức thì và theo tổng, cơ chế bù trừ biến mất, và mỗi bên phải có sẵn tiền hoặc tài sản đầy đủ tại mọi thời điểm cho mọi giao dịch.
+
+Đây là một kết quả đã được nghiên cứu kỹ trong kinh tế học hệ thống thanh toán, và tỷ lệ chênh lệch rất lớn: nhu cầu thanh khoản trong ngày của hệ thống thanh toán tổng tức thời cao hơn nhiều lần so với hệ thống bù trừ ròng cuối ngày. Nói cách khác, thanh toán tức thì không làm chi phí biến mất mà **chuyển chi phí từ rủi ro tín dụng sang chi phí thanh khoản**. Bên nào có nhiều vốn lưu động thì được lợi; bên nào ít vốn thì có thể bị đẩy ra khỏi thị trường.
+
+Đây là lý do các ngân hàng trung ương, vốn vận hành cả hai loại hệ thống, không coi thanh toán tức thì là mục tiêu tuyệt đối mà là một lựa chọn thiết kế tùy theo quy mô và tính hệ thống của giao dịch. Việc bài trình bày độ trễ như thuần túy tiêu cực, và không nhắc một lần nào tới bù trừ ròng, là một sự đơn giản hóa làm sai lệch phép tính lợi ích.
+
+Còn một điểm nữa: phần lớn lợi ích của việc rút ngắn thời gian thanh toán đã được hiện thực hóa mà **không cần token hóa gì cả**. Thị trường chứng khoán Hoa Kỳ đã chuyển từ chu kỳ hai ngày xuống một ngày vào năm 2024 bằng cải tiến quy trình thông thường. Điều này đặt câu hỏi về việc phần lợi ích còn lại có đủ lớn để biện minh cho việc xây lại toàn bộ hạ tầng hay không.
+
+### Ba rủi ro được nêu đúng nhưng được mô tả ở thì tương lai, trong khi cả ba đã xảy ra
+
+Bài viết rằng thị trường token hóa "có thể" rủi ro hơn, rằng các chuỗi chương trình "có thể" hoạt động như bộ domino lập trình sẵn, rằng token "có thể" khiến tích nợ dễ hơn.
+
+Tất cả đều đã xảy ra, nhiều lần, trong chính lĩnh vực tài chính trên sổ cái phân tán, và bằng chứng sẵn có từ trước khi bài được viết.
+
+Cơ chế cụ thể như sau. Trong các hệ thống cho vay có thế chấp bằng tài sản số, hợp đồng lập trình tự động thanh lý tài sản thế chấp khi giá rơi xuống dưới một ngưỡng. Khi giá giảm mạnh, hàng loạt vị thế chạm ngưỡng cùng lúc, hệ thống tự động bán tài sản thế chấp ra thị trường, việc bán đó đẩy giá xuống thêm, và vòng lặp tiếp tục. Điều này đã diễn ra vào tháng 3/2020 và lặp lại trong các đợt sụt giá năm 2022, với quy mô thanh lý hàng tỷ đô la trong vài giờ.
+
+Điểm đáng chú ý là cơ chế này **kết hợp cả ba rủi ro mà bài liệt kê riêng rẽ**: tốc độ (thanh lý tự động không có độ trễ), độ phức tạp (nhiều lớp giao thức xếp chồng, tài sản thế chấp của lớp này là sản phẩm của lớp kia), và nợ (toàn bộ cấu trúc là vay có thế chấp). Ba rủi ro không cộng lại mà nhân với nhau.
+
+Đó cũng là lý do vì sao các biện pháp giảm nhẹ ở thị trường truyền thống — ngắt mạch khi giá biến động quá mạnh, thời gian ân hạn trước khi bổ sung ký quỹ, quyền can thiệp của con người — không phải là những thứ thừa thãi do quan liêu mà là những **van giảm áp được thiết kế có chủ đích**. Một thị trường token hóa muốn ổn định sẽ phải phát minh lại chúng, và khi đó nó mất đi một phần tính tự động vốn là lý do tồn tại của nó. Bài không nêu nghịch lý này, dù nó là câu hỏi thiết kế trung tâm của cả lĩnh vực.
+
+### Với Việt Nam: bài toán thật không nằm ở sổ cái mà ở quyền tài sản và ở khâu ký quỹ
+
+Có hai ứng dụng mà bài gợi ra và cả hai đều rất sát với Việt Nam, nhưng theo những cách khác với kỳ vọng thông thường.
+
+**Ứng dụng thứ nhất: token hóa tài sản nông nghiệp.** Bài kết bằng việc nhắc tới đất canh tác và gia súc, và đây đúng là lĩnh vực mà ý tưởng token hóa được quảng bá nhiều nhất ở các nước đang phát triển, với hứa hẹn giúp nông dân dùng tài sản của mình làm thế chấp để vay vốn.
+
+Nhưng với Việt Nam, ràng buộc không nằm ở việc ghi sổ. Đất đai thuộc sở hữu toàn dân và cái mà nông dân nắm giữ là quyền sử dụng đất; ruộng đất manh mún với diện tích bình quân mỗi thửa rất nhỏ; và điều quan trọng nhất, khả năng thực sự thu hồi và phát mại tài sản thế chấp khi người vay không trả được là vấn đề pháp lý và xã hội chứ không phải vấn đề kỹ thuật. Một ngân hàng không ngần ngại cho vay vì không biết mảnh ruộng thuộc về ai — sổ đỏ đã trả lời câu đó — mà vì biết rằng nếu phải xử lý tài sản, quá trình sẽ mất nhiều năm.
+
+Token hóa không chạm được vào bất kỳ ràng buộc nào trong số đó. Theo đúng phân tích ở phần trên, nó chỉ chuyển vấn đề niềm tin sang khâu kiểm chứng và thực thi, tức là sang đúng chỗ đang yếu.
+
+**Ứng dụng thứ hai, và là ứng dụng đã có tác động thật: khâu ký quỹ trong giao dịch chứng khoán.** Đây là nơi mà sự đánh đổi giữa rủi ro thanh toán và chi phí thanh khoản, phân tích ở phần trước, diễn ra rất cụ thể ở Việt Nam.
+
+Trong nhiều năm, thị trường chứng khoán Việt Nam yêu cầu nhà đầu tư phải có đủ tiền trong tài khoản trước khi đặt lệnh mua. Quy định này loại bỏ hoàn toàn rủi ro thanh toán — không ai có thể mua rồi không trả — nhưng nó áp một chi phí thanh khoản rất nặng lên nhà đầu tư tổ chức nước ngoài, những người phải chuyển ngoại tệ vào và để tiền nằm chờ trước khi biết lệnh có khớp hay không. Đây là một trong những rào cản được nêu đi nêu lại trong quá trình đánh giá nâng hạng thị trường, và việc nới quy định này cho nhà đầu tư tổ chức nước ngoài từ cuối năm 2024 là thay đổi có ý nghĩa nhất với dòng vốn ngoại trong nhiều năm.
+
+Điều đáng rút ra là: đây chính xác là vấn đề mà bài đặt ra, và nó được giải quyết bằng **thay đổi quy định về ai chịu rủi ro thanh toán**, không phải bằng công nghệ sổ cái. Với Việt Nam, danh sách những cải tiến hạ tầng thị trường mang lại lợi ích lớn nhất trên mỗi đồng chi phí gần như toàn bộ là các cải tiến thuộc loại này — và chúng nên được làm xong trước khi bàn tới việc xây lại nền tảng.

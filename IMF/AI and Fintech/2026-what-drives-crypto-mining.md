@@ -190,3 +190,67 @@
 > "Electricity prices carry the largest coefficient in the model: location follows power."
 
 > "Capital controls do not channel activity into mining. They obstruct it."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Đóng góp lớn nhất là một nguyên lý nghiên cứu, không phải một hệ số
+
+Bài giải một bài toán đo lường mà ngành đã loay hoay nhiều năm, và cách giải đáng học hơn kết quả. Nguyên lý có thể phát biểu tổng quát: **khi một hoạt động cố tình vô hình trong lĩnh vực của chính nó, hãy tìm đầu vào vật lý mà nó không thể thiếu, và đo cái đó**.
+
+Hoạt động đào giấu được dấu vết trên chuỗi, giấu được địa chỉ IP bằng mạng riêng ảo, giấu được quyền sở hữu qua nhiều lớp pháp nhân. Nhưng nó không giấu được một container máy ASIC đi qua cửa khẩu. Và điều khiến phép đo này đặc biệt sạch là một đặc tính kinh tế mà bài khai thác rất khéo: máy đào có **vòng đời rất ngắn**, một năm rưỡi tới ba năm. Với một tài sản khấu hao chậm, lượng nhập khẩu trong một quý nói rất ít về trữ lượng đang vận hành. Với một tài sản hao mòn nhanh, nhập khẩu gần như là một thước đo trực tiếp của hoạt động hiện hành. Đây là một sự trùng hợp may mắn được nhận ra và dùng đúng chỗ.
+
+Nguyên lý này chuyển giao được sang nhiều bài toán khác đang cấp bách hơn. Năng lực tính toán cho AI của một nước đo được qua nhập khẩu chip gia tốc. Quy mô trung tâm dữ liệu đo được qua hợp đồng đấu nối công suất điện. Và đáng chú ý là chính hai mã hải quan mà bài dùng hiện đang chứa ngày càng nhiều thiết bị tính toán cho AI chứ không chỉ máy đào — điều đó vừa làm phép đo cho bài toán cũ nhiễu đi, vừa biến cùng bộ dữ liệu ấy thành công cụ cho một bài toán mới và quan trọng hơn.
+
+Có một hệ quả mỉa mai đáng ghi nhận. Chính tính vật lý khiến hoạt động đào đo được cũng là tính vật lý khiến nó **đánh thuế được, quản lý được và định vị được**. Cái gọi là tính phi biên giới của tiền mã hoá dừng lại đúng ở chỗ có điện.
+
+### Kết quả về kiểm soát vốn bác bỏ một định kiến phổ biến, nhưng phạm vi của nó hẹp hơn cách nó thường được trích
+
+Hệ số âm và lớn của chi phí kiểm soát vốn là kết quả có giá trị chính sách cao nhất trong bài, vì nó đảo ngược một niềm tin được lặp lại rất nhiều: rằng ở nước kiểm soát vốn chặt, đào tiền mã hoá trở thành cửa thoát cho dòng vốn.
+
+Cơ chế mà bài đưa ra thuyết phục và đáng nhớ: đào ở quy mô thương mại **không phải hoạt động làm lén được**. Nó cần nhập khẩu thiết bị chính ngạch, cần hợp đồng điện công nghiệp lớn, cần mặt bằng nhà xưởng, cần chuyển tiền quốc tế cho nhà cung cấp và cần hồi hương lợi nhuận. Mỗi bước đều đi qua đúng những điểm nghẽn mà kiểm soát vốn được cài vào. Tức là nó không hưởng lợi từ kiểm soát vốn mà bị kiểm soát vốn cản trở.
+
+Nhưng cần rất cẩn trọng với phạm vi của kết luận này, và bài có nói nhưng nói hơi khẽ. Nó không nói rằng tiền mã hoá không phải kênh rò rỉ vốn. Nó chỉ nói rằng **việc đào không phải kênh đó**. Và bài còn chỉ đúng chỗ mà kênh đó nhiều khả năng nằm: giao dịch trên thị trường thứ cấp và stablecoin.
+
+Ghép với phân tích về stablecoin trong cùng thư mục, nơi việc lách quản lý dòng vốn được xếp là rủi ro thứ năm và với lý do rất cụ thể — token chuyển qua biên giới không đi qua hệ thống ngân hàng đại lý, nơi các biện pháp này vốn được thực thi — ta có một sự phân công nhiệm vụ rõ ràng giữa hai tài liệu. Dòng chảy bị rò không nằm ở phần cứng, nó nằm ở token. Với một cơ quan giám sát có nguồn lực hữu hạn, đây là một chỉ dẫn phân bổ nguồn lực có giá trị thật: **đừng dồn năng lực kiểm tra vào cửa khẩu, hãy dồn vào các cửa ngõ chuyển đổi giữa nội tệ và token**.
+
+### Phân rã độ co giãn là kết quả sâu nhất và nó được giải thích sơ sài nhất
+
+Con số 0,75 trong biến thiên theo thời gian so với 1,60 trong biến thiên giữa các nước được trình bày như một chi tiết kỹ thuật, kèm một câu diễn giải ngắn. Nhưng đó là kết quả nói nhiều nhất về bản chất kinh tế của ngành này.
+
+Nó nói rằng hoạt động đào **dễ di chuyển hơn là dễ mở rộng**. Khi giá bitcoin tăng, phản ứng chủ đạo không phải là tổng công suất toàn cầu tăng theo cùng tỷ lệ, mà là công suất **dịch chuyển** về phía nơi có điện rẻ nhất. Nói cách khác, đây không phải một ngành công nghiệp mà là một dòng chảy đi tìm chênh lệch giá năng lượng.
+
+Hệ quả thực tiễn nghiêm trọng hơn nhiều so với cách bài trình bày. Một nước đón nhận hoạt động đào đang tiếp nhận một nhu cầu điện rất lớn, rất tập trung, và có thể **biến mất trong một chu kỳ giá**. Trong khi đó, phần hạ tầng cần thiết để phục vụ nhu cầu ấy — trạm biến áp, đường dây, công suất phát — có tuổi thọ kinh tế ba tới bốn chục năm và thời gian xây dựng nhiều năm.
+
+Sự lệch pha giữa tuổi thọ của tài sản và tuổi thọ của nhu cầu là một cái bẫy quy hoạch cổ điển. Nếu ngành điện đầu tư mở rộng để phục vụ các cụm đào, và các cụm ấy rời đi sau một chu kỳ giá, phần chi phí cố định ở lại và sẽ được phân bổ vào giá điện của mọi người tiêu dùng khác. Đây không phải một rủi ro giả thuyết mà là kết cục đã xảy ra ở một số vùng trên thế giới, và độ co giãn 1,60 của bài chính là con số nói rằng nó có xác suất cao.
+
+### Hệ số lớn nhất lại là hệ số kém chắc chắn nhất, và nó có vấn đề nội sinh
+
+Cần công bằng với số liệu: hệ số của giá điện là âm 3,393, lớn nhất trong mô hình, nhưng nó chỉ có ý nghĩa ở mức mười phần trăm, trong khi mọi hệ số khác đều có ý nghĩa ở mức một phần trăm. Câu kết luận "địa điểm đi theo nguồn điện" đúng về chiều và đúng về cơ chế, nhưng **độ lớn của nó thì không được ước lượng chính xác**.
+
+Có thêm một vấn đề mà bài không bàn tới: giá điện ở đây gần như chắc chắn là biến nội sinh. Hoạt động đào làm tăng nhu cầu điện tại chỗ, và ở những thị trường mà giá phản ánh cung cầu, điều đó đẩy giá lên. Tức là chiều nhân quả chạy cả hai hướng, và điều này làm hệ số ước lượng bị chệch — nhiều khả năng là chệch về phía ước lượng thấp độ nhạy thật, vì phần tăng giá do chính hoạt động đào gây ra làm suy yếu tương quan âm quan sát được.
+
+Điều này không làm hỏng kết luận chính sách, mà ngược lại. Nếu độ nhạy thật còn lớn hơn con số ước lượng, thì công cụ giá điện còn mạnh hơn mức bài nói. Nhưng nó có nghĩa là không nên dùng con số 3,393 để làm phép tính định lượng cụ thể kiểu "tăng giá điện x phần trăm sẽ giảm hoạt động đào y phần trăm". Con số đó chưa đủ chắc để làm việc đó.
+
+### Nước trợ giá điện tự chọn mình vào vị trí chịu thiệt, và đó là một kết quả tự chọn mẫu mà bài không phát biểu
+
+Bài có nêu rằng các nước trợ giá điện đang vô tình trợ cấp cho hoạt động đào và nên nhận thức rõ chi phí tài khoá đó. Nhưng chính các con số của bài hàm chứa một kết luận mạnh hơn nhiều.
+
+Vì độ co giãn theo giá điện là rất lớn và vì hoạt động đào dịch chuyển dễ hơn mở rộng, dòng chảy này **tự tìm tới nơi giá điện thấp nhất**. Mà nơi có giá điện thấp nhất, trong nhiều trường hợp, không phải nơi có chi phí sản xuất điện thấp nhất mà là nơi **trợ giá nhiều nhất**.
+
+Ghép lại thì đây là một cơ chế tự chọn mẫu khá tàn nhẫn: những nước có ngân sách yếu nhất, đang phải trợ giá điện vì lý do xã hội, lại chính là những nước thu hút hoạt động đào mạnh nhất. Và điều họ thực sự đang làm là **xuất khẩu năng lượng được trợ giá dưới dạng một hàng hoá số**, với phần trợ giá chảy vào lợi nhuận của thợ đào còn chi phí tài khoá ở lại với nhà nước. Đây là một hình thức rò rỉ ngân sách không xuất hiện trong bất kỳ dòng nào của bảng cân đối ngân sách, vì nó đi qua giá chứ không qua chi.
+
+Điều này cũng giải thích vì sao lệnh cấm thường kém hiệu quả hơn chính sách giá. Lệnh cấm đẩy hoạt động vào chỗ khuất nhưng không thay đổi động cơ kinh tế, trong khi một biểu giá điện riêng cho phụ tải tính toán mật độ cao — không trợ giá, tính theo công suất đăng ký, có điều khoản cắt tải khi hệ thống căng — loại bỏ chính khoản lợi nhuận đã kéo hoạt động tới.
+
+### Với Việt Nam: đây là bài có công cụ dùng được ngay nhất trong cả thư mục
+
+Phần lớn tài liệu trong thư mục này đưa ra khung phân tích hoặc khuyến nghị dài hạn. Bài này đưa ra một **phương pháp mà một cơ quan nhà nước có thể triển khai trong quý tới với chi phí gần bằng không**: dữ liệu hải quan theo mã hàng đã có sẵn, đã được khai báo bắt buộc, và chỉ cần xử lý theo ba bước mà bài mô tả để cho ra một thước đo khách quan về quy mô hoạt động đào trong nước theo từng quý.
+
+Giá trị của việc đó không chỉ nằm ở con số. Nó nằm ở chỗ hiện nay các cuộc thảo luận về quy mô hoạt động tiền mã hoá ở Việt Nam gần như hoàn toàn dựa vào ước tính của bên thứ ba dùng phương pháp không kiểm chứng được. Một thước đo nội bộ, khách quan và có chuỗi thời gian sẽ thay đổi chất lượng của mọi cuộc thảo luận chính sách tiếp theo.
+
+Ba kết luận khác áp dụng trực tiếp.
+
+**Công cụ hiệu quả là biểu giá điện, không phải lệnh cấm.** Với một hệ thống điện mà giá bán lẻ ở nhiều nhóm khách hàng chưa phản ánh đủ chi phí và công suất dự phòng từng căng trong mùa cao điểm, việc để một phụ tải chạy hai bốn trên bảy với hệ số sử dụng gần một trăm phần trăm đấu vào lưới ở mức giá chung là một khoản trợ cấp ẩn đáng kể. Bài cho thấy chính khoản đó là thứ quyết định, nên rút nó đi là biện pháp trúng đích nhất.
+
+**Tính biến động là rủi ro quy hoạch, không chỉ là rủi ro tài chính.** Kết quả về độ co giãn giữa các nước nói rằng phụ tải này có thể đến rất nhanh và đi cũng rất nhanh. Bất kỳ quyết định đầu tư lưới điện nào được biện minh bằng nhu cầu từ nhóm khách hàng này đều nên được xem xét như một khoản đầu tư có rủi ro mắc kẹt cao.
+
+**Và tin tốt: nguồn lực giám sát nên được chuyển hướng.** Kết quả về kiểm soát vốn nói rằng nhập khẩu máy đào không phải lỗ hổng của chế độ quản lý ngoại hối. Với một cơ quan có nguồn lực hữu hạn, điều đó cho phép ngừng tiêu tốn sự chú ý vào một kênh không rò rỉ và dồn nó sang kênh thực sự rò rỉ, là các cửa ngõ chuyển đổi giữa nội tệ và stablecoin. Đây là loại kết luận phủ định ít khi được công bố nhưng lại tiết kiệm được nhiều nhất.

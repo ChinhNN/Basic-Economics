@@ -270,3 +270,63 @@
 > "OTC markets are less transparent and operate with fewer rules than do exchanges."
 
 > "Without liquid and orderly markets, there is no price discovery process and, in turn, no easy and definitive way to value the securities or derivatives."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Phân biệt giữa hai loại thanh khoản là đóng góp lớn nhất, và nó gói gọn cả một thập kỷ chính sách tiền tệ sắp tới
+
+Ở đoạn cuối cùng, gần như một lời than, bài viết: ngân hàng trung ương đã bơm vốn vào thị trường — **thanh khoản tài trợ** — "nhưng họ không thể trực tiếp khôi phục sự sẵn sàng của người mua và người bán trong việc giao dịch chứng khoán" — **thanh khoản giao dịch**.
+
+Hai chữ ấy phân biệt hai thứ mà ngôn ngữ thông thường gộp làm một, và sự nhầm lẫn giữa chúng là nguồn gốc của rất nhiều tranh luận vô ích. Thanh khoản tài trợ là câu hỏi một định chế có vay được tiền để giữ tài sản của mình hay không. Thanh khoản giao dịch là câu hỏi có tồn tại một người sẵn sàng đứng ra làm đối tác hay không. Ngân hàng trung ương in được tiền, nên giải quyết được vế thứ nhất một cách gần như tuyệt đối. Nó **không in ra được sự sẵn sàng của người khác**, nên vế thứ hai nằm ngoài tầm với của bộ công cụ truyền thống.
+
+Bài viết tháng 6 năm 2008 và nêu đúng khoảng trống này. Điều xảy ra sau đó là ngân hàng trung ương ở các nền kinh tế lớn đã lấp khoảng trống bằng một cách mà bài không hình dung ra: thay vì cố thuyết phục các nhà môi giới quay lại tạo lập thị trường, chính họ **trở thành người mua**. Các chương trình mua thương phiếu, mua chứng khoán được bảo đảm bằng tài sản, và sau này mua trái phiếu doanh nghiệp, đều là cùng một động tác — ngân hàng trung ương bước vào vai **người tạo lập thị trường cuối cùng**, bên cạnh vai người cho vay cuối cùng vốn đã có từ lâu.
+
+Đây là một sự mở rộng nhiệm vụ rất lớn, thực hiện trong tình trạng khẩn cấp và chưa bao giờ được tranh luận đầy đủ về mặt nguyên tắc. Nó cũng tạo ra kỳ vọng: nếu thị trường tin rằng ngân hàng trung ương sẽ mua khi giá rơi, thì giá trong thời bình thường phản ánh một phần cái kỳ vọng đó chứ không chỉ phản ánh rủi ro của tài sản. Bài nêu ra vấn đề đúng; lời giải được tìm ra sau đó mang theo một vấn đề mới mà đến nay vẫn chưa xử lý xong.
+
+### Thanh khoản OTC là một dịch vụ tuỳ nghi, nên nó được bảo đảm sẽ vắng mặt đúng lúc cần nhất
+
+Bài nêu một dữ kiện rất quan trọng và nêu nó với giọng trung tính, như một chi tiết kỹ thuật: nhà môi giới một chứng khoán OTC "**có thể rút khỏi việc tạo lập thị trường**, khiến tính lỏng cạn kiệt".
+
+Hãy đặt câu ấy cạnh một câu khác trong bài: các thị trường này "lỏng và hoạt động tốt **trong thời bình thường**". Gộp lại, ta có mô tả chính xác về một cấu trúc **chuyển rủi ro từ thời bình sang thời loạn**. Trong 99% thời gian, thị trường OTC vượt trội hơn sàn giao dịch: chênh lệch mua bán hẹp hơn với giao dịch lớn, sản phẩm được thiết kế riêng, chi phí thấp hơn. Trong 1% còn lại, nó không xấu hơn một chút mà **biến mất hoàn toàn**.
+
+Điều này không phải một khiếm khuyết có thể sửa bằng "cải thiện thực hành tạo lập thị trường" như câu kết của bài đề xuất. Nó là **thuộc tính định nghĩa** của cách tổ chức đó. Nhà tạo lập thị trường trên sàn thường có nghĩa vụ báo giá hai chiều như điều kiện để được hưởng đặc quyền; nhà môi giới OTC không có nghĩa vụ nào cả. Bài tự giải thích luôn cơ chế rút lui và nó hoàn toàn hợp lý về mặt thương mại: khi biến động tăng vọt, việc giữ tồn kho chứng khoán để phục vụ khách trở nên "đặc biệt nguy hiểm và tốn kém", và một doanh nghiệp không có nghĩa vụ thì sẽ ngừng làm việc thua lỗ.
+
+Hệ quả phân phối cũng đáng nói và bài không nói: người hưởng lợi trong 99% thời gian — nhà môi giới thu chênh lệch giá, tổ chức phát hành được chi phí vốn thấp — không phải là người trả giá trong 1% còn lại. Phần lớn chi phí của 1% ấy rơi vào người nắm giữ cuối và, khi đủ lớn, vào ngân sách công. Đây là định nghĩa sách giáo khoa của một ngoại ứng, và nó là lập luận kinh tế học chuẩn mực cho việc can thiệp quản lý — mạnh hơn nhiều so với lập luận về minh bạch mà bài dùng.
+
+### Bất đối xứng thông tin không phải khuyết tật của thị trường OTC mà là mô hình kinh doanh của nó
+
+Bài nêu ba dữ kiện ở ba chỗ khác nhau, bằng giọng mô tả thuần tuý. Nhà môi giới "không nhất thiết báo cùng một mức giá cho mọi khách hàng". Khách hàng "không thể thâm nhập thị trường giữa các nhà môi giới". Màn hình của môi giới giá "thường không có sẵn cho khách hàng cuối".
+
+Ba dữ kiện ấy cộng lại thành một kết luận mà bài để người đọc tự rút: lợi nhuận của nhà môi giới đến từ việc **anh ta là bên duy nhất nhìn thấy cả hai phía**. Anh ta biết giá liên môi giới, khách hàng không biết; anh ta biết mức giá anh ta báo cho từng khách hàng khác nhau, các khách hàng không biết của nhau. Minh bạch không phải là một cải tiến mà thị trường này còn thiếu — nó là thứ **trực tiếp ăn vào nguồn thu** của những người vận hành nó.
+
+Điều này có giá trị dự báo. Nó giải thích vì sao mọi nỗ lực cải cách sau 2008 nhằm đưa giao dịch OTC lên nền tảng điện tử và buộc báo cáo giao dịch đều gặp sự kháng cự mạnh và kéo dài; và vì sao sự kháng cự ấy luôn được diễn đạt bằng ngôn ngữ kỹ thuật về tính thanh khoản và khả năng tuỳ biến sản phẩm, chứ không bao giờ bằng ngôn ngữ về biên lợi nhuận. Khi đọc bất kỳ cuộc tranh luận nào về cấu trúc thị trường, việc đầu tiên nên làm là hỏi **ai đang kiếm tiền từ tình trạng hiện tại**.
+
+### Nhận xét thoáng qua về bù trừ hoá ra chỉ đúng hướng cải cách quan trọng nhất
+
+Khi bàn về các nền tảng điện tử làm mờ ranh giới giữa OTC và sàn, bài chỉ ra sự khác biệt còn lại: "việc **bù trừ và thanh toán** giao dịch vẫn để cho người mua và người bán, khác với giao dịch trên sàn, nơi các giao dịch được khớp và **bảo đảm bởi sàn**".
+
+Câu này được viết như một chi tiết kỹ thuật còn sót lại. Nó hoá ra là đòn bẩy cải cách chính của cả một thập kỷ. Sau khủng hoảng, các nước lớn thống nhất buộc phần lớn phái sinh OTC đã chuẩn hoá phải được **bù trừ qua đối tác trung tâm** — một định chế đứng giữa hai bên, trở thành người mua với mọi người bán và người bán với mọi người mua, đòi ký quỹ hằng ngày.
+
+Lý do đây là cải cách đúng nằm ở chỗ nó tấn công vào vấn đề thật. Trong một mạng lưới song phương, không ai biết tổng phơi nhiễm của ai, nên khi một mắt xích gãy thì mọi người đều phải giả định điều xấu nhất về mọi người — đó chính là cơ chế đóng băng mà bài mô tả. Đối tác trung tâm biến mạng lưới chằng chịt ấy thành một hình sao, trong đó tổng phơi nhiễm được nhìn thấy và được bảo đảm bằng ký quỹ.
+
+Nhưng bài học đi kèm cũng đáng ghi lại, và nó là cùng một bài học xuất hiện ở bài về đô la hoá trong loạt này: **rủi ro được chuyển đi không phải rủi ro được xoá đi**. Các đối tác trung tâm nay là những nút thắt có tầm quan trọng hệ thống, nơi rủi ro được gom lại thay vì phân tán. Chúng được quản lý chặt chẽ và có nhiều lớp phòng vệ, nhưng chúng cũng là loại định chế mà sự sụp đổ của nó là điều không thể chấp nhận được — tức lại là một dạng bảo đảm ngầm của nhà nước, ở một vị trí mới.
+
+### Vấn đề định giá chỉ ra một nguyên tắc thiết kế quy tắc mà bài không phát biểu
+
+Bài mô tả rất chính xác vòng xoáy định giá: không có giá thị trường, cũng không có giá chuẩn của tài sản tương tự, nên tài sản "được suy ra từ các mô hình mà không có dữ liệu đầy đủ", và việc dựa vào các định giá như vậy "làm xói mòn thêm niềm tin thị trường vì những người tham gia không chắc chắn về giá trị của chính các khoản nắm giữ của mình **và của các bên khác**".
+
+Vế cuối là vế quyết định và nó thường bị bỏ qua. Vấn đề không phải mỗi định chế không biết mình đáng giá bao nhiêu — điều đó chỉ gây khó khăn kế toán. Vấn đề là **không ai biết đối tác của mình đáng giá bao nhiêu**, nên hành vi hợp lý là ngừng giao dịch với tất cả. Sự bất định về giá biến thành sự bất định về khả năng thanh toán, và sự bất định về khả năng thanh toán làm đóng băng cả thị trường liên ngân hàng.
+
+Đằng sau đó là một nguyên tắc tổng quát mà bài có đủ nguyên liệu để nêu: **một quy tắc phụ thuộc vào một đầu vào có thể biến mất dưới sức ép là một quy tắc sẽ hỏng dưới sức ép**. Yêu cầu định giá theo giá thị trường ngầm giả định rằng luôn tồn tại một thị trường. Khi giả định đó sai, quy tắc không hỏng một cách êm ái: nó cho ra hoặc một con số hư cấu từ mô hình, hoặc một con số từ vài giao dịch bán tháo mà việc ghi nhận nó lại buộc thêm nhiều bên khác phải bán. Cả hai kết cục đều tệ, và việc chọn giữa chúng là tranh luận kế toán gay gắt nhất của cuộc khủng hoảng. Nguyên tắc này áp dụng cho mọi ngưỡng quản lý dựa vào giá thị trường, từ yêu cầu vốn tới tỷ lệ ký quỹ.
+
+### Với Việt Nam: thị trường trái phiếu doanh nghiệp là một trường hợp gần như trùng khớp với bài
+
+Bài này có vẻ xa lạ với một thị trường mới nổi, nhưng thực ra nó mô tả gần như chính xác cấu trúc và diễn biến của thị trường trái phiếu doanh nghiệp Việt Nam.
+
+Cấu trúc thì khớp từng chi tiết: phần lớn trái phiếu được **phát hành riêng lẻ**, mua bán **song phương** qua thoả thuận trực tiếp, không có báo giá hai chiều liên tục, không có nhà tạo lập thị trường thực thụ, không có giá chuẩn cho các trái phiếu tương đương, và người nắm giữ cuối thường là nhà đầu tư cá nhân mua qua kênh phân phối của ngân hàng — tức đúng vị trí "khách hàng cuối" mà bài mô tả là không tiếp cận được thông tin giá.
+
+Diễn biến năm 2022 thì khớp với đoạn mô tả khủng hoảng trong bài đến mức gần như có thể dùng bài làm bản tường thuật. Khi niềm tin gãy, không ai báo giá; không có giá thì không ai định giá được khoản mình nắm giữ; không định giá được thì không ai mua; không có người mua thì người nắm giữ không thoát ra được kể cả khi chấp nhận lỗ; và sự bất định lan sang cả các tổ chức phát hành lành mạnh vì không ai phân biệt được. Cũng đúng như bài chỉ ra, các biện pháp bơm thanh khoản cho hệ thống ngân hàng — thanh khoản tài trợ — không khôi phục được thanh khoản giao dịch của thị trường trái phiếu, vì đó là hai thứ khác nhau.
+
+Phản ứng chính sách sau đó, việc đưa trái phiếu doanh nghiệp riêng lẻ vào một hệ thống giao dịch tập trung với đăng ký và công bố giao dịch, chính là bước đi mà logic của bài dẫn tới. Giá trị lớn nhất của nó không nằm ở chỗ tạo thanh khoản — tập trung hoá không tự tạo ra người mua — mà ở chỗ tạo ra **giá chuẩn**: khi tồn tại một chuỗi giá giao dịch quan sát được cho các trái phiếu có xếp hạng và kỳ hạn tương đương, thì người nắm giữ một trái phiếu chưa giao dịch vẫn định giá được nó, và vòng xoáy bất định mà bài mô tả bị chặn ngay ở mắt xích đầu tiên.
+
+Có một suy luận đáng rút ra cho một thị trường nhỏ, và nó ngược với trực giác. Lập luận thông thường bênh vực cấu trúc OTC là nó linh hoạt và phù hợp với thị trường chưa đủ chuẩn hoá. Nhưng logic của bài nói ngược lại: thanh khoản OTC dựa vào việc có **đủ nhiều nhà môi giới có đủ vốn** để sẵn sàng ôm tồn kho khi khách cần bán. Một thị trường nhỏ không có điều đó, nên thanh khoản OTC ở đó mỏng hơn và rút lui nhanh hơn. Nghĩa là **thị trường càng nhỏ thì lập luận cho việc giao dịch tập trung càng mạnh**, chứ không phải càng yếu. Đọc cùng các tài liệu về kiểm định sức chịu đựng, về trái phiếu và lợi suất, và về ngân hàng ngầm trong repo, đây là nguyên tắc nên dẫn dắt việc phát triển mọi thị trường nợ trong nước: xây hạ tầng giá và bù trừ trước, mở rộng quy mô phát hành sau.

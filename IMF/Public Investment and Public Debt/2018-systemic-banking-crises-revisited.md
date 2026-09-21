@@ -608,3 +608,75 @@
 > "The ability of high-income countries to rely also on monetary and fiscal policy to mitigate the real effects of banking crises may also discourage more active bank restructuring which could ultimately prolong the duration of a crisis."
 
 > "While only a few countries have experienced a crisis in recent years, this period may just be the lull before the storm."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Định nghĩa dựa trên phản ứng chính sách giải quyết một vấn đề và tạo ra một vấn đề khác
+
+Việc định ngày khủng hoảng theo cường độ can thiệp — ít nhất ba trong sáu biện pháp — là một lựa chọn phương pháp thông minh. Nó biến một khái niệm mơ hồ thành một quy tắc áp dụng được nhất quán qua 48 năm và qua mọi mức thu nhập, và đó là lý do bộ dữ liệu này trở thành chuẩn tham chiếu trong khi các bộ dựa vào phán đoán tường thuật chỉ phủ được vài chục nước.
+
+Nhưng nó cũng có nghĩa là **mẫu được chọn theo chính biến mà bài muốn so sánh**. Một nửa nội dung phân tích của bài là "nước giàu và nước nghèo phản ứng khác nhau như thế nào", trong khi chính phản ứng là điều kiện để lọt vào mẫu. Một hệ thống ngân hàng mục ruỗng ở một nước mà chính phủ không làm gì — không tái cấp vốn, không bảo lãnh, không mua tài sản, chỉ để ngân hàng zombie tồn tại — sẽ không bao giờ xuất hiện trong danh sách 151 đợt, trừ khi thua lỗ lớn đến mức thoả tiêu chí nợ xấu 20% hoặc chi phí tái cơ cấu 5% GDP một mình.
+
+Bài ý thức được điều này và chính vì thế mới giữ nhánh tiêu chí thứ nhất. Nhưng nhánh đó đòi ngưỡng rất cao, nên loại "khủng hoảng âm ỉ, xử lý bằng cách trì hoãn" vẫn gần như chắc chắn bị bỏ sót một cách có hệ thống — và theo logic của chính bài, đó lại là loại kéo dài nhất.
+
+### Nghịch lý chi phí tài khoá có một cách giải thích thứ hai mà bài không đưa ra
+
+Kết quả đảo ngược là phát hiện gây tò mò nhất: nước thu nhập cao có chi phí tài khoá trực tiếp ròng chỉ 3,3% GDP so với 9,6% ở nước nghèo, nhưng mức tăng nợ công lại là 21,1% so với 16,4%. Bài giải thích bằng chính sách tài khoá chủ động và các bộ ổn định tự động.
+
+Lời giải thích đó đúng nhưng chưa đủ, và mảnh còn thiếu nằm ngay trong định nghĩa. Chi phí tài khoá trực tiếp **không tính bảo lãnh chưa bị gọi** — và bảo lãnh chính là công cụ mà bài xác định là khác biệt lớn nhất giữa hai nhóm: 19 trong 34 đợt có bảo lãnh toàn diện là ở nước thu nhập cao.
+
+Nghĩa là chiến lược của nước giàu về bản chất là **đổi một nghĩa vụ đã phát sinh lấy một nghĩa vụ tiềm tàng**. Nếu bảo lãnh thành công trong việc chặn tháo chạy, nó không bao giờ bị gọi và không xuất hiện ở bất kỳ dòng chi nào. Con số 3,3% vì thế không chứng minh rằng nước giàu xử lý khủng hoảng rẻ hơn; nó chứng minh rằng họ **hạch toán khác**. Rủi ro thật mà khu vực công gánh trước khi biết kết cục — cái mà bài gọi là thước đo ex ante — không nằm trong bảng nào. Và bảo lãnh không hề rẻ về mặt thời gian: Mexico mất 10 năm mới gỡ hết, Malaysia 7 năm, và Liên minh châu Âu cuối 2016 vẫn còn 120 tỷ euro bảo lãnh chưa gỡ.
+
+Trường hợp Iceland cho thấy thước đo này lệch tới mức nào theo cả hai chiều: bài ghi chi phí ròng 3,3% GDP, nhưng không tính phần vốn ngân hàng mà nhà nước còn nắm trị giá khoảng 12% GDP năm 2016 — đủ để biến một khoản chi thành một khoản lãi ròng 9% GDP theo cách tính khác.
+
+### Phát hiện thống nhất mà bài viết ra làm hai mảnh rồi không ghép lại
+
+Bài đưa ra hai quan sát ở hai chỗ khác nhau và gán cho chúng hai nguyên nhân trái ngược.
+
+**Quan sát thứ nhất**: nước thu nhập thấp và trung bình dùng hỗ trợ thanh khoản nhiều gấp đôi (đỉnh 23% so với 12%) và dựa vào nó trong thời gian dài hơn nhiều trước khi tái cấp vốn. Nguyên nhân được đưa ra là **thể chế yếu**, ngân hàng trung ương và cơ quan quản lý không độc lập, dẫn tới **chậm thừa nhận vấn đề khả năng thanh toán**.
+
+**Quan sát thứ hai**: quá nửa số đợt ở nước thu nhập cao kéo dài từ năm năm trở lên, và một trong ba lời giải thích là chính khả năng dùng chính sách tiền tệ và tài khoá để giảm nhẹ tác động thực **có thể làm nản việc tái cơ cấu ngân hàng quyết liệt**, và rốt cuộc kéo dài khủng hoảng.
+
+Hai quan sát này là cùng một cơ chế. Thứ kéo dài một cuộc khủng hoảng ngân hàng không phải là sự nghèo hay sự giàu, mà là **sự tồn tại của một công cụ cho phép hoãn việc thừa nhận thua lỗ**. Ở nước nghèo công cụ đó là thanh khoản của ngân hàng trung ương; ở nước giàu là dư địa tài khoá và tiền tệ. Cả hai đều mua thời gian, và cả hai đều dùng thời gian đó để không làm việc khó.
+
+Điều này lật ngược một trực giác rất phổ biến. Dư địa chính sách vẫn cực kỳ có giá trị — không có nó thì nước nghèo buộc phải thắt chặt giữa khủng hoảng, với hậu quả được mô tả ngay dưới đây. Nhưng dư địa chính sách cũng là một **quyền chọn trì hoãn**, và hệ thống chính trị hầu như luôn thực hiện quyền chọn đó. Nhật Bản cuối thập niên 1990 là nguyên mẫu, và khu vực euro sau 2010 là bản lặp lại.
+
+### Vòng luẩn quẩn của nước nghèo là kết quả đáng ngại nhất trong bài
+
+Trong khi nước thu nhập cao hạ lãi suất ngắn hạn từ khoảng 5% về gần bằng 0 và để cán cân sơ cấp rơi từ +1,5% GDP xuống −4%, thì nước thu nhập thấp và trung bình **nâng** lãi suất từ khoảng 14% lên 12–13% sau một nhịp, và **cải thiện** cán cân sơ cấp từ −1,5% lên quanh 0. Tức là thắt chặt cả tiền tệ lẫn tài khoá ngay giữa một cuộc khủng hoảng ngân hàng.
+
+Lý do không phải sai lầm chính sách mà là ràng buộc: họ phải bảo vệ tỷ giá vì bảng cân đối của khu vực tư nhân có phơi nhiễm ngoại tệ lớn, và họ không vay được để tài trợ thâm hụt. Nhưng hệ quả mà bài chỉ ra trong một dòng là tàn nhẫn: **chính việc buộc phải nâng lãi suất lại làm chất lượng tài sản ngân hàng xuống cấp mạnh hơn**. Người vay không trả nổi, nợ xấu tăng, lỗ ngân hàng lớn thêm, áp lực lên tỷ giá không giảm.
+
+Đây là một vòng phản hồi không có lối ra bằng công cụ trong nước, và nó giải thích vì sao nợ xấu đỉnh ở nhóm này cao gấp nhiều lần nhóm giàu. Nó cũng có nghĩa là năng lực phản ứng ngược chu kỳ **không được tạo ra khi khủng hoảng nổ ra**; nó được tích luỹ từ trước bằng dư trữ ngoại hối, nợ công thấp, và mức đô la hoá thấp trong bảng cân đối tư nhân. Đây là lập luận mạnh nhất, và cụ thể nhất, cho việc giữ đệm tài khoá trong thời yên ổn mà repo này bàn ở nhiều chỗ.
+
+### Sơ đồ Venn tiết lộ một điều mà bài không bình luận: đồng tiền là mắt xích
+
+Trong 151 đợt khủng hoảng ngân hàng, chỉ **2 đợt** đi kèm khủng hoảng nợ chính phủ mà không kèm khủng hoảng tiền tệ, trong khi có **11 đợt "khủng hoảng ba"** và 31 đợt ngân hàng kèm tiền tệ.
+
+Con số 2 này đáng chú ý hơn con số 11. Nó có nghĩa là kênh nối từ khủng hoảng ngân hàng tới khủng hoảng nợ chính phủ hầu như **luôn đi qua đồng tiền**. Một hệ thống ngân hàng đổ vỡ ở một nước có tỷ giá thả nổi và nợ nội tệ hiếm khi kéo theo vỡ nợ chủ quyền. Nó kéo theo vỡ nợ khi mất giá làm phình nghĩa vụ ngoại tệ, hoặc khi việc bảo vệ tỷ giá làm cạn dự trữ và đóng cửa khả năng tiếp cận thị trường.
+
+Hàm ý chẩn đoán rất cụ thể: biến cần theo dõi khi hệ thống ngân hàng gặp vấn đề không phải là tỷ lệ nợ công trên GDP, mà là **trạng thái ngoại tệ của toàn hệ thống** — của ngân hàng, của người vay, và của chính phủ cộng lại. Đây cũng chính là chuỗi đối ngoại được mô tả độc lập trong tài liệu về kinh tế vĩ mô của chiến tranh và phục hồi ở thư mục ASEAN: mất nguồn ngoại tệ, dự trữ cạn, không giữ nổi tỷ giá, nâng lãi suất vô hiệu.
+
+### Thước đo mất sản lượng có một thiên lệch đi đúng chiều kết luận
+
+Chênh lệch mất sản lượng — trung vị 35% GDP xu thế ở nước giàu so với 13,8% ở nước nghèo — được giải thích bằng hệ thống tài chính lớn và sâu hơn. Nhưng cách tính cũng đóng góp vào kết quả.
+
+Xu thế được ước lượng bằng lọc HP trên 20 năm trước khủng hoảng. Ở nước thu nhập thấp và trung bình, cửa sổ 20 năm đó **thường chứa chính các cuộc khủng hoảng trước** — bài ghi nhận Argentina có 4 đợt, CHDC Congo và Ukraine mỗi nước 3 đợt trong 48 năm, và các đợt sóng khu vực khiến nhiều nước có hai đợt cách nhau dưới hai thập kỷ. Một xu thế được ước lượng trên một quá khứ đã bị khủng hoảng làm phẳng sẽ thấp hơn thực tế, và khoảng hụt so với xu thế đó sẽ nhỏ hơn thực tế.
+
+Bài đã rất cẩn trọng khi nói rằng con số này chỉ nên đọc là "điều gì xảy ra với sản lượng sau một cuộc khủng hoảng", không phải điều khủng hoảng gây ra, và rằng xếp hạng thì vững còn mức thì nhạy với cách tính xu thế. Đó là lời cảnh báo đúng. Nhưng chính vì thế, **so sánh mức giữa hai nhóm nước — vốn là một so sánh về mức chứ không phải xếp hạng — là ứng dụng mà bài cảnh báo chống lại**, và lại là ứng dụng được đưa vào phần tóm tắt.
+
+### Với Việt Nam: cả sự vắng mặt trong danh sách lẫn cơ chế của bài đều đáng suy nghĩ
+
+Cơ sở dữ liệu chỉ ghi bốn đợt khủng hoảng ngân hàng bắt đầu từ 2011 trở đi — Síp, Guinea-Bissau, Moldova, Ukraine. Giai đoạn nợ xấu ngân hàng của Việt Nam những năm 2011–2015 không nằm trong đó.
+
+Điều này không có nghĩa là không có vấn đề, mà cho thấy đúng điểm mù của phương pháp. Cách xử lý chủ đạo khi đó — chuyển nợ xấu sang một công ty quản lý tài sản, thanh toán bằng trái phiếu đặc biệt thay vì tiền ngân sách, và trích lập dần qua nhiều năm — là một chiến lược **gần như không phát sinh chi tiêu tài khoá tức thời** và do đó không chạm tới bất kỳ ngưỡng nào trong sáu tiêu chí của bài. Theo thước đo của Laeven và Valencia, một đợt như vậy gần như vô hình.
+
+Và theo chính logic của bài, đó lại là loại đáng lo về độ dài. Cơ chế mà bài xác định là kéo dài khủng hoảng — có một công cụ cho phép hoãn thừa nhận thua lỗ — mô tả chính xác một mô hình xử lý dựa trên giãn thời gian trích lập. Chi phí không biến mất; nó được trải ra và chuyển thành nhiều năm tăng trưởng tín dụng thấp hơn và biên lãi cao hơn, tức là một khoản thuế phân tán lên người đi vay.
+
+Hai chỉ báo cụ thể để theo dõi rút ra từ bài, cả hai đều không phải chỉ báo tài khoá. **Thứ nhất**, trạng thái ngoại tệ hợp nhất của hệ thống, vì đó là mắt xích nối ngân hàng với chủ quyền trong gần như mọi trường hợp lịch sử. **Thứ hai**, khoảng cách giữa thời điểm nợ xấu bắt đầu tăng và thời điểm có quyết định tái cấp vốn hoặc xử lý dứt điểm — vì bài cho thấy chính khoảng cách đó, chứ không phải quy mô thua lỗ ban đầu, là thứ quyết định khủng hoảng kéo dài bao lâu.
+
+### Câu kết năm 2018 đã đúng theo một cách mà bài không lường
+
+"Giai đoạn này có thể chỉ là sự yên ả trước cơn bão" là một câu kết đẹp, và đáng được kiểm tra lại. Cơn bão đến — nhưng đến dưới dạng một đại dịch, và **không** kéo theo làn sóng khủng hoảng ngân hàng, vì các chính phủ và ngân hàng trung ương can thiệp với quy mô chưa từng có ngay từ đầu. Sau đó, đợt căng thẳng ngân hàng năm 2023 ở Mỹ và Thuỵ Sĩ được xử lý trong vài ngày bằng bảo lãnh và sáp nhập cưỡng bức.
+
+Điều này vừa xác nhận vừa thách thức khung của bài. Xác nhận, vì nó cho thấy phản ứng chính sách nhanh và đủ lớn thật sự ngăn được kiệt quệ ngân hàng biến thành khủng hoảng hệ thống — đúng lý do bài đưa phản ứng chính sách vào định nghĩa. Thách thức, vì nếu mọi đợt căng thẳng đều được dập bằng bảo lãnh trước khi thoả ba trong sáu tiêu chí, thì tần suất khủng hoảng đo được sẽ giảm mà không cần rủi ro nền tảng giảm theo. Bộ đếm sẽ yên tĩnh dần, trong khi các nghĩa vụ tiềm tàng tích tụ ở chỗ không ai đếm.

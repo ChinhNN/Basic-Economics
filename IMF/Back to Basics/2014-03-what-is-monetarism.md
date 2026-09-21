@@ -153,3 +153,59 @@
 > "Regarding the Great Depression, you're right. We [the Fed] did it. We're very sorry. But thanks to you, we won't do it again." (Ben Bernanke, 2002)
 
 > "The relationship between money and economic performance changed."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Bản cáo phó được viết quá sớm: giai đoạn 2020–2023 đã lật lại phán quyết của bài
+
+Bài kết thúc bằng một phán quyết rõ ràng. Trọng tiền đã chết vì vòng quay tiền mất ổn định. Những người trọng tiền dự báo siêu lạm phát sau gói kích thích 2008 và họ đã sai một cách ngoạn mục. Cái còn lại chỉ là một nguyên lý chung chung rằng lạm phát không thể kéo dài mãi nếu cung tiền không tăng.
+
+Sáu năm sau khi bài in, một chuỗi sự kiện xảy ra mà nếu được đưa vào bài sẽ buộc phải viết lại toàn bộ đoạn kết. Cung tiền rộng của Mỹ tăng khoảng **27% trong vòng một năm** tính đến đầu 2021 — mức tăng nhanh nhất kể từ Thế chiến II. Khoảng một năm rưỡi sau, lạm phát tiêu dùng đạt đỉnh **9,1%**. Rồi cung tiền rộng **giảm so với cùng kỳ** trong năm 2022–23, lần suy giảm kéo dài đầu tiên kể từ thập niên 1930, và lạm phát đi xuống sau đó với độ trễ tương tự — mà không kèm theo đợt thất nghiệp hàng loạt mà các mô hình dựa trên chênh lệch sản lượng cho rằng bắt buộc phải có.
+
+Trong khi đó, các mô hình mà ngân hàng trung ương thực sự dùng để ra quyết định — thế hệ mô hình Keynesian mới, trong đó lượng tiền thậm chí không xuất hiện như một biến số — đã cho ra kết luận rằng lạm phát chỉ là hiện tượng nhất thời. Một nhóm nhỏ nhà kinh tế vẫn theo dõi tổng lượng tiền đã cảnh báo sớm hơn và đúng hơn.
+
+Điều này không có nghĩa trọng tiền đã đúng và phần còn lại đã sai. Nhưng nó có nghĩa là câu "hầu hết nhà kinh tế hôm nay bác bỏ sự chú ý mù quáng vào tăng trưởng tiền" đã được viết ở đúng đáy của con lắc, và người đọc hôm nay không nên coi đó là kết luận cuối cùng.
+
+### Vì sao cùng một lý thuyết sai ở lần trước và đúng ở lần này: mấu chốt là tiền cơ sở hay tiền rộng
+
+Đây là mắt xích mà bài không có, và nó dung hòa được hai kết quả trái ngược.
+
+Trong giai đoạn 2009–2014, ngân hàng trung ương mua tài sản và tạo ra **dự trữ** cho hệ thống ngân hàng. Dự trữ là tiền cơ sở. Nhưng các ngân hàng phần lớn giữ số dự trữ đó lại — họ đang tái cấu trúc bảng cân đối, quy định vốn vừa bị siết, và cầu tín dụng yếu. Nên **tiền rộng gần như không tăng**. Những người dự báo siêu lạm phát đã nhìn vào bảng cân đối của ngân hàng trung ương, tức tiền cơ sở, và đó là sai lầm của họ.
+
+Trong giai đoạn 2020–2021, cơ chế hoàn toàn khác. Chính phủ gửi tiền **thẳng vào tài khoản hộ gia đình**, và bảo lãnh cho các khoản vay ngân hàng đối với doanh nghiệp. Mỗi khoản chuyển tiền và mỗi khoản vay được bảo lãnh đều tạo ra một khoản tiền gửi mới. Đây là tiền rộng, nằm trong tay người có thể tiêu, chứ không phải dự trữ nằm trong hệ thống ngân hàng.
+
+Áp lý thuyết số lượng tiền đúng cách — tức áp lên **tiền rộng** như Friedman vẫn chủ trương — thì nó dự báo đúng cả hai lần: không lạm phát sau 2009, có lạm phát sau 2021. Phiên bản cẩu thả áp lên tiền cơ sở thì sai cả hai lần.
+
+Đây là bài học phương pháp quan trọng nhất rút ra được từ ba mươi năm vừa qua, và nó không phải là một bài học ủng hộ hay phản đối trọng tiền. Nó là bài học về việc biết mình đang đo cái gì.
+
+### Phương trình trung tâm không có nội dung thực nghiệm, và không ai nói ra điều đó
+
+Bài trình bày lý thuyết số lượng tiền một cách chính xác và trung thực: đây là một đồng nhất thức kế toán, tức phải đúng theo định nghĩa, và điều gây tranh cãi nằm ở vòng quay.
+
+Nhưng có một bước nữa mà bài không đi, và không đi thì người đọc dễ hiểu sai toàn bộ cuộc tranh luận. **Vòng quay tiền không được đo độc lập.** Không có cơ quan thống kê nào ra ngoài đếm xem một tờ tiền đổi tay bao nhiêu lần. Vòng quay được tính ngược lại từ chính phương trình: lấy GDP danh nghĩa chia cho cung tiền.
+
+Hệ quả là câu "vòng quay tiền trở nên bất ổn trong thập niên 1980–90" và câu "quan hệ giữa cung tiền và GDP danh nghĩa đứt gãy" không phải hai phát hiện độc lập củng cố lẫn nhau. Chúng là **cùng một câu nói theo hai cách**.
+
+Điều này định vị lại toàn bộ cuộc tranh luận. Phương trình tự nó không nói gì cả — nó tương đương với việc nói quãng đường bằng vận tốc nhân thời gian. Toàn bộ nội dung thực nghiệm của trọng tiền nằm ở một mệnh đề duy nhất và có thể kiểm chứng: **vòng quay đủ ổn định hoặc đủ dự đoán được để lượng tiền trở thành mục tiêu chính sách hữu ích**. Mệnh đề đó sai ở Mỹ thập niên 1980–90 vì đổi mới tài chính, và có vẻ đúng trở lại trong 2020–23 vì cú sốc quá lớn so với mọi nhiễu khác. Đó là một mệnh đề về hoàn cảnh, không phải một chân lý.
+
+### "Chiến thắng Volcker" nên được đọc lại: quy tắc tiền tệ là tấm bình phong chính trị
+
+Bài kể giai đoạn 1979–1983 như hai chiến thắng của trọng tiền: Volcker siết cung tiền theo quy tắc Friedman và thành công; Thatcher dùng trọng tiền và giảm được một nửa lạm phát.
+
+Cách kể này bỏ qua một chi tiết quan trọng về mặt vận hành. Fed chính thức giảm hẳn vai trò của các mục tiêu tổng lượng tiền vào năm 1982, tức chỉ ba năm sau khi áp dụng, vì chính các mục tiêu đó tỏ ra không đáng tin — cung tiền liên tục lệch khỏi mục tiêu theo những cách không giải thích được. Ở Anh, các mục tiêu tổng lượng tiền bị vượt liên tục và đáng kể trong suốt giai đoạn được coi là thành công, rồi bị bỏ hẳn giữa thập niên 1980.
+
+Cách diễn giải thuyết phục hơn: công dụng thật của khung trọng tiền không phải là hướng dẫn chính sách mà là **giải quyết một bài toán chính trị**. Để dập được lạm phát hai chữ số, Volcker cần đẩy lãi suất lên mức chưa từng thấy. Tuyên bố "tôi sẽ nâng lãi suất lên 20%" là điều không một quan chức nào sống sót được về mặt chính trị. Tuyên bố "tôi sẽ nhắm vào tốc độ tăng cung tiền, và lãi suất sẽ do thị trường quyết định" cho phép đạt đúng kết quả đó trong khi chuyển trách nhiệm về mức lãi suất sang một cơ chế phi nhân cách.
+
+Điều này không hạ thấp thành tựu của giai đoạn đó, nhưng nó đổi hẳn bài học rút ra. Bài học không phải "hãy nhắm vào cung tiền" mà là **một quy tắc có thể có giá trị chủ yếu ở chỗ nó tạo ra vỏ bọc cho những quyết định đau đớn nhưng cần thiết** — một nhận định có ứng dụng rộng hơn nhiều, từ quy tắc tài khóa đến cơ chế neo tỷ giá.
+
+### Với Việt Nam: một khung điều hành trọng tiền đang vận hành, và nó sẽ hỏng theo đúng cách bài mô tả
+
+Trọng tiền thất bại ở Mỹ vì một lý do rất cụ thể mà bài nêu rõ: đổi mới tài chính. Khi tài khoản vãng lai được trả lãi, khi quỹ thị trường tiền tệ và quỹ tương hỗ trở thành lựa chọn thay thế tiền gửi, thì ranh giới của khái niệm "tiền" nhòe đi và vòng quay mất ổn định.
+
+Đảo ngược lập luận đó sẽ ra một kết luận đáng chú ý: **trong một nền kinh tế mà hệ thống tài chính còn đơn giản, các tổng lượng tiền tệ vẫn còn giá trị thông tin cao**. Ở Việt Nam, tiền gần như hoàn toàn là tiền gửi ngân hàng, các lựa chọn thay thế còn nhỏ, và quan hệ giữa tăng trưởng tín dụng với lạm phát trong quá khứ mạnh một cách hiếm thấy: tăng trưởng tín dụng vượt 50% năm 2007 đi cùng lạm phát trên 23% năm 2008; tín dụng tăng khoảng 37% và 31% trong 2009–2010 đi cùng lạm phát trên 18% năm 2011. Độ trễ khoảng một năm đến một năm rưỡi, gần với độ trễ mà Friedman mô tả.
+
+Đáng chú ý hơn nữa: công cụ điều hành trung tâm của Việt Nam trong hơn một thập niên là **hạn mức tăng trưởng tín dụng**. Vì tín dụng và tiền gửi là hai mặt của cùng một bảng cân đối ngân hàng, đặt mục tiêu cho tốc độ tăng tín dụng về bản chất gần với đặt mục tiêu cho tốc độ tăng tiền rộng. Nói cách khác, Việt Nam đã vận hành một khung điều hành theo số lượng — đúng tinh thần đề xuất của Friedman — trong khi hầu hết thế giới điều hành theo giá.
+
+Giá trị dự báo của bài nằm ở chỗ nó cho biết **khi nào khung này sẽ hỏng**. Không phải khi có ai đó phê phán nó về mặt lý thuyết, mà khi hệ thống tài chính sâu thêm: khi quỹ mở, chứng chỉ tiền gửi giao dịch được, trái phiếu doanh nghiệp, ví điện tử và các dạng tài sản gần tiền khác đủ lớn để người dân dịch chuyển qua lại giữa chúng và tiền gửi ngân hàng. Khi đó, cùng một mức tăng tín dụng sẽ cho ra những kết quả lạm phát khác nhau, mối quan hệ sẽ trông như "đứt gãy", và công cụ sẽ mất hiệu lực — đúng trình tự đã diễn ra ở Mỹ trong thập niên 1980.
+
+Hàm ý thực tiễn: quá trình chuyển từ điều hành theo hạn mức sang điều hành theo lãi suất không phải là một lựa chọn về sở thích chính sách mà là một điều kiện bắt buộc để chuẩn bị cho giai đoạn đó — và nó đòi hỏi trước hết một thị trường tiền tệ và một đường cong lãi suất đủ sâu, đúng như bài về chính sách cơ cấu và bài về thị trường tiền tệ trong cùng thư mục này đã chỉ ra.

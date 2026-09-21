@@ -348,3 +348,107 @@
 > "Fiscal communication remains marked by dualism; simple when spoken, complex when written."
 
 > "Across channels and cycles, across speeches and spreadsheets, coherence is not a luxury, it is the precondition of fiscal trust."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Bằng chứng rõ nhất cho luận điểm trung tâm nằm trong một ô của bảng mà bài không đánh dấu
+
+Trong Bảng 2, hầu hết các kiểm định đều đi cùng một hướng ở cả ba kênh: chi được nói nhiều hơn thu, tăng chi áp đảo giảm chi, giọng về nợ tích cực hơn tiêu cực. Chỉ có **một dòng duy nhất đổi dấu giữa các kênh**, và đó chính là dòng có nội dung nhất.
+
+Giả thuyết "giảm thu được nhấn nhiều hơn tăng thu" cho kết quả **+6,9 có ý nghĩa ở bài phát biểu**, nhưng **−3,1 ở tài liệu ngân sách** và **−11,3 ở thông cáo**. Nghĩa là trong văn bản kỹ thuật, tăng thuế được bàn **nhiều hơn** giảm thuế; trong bài phát biểu trước công chúng thì ngược lại.
+
+Đây là bằng chứng sạch nhất trong toàn bài cho luận điểm về kiến trúc hai khán giả, và nó không được đánh dấu sao, không được đưa vào tóm tắt. Phát biểu lại cho thẳng: **nhà nước nói với thị trường trái phiếu rằng mình sẽ tăng thu, và nói với cử tri rằng mình sẽ giảm thuế**, trong cùng một chu kỳ ngân sách, về cùng một bộ quyết định.
+
+Điều này cũng làm rõ vì sao bài lại chọn phương pháp so sánh giữa các kênh trong cùng một nước và cùng một năm. Vì cả ba văn bản nói về **cùng một thực tế tài khoá**, mọi khác biệt giữa chúng đều là lựa chọn truyền thông thuần tuý. Đó là một thiết kế nhận dạng rất khéo, và ô vừa nêu là chỗ nó cho kết quả sắc nhất.
+
+### Cái mà bài gọi là khiếm khuyết có thể chính là chức năng
+
+Bài mô tả "khoảng cách rõ ràng" giữa các kênh như một vấn đề cần khắc phục: ai chỉ nghe phát biểu thì bỏ lỡ ràng buộc, ai chỉ đọc ngân sách thì bỏ lỡ cách đóng khung. Phần khuyến nghị đề xuất một chế độ truyền thông tài khoá có cấu trúc để hàn gắn khoảng cách đó.
+
+Nhưng có một dữ kiện trong chính bài làm cách đọc này khó đứng vững: độ dễ đọc của tài liệu ngân sách và thông cáo **gần như không đổi suốt hai mươi năm**, bất chấp khủng hoảng 2008, đại dịch, hàng chục lần đổi chính phủ, và nhiều đợt cải cách minh bạch được thiết kế riêng để thay đổi điều này. Chỉ bài phát biểu đi theo xu hướng ngôn ngữ giản dị.
+
+Một đặc tính sống sót qua hai thập kỷ áp lực cải cách ở bảy nước khác nhau thì khó gọi là một thói quen hành chính. Nó nhiều khả năng là một **cân bằng ổn định vì nó phục vụ ai đó**.
+
+Và cơ chế thì khá rõ. Kiến trúc phân tầng cho phép một chính phủ **cam kết kỷ luật tài khoá ở nơi người cho vay đọc** — tài liệu ngân sách, nơi mục tiêu trách nhiệm tài khoá chiếm khoảng 19% và có các công thức như "đưa nợ trên GDP về 50% vào 2030" — trong khi **hứa hẹn mở rộng ở nơi cử tri nghe**, bài phát biểu, nơi phúc lợi xã hội chiếm khoảng 33% và trách nhiệm tài khoá chỉ khoảng 15%.
+
+Bài chạm vào điều này một lần, khi ghi nhận rằng sự phân đoạn có thể tăng ủng hộ chính trị ngắn hạn nhưng làm yếu trách nhiệm giải trình. Nhưng nó vẫn xử lý hiện tượng như một sai sót về phối hợp. Cách đọc thuyết phục hơn là: **đây là một thiết kế, và nó tồn tại vì nó cho phép một chính phủ giữ hai lời hứa không tương thích với hai nhóm không đọc cùng một tài liệu**.
+
+### "Thiên lệch lạc quan" được đo bằng giọng điệu, không bằng kết quả
+
+Đây là chỗ cần dè dặt nhất về mặt khái niệm. Bài gán nhãn tích cực, tiêu cực hoặc trung lập cho từng câu nói về nợ công, và kết luận rằng giọng điệu tích cực chiếm ưu thế **ngay cả khi nợ đang tăng** — con số tiêu biểu là khoảng 72% câu tích cực trong bài phát biểu của Canada, 65% của Anh.
+
+Nhưng nhiều câu được xếp là "tích cực" thực chất là **dự báo**, không phải cảm xúc. "Nợ sẽ đạt đỉnh năm sau rồi giảm" là một mệnh đề có thể đúng hoặc sai. Nếu nó đúng, đó không phải thiên lệch; đó là thông tin.
+
+Để chứng minh có thiên lệch, phải **đối chiếu phát ngôn với kết quả thực tế**: bao nhiêu lần lời hứa "nợ đạt đỉnh năm sau" được thực hiện, và bao nhiêu lần nó bị dời sang chu kỳ tiếp theo. Bài ghi nhận rằng Anh lặp lại công thức này qua nhiều chu kỳ — một quan sát rất gợi — nhưng không bao giờ biến nó thành một phép đo.
+
+Nếu làm phép đo đó, ta sẽ có một thứ có giá trị thực: **tỷ lệ thực hiện lời hứa tài khoá theo nước và theo thời gian**. Đó mới là thước đo độ tin cậy mà bài nói là mình quan tâm. Cái đang được đo hiện nay là **tông giọng**, và hai thứ này chỉ trùng nhau khi dự báo sai.
+
+### Nhật Bản là phản ví dụ nằm ngay trong số liệu của bài
+
+Trong toàn bộ mẫu, Nhật Bản là nước có truyền thông tài khoá **bi quan nhất**: tài liệu ngân sách có khoảng 55% số câu về nợ mang giọng **tiêu cực**, mục tiêu trách nhiệm tài khoá chiếm khoảng **65%** nội dung ngân sách và khoảng 47% bài phát biểu — cao nhất mẫu ở cả hai chỉ tiêu. Bài cũng ghi nhận Nhật nhấn mạnh dân số già và củng cố nợ hơn bất kỳ nước nào.
+
+Nhật Bản cũng là nước có tỷ lệ nợ công cao nhất trong mẫu, khoảng 235% GDP.
+
+Quan sát này đủ để bác bỏ bất kỳ liên hệ đơn giản nào giữa giọng điệu truyền thông và kết quả tài khoá. Nếu nói thẳng về khó khăn tạo ra kỷ luật, Nhật phải là nước có kết quả tốt nhất. Bài ghi nhận sự bất thường của Nhật trong một câu khác — rằng ràng buộc dài hạn rất lớn nhưng truyền thông công chúng vẫn chủ yếu là cam kết chi — nhưng không đặt nó cạnh các chỉ số bi quan của chính nước này, và không rút ra kết luận.
+
+Kết luận đáng rút là: **truyền thông tài khoá phản ánh ràng buộc chứ không tạo ra nó**. Nhật nói bi quan vì tình hình bi quan, và nói bi quan không giúp cải thiện tình hình.
+
+### Bài đo lời nói và không bao giờ đo hệ quả của lời nói
+
+Bài rất trung thực về điều này: cách tiếp cận là mô tả, không nhân quả, và **không đo tác động lên lợi suất hay kỳ vọng**. Đây là một lựa chọn hợp lệ cho một công trình xây dựng bộ dữ liệu đầu tiên trong lĩnh vực.
+
+Nhưng toàn bộ phần khuyến nghị — mười nguyên tắc, kiểm toán tự sự, chế độ truyền thông có cấu trúc giống khung lạm phát mục tiêu — giả định rằng truyền thông tốt hơn tạo ra kết quả tốt hơn. Không có gì trong bài ủng hộ giả định đó.
+
+Và có một điều trong chính bài đi ngược lại. Thiên lệch lạc quan được ghi nhận là **gần như không đổi suốt hai thập kỷ** ở cả bảy nước. Nếu nó đã ổn định như vậy trong suốt hai mươi năm mà không gây ra hậu quả có thể nhận diện được, thì có hai cách hiểu, và cả hai đều thú vị hơn kết luận mà bài đưa ra.
+
+**Cách hiểu thứ nhất:** thị trường và nhà phân tích đã chiết khấu hoàn toàn giọng điệu chính trị và chỉ đọc con số. Khi đó thiên lệch lạc quan là vô hại đối với định giá — nhưng nó cũng có nghĩa là **truyền thông tài khoá có giá trị tín hiệu gần bằng không**, và toàn bộ chương trình cải cách truyền thông mà bài đề xuất sẽ không thay đổi gì.
+
+**Cách hiểu thứ hai:** nó có hại, nhưng qua một kênh chậm — sự mòn dần của lòng tin công chúng — mà bài không có công cụ để đo.
+
+Ví dụ thất bại duy nhất được bài nêu, ngân sách mini của Anh năm 2022, lại ủng hộ cách hiểu thứ nhất một cách khó chịu: thị trường phản ứng dữ dội vì tài liệu **không nói rõ khoản cắt thuế được tài trợ ra sao**, tức là vì một khoảng trống **nội dung**, không phải vì giọng điệu hay cách đóng khung.
+
+### Việc dịch máy trùng khít với đường ranh giới của một phát hiện
+
+Có một vấn đề kỹ thuật cụ thể đáng lưu ý. Văn bản của Pháp, Đức và Ý được dịch sang tiếng Anh bằng chính mô hình ngôn ngữ sau đó dùng để phân loại chủ đề và sắc thái, và mọi chỉ số đều được tính **sau khi dịch**.
+
+Bài thừa nhận rủi ro chung. Nhưng có một phát hiện cụ thể nằm đúng trên đường ranh giới này: **nước thông luật (Canada, Anh, Mỹ) dùng nhiều tự sự và ẩn dụ hơn; nước dân luật (Pháp, Ý) thiên về trình bày có cấu trúc**.
+
+Canada, Anh và Mỹ là ba nước **không bị dịch**. Pháp và Ý là hai nước **bị dịch**. Và dịch máy có xu hướng đã biết là **san phẳng thành ngữ và ẩn dụ**, chuyển chúng về diễn đạt chuẩn mực. Tỷ lệ câu ẩn dụ là một chỉ số đặc biệt nhạy với điều này.
+
+Kết quả về truyền thống pháp lý vì thế không tách được khỏi hiệu ứng của khâu dịch. Nó có thể vẫn đúng — có lý do độc lập để tin rằng văn hoá hành chính Pháp và Ý ít dùng tu từ hơn — nhưng thiết kế hiện tại không kiểm chứng được.
+
+Đây cũng là một trường hợp nữa của vấn đề tái lập mới mà mô hình ngôn ngữ tạo ra cho kinh tế học, vấn đề đã được nêu độc lập trong tài liệu về kinh tế vĩ mô của chiến tranh và phục hồi ở thư mục ASEAN: phiên bản mô hình sẽ bị ngừng phục vụ, kết quả phân loại không tất định, và một bước xử lý dữ liệu trung tâm sẽ không tái lập được sau vài năm.
+
+### Mô hình ngân hàng trung ương không nhập khẩu được, vì lý do hiến định chứ không phải kỹ thuật
+
+Khung của bài dựng trên tương phản "ngân hàng trung ương nói, bộ tài chính làm", và đề xuất một chế độ truyền thông tài khoá có cấu trúc tương tự khung lạm phát mục tiêu.
+
+Nhưng sự khác biệt giữa hai loại cơ quan này không chủ yếu nằm ở kỹ năng truyền thông. Một tuyên bố của ngân hàng trung ương là **một cam kết có thể thực hiện đơn phương**: cơ quan đó có công cụ trong tay, một mục tiêu duy nhất, và không cần sự chấp thuận của ai. Một tuyên bố của bộ trưởng tài chính về thuế và chi tiêu là **một đề nghị cần quốc hội thông qua**, và bộ trưởng có thể mất ghế trước khi nó được thông qua.
+
+Nghĩa là hướng dẫn tương lai của một bộ trưởng tài chính **kém đáng tin về mặt cấu trúc**, không phải vì cách diễn đạt mà vì bản chất quyền lực. Không một cải tiến tu từ nào sửa được điều đó, và chính bài cũng ghi nhận rằng cửa sổ chính sách hiệu quả rất hẹp.
+
+Đó là lý do đề xuất cụ thể nhất của bài — **hội đồng tài khoá độc lập thực hiện kiểm toán tự sự**, kiểm tra xem lời kể có khớp với số học không — lại là đề xuất đúng hình dạng nhất. Nó không cố làm cho lời hứa của chính trị gia đáng tin hơn; nó đặt độ tin cậy vào một cơ quan **không phải tái tranh cử**. Đó chính là cấu trúc tạo ra độ tin cậy của ngân hàng trung ương, và là phần duy nhất của mô hình đó thực sự chuyển giao được.
+
+### Một chuỗi nhân quả hoàn chỉnh khi ghép với tài liệu khác trong thư mục
+
+Tài liệu này và nghiên cứu khảo sát về nhận thức của người dân về nợ công trong cùng thư mục được viết bởi các nhóm khác nhau, và chúng khớp với nhau thành một lập luận mà không bài nào tự hoàn thành.
+
+Nghiên cứu khảo sát ghi nhận **kết quả**: hơn 60% người trả lời đánh giá thấp tỷ lệ nợ trên GDP của nước mình, và mức đánh giá thấp càng lớn ở các nước nợ càng cao; chỉ khoảng 42% hiểu rằng tăng thuế hoặc cắt chi làm giảm thâm hụt.
+
+Bài này ghi nhận **cơ chế**: trong mọi kênh truyền thông chính thức, chi tiêu được nói nhiều hơn thu; tăng chi áp đảo cắt chi với tỷ lệ khoảng 7:1 trong tài liệu ngân sách và 13:1 trong thông cáo; cắt chi gần như không bao giờ được gọi bằng tên thật mà là "tinh gọn", "tìm dư địa hiệu quả", "làm chậm tốc độ tăng chi", và nếu có nói thẳng thì dùng thì quá khứ; và giọng điệu về nợ vẫn tích cực ngay cả khi nợ tăng.
+
+Ghép lại: công chúng không hiểu ràng buộc ngân sách một phần vì **hệ thống truyền thông chính thức được cấu trúc để họ không hiểu**. Sự thiếu hiểu biết mà bài khảo sát đo được không phải một thất bại giáo dục ngẫu nhiên; nó là sản phẩm có thể dự đoán được của một cách nói đã ổn định suốt hai thập kỷ.
+
+Và điều đó làm cho khuyến nghị "giáo dục công chúng" trong tài liệu khảo sát trở nên yếu ớt: không thể giáo dục công chúng bằng cách bổ sung thông tin vào một hệ thống đang liên tục phát đi thông tin lệch.
+
+### Với Việt Nam: một chẩn đoán rẻ và một thể chế đáng cân nhắc
+
+Bài nói thẳng rằng các nước mới nổi đang cải cách khung minh bạch có cơ hội áp dụng cách truyền thông tích hợp và cân đối **ngay từ đầu**, thay vì phải gỡ một thói quen đã thành hình như ở G7. Đó là lời khuyên gửi đúng địa chỉ.
+
+**Một phép chẩn đoán có thể làm ngay và gần như không tốn gì.** Lấy ba văn bản của cùng một kỳ ngân sách — báo cáo trình Quốc hội, phát biểu của lãnh đạo ngành tài chính, và thông cáo báo chí — rồi đếm ba thứ: tỷ lệ câu về chi so với câu về thu; tỷ lệ câu về tăng chi so với câu về tiết giảm chi; và số lần mỗi văn bản nêu con số nợ công và nghĩa vụ trả nợ. Nếu ba văn bản cho ba bức tranh khác nhau về cùng một bộ số, thì kiến trúc phân tầng đã hình thành. Đây là phép đo mà bài đã chứng minh là làm được với công cụ phổ thông.
+
+**Điểm neo tự sự cần được theo dõi qua nhiều chu kỳ.** Công thức "nợ sẽ đạt đỉnh rồi giảm" là mẫu hình mà bài ghi nhận ở Anh qua nhiều chu kỳ liên tiếp. Chỉ tiêu cần lập là: mỗi cam kết tài khoá trung hạn được công bố, sau ba năm đối chiếu với kết quả thực tế, và công bố tỷ lệ thực hiện. Đó là thước đo độ tin cậy duy nhất có ý nghĩa, và nó không đòi hỏi bất kỳ công nghệ nào.
+
+**Hội đồng tài khoá độc lập là thể chế có chức năng rõ nhất và chi phí thấp nhất trong toàn bộ danh sách khuyến nghị.** Không phải để dự báo tốt hơn bộ tài chính, mà để làm đúng một việc: xác nhận công khai rằng các con số trong kế hoạch có cộng lại đúng hay không, và các giả định tăng trưởng có nằm trong khoảng hợp lý hay không. Bài ghi nhận rằng Anh có Văn phòng Trách nhiệm Ngân sách đảm nhận một phần nội dung phân tích, và rằng chính sự tồn tại của cơ quan này làm thay đổi nội dung tài liệu ngân sách. Đó là bằng chứng cho thấy thể chế thay đổi được lời nói, trong khi lời khuyên về cách nói thì không.
+
+**Và một lưu ý về hệ quả phân phối** mà bài nêu ở phần thảo luận và đáng được nhấn mạnh: khi truyền thông nhấn lợi ích trước mắt và giảm nhẹ chi phí trễ, **hộ thu nhập thấp thường chịu gánh nặng không tương xứng**, vì họ là nhóm ít có khả năng tự tìm ra phần thông tin bị bỏ sót và ít có khả năng phòng ngừa trước các điều chỉnh về sau. Cái giá của mơ hồ có chủ đích không được phân bổ đều.

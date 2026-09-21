@@ -147,3 +147,61 @@
 > "TFP advancement is the only source of sustained growth in income per person, as Robert Solow, the late Nobel laureate, first showed in a 1957 paper."
 
 > "If decades from now humanity suffers less stress and enjoys longer weekends, TFP growth—not self-help books—will likely deserve most of the credit."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Bài thừa nhận TFP là "thước đo sự thiếu hiểu biết" rồi lập tức dùng nó như một lời giải thích
+
+Đây là vòng luẩn quẩn nằm ở giữa bài, và bài viết trung thực đến mức tự đặt tên cho nó nhưng không thoát ra được.
+
+TFP được đo bằng phần dư: lấy sản lượng trừ đi phần giải thích được bằng lao động và vốn, phần còn lại gọi là TFP. Vì thế khi bài nói "hơn 66% chênh lệch thu nhập giữa Nam Sudan và Hoa Kỳ là do chênh lệch TFP", câu đó về mặt kỹ thuật tương đương với: **hơn 66% chênh lệch không giải thích được bằng số giờ làm và lượng vốn**. Đó là một mô tả về giới hạn của mô hình, không phải một phát hiện về nguyên nhân.
+
+Hệ quả thực tiễn nghiêm trọng hơn vẻ ngoài. Vì là phần dư, TFP hấp thụ tất cả những gì bị đo sai ở hai vế kia. Nó hấp thụ mức độ sử dụng công suất — khi nhà máy chạy 60% thay vì 90%, số vốn không đổi nhưng sản lượng giảm, và toàn bộ chênh lệch đó rơi vào TFP dù không có gì liên quan tới công nghệ. Nó hấp thụ **vốn vô hình**: phần mềm nội bộ, dữ liệu, thương hiệu, quy trình tổ chức, mạng lưới khách hàng — những thứ chiếm tỷ trọng ngày càng lớn trong đầu tư doanh nghiệp hiện đại nhưng phần lớn không được ghi nhận là vốn trong hệ thống tài khoản quốc gia. Nó hấp thụ cả sai số trong việc điều chỉnh chất lượng hàng hóa.
+
+Điều này đặt một dấu hỏi lớn lên chính hiện tượng mà bài lấy làm điểm xuất phát: **tăng trưởng TFP chậm lại trên toàn thế giới từ sau khủng hoảng tài chính**. Một phần trong sự chậm lại đó có thể là thật. Nhưng một phần khác có thể chỉ phản ánh việc nền kinh tế dịch chuyển sang những loại vốn mà hệ thống thống kê chưa đếm được — tức là chúng ta đang ghi nhận đầu vào thiếu, nên phần dư thu hẹp lại. Bài không nêu khả năng này, và đó là một thiếu sót vì nó thay đổi hoàn toàn chẩn đoán: một bên là vấn đề đổi mới cạn kiệt, bên kia là vấn đề đo lường.
+
+### Câu "TFP là nguồn duy nhất của tăng trưởng thu nhập đầu người" đúng trong mô hình nhưng sai trong tình huống của phần lớn người đọc
+
+Đây là mệnh đề mạnh nhất trong bài và nó cần một chú thích quan trọng: nó là một **tính chất của trạng thái dừng** trong mô hình tăng trưởng tân cổ điển, không phải một quy luật áp dụng cho mọi nền kinh tế ở mọi thời điểm.
+
+Lập luận chuẩn là vốn có lợi suất giảm dần, nên tích lũy vốn cuối cùng sẽ cạn động lực và tăng trưởng dài hạn phải đến từ tiến bộ công nghệ. Chữ "cuối cùng" ở đây gánh toàn bộ sức nặng. Một nước đang ở xa trạng thái dừng — tức là có rất ít vốn trên mỗi lao động — có thể tăng trưởng thu nhập đầu người ở tốc độ cao **trong nhiều thập niên** chỉ bằng tích lũy vốn và chuyển lao động từ nơi năng suất thấp sang nơi năng suất cao hơn, mà không cần cải thiện TFP đáng kể nào.
+
+Đây không phải khả năng lý thuyết. Đã có cả một cuộc tranh luận nổi tiếng trong thập niên 1990 về việc phần lớn tăng trưởng thần kỳ của Đông Á đến từ huy động nguồn lực — tỷ lệ đầu tư rất cao, tỷ lệ tham gia lao động tăng, trình độ học vấn tăng nhanh — chứ không từ tăng trưởng TFP vượt trội. Kết luận gây tranh cãi khi đó là: tăng trưởng kiểu ấy có thật nhưng sẽ chậm lại khi nguồn huy động cạn.
+
+Với người đọc ở một nước thu nhập trung bình, sự phân biệt này quan trọng hơn bất kỳ điều gì khác trong bài. Nó nói rằng câu hỏi đúng không phải "làm sao tăng TFP" mà là **"nguồn tăng trưởng bằng huy động nguồn lực của chúng ta còn lại bao nhiêu năm, và điều gì sẽ thay thế nó"**. Bài đặt TFP làm trung tâm ngay từ đầu và vì thế bỏ qua câu hỏi về thời điểm — vốn là câu hỏi quyết định trong hoạch định chính sách.
+
+### Hiệu quả phân bổ được nêu tên nhưng phần khó nhất của nó bị bỏ qua
+
+Bài mô tả hiệu quả phân bổ rất gọn: nếu doanh nghiệp năng suất nhất hút được phần lớn lao động và vốn thì nền kinh tế hiệu quả; nếu nguồn lực kẹt ở doanh nghiệp kém thì TFP bị kéo xuống. Đúng, và đây là kênh có tiềm năng lớn nhất với nước đang phát triển — các ước lượng cho thấy chỉ riêng việc phân bổ lại nguồn lực trong ngành chế biến chế tạo theo chuẩn của nước tiên tiến đã có thể nâng năng suất ngành lên hàng chục phần trăm.
+
+Nhưng bài trình bày việc này như một vấn đề **hút vào**, trong khi phần khó là phần **đẩy ra**. Để nguồn lực chảy sang doanh nghiệp tốt, doanh nghiệp kém phải thu hẹp hoặc biến mất — phải có phá sản, có sa thải, có ngân hàng chấp nhận ghi nhận lỗ, có đất và nhà xưởng được chuyển chủ. Đó là phần có chi phí chính trị và xã hội tập trung, trong khi lợi ích thì phân tán và đến sau.
+
+Danh sách khuyến nghị của bài — tài trợ dịch vụ công, bỏ thuế và trợ cấp méo mó, hạ rào cản cạnh tranh, mở cửa thương mại — đều là những việc làm tăng áp lực lên phía vào. Không có việc nào xử lý phía ra. Những thứ thực sự quyết định gồm: luật phá sản có vận hành được trên thực tế không, ngân hàng có bị buộc phân loại nợ trung thực không hay được phép giãn hoãn vô thời hạn, và quyền sử dụng đất của doanh nghiệp thua lỗ có chuyển nhượng được không.
+
+Khi các cơ chế này không hoạt động, kết quả là hiện tượng doanh nghiệp xác sống: những đơn vị không tạo ra đủ lợi nhuận để trả lãi nhưng vẫn tồn tại nhờ được đảo nợ liên tục. Chúng gây hại hai lần — trực tiếp vì giữ vốn và lao động ở nơi năng suất thấp, gián tiếp vì chiếm chỗ thị trường và làm giảm lợi nhuận của các doanh nghiệp lành mạnh, khiến các doanh nghiệp này cũng giảm đầu tư. Đây là kênh kéo TFP xuống mạnh nhất mà bài hoàn toàn không nhắc đến.
+
+### Lập luận rằng TFP giải quyết được lo ngại về tài nguyên đi quá nhanh
+
+Bài đưa ra một câu ngắn nhưng có sức nặng lớn: TFP tăng là câu trả lời cho ai nói tăng trưởng sẽ cạn kiệt tài nguyên hữu hạn, vì nó cho phép giữ hoặc nâng mức sống mà tiết kiệm tài nguyên, kể cả khí hậu và sinh quyển.
+
+Vấn đề là TFP theo đúng định nghĩa mà bài dùng chỉ đo sản lượng trên mỗi đơn vị **lao động và vốn**. Tài nguyên thiên nhiên và phát thải không nằm trong mẫu số. Một nền kinh tế hoàn toàn có thể nâng TFP trong khi tăng cả lượng tài nguyên tiêu thụ lẫn lượng phát thải — và trên thực tế đó là điều đã xảy ra trong phần lớn lịch sử công nghiệp hóa.
+
+Điều cần để kết luận của bài đúng là một khái niệm khác: **năng suất tài nguyên**, tức sản lượng trên mỗi đơn vị năng lượng hoặc trên mỗi tấn phát thải. Hai đại lượng này có thể đi cùng chiều nhưng không nhất thiết, và chúng chỉ đi cùng chiều khi có một tín hiệu giá buộc doanh nghiệp coi tài nguyên là chi phí đắt — tức là đúng cơ chế định giá carbon mà một bài khác trong cùng tập này phân tích.
+
+Ghép hai bài lại cho một kết luận chặt hơn nhiều so với kết luận của riêng bài này: tiến bộ công nghệ **không tự động** tách tăng trưởng khỏi tiêu hao tài nguyên; nó chỉ làm điều đó khi giá cả hướng đổi mới đi theo chiều tiết kiệm tài nguyên. Nếu năng lượng rẻ, đổi mới sẽ đi theo chiều tiết kiệm lao động, vì lao động mới là thứ đắt.
+
+### Với Việt Nam: nguồn tăng trưởng chính đang cạn dần, và bài cho ta ngôn ngữ để nói về điều đó
+
+Các phép phân rã tăng trưởng của Việt Nam trong ba thập niên qua đều cho cùng một bức tranh: phần lớn tăng trưởng đến từ tích lũy vốn với tỷ lệ đầu tư rất cao, cộng với việc chuyển lao động từ nông nghiệp sang công nghiệp và dịch vụ; phần đóng góp của TFP có cải thiện trong một số giai đoạn nhưng chưa bao giờ chiếm ưu thế.
+
+Vế thứ hai — chuyển dịch cơ cấu — đáng được nhìn kỹ, vì nó là **một khoản cổ tức dùng một lần**. Khi một lao động rời thửa ruộng để vào nhà máy, sản lượng của người đó tăng vọt mà không cần bất kỳ cải tiến công nghệ nào. Đó là toàn bộ phép màu của công nghiệp hóa giai đoạn đầu. Nhưng nguồn đó có đáy: tỷ trọng lao động nông nghiệp của Việt Nam đã giảm từ mức khoảng hai phần ba xuống còn khoảng một phần tư. Phần dễ nhất đã lấy xong; mỗi lao động chuyển đi tiếp sẽ khó hơn và mang lại mức tăng nhỏ hơn.
+
+Khi cổ tức chuyển dịch cạn, tăng trưởng buộc phải đến từ **năng suất tăng bên trong từng ngành** — tức là đúng phần mà bài gọi là TFP. Và đó là phần Việt Nam yếu nhất.
+
+Hai vấn đề cấu trúc cụ thể làm phần này khó.
+
+**Thứ nhất là khoảng cách giữa khu vực có vốn nước ngoài và khu vực trong nước.** Khu vực đầu tư nước ngoài có năng suất cao hơn hẳn nhưng lan tỏa sang doanh nghiệp trong nước rất hạn chế, vì tỷ lệ nội địa hóa thấp và liên kết cung ứng mỏng. Theo ngôn ngữ của bài, đây là tình trạng nền kinh tế có một nhóm doanh nghiệp ở gần biên giới năng suất nhưng nhóm đó không kéo phần còn lại theo. Điều này gắn trực tiếp với kết quả trong nhóm tài liệu về thương mại và đầu tư trong thế giới phân mảnh của kho này: chỉ tiêu tỷ trọng giá trị gia tăng trong nước vừa đo lợi ích thương mại, vừa đo mức độ lan tỏa năng suất.
+
+**Thứ hai là quy mô doanh nghiệp trong nước.** Phần lớn việc làm khu vực tư nhân trong nước nằm ở hộ kinh doanh và doanh nghiệp siêu nhỏ, nơi gần như không có kinh tế quy mô, không có bộ phận nghiên cứu phát triển, không tiếp cận được vốn dài hạn. Doanh nghiệp không lớn lên được là biểu hiện kinh điển của kém hiệu quả phân bổ, và nguyên nhân thường nằm ở những quy định có ngưỡng theo quy mô: vượt một mức doanh thu hoặc số lao động nhất định thì nghĩa vụ thuế, kế toán, bảo hiểm và thanh tra tăng vọt, tạo động cơ để doanh nghiệp cố tình ở nhỏ hoặc tách ra nhiều pháp nhân.
+
+Nhận định rút ra: với Việt Nam, chương trình nâng TFP khả thi nhất không nằm ở đổi mới công nghệ ở biên giới — đó là bài toán của nước tiên tiến — mà nằm ở việc **gỡ những ngưỡng khiến doanh nghiệp không muốn lớn, và làm cho cơ chế rút lui hoạt động**. Cả hai đều là cải cách thể chế, ít tốn ngân sách, và đều khó về mặt chính trị hơn là về mặt kỹ thuật.

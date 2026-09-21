@@ -210,3 +210,57 @@
 > "Once it has taken place, dollarization can be very difficult to undo, even if the country has maintained its own currency in parallel and managed to stabilize its value."
 
 > "The objective of such regulations is to ensure that banks share the cost of holding high liquidity, and thereby internalize the risks of operating in a dollarized environment."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Khái niệm đáng giá nhất của bài là rủi ro không hiện lên trong bảng cân đối của chính ngân hàng
+
+Nếu chỉ giữ lại một ý từ bài này, nên giữ **rủi ro tín dụng do tiền tệ gây ra**. Cơ chế của nó là một trong những bài học sâu nhất của quản trị rủi ro, và bài trình bày nó chính xác đến mức đáng để đọc lại chậm: một ngân hàng nhận tiền gửi đô la và cho vay bằng đô la thì trên sổ sách **không có lệch pha tiền tệ nào cả** — tài sản đô la khớp nợ đô la, mọi chỉ số trạng thái ngoại hối đều sạch. Nhưng nếu người vay là một doanh nghiệp bán hàng trong nước thu nội tệ, thì lệch pha vẫn tồn tại, chỉ là nó đã **di chuyển sang bên kia hợp đồng**. Khi nội tệ mất giá, người vay không trả được, và khoản lỗ quay về ngân hàng dưới nhãn "nợ xấu" thay vì nhãn "lỗ tỷ giá".
+
+Đây là nguyên lý tổng quát chứ không riêng chuyện đô la hoá: **rủi ro được chuyển đi không phải là rủi ro được xoá đi**. Nó đổi tên, đổi chỗ, thường đổi sang một loại ít bị giám sát hơn, rồi quay lại. Hai mươi năm sau, đây chính là mô tả ngắn gọn về việc chứng khoán hoá đã đẩy rủi ro tín dụng ra khỏi bảng cân đối ngân hàng Mỹ rồi nhận nó về qua hạn mức thanh khoản và áp lực uy tín. Bài này, viết cho một chủ đề hẹp ở các nước mới nổi năm 2005, đã mô tả đúng hình dạng của vấn đề trước khi nó nổ ra ở quy mô toàn cầu.
+
+Hệ quả thực hành rất cụ thể và vẫn còn nguyên giá trị: **chỉ số trạng thái ngoại hối của hệ thống ngân hàng là một chỉ số gây ảo giác an toàn**. Nó có thể bằng không trong khi toàn bộ hệ thống đang nằm trên một cú mất giá. Con số cần theo dõi không phải trạng thái ngoại hối của ngân hàng mà là **tỷ trọng dư nợ ngoại tệ cho người vay không có nguồn thu ngoại tệ** — và đó là con số nằm ngoài báo cáo tài chính, phải thu thập bằng khảo sát tín dụng.
+
+### Câu đố lớn nhất được thừa nhận rồi bỏ ngỏ, và lời giải của nó nặng hơn bài tưởng
+
+Bài viết thẳng rằng "vì những lý do chưa được hiểu đầy đủ, đô la hoá đã tồn tại dai dẳng hoặc tăng lên ở nhiều nước ngay cả sau khi ổn định thành công đồng nội tệ". Đây là quan sát quan trọng nhất trong cả bài, và nó bị đặt ở giữa một đoạn liệt kê rồi bỏ lại.
+
+Có hai cơ chế giải thích khá rõ mà bài không nêu. Thứ nhất, **lựa chọn đồng tiền có ngoại ứng mạng lưới**: tôi muốn giữ thứ mà đối tác của tôi báo giá, chủ nhà của tôi đòi, và người bán nhà bên cạnh chấp nhận. Một khi đủ nhiều người dùng đô la, việc quay lại nội tệ không phải quyết định cá nhân mà là bài toán phối hợp, và cân bằng xấu có thể tự duy trì kể cả khi mọi người đều thích cân bằng tốt hơn. Thứ hai, **niềm tin vào đồng tiền là một tồn kho, không phải một dòng**. Lạm phát thấp trong một năm không xoá được ký ức về một lần mất sạch tiết kiệm; nó chỉ bồi thêm một lớp mỏng lên một khối ký ức khấu hao rất chậm.
+
+Ghép hai cơ chế ấy lại thì rút ra được một mệnh đề mà bài không phát biểu nhưng đáng lẽ phải là kết luận của nó: **chi phí thật của một đợt lạm phát cao lớn hơn rất nhiều so với tổn thất sản lượng trong chính đợt đó**. Đợt lạm phát kết thúc sau hai, ba năm; tình trạng đô la hoá mà nó tạo ra làm suy giảm năng lực truyền dẫn của chính sách tiền tệ trong ba mươi năm tiếp theo. Nói cách khác, một ngân hàng trung ương để mất kiểm soát lạm phát một lần không chỉ trả giá bằng một cuộc suy thoái, mà bằng việc **vĩnh viễn mất một phần công cụ của mình**. Đây là lập luận mạnh nhất cho việc bảo vệ độ tin cậy tiền tệ, và bài có nó trong tay dưới dạng một câu than "chưa hiểu đầy đủ".
+
+### Không có người cho vay cuối cùng bằng đô la — và đây là khác biệt về chất, không phải về lượng
+
+Toàn bộ danh mục công cụ chống rủi ro thanh khoản trong bài đều xoay quanh một việc: tích trữ đủ đô la lỏng. Dự trữ quốc tế lớn của ngân hàng trung ương, yêu cầu thanh khoản bằng ngoại tệ áp lên ngân hàng, tài sản lỏng gửi ở nước ngoài, thoả thuận cho phép ngân hàng trung ương hỗ trợ thanh khoản bằng ngoại tệ. Bài nói "độ tin cậy của các thoả thuận này được nâng cao nếu ngân hàng trung ương giữ dự trữ quốc tế lớn".
+
+Cách diễn đạt đó làm vấn đề trông giống một bài toán định lượng — bao nhiêu dự trữ là đủ — trong khi thực ra nó là một bài toán khác loại. Với nợ bằng nội tệ, ngân hàng trung ương là người cho vay cuối cùng **không giới hạn**: nó in được thứ mà người gửi tiền đòi, nên chỉ cần tuyên bố sẵn sàng in là thường không phải in. Với nợ bằng đô la, ngân hàng trung ương **không in được đô la**. Nguồn lực của nó hữu hạn và ai cũng biết con số đó. Một cam kết hữu hạn trước một đợt rút tiền có quy mô không xác định trước thì không chỉ yếu hơn, mà còn **tự mời gọi cuộc tấn công**: người gửi tiền biết mình đang xếp hàng và biết hàng có điểm cuối, nên chạy sớm là chiến lược hợp lý. Bốn ví dụ bài liệt kê — Mexico 1982, Argentina và Uruguay 2001, Bolivia 2003 — đều là biến thể của cùng một cơ chế này.
+
+Điều đã thay đổi kể từ 2005 đáng ghi nhận và cũng đáng cảnh giác: các đường hoán đổi tiền tệ của Cục Dự trữ Liên bang Mỹ, mở rộng mạnh trong khủng hoảng 2008 và một lần nữa năm 2020, đã tạo ra một dạng người cho vay đô la cuối cùng ở tầm quốc tế. Nhưng nó chỉ dành cho **một danh sách chọn lọc**. Nghĩa là rủi ro mà bài mô tả không biến mất; nó được giảm cho một nhóm nhỏ và giữ nguyên cho phần còn lại, và việc một nước có nằm trong danh sách hay không là một câu hỏi địa chính trị chứ không phải một câu hỏi kinh tế. Đây là chiều cạnh mà một bài viết năm 2005 không có lý do gì để nghĩ tới, nhưng người đọc hôm nay không được bỏ qua.
+
+### Bộ công cụ "an toàn vĩ mô" thực chất là thuế đánh vào đô la, và gọi nó bằng tên khác là một lựa chọn chính trị
+
+Bài chia đơn thuốc thành ba nhóm như thể chúng độc lập: hạn chế rủi ro thanh khoản, kiểm soát rủi ro tín dụng do tiền tệ, và làm nội tệ hấp dẫn hơn. Nhìn kỹ thì hai nhóm đầu và nhóm thứ ba là **cùng một chính sách nhìn từ hai phía**.
+
+Buộc ngân hàng giữ tỷ lệ cao tài sản đô la lỏng sinh lời thấp ở nước ngoài, áp dự trữ bắt buộc cao lên tiền gửi đô la, đòi dự phòng và vốn cao hơn cho khoản vay ngoại tệ không phòng hộ — tất cả đều làm **tăng chi phí trung gian bằng đô la**, tức hạ lãi suất tiền gửi đô la và nâng lãi suất cho vay đô la. Đó chính xác là định nghĩa của việc làm nội tệ hấp dẫn hơn một cách tương đối. Bài mô tả mục đích là để ngân hàng "nội hoá rủi ro", và điều đó đúng về mặt kinh tế học, nhưng cách gọi tên cũng có tác dụng chính trị: một khoản thuế ngầm lên việc dùng ngoại tệ nghe rất khác khi được gọi là yêu cầu an toàn.
+
+Nêu điều này không phải để phản đối chính sách — đây là loại can thiệp có cơ sở, vì người gửi tiền và người vay cá lẻ thật sự không tính đến rủi ro hệ thống mà họ tạo ra. Nhưng nó thay đổi cách đánh giá hiệu quả: nếu đây là thuế, thì như mọi thuế, nó tạo ra động cơ **né**. Đô la bị đánh thuế trong hệ thống ngân hàng sẽ chuyển ra ngoài hệ thống ngân hàng — sang két sắt, sang vàng, sang tài khoản ở nước ngoài. Khi đó tỷ lệ tiền gửi ngoại tệ trên tổng tiền gửi giảm đẹp, trong khi mức đô la hoá thật của nền kinh tế giảm ít hơn nhiều, và phần đô la còn lại thì **nằm ngoài tầm nhìn của cơ quan giám sát** — tệ hơn về mặt quản trị rủi ro so với lúc nó nằm trong ngân hàng. Bài không nêu khả năng này, dù chính nó đã kể chuyện chảy máu vốn 6,5 tỷ đô la ở Mexico năm 1982 khi khử đô la hoá bằng biện pháp cưỡng chế.
+
+### Cả kiến trúc chính sách này giả định đô la đi qua ngân hàng trong nước — giả định ấy đang bị phá vỡ
+
+Đây là điểm lỗi thời nghiêm trọng nhất của bài, và nó không phải lỗi của tác giả.
+
+Mọi công cụ được liệt kê đều tác động vào **một định chế được cấp phép và bị giám sát trong lãnh thổ**: yêu cầu thanh khoản áp lên ngân hàng, giới hạn cho vay áp lên ngân hàng, dự phòng áp lên ngân hàng, dự trữ bắt buộc áp lên tiền gửi tại ngân hàng. Kiến trúc này vận hành được vì năm 2005, muốn giữ và tiêu đô la trong nền kinh tế trong nước thì gần như bắt buộc phải đi qua một ngân hàng nội địa.
+
+Các đồng tiền số neo vào đô la đã xoá bỏ điều kiện đó. Chúng làm được đúng ba chức năng mà bài phân loại — phương tiện thanh toán, tài sản tài chính để cất giữ, và đơn vị báo giá — mà không cần bất kỳ trung gian nội địa nào chịu sự giám sát. Khi ấy không phải là công cụ chính sách kém hiệu lực, mà là **không còn điểm để áp dụng**. Nghịch lý là các rủi ro trong bài không hề biến mất: lệch pha tiền tệ của hộ gia đình và doanh nghiệp vẫn tồn tại y nguyên, rủi ro rút tiền ồ ạt vẫn tồn tại, chỉ khác là giờ chúng xảy ra ở một nơi mà không cơ quan nào có số liệu. Đọc bài này cùng các tài liệu về tiền mã hoá, về các đồng tiền số neo giá và về tiền số trong repo là cách duy nhất để thấy hết vấn đề: chúng nói về cùng một hiện tượng cách nhau gần hai mươi năm, và chỉ khi ghép lại mới lộ ra rằng đây là **đô la hoá phiên bản không qua ngân hàng**.
+
+Cũng đáng ghi lại rằng câu mở đầu của bài — kinh tế học chịu ảnh hưởng của thời trang, đô la hoá "vài năm trước còn là chủ đề nóng", nay người ta nhấn mạnh thận trọng — đã tự chứng minh thêm một vòng. Đề xuất đô la hoá toàn phần quay lại trung tâm tranh luận chính trị ở Argentina trong thập niên 2020, gần bốn mươi năm sau đợt sóng đầu và hai mươi năm sau khi bài này tuyên bố mốt đã qua.
+
+### Với Việt Nam: một ca khử đô la hoá thành công không có tên trong danh sách của bài
+
+Danh sách các nước khử đô la hoá thành công trong bài — Bosnia-Herzegovina, Israel, Mexico, Ba Lan, Slovenia — thiếu một cái tên mà đến nay đã thuộc loại đáng nghiên cứu nhất, và Việt Nam đi theo gần như đúng công thức mà bài kê ra, trên cả ba nhóm cùng lúc.
+
+Nhóm ổn định vĩ mô: sau giai đoạn lạm phát hai con số 2008 và 2011, lạm phát được kéo về vùng thấp và giữ ở đó nhiều năm liền — đúng điều kiện tiên quyết mà bài nói là không thể thiếu. Nhóm làm nội tệ hấp dẫn hơn và làm ngoại tệ kém hấp dẫn đi: trần lãi suất tiền gửi đô la được hạ dần rồi đưa về không, khiến giữ đô la trong ngân hàng trở thành một khoản lỗ thực. Nhóm kiểm soát rủi ro tín dụng do tiền tệ: siết cho vay ngoại tệ, chỉ để lại cho đối tượng có nguồn thu ngoại tệ — chính là biện pháp mà bài ghi nhận ở Argentina, Chile và Lebanon.
+
+Nhưng phải đọc kết quả với đúng mức độ dè dặt mà phần phân tích ở trên đòi hỏi. Lãi suất tiền gửi đô la bằng không không làm người ta bớt muốn giữ đô la; nó làm người ta bớt muốn giữ đô la **trong ngân hàng**. Phần chuyển sang cất trữ trực tiếp, sang vàng, hoặc ra khỏi hệ thống chính thức thì không xuất hiện trong bất kỳ thống kê nào. Vì thế mức giảm của tỷ lệ tiền gửi ngoại tệ trên tổng tiền gửi là một tin tốt có thật nhưng bị phóng đại, và phần bị phóng đại lại chính là phần mà cơ quan giám sát mất khả năng nhìn thấy.
+
+Rủi ro còn lại cũng đã đổi hình dạng so với 2005. Hiểm hoạ lớn nhất với Việt Nam hiện nay không phải người dân gửi tiết kiệm bằng đô la, mà là **doanh nghiệp vay nợ nước ngoài bằng đô la trong khi doanh thu bằng tiền đồng** — đúng định nghĩa người vay không phòng hộ trong bài, chỉ khác là khoản vay nằm ở chủ nợ nước ngoài chứ không ở ngân hàng trong nước. Khi ấy biện pháp mà bài đề xuất, siết cho vay ngoại tệ của ngân hàng nội địa, không chạm tới được. Đọc cùng các tài liệu về nợ nước ngoài, về bền vững nợ và về kiểm định sức chịu đựng trong repo thì câu hỏi cần đặt ra rất cụ thể: trong tổng dư nợ nước ngoài của khu vực doanh nghiệp, bao nhiêu phần có nguồn thu ngoại tệ đối ứng, và bao nhiêu phần đang ngầm đặt cược vào việc tỷ giá tiếp tục ổn định.

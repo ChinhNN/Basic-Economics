@@ -122,3 +122,45 @@
 > "The gratification of wealth is not found in mere possession or in lavish expenditure, but in its wise application." (Cervantes, được trích trong bài)
 
 > "Regardless of whether these changes are seen as a problem, policymakers must help the economy cope with their ramifications."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Đóng góp thật: chỉ ra một tổn thương mà mọi chỉ số tổng hợp đều không nhìn thấy
+
+Điều làm bài này đáng đọc không phải câu chuyện Hà Lan mà là việc nó mô tả một dạng tổn thương kinh tế **không xuất hiện ở bất kỳ con số tổng hợp nào**. Trong suốt giai đoạn mắc bệnh, GDP tăng, thu nhập đầu người tăng, dự trữ ngoại hối tăng, cán cân thương mại cải thiện. Không một bảng điều khiển vĩ mô tiêu chuẩn nào phát tín hiệu báo động. Thứ đang hỏng nằm ở tầng dưới: **cơ cấu tương đối giữa các ngành**, và nó chỉ lộ ra khi cú bùng nổ kết thúc, lúc mà ngành xuất khẩu truyền thống đã không còn để quay về.
+
+Đây là lý do mô hình Corden–Neary bền hơn nhiều so với ngữ cảnh 1982 sinh ra nó. Nó không nói về dầu. Nó nói rằng **một cú tăng ngoại tệ, dù đến từ nguồn gì, đều đánh thuế lên hàng thương mại và trợ cấp cho hàng phi thương mại** — qua giá cả chứ không qua ngân sách, nên không ai bỏ phiếu về nó và không ai chịu trách nhiệm cho nó.
+
+Cách bài chia hai kênh cũng đáng giữ. **Hiệu ứng chi tiêu** là một hiện tượng tiền tệ và giá cả, có thể chống đỡ bằng công cụ tiền tệ. **Hiệu ứng dịch chuyển nguồn lực** thì không: khi lao động và vốn đã rời khỏi dệt may sang xây dựng, một đợt hạ giá nội tệ sau đó không kéo họ quay lại, vì kỹ năng, quan hệ khách hàng và chuỗi cung ứng đã tiêu tán. Kênh thứ hai là kênh không đảo ngược được, và cũng là kênh mà công cụ chính sách của bài — can thiệp ngoại hối — không chạm tới. Bài trình bày hai hiệu ứng như hai nửa cân xứng của cùng một cơ chế, nhưng chúng khác nhau hoàn toàn về mức độ cứu vãn được.
+
+### Toàn bộ đơn thuốc treo trên một biến không ai quan sát được
+
+Điểm yếu lập luận rõ nhất nằm ở chỗ bài tự tin nhất: "phụ thuộc nhiều vào của cải mới là tạm thời hay lâu dài". Hai nhánh chính sách được đề xuất gần như trái ngược nhau — nhánh tạm thời bảo phải **chống đỡ** tỷ giá và tích dự trữ, nhánh lâu dài bảo phải **chấp nhận** chuyển dịch cơ cấu và đào tạo lại lao động. Chọn sai nhánh thì mất tiền theo hai cách khác nhau: hoặc đốt dự trữ để chống lại một thay đổi vĩnh viễn, hoặc phá hỏng một ngành lẽ ra chỉ cần sống sót qua vài năm.
+
+Vấn đề là **không ai biết mình đang ở nhánh nào cho đến khi đã quá muộn**. Bài viết năm 2003, ngay trước một trong những bài kiểm tra ngoạn mục nhất của chính mệnh đề này. Trong siêu chu kỳ hàng hoá 2003–2014, hầu hết chính phủ xuất khẩu tài nguyên hành xử như thể giá cao là lâu dài, và điều chỉnh chi tiêu thường xuyên theo mức giá đó. Đến 2014–2016 giá rơi, hoá ra nó là tạm thời. Trước đó, thập niên 1970, phần lớn nhận định ngược lại và cũng sai. Nói cách khác, biến quyết định toàn bộ đơn thuốc là một biến mà thành tích dự báo của nghề này gần bằng không.
+
+Cách viết tốt hơn hẳn là bỏ hẳn việc phân loại và hỏi: **chính sách nào ít gây hại nhất khi ta đoán sai?** Trả lời theo hướng này dẫn tới một kết luận khác với bài: tiết kiệm phần lớn khoản thu bất thường ra ngoài lãnh thổ và chỉ đưa vào ngân sách một dòng chi tiêu đều đặn nhỏ hơn nhiều — tức mô hình quỹ tài nguyên kiểu Na Uy, Chile. Bài có nhắc tới "quỹ tín thác" nhưng xếp nó vào mục kỹ thuật minh bạch, chứ không nhận ra đó chính là lời giải cho vấn đề bất định mà nó vừa tạo ra.
+
+### Một hệ quả rất nặng được nói lướt qua: viện trợ cũng là nguồn gây bệnh
+
+Bài liệt kê viện trợ nước ngoài ngang hàng với dầu mỏ trong danh sách các dòng ngoại tệ gây bệnh, rồi đi tiếp. Nhưng hệ quả của câu đó lớn hơn nhiều so với vị trí nó được đặt.
+
+Nếu cơ chế là đúng, thì một chương trình viện trợ đủ lớn cho một nước nghèo sẽ **làm nội tệ lên giá thực và bóp chết chính khu vực xuất khẩu** mà nước đó cần để thoát viện trợ. Viện trợ khi ấy tự phá hoại mục tiêu của mình, không phải vì tham nhũng hay quản trị kém — những lý do thường được viện dẫn — mà vì một cơ chế giá cả hoàn toàn tự động, xảy ra kể cả khi tiền được tiêu đúng mục đích. Đây là một trong những lập luận sắc nhất chống lại mô hình viện trợ quy mô lớn, và bài viết nắm nó trong tay mà không dùng.
+
+Thời điểm cũng đáng chú ý: bài ra năm 2003, đúng giai đoạn các Mục tiêu Thiên niên kỷ đang thúc đẩy tăng mạnh viện trợ cho châu Phi hạ Sahara. Tranh luận về "hấp thụ viện trợ" và tỷ giá thực bùng lên trong chính IMF vài năm sau đó. Một bài phổ thông chỉ cần thêm một đoạn là đã đứng ngay giữa cuộc tranh luận ấy.
+
+### Giả định ngầm về toàn dụng lao động, và vì sao nó quan trọng với nước đang phát triển
+
+Hiệu ứng dịch chuyển nguồn lực chỉ có nghĩa nếu nguồn lực là **khan hiếm và đã được dùng hết**. Trong khung Corden–Neary, lao động đi vào xây dựng phải đi ra từ đâu đó, và "đâu đó" là ngành xuất khẩu truyền thống. Đó là giả định của một nền kinh tế toàn dụng.
+
+Nhưng phần lớn các nước mà căn bệnh Hà Lan được chẩn đoán lại là các nền kinh tế có **dư thừa lao động nông nghiệp và thiếu việc làm trá hình**. Ở đó, cầu xây dựng tăng có thể kéo lao động ra khỏi tình trạng năng suất gần bằng không, chứ không kéo khỏi nhà máy dệt. Khi ấy cùng một cú sốc lại cho kết quả ngược: dòng ngoại tệ lớn là một cú hích tổng cầu có lợi, không phải một căn bệnh. Hai kênh của bài vẫn hoạt động, nhưng cường độ tương đối thay đổi hoàn toàn: hiệu ứng chi tiêu vẫn có, hiệu ứng dịch chuyển gần như biến mất.
+
+Bài không phân biệt hai thế giới này, và vì vậy áp dụng một chẩn đoán xây trên giả định của nền kinh tế phát triển cho các nước nghèo. Đây có lẽ là lý do bằng chứng thực nghiệm về "lời nguyền tài nguyên" luôn lẫn lộn: cùng một cú tăng ngoại tệ gây hại ở nơi này, vô hại ở nơi khác, và biến phân biệt không nằm trong mô hình.
+
+### Với Việt Nam: mối nguy không đến từ tài nguyên mà từ kiều hối, FDI và thặng dư thương mại
+
+Việt Nam gần như không có nguy cơ mắc căn bệnh Hà Lan theo nghĩa nguyên bản — dầu khí đã không còn là nguồn ngoại tệ quyết định từ lâu. Nhưng bài đã tự mở rộng chẩn đoán ra **mọi dòng ngoại tệ lớn**, và theo nghĩa đó Việt Nam nằm giữa ba dòng cùng lúc: kiều hối, FDI, và thặng dư thương mại hàng hoá kéo dài.
+
+Chính cấu hình này làm bài trở nên đáng đọc cùng với bài về kiều hối trong cùng loạt Back to Basics. Kiều hối được ca ngợi vì ổn định và đi thẳng tới hộ gia đình, nhưng theo cơ chế ở đây, nó là dòng ngoại tệ đổi ra nội tệ và chi vào đúng nhóm hàng phi thương mại — nhà ở, xây dựng, dịch vụ. Đó là định nghĩa sách giáo khoa của hiệu ứng chi tiêu. Hai bài trong cùng một thư mục đang nói về cùng một dòng tiền bằng hai giọng trái ngược, và không bài nào nhắc tới bài kia.
+
+Hàm ý thực tiễn cụ thể hơn: chỉ số cần theo dõi không phải tỷ giá danh nghĩa mà là **tỷ giá thực hiệu lực** và tỷ trọng đầu tư đổ vào bất động sản so với chế tạo. Nếu tỷ giá danh nghĩa ổn định trong khi giá hàng phi thương mại trong nước tăng nhanh hơn ở các đối thủ cạnh tranh xuất khẩu, thì bệnh đang diễn ra ở dạng kín đáo nhất của nó — đúng kênh mà bài mô tả cho chế độ tỷ giá cố định, và cũng là kênh khó nhìn thấy nhất về mặt chính trị.

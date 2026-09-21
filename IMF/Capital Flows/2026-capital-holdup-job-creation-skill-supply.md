@@ -435,3 +435,69 @@
 > "Because the manufacturing sector is more capital intensive, the holdup distortion depresses investment and job creation disproportionately in that sector."
 
 > "When the training subsidy is shut down, the labor force share in manufacturing falls sharply — even after firm-side distortions are corrected, workers capture too small a share of surplus to justify the move into manufacturing."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Giá trị lớn nhất là một lập luận công nghiệp không dựa vào lợi suất tăng dần
+
+Mọi lập luận biện minh cho chính sách công nghiệp trong nửa thế kỷ qua đều xoay quanh cùng một nhóm khái niệm: lợi suất tăng dần theo quy mô, học qua làm, lan toả tri thức, liên kết đầu vào đầu ra. Nhược điểm chung của nhóm này là chúng **không đo được**, nên trên thực tế chúng trở thành tấm vé trắng để biện minh cho bất kỳ ngành nào mà chính phủ muốn chọn.
+
+Bài này làm một việc khác hẳn. Nó rút ra lập luận can thiệp **chỉ từ hai thứ quan sát được**: một ma sát thương lượng phổ quát và một khác biệt về cường độ vốn giữa hai ngành, ξm = 0,65 so với ξs = 0,30. Không cần giả định ngành chế tạo đặc biệt về mặt công nghệ. Không cần giả định ai đó học được gì từ ai. Lập luận đứng vững ngay cả khi chế tạo hoàn toàn không có lan toả.
+
+**Đây là một lập luận chặt hơn và hẹp hơn những gì tài liệu về chính sách công nghiệp thường đưa ra, và chính sự hẹp đó là điểm mạnh của nó.** So với chủ đề "chính sách cơ cấu là gì" và "trợ cấp: cái được cái không" ở mục Back to Basics, bài này cung cấp thứ mà các tài liệu đó không có: một tiêu chí lựa chọn ngành có thể tính ra bằng số, từ dữ liệu tỷ trọng thu nhập vốn.
+
+### Nếu đọc kỹ thì đối tượng cần hỗ trợ không phải là "chế tạo", và tái phân bổ ngành gần như không quan trọng
+
+Đây là hệ quả mà bài không phát biểu, dù nó nằm ngay trong cấu trúc mô hình. Ngành chế tạo trong mô hình này **không có đặc tính nào riêng ngoài việc nó thâm dụng vốn hơn**. Nếu vậy thì lập luận không biện minh cho chính sách nhắm vào chế tạo, nó biện minh cho chính sách nhắm vào **cường độ vốn của từng chỗ làm**, bất kể ngành nào. Khai khoáng thâm dụng vốn. Trung tâm dữ liệu thâm dụng vốn. Điện lực thâm dụng vốn. Theo logic của bài, tất cả những thứ đó đều đáng được trợ cấp đầu tư ngang hoặc hơn chế tạo.
+
+Và bằng chứng cho hệ quả này nằm ngay trong chính con số trợ cấp tối ưu của bài: **τK* cho chế tạo là 5,6%, còn cho dịch vụ là 15,7%** — tức ngành dịch vụ, ngành được mô tả xuyên suốt như nạn nhân ít hơn của bắt bí vốn, lại nhận mức trợ cấp gần gấp ba. Lý do kỹ thuật thì bài có nêu: nêm bắt bí phụ thuộc vào q(θ) và dịch vụ có độ chặt thị trường cao hơn nhiều, 2,40 so với 0,42.
+
+Nhưng hệ quả diễn ngôn thì bài lờ đi. **Toàn bộ khung dẫn dắt của bài là về chế tạo và kỹ sư, trong khi công cụ chính sách chính mà nó đề xuất lại đổ phần lớn tiền vào dịch vụ.** Người đọc lướt phần tóm tắt sẽ hiểu ngược hoàn toàn so với nội dung bảng số.
+
+Phần định lượng còn nói thẳng hơn thế. Bảng so sánh cân bằng thực với phân bổ tối ưu cho một bức tranh rất khác với phần dẫn nhập. Tỷ trọng lực lượng lao động chế tạo chỉ đi từ 21,7% lên 22,7%, tức **một điểm phần trăm**. Trong khi đó tổng vốn tăng 27,5%, vốn trên lao động dịch vụ tăng 37,5%, vốn trên lao động chế tạo tăng 21,8%, và tổng sản lượng thực tăng 11,5%.
+
+Nói cách khác, **gần như toàn bộ lợi ích phúc lợi đến từ làm sâu vốn trên diện rộng, không phải từ việc chuyển lao động sang chế tạo.** Chính bài cũng viết ra điều này ở một dòng trong dàn ý — mức tăng sản lượng "gần như hoàn toàn đến từ việc làm sâu vốn" — nhưng không quay lại điều chỉnh khung dẫn dắt.
+
+Điều đó khiến tiêu đề và câu chuyện con gà quả trứng ở đầu bài trở nên gần như trang trí trong phiên bản hiệu chuẩn cơ sở. Cái mà số liệu ủng hộ là **một trợ cấp đầu tư chung, không phân biệt ngành** — và cột DE3 trong bảng ngân sách cho thấy phương án trợ cấp đồng nhất chỉ mất 4,09 phúc lợi so với 4,18 của gói đầy đủ, tức **giữ được khoảng 97% lợi ích với một công cụ đơn giản hơn nhiều và rẻ hơn (2,1% GDP thay vì 2,4%)**. Với một chính phủ có năng lực hành chính hạn chế, đó mới là phát hiện dùng được, và nó bị chôn trong một cột bảng.
+
+### Tiêu chí phúc lợi ở đây coi thất nghiệp thấp là điều xấu, và điều đó cần nói thẳng
+
+Phân bổ tối ưu có **thất nghiệp cao hơn ở cả hai ngành**: chế tạo 7,5% so với 6,9%, dịch vụ 7,9% so với 6,9%. Và khi bỏ phí một lần trên mỗi chỗ trống, thất nghiệp giảm xuống 6,8% ở cả hai ngành nhưng phúc lợi lại **giảm**, với lý do được nêu rõ là "thất nghiệp thấp hơn đồng nghĩa ít sản xuất tại nhà hơn".
+
+Đây là một kết quả logic nội tại nhất quán, nhưng nó phơi ra mức độ phụ thuộc của toàn bộ xếp hạng phúc lợi vào một tham số duy nhất: z = 2,5, được hiệu chuẩn để giá trị sản xuất tại nhà bằng 0,30 lương. Với sở thích kiểu Greenwood–Hercowitz–Huffman, thời gian thất nghiệp được tính là có giá trị thật. Khoảng cách phúc lợi giữa gói đầy đủ và gói bỏ phí một lần là 4,18 so với 4,15 — **ba phần nghìn**. Một xếp hạng mỏng đến thế, dựa trên một tham số được chọn để khớp một tỷ lệ khó quan sát, không nên được dùng làm cơ sở cho một khuyến nghị chính sách.
+
+Thêm nữa, công cụ τT — phí một lần trên mỗi chỗ trống — vừa là thứ làm cho cả gói trung tính ngân sách, vừa là thứ khó thực thi nhất về mặt chính trị. Bài thừa nhận điều đó và gọi đối ứng thực tế của nó là "khoản đóng góp tỷ lệ theo số lao động nhưng không tỷ lệ một đổi một với quỹ lương". Nói cho dễ hiểu, đó là **một khoản thuế đánh vào việc tuyển người**, đặt ra trong lúc chính phủ đang tuyên bố mục tiêu tạo việc làm. Không có công cụ đó, gói chính sách tốn **2,4% GDP mỗi năm** — một con số lớn hơn ngân sách giáo dục đại học của phần lớn nước đang phát triển.
+
+### Nền thực nghiệm mỏng hơn nhiều so với bộ máy lý thuyết đặt trên nó
+
+Toàn bộ bằng chứng thực nghiệm gồm một hồi quy chéo với **50 quan sát** (31 ở mẫu con có độ trễ) và một biểu đồ đồng chuyển động giữa tỷ lệ theo học kỹ thuật dầu khí và giá dầu ở ba bang của Mỹ.
+
+Bài rất trung thực khi nói mục đích chỉ là ghi nhận tương quan. Nhưng cần đi xa hơn một bước: **hồi quy này không thể là bằng chứng cho cơ chế của bài, vì nó chính là tiền đề của bài.** Mô hình giả định tỷ trọng ngành và cung kỹ năng được xác định đồng thời; hồi quy tìm thấy chúng tương quan với nhau. Đó là sự nhất quán, không phải sự xác nhận. Mẫu con có độ trễ năm năm giúp loại một số cách giải thích, nhưng năm năm quá ngắn so với chu kỳ mà mô hình mô tả, và với 31 quan sát thì khoảng tin cậy rất rộng.
+
+Có một vấn đề kỹ thuật nữa đáng lưu ý. Biến phụ thuộc là tỷ trọng việc làm công nghiệp, còn một biến kiểm soát là tỷ trọng việc làm nông nghiệp. Ba tỷ trọng nông nghiệp, công nghiệp và dịch vụ cộng lại bằng một, nên hệ số −0,20 của nông nghiệp phần nào là một **đồng nhất thức kế toán** chứ không phải một quan hệ hành vi. Đưa nó vào làm tăng R bình phương từ 0,34 lên 0,60 — phần lớn mức tăng đó là cơ học.
+
+Cuối cùng, mô hình được hiệu chuẩn theo Chile, nhưng cấu trúc thương mại trong mô hình là một nước **có lợi thế so sánh về chế tạo, xuất hàng chế tạo và nhập dịch vụ**. Chile là nước xuất khẩu tài nguyên. Sự lệch pha giữa nước hiệu chuẩn và cấu trúc mô hình không được thảo luận.
+
+### Hàm ý chính sách mạnh nhất của bài lại nằm ở mục ít được chú ý nhất
+
+Phần về thương mại được trình bày như một phần mở rộng, nhưng con số trong đó lớn hơn hẳn mọi con số khác của bài. Nhân ba trọng số nhập khẩu dịch vụ — tỷ lệ nhập khẩu dịch vụ trên GDP từ 5,4% lên 14,0% — làm **tỷ trọng lao động chế tạo tăng từ 22,7% lên 28,9%**, tức hơn sáu điểm phần trăm, đồng thời thất nghiệp giảm nhẹ từ 6,9% xuống 6,7%.
+
+Hãy đặt con số đó cạnh kết quả chính: toàn bộ gói chính sách tối ưu, tốn 2,4% GDP mỗi năm và đòi hỏi ba công cụ trong đó có một công cụ bất khả thi về chính trị, chỉ dịch chuyển tỷ trọng lao động chế tạo được **một điểm phần trăm**.
+
+**Vậy theo chính mô hình của bài, tự do hoá nhập khẩu dịch vụ là chính sách công nghiệp mạnh gấp sáu lần toàn bộ gói trợ cấp, và nó không tốn một đồng ngân sách nào.** Bài không viết câu này ra. Lý do dễ hiểu: nó đi ngược lại bản năng bảo hộ đang thắng thế, và nó nói rằng muốn có nhà máy thì hãy mở cửa cho ngân hàng, bảo hiểm, logistics, viễn thông và dịch vụ chuyên môn nước ngoài vào. Đây là hàm ý chính sách có sức nặng nhất trong cả tài liệu và nó bị để lại trong một mục phụ.
+
+### Với Việt Nam, mô hình này cho một kết luận đảo ngược so với chính sách đang làm
+
+Bài toán mở đầu của bài là bài toán của Việt Nam gần như từng chữ: doanh nghiệp bán dẫn và điện tử nói không tuyển được kỹ sư, sinh viên không chọn ngành kỹ thuật vì chưa thấy đủ việc làm. Nhưng khi áp các tham số Việt Nam vào mô hình, kết luận rút ra **ngược với hướng chính sách hiện hành**, và đây là phát hiện đáng giá nhất của bài với người đọc trong nước.
+
+**Thứ nhất, nêm bắt bí vốn ở Việt Nam có lẽ nhỏ.** Nêm vốn Ω = (1 − β)(r + s + q)/(r + s + (1 − β)q) tiến về 1, tức méo mó biến mất, khi sức mặc cả β tiến về 0. Ở Việt Nam, sức mặc cả của người lao động trong khu vực chế tạo có vốn đầu tư nước ngoài là rất thấp: nguồn cung lao động dồi dào, thương lượng tập thể thực chất hạn chế, và chuẩn lương do doanh nghiệp đặt chứ không do thương lượng. Nếu β thấp thì **doanh nghiệp không sợ bị bắt bí, nên họ không đầu tư dưới mức vì lý do này, nên trợ cấp đầu tư không sửa được gì.**
+
+**Thứ hai, cùng chính lý do đó lại làm nêm lựa chọn ngành trở nên rất lớn.** Bài chỉ ra rằng khi η lớn hơn β — và với η trong khoảng 0,5–0,7 còn β thấp thì khoảng cách ở Việt Nam là lớn — người lao động giữ lại quá ít thặng dư để biện minh cho khoản chi phí đào tạo cao hơn của ngành kỹ thuật. Đây chính là lời giải thích vì sao sinh viên không chọn ngành kỹ thuật dù doanh nghiệp kêu thiếu: **không phải vì họ không biết ngành đó đang thiếu người, mà vì phần chênh lệch thu nhập họ nhận được không bù nổi chi phí học.**
+
+Ghép hai điều trên lại: **với cơ cấu tham số của Việt Nam, mô hình này khuyến nghị bỏ trợ cấp đầu tư và dồn nguồn lực vào trợ cấp đào tạo — gần như ngược hoàn toàn với gói ưu đãi hiện hành, vốn nặng về miễn giảm thuế thu nhập doanh nghiệp, miễn tiền thuê đất và khấu hao nhanh, và nhẹ về hỗ trợ người học.**
+
+Cột DE-C của bài là bằng chứng định lượng cho đúng cảnh báo này: khi sửa mọi méo mó phía doanh nghiệp mà **không** trợ cấp đào tạo, tỷ trọng lao động chế tạo không chỉ không lên 22,7% mà rơi xuống **20,3%, thấp hơn cả mức xuất phát 21,7%**. Ưu đãi vốn không kèm hỗ trợ kỹ năng không chỉ kém hiệu quả — nó có thể làm giảm chính tỷ trọng việc làm chế tạo mà nó nhắm tới, vì nó làm sâu vốn mà không kéo người vào ngành.
+
+**Thứ ba, mô hình ngầm giả định vốn thuộc sở hữu trong nước, và Việt Nam không phải như vậy.** Thặng dư mà trợ cấp đầu tư bảo vệ khỏi bị bắt bí, trong bối cảnh chế tạo xuất khẩu do FDI chi phối, phần lớn thuộc về chủ sở hữu nước ngoài. Một khoản trợ cấp đầu tư 5,6% trong cấu trúc đó là chuyển giao ra bên ngoài, còn phần lợi ích đọng lại trong nước chỉ là phần lương và việc làm — tức đúng phần mà công cụ đào tạo tác động trực tiếp hơn.
+
+Cuối cùng, hàm ý về mở cửa dịch vụ đáng được ghi nhận nghiêm túc. Chủ đề này liên hệ trực tiếp với tài liệu về khơi lại chuyển dịch cơ cấu của Thái Lan trong mục Asean 2026, nơi bẫy chuyển dịch cơ cấu cũng được đặt ra; và với chủ đề chất lượng nguồn nhân lực trong tài liệu Việt Nam 2035. Điểm chung là cả ba đều chỉ về một chỗ: **ràng buộc thật không nằm ở lượng vốn mà nằm ở số người có kỹ năng vận hành vốn đó, và không chính sách vốn nào thay thế được điều đó.**

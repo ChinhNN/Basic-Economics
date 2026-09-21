@@ -137,3 +137,55 @@
 > "Today's inflation expectations are likely to become tomorrow's actual inflation."
 
 > "Once inflation expectations are anchored securely, the central bank can be much less aggressive and still achieve price stability."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Mệnh đề nền móng của bài được trình bày như sự thật hiển nhiên, trong khi nó là điều gây tranh cãi nhất trong kinh tế học vĩ mô hiện đại
+
+Câu "kỳ vọng hôm nay có xu hướng thành lạm phát thực ngày mai" là trụ đỡ của toàn bộ bài viết, và cũng là câu đáng đặt dấu hỏi nhất.
+
+Lập luận trực giác mà bài dùng nghe rất thuyết phục: nếu tin giá xe sẽ tăng 10%, người ta mua ngay, cầu tăng, giá tăng thật. Nhưng hãy thử áp cơ chế này vào chiều ngược lại — đúng chiều mà bài cũng nêu. Nếu tin giá xe sẽ **giảm** 10%, người ta hoãn mua, cầu giảm, giá giảm thêm. Theo logic đó, mọi đợt giảm giá công nghệ đáng lẽ phải tạo ra vòng xoáy giảm phát tự khuếch đại. Trên thực tế, giá máy tính, điện thoại và tivi đã giảm liên tục hàng chục năm trong khi người ta vẫn mua đều — vì quyết định mua phụ thuộc vào nhu cầu và thu nhập nhiều hơn là phụ thuộc vào dự đoán giá năm sau.
+
+Bằng chứng thực nghiệm cho mối liên hệ nhân quả từ kỳ vọng của hộ gia đình và doanh nghiệp sang lạm phát thực tế yếu hơn rất nhiều so với mức độ chắc chắn mà bài thể hiện. Các đường Phillips có kỳ vọng làm biến giải thích dự báo kém, và hệ số ước lượng không ổn định qua các giai đoạn. Đã có những công trình đáng chú ý từ chính trong giới ngân hàng trung ương đặt câu hỏi thẳng rằng vì sao cả ngành lại tin chắc vào vai trò của kỳ vọng đến thế, trong khi nền tảng thực nghiệm mỏng như vậy.
+
+Điều này không có nghĩa kỳ vọng vô nghĩa. Nó có nghĩa là bài đang trình bày một **giả thuyết làm việc của giới hoạch định chính sách** như thể là một quy luật đã được kiểm chứng. Với một chuyên mục có tên Back to Basics, sự khác biệt đó đáng được nói ra, vì người đọc sẽ mang theo mức độ chắc chắn mà bài truyền đạt chứ không phải mức độ chắc chắn mà bằng chứng cho phép.
+
+### Đợt giảm lạm phát 2022–2024 là phép thử tốt nhất cho khung phân tích của bài, và kết quả không rõ ràng như bài ngụ ý
+
+Bài xuất bản tháng 3/2023, khi lạm phát toàn cầu đã qua đỉnh nhưng còn rất cao. Theo khung của bài, có hai đường để lạm phát quay về mục tiêu: hoặc ngân hàng trung ương có uy tín đủ mạnh để kỳ vọng không rời neo, hoặc phải chấp nhận đánh đổi đau đớn với tăng lãi suất mạnh khi kinh tế yếu và thất nghiệp tăng.
+
+Điều đã xảy ra ở Hoa Kỳ và nhiều nền kinh tế tiên tiến là lạm phát giảm từ mức khoảng 9% xuống vùng 2–3% mà tỷ lệ thất nghiệp gần như không tăng. Đây là kết quả mà cả hai kịch bản trên đều không dự báo tốt: nếu là nhờ uy tín thì đã không cần chu kỳ tăng lãi suất mạnh nhất trong bốn thập niên; nếu là nhờ đánh đổi thì đã phải có suy thoái.
+
+Cách giải thích khớp với dữ liệu hơn cả là phần lớn công việc do **phía cung** làm: chuỗi cung ứng thông trở lại, giá năng lượng và hàng hóa hạ nhiệt, lực lượng lao động phục hồi sau đại dịch. Nếu vậy thì vai trò của quản lý kỳ vọng trong đợt này nhỏ hơn nhiều so với vị trí trung tâm mà bài dành cho nó.
+
+Hàm ý cho vài năm tới rất cụ thể: nếu đợt lạm phát tiếp theo cũng do cú sốc cung gây ra — chiến tranh, thiên tai, hạn chế xuất khẩu nguyên liệu, gián đoạn vận tải biển — thì việc dùng lãi suất để "neo kỳ vọng" sẽ trả giá bằng sản lượng mà không chạm được vào nguyên nhân. Điều quyết định bài này còn đúng hay không vì vậy là **tỷ trọng giữa cú sốc cầu và cú sốc cung** trong đợt lạm phát kế tiếp, chứ không phải chất lượng truyền thông của ngân hàng trung ương.
+
+### Vòng xoáy lương – giá là một thể chế của thập niên 1970, không phải một quy luật kinh tế
+
+Bài trình bày vòng xoáy lương – giá như một cơ chế phổ quát: người lao động kỳ vọng giá tăng 10% nên đòi lương tăng ít nhất 10%, doanh nghiệp tăng giá để giữ biên lợi nhuận, và cứ thế.
+
+Cơ chế này đòi hỏi những điều kiện rất cụ thể mà bài không liệt kê: tỷ lệ tham gia công đoàn cao, thương lượng lương tập trung theo ngành hoặc toàn quốc, hợp đồng lao động có điều khoản trượt giá tự động, và thị trường sản phẩm đủ ít cạnh tranh để doanh nghiệp chuyển được chi phí sang giá. Đó là bức tranh của các nền kinh tế tiên tiến thập niên 1970. Phần lớn các điều kiện đó đã biến mất: tỷ lệ tham gia công đoàn ở khu vực tư nhân Hoa Kỳ hiện dưới một phần mười mức của năm 1970, điều khoản trượt giá tự động gần như tuyệt chủng, và thương lượng lương chủ yếu diễn ra ở cấp doanh nghiệp.
+
+Đợt lạm phát 2021–2023 chứng minh điều đó rất rõ: mặc dù lạm phát chạm mức cao nhất bốn thập niên, **lương thực tế giảm** ở hầu hết các nước tiên tiến trong hai năm liền. Người lao động không giành lại được phần sức mua đã mất, tức là mắt xích đầu tiên của vòng xoáy không khép được. Điều xảy ra thực ra gần với hiện tượng mà một số nhà nghiên cứu gọi là vòng xoáy lợi nhuận – giá hơn: ở nhiều ngành, biên lợi nhuận mở rộng trong giai đoạn giá tăng.
+
+Với người đọc ở một nước có cấu trúc thị trường lao động khác, bài học là phải hỏi **cơ chế truyền dẫn cụ thể ở nước mình là gì** thay vì nhập khẩu nguyên mô hình. Ở Việt Nam, kênh truyền dẫn từ giá sang lương không đi qua thương lượng tập thể mà đi qua mức lương tối thiểu vùng và lương cơ sở khu vực công — hai đại lượng do hành chính quyết định, điều chỉnh theo chu kỳ vài năm một lần. Đó là một cơ chế chậm hơn, giật cục hơn và có thể dự đoán được hơn nhiều so với vòng xoáy mà bài mô tả.
+
+### Bài chỉ ra kỳ vọng hộ gia đình rất phân tán nhưng không rút ra kết luận quan trọng nhất từ quan sát đó
+
+Đoạn về đo lường là phần quan sát tốt nhất của bài: chuyên gia dự báo bất đồng, hộ gia đình và doanh nghiệp còn bất đồng nhiều hơn, người ta suy toàn bộ mặt bằng giá từ một mặt hàng hay mua như xăng, và "trung bình đơn giản không nắm được sự phức tạp này".
+
+Nhưng bài dừng lại ngay trước kết luận đáng giá. Kỳ vọng lạm phát của hộ gia đình không chỉ phân tán mà còn **lệch cao một cách hệ thống và dai dẳng**: trong các khảo sát dài hạn, trung vị kỳ vọng của hộ gia đình thường cao hơn lạm phát thực tế vài điểm phần trăm, liên tục qua hàng chục năm, kể cả trong những giai đoạn giá cả rất ổn định. Điều đó có nghĩa là **mức tuyệt đối của con số khảo sát gần như vô dụng**; chỉ có biến động của nó mới mang thông tin.
+
+Từ đây có một hệ quả chính sách đi ngược trực giác. Nếu kỳ vọng của công chúng được hình thành chủ yếu từ giá những mặt hàng mua thường xuyên và nhìn thấy giá rõ ràng — xăng, gạo, thịt, rau, tiền điện — thì để neo kỳ vọng, cái quan trọng là **diễn biến giá của đúng nhóm hàng đó**, chứ không phải lạm phát lõi mà ngân hàng trung ương thường tập trung vào. Nghĩa là chỉ số mà nhà điều hành theo dõi để ra quyết định và chỉ số quyết định kỳ vọng của dân là hai thứ khác nhau.
+
+Điều này giải thích một hiện tượng đã gây bối rối cho nhiều chính phủ trong các năm 2023–2024: lạm phát theo số liệu đã về gần mục tiêu nhưng mức độ bất mãn của dân chúng về giá cả vẫn rất cao, và nó thể hiện rõ trong hàng loạt cuộc bầu cử. Lý do là công chúng phản ứng với **mức giá tích lũy** so với vài năm trước, chứ không phải với **tốc độ tăng giá** hiện tại. Bài định nghĩa kỳ vọng lạm phát theo tốc độ và mặc nhiên cho rằng công chúng cũng nghĩ bằng tốc độ. Bằng chứng cho thấy họ nghĩ bằng mức.
+
+### Với Việt Nam: chiếc neo kỳ vọng không nằm ở lãi suất chính sách mà ở tỷ giá và giá vàng
+
+Khung của bài giả định một chế độ điều hành khá cụ thể: ngân hàng trung ương độc lập, công bố mục tiêu lạm phát bằng số, điều hành chủ yếu qua lãi suất chính sách, và truyền thông định hướng tương lai. Việt Nam không vận hành theo mô hình đó. Chỉ tiêu lạm phát do Quốc hội quyết định hằng năm dưới dạng một mức trần, công cụ điều hành gồm cả lãi suất, hạn mức tăng trưởng tín dụng và can thiệp tỷ giá, và một phần đáng kể của rổ hàng hóa — điện, học phí, viện phí, dịch vụ y tế — là giá do nhà nước quản lý, có thể lùi hoặc giãn thời điểm điều chỉnh.
+
+Hệ quả thứ nhất là con số lạm phát công bố **một phần là kết quả của lựa chọn chính sách chứ không chỉ là một phép đo**. Khi giá điện hoặc học phí được hoãn tăng vào năm áp lực giá cao, áp lực đó không biến mất mà chuyển sang năm sau. Điều này làm suy yếu chính tín hiệu mà bài bảo người đọc theo dõi.
+
+Hệ quả thứ hai quan trọng hơn. Trong một nền kinh tế mà công chúng có lịch sử dài về mất giá đồng tiền và về đô la hóa, chiếc neo tâm lý thực sự không phải mục tiêu lạm phát mà là **tỷ giá đồng đô la và giá vàng**. Đó là hai con số mà người dân nhìn thấy hằng ngày, hiểu ngay, và dùng làm thước đo cho việc đồng tiền của mình có đang giữ giá hay không. Điều này giải thích vì sao giữ tỷ giá ổn định lại có ý nghĩa chính trị và tâm lý vượt xa tác động kỹ thuật của nó lên giá nhập khẩu, và vì sao các đợt chênh lệch lớn giữa giá vàng trong nước và giá thế giới lại được coi là vấn đề vĩ mô chứ không chỉ là vấn đề của một thị trường hàng hóa.
+
+Nhận định rút ra cho chính sách: với Việt Nam, xây dựng uy tín theo nghĩa mà bài mô tả đòi hỏi một bước đi trước mà bài không cần bàn tới ở các nước tiên tiến — **làm cho mục tiêu lạm phát trở thành một cam kết mà công chúng nhìn thấy và kiểm chứng được**, thay vì một chỉ tiêu kế hoạch. Chừng nào chưa làm được điều đó, tỷ giá sẽ tiếp tục gánh vai trò neo danh nghĩa, và chi phí của việc đó là chính sách tiền tệ mất đi một phần quyền tự chủ mỗi khi dòng vốn hoặc đồng đô la biến động — đúng sự đánh đổi mà nhóm tài liệu về dòng vốn và về chế độ tỷ giá trong kho này phân tích.

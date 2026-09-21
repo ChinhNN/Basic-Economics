@@ -201,3 +201,65 @@
 > "There is indeed a strong case for subsidizing earnings of low-wage workers."
 
 > "Policymakers must be wary of the many [rules of thumb] that don't [give good advice]."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Kết luận "thuế doanh nghiệp tối ưu bằng không" được cấu trúc theo cách gần như bảo đảm sẽ bị trích dẫn sai
+
+Bài trình bày lập luận này theo một trình tự rất quen thuộc trong kinh tế học: nêu một kết luận gây sốc, sau đó liệt kê các điều kiện làm nó yếu đi.
+
+Kết luận: với một nền kinh tế nhỏ và mở, thuế doanh nghiệp đẩy vốn ra nước ngoài, làm giảm tỷ lệ vốn trên lao động, giảm năng suất và cuối cùng giảm lương — nên người lao động mới là bên chịu thuế, và mức thuế tối ưu là không.
+
+Rồi các điều kiện, mà nếu đọc kỹ thì chúng phá hủy kết luận: lợi nhuận siêu ngạch gắn với một địa điểm cụ thể có thể đánh thuế mà không ảnh hưởng đầu tư; thuế doanh nghiệp là công cụ duy nhất chạm được vào lợi nhuận giữ lại; không có nó thì cá nhân sẽ lập công ty để chuyển đổi thu nhập; và ở nhiều nước đang phát triển thì thu từ vài công ty lớn là cách khả thi nhất.
+
+Vấn đề là **kết luận và điều kiện không có cùng tuổi thọ trong tranh luận công**. Câu "thuế doanh nghiệp thực ra do người lao động trả" đi vào các cuộc thảo luận chính sách; bốn đoạn điều kiện thì không.
+
+Bằng chứng thực nghiệm tích lũy từ đó đến nay cho một bức tranh trung gian và cụ thể hơn: các nghiên cứu khai thác thay đổi thuế suất giữa các địa phương ước tính người lao động gánh **khoảng một nửa** gánh nặng thuế doanh nghiệp, không phải toàn bộ. Nửa còn lại rơi vào chủ sở hữu vốn. Con số đó đủ lớn để bác bỏ quan niệm rằng thuế doanh nghiệp chỉ đụng đến người giàu, và đủ nhỏ để bác bỏ kết luận mức tối ưu bằng không.
+
+Một chỉ dấu nữa đáng chú ý: sau nhiều thập niên, **không một nước nào từng thực sự bỏ thuế thu nhập doanh nghiệp**. Khi một kết quả lý thuyết được coi là chuẩn mực trong nghề mà không chính phủ nào dám áp dụng, điều đó thường nói lên rằng mô hình đã bỏ sót thứ gì đó mà các nhà hoạch định thực tế nhìn thấy.
+
+### Phát hiện hữu ích nhất của bài: thuế suất biên cao nhất thường rơi vào người nghèo nhất
+
+Kết quả hình chữ U là thứ đáng giá nhất trong bài, và nó phản trực giác theo một cách rất cụ thể mà bài chỉ nói nửa chừng.
+
+Điểm then chốt nằm ở khái niệm **thuế suất biên hiệu dụng**: không chỉ tính thuế phải nộp thêm khi thu nhập tăng, mà tính cả **phúc lợi bị mất**. Với người thu nhập thấp, hai thứ này cộng lại có thể tạo ra mức cản trở lớn hơn bất kỳ biểu thuế nào áp lên người giàu. Ở Anh, sự kết hợp giữa tỷ lệ cắt giảm trợ cấp, thuế thu nhập và đóng góp bảo hiểm có thể đẩy thuế suất biên hiệu dụng của một người lao động lương thấp lên quanh 70% — cao hơn mức biên áp lên người có thu nhập cao nhất.
+
+Với Việt Nam, phiên bản của vấn đề này còn nghiêm trọng hơn vì hỗ trợ không giảm dần mà **cắt đứt theo ngưỡng**. Việc phân loại hộ nghèo và hộ cận nghèo là một ranh giới nhị phân, và đi kèm với nó là cả một gói: hỗ trợ đóng bảo hiểm y tế, miễn giảm học phí và các khoản đóng góp ở trường, tiếp cận tín dụng ưu đãi từ ngân hàng chính sách, và nhiều chương trình hỗ trợ khác ở cấp địa phương.
+
+Kết quả là một **vách đá phúc lợi**: một hộ tăng thu nhập thêm một chút, vượt qua ngưỡng, và mất toàn bộ gói hỗ trợ cùng lúc. Thuế suất biên hiệu dụng tại đúng điểm đó có thể **vượt 100%** — tức kiếm thêm tiền khiến hộ nghèo đi. Hệ quả hành vi rất dễ đoán và đã được ghi nhận trong thực tế: động cơ ở lại dưới ngưỡng, động cơ không khai báo thu nhập tăng thêm, và ở cấp xã là động cơ không đưa hộ ra khỏi danh sách.
+
+Đây là một vấn đề thiết kế có lời giải rõ ràng và không tốn kém về nguyên tắc: **giảm dần thay vì cắt đứt**. Chuyển từ ngưỡng nhị phân sang một thang hỗ trợ giảm tuyến tính theo thu nhập sẽ loại bỏ vách đá mà không làm tăng đáng kể tổng chi. Lập luận cho điều này nằm ngay trong bài, chỉ là bài viết cho bối cảnh khác.
+
+### Thiên lệch nợ trong thuế doanh nghiệp là một vấn đề ổn định tài chính, không chỉ một vấn đề thuế
+
+Bài nhắc đến ý tưởng cho doanh nghiệp khấu trừ một mức lợi nhuận vốn chủ bình thường, như cách biến thuế doanh nghiệp thành thuế tô. Đây được trình bày như một tinh chỉnh kỹ thuật để đạt hiệu quả.
+
+Cách nhìn này bỏ mất điều quan trọng hơn. Lý do cần khấu trừ vốn chủ là vì **lãi vay đã được khấu trừ sẵn**. Hệ thống thuế doanh nghiệp ở gần như mọi nước cho trừ chi phí lãi vay khi tính thu nhập chịu thuế, nhưng không cho trừ chi phí vốn chủ sở hữu. Điều đó tạo ra một khoản trợ cấp thường trực cho việc **vay nợ thay vì huy động vốn chủ**, và khoản trợ cấp này lớn — nó tương đương thuế suất doanh nghiệp nhân với chi phí vốn.
+
+Hệ quả không nằm trong phạm vi tài chính công mà nằm trong phạm vi ổn định tài chính. Mọi phân tích về khủng hoảng 2008 đều kết luận rằng đòn bẩy quá cao là nguyên nhân trung tâm, và phản ứng chính sách là buộc ngân hàng giữ nhiều vốn chủ hơn. Nhưng trong suốt thời gian đó, hệ thống thuế vẫn đang trợ cấp cho hướng ngược lại. Nói cách khác, quy định an toàn và chính sách thuế của cùng một chính phủ kéo về hai phía đối nghịch.
+
+Điều này nối trực tiếp với các bài về ngân hàng và ngân hàng bóng tối trong cùng thư mục: nếu đòn bẩy quá cao là căn bệnh, thì một phần nguyên nhân nằm trong luật thuế chứ không chỉ trong luật ngân hàng. Một số nước đã thử khấu trừ vốn chủ rồi lại bãi bỏ vì chi phí ngân sách, và Liên minh châu Âu đã đề xuất một cơ chế tương tự — cho thấy vấn đề được nhận diện nhưng chưa được giải quyết.
+
+### Khung của bài giả định thu nhập vốn được hiện thực hóa, còn những khối tài sản lớn nhất được thiết kế để không tạo ra thu nhập
+
+Phần bàn về thuế thu nhập vốn đặt cuộc tranh luận giữa hai cực: thuế suất bằng không, hay bằng thuế suất lao động. Cả hai lựa chọn đều là về **mức thuế suất**, và cả hai đều giả định ngầm rằng có một dòng thu nhập vốn quan sát được để áp thuế suất lên.
+
+Với phần lớn người nộp thuế, giả định đó đúng: lãi tiền gửi, cổ tức, lãi từ việc bán chứng khoán đều hiện ra trong năm. Với những khối tài sản lớn nhất, nó không đúng, và không đúng một cách có chủ đích.
+
+Cơ chế rất đơn giản. Tài sản chủ yếu là cổ phần trong doanh nghiệp do chính người đó kiểm soát. Doanh nghiệp không chia cổ tức, giữ lại lợi nhuận, và giá trị cổ phần tăng lên. Phần tăng đó chỉ trở thành thu nhập chịu thuế khi cổ phần được bán — nên không bán. Để có tiền tiêu, người sở hữu **vay thế chấp bằng chính cổ phần đó**; khoản vay không phải thu nhập nên không chịu thuế. Chu trình này có thể kéo dài suốt đời, và ở nhiều hệ thống thuế, phần tăng giá trị chưa thực hiện được xóa bỏ khi tài sản chuyển cho người thừa kế.
+
+Kết quả là tỷ lệ thuế thực tế trên mức tăng của cải hằng năm ở nhóm đỉnh có thể thấp hơn nhiều so với tỷ lệ mà một người làm công ăn lương phải chịu — không phải vì thuế suất thấp mà vì **cơ sở thuế không tồn tại**.
+
+Đây là một khoảng trống về cấu trúc, không phải về thuế suất, nên không có lựa chọn nào trong hai cực mà bài trình bày giải quyết được nó. Các đề xuất xuất hiện sau khi bài ra đời — thuế trên tài sản ròng, thuế trên mức tăng giá trị chưa thực hiện, hoặc một mức thuế tối thiểu tính trên của cải áp dụng cho nhóm giàu nhất mà nhóm G20 đã thảo luận — đều nhắm vào việc tạo ra một cơ sở thuế mới chứ không phải điều chỉnh cơ sở cũ. Bài được viết ngay trước khi cuộc tranh luận này bùng lên, và điều đó thể hiện rõ.
+
+### Lời khuyên "thuế tiêu dùng đồng nhất" đúng có điều kiện, và chính điều kiện đó là thứ Việt Nam thiếu
+
+Lập luận của bài chống lại việc áp thuế suất thấp cho nhu yếu phẩm rất chặt chẽ: người nghèo chi tỷ lệ thu nhập lớn hơn cho thực phẩm, nhưng người giàu chi **số tiền tuyệt đối** lớn hơn, nên phần lớn khoản ưu đãi thuế rơi vào tay nhóm không cần nó.
+
+Điều đáng chú ý là câu tiếp theo trong bài chứa một chữ điều kiện mà lời khuyên chính sách thường bỏ mất: gần như mọi nền kinh tế tiên tiến "**nên có**" các công cụ phù hợp hơn — chuyển khoản gắn với thu nhập, hỗ trợ tiền mặt có mục tiêu.
+
+Phát biểu đầy đủ và trung thực phải là: thuế tiêu dùng đồng nhất cộng với chuyển khoản có mục tiêu ưu việt hơn thuế suất phân biệt **khi và chỉ khi bộ máy nhắm mục tiêu hoạt động được**. Bộ máy đó đòi hỏi một cơ sở dữ liệu thu nhập hộ gia đình đáng tin, khả năng chi trả điện tử đến tận nơi, và năng lực cập nhật thường xuyên. Ở một nền kinh tế mà khu vực phi chính thức chiếm một tỷ trọng lớn trong lực lượng lao động và phần lớn thu nhập không đi qua hệ thống được ghi nhận, sai số loại trừ có thể lớn đến mức phương án "tốt hơn" trên lý thuyết lại tệ hơn trên thực tế.
+
+Việt Nam là ví dụ sống động cho tình thế lưỡng nan này. Khi cần hỗ trợ sức mua trên diện rộng trong giai đoạn khó khăn, công cụ được chọn là **hạ thuế giá trị gia tăng từ 10% xuống 8%** trên diện rộng, được gia hạn nhiều lần. Xét theo tiêu chuẩn của bài, đây đúng là công cụ kém chọn lọc: phần lớn khoản hỗ trợ chảy tới người chi tiêu nhiều, tức người khá giả hơn.
+
+Nhưng nó được chọn vì nó **hoạt động ngay và không cần danh sách**. Không cần xác định ai đủ điều kiện, không cần bộ máy chi trả, không có sai số loại trừ, và không thể bị chiếm dụng ở khâu phân phối. Bài học rút ra không phải là bài viết sai, mà là **thứ tự ưu tiên bị đảo**: điều kiện tiên quyết để làm theo lời khuyên của bài không phải là thuyết phục nhà hoạch định về mặt lý thuyết, mà là xây dựng hạ tầng đăng ký và chi trả xã hội. Chừng nào hạ tầng đó chưa có, thuế suất phân biệt vẫn là một lựa chọn kém cỏi nhưng khả thi, và việc bỏ nó mà không có gì thay thế sẽ làm người nghèo thiệt hại thật.

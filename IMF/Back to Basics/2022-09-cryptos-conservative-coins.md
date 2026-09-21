@@ -144,3 +144,55 @@
 > "Stablecoins permit users to remain in the crypto universe without having to cash out into fiat currency."
 
 > "Should this happen, stablecoins will themselves become the banks that crypto assets were meant to replace."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Bài hỏi "stablecoin tồn tại để làm gì" nhưng chỉ trả lời từ phía người dùng, bỏ trống phía nhà phát hành — nơi có toàn bộ động cơ
+
+Đây là khoảng trống lớn nhất của bài. Câu hỏi được đặt rất đúng: nếu stablecoin tập trung, phụ thuộc tiền pháp định, có trung gian mới và kém riêng tư hơn kênh hiện có, thì nó tồn tại để làm gì? Bài trả lời bằng các lý do của người dùng — ở lại trong vũ trụ crypto, vào tài chính phi tập trung, phòng lạm phát ở thị trường mới nổi.
+
+Nhưng lý do mạnh nhất nằm ở phía ngược lại. Mô hình kinh doanh của một nhà phát hành stablecoin bảo đảm bằng tiền pháp định là: nhận tiền của khách, phát hành cho khách một chứng chỉ trị giá đúng bằng số tiền đó, đem tiền đi mua tín phiếu kho bạc, **và giữ toàn bộ lãi suất cho mình**. Người nắm stablecoin nhận lãi bằng không.
+
+Đây là một vị thế kinh tế phi thường. Một ngân hàng phải trả lãi tiền gửi để cạnh tranh; một quỹ thị trường tiền tệ phải trả gần hết lợi suất cho nhà đầu tư. Nhà phát hành stablecoin không phải trả gì cả và hưởng trọn phần chênh — đúng thứ mà kinh tế học gọi là **lợi tức phát hành tiền**, thứ vốn thuộc về nhà nước. Khi lãi suất USD ở mức 0 như giai đoạn 2020–2021, mô hình này gần như không sinh lời và stablecoin tồn tại chủ yếu nhờ hoạt động giao dịch crypto. Khi lãi suất USD lên trên 5% như 2023–2024, cùng một lượng lưu hành tạo ra lợi nhuận khổng lồ mà không cần thêm một người dùng nào.
+
+Bài viết tháng 9/2022, đúng giữa chu kỳ tăng lãi suất, và hoàn toàn không nhắc tới cơ chế này. Không nhìn thấy nó thì không giải thích được vì sao stablecoin không biến mất sau cú sụp TerraUSD như nhiều người dự đoán, không giải thích được cường độ vận động chính sách để hợp pháp hóa stablecoin ở Hoa Kỳ, và cũng không giải thích được vì sao luật hóa sau này lại **cấm nhà phát hành trả lãi cho người nắm giữ** — một điều khoản trông như bảo vệ hệ thống ngân hàng khỏi bị hút tiền gửi, nhưng đồng thời bảo đảm luôn cho nhà phát hành giữ trọn phần chênh.
+
+### Hướng lây lan đã diễn ra ngược với dự đoán của bài, và điều đó quan trọng
+
+Bài cảnh báo rằng cú sốc trong thế giới stablecoin có thể **lan ra ngoài** hệ thống tài chính truyền thống, vì nhiều nhà phát hành giữ dự trữ bằng công cụ tài chính truyền thống và các định chế truyền thống đang tăng phơi nhiễm crypto.
+
+Sự kiện lớn tiếp theo lại đi theo chiều ngược. Tháng 3/2023, đồng stablecoin lớn thứ hai thế giới mất neo và có lúc rơi xuống dưới 0,88 USD — không phải vì bất kỳ vấn đề nào của crypto, mà vì khoảng 3,3 tỷ USD dự trữ của nó nằm ở một ngân hàng Mỹ vừa bị rút tiền hàng loạt và bị đóng cửa. Cú sốc đi từ **hệ thống ngân hàng truyền thống vào crypto**, không phải ngược lại.
+
+Phát hiện rút ra sâu hơn một lần đảo chiều đơn thuần. Nó cho thấy một stablecoin "bảo đảm đầy đủ" không hề loại bỏ rủi ro, mà chỉ **chuyển rủi ro từ tín dụng sang nơi cất giữ dự trữ**. Một stablecoin chỉ an toàn bằng đúng nơi giữ tiền của nó, và nơi đó lại là một ngân hàng thương mại có bảng cân đối riêng, có rủi ro kỳ hạn riêng. Cái gọi là "thoát khỏi hệ thống ngân hàng" hóa ra chỉ là thêm một lớp giữa người dùng và cùng một ngân hàng đó — một lớp không có bảo hiểm tiền gửi và không có quyền tiếp cận người cho vay cuối cùng.
+
+Hệ quả thứ hai lộ ra chậm hơn nhưng lớn hơn. Sau 2023, các nhà phát hành dịch chuyển dự trữ mạnh sang tín phiếu kho bạc Mỹ nắm trực tiếp, và tổng lượng nắm giữ của họ đã đạt quy mô tương đương một chủ nợ quốc gia hạng trung của chính phủ Mỹ. Khi đó, một đợt rút tiền hàng loạt khỏi stablecoin không còn là chuyện nội bộ crypto: nó trở thành **một lệnh bán cưỡng bức vào thị trường tín phiếu kho bạc**. Đây chính xác là kênh lây lan ra ngoài mà bài cảnh báo, nhưng nó xuất hiện qua con đường mà bài không hình dung — qua việc stablecoin trở nên an toàn hơn, chứ không phải qua việc nó rủi ro hơn.
+
+### Câu kết của bài đã thành hiện thực, và lịch sử cho biết chương tiếp theo
+
+Câu "stablecoin sẽ trở thành chính những ngân hàng mà crypto định thay thế" là dự báo chính xác nhất trong bài. Đến năm 2024–2025, khung quản lý stablecoin ở Liên minh châu Âu và Hoa Kỳ đã áp đặt gần đủ bộ yêu cầu kiểu ngân hàng: dự trữ một đổi một bằng tài sản thanh khoản cao, tách biệt tài sản khách hàng, kiểm toán định kỳ, quyền thu hồi theo mệnh giá, giấy phép và giám sát.
+
+Điều đáng nói là mô hình sinh ra sau quá trình đó không mới trong lịch sử tiền tệ. Nó gần như trùng khớp với **thời kỳ ngân hàng tự do ở Hoa Kỳ giữa thế kỷ 19**: nhiều tổ chức tư nhân phát hành giấy bạc có thể đổi ra vàng theo mệnh giá, bảo đảm bằng trái phiếu chính quyền bang gửi tại cơ quan quản lý. Kết quả của thời kỳ đó được ghi chép đầy đủ: giấy bạc của các nhà phát hành khác nhau lưu hành ở những mức chiết khấu khác nhau tùy uy tín và khoảng cách địa lý, có cả một ngành nghề chuyên xuất bản bảng tra tỷ giá giữa các loại giấy bạc, và có những đợt sụp đổ hàng loạt khi giá trái phiếu bảo đảm giảm.
+
+Cách thời kỳ đó kết thúc cũng đã biết: nhà nước áp thuế nặng lên giấy bạc tư nhân và giành độc quyền phát hành. Nếu quy luật này lặp lại, thì kịch bản trung hạn cho stablecoin không phải là bị cấm, cũng không phải là thay thế tiền ngân hàng, mà là **bị hấp thụ**: trở thành một lớp hạ tầng thanh toán được cấp phép chặt, cạnh tranh trực tiếp với tiền số của ngân hàng trung ương và với các hệ thống thanh toán tức thời do nhà nước vận hành. Trong kịch bản đó, phần "crypto" của stablecoin chỉ còn là chi tiết kỹ thuật về cách ghi sổ.
+
+### Đoạn phản biện về tài chính toàn diện là phần mạnh nhất, và nó khái quát được xa hơn phạm vi crypto
+
+Con số Kenya — tỷ lệ người trưởng thành có tiếp cận dịch vụ tài chính tăng từ 14% lên 83% trong giai đoạn 2006–2019 nhờ tiền di động chứ không nhờ crypto — là lập luận thực nghiệm sắc nhất trong bài, và nó xứng đáng được đọc như một nguyên tắc chung.
+
+Điều mà ví dụ này chứng minh là: **ràng buộc thực sự của tài chính toàn diện không nằm ở công nghệ sổ cái**. Nó nằm ở ba thứ khác — có cách định danh được người dùng, có mạng lưới đại lý vật lý để nạp và rút tiền mặt, và có đủ niềm tin để người ta giao tiền của mình. Tiền di động giải quyết cả ba bằng những phương tiện rất tầm thường: một cửa hàng tạp hóa ở đầu làng và một nhà mạng viễn thông mà ai cũng biết mặt. Sổ cái phân tán không giải quyết được bất kỳ thứ nào trong ba thứ đó, và trong nhiều trường hợp còn làm khâu nạp rút tiền mặt khó hơn.
+
+Bài cũng nêu một quan sát ít được nhắc nhưng rất xác đáng: người dùng crypto ở phần lớn các nước là **người có học, tương đối trẻ và đã có tài khoản ngân hàng** — tức đúng nhóm không thuộc diện bị loại trừ tài chính. Điều này đặt dấu hỏi lên cả một dòng lập luận vận động chính sách vẫn đang được sử dụng đến nay.
+
+Nguyên tắc rút ra vận dụng được cho các chủ đề khác trong kho tài liệu này, từ token hóa tài sản đến ứng dụng trí tuệ nhân tạo trong tài chính: khi một công nghệ được giới thiệu là giải pháp cho một vấn đề xã hội, câu hỏi đầu tiên nên là **ràng buộc đang chặn vấn đề đó là gì**, chứ không phải công nghệ làm được gì. Nếu ràng buộc là thể chế và niềm tin, một cải tiến kỹ thuật ở tầng ghi sổ sẽ không chạm tới nó.
+
+### Với Việt Nam: "cryptoization" không phải nguy cơ trừu tượng mà là bài toán tốc độ
+
+Bài nêu hiện tượng người dân ở thị trường mới nổi dùng stablecoin định giá USD làm kho giá trị, phòng lạm phát và mất giá đồng nội tệ, và cảnh báo rằng ở nơi không quản lý, điều này có thể né kiểm soát dòng vốn và làm phức tạp điều hành của ngân hàng trung ương.
+
+Việt Nam hội đủ mọi điều kiện của hiện tượng này: tỷ lệ người dân sở hữu tài sản số thuộc nhóm cao nhất thế giới trong nhiều năm liền, lượng kiều hối lớn, tỷ lệ sử dụng điện thoại thông minh rất cao, đồng nội tệ chưa tự do chuyển đổi, và một lịch sử đô la hóa không xa.
+
+Điểm đáng suy nghĩ là so sánh với hình thái đô la hóa cũ mà một tài liệu khác trong chính tập Back to Basics này mô tả. Đô la hóa truyền thống diễn ra chậm và có quán tính lớn: phải có tiền mặt USD vật lý, phải qua ngân hàng hoặc thị trường tự do, có chi phí giao dịch và rủi ro cất giữ. Chính những ma sát đó cho nhà điều hành thời gian phản ứng.
+
+Stablecoin xóa gần hết ma sát. Việc chuyển từ tiền nội tệ sang một tài sản neo USD có thể hoàn tất trong vài phút, từ điện thoại, không cần rời nhà, không cần hạn mức. Nghĩa là **biến số bị thay đổi không phải mức độ đô la hóa cân bằng mà là tốc độ đạt tới nó**. Một áp lực tỷ giá mà trước đây mất vài tháng để biến thành dịch chuyển tiền gửi thì nay có thể mất vài ngày.
+
+Hàm ý chính sách không phải là cấm — kinh nghiệm cho thấy cấm chỉ đẩy hoạt động sang kênh ngang hàng khó quan sát hơn — mà là hai việc song song. Thứ nhất, **thu hẹp lý do tồn tại của nhu cầu**: giữ lạm phát thấp và tỷ giá có thể dự đoán là biện pháp chống cryptoization hiệu quả hơn mọi quy định. Thứ hai, **cung cấp phương án hợp pháp tốt hơn về mặt tiện dụng** cho đúng nhu cầu mà stablecoin đang phục vụ, đặc biệt là kiều hối và thanh toán xuyên biên giới, nơi chi phí và thời gian của kênh chính thức vẫn là lý do thuyết phục nhất để người dùng đi đường vòng.

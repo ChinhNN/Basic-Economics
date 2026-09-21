@@ -319,3 +319,61 @@ Bốn điểm:
 > "When uncertainty originates elsewhere, investors seek safety in dollar-denominated assets. But when questions arise about the stability or predictability of US policies and institutions, concerns inevitably emerge about the dollar's reliability as the anchor."
 
 > "Just as Google Translate enables people to communicate directly without a common language, tokenized financial infrastructure could facilitate direct interaction between different currencies."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Ý tưởng hay nhất của bài chỉ chiếm ba câu
+
+Trong toàn bộ bài, đoạn đáng giá nhất là nhận xét về tính bất đối xứng của vai trò trú ẩn: khi bất định đến từ nơi khác, nhà đầu tư chạy vào tài sản bằng đô la; nhưng khi nghi ngờ nảy sinh về chính sách và thể chế Hoa Kỳ, thì nghi ngờ đó nhắm thẳng vào độ tin cậy của cái neo.
+
+Phát biểu gọn: **đồng đô la phòng hộ được mọi rủi ro trừ rủi ro của chính nó.**
+
+Điều làm nhận xét này mạnh là nó biến một lập luận thường mang màu sắc chính trị thành một lập luận quản trị rủi ro thuần túy. Không cần phải cho rằng đồng đô la sẽ suy yếu, không cần thái độ thù địch nào với Hoa Kỳ, cũng đủ để kết luận rằng việc đặt toàn bộ hệ thống thanh toán của một khu vực lên một tài sản duy nhất là một cấu trúc rủi ro tập trung — và rủi ro đó không thể phòng hộ bằng chính tài sản ấy.
+
+Đây cũng là lý do bài giữ được sự thuyết phục dù tác giả là kinh tế trưởng của một tổ chức khu vực có lợi ích rõ ràng trong việc thúc đẩy hạ tầng khu vực.
+
+### Khoảng cách giữa hạ tầng được xây và hạ tầng được dùng
+
+Đây là điểm yếu lớn nhất, và nó mang tính cấu trúc chứ không phải là một thiếu sót có thể sửa bằng cách bổ sung số liệu.
+
+Bài trình bày rất đầy đủ các con số về **phía đô la**: hơn 80% hóa đơn thương mại, gần 85% giao dịch ngoại hối, hai phần ba dự trữ. Nhưng về **phía chuyển hướng** thì không có một con số nào — chỉ có một cụm từ, "vẫn còn khiêm tốn về quy mô".
+
+Bằng chứng cho luận điểm trung tâm vì thế toàn bộ là **thông báo thể chế**: các khuôn khổ đã ký, các dự án thí điểm đã khởi động, các hệ thống đã kết nối. Không có dòng tiền nào được đo.
+
+Điều này quan trọng vì trong tiền tệ, **quán tính mạng lưới là một trong những lực mạnh nhất trong kinh tế học**. Người ta dùng đồng đô la vì người khác dùng đồng đô la: thanh khoản sâu nhất nằm ở cặp tiền có đô la, công cụ phòng hộ rẻ nhất nằm ở đó, đối tác của bạn đã có tài khoản đô la sẵn. Lịch sử cho thấy đồng bảng Anh vẫn giữ vai trò trung tâm nhiều thập niên sau khi kinh tế Anh không còn dẫn đầu. Việc xây hạ tầng thay thế là điều kiện cần, nhưng khoảng cách từ đó tới việc được sử dụng ở quy mô lớn thường tính bằng thập niên, và nhiều hạ tầng tốt đơn giản là không bao giờ vượt qua được khoảng cách đó.
+
+Đánh giá công bằng: **cuộc chuyển hướng là có thật ở tầng hạ tầng, chưa được chứng minh ở tầng dòng tiền.** Bài không nói rõ sự phân biệt này.
+
+### Một sự vắng mặt đáng chú ý
+
+Bài nhắc lại khủng hoảng 1997 và việc IMF can thiệp với chương trình 40 tỷ USD, rồi chuyển sang chủ đề khác. Nó hoàn toàn không nhắc tới Sáng kiến Đa phương hóa Chiang Mai — mạng lưới hoán đổi tiền tệ khu vực với quy mô 240 tỷ USD được lập ra chính vì bài học 1997, và là hậu duệ thể chế trực tiếp của sự kiện đó.
+
+Sự vắng mặt này đáng chú ý vì cơ quan mà tác giả đang làm kinh tế trưởng chính là tổ chức giám sát của sáng kiến đó.
+
+Có một cách giải thích không mang tính phê phán, và nó thực ra làm bài trở nên thú vị hơn: sáng kiến này **chưa bao giờ được sử dụng**. Một tài liệu khác trong repo, bản rà soát mạng lưới an toàn tài chính toàn cầu, ghi nhận rõ điều đó — toàn bộ năng lực 240 tỷ USD chưa từng được giải ngân lần nào. Nếu vậy thì việc bỏ qua nó trong một bài lập luận rằng hạ tầng khu vực đang thay thế dần các kênh toàn cầu là dễ hiểu, nhưng nó cũng là một minh họa hoàn hảo cho chính vấn đề đã nêu ở mục trên: **hạ tầng khu vực được xây rồi nằm im là mô thức có tiền lệ trong chính khu vực này.**
+
+### Bước tiến khái niệm thật: giao thức chung thay vì đồng tiền chung
+
+Phép ẩn dụ Google Dịch nghe nhẹ nhàng nhưng chứa một luận điểm có sức nặng.
+
+Vấn đề mà châu Âu giải bằng euro là chi phí giao dịch giữa nhiều đồng tiền. Giải pháp của họ là loại bỏ sự đa dạng — một đồng tiền, một chính sách tiền tệ, và cái giá phải trả là các nước mất công cụ điều chỉnh riêng, điều đã bộc lộ rất đau đớn trong khủng hoảng khu vực đồng euro.
+
+Luận điểm của bài là **công nghệ đã mở ra một cách giải khác**: nếu các đồng tiền có thể tương tác trực tiếp trên một hạ tầng chung với thanh toán đồng thời hai vế, thì chi phí giao dịch giảm mà không cần ai từ bỏ đồng tiền của mình. Cần một **giao thức chung**, không cần một **đồng tiền chung**.
+
+Đây là một quan sát đúng và quan trọng, và nó giải thích vì sao lộ trình của châu Á không phải là bản sao chậm hơn của châu Âu mà là một con đường khác về bản chất.
+
+Cần thận trọng ở một điểm: phần khó nhất của thanh toán xuyên biên giới chưa bao giờ là kỹ thuật. Nó là pháp lý và tuân thủ — phòng chống rửa tiền, trừng phạt, bảo vệ dữ liệu, xử lý tranh chấp khi có sự cố, và câu hỏi tòa án nào có thẩm quyền. Hạ tầng token hóa không giải quyết bất kỳ vấn đề nào trong số đó, và bài không đề cập tới chúng.
+
+### Với Việt Nam: một việc làm được ngay và một rào cản không thể vòng qua
+
+**Việc làm được ngay là kết nối thanh toán bán lẻ qua mã QR.** Nó không đòi hỏi mở tài khoản vốn, không đòi hỏi thay đổi chế độ tỷ giá, không đòi hỏi đồng tiền phải chuyển đổi tự do. Lợi ích đo được ngay ở du lịch, kiều hối và thương mại nhỏ lẻ vùng biên. Đây là phần dễ nhất của toàn bộ chương trình và cũng là phần có tỷ suất lợi ích trên chi phí cao nhất.
+
+**Rào cản không thể vòng qua là khả năng chuyển đổi của đồng tiền.** Thanh toán bằng đồng nội tệ ở quy mô đáng kể đòi hỏi đối tác nước ngoài sẵn sàng **nắm giữ** đồng tiền đó — và muốn vậy họ cần một nơi để cất nó sinh lời, tức một thị trường trái phiếu đủ sâu và đủ mở, cùng khả năng chuyển đổi ngược lại khi cần. Với đồng Việt Nam hiện nay, cả ba điều kiện đều chưa có.
+
+Bài có nhận ra logic này ở phần bàn về đồng nhân dân tệ — nơi việc mở rộng tiếp cận thị trường trái phiếu chính phủ cho nhà đầu tư nước ngoài được nêu ngang hàng với hạ tầng thanh toán. Đó là chi tiết quan trọng nhất trong cả đoạn đó, và nó cho thấy thứ tự đúng: **hạ tầng thanh toán là phần dễ; chiều sâu thị trường tài chính mới là phần quyết định.**
+
+Hệ quả thực tiễn cho Việt Nam: lợi ích khả thi trong 5 đến 10 năm tới nằm ở tầng bán lẻ và ở việc giảm chi phí cho các giao dịch song phương cụ thể với những đối tác lớn nhất, chứ không phải ở việc đồng Việt Nam trở thành phương tiện thanh toán khu vực. Đặt kỳ vọng vào vế thứ hai sẽ dẫn tới thất vọng — và quan trọng hơn, sẽ khiến bỏ lỡ phần lợi ích thật đang nằm ngay trong tầm tay.
+
+### Đánh giá tổng thể
+
+Đây là bài viết có ý tưởng hay nhất trong bốn bài tạp chí của thư mục, nhưng cũng là bài có khoảng cách lớn nhất giữa luận điểm và bằng chứng. Nên đọc nó như một **bản trình bày chiến lược** của các tổ chức khu vực — điều đó tự nó đã có giá trị thông tin — chứ không như một đánh giá thực nghiệm về việc đồng đô la đang mất vị thế đến đâu.

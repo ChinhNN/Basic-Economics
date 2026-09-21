@@ -430,3 +430,41 @@
 > "The evidence for countercyclical use emerges only from countries that actually implemented some inflow tightening measures."
 
 > "Not all changes in the table of changes result in a change in FARI and not all changes in FARI can be linked to changes reported in the table of changes."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Bất đối xứng 8 so với 23 là một đính chính gửi tới cả một dòng nghiên cứu
+
+Phát hiện trung tâm thường được đọc như một quan sát về hành vi nhà nước: siết thì dứt khoát, nới thì rụt rè. Giá trị thật của nó nằm ở chỗ khác, và bài chỉ nói ra một nửa.
+
+Rất nhiều nghiên cứu thực nghiệm dùng **số đếm biện pháp ròng** — số lần nới trừ số lần siết — làm đại diện cho lập trường chính sách. Nếu đóng hẳn dòng ra chỉ cần **8 biện pháp siết** mà mở lại cần **23 biện pháp nới**, thì một nước đi trọn vòng đóng rồi mở để lại dấu vết **+15 lần nới ròng** trong khi kết thúc đúng chỗ nó bắt đầu. Đây không phải nhiễu ngẫu nhiên tự triệt tiêu trên mẫu lớn mà là **thiên lệch có dấu cố định**, và nó lớn nhất đúng ở những nước khủng hoảng mà tài liệu quan tâm nhất.
+
+Bài phát biểu điều này dưới dạng một cảnh báo đọc số liệu. Phát biểu mạnh hơn mà số liệu cho phép là: **mọi chỉ số tích luỹ kiểu cộng siết trừ nới đều trôi dần về phía "mở hơn", ngay cả khi không có tự do hoá thực sự nào**. Kết luận này được xác nhận độc lập từ hướng khác trong chính thư mục: tài liệu về bức tranh mở rộng các hạn chế dòng vốn xuyên biên giới xây đúng một chỉ số kiểu đó từ 1950, rồi khi gán trọng số cường độ thì thấy nước trung bình chỉ nới khoảng **10 biện pháp** thay vì **40**.
+
+### Hệ số thị trường song song là một lỗ hổng đo lường được báo cáo dưới dạng kết quả hồi quy
+
+Kết quả phản trực giác nhất — chênh lệch thị trường song song đi kèm mức hạn chế **thấp hơn**, hệ số **−0,327** cho dòng vào và **−0,480** cho dòng ra ở nhóm đang phát triển — được giải thích bằng hai câu về việc thay thế sang hạn chế giao dịch vãng lai, rồi bài đi tiếp.
+
+Đọc lại nó như một mệnh đề về chất lượng của chính chỉ số thì nó nói rằng **FARI đọc là "mở hơn" đúng những nước trên thực tế đóng chặt nhất**, vì các nước đó quản lý dòng vốn bằng cách bóp nguồn cung ngoại tệ cho giao dịch vãng lai — thứ mà AREAER xếp vào hạn chế hối đoái hoặc thực hành đa tỷ giá. Đây không phải sai số cổ điển làm yếu hệ số một cách vô hại; đây là **sai số tương quan âm với chính biến tiềm ẩn cần đo**, loại sai số có thể lật dấu. Ranh giới giữa kiểm soát vốn và hạn chế hối đoái ở đây là một **quyết định phân loại, không phải ranh giới kinh tế** — điểm được xử lý trực diện hơn trong tài liệu về hạn chế thanh toán thương mại và kiểm soát vốn ở thư mục ASEAN 2026.
+
+### Giới hạn nghiêm trọng nhất được đóng gói lại thành đóng góp thứ tư
+
+Việc **khoảng một phần ba** số nước bị loại khỏi hồi quy vì chưa từng siết dòng vào là một vấn đề chọn mẫu theo kết cục: mẫu ước lượng được định nghĩa bằng chính hành vi cần giải thích. Bài không giấu điều này mà biến nó thành đóng góp thứ tư — lời hoà giải giữa phe nói kiểm soát vốn có tính phản chu kỳ và phe nói không.
+
+Cách đóng gói ấy khéo, nhưng mệnh đề "nhóm một phần ba này không phản chu kỳ" là một **suy đoán, không phải ước lượng**; chính bài dùng chữ "hợp lý khi suy đoán", và theo thiết kế thì không thể kiểm định. Một cách đọc thay thế nhất quán hoàn toàn với số liệu: nhóm này **có** hành xử phản chu kỳ, nhưng bằng công cụ nằm ngoài phạm vi của FARI và ACI — can thiệp ngoại hối, công cụ an toàn vĩ mô, phân bổ ngoại tệ. Tài liệu về bức tranh mở rộng trong cùng thư mục cho bằng chứng trực tiếp: nếu chỉ nhìn tài khoản vốn và khu vực tài chính thì hệ số khủng hoảng **không có ý nghĩa thống kê**, còn khi mở rộng phạm vi thì là **1,507** với khủng hoảng tiền tệ và **2,532** với khủng hoảng nợ công.
+
+Và có một kết quả còn thẳng thừng hơn bị để lại trong một dòng: **loại năm nước Argentina, Síp, Ukraine, Iceland và Hy Lạp thì không còn mức tăng đáng kể nào quanh khủng hoảng**. Sự thật cách điệu "khủng hoảng kích hoạt kiểm soát vốn" về cơ bản là câu chuyện của năm nước. Đó là tiêu đề trung thực nhất bài có thể đặt, và bài đã không đặt.
+
+### Một chỉ số cố tình từ chối đo cường độ, trong chính bài đã chứng minh vì sao phải đo cường độ
+
+Việc FARI từ chối chấm cường độ được biện hộ bằng tính khách quan. Lập luận đúng về nguyên tắc, nhưng bài tự cung cấp bằng chứng phản bác mạnh nhất: chính nó thừa nhận rằng **chỉ Quinn–Toyoda, vốn đo cường độ, nhìn thấy tự do hoá của Trung Quốc**, còn tự do hoá của Ấn Độ thì chỉ chỉ số đếm thay đổi mới ghi nhận. Với hai nền kinh tế lớn nhất nhóm mới nổi, FARI không thấy gì.
+
+Câu trả lời của bài là dùng FARI cùng ACI. Nhưng ACI không xếp hạng được độ mở giữa các nước, còn FARI không thấy thay đổi từng phần, nên cặp này vẫn **không trả lời được câu hỏi cơ bản nhất**: Trung Quốc năm 2022 mở hơn Trung Quốc năm 2005 bao nhiêu? Tài liệu về thước đo cường độ chính sách trong cùng thư mục cho một con số đáng suy nghĩ: tương quan của chỉ số cường độ đó với FARI chỉ là **0,79**, thấp nhất trong bốn chỉ số được đối chiếu, và độ phân tán lớn nhất rơi đúng vào nhóm kiểm soát chặt. Cái giá của tính khách quan vì thế không được chia đều. Con số tổng quát **0,42 xuống 0,35 trong 24 năm** trông như hai thập kỷ gần đứng yên; một phần của sự đứng yên đó là đặc tính của dụng cụ đo chứ không phải của thế giới.
+
+### Với Việt Nam: bài dự báo đúng hình dạng chính sách, nhưng sẽ không nhìn thấy chính sách của Việt Nam
+
+Ba kết quả mô tả trúng vị trí của Việt Nam. Chế độ tỷ giá trung gian là nhóm **điều chỉnh kiểm soát vốn thường xuyên nhất**, vì theo đuổi cả ba mục tiêu của bộ ba bất khả thi nên cần nhiều công cụ hơn — đây là mô tả chính xác chi phí ẩn của việc giữ tỷ giá trong biên độ. Hình mẫu tuần tự mở dòng vào trước rồi mới mở dòng ra, với **khoảng cách 14 điểm phần trăm** giữa hai chiều, lớn nhất ở nước thu nhập thấp rồi thu hẹp khi thu nhập tăng, cho một chỉ tiêu đo được: **khoảng cách giữa độ mở dòng vào và dòng ra, chứ không phải mức mở tuyệt đối, mới là thứ nên theo dõi**. Và mốc "gần mở hoàn toàn" được xác định là khi còn **10–15% số hạng mục bị kiểm soát**, tức tự do hoá hoàn toàn chưa bao giờ là chuẩn mực thực tế.
+
+Nhưng hệ quả sắc nhất là một cảnh báo phương pháp. Việt Nam tự do hoá theo kiểu Trung Quốc và Ấn Độ: bằng thông tư, hạn mức và điều kiện, gần như không bao giờ xoá hẳn một hạng mục. Với cách đó, **FARI của Việt Nam sẽ gần như bất động bất kể thực tế thay đổi ra sao**. Ai dùng FARI hay Chinn–Ito để kết luận "Việt Nam hai mươi năm không mở thêm gì" đều đang đọc một tạo tác của dụng cụ đo.
+
+Một điểm cuối cho người làm chính sách: **đầu tư trực tiếp vào trong nước là nhóm bị kiểm soát nhiều nhất ngay cả ở các nước đã gần như mở hết**, vì lý do an ninh quốc gia chứ không phải lý do kinh tế. Việc Việt Nam duy trì sàng lọc và điều kiện với FDI trong một số ngành vì thế không phải lệch chuẩn quốc tế — nó chính là chuẩn.

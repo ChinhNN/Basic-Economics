@@ -548,3 +548,49 @@
 > "The positive response to the overall wedge appears primarily driven by tighter restrictions on debt inflows."
 
 > "Coarser indicators of capital account openness provide too little time variation to detect short-run firm-level balance-sheet responses — even in a dataset with more than ten million observations."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Nhan đề bán nửa dễ chịu, còn bằng chứng ủng hộ nửa khó chịu
+
+"Nghiêng cán cân về phía vốn cổ phần" nghe như một chương trình tự do hoá: mở cửa cho FDI, đơn giản hoá thủ tục, đón nhà đầu tư chiến lược. Nhưng bằng chứng của bài nói ngược, và nói nhất quán ở cả hai phương pháp.
+
+Trong phép chiếu cục bộ, phản ứng với việc nới dòng cổ phần được mô tả là "yếu và ước lượng kém chính xác", trong khi siết dòng nợ cho phản ứng âm rõ rệt, khoảng −0,3 ở năm thứ tám. Trong bảng doanh nghiệp gần 12,9 triệu quan sát, hệ số của độ mở dòng cổ phần là **+0,045 và không có ý nghĩa**, còn của độ mở dòng nợ là **−0,511 và có ý nghĩa**. Hai phương pháp khác hẳn nhau, cùng một kết luận: **vế cổ phần không làm gì cả; toàn bộ tác dụng đến từ vế nợ.**
+
+Nhan đề trung thực phải là "siết dòng nợ vào làm nghiêng cán cân về phía cổ phần", và đây là hai chương trình hoàn toàn khác nhau về mặt chính trị. Nới cổ phần là việc dễ bán, ai cũng ủng hộ, không ai mất gì. Siết dòng nợ là kiểm soát vốn theo đúng nghĩa cổ điển, tốn kém trực tiếp cho doanh nghiệp trong nước đang cần vốn. Bài có kết quả cho cái thứ hai nhưng đặt tên theo cái thứ nhất.
+
+### Biến kết quả là một tỷ lệ, và bài không bao giờ hỏi mẫu số co lại có tốt không
+
+Đây là lỗ hổng khái niệm lớn nhất. Biến phụ thuộc là **tỷ trọng cổ phần trong nợ đối ngoại**, tức một tỷ số. Siết dòng nợ nâng tỷ số đó bằng cách **làm nhỏ mẫu số**, không phải bằng cách làm lớn tử số, và không chỗ nào trong bài cho thấy nợ cổ phần tăng về mức tuyệt đối. Một nước có thể đạt +7 điểm phần trăm đơn giản bằng cách nhận ít tài trợ bên ngoài hơn. Theo logic dễ tổn thương mà bài dựa vào, ít nợ đúng là an toàn hơn; nhưng "an toàn hơn" và "tốt hơn" là hai chuyện, và bài không đo chuyện thứ hai.
+
+Bằng chứng mà chính bài trích để củng cố cơ chế lại là bằng chứng mạnh nhất cho cách đọc u ám. Kết quả của Fabiani, Fernández và Gupta cho thấy siết hạn chế người không cư trú mua trái phiếu doanh nghiệp làm giảm đáng kể việc phát hành sau đó, **nhất là ở doanh nghiệp rủi ro hơn**, trong khi chỉ doanh nghiệp năng suất hơn giữ được đầu tư nhờ chuyển sang nguồn khác. Bài gọi đó là kênh thận trọng cộng kênh thay thế; đọc trần trụi thì nó có nghĩa là **doanh nghiệp nhỏ và rủi ro bị cắt vốn, doanh nghiệp lớn và mạnh thì không sao.** Cơ cấu đối ngoại đẹp lên một phần vì một nhóm doanh nghiệp bị loại khỏi thị trường tài chính — vẫn có thể là đánh đổi đáng làm, nhưng phải được gọi đúng tên.
+
+### Lý do tồn tại của công cụ là tốc độ, nhưng công cụ mất sáu tới tám năm
+
+Lập luận mở đường rất rõ: khuyến nghị truyền thống là củng cố thể chế và làm sâu hệ thống tài chính để thu hút vốn cổ phần, nhưng những cải thiện đó cần thời gian — nên câu hỏi là liệu biện pháp quản lý dòng vốn có thể lái cơ cấu về phía cổ phần **trong giai đoạn chuyển tiếp** hay không. Rồi bài tìm ra rằng tác động xây dần và **đạt đỉnh sau khoảng sáu tới tám năm**.
+
+Căng thẳng này chưa bao giờ được nói ra. Nếu công cụ thay thế cũng cần gần một thập kỷ thì lý lẽ "cải cách thể chế quá chậm nên cần một giải pháp cầu nối" mất phần lớn trọng lượng: cầu nối ấy dài bằng đúng quãng đường nó định bắc qua. Hệ quả đảo ngược cách đọc — kiểm soát vốn ở đây **không phải công cụ ứng phó** mà là một lựa chọn cơ cấu dài hạn, phải quyết từ rất sớm và giữ qua nhiều nhiệm kỳ. Nước nào phát hiện mình đã có quá nhiều nợ đối ngoại thì công cụ này không còn kịp giúp.
+
+### Đóng góp bền nhất là lời cảnh báo cho cả một nhánh tài liệu, nhưng nó là con dao hai lưỡi
+
+Phần thuyết phục nhất không phải kết quả kinh tế mà là kết quả phương pháp: khi thay chỉ số cường độ bằng chỉ số nhị phân truyền thống, mọi hệ số **mất ý nghĩa ngay cả với 9.894.837 quan sát doanh nghiệp**. Nếu gần mười triệu quan sát vẫn không cứu được một chỉ số đo sai thì vấn đề không nằm ở cỡ mẫu. Hệ quả vượt xa phạm vi bài: cả một thế hệ nghiên cứu về kiểm soát vốn đã dùng chỉ số nhị phân, báo cáo kết quả không có ý nghĩa, rồi kết luận rằng kiểm soát vốn không hiệu quả — và bài này gợi ý rằng **một phần của kết luận đó có thể là thất bại đo lường chứ không phải sự thật kinh tế**.
+
+Nhưng hai chỉ số cho kết quả khác nhau **không tự động chứng minh chỉ số mới đúng**, và toàn bộ kết quả cốt lõi phụ thuộc vào một chỉ số vừa được công bố — chính kiểm chứng độ vững của bài ghi nhận rằng khi dùng chỉ số cũ thì dấu vẫn nhất quán nhưng **ý nghĩa thống kê yếu đi**. Thêm một chi tiết: ở mẫu con các nước không thu nhập cao, kết quả cơ sở chỉ được khôi phục **sau khi bỏ biến vốn con người**.
+
+### Hai tài liệu trong cùng thư mục gán giá trị cho hai nửa đối lập của cùng bộ chỉ số quản trị
+
+Phân rã thể chế thành sáu chiều cho một kết quả sắc và bất ngờ: **chỉ kiểm soát tham nhũng, ổn định chính trị, cùng tiếng nói và trách nhiệm giải trình có tương tác có ý nghĩa với nêm; hiệu quả chính phủ, pháp quyền và chất lượng quản lý thì không.**
+
+Đặt cạnh tài liệu về bầu cử và chu kỳ chính trị trong cùng thư mục này thì có một sự đối lập gần như hoàn hảo: ở đó bốn chiều nổi bật là kiểm soát tham nhũng, hiệu quả chính phủ, pháp quyền và chất lượng quản lý, còn tiếng nói và trách nhiệm giải trình là chiều duy nhất không có tác động độc lập nào. Hai bài không mâu thuẫn — chúng hỏi hai câu khác nhau, và sự đối lập chính là câu trả lời. Bài về bầu cử hỏi **nhà đầu tư có đến hay không**, và điều đó phụ thuộc vào khả năng thực thi hợp đồng. Bài này hỏi **một chế độ kiểm soát công bố ra có được tin và giữ được hay không**, và điều đó phụ thuộc vào độ tin cậy chính trị: nhà đầu tư cần tin rằng luật chơi sẽ không bị đảo trong năm tới, chứ không cần thủ tục hành chính chạy nhanh.
+
+### Với Việt Nam: một nước đã thực thi kết luận của bài suốt ba mươi năm, và điểm mù rơi đúng chỗ quan trọng nhất
+
+Đây là bài mô tả cấu hình của Việt Nam sát nhất trong cả thư mục: tài khoản vốn còn kiểm soát, đồng tiền chưa chuyển đổi tự do, chế độ FDI tương đối mở, vay nợ nước ngoài của khu vực tư nhân chịu ràng buộc và thủ tục đăng ký. Đó chính là "nêm độ mở cổ phần dương" mà bài đo, và Việt Nam đã duy trì nó liên tục mà chưa bao giờ gọi bằng tên đó: tỷ trọng cổ phần cao trong nợ đối ngoại **không phải may mắn mà là kết quả của chính sách**.
+
+Ba điều rút ra. Thứ nhất, vì tác dụng đến từ **vế nợ**, rủi ro cơ cấu của Việt Nam không nằm ở chính sách FDI mà ở tốc độ mở kênh vay nợ đối ngoại: người không cư trú mua trái phiếu doanh nghiệp trong nước, và doanh nghiệp trong nước vay nước ngoài. Nếu kênh này được nới, tỷ trọng cổ phần sẽ giảm với độ trễ nhiều năm, tức **mức dễ tổn thương được tích tụ xong từ lâu trước khi nó hiện ra trong số liệu**. Cộng với độ trễ sáu tới tám năm của công cụ điều chỉnh, đây là lĩnh vực không có cơ hội sửa sai.
+
+Thứ hai, chiều thể chế quyết định hiệu lực của chế độ này là **kiểm soát tham nhũng và ổn định chính trị**, không phải hiệu quả hành chính. Việt Nam mạnh ở vế ổn định và yếu hơn ở vế kiểm soát tham nhũng, nên đó là biên cụ thể mà hiệu lực của chính sách phụ thuộc vào — cũng là chiều mà tài liệu về bầu cử và dòng vốn đo được tác dụng đệm lớn nhất.
+
+Thứ ba, và quan trọng nhất: bài tự nhận bộ dữ liệu **không phân biệt nợ công với nợ tư, nên nợ chính phủ và sở hữu nước ngoài trong doanh nghiệp nhà nước bị gộp chung với khu vực tư nhân**. Với một nền kinh tế mà khối doanh nghiệp nhà nước chiếm tỷ trọng lớn trong nợ đối ngoại và trong nghĩa vụ được bảo lãnh, đây là điểm mù rơi đúng vào cấu phần rủi ro nhất. Kết luận định tính vẫn dùng được; con số cụ thể thì không nên áp thẳng.
+
+Cuối cùng, bài này là mảnh thứ ba của một luận điểm chung. Tài liệu về tách lượng khỏi giá cho thấy đầu tư trực tiếp có tới 93% biến động do yếu tố riêng của từng nước; tài liệu về bầu cử cho thấy FDI là dòng chịu tác động dai dẳng nhất từ bất định chính sách trong nước; bài này cho thấy chính chế độ kiểm soát vốn quyết định tỷ trọng của FDI trong cơ cấu. Ghép lại, **cấu phần quan trọng nhất trong tài khoản tài chính của Việt Nam gần như hoàn toàn do chính sách trong nước định đoạt** — cả về lượng, độ ổn định lẫn tỷ trọng. Đó vừa là quyền chủ động lớn, vừa là trách nhiệm không thể chuyển cho ai.

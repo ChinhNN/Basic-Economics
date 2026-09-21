@@ -278,3 +278,69 @@
 > "The coupling of progress on improving voice and participation—including through freedom of expression and women's rights—with transparency reforms can be particularly effective."
 
 > "A country that improves its governance from a relatively low level to an average level could almost triple the income per capita of its population in the long term."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Lầm tưởng 2 và lầm tưởng 3 bác bỏ lẫn nhau
+
+Bài đặt cạnh nhau hai mệnh đề không thể cùng đúng, và không ai để ý vì chúng cách nhau một tiêu đề.
+
+Ở lầm tưởng 2, tác giả rất thẳng thắn về giới hạn của bộ chỉ số: "biên sai số không hề nhỏ, và cần thận trọng khi diễn giải kết quả: **không nên xếp hạng chính xác các nước**". Đây là một lời cảnh báo đúng và hiếm gặp, đặc biệt khi người viết chính là người xây dựng bộ chỉ số.
+
+Ở lầm tưởng 3, con số nổi tiếng nhất của bài được minh hoạ bằng đúng thứ vừa bị cấm: một cái thang xếp hạng chính xác từng nước một — Guinea Xích Đạo lên mức Uganda, Uganda lên Lithuania, Lithuania lên Bồ Đào Nha, Bồ Đào Nha lên Phần Lan — và mức "gần như gấp ba thu nhập đầu người" được suy ra từ một bước dịch chuyển đo bằng độ lệch chuẩn trên chính thang đó. Nếu vị trí tương đối của các nước không đủ tin cậy để xếp hạng, thì một kết quả định lượng xây trên khoảng cách giữa các vị trí ấy cũng không đủ tin cậy để công bố dưới dạng một con số.
+
+Không nên đọc điều này như một cáo buộc về sự thiếu trung thực. Nó là một mẫu rất phổ biến: lời cảnh báo về phương pháp nằm ở phần kỹ thuật, còn con số thì đi ra thế giới một mình. Và quả thực trong hai mươi năm sau, "quản trị tốt hơn có thể gấp ba thu nhập" được trích lại vô số lần, còn câu "không nên xếp hạng chính xác các nước" thì gần như không ai trích.
+
+### Vấn đề nhân quả không được giải quyết, chỉ được tuyên bố là đã giải quyết
+
+Lầm tưởng 4 là chỗ bài đặt cược nhiều nhất và lập luận ít nhất. Phản biện mà nó phải đối mặt rất mạnh: có thể quản trị tốt không tạo ra thu nhập cao, mà thu nhập cao tạo ra quản trị tốt — nước giàu mua được toà án tốt, công chức được trả lương đủ sống, hệ thống kế toán hiện đại. Câu trả lời của bài gói gọn trong một câu: "nghiên cứu của chúng tôi không ủng hộ tuyên bố này" và "bằng chứng chỉ ra rằng nhân quả đi theo chiều quản trị tốt hơn dẫn đến tăng trưởng". Không có mô tả nào về chiến lược nhận dạng, không có biến công cụ, không có thiết kế nào được nêu.
+
+Điều này quan trọng vì có một cơ chế cụ thể khiến chiều nhân quả bị nhiễu ngay trong chính dữ liệu. Bộ chỉ số được tổng hợp từ hơn 350 biến mà phần lớn là **khảo sát cảm nhận** — đánh giá của doanh nhân, chuyên gia rủi ro quốc gia, tổ chức phi chính phủ. Cảm nhận về chất lượng quản trị của một nước chịu ảnh hưởng rất mạnh từ hiệu quả kinh tế quan sát được của nước đó: một nền kinh tế tăng trưởng nhanh sẽ được chấm điểm quản trị cao hơn, một nền kinh tế khủng hoảng sẽ bị hạ điểm, và việc hạ điểm ấy thường xảy ra **sau** khủng hoảng chứ không trước. Khi đó hồi quy thu nhập theo cảm nhận quản trị có một phần là hồi quy thu nhập theo chính nó.
+
+Lập luận phản bác của bài — các nước Baltic, Botswana, Chile, Slovenia đạt chuẩn quản trị cao khi chưa giàu — là bằng chứng thật nhưng chỉ đủ để bác bỏ một mệnh đề cực đoan ("chỉ nước giàu mới có quản trị tốt"). Nó không nói gì về độ lớn của hiệu ứng theo chiều ngược lại. Đây cũng chính là điểm mà một dòng nghiên cứu có ảnh hưởng ngay sau đó đã tấn công trực diện, lập luận rằng các thước đo thể chế kiểu này phần lớn là **kết quả** chứ không phải nguyên nhân, và rằng vốn con người có thể là biến đứng sau cả hai. Tranh luận đó chưa khép lại đến nay. Con số gấp ba nên được đọc như một giới hạn trên của một hiệu ứng có thật nhưng chưa đo được đáng tin cậy.
+
+### Lầm tưởng 7 là phần đúng nhất của bài, và là phần bị phớt lờ triệt để nhất
+
+"Chống tham nhũng bằng cách chống tham nhũng" — thêm một chiến dịch, thêm một uỷ ban, thêm một bộ quy tắc ứng xử — được bài gọi thẳng là nguỵ biện, và mô tả chính xác động cơ của nó: đây là "cách phản ứng **tiện lợi về mặt chính trị** trước áp lực phải làm gì đó về tham nhũng, thay thế cho nhu cầu cải cách quản trị nền tảng".
+
+Điều đáng nói là hai mươi năm sau, thế giới đã làm đúng thứ bị cảnh báo, ở quy mô lớn hơn nhiều. Công ước Liên hợp quốc chống tham nhũng mà bài kêu gọi đã được phê chuẩn gần như phổ quát. Số lượng cơ quan chống tham nhũng chuyên trách, bộ phận tuân thủ doanh nghiệp, quy tắc đạo đức công vụ và khung liêm chính đã tăng nhiều lần. Trong khi đó, chính bài đã ghi nhận rằng trong giai đoạn 1996–2005 "trung bình không có cải thiện toàn cầu nào về quản trị chung", và nhận định đó vẫn đúng cho hai thập kỷ tiếp theo — các bộ chỉ số quản trị và pháp quyền toàn cầu đi ngang, với xu hướng giảm ở chiều tiếng nói và trách nhiệm giải trình trong thập niên 2010 và 2020.
+
+Cơ chế giải thích vì sao lối làm ấy không hiệu quả lại không được bài phát triển, dù nó nằm ngay trong định nghĩa mà bài đưa ra ở lầm tưởng 1. Nếu tham nhũng là "lạm dụng chức vụ công vì lợi ích tư", thì nó là một **quyết định có tính toán**: lợi ích kỳ vọng so với xác suất bị phát hiện nhân với mức trừng phạt. Một uỷ ban mới không làm thay đổi biến nào trong ba biến đó, trừ khi nó thật sự làm tăng xác suất bị phát hiện. Thứ làm tăng xác suất bị phát hiện lại là những thứ ở cuối bài: hồ sơ mua sắm công khai trên mạng, khảo sát theo dấu chi tiêu công, công khai ngân sách địa phương. Tức là bài có sẵn câu trả lời cho câu hỏi của chính nó, nhưng để câu trả lời ở phụ lục và để lời cảnh báo ở phần chính.
+
+### Lầm tưởng 8 dẫn tới một hệ quả mà khung đo lường của bài không thể diễn đạt
+
+Lầm tưởng 8 là phần táo bạo nhất: thủ phạm không chỉ là khu vực công ở nước nghèo. Lợi ích tư nhân định hình chính sách công, tài phiệt chiếm giữ thể chế nhà nước, và tập đoàn đa quốc gia vẫn hối lộ ở nước ngoài.
+
+Nhưng nếu đi tới cùng thì có một hệ quả bài không nêu, và nó làm lung lay chính bộ chỉ số. Một quan chức tham nhũng ở một nước nghèo cần ba thứ để hoàn tất giao dịch: một doanh nghiệp chịu trả, một ngân hàng chịu nhận, và một pháp nhân giấu được chủ sở hữu thật. Hai thứ sau gần như luôn nằm ở các trung tâm tài chính thuộc những nước được chính bộ chỉ số này chấm **điểm quản trị rất cao**. Nghĩa là hệ thống đo lường phân bổ toàn bộ điểm xấu cho nơi tiền được lấy và không phân bổ điểm xấu nào cho nơi tiền được cất. Tham nhũng là một hiện tượng xuyên biên giới được đo bằng một thước đo theo quốc gia, và cấu trúc đó bảo đảm rằng một nửa cơ chế sẽ luôn vô hình.
+
+Bài tiến gần tới nhận thức này khi kêu gọi các nước OECD hồi hương tài sản bị cướp bóc và khi đưa "công khai cơ cấu sở hữu thực" vào bảng điểm minh bạch. Đó là hai đề mục chính xác. Số phận của chúng sau đó cũng đáng ghi lại: các sổ đăng ký chủ sở hữu hưởng lợi đã được lập ở nhiều nước trong thập niên 2010 sau hàng loạt vụ rò rỉ hồ sơ tài chính ngoài khơi, rồi quyền tiếp cận công khai bị thu hẹp lại ở một số nơi với lý do bảo vệ quyền riêng tư. Đây là lĩnh vực mà tiến bộ có thật và cũng có thật cả sự đảo chiều.
+
+### Căng thẳng trung tâm: những việc bài nói là hiệu quả lại là những việc bài nói mình không được làm
+
+Đây là mâu thuẫn lớn nhất của cả bài, và nó không bao giờ được nói thành lời.
+
+Lầm tưởng 9 kết luận rằng chiến lược hứa hẹn nhất là "kết hợp tiến bộ trong cải thiện **tiếng nói và sự tham gia** — gồm qua tự do biểu đạt và quyền phụ nữ — với các cải cách minh bạch". Lầm tưởng 5 cũng lấy chính chiều "tiếng nói và trách nhiệm giải trình" làm bằng chứng rằng quản trị có thể cải thiện nhanh. Nhưng lầm tưởng 10 thừa nhận ngay: "chắc chắn có những lĩnh vực nằm ngoài nhiệm vụ của IFI, như thúc đẩy bầu cử đa đảng công bằng".
+
+Và bảng điểm minh bạch ở cuối bài cho thấy vấn đề rõ hơn bất cứ đoạn nào. Hãy đọc kỹ các đề mục: công khai tài sản của **ứng viên tranh cử**, công khai **đóng góp tranh cử** và chi tiêu tranh cử, công khai **mọi phiếu bầu nghị viện và tranh luận nghị viện**, luật về **vận động hành lang**, **tự do báo chí**. Phần lớn danh mục này giả định sẵn một hệ thống bầu cử cạnh tranh và một nền báo chí độc lập. Đó không phải công cụ kỹ thuật mà là kiến trúc chính trị.
+
+Nói cách khác, bài kết luận rằng cái hiệu quả là dân chủ hoá, sau khi đã tuyên bố rằng dân chủ hoá nằm ngoài thẩm quyền của người viết. Lời kêu gọi ở cuối bài giữ giọng lạc quan bằng cách không nối hai mệnh đề ấy lại với nhau.
+
+### Một phân loại bài không đưa ra nhưng người đọc cần: minh bạch chính trị và minh bạch hành chính
+
+Bảng điểm minh bạch trở nên hữu dụng hơn rất nhiều khi tách làm hai nhóm, điều bài không làm.
+
+Nhóm thứ nhất là **minh bạch chính trị**: kê khai tài sản ứng viên, tài chính tranh cử, phiếu bầu nghị viện, vận động hành lang, tự do báo chí. Nhóm này gắn chặt với thể chế chính trị và không thể tách rời khỏi nó.
+
+Nhóm thứ hai là **minh bạch hành chính**: mua sắm cạnh tranh công khai trên nền tảng điện tử, khảo sát theo dấu chi tiêu công, minh bạch tài khoá ngân sách trung ương và địa phương, công khai cơ cấu sở hữu thực của ngân hàng, chẩn đoán quản trị ở cấp tỉnh và thành phố. Nhóm này **không đòi hỏi bất kỳ điều kiện chính trị nào**. Nó chỉ đòi hỏi quyết tâm hành chính, và hiệu quả của nó đã được chứng minh theo cách khó bác bỏ: trong các chương trình theo dấu chi tiêu công, việc đơn giản là công bố trên báo địa phương số tiền mà trung ương đã chuyển cho từng trường học đã làm tăng mạnh tỷ lệ tiền thực sự đến được nhà trường, vì lần đầu tiên hiệu trưởng và phụ huynh biết con số đáng lẽ phải nhận. Không có uỷ ban nào được lập, không có luật nào được ban hành — chỉ có một thông tin trước đây chỉ vài người biết nay ai cũng biết.
+
+Đây là phân loại có giá trị thực tiễn cao nhất rút ra được từ bài, và nó nói rằng câu hỏi "một nước phi bầu cử cạnh tranh có thể cải thiện quản trị không" có câu trả lời là có, nhưng chỉ trong nhóm thứ hai, và với mức trần thấp hơn.
+
+### Với Việt Nam: một thí nghiệm sống về lầm tưởng 7, và một công cụ đã có sẵn
+
+Việt Nam là một trường hợp kiểm định đặc biệt rõ cho lầm tưởng 7, vì đã theo đuổi trong gần một thập kỷ một chiến dịch xử lý tham nhũng có cường độ cao và phạm vi rộng tới các cấp cao nhất. Cách đọc của bài sẽ không phải là phủ nhận hiệu quả của việc này — tăng xác suất bị phát hiện và mức trừng phạt **là** tác động đúng vào các biến quyết định. Nhưng bài sẽ đặt hai câu hỏi tiếp theo.
+
+Câu thứ nhất là về tính bền: cường độ thực thi phụ thuộc vào quyết tâm chính trị của một giai đoạn, trong khi minh bạch hệ thống — hồ sơ mua sắm mở, dữ liệu ngân sách chi tiết, theo dấu chi tiêu tới đơn vị thụ hưởng cuối — một khi đã lắp đặt thì tiếp tục vận hành mà không cần quyết tâm mới mỗi năm. Bài sẽ nói rằng cái thứ hai mới là thứ tạo ra thay đổi ở mức cân bằng.
+
+Câu thứ hai là về **chi phí phụ**. Khi rủi ro của việc ký một quyết định tăng lên trong khi rủi ro của việc không ký thì không, cán bộ hợp lý sẽ chọn không ký. Hiện tượng chậm trễ trong phê duyệt và giải ngân đầu tư công, tình trạng né tránh trách nhiệm đã được chính các cơ quan trong nước nêu ra nhiều lần, chính là cái giá này. Nó không phải lý do để nới lỏng thực thi, mà là lý do để **bổ sung vế còn thiếu**: nếu tiêu chí phê duyệt rõ ràng, quy trình để lại dấu vết kiểm toán được, và quyết định đúng quy trình thì được bảo vệ, thì việc ký không còn là rủi ro cá nhân. Đọc cùng các tài liệu về dư địa tài khoá và về đầu tư công trong repo thì mối liên hệ rất cụ thể: tốc độ giải ngân đầu tư công là một chỉ số quản trị, không chỉ là một chỉ số hành chính.
+
+Một điều đáng ghi nhận: Việt Nam đã có sẵn thứ mà bài liệt kê ở cuối bảng điểm như một mục tiêu xa vời — **chẩn đoán quản trị cấp tỉnh dựa trên khảo sát người dân và doanh nghiệp**, được thực hiện hằng năm, công bố công khai, cho phép so sánh giữa các địa phương và theo thời gian. Đây là một trong những công cụ quản trị nội sinh tốt nhất mà một nước đang phát triển từng xây được, và nó làm đúng việc mà bài cho là then chốt: biến chất lượng phục vụ của bộ máy thành một con số mà ai cũng nhìn thấy và không cơ quan nào kiểm soát được. Giá trị của nó phụ thuộc hoàn toàn vào việc kết quả có được dùng để đánh giá hay chỉ để tham khảo.

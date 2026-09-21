@@ -243,3 +243,69 @@
 > "For many economists, those three magic words are 'supply, demand, price.'"
 
 > "The key outcome of a monopoly is prices and profits that are higher than under perfect competition and supply that is often lower."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Cạnh tranh hoàn hảo không phải một mô tả mà là một cái thước, và việc nhầm hai thứ gây ra rất nhiều tranh cãi vô ích
+
+Bài định nghĩa cạnh tranh hoàn hảo bằng một danh sách điều kiện — vô số người bán và người mua sản phẩm giống hệt, việc tìm thấy nhau không tốn chi phí, không có rào cản gia nhập — rồi ngay sau đó thừa nhận rằng "hầu hết thị trường là không hoàn hảo". Đúng, nhưng cách trình bày để lại ấn tượng rằng cạnh tranh hoàn hảo là một trạng thái lý tưởng mà thực tế chưa đạt tới được.
+
+Nó không phải như vậy. **Không một thị trường nào trên đời từng thoả mãn các điều kiện đó, và cũng không thị trường nào cần phải thoả mãn.** Cạnh tranh hoàn hảo là một **mốc so sánh**: một trạng thái được định nghĩa chính xác để có thể đo xem một thị trường thật lệch khỏi nó bao xa và tổn thất là bao nhiêu. Đúng vai trò mà "dịch chuyển hoàn hảo" đảm nhận trong bài về dịch chuyển thu nhập ở cùng loạt Back to Basics: một giả thuyết không, không phải một mục tiêu.
+
+Sự nhầm lẫn giữa hai cách hiểu này gây ra hai loại sai lầm trái ngược. Một bên bác bỏ toàn bộ phân tích cung cầu vì "thực tế không giống mô hình" — như bác bỏ một cái thước vì không có vật nào dài đúng bằng vạch chia. Bên kia coi mọi sai lệch khỏi mô hình là một khiếm khuyết cần sửa bằng chính sách, kể cả khi sai lệch ấy là bản chất của loại hàng hoá đang bàn.
+
+Có một điểm còn nghiêm trọng hơn nằm trong logic của mô hình mà bài không nêu: trong cạnh tranh hoàn hảo, **không ai đặt giá**. Mọi bên đều coi giá là cho trước. Nhưng nếu không tác nhân nào đặt giá thì cơ chế nào sinh ra con số đó? Mô hình không trả lời được, và kinh tế học từ lâu đã phải viện đến một nhân vật hư cấu đứng ngoài thị trường để điều chỉnh giá cho tới khi cân bằng. Trong thực tế, **giá do doanh nghiệp đặt ra**, và câu hỏi thú vị nhất là cái gì quyết định biên lợi nhuận họ cộng thêm. Bài nhảy thẳng từ "không ai đặt giá" sang "nhà độc quyền đặt giá", bỏ qua toàn bộ khoảng giữa — mà gần như toàn bộ nền kinh tế thực nằm ở khoảng giữa đó.
+
+### Danh sách các cách thị trường hỏng chỉ có một mục, và bài được viết hai năm sau khi một danh sách khác dài hơn chứng minh điều ngược lại
+
+Trong toàn bài, lý do duy nhất khiến thị trường không cho kết quả hiệu quả là **quyền lực thị trường**: có quá ít người bán. Cách khắc phục tương ứng là quản lý giá hoặc thúc đẩy cạnh tranh.
+
+Danh sách đó thiếu ít nhất ba mục, và cả ba đều không liên quan gì tới số lượng người bán.
+
+**Ngoại ứng.** Khi chi phí của một giao dịch rơi vào người thứ ba không tham gia — ô nhiễm là ví dụ chuẩn — thì giá cân bằng thị trường vẫn hình thành bình thường và vẫn sai, vì nó không bao gồm toàn bộ chi phí. Thêm người bán không sửa được điều này; càng nhiều người bán thì ô nhiễm càng nhiều. Đáng chú ý là bài về thương mại trong cùng loạt có nêu ngoại ứng như ngoại lệ duy nhất, còn bài chuyên về cung cầu thì không nhắc tới.
+
+**Bất đối xứng thông tin.** Đây là mục quan trọng nhất và cũng bị bỏ sót hoàn toàn. Một thị trường có hàng nghìn người mua và hàng nghìn người bán vẫn có thể **sụp đổ hoàn toàn** nếu người mua không phân biệt được hàng tốt và hàng xấu: người mua chỉ trả mức giá trung bình, người bán hàng tốt rút lui vì giá đó quá thấp, chất lượng trung bình giảm, giá giảm tiếp, và cuối cùng không còn giao dịch nào. Không có nhà độc quyền nào ở đây cả, và mọi điều kiện về số lượng người tham gia đều được thoả mãn.
+
+**Thất bại phối hợp và tính thanh khoản.** Đây là chỗ bài đáng lẽ phải nói chuyện với chính loạt bài của nó. Bài được viết hai năm sau một cuộc khủng hoảng tài chính mà bài về thị trường phi tập trung trong cùng loạt Back to Basics mô tả chính xác: các thị trường có rất nhiều người tham gia đã ngừng hoạt động vì **không ai biết tài sản đáng giá bao nhiêu và không ai chịu đứng ra làm đối tác**. Không có giá cân bằng nào hình thành, vì không có giao dịch nào diễn ra.
+
+Việc thiếu ba mục này để lại một ấn tượng sai lệch: rằng nếu bảo đảm được cạnh tranh thì sẽ có hiệu quả. Đó là kết luận mà chính kinh nghiệm của giai đoạn bài được viết đã bác bỏ.
+
+### Độ co giãn là khái niệm có ích nhất trong bài, và hệ quả quan trọng nhất của nó bị bỏ qua
+
+Bài giải thích độ co giãn bằng hai ví dụ tốt — năng lượng không co giãn, bít tết co giãn — rồi dừng lại ở mức mô tả. Nhưng độ co giãn không chỉ mô tả hành vi; nó **quyết định ai thực sự gánh chịu một chính sách**, và đây là kết quả thực dụng nhất mà toàn bộ khung cung cầu mang lại.
+
+Nguyên lý rất gọn: khi nhà nước đánh thuế vào một giao dịch, **bên nào ít co giãn hơn thì gánh phần lớn hơn**, bất kể luật ghi ai là người nộp. Lý do đơn giản: bên co giãn có thể rút lui, bên không co giãn thì không. Một khoản thuế đánh vào nhà sản xuất một mặt hàng mà người tiêu dùng không thể bỏ được sẽ được chuyển gần như toàn bộ vào giá bán. Một khoản thuế đánh vào một mặt hàng dễ thay thế thì phần lớn do nhà sản xuất chịu, vì tăng giá sẽ mất khách.
+
+Hệ quả cho mọi tranh luận về thuế và trợ cấp là: **câu hỏi "ai nộp" không liên quan đến câu hỏi "ai chịu"**. Điều này áp dụng nguyên vẹn cho thuế giá trị gia tăng, thuế tiêu thụ đặc biệt, thuế nhập khẩu, đóng góp bảo hiểm xã hội của người sử dụng lao động, và trợ cấp giá. Đọc cùng các bài về nguyên tắc đánh thuế và về trợ cấp trong cùng loạt thì đây là mắt xích lý thuyết nối chúng lại, và bài này là chỗ đáng lẽ phải nêu nó.
+
+Có một chi tiết trong bài đáng được nhấn mạnh hơn nhiều so với vị trí của nó: năng lượng không co giãn "**ít nhất trong ngắn hạn**". Bốn chữ đó chứa một nguyên tắc tổng quát. Gần như mọi thứ đều không co giãn trong ngắn hạn và co giãn trong dài hạn, vì việc thay thế đòi hỏi thay đổi tài sản — mua xe khác, đổi hệ thống sưởi, đổi dây chuyền sản xuất. Nghĩa là **cùng một chính sách cho kết quả trái ngược tuỳ vào thời điểm đánh giá**: một khoản thuế năng lượng đo sau một năm trông như thuần tuý tăng gánh nặng chi phí mà không đổi hành vi, đo sau mười năm thì thấy cả cơ cấu tiêu thụ đã dịch chuyển. Đánh giá quá sớm sẽ luôn kết luận rằng chính sách không có tác dụng.
+
+### Phần về độc quyền tạm thời chứa vấn đề kinh tế trung tâm của thời đại, dưới lớp vỏ một ví dụ về sách
+
+Đoạn về bản quyền là đoạn sâu nhất trong bài, và cấu trúc mà nó mô tả đã trở thành cấu trúc chi phối của nền kinh tế hiện nay.
+
+Cơ chế như sau. Với một số hàng hoá, **chi phí cố định rất lớn và chi phí biên gần bằng không**: viết một cuốn sách rất khó, in thêm một bản gần như không tốn gì. Nhưng quy tắc hiệu quả của cạnh tranh hoàn hảo nói rằng giá phải bằng chi phí biên. Nếu chi phí biên bằng không thì giá bằng không, doanh thu bằng không, và **không ai viết cuốn sách ấy ngay từ đầu**.
+
+Nói cách khác, với loại hàng hoá này, **mức giá hiệu quả trong ngắn hạn và mức giá cần thiết để sản phẩm tồn tại là hai mức không tương thích**. Mọi chế độ sở hữu trí tuệ — bản quyền, bằng sáng chế, bảo hộ dữ liệu — đều là cùng một sự đánh đổi: chấp nhận kém hiệu quả tĩnh, tức giá cao hơn chi phí biên và một số người bị loại khỏi thị trường, để đổi lấy hiệu quả động, tức thứ đó được tạo ra. Không có lời giải đúng cho sự đánh đổi này, chỉ có các mức độ, và toàn bộ tranh luận về thời hạn bằng sáng chế thuốc hay thời hạn bản quyền là tranh luận về mức độ ấy.
+
+Bài nhận diện đúng cấu trúc vào năm 2010 với ví dụ là sách. Từ đó tới nay, cấu trúc này đã lan ra toàn bộ phần năng động nhất của kinh tế thế giới: phần mềm, dược phẩm, nội dung số, nền tảng trực tuyến, và gần đây nhất là các mô hình trí tuệ nhân tạo, nơi chi phí huấn luyện khổng lồ đi kèm chi phí phục vụ thêm một người dùng rất thấp.
+
+Và có một hệ quả thứ hai mà bài không rút ra, có lẽ còn quan trọng hơn. Cấu trúc chi phí này không chỉ đòi hỏi một độc quyền **pháp lý** tạm thời; nó tạo ra một lực hút **kinh tế** về phía tập trung. Doanh nghiệp có quy mô lớn nhất phân bổ chi phí cố định lên nhiều đơn vị nhất, nên luôn có thể bán rẻ hơn đối thủ nhỏ, nên lại lớn hơn nữa. Khi cộng thêm hiệu ứng mạng lưới — sản phẩm càng có giá trị khi càng nhiều người dùng — thì xu hướng này gần như không thể đảo ngược. Nghĩa là trong các ngành có chi phí biên gần bằng không, **độc quyền không phải là một sự sai lệch cần sửa mà là kết quả tự nhiên của công nghệ**, và câu hỏi chính sách không phải "làm sao khôi phục cạnh tranh" mà "quản lý một cấu trúc tập trung như thế nào". Đây là thay đổi lớn nhất trong lĩnh vực này kể từ khi bài được viết.
+
+### Độc quyền mua được nhắc trong một dấu ngoặc đơn, và với một nước nông nghiệp thì nó quan trọng hơn độc quyền bán
+
+Bài nhắc tới độc quyền mua — chỉ có một người mua dù có nhiều người bán — trong đúng một dấu ngoặc, với ví dụ là chính phủ. Với người đọc ở một nước có phần lớn dân số làm nông nghiệp, đây là cấu trúc thị trường đáng bàn nhất trong cả bài.
+
+Cơ chế đối xứng với độc quyền bán nhưng hậu quả rơi vào nhóm khác. Khi hàng nghìn hộ nông dân trồng cùng một loại cây trong một vùng và chỉ có vài thương lái hay vài nhà máy chế biến thu mua, người bán không có khả năng mặc cả: sản phẩm dễ hỏng, không có kho bảo quản, cần tiền mặt ngay để trả nợ vật tư, và không thể chở đi xa để bán chỗ khác. Kết quả là **giá thu mua nằm dưới mức mà một thị trường cạnh tranh sẽ cho**, và phần chênh lệch chuyển từ người trồng sang người mua.
+
+Điều đáng nói là lời giải không nằm ở việc quản lý giá — vốn tạo ra đúng các vấn đề mà bài về lạm phát trong cùng loạt mô tả — mà nằm ở việc **thay đổi độ co giãn ở phía người bán**. Bất cứ thứ gì cho người nông dân khả năng không bán ngay hôm nay đều làm dịch chuyển cán cân: kho bảo quản và sơ chế, tín dụng ngắn hạn để không phải bán tháo, thông tin giá công khai theo thời gian thực, hợp tác xã gom sản lượng để đàm phán theo lô lớn, và hợp đồng bao tiêu ký trước vụ. Đây là phân tích cung cầu ở dạng ứng dụng trực tiếp nhất, và nó nói rằng vấn đề không phải đạo đức của thương lái mà là cấu trúc thị trường.
+
+### Với Việt Nam: những thị trường mà giá không do cung cầu quyết định, và hệ quả của khoảng cách đó
+
+Khung của bài hữu ích nhất khi dùng để hỏi ngược: ở đâu trong nền kinh tế Việt Nam thì giá **không** được hình thành theo cơ chế mà bài mô tả, và điều gì xảy ra ở những nơi đó.
+
+Nhóm rõ ràng nhất là các ngành có đặc điểm độc quyền tự nhiên mà bài nêu đúng: điện, nước, một phần hạ tầng giao thông. Ở đây lập luận của bài áp dụng trọn vẹn — việc có hai hệ thống truyền tải điện song song là lãng phí, nên độc quyền là hợp lý, và đổi lại phải có cơ chế quản lý giá kèm nghĩa vụ cung cấp dịch vụ phổ cập. Vấn đề thực tiễn nằm ở chỗ bài cũng nêu: trần giá "nhìn chung cho phép công ty thu hồi chi phí cố định". Khi giá được giữ dưới mức thu hồi chi phí trong thời gian dài vì lý do xã hội, khoản chênh lệch không biến mất mà tích luỹ thành lỗ, nợ, hoặc đầu tư bị hoãn — và cuối cùng xuất hiện dưới dạng thiếu công suất.
+
+Nhóm thứ hai, và quan trọng hơn nhiều, là **đất đai**. Đây là thị trường mà toàn bộ khung cung cầu của bài vừa áp dụng được vừa bị chặn lại giữa chừng: cầu được xác định bởi thị trường, còn giá trong nhiều giao dịch lại được xác định bằng khung giá hành chính. Khi giá hành chính và giá thị trường cách nhau rất xa, phần chênh lệch không biến mất — nó trở thành một khoản **địa tô**, và theo đúng logic kinh tế học, ở đâu có địa tô lớn thì ở đó có nỗ lực để giành lấy nó. Đây là cơ chế đứng sau một tỷ trọng rất lớn các vụ khiếu kiện đất đai và các vụ án kinh tế lớn, và nó không phải vấn đề về phẩm chất cá nhân mà là vấn đề về cấu trúc giá. Bài về quản trị và tham nhũng trong cùng loạt nói cùng một điều từ phía khác: cải cách hiệu quả không phải là thêm chiến dịch mà là **xoá đi khoảng chênh lệch tạo ra động cơ**.
+
+Nhóm thứ ba là các dịch vụ có giá do nhà nước quyết định — y tế, giáo dục, xăng dầu qua cơ chế bình ổn. Ở đây bài học của phân tích độ co giãn ở trên rất cụ thể: vì cầu với các dịch vụ này gần như không co giãn, việc điều chỉnh giá ảnh hưởng gần như toàn bộ đến **ngân sách hộ gia đình** chứ không đến lượng tiêu dùng. Nghĩa là các quyết định điều chỉnh giá ở nhóm này là các quyết định phân phối thu nhập, dù chúng được trình bày như quyết định kỹ thuật, và tác động của chúng lên hộ nghèo lớn hơn nhiều so với tỷ trọng của chúng trong rổ hàng trung bình.

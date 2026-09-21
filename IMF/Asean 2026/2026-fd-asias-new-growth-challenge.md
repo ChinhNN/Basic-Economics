@@ -306,3 +306,55 @@ Hai thách thức từ phần chẩn đoán chung cũng áp dụng trực tiếp
 > "Less than 30 percent of final goods exports is traded within the region, half the share in Europe and North America."
 
 > "Energy security is no longer a long-term concern—it is a near-term macroeconomic challenge, nowhere more so than in Southeast Asia."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Con số bị chôn vùi sâu nhất lại là con số hữu ích nhất
+
+Biểu đồ về lợi ích hội nhập tách mỗi cột thành hai phần: phần đến từ việc **được tiếp cận thị trường nước khác** và phần đến từ việc **mở cửa thị trường của chính mình**. Ở mọi nhóm nước, phần thứ hai lớn hơn phần thứ nhất — với ASEAN là 2,6% so với 1,7%, với toàn châu Á – Thái Bình Dương là 1,0% so với 0,8%.
+
+Bài không bình luận một câu nào về điều này, nhưng nó là thông tin có giá trị chính sách cao nhất trong cả bài.
+
+Ý nghĩa: **phần lớn lợi ích của hội nhập là đơn phương.** Một nước gỡ rào cản của chính mình thu được nhiều hơn là khi thuyết phục được nước khác gỡ rào cản của họ. Điều này đi ngược lại toàn bộ logic của đàm phán thương mại, vốn coi việc mở cửa thị trường của mình là "nhượng bộ" phải đánh đổi lấy việc nước khác mở cửa.
+
+Về lý thuyết kinh tế thì đây không phải phát hiện mới — lợi ích của tự do hóa đơn phương đã được biết từ thời Ricardo. Nhưng có một ước lượng định lượng cho đúng khu vực này, trong một bài của Giám đốc Vụ châu Á – Thái Bình Dương, là chuyện khác. Nó có nghĩa là các nước ASEAN đang để lại phần lớn lợi ích trên bàn trong khi chờ đàm phán xong — và phần đó nằm trong tầm quyết định đơn phương của họ.
+
+### Chẩn đoán quan trọng nhất của bài cũng là phần ít được bàn nhất
+
+Trong ba nút thắt mà bài nêu, nhân khẩu học và hội nhập khu vực đã được nói nhiều. Nút thắt thứ ba — **hệ thống tài chính thiên về ngân hàng khiến vốn chảy sai chỗ** — mới là thứ vừa cụ thể vừa ít được chú ý.
+
+Chuỗi lập luận chặt: đầu tư vẫn cao nhưng lợi suất trên vốn giảm, nên vấn đề không phải thiếu vốn mà là vốn đi sai chỗ. Vốn đi sai chỗ vì ngân hàng cho vay dựa trên tài sản thế chấp và lịch sử tín dụng — hai tiêu chí mà doanh nghiệp lớn lâu năm và doanh nghiệp nhà nước luôn thắng, còn doanh nghiệp trẻ sáng tạo luôn thua. Nhưng năng suất biên cao nhất lại nằm ở nhóm thứ hai. Kết quả: "nguồn lực thường mắc kẹt trong những doanh nghiệp kém hiệu quả hơn".
+
+Điều làm chẩn đoán này đáng chú ý là nó **không phải là vấn đề về lượng mà về cơ chế phân bổ** — và vì thế không giải quyết được bằng chính sách tiền tệ hay bằng các gói kích thích. Nó đòi hỏi phát triển thị trường vốn: trái phiếu doanh nghiệp, vốn cổ phần, quỹ đầu tư mạo hiểm — những kênh cấp vốn được cho doanh nghiệp không có tài sản thế chấp nhưng có triển vọng.
+
+Đáng chú ý là chẩn đoán này khớp chính xác với kết quả của chương về chuyển dịch cơ cấu Thái Lan trong cùng thư mục, nơi tín dụng cho khu vực tư nhân là một trong những biến có tác động rõ rệt nhất và việc nó mở rộng chậm lại là lực cản hàng đầu. Hai tài liệu, hai phương pháp, cùng một kết luận về vai trò của tài chính.
+
+### Cách đọc trung thực phép tính kết luận
+
+Ba con số của bài — dân số −0,3, AI từ +0,2 đến +1,0, thương mại từ +0,1 đến +0,3 — tạo ra một khoảng kết quả rất rộng, từ **đúng bằng 0 đến +1,0 điểm phần trăm mỗi năm**.
+
+Bài phát biểu kết luận theo cách đọc thuận lợi. Nhưng cách đọc trung thực hơn là: **ở kịch bản cận dưới, châu Á chỉ vừa đủ bù cho tác động của già hóa, không hơn.** Và cận dưới không phải là kịch bản bi quan phi lý — nó chỉ đòi hỏi rằng AI mang lại phần dưới của khoảng ước tính và hội nhập tiến triển chậm, cả hai đều là giả định hợp lý.
+
+Điều đáng nói hơn là **tính bất đối xứng về độ chắc chắn** giữa ba con số. Tác động của già hóa gần như chắc chắn xảy ra: những người sẽ 65 tuổi vào năm 2050 đã sinh ra rồi, và tỷ suất sinh không thể đảo ngược trong vài năm. Hai con số còn lại đều là **kỳ vọng có điều kiện** — AI chỉ nâng năng suất ở nước "có nền tảng vững", hội nhập chỉ có lợi nếu thực sự gỡ được rào cản. Đặt một con số chắc chắn cạnh hai con số có điều kiện rồi cộng lại là một phép tính hợp lệ về số học nhưng gây hiểu lầm về mức rủi ro.
+
+### Cảnh báo sắc nhất dành cho Việt Nam nằm ở một biểu đồ, không nằm ở lời văn
+
+Việt Nam được xếp vào nhóm "còn lợi tức dân số muộn, đang phai dần", cùng Ấn Độ, Malaysia và Indonesia. Phần lời văn chỉ nói ngắn gọn rằng đây là những nước "nơi lợi tức dân số đang nhạt đi".
+
+Nhưng đặt cạnh con số của cả bài, đây là nhóm chịu áp lực thời gian lớn nhất. Nhóm "đã hết lợi tức" — Nhật Bản, Hàn Quốc, Singapore — đã kịp giàu trước khi già. Nhóm "còn lợi tức sớm" — Philippines, Lào, Nepal — vẫn còn hàng thập niên. Nhóm giữa thì **cửa sổ đang đóng lại trong khi thu nhập đầu người còn xa mức nước phát triển**.
+
+Điều này làm cho hai chẩn đoán còn lại của bài trở nên khẩn cấp hơn nhiều đối với Việt Nam so với các nước khác. Vấn đề phân bổ vốn không còn là chuyện tối ưu hóa mà là chuyện tận dụng nốt khoảng thời gian còn lại; và việc thu ngân sách thấp so với các nước cùng trình độ — điều bài nêu là đặc biệt đúng với nhiều nền kinh tế ASEAN — ràng buộc trực tiếp khả năng chi cho hệ thống hưu trí và y tế mà một xã hội đang già hóa sẽ cần.
+
+### Một chi tiết nhỏ nhưng có hàm ý lớn: Việt Nam xuất hiện trong phần năng lượng
+
+Bài nêu đích danh **sự mở rộng công nghiệp của Việt Nam** là một trong ba nguồn áp lực năng lượng của khu vực, cùng với trung tâm dữ liệu của Singapore và đô thị hóa của Indonesia. Và đoạn về năng lượng có giọng khẩn thiết khác hẳn phần còn lại của bài: "không còn là mối quan tâm dài hạn — nó là một thách thức vĩ mô trước mắt".
+
+Điều này đáng chú ý vì nó nối trực tiếp với luận điểm về FDI vào chế tạo trong bài Picture This cùng số: đầu tư vào chế tạo ở ASEAN tăng gần 50% trong một năm. Nhà máy cần điện. Một chiến lược thu hút chế tạo mà không có chiến lược điện tương ứng sẽ tự chặn mình lại, và nút thắt sẽ xuất hiện sớm hơn nhiều so với các nút thắt về nhân khẩu học hay hội nhập.
+
+### Đánh giá thể loại: tiếng nói thể chế, không phải bằng chứng
+
+Đây là bài của một quan chức cấp vụ trưởng trên tạp chí phổ thông của chính tổ chức mình. Thể loại này có đặc điểm riêng cần lưu ý khi đọc: nó **tổng hợp lập trường đã được thống nhất nội bộ** hơn là trình bày phát hiện mới, và nó có nghĩa vụ giữ giọng xây dựng.
+
+Điều đó giải thích cả điểm mạnh lẫn điểm yếu. Điểm mạnh là bài cho biết IMF đang nghĩ gì về châu Á — thông tin có giá trị riêng với ai làm chính sách. Điểm yếu là mọi vấn đề đều được đặt cạnh một lối thoát, và phép tính kết luận được trình bày theo cách đọc thuận lợi nhất.
+
+Nên đọc bài này như một **bản đồ ưu tiên**, không phải một bản đánh giá rủi ro. Các con số cụ thể nên tìm ở các working paper mà nó dựa vào.

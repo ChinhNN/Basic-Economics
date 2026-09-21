@@ -334,3 +334,37 @@
 > "Marginally lower cross-border payment frictions could lead to larger and more volatile capital flows."
 
 > "The exchange rate acts as a perfect shock absorber when UIP holds."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Hai mươi điểm cơ bản so với bốn mươi: cả lập luận nằm gọn trong một phép so sánh
+
+Phản xạ đầu tiên của bất kỳ nhà kinh tế nào khi nghe "phí chuyển tiền mười điểm cơ bản" là gạt đi. Cả bài đứng được là nhờ một phép so sánh duy nhất, và nó nằm trong phần dữ kiện chứ không nằm trong mô hình: **một vòng mua tài sản và nhận lợi tức tốn khoảng 20 điểm cơ bản, trong khi chênh lệch lợi suất trái phiếu 10 năm giữa Hong Kong và Mỹ — hai nơi rủi ro quốc gia tương đương và gần như không có rủi ro tỷ giá — phần lớn thời gian 2014–2024 nằm dưới 40 điểm cơ bản.** Phí thanh toán ăn một nửa phần chênh lệch mà giao dịch chênh lệch giá theo đuổi.
+
+Đây là cách đúng để làm một con số nhỏ trở nên có ý nghĩa: không so nó với quy mô giao dịch mà so với **biên lợi nhuận của hoạt động mà nó cản trở**. Cùng logic đó khiến dữ kiện 7,6% số nước chỉ có tối đa hai hành lang thanh toán bán buôn trở nên nặng ký — ở đó phí không bị cạnh tranh ép xuống, và mức ma sát thành một biến chính sách chứ không phải hằng số kỹ thuật. Còn **794 tỷ USD "trên đường"** ở các ngân hàng đại lý tại bất kỳ thời điểm nào biến chi phí cơ hội từ khái niệm thành một khoản vốn nhàn rỗi ngang quy mô dự trữ ngoại hối của một nền kinh tế lớn.
+
+### Kết quả bất tiện nhất: nâng cấp hạ tầng thanh toán không phải món quà vô điều kiện
+
+Toàn bộ chương trình nghị sự quốc tế về thanh toán — Lộ trình G20, tiền số ngân hàng trung ương bán buôn, tiền gửi mã hoá, các nền tảng đa quốc gia — được bán ra như một cải thiện Pareto. Mô hình này nói điều khác, bằng một mệnh đề không có ngoại lệ: **với cú sốc tài chính, giảm ma sát LUÔN làm tỷ giá biến động hơn**, vì cả hai kênh — tài khoản vốn nhạy hơn và cân bằng dời tới vùng đường vãng lai dốc hơn — đều đẩy cùng chiều.
+
+Với nền kinh tế tiên tiến, biến động tỷ giá là chuyện của thị trường. Với nền kinh tế mới nổi có đô la hoá tài chính, biến động tỷ giá là **kênh truyền dẫn chính của bất ổn tài chính**, vì bảng cân đối doanh nghiệp và ngân hàng lệch đồng tiền. Nhóm nước mà Lộ trình G20 hứa hẹn giúp nhiều nhất cũng là nhóm chịu tác dụng phụ nặng nhất.
+
+Bài đối diện điều này ở phần ví dụ về nền tảng tài chính chung, và danh sách khuyến nghị ở đó thực chất là một danh sách **phòng thủ**: giữ dự trữ ngoại hối cao hơn, đẩy mạnh giảm đô la hoá, giữ dư địa tài khoá lớn hơn. Không khuyến nghị nào nói về việc thu lợi từ hạ tầng mới; cả ba đều là chuẩn bị hấp thụ thiệt hại. Đó là cách nói rất lịch sự cho câu: **tham gia nền tảng là một quyết định có chi phí vĩ mô phải trả trước**.
+
+### Vùng nguy hiểm nằm ở giữa, và đó là tin xấu cho cải cách tiệm tiến
+
+Kết quả hình thức thú vị nhất là tính không đơn điệu ở cú sốc tài chính: giảm ma sát **ít** thì dòng vốn biến động **hơn** (khoảng +5%), giảm ma sát **nhiều** thì dòng vốn biến động **ít đi** (khoảng −5%). Hiệu ứng nhạy cảm thắng ở gần, hiệu ứng độ cong của đường vãng lai thắng ở xa.
+
+Hệ quả ngược hẳn bản năng của mọi nhà hoạch định chính sách: **cải cách nửa vời là lựa chọn tệ nhất**. Đi một nửa quãng đường thì gánh đủ phần tăng biến động mà không nhận được phần bù ổn định. Với cú sốc thực còn rõ hơn: từ giảm nhỏ sang giảm lớn, biến động dòng vốn đi từ khoảng +23% lên +48% trong khi biến động tỷ giá đi từ −32% xuống −100%. Điểm giữa không phải trung bình của hai đầu. Điều này va chạm trực diện với cách các nước thường cải cách thanh toán — thí điểm một hành lang, một nền tảng khu vực, rồi mở rộng dần — vì kiểu triển khai đó giữ nền kinh tế ở đúng vùng bất lợi nhất trong nhiều năm.
+
+### Trọng lượng bằng chứng, và một nền tảng vi mô cho kiểm soát vốn mà bài không nhận ra
+
+Bài **tự ghi rõ rằng các minh hoạ định lượng chỉ mang tính định tính**: không hiệu chỉnh theo dữ liệu nước nào, không ước lượng độ co giãn. Các con số +23%, −100%, ±5% cho biết **dấu và thứ tự độ lớn tương đối**, không cho biết độ lớn. Hai hạn chế cấu trúc còn nặng hơn. **Mô hình chỉ có hai kỳ**, nên về cấu tạo không phân biệt được một cú đảo chiều kéo dài bốn quý với một cú giật hai ngày — mà độ dai dẳng mới là thứ quyết định dòng vốn biến động có gây bất ổn hay không. Và **toàn bộ nhà tài chính được đặt ở nước Ngoài**, tức nước Nhà không có khu vực tài chính nội địa nào gánh rủi ro tỷ giá, trong khi với một nền kinh tế mới nổi thì trạng thái ngoại tệ mở của ngân hàng nội địa lại là sự kiện trung tâm. Đây là một **khung tư duy tốt, không phải một ước lượng**.
+
+Có một hệ quả bài không phát biểu. Nếu giảm ma sát làm tỷ giá biến động hơn trước cú sốc tài chính thì **tăng ma sát làm tỷ giá ổn định hơn** — và kiểm soát vốn chính là ma sát có chủ đích. Mô hình vừa cho nó một cơ chế rõ ràng: **kiểm soát vốn làm dốc đường tài khoản vốn, khiến cú sốc lãi suất nước ngoài bị hấp thụ bởi lượng thay vì bởi giá**. Đáng chú ý là cơ chế đó không đi qua bất kỳ lý do nào thường được viện dẫn — không ngoại ứng vay nợ quá mức, không rủi ro hệ thống, không chênh lệch kỳ hạn — mà thuần tuý là hệ quả của việc đường ống thanh toán đắt hơn. Đọc cùng tài liệu về kiểm soát vốn và chặng cuối của thanh toán xuyên biên giới trong cùng thư mục thì bức tranh khép lại: tài liệu kia đo được rằng kiểm soát vốn làm chậm thanh toán bốn tới tám giờ và coi đó thuần tuý là chi phí; mô hình này nói chính độ chậm ấy đang làm phẳng phản ứng của tỷ giá. Cùng một đại lượng, hai dấu ngược nhau.
+
+### Với Việt Nam: dự đoán khó chịu nhất là hạ tầng tốt hơn làm thặng dư LỚN HƠN
+
+Mệnh đề 1 có một hệ quả rất cụ thể và ít ai nghĩ tới. Với **nước thặng dư vãng lai**, giảm ma sát thanh toán làm **đồng tiền mất giá** và làm **thặng dư lớn hơn**, không phải nhỏ đi. Việt Nam thuộc đúng nhóm này. Nếu Việt Nam hiện đại hoá đường thanh toán xuyên biên giới, tham gia một nền tảng khu vực, rút ngắn chặng thụ hưởng, thì theo mô hình này áp lực mất giá sẽ **tăng** chứ không giảm, và thặng dư đối ngoại sẽ **nở ra** chứ không thu hẹp. Trong bối cảnh thặng dư song phương và thực hành tỷ giá của Việt Nam chịu soi xét thường xuyên từ đối tác thương mại lớn nhất, đây không phải hệ quả học thuật. Cơ chế thì hợp lý: ma sát thấp hơn kéo độ lệch ngang giá lãi suất về gần không; với nước thặng dư, độ lệch đó âm, nên thu hẹp nó đòi hỏi tỷ giá mất giá, và mất giá lại làm xuất khẩu ròng tăng thêm.
+
+Hai điểm nữa. **Cú sốc chủ đạo của Việt Nam là cú sốc thực** — với độ mở thương mại thuộc nhóm cao nhất thế giới, nguồn biến động lớn nhất là cầu xuất khẩu, giá đầu vào và chính sách thương mại của đối tác. Với loại cú sốc đó, mô hình cho kết quả thuận lợi: giảm ma sát làm **tỷ giá ổn định hơn**, đổi lấy dòng vốn biến động hơn — và với một nước có tài khoản vốn còn kiểm soát thì biến động dòng vốn là thứ còn công cụ để chặn, còn biến động tỷ giá thì đắt hơn nhiều. **Nhưng Việt Nam đang ở đầu ma sát cao của thang đo**, tức mọi bước cải thiện đầu tiên rơi vào ô "giảm nhỏ", ô mà với cú sốc tài chính thì cả tỷ giá lẫn dòng vốn đều biến động hơn. Trình tự rút ra ngược với cách làm quen thuộc: đệm dự trữ, giảm lệch đồng tiền trong bảng cân đối doanh nghiệp và dư địa tài khoá **cần có trước khi hạ tầng thanh toán được nâng cấp**, và nếu đã quyết làm thì làm dứt khoát tốt hơn làm dần.

@@ -230,3 +230,71 @@
 > "Fundamentally, remittances are private funds that should be treated like other sources of household income."
 
 > "Remittance flows tend to be more stable than capital flows, and they also tend to be counter-cyclical."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Câu kết luận khiêm tốn nhất của bài lại là câu phá huỷ cả một ngành chính sách
+
+"Về cơ bản, kiều hối là vốn tư nhân nên được đối xử như các nguồn thu nhập hộ gia đình khác." Câu này nằm ở đoạn áp chót, viết bằng giọng bình thản, và nó xoá sổ toàn bộ một loại đề án mà chính phủ các nước nhận kiều hối vẫn liên tục dựng lên.
+
+Lập luận đằng sau chặt hơn vẻ ngoài của nó. Kiều hối không phải viện trợ, không phải vốn vay, không phải doanh thu xuất khẩu. Nó là **tiền lương của một người, đã được người đó quyết định chuyển cho gia đình mình**. Câu hỏi "làm sao hướng kiều hối vào mục đích sản xuất" do đó là câu hỏi làm sao can thiệp vào cách một hộ gia đình tiêu thu nhập của chính họ — và người đặt câu hỏi ấy có ít thông tin hơn hẳn về hoàn cảnh của hộ đó so với chính họ. Bài ghi nhận kết quả thực nghiệm tương ứng bằng sáu chữ: các nỗ lực hướng kiều hối vào đầu tư đã gặp "rất ít thành công".
+
+Hệ quả thực hành rất rõ và rất dễ bị bỏ qua. Nếu mục tiêu là để kiều hối đi vào đầu tư thay vì tiêu dùng, thì công cụ đúng **không nằm ở phía kiều hối** mà nằm ở phía cơ hội đầu tư: lãi suất tiền gửi thực dương, thị trường vốn có sản phẩm cho khoản tiết kiệm nhỏ, thủ tục đăng ký kinh doanh nhẹ, quyền tài sản rõ ràng. Bài nói đúng ý này — cải thiện môi trường đầu tư tổng thể thay vì nhắm vào kiều hối — nhưng để nó ở dạng một câu, trong khi đây là kết luận chính sách quan trọng nhất của cả bài.
+
+Cũng nên chú ý một chi tiết bị bài liệt kê rồi bỏ qua: ưu đãi thuế cho kiều hối "có thể khuyến khích trốn thuế". Cơ chế rất cụ thể — nếu một dòng tiền vào được miễn thuế và không bị hỏi nguồn gốc, thì nó trở thành một ống dẫn tiện lợi cho những dòng tiền không liên quan gì đến người lao động di cư. Ưu đãi càng hào phóng, "kiều hối" ghi nhận được càng tăng, và phần tăng ấy càng ít phản ánh thực tế.
+
+### Tiêu đề gọi đây là phao cứu sinh, nhưng dữ liệu của bài mô tả một thứ khác
+
+Bài dùng những con số ấn tượng nhất của mình để ca ngợi: kiều hối chiếm khoảng 17% GDP ở Haiti năm 2001 và tới 40% GDP ở một số vùng Somalia cuối thập niên 1990. Được trình bày như bằng chứng cho sức mạnh của kiều hối.
+
+Nhưng hãy đọc hai con số ấy theo chiều ngược lại. Một nền kinh tế mà hai phần năm sản lượng đến từ tiền do người đã rời đi gửi về không phải là một nền kinh tế được cứu, mà là một nền kinh tế **đã không thể sử dụng chính lực lượng lao động của mình**. Kiều hối ở quy mô đó là một chỉ số đo mức độ thất bại của thị trường lao động trong nước, được ghi vào sổ như một khoản thu.
+
+Đây là sự căng thẳng nội tại mà bài không bao giờ nêu, và nó giải thích vì sao phần "có mặt trái không" lại lúng túng như vậy. Bài liệt kê các mặt trái theo kiểu rời rạc — chảy máu chất xám, thiếu hụt lao động, tỷ giá thực lên giá, nguy cơ phụ thuộc — mà không thấy rằng chúng là cùng một hiện tượng nhìn từ bốn phía: lao động rời đi là nguyên nhân của cả bốn.
+
+Phần phản biện về quan hệ âm giữa kiều hối và tăng trưởng thì lại là đoạn lập luận sắc sảo nhất của bài. Nhận xét rằng quan hệ âm quan sát được "có thể chỉ đơn giản phản ánh tính phản chu kỳ của kiều hối, tức ảnh hưởng của tăng trưởng lên kiều hối chứ không phải ngược lại" là một chẩn đoán nhân quả đúng và không tầm thường: nếu kiều hối tăng khi kinh tế xấu đi, thì hồi quy tăng trưởng theo kiều hối sẽ luôn cho hệ số âm, kể cả khi kiều hối hoàn toàn vô hại. Đáng tiếc là bài chỉ dùng công cụ này để bào chữa cho kiều hối, không dùng nó để tự soi lại các con số giảm nghèo 11 điểm ở Uganda, 6 điểm ở Bangladesh, 5 điểm ở Ghana — vốn cũng là so sánh giữa hộ có và không có người di cư, và hộ có người di cư khác hộ không có ở nhiều thứ ngoài kiều hối.
+
+### Tính phản chu kỳ đã qua một bài kiểm tra ngoạn mục, và lý do nó vượt qua thì gây bất an
+
+Mệnh đề trung tâm về tính ổn định và phản chu kỳ đã được kiểm định ở quy mô toàn cầu năm 2020, trong hoàn cảnh xấu nhất có thể tưởng tượng: người di cư tập trung ở đúng các ngành bị đóng cửa — nhà hàng, khách sạn, xây dựng, dịch vụ cá nhân — và ở đúng các nước bị phong toả sớm nhất. Dự báo ban đầu là kiều hối sẽ sụt khoảng một phần năm.
+
+Điều đã xảy ra là kiều hối tới các nước thu nhập thấp và trung bình gần như đi ngang trong năm 2020 rồi tăng mạnh năm 2021. Mệnh đề của bài đúng, và đúng ở mức không ai dám kỳ vọng.
+
+Nhưng hai cơ chế giải thích kết quả ấy đều đáng để suy nghĩ thêm. Cơ chế thứ nhất mang tính đạo đức hơn kinh tế: người di cư giữ mức gửi về bằng cách **cắt tiêu dùng của chính mình**. Nghĩa là tính "ổn định" mà các nhà kinh tế ca ngợi thực chất là sự hy sinh của một nhóm người mà bài chỉ dành cho họ một đoạn ngắn về "chi phí con người". Tài sản bảo đảm thật sự đằng sau dòng tiền này không phải hợp đồng nào cả, mà là nghĩa vụ gia đình.
+
+Cơ chế thứ hai thì làm suy yếu chính con số. Khi biên giới đóng, việc mang tiền mặt về hoặc nhờ người quen cầm hộ trở nên bất khả thi, và các kênh chính thức cùng ví điện tử đã hút về một phần dòng tiền trước đó đi qua kênh phi chính thức. Bài đã nói rằng dòng phi chính thức "lớn hơn ít nhất 50% so với dòng ghi nhận" — tức là chỉ cần một phần của khối đó chuyển sang kênh chính thức là đủ tạo ra một mức tăng ấn tượng trong thống kê mà tổng số tiền thật không thay đổi. Một phần của sự kiên cường năm 2020 là **sự di cư của con số, không phải của dòng tiền**. Điều này đáng ghi nhớ mỗi khi có một chuỗi số liệu kiều hối tăng đột ngột.
+
+### Bốn khuyến nghị giảm phí: ba đúng, một sai hẳn, và sai theo hướng thú vị
+
+Phần phân tích chi phí là đoạn kinh tế học ứng dụng tốt nhất của bài. Mệnh đề gốc rất sắc: phí nên là **một khoản cố định thấp chứ không phải tỷ lệ phần trăm**, vì chi phí xử lý một giao dịch không phụ thuộc vào số tiền gốc — cùng một thao tác nhận, ghi nhận, bù trừ và chi trả cho khoản 100 đô la và khoản 10.000 đô la.
+
+Nếu chấp nhận mệnh đề này thì kết luận tiếp theo là không thể tránh, và bài không phát biểu nó ra: cơ cấu phí theo phần trăm không phải là thu hồi chi phí mà là **khai thác vị thế thị trường**, và toàn bộ gánh nặng rơi vào người gửi khoản nhỏ nhất, tức người nghèo nhất. Đây chính là lý do mức 10–15% cho khoản dưới 200 đô la tồn tại được suốt nhiều thập kỷ.
+
+Ba khuyến nghị đầu — phí cố định, tăng cạnh tranh, hợp tác không độc quyền với mạng bưu điện và bán lẻ — đều đã được thực tế xác nhận, và mục tiêu giảm chi phí kiều hối về sau được đưa vào các mục tiêu phát triển toàn cầu với ngưỡng cụ thể. Mức phí trung bình toàn cầu đã giảm đáng kể so với năm 2005 nhưng rồi chững lại ở vùng cao hơn hẳn mục tiêu, và điều đáng chú ý là mức giảm đến chủ yếu từ các nhà cung cấp kỹ thuật số và ví di động chứ không từ hệ thống ngân hàng.
+
+Điều này lật ngược khuyến nghị thứ tư. Bài viết: "ngân hàng có xu hướng cung cấp dịch vụ kiều hối rẻ hơn công ty chuyển tiền", và đề xuất tăng khả năng tiếp cận ngân hàng cho người di cư nghèo. Trong dữ liệu chi phí toàn cầu sau đó, **chuyển khoản qua ngân hàng lại luôn là phương thức đắt nhất**, đắt hơn công ty chuyển tiền và đắt hơn nhiều so với ví điện tử. Lý do không khó hiểu khi nhìn lại: bài đã tự nêu rằng ngân hàng kiếm "float" bằng cách giữ tiền trước khi chi trả, và cấu trúc chi phí cố định của một chi nhánh ngân hàng vốn không phù hợp với giao dịch giá trị nhỏ. Sai lầm ở đây không phải chuyện nhỏ về dữ kiện, mà là một sai lầm về trực giác thể chế: bài giả định rằng định chế **được quản lý chặt hơn** cũng sẽ là định chế **hiệu quả hơn**. Hai thứ ấy không liên quan gì đến nhau.
+
+### Đoạn về quy định chống rửa tiền là dự báo chính xác nhất trong bài, và nó mô tả một chính sách tự đánh bại mình
+
+Bài ghi nhận rằng việc siết giám sát doanh nghiệp dịch vụ tiền tệ sau các vụ tấn công năm 2001 đã khiến họ khó duy trì tài khoản với ngân hàng đại lý và buộc nhiều doanh nghiệp ở Mỹ phải đóng cửa. Năm 2005 đây trông như một phiền toái pháp lý mang tính địa phương. Nó là phần đầu của một hiện tượng lớn hơn nhiều.
+
+Trong thập niên tiếp theo, các ngân hàng quốc tế lớn cắt hàng loạt quan hệ đại lý với các thị trường bị đánh giá rủi ro cao, không phải vì phát hiện sai phạm mà vì **chi phí tuân thủ và rủi ro bị phạt vượt quá lợi nhuận** của các tài khoản nhỏ. Hậu quả tập trung vào đúng những nơi kiều hối quan trọng nhất: các nước có xung đột, các đảo quốc nhỏ, các hành lang nghèo — tức chính các trường hợp mà bài viện dẫn để chứng minh kiều hối là phao cứu sinh.
+
+Và kết quả thì đảo ngược mục tiêu ban đầu. Quy định được đặt ra để làm cho dòng tiền **nhìn thấy được**; bằng cách đẩy chi phí của kênh chính thức lên, nó đẩy dòng tiền trở lại kênh không chính thức, tức làm nó **kém nhìn thấy hơn**. Đây là một trong những ví dụ rõ nhất về một quy định tạo ra đúng kết quả ngược với ý định, và bài đã nhìn thấy mầm mống của nó từ năm 2005 với đúng một đoạn cảnh báo.
+
+### Một câu về tỷ giá thực nối bài này với một bài khác trong cùng loạt, và không bên nào biết bên kia tồn tại
+
+Trong danh sách mặt trái, có một câu: nếu kiều hối lớn, nước nhận "có thể đối mặt với việc tỷ giá thực lên giá, có thể làm nền kinh tế kém cạnh tranh hơn về mặt quốc tế". Một câu, rồi đi tiếp.
+
+Nhưng cơ chế đằng sau câu ấy đã được mô tả đầy đủ trong bài về căn bệnh Hà Lan ở cùng loạt Back to Basics, và khớp đến từng bước: một dòng ngoại tệ lớn được đổi ra nội tệ và chi vào hàng phi thương mại. Kiều hối của hộ gia đình đi vào đâu? Chính bài đã trả lời ở phần ca ngợi: tiêu dùng cơ bản, **nhà ở**, giáo dục, y tế — gần như toàn bộ là hàng và dịch vụ không thể nhập khẩu. Đây là định nghĩa sách giáo khoa của hiệu ứng chi tiêu.
+
+Điều khiến trường hợp kiều hối khó xử hơn trường hợp dầu mỏ là ở chỗ **không có ai để can thiệp vào**. Với một mỏ dầu, nhà nước sở hữu nguồn thu và có thể lập quỹ, tích luỹ ra nước ngoài, chi theo quy tắc. Với kiều hối, nguồn thu thuộc về hàng triệu hộ gia đình riêng lẻ, mỗi hộ đưa ra một quyết định hợp lý cho mình, và tổng của những quyết định hợp lý ấy tạo ra một áp lực lên giá mà không ai chọn và không ai chịu trách nhiệm. Công cụ duy nhất còn lại nằm ở phía cung — tăng năng lực sản xuất hàng phi thương mại, nhất là nhà ở, để dòng tiền tăng làm tăng sản lượng thay vì chỉ làm tăng giá.
+
+### Với Việt Nam: hai dòng kiều hối rất khác nhau, và chính sách chỉ có ý nghĩa với một trong hai
+
+Việt Nam thường xuyên nằm trong nhóm các nước nhận kiều hối lớn nhất thế giới, nhưng con số tổng che giấu hai dòng tiền có bản chất khác hẳn nhau, và hầu như mọi thảo luận trong nước đều gộp chúng làm một.
+
+Dòng thứ nhất đến từ **cộng đồng người Việt định cư lâu năm ở nước ngoài**. Đặc điểm: giá trị mỗi lần chuyển lớn, tần suất thấp, phần đáng kể không phải để nuôi gia đình mà để mua tài sản — bất động sản, vàng, gửi tiết kiệm — tức thuộc nhóm "hộ giàu hơn" trong phân loại của bài. Với dòng này, phí chuyển tiền gần như không quan trọng: theo tỷ lệ phần trăm của một khoản lớn thì nó nhỏ, đúng như bài đã chỉ ra. Điều đáng quan tâm với dòng này lại là điều bài chỉ nhắc một câu — nó đổ vào tài sản phi thương mại, tập trung địa lý ở vài đô thị lớn, và vì vậy tác động chủ yếu lên **giá nhà** chứ lên năng lực sản xuất. Đây cũng là dòng có xu hướng suy giảm tự nhiên theo thời gian, vì thế hệ sinh ra ở nước ngoài gửi tiền về ít hơn hẳn thế hệ ra đi.
+
+Dòng thứ hai đến từ **người lao động đi làm việc có thời hạn ở nước ngoài**, chủ yếu tại Nhật Bản, Hàn Quốc và Đài Loan. Đặc điểm ngược lại hoàn toàn: khoản nhỏ, gửi đều hằng tháng, đi về các hộ gia đình nông thôn, dùng cho tiêu dùng, trả nợ chi phí xuất cảnh, xây nhà và học phí cho con. Đây đúng là nhóm mà bài mô tả khi nói về khoản dưới 200 đô la và mức phí 10–15%. **Toàn bộ chương trình nghị sự về giảm chi phí chuyển tiền chỉ có ý nghĩa với dòng thứ hai**, và có ý nghĩa rất lớn: với một người gửi về mỗi tháng trong ba năm, chênh lệch vài phần trăm phí cộng dồn thành một khoản đáng kể so với thu nhập của gia đình họ.
+
+Với dòng thứ hai còn một chi phí mà bài hoàn toàn không đề cập nhưng lớn hơn phí chuyển tiền nhiều lần: **chi phí trả trước để được đi**. Khoản vay để nộp phí môi giới, đặt cọc và đào tạo trước khi xuất cảnh thường tương đương nhiều tháng thu nhập ở nước đến, và phần kiều hối của một đến hai năm đầu thực chất là để trả nợ khoản đó. Xét theo logic của chính bài — hãy tấn công vào chi phí giao dịch chứ đừng tìm cách điều hướng dòng tiền — thì đây mới là điểm can thiệp có lợi tức cao nhất với Việt Nam: minh bạch hoá và áp trần chi phí tuyển dụng lao động đi làm việc ở nước ngoài sẽ chuyển sang tay hộ gia đình nhiều tiền hơn bất kỳ chính sách nào nhắm vào bản thân dòng kiều hối.

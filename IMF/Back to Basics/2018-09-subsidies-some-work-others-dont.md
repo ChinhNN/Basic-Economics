@@ -153,3 +153,69 @@
 > "Subsidies that do not address market imperfections can distort prices."
 
 > "Global subsidies in 2015 are estimated at a whopping $5.3 trillion, or 6.5 percent of global GDP—more than governments spend on health care throughout the world."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Con số 5,3 nghìn tỷ đô la không phải là trợ cấp theo nghĩa thông thường, và sự nhập nhằng đó có hệ quả
+
+Đây là con số được trích dẫn nhiều nhất từ bài viết này, và cách nó được xây dựng quan trọng không kém bản thân nó.
+
+Bài nói rõ phương pháp: "theo nghĩa rộng, năng lượng có thể được coi là được trợ cấp bất cứ khi nào giá của nó không phản ánh đầy đủ không chỉ chi phí sản xuất mà còn toàn bộ chi phí môi trường". Nghĩa là bất kỳ khoảng cách nào giữa giá đang bán và mức giá lý tưởng có tính đủ thiệt hại do ô nhiễm, khí hậu và tai nạn giao thông đều được tính là trợ cấp.
+
+Theo định nghĩa này, **phần áp đảo của con số không phải là tiền chảy ra khỏi ngân sách bất kỳ nước nào**. Trong các bản cập nhật sau của cùng nhóm tác giả, phần trợ cấp "ngầm" — tức ngoại ứng chưa được tính vào giá — chiếm khoảng bốn phần năm tổng số; phần "hiện", tức tiền ngân sách thật sự chi ra, chỉ là một phần nhỏ.
+
+Điều này giải thích một kết quả trông rất lạ trong bài: Trung Quốc và Mỹ là hai nước "trợ cấp" lớn nhất thế giới, dù không nước nào phát tiền cho người mua xăng. Họ đứng đầu vì tiêu thụ năng lượng nhiều nhất và vì mức thuế môi trường thấp hơn mức mà mô hình cho là tối ưu.
+
+Về mặt kinh tế, việc đánh đồng "không đánh thuế đủ" với "trợ cấp" là hợp lý — cả hai đều khiến giá thấp hơn chi phí xã hội. Nhưng về mặt chính trị, đây là hai việc hoàn toàn khác nhau. Cắt một khoản chi ngân sách và **tăng một sắc thuế** đi qua hai quy trình khác nhau, đối mặt hai liên minh phản đối khác nhau, và có xác suất thành công rất khác nhau. Bài chuyển qua lại giữa hai nghĩa mà không đánh dấu, nên câu kết luận "cải cách cần đi xa hơn nhiều" nghe như một lời kêu gọi kỷ luật ngân sách trong khi thực chất nó là lời kêu gọi đánh thuế carbon trên toàn cầu — một việc khó hơn nhiều bậc.
+
+Cần nói thêm một điều: số liệu đã được cập nhật và nó **tăng**, không giảm. Ước tính cho năm 2022 lên tới khoảng 7 nghìn tỷ đô la, với phần trợ cấp hiện tăng gấp đôi sau khủng hoảng năng lượng.
+
+### Năm 2022 là phép thử, và gần như mọi nước đều làm ngược lại lời khuyên của bài
+
+Bài kết thúc bằng một cẩm nang cải cách nghe rất hợp lý: chiến lược toàn diện với lộ trình giá công bố trước, truyền thông sâu rộng, thực hiện từng bước, và **chuyển tiền mặt có mục tiêu** để bảo vệ hộ dễ tổn thương.
+
+Bốn năm sau, giá năng lượng thế giới tăng vọt sau khi xung đột nổ ra ở châu Âu, và phép thử diễn ra đồng loạt ở hàng chục nước. Kết quả gần như thống nhất: Pháp áp trần mức tăng giá điện; Anh dựng một cơ chế bảo đảm giá năng lượng cho mọi hộ gia đình; Đức trợ giá nhiên liệu và vé giao thông công cộng; phần lớn các nước châu Âu khác làm điều tương tự với quy mô hàng trăm tỷ euro.
+
+Đánh giá của chính IMF về các biện pháp này kết luận rằng **phần lớn chúng không có mục tiêu**, tức chúng chi cho toàn dân thay vì cho nhóm cần, đúng sai lầm mà bài này cảnh báo.
+
+Điểm đáng suy nghĩ nhất: những nước này là nhóm có **hạ tầng nhắm mục tiêu tốt nhất thế giới**. Họ có đăng ký dân cư đầy đủ, dữ liệu thu nhập từ cơ quan thuế, tài khoản ngân hàng phổ cập. Họ hoàn toàn có thể chuyển tiền đúng người trong vài tuần. Họ vẫn chọn trợ giá đại trà.
+
+Kết luận rút ra không phải là lời khuyên của bài sai, mà là **ràng buộc không nằm ở năng lực hành chính mà ở tính toán chính trị**. Trợ giá đại trà cho phép chính phủ nói "chúng tôi đã giảm hóa đơn của bạn"; chuyển tiền có mục tiêu đồng nghĩa với việc để phần lớn cử tri nhìn thấy hóa đơn tăng. Bất kỳ chiến lược cải cách nào không xử lý sự bất đối xứng đó đều là một chiến lược trên giấy.
+
+### Tỷ lệ gấp bảy lần đúng về số tiền nhưng giải thích sai về chính trị
+
+Con số hữu ích nhất trong bài với một nước đang phát triển là: 20% hộ giàu nhất hưởng trung bình gấp bảy lần lợi ích trợ cấp năng lượng so với 20% nghèo nhất. Nó được dùng để chứng minh rằng trợ cấp năng lượng là công cụ giảm nghèo tồi.
+
+Về số học thì đúng. Nhưng có một hệ quả mà bài không rút ra, và nó giải thích tại sao cải cách trợ cấp lại gây bất ổn nhiều đến vậy.
+
+Người giàu mất **nhiều tiền hơn** khi trợ cấp bị bỏ. Người nghèo mất **tỷ lệ lớn hơn trong thu nhập của mình**. Nếu một hộ nghèo chi 15% thu nhập cho nhiên liệu và đi lại còn một hộ khá giả chi 5%, thì việc tăng giá 50% lấy đi 7,5% thu nhập của hộ nghèo và 2,5% của hộ khá giả — dù về số tuyệt đối hộ khá giả mất nhiều hơn nhiều.
+
+Phản ứng chính trị đi theo **tỷ lệ**, không theo số tuyệt đối. Điều đó giải thích một danh sách dài các sự kiện xảy ra sau khi bài này được viết: các cuộc biểu tình lớn ở Ecuador năm 2019 buộc đảo ngược quyết định bỏ trợ giá nhiên liệu; bất ổn ở Kazakhstan đầu năm 2022 khởi phát từ việc bỏ trần giá khí hóa lỏng; và sức ép kéo dài ở Nigeria sau khi trợ giá xăng bị dỡ bỏ năm 2023.
+
+Những trường hợp hiếm hoi thành công đều có chung một đặc điểm và nó mạnh hơn lời khuyên chung chung của bài: **khoản bù đắp phải đến trước hoặc đồng thời với việc tăng giá, và phải nhìn thấy được**. Indonesia đã làm đúng như vậy khi gắn các đợt điều chỉnh giá nhiên liệu với việc chi trả tiền mặt trực tiếp cho hàng chục triệu hộ, công bố trước và thực hiện cùng lúc. Trình tự không phải chi tiết kỹ thuật; nó là toàn bộ vấn đề.
+
+### Thế giới đã chuyển sang công cụ mà bài hoài nghi, vì công cụ bài ưa thích không đi qua được quốc hội
+
+Bài có một sự bất đối xứng đáng chú ý trong giọng điệu. Với trợ cấp tiêu dùng nhiên liệu hóa thạch, nó dứt khoát: tốn kém, bất công, có hại, phải bỏ. Với trợ cấp sản xuất cho công nghệ mới, nó dè dặt — thừa nhận có cơ sở lý thuyết (lan tỏa từ nghiên cứu phát triển) nhưng kèm ngay điều kiện rằng chính phủ "cần đủ thông tin để xác định doanh nghiệp nào sẽ thành công".
+
+Lịch sử đã đi theo hướng ngược với sự dè dặt đó. Công cụ chính sách khí hậu lớn nhất thập niên này không phải thuế carbon mà là các gói **trợ cấp sản xuất quy mô khổng lồ** cho năng lượng tái tạo, pin, xe điện và hydro — ở Mỹ, ở châu Âu, ở Trung Quốc, ở Ấn Độ. Đây đúng là hoạt động "chọn người thắng" mà bài cảnh giác.
+
+Lập luận biện hộ cho bước chuyển này không phải là bài viết sai về mặt kinh tế, mà là: **định giá carbon đúng theo lý thuyết thì tối ưu, nhưng nó tạo ra người thua ngay lập tức và người thắng trong tương lai xa, nên nó không được thông qua**. Trợ cấp thì ngược lại — người thắng xuất hiện ngay, có tên tuổi, có nhà máy đặt ở một địa phương cụ thể với số việc làm đếm được, còn chi phí thì phân tán vào ngân sách chung. Trợ cấp đắt hơn và kém hiệu quả hơn về mặt kinh tế, nhưng nó khả thi về mặt chính trị.
+
+Cái giá của lựa chọn này đang hiện ra: khi nhiều nước cùng trợ cấp cùng một ngành, kết quả là dư thừa công suất toàn cầu, căng thẳng thương mại và một cuộc chạy đua mà tổng chi tiêu tăng còn lượng phát thải giảm được thì không tăng tương ứng. Các tài liệu về chiến tranh trợ cấp trong repo mô tả đúng động lực này.
+
+### Với Việt Nam: trợ cấp không nằm trong ngân sách, và người hưởng lợi lớn nhất không phải hộ gia đình
+
+Với Việt Nam, khung của bài cần được chỉnh lại ở hai điểm để dùng được.
+
+**Điểm thứ nhất: trợ cấp không đi qua ngân sách.** Ở phần lớn các nước mà bài mô tả, trợ giá năng lượng là một dòng chi trong ngân sách, ai cũng nhìn thấy, và cải cách có nghĩa là cắt dòng chi đó. Ở Việt Nam, cơ chế khác: tập đoàn điện lực nhà nước mua đầu vào ở mức giá gần thị trường và bán điện ở mức giá do nhà nước quyết định. Khoảng chênh lệch không xuất hiện ở bất kỳ mục chi ngân sách nào; nó xuất hiện dưới dạng **lỗ trên bảng cân đối của một doanh nghiệp nhà nước**, và cuối cùng thành nợ tiềm ẩn của nhà nước.
+
+Hệ quả là khoản trợ cấp này vô hình trong thống kê tài khóa, không bị thảo luận khi Quốc hội duyệt ngân sách, và không ai đặt câu hỏi liệu cùng số tiền đó có thể dùng tốt hơn ở đâu. Đây chính là hiện tượng "chèn lấn" mà bài nêu, chỉ là nó chèn lấn một cách không nhìn thấy được.
+
+Một biến thể nữa là **quỹ bình ổn giá xăng dầu**, một cơ chế đặc thù đáng chú ý vì về bản chất nó không phải trợ cấp: tiền được trích từ chính người tiêu dùng khi giá thấp và chi ra khi giá cao. Nó là công cụ làm mượt, không phải công cụ chuyển giao. Nhưng nó thừa hưởng toàn bộ vấn đề chính trị của trợ cấp — nó trì hoãn việc điều chỉnh, tạo kỳ vọng rằng giá sẽ được can thiệp, và trong giai đoạn giá thế giới tăng mạnh nó đã cạn.
+
+**Điểm thứ hai, và quan trọng hơn: người hưởng lợi chính không phải hộ gia đình.** Cuộc tranh luận về giá điện ở Việt Nam gần như luôn xoay quanh hóa đơn của hộ dân, và biểu giá bán lẻ cho hộ gia đình được thiết kế lũy tiến theo bậc để bảo vệ hộ dùng ít. Nhưng khu vực công nghiệp tiêu thụ phần lớn sản lượng điện của cả nước, và mức giá bình quân mà công nghiệp trả thấp hơn mức bình quân của hộ gia đình.
+
+Nghĩa là phần lớn khoản trợ cấp ngầm chảy vào **các ngành thâm dụng năng lượng** — thép, xi măng, hóa chất — và vào khu vực sản xuất có vốn đầu tư nước ngoài. Ghép với con số gấp bảy lần của bài, bức tranh còn lệch hơn nữa so với cách nó thường được trình bày.
+
+Ba hệ quả đi kèm. Giá điện thấp làm suy giảm động lực đầu tư vào hiệu quả năng lượng trên toàn nền kinh tế. Nó làm chậm quá trình chuyển dịch cơ cấu khỏi các ngành thâm dụng năng lượng, vốn cũng là những ngành tạo ít giá trị gia tăng nhất. Và nó làm giảm khả năng huy động vốn cho ngành điện, vì không nhà đầu tư nào rót tiền vào một ngành mà giá bán không đủ bù chi phí — điều này đến lượt nó tạo ra rủi ro thiếu điện, thứ gây thiệt hại cho chính các doanh nghiệp đang được trợ giá.

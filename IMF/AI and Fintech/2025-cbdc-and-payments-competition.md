@@ -242,3 +242,61 @@
 > "Where a well-functioning public fast payment system already dominates, CBDC adds little to competition."
 
 > "A free CBDC can still lose to a card that carries credit and rewards."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Bảng ba kịch bản là một lập luận chống lại chính chủ đề của bài, và bài không nói ra điều đó
+
+Hãy đọc bảng tác động theo kịch bản như một bài toán loại trừ thay vì như một bảng mô tả.
+
+Kịch bản có hệ thống thanh toán nhanh công cộng: CBDC tác động thấp ở ba trong bốn kênh — bài thừa nhận thẳng rằng Pix và UPI đã làm xong việc. Kịch bản tư nhân chi phối nhưng đã bị điều tiết: tác động chỉ ở mức trung bình, vì trần phí đã kéo giá xuống rồi. Vậy chỉ còn hai ô mà CBDC có dư địa lớn.
+
+Ô thứ nhất là thị trường tư nhân chi phối **chưa** bị điều tiết. Nhưng chính bài đã chứng minh rằng ở đó, công cụ rẻ hơn và nhanh hơn nhiều là áp trần phí hoán đổi — Pakistan làm được bằng một văn bản, Sri Lanka bằng một con số hai mươi lăm rupee. So với việc xây và vận hành một hệ thống tiền số quốc gia, đây là chênh lệch chi phí hàng nghìn lần cho cùng một mục tiêu cạnh tranh.
+
+Ô thứ hai là nền kinh tế còn dùng nhiều tiền mặt. Nhưng ở đó, ràng buộc thực sự không nằm ở đường ray thanh toán. Nó nằm ở giấy tờ tuỳ thân, ở điện thoại, ở sóng, ở việc người bán nhỏ có chịu nhận hay không, và ở mạng lưới nạp rút tiền mặt. CBDC không cung cấp bất kỳ thứ nào trong số đó.
+
+Nói cách khác: đi theo đúng logic của bài thì lý do kinh tế để phát hành CBDC vì mục tiêu cạnh tranh gần như biến mất ở mọi ô. Nơi CBDC có thể giúp thì có công cụ rẻ hơn; nơi không có công cụ nào rẻ hơn thì vấn đề nằm ở tầng khác. Bài dựng một cái bảng lặng lẽ phản bác chủ đề của chính nó, rồi dừng lại trước khi kết luận. Đây là kiểu kết luận mà một tài liệu chính sách của tổ chức đa phương khó phát biểu thẳng, nhưng người đọc thì nên đọc ra.
+
+### Khung giá – giá trị chạm đúng chỗ, nhưng để lộ một giới hạn mà ngân hàng trung ương không thể vượt qua
+
+Đóng góp phân tích tốt nhất của bài là chỉ ra rằng người dùng so giá với giá trị chứ không so giá với giá. Nó giải thích gọn gàng một thực tế mà các nghiên cứu khác chỉ mô tả: eNaira và Sand Dollar miễn phí hoàn toàn mà vẫn không ai dùng. Miễn phí không phải là một chiến lược khi đối thủ không bán rẻ, mà bán gói.
+
+Điều bài không nói tiếp là gói đó chứa gì. Sức mạnh cạnh tranh lớn nhất của thẻ không phải điểm thưởng — điểm thưởng có thể sao chép — mà là **tín dụng**: khả năng chi trước trả sau, cộng với cơ chế tranh chấp giao dịch và hoàn tiền khi người bán không giao hàng. Đây chính xác là thứ ngân hàng trung ương không thể cung cấp. Một ngân hàng trung ương không cho vay tiêu dùng, không thẩm định tín dụng hộ gia đình, và không thể đứng ra phân xử tranh chấp thương mại giữa người mua và người bán.
+
+Bài liệt kê "cho phép đóng gói sản phẩm đi kèm" như đòn bẩy thiết kế thứ bảy, nhưng đòn bẩy này rơi vào vòng luẩn quẩn: bên duy nhất đủ năng lực đóng gói tín dụng vào CBDC là các trung gian — tức đúng những tổ chức mà CBDC được sinh ra để tạo sức ép. Nếu họ đóng gói tốt, họ giữ được quan hệ khách hàng và phần thặng dư; nếu họ không đóng gói, CBDC vẫn là một sản phẩm trần trụi thua thẻ. Không có nhánh nào trong hai nhánh đó dẫn tới nhiều cạnh tranh hơn.
+
+### Ví dụ e-CNY đặt bên trong Alipay và WeChat Pay chứng minh điều ngược với thứ nó được dùng để chứng minh
+
+Chi tiết này được xếp vào nhóm "đặc tính thiết kế thúc đẩy cạnh tranh trong thực tế". Nhưng hãy nhìn vào cấu trúc kinh tế của nó.
+
+Hai ví tư nhân đang chi phối thị trường thanh toán bán lẻ lớn nhất thế giới. Ngân hàng trung ương phát hành một công cụ công có mục tiêu tuyên bố là giảm sự chi phối đó. Rồi công cụ công ấy được đặt **bên trong** chính hai ví đó. Kết quả là giao diện người dùng, dữ liệu hành vi, quan hệ khách hàng và quyền định hình trải nghiệm vẫn nằm nguyên chỗ cũ; thứ thay đổi chỉ là công cụ quyết toán ở phía sau.
+
+Đây không phải là cạnh tranh với bên chi phối, mà là **hợp thức hoá vị trí cửa ngõ của họ** và bổ sung cho họ một đường ray quyết toán do nhà nước bảo đảm. Nếu một tổ chức tư nhân làm điều tương tự với đối thủ của mình, khó ai gọi đó là biện pháp tăng cạnh tranh.
+
+Cách đọc thẳng thắn hơn là: chương trình CBDC tiên tiến nhất thế giới, sau nhiều năm thí điểm quy mô lớn, đã kết luận rằng nó **không thể thắng ở lớp giao diện** và chọn lùi về làm lớp quyết toán. Đó là một dữ kiện có giá trị dự báo cho mọi nước đi sau, và nó lớn hơn nhiều so với vai trò minh hoạ mà bài dành cho nó.
+
+### Con số hơn bốn mươi phần trăm người dùng UPI vẫn gặp phí là phát hiện hữu dụng nhất và bị đặt ở chỗ khuất nhất
+
+Con số này nằm trong một phụ lục, nhưng nó là bài học có thể áp dụng ngay và áp dụng được ở mọi nơi.
+
+Nguyên lý đằng sau nó: khi giá ở một điểm trong chuỗi bị ép về không bằng mệnh lệnh hoặc bằng trợ cấp, chi phí không biến mất mà **di chuyển sang điểm liền kề chưa bị quản lý**. Ở UPI, nó hiện ra thành phí giao diện với ví trả trước. Ở nơi khác, nó có thể hiện ra thành phí nạp rút tiền mặt, phí duy trì tài khoản, phí thiết bị chấp nhận thanh toán của người bán nhỏ, chênh lệch tỷ giá, hoặc lợi tức trên số dư tồn đọng mà người dùng không được hưởng.
+
+Hàm ý phương pháp rất cụ thể: đừng đánh giá một hệ thống thanh toán bằng biểu phí công bố. Phải đo **tổng chi phí của cả chuỗi từ lúc tiền vào tới lúc tiền ra**, và phải đo riêng cho nhóm người bán nhỏ, vì họ là nhóm không có quyền mặc cả và là nơi chi phí thường bị đẩy tới.
+
+### Đòn bẩy "buộc chấp nhận" giải được bài toán con gà và quả trứng, nhưng phá hỏng mọi thước đo thành công
+
+Trong tám đòn bẩy thiết kế, địa vị tiền pháp định kèm nghĩa vụ chấp nhận là đòn bẩy duy nhất thực sự giải được vấn đề hiệu ứng mạng, và bài nói đúng về điều đó: nếu mọi người bán buộc phải nhận, vòng xoáy tự củng cố khởi động ngay mà không cần chờ tích luỹ.
+
+Nhưng hệ quả thì bài không nêu. Khi việc chấp nhận là nghĩa vụ pháp lý, **số liệu sử dụng không còn là bằng chứng về giá trị**. Một hệ thống được dùng nhiều vì luật bắt dùng và một hệ thống được dùng nhiều vì nó tốt hơn sẽ cho ra cùng một biểu đồ tăng trưởng, và không cách nào phân biệt từ bên ngoài. Điều này quan trọng vì toàn bộ cách thế giới đang đánh giá các chương trình CBDC hiện nay là nhìn vào tỷ lệ sử dụng.
+
+Nó cũng đặt lại bản chất của cuộc tranh luận. Ba kênh đầu trong bốn kênh tác động — định giá, giá trị, khả năng tranh giành — đều là lập luận kinh tế. Đòn bẩy buộc chấp nhận thì không: nó là lập luận hành chính. Trộn chúng vào cùng một danh sách "đòn bẩy thiết kế" làm mờ đi một lựa chọn chính trị thật sự, đó là ép buộc hay thuyết phục. Kinh nghiệm Bahamas, nơi có kế hoạch buộc ngân hàng phân phối, cho thấy khi thuyết phục thất bại thì ép buộc là điều thực sự xảy ra chứ không phải là khả năng lý thuyết.
+
+### Với Việt Nam: bài này cho một kết luận rõ và một cảnh báo ít ai để ý
+
+Chiếu vào bảng kịch bản, Việt Nam nằm giữa kịch bản hai và kịch bản ba. Đã có chuyển khoản liên ngân hàng tức thời hoạt động tốt, có mã QR theo chuẩn dùng chung phủ rộng tới cả người bán rất nhỏ — mô hình gần với cách Ấn Độ làm với mã QR dùng chung hơn là với mô hình ví đóng của Trung Quốc — đồng thời vẫn còn một mảng tiền mặt đáng kể ở nông thôn và ở giao dịch giá trị nhỏ.
+
+Theo chính logic của bài, ở cấu hình này một CBDC bán lẻ cho ra tác động thấp ở kênh định giá, kênh giá trị và kênh khả năng tranh giành. Phần dư địa còn lại nằm ở tiếp cận tài chính, mà ở đó ràng buộc là giấy tờ, thiết bị và mạng lưới nạp rút chứ không phải công cụ thanh toán. Việc nên làm, theo đúng bài, là củng cố tính liên thông và mở rộng mạng lưới nạp rút, không phải phát hành thêm một phương tiện.
+
+Cảnh báo ít ai để ý nằm ở chi tiết chống độc quyền về quyền truy cập chip giao tiếp tầm gần trên thiết bị di động. Bài coi đây là một ví dụ về hành vi khoá chặt của bên hiện hữu. Với một nước xây hệ thống thanh toán nội địa, nó là chuyện khác hẳn: **toàn bộ lớp thanh toán chạm của một quốc gia có thể bị quyết định bởi chính sách nền tảng của hai công ty nước ngoài sản xuất điện thoại**. Đây không phải rủi ro cạnh tranh mà là rủi ro chủ quyền hạ tầng. Nó cũng lý giải vì sao mã QR — chạy trên camera và màn hình, những thứ không ai khoá được — lại là lựa chọn kỹ thuật khôn ngoan hơn nhiều cho một nước đi sau so với việc phụ thuộc vào chip giao tiếp tầm gần.
+
+Cuối cùng, con số hơn bốn mươi phần trăm người dùng UPI vẫn gặp phí nên được đọc như một câu hỏi kiểm tra: trong hệ sinh thái quét mã trong nước, ai đang thực sự trả chi phí, và mức chiết khấu mà người bán nhỏ chịu là bao nhiêu? Đó là con số quyết định liệu "miễn phí" có thật hay chỉ là miễn phí ở phía người mua.

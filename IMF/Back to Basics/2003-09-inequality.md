@@ -191,3 +191,45 @@
 > "The capitalists' achievement does not consist in providing silk stockings for queens but in bringing them within reach of factory girls..." (Joseph Schumpeter, được trích trong bài)
 
 > "The real problem is not inequality but poverty." (Martin Feldstein, được trích trong bài)
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Bài học thật không phải về bất bình đẳng mà về cách một tranh cãi sự thật hoá ra là tranh cãi định nghĩa
+
+Giá trị bền nhất của bài không nằm ở bất kỳ con số nào mà ở chỗ nó chứng minh rằng **cùng một bộ dữ liệu cho hai kết luận trái ngược tuỳ vào một lựa chọn kỹ thuật duy nhất**: có tính trọng số dân số hay không. Không tính trọng số, ta được "phân kỳ, quy mô lớn". Tính trọng số, ta được "hội tụ, chấm hết". Không bên nào gian lận, không bên nào dùng dữ liệu khác.
+
+Điều này quan trọng hơn chủ đề bất bình đẳng. Nó là một mẫu lặp lại trong mọi tranh luận kinh tế dựa vào số liệu tổng hợp: trước khi hỏi "con số nói gì", phải hỏi "**đơn vị quan sát là ai**". Ở đây đơn vị quan sát là quốc gia hay là con người, và toàn bộ kết luận nằm ở câu trả lời đó. Tác giả gọi khái niệm thứ ba là "định nghĩa John Lennon" — một cách diễn đạt đáng nhớ nhưng che mất mức độ nghiêm trọng của vấn đề: nó không phải một góc nhìn thơ mộng mà là lựa chọn giữa việc coi Lesotho ngang Trung Quốc và việc coi mỗi người ngang mỗi người.
+
+Cái bài không làm là nói thẳng rằng **khẩu hiệu "người giàu càng giàu, người nghèo càng nghèo" sai theo cả ba thước đo**, chứ không chỉ đúng theo một. Ngay cả thước đo ủng hộ nó nhiều nhất — bất bình đẳng giữa các nước — cũng chỉ nói rằng khoảng cách giãn ra, tức người giàu giàu nhanh hơn, không nói người nghèo nghèo đi. Bài đưa ra đủ dữ kiện để bác bỏ nửa sau của khẩu hiệu nhưng dừng lại ở giọng trung lập "tuỳ khái niệm". Đó là một sự nhã nhặn phải trả giá bằng độ sắc.
+
+### Kết quả hội tụ toàn cầu thực chất là một chỉ báo về Trung Quốc, và số học đó đã đảo chiều
+
+Bài thừa nhận rằng hội tụ toàn cầu "đến từ tăng trưởng của một vài nước rất đông dân như Trung Quốc, Ấn Độ và Việt Nam", rồi dùng điều đó để nói kết quả "an ủi rất ít" cho người Lesotho. Nhưng hệ quả kỹ thuật còn mạnh hơn hệ quả đạo đức mà bài rút ra: nếu một chỉ số bị chi phối bởi một quan sát, thì nó **không còn là chỉ số về phân phối thế giới mà là chỉ số về quan sát đó**.
+
+Và đây là điều đã thay đổi hẳn kể từ 2003, theo một cách mà bài không thể lường trước nhưng lập luận của nó lại tiên đoán chính xác. Năm 2003, thu nhập đầu người của Trung Quốc nằm **dưới** mức trung vị thế giới, nên mỗi điểm phần trăm tăng trưởng của Trung Quốc kéo phân phối toàn cầu về phía đều hơn. Khoảng giữa thập niên 2010, Trung Quốc vượt lên **trên** mức đó. Từ thời điểm ấy, cùng một hiện tượng — Trung Quốc tăng trưởng nhanh hơn thế giới — bắt đầu **làm tăng** bất bình đẳng toàn cầu thay vì giảm. Không có gì trong thực tế thay đổi ngoài vị trí tương đối của một nước trong phân phối, nhưng dấu của kết luận thì đảo.
+
+Đây là minh hoạ sắc nhất cho chính luận điểm của bài: một thước đo tổng hợp có thể đổi chiều mà không cần bất kỳ sự kiện nào đổi chiều. Người đọc hôm nay nên rút ra rằng con số "hội tụ toàn cầu" chưa bao giờ là một sự thật về thế giới, mà là một hàm của việc dân số khổng lồ đang nằm ở khúc nào của đường phân phối.
+
+### Bài dùng một thước đo không nhìn thấy được hiện tượng mà chính nó đang lo ngại
+
+Có một mâu thuẫn nội tại nằm ngay giữa bài mà nó không nhận ra. Toàn bộ phần đo bất bình đẳng trong nước dựa vào **hệ số Gini**: Nhật và châu Âu 0,25–0,3, Mỹ tăng lên khoảng 0,4, Hàn Quốc khoảng 0,3, Brazil khoảng 0,6. Nhưng đến phần "ta có nên lo lắng", bằng chứng được viện dẫn lại là con số của Krugman: **0,01% người nộp thuế đỉnh ở Mỹ — 13.000 hộ — nhận hơn 3% thu nhập cả nước**.
+
+Vấn đề là Gini gần như mù trước hiện tượng đó. Nó nhạy nhất với những gì xảy ra quanh giữa phân phối và rất kém nhạy với phần đuôi cực trên; hơn nữa, thu nhập của nhóm 0,01% chủ yếu là thu nhập từ vốn, phần bị khảo sát hộ gia đình bỏ sót nặng nhất. Nói cách khác, bài dùng một thước đo để mô tả tình hình và một thước đo hoàn toàn khác để biện minh cho nỗi lo, mà không nói rằng hai thước đo này không nói chuyện được với nhau. Nếu chỉ nhìn Gini của Mỹ, hiện tượng tập trung ở đỉnh gần như vô hình.
+
+Điều này báo trước chính xác hướng đi của cả ngành sau đó. Văn liệu về tỷ trọng thu nhập nhóm đỉnh, dựa vào dữ liệu thuế thay vì khảo sát, bùng nổ ngay sau thời điểm bài này ra đời và đã thay thế Gini làm công cụ chủ đạo cho câu hỏi "chuyện gì đang xảy ra ở trên đỉnh". Bài đứng đúng ở ngưỡng cửa của sự chuyển đổi đó mà không bước qua.
+
+### Sau hai mươi năm, Feldstein thắng về nghèo đói và thua về chính trị
+
+Bài kết thúc bằng một cuộc đối chất được dàn dựng công bằng giữa Feldstein — "vấn đề thật là nghèo đói, không phải bất bình đẳng" — và Krugman, người cảnh báo rằng tập trung thu nhập nuôi dưỡng các nhóm đầu sỏ lo bảo vệ của cải hơn là nuôi dưỡng xã hội có cơ hội bình đẳng. Năm 2003 đây là một trận hoà. Hôm nay không còn là hoà nữa, và điều thú vị là **mỗi bên thắng ở một nửa khác nhau**.
+
+Feldstein thắng rõ ràng ở nửa thực chứng. Nghèo cùng cực trên thế giới sụt giảm chưa từng có trong hai thập kỷ tiếp theo, và phần lớn mức giảm đó đến từ tăng trưởng chứ không từ tái phân phối — đúng như trực giác Schumpeter mà bài trích: thành tựu nằm ở việc đưa tất lụa vào tầm với của các cô gái nhà máy.
+
+Nhưng Krugman thắng ở nửa mà Feldstein bỏ qua hoàn toàn: **hệ quả chính trị**. Điều Krugman gọi là nguy cơ hình thành nhóm đầu sỏ đã hiện ra không hẳn dưới dạng đầu sỏ, mà dưới dạng một sự đảo chiều chính trị chống lại chính cỗ máy tạo ra mức giảm nghèo kia. Làn sóng bảo hộ thương mại, trợ cấp công nghiệp và phân mảnh kinh tế toàn cầu của thập niên 2020 có gốc rễ ở chỗ nhóm thu nhập trung bình tại các nước giàu gần như không nhận được gì trong toàn bộ giai đoạn hội tụ toàn cầu mà bài này ca ngợi. Feldstein đúng khi nói tăng thu nhập của người khá giả không đến từ cái giá của ai khác; ông sai khi ngầm giả định rằng điều đó đủ để cử tri chấp nhận. Các tài liệu về phân mảnh thương mại và chiến tranh trợ cấp trong repo này là hậu quả trực tiếp của điều đó, và chúng bắt đầu từ trang giấy này.
+
+### Với Việt Nam: bài nhắc tên ta như một phần của lời giải, và ta nên đọc cả phần cảnh báo
+
+Việt Nam xuất hiện trong bài ở vị trí danh dự — một trong ba nước đông dân có tăng trưởng đủ nhanh để kéo phân phối thu nhập thế giới về phía đều hơn. Nhưng đọc kỹ thì đây là lời khen cho **quá khứ của một nước còn nghèo**: đóng góp ấy được tính đúng vì thu nhập Việt Nam khi đó nằm sâu dưới trung vị thế giới. Khi Việt Nam tiến tới nhóm thu nhập trung bình cao, cơ chế số học đã mô tả ở trên sẽ áp dụng cho Việt Nam đúng như đã áp dụng cho Trung Quốc.
+
+Phần đáng dùng hơn là chẩn đoán của bài về bất bình đẳng trong nước, với hai hình mẫu đối lập rất rõ: Hàn Quốc tăng trưởng thần kỳ mà Gini giữ khoảng 0,3, và Brazil tăng trưởng chậm mà Gini kẹt ở khoảng 0,6. Điểm mấu chốt trong đối chiếu này không phải tốc độ tăng trưởng mà là **mức bất bình đẳng ban đầu có xu hướng tự duy trì**: Hàn Quốc vào cuộc với phân phối tương đối đều sau cải cách ruộng đất, Brazil vào cuộc với tập trung đất đai cực cao, và ba mươi năm tăng trưởng không làm thay đổi đáng kể vị thế của cả hai. Đây là một luận điểm về **quán tính**, và nó nói rằng cửa sổ để một nước quyết định mình sẽ là kiểu Hàn Quốc hay kiểu Brazil mở ra sớm hơn nhiều so với lúc người ta bắt đầu lo về bất bình đẳng.
+
+Chỗ cần đọc lệch khỏi văn bản là đoạn cuối, nơi bài quy mức bất bình đẳng về "một lựa chọn đưa ra qua quá trình bầu cử". Cơ chế cụ thể đó không mô tả Việt Nam. Nhưng mệnh đề nền tảng thì vẫn đứng và thậm chí còn mạnh hơn: nếu mức bất bình đẳng là sản phẩm của chính sách — thuế, chuyển giao, chi giáo dục và y tế — chứ không phải của định mệnh, thì trách nhiệm không được chia sẻ với cử tri mà dồn toàn bộ vào cơ quan hoạch định. Các bài trong cùng loạt về tăng trưởng bao trùm, nguyên tắc đánh thuế và thu nhập cơ bản phổ quát là phần tiếp nối trực tiếp của câu hỏi này.

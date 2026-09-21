@@ -147,3 +147,61 @@
 > "An output gap suggests that an economy is running at an inefficient rate—either overworking or underworking its resources."
 
 > "The estimate is the most uncertain for the period of greatest interest: the recent past."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Câu thú nhận gần cuối bài là một bản cáo trạng, không phải một lưu ý kỹ thuật
+
+Bài viết đặt một câu rất mạnh vào giữa phần phương pháp rồi đi tiếp như thể vừa nói một chuyện bình thường: ước lượng bất định nhất chính ở giai đoạn quan tâm nhất, tức quá khứ gần.
+
+Hãy đặt câu đó cạnh những gì bài đã nói ở phần trước. Chênh lệch sản lượng quyết định ngân hàng trung ương nên tăng hay giảm lãi suất. Nó quyết định chính phủ nên mở rộng hay thắt chặt tài khóa. Nó là "cầu nối then chốt" giữa kinh tế thực và lạm phát. Nghĩa là **đại lượng có ảnh hưởng lớn nhất tới quyết định chính sách lại là đại lượng không quan sát được, và sai số của nó lớn nhất đúng vào thời điểm cần dùng**.
+
+Mức độ nghiêm trọng còn tăng lên khi biết rằng chênh lệch sản lượng không chỉ là tham khảo. Quy tắc tài khóa của Liên minh châu Âu buộc các nước phải đạt một mức "cân đối ngân sách cơ cấu" nhất định, và mức cơ cấu đó được tính bằng cách gỡ phần chu kỳ ra khỏi số liệu ngân sách thật — tức phải biết chênh lệch sản lượng trước. Một quốc gia có thể bị kết luận là vi phạm cam kết pháp lý dựa trên một con số không ai đo được và sẽ được sửa lại nhiều lần trong những năm sau.
+
+Đây là dạng vấn đề mà một bài nhập môn hoàn toàn có thể nêu mà không mất tính dễ hiểu, và việc bài chọn giọng "khó đo nhưng vẫn dẫn dắt nhà hoạch định" là một lựa chọn né tránh.
+
+### Trường hợp khu vực đồng euro: khi chính phương pháp kết luận thất nghiệp 26% là "tiềm năng"
+
+Cùng thời điểm bài này in, một ví dụ kinh điển đang diễn ra ngay trước mắt.
+
+Trước 2008, các ước lượng chính thức cho thấy Tây Ban Nha và Ireland hoạt động ở gần mức tiềm năng trong suốt giai đoạn bong bóng bất động sản — nghĩa là chênh lệch sản lượng không cảnh báo được gì về hai trong số những bong bóng lớn nhất thế kỷ. Lý do rất máy móc: khi tăng trưởng cao kéo dài nhiều năm, mọi bộ lọc xu hướng đều hấp thụ nó vào "tiềm năng".
+
+Sau khủng hoảng thì chiều ngược lại còn tệ hơn. Khi thất nghiệp Tây Ban Nha chạm mức 26%, ước lượng tỷ lệ thất nghiệp "cân bằng" của nước này bị nâng lên trên 20%. Diễn giải bằng lời: mô hình kết luận rằng phần lớn số người vừa mất việc là hiện tượng **cơ cấu**, không phải hậu quả của thiếu cầu, nên nền kinh tế gần như không còn dư thừa công suất.
+
+Hệ quả chính sách đi thẳng từ đó: nếu không có chênh lệch âm thì không có cơ sở cho kích thích tài khóa, và dư địa ngân sách được tính ra là gần bằng không. Nên khuyến nghị là thắt chặt. Thắt chặt làm sản lượng giảm tiếp, đầu tư giảm, người thất nghiệp lâu năm rời thị trường lao động — và vòng lọc tiếp theo lại hạ tiềm năng xuống thêm một bậc.
+
+Đây là một vòng phản hồi tự xác nhận, và nó không phải giả định lý thuyết mà là điều đã xảy ra trong thực tế với hàng chục triệu người.
+
+### Bài coi sản lượng tiềm năng là cho trước, trong khi nó phản ứng với chính sách
+
+Điểm yếu nền tảng của toàn bộ khung này nằm ở một giả định không bao giờ được nói ra: **sản lượng tiềm năng là một đường xu hướng độc lập với chính sách quản lý cầu**. Phía cung quyết định tiềm năng, phía cầu dao động quanh nó, và việc của nhà hoạch định là kéo thực tế về gần đường đó.
+
+Bài có chạm vào chỗ này nhưng đóng khung sai. Nó ghi rằng sau một cuộc suy thoái sâu, dư thừa công suất có thể ít hơn tưởng vì người thất nghiệp rời thị trường lao động, doanh nghiệp đóng cửa, ngân hàng siết tín dụng — và trình bày đây là một **khó khăn đo lường**.
+
+Nhưng đó không phải vấn đề đo lường. Đó là mô tả một cơ chế kinh tế thật: suy thoái kéo dài **phá hủy năng lực sản xuất**. Kỹ năng mai một, lao động rời hẳn lực lượng, dự án đầu tư bị hủy không quay lại, doanh nghiệp giải thể mang theo cả mạng lưới nhà cung cấp. Nếu vậy thì tiềm năng phụ thuộc vào việc chính sách cầu phản ứng nhanh hay chậm — tức biến số được coi là cho trước lại là kết quả của chính quyết định mà nó được dùng để hướng dẫn.
+
+Hàm ý thực tiễn rất khác với những gì bài gợi ý. Nếu tiềm năng là cố định, sai lầm khi kích thích quá mức và khi kích thích quá ít có chi phí đối xứng — bên này là lạm phát, bên kia là thất nghiệp tạm thời. Nếu tiềm năng bị bào mòn bởi suy thoái kéo dài thì hai sai lầm **không đối xứng**: lạm phát có thể sửa được, còn năng lực sản xuất đã mất thì không. Điều này lập luận cho việc chấp nhận sai về phía nới lỏng khi còn nghi ngờ — một kết luận mà khung của bài không dẫn tới được.
+
+### Phép thử 2021–23: khung này thất bại đúng lúc cần nó nhất
+
+Đầu năm 2021, hầu hết các ước lượng đều cho thấy chênh lệch sản lượng còn âm rõ rệt: sản lượng vẫn dưới đường xu hướng trước đại dịch, thất nghiệp vẫn trên mức trước đại dịch. Theo đúng logic của bài, đó là tín hiệu để tiếp tục nới lỏng và không có lý do lo lạm phát.
+
+Điều xảy ra sau đó là đợt lạm phát mạnh nhất trong bốn mươi năm.
+
+Sai lầm không nằm ở tính toán mà ở giả định. Khung này đo chênh lệch bằng cách so sản lượng thực tế với **một đường xu hướng ngoại suy từ quá khứ**. Nhưng cú sốc 2020–21 tác động thẳng vào phía cung: chuỗi cung ứng đứt, một phần lực lượng lao động rời thị trường và không quay lại, giá năng lượng tăng vọt sau xung đột. Sản lượng tiềm năng đã **tụt xuống**, nên nền kinh tế có thể đồng thời nằm dưới đường xu hướng cũ và vượt trên năng lực thật. Bộ lọc xu hướng, theo cấu tạo, không thể phát hiện một cú gãy như vậy trong thời gian thực.
+
+Cùng lúc đó, mối liên hệ trung tâm mà bài dựa vào — chênh lệch dương thì giá tăng — cũng tỏ ra rất không ổn định. Suốt hai thập niên trước đại dịch, quan hệ này gần như phẳng: thị trường lao động Mỹ rất chặt trong 2018–19 mà lạm phát vẫn dưới mục tiêu, khiến nhiều người kết luận nó đã chết. Rồi trong 2021–22 nó đột ngột dốc đứng trở lại. Một quan hệ có độ dốc thay đổi theo chế độ như vậy không phải là nền vững cho một quy tắc chính sách.
+
+Điều duy nhất trong bài giữ nguyên giá trị sau phép thử này là đoạn cuối: đừng dựa vào một con số, hãy theo dõi cả việc làm, giờ làm, lương giờ, sử dụng công suất, tăng trưởng tín dụng và kỳ vọng lạm phát. Lời khuyên nghe có vẻ tầm thường đó hóa ra là phần hữu dụng nhất.
+
+### Với Việt Nam: bộ lọc xu hướng gần như không mang thông tin, và những chỉ báo nên thay thế
+
+Với một nền kinh tế đang chuyển đổi cơ cấu nhanh, khái niệm này gặp khó khăn nghiêm trọng hơn nhiều so với ở các nước phát triển.
+
+Sản lượng tiềm năng của Việt Nam không phải một đường xu hướng mượt bị dao động chu kỳ quấy nhiễu. Nó dịch chuyển theo từng đợt lao động rời nông nghiệp sang công nghiệp, theo từng làn sóng vốn đầu tư nước ngoài dựng nhà máy mới, theo từng bước mở cửa thương mại. Chạy một bộ lọc thống kê lên chuỗi tăng trưởng 6–7% kéo dài ba thập niên sẽ cho ra kết quả gần như tautology: tiềm năng bằng tốc độ tăng trưởng trung bình gần đây.
+
+Hệ quả là chỉ báo này **không thể cảnh báo quá nóng**, bởi vì tăng trưởng nhanh kéo dài luôn bị bộ lọc hấp thụ vào tiềm năng. Kiểm chứng bằng lịch sử: năm 2007 Việt Nam tăng trưởng khoảng 8,5%, không cao hơn nhiều so với các năm liền trước, nên bất kỳ ước lượng chênh lệch sản lượng nào cũng sẽ cho kết quả gần bằng không. Trong khi đó, tăng trưởng tín dụng năm đó vượt 50%, và lạm phát năm sau lên trên 23%. Kịch bản lặp lại năm 2011 với lạm phát trên 18%.
+
+Những gì đã cảnh báo đúng trong cả hai lần đều không phải chênh lệch sản lượng, mà là: **tăng trưởng tín dụng so với GDP danh nghĩa, thâm hụt cán cân vãng lai, giá bất động sản và giá tài sản, và chênh lệch giữa lãi suất huy động thực với lạm phát**. Đây chính xác là nhóm "chỉ báo bổ sung" mà đoạn kết của bài liệt kê — và với Việt Nam, chúng không phải bổ sung mà nên là chỉ báo chính.
+
+Một lưu ý thêm cho người đọc Việt Nam: khi các tổ chức quốc tế công bố ước lượng chênh lệch sản lượng cho Việt Nam trong báo cáo tham vấn thường niên, con số đó nên được đọc như một cách trình bày quan điểm định tính về chu kỳ, không phải như một phép đo. Cùng lời cảnh báo này áp dụng cho mọi ước lượng "dư địa tài khóa" dựa trên sản lượng tiềm năng — một điểm đáng lưu ý khi đọc các tài liệu về bền vững nợ công trong repo, nơi mẫu số của mọi tỷ lệ nợ trên GDP đều phụ thuộc vào một dự báo tăng trưởng tiềm năng mà không ai quan sát được.

@@ -254,3 +254,63 @@
 > "Headline transaction volumes overstate real payment use: an estimated 80 percent of on-chain activity is bot-driven."
 
 > "A promise of par value backed by risky assets, without deposit insurance or a lender of last resort, is a familiar structure with a familiar history."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Tám mươi phần trăm là bot: con số đó không phải nhiễu cần lọc, nó là mô tả về bản chất của thị trường
+
+Việc bài dám nêu thẳng rằng khoảng tám mươi phần trăm lưu lượng trên chuỗi là do bot tạo ra là một hành động làm sạch dữ liệu đáng giá, vì nó phá vỡ lập luận phổ biến nhất trong toàn bộ cuộc tranh luận: rằng stablecoin đã vượt các mạng thẻ về khối lượng. Con số đó là một sản phẩm thống kê, không phải một sự kiện kinh tế.
+
+Nhưng bài dừng lại ở chỗ coi phần bot là nhiễu cần loại bỏ để nhìn ra "khối lượng thanh toán thực". Có một cách đọc khác, và có lẽ đúng hơn: **phần bot chính là hoạt động kinh doanh**. Stablecoin tồn tại chủ yếu như tài sản đệm và tài sản bảo đảm trong giao dịch tiền mã hoá, và đó không phải một giai đoạn quá độ đang chờ chuyển thành thanh toán — đó là công dụng đang nuôi sống quy mô ba trăm tỷ đô la.
+
+Hệ quả của cách đọc này là một rủi ro không có trong danh sách tám nhóm của bài. Nếu quy mô stablecoin là **nội sinh với hoạt động thị trường tiền mã hoá** chứ không với nhu cầu thanh toán, thì khối lượng dự trữ — tức khối lượng tín phiếu kho bạc mà các bên phát hành nắm giữ — sẽ phình ra khi thị trường tiền mã hoá sôi động và co lại khi nó nguội.
+
+Đây là một cơ chế **thuận chu kỳ**, và nó nguy hiểm hơn kênh lan truyền mà bài mô tả. Bài lo về việc bán tháo tín phiếu khi có làn sóng quy đổi hoảng loạn, tức một sự kiện hiếm. Cơ chế thuận chu kỳ thì không cần hoảng loạn: chỉ cần thị trường tiền mã hoá đi xuống là cung stablecoin co lại một cách bình thường, kéo theo việc bán tín phiếu ra. Và thị trường tiền mã hoá đi xuống thường trùng với những giai đoạn tâm lý né rủi ro chung — tức là việc bán tín phiếu xảy ra đúng lúc các bên khác cũng đang cần tiền mặt.
+
+### Chín mươi bảy phần trăm neo vào đô la là một cánh cửa chỉ mở một chiều
+
+Bài gọi đúng tên hiện tượng: đây là đô la hoá kỹ thuật số. Nhưng điều cần nhấn mạnh thêm là **hình thái đô la hoá này khác về bản chất với mọi đợt đô la hoá trước đó**, và khác theo hướng tệ hơn cho nước bị tác động.
+
+Đô la hoá cổ điển đòi hỏi tiền giấy vật lý — cồng kềnh, cần buôn lậu hoặc cần hệ thống ngân hàng hợp tác — hoặc đòi hỏi tài khoản ngoại tệ tại một ngân hàng trong nước, tức đòi hỏi sự cho phép ngầm của cơ quan quản lý. Cả hai kênh đều có ma sát, và ma sát ấy chính là công cụ chính sách: chính quyền có thể siết hoặc nới.
+
+Đô la hoá bằng stablecoin chỉ cần một chiếc điện thoại. Không cần ngân hàng trong nước hợp tác, không cần ai cấp phép, không cần tiền giấy qua biên giới. Ma sát gần như biến mất, và cùng với nó là công cụ chính sách.
+
+Điều làm tình huống nghiêm trọng là **tính bất đối xứng**. Những gì đã biết về đô la hoá từ trước tới nay — và đây là một trong các kết quả vững chắc nhất trong kinh tế học tiền tệ — là hiện tượng này có quán tính rất mạnh: một khi giá cả, hợp đồng, tiền tiết kiệm và thói quen thanh toán đã chuyển sang ngoại tệ, chúng không tự quay lại ngay cả sau khi lạm phát đã được kiểm soát và ổn định vĩ mô đã được lập lại. Việc đi vào thì dễ chưa từng có, việc đi ra thì vẫn khó y như cũ.
+
+Kết hợp hai đặc tính đó cho một kết luận về thời điểm hành động: đây là loại rủi ro phải xử lý **trước khi nó xảy ra**, vì sau khi xảy ra thì không còn công cụ hiệu quả. Và nó cũng có nghĩa là lập luận "hãy chờ xem quy mô có đủ lớn không rồi hãy quản" — một lập luận rất hợp lý với đa số rủi ro tài chính — lại là lập luận sai với đúng rủi ro này.
+
+### Sự thật kỹ thuật quan trọng nhất bị chôn trong đặc tính thứ ba
+
+Ở phần liệt kê bảy đặc tính, bài ghi một chi tiết dễ lướt qua: ở đa số stablecoin lớn, **chỉ các đối tác được cấp phép mới quy đổi trực tiếp được với bên phát hành**; người nắm giữ lẻ phải bán trên thị trường thứ cấp.
+
+Chi tiết này thay đổi hoàn toàn bản chất của lời hứa "một đồng stablecoin bằng một đô la". Với người nắm giữ thông thường, cái neo đó không phải một quyền pháp lý mà là **một mức giá thị trường được duy trì bởi hoạt động kinh doanh chênh lệch giá**. Nó giữ được chừng nào việc kinh doanh chênh lệch giá còn có lãi và các đối tác được cấp phép còn sẵn sàng bỏ vốn ra làm.
+
+Nhưng vốn dành cho kinh doanh chênh lệch giá là loại vốn rút lui sớm nhất khi thị trường căng thẳng — nó cần bảng cân đối, cần hạn mức rủi ro, và cần niềm tin rằng mức giá sẽ hội tụ. Đúng vào lúc cái neo cần được bảo vệ nhất thì lực bảo vệ nó yếu nhất. Đây là cùng một cấu trúc đã lộ ra ở các quỹ hoán đổi danh mục trái phiếu vào tháng 3/2020, khi giá thị trường lệch khỏi giá trị tài sản ròng đúng trong những ngày căng thẳng nhất.
+
+Hệ quả cho bảo vệ người tiêu dùng rất trực tiếp và thường bị bỏ qua: gọi các công cụ này là "đô la số" là một mô tả **gây hiểu nhầm về mặt vật chất**, vì người nghe hiểu rằng mình có một khoản đòi nợ theo mệnh giá trong khi thực tế mình có một tài sản thị trường không có quyền đòi. Đây cũng là lý do điểm mạnh nhất trong bốn khung quản lý lại là điểm của châu Âu: quyền quy đổi theo mệnh giá và miễn phí **dành cho chính người nắm giữ**, chứ không chỉ cho các đối tác được cấp phép. Đó là điều khoản biến lời hứa thành nghĩa vụ.
+
+### Bốn khung quản lý hội tụ ở phần ống nước và phân kỳ ở đúng phần quyết định
+
+Bài nhận xét rằng bốn khung hội tụ ở cấp phép, chất lượng dự trữ, quyền quy đổi và công bố định kỳ, rồi phân kỳ ở việc ai được phát hành, có trả lãi không, xử lý stablecoin ngoại tệ ra sao, và ngưỡng nào là hệ thống. Bài coi phần phân kỳ là nguồn của arbitrage pháp lý và kêu gọi phối hợp quốc tế.
+
+Nhưng hãy nhìn vào **nội dung** của sự phân kỳ, và một mô thức rõ ràng hiện ra. Hoa Kỳ cấm trả lãi — để bảo vệ tiền gửi ngân hàng trong nước. Châu Âu hạn chế stablecoin ngoại tệ làm phương tiện thanh toán rộng rãi — để bảo vệ đồng euro. Nhật Bản chỉ cho ngân hàng và tổ chức được cấp phép phát hành — để giữ việc tạo tiền trong hệ thống ngân hàng. Anh áp hạn mức nắm giữ với loại đạt quy mô hệ thống — để bảo vệ khả năng kiểm soát của ngân hàng trung ương.
+
+Bốn điểm phân kỳ, bốn cách bảo vệ một lợi ích chủ quyền khác nhau. Đây **không phải sự khác biệt ngẫu nhiên** do các nước chưa kịp bàn với nhau. Đó là kết quả của việc mỗi tài phán nội hoá đúng mối lo lớn nhất của mình.
+
+Từ đó suy ra hai điều mà bài không nói. Thứ nhất, lời kêu gọi phối hợp quốc tế sẽ thành công ở phần ống nước — nơi mọi người đã đồng ý — và sẽ thất bại ở đúng bốn điểm quan trọng nhất, vì mỗi nước sẽ không nhượng bộ ở điểm chạm vào chủ quyền tiền tệ của mình. Thứ hai, và hữu dụng hơn: **mỗi điểm phân kỳ là một mẫu thiết kế có thể mượn**, và nước nào nên mượn mẫu nào thì tuỳ vào mối lo nào là mối lo của mình.
+
+Điều này nối với một quan sát lịch sử mà bài nêu ra rồi bỏ dở. Bài so sánh nguy cơ phân mảnh với thời kỳ tiền ngân hàng tư nhân thế kỷ mười chín, khi mỗi loại giấy bạc giao dịch ở một mức chiết khấu khác nhau. Nhưng bài không kể phần kết: tình trạng đó không chấm dứt vì cạnh tranh thị trường chọn ra người thắng, mà vì nhà nước **tạo ra một đồng tiền quốc gia thống nhất và đánh thuế giấy bạc tư nhân tới mức chúng biến mất**. Giải pháp lịch sử cho sự phân mảnh tiền tư nhân là một hành động chủ quyền bằng pháp luật, không phải một kết quả của thị trường. Điều đó gợi ý khá mạnh rằng hồi kết của chuyện stablecoin cũng sẽ được quyết định bằng luật, và cách châu Âu đang làm chính là phiên bản hiện đại của cùng động tác đó.
+
+### Với Việt Nam: đây là bài về rủi ro thứ tư và thứ năm, không phải về tám rủi ro
+
+Trong tám nhóm rủi ro mà bài liệt kê, phần lớn không phải rủi ro của Việt Nam. Rủi ro rút chạy hàng loạt và rủi ro lan truyền sang thị trường tín phiếu kho bạc là rủi ro của hệ thống tài chính Hoa Kỳ, nơi dự trữ được đầu tư. Rủi ro phi trung gian hoá ngân hàng chỉ nghiêm trọng khi người dân có thể giữ số dư lớn bằng stablecoin một cách hợp pháp và tiện lợi.
+
+Hai rủi ro thực sự chạm tới Việt Nam là rủi ro thứ tư, **thay thế tiền tệ**, và rủi ro thứ năm, **lách quản lý dòng vốn**. Và chúng chạm mạnh, vì hồ sơ của Việt Nam khớp gần như hoàn hảo với điều kiện sinh ra cả hai: mức phổ cập tiền mã hoá trong dân cư nhiều năm liền thuộc nhóm cao nhất thế giới theo các chỉ số quốc tế; tài khoản vốn chưa tự do hoá và giao dịch ngoại hối của cá nhân bị hạn chế; một lịch sử dài người dân tự phòng vệ giá trị tài sản bằng vàng và đô la mỗi khi có bất ổn; và một dòng kiều hối rất lớn tạo sẵn thói quen giao dịch xuyên biên giới ở cấp hộ gia đình.
+
+Đặt trong khung của bài, điều đó có nghĩa là **kênh ma sát mà quản lý ngoại hối dựa vào đã bị vòng qua**. Các biện pháp quản lý dòng vốn được thực thi tại hệ thống ngân hàng đại lý; token chuyển từ ví sang ví không đi qua đó. Đây không còn là một rủi ro lý thuyết mà là một mô tả về hiện trạng.
+
+Và chính bài đã nói ra điều làm cho lựa chọn chính sách trở nên hẹp: **lệnh cấm khó thực thi**. Khi mức phổ cập đã cao trong điều kiện chưa có khuôn khổ pháp lý, đó là bằng chứng thực nghiệm rằng việc ngăn chặn bằng cách không thừa nhận đã không hiệu quả. Lựa chọn thực tế vì vậy không phải giữa chấp nhận và cấm, mà giữa **một dòng chảy được nhìn thấy và một dòng chảy không được nhìn thấy**.
+
+Nếu phải chọn một mẫu thiết kế trong bốn mẫu, mẫu của châu Âu là mẫu gần nhất với mối lo của Việt Nam, vì nó là mẫu duy nhất trong bốn mẫu **nhắm thẳng vào rủi ro thay thế tiền tệ** chứ không phải vào rủi ro ổn định tài chính. Cấu trúc của nó gồm ba phần đi cùng nhau: thừa nhận và cấp phép để có dữ liệu và có điểm thực thi; hạn chế riêng việc dùng stablecoin ngoại tệ làm phương tiện thanh toán rộng rãi trong nước; và song song đó hiện đại hoá hệ thống thanh toán nội tệ để cạnh tranh về tiện lợi thay vì chỉ cạnh tranh bằng lệnh cấm. Phần thứ ba là phần quan trọng nhất và cũng là phần Việt Nam đã làm tốt nhất — chuyển khoản tức thời và quét mã phủ rộng đã loại bỏ phần lớn lý do tiện lợi để người dân tìm tới một công cụ thanh toán khác.
+
+Điều còn lại chưa được xử lý là lý do thứ hai khiến người ta tìm tới stablecoin, và nó không phải tiện lợi mà là **mong muốn giữ giá trị bằng đô la**. Với lý do đó, không có cải tiến thanh toán nào chạm tới được. Chỉ có ổn định vĩ mô, lạm phát thấp và một mức lợi tức thực dương trên tiết kiệm bằng nội tệ mới cạnh tranh được — đúng như kết luận cổ điển về đô la hoá, chỉ là lần này thời gian để hành động ngắn hơn nhiều.

@@ -215,3 +215,71 @@
 > "Deficits reflect underlying economic trends, which may be desirable or undesirable for a country at a particular point in time."
 
 > "There is no reason why a country should not import goods of today and export goods of tomorrow."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Một câu ngắn trong bài chứa lập luận kinh tế học có sức nặng nhất chống lại chủ nghĩa bảo hộ
+
+Giữa phần trình bày cách đọc thứ hai, bài viết một câu gọn: "các chính sách bảo hộ khó có ích trong việc cải thiện cán cân tài khoản vãng lai vì không có liên hệ rõ ràng nào giữa bảo hộ và tiết kiệm hay đầu tư".
+
+Câu này quan trọng hơn vị trí nó được đặt, vì nó không phải một lý thuyết mà là hệ quả của một **đồng nhất thức kế toán**: cán cân vãng lai bằng tiết kiệm quốc gia trừ đầu tư. Hai vế bằng nhau theo định nghĩa, không phải theo giả thuyết. Muốn thay đổi cán cân vãng lai thì phải thay đổi tiết kiệm hoặc đầu tư. Thuế quan không trực tiếp làm việc đó; nó chỉ làm thay đổi **thành phần** của dòng thương mại — ai bán cho ai — chứ không làm thay đổi tổng.
+
+Mười mấy năm sau, mệnh đề này đã trải qua một thí nghiệm ở quy mô lớn nhất có thể. Các đợt áp thuế quan diện rộng của Mỹ đã làm thâm hụt **song phương** với nước bị nhắm giảm rõ rệt, trong khi thâm hụt **tổng thể** không giảm. Dòng hàng đơn giản đổi tuyến, đi qua các nước thứ ba — Việt Nam nằm trong số được hưởng lợi nhiều nhất, và đây chính là chủ đề của tài liệu về thương mại và đầu tư ASEAN trong thế giới phân mảnh ở repo này. Hai tài liệu đó và bài này mô tả cùng một hiện tượng từ hai đầu: đồng nhất thức ở đây giải thích vì sao việc tái định tuyến là kết quả tất yếu chứ không phải hiện tượng bất ngờ.
+
+Cần công bằng với một điểm mà bài nói hơi quá dứt khoát. Thuế quan **có thể** ảnh hưởng tới cán cân vãng lai, nhưng chỉ qua kênh gián tiếp: tăng thu ngân sách làm tăng tiết kiệm công, hoặc làm tăng bất định khiến đầu tư giảm. Vấn đề là **dấu của hai kênh này không xác định trước**, và độ lớn thì nhỏ so với biến động của tiết kiệm tư nhân và ngân sách. Với người hoạch định chính sách, đó là tin xấu hơn cả kết luận "không có tác dụng": nghĩa là dùng thuế quan để sửa cán cân vãng lai không những khó thành công mà còn không biết sẽ đi về hướng nào.
+
+### Ba "cách đo" không phải ba giả thuyết cạnh tranh, và việc nhầm lẫn điều đó là lý do tranh luận không bao giờ kết thúc
+
+Bài trình bày ba cách đọc — chênh lệch xuất nhập khẩu, chênh lệch tiết kiệm và đầu tư, thương mại liên thời gian — như ba góc nhìn bổ sung cho nhau. Đúng, nhưng cần nói rõ hơn một điều mà bài để ngầm: cả ba đều là **đồng nhất thức mô tả cùng một con số**. Chúng không thể mâu thuẫn với nhau và không có cách nào chọn cái đúng hơn, vì cả ba đều đúng đồng thời và luôn luôn.
+
+Điều này nghe như một chi tiết kỹ thuật nhưng lại giải thích hình dạng của mọi tranh luận về thâm hụt thương mại. Người theo phe bảo hộ chọn cách đọc thứ nhất và kết luận rằng đối tác chơi xấu. Nhà kinh tế chọn cách đọc thứ hai và kết luận rằng nước mình tiết kiệm quá ít. Không ai sai về số học, và vì vậy không ai thuyết phục được ai — hai bên đang dùng cùng một phương trình nhưng đặt nguyên nhân ở hai vế khác nhau.
+
+Đồng nhất thức không cho biết **nhân quả chạy theo chiều nào**, và bài không cung cấp tiêu chí nào để quyết định điều đó. Nó nói rằng thâm hụt "phản ánh các xu hướng kinh tế nền tảng, có thể đáng mong muốn hoặc không", rồi dừng lại. Đây là chỗ bài đúng về mặt trí tuệ nhưng gần như vô dụng về mặt thực hành: một nhà hoạch định đọc xong vẫn không biết thâm hụt của nước mình thuộc loại nào.
+
+Có một tiêu chí thực dụng mà bài đủ nguyên liệu để nêu và không nêu: hãy nhìn vào **thứ đang tăng**. Nếu thâm hụt giãn ra vì tỷ lệ đầu tư tăng, đó là một tín hiệu; nếu vì tỷ lệ tiết kiệm giảm, đó là tín hiệu khác hẳn; và nếu vì đầu tư tăng nhưng đầu tư ấy đổ vào bất động sản chứ vào năng lực sản xuất thương mại được, thì nó thuộc loại thứ hai dù trông giống loại thứ nhất.
+
+### Hai ví dụ đối lập của bài có một điểm phân biệt rõ ràng mà bài không chỉ ra
+
+Bài đặt cạnh nhau hai nhóm: Úc và New Zealand duy trì thâm hụt khoảng 4,5–5% GDP suốt nhiều thập kỷ không sao; Mexico năm 1995 và Thái Lan năm 1997 thì đảo chiều dữ dội. Rồi bài liệt kê một danh sách dài các yếu tố rủi ro mà không nói yếu tố nào phân biệt được hai nhóm này.
+
+Nhưng có một yếu tố làm được điều đó, và nó nằm ngay trong danh sách của bài dưới cái tên "đô la hoá nợ": **đồng tiền ghi nợ**. Úc và New Zealand vay bằng chính đồng tiền của mình, hoặc phòng hộ được rủi ro tỷ giá. Mexico và Thái Lan vay bằng ngoại tệ.
+
+Khác biệt này không phải về mức độ mà về **dấu**. Khi một nước vay bằng đồng tiền của mình gặp áp lực, đồng tiền mất giá, giá trị thực của khoản nợ giảm, và xuất khẩu rẻ đi — cơ chế điều chỉnh tự động theo hướng có lợi. Khi một nước vay bằng ngoại tệ gặp áp lực, đồng tiền mất giá, giá trị nợ tính theo nội tệ **tăng vọt**, bảng cân đối của người vay xấu đi, và tình hình tự khuếch đại theo hướng có hại. Cùng một mức thâm hụt, cùng một cú sốc, hai động lực học ngược chiều nhau.
+
+Đây là điều quan trọng nhất mà một nước đang phát triển cần rút ra từ bài, và nó bị chôn trong một danh sách chín yếu tố rủi ro ngang hàng nhau. Con số cần theo dõi không phải quy mô thâm hụt mà là **tỷ trọng nợ nước ngoài ghi bằng ngoại tệ và không được phòng hộ**.
+
+### Chuỗi nhân quả lớn nhất của bài bị cắt thành ba mảnh nằm rời nhau
+
+Bài chứa ba quan sát, đặt ở ba chỗ, và không bao giờ nối lại.
+
+Mảnh thứ nhất: các đợt đảo chiều tài trợ đột ngột "rất phá hoại", buộc cắt tiêu dùng và đầu tư, và nước đó bị ép chạy thặng dư lớn để trả nợ — với hai ví dụ Mexico 1995 và Thái Lan 1997.
+
+Mảnh thứ hai: "vốn tư nhân thường chảy **từ các nước đang phát triển sang các nền kinh tế tiên tiến**", tức ngược chiều so với dự đoán của lý thuyết. Bài ghi nhận điều này như một nghịch lý và giải thích một phần bằng việc hệ thống tài chính trong nước kém phát triển.
+
+Mảnh thứ ba: IMF đang tiến hành tham vấn đa phương về mất cân bằng toàn cầu với Trung Quốc, khu vực euro, Nhật Bản, Saudi Arabia và Mỹ.
+
+Ba mảnh này là một chuỗi nhân quả duy nhất. Các đợt đảo chiều thập niên 1990 dạy cho các nền kinh tế châu Á một bài học rất cụ thể: phụ thuộc vào tài trợ bên ngoài là nguy hiểm, và người ta không muốn phải quay lại xin cứu trợ. Phản ứng hợp lý của từng nước là **tự bảo hiểm** bằng cách tích luỹ dự trữ ngoại hối quy mô lớn, và muốn tích luỹ dự trữ thì phải chạy thặng dư vãng lai. Tổng của hàng chục quyết định tự bảo hiểm hợp lý ấy chính là dòng vốn chảy ngược lên dốc ở mảnh thứ hai, và chính là sự mất cân bằng toàn cầu ở mảnh thứ ba.
+
+Nói cách khác, cái mà IMF đang tổ chức tham vấn để giải quyết chính là **hậu quả có hệ thống của bài học mà các nước đã rút ra từ những cuộc khủng hoảng trước đó**. Đây là điều mà một tài liệu của IMF khó nói thẳng, nhưng nó giải thích vì sao các cuộc tham vấn ấy không đi tới đâu: không nước nào từ bỏ tấm bảo hiểm của mình vì lợi ích của sự cân bằng toàn cầu, khi cái giá của việc không có bảo hiểm đã được chứng minh bằng kinh nghiệm cay đắng.
+
+Phần kết cục cũng đáng ghi lại. Mất cân bằng toàn cầu có thu hẹp đáng kể sau năm 2008 — nhưng không phải nhờ phối hợp chính sách mà nhờ một cú sụp đổ của cầu ở các nước thâm hụt. Đó là cách xấu nhất trong mọi cách để đạt được cân bằng.
+
+### Bài phân tích một dòng, trong khi vấn đề đã chuyển sang các tồn kho
+
+Đây là giới hạn khái niệm lớn nhất khi đọc bài hôm nay. Toàn bộ khung phân tích xoay quanh **cán cân vãng lai** — một dòng chảy trong một năm. Sau 2008, trọng tâm của cả ngành đã dịch sang hai đại lượng khác mà bài không nhắc tới.
+
+Thứ nhất là **vị thế đầu tư quốc tế ròng**, tức tồn kho tích luỹ của tài sản trừ nợ với nước ngoài. Dòng và tồn kho không khớp nhau đơn giản như phép cộng, vì giá trị tài sản và nợ thay đổi theo giá thị trường và theo tỷ giá. Một nước có thể chạy thâm hụt nhiều năm mà vị thế ròng xấu đi chậm hơn nhiều so với tổng các khoản thâm hụt, nếu tài sản nó nắm ở nước ngoài sinh lời cao hơn thứ nó nợ. Điều đó không sửa được đồng nhất thức nhưng làm thay đổi hẳn đánh giá về mức độ nguy hiểm.
+
+Thứ hai, và quan trọng hơn với ổn định tài chính, là **dòng vốn gộp** thay vì dòng ròng. Cán cân vãng lai chỉ cho biết chênh lệch. Một nước có thể có cán cân vãng lai gần bằng không trong khi ngân hàng của nó vay khổng lồ từ nước ngoài và cho vay khổng lồ ra nước ngoài — tổng phơi nhiễm rất lớn, chênh lệch bằng không. Đó chính là tình trạng của nhiều nước châu Âu trước năm 2008, và các đổ vỡ ngân hàng ở đó không thể nhìn thấy trên bất kỳ số liệu cán cân vãng lai nào. Nói cách khác, con số mà bài phân tích không phải là con số dự báo được khủng hoảng tài chính; nó chỉ dự báo được khủng hoảng cán cân thanh toán kiểu cũ.
+
+### Với Việt Nam: câu hỏi hôm nay không phải về thâm hụt mà về thặng dư kéo dài
+
+Việt Nam đã đi qua trọn vẹn cả hai nửa của bài, theo đúng trình tự mà bài mô tả.
+
+Giai đoạn trước, Việt Nam chạy thâm hụt vãng lai rất lớn, có năm vượt xa ngưỡng mà bài coi là thận trọng, và đi kèm gần như đủ bộ các dấu hiệu cảnh báo trong danh sách của bài: tỷ giá thực lên giá, tăng trưởng tín dụng trong nước rất nhanh, dự trữ ngoại hối mỏng so với nhập khẩu, và một phần đầu tư đổ vào bất động sản thay vì năng lực sản xuất. Các đợt căng thẳng tỷ giá và lạm phát hai con số sau đó là phiên bản nhẹ của đúng cơ chế mà bài mô tả, chỉ không đi tới mức đảo chiều đột ngột như Thái Lan 1997 — một phần vì dòng vốn vào chủ yếu là FDI chứ không phải vay ngân hàng ngắn hạn, tức đúng yếu tố "thành phần dòng vốn vào" mà bài nhấn mạnh.
+
+Giai đoạn sau, và kéo dài đến nay, Việt Nam chạy **thặng dư vãng lai dai dẳng**. Đây là chỗ khung của bài trở nên khó chịu. Theo cách đọc tiết kiệm trừ đầu tư, một nước thặng dư là nước có tiết kiệm trong nước **vượt** đầu tư trong nước — tức đang cho phần còn lại của thế giới vay. Với một nền kinh tế còn nghèo vốn, còn thiếu hạ tầng giao thông, điện và đô thị, việc xuất khẩu tiết kiệm sang các nước giàu là một nghịch lý cần được giải thích chứ không phải một thành tích cần được chúc mừng. Chính bài đã nêu nghịch lý này ở tầm toàn cầu; Việt Nam là một ví dụ sách giáo khoa của nó.
+
+Có hai cách giải thích và chúng dẫn tới hai chính sách khác nhau. Nếu nguyên nhân là **tự bảo hiểm** — tích luỹ dự trữ sau ký ức về các đợt căng thẳng trước đây — thì đây là cái giá có ý thức của sự an toàn, và câu hỏi là mức dự trữ bao nhiêu thì đủ, sau ngưỡng đó thì phần tích thêm là lãng phí. Nếu nguyên nhân là **hệ thống tài chính không chuyển được tiết kiệm trong nước thành đầu tư trong nước** — thị trường vốn nông, doanh nghiệp tư nhân khó tiếp cận tín dụng dài hạn, dự án hạ tầng vướng thủ tục — thì thặng dư là triệu chứng của một tắc nghẽn cần xử lý, và xử lý nó sẽ vừa nâng tăng trưởng vừa tự động thu hẹp thặng dư. Bài đã gợi đúng khả năng thứ hai khi nói các hệ thống tài chính kém phát triển "không thể phân bổ vốn nước ngoài hiệu quả".
+
+Còn một hệ quả chính trị không thể tránh. Thặng dư của Việt Nam, phần lớn tập trung vào một đối tác duy nhất, là nửa kia của một thâm hụt song phương mà chính bài đã cảnh báo sẽ kéo theo "doanh nghiệp, công đoàn và nghị sĩ chỉ tay buộc tội". Đồng nhất thức của bài nói rằng đối tác ấy không thể sửa được cán cân tổng thể của mình bằng cách nhắm vào Việt Nam — nhưng điều đó không ngăn được việc Việt Nam phải chịu hệ quả. Đọc cùng các tài liệu về phân mảnh thương mại và chiến tranh trợ cấp trong repo, kết luận thực tiễn là: quy mô thặng dư song phương là một **biến rủi ro chính sách đối ngoại**, độc lập với việc nó có hợp lý về kinh tế hay không.

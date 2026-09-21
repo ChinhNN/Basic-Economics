@@ -418,3 +418,45 @@
 > "More than three-quarters of measures occur within a 30-day window of at least one other action."
 
 > "About one-third of the motivations are not linked to the state of the business cycle."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Con số "bỏ lỡ hơn 80%" đúng về số đếm nhưng chưa chắc đúng về tầm quan trọng
+
+Câu khẩu hiệu của bài — tài khoản vốn chỉ chiếm **8.023 trong 41.030 thay đổi, tức 19,6%** — sẽ được trích dẫn nhiều nhất, và cũng là chỗ cần đọc cẩn thận nhất.
+
+Con số ấy phụ thuộc vào hai lựa chọn mà bài không đặt thành vấn đề. Thứ nhất là **mở rộng định nghĩa**: bốn trong tám nhóm — thu xếp thanh toán 14,7%, giao dịch vô hình 12,5%, thanh toán nhập khẩu 10,5%, nguồn thu xuất khẩu 7,2% — về mặt phân loại là hạn chế giao dịch vãng lai. Gọi chúng là "hạn chế dòng vốn xuyên biên giới" là một mệnh đề kinh tế hợp lý, nhưng vẫn là một mệnh đề chứ không phải một sự thật thống kê. Thứ hai, và nghiêm trọng hơn: **chỉ số đếm coi một yêu cầu khai báo giấy tờ ngang một lệnh cấm toàn diện**. Chính bài chứng minh thang đo này không trung lập — khi gán trọng số cường độ, nước trung bình chỉ nới khoảng **10 biện pháp** thay vì **40**.
+
+Phát biểu chính xác vì thế là: *tính theo số lần ban hành*, tài khoản vốn chiếm một phần năm. Nó không đồng nghĩa với "bốn phần năm tác động chính sách nằm ngoài tài khoản vốn" — khoảng cách giữa hai cách đọc là khoảng cách giữa một đóng góp vững và một khẩu hiệu.
+
+### Phát hiện 77% là quả bom đặt ngay dưới lời hứa của chính bộ dữ liệu
+
+Kết quả **hơn ba phần tư biện pháp xuất hiện trong cửa sổ 30 ngày quanh một biện pháp khác**, và **35% trùng đúng ngày**, là phát hiện có sức tàn phá lớn nhất của bài. Nhưng cách bài rút ra hàm ý lại nhẹ hơn thực tế cho phép.
+
+Bài viết rằng bộ dữ liệu ngày "cung cấp đủ thông tin để xử lý các yếu tố gây nhiễu đó". Đây là chỗ lập luận trượt: các biện pháp đi cùng gói **không phải biến gây nhiễu cần kiểm soát mà là một phần của chính liều điều trị**, nên đưa chúng vào vế phải là kiểm soát một biến nằm trên đường nhân quả — một sai lầm quen thuộc, không phải một cách sửa. Hàm ý trung thực hơn và khó chịu hơn là: **đơn vị chính sách không phải một biện pháp mà là một gói**, nên phần lớn tài liệu vi mô ước lượng tác động của từng sự kiện kiểm soát vốn thực ra đang ước lượng tác động gói, và không biến kiểm soát nào chữa được.
+
+Điều này đặt dấu hỏi lên chính lời quảng cáo về tần suất ngày, ở đây cũng như ở tài liệu về thước đo cường độ chính sách trong cùng thư mục. Tần suất ngày chỉ mua thêm độ chính xác nhận diện khi các cú sốc chính sách tách biệt nhau trong thời gian, mà số liệu của bài nói rằng ở ba phần tư trường hợp chúng không tách biệt. Giá trị thật của nó vì thế không phải để nhận diện sạch hơn, mà để **nhận diện đúng biên của gói** — một công dụng khiêm tốn hơn nhưng chắc chắn hơn.
+
+### Hai phát hiện trong cùng một bài triệt tiêu lẫn nhau, và bài không để ý
+
+Bài đưa ra hai bộ kết quả về động cơ, đặt cách nhau vài mục, và chúng không tương thích.
+
+Bộ thứ nhất là kinh tế chính trị: các nước ban hành nhiều hạn chế hơn trong **năm bầu cử, hệ số +0,529**, và thể chế càng yếu càng dùng nhiều — tham nhũng **−0,447**, hồ sơ đầu tư **−0,408**, luật pháp và trật tự **−0,233**. Quan trọng nhất, chỉ số rủi ro tổng hợp **giữ ý nghĩa cả khi kiểm soát hiệu ứng cố định theo nước**, tức cùng một nước cũng siết nhiều hơn trong giai đoạn rủi ro cao. Điều này loại bỏ lời bào chữa dễ nhất, rằng đó chỉ là khác biệt cơ cấu giữa các nhóm nước.
+
+Bộ thứ hai là động cơ tự tuyên bố, thu từ phát biểu và báo cáo chính thức cho **153 biện pháp ở 41 nước sau 2012**: **37% sợ dòng ra**, **31% sợ thả nổi**, **22% sợ vay mượn quá mức**, **20% mục tiêu dài hạn**.
+
+Không nhà chức trách nào tuyên bố "chúng tôi siết vì sắp bầu cử". Nếu bộ kết quả thứ nhất đúng thì bộ thứ hai là một **cuộc khảo sát về ngôn ngữ biện minh, không phải về động cơ**. Bài trình bày cả hai như hai mảnh bổ sung nhau, trong khi mảnh đầu chính là lý do mạnh nhất để không tin mảnh sau. Thêm vào đó, mệnh đề an ủi rằng các biện pháp "mục tiêu dài hạn" **có thể làm tăng độ mở trên thực tế** là một lập luận không thể bác bỏ bằng dữ liệu, nên cũng không dùng để ủng hộ điều gì được.
+
+Hệ quả chính sách mà bài ngụ ý nhưng không dám phát biểu thì rất rõ: Quan điểm Thể chế 2012 coi biện pháp quản lý dòng vốn là công cụ kỹ trị được dùng khi hoàn cảnh cho phép. Bằng chứng ở đây nói rằng một phần đo được của việc sử dụng bám theo **chu kỳ bầu cử và điểm yếu thể chế** — tức những lý do mà khuôn khổ đó không hề tính đến. Đó là một lập luận cho **quy tắc và cam kết trước thay vì tuỳ nghi**, và bài để nó lại trên bàn.
+
+### Độ tin cậy của một chỉ số tích luỹ 73 năm dựng từ một bộ phân loại có 13% bất đồng
+
+Kết quả kỹ thuật đáng học nhất của bài không nằm ở kinh tế học: một mô hình **BERT 110 triệu tham số** được tiền huấn luyện tiếp trên đúng kho văn bản AREAER đánh bại các mô hình sinh lớn hơn nhiều ở mọi chiều, rõ nhất ở loại hạn chế với **0,767 so với 0,567** của GPT-4o mini. Với phân loại văn bản chuyên ngành có kho ngữ liệu riêng, chuyên môn hoá thắng quy mô.
+
+Nhưng cần thẳng thắn về hệ quả tích luỹ. Bất đồng giữa hai người gán nhãn lên tới **13% ở chiều siết hay nới**, và mô hình đạt **0,870** so với **0,907** của người, trên **41.030 mục**. Sai số ngẫu nhiên phần nào triệt tiêu trong một tổng, nhưng iBoP-C cộng siết trừ nới rồi tích luỹ từ 1950, nên mọi lệch hệ thống — chẳng hạn xu hướng đọc văn bản cũ, ngôn ngữ trang trọng hơn, thành "siết" — đều **cộng dồn chứ không trung hoà**, mạnh nhất ở đầu chuỗi nơi chất lượng nhận dạng ký tự cũng kém nhất. Các tương quan kiểm chứng **0,880 tới 0,967** trấn an phần nào, nhưng mọi bộ đối chiếu cũng đọc từ chính AREAER: đó là kiểm chứng tính nhất quán khi đọc cùng một nguồn, không phải kiểm chứng độc lập với thực tế.
+
+### Với Việt Nam: bộ công cụ thật của Việt Nam nằm gần trọn trong "phần 80%" kia
+
+Đây là tài liệu có giá trị thực tiễn cao nhất trong nhóm bốn bài về đo lường, vì một lý do đơn giản: các công cụ Việt Nam thực sự dùng để quản lý dòng ngoại tệ hầu như không nằm ở chương tài khoản vốn. **Yêu cầu hồi hương và nộp lại ngoại tệ, quy định thị trường ngoại hối, tài khoản của người cư trú và không cư trú, chứng từ cho thanh toán nhập khẩu** — bốn nhóm này cộng lại chiếm khoảng 40% số thay đổi trong bộ dữ liệu và là chỗ đặt phần lớn ma sát thực tế với một doanh nghiệp Việt Nam. Một nhà nghiên cứu dùng Chinn–Ito hay FKRSU cho Việt Nam sẽ gần như không thấy gì trong số đó. Thêm một sự thật cách điệu chạm trực tiếp: **công cụ dựa trên giá gần như không đổi suốt bảy thập kỷ** trong khi công cụ hành chính và dựa trên lượng được nới mạnh — Việt Nam nằm hẳn ở phía hành chính, nghĩa là dư địa tự do hoá còn lại đúng ở nhóm công cụ mà thế giới đã nới nhiều nhất.
+
+Và kết quả rằng hệ số khủng hoảng **không có ý nghĩa thống kê nếu chỉ nhìn tài khoản vốn và khu vực tài chính**, nhưng là **1,507** với khủng hoảng tiền tệ và **2,532** với khủng hoảng nợ công khi mở rộng phạm vi, là cảnh báo cụ thể cho mọi đánh giá về sức chống chịu đối ngoại của Việt Nam: chỉ số độ mở tài khoản vốn nói rất ít về việc nền kinh tế sẽ phản ứng thế nào khi áp lực tỷ giá đến. Điểm này khớp với tài liệu về hạn chế thanh toán thương mại và kiểm soát vốn trong thư mục ASEAN 2026, nơi kênh vãng lai được chứng minh có sức nặng riêng lên cán cân đối ngoại.

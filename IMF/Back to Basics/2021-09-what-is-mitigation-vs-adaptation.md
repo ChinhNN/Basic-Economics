@@ -144,3 +144,47 @@
 > "Four-fifths of global emissions are not priced, and the global average emissions price is only $3 a ton."
 
 > "Unlike our metaphorical boat, there is only one Earth: our efforts to keep it afloat are a task of existential proportions."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Ẩn dụ chiếc thuyền che mất khác biệt quan trọng nhất giữa hai mặt trận
+
+Hình ảnh bịt lỗ và tát nước rất dễ nhớ, nhưng nó gợi ý rằng giảm nhẹ và thích ứng là hai việc cùng loại, chỉ khác thời điểm tác dụng. Thực ra chúng khác nhau ở một điểm căn bản mà bài không nêu: **giảm nhẹ là hàng hóa công toàn cầu, còn thích ứng gần như là hàng hóa tư nhân của từng nước**.
+
+Một tấn CO2 mà Việt Nam không thải ra làm lợi cho cả thế giới, và Việt Nam chỉ nhận được một phần cực nhỏ của lợi ích đó. Ngược lại, một con đê ở Cà Mau bảo vệ đúng phần đất của Việt Nam, lợi ích gần như hoàn toàn thuộc về người trả tiền. Đây chính là lý do sâu xa của hai hiện tượng mà bài mô tả như hai vấn đề riêng biệt: vì sao giảm nhẹ cần **thỏa thuận quốc tế và sàn giá chung** (không ai tự nguyện làm đủ), và vì sao thích ứng lại **thiếu tài trợ quốc tế** (không nước giàu nào thấy lợi ích trực tiếp khi trả tiền xây đê cho nước khác).
+
+Đáng chú ý là số tiếp theo của chính chuyên mục này bàn đúng về hàng hóa công toàn cầu và vấn đề kẻ đi nhờ xe. Đặt hai bài cạnh nhau, khung phân tích thiếu ở bài này nằm sẵn ở bài kia. Nếu áp khung đó vào đây, ta rút ra một kết luận mà bài không dám nói thẳng: **khoản thiếu hụt tài chính thích ứng không phải là một thất bại kỹ thuật cần sửa bằng cam kết tốt hơn, mà là kết quả dự đoán được từ cấu trúc động cơ**. Nó sẽ không tự đóng lại, và những con số 140–300 tỷ USD đến 2030 nên được đọc như một mô tả về khoảng cách sẽ tồn tại, chứ không phải một mục tiêu sẽ đạt.
+
+### Con số "1 USD đổi 10 USD" là một tỷ suất xã hội đang bị dùng như một tỷ suất đầu tư
+
+Bài đặt cạnh nhau hai mệnh đề mà nếu cả hai cùng đúng thì thị trường vốn toàn cầu đang bỏ lỡ một cơ hội sinh lời khổng lồ: thích ứng cho tới **10 USD lợi ích ròng trên mỗi 1 USD bỏ ra**, nhưng các nước đang phát triển không huy động được vốn vì chi phí vay quá cao.
+
+Mâu thuẫn này chỉ biến mất khi nhận ra tỷ suất 10:1 là một **tỷ suất lợi ích xã hội**, không phải dòng tiền mà chủ đầu tư thu về được. Phần lớn lợi ích của một đê biển hay một hệ thống cảnh báo sớm là thiệt hại **không xảy ra** — mà thiệt hại không xảy ra thì không ai viết hóa đơn được. Chính "cổ tức ba lần" mà bài ca ngợi lại là lý do khiến dự án khó tài trợ: cả ba tầng lợi ích đều khuếch tán, không tầng nào quy được thành doanh thu.
+
+Bài trượt qua chỗ này, và hệ quả là khuyến nghị "giúp các nước tài trợ bền vững cho đầu tư thích ứng" trở nên mơ hồ. Nếu vấn đề là chi phí vốn, giải pháp là bảo lãnh và vốn ưu đãi. Nếu vấn đề là lợi ích không thu hồi được, thì không mức lãi suất nào làm dự án khả thi về mặt thương mại, và câu trả lời buộc phải là ngân sách công hoặc viện trợ. Hai chẩn đoán dẫn tới hai chính sách hoàn toàn khác nhau, và bài không phân biệt.
+
+### Vòng luẩn quẩn được mô tả đúng nhưng chiều nhân quả bị kể ngược
+
+Bài dựng vòng luẩn quẩn theo thứ tự: không gian tài khóa hẹp → không thích ứng được → cú sốc khí hậu nặng hơn → phần bù rủi ro tăng → vay đắt hơn → càng hẹp.
+
+Thứ tự này hàm ý rằng thị trường tài chính định giá rủi ro khí hậu một cách nhìn xa, phạt các nước chưa thích ứng. Bằng chứng từ 2021 đến nay cho thấy điều ngược lại thì đúng hơn: thị trường phần lớn **không định giá rủi ro khí hậu cho tới khi thiên tai thực sự xảy ra**, rồi định giá lại đột ngột sau đó. Khác biệt này rất quan trọng về mặt chính sách. Trong phiên bản của bài, một nước đầu tư vào chống chịu sẽ được thưởng ngay bằng chi phí vay thấp hơn, tạo ra cơ chế tự tài trợ. Trong phiên bản thực tế, phần thưởng chỉ đến sau khi cơn bão đi qua và người ta thấy nước này thiệt hại ít hơn nước bên cạnh — tức là sau khi tiền đã tiêu xong rất lâu.
+
+Đây cũng là lý do thị trường bảo hiểm thảm họa là mắt xích quyết định mà bài không nhắc tới. Khi bảo hiểm định giá được rủi ro theo địa điểm, nó tạo ra tín hiệu giá tức thời cho việc xây ở đâu và xây thế nào — thứ mà chi phí vay quốc gia không bao giờ làm được ở mức chi tiết đó. Chủ đề rủi ro và cách định lượng nó cũng là trọng tâm của nhóm tài liệu về quản trị rủi ro trong kho này, và thích ứng khí hậu là một trong những lĩnh vực mà khoảng trống giữa rủi ro đã biết và rủi ro được định giá là lớn nhất.
+
+### Thuế carbon có một nghịch lý tài khóa mà bài nhắc tới nguồn thu mà không nhắc tới hạn dùng
+
+Bài coi nguồn thu từ thuế carbon là một lợi thế: dùng để giảm các sắc thuế nặng nề khác, tài trợ phát triển, và bù cho hộ thu nhập thấp trong chuyển đổi công bằng. Nghe hợp lý, nhưng có một vấn đề về thiết kế ngân sách dài hạn.
+
+Thuế carbon là sắc thuế **duy nhất mà thành công của nó phá hủy chính cơ sở thuế của nó**. Nếu giá carbon làm đúng việc phải làm, phát thải giảm dần về gần không, và nguồn thu cũng vậy. Trong khi đó, các khoản chi được gắn vào nguồn thu này — trợ cấp cho hộ nghèo, hỗ trợ người lao động ngành than — lại là những khoản chi có tính vĩnh viễn về mặt chính trị: rất khó cắt một khoản trợ cấp đã đi vào đời sống. Kết quả là một cấu trúc ngân sách có nguồn thu co lại theo thời gian và khoản chi không co lại.
+
+Điều này liên quan trực tiếp tới các tài liệu khác trong kho về nguyên tắc đánh thuế và về việc thuế giá trị gia tăng tiếp tục mở rộng: một nước xây dựng chương trình chi tiêu dựa vào nguồn thu carbon sẽ phải tìm nguồn thay thế trong 15–20 năm, và thực tế nguồn thay thế khả dĩ nhất chính là thuế tiêu dùng diện rộng. Nói cách khác, chuyển đổi công bằng tài trợ bằng thuế carbon là một giải pháp bắc cầu, không phải một giải pháp bền, và bài trình bày nó như thể là giải pháp bền.
+
+### Với Việt Nam: cơ chế truyền dẫn giá mà bài dựa vào đang bị cắt đứt ở khâu quan trọng nhất
+
+Toàn bộ lập luận về hiệu quả của định giá carbon dựa trên một chuỗi: thuế đánh vào nhiên liệu → chi phí chuyển vào **giá điện và giá xăng** → hộ gia đình và doanh nghiệp thấy giá đắt hơn → họ đổi hành vi, chọn nguồn sạch hơn, dùng ít hơn. Bài còn nêu con số cụ thể: ở mức 75 USD/tấn, giá điện tăng trung bình 45% và giá xăng tăng 15% trong mười năm.
+
+Chuỗi này giả định giá điện là giá thị trường. Ở Việt Nam, giá bán lẻ điện là giá do nhà nước quyết định, điều chỉnh theo quy trình hành chính và thường bị giữ dưới mức chi phí vì lý do lạm phát và ổn định xã hội. Nếu áp một mức giá carbon mà không cho phép truyền dẫn vào giá bán lẻ, chi phí sẽ dừng lại ở bảng cân đối của doanh nghiệp điện lực nhà nước thay vì đi tới người sử dụng. Khi đó định giá carbon biến thành **một khoản chuyển giao trong khu vực công**, không tạo ra bất kỳ thay đổi hành vi nào — tức là mất hết phần lợi thế mà bài cho rằng định giá carbon có so với biện pháp quy định.
+
+Hệ quả thực tiễn là với Việt Nam, thứ tự cải cách có thể ngược với thứ tự bài gợi ý: **cải cách cơ chế giá năng lượng phải đi trước hoặc đi cùng định giá carbon**, chứ không phải sau. Chừng nào giá điện còn bị nén, các công cụ quy định trực tiếp — tiêu chuẩn hiệu suất, tỷ lệ năng lượng tái tạo bắt buộc, quy hoạch điện — sẽ hiệu quả hơn, dù bài đánh giá chúng thấp hơn.
+
+Một điểm nữa bài không thể lường trước năm 2021: ý tưởng "sàn giá carbon quốc tế" đã không đến dưới dạng một thỏa thuận hợp tác mà đến dưới dạng **cơ chế điều chỉnh carbon tại biên giới của Liên minh châu Âu**, một biện pháp đơn phương áp lên hàng nhập khẩu. Về mặt kinh tế, hai thứ giải quyết cùng một vấn đề mất cạnh tranh mà bài nêu. Về mặt chính trị và về mặt phân phối gánh nặng, chúng hoàn toàn khác nhau: một bên là các nước phát thải lớn cùng nâng giá, bên kia là nước nhập khẩu thu tiền của nhà sản xuất nước ngoài. Với các ngành xuất khẩu thâm dụng năng lượng của Việt Nam — thép, xi măng, nhôm, phân bón — đây không còn là một câu hỏi về chính sách khí hậu mà đã thành một câu hỏi về tiếp cận thị trường, và nó đến sớm hơn nhiều so với mốc 2030 mà bài lấy làm chân trời.

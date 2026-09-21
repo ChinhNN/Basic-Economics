@@ -224,3 +224,65 @@
 > "Bigger shoe size does not cause better reading ability."
 
 > "A regression coefficient provides information only about how small changes—not large changes—in one variable relate to changes in another."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Ví dụ trung tâm của bài chứng minh nhiều hơn điều bài muốn nó chứng minh
+
+Bài dựng một minh hoạ rất gọn: hồi quy lương theo số năm học cho hệ số 1,06; thêm biến IQ vào thì hệ số tụt xuống 0,83. Kết luận được rút ra là trước đó ta đã đánh giá quá cao tác động của giáo dục.
+
+Nhưng hãy nhìn vào độ lớn của sự thay đổi. **Chỉ một biến kiểm soát duy nhất đã làm con số chủ đạo dịch chuyển khoảng một phần tư.** Câu hỏi tự nhiên tiếp theo là: nếu một biến làm được như vậy, thì biến thứ hai, thứ ba, thứ mười sẽ làm gì? Chính bài đã nêu ứng viên tiếp theo — của cải và quan hệ của cha mẹ — và có thể kể thêm chất lượng trường học, nơi sinh sống, sức khoẻ thời thơ ấu, tính kiên trì, mạng lưới xã hội. Mỗi biến thêm vào sẽ làm hệ số dịch chuyển một lần nữa, và **không có quy tắc nào cho biết khi nào thì dừng**.
+
+Đây là điểm mà bài đi tới ngưỡng cửa rồi quay lại. Nó trình bày phương trình thứ hai như thể đó là phương trình đúng và phương trình thứ nhất là phương trình sai. Nhưng quy trình "thêm biến kiểm soát" không phải một quá trình hội tụ về sự thật; nó chỉ là một chuỗi các con số khác nhau, và người nghiên cứu không có cách nào biết mình đang ở đâu trong chuỗi đó. Lời trấn an ngầm rằng cứ kiểm soát đủ nhiều thì sẽ ra nhân quả là niềm tin bị bác bỏ triệt để nhất trong kinh tế học thực nghiệm ba mươi năm qua.
+
+Có một hệ quả thực hành đáng mang theo suốt: khi đọc một nghiên cứu báo cáo rằng hệ số "vẫn có ý nghĩa thống kê sau khi kiểm soát nhiều yếu tố", điều đáng hỏi không phải **bao nhiêu** biến đã được kiểm soát mà là **hệ số đã dịch chuyển bao nhiêu** khi các biến ấy được thêm vào. Một hệ số rất ổn định khi thêm biến là dấu hiệu tốt. Một hệ số nhảy mỗi lần thêm một biến thì con số cuối cùng không đáng tin hơn con số đầu tiên.
+
+### Chính biến kiểm soát mà bài chọn làm ví dụ lại là biến không nên kiểm soát
+
+Đây là điểm phê phán cụ thể nhất có thể nêu với bài, và nó nằm ở ngay trung tâm minh hoạ.
+
+Việc thêm một biến kiểm soát chỉ sửa được thiên lệch khi biến đó là một **nguyên nhân chung** của cả giáo dục lẫn thu nhập — tức nó có trước cả hai. Nếu biến được thêm vào thực ra nằm **trên con đường từ giáo dục tới thu nhập**, thì kiểm soát nó sẽ cắt bỏ một phần của chính tác động ta muốn đo.
+
+IQ rơi vào trường hợp thứ hai nhiều hơn người ta tưởng. Điểm kiểm tra chỉ số thông minh không phải một đặc tính cố định có từ lúc sinh ra; nó phản ứng với việc đi học. Người học thêm nhiều năm làm bài kiểm tra tốt hơn, một phần vì chính những năm học đó. Khi ấy, một phần của con số 0,83 bị giảm so với 1,06 không phải là thiên lệch được sửa, mà là **tác động thật của giáo dục bị xoá đi** vì nó đã chảy qua kênh IQ.
+
+Nói cách khác, không thể khẳng định phương trình thứ hai ít thiên lệch hơn phương trình thứ nhất. Nó có thể thiên lệch theo chiều ngược lại. Bài đã chọn một minh hoạ mà muốn dùng nó đúng thì phải biết trước câu trả lời cho câu hỏi khó nhất: năng khiếu là nguyên nhân của giáo dục hay là kết quả của nó? Và câu hỏi ấy không hồi quy nào trả lời được.
+
+Đây không phải lỗi riêng của tác giả mà là một sai lầm rất phổ biến, đến mức về sau nó có tên riêng — kiểm soát một biến trung gian. Nhưng nó đáng được nêu, vì một bài dạy người đọc cách đọc hồi quy lại vô tình dạy đúng thói quen nguy hiểm nhất: cứ thấy biến nào tương quan thì cho vào.
+
+### Bài mô tả kinh tế lượng của thập niên 1980, trong khi cuộc cách mạng đang diễn ra ngay lúc nó được viết
+
+Toàn bộ khung tư duy của bài là: có một phương trình, thêm biến vào để nó đúng hơn. Nhân quả ngược được nhắc tới trong một đoạn và gạt đi bằng nửa câu — "đòi hỏi các kỹ thuật đặc biệt" — mà không nói kỹ thuật đó là gì.
+
+"Kỹ thuật đặc biệt" ấy chính là thứ đã định hình lại toàn bộ ngành kinh tế học thực nghiệm trong hai thập kỷ tiếp theo, và ý tưởng cốt lõi của nó đối lập với tinh thần của bài. Thay vì cố kiểm soát mọi thứ có thể gây nhiễu — việc bất khả thi, vì luôn còn thứ không quan sát được — người ta đi tìm một **nguồn biến thiên ngoại sinh**: một sự kiện nào đó khiến một số người học thêm vì lý do không liên quan gì tới năng khiếu hay gia cảnh của họ. Một lần đổi luật về tuổi bắt buộc đến trường. Khoảng cách từ nhà tới trường đại học gần nhất. Ngày sinh rơi vào đầu hay cuối năm học. Một cuộc rút thăm. Khi có một nguồn biến thiên như vậy, ta không cần biết mọi yếu tố không quan sát được là gì, vì chúng không liên quan tới ai học nhiều hay ít.
+
+Phân biệt này quan trọng vì nó đổi bản chất của câu hỏi nghiên cứu. Câu hỏi của bài là "mô hình nào đúng"; câu hỏi của cách tiếp cận mới là "**thí nghiệm nào đang tự diễn ra trong dữ liệu này**". Cái đầu đòi hỏi kiến thức đầy đủ về thế giới, thứ không ai có. Cái sau chỉ đòi hỏi một hoàn cảnh may mắn và sự tỉnh táo để nhận ra nó.
+
+Bài viết năm 2006, và đây là thời điểm gần như chính xác của bước ngoặt: các công trình đặt nền cho cách làm này đã có từ thập niên 1990, giáo trình phổ biến hoá nó ra đời vài năm sau bài này, và giải Nobel kinh tế trao cho chính dòng nghiên cứu ấy vào năm 2021. Với người đọc hôm nay, cần đọc bài này như một mô tả chính xác về **giới hạn của hồi quy thuần tuý**, chứ không phải như một hướng dẫn về cách làm thực nghiệm hiện đại.
+
+### Cạm bẫy thứ tư là cạm bẫy quan trọng nhất và lại được viết ngắn nhất
+
+Bốn cạm bẫy được liệt kê như bốn mục ngang hàng. Chúng không ngang hàng. Ba cái đầu là vấn đề **kỹ thuật** — có phương pháp để giảm nhẹ, dù khó. Cái thứ tư là vấn đề **khái niệm**, và không có phương pháp nào xử lý được.
+
+Ví dụ bài đưa ra rất sắc: nếu mọi người cùng lúc có bằng đại học, người vừa tốt nghiệp sẽ không kiếm được nhiều hơn đáng kể, vì tổng cung cử nhân đã tăng vọt. Hãy để ý điều này nói gì. Hệ số 1,06 hay 0,83 đo **lợi tức của việc một người học thêm một năm trong khi mọi người khác giữ nguyên**. Nhưng không một chính sách nào có hình dạng đó. Chính sách giáo dục làm thay đổi trình độ học vấn của cả một thế hệ, tức làm thay đổi đúng cái điều kiện mà hệ số giả định là không đổi.
+
+Khoảng cách giữa hai đại lượng này không nhỏ và không có dấu cố định. Với giáo dục, nó có xu hướng làm hệ số ước lượng **cao hơn** tác động thật của chính sách, vì lợi ích một phần đến từ việc vượt lên người khác chứ không từ năng suất tăng thêm. Hiện tượng lạm phát bằng cấp — cùng một công việc, sau hai mươi năm, đòi bằng cao hơn mà nội dung không đổi — chính là điều này hiện ra trong thực tế.
+
+Điều làm cạm bẫy này đáng đặt lên đầu danh sách là phạm vi của nó. Nó áp dụng cho gần như mọi con số mà kinh tế học đưa cho người hoạch định chính sách: tác động của một khoản tín dụng vi mô ước lượng trên vài nghìn hộ không cho biết điều gì xảy ra khi cả huyện cùng vay; tác động của việc tăng lương tối thiểu trong một hạt không nói được điều gì xảy ra khi cả nước cùng tăng; lợi ích của một nước mở cửa thương mại không nói được điều gì xảy ra khi mọi nước cùng mở. **Mọi hệ số hồi quy đều là câu trả lời cho một câu hỏi nhỏ hơn câu hỏi mà người hỏi đang quan tâm**, và khoảng cách đó thường không được ai đo.
+
+### Hộp về phép màu máy tính kể một câu chuyện tiến bộ, và bỏ mất cái đã bị đánh mất
+
+Hộp cuối bài mô tả với giọng hoài niệm vui vẻ: thập niên 1970, phải đục phiếu hàng giờ hoặc hàng ngày, rồi chờ tới 24 giờ để nhận kết quả của **một** hồi quy, và chỉ một lỗ đục sai là hỏng tất cả. Ngày nay chạy hàng nghìn hồi quy là chuyện thường.
+
+Được kể như một câu chuyện giải phóng. Nhưng ràng buộc ấy cũng là một **cơ chế kỷ luật**, và khi nó biến mất thì thứ nó bảo vệ cũng biến mất theo. Khi mỗi hồi quy tốn một ngày, người nghiên cứu buộc phải quyết định trước sẽ chạy cái gì, vì không có cơ hội thử lại. Giả thuyết được đặt trước dữ liệu. Khi mỗi hồi quy tốn một giây, thứ tự đảo ngược: có thể chạy hàng trăm tổ hợp biến, mẫu con, dạng hàm, và giữ lại tổ hợp nào cho kết quả đẹp. Không cần ai gian lận; chỉ cần mỗi bước đều có vẻ hợp lý lúc đang làm.
+
+Đây là gốc rễ của vấn đề tái lập đã nổ ra trong nhiều ngành khoa học xã hội trong thập niên 2010, và cũng là lý do các quy ước mới ra đời: đăng ký trước kế hoạch phân tích, công bố toàn bộ dữ liệu và mã lệnh, báo cáo mọi đặc tả đã thử chứ không chỉ đặc tả cuối. Tất cả đều là nỗ lực **tái tạo bằng thể chế cái kỷ luật mà chiếc máy đục phiếu từng áp đặt bằng vật lý**.
+
+Với thời điểm hiện tại, sức ép còn tăng thêm một bậc. Khi việc viết mã, dọn dữ liệu và thử đặc tả có thể giao cho công cụ tự động, chi phí của việc tìm kiếm một kết quả đẹp tiến gần về không, trong khi chi phí của việc suy nghĩ kỹ trước khi tìm thì không đổi. Nghĩa là bài học của hộp này ngày càng quan trọng hơn chứ không kém đi, và nó ngược hẳn với thông điệp mà hộp định truyền tải.
+
+### Với người đọc Việt Nam: một thói quen đọc và một thói quen thiết kế chính sách
+
+Ở phía đọc, bốn cạm bẫy của bài tạo thành một bộ câu hỏi nên đặt trước mọi con số được trích dẫn trong tranh luận chính sách. Khi nghe "các tỉnh có chỉ số năng lực cạnh tranh cao hơn tăng trưởng nhanh hơn", câu hỏi là liệu tăng trưởng nhanh có làm doanh nghiệp đánh giá chính quyền tích cực hơn không — nhân quả ngược. Khi nghe "doanh nghiệp có vốn đầu tư nước ngoài có năng suất cao hơn", câu hỏi là liệu nhà đầu tư có chọn đúng những ngành và địa bàn vốn đã có năng suất cao không — bỏ sót biến. Khi nghe "mỗi năm học thêm làm tăng thu nhập bao nhiêu phần trăm", câu hỏi là con số đó đo cho một người hay cho cả một thế hệ — tầm nhìn quá hẹp.
+
+Ở phía thiết kế, có một hệ quả cụ thể hơn và ít được nói tới. Cách tiếp cận hiện đại mà bài chưa kịp mô tả đòi hỏi **một nhóm đối chứng**, và nhóm đối chứng không phải thứ tìm thấy trong dữ liệu — nó phải được tạo ra ở khâu thiết kế chính sách. Một chính sách được áp dụng đồng loạt trên cả nước cùng một ngày là một chính sách **không bao giờ đánh giá được**, vì không còn ai để so sánh. Cùng chính sách ấy, nếu triển khai theo lộ trình so le giữa các tỉnh hay các nhóm huyện — điều thường vẫn phải làm vì lý do nguồn lực — thì tự nó tạo ra một thiết kế đánh giá gần như hoàn hảo mà **không tốn thêm một đồng nào**.
+
+Đây là loại quyết định phải đưa ra trước khi chính sách bắt đầu, không phải sau khi nó kết thúc. Đọc cùng bài về đo lường dịch chuyển thu nhập trong cùng loạt, vốn nhấn mạnh rằng không có dữ liệu bảng theo chiều dọc thì không có câu trả lời nào, thì mẫu số chung hiện rõ: năng lực trả lời câu hỏi "chính sách này có hiệu quả không" là một thứ hạ tầng phải xây trước, và không thể tạo ra hồi tố bằng bất kỳ kỹ thuật thống kê nào.

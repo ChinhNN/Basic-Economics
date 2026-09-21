@@ -132,3 +132,53 @@
 > "LIBOR's importance derives from its widespread use as a benchmark for many other interest rates at which business is actually carried out."
 
 > "LIBOR was often called a 'convenient fiction' because of the disconnect between the LIBORs used as benchmarks and actual borrowing in the London interbank market."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Bài đưa ra chẩn đoán đúng, rồi tường thuật một phương thuốc không thể chữa được căn bệnh đó
+
+Toàn bộ cấu trúc bài đi theo giọng "cứu chứ không bỏ": chính phủ Anh kết luận LIBOR quá quan trọng để vứt đi, nên sẽ siết giám sát, buộc chứng minh bằng dữ liệu, hoãn công bố ba tháng, hình sự hóa việc báo sai, và cắt từ 150 lãi suất xuống 20.
+
+Không gói cải cách nào trong số đó có thể tạo ra thứ đang thiếu. Và bài biết điều đó — đoạn cuối cùng nói thẳng rằng nhiều lãi suất vẫn không có giao dịch thật đứng sau, nên thị trường nên chuẩn bị kế hoạch dự phòng. **Đoạn ngắn nhất và ít nhấn mạnh nhất lại là đoạn đúng nhất.** LIBOR các đồng bảng, euro, yên, franc Thụy Sĩ ngừng cuối 2021; LIBOR đô la Mỹ, thứ quan trọng nhất trong cả họ, ngừng công bố ngày 30/6/2023. Cải cách Wheatley kéo dài tuổi thọ của nó thêm mười năm, không hơn.
+
+Bài học tổng quát đáng giữ: khi một chỉ số đo một thứ không tồn tại, cải thiện quy trình đo không giải quyết được gì. Câu hỏi đúng không phải "làm sao để ngân hàng báo cáo trung thực hơn" mà "có giao dịch nào để báo cáo không".
+
+### Nghịch lý 95% so với một tuần, và lý do nó đã quay lại dưới một cái tên mới
+
+Con số đáng suy nghĩ nhất trong bài nằm ở phần "hư cấu tiện lợi": các ngân hàng thực tế cho nhau vay **một tuần hoặc ngắn hơn**, trong khi gần **95%** hợp đồng tham chiếu LIBOR gắn với kỳ hạn **ba tháng trở lên**. Đây không phải một lỗi kỹ thuật mà là một nhu cầu kinh tế không được đáp ứng: người cho vay và người vay muốn biết trước lãi suất của cả quý, trong khi thị trường liên ngân hàng chỉ sản xuất được thông tin cho vài ngày tới.
+
+Cái thay thế LIBOR ở Mỹ xử lý vấn đề trung thực rất tốt: nó được tính từ hàng nghìn tỷ đô la giao dịch repo thật mỗi ngày, không ai báo cáo gì, không ai thao túng được. Nhưng nó là lãi suất **qua đêm**. Để dùng cho một khoản vay ba tháng, phải cộng gộp lãi suất qua đêm suốt kỳ và người vay chỉ biết mình trả bao nhiêu vào lúc kỳ đã kết thúc — điều mà một doanh nghiệp lập kế hoạch dòng tiền không chấp nhận được.
+
+Thị trường phản ứng bằng cách tạo ra một phiên bản kỳ hạn của lãi suất mới, suy ra từ **hợp đồng tương lai** — tức là từ kỳ vọng của thị trường về lãi suất qua đêm trong tương lai, chứ không phải từ giao dịch vay kỳ hạn thật. Đây là một cải thiện lớn so với việc hỏi ý kiến 18 ngân hàng, nhưng xét về bản chất logic, "hư cấu tiện lợi" đã quay lại: một con số cho kỳ hạn ba tháng, dựng từ một thị trường không giao dịch kỳ hạn ba tháng. Sự khác biệt là giờ đây nó được dựng từ giá thị trường quan sát được thay vì từ lời khai, và đó là một khác biệt thật — nhưng nhỏ hơn cách nó thường được trình bày.
+
+### Chuẩn mới đã gỡ bỏ đúng thứ khiến LIBOR hữu ích với ngân hàng
+
+Đây là hệ quả mà bài không thể lường trước vì nó chỉ lộ ra sau khi chuyển đổi hoàn tất.
+
+LIBOR là lãi suất vay **không có bảo đảm** giữa các ngân hàng, nên trong nó có sẵn một phần bù rủi ro tín dụng ngân hàng. Chuẩn thay thế là lãi suất vay **có bảo đảm bằng trái phiếu kho bạc**, nên phần bù đó bằng không. Trong điều kiện bình thường, chênh lệch nhỏ và không ai bận tâm.
+
+Trong khủng hoảng thì hai chỉ số chạy **ngược chiều nhau**. Tháng 3/2020, khi thị trường hoảng loạn, chi phí vay không bảo đảm của ngân hàng tăng vọt trong khi tiền chạy vào trái phiếu kho bạc kéo lãi suất có bảo đảm xuống gần 0 — khoảng cách giữa hai loại giãn ra hơn một trăm điểm cơ bản trong vài tuần.
+
+Hệ quả với một ngân hàng cho vay theo lãi suất thả nổi neo vào chuẩn mới rất khó chịu: đúng lúc chi phí huy động của chính nó tăng vì thị trường nghi ngờ khu vực ngân hàng, thì lãi suất nó thu từ danh mục cho vay lại giảm. Biên lãi bị ép từ hai phía cùng một lúc, và bị ép mạnh nhất vào đúng lúc ngân hàng dễ tổn thương nhất. Ngành đã thử vài chuẩn thay thế có chứa phần bù tín dụng ngân hàng, một trong số đó bị khai tử năm 2023, và vấn đề đến nay vẫn chưa có lời giải sạch. Nói cách khác: cuộc cải cách giải quyết được bài toán liêm chính và tạo ra một bài toán quản trị rủi ro mới.
+
+Một chi tiết nữa đáng ghi: bài tường thuật việc hình sự hóa báo cáo sai như một trụ cột của cải cách. Hơn một thập niên sau, tòa án cao nhất của Anh đã hủy bản án của những nhà giao dịch bị kết tội thao túng LIBOR nổi bật nhất, với lý do phần hướng dẫn bồi thẩm đoàn đã xử lý sai câu hỏi liệu việc tính đến lợi ích thương mại khi đưa ra một mức báo cáo hợp lệ có cấu thành gian lận hay không. Kết cục này không xóa bỏ bản chất của bê bối, nhưng nó nói một điều đáng suy nghĩ về việc dùng luật hình sự để vá một chỉ số mà chính quy tắc của nó chưa bao giờ định nghĩa rõ thế nào là một con số đúng.
+
+### Phát hiện có giá trị nhất của bài bị chôn ở giữa: minh bạch có thể tự phá hỏng chính nó
+
+Đoạn giải thích vì sao LIBOR **thấp hơn** các chuẩn khác ngay sau Lehman là phần sâu nhất của bài, và nó được viết như một ghi chú kỹ thuật.
+
+Hiệp hội Ngân hàng Anh công bố ngay lập tức báo cáo của từng ngân hàng, chủ đích là buộc họ trung thực vì ai cũng nhìn thấy. Trong thời bình, cơ chế này hoạt động. Trong khủng hoảng, nó đảo ngược hoàn toàn: báo cáo một mức lãi cao đồng nghĩa với việc công khai thừa nhận "không ai muốn cho tôi vay", một tín hiệu có thể tự nó kích hoạt cuộc rút vốn. Nên ngân hàng gặp khó khăn nhất lại có động cơ mạnh nhất để **báo thấp hơn** mức mình thật sự tin.
+
+Nguyên lý rút ra vượt xa phạm vi LIBOR: **mọi cơ chế công bố thông tin mà bản thân việc công bố là một tín hiệu về sức khỏe của người công bố sẽ bị bóp méo đúng vào lúc độ chính xác quan trọng nhất.** Cùng một cơ chế giải thích vì sao ngân hàng né cửa sổ cho vay khẩn cấp của ngân hàng trung ương dù đang cần tiền — vay ở đó bị coi là dấu hiệu tuyệt vọng. Nó cũng giải thích vì sao việc công bố kết quả kiểm tra sức chịu đựng từng ngân hàng là con dao hai lưỡi, một điểm nên đọc cùng bài về kiểm tra sức chịu đựng trong cùng thư mục này. Cải cách Wheatley đã nhận ra và xử lý đúng chỗ này bằng cách hoãn công bố ba tháng — một sửa đổi nhỏ về thủ tục nhưng đúng về nguyên lý.
+
+### Với Việt Nam: chuẩn lãi suất còn yếu hơn LIBOR, và người vay mua nhà là bên chịu
+
+Bài này đọc từ Việt Nam sẽ thấy quen một cách khó chịu.
+
+Lãi suất liên ngân hàng Việt Nam về nguyên tắc có cấu trúc giống LIBOR — do các ngân hàng thành viên báo, thị trường kỳ hạn dài mỏng, giao dịch thật tập trung ở qua đêm và một tuần. Nhưng khác biệt quan trọng là nó hầu như **không được dùng làm chuẩn** cho hợp đồng tín dụng.
+
+Thay vào đó, hợp đồng vay mua nhà lãi suất thả nổi ở Việt Nam thường neo vào "lãi suất tiết kiệm kỳ hạn 12 hoặc 13 tháng của chính ngân hàng cho vay, cộng biên độ". Xét theo tiêu chuẩn mà bài này dùng để phê phán LIBOR, cách làm đó tệ hơn ở mọi chiều: không phải trung bình của một nhóm mà là con số của **một** tổ chức; tổ chức đó chính là bên thu lãi, nên có lợi ích trực tiếp từ việc con số cao lên; không có cơ chế cắt bỏ giá trị cực trị; không có cơ quan quản lý giám sát việc thiết lập; và mức lãi tiết kiệm 13 tháng thường là một sản phẩm rất ít khách hàng thực sự gửi, nghĩa là bản thân nó cũng gần với một con số niêm yết hơn là một giá giao dịch.
+
+Toàn bộ chuỗi lập luận của bài — xung đột lợi ích, thiếu giao dịch nền, cần giám sát nhà nước, cần dữ liệu chứng minh — áp dụng trực tiếp, và áp dụng cho một loại hợp đồng mà bên chịu thiệt là hộ gia đình chứ không phải nhà giao dịch phái sinh.
+
+Hệ quả thứ hai ít được nói tới: khi không có một chuẩn lãi suất đáng tin, thị trường phái sinh lãi suất không thể hình thành, nên doanh nghiệp Việt Nam không có công cụ phòng hộ rủi ro lãi suất. Bài nhắc rằng LIBOR ra đời **chính vì** nhu cầu thanh toán hợp đồng tương lai lãi suất đầu thập niên 1980 — tức chuẩn lãi suất là điều kiện tiên quyết, không phải hệ quả, của một thị trường quản trị rủi ro.

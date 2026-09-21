@@ -548,3 +548,63 @@
 > "The presence of a carbon premium in loan pricing, by itself, does not induce changes in investment strategies. Instead, the carbon premium influences corporate investment decisions primarily through borrower or lender commitments."
 
 > "Carbon-intensive borrowers reduce investment if a prior lead arranger becomes green, pointing to tighter financing constraints."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Phép so sánh "ngang với rủi ro tín dụng" che giấu điều ngược lại với điều nó gợi ý
+
+Câu được nhấn mạnh nhất trong bài là phần bù carbon 1–5 điểm cơ bản "ngang ngửa" phần bù rủi ro tín dụng khoảng 3 điểm. Cách diễn đạt này mượn uy tín của rủi ro tín dụng để nâng tầm rủi ro carbon. Nhưng nếu đọc kỹ thì nó nói điều ngược lại.
+
+AISD bình quân trong mẫu là 223 điểm cơ bản với độ lệch chuẩn 137. Một phần bù 2 điểm là khoảng **1% của mức chênh lệch bình quân và khoảng 1,5% của một độ lệch chuẩn**. Nó nhỏ hơn bước làm tròn thông thường trong đàm phán hợp đồng vay — khoảng cách từ p25 (125 điểm) tới p75 (275 điểm) là 150 điểm. Và phần bù tín dụng dùng làm mốc so sánh cũng nhỏ y hệt, vì phân phối xác suất vỡ nợ lệch cực mạnh (bình quân 0,37% nhưng trung vị chỉ 0,02%), nên đánh giá tại phân vị 90 cho ra một con số bé.
+
+Nói cách khác, bài chứng minh rằng ngân hàng Mỹ **có** phân biệt theo cường độ carbon, và phân biệt đó **có ý nghĩa thống kê ở mọi đặc tả**. Nhưng nó không chứng minh được rằng phân biệt đó đủ lớn để thay đổi quyết định của bất kỳ ai. Đây là khoảng cách giữa ý nghĩa thống kê và ý nghĩa kinh tế, và bài xử lý nó bằng một phép so sánh khéo léo thay vì thừa nhận thẳng.
+
+### Con số quan trọng nhất trong bài bị đặt ở phần mô tả, không phải phần kết quả
+
+Cường độ carbon của doanh nghiệp Mỹ **không giảm một cách có ý nghĩa trong suốt 2010–2023** ở cả ba nhóm ngành. Nhóm cao đi từ khoảng 0,95 xuống khoảng 0,68 với dao động lớn; nhóm trung từ 0,10 xuống 0,04; nhóm thấp gần như phẳng ở 0,02–0,03.
+
+Câu này nằm ở phần thống kê mô tả, trước khi bài bắt đầu chạy hồi quy. Nhưng nó là kết quả nghiêm khắc nhất của cả bài. Toàn bộ bộ máy kỷ luật thị trường — công bố phát thải, mục tiêu giảm phát thải, khoản vay xanh, ngân hàng cam kết SBTi — đã vận hành suốt mười bốn năm trên thị trường tín dụng sâu nhất thế giới, và **đại lượng vật lý mà nó nhắm tới không nhúc nhích**. Bài đo được tín hiệu giá tồn tại, rồi cho thấy lượng không phản ứng. Phần còn lại của bài giải thích vì sao.
+
+### Chiết khấu cam kết lớn nhất ở đúng nơi ít cần nhất
+
+Mọi hệ số tương tác β₃ đều dương, nghĩa là chiết khấu teo dần theo cường độ carbon. Nhưng độ lớn mới là điều đáng nói. Với mục tiêu giảm phát thải, chiết khấu lớn nhất là khoảng 22 điểm ở cường độ bằng 0, còn ở cường độ 4,0 thì **biến mất hoàn toàn**.
+
+Đối chiếu với bảng ngành: dịch vụ tài chính có cường độ bình quân 0,01, công nghệ 0,04, y tế 0,03, truyền thông 0,02. Đây chính là nhóm nhận gần trọn vẹn 22 điểm. Còn tiện ích công cộng có bình quân 1,96 và p75 tới 3,29 — tức phần lớn ngành tiện ích nằm ở vùng chiết khấu gần bằng không.
+
+Hệ quả: **cách rẻ nhất để kiếm 19 điểm cơ bản là làm một công ty phần mềm rồi công bố một mục tiêu**. Cơ chế khuyến khích được thiết kế để thưởng cho cam kết, nhưng trên thực tế nó thưởng cho việc đã sạch sẵn. Đây là lời giải thích cơ học cho việc cường độ carbon không giảm: tiền thưởng chảy tới nơi không có gì để cắt giảm.
+
+Bài ghi nhận rằng kết quả này **ngược với khu vực euro**, nơi tác dụng giảm nhẹ mạnh nhất ở doanh nghiệp ô nhiễm cao. Lời giải thích đưa ra — khoảng cách giữa phát thải thực tế và mục tiêu ở Mỹ quá lớn nên ngân hàng không tin — là hợp lý nhưng không được kiểm định. Đây là chỗ bài kết luận mạnh hơn bằng chứng cho phép.
+
+### Nghịch lý ngân hàng xanh: khử carbon danh mục không phải khử carbon khí quyển
+
+Kết quả ở cột 4 bảng chi đầu tư là kết quả khó chịu nhất và bài chỉ dành cho nó vài dòng: doanh nghiệp phát thải cao **giảm** đầu tư nếu người thu xếp cũ của họ trở thành thành viên SBTi. Ghép với kết quả của Kacperczyk và Peydró mà chính bài trích dẫn — các doanh nghiệp đó cắt nợ, cắt đòn bẩy, cắt quy mô, tăng tiền mặt, **mà không cải thiện kết quả môi trường** — ta có một chuỗi hoàn chỉnh.
+
+Ngân hàng cam kết khử carbon danh mục làm được đúng điều họ cam kết: phát thải trong sổ sách của họ giảm. Nhưng cơ chế thực hiện là **thoái vốn chứ không phải tham gia cải tạo**. Doanh nghiệp phát thải cao bị siết tài trợ, nên họ thu nhỏ lại và phòng thủ bằng tiền mặt, thay vì đầu tư vào công nghệ giảm phát thải — vốn là thứ đòi hỏi chi tiêu vốn lớn. Phát thải không biến mất; nó chỉ chuyển sang bảng cân đối của một bên cho vay không cam kết gì.
+
+Điều này có nghĩa là chỉ tiêu "phát thải tài trợ" (financed emissions) của một ngân hàng riêng lẻ là một thước đo có thể cải thiện mà không cần bất kỳ tấn CO2 nào biến mất khỏi khí quyển. Bài đặt đủ mảnh ghép nhưng không nói ra câu này.
+
+### Phần bù carbon là hiện tượng chu kỳ, không phải hiện tượng cấu trúc
+
+Ba kết quả rời rạc trong bài thực ra là một. Thứ nhất, thắt chặt tiền tệ khuếch đại phần bù carbon — một cú sốc bằng một độ lệch chuẩn thêm khoảng 1,6 điểm ở phân vị 90, tức **gần bằng toàn bộ phần bù cơ sở 1,7 điểm**. Thứ hai, chính sách nới lỏng thời COVID làm phần bù co lại đáng kể. Thứ ba, hồi quy cuốn chiếu cho thấy phần bù đạt đỉnh khoảng 6,3 ở cửa sổ 2014–2019 rồi rơi xuống âm và mất ý nghĩa ở cửa sổ 2018–2023.
+
+Gộp lại: **rủi ro carbon được định giá khi tiền đắt và ngừng được định giá khi tiền rẻ**. Nó không phải là một đánh giá ổn định về giá trị hiện tại của rủi ro chuyển đổi, mà là một thứ xa xỉ mà ngân hàng chỉ thực hành khi điều kiện tín dụng buộc họ phải phân biệt. Hệ quả rất bất lợi: tín hiệu giá sẽ yếu nhất đúng vào những giai đoạn thanh khoản dồi dào — tức là những giai đoạn dài nhất và là lúc phần lớn các quyết định đầu tư dài hạn được ra.
+
+Có một hệ quả thứ hai mà bài không rút. Nếu Đạo luật Giảm Lạm phát góp phần làm phần bù biến mất, thì **trợ cấp tài khoá và tín hiệu giá thị trường là hai thứ thay thế nhau, không phải bổ sung cho nhau**. Toàn bộ nghị trình "huy động tài chính tư nhân cho khí hậu" giả định hai công cụ cộng dồn. Bằng chứng ở đây nói rằng công cụ tài khoá lấn át tín hiệu giá: khi nhà nước bảo lãnh và trợ cấp rủi ro chuyển đổi, ngân hàng không còn lý do tính phí cho nó nữa. Cần nói thêm rằng bằng chứng về IRA yếu — hệ số chỉ có ý nghĩa ở mức 10% với sai số chuẩn 4,8 — và cửa sổ sau tháng 7/2022 trùng với chu kỳ tăng lãi suất mạnh nhất bốn thập kỷ cùng cú sốc giá năng lượng, nên không thể tách riêng tác động của đạo luật.
+
+### Thiết kế nhận dạng mù với đúng lề mà kết quả quan trọng nhất nằm ở đó
+
+Hiệu ứng cố định người cho vay × thời gian là lựa chọn đúng cho câu hỏi "cùng một ngân hàng, cùng một quý, có tính khác nhau không". Nhưng nó **hấp thụ trọn vẹn kênh mà qua đó một ngân hàng rút khỏi cả một ngành**.
+
+Nếu một ngân hàng quyết định không cho vay ngành than nữa, quyết định đó không xuất hiện dưới dạng chênh lệch cao hơn; nó xuất hiện dưới dạng **không có khoản vay nào**. Mà DealScan chỉ ghi các khoản vay đã phát sinh. Toàn bộ lề số lượng — ai bị từ chối, ai không xin nữa vì biết sẽ bị từ chối — nằm ngoài mẫu theo thiết kế. Đây không phải sai sót mà là giới hạn cần nêu rõ, vì chính bài đã cho thấy hiệu ứng thật của ngân hàng xanh xuất hiện ở lề số lượng (đầu tư giảm), không ở lề giá.
+
+Hai điểm kỹ thuật khác đáng dè dặt. Dữ liệu phát thải theo năm được lặp lại cho cả bốn quý, tạo tương quan chuỗi mạnh trong biến giải thích chính, trong khi sai số chuẩn ở các hồi quy định giá chỉ được gộp theo **người cho vay** chứ không theo người vay — hướng này làm sai số chuẩn nhỏ hơn thực tế. Và 2.746 doanh nghiệp khớp được là những doanh nghiệp có báo cáo phát thải cho một nhà cung cấp dữ liệu thương mại, tức là nhóm lớn hơn và nhiều khả năng sạch hơn mức trung bình — chệch theo hướng làm phần bù ước lượng được **nhỏ đi** so với toàn thị trường.
+
+### Ý nghĩa với Việt Nam: vấn đề nằm ở tầng đo lường, không ở tầng định giá
+
+Rất dễ đọc bài này rồi kết luận rằng ngân hàng Việt Nam cũng nên đưa rủi ro carbon vào định giá tín dụng. Nhưng các con số trong bài lại gợi ý một trình tự khác.
+
+Thị trường vay hợp vốn Mỹ là nơi dữ liệu dày nhất, áp lực ESG mạnh nhất, và định chế tài chính chuyên nghiệp nhất thế giới. Ngay cả ở đó, chỉ **2% bên cho vay là thành viên SBTi**, chỉ **1% khoản vay là xanh hoặc gắn bền vững**, chỉ **18% doanh nghiệp có mục tiêu giảm phát thải** — và phần bù đo được là 1–5 điểm cơ bản, hiện đã biến mất. Kỳ vọng rằng chênh lệch lãi vay sẽ làm công việc chuyển đổi ở một hệ thống ngân hàng nông hơn nhiều là không thực tế.
+
+Ràng buộc thực sự đứng trước Việt Nam nằm sớm hơn một bước. Để chạy được phân tích này, nhóm tác giả cần một nhà cung cấp dữ liệu phát thải thương mại và ba vòng ghép nối kỹ thuật, và kết quả cuối cùng vẫn chỉ khớp được 2.746 doanh nghiệp. Việt Nam hiện chưa có tầng dữ liệu phát thải scope 1 và 2 ở cấp doanh nghiệp đủ phủ và đủ chuẩn để bất kỳ ngân hàng nào có thể định giá theo nó, kể cả khi họ muốn. **Thứ tự đúng là nghĩa vụ đo lường và công bố trước, kỳ vọng định giá sau** — và bài này cũng cho thấy công bố phát thải tự nó đã mang lại chiết khấu khoảng 14 điểm, lớn gấp nhiều lần phần bù carbon, tức tầng đo lường có giá trị độc lập với việc thị trường có định giá rủi ro hay không.
+
+Ở tầng giám sát, kết quả về nghịch lý ngân hàng xanh là cảnh báo trực tiếp cho việc thiết kế bất kỳ chỉ tiêu "tín dụng xanh" nào: nếu đặt chỉ tiêu theo tỷ trọng phát thải trong danh mục, ngân hàng sẽ đạt chỉ tiêu bằng cách đẩy khách hàng bẩn sang nơi khác, và tổng phát thải của nền kinh tế không đổi. Điểm này gắn chặt với tài liệu về vai trò của cơ quan quản lý và giám sát tài chính trước rủi ro khí hậu trong cùng thư mục, nơi lập luận trung tâm cũng là ranh giới giữa nhiệm vụ ổn định tài chính và nhiệm vụ chính sách khí hậu.

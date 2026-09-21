@@ -195,3 +195,39 @@ Ba thông điệp rút ra được, kể cả khi chỉ đọc phần tóm tắt
 > "Trade gains in targeted products have not universally translated into stronger overall export performance across ASEAN."
 
 > "While trade reallocation may yield short- and medium-term gains, these gains can be offset over time by higher long-term aggregate losses associated with trade fragmentation."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Đóng góp thật nằm ở việc đảo ngược chiều nhân quả thường được giả định
+
+Cách giải thích phổ biến về việc Việt Nam hưởng lợi từ chiến tranh thương mại là "đơn hàng chuyển hướng": hàng Trung Quốc đi vòng qua Việt Nam để né thuế, phần giá trị gia tăng ở lại rất mỏng, và hiện tượng sẽ tắt khi thuế quan thay đổi. Cách giải thích này phổ biến đến mức gần như mặc định trong giới phân tích.
+
+Bài này nói điều ngược lại: **vốn đến trước, đơn hàng đến sau**. Và đây không phải khác biệt về câu chữ mà là khác biệt về bản chất của hiện tượng. Nếu chỉ là trung chuyển thì nó là một hiện tượng thương mại, có thể đảo ngược trong vài quý. Nếu có nhà máy thật thì nó là một hiện tượng đầu tư, được cố định trong bê tông và hợp đồng thuê đất, và không đảo ngược nhanh được kể cả khi chính sách thuế thay đổi.
+
+Cách nhóm tác giả tách được hai khả năng này cũng đáng học: dùng dữ liệu FDI **cấp doanh nghiệp** để xem vốn chảy vào ngành nào, thay vì dữ liệu tổng theo quốc gia — vốn chỉ cho biết có bao nhiêu tiền vào chứ không cho biết tiền đó làm gì. Việc phân biệt thêm dự án đầu tư mới với thương vụ mua bán sáp nhập là bước thứ hai cùng hướng: chỉ loại thứ nhất mới tạo ra năng lực sản xuất chưa từng tồn tại.
+
+### Một kết luận hiếm gặp: vừa khẳng định thắng, vừa nói thắng là mong manh
+
+Phần lớn nghiên cứu về chủ đề này chọn một trong hai giọng: hoặc ca ngợi các nước hưởng lợi từ tái định tuyến, hoặc bác bỏ rằng lợi ích đó là ảo. Bài này giữ cả hai cùng lúc, và đó chính là điểm mạnh của nó.
+
+Cấu trúc lập luận là: lợi ích **có thật** ở cấp vi mô (đo được, có bằng chứng dòng vốn), nhưng nó là một khoản **phân phối lại** trong một trò chơi mà tổng đang co lại. Thắng một ván trong một sòng bạc đang đóng cửa vẫn là thắng, nhưng không phải là một chiến lược.
+
+### Điểm yếu logic của mệnh đề "sẽ bị bù trừ"
+
+Đây là chỗ cần đọc dè dặt nhất, và không phải vì phần thân bài bị thiếu.
+
+Mệnh đề "lợi ích ngắn hạn có thể bị bù trừ bởi tổn thất dài hạn" đòi hỏi một kịch bản đối chứng: bù trừ so với **thế giới nào**? So với thế giới không có chiến tranh thương mại? Nhưng thế giới đó không còn là lựa chọn của bất kỳ nước ASEAN nào — phân mảnh xảy ra dù họ có làm gì hay không. Câu hỏi thực sự với một nhà hoạch định chính sách Việt Nam không phải "phân mảnh có tệ không" (hiển nhiên là có) mà là "**trong một thế giới đã phân mảnh, tôi nên làm gì**".
+
+Với câu hỏi thứ hai, kết luận của bài lại ngầm ủng hộ việc tận dụng: nếu thu hút được FDI thật vào ngành đúng, phần lợi ích sẽ bền hơn. Hai thông điệp này không mâu thuẫn nhưng dễ bị đọc lẫn lộn thành "đừng bận tâm tới tái định tuyến".
+
+### Với người đọc Việt Nam: chỉ số cần theo dõi không phải là kim ngạch
+
+Hệ quả thực tiễn rõ nhất rút ra được là **kim ngạch xuất khẩu là chỉ số sai** để đánh giá xem Việt Nam có thực sự hưởng lợi hay không. Hai kịch bản rất khác nhau về bản chất — trung chuyển thuần túy và dịch chuyển năng lực sản xuất — lại cho cùng một con số xuất khẩu tăng.
+
+Chỉ tiêu phân biệt được hai kịch bản là **tỷ trọng giá trị gia tăng trong nước trong xuất khẩu**. Đây là con số cần theo dõi theo ngành, đặc biệt với điện tử. Nếu kim ngạch tăng mà tỷ trọng này đứng yên hoặc giảm, thì phần tăng chỉ là lắp ráp khâu cuối và sẽ biến mất cùng lúc với dòng chuyển hướng.
+
+### Mức độ tin cậy của chính tài liệu này
+
+Cần nói thẳng: vì bản PDF mất toàn bộ thân bài, tài liệu này trong tập hồ sơ có giá trị như một **giả thuyết có thẩm quyền**, không phải như một bằng chứng. Kết luận về Việt Nam được phát biểu trong phần tóm tắt, nhưng không có cách nào kiểm tra độ lớn của hệ số, khoảng tin cậy, kiểm định xu hướng song song trước cú sốc, hay độ vững của kết quả. Khi trích dẫn, nên trích như một nhận định của nhóm tác giả IMF chứ không như một con số đã được kiểm chứng.
+
+Trong chín tài liệu của thư mục này, đây là tài liệu có nội dung hứa hẹn nhất với Việt Nam nhưng lại có trọng lượng bằng chứng thấp nhất — một sự trớ trêu đáng ghi nhận.

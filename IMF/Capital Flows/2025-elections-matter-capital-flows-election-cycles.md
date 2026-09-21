@@ -567,3 +567,51 @@
 > "This negative effect is absent in countries with above-average political stability scores."
 
 > "In contrast to global shocks, a deeper financial system may not be sufficient to cushion against political uncertainty."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Nhan đề nói ngược với kết quả cốt lõi: bầu cử không quan trọng, sự mong manh mới quan trọng
+
+Biến giả bầu cử **đứng một mình thì dương và không có ý nghĩa thống kê**: hệ số +0,64. Toàn bộ kết quả của bài chỉ xuất hiện khi đưa thêm chỉ số ổn định chính trị và số hạng tương tác vào cùng lúc.
+
+Cách đọc trung thực nhất vì thế không phải "bầu cử làm dòng vốn giảm" mà là: **bầu cử không tự nó gây ra gì cả; nó là thời điểm mà sự mong manh sẵn có của một nước bộc lộ thành giá.** Ở một nước thể chế vững, kỳ bầu cử là một sự kiện lịch, không phải một sự kiện tài chính.
+
+Điều này cũng có nghĩa là hệ số −11,5 **không được diễn giải như một tác động trung bình**: trong đặc tả có tương tác, đó là tác động tại điểm chỉ số ổn định chính trị bằng 0, một nước không tồn tại trong mẫu. Ghép hai hệ số lại, điểm hoà vốn nằm ở mức chỉ số khoảng 64 (vì 11,5 chia 0,18 ra xấp xỉ 63,9): dưới ngưỡng đó bầu cử rút vốn ra, trên ngưỡng đó bầu cử hút vốn nhẹ vào. Con số này khớp đúng với phát biểu của bài rằng các nước trên mức trung bình không chịu tác động nào, và là cách hữu ích hơn nhiều để ghi nhớ kết quả so với việc trích hệ số thô.
+
+### Con số ấn tượng nhất của bài cũng là con số ít được nhận dạng nhất
+
+Chênh lệch 65 điểm phần trăm giữa việc đương nhiệm thua (−57,3%) và đương nhiệm thắng (+7,6%) sẽ được trích nhiều nhất, và cũng là phát hiện yếu nhất về mặt nhận dạng.
+
+Cả năm biện pháp chống nội sinh của bài — biến công cụ thời gian kể từ lần bầu cử trước, kiểm định Granger, hồi quy giả dược, mô hình logit, mẫu con bầu cử theo lịch — đều nhắm vào **thời điểm** bầu cử. Không biện pháp nào nhắm vào **kết quả** bầu cử. Nhưng kết quả bầu cử hiển nhiên nội sinh với điều kiện kinh tế: đương nhiệm thua khi nền kinh tế xấu, và vốn rút đi khi nền kinh tế xấu.
+
+Điều tương tự đúng với bầu cử ngoài lịch. Bài nói thẳng rằng trong mẫu này chúng **thường được kích hoạt bởi bất ổn chính trị hoặc khủng hoảng**. Nếu vậy thì −48,7% không đo tác động của việc tổ chức bầu cử sớm mà đo tác động của cuộc khủng hoảng đã làm nó phải diễn ra. Nên trích các con số của nhóm phần tư thấp nhất trong quý bầu cử như ước lượng có cơ sở, và trích −57% cùng −49% như **mô tả tương quan trong tình huống khủng hoảng**, không như hiệu ứng nhân quả của kết quả bỏ phiếu.
+
+### Dòng danh mục miễn nhiễm còn FDI thì dai dẳng, và điều đó đảo ngược thứ tự ưu tiên chính sách
+
+Trực giác phổ biến — và toàn bộ bộ công cụ chống dừng đột ngột được xây quanh nó — là "tiền nóng chạy trước khi có biến". Số liệu ở đây nói ngược: **dòng danh mục có hệ số −1,27 và không có ý nghĩa thống kê**. Trong khi đó FDI giảm −3,60 trong quý bầu cử và **vẫn còn âm có ý nghĩa hai quý sau (−0,35)**, còn dòng nợ tuy chịu đòn nặng nhất trong quý bầu cử (−6,08) thì lại không để lại dấu vết dai dẳng nào.
+
+Hệ quả lớn hơn bài nói ra. Nếu bất định chính trị chủ yếu làm chậm FDI chứ không gây tháo chạy danh mục thì **đó không phải là một vấn đề ổn định tài chính mà là một vấn đề năng lực sản xuất**, và hai loại vấn đề này dùng hai bộ công cụ khác hẳn nhau. Dự trữ ngoại hối, hạn mức hoán đổi tiền tệ, biện pháp an toàn vĩ mô, thậm chí một chương trình của IMF — tất cả đều để cầm máu dòng danh mục, và không thứ nào làm một nhà máy bị hoãn khởi công sớm hơn một quý. Thiệt hại không hiện ra trong cán cân thanh toán năm đó; nó hiện ra trong tăng trưởng vài năm sau.
+
+### Một câu ngắn bác bỏ gần như toàn bộ chương trình nghị sự chống chịu quen thuộc
+
+Câu kết của bài — độ sâu tài chính chống được cú sốc toàn cầu nhưng không chống được bất định chính trị trong nước — được viết nhẹ nhàng như một sắc thái bổ sung, nhưng nó là một mệnh đề mạnh.
+
+Chương trình nghị sự chống chịu tiêu chuẩn cho một nền kinh tế mới nổi gồm phát triển thị trường trái phiếu nội tệ, mở rộng cơ sở nhà đầu tư tổ chức, tăng độ sâu hệ thống ngân hàng. Bài này nói rằng với loại cú sốc đang bàn, **toàn bộ danh mục đó có tác động độc lập dương nhưng không có tác dụng đệm nào**. Thứ duy nhất có tác dụng đệm là chất lượng thể chế.
+
+Và trong bảng phân rã trụ cột, trường hợp đáng suy nghĩ nhất là trụ cột thể chế: tác động độc lập chỉ 0,085 và **không có ý nghĩa**, nhưng tương tác 0,62 và có ý nghĩa. Nói cách khác, **chất lượng thể chế gần như không được định giá trong thời bình; nó chỉ lộ giá trị khi có bất định.** Đó cũng là lời giải thích lạnh lùng cho việc vì sao cải cách thể chế luôn bị hoãn: lợi ích của nó không xuất hiện trong số liệu của những năm yên ả.
+
+### Không có phần thưởng dân chủ, nhưng có phần thưởng cho hợp đồng
+
+Bài thử bốn thước đo dân chủ hoá và không thước đo nào có ý nghĩa. Đặt cạnh bảng chỉ số quản trị của Ngân hàng Thế giới thì bức tranh còn sắc hơn: **"tiếng nói và trách nhiệm giải trình" có hệ số độc lập −0,034 và không có ý nghĩa, trong khi pháp quyền là 0,18 và kiểm soát tham nhũng 0,093, cả hai đều có ý nghĩa ở mức cao nhất.** Thông điệp ngầm rất rõ và bài không phát biểu nó: nhà đầu tư quốc tế không trả tiền cho tính đại diện, họ trả tiền cho khả năng dự đoán và khả năng thực thi hợp đồng.
+
+Cần đọc kèm hai hạn chế mà bài nói thẳng: R bình phương trong nhóm chỉ 0,19–0,23, tức bốn phần năm biến thiên của dòng vốn vẫn không giải thích được; và **mẫu không có Trung Quốc** vì thiếu dữ liệu ngày bầu cử, tức mất luôn mô hình đối chứng quan trọng nhất là một nước hút vốn khổng lồ mà không có bất kỳ bất định bầu cử nào.
+
+### Với Việt Nam: đúng mô hình đối chứng bị loại khỏi mẫu, và một chu kỳ tương đương không nằm trong cơ sở dữ liệu nào
+
+Việt Nam thuộc đúng nhóm bị mẫu bỏ qua vì lý do như Trung Quốc. Theo thước đo của bài, bất định bầu cử của Việt Nam bằng không, và kết quả "không có phần thưởng dân chủ" xác nhận rằng điều đó không gây thiệt hại gì cho khả năng thu hút vốn. Tính liên tục chính sách — thứ mà bài đo được giá trị qua mức +7,6% khi đương nhiệm thắng — là tài sản thật và Việt Nam sở hữu nó ở mức cao.
+
+Nhưng cơ chế thực của bài không phải bầu cử mà là **bất định về hướng chính sách dài hạn**, và loại bất định đó không biến mất khi không có lá phiếu, nó chỉ chuyển sang lịch khác: chu kỳ đại hội năm năm, các đợt chuyển giao nhân sự cấp cao, các chiến dịch chỉnh đốn làm chậm phê duyệt dự án trên diện rộng. Không cơ sở dữ liệu bầu cử nào ghi nhận những mốc này, nên theo logic của bài thì có một tác động lẽ ra phải đo mà chưa ai đo.
+
+Hai kết quả ghép lại thành một cảnh báo cụ thể. Loại dòng vốn chịu tác động **dai dẳng** nhất là FDI; và trong tài liệu cùng thư mục về tách lượng khỏi giá, FDI cũng là loại có tới 93% biến động do yếu tố riêng của từng nước quyết định. Với Việt Nam, nơi FDI là dòng vốn chủ lực, hai kết quả này khoá vào nhau: **dòng vốn quan trọng nhất của Việt Nam vừa là dòng ít chịu chu kỳ toàn cầu nhất, vừa là dòng nhạy nhất với bất định chính sách trong nước.**
+
+Các trụ cột mà bài đo được tác dụng đệm — kiểm soát tham nhũng, pháp quyền, chất lượng quản lý, và đặc biệt trụ cột rủi ro đầu tư gồm thực thi hợp đồng, chậm thanh toán và hồi hương lợi nhuận — là đúng những chiều mà chương trình cải cách trong tài liệu Việt Nam 2035 đặt làm trọng tâm. Bài này thêm một lý do định lượng ở chiều mà Việt Nam 2035 không đo: giá trị của thể chế không nằm ở mức dòng vốn trung bình mà ở việc dòng vốn có đứt hay không vào đúng lúc bất định lên cao.

@@ -126,3 +126,53 @@
 > "Raising an economy's growth potential requires stabilization and structural policies that complement one another."
 
 > "Successful implementation of structural policies is possible only after such macroeconomic imbalances have been resolved."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Một phạm trù được định nghĩa bằng cái nó không phải, và cái giá phải trả cho điều đó
+
+Bài định nghĩa chính sách cơ cấu theo lối loại trừ: cái gì không phải quản lý cầu ngắn hạn thì là cơ cấu. Định nghĩa này gọn về mặt sư phạm nhưng có một hệ quả nghiêm trọng mà bài không nêu — nó gộp vào cùng một rổ những thứ có bản chất chính trị hoàn toàn khác nhau.
+
+Hãy so sánh hai mục trong chính danh sách bảy lĩnh vực của bài. "Lập thị trường thứ cấp cho trái phiếu chính phủ" là một vấn đề kỹ thuật: gần như không ai phản đối, không có bên thua rõ ràng, và việc thực hiện chủ yếu là năng lực hành chính. "Nâng tuổi nghỉ hưu" và "thay trợ cấp xăng bằng chuyển tiền mặt" thì ngược lại — chúng chuyển thu nhập giữa các nhóm cụ thể, tạo ra người thua có thể nhận diện được, và thành bại phụ thuộc vào vốn chính trị chứ không phải vào chất lượng thiết kế.
+
+Việc xếp cả hai loại dưới một nhãn duy nhất ngụ ý rằng chúng có chung một cơ sở kỹ trị — rằng chuyên gia biết câu trả lời đúng và việc còn lại chỉ là thực hiện. Đây chính là lý do cụm từ "cải cách cơ cấu" dần mất ý nghĩa mô tả và trở thành một từ chính trị, ở châu Âu trong thập niên 2010 cũng như ở nhiều nước đang phát triển trước đó. Một bài viết nhập môn hoàn toàn có thể nói rõ sự khác biệt này mà không mất tính gọn gàng, và việc không nói là một lựa chọn.
+
+### Quy tắc trình tự "ổn định trước, cơ cấu sau" đúng với nửa danh sách và sai với nửa còn lại
+
+Câu kết luận mạnh nhất của bài — cải cách cơ cấu chỉ có thể thành công **sau khi** mất cân đối vĩ mô đã được xử lý — được phát biểu như một nguyên lý phổ quát. Nhưng nó không đứng vững khi áp lên chính bảy lĩnh vực mà bài liệt kê.
+
+Có nhóm cải cách hoàn toàn không nhạy với chu kỳ: đào tạo cán bộ thuế, đơn giản hóa thủ tục cấp phép, tăng số thẩm phán, cải thiện quản lý chi tiêu công, xây dựng khung giám sát ngân hàng. Không có lý do kinh tế nào bắt phải chờ lạm phát về mục tiêu mới làm được những việc này, và trên thực tế giai đoạn khủng hoảng thường là lúc duy nhất có đủ đồng thuận chính trị để làm.
+
+Có nhóm khác thì cực kỳ nhạy với chu kỳ, và với nhóm này quy tắc của bài không chỉ đúng mà còn chưa đủ mạnh. Bỏ kiểm soát giá năng lượng giữa lúc giá thế giới đang tăng vọt là công thức dẫn đến bất ổn xã hội — đây không phải lý thuyết, đó là điều đã xảy ra ở hàng loạt nước trong 2022. Nới lỏng bảo vệ việc làm giữa suy thoái làm tăng thất nghiệp trước khi tạo ra bất kỳ việc làm nào, vì doanh nghiệp sa thải ngay còn tuyển dụng thì chờ nhu cầu phục hồi.
+
+Nói cách khác, biến số quyết định không phải "mất cân đối vĩ mô đã xử lý xong chưa" mà là **cải cách đó tác động qua phía cầu hay phía cung, và tác động sau bao lâu**. Bài đưa ra một quy tắc một chiều cho một tập hợp không đồng nhất, và đó là chỗ lập luận yếu nhất.
+
+### Đoạn về thị trường lao động đã già đi nhanh nhất, và chính IMF đã đổi ý sáu năm sau
+
+Bài viết dứt khoát: đóng góp an sinh quá cao hoặc lương tối thiểu tương đối cao "đẩy chi phí thuê đến mức cầu lao động co và thất nghiệp tăng". Không có điều kiện, không có phạm vi áp dụng, không có bằng chứng ngược chiều.
+
+Vào thời điểm bài ra đời, nghiên cứu thực nghiệm nổi tiếng nhất về chủ đề này đã gần hai mươi tuổi và cho kết quả ngược lại — so sánh việc làm ngành ăn uống ở hai bang Mỹ giáp nhau khi một bang tăng lương tối thiểu, không tìm thấy sụt giảm việc làm. Dòng nghiên cứu đó tiếp tục phát triển và được trao giải Nobel kinh tế năm 2021.
+
+Điều đáng chú ý hơn là chính loạt Back to Basics đã tự sửa. Bài "Lương tối thiểu có giúp người lao động không?" năm 2019 trong cùng thư mục này trình bày một bức tranh hoàn toàn khác: hiệu ứng lên việc làm nhỏ và phụ thuộc mức lương tối thiểu đặt ở đâu so với lương trung vị, cơ chế hấp thụ có thể là biên lợi nhuận hoặc giá bán chứ không nhất thiết là cắt giảm việc làm. Đọc hai bài cạnh nhau là cách tốt nhất để thấy một quan điểm chính sách dịch chuyển trong nội bộ cùng một tổ chức chỉ trong sáu năm.
+
+Tương tự với trợ cấp thất nghiệp: bài quy kết trợ cấp hào phóng gây thất nghiệp cao qua cơ chế "chủ ngại thuê vì phải đóng bảo hiểm" — một lập luận lẫn lộn giữa nguồn tài trợ (thuế trên tiền lương) với mức thụ hưởng, hai thứ có thể tách rời hoàn toàn về thiết kế.
+
+### Thứ vắng mặt còn nói nhiều hơn thứ có mặt
+
+Danh sách bảy lĩnh vực không nhắc đến ba thứ mà bất kỳ bản liệt kê nào viết hôm nay cũng phải có.
+
+**Chính sách cạnh tranh và mức độ tập trung thị trường.** Bài coi cạnh tranh là kết quả tự nhiên của việc bỏ kiểm soát giá và tư nhân hóa. Mười năm qua cho thấy điều ngược lại cũng xảy ra thường xuyên: thị trường tư nhân tự tập trung lại, quyền định giá tăng, và tỷ trọng thu nhập của lao động giảm. Đây là một trở ngại phía cung, đúng theo định nghĩa của bài, nhưng cách chữa là **thêm** can thiệp nhà nước chứ không phải bớt.
+
+**Khí hậu.** Không có dòng nào. Hôm nay, việc định giá carbon, gỡ trợ cấp nhiên liệu hóa thạch và tái phân bổ vốn khỏi tài sản phát thải cao là nội dung cơ cấu lớn nhất mà hầu hết các nước phải làm, và nó đụng vào đúng những mục mà bài đã liệt kê: giá năng lượng, doanh nghiệp nhà nước, lưới an sinh.
+
+**Chính sách công nghiệp.** Năm 2013, trong khung của bài, mọi can thiệp của nhà nước vào cơ cấu sản xuất đều là méo mó cần gỡ bỏ. Đến giữa thập niên 2020, chính IMF xuất bản cả một dòng nghiên cứu về trợ cấp có mục tiêu, chuỗi cung ứng chiến lược và tác động của thuế quan — các tài liệu về chiến tranh trợ cấp, về mất cân đối toàn cầu gắn với chính sách công nghiệp và thuế quan trong repo đều thuộc dòng này. Khoảng cách giữa hai lập trường không phải là sự tinh chỉnh mà là một sự đảo chiều trí tuệ, và nó xảy ra trong vòng một thập niên.
+
+### Với Việt Nam: bảy lĩnh vực này đọc như một bản kiểm kê, và hạn mức tín dụng là bằng chứng rõ nhất
+
+Trong toàn bộ thư mục Back to Basics, đây có lẽ là bài mô tả sát Việt Nam nhất — không phải vì nó nói về Việt Nam mà vì nó vô tình liệt kê đúng bảy nút thắt.
+
+Rõ nhất là đoạn về khu vực tài chính. Bài giải thích rằng khi không có thị trường thứ cấp trái phiếu chính phủ đủ sâu, ngân hàng trung ương **buộc phải** dùng những công cụ mà bài gọi thẳng là kém hiệu quả hoặc bất công: hạn mức tín dụng và kiểm soát lãi suất. Việt Nam đã phân bổ hạn mức tăng trưởng tín dụng cho từng ngân hàng trong hơn một thập niên sau khi bài này ra đời, và lộ trình gỡ bỏ chỉ mới được đặt ra gần đây. Đây không phải một đặc thù cần bảo vệ mà là triệu chứng của đúng căn bệnh mà bài chẩn đoán, và nó tạo ra hệ quả dây chuyền: tín hiệu lãi suất không truyền dẫn, vốn được phân bổ theo quan hệ với cơ quan cấp hạn mức thay vì theo suất sinh lời, và hoạt động tín dụng bị đẩy ra ngoài hệ thống ngân hàng.
+
+Hai mục khác cũng khớp gần như từng chữ. Doanh nghiệp nhà nước vay ngân hàng thương mại với bảo lãnh hoặc bảo lãnh ngầm của nhà nước, tạo ra **nợ tiềm ẩn** không hiện trên sổ nợ công — đúng cơ chế bài mô tả, và là một trong những rủi ro tài khóa khó định lượng nhất của Việt Nam. Giá điện giữ dưới chi phí sản xuất đã tạo ra khoản lỗ hàng chục nghìn tỷ đồng cho tập đoàn điện lực nhà nước trong 2022–2023, đồng thời trợ giá cho tiêu thụ điện của các ngành thâm dụng năng lượng và làm méo chính tín hiệu giá cần thiết cho chuyển đổi năng lượng.
+
+Điều bài không nói mà người đọc Việt Nam nên tự bổ sung: bảy lĩnh vực này **liên kết với nhau**, nên xử lý từng cái riêng lẻ thường thất bại. Giá điện không thể tăng nếu không có lưới an sinh bù cho hộ nghèo. Doanh nghiệp nhà nước không thể cải cách nếu không có tòa án đủ mạnh để xử lý phá sản và không có thị trường vốn hấp thụ phần tài sản thoái. Báo cáo Việt Nam 2035 của Ngân hàng Thế giới trong repo lập luận đúng theo hướng này ở quy mô một cuốn sách, và tài liệu về chuyển đổi cơ cấu của Thái Lan trong thư mục Asean 2026 cho thấy cái giá của việc dừng lại giữa chừng.

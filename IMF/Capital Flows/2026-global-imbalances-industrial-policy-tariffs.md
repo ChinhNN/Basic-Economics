@@ -484,3 +484,50 @@
 > "The policies may improve external balances, but in doing so exacerbate internal imbalance, resulting in an overheating economy."
 
 > "Tariffs can narrow external deficits if proceeds are used to consolidate government debt, but this effect dissipates if revenues are redistributed to households."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Nghịch lý trung tâm là một con dao sắc, nhưng nó cắt cả tay người cầm
+
+Mệnh đề "chính sách công nghiệp chỉ nâng thặng dư khi nó thất bại" là phát biểu gọn gàng nhất của cả bài, và nó đúng theo logic liên thời gian: nếu năng suất tương lai thực sự cao hơn, hộ gia đình tiêu dùng nhiều hơn ngay hôm nay và doanh nghiệp đầu tư nhiều hơn, nên cán cân **giảm**.
+
+Nhưng cần thấy cái giá phương pháp luận của nó. Nghịch lý này làm cho giả thuyết "chính sách công nghiệp gây ra thặng dư" trở nên **gần như không thể kiểm chứng bằng dữ liệu cán cân**. Thặng dư Trung Quốc giãn rộng không cho phép phân biệt ba câu chuyện khác hẳn nhau: chính sách công nghiệp thất bại và gây phân bổ sai; chính sách công nghiệp không liên quan gì còn nguyên nhân là cú sốc bất động sản; hoặc chính sách công nghiệp thành công nhưng bị một liều đàn áp tiêu dùng đủ lớn che khuất. Cả ba đều cho cùng một dấu trên cán cân.
+
+Bài thừa nhận điều này thẳng thắn đáng khen — rằng rất khó quan sát được mức độ mà các chính sách đã kém hiệu quả hoặc đã được kết hợp với biện pháp đè nén cầu. Nhưng cần gọi đúng tên hệ quả: **chức năng thật của bài là giải giáp một câu chuyện chính trị, chứ không phải thay nó bằng một ước lượng**. Đọc xong, ta biết chắc rằng lập luận "Trung Quốc trợ cấp nên Trung Quốc thặng dư" là ngây thơ về mặt kinh tế học, nhưng không biết thêm được con số nào về đóng góp thật của nó. Con số duy nhất trong phần thực nghiệm — **ít nhất 1% GDP** ở cả hai phía là do cú sốc trong nước — đến từ nghiên cứu khác, và chính bài nói rằng nó để lại phần dư đáng kể.
+
+### Câu quan trọng nhất của bài được viết như một dấu chấm phẩy
+
+Trong danh sách các công cụ "tiết kiệm cưỡng bức", bên cạnh cấm chia cổ tức và yêu cầu dự trữ với nguồn thu xuất khẩu, bài liệt kê: **an sinh xã hội yếu, buộc khu vực tư nhân phải tiết kiệm cao để tự bảo hiểm**.
+
+Câu đó được viết như mục cuối trong một danh sách, nhưng nó có hệ quả chính trị lớn nhất trong cả tài liệu. Nó nói rằng **mức độ mỏng của lưới an sinh là một công cụ chính sách công nghiệp**, ngang hàng với tín dụng chỉ định và trần lãi suất tiền gửi. Ghép với kết quả chính — chỉ chính sách công nghiệp vĩ mô mới nâng được thặng dư rõ rệt, còn trợ cấp ngành thì không — hệ quả rất sắc: **đàm phán quốc tế về mất cân đối đang nhắm sai chỗ**. Nếu mục tiêu là thu hẹp thặng dư, thứ cần đưa lên bàn không phải trợ cấp xe điện hay pin mặt trời, mà là hệ thống hưu trí, bảo hiểm y tế và trần lãi suất tiền gửi của nước thặng dư. Bài dừng ở mô tả cơ chế và để người đọc tự nối.
+
+Đây cũng là chỗ khiến tài liệu khó xử với chính truyền thống của tổ chức phát hành nó: **các công cụ mà bài chứng minh là có hiệu lực — đàn áp tài chính, tiết kiệm cưỡng bức, tích luỹ dự trữ — chính là nhóm công cụ mà IMF đã dành mấy thập kỷ khuyên các nước mới nổi tháo dỡ**. Bài không nói chúng tốt; nó nói chúng hiệu quả, và cái giá là tiêu dùng của chính người dân nước đó bị đè nén.
+
+### Mọi kết luận về đàn áp tài chính đổi dấu tuỳ theo mức độ mở của tài khoản vốn
+
+Đây là chi tiết dễ bị lướt qua nhất mà lại quan trọng nhất về mặt vận dụng.
+
+Cùng một chính sách tiết kiệm cưỡng bức cho hai kết cục ngược nhau:
+
+- **Không có kiểm soát vốn:** tiết kiệm dư thừa chảy ra thị trường vốn toàn cầu, cán cân tăng rõ ràng, tỷ giá thực **xuống giá**. Đây đúng là hình mẫu "thừa mứa tiết kiệm" thập niên 2000.
+- **Có kiểm soát vốn chặt:** tiết kiệm bị "đóng chai" trong nước, lãi suất trong nước giảm, đầu tư tăng bù lại, cán cân **không nhúc nhích**, và tỷ giá thực **lên giá** vì tiêu dùng thấp nén nhập khẩu.
+
+Dấu của tỷ giá đảo ngược, và dấu của cán cân đi từ dương rõ rệt về gần bằng không. Hệ quả mà bài không khai thác: điều này đặt một **điều kiện cần** cho chính câu chuyện đang xét — để đàn áp tài chính ở Trung Quốc tạo ra thặng dư, **kiểm soát vốn của Trung Quốc phải đủ rò rỉ**. Nếu kiểm soát vốn thực sự chặt thì theo chính khung của bài, tiết kiệm cưỡng bức sẽ biến thành đầu tư trong nước chứ không thành thặng dư đối ngoại. Đây là mệnh đề kiểm chứng được và bài bỏ qua. Nói rộng hơn, trong khung này **kiểm soát vốn không phải là hàng rào bảo vệ mà là công tắc đổi dấu**.
+
+### Kết luận về thuế quan hàm ý một điều mà năm 2025 làm cho rất khó nói ra
+
+Chuỗi lập luận về thuế quan khép lại rất chặt: thuế quan vĩnh viễn không làm đổi lựa chọn liên thời gian nên không đổi cán cân, chỉ làm đồng tiền lên giá; thuế quan tạm thời có tác dụng vì nó tạo ra chênh lệch giá theo thời gian; và mô phỏng thuế 10% với nửa đời sống 10 quý cho thấy cán cân **chỉ tăng bền bỉ khi tiền thuế được dùng để trả nợ công**, kèm theo cái giá là sản lượng giảm.
+
+Ghép ba mệnh đề đó lại thì được một kết luận rất cụ thể về chính sách đang diễn ra: một nước nâng thuế quan lên mức cao **và tuyên bố sẽ giữ lâu dài** đã tự vô hiệu hoá kênh liên thời gian; nếu còn đem tiền thuế phát lại cho dân hoặc bù vào giảm thuế thu nhập, thì theo chính mô hình của bài, tác động lên thâm hụt vãng lai **tiến về không**. Thứ còn lại là đồng tiền lên giá và sản lượng thấp hơn. Bài mô tả đầy đủ cơ chế, dẫn Schmitt-Grohé và Uribe rằng cú sốc nhất thời làm tăng cán cân còn thay đổi vĩnh viễn có tác động mờ nhạt, rồi dừng — không đặt tên cho trường hợp hiển nhiên.
+
+Một hệ quả nữa cũng bị bỏ ngỏ: nếu thâm hụt là vĩnh viễn và được bù bằng vị thế đầu tư quốc tế ròng cùng lợi suất vượt trội, thì kết cục do **cấu trúc vị thế tài chính** quyết định chứ không phải cấu trúc luồng thương mại — tức ngay cả thuế quan lớn đến mức đưa thương mại thực về gần bằng không cũng không xoá được thâm hụt. Đây là lời bác bỏ thẳng thừng toàn bộ logic thuế quan song phương, gói trong một đoạn kỹ thuật về giá tài sản.
+
+### Việt Nam nằm ở cả hai phía của tấm gương này
+
+Việt Nam vừa là đối tượng bị nhắm bởi công cụ mà bài chứng minh là yếu, vừa là người đang vận hành đúng bộ công cụ mà bài chứng minh là mạnh.
+
+**Phía bị nhắm.** Nếu thâm hụt vãng lai của Mỹ chủ yếu do tiết kiệm trong nước — thâm hụt chính phủ cao hơn năm 2017 khoảng **2% GDP**, tiết kiệm hộ gia đình giảm mạnh từ 2021, định giá cổ phiếu cao đẩy tiêu dùng — thì **không có nhượng bộ song phương nào từ phía Việt Nam có thể giải quyết vấn đề đó**. Hệ quả không phải an ủi mà là cảnh báo: vì nguyên nhân nằm ngoài tầm với của bên đàm phán, áp lực sẽ không tự hết khi cán cân song phương được thu hẹp. Đây là điểm bổ sung trực tiếp cho tài liệu về thâm hụt tài khoản vãng lai có quan trọng không, vốn lập luận rằng dấu của cán cân tự thân nói rất ít.
+
+**Phía vận hành.** Cấu hình của Việt Nam gần như trùng khít với định nghĩa "chính sách công nghiệp vĩ mô": tài khoản vốn còn kiểm soát, đồng tiền chưa chuyển đổi tự do, tích luỹ dự trữ, tín dụng có yếu tố chỉ định, lưới an sinh mỏng khiến tiết kiệm hộ gia đình cao. Khung của bài cho hai cảnh báo. Thứ nhất, **phần lớn thặng dư sinh ra theo cách đó là tiêu dùng bị hoãn lại, không phải sức cạnh tranh giành được** — mâu thuẫn trực tiếp với mục tiêu thoát bẫy thu nhập trung bình mà tài liệu Việt Nam 2035 đặt ra. Thứ hai, cơ chế "hỗ trợ ngành ngoại thương làm hàng phi ngoại thương khan hiếm, giá tương đối của chúng tăng, tỷ giá thực lên giá và sức cạnh tranh mất đi" chính là **cơ chế bệnh Hà Lan chạy từ phía chế tạo thay vì từ phía tài nguyên**. Với một nền kinh tế mà khu vực FDI xuất khẩu lớn nhanh hơn hẳn khu vực trong nước, việc giá đất, lao động kỹ thuật và dịch vụ hậu cần bị đẩy lên tới mức bóp nghẹt doanh nghiệp nội địa thuộc đúng họ cơ chế này.
+
+Một nhận xét cuối về độ tin cậy. Kết quả ngoạn mục nhất của phần mô phỏng — chỉ tiêu sản lượng làm tỷ giá thực lên giá mạnh và **đảo ngược mọi mở rộng xuất khẩu ròng** — được tạo ra bằng cách mô hình hoá mệnh lệnh nhà nước thành việc doanh nghiệp hạ biên lợi nhuận mong muốn. Đó là xấp xỉ gọn nhưng rất mạnh tay: nó biến một hiện tượng về ràng buộc ngân sách mềm và dư thừa công suất thành một quyết định định giá, và kết quả cuối phụ thuộc gần như hoàn toàn vào độ co giãn thay thế giữa hàng ngoại thương và phi ngoại thương, vốn là tham số hiệu chuẩn chứ không phải ước lượng. Nên coi các dấu định tính là đáng tin, còn độ lớn thì không nên trích dẫn như một ước lượng.

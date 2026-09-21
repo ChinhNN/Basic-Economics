@@ -396,3 +396,47 @@
 > "The value of China's trade alone substantially exceeds the total value of global trade invoiced in renminbi captured in our dataset."
 
 > "Countries that have distanced themselves from China have shown a greater propensity to use the dollar."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Đóng góp bền nhất là một phép tính số học bác bỏ con số 50% đang lưu hành khắp nơi
+
+Con số "một nửa xuất khẩu Trung Quốc nay dùng nhân dân tệ" đã đi vào hàng nghìn bài báo và bài phát biểu về phi đô la hoá. Nó đến từ SAFE, là con số chính thức, và không ai có công cụ để kiểm tra.
+
+Bài này kiểm tra được, bằng một phép quy nạp phi lý. Nhập khẩu định giá bằng nhân dân tệ của toàn bộ 132 nước trong bộ dữ liệu là **khoảng 1,5% tổng nhập khẩu, tức 216 tỷ USD**. Nếu thanh toán đúng bằng định giá thì xuất khẩu Trung Quốc định giá bằng nhân dân tệ phải là **1.646 tỷ USD**, nghĩa là **1.430 tỷ USD** còn lại phải nằm ở các nước ngoài bộ dữ liệu. Nhưng tổng nhập khẩu của nhóm đó **từ Trung Quốc** chỉ là 1.373 tỷ. Tỷ lệ cần thiết là **104%**, bất khả thi về mặt định nghĩa. Giả định thay thế hợp lý — các nước ngoài bộ dữ liệu hành xử giống các nước trong bộ dữ liệu — cho ra **6,5%** thay vì 50%.
+
+Đây là loại công việc ít được tưởng thưởng nhưng có giá trị cao nhất: **không bác bỏ một lý thuyết mà bác bỏ một con số** — và nó nằm trong một tiểu mục kỹ thuật giữa bài, không nằm trong tóm tắt. Phần đối chiếu hai thước đo tư nhân làm rõ thêm vì sao cần thận trọng: chỉ số Standard Chartered tăng từ 100 lên 5.000, trong khi Renminbi Tracker của Swift chỉ đi từ **0,3% năm 2012 lên 3,5% vào tháng 5/2025**. Chênh lệch đó là hệ quả của việc **đếm tốc độ tăng trên nền rất nhỏ thay vì đếm mức**.
+
+### Phân biệt hoá đơn và thanh toán không phải chuyện câu chữ mà là hai môn kinh tế học khác nhau
+
+**Đồng tiền hoá đơn quyết định kinh tế học vĩ mô**: nó là đơn vị mà giá được cố định trong ngắn hạn, nên nó quyết định mức truyền dẫn tỷ giá, quyết định xem phá giá có làm tăng xuất khẩu hay không, quyết định độ hiệu quả của chính sách tiền tệ trong nền kinh tế mở. **Đồng tiền thanh toán quyết định địa chính trị và hạ tầng** — giao dịch đi qua hệ thống nào, ai nhìn thấy, ai chặn được.
+
+Hai thứ này tách rời được hoàn toàn: một hợp đồng ghi giá bằng đô la vẫn có thể thanh toán bằng nhân dân tệ theo tỷ giá quy đổi tại ngày thanh toán. Khi đó nước xuất khẩu **thoát khỏi hệ thống thanh toán đô la nhưng không thoát khỏi đô la làm đơn vị tính toán** — được phần tránh trừng phạt, không được phần chủ quyền tiền tệ.
+
+Nhìn theo cách đó thì toàn bộ chương trình quốc tế hoá nhân dân tệ mà bài liệt kê — thí điểm 2009 rồi mở rộng 2012, thị trường hải ngoại, hoán đổi song phương, Sàn Giao dịch Dầu khí Thượng Hải 2018, Vành đai và Con đường — **đều nhắm vào tầng thanh toán**. Con số 50% của SAFE vì vậy đo mức độ thành công của một công cụ chính sách, không đo sự trỗi dậy của một đồng tiền. Cùng với các tài liệu về ma sát thanh toán và về chặng cuối của thanh toán xuyên biên giới trong thư mục này, ba bài nói về ba tầng của một hệ thống, và chỉ bài này chạm tới tầng đơn vị tính toán — tầng khó thay đổi nhất.
+
+### Kết quả về đô la yếu hơn hẳn tiêu đề, và chính bài cung cấp bằng chứng cho điều đó
+
+Thứ nhất, **tổng tác động sau 2021 với đô la có p = 0,34**, không có ý nghĩa thống kê ở bất kỳ mức thông thường nào, trong khi euro p = 0,08 và nhân dân tệ p = 0,01. Trong ba đồng tiền, **kết quả về đô la là kết quả yếu nhất**, dù nó là kết quả duy nhất độc giả quan tâm.
+
+Thứ hai, và nghiêm trọng hơn: bỏ Nga, Belarus và Uzbekistan thì euro và nhân dân tệ **giữ nguyên**, còn đô la **mất ý nghĩa**. Câu chuyện "rời xa Mỹ thì dùng ít đô la hơn" về cơ bản là **câu chuyện của các nước bị trừng phạt, không phải một quy luật của phân mảnh địa chính trị** — danh sách giảm mạnh nhất, từ Kyrgyzstan khoảng −39 điểm phần trăm và Nga khoảng −25 tới Belarus, Uzbekistan, Ukraine, Armenia, đúng là vành đai trừng phạt.
+
+Thứ ba, có một bất đối xứng về chuẩn mực mà bài không bình luận: với Nga, Belarus, Kazakhstan và Kyrgyzstan, bài **dùng dữ liệu thanh toán thay cho dữ liệu định giá** — đúng phép thay thế mà nó vừa dành cả một mục để chứng minh là không hợp lệ với Trung Quốc. Kết luận công bằng: bằng chứng về **phân mảnh trong định giá là có thật nhưng hẹp**, tập trung ở euro và nhân dân tệ và ở một nhóm nước nhỏ; bằng chứng về đô la suy yếu thì chưa đủ để kết luận.
+
+### Con số bị chôn: rời xa Trung Quốc củng cố đô la mạnh hơn rời xa Mỹ làm suy yếu nó
+
+Hệ số của khoảng cách tới Trung Quốc lên việc dùng đô la là **+0,86**, trong khi hệ số của khoảng cách tới Mỹ là **−0,36**. Rời xa Trung Quốc đẩy một nước về phía đô la mạnh hơn gấp hơn hai lần so với mức mà rời xa Mỹ kéo nước đó ra khỏi đô la. Ghép với một dữ kiện nằm cách đó vài đoạn: giữa 2015–19 và 2022–23, **đa số nước tiến gần Mỹ và rời xa Trung Quốc**, chỉ một nhóm rất nhỏ — Nga, Belarus, Kazakhstan, Uzbekistan, Mali — đi ngược lại.
+
+Nhân hệ số lớn hơn với số nước đông hơn thì kết luận không tránh được: **tính trên toàn cầu, phân mảnh địa chính trị từ 2022 tới nay đã làm tăng chứ không làm giảm vai trò của đô la trong định giá thương mại**. Câu chuyện phi đô la hoá thực chất là hiện tượng địa phương của vài nước bị trừng phạt, diễn ra bên trong một xu hướng tổng thể ngược lại. Thêm nữa, nhóm kém liên kết với Mỹ lại là nhóm dùng đô la **nhiều nhất** — khoảng 70–90% so với khoảng 25% ở nhóm liên kết nhất — nhưng chỉ chiếm **8% xuất khẩu thế giới trong mẫu**: dù họ rời đi hoàn toàn thì hệ thống cũng gần như không nhúc nhích.
+
+Và khi các nước rời đi thật thì họ không chạy sang một đồng tiền thống trị khác: hệ số mạnh nhất thuộc về **đồng tiền thứ ba**, +0,60 với Mỹ và +0,77 với khu vực đồng euro, nhiều khả năng là đồng tiền của nước nhập khẩu. Lối thoát khỏi đô la trên thực tế là **song phương hoá**, và một thế giới nhiều cặp tiền mỏng thì phí cao hơn, khó phòng ngừa hơn, doanh nghiệp tự gánh rủi ro tỷ giá. Không ai thắng; hệ thống chỉ đắt hơn cho tất cả.
+
+### Việt Nam vắng mặt trong chính bộ dữ liệu này, và đó không phải chuyện nhỏ
+
+Bài ghi rõ: Việt Nam không có trong bộ dữ liệu, cùng Nigeria, vì **"không liên lạc được"** — không phải vì hải quan không ghi nhận, lý do của Hong Kong, Singapore và Mexico, mà vì nhóm tác giả không thiết lập được kênh liên hệ suốt một năm, từ tháng 6/2024 tới tháng 7/2025.
+
+Việt Nam nằm trong nhóm nước xuất khẩu lớn nhất thế giới và là mắt xích trung tâm của đúng hiện tượng mà bài nghiên cứu. Vậy mà trong bộ dữ liệu **đầy đủ nhất hiện có** về đồng tiền định giá thương mại toàn cầu, Việt Nam là một ô trống; cùng Hong Kong, Singapore và Mexico, toàn bộ cụm chế biến và tái xuất quanh Trung Quốc gần như vô hình. Chi phí là thật và bất đối xứng: khi Việt Nam bị chất vấn về thặng dư thương mại hay mức phụ thuộc đầu vào Trung Quốc, phía chất vấn dùng số liệu của họ còn Việt Nam không có số liệu của mình trong bộ dữ liệu tham chiếu. Trong khi đó **dữ liệu này đã tồn tại sẵn trong tờ khai hải quan**, và hơn một nửa số nước trong bộ dữ liệu có mặt chỉ nhờ trả lời một yêu cầu trực tiếp.
+
+Về nội dung, khung của bài cho một dự đoán rất cụ thể. Việt Nam nằm trong nhóm 50% trung lập, xuất khẩu chủ yếu sang Mỹ và nhập khẩu đầu vào chủ yếu từ Trung Quốc. Theo cơ chế bài mô tả — định giá nhập khẩu đi theo đối tác, định giá xuất khẩu bám đô la — kết quả sẽ là **tỷ trọng nhân dân tệ trong hoá đơn nhập khẩu tăng dần trong khi hoá đơn xuất khẩu vẫn gần như toàn bộ bằng đô la**. Đó là một dạng lệch đồng tiền mới ở cấp doanh nghiệp, chưa từng tồn tại khi cả hai chân đều bằng đô la: **chi phí đầu vào biến động theo tỷ giá nhân dân tệ, doanh thu biến động theo tỷ giá đô la, và biên lợi nhuận chịu rủi ro của cặp nhân dân tệ–đô la mà không doanh nghiệp Việt Nam nào chủ động chọn** — trong khi công cụ phòng ngừa cho cặp nội tệ với nhân dân tệ lại mỏng hơn nhiều.
+
+Và theo bài, nhóm nước nhập khẩu **ít chuyển sang nội tệ hơn** nhóm xuất khẩu, vì với nền kinh tế mở nhỏ thì định giá nhập khẩu bằng đồng tiền của chính mình rất khó đạt được; với một đồng tiền chưa chuyển đổi tự do, cánh cửa đó gần như đóng. Việt Nam có ba lựa chọn thực tế cho hoá đơn — đô la, nhân dân tệ, hoặc đồng tiền của đối tác — và **đồng tiền của chính mình không nằm trong số đó**. Đây là bối cảnh khiến chủ đề chuyển hướng tiền tệ thực dụng của châu Á, bàn trong thư mục ASEAN 2026, trở nên cụ thể hơn là một khẩu hiệu.

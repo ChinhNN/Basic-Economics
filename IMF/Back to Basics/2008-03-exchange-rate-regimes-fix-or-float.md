@@ -224,3 +224,67 @@
 > "An exchange rate regime that looks soft to one observer may look hard to another."
 
 > "It probably reflects the desire of countries to be perceived as market friendly, as well as a reluctance to be seen as committed to a particular level of the exchange rate."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Việc gần bốn mươi nước khai sai chế độ tỷ giá không phải chuyện sĩ diện mà là chiến thuật
+
+Bài đặt phát hiện thú vị nhất của mình vào một hộp bên lề: 25 nước tự khai là đang chạy một thoả thuận linh hoạt trong khi thực tế có neo thông thường, và thêm 14 nước tự khai thả nổi độc lập trong khi thực tế là thả nổi có quản lý. Gần bốn mươi nước nói một đằng làm một nẻo, trong một hệ thống mà việc giám sát chính sách tỷ giá phụ thuộc vào lời khai của chính họ.
+
+Lời giải thích của bài — các nước "muốn được nhìn nhận là thân thiện với thị trường" — đúng nhưng nhẹ, và nó biến một hành vi có tính toán thành một thói hư danh. Có một lý do mạnh hơn nhiều, và bài chạm vào nó ở nửa sau của cùng một câu: "sự miễn cưỡng bị coi là cam kết với một mức tỷ giá cụ thể".
+
+Hãy triển khai ý đó. Một mức tỷ giá được tuyên bố công khai là một **mục tiêu**. Nó cho giới đầu cơ biết chính xác nơi ngân hàng trung ương sẽ phải đứng ra bảo vệ, và biến một vụ đặt cược thành một canh bạc gần như một chiều: nếu neo giữ được thì mất chút chi phí, nếu neo vỡ thì lãi lớn. Một chế độ quản lý chặt nhưng **không tuyên bố mức nào** mang lại gần như toàn bộ lợi ích ổn định của việc neo, trong khi không tạo ra cái đích để bắn. Sự mập mờ ở đây là một tài sản chiến lược, không phải một khiếm khuyết về minh bạch.
+
+Và có một động cơ thứ hai, quan trọng hơn về mặt chính trị, mà bài hoàn toàn không nhắc: một nước đang giữ tỷ giá ở mức có lợi cho xuất khẩu **rất muốn được phân loại là thả nổi**, vì nhãn "thao túng tiền tệ" kéo theo hậu quả thương mại thật. Cái giá của việc khai đúng không phải là mất uy tín với thị trường mà là thuế quan.
+
+Nếu cả hai động cơ này đều đúng thì hệ quả khá khó chịu: khoảng cách giữa lời khai và thực tế **sẽ không thu hẹp**, và một hệ thống giám sát dựa trên lời khai sẽ luôn mô tả sai bức tranh. Việc IMF bắt đầu phân loại theo thực tế quan sát được từ 1999 chính là sự thừa nhận điều đó, và đó là cải tiến phương pháp quan trọng nhất mà bài ghi lại.
+
+### Bài mô tả cả ba góc của bộ ba bất khả thi mà không bao giờ gọi tên nó
+
+Toàn bộ phần phân loại là một cách trình bày lại một ràng buộc duy nhất, nhưng ràng buộc ấy không xuất hiện trong văn bản. Neo cứng: "ngân hàng trung ương **không có chính sách tiền tệ độc lập**... lãi suất của nó bị gắn với lãi suất của nước có đồng tiền neo". Thả nổi: "mang lại cho các nước **lợi thế duy trì một chính sách tiền tệ độc lập**". Neo mềm: cho phép "một mức độ **linh hoạt hạn chế** của chính sách tiền tệ".
+
+Ba câu ấy là ba điểm trên cùng một đường đánh đổi: khi tài khoản vốn mở, một nước không thể đồng thời có tỷ giá cố định và chính sách tiền tệ độc lập. Nêu ràng buộc này ra biến danh sách ba loại chế độ từ một bảng phân loại thành một **bài toán lựa chọn**, và nó cũng giải thích luôn vì sao chế độ giữa lại bấp bênh: neo mềm là nỗ lực có được một chút của cả hai, và nó chỉ đứng vững chừng nào thị trường chưa buộc nước đó phải chọn.
+
+Điều đã thay đổi kể từ 2008 làm bài toán này khó hơn chứ không dễ hơn. Nghiên cứu về chu kỳ tài chính toàn cầu cho thấy khi tài khoản vốn mở, **ngay cả tỷ giá thả nổi cũng không mua đủ độc lập tiền tệ**: điều kiện tài chính trong nước vẫn bị kéo theo điều kiện tiền tệ ở trung tâm hệ thống, dù tỷ giá có tự do di chuyển. Nếu vậy thì bộ ba co lại thành một lựa chọn nhị phân giữa độc lập tiền tệ và mở cửa tài khoản vốn, và trọng tâm chính sách dịch từ **chọn chế độ tỷ giá** sang **quản lý dòng vốn và dùng công cụ an toàn vĩ mô**. Bài viết trước ngưỡng cửa của sự dịch chuyển đó.
+
+### Vì sao "sự rỗng ruột ở giữa" dừng lại năm 2001 — bài nêu hiện tượng mà không nêu nguyên nhân
+
+Đây là quan sát thực nghiệm quan trọng nhất của bài: xu hướng các nước bỏ chạy khỏi neo mềm về hai cực, bắt đầu khoảng 1990, đã dừng lại năm 2001, và từ đó neo mềm "lấy lại phần nào sự phổ biến trước đây" trong khi nhiều nước trong nhóm thả nổi thực ra đang quản lý tỷ giá.
+
+Bài mô tả sự đảo chiều này rất rõ và không giải thích nó. Lời giải nằm trong chính phần trước của bài, ở câu mô tả cơ chế sụp đổ: các nước "cạn kiệt dự trữ quốc tế để bảo vệ neo và bị buộc phải phá giá".
+
+Nếu neo mềm sụp đổ vì hết đạn, thì cách giữ neo mềm là **có nhiều đạn hơn**. Đó chính xác là điều các nền kinh tế mới nổi làm sau năm 1997: tích luỹ dự trữ ngoại hối ở quy mô chưa từng có, vượt xa mọi chuẩn mực truyền thống về đủ dự trữ. Một neo mềm được hậu thuẫn bằng vài chục tỷ đô la là một lời mời đầu cơ; cùng một neo được hậu thuẫn bằng vài trăm tỷ thì không. "Phần giữa" không được phục hồi nhờ một lập luận lý thuyết mới mà nhờ **được gia cố bằng tiền mặt**.
+
+Điều này nối bài với hai tài liệu khác trong cùng loạt. Bài về thâm hụt vãng lai ghi nhận nghịch lý vốn chảy từ nước nghèo sang nước giàu mà không giải thích; bài về tự do hoá tài khoản vốn ghi nhận rằng các nước nới dần kiểm soát trong khi tiến tới tỷ giá linh hoạt hơn "nhìn chung có kết quả tốt hơn". Ghép cả ba lại thì hiện ra một chuỗi duy nhất: khủng hoảng thập niên 1990 → tích luỹ dự trữ để tự bảo hiểm → thặng dư vãng lai ở các nước mới nổi → mất cân bằng toàn cầu → và, như một tác dụng phụ, phần giữa của phổ chế độ tỷ giá sống lại. Không tài liệu nào kể hết câu chuyện; chúng chỉ kể được khi đọc cùng nhau.
+
+### Iceland nằm trong danh sách ví dụ của bài, và bảy tháng sau nó chứng minh rằng chế độ tỷ giá không phải điều quyết định
+
+Bài liệt kê New Zealand, Thuỵ Điển, **Iceland**, Mỹ và các nước khu vực euro như những nơi ngân hàng trung ương "gần như không bao giờ can thiệp để quản lý tỷ giá" — tức mẫu mực của chế độ thả nổi thuần tuý.
+
+Bài xuất bản tháng 3 năm 2008. Trong mùa thu cùng năm, hệ thống ngân hàng Iceland sụp đổ, đồng krona mất hơn một nửa giá trị, và nước này áp đặt kiểm soát vốn mà phải gần một thập kỷ sau mới gỡ hết. Chế độ thả nổi không bảo vệ được gì cả.
+
+Bài học không phải là thả nổi tệ hơn neo. Bài học là **chế độ tỷ giá không phải ràng buộc quyết định; bảng cân đối mới là**. Nguyên nhân sụp đổ của Iceland là một hệ thống ngân hàng có nợ ngoại tệ lớn gấp nhiều lần GDP, và với cấu trúc đó thì mọi chế độ tỷ giá đều thất bại — chỉ thất bại theo cách khác nhau. Neo cứng sẽ vỡ khi hết dự trữ; thả nổi sẽ cho phép đồng tiền rơi tự do và chính cú rơi đó làm nổ tung bảng cân đối của người vay ngoại tệ.
+
+Điều này định lại toàn bộ trọng tâm của bài. Bài đặt câu hỏi "cố định hay thả nổi", như thể đó là biến chính sách then chốt. Kinh nghiệm sau đó nói rằng câu hỏi quan trọng hơn là: **ai trong nền kinh tế này có nợ bằng ngoại tệ mà không có nguồn thu ngoại tệ, và quy mô bao nhiêu**. Trả lời được câu đó thì mới biết một cú biến động tỷ giá sẽ gây ra chuyện gì; còn tên gọi của chế độ thì không cho biết điều gì cả.
+
+Bài cũng tự nêu hai điều kiện tiên quyết cho thả nổi và chúng là phần thực dụng nhất của cả bài: thị trường ngoại hối "phải đủ sâu để hấp thụ các cú sốc", và "phải có sẵn các công cụ tài chính để phòng hộ". Hai điều kiện này thường được đọc lướt như thủ tục kỹ thuật, trong khi thực ra chúng là **điều kiện đủ**: thiếu chúng thì thả nổi không phải một chế độ chính sách mà là một sự phó mặc.
+
+### Hai kịch bản tương lai đều trượt, và thứ đến thì không nằm trong cả hai
+
+Bài kết bằng hai trường phái: hoặc thế giới co về vài khối tiền tệ với số đồng tiền độc lập giảm xuống "con số một chữ số", hoặc rất nhiều đồng tiền quốc gia tiếp tục tồn tại với các neo danh nghĩa khác nhau.
+
+Trường phái thứ hai thắng rõ ràng: số lượng đồng tiền không giảm. Và lý do thì đáng ghi nhận, vì nó đến từ một thí nghiệm thực tế: khối tiền tệ lớn nhất từng được xây dựng đã trải qua một cuộc khủng hoảng kéo dài nhiều năm ngay sau khi bài này ra đời, cho thấy rằng từ bỏ đồng tiền riêng cũng có nghĩa là từ bỏ cơ chế điều chỉnh duy nhất còn lại khi một cú sốc đánh vào một phần của khối chứ không vào toàn khối. Sau đó gần như không nơi nào trên thế giới còn hào hứng với ý tưởng liên minh tiền tệ.
+
+Nhưng có một hướng phát triển mà cả hai trường phái đều không nhìn thấy, và nó xảy ra **không qua hiệp ước mà qua ứng dụng trên điện thoại**. Các đồng tiền số neo vào đô la thực hiện được cả ba chức năng của tiền trong một nền kinh tế khác mà không cần bất kỳ quyết định nào của chính phủ nước đó. Đây là sự hình thành khối tiền tệ từ dưới lên, do người dùng chọn chứ không do nhà nước chọn, và nó không xuất hiện trong bất kỳ bảng phân loại chế độ tỷ giá nào. Đọc cùng bài về đô la hoá trong cùng loạt và các tài liệu về tiền mã hoá trong repo thì đây là biến số có khả năng làm thay đổi bài toán nhiều nhất trong thập kỷ tới: một nước có thể duy trì chế độ tỷ giá của mình trên giấy trong khi một phần ngày càng lớn của các giao dịch trong nước được định giá và thanh toán bằng một đồng tiền khác.
+
+Một hướng thứ hai cũng nằm ngoài khung của bài: động cơ **địa chính trị** cho việc đa dạng hoá khỏi một đồng tiền neo duy nhất. Khi việc tiếp cận hệ thống thanh toán bằng một đồng tiền có thể bị cắt vì lý do chính trị, lựa chọn đồng tiền tham chiếu không còn thuần tuý là bài toán kinh tế về chi phí giao dịch và ổn định giá.
+
+### Với Việt Nam: bài này mô tả gần như chính xác chế độ của Việt Nam, kể cả phần khoảng cách giữa lời nói và việc làm
+
+Việt Nam vận hành một cơ chế tỷ giá trung tâm được công bố hằng ngày tham chiếu một rổ đồng tiền, với biên độ dao động cho phép — trên giấy là một chế độ khá linh hoạt. Trong thực tế, biến động của tiền đồng so với đô la Mỹ nhỏ hơn nhiều so với biến động của phần lớn đồng tiền mới nổi khác, và mức độ can thiệp là đáng kể. Đây gần như đúng trường hợp mà bài mô tả trong hộp bên lề, và cả hai động cơ đã phân tích ở trên đều hiện diện: giữ được lợi ích ổn định mà không tạo ra một mức tỷ giá để thị trường tấn công, và tránh bị xếp vào diện thao túng tiền tệ trong quan hệ thương mại với đối tác lớn nhất — một rủi ro đã từng hiện thực hoá.
+
+Lập luận bênh vực chế độ hiện tại, theo đúng khung của bài, khá mạnh và nên được nói thẳng. Hai điều kiện tiên quyết của thả nổi đều chưa hội đủ: thị trường ngoại hối chưa đủ sâu, và quan trọng hơn, **phần lớn doanh nghiệp Việt Nam không phòng hộ rủi ro tỷ giá**. Trong điều kiện đó, một biên độ dao động lớn không phải là sự linh hoạt mà là sự truyền thẳng cú sốc vào bảng cân đối doanh nghiệp — đúng cơ chế đã huỷ hoại Iceland. Thêm vào đó là yếu tố mà bài không có ngôn ngữ để diễn đạt: với một nền kinh tế mà phần lớn xuất khẩu do khu vực đầu tư nước ngoài thực hiện và hạch toán bằng đô la, tỷ giá ổn định là một phần của đề xuất giá trị khi thu hút đầu tư.
+
+Cái giá của lựa chọn ấy thì đúng như bộ ba bất khả thi dự đoán và đã hiện ra rõ trong chu kỳ tăng lãi suất toàn cầu gần đây: khi lãi suất ở trung tâm tăng mạnh, Việt Nam phải chọn giữa để tiền đồng mất giá và thắt chặt tiền tệ trong nước vào đúng lúc nền kinh tế cần nới lỏng. Đó không phải sai lầm điều hành mà là hoá đơn của chế độ.
+
+Hệ quả về lộ trình thì rất cụ thể và ngược với trực giác thông thường. Không thể "linh hoạt hoá tỷ giá" trước rồi kỳ vọng thị trường phòng hộ sẽ hình thành sau, vì trong lúc chờ đợi thì các cú sốc đi thẳng vào doanh nghiệp. Thứ tự phải ngược lại: **xây thị trường công cụ phái sinh tỷ giá có thanh khoản, phổ cập việc phòng hộ trong doanh nghiệp, làm sâu thị trường ngoại hối — rồi mới nới biên độ**. Đọc cùng bài về tự do hoá tài khoản vốn và bài về đô la hoá trong cùng loạt, điều kiện tiên quyết chung hiện lên rất rõ: cả ba cải cách — mở tài khoản vốn, khử đô la hoá, linh hoạt hoá tỷ giá — đều phụ thuộc vào cùng một thứ hạ tầng là một hệ thống tài chính trong nước đủ sâu và đủ được giám sát, và không cải cách nào trong ba cái đó đi trước được.

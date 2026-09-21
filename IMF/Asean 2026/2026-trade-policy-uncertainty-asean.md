@@ -431,3 +431,61 @@ Bốn điểm rút ra trực tiếp:
 > "The results should be interpreted as conditional dynamic patterns rather than definitive causal magnitudes."
 
 > "The impulse responses are not statistically significant at most horizons."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Nghịch lý của chương: thủ pháp tốt nhất trong tập, kết quả yếu nhất
+
+Về mặt kỹ thuật, đây là tài liệu được làm cẩn thận nhất trong chín tài liệu của thư mục. Chọn biến kiểm soát bằng LASSO hai bước thay vì theo ý chủ quan; kiểm soát riêng cho moment thứ nhất để tách bất định khỏi tin xấu; bootstrap cụm hoang dã với trọng số Webb vì chỉ có sáu cụm; giải thích rõ vì sao không dùng hiệu ứng cố định theo thời gian; và — bước hiếm gặp nhất — **tham vấn nhà báo đang tác nghiệp cùng giáo sư báo chí** để kiểm tra xem bộ lọc từ khóa có phản ánh đúng cách tin tức thương mại thực sự được viết hay không.
+
+Bước cuối cùng đáng được nhấn mạnh. Điểm yếu cố hữu của mọi chỉ số đếm bài báo là giả định về ngôn ngữ: người nghiên cứu ngồi nghĩ ra danh sách từ khóa và tin rằng nó khớp với thực tế viết lách. Hầu như không ai kiểm chứng giả định đó với người trong nghề. Ở đây thì có.
+
+Và rồi, sau tất cả sự cẩn thận ấy, chương tự thừa nhận: **"các phản ứng xung không có ý nghĩa thống kê ở phần lớn các tầm chiếu."**
+
+Sự trung thực này đáng quý và hiếm. Nhưng nó cũng quyết định cách nên dùng tài liệu: **đọc để lấy khung phân tích, không phải để lấy con số.** Bốn con số −3,7%, +1,3%, −7,1%, −5,7% nên được hiểu là thứ tự tương đối và dấu, không phải độ lớn.
+
+### Ý tưởng độc đáo nhất, và lý do nó có thể vừa mới hết hiệu lực
+
+Kết quả bất định về hiệp định thương mại của chính nước mình có tác động **dương** là điều mới mẻ nhất trong chương, và lời giải thích bằng lý thuyết quyền chọn tăng trưởng rất thuyết phục về mặt logic.
+
+Nhưng toàn bộ lập luận đứng trên một mệnh đề lịch sử mà chương phát biểu thành lời: *"Trong lịch sử, kịch bản xấu nhất của các thỏa thuận thương mại là đàm phán đổ vỡ, quay về nguyên trạng, trong khi phần thưởng tiềm năng thì lớn."*
+
+**Mệnh đề đó có thể không còn đúng.** Trong môi trường thương mại từ 2018 trở đi, đàm phán thất bại không nhất thiết dẫn về nguyên trạng — nó có thể dẫn tới trả đũa, tới thuế quan trừng phạt, tới việc bị loại khỏi một chuỗi cung ứng. Khi đó phân phối kết quả không còn lệch về phía có lợi, và cơ chế quyền chọn tăng trưởng sụp đổ.
+
+Điều đáng chú ý là dữ liệu của chương trải từ 1995 đến 2025, tức phần lớn nằm trong thời kỳ mà mệnh đề kia còn đúng. Hệ số dương +1,3% có thể là một **sự thật lịch sử đã hết hạn** chứ không phải một quy luật. Chương không đặt câu hỏi này, và đây là chỗ hổng lớn nhất trong lập luận — lớn hơn nhiều so với vấn đề ý nghĩa thống kê.
+
+Cách kiểm chứng khá rõ: tách mẫu trước và sau 2018 và xem hệ số này có giữ nguyên dấu không.
+
+### Kết quả đáng tin và đáng dùng nhất
+
+Trong toàn chương, phát hiện về **độ mở thương mại như bộ đệm** là thứ vừa vững về mặt thống kê vừa có giá trị chính sách trực tiếp. Gradient rất rõ và đơn điệu: phân vị 10 chịu −9,4%, phân vị 50 chịu −7,8%, phân vị 90 chịu −2,9% và mất hẳn ý nghĩa thống kê. Với cú sốc bất định hiệp định, ở phân vị 90 hệ số còn đổi dấu.
+
+Điều khiến kết quả này thuyết phục hơn các kết quả khác là nó có **cơ chế đơn giản và khó bác bỏ**: nước mở nhiều cửa thì việc một cửa đóng lại không phải thảm họa. Đây là đa dạng hóa rủi ro ở cấp quốc gia, cùng nguyên lý với đa dạng hóa danh mục đầu tư.
+
+Hàm ý chính sách rất phản trực giác và đáng được nói to: **phản ứng đúng khi đối tác gia tăng bảo hộ không phải là đóng cửa lại để tự vệ, mà là mở thêm về phía khác.** Bản năng chính trị trong những thời điểm như vậy luôn đẩy theo hướng ngược lại.
+
+### Một con số chương đưa ra mà không hề bình luận
+
+Việt Nam đứng đầu ASEAN6 ở **cả bốn** thước đo bất định: bất định bảo hộ của chính mình 102,0, bất định hiệp định của chính mình 137,6, bất định bảo hộ của nước thứ ba 133,5, bất định hiệp định của nước thứ ba 177,3. Không nước nào khác đứng đầu ở dù chỉ một thước đo mà Việt Nam không đứng đầu.
+
+Chương trình bày bảng này rồi đi tiếp. Nhưng nó đáng được đọc kỹ, vì nó không hẳn là tin xấu.
+
+Bất định **của chính mình** cao phản ánh việc Việt Nam liên tục đàm phán và ký kết hiệp định — tức là tin tức về chính sách thương mại Việt Nam nhiều hơn các nước khác. Theo chính kết quả của chương, loại bất định này có tác động **dương**. Bất định **của nước thứ ba** cao thì phản ánh việc Việt Nam giao thương với đúng những đối tác đang có nhiều biến động chính sách nhất — và loại này thì gây thiệt hại nặng nhất.
+
+Kết hợp với kết quả về độ mở làm bộ đệm, bức tranh cho Việt Nam khá cân bằng: phơi nhiễm cao nhất, nhưng cũng nằm ở phía mở của phân phối nên có bộ đệm tốt. Vị thế ròng phụ thuộc vào việc hai lực này bù trừ nhau đến đâu — điều mà chương không tính riêng cho từng nước.
+
+### Kết quả có giá trị cảnh báo nhất, và nó lặp lại một chủ đề của cả thư mục
+
+Phân tích kênh truyền dẫn cho thấy khi nước thứ ba gia tăng bảo hộ, nước quan sát có xuất khẩu nhích lên, cán cân vãng lai cải thiện 2,5 điểm phần trăm GDP và thị trường chứng khoán tăng 15,6% — trong khi **đầu tư giảm 4,2 điểm phần trăm và tiêu dùng tư nhân giảm 1,3 điểm phần trăm**, và tổng lại sản lượng vẫn giảm.
+
+Câu chương tự rút ra rất đáng nhớ: *"cần thận trọng khi cho rằng có 'người thắng' từ căng thẳng thương mại, bất chấp kết quả thương mại tốt hơn."*
+
+Điều đáng chú ý là **ba tài liệu độc lập trong cùng thư mục này đi tới cùng một kết luận bằng ba con đường khác nhau**: nghiên cứu về ASEAN trong thế giới phân mảnh (lợi ích tái phân bổ bị bù trừ bởi tổn thất tổng hợp dài hạn), chương này (số liệu thương mại đẹp lên nhưng đầu tư và tiêu dùng co lại), và bài Picture This về ASEAN (dây chuyền sản xuất chung bán ra ngoài thì khi cầu ngoài sụp, cả khối cùng sụp).
+
+Ba con đường, ba phương pháp, một kết luận: **số liệu thương mại cải thiện không đồng nghĩa với nền kinh tế cải thiện.** Đây có lẽ là thông điệp thống nhất quan trọng nhất của toàn bộ thư mục.
+
+### Cách đọc đúng tài liệu này
+
+Coi đây là một **đóng góp về cách đo lường** chứ không phải về ước lượng. Việc tách bất định thành bốn ô theo hai chiều là một khung phân tích tốt và có thể tái sử dụng; bộ chỉ số mới, đặc biệt chiều "hiệp định", mang thông tin mà các chỉ số hiện có không có (tương quan với chỉ số bất định kinh tế toàn cầu chỉ là −0,04). Những thứ này sẽ còn giá trị lâu.
+
+Các con số cụ thể thì nên chờ được xác nhận lại trên mẫu lớn hơn — sáu nước là quá ít, và chính chương đã nói vậy.

@@ -405,3 +405,107 @@
 > "This is not 'soaking the rich'; it is saving the rich."
 
 > "Politicians use economics the way a drunk uses a lamppost—for support, not illumination."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Số tạp chí chứa hai chẩn đoán loại trừ nhau, và ban biên tập không đặt chúng đối thoại
+
+Đây là điều thú vị nhất khi đọc số này như một tập hợp chứ không như các bài rời.
+
+**Chẩn đoán thứ nhất**, chiếm phần lớn dung lượng, coi nợ công là hệ quả của **thất bại kỷ luật tài khoá**. Dabla-Norris và Valdes nói về ba đánh đổi mà cử tri từ chối đối mặt. Darvas và Zettelmeyer tính ra mức điều chỉnh cần thiết. Auerbach mô tả sự phân cực chính trị làm Mỹ mất khả năng tự sửa. Blinder giải thích vì sao logic chính trị luôn thắng logic kinh tế. Hàm ý chung: nếu chính trị dũng cảm hơn, vấn đề giải quyết được.
+
+**Chẩn đoán thứ hai**, của Atif Mian, nói điều hoàn toàn khác. Thu nhập dồn lên đỉnh phân phối tạo ra tiết kiệm dư thừa; tiết kiệm đó cần một người đi vay; từ 1980 tới 2008 người đi vay là hộ gia đình ở nửa dưới (tín dụng tư nhân trên GDP tăng khoảng 70 điểm, nợ công gần như đứng yên); sau 2008 nợ tư nhân phải giảm và **nợ công thay thế** (nợ công tăng khoảng 70 điểm, nợ tư gần như không đổi). Nợ công cao không phải nguyên nhân; nó là **triệu chứng** của một nền kinh tế không chuyển được tiết kiệm thành đầu tư sản xuất.
+
+Hai chẩn đoán này không thể cùng đúng ở mức độ mà mỗi bên tuyên bố. Nếu Mian đúng, thì mức điều chỉnh sơ cấp 3–5% GDP mà Darvas và Zettelmeyer yêu cầu sẽ **rút đi đúng nguồn cầu duy nhất còn lại**. Thâm hụt sẽ không giảm như dự tính vì sản lượng co và cơ sở thuế co theo; hoặc nếu có giảm, cái giá là thiếu cầu mãn tính. Chính Mian đưa ra khuôn khổ cho điều này: thâm hụt không được "quá lạnh" cũng không được "quá nóng", và Mỹ đã sát giới hạn trên từ 2019.
+
+Số tạp chí đặt hai bài cách nhau vài trang và không ghi nhận mâu thuẫn. Người đọc nên ghi nhận: **cuộc tranh luận về nợ công hiện nay có hai lý thuyết nền khác nhau về nguyên nhân, và phần lớn khuyến nghị chính sách chỉ nhất quán với một trong hai**.
+
+### Câu sắc nhất trong số là câu về phân phối, và nó nên được đọc theo cả hai chiều
+
+Mian viết: "Đây không phải 'vắt kiệt người giàu'; đây là cứu người giàu." Ý của ông là nếu không có nhu cầu vay để hấp thụ tiết kiệm dư thừa, chính lợi suất trên tài sản của người giàu sẽ sụp.
+
+Nhưng câu đó còn đúng theo một chiều thứ hai mà không bài nào trong số phát biểu. **Ai nhận khoản lãi mà chính phủ trả?** Chủ sở hữu trái phiếu chính phủ — tức, theo đúng số liệu mà Mian cung cấp, phần đỉnh của phân phối của cải, nơi nắm khoảng 35% tổng tài sản.
+
+Vậy khoản chi trả lãi ròng **4,2% GDP** của Mỹ năm 2025, vượt cả chi quốc phòng, là một dòng chuyển giao từ toàn bộ người nộp thuế sang một nhóm chủ sở hữu tài sản tập trung. Với nhóm nước thu nhập thấp, con số tương ứng là **21% thu thuế**, và một chính phủ châu Phi điển hình trả khoảng **một phần bảy thu ngân sách** cho lãi vay.
+
+Điều này có nghĩa là bản thân khối nợ công cao đã là một cơ chế tái phân phối đang vận hành liên tục, trước cả khi có bất kỳ cuộc củng cố tài khoá nào. Và nó làm cho câu hỏi về củng cố trở nên phức tạp hơn nhiều so với cách các bài khác trong số đặt ra: một đợt điều chỉnh thực hiện bằng cắt chi phúc lợi để bảo đảm trả đủ lãi là một chính sách có hướng phân phối rất rõ ràng, dù được trình bày bằng ngôn ngữ trung lập của tính bền vững.
+
+### Đề xuất táo bạo nhất được viết bằng giọng mềm nhất, và bị chính repo này bác bỏ ở chỗ khác
+
+Corsetti và Melosi đề nghị **chấp nhận một cách thực dụng mức lạm phát có kiểm soát, tạm thời, vừa phải** trên mục tiêu. Với trái phiếu không chỉ số hoá, ngân hàng trung ương có thể "đánh cược": làm mượt giá hôm nay và hy vọng tăng trưởng nhờ công nghệ sẽ giảm gánh nặng nợ sau này.
+
+Cần gọi đúng tên điều này. Lạm phát bất ngờ trên một khối nợ danh nghĩa dài hạn là **một khoản thuế một lần đánh vào người đang nắm trái phiếu**, thu mà không cần sự đồng ý của họ. Nó không phải một công cụ phối hợp chính sách; nó là một hình thức vỡ nợ mềm, có tính chọn lọc theo chủ nợ.
+
+Và nó có ba đặc tính mà bài không nêu đủ.
+
+**Nó chỉ dùng được một lần.** Nếu được dự đoán, nó đã nằm trong lợi suất danh nghĩa của các đợt phát hành mới và không thu được gì; nó chỉ ăn vào phần nợ dài hạn đã phát hành trước đó. Muốn hiệu quả, nó phải là bất ngờ — tức là phải được thực hiện mà không thông báo, điều khó dung hoà với một đề xuất được in trên tạp chí của IMF.
+
+**Chi phí cơ cấu kéo dài cả thập kỷ.** Nhánh tài liệu lịch sử về cơ cấu nợ chính phủ trong cùng thư mục này ghi nhận rất rõ: ở Ý, lạm phát xuống dưới 5% vào cuối thập niên 1980 nhưng cơ cấu nợ chỉ hồi phục vào giữa thập niên 1990; ở Mỹ, lạm phát xuống một con số thấp năm 1983 nhưng nợ ngắn hạn nội tệ chỉ giảm bền từ giữa thập niên 1980. Nhà đầu tư nhớ, và họ đòi kỳ hạn ngắn hơn cùng điều khoản bảo vệ trong nhiều năm sau khi lạm phát đã hạ.
+
+**Nó đòi một nhóm nước cụ thể trả tiền.** Bài tự ghi nhận rằng Mỹ và Anh có cơ chế ổn định nợ một phần qua lạm phát, còn các thị trường mới nổi phải bảo vệ uy tín đã khó khăn mới có được. Nói cách khác, công cụ này khả dụng cho người phát hành đồng tiền dự trữ và không khả dụng cho người khác — đúng cấu trúc bất đối xứng mà chính bài gọi là vấn đề của một thế giới phân mảnh.
+
+### Lý do thứ ba của Auerbach giải thích được nhiều hơn hai lý do đầu
+
+Auerbach đưa ba nguyên nhân cho quỹ đạo tài khoá của Mỹ: hai cú sốc lớn, sự phân cực chính trị, và việc **không thấy thiệt hại**. Nguyên nhân thứ ba được nêu ngắn nhất và có sức giải thích lớn nhất.
+
+Con số là: nợ trên GDP **tăng hơn ba lần** trong giai đoạn 2001–2021, trong khi chi trả lãi **giảm** từ 2,0% xuống 1,5% GDP.
+
+Trong hai mươi năm, tín hiệu giá đi ngược hướng với tín hiệu khối lượng. Bất kỳ hệ thống chính trị nào cũng học từ chi phí **đã phát sinh**, không phải từ chi phí **được dự báo**. Trong suốt hai thập kỷ đó, bằng chứng thực nghiệm mà cử tri và người làm chính sách quan sát được là vay thêm thì rẻ hơn.
+
+Điều này đặt các khuyến nghị về xây dựng niềm tin và giáo dục công chúng vào đúng vị trí của chúng. Vấn đề không phải là cử tri thiếu thông tin — khảo sát 27.000 người được dẫn trong số cho thấy hơn 60% đánh giá thấp nợ trên GDP của nước mình, nhưng việc họ đánh giá đúng cũng sẽ không mâu thuẫn với kinh nghiệm hai mươi năm rằng nợ cao không gây ra hậu quả nhìn thấy được. Cử tri không sai; họ đang ngoại suy từ dữ liệu.
+
+Và điều này cũng cho biết vì sao số tạp chí này ra đời đúng lúc: tín hiệu đã lật. Khi chi trả lãi lên 4,2% GDP và vượt chi quốc phòng, cái giá bắt đầu được cảm nhận. Kết luận thì u ám: kỷ luật tài khoá xuất hiện khi chi phí đã hiện hữu, tức là khi khối nợ đã tích luỹ xong.
+
+### Hai bài trong cùng số đưa ra hai kết luận trái ngược về khả năng cải cách phòng ngừa
+
+Dabla-Norris và Valdes dựng lập luận quanh **niềm tin**: thiếu niềm tin tạo vòng luẩn quẩn, lãnh đạo sợ phản ứng nên trì hoãn, vấn đề xấu đi, niềm tin càng giảm. Hàm ý là nếu xây được niềm tin bằng minh bạch ngân sách, hội đồng tài khoá độc lập và chia sẻ gánh nặng công bằng, thì cải cách sẽ khả thi trước khi khủng hoảng.
+
+Darvas và Zettelmeyer khảo sát bằng chứng lịch sử và đưa ra kết luận ngược. Hy Lạp, Ireland và Bồ Đào Nha rốt cuộc đã điều chỉnh thành công — Hy Lạp đạt cán cân sơ cấp điều chỉnh chu kỳ 4,0% năm 2024, Ireland tăng trưởng 3,1–4,2%/năm giai đoạn 2022–25, cao hơn Mỹ. Nhưng các tác giả nói rõ rằng những cải cách đó **do thị trường ép buộc chứ không từ động lực chính trị trong nước**.
+
+Và một con số trong bài của họ làm điều này rất cụ thể: **Pháp đạt thặng dư sơ cấp 1,3% chỉ sáu lần trong năm thập kỷ**, trong khi mức cần thiết trong dài hạn chính là 1,3% và mức điều chỉnh cần từ vị thế 2024 là khoảng 5% GDP.
+
+Nếu năm thập kỷ chính trị bình thường chỉ tạo ra sáu năm đạt mục tiêu, thì giả thuyết "xây niềm tin để cải cách khả thi" chưa có một ca chứng minh nào trong mẫu. Hai bài này lẽ ra phải tranh luận với nhau.
+
+### Bài về châu Phi là bài có bằng chứng chắc nhất, và một con số của nó đáng được nhấn mạnh hơn
+
+Sy và Laws mô tả bước dịch chuyển từ nợ ngoài sang nợ trong nước ở châu Phi cận Sahara: tổng nợ gần như không đổi (khoảng 52% lên 57% GDP), nhưng cơ cấu đổi hẳn, với nợ trong nước nay chiếm khoảng 33 điểm.
+
+Con số quan trọng nhất là **kỳ hạn**: nợ trong nước bình quân khoảng **2 năm**, so với Eurobond khoảng **10 năm**, song phương khoảng **20 năm**, đa phương khoảng **29 năm**.
+
+Đây là điều mà chỉ tiêu "nợ trên GDP" hoàn toàn không nắm được. Một nước giữ nguyên tỷ lệ nợ nhưng chuyển hồ sơ nghĩa vụ từ 20–29 năm xuống 2 năm đã **thay đổi hoàn toàn bản chất rủi ro của mình**, từ rủi ro khả năng thanh toán dài hạn sang rủi ro thanh khoản thường trực. Trường hợp cực đoan là Ghana sau tái cơ cấu 2023: chỉ phát hành tín phiếu dưới một năm, kỳ hạn còn lại bình quân dưới ba tháng.
+
+Điều được trình bày như một lợi ích — tránh rủi ro tỷ giá — vì thế là một cuộc **đánh đổi rủi ro chứ không phải giảm rủi ro**. Và đánh đổi đó có ba khoản phụ trội mà bài liệt kê: lãi suất trung vị 8,8%, có khi cao hơn cả Eurobond; lấn át tín dụng tư nhân; và vòng lặp ngân hàng–chủ quyền, với tỷ trọng nợ chính phủ trên tài sản ngân hàng tăng từ khoảng 17,7% lên 22,5% chỉ trong năm năm, nhanh nhất thế giới.
+
+Câu kết của bài là câu đáng nhớ nhất trong toàn số về mặt thực tiễn: phát triển thị trường nợ trong nước như một **chiến lược chủ động** thì có lợi; làm như một **phản ứng khủng hoảng** thì tạo ra dễ tổn thương.
+
+### Đề xuất của Kashyap và Stein thừa nhận một thay đổi cấu trúc trong khái niệm tài sản an toàn
+
+Đề xuất mua trái phiếu có phòng ngừa — mua trái phiếu đồng thời bán hợp đồng tương lai — rất khéo về mặt kỹ thuật. Nó giải toả bảng cân đối đại lý, trung lập về kỳ hạn nên không phát tín hiệu nới lỏng, và để Fed chịu ít rủi ro lãi suất hơn. Vấn đề mà nó giải quyết là thật: cấu trúc thị trường hiện nay, với quản lý tài sản giữ rủi ro kỳ hạn qua phái sinh và quỹ phòng hộ vay repo tới 99% vị thế, ổn định trong điều kiện bình thường và đổ vỡ khi có gọi ký quỹ.
+
+Nhưng ý nghĩa sâu hơn nằm ở tiền đề. Đề xuất này thừa nhận rằng **thị trường Trái phiếu Kho bạc Mỹ nay cần một cơ chế đỡ thường trực của khu vực công để vận hành ở quy mô hiện tại**, và sẽ càng cần hơn khi nợ liên bang do công chúng nắm đi từ khoảng 100% GDP lên trên 170% vào giữa thập niên 2050 theo dự báo.
+
+Điều đó thay đổi nội dung của khái niệm "tài sản an toàn". Tài sản an toàn của thế giới an toàn một phần vì có một ngân hàng trung ương sẵn sàng mua nó khi thị trường đứt gãy. Trong mô hình về mức nợ bền vững tối đa ở cùng thư mục này, chính đặc tính đó được mã hoá thành tham số **lợi suất tiện ích** — và nó là thứ nâng trần nợ của Mỹ, Nhật, Đức lên trên các nước khác. Ghép hai tài liệu lại: năng lực gánh nợ vượt trội của nước phát hành đồng tiền dự trữ được duy trì bằng một cam kết can thiệp, và độ bền của cam kết đó là một biến số, không phải một hằng số.
+
+### Với Việt Nam: một hàm ý ngược chiều mà không bài nào trong số nhắc tới
+
+Phần lớn nội dung của số này nói về các nước nợ cao, và Việt Nam không thuộc nhóm đó. Nhưng khung của Mian cho ra một hàm ý rất cụ thể đi theo chiều ngược lại.
+
+Trong khuôn khổ "cầu dựa vào nợ", các nước có thặng dư vãng lai và tích luỹ dự trữ là **bên xuất khẩu tiết kiệm**. Mian nêu Trung Quốc làm ví dụ, với thặng dư vãng lai khoảng 10% GDP trước 2008. Việt Nam, với thặng dư thương mại lớn và dự trữ ngoại hối tích luỹ nhiều năm, nằm ở cùng phía của cán cân đó.
+
+Từ đó ra hai hệ quả.
+
+**Thứ nhất**, mô hình tăng trưởng dựa vào xuất khẩu phụ thuộc vào việc ở đâu đó có người vay để hấp thụ cầu. Nếu các nền kinh tế phát triển thực hiện đợt điều chỉnh sơ cấp 3–5% GDP mà Darvas và Zettelmeyer khuyến nghị, và làm gần như đồng thời, thì cầu bên ngoài đối với hàng xuất khẩu của các nước thặng dư sẽ giảm tương ứng. **Củng cố tài khoá ở các nước nhập khẩu là một cú sốc cầu đối với các nước xuất khẩu.** Không bài nào trong số này nhắc tới điều đó, dù nó là hệ quả số học trực tiếp của chính khung phân tích mà số này sử dụng.
+
+**Thứ hai**, nhìn từ góc này, việc chuyển dần trọng tâm tăng trưởng sang cầu trong nước không chỉ là một lựa chọn chính sách mang tính tuỳ chọn mà là một biện pháp phòng ngừa trước một rủi ro có xác suất đáng kể.
+
+Ngoài ra, ba nội dung khác trong số áp dụng được ngay:
+
+**Bài về nợ châu Phi là tấm gương gần nhất về cấu hình rủi ro.** Vietnam có hồ sơ kỳ hạn tốt hơn nhiều so với con số 2 năm của châu Phi, nhưng ba cơ chế còn lại — chi phí vay nội địa so với vay ngoài, lấn át tín dụng tư nhân, và vòng lặp ngân hàng–chủ quyền — đều áp dụng được, và tỷ trọng nợ chính phủ trên tài sản ngân hàng là chỉ số nên theo dõi định kỳ.
+
+**Bài về thuế tiêu thụ đặc biệt cho ba nguyên tắc rất cụ thể**: đánh thuế mọi sản phẩm có hại chứ không chọn lọc, đánh theo mức hại thay vì theo giá trị, và hợp tác xuyên biên giới. Bằng chứng đi kèm rất mạnh — New Zealand tăng thuế thuốc lá đốt ít nhất 10% mỗi năm và đưa tỷ lệ hút thuốc từ 18% xuống 8% trong 12 năm; Nam Phi đánh thuế bia truyền thống trên mỗi đơn vị cồn chỉ bằng khoảng một phần năm mươi bia khác. Hai bài học này — lộ trình tăng đều và đủ mạnh, và tránh lệch lạc giữa các sản phẩm cùng loại — đều nằm ở tâm tranh luận về cải cách thuế tiêu thụ đặc biệt ở Việt Nam. Con số về buôn lậu xuyên biên giới cũng đáng chú ý với một nước có đường biên giới bộ dài: thuốc lá Paraguay chiếm khoảng 20% thị trường Brazil.
+
+**Bài về hạ tầng số công đặt bộ tài chính vào vai điều phối**, với thang từ thẩm định (Anh) tới điều phối và cưỡng chế (Uganda) tới trực tiếp triển khai (Campuchia). Con số đắt giá nhất là bài học COVID của Mỹ: trong 800 tỷ USD của chương trình bảo vệ việc làm, chỉ khoảng một phần tư tới một phần ba tới đúng người lao động cần. Đó là cái giá của việc không có hạ tầng định danh và thanh toán dùng chung, quy ra tiền.
+
+### Đọc số này như cái nó là
+
+Cuối cùng, cần giữ đúng trọng lượng. Đây là một tạp chí, không phải một tập nghiên cứu. Các lập luận được nén, các con số phần lớn là dự báo — nợ toàn cầu 93,9% GDP năm 2025 và vượt 100% vào 2028 là dự báo, không phải quan sát — và mỗi bài là một lập trường được bảo vệ chứ không phải một kết quả được kiểm định. Giá trị của nó là **định khung cuộc tranh luận** và cho thấy những đường đứt gãy trong đó, chứ không phải cung cấp ước lượng. Các con số ở đây nên được dùng để đặt câu hỏi, và tìm câu trả lời ở các tài liệu nghiên cứu mà chúng trỏ tới.

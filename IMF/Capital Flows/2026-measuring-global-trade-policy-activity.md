@@ -310,3 +310,49 @@
 > "The rise in trade-restrictive measures is not limited to the countries dominating the headlines."
 
 > "Our index complements these measures by capturing underlying policy changes, including those that do not attract public attention."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Chỉ số đo sự bận rộn của chính phủ, không đo mức độ bảo hộ
+
+Đầu vào của TPA là **số biện pháp mới mỗi tháng** và **số sản phẩm HS6 bình quân bị ảnh hưởng**: không trọng số phúc lợi, không ước lượng tác động, không có dấu. Một nước xoá bỏ toàn bộ hàng rào bằng một văn bản duy nhất đóng góp rất ít; một nước ban hành năm mươi thông báo vụn vặt đóng góp rất nhiều. Đỉnh năm 2013 là Hiệp định Thuận lợi hoá Thương mại tại Bali — hiệp định đa phương lớn đầu tiên kể từ Vòng Uruguay, tức một **sự kiện tự do hoá** — và nó xuất hiện dưới dạng một đỉnh giống hệt đỉnh 2025 của cuộc chiến thuế quan. Trên đồ thị, hội nhập sâu hơn và bảo hộ mạnh hơn trông như nhau.
+
+Hệ quả: **câu "TPA có xu hướng đi lên và tăng tốc từ 2020" tự nó không nói gì về việc thế giới có bảo hộ hơn hay không**. Chỉ phần phân rã — nhân tố cục bộ, tách nhóm hạn chế khỏi nhóm trợ cấp khỏi nhóm thuận lợi — mới trả lời được câu hỏi đó. Nói cách khác, **đối tượng nổi tiếng nhất của bài lại là đối tượng ít thông tin nhất trong bài**, và ai chỉ trích dẫn đường tổng hợp sẽ trích dẫn đúng phần vô nghĩa nhất.
+
+### Đồng chuyển động giữa tạo thuận lợi và hạn chế có một lời giải thích tầm thường mà bài không xét
+
+Bài nhấn mạnh rằng biện pháp tạo thuận lợi và biện pháp hạn chế **đi cùng nhau** ở cấp toàn cầu, và đưa bốn cách giải thích kinh tế: gói chính sách trong khủng hoảng, tương tác chiến lược giữa đối tác, thay thế công cụ, tính chu kỳ. Cả bốn đều hợp lý.
+
+Nhưng có cách giải thích thứ năm, đơn giản và khó chịu hơn: **cả hai đều là số đếm thông báo của chính phủ, và chính phủ bận rộn thì bận rộn với mọi thứ cùng lúc**. Năng lực hành chính, chu kỳ ngân sách, và quan trọng nhất là **cường độ giám sát của hai cơ sở dữ liệu** đều tạo ra một thành phần chung dương trên mọi chuỗi.
+
+Dấu hiệu ủng hộ cách đọc này nằm ngay trong kết quả ước lượng: **tất cả tám chuỗi đều tải dương lên nhân tố toàn cầu**, và **chuỗi GTA tải lớn hơn**, lớn nhất là số biện pháp thuộc nhóm khác của GTA — trong khi GTA chính là nguồn có dùng báo chí, tức nguồn nhạy nhất với mức độ chú ý của dư luận. Một nhân tố chung dương trên mọi chuỗi, tải mạnh nhất ở nguồn nhạy cảm nhất với truyền thông, đúng là hình dạng mà một **nhân tố cường độ ghi nhận** sẽ tạo ra.
+
+Bài kiểm chứng nhiều thứ liên quan, thuyết phục nhất là việc chỉ dùng xu hướng của TMDB vẫn giữ quỹ đạo đi lên. Nhưng không kiểm chứng nào chạm tới **kết quả đồng chuyển động theo tháng**: cấu trúc khối tách đồng chuyển động trong nhóm khỏi giữa nhóm, chứ không tách được thành phần kinh tế khỏi thành phần đo lường — cả hai đều nằm gọn trong nhân tố toàn cầu.
+
+### Mệnh đề trung tâm phụ thuộc vào một lựa chọn kỹ thuật mà chính bài cho thấy là mong manh
+
+**Tầng chu kỳ khá vững.** Hệ số tự hồi quy khoảng **0,6** nghĩa là khoảng 60% phần vượt xu hướng của một tháng còn lại sang tháng sau, tức nửa đời chỉ hơn một tháng. Đây là con số thực chất: **các cú sốc chính sách thương mại tắt rất nhanh**, trong vòng một quý, nên hoạt động chính sách thương mại là hiện tượng **từng đợt** chứ không phải một trạng thái dai dẳng — điều có hàm ý trực tiếp cho việc doanh nghiệp nên chịu đựng hay nên tái cấu trúc.
+
+**Tầng xu hướng mong manh hơn nhiều.** Xu hướng ở đây không phải đối tượng ngẫu nhiên được ước lượng cùng mô hình mà là kết quả của một **phép làm mượt tất định** — hồi quy bậc hai cục bộ có trọng số theo khoảng cách — trừ đi trước rồi cộng trả lại sau. Chính phần kiểm chứng độ vững thừa nhận điều đáng lo nhất: lọc xu hướng Tibshirani hay hồi quy cục bộ với một phần ba quan sát thì hình dạng giữ nguyên, **nhưng xu hướng bậc hai toàn cục cho kết quả khác hẳn**. Nghĩa là **kết luận nổi bật nhất của bài là một kết luận có điều kiện về phương pháp tách xu hướng**, không phải một sự thật được dữ liệu áp đặt.
+
+Hai chi tiết nữa khi trích dẫn. **Khoảng tin cậy 90% chỉ nằm trên 0 từ năm 2022**, nên phần "tăng tốc từ 2020" có ý nghĩa thống kê hẹp hơn nhiều so với cách nó thường được nhắc. Và **cửa sổ phát hiện 12 tháng chỉ bắt được bình quân 77,9% số biện pháp** (G20 77,3%, ngoài G20 80,0%) — ổn cho so sánh xu hướng, nhưng phần mở rộng tới tháng 1/2026 phải **điều chỉnh tỷ lệ phát hiện cho các tháng chưa đủ 12 tháng**, nghĩa là đoạn chứa khẳng định "2025 cao nhất mẫu", đoạn sẽ được trích dẫn nhiều nhất, lại dựa nhiều nhất vào ngoại suy.
+
+### Kết quả đáng lẽ phải là tiêu đề: bỏ Mỹ và Trung Quốc ra thì xu hướng vẫn còn
+
+Trong toàn bài, đây là phát hiện thay đổi được cách nghĩ của người đọc, và nó bị đặt ở vị trí thứ ba trong một mục về phân nhóm nước: khi bỏ Mỹ và Trung Quốc khỏi mẫu, **biện pháp hạn chế vẫn tăng tốc diện rộng từ 2022**.
+
+Câu chuyện phổ biến về bảo hộ hiện nay là câu chuyện song phương: hai siêu cường đánh nhau, phần còn lại của thế giới là nạn nhân hoặc người hưởng lợi thụ động. Kết quả này nói rằng khung đó sai — **phần còn lại của thế giới cũng đang dựng rào, theo nhịp riêng của mình**. Kết quả về nhóm biện pháp còn lại, chủ yếu là trợ cấp, tăng diện rộng suốt cả kỳ ở **cả G20 lẫn ngoài G20**, xác nhận điều đó ở một công cụ khác: chính sách công nghiệp đã quay lại ở mọi nơi, không chỉ ở nơi có ngân sách lớn. Với một nền kinh tế nhỏ và mở, chiến lược phòng vệ dựa trên giả định "chỉ cần không bị kẹt giữa Mỹ và Trung Quốc" là không đủ, vì rủi ro **phân tán chứ không tập trung**: mất thị trường có thể đến từ mười đối tác nhỏ cùng siết một chút.
+
+Bộ số so sánh đồng liên kết còn cho một kết quả nữa mà bài đọc chưa hết: R bình phương với chỉ số phân mảnh địa kinh tế là **0,51**, với bất định chính sách thương mại chỉ **0,14**, với bất định thương mại thế giới **0,03**. Bài đọc theo hướng "một nửa biến động của TPA là thông tin riêng"; cách đọc mạnh hơn là **hoạt động chính sách và bất định chính sách gần như trực giao**. Một thế giới **hoạt động cao, bất định thấp** — luật chơi đang được viết lại nhưng theo lộ trình công bố trước — khác hẳn một thế giới **hoạt động thấp, bất định cao**, và với quyết định đầu tư thì ô thứ hai độc hại hơn nhiều: doanh nghiệp thích nghi được với một luật mới, không thích nghi được với một luật chưa biết. Tài liệu về bất định chính sách thương mại với ASEAN trong repo này giữ đúng trục còn lại, và con số 0,14 là lý do rõ nhất để dùng hai chỉ số cùng nhau chứ không thay thế nhau.
+
+### Với Việt Nam: nằm ngoài G20 nghĩa là chịu hai nửa bất lợi cùng lúc
+
+Hồ sơ của nhóm ngoài G20 mà bài mô tả đáng đọc rất kỹ, vì Việt Nam nằm trọn trong đó: đỉnh COVID lớn hơn, trợ cấp nhọn trong COVID, **đỉnh hạn chế năm 2025 kém rõ hơn**, và **biện pháp tạo thuận lợi trầm lắng từ 2022**.
+
+Ghép bốn đặc điểm đó ra một bức tranh bất đối xứng. **Nhóm G20 đang siết mạnh — biện pháp hạn chế của họ tách hẳn khỏi các nhóm khác năm 2018–2019 và đặc biệt năm 2025. Nhóm ngoài G20 không siết mạnh bằng, nhưng đã ngừng mở cửa từ 2022.** Nói cách khác, nước lớn dựng rào còn nước nhỏ thôi dỡ rào.
+
+Với một nền kinh tế mà thương mại chiếm tỷ trọng áp đảo trong GDP và mô hình tăng trưởng đặt trọn vào tiếp cận thị trường bên ngoài, đây là bất lợi kép. Phía cầu bị thu hẹp bởi hàng rào của các nước lớn; phía cơ hội bù đắp — tiếp cận sâu hơn vào các thị trường nhỏ và trung bình — cũng nguội đi vì chính nhóm đó đã dừng tạo thuận lợi. Nguồn tăng trưởng bù trừ mà các chiến lược đa dạng hoá thị trường thường giả định là có sẵn thì dữ liệu này nói rằng đang cạn dần. Kết quả về **trợ cấp tăng diện rộng ở cả hai nhóm** thêm một tầng nữa: cạnh tranh thu hút đầu tư đã chuyển từ đấu bằng chi phí lao động và ưu đãi thuế sang **đấu bằng ngân sách trực tiếp**, sân chơi mà nước có dư địa tài khoá hạn chế không thể thắng bằng cách đua theo — đúng hàm ý của chủ đề chiến tranh trợ cấp trong thư mục Back to Basics.
+
+Cuối cùng, một đối chiếu đáng ghi nhận với tài liệu về đồng tiền hoá đơn trong cùng thư mục. Ở đó, Việt Nam **vắng mặt hoàn toàn** khỏi bộ dữ liệu vì nhóm tác giả "không liên lạc được" sau một năm nỗ lực. Ở đây, Việt Nam **có mặt đầy đủ**, vì Cơ sở dữ liệu Giám sát Thương mại của WTO dựa trên nghĩa vụ thông báo của thành viên chứ không dựa trên thiện chí trả lời thư. Bài học rất cụ thể: **nghĩa vụ đa phương tạo ra dữ liệu, còn đề nghị hợp tác thì không** — Việt Nam hiện diện trong thống kê quốc tế ở đúng những mảng mình có cam kết ràng buộc, và biến mất ở những mảng chỉ cần tự nguyện.
+
+Giá trị dùng được ngay của chỉ số thì rõ: **tần suất tháng**, hợp với một nền kinh tế mà môi trường chính sách bên ngoài thay đổi nhanh hơn chu kỳ báo cáo thường niên — miễn là luôn nhớ rằng nó đo sự bận rộn, không đo mức độ đóng cửa.

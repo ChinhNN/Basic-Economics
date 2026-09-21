@@ -282,3 +282,59 @@
 > "Enforcement action related to AI stands at just 3 percent of surveyed authorities."
 
 > "Supervisory tools must be upgraded using the very technology they are meant to supervise."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Luận điểm trung tâm là một ý tưởng cũ khoác áo mới, và chỗ nó thật sự mới thì bài lại không nói
+
+"Rủi ro không đến từ một mô hình hỏng mà từ việc nhiều tổ chức dùng chung vài mô hình" nghe như một phát hiện về AI, nhưng nó là bài học đã được rút ra từ trước khủng hoảng 2008. Khi cả ngành cùng dùng một chuẩn đo rủi ro, biến động tăng sẽ làm mọi mô hình cùng phát tín hiệu giảm vị thế, và việc mỗi tổ chức bán ra để giảm rủi ro của riêng mình lại tạo ra rủi ro chung. Công cụ quản trị rủi ro biến thành nguồn rủi ro. Đây đúng là cơ chế mà bài mô tả, chỉ thay "mô hình rủi ro" bằng "mô hình AI".
+
+Điều thật sự mới — và bài không phát biểu ra — là **bậc của sự đồng nhất đã thay đổi về chất**. Các mô hình định lượng thế hệ trước tuy cùng một trường phái nhưng mỗi tổ chức vẫn tự xây, tự chọn biến, tự hiệu chỉnh trên dữ liệu riêng. Sự giống nhau của chúng là giống nhau về phương pháp luận. Mô hình nền ngày nay thì không như vậy: trên toàn thế giới chỉ tồn tại vài mô hình biên, và chúng được dùng gần như nguyên trạng. Mức đồng nhất không còn là "cùng cách nghĩ" mà là "cùng một bộ trọng số, cùng một tập huấn luyện, cùng một thiên lệch".
+
+Hệ quả là mọi phép so sánh với các đợt đồng bộ hoá trước đây đều là ước lượng thấp. Và nó còn kéo theo một điều bài nêu riêng ở khuyến nghị thứ bảy mà không nối với luận điểm trung tâm: rủi ro tập trung ở tầng hạ tầng và rủi ro tập trung ở tầng mô hình thực ra là **cùng một rủi ro**. Vài nhà cung cấp đám mây phục vụ vài nhà cung cấp mô hình, vài nhà cung cấp mô hình phục vụ toàn ngành. Đây không phải ba tầng nguồn rủi ro độc lập như sơ đồ gợi ý, mà là một cột dọc hẹp dần về phía trên.
+
+### Một mâu thuẫn nội tại giữa khuyến nghị thứ hai và luận điểm của chính bài
+
+Bài khuyến nghị cơ quan quản lý "dùng chính AI để giám sát AI". Về mặt thực tiễn thì khó phản bác: thị trường chạy ở tốc độ mili-giây, con người không theo kịp.
+
+Nhưng đặt cạnh luận điểm trung tâm, khuyến nghị này tự mâu thuẫn. Nếu rủi ro hệ thống sinh ra từ việc nhiều bên cùng dùng một số ít mô hình và một số ít nguồn dữ liệu, thì việc cơ quan giám sát cũng mua mô hình từ đúng những nhà cung cấp đó không phải là đứng ngoài đàn — mà là **gia nhập đàn, ở vị trí nguy hiểm nhất**. Một cơ quan giám sát dùng mô hình có cùng điểm mù với thị trường sẽ không nhìn thấy đúng thứ mà thị trường không nhìn thấy, và sẽ nhìn thấy nó đúng vào lúc không còn kịp.
+
+Giá trị của người giám sát nằm ở chỗ họ có một hàm mục tiêu khác và một góc nhìn khác. Nếu công cụ giống nhau, lợi thế đó biến mất. Bài không nêu yêu cầu nào về việc công cụ giám sát phải độc lập về mô hình và về nguồn dữ liệu với thứ nó giám sát, dù đó là hệ quả trực tiếp từ chính lập luận của bài. Đây là chỗ hở logic đáng chú ý nhất trong toàn bộ bảy khuyến nghị.
+
+### Con số tăng trưởng ở thị trường mới nổi là con số sai, nhưng che một phát hiện đúng
+
+Các con số 172% một năm so với 140%, hay 223% so với 197%, được trình bày như bằng chứng rằng thị trường mới nổi đang tăng tốc nhanh hơn. Về mặt thống kê, đây gần như chắc chắn là hiệu ứng nền thấp: một thị trường đi từ gần không lên một con số nhỏ sẽ luôn cho tốc độ tăng trưởng cao hơn một thị trường đã bão hoà, bất kể điều gì đang thực sự xảy ra. Dùng tốc độ tăng trưởng để so sánh hai nhóm có quy mô chênh nhau hàng chục lần là một phép so sánh không mang thông tin.
+
+Nhưng phía sau con số sai đó có một phát hiện đúng và quan trọng hơn: **trật tự đến của các lớp công nghệ ở thị trường mới nổi bị đảo ngược**. Ở nước phát triển, lớp giám sát và lớp hạ tầng thị trường đã có sẵn trước khi lớp bán lẻ tự động hoá ập đến. Ở thị trường mới nổi, thứ đến trước lại là lớp tiếp xúc trực tiếp với nhà đầu tư cá nhân — ứng dụng di động, hoa hồng bằng 0, giao diện trò chơi hoá, tư vấn tự động — trong khi hành động cưỡng chế liên quan tới AI mới ở mức ba phần trăm.
+
+Đặt hai dữ kiện này cạnh nhau thì bức tranh rõ hơn nhiều so với bảng tăng trưởng: nhóm chịu rủi ro đầu tiên không phải là các quỹ phòng hộ dùng mô hình phức tạp, mà là **nhà đầu tư nhỏ lẻ ở các thị trường chưa có công cụ bảo vệ họ**. Chuỗi rủi ro thực tế không bắt đầu từ giao dịch thuật toán bán buôn mà từ giao diện điện thoại.
+
+### Con số cưỡng chế ba phần trăm có hai cách đọc, và bài chỉ đọc một
+
+Bài trình bày mức cưỡng chế ba phần trăm như một khoảng trống năng lực: cơ quan quản lý chưa đủ người, chưa đủ công cụ, cần được nâng cấp. Cách đọc này đúng một phần.
+
+Nhưng chính bài đã cung cấp cách đọc thứ hai mà không tự rút ra. Trường hợp thông đồng thuật toán không chủ ý — thuật toán tự học ra rằng giữ giá cao thì có lợi, không có thoả thuận, không có liên lạc, không có ý định của con người — là một trường hợp mà **thiệt hại tồn tại nhưng hành vi vi phạm thì không tồn tại theo định nghĩa của luật hiện hành**. Ở đây, cưỡng chế bằng không không phải vì cơ quan yếu, mà vì không có điều luật nào để cưỡng chế.
+
+Hai cách đọc này dẫn tới hai chính sách hoàn toàn khác nhau. Cách thứ nhất dẫn tới tuyển người và mua công cụ. Cách thứ hai dẫn tới việc phải viết lại cấu thành vi phạm: chuyển từ chuẩn dựa trên **ý định và thoả thuận** sang chuẩn dựa trên **kết quả trên thị trường**. Đó là một thay đổi nền tảng của luật cạnh tranh, không phải một khoản đầu tư ngân sách. Đáng chú ý là ba phần trăm cưỡng chế đã có lại rơi đúng vào loại vụ việc không cần luật mới: khai khống năng lực AI. Đó là lừa dối nhà đầu tư thông thường, xử lý được bằng luật chứng khoán có sẵn. Nói cách khác, phần cưỡng chế đang hoạt động là phần **không liên quan gì tới bản chất kỹ thuật của AI**, và điều đó tự nó là một tín hiệu.
+
+### Bốn bài học sự cố đều đến từ một thế hệ công nghệ đã qua
+
+Knight Capital năm 2012 là lỗi triển khai phần mềm theo quy tắc. Sụp đổ chớp nhoáng 2010 và hành vi đặt lệnh giả là thao túng nhắm vào thuật toán theo quy tắc. Thất bại của mô hình định lượng tháng 3/2020 là chuyện mô hình thống kê gặp dữ liệu ngoài phân bố huấn luyện. Cả ba đều xảy ra **trước khi mô hình tạo sinh có mặt trên thị trường**, và không sự cố nào trong danh sách liên quan tới một mô hình ngôn ngữ.
+
+Đây là một khoảng trống bằng chứng đáng kể: toàn bộ cơ sở thực nghiệm cho một tài liệu về rủi ro AI được rút ra từ một chế độ công nghệ khác. Điều đó không làm các bài học sai, nhưng nó có nghĩa là danh sách rủi ro có thể đang thiếu đúng những rủi ro đặc thù của công nghệ hiện tại.
+
+Ít nhất một rủi ro như vậy đã được chính số liệu của bài dựng sẵn mà không ai nối lại. Sáu mươi bốn phần trăm chuyên gia đầu tư dùng dữ liệu thay thế và bốn mươi tám phần trăm dùng nguồn mở; ba mươi lăm phần trăm dùng công cụ kiểu ChatGPT. Dữ liệu thay thế và nguồn mở phần lớn là văn bản trên internet. Mà văn bản trên internet ngày càng do mô hình sinh ra. Vòng lặp khép kín: mô hình sinh ra văn bản, văn bản trở thành dữ liệu thay thế, dữ liệu thay thế được mô hình khác đọc để ra quyết định giao dịch, và quyết định đó lại sinh ra văn bản mới.
+
+Đây là một kênh mới cho cả hai loại rủi ro mà bài đã nêu riêng lẻ. Nó là kênh **thao túng**: không cần đặt lệnh giả nữa, chỉ cần bơm văn bản có chủ đích vào nguồn mà các mô hình đang đọc, rẻ hơn nhiều và khó truy vết hơn nhiều so với vụ đặt lệnh giả năm 2010. Và nó là kênh **đồng bộ hoá**: khi nguồn dữ liệu phi cấu trúc hội tụ về cùng một tập văn bản do máy sinh, các mô hình không chỉ giống nhau ở đầu ra mà còn giống nhau ở đầu vào.
+
+### Với thị trường Việt Nam: bài này nói về mình nhiều hơn vẻ ngoài của nó
+
+Tài liệu không nhắc tới Việt Nam, và ví dụ gần nhất là Thái Lan. Nhưng cấu hình rủi ro mà bài mô tả cho thị trường mới nổi lại khớp với thị trường chứng khoán Việt Nam chặt hơn bất kỳ ví dụ nào được nêu tên, vì ba lý do cộng dồn.
+
+**Thứ nhất, tỷ trọng nhà đầu tư cá nhân.** Cụm rủi ro mà bài gọi là môi giới thế hệ mới cộng trò chơi hoá cộng người ảnh hưởng tài chính chỉ nguy hiểm khi nhà đầu tư cá nhân chiếm phần lớn thanh khoản. Đó đúng là đặc điểm của thị trường Việt Nam, nơi giao dịch của cá nhân chiếm áp đảo giá trị khớp lệnh và nơi ứng dụng môi giới trên điện thoại đã là kênh chính.
+
+**Thứ hai, giám sát nội dung tài chính trên mạng xã hội** — khuyến nghị thứ năm — là khuyến nghị có chi phí thấp nhất và tác động trực tiếp nhất trong bảy khuyến nghị, nhưng lại ít được chú ý nhất vì nó không mang dáng vẻ công nghệ cao. Với một thị trường mà khuyến nghị cổ phiếu lan truyền qua các nhóm nhắn tin và video ngắn, đây là nơi một đồng ngân sách giám sát tạo ra nhiều bảo vệ nhất.
+
+**Thứ ba, rủi ro tập trung hạ tầng ở nước nhỏ là rủi ro chủ quyền, không chỉ là rủi ro vận hành.** Khi năng lực mô hình và năng lực điện toán đều nằm ngoài biên giới, "điểm hỏng duy nhất" không chỉ có thể hỏng vì lý do kỹ thuật mà còn có thể bị ngắt vì lý do chính sách của nước khác. Bài xếp việc này vào khuyến nghị cuối như một vấn đề kỹ thuật; với một thị trường đang muốn nâng hạng và thu hút vốn ngoại, nó là một vấn đề chiến lược.
+
+Một chi tiết nhỏ trong bài đáng được đọc như lời cảnh báo: việc Liên kết Giao dịch ASEAN ngừng hoạt động năm 2017. Hợp tác xuyên biên giới là khuyến nghị thứ sáu, nhưng khu vực này đã thử và đã thất bại một lần. Điều đó gợi ý rằng con đường khả thi hơn không phải là một cơ chế chung của khu vực, mà là các thoả thuận song phương hẹp về chia sẻ dữ liệu giám sát với đúng những thị trường có dòng vốn qua lại lớn nhất.

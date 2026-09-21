@@ -294,3 +294,99 @@
 > "Higher climate vulnerability pushes up the entire yield curve, as opposed to the interest rates on short-term maturities only, like in the case of natural disaster shocks."
 
 > "Financial deepening should be an integral part of resilience building."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Kết luận "chỉ đầu ngắn phản ứng" có một lời giải thích cạnh tranh nằm ngay trong phần mô tả
+
+Phát hiện trung tâm về thiên tai là tác động chỉ xuất hiện ở kỳ hạn ngắn: hạn hán +1,26 điểm phần trăm ở kỳ hạn dưới ba tháng và +1,12 ở kỳ hạn tới một năm, trong khi kỳ hạn 2–3 năm và từ 4 năm trở lên không có ý nghĩa thống kê. Bài diễn giải điều này theo hai hướng: chính phủ dựa vào vay ngắn hạn khi gặp cú sốc bất ngờ, và nhà đầu tư coi tác động tài khoá là tạm thời.
+
+Nhưng có một dữ kiện trong phần mô tả làm xuất hiện một lời giải thích thứ ba, và nó thay đổi hoàn toàn ý nghĩa của kết quả: **22% số chứng khoán trong mẫu có kỳ hạn dưới ba tháng và 57% có kỳ hạn tới một năm**. Bài tự kết luận rằng thị trường trung và dài hạn **mỏng**.
+
+Một thị trường mỏng không định giá lại — nó đơn giản là không giao dịch. Nếu ở phần lớn các nước trong mẫu, đầu dài của đường cong chỉ gồm vài đợt phát hành thưa thớt, thường do các định chế nắm giữ tới đáo hạn, thì việc không quan sát được phản ứng ở đó **không phải bằng chứng rằng nhà đầu tư cho rằng tác động là tạm thời**. Đó là bằng chứng rằng không có ai để hỏi.
+
+Hai cách đọc này không phân biệt được trong dữ liệu như bài trình bày, và chúng có hàm ý chính sách trái ngược. Cách thứ nhất nói thị trường đang định giá gần đúng. Cách thứ hai nói thị trường **không có năng lực định giá**, và sự yên tĩnh ở đầu dài là một khoảng trống thông tin chứ không phải một phán quyết.
+
+Phép kiểm tra để tách hai cách đọc thì có sẵn: chạy lại kết quả chỉ trên nhóm nước có khối lượng phát hành dài hạn đủ lớn và có giao dịch thứ cấp. Bài không làm.
+
+### Hai kết quả được trình bày rời rạc thực ra ghép thành một mệnh đề mạch lạc
+
+Bài đưa ra hai phát hiện như hai kết quả riêng: cú sốc thiên tai chỉ đẩy **đầu ngắn** lên, còn mức dễ tổn thương khí hậu đẩy **toàn bộ đường cong** lên.
+
+Ghép lại thì chúng nói một điều thống nhất và khá thú vị: **nhà đầu tư định giá xu hướng, không định giá từng sự kiện.** Một trận bão riêng lẻ được xử lý như một cú sốc thanh khoản tạm thời — trả thêm vài chục điểm cơ bản cho tín phiếu ba tháng rồi thôi. Nhưng việc một nước thuộc nhóm dễ tổn thương về mặt cấu trúc thì được đưa vào giá của mọi kỳ hạn.
+
+Nếu đúng vậy thì lo ngại mà chính bài nêu — rằng nhà đầu tư đang **định giá thấp** rủi ro vì thiên tai ngày càng dày nên tác động "tạm thời" sẽ trở thành thường trực — đã được giải quyết một phần. Rủi ro dài hạn đang được định giá, chỉ không qua kênh sự kiện mà qua kênh chỉ số dễ tổn thương.
+
+Câu hỏi còn lại, và nó là câu hỏi quan trọng hơn, là **chỉ số dễ tổn thương có cập nhật đủ nhanh không**. Bài ghi nhận rằng chỉ số này thay đổi rất chậm: trung vị chỉ tăng 0,5 điểm trong hai mươi năm. Nếu tần suất thiên tai thực tế đang tăng nhanh hơn tốc độ mà chỉ số phản ánh, thì việc định giá theo chỉ số cũng là định giá thấp — chỉ là định giá thấp một cách chậm hơn và ít nhìn thấy hơn.
+
+### Hệ số của biến dễ tổn thương lớn tới mức khó tin, và lời biện hộ không chạm vào vấn đề
+
+Đây là chỗ cần dè dặt nhất. Các hệ số biến công cụ của mức dễ tổn thương khí hậu là **2,015 cho mọi kỳ hạn** và lên tới **6,033 cho kỳ hạn 2–3 năm**.
+
+Chính bài quy đổi ra ý nghĩa: đi từ phân vị 25 lên trung vị của chỉ số, tức tăng 5 điểm, tương ứng lãi suất tăng **khoảng 10 điểm phần trăm**. Mười điểm phần trăm chi phí vay từ một mức thay đổi khiêm tốn của một chỉ số tổng hợp.
+
+Lời biện hộ của bài là chỉ số thay đổi rất chậm nên mức thay đổi thực tế chỉ tương ứng khoảng 1 điểm phần trăm. Nhưng đó là lời biện hộ về **mức độ liên quan thực tế**, không phải về **độ tin cậy của hệ số**. Một hệ số phi lý trên khoảng biến thiên chéo của chính biến đó thì vẫn là một hệ số phi lý, dù phần biến thiên được thực sự khai thác có nhỏ đến đâu. Nó là dấu hiệu rằng biến công cụ đang bắt một thứ khác.
+
+Và có một ứng viên rất rõ cho "thứ khác" đó. Chỉ số ND-GAIN được xây từ **74 biến và 45 chỉ báo**, bao gồm không chỉ mức phơi nhiễm vật lý mà cả **năng lực thích ứng**: chất lượng hạ tầng, hệ thống y tế, an ninh lương thực, năng lực thể chế. Đó về cơ bản là một **chỉ số phát triển**.
+
+Điều kiện loại trừ đòi hỏi phần ngoại sinh của chỉ số này ảnh hưởng tới lợi suất **chỉ qua rủi ro khí hậu**. Với một chỉ số chứa từng ấy thành phần thể chế và phát triển, điều kiện đó rất khó tin. Kết quả có thể đang nói rằng **nước nghèo hơn và quản trị kém hơn thì trả lãi cao hơn** — điều đúng, quan trọng, và đã biết.
+
+Kết quả về **thiên tai** thì không vướng vấn đề này, vì thời điểm thiên tai thực sự ngoại sinh. Đó là lý do phần đáng tin nhất của bài là phần thiên tai, và phần đáng ngờ nhất lại là phần được đưa lên làm kết luận thứ hai.
+
+### Ước lượng sạch nhất cho kết quả nhỏ nhất, và con số được trích lại là con số khác
+
+Phần tóm tắt nói hạn hán và bão làm lãi suất trung bình tăng **khoảng 80–100 điểm cơ bản**. Con số này đến từ đặc tả hiệu ứng cố định.
+
+Phép ước lượng có thiết kế nhận dạng tốt hơn — sai phân kép theo phép chiếu địa phương, với nhóm đối chứng sạch, đúng phương pháp để tránh thiên lệch của hiệu ứng cố định hai chiều khi tác động không đồng nhất — cho kết quả **nhỏ hơn đáng kể**: hạn hán đạt đỉnh khoảng **0,75 điểm phần trăm ở quý thứ ba** rồi tắt từ quý thứ năm; bão chỉ khoảng **0,3 điểm và chỉ có ý nghĩa ở quý đầu tiên**, ở kỳ hạn dưới một năm.
+
+Đây là mô thức rất quen: khi siết chặt nhận dạng, hệ số nhỏ lại. Và bài làm đúng việc — nó chạy phương pháp tốt hơn và báo cáo đầy đủ, kèm kiểm tra xu hướng song song trước cú sốc.
+
+Tóm tắt trung thực của bài nên là: **hạn hán làm tăng chi phí vay ngắn hạn trong nước khoảng 0,75 điểm phần trăm trong ba tới bốn quý; bão làm tăng khoảng 0,3 điểm trong một quý; lũ không có tác động đo được.** Đó là những con số vừa phải, hợp lý, và đáng tin hơn nhiều so với con số trong phần tóm tắt.
+
+### Kết quả âm về lũ lụt có thể là một sản phẩm của cách đo, không phải một phát hiện
+
+Bài giải thích việc lũ không có tác động bằng hai lý do nội dung: lũ thường ngắn, và đôi khi còn có lợi cho nông nghiệp.
+
+Nhưng có một lý do kỹ thuật khả dĩ hơn và bài không nêu. Biến thiên tai là **biến giả bằng 1 nếu có ít nhất một đợt trong năm**. Lũ là loại thiên tai **phổ biến nhất** trong cơ sở dữ liệu EM-DAT. Một nước có lũ hầu như năm nào cũng có sẽ có biến giả bằng 1 gần như mọi năm — và khi đó **hiệu ứng cố định nước hấp thụ gần hết biến thiên**, để lại rất ít thông tin để nhận dạng.
+
+Vấn đề này áp cho lũ mạnh hơn hẳn so với hạn hán và bão, vốn thưa hơn và do đó tạo ra biến thiên theo thời gian rõ hơn trong cùng một nước. Nghĩa là kết quả âm về lũ có thể đang phản ánh **tần suất** chứ không phải **tác động**.
+
+Đây không phải một lỗi mà là một giới hạn của thiết kế, và nó quan trọng với người đọc ở một nước mà lũ là loại thiên tai thường trực. Không nên đọc kết quả này thành "lũ lụt không ảnh hưởng tới chi phí vay".
+
+### Phần bù của bão hoá ra chủ yếu là cái giá của một lựa chọn chính sách tiền tệ
+
+Phần kiểm định kênh truyền dẫn chứa một kết quả mà bài không khai thác. Với **bão**, thêm nợ công vào hồi quy **không làm hệ số bão giảm** (1,129 xuống 1,156) — kênh nợ không hoạt động. Thêm lãi suất chính sách thì hệ số giảm xuống 0,831 — kênh tiền tệ có hoạt động.
+
+Nói cách khác, một phần đáng kể của "phần bù rủi ro bão" trong lợi suất trong nước **không phải là phản ứng của nhà đầu tư trước tình hình tài khoá xấu đi**. Đó là hệ quả của việc **ngân hàng trung ương nâng lãi suất chính sách** sau cú sốc.
+
+Điều này đặt ra một câu hỏi mà bài không hỏi. Một cơn bão là một cú sốc **cung** tạm thời: mất mùa, đứt gãy vận chuyển, giá lương thực tăng trong vài tháng. Lý thuyết tiền tệ chuẩn nói rằng không nên thắt chặt để phản ứng với một cú sốc cung một lần, vì tác động lên lạm phát sẽ tự tan. Chính bài cũng nêu nguyên tắc này, rồi bổ sung rằng cú sốc **lặp lại** mới buộc phải thắt chặt.
+
+Vậy phần bù đo được ở đây là tổng của hai thứ khác nhau: một phần là chi phí không tránh được của thiên tai, và một phần là **chi phí của một lựa chọn chính sách có thể khác đi**. Phân tách hai phần này có giá trị thực tiễn lớn hơn nhiều so với con số tổng, vì phần thứ hai nằm trong tầm kiểm soát.
+
+### Độ sâu tài chính là kết luận hữu ích nhất, và nó mâu thuẫn với một tài liệu khác trong thư mục
+
+Kết quả về tương tác giữa tín dụng tư nhân trên GDP và mức dễ tổn thương khí hậu là **−0,006 cho mọi kỳ hạn** nhưng **−0,405 cho kỳ hạn từ bốn năm trở lên**. Tức là hệ thống tài chính sâu hơn làm giảm phần bù khí hậu, và tác dụng bảo vệ tập trung gần như hoàn toàn ở **đầu dài của đường cong**.
+
+Đây là kết luận chính sách có giá trị nhất của bài, và cách nó được phát biểu — **phát triển tài chính nên là một phần cấu thành của xây dựng khả năng chống chịu** — là một cách đóng khung mới. Thông thường, chống chịu khí hậu có nghĩa là đê biển, giống cây chịu mặn, bảo hiểm mùa màng và quỹ dự phòng thiên tai. Bài này nói rằng một **thị trường trái phiếu nội địa sâu với cơ sở nhà đầu tư đa dạng** cũng là một hình thức chống chịu, vì nó cho phép phân tán rủi ro thay vì dồn nó vào giá.
+
+Nhưng cần đặt kết luận này cạnh một tài liệu khác trong cùng thư mục, nơi rút ra kết luận ngược. Nghiên cứu về tái cơ cấu nợ trong nước tìm thấy rằng DDR ở nước có hệ thống tài chính **sâu** cho nhẹ nợ **ít hơn** và gây chi phí kinh tế **cao hơn**, vì hệ thống sâu truyền cú sốc rộng hơn qua kênh tín dụng.
+
+Hai kết quả không mâu thuẫn về mặt logic — chúng nói về hai trạng thái khác nhau — nhưng chúng tạo thành một đánh đổi liên thời gian đáng suy nghĩ: **độ sâu tài chính bảo vệ bạn khỏi việc bị định giá đắt trong điều kiện bình thường, và làm cho bạn tốn kém hơn nếu rốt cuộc vẫn phải tái cơ cấu.** Không tài liệu nào trong hai bên nhìn thấy vế kia.
+
+### Với Việt Nam: đây có lẽ là tài liệu có phạm vi áp dụng trực tiếp nhất trong cả thư mục
+
+Việt Nam nằm gọn trong nhóm mà bài nghiên cứu theo cả ba chiều: một nền kinh tế đang phát triển, có nợ công chủ yếu là **nợ trong nước bằng nội tệ**, và thuộc nhóm phơi nhiễm khí hậu cao — bão nhiệt đới ven biển, xâm nhập mặn và hạn ở đồng bằng sông Cửu Long, lũ ở miền Trung.
+
+**Điểm quan trọng nhất về mặt khung phân tích:** toàn bộ nhánh tài liệu trước đây về khí hậu và rủi ro chủ quyền đo bằng **trái phiếu quốc tế**. Với một nước mà nợ nước ngoài chỉ chiếm một phần và chi phí lãi chủ yếu phát sinh trong nước, nhánh đó gần như không nói gì. Con số mà bài đưa ra cho nhóm nước đang phát triển — nợ trong nước chiếm khoảng một nửa tổng nợ nhưng tới **80% tổng tiền lãi phải trả** — giải thích vì sao. Đây là lập luận rõ ràng nhất cho việc đánh giá rủi ro khí hậu phải được thực hiện trên **đường cong lợi suất nội địa**, không phải trên chênh lệch lợi suất Eurobond.
+
+**Ba chỉ báo và một hàm ý cụ thể:**
+
+**Kênh bão là kênh tiền tệ, không phải kênh tài khoá.** Với một nước hứng bão hằng năm, kết quả này nói rằng cái làm tăng chi phí vay sau bão chủ yếu là phản ứng lãi suất chính sách trước cú sốc giá lương thực, chứ không phải nhu cầu vay tái thiết. Hàm ý: một khung chính sách tiền tệ phân biệt được cú sốc cung tạm thời với áp lực lạm phát nền sẽ **tự nó làm giảm phần bù thiên tai** — một lợi ích của minh bạch trong khuôn khổ điều hành mà không ai tính vào.
+
+**Kênh hạn hán là kênh nợ.** Hạn và xâm nhập mặn tác động tới nông nghiệp và xuất khẩu nông sản, làm giảm thu và tăng chi hỗ trợ. Đây là kênh mà một quỹ dự phòng thiên tai được cấp vốn trước, hoặc một công cụ tài trợ rủi ro có sẵn, sẽ cắt đứt được — vì nó loại bỏ nhu cầu phát hành đột ngột vào đúng lúc thị trường căng.
+
+**Đừng đọc kết quả âm về lũ thành lũ vô hại.** Như đã nêu, thiết kế của bài khó nhận dạng tác động của một loại thiên tai xảy ra gần như hằng năm.
+
+**Và hàm ý cấu trúc quan trọng nhất:** kết quả về độ sâu tài chính nói rằng phát triển thị trường trái phiếu chính phủ kỳ hạn dài, với cơ sở nhà đầu tư đa dạng ngoài hệ thống ngân hàng, **là một khoản đầu tư vào chống chịu khí hậu**. Nó nối với đúng khuyến nghị mà nhánh tài liệu về cơ cấu nợ và về kế hoạch vay nợ hằng năm trong thư mục này đưa ra vì những lý do hoàn toàn khác — mở rộng khu vực tiết kiệm theo hợp đồng, xây trái phiếu chuẩn, kéo dài kỳ hạn bình quân. Ba lập luận độc lập cùng chỉ về một việc là một lý do đủ mạnh để ưu tiên nó.
+
+**Một lưu ý cuối cùng có tính đối trọng.** Việt Nam đã kéo dài đáng kể kỳ hạn bình quân của nợ trong nước so với mặt bằng 57% dưới một năm mà bài ghi nhận cho toàn mẫu. Theo logic của bài, đó là vị thế tốt: nó làm giảm rủi ro quay vòng và giảm mức độ phơi nhiễm của ngân sách trước các cú sốc ngắn hạn. Nhưng nó cũng có nghĩa là Việt Nam **có một đầu dài để định giá lại**. Và chính đầu dài mới là nơi mức dễ tổn thương khí hậu — chứ không phải từng cơn bão — được phản ánh vào giá.

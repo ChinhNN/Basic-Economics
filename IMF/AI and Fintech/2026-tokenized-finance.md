@@ -221,3 +221,69 @@
 > "Atomicity is a technical property. Finality is a legal one. They do not automatically coincide."
 
 > "Without a central bank settlement asset on the ledger, tokenized finance risks recreating the very credit and liquidity exposures it promises to remove."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Khoảng cách giữa tính nguyên tử và tính chung quyết toán là một khoản rủi ro chưa được ai đặt tên
+
+Phân biệt giữa nguyên tử — thuộc tính kỹ thuật của sổ cái — và chung quyết toán — thuộc tính pháp lý xác định thời điểm không thể đảo ngược kể cả khi một bên phá sản — là đóng góp khái niệm sắc nhất của bài. Nhưng hệ quả của nó lớn hơn chỗ bài dừng lại.
+
+Hãy hình dung khoảng trống ấy một cách cụ thể. Giao dịch đã hoàn tất trên sổ cái: token đã chuyển, số dư đã cập nhật, cả hai bên đều thấy kết quả. Nhưng về mặt pháp lý, nếu một bên phá sản trong giai đoạn sau đó, quản tài viên có thể lập luận rằng việc chuyển giao là vô hiệu và đòi hoàn trả. Trong khoảng thời gian giữa hai thời điểm ấy, bên nhận **đang mang một khoản rủi ro mà không có bất kỳ ai đo, ai tính vốn, hay ai đặt hạn mức**.
+
+Đây không phải một rủi ro mới trong lịch sử tài chính. Nó là bản sao hiện đại của loại rủi ro quyết toán mà toàn bộ hạ tầng thị trường tài chính đã được xây lên trong ba chục năm để tiêu diệt: tình huống một bên đã thực hiện nghĩa vụ của mình trong khi vế còn lại chưa chắc chắn về mặt pháp lý. Ngành tài chính đã tốn rất nhiều công sức và rất nhiều tiền để loại bỏ nó, thông qua luật quyết toán, hệ thống quyết toán tổng tức thời, và cơ chế thanh toán đổi thanh toán.
+
+Điều đáng lo là loại rủi ro này có một đặc tính nguy hiểm: **nó vô hình cho tới đúng lúc nó hiện ra**. Trong điều kiện bình thường, không ai kiểm tra xem một bút toán có chung thẩm về mặt pháp lý hay không, vì không ai tranh chấp. Nó chỉ lộ ra trong vụ phá sản đầu tiên, tức là thời điểm tệ nhất và cũng là thời điểm mà lượng giao dịch đang treo lơ lửng là lớn nhất.
+
+Vì vậy trật tự đúng không phải là xây hệ thống rồi làm rõ luật khi có vấn đề. Bài nói đúng ở trụ cột thứ nhất: **làm trước, không làm sau**. Điều bài chưa nói đủ mạnh là vì sao — không phải vì làm trước thì gọn gàng hơn, mà vì rủi ro này không thể phát hiện bằng cách vận hành thử.
+
+### Tính đơn nhất của tiền là lập luận quyết định, và nó không phải một lập luận về rủi ro
+
+Trong ba loại tiền token hoá, bài phân biệt chúng chủ yếu bằng hồ sơ rủi ro. Nhưng tiêu chí thực sự phân định chúng là một tiêu chí khác, và bài có nêu tên mà không khai thác: **tính đơn nhất của tiền**.
+
+Một hệ thống thanh toán chỉ là một hệ thống khi mọi hình thái tiền trong đó đều quy đổi ngang mệnh giá. Nếu một stablecoin giao dịch ở chín mươi chín phẩy bảy xu, thì tồn tại hai mức giá cho cùng một đơn vị danh nghĩa, và mọi hợp đồng phải ghi rõ mình đang nói tới loại tiền nào. Đó không phải một rủi ro tài chính cần được tính vốn. Đó là **sự mất đi chức năng đơn vị tính toán**, tức là chức năng cơ bản nhất của tiền, và nó làm hỏng mọi thứ xây trên đó: kế toán, định giá, tính toán nghĩa vụ ròng, so sánh giữa các báo giá.
+
+Đặt như vậy thì lập luận của bài về sự cần thiết của một tài sản quyết toán ngân hàng trung ương trên sổ cái trở nên mạnh hơn nhiều so với cách nó được trình bày. Nó không chỉ là câu chuyện loại bỏ rủi ro tín dụng của bên phát hành tư nhân. Nó là câu chuyện **có một điểm neo mà mọi token tư nhân quy về, để hệ thống còn là một hệ thống**.
+
+Và ở đây, lịch sử lặp lại một cách khá chính xác. Thời kỳ tiền ngân hàng tư nhân thế kỷ mười chín kết thúc không phải vì thị trường chọn ra một loại giấy bạc tốt nhất, mà vì nhà nước tạo ra một đơn vị thống nhất mà mọi công cụ khác phải quy chiếu vào. Đề xuất của bài — một tài sản quyết toán ngân hàng trung ương làm neo cho các token tư nhân — chính là động tác đó, phát biểu bằng ngôn ngữ kỹ thuật của thế kỷ hai mươi mốt.
+
+### Hai tài liệu IMF trong cùng thư mục, cùng thời điểm, nghiêng về hai hướng khác nhau
+
+Bài này lập luận rằng nếu không có tiền ngân hàng trung ương **trên sổ cái**, tài chính token hoá sẽ tái tạo lại chính các rủi ro nó hứa loại bỏ. Báo cáo chính sách về CBDC trong cùng thư mục lại kết luận rằng lợi ích của token hoá **có thể đạt được mà không cần phát hành CBDC bán buôn**, thông qua cơ chế kích hoạt nối sang hệ thống quyết toán sẵn có hoặc thông qua tài khoản gộp.
+
+Hai kết luận này không mâu thuẫn trực tiếp, nhưng chúng đặt trọng tâm ở hai nơi khác nhau, và điểm khác biệt nằm ở một câu hỏi kỹ thuật rất cụ thể: **tính nguyên tử một phần có đủ không**.
+
+Cơ chế kích hoạt giữ được điểm neo — tiền quyết toán vẫn là tiền ngân hàng trung ương — nhưng đặt nó **ngoài sổ cái**. Giao dịch trên sổ cái token phải gọi sang hệ thống bên ngoài, chờ xác nhận, rồi mới hoàn tất. Trong khoảng chờ đó, tính nguyên tử bị phá vỡ: có một cửa sổ trong đó một chân đã thực hiện còn chân kia chưa. Cửa sổ ấy có thể rất ngắn, nhưng nó tồn tại, và nó chính là khoảng trống mà đoạn trên vừa mô tả.
+
+Vậy câu hỏi thật là: cửa sổ ngắn tới mức nào thì coi như không có? Với giao dịch trong nước, trong giờ làm việc, giữa các bên đã biết nhau, câu trả lời có lẽ là "đủ ngắn". Với giao dịch xuyên biên giới, qua nhiều múi giờ, giữa các bên ở các tài phán khác nhau, câu trả lời có lẽ là "không". Cả hai tài liệu đều không đặt câu hỏi theo cách này, và đó là câu hỏi còn treo giữa chúng. Với một nước phải chọn hướng đi, đây là câu hỏi cần trả lời trước tiên, vì nó quyết định liệu phải phát hành một thứ mới hay chỉ cần nối thứ đã có.
+
+### Ba kịch bản không có xác suất, và kịch bản có khả năng nhất lại là kịch bản nguy hiểm nhất
+
+Bài đưa ra ba kịch bản — ngõ cụt, song song, chuyển đổi — rồi để chúng ngang hàng. Nhưng chính mô tả của bài đã ngầm xếp hạng chúng.
+
+Kịch bản chuyển đổi được mô tả là đòi hỏi "phối hợp quốc tế ở mức chưa từng có". Trong ngôn ngữ của tài liệu chính sách đa phương, cụm từ đó gần như là một lời thừa nhận rằng điều đó sẽ không xảy ra. Kịch bản ngõ cụt thì đã bị thực tế bác bỏ một phần: các dự án đã vượt quy mô thí điểm ở một số mảng, đặc biệt là quản lý tài sản bảo đảm và thanh toán xuyên biên giới bán buôn.
+
+Còn lại kịch bản song song, và đó cũng là kịch bản mà phân tích về hạ tầng thị trường tài chính trong cùng thư mục xác định là **giai đoạn nguy hiểm nhất**: thanh khoản phân mảnh, cầu nối trở thành điểm hỏng có tầm quan trọng hệ thống, chênh lệch quy định tạo arbitrage, và chi phí vận hành kép bào mòn chính các tổ chức đang chuyển đổi.
+
+Nếu lộ trình khả dĩ nhất là lộ trình tệ nhất, thì thứ tự ưu tiên của năm trụ cột phải thay đổi. Trụ cột về **khả năng liên thông** — vốn được xếp thứ ba và thường bị coi là việc kỹ thuật buồn tẻ — trở thành trụ cột quan trọng thứ hai sau pháp lý, vì nó là thứ duy nhất làm dịu được chính rủi ro của kịch bản song song. Còn cuộc tranh luận về kiến trúc sổ cái lý tưởng, thứ chiếm phần lớn sự chú ý trong ngành, lại là cuộc tranh luận ít cấp thiết nhất, vì nó bàn về một đích đến có khả năng không bao giờ tới.
+
+### Rủi ro duy nhất đẩy theo chiều ngược lại chỉ được cho một dòng, và nó làm hỏng lựa chọn "chờ xem"
+
+Toàn bộ phần về các nền kinh tế mới nổi tập trung vào rủi ro của việc token hoá lan tới: thay thế tiền tệ, lách kiểm soát vốn, bào mòn cơ sở tiền gửi. Tất cả đều nói rằng hãy cẩn trọng, hãy phòng thủ, hãy chậm lại.
+
+Rồi ở cuối phần đó, một câu nói ngược: nếu các nước này bị loại khỏi hạ tầng token hoá đang hình thành, chi phí và thời gian cho thanh toán xuyên biên giới và kiều hối có thể vẫn cao trong khi các nước khác hưởng lợi.
+
+Câu này quan trọng hơn vị trí của nó, vì nó phá hỏng một giả định mà mọi lập luận phòng thủ đều dựa vào: rằng **không làm gì thì giữ nguyên hiện trạng**. Điều đó chỉ đúng khi phần còn lại của thế giới cũng đứng yên. Nếu hạ tầng bán buôn của thanh toán quốc tế dịch chuyển, một nước không kết nối không giữ được dịch vụ như cũ — nó nhận dịch vụ **xấu đi tương đối**, vì các ngân hàng đại lý sẽ tập trung nguồn lực vào hành lang mới và rút dần khỏi hành lang cũ, đúng theo xu hướng thu hẹp quan hệ đại lý đã diễn ra nhiều năm nay.
+
+Nói cách khác, đây là một tình thế không có lựa chọn trung lập: tham gia mang rủi ro thay thế tiền tệ, không tham gia mang rủi ro bị cô lập về hạ tầng. Bài dựng ra tình thế này rồi không giải, và đó là câu hỏi chiến lược thật sự mà một nước như Việt Nam phải trả lời.
+
+### Với Việt Nam: bốn trong năm trụ cột cần phối hợp quốc tế, trụ cột còn lại thì không
+
+Chiếu lộ trình năm trụ cột vào hoàn cảnh một nước đi sau, một trật tự ưu tiên khá rõ hiện ra, và nó khác với trật tự trong bài.
+
+Trụ cột thứ hai về tài sản quyết toán, thứ ba về liên thông và thứ tư về quản trị mã lệnh đều phụ thuộc vào chuẩn mực được định hình ở nơi khác, bởi những bên có quy mô lớn hơn nhiều. Trụ cột thứ năm về bảo vệ trước thay thế tiền tệ thì phụ thuộc vào việc điều chỉnh được hành vi của các bên phát hành đặt ở nước ngoài — khó, và như các tài liệu khác trong thư mục đã chỉ ra, lệnh cấm khó thực thi.
+
+**Trụ cột thứ nhất thì hoàn toàn nằm trong tầm kiểm soát.** Năm câu hỏi pháp lý mà bài liệt kê — luật nào áp dụng, token là loại tài sản gì, mã hay hợp đồng thắng khi hai bên mâu thuẫn, ai có quyền đảo ngược, tài sản khách hàng có tách khỏi khối phá sản của trung gian không — đều là những câu hỏi mà một quốc hội có thể trả lời cho sổ cái trong phạm vi lãnh thổ mình mà không cần hỏi ai. Chúng không tốn ngoại tệ, không cần công nghệ, không cần đàm phán quốc tế, và chúng có giá trị ngay cả trong kịch bản ngõ cụt, vì khi đó chúng chỉ đơn giản là chưa được dùng tới.
+
+Đây cũng là chỗ đáng ghi nhận một sự hội tụ: **ba tài liệu độc lập trong cùng thư mục** — bài này, phân tích về hạ tầng thị trường tài chính, và báo cáo chính sách về CBDC — đều chỉ ra luật về tính chung quyết toán là bước rẻ nhất, ít hào nhoáng nhất và có tỷ suất lợi ích cao nhất. Khi ba khung phân tích khác nhau cùng chỉ vào một việc, đó là lý do đủ để làm việc đó trước.
+
+Về phần rủi ro, hồ sơ của Việt Nam làm thay đổi thứ tự so với bài. Rủi ro tiền gửi chạy nhanh hơn trong môi trường hoạt động liên tục chưa phải mối lo cấp bách, vì tiền gửi token hoá chưa tồn tại. Rủi ro thay thế tiền tệ và lách kiểm soát vốn thì đã đang diễn ra, nhưng qua kênh stablecoin bán lẻ chứ không qua tài chính token hoá bán buôn. Điều này gợi ý một cách chia việc rõ ràng: **phần bán buôn là cơ hội cần chuẩn bị về pháp lý; phần bán lẻ là rủi ro cần xử lý ngay**. Gộp hai thứ vào cùng một cuộc thảo luận, như cách chúng thường bị gộp, làm chậm cả hai.

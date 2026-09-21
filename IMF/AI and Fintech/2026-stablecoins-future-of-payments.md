@@ -187,3 +187,63 @@
 > "Markets did not price the end of payments. They priced a redistribution within payments."
 
 > "Eighteen percent of industry value is far larger than a fee cap and far smaller than an extinction event."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Con số được trích nhiều nhất là con số mong manh nhất, và phần vững chắc lại nằm ở chỗ khác
+
+Hai kết quả của bài có độ tin cậy rất khác nhau, nhưng chúng được trình bày cạnh nhau như thể cùng một hạng.
+
+Kết quả thứ nhất — âm 0,747% trong cửa sổ hẹp, khoảng 21,5 tỷ đô la bốc hơi — là một **phép đo**. Nó có thời điểm xác định tới phút, có nhóm đối chứng, có kiểm định giả, và được chống đỡ bằng sáu phụ lục kiểm tra độ vững. Đây là bằng chứng thật.
+
+Kết quả thứ hai — 18% giá trị ngành, khoảng 300 tỷ đô la — là một **phép ngoại suy**, và nó đi qua một phép chia cho một con số nhỏ và nhiễu: mức tăng xác suất theo thị trường dự đoán. Phép chia đó mang theo ba giả định mà bài không tách bạch.
+
+Giả định đầu là thước đo xác suất chính xác. Thị trường dự đoán cho một dự luật cụ thể thường mỏng, chênh lệch mua bán rộng, và giá trước cuộc bỏ phiếu bị nhiễu bởi chính sự bất định về thủ tục.
+
+Giả định thứ hai, và là giả định đáng ngờ nhất, là **tuyến tính theo xác suất**: rằng tác động của việc đi từ không lên một trăm phần trăm bằng đúng tác động quan sát được chia cho mức tăng thực tế. Thị trường gần như chắc chắn không định giá tuyến tính ở đây. Tin lớn là "sẽ có một đạo luật"; phần chênh giữa khả năng tám mươi phần trăm và sự chắc chắn hoàn toàn nhỏ hơn nhiều so với phần chênh giữa không và tám mươi. Nếu hàm định giá lõm theo xác suất — điều rất thường gặp với các sự kiện pháp lý nhị phân — thì phép ngoại suy tuyến tính **ước lượng cao** tác động toàn phần.
+
+Giả định thứ ba là mọi thông tin đã được hấp thụ trong cửa sổ vài phút. Bài có kiểm tra cửa sổ rộng hơn và thấy con số lớn hơn, âm 1,272%, điều đó gợi ý quá trình định giá còn tiếp diễn, và như vậy việc chọn cửa sổ nào cũng là một lựa chọn ảnh hưởng tới kết quả cuối.
+
+Khoảng tin cậy từ 13% tới 27% phản ánh bất định thống kê, không phản ánh bất định về dạng hàm. Nên con số 300 tỷ nên được trích như một **độ lớn bậc thang** chứ không phải một ước lượng điểm.
+
+### Bài đo một thứ khác với thứ tiêu đề nói, và sự khác biệt đó rất quan trọng
+
+Cú sốc được dùng không phải là "stablecoin xuất hiện" mà là "**Hoa Kỳ sẽ có một chế độ cấp phép liên bang cho stablecoin**". Hai điều đó không đồng nghĩa, và sự chênh lệch giữa chúng thay đổi cách diễn giải toàn bộ kết quả.
+
+Đạo luật GENIUS vừa hợp pháp hoá vừa siết. Nó yêu cầu dự trữ một đổi một bằng tài sản chất lượng cao, buộc công bố hàng tháng, và **cấm trả lãi cho người nắm giữ** — một điều khoản được thiết kế rõ ràng để stablecoin không cạnh tranh trực tiếp với tiền gửi ngân hàng. Một chế độ như vậy vừa mở cửa vừa đóng bớt cửa, và nó có xu hướng ưu ái bên đủ lớn để xin được giấy phép.
+
+Đặt lại như vậy thì kết quả chéo ngành có hai cách đọc cùng khớp với số liệu. Cách đọc của bài: thị trường cho rằng stablecoin tái phân phối giá trị từ khâu trung gian xuyên biên giới sang chủ sở hữu mạng lưới. Cách đọc thứ hai: thị trường cho rằng **chế độ cấp phép sẽ trao mảng kinh doanh stablecoin cho các tổ chức được cấp phép sẵn có**, nên bên đã có hạ tầng và bên đã có giấy phép thì thắng, còn bên chỉ có chuỗi trung gian xuyên biên giới thì thua.
+
+Mức tăng 0,885% của mạng thẻ phù hợp với cả hai, nhưng nó phù hợp với cách đọc thứ hai một cách tự nhiên hơn, vì mạng thẻ không hề là bên hưởng lợi từ công nghệ stablecoin — họ là bên hưởng lợi từ việc công nghệ đó bị đưa vào một khuôn khổ mà họ có thể tham gia.
+
+Hai cách đọc dẫn tới hai kết luận chính sách trái ngược. Cách thứ nhất nói rằng khung pháp lý giải phóng cạnh tranh. Cách thứ hai nói rằng khung pháp lý **củng cố vị thế của bên hiện hữu** và chuyển giá trị từ nhóm trung gian nhỏ sang nhóm lớn. Nghiên cứu sự kiện, dù thiết kế tốt đến đâu, không tách được hai khả năng này, vì chỉ có một sự kiện và nó mang cả hai nội dung.
+
+### Phần bền vững nhất của bài là bảng cắt ngang, không phải con số tổng
+
+Điều làm nghiên cứu này thuyết phục không phải độ lớn của phản ứng trung bình mà là **cấu trúc bên trong của nó**. Nếu toàn ngành cùng giảm một mức giống nhau, giải thích khả dĩ nhất sẽ là một yếu tố thị trường chung nào đó chưa được kiểm soát hết. Nhưng ở đây các nhóm phản ứng ngược chiều nhau và ngược đúng theo hướng mà logic kinh tế dự đoán: nhóm có mô hình kinh doanh bị đe doạ thì mất thêm, nhóm có hiệu ứng mạng và quan hệ thương nhân thì được, nhóm đã đầu tư sẵn thì được.
+
+Một mô thức như vậy rất khó tạo ra bởi nhiễu. Đây mới là bằng chứng thật của bài, và nó nói một điều cụ thể hơn con số tổng: **điểm chịu lực không phải "thanh toán" mà là lớp ngân hàng đại lý trong thanh toán xuyên biên giới** — chuỗi nhiều khâu, mỗi khâu một khoản phí, hoạt động theo giờ hành chính, và không có hiệu ứng mạng bảo vệ. Đó là chẩn đoán có thể dùng được, và nó sẽ còn đúng bất kể con số 18% có được hiệu chỉnh về sau hay không.
+
+### Câu hỏi phúc lợi thật sự nằm ở phía bài không đo được, và nó có một câu trả lời đáng lo
+
+Ba trăm tỷ đô la giá trị vốn hoá biến mất là giá trị hiện tại của một dòng **tô kinh tế** bị mất ở khâu trung gian. Bài nói đúng rằng việc khoản đó có chuyển thành tiết kiệm cho người gửi và người nhận hay không là điều không tự động, và phụ thuộc vào mức độ cạnh tranh ở hai đầu hành lang chuyển tiền.
+
+Nhưng có thể nói cụ thể hơn thế, và câu trả lời không lạc quan. Trong phần lớn hành lang kiều hối, chi phí không dồn ở khâu chuyển tiền quốc tế mà dồn ở **hai đầu**: chênh lệch tỷ giá khi đổi từ nội tệ sang ngoại tệ và ngược lại, và phí của mạng lưới đại lý nhận tiền mặt ở đầu đến. Đây là hai điểm mà stablecoin không chạm tới, vì stablecoin chỉ thay thế đoạn giữa.
+
+Nếu chỉ đoạn giữa rẻ đi trong khi hai đầu vẫn là độc quyền nhóm địa phương, kết quả dễ xảy ra nhất là **tô chuyển từ ngân hàng đại lý sang đại lý nạp rút tại chỗ**, còn người lao động gửi tiền về nhà không thấy khác biệt bao nhiêu. Đây chính xác là mô thức đã được ghi nhận độc lập trong phân tích về cạnh tranh thanh toán, nơi hơn bốn mươi phần trăm người dùng một hệ thống thanh toán được quảng bá là miễn phí vẫn gặp một loại phí nào đó: khi một điểm trong chuỗi bị ép về không, chi phí di chuyển sang điểm liền kề chưa bị quản lý.
+
+Hệ quả cho việc đánh giá chính sách: đừng đo tác động của stablecoin bằng phí chuyển tiền quốc tế. Phải đo bằng **tổng chi phí từ lúc người gửi rút nội tệ ở nước đi tới lúc người nhận cầm nội tệ ở nước đến**, bao gồm cả chênh lệch tỷ giá ở cả hai đầu. Đó là con số duy nhất nói lên phúc lợi.
+
+### Với Việt Nam: đây là tài liệu có liên quan trực tiếp nhất tới cán cân thanh toán trong cả thư mục
+
+Việt Nam thuộc nhóm nhận kiều hối lớn nhất thế giới, và dòng tiền này là một cấu phần đáng kể của cán cân vãng lai, đủ lớn để bù một phần thâm hụt thương mại dịch vụ và để làm dịu áp lực tỷ giá. Bài này nói rằng lợi ích xã hội lớn nhất của stablecoin, theo đánh giá của thị trường tài chính, nằm đúng ở mảng chuyển tiền xuyên biên giới. Vì vậy trong toàn bộ thư mục, đây là tài liệu chạm trực tiếp nhất vào một biến số vĩ mô mà Việt Nam quan tâm.
+
+Nhưng cách khai thác nó không hiển nhiên, và lựa chọn chính sách không phải là giữa có và không có stablecoin.
+
+**Điều kiện để phần tiết kiệm thật sự về tới hộ gia đình** là đầu nhận phải cạnh tranh. Ở điểm này Việt Nam có lợi thế cấu trúc hiếm: tiền về tài khoản ngân hàng gần như tức thời, chuyển khoản nội địa rẻ, mạng lưới ngân hàng và ví phủ rộng. Nghĩa là đoạn cuối của hành lang — đoạn mà ở nhiều nước đang phát triển là nơi tô bị thu — đã tương đối hiệu quả. Nếu đoạn giữa rẻ đi thật, phần lớn khoản tiết kiệm có cơ hội đi tới người nhận thay vì bị chặn lại.
+
+**Nhưng chỉ khi kênh đó hợp pháp và đo đếm được.** Đây là điểm quan trọng nhất và nó không nằm trong bài. Kiều hối qua kênh không chính thức đã tồn tại từ lâu ở mọi nước nhận kiều hối lớn. Nếu chuyển tiền bằng stablecoin rẻ hơn đáng kể mà không có khuôn khổ hợp pháp, dòng tiền sẽ đi qua kênh đó dù sao, và khi ấy nhà nước mất cả ba thứ: mất dữ liệu về quy mô dòng vốn vào, mất khả năng áp dụng biện pháp chống rửa tiền ở điểm nhập cảnh của tiền, và mất phần ngoại tệ không đi qua hệ thống ngân hàng nên không bổ sung vào thanh khoản ngoại tệ trong nước.
+
+Nói cách khác, lựa chọn thực tế không phải giữa chấp nhận và không chấp nhận, mà giữa **một dòng chảy được giám sát và một dòng chảy không được giám sát**. Đây là cùng một kết luận mà các tài liệu khác trong thư mục đã rút ra cho việc quản lý stablecoin nói chung, nhưng ở đây nó có một hệ quả cán cân thanh toán cụ thể và đo được, chứ không chỉ là nguyên tắc.
+
+Một lưu ý cuối về cách trích dẫn. Nghiên cứu này đo **kỳ vọng của thị trường tài chính Hoa Kỳ về một đạo luật Hoa Kỳ**, không đo tác động thực tế lên chi phí chuyển tiền ở bất kỳ hành lang nào. Thị trường có thể sai, và trong lịch sử thị trường đã nhiều lần định giá quá mạnh các công nghệ thanh toán mới ở giai đoạn đầu. Con số 18% là một dự báo tập thể có kỷ luật, không phải một kết quả đã xảy ra.

@@ -266,3 +266,67 @@
 > "Stimulus measures should be timely, targeted, and temporary—quickly reversed once conditions improve."
 
 > "Multipliers can be small or even negative if the expansion raises concerns about future sustainability."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Bài có sẵn lý thuyết đúng về số nhân, và chính ngành đã dùng sai con số
+
+Đoạn về số nhân là phần giá trị nhất của bài, và nó liệt kê ba điều kiện làm số nhân lớn: ít rò rỉ, **điều kiện tiền tệ thuận lợi** — tức lãi suất không tăng lên khi tài khoá mở rộng — và vị thế tài khoá sau kích thích vẫn được coi là bền vững.
+
+Hãy để ý điều kiện thứ hai. Năm 2009 và nhiều năm sau đó, lãi suất chính sách ở các nền kinh tế lớn đã chạm sàn và không thể giảm thêm, đồng nghĩa với việc nó cũng **không tăng lên** để đáp lại chi tiêu công. Theo đúng khung của chính bài, đó là hoàn cảnh số nhân phải lớn.
+
+Điều đã xảy ra là các dự báo dùng để thiết kế chương trình củng cố tài khoá ở châu Âu sau năm 2010 lại giả định số nhân nhỏ, quanh mức một nửa. Kết quả là tăng trưởng thực tế ở các nước cắt giảm mạnh nhất thấp hơn dự báo một cách có hệ thống, và mức độ sai lệch tỷ lệ thuận với quy mô cắt giảm. Chính IMF sau đó công bố phân tích thừa nhận rằng số nhân trong giai đoạn khủng hoảng đã lớn hơn đáng kể so với giả định, và đó là một trong những lần tự đính chính công khai đáng chú ý nhất trong lịch sử tổ chức này.
+
+Điều đáng nói không phải là ai sai, mà là **sai lầm nằm ở việc áp một hằng số cho một đại lượng mà chính bài đã mô tả là phụ thuộc vào hoàn cảnh**. Số nhân không phải một tham số của nền kinh tế; nó là một hàm của trạng thái. Cùng một khoản chi công có tác động rất khác nhau tuỳ vào việc nền kinh tế đang ở đáy hay gần hết công suất, ngân hàng trung ương đang ở sàn lãi suất hay đang thắt chặt, và các nước khác đang mở rộng hay cùng cắt giảm. Bài nói đúng điều đó vào năm 2009; thực hành thì mất thêm nhiều năm mới theo kịp.
+
+### Số nhân không phải thuộc tính của một nước mà là thuộc tính của một cấu hình
+
+Bài nêu rằng số nhân "có xu hướng cao hơn... với các nước lớn hơn", vì nước lớn thì phần chi tiêu rò rỉ ra nhập khẩu ít hơn. Đúng, nếu xét một nước hành động một mình.
+
+Nhưng phần mở đầu của chính bài trích tuyên bố của G20 rằng họ đang thực hiện "sự mở rộng tài khoá chưa từng có **và phối hợp**". Bài không nối hai chỗ này lại, và sự nối ấy thay đổi hẳn kết luận.
+
+Khi tất cả cùng mở rộng, phần rò rỉ của nước này trở thành **cầu xuất khẩu của nước kia** và quay trở lại. Rò rỉ không biến mất khỏi hệ thống mà chỉ đi một vòng. Nghĩa là một nền kinh tế nhỏ và rất mở, vốn có số nhân thấp khi kích thích một mình, sẽ có số nhân cao hơn nhiều khi kích thích trong một đợt mở rộng đồng bộ toàn cầu — và ngược lại, sẽ chịu số nhân âm của người khác khi cả thế giới cùng thắt lưng buộc bụng.
+
+Hệ quả cho việc đọc và cho việc hoạch định chính sách: câu hỏi "số nhân của nước ta là bao nhiêu" là một câu hỏi không có câu trả lời cố định. Câu hỏi đúng là "số nhân của nước ta **trong hoàn cảnh hiện tại của thế giới** là bao nhiêu". Với một nước có độ mở thương mại rất lớn, khoảng dao động giữa hai hoàn cảnh này là rất rộng, và nó đủ lớn để đảo ngược kết luận về việc có nên kích thích hay không.
+
+### Ba chữ "T" đã hỏng ở chữ thứ ba, và chữ thứ ba là chữ khó nhất về mặt chính trị
+
+"Kịp thời, đúng đối tượng, tạm thời" là công thức được trích dẫn nhiều nhất từ bài, và vế thứ ba được định nghĩa rất rõ: "được **đảo ngược nhanh chóng** một khi điều kiện cải thiện".
+
+Vế này gần như không bao giờ xảy ra, và lý do thì có cấu trúc chứ không phải do yếu kém. Một khoản chi tiêu khi được thiết lập sẽ tạo ra một nhóm người thụ hưởng có tổ chức và có động cơ mạnh để bảo vệ nó, trong khi chi phí của việc duy trì nó thì phân tán mỏng ra toàn bộ người nộp thuế, không ai thấy đủ đau để phản đối. Đây là bất đối xứng chính trị kinh điển, và nó bảo đảm rằng chi tiêu tạm thời có xu hướng trở thành vĩnh viễn.
+
+Bài có nêu lời giải ở phần sau, cũng trong một câu ngắn: các cơ chế **rà soát chính thức hay hết hạn** giúp bảo đảm sáng kiến mới không sống lâu hơn mục đích ban đầu. Đây là điểm đáng nâng lên thành nguyên tắc: thời điểm duy nhất có thể quyết định một chương trình sẽ kết thúc là **lúc thông qua nó**, vì khi đó chưa có nhóm thụ hưởng nào tồn tại để phản đối. Đưa điều khoản hết hiệu lực vào ngay trong văn bản thành lập tốn gần như không gì; gỡ bỏ một chương trình đã chạy ba năm thì gần như bất khả thi.
+
+Có một điều bài không thể lường trước và nó làm phức tạp thêm vấn đề: việc rút lại kích thích sau năm 2010 ở nhiều nơi diễn ra **quá sớm chứ không phải quá muộn**. Nghĩa là chữ "tạm thời" có hai cách hỏng ngược nhau, và cả hai đều tốn kém. Cách phân biệt không nằm ở thời gian đã trôi qua mà ở việc chênh lệch sản lượng đã đóng hay chưa — một đại lượng không quan sát được trực tiếp và thường bị ước lượng sai đúng vào lúc cần nhất.
+
+### Khuyến nghị quan trọng nhất của bài là một khuyến nghị cho thời bình, và nó bị để ở dạng một nhận xét
+
+Bài so sánh rất chính xác hai kênh. Bộ ổn định tự động **không có độ trễ thực hiện**, không cần đàm phán chính trị, tự động tỷ lệ thuận với mức độ cú sốc, và **tự động rút lại** khi điều kiện cải thiện. Kích thích tuỳ nghi thất bại ở cả bốn điểm đó.
+
+Rồi bài ghi nhận, như một dữ kiện buồn, rằng "ở nhiều nước thu nhập thấp và thị trường mới nổi, các hạn chế thể chế và cơ sở thuế hẹp khiến các bộ ổn định tương đối yếu".
+
+Đó không phải một dữ kiện buồn mà là **khuyến nghị chính sách quan trọng nhất trong cả bài**, chỉ là nó không được viết ra như một khuyến nghị. Nếu bộ ổn định vượt trội hơn kích thích tuỳ nghi ở mọi chiều, thì cải cách có lợi tức cao nhất với một nước có bộ ổn định yếu không phải là học cách kích thích giỏi hơn, mà là **xây bộ ổn định** — bảo hiểm thất nghiệp có độ bao phủ thật, thuế thu nhập cá nhân luỹ tiến trên một cơ sở đủ rộng, và một hệ thống đăng ký hộ gia đình cho phép chuyển tiền tới đúng người trong vài tuần.
+
+Điểm mấu chốt là **không thể xây những thứ này trong lúc khủng hoảng**. Chúng đòi hỏi dữ liệu, đăng ký, hệ thống thanh toán và nhiều năm vận hành để hoạt động trơn tru. Đại dịch năm 2020 là bài kiểm tra rõ ràng nhất: các nước đã có sẵn cơ sở dữ liệu người thụ hưởng và hạ tầng thanh toán số chuyển được tiền tới hàng chục triệu hộ trong vài tuần; các nước chưa có thì phải vừa xây vừa phát, và tiền đến chậm hàng tháng trời, đến sai đối tượng, hoặc không đến được nhóm phi chính thức. Năng lực ứng phó khủng hoảng của một nước được quyết định chủ yếu bằng những gì nó đã xây trong thời bình.
+
+### Khung phân tích thiếu một câu hỏi, và chính câu hỏi đó gây ra đợt lạm phát 2021–2023
+
+Bài hướng dẫn điều chỉnh quy mô kích thích theo **chênh lệch sản lượng** — khoảng cách giữa sản lượng dự kiến và sản lượng nếu nền kinh tế hoạt động hết công suất. Đây là quy trình chuẩn, và nó có một lỗ hổng mà bài không nhắc tới.
+
+Chênh lệch sản lượng giả định rằng phần sản lượng thiếu hụt là do **cầu yếu**, và vì vậy có thể lấp lại bằng cách bơm cầu. Nhưng cùng một mức sản lượng thấp cũng có thể đến từ việc **năng lực sản xuất thực sự bị thu hẹp** — chuỗi cung ứng đứt, lao động rời thị trường, nguồn năng lượng bị cắt. Trong trường hợp thứ hai, phần "chênh lệch" đo được không phải là một khoảng trống để lấp mà là một mức trần mới. Bơm cầu vào đó không tạo ra sản lượng; nó tạo ra giá.
+
+Đây chính xác là điều đã xảy ra trong giai đoạn 2021–2023. Quy mô kích thích được thiết kế theo ước tính về một chênh lệch sản lượng lớn; số nhân hoá ra đúng là lớn như khung của bài dự đoán; nhưng phần năng lực cung đã bị thu hẹp nhiều hơn so với ước tính, và kết quả là đợt lạm phát mạnh nhất trong bốn mươi năm.
+
+Bài học không phải là chênh lệch sản lượng vô dụng mà là nó **không được quan sát trực tiếp và bị ước lượng sai lớn nhất đúng vào những thời điểm bất thường** — tức đúng những lúc người ta cần nó nhất. Đọc cùng bài về chênh lệch sản lượng trong cùng loạt Back to Basics thì vấn đề hiện rõ: một biến then chốt của chính sách tài khoá và tiền tệ lại là một biến được suy ra từ mô hình chứ không đo được, và mọi kết luận chính sách kế thừa toàn bộ độ bất định của nó.
+
+### Với Việt Nam: cả ba chữ "T" đều gặp trở ngại cụ thể, và trở ngại lớn nhất nằm ở chữ đầu tiên
+
+**Kịp thời.** Đây là điểm yếu rõ nhất. Vấn đề chậm giải ngân đầu tư công đã được nêu ra nhiều năm và được chính các cơ quan trong nước thừa nhận: dự án được phê duyệt trong một năm, giải ngân trải dài nhiều năm sau, và phần lớn khối lượng dồn vào cuối kỳ. Với mục tiêu ổn định hoá chu kỳ, điều này không chỉ là kém hiệu quả mà còn **phản tác dụng**: một gói kích thích thông qua trong giai đoạn suy giảm có thể bơm tiền vào nền kinh tế khi đã phục hồi, tức tác động **thuận chu kỳ** thay vì ngược chu kỳ.
+
+Lời giải mà logic của bài dẫn tới rất cụ thể và không tốn kém: duy trì sẵn một **danh mục dự án đã hoàn tất chuẩn bị** — thiết kế xong, mặt bằng đã giải phóng, thủ tục đã đủ — để khi cần kích thích thì độ trễ chỉ còn ở khâu thi công chứ không còn ở khâu chuẩn bị. Đây là việc phải làm trong thời bình, cùng loại với việc xây bộ ổn định.
+
+**Đúng đối tượng.** Bộ ổn định tự động của Việt Nam yếu đúng theo cách bài mô tả. Bảo hiểm thất nghiệp chỉ bao phủ lao động khu vực chính thức, trong khi một tỷ trọng lớn việc làm là phi chính thức; cơ sở thuế thu nhập cá nhân hẹp nên vế thu cũng ít co giãn theo chu kỳ. Hệ quả là nhóm chịu cú sốc nặng nhất cũng là nhóm mà hệ thống không nhìn thấy và không chạm tới được. Kinh nghiệm các gói hỗ trợ trong giai đoạn dịch cho thấy đúng điều đó: việc ban hành nhanh, việc đưa được tiền tới lao động tự do thì chậm và không đầy đủ. Hạ tầng cần xây ở đây là một cơ sở dữ liệu hộ gia đình gắn với tài khoản thanh toán, và đó là việc của thời bình.
+
+**Tạm thời.** Chữ này ngược lại, là chữ Việt Nam làm tương đối tốt — các gói hỗ trợ thường có thời hạn rõ ràng và hết hiệu lực. Rủi ro ở đây không phải chi tiêu tạm thời trở thành vĩnh viễn mà là ở các hình thức hỗ trợ **không đi qua ngân sách**: miễn giảm thuế, giãn nộp, khoanh nợ và các ưu đãi ngành. Những khoản này không xuất hiện ở bên chi, không bị rà soát như chi tiêu, và vì vậy dễ tồn tại rất lâu mà không ai tính tổng.
+
+Cuối cùng là vấn đề **rò rỉ**, nơi cấu trúc của nền kinh tế Việt Nam đặt ra một ràng buộc rất rõ. Với độ mở thương mại thuộc nhóm cao nhất thế giới và hàm lượng nhập khẩu lớn trong cả tiêu dùng lẫn đầu tư, một đồng chuyển thẳng cho hộ gia đình có phần đáng kể chảy ra ngoài qua nhập khẩu. Điều này ủng hộ đúng kết luận mà bài rút ra bằng lý thuyết: **số nhân của biện pháp chi tiêu cao hơn số nhân của cắt thuế và chuyển khoản**, và trong nhóm chi tiêu thì các khoản có hàm lượng lao động và vật liệu trong nước cao — hạ tầng giao thông, thuỷ lợi, xây dựng trường trạm, bảo trì — có số nhân cao hơn cả. Đọc cùng các tài liệu về dư địa tài khoá và về đầu tư công trong repo, đây là chỗ mà chất lượng lựa chọn dự án quyết định đồng thời cả hiệu quả ổn định hoá ngắn hạn lẫn năng lực sản xuất dài hạn.

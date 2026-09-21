@@ -357,3 +357,101 @@
 > "Well-targeted social protection is not just equitable—it is macroeconomically efficient."
 
 > "The choice of consolidation path is also a choice about the distribution of who bears its cost."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Kết quả được đưa lên đầu lại là kết quả mô hình không phân biệt nổi
+
+Kết luận thứ hai trong phần tóm tắt — củng cố dựa vào chi làm sản lượng năm đầu giảm khoảng **0,2%**, ít hơn mức **0,25%** của củng cố dựa vào thu — là con số sẽ được trích dẫn nhiều nhất. Cần nhìn kỹ độ lớn của nó.
+
+Khác biệt là **0,05 điểm phần trăm sản lượng**, cho một nỗ lực điều chỉnh 1,5 điểm phần trăm GDP trải qua năm năm, tính từ một mô hình được hiệu chỉnh. Năm điểm cơ bản.
+
+Đặt con số đó cạnh những gì bài tự công bố về độ chính xác của hiệu chỉnh thì nó không còn nhiều ý nghĩa. Tỷ trọng hộ "kiếm được bao nhiêu tiêu bấy nhiêu" trong mô hình là **43,8%** so với khoảng **22%** trong dữ liệu — cao gấp đôi. Tỷ trọng hộ giàu thuộc nhóm này là **32,4%** so với khoảng **17%**. Hệ số Gini tài sản là **0,845** so với khoảng **0,67**. Nhóm 10% giàu nhất nắm **79,8%** tài sản trong mô hình so với khoảng **52%** trong thực tế.
+
+Một mô hình lệch tới mức đó ở các đại lượng quyết định độ lớn của số nhân tài khoá thì không thể phân giải được một khác biệt 0,05 điểm phần trăm. Cách đọc trung thực là: **mô hình không phân biệt được hai loại củng cố về mặt tác động lên tổng sản lượng**, và thứ hạng giữa chúng nên được coi là gợi ý về hướng, không phải một ước lượng.
+
+Điều này không làm hỏng bài, vì đóng góp thật của nó nằm ở chỗ khác.
+
+### Đóng góp thật là kết quả về trợ cấp nhắm đích, và nó là thứ mô hình đại diện không thể tạo ra
+
+Kết quả đáng giá nhất — và là lý do biện minh cho toàn bộ bộ máy HANK — là: dành **20% nỗ lực củng cố** cho trợ cấp nhắm đích **gần như triệt tiêu hoàn toàn thiệt hại tiêu dùng ở nhóm đáy**, với chi phí rất thấp.
+
+Cơ chế thì đơn giản nhưng chỉ tồn tại trong một mô hình có hộ gia đình không đồng nhất: nhóm đáy có xu hướng tiêu dùng biên gần bằng **1**. Mỗi đồng chuyển tới họ quay lại thành cầu gần như toàn bộ, trong cùng kỳ. Một đồng cắt từ họ cũng rút khỏi cầu gần như toàn bộ.
+
+Từ đó ra câu có sức nặng nhất trong bài: **bảo trợ xã hội nhắm đúng không chỉ công bằng mà còn hiệu quả về vĩ mô.** Đây không phải một lời kêu gọi đạo đức được gắn thêm vào một phân tích kỹ thuật; nó là một kết quả của chính phân tích đó. Trong một mô hình đại diện với một hộ gia đình duy nhất, mệnh đề này thậm chí không phát biểu được.
+
+Hệ quả thiết kế rất cụ thể: nếu buộc phải củng cố, khoản chi **cuối cùng** nên bị cắt là khoản chi tới tay nhóm có xu hướng tiêu dùng biên cao nhất — vì cắt ở đó vừa đắt nhất về phúc lợi vừa đắt nhất về sản lượng. Hai tiêu chí trùng nhau, điều hiếm gặp trong kinh tế học tài khoá.
+
+### Nhưng cùng thiết kế đó dồn toàn bộ chi phí lên nhóm giữa
+
+Đây là điều bài ghi nhận trong một dòng và không khai thác, dù nó quyết định liệu kế hoạch có thực hiện được hay không.
+
+Dưới kịch bản củng cố dựa vào chi có kèm bù nhắm đích, con số tiêu dùng so với giữ nguyên chính sách vào năm 2031 là: nhóm thấp khoảng **−0,1%**, nhóm cao khoảng **−0,21%**, và **nhóm giữa khoảng −0,44%** — gấp hơn bốn lần nhóm đáy và gấp đôi nhóm đỉnh.
+
+Lý do nằm ngay trong cấu trúc của gói: nỗ lực được lấy chủ yếu từ **trợ cấp bảo hiểm** (lương hưu đóng góp, trợ cấp thất nghiệp) và **trợ cấp khoán phổ quát**, mỗi loại 40% nỗ lực. Và cả hai loại này đều tập trung ở nhóm giữa. Nhóm này cũng chính là nhóm mà bài gọi là **hộ giàu "kiếm được bao nhiêu tiêu bấy nhiêu"**: có tài sản, nhưng là tài sản kém thanh khoản như nhà ở và quyền hưu trí, nên vẫn tiêu theo thu nhập hiện tại và vẫn có xu hướng tiêu dùng biên cao.
+
+Nói thẳng ra: **phương án được mô hình đánh giá là tối ưu lại là phương án đánh trúng cử tri trung vị**. Đó là cấu hình chính trị khó thực hiện nhất có thể hình dung, và nó giải thích vì sao các cuộc cải cách lương hưu ở đúng ba nước được dùng để hiệu chỉnh mô hình này — Bỉ, Pháp, Ý — lại là các cuộc cải cách khó khăn nhất trong chính trị châu Âu.
+
+Bài kết luận rằng lựa chọn con đường củng cố cũng là lựa chọn về việc ai gánh chi phí. Đúng. Nhưng nó dừng lại trước bước tiếp theo: **ai gánh chi phí cũng quyết định con đường đó có đi được hay không**.
+
+### Hai khiếm khuyết của mô hình đẩy kết luận về cùng một hướng
+
+Bài rất trung thực về giới hạn của mình, và đáng khen. Nhưng đáng làm rõ rằng hai giới hạn lớn nhất không triệt tiêu nhau mà **cùng làm kết luận chính có vẻ mạnh hơn thực tế**.
+
+**Thứ nhất, mô hình quá nhiều hộ bị ràng buộc thanh khoản.** Với 43,8% thay vì 22%, số người có xu hướng tiêu dùng biên gần 1 lớn gấp đôi thực tế. Điều đó vừa **phóng đại hiệu lực của trợ cấp nhắm đích** (mỗi đồng chuyển đi tạo ra nhiều cầu hơn thực tế) vừa **phóng đại chi phí của củng cố dựa vào thuế lao động** (nhiều người không thể làm mượt tiêu dùng hơn thực tế). Cả hai đều là kết luận trung tâm của bài.
+
+Lời biện hộ — nhắm vào xu hướng tiêu dùng biên bình quân vì đó là thống kê đủ cho động thái tổng — hợp lệ **cho các đại lượng tổng**. Nhưng đóng góp chính của bài là **phân tích phân phối**, và với phân tích phân phối thì chính phân phối là đối tượng cần đo, không phải một tham số phiền toái cần trung hoà. Một thống kê đủ cho tổng không phải là thống kê đủ cho phân phối. Bài thừa nhận điều này ở phần kiểm tra độ vững, trong khi các kết quả phân phối nằm ở phần tóm tắt.
+
+**Thứ hai, mô hình không có biên việc làm–thất nghiệp.** Bài nêu điều này và nói tác động thật lên nhóm đáy có thể lớn hơn. Nhưng với một bài về chi phí phân phối của thắt lưng buộc bụng ở khu vực đồng euro, đây không phải một thiếu sót nhỏ. Kinh nghiệm thực tế của các đợt điều chỉnh trong khu vực euro giai đoạn 2010–2014 là chi phí đến **áp đảo qua thất nghiệp**, không qua mức lương và mức trợ cấp. Một mô hình chỉ có biên cường độ lao động sẽ đánh giá thấp một cách có hệ thống thiệt hại của nhóm đáy — và do đó làm cho khoản bù nhắm đích trông **đủ** trong khi thực tế có thể không.
+
+Hai khiếm khuyết này đi theo hai hướng khác nhau về tỷ trọng hộ bị ràng buộc, nhưng cùng một hướng về kết luận: **trợ cấp nhắm đích trông rẻ hơn và hiệu quả hơn so với thực tế**.
+
+### "Chi phí của việc chờ đợi" được so với một kịch bản không công bằng
+
+Con số được nhấn mạnh nhất về mặt chính sách — nợ ở mức 134% GDP so với 139% vào năm 2031, chênh khoảng 5 điểm — được tính bằng cách so kịch bản **ExC+SR** với kịch bản giữ nguyên chính sách.
+
+Nhưng ExC+SR gộp cả **cải cách cơ cấu nâng năng suất tổng hợp 0,1–0,2 điểm phần trăm mỗi năm** — một thứ hoàn toàn không liên quan gì tới việc củng cố sớm hay muộn. Một nước có thể làm cải cách cơ cấu mà không củng cố, hoặc củng cố mà không cải cách. Gộp chúng lại rồi gọi hiệu số là "chi phí của việc chờ đợi" là một phép so sánh thổi phồng.
+
+Bài tự nêu cảnh báo này, và đó là thực hành tốt. Nhưng con số 5 điểm sẽ được trích dẫn mà không kèm cảnh báo, vì con số luôn sống lâu hơn dấu hoa thị đi kèm nó.
+
+Điều đáng chú ý là lập luận **mạnh hơn** cho việc hành động sớm lại nằm ở một dòng phụ: dẫn chiếu tới kết quả rằng vượt qua một ngưỡng nhất định, chính sách tài khoá chủ động và chính sách tiền tệ chủ động **không thể cùng duy trì**, nên chi phí có thể **nhảy bậc** chứ không tăng dần.
+
+Đó mới là lý do thuyết phục để không chờ: không phải vì chi phí của việc chờ tăng đều 5 điểm, mà vì **có thể tồn tại một vách đá**. Bài nhắc tới nó và không mô hình hoá nó.
+
+### Cơ chế cấp bách nhất của bài là một cơ chế của liên minh tiền tệ, không phải của mức nợ
+
+Vòng xoáy mà bài mô tả cần được đọc kỹ vì nó quyết định phạm vi áp dụng của toàn bộ kết luận: chênh lệch lợi suất tăng → cầu trong nước giảm → giá giảm → **Ngân hàng Trung ương châu Âu không bù riêng cho một nước** → lãi suất thực vẫn cao → tình hình tài khoá xấu thêm.
+
+Mắt xích quyết định là mắt xích thứ ba, và nó **chỉ tồn tại trong một liên minh tiền tệ**. Một nước có đồng tiền riêng và tỷ giá linh hoạt không đối mặt với vòng xoáy này: ngân hàng trung ương của nó có thể hạ lãi suất để bù, và đồng tiền mất giá tạo ra một kênh hỗ trợ cầu bên ngoài mà một thành viên khu vực euro không có.
+
+Nghĩa là sự cấp bách của bài — hành động ngay, vì chờ đợi có chi phí tự nó — là hàm của **chế độ tiền tệ**, không phải của mức nợ. Áp thẳng kết luận này cho một nước ngoài liên minh tiền tệ là một sai lầm về phạm vi.
+
+Điều này cũng giải thích một kết quả khác trong bài: quy tắc Taylor được thu nhỏ vì Ngân hàng Trung ương châu Âu nhìn lạm phát toàn khu vực. Nói cách khác, mô hình được xây trên giả định rằng **chính sách tiền tệ không phản ứng với tình trạng của nước đang xét**, và đó là giả định tạo ra phần lớn cái giá của củng cố trong mô hình.
+
+### Thành phần của cải cách cơ cấu cũng là một lựa chọn phân phối, và nó có thể cộng dồn tai hại
+
+Phần về cải cách cơ cấu chứa một phân loại rất hữu ích mà bài để ở cuối: **bãi bỏ quy định trong nước** nâng năng suất nhanh nhất nhưng có thể ép thu nhập của người lao động trong các ngành được bảo hộ; **hội nhập thị trường chung** lan toả rộng hơn nhưng chậm hơn; **nâng kỹ năng và chính sách lao động chủ động** chậm nhất nhưng **luỹ tiến nhất**.
+
+Ghép với kết quả phân phối của phần củng cố thì hiện ra một rủi ro cộng dồn. Củng cố dựa vào chi đã dồn gánh nặng lên nhóm giữa. Bãi bỏ quy định trong nước cũng đánh vào nhóm giữa — người lao động trong các ngành được bảo hộ chính là nhóm đó. Thực hiện đồng thời hai chương trình này nghĩa là **toàn bộ chi phí của cả gói, trong cả hai chiều, rơi lên cùng một nhóm dân cư**.
+
+Trong khi đó bài cũng cho thấy cải cách cơ cấu có tính luỹ tiến theo kênh lương — lương thực năm thứ tư cao hơn khoảng 0,2% so với kịch bản không cải cách, và hộ sống bằng lương được lợi nhiều nhất, nên **cần ít trợ cấp nhắm đích hơn để bảo vệ hộ nghèo**. Đây là một kết quả đẹp: cải cách đúng loại làm giảm nhu cầu bù đắp.
+
+Kết hợp hai điều trên cho một thứ tự ưu tiên rõ ràng: **ưu tiên loại cải cách có tác động luỹ tiến qua kênh lương, vì nó vừa nâng năng suất vừa tự tài trợ cho phần bảo vệ xã hội**, thay vì loại cải cách nhanh nhất về năng suất nhưng tập trung chi phí vào cùng nhóm đang gánh phần lớn cuộc củng cố.
+
+### Với Việt Nam: mô hình không chuyển giao được, nhưng ba cơ chế thì có
+
+Đây là mô hình cho một nền kinh tế nợ 125% GDP, trong liên minh tiền tệ, với mức thuế đã rất cao và hệ thống bảo trợ xã hội phổ quát. Không một con số nào trong bài áp dụng được cho Việt Nam. Ba cơ chế thì có.
+
+**Thứ nhất, và quan trọng nhất: bài này làm được điều mà nhánh tài liệu khác về củng cố tài khoá trong cùng thư mục không làm được — nó tách riêng đầu tư công.** Mô hình **giữ nguyên đầu tư công trong mọi kịch bản**, và lý do được nêu rõ: cắt đầu tư công vừa giảm cầu ngắn hạn vừa bào mòn vốn công và kéo tụt sản lượng tiềm năng, nên nó có **số nhân lớn nhất** trong toàn bộ danh mục công cụ.
+
+Đây là kết luận đáng giá nhất của bài với một thư mục về đầu tư công và nợ công, vì nó mâu thuẫn trực tiếp với thực tiễn phổ biến. Khi cần siết tài khoá gấp, dòng đầu tư công gần như luôn bị cắt trước, vì nó không tạo ra người mất việc ngay và không phải sửa luật. Mô hình nói rằng đó chính xác là lựa chọn tệ nhất trong danh mục.
+
+**Thứ hai, khái niệm "hộ giàu kiếm được bao nhiêu tiêu bấy nhiêu" mô tả một hiện tượng rất phổ biến ở Việt Nam.** Đó là hộ có tài sản — nhưng là bất động sản và quyền lợi dài hạn, không phải tiền mặt — nên vẫn tiêu theo thu nhập hiện tại và vẫn có xu hướng tiêu dùng biên cao. Với một nền kinh tế mà của cải hộ gia đình tập trung nặng vào bất động sản, nhóm này có thể rất lớn.
+
+Hàm ý: **thống kê về tài sản đánh giá thấp một cách có hệ thống mức độ nhạy cảm của tiêu dùng hộ gia đình với thu nhập hiện tại**. Và nó có nghĩa là các chính sách liên quan tới bất động sản — thuế tài sản, điều kiện tín dụng, thanh khoản thị trường nhà ở — có tác động lên tổng cầu lớn hơn nhiều so với mức mà tỷ trọng của chúng trong GDP gợi ý.
+
+**Thứ ba, công cụ trung tâm của bài đòi một điều kiện tiền đề mà bài giả định sẵn có.** Toàn bộ kết quả về trợ cấp nhắm đích dựa trên việc nhà nước có thể **xác định đúng bốn thập phân vị thu nhập thấp nhất và chuyển tiền tới họ nhanh chóng**. Ở Bỉ, Pháp và Ý, hạ tầng đó tồn tại. Ở một nền kinh tế có khu vực phi chính thức lớn và hệ thống bảo trợ xã hội chưa phủ hết, nó không tồn tại — và không thể nhắm đích cái mà ta không nhận diện được.
+
+Điều này nối trực tiếp với lập luận về hạ tầng số công trong số Finance & Development cùng thư mục: định danh số, thanh toán và trao đổi dữ liệu là điều kiện để có thể nhắm đích, và cái giá của việc không có chúng được định lượng bằng ví dụ chương trình bảo vệ việc làm của Mỹ, nơi trong 800 tỷ USD chỉ khoảng một phần tư tới một phần ba tới đúng người lao động cần.
+
+Nói cách khác, **năng lực nhắm đích là một dạng dư địa tài khoá**. Nó không xuất hiện trong bất kỳ chỉ tiêu nợ hay thâm hụt nào, nhưng nó quyết định một nước có thể điều chỉnh với chi phí phúc lợi thấp hay không. Và nó phải được xây trước khi cần dùng, chứ không phải trong lúc khủng hoảng.

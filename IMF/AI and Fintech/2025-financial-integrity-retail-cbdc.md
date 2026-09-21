@@ -291,3 +291,71 @@
 > "rCBDCs do not operate in a vacuum. Existing weaknesses and vulnerabilities in a country's AML/CFT framework will likely be perpetuated and even exacerbated."
 
 > "Central banks should ensure that their CBDC does not create substantial new loopholes that criminals or terrorists could easily exploit."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Nghịch lý ở cuối bài đảo ngược toàn bộ câu chuyện, và nó chỉ được cho một gạch đầu dòng
+
+Suốt hai trăm trang lập luận, tài liệu hỏi một câu duy nhất: liệu rCBDC có làm suy yếu khả năng chống rửa tiền không. Rồi ở phần kết, gần như tình cờ, nó ghi nhận rằng nếu rCBDC được dùng rộng rãi thì **sẽ gần như không còn chỗ cho giao dịch không bị giám sát và không được định danh**, trái ngược hẳn với hiện tại khi phần lớn giao dịch bằng tiền pháp định truyền thống không chịu kiểm soát nào cả.
+
+Câu đó lật ngược cả khung phân tích. Nếu nó đúng, thì rCBDC không phải một rủi ro cần được kiềm chế mà là **công cụ chống rửa tiền mạnh nhất từng được đề xuất trong lịch sử tài chính**. Bảng so sánh rủi ro trong chính bài nói đúng điều này: tiền mặt có tính ẩn danh cao và mọi biện pháp giảm thiểu đều yếu, còn rCBDC có truy vết mạnh, hạn mức mạnh, thẩm định khách hàng mạnh, giám sát giao dịch mạnh. Không có công cụ nào khác trong danh mục của cơ quan chống rửa tiền đạt được cả bốn.
+
+Vì sao một tài liệu chuyên về tính toàn vẹn tài chính lại dành gần hết dung lượng để lo về rủi ro thay vì nói về cơ hội? Câu trả lời nằm ở bản chất của bộ chuẩn được dùng làm thước. Bốn mươi Khuyến nghị của FATF là một cơ chế **một chiều**: chúng đặt sàn về mức giám sát tối thiểu nhưng không có bất kỳ khái niệm nào về mức giám sát tối đa. Không có điều khoản nào nói rằng theo dõi quá nhiều là một vấn đề. Nên khi áp bộ chuẩn đó lên một công nghệ, kết quả tất yếu là một thiết kế tối đa hoá khả năng theo dõi, và mọi tính năng bảo vệ quyền riêng tư đều xuất hiện dưới dạng một "điểm nghẽn khi áp dụng chuẩn".
+
+Đây không phải lỗi của nhóm tác giả, họ làm đúng nhiệm vụ được giao. Nhưng nó có nghĩa là **câu hỏi chính sách thực sự nằm ngoài phạm vi tài liệu**: xã hội có muốn một thế giới mà không còn khoảng không giao dịch riêng tư nào không, và ai là người quyết định điều đó. Bộ công cụ được dùng ở đây không có khả năng đặt câu hỏi ấy, chứ đừng nói tới trả lời.
+
+### Bài toán chấp nhận và bài toán toàn vẹn thực ra là một bài toán
+
+Hai kết quả trong tài liệu, khi ghép lại, tạo ra một ràng buộc chặt mà bài không phát biểu.
+
+Kết quả thứ nhất: Khuyến nghị 10 cấm tài khoản ẩn danh, và điều kiện tối thiểu để một mô hình phân tầng thoả mãn thẩm định khách hàng đơn giản hoá là ở tầng thấp nhất người dùng **ít nhất phải tự khai tên**. Giải pháp thẳng thắn cho một rCBDC thực sự giống tiền mặt là cho phép ví không lưu ký giao dịch ngang hàng, và tài liệu ghi nhận rằng **chưa nước nào theo đuổi**.
+
+Kết quả thứ hai, đến từ mọi bằng chứng thực nghiệm về ba nước đã phát hành: rCBDC không được dùng, kể cả khi miễn phí hoàn toàn.
+
+Ghép lại: thứ duy nhất mà rCBDC có thể cung cấp và không công cụ số nào khác cung cấp được là **tính giống tiền mặt** — không cần tài khoản, không để lại dấu vết, dùng được với người không có giấy tờ. Chuyển khoản tức thời đã làm tốt mọi thứ khác. Nhưng tính giống tiền mặt lại chính là thứ bị bộ chuẩn chống rửa tiền cấm.
+
+Nghĩa là bài toán chấp nhận không phải vấn đề tiếp thị hay thiết kế giao diện. Nó là hệ quả logic của một ràng buộc pháp lý: **tính năng duy nhất tạo ra nhu cầu là tính năng duy nhất không được phép có**. Đây là lý do cấu trúc khiến các chương trình rCBDC bán lẻ khó thành công, và nó giải thích vì sao Bahamas cuối cùng phải tính tới việc buộc ngân hàng phân phối — khi không thể tạo nhu cầu, chỉ còn cách tạo nguồn cung bắt buộc.
+
+### Phần về ngân hàng trung ương làm đơn vị báo cáo là phần sắc nhất, và nó chỉ ra một nghịch lý thể chế
+
+Lập luận rằng nếu ngân hàng trung ương trở thành đơn vị báo cáo thì nó phải chịu giám sát chống rửa tiền kể cả việc bị áp chế tài, và ở nước có nhà nước pháp quyền yếu, chế tài đó có thể trở thành công cụ trả đũa chính trị — đây là quan sát pháp lý tinh tế nhất trong cả tài liệu, và nó đi xa hơn chỗ bài dừng lại.
+
+Hãy nối nó với lý do chính khiến người ta đề xuất mô hình phân phối trực tiếp. Mô hình trực tiếp hấp dẫn khi mạng lưới ngân hàng thương mại thưa, khi trung gian tư nhân không có động cơ phục vụ người nghèo, khi năng lực của khu vực tư nhân yếu. Nói cách khác, mô hình trực tiếp hấp dẫn nhất ở **đúng những nước có thể chế yếu nhất**.
+
+Nhưng đó cũng chính là những nước mà việc biến ngân hàng trung ương thành đối tượng bị chế tài nguy hiểm nhất cho tính độc lập của nó. Và tài liệu còn đẩy xa hơn: nếu không thể áp chế tài lên ngân hàng trung ương, thì Khuyến nghị 27 **không thể được thoả mãn** — tức mô hình trực tiếp không tuân thủ được bộ chuẩn, chấm hết.
+
+Kết quả là một nghịch lý thể chế gọn gàng: lập luận bao trùm tài chính mạnh nhất ở nơi mô hình trực tiếp khả thi nhất về kinh tế nhưng bất khả thi nhất về pháp lý. Điều này giải thích vì sao chín mươi ba phần trăm các nước được khảo sát chọn mô hình có trung gian, một con số thường được diễn giải là sự đồng thuận kỹ thuật, trong khi thực ra nó là sự đồng thuận về việc **không ai muốn gánh trách nhiệm người gác cổng**.
+
+### Con số khảo sát cần đọc kèm cảnh báo, và hai con số trong đó mâu thuẫn nhau
+
+Trước hết là về mẫu. Mười bốn nước và khối khu vực tham gia một bàn tròn do IMF tổ chức là một mẫu **tự chọn**: đây là nhóm đã quan tâm đủ để dành thời gian tham dự. Nên các tỷ lệ này mô tả sự hội tụ trong nhóm nhiệt tình, không mô tả xu hướng toàn cầu. Nước đã quyết định không làm gì thì không có mặt ở bàn tròn, và sự vắng mặt của họ không được tính vào mẫu số.
+
+Trong các con số đó, hai con số đặt cạnh nhau tạo thành một cảnh báo. **Sáu mươi tư phần trăm đang theo đuổi chức năng ngoại tuyến** — trong khi chính tài liệu xác định chức năng ngoại tuyến là một trong các rủi ro toàn vẹn đáng kể nhất, vì việc sàng lọc trừng phạt trên thực tế chỉ diễn ra khi thiết bị kết nối lại, và phát hiện hậu kiểm thì không ngăn được giao dịch đã xảy ra. **Năm mươi phần trăm chưa sửa luật chống rửa tiền**, và nhiều nước có ý định tận dụng khung pháp lý thanh toán hiện có thay vì xây khung riêng.
+
+Nghĩa là đa số đang xây tính năng rủi ro nhất trong khi một nửa chưa động tới khung pháp lý. Đây không phải sự bất cẩn — nó phản ánh một thực tế chính trị: chức năng ngoại tuyến là thứ bán được cho công chúng và cho nhà lập pháp, còn sửa luật chống rửa tiền thì không.
+
+Một chi tiết nữa đáng được chú ý hơn mức nó nhận được: một số nước cởi mở với việc cho **nhà mạng viễn thông** làm trung gian. Đây là lựa chọn thiết kế có hệ quả lớn nhất trong toàn bộ khảo sát. Nhà mạng có mạng lưới phân phối ở đúng nơi ngân hàng không có, nên đó là con đường thực tế duy nhất tới bao trùm tài chính. Nhưng nhà mạng không có văn hoá tuân thủ, không có bộ phận chống rửa tiền, và tài liệu nói rõ rằng **tổ chức tài chính uỷ quyền vẫn chịu trách nhiệm cuối cùng nếu nhà mạng làm sai**. Không ngân hàng nào tự nguyện nhận một cấu trúc trách nhiệm như vậy. Đây mới là ràng buộc thật đang chặn lời hứa bao trùm tài chính, chứ không phải công nghệ.
+
+### Câu bền nhất trong tài liệu không nói về CBDC
+
+"rCBDC không vận hành trong chân không. Điểm yếu và lỗ hổng hiện có trong khung chống rửa tiền của một nước nhiều khả năng sẽ được duy trì và thậm chí trầm trọng thêm."
+
+Đây là câu sẽ còn đúng khi mọi chi tiết kỹ thuật trong tài liệu đã lỗi thời, và phạm vi áp dụng của nó rộng hơn nhiều so với CBDC. Nguyên lý là: **hạ tầng số khuếch đại chất lượng thể chế sẵn có theo cả hai hướng**. Một nước có hệ thống định danh tốt, sổ đăng ký chủ sở hữu hưởng lợi đáng tin và cơ quan giám sát có năng lực thì số hoá sẽ nhân lên các thế mạnh đó. Một nước thiếu những thứ đó thì số hoá chỉ làm cho khuyết điểm chạy nhanh hơn và ở quy mô lớn hơn.
+
+Nó cũng là phiên bản thể chế của một nguyên lý xuất hiện ở dạng vật lý trong phân tích về thanh toán ở nước mong manh: công nghệ nằm ở tầng trên không sửa được khiếm khuyết ở tầng dưới. Ở đó tầng dưới là điện và sóng; ở đây tầng dưới là định danh, hồ sơ và năng lực giám sát. Cùng một cấu trúc lập luận, hai lĩnh vực khác nhau, và nó nên được đọc như một quy tắc chung để đánh giá mọi đề xuất số hoá tài chính.
+
+Hệ quả trực tiếp là khuyến nghị quan trọng nhất của tài liệu cũng là khuyến nghị ít gây hứng thú nhất: **sửa các thiếu sót chống rửa tiền chính trước khi phát hành, chứ không phải bằng việc phát hành**.
+
+### Với Việt Nam: chuỗi ưu tiên đã được tài liệu này viết sẵn
+
+Tài liệu không nhắc tới Việt Nam, nhưng nó mô tả khá chính xác tình huống của một nước có bốn đặc điểm cùng lúc: hệ thống định danh điện tử quốc gia đã phủ rộng và đã liên kết với tài khoản ngân hàng, mạng lưới nhà mạng viễn thông có độ phủ vượt xa mạng lưới chi nhánh ngân hàng ở nông thôn, thí điểm tiền di động do chính các nhà mạng vận hành, và một khung chống rửa tiền từng bị đưa vào diện giám sát tăng cường của FATF và phải chạy một chương trình hành động để khắc phục.
+
+Ghép bốn đặc điểm đó vào phân tích của bài, thứ tự ưu tiên hiện ra khá rõ và nó ngược với thứ tự mà các cuộc thảo luận công khai thường đi.
+
+**Thứ nhất, hệ thống định danh điện tử là tài sản, không phải nền tảng cho một đồng tiền mới.** Điều mà tài liệu mô tả là khó nhất — làm sao thoả mãn thẩm định khách hàng ở tầng thấp nhất mà không phá bao trùm tài chính — thì một nước đã có định danh điện tử phủ rộng gần như đã giải xong. Nhưng chính vì đã giải xong, lý do phải có rCBDC để phục vụ người chưa có tài khoản cũng yếu đi tương ứng: nếu ai cũng định danh được thì ai cũng mở được tài khoản, và bài toán còn lại là mạng lưới nạp rút chứ không phải công cụ.
+
+**Thứ hai, cấu trúc trách nhiệm với nhà mạng là vấn đề phải giải trước, không phải sau.** Mô hình tiền di động do nhà mạng vận hành đặt đúng câu hỏi mà tài liệu nêu: ai là đơn vị báo cáo, ai chịu trách nhiệm cuối cùng khi bên vận hành không phát hiện được giao dịch đáng ngờ, và cơ chế nào buộc nhà mạng thông báo ngay khi có kết quả trúng danh sách trừng phạt. Những câu hỏi này đã tồn tại với tiền di động hiện nay và sẽ chỉ lớn hơn nếu có thêm bất kỳ công cụ nào chạy trên cùng mạng lưới đó.
+
+**Thứ ba, và đây là điểm bài nói thẳng nhất: khắc phục thiếu sót chống rửa tiền là việc phải làm dù có hay không có CBDC**, và làm nó trước sẽ rẻ hơn làm nó sau. Một nước còn đang trong chương trình hành động khắc phục mà phát hành một công cụ tiền tệ mới thì chỉ nhân lên các khuyết điểm đang được yêu cầu sửa, đồng thời tạo thêm một mặt trận đánh giá mới.
+
+Nói gọn: tài liệu này, đọc cho Việt Nam, không phải là hướng dẫn thiết kế rCBDC. Nó là một danh sách kiểm tra về chất lượng khung chống rửa tiền, được viết dưới hình thức một tài liệu về CBDC.

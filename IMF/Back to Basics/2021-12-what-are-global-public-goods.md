@@ -138,3 +138,47 @@
 > "Why is there more funding for national defense than for combating global climate change?"
 
 > "Many institutions that provide public goods today did not appear on their own, but formed in response to demand."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Câu hỏi hay nhất của bài lại có câu trả lời phá vỡ chính khung phân tích của bài
+
+Bài đặt một câu hỏi rất sắc: vì sao quốc phòng được tài trợ dồi dào hơn nhiều so với chống biến đổi khí hậu, dù cả hai đều là hàng hóa công? Rồi bài trả lời bằng cách nói rằng thất bại của chính phủ bị khuếch đại ở cấp toàn cầu.
+
+Câu trả lời này đúng một phần nhưng bỏ qua điều quan trọng hơn. Quốc phòng là hàng hóa công **trong phạm vi một nước**, nhưng ở phạm vi toàn cầu nó là thứ hoàn toàn ngược lại: an ninh của nước này giành được bằng cách giảm an ninh của nước kia. Nó vừa có tính cạnh tranh vừa có tính loại trừ giữa các quốc gia. Và chính vì thế nó được tài trợ hào phóng — không có vấn đề ăn theo, có chạy đua vũ trang, dẫn tới **cung cấp thừa** chứ không phải thiếu.
+
+Rút ra kết luận tổng quát: thứ quyết định một thứ có được tài trợ hay không không phải là tính chất hàng hóa công của nó, mà là **có tồn tại đối thủ hay không**. Khi lợi ích mang tính tương đối và có đối thủ cụ thể, tiền chảy vào dễ dàng; khi lợi ích mang tính tuyệt đối và chia đều cho tất cả, tiền không chảy. Điều này giải thích tại sao cuộc đua chip bán dẫn và cuộc đua trí tuệ nhân tạo được ngân sách các nước rót vốn ồ ạt còn thích ứng khí hậu thì không, dù cả hai đều tạo ra tri thức có tính lan tỏa lớn. Nó cũng gợi ý một chiến thuật thực dụng mà bài không nêu: cách hiệu quả nhất để tài trợ một hàng hóa công toàn cầu là **đóng khung lại nó như một cuộc cạnh tranh**. Chính sách công nghiệp xanh của Mỹ, Liên minh châu Âu và Trung Quốc hiện nay đang làm đúng điều đó — và huy động được nhiều tiền hơn ba thập niên đàm phán khí hậu cộng lại.
+
+### Bảng phân loại hai chiều đặt sai chỗ vấn đề khí hậu, và sai chỗ này có hệ quả chính sách thật
+
+Bảng của bài xếp "môi trường" vào ô hàng hóa công (không loại trừ, không cạnh tranh) và xếp "tài nguyên thiên nhiên" vào ô hàng hóa chung (không loại trừ nhưng có cạnh tranh). Nhưng vấn đề khí hậu nằm ở ô thứ hai, không phải ô thứ nhất.
+
+Thứ đang bị tiêu thụ không phải là "môi trường" nói chung mà là **khả năng hấp thụ carbon của khí quyển** — một trữ lượng hữu hạn. Mỗi tấn CO2 tôi thải ra chiếm mất một phần dung lượng mà bạn không còn dùng được. Đó là định nghĩa của tính cạnh tranh. Khí hậu ổn định vì vậy là một tài nguyên chung đang bị khai thác quá mức, tức là **bi kịch của tài sản chung**, chứ không phải một hàng hóa công bị cung cấp thiếu.
+
+Phân biệt này không phải chuyện chữ nghĩa. Hai loại vấn đề có hai họ giải pháp khác nhau. Hàng hóa công bị cung cấp thiếu thì giải pháp là huy động nguồn lực chung và cung cấp tập trung — thuế và ngân sách. Tài sản chung bị khai thác quá mức thì giải pháp là **xác lập và phân bổ quyền khai thác**: hạn ngạch, quyền phát thải, thị trường mua bán. Đây chính là lý do sâu xa vì sao cơ chế hạn ngạch mua bán được lại vận hành tương đối tốt ở nơi nó được áp dụng nghiêm túc, trong khi các cam kết đóng góp tài chính tự nguyện thì liên tục thất hứa. Bài xếp cả hai loại công cụ vào cùng một câu chuyện "điều phối" và do đó không giải thích được vì sao cái này hiệu quả hơn cái kia.
+
+### Mệnh đề "nhu cầu tạo ra thể chế" mắc lỗi chọn mẫu, và bốn năm qua đã kiểm định nó
+
+Đoạn lạc quan cuối bài dựa vào hai ví dụ: giáo dục công ở Mỹ và sự ra đời của IMF sau Đại Suy thoái và Thế chiến II. Từ đó bài kết luận rằng nhu cầu đang tăng có thể tạo ra thể chế mới.
+
+Đây là lập luận chỉ nhìn vào những trường hợp đã thành công. Nhu cầu về một thể chế y tế toàn cầu có thẩm quyền đã tồn tại sau đại dịch cúm 1918, sau SARS 2003, sau Ebola 2014 — và không có thể chế nào ra đời. Nhu cầu không tạo ra cung; nhu cầu chỉ được đáp ứng khi có một bên đủ mạnh và đủ động cơ để trả phần chi phí lớn hơn phần lợi ích mình nhận. Hệ thống Bretton Woods ra đời không phải vì nhu cầu mà vì **năm 1944 có một nước chiếm gần một nửa sản lượng công nghiệp thế giới và muốn định hình trật tự theo ý mình**. Đó là điều kiện thực sự, và bài không nhắc tới nó.
+
+Bài viết tháng 12/2021 và đã nêu việc Mỹ rút khỏi Thỏa thuận Paris năm 2020 như một giới hạn. Những gì diễn ra từ đó đến nay — các đợt rút lui và cắt giảm đóng góp lặp lại, cơ chế giải quyết tranh chấp thương mại đa phương tê liệt kéo dài, viện trợ phát triển bị cắt mạnh ở nhiều nước cấp vốn lớn — cho thấy đường cong không đi lên như bài kỳ vọng. Điều sẽ quyết định bài này đúng hay sai không phải là nhu cầu có tăng hay không (chắc chắn có) mà là liệu có xuất hiện một cấu hình quyền lực nào chấp nhận làm bên trả tiền hay không. Nếu không có bên đó, kịch bản khả dĩ nhất không phải là thể chế toàn cầu mới mà là **các câu lạc bộ khu vực khép kín** — nơi lợi ích loại trừ được nên chi phí chia được.
+
+### COVID-19 là ví dụ bài chọn để làm điểm tựa, nhưng nó lại là bằng chứng ngược
+
+Bài mở đầu và kết lại bằng COVID-19 như minh chứng cho nhu cầu hàng hóa công toàn cầu đang tăng. Nhưng nếu nhìn kỹ những gì đã xảy ra với vaccine, ví dụ này phản bác chứ không ủng hộ luận điểm.
+
+Trước hết, vaccine không phải hàng hóa công theo đúng định nghĩa của bài. Một liều vaccine là **có cạnh tranh và loại trừ được** hoàn toàn — người này tiêm thì người kia không còn liều đó. Chỉ có phần miễn dịch cộng đồng là ngoại ứng. Hai thứ này bị gộp lại trong cách bài trình bày, và sự gộp đó che mất bài học thật: khi phần loại trừ được có giá trị cao và phần lan tỏa thì không, các nước sẽ tranh giành phần loại trừ được. Đó chính xác là những gì đã diễn ra trong các năm 2021–2022, khi cơ chế phân phối đa phương nhận được lượng liều thấp hơn nhiều so với cam kết trong khi các thỏa thuận song phương trực tiếp giữa chính phủ và hãng dược lấy đi phần lớn nguồn cung.
+
+Kết luận đáng rút ra ngược với giọng của bài: khủng hoảng **không** tự động làm tăng cung cấp hàng hóa công toàn cầu. Khủng hoảng làm tăng nhu cầu và đồng thời làm tăng động cơ tích trữ. Cái nào thắng phụ thuộc vào việc hàng hóa đó có thể chia nhỏ và chiếm giữ được hay không. Với vaccine thì có, nên tích trữ thắng. Với tri thức về trình tự gene của virus thì không, nên chia sẻ thắng — và đúng là việc chia sẻ dữ liệu gene trong đại dịch đã diễn ra nhanh và rộng chưa từng có. Hai kết quả trái ngược trong cùng một cuộc khủng hoảng, giải thích được bằng chính bảng phân loại mà bài đưa ra nhưng không dùng.
+
+### Với Việt Nam: bài toán thật không phải khí hậu toàn cầu mà là một tài sản chung có bốn nước ở thượng nguồn
+
+Với một nền kinh tế có quy mô như Việt Nam, đóng góp cho hàng hóa công toàn cầu gần như luôn là lựa chọn kém hấp dẫn về mặt kế toán thuần túy: chi phí do mình chịu toàn bộ, lợi ích mình nhận là một phần rất nhỏ. Việt Nam là nước ăn theo một cách hoàn toàn hợp lý, và điều đó không có gì đáng xấu hổ — logic của bài nói rằng đó là hành vi được dự báo trước.
+
+Nhưng có một trường hợp mà logic này đảo chiều hoàn toàn, và nó là trường hợp quan trọng nhất với Việt Nam: **dòng chảy sông Mekong**. Đây không phải hàng hóa công mà là hàng hóa chung theo đúng ô trong bảng của bài — nước là tài nguyên có cạnh tranh, ai lấy trước thì người sau mất, và không ai bị loại trừ khỏi việc lấy. Việt Nam nằm ở hạ nguồn cùng, nghĩa là ở vị trí yếu nhất trong mọi bi kịch tài sản chung.
+
+Điều bài viết mô tả một cách trừu tượng — "thể chế toàn cầu thiếu thẩm quyền pháp lý để thực thi quy định" — với Việt Nam là một thực tế cụ thể và đắt đỏ: cơ chế hợp tác lưu vực hiện có chỉ có chức năng tham vấn và chia sẻ thông tin, không có quyền buộc một nước thượng nguồn thay đổi kế hoạch vận hành hồ chứa. Hệ quả đo được là xâm nhập mặn ở Đồng bằng sông Cửu Long, sụt lún do thiếu phù sa, và đảo lộn lịch mùa vụ.
+
+Từ đây có một hàm ý thực tiễn đáng suy nghĩ. Với hàng hóa công toàn cầu, Việt Nam có thể chờ; với tài sản chung khu vực, Việt Nam không chờ được và cũng không ai làm thay. Ngân sách thích ứng cho đồng bằng, đàm phán song phương về vận hành hồ chứa, và đa dạng hóa nguồn nước là những khoản chi mà toàn bộ lợi ích rơi vào trong nước — tức là thuộc loại dễ biện minh nhất. Sắp xếp ưu tiên theo mức độ thu hồi được lợi ích, chứ không theo mức độ khẩn cấp được nói tới trên diễn đàn quốc tế, là bài học vận dụng được ngay từ khung phân tích của bài này.

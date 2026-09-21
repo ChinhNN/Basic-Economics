@@ -583,3 +583,97 @@
 > "PvP settlement compresses differences in settlement risk across trading environments, leading to more stable exchange rate dynamics outside the holiday period."
 
 > "Settlement infrastructure is not merely a back-office concern, but a core determinant of market resilience, pricing, and arbitrage efficiency."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Thiết kế nhận dạng là thiết kế sạch nhất trong cả thư mục, và lý do rất cụ thể
+
+Đóng góp bền nhất của bài không phải con số 10 điểm cơ bản mà là việc **tìm ra một sự kiện thay đổi đúng một biến**.
+
+Mọi cách giảm rủi ro quyết toán khác đều thay đổi nhiều thứ cùng lúc. Rút ngắn chu kỳ quyết toán làm tăng nhu cầu thanh khoản và nén thời gian nhà tạo lập có để tìm nguồn giao. Đổi hạ tầng giao dịch làm giảm hiệu quả bù trừ đa phương. Trong mọi trường hợp đó, hệ số ước lượng được là hiệu ứng ròng của ba, bốn kênh ngược chiều nhau, và không thể quy về rủi ro quyết toán.
+
+CLS thì khác, và bài diễn đạt rất chính xác: **nó giảm rủi ro quyết toán trong khi giữ nguyên chu kỳ quyết toán và cơ chế bù trừ đa phương**. Đây là lý do duy nhất khiến sự kiện này có giá trị, và nó là loại lập luận mà một nhà nghiên cứu phải bỏ nhiều công mới tìm được. Cộng thêm hai yếu tố làm sự kiện gần ngoại sinh — dự án chuẩn bị và kiểm thử gần hai năm, nên ngày triển khai gắn với mức sẵn sàng vận hành chứ không với điều kiện thị trường; và lợi ích không thể hưởng trước ngày triển khai, nên hiệu ứng công bố không đáng kể — thì đây là một thí nghiệm tự nhiên được biện hộ tốt.
+
+Chuẩn mực trình bày cũng cao: kiểm định xu hướng trước, donut-hole loại ba ngày quanh sự kiện, hai loại kiểm định giả dược, và suy luận ngẫu nhiên hoá với 528 phép gán. Phần lớn bài viết không làm đủ bốn lớp này.
+
+### Có một phép thử liều lượng nằm sẵn trong dữ liệu mà bài không chạy, và nó là phép thử quyết định
+
+Đây là khoảng trống lớn nhất của bài.
+
+Bài báo cáo rằng từ ngày gia nhập tới cuối tháng 3/2016, doanh số forint quyết toán trong CLS bình quân **khoảng 336,6 triệu USD mỗi ngày**, so với tổng doanh số giao ngay forint khoảng **4,3 tỷ USD mỗi ngày** — tức khoảng **tám phần trăm** thị trường. Trong khi đó, tác động đo được lên lợi suất vượt trội là **10 điểm cơ bản trên nền trước sự kiện khoảng 28 điểm**, tức phần bù bị cắt đi khoảng **ba mươi lăm phần trăm**.
+
+Một thay đổi ở 8% khối lượng tạo ra mức giảm 35% của phần bù là một độ co giãn rất lớn. Bài đưa ra một lời giải thích trong đúng một câu: các ngân hàng lớn ở trung tâm mạng lưới liên đại lý tham gia, và chính sự sẵn có của quyết toán PvP đã giảm ma sát. Lời giải thích này hợp lý về mặt kinh tế — người định giá là đại lý biên, không phải khối lượng bình quân — nhưng nó là một khẳng định, không phải một kết quả.
+
+Và dữ liệu để kiểm định nó đã có sẵn trong bài. Doanh số CLS bằng forint có chuỗi theo ngày, với bình quân 336,6 và đỉnh 850,9 triệu USD. Nếu cơ chế đúng là qua kênh quyết toán, thì **tác động phải tăng theo mức độ sử dụng CLS** — một thiết kế liều lượng–phản ứng đơn giản dùng chính biến thiên đó. Nếu hệ số không tăng theo liều lượng, thì thứ được đo là một cú dịch chuyển mức trùng với ngày 16/11/2015 chứ không phải kênh quyết toán.
+
+Phép thử này rẻ, dữ liệu đã có, và nó là cách duy nhất phân biệt giữa hai cách đọc. Sự vắng mặt của nó để ngỏ khả năng rằng ước lượng đang bắt một điều gì khác xảy ra cùng thời điểm.
+
+### Suy luận ngẫu nhiên hoá cho hai kết luận trái ngược, và bài chọn cột dựa vào thuộc tính yếu nhất của thiết kế
+
+Bài làm đúng khi chạy suy luận ngẫu nhiên hoá, vì với **chỉ sáu cụm** thì sai số chuẩn gộp thông thường không đáng tin, và wild cluster bootstrap không dùng được khi chỉ có một đơn vị được xử lý. Đây là xử lý đúng chuẩn.
+
+Nhưng kết quả thì mâu thuẫn. Với lợi suất vượt trội, giá trị p tính theo **thống kê t** là 0,0246–0,0662 (có ý nghĩa), còn tính theo **hệ số** là 0,2665–0,2836 (hoàn toàn không có ý nghĩa). Bài trích dẫn cột thứ nhất, giải thích rằng thống kê t đã chuẩn hoá tính tới khả năng phương sai thay đổi giữa các đồng tiền và giai đoạn, rồi kết luận rằng kết quả vững.
+
+Lý do đó là chính đáng và là thực hành phổ biến. Nhưng khi hai thước đo cho hai kết luận ngược nhau, bản thân sự bất đồng đó mang thông tin, và thông tin đó không thuận lợi: nó nói rằng **hệ số của Hungary không lớn bất thường so với phân phối giả dược, mà chỉ được ước lượng chính xác bất thường**. Tức là thứ làm kết quả có ý nghĩa là **độ chính xác**, chứ không phải **độ lớn**. Và với sáu cụm, độ chính xác chính là thuộc tính ít đáng tin nhất của thiết kế.
+
+Điều đáng chú ý là kết quả biến động **không** có vấn đề này: hai cột cho 0,0794–0,0945 và 0,0756–0,0964, nhất quán với nhau ở mức 10%. Tức là kết quả yếu hơn nhưng nhất quán nội tại hơn. Gộp lại, cách đọc thận trọng là: **tác động lên biến động là kết quả đáng tin hơn tác động lên lợi suất vượt trội**, dù bài trình bày theo thứ tự ngược lại.
+
+### Kết quả ngang giá tam giác sụp đổ dưới chính đặc tả mà hồi quy cơ sở dùng
+
+Đây là chỗ mâu thuẫn rõ nhất giữa các phần của bài.
+
+Hồi quy cơ sở về lợi suất vượt trội dùng hiệu ứng cố định cặp đồng tiền **cộng** đồng tiền–tháng–năm, và kết quả sống sót nguyên vẹn (−0,0988 không có hiệu ứng cố định ngày, −0,1002 khi có). Hồi quy về sai lệch ngang giá tam giác, khi thêm **cùng bộ hiệu ứng cố định đồng tiền–tháng–năm**, cho hệ số rơi từ −0,0195 xuống **−0,00182** ở cửa sổ một tháng và từ −0,0145 xuống **−0,00011** ở cửa sổ ba tháng — tức mất khoảng 90% và 99% độ lớn, và mất hoàn toàn ý nghĩa thống kê. Chú thích chỉ ghi nhận rằng chúng "giữ nguyên dấu âm".
+
+Theo tiêu chuẩn mà chính bài áp dụng ở hồi quy cơ sở, cột (3) và (6) **là đặc tả được ưa chuộng**, không phải một kiểm định phụ. Và ở đặc tả đó không có kết quả nào.
+
+Điều này có hệ quả trực tiếp cho cách đọc phần tóm tắt. Trong ba phát hiện của bài, phát hiện thứ ba — rủi ro quyết toán là một nguồn giới hạn arbitrage, với sai lệch tam giác thu hẹp **17–27%** — là phát hiện **được định lượng chính xác nhất trong phần tóm tắt nhưng yếu nhất trong phần kết quả**. Con số 17–27% cũng không đến từ hệ số hồi quy mà từ phép so sánh sai biệt không điều kiện với bình quân trước sự kiện, tức không được kiểm soát bởi bất kỳ hiệu ứng cố định nào.
+
+### Một giả dược cùng dấu và có ý nghĩa trên đồng tiền đối chứng lớn nhất là vấn đề, không phải chi tiết
+
+Bài mô tả kết quả giả dược là "nhìn chung không có ý nghĩa thống kê hoặc mang dấu ngược lại". Bảng thực tế cho ba hệ số có ý nghĩa: zloty Ba Lan +0,0449 ở mức 1% với lợi suất vượt trội (dấu ngược), dinar Serbia +0,0216 ở mức 1% với biến động (dấu ngược), và **zloty Ba Lan −0,0152 ở mức 5% với biến động**.
+
+Hai cái đầu đúng là mang dấu ngược và không đe doạ kết quả. Cái thứ ba thì khác: nó **cùng dấu với hiệu ứng xử lý** và có ý nghĩa thống kê. Một giả dược tái tạo được một phần hiệu ứng xử lý là một giả dược **thất bại**, và cách diễn đạt của bài gộp nó vào mệnh đề "dấu ngược lại" bằng cách chỉ nhìn cột lợi suất vượt trội.
+
+Vì sao điều này quan trọng hơn bình thường: zloty là đồng tiền lớn nhất và thanh khoản nhất trong nhóm đối chứng, và nhóm đối chứng **chỉ có năm đồng tiền**. Nếu có một diễn biến khu vực quanh cuối 2015 tác động tới biến động của cả forint lẫn zloty, thì giả định xu hướng song song bị vi phạm đúng vào biến kết cục mà suy luận ngẫu nhiên hoá cho là đáng tin hơn. Với một nhóm đối chứng nhỏ như vậy, một đơn vị bị nhiễm chiếm 20% nhóm.
+
+Kiểm định xu hướng trước mà bài chạy không loại trừ được khả năng này, vì nó kiểm tra xu hướng **tuyến tính** trong ba tháng trước sự kiện, chứ không kiểm tra một cú sốc chung xảy ra **sau** ngày sự kiện.
+
+### Độ lớn của phân tích ngày lễ không so sánh được với kết quả cơ sở, dù bài để chúng đứng cạnh nhau
+
+Hệ số sai biệt ba lần là **−0,771** và β₂ là **−0,381**, trong khi ước lượng cơ sở là **−0,10**. Chênh lệch bốn tới tám lần, và bài không giải thích.
+
+Nhiều khả năng lời giải thích là đơn giản và vô hại: hai phân tích đo hai đại lượng khác nhau. Phân tích cơ sở đo lợi suất vượt trội **hằng ngày**; phân tích ngày lễ đo lợi suất trong cửa sổ **8:00–13:00 giờ miền Đông Mỹ**, tức một lát cắt năm tiếng trong ngày, trên một mẫu bốn đồng tiền thay vì sáu, với hiệu ứng cố định theo khối 30 phút. Lợi suất vượt trội trong một cửa sổ năm tiếng không cùng đơn vị kinh tế với lợi suất vượt trội cả ngày.
+
+Nhưng nếu vậy thì **hai kết quả không củng cố lẫn nhau về độ lớn**, chỉ củng cố nhau về **dấu và về cơ chế**. Cách trình bày của bài — ba phân tích bổ trợ cho một thông điệp — mời người đọc hiểu rằng chúng hội tụ về một ước lượng, và chúng không hội tụ. Với tám cụm trong đặc tả sai biệt ba lần, độ lớn ở đó nên được đọc thuần tuý định tính.
+
+Về mặt cơ chế thì phân tích ngày lễ là phần thông minh nhất của bài. Ý tưởng rằng rủi ro quyết toán phụ thuộc vào **vị trí của đối tác và mức chồng lấn giờ hoạt động của các hệ thống thanh toán** là một giả thuyết có thể sai, và bài thiết kế được một phép thử cho nó. Việc bài tự nêu phản biện — rằng nếu giao dịch chuyển sang đối tác châu Á–Thái Bình Dương thì rủi ro quyết toán vẫn cao, và việc ít định chế Mỹ tham gia còn ảnh hưởng thanh khoản độc lập với rủi ro quyết toán — là dấu hiệu của một bài viết trung thực.
+
+### Đóng góp chính sách thật nằm ở việc đổi hoàn toàn cơ sở tính chi phí–lợi ích của hạ tầng quyết toán
+
+Cách hiểu thông thường về quyết toán đổi thanh toán bắt nguồn từ vụ Herstatt: PvP là **bảo hiểm cho một sự kiện đuôi** — nó bảo vệ bạn khi một đối tác sụp đổ. Theo cách hiểu đó, lợi ích của việc gia nhập CLS là xác suất nhỏ nhân với một tổn thất lớn, và nó phải được cân với một chi phí vận hành chắc chắn và liên tục. Phép tính này thường không thuyết phục được ai.
+
+Kết quả của bài đổi hoàn toàn cấu trúc đó. Nếu rủi ro quyết toán **được định giá vào tỷ giá mỗi ngày**, thì lợi ích của PvP không phải là bảo hiểm cho một sự kiện hiếm mà là **giảm chi phí giao dịch và giảm biến động trong mọi ngày bình thường, kể cả khi không ai vỡ nợ**. Lợi ích chuyển từ một kỳ vọng xác suất sang một dòng tiền đều.
+
+Con số quy mô toàn cầu cho thấy phần thưởng lớn tới đâu: với doanh số khoảng **9,6 nghìn tỷ USD mỗi ngày**, chỉ vài điểm cơ bản phần bù đã hàm ý vài tỷ đô chi phí giao dịch mỗi ngày. Ngay cả khi ước lượng riêng cho forint bị phóng đại vài lần, bậc độ lớn của bài toán vẫn rất lớn. Đây là lập luận mà một bộ tài chính hoặc một ngân hàng trung ương có thể dùng để biện hộ cho khoản đầu tư hạ tầng, và nó là đóng góp thực tiễn có giá trị nhất của bài.
+
+Có một lỗ hổng cần thừa nhận trong lập luận này. Bài **không dùng khối lượng giao dịch làm biến kết cục**, vì dữ liệu không có ở tần suất phù hợp — dù chính bài nói rằng tác động của việc giảm rủi ro quyết toán lên hoạt động giao dịch là hợp lý về kinh tế. Đây lại là biến quan trọng nhất cho phép tính chi phí–lợi ích, vì nó phân biệt hai kịch bản rất khác nhau: PvP **kéo thêm người tham gia mới vào thị trường** (lề mở rộng), hay chỉ **định giá lại dòng lệnh vốn đã có** (lề cường độ). Với một nước đang cân nhắc đầu tư, hai kịch bản cho hai kết luận khác nhau.
+
+### Với Việt Nam: cơ chế múi giờ là chỗ bất lợi nhất, và cũng là chỗ sửa được rẻ nhất
+
+Đồng Việt Nam không đủ điều kiện quyết toán qua CLS, nên kết quả của bài không áp dụng trực tiếp. Nhưng **cơ chế** mà bài chứng minh thì áp dụng, và nó áp dụng theo hướng bất lợi.
+
+Phần thử nghiệm ngày lễ cho thấy phần bù rủi ro quyết toán biến thiên theo **mức chồng lấn giờ hoạt động của các hệ thống thanh toán**, và rằng giao dịch giữa các đối tác ở múi giờ sát nhau có rủi ro quyết toán thấp hơn. Một cặp tiền châu Á đối với đô la Mỹ nằm ở **trường hợp cực đoan của thang đó**: hệ thống thanh toán châu Á và hệ thống thanh toán Mỹ gần như không có giờ hoạt động chồng lấn. Khoảng trống giữa hai lần giao là lớn nhất có thể.
+
+Hệ quả suy ra từ logic của bài: với cùng chất lượng tín dụng và cùng điều kiện vĩ mô, **một đồng tiền châu Á phải trả phần bù rủi ro quyết toán cao hơn một đồng tiền châu Âu**, thuần tuý vì địa lý. Đây không phải một đặc điểm kinh tế mà là một đặc điểm vận hành.
+
+Và đó cũng là lý do nó là loại vấn đề sửa được bằng đầu tư kỹ thuật thay vì bằng cải cách cơ cấu. Ba hướng theo thứ tự chi phí tăng dần.
+
+**Thứ nhất, mở rộng giờ hoạt động của hệ thống quyết toán tổng tức thời trong nước** để tạo chồng lấn với múi giờ của đối tác chính. Đây là thay đổi thuần vận hành, không đòi hỏi thay đổi pháp lý hay hạ tầng mới, và theo cơ chế của bài nó tác động trực tiếp vào biến quyết định. Nó cũng là điều kiện tiên quyết cho mọi bước sau.
+
+**Thứ hai, các thu xếp PvP song phương hoặc khu vực** — chính bài nêu "các thu xếp PvP thay thế" như một hướng nghiên cứu tiếp, và đây là con đường thực tế hơn nhiều so với tư cách thành viên CLS. Với cơ cấu thương mại của Việt Nam, các cặp tiền khu vực có giờ hoạt động chồng lấn tự nhiên, nên chi phí thiết lập thấp hơn và lợi ích đến sớm hơn.
+
+**Thứ ba, tư cách CLS** đòi hỏi một tập điều kiện thể chế — tính chung cuộc pháp lý của quyết toán, khả năng chuyển đổi, và giờ hoạt động phù hợp của hệ thống quyết toán tổng tức thời — nên nó là đích đến chứ không phải điểm khởi đầu.
+
+Điểm đáng khích lệ nhất khi đặt bài này cạnh tài liệu về định giá bằng đồng tiền thống trị trong cùng thư mục: bài kia phân rã phần bù rủi ro tiền tệ thành một kênh hiệp phương sai phụ thuộc vào cơ cấu ghi hoá đơn và cơ cấu nợ — những thứ thay đổi rất chậm. Bài này tìm ra **một cấu phần khác của cùng phần bù đó hoàn toàn là hạ tầng**. Nghĩa là một phần cái giá mà một đồng tiền nhỏ phải trả không đến từ nền tảng vĩ mô mà đến từ đường ống, và phần đó có thể giảm bằng đầu tư vận hành trong vài năm chứ không vài thập niên.
+
+Cuối cùng, một quan sát nối hai nửa của thư mục này mà không tài liệu nào tự nêu. CLS loại bỏ rủi ro quyết toán song phương bằng cách tạo ra **một nút tập trung toàn cầu** mà toàn bộ thị trường ngoại hối đi qua. Bài này đo **lợi ích** của sự tập trung đó — chi phí giao dịch thấp hơn, biến động thấp hơn, arbitrage chặt hơn. Hai tài liệu về rủi ro mạng trong cùng thư mục đo **cái giá** của đúng cấu trúc ấy: khi một chức năng trọng yếu không có dịch vụ thay thế, hệ thống không chuyển hướng mà dừng lại. Đây là cùng một hiện tượng nhìn từ hai phía, và phép tính đầy đủ đòi hỏi cả hai vế: mỗi điểm cơ bản tiết kiệm được mỗi ngày là khoản trả cho một rủi ro đuôi đã được chuyển từ chỗ phân tán sang chỗ tập trung.

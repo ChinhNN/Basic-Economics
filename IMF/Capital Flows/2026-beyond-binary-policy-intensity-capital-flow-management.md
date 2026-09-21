@@ -408,3 +408,77 @@
 > "Capital controls show a lower degree of stickiness than previously expected."
 
 > "When CFMs are used actively, measuring policy intensity could substantially improve the ability of de jure indices to capture effective openness."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Giá trị thật nằm ở chỗ chỉ số này làm được việc mà chỉ số cũ không làm được, chứ không nằm ở chỗ nó đo đúng hơn
+
+Cần tách bạch hai lời hứa mà bài trộn vào nhau. Lời hứa thứ nhất là FinOpen **đo độ mở chính xác hơn**. Lời hứa thứ hai là FinOpen **cho phép nghiên cứu những câu hỏi mà chỉ số cũ không cho phép**. Chỉ lời hứa thứ hai được chứng minh, và nó cũng là lời hứa quan trọng hơn.
+
+Bằng chứng cho lời hứa thứ nhất mỏng hơn vẻ ngoài, và điều này bắt đầu ngay từ phép kiểm chứng mà bài coi là thuyết phục nhất. Tương quan **0,89 với chỉ số Quinn** được viện dẫn với lý lẽ rằng Quinn là chỉ số duy nhất khác cũng đo cường độ. Nhưng lập luận đó lẽ ra phải đi theo chiều ngược lại: Quinn và FinOpen **đọc cùng một nguồn văn bản AREAER, theo cùng một logic thang bậc, bằng cùng một loại phán đoán của con người**. Hai cách đọc gần giống nhau cho kết quả giống nhau là điều đáng mong đợi, không phải một xác nhận độc lập. Đáng chú ý là tương quan **thấp nhất, 0,79, lại là với FARI** — chỉ số được xây bằng phương pháp khác biệt nhất, tức là phép đối chiếu mang nhiều thông tin nhất lại cho kết quả kém khớp nhất.
+
+Kiểm chứng thực sự có sức nặng là đối chiếu với độ mở thực tế. Tương quan với thước đo đó — tổng tài sản và nợ đối ngoại trên GDP — là khoảng **0,38 ở châu Á và 0,44 ở Mỹ Latin**. Đây được trình bày như một chiến thắng vì Chinn–Ito chỉ đạt khoảng 0,09 và 0,03 ở hai khu vực đó. Nhưng đọc theo giá trị tuyệt đối thì một chỉ số tương quan 0,4 với thực tế để lại hơn **84% biến thiên không giải thích được**. Cách đọc trung thực là: mọi chỉ số pháp lý đều là đại diện yếu cho độ mở thực tế, và FinOpen là cái ít yếu nhất. Ở Trung Đông, CIS và châu Phi hạ Sahara thì mọi chỉ số đều thấp, kể cả chỉ số này.
+
+Giá trị thật là ở chiều khác. Mọi chỉ số trước đó đều **theo năm**; FinOpen có **ngày hiệu lực**. Điều đó mở ra cả một lớp câu hỏi không thể đặt ra trước đây: phản ứng của dòng vốn và tỷ giá quanh ngày ban hành biện pháp, thứ tự giữa biện pháp quản lý dòng vốn và quyết định lãi suất, tương tác với can thiệp ngoại hối. Đây là bước chuyển giống như bước chuyển từ đo chính sách tiền tệ bằng mức lãi suất bình quân năm sang đo bằng cú sốc trong cửa sổ hẹp quanh thông báo. Và cũng giống như ở đó, **giá trị nằm ở tần suất và thời điểm, không nằm ở việc mức được đo chính xác hơn.**
+
+Đóng góp thứ hai ít được quảng cáo nhưng có sức nặng riêng: đây là chỉ số đầu tiên tách **dòng ra của người không cư trú** khỏi **dòng ra của người cư trú**. Hai thứ này bị gộp trong mọi chỉ số trước, và Sự thật 2 cho thấy chúng cách nhau rất xa.
+
+### Mâu thuẫn nội tại nghiêm trọng nhất: kết luận phá quan niệm cũ lại được rút ra bằng đúng phương pháp mà bài chê
+
+Sự thật 6 — kiểm soát vốn không dai dẳng như người ta nghĩ — được đặt ở vị trí phát hiện lật ngược văn liệu. Nó cũng là kết luận đứng trên nền yếu nhất.
+
+Lập luận của bài là: quan niệm cũ đúng khi nhìn nhãn nhị phân, vì nhãn chỉ đổi khi một hạng mục được tự do hoàn toàn; nhưng khi **đếm số hành động chính sách** thì thấy các nước điều chỉnh thường xuyên. Vấn đề là **đếm số hành động chính xác là phương pháp ❸ mà bài chỉ trích ngay ở phần mở đầu**, với lý do "coi số lượng hành động là đại diện cho cường độ, không rõ có so sánh được giữa các nước hay không". Toàn bộ động cơ xây FinOpen là để vượt qua giới hạn đó. Vậy mà khi cần một kết luận gây ấn tượng, bài quay lại dùng chính phép đếm đó, chứ không dùng chỉ số cường độ mà nó vừa xây.
+
+Phép so sánh trong bộ ba bất khả thi còn có vấn đề nặng hơn: **ba đối tượng được so không cùng loại.** Chính sách tiền tệ là một biến liên tục được điều chỉnh theo lịch họp định kỳ, nên đếm ra "hơn 40 lần thay đổi" là gần như tất yếu. Chế độ tỷ giá là một **phân loại** chỉ đổi khi chuyển hẳn chế độ, nên "0 hoặc 1 lần" cũng gần như tất yếu. Đặt số biện pháp quản lý dòng vốn vào giữa hai thứ đó rồi kết luận rằng nó "được điều chỉnh nhiều hơn chế độ tỷ giá" là một mệnh đề gần như đúng theo định nghĩa, không phải một phát hiện thực nghiệm.
+
+Điều đáng tiếc là bài có sẵn công cụ để làm đúng: FinOpen là chuỗi liên tục, hoàn toàn có thể đo độ dai dẳng bằng hệ số tự hồi quy, bằng phương sai của thay đổi, hoặc bằng thời gian trung bình giữa hai lần chỉ số dịch chuyển quá một ngưỡng. Không phép đo nào trong số đó được thực hiện.
+
+### Ba chỗ chấm điểm mang tính phán đoán, và một lỗ hổng rơi đúng vào ca minh hoạ chủ lực
+
+Bài thẳng thắn liệt kê ba hạn chế ở mục riêng, nhưng cả ba đều ở tầng khái niệm. Những chỗ mỏng cụ thể hơn nằm trong chính các ví dụ chấm điểm.
+
+**Thứ nhất, giả định nối mức với thay đổi là một ràng buộc kế toán, không phải một phép đo.** Trọng số được gán sao cho tổng các thay đổi khớp đúng với bước nhảy mức. Điều đó có nghĩa là chuỗi thay đổi **không mang thông tin độc lập** với chuỗi mức; nó là chuỗi mức được nội suy theo ngày, với cách phân bổ giữa các ngày do người chấm quyết định. Tương quan 0,89 với chỉ số Quinn — chỉ số đo mức theo năm — phù hợp với cách đọc này. FinOpen nên được hiểu là **Quinn có ngày tháng**, và đó đã là một đóng góp đủ lớn; việc trình bày nó như một phép đo mức tốt hơn là đòi hỏi quá nhiều.
+
+**Thứ hai, quy tắc chấm thuế không cùng thang với quy tắc chấm biện pháp hành chính.** Ecuador nâng thuế dòng ra từ 2% lên 5% được chấm **0,6 điểm**; trong khi Trung Quốc **xoá bỏ hoàn toàn hạn ngạch QFII và RQFII** ngày 10/9/2019 — gỡ bỏ toàn bộ rào cản định lượng với nhà đầu tư tổ chức nước ngoài trên thị trường cổ phiếu — được chấm **0,2 điểm**. Trên cùng thang 0–4, một thay đổi thuế ba điểm phần trăm được tính nặng gấp ba lần việc dỡ bỏ cả một hệ thống hạn ngạch. Lý do là công thức thuế tuyến tính và không bị chặn, còn biện pháp hành chính thì bị ràng buộc bởi trần mức. Hai quy tắc này không thể cộng vào cùng một chỉ số mà không tạo méo mó, và bài không bàn tới.
+
+**Thứ ba, quy tắc ngoại suy sau lần chuyển mức cuối cùng dựa trên một giả định về hành vi.** Các biện pháp mới sau lần chuyển mức gần nhất được gán cùng mức điểm với biện pháp gần nhất, "dựa trên giả định rằng nhà chức trách có xu hướng duy trì cùng một phong cách quản lý". Với một chỉ số chạy tới 2022 và đặt điểm chuẩn mức ở 2022, phần đuôi gần đây của chuỗi — chính là phần mà người dùng quan tâm nhất — được xây trên giả định này nhiều hơn trên văn bản.
+
+Và lỗ hổng lớn nhất rơi đúng vào ca minh hoạ chủ lực. Trung Quốc xuất hiện ở khắp nơi trong bài: ở hình mở đầu so với Indonesia, ở kịch bản chấm điểm A, ở Sự thật 4 như một trong hai phong cách quản lý, và ở nghiên cứu tình huống kiểm chứng. Lập luận rất thuyết phục: nhãn nhị phân cho một đường thẳng trong suốt 2005–2024, trong khi FinOpen ghi nhận mức tăng từ khoảng 0,2 lên 0,55 — và tỷ lệ nắm giữ trái phiếu của nhà đầu tư nước ngoài trên thực tế xác nhận chiều của FinOpen.
+
+Nhưng hai chi tiết khác trong cùng bài làm suy yếu chính ca minh hoạ này, và chúng nằm cách nhau vài mục nên không bao giờ được đặt cạnh nhau.
+
+Chi tiết thứ nhất: đối chiếu chéo cho giai đoạn 7/1979 đến 4/2020 cho thấy nguồn chính thức của chính phủ Trung Quốc công bố **199 biện pháp**, trong khi AREAER — nguồn dữ liệu duy nhất của chỉ số — chỉ ghi nhận **97**. Nghĩa là với nước được dùng làm ví dụ hàng đầu, cơ sở dữ liệu nguồn bỏ sót hơn một nửa số biện pháp. Nếu phần bỏ sót phân bố không đều theo thời gian — mà khó có lý do để tin là nó đều — thì hình dạng của đường FinOpen cho Trung Quốc phụ thuộc vào những biện pháp nào tình cờ được ghi lại.
+
+Chi tiết thứ hai sắc hơn. Bài tự nêu một ví dụ về biện pháp dựa trên nơi cư trú: trong đợt biến động thị trường chứng khoán 2015–2016, Ngân hàng Nhân dân Trung Quốc **ngừng phê duyệt hạn ngạch mới bằng chỉ đạo cửa sổ**. Chỉ đạo cửa sổ theo định nghĩa là can thiệp phi văn bản, không có ngày hiệu lực, không xuất hiện trong bất kỳ báo cáo quy định nào. Đây chính là hạn chế thứ nhất mà bài thừa nhận — chỉ số không phản ánh được việc thực thi trên thực tế.
+
+Ghép hai chi tiết lại thì có một kết luận khá nặng: **nước mà tính gia tăng của nó là lý do tồn tại của chỉ số này cũng là nước mà công cụ chính sách chủ đạo của nó vô hình với chỉ số.** Điều đó không làm chỉ số vô dụng, nhưng nó có nghĩa là đường FinOpen của Trung Quốc mượt mà và đều đặn một phần vì các đợt siết đột ngột bằng chỉ đạo miệng không được ghi vào.
+
+### Sự thật 2 chứa một phát biểu về chính trị kinh tế mà bài để nguyên dưới dạng số liệu
+
+Thứ tự mở cửa giảm dần — dòng ra của người không cư trú mở nhất, dòng vào của người không cư trú ở giữa, **dòng ra của người cư trú đóng nhất** — được trình bày như một sự thật mô tả. Nhưng nó là kết quả có nội dung nhất trong cả bài.
+
+Nó nói rằng các chính phủ, trên thực tế, **sợ công dân của chính mình mang tiền ra hơn là sợ nhà đầu tư nước ngoài rút tiền về.** Người nước ngoài được tự do ra đi gần như ở mọi nơi, chỉ bị chặn trong khủng hoảng cấp tính như Hy Lạp hay Síp. Người trong nước thì bị chặn thường trực. Đây là sở thích bộc lộ của nhà hoạch định chính sách, và nó khó biện minh bằng lý lẽ ổn định tài chính thông thường: nếu lo dừng đột ngột thì nhóm đáng lo là nhà đầu tư nước ngoài có thể rút hàng loạt, chứ không phải hộ gia đình trong nước.
+
+Bài đi gần tới câu trả lời khi ghi nhận rằng khoảng cách giữa hai chiều này **lớn nhất ở các nước thu nhập thấp** và gọi đó là dấu hiệu của đàn áp tài chính. Nhưng nó dừng ở nhãn. Tài liệu trong thư mục Asean 2026 về hạn chế thanh toán thương mại và kiểm soát vốn cung cấp mảnh còn thiếu: ở đó, kiểm soát dòng vốn ra làm **tăng đầu tư công** trong khi đầu tư tư nhân không đổi, và tác giả giải thích rằng nhốt tiết kiệm trong nước lại giúp nhà nước hạ chi phí vay của chính mình. Ghép hai tài liệu thì bức tranh rõ: **kiểm soát dòng vốn ra của người cư trú chủ yếu là một công cụ tài khoá được khoác áo công cụ ổn định**, và Sự thật 2 của bài này là bằng chứng mô tả trên phạm vi 193 nước cho luận điểm đó.
+
+Sự thật 3 thì đi cùng hướng với phần còn lại của thư mục: các nước mới nổi quản lý cổ phiếu lỏng hơn nợ, đúng trình tự mà văn liệu khuyến nghị và đúng với kết quả rằng chỉ kiểm soát vốn nợ mới có tác dụng lên cán cân vãng lai. Điều đáng chú ý là ở đây trình tự đó được quan sát như **hành vi thực tế của các chính phủ**, chứ không phải như khuyến nghị — tức là các nhà hoạch định đã làm đúng trước khi có bằng chứng thực nghiệm ủng hộ.
+
+### Hệ quả cho toàn bộ văn liệu về hiệu quả của kiểm soát vốn, và bài không dám nói ra
+
+Bài mở đầu bằng nhận định rằng tranh luận về hiệu quả của biện pháp quản lý dòng vốn chưa có đồng thuận, và quy nguyên nhân chính cho khâu đo lường.
+
+Nếu chẩn đoán đó đúng — và biểu đồ phân tán ủng hộ nó rất mạnh, vì chênh lệch giữa FinOpen và chỉ số nhị phân **lớn nhất đúng ở những nước kiểm soát chặt**, tức đúng ở nhóm nước mà mọi nghiên cứu về kiểm soát vốn tập trung vào — thì hệ quả đi xa hơn nhiều so với mức bài phát biểu. Nó có nghĩa là **một phần đáng kể các kết quả thực nghiệm đã công bố về hiệu quả của kiểm soát vốn được ước lượng bằng biến giải thích sai**, và những kết quả "không có ý nghĩa thống kê" trong nhóm đó không nên được đọc là bằng chứng về sự vô hiệu của công cụ.
+
+Điều này chạm trực tiếp vào các tài liệu khác trong cùng thư mục. Nghiên cứu về phát hành trái phiếu doanh nghiệp dùng bộ chỉ số Fernández và cộng sự — chính là FKRSU, một chỉ số nhị phân theo năm — làm biến chính sách trung tâm, với 19 lần bật tắt trong 22 năm. Theo logic của bài này, phần lớn biến thiên chính sách thực trong mẫu đó không được ghi nhận, và các hệ số ước lượng được tương ứng với việc **đi từ có kiểm soát sang không kiểm soát hoàn toàn**, chứ không phải với những điều chỉnh cường độ mà các nước thực sự làm.
+
+Bài không nói câu này, có lẽ vì nó đặt dấu hỏi lên một phần lớn văn liệu, trong đó có nhiều bài của chính IMF. Nhưng nó là hệ quả logic trực tiếp của điều bài chứng minh.
+
+### Với Việt Nam: đúng ca mà chỉ số cũ không nhìn thấy, và một chi phí đo lường rất cụ thể
+
+Việt Nam nằm trong 193 nước của FinOpen, và thuộc đúng loại mà bài dùng Trung Quốc làm đại diện: **tự do hoá bằng nhiều bước nhỏ, hiếm khi mở hẳn một hạng mục nào.** Nới room ngoại cho từng nhóm ngành, mở dần cho nhà đầu tư nước ngoài trên thị trường trái phiếu, điều chỉnh quy định về vay nước ngoài của doanh nghiệp, nới hạn mức chuyển tiền — tất cả đều là những điều chỉnh gia tăng không làm đổi nhãn nhị phân.
+
+Hệ quả thứ nhất mang tính nghiên cứu: **mọi nghiên cứu về Việt Nam dùng Chinn–Ito hay FKRSU đều đang làm việc với một biến gần như không đổi.** Nếu độ mở pháp lý của Việt Nam là một đường thẳng trong bộ dữ liệu, thì không hồi quy nào có thể tìm ra tác động của việc tự do hoá tài khoản vốn, và kết quả "không có ý nghĩa" phải được đọc là "không đo được", không phải "không có".
+
+Hệ quả thứ hai mang tính thực tiễn và ít được chú ý. Độ mở pháp lý được các chỉ số quốc tế ghi nhận không chỉ là vấn đề học thuật: nó đi vào đánh giá của tổ chức xếp hạng, vào tiêu chí nâng hạng thị trường của các nhà cung cấp chỉ số, và vào nhận định của nhà đầu tư tổ chức về khả năng tiếp cận và khả năng rút vốn. Một nước tự do hoá bằng trăm bước nhỏ mà không bước nào làm đổi nhãn sẽ **không được ghi nhận là đã tự do hoá** — chi phí thật của việc bị đo sai. Bài này cho thấy cách khắc phục nằm ở đâu: chỉ số dựa hoàn toàn vào AREAER, và AREAER dựa vào những gì nhà chức trách báo cáo. Việc ghi chép đầy đủ từng biện pháp kèm ngày hiệu lực vì vậy là một hành động có lợi ích trực tiếp, chứ không phải một nghĩa vụ hành chính.
+
+Hệ quả thứ ba là một lời cảnh báo. Hạn chế lớn nhất mà bài thừa nhận — khoảng cách giữa pháp lý và thực tế, khi nhà chức trách có thể trì hoãn phê duyệt mà không đổi quy định — mô tả khá chính xác cách vận hành trên thực tế của nhiều kênh vốn ở Việt Nam. Điều đó có nghĩa là ngay cả FinOpen cũng sẽ đo Việt Nam mở hơn thực tế. Với một nền kinh tế rất mở về thương mại nhưng còn kiểm soát tài khoản vốn và chưa có đồng tiền chuyển đổi tự do, khoảng cách giữa văn bản và thực thi chính là phần quan trọng nhất của chính sách — và không chỉ số nào hiện có đo được nó.

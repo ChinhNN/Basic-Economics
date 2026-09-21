@@ -242,3 +242,61 @@
 > "The competition is not for the settlement rails. It is for the authorization layer."
 
 > "The risk is not that machines make mistakes humans would not. It is that they make them faster than humans can intervene."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Sự đồng ý đổi từ một khoảnh khắc thành một chính sách, và đó là thay đổi lớn hơn mọi thứ khác trong bài
+
+Bài mô tả rất kỹ việc sự đồng ý bị tách khỏi thời điểm chuyển tiền, nhưng chưa gọi tên đúng bản chất của điều đang xảy ra. Đây không phải là sự đồng ý bị dịch chuyển về trước. Đây là sự đồng ý **đổi loại**.
+
+Trong toàn bộ lịch sử thanh toán, sự đồng ý là một **sự kiện**: một chữ ký, một mã PIN, một cú bấm. Nó có một thời điểm xác định, một nội dung xác định, và một số tiền xác định. Mọi khái niệm pháp lý của ngành — giao dịch không được uỷ quyền, nghĩa vụ chứng minh, quyền đòi lại tiền, thời hạn khiếu nại — đều được xây trên giả định rằng tồn tại một sự kiện như vậy để đối chiếu.
+
+Trong mô hình tác tử, sự đồng ý trở thành một **bộ quy tắc**: một phạm vi, một hạn mức, một danh sách đối tác, một thời hạn. Nó không còn là sự kiện mà là chính sách. Và một chính sách thì không thể so sánh với một giao dịch cụ thể theo cách nhị phân đúng hay sai; nó chỉ có thể được diễn giải.
+
+Điều đáng chú ý là ngành luật đã có sẵn một bộ khái niệm cho đúng tình huống này, chỉ có điều nó không nằm trong luật thanh toán. Đó là luật về **đại diện và uỷ quyền**: quan hệ giữa người uỷ quyền và người được uỷ quyền, phạm vi thẩm quyền biểu kiến, nghĩa vụ trung thành của bên được uỷ quyền. Bộ khái niệm này cổ hơn thẻ tín dụng hàng thế kỷ và đã xử lý đúng câu hỏi "ai chịu khi người đại diện hành động trong phạm vi nhưng ra kết quả xấu".
+
+Bài lại đi tìm lời giải ở phía kỹ thuật — chứng thư kiểm chứng được bằng mật mã, token phạm vi hẹp, danh tính tác tử. Những thứ đó cần thiết nhưng chúng chỉ ghi lại phạm vi, không quyết định ai chịu tổn thất khi phạm vi được tôn trọng mà kết quả vẫn sai. Có một lý do khiến không ai muốn nhắc tới luật đại diện ở đây: câu trả lời mặc định của nó là **người uỷ quyền chịu**. Áp dụng thẳng nguyên tắc đó nghĩa là đẩy toàn bộ rủi ro tác tử sang người tiêu dùng, điều không ai muốn nói ra nhưng cũng chưa ai bác bỏ bằng một lập luận rõ ràng.
+
+### Luận điểm "quyền lực tập trung ở lớp hai" có thể đúng vì lý do sai
+
+Bài lập luận rằng lớp uỷ quyền là nơi quyền lực kinh tế tập trung, vì đó là điểm mà mọi giao dịch phải đi qua. Nhưng chính dòng thời gian bốn thập niên trong bài lại kể một câu chuyện khác.
+
+Trong mọi làn sóng trước, giá trị không chảy về điểm nghẽn kỹ thuật mà chảy về **bên sở hữu giao diện với người dùng**. Mạng thẻ là điểm nghẽn bắt buộc của mọi giao dịch thẻ, nhưng phần thặng dư và quyền định hình sản phẩm lại dịch dần về phía ví trên điện thoại và nút thanh toán trên trang bán hàng. Ai đứng ở chỗ người dùng nhìn vào thì người đó đặt luật; ai đứng ở chỗ bắt buộc phải đi qua thì người đó bị quản lý và bị ép biên lợi nhuận.
+
+Trong kiến trúc của bài, giao diện với người dùng là **lớp một**, không phải lớp hai. Danh sách các bên đang cạnh tranh cũng ủng hộ cách đọc này: hai bên có vị thế mạnh nhất là bên sở hữu cuộc hội thoại với người dùng và bên sở hữu danh mục hàng hoá. Họ đi từ lớp một xuống. Mạng thẻ thì đi từ lớp hai lên, và đó là tư thế của bên đang phòng thủ chứ không phải bên đang chiếm lĩnh.
+
+Bài gộp hai câu hỏi khác nhau vào một kết luận: "nơi đặt nghĩa vụ quản lý hiệu quả nhất" và "nơi quyền lực kinh tế tập trung". Câu trả lời thứ nhất gần như chắc chắn là lớp hai — nó là điểm duy nhất có thể thực thi được. Câu trả lời thứ hai có lẽ là lớp một. Nếu vậy thì kết cục khả dĩ nhất là lớp hai trở thành hạ tầng bị quản lý chặt và biên lợi nhuận mỏng, trong khi phần tô nằm ở lớp trên — tức là chính mô thức đã xảy ra với ngành thanh toán trong hai mươi năm qua. Đó không phải tin xấu cho cơ quan quản lý, nhưng nó có nghĩa là đặt nghĩa vụ ở lớp hai sẽ **không** chạm tới nơi có quyền lực thật.
+
+### Một rủi ro bài bỏ trống hoàn toàn: thương lượng máy với máy không phải là trò chơi trung lập
+
+Bài mô tả việc tác tử bên mua thương lượng với tác tử bên bán như một bước mới trong hành trình giao dịch, với giọng trung tính. Nhưng kinh tế học của thương lượng song phương giữa hai bên có thông tin bất đối xứng thì không trung tính chút nào.
+
+Người mua dùng một tác tử phổ thông, được huấn luyện chung, không biết gì riêng về người bán. Người bán thì có lịch sử giao dịch của chính mình, mô hình định giá riêng, dữ liệu về độ co giãn cầu theo từng phân khúc, và động cơ để đầu tư vào một tác tử chuyên biệt vì mỗi phần trăm biên lợi nhuận nhân với toàn bộ doanh số. Khi hai tác tử này gặp nhau lặp đi lặp lại, bên có nhiều dữ liệu và nhiều động cơ đầu tư hơn sẽ **học được hàm phản ứng của bên kia**.
+
+Kết quả nhiều khả năng không phải là người tiêu dùng mua được rẻ hơn, mà là **phân biệt giá trở nên hoàn hảo hơn**: mỗi người mua bị tính đúng mức giá cao nhất mà tác tử của họ sẽ chấp nhận. Đây là sự dịch chuyển thặng dư từ người mua sang người bán, được thực hiện bởi chính công cụ được quảng cáo là giúp người mua.
+
+Phần cạnh tranh của bài lo về việc nền tảng tự ưu tiên hàng hoá của mình, đó là mối lo đúng nhưng là mối lo cũ, đã có công cụ chống độc quyền để xử lý. Kênh phân biệt giá qua thương lượng máy thì mới, khó phát hiện vì mỗi giao dịch đều có vẻ hợp lý khi xét riêng, và không có công cụ pháp lý nào đang nhắm vào nó.
+
+Liên quan chặt tới điều này là rủi ro tiêm lệnh, bài có nhắc ở lớp một nhưng chỉ như một mục trong danh sách. Hàm ý của nó lớn hơn thế: khi tác tử của người mua phải đọc văn bản do người bán kiểm soát — mô tả sản phẩm, trang web, thư điện tử, điều khoản — thì **mọi ký tự do đối phương viết ra đều là một bề mặt tấn công nhắm thẳng vào ví tiền**. Kẻ tấn công không cần xâm nhập hệ thống nào cả; họ chỉ cần được tác tử đọc.
+
+### Khẳng định "lớp quyết toán không phải điểm nghẽn" mâu thuẫn với chính dự báo của bài
+
+Bài nói hạ tầng quyết toán phần lớn đã tồn tại và hoạt động tốt, thách thức chỉ là thích ứng. Nhưng bài cũng dự báo số lượng giao dịch tăng vọt trong khi giá trị mỗi giao dịch giảm mạnh, vì tác tử chia nhỏ, thử, huỷ và thử lại.
+
+Hai mệnh đề này khó cùng đúng. Lý do nằm ở **cấu trúc chi phí cố định của tuân thủ**, chứ không nằm ở năng lực xử lý kỹ thuật. Mỗi giao dịch, dù trị giá một đô hay một xu, đều phải qua sàng lọc danh sách trừng phạt, kiểm tra chống rửa tiền, ghi nhận, đối soát và lưu trữ. Những chi phí này gần như không giảm theo giá trị giao dịch. Nếu khối lượng tăng một trăm lần, chi phí tuân thủ tăng xấp xỉ một trăm lần, trong khi doanh thu trên mỗi giao dịch giảm.
+
+Nghĩa là điểm nghẽn thật không ở khả năng chuyển tiền mà ở **khả năng tuân thủ trên mỗi đơn vị giao dịch**, và nó nằm đúng ở ranh giới giữa lớp hai và lớp ba. Điều này lại củng cố kết luận của bài về tầm quan trọng của lớp uỷ quyền, nhưng bằng một lập luận mạnh hơn và cụ thể hơn lập luận mà bài đưa ra: lớp hai quan trọng vì nó là nơi duy nhất có thể **sàng lọc một lần cho nhiều giao dịch**, thay vì sàng lọc từng giao dịch một. Ai giải được bài toán đó sẽ quyết định kinh tế học của toàn bộ thương mại tác tử.
+
+### Phần sẽ lỗi thời nhanh nhất và phần sẽ còn đúng lâu
+
+Danh sách giao thức là phần dễ hỏng nhất của tài liệu. Một cuộc đua chuẩn ở giai đoạn có sáu, bảy ứng viên cùng lúc hầu như luôn kết thúc với một hoặc hai chuẩn sống sót, thường là chuẩn được hậu thuẫn bởi bên có sẵn khối lượng giao dịch chứ không phải chuẩn tốt nhất về kỹ thuật. Nên đọc danh sách này như một bức ảnh chụp **ai đang tranh giành ở thời điểm 2026**, không phải như mô tả về hạ tầng tương lai. Tương tự, việc phân định ranh giới giữa các lớp sẽ dịch chuyển: các bên sẽ cố gộp lớp một và lớp hai, vì gộp được thì kiểm soát được cả ý định lẫn quyền chi.
+
+Phần bền là ba thứ. Thứ nhất là **phép phân rã ba lớp** — nó đúng vì nó phản ánh ba câu hỏi khác nhau về bản chất: muốn gì, có được phép không, tiền đi bằng đường nào. Thứ hai là việc **tách sự đồng ý, danh tính và uỷ quyền** thành ba thứ riêng biệt, vốn từng trùng nhau trong một cú bấm; sự tách rời này sẽ không quay lại. Thứ ba là nguyên lý về **tốc độ lỗi**: khi hành động nhanh hơn khả năng can thiệp, biện pháp kiểm soát duy nhất còn hiệu lực là biện pháp đặt trước và tự động, tức hạn mức cứng và công tắc ngắt. Nguyên lý này giống hệt bài học của các sự cố giao dịch thuật toán trên thị trường chứng khoán, và nó gợi ý rằng ngành thanh toán nên mượn thẳng bộ công cụ đã được dùng ở đó thay vì phát minh lại: ngắt mạch, giới hạn tốc độ lệnh, và ngưỡng dừng bắt buộc.
+
+### Với Việt Nam: một lợi thế hạ tầng thật và một điểm yếu ít ai nhận ra
+
+Lợi thế trước. Thương mại tác tử cần một lớp quyết toán rẻ ở mức giao dịch nhỏ. Ở các nền kinh tế dựa vào thẻ, mỗi giao dịch mang một mức phí cố định khiến vi thanh toán không khả thi về kinh tế. Việt Nam thì đã có chuyển khoản tức thời hoạt động hai bốn trên bảy với chi phí ở phía người dùng gần bằng không, cộng với mã quét phủ tới người bán rất nhỏ. Xét thuần tuý về hạ tầng, đây là nền quyết toán phù hợp cho thương mại tác tử hơn phần lớn nước phát triển — một trường hợp lợi thế của người đi sau.
+
+Điểm yếu nằm ở chính đặc tính vừa nêu. Chuyển khoản tức thời là giao dịch **đẩy và chung thẩm**: tiền đi là đi, không có cơ chế đòi lại kiểu tranh chấp thẻ, không có bên trung gian đứng ra tạm giữ. Bài nêu "khả năng đảo ngược" như một trong các thách thức thích ứng của lớp ba, nhưng với một nền kinh tế dựa vào chuyển khoản tức thời thì đây không phải một thách thức trong số nhiều thách thức — nó là ràng buộc quyết định. Khi bên trả tiền là một cái máy có thể sai hàng nghìn lần trong vài giây, mà đường ray lại không có nút hoàn tác, thì toàn bộ gánh nặng an toàn dồn lên lớp uỷ quyền. Hạn mức cứng theo ngày, theo đối tác và theo giao dịch không phải là biện pháp bổ sung mà là biện pháp duy nhất.
+
+Một lợi thế thứ hai ít được nhắc: khái niệm "biết tác tử của bạn" đòi hỏi mỗi tác tử phải gắn được với một chủ thể pháp lý chịu trách nhiệm. Việt Nam đã có hệ thống định danh điện tử quốc gia phủ rộng và đã gắn với tài khoản ngân hàng. Đây chính là nguyên liệu mà phần lớn nước khác còn đang thiếu để xây sổ đăng ký tác tử. Việc đáng làm sớm, và rẻ, là quy định rằng mọi uỷ quyền chi tiêu cho phần mềm phải truy được về một danh tính đã định danh — làm trước khi khối lượng đủ lớn, đúng như bài khuyến nghị, vì sửa một kiến trúc đã đông cứng thì tốn kém hơn nhiều.

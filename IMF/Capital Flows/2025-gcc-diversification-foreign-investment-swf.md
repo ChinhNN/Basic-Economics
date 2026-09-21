@@ -328,3 +328,65 @@
 > "Exercising caution when interpreting headline FDI figures, as they may be disproportionately influenced by financial sector flows."
 
 > "SWFs account for over 80 percent of the GCC's total outward investment and around 50 percent of its domestic investment in our sample."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Con số "gấp ba lần" là con số dễ trích dẫn nhất và cũng là con số mong manh nhất
+
+Câu kết luận được đưa lên đầu — vốn vào có tác động gấp khoảng ba lần đầu tư trong nước — được rút ra từ **những hồi quy riêng biệt**, mỗi loại đầu tư một phương trình. Nhưng chính bài đã chạy thêm một phương trình đưa cả ba loại vào cùng lúc, và kết quả đó nằm trong một ô cảnh báo nhỏ: vốn vào tụt từ đỉnh 1,10 xuống **0,22 với một dấu sao**, trong khi đầu tư trong nước lên **0,31 với hai dấu sao**.
+
+Nói thẳng ra: **trong phép so sánh trực tiếp duy nhất mà bài thực hiện, thứ tự bị đảo ngược.** Đầu tư trong nước có hệ số lớn hơn và có ý nghĩa mạnh hơn vốn vào. Con số "gấp ba lần" tồn tại được chỉ vì hai hệ số không bao giờ được đặt cạnh nhau trong cùng một mô hình. Khi ba dòng vốn tương quan chặt với nhau — và ở GCC chúng chắc chắn tương quan, vì cùng đổ vào cùng những ngành trong cùng những năm — hồi quy riêng lẻ gán cho mỗi biến toàn bộ phần biến thiên chung.
+
+Đây là chỗ cần thận trọng nhất khi trích dẫn tài liệu này. Câu trích dẫn tiếng Anh về "three times larger impact" nên được hiểu là một phát biểu về tương quan trong mô hình đơn biến, không phải một xếp hạng hiệu quả vốn.
+
+### Không có chiến lược nhận dạng, và một mẫu sáu nước mà thực chất là hai
+
+Phép chiếu địa phương ở đây không kèm biến công cụ, không có cú sốc ngoại sinh, không có nhóm đối chứng. Bộ kiểm soát gồm trễ của biến phụ thuộc, trễ của biến đầu tư, thay đổi giá dầu và tăng trưởng toàn cầu, cùng hiệu ứng cố định nước × ngành và năm. Với thiết kế đó, hệ số đo được là **quan hệ có điều kiện**, không phải tác động nhân quả.
+
+Vấn đề nhân quả ngược ở đây không trừu tượng mà rất cụ thể: nhà đầu tư nước ngoài **chọn ngành đang tăng tốc**. Đó là công việc của họ. Quỹ tài sản quốc gia và nhà nước thì chọn ngành theo mục tiêu chính trị và chiến lược — NEOM, điện hạt nhân, siêu dự án — tức chọn những ngành **chưa tồn tại**, nên theo định nghĩa chưa có tăng trưởng để đo. Nếu cơ chế chỉ là như vậy thì khoảng cách giữa 1,10 và 0,45 không đo hiệu quả của vốn ngoại, nó đo **khả năng chọn ngành thắng của nhà đầu tư tư nhân quốc tế** so với khả năng chọn ngành của một bộ máy hoạch định.
+
+Điều đáng nói là bài hoàn toàn nhận thức được vấn đề này — nhưng chỉ nêu nó ở mục về độ phức tạp kinh tế, nơi kết quả không có ý nghĩa thống kê, và nêu như một lý do biện hộ cho việc không tìm thấy gì. Ở mục có kết quả đẹp thì vấn đề nội sinh không được nhắc lại.
+
+Thêm một điểm kỹ thuật đáng cân nhắc: biến giải thích là đầu tư chia cho **GDP danh nghĩa của chính ngành đó**, còn biến phụ thuộc là thay đổi log GDP thực của cùng ngành. Một ngành có GDP tạm thời thấp ở năm t sẽ vừa có tỷ lệ đầu tư cao vừa có tăng trưởng cao ở các năm sau chỉ vì hồi quy về trung bình. Trễ của biến phụ thuộc xử lý được một phần, không xử lý được hết.
+
+Quy mô mẫu cũng làm bảng hồi quy trông tự tin hơn mức thực tế cho phép. Sai số chuẩn được gom theo cụm nước × ngành. Điều này nghe hợp lý nhưng bỏ qua thực tế rằng **chiều quốc gia chỉ có sáu quan sát**, và cú sốc lớn nhất trong toàn bộ mẫu — giá dầu — giáng xuống cả sáu nước cùng lúc. Biến kiểm soát thay đổi giá dầu hấp thụ phần trung bình, nhưng không hấp thụ được việc mỗi nước phản ứng với giá dầu theo cường độ khác nhau.
+
+Thêm vào đó, cơ cấu mẫu cực kỳ lệch: UAE đóng góp 7.192 trong tổng số 13.992 thương vụ, tức hơn một nửa; UAE và Ả-rập Xê-út cộng lại chiếm 9.540 thương vụ và 2.389 trong tổng 3.037 tỷ đô la giá trị. Bahrain có 73,4 tỷ, Oman có 57,2 tỷ — mỗi nước chưa tới 2,5% giá trị mẫu. **Kết quả "GCC" trên thực tế là kết quả của UAE và Ả-rập Xê-út.** Và đây đúng là hai nước duy nhất có vốn ra tăng mạnh từ 2018, hai nước duy nhất có cải cách sở hữu nước ngoài sâu nhất. Tính khái quát của kết luận ra ngoài hai nước này chưa được kiểm chứng, và bài không chạy hồi quy loại từng nước để kiểm tra.
+
+### Hàm ý sắc nhất của bài là hàm ý về quỹ tài sản quốc gia, và nó không dễ nghe
+
+Đây là chỗ có giá trị nhất trong cả tài liệu, và nó nằm ẩn sau ba con số.
+
+Quỹ tài sản quốc gia chiếm **hơn 80% vốn ra**, vốn ra của GCC đạt khoảng **9,5% GDP năm 2023** và riêng UAE khoảng **22% GDP**. Đó là một dòng tiền khổng lồ. Kết quả thực nghiệm của bài về dòng tiền đó: hệ số vốn ra của quỹ là 0,02 / 0,04 / −0,02 / 0,00 / 0,03 / −0,08 qua sáu năm — **không một con số nào khác không một cách có ý nghĩa, và dấu còn đổi chiều**. Ở nhánh vốn ra công nghệ cao, nơi lập luận chuyển giao công nghệ đáng lẽ mạnh nhất, hệ số là khoảng 0,2% và vẫn không có ý nghĩa.
+
+Trong khi đó đầu tư **trong nước** của quỹ cho 0,41 và 0,51 ở năm thứ tư và thứ năm, đều có ý nghĩa, và là biến duy nhất trong nhóm đầu tư nội địa đạt được điều đó.
+
+Ghép hai kết quả lại thì bài đang nói một điều khá nặng mà nó không viết thành câu: **phần đầu tư ra nước ngoài của các quỹ vùng Vịnh, dù chiếm tuyệt đại đa số hoạt động của họ, không phải là một công cụ đa dạng hoá; nó là một quyết định tiết kiệm và quản lý danh mục.** Lập luận chính trị quen thuộc — mua cổ phần công nghệ ở nước ngoài để kéo công nghệ về nước — không tìm được điểm tựa nào trong số liệu của chính bài. Phần thực sự tạo ra tăng trưởng phi dầu khí là phần quỹ đầu tư **trong nước**, và phần đó chỉ chiếm khoảng một nửa đầu tư nội địa chứ không phải phần lớn hoạt động của quỹ.
+
+Đây là một hàm ý phân bổ nguồn lực rất cụ thể, và bài chọn kết ở câu an toàn là "quỹ là tác nhân then chốt trong chuyển đổi".
+
+### Bệnh Hà Lan không xuất hiện một lần nào, dù nó là nền của toàn bộ câu chuyện
+
+Vùng Vịnh là ca điển hình nhất thế giới của bệnh Hà Lan, nhưng khái niệm này không được nêu ra, và điều đó làm mờ một câu hỏi quan trọng: **cơ cấu vốn vào mới có thật là đa dạng hoá hay không?**
+
+Con số được nhấn mạnh là dịch vụ ngoài tài chính tăng từ khoảng 30% lên khoảng 70% vốn vào, với vận tải và viễn thông chiếm khoảng 75% giai đoạn 2020–2023, kèm theo khách sạn, y tế và dịch vụ chuyên môn. Phần lớn nhóm này là **phi thương mại quốc tế**. Đa dạng hoá theo nghĩa cân bằng cơ cấu sản lượng thì có; nhưng đa dạng hoá theo nghĩa tạo nguồn thu ngoại tệ thay thế dầu — mục tiêu thực sự của mọi chiến lược Tầm nhìn — thì chưa chắc. Dòng vốn chảy vào hàng phi thương mại khi thu nhập từ tài nguyên dồi dào chính là mô tả sách giáo khoa của bệnh Hà Lan, không phải liều thuốc chữa nó. Chủ đề này đã được trình bày trong tài liệu về bệnh Hà Lan ở mục Back to Basics, và nó là lăng kính mà bài này thiếu.
+
+Còn một trùng hợp thời gian đáng ngờ. Vốn vào đạt đỉnh khoảng 3,3% GDP vào 2019–2020, đúng giai đoạn xây dựng cho Expo 2020 Dubai và World Cup Qatar. Bài liệt kê hai sự kiện này trong nhóm "yếu tố kéo", rồi ở phần sau lại trình bày cùng thời kỳ đó như bằng chứng về một chuyển dịch cơ cấu sang dịch vụ. **Hai sự kiện thể thao và triển lãm tạo ra đúng loại đầu tư vận tải, logistics và khách sạn mà bài gọi là dịch chuyển cơ cấu.** Nếu vậy thì phần lớn "chuyển dịch" là một xung lực một lần, và việc vốn vào rơi về 1,8–2,3% GDP giai đoạn 2021–2023 phù hợp với cách đọc này hơn là với cách đọc về một xu hướng bền vững.
+
+### Trường hợp Lucid được kể như bằng chứng, nhưng nó là ví dụ chọn lọc
+
+Bài dùng Lucid Motors để giải thích vì sao chưa đo được tác động của đầu tư công nghệ cao: PIF bỏ 1 tỷ đô la năm 2018, nay nắm khoảng 60% cổ phần trị giá khoảng 8 tỷ đô la, nhà máy ô tô đầu tiên của Ả-rập Xê-út chạy từ tháng 9 năm 2023 với công suất 155.000 xe điện mỗi năm.
+
+Hai điều cần nói. Thứ nhất, phần "8 tỷ đô la" là **giá trị thị trường của một khoản đầu tư tài chính**, không phải giá trị gia tăng tạo ra trong nước, và hai thứ đó đang bị trình bày liền nhau như thể cùng loại. Thứ hai, đây là một ví dụ được chọn ra từ một danh mục mà bài không cho biết tỷ lệ thất bại. Chính bài nhắc tới SoftBank Vision Fund ở dòng trên như một khoản đầu tư khác của PIF, với giọng trung lập. Một lập luận "tác động chưa hiện ra trong số liệu" chỉ thuyết phục nếu kèm theo phân bố kết quả của cả danh mục, không phải một trường hợp thành công.
+
+Cũng nên ghi nhận rằng kết quả trung thực nhất của bài lại là một kết quả âm: **không có khác biệt có ý nghĩa giữa vốn vào công nghệ cao và công nghệ thấp.** Bài giải thích bằng hạn chế dữ liệu, và lời giải thích đó hợp lý. Nhưng cho tới khi có dữ liệu tốt hơn, bằng chứng tốt nhất hiện có không ủng hộ giả định rằng FDI công nghệ cao khác về chất so với FDI thông thường.
+
+### Điều Việt Nam nên lấy không phải mô hình quỹ mà là hai cảnh báo phương pháp
+
+Việt Nam không có quỹ tài sản quốc gia quy mô vùng Vịnh và cũng không có nguồn tô tài nguyên để lập một quỹ như vậy, nên phần về quỹ chủ yếu có giá trị tham khảo. Giá trị thực nằm ở ba chỗ khác.
+
+**Thứ nhất là cảnh báo về con số FDI tổng.** Bài cho thấy khi gộp ngành tài chính vào, tác động của vốn vào lên tăng trưởng giảm hơn một nửa, từ khoảng 1% xuống khoảng 0,45%. Nói cách khác, một phần đáng kể của con số FDI trên tiêu đề là dòng vốn tài chính có tác động thực thấp. Với Việt Nam, nơi FDI là trụ cột của xuất khẩu và là chỉ tiêu được công bố thường xuyên nhất, bài học là **con số vốn đăng ký hay vốn thực hiện tổng gộp gần như vô dụng để đánh giá tác động; phải tách theo ngành**.
+
+**Thứ hai là câu hỏi mà bài không giải được nhưng Việt Nam đang đối mặt hằng ngày.** Khoảng cách giữa hiệu quả của vốn ngoại và vốn trong nước ở GCC có thể là do vốn ngoại tốt hơn, hoặc do vốn ngoại chọn ngành tốt hơn. Đây chính xác là cuộc tranh luận về năng suất của khu vực FDI so với khu vực tư nhân trong nước ở Việt Nam, và tài liệu Việt Nam 2035 của Ngân hàng Thế giới đặt đúng câu hỏi đó khi nói về khu vực tư nhân nội địa yếu bên cạnh một khu vực FDI mạnh. Bài này cho thấy rằng với dữ liệu quan sát thông thường, **câu hỏi đó không có lời đáp** — và vì thế những kết luận chính sách kiểu "ưu tiên vốn ngoại vì hiệu quả gấp ba" không có cơ sở thực nghiệm vững.
+
+**Thứ ba là khuyến nghị duy nhất của bài mà bằng chứng ủng hộ trực tiếp:** tăng liên kết giữa đầu tư nước ngoài và sản xuất trong nước. Ở GCC nó là một câu chung chung; ở Việt Nam nó là ràng buộc cụ thể đã được đo nhiều lần qua tỷ lệ nội địa hoá và tỷ trọng giá trị gia tăng trong nước của hàng xuất khẩu. Cộng thêm phát hiện rằng FDI công nghệ cao chưa chứng minh được ưu thế so với FDI thường, hàm ý cho chính sách thu hút bán dẫn và công nghệ cao là: **ưu đãi nên gắn với liên kết nội địa đo được, không gắn với nhãn công nghệ của dự án.**

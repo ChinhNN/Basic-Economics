@@ -166,3 +166,67 @@
 > "Exchange rates, in other words, tend to reflect current account positions rather than drive them."
 
 > "Adjustment is never a one-country story. After all, one country's deficit is another's surplus."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Bài mở đầu bằng đề xuất của Keynes rồi không bao giờ nói đề xuất đó là gì — mà nó chính là lời giải cho vấn đề bài nêu ra
+
+Bài mở bằng việc Keynes gọi mất cân bằng dai dẳng là "vấn đề quốc tế trường kỳ", và nêu rằng ông đã cố giải quyết tại Bretton Woods năm 1944 bằng một trung tâm thanh toán bù trừ quốc tế, nhưng thỏa thuận cuối cùng chỉ có bộ giải pháp yếu hơn. Rồi bài đi tiếp và không bao giờ quay lại.
+
+Đây là một sự bỏ lửng đáng tiếc, vì nội dung cốt lõi của đề xuất đó chính là câu trả lời cho vấn đề nghiêm trọng nhất mà bài tự chẩn đoán.
+
+Kế hoạch của Keynes có một cơ chế gọn và cực kỳ táo bạo: mọi nước thanh toán với nhau qua một trung tâm chung bằng một đơn vị tính toán riêng, và **cả nước thâm hụt lẫn nước thặng dư đều bị áp phí nếu số dư của họ vượt quá một ngưỡng nhất định so với quy mô thương mại**. Nghĩa là tích lũy thặng dư quá lớn và quá lâu sẽ **tốn tiền**, y như việc vay nợ quá nhiều. Nước có thặng dư lớn vì thế có động cơ tài chính trực tiếp để hoặc tăng nhập khẩu, hoặc tăng đầu tư ra nước ngoài, hoặc cho phép đồng tiền lên giá.
+
+Đặt cơ chế đó cạnh chẩn đoán của chính bài — "thị trường tài chính trừng phạt nước thâm hụt dai dẳng nhưng nước thặng dư dai dẳng không gặp lực kỷ luật tương đương" — sẽ thấy nó khớp hoàn hảo. Keynes nhận ra vấn đề đối xứng này từ năm 1944 và thiết kế ra đúng cơ chế để sửa nó. Đề xuất bị bác bỏ vì lý do dễ hiểu: nước có tiếng nói quyết định tại hội nghị khi đó là nước đang có thặng dư lớn nhất thế giới và không muốn tự áp kỷ luật lên mình.
+
+Việc bài không kể phần này làm suy yếu chính khuyến nghị của nó. Bài kết bằng lời kêu gọi "hành động cả hai phía", nhưng không giải thích **điều gì sẽ khiến phía thặng dư hành động** khi họ không chịu bất kỳ chi phí nào từ việc không hành động. Câu trả lời lịch sử là: không có gì, trừ khi có một cơ chế thể chế tạo ra chi phí đó. Và cơ chế ấy đã được thiết kế, đã bị bác bỏ, và tám mươi năm sau vấn đề vẫn còn nguyên — đúng như câu kết của bài thừa nhận.
+
+### Mệnh đề về tỷ giá đúng trong đa số trường hợp nhưng trở thành lời bào chữa nếu đọc như một quy luật phổ quát
+
+Câu "tỷ giá phản ánh vị thế vãng lai chứ không phải nguyên nhân" là một trong những câu đáng nhớ nhất trong bài, và nó đúng trong hoàn cảnh mà phần lớn kinh tế học giả định: tỷ giá thả nổi, vốn tự do di chuyển, ngân hàng trung ương không can thiệp có hệ thống.
+
+Nhưng mệnh đề đó ngừng đúng khi điều kiện cuối bị vi phạm. Khi một ngân hàng trung ương mua ngoại tệ liên tục để ngăn đồng tiền lên giá, rồi trung hòa lượng nội tệ bơm ra bằng nghiệp vụ thị trường mở, tỷ giá không còn là biến số phản ánh mà trở thành **biến số được lựa chọn**. Và khi tỷ giá được giữ dưới mức cân bằng trong thời gian dài, nó góp phần tạo ra chính cái thặng dư mà bài nói nó chỉ phản ánh — bằng cách chuyển thu nhập từ hộ gia đình, những người mua hàng nhập khẩu, sang khu vực xuất khẩu, tức là từ nhóm tiêu dùng nhiều sang nhóm tiết kiệm nhiều.
+
+Cơ chế này gọn hơn nhiều so với cách bài trình bày: **tỷ giá thấp là một sắc thuế ngầm đánh vào tiêu dùng và một khoản trợ cấp ngầm cho sản xuất xuất khẩu**, và vì thế nó tác động trực tiếp lên cán cân tiết kiệm – đầu tư chứ không chỉ phản ánh nó.
+
+Nói như vậy không có nghĩa bài sai. Trong trung hạn và với các nền kinh tế lớn thả nổi, kết luận của bài đứng vững, và nó là liều thuốc giải cần thiết cho thói quen quy mọi mất cân bằng thương mại cho thao túng tiền tệ. Nhưng phát biểu nó ở dạng tuyệt đối, không kèm điều kiện, biến một nhận định đúng thành một lời miễn trách nhiệm cho đúng loại chính sách mà phần sau của bài lại phê phán khi nói về "thặng dư từ chính sách tăng cạnh tranh xuất khẩu".
+
+### Thâm hụt của Hoa Kỳ được giải thích thuần túy bằng nguyên nhân nội địa, bỏ qua vai trò đặc biệt của đồng tiền dự trữ
+
+Bài quy thâm hụt của Hoa Kỳ cho hai nguyên nhân trong nước: thâm hụt ngân sách lớn và tiêu dùng mạnh làm cạn tiết kiệm quốc gia. Cả hai đều đúng, nhưng chúng không phải toàn bộ câu chuyện, và phần thiếu lại là phần quan trọng nhất về mặt hệ thống.
+
+Thế giới cần một lượng lớn **tài sản an toàn định giá bằng đồng đô la**: dự trữ ngoại hối của các ngân hàng trung ương, tài sản bảo đảm trong giao dịch tài chính quốc tế, tài sản dự phòng của các quỹ đầu tư toàn cầu. Nguồn cung chính của loại tài sản đó là nợ chính phủ Hoa Kỳ. Nhưng để thế giới tích lũy được tài sản đô la, Hoa Kỳ phải **đưa đô la ra ngoài**, và cách chủ yếu để làm điều đó là nhập khẩu nhiều hơn xuất khẩu.
+
+Nói cách khác, thâm hụt của Hoa Kỳ một phần là **sản phẩm của cấu trúc hệ thống tiền tệ quốc tế**, không chỉ là kết quả của việc người Mỹ tiết kiệm ít. Đây là phiên bản hiện đại của một nghịch lý đã được nêu từ thập niên 1960: nước phát hành đồng tiền dự trữ phải liên tục cung ứng thanh khoản cho thế giới, nhưng làm vậy càng lâu thì vị thế đối ngoại của chính nó càng suy yếu, và đến một lúc nào đó niềm tin vào tài sản đó bị đặt câu hỏi.
+
+Hệ quả làm cho khuyến nghị của bài phức tạp hơn nhiều so với vẻ ngoài. Nếu Hoa Kỳ làm đúng điều bài khuyên — tăng tiết kiệm quốc gia, thu hẹp thâm hụt — thì nguồn cung tài sản an toàn toàn cầu co lại. Điều đó sẽ đẩy lợi suất thực toàn cầu xuống, làm tăng giá đồng đô la, và gây khó cho chính các nước đang cần tài sản dự trữ. Việc thu hẹp mất cân bằng không phải là một cải thiện đơn thuần; nó là một sự thay đổi có người thắng người thua, và bài không nêu ai sẽ thua.
+
+### Thặng dư của Trung Quốc được mô tả như hiện tượng chu kỳ, trong khi nguyên nhân là cấu trúc phân phối thu nhập
+
+Bài quy thặng dư gia tăng của nền kinh tế lớn thứ hai cho việc thị trường bất động sản sụp đổ làm đầu tư nội địa giảm, cộng với việc hộ gia đình cắt chi và tiết kiệm nhiều hơn.
+
+Cách mô tả này đúng về diễn biến gần đây nhưng khiến vấn đề trông như một hiện tượng chu kỳ sẽ tự hết khi thị trường bất động sản ổn định lại. Nguyên nhân sâu hơn nằm ở cấu trúc và đã tồn tại từ rất lâu trước cuộc khủng hoảng bất động sản: **tỷ trọng thu nhập hộ gia đình trong tổng thu nhập quốc dân ở mức rất thấp so với hầu hết các nền kinh tế**, và **mạng an sinh mỏng buộc hộ gia đình phải tự tiết kiệm phòng ngừa** cho y tế, giáo dục và tuổi già ở mức cao bất thường.
+
+Hai yếu tố này giải thích vì sao tiêu dùng hộ gia đình chiếm tỷ trọng thấp trong sản lượng một cách dai dẳng, chứ không chỉ trong vài năm gần đây. Và chúng làm cho khuyến nghị "tăng cầu nội địa" khó hơn rất nhiều so với âm hưởng trung tính của bài. Tăng cầu nội địa bền vững đòi hỏi **chuyển một phần thu nhập từ khu vực nhà nước và doanh nghiệp sang hộ gia đình** — qua tiền lương, qua cổ tức của doanh nghiệp nhà nước, qua mở rộng bảo hiểm y tế và hưu trí. Đó không phải một điều chỉnh vĩ mô mà là một cuộc tái phân phối, với người được và người mất cụ thể.
+
+Đây chính là lý do sâu xa vì sao lời kêu gọi tái cân bằng đã được lặp lại trong hơn mười lăm năm mà tiến độ chậm. Bài dùng cụm "cổ tức kép" để mô tả việc cải cách nội địa vừa tăng trưởng vừa giảm mất cân bằng — hoàn toàn chính xác về mặt kinh tế, nhưng cụm từ đó gợi ý rằng không ai phải trả giá. Trong thực tế luôn có người trả giá, và họ thường là những người có nhiều ảnh hưởng nhất đối với việc cải cách có diễn ra hay không.
+
+### Với Việt Nam: một nền kinh tế trẻ và thiếu vốn lại đang cho thế giới vay, và đó là điều cần giải thích
+
+Bài đưa ra một tiêu chuẩn rất rõ để phân biệt mất cân bằng lành mạnh với mất cân bằng đáng lo: dòng vốn chảy **từ nền kinh tế tiên tiến già hóa sang nền kinh tế đang phát triển trẻ và tăng trưởng nhanh** là phân bổ hiệu quả, còn chiều ngược lại thì cần đặt câu hỏi.
+
+Việt Nam nằm ở chiều ngược lại. Với dân số còn trẻ hơn mức trung bình thế giới, lượng vốn trên mỗi lao động còn thấp, hạ tầng còn thiếu và tỷ suất sinh lời của đầu tư về lý thuyết còn cao, Việt Nam lẽ ra phải là **nước nhập khẩu vốn**, tức là có thâm hụt tài khoản vãng lai. Thực tế Việt Nam duy trì thặng dư trong nhiều năm liên tiếp, và phần thặng dư đó phần lớn được tích lũy thành dự trữ ngoại hối — tức là được đem cho các chính phủ giàu vay với lợi suất thấp.
+
+Theo ngôn ngữ của bài, đây chính là trường hợp "thặng dư phản ánh cầu nội địa yếu, hệ thống tài chính kém phát triển, hay chính sách khuyến khích tiết kiệm, có thể cho thấy dùng nguồn lực kém hiệu quả". Ba nguyên nhân cụ thể đáng nêu:
+
+**Tiết kiệm phòng ngừa cao vì mạng an sinh chưa đủ.** Tỷ lệ chi tiền túi trong tổng chi y tế còn cao, độ phủ hưu trí còn hẹp so với lực lượng lao động, nên hộ gia đình phải tự lo cho rủi ro sức khỏe và tuổi già bằng tiết kiệm cá nhân. Đây là cùng một cơ chế đã phân tích ở trường hợp nền kinh tế lớn thứ hai thế giới, chỉ khác quy mô.
+
+**Hệ thống tài chính chưa chuyển được tiết kiệm dài hạn thành vốn dài hạn.** Phần lớn tiết kiệm nằm ở tiền gửi ngân hàng kỳ hạn ngắn, trong khi nhu cầu là vốn kỳ hạn mười đến hai mươi năm cho hạ tầng và cho doanh nghiệp. Khoảng trống này khiến tiền không tìm được đường tới dự án, và phần dư chảy ra ngoài.
+
+**Khả năng hấp thụ vốn đầu tư công hạn chế.** Giải ngân đầu tư công thấp hơn kế hoạch nhiều năm liền là một chỉ báo trực tiếp: nguồn lực có sẵn nhưng không biến thành công trình được, vì vướng thủ tục, giải phóng mặt bằng và năng lực triển khai.
+
+Cả ba đều là **méo mó trong nước**, đúng loại mà bài nói là nguyên nhân thật của mất cân bằng. Và điều đáng chú ý là việc sửa chúng thỏa mãn đúng định nghĩa "cổ tức kép": mở rộng bảo hiểm y tế và hưu trí vừa nâng phúc lợi, vừa giảm tiết kiệm phòng ngừa, vừa tăng tiêu dùng nội địa, vừa thu hẹp thặng dư. Bốn kết quả từ một cải cách.
+
+Còn một vế thực tiễn nữa. Bài nói nước thặng dư không chịu kỷ luật của thị trường. Điều đó đúng với thị trường tài chính, nhưng không đúng với **kỷ luật chính trị**. Một nước nhỏ có thặng dư lớn với một đối tác lớn sẽ bị soi xét về thuế quan, về chính sách tỷ giá và về quy tắc xuất xứ — và Việt Nam đã trực tiếp trải qua điều này. Khác biệt quan trọng là kỷ luật thị trường đến từ từ và có tín hiệu báo trước, còn kỷ luật chính trị đến đột ngột và không thương lượng được bằng công cụ kinh tế.
+
+Vì vậy kết luận thực tiễn giống với kết luận của bài nhưng đến từ một lý do cấp bách hơn: Việt Nam nên thu hẹp thặng dư **không phải để làm hài lòng đối tác thương mại, mà vì bản thân cái thặng dư đó là bằng chứng cho thấy nguồn lực trong nước đang bị sử dụng dưới mức tiềm năng**. Một nước đang cần vốn mà lại cho nước giàu vay với lãi suất thấp thì vấn đề nằm ở trong nhà mình.

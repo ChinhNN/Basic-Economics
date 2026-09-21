@@ -246,3 +246,71 @@
 > "It will be challenging to achieve sustainability while reaching the remote rural poor, especially those at the bottom of the income ladder."
 
 > "MFIs assume that their clients are clever enough to handle their own affairs, but do not assume that all the poor will be reliable borrowers."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Câu trả lời đúng nằm trong bài, ở một mệnh đề phụ, và bài không nhận ra
+
+Giữa phần mô tả bối cảnh có một câu gần như bị nuốt mất: "thực tế, các định chế tài chính vi mô quan trọng trong việc cung cấp **phương tiện tiết kiệm và dịch vụ giao dịch** không kém gì trong cho vay".
+
+Mười lăm năm tiếp theo cho thấy câu ấy đúng, và tiêu đề của bài thì không. Khi một loạt đánh giá tác động được thiết kế nghiêm ngặt — gán ngẫu nhiên quyền tiếp cận tín dụng vi mô rồi so sánh với nhóm đối chứng — được thực hiện ở nhiều nước rất khác nhau, từ Ấn Độ, Mông Cổ, Bosnia đến Maroc, Ethiopia và Mexico, kết quả hội tụ một cách đáng ngạc nhiên: tín dụng vi mô **không làm tăng thu nhập, tiêu dùng, sức khoẻ, việc học của trẻ em hay vị thế của phụ nữ** ở mức trung bình. Nó có làm tăng đầu tư kinh doanh nhỏ và mở rộng khả năng lựa chọn của hộ gia đình, và đó là lợi ích thật. Nhưng nó không phải công cụ xoá nghèo mà phong trào đã hứa hẹn.
+
+Trong khi đó, thứ hoá ra tạo ra tác động lớn và đo được lại là **thanh toán và tiết kiệm**: khả năng chuyển tiền rẻ và tức thì giữa các thành viên trong mạng lưới gia đình, và khả năng cất giữ một khoản tiền ở nơi an toàn khỏi tay người khác và khỏi chính mình. Cơ chế của nó không phải khởi nghiệp mà là **chia sẻ rủi ro**: khi một hộ gặp cú sốc, người thân ở xa có thể chuyển tiền ngay, và cú sốc không biến thành bán đất hay cho con nghỉ học.
+
+Bài xếp hai nhánh này theo đúng thứ tự ngược với tầm quan trọng của chúng, và đó không phải lỗi cá nhân — đó là thứ tự của cả phong trào vào năm 2007, sáu tháng sau giải Nobel. Điều đáng học không nằm ở việc bài đoán sai, mà ở chỗ **manh mối đúng đã có mặt trong chính văn bản và bị xếp vào chỗ phụ**, chỉ vì câu chuyện về người phụ nữ khởi nghiệp hấp dẫn hơn câu chuyện về một cái ví điện tử.
+
+### Tỷ lệ trả nợ 98% không phải một thước đo phúc lợi, và cả ngành đã dùng nó như thể nó là
+
+Con số được trích dẫn nhiều nhất trong bài là tỷ lệ trả nợ 98% của Grameen. Nó được đặt ngay sau câu chuyện thành công của Mufiya, trong một mạch ngầm rất rõ: người nghèo trả được nợ, vậy khoản vay đã có tác dụng.
+
+Hai mệnh đề ấy không liên quan đến nhau nhiều như vẻ ngoài. Tỷ lệ trả nợ đo **liệu tiền có quay về hay không**, chứ không đo liệu người vay có khá hơn hay không. Một người vay trả đủ nợ bằng cách cắt khẩu phần ăn, bán một con dê, rút con khỏi trường, hoặc vay chỗ khác để trả chỗ này, sẽ xuất hiện trong thống kê như một trường hợp thành công hoàn hảo.
+
+Cơ chế cho vay theo nhóm làm khoảng cách này rộng thêm chứ không hẹp lại. Chính bài mô tả rằng Grameen "dựa chủ yếu vào **áp lực đồng đẳng** để bảo đảm việc trả nợ", và rằng bốn người khác phải chịu trách nhiệm cho khoản vay của nhau. Điều đó có nghĩa là khi việc kinh doanh thất bại, người vay vẫn chịu sức ép rất lớn phải trả — không phải từ ngân hàng mà từ bốn người hàng xóm sẽ mất quyền vay nếu cô không trả. Tỷ lệ 98% vì vậy đo **cường độ của ràng buộc xã hội** ít nhất ngang với đo lợi nhuận của nghề đan tre.
+
+Đây là lý do vì sao ngành có thể duy trì tỷ lệ trả nợ gần như hoàn hảo trong ba thập kỷ mà vẫn không tạo ra tác động thu nhập đo được — hai chỉ số này hoàn toàn tương thích với nhau. Và đây cũng là bài học chung quan trọng nhất của bài đối với mọi chương trình phát triển: **chỉ số vận hành mà tổ chức thu thập được dễ nhất thường không phải chỉ số đo được điều tổ chức muốn đạt**.
+
+Câu chuyện mở đầu cũng cần được đọc với cùng thái độ. Ta nghe về Mufiya vì cô đã trả hết nợ và làm ăn được. Ta không nghe về người thứ năm trong nhóm của cô. Đây không phải sự thiếu trung thực mà là một đặc tính cố hữu của việc kể chuyện: những trường hợp đủ hấp dẫn để mở đầu một bài báo luôn được chọn từ đầu bên phải của phân phối kết quả.
+
+### Lãi suất 20–35% thực nói ra bản chất thật của sản phẩm, và nó không phải thứ được quảng cáo
+
+Bài nêu con số và bênh vực nó bằng lập luận chi phí: chi phí sàng lọc và thu nợ những khoản vay rất nhỏ ở những nơi rất xa là thật, không phải trục lợi. Đúng. Nhưng lập luận chi phí chỉ giải thích **giá**, nó không trả lời câu hỏi quan trọng hơn: ở mức giá đó, sản phẩm này hợp lý cho ai?
+
+Hãy làm phép tính đơn giản mà bài không làm. Nếu lãi suất thực là 30%, thì một khoản vay dùng để đầu tư chỉ làm người vay khá hơn khi việc kinh doanh sinh lời thực **trên 30% một năm, đều đặn, sau khi trả công lao động của chính người vay**. Rất ít doanh nghiệp ở bất kỳ đâu trên thế giới đạt mức đó một cách bền vững. Nghĩa là xét thuần tuý như tài trợ đầu tư, tín dụng vi mô chỉ phù hợp với một nhóm rất hẹp — và điều này khớp hoàn hảo với kết quả thực nghiệm rằng tác động trung bình bằng không trong khi một thiểu số người vay thì thực sự bứt lên.
+
+Nhưng có một cách dùng khác mà mức 30% hoàn toàn hợp lý: **thanh khoản khẩn cấp**. Một khoản vay để trả viện phí, để mua thuốc, để đóng học phí đúng hạn, để cầm cự qua một tháng mất mùa — các khoản ấy đáng giá 30% một năm, vì cái giá của việc không vay được là bán mất tài sản sản xuất hoặc mất một năm học của con. Và dữ liệu về mục đích sử dụng thực tế cho thấy phần lớn tín dụng vi mô đi vào đúng nhóm này chứ không vào nhóm khởi nghiệp.
+
+Kết luận là sản phẩm được **định giá và tiếp thị như tài chính doanh nghiệp nhưng vận hành như bảo hiểm khẩn cấp**. Sự lệch pha ấy giải thích cùng lúc cả ba hiện tượng khó hiểu: vì sao tỷ lệ trả nợ cao, vì sao tác động thu nhập bằng không, và vì sao người vay vẫn quay lại vay tiếp và nói rằng họ hài lòng. Khoản vay có giá trị thật, chỉ là giá trị khác với giá trị được ghi trên nhãn.
+
+### Câu hỏi "có nên bền vững không" đã được trả lời, bằng một cuộc khủng hoảng
+
+Bài đặt câu hỏi thứ hai rất đúng và rất sớm: nếu tài chính vi mô trở nên chủ yếu thương mại, trọng tâm có thể chuyển từ người nghèo nhất sang khách hàng khá giả hơn, và "lợi ích đặc biệt cho người nghèo nhất có thể mất đi trong cuộc tìm kiếm bền vững thương mại".
+
+Câu trả lời đến ba năm sau, ở Andhra Pradesh, và nó xấu hơn kịch bản mà bài hình dung. Vấn đề không phải người nghèo nhất bị bỏ rơi, mà là **họ bị phục vụ quá nhiều**. Khi nhiều tổ chức thương mại cùng mở rộng nhanh trong một khu vực, cán bộ tín dụng được trả theo doanh số giải ngân, và không có hệ thống nào ghi nhận tổng dư nợ của một hộ, thì cùng một người vay có thể vay từ năm tổ chức cùng lúc — mỗi khoản đều nhỏ và có vẻ hợp lý, tổng thì không trả nổi. Tiếp theo là thu hồi nợ cưỡng ép, một loạt bi kịch cá nhân, một mệnh lệnh hành chính của chính quyền bang, và sự sụp đổ của việc trả nợ trên toàn bang.
+
+Điều này bác bỏ trực tiếp một mệnh đề khác của bài, được nêu như một điều hiển nhiên: "có một **đồng thuận rộng rằng tăng cạnh tranh là chìa khoá** để kéo lãi suất xuống". Cạnh tranh hạ giá khi người mua so sánh được và chuyển đổi được. Ở thị trường này, cạnh tranh trước hết làm tăng **số lượng** tín dụng bán ra, vì ràng buộc thực sự không phải là giá mà là thông tin về tổng nợ của người vay — thông tin mà không người cho vay nào có và không ai có động cơ chia sẻ.
+
+Đáng chú ý là bài có nhắc tới lời giải, cũng trong một mệnh đề phụ: "ở các nước như Bolivia, các **văn phòng tín dụng** đã được lập để thực thi việc trả nợ". Đó mới là thể chế then chốt, và nó cần đứng trước cạnh tranh chứ không phải đi sau. Một thị trường tín dụng vi mô cạnh tranh mà không có hệ thống thông tin tín dụng bao phủ là một thị trường được thiết kế để tạo ra khủng hoảng nợ quá mức.
+
+### Điều bài dự đoán đúng nhất lại là đoạn nó coi là phụ lục
+
+Phần cuối, về số hoá, là phần có giá trị tiên đoán cao nhất trong cả bài, và nó được viết với giọng của một mục tin công nghệ thú vị.
+
+"Ngân hàng không chi nhánh" dùng điện thoại di động và mạng lưới đại lý là cửa hàng tạp hoá địa phương — mô hình này đã trở thành hình thức chủ đạo của tài chính cho người thu nhập thấp trên toàn thế giới, và ở một số nước nó đã làm được điều mà tín dụng vi mô không làm được: giảm nghèo một cách đo được. Cơ chế, như đã nói ở trên, là thanh toán và chia sẻ rủi ro chứ không phải tín dụng. Bài thậm chí nêu đúng lý do: dịch vụ chuyển tiền "đặc biệt quan trọng ở các vùng mà gia đình dựa vào kiều hối từ người thân làm việc ở các trung tâm kinh tế hoặc nước ngoài".
+
+Còn thị trường cho vay ngang hàng trực tuyến, được bài giới thiệu như "đổi mới mới nhất", lại đi theo hướng khác hẳn: nó tồn tại và có ích, nhưng ở quy mô của một hoạt động từ thiện có cấu trúc chứ không phải một kênh vốn. Lý do là nó không giải được bài toán chi phí thật — chi phí không nằm ở việc tìm người có tiền mà ở việc **thẩm định và thu nợ tại chỗ**, và phần đó vẫn phải do một tổ chức địa phương làm với đúng chi phí như cũ.
+
+Đây là một phân biệt đáng mang theo khi đánh giá mọi đổi mới tài chính công nghệ: công nghệ hạ được chi phí **giao dịch** gần về không, nhưng không tự động hạ được chi phí **thông tin**. Những mô hình thành công lớn là những mô hình tấn công vào loại chi phí thứ nhất.
+
+### Với Việt Nam: một hệ thống tín dụng vi mô nhà nước quy mô rất lớn, và câu hỏi bài đặt ra vẫn chưa được trả lời
+
+Việt Nam là một trong những nước vận hành chương trình tín dụng vi mô do nhà nước dẫn dắt lớn nhất thế giới, với mạng lưới cho vay chính sách phủ tới cấp xã, giải ngân qua các tổ chức chính trị – xã hội, đặc biệt là hội phụ nữ, theo mô hình tổ vay vốn — tức gần như đúng mô hình cho vay theo nhóm mà bài mô tả, nhưng ở lãi suất **được trợ cấp** thay vì lãi suất bù đắp chi phí.
+
+Cấu hình này rơi thẳng vào câu hỏi thứ hai của bài, và rơi vào cả hai vế của nó. Vế thuận: lãi suất ưu đãi tránh được cái bẫy 30% đã phân tích ở trên, và độ phủ tới vùng sâu vùng xa là thứ không một tổ chức thương mại nào đạt được, đúng như bài dự đoán. Vế nghịch: chính bài cảnh báo rằng "các định chế tài chính vi mô được trợ cấp nặng có thể đang **chèn lấn** các định chế tài chính vi mô bền vững". Ở Việt Nam, các tổ chức tài chính vi mô được cấp phép hoạt động theo nguyên tắc thị trường vẫn ở quy mô rất nhỏ so với kênh chính sách, và một phần lý do nằm ở chỗ không ai cạnh tranh được với lãi suất được trợ cấp.
+
+Ba hệ quả thực tiễn rút ra từ bài, áp cho trường hợp này.
+
+Thứ nhất, **chỉ số đánh giá**. Nếu hệ thống tự đo mình bằng dư nợ giải ngân, số lượt hộ vay và tỷ lệ thu hồi nợ, thì nó đang dùng đúng bộ chỉ số mà phần trên đã chỉ ra là không đo được phúc lợi. Câu hỏi đáng đặt ra là có bao nhiêu hộ **thoát nghèo và không tái nghèo sau năm năm**, và tỷ lệ đó so với nhóm hộ tương tự không được vay là bao nhiêu — một so sánh chỉ thực hiện được nếu việc mở rộng chương trình được thiết kế theo lộ trình so le ngay từ đầu.
+
+Thứ hai, **bài học Andhra Pradesh áp dụng cho tín dụng đen**. Nhân vật cho vay nặng lãi với lãi suất 150% ở đoạn mở đầu của bài chính là thứ mà Việt Nam gọi là tín dụng đen, và nó vẫn tồn tại song song với một hệ thống tín dụng chính sách rất rộng. Điều đó nói rằng nhu cầu chưa được đáp ứng không nằm ở **vốn sản xuất** — thứ kênh chính sách cung cấp khá tốt — mà ở **thanh khoản khẩn cấp, nhanh, không cần bình xét, không cần chứng minh mục đích**. Đó là một sản phẩm khác, và nó chưa có ai cung cấp một cách hợp pháp.
+
+Thứ ba, **hướng đi mà bài đặt ở phụ lục là hướng đi đúng**. Bước nhảy lớn nhất về tiếp cận tài chính của hộ gia đình Việt Nam trong thập kỷ qua đến từ thanh toán số, ví điện tử và tài khoản ngân hàng mở từ xa — chứ không từ tín dụng. Đọc cùng các tài liệu về kiều hối trong cùng loạt Back to Basics và các tài liệu về công nghệ tài chính trong repo, kết luận nhất quán: với người thu nhập thấp, **hạ chi phí di chuyển tiền có tác động chắc chắn hơn nhiều so với hạ chi phí vay tiền**.

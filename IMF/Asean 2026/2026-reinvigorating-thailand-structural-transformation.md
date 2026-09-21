@@ -342,3 +342,59 @@ Hai điểm yếu này ghép lại cho một chẩn đoán rõ: Việt Nam giỏ
 > "While Vietnam experienced productivity gains from sectoral labor reallocation, its TFP growth has been negative over the last two decades with large dispersion of productivity across firms and resource misallocation."
 
 > "Persistent skill mismatches constrain productivity gains and underscore the need for better vocational training and upskilling of labor."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Bài học phương pháp đáng giá hơn cả kết luận của chính chương
+
+Phát hiện rằng chia 3 ngành và chia 4 ngành cho hai chẩn đoán trái ngược nhau về cùng một nền kinh tế là thứ có giá trị lâu dài nhất trong tài liệu này — và nó không phải là kết luận mà chương muốn nhấn mạnh.
+
+Với 3 ngành, Thái Lan trông ngang Malaysia. Với 4 ngành, Thái Lan rơi xuống dưới Philippines và Indonesia. Cùng một dữ liệu, cùng một công thức, chỉ khác ở chỗ khu vực dịch vụ được coi là một khối hay được tách làm hai. Sự khác biệt lớn đến mức nó thay đổi hẳn câu trả lời cho câu hỏi "nước này có vấn đề không".
+
+Nguyên nhân rất dễ hiểu một khi được chỉ ra: khi gộp dịch vụ thành một khối, phần dịch vụ năng suất cao "kéo" cho phần năng suất thấp và sự mất cân đối bên trong biến mất khỏi số liệu.
+
+Hệ quả thực tiễn: **mọi thống kê chuyển dịch cơ cấu dựa trên ba khu vực kinh tế cổ điển đều có khả năng che giấu vấn đề ở những nước có khu vực dịch vụ phân hóa mạnh** — một nhóm dịch vụ hiện đại nhỏ và một nhóm dịch vụ truyền thống lớn. Đây chính là cấu trúc của Việt Nam. Con số "tỷ trọng dịch vụ trong GDP đã đạt bao nhiêu phần trăm" vì thế gần như vô nghĩa nếu không tách được hai nhóm này.
+
+### Hai kết quả "không có ý nghĩa thống kê" quan trọng hơn tất cả các kết quả có ý nghĩa
+
+Chương dành phần lớn dung lượng cho các biến có hệ số dương và có ý nghĩa. Nhưng hai kết quả bằng không mới là thứ đi ngược lại chính sách phổ biến trong khu vực.
+
+**Tỷ lệ nhập học đại học không có tác động lên chuyển dịch cơ cấu** (hệ số 0,0007, không có ý nghĩa), trong khi tỷ lệ nhập học tiểu học và trung học thì có (0,012, mức ý nghĩa 1%). Diễn giải hợp lý: ở giai đoạn chuyển người từ nông nghiệp sang công nghiệp và dịch vụ, thứ cần là một **nền phổ thông rộng** cho phép hàng triệu người đủ khả năng chuyển việc, chứ không phải đỉnh tháp đại học cho một nhóm nhỏ. Mở rộng đại học khi nền phổ thông còn yếu tạo ra bằng cấp mà không tạo ra dịch chuyển — và có thể còn tạo ra chính cái mà chương gọi là "tầng lớp có bằng cấp vượt quá lựa chọn việc làm".
+
+**FDI trên GDP không có tác động** (hệ số 0,005, không có ý nghĩa). Đây là kết quả gây bối rối nhất và chương hoàn toàn không bình luận. Nó thách thức trực tiếp chiến lược phát triển dựa vào thu hút FDI mà gần như mọi nước ASEAN đang theo đuổi.
+
+Cách hòa giải khả dĩ — và nó đáng được kiểm chứng — là FDI chỉ giúp chuyển dịch cơ cấu khi nó đi vào đúng ngành và kết nối được với kinh tế trong nước; còn FDI vào các khu chế xuất tách biệt, nhập nguyên liệu và xuất thành phẩm mà không mua gì trong nước, thì làm tăng kim ngạch mà không di chuyển lao động giữa các ngành. Nếu đúng vậy thì biến "FDI trên GDP" đơn thuần là một thước đo quá thô, và kết quả bằng không ở đây không phải là "FDI vô dụng" mà là "tổng FDI không nói lên điều gì". Đây cũng chính là lập luận của nghiên cứu về ASEAN trong thế giới phân mảnh trong cùng thư mục, vốn phải dùng dữ liệu FDI cấp doanh nghiệp theo ngành mới thấy được tín hiệu.
+
+### Vấn đề dự báo vượt thực tế: chẩn đoán đúng, nhân quả sai
+
+Khoảng cách giữa giá trị dự báo đang tăng và giá trị thực tế đi ngang từ giữa thập niên 2010 không chỉ là một chi tiết kỹ thuật — nó làm mất hiệu lực phần quan trọng nhất của chương.
+
+Lập luận chính của chương là: Thái Lan chậm lại vì tín dụng, giáo dục, dân số, thương mại và quản trị đều xấu đi. Nhưng nếu mô hình dựa trên đúng những biến đó lại **dự báo Thái Lan phải tiếp tục tiến lên**, thì theo chính logic của mô hình, các biến đó không thể là nguyên nhân của sự chững lại. Nguyên nhân nằm ở phần dư — ở những thứ mô hình không đo được.
+
+Điều này không làm hỏng toàn bộ tài liệu. Phần **chẩn đoán mô tả** vẫn đứng vững: Thái Lan có quá nhiều lao động ở nông nghiệp và dịch vụ năng suất thấp, và điều đó không cải thiện từ giữa thập niên 2010. Phần **giải thích nguyên nhân** thì không. Và phần khuyến nghị chính sách, vốn xây trên phần giải thích, cần được đọc như "những việc nên làm nói chung" chứ không phải "những việc sẽ khắc phục đúng vấn đề này".
+
+Điều mô hình có thể đang bỏ sót cũng đáng đoán: bất ổn chính trị kéo dài của Thái Lan từ giữa thập niên 2010. Đáng chú ý là chương có nhắc tới yếu tố này — nhưng nhắc khi nói về Thái Lan trong phần so sánh khu vực, không đưa vào mô hình.
+
+### Chẩn đoán cho Việt Nam mà chương không viết ra thành lời
+
+Việt Nam xuất hiện ba lần trong chương, và ba lần đó ghép lại cho một kết luận sắc hơn bất cứ điều gì chương nói về Thái Lan:
+
+- Việt Nam có **mức cải thiện chuyển dịch lao động ngoạn mục nhất** trong toàn mẫu 51 nền kinh tế.
+- Nhưng **năng suất nhân tố tổng hợp âm suốt hai thập niên**, với chênh lệch năng suất giữa các doanh nghiệp rất lớn và nguồn lực bị phân bổ sai.
+- Và **lệch pha kỹ năng dai dẳng đang kìm hãm tăng năng suất**.
+
+Ghép lại: **Việt Nam rất giỏi ở việc di chuyển người giữa các ngành, nhưng chưa giỏi ở việc nâng năng suất của người đã di chuyển.**
+
+Đây là một chẩn đoán có tính thời hạn. Nguồn tăng trưởng thứ nhất — chuyển người từ nông nghiệp sang nơi khác — sẽ cạn dần một cách cơ học khi tỷ trọng lao động nông nghiệp giảm xuống. Nguồn thứ hai — nâng năng suất nội bộ từng ngành — thì chưa được khởi động. Khoảng thời gian giữa lúc nguồn thứ nhất cạn và lúc nguồn thứ hai bắt đầu chính là khoảng thời gian mà một nước mắc kẹt ở thu nhập trung bình.
+
+Đó cũng chính xác là cơ chế đã đưa Thái Lan tới vị trí hiện nay. Vì vậy chương này, tuy mang tên Thái Lan, có giá trị tham khảo trực tiếp và cấp bách hơn cho Việt Nam — vì Việt Nam vẫn còn đang ở đoạn trước của cùng một đường cong.
+
+### Mức độ tin cậy của các con số
+
+Hai lý do cần thận trọng khi trích dẫn các hệ số cụ thể.
+
+Thứ nhất, hai bảng hồi quy với hai biến phụ thuộc khác nhau báo cáo hệ số xác định giống hệt nhau đến ba chữ số thập phân ở cả sáu đặc tả. Điều này gần như chắc chắn là lỗi sao chép, nhưng nó đặt câu hỏi về mức độ rà soát của toàn bộ phần thực nghiệm.
+
+Thứ hai, thiết kế là hồi quy bảng xuyên quốc gia với hiệu ứng cố định — nó cho biết **tương quan có điều kiện**, không cho biết quan hệ nhân quả. Không có biến công cụ, không có thiết kế chuẩn thực nghiệm. Với các biến như tham nhũng hay nhà nước pháp quyền, chiều nhân quả gần như chắc chắn chạy cả hai hướng: thể chế tốt giúp chuyển dịch cơ cấu, nhưng nền kinh tế hiện đại hơn cũng tạo ra nhu cầu và nguồn lực cho thể chế tốt hơn.
+
+Nên đọc các hệ số như bản đồ những yếu tố nào đi cùng với chuyển dịch cơ cấu thành công, chứ không như đơn thuốc với liều lượng cụ thể.

@@ -182,3 +182,67 @@
 > "Game theory presumes that players act rationally—that is, that they seek to maximize their own payoffs."
 
 > "As long as there are interactive decisions to be made, game theory will be applied to inform them."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Ý tưởng có sức nặng nhất trong bài lại được kể như một chuyện vui về vợ chồng
+
+Trò chơi vợ chồng được trình bày như một ví dụ nhẹ nhàng minh họa khái niệm "nhiều cân bằng". Nhưng khái niệm đó là thứ có giá trị lớn nhất trong toàn bài, và bài không rút ra hệ quả.
+
+Điểm mấu chốt: khi một trò chơi có nhiều hơn một cân bằng, **kết quả không được quyết định bởi sở thích hay bởi cấu trúc lợi ích**. Cả hai cân bằng đều ổn định, cả hai đều là kết quả hợp lý, và không có phép tính nào trong lý thuyết nói cho ta biết cái nào sẽ xảy ra. Thứ quyết định là những yếu tố nằm ngoài mô hình: ai hành động trước, có tín hiệu chung nào để mọi người cùng nhìn vào, và niềm tin của mỗi bên về điều bên kia sẽ làm.
+
+Đây chính là cấu trúc của một loạt hiện tượng kinh tế vĩ mô quan trọng nhất, và nhận ra điều đó sẽ nối bài này với gần như mọi bài khác trong thư mục.
+
+**Rút tiền ồ ạt** là một trò chơi hai cân bằng. Nếu mọi người tin ngân hàng an toàn thì không ai rút, ngân hàng không phải bán tài sản lỗ, và nó thực sự an toàn. Nếu mọi người tin nó sắp sụp thì ai cũng rút, nó buộc phải bán tháo, và nó thực sự sụp. Cả hai niềm tin đều **tự xác nhận**. Ngân hàng không thay đổi gì giữa hai kịch bản.
+
+Điều này giải thích chính xác vì sao **bảo hiểm tiền gửi** lại hiệu quả đến vậy dù quỹ bảo hiểm thường nhỏ hơn nhiều so với tổng tiền gửi. Nó không hoạt động bằng cách trả tiền; nó hoạt động bằng cách **xóa bỏ cân bằng xấu**. Khi người gửi biết mình được bảo đảm, lý do duy nhất để chạy — sợ người khác chạy trước — biến mất, và trò chơi chỉ còn một cân bằng.
+
+Cùng cấu trúc giải thích khủng hoảng nợ công tự ứng nghiệm: nếu thị trường tin một nước sẽ trả được, lãi suất thấp và nước đó trả được; nếu thị trường tin ngược lại, lãi suất tăng vọt và chính mức lãi đó làm nước đó mất khả năng trả. Và nó giải thích vì sao lời tuyên bố "sẽ làm bất cứ điều gì cần thiết" của một ngân hàng trung ương có thể chấm dứt một cuộc khủng hoảng mà không tốn một xu nào — nó không thay đổi số liệu tài khóa, nó chuyển thị trường từ cân bằng này sang cân bằng kia.
+
+Bài học tổng quát mà bài viết không nói: trong một lớp lớn các tình huống kinh tế, **không có gì để tối ưu hóa, chỉ có thứ cần phối hợp** — và phần lớn các thể chế tài chính tồn tại chính là để chọn ra cân bằng tốt.
+
+### "Lợi thế người đi trước" không phải một quy luật, và điều Schelling chứng minh còn hay hơn thế
+
+Bài kết luận phần trò chơi tuần tự bằng một câu khái quát: trong kiểu trò chơi này có lợi thế rõ ràng cho người đi trước. Phát biểu này quá rộng.
+
+Đi trước chỉ có lợi khi nước đi đó **không thể đảo ngược và được đối phương nhìn thấy**. Nếu người vợ chỉ nói rằng mình sẽ đi xem ba lê nhưng vẫn có thể đổi ý, lời tuyên bố không có giá trị chiến lược nào. Ngược lại, trong nhiều trò chơi khác — đặt giá trên thị trường, đấu thầu, chạy đua công nghệ — người đi sau có lợi thế vì họ quan sát được và phản ứng.
+
+Điều thú vị là bài đã trích dẫn đúng người đã làm rõ chuyện này, nhưng chỉ lấy một kết luận hẹp về răn đe hạt nhân. Đóng góp tổng quát của Schelling là về **cam kết đáng tin**, và nó chứa một nghịch lý đẹp: **sức mạnh chiến lược thường đến từ việc tự tước bỏ lựa chọn của chính mình**. Một vị tướng đốt cầu sau lưng quân mình sẽ mạnh hơn, không yếu đi, vì kẻ địch biết quân đó không thể rút lui. Một người đàm phán bị ràng buộc bởi quy định cứng của tổ chức mình có vị thế tốt hơn người có toàn quyền nhượng bộ.
+
+Nguyên lý này là nền móng của những thể chế kinh tế quan trọng nhất và hiếm khi được trình bày như vậy. **Ngân hàng trung ương độc lập** là một hành động tự trói tay: chính phủ từ bỏ quyền in tiền để lời cam kết chống lạm phát trở nên đáng tin. **Quy tắc tài khóa** và **cơ chế neo tỷ giá** hoạt động theo cùng logic. **Định hướng lãi suất tương lai** của ngân hàng trung ương chỉ có tác dụng đúng ở mức mà thị trường tin rằng nó sẽ không bị nuốt lời.
+
+Và điều đó cho một tiêu chí đánh giá rất thực tế: giá trị của bất kỳ cam kết chính sách nào không nằm ở nội dung tuyên bố mà ở **chi phí của việc phá vỡ nó**. Một cam kết không kèm cơ chế trừng phạt người phá vỡ là một lời nói, không phải một nước đi.
+
+### Giả định về tính hợp lý là chỗ yếu nhất, và bằng chứng lệch về phía đáng ngạc nhiên
+
+Bài phát biểu giả định trung tâm thẳng thắn: lý thuyết trò chơi giả định người chơi hành động hợp lý và tìm cách tối đa hóa lợi ích của chính mình. Không có bình luận nào về việc giả định đó đúng đến đâu.
+
+Điều đáng nói là hướng của sai lệch. Trong hàng nghìn thí nghiệm song đề tù nhân chơi **một lần duy nhất**, nơi lý thuyết dự đoán 0% hợp tác vì thú tội là chiến lược áp đảo, tỷ lệ người chọn im lặng thường nằm trong khoảng 20% đến 50%. Con người hợp tác nhiều hơn mức lý thuyết cho phép, chứ không ít hơn.
+
+Sai lệch thứ hai còn rõ hơn. Trong một trò chơi lặp lại **có số vòng xác định trước**, phép suy luận ngược cho kết quả dứt khoát: ở vòng cuối không còn tương lai để trừng phạt nên ai cũng phản bội; biết vậy thì vòng áp chót cũng phản bội; và cứ thế lùi về vòng đầu tiên. Lý thuyết nói hợp tác sụp đổ ngay từ nước đi đầu. Thực nghiệm cho thấy người ta hợp tác gần như suốt, chỉ phản bội ở vài vòng cuối.
+
+Điều này quan trọng vì bài dùng chính cơ chế lặp lại để giải thích **sự thông đồng giữa các doanh nghiệp**. Nhưng các-ten có thật tồn tại và duy trì được trong những thị trường mà ai cũng biết trò chơi sẽ kết thúc — một công ty sẽ bị thâu tóm, một bằng sáng chế sẽ hết hạn. Nếu chỉ dựa vào lý thuyết thì chúng không nên tồn tại.
+
+Hàm ý thực tiễn cho chính sách cạnh tranh: **không nên trông đợi rằng cấu trúc trò chơi tự nó sẽ phá vỡ sự thông đồng**. Thứ thực sự phá vỡ nó là những cơ chế được thiết kế có chủ đích — chính sách khoan hồng cho bên khai báo trước, tức một song đề tù nhân do cơ quan quản lý cố tình dựng lên giữa các thành viên các-ten.
+
+### Từ phân tích sang thiết kế, và các thuật toán đã học được cách thông đồng
+
+Bài kết thúc bằng một danh sách các ứng dụng đã được trao giải Nobel, tất cả đều thuộc loại **phân tích**: giải thích tại sao người chơi hành xử như vậy.
+
+Thay đổi lớn nhất của lĩnh vực này kể từ khi bài ra đời đi theo hướng ngược lại — **thiết kế**. Câu hỏi không còn là "người chơi sẽ làm gì trong trò chơi này" mà là "làm thế nào để dựng một trò chơi trong đó kết quả mong muốn chính là cân bằng". Giải Nobel kinh tế năm 2020 được trao cho lý thuyết đấu giá và cho việc thiết kế các hình thức đấu giá mới, và các cơ chế đó đã được dùng để phân bổ tần số viễn thông với giá trị hàng trăm tỷ đô la, phân bổ chỗ học, và ghép cặp hiến tạng.
+
+Đây là bước chuyển từ mô tả sang công nghệ, và nó có giá trị thực tiễn trực tiếp với những việc như đấu giá quyền sử dụng đất, đấu giá tần số, hay đấu thầu các dự án hạ tầng — nơi thiết kế luật chơi quyết định kết quả nhiều hơn năng lực của bên tham gia.
+
+Ứng dụng đương đại đáng lo ngại nhất cũng xuất hiện sau bài này. Các nghiên cứu cho thấy những **thuật toán định giá tự học**, khi cùng hoạt động trên một thị trường, có thể tự tìm ra và duy trì chiến lược duy trì giá cao — tức đạt đúng kết quả thông đồng trong song đề tù nhân lặp lại — mà **không hề trao đổi với nhau và không được lập trình để làm vậy**. Chúng học được rằng hạ giá sẽ bị đáp trả và dừng lại trước khi hạ.
+
+Điều này tạo ra một vấn đề pháp lý chưa có lời giải. Luật cạnh tranh được xây để chứng minh sự thỏa thuận giữa các bên. Ở đây không có thỏa thuận nào để chứng minh, chỉ có các cân bằng nảy sinh từ những cỗ máy tối đa hóa lợi nhuận hoạt động độc lập — đúng như lý thuyết dự đoán, và đúng như luật không xử lý được.
+
+### Với Việt Nam: hai trò chơi rất thật
+
+**Trò chơi thứ nhất: đàm phán thương mại của ASEAN.** Mười nước, mỗi nước đối diện với các đối tác lớn hơn nhiều lần. Nếu cả khối đàm phán như một, quy mô thị trường gộp lại tạo đòn bẩy đáng kể. Nhưng với mỗi nước riêng lẻ, việc đi trước ký một thỏa thuận song phương luôn hấp dẫn: giành được ưu đãi tiếp cận thị trường sớm hơn các nước láng giềng, trong đúng những ngành mà họ cạnh tranh nhau.
+
+Đây là một song đề tù nhân với nhiều người chơi, và kết cục dự đoán được: ai cũng chọn chiến lược áp đảo là thỏa thuận riêng, và cả khối nhận được điều kiện tệ hơn so với khi phối hợp. Bài cho biết lối thoát duy nhất là biến nó thành **trò chơi lặp lại có cơ chế thưởng phạt** — tức phải có ràng buộc thể chế thật, có chi phí thật cho nước phá rào, chứ không chỉ có tuyên bố chung. Các tài liệu trong thư mục Asean 2026 mô tả đúng thế yếu thương lượng này từ phía thực nghiệm.
+
+**Trò chơi thứ hai: khai giá trong giao dịch bất động sản.** Đây là một cấu trúc thú vị vì nó **không phải** song đề tù nhân mà là hình ảnh phản chiếu của nó. Người mua và người bán đều có lợi khi cùng ghi một mức giá thấp trên hợp đồng: bên bán giảm thuế thu nhập, bên mua giảm lệ phí trước bạ. Hai bên hợp tác hoàn hảo — và bên chịu thiệt là bên thứ ba không ngồi ở bàn, tức ngân sách nhà nước và toàn bộ hệ thống thông tin thị trường.
+
+Điều này cho thấy giới hạn của việc xử lý vấn đề bằng chế tài. Chừng nào lợi ích của việc khai thấp còn lớn hơn rủi ro bị phát hiện nhân với mức phạt, cân bằng sẽ không đổi, và tăng chế tài chỉ đẩy chi phí lên chứ không đổi chiều quyết định. Lời giải theo tinh thần thiết kế cơ chế là **thay đổi cấu trúc lợi ích** chứ không phải tăng hình phạt: chẳng hạn cho nhà nước quyền ưu tiên mua lại bất động sản đúng bằng mức giá đã khai. Khi đó khai thấp không còn miễn phí, và hai bên tự động có động cơ khai đúng — mà không cần bất kỳ hoạt động thanh tra nào.

@@ -142,3 +142,69 @@
 > "Universal basic income is an income support mechanism typically intended to reach all (or a very large portion of the population) with no (or minimal) conditions."
 
 > "Very different income-support programs are often labeled 'universal basic income,' even when they have little in common or do not aim at the same goal."
+
+## Đánh giá và phát hiện đáng chú ý
+
+*Lưu ý về phạm vi: bản PDF bị cắt giữa phần lập luận ủng hộ, nên phần phản biện về chi phí ngân sách và động lực làm việc không có trong tài liệu. Những nhận định dưới đây dựa trên phần lập luận có thật cộng với những gì đã diễn ra kể từ 2018.*
+
+### Biến số quyết định bị chôn ở vị trí đầu tiên của một danh sách năm mục
+
+Bài liệt kê năm đặc điểm then chốt phân biệt các chương trình kiểu thu nhập cơ bản phổ quát, rồi chọn hai đặc điểm — **tính phổ quát** và **tính vô điều kiện** — làm dấu hiệu nhận dạng.
+
+Hai đặc điểm đó là sai lựa chọn. Câu hỏi đầu tiên trong danh sách năm mục mới là câu quyết định: chương trình này **thay thế** hay **bổ sung** các chương trình bảo trợ xã hội hiện có.
+
+Hãy đối chiếu hai phiên bản mà chính bài nêu tên. Đề xuất thuế thu nhập âm của Friedman là một **gói cắt giảm**: nó xóa toàn bộ bộ máy phúc lợi và thay bằng một khoản chuyển tiền duy nhất đơn giản hơn, với mục đích tiết kiệm chi phí hành chính và loại bỏ sự can thiệp của nhà nước vào lựa chọn của cá nhân. Đề xuất của Van Parijs là một **gói mở rộng**: một khoản chuyển tiền hào phóng, đều đặn, chồng lên các chương trình đang có.
+
+Hai chương trình này giống nhau ở cả hai đặc điểm mà bài dùng để nhận dạng — cùng phổ quát, cùng vô điều kiện. Chúng đối lập nhau về quy mô nhà nước, về gánh nặng thuế, và về kết quả phân phối. Một người ủng hộ phiên bản này sẽ phản đối phiên bản kia quyết liệt hơn phản đối nguyên trạng.
+
+Đây chính là lý do cuộc tranh luận về thu nhập cơ bản phổ quát không bao giờ đi đến đâu: cùng một từ được dùng bởi hai liên minh chính trị đối nghịch để chỉ hai gói tài khóa trái ngược. Bài nhận ra hiện tượng — câu trích dẫn cuối bài nói đúng điều đó — nhưng lại chọn hai tiêu chí nhận dạng không tách được chúng.
+
+### Phép tính mà bài sắp làm, và kết luận nó dẫn tới
+
+Phần bị cắt của bài, theo tiêu đề phụ, bàn về chi phí ngân sách. Phép tính đó đơn giản và đáng làm vì kết quả của nó định hình lại toàn bộ vấn đề.
+
+Một khoản chuyển tiền thực sự phổ quát có chi phí gộp bằng đúng mức chi trả nhân với dân số. Nếu mức chi trả bằng một phần tư GDP bình quân đầu người — một mức khiêm tốn, chưa đủ sống ở hầu hết các nước — thì chi phí gộp bằng **một phần tư GDP**. Để so sánh: tổng thu ngân sách của phần lớn các nước đang phát triển nằm trong khoảng 15–25% GDP.
+
+Phản biện chuẩn là chi phí **ròng** thấp hơn nhiều, vì phần lớn khoản chi được thu lại từ những người không cần thông qua thuế. Điều đó đúng. Nhưng nó dẫn tới một kết luận mà những người ủng hộ hiếm khi nói ra: **nếu khoản chi được thu hồi lũy tiến qua hệ thống thuế thì kết quả cuối cùng chính là một chương trình có thẩm tra thu nhập** — chỉ khác ở chỗ việc thẩm tra được thực hiện ở khâu thu thuế thay vì ở khâu chi trả.
+
+Nói cách khác, mọi phiên bản thu nhập cơ bản phổ quát đủ rẻ để khả thi đều hội tụ về thuế thu nhập âm của Friedman. Tính phổ quát tồn tại ở khâu phân phối; tính chọn lọc tồn tại ở khâu hoàn trả.
+
+Đây không phải một phản bác mà là một sự làm rõ có giá trị thực tiễn lớn. Nó chuyển câu hỏi từ "có nên phổ quát không" sang câu hỏi đúng: **cơ chế thu hồi nên được đặt ở đâu, và bộ máy nào đủ năng lực vận hành nó**. Và nó giải thích vì sao những chương trình gần với tinh thần này thành công nhất trên thực tế đều chạy qua cơ quan thuế.
+
+### Bằng chứng lớn nhất không đến từ thí nghiệm nào, mà từ đại dịch
+
+Bài liệt kê ba thí nghiệm — Phần Lan, Kenya, California — và ghi nhận rằng chúng khác nhau đến mức không so sánh được.
+
+Kết quả đã có kể từ đó. Thí nghiệm Phần Lan cho thấy **tác động lên việc làm rất nhỏ**, không phải mức sụt giảm mà những người phản đối dự báo, trong khi các chỉ số về sức khỏe tinh thần, mức độ căng thẳng và niềm tin cải thiện rõ rệt và có ý nghĩa thống kê. Nghiên cứu dài hạn ở Kenya cho kết quả tương tự về cung lao động, và bổ sung một phát hiện thú vị về thiết kế: khoản chi trả **một lần với giá trị lớn** tạo ra nhiều hoạt động kinh doanh mới hơn so với cùng số tiền chia nhỏ hàng tháng.
+
+Nhưng bằng chứng có sức nặng nhất lại đến từ một sự kiện không ai thiết kế. Trong đại dịch, nhiều nước thực hiện chuyển tiền mặt quy mô rất lớn, gần như không điều kiện, trong thời gian ngắn — đây là thứ gần nhất với một thử nghiệm thu nhập cơ bản ở quy mô toàn quốc từng diễn ra.
+
+Kết quả ở Mỹ đặc biệt rõ vì có một chuỗi số liệu sạch. Khoản tín dụng thuế cho trẻ em được mở rộng và chi trả hàng tháng trong năm 2021 đã kéo **tỷ lệ nghèo trẻ em theo thước đo bổ sung từ mức hai chữ số xuống 5,2%** — mức thấp nhất từng ghi nhận. Chương trình hết hiệu lực cuối năm 2021, và ngay năm sau tỷ lệ này **vọt trở lại trên 12%**.
+
+Đây là một trong những minh chứng sạch nhất trong toàn bộ chính sách xã hội: nghèo trẻ em ở một nước giàu không phải một vấn đề cơ cấu cứng đầu mà là một **lựa chọn ngân sách**, có thể bật và tắt trong vòng một năm. Các nghiên cứu về tác động lên cung lao động của chương trình này cũng tìm thấy hiệu ứng nhỏ hoặc không có.
+
+### Lập luận về AI đã đổi bản chất, và biến thể ít được chú ý nhất của bài lại hợp với nó nhất
+
+Sức hút chính trị của thu nhập cơ bản phổ quát năm 2018 gắn với nỗi lo tự động hóa, và nỗi lo đó khi ấy còn trừu tượng. Nó đã trở nên rất cụ thể, nhưng theo một hướng khác với dự đoán.
+
+Dự đoán hồi đó là máy móc sẽ thay thế lao động chân tay và các công việc lặp lại. Điều đang diễn ra là các mô hình ngôn ngữ tác động mạnh nhất vào **công việc trí óc ở cấp đầu vào** — soạn thảo, tổng hợp, dịch thuật, lập trình cơ bản, hỗ trợ khách hàng. Tức đúng những bậc thang đầu tiên mà người trẻ vẫn dùng để bước vào thị trường lao động và tích lũy kỹ năng.
+
+Chi tiết này quan trọng vì nó vạch ra giới hạn của thu nhập cơ bản như một lời giải. Nếu vấn đề là thiếu thu nhập, chuyển tiền là câu trả lời đúng. Nhưng nếu vấn đề là **mất đi con đường tích lũy kỹ năng và vị thế xã hội**, thì tiền không giải quyết được — một người 24 tuổi không tìm được công việc đầu tiên không chỉ mất một khoản lương mà mất cả quỹ đạo nghề nghiệp mười năm sau đó.
+
+Điều đáng chú ý là biến thể mà bài nhắc đến ngắn nhất lại là biến thể được thiết kế đúng cho vấn đề này. **"Thu nhập tham gia" của Atkinson** gắn khoản chi trả với một dạng đóng góp xã hội được định nghĩa rất rộng — làm việc, học tập, chăm sóc trẻ em hoặc người già, hoạt động cộng đồng. Nó giữ được gần như toàn bộ ưu điểm về phạm vi bao phủ trong khi vẫn duy trì một mối liên hệ với hoạt động có ý nghĩa.
+
+Còn một khó khăn nữa mà bài không thể nêu: nếu AI làm lợi nhuận tập trung vào vốn và vào một số ít doanh nghiệp toàn cầu, thì **cơ sở thuế cần thiết để tài trợ cho bất kỳ khoản chuyển tiền phổ quát nào lại chính là cơ sở thuế dễ di chuyển và khó đánh nhất**. Đây là chỗ bài này nối thẳng với hai bài về thuế trong cùng thư mục, và là lý do cuộc tranh luận về thuế tối thiểu toàn cầu có liên quan trực tiếp tới cuộc tranh luận về thu nhập cơ bản.
+
+### Với Việt Nam: không phải thu nhập cơ bản, mà là phổ quát theo nhóm — và đồng hồ nhân khẩu đang chạy
+
+Thu nhập cơ bản phổ quát theo nghĩa chặt không phải một lựa chọn cho Việt Nam trong tương lai gần: phép tính ở trên cho thấy chi phí vượt xa dư địa ngân sách.
+
+Nhưng phần **chẩn đoán** của bài thì áp dụng rất sát. Bài liệt kê bốn lý do khiến các chương trình thẩm tra thu nhập không đến được đúng người: năng lực hành chính hạn chế, chi phí thông tin và hành chính cao, cơ chế nhắm mục tiêu hoạt động kém, và kỳ thị xã hội. Cả bốn đều hiện diện trong hệ thống xác định hộ nghèo và hộ cận nghèo của Việt Nam, nơi việc phân loại phụ thuộc vào đánh giá ở cấp thôn xã, được cập nhật không thường xuyên, và mang theo một nhãn xã hội mà không ít gia đình muốn tránh.
+
+Lối đi ở giữa, có bằng chứng ủng hộ mạnh nhất, là **tính phổ quát theo nhóm**: chuyển tiền vô điều kiện cho mọi người thuộc một nhóm dễ xác minh và có tương quan cao với nhu cầu — mọi người trên một độ tuổi, mọi trẻ dưới một độ tuổi, mọi người khuyết tật nặng. Thiết kế này giữ được ưu điểm của tính vô điều kiện (không kỳ thị, không sai sót loại trừ, chi phí hành chính thấp, không tạo vách đá phúc lợi) trong khi chi phí chỉ bằng một phần nhỏ so với phổ quát toàn dân, vì chỉ cần xác minh tuổi chứ không cần điều tra thu nhập.
+
+Việt Nam đã đi theo đúng hướng này với trợ cấp hưu trí xã hội cho người cao tuổi không có lương hưu, và việc **hạ ngưỡng tuổi hưởng từ 80 xuống 75** trong khung pháp lý mới là bước mở rộng đáng kể nhất trong nhiều năm.
+
+Vấn đề là quy mô của thách thức đang lớn nhanh hơn tốc độ mở rộng. Chỉ một phần nhỏ người cao tuổi Việt Nam có lương hưu, trong khi đây là một trong những nước có tốc độ già hóa dân số nhanh nhất thế giới — và đang già đi ở mức thu nhập thấp hơn nhiều so với các nước đi trước khi họ bước vào giai đoạn tương tự. Mô hình an sinh tuổi già truyền thống dựa vào con cháu đang yếu đi vì quy mô gia đình nhỏ lại và vì di cư lao động.
+
+Hàm ý: câu hỏi chính sách cấp bách với Việt Nam không phải "có nên có thu nhập cơ bản phổ quát không" mà là **"lương hưu xã hội nên mở rộng nhanh đến đâu, và tài trợ bằng nguồn nào"**. Bài này cung cấp đúng bộ khái niệm để trả lời — phổ quát hay thẩm tra, thay thế hay bổ sung, cá nhân hay hộ — nhưng câu hỏi thì cụ thể hơn nhiều so với cuộc tranh luận mà nó tường thuật.

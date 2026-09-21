@@ -459,3 +459,45 @@
 > "For high-spread countries, the probability of issuance declines even as refinancing needs increase, pointing toward more stringent supply constraints."
 
 > "Thirty-six percent of these issuances include special features such as guarantees, contingencies, or collateral."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Mệnh đề 2 đập thẳng vào chương trình nghị sự nợ phụ thuộc trạng thái mà chính IMF cổ vũ
+
+Đóng góp lý thuyết thật không phải chuyện phân phối tín dụng — điều đó đã có từ Stiglitz và Weiss năm 1981 — mà nằm ở chiều của công cụ: khi ràng buộc động cơ binding, hợp đồng tối ưu là **trả lãi cao hơn sau tín hiệu xấu**, r_L lớn hơn r_H.
+
+Đây là mệnh đề khó chịu hơn nhiều so với cách bài trình bày. Suốt hơn một thập kỷ, IMF và Ngân hàng Thế giới đã vận động cho nợ phụ thuộc trạng thái theo chiều **thuận**: chứng quyền gắn GDP, điều khoản thiên tai kiểu Grenada và Barbados, điều khoản chống chịu khí hậu — tất cả nhằm giảm nhẹ nghĩa vụ đúng lúc nước vay gặp khó. Mô hình của bài nói rằng với đúng nhóm nước cần nó nhất, **công cụ theo chiều thuận làm ràng buộc siết thêm chứ không nới ra**, vì nó chính là phần thưởng cho việc không nỗ lực. Từ đó là một sự phân đôi mà giới hoạch định chính sách chưa thừa nhận: **điều khoản giảm nhẹ chỉ dành cho nước còn dư địa tín nhiệm; nước đã mất dư địa chỉ mua được quyền tiếp cận bằng điều khoản trừng phạt chính mình.**
+
+Cái giá của điều khoản đó không nằm trong mô hình. Trái phiếu El Salvador tháng 4/2024 nâng coupon từ 0,25% lên 4,0% — gấp mười sáu lần — nếu không có thoả thuận IMF hoặc không được nâng hạng: nếu cải cách thất bại, nghĩa vụ trả nợ vọt lên đúng lúc năng lực trả nợ sụt xuống. Mô hình hai kỳ không nhìn thấy chi phí này vì không có kỳ thứ ba. Bài thừa nhận mô hình là tĩnh, nhưng mức độ nghiêm trọng bị nói nhẹ: **cơ chế mua được quyền tiếp cận hôm nay cũng chính là cơ chế nạp sẵn cuộc khủng hoảng ngày mai.**
+
+### Bằng chứng quyết định không phải đường cong chữ U ngược mà là một dòng bị chôn ở cuối
+
+Hình chữ U ngược, đỉnh quanh 200 điểm cơ bản và rơi dốc nhất quanh 600 điểm, sẽ là biểu đồ được trích nhiều nhất, nhưng nó chứng minh ít hơn vẻ ngoài. Đoạn đi lên từ 0 tới 200 điểm gần như chắc chắn là hiện tượng cầu: nước có chênh lệch gần bằng không thường là nước không cần vay ngoại tệ. Vì bài tự nhận không tách được cung khỏi cầu, đường cong này là hỗn hợp của hai chế độ chứ không phải một quan hệ hành vi.
+
+Bằng chứng thật sự sắc nằm ở câu khác: **ở nhóm chênh lệch cao, xác suất phát hành giảm ngay cả khi nợ ngắn hạn — tức nhu cầu tái tài trợ — tăng lên.** Đây mới là thứ không giải thích được bằng phía cầu: một chính phủ có nghĩa vụ đến hạn lớn hơn mà lại phát hành ít hơn thì chỉ có thể là vì không được phép. Một dòng duy nhất này làm được việc mà cả đường cong chữ U không làm được, và nó bị đặt ở cuối một mục phụ.
+
+Cùng hạng với nó là kết quả đảo dấu của tăng trưởng toàn cầu: nhóm chênh lệch cao phát hành khi kinh tế thế giới mạnh, nhóm chênh lệch thấp phát hành khi kinh tế thế giới yếu. Ý nghĩa thẳng thắn là **khả năng tiếp cận thị trường của nước rủi ro cao mang tính thuận chu kỳ hoàn toàn: họ chỉ vay được khi ít cần vay nhất.**
+
+Hai kết quả này cũng giải thích vì sao kết luận của tài liệu cùng thư mục về tách lượng khỏi giá — Chu kỳ Tài chính Toàn cầu giải thích 64% biến động chênh lệch nhưng chỉ 8% biến động dòng vốn — không hề vô hại. Quan hệ giữa chênh lệch và khả năng phát hành **phi tuyến với một vùng sụp đổ quanh 500–800 điểm cơ bản**, nên với một nước đang ở 400 điểm, cú sốc toàn cầu đẩy chênh lệch lên thêm 250 điểm không phải chuyện giá đắt thêm mà là chuyện cửa đóng lại. **Chu kỳ toàn cầu là hiện tượng của giá ở phần lớn mẫu, và trở thành hiện tượng của lượng ở đuôi.**
+
+### Hai kết quả về dự trữ ngoại hối mâu thuẫn nhau và bài không đối chiếu chúng
+
+Kết quả tổng thể là dự trữ nhiều hơn đi kèm phát hành ít hơn, được diễn giải rằng dự trữ được dùng thay cho tài trợ bên ngoài — kênh cầu thắng kênh cung. Nhưng ở mẫu con chênh lệch cao, dự trữ lại là **biến quan trọng nhất** và được mô tả như hình thức tự bảo hiểm, tức ngôn ngữ của phía cung. Hai cách đọc đòi hỏi hai dấu ngược nhau, và bài không cho biết dấu trong mẫu con đó là gì.
+
+Đây là chỗ cần dè dặt về phương pháp nói chung. Với 99 biến gốc tương quan cao với nhau, dấu của một biến đơn lẻ trên biểu đồ phụ thuộc từng phần là **đại lượng kém ổn định nhất** mà một mô hình rừng ngẫu nhiên có thể sinh ra — chính bài đã cảnh báo biểu đồ này không phải tác động biên trong hồi quy, rồi vẫn dùng nó để tuyên bố một kết quả đi ngược lý thuyết. Tương tự với ROC-AUC 0,84 so với 0,77 của logit: bốn trong năm biến quan trọng nhất đều đo quy mô và biến động của nghĩa vụ đang lưu hành, nên phần lớn năng lực dự báo có thể chỉ là **quán tính, ai đã phát hành thì lại phát hành**.
+
+### Tín dụng IMF lôi kéo còn nợ chính thức khác lấn át: một nghịch lý về thứ tự ưu tiên bị để trống
+
+Ở nhóm chênh lệch cao, nợ với chủ nợ chính thức làm giảm xác suất phát hành trong khi tín dụng IMF lại làm tăng; và trong bộ dữ liệu 84 đợt phát hành chênh lệch cao, xác suất có chương trình IMF đang hoạt động cao gấp khoảng năm lần toàn mẫu.
+
+Bài quy khác biệt này cho hiệu ứng tín hiệu, đúng nhưng chưa đủ. Nếu kênh lấn át hoạt động qua thứ tự ưu tiên trả nợ thì **IMF lẽ ra phải là chủ nợ lấn át mạnh nhất**, do nó đứng trên tất cả. Việc thị trường vẫn phản ứng tích cực với IMF có nghĩa là hiệu ứng tín hiệu phải **lớn hơn hiệu ứng ưu tiên** ở riêng trường hợp này, và ngược lại ở mọi chủ nợ chính thức khác — một mệnh đề mạnh về việc thị trường định giá chất lượng giám sát, mà bài không nói ra.
+
+Chi tiết sắc nhất là nợ chính thức **đã cam kết nhưng chưa giải ngân** cũng nằm trong nhóm biến quan trọng: nghĩa vụ chưa nằm trên bảng cân đối đã lấn át vốn tư nhân. Điểm này nối thẳng với tài liệu về thứ tự ưu tiên của chủ nợ và rủi ro quốc gia, và với tài liệu về hiểm hoạ của nợ chính phủ song phương.
+
+### Với Việt Nam: đang ở nhánh đi lên, và ba con số nói thẳng nên làm gì
+
+Việt Nam ở ngưỡng cận đầu tư với chênh lệch thấp hơn nhiều so với vùng 500 điểm, tức nằm ở **nhánh đi lên của đường cong chữ U** — vùng mà việc phát hành do nhu cầu tài trợ quyết định chứ không do nguồn cung vốn. Vị trí thuận lợi, nhưng cũng có nghĩa các bài học phải được đọc theo nhóm chênh lệch thấp, vì ba cặp biến quan trọng nhất **đảo dấu** giữa hai nhóm: nợ dài hạn đối ngoại có tác động dương ở nhóm thấp và âm ở nhóm cao, nên việc kéo dài kỳ hạn là tín hiệu uy tín với Việt Nam nhưng bị đọc là pha loãng nợ với một nước tiên phong đang ở 700 điểm. Đây là cảnh báo cụ thể về việc sao chép thực hành của nước khác mà không xét nhóm.
+
+Ba con số đáng đưa vào thực tiễn. Thứ nhất, tác động biên của pháp quyền mạnh nhất **giữa phân vị 15 và 40** rồi giảm dần — lợi suất của cải cách thể chế cao nhất đúng ở dải mà Việt Nam đang đứng. Thứ hai, dự báo cán cân tài khoá ba năm tới tạo một **bước nhảy quanh ngưỡng không**: thị trường phân biệt giữa dự báo thặng dư và dự báo thâm hụt mạnh hơn nhiều so với phân biệt giữa thâm hụt 2% và 4%, tức dấu quan trọng hơn độ lớn. Thứ ba, biến dự báo mạnh nhất trong cả mô hình là **lượng nghĩa vụ quốc tế đang lưu hành**: người đã có mặt trên thị trường thì dễ quay lại. Với một thị trường trái phiếu quốc tế còn mỏng như của Việt Nam, duy trì một đường cong chuẩn và phát hành đều đặn là **một quyền chọn mua quyền tiếp cận trong tương lai**, và quyền chọn đó mất giá nếu không được duy trì.
+
+Cuối cùng, hai biến quan trọng nhất ở nhóm chênh lệch cao là dự trữ ngoại hối và **chế độ tỷ giá**, với chế độ cứng nhắc bị đọc là dấu hiệu dễ tổn thương. Chế độ tỷ giá quản lý chặt của Việt Nam gần như không bị trừng phạt ở nhóm chênh lệch thấp, nhưng nó là một khoản nợ tiềm ẩn về mặt định giá, chỉ đáo hạn nếu Việt Nam rơi xuống nhóm rủi ro cao — đúng lúc không còn thời gian để sửa. Như tài liệu về lập kế hoạch vay nợ hằng năm nhấn mạnh: công việc phải làm xong trước khi cần đến nó.

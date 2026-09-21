@@ -752,3 +752,91 @@
 > "The problem is magnified in cases where a service provider prioritizes contractual deliverables over cybersecurity responsibilities."
 
 > "Traditional financial institutions were forced to adopt digital service models in a short time frame, often outpacing their ability to upgrade security defenses."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Bộ dữ liệu này đo mức độ công bố, không đo mức độ phơi nhiễm — và ba phát hiện đầu bài đều nằm đúng chỗ bị ảnh hưởng nặng nhất
+
+Bài nêu cảnh báo này một lần, ở dạng "thị trường mới nổi báo cáo ít hơn có thể là vấn đề báo cáo chứ không phải phơi nhiễm", rồi sau đó vẫn dùng phân bố địa lý, so sánh giữa loại định chế và xu hướng thời gian như thể chúng đo mối đe doạ thật.
+
+Độ lớn của vấn đề lớn hơn nhiều so với một câu cảnh báo. **Mỹ có 6.479 sự cố, trong khi nước đứng thứ hai chỉ khoảng 370** — chênh lệch mười bảy lần. Không có câu chuyện nào về phơi nhiễm tạo ra được tỷ lệ đó. Mỹ có nghĩa vụ thông báo rò rỉ dữ liệu theo luật ở cấp bang cùng quy định công bố sự cố trọng yếu của cơ quan chứng khoán, có một nền báo chí công nghệ dày đặc, và bản thân cơ sở dữ liệu CISSM là một dự án quét tin bằng tiếng Anh đặt tại một trường đại học Mỹ. Bài cũng tự nêu rằng có thể bỏ sót các sự cố chỉ được đưa tin bằng ngôn ngữ bản địa.
+
+Hệ quả là **mọi so sánh chéo giữa các nước trong bài trước hết là so sánh giữa các chế độ công bố thông tin**, và chỉ sau đó mới có thể là so sánh về rủi ro. Điều này không làm bài vô giá trị, nhưng nó xác định lại loại kết luận nào được phép rút ra: các so sánh **bên trong cùng một bộ dữ liệu, cùng một giai đoạn, cùng một cách thu thập** thì đáng tin; các so sánh giữa các nước hoặc giữa các nhóm có nghĩa vụ công bố khác nhau thì không.
+
+### Con số 13% về G-SIB nói điều ngược lại với điều bài rút ra từ nó, vì thiếu mẫu số
+
+Đây là chỗ lập luận hỏng rõ nhất, và nó lại là một trong bốn kết luận cuối bài.
+
+Bài ghi nhận rằng chỉ 13% sự cố ngân hàng liên quan tới G-SIB, còn 87% thuộc về các ngân hàng khác, rồi kết luận rằng có "khoảng trống về mức sẵn sàng ở định chế nhỏ, ít nguồn lực". Nhưng **trên thế giới chỉ có khoảng ba chục ngân hàng được xếp là G-SIB, trong khi có hàng chục nghìn ngân hàng khác.** Trong 514 sự cố ở nhóm trung gian tín dụng, 13% tương ứng khoảng 67 sự cố phân bổ cho vài chục định chế, còn 87% tương ứng khoảng 447 sự cố phân bổ cho hàng chục nghìn định chế.
+
+Tính trên mỗi định chế, **G-SIB bị tấn công — hoặc công bố — nhiều hơn các ngân hàng còn lại tới vài bậc độ lớn**. Con số 13% vì vậy không chứng minh được luận điểm mà bài rút ra từ nó. Luận điểm đó có thể vẫn đúng vì những lý do khác — và bài có nêu các lý do đó: ngân hàng nhỏ đầu tư ít hơn, hệ thống cũ kỹ hơn, khung tuân thủ nhẹ hơn — nhưng thống kê được đưa ra để chứng minh nó lại không chứng minh gì cả.
+
+Cùng lỗi mẫu số lặp lại ở kết quả về ngân hàng trung ương. Tỷ lệ 58% so với 42% tương ứng với **22 sự cố so với 16**. Số ngân hàng trung ương ở thị trường mới nổi và nước đang phát triển nhiều gấp ba tới bốn lần số ngân hàng trung ương ở nước phát triển. Tính trên mỗi ngân hàng trung ương, nhóm phát triển bị nhắm nhiều hơn. Và chiều của thiên lệch báo cáo — mà chính bài nêu là lý do chính khiến số liệu ngân hàng trung ương thấp — chạy ngược lại kết luận: nhóm ít công bố nhất lại đang được báo cáo là bị tấn công nhiều nhất.
+
+### Ba trong số các phát hiện được nhấn mạnh nhất đứng trên những con số đếm hàng chục
+
+Cần nói thẳng về nền quan sát. Toàn bộ phần về ngân hàng trung ương — một trong năm tiểu ngành, và là tiểu ngành bài dành nhiều chữ nhất vì tầm quan trọng hệ thống — dựa trên **41 sự cố trong mười năm**, trong đó **18 sự cố đến từ một chiến dịch DDoS kéo dài một tháng của nhóm Anonymous năm 2016**.
+
+Nghĩa là gần một nửa toàn bộ dữ liệu ngân hàng trung ương của cả thập kỷ đến từ một sự kiện đơn lẻ, mang tính biểu tình chính trị, nhắm vào website công khai chứ không vào hệ thống lõi. Bỏ sự kiện đó ra, còn lại khoảng hai chục sự cố trải trên mười năm và khoảng một trăm chín mươi ngân hàng trung ương. Đây không phải là một mẫu đủ để nói bất cứ điều gì về xu hướng, phân bố theo nhóm thu nhập, hay phương thức tấn công.
+
+Điều này không phải lỗi của nhóm tác giả — dữ liệu công khai chỉ có vậy, và họ nói rõ điều đó ngay ở đầu bài. Nhưng nó có nghĩa là **phần ngân hàng trung ương nên được đọc như một khung phân tích định tính về các kênh lan truyền, chứ không như một mô tả thực nghiệm**. Ba kênh mà bài vạch ra — mất niềm tin, căng thẳng thanh khoản, và hạn chế về sức chịu đựng vận hành — có giá trị độc lập với số liệu và là phần hữu ích nhất của mục này.
+
+### Cú sụt 2021 rồi vọt 2022 làm hỏng chính hai con số mà bài dùng để mở đầu
+
+Chuỗi sự cố khu vực tài chính đi từ khoảng 135 (2020) xuống khoảng 88 (2021) rồi lên khoảng 312 (2022) và giữ ở 312 (2023). Trung gian tín dụng có cùng hình dạng: khoảng 50, rồi 30, rồi 120. Chứng khoán cũng vậy: 50, rồi 33, rồi 81.
+
+Một quá trình đe doạ thật không giảm 35% rồi tăng gấp bốn trong hai năm liên tiếp, đồng loạt ở mọi tiểu ngành. Hình dạng này là đặc trưng của một **thay đổi trong quy trình thu thập dữ liệu** — nguồn tin được quét thay đổi, hoặc phương pháp mã hoá của cơ sở dữ liệu thay đổi — chứ không phải của một biến động hành vi tội phạm. Bài không đề cập tới cú sụt 2021 ở bất kỳ đâu.
+
+Vấn đề là hai con số mà bài dùng để mở đầu — tỷ trọng khu vực tài chính tăng từ 6% lên 13%, và số sự cố tăng khoảng chín tới mười lần — được tính đúng trên hai đầu mút của giai đoạn này. Nếu mức 2021–2022 chứa một bước nhảy do phương pháp, thì cả hai con số tiêu đề đều bị thổi lên. Một phép kiểm tra đơn giản mà bài không làm: so sánh tốc độ tăng của khu vực tài chính với tốc độ tăng của **tổng toàn bộ 20 ngành** trong cùng giai đoạn — tổng toàn cầu cũng đi từ khoảng 1.450 (2021) lên khoảng 2.550 (2022), tức cũng nhảy mạnh cùng năm. Phần tăng riêng của khu vực tài chính vượt trên mức chung là con số có ý nghĩa, và nó nhỏ hơn con số được công bố.
+
+### Kết quả vững nhất trong bài là kết quả về cơ cấu, không phải về số lượng — và nó cho một kết luận kỹ thuật rất cụ thể
+
+Trong khi mọi con số đếm đều bị nghi ngờ, các **tỷ trọng bên trong cùng một bộ dữ liệu** thì không, vì chúng dùng chung một quy trình thu thập và các thiên lệch phần lớn triệt tiêu nhau.
+
+Hai kết quả cơ cấu đáng tin và đáng chú ý. Thứ nhất, khu vực tài chính có tỷ lệ tấn công **khai thác** cao hơn hẳn mức chung của nền kinh tế (66% so với 54%), và trong đó **khai thác máy chủ ứng dụng** chiếm 50% so với 40% của toàn bộ các ngành. Ở nhóm chứng khoán tỷ lệ này là 57%, ở bảo hiểm 59%, ở quỹ và tín thác 67%.
+
+Đây là một kết luận kỹ thuật rất cụ thể mà bài không nhấn: **bề mặt tấn công của khu vực tài chính tập trung ở tầng ứng dụng** — các ứng dụng web và di động hướng tới khách hàng, các giao diện API — chứ không ở vành đai mạng hay ở thiết bị đầu cuối. Nó nói rằng nguồn lực phòng thủ nên đi vào kiểm thử ứng dụng, quản lý vòng đời mã nguồn và bảo mật API, chứ không vào tường lửa và chống xâm nhập mạng theo mô hình cũ. Với một cơ quan giám sát phải quyết định đặt câu hỏi gì trong một cuộc thanh tra tại chỗ, đây là thông tin dùng được ngay.
+
+Thứ hai, **ngân hàng trung ương là ngoại lệ**: 58,5% sự cố là từ chối dịch vụ, tức nhằm gây gián đoạn và gây chú ý chứ không nhằm đánh cắp. Bài diễn đạt rất gọn: ý đồ là khiêu khích chứ không phải trục lợi. Hàm ý cũng rất khác — với một ngân hàng trung ương, ưu tiên không phải là bảo vệ dữ liệu mà là **tính sẵn sàng và khả năng phục hồi dịch vụ**, vì thứ kẻ tấn công muốn chính là hình ảnh một ngân hàng trung ương không truy cập được.
+
+Kết quả vững thứ ba là sự phân kỳ từ 2021 giữa khu vực tài chính (từ khoảng 88 lên khoảng 295) và nhà cung cấp dịch vụ CNTT (từ khoảng 60 lên khoảng 85). Đây cũng là một so sánh bên trong cùng bộ dữ liệu và cùng giai đoạn, nên nó miễn nhiễm với phần lớn vấn đề đã nêu. Và cách giải thích của bài — định chế tài chính buộc phải số hoá nhanh hơn tốc độ nâng cấp phòng thủ — hàm ý một điều quan trọng về mặt chính sách: **rủi ro sinh ra từ khoảng cách giữa tốc độ số hoá và tốc độ đầu tư an ninh, chứ không từ mức độ số hoá**. Nguy hiểm nằm ở giai đoạn chuyển đổi, không ở trạng thái cuối. Với cơ quan giám sát, điều đó chuyển trọng tâm sang các định chế **đang trong quá trình triển khai nhanh** một sản phẩm số mới.
+
+### Tập trung vào bên thứ ba là rủi ro hệ thống mà bài nhận diện nhưng không gọi đúng tên
+
+Bài đặt ba mảnh ghép ở ba chỗ khác nhau. Nhiều vụ rò rỉ dữ liệu ngân hàng không bắt nguồn từ ngân hàng mà từ nhà cung cấp bên ngoài. Bảo hiểm nhân thọ thuê ngoài lưu trữ và xử lý dữ liệu vì hợp đồng kéo dài hàng chục năm, tập trung khối lượng lớn thông tin giá trị vào tay các bên "vô hình nhưng thiết yếu". Và định chế tài chính phụ thuộc vào một số ít nhà cung cấp cho xác thực danh tính, truy cập từ xa, kết nối API và lưu trữ mã — với Cloudflare làm ví dụ.
+
+Ghép lại, đây là **một điểm hỏng đơn lẻ ở cấp hệ thống**, và cơ chế sinh ra nó đáng chú ý hơn bản thân nó. Bài ghi nhận rằng nhà cung cấp CNTT nói chung có năng lực an ninh mạng **mạnh hơn** định chế tài chính. Đó chính là lý do việc tập trung xảy ra: mỗi ngân hàng, khi hành động hợp lý, đều chọn nhà cung cấp an toàn nhất. Kết quả tổng hợp là toàn hệ thống dồn vào cùng một vài nhà cung cấp, và **phơi nhiễm trở thành tương quan hoàn toàn**. Giảm rủi ro ở cấp từng thành viên đã tạo ra rủi ro tập trung ở cấp hệ thống.
+
+Đây chính xác là cấu trúc của rủi ro tập trung ở các đối tác bù trừ trung tâm, và của cơ chế quyết toán ngoại hối tập trung được bàn trong tài liệu về rủi ro quyết toán trên thị trường tiền tệ cùng thư mục này: một cơ chế được lập ra để loại bỏ rủi ro song phương, và chính vì nó làm việc đó tốt nên mọi người đều dùng, và khi đó nó trở thành thứ không được phép hỏng. Bài có đủ mọi mảnh ghép nhưng không gọi tên cấu trúc chung.
+
+Bài cũng chỉ đúng vấn đề khuyến khích nằm dưới: trường hợp xấu nhất là khi nhà cung cấp **ưu tiên cam kết hợp đồng hơn trách nhiệm an ninh mạng**. Hợp đồng quy định thời gian hoạt động và tính năng; an ninh là một ngoại ứng mà chi phí rơi lên khách hàng của khách hàng. Và ở phần lớn các nước, **không có khung giám sát nào chạm tới nhà cung cấp một cách trực tiếp** — cơ quan giám sát chỉ có thẩm quyền với định chế được cấp phép, còn định chế đó lại có rất ít đòn bẩy thương mại với một nhà cung cấp toàn cầu.
+
+### Dữ liệu gian lận còn yếu hơn nữa, nhưng có một bài học thiết kế chính sách rất sắc bị nén vào một dòng
+
+Phần gian lận số đứng trên nền còn mỏng hơn phần sự cố mạng: 60 nước có báo cáo cho UNODC nhưng **chỉ 13 nước có đủ chuỗi mười năm**, và không quan sát được xu hướng ở châu Phi và Trung Đông. Cơ quan chống gian lận Canada nói thẳng rằng **chỉ 5–10% số vụ được trình báo**; khảo sát ở Singapore cho thấy **68% nạn nhân chọn không trình báo**.
+
+Nếu tỷ lệ trình báo ở một nước có năng lực cao và có hẳn một trung tâm chống lừa đảo chuyên trách chỉ là 5–10%, thì con số 2,5 triệu vụ năm 2022 sai lệch ít nhất một bậc độ lớn, và **toàn bộ xu hướng tăng gần ba lần có thể phần lớn là xu hướng của tỷ lệ trình báo**. Khoảng cách giữa "2,5 triệu vụ" theo thống kê chính thức và "khoảng một nghìn tỷ USD tổn thất" theo khảo sát ngành chính là khoảng cách giữa cái được đếm và cái xảy ra. Tương quan "số vụ tăng theo thu nhập quốc gia" gần như chắc chắn là tương quan giữa thu nhập và hạ tầng tiếp nhận trình báo, và bài có nêu cảnh báo này.
+
+Nhưng chìm trong phần đó là quan sát có giá trị thiết kế chính sách cao nhất của cả bài, và nó chỉ được dành hai dòng. **Anh áp dụng bồi hoàn bắt buộc cho nạn nhân gian lận do chính họ uỷ quyền, và kết quả là số vụ tăng 12% trong khi tổn thất giảm 12% trong cùng kỳ.**
+
+Cơ chế đằng sau đáng được nói rõ. Bồi hoàn bắt buộc chuyển tổn thất từ người tiêu dùng — bên không có khả năng phát hiện gian lận — sang ngân hàng, bên có dữ liệu giao dịch, có mô hình phát hiện, và có quan hệ với ngân hàng nhận tiền. Khi ngân hàng phải chịu tổn thất, họ đầu tư vào phòng ngừa. Số vụ tấn công vẫn tăng vì kẻ lừa đảo không biến mất, nhưng **tỷ lệ thành công giảm**. Một biện pháp được thiết kế như chính sách bảo vệ người tiêu dùng hoá ra lại là một chính sách phân bổ lại trách nhiệm hiệu quả, và đó là cách duy nhất trong bài mà một can thiệp cho thấy tổn thất giảm trong khi áp lực tấn công tăng.
+
+Hai can thiệp khác cũng có bằng chứng kết quả: ở châu Âu, xác thực khách hàng mạnh cộng với xác minh người nhận và hạn mức theo ngày đã kéo gian lận thẻ xuống; ở Ấn Độ, đăng ký gian lận thanh toán trung ương cộng mô hình học máy phát hiện tài khoản lừa đi kèm việc gian lận trực tuyến giảm tới tháng 3/2025. Cả ba đều là can thiệp ở **tầng hạ tầng thanh toán**, không phải ở tầng giáo dục người dùng.
+
+### Với Việt Nam: vấn đề sẽ di trú tới đường thanh toán nhanh nhất, và bài đã cho sẵn bản đồ
+
+Việt Nam nằm trong mẫu khảo sát của báo cáo ngành được bài trích dẫn — 24.731 người ở 13 nước châu Á, với tác động kinh tế ước 688 tỷ USD năm 2024. Và mẫu hình mà bài ghi nhận ở hai nước khác áp rất sát vào hoàn cảnh Việt Nam.
+
+Ở châu Âu, **tỷ lệ gian lận trong thanh toán tức thì cao hơn hẳn chuyển khoản truyền thống**, với thủ đoạn dựa trên kỹ thuật xã hội phức tạp hơn. Ở Ấn Độ, tỷ trọng vụ gian lận thẻ và internet tăng từ khoảng 5% năm 2005 lên khoảng 82% năm 2024, **trùng với sự trỗi dậy của thanh toán tức thì**. Quy luật chung rất rõ: **gian lận di trú tới đường thanh toán nhanh nhất và ít ma sát nhất**, vì tốc độ quyết toán chính là thứ làm mất khả năng thu hồi. Việt Nam đã chuyển gần như toàn bộ thanh toán bán lẻ sang chuyển khoản liên ngân hàng tức thì, tức đang ở đúng cấu hình mà cả hai nước trên gặp vấn đề.
+
+Từ đó ra bốn hàm ý cụ thể, xếp theo mức độ khả thi.
+
+**Thứ nhất, điểm nghẽn là tài khoản lừa, không phải giao dịch lừa.** UNODC chỉ ra rằng hạ tầng thanh toán và chuyển tiền là đường dẫn chính của tội phạm có tổ chức xuyên quốc gia, qua mạng lưới tài khoản lừa, nhà cung cấp dịch vụ tài sản ảo và ứng dụng thanh toán bên thứ ba do chính tội phạm lập. Một giao dịch lừa chỉ hoàn tất được nếu có một tài khoản nhận. Kiểm soát ở khâu mở tài khoản và phát hiện tài khoản có hành vi trung chuyển là can thiệp có đòn bẩy cao nhất, và Ấn Độ đã chứng minh nó chạy được bằng học máy trên dữ liệu liên ngân hàng.
+
+**Thứ hai, phân bổ trách nhiệm quyết định mức đầu tư phòng ngừa.** Kết quả của Anh cho thấy khi tổn thất nằm ở người tiêu dùng, không ai có cả thông tin lẫn động lực để phòng ngừa. Câu hỏi thiết kế không phải "bồi hoàn có tốn kém không" mà "ai là bên có chi phí phòng ngừa thấp nhất", và câu trả lời gần như luôn là ngân hàng.
+
+**Thứ ba, mức công bố thấp không phải là mức rủi ro thấp.** Toàn bộ mục đầu tiên của phần đánh giá này áp dụng cho chính Việt Nam: nếu số liệu sự cố mạng của khu vực tài chính Việt Nam trông thấp so với khu vực, điều đó gần như chắc chắn phản ánh nghĩa vụ báo cáo và cơ chế thu thập, không phản ánh phơi nhiễm. Xây khung báo cáo sự cố bắt buộc và một từ điển phân loại chung là điều kiện tiên quyết để có bất kỳ đánh giá nào — và cũng là khuyến nghị đầu tiên mà bài nêu ở phần cuối.
+
+**Thứ tư, rủi ro tập trung bên thứ ba là ràng buộc khó nhất.** Một hệ thống ngân hàng ở quy mô Việt Nam phụ thuộc vào cùng những nhà cung cấp toàn cầu cho xác thực, kết nối và hạ tầng đám mây, nhưng lại có ít đòn bẩy thương mại hơn để áp đặt điều khoản an ninh, và cơ quan giám sát không có thẩm quyền trực tiếp với các nhà cung cấp đó. Đây là loại rủi ro không thể giải quyết bằng quy định trong nước, chỉ có thể giảm bằng yêu cầu về phương án dự phòng, khả năng chuyển đổi nhà cung cấp, và kiểm tra sức chịu đựng theo kịch bản nhà cung cấp ngừng hoạt động — tức là quản lý hậu quả thay vì quản lý nguyên nhân.
+
+Cuối cùng, một liên hệ về thứ tự ưu tiên. Tài liệu về vai trò của cơ quan quản lý và giám sát tài chính trước rủi ro khí hậu trong cùng thư mục khuyên các cơ quan ở thị trường mới nổi "làm đúng những thứ cơ bản trước" và đánh giá tính trọng yếu dựa trên dữ liệu. Áp cùng nguyên tắc đó vào đây cho một kết luận khác hẳn về mức ưu tiên: khác với rủi ro khí hậu — vốn hiện thực hoá trên chân trời hàng thập niên và chưa có bằng chứng định giá đủ mạnh — **rủi ro mạng và gian lận số đang gây tổn thất đo được ngay trong năm nay, qua các kênh tín dụng và vận hành đã có sẵn công cụ giám sát**. Trong cùng một ngân sách năng lực giám sát hạn chế, đây là chỗ đồng tiền biên nên đi.

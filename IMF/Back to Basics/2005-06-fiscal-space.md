@@ -239,3 +239,63 @@
 > "Fiscal space can be defined as room in a government's budget that allows it to provide resources for a desired purpose without jeopardizing the sustainability of its financial position or the stability of the economy."
 
 > "Monetary expansion. This is not a desirable option!"
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Định nghĩa trung tâm không phân xử được bất kỳ tranh cãi nào mà nó được viện dẫn để phân xử
+
+Dư địa tài khoá là "khoảng trống trong ngân sách cho phép chính phủ cung cấp nguồn lực cho một mục đích mong muốn **mà không đe doạ tính bền vững** của vị thế tài chính". Nghe rất chặt chẽ. Nhưng hãy để ý xem nó được dùng ở đâu.
+
+Bài mở đầu bằng chính hai cách lạm dụng thuật ngữ: người ủng hộ hạ tầng nói dự án "tạo ra tài sản sản xuất tự trả cho chính mình trong dài hạn, qua đó **tạo ra dư địa tài khoá mà chúng cần**"; người ủng hộ chi y tế và giáo dục nói các khoản này tự trả qua lợi tức vốn con người. Bài kể lại hai lập luận đó với giọng hơi hoài nghi rồi đi tiếp, như thể chúng là sự lạm dụng ngôn từ. Nhưng chúng không phải lạm dụng — chúng là hệ quả logic thẳng của chính định nghĩa.
+
+Vì bền vững phụ thuộc vào tăng trưởng tương lai, và tăng trưởng tương lai phụ thuộc vào việc tiêu tiền vào đâu, nên **dư địa tài khoá không phải một đại lượng có trước quyết định chi tiêu**. Nó là một hàm của chính quyết định ấy. Chi vào một dự án có lợi tức cao hơn lãi vay thì dư địa nở ra; chi vào một dự án lợi tức thấp thì dư địa co lại. Kết quả là bất kỳ ai muốn chi thêm đều có thể tuyên bố dư địa tồn tại, bất kỳ ai phản đối đều có thể tuyên bố ngược lại, và cái định nghĩa kia không cho phép ai chứng minh ai sai.
+
+Hàm ý không phải là vứt bỏ khái niệm, mà là thừa nhận rằng nó **không phải một ràng buộc kỹ thuật mà là một cách đặt câu hỏi**. Câu hỏi thật, và bài có nêu nhưng để lẫn vào giữa đoạn, là: khoản chi này có làm tăng tốc độ tăng trưởng nền tảng và năng lực tạo nguồn thu của nước đó không? Đó là một câu hỏi về **chất lượng từng dự án**, phải trả lời bằng thẩm định từng trường hợp, chứ không phải bằng một chỉ số tổng hợp ở cấp quốc gia. Tranh luận nào bắt đầu bằng "chúng ta có bao nhiêu dư địa tài khoá" đều đã đi sai hướng ngay từ câu hỏi.
+
+### Điều thật sự giết ngân sách nước nghèo chỉ được cho một mệnh đề phụ
+
+Trong một câu dài, bài viết rằng chi tiêu cao hơn phải tính cả "mọi chi thường xuyên cho **vận hành và bảo trì** mà một khoản đầu tư hạ tầng, hay việc lập một trường học hay bệnh viện, đòi hỏi". Đây là mệnh đề quan trọng nhất của cả bài và nó nằm ở vị trí của một lời chú.
+
+Cơ chế của nó tàn nhẫn và rất phổ biến. Xây một bệnh viện là một khoản chi đầu tư **một lần**, dễ tài trợ, dễ cắt băng khánh thành, dễ tìm nhà tài trợ. Vận hành bệnh viện đó — lương bác sĩ, thuốc men, điện nước, sửa chữa — là một **yêu sách vĩnh viễn** lên mọi ngân sách tương lai, khó tài trợ, không ai muốn tài trợ, và không cắt được về mặt chính trị một khi bệnh viện đã mở. Nghĩa là một quyết định đầu tư hôm nay **tiêu trước** dư địa tài khoá của hai mươi năm tới, trong khi mọi chỉ số tại thời điểm ra quyết định đều cho thấy nó đang mở rộng năng lực của nhà nước.
+
+Bài tiến gần tới việc nói thẳng điều này ở chỗ nhận xét rằng dòng viện trợ cho một ngành có thể "về cơ bản chiếm trước một phần tăng trưởng của nguồn lực ngân sách trong nước trong tương lai". Nhưng nó không nối được mệnh đề ấy với khuyến nghị chính của mình. Vì nếu viện trợ chủ yếu tài trợ chi đầu tư trong khi chi vận hành do ngân sách trong nước gánh, thì **dòng viện trợ càng lớn, dư địa tài khoá tương lai càng hẹp** — kể cả khi mỗi dự án riêng lẻ đều tốt và tiền không bị thất thoát đồng nào. Đây là lập luận sắc nhất mà bài có trong tay và không dùng, và nó mâu thuẫn trực tiếp với kết luận "con đường tốt nhất là nhiều viện trợ không hoàn lại hơn".
+
+Với người đọc hôm nay, đây cũng là cây cầu tự nhiên sang các tài liệu về đầu tư công và nợ công trong repo: chất lượng của một chương trình đầu tư công không đo bằng tỷ lệ giải ngân mà bằng việc tài sản tạo ra có được cấp đủ kinh phí để vận hành suốt vòng đời hay không. Một hệ thống chi rất nhiều cho xây mới và rất ít cho bảo trì sẽ phải xây lại cùng một thứ nhiều lần, và mỗi lần lại tính vào đầu tư phát triển.
+
+### Bài khuyến nghị xây chương trình chi tiêu dài hạn trên nguồn thu bất định nhất, và tự nêu điều kiện khiến việc đó nguy hiểm
+
+Kết luận cho Malawi, Tanzania và Zambia là "con đường tốt nhất cho cả ba nước sẽ là nhiều viện trợ không hoàn lại từ nước ngoài hơn". Ngay trong cùng bài, điều kiện đi kèm cũng được nêu rõ: "**chỉ một dòng viện trợ bền vững và dự đoán được** mới có thể tạo ra tiềm năng mở rộng chi tiêu có thể duy trì".
+
+Hai câu này đặt cạnh nhau tạo thành một vấn đề mà bài không thừa nhận. Trong sáu nguồn được liệt kê, viện trợ là nguồn mà **nước nhận có ít khả năng kiểm soát nhất**: nó phụ thuộc vào chu kỳ ngân sách, chu kỳ bầu cử và dư luận của các nước tài trợ, tức những biến hoàn toàn ngoại sinh và không dự báo được từ Lilongwe hay Lusaka. Thuế thì phụ thuộc vào luật của chính mình. Cắt chi ưu tiên thấp thì phụ thuộc vào quyết tâm của chính mình. Khuyến nghị dựa toàn bộ vào nguồn duy nhất nằm ngoài tầm tay, kèm điều kiện rằng nguồn ấy phải ổn định và dự đoán được, là một khuyến nghị tự mâu thuẫn.
+
+Bối cảnh giải thích vì sao bài lại viết như vậy: năm 2005 là đỉnh của lạc quan về Mục tiêu Phát triển Thiên niên kỷ, năm của các cam kết tăng mạnh viện trợ và của làn sóng xoá nợ cho các nước nghèo mắc nợ nặng. Trong không khí đó, giả định viện trợ sẽ tăng và ổn định không phải là ngây thơ. Nhưng nó là một giả định về chính trị của nước khác, được đưa vào một bài viết về kỹ thuật tài khoá mà không được đánh dấu là giả định.
+
+Phần hậu kiểm thì khá phũ phàng, và đáng chú ý là nó xác nhận **chẩn đoán** của bài trong khi bác bỏ **khuyến nghị** của bài. Bài xếp Tanzania là nước duy nhất còn cả ba cửa — tăng thuế, tái ưu tiên chi, vay ưu đãi — và xếp Malawi cùng Zambia là bị khoá chặt bởi tỷ trọng lương và trả lãi quá cao cộng nợ trong nước lớn. Mười lăm năm sau, Zambia vỡ nợ trái phiếu quốc tế năm 2020 và bước vào một quá trình tái cơ cấu kéo dài; Malawi rơi vào kiệt quệ nợ và phải đàm phán lại; Tanzania không vỡ nợ. Bài đã đọc đúng cấu trúc ràng buộc của từng nước. Điều nó không đoán được là hai nước bị khoá cửa sẽ không chờ viện trợ mà đi vay thương mại — chính con đường bài gọi là "đáng ngờ".
+
+### Dấu chấm than sau "mở rộng tiền tệ" che mất một điều kiện quan trọng
+
+"Mở rộng tiền tệ. Đây không phải lựa chọn đáng mong muốn!" Câu này là thứ gần nhất với một điều răn trong cả bài, và nó được phát biểu như một quy luật phổ quát.
+
+Nhưng nó không phổ quát. Trong giai đoạn 2020, các nền kinh tế tiên tiến đã tài trợ thâm hụt ở quy mô chưa từng có bằng tiền do ngân hàng trung ương tạo ra, trong một thời gian dài mà không có lạm phát; rồi đến 2021–2023 thì hoá đơn đến, dưới dạng đợt lạm phát lớn nhất trong bốn mươi năm. Hai giai đoạn ấy cùng nhau nói một điều tinh tế hơn dấu chấm than: **chi phí của việc tạo tiền không cố định, nó phụ thuộc vào một thứ vốn liếng gọi là độ tin cậy**, và vốn liếng đó có thể rút ra nhưng có giới hạn và không biết trước giới hạn ở đâu.
+
+Điều này dẫn tới cách đọc lại toàn bộ khái niệm dư địa tài khoá. Một nước phát hành được đồng tiền dự trữ quốc tế, vay bằng chính đồng tiền của mình, và có ba chục năm lạm phát thấp phía sau lưng, có dư địa lớn hơn hẳn một nước giống hệt về mọi chỉ số nợ nhưng thiếu ba điều kiện đó. Nghĩa là dư địa tài khoá **phần lớn là thứ được thừa kế, không phải thứ được tạo ra** bằng các biện pháp trong danh sách sáu mục của bài. Đọc cùng với bài về đô la hoá trong cùng loạt thì mạch logic hiện rõ: một quốc gia từng để mất kiểm soát lạm phát sẽ thấy cả hai công cụ — tiền tệ và tài khoá — bị thu hẹp trong nhiều thập kỷ sau đó, và đó mới là chi phí thật của đợt lạm phát ấy.
+
+Bài liệt kê sáu con đường như sáu lựa chọn song song bày trên bàn. Thực tế thì một nước đang ở tình thế cần dư địa tài khoá thường đã mất phần lớn các con đường đó **vì cùng một nguyên nhân**: thể chế tài khoá yếu vừa làm cạn nguồn thu, vừa đẩy chi phí vay lên, vừa làm mất độ tin cậy tiền tệ. Đó là lý do cả ba nước trong ví dụ đều bị loại khỏi năm cửa và chỉ còn cửa viện trợ.
+
+### Con số 15% sống dai nhất, nhưng nó là chỉ tiêu về lượng cho một vấn đề về chất
+
+Trong toàn bài, mệnh đề có tuổi thọ cao nhất là mốc tối thiểu **15% GDP cho tỷ lệ thu thuế** ở các nước thu nhập thấp. Con số này về sau đi vào các tài liệu về tài trợ phát triển như một ngưỡng chuẩn, gắn với nhận định rằng dưới mức đó thì nhà nước không đủ nguồn lực để làm những việc cơ bản nhất.
+
+Nhưng một ngưỡng về lượng không nói gì về thành phần, và thành phần mới là thứ quyết định hệ quả. Mười lăm phần trăm GDP thu từ thuế giá trị gia tăng đánh lên hàng thiết yếu và từ thuế nhập khẩu tạo ra một nền kinh tế rất khác so với mười lăm phần trăm thu từ thuế thu nhập cá nhân lũy tiến, thuế tài sản và thuế thu nhập doanh nghiệp có cơ sở rộng. Cùng một chỉ tiêu, hai phân phối gánh nặng hoàn toàn khác nhau, và hai mức tổn thất hiệu quả khác nhau. Bài xếp "tăng nguồn thu" thành một mục dài ba dòng, trong khi đây là con đường duy nhất trong sáu con đường **vừa bền vững vừa nằm trong tầm kiểm soát của chính nước đó** — tức đáng lẽ phải là mục dài nhất. Các bài về nguyên tắc đánh thuế, thuế trong thực tế và sự mở rộng của thuế giá trị gia tăng trong cùng loạt Back to Basics chính là phần bị thiếu ở đây.
+
+Có một điều bài hoàn toàn không nhắc tới và nó ngày càng quan trọng: **ưu đãi thuế là một khoản chi tiêu ngân sách được ghi ở chỗ khác**. Miễn giảm thuế cho nhà đầu tư không xuất hiện ở bên chi của ngân sách, không phải qua quy trình phê duyệt như một khoản chi, và thường không có ai tính tổng. Nhưng nó làm hẹp dư địa tài khoá chính xác như một khoản chi. Một danh sách sáu con đường tạo dư địa tài khoá mà bỏ qua việc rà soát các khoản chi tiêu qua thuế là một danh sách thiếu.
+
+### Với Việt Nam: dư địa đang bị bào mòn ở những chỗ không nằm trong bảng cân đối ngân sách
+
+Việt Nam không còn là trường hợp trong ví dụ của bài — viện trợ không hoàn lại đã lâu không còn là nguồn lực đáng kể, và vấn đề đã chuyển sang ba chỗ khác, cả ba đều là những chỗ bài này nhìn thấy nhưng không nhấn.
+
+Thứ nhất là **chi vận hành và bảo trì**. Một nền kinh tế đầu tư mạnh vào hạ tầng giao thông, đô thị và năng lượng đang tích luỹ một khối tài sản có nhu cầu bảo trì tăng dần theo tuổi. Nếu ngân sách bảo trì không tăng tương ứng, phần thiếu hụt sẽ tái xuất hiện sau một thập kỷ dưới dạng nhu cầu đầu tư mới cho cùng một tuyến đường, và được tính lại một lần nữa vào chi đầu tư phát triển. Đây là dạng thất thoát không xuất hiện trong bất kỳ báo cáo kiểm toán nào.
+
+Thứ hai là **xói mòn cơ sở thu**. Việc cắt giảm thuế nhập khẩu theo các hiệp định thương mại tự do đã xoá dần một nguồn thu từng rất quan trọng, trong khi các ưu đãi thuế thu nhập doanh nghiệp dành cho đầu tư nước ngoài làm hẹp thêm cơ sở thuế còn lại. Đây chính xác là "chi tiêu qua thuế" nói ở trên: một khoản chi ngân sách để mua đầu tư, không được ghi là chi. Điều làm nó cấp bách hơn hẳn so với mười năm trước là cơ chế **thuế tối thiểu toàn cầu**: khi mức thuế thực tế mà một tập đoàn đa quốc gia chịu ở nước sở tại thấp hơn ngưỡng tối thiểu, phần chênh lệch sẽ bị nước khác thu. Khi ấy khoản ưu đãi không còn là chi phí để mua đầu tư nữa mà trở thành một khoản chuyển giao thuần cho ngân khố nước khác — tốn kém y hệt mà không mua được gì. Đọc cùng các tài liệu về thu hút đầu tư nước ngoài và về phân mảnh thương mại trong repo thì đây là điều chỉnh chính sách có lợi tức cao nhất và ít tốn kém nhất hiện nay.
+
+Thứ ba là **nghĩa vụ tương lai không nằm trên bảng cân đối**: cam kết hưu trí và bảo hiểm y tế trong một xã hội đang già hoá nhanh. Bài có nhắc đúng loại rủi ro này khi nói cải cách hưu trí "tạo ra một khoản nợ dưới dạng các khoản chi trả tương lai rất không chắc chắn về quy mô và thời điểm". Với Việt Nam, đây là biến số sẽ định đoạt dư địa tài khoá của thập niên 2040, và nó đã được quyết định phần lớn bởi các tham số đang có hiệu lực hôm nay. Dư địa tài khoá thật của một nước không phải con số chênh lệch giữa thu và chi năm nay, mà là phần còn lại sau khi trừ đi mọi lời hứa đã đưa ra.

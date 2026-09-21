@@ -213,3 +213,65 @@
 > "It is the intent of lasting interest that is the crucial component of direct investment."
 
 > "The overwhelming share of direct investment occurs among advanced economies."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### "Đầu tư trực tiếp ổn định hơn" đúng với nhà máy nhưng không đúng với khoản tiền
+
+Đây là mệnh đề có sức nặng chính sách lớn nhất trong bài, và lập luận đỡ nó chỉ gồm một câu: nhà đầu tư trực tiếp không muốn hành động làm suy giảm giá trị khoản đầu tư của chính mình.
+
+Lập luận này đúng với **tài sản vật chất**. Không ai tháo một nhà máy đem đi trong một tuần. Nhưng khoản mục "đầu tư trực tiếp" trong cán cân thanh toán không chỉ gồm nhà máy. Nó gồm ba thành phần: vốn cổ phần, **lợi nhuận tái đầu tư**, và **các khoản vay nội bộ tập đoàn**. Hai thành phần sau có tính lưu động không khác gì dòng vốn ngắn hạn.
+
+Cụ thể hơn: một tập đoàn đa quốc gia lo ngại về tỷ giá ở nước chủ nhà có thể ngừng tái đầu tư lợi nhuận và chuyển toàn bộ về nước; có thể yêu cầu công ty con trả sớm khoản vay nội bộ; có thể đẩy nhanh thanh toán cho công ty mẹ và trì hoãn thu tiền, tức thay đổi thời điểm dòng tiền thương mại. Cả ba đều được ghi nhận là dòng đầu tư trực tiếp ra, cả ba đều thực hiện được trong vài tuần, và cả ba đều tạo áp lực lên tỷ giá giống hệt việc bán một danh mục cổ phiếu.
+
+Có một kênh thứ tư còn quan trọng hơn: **phòng hộ tỷ giá**. Nhà đầu tư không cần bán nhà máy để thoát khỏi rủi ro tiền tệ; chỉ cần mở vị thế phái sinh. Khi nhiều nhà đầu tư cùng làm điều đó, áp lực lên đồng nội tệ xuất hiện dù không một tài sản vật chất nào đổi chủ.
+
+Hệ quả thực tiễn: **tính bất động của tài sản không hàm ý tính bất động của trạng thái tài chính**. Một nước có tỷ trọng đầu tư trực tiếp cao trong cơ cấu dòng vốn vào thực sự an toàn hơn một nước phụ thuộc vốn danh mục, nhưng biên an toàn đó nhỏ hơn nhiều so với những gì con số thống kê gợi ý. Các tài liệu trong thư mục Capital Flows của repo đi sâu vào đúng khoảng cách giữa vẻ ổn định trên bảng phân loại và mức lưu động thật.
+
+### Ngưỡng 10% và bốn mươi phần trăm vốn đầu tư trực tiếp toàn cầu không tồn tại ở bất cứ đâu
+
+Bài nêu ngưỡng 10% như một quy ước thống kê và để nó ở đó. Nhưng vì đây là bài viết của chính Vụ Thống kê IMF, việc không bàn đến hệ quả của quy ước này là một khoảng trống đáng chú ý.
+
+Ngưỡng 10% tạo ra một vách đứng trong số liệu. Một khoản nắm giữ 11% cổ phần của một quỹ hưu trí, hoàn toàn thụ động, được đếm là đầu tư trực tiếp. Một khoản nắm 9% đi kèm hợp đồng quản lý, hợp đồng cung ứng độc quyền và quyền phủ quyết các quyết định lớn — tức kiểm soát thực sự — thì không. "Ý định gắn bó lâu dài" mà bài coi là thành phần quyết định là một trạng thái tinh thần, và thống kê thì đo tỷ lệ sở hữu.
+
+Vấn đề thứ hai lớn hơn nhiều và bài chỉ chạm tới bằng một đoạn ngắn về thiên đường thuế. Một nghiên cứu của chính IMF công bố bốn năm sau bài này ước tính rằng **khoảng 40% tổng vốn đầu tư trực tiếp toàn cầu, tương đương khoảng 15 nghìn tỷ đô la, là "đầu tư ma"** — vốn chảy qua các công ty vỏ không có nhân viên, không có hoạt động, không có hiện diện vật lý, tồn tại thuần túy để tối ưu hóa thuế.
+
+Con số này thay đổi cách đọc toàn bộ phần số liệu của bài. Tỷ lệ 63% đầu tư trực tiếp toàn cầu diễn ra giữa các nền kinh tế tiên tiến — mà bài giải thích bằng quy mô thị trường và tiếp cận nhân lực kỹ năng cao — có một phần đáng kể chỉ là dòng vốn đi vòng qua vài khu vực tài phán trung gian. Và với các nước đang phát triển, nó có nghĩa là **bảng xếp hạng nước đầu tư lớn nhất không cho biết nhà đầu tư thật đến từ đâu**, một điều có ý nghĩa cả về kinh tế lẫn an ninh.
+
+### Lan tỏa công nghệ không xảy ra qua thẩm thấu mà qua chuỗi cung ứng
+
+Bài mô tả chuyển giao tri thức theo một cơ chế nghe hợp lý: doanh nghiệp nước ngoài đào tạo nhiều hơn, nhân viên được đào tạo rồi rời sang doanh nghiệp trong nước, cộng thêm "lan tỏa ngẫu nhiên qua mạng lưới phi chính thức khi nhân viên trao đổi ý tưởng".
+
+Bằng chứng thực nghiệm tích lũy suốt hai thập niên cho một kết quả cụ thể và khác hẳn. Lan tỏa **theo chiều ngang** — sang các doanh nghiệp trong nước cạnh tranh cùng ngành — thường không tìm thấy, và đôi khi âm. Lý do rất dễ hiểu: công ty nước ngoài có mọi động cơ để ngăn công nghệ rò rỉ sang đối thủ trực tiếp, và họ có hợp đồng lao động, thỏa thuận bảo mật cùng mức lương đủ cao để làm điều đó.
+
+Lan tỏa **theo chiều dọc ngược** — sang các nhà cung cấp trong nước — thì được tìm thấy ổn định và có ý nghĩa. Và cơ chế ở đây ngược hẳn: công ty nước ngoài **chủ động** muốn nhà cung cấp của mình giỏi lên, vì chất lượng và chi phí của họ ảnh hưởng trực tiếp tới sản phẩm cuối. Nên họ cử kỹ sư sang hướng dẫn, đặt tiêu chuẩn, chuyển giao quy trình kiểm soát chất lượng.
+
+Đây không phải một chi tiết học thuật. Nó đảo ngược hoàn toàn hàm ý chính sách. Nếu lan tỏa là ngẫu nhiên và xảy ra qua trò chuyện, thì việc cần làm chỉ là thu hút được vốn. Nếu lan tỏa chạy qua quan hệ mua bán, thì **việc cần làm là tạo ra và nâng cấp các nhà cung cấp trong nước đủ tiêu chuẩn để được đưa vào chuỗi** — một công việc khó hơn, cụ thể hơn, và hoàn toàn khác với xúc tiến đầu tư.
+
+### Khoản mục mà bài không nhắc đến: lợi nhuận chuyển về nước
+
+Bài lập một bảng cân đối lợi ích và chi phí khá đầy đủ: bên có là thu ngân sách, việc làm, năng suất, công nghệ, cán cân thanh toán; bên nợ là cạnh tranh đẩy doanh nghiệp yếu ra khỏi thị trường, rủi ro đảo chiều, và ảnh hưởng chính trị.
+
+Thiếu hẳn một khoản mục, và đó là khoản mục lớn nhất về mặt định lượng: **đầu tư trực tiếp tạo ra một nghĩa vụ chi trả thường xuyên và vĩnh viễn**. Vốn vào một lần; lợi nhuận chảy ra hằng năm, mãi mãi, chừng nào khoản đầu tư còn sinh lời.
+
+Về mặt kế toán quốc tế, khoản chảy ra này nằm ở **cán cân thu nhập sơ cấp**, không nằm ở cán cân vốn, nên nó không xuất hiện trong bất kỳ con số nào mà bài này bàn tới. Nhưng nó có một hệ quả trực tiếp: khi trữ lượng đầu tư trực tiếp đủ lớn, **tổng thu nhập quốc gia tăng chậm hơn GDP**, vì một phần giá trị được tạo ra trên lãnh thổ thuộc về chủ sở hữu ở nước khác.
+
+Với Việt Nam, đây là một trong những sự thật quan trọng nhất và ít được nhắc nhất về nền kinh tế. Cán cân thu nhập sơ cấp của Việt Nam thâm hụt liên tục và ở mức rất lớn, chủ yếu do lợi nhuận của khu vực đầu tư nước ngoài, khiến tổng thu nhập quốc gia thấp hơn GDP vài phần trăm một cách bền vững. Nói cách khác, một phần đáng kể của thành tích tăng trưởng đo bằng GDP không chuyển thành thu nhập của người Việt Nam.
+
+Điều này không phải lập luận chống lại đầu tư nước ngoài — dòng vốn đó đã tạo ra việc làm, kỹ năng và năng lực xuất khẩu mà nền kinh tế không thể tự có. Nhưng nó là lập luận rất mạnh cho việc **theo dõi tỷ trọng giá trị gia tăng trong nước thay vì theo dõi kim ngạch**, và cho việc ưu tiên những dự án có liên kết sâu với nhà cung cấp trong nước hơn những dự án lắp ráp khâu cuối.
+
+### Với Việt Nam: chỉ số cần theo dõi không phải vốn đăng ký
+
+Bài viết mô tả bộ công cụ thu hút đầu tư mà Việt Nam đã dùng gần như trọn vẹn: đặc khu và khu công nghiệp, cấp đất, ưu đãi thuế hào phóng, chương trình xúc tiến đầu tư. Kết quả về quy mô là không thể tranh cãi.
+
+Nhưng bài có một nhận xét rất sắc mà thực tiễn Việt Nam nên chú ý: **chiến dịch thông tin không xói mòn nguồn thu thuế, còn ưu đãi thuế thì có**. Và có một điểm bổ sung mà bài không nêu: trong các khảo sát về tiêu chí chọn địa điểm của nhà đầu tư, ưu đãi thuế thường xếp sau ổn định chính sách, chất lượng hạ tầng, nguồn lao động và tiếp cận thị trường. Nghĩa là một phần đáng kể chi phí ưu đãi được trả cho những nhà đầu tư vốn dĩ vẫn đến.
+
+Ba chỉ số nên thay thế con số vốn đăng ký trong việc đánh giá:
+
+**Thứ nhất, khoảng cách giữa vốn đăng ký và vốn thực hiện.** Vốn đăng ký là một tuyên bố ý định, vốn thực hiện là tiền đã bỏ ra. Khoảng cách giữa hai con số này ở Việt Nam nhiều năm rất lớn, và chỉ con số thứ hai mới tương ứng với nhà máy có thật.
+
+**Thứ hai, số lượng và trình độ nhà cung cấp trong nước tham gia chuỗi.** Đây là chỉ số trực tiếp đo kênh lan tỏa duy nhất được bằng chứng ủng hộ. Số doanh nghiệp Việt Nam đạt chuẩn làm nhà cung cấp lớp một cho các tập đoàn điện tử lớn đã tăng trong thập niên qua nhưng vẫn ở mức vài chục — một con số nhỏ so với quy mô kim ngạch.
+
+**Thứ ba, tỷ trọng giá trị gia tăng trong nước trong xuất khẩu của khu vực đầu tư nước ngoài.** Nếu kim ngạch tăng mà tỷ trọng này đứng yên, phần tăng chỉ là lắp ráp khâu cuối với nguyên liệu nhập khẩu, và giá trị thực thu về nền kinh tế mỏng hơn nhiều so với vẻ ngoài của con số xuất khẩu.
+
+Cảnh báo cuối cùng của bài cũng đáng ghi nhớ: khi một công ty nước ngoài trở thành người sử dụng lao động lớn nhất hoặc kiểm soát một phần đáng kể một ngành, đòn bẩy của họ với nhà hoạch định chính sách trở thành vấn đề. Với một nền kinh tế mà một vài tập đoàn nước ngoài chiếm tỷ trọng rất lớn trong tổng kim ngạch xuất khẩu, đây không còn là một rủi ro lý thuyết mà là một điều kiện đang tồn tại.

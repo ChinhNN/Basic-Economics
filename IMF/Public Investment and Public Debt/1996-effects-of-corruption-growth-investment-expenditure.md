@@ -358,3 +358,61 @@
 > "A priori, one might expect that it is easier to collect substantial bribes on large infrastructure projects or high-technology defense equipment than on textbooks and teachers' salaries."
 
 > "While bribes are difficult to levy on teachers' salaries, they are easier to levy on the construction of school buildings."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Mô hình lý thuyết ở phụ lục không dùng để giải thích, mà dùng làm giả thuyết không
+
+Chi tiết dễ bị bỏ qua nhất của bài lại là chi tiết khéo nhất. Bản khái quát hoá mô hình Barro cho ra kết quả φⱼ/φₖ = αⱼ/αₖ — tức tỷ trọng mỗi khoản chi trong GDP **không phụ thuộc vào mức tham nhũng**. Thoạt nhìn đây là một kết quả thất bại: mô hình không giải thích được điều bài muốn chứng minh.
+
+Nhưng Mauro dùng nó theo hướng ngược lại. Nếu hối lộ chỉ hoạt động như một khoản thuế tỷ lệ trên thu nhập, cơ cấu chi tiêu phải trung lập với tham nhũng. Vậy nên **mọi tương quan quan sát được giữa tham nhũng và cơ cấu chi đều là bằng chứng bác bỏ giả định "hối lộ là thuế tỷ lệ"**, và buộc ta phải kết luận rằng hối lộ dễ thu ở một số khoản chi hơn các khoản khác. Mô hình không đóng vai trò mô tả thế giới; nó đóng vai trò định nghĩa thế giới sẽ trông thế nào nếu giả thuyết của bài sai.
+
+Đây là cách dùng lý thuyết mà các bài thực nghiệm về tham nhũng sau này hiếm khi lặp lại, và nó biến một tương quan chéo tầm thường thành một phép kiểm định có nội dung.
+
+### Kết quả âm về "con voi trắng" quan trọng hơn kết quả dương về giáo dục
+
+Giả thuyết phổ biến — tham nhũng đẩy chính phủ sang các dự án đầu tư hoành tráng — chỉ được ủng hộ **rất yếu**: hệ số chi đầu tư là −0,0064 với t = −1,61, vừa sát mức 90%. Và trong bộ dữ liệu Easterly–Rebelo về đầu tư công ở khoảng 40 nước đang phát triển, **hầu như không có quan hệ nào có ý nghĩa**.
+
+Đây là một kết quả âm mà bài chỉ dành cho vài dòng, nhưng hệ quả thực tiễn của nó sắc hơn kết luận chính. Nó có nghĩa là **không thể phát hiện tham nhũng bằng cách nhìn vào tỷ lệ đầu tư công trên GDP**. Một nước tham nhũng nặng và một nước sạch có thể có cùng con số đầu tư công. Cái khác nhau nằm ở chỗ khác: chất lượng công trình, giá thành trên mỗi đơn vị năng lực, và tuổi thọ tài sản — tức là những thứ không nằm trong bất kỳ bảng thống kê tài khoá nào.
+
+Suy luận mà bài gợi ra nhưng không nói thẳng: tham nhũng có thể **giữ nguyên mức đầu tư công trong khi bóp nghẹt đầu tư tư nhân**. Nếu đúng vậy, tỷ trọng đầu tư công trong tổng đầu tư sẽ tăng lên ở nước tham nhũng — và con số đó sẽ bị đọc nhầm thành "nhà nước đang tích cực dẫn dắt".
+
+### Biến công cụ càng làm hệ số to ra thì càng đáng ngờ, chứ không phải càng yên tâm
+
+Bài trình bày việc 2SLS cho hệ số lớn hơn OLS (0,0320 so với 0,0187 với đầu tư; 0,0081 so với 0,0029 với tăng trưởng) như một dấu hiệu củng cố, hàm ý sai số đo lường đã làm OLS bị suy giảm. Cách đọc này chỉ đúng nếu điều kiện loại trừ được thoả mãn.
+
+Ba công cụ là chỉ số đa dạng dân tộc–ngôn ngữ, từng là thuộc địa, và độc lập sau 1945. Điều kiện loại trừ đòi hỏi chúng ảnh hưởng tới đầu tư và tăng trưởng **chỉ qua tham nhũng**. Điều này gần như chắc chắn sai: đa dạng sắc tộc tác động tới xung đột nội bộ, khả năng cung cấp hàng hoá công, mức độ tin cậy xã hội và độ ổn định chính trị — tất cả đều là kênh độc lập tới tăng trưởng. Chính Mauro thừa nhận chúng thực ra là công cụ cho **hiệu quả thể chế nói chung**.
+
+Nhưng nếu đã thừa nhận như vậy thì hệ số 2SLS lớn hơn không phải bằng chứng rằng tác động của tham nhũng lớn hơn; nó là bằng chứng rằng **tác động của cả gói thể chế lớn hơn tác động của riêng tham nhũng** — điều không ai nghi ngờ và cũng không cho ta biết gì mới. Cột đáng tin nhất trong toàn bộ Bảng 1a là cột vừa có biến kiểm soát vừa dùng công cụ, và chính cột đó cho hệ số 0,0281 với t = 0,99: **mất ý nghĩa thống kê hoàn toàn**. Bài dẫn dắt người đọc bằng cột đơn giản nhất.
+
+### Khuyến nghị về lương công chức là một lời phản đối kín đáo với chính sách điều chỉnh đương thời
+
+Giữa một bài kỹ thuật, có một đoạn rất ít kỹ thuật: cảnh báo rằng lương công chức thấp so với khu vực tư khuyến khích tham nhũng vặt qua cơ chế lương hiệu quả, và vì vậy **cần cân nhắc kỹ khi chọn giữa cắt lương đồng loạt và cắt biên chế** để giảm quỹ lương.
+
+Năm 1996, cắt quỹ lương là một cấu phần tiêu chuẩn của các chương trình điều chỉnh tài khoá mà chính IMF thiết kế, và cách dễ nhất về mặt chính trị luôn là cắt lương thực tế bằng cách không điều chỉnh theo lạm phát, chứ không phải sa thải. Bài nói rằng lựa chọn dễ đó có thể tự phá huỷ chính mục tiêu của chương trình: quỹ lương giảm hôm nay, thất thoát qua hối lộ và mất thu thuế tăng ngày mai.
+
+Đây là một nhận xét có hệ quả phân phối rõ ràng mà bài không phát biểu: cắt lương đồng loạt dồn chi phí lên công chức trung thực (họ mất thu nhập thật) trong khi gần như không chạm tới công chức ở các vị trí có đặc lợi (họ bù lại bằng hối lộ). Nói cách khác, một biện pháp được trình bày là trung lập lại có tác dụng **chọn lọc ngược**: nó đẩy người liêm chính ra khỏi khu vực công và giữ lại người không liêm chính.
+
+### Lỗ hổng "thay thế bên trong hạng mục" vô hiệu hoá gần hết khuyến nghị chính sách
+
+Phần bàn về chiều nhân quả kết thúc bằng một điều kiện mà nếu đọc kỹ sẽ thấy nó gần như không thể thoả mãn. Bài lập luận rằng khuyến khích chính phủ chi nhiều hơn cho các hạng mục khó ăn hối lộ có thể hữu ích **bất kể nhân quả đi chiều nào** — nhưng chỉ khi cơ cấu chi được quy định đủ chi tiết để không thể thay thế ngay bên trong hạng mục.
+
+Chính bài đã cung cấp ví dụ phản bác: hối lộ khó thu từ lương giáo viên nhưng dễ thu từ **xây trường**. Cả hai đều là "chi cho giáo dục". Một chính phủ bị ép nâng tỷ trọng chi giáo dục lên 20% ngân sách có thể làm đúng chỉ tiêu bằng cách xây thêm trường, mua thiết bị thí nghiệm nhập khẩu, và không tăng một đồng lương giáo viên nào. Chỉ tiêu được hoàn thành, và bản chất không đổi.
+
+Điều này có nghĩa là toàn bộ dòng khuyến nghị "cơ cấu lại chi tiêu công để giảm tham nhũng" chỉ có ý nghĩa ở mức độ chi tiết mà không một khuôn khổ ngân sách trung hạn nào theo được. Ràng buộc phải đặt ở cấp **dòng ngân sách**, không phải cấp ngành — và ở cấp đó, quyền tự chủ của cơ quan chi tiêu bị triệt tiêu, kéo theo một cái giá hiệu quả riêng.
+
+### Với Việt Nam: bài này nói rằng chỉ tiêu chi ngành không đo được điều ta tưởng
+
+Ba hệ quả cụ thể.
+
+**Thứ nhất**, các chỉ tiêu kiểu "chi giáo dục đạt 20% tổng chi ngân sách" hay "chi khoa học công nghệ đạt 2%" — vốn phổ biến trong các nghị quyết của Việt Nam — đúng là loại chỉ tiêu mà bài này chỉ ra là dễ bị lách nhất. Con số cần theo dõi song song là **cơ cấu bên trong**: tỷ trọng chi thường xuyên cho con người so với chi xây dựng cơ bản trong cùng một ngành.
+
+**Thứ hai**, kết quả âm về đầu tư công có ý nghĩa trực tiếp với tranh luận về giải ngân đầu tư công. Tỷ lệ giải ngân cao không phải là bằng chứng về chất lượng quản trị, và tỷ lệ giải ngân thấp cũng không phải bằng chứng về sự trong sạch. Bằng chứng nằm ở suất đầu tư trên mỗi kilômét đường, mỗi megawatt công suất, và ở tuổi thọ công trình — đúng những chỉ số mà khuôn khổ đánh giá hiệu quả đầu tư công của IMF nhấn mạnh.
+
+**Thứ ba**, danh sách nguyên nhân của bài đặt độ mở thương mại, kiểm soát giá và đa tỷ giá ở vị trí trung tâm. Ở đây có một liên hệ thú vị với các tài liệu về kiểm soát vốn và hạn chế thanh toán thương mại trong repo: mỗi công cụ hành chính can thiệp vào giá hoặc vào quyền tiếp cận ngoại tệ đều tạo ra một khoản đặc lợi, và khoản đặc lợi đó có giá thị trường. Cái giá ấy hiếm khi được tính vào khi đánh giá lợi ích của công cụ.
+
+### Một bài năm 1996 vẫn được trích dẫn vì nó khiêm tốn hơn những người trích dẫn nó
+
+Cần nói thẳng về mức độ tin cậy. Đây là hồi quy chéo trên số bình quân dài hạn, với chỉ số tham nhũng do chuyên gia tư vấn chấm điểm — mà chính các chuyên gia đó có thể đã bị ảnh hưởng bởi kết quả kinh tế của nước họ đánh giá. Bài thừa nhận rủi ro này ngay ở trang đầu, thừa nhận công cụ chỉ là công cụ cho thể chế nói chung, và kết luận về giáo dục bằng đúng chữ "gợi ý chứ không kết luận được".
+
+Ba mươi năm sau, con số "+1 độ lệch chuẩn về chỉ số tham nhũng đi kèm đầu tư tăng hơn 4 điểm phần trăm GDP" vẫn được trích như một ước lượng nhân quả trong các báo cáo chính sách. Độ chắc chắn đã tăng lên trên đường lan truyền, trong khi bằng chứng thì không. Khi dùng lại con số này, nên trích kèm đúng cột đã sinh ra nó và đúng những dè dặt mà chính tác giả đã viết.

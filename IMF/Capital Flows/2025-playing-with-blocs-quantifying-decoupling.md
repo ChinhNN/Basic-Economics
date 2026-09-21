@@ -479,3 +479,52 @@
 > "The bloc alignment uncovered in the data corresponds poorly to trade-related economic interests."
 
 > "As cross-bloc trade costs went up, within-bloc trade costs fell."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Đóng góp thật là đảo ngược thứ tự: để dữ liệu vẽ bản đồ khối, thay vì vẽ trước rồi đo
+
+Gần như toàn bộ văn liệu về phân mảnh làm theo một thứ tự: lấy một danh sách khối có sẵn — bỏ phiếu Liên Hợp Quốc, liên minh quân sự, danh sách trừng phạt — rồi đo xem thương mại giữa các khối đó giảm bao nhiêu. Khuyết tật khó chữa của cách làm đó là **kết quả được quyết định từ lúc vẽ bản đồ**, trước khi chạm vào một con số thương mại nào.
+
+Bài này lật ngược: phần dư của phương trình lực hấp dẫn vẽ bản đồ, con người không can thiệp. Và bản đồ nó vẽ ra khác hẳn bản đồ trực giác — Ả-rập Xê-út, Israel và Hong Kong nằm trong khối Trung Quốc; Ấn Độ và Myanmar nằm trong khối Mỹ; Canada, Bỉ, Hà Lan, Mexico không liên kết. Nếu đặt trước bản đồ địa chính trị thì Israel không bao giờ rơi vào khối Trung Quốc, và ta sẽ không bao giờ biết rằng **chi phí thương mại thực tế của Israel đã dịch chuyển ngược với liên minh chính trị của nó**.
+
+Nhưng đúng cái làm nên sức mạnh ấy cũng là điểm yếu. Phần dư, theo chính lời bài, hấp thụ mọi thứ không xảy ra ở cấp nước — chính sách thương mại, sở thích, biên lợi nhuận song phương, và tất cả những gì còn lại. Với Ả-rập Xê-út và Nga, thứ "còn lại" đó gần như chắc chắn là **tái định tuyến dòng dầu thô sau 2022**, một hiện tượng năng lượng chứ không phải một lựa chọn khối. Chiếc máy phân loại không phân biệt được "chọn phe" với "bán dầu cho người còn mua".
+
+### Kết luận trung tâm sống hay chết là do cửa sổ thời gian, và bài đã tự nói ra điều đó
+
+Đây là chỗ cần đọc kỹ nhất trong cả bài, và nó nằm khiêm tốn ở phần kiểm chứng độ vững.
+
+Trên cửa sổ 2015–2023, nước trung vị **được lợi 0,6%** thu nhập thực. Trên cửa sổ 2015–2019, cũng phương pháp ấy, cũng mô hình ấy, nước trung vị **thiệt 0,06%**. Toàn bộ dấu của kết luận đảo chiều chỉ vì thêm vào bốn năm. Và bốn năm đó là 2020–2023: đại dịch, đứt gãy chuỗi cung ứng, gói kích thích khổng lồ, lạm phát, và một cuộc chiến tranh ở châu Âu.
+
+Bài đưa ra hai cách diễn giải và tỏ ra nghiêng về cách thứ nhất: các nước cần thời gian để hạ rào cản trong nội bộ khối sau cú sốc ban đầu, nên chi phí giữa khối tăng trước, chi phí trong khối giảm sau. Cách thứ hai — mà bài nêu rồi đi tiếp — là những cú sốc 2020–2022 đã in dấu vào chính phần dư được diễn giải là chi phí thương mại.
+
+Không có cách nào trong bài để phân định hai lời giải này, và **sự khác biệt giữa chúng là sự khác biệt giữa "tách rời có lợi" và "tách rời có hại"**. Nói cho công bằng: mệnh đề bền vững của bài không phải "tách rời làm tăng phúc lợi", mà là mệnh đề mô tả khiêm tốn hơn và chắc chắn hơn nhiều — thương mại Mỹ–Trung sụp 27,5% và 40,1% mà thương mại thế giới trên GDP vẫn tăng từ 21,8% lên 22,6%, nên **cái đang diễn ra là đổi nguồn và đổi đích, không phải co lại**. Nên trích dẫn bài ở mệnh đề đó, không phải ở con số 0,6%.
+
+### Một mâu thuẫn nội tại mà bài trình bày cạnh nhau nhưng không nối lại
+
+Hai kết quả sau nằm cách nhau vài trang và xung khắc trực tiếp:
+
+- Nhóm **không liên kết được lợi nhiều nhất** trong kịch bản cơ sở, trung vị 0,787 so với 0,532 của khối Mỹ và 0,299 của khối Trung Quốc.
+- Nhưng **trở thành không liên kết thì thiệt với mọi nước**: nước khối Mỹ mất 0,622, nước khối Trung Quốc mất 0,324.
+
+Cách hoà giải nằm ở chỗ nhãn "không liên kết" đang gộp hai loại nước hoàn toàn khác nhau vào một ô. Loại thứ nhất là nước mà chi phí thương mại **giảm với cả hai bên** — Việt Nam, Lào — tức là được cả hai khối tranh nhau. Loại thứ hai là nước mà chi phí **tăng với cả hai** hoặc không nhúc nhích, tức là bị cả hai bỏ quên. Quy tắc phân loại của bài, vốn chỉ đọc dấu của hai chiều tương đối, ném cả hai vào chung một rổ 98 nước.
+
+Hệ quả rất thực tế: **con số 0,787 không phải là phần thưởng cho trung lập**. Nó là phần thưởng cho việc được cả hai bên cần, và đó là một trạng thái phải giành lấy chứ không phải một tư thế ngoại giao có thể tuyên bố.
+
+### Kết quả "ai cũng ở nhầm khối" yếu hơn vẻ ngoài của nó, nhưng hệ quả thì mạnh hơn
+
+Phát hiện gây chú ý nhất là tính đối xứng: nước khối Trung Quốc sang khối Mỹ được thêm 0,658, nước khối Mỹ sang khối Trung Quốc được thêm 0,211. Cả hai chiều đều dương.
+
+Cần thận trọng với chính tính đối xứng đó. Phép phản thực thay chi phí thực tế của một nước bằng **chi phí bình quân của khối đích** rồi chuẩn hoá lại. Với bất kỳ nước nào có chi phí lệch xa khỏi trung bình khối mình, thao tác này tự động kéo nó về gần trung bình — và trong một mô hình mà mọi đường cong đều lõm, kéo về trung bình gần như luôn cho hiệu ứng dương. Tỷ lệ 6/10 và 8/14 cũng rất nhỏ; nói "trung bình mà nói các nước đang ở sai khối" dựa trên 10 và 14 quan sát là mạnh hơn mức bằng chứng cho phép.
+
+Nhưng nếu chấp nhận kết quả ở mức định tính thì hệ quả của nó sắc hơn nhiều so với điều bài dám viết. Hồi quy bỏ phiếu Liên Hợp Quốc cho hệ số **0,672 có ý nghĩa cao** ở giai đoạn 2015–2023 và **0,184 không có ý nghĩa** ở giai đoạn giả dược 2010–2015. Ghép với phản thực, thông điệp thật là: **việc chọn khối đang được quyết định bởi thứ không phải lợi ích thương mại, và các nước đang trả giá cho lựa chọn đó**. Đây là lời phê bình thẳng vào chính sách của cả Washington lẫn Bắc Kinh, được gói trong một câu trung tính về "các động cơ khác, phỏng đoán là địa chính trị".
+
+### Việt Nam đứng đầu bảng, và đó là lý do phải đọc con số +6,9% dè dặt nhất
+
+Việt Nam được lợi 6,9% thu nhập thực, cao nhất trong 66 nước, gấp hơn mười một lần nước trung vị. Một con số như thế đòi hỏi phải hỏi nó đến từ đâu trước khi mừng.
+
+Nó đến từ một mô hình thương mại **tĩnh, lợi suất không đổi theo quy mô, chi phí tảng băng, không có tích luỹ vốn và không có chuyển giao công nghệ**. Toàn bộ lợi ích trong một mô hình như vậy là lợi ích tái phân bổ: hàng hoá đổi đường đi, Việt Nam nằm trên đường mới, phúc lợi tăng. Mô hình **không phân biệt được** giữa một nhà máy mới có thật và một chuyến hàng chỉ dán lại nhãn — cả hai đều hiện ra như chi phí thương mại song phương giảm.
+
+Đây là chỗ cần đọc cùng tài liệu về thương mại và đầu tư của ASEAN trong một thế giới phân mảnh, vốn lập luận rằng cái phân biệt lợi ích bền với lợi ích ảo là **dòng vốn FDI cấp doanh nghiệp đi trước đơn hàng**. Bài này không có kênh đó và cũng nói rõ là chỉ xét liên kết thương mại, không xét FDI, kiều hối, chuyển giao công nghệ hay di cư. Nói cách khác, **6,9% là giới hạn trên của lợi ích, đo trong một thế giới nơi lắp ráp khâu cuối và sản xuất thực được tính như nhau**.
+
+Hai hệ quả đáng giữ lại. Thứ nhất, vị thế của Việt Nam trong bài không phải là "trung lập" mà là "chi phí giảm với cả hai phía" — một trạng thái mong manh, vì chỉ cần một bên siết quy tắc xuất xứ là nửa cơ chế biến mất. Thứ hai, những kênh phân mảnh nguy hiểm nhất với Việt Nam lại **nằm đúng trong phần bài này loại ra khỏi phạm vi**: sàng lọc FDI, kiểm soát xuất khẩu công nghệ, và kênh thanh toán. Với một nền kinh tế còn kiểm soát tài khoản vốn và đồng tiền chưa chuyển đổi tự do, rủi ro ở kênh thanh toán và kênh đồng tiền không hiện lên trong bất kỳ con số nào ở đây — điều mà tài liệu về hạn chế thanh toán thương mại và kiểm soát vốn, cùng tài liệu về định giá bằng đồng tiền thống trị, xử lý trực tiếp hơn nhiều.

@@ -183,3 +183,67 @@
 > "It is not from the benevolence of the butcher, the brewer, or the baker that we expect our dinner, but from their regard to their own interest." (Adam Smith, được trích trong bài)
 
 > "The forces that generally lead to the success of capitalism can also usher in its failure."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Loại hình bị bài xếp vào nhóm nhiều cạm bẫy nhất nay là thực hành phổ biến của chính các nước giàu
+
+Trong bốn loại hình mà bài mượn từ Baumol và các đồng tác giả, **chủ nghĩa tư bản do nhà nước dẫn dắt** là loại duy nhất được mô tả hoàn toàn bằng nhược điểm: đầu tư quá mức, chọn sai người thắng, dễ tham nhũng, và khó rút lại hỗ trợ khi không còn phù hợp. Không có một ưu điểm nào được nêu. Bài kết luận rằng hỗn hợp giữa doanh nghiệp lớn và khởi nghiệp "có vẻ tốt nhất", và loại này đặc trưng cho Mỹ hơn bất kỳ nước nào.
+
+Mười năm sau, chính Mỹ đã thông qua các đạo luật dành hàng trăm tỷ đô la trợ cấp trực tiếp cho ngành bán dẫn và năng lượng sạch, với điều kiện về địa điểm sản xuất. Liên minh châu Âu, Nhật Bản, Hàn Quốc và Ấn Độ đều có chương trình tương đương. Việc nhà nước chọn ngành để nuôi dưỡng — thứ mà bài liệt kê như một bệnh lý của các nước đang phát triển — đã trở thành thực hành chuẩn của các nền kinh tế tiên tiến nhất.
+
+Điều đáng nói không phải là bài viết sai, mà là **cả bốn cạm bẫy mà bài liệt kê vẫn đúng nguyên**. Các chương trình trợ cấp hiện nay đang đối mặt đúng những vấn đề đó: đầu tư trùng lặp giữa các nước tạo ra dư thừa công suất toàn cầu, tiêu chí lựa chọn dự án chịu áp lực chính trị, và không ai biết làm thế nào để rút hỗ trợ khi ngành đã đứng được.
+
+Nói cách khác, thế giới đã áp dụng một mô hình mà những nhược điểm của nó đã được ghi chép rõ ràng từ trước, vì lý do an ninh và địa chính trị chứ không phải vì ai đó đã tìm ra cách khắc phục. Các tài liệu về chiến tranh trợ cấp và về mất cân đối toàn cầu gắn với chính sách công nghiệp trong repo bàn đúng tình thế này.
+
+### Một mâu thuẫn nội tại mà bài không nhận ra
+
+Trụ cột thứ sáu trong danh sách của bài là **vai trò hạn chế của chính phủ** — chỉ bảo vệ quyền tài sản và duy trì môi trường trật tự.
+
+Ba trang sau, bài trích dẫn Rajan và Zingales với thông điệp rằng xã hội phải "cứu chủ nghĩa tư bản khỏi các nhà tư bản": phải **giới hạn mức tập trung sở hữu tài sản sản xuất**, phải **bù đắp cho người thua trong cạnh tranh**, phải duy trì áp lực cạnh tranh lên doanh nghiệp hiện hữu.
+
+Đây không phải vai trò hạn chế. Giới hạn tập trung sở hữu đòi hỏi một cơ quan cạnh tranh có quyền chia tách doanh nghiệp. Bù đắp cho người thua đòi hỏi hệ thống an sinh và đào tạo lại quy mô lớn, tức thuế cao và chi tiêu lớn. Duy trì áp lực cạnh tranh lên các doanh nghiệp lớn nhất đòi hỏi năng lực đối đầu với chính những chủ thể có nguồn lực vận động chính sách mạnh nhất.
+
+Hai phần của cùng một bài viết đang mô tả hai nhà nước có quy mô và quyền lực hoàn toàn khác nhau, và bài không dừng lại để hòa giải chúng. Đây không phải lỗi biên tập nhỏ mà là đường đứt gãy trung tâm của toàn bộ tranh luận về chủ nghĩa tư bản trong ba mươi năm qua: **thị trường cạnh tranh không phải trạng thái mặc định mà là một thành tựu phải được duy trì liên tục bằng quyền lực công**. Danh sách sáu trụ cột, vốn trình bày cạnh tranh như một đặc tính tự nhiên của hệ thống, che mất điều đó.
+
+### "Tài phiệt" không phải một loại hình riêng mà là điểm cuối của cơ chế mà chính bài đã mô tả
+
+Bài xếp chủ nghĩa tư bản tài phiệt thành một trong bốn loại hình, định nghĩa nó bằng **kết quả** — bảo vệ và làm giàu một nhóm rất hẹp, bất bình đẳng và tham nhũng lớn — chứ không bằng thể chế hay cơ chế.
+
+Định nghĩa theo kết quả có một vấn đề: nó khiến hiện tượng trông như một thứ khác biệt về bản chất, tồn tại ở một số nước nhất định, chứ không phải một điểm trên một dải liên tục mà mọi nước đều nằm trên đó.
+
+Nhưng chính bài viết đã cung cấp cơ chế, chỉ là ở một phần khác và không nối lại: lợi ích tư nhân có tổ chức tác động lên chính phủ, dùng quyền lực quy định để bảo vệ vị thế kinh tế của mình, và bóp nghẹt chính thị trường tự do đã nuôi dưỡng họ.
+
+Đó chính xác là con đường dẫn đến tài phiệt. Không nước nào bắt đầu bằng việc chọn mô hình tài phiệt; nó là điểm đến của một quá trình mà bước đầu tiên xảy ra ở mọi nền kinh tế thị trường. Đặt hai phần này cạnh nhau sẽ cho một kết luận sắc hơn nhiều so với bảng phân loại bốn ô: **khác biệt giữa các nước không phải ở chỗ có hiện tượng chiếm dụng chính sách hay không, mà ở chỗ có tồn tại các lực đối trọng đủ mạnh để chặn quá trình đó ở đâu đó trên dải liên tục hay không** — tòa án độc lập, báo chí, cơ quan cạnh tranh, và cạnh tranh từ hàng nhập khẩu.
+
+### Thất bại thị trường lớn nhất từng được biết đến hoàn toàn vắng mặt
+
+Bài minh họa khái niệm thất bại thị trường bằng hai ví dụ: ô nhiễm và tắc đường. Cả hai đều được ngụ ý là những sai lệch cục bộ cần chỉnh sửa ở biên.
+
+Biến đổi khí hậu không xuất hiện một lần nào trong bài, dù nó được mô tả rộng rãi là thất bại thị trường lớn nhất từng được nhận diện, và dù bài được viết chỉ vài tháng trước Hiệp định Paris.
+
+Sự vắng mặt này quan trọng vì nó chạm vào chính cơ chế trung tâm mà bài ca ngợi. Trụ cột thứ tư nói giá cả phân bổ nguồn lực đến nơi có phần thưởng cao nhất. Điều đó chỉ dẫn đến kết quả tốt nếu **giá phản ánh đầy đủ chi phí**. Khi chi phí của việc phát thải bằng không trong giá, bàn tay vô hình sẽ phân bổ nguồn lực **về phía phá hủy** với đúng mức hiệu quả mà nó phân bổ về phía bất cứ thứ gì khác. Cơ chế không có thiên hướng đạo đức; nó tối ưu hóa theo những gì giá nói với nó.
+
+Và đây là chỗ khác biệt về quy mô trở thành khác biệt về bản chất. Tắc đường có thể sửa bằng phí đi lại vào trung tâm. Khí hậu đòi hỏi định lại giá của **toàn bộ** năng lượng, vận tải, xây dựng và nông nghiệp, đồng thời trên phạm vi toàn cầu, và đòi hỏi phối hợp giữa các quốc gia có lợi ích trái ngược nhau. Không có cách nào diễn đạt yêu cầu đó bằng ngôn ngữ "vai trò hạn chế của chính phủ".
+
+### Tranh luận Piketty đã dịch chuyển, và hướng dịch chuyển rất quan trọng với Việt Nam
+
+Bài trình bày luận điểm r lớn hơn g — tỷ suất sinh lời trên vốn thường vượt tốc độ tăng trưởng chung, nên qua lãi kép, của cải của chủ sở hữu vốn bỏ xa thu nhập từ lao động — như phát hiện thực nghiệm mới nhất về bất bình đẳng.
+
+Phát hiện quan trọng nhất xuất hiện gần như cùng lúc, và bài không nhắc: khi phân tách phần thu nhập thuộc về vốn theo loại tài sản, **gần như toàn bộ mức tăng đó tập trung ở bất động sản nhà ở**. Loại bỏ nhà ở ra khỏi phép tính thì tỷ trọng của vốn trong thu nhập quốc dân hầu như không tăng trong suốt giai đoạn được khảo sát.
+
+Nếu điều này đúng thì vấn đề được đặt tên sai. Đó không phải cuộc đối đầu giữa chủ sở hữu vốn sản xuất và người lao động, mà là sự khan hiếm của đất ở những nơi người ta muốn sống — một vấn đề về **nguồn cung nhà ở và quy hoạch**, không phải về bản chất của tích lũy tư bản. Và hai chẩn đoán dẫn đến hai đơn thuốc hoàn toàn khác nhau: một bên là thuế tài sản và thuế thừa kế, bên kia là tăng nguồn cung nhà ở, cải cách quy hoạch và thuế đất.
+
+Với Việt Nam, chẩn đoán thứ hai áp dụng trực tiếp hơn nhiều. Phần lớn chênh lệch của cải giữa các hộ gia đình Việt Nam trong hai thập niên qua không đến từ lợi nhuận doanh nghiệp mà từ việc sở hữu đất ở những vị trí tăng giá — và mức tăng giá đó phần lớn là kết quả của các quyết định công về hạ tầng, quy hoạch và chuyển mục đích sử dụng đất, chứ không phải của nỗ lực hay rủi ro mà chủ đất gánh chịu. Đây chính là định nghĩa của **tô** trong ngôn ngữ của các bài về thuế trong cùng thư mục này, và là lập luận mạnh nhất cho việc đánh thuế nó.
+
+### Với Việt Nam: câu hỏi đúng không nằm ở ranh giới nhị phân mà ở loại hình
+
+Bài mở đầu bằng cách đặt chủ nghĩa tư bản đối lập với chủ nghĩa xã hội, rồi dành phần lớn dung lượng còn lại để chỉ ra rằng ranh giới đó không phải nơi diễn ra những điều thú vị. Cả hai bảng phân loại mà bài viện dẫn — thị trường tự do so với thị trường phối hợp, và bốn loại hình theo vai trò khởi nghiệp — đều phân biệt các biến thể **bên trong** nhóm các nền kinh tế thị trường, dựa trên ai điều phối và điều phối bằng cách nào.
+
+Đây là cách đọc hữu ích nhất cho một nền kinh tế được định danh là kinh tế thị trường định hướng xã hội chủ nghĩa. Câu hỏi thực tế không phải nằm ở nhãn, mà là: **cơ chế điều phối nào đang vận hành, và nó có những cạm bẫy đã biết nào**.
+
+Xét theo các bảng phân loại của bài, Việt Nam có đặc điểm của mô hình do nhà nước dẫn dắt ở khu vực doanh nghiệp nhà nước và trong việc định hướng các ngành ưu tiên, kết hợp với một khu vực tư nhân trong nước ngày càng lớn và một khu vực đầu tư nước ngoài vận hành gần như theo logic thị trường tự do. Nghị quyết năm 2025 về phát triển kinh tế tư nhân, xác định khu vực này là một động lực quan trọng nhất của nền kinh tế, là bước dịch chuyển đáng kể nhất trên trục đó trong nhiều năm.
+
+Giá trị thực tiễn của bài nằm ở bốn cạm bẫy mà nó liệt kê cho mô hình do nhà nước dẫn dắt, vì cả bốn đều có thể kiểm chứng bằng kinh nghiệm Việt Nam: đầu tư quá mức, chọn sai người thắng, dễ tham nhũng, và khó rút lại hỗ trợ khi không còn phù hợp. Cạm bẫy thứ tư đáng chú ý nhất vì ít được bàn: vấn đề với ưu đãi và bảo hộ thường không nằm ở việc trao chúng, mà ở việc **không có cơ chế chấm dứt tự động**, nên chúng tồn tại rất lâu sau khi lý do ban đầu đã mất.
+
+Và cảnh báo của Rajan và Zingales nên được đọc kỹ theo hướng khác: rủi ro lớn nhất với một khu vực tư nhân đang lớn lên không phải là nó quá mạnh so với nhà nước, mà là những doanh nghiệp lớn nhất trong đó tích lũy tài sản chủ yếu thông qua các quyết định hành chính về đất đai và giấy phép — vì khi đó lợi nhuận không đến từ việc phục vụ khách hàng tốt hơn, và cạnh tranh không còn là cơ chế chọn lọc.

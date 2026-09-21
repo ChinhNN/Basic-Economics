@@ -363,3 +363,43 @@
 > "Our measure only reflects how many capital controls are in place, without accounting for the intensity of any specific capital control."
 
 > "For advanced economies, we cannot reject that the impact of capital controls is zero."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Lần đầu tiên chi phí hành chính của kiểm soát vốn có đơn vị đo là giờ
+
+Tranh luận về kiểm soát vốn hai thập kỷ qua diễn ra trên một mặt phẳng lệch: phía lợi ích có số, phía chi phí chỉ có tính từ. Đóng góp thật của bài nằm ở đó, không nằm ở phương pháp — **nó biến một tính từ thành một con số có đơn vị**. Bốn tới tám giờ cho mỗi độ lệch chuẩn, mà một độ lệch chuẩn ở đây rất dễ hình dung: khoảng sáu tới bảy trong hai mươi chín thành phần được kích hoạt. Từ nay, câu hỏi có nên thêm một biện pháp hạn chế dòng vào có thể đặt dưới dạng: biện pháp này đáng giá bao nhiêu giờ chậm trễ cho mọi giao dịch đi vào nền kinh tế.
+
+Nhưng phải giữ con số ấy đúng tỷ lệ. Thời gian trung bình ở chặng thụ hưởng là **30,72 giờ**, trung vị 27,84. So với mục tiêu một giờ của G20, phần do kiểm soát vốn giải thích chỉ chiếm một phần tư tới một phần tám độ trễ. Xoá sạch kiểm soát vốn trên toàn thế giới thì nước trung bình vẫn cách mục tiêu hơn một ngày làm việc. Số liệu của bài nói rõ điều mà bài không nói: **kiểm soát vốn là một nguyên nhân thật, không phải nguyên nhân chính**.
+
+### 528 quan sát, biến thiên nằm giữa các nước, và COVID nằm trọn trong mẫu
+
+Mẫu là 176 nước trong ba năm, 528 quan sát, tần suất năm. Bài tự thừa nhận phần lớn biến thiên nằm **giữa các nước chứ không trong nội bộ một nước theo thời gian**, nên không thể đưa hiệu ứng cố định theo nước vào mà không triệt tiêu hết biến thiên cần thiết. Dù trình bày dưới dạng bảng nhiều năm, đây về bản chất là **một hồi quy cắt ngang**, với R bình phương 0,28 — tức 72% biến thiên nằm ngoài mô hình. Biến bỏ sót đáng ngờ nhất là **năng lực hành chính của hệ thống ngân hàng**, thứ vừa sinh ra nhiều biện pháp hơn vừa sinh ra quy trình hậu kiểm chậm hơn; chỉ số an ninh mạng và mức sẵn sàng số đều đo hạ tầng công nghệ, không đo năng lực hành chính.
+
+Vấn đề COVID cũng nặng hơn mức bài tự nhận. Giai đoạn 2020–2022 đúng là lúc nhiều nền kinh tế mới nổi siết biện pháp ngoại hối khẩn cấp, **và cũng là lúc bộ phận hậu kiểm của ngân hàng làm việc từ xa**. Hai thứ đẩy cùng một hướng: đây là chệch có hướng, không phải nhiễu. Nên coi bốn tới tám giờ là **cận trên**.
+
+Thêm một điểm bài không đối chiếu: hệ số cho nhóm tiên tiến là −16,16 và không có ý nghĩa, trong khi châu Âu và Trung Á lại có **độ dốc dốc nhất mẫu**, 58,88. Hai con số chỉ hoà giải được nếu độ dốc ấy do phần Trung Á, Caucasus và Tây Balkan trong cùng nhóm tạo ra. **Hai lát cắt không trực giao với nhau**, và "nghịch lý" mà bài nêu ra nhiều khả năng là sản phẩm của cách chia nhóm chứ không phải một quy luật kinh tế.
+
+### Hệ quả bài không dám phát biểu: Lộ trình G20 và Quan điểm Thể chế kéo ngược nhau
+
+Bài nhắc rằng theo Quan điểm Thể chế, biện pháp với dòng vào có thể hữu ích, kể cả theo hướng phòng ngừa. Ngay sau đó nó đưa bằng chứng rằng những biện pháp ấy làm chậm thanh toán bốn tới tám giờ. Mục tiêu của G20 là một giờ.
+
+Kết luận không cần phép tính nào: **một nước không thể vừa duy trì kiểm soát vốn ở mức trung bình của nhóm mới nổi vừa đạt mục tiêu G20**. Hai cam kết quốc tế mà cùng một nước có thể đã ký đang đòi hai điều loại trừ nhau. Câu "nên được đưa vào khi đánh giá vĩ mô về chi phí và lợi ích" là phiên bản ngoại giao của một xung đột thể chế thật.
+
+Hệ quả phái sinh còn khó chịu hơn: tỷ lệ 54,6% mà FSB công bố như một chỉ số tiến độ chung thực ra **đang đo lựa chọn chính sách vĩ mô của các nước chứ không đo nỗ lực kỹ thuật của họ**. Một nước có thể đầu tư tối đa vào hạ tầng thanh toán mà vẫn tụt hạng, chỉ vì chọn giữ tài khoản vốn đóng.
+
+### Vì sao đoạn cuối về ISO 20022 lật ngược ý nghĩa của cả bài
+
+Đoạn gần cuối nhắc rằng giới hành nghề tin chuẩn ISO 20022 đủ giàu thông tin để **đẩy nhanh** việc thực thi kiểm soát vốn. Câu này nằm trong phần hướng nghiên cứu tiếp, như một ghi chú kỹ thuật, nhưng nó phủ định cách đọc mặc định của toàn bài.
+
+Nếu đúng vậy, bốn tới tám giờ **không phải chi phí nội tại của kiểm soát vốn mà là chi phí của việc điện thanh toán không mang theo đủ dữ liệu**. Ngân hàng thụ hưởng chậm vì phải đi hỏi lại mục đích thanh toán, mã số thuế, hợp đồng, vận đơn — những thứ mà một chuẩn điện đủ giàu chuyển kèm được ngay từ đầu. Khi đó đại lượng bài ước lượng là thứ **sửa được bằng kỹ thuật**, không phải một khoản thuế cố hữu. Kết quả về mức sẵn sàng số củng cố cách đọc này: hệ số tương tác +7,01 không có ý nghĩa, tức công nghệ **không làm thay đổi độ dốc**, nhưng tự nó dịch hệ số chặn tới 22 giờ. Hạ tầng số tốt không giúp gì cho một hồ sơ thiếu vận đơn; chỉ công nghệ nhắm vào **nội dung dữ liệu đi kèm giao dịch** mới làm phẳng được độ dốc đó.
+
+Đây cũng là chỗ bài vô tình giải thích sức hút của stablecoin ở các nền kinh tế mới nổi. Nó không nằm ở việc sổ cái phân tán nhanh hơn mạng Swift — chặng bay vốn không phải chỗ tắc — mà ở việc **bỏ qua hoàn toàn trạm kiểm soát tại ngân hàng thụ hưởng**. Đọc cùng các tài liệu về stablecoin và tương lai của thanh toán trong repo này, thứ stablecoin thật sự cạnh tranh không phải là công nghệ nhắn tin mà là chủ quyền quản lý dòng vốn — điều giải thích vì sao phản ứng của cơ quan quản lý nhóm mới nổi gay gắt hơn hẳn nhóm tiên tiến, nơi mà theo chính bài này kiểm soát vốn không tạo ra ma sát đáng kể nào.
+
+### Với Việt Nam: nút thắt nằm ở hệ số chặn, không nằm ở độ dốc
+
+Với Đông Á và Thái Bình Dương, độ dốc là 58,88 − 45,95 = **12,93**, tức khoảng **2,8 giờ cho mỗi độ lệch chuẩn**, chỉ bằng một phần năm độ dốc của châu Âu và Trung Á. Trong khi đó hệ số chặn là **+20,15 giờ chậm hơn nhóm tham chiếu, bất kể mức kiểm soát vốn**.
+
+Đọc cặp số này như bài đã đọc cho Nam Á thì kết luận là: **với một nước Đông Á, phần lớn độ trễ không đến từ kiểm soát vốn**. Nếu Việt Nam tự do hoá một mảng đáng kể tài khoản vốn — một động tác vĩ mô rất lớn — phần thưởng về tốc độ thanh toán chỉ vài giờ. Còn 20 giờ kia nằm ở giờ mở cửa ngân hàng, xử lý theo lô, múi giờ và chất lượng dữ liệu trong điện thanh toán: những thứ sửa được bằng quyết định vận hành, **không đòi hỏi đánh đổi nào về chính sách vĩ mô**. Bốn việc cụ thể — chuyển dứt điểm sang ISO 20022, bỏ xử lý theo lô ở khâu ghi có ngoại tệ, kéo dài giờ xử lý điện quốc tế, và chuẩn hoá trước bộ chứng từ cho khách hàng xuất nhập khẩu giao dịch lặp lại — đều không đụng tới một dòng nào trong khung quản lý ngoại hối, mà lại nhắm đúng nhóm giao dịch bài mô tả là xử lý được trong vài phút thay vì vài ngày.
+
+Một lưu ý cuối: chỉ số FARI **không bao gồm hạn chế giao dịch vãng lai**. Với một nền kinh tế mà phần lớn luồng ngoại tệ đi qua kênh thương mại và yêu cầu chứng từ thương mại là trọng tâm của quản lý ngoại hối, thước đo này bỏ sót đúng phần quan trọng nhất — chỉ số dòng vào có thể thấp trong khi ma sát thực tế của một doanh nghiệp xuất khẩu lại cao. Điểm này ăn khớp với tài liệu về hạn chế thanh toán thương mại và kiểm soát vốn trong thư mục ASEAN 2026, nơi hai loại biện pháp được xử lý tách bạch.

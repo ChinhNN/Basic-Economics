@@ -134,3 +134,59 @@
 > "In reality many different prices can exist in a market at the same time."
 
 > "Each price represents a bargain struck between a buyer and a seller."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Một câu được nói lướt qua lại là điều triệt để nhất trong bài
+
+Bài mở phần hai bằng một câu nghe như ghi chú bên lề: trong thực tế nhiều mức giá khác nhau có thể cùng tồn tại trong một thị trường. Rồi minh họa bằng cà chua sắp hỏng bán theo gói.
+
+Câu đó đang lặng lẽ bác bỏ **quy luật một giá** — nguyên lý rằng trong một thị trường cạnh tranh, cùng một món hàng phải có cùng một mức giá, nếu không thì hoạt động mua đi bán lại sẽ san bằng chênh lệch. Quy luật này là nền móng của rất nhiều thứ: lý thuyết ngang giá sức mua trong kinh tế quốc tế, định giá tài sản bằng lập luận không có cơ hội chênh lệch giá, và cả khái niệm "mức giá chung" mà từ đó người ta tính lạm phát.
+
+Bài không nói rằng mình đang làm điều đó, và vì vậy cũng không rút ra hệ quả. Nhưng hệ quả rất lớn: nếu phân tán giá là trạng thái bình thường chứ không phải nhiễu, thì "giá của cà chua" không còn là một con số mà là một phân phối, và phần lớn thông tin kinh tế thú vị nằm ở **độ rộng của phân phối đó** chứ không phải ở giá trị trung bình. Độ phân tán giá cho biết chi phí tìm kiếm cao hay thấp, thông tin bất đối xứng đến đâu, và quyền định giá tập trung ở bên nào.
+
+Mười ba năm sau, đây không còn là điểm lý thuyết. Nó là đặc trưng trung tâm của thương mại điện tử.
+
+### Điều bài không thể lường: khi người bán biết chính xác giá trị bạn gán cho món hàng
+
+Khung phân tích của bài đối xứng một cách đẹp đẽ. Người bán có một mức giá tối thiểu, người mua có một mức tối đa, giao dịch xảy ra ở đâu đó giữa hai mức, và vị trí chính xác phụ thuộc "tương quan quyền lực" — mà bài định nghĩa bằng **cấu trúc thị trường**: nông dân có ruộng lớn thì mười pound không đáng kể nên bà là người đặt giá; nhiều nông dân cạnh tranh thì bà thành người chấp nhận giá.
+
+Giả định ngầm đỡ toàn bộ lập luận là: mức tối đa mà người mua sẵn sàng trả là **thông tin riêng của người mua**. Nông dân không biết khách cần cà chua cho tiệc sinh nhật của chị mình hay cho trò ném cà chua ở picnic. Chính sự không biết đó là thứ giữ lại một phần thặng dư cho người mua.
+
+Giả định này đã sụp đổ, và nó sụp đổ mà không cần thay đổi gì về cấu trúc thị trường. Một nền tảng biết lịch sử tìm kiếm, loại thiết bị, vị trí, giờ truy cập và toàn bộ lịch sử mua hàng của bạn có thể ước lượng khá chính xác mức bạn sẵn sàng trả, rồi hiển thị đúng mức đó. Theo chính khung của bài, kết quả rất rõ: toàn bộ thặng dư chuyển sang người bán, ngay cả trong một thị trường có rất nhiều người bán.
+
+Đây là phát hiện đáng giá nhất khi đọc lại bài này hôm nay: **quyền định giá không còn chỉ đến từ việc có ít đối thủ, mà đến từ việc biết nhiều hơn về đối tác**. Toàn bộ khung pháp lý về cạnh tranh được xây quanh nguồn quyền lực thứ nhất và gần như không chạm tới nguồn thứ hai.
+
+Có một biến thể thứ hai cũng đáng nêu. Bài coi kết cục "nhiều người mua và nhiều người bán thì một giá cân bằng thắng thế" là trạng thái lành mạnh. Nhưng nếu tất cả người bán cùng dùng một phần mềm định giá được huấn luyện trên dữ liệu giá của nhau, thì một mức giá duy nhất vẫn thắng thế — chỉ có điều nó nằm ở mức độc quyền, mà không có bất kỳ thỏa thuận nào giữa các bên. Luật chống độc quyền được thiết kế để chứng minh sự thông đồng; ở đây không có gì để chứng minh. Các vụ kiện liên quan đến phần mềm định giá dùng chung trong thị trường cho thuê nhà ở Mỹ đang thử nghiệm đúng ranh giới này.
+
+### Phần về quyền chọn đi ngược hướng so với cách thế giới thực định giá quyền chọn
+
+Bài kết thúc phần quyền chọn bằng một mệnh đề trực giác: giá quyền chọn phải vừa đủ thấp để khách chịu trả cho sự chắc chắn, vừa đủ cao để bù cho người bán khi phải bán dưới giá giao ngay. Nói cách khác, giá quyền chọn nằm giữa hai mức định giá chủ quan của hai bên — đúng theo mô thức "giá là một thỏa thuận" mà bài dùng xuyên suốt.
+
+Đây chính xác là cách người ta nghĩ về quyền chọn **trước năm 1973**, và lý do phát hiện năm đó được coi là cuộc cách mạng là vì nó cho thấy trực giác này sai về nguyên tắc.
+
+Ý tưởng then chốt là **sao chép**: người bán quyền chọn có thể tự tạo ra khoản chi trả của quyền chọn bằng cách liên tục mua bán chính tài sản cơ sở theo một tỷ lệ tính được. Nếu làm được điều đó, giá của quyền chọn bị ghim bởi chi phí của chiến lược sao chép, chứ không phải bởi việc hai bên quý sự chắc chắn đến mức nào. Và kết luận gây sốc nhất: giá quyền chọn **không phụ thuộc vào kỳ vọng của bất kỳ bên nào về giá tương lai của tài sản cơ sở**, cũng không phụ thuộc mức ngại rủi ro của họ.
+
+Thứ nó phụ thuộc là **độ biến động**. Trong ví dụ của bài, điều này có nghĩa rất cụ thể: hai người có dự báo thời tiết hoàn toàn trái ngược — một người chắc chắn sẽ mưa, một người chắc chắn sẽ nắng — vẫn phải đồng ý về giá quyền chọn cà chua, miễn là họ đồng ý về việc giá cà chua dao động mạnh đến đâu.
+
+Với một bài nhập môn, việc không trình bày mô hình là hợp lý. Nhưng việc đưa ra một lời giải thích trực giác dẫn người đọc đi **ngược hướng** thì khác. Nó củng cố một hiểu lầm phổ biến và dai dẳng: rằng mua quyền chọn là đặt cược vào hướng đi của giá. Phần lớn giao dịch quyền chọn chuyên nghiệp là giao dịch về độ biến động, và đó là khác biệt rất lớn.
+
+### "Giá là một thỏa thuận" giải thích lạm phát 2021–23 tốt hơn chính phần cung cầu của bài
+
+Phần một của bài đưa ra khung chuẩn: giá cân bằng dịch chuyển khi cung dịch chuyển hoặc cầu dịch chuyển. Phần cuối đưa ra một khung khác — giá là một thỏa thuận giữa hai bên, phụ thuộc vào giá trị mỗi bên gán và vào tương quan quyền lực. Bài không nối hai khung này lại, và khung thứ hai hóa ra mạnh hơn.
+
+Trong đợt lạm phát 2021–23, phần lớn tranh luận diễn ra trong khung thứ nhất: đây là cú sốc cung hay cú sốc cầu. Nhưng một hiện tượng quan trọng không diễn đạt được bằng khung đó: ở nhiều nền kinh tế, **biên lợi nhuận đơn vị mở rộng** trong giai đoạn này — Ngân hàng Trung ương châu Âu ước tính lợi nhuận đơn vị đóng góp khoảng một nửa áp lực giá trong nước của khu vực euro năm 2022.
+
+Khung thứ hai giải thích điều này tự nhiên. Việc tăng giá không chỉ tốn chi phí kinh tế mà còn tốn chi phí quan hệ: khách hàng coi việc tăng giá là bất công và có thể bỏ đi. Một cú sốc chi phí được đưa tin rộng rãi sẽ **xóa bỏ chi phí quan hệ đó** — người bán có một lời giải thích mà người mua chấp nhận được. Nói theo ngôn ngữ của bài: cú sốc không dịch chuyển đường cung hay đường cầu mà dịch chuyển **chuẩn mực về mức giá được coi là hợp lý** trong cuộc thỏa thuận.
+
+Điều này giải thích luôn một hiện tượng thực nghiệm lâu đời mà mô hình cung cầu không giải thích được: giá tăng nhanh khi chi phí đầu vào tăng và giảm chậm khi chi phí đầu vào giảm. Sự bất đối xứng đó không nằm ở công nghệ hay ở chi phí biên; nó nằm ở chỗ cần một lý do được chấp nhận để tăng giá, còn để giữ giá thì không cần lý do nào.
+
+### Với Việt Nam: ba mức giá cho cùng một mảnh đất, và cái giá của việc không có giá thật
+
+Câu "nhiều mức giá có thể cùng tồn tại trong một thị trường" mô tả thị trường bất động sản Việt Nam chính xác hơn bất kỳ nơi nào khác trong bài.
+
+Cùng một mảnh đất có thể có ba con số: giá do nhà nước ban hành, giá ghi trên hợp đồng công chứng, và giá thực tế hai bên trả nhau. Trong nhiều năm, con số thứ nhất thấp hơn con số thứ ba rất nhiều, và vì thuế chuyển nhượng tính trên con số ghi trong hợp đồng, cả hai bên đều có lợi ích chung trong việc khai thấp. Luật Đất đai 2024 bỏ khung giá đất và chuyển sang bảng giá đất hằng năm theo nguyên tắc thị trường, tức thừa nhận vấn đề và tấn công vào đúng gốc.
+
+Nhưng hệ quả sâu hơn không phải là thất thu thuế. Đó là **sự phá hủy dữ liệu**. Khi giá ghi nhận chính thức không phải giá thật, thì không tồn tại một chuỗi giá bất động sản đáng tin cho cả nước. Không có chuỗi đó thì không thể tính được chỉ số giá nhà, không thể đánh giá mức độ bong bóng, không thể định giá tài sản bảo đảm của hệ thống ngân hàng một cách độc lập, và không thể xây một sắc thuế tài sản định kỳ. Mỗi hộ gia đình khai thấp một chút, và tổng cộng lại là việc nền kinh tế mất khả năng quan sát chính thị trường lớn nhất của mình.
+
+Nguyên lý tương tự áp dụng cho giá điện được giữ dưới chi phí. Ngoài khoản lỗ mà ngân sách phải gánh, hệ quả ít được nói tới là **giá đó không còn mang thông tin**. Một doanh nghiệp tính toán xem có nên đầu tư thiết bị tiết kiệm năng lượng hay không sẽ so khoản đầu tư với số tiền điện tiết kiệm được — nhưng số tiền đó không phản ánh chi phí thật của việc sản xuất ra điện. Kết quả là toàn bộ nền kinh tế đầu tư dưới mức vào hiệu quả năng lượng, một cách có hệ thống, trong nhiều thập niên. Bài về chính sách cơ cấu trong cùng thư mục này nêu đúng cơ chế đó, nhưng chỉ nhìn ở khía cạnh ngân sách; khía cạnh thông tin còn nặng hơn.

@@ -270,3 +270,77 @@
 > "Free trade, one of the greatest blessings which a government can confer on a people, is in almost every country unpopular." (Thomas B. Macaulay, được trích trong bài)
 
 > "The benefits of trade are diffuse, and its beneficiaries often do not recognize how trade benefits them."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Câu trích của Macaulay là chủ đề thật của bài, và bài đối xử với nó như một lời đùa
+
+"Tự do thương mại, một trong những phúc lành lớn nhất mà một chính phủ có thể ban cho một dân tộc, lại không được lòng dân ở hầu như mọi nước." Câu này viết vào thế kỷ 19, được bài trích lại với một nhận xét nhẹ nhàng rằng hai thế kỷ sau các tranh luận vẫn vang vọng. Rồi bài tiếp tục giải thích lợi thế so sánh.
+
+Nhưng hãy nghiêm túc với chính quan sát đó. Một mệnh đề đã được giải thích liên tục trong hai trăm năm, bởi những người thông minh nhất của ngành, với ví dụ số học ngày càng gọn gàng, mà vẫn không được chấp nhận về mặt chính trị — thì vấn đề **không nằm ở việc giải thích**. Không có bài báo phổ thông nào, kể cả bài này, sẽ thay đổi được điều mà hai thế kỷ tuyên truyền học thuật đã không thay đổi được.
+
+Và bài có sẵn câu trả lời đúng, ở phần cuối, viết rất gọn: lợi ích của thương mại **diễn ra rộng**, còn chi phí thì **tập trung**. Hàng chục triệu người tiêu dùng mỗi người được lợi vài chục đô la một năm và không ai nhận ra; vài nghìn công nhân mỗi người mất toàn bộ thu nhập và biết chính xác vì sao. Nhóm thứ hai có động cơ tổ chức, có địa chỉ, có phiếu bầu tập trung ở một số địa phương; nhóm thứ nhất thì không tồn tại như một nhóm.
+
+Nếu đó là cơ chế — và nó đúng là cơ chế — thì hệ quả logic rất khắc nghiệt: **giáo dục kinh tế học sẽ không bao giờ giải quyết được vấn đề chính trị của thương mại**. Thứ duy nhất giải quyết được nó là thay đổi phân phối, tức thực sự bồi thường cho người thua. Bài chạm tới điều này đúng một lần, ở câu cuối cùng, dưới dạng "các cách giúp đỡ số tương đối ít những người có thể bị ảnh hưởng bất lợi" — một mệnh đề phụ đặt ở vị trí kết luận lịch sự.
+
+Đây là chỗ yếu nhất của toàn bộ lập luận chuẩn mực về thương mại, và không riêng bài này mắc phải. Luận chứng kinh tế học nói rằng người thắng **có thể** bồi thường cho người thua và vẫn còn lãi. Đó là một mệnh đề về khả năng, không phải về thực tế. Trong thực tế, việc bồi thường hầu như không nơi nào được thực hiện ở quy mô tương xứng. Khi phần "có thể" không bao giờ thành hiện thực, thì với người thua, lập luận rằng tổng thể xã hội khá hơn chỉ là một cách nói rằng thiệt hại của họ đã được tính vào và bỏ qua.
+
+### Mệnh đề "số tương đối ít người bị ảnh hưởng bất lợi" là chỗ bài sai rõ nhất
+
+Cụm từ này chứa hai giả định, và cả hai đều đã bị dữ liệu bác bỏ trong thập kỷ sau bài viết.
+
+Giả định thứ nhất là **số lượng ít**. Giả định thứ hai, quan trọng hơn, là **tính tạm thời**: người lao động mất việc ở ngành co lại sẽ chuyển sang ngành mở rộng, nên thiệt hại chỉ là chi phí chuyển tiếp. Toàn bộ mô hình lợi thế so sánh vận hành nhờ giả định thứ hai — chính việc "vốn và lao động chuyển sang các ngành mà chúng được dùng hiệu quả hơn", như bài viết, là cơ chế tạo ra lợi ích.
+
+Nghiên cứu về tác động của cú sốc nhập khẩu lên thị trường lao động địa phương, phần lớn công bố ngay sau bài này, cho kết quả khác hẳn. Các địa phương chịu cạnh tranh nhập khẩu mạnh **không hồi phục sau một chu kỳ**; tỷ lệ có việc làm và mức lương ở đó vẫn thấp hơn sau mười năm và hơn thế nữa. Người lao động không di chuyển sang nơi có việc — họ ở lại, vì nhà cửa, gia đình, mạng lưới xã hội, và vì kỹ năng của họ gắn với ngành chứ không mang đi được. Thiệt hại không phải chi phí chuyển tiếp mà là mất mát vĩnh viễn, tập trung về mặt địa lý.
+
+Điều này có hai hệ quả mà bài không thể rút ra.
+
+Thứ nhất, **con số tổng của lợi ích và con số tổng của chi phí không nằm cùng một chiều thời gian**. Lợi ích là một dòng chảy vĩnh viễn nhỏ cho rất nhiều người; chi phí là một tổn thất lớn và cũng vĩnh viễn cho ít người hơn. Phép trừ vẫn cho kết quả dương, nhưng nó không còn là phép trừ giữa một khoản lãi lâu dài và một khoản lỗ tạm thời như mô hình giả định.
+
+Thứ hai, bài nhận xét rằng các mô hình chuẩn **đánh giá thấp lợi ích** của thương mại vì bỏ qua chuyển giao công nghệ và đa dạng sản phẩm. Đúng. Nhưng cùng các mô hình ấy cũng **đánh giá thấp chi phí điều chỉnh**, vì cùng một lý do đối xứng: chúng giả định lao động dịch chuyển không ma sát. Bài chỉ nêu một nửa của sự bất đối xứng ấy, và đó là nửa có lợi cho kết luận của nó.
+
+### Ví dụ số học chứng minh rằng có một khoản thặng dư, không chứng minh rằng ai nhận được nó
+
+Hộp minh hoạ rất gọn: Nước A hiệu quả hơn ở cả thép lẫn áo, hai nước vẫn giao thương có lợi, và thước đo lợi ích là **một kilôgam thép thêm**.
+
+Nhưng hãy chú ý một con số được đưa vào mà không được giải thích: tỷ lệ trao đổi **2 áo lấy 2,5 kg thép**. Toàn bộ kết luận phụ thuộc vào con số này, và nó không phải một dữ kiện kỹ thuật. Nếu tỷ lệ là 2 áo lấy 3 kg thép thì toàn bộ khoản lợi thuộc về Nước B; nếu là 2 áo lấy 2 kg thép thì toàn bộ thuộc về Nước A. Cùng một công nghệ, cùng một cơ cấu năng suất, phần chia hoàn toàn khác nhau.
+
+Nghĩa là mô hình Ricardo chứng minh rằng **thương mại tạo ra một khoản thặng dư**; nó không nói gì về việc khoản thặng dư đó được chia thế nào. Việc chia phụ thuộc vào tỷ lệ trao đổi, mà tỷ lệ trao đổi là kết quả của sức mạnh mặc cả trên thị trường — quy mô, mức độ tập trung của người mua, khả năng tìm nguồn thay thế.
+
+Đây là điểm rất đáng giữ với một nước đang phát triển. "Có lợi thế so sánh" và "thu được phần lớn lợi ích từ lợi thế so sánh đó" là hai chuyện khác nhau. Một nước xuất khẩu hàng thâm dụng lao động vào một thị trường có vài người mua lớn, với hàng chục nước khác cùng chào bán sản phẩm tương tự, sẽ thấy tỷ lệ trao đổi nghiêng về phía người mua, và phần thặng dư của nó mỏng đi tương ứng. Lợi thế so sánh bảo đảm có giao dịch; nó không bảo đảm giao dịch đó béo bở.
+
+### Danh sách ngoại lệ chỉ có một mục, và nó quá ngắn kể cả theo tiêu chuẩn năm 2009
+
+Bài nêu đúng một ngoại lệ cho lập luận rằng nhập khẩu hàng rẻ hơn luôn làm thế giới khá hơn: "nếu các chi phí sản xuất nước ngoài không bao gồm các chi phí xã hội, như ô nhiễm".
+
+Ngoại lệ này đúng và quan trọng, nhưng danh sách thì thiếu ít nhất ba mục mà đến nay đã trở thành trung tâm của mọi tranh luận thương mại.
+
+**An ninh và khả năng chống chịu.** Một chuỗi cung ứng tối ưu về chi phí và một chuỗi cung ứng chịu được đứt gãy là hai thiết kế khác nhau, và chênh lệch giữa chúng là một khoản bảo hiểm phải trả bằng hiệu quả. Khung của bài không có chỗ cho khái niệm này: nó coi mọi khoản chi vượt trên mức chi phí thấp nhất là lãng phí. Đại dịch và các cú sốc địa chính trị sau đó đã buộc gần như mọi chính phủ lớn phải mua khoản bảo hiểm ấy.
+
+**Học qua làm và ngoại ứng công nghệ.** Nếu một ngành tạo ra tri thức lan toả sang phần còn lại của nền kinh tế, thì lợi thế so sánh **hôm nay** không phải là tiêu chí đúng để quyết định nên làm gì; lợi thế so sánh **có thể tạo ra** mới là. Đây là lập luận cổ điển về ngành non trẻ, bị lạm dụng rất nhiều trong lịch sử nhưng không phải vì thế mà sai về nguyên lý. Đáng chú ý là bài về căn bệnh Hà Lan trong cùng loạt Back to Basics nêu đúng cơ chế này, nhưng không bài nào nhắc tới bài kia.
+
+**Sức mạnh thị trường và sự phụ thuộc bất đối xứng.** Khi một sản phẩm thiết yếu chỉ có một nhà cung cấp trên thế giới, quan hệ thương mại không còn là trao đổi giữa hai bên ngang nhau mà trở thành một đòn bẩy. Kiểm soát xuất khẩu và các biện pháp cưỡng ép kinh tế trong thập niên 2020 đều vận hành trên cơ chế này.
+
+Cả ba mục này không bác bỏ lợi thế so sánh; chúng chỉ ra rằng **tiêu chí tối thiểu hoá chi phí không phải tiêu chí duy nhất**, và rằng một khung phân tích chỉ có một ngoại lệ sẽ không mô tả được thế giới mà nó đang bàn.
+
+### Vòng Doha không chỉ thất bại mà cả định chế chủ trì nó cũng ngừng hoạt động
+
+Bài kết bằng hy vọng vào vòng đàm phán Doha, với ước tính "hàng trăm tỷ đô la lợi ích toàn cầu hằng năm" nếu thành công, và chỉ nêu trở ngại là "một số nhóm đã tìm cách trì hoãn và pha loãng thoả thuận".
+
+Doha chưa bao giờ kết thúc. Nhưng điều quan trọng hơn thất bại của một vòng đàm phán là số phận của định chế mà bài gọi là "cơ quan trọng tài thương mại quốc tế": chức năng xét xử tranh chấp của Tổ chức Thương mại Thế giới đã bị tê liệt từ cuối thập niên 2010 do cơ quan phúc thẩm không còn đủ thành viên. Nghĩa là hệ thống thương mại đa phương mất không chỉ động lực tiến về phía trước mà cả **cơ chế thực thi các cam kết đã có**.
+
+Điều thay thế nó không phải là sự trở về với bảo hộ thuế quan kiểu cũ, mà là một thứ khác mà bài không hề đề cập: **trợ cấp công nghiệp quy mô lớn**. Thuế quan làm hàng nhập đắt lên; trợ cấp làm hàng nội rẻ đi. Hiệu ứng kinh tế tương tự nhưng hình thức chính trị dễ chịu hơn nhiều, vì nó được trình bày như đầu tư cho tương lai chứ không như một hàng rào. Các tài liệu về chiến tranh trợ cấp và về phân mảnh thương mại trong repo mô tả đúng giai đoạn này, và chúng là phần tiếp nối trực tiếp của bài.
+
+Một nhận xét về phương pháp cũng đáng nêu. Con số "hàng trăm tỷ đô la" đến từ các mô hình mà chính bài vừa nói là bỏ qua chuyển giao công nghệ và đa dạng sản phẩm, đồng thời giả định lao động dịch chuyển không ma sát. Những con số như vậy được dùng rất nhiều trong vận động chính sách thương mại, và chúng luôn có một đặc điểm: **phần lợi ích được quy thành một con số duy nhất, còn phần chi phí điều chỉnh thì không có con số nào cả**. Bất đối xứng trong cách trình bày ấy tự nó là một phần của lý do vì sao các con số này thuyết phục được nhà kinh tế và không thuyết phục được cử tri.
+
+### Với Việt Nam: bằng chứng xác nhận mạnh nhất thế giới cho bài này, và ba câu hỏi khó tiếp theo
+
+Cần nói thẳng trước: Việt Nam có lẽ là minh chứng thực nghiệm rõ ràng nhất trên thế giới cho luận điểm trung tâm của bài. Một nước dồi dào lao động, mở cửa thương mại, chuyên môn hoá vào hàng thâm dụng lao động đúng như mệnh đề Heckscher–Ohlin dự đoán, và trong ba mươi năm đạt được một trong những đợt giảm nghèo nhanh nhất lịch sử. Không nhiều lý thuyết kinh tế có một ca kiểm chứng đẹp như vậy.
+
+Chính vì thế ba câu hỏi tiếp theo mới đáng đặt ra nghiêm túc.
+
+**Câu thứ nhất: lợi thế so sánh kế tiếp đến từ đâu?** Logic của chính mệnh đề Heckscher–Ohlin nói rằng lợi thế dựa trên lao động giá rẻ sẽ **tự xói mòn khi thành công**: xuất khẩu tăng, việc làm tăng, lương tăng, và lợi thế chuyển sang nước khác có lương thấp hơn. Đây không phải rủi ro mà là cơ chế được đảm bảo. Khung của bài coi trữ lượng yếu tố là dữ kiện cho trước và không nói gì về việc tạo ra chúng, nhưng đó chính là câu hỏi duy nhất quan trọng ở giai đoạn này: kỹ năng, năng lực công nghệ và chất lượng thể chế là những "trữ lượng yếu tố" **do chính sách tạo ra**, và cửa sổ để tạo ra chúng trùng đúng với giai đoạn lợi thế cũ còn hiệu lực.
+
+**Câu thứ hai: phần thặng dư nằm ở công đoạn nào?** Bài mô tả thương mại như việc trao đổi những hàng hoá hoàn chỉnh giữa các nước, và bổ sung khái niệm thương mại nội ngành. Nhưng thực tế của Việt Nam là **thương mại trong chuỗi giá trị**: nhập linh kiện, lắp ráp, tái xuất. Trong cấu trúc đó, kim ngạch xuất khẩu là con số sai để đánh giá lợi ích — con số đúng là **tỷ trọng giá trị gia tăng trong nước**. Phân tích ở phần trên về tỷ lệ trao đổi áp dụng chính xác ở đây: nắm công đoạn dễ thay thế nhất trong chuỗi đồng nghĩa với việc nhận phần mỏng nhất của thặng dư, bất kể quy mô kim ngạch lớn đến đâu. Đây cũng là điểm mà tài liệu về thương mại và đầu tư ASEAN trong repo nhấn mạnh.
+
+**Câu thứ ba: ai là người thua trong nước, và có ai đang đếm họ không?** Bài đúng khi nói chi phí tập trung và lợi ích phân tán, và điều đó áp dụng cho Việt Nam không kém gì cho các nước nhập khẩu. Các cam kết mở cửa trong các hiệp định thương mại tự do đặt một số nhóm sản xuất trong nước — chăn nuôi, mía đường, một số ngành chế biến — vào thế cạnh tranh trực tiếp với các nhà sản xuất có quy mô và trợ cấp lớn hơn nhiều. Nhóm này nhỏ so với tổng số người hưởng lợi, nhưng tập trung theo địa bàn và theo nghề. Bài học từ kinh nghiệm quốc tế đã nói ở trên là rõ ràng: **giả định rằng họ sẽ tự chuyển sang ngành khác là giả định sai**, và chi phí của việc sai lầm đó không chỉ là kinh tế. Một chương trình hỗ trợ chuyển đổi nghề có địa chỉ cụ thể, làm trước chứ không làm sau, rẻ hơn rất nhiều so với hậu quả của việc bỏ qua.

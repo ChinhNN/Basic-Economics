@@ -584,3 +584,49 @@
 > "A Global Financial Cycle that materializes through common credit supply shocks is an important source of EME spread fluctuations, while common TFP shocks are key to understand the synchronization in the net volume of capital flows."
 
 > "To the best of our knowledge, this is the first evidence that an otherwise canonical small-open-economy framework can reproduce such facts for emerging markets."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Bài này khép lại một cuộc tranh cãi mười năm bằng cách chỉ ra hai phe đang đo hai thứ khác nhau
+
+Từ 2013, tài liệu về dòng vốn chia làm hai phe. Một phe nói tồn tại một Chu kỳ Tài chính Toàn cầu chi phối mọi thứ, nên các nước mới nổi không có bộ ba bất khả thi mà chỉ có một thế lưỡng nan: hoặc kiểm soát vốn, hoặc mất tự chủ tiền tệ kể cả khi thả nổi tỷ giá. Phe kia trưng ra số liệu cho thấy dòng vốn ròng gần như không đồng chuyển động giữa các nước và kết luận rằng chu kỳ toàn cầu đã bị thổi phồng.
+
+Hai con số cạnh nhau trong bảng phân rã phương sai giải quyết xong tranh cãi đó: yếu tố chung giải thích **64% biến động chênh lệch lợi suất nhưng chỉ 8% biến động dòng vốn**. Cả hai phe đều đúng; họ chưa bao giờ nhìn cùng một biến số. **Chu kỳ Tài chính Toàn cầu là một hiện tượng của giá, không phải của lượng.**
+
+Đóng góp này quan trọng hơn vẻ ngoài kỹ thuật của nó vì nó đổi câu hỏi chính sách. Nếu cú sốc toàn cầu đến qua giá chứ không qua lượng thì công cụ kiểm soát lượng — hạn mức, thuế giao dịch, trần vay nước ngoài — đang nhắm vào biên sai. Bài không viết câu đó ra, nhưng số liệu của nó dẫn tới đó. Ngược lại, 90% biến động dòng vốn do yếu tố riêng nghĩa là **lượng vốn vào một nước vẫn nằm trong tầm với của chính sách trong nước**, một kết luận lạc quan hơn nhiều so với giọng điệu thông thường về sự bất lực của các nền kinh tế nhỏ.
+
+### Một đỉnh nhọn trong nhân tố chung tố cáo chính giả định nhận dạng của bài
+
+Bài liệt kê năm đỉnh nhọn của nhân tố chung của chênh lệch lợi suất, và đỉnh thứ hai là **vỡ nợ chính phủ Argentina cuối 2001**. Nhưng ma trận nhận diện áp ràng buộc bằng không đúng ở chỗ này: cú sốc riêng của một nước **không được phép** tác động lên nhân tố chung.
+
+Vỡ nợ của Argentina là cú sốc riêng theo mọi định nghĩa thông thường. Nếu nó vẫn hiện ra thành đỉnh nhọn trong nhân tố chung thì hoặc ràng buộc bằng không bị vi phạm và một phần trong 64% kia thực ra là lây lan từ vài nước lớn, hoặc "yếu tố chung" ở đây thực chất là khẩu vị rủi ro với cả lớp tài sản — thứ mà một vụ vỡ nợ đủ lớn hoàn toàn có thể tự mình làm dịch chuyển. Với mẫu chỉ 12 nước, giả định rằng không nước nào đủ sức lay chuyển nhân tố chung là giả định mạnh và không được kiểm định.
+
+### Thước đo "lượng" là một danh tính kế toán mà một nửa của nó là quyết định chính sách
+
+Đây là điểm cần dè dặt nhất khi trích con số 90%. Vì không có cán cân thanh toán theo tháng, bài dùng biến đại diện *nhập khẩu trừ xuất khẩu cộng thay đổi dự trữ ngoại hối*. Cấu phần thứ hai không phải hành vi của nhà đầu tư mà là **hành vi của ngân hàng trung ương**.
+
+Ở một nước can thiệp tỷ giá có hệ thống — Trung Quốc và Malaysia trong mẫu là ví dụ rõ nhất — thay đổi dự trữ chính là phản ứng nội sinh với đúng cú sốc cung tín dụng mà bài muốn nhận diện: khi cung toàn cầu thắt lại, ngân hàng trung ương bán dự trữ để đỡ tỷ giá, và động tác đó được ghi nhận là một cú sốc. Bài có tách riêng hai cấu phần nhưng dừng ở mô tả chứ không xử lý vấn đề nội sinh. Tương tự, việc nhóm nước có tài khoản tài chính mở cho trung vị −0,12 gần như y hệt toàn mẫu −0,11 được đọc là bằng chứng rằng tương quan thấp không do đóng tài khoản; nhưng một biến lẽ ra phải khác biệt rõ giữa nước mở và nước đóng mà lại **giống nhau tới mức không phân biệt nổi** cũng có thể là dấu hiệu thước đo quá nhiễu để phân biệt bất cứ điều gì.
+
+### Mô hình cấu trúc rơi vào một thế bí ba đường mà bài không gọi tên
+
+Phần mô hình được trình bày như một chuỗi cải tiến, nhưng đọc ba mở rộng cạnh nhau thì thấy mô thức khác: **mô hình khớp được bất kỳ hai trong ba sự thật, không bao giờ được cả ba.**
+
+Phiên bản cơ sở khớp tương quan trong nước (−0,10 so với −0,21) và tương quan chéo của dòng vốn (0,34 so với 0,35), nhưng hụt độ biến động dòng vốn hơn bốn lần ở Brazil (0,73 so với 3,16). Thêm cú sốc rủi ro tín dụng thì khớp được độ biến động, nhưng đầu tư vọt lên 14,30 so với mức thực 5,49 và tương quan chéo sụp còn 0,03. Giải bằng phương pháp toàn cục thì độ biến động tăng gấp đôi, nhưng tương quan chéo vọt lên 0,63, cao gần gấp đôi mức thực 0,35.
+
+Ba lần sửa, ba lần một mô men khác gãy. Điều này gợi ý **cơ chế còn thiếu không phải một cú sốc bổ sung mà là một biên hành vi hoàn toàn vắng mặt** — nhiều khả năng là quyết định danh mục và đòn bẩy của trung gian tài chính, thứ tạo được biến động lớn về lượng mà không cần khuếch đại đầu tư thực. Bài có công khi bác bỏ dứt khoát lối chữa cháy quen thuộc là thêm nhà giao dịch nhiễu: chiến lược vốn bằng không của họ đổi được tỷ giá nhưng không đổi được lượng ròng.
+
+### Trong chính mô hình của bài, Chu kỳ Tài chính Toàn cầu gần như không phân bổ lại vốn
+
+Ba thí nghiệm phản thực, đọc liền nhau, cho kết quả mạnh hơn nhiều so với cách bài phát biểu. Tắt hẳn tương quan cú sốc chênh lệch — tức xoá sổ Chu kỳ Tài chính Toàn cầu khỏi mô hình — chỉ làm tương quan dòng vốn giảm từ 0,34 xuống 0,28 và **không động gì tới tương quan sản lượng**, vẫn 0,30. Thí nghiệm thứ ba còn gắt hơn: hạ tương quan chênh lệch từ 0,65 xuống bằng mức của năng suất là 0,30 thì dòng vốn chỉ nhúc nhích từ 0,34 xuống 0,33.
+
+Nói thẳng: phần đồng chuyển động của chênh lệch **vượt quá** mức đồng bộ hoá của các yếu tố nền tảng — tức phần thuần tuý tài chính — hầu như không có hệ quả phân bổ nào. Nó làm giá dao động nhưng không làm vốn chảy đi đâu khác.
+
+Vậy nó quan trọng ở đâu? Ở chi phí vay và khả năng đảo nợ. Một nước đã vay rồi phải trả lãi cao hơn dù lượng vốn vào không đổi, và tới một ngưỡng thì cửa thị trường đóng lại. Đó đúng là kênh mà tài liệu về tiếp cận thị trường và các đợt phát hành chênh lệch cao trong cùng thư mục này mô tả, và là lý do kết quả "chỉ là giá thôi" không hề vô hại. Nó cũng khớp với cơ chế săn lợi suất trong tài liệu Back to Basics về rủi ro và lợi suất: dòng tiền toàn cầu định giá lại rủi ro trước, rồi mới tính chuyện đi đâu.
+
+### Với Việt Nam: dòng vốn chủ lực lại đúng là dòng ít chịu chu kỳ toàn cầu nhất
+
+Việt Nam không có trong mẫu 12 nước, và nếu có thì biến đại diện sẽ bị chi phối nặng bởi thay đổi dự trữ do chế độ tỷ giá được quản lý — nên các con số không áp thẳng được. Nhưng hai kết quả vẫn đọc được.
+
+Thứ nhất, kiểm chứng tách riêng đầu tư trực tiếp cho kết quả cực đoan nhất trong cả bài: **trung vị 93% biến động là do cú sốc riêng của từng nước.** Với một nền kinh tế mà đầu tư trực tiếp nước ngoài là dòng vốn chủ lực, đây là tin tốt có cơ sở định lượng: cấu phần quan trọng nhất trong tài khoản tài chính của Việt Nam ít bị chu kỳ tài chính toàn cầu chi phối nhất. Mặt trái là không còn chỗ để đổ lỗi cho bên ngoài khi dòng vốn chững lại.
+
+Thứ hai, mặt giá thì ngược hẳn. 64% biến động chênh lệch do yếu tố chung, trong đó hai phần ba là cung, nghĩa là **chi phí vay nước ngoài của Việt Nam phần lớn được định ở nơi khác**. Với một nước mới ở ngưỡng cận đầu tư và thị trường trái phiếu quốc tế còn mỏng, cải thiện kỷ luật tài khoá sẽ dịch được chênh lệch, nhưng chậm và không nhiều trong ngắn hạn; thời điểm phát hành lại quyết định rất nhiều. Điều này nhất quán với thông điệp của tài liệu về lập kế hoạch vay nợ hằng năm và về dễ tổn thương nợ ở các nền kinh tế mới nổi.

@@ -430,3 +430,79 @@
 > "Providing coverage for just one additional vintage below the frontier generates an increase in total emissions."
 
 > "The presence of financial constraints and endogenous entry make the distribution of free permits relevant for the equilibrium allocation."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Đóng góp thật sự: đổi cách hiểu ràng buộc tài chính từ vấn đề về lượng sang vấn đề về loại
+
+Gần như toàn bộ văn liệu về ràng buộc tài chính đọc nó như một bài toán về **lượng**: doanh nghiệp không vay đủ nên vốn ít hơn mức tối ưu, sản lượng thấp hơn, năng suất tổng thể bị kéo xuống vì phân bổ sai. Kết luận tự nhiên là nới ràng buộc thì mọi thứ tốt lên.
+
+Thứ tự ưu tiên công nghệ đổi khung đó. Ràng buộc tài chính ở đây không chỉ làm doanh nghiệp có **ít vốn hơn**, nó làm họ chọn **loại vốn khác**: máy cũ hơn, rẻ hơn, bẩn hơn, vì với một hạn mức vay cố định thì máy rẻ cho phép mua được nhiều đơn vị hơn và tiến gần quy mô tối ưu hơn. Doanh nghiệp bị ràng buộc không phải là bản thu nhỏ của doanh nghiệp không bị ràng buộc; họ là một loại doanh nghiệp khác về chất.
+
+Điều làm mệnh đề này đáng tin hơn một câu chuyện dễ nghe là nó sinh ra một dự đoán rất dễ bị bác bỏ: **đường vốn có hình răng cưa**. Khi doanh nghiệp tích luỹ đủ để nâng cấp lên đời máy tốt hơn, quy mô vốn và sản lượng của họ **tụt xuống một nấc** rồi mới tăng tiếp. Đây không phải là thứ một mô hình dựng ra để khớp số liệu; nó là hệ quả bắt buộc của việc máy tốt đắt hơn. Nếu số liệu vi mô cho thấy doanh nghiệp nâng cấp công nghệ mà quy mô không hề gián đoạn thì cơ chế sai.
+
+Phân bố đời máy cũng có một tính chất bất đối xứng đáng ghi nhớ: khoảng 60% doanh nghiệp không bị ràng buộc **cùng dùng một đời máy**, tạo đỉnh nhọn quanh mức 1,15, và toàn bộ phần còn lại nằm ở **đuôi trái**. Không doanh nghiệp nào dùng đời máy tốt hơn mức tối ưu. Điều đó có nghĩa là toàn bộ "vấn đề công nghệ bẩn" của nền kinh tế tập trung ở một nhóm thiểu số bị ràng buộc, chứ không rải đều — một thông tin quan trọng cho việc nhắm đích chính sách mà bài không khai thác.
+
+Cơ chế này còn sinh ra một hệ quả mà hai tài liệu trong repo cùng chỉ tới nhưng chưa ai nối lại. Tài liệu về rủi ro carbon trong định giá khoản vay ở mục Risk Management cho thấy ngân hàng đang tính rủi ro carbon vào lãi suất, tức **siết tín dụng với doanh nghiệp bẩn**. Ghép điều đó với thứ tự ưu tiên đời máy thì ra một vòng lặp tự khuếch đại: doanh nghiệp bẩn bị siết tín dụng, giá trị ròng giảm, nên theo đúng mệnh đề của bài họ **tụt xuống đời máy còn bẩn hơn**, và bị định giá rủi ro cao hơn nữa ở vòng sau. Nếu cơ chế này có thật thì việc ngân hàng định giá rủi ro khí hậu — vốn được coi là thực hành tốt và đang được khuyến khích trong hướng dẫn giám sát — có thể làm phát thải của đúng nhóm doanh nghiệp bị ràng buộc **tăng lên** chứ không giảm. Đây là một câu hỏi nghiên cứu cụ thể, kiểm chứng được, và chưa ai đặt ra.
+
+### Con số 34,4% phá hỏng chính lý do tồn tại của chính sách tài chính xanh, và bài chỉ nói điều đó bằng giọng nhẹ nhất có thể
+
+Bài mở đầu bằng lập luận kinh tế chính trị quen thuộc: nâng giá carbon khó, nên hãy dùng khu vực tài chính hướng tín dụng vào công nghệ sạch. Ngân hàng Đầu tư châu Âu tài trợ 550 tỷ euro, Ngân hàng Trung ương châu Âu chuẩn bị đưa hệ số khí hậu vào định giá tài sản bảo đảm.
+
+Rồi bài đưa ra con số phá hỏng toàn bộ tiền đề đó: gỡ hoàn toàn ràng buộc tài chính làm phát thải trên đơn vị năng lượng **giảm 2,5%** — đúng là doanh nghiệp nâng cấp lên máy sạch hơn thật — nhưng sản lượng tăng **31,5%**, và tổng phát thải **tăng 34,4%**.
+
+Cấu trúc số học ở đây quan trọng hơn bản thân các con số. Kênh công nghệ mà toàn bộ chính sách tài chính xanh dựa vào có độ lớn **hàng đơn vị phần trăm**, trong khi kênh quy mô có độ lớn **hàng chục phần trăm**. Hai kênh không cùng bậc. Điều đó có nghĩa là bất kỳ chính sách tài chính nào làm doanh nghiệp giàu lên đều sẽ làm phát thải tăng, trừ phi nó ngăn được phần lớn mức tăng sản lượng — mà đó lại chính là thứ không ai muốn ngăn.
+
+Nói thẳng ra: **chính sách tài chính xanh không phải là con đường vòng quanh giá carbon, vì nó tác động lên một chiều khác hẳn với chiều mà bài toán phát thải nằm ở đó.** Bài có phát biểu rằng chính sách này "không nằm trong tổ hợp chính sách tốt nhất", nhưng đó là cách nói của một bài nghiên cứu lịch sự. Số liệu của chính nó nói mạnh hơn nhiều.
+
+### Kết quả nhạy tới mức không thể triển khai, và đó mới là kết luận chính sách thật
+
+Đây là phần có sức nặng thực tiễn lớn nhất của bài, và nó được trình bày như một lưu ý kỹ thuật.
+
+Ba dòng kết quả của chính sách tín dụng xanh cần đọc cạnh nhau. Ngưỡng đặt ở 0 — hỗ trợ mọi đời máy — cho GDP +5,5% và phát thải **+5,0%**. Ngưỡng đặt đúng ở đời máy tiên phong 1,1 cho GDP +4,0% và phát thải **−2,0%**. Ngưỡng lùi xuống 0,99, tức chỉ một đời máy thôi và vẫn là máy khá sạch, cho GDP +5,2% và phát thải **+2,7%**.
+
+Khoảng cách giữa thành công và thất bại là **0,11 đơn vị đời máy**. Và mục tiêu còn di chuyển: khi giá carbon lên 60 euro, doanh nghiệp không bị ràng buộc tự nâng cấp, nên ngưỡng 1,1 trở nên vô dụng và phải siết lên **1,4**.
+
+Ghép hai điều đó lại thì có một kết luận mà bài không bao giờ viết ra: **chính sách tín dụng xanh đòi hỏi cơ quan quản lý phải xác định chính xác đời máy tiên phong trong từng ngành, cập nhật nó mỗi khi giá carbon thay đổi, và từ chối hỗ trợ cho những công nghệ chỉ kém tiên phong một bậc.** Không hệ thống hành chính nào trên thực tế làm được việc đó, vì ba lý do mà bài liệt kê ở chỗ khác mà không nối lại: phân loại xanh phải được đàm phán chính trị nên luôn có xu hướng **nới rộng** chứ không siết; doanh nghiệp bị loại sẽ vận động để được đưa vào; và rủi ro tẩy xanh tồn tại đúng ở biên mà mô hình nói là ranh giới sống còn.
+
+Nói cách khác, sai lầm mà bài chứng minh là chí mạng — nới phạm vi rộng thêm một chút — lại chính là sai lầm mà mọi động lực chính trị đều đẩy về phía đó. Đây là một luận cứ chống lại chính sách tín dụng xanh mạnh hơn nhiều so với bất kỳ câu nào trong bài, và nó được xây hoàn toàn từ số liệu của bài.
+
+### Đánh giá độ tin cậy: kiểm chứng bên ngoài xác nhận ít hơn vẻ ngoài của nó
+
+Phần kiểm chứng bằng cú sốc giá carbon của Känzig được bài trình bày như bằng chứng mạnh nhất, vì đây là mô men **không được nhắm** khi hiệu chuẩn. Doanh nghiệp giá trị ròng cao cắt phát thải thêm 1,5 điểm phần trăm sau ba năm, và mô hình cho con số tương tự.
+
+Cần phân biệt kết quả này xác nhận cái gì. Nó xác nhận rằng **giá trị ròng quyết định khả năng phản ứng với giá carbon** — một mệnh đề quan trọng và không tầm thường. Nhưng nó **không** xác nhận riêng cơ chế đời máy. Bất kỳ mô hình nào trong đó doanh nghiệp giàu hơn điều chỉnh vốn dễ hơn — kể cả mô hình không có lựa chọn công nghệ nào, chỉ có chi phí điều chỉnh vốn — cũng sẽ sinh ra đúng mô men này. Mà chính bài lại dựa vào sự khác biệt giữa "ma sát đầu tư thực" và "ràng buộc tài chính" để lập luận ở chỗ khác. Kiểm chứng ở đây không tách được hai thứ đó.
+
+Ba tham số làm phần lớn công việc định lượng, và cả ba đều mỏng. Thứ nhất, **độ co giãn thay thế giữa vốn và năng lượng đặt ở 0,2**, tức gần như Leontief. Chính tham số này tạo ra kết quả "năng lượng trên sản lượng tăng 4,8% khi gỡ ràng buộc" và qua đó tạo phần lớn tính bi quan của bài. Nếu vốn và năng lượng thay thế được nhiều hơn — điều hoàn toàn có thể đúng với vốn thế hệ mới, vì bản chất của máy mới là dùng ít năng lượng hơn — thì dấu của kênh này có thể đảo. Đây là một mâu thuẫn nội tại đáng chú ý: mô hình vừa giả định máy mới sạch hơn theo đời máy, vừa giả định vốn và năng lượng gần như không thay thế được cho nhau.
+
+Thứ hai, **độ co giãn phát thải theo đời máy 0,27 được mượn từ một nghiên cứu khác rồi hiệu chỉnh lại theo tỷ lệ độ phân tán đời máy** giữa hai bộ dữ liệu. Đây là một thao tác hiệu chuẩn khá tự do cho một tham số nằm ở trung tâm mọi kết quả.
+
+Thứ ba và quan trọng nhất, **Giả định 3 — giá đời máy mới tăng nhanh hơn năng suất của nó, cụ thể tỷ lệ năng suất trên giá giảm 10% mỗi đời — là một giả định, không phải một ước lượng.** Nếu nó sai, toàn bộ thứ tự ưu tiên công nghệ biến mất và mọi doanh nghiệp đều chọn đời máy tốt nhất bất kể giá trị ròng. Bài thừa nhận điều này rồi đi tiếp. Với một kết quả lý thuyết được đặt làm đóng góp trung tâm, đó là một nền móng cần bằng chứng chứ không cần một con số hiệu chuẩn.
+
+Cuối cùng, mô hình là **nền kinh tế nhỏ mở** nhưng phát thải được tính theo cơ sở sản xuất. Kịch bản "gỡ ràng buộc tài chính" làm sản lượng châu Âu tăng 31,5% và số doanh nghiệp mới tăng **252,2%**. Trong một thế giới có cầu hữu hạn, phần sản lượng đó phải đến từ đâu đó — và phát thải bị dịch chuyển sang nơi khác không xuất hiện trong con số 34,4%. Bài kiểm tra rò rỉ carbon rất kỹ ở tầng doanh nghiệp trong phần thực nghiệm nhưng hoàn toàn không xử lý nó trong phần phản thực, nơi độ lớn của vấn đề lớn hơn nhiều.
+
+### Phát hiện về hạn ngạch miễn phí là thứ hữu dụng nhất, và nó mâu thuẫn với cách hệ thống thật phân bổ hạn ngạch
+
+So sánh quyết định của bài rất sắc: giá carbon 60 euro kèm hoàn 50% hạn ngạch cắt **41% phát thải mà không mất sản lượng nào**; giá carbon 53 euro không hoàn cắt cùng 41% nhưng làm **GDP giảm hơn 6%**. Cùng kết quả môi trường, chi phí kinh tế khác hẳn nhau.
+
+Kết quả này đảo ngược một định kiến phổ biến. Cấp phát hạn ngạch miễn phí thường bị chỉ trích là món quà cho doanh nghiệp gây ô nhiễm và là chỗ rò rỉ của hệ thống châu Âu. Bài cho thấy trong một nền kinh tế có ràng buộc tài chính, nó là **thứ làm cho giá carbon trở nên rẻ về mặt sản lượng**, vì nó đưa nguồn thu trở lại bảng cân đối doanh nghiệp, giúp họ thoát hạn mức vay nhanh hơn, và nâng giá trị của việc gia nhập thị trường. Điểm lý thuyết đi kèm cũng đáng ghi nhớ: trong môi trường không ma sát, cách phân bổ hạn ngạch là trung tính; có ma sát tài chính thì nó không còn trung tính nữa.
+
+Nhưng ở đây có một căng thẳng mà bài không đặt lên bàn. Cơ chế của mô hình hoạt động được là vì hạn ngạch miễn phí **nới ràng buộc cho những doanh nghiệp đang bị ràng buộc**. Trong khi đó hệ thống thật phân bổ hạn ngạch **theo phát thải quá khứ** — tức là theo quy mô. Doanh nghiệp phát thải nhiều nhất là doanh nghiệp lớn nhất, mà theo chính phân bố của mô hình, 60% doanh nghiệp lớn không bị ràng buộc và đã dùng đời máy tối ưu rồi. Với họ, hạn ngạch miễn phí là khoản chuyển giao thuần tuý không có tác dụng nới ràng buộc nào.
+
+Nói cách khác, **cách phân bổ tạo ra lợi ích trong mô hình và cách phân bổ đang được dùng trong thực tế là hai thứ gần như ngược nhau.** Kết luận đúng rút ra từ bài không phải "hạn ngạch miễn phí tốt" mà là "hoàn nguồn thu carbon cho doanh nghiệp bị ràng buộc tài chính thì tốt" — và điều đó ủng hộ một thiết kế rất khác: hoàn theo đầu doanh nghiệp, theo lao động, hoặc theo mức độ ràng buộc, chứ không theo phát thải quá khứ.
+
+Thêm vào đó, **phép so sánh quyết định của bài không cân bằng về ngân sách nhà nước.** Ở phương án hoàn 50% hạn ngạch với giá carbon 60 euro, chính phủ từ bỏ một nửa nguồn thu carbon. Ở phương án 53 euro không hoàn, chính phủ giữ toàn bộ. Mức giảm GDP hơn 6% của phương án sau vì thế đang được so với một phương án mà khoản hụt thu **không bị tính chi phí gì cả** — không có thuế bóp méo thay thế, không có khoản chi công bị cắt. Đáng chú ý là chính bài liệt kê "chi phí tài khoá có thể đòi hỏi thuế bóp méo" trong danh sách chi phí triển khai của chính sách **tín dụng** xanh, nhưng không áp cùng chuẩn mực cho chính sách hạn ngạch. Kết quả về hạn ngạch miễn phí vẫn đúng về hướng, nhưng độ lớn của lợi thế gần như chắc chắn bị phóng đại.
+
+Có một câu hỏi đi kèm mà bài không chạy kịch bản. Công thức hoàn gắn khoản hoàn với phát thải, nên nếu đó là phát thải **hiện tại** thì khoản hoàn làm cùn chính biên carbon — và điều đó giải thích vì sao phải nâng giá danh nghĩa lên 60 euro mới đạt mức cắt giảm mà 53 euro không hoàn đã đạt. Nếu vậy thì cơ chế gồm hai phần chồng lên nhau: nới ràng buộc tín dụng, và hạ giá carbon hiệu dụng. Câu hỏi tự nhiên là **một khoản chuyển giao cùng quy mô nhưng không gắn với phát thải có tốt hơn không** — vừa nới ràng buộc như cũ, vừa giữ nguyên biên carbon. Theo logic của chính mô hình thì rất có thể là có.
+
+### Với Việt Nam: bài này cảnh báo trực tiếp một chương trình đang được triển khai
+
+Không có nước nào trong mẫu, nhưng hiếm có tài liệu nào trong repo liên quan trực tiếp đến một chính sách đang chạy ở Việt Nam như bài này. Chương trình tín dụng xanh, danh mục phân loại xanh, và các cơ chế ưu đãi lãi suất cho dự án thân thiện môi trường chính là loại chính sách mà bài mô hình hoá bằng hàm χ(v).
+
+Ba điểm cụ thể.
+
+**Thứ nhất, điều kiện để chính sách tín dụng xanh không phản tác dụng gần như không tồn tại ở Việt Nam.** Mô hình được hiệu chuẩn ở mức giá carbon 30 euro và chỉ ra rằng ngưỡng xanh phải đặt **cao hơn** đời máy mà doanh nghiệp tự nguyện chọn ở mức giá đó. Việt Nam chưa có giá carbon có ràng buộc thực chất, tức là đời máy tiên phong tự nguyện thấp hơn nhiều, nên ngưỡng xanh hữu hiệu sẽ phải đặt rất xa mức thị trường — nghĩa là chương trình sẽ hoặc rất đắt, hoặc bị hạ ngưỡng xuống mức mà mô hình nói là làm phát thải tăng. Đây là lý do thực chất vì sao tín dụng xanh không thay thế được định giá carbon, chứ không phải vì lý do lý thuyết trừu tượng nào.
+
+**Thứ hai, cơ chế của bài dự đoán tương đối rõ đuôi trái của phân bố nằm ở đâu.** Khu vực chế tạo Việt Nam có một nhóm doanh nghiệp FDI lớn tiếp cận được bảng cân đối của công ty mẹ — theo định nghĩa của bài, đây là nhóm **không bị ràng buộc** và do đó đã dùng đời máy gần tối ưu. Nhóm bị ràng buộc là doanh nghiệp tư nhân trong nước quy mô vừa và nhỏ, và theo mô hình thì họ chính là nhóm dùng máy cũ và bẩn. Hệ quả nhắm đích: một chương trình tín dụng xanh ưu tiên dự án lớn, có hồ sơ đẹp, có báo cáo phát thải chuẩn — tức là ưu tiên đúng nhóm FDI và doanh nghiệp lớn — sẽ rót vốn vào chỗ ràng buộc không tồn tại, và bỏ sót chỗ có vấn đề. Đây là cùng một mẫu hình mà tài liệu về phát hành trái phiếu doanh nghiệp trong thư mục này phát hiện ở chiều ngược lại: chính sách tài chính có xu hướng chạm tới doanh nghiệp lớn niêm yết, còn doanh nghiệp bị ràng buộc thật thì nằm ngoài tầm với của mọi công cụ.
+
+**Thứ ba, một điểm khung cần nói thẳng.** Bài đo phát thải theo cơ sở sản xuất, và chỉ tiêu phát thải quốc gia cũng vậy. Nhưng như tài liệu về hàng hoá công toàn cầu trong thư mục Back to Basics đã chỉ ra, khí hậu là hàng hoá công toàn cầu và mức phát thải của một nước chỉ có ý nghĩa trong tổng toàn cầu. Với một nền kinh tế đang trong giai đoạn mà sản lượng công nghiệp còn phải tăng nhiều, việc dùng tổng phát thải làm thước đo thành công của chính sách tài chính sẽ dẫn tới kết luận sai theo đúng cơ chế của bài: **mọi chính sách làm doanh nghiệp lớn lên đều bị chấm là thất bại**. Thước đo đúng cho giai đoạn này là **cường độ phát thải trên đơn vị sản lượng** và tốc độ nâng cấp đời máy, chứ không phải tổng phát thải — và đây cũng là chỗ mà cơ chế xác thực nhất của bài, mức giảm 2,5% phát thải trên đơn vị năng lượng, thực sự nói điều gì đó.

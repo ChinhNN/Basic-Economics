@@ -149,3 +149,63 @@
 > "An inverted yield curve is often seen as a recession predictor, and, until recently, inversions preceded every US economic contraction for the past half century."
 
 > "A yield curve in a well-functioning government bond market not only tells us something about the economy's outlook, but is also a benchmark for pricing other financial assets."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Ba chữ "cho đến gần đây" gánh sức nặng lớn hơn cả phần còn lại của đoạn
+
+Bài viết rằng đường cong đảo ngược thường được xem là dự báo suy thoái, và "cho đến gần đây, mọi lần suy thoái ở Hoa Kỳ trong nửa thế kỷ đều có đảo ngược đi trước". Mệnh đề phụ đó được đặt nhẹ như một chú thích, nhưng nó ghi nhận sự thất bại của chỉ báo nổi tiếng nhất trong tài chính vĩ mô.
+
+Đợt đảo ngược của đường cong lợi suất Hoa Kỳ từ giữa năm 2022 đến giữa năm 2024 là đợt đảo ngược sâu nhất và kéo dài nhất kể từ đầu thập niên 1980. Không có suy thoái nào theo sau. Với một chỉ báo có thành tích gần như hoàn hảo trong năm thập niên, đây không phải một lần trượt bình thường mà là chỉ dấu cho thấy cơ chế sinh ra tín hiệu đã thay đổi.
+
+Bài không giải thích vì sao, dù chính bài có sẵn khái niệm cần thiết: **phần bù kỳ hạn**. Lợi suất dài hạn gồm hai thành phần — kỳ vọng về lãi suất ngắn hạn trung bình trong tương lai, cộng phần bù cho việc phải khóa vốn lâu. Bài chỉ dùng thành phần thứ nhất để giải thích hình dạng đường cong: dốc lên nghĩa là kỳ vọng tăng trưởng và lạm phát cao hơn, đảo ngược nghĩa là kỳ vọng giảm tốc.
+
+Nhưng đường cong cũng đảo ngược nếu **phần bù kỳ hạn bị nén xuống âm**, và đó chính là tình trạng kéo dài suốt thập niên sau khủng hoảng tài chính: các ngân hàng trung ương mua vào khối lượng khổng lồ trái phiếu dài hạn, rút bớt lượng rủi ro kỳ hạn mà thị trường phải hấp thụ, và đẩy phần bù xuống dưới không. Khi lãi suất chính sách được nâng rất nhanh trong khi phần bù vẫn âm, đường cong đảo ngược mà không hàm chứa bất kỳ dự báo suy thoái nào.
+
+Bài học vượt khỏi phạm vi một chỉ báo: **khi một chỉ báo rút gọn hai lực thành một con số, nó chỉ đáng tin chừng nào tỷ lệ giữa hai lực đó còn ổn định**. Chính sách nới lỏng định lượng đã làm thay đổi tỷ lệ ấy, và mọi quy luật thực nghiệm dựa trên hình dạng đường cong cần được đọc lại từ đầu.
+
+### Bảng cân đối của ngân hàng trung ương và các bên mua bắt buộc vắng mặt hoàn toàn, dù chúng quyết định giá
+
+Bài xây dựng toàn bộ lý thuyết định giá trên một nhân vật duy nhất: nhà đầu tư tối đa hóa lợi nhuận, so sánh coupon với chi phí cơ hội và quyết định trả bao nhiêu. Mô hình này gọn và dạy được, nhưng nó bỏ qua phần lớn những người thực sự nắm trái phiếu chính phủ.
+
+**Ngân hàng trung ương** ở nhiều nước là chủ sở hữu lớn nhất trái phiếu chính phủ nước mình sau hơn một thập niên mua tài sản. Họ mua không vì lợi suất mà vì mục tiêu chính sách, và họ bán ra cũng theo lịch trình chính sách. Khi một người mua chiếm tỷ trọng như vậy hành xử không theo giá, khái niệm "lợi suất bằng chi phí cơ hội" mất phần lớn nội dung.
+
+**Ngân hàng thương mại** nắm trái phiếu chính phủ vì quy định: chúng có trọng số rủi ro bằng không trong tính vốn và được tính là tài sản thanh khoản chất lượng cao trong các tỷ lệ an toàn. Một ngân hàng mua trái phiếu để đáp ứng quy định chứ không phải vì thấy lợi suất hấp dẫn.
+
+**Quỹ hưu trí và công ty bảo hiểm** mua trái phiếu dài hạn để khớp kỳ hạn với nghĩa vụ chi trả trong ba bốn chục năm tới. Với họ, trái phiếu 30 năm không phải là khoản đầu tư rủi ro hơn mà là khoản **giảm rủi ro**, vì nó khớp với nghĩa vụ. Điều này giải thích vì sao ở một số thị trường, lợi suất kỳ hạn siêu dài lại thấp hơn kỳ hạn trung — một hiện tượng mà lý thuyết phần bù kỳ hạn của bài không giải thích nổi.
+
+Hệ quả là giá trái phiếu chính phủ ở phần lớn thị trường **không do nhà đầu tư biên tối đa hóa lợi nhuận quyết định**. Đây không phải chi tiết học thuật: nó là lý do vì sao lợi suất trái phiếu chính phủ có thể ở mức thấp một cách khó hiểu trong nhiều năm, và vì sao nó có thể tăng vọt rất nhanh khi cơ cấu người mua thay đổi.
+
+### Bài dạy rất rõ rằng giá và lợi suất đi ngược chiều, rồi không rút ra hệ quả quan trọng nhất
+
+Phần giải thích cơ học là phần tốt nhất của bài. Ví dụ rất sạch: trái phiếu phát hành ở 98 USD, khi chi phí cơ hội giảm từ 7,1% xuống 3%, giá lên 101,95 USD. Người đọc thấy ngay quan hệ nghịch giữa giá và lợi suất.
+
+Nhưng bài không đi bước tiếp theo, và bước đó là bài học đắt giá nhất của ba năm gần đây: **quan hệ nghịch này chạy theo cả hai chiều**. Khi lợi suất tăng, giá trái phiếu đang nắm giữ giảm — và với trái phiếu kỳ hạn dài, mức giảm rất lớn. Trong đợt tăng lãi suất 2022, chỉ số trái phiếu chính phủ dài hạn ở Hoa Kỳ sụt giá mạnh hơn bất kỳ năm nào trong lịch sử được ghi nhận, sâu hơn cả mức sụt của thị trường cổ phiếu cùng năm.
+
+Đây là chỗ khái niệm "tài sản an toàn" gây hiểu lầm nghiêm trọng nhất. Trái phiếu chính phủ Hoa Kỳ an toàn theo nghĩa **không có rủi ro tín dụng**: người nắm giữ chắc chắn nhận đủ gốc và lãi nếu giữ tới đáo hạn. Nó hoàn toàn không an toàn theo nghĩa **rủi ro giá**: người phải bán trước hạn, hoặc phải ghi nhận giá thị trường trên bảng cân đối, có thể lỗ rất nặng.
+
+Sự lẫn lộn giữa hai loại an toàn này chính là nguyên nhân trực tiếp của các vụ đổ vỡ ngân hàng khu vực ở Hoa Kỳ năm 2023: những ngân hàng đó không cầm tài sản rủi ro tín dụng nào đáng kể, họ cầm trái phiếu chính phủ và chứng khoán được bảo lãnh — và chính danh mục "an toàn" đó giết họ khi người gửi tiền rút ra buộc phải bán trước hạn. Một bài nhập môn về trái phiếu xuất bản năm 2025 có đủ mọi công cụ để dạy bài học này trong ba câu, và đã không làm.
+
+### Ví dụ Ukraine là phần sâu sắc nhất của bài, và nó ngầm bác bỏ cách đọc đường cong ở phần trước
+
+Đoạn về Ukraine tháng 3/2014 rất đáng chú ý: đường cong đảo ngược sắc nét không vì thị trường dự báo suy thoái, mà vì thị trường đang định giá **xác suất tái cơ cấu nợ**. Lập luận cụ thể rất đẹp — vì tái cơ cấu sẽ kéo dài kỳ hạn của khoản đến hạn năm 2015 nhiều hơn khoản đến hạn năm 2018, nhà đầu tư đòi lợi suất cao hơn cho khoản ngắn hạn.
+
+Điều đáng nói là đoạn này ngầm phá vỡ cách đọc đường cong ở phần trước đó. Cùng một hình dạng đảo ngược, hai ý nghĩa hoàn toàn khác nhau: ở nước tiên tiến là kỳ vọng lãi suất giảm trong tương lai, ở nước gặp khó khăn nợ là xác suất mất tiền trong tương lai gần. Không có cách nào phân biệt hai ý nghĩa chỉ bằng cách nhìn hình dạng đường cong.
+
+Đây là một nguyên tắc đọc dữ liệu tài chính có giá trị rộng: **một chỉ báo rút gọn không mang ý nghĩa cố định, nó mang ý nghĩa tùy thuộc chế độ vận hành mà nó nằm trong đó**. Muốn dùng đường cong lợi suất, phải biết trước mình đang ở chế độ nào — và điều đó đòi hỏi thông tin nằm ngoài chính đường cong.
+
+Bài đặt hai ví dụ cạnh nhau nhưng không nêu bài học này. Nếu nêu, nó sẽ là điểm giá trị nhất của cả bài, vì đó đúng là loại nhầm lẫn mà người đọc nghiệp dư dễ mắc nhất khi bắt gặp một đồ thị đường cong lợi suất trên báo chí.
+
+### Với Việt Nam: đường cong lợi suất tồn tại nhưng chưa làm được việc mà bài nói là quan trọng nhất
+
+Phần cuối bài nêu hai điều: các nước đang phát triển nên xây thị trường trái phiếu chính phủ nội tệ để giảm rủi ro tỷ giá, và điều kiện cần gồm quản lý nợ vững, khung pháp lý và hạ tầng thị trường, cùng **cơ sở nhà đầu tư trong nước đa dạng**.
+
+Việt Nam đã làm tốt phần đầu. Gần như toàn bộ phát hành trái phiếu chính phủ hiện nay bằng đồng nội tệ, kỳ hạn phát hành đã kéo dài đáng kể so với mười lăm năm trước, và lãi suất huy động của chính phủ ở mức thấp so với quá khứ. Xét theo tiêu chí giảm rủi ro tỷ giá cho khu vực công, đây là một thành tựu thật.
+
+Điều kiện chưa đạt là điều kiện thứ ba. Cơ sở nhà đầu tư trái phiếu chính phủ Việt Nam tập trung ở một nhóm rất hẹp — chủ yếu là quỹ bảo hiểm xã hội và các ngân hàng thương mại — và thanh khoản thị trường thứ cấp mỏng. Cả hai nhóm này đều là người mua mang tính bắt buộc hoặc bán bắt buộc theo nhu cầu quản lý thanh khoản, chứ không phải nhà đầu tư định giá theo kỳ vọng vĩ mô.
+
+Hệ quả chính là điều mà câu kết của bài nêu ra: đường cong lợi suất lẽ ra phải là **chuẩn định giá cho mọi tài sản khác** — vay ngân hàng dài hạn, trái phiếu doanh nghiệp, cho vay mua nhà. Khi đường cong không phản ánh kỳ vọng thị trường mà phản ánh nhu cầu thanh khoản của vài tổ chức, nó không làm được vai trò chuẩn đó.
+
+Và đây là mắt xích nối tới một vấn đề lớn hơn nhiều. Vì không có một chuẩn lợi suất phi rủi ro đáng tin theo từng kỳ hạn, thị trường trái phiếu doanh nghiệp Việt Nam đã không phát triển theo mô hình thông thường — tức là định giá bằng một khoản chênh lệch cộng vào lợi suất chính phủ cùng kỳ hạn, phản ánh rủi ro tín dụng của từng tổ chức phát hành. Thay vào đó, nó phát triển thành một thị trường mà lãi suất được ấn định theo quan hệ và theo mức hấp dẫn cần thiết để bán được cho nhà đầu tư cá nhân, gần như không phân biệt chất lượng tín dụng giữa các tổ chức phát hành. Khi toàn bộ một thị trường trái phiếu được bán ở mức lợi suất gần như nhau bất kể rủi ro, đó là dấu hiệu rằng cơ chế định giá rủi ro không tồn tại — và đợt đổ vỡ trái phiếu doanh nghiệp giai đoạn 2022–2023 là kết quả có thể đoán trước của tình trạng đó.
+
+Nhận định rút ra: với Việt Nam, việc phát triển chiều sâu và tính đa dạng của thị trường trái phiếu chính phủ không phải là một mục tiêu kỹ thuật của cơ quan quản lý nợ, mà là **điều kiện hạ tầng cho toàn bộ hệ thống định giá vốn dài hạn của nền kinh tế**. Nó quyết định liệu doanh nghiệp tốt có vay được rẻ hơn doanh nghiệp xấu hay không — mà đó chính là định nghĩa của một thị trường vốn hoạt động.

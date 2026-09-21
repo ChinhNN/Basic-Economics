@@ -569,3 +569,101 @@
 > "Our results show that the AI matches expert coding with an accuracy exceeding 93 percent."
 
 > "The main constraint on expanding coverage lies not in AI capabilities but in the availability of consistent quarterly macro-fiscal data."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Đóng góp thật không phải con số 0,74 mà là việc một điểm nghẽn bốn mươi năm vừa bị dời chỗ
+
+Số nhân 0,74 ở một năm và 0,67 ở hai năm, như chính bài thừa nhận, nằm gọn trong khoảng mà tài liệu hiện có đã báo cáo. Nếu đọc bài như một bài ước lượng số nhân, nó xác nhận điều đã biết.
+
+Giá trị thật nằm ở chỗ khác. Từ năm 2010, phương pháp tự sự đã là chuẩn vàng để nhận dạng cú sốc tài khoá, và suốt mười lăm năm nó chỉ phủ được vài nước. Lý do không phải là lý thuyết mà là **giờ đọc của chuyên gia**. Mỗi cú sốc đòi hỏi một người có chuyên môn đọc tài liệu gốc, hiểu bối cảnh chính trị, và phán đoán về động cơ. Nguồn lực đó khan hiếm, đắt, và không mở rộng theo quy mô. Đó là lý do tài liệu về truyền dẫn tài khoá gần như là tài liệu về Hoa Kỳ.
+
+Bài này gỡ bỏ đúng ràng buộc đó, và kết quả là 16.029 quan sát nước–quý với 8.636 đợt chi tiêu được xác định, phủ từ 1952 và bao gồm 1.920 quý của các nước thu nhập thấp — một nhóm trước đây gần như vắng mặt hoàn toàn khỏi loại nghiên cứu này.
+
+Câu kết luận của bài về điểm nghẽn mới đáng được đọc kỹ: ràng buộc chính không còn nằm ở năng lực AI mà ở **sự sẵn có của dữ liệu vĩ mô và tài khoá quý nhất quán**. Đây là một sự dời chỗ có hệ quả thực tiễn rất cụ thể cho các nước đang phát triển. Trước đây, muốn biết số nhân chi tiêu của chính nước mình, cần một chương trình nghiên cứu nhiều năm và một nhóm chuyên gia. Bây giờ, cái cần là **một chuỗi số liệu tài khoá và tài khoản quốc gia theo quý đủ dài và đủ nhất quán** — tức là một khoản đầu tư vào cơ quan thống kê, không phải vào viện nghiên cứu. Đó là một thông điệp về ưu tiên ngân sách mà ít ai rút ra từ một bài kinh tế lượng.
+
+### Bài giải đúng bài toán khó nhất của việc dùng mô hình ngôn ngữ trong nghiên cứu, và cách giải nên trở thành chuẩn
+
+Vấn đề trung tâm khi đưa mô hình ngôn ngữ vào một quy trình nghiên cứu kinh tế là mô hình **không tất định**: chạy lại cùng một câu lệnh có thể ra kết quả khác. Kinh tế học đã xây toàn bộ chuẩn mực tái lập quanh dữ liệu và mã lệnh, cả hai đều tĩnh; một bước xử lý không tĩnh phá vỡ chuẩn mực đó.
+
+Cách bài xử lý vấn đề này là phần đáng học nhất, và nó gồm ba động tác.
+
+**Thứ nhất, đo mức độ không tất định thay vì giả định nó nhỏ.** Chạy lại năm mươi mốt lần trên hai mươi báo cáo và báo cáo tỷ trọng mode **riêng cho từng trường đầu ra**. Kết quả cho một thứ hạng rất rõ: hướng của lập trường tài khoá hoàn toàn ổn định, tỷ trọng mode bằng một ở cả hai mươi báo cáo; động cơ thấp hơn một chút; cường độ và độ tin cậy thì phân tán đáng kể.
+
+**Thứ hai, và đây là động tác quyết định: thiết kế lại mô hình kinh tế lượng quanh đúng trường ổn định.** Prompt sinh ra năm trường, trong đó có một thang cường độ từ âm mười tới mười — một thang trông rất hấp dẫn về mặt kinh tế lượng vì nó cho độ lớn chứ không chỉ dấu. Nhóm tác giả **vứt bỏ nó** và chỉ dùng phân loại dấu ba giá trị. Đây là một sự tự kiềm chế đáng kể, và nó được biện minh bằng bằng chứng chứ không bằng trực giác.
+
+Việc bỏ độ lớn lẽ ra sẽ là một tổn thất nghiêm trọng cho việc nhận dạng, và bài giải quyết nó bằng một mẹo kỹ thuật gọn: đặt proxy ở vị trí đầu tiên trong VAR, để **phản ứng đồng thời của chi tiêu thực hiện tự ghim thang đo** của cú sốc cấu trúc. Nói cách khác, độ lớn được lấy từ dữ liệu chi tiêu thật chứ không từ phán đoán của mô hình ngôn ngữ. Mô hình ngôn ngữ chỉ làm đúng việc nó làm đáng tin cậy — nói hướng — còn dữ liệu làm phần còn lại.
+
+**Thứ ba, giữ lại trích đoạn nguyên văn kích hoạt mỗi phân loại và công bố cùng chuỗi đã mã hoá.** Điều này quan trọng hơn vẻ ngoài thủ tục của nó, vì nó là giải pháp duy nhất cho một vấn đề chưa ai giải được: GPT-4.1 sẽ bị ngừng phục vụ trong vài năm. Khi đó câu lệnh vẫn còn nhưng công cụ thì không, và không ai chạy lại được. Nhưng nếu có trích đoạn nguyên văn, một nhà nghiên cứu tương lai vẫn **kiểm tra được bằng tay** rằng phân loại đó có hợp lý hay không, kể cả khi mô hình đã biến mất.
+
+Ba động tác này nên trở thành quy trình chuẩn cho mọi nghiên cứu dùng mô hình ngôn ngữ làm bước xử lý dữ liệu: đo độ tái lặp theo từng trường, chỉ dùng trường nào đủ ổn định, và lưu bằng chứng văn bản để kiểm chứng được sau khi công cụ đã lỗi thời.
+
+### Hai lỗi thật của mô hình có cùng bản chất, và nó mô tả chính xác giới hạn hiện nay của công cụ
+
+Con số 93% gây ấn tượng, nhưng hai lỗi được xác định thì thông tin hơn nhiều, vì chúng cùng một loại.
+
+Ở trường hợp Hàn Quốc, mô hình bỏ sót một gợi ý động cơ chính trị rõ ràng trong văn bản. Ở trường hợp Hoa Kỳ, mô hình **liệt kê đúng từng biện pháp** nhưng rồi suy ra lập trường tổng thể từ một nhận xét về thâm hụt tăng và gán sai dấu cho hiệu ứng ròng.
+
+Cả hai đều không phải lỗi đọc hiểu. Chúng là lỗi ở bước **tổng hợp nhiều dữ kiện thành một phán đoán tổng thể** — bước đòi hỏi giữ vài sự kiện mâu thuẫn trong đầu cùng lúc và cân chúng với nhau. Bài cũng nói rằng phần lớn các "bất đồng" khác với chuyên gia đều nảy sinh ở những báo cáo mô tả đồng thời cả biện pháp mở rộng lẫn thắt chặt, tức là đúng những trường hợp cần cân.
+
+Điều này khớp chính xác với kết quả về độ tái lặp: **trích xuất thì ổn định, đánh giá thì không**. Hai bằng chứng độc lập, cùng một kết luận. Và kết luận đó là mô tả tốt nhất hiện có về vị trí của mô hình ngôn ngữ trong một quy trình nghiên cứu: dùng nó để tìm và trích, đừng dùng nó để kết luận.
+
+Cần thêm một cảnh báo về chính con số 93% mà bài không nêu. Phép kiểm chứng được thực hiện trên 200 báo cáo thuộc **các đợt căng thẳng tài chính** ở 19 nước. Đó là những giai đoạn mà chính sách tài khoá được bàn nhiều nhất, được nêu động cơ rõ nhất và được viết rành mạch nhất trong báo cáo. Nhưng phần lớn trong số 16.029 quan sát của bộ dữ liệu là những quý bình thường, nơi văn bản mờ nhạt hơn và động cơ ít khi được nêu thẳng. Độ chính xác trên mẫu ứng dụng vì vậy nhiều khả năng **thấp hơn** độ chính xác trên mẫu kiểm chứng, và ta không biết thấp hơn bao nhiêu. Mẫu kiểm chứng không đại diện cho mẫu ứng dụng — đây là hạn chế đáng kể và không khó khắc phục, chỉ cần lấy một mẫu ngẫu nhiên các quý bình thường và cho chuyên gia đọc song song.
+
+### Phép kiểm tra tính không dự đoán được có hai cách đọc, và bài chỉ trình bày cách có lợi cho mình
+
+Toàn bộ khả năng diễn giải nhân quả của bài phụ thuộc vào một phép kiểm tra: cú sốc có dự báo được bằng các chỉ báo vĩ mô trễ hay không. Kết quả ở tần suất quý là yên tâm — yếu tố dự báo vững duy nhất là chính độ trễ của cú sốc, hệ số của nợ trên GDP, chênh lệch sản lượng và tăng trưởng GDP đều không phân biệt được với không, và R² không quá 0,1.
+
+Nhưng khi gộp cùng những cú sốc đó lên tần suất năm, tính dự đoán được **tăng rõ rệt**: R² lên 0,125, và nợ trên GDP trễ cùng tăng trưởng GDP trễ trở thành yếu tố dự báo có ý nghĩa thống kê.
+
+Bài diễn giải điều này theo hướng có lợi: dữ liệu tần suất cao sạch hơn, và thông tin hệ thống về điều kiện vĩ mô dễ lộ ra hơn khi nhìn ở tần suất năm. Cách đọc này có thể đúng.
+
+Nhưng có một cách đọc thứ hai không được nêu và cũng phù hợp với cùng số liệu: dữ liệu quý có **tỷ lệ tín hiệu trên nhiễu thấp hơn**, nên tính dự đoán được có hệ thống **khó phát hiện hơn**, chứ không phải không tồn tại. Cùng những hành động chính sách ấy, nhìn ở một tần suất thì trông ngoại sinh, nhìn ở tần suất khác thì trông nội sinh. Không thể vừa là một vừa là kia.
+
+Đây là sự khác biệt giữa "không bác bỏ được giả thuyết không dự đoán được" và "đã chứng minh là không dự đoán được", và trong bối cảnh này nó không phải một chi tiết học thuật. Nếu cách đọc thứ hai đúng, các số nhân quý đang bị nhiễm nội sinh nhiều hơn vẻ ngoài của chúng, và phần chênh lệch giữa ước lượng quý và ước lượng năm — vốn được bài trình bày như bằng chứng về thiên lệch của dữ liệu năm — có thể mang cả dấu vết của vấn đề ngược lại.
+
+### Kết quả quan trọng nhất nằm ở mục cuối cùng và nó không phải một kết quả về chính sách tài khoá
+
+Bài dành phần lớn dung lượng cho phương pháp và cho các quy luật liên quốc gia quen thuộc. Nhưng kết quả có sức nặng lớn nhất nằm ở mục về ủng hộ chính trị, và nó lớn hơn mọi kết quả khác theo đúng nghĩa số học.
+
+Trong môi trường chính trị thuận lợi, số nhân khoảng 1,0 tới 1,1. Dưới ủng hộ bất lợi, số nhân **gần bằng không**. Khoảng biến thiên này lớn hơn khoảng biến thiên theo độ mở thương mại, theo chế độ tỷ giá, theo mức phi chính thức, theo linh hoạt lao động, theo trạng thái chu kỳ và theo bất định — tức là lớn hơn mọi chiều khác mà bài kiểm tra.
+
+Và cơ chế đã được nhận dạng, không phải suy đoán: nó chạy qua **kênh thực hiện**. Chênh lệch nằm ở phản ứng của chi tiêu thực hiện, không ở phản ứng của sản lượng trên mỗi đồng chi. Ủng hộ chính trị làm tăng khả năng những hành động đã công bố hay đã lập pháp **thực sự được chi ra và duy trì**.
+
+Điều này đặt lại toàn bộ cuộc tranh luận về số nhân. Câu hỏi thông thường là "một đồng chi thêm tạo ra bao nhiêu đồng sản lượng" — một câu hỏi về phía cầu, về độ dốc của đường IS, về rò rỉ nhập khẩu và về phản ứng của chính sách tiền tệ. Kết quả này nói rằng một phần rất lớn của sự khác biệt giữa các nước đến từ một câu hỏi **đứng trước** câu hỏi đó: đồng tiền đã công bố có thực sự được chi ra hay không. Đó là một câu hỏi về hành chính công và kinh tế chính trị, không phải về kinh tế vĩ mô.
+
+Kết quả về bầu cử còn sắc hơn và có dấu phản trực giác: bầu cử sắp tới gắn với truyền dẫn chi tiêu **yếu hơn hẳn**, với độ lớn gần như triệt tiêu toàn bộ lợi thế mà ủng hộ chính trị mang lại. Điều này trái với trực giác về chu kỳ kinh doanh chính trị, vốn nói rằng chính phủ chi nhiều hơn trước bầu cử.
+
+Bài không hoà giải hai điều này, nhưng lời hoà giải nằm sẵn trong thiết kế của chính nó. Các cú sốc ở đây được sàng lọc để **ngoại sinh theo động cơ**: chúng là những biện pháp vì mục tiêu dài hạn hoặc vì mất cân đối thừa kế. Chi tiêu vì bầu cử, theo định nghĩa, có động cơ gắn với điều kiện chính trị ngắn hạn và phần lớn đã bị loại khỏi mẫu. Vậy kết quả không nói "chính phủ chi ít hơn trước bầu cử". Nó nói một điều cụ thể và hữu ích hơn nhiều: **các chương trình chi tiêu mang tính cơ cấu, không theo chu kỳ, bị đình lại khi bầu cử tới gần**. Cải cách và đầu tư dài hạn nhường chỗ cho những thứ khác.
+
+### Một bất đối xứng mô tả bị bỏ phí, và nó gợi ý phần mở rộng tự nhiên nhất của bài
+
+Thống kê mô tả cho thấy mở rộng và thắt chặt **không phải hình ảnh phản chiếu của nhau**. Gần 60% các đợt mở rộng là tăng đầu tư công, đặc biệt hạ tầng và dự án vốn. Hơn hai phần ba các đợt thắt chặt là biện pháp củng cố rõ ràng như kìm hãm chi tiêu và giảm thâm hụt.
+
+Đây là một quan sát quan trọng và nó mâu thuẫn ngầm với đặc tả kinh tế lượng của chính bài. Mô hình VAR ước lượng một phản ứng tuyến tính và đối xứng theo dấu: một cú sốc âm được giả định có tác động bằng và ngược chiều với một cú sốc dương. Nhưng nếu cú sốc dương chủ yếu là **chi đầu tư** còn cú sốc âm chủ yếu là **cắt chi thường xuyên trên diện rộng**, thì hai loại này khác nhau về bản chất kinh tế, không chỉ về dấu.
+
+Chi đầu tư công có một thành phần phía cung mà chi thường xuyên không có: nó tạo ra tài sản hạ tầng làm tăng năng lực sản xuất về sau. Theo lý thuyết, số nhân của nó phải lớn hơn và phải tích luỹ ở kỳ hạn dài hơn, chứ không đạt đỉnh rồi giảm trong hai năm. Một số nhân đối xứng duy nhất đang lấy trung bình của hai đối tượng kinh tế khác nhau, và không ai biết trung bình đó nằm gần cái nào.
+
+Phần mở rộng tự nhiên nhất, và bài không nêu trong ba hướng nghiên cứu tiếp theo của mình, là **kiểm định bất đối xứng theo dấu**. Dữ liệu đã có sẵn: 4.374 đợt mở rộng và 4.262 đợt thắt chặt, gần như cân bằng hoàn hảo, và trường động cơ cùng trường thành phần chi tiêu đã được mã hoá sẵn trong chính prompt.
+
+Điều này đặc biệt quan trọng với nhóm thu nhập thấp, nơi 60,7% các hành động là mở rộng và phần lớn trong số đó là đầu tư hạ tầng. Nghĩa là với nhóm nước này, cái mà bài gọi là "số nhân chi tiêu" trên thực tế gần với **hiệu quả của đầu tư công** hơn là với số nhân Keynes cổ điển. Và hiệu quả của đầu tư công thì phụ thuộc vào chất lượng lựa chọn dự án, chất lượng thẩm định và mức thất thoát trong thi công — đúng những vấn đề được bàn trong các tài liệu về đầu tư công và nợ công ở thư mục khác của kho này. Hai dòng nghiên cứu đang nói về cùng một hiện tượng bằng hai ngôn ngữ khác nhau.
+
+### Với Việt Nam: các quy luật liên quốc gia kéo ngược nhau, nhưng kênh thực hiện thì không mơ hồ
+
+Chiếu các đặc điểm cơ cấu của Việt Nam vào bảng phân nhóm của bài cho một kết quả mâu thuẫn, và sự mâu thuẫn đó tự nó là thông tin.
+
+**Độ mở thương mại kéo số nhân xuống rất mạnh.** Đây là khoảng cách lớn nhất trong toàn bộ bảng: 1,425 cho nền kinh tế tương đối đóng so với 0,558 cho nền kinh tế mở. Việt Nam thuộc nhóm có tỷ lệ thương mại trên GDP cao nhất thế giới, nên theo quy luật rò rỉ nhập khẩu, một phần lớn của cầu thêm sẽ chảy ra nước ngoài thay vì kích hoạt sản xuất trong nước.
+
+**Chế độ tỷ giá kéo số nhân lên.** Với tỷ giá được neo hoặc ổn định hoá, số nhân là 1,104 so với 0,715 của chế độ thả nổi, vì chính sách tiền tệ không phản ứng bù trừ bằng cách để đồng tiền lên giá.
+
+**Mức phi chính thức kéo số nhân xuống**, từ 1,173 xuống 0,788, và đây là chiều mà Việt Nam nằm ở phía bất lợi với một khu vực phi chính thức chiếm tỷ trọng đáng kể trong việc làm.
+
+Ba lực này không cùng chiều, nên không rút ra được một dự đoán gọn gàng từ các quy luật nhóm. Kết luận trung thực là **ước lượng riêng cho từng nước quan trọng hơn trung bình nhóm**, và khoảng tứ phân vị trải từ 0 tới 1,5 trong mỗi nhóm mà bài báo cáo chính là bằng chứng cho điều đó.
+
+Nhưng kênh thực hiện thì không mơ hồ chút nào, và đây là chỗ bài chạm trực tiếp vào một vấn đề được thảo luận công khai ở Việt Nam suốt nhiều năm. Vấn đề thường trực của các gói kích thích và các chương trình đầu tư công ở đây **không phải là tiền chi ra không có tác dụng, mà là tiền không chi ra được**: giải ngân chậm, vốn được bố trí nhưng không tiêu hết, dự án kéo dài qua nhiều năm kế hoạch.
+
+Theo đúng kết quả của bài, đó chính là tình huống số nhân gần bằng không — không phải vì nền kinh tế không phản ứng, mà vì cú sốc không bao giờ thực sự xảy ra. Và nếu sửa được kênh thực hiện có thể nâng số nhân hữu hiệu từ gần không lên khoảng một, thì **lợi ích của việc sửa bộ máy giải ngân lớn hơn lợi ích của việc tăng quy mô gói**. Một gói lớn gấp đôi mà giải ngân được một nửa thì bằng một gói bình thường giải ngân đủ, nhưng tốn gấp đôi dư địa tài khoá.
+
+Điều này nối thẳng với phân tích về công nghệ trong quản lý tài chính công ở cùng thư mục, nơi điểm nghẽn được mô tả cụ thể tới từng bước — nghiệm thu khối lượng, xác nhận tiến độ, hoàn thiện hồ sơ thanh toán — và nơi chỉ 86 trên 193 nước có hệ thống số hoá cho quản lý đầu tư công. Hai tài liệu tiếp cận từ hai phía hoàn toàn khác nhau, một bên là kinh tế lượng vĩ mô và một bên là quản trị công, và cùng chỉ vào một kết luận: **ở nhiều nước, biến số quyết định hiệu lực của chính sách tài khoá không nằm trong mô hình vĩ mô mà nằm trong quy trình hành chính**.
+
+Cuối cùng, một hàm ý về đầu tư thống kê. Bài nói rõ ràng buộc để mở rộng phạm vi không phải AI mà là dữ liệu vĩ mô và tài khoá quý nhất quán. Một nước muốn có ước lượng số nhân của riêng mình — thay vì mượn con số trung bình của một nhóm mà mình chỉ giống một phần — cần trước hết một chuỗi tài khoản quốc gia và số liệu tài khoá theo quý, đủ dài và không bị đứt gãy phương pháp. Khoản đầu tư đó phục vụ mọi mục đích khác, và giờ đây nó còn là điều kiện để trả lời một câu hỏi mà trước đây chỉ vài nước giàu mới trả lời được.

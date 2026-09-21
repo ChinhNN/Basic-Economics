@@ -234,3 +234,61 @@
 > "Code can enforce a rule. It cannot bear responsibility for the rule being wrong."
 
 > "Atomic settlement removes counterparty risk and, with it, the netting that made the system liquid."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Nghịch lý thanh khoản không phải một chi tiết, nó là kết luận thật của bài
+
+Trong toàn bộ cuộc thảo luận toàn cầu về token hoá, quyết toán nguyên tử luôn được trình bày như một sự cải thiện thuần tuý: rủi ro đối tác biến mất, không ai mất gì. Bài này đưa ra con số phá vỡ cách kể đó — bù trừ đa phương của đối tác bù trừ trung tâm giảm nhu cầu thanh khoản tới khoảng chín mươi phần trăm ở một số thị trường — rồi đặt nó vào một hộp và đi tiếp.
+
+Hãy nhìn kỹ vào phép đánh đổi. Bù trừ đa phương hoạt động được **chính vì** có một khoảng chờ giữa khớp lệnh và quyết toán: trong khoảng đó, các nghĩa vụ chồng chéo được gộp lại, và chỉ phần ròng mới cần tiền thật. Quyết toán nguyên tử loại bỏ khoảng chờ đó theo định nghĩa. Không thể vừa quyết toán tức thời từng giao dịch vừa bù trừ chúng với nhau — hai điều này loại trừ nhau về mặt logic, không phải về mặt kỹ thuật.
+
+Nghĩa là token hoá không loại bỏ rủi ro. Nó **đổi một loại rủi ro lấy một loại khác**: đổi rủi ro đối tác lấy rủi ro thanh khoản. Và hai loại này có tính chất rất khác nhau. Rủi ro đối tác mang tính riêng lẻ, xảy ra hiếm, thường chỉ liên quan một bên, và đã có bộ công cụ trưởng thành để xử lý là ký quỹ và quỹ vỡ nợ. Rủi ro thanh khoản thì mang tính hệ thống, và nó bùng lên **đúng vào lúc căng thẳng, khi mọi người cùng cần tiền mặt một lúc**.
+
+Đặt như vậy thì phép đổi có vẻ đi sai hướng đối với ổn định tài chính. Một hệ thống cần gấp mười lần lượng thanh khoản sẵn sàng, và cần nó ngay lập tức, là một hệ thống mong manh hơn trước cú sốc chung dù nó bền hơn trước cú sốc riêng lẻ. Nếu phải chọn một câu để mang ra khỏi tài liệu này, nên là câu đó, chứ không phải câu về việc hạ tầng nào sẽ biến mất.
+
+### Bảng tổng kết bốn hạ tầng cho một tỷ số khiêm tốn hơn nhiều so với giọng điệu chung của ngành
+
+Đọc bảng như một bảng điểm: trong bốn loại hạ tầng, chỉ **một** bị thay thế rõ ràng. Trung tâm lưu ký giữ lại chức năng bảo đảm tính toàn vẹn phát hành vì cần một pháp nhân chịu trách nhiệm. Đối tác bù trừ trung tâm giữ lại phái sinh dài hạn, bù trừ đa phương và quản lý vỡ nợ. Kho dữ liệu giao dịch chỉ dư thừa nếu cơ quan quản lý vừa có quyền truy cập được bảo đảm về pháp lý vừa có năng lực diễn giải dữ liệu thô — hai điều kiện không tự nhiên mà có. Chỉ hệ thống quyết toán chứng khoán là bị thay thế thật.
+
+Điều làm tỷ số này còn khiêm tốn hơn là **chức năng bị thay thế cũng chính là chức năng đã được cải thiện gần hết bằng cách thông thường**. Chu kỳ quyết toán đã rút từ ba ngày xuống hai ngày rồi xuống một ngày ở các thị trường lớn, bằng quy trình và tự động hoá, không cần sổ cái phân tán nào. Phần lợi ích còn lại — đi từ một ngày xuống tức thời — là phần nhỏ nhất và khó nhất của con đường, đồng thời là phần phải trả giá bằng toàn bộ lợi ích bù trừ.
+
+Nói cách khác, lập luận kinh tế cho việc token hoá quyết toán chứng khoán ở một thị trường đã đạt chu kỳ ngắn là yếu hơn nhiều so với mức mà cuộc thảo luận công khai gợi ý. Lập luận mạnh hơn nằm ở chỗ khác — ở khả năng kết hợp các tài sản chưa từng được số hoá, ở việc đưa tài sản không có thị trường thứ cấp vào một hạ tầng có thị trường — nhưng đó là lập luận về **mở rộng phạm vi tài sản**, không phải về hiệu quả quyết toán, và bài không đi theo hướng này.
+
+### "Mã lệnh không thể chịu trách nhiệm" là nguyên lý bền nhất, và nó có một hệ quả tài khoá
+
+Câu "mã lệnh có thể thực thi một quy tắc, nhưng không thể chịu trách nhiệm về việc quy tắc đó sai" là phát biểu gọn nhất về giới hạn của tự động hoá trong tài chính, và nó sẽ còn đúng bất kể công nghệ nào xuất hiện tiếp theo.
+
+Lý do nó đúng không phải là triết học mà là kế toán. Chịu trách nhiệm nghĩa là **có vốn để mất**. Một pháp nhân được cấp phép chịu trách nhiệm vì nó có vốn chủ sở hữu, có quỹ vỡ nợ, có bảo hiểm, và những thứ đó có thể bị lấy đi để bù tổn thất. Một đoạn mã không có bảng cân đối kế toán.
+
+Hệ quả mà bài không rút ra: khi một hệ thống tự động hoá việc thực thi mà không chỉ định một pháp nhân có vốn chịu trách nhiệm, rủi ro không biến mất — nó trở thành **rủi ro chưa được phân bổ**. Và rủi ro chưa được phân bổ trong một hệ thống có tầm quan trọng hệ thống luôn rơi về một nơi duy nhất khi sự cố xảy ra: khu vực công. Nói cách khác, một hạ tầng token hoá không có pháp nhân chịu trách nhiệm thì ngân sách nhà nước là đối tác bù trừ trung tâm mặc định của nó, chỉ là không ai ký hợp đồng và không ai thu phí.
+
+Đây là lý do khái niệm hạ tầng lai mà bài đề xuất không phải một thoả hiệp nửa vời mà là kết luận đúng: phần kỹ thuật tự động hoá được thì nên tự động hoá, nhưng phần chịu trách nhiệm phải có tên và có vốn. Nó cũng giải thích vì sao chiều thứ tư trong khung quản trị — ai chịu trách nhiệm khi có sự cố — là chiều yếu nhất trong mọi thiết kế phi tập trung: đó không phải sơ suất thiết kế mà là hệ quả trực tiếp của việc phi tập trung hoá.
+
+### Nút bấm dừng là một mâu thuẫn tự thân mà bài nêu ra nhưng không giải
+
+Bài ghi nhận rằng hệ thống token hoá mất khả năng bấm dừng mà hệ thống hiện tại vẫn có, và đề xuất thiết kế sẵn cơ chế ngắt mạch vào giao thức. Đề xuất này đúng hướng nhưng va vào hai vấn đề mà bài không xử lý.
+
+Vấn đề thứ nhất là **cơ chế ngắt mạch tự động phải được kích hoạt bởi một quy tắc**, mà tình huống cần bấm dừng nhất lại thường là tình huống nằm ngoài mọi quy tắc đã viết. Ngắt mạch theo biến động giá bắt được đợt bán tháo nhưng không bắt được một lỗi lập trình đang âm thầm tạo ra các bút toán sai vẫn nằm trong biên độ bình thường. Chính khả năng phán đoán ngoài quy tắc mới là giá trị của nút dừng thủ công.
+
+Vấn đề thứ hai nghiêm trọng hơn: **ai giữ chìa khoá dừng thì người đó nắm quyền lực lớn nhất trong hệ thống**. Quyền dừng là quyền quyết định giao dịch nào hoàn tất và giao dịch nào không, tại thời điểm giá trị của quyết định đó cao nhất. Một hệ thống được quảng bá là phi tập trung nhưng có một chìa khoá dừng thì trên thực tế đã tập trung, chỉ là tập trung ở một điểm ít ai nhìn vào.
+
+Hai vấn đề này gộp lại cho một kết luận thực tiễn: nút dừng nên được coi là một **thẩm quyền công**, giao cho cơ quan quản lý với quy trình và điều kiện được luật hoá, chứ không phải một tính năng kỹ thuật do bên vận hành sổ cái tự thiết kế. Bài đi rất gần kết luận này khi nói rằng các Nguyên tắc dành cho Hạ tầng Thị trường Tài chính vẫn áp dụng được nhưng cần diễn giải lại, mà không nói cụ thể phần nào cần diễn giải lại nhất. Phần đó chính là phần này.
+
+### Phân tích rủi ro theo giai đoạn là phần hữu dụng nhất, và nó ngầm phê phán chiến lược mà mọi thị trường đang theo
+
+Nhận định rằng giai đoạn nguy hiểm nhất không phải điểm đầu hay điểm cuối mà là giai đoạn giữa — khi hai hệ thống cùng tồn tại ở quy mô đáng kể — là phần có giá trị vận hành cao nhất của bài, và nó dẫn tới một hệ quả mà bài không nói ra.
+
+Nếu giai đoạn song song là giai đoạn nguy hiểm, thì **chiến lược tệ nhất là một cuộc di chuyển chậm rãi, từng phần và tự nguyện** — vì nó kéo dài đúng giai đoạn nguy hiểm đó, có thể là hàng chục năm. Một cuộc chuyển đổi nhanh và bắt buộc an toàn hơn về lý thuyết. Nhưng không thị trường nào sẽ làm vậy, vì chi phí chính trị và chi phí chuyển đổi của các tổ chức hiện hữu quá lớn, và vì không ai muốn bắt buộc một công nghệ chưa được chứng minh ở quy mô.
+
+Nên dự báo thực tế là: giai đoạn hai sẽ rất dài. Và nếu vậy, ưu tiên quản lý trong một thập kỷ tới không phải là chọn kiến trúc sổ cái nào — câu hỏi mà phần lớn cuộc thảo luận đang xoay quanh — mà là **giám sát cầu nối như hạ tầng có tầm quan trọng hệ thống**. Cầu nối giữa các sổ cái là nơi thanh khoản phân mảnh gặp nhau, là nơi lịch sử đã cho thấy các vụ tấn công lớn nhất xảy ra, và là nơi không có khung giám sát nào đang áp dụng. Nó không hấp dẫn bằng việc tranh luận về sổ cái đơn nhất, nhưng nó là nơi rủi ro thật sẽ nằm trong suốt thời gian đó.
+
+### Với Việt Nam: bài này nói rằng đừng bỏ qua bước đang xây dở
+
+Với một thị trường đang xây dựng cơ chế đối tác bù trừ trung tâm cho thị trường chứng khoán, tài liệu này đưa ra một thông điệp cụ thể hơn nhiều so với vẻ ngoài lý thuyết của nó.
+
+Thông điệp đó là: **đối tác bù trừ trung tâm là hạ tầng mà token hoá không thay thế được**, và nó cũng là hạ tầng tạo ra lợi ích thanh khoản lớn nhất. Trong một thị trường có quy mô vốn hạn chế và nơi yêu cầu ký quỹ trước giao dịch là rào cản thực sự với nhà đầu tư tổ chức nước ngoài, lợi ích bù trừ đa phương không phải một tiện ích kỹ thuật mà là **chính thứ giải phóng vốn đang bị giam**. Bài này nói rằng nếu chọn quyết toán nguyên tử thay cho bù trừ, lợi ích đó sẽ mất đi. Với một thị trường thiếu thanh khoản, đó là phép đổi sai hướng nhất có thể.
+
+Hệ quả thứ tự ưu tiên: hoàn thành cơ chế bù trừ trung tâm trước, và coi token hoá là lớp có thể thêm vào sau, chứ không phải con đường tắt để nhảy qua bước đó. Lập luận rằng có thể bỏ qua thế hệ hạ tầng cũ để đi thẳng lên công nghệ mới — vốn đúng trong nhiều trường hợp khác, như việc bỏ qua điện thoại cố định để đi thẳng lên di động — **không đúng ở đây**, vì thứ bị bỏ qua không phải một công nghệ lỗi thời mà là một cơ chế quản trị rủi ro không có thứ thay thế.
+
+Hai điều kiện tiên quyết khác, cả hai đều thuộc về pháp lý chứ không phải công nghệ, cũng hiện ra từ bài. Một là **luật về tính chung thẩm của quyết toán**, phải trả lời được thời điểm nào một bút toán trên sổ cái trở thành không thể đảo ngược, và điều đó phải rõ trước khi có giá trị thật chạy trên đó. Hai là **xác định pháp nhân chịu trách nhiệm** cho tính toàn vẹn phát hành: ai bảo đảm rằng số token đang lưu hành khớp đúng với số chứng khoán được phát hành hợp pháp, và bên đó có vốn bao nhiêu để bù nếu sai. Cả hai đều rẻ để làm và cả hai đều trở nên rất đắt nếu bị bỏ qua cho tới khi có tranh chấp đầu tiên.

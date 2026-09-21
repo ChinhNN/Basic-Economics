@@ -142,3 +142,77 @@
 > "Just because something can be computed doesn't mean it makes economic sense to do so."
 
 > "In practice econometrics is an art that requires considerable judgment to obtain estimates useful for policymaking."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### "Kiểm tra mùi" vừa là lời khuyên khôn ngoan nhất vừa là công thức nguy hiểm nhất trong bài
+
+Bước bốn được bài gọi là quan trọng nhất, và nội dung của nó là: xem kết quả có hợp lý về mặt kinh tế không; nếu dấu của hệ số mâu thuẫn với lý thuyết thì phải hỏi "nên sửa mô hình thống kê thế nào" rồi làm lại.
+
+Một nửa của lời khuyên này hoàn toàn đúng và cần thiết. Nguyên tắc rác vào rác ra là có thật; phần mềm sẽ vui vẻ cho ra một con số cho bất kỳ dữ liệu nào, kể cả dữ liệu vô nghĩa; và kinh nghiệm để nhận ra một kết quả bất thường là kỹ năng thật.
+
+Nhưng hãy đọc nửa kia theo đúng câu chữ. Quy trình được mô tả là: đặt giả thuyết từ lý thuyết, ước lượng, và **nếu kết quả không khớp với giả thuyết thì đặc tả lại mô hình và chạy lại cho tới khi khớp**. Viết ra như vậy thì đó là mô tả chính xác của việc tìm kiếm cho đến khi thấy điều mình đã tin từ đầu. Và điều đáng lo là nó không được trình bày như một cám dỗ cần cảnh giác mà như một **bước chuẩn trong quy trình**, thậm chí là bước đòi hỏi tay nghề cao nhất.
+
+Đây là căng thẳng nền tảng của cả ngành và bài chỉ nêu một vế. Lý thuyết **phải** có quyền kỷ luật phân tích thực nghiệm — nếu không thì người nghiên cứu chỉ đang khớp mô hình vào nhiễu. Nhưng nếu lý thuyết có quyền **phủ quyết** kết quả, thì bằng chứng thực nghiệm vĩnh viễn không bao giờ lật đổ được lý thuyết, và toàn bộ hoạt động mất đi chức năng kiểm chứng của nó.
+
+Lời giải mà ngành tìm ra sau này rất đơn giản về nguyên tắc: **cam kết đặc tả mô hình trước khi nhìn thấy kết quả**. Khi kế hoạch phân tích được đăng ký trước, phép kiểm tra mùi chỉ còn được áp dụng cho **thiết kế** chứ không cho **kết quả**, và quyền phủ quyết của lý thuyết bị vô hiệu hoá đúng chỗ cần vô hiệu hoá. Đây là điều mà một bài viết năm 2011 chưa có lý do gì phải nhắc tới, nhưng nó là bổ sung quan trọng nhất cho quy trình bốn bước.
+
+Một câu hỏi thực hành rút ra từ đây, dùng được cho mọi kết quả nghiên cứu mà người đọc gặp: **nếu hệ số ra dấu ngược lại, tác giả có công bố nó không?** Nếu câu trả lời là không, thì con số được công bố mang rất ít thông tin.
+
+### Nguyên tắc thứ ba an ủi người đọc bằng một mệnh đề chỉ đúng một nửa, và nửa sai là nửa quan trọng
+
+Nguyên tắc thứ ba viết rằng ngay cả khi nhận diện đúng quy trình sinh dữ liệu, ước lượng "chỉ có cơ hội mong manh bằng giá trị thật", nhưng vẫn dùng được vì "về mặt thống kê, chúng sẽ **chính xác dần khi có thêm dữ liệu**".
+
+Mệnh đề an ủi này đúng với một loại sai lệch và sai hoàn toàn với loại còn lại, và bài không phân biệt hai loại.
+
+Với **sai số ngẫu nhiên** — kiểu nhiễu do mẫu hữu hạn — thì đúng: nhiều dữ liệu hơn làm ước lượng bớt dao động, khoảng tin cậy hẹp lại, và con số hội tụ về giá trị thật.
+
+Với **thiên lệch có hệ thống** — do bỏ sót một biến gây nhiễu, do đo sai một cách hệ thống, do nhân quả chạy ngược — thì thêm dữ liệu **không giúp gì cả**. Tệ hơn: nó làm khoảng tin cậy thu hẹp quanh **một con số sai**, biến một ước lượng sai và mơ hồ thành một ước lượng sai nhưng trông rất chắc chắn. Nhiều dữ liệu hơn làm tăng độ chính xác, không làm tăng độ đúng.
+
+Sự phân biệt này quan trọng hơn bao giờ hết trong thời đại dữ liệu lớn. Khi cỡ mẫu lên tới hàng triệu quan sát, gần như mọi hệ số đều trở nên "có ý nghĩa thống kê", kể cả những hệ số phản ánh thuần tuý một vấn đề nhận dạng chưa được giải quyết. Ý nghĩa thống kê trở thành một thông tin gần như vô giá trị, trong khi **độ lớn kinh tế** và **tính vững của thiết kế** vẫn là hai thứ duy nhất đáng quan tâm — đúng như bài đã ngụ ý ở bước bốn khi hỏi liệu ước lượng có "hàm ý tác động kinh tế đáng kể không".
+
+### Giả định về biến sai số được nêu ra rất thành thật, và chính sự thành thật đó làm lộ ra rằng nó không kiểm chứng được
+
+Bài mô tả biến sai số như một biến "gom" mọi yếu tố không tính được, và nêu giả định đi kèm: trung bình bằng không và không dự đoán được, "**để nhất quán với tiền đề mô hình đã tính mọi biến giải thích quan trọng**".
+
+Mệnh đề cuối là mệnh đề then chốt, và cách diễn đạt của nó rất đáng chú ý: giả định về sai số **chỉ hợp lệ nếu** mô hình đã bao gồm mọi biến quan trọng. Tức là điều kiện để công cụ hoạt động chính là điều mà công cụ không bao giờ kiểm chứng được. Không có phép kiểm định nào cho ta biết liệu còn một biến quan trọng nào đang nằm ngoài mô hình hay không — bởi nếu ta biết nó là gì thì đã đưa vào rồi.
+
+Cách phát biểu trung thực nhất về biến sai số do đó không phải "mọi thứ còn lại" mà là: **mọi thứ còn lại, kèm theo một lời cược rằng chúng không liên quan tới những thứ ta đã đưa vào**. Toàn bộ độ tin cậy của con số cuối cùng nằm ở lời cược đó, chứ không nằm ở bất kỳ phép tính nào phía sau.
+
+Điều này giải thích vì sao trọng tâm của kinh tế học thực nghiệm hiện đại đã chuyển từ việc **làm mô hình phức tạp hơn** sang việc **tìm một nguồn biến thiên khiến lời cược ấy trở nên hợp lý**. Khi ai đó được nhận hay không nhận một chính sách vì một lý do hoàn toàn không liên quan tới đặc điểm của họ — một mốc tuổi, một đường ranh giới hành chính, một cuộc rút thăm, một thay đổi luật — thì lời cược về biến sai số không còn là lời cược nữa mà trở thành một sự thật về thiết kế.
+
+### Giả định tuyến tính được chọn vì tiện, và nó loại bỏ khủng hoảng ra khỏi mô hình ngay từ đầu
+
+Bài thẳng thắn về lý do chọn dạng hàm tuyến tính: lý thuyết kinh tế "tiếc là thường im lặng" về dạng toán học cụ thể, nên người ta chọn dạng phổ biến nhất, trong đó "thay đổi ở biến giải thích luôn tạo cùng thay đổi ở biến phụ thuộc".
+
+Cụm "**luôn tạo cùng**" mang một giả định rất mạnh và rất ít khi được kiểm tra. Nó nói rằng tác động của việc tăng tỷ lệ nợ trên GDP từ 30% lên 35% giống hệt tác động của việc tăng từ 90% lên 95%; rằng tác động của việc giá nhà giảm 5% trong một thị trường lành mạnh giống hệt tác động của cùng mức giảm ấy khi các bảng cân đối đã căng. Nói cách khác, tuyến tính **loại bỏ ngưỡng, điểm gãy và hiệu ứng khuếch đại ra khỏi mô hình bằng định nghĩa**.
+
+Hệ quả nghiêm trọng nhất: một mô hình tuyến tính được ước lượng trên một giai đoạn dữ liệu không có khủng hoảng sẽ ngầm khẳng định rằng khủng hoảng không thể xảy ra. Nó không kết luận như vậy dựa trên bằng chứng; nó không có khả năng biểu đạt kết luận nào khác. Đây chính là một trong các khiếm khuyết mà bài về bức tranh lớn và bức tranh nhỏ trong cùng loạt Back to Basics nhắc tới khi nói khủng hoảng 2008 làm lộ ra hạn chế của các mô hình vĩ mô, và cơ chế cụ thể nằm ở đây, ở một lựa chọn kỹ thuật được đưa ra vì lý do tiện lợi.
+
+Bài học thực hành: khi một kết quả thực nghiệm được dùng để biện minh cho một chính sách, phải hỏi ước lượng đó được rút ra từ **khoảng giá trị nào của dữ liệu**, và chính sách đang bàn có đưa nền kinh tế ra ngoài khoảng đó không. Một hệ số ước lượng trên vùng dữ liệu bình thường không nói gì về hành vi của hệ thống ở vùng cực đoan, dù công thức vẫn cho ra một con số.
+
+### Một phân biệt mà bài chưa cần đến năm 2011 và không thể thiếu hôm nay: dự báo và nhân quả
+
+Toàn bộ khung của bài hướng tới một mục tiêu duy nhất: ước lượng **tham số cấu trúc** để trả lời câu hỏi chính sách kiểu "nếu tăng lãi suất một điểm phần trăm thì lạm phát thay đổi bao nhiêu".
+
+Từ đó tới nay, một bộ công cụ khác đã lớn mạnh và được tối ưu cho một mục tiêu khác hẳn: **dự báo**. Và hai mục tiêu này không chỉ khác nhau mà đôi khi mâu thuẫn. Một mô hình dự báo rất giỏi có thể hoàn toàn vô dụng cho chính sách, và ví dụ kinh điển rất dễ nhớ: dữ liệu bệnh viện cho thấy bệnh nhân được chăm sóc tích cực nhiều hơn thì tỷ lệ tử vong cao hơn. Đó là một biến dự báo xuất sắc, và ai dùng nó để kết luận rằng nên giảm chăm sóc tích cực sẽ giết người.
+
+Phân biệt này rất hữu ích vì nó giúp chọn đúng công cụ cho đúng loại câu hỏi. Có những bài toán chính sách **thực sự là bài toán dự báo**, và ở đó các công cụ học máy là lựa chọn đúng: nên thanh tra hồ sơ thuế nào, cây cầu nào cần kiểm định trước, khoản vay nào có xác suất vỡ nợ cao, hộ nào có nguy cơ tái nghèo. Ở những bài toán này không ai cần biết cơ chế nhân quả, chỉ cần xếp hạng chính xác.
+
+Và có những bài toán **thực sự là bài toán nhân quả**: chính sách này có làm thay đổi hành vi không, và thay đổi bao nhiêu. Ở đây không có lượng dữ liệu nào và không có thuật toán nào thay thế được một thiết kế nhận dạng tốt, vì vấn đề không nằm ở việc khớp dữ liệu mà ở việc **không quan sát được điều đã xảy ra nếu chính sách không được áp dụng**.
+
+Nhầm hai loại bài toán này là sai lầm phổ biến nhất hiện nay khi các công cụ phân tích dữ liệu được đưa vào khu vực công, và quy trình bốn bước của bài — đặc biệt là bước một, bắt đầu từ một giả thuyết kinh tế rõ ràng — chính là cơ chế bảo vệ chống lại nó.
+
+### Với Việt Nam: ràng buộc nằm ở một bước mà bài không đánh số
+
+Bài viết rằng bước ước lượng "thường là phần dễ nhất nhờ dữ liệu sẵn có và phần mềm tốt". Câu này mô tả đúng hoàn cảnh của một nhà nghiên cứu ở nước có hệ thống thống kê lâu đời. Với Việt Nam, nó bỏ qua ràng buộc thực sự, nằm ở một bước trước cả bước một: **có dữ liệu để bắt đầu hay không**.
+
+Ba hạn chế cụ thể đáng nêu, vì chúng quyết định loại câu hỏi nào trả lời được ở đây.
+
+**Thứ nhất, chuỗi thời gian vĩ mô quá ngắn.** Kinh tế Việt Nam chỉ vận hành theo cơ chế thị trường trong vài thập kỷ, và trong khoảng đó đã có nhiều lần thay đổi phương pháp thống kê và điều chỉnh gốc so sánh. Một chuỗi số liệu năm với vài chục quan sát, lại có các điểm gãy phương pháp, không đủ để ước lượng một mô hình vĩ mô nhiều tham số. Đây không phải vấn đề kỹ thuật có thể khắc phục bằng phương pháp tinh vi hơn — dữ liệu đơn giản là không chứa đủ thông tin. Hệ quả là **kinh tế lượng vĩ mô ở Việt Nam có trần thấp**, và các kết luận vĩ mô nên dựa nhiều hơn vào lập luận cấu trúc và so sánh quốc tế hơn là vào ước lượng từ chuỗi trong nước.
+
+**Thứ hai, và ngược lại, dữ liệu vi mô thì có nhiều hơn người ta tưởng nhưng không nối được với nhau.** Cơ quan thuế có dữ liệu doanh nghiệp, bảo hiểm xã hội có dữ liệu lao động, hải quan có dữ liệu xuất nhập khẩu, ngân hàng có dữ liệu tín dụng, và có một chuỗi khảo sát mức sống hộ gia đình chạy nhiều năm. Từng nguồn một thì hạn chế; **nối chúng lại thì mở ra một lớp câu hỏi hoàn toàn mới** — doanh nghiệp nào thực sự tạo việc làm, ưu đãi thuế có làm tăng đầu tư không, tín dụng chảy về đâu và có gắn với năng suất không. Việc kết nối các nguồn dữ liệu hành chính, với cơ chế bảo vệ danh tính phù hợp, có lẽ là khoản đầu tư có lợi tức cao nhất mà hệ thống thống kê quốc gia có thể thực hiện.
+
+**Thứ ba, khu vực phi chính thức.** Một tỷ trọng lớn việc làm và giao dịch nằm ngoài mọi hệ thống ghi chép. Theo đúng phân tích về biến sai số ở trên, điều này không chỉ làm mẫu nhỏ đi mà còn làm nó **lệch một cách có hệ thống**: phần bị bỏ sót không ngẫu nhiên mà tập trung ở các hộ nhỏ, các ngành thâm dụng lao động và các vùng nghèo hơn. Mọi ước lượng dựa trên dữ liệu chính thức đều ngầm là ước lượng cho khu vực chính thức, và việc đọc chúng như ước lượng cho cả nền kinh tế là một sai lầm im lặng.
+
+Cuối cùng là một thói quen đọc nên áp dụng với mọi con số kinh tế lượng xuất hiện trong tranh luận chính sách, rút ra trực tiếp từ bốn phần trên: **điều gì tạo ra sự biến thiên được dùng để nhận dạng tác động; cái gì đang nằm trong biến sai số và có lý do gì để tin nó không liên quan; giả định tuyến tính có hợp lý trên khoảng giá trị đang bàn không; và nếu kết quả ra dấu ngược lại thì nó có được công bố không.** Bốn câu hỏi này không đòi hỏi kiến thức kỹ thuật, và chúng loại bỏ phần lớn các con số không đáng tin.

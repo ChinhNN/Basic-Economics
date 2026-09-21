@@ -517,3 +517,83 @@
 > "In general, debt managers should avoid holding auctions when the central bank is conducting money market operations."
 
 > "Transparency is key for the credibility of the ABP."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Lợi ích thứ hai là một đề xuất về quyền lực, được viết như một bước quy trình
+
+Trong danh sách bảy lợi ích của ABP, có một mục khác hẳn về bản chất so với sáu mục còn lại. Đó là việc người quản lý nợ **nói cho cơ quan tài khoá biết mức vay theo dự toán có vay được hay không, để sửa dự toán nếu cần**.
+
+Sáu lợi ích kia đều là lợi ích kỹ thuật: quản lý rủi ro quay vòng, phát hiện lỗ hổng, gắn kết nhà đầu tư, phát triển thị trường, theo dõi tiến độ, tăng minh bạch. Lợi ích này thì không. Nó đề nghị đảo ngược chiều của mệnh lệnh.
+
+Trong mô hình thông thường, quốc hội duyệt một mức bội chi, và Đơn vị Quản lý Nợ có nhiệm vụ tìm tiền để tài trợ cho nó. Ràng buộc là chính trị, nhiệm vụ là kỹ thuật. Ghi chú này đề nghị một trật tự khác: **ràng buộc tài trợ được khám phá bằng kỹ thuật, và dự toán phải điều chỉnh theo nó**. Một văn phòng chuyên môn trong Bộ Tài chính được trao quyền nói với cơ quan lập ngân sách rằng con số này không huy động được.
+
+Đây là một thay đổi thể chế đáng kể, và ghi chú không bao giờ trình bày nó như vậy. Nó cũng nêu rõ điều gì xảy ra khi không có cuộc đối thoại đó, và mô tả này là phần sắc nhất của cả tài liệu: người quản lý nợ **bị ép vay mức bất khả thi hoặc làm méo cơ cấu nợ bằng cách rút ngắn kỳ hạn bình quân**, dẫn tới bất ổn thị trường nợ trong nước, lợi suất cao hơn và biến động hơn.
+
+Đó chính là cơ chế biến một vấn đề kỷ luật tài khoá thành một vấn đề cơ cấu nợ. Và nhánh tài liệu lịch sử về cơ cấu nợ chính phủ trong cùng thư mục cho thấy chính cơ cấu — kỳ hạn ngắn, phụ thuộc cầu cưỡng bức — mới là thứ đi kèm các cuộc khủng hoảng, chứ không phải mức nợ. Ghi chú kỹ thuật này mô tả bước đầu tiên của con đường đó, ở cấp độ vi mô mà các nghiên cứu vĩ mô không nhìn thấy.
+
+### "Quy tắc vàng" về ngân hàng trung ương thừa nhận một điều lớn hơn nó nói
+
+Khuyến nghị nghe có vẻ thủ tục: tránh tổ chức đấu giá khi ngân hàng trung ương đang can thiệp thị trường tiền tệ. Lý do được đưa ra cũng đơn giản — nếu ngân hàng trung ương hút thanh khoản thì cạnh tranh trực tiếp với chính phủ và làm cầu yếu đi; nếu bơm thanh khoản thì bị chính phủ vô hiệu hoá.
+
+Nhưng để hai nghiệp vụ này cạnh tranh với nhau đến mức phải xếp lịch tránh nhau, thì **tổng lượng thanh khoản khả dụng phải là một đại lượng hữu hạn và nhỏ**. Ở một thị trường sâu, kho bạc phát hành vài nghìn tỷ trong một ngày mà ngân hàng trung ương vẫn điều hành lãi suất bình thường; giá điều chỉnh, và hết chuyện.
+
+Nói cách khác, quy tắc này là một lời thừa nhận rằng ở phần lớn các nước mà ghi chú nhắm tới, **quản lý nợ và chính sách tiền tệ không tách rời được về mặt kinh tế**, chỉ tách rời được về mặt tổ chức. Chính phủ là người vay thống trị, và cơ sở nhà đầu tư chủ yếu là hệ thống ngân hàng trong nước.
+
+Từ đó ra một căng thẳng mà ghi chú không phát biểu. Mục tiêu "phát triển thị trường trái phiếu chính phủ" và mục tiêu "điều hành chính sách tiền tệ độc lập" không hoàn toàn tương thích khi cả hai cùng khai thác một nguồn thanh khoản ngân hàng hữu hạn. Uỷ ban Phối hợp Tiền mặt mà ghi chú đề xuất giải quyết được vấn đề **lịch trình**, nhưng không giải quyết được vấn đề **khan hiếm**. Lời giải thật sự nằm ở chỗ khác: mở rộng cơ sở nhà đầu tư ra ngoài hệ thống ngân hàng, tới quỹ hưu trí, bảo hiểm và nhà đầu tư nước ngoài — mà đó lại là việc của nhiều năm, không phải của một kế hoạch vay nợ.
+
+### Bẫy năng lực: nước cần uy tín nhất là nước không sản xuất được uy tín
+
+Toàn bộ lập luận về lợi ích của ABP dựa trên tính dự báo được. Công bố lịch trước, giữ khoảng quy mô đấu giá nhất quán, xây trái phiếu chuẩn, tránh phát hành cơ hội — vì phát hành tuỳ tiện về thời điểm, kỳ hạn và quy mô làm nhà đầu tư không dự liệu được và **tăng phần bù rủi ro theo thời gian**.
+
+Nhưng ghi chú cũng nói rõ hai điều khác. Nước có khung vĩ mô yếu phải sửa ABP thường xuyên hơn, vì dự toán liên tục điều chỉnh. Và nếu dự toán không đáng tin thì **có thể không công bố nổi lịch cả năm**.
+
+Ghép lại, ta có một bẫy. Phần bù rủi ro mà tính dự báo được giúp giảm là lớn nhất ở các nước có chi phí vốn cao nhất — tức các nước có khung vĩ mô yếu nhất. Nhưng chính những nước đó lại không đủ điều kiện để sản xuất ra tính dự báo được, vì đầu vào của nó là một dự toán đáng tin mà họ không có.
+
+Ghi chú đưa ra một lối thoát trung thực: rút ngắn chân trời của lịch để có một tài liệu đáng tin còn hơn công bố dài mà sai. Đó là lời khuyên đúng, nhưng nó cũng là lời thừa nhận rằng **uy tín của lịch phát hành là hạ nguồn của uy tín ngân sách**, chứ không phải một thứ có thể xây độc lập. Trình tự cải cách vì thế phải là dự toán trước, lịch sau — chứ không phải lấy ABP làm đầu kéo.
+
+### Con số nhu cầu tài trợ gộp hằng năm che giấu khối lượng thật phải đặt ra thị trường
+
+Có một chi tiết kỹ thuật trong ví dụ minh hoạ của ghi chú đáng được nâng lên thành một nguyên tắc. Nhu cầu tài trợ gộp của năm được tính là 15.000, nhưng tổng dòng tiền cần huy động cộng theo tháng lại khoảng 17.225. Chênh lệch khoảng 2.225 đến từ **phần gốc tín phiếu đáo hạn và phải quay vòng ngay trong năm**.
+
+Đây không phải một chi tiết kế toán nhỏ. Nó có nghĩa là chỉ tiêu nhu cầu tài trợ gộp — con số được dùng trong hầu hết mọi báo cáo bền vững nợ, kể cả các khung đánh giá của IMF — **đánh giá thấp một cách có hệ thống khối lượng mà Đơn vị Quản lý Nợ thực sự phải đặt ra thị trường**, và mức đánh giá thấp tỷ lệ thuận với tỷ trọng công cụ ngắn hạn.
+
+Hệ quả thực tiễn rất cụ thể. Khi đánh giá xem thị trường trong nước có hấp thụ nổi chương trình phát hành hay không, con số phải dùng là tổng khối lượng đấu giá dự kiến trong năm, không phải nhu cầu tài trợ gộp. Với một nước có chương trình tín phiếu lớn, hai con số này có thể chênh nhau vài chục phần trăm. Và đây cũng chính là lý do một khối nợ ngắn hạn nhỏ về dư nợ lại tạo ra áp lực thị trường lớn — một điểm được chứng minh độc lập bằng mô hình trong tài liệu về nợ song phương ở cùng thư mục.
+
+### Toàn bộ bộ máy tinh vi này hoàn toàn dửng dưng với việc tiền được dùng làm gì
+
+Đây là nhận xét quan trọng nhất khi đặt tài liệu vào đúng thư mục của nó.
+
+ABP nhận nhu cầu tài trợ gộp như một **đầu vào cho trước**. Nó xuất phát từ cán cân sơ cấp dự báo cộng trả lãi cộng trả gốc. Trong toàn bộ tám bước, không có một bước nào hỏi khoản vay đó mua gì. Một kế hoạch vay 15.000 để tài trợ một chương trình hạ tầng có suất sinh lời cao và một kế hoạch vay 15.000 để bù thiếu hụt chi thường xuyên là **hai tài liệu giống hệt nhau** theo mọi tiêu chí trong ghi chú này.
+
+Điều đó hoàn toàn đúng với phạm vi của một sổ tay quản lý nợ, và không phải là lỗi. Nhưng nó đáng được nói thành lời, vì nó mô tả một sự mất cân đối thật trong năng lực thể chế.
+
+Quản lý nợ có một khung chuẩn quốc tế, một công cụ phân tích, một sổ tay tương tác, một khoá học trực tuyến đại chúng, một bộ chỉ số chi phí–rủi ro có ngưỡng mục tiêu, một bộ máy ba bộ phận với phân vai rõ ràng, và một hệ thống đánh giá hiệu quả. Toàn bộ sự tinh vi đó được dồn vào việc **tối thiểu hoá chi phí trên mỗi đồng vay**.
+
+Khâu thẩm định và lựa chọn dự án đầu tư công — việc quyết định **giá trị tạo ra trên mỗi đồng chi** — hiếm khi có được mức độ chuẩn hoá tương đương ở cùng một bộ. Và về mặt số học, một cải thiện 50 điểm cơ bản trong chi phí vay tạo ra giá trị nhỏ hơn nhiều so với việc tránh một dự án có suất sinh lời âm. Nhánh tài liệu về nợ và tăng trưởng trong thư mục này cho thấy nợ ảnh hưởng tăng trưởng chủ yếu qua kênh vốn trên mỗi lao động, tức là qua việc tiền vay có biến thành tài sản sản xuất hay không — đúng câu hỏi mà bộ máy quản lý nợ không được thiết kế để trả lời.
+
+### Phạm vi kế hoạch hẹp hơn phạm vi rủi ro, một cách có chủ đích
+
+ABP bao phủ **chính phủ trung ương**, và ghi chú nói rõ phạm vi phải trùng với chiến lược quản lý nợ, với khác biệt thường gặp là chiến lược có thể bao gồm cả nợ được bảo lãnh.
+
+Nghĩa là nợ của doanh nghiệp nhà nước, nghĩa vụ theo hợp đồng hợp tác công tư, và nợ của chính quyền địa phương nằm ngoài. Nhưng nhánh tài liệu về dễ tổn thương nợ của các nền kinh tế mới nổi trong cùng thư mục xác định chính xác những khoản đó là nguồn của các cú **nhảy nợ đột ngột**, và mô hình về mức nợ bền vững tối đa cho thấy tần suất nhảy nợ là tham số chi phối toàn bộ năng lực gánh nợ của một nước.
+
+Kết quả là một sự lệch pha có hệ thống: bộ máy lập kế hoạch vận hành trên một chu vi hẹp hơn chu vi rủi ro, và các sự kiện phá vỡ kế hoạch gần như luôn đến từ phần nằm ngoài chu vi đó. Một ABP có thể được thực hiện hoàn hảo trong khi tỷ lệ nợ công nhảy năm điểm phần trăm vì một bảo lãnh bị gọi.
+
+Ghi chú không thể giải quyết điều này — nó là một sổ tay về vay nợ của chính phủ trung ương. Nhưng người đọc nên hiểu rằng việc có một ABP tốt không phải bằng chứng về kiểm soát rủi ro tài khoá; nó là bằng chứng về kiểm soát **một phần** rủi ro tài khoá.
+
+### Với Việt Nam: ba chỗ áp dụng được ngay và một chỗ cần thận trọng
+
+**Thứ nhất, sự tham gia của đơn vị quản lý nợ vào khâu ước tính nhu cầu tài trợ trước khi con số được ấn định.** Ghi chú nêu đích danh các nước mà **luật ngân sách ấn định mức vay theo nguồn hoặc theo từng công cụ** — Kyrgyzstan, Nepal, Pakistan, Tajikistan — và nói rằng ở những nước đó, việc đưa đơn vị quản lý nợ vào sớm là đặc biệt quan trọng. Cấu trúc này mô tả đúng cơ chế của Việt Nam, nơi các hạn mức vay được quyết nghị ở cấp cao nhất trước khi năm ngân sách bắt đầu. Khi con số đã thành nghị quyết, nó trở thành một ràng buộc cứng chứ không còn là một mục tiêu có thể điều chỉnh, và toàn bộ gánh nặng thích ứng dồn xuống cơ cấu phát hành.
+
+**Thứ hai, khớp lịch trả nợ với chu kỳ thu ngân sách.** Ghi chú khuyến nghị đặt ngày trả coupon và trả gốc trùng với tuần có dòng thu mạnh, chẳng hạn kỳ nộp thuế, và khớp ngày thanh toán với ngày đáo hạn. Đây là loại cải tiến không tốn gì, không cần thay đổi luật, và giảm trực tiếp nhu cầu giữ đệm tiền mặt — tức giảm chi phí mang giữ.
+
+**Thứ ba, uỷ ban phối hợp tiền mặt.** Một mô thức phổ biến ở các nước có Tài khoản Kho bạc Duy nhất chưa hợp nhất hoàn toàn là chính phủ vừa giữ số dư tiền mặt lớn tại ngân hàng trung ương vừa tiếp tục phát hành theo kế hoạch. Chi phí là kép: chênh lệch giữa lãi vay và lãi tiền gửi, cộng với tác động hút thanh khoản khỏi thị trường đúng lúc không cần thiết. Cơ chế mà ghi chú đề xuất — một uỷ ban do quan chức cấp cao chủ trì, rà soát dòng tiền thực tế và dự báo, và tối thiểu là điều chỉnh kế hoạch phát hành tín phiếu — là giải pháp trực tiếp cho tình huống này.
+
+**Chỗ cần thận trọng: lợi ích về phần bù rủi ro có thể không hiện thực hoá.** Lợi ích ④ của ghi chú — công bố lịch làm giảm bất đối xứng thông tin, do đó hạ phần bù rủi ro — giả định rằng cầu đối với trái phiếu chính phủ là **cầu thị trường phản ứng với giá**. Ở một thị trường mà người mua chi phối là các định chế trong nước có nghĩa vụ hoặc động cơ hành chính để nắm giữ, cầu không phản ứng với thông tin theo cách đó, và lợi suất quan sát được không phải một mức giá thị trường. Minh bạch vẫn đáng làm vì các lý do khác — kỷ luật nội bộ, chuẩn bị cho việc mở cửa sau này, và trách nhiệm giải trình — nhưng không nên kỳ vọng nó tự động chuyển thành chi phí vay thấp hơn. Đây là điểm được lập luận đầy đủ trong nhánh tài liệu về cơ cấu nợ và cơ sở nhà đầu tư của thư mục này.
+
+### Một tài liệu biết rõ nó không giải quyết được vấn đề gì
+
+Điểm đáng quý nhất của ghi chú là nó chẩn đoán đúng bệnh của chính lĩnh vực mình. Sau mười lăm năm phổ biến khung chiến lược quản lý nợ trung hạn, kết quả là nhiều nước **soạn và công bố được chiến lược nhưng không thực hiện được**. Đó là một mô thức rất quen thuộc trong hỗ trợ kỹ thuật quốc tế: văn bản được sản xuất vì văn bản là thứ đo đếm được và báo cáo được, trong khi năng lực vận hành thì không.
+
+Ghi chú phản ứng đúng cách — cung cấp thêm một bước trung gian cụ thể hơn và một công cụ bảng tính. Nhưng cần thấy giới hạn của phản ứng đó. Nếu nguyên nhân gốc của việc không thực hiện được là dự toán thiếu tin cậy, dự báo dòng tiền yếu, và thiếu cơ chế phản hồi từ kỹ thuật lên chính trị, thì một sổ tay và một công cụ Excel chỉ chạm tới phần dễ nhất trong ba phần đó. Rủi ro là sau mười năm nữa, một ghi chú kỹ thuật khác sẽ mở đầu bằng câu rằng nhiều nước nay đã soạn được ABP nhưng vẫn không thực hiện được.

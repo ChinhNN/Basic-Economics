@@ -213,3 +213,67 @@
 > "A central forecast offers false comfort when the underlying relationships themselves may be changing."
 
 > "Investing in skills is the clearest no-regret action: it pays off whether diffusion is slow or fast."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Bài tập kịch bản không làm thay đổi câu trả lời, và điều đó cần được nói thẳng
+
+Phương pháp hoạch định kịch bản có năm bước, nhưng giá trị thực của nó dồn vào hai bước: tìm hành động vững vàng, và xác định dấu hiệu sớm. Hãy kiểm tra xem bài làm được bao nhiêu ở mỗi bước.
+
+Danh sách hành động vững vàng là: đầu tư giáo dục và kỹ năng, củng cố mạng an sinh, xây năng lực đo lường, đầu tư hạ tầng năng lượng, củng cố an ninh mạng, tăng hợp tác quốc tế. Đây chính xác là danh sách mà bất kỳ ai cũng sẽ đưa ra **mà không cần dựng kịch bản nào cả**. Không có mục nào trong đó gây tranh cãi, không có mục nào đòi hỏi phải đánh đổi với một mục khác, và không có mục nào mà bài tập kịch bản mới phát hiện ra.
+
+Điều này không có nghĩa danh sách sai. Nhưng nó có nghĩa là công cụ chưa được dùng tới hết công suất. Một bài tập kịch bản có giá trị khi nó tìm ra những hành động mà **trực giác thông thường sẽ bỏ sót**, hoặc quan trọng hơn, khi nó chỉ ra những hành động **trông có vẻ hợp lý nhưng chỉ đúng trong một kịch bản**. Loại thứ hai mới là nơi bài tập này sinh lời: những chính sách sẽ phản tác dụng nếu ta đoán nhầm thế giới. Bài gần như không nêu ra loại nào như vậy.
+
+Bước thứ năm — dấu hiệu sớm để biết ta đang đi vào thế giới nào — được nhắc trong phần mô tả phương pháp rồi gần như không được triển khai. Đây là thiếu sót nghiêm trọng nhất, vì đó chính là bước biến một bảng so sánh thành một công cụ ra quyết định. Một dấu hiệu sớm có ích phải là một biến **quan sát được, có ngưỡng, và có độ trễ ngắn hơn độ trễ của chính sách**. Ví dụ: tốc độ tăng công suất điện được cấp cho trung tâm dữ liệu, tỷ lệ doanh nghiệp báo cáo giảm tuyển dụng ở nhóm nghề nhận thức, độ phân tán năng suất giữa doanh nghiệp đầu ngành và doanh nghiệp trung vị trong cùng ngành. Nếu không cụ thể hoá tới mức đó, bước năm chỉ là một lời hứa về phương pháp.
+
+### Hai kịch bản không có cùng tư cách nhận thức luận, và cả hai đều bị gán nhầm tính cách
+
+Kịch bản cơ sở là một mệnh đề **thực nghiệm**: các công nghệ đa dụng trước đây — điện khí hoá, máy tính — mất hàng thập niên mới hiện ra trong số liệu năng suất, vì phải chờ tái tổ chức doanh nghiệp, tích luỹ kỹ năng và đầu tư bổ trợ. Đây là quy luật đã được quan sát nhiều lần.
+
+Kịch bản lan toả bùng nổ là một mệnh đề về **cơ chế**: nếu hệ thống vượt một ngưỡng tự cải thiện thì mọi ràng buộc tổ chức sẽ bị bỏ qua. Không có tiền lệ lịch sử nào cho cơ chế này. Đặt hai thứ cạnh nhau trong một bảng hai cột cho chúng vẻ ngoài ngang hàng, và điều đó ngầm nâng trọng lượng của kịch bản thứ hai lên mức nó chưa xứng đáng. Trình bày trung thực hơn sẽ nói rõ: một bên là ngoại suy từ bằng chứng, một bên là giả thuyết về một cơ chế chưa từng thấy.
+
+Nhưng bài cũng mắc lỗi ngược lại, và lỗi này ít ai để ý: nó gán cho kịch bản cơ sở tính cách của một thế giới ôn hoà. "Lan toả dần, thị trường có thời gian hấp thụ, bất bình đẳng tăng từ từ, chính sách phân phối lại truyền thống vẫn đủ công cụ."
+
+Lịch sử nói khác. Thời kỳ điện khí hoá và cơ giới hoá kéo dài nhiều thập niên và đi kèm biến động chính trị dữ dội nhất của thế kỷ hai mươi ở phương Tây. Quá trình tin học hoá cũng kéo dài nhiều thập niên và kết quả là tầng lớp trung lưu bị rỗng ruột, công việc trung bình biến mất, và sự phân cực chính trị đi kèm. **Lan toả chậm không có nghĩa là lan toả êm**. Ngược lại, chính vì chậm mà tổn thất bị phân tán, không ai quy được trách nhiệm cho một sự kiện cụ thể, và nhu cầu chính sách không bao giờ đủ cấp bách để được đáp ứng. Kịch bản cơ sở có thể là kịch bản mà chính trị xử lý **tệ nhất**, chứ không phải tốt nhất.
+
+### Vấn đề tài khoá là vấn đề cụ thể nhất trong bài, và lời khuyên cho nó không dùng được cho đa số nước
+
+Nhận định rằng nguồn thu từ thuế thu nhập lao động bị bào mòn đúng lúc nhu cầu chi cho chuyển đổi tăng vọt là hàm ý chính sách sắc nhất trong tài liệu. Nó cụ thể, nó có cơ chế rõ ràng, và nó có thể xảy ra ngay cả trong kịch bản cơ sở chỉ với tốc độ chậm hơn.
+
+Lời khuyên đi kèm — chuyển trọng tâm sang thuế vốn, thuế tiêu dùng và thuế lợi nhuận siêu ngạch — thì lại có một vấn đề mà bài chỉ nhắc thoáng qua khi nói tới tính di động của cơ sở thuế.
+
+Vấn đề đó là: **cơ sở thuế bị mất và cơ sở thuế được sinh ra không nằm cùng một nước**. Thuế thu nhập lao động bị bào mòn ở mọi nước có người lao động bị thay thế, tức là gần như mọi nước. Lợi nhuận siêu ngạch từ AI thì phát sinh ở một số rất ít tài phán nơi đặt trụ sở của các công ty mô hình và chủ sở hữu vốn. Thuế vốn thì đánh vào một cơ sở có tính di động cao nhất trong mọi loại cơ sở thuế.
+
+Nghĩa là với phần lớn quốc gia, đây **không phải bài toán về cơ cấu thuế trong nước** mà là bài toán về phân bổ quyền đánh thuế giữa các nước — thứ không giải được bằng chính sách đơn phương. Trong ba lựa chọn được nêu, chỉ thuế tiêu dùng là thực sự khả dụng cho một nước hành động một mình, và đó lại là loại thuế lũy thoái nhất, tức là công cụ tệ nhất để tài trợ cho việc hỗ trợ chính những người vừa mất việc. Bài nói hợp tác quốc tế là điều kiện cần; đúng hơn phải nói rằng nếu không có hợp tác quốc tế thì khuyến nghị tài khoá này **không tồn tại** với đa số nước.
+
+### Bài toán nhận diện của chính sách tiền tệ còn khó hơn mức bài mô tả
+
+Bài nói đúng rằng ngân hàng trung ương có thể đọc nhầm mức tăng năng suất và do đó chính sách quá chặt hoặc quá lỏng. Nhưng có ba lớp khó khăn chồng lên nhau mà bài chỉ chạm vào lớp đầu.
+
+Lớp thứ nhất, như bài nêu: năng suất chỉ quan sát được với độ trễ và qua số liệu bị sửa nhiều lần.
+
+Lớp thứ hai: sản lượng do AI tạo ra tập trung ở đúng những lĩnh vực mà **hệ thống thống kê đo kém nhất** — phần mềm, dịch vụ, tài sản vô hình, và những cải thiện chất lượng không hiện ra trong giá. Đây là bài học đã biết từ nghịch lý năng suất của thời kỳ máy tính: một phần đáng kể của "năng suất mất tích" hoá ra là năng suất không được đo. Nếu lịch sử lặp lại, ta có thể đang ở giữa một đợt tăng năng suất mà số liệu chưa ghi nhận trong nhiều năm.
+
+Lớp thứ ba, và đây là lớp khiến tình huống thực sự nguy hiểm: hai sai số này **lệch cùng một chiều**. Đo thiếu năng suất làm ngân hàng trung ương ước lượng thấp lãi suất thực cân bằng, trong khi bùng nổ đầu tư lại đang đẩy lãi suất cân bằng thật lên. Kết quả là chính sách thắt chặt vào đúng một đợt mở rộng phía cung mà mình không nhìn thấy — sai lầm cùng loại với sai lầm của các ngân hàng trung ương trong nửa sau thập niên 1990, chỉ khác là lần này cả hai lực đều mạnh hơn.
+
+Điều này nâng khuyến nghị "đầu tư vào đo lường năng suất theo thời gian thực" từ một gợi ý kỹ thuật lên vị trí ngang hàng với ràng buộc năng lượng. Cả hai đều có thời gian thực hiện tính bằng nhiều năm, cả hai đều không thể làm gấp khi cần, và cả hai đều là điều kiện để mọi chính sách khác có nghĩa.
+
+### Năng lượng là ràng buộc duy nhất giống nhau ở cả hai thế giới, và bài chưa nhìn ra rằng nó là nguồn lực bị tranh giành
+
+Trong toàn bộ danh sách hành động vững vàng, hạ tầng năng lượng là mục có lập luận chặt nhất, vì nó không phụ thuộc vào việc kịch bản nào xảy ra: lưới điện mất nhiều năm để xây trong cả hai thế giới, và thiếu điện là ràng buộc cứng trong cả hai.
+
+Nhưng bài đối xử với năng lượng như một **đầu vào của AI**, trong khi thực tế nó là một **nguồn lực bị tranh giành**. Cùng một lưới điện, cùng một nguồn phát, cùng một chuỗi cung thiết bị đang phải phục vụ ba nhu cầu lớn cùng lúc: trung tâm dữ liệu, điện khí hoá giao thông, và điện khí hoá công nghiệp để giảm phát thải. Ba nhu cầu này cạnh tranh trực tiếp với nhau ở mọi nước, và cạnh tranh gay gắt nhất ở nước có công suất dự phòng mỏng.
+
+Hệ quả mà bài không rút ra: với một nước có nguồn điện hạn chế, tham vọng xây năng lực tính toán trong nước **không miễn phí về mặt chính sách khí hậu và không miễn phí về mặt công nghiệp**. Nó lấy điện từ đâu đó. Và vì trung tâm dữ liệu trả được giá điện cao hơn nhà máy sản xuất, cơ chế thị trường sẽ phân bổ điện về phía trung tâm dữ liệu — một sự dịch chuyển nguồn lực mà không nước nào từng quyết định một cách có ý thức.
+
+### Với Việt Nam: câu quan trọng nhất trong tài liệu dài đúng một dòng
+
+Trong kịch bản lan toả bùng nổ, bài ghi: "lợi thế lao động giá rẻ bốc hơi". Và ở phần khuyến nghị, bài nói các nền kinh tế mới nổi cần một **chiến lược thích ứng chứ không chỉ chiến lược đuổi kịp**.
+
+Hai câu đó, gộp lại, là nội dung quan trọng nhất của tài liệu với Việt Nam, và chúng bác bỏ giả định nền tảng của toàn bộ mô hình phát triển hiện hành. Chiến lược đuổi kịp giả định rằng chiếc thang vẫn còn đó: bắt đầu từ lắp ráp thâm dụng lao động, tích luỹ vốn và kỹ năng, rồi leo dần lên các khâu giá trị cao hơn. Nếu tự động hoá làm khâu lắp ráp thâm dụng lao động không còn là lợi thế, thì **bậc thang đầu tiên biến mất**, và chiến lược không còn là leo nhanh hơn mà là tìm một cách lên khác.
+
+Điều đáng chú ý là kết luận này trùng khít với kết luận của một phân tích hoàn toàn độc lập trong cùng thư mục, bài mô hình hoá sự phân kỳ AI ở châu Á bằng khung các thế hệ đan xen. Hai phương pháp không liên quan gì tới nhau — một bên là hội thảo kịch bản định tính, một bên là mô hình định lượng — cùng chỉ ra rằng lợi thế lao động giá rẻ là thứ chịu rủi ro lớn nhất. Sự hội tụ đó là lý do đủ mạnh để coi đây là rủi ro hàng đầu chứ không phải một khả năng xa.
+
+Về đường ứng phó, tài liệu ngầm loại bỏ một lựa chọn phổ biến. Xây năng lực tính toán trong nước là con đường tốn vốn, phụ thuộc chuỗi cung chip nằm ngoài tầm với, và cạnh tranh trực tiếp với công nghiệp sản xuất về điện — trong một nền kinh tế mà công suất điện dự phòng đã từng là ràng buộc thực tế. Con đường còn lại là trở thành **bên áp dụng hiệu quả**, và bên áp dụng hiệu quả cần ba thứ mà bài liệt kê ngay trong danh sách hành động vững vàng: kỹ năng, năng lực đo lường, và một mạng an sinh đủ tốt để hấp thụ dịch chuyển lao động mà không tạo ra phản ứng chính trị chặn đứng việc áp dụng.
+
+Cuối cùng, một cảnh báo về cách dùng tài liệu này. Bài viết rất rõ rằng nó không dự báo, mà chỉ nêu ra các thế giới có thể. Nên mọi con số và mọi mô tả trong hai cột kịch bản không phải là ước lượng và không nên được trích dẫn như ước lượng. Giá trị của tài liệu nằm ở các **cơ chế truyền dẫn** mà nó vạch ra — từ phần của lao động tới cơ sở thuế, từ bùng nổ đầu tư tới lãi suất cân bằng, từ định giá tài sản tới tín dụng doanh nghiệp — chứ không nằm ở bất kỳ con số nào.

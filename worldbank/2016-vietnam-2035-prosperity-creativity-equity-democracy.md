@@ -1611,3 +1611,126 @@
 > "Information and data are difficult to acquire, even when public officials are required by law to provide them."
 
 > "To achieve the 2035 vision, the only viable choice is for the country to carry out a bold program of reforms that is consistent with the three pillars."
+
+## Đánh giá và phát hiện đáng chú ý
+
+Báo cáo này viết năm 2016 và nhìn tới 2035. Nay đã đi được khoảng một nửa chặng đường, nên nó có một điều mà hầu hết tài liệu khác trong repo không có: **có thể chấm điểm được**. Phần dưới đây làm đúng việc đó — đối chiếu điều báo cáo dự phóng với điều đã xảy ra, và quan trọng hơn, xem chẩn đoán của nó còn đứng vững tới đâu.
+
+### Dự báo trung tâm của báo cáo đã sai, và lý do nó sai mới là điều đáng nói
+
+Con số mà báo cáo gọi là phũ phàng nhất là: với tốc độ tăng năng suất hiện tại, GDP đầu người chỉ tăng **4,0–4,5% mỗi năm**, tức Việt Nam rơi đúng vào kịch bản thấp nhất trong bốn kịch bản, và cách rất xa mức 6% tối thiểu để chạm 18.000 USD vào 2035.
+
+Mười năm sau, kịch bản đó **đã không xảy ra**. Trừ hai năm đại dịch, tăng trưởng đầu người vẫn bám quanh mức lịch sử 5,5% chứ không tụt xuống vùng 4%. Về mặt con số, báo cáo đã bi quan quá mức.
+
+Nhưng cơ chế mà báo cáo mô tả thì không sai — chỉ có **thời điểm cạn kiệt** là bị đặt quá sớm. Báo cáo lập luận rằng ba lực bù đắp cho sự sụp đổ của năng suất các nhân tố tổng hợp — lực lượng lao động tăng nhanh, chuyển dịch cơ cấu quy mô lớn, và tích luỹ vốn tăng tốc — đều sắp chạm giới hạn tự nhiên. Thực tế là **lực thứ hai và thứ ba được nạp lại một lần nữa**, bằng một làn sóng đầu tư trực tiếp nước ngoài mà báo cáo không hình dung được.
+
+Điều này quan trọng vì nó đổi hoàn toàn cách đọc kết quả. Nếu tăng trưởng được giữ nhờ năng suất cải thiện, thì chẩn đoán của báo cáo đã bị bác bỏ. Nếu nó được giữ nhờ thêm một vòng chuyển dịch cơ cấu và thêm vốn — đúng hai thứ mà báo cáo nói là đã tới hạn — thì **chẩn đoán vẫn nguyên vẹn và vấn đề chỉ được hoãn lại**. Bằng chứng nghiêng hẳn về khả năng thứ hai, vì thứ đã thay đổi trong mười năm qua là vị trí của Việt Nam trong chuỗi cung ứng toàn cầu, không phải hiệu quả sử dụng vốn của doanh nghiệp trong nước.
+
+Nói cách khác, Việt Nam đã **mua được thời gian chứ chưa giải được bài toán**. Và vì báo cáo lập luận rằng các cải cách dài hạn cần khoảng một thập kỷ để chín, mười năm vừa qua chính là khoảng thời gian mà báo cáo nói phải dùng để khởi động chúng.
+
+### Thứ cứu quỹ đạo tăng trưởng lại là thứ báo cáo xếp vào mục rủi ro
+
+Báo cáo có nhìn thấy "chiến lược Trung Quốc + 1", và mô tả lợi thế kép của Việt Nam — vừa hưởng lương thấp vừa nằm trong chuỗi cung ứng Trung Quốc — là "một sự kết hợp rất hấp dẫn". Nó thậm chí ghi nhận dấu hiệu sớm: cụm công nghiệp điện tử đang hình thành ở Bắc Trung Bộ quanh Hà Nội.
+
+Nhưng cơ chế mà báo cáo hình dung là **hội tụ tiền lương** — một quá trình liên tục, chậm rãi, kéo dài nhiều thập kỷ. Thứ thực sự xảy ra từ 2018 là một **cú gián đoạn**: thuế quan làm các tập đoàn đa quốc gia phải dời công đoạn cuối ra khỏi Trung Quốc trong vài quý chứ không vài thập kỷ. Đây là một hiện tượng khác về bản chất, và báo cáo không có chỗ nào cho nó.
+
+Cùng lúc, **trụ cột hội nhập mà báo cáo đặt cược vào đã sụp**. TPP được ước tính cộng thêm 8% GDP tích luỹ đến 2035, và quan trọng không kém, thoả thuận phụ với Hoa Kỳ về lao động là căn cứ mà báo cáo dùng để đề xuất công đoàn độc lập. Hoa Kỳ rút khỏi TPP tháng 1/2017, **chưa đầy một năm sau khi báo cáo phát hành**. CPTPP và EVFTA sau đó đã bù lại một phần về thương mại, và EVFTA còn giữ lại phần cam kết lao động — nhưng không hiệp định nào có Hoa Kỳ, tức mất đi chính thị trường và chính đối tác mà kịch bản gốc dựa vào.
+
+Kết quả là một nghịch lý đáng suy nghĩ: **Việt Nam mất đòn bẩy hội nhập mà báo cáo trông cậy, nhưng vẫn nhận được dòng vốn mà đòn bẩy đó lẽ ra mang tới** — chỉ là qua một con đường hoàn toàn khác và với một chất lượng khác.
+
+Chất lượng mới là vấn đề. Báo cáo đã nêu rất rõ rằng mô hình hiện tại dừng ở lắp ráp cuối nguồn, với **linh kiện nhập khẩu chiếm 50–60% giá trị hàng may mặc và giày dép xuất khẩu**, liên kết ngược rất hạn chế và chuyển giao công nghệ rất ít. Làn sóng đầu tư sau 2018 phần lớn **củng cố đúng mô hình đó** thay vì thay đổi nó. Kim ngạch tăng, việc làm tăng, và tỷ trọng giá trị gia tăng trong nước — chỉ tiêu duy nhất phân biệt được dịch chuyển năng lực sản xuất thật với trung chuyển thuần tuý — không tăng tương ứng. Đây chính là điểm mà tài liệu về thương mại và đầu tư ASEAN trong một thế giới phân mảnh, trong thư mục Asean 2026 của repo này, xác định là chỉ tiêu phải theo dõi thay cho kim ngạch.
+
+### Bốn cú sốc ngoài mọi kịch bản: ba xác nhận chẩn đoán, một đe doạ chính đích đến
+
+**Đại dịch** không có trong bất kỳ kịch bản nào của báo cáo. Nhưng nó lại là phép thử sát nhất cho trụ cột thứ hai. Báo cáo mô tả một hệ thống an sinh có "phần giữa bị bỏ trống" — khoảng 20% trên cùng có lương hưu chính thức, một nhóm nhỏ dưới đáy có hưu trí xã hội, **đa số không có gì cho tới 80 tuổi**; chi tiền túi cho y tế chiếm khoảng một nửa tổng chi y tế, thuộc hàng cao nhất châu Á đang phát triển; và hơn 5 triệu người sống nơi mình không có đăng ký thường trú, trong đó 2,7 triệu ở TP.HCM. Năm 2021, ba đặc điểm trừu tượng đó hiện ra cùng một lúc dưới hình ảnh cụ thể của dòng người lao động rời đô thị về quê. Báo cáo gọi hộ khẩu là "một thứ thuế đánh vào di cư"; đại dịch cho thấy nó cũng là một thứ thuế đánh vào khả năng chống chịu.
+
+**Chiến tranh thương mại Mỹ–Trung** đã bàn ở trên.
+
+**Biến đổi khí hậu ở đồng bằng sông Cửu Long** là phần báo cáo nhìn xa nhất và cũng là phần nó tự cảnh báo đúng nhất. Các con số cụ thể vẫn đứng: phần lớn diện tích đồng bằng **dưới 2 mét** so với mực nước biển; sản lượng lúa có thể giảm **3–9 triệu tấn mỗi năm vào 2050**; vùng trồng cà phê năng suất cao có thể không còn phù hợp; quỹ đạo bão đã dịch về phía nam khiến TP.HCM ngày càng có nguy cơ bị đánh trực diện; nhiệt độ tăng **0,26°C mỗi thập kỷ kể từ 1971, gấp đôi mức bình quân toàn cầu**.
+
+Nhưng điều hoá ra quan trọng nhất lại nằm ở một chú thích: báo cáo thừa nhận các dự báo này **chưa tính đến sụt lún đất**. Mười năm qua cho thấy chính chú thích đó, chứ không phải dự báo chính, mới là hướng dẫn đúng. Sụt lún do khai thác nước ngầm cộng với việc thiếu phù sa do các đập thượng nguồn đã làm điều kiện đồng bằng xấu đi nhanh hơn nhiều so với kịch bản chỉ tính nước biển dâng. Các đợt hạn mặn nghiêm trọng đã xảy ra **ngay trong thập kỷ này**, không phải quanh năm 2050 như chân trời mà báo cáo dùng.
+
+Hệ quả về mặt phân loại vấn đề cũng đã đổi. Báo cáo xếp khí hậu vào đột phá thứ tư của trụ cột 1, tức một bài toán đánh đổi giữa tăng trưởng và bền vững. Ở đồng bằng sông Cửu Long, nó đã trở thành một câu hỏi về **khả năng tồn tại của một vùng đang giữ một phần lớn việc làm nông nghiệp** — tức gần với bài toán chuyển dịch cơ cấu hơn là bài toán môi trường. Báo cáo có linh cảm về điều này khi viết rằng nông nghiệp "sẽ phải cạnh tranh ngay trong nước với đô thị, công nghiệp và dịch vụ để giành lao động, đất và **nước**", nhưng nó đặt câu đó ở chương nông nghiệp thay vì chương khí hậu.
+
+**Trí tuệ nhân tạo** là chỗ báo cáo lạc hậu rõ nhất, và theo một cách đáng chú ý. Khung công nghệ của báo cáo lo về in 3D, robot, và "phi công nghiệp hoá sớm"; nó dự đoán công nghệ sẽ "xoá sổ các nghề thu nhập trung bình mang tính lặp lại trong khi bổ trợ cho công việc kỹ năng cao". **Hình dạng của dự đoán đó đúng; công nghệ thì sai.** In 3D không đưa sản xuất về nước phát triển như báo cáo lo ngại. Thay vào đó là một công nghệ tác động lên một tầng hoàn toàn khác.
+
+Và đây mới là điểm nghiêm trọng. Lối thoát mà báo cáo vạch ra khỏi bẫy lắp ráp cuối nguồn là **đi lên trong chuỗi giá trị** — sang thiết kế, nghiên cứu phát triển, dịch vụ, và cuối cùng là đứng đầu chuỗi như Apple, Samsung hay Huawei. Trí tuệ nhân tạo nén lại đúng những nấc thang đó. Báo cáo cũng đã ghi nhận rằng tăng trưởng xuất khẩu dịch vụ của Việt Nam "ảm đạm" — mà dịch vụ chính là nơi lẽ ra phải bù đắp.
+
+Nói cách khác, ba cú sốc đầu tiên **thay đổi tốc độ** của kế hoạch. Cú sốc thứ tư đặt câu hỏi liệu **đích đến có còn ở đó hay không**. Đây là điều mà một bản cập nhật cho báo cáo này sẽ phải trả lời trước tiên.
+
+### Chẩn đoán đúng nhất của báo cáo lại là chẩn đoán ít được nhắc nhất
+
+Phát hiện gây sốc nhất trong toàn bộ báo cáo không phải về doanh nghiệp nhà nước mà về **khu vực tư nhân trong nước**: doanh thu trên đơn vị tài sản của doanh nghiệp tư nhân Việt Nam đi từ khoảng **2,00 đầu những năm 2000 xuống khoảng 0,70 năm 2014**, tức rơi xuống dưới mức của doanh nghiệp tư nhân Trung Quốc và **không còn khe sáng nào** so với doanh nghiệp nhà nước. Kèm theo là một nghịch lý: doanh nghiệp tư nhân **lớn** (trên 300 lao động) lại kém năng suất hơn doanh nghiệp nhỏ.
+
+Báo cáo cũng chỉ rõ nơi tài sản chảy tới: đất và vốn được tích luỹ mạnh vào **xây dựng, bất động sản, ngân hàng – tài chính** giai đoạn 2001–2013 — đúng những ngành năng suất thấp nhất, và cũng đúng những ngành mà năng suất lao động thực sự giảm.
+
+Mười năm sau, vấn đề "thiếu doanh nghiệp tư nhân lớn" đã được giải quyết **về hình thức**: Việt Nam nay có những tập đoàn tư nhân trong nước quy mô lớn. Nhưng chúng tập trung áp đảo ở đúng bộ ba ngành mà chẩn đoán của báo cáo gọi là **triệu chứng chứ không phải lời giải**. Và đợt căng thẳng trái phiếu doanh nghiệp cùng bất động sản 2022–2023 là hệ quả nhìn thấy được của chính mẫu hình đó.
+
+Đây là trường hợp rõ nhất mà báo cáo đã dự báo đúng và gần như không ai ghi công cho nó. Câu mà báo cáo dùng để tóm tắt cơ chế vẫn là câu sắc nhất trong toàn bộ tài liệu: **"Không có lý do gì để tin rằng những người giỏi thu vén vốn chính trị hay khai thác quan hệ thì cũng nhất thiết giỏi hơn trong việc điều hành doanh nghiệp."**
+
+### Trụ cột thứ ba đã tiến, nhưng mẫu hình của những gì tiến được mới là điều đáng đọc
+
+Đây là phần được chú ý nhất khi báo cáo ra đời, vì nó đi xa hơn hẳn thông lệ của một tài liệu do chính phủ đồng ký. Cách chấm điểm công bằng nhất là đối chiếu **từng khuyến nghị cụ thể** với những gì đã được luật hoá, vì các khuyến nghị nhóm C đều rất rõ ràng.
+
+Những mục **đã có chuyển động thực tế**:
+
+- **Luật Tiếp cận Thông tin** — báo cáo nói đây là đạo luật "đã bàn nhiều năm". Nó được Quốc hội thông qua ngay trong năm 2016 và có hiệu lực từ 2018.
+- **Hộ khẩu** — báo cáo xếp ba phương án theo thứ tự tăng dần, và phương án thứ ba, dài hạn nhất, là **thay hộ khẩu bằng thẻ căn cước quốc gia gắn với một cơ sở dữ liệu dân cư thống nhất**. Sổ hộ khẩu giấy chấm dứt giá trị sử dụng từ đầu năm 2023, sớm hơn nhiều so với chân trời mà báo cáo đặt ra. Đây là khuyến nghị tham vọng nhất của trụ cột 2 và nó đã được thực hiện đúng dạng thức được đề xuất.
+- **Luật Cạnh tranh** — báo cáo phê phán rất cụ thể việc các-ten cứng được miễn trừ nếu thị phần các bên dưới 30%, và việc quyền quyết định miễn trừ thuộc về bộ trưởng hoặc thủ tướng, "mở cửa cho can thiệp chính trị". Luật Cạnh tranh 2018 thay thế luật 2004 đã bỏ ngưỡng miễn trừ đó và cơ cấu lại cơ quan cạnh tranh.
+- **Luật Đất đai 2024** — đây là phản hồi cho chẩn đoán nặng nhất của báo cáo, rằng "thị trường giao dịch quyền sử dụng đất, trên thực tế, là không tồn tại". Việc bỏ khung giá đất của nhà nước để chuyển sang định giá theo nguyên tắc thị trường, và siết lại các trường hợp thu hồi, ánh xạ trực tiếp vào nhóm khuyến nghị B. Kết quả phụ thuộc vào thực thi, nhưng hướng đi đúng là hướng báo cáo chỉ ra.
+- **Tuổi nghỉ hưu và bảo hiểm xã hội** — Bộ luật Lao động 2019 luật hoá lộ trình nâng tuổi nghỉ hưu và thu hẹp chênh lệch nam nữ, tức hai trong sáu cải cách mà báo cáo liệt kê. Luật Bảo hiểm xã hội sửa đổi sau đó giảm số năm đóng tối thiểu và hạ tuổi hưởng trợ cấp hưu trí xã hội — đúng công thức "trợ cấp đóng góp cho lao động phi chính thức cộng hạ dần tuổi nhận hưu trí xã hội" mà báo cáo đề xuất để lấp "phần giữa bị bỏ trống".
+- **Đại biểu Quốc hội chuyên trách** — tỷ lệ tối thiểu đã được nâng bằng luật, đúng hướng khuyến nghị dù chưa tới mức báo cáo hình dung.
+- **Quyền chủ sở hữu vốn nhà nước** — báo cáo phê phán việc "nhiều bộ ngành cùng thực thi quyền sở hữu" và "không một quan chức cụ thể nào chịu trách nhiệm về hiệu quả của DNNN", và nêu mô hình Singapore. Một cơ quan chuyên trách quản lý vốn nhà nước được lập năm 2018, thực hiện đúng nguyên tắc tách chức năng chủ sở hữu khỏi bộ chủ quản. Việc mô hình này tiếp tục được tổ chức lại cho thấy câu hỏi "ai chịu trách nhiệm" vẫn còn mở.
+- **Tổ chức của người lao động tại doanh nghiệp** — Bộ luật Lao động 2019 lần đầu cho phép người lao động thành lập tổ chức đại diện tại cơ sở nằm ngoài hệ thống công đoàn hiện hành. Đây là đúng cam kết mà báo cáo dẫn từ thoả thuận phụ TPP, được giữ lại qua CPTPP và EVFTA. Khung pháp lý cấp luật đã có; các văn bản hướng dẫn để vận hành thì chưa.
+
+Những mục **chưa có chuyển động**: **Luật về Hội**; tách quản lý nhà nước về báo chí khỏi quản lý cơ quan báo chí và chuyển từ chế tài hình sự sang dân sự; độc lập của tư pháp theo nghĩa cấu trúc mà báo cáo mô tả (lựa chọn và đề bạt thẩm phán độc lập với ảnh hưởng của hành pháp, và mở rộng phạm vi giám sát tư pháp với hoạt động hành pháp); và uỷ ban chính sách tiền tệ độc lập về vận hành với nhiệm vụ ổn định giá cả rõ ràng.
+
+**Mẫu hình rất rõ và nó tự nói lên điều gì đó.** Những khuyến nghị đã được thực hiện đều mang tính **kỹ thuật – hành chính**: số hoá một thủ tục, sửa một ngưỡng miễn trừ, đổi cách định giá đất, gom quyền chủ sở hữu về một đầu mối, nâng tuổi hưu. Những khuyến nghị chưa được thực hiện đều liên quan tới việc **tạo ra các chủ thể độc lập với nhà nước** — hội đoàn tự chủ, báo chí tự chủ, toà án tự chủ, công đoàn tự chủ.
+
+Đối chiếu với chính khung phân tích của báo cáo, mẫu hình này rơi đúng vào chỗ mà báo cáo cảnh báo: trong kiềng ba chân, **chân thứ nhất (năng lực bộ máy) và chân thứ hai (lý tính thị trường) nhận được sự chú ý bền bỉ, còn chân thứ ba (sự tham gia của người dân) ít nhất**. Và mệnh đề trung tâm của trụ cột 3 là cả ba chân đều cần thiết: "cải tổ cấu trúc nhà nước nhưng từ chối kỷ luật thị trường, hoặc trao vai trò lớn hơn cho cơ chế thị trường trong khi cách ly việc ra quyết định của chính phủ khỏi cộng đồng — đều khó tạo ra kết quả tích cực."
+
+Cần nói cho công bằng rằng chính báo cáo cũng cung cấp một lập luận khiến trình tự này trở nên hợp lý chứ không mâu thuẫn. Phân tích về sáu chiều quản trị chỉ ra rằng khi một nước đi từ thu nhập trung bình **thấp lên trung bình cao**, thứ quyết định là chất lượng quy định, pháp quyền và kiểm soát tham nhũng; còn tiếng nói và trách nhiệm giải trình chỉ trở nên quyết định khi đi tiếp **lên thu nhập cao**. Việt Nam đang ở bước chuyển thứ nhất, nên việc dồn lực vào hai chân đầu là nhất quán với chính logic của báo cáo.
+
+Nhưng báo cáo cũng đã tự phản biện trước lập luận đó, bằng ví dụ Hàn Quốc cuối thập niên 1970: ổn định vĩ mô, hiện đại hoá nông nghiệp và bãi bỏ quy định cho hiệu quả **mạnh và nhanh**, còn giáo dục đại học, nghiên cứu phát triển và đô thị hoá có **độ trễ rất lớn** và đã phải khởi động từ nhiều năm trước đó. Cùng logic ấy áp cho chân thứ ba: nếu nó chỉ trở nên quyết định ở mức thu nhập cao, thì đó chính là lý do phải bắt đầu xây nó **trước khi** tới mức thu nhập đó.
+
+Một chỉ dấu đáng chú ý mà báo cáo nêu và vẫn còn nguyên giá trị theo dõi: hệ thống toà án "gần như đứng yên" — số toà và số thẩm phán chỉ tăng khiêm tốn trong mười năm trong khi độ phức tạp vụ việc tăng nhanh, khiến "người dân ít sẵn sàng dùng toà án". Với một nền kinh tế đang chuyển từ quan hệ dựa trên mạng lưới sang quan hệ dựa trên hợp đồng, mức độ người dân và doanh nghiệp sẵn sàng đưa tranh chấp ra toà là một thước đo thể chế khách quan, đo được, và không mang màu sắc chính trị.
+
+### Hai chiếc đồng hồ không thương lượng được, và cả hai đều đặt chuông vào đúng năm 2035
+
+Trong toàn bộ báo cáo, tăng trưởng có thể được cứu bởi may mắn bên ngoài như đã xảy ra. Hai thứ thì không.
+
+**Thứ nhất là nhân khẩu học.** Tỷ trọng dân số trong tuổi lao động **đã đạt đỉnh năm 2013**. Số người trên 65 tuổi đi từ 6,3 triệu lên 15,5 triệu, tỷ trọng từ 6,7% lên 14,4%, tỷ số phụ thuộc người già từ 10 lên 22 trong giai đoạn 2015–2035 rồi tiếp tục lên khoảng 46 vào giữa thế kỷ. Số người trong tuổi lao động bắt đầu **giảm tuyệt đối ngay sau 2035**. Đây là loại dự báo đáng tin cậy nhất trong kinh tế học, vì những người sẽ 65 tuổi năm 2035 đều đã sinh ra từ trước khi báo cáo được viết. Mười năm qua đã đi đúng quỹ đạo đó.
+
+Câu tóm tắt của báo cáo vẫn là câu đúng: Việt Nam sẽ là một trong những xã hội già hoá nhanh nhất thế giới, và điểm chí tử là nó **già trước khi giàu**.
+
+**Thứ hai là quỹ hưu trí.** Báo cáo dự báo quỹ hưu khu vực chính thức bắt đầu thâm hụt từ thập niên 2020 và **cạn quỹ tích luỹ vào khoảng năm 2035** — đúng năm đích của chính báo cáo. Các cải cách về tuổi hưu và điều kiện hưởng đã được luật hoá, tức chiếc đồng hồ này đã được vặn chậm lại phần nào. Nhưng bài toán số học thì chưa đổi: nước có tỷ số phụ thuộc người già bằng mức Việt Nam năm 2035 thường chi **8–9% GDP** cho lương hưu công, trong khi Việt Nam chi 2–3% suốt thập kỷ trước đó.
+
+Và đây dẫn tới khoảng trống phân tích lớn nhất của chính báo cáo, sẽ bàn ở mục tiếp theo.
+
+### Phép cộng mà báo cáo không bao giờ thực hiện, và nay nó đã trở nên chặt hơn
+
+Trụ cột 2 dự phóng chi lương hưu lên **6–8% GDP** và chi công cho y tế lên **3,75% GDP** vào năm 2035, tức khoảng **10–12% GDP** cho riêng hai khoản. Trụ cột 1 cùng lúc kêu gọi **củng cố tài khoá** để xử lý nợ công đã vượt 60% GDP, kèm nghĩa vụ tiềm tàng từ nợ doanh nghiệp nhà nước khoảng 50% GDP nữa. Tổng thu ngân sách khi đó khoảng 25% GDP, trong đó thu từ thương mại chiếm khoảng 10% và **chắc chắn sẽ giảm mạnh** do cam kết trong các hiệp định thương mại tự do.
+
+**Không ở đâu trong báo cáo các con số này được cộng lại.** Đây là khoảng trống nghiêm trọng nhất của tài liệu, và mười năm qua đã làm nó chặt hơn chứ không lỏng ra: đại dịch bổ sung nợ, và việc xói mòn nguồn thu từ thuế nhập khẩu diễn ra đúng như dự báo.
+
+Danh sách nguồn thu thay thế mà báo cáo đưa ra là đúng và vẫn còn nguyên: thuế thu nhập cá nhân khi việc làm được chính thức hoá, **thuế đất và tài sản** — vừa tăng thu vừa tạo động lực dùng đất hiệu quả hơn, tức giải quyết hai vấn đề bằng một công cụ — và thuế môi trường. Trong ba khoản, thuế tài sản là khoản có đòn bẩy lớn nhất theo chính logic của báo cáo, và là khoản chưa được ban hành.
+
+Khoảng trống này cũng là lý do phần tài khoá của báo cáo nên được đọc dè dặt nhất: toàn bộ phân tích dựa trên một **bản thảo chưa xuất bản** mà người đọc không thể kiểm chứng.
+
+Có một khoảng trống thiết kế nhỏ hơn nhưng đáng nêu, vì nó ảnh hưởng tới cách tổng kết năm 2035. Trong năm tiêu chí định lượng, mức độ tham vọng **chênh nhau rất xa**: tiêu chí thu nhập đòi hỏi GDP đầu người tăng hơn ba lần, trong khi tiêu chí chỉ số phát triển con người đặt ở mức 0,70 trong khi Việt Nam năm 2014 đã đạt khoảng 0,666 — tức gần như đã đạt ngay khi báo cáo ra đời. Một bảng điểm mà một ô có thể được tích ngay ngày công bố là một bảng điểm có lỗi thiết kế, và nó cho phép đưa ra tuyên bố "đạt bốn trên năm tiêu chí" mà không cần chuyển đổi thực chất nào. Báo cáo không hề bình luận về sự chênh lệch này.
+
+### Đóng góp bền nhất của báo cáo không phải một con số mà là một thước đo
+
+Sau mười năm, điều đáng giữ lại nhất từ tài liệu này không phải mốc 18.000 USD, không phải sáu đột phá, cũng không phải ba trụ cột. Đó là câu đặt ra ngay ở phần đầu: **"thành công cần được đo không chỉ so với năng lực, nỗ lực, hay thậm chí so với thành tích của các nước cùng nhóm, mà còn phải đo so với chính khát vọng."**
+
+Đo theo chuẩn các nước cùng nhóm, mười năm qua của Việt Nam là rất tốt — có lẽ tốt hơn bất kỳ nước nào có cùng xuất phát điểm. Đo theo chuẩn mà báo cáo tự đặt ra, bản tổng kết giữa kỳ phức tạp hơn nhiều:
+
+- Con số tăng trưởng **trụ vững tốt hơn báo cáo lo ngại**, nhờ một nguyên nhân báo cáo không lường trước và cũng không cổ vũ.
+- Chẩn đoán năng suất **chưa bị bác bỏ**; nó được hoãn lại bằng thêm một vòng chuyển dịch cơ cấu do vốn ngoại dẫn dắt.
+- Trụ cột thể chế **đã chuyển động ở các hạng mục kỹ thuật** và chưa chuyển động ở các hạng mục về sự tham gia.
+- Hai chiếc đồng hồ không dừng được — **nhân khẩu học và đồng bằng sông Cửu Long** — đều chạy tới đúng năm 2035.
+- Và một biến số hoàn toàn mới, **trí tuệ nhân tạo**, đặt dấu hỏi lên chính nấc thang mà báo cáo vạch ra để thoát khỏi lắp ráp cuối nguồn.
+
+Báo cáo nói Việt Nam đang ở một bước ngoặt, tại mốc khoảng 25 năm sau khi tăng tốc — chỗ mà Hàn Quốc và Đài Loan giữ nguyên nhịp trong khi Brazil, Ai Cập và Thái Lan bắt đầu tụt lại. Nay đã có thêm mười năm dữ liệu. Về tốc độ, Việt Nam vẫn bám được nhóm trên. Nhưng tiêu chí mà chính báo cáo dùng để phân biệt hai nhóm **không phải tốc độ mà là năng suất**, và trên tiêu chí đó câu hỏi vẫn chưa được trả lời.
+
+Mười năm mà làn sóng đầu tư sau chiến tranh thương mại mua được chính là khoảng thời gian mà báo cáo nói các cải cách dài hạn cần để chín. Đó sẽ là câu hỏi mà một bản tổng kết năm 2035 đặt ra: khoảng thời gian ấy đã được dùng để làm gì.

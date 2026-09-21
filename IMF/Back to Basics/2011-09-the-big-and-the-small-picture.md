@@ -125,3 +125,71 @@
 > "If Adam Smith is the father of economics, John Maynard Keynes is the founding father of macroeconomics."
 
 > "There are no competing schools of thought in microeconomics... The same cannot be said of macroeconomics."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Phép so sánh với vật lý ở câu mở đầu tâng bốc ngành kinh tế học một cách không xứng đáng
+
+Bài mở bằng hình ảnh đẹp: nhà vật lý nhìn cả thế giới lớn của thiên hà lẫn thế giới nhỏ của hạt, nhà kinh tế cũng có hai vương quốc như vậy. Hình ảnh này định hình toàn bộ cách đọc phần còn lại, và nó che giấu một khác biệt quyết định.
+
+Trong vật lý, quan hệ giữa hai tầng là quan hệ **suy ra được**. Các định luật nhiệt động học không phải một lý thuyết song song với cơ học phân tử; chúng là **hệ quả** của cơ học phân tử, được dẫn xuất bằng phương pháp thống kê. Nhiệt độ không phải một khái niệm mới, nó là động năng trung bình của các phân tử.
+
+Kinh tế học không có quan hệ đó, và dự án "xây nền tảng vi mô cho mô hình vĩ mô" mà bài mô tả chính là nỗ lực tạo ra nó. Có hai lý do khiến nỗ lực này khó hơn nhiều so với trường hợp vật lý, và bài không nêu lý do nào.
+
+Lý do thứ nhất: **các phân tử không quan sát nhiệt độ rồi đổi hành vi**. Hộ gia đình và doanh nghiệp thì có. Họ hình thành kỳ vọng về biến tổng hợp, hành vi của họ thay đổi theo kỳ vọng đó, và tổng của các hành vi ấy lại tạo ra chính biến tổng hợp. Vòng phản hồi từ tầng lớn xuống tầng nhỏ rồi trở lên không có tương đương nào trong vật lý, và nó là lý do vì sao việc "cộng dồn" trong kinh tế học không đơn giản là một phép cộng.
+
+Lý do thứ hai sâu hơn và là một kết quả lý thuyết đã được chứng minh: **giả định rằng mọi cá nhân đều hành xử hợp lý hầu như không áp đặt ràng buộc nào lên hình dạng của hành vi tổng hợp**. Nói cách khác, ngay cả khi ta chấp nhận toàn bộ giả định của kinh tế vi mô về tính hợp lý, ta vẫn không suy ra được rằng nền kinh tế tổng thể sẽ cư xử một cách trật tự. Kết quả này được biết đến từ thập niên 1970 và nó đánh thẳng vào luận cứ trung tâm của dự án nền tảng vi mô. Việc bài không nhắc tới nó khiến người đọc nghĩ rằng đây chỉ là một bài toán kỹ thuật cần thêm thời gian và máy tính nhanh hơn.
+
+### Bài mô tả một vòng tròn trí tuệ mà không nhận ra đó là một vòng tròn
+
+Đây là quan sát sắc nhất có thể rút ra từ bài, và nó nằm ở chỗ ghép hai phần cách nhau vài đoạn.
+
+Phần giữa bài giải thích vì sao kinh tế vĩ mô ra đời: kinh tế học cổ điển giả định thị trường **luôn cân bằng**, nên không giải thích nổi Đại Suy thoái; Keynes đưa vào "kinh tế học mất cân bằng", tức nghiên cứu một cách rõ ràng sự **lệch khỏi** cân bằng tổng thể. Kinh tế vĩ mô sinh ra chính là để thoát khỏi khung cân bằng.
+
+Phần sau bài mô tả nỗ lực lớn nhất của ngành trong hai mươi lăm năm: xây nền tảng vi mô cho mô hình vĩ mô, với lý lẽ rằng "phân tích kinh tế hợp lệ phải bắt đầu từ hành vi của các thành tố vi mô: hộ gia đình và hãng **tìm cách tối ưu hoá** điều kiện của mình".
+
+Hai đoạn này mô tả một vòng tròn khép kín. Kinh tế vĩ mô được tạo ra để thoát khỏi thế giới của các tác nhân tối ưu hoá trong thị trường cân bằng, rồi dành hai mươi lăm năm để tự đặt mình trở lại đúng thế giới đó. Bài kể cả hai nửa bằng giọng trung tính và không ghép chúng lại.
+
+Kết quả của vòng tròn ấy thì bài chỉ kịp nhắc tới ở câu cuối: "những khiếm khuyết bị bộc lộ bởi bất ổn thị trường thế giới trong khủng hoảng tài chính toàn cầu bắt đầu 2008". Nói thẳng hơn thì các mô hình vĩ mô chuẩn được các ngân hàng trung ương dùng vào thời điểm đó có hai đặc điểm chết người: chúng thường mô tả nền kinh tế bằng **một tác nhân đại diện** — nghĩa là không có sự khác biệt giữa người giàu và người nghèo, không có ai nợ ai, và do đó không thể có vỡ nợ — và ở nhiều phiên bản, **khu vực tài chính không xuất hiện**. Một mô hình không chứa ngân hàng thì không thể dự báo một cuộc khủng hoảng ngân hàng, bất kể nó được vi mô hoá kỹ đến đâu.
+
+Đáng ghi nhận là bài nhắc đúng cả hai hướng phản ứng đang manh nha lúc đó: đưa sự khác biệt giữa các hộ gia đình vào mô hình, và dùng máy tính mô phỏng hành vi của rất nhiều tác nhân riêng lẻ thay vì giải một mô hình đại diện. Cả hai hướng đã phát triển mạnh sau 2008, và cả hai đều là cách thừa nhận rằng **sự khác biệt giữa các tác nhân là bản chất chứ không phải chi tiết có thể lược bỏ**.
+
+### Vì sao vi mô thống nhất còn vĩ mô chia rẽ — bài nêu hiện tượng, lời giải thì nằm ở chỗ khác
+
+Bài nhận xét rằng vi mô "không có trường phái đối lập, thống nhất với lõi chung", còn vĩ mô thì có các trường phái cạnh tranh. Nó ngầm giải thích bằng mức độ trưởng thành: vi mô "tiến hoá đều đặn không ồn ào", còn vĩ mô "bắt nguồn từ quan sát thực nghiệm mà lý thuyết hiện có không giải thích được".
+
+Có một lời giải thích đơn giản và mạnh hơn nhiều, và nó không liên quan gì tới mức độ trưởng thành: **kinh tế vi mô có thể làm thí nghiệm, kinh tế vĩ mô thì không**.
+
+Một câu hỏi vi mô — chương trình đào tạo nghề này có giúp người thất nghiệp tìm được việc không, thiết kế đấu giá này có thu được nhiều hơn thiết kế kia không, mức phí này có làm khách hàng chuyển nhà mạng không — đều có thể kiểm chứng bằng cách chia ngẫu nhiên thành nhóm được và nhóm không, hoặc tìm một biến cố tự nhiên tạo ra sự phân chia đó. Có nhóm đối chứng thì tranh luận khép lại được.
+
+Một câu hỏi vĩ mô — nếu không có gói kích thích thì GDP nước này đã ra sao — có **đúng một quan sát và không có nhóm đối chứng nào**. Không thể chạy lại lịch sử với một chính sách khác. Mọi câu trả lời đều phải đi qua một mô hình, và mô hình thì phản ánh giả định của người xây nó.
+
+Nếu đó là nguyên nhân thì sự chia rẽ trong kinh tế vĩ mô **không phải một khiếm khuyết sẽ được khắc phục**; nó là đặc tính cố hữu của một lĩnh vực mà bằng chứng không đủ sức phân xử. Và hệ quả thực hành rất rõ: với một tranh luận vĩ mô, việc đòi hỏi bằng chứng quyết định là đòi hỏi một thứ không tồn tại, nên tiêu chí hợp lý hơn là **tính nhất quán nội tại và mức độ chịu được sai lầm** — chính sách nào gây hại ít nhất nếu giả định của nó hoá ra sai. Đây cũng là cách đọc đúng bài về hồi quy và bài về kinh tế lượng trong cùng loạt Back to Basics.
+
+### Hai lĩnh vực đi ngược chiều nhau về cùng một giả định, cùng một lúc
+
+Có một sự trùng hợp mà bài không thể thấy vì nó đứng quá gần thời điểm.
+
+Trong khi kinh tế vĩ mô dành hai mươi lăm năm để xây dựng lại chính mình trên nền tảng các tác nhân **tối ưu hoá một cách hợp lý**, thì kinh tế vi mô trong cùng giai đoạn ấy lại dành công sức để chứng minh rằng con người **không tối ưu hoá theo cách đó**: họ đánh giá mất mát nặng hơn được lợi ở cùng độ lớn, họ chọn theo cách vấn đề được trình bày, họ trì hoãn những việc có lợi cho chính mình, họ bị chi phối bởi lựa chọn mặc định.
+
+Hai nhánh của cùng một ngành đã di chuyển theo hai hướng ngược nhau về cùng một giả định nền tảng, trong cùng một khoảng thời gian, mà không va vào nhau. Điều đó tự nó là bằng chứng mạnh nhất cho luận điểm trung tâm của bài rằng sự chia tách đã được thể chế hoá sâu đến mức nào — sâu tới mức một phát hiện ở nhánh này có thể không ảnh hưởng gì tới giả định nền của nhánh kia suốt nhiều thập kỷ.
+
+Bài cũng bỏ qua một thay đổi lớn hơn cả hai: sự thống nhất mà nó khen ngợi ở kinh tế vi mô phần nào đạt được **không phải nhờ lý thuyết mà nhờ dữ liệu**. Trọng tâm của vi mô đã dịch chuyển mạnh từ xây mô hình sang đo lường bằng các thiết kế nhận dạng nhân quả. Một lĩnh vực mà tranh luận được giải quyết bằng bằng chứng thì tự nhiên sẽ hội tụ; một lĩnh vực mà tranh luận chỉ giải quyết được bằng lập luận thì tự nhiên sẽ phân nhánh.
+
+### Kinh tế lượng bị xếp là "lĩnh vực cốt lõi thứ ba", nhưng nó không cùng loại với hai lĩnh vực kia
+
+Đoạn cuối bài nhắc tới kinh tế lượng như một lĩnh vực thứ ba, với nhận xét rằng không có nó thì "phần lớn phân tích tinh vi trong vi mô và vĩ mô sẽ không thể có".
+
+Cách xếp loại này chưa đúng. Vi mô và vĩ mô là hai **đối tượng nghiên cứu** khác nhau — thị trường riêng lẻ so với nền kinh tế tổng thể. Kinh tế lượng không phải một đối tượng nghiên cứu mà là **tập hợp các ràng buộc về những gì có thể biết được** từ dữ liệu sẵn có. Nó không nằm bên cạnh hai lĩnh vực kia mà nằm bên dưới cả hai.
+
+Cách hiểu này có ích hơn vì nó giải thích được điều mà cách hiểu kia không giải thích nổi: vì sao hai lĩnh vực có cấu trúc tri thức khác nhau đến thế. Kinh tế vi mô tiếp cận được các thiết kế nhận dạng nhân quả mạnh nên hội tụ; kinh tế vĩ mô không tiếp cận được chúng nên phân rẽ. Không phải vi mô có lý thuyết tốt hơn — mà nó có bằng chứng tốt hơn, và nguồn gốc của bằng chứng tốt hơn là bản chất của đối tượng chứ không phải tài năng của người nghiên cứu.
+
+### Với Việt Nam: sự chia tách này được sao chép vào cơ cấu bộ máy, và các vấn đề quan trọng nhất rơi vào khe giữa
+
+Sự phân đôi mà bài mô tả không chỉ tồn tại trong sách giáo khoa; nó được sao chép gần như nguyên vẹn vào cách mọi chính phủ tổ chức bộ máy phân tích chính sách. Một bên là các cơ quan lo biến tổng hợp — ngân hàng trung ương, bộ tài chính, cơ quan kế hoạch. Bên kia là các bộ ngành lo từng thị trường cụ thể. Và hệ quả là **những vấn đề nằm giữa hai bên thì không bên nào phân tích trọn vẹn**.
+
+Với Việt Nam, danh sách các vấn đề rơi vào khe giữa đó khá dài và toàn là những vấn đề lớn nhất. **Bất động sản và trái phiếu doanh nghiệp** là một thị trường ngành, nhưng khi nó chiếm tỷ trọng lớn trong tài sản bảo đảm của hệ thống ngân hàng thì nó là một biến vĩ mô. **Giá điện** là một quyết định ngành, nhưng nó quyết định đồng thời chỉ số lạm phát, cân đối ngân sách, và mức đầu tư vào công suất phát điện của cả thập kỷ tới. **Quá trình dịch chuyển lao động từ nông nghiệp sang công nghiệp và dịch vụ** là hiện tượng vi mô ở cấp hộ gia đình, nhưng tốc độ của nó là biến quyết định tăng trưởng năng suất của cả nền kinh tế.
+
+Từ đó rút ra một nguyên tắc đáng giữ, và nó ngược với trực giác thông thường ở các nước đang phát triển: **phần lớn những gì được gọi là vấn đề vĩ mô ở một nền kinh tế đang chuyển đổi thực ra là vấn đề vi mô ở dạng cộng dồn**. Tăng trưởng năng suất chậm không phải một biến vĩ mô để điều hành; nó là tổng của các sự kiện ở cấp doanh nghiệp — doanh nghiệp nào mở rộng, doanh nghiệp nào rút lui, vốn có chảy từ nơi kém hiệu quả sang nơi hiệu quả hơn không. Phân bổ tín dụng sai không phải hiện tượng tiền tệ; nó là hiện tượng quản trị ngân hàng ở cấp từng khoản vay.
+
+Hệ quả về ưu tiên xây dựng năng lực thì khá rõ. Việt Nam có hệ thống thống kê tổng hợp tương đối đầy đủ và công bố đều đặn, nhưng năng lực **đánh giá tác động chính sách ở cấp vi mô** — dữ liệu doanh nghiệp và hộ gia đình theo chiều dọc, thiết kế triển khai cho phép so sánh, khả năng nối các nguồn dữ liệu hành chính — thì mỏng hơn nhiều. Theo đúng logic đã trình bày ở trên, đó lại chính là loại năng lực có khả năng giải quyết tranh luận, trong khi thêm một mô hình vĩ mô nữa thì không. Đọc cùng bài về hồi quy và bài về đo lường dịch chuyển thu nhập trong cùng loạt, kết luận nhất quán: khoản đầu tư có lợi tức cao nhất cho chất lượng hoạch định chính sách không phải mô hình tốt hơn mà là **dữ liệu vi mô tốt hơn và thiết kế triển khai cho phép đánh giá**.

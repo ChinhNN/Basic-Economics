@@ -221,3 +221,65 @@ Ba điểm rút ra:
 > "ASEAN has built a shared production line, but not a shared market."
 
 > "Dismantling nontariff barriers could raise ASEAN output by 4.3 percent over the long run, equivalent to adding over a third of Malaysia's economy."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Phép so sánh 22% với 61% cần được đọc có điều kiện
+
+Đây là con số trung tâm của bài và cũng là chỗ dễ bị dùng sai nhất. Một phần khoảng cách giữa ASEAN và Liên minh châu Âu là **cấu trúc chứ không phải chính sách**, và bài không nói điều đó.
+
+Ba khác biệt nền tảng:
+
+**Địa lý.** Các nước EU tiếp giáp nhau trên một lục địa, nối bằng đường bộ và đường sắt. ASEAN gồm hai quần đảo lớn, một bán đảo và nhiều nghìn hòn đảo; phần lớn thương mại nội khối phải đi đường biển hoặc hàng không. Chi phí vận tải giữa Jakarta và Manila không thể so với chi phí giữa Lyon và Milano.
+
+**Mức chênh lệch phát triển.** Thu nhập đầu người của Singapore gấp hàng chục lần Myanmar hoặc Campuchia. Trong EU, khoảng cách giữa nước giàu nhất và nghèo nhất nhỏ hơn nhiều. Thương mại nội khối phát triển mạnh nhất giữa các nền kinh tế có cơ cấu **tương đồng** — đó là lý do phần lớn thương mại thế giới là thương mại nội ngành giữa các nước giàu. ASEAN thiếu điều kiện đó.
+
+**Thể chế.** EU có liên minh hải quan, thị trường chung, tự do di chuyển lao động và một tòa án có thẩm quyền cưỡng chế. ASEAN không có thứ nào trong số đó và không có ý định xây.
+
+Vì vậy con số mục tiêu hợp lý cho ASEAN không phải là 61%. Việc lấy EU làm mốc tạo ấn tượng rằng khoảng cách hoàn toàn do chính sách kém, trong khi một phần đáng kể là do địa lý và cơ cấu — những thứ không sửa được bằng đàm phán.
+
+### Nhưng lập luận thật của bài nằm ở chỗ khác, và nó sắc hơn nhiều
+
+Điều đáng giá không phải con số 22% mà là nhận xét về **bản chất** của phần thương mại nội khối đang có: chủ yếu là hàng trung gian trên đường tới thị trường bên ngoài.
+
+Điều này có hệ quả rủi ro rất cụ thể mà bài chỉ chạm tới bằng một câu ẩn dụ. Một khối có chuỗi sản xuất chung nhưng cầu cuối cùng nằm ngoài khối thì **mọi thành viên cùng chịu một cú sốc, cùng lúc, cùng chiều**. Không có đệm nội khối, không có phân tán rủi ro. Chuyên môn hóa sâu theo công đoạn thực ra còn làm tăng mức đồng pha: khi đơn hàng cho một sản phẩm cuối giảm, tất cả các công đoạn trong chuỗi cùng giảm.
+
+Nói cách khác, ASEAN đã tối ưu hóa cho **hiệu quả** mà chưa xây được **khả năng chống chịu**. Câu "dây chuyền sản xuất chung nhưng chưa có thị trường chung" là cách diễn đạt gọn nhất của ý này, và có lẽ là câu hay nhất trong cả chín tài liệu của thư mục.
+
+### Một phần của tương quan trong bài là cơ học chứ không phải hành vi
+
+Nhận xét "hai nền kinh tế mở nhất lại giao thương với láng giềng ít nhất" nghe như một nghịch lý về hành vi, nhưng có một phần là hệ quả số học.
+
+Tỷ trọng xuất khẩu nội khối là một phân số: xuất khẩu sang ASEAN chia cho tổng xuất khẩu. Với một nền kinh tế có độ mở 165% hay 175% GDP, mẫu số cực lớn vì nước đó đã thâm nhập sâu vào các thị trường toàn cầu. Tử số có thể vẫn tăng về giá trị tuyệt đối nhưng tỷ lệ thì nhỏ đi.
+
+Điều này không làm mất giá trị quan sát, nhưng nó có nghĩa là **tỷ trọng nội khối một mình không đủ để kết luận về mức độ hội nhập khu vực**. Chỉ tiêu đúng hơn phải là giá trị tuyệt đối thương mại nội khối trên đầu người, hoặc so sánh thương mại thực tế với mức dự báo từ mô hình trọng lực (có tính tới quy mô và khoảng cách). Bài không có những con số đó.
+
+Trường hợp Lào minh họa vấn đề từ chiều ngược lại: tỷ trọng nội khối khoảng 62% — cao hơn cả trung bình EU — nhưng đó là do Lào không giáp biển và phải đi qua nước láng giềng để ra thế giới. Đó là **phụ thuộc**, không phải hội nhập. Cùng một con số, hai ý nghĩa trái ngược.
+
+### Vì sao con số 4,3% lại là con số cao nhất khu vực, và điều đó có nghĩa gì
+
+Lợi ích ước tính từ việc gỡ hàng rào phi thuế quan của ASEAN (4,3%) cao hơn hẳn Đông Á (1,3%), Nam Á (1,7%) và toàn châu Á – Thái Bình Dương (1,8%). Cách đọc đúng: **ASEAN có lợi ích lớn nhất chính vì xuất phát điểm kém nhất** — càng nhiều rào cản còn lại thì càng nhiều thứ để gỡ.
+
+Đây là tin tốt lẫn tin xấu. Tin tốt vì dư địa lớn. Tin xấu vì nó xác nhận rằng sau nhiều thập niên với vô số tuyên bố chung và kế hoạch hành động, hội nhập ASEAN vẫn ở mức nông nhất trong các khối lớn của châu Á.
+
+Và bản chất của rào cản giải thích vì sao khó gỡ: thuế quan nội khối đã gần bằng không từ lâu. Thứ còn lại là tiêu chuẩn kỹ thuật, thủ tục hải quan, giấy phép, chứng nhận, hạn chế với dịch vụ và di chuyển lao động — hàng nghìn quy định nằm rải rác trong luật pháp trong nước của từng nước, mỗi quy định đều có một lý do chính đáng bề ngoài (an toàn, vệ sinh, bảo vệ người tiêu dùng) và một nhóm hưởng lợi cụ thể ở phía sau. Gỡ thuế quan là một chữ ký; gỡ hàng rào phi thuế quan là hàng nghìn trận đánh nhỏ trong nội bộ từng nước.
+
+### Với Việt Nam: vị thế cực đoan nhất trong khối
+
+Việt Nam là điểm cực trị trên cả hai trục — độ mở khoảng 165% GDP thuộc nhóm cao nhất thế giới, trong khi tỷ trọng xuất khẩu nội khối khoảng 13% là **thấp nhất ASEAN**.
+
+Ba hệ quả:
+
+**Việt Nam hội nhập toàn cầu nhưng gần như chưa hội nhập khu vực.** Thị trường của Việt Nam là Mỹ, Trung Quốc, EU, Nhật Bản, Hàn Quốc — không phải các nước láng giềng ASEAN.
+
+**Điều đó có nghĩa là Việt Nam gần như không có đệm khu vực.** Khi cầu từ các thị trường lớn suy yếu, không có thị trường láng giềng nào đủ lớn để hấp thụ. Đây là mặt trái của thành tích về độ mở.
+
+**Nhưng cũng có nghĩa là Việt Nam nằm trong nhóm hưởng lợi nhiều nhất nếu hội nhập nội khối sâu hơn.** Con số 4,3% là trung bình cho cả khối; phần phân bổ cho nước có tỷ trọng nội khối thấp nhất về mặt logic phải cao hơn mức đó.
+
+Có một sự bổ sung đáng chú ý giữa bài này và chương về bất định chính sách thương mại trong cùng thư mục. Chương đó cho thấy **độ mở là bộ đệm hiệu quả** trước cú sốc bất định từ đối tác; bài này cho thấy **độ mở không đi kèm hội nhập khu vực thì không tạo ra đệm về cầu**. Hai kết luận không mâu thuẫn — chúng nói về hai loại rủi ro khác nhau. Đa dạng hóa số lượng thị trường giúp chống cú sốc chính sách; đa dạng hóa **vị trí địa lý và chu kỳ** của thị trường mới giúp chống cú sốc cầu. Việt Nam đang làm tốt vế thứ nhất và yếu ở vế thứ hai.
+
+### Đánh giá thể loại: khung tư duy tốt, bằng chứng mỏng
+
+Đây là một bài hai trang thuộc chuyên mục biểu đồ của một tạp chí phổ thông, không phải nghiên cứu. Nó không có phương pháp, không có khoảng tin cậy, không có nguồn cho từng con số. Con số 4,3% được dẫn là "IMF ước tính" mà không nói mô hình nào, giả định gì.
+
+Giá trị của nó nằm ở việc **đóng khung vấn đề gọn và đúng** — và ở chỗ đó thì nó làm tốt hơn nhiều tài liệu dài hơn. Nên dùng nó để định hình cách nghĩ, và tìm số liệu ở chỗ khác.

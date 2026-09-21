@@ -436,3 +436,57 @@ Hàm ý chính sách rất cụ thể: **tái thiết hậu chiến nếu chỉ 
 > "Only about half of wartime losses are recovered over the same horizon."
 
 > "When peace proves fragile and conflict resumes within five years, output fails to recover, indicating that relapse sharply undermines recovery prospects."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Đóng góp lớn nhất không phải con số mà là chiếc thước chung
+
+Trước bài này, ta đã biết chiến tranh tốn kém, khủng hoảng ngân hàng tốn kém, thiên tai tốn kém. Nhưng mỗi con số được ước lượng bằng một phương pháp khác nhau, trên một mẫu khác nhau, với một nhóm đối chứng khác nhau — nên **không thể xếp hạng chúng**. Câu hỏi "chiến tranh hay khủng hoảng nợ công tệ hơn?" trước đây không có câu trả lời khoa học, chỉ có trực giác.
+
+Việc áp cùng một khung LP-DiD lên cả năm loại cú sốc là đóng góp bền nhất của bài, và nó sẽ còn giá trị ngay cả khi các con số cụ thể bị hiệu chỉnh về sau. Kết quả — chiến tranh vượt tất cả, và xung đột cường độ thấp ngang một cuộc khủng hoảng tiền tệ — khó có thể coi là bất ngờ, nhưng trước đây nó là niềm tin, giờ nó là ước lượng.
+
+### Dùng mô hình ngôn ngữ lớn: minh bạch nhưng tạo ra một vấn đề tái lập kiểu mới
+
+Việc công bố nguyên văn câu lệnh là thực hành đúng và đáng khen. Nhưng nó chưa đủ để giải quyết vấn đề, và đây là điểm đáng suy nghĩ nhất về mặt phương pháp trong cả chín tài liệu.
+
+Ba trở ngại cụ thể:
+
+- **Nhiệt độ 0,3 không phải là 0.** Kết quả không tất định. Chạy lại cùng một câu lệnh trên cùng một mô hình vẫn có thể cho phân loại khác. Với 11% số mục địa điểm bị sửa, mức dao động này có thể đủ để làm thay đổi mẫu.
+- **Phiên bản mô hình sẽ biến mất.** ChatGPT 4.1 và 5.1 sẽ bị ngừng phục vụ trong vài năm. Khi đó câu lệnh vẫn còn nhưng công cụ thì không, và không ai tái lập được bước xử lý dữ liệu này.
+- **Việc phân loại "quan trọng về mặt vĩ mô" là một phán đoán, không phải một phép đo.** Nó quyết định mẫu, mà mẫu thì quyết định kết quả — bài đã cho thấy dùng mẫu đầy đủ làm hệ số giảm từ 6,7% xuống 4,9%.
+
+Đây không phải lỗi của nhóm tác giả mà là một vấn đề mới của ngành: kinh tế học đã xây dựng chuẩn mực tái lập quanh dữ liệu và mã lệnh, cả hai đều tĩnh. Mô hình ngôn ngữ là một bước xử lý **không tĩnh và sẽ biến mất**. Bài này là một trong những trường hợp đầu tiên ở IMF phải đối mặt với điều đó, và cách xử lý của nó (công bố câu lệnh, rà soát thủ công, đối chiếu với nguồn độc lập, báo cáo tỷ lệ thay đổi) hiện là mức tốt nhất có thể làm — nhưng vẫn chưa đủ.
+
+### Phát hiện lý thuyết quan trọng nhất lại bị bài viết đánh giá thấp
+
+Kết quả **phục hồi do lao động chứ không phải vốn** được trình bày như một quan sát thực nghiệm phụ, nhưng nó là một bác bỏ trực tiếp dự báo trung tâm của mô hình tăng trưởng tân cổ điển. Theo lý thuyết, phá hủy vốn làm vốn khan hiếm, lợi suất vốn tăng, đầu tư đổ vào, và phục hồi đến nhanh. Đây chính là cơ sở lý thuyết cho toàn bộ kỳ vọng về "phép màu tái thiết hậu chiến" kiểu Tây Đức và Nhật Bản.
+
+Số liệu ở đây nói ngược lại: sau 5 năm hòa bình, trữ lượng vốn vẫn âm và không có ý nghĩa thống kê, trong khi việc làm tăng 2,2%. Vốn không quay lại. Và lý do — rủi ro tái phát, quyền tài sản không được bảo đảm, tài chính đứt gãy — đều là những yếu tố **thể chế**, không phải yếu tố về lợi suất.
+
+Hàm ý cho chính sách tái thiết rất khác với khuôn mẫu thông thường: thứ quyết định không phải là bơm vốn mà là làm cho hòa bình trở nên đáng tin. Kết quả về hòa bình mong manh củng cố đúng điều này — cùng một số tiền viện trợ, đổ vào nơi hòa bình bền cho +3,9%, đổ vào nơi hòa bình mong manh cho gần như bằng không.
+
+### Kết quả gây khó chịu nhất về mặt chính trị, và bài chỉ dành cho nó hai câu
+
+Các nước **tham chiến nhưng không phải nơi giao tranh không chịu tổn thất có ý nghĩa thống kê ở bất kỳ tầm chiếu nào** — thậm chí chi tiêu quân sự còn tạo hiệu ứng cầu bù trừ.
+
+Đây là một kết quả có sức nặng vượt xa phạm vi kinh tế học. Nó có nghĩa là với một nước đủ mạnh để đưa chiến tranh ra ngoài lãnh thổ mình, **cơ chế răn đe kinh tế gần như không tồn tại**. Toàn bộ chi phí — 6,7% sản lượng sau 5 năm, 11% sau 10 năm, lạm phát 33%, tỷ giá mất giá 20% — dồn lên nơi bị tàn phá, không lên bên phát động.
+
+Bài viết nêu kết quả này rồi đi tiếp. Một bài báo học thuật sẽ dừng lại ở đây rất lâu.
+
+### Một mắt xích bài viết không nối, dù số liệu đã bày sẵn
+
+Kết quả **tiêu dùng công gần như không đổi suốt 5 năm** được trình bày ở phần phân rã phía cầu, và chuỗi khủng hoảng đối ngoại được trình bày ở phần sau. Bài không nối hai phần này lại, nhưng chúng là một.
+
+Chi tiêu nhà nước giữ nguyên trong khi cơ sở thuế co hơn 10% tạo ra một khoảng trống tài khóa phải bù bằng vay nợ hoặc in tiền. Trong điều kiện chiến tranh, vay nợ nước ngoài gần như không thể (dòng vốn danh mục giảm 32%), nên còn lại tiền tệ hóa. Từ đó ra lạm phát 33%, từ lạm phát ra áp lực tỷ giá, từ áp lực tỷ giá ra kiểm soát và thị trường chợ đen. Toàn bộ chuỗi đối ngoại mà bài mô tả bắt đầu từ một dòng số liệu ở bảng trước đó.
+
+### Một so sánh khập khiễng cần lưu ý khi trích dẫn
+
+Câu "chỉ khoảng một nửa tổn thất thời chiến được lấy lại" đối chiếu mức +3,9% (đo trên 142 trường hợp **kết thúc** xung đột) với mức −6,7% (đo trên 160 trường hợp **bùng nổ** xung đột). Đây là hai mẫu khác nhau, hai nhóm nước khác nhau, hai giai đoạn lịch sử chồng lấn nhưng không trùng. Con số "một nửa" vì thế là một phép so sánh gợi ý chứ không phải một phép trừ chính xác. Nên trích dẫn nó như một mô tả định tính.
+
+### Giá trị với người đọc Việt Nam
+
+Tài liệu này không nói về Việt Nam và không phải về ASEAN. Giá trị của nó nằm ở hai chỗ khác.
+
+**Thứ nhất là phương pháp.** LP-DiD với ràng buộc đối chứng sạch là công cụ đang thay thế dần sai biệt kép hai chiều truyền thống trong đánh giá chính sách, và bài này là một ví dụ mẫu mực về cách trình bày nó — nêu rõ vấn đề chệch theo cả hai hướng, nêu rõ ràng buộc, rồi kiểm định độ vững bằng cách nới lỏng chính ràng buộc đó.
+
+**Thứ hai là chuỗi khủng hoảng đối ngoại.** Trình tự mà bài mô tả — mất nguồn thu ngoại tệ, dự trữ cạn, không giữ nổi tỷ giá, nâng lãi suất vô hiệu, thị trường chợ đen bung ra — không đặc thù cho chiến tranh. Nó là mô thức chung của mọi cú sốc đủ lớn với một nền kinh tế mở phụ thuộc xuất khẩu, và Việt Nam thuộc đúng nhóm đó. Bài chứng minh rằng khi nguồn cung ngoại tệ là vấn đề, công cụ lãi suất gần như không có tác dụng — một điểm cũng được khẳng định độc lập trong tài liệu về hạn chế thanh toán thương mại và kiểm soát vốn trong cùng thư mục này.

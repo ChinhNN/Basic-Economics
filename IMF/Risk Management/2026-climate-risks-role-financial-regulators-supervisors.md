@@ -441,3 +441,71 @@
 > "Emerging market jurisdictions should assess materiality on the basis of data, not political pressure."
 
 > "Get the basics right first."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Đây là một tài liệu bảo vệ cơ quan giám sát, không phải một tài liệu hướng dẫn kỹ thuật
+
+Cách đọc hữu ích nhất là hỏi: tài liệu này bảo vệ ai khỏi cái gì. Câu trả lời nằm ngay trong một khuyến nghị: cơ quan giám sát ở thị trường mới nổi phải đánh giá tính trọng yếu dựa trên dữ liệu, **không dựa trên áp lực chính trị hay xu hướng quốc tế**. Một tài liệu kỹ thuật thuần tuý không cần nói câu đó.
+
+Điều tài liệu thực sự cung cấp cho một thống đốc ngân hàng trung ương hay một chủ tịch uỷ ban chứng khoán là **một văn bản có thẩm quyền quốc tế để từ chối**. Từ chối yêu cầu giảm trọng số rủi ro cho danh mục tín dụng xanh. Từ chối áp lực công bố một chiến lược khí hậu ngang tầm các nước phát triển. Từ chối bị đo bằng thước của nơi khác. Đây là một chức năng thật và có giá trị thật, nhưng nó không phải là chức năng mà tiêu đề tài liệu gợi ra.
+
+Lập luận nền cho quyền từ chối đó cũng chắc chắn: nếu cơ quan giám sát nhận thêm nhiệm vụ phân bổ vốn cho chuyển đổi, họ sẽ bị đánh giá theo một mục tiêu họ không có công cụ để đạt, và thất bại ở đó sẽ làm xói mòn uy tín cho cả nhiệm vụ cốt lõi mà họ **có** công cụ để đạt. Nhưng cần thấy rằng đây là lập luận về **kinh tế chính trị của định chế**, không phải về rủi ro tài chính — và tài liệu trình bày nó như thể là lập luận thứ hai.
+
+### "Chưa đủ bằng chứng" được trình bày như lập trường trung lập, nhưng trung lập cũng là một lựa chọn
+
+Lập luận bác bỏ hệ số hỗ trợ xanh rất chặt: nếu giảm vốn cho tài sản chưa được chứng minh là ít rủi ro hơn, rủi ro không được vốn che phủ sẽ tăng. Không có gì để cãi.
+
+Nhưng tài liệu gộp hệ số hỗ trợ xanh và hệ số phạt nâu vào cùng một câu trả lời, trong khi **hàm tổn thất của hai sai lầm không đối xứng**. Nếu ta giảm vốn cho tài sản xanh và hoá ra chúng không an toàn hơn, hệ thống thiếu vốn. Nếu ta **không** tăng vốn cho tài sản carbon cao và hoá ra chúng rủi ro hơn, hệ thống cũng thiếu vốn. Trong một chế độ mà mục tiêu duy nhất là khả năng thanh toán, phản ứng đúng trước bất định không phải là đứng giữa mà là **nghiêng về phía nhiều vốn hơn**. Giữ nguyên trọng số hiện hành không phải là "chờ bằng chứng"; nó là mặc định rằng tài sản carbon cao không rủi ro hơn — một mệnh đề cũng chưa được chứng minh.
+
+Thêm vào đó, mệnh đề "bằng chứng không đầy đủ" là một phán quyết về **ngưỡng**, không phải một tuyên bố về sự vắng mặt. Nghiên cứu về định giá rủi ro carbon trong khoản vay hợp vốn Mỹ trong cùng thư mục này tìm thấy phần bù carbon dương và có ý nghĩa thống kê ở mọi đặc tả — nhưng độ lớn chỉ 1–5 điểm cơ bản và phần bù đã biến mất trong những năm gần đây. Đó chính xác là loại bằng chứng "có nhưng chưa đủ mạnh" mà tài liệu này ám chỉ. Nêu rõ ngưỡng đang dùng sẽ trung thực hơn là nói bằng chứng không đầy đủ.
+
+### Lập luận lệch pha chân trời thời gian không có điều kiện kết thúc
+
+Đây là lập luận kỹ thuật mạnh nhất trong tài liệu và cũng là chỗ mâu thuẫn nội tại rõ nhất.
+
+Khung vốn hiện hành hiệu chỉnh trên chân trời 1–3 năm; rủi ro khí hậu hiện thực hoá trên hàng thập niên; vì vậy hiệu chỉnh lại Trụ cột 1 là quá sớm. Nhưng lập luận này có hai lưỡi, và tài liệu chỉ dùng một.
+
+Nếu Trụ cột 1 được hiệu chỉnh trên một chân trời mà rủi ro khí hậu không xuất hiện trong đó, thì kết luận đối xứng là **Trụ cột 1 mù có tính cấu trúc với loại rủi ro này**, và Trụ cột 2 phải gánh tải đó **vĩnh viễn** chứ không phải tạm thời. Tài liệu lại trình bày Trụ cột 2 như giải pháp "trong lúc chờ", hàm ý khoảng trống bằng chứng là tạm thời và sẽ được lấp đầy. Nhưng lệch pha chân trời không phải khoảng trống bằng chứng; nó là một đặc tính thiết kế. Thu thập thêm dữ liệu trên các cửa sổ 1–3 năm sẽ **không bao giờ** khép được khoảng cách với một chân trời hàng thập niên. Nói cách khác, mệnh đề "quá sớm" không đi kèm bất kỳ điều kiện nào cho biết khi nào thì không còn quá sớm nữa.
+
+Có một căng thẳng thứ hai cùng chỗ. Tài liệu liệt kê **"định giá lại đột ngột tài sản carbon cao"** dưới mục rủi ro thị trường. Một cú định giá lại đột ngột theo định nghĩa xảy ra nhanh — hoàn toàn nằm trong cửa sổ 1–3 năm. Nếu kênh này có thật, thì ít nhất một phần rủi ro khí hậu **có** khớp chân trời của Trụ cột 1, và lập luận lệch pha không áp dụng cho phần đó. Tài liệu nêu cả hai mệnh đề mà không đối chiếu chúng.
+
+### Khái niệm hay nhất của tài liệu lại là khái niệm mà bộ công cụ của chính nó không nhìn thấy được
+
+"Rủi ro im lặng" — phơi nhiễm mà hợp đồng không loại trừ rõ ràng cũng không định giá rõ ràng — là đóng góp khái niệm sắc nhất ở đây, và phép so sánh với amiăng là lựa chọn khéo vì đó là **một vụ án đã khép**: ta biết nó kết thúc ra sao, với tổn thất khổng lồ kéo dài nhiều thập niên từ những hợp đồng viết khi chưa ai biết tên của rủi ro.
+
+Nhưng hãy đối chiếu nó với bốn khối công cụ mà tài liệu đề xuất. Phân tích kịch bản đòi hỏi **gọi tên được kịch bản**. Công bố thông tin đòi hỏi **biết mình phải công bố cái gì**. Trụ cột 2 đòi hỏi giám sát viên **nhận diện được một phơi nhiễm tập trung**. Cả ba đều giả định rủi ro đã có tên.
+
+Rủi ro im lặng theo đúng định nghĩa là rủi ro **chưa có tên**. Nó vô hình với toàn bộ bộ công cụ được khuyến nghị. Trong trường hợp amiăng, thứ duy nhất làm nó hiện hình là kiện tụng — tức là người ta biết mình đã gánh rủi ro gì sau khi tổn thất đã xảy ra. Tài liệu chỉ ra đúng loại phơi nhiễm nguy hiểm nhất rồi đề xuất một bộ dụng cụ không thể dò được nó, và không ghi nhận nghịch lý đó.
+
+Điều duy nhất có thể làm — rà soát hồi tố danh mục hợp đồng trách nhiệm đang còn hiệu lực để tìm những điều khoản **không nói gì** về khí hậu, thay vì tìm những điều khoản có nói — không xuất hiện trong tài liệu.
+
+### Ba xu hướng rời rạc trong phần bảo hiểm thực ra là một phơi nhiễm duy nhất
+
+Tài liệu nêu ba quan sát ở ba chỗ khác nhau: thị trường tái bảo hiểm siết chặt từ 2022 khiến công ty bảo hiểm gốc **giữ lại nhiều rủi ro hơn**; các **hiểm hoạ thứ cấp** (cháy rừng, lũ quét, mưa đá, giông) nay gây tổn thất sánh ngang hiểm hoạ chính; và hiểm hoạ thứ cấp lại được **mô hình hoá kém hơn hẳn**.
+
+Ghép lại: ngành bảo hiểm đang **giữ lại trên bảng cân đối của chính mình một tỷ lệ ngày càng lớn của đúng loại rủi ro mà nó đo kém nhất, đúng vào lúc tần suất loại rủi ro đó đang tăng**. Ba mũi tên chỉ cùng một hướng, và tích của chúng lớn hơn tổng.
+
+Đây cũng là chỗ tài liệu hữu ích nhất về mặt thực hành cho một cơ quan giám sát nguồn lực hạn chế, dù nó không nói ra. Chỉ báo cần theo dõi là **tỷ lệ giữ lại và xu hướng của nó**, cùng cơ cấu chương trình tái bảo hiểm và mức khấu trừ. Đây là những con số đã có sẵn trong báo cáo giám sát định kỳ, không đòi hỏi bất kỳ năng lực mô hình hoá khí hậu nào, và chúng dò được phần lớn phơi nhiễm gia tăng. Một cơ quan giám sát chưa thể chạy phân tích kịch bản vẫn hoàn toàn có thể làm việc này ngay.
+
+### "Làm đúng những thứ cơ bản trước" trung thực hơn phần còn lại của tài liệu, nhưng vẫn chưa đi hết
+
+Hai danh sách trong phần thị trường mới nổi mâu thuẫn nhau ở tầng nguồn lực.
+
+Danh sách thứ nhất là năng lực cần có: hiểu khoa học khí hậu đủ để đọc kịch bản, kỹ năng phân tích kịch bản và mô hình hoá, hiểu thị trường carbon, đánh giá chất lượng dữ liệu, phân biệt công bố thực chất với tẩy xanh. Danh sách thứ hai là điều kiện tiên quyết: nếu giám sát rủi ro tín dụng cơ bản còn yếu, chất lượng dữ liệu còn kém, khung quản trị còn lỏng, thì thêm một lớp giám sát khí hậu không giải quyết được gì.
+
+Nhưng một cơ quan thoả mãn vế thứ hai — tức giám sát cơ bản còn yếu — theo giả thiết **không có nhân sự dư thừa có kỹ năng**. Nhóm nhỏ những người trong một cơ quan giám sát thị trường mới nổi có thể làm mô hình kịch bản khí hậu cũng chính là nhóm có thể làm kiểm tra sức chịu đựng, xử lý ngân hàng yếu kém, và giám sát phân loại nợ. Ba việc sau có lợi ích tức thời và đo được. Trình tự "tập trung rồi phân tán" là hợp lý về tổ chức nhưng giả định rằng bộ phận chuyên trách có thể được tuyển đủ người ngay từ đầu — và đó mới là ràng buộc thật.
+
+Hệ quả mà tài liệu không dám nói thẳng: với một số cơ quan giám sát ở thị trường mới nổi, **câu trả lời đúng trong ngắn hạn là gần như không làm gì về khí hậu** và dồn toàn bộ nguồn lực vào giám sát tín dụng và dữ liệu. Tài liệu đi rất gần câu này nhưng dừng lại trước nó.
+
+Có một hệ quả thứ hai đáng lo hơn trong phần chứng khoán. Tài liệu nói đúng rằng công bố thông tin chỉ có giá trị nếu kiểm chứng được, và giới thiệu chuẩn bảo đảm ISSA 5000 cùng chuẩn đạo đức nghề nghiệp làm lớp bổ trợ. Nhưng ở phần lớn thị trường mới nổi **chưa tồn tại một thị trường dịch vụ bảo đảm báo cáo bền vững** với đủ người hành nghề có năng lực. Áp dụng ISSB mà không có lớp bảo đảm thì kết quả là một hệ thống công bố toàn lời tự tuyên bố — tức chính là môi trường sản sinh tẩy xanh mà phần chứng khoán được viết ra để ngăn chặn. Áp dụng một nửa ở đây tệ hơn không áp dụng, và tài liệu liệt kê đủ hai mảnh ghép mà không nối chúng lại.
+
+### Với Việt Nam: hồ sơ trọng yếu hiếm gặp vì có cả hai loại rủi ro, và ví dụ Thái Lan 2011 là bài đọc gần nhất
+
+Tài liệu nêu rằng hai nước cùng mức phát triển có thể có hồ sơ rủi ro trái ngược: nước phụ thuộc nông nghiệp đối mặt rủi ro vật chất, nước xuất khẩu nhiên liệu hoá thạch đối mặt rủi ro chuyển đổi. Việt Nam nằm ở một vị trí ít gặp hơn — **cả hai kênh đều trọng yếu cùng lúc**: nông nghiệp và vùng ven biển thấp phơi nhiễm vật chất, trong khi cơ cấu điện dựa nhiều vào than và cơ cấu xuất khẩu chế biến chế tạo phơi nhiễm với rủi ro chuyển đổi qua các biện pháp carbon tại biên giới của thị trường nhập khẩu. Một đánh giá tính trọng yếu nghiêm túc cho Việt Nam không thể chọn một trong hai.
+
+Ví dụ có giá trị trực tiếp nhất trong toàn tài liệu lại là **lũ lụt Thái Lan 2011**: một rủi ro vật chất "thứ cấp" lan qua chuỗi cung ứng toàn cầu và tạo tổn thất gián đoạn kinh doanh ở những nơi rất xa nơi nước dâng. Bài học mà tài liệu rút ra — rủi ro vật chất không chỉ giới hạn ở nơi thiên tai xảy ra — có chiều ngược lại cũng đúng và quan trọng hơn với Việt Nam: **phơi nhiễm của một trung tâm sản xuất xuất khẩu không tỷ lệ với thiệt hại trên lãnh thổ của chính nó**, mà tỷ lệ với vị trí của nó trong chuỗi cung ứng thế giới. Một trận lụt làm ngưng một khu công nghiệp tạo ra nghĩa vụ gián đoạn kinh doanh đối với khách hàng ở nhiều châu lục.
+
+Từ đó ra một chuỗi truyền dẫn cụ thể mà một cơ quan giám sát Việt Nam có thể lần theo ngay, và nó hoàn toàn nằm trong khung "rủi ro khí hậu là yếu tố dẫn dắt rủi ro đã biết": mức độ thâm nhập bảo hiểm còn thấp tạo ra khoảng trống bảo vệ lớn; tổn thất vì vậy rơi thẳng lên bảng cân đối của doanh nghiệp thay vì được chuyển cho ngành bảo hiểm; doanh nghiệp suy yếu thì thành rủi ro tín dụng của ngân hàng; và phơi nhiễm đó tập trung theo địa lý ở đúng các khu công nghiệp ven sông, ven biển. Đây là một câu hỏi về **tập trung rủi ro tín dụng theo địa lý** — loại câu hỏi mà mọi cơ quan giám sát ngân hàng đều đã có công cụ và thẩm quyền để hỏi, không cần một khung khí hậu mới nào.
+
+Cuối cùng, cảnh báo về hệ số hỗ trợ xanh có địa chỉ ứng dụng rất rõ ở Việt Nam, nơi tín dụng xanh được thúc đẩy bằng chỉ tiêu và ưu đãi. Thông điệp của tài liệu là: ưu đãi thuộc về chính sách tài khoá và chính sách ngành, còn nếu ưu đãi đó được thực hiện bằng cách nới lỏng yêu cầu an toàn thì cái giá phải trả là vốn mỏng đi ở một danh mục mà chưa ai chứng minh được là ít rủi ro hơn. Gắn với phát hiện trong tài liệu về định giá rủi ro carbon cùng thư mục — rằng ngân hàng cam kết khử carbon danh mục làm khách hàng phát thải cao thu hẹp đầu tư mà không cải thiện kết quả môi trường — có thể rút ra một nguyên tắc chung cho thiết kế chính sách: **chỉ tiêu đặt trên bảng cân đối của ngân hàng sẽ được đáp ứng bằng cách dịch chuyển tài sản, không phải bằng cách giảm phát thải**.

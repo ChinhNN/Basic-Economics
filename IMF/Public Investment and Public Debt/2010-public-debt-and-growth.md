@@ -508,3 +508,57 @@
 > "This adverse effect largely reflects a slowdown in labor productivity growth, mainly due to reduced investment and slower growth of the capital stock per worker."
 
 > "They underline the need to take measures to not just stabilize public debts but to place them on a downward trajectory in the medium and long term."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Dùng nợ đầu kỳ chỉ chặn được một nửa vấn đề nhân quả ngược
+
+Đây là điểm phải nói trước tiên, vì nó quyết định cách đọc toàn bộ phần còn lại. Tranh luận kinh điển về nợ và tăng trưởng có hai chiều: nợ cao làm tăng trưởng chậm, hay tăng trưởng chậm làm nợ cao? Bài chọn cách xử lý là dùng nợ **đầu kỳ** để giải thích tăng trưởng của **năm năm tiếp theo**, và tự nhận rằng cách này tránh được nhân quả ngược nhưng không giải quyết được nội sinh.
+
+Lời thú nhận đó vẫn chưa đủ mạnh. Nợ đầu kỳ chỉ là biến ngoại sinh với tăng trưởng tương lai nếu tăng trưởng **không dai dẳng**. Nhưng tăng trưởng thì dai dẳng, và cơ chế là hiển nhiên: một nước tăng trưởng kém trong kỳ 1985–1990 sẽ vừa tích nợ tới 1990, vừa nhiều khả năng tiếp tục kém trong 1990–1995 vì những lý do chẳng liên quan gì tới nợ. Khi đó nợ đầu kỳ đơn giản là một chỉ báo cho tăng trưởng quá khứ, và hệ số âm chỉ đo tính dai dẳng của tăng trưởng. Mô hình có kiểm soát GDP bình quân đầu người đầu kỳ, nhưng đó là **mức**, không phải **tốc độ** — hai thứ hoàn toàn khác nhau.
+
+Bảng mô tả ở phụ lục cung cấp bằng chứng mạnh nhất cho cách đọc này, và bài nêu nó rồi đi tiếp. Với nợ trên 60% GDP, nhóm nợ **đang tăng** cho tăng trưởng 1,4%/năm trên toàn mẫu và 0,7% ở nước đang phát triển, trong khi nhóm nợ **đang giảm** cho 3,1% và 3,0%. Cùng một mức nợ, chênh lệch hơn hai điểm phần trăm chỉ do hướng đi. Bài đọc đây là "hướng của nợ quan trọng không kém mức nợ". Nhưng có một cách đọc khác ít thuận lợi hơn nhiều: **nợ đang tăng chính là thứ xảy ra khi tăng trưởng đang sụp**, mẫu số co lại và thu ngân sách hụt. Nhóm "nợ cao và đang tăng" gần như là định nghĩa của nhóm "đang trong khủng hoảng". Cùng một dữ kiện, tuỳ chiều nhân quả mà đổi ý nghĩa hoàn toàn.
+
+### Ước lượng được ưu tiên lại là ước lượng không đụng tới vấn đề nhận dạng
+
+Bài chọn BE và SGMM làm ưu tiên, căn cứ mô phỏng Monte Carlo của Hauk–Wacziarg cho thấy BE có tổng thiên lệch nhỏ nhất. Lập luận này hợp lệ về mặt thống kê nhưng đáng bàn về mặt nội dung.
+
+BE lấy bình quân theo thời gian rồi hồi quy chéo nước. Nghĩa là nó khai thác **hoàn toàn biến thiên giữa các nước**: nước nợ cao tăng trưởng chậm hơn nước nợ thấp. Nó không hề khử hiệu ứng cố định nước, tức là không hề xử lý khả năng có một đặc tính quốc gia bền vững — chất lượng thể chế, cơ cấu dân số, lịch sử lạm phát — vừa làm nợ cao vừa làm tăng trưởng chậm.
+
+Ngược lại, FE là ước lượng duy nhất hỏi đúng câu hỏi chính sách: **khi nợ của chính nước này tăng lên, tăng trưởng của chính nước này có chậm lại không?** Và FE sụp đổ. Có hiệu ứng thời gian, hệ số còn −0,004 và mất ý nghĩa; trong đặc tả tiết giản nó thành **+0,010**, tức đổi dấu; trong hầu hết bảng phi tuyến nó không có ý nghĩa ở bất kỳ nhóm nợ nào. Bài giải thích bằng suy giảm do sai số đo và biến thiên trong nước bị co lại — lời giải thích này có cơ sở lý thuyết và không sai. Nhưng nó cũng là lời giải thích thuận tiện, và hệ quả vẫn còn nguyên: **kết quả của bài về cơ bản là một mệnh đề về loại nước, không phải một mệnh đề về hành vi của nợ**.
+
+### Không có "vách đá 90%" — chính số liệu của bài bác bỏ điều mà bài được trích để ủng hộ
+
+Kết luận "chỉ nợ trên 90% GDP mới có tác động âm có ý nghĩa" là câu được trích nhiều nhất, và nó đã đi vào diễn ngôn chính sách như một ngưỡng: dưới 90% thì an toàn, trên 90% thì nguy hiểm.
+
+Chính bài này bác bỏ cách đọc đó. Khi tính tác động của một mức tăng 10% theo tỷ lệ, kết quả là một **dốc liên tục**: nhóm 30–60% cho −0,11 điểm, nhóm 60–90% cho −0,16 điểm, nhóm trên 90% cho −0,19 điểm. Giữa nhóm 60–90 và nhóm trên 90 chỉ chênh 0,03 điểm — không có bước nhảy nào cả. Cái gọi là ngưỡng 90% không xuất phát từ một đứt gãy kinh tế mà từ việc chỉ có hệ số của nhóm nợ cao mới vượt được ngưỡng ý nghĩa thống kê, trong khi hệ số nhóm 30–90 có độ lớn tương đương nhưng sai số chuẩn lớn hơn.
+
+Phân biệt này rất quan trọng về mặt chính sách. "Có một vách đá ở 90%" hàm ý một nước ở mức 70% có thể yên tâm vay thêm. "Càng nợ càng hại, không có mốc nào" hàm ý chi phí biên của mỗi đồng vay là dương ở mọi mức, chỉ khác độ lớn. Bài ủng hộ mệnh đề thứ hai; thế giới chính sách đã trích nó cho mệnh đề thứ nhất. Ba năm sau, khi con số 90% của Reinhart–Rogoff bị phát hiện là sản phẩm của một lỗi bảng tính và lựa chọn trọng số, phần lớn cơn bão dư luận đổ vào bài đó — nhưng bài học phương pháp thì áp dụng cho cả hai: **một ngưỡng sinh ra từ việc chia nhóm tuỳ ý rồi kiểm định ý nghĩa không phải là một ngưỡng kinh tế**.
+
+### Sự "trùng khớp" giữa mô phỏng cho nước Mỹ và kết quả kinh tế lượng có thể là dấu hiệu xấu
+
+Phụ lục tính riêng cho Mỹ là phần đẹp nhất của bài về mặt trình bày, và đáng ngờ nhất về mặt suy luận. Với sản phẩm biên của vốn khoảng 9%, giả định chèn lấn hoàn toàn một đổi một, nợ ròng tăng 40 điểm GDP trong năm năm làm sản lượng giảm 4,4%, tương đương tăng trưởng chậm 0,2%/năm cho mỗi 10 điểm nợ. Con số này **trùng khớp** với ước lượng hồi quy, và bài trình bày sự trùng khớp như một xác nhận chéo.
+
+Nhưng bài cũng nói rõ đây là **cận trên**, vì nó giả định nền kinh tế đóng và tiết kiệm tư nhân không phản ứng. Khi nới lỏng theo Gale–Orszag — tiết kiệm tư nhân bù 20%, vốn ngoại bù 25% — sản lượng chỉ giảm 2,6% thay vì 4,4%, tức khoảng 0,12%/năm cho mỗi 10 điểm nợ.
+
+Vậy sự trùng khớp là giữa ước lượng kinh tế lượng và **kịch bản cực đoan nhất** của mô hình, chứ không phải kịch bản hợp lý nhất. Có hai cách hiểu. Hoặc còn những kênh ngoài chèn lấn cộng thêm vào — bất định, rủi ro khủng hoảng, ngoại tác của tích luỹ vốn theo mô hình nội sinh — đúng như bài gợi ý. Hoặc **bản thân ước lượng kinh tế lượng cũng là một cận trên**, vì nó chứa phần đóng góp của nhân quả ngược và biến bị bỏ sót. Bài chỉ trình bày cách hiểu thứ nhất.
+
+### Kênh truyền dẫn được tìm thấy mâu thuẫn với chính lời giải thích về nước mới nổi
+
+Phần hạch toán tăng trưởng cho một kết quả rất sạch: tác động của nợ đi qua **vốn trên lao động** (hệ số −0,021 tới −0,053, có ý nghĩa ở mọi phương pháp kể cả FE) chứ **không qua TFP** (không có ý nghĩa ở bất kỳ phương pháp nào). Hồi quy trực tiếp lên đầu tư xác nhận: tăng 10 điểm nợ đi kèm đầu tư giảm khoảng 0,4 điểm phần trăm GDP.
+
+Đây là một kết quả có nội dung, vì nó loại bỏ nhánh giải thích kiểu "debt overhang" theo nghĩa méo mó động cơ và trì hoãn cải cách — những thứ sẽ hiện lên ở TFP. Cái còn lại là chèn lấn cổ điển: nhà nước vay nhiều, lãi suất lên, vốn tư nhân bị đẩy ra.
+
+Nhưng chèn lấn đòi hỏi thị trường vốn **đóng**. Nếu vốn di chuyển tự do, tiết kiệm nước ngoài sẽ bù vào và cơ chế yếu đi. Vậy mà bài tìm thấy tác động ở nước mới nổi **gần gấp đôi** nước phát triển: −0,085 so với −0,041 với đầu tư, −0,036 so với −0,021 với tăng trưởng. Và bài giải thích bằng "năng lực vay hạn chế do thị trường tài chính trong nước kém phát triển và khả năng tiếp cận vốn quốc tế mong manh".
+
+Lời giải thích đó mô tả một cơ chế khác hẳn. Tiếp cận vốn quốc tế mong manh không phải là chèn lấn — đó là **phần bù rủi ro và nguy cơ dừng đột ngột**, tức là một câu chuyện về khủng hoảng, không phải về lãi suất cân bằng dài hạn. Bài dùng kết quả TFP để loại bỏ kênh khủng hoảng, rồi lại dùng kênh khủng hoảng để giải thích kết quả khác biệt nhóm nước. Hai mảnh này không được nối lại với nhau.
+
+### Biến số quyết định nhất với Việt Nam lại là biến mà bài cố tình không đưa vào
+
+Bài dùng **nợ chính phủ gộp**, không phân biệt nợ đó đã mua gì. Điều này hoàn toàn chính đáng cho câu hỏi mà bài đặt ra, nhưng nó tạo ra một điểm mù lớn đúng ngay chỗ quan trọng nhất với một nước như Việt Nam.
+
+Cơ chế mà bài tự tìm ra là qua vốn trên lao động. Nếu một đồng nợ tài trợ cho tiêu dùng công hoặc trợ cấp, nó giảm vốn trên lao động và cơ chế của bài hoạt động đúng như mô tả. Nhưng nếu một đồng nợ tài trợ cho một tuyến đường cao tốc hay một nhà máy điện được thực hiện với hiệu quả hợp lý, nó **làm tăng** vốn trên lao động, và dấu của tác động có thể đảo ngược. Chính cơ chế mà bài xác định là cơ chế hàm ý rằng thành phần của chi tiêu phải quan trọng — nhưng thiết kế của bài lại không cho phép kiểm tra điều đó.
+
+Đây là chỗ mà tài liệu này cần được đọc cùng với nhánh về chất lượng và hiệu quả đầu tư công, và với tài liệu về tham nhũng và cơ cấu chi tiêu trong cùng thư mục: nếu hiệu quả đầu tư công thấp, một đồng vay chỉ tạo ra một phần tài sản thật, và phần còn lại hành xử đúng như nợ tài trợ tiêu dùng. Khi đó hệ số âm của bài áp dụng được. Nếu hiệu quả cao, nó không áp dụng được.
+
+Với Việt Nam, nơi nợ công nằm khá xa mọi ngưỡng trong bài mà nhu cầu hạ tầng thì lớn, con số đáng theo dõi không phải là tỷ lệ nợ trên GDP mà là **tỷ lệ chuyển hoá từ đồng vay sang tài sản hạ tầng vận hành được**. Và cảnh báo có sức nặng nhất của bài với nhóm nước mới nổi không nằm ở hệ số tăng trưởng mà ở bảng mô tả đầu tư: ở nước mới nổi, đầu tư trong nước giảm từ 27,4% GDP ở nhóm nợ dưới 30% xuống 11,4% ở nhóm nợ trên 90% — **mất hơn một nửa**, trong khi ở nước phát triển con số gần như không đổi (32,0% xuống 29,4%). Chi phí thật của nợ cao ở một nước mới nổi không phải là vài phần mười điểm tăng trưởng; đó là việc mất khả năng đầu tư.

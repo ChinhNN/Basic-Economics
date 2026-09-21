@@ -131,3 +131,51 @@
 > "In short, money works because people believe that it will."
 
 > "Just like fiat money. If it is accepted as money, it is money."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Câu chuyện hàng đổi hàng là công cụ sư phạm được kể như lịch sử, và lựa chọn đó có hệ quả
+
+Bài mở đầu bằng thí nghiệm tưởng tượng quen thuộc: không có tiền thì ta quay về hàng đổi hàng, thợ sửa xe phải tìm nông dân có xe hỏng. Rồi bài kể một trình tự tiến hóa rõ ràng — hàng đổi hàng, tiền hàng hóa như vỏ ốc và lúa mạch, kim loại quý, giấy nhận nợ, tiền pháp định — và kết bằng câu rằng nguồn của tiền cũng tiến hóa "từ cá nhân trong hàng đổi hàng, đến chấp nhận tập thể, đến chính phủ gần đây".
+
+Vấn đề là các nhà nhân học và sử gia kinh tế từ lâu đã không tìm được bằng chứng cho một nền kinh tế hàng đổi hàng quy mô lớn ở bất kỳ đâu. Cái họ tìm thấy trong các xã hội tiền tệ tệ hóa là **hệ thống tín dụng và ghi nợ**: người ta nhớ ai nợ ai, và đơn vị đo khoản nợ đó thường do đền đài hoặc nhà nước đặt ra để tính thuế và cống nạp. Nói cách khác, đơn vị tính toán có thể đã ra đời **trước** phương tiện trao đổi, và ra đời từ trên xuống chứ không phải từ dưới lên.
+
+Đây không phải cuộc tranh luận hàn lâm vô hại. Trình tự mà bài kể ngụ ý tiền là phát minh của thị trường tư nhân mà nhà nước chỉ mới chiếm lấy "gần đây" — và từ đó suy ra rằng tiền tư nhân là một sự trở về trạng thái tự nhiên. Trình tự ngược lại ngụ ý tiền luôn gắn với quyền lực tính thuế, và tiền tư nhân là thứ chưa từng đứng vững lâu mà không dựa vào một đơn vị tính toán của nhà nước. Toàn bộ cuộc tranh luận về tiền mã hóa mười năm sau đó diễn ra trên đúng đường phân chia này, và bài viết đã chọn một phía mà không nói rằng mình đang chọn.
+
+### Phép thử ba chức năng, khi áp lên thứ ra đời ba năm trước bài viết
+
+Bitcoin đã tồn tại từ 2009, tức ba năm trước khi bài này in, và không được nhắc đến một lần. Nhưng điều thú vị là **phép thử của bài vẫn dùng được**, và nó cho ra một kết quả gọn hơn phần lớn các cuộc tranh luận sau đó.
+
+Áp ba tiêu chí: tiền mã hóa biến động giá hàng chục phần trăm trong một tháng nên hỏng chức năng lưu giữ giá trị; gần như không có hàng hóa nào trên thế giới được **niêm yết** bằng nó nên hỏng chức năng đơn vị tính toán; chỉ còn chức năng phương tiện trao đổi là hoạt động được, và chỉ hoạt động sau khi đã quy đổi qua một đơn vị tính toán khác. Ngay cả El Salvador, nước duy nhất từng cho nó tư cách tiền pháp định, vẫn niêm yết giá bằng đô la.
+
+Với stablecoin thì kết quả lại khác và tinh tế hơn. Chúng vượt cả ba tiêu chí — nhưng vượt được là nhờ **mượn đơn vị tính toán của đồng đô la**. Tức chúng không phải một loại tiền mới mà là một hệ thống đường ống mới cho loại tiền cũ. Phân biệt này quan trọng vì nó xác định câu hỏi chính sách đúng: không phải "có nên coi stablecoin là tiền không" mà là "ai chịu trách nhiệm khi lời hứa quy đổi 1:1 không giữ được". Bài viết về tiền mã hóa năm 2018 trong cùng thư mục và loạt tài liệu về stablecoin trong repo đi tiếp từ chỗ này.
+
+Cũng cần nói thẳng một điểm yếu trong bài: câu "nếu được chấp nhận là tiền, nó là tiền" là một định nghĩa vòng tròn. Nó đúng theo nghĩa mô tả nhưng vô dụng theo nghĩa phân biệt — nó không tách được một đồng tiền khỏi một cơn sốt đầu cơ, vì trong lúc cơn sốt đang diễn ra thì độ chấp nhận cũng rất cao.
+
+### Hai bài trong cùng loạt bài mâu thuẫn nhau về việc ai tạo ra tiền
+
+Bài này viết dứt khoát: "in tiền bản thân là cách nói sai: hầu hết tiền nay là tiền gửi ngân hàng chứ không phải tiền giấy". Đúng.
+
+Nhưng bài "Ngân hàng là gì" của cùng loạt Back to Basics, in trước đó sáu tháng, mô tả tiền gửi được tạo ra qua hiệu ứng số nhân từ dự trữ bắt buộc — tức ngân hàng trung ương bơm dự trữ, ngân hàng thương mại nhân nó lên theo một hệ số cố định. Ghép hai bài lại thì ngân hàng trung ương vẫn là bên quyết định lượng tiền, chỉ là gián tiếp.
+
+Thực tế vận hành không phải vậy, và chênh lệch này có hệ quả lớn. Ngân hàng trung ương ấn định **giá** của tiền (lãi suất chính sách) rồi cung ứng bất kỳ lượng dự trữ nào cần thiết để giữ giá đó. Lượng tiền rộng là kết quả của nhu cầu vay có khả năng trả nợ, không phải của một quyết định về số lượng.
+
+Điều này giải thích một câu đố mà bài không có công cụ để trả lời: vì sao bảng cân đối các ngân hàng trung ương lớn phình lên gấp nhiều lần trong 2009–2019 mà lạm phát vẫn dưới mục tiêu suốt cả thập niên. Nếu số nhân tiền hoạt động như bài trước mô tả thì điều đó không thể xảy ra.
+
+### Mô hình lạm phát của bài không giải thích được đợt lạm phát lớn nhất kể từ khi bài ra đời
+
+Bài trình bày một cơ chế duy nhất dẫn đến lạm phát cao: chính phủ bị cám dỗ in tiền để mua nhiều hơn, thuê nhiều hơn, được lòng dân hơn; giải pháp là giao quyền cho ngân hàng trung ương độc lập và cấm chuyển tiền trực tiếp cho chính phủ chi.
+
+Đợt lạm phát 2021–23 xảy ra ở Mỹ, châu Âu, Anh — tất cả đều có ngân hàng trung ương độc lập, tất cả đều không có tài trợ tiền tệ trực tiếp cho ngân sách theo nghĩa pháp lý, và tất cả đều chứng kiến giá tăng lên mức cao nhất trong bốn mươi năm. Cơ chế thật là kết hợp của cú sốc cung (đứt gãy chuỗi cung ứng, giá năng lượng sau xung đột) với các khoản chuyển tiền tài khóa quy mô chưa từng có đi thẳng vào tài khoản hộ gia đình, trong khi ngân hàng trung ương mua lượng lớn trái phiếu chính phủ trên thị trường thứ cấp.
+
+Khoản mua trái phiếu đó không phải tài trợ tiền tệ theo định nghĩa của bài, nhưng về kinh tế thì rất khó phân biệt. Và hệ quả kế toán đã lộ ra: khi lãi suất tăng, nhiều ngân hàng trung ương lớn lỗ nặng trên danh mục trái phiếu mua ở giá cao, ngừng nộp lợi nhuận cho ngân sách, thậm chí phải được ngân sách bù. Ranh giới sạch sẽ mà bài mô tả — ngân hàng trung ương quyết lượng tiền, chính phủ quyết chi tiêu, hai bên không đụng nhau — trên thực tế đã mờ đi đáng kể. Đây là điều cần cân nhắc khi đọc các tài liệu về bền vững nợ công trong repo: chi phí lãi thật của nhà nước phụ thuộc vào việc ngân hàng trung ương giữ bao nhiêu nợ của chính nhà nước đó.
+
+### Đô la hóa nay chỉ cách một ứng dụng, và Việt Nam là ca kiểm chứng
+
+Phần hay nhất của bài về mặt chính sách là mô tả đô la hóa không chính thức: niềm tin phai, người dân tự chuyển sang đồng khác, chính phủ mất độc quyền phát hành, và **rất khó đảo ngược**.
+
+Điều đã đổi kể từ 2012 là chi phí của bước chuyển đó. Ở Argentina và Brazil thập niên 1980, muốn nắm đô la phải có tiền mặt vật lý hoặc tài khoản ở nước ngoài — hai rào cản đáng kể, và cũng chính là chỗ chính sách quản lý ngoại hối bám vào. Ngày nay gần như toàn bộ stablecoin đang lưu hành neo vào đô la Mỹ, và mở ví mất vài phút trên điện thoại. Cơ chế mà bài mô tả vẫn nguyên vẹn; ma sát thì gần như biến mất.
+
+Việt Nam là một trong những nước có nhiều lý do nhất để chú ý. Nền kinh tế này đã đi qua lạm phát ba chữ số cuối thập niên 1980 và mang theo di sản đó dưới dạng thói quen giữ vàng và ngoại tệ kéo dài nhiều thập niên. Bộ công cụ chống đô la hóa hiện hành — lãi suất tiền gửi USD giữ ở 0%, hạn chế cho vay ngoại tệ, kiểm soát giao dịch ngoại hối, quản lý thị trường vàng — được thiết kế để tác động lên **hệ thống ngân hàng và tiền mặt vật lý**. Không công cụ nào trong số đó chạm tới một ví stablecoin.
+
+Hệ quả thực tiễn: hiệu lực của chính sách tiền tệ trong nước phụ thuộc vào việc người dân không có lựa chọn thay thế thuận tiện cho tiền đồng. Giả định đó đang yếu đi vì lý do công nghệ chứ không phải vì lý do vĩ mô, và nó yếu đi ngay cả khi lạm phát trong nước hoàn toàn ổn định. Đây là lập luận mạnh nhất ủng hộ việc xây dựng hạ tầng thanh toán số nội tệ đủ tốt — không phải để cạnh tranh về công nghệ, mà để giữ cho câu "tiền vận hành vì người ta tin nó vận hành" tiếp tục nói về tiền đồng.

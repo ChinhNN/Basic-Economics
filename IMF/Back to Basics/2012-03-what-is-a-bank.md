@@ -141,3 +141,45 @@
 > "Essentially, banking is about confidence or trust—the belief that the bank has the money to honor its obligations."
 
 > "A well-operating payments system is a prerequisite for an efficiently performing economy."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Câu "ngân hàng là niềm tin" vẫn đúng, nhưng ba chỉ số dễ tổn thương của bài đã hỏng
+
+Bài liệt kê ba nguồn dễ tổn thương: tỷ lệ vốn ngắn hạn cao, tỷ lệ tiền mặt trên tài sản thấp, tỷ lệ vốn chủ trên tài sản thấp. Đây là danh mục chuẩn của tư duy hậu 2008, và nó **không bắt được vụ đổ vỡ ngân hàng lớn nhất kể từ đó**.
+
+Silicon Valley Bank sụp tháng 3/2023 với một bảng cân đối đạt cả ba tiêu chí. Tài sản của họ không phải khoản vay dài hạn khó bán mà là trái phiếu kho bạc Mỹ — thứ lỏng nhất thế giới. Vốn chủ trên sổ sách đủ. Vấn đề là sau khi Fed nâng lãi suất từ gần 0% lên trên 5% trong mười tám tháng, giá thị trường của rổ trái phiếu đó đã rơi hàng chục tỷ đô la, và phần lỗ ấy được xếp vào mục "giữ đến ngày đáo hạn" nên không hiện lên vốn chủ. Ngân hàng vẫn mất khả năng thanh toán theo giá thị trường trong khi mọi tỷ lệ mà bài này khuyên theo dõi đều bình thường.
+
+Điều bài viết nắm đúng là **cơ chế**: bán tài sản dài hạn trước hạn thì lỗ, lỗ vượt vốn thì sập. Điều bài viết bỏ sót là nguồn gốc của khoản lỗ đó có thể là **rủi ro lãi suất chứ không phải rủi ro tín dụng**. Viết năm 2012, giữa một thập niên lãi suất gần 0 mà ai cũng tưởng là vĩnh viễn, việc bỏ sót này dễ hiểu — nhưng nó cho thấy các khung an toàn thường được xây để chống lại cuộc khủng hoảng vừa qua chứ không phải cuộc kế tiếp.
+
+### Cơ chế tạo tiền mà bài mô tả đã bị chính các ngân hàng trung ương bác bỏ
+
+Phần "tạo tiền" trình bày mô hình số nhân tiền gửi theo sách giáo khoa: ngân hàng nhận tiền gửi, giữ lại một phần theo tỷ lệ dự trữ bắt buộc, cho vay phần còn lại, tiền quay về hệ thống, lặp lại. Độ lớn của số nhân phụ thuộc tỷ lệ dự trữ.
+
+Ngân hàng Trung ương Anh công bố năm 2014 một bài viết bác bỏ thẳng mô tả này: trong thực tế **khoản vay tạo ra tiền gửi, chứ không phải tiền gửi tạo ra khoản vay**. Ngân hàng cho vay khi thấy có khách hàng đủ điều kiện và có lời, rồi đi tìm dự trữ sau — ngân hàng trung ương gần như luôn cung ứng đủ dự trữ để giữ lãi suất chính sách ở mức mục tiêu. Ràng buộc thật với việc cho vay là vốn chủ và nhu cầu vay có khả năng trả nợ, không phải dự trữ.
+
+Bằng chứng mạnh nhất đến sau đó: tháng 3/2020 Fed hạ tỷ lệ dự trữ bắt buộc xuống **bằng không** và không có gì xảy ra với cung tiền. Anh, Canada, Úc, New Zealand, Thụy Điển đã bỏ dự trữ bắt buộc từ trước. Một biến số mà bài này đặt ở trung tâm cơ chế tạo tiền đã bị xóa khỏi bộ công cụ ở phần lớn các nền kinh tế lớn.
+
+Điều này quan trọng vì mô hình số nhân là nền móng của một lập luận chính trị dai dẳng — rằng nới lỏng định lượng "in tiền" và sẽ tự động gây lạm phát qua số nhân. Giai đoạn 2009–2020 cho thấy không: bảng cân đối của Fed tăng nhiều lần trong khi lạm phát dưới mục tiêu suốt một thập niên. Lạm phát 2021–23 đến từ cú sốc cung cộng chuyển tiền tài khóa trực tiếp vào tay hộ gia đình, không đến từ số nhân tiền gửi.
+
+### Ngân hàng bóng tối không phải một lỗ hổng, mà là sản phẩm phụ của chính quy định
+
+Bài kết thúc bằng một đoạn về ngân hàng bóng tối viết theo giọng "còn một chỗ chưa quản, cơ quan quản lý đang xem xét". Cách đặt vấn đề này ngầm giả định đây là chuyện sót, sẽ được vá.
+
+Mười ba năm sau, phần tài sản tài chính toàn cầu nằm ngoài hệ thống ngân hàng được quản lý đã vượt quá phần nằm trong. Và lý do không phải vì cơ quan quản lý lơ là mà vì **siết chặt trong thì đẩy ra ngoài**: mỗi khi yêu cầu vốn với ngân hàng tăng, hoạt động sinh lời thấp nhất so với vốn phải giữ sẽ di cư sang nơi không phải giữ vốn. Tín dụng tư nhân, quỹ tiền tệ, công ty cho vay phi ngân hàng đều lớn lên theo đúng nhịp đó.
+
+Phiên bản mới nhất của hiện tượng này là **stablecoin** — về bản chất là ngân hàng nhận tiền gửi không trả lãi, đầu tư vào trái phiếu kho bạc ngắn hạn, hứa quy đổi 1:1, nhưng không có bảo hiểm tiền gửi, không có cửa sổ vay khẩn cấp từ ngân hàng trung ương, và không có yêu cầu vốn. Nói cách khác: đúng mô hình kinh doanh mà bài này mô tả là dễ tổn thương, vận hành mà không có bất kỳ lớp bảo vệ nào mà bài này mô tả là cần thiết. Các tài liệu về stablecoin và tài chính token hóa trong repo đi sâu vào đúng điểm này.
+
+### Tốc độ rút tiền đã đổi, thiết kế bảo hiểm tiền gửi thì chưa
+
+Bài dùng cụm "rút tiền ồ ạt" theo nghĩa cổ điển và có nhận xét sắc rằng khủng hoảng 2008 cho thấy nhà đầu tư trên thị trường vốn rút nhanh hơn người gửi tiền. Năm 2023 lật ngược nhận xét đó một lần nữa: người gửi tiền lẻ, có điện thoại thông minh và nhóm chat, rút **42 tỷ đô la khỏi SVB trong một ngày**.
+
+Toàn bộ kiến trúc bảo hiểm tiền gửi được thiết kế cho thế giới người ta xếp hàng trước quầy. Nó giả định có thời gian để cơ quan quản lý can thiệp giữa lúc niềm tin nứt và lúc thanh khoản cạn. Khoảng thời gian đó nay tính bằng giờ. Thêm nữa, bảo hiểm chỉ đến một hạn mức, mà phần lớn tiền gửi của SVB vượt hạn mức — nghĩa là chính những người gửi có động cơ chạy mạnh nhất lại là những người không được bảo hiểm bảo vệ. Cách giải quyết cuối cùng là chính phủ Mỹ bảo lãnh toàn bộ tiền gửi vượt hạn mức, tức thừa nhận hạn mức không còn ý nghĩa trong một cuộc chạy đủ nhanh.
+
+### Với Việt Nam: bảo hiểm trên giấy, bảo lãnh ngầm trên thực tế
+
+Việt Nam là nền kinh tế ngân hàng chiếm ưu thế tuyệt đối — dư nợ tín dụng quanh mức 130% GDP, thị trường trái phiếu doanh nghiệp còn nhỏ và đã tự chứng minh là mong manh. Nghĩa là mọi điều bài này nói về tính hệ thống của ngân hàng áp dụng với cường độ cao hơn mức trung bình.
+
+Hạn mức bảo hiểm tiền gửi là 125 triệu đồng một người một tổ chức. Con số này đủ che cho phần lớn tài khoản tính theo **số lượng**, nhưng che được rất ít nếu tính theo **giá trị** — mà giá trị mới là thứ chạy. Sự kiện SCB tháng 10/2022 xác nhận điều đó: thứ chặn được dòng người rút không phải hạn mức bảo hiểm mà là việc Ngân hàng Nhà nước đưa ngân hàng vào kiểm soát đặc biệt và phát tín hiệu bảo đảm. Nói cách khác, ổn định tiền gửi ở Việt Nam dựa trên **bảo lãnh ngầm của nhà nước**, không dựa trên cơ chế bảo hiểm rõ ràng mà bài này mô tả là chuẩn mực.
+
+Bảo lãnh ngầm có hai cái giá. Một là rủi ro đạo đức: nếu mọi tiền gửi trên thực tế đều được bảo đảm thì người gửi không có lý do gì phân biệt ngân hàng lành với ngân hàng yếu, và kỷ luật thị trường biến mất. Hai là bảng cân đối của nhà nước gánh một khoản nợ tiềm tàng không được ghi ở đâu cả — điều này nối thẳng sang các tài liệu về bền vững nợ công và khủng hoảng ngân hàng hệ thống trong repo, nơi chi phí tài khóa của việc cứu ngân hàng được đo bằng phần trăm GDP chứ không phải bằng lời hứa.

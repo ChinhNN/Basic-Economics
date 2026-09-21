@@ -524,3 +524,61 @@
 > "Digitalization does not make the shock larger; it makes it faster."
 
 > "The question has shifted from whether the safety net is large enough to whether it reaches the right countries, at the right time, predictably."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Bốn điểm yếu được chẩn đoán như lỗi thiết kế, nhưng chúng là chính hệ thống tiền tệ quốc tế
+
+Báo cáo trình bày "tiếp cận không đồng đều" như một khiếm khuyết có thể sửa bằng cải cách. Nhưng danh sách bảy nền kinh tế có tiếp cận gần như vô hạn nói điều khác: đó là năm nước phát hành đồng tiền dự trữ, cộng Canada và Thuỵ Sĩ nhờ đường hoán đổi không giới hạn với Fed. Nói cách khác, **tiêu chí để được bảo vệ vô hạn là phát hành đồng tiền mà thế giới cần, hoặc được người phát hành đồng tiền đó coi là bạn**.
+
+Đây không phải là một tham số có thể điều chỉnh. Nó là hệ quả trực tiếp của thứ bậc tiền tệ quốc tế — năm đồng tiền đó chiếm 93% dự trữ ngoại hối toàn cầu. Bốn hướng cải cách mà báo cáo đề xuất đều nằm ở tầng thủ tục: tiêu chí kích hoạt rõ hơn, diễn tập trước, giảm dấu vết, phối hợp tốt hơn giữa các lớp. Không hướng nào chạm tới nguồn gốc của bất đối xứng, vì nguồn gốc đó là một đặc tính hiến định chứ không phải hành chính: chỉ người phát hành một đồng tiền mới có thể tạo ra nó không giới hạn.
+
+Báo cáo vì vậy kê đơn thuốc hành chính cho một căn bệnh cấu trúc. Điều này không làm các khuyến nghị sai — chúng đều hợp lý ở phạm vi của mình — nhưng nó giải thích vì sao ba cuộc kiểm kê liên tiếp (2011, 2016, 2025) đều chẩn đoán gần như cùng một vấn đề mà không giải quyết được.
+
+### Kết luận "đủ nguồn lực trong mọi kịch bản" dựa trên một phép cộng không hợp lệ
+
+Đây là chỗ cần đọc dè dặt nhất trong toàn bộ báo cáo.
+
+Mô phỏng kết luận tổng nguồn lực của mạng lưới vượt tổng cầu trong cả bốn kịch bản. Nhưng "tổng nguồn lực" gộp chung 14 nghìn tỷ dự trữ — trong đó **44% do các nền kinh tế tiên tiến nắm và 42% do các thị trường mới nổi lớn nắm** — với năng lực cho vay của IMF và các thoả thuận khu vực. Phần lớn khối tài sản này thuộc về đúng những nước sẽ không cần dùng đến nó. Cộng dự trữ của Nhật Bản với nhu cầu của một nước thu nhập thấp châu Phi là cộng hai đại lượng **không thể chuyển đổi cho nhau**.
+
+Và chính báo cáo đã cung cấp phép thử đúng ở chỗ khác: độ bao phủ trung vị chỉ **17% nghĩa vụ đối ngoại**, với một nửa số nước nằm dưới 10% hoặc trên 30% — tức không tồn tại một "mức bảo vệ điển hình". Hai kết quả này mâu thuẫn nhau về thông điệp. Con số tổng gộp trấn an; con số phân rã báo động. Báo cáo đặt con số trấn an ở phần tóm tắt.
+
+Có một tầng nữa. Báo cáo ghi nhận tổng cầu mô phỏng cao hơn khoảng 50% so với mức sử dụng đỉnh điểm trong khủng hoảng tài chính toàn cầu, trong khi các con số đọc được lại cho khoảng cách lớn hơn nhiều — mức rút vốn đỉnh giai đoạn đó khoảng 880 tỷ USD so với tổng cầu mô phỏng 1.800–2.300 tỷ. Khi con số dùng để tóm tắt và con số dùng để phân tích lệch nhau theo hướng làm bức tranh dịu đi, cần đọc phần tóm tắt như một bản trình bày chứ không phải một kết quả.
+
+### Giả định 80% mâu thuẫn trực tiếp với bằng chứng hành vi của chính báo cáo
+
+Đây là căng thẳng nội tại nghiêm trọng nhất, và nó quyết định toàn bộ kết luận về tính đủ nguồn lực.
+
+Đường cơ sở của mô phỏng giả định các nước sẽ triển khai **80% dự trữ** của mình. Nhưng bằng chứng hành vi mà chính báo cáo trình bày nói ngược lại: trong khủng hoảng tài chính toàn cầu, hầu hết thị trường mới nổi **không dùng quá một phần tư** dự trữ; trong năm 2020 — cú sốc lớn nhất từ thời Đại Suy thoái — **chỉ 6 trên 87 thị trường mới nổi giảm dự trữ quá 20%**.
+
+Khoảng cách giữa 80% giả định và dưới 25% quan sát được không phải là sai số. Nó là bốn lần. Nếu chạy lại mô phỏng với hành vi thực tế thay vì giả định kỹ thuật, kết luận "đủ trong mọi kịch bản" nhiều khả năng sẽ không đứng vững. Báo cáo có nêu một biến thể thận trọng dùng 50%, nhưng cách phân bổ hai giả định mới là điều đáng chú ý: **giả định thận trọng được dùng cho hình về độ bao phủ, còn giả định rộng rãi được dùng cho phần đánh giá đủ nguồn lực** — tức giả định lạc quan được đặt đúng vào chỗ nó tạo ra câu trả lời trấn an, và sự chuyển đổi này không được nói rõ.
+
+### "Sợ mất dự trữ" và "dấu vết" được liệt kê như hai vấn đề, nhưng chúng là một
+
+Báo cáo xếp tâm lý sợ dùng dự trữ vào phần bàn về lớp một, và xếp dấu vết của việc xin hỗ trợ dự phòng vào điểm yếu thứ ba. Chúng là cùng một cơ chế ở hai tầng khác nhau: **chi phí thông tin của việc để lộ ra rằng mình cần giúp đỡ**.
+
+Hệ quả của việc nhìn chúng như một thì rất mạnh. Nếu dự trữ mang tính tín hiệu, thì dự trữ *dùng được* không bằng dự trữ *nắm giữ*, và đồng dự trữ biên có giá trị bảo hiểm gần bằng không trong khi vẫn tốn khoảng 140 điểm cơ bản mỗi năm để duy trì. Khi đó khoản chi 0,4% GDP hằng năm của một thị trường mới nổi **không phải là tiền mua bảo hiểm, mà là tiền mua một tín hiệu**. Đây là một cách đọc khắc nghiệt hơn nhiều so với khung "tự bảo hiểm đắt đỏ" mà báo cáo dùng, vì nó nói rằng phần lớn chi phí đó không mua được năng lực bảo vệ nào cả.
+
+Và nó cũng đảo ngược thứ tự ưu tiên cải cách. Xây thêm lớp gộp nguồn lực không giải quyết được gì nếu việc rút từ lớp đó cũng phát tín hiệu. Vấn đề trung tâm không phải là quy mô mà là **thiết kế một cơ chế mà việc sử dụng nó không tiết lộ thông tin xấu** — chẳng hạn bằng cách làm cho việc tham gia trở nên phổ quát để không nước nào bị đánh dấu riêng, đúng như gợi ý ở hướng cải cách thứ ba, nhưng đó phải là trụ cột chứ không phải một ý phụ.
+
+### Kịch bản số hoá bác bỏ chính khuyến nghị trung tâm của báo cáo
+
+Báo cáo kết luận rằng lớp tự bảo hiểm quá lớn và cần dịch chuyển trọng số sang các lớp gộp nguồn lực. Đồng thời, mô phỏng xác định **kịch bản số hoá tài chính là kịch bản có biên an toàn hẹp nhất**, với lý do rất rõ: số hoá không làm cú sốc lớn hơn, nó làm cú sốc nhanh hơn.
+
+Hai thông điệp này không thể cùng đúng theo cách báo cáo trình bày. Nếu ràng buộc thực sự là tốc độ, thì chỉ có **hai lớp hoạt động được trong một cuộc khủng hoảng tính bằng giờ**: dự trữ, vốn khả dụng ngay và không cần ai phê duyệt, và các đường hoán đổi thường trực, vốn đã có sẵn khung pháp lý. Thoả thuận khu vực và IMF đều cần quyết định của hội đồng, đàm phán chương trình, phê duyệt — đơn vị thời gian là tuần chứ không phải giờ.
+
+Nói cách khác, kịch bản mà báo cáo xác định là căng thẳng nhất lại là kịch bản trong đó **lớp bị phê phán là đắt đỏ và bất bình đẳng nhất chính là lớp duy nhất còn hoạt động**. Đây là mâu thuẫn sắc nét nhất trong toàn bộ tài liệu, và báo cáo đi qua nó mà không dừng lại. Nó cũng nâng khuyến nghị về khả năng dự báo và tự động hoá kích hoạt từ hạng "nên làm" lên hạng "điều kiện cần": nếu không rút ngắn được thời gian kích hoạt xuống cùng bậc với tốc độ dòng vốn, thì mọi con số năng lực trên giấy của ba lớp chung đều không tham gia vào cuộc khủng hoảng thật.
+
+Có một mâu thuẫn nhỏ hơn cùng hướng. Ngân hàng trung ương đang dịch chuyển cơ cấu dự trữ sang vàng — gần 18% tổng dự trữ cuối 2024, vượt euro để thành tài sản dự trữ lớn thứ hai, với gần một phần tư lượng mua toàn cầu kể từ 2022. Nhưng vàng là tài sản **kém thanh khoản nhất và không sinh lợi tức** trong rổ dự trữ. Tức là ở đúng thời điểm ràng buộc được xác định là tốc độ, thành phần của lớp đắt nhất lại đang dịch chuyển sang tài sản khó dùng nhanh nhất. Động cơ (lo ngại tịch thu tài sản và phân mảnh địa kinh tế) là chính đáng, nhưng cái giá về khả năng sử dụng trong khủng hoảng không được định lượng ở đâu.
+
+### 320 tỷ USD chưa từng chạy, và đó là lớp mà Việt Nam thuộc về
+
+Với người đọc Việt Nam, dòng đáng chú ý nhất trong toàn bộ báo cáo là CMIM: **240 tỷ USD năng lực cho vay, chưa từng được kích hoạt lần nào**. Cộng với BRICS CRA 84,5 tỷ cũng chưa từng dùng, hơn 320 tỷ USD của mạng lưới toàn cầu là năng lực chưa qua kiểm chứng.
+
+Lập luận của báo cáo — cơ chế chưa bao giờ chạy thì trong khủng hoảng thật sẽ mất thời gian vừa để quyết định vừa để học cách vận hành — có sức nặng đặc biệt khi ghép với kết quả về tốc độ ở trên. Một cơ chế cần vài tuần để kích hoạt lần đầu, trong một kịch bản mà dòng vốn chạy trong vài giờ, về thực chất không tồn tại.
+
+Điểm yếu cơ cấu của mô hình khu vực áp đúng vào trường hợp này. CMIM gộp nguồn lực của ASEAN+3 — một nhóm nước có cơ cấu xuất khẩu tương tự nhau, cùng phụ thuộc vào chu kỳ công nghệ toàn cầu, cùng chịu tác động của một đợt thắt chặt của Fed, và cùng gắn với nhu cầu từ Trung Quốc. Đây là định nghĩa của một cú sốc tương quan khu vực. Trong tình huống đó, các thành viên **cùng lúc muốn rút và cùng lúc khó đóng góp** — tức lớp mà Việt Nam nghiễm nhiên thuộc về lại là lớp ít khả năng hoạt động nhất đúng vào lúc Việt Nam cần.
+
+Từ đó rút ra ba hệ quả thực tiễn. Thứ nhất, trong bốn lớp, Việt Nam thực chất chỉ có hai lớp có thể lập kế hoạch dựa trên: dự trữ của chính mình và IMF — vì Việt Nam không nằm trong mạng hoán đổi của Fed, và mạng hoán đổi hơn 40 đường của Trung Quốc là bằng nhân dân tệ, hữu ích cho thương mại song phương nhưng hạn chế khi nhu cầu là thanh khoản đô la. Thứ hai, ràng buộc "sợ mất dự trữ" nghĩa là quy mô dự trữ công bố không phải là thước đo năng lực phòng vệ thực; việc thị trường theo dõi tốc độ giảm dự trữ chứ không phải mức dự trữ là điều cần tính đến trong cả chính sách tỷ giá lẫn chính sách truyền thông. Thứ ba, giá trị lớn nhất của các công cụ dự phòng nằm ở chỗ phải thiết lập **trước** khi cần, và đúng lúc đó thì rào cản dấu vết mạnh nhất — nên đây là loại quyết định phải được ra khi tình hình còn yên.
+
+Hai liên hệ với các tài liệu khác trong cùng thư mục làm bức tranh đầy đủ hơn. Tài liệu về định giá theo đồng tiền chi phối giải thích vì sao nhu cầu trong khủng hoảng luôn là nhu cầu đô la chứ không phải một đồng tiền bất kỳ, tức vì sao bảy nền kinh tế nêu trên được bảo vệ còn phần còn lại thì không. Tài liệu về thứ tự ưu tiên chủ nợ và rủi ro chủ quyền giải thích vì sao IMF có thể cho vay vào đúng lúc không ai khác cho vay: vị thế chủ nợ ưu tiên trên thực tế là thứ làm lớp cuối cùng này khả thi, và cũng là thứ khiến nó không thể được nhân rộng vô hạn.

@@ -486,3 +486,99 @@
 > "In a real cyber incident, decision-makers rarely know the scope of the intrusion while they must decide."
 
 > "No single authority can see the whole picture on its own."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### "Vốn không bù đắp được cho một hệ thống thanh toán ngừng chạy" đưa rủi ro mạng ra ngoài toàn bộ logic Basel
+
+Câu này được đặt như một nhận xét thực tiễn, nhưng nó là một mệnh đề có tầm vóc lớn hơn nhiều so với vị trí mà tài liệu dành cho nó.
+
+Toàn bộ kiến trúc quản lý an toàn từ năm 1988 tới nay dựa trên một giả định duy nhất: rủi ro có thể được **đo bằng tiền**, và tổn thất có thể được **hấp thụ bằng một tấm đệm tiền**. Rủi ro tín dụng, rủi ro thị trường, rủi ro hoạt động — tất cả đều được quy về một phân phối tổn thất tính bằng đô la, rồi được che bởi vốn.
+
+Rủi ro mạng phá vỡ giả định đó ở gốc. Tổn thất cốt lõi không phải một số tiền mà là **một trạng thái của thế giới**: dịch vụ không truy cập được, sổ cái không còn đáng tin. Không có lượng vốn nào làm cho một sổ cái sai trở nên đúng, và không có lượng vốn nào làm hệ thống chạy lại trong khi nó đang dừng.
+
+Hệ quả sâu hơn điều tài liệu nói ra: **giám sát rủi ro mạng, xét về bản chất, không phải là giám sát an toàn theo nghĩa truyền thống.** Nó gần với kiểm định kỹ thuật an toàn công nghiệp hoặc quản lý y tế công cộng hơn — dựa trên thanh tra hiện trường, diễn tập định kỳ, yêu cầu về dự phòng, và điều tra sau sự cố. Bộ công cụ tám cấu phần mà tài liệu đề xuất thực chất là **một chế độ kiểm định kỹ thuật mang từ vựng của giám sát an toàn**. Gọi đúng tên nó sẽ giúp giải thích vì sao nhân sự, kỹ năng và văn hoá làm việc mà nó đòi hỏi lại khác hẳn với phần còn lại của một cơ quan giám sát ngân hàng.
+
+### Nguyên tắc tương xứng theo mức trọng yếu chỉ đúng chỗ mà thẩm quyền giám sát yếu nhất
+
+"Quá trọng yếu để ngừng chạy" thay cho "quá lớn để sụp đổ" là cách diễn đạt lại sắc nhất trong tài liệu, và nó dẫn tới một nghịch lý mà chính tài liệu nêu đủ dữ kiện nhưng không gộp lại.
+
+Nếu phân bổ nguồn lực giám sát theo mức trọng yếu thay vì theo quy mô tài sản, thì danh sách ưu tiên ở hầu hết các nước sẽ gồm: trung tâm chuyển mạch thanh toán, hệ thống quyết toán tổng tức thời, trung tâm lưu ký chứng khoán, mạng thẻ quốc gia, và — đứng đầu về mức độ tập trung — các nhà cung cấp đám mây và viễn thông.
+
+Nhưng tài liệu cũng nói hai điều khác, ở hai chương khác nhau. Thứ nhất, **nhiều hạ tầng thị trường không phải là định chế được cấp phép theo nghĩa thông thường**, nên chỉ có thể tác động qua công cụ giám quản — vốn yếu hơn hẳn về cưỡng chế, với "thuyết phục đạo lý" được liệt kê như một công cụ chính thức. Thứ hai, **nhà cung cấp dịch vụ bên thứ ba nằm ngoài phạm vi quản lý tài chính**.
+
+Ghép lại: **nguyên tắc tương xứng theo mức trọng yếu hướng sự chú ý của cơ quan giám sát tới đúng những thực thể mà họ có ít quyền lực pháp lý nhất.** Đây là căng thẳng trung tâm của toàn bộ tài liệu và nó không được nêu ở bất kỳ đâu.
+
+Đáng chú ý hơn là giải pháp mà tài liệu **không** bàn tới: chỉ định trực tiếp các nhà cung cấp bên thứ ba trọng yếu thành đối tượng chịu quản lý, như cách khung DORA của Liên minh châu Âu và chế độ dành cho nhà cung cấp trọng yếu của Anh đã làm. Đây là đổi mới quan trọng nhất về quy định trong vài năm gần đây đối với đúng vấn đề này, và sự vắng mặt của nó trong một tài liệu về "thực hành tốt" xuất bản năm 2026 là một khoảng trống thật. Không có mô hình chỉ định trực tiếp, mọi khuyến nghị về rủi ro tập trung bên thứ ba đều dừng ở mức quản lý hậu quả.
+
+### TLPT được khuyến nghị bởi chính tài liệu chứng minh rằng phần lớn cơ quan giám sát không thể thực hiện nó
+
+Hai con số nằm ở hai chương khác nhau và chúng mâu thuẫn nhau.
+
+Ở chương kiểm thử, tài liệu đề xuất kiểm thử thâm nhập dựa trên tình báo mối đe doạ với mô hình ba đội, và nhấn mạnh rằng điểm cốt lõi là **đội phòng thủ không biết đây là diễn tập**. Đây là khuyến nghị đúng về mặt kỹ thuật: nó là cách duy nhất đo được năng lực thật thay vì năng lực biểu diễn.
+
+Ở chương giám sát, khảo sát cho biết năm 2023 **44,6% cơ quan giám sát không có bất kỳ kế hoạch xây dựng năng lực nào**, chỉ **17,6% có kế hoạch riêng cho rủi ro mạng**, và **97,3% dựa vào hội thảo trực tuyến miễn phí** trong khi chỉ 60,8% trả tiền cho chứng chỉ chuyên môn.
+
+Một cơ quan mà nguồn đào tạo chính là hội thảo miễn phí không thể đặt hàng, xác định phạm vi, giám sát và **đánh giá kết quả** của một cuộc kiểm thử đội đỏ. Điểm cuối cùng mới là điểm quyết định: để biết kết quả TLPT có ý nghĩa hay không, cơ quan giám sát phải đủ năng lực phán đoán xem **đội đỏ có đủ giỏi hay không**. Một đội đỏ kém sẽ không xâm nhập được và báo cáo sẽ kết luận rằng định chế an toàn. Nếu cơ quan giám sát không có chuyên môn tấn công, họ không phân biệt được "phòng thủ tốt" với "tấn công dở", và TLPT trở thành một giấy chứng nhận đắt tiền không nói lên điều gì.
+
+Chính tài liệu đã đặt sẵn cầu nối cho vấn đề này nhưng lại để nó ở vị trí một khung phụ: **cơ chế rà soát ba bên của APRA**, trong đó một bên đánh giá độc lập tham gia cùng cơ quan giám sát và định chế. Ưu điểm mà tài liệu nêu rất đúng — mở rộng năng lực giám sát mà không cần tuyển thêm chuyên gia. Đối với một cơ quan giám sát nguồn lực hạn chế, đây là thứ hữu ích nhất trong toàn bộ tài liệu, và nó đáng ra phải là một chương chứ không phải một khung.
+
+### Rà soát ba bên được khuyến nghị mà không kèm các biện pháp bảo vệ khiến nó không thoái hoá
+
+Cơ chế ba bên có một vấn đề quản trị mà tài liệu hoàn toàn không đề cập, dù nó đã được biết rất rõ ở một lĩnh vực song song.
+
+Bên đánh giá độc lập thường **do chính định chế được giám sát trả tiền**. Đây là vấn đề độc lập của kiểm toán viên được chuyển nguyên vẹn sang lĩnh vực an ninh mạng, trong một thị trường có **rất ít nhà cung cấp đủ năng lực**. Ở một nước nhỏ hoặc một thị trường mới nổi, có thể chỉ có hai hoặc ba công ty làm được công việc này — và cũng chính những công ty đó bán dịch vụ khắc phục cho cùng nhóm khách hàng. Bên đánh giá vừa chấm điểm vừa bán thuốc.
+
+Không có quy tắc luân phiên, quy tắc xung đột lợi ích, và quyền của cơ quan giám sát trong việc **chọn hoặc phủ quyết** bên đánh giá, rà soát ba bên sẽ thoái hoá thành tuân thủ thuê ngoài — tức đúng tư duy tích ô mà tài liệu cảnh báo ở chương quy định, chỉ là đắt tiền hơn. Đây là loại chi tiết thiết kế quyết định một cơ chế có hoạt động hay không, và một tài liệu "thực hành tốt" nên cung cấp nó.
+
+### Số liệu khảo sát năng lực cho thấy chính cơ quan giám sát đang hành xử theo lối tích ô
+
+Đọc kỹ bảng khảo sát 2021–2023 sẽ thấy một câu chuyện khác với câu chuyện cải thiện mà tài liệu kể.
+
+Tỷ lệ có **kế hoạch riêng** cho giám sát rủi ro mạng đi từ 17,0% lên 17,6% — tức đứng im hoàn toàn trong hai năm. Toàn bộ mức cải thiện nằm ở nhóm có **kế hoạch chung**, tăng từ 29,8% lên 37,8%.
+
+Diễn giải trực tiếp: dưới áp lực phải "xây dựng năng lực về rủi ro mạng", các cơ quan giám sát đã **gộp rủi ro mạng vào kế hoạch đào tạo tổng quát sẵn có** thay vì xây dựng năng lực chuyên biệt. Đây là hình thức tuân thủ rẻ nhất có thể với khuyến nghị đó. Nó là hành vi tích ô — và nó đang xuất hiện ở chính các cơ quan mà tài liệu cảnh báo phải tránh khuyến khích tư duy tích ô ở các định chế bị giám sát. Không ai nối hai quan sát này lại.
+
+Dữ liệu tuyển dụng củng cố cùng một cách đọc: khoảng hai phần ba yêu cầu bằng cấp công nghệ thông tin, khoảng 20% không yêu cầu chứng chỉ nào. Bằng cấp công nghệ thông tin không phải là chuyên môn an ninh mạng, và khoảng cách giữa kỹ năng vận hành hệ thống với kỹ năng an ninh đối kháng là rất lớn. Tuyển người có bằng công nghệ thông tin để làm giám sát an ninh mạng là một dạng thoả mãn yêu cầu trên giấy khác.
+
+### Con số 2,5 tỷ USD làm suy yếu chính luận điểm mà nó được đưa ra để hỗ trợ
+
+Tài liệu mở đầu bằng tổn thất trực tiếp khoảng **2,5 tỷ USD giai đoạn 2020–2023** cho toàn bộ khu vực tài chính toàn cầu. Đặt trong bối cảnh, đó là con số **rất nhỏ** — nhỏ hơn tổn thất rủi ro hoạt động của một ngân hàng lớn trong một năm tồi, và không đáng kể so với bất kỳ đại lượng nào khác trong bảng cân đối của hệ thống tài chính thế giới.
+
+Nếu đó là toàn bộ câu chuyện thì rủi ro mạng không xứng đáng có một tài liệu cấp vụ. Luận điểm thật của tài liệu là **tổn thất trực tiếp là thước đo sai**, chính xác vì thiệt hại nằm ở gián đoạn dịch vụ và mất niềm tin — những thứ không xuất hiện trên bất kỳ dòng tổn thất nào. Nhưng việc trích dẫn con số 2,5 tỷ ở vị trí nổi bật lại **mời người đọc làm đúng phép so sánh mà tài liệu muốn bác bỏ**, và phép so sánh đó cho kết luận rằng rủi ro mạng là nhỏ.
+
+Khoảng cách được thấy rõ khi đặt cạnh tài liệu đồng hành trong cùng thư mục về sự trỗi dậy của sự cố mạng và gian lận số — do một trong các tác giả của chính tài liệu này đồng viết — nơi ước tính của ngành đặt tổn thất lừa đảo toàn cầu ở mức **khoảng một nghìn tỷ USD năm 2024**. Chênh lệch giữa 2,5 tỷ và một nghìn tỷ chính là toàn bộ vấn đề đo lường, gói trong một dòng. Cách đúng là nêu con số 2,5 tỷ kèm nhãn rõ ràng rằng đó là **cận dưới của một đại lượng không phải đại lượng cần quan tâm**.
+
+### Khuyến nghị về thang liên tục đúng, nhưng lý do mạnh nhất cho nó lại bị bỏ sót
+
+Việc phủ nhận lựa chọn nhị phân giữa quy định dựa trên nguyên tắc và quy định chi tiết là đúng, và cách phân chia cũng đúng: nguyên tắc cho quản trị và khẩu vị rủi ro, nơi phán đoán của định chế là cần thiết và công nghệ thay đổi nhanh; quy định chi tiết cho ngưỡng và thời hạn báo cáo sự cố cùng các biện pháp kiểm soát tối thiểu, nơi tính so sánh được và khả năng cưỡng chế là quan trọng.
+
+Nhưng lý do mà tài liệu đưa ra để điều chỉnh vị trí trên thang — mức độ trưởng thành của **các định chế bị giám sát** — không phải lý do mạnh nhất. Quy định dựa trên nguyên tắc chuyển gánh nặng diễn giải sang định chế, đúng như tài liệu nói; nhưng nó đồng thời chuyển **gánh nặng chứng minh sang cơ quan giám sát**. Muốn cưỡng chế một nguyên tắc chung, cơ quan giám sát phải chứng minh được rằng khung quản trị của một định chế là **không đầy đủ** — một phán quyết định tính đòi hỏi chuyên môn sâu và một nền tảng pháp lý vững để chịu được phản bác.
+
+Ở nơi năng lực giám sát còn mỏng, **quy định chi tiết là loại quy định duy nhất cưỡng chế được**, dù nó sẽ lỗi thời nhanh hơn. Đây là ràng buộc thực sự quyết định vị trí trên thang, và nó không xuất hiện trong lập luận của tài liệu.
+
+### Câu hỏi thanh tra đúng không phải "anh có kế hoạch không" mà "quy tắc ra quyết định của anh là gì khi chưa biết gì"
+
+Quan sát sắc nhất ở chương diễn tập là: trong một sự cố mạng thật, người ra quyết định **hiếm khi biết phạm vi xâm nhập** — không biết dữ liệu nào bị ảnh hưởng, không biết kẻ tấn công còn ở trong hệ thống hay không — mà vẫn phải quyết định ngay.
+
+Điều này biến đổi câu hỏi giám sát. Một kế hoạch ứng phó liệt kê các bước theo trình tự giả định rằng đã biết chuyện gì xảy ra. Thứ thực sự cần kiểm chứng là **quy tắc quyết định trong điều kiện không biết**: tại thời điểm nào thì ngắt kết nối khỏi hệ thống thanh toán quốc gia, ai có thẩm quyền ra lệnh đó, người đó có làm được vào ba giờ sáng chủ nhật không, và điều gì xảy ra nếu chính kênh liên lạc nội bộ đã bị xâm nhập.
+
+Đây là những câu hỏi rất cụ thể, trả lời được trong một cuộc thanh tra tại chỗ, và **không đòi hỏi bất kỳ chuyên môn an ninh tấn công nào** từ phía cơ quan giám sát. Đó là lý do diễn tập mô phỏng nên đứng trước TLPT trong thứ tự ưu tiên chứ không phải sau: nó rẻ, nó khả thi ngay, và nó đo được đúng thứ mà tài liệu xác định là đặc trưng của sự cố thật.
+
+### Với Việt Nam: nằm ngoài cả hai kênh hỗ trợ của IMF, và có một xung đột vai trò đặc thù
+
+Phân bố nguồn lực của chính IMF cho một chỉ dẫn thực tế đáng chú ý. Các đoàn FSAP có cấu phần rủi ro mạng gần như toàn bộ là nền kinh tế tiên tiến cộng một vài trung tâm lớn — Mexico, Nam Phi, Thổ Nhĩ Kỳ, Ấn Độ. Trong khi đó hỗ trợ kỹ thuật dồn vào **châu Phi (8, 14, 18 nhiệm vụ trong ba năm, gần một nửa tổng số)**, còn **châu Á–Thái Bình Dương chỉ có 3, 1 và 4 nhiệm vụ** — bốn nhiệm vụ cho cả khu vực trong năm 2024.
+
+Nói cách khác, chương trình công việc về rủi ro mạng của IMF có hai làn, và một nước như Việt Nam không nằm trong làn nào: không đủ trọng yếu hệ thống toàn cầu để có cấu phần mạng trong FSAP, và không thuộc khu vực ưu tiên hỗ trợ kỹ thuật. Đây là thông tin thực tế cần biết khi lập kế hoạch — năng lực này sẽ phải xây trong nước hoặc qua kênh khu vực.
+
+Ngoài ra có một xung đột vai trò đặc thù mà khung phân biệt giám sát với giám quản làm lộ ra. Tài liệu phân biệt **giám sát** (nhắm vào định chế, có công cụ cưỡng chế) với **giám quản** (nhắm vào hệ thống, công cụ chủ yếu là chuẩn mực và thuyết phục). Ở Việt Nam, hệ thống quyết toán liên ngân hàng trọng yếu nhất **do chính ngân hàng trung ương vận hành**, và ngân hàng trung ương cũng là cơ quan giám quản. Tức là đối với hạ tầng quan trọng nhất, giám quản trở thành **tự đánh giá**. Điều này không sai về nguyên tắc — nhiều nước cùng cấu hình — nhưng nó đòi hỏi các biện pháp bù đắp cụ thể: tách bạch về tổ chức giữa bộ phận vận hành và bộ phận giám quản, đánh giá độc lập định kỳ từ bên ngoài, và báo cáo kết quả lên một cấp cao hơn cả hai bộ phận.
+
+Từ logic của chính tài liệu, trình tự bốn bước sau là khả thi và đúng thứ tự cho một cơ quan giám sát nguồn lực hạn chế.
+
+**Một, từ điển chung và báo cáo sự cố bắt buộc với ngưỡng và thời hạn quy định chi tiết.** Đây là cấu phần rẻ nhất, dễ cưỡng chế nhất, và là đầu vào cho mọi thứ còn lại. Tài liệu đồng hành trong cùng thư mục cho thấy số sự cố được ghi nhận phản ánh chế độ báo cáo chứ không phản ánh phơi nhiễm — nên không có bước này thì không có bất kỳ đánh giá nào.
+
+**Hai, lập bản đồ mức trọng yếu**: xác định ai là "quá trọng yếu để ngừng chạy". Danh sách này ngắn — trung tâm chuyển mạch thanh toán bán lẻ, hệ thống quyết toán liên ngân hàng, trung tâm lưu ký chứng khoán, và một số ít nhà cung cấp đám mây và viễn thông — và việc lập nó không tốn nguồn lực, chỉ tốn quyết định.
+
+**Ba, diễn tập mô phỏng trước, TLPT sau.** Diễn tập trên bàn giấy rẻ, không cần chuyên môn tấn công, và mang lại đúng lợi ích mà tài liệu đánh giá cao nhất: làm lộ các điểm phụ thuộc chưa ai khai báo, và luyện ra quyết định khi thiếu thông tin. TLPT nên dành cho hai hoặc ba thực thể trọng yếu nhất, và nhiều khả năng phải đi qua mô hình ba bên với các biện pháp bảo vệ về xung đột lợi ích đã nêu ở trên.
+
+**Bốn, rủi ro tập trung bên thứ ba là bài toán không giải được bằng quy định trong nước.** Chỉ có thể quản lý hậu quả: yêu cầu phương án dự phòng, khả năng chuyển đổi nhà cung cấp, và kiểm tra sức chịu đựng theo kịch bản nhà cung cấp ngừng hoạt động. Đây cũng chính là cấu trúc rủi ro tập trung được bàn trong tài liệu về rủi ro quyết toán trên thị trường tiền tệ cùng thư mục: một cơ chế tập trung ra đời vì nó an toàn hơn từng quan hệ song song, và chính vì thế nó trở thành thứ không được phép hỏng.

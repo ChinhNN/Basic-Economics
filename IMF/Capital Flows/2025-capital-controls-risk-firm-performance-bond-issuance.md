@@ -324,3 +324,63 @@
 > "The absence of a productivity penalty depends critically on the availability of substitutes."
 
 > "Deleveraging that strengthens balance sheets at the macro level may also mean firms cutting expenditures and facing tighter constraints."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Đóng góp thật sự không nằm ở hệ số, mà ở chỗ biện pháp và kết quả đo khớp nhau một cách hiếm thấy
+
+Phần lớn văn liệu thực nghiệm về kiểm soát vốn đo một biến chính sách rất thô — một chỉ số tổng hợp về độ mở tài khoản vốn — rồi nối nó với một kết quả vĩ mô rất xa, như dòng vốn ròng hay tăng trưởng. Khoảng cách giữa hai đầu quá lớn để nói được gì về cơ chế.
+
+Bài này làm ngược lại và đó mới là đóng góp: biện pháp được đo là **hạn chế người không cư trú mua trái phiếu phát hành trong nước**, và kết quả được đo là **xác suất một doanh nghiệp cụ thể phát hành trái phiếu trong nước trong quý đó**. Hai đầu khớp trực tiếp với nhau, không qua khâu trung gian nào. Khi hệ số ra −0,0169 trên nền xác suất trung bình 5,1%, ta biết chính xác nó có nghĩa gì: chặn một nhóm người mua thì cầu tại chỗ mất đi khoảng một phần ba.
+
+Giá trị của thiết kế này còn lớn hơn nữa vì nó cho phép nhìn thấy **hiệu ứng thay thế giữa các nguồn vốn**, thứ mà chỉ số tổng hợp về bản chất không thể thấy. Kiểm soát cổ phiếu cho +0,0185, kiểm soát thị trường tiền tệ +0,0228, kiểm soát phát hành ở nước ngoài +0,0173 — cả ba đều **làm tăng** phát hành trái phiếu trong nước. Nói cách khác, chặn một cửa thì dòng tiền chảy sang cửa khác, và một chỉ số gộp tất cả các cửa lại sẽ cho ra số không. Đây là cùng một bài học phương pháp mà tài liệu trong thư mục Asean 2026 về hạn chế thanh toán thương mại rút ra khi tách dòng vốn vào khỏi dòng vốn ra: **khi một chỉ số gộp nhiều cơ chế trái dấu, kết quả "không có ý nghĩa thống kê" thường là dấu hiệu của đo sai chứ không phải của không có tác động.**
+
+### Nền tảng nhận dạng mỏng hơn nhiều so với vẻ ngoài của bảng số liệu
+
+Cần nói thẳng điều này trước khi dùng bất kỳ con số nào của bài. Mẫu có 72.332 quan sát doanh nghiệp–quý, một con số trông rất vững. Nhưng biến chính sách là **nhị phân, theo năm, và chỉ đổi trạng thái 19 lần ở 11 nước trong suốt 22 năm**. Toàn bộ nhận dạng nằm ở 19 sự kiện đó. Con số quan sát lớn chỉ làm sai số chuẩn nhỏ đi, không làm nguồn biến thiên phong phú thêm.
+
+Vấn đề thứ hai nghiêm trọng hơn: kiểm soát vốn trên trái phiếu tương quan **0,99 với kiểm soát thị trường tiền tệ và 0,90 với kiểm soát quỹ đầu tư tập thể**. Ở mức 0,99, hai biến thực tế là một. Điều đó có nghĩa hệ số được gán cho "kênh trái phiếu" rất có thể đang đo tác động của **cả một gói biện pháp được ban hành cùng lúc**, chứ không phải của riêng điều khoản về trái phiếu. Việc bài vẫn đưa các công cụ khác vào cùng hồi quy và thu được hệ số trái dấu có ý nghĩa là một kết quả đáng ngờ về mặt số học hơn là một bằng chứng về tính vững.
+
+Vấn đề thứ ba ít được chú ý nhất nhưng đáng lo nhất. Mẹo Becker–Ivashina — chỉ giữ những quý mà tổng nợ doanh nghiệp tăng — được trình bày như một cách cô lập phía cung. Nhưng **tổng nợ có tăng hay không chính là một biến kết quả nằm sau thời điểm can thiệp**. Nếu kiểm soát vốn làm một số doanh nghiệp không tăng được nợ, thì việc lọc theo tiêu chí này sẽ loại bỏ đúng những doanh nghiệp chịu tác động mạnh nhất, và mẫu còn lại bị chọn lọc theo chiều làm nhẹ hiệu ứng. Đây là điều kiện hoá trên biến hậu can thiệp, một lỗi nhận dạng kinh điển, và bài không hề bàn tới. Hướng thiên lệch ở đây đi về phía **ước lượng thiếu**, nên nó không đe doạ kết luận định tính, nhưng nó làm mọi con số về độ lớn trở nên không đáng tin cậy như bảng biểu gợi ý.
+
+### Kết luận trấn an nhất của bài được xây trên một kết quả rỗng, và cái giá của nó rơi vào chỗ không ai đếm
+
+Thông điệp mà bài muốn để lại là: doanh nghiệp lợi nhuận cao **không bị phạt**, vì họ thay thế được. Đây là kết luận có sức nặng chính sách nhất, và cũng là kết luận mong manh nhất.
+
+Nó dựa hoàn toàn vào những hệ số **không có ý nghĩa thống kê**: tổng nợ của nhóm ROA cao nhất không giảm có ý nghĩa, đầu tư không giảm có ý nghĩa. Nhưng không bác bỏ được giả thuyết không thì không phải là chứng minh được giả thuyết không. Với 19 lần đổi chính sách và một mẫu chỉ gồm **doanh nghiệp niêm yết lớn**, năng lực thống kê để phát hiện một tác động vừa phải là rất hạn chế.
+
+Chính bài cũng để lộ điều này ở chỗ khác mà không nối lại: thước đo hiệu quả ARPK — chính là thước đo được thiết kế cho văn liệu phân bổ sai, tức là thước đo phù hợp nhất để kiểm định kênh năng suất — cho kết quả **không có ý nghĩa**. Bài thừa nhận "kênh đòn bẩy vững hơn kênh lợi nhuận và hiệu quả" trong một câu rồi đi tiếp. Nhưng nếu thước đo hiệu quả đúng nghĩa không bắt được gì, thì cái gọi là "kênh năng suất" ở đây thực chất chỉ là **kênh lợi nhuận kế toán**, và lợi nhuận kế toán cao có thể đến từ sức mạnh thị trường, từ vị thế độc quyền hoặc từ ưu đãi chính sách, chứ không nhất thiết từ năng suất. Với các nền kinh tế mới nổi có nhiều doanh nghiệp lớn gắn với nhà nước, đây không phải một khác biệt học thuật.
+
+Và cái giá của việc "thay thế được" bị bài đếm là không, trong khi trên thực tế nó rơi vào chỗ khác. Cơ chế thay thế mà bài tìm ra rất cụ thể: nhóm ROA cao nhất **cắt tỷ lệ chi trả cổ tức 0,96 điểm phần trăm, tương đương 19% mức bình quân 5,15%**, và mức cắt tăng dần theo lợi nhuận. Bài đọc đây là tin tốt — đầu tư không bị ảnh hưởng.
+
+Nhưng gọi đó là "không có chi phí" thì chỉ đúng nếu ta dừng ở bảng cân đối doanh nghiệp. Cắt cổ tức là **chuyển gánh nặng sang cổ đông**, mà ở các nền kinh tế mới nổi cổ đông thiểu số thường là đối tượng yếu thế nhất trong quản trị công ty. Nó cũng làm suy yếu vai trò kỷ luật của cổ tức: dòng tiền tự do giữ lại trong doanh nghiệp là dòng tiền mà ban điều hành có toàn quyền quyết định. Kiểm soát vốn trên trái phiếu, qua đường vòng này, làm **giảm mức độ giám sát của thị trường đối với ban điều hành** — một chi phí thật, chỉ là không nằm trong biến số nào của bài.
+
+Có một dấu vết thứ hai còn đáng chú ý hơn và bài để trôi qua hoàn toàn: nhóm ROA cao nhất cho tổng nợ **+1,8% ngay lập tức, có ý nghĩa thống kê**. Nếu phát hành trái phiếu giảm mà tổng nợ lại tăng, thì phần thiếu hụt đã được bù bằng nguồn nợ khác, và nguồn khả dĩ nhất trong bối cảnh này là **tín dụng ngân hàng trong nước**. Hệ quả là kiểm soát vốn không làm biến mất rủi ro, nó **chuyển rủi ro từ nhà đầu tư nước ngoài vào hệ thống ngân hàng nội địa** — từ chỗ tổn thất do người không cư trú gánh sang chỗ tổn thất có bảo hiểm tiền gửi ngầm của nhà nước đứng sau. Với một bài lấy lý lẽ an toàn vĩ mô làm trụ cột, đây là một hệ quả lẽ ra phải được đặt lên bàn.
+
+### Căng thẳng nội tại: kiểm soát vốn gây thiệt hại phụ lớn nhất đúng vào lúc người ta muốn dùng nó nhất
+
+Phần theo chu kỳ tài chính chứa một kết quả mà bài phát biểu theo chiều dễ chịu nhất có thể, và chiều khó chịu thì bỏ trống.
+
+Khi **chu kỳ trong nước** nới lỏng, kiểm soát vốn cắt mạnh hơn ở doanh nghiệp nợ nhiều (−0,0185) nhưng không tác động thêm lên doanh nghiệp lợi nhuận cao. Bài gọi đây là lúc "đánh đổi ít gay gắt": công cụ nhắm trúng đối tượng rủi ro mà không làm đau doanh nghiệp tốt.
+
+Nhưng khi **chu kỳ toàn cầu** nới lỏng — đô la yếu, vốn tràn vào các nền kinh tế mới nổi — thì kiểm soát vốn cắt mạnh ở **cả hai nhóm**: đòn bẩy cao −0,183 và ROA cao −0,237, thậm chí nhóm ROA cao còn bị cắt nặng hơn. Đây mới là trạng thái quan trọng, vì **đó chính là lúc các biện pháp quản lý dòng vốn được ban hành trên thực tế**. Không chính phủ nào áp kiểm soát dòng vốn vào khi vốn đang chảy ra; họ áp nó khi đô la yếu và tiền nóng đang đổ vào.
+
+Ghép hai điều đó lại thì kết luận ngược hẳn với giọng điệu lạc quan của bài: **trạng thái mà công cụ này hoạt động sạch sẽ nhất lại là trạng thái ít khi người ta cần dùng nó, còn trạng thái người ta thực sự dùng nó là trạng thái nó gây thiệt hại phụ lớn nhất.** Bài có đủ số liệu để nói điều này và không nói.
+
+### Hàm ý chính sách mà bài ngụ ý nhưng không dám phát biểu
+
+Khuyến nghị cuối cùng của bài là kết hợp kiểm soát vốn với chính sách mở rộng nguồn vốn thay thế: thị trường nội tệ sâu hơn, trung gian phi ngân hàng, khuyến khích tự tài trợ.
+
+Đọc kỹ thì đây là một lời thừa nhận: **kiểm soát vốn chỉ vô hại khi nền kinh tế đã có sẵn những thứ mà nếu có rồi thì phần lớn lý do áp kiểm soát vốn cũng không còn.** Một nước có thị trường trái phiếu nội tệ sâu, có quỹ hưu trí và bảo hiểm nội địa làm cơ sở nhà đầu tư, có doanh nghiệp đủ mạnh để tự tài trợ — nước đó ít phụ thuộc vào dòng vốn ngắn hạn của người không cư trú ngay từ đầu, và do đó ít cần chặn nó. Ngược lại, nước cần kiểm soát vốn nhất là nước mà người mua nước ngoài chiếm tỷ trọng lớn trên thị trường trái phiếu — và đó cũng đúng là nước sẽ chịu mức sụt phát hành lớn nhất.
+
+Hệ quả thực tiễn: **điều kiện tiên quyết quan trọng hơn bản thân công cụ.** Nếu thứ tự là xây nguồn vốn thay thế trước rồi mới dùng kiểm soát vốn, công cụ sẽ tương đối rẻ. Nếu thứ tự ngược lại — dùng kiểm soát vốn như một giải pháp thay cho việc xây thị trường — thì chi phí rơi vào đúng nhóm doanh nghiệp mà nền kinh tế cần nhất.
+
+### Với Việt Nam: một nước nằm trong mẫu, ở đúng điểm yếu nhất của cơ chế
+
+Việt Nam là một trong 18 nền kinh tế của mẫu, nên các kết quả ở đây không phải ngoại suy mà có phần đóng góp trực tiếp.
+
+Điểm cần chú ý là Việt Nam nằm ở phía dễ tổn thương nhất của mọi chiều mà bài đo. Thị trường trái phiếu doanh nghiệp còn mỏng và vừa trải qua một đợt chấn động lớn, nên **nguồn vốn thay thế mà bài coi là điều kiện để kiểm soát vốn vô hại thì ở đây chưa có**. Cơ sở nhà đầu tư tổ chức nội địa còn hẹp. Và hệ thống tài chính vẫn lấy ngân hàng làm trung tâm ở mức cao — tức là đúng vào kênh mà bài để lộ dấu hiệu rủi ro bị đẩy sang: nhóm doanh nghiệp lợi nhuận cao tăng tổng nợ +1,8% khi bị chặn đường trái phiếu.
+
+Ghép với tài liệu trong thư mục Asean 2026 về hạn chế thanh toán thương mại và kiểm soát vốn thì bức tranh trở nên cụ thể một cách khó chịu. Tài liệu đó kết luận rằng **chỉ kiểm soát vốn nợ mới có tác dụng lên cán cân vãng lai, còn kiểm soát vốn cổ phần thì không** — một lập luận ủng hộ việc siết phía nợ. Bài này thì đo cái giá của đúng biện pháp đó ở tầng doanh nghiệp: **mất khoảng một phần ba xác suất phát hành trái phiếu trong nước, và với doanh nghiệp đòn bẩy cao là mất gần 10% tổng nợ sau hai năm kèm cắt đầu tư kéo dài.** Hai tài liệu không mâu thuẫn; chúng đo hai đầu của cùng một chính sách. Kết luận đúng khi đọc cả hai là: công cụ có tác dụng vĩ mô thật, và cái giá vi mô của nó cũng thật, và cái giá đó rơi tập trung vào doanh nghiệp có đòn bẩy cao — nhóm mà ở Việt Nam trùng đáng kể với khu vực bất động sản và xây dựng.
+
+Còn một điểm cuối mang tính cấu trúc. Trong mẫu, **từ sau khủng hoảng 2008 phát hành trong nước đã áp đảo phát hành quốc tế cả về số đợt lẫn quy mô** ở các nền kinh tế mới nổi. Điều đó có nghĩa biện pháp hạn chế người không cư trú mua trái phiếu nội địa ngày càng đánh vào phần lớn hơn của thị trường, chứ không phải một góc nhỏ như hồi thập niên 1990. Một công cụ từng là ngoại vi nay đã nằm ở trung tâm, và chi phí của nó tăng theo cùng tỷ lệ — điều đáng cân nhắc với một nền kinh tế đang muốn mở rộng thị trường vốn trong nước và đồng thời muốn giữ quyền kiểm soát dòng vốn ngắn hạn.

@@ -169,3 +169,45 @@
 > "Inequality is accepted because it excites not envy but aspiration and hope." (Jagdish Bhagwati, được trích trong bài)
 
 > "There's substantial mobility in the middle of the income distribution, less so at the extremes."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Đóng góp lớn nhất là một cái thước, không phải một con số
+
+Thứ đáng học nhất trong bài không phải "40% người ở ngũ phân vị đáy vẫn ở đó sau 25 năm" mà là **khái niệm dịch chuyển hoàn hảo** dùng làm mốc so sánh. Trước khi có mốc ấy, con số 40% hoàn toàn vô nghĩa: nó có thể là dấu hiệu của một xã hội đóng băng hoặc của một xã hội bình thường, không ai biết. Khi đặt cạnh mốc 20% của trạng thái xáo bài hoàn toàn ngẫu nhiên, nó lập tức có nội dung: **độ dính ở đáy gấp đôi mức ngẫu nhiên**.
+
+Đây là một thao tác tư duy có thể mang đi khắp nơi và thường bị bỏ qua trong tranh luận chính sách: trước khi hỏi "con số này lớn hay nhỏ", phải dựng được **giả thuyết không** — con số sẽ là bao nhiêu nếu hiện tượng ta quan tâm hoàn toàn không tồn tại. Bài làm điều đó một cách gọn gàng và minh bạch, với cả hai cách chia: 20% cho ngũ phân vị, 25% cho tứ phân vị.
+
+Nhưng cái thước này có một tính chất mà bài không nói ra và nó thay đổi cách đọc toàn bộ kết quả: **dịch chuyển thứ hạng là một trò chơi có tổng bằng không**. Mỗi người leo lên một ngũ phân vị buộc phải có một người tụt xuống. Điều này có hai hệ quả. Thứ nhất, không thể có chính sách nào "tăng dịch chuyển cho người nghèo" mà không đồng thời đẩy con cái của ai đó xuống — một sự thật chính trị mà các diễn ngôn về cơ hội thường né. Thứ hai, và nghiêm trọng hơn, dịch chuyển hoàn hảo không phải một lý tưởng: nó mô tả một xã hội trong đó xuất phát điểm, nỗ lực và giáo dục đều **không có sức dự báo nào** với kết cục. Một xã hội như thế không có lợi tức cho việc đầu tư vào con người. Bài ngầm coi càng gần dịch chuyển hoàn hảo càng tốt, mà không bao giờ hỏi mức tối ưu nằm ở đâu — và không ai trả lời được câu đó.
+
+### Lập luận trung tâm dựa vào nhận thức, nhưng bài lại đo thực tế
+
+Trục xoay của cả bài là câu của Bhagwati: bất bình đẳng trở nên chịu đựng được "vì người nghèo **tưởng tượng** rằng những phần thưởng ấy một ngày nào đó cũng có thể đến với họ". Hãy chú ý động từ. Mệnh đề này nói về **dịch chuyển được cảm nhận**, không phải dịch chuyển có thật. Nhưng toàn bộ phần bằng chứng của bài — Michigan, tờ khai thuế Canada, Gottschalk — đo dịch chuyển có thật. Rồi phần kết dùng số đo thực tế để phán xét về mức chấp nhận chính trị, như thể hai đại lượng là một.
+
+Chúng không là một, và khoảng cách giữa chúng lớn đến mức đáng kinh ngạc. Nghiên cứu sau này về kỳ vọng dịch chuyển cho thấy người Mỹ **đánh giá quá cao** khả năng leo từ đáy lên đỉnh một cách hệ thống, trong khi người châu Âu lại đánh giá quá thấp — và mức ủng hộ tái phân phối ở hai nơi khớp với **niềm tin sai** chứ không khớp với dữ liệu. Nếu vậy thì kết luận của Bhagwati vẫn đúng nhưng theo một nghĩa khó chịu hơn nhiều so với cách bài trình bày: tính chính danh của bất bình đẳng không được xây trên cơ hội mà trên **ảo tưởng về cơ hội**. Và điều đó dẫn tới một dự báo mà bài không đưa ra: sự ổn định chính trị không bị đe doạ khi dịch chuyển giảm, mà khi **niềm tin về dịch chuyển sụp đổ** — hai việc có thể cách nhau hàng chục năm.
+
+### Một dòng của Gottschalk chứa kết luận nặng nhất của bài, và nó bị nói quá nhẹ
+
+Bài ghi rằng mức dịch chuyển "có vẻ không thay đổi theo thời gian, trong khi bất bình đẳng thu nhập ở Mỹ đã tăng trong hai thập kỷ qua", rồi kết luận rằng khả năng bù trừ "có thể đang suy yếu". Cách diễn đạt này nhẹ hơn hẳn nội dung của nó.
+
+Hãy suy ra cho hết. Dịch chuyển đo bằng **xác suất đổi bậc**. Bất bình đẳng đo bằng **khoảng cách giữa các bậc**. Nếu xác suất giữ nguyên trong khi khoảng cách giãn ra, thì hệ quả kỳ vọng của việc sinh ra ở bậc nào **tăng lên một cách cơ học**, không cần bất cứ thay đổi nào trong cấu trúc cơ hội. Nói cách khác, một xã hội có thể trở nên bất công hơn rõ rệt trong khi mọi chỉ số dịch chuyển đứng yên. Đây chính là lý do việc trích dẫn "dịch chuyển không đổi" như một lời trấn an là sai: cùng một mức dịch chuyển, đặt trên một thang bậc cao gấp đôi, cho ra một xã hội khác hẳn.
+
+Con số đi kèm cũng đáng giữ và đáng đọc kỹ: bất bình đẳng thu nhập lao động đo bằng khoảng cách giữa phân vị 90 và phân vị 10 **giảm một phần ba** khi tính đến dịch chuyển. Nghĩa là hai phần ba vẫn còn. Đây không phải một lời bác bỏ các con số bất bình đẳng tĩnh mà là một hiệu chỉnh vừa phải cho chúng. Bài trình bày như một điểm dành cho phe bảo vệ chủ nghĩa tư bản, nhưng đọc đúng thì nó nói rằng phần lớn bất bình đẳng đo được là **bất bình đẳng suốt đời**, không phải hiện tượng nhất thời.
+
+### Phát hiện gây bất ngờ nhất của bài lại là phát hiện không đứng vững
+
+Kết luận của Gottschalk rằng "tỷ lệ dịch chuyển của Mỹ giống với tỷ lệ của các nước khác biệt như Pháp, Ý và Thuỵ Điển" được bài đưa ra kèm một lời ngạc nhiên đúng mực: thể chế thị trường lao động và hệ thống thuế của các nước này khác nhau rất xa, sao kết quả lại giống nhau? Đây là chỗ bài đáng lẽ phải nghi ngờ chính dữ liệu của mình thay vì nghi ngờ vai trò của thể chế.
+
+Và quả thực nó không đứng vững. Khi văn liệu chuyển từ dịch chuyển thu nhập lao động trong đời người sang **dịch chuyển giữa các thế hệ đo bằng dữ liệu hành chính quy mô lớn**, bức tranh tách hẳn ra: hệ số truyền thu nhập từ cha sang con ở Mỹ cao hơn hẳn Canada và các nước Bắc Âu, và tương quan chặt với mức bất bình đẳng của từng nước. Bên trong nước Mỹ, chênh lệch giữa các vùng còn lớn hơn chênh lệch giữa các quốc gia. Nghịch lý trong bài tan biến khi đổi thước đo và đổi nguồn dữ liệu.
+
+Điều này cũng chỉ ra một hạn chế của chính cách tiếp cận: **thu nhập lao động** là thước đo bài thừa nhận là dễ có nhất nhưng kém toàn diện nhất. Nó bỏ qua thu nhập từ vốn và bỏ qua của cải — tức bỏ qua đúng hai kênh chính khiến vị trí ở đỉnh được truyền lại. Bài nêu hạn chế này trong phần "đọc kỹ chữ nhỏ" rồi vẫn dùng kết quả như thể hạn chế không ảnh hưởng tới kết luận.
+
+Còn một điều nữa bài hoàn toàn không nhắc: nó chỉ đo **dịch chuyển tương đối** — thứ hạng so với người cùng thời. Khái niệm song song là **dịch chuyển tuyệt đối**: con có thu nhập cao hơn cha hay không. Hai thứ có thể đi ngược chiều nhau, và với một nước tăng trưởng nhanh thì dịch chuyển tuyệt đối gần như toàn bộ dân số đều có, dù thứ hạng không ai đổi. Với người đọc ở nước đang phát triển, đây mới là con số có ý nghĩa, và bài không đưa ra nó.
+
+### Với Việt Nam: bức tranh ba tầng, và tầng nào đang đóng lại
+
+Kết quả cốt lõi của bài không phải "có dịch chuyển" hay "không có dịch chuyển" mà là một cấu trúc **ba tầng**: đáy dính, đỉnh dính, giữa xáo trộn gần như ngẫu nhiên. Điều này có nghĩa là mọi con số dịch chuyển tính chung cho cả nước đều là một số trung bình che giấu ba hiện tượng khác nhau, và ba hiện tượng ấy cần ba loại chính sách khác nhau. Độ dính ở đáy là vấn đề của giáo dục cơ bản, dinh dưỡng và hộ khẩu. Độ dính ở đỉnh là vấn đề của thừa kế, mạng lưới quan hệ và tiếp cận tín dụng. Sự xáo trộn ở giữa thì gần như không cần chính sách nào cả.
+
+Với Việt Nam, ba mươi năm qua là một trường hợp hiếm trong đó **dịch chuyển tuyệt đối gần như phổ quát** — hầu hết mọi người đều có thu nhập thực cao hơn cha mẹ mình — nên câu hỏi về thứ hạng gần như không ai đặt ra. Chính vì thế nó đáng đặt ra ngay bây giờ, khi tốc độ tăng trưởng không còn đủ để mọi thứ hạng đều dễ chịu. Cơ chế cụ thể nhất cần theo dõi là những thứ tạo ra độ dính: khoảng cách chất lượng giáo dục phổ thông giữa nông thôn và đô thị, chi phí học thêm và luyện thi như một hàng rào tài chính vào đại học tốt, và giá bất động sản đô thị như cỗ máy biến của cải của thế hệ trước thành xuất phát điểm của thế hệ sau.
+
+Yêu cầu dữ liệu mà bài nhấn mạnh cũng là một bài học thực tiễn: không có **dữ liệu bảng theo chiều dọc** thì không có câu trả lời nào cả, và độ dài kỳ quan sát phải tính bằng một thập kỷ trở lên để tránh nhầm biến động tạm thời với thay đổi lâu dài. Đây là loại hạ tầng thống kê phải quyết định xây từ hôm nay mới có kết quả sau hai mươi năm — không thể tạo ra hồi tố. Bài đọc cùng với các tài liệu trong cùng loạt về bất bình đẳng và về tăng trưởng bao trùm thì khớp thành một câu hỏi duy nhất: mức bất bình đẳng của một nước có thể chấp nhận được hay không phụ thuộc vào việc ai đang đứng ở đâu **có thay đổi được hay không**, và đó là câu hỏi duy nhất mà hệ số Gini không bao giờ trả lời được.

@@ -307,3 +307,89 @@
 > "When this denominator is small—particularly when it approaches zero—the debt limit becomes highly sensitive to changes in the interest rate."
 
 > "Throughout, quantitative figures are illustrative and meant to complement existing method to assess sovereign risks."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Toàn bộ khác biệt giữa các nước nằm ở một tham số, và tham số đó không phải lãi suất
+
+Công thức trung tâm là b̄ = (τN − γ)/(r + ζ̃ + λ − δ − g). Mọi thứ khác trong bài là cách lấy số cho các chữ cái này. Vì vậy điều đáng làm nhất là nhìn xem trong mẫu số, chữ cái nào thực sự chi phối.
+
+Với nhóm nước thu nhập thấp, các giá trị hiệu chỉnh là: lãi phi rủi ro r = 0,9%, tăng trưởng g = 4,3%, lợi suất tiện ích δ = 0,1%, tần suất nợ nhảy vọt ζ̃ = 8,2%, chi phí phòng ngừa λ = 3,3%.
+
+Đặt cạnh nhau thì kết quả rất đáng chú ý. Phần "chênh lệch lãi suất – tăng trưởng" quen thuộc, r − g − δ, bằng **−3,5%**, tức **âm**: theo số học nợ thông thường, các nước này đang ở trạng thái mà nợ tự tan dần và về lý thuyết có thể vay không giới hạn. Cái duy nhất làm cho ngưỡng nợ trở nên hữu hạn là ζ̃ + λ = **11,5%**.
+
+Nói cách khác, trong mô hình này, **giới hạn vay của một nước đang phát triển hoàn toàn không do chi phí vốn quyết định, mà do tần suất các cú sốc nợ nhảy vọt và mức biến động sản lượng quyết định**. Đây là một kết luận có nội dung thật và đi ngược trực tiếp với cách tranh luận phổ biến, vốn xoay quanh lãi suất và chênh lệch lợi suất. Bài đưa ra dữ liệu để rút ra kết luận này nhưng không bao giờ phát biểu nó.
+
+So sánh với nhóm phát triển làm điều này rõ hơn nữa: ζ̃ giảm từ 8,2% xuống 4,3% và λ từ 3,3% xuống 1,6%, tổng cộng giảm 5,6 điểm; trong khi tăng trưởng giảm từ 4,3% xuống 2,1%, tức đi ngược lại 2,2 điểm. Ưu thế của nước giàu không nằm ở việc họ tăng trưởng tốt hơn — họ tăng trưởng kém hơn hẳn — mà ở việc **họ ít bị bất ngờ hơn**.
+
+### Tham số quyết định nhất thực ra là một thước đo minh bạch tài khoá
+
+Nếu ζ̃ chi phối kết quả, thì phải hỏi ζ̃ được đo bằng gì. Bài hiệu chỉnh nó bằng phân phối Pareto của các lần tỷ lệ nợ trên GDP tăng hơn 10 điểm trong lịch sử, và đưa ra ví dụ minh hoạ cho nguồn gốc của những cú nhảy đó: **nợ ngoài ngân sách lộ ra**.
+
+Đây là một chi tiết có sức nặng lớn hơn vẻ ngoài của nó. Nợ nhảy vọt vì nợ ngoài ngân sách lộ ra không phải một cú sốc kinh tế; đó là một sự kiện **kế toán và quản trị**. Nó xảy ra khi bảo lãnh chính phủ bị gọi, khi nợ doanh nghiệp nhà nước được hợp nhất, khi một hợp đồng hợp tác công tư có điều khoản bảo đảm doanh thu phải được ghi nhận, hoặc khi một khoản vay song phương có điều khoản bảo mật được công bố.
+
+Từ đó rút ra một hàm ý chính sách mà bài hoàn toàn không nêu, dù nó là hàm ý trực tiếp nhất của chính mô hình: **cách rẻ nhất để nâng trần nợ của một nước không phải là tăng thuế hay cắt chi, mà là thu hẹp phần nghĩa vụ không được ghi nhận**. Với nhóm thu nhập thấp, nếu ζ̃ giảm từ 8,2% xuống mức của nước phát triển là 4,3%, mẫu số giảm gần một nửa và ngưỡng nợ gần như tăng gấp đôi — mà không cần thay đổi một đồng thuế hay chi nào.
+
+Điều đó cũng có nghĩa là nếu dùng mô hình này để đánh giá một nước, thì tham số cần tranh luận nhất không phải là dự báo tăng trưởng mà là **ước lượng quy mô của phạm vi nghĩa vụ tiềm tàng**. Và đó lại chính là con số khó nhất để biết.
+
+### Cách hiệu chỉnh ζ̃ khiến mô hình một phần là hồi tố chứ không phải dự báo
+
+Mặt trái của điều trên: ζ̃ được lấy từ **lịch sử nhảy nợ của chính nước đó**. Một nước từng có nhiều đợt nợ tăng vọt sẽ bị gán tần suất cao, và do đó bị gán ngưỡng nợ thấp.
+
+Điều này tạo ra một vòng luẩn quẩn nhẹ. Các đợt nợ tăng vọt trong quá khứ thường chính là hệ quả của những cuộc khủng hoảng mà ngưỡng nợ được cho là dùng để dự báo. Gán cho một nước từng khủng hoảng một ngưỡng thấp rồi thấy ngưỡng đó khớp với việc nước đó gặp khó khăn nợ không hẳn là một kiểm chứng; nó gần với việc đọc lại đầu vào.
+
+Vấn đề đối xứng cũng đáng nói: một nước chưa bao giờ có đợt nhảy nợ nào vì đơn giản **chưa bao giờ vay được nhiều** sẽ nhận một ζ̃ thấp và một ngưỡng hào phóng. Mô hình không phân biệt được "chưa từng gặp rắc rối vì quản trị tốt" với "chưa từng gặp rắc rối vì chưa từng có cơ hội".
+
+### Việc khớp với xếp hạng của IMF là một kiểm chứng yếu hơn vẻ ngoài
+
+Bài dùng sự tương ứng giữa khoảng cách tới ngưỡng và các xếp hạng rủi ro trong khung đánh giá bền vững nợ của IMF làm bằng chứng ủng hộ. Con số thì đẹp: khoảng cách đi từ +28,8 ở nhóm rủi ro thấp xuống +3,4 ở nhóm rủi ro cao và −44,0 ở nhóm đang khó khăn.
+
+Nhưng cần thấy khoảng cách được định nghĩa là **b̄ trừ đi b**, trong đó b là mức nợ thực tế. Và phương sai của b giữa các nước lớn hơn hẳn phương sai của b̄: b̄ chỉ chạy từ khoảng 57% tới 124% theo nhóm, trong khi nợ thực tế của các nước trong mẫu trải từ dưới 20% tới trên 200% GDP. Nghĩa là đại lượng "khoảng cách" phần lớn bị chi phối bởi chính b.
+
+Khi đó, phát hiện rằng "khoảng cách tới ngưỡng giảm đều theo mức rủi ro" phần lớn tương đương với phát hiện rằng "**nước nợ cao hơn thì được xếp hạng rủi ro cao hơn**" — điều đúng theo thiết kế của các khung xếp hạng, vì chúng đều lấy mức nợ làm đầu vào chính. Kiểm chứng thật sự phải là kiểm tra xem b̄ có bổ sung thông tin gì **vượt ra ngoài** b hay không, tức là chạy một hồi quy xếp hạng lên cả hai và xem b̄ có hệ số riêng không. Bài không làm phép kiểm tra đó.
+
+### Nhánh trái của đường cong ngưỡng là một sản phẩm của giả định cam kết
+
+Kết quả gây ngạc nhiên nhất về mặt định tính là hình chữ đồi: khi chi tiêu còn thấp hơn một mức nào đó, **chi nhiều hơn làm tăng ngưỡng nợ**. Lý do trong mô hình rất rõ ràng — chừng nào thuế tối ưu chưa chạm trần, chi tiêu cao hơn hàm ý thuế tương lai cao hơn, tức năng lực trả nợ cao hơn.
+
+Cơ chế này đòi một giả định cụ thể: thuế suất điều chỉnh **tự động và tức thì** theo nhu cầu trả nợ. Bài thừa nhận trong thực tế việc đó cần quy trình lập pháp, chậm và khó, rồi gạt đi bằng lập luận rằng điều đó không ảnh hưởng tới đánh giá dài hạn.
+
+Lập luận gạt đi này không đứng vững, vì nhánh trái của đường cong **chính là** một mệnh đề dài hạn. Nó nói rằng một nước chi 16% GDP có năng lực gánh nợ thấp hơn cùng nước đó nếu chi 21% GDP. Mệnh đề này chỉ đúng nếu việc nâng thuế lên tương ứng là chắc chắn. Nếu ngược lại — nếu chi tiêu dễ tăng và khó giảm, trong khi thuế khó tăng, đúng như lịch sử tài khoá của hầu hết các nước cho thấy — thì chi cao hơn không phải là bằng chứng của năng lực thuế tiềm tàng mà là bằng chứng của một nghĩa vụ cứng.
+
+Có một bất đối xứng ngay trong thiết kế mô hình làm rõ điều này: **thuế được tối ưu hoá, còn chi tiêu là ngoại sinh**. Trong kinh tế chính trị thực tế, quan hệ thường ngược lại: chi tiêu là thứ được lựa chọn qua đấu tranh chính trị, còn năng lực thuế là ràng buộc kỹ thuật và thể chế không thay đổi nhanh được.
+
+### Lợi suất tiện ích và áp chế tài chính là cùng một tham số, và đó là một cái bẫy
+
+Bài đặt δ = 0,5% cho Mỹ, Nhật, Đức và 0,1% cho các nước còn lại, gọi đó là lợi suất tiện ích của tài sản an toàn, rồi ghi thêm một dòng rằng nó "cũng có thể là áp chế tài chính".
+
+Dòng ghi thêm đó đáng được viết thành một mục riêng. Về mặt toán học, hai hiện tượng này giống hệt nhau: cả hai đều làm chính phủ vay được dưới mức lãi suất phi rủi ro, và cả hai đều làm tăng ngưỡng nợ. Về mặt kinh tế và phân phối, chúng đối lập. Lợi suất tiện ích thật là một khoản chuyển giao **từ nhà đầu tư nước ngoài** sang chính phủ phát hành, vì thế giới sẵn sàng trả giá để nắm tài sản an toàn. Áp chế tài chính là một khoản chuyển giao **từ người tiết kiệm trong nước** sang chính phủ, vì họ không có lựa chọn nào khác.
+
+Hệ quả thực tiễn là một cái bẫy rất cụ thể. Một nước có thị trường trái phiếu chính phủ do các định chế trong nước bị ràng buộc về quy định chi phối sẽ quan sát được lợi suất thấp, và nếu đưa lợi suất đó vào mô hình thì sẽ nhận được một δ dương và một **ngưỡng nợ được nâng lên**. Nhưng cái được đo không phải là năng lực vay; đó là một khoản thuế ngầm đang được thu từ người gửi tiết kiệm. Mô hình sẽ báo rằng nước đó còn nhiều dư địa, đúng vào lúc dư địa ấy đang được tạo ra bằng cách bòn rút tiết kiệm trong nước. Đây là mối liên hệ trực tiếp với nhánh tài liệu về cơ cấu nợ và cơ sở nhà đầu tư trong cùng thư mục, nơi chi phí ẩn dài hạn của cấu hình này được mô tả chi tiết.
+
+### Điều bị giả định đi lại là điều quyết định khủng hoảng
+
+Bài nói thẳng: mô hình **không xét cơ cấu kỳ hạn, cơ cấu tiền tệ hay kỳ vọng lạm phát**. Lời thừa nhận này thành thật nhưng cũng chỉ ra một giới hạn sâu.
+
+Ba thứ bị bỏ ra chính là ba thứ quyết định một nước có gặp khủng hoảng hay không tại một mức nợ cho trước. Một nước có nợ 80% GDP, toàn bộ bằng nội tệ, kỳ hạn bình quân mười năm, lãi cố định, là một nước hoàn toàn khác với một nước có nợ 80% GDP, một nửa bằng ngoại tệ, kỳ hạn bình quân hai năm. Trong mô hình này chúng có cùng b̄ nếu các tham số vĩ mô giống nhau.
+
+Đặt cạnh tài liệu về cơ cấu nợ chính phủ trong cùng thư mục, hai công trình gần như phản biện lẫn nhau. Công trình kia kết luận rằng **không có khung lý thuyết nào diễn giải thống nhất được các mẫu hình về cơ cấu nợ**, và rằng cơ cấu là thứ quyết định chi phí và rủi ro. Công trình này tính ra một con số về mức nợ bằng cách giả định cơ cấu đi. Cả hai đều hợp lệ trong phạm vi của mình, nhưng đặt chúng cạnh nhau thì rõ rằng con số b̄ nên được đọc như một **chỉ báo về nền tảng vĩ mô tài khoá**, không phải như một ngưỡng an toàn.
+
+### Chuyện 54 nước đã vượt ngưỡng mà vẫn chưa vỡ nợ
+
+Con số được nhấn mạnh — 54 trên 172 nước đã có nợ vượt mức bền vững tối đa năm 2024 — cần được đối chiếu với định nghĩa của chính ngưỡng đó: mức mà tại đó chính phủ **bàng quan giữa trả nợ và vỡ nợ**.
+
+Nếu gần một phần ba số nước trên thế giới đang ở trên điểm bàng quan mà phần lớn vẫn tiếp tục trả nợ bình thường, thì có ba khả năng. Hoặc hiệu chỉnh cho ra ngưỡng quá thấp một cách có hệ thống. Hoặc chính phủ thực tế có lý do để trả nợ mà mô hình không nắm được — chi phí chính trị, mất khả năng tiếp cận viện trợ, hệ luỵ cho hệ thống ngân hàng trong nước, quan hệ ngoại giao. Hoặc ngưỡng không phải một điểm mà là một vùng rộng, và việc vượt qua nó chỉ làm tăng xác suất chứ không kích hoạt gì.
+
+Bài tự bảo vệ bằng câu rằng mọi con số chỉ mang tính minh hoạ, và đó là một lời rào đón đúng mực. Nhưng nó cần được giữ nguyên mỗi lần con số được trích dẫn. Trong thực tế, các con số ngưỡng có tuổi thọ dài hơn các lời rào đón đi kèm chúng — đúng như số phận của ngưỡng 90% trong nhánh tài liệu về nợ và tăng trưởng của thư mục này.
+
+### Với Việt Nam: đọc công thức thay vì đọc con số
+
+Áp khung này cho Việt Nam sẽ cho một ngưỡng tương đối rộng rãi nếu chỉ nhìn các tham số quan sát được: tăng trưởng g cao, làm mẫu số co lại mạnh; chi tiêu chính phủ γ ở mức vừa phải so với nhóm nước phát triển; biến động sản lượng λ tương đối thấp so với mặt bằng nước đang phát triển. Ba yếu tố này đều đẩy b̄ lên.
+
+Nhưng chính cấu trúc của công thức chỉ ra nơi cần dồn chú ý, và đó không phải ba yếu tố trên.
+
+**ζ̃ là biến cần tranh luận.** Với Việt Nam, nguồn nhảy nợ đáng kể nhất không phải một cú sốc vĩ mô mà là việc hợp nhất hoặc hiện thực hoá các nghĩa vụ hiện đang nằm ngoài nợ công trực tiếp: bảo lãnh chính phủ, nghĩa vụ theo hợp đồng hợp tác công tư trong hạ tầng, và nợ của doanh nghiệp nhà nước. Theo logic của mô hình, quy mô và mức độ được kiểm soát của phạm vi này có tác động lên năng lực gánh nợ **lớn hơn nhiều** so với vài điểm phần trăm nợ công trên GDP.
+
+**δ là biến dễ bị đọc sai nhất.** Lợi suất trái phiếu chính phủ Việt Nam thấp một phần vì cơ sở nhà đầu tư trong nước bị ràng buộc về quy định. Đưa mức lợi suất đó vào mô hình sẽ sinh ra một δ dương và một ngưỡng nợ cao hơn, trong khi thực chất đang đo một khoản chuyển giao từ người tiết kiệm trong nước. Đây là chỗ mô hình sẽ đưa ra tín hiệu sai một cách có hệ thống.
+
+**τ̄ là biến có dư địa thật.** Bài ghi nhận rằng theo đánh giá của IMF, cải cách toàn diện có thể nâng thu thêm khoảng 3 tới 5 điểm phần trăm GDP trong trung hạn. Trong công thức, mỗi điểm phần trăm tăng thêm của τN đi thẳng vào tử số. Với một mẫu số cỡ 5–7%, một điểm năng lực thuế đổi được khoảng 15–20 điểm phần trăm GDP năng lực gánh nợ. Đó là một tỷ lệ chuyển đổi rất đáng chú ý, và nó liên hệ trực tiếp với nhánh tài liệu về nguyên lý đánh thuế và huy động thu trong nước ở các thư mục khác của repo.

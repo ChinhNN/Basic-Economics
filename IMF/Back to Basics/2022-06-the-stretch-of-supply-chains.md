@@ -137,3 +137,55 @@
 > "The strategy is akin to putting all your supply-chain eggs in the same domestic basket."
 
 > "Diversification and overstocking are essentially insurance strategies. Countries and companies have to decide how high an insurance premium they are willing to pay."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Kết luận trung tâm của bài đã bị thực tế chính sách bác bỏ chỉ trong vài tháng, và lý do đáng suy nghĩ hơn kết luận
+
+Bài phát biểu rất dứt khoát: bằng chứng kinh tế không ủng hộ đưa sản xuất về nước, vì tự chủ làm sản xuất kém hiệu quả mà không thấy cải thiện khả năng chống chịu. Hình ảnh "bỏ hết trứng vào cùng một giỏ nội địa" là một câu rất đắt.
+
+Chỉ hai tháng sau khi bài ra, Hoa Kỳ thông qua đạo luật trợ cấp bán dẫn với quy mô hàng chục tỷ USD, tiếp theo là đạo luật giảm lạm phát với các khoản ưu đãi gắn điều kiện sản xuất nội địa, rồi Liên minh châu Âu, Nhật Bản, Hàn Quốc và Ấn Độ lần lượt tung các gói tương tự. Nói cách khác, thế giới đã làm gần như chính xác điều bài bảo đừng làm, và làm với quy mô lớn nhất kể từ thời hậu chiến.
+
+Điều này không có nghĩa bài sai về kinh tế học. Nó có nghĩa là **hàm mục tiêu của bài không phải hàm mục tiêu của người ra quyết định**. Bài tối ưu hóa chi phí sản xuất kỳ vọng có tính đến rủi ro gián đoạn. Chính phủ các nước đang tối ưu hóa một thứ khác: khả năng không bị đối phương cắt nguồn cung một cách có chủ đích trong một cuộc xung đột. Với mục tiêu thứ hai, phép tính bảo hiểm của bài không áp dụng được, vì rủi ro không phải biến ngẫu nhiên mà là **quyết định chiến lược của một bên có ý chí**. Không ai mua bảo hiểm chống lại đối thủ; người ta xây năng lực răn đe.
+
+Chỗ bài bỏ sót vì thế không phải một con số hay một bằng chứng, mà là cả một loại rủi ro. Bài liệt kê đại dịch, phong tỏa, biến thể, và có nhắc chiến tranh Ukraine như "thêm bất định" — nhưng vẫn xử lý mọi thứ như cú sốc thiên nhiên. Hai tháng trước khi bài xuất bản, châu Âu đã chứng kiến khí đốt bị dùng làm công cụ gây sức ép. Đó là loại rủi ro khác về bản chất, và nó đã trở thành loại rủi ro chi phối mọi quyết định chuỗi cung ứng từ đó đến nay.
+
+### Phép ẩn dụ bảo hiểm đòi hỏi rủi ro độc lập, nhưng cấu trúc thật của mạng lưới có yếu tố chung
+
+Lập luận đa dạng hóa của bài có một dòng điều kiện đặt rất khẽ: "trừ khi mọi nước cung cấp bị sốc cùng lúc". Dòng đó thực ra là toàn bộ vấn đề.
+
+Đa dạng hóa giảm rủi ro khi các rủi ro tương đối độc lập. Nhưng chuỗi cung ứng hiện đại không có cấu trúc như một rổ tài sản độc lập; nó có cấu trúc **hình nút cổ chai**: hàng nghìn nhà cung cấp ở hàng chục nước, nhưng tất cả đều phụ thuộc vào một số rất ít mắt xích thượng nguồn không thể thay thế. Máy quang khắc cực tím sâu dùng cho chip tiên tiến chỉ có một hãng trên thế giới sản xuất được. Năng lực đúc chip logic tiên tiến nhất tập trung gần như hoàn toàn ở một hòn đảo. Khâu tinh luyện đất hiếm, dù quặng có ở nhiều nơi, tập trung áp đảo ở một nước.
+
+Khi cấu trúc là như vậy, mua hàng từ mười nhà cung cấp ở mười nước không làm giảm rủi ro chút nào nếu cả mười cùng phụ thuộc một nút. Doanh nghiệp trả phí bảo hiểm mà không mua được bảo hiểm — đây là loại sai lầm tốn kém nhất, vì nó tạo cảm giác an toàn giả.
+
+Hàm ý thực tiễn: chỉ số cần đo không phải **số lượng nhà cung cấp** mà là **độ sâu của cây phụ thuộc**. Rất ít doanh nghiệp biết nhà cung cấp cấp ba và cấp bốn của mình là ai, và chính ở tầng đó nằm các nút chung. Điều này cũng là lý do bài nói "bằng chứng không cho thấy tự chủ cải thiện chống chịu" chỉ đúng với phần lớn hàng hóa thông thường, nhưng không đúng với đúng những mặt hàng mà các nước đang đổ tiền vào — vì với chúng, vấn đề không phải phân tán rủi ro mà là **sở hữu nút**. Nhóm tài liệu trong kho về nguyên liệu thô chiến lược nói đúng về mặt còn thiếu này.
+
+### "Chuỗi toàn cầu thích nghi tốt" là một kết luận đo bằng sản lượng trong khi phần thích nghi thật đã đi vào giá
+
+Bài kết luận rằng cân nhắc mọi mặt, chuỗi cung ứng toàn cầu đã thích nghi tốt trong đại dịch, nước ít bị ảnh hưởng bù cho nước bị nặng. Kết luận này đúng nếu thước đo là lượng hàng cuối cùng vẫn được giao.
+
+Nhưng tháng 6/2022 — chính tháng bài xuất bản — lạm phát ở Hoa Kỳ chạm mức cao nhất trong bốn thập niên, giá cước vận tải container đã tăng gấp nhiều lần so với trước đại dịch, và giá xe ô tô đã qua sử dụng tăng vọt vì thiếu chip. Một phần đáng kể của đợt lạm phát toàn cầu tệ nhất trong một thế hệ chính là cái giá của sự "thích nghi tốt" đó.
+
+Đây là một khoảng trống lớn: bài bàn về gián đoạn chuỗi cung ứng suốt hai trang mà **không nhắc tới lạm phát một lần nào**. Sự im lặng này làm sai lệch toàn bộ phép tính chi phí – lợi ích. Nếu chi phí của gián đoạn chỉ là vài tuần chờ hàng và vài kệ trống, thì phí bảo hiểm cho đa dạng hóa quả thật khó biện minh. Nhưng nếu chi phí bao gồm một đợt lạm phát kéo theo chu kỳ thắt chặt tiền tệ mạnh nhất kể từ thập niên 1980, kèm suy giảm tăng trưởng và biến động tài chính toàn cầu, thì mức phí bảo hiểm hợp lý cao hơn nhiều.
+
+Nói cách khác, bài đặt câu hỏi đúng — trả phí bảo hiểm bao nhiêu là hợp lý — nhưng ước lượng thiệt hại được bảo hiểm thấp hơn thực tế rất nhiều, vì chỉ tính thiệt hại vi mô mà bỏ qua thiệt hại vĩ mô.
+
+### Lời khuyên tồn kho được đưa ra đúng vào thời điểm tệ nhất có thể trong chu kỳ
+
+Bài liệt kê tồn kho dư như một trong hai chiến lược bảo hiểm được bằng chứng ủng hộ. Về nguyên tắc thì đúng. Về thời điểm thì đây là một ví dụ giáo khoa cho thấy vì sao lời khuyên chính sách có tính chu kỳ lại nguy hiểm.
+
+Giữa năm 2022 là đỉnh của cơn hoảng loạn thiếu hàng. Doanh nghiệp bán lẻ và sản xuất trên toàn thế giới đã đặt hàng gấp đôi, gấp ba nhu cầu thực để phòng thiếu. Kết quả trong 12–18 tháng sau đó là điều ngược hẳn: **tồn kho ứ đọng khổng lồ**, giảm giá hàng loạt để xả kho, giá cước container sụp về gần mức trước đại dịch, và một cuộc suy giảm rõ rệt của khu vực hàng hóa trong năm 2023 ngay cả khi dịch vụ vẫn tăng. Doanh nghiệp nào nghe lời khuyên tồn kho dư vào tháng 6/2022 đã mua bảo hiểm đúng lúc phí cao nhất và rủi ro đã qua.
+
+Cơ chế đằng sau là hiệu ứng roi da: một dao động nhỏ ở cầu cuối cùng bị khuếch đại dần khi đi ngược lên chuỗi, vì mỗi tầng đều cộng thêm phần đệm an toàn của riêng mình. Điều đáng nói là **tồn kho dư không chỉ là bảo hiểm mà còn là nguyên nhân gây khuếch đại**. Bài trình bày nó như một chiến lược thuần túy phòng vệ, không có tác dụng phụ lên chính hệ thống. Thực tế thì khi tất cả cùng dự trữ, họ tạo ra chính cơn thiếu hụt mà họ đang phòng.
+
+Bài học rút ra vượt khỏi chuỗi cung ứng: **bảo hiểm mua theo tâm lý đám đông sau cú sốc thường là khoản chi tồi nhất**, và quy tắc đúng là gắn mức tồn kho với một chính sách được định trước theo mức độ quan trọng của đầu vào, chứ không theo mức độ lo lắng hiện thời.
+
+### Với Việt Nam: được chọn làm phương án đa dạng hóa không đồng nghĩa với việc đã tạo ra sự đa dạng hóa
+
+Việt Nam là một trong những nước hưởng lợi rõ nhất từ chiến lược mà bài khuyến nghị. Khi các tập đoàn quyết định không đặt toàn bộ năng lực ở một nước, Việt Nam nằm ở đầu danh sách địa điểm thay thế nhờ vị trí, chi phí lao động và mạng lưới hiệp định thương mại.
+
+Nhưng có một câu hỏi mà bài không đặt ra và nó quyết định giá trị lâu dài của vị thế này: **nếu nhà máy ở Việt Nam vẫn lấy phần lớn linh kiện, máy móc và nguyên phụ liệu từ cùng một nước mà khách hàng đang muốn tránh, thì rủi ro có thực sự giảm không?** Câu trả lời là giảm rất ít. Chuyển khâu lắp ráp cuối sang một nước khác chỉ đa dạng hóa được một mắt xích, trong khi cấu trúc phụ thuộc thượng nguồn không đổi. Nếu cú sốc là phong tỏa hay hạn chế xuất khẩu ở thượng nguồn, nhà máy ở Việt Nam dừng cùng lúc với nhà máy ở nơi cũ.
+
+Đây chính là điểm mà nghiên cứu của IMF về thương mại và đầu tư của ASEAN trong thế giới phân mảnh, cũng nằm trong kho này, nhấn mạnh bằng một chỉ tiêu cụ thể: tỷ trọng giá trị gia tăng trong nước trong xuất khẩu. Chỉ tiêu đó vừa đo lợi ích kinh tế thực của Việt Nam, vừa đo mức độ đa dạng hóa thật mà Việt Nam mang lại cho khách hàng. Hai thứ trùng nhau, và đó là một sự trùng hợp may mắn hiếm gặp trong chính sách: **việc làm tăng phần giá trị giữ lại trong nước cũng chính là việc làm tăng lý do để khách hàng ở lại.**
+
+Rủi ro cụ thể cần theo dõi trong vài năm tới cũng rõ: khi các nước nhập khẩu lớn siết quy tắc xuất xứ và mở rộng các biện pháp chống lẩn tránh thuế, tiêu chí phân biệt "sản xuất tại Việt Nam" với "đi vòng qua Việt Nam" sẽ được kiểm tra bằng đúng tỷ lệ nội địa hóa đó. Khi ấy đây không còn là một chỉ tiêu phát triển mà là một điều kiện tiếp cận thị trường.

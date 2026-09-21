@@ -174,3 +174,61 @@
 > "Tax incentives to encourage particular activities, for instance, all too often provide opportunities for evasion."
 
 > "Corporations are not people, and only real people—shareholders, workers, customers—can pay taxes."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Nguyên tắc mạnh nhất của bài bị phá hỏng trong thực tế bởi một thứ rất tầm thường: hoàn thuế
+
+Bài gọi "không đánh thuế giao dịch giữa các doanh nghiệp" là một trong những nguyên tắc mạnh nhất của tài chính công, và giải thích rất rõ vì sao thuế giá trị gia tăng tốt hơn thuế doanh thu: VAT chỉ đánh trên tiêu dùng cuối, còn phần thuế trên đầu vào trung gian được khấu trừ hoặc hoàn lại.
+
+Câu cuối là chỗ toàn bộ lý thuyết gặp thực tế. Cơ chế khấu trừ chỉ hoạt động nếu doanh nghiệp thực sự **nhận được tiền hoàn**. Với doanh nghiệp bán trong nước thì không thành vấn đề vì phần thuế đầu vào được bù trừ vào thuế đầu ra. Nhưng với **doanh nghiệp xuất khẩu**, thuế suất đầu ra bằng 0, nên toàn bộ thuế đã nộp ở các khâu đầu vào phải được hoàn bằng tiền mặt từ ngân sách.
+
+Và hoàn thuế là khâu tập trung gần như toàn bộ gian lận trong hệ thống VAT ở mọi nước — hóa đơn khống, doanh nghiệp ma, chuỗi mua bán vòng. Phản ứng tự nhiên của cơ quan thuế là siết chặt và kéo dài việc xác minh. Kết quả cuối cùng, về mặt kinh tế, là **thuế đầu vào không được hoàn trở thành chi phí thật của doanh nghiệp** — tức đúng cái thuế trên giao dịch trung gian mà nguyên tắc nói phải tránh, chỉ khác là nó xuất hiện dưới dạng một vấn đề hành chính chứ không phải một điều khoản trong luật.
+
+Việt Nam đã trải qua đúng kịch bản này trong 2022–2023, khi các hiệp hội ngành gỗ, cao su và sắn liên tục phản ánh số tiền hoàn thuế bị chậm lên tới hàng nghìn tỷ đồng, có doanh nghiệp chờ nhiều năm. Hệ quả không chỉ là dòng tiền: nó tương đương một khoản thuế trên xuất khẩu, đánh vào đúng những ngành sử dụng nhiều nguyên liệu trong nước.
+
+Bài học rút ra vượt khỏi phạm vi VAT: **chất lượng của một sắc thuế được quyết định ở khâu hành thu chứ không phải ở khâu thiết kế**. Một nguyên tắc lý thuyết mạnh có thể bị vô hiệu hóa hoàn toàn bởi một quy trình xác minh chậm.
+
+### "Doanh nghiệp không phải con người" đúng về kỹ thuật nhưng yếu nhất ở đúng chỗ tranh cãi nóng nhất
+
+Câu này là một trong những phát biểu nổi tiếng nhất của kinh tế học công, và nó đúng: cuối cùng luôn có một con người thật chịu gánh nặng. Nhưng cách bài dùng nó — để gợi ý rằng sự phẫn nộ của công chúng về thuế của các tập đoàn đa quốc gia là thiếu cơ sở — bỏ qua hai điều quan trọng.
+
+**Thứ nhất, thuế thu nhập doanh nghiệp tồn tại chủ yếu như một lớp chặn cho thuế thu nhập cá nhân.** Nếu không có nó, bất kỳ ai có thu nhập cao đều có thể lập công ty, giữ lợi nhuận trong đó, và hoãn thuế thu nhập cá nhân vô thời hạn. Đây không phải một lập luận về công bằng mà về kiến trúc: gỡ một trụ ra thì trụ kia sập theo. Bài không nhắc đến chức năng này.
+
+**Thứ hai, và quan trọng hơn: phần thuế đánh vào lợi nhuận siêu ngạch không chuyển đi đâu được.** Gánh nặng thuế chuyển sang người lao động hoặc khách hàng thông qua việc doanh nghiệp thay đổi hành vi — thuê ít hơn, tăng giá. Nhưng với phần lợi nhuận vượt trên mức sinh lời bình thường — thứ phát sinh từ vị thế độc quyền, từ mạng lưới, từ thương hiệu hay từ sở hữu trí tuệ — doanh nghiệp đã tối đa hóa lợi nhuận rồi, nên thuế không làm thay đổi quyết định giá hay quyết định tuyển dụng. Phần đó rơi hoàn toàn vào cổ đông.
+
+Điều này lật ngược hàm ý chính trị của câu trích. Các tập đoàn đa quốc gia lớn nhất — nền tảng công nghệ, dược phẩm — chính là những doanh nghiệp có tỷ trọng lợi nhuận siêu ngạch cao nhất. Nghĩa là lập luận "thuế doanh nghiệp thực ra đánh vào người lao động" yếu nhất ở đúng những trường hợp mà nó được viện dẫn nhiều nhất.
+
+### Thứ thuế hiệu quả nhất theo chính tiêu chí của bài lại hoàn toàn vắng mặt
+
+Toàn bộ phần hiệu quả của bài quy về một quy tắc: đánh nặng vào thứ có cơ sở ít co giãn nhất, vì tổn thất vô ích phát sinh từ việc người ta thay đổi hành vi để né thuế.
+
+Áp quy tắc đó một cách nghiêm ngặt sẽ dẫn thẳng đến một kết luận mà bài không nêu. Cơ sở thuế **hoàn toàn không co giãn** duy nhất tồn tại trong thực tế là **giá trị của đất chưa tính công trình trên đó**. Lượng đất là cố định; không ai sản xuất thêm được và không ai đem nó ra nước ngoài. Theo đúng tiêu chí của bài, thuế trên giá trị đất có tổn thất vô ích bằng **không** — điều không đúng với bất kỳ sắc thuế nào khác mà bài liệt kê.
+
+Việc bài liệt kê thuế cửa sổ như một hiện tượng lịch sử kỳ quặc mà không nhắc đến thuế đất là một khoảng trống đáng chú ý, nhất là khi thuế cửa sổ chính là một nỗ lực thô sơ để đánh vào giá trị bất động sản mà không phải định giá nó.
+
+Với Việt Nam, khoảng trống này có ý nghĩa rất cụ thể. Hiện nay nguồn thu liên quan đến đất chủ yếu đến từ **tiền sử dụng đất thu một lần** khi giao đất — có năm chiếm trên 10% tổng thu ngân sách nhà nước. Đây là nguồn thu tồi theo mọi tiêu chí của bài này: nó cạn dần vì quỹ đất hữu hạn, nó dao động dữ dội theo chu kỳ bất động sản nên thu nhiều nhất đúng lúc nền kinh tế nóng nhất, và nó tạo động cơ cho chính quyền địa phương đẩy nhanh việc chuyển đổi đất nông nghiệp. Một khoản thu định kỳ trên giá trị đất sẽ ổn định hơn, hiệu quả hơn theo đúng tiêu chí của bài, và còn có tác dụng phụ là làm giảm động cơ đầu cơ giữ đất trống.
+
+Rào cản không phải lý thuyết mà là dữ liệu: muốn đánh thuế trên giá trị đất thì phải biết giá trị thật, và như bài về giá trong cùng thư mục này chỉ ra, đó chính là thứ Việt Nam chưa có.
+
+### Xung đột giữa hiệu quả và công bằng không phải ngoại lệ mà là quy luật
+
+Bài đặt hai mục tiêu cạnh nhau — hiệu quả và công bằng — rồi kết lại bằng câu rằng khó khăn thực sự nảy sinh khi các mục tiêu xung đột, và hẹn bàn tiếp ở bài sau. Cách trình bày này ngụ ý xung đột là tình huống đôi khi xảy ra.
+
+Thực tế xung đột đó có tính hệ thống và có thể dự đoán trước, vì **những thứ ít co giãn nhất và những thứ mà người nghèo phụ thuộc nhiều nhất thường trùng nhau**. Lương thực, nhiên liệu, điện, muối — cầu ít co giãn chính vì người ta không thể không dùng. Ngược lại, những cơ sở co giãn nhất là vốn và lao động trình độ cao, tức là những thứ tập trung ở nhóm thu nhập cao nhất, vì chỉ họ mới có khả năng di chuyển.
+
+Nói cách khác, quy tắc hiệu quả của bài, nếu áp dụng thuần túy, sẽ cho ra một hệ thống thuế **lũy thoái một cách có hệ thống**. Đây không phải một phê phán về mặt kỹ thuật với bài viết — bài không hề chủ trương như vậy — mà là một quan sát rằng tiêu chí hiệu quả không trung lập về mặt phân phối như vẻ ngoài của nó.
+
+Có một điểm sâu hơn nữa, và bài không thể nhìn thấy nó vào năm 2014. **Độ co giãn không phải một hằng số tự nhiên, nó là một biến số chính sách.** Vốn co giãn cao vì nó có thể chuyển sang nơi thuế thấp hơn, mà điều đó chỉ đúng khi các nước không phối hợp với nhau. Lập luận "đừng đánh thuế vốn vì nó co giãn" vì vậy có tính tự ứng nghiệm: chính việc chấp nhận lập luận đó đã duy trì cuộc cạnh tranh hạ thuế suất, và cuộc cạnh tranh đó duy trì độ co giãn.
+
+### Với Việt Nam: thuế tối thiểu toàn cầu đã biến ưu đãi thuế thành khoản chuyển tiền cho ngân khố nước khác
+
+Đúng phần "độ co giãn là biến số chính sách" là nơi thế giới đã thay đổi nhiều nhất kể từ khi bài ra đời, và Việt Nam nằm ở tâm của thay đổi đó.
+
+Năm 2021, hơn 140 khu vực tài phán đồng ý áp mức **thuế thu nhập doanh nghiệp tối thiểu 15%** với các tập đoàn đa quốc gia lớn. Cơ chế cốt lõi rất đơn giản: nếu một tập đoàn nộp dưới 15% ở nước tiếp nhận đầu tư, thì phần chênh lệch sẽ bị nước khác thu. Việt Nam đã nội luật hóa cơ chế này và áp dụng từ năm tài chính 2024.
+
+Hệ quả với chính sách thu hút đầu tư của Việt Nam mang tính nền tảng. Trong nhiều thập niên, công cụ chính là ưu đãi thuế: thuế suất 10% trong mười lăm năm, miễn thuế bốn năm đầu, giảm 50% trong chín năm tiếp theo. Với một tập đoàn đủ lớn để thuộc phạm vi áp dụng quy tắc mới, những ưu đãi đó **không còn làm giảm số thuế tập đoàn phải nộp trên toàn cầu** — chúng chỉ quyết định thuế đó nộp vào ngân khố nào. Nói thẳng: khoản ngân sách Việt Nam từ bỏ sẽ được thu bởi nước nơi đặt trụ sở tập đoàn mẹ.
+
+Đây là lời cảnh báo cuối cùng của bài, được hiện thực hóa theo một cách bài không tưởng tượng ra: "ưu đãi thuế khuyến khích các hoạt động cụ thể thường xuyên mở đường cho trốn thuế" — và nay còn mở đường cho việc chuyển nguồn thu sang nước khác.
+
+Hàm ý chính sách rất rõ và đã được nhiều nước rút ra: khi ưu đãi thuế mất tác dụng, lợi thế cạnh tranh phải chuyển sang những thứ mà thuế tối thiểu không chạm tới — chất lượng hạ tầng, nguồn nhân lực, thời gian thông quan, độ tin cậy của lưới điện, và các hình thức hỗ trợ dựa trên chi phí thực tế thay vì miễn giảm thuế. Đó cũng chính là danh sách trong bài về chính sách cơ cấu ở cùng thư mục, và là lý do các tài liệu về thu hút FDI trong repo nhấn mạnh rằng dòng vốn tạo năng lực sản xuất thật mới là thứ đáng theo đuổi.

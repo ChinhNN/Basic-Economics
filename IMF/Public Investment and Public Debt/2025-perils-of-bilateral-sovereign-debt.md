@@ -355,3 +355,87 @@
 > "When the large lender expects the government to face high spreads in the future, it values the relationship more and is willing to invest in it by lending more cheaply."
 
 > "Bilateral loans whose interest rate is expected to be strongly decreasing in the amount (or spreads) of marketable debt will induce relational overborrowing and are thus likely to hurt welfare."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Tên bài chỉ sai người: thủ phạm không phải "song phương" mà là "thương lượng"
+
+Bài mở đầu bằng sự trỗi dậy của các chủ nợ chính thức ngoài Câu lạc bộ Paris, với Trung Quốc là lớn nhất, và kết thúc bằng một kết luận về hiểm hoạ của nợ song phương. Nhưng nếu đọc kỹ cơ chế, đối tượng thực sự bị buộc tội lại khác.
+
+Chính bài chỉ ra rằng hạn mức hoán đổi của Cục Dự trữ Liên bang Mỹ có **điều khoản cố định trước và công bố công khai** — cộng 25 điểm cơ bản — và rằng IMF áp phụ phí theo ngưỡng định sẵn. Đó cũng là các khoản vay song phương và đa phương ngắn hạn, ưu tiên, không thể vỡ nợ. Chúng thoả mọi đặc điểm cấu trúc của mô hình trừ một: **lãi suất không do thương lượng quyết định**.
+
+Và đúng đặc điểm đó là nguồn gốc của toàn bộ thiệt hại. Khi bài thay thương lượng bằng một quy tắc minh bạch trong đó lãi suất tăng theo quy mô khoản vay song phương, phúc lợi chuyển từ **−0,43% lên +0,21%**, tần suất vỡ nợ từ 13% xuống **5,13% — thấp hơn cả kịch bản chỉ có thị trường (5,72%)** — và chủ nợ vẫn có lãi.
+
+Vậy mệnh đề đúng không phải "nợ song phương nguy hiểm" mà là "**điều khoản được thương lượng lại mỗi kỳ trong bí mật thì nguy hiểm, bất kể ai là chủ nợ**". Đây là một cách phát biểu vừa chính xác hơn vừa hữu ích hơn về mặt chính sách, vì nó chỉ ra một biến số có thể thay đổi được — thiết kế hợp đồng — thay vì một đặc điểm không thể thay đổi là danh tính của chủ nợ.
+
+### Kết quả sâu nhất: kết cục thương lượng không nằm trên biên Pareto
+
+Đây là phát hiện mà bài nêu rồi đi tiếp, dù nó đảo ngược toàn bộ khung diễn giải thông thường về quan hệ chủ nợ–con nợ.
+
+Trong cách hiểu quen thuộc, một chủ nợ song phương có sức mạnh thương lượng sẽ chiếm phần lớn thặng dư: con nợ thiệt, chủ nợ lợi, tổng thể là chuyển giao. Nhưng con số của bài không nói vậy. Dưới quy tắc phụ thuộc quy mô, **cả hai bên đều tốt hơn** so với kết cục thương lượng — bài gọi thẳng đó là một cải thiện Pareto.
+
+Nghĩa là quan hệ song phương đang vận hành ở một điểm mà không ai muốn. Lý do là kinh điển: **bất nhất thời gian**. Chủ nợ không thể cam kết trước rằng mình sẽ không tăng lãi khi con nợ rơi vào thế yếu. Biết vậy, con nợ điều chỉnh hành vi vay mượn theo hướng làm cả hai cùng thiệt. Mỗi kỳ, mỗi bên hành động tối ưu, và kết quả tổng hợp là tệ hơn cho tất cả.
+
+Hàm ý chính sách từ đây xây dựng hơn nhiều so với cảnh báo ở phần kết. Nếu cả chủ nợ lẫn con nợ đều muốn một quy tắc mà không bên nào tự cam kết được, thì có chỗ cho một **bên thứ ba**: một chuẩn công bố thông tin, một bộ quy tắc ứng xử đa phương, hoặc đơn giản là yêu cầu ghi nhận mọi hạn mức hoán đổi và thoả thuận song phương ngắn hạn vào thống kê nợ công. Vai trò của bên thứ ba không phải trừng phạt ai mà là **làm cho cam kết trở nên khả thi**. Đây là lập luận mạnh nhất có thể rút ra từ bài, và nó không được phát biểu.
+
+### Cơ chế vay quá mức do quan hệ là một đóng góp thật, và nó tổng quát hơn phạm vi bài
+
+Phương trình Euler là chỗ để nhìn thấy điều mới. Khi chỉ có thị trường, lợi ích biên của việc phát hành thêm một trái phiếu là u'(c)·(q + ∂q/∂b'·i), trong đó ∂q/∂b' < 0 chính là **kỷ luật của chênh lệch lợi suất**: vay thêm thì giá trái phiếu giảm, và chính phủ phải chịu cái giá đó ngay.
+
+Khi có chủ nợ lớn, xuất hiện thêm số hạng ∂x/∂b' > 0. Phát hành nhiều trái phiếu thị trường làm chính phủ **có nhiều tiền mặt hơn trong tay khi bước vào bàn đàm phán**, do đó điểm đe doạ mạnh hơn, do đó được chủ nợ lớn cho vay rẻ hơn. Đối trọng này bào mòn kỷ luật thị trường.
+
+Điều đáng nói là cơ chế này không đòi hỏi bất kỳ giả định nào về động cơ chính trị, về tài sản bảo đảm, hay về ý đồ chiến lược của chủ nợ. Bài giả định chủ nợ lớn **chỉ quan tâm lợi nhuận và có cùng sở thích với nhà đầu tư thị trường**, đúng để tách riêng tác động của cấu trúc thị trường. Thiệt hại vẫn xuất hiện. Đây là điểm mạnh về mặt lập luận: nó cho thấy vấn đề nằm ở kiến trúc của quan hệ, không ở phẩm chất của các bên.
+
+Cũng vì thế, cơ chế này áp dụng rộng hơn phạm vi mà bài nhắm tới. Bất kỳ chủ nợ nào có **giá trị tăng lên khi con nợ gặp khó khăn** đều tạo ra cùng độ co giãn chéo đó — kể cả một ngân hàng trong nước độc quyền cấp tín dụng cho một chính quyền địa phương, hay một định chế chính sách là người mua cuối cùng cho trái phiếu doanh nghiệp nhà nước.
+
+### Chủ nợ trung tính rủi ro tự nhiên trở thành kẻ cho vay nặng lãi, không cần một chút ác ý nào
+
+Mô tả hành vi của chủ nợ trong mô hình đáng được đọc chậm. Khi nợ và thu nhập của con nợ còn thấp, chủ nợ cho vay ở lãi suất **trợ giá, có khi âm tới khoảng −7%**, để kéo con nợ vào vùng nợ cao. Khi nợ đã cao và việc trả hết trở nên khó, điểm đe doạ của con nợ yếu đi và lãi suất được đẩy lên **5–15%**. Quanh thời điểm vỡ nợ, lãi suất song phương vọt lên **khoảng 19–20%** và chủ nợ thu lời suốt thời gian con nợ bị loại khỏi thị trường.
+
+Hàm giá trị của chủ nợ lồi theo quy mô khoản vay, nên một chủ nợ **trung tính với rủi ro lại hành xử như một người ưa rủi ro** — bài gọi đó là "đánh cược vào tình trạng nợ đè nặng". Chủ nợ lỗ nếu con nợ phục hồi nhanh và trả hết trước khi kịp nâng lãi.
+
+Đây là một mô tả gọn ghẽ của cấu trúc cho vay săn mồi, và điều khiến nó đáng chú ý là nó **xuất hiện nội sinh** từ một bài toán tối đa hoá lợi nhuận thuần tuý. Không cần giả định bất kỳ ý đồ nào. Hệ quả phân phối thì rõ: lợi nhuận của chủ nợ được tối đa hoá đúng ở những trạng thái mà phúc lợi của con nợ ở mức thấp nhất. Quan hệ này mang tính đối kháng đúng vào lúc con nợ cần nó nhất.
+
+### Vì sao 3% GDP lại gây ra chừng ấy thiệt hại: câu trả lời là kỳ hạn, không phải quy mô
+
+Con số gây ấn tượng nhất của bài là sự mất cân xứng: một khoản vay song phương trung bình chỉ khoảng **3% GDP**, tức nhỏ hơn nợ thị trường một bậc độ lớn, nhưng làm tần suất vỡ nợ tăng **từ 5,7% lên 13%** và chênh lệch lợi suất từ **714 lên 2.105 điểm cơ bản**.
+
+Lời giải thích của bài rất đáng nhớ và có giá trị thực tiễn trực tiếp. Nợ thị trường trong mô hình là dài hạn với coupon giảm dần, nên mỗi kỳ chỉ một phần nhỏ đến hạn. Khoản vay song phương thì **ngắn hạn và phải tái tục toàn bộ mỗi kỳ**. Vì thế biến động lãi suất trên 3% GDP nợ ngắn hạn tác động lên ngân sách kỳ này ngang với biến động lãi suất trên một khối nợ thị trường lớn hơn nhiều lần.
+
+Từ đó rút ra một chỉ báo rủi ro rất cụ thể: **mức nguy hiểm của một khoản vay tỷ lệ với tần suất phải quay vòng nó, không tỷ lệ với dư nợ**. Một hạn mức hoán đổi 90 ngày trị giá 2% GDP có thể nguy hiểm hơn một khoản vay ưu đãi 30 năm trị giá 10% GDP. Không một thước đo nợ trên GDP thông dụng nào nắm được sự phân biệt này.
+
+### Phép thử mà bài đề xuất rất hay và gần như không dùng được ở nơi cần nó nhất
+
+Bài kết thúc bằng một chỉ báo chẩn đoán đơn giản và thông minh: **điều khoản song phương có tốt lên khi nợ hoặc chênh lệch lợi suất thị trường tăng không?** Nếu có, đó là dấu hiệu của vay quá mức do quan hệ và nhiều khả năng gây hại phúc lợi. Nếu điều khoản tốt lên khi nợ thấp, đó là chủ nợ đang hỗ trợ bền vững nợ.
+
+Phép thử này chỉ cần dữ liệu chuỗi thời gian về lãi suất song phương và chênh lệch thị trường, nên về nguyên tắc là rẻ.
+
+Vấn đề nằm ở chính điều bài ghi nhận ngay từ hình đầu tiên: hạn mức hoán đổi của ngân hàng trung ương **thường không nằm trong số liệu nợ công và nợ được bảo lãnh**, và lãi suất cùng kỳ hạn thường được **giữ bí mật**. Nghĩa là dữ liệu cần thiết để chạy phép thử bị giấu chính xác ở những quan hệ có nhiều khả năng thất bại phép thử nhất.
+
+Đây không phải một sơ suất của bài mà là một vòng lặp kín trong thực tế: các thoả thuận có động cơ lệch lạc nhất là các thoả thuận có điều khoản bảo mật chặt nhất, vì chính sự bảo mật là điều kiện để thương lượng lại từng kỳ diễn ra. Nó củng cố lập luận rằng yêu cầu công bố là biện pháp chính sách có tỷ suất cao nhất — cao hơn bất kỳ hạn mức hay quy tắc định lượng nào.
+
+### Cần đọc con số phúc lợi với đúng trọng lượng của nó
+
+Đây là một mô hình định lượng được hiệu chỉnh, không phải bằng chứng thực nghiệm, và ba hạn chế cần nhớ khi trích dẫn.
+
+**Tham số quyết định nhất được giả định chứ không ước lượng.** Sức mạnh thương lượng θ được đặt bằng 0,5. Kết quả cực kỳ nhạy với nó: ở θ = 0 con nợ được lợi và mô hình quay về kết quả trước đó trong tài liệu; ở θ = 0,25 phúc lợi giảm 0,15%; ở θ = 0,5 giảm 0,43%. Con số "0,43% tiêu dùng" được trích trong phần tóm tắt vì thế là hàm của một tham số không có neo thực nghiệm nào. Bài trung thực khi trình bày cả dải, nhưng dải đó cần đi kèm mỗi lần con số được nhắc.
+
+**Lợi ích lớn nhất của cho vay chính thức bị giả định đi.** Mô hình không có đa cân bằng. Nhưng lập luận cổ điển bênh vực hạn mức hoán đổi và cho vay của IMF chính là loại bỏ các cuộc tháo chạy tự thực hiện — tức loại bỏ cân bằng xấu. Một mô hình gạt kênh đó ra rồi kết luận rằng cho vay chính thức gây hại đang trả lời một câu hỏi hẹp hơn nhiều so với tiêu đề gợi ý. Bài thừa nhận điều này ở phần điểm tài liệu.
+
+**Nợ được mô hình hoá như công cụ làm mượt tiêu dùng, không phải tài trợ dự án.** Bài nói rõ điều này. Nó có nghĩa là toàn bộ kênh thứ hai của nợ song phương trong thực tế — tài trợ hạ tầng có ràng buộc mua sắm từ nhà thầu của nước cho vay, với các vấn đề về giá thành và chuyển giao công nghệ — nằm ngoài phạm vi hoàn toàn.
+
+### Với Việt Nam: đúng cơ chế, nhưng có thể sai loại nợ
+
+Hàm ý cho Việt Nam cần được tách làm hai phần, vì phần lớn nợ song phương của Việt Nam **không** thuộc loại mà mô hình mô tả.
+
+**Phần không áp dụng.** Các khoản vay ODA và vay ưu đãi từ các đối tác song phương truyền thống có đặc điểm ngược hẳn với chủ nợ lớn trong mô hình: kỳ hạn rất dài, lãi suất cố định và công bố, điều khoản không thương lượng lại từng kỳ. Theo chính logic của bài, đó là cấu hình lành tính — thậm chí là cấu hình mà bài khuyến nghị. Rủi ro thật của nhóm này nằm ở chỗ khác, ở ràng buộc mua sắm và ở chất lượng dự án, và mô hình không nói gì về điều đó.
+
+**Phần áp dụng.** Cảnh báo của bài nhắm vào các công cụ ngắn hạn, thương lượng và bảo mật: hạn mức hoán đổi song phương, các thoả thuận thanh khoản khu vực, và các khoản vay thương mại có bảo lãnh nhà nước với điều khoản không công bố. Ba hàm ý cụ thể:
+
+**Ghi nhận và công bố theo kỳ hạn, không theo dư nợ.** Vì nguy cơ tỷ lệ với tần suất quay vòng, một bản thống kê nợ công đầy đủ cần tách riêng mọi nghĩa vụ phải tái tục trong vòng một năm với một đối tác duy nhất, kể cả khi quy mô nhỏ và kể cả khi chúng nằm ở bảng cân đối ngân hàng trung ương chứ không phải ngân sách.
+
+**Quy tắc tài khoá có giá trị cao hơn khi tồn tại nguồn vay song phương.** Đây là hàm ý trực tiếp của mô hình: vì kỷ luật thị trường bị bào mòn bởi độ co giãn chéo, một ràng buộc hành chính lên tổng mức vay trở nên quan trọng hơn chứ không phải ít quan trọng hơn. Đây là một lập luận ủng hộ trần nợ và trần bội chi hoàn toàn khác với các lập luận thông thường.
+
+**Ưu tiên điều khoản định trước trong mọi thoả thuận mới.** Kết quả cải thiện Pareto của bài nói rằng một quy tắc minh bạch tốt hơn cho cả hai bên so với thương lượng. Điều đó có nghĩa là việc yêu cầu công bố công thức lãi suất không phải một nhượng bộ mà phía đối tác phải chấp nhận miễn cưỡng — theo mô hình, đó là điều họ cũng có lợi nếu cam kết được.
+
+Cuối cùng, tài liệu này nên được đọc cùng nhánh về dễ tổn thương nợ của các nền kinh tế mới nổi trong cùng thư mục, nơi ghi nhận rằng tỷ trọng chủ nợ tư nhân cộng song phương ngoài Câu lạc bộ Paris ở nhóm thu nhập thấp đã đi từ 22% lên 38% tổng nợ ngoài. Tài liệu kia đo sự dịch chuyển; tài liệu này giải thích vì sao sự dịch chuyển đó làm việc tái cơ cấu trở nên khó hơn và làm hành vi vay mượn trở nên tệ hơn ngay cả khi chưa có ai vỡ nợ.

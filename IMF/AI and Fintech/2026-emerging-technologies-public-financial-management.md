@@ -280,3 +280,85 @@
 > "The digital journey in PFM is an ongoing evolution, not a one-time reform."
 
 > "Greater complexity and functionality of systems create a correspondingly larger attack surface."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Sáu tỷ đô la và bốn mươi năm: con số này lẽ ra phải định hình cả tài liệu
+
+Một trăm năm mươi sáu dự án hệ thống thông tin quản lý tài chính do Ngân hàng Thế giới tài trợ từ năm 1984, tổng chi phí vượt sáu tỷ đô la, và kết luận vẫn là phần lớn hệ thống không đáp ứng được nhu cầu đang thay đổi. Con số này được đặt trong một khung cảnh báo nhỏ, nhưng nó là dữ kiện quan trọng nhất trong toàn bộ tài liệu.
+
+Bốn thập niên là đủ dài để loại trừ giả thuyết "công nghệ chưa đủ tốt". Trong khoảng thời gian đó, công nghệ đã đi từ máy tính lớn tới đám mây. Nếu kết quả vẫn không đạt, thì nguyên nhân nằm ở chỗ khác.
+
+Và chính tài liệu đã cung cấp bằng chứng về chỗ khác đó, qua trường hợp hệ thống trả lương Phoenix của Canada: quản lý dự án yếu, thiếu chức năng quan trọng, kiểm thử không đầy đủ, ít tham vấn người dùng, thiếu giám sát. Kết quả là một hệ thống mới **kém hiệu quả hơn và tốn kém hơn hệ thống bốn mươi năm tuổi mà nó thay thế**.
+
+Hãy để ý: không một nguyên nhân nào trong danh sách đó là nguyên nhân chọn sai công nghệ. Phoenix không thất bại vì Canada chọn nhầm nền tảng. Nó thất bại ở khâu thực thi và ở khâu thể chế.
+
+Đây là chỗ hở lớn nhất của tài liệu. Công cụ mà bài đưa ra — công thức tối đa hoá giá trị — là một công cụ **chọn lựa**: nó giúp trả lời nên áp dụng công nghệ nào. Nhưng bằng chứng lịch sử mà chính bài trình bày nói rằng thất bại không nằm ở việc chọn. Một điểm khả thi cao hơn sẽ không cứu được Phoenix, vì mọi nguyên nhân thất bại của Phoenix đều phát sinh **sau khi** quyết định đã được đưa ra.
+
+### Giá trị thật của công thức không phải chỗ nó giúp chọn đúng, mà chỗ nó buộc phải ghi lại
+
+Công thức nhân hai điểm số với nhau là một lựa chọn có nội dung: dạng nhân nghĩa là một yếu tố gần bằng không sẽ triệt tiêu cả dự án, dù yếu tố kia cao đến đâu. Đó là mô hình hoá đúng, vì một công nghệ tuyệt vời nhưng không triển khai được thì giá trị bằng không, chứ không phải bằng trung bình.
+
+Nhưng cả mười thành phần đều được chấm bằng phán đoán chủ quan, và chấm bởi chính cơ quan đang muốn làm dự án. Trọng số cũng do chính cơ quan đó đặt. Trong điều kiện đó, một người đã quyết định muốn làm có thể tạo ra bất kỳ điểm số nào mình cần, và làm điều đó mà không hề gian dối — chỉ cần đặt trọng số hơi khác đi.
+
+Vậy công thức này có vô dụng không? Không, nhưng giá trị của nó nằm ở chỗ khác với chỗ bài nói. Nó buộc người ra quyết định phải **viết xuống các giả định của mình bằng con số, kèm trọng số, tại thời điểm quyết định**. Điều đó tạo ra một hồ sơ có thể đối chiếu về sau.
+
+Và đây chính là điều kiện cần cho khuyến nghị cuối cùng của bài, khuyến nghị bị đặt ở vị trí khiêm tốn nhất: cơ chế thẩm định sau triển khai, so sánh kết quả thực tế với điểm số đã dự đoán, rồi hiệu chỉnh cách chấm cho các dự án sau. Không có hồ sơ ex ante thì không có cách nào làm việc so sánh ex post, và không có việc so sánh ex post thì không có học hỏi.
+
+Nói cách khác, công thức là **công cụ trách nhiệm giải trình được nguỵ trang thành công cụ phân tích**. Nên đọc nó theo đúng chức năng đó, và nên chống lại cám dỗ coi con số 57 hay 63 như một kết quả tính toán khách quan.
+
+### Ví dụ tính toán mới là lập luận mạnh nhất, mạnh hơn cả công thức sinh ra nó
+
+Trong toàn bộ tài liệu, phần có sức thuyết phục cao nhất là ví dụ về thanh toán theo tiến độ công trình, và lý do không phải vì nó minh hoạ công thức mà vì **kết quả của nó phản trực giác đúng theo chiều mà ngành cần nghe**.
+
+Hợp đồng thông minh trên blockchain — phương án hào nhoáng, phương án mà mọi hội thảo về công nghệ trong khu vực công đều nói tới — cho điểm lợi ích cao nhưng thất bại ở khả thi, và ra kết quả 33, tức là chưa nên làm. Một quy trình tự thực thi trên chính nền tảng đã có, không dùng blockchain, với nhật ký kiểm toán, phân quyền và chữ ký số, cho 57. Thêm một lớp AI phát hiện bất thường trước khi tiền chuyển đi, cho 63.
+
+Điều đáng học ở đây là **phương án tốt nhất là phương án nhàm chán nhất**, và nó tốt nhất không phải vì lợi ích lớn hơn mà vì nó dùng công nghệ đã trưởng thành, trên hạ tầng đã có, không vướng khoảng trống pháp lý, và triển khai được trong thời hạn hợp lý. Chênh lệch điểm lợi ích giữa hai phương án chỉ là 7,75 so với 7,5 — gần như bằng nhau. Toàn bộ khác biệt nằm ở khả thi.
+
+Kết quả này khái quát hoá được rất xa: trong khu vực công, **phần lớn giá trị nằm ở việc làm cho quy trình có nhật ký, có phân quyền và có tự động hoá, chứ không nằm ở tầng công nghệ bên dưới**. Ai đã từng nghe một bài trình bày về việc đưa blockchain vào quản lý ngân sách nên đọc kỹ ví dụ này trước khi đọc bất cứ thứ gì khác trong tài liệu.
+
+### Câu hỏi sắc nhất nằm ở nhánh thứ hai của cây quyết định và hầu như không ai hỏi nó
+
+Cây quyết định có một câu hỏi mà nếu được hỏi một cách trung thực sẽ loại bỏ một phần rất lớn các dự án công nghệ trong khu vực công: **lý thuyết thay đổi có trung lập về công nghệ không, và nếu có, thì cải cách quy trình hoặc cải cách pháp lý có giải quyết được vấn đề mà không cần công nghệ mới hay không?**
+
+Đây là câu hỏi "liệu có cần phần mềm không". Nó hiếm khi được đặt ra, và lý do không phải là kỹ thuật. Một dự án công nghệ có ngân sách, có nhà cung cấp, có lễ khởi động, có báo cáo tiến độ và có ảnh chụp khi bàn giao. Một cải cách quy trình thì không có gì trong số đó, dù nó có thể giải quyết đúng vấn đề với chi phí bằng một phần trăm.
+
+Chính tài liệu đưa ra ví dụ minh hoạ hoàn hảo cho điểm này, ở một chỗ khác và không nối lại: rào cản khiến nhiều quy trình vẫn phải làm thủ công không phải là thiếu phần mềm, mà là **hồ sơ số chưa được chấp nhận làm chứng từ hợp pháp cho mục đích kiểm toán**. Chừng nào quy định đó chưa đổi, cơ quan vẫn buộc phải in ra, ký tay và luân chuyển giấy, bất kể hệ thống điện tử tốt đến đâu.
+
+Tức là trong trường hợp này, một sửa đổi văn bản pháp quy không tốn tiền sẽ mở khoá nhiều giá trị hơn bất kỳ khoản đầu tư công nghệ nào. Đây là cùng một mô thức xuất hiện ở các tài liệu khác trong thư mục, nơi luật về tính chung thẩm của quyết toán là điều kiện tiên quyết rẻ nhất cho toàn bộ hạ tầng token hoá: **bước rẻ nhất và ít hào nhoáng nhất thường là bước chặn đường tất cả các bước còn lại**.
+
+### Khoảng trống ở quản lý đầu tư công không phải khoảng trống công nghệ
+
+Con số 86 trên 193 cho quản lý đầu tư công, đặt cạnh 193 cho hệ thống quản lý tài chính, 191 cho hải quan, 187 cho thuế và 172 cho tài khoản kho bạc duy nhất, là dữ kiện gây chú ý nhất trong bảng độ phủ. Mọi chức năng khác gần như đã phủ kín; riêng chức năng này ở dưới một nửa.
+
+Câu hỏi đúng là vì sao. Không phải vì công nghệ khó hơn — theo dõi tiến độ dự án và chi phí không phức tạp hơn quản lý nợ hay tính lương. Không phải vì ít quan trọng hơn — đầu tư công thường là khoản chi lớn nhất có thể kiểm soát được trong ngân sách.
+
+Lời giải thích hợp lý hơn mang tính **kinh tế chính trị**. Trong các chức năng quản lý tài chính công, quản lý đầu tư công là chức năng có nhiều quyền tuỳ nghi nhất: chọn dự án nào, thẩm định ra sao, nghiệm thu khối lượng thế nào, điều chỉnh tổng mức đầu tư khi nào. Số hoá một quy trình có nghĩa là ghi lại mọi bước, gắn thời điểm và gắn người thực hiện — tức là **thu hẹp đúng phần quyền tuỳ nghi ấy**. Ở những chức năng mà quyền tuỳ nghi ít giá trị, số hoá diễn ra nhanh. Ở chức năng mà nó có giá trị, số hoá bị chậm lại, và sự chậm ấy hiện ra dưới dạng "chưa đủ nguồn lực" hoặc "hệ thống chưa phù hợp".
+
+Cách đọc này cũng giải thích vì sao ví dụ tính toán của bài lại chọn đúng chủ đề thanh toán theo tiến độ xây dựng: đó là điểm đau lớn nhất, và cũng là điểm khó nhất, và hai điều đó là cùng một lý do.
+
+Điều này nối trực tiếp với các phân tích về đầu tư công và nợ công trong thư mục khác của kho tài liệu này, nơi khoảng cách hiệu quả đầu tư công — phần giá trị bị hao hụt giữa số tiền chi ra và tài sản hạ tầng thực sự nhận được — là một trong những nguồn lãng phí lớn nhất ở các nền kinh tế đang phát triển. Tài liệu này không nhắc tới khoảng cách đó, nhưng bảng số liệu của nó vừa giải thích vì sao khoảng cách ấy dai dẳng: công cụ để đóng nó thì tồn tại và không đắt, nhưng nó chưa được triển khai ở hơn một nửa số nước.
+
+### Một mâu thuẫn nội tại mà công thức không xử lý được
+
+Trong sáu nhóm lợi ích, an ninh được tính là một **lợi ích** của việc áp dụng công nghệ mới, với lý lẽ đúng: hệ thống cũ hết hỗ trợ là một lỗ hổng, phải vá phần mềm lỗi thời là một rủi ro thường trực.
+
+Nhưng ở phần cuối, bài phát biểu một nguyên lý ngược chiều: hệ thống càng nhiều năng lực và càng phức tạp thì bề mặt tấn công càng lớn. Mỗi năng lực mới — dữ liệu lớn, sổ cái phân tán, tài nguyên đám mây — đều thêm một cánh cửa.
+
+Cả hai mệnh đề đều đúng, và chúng kéo ngược chiều nhau. Không nâng cấp thì chịu rủi ro của phần mềm hết hỗ trợ; nâng cấp thì chịu rủi ro của bề mặt tấn công lớn hơn. Nghĩa là tồn tại một điểm tối ưu ở giữa, và công thức như đang được trình bày **không tìm được điểm đó**, vì an ninh chỉ xuất hiện ở vế lợi ích chứ không xuất hiện ở vế khả thi hay ở một vế chi phí nào.
+
+Cách sửa khá đơn giản và đáng được nêu: chấm điểm an ninh theo **mức thay đổi ròng** của rủi ro, tức là rủi ro giảm được nhờ loại bỏ hệ thống cũ, trừ đi rủi ro tăng thêm do bề mặt mới. Với một số công nghệ, hiệu số này là âm, và đó là thông tin mà một bộ tài chính rất cần biết trước khi ký hợp đồng.
+
+### Với Việt Nam: bài này chỉ đúng vào điểm nghẽn quen thuộc nhất, và đưa ra một lời giải khiêm tốn
+
+Việt Nam được nêu tên trong nhóm 112 nước đã có chiến lược quốc gia về công nghệ mới nổi. Nhưng phần đáng đọc với Việt Nam không phải phần chiến lược mà là ví dụ tính toán, vì nó mô tả gần như chính xác một vấn đề được nói tới liên tục trong nhiều năm: **giải ngân vốn đầu tư công chậm**, với nút thắt nằm ở khâu nghiệm thu khối lượng, xác nhận tiến độ và hoàn thiện hồ sơ thanh toán.
+
+Lời giải mà bài đưa ra cho đúng vấn đề đó có ba đặc điểm đáng chú ý, và cả ba đều đi ngược lại kiểu đề xuất thường thấy.
+
+**Thứ nhất, nó không cần công nghệ mới.** Phương án thắng là một quy trình tự thực thi trên nền tảng đã có: nhà thầu báo mốc, hệ thống tự thông báo cho cán bộ, cán bộ duyệt, thanh toán được kích hoạt từ kho bạc. Toàn bộ giá trị đến từ việc quy trình có nhật ký kiểm toán, có phân quyền rõ và có chữ ký số — không có phần nào đòi hỏi sổ cái phân tán hay bất cứ thứ gì chưa trưởng thành.
+
+**Thứ hai, lớp có giá trị gia tăng cao nhất là lớp phát hiện bất thường.** Việc thêm một bước so sánh tiến độ báo cáo với lịch trình và với lịch sử nhà thầu, rồi cảnh báo sai lệch **trước khi tiền chuyển đi**, làm điểm trách nhiệm giải trình tăng mạnh nhất trong cả ví dụ. Đây là kiểm soát chủ động thay cho hậu kiểm bằng lấy mẫu, và nó đúng là điểm yếu cố hữu của mô hình kiểm soát dựa trên thanh tra sau.
+
+**Thứ ba, và đây là điều kiện tiên quyết dễ bị bỏ qua:** việc công nhận hồ sơ số là chứng từ hợp pháp cho mục đích kiểm toán. Chừng nào quy định kiểm toán còn đòi chứng từ giấy có chữ ký tươi, mọi quy trình điện tử phía trên đều chỉ là một lớp song song, và cơ quan phải vận hành đồng thời hai hệ thống — chi phí kép mà không có lợi ích kép.
+
+Một cảnh báo cuối, lấy thẳng từ bài và rất đúng với thực tế của nhiều cơ quan: mô hình nhà cung cấp cài đặt hệ thống rồi rời đi khi dự án kết thúc, để lại việc hỗ trợ vận hành cho nhân viên công nghệ thông tin của cơ quan vốn không được đào tạo riêng về hệ thống đó. Hậu quả mà bài liệt kê — mất dữ liệu, nhập sai dữ liệu, an ninh bị tổn hại dẫn tới gian lận — không phải lý thuyết. Điều đó có nghĩa là **chi phí thật của một hệ thống phải bao gồm nhiều năm vận hành và một đội ngũ trong biên chế**, và bất kỳ phép tính khả thi kinh tế nào bỏ qua khoản đó đều là phép tính sai.

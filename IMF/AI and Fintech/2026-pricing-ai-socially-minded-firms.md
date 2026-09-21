@@ -186,3 +186,65 @@
 > "The distributional motive moves the price by about one cent at the bottom of the distribution. It is economically negligible."
 
 > "Pricing is a poor substitute for taxes and transfers."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Đóng góp thật là một kết quả phủ định, và nó được đo bằng một con số đủ nhỏ để kết thúc tranh luận
+
+Phần lớn giá trị của bài không nằm ở công thức mà nằm ở một con số: **một xu**. Đó là mức mà mối quan tâm phân phối kéo giá xuống ở nhóm thu nhập thấp nhất.
+
+Điều làm con số này có sức nặng là nó bác bỏ một lập luận rất phổ biến bằng phương pháp mà lập luận đó tự nhận là dựa vào. Khi một công ty công nghệ nói rằng chính sách giá của mình phục vụ mục tiêu tiếp cận công bằng, họ đang tuyên bố rằng động cơ phân phối có ảnh hưởng đáng kể tới giá. Bài tính ra ảnh hưởng đó và nó gần bằng không.
+
+Quan trọng hơn con số là cơ chế, vì cơ chế thì tổng quát. Đóng góp của động cơ phân phối tỷ lệ với **hiệp phương sai giữa trọng số phúc lợi xã hội và mức tiêu dùng sản phẩm**. Nói bằng lời thường: định giá chỉ là công cụ phân phối lại khi người nghèo dùng sản phẩm nhiều hơn người giàu. Với một sản phẩm cao cấp mà người giàu dùng nhiều hơn, dấu của hiệp phương sai đảo lại, và việc quan tâm tới phân phối sẽ đẩy giá **lên** — đúng mười hai xu ở nhóm thu nhập cao nhất, theo tính toán của bài.
+
+Kết quả này vượt xa phạm vi AI. Nó là một lập luận tổng quát chống lại việc dùng giá của bất kỳ sản phẩm cao cấp nào làm công cụ công bằng xã hội, và nó áp dụng trực tiếp cho mọi cơ chế trợ giá chéo trong dịch vụ công.
+
+### Kết quả hữu dụng nhất bị giấu trong một bảng: cách phân biệt lời nói với hành động
+
+Bài ghi nhận rằng doanh nghiệp tối đa hoá lợi nhuận tăng biên giá từ 32% lên 50% khi năng lực AI tăng, còn doanh nghiệp đa mục tiêu **đi ngược lại**, giảm từ 33% xuống 15%. Bài gọi đây là khác biệt về hình dạng quỹ đạo chứ không chỉ về mức, rồi dừng lại.
+
+Hãy để ý con số xuất phát: 32% và 33%. Gần như trùng nhau. Nghĩa là **tại một thời điểm, không thể phân biệt hai loại doanh nghiệp bằng giá của họ**. Một công ty có mục tiêu xã hội thật và một công ty tối đa hoá lợi nhuận thuần tuý có thể đang bán ở cùng một mức biên, và mọi phân tích cắt ngang đều bất lực.
+
+Thứ phân biệt được hai loại là **đạo hàm**: giá thay đổi theo chiều nào khi sản phẩm mạnh lên. Bên tối đa hoá lợi nhuận tăng biên vì cầu trở nên ít co giãn hơn khi sản phẩm hữu ích hơn — đây là hành vi bắt buộc của kẻ có sức mạnh thị trường. Bên đa mục tiêu giảm biên vì khi lợi ích tiêu dùng tăng nhanh hơn tổn thất dịch chuyển lao động, cân bằng giữa hai động cơ đối nghịch dịch về phía hạ giá.
+
+Đây là một tiêu chí **quan sát được, kiểm chứng được và khó nguỵ tạo**, và nó tốt hơn nhiều so với mọi công cụ hiện đang được dùng để đánh giá cam kết xã hội của doanh nghiệp công nghệ: điều lệ công ty, cấu trúc sở hữu đặc biệt, hội đồng đạo đức, tuyên bố sứ mệnh. Tất cả những thứ đó đều rẻ để tuyên bố và không ràng buộc gì. Quỹ đạo giá thì tốn tiền thật.
+
+Đây là ý tưởng thực tiễn nhất trong bài và nó nằm trong một ô bảng.
+
+### Căng thẳng giữa hai động cơ dẫn tới một kết luận mà bài không dám phát biểu thẳng
+
+Phát hiện rằng động cơ thặng dư tiêu dùng và động cơ lao động kéo ngược chiều nhau là điểm mới thật sự của khung này. Nhưng hãy dịch nó ra tiếng thường.
+
+Một doanh nghiệp thực sự quan tâm tới người lao động bị thay thế **nên giữ giá sản phẩm ở mức cao**, vì giá cao làm chậm tốc độ áp dụng và do đó làm chậm tốc độ mất việc. Nói cách khác, hành vi đạo đức được khuyến nghị ở đây là **hạn chế quyền tiếp cận một công nghệ có lợi, bằng giá, để bảo vệ việc làm**.
+
+Đó là một loại thuế tự động hoá. Nhưng nó là một thứ thuế có ba đặc tính bất thường. Thứ nhất, **mức thuế do chính bên hưởng lợi từ tự động hoá đặt ra**. Thứ hai, **tiền thuế chảy vào túi bên đặt thuế**, không vào ngân sách và không tới người lao động bị thay thế. Thứ ba, và đây là điểm khó chịu nhất: **nó không phân biệt được với hành vi định giá độc quyền**. Cùng một mức giá cao, cùng một dòng lợi nhuận, chỉ khác nhau ở lời giải thích.
+
+Mệnh đề thứ năm của bài đi tới kết luận đúng — hãy dùng thuế và chuyển nhượng — nhưng bài không nói ra điều đáng nói nhất: rằng mức giá "có đạo đức" và mức giá độc quyền trùng nhau về hình thức, nên việc khuyến khích doanh nghiệp tự nguyện tính tới chi phí lao động qua giá là trao cho họ một lời biện minh đạo đức cho chính hành vi mà chính sách cạnh tranh tồn tại để ngăn chặn.
+
+### Ba giả định làm kết quả định lượng mong manh hơn vẻ ngoài của nó
+
+**Mức độ tiếp xúc của tác vụ với AI đặt ở bốn phần trăm.** Đây là một con số rất thấp so với hầu hết các ước lượng đang lưu hành, và động cơ lao động tỷ lệ trực tiếp với nó. Nếu mức tiếp xúc thực tế là hai mươi phần trăm, động cơ lao động lớn gấp năm lần, và toàn bộ kết quả về hình dạng quỹ đạo có thể đổi: doanh nghiệp đa mục tiêu sẽ không còn giảm biên giá khi AI mạnh lên, vì tổn thất dịch chuyển tăng nhanh hơn. Kết luận về hình dạng quỹ đạo — phần hay nhất của bài — phụ thuộc vào tốc độ tăng tương đối của hai số hạng, mà điều đó lại phụ thuộc vào một tham số được đặt khá tuỳ ý.
+
+**Hiệu chuẩn trên 525 nghề nghiệp Hoa Kỳ.** Cấu trúc nghề nghiệp, mức lương và chi phí dịch chuyển ở Hoa Kỳ rất khác với các nền kinh tế đang phát triển. Với một nước có tỷ trọng lớn lao động trong nông nghiệp và chế biến thâm dụng lao động, mức tiếp xúc với AI thấp hơn nhưng năng lực hấp thụ dịch chuyển cũng thấp hơn nhiều, nên hai hiệu ứng không triệt tiêu nhau một cách gọn gàng.
+
+**Một doanh nghiệp, một mức giá.** Đây là giả định hạn chế nhất và nó đóng lại đúng lối thoát mà ngành đang dùng. Thị trường AI thực tế đầy phân biệt giá: bậc miễn phí, giá cho sinh viên và tổ chức giáo dục, giá theo quốc gia, giá doanh nghiệp cao gấp nhiều lần giá cá nhân, hạn ngạch sử dụng thay cho giá. Một doanh nghiệp muốn vừa tối đa thặng dư tiêu dùng vừa hạn chế tốc độ dịch chuyển lao động **sẽ không đặt một mức giá** — nó sẽ đặt giá thấp cho cá nhân và giá cao cho doanh nghiệp, vì chính khách hàng doanh nghiệp mới là bên thực hiện việc thay thế lao động.
+
+Chiến lược đó giải quyết căng thẳng trung tâm của bài một cách gần như hoàn hảo, và mô hình một giá không có chỗ cho nó. Đây là hạn chế đáng kể, vì nó có nghĩa là bài đang phân tích một bài toán mà thị trường thực đã giải bằng cách khác.
+
+### Con số đáng nhớ nhất không phải một xu, mà là khoảng cách giữa mười lăm và bảy
+
+Doanh nghiệp vị lợi thuần tuý — loại quan tâm tối đa tới phúc lợi xã hội, không đặt trọng số riêng nào cho lợi nhuận của mình — vẫn định giá ở biên mười lăm phần trăm. Nhà hoạch định xã hội có công cụ thuế thì đặt biên tối ưu ở bảy phần trăm, và dưới một phần trăm nếu có cơ chế chuyển nhượng nhắm đúng đối tượng.
+
+Khoảng cách tám điểm đó là **cái giá của việc không có công cụ tài khoá**, được đo lần đầu tiên bằng một con số. Và nó nói một điều tinh tế: doanh nghiệp vị lợi không định giá cao vì tham, mà vì nó phải tự thu hồi chi phí cố định qua giá, trong khi nhà hoạch định xã hội có thể thu hồi chúng qua thuế chung và để giá gần chi phí biên.
+
+Điều này đặt lại toàn bộ cuộc tranh luận về giá của sản phẩm AI. Nó không phải cuộc tranh luận về đạo đức doanh nghiệp mà là một bài toán tối ưu bậc hai: khi công cụ tốt nhất không có, ta dùng công cụ tệ hơn, và độ tệ đo được. Kết luận hành động là rõ: nếu xã hội muốn giá AI gần chi phí biên, cách để đạt điều đó không phải là thuyết phục doanh nghiệp tử tế hơn mà là tìm một cơ chế khác để tài trợ chi phí cố định — tài trợ nghiên cứu công, mua sắm công, hoặc mô hình trọng số mở.
+
+### Với người đọc Việt Nam: bài này không nói về AI nhiều bằng nói về trợ giá chéo
+
+Đây là tài liệu ít liên quan tới Việt Nam nhất trong thư mục, nếu đọc nó như một bài về công ty AI. Nhưng khung phân tích của nó lại áp dụng trực tiếp vào một thực tiễn rất quen thuộc.
+
+Khái niệm "doanh nghiệp có mục tiêu xã hội" ở Hoa Kỳ chủ yếu là một tuyên bố tự nguyện của công ty tư nhân. Ở Việt Nam, đó là một **loại hình thể chế có thật và phổ biến**: doanh nghiệp nhà nước và doanh nghiệp có vốn nhà nước trong viễn thông, điện, ngân hàng và dịch vụ công, được giao đồng thời nhiệm vụ kinh doanh và nhiệm vụ xã hội. Và công cụ mặc định để thực hiện nhiệm vụ xã hội ấy là **trợ giá chéo**: đặt giá thấp cho nhóm này và cao cho nhóm kia trong cùng một biểu giá.
+
+Bài này nói rằng cách làm đó gần như luôn kém hiệu quả hơn thuế và chuyển nhượng, và quan trọng hơn, nó đưa ra điều kiện để biết khi nào cách làm đó **phản tác dụng**: khi nhóm khá giả tiêu dùng dịch vụ nhiều hơn nhóm khó khăn. Với nhiều dịch vụ, điều kiện đó đúng — người tiêu thụ nhiều điện hơn, dùng nhiều dữ liệu di động hơn, giao dịch ngân hàng nhiều hơn thường là người có thu nhập cao hơn. Trong những trường hợp đó, trợ giá chéo trên biểu giá chung là một cơ chế **lũy thoái được khoác tên xã hội**, và kết quả hiệp phương sai của bài giải thích chính xác vì sao.
+
+Góc thứ hai, ở phía cầu. Việt Nam là bên **nhập khẩu dịch vụ AI** với giá do doanh nghiệp nước ngoài đặt, và không có đòn bẩy nào đối với việc họ chọn quỹ đạo giá nào. Kết quả của bài nói rằng quỹ đạo đó có thể đi lên hoặc đi xuống tuỳ vào mục tiêu nội bộ của từng công ty. Đặt cược khả năng tiếp cận công nghệ của cả một nền kinh tế vào thiện chí của vài nhà cung cấp nước ngoài là một rủi ro không cần thiết. Hai biện pháp giảm rủi ro đó không nằm trong bài nhưng suy ra được từ nó: duy trì cạnh tranh giữa nhiều nhà cung cấp thay vì khoá vào một bên, và giữ năng lực dùng được mô hình trọng số mở — vì mô hình trọng số mở làm cho độ co giãn của cầu tăng lên, và theo đúng Quy tắc Lerner, độ co giãn cao hơn kéo biên giá của mọi nhà cung cấp xuống, bất kể họ có mục tiêu xã hội hay không.

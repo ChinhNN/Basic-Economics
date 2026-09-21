@@ -260,3 +260,73 @@
 > "This erosion of real income is the single biggest cost of inflation."
 
 > "Policymakers must find the right balance between boosting demand and growth when needed without overstimulating the economy and causing inflation."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Câu nói then chốt của bài chỉ đúng theo một nghĩa rất cụ thể, và nghĩa đó quan trọng hơn câu chữ
+
+"Sự xói mòn thu nhập thực này là chi phí lớn nhất của lạm phát." Câu này được đặt ở vị trí trung tâm và rất dễ bị đọc thành: lạm phát làm mọi người nghèo đi.
+
+Theo lý thuyết chuẩn, mệnh đề đó sai. Nếu mọi giá **kể cả giá lao động** cùng tăng 10%, thu nhập thực không đổi và không ai nghèo đi; chỉ có đơn vị đo thay đổi. Lạm phát tự nó không tiêu huỷ hàng hoá nào.
+
+Điều bài thực sự đang chỉ vào nằm ở mệnh đề ngay trước đó, và nó mới là nội dung thật: giá tăng **không đều**. Một số giá thay đổi hằng ngày, một số bị khoá trong hợp đồng cả năm. Nghĩa là chi phí của lạm phát không phải mất mát tổng thể mà là **sự phân phối lại tuỳ tiện giữa người điều chỉnh được giá nhanh và người điều chỉnh chậm**.
+
+Nói cho hết thì danh sách người thua và người thắng khá rõ ràng, và bài đã đưa ra đủ mảnh ghép để lập nó. Thua: người làm công ăn lương theo hợp đồng năm, người hưởng lương hưu cố định, người gửi tiết kiệm danh nghĩa, người cho vay với lãi suất cố định. Thắng: người sở hữu tài sản thực, doanh nghiệp có quyền định giá, và **người đi vay bằng tiền danh nghĩa** — mà người đi vay lớn nhất trong hầu hết nền kinh tế là chính phủ.
+
+Ghép lại thì lạm phát là một khoản **thuế không do cơ quan lập pháp nào biểu quyết**: nó lấy sức mua từ người nắm tài sản danh nghĩa và chuyển sang người mắc nợ danh nghĩa, không cần thông qua luật, không cần ai chịu trách nhiệm, và thường không ai nhận ra mình vừa bị đánh thuế. Đây là lý do thật sự khiến lạm phát có sức nặng chính trị lớn đến thế, và nó cũng khớp với phần về không nhất quán theo thời gian trong bài về chính sách tiền tệ cùng loạt — nơi chính khoản lợi của chính phủ từ việc giảm giá trị thực của nợ được nêu ra như nguồn gốc của cám dỗ.
+
+### Chỉ số giá tiêu dùng đo rổ hàng của một người tiêu dùng không tồn tại
+
+Phần mô tả cách xây dựng chỉ số giá tiêu dùng rất chuẩn xác về kỹ thuật, và chính vì chuẩn xác mà nó làm lộ ra một vấn đề bài không nêu. Chỉ số được xây trên rổ hàng của **người tiêu dùng trung bình**, với tỷ trọng lấy từ khảo sát hộ gia đình.
+
+Nhưng không có ai tiêu dùng theo rổ trung bình. Một hộ thu nhập thấp dành tỷ trọng ngân sách cho **thực phẩm và năng lượng** cao hơn hẳn mức trung bình; một hộ khá giả dành tỷ trọng lớn hơn cho dịch vụ, du lịch và hàng lâu bền. Khi lạm phát chủ yếu đến từ thực phẩm và nhiên liệu — đúng trường hợp năm 2008 mà chính bài viện dẫn, và lặp lại ở quy mô lớn hơn vào giai đoạn 2022 — thì **tỷ lệ lạm phát thực tế mà hộ nghèo chịu cao hơn đáng kể con số công bố**.
+
+Điều này có hai hệ quả. Về đo lường, con số lạm phát tổng thể **đánh giá thấp một cách có hệ thống** chi phí của lạm phát đối với nhóm dễ tổn thương nhất, đúng vào loại đợt lạm phát mà họ chịu đựng nặng nhất. Về chính trị, nó tạo ra khoảng cách giữa con số chính thức và trải nghiệm sống, và khoảng cách đó ăn mòn độ tin cậy của chính cơ quan thống kê — một tài sản mất đi thì rất khó lấy lại.
+
+Cách xử lý không khó về kỹ thuật: tính và công bố các chỉ số lạm phát riêng theo nhóm thu nhập, dùng chính dữ liệu khảo sát hộ gia đình đã có. Rất ít nước làm điều này thường xuyên, và không có lý do kỹ thuật nào biện minh cho việc đó.
+
+### Lạm phát lõi là công cụ đúng cho ngân hàng trung ương và là con số sai để nói với công chúng
+
+Việc loại thực phẩm và năng lượng ra khỏi thước đo có lý do chính đáng và bài trình bày đúng: các mặt hàng này biến động mạnh vì yếu tố mùa vụ và cú sốc cung tạm thời, và một ngân hàng trung ương thắt chặt để đáp lại một đợt tăng giá dầu sẽ gây ra suy thoái mà vẫn không ngăn được giá dầu.
+
+Nhưng hệ quả thì cần nói thẳng: **biến mục tiêu của ngân hàng trung ương loại trừ chính những mặt hàng chiếm tỷ trọng lớn nhất trong chi tiêu của người nghèo**. Khi cơ quan tiền tệ tuyên bố lạm phát đang trong tầm kiểm soát trong lúc giá gạo và giá xăng tăng mạnh, tuyên bố đó đúng về mặt kỹ thuật và vô nghĩa với phần lớn dân số.
+
+Giai đoạn 2021–2023 còn cho thấy kiểu thất bại thứ hai của chính khái niệm này. Việc loại trừ một cú sốc với lý do nó "tạm thời" chỉ hợp lý nếu cú sốc đó thực sự không lan sang phần còn lại. Khi giá năng lượng cao kéo dài đủ lâu, nó đi vào chi phí vận tải, chi phí sản xuất, rồi vào đàm phán lương — tức chảy vào chính phần lõi. Lúc đó việc đã nhìn vào lõi và kết luận rằng không có gì đáng lo trở thành một sai lầm chính sách tốn kém. Ranh giới giữa "nhiễu cần loại bỏ" và "tín hiệu đến sớm" không nằm trong định nghĩa của chỉ số, và không có quy tắc máy móc nào phân biệt được hai thứ đó.
+
+### Đoạn về giảm phát là đoạn yếu nhất, và cơ chế đúng thì nằm ngay ở trang trước
+
+Bài giải thích vì sao giảm phát có hại bằng một lập luận duy nhất: người tiêu dùng trì hoãn mua sắm vì dự đoán giá sẽ thấp hơn. Đây là lời giải thích trong sách giáo khoa nhập môn, và nó là lời giải thích yếu nhất trong số các lời giải thích sẵn có.
+
+Vấn đề thực nghiệm khá hiển nhiên khi nghĩ kỹ: giá hàng điện tử tiêu dùng giảm đều đặn suốt nhiều thập kỷ, ai cũng biết chiếc điện thoại năm sau sẽ tốt hơn và rẻ hơn, và người ta vẫn mua. Độ lớn của hiệu ứng trì hoãn với mức giảm giá một hai phần trăm một năm là rất nhỏ so với các lý do khác khiến người ta mua hay không mua.
+
+Cơ chế mạnh hơn nhiều thì nằm ngay trang trước của chính bài, trong ví dụ về khoản thế chấp lãi suất cố định: lạm phát làm **giảm** giá trị thực của nợ danh nghĩa. Lập luận đối xứng là hiển nhiên — giảm phát làm **tăng** giá trị thực của nợ. Với một nền kinh tế mang khối nợ danh nghĩa lớn, giá giảm 2% một năm làm gánh nặng nợ thực tăng lên mà không ai vay thêm đồng nào. Người vay cắt chi tiêu để trả nợ, cầu giảm, giá giảm tiếp, và vòng xoáy tự củng cố. Đây mới là lý do giảm phát nguy hiểm, và nó giải thích vì sao giảm phát đi kèm nợ cao thì tai hại còn giảm phát do năng suất tăng thì không.
+
+Bài nhắc tới Nhật Bản như ví dụ nhưng quy nguyên nhân cho hành vi trì hoãn mua sắm, trong khi vấn đề trung tâm của Nhật Bản sau khi bong bóng vỡ là các bảng cân đối doanh nghiệp bị đè bởi nợ danh nghĩa trong khi giá tài sản sụp. Nhầm cơ chế dẫn tới nhầm đơn thuốc: nếu vấn đề là tâm lý chờ giá, thì chỉ cần thuyết phục người ta rằng giá sẽ tăng; nếu vấn đề là bảng cân đối, thì phải xử lý nợ.
+
+### Nhận xét ngắn nhất về đặt giá hành chính lại chứa một nguyên lý tài khoá quan trọng
+
+Bài ghi rằng khi chính phủ trực tiếp đặt giá để chặn cú sốc, việc đó "thường dẫn đến việc chính phủ tích luỹ các hoá đơn trợ cấp lớn để bồi thường cho nhà sản xuất về thu nhập mất đi".
+
+Câu này ngắn nhưng nêu đúng một nguyên lý: **kiểm soát giá không xoá bỏ chi phí, nó chỉ chuyển chi phí sang chỗ khác**. Cụ thể hơn, nó chuyển chi phí từ một nơi **được đo** — chỉ số giá tiêu dùng — sang một nơi **không được đo cùng lúc**: ngân sách của các năm sau, hoặc bảng cân đối của doanh nghiệp nhà nước, hoặc một quỹ bình ổn nào đó.
+
+Kết quả là một dạng ảo giác kế toán rất dễ chịu về mặt chính trị: lạm phát công bố thấp hơn, người dân đỡ phàn nàn, và hoá đơn đến vào một nhiệm kỳ khác. Nó cũng làm méo mó chính tín hiệu mà giá tồn tại để truyền đi: khi giá năng lượng bị giữ thấp trong một cú sốc nguồn cung thật, không ai có động cơ tiết kiệm, và cú sốc kéo dài hơn. Đọc cùng các tài liệu về trợ cấp trong cùng loạt Back to Basics thì đây là cùng một cơ chế được nhìn từ phía lạm phát.
+
+### Bài kiểm tra lớn nhất đến mười một năm sau, và kết quả xác nhận vế cuối cùng của bài
+
+Giai đoạn 2021–2023 là bài kiểm tra toàn diện nhất cho mọi mệnh đề trong bài, và kết quả thì hỗn hợp một cách thú vị.
+
+**Lý thuyết số lượng tiền**, mở đầu phần nguyên nhân, đã có mười năm bị coi là lỗi thời: bảng cân đối các ngân hàng trung ương phình lên chưa từng có mà lạm phát vẫn dưới mục tiêu. Rồi nó quay lại — nhưng qua một kênh khác. Tiền được tạo ra rồi nằm lại trong hệ thống tài chính dưới dạng dự trữ ngân hàng thì không đẩy giá hàng hoá; tiền được **chuyển thẳng vào tay hộ gia đình** thì có. Phiên bản đơn giản trong bài không phân biệt hai loại này, và chính sự phân biệt đó là thứ giải thích cả một thập kỷ lạm phát thấp lẫn đợt lạm phát sau đó.
+
+**Phân loại chi phí đẩy và cầu kéo** tỏ ra quá gọn so với thực tế. Cùng một sự kiện vừa cắt năng lực cung vừa tạo ra một đợt tăng cầu dồn nén, và tỷ lệ đóng góp của hai kênh vẫn còn được tranh luận đến nay. Với một nhà hoạch định, sự phân biệt này lại là sự phân biệt quan trọng nhất, vì cú sốc cầu đòi hỏi thắt chặt còn cú sốc cung thì thắt chặt chỉ làm mất sản lượng mà không giải quyết nguyên nhân.
+
+**Kỳ vọng** là chỗ bài đúng nhất và cũng là tin tốt nhất. Dù lạm phát vọt lên mức cao nhất trong bốn mươi năm, kỳ vọng dài hạn ở các nước có ngân hàng trung ương uy tín vẫn neo tương đối chặt. Hệ quả là quán tính lạm phát mà bài mô tả đã không hình thành, và lạm phát giảm trở lại **mà không cần một cuộc suy thoái lớn** — điều mâu thuẫn với công thức mà chính bài nêu ở đoạn cuối, rằng phải "giữ hoạt động kinh tế thấp tạm thời để kéo lạm phát xuống". Nói cách khác, độ tin cậy tích luỹ trong ba mươi năm đã được đổi thành một khoản tiết kiệm rất lớn về sản lượng và việc làm khi cần đến.
+
+### Với Việt Nam: chỉ số lạm phát ở đây mang nhiều thành phần chính sách hơn ở hầu hết các nước
+
+Ba đặc điểm khiến bài này cần được đọc khác đi khi áp cho Việt Nam.
+
+**Thứ nhất, cấu trúc rổ hàng.** Bài ghi rằng chi phí nhà ở là thành phần lớn nhất trong rổ tiêu dùng ở Mỹ. Ở Việt Nam, nhóm chiếm tỷ trọng lớn nhất là **lương thực, thực phẩm và ăn uống**. Hệ quả rất cụ thể: một cú sốc giá thịt lợn hay giá gạo có thể làm dịch chuyển chỉ số giá tiêu dùng quốc gia theo cách mà ở một nước phát triển không thể xảy ra, và toàn bộ phân tích ở trên về việc lạm phát thực tế của hộ nghèo cao hơn con số công bố càng đúng hơn ở đây. Điều này cũng có nghĩa là lạm phát của Việt Nam **nhạy với nông nghiệp và thời tiết** ở mức mà một khung phân tích tiền tệ thuần tuý không nắm bắt được.
+
+**Thứ hai, tỷ trọng giá do nhà nước quản lý.** Một phần đáng kể của rổ hàng — điện, dịch vụ y tế, học phí, và giá xăng dầu với cơ chế quỹ bình ổn — được điều chỉnh theo quyết định hành chính chứ không theo thị trường. Theo đúng nhận xét của bài về đặt giá hành chính, điều này có nghĩa là **con số lạm phát công bố phần nào là một lựa chọn về thời điểm điều chỉnh giá**, không thuần tuý là một phép đo. Nó không phải là làm sai số liệu — các đợt điều chỉnh đều được công bố — nhưng nó có nghĩa là một tỷ lệ lạm phát thấp trong một năm có thể đang tích luỹ áp lực cho năm sau, và chi phí bị hoãn lại nằm trong ngân sách hoặc trong bảng cân đối của doanh nghiệp cung ứng.
+
+**Thứ ba, ký ức.** Việt Nam đã trải qua siêu lạm phát cuối thập niên 1980 và hai đợt lạm phát hai con số trong khoảng mười lăm năm gần đây. Theo đúng cơ chế mà bài về đô la hoá trong cùng loạt mô tả, ký ức ấy không biến mất khi lạm phát trở lại thấp: nó tồn tại dưới dạng thói quen giữ vàng và ngoại tệ như phương tiện cất trữ, và dưới dạng độ nhạy chính trị rất cao với giá cả. Điều này làm cho chuỗi nhiều năm liên tiếp đạt mục tiêu lạm phát do Quốc hội đề ra trở thành một tài sản đáng giá hơn vẻ ngoài của nó: theo logic ở phần trên, đó chính là thứ vốn liếng uy tín cho phép neo kỳ vọng và, nếu có một cú sốc lớn xảy ra, cho phép xử lý nó mà không phải trả giá bằng một cuộc suy thoái.

@@ -506,3 +506,57 @@
 > "The sectoral composition effect accounts for 90 percent of forward linkages gap relative to other EU countries."
 
 > "Highly productive, industrialized economies tend to rely less on foreign inputs, possibly due to domestic supply capacity."
+
+## Đánh giá và phát hiện đáng chú ý
+
+### Con số 90% của Bồ Đào Nha mâu thuẫn trực tiếp với chính khuyến nghị chính sách của bài
+
+Phân rã khoảng cách liên kết xuôi giữa Bồ Đào Nha và bình quân EU cho kết quả: **hiệu ứng cơ cấu ngành chiếm 90%, hiệu ứng trong ngành chỉ 10%**. Các ngành của Bồ Đào Nha **không kém hiệu quả** hơn ngành cùng loại ở EU. Vấn đề là nước này có tỷ trọng nhỏ ở ngành có liên kết xuôi cao (dịch vụ công nghệ thông tin) và tỷ trọng lớn ở ngành có liên kết xuôi thấp (dịch vụ liên quan du lịch).
+
+Nếu chấp nhận con số đó thì phần kết luận của bài — khuyến nghị "cải cách nâng cao giáo dục, đổi mới và hiệu quả quản lý" — đang nhắm vào đúng **10% còn lại**. Cải thiện hiệu quả của ngành khách sạn không làm dịch vụ khách sạn trở thành đầu vào cho xuất khẩu của Đức. Thứ mà phép phân rã đòi hỏi không phải là làm tốt hơn việc đang làm, mà là **làm việc khác** — tức chính sách cơ cấu theo nghĩa nặng, với toàn bộ rủi ro và chi phí chính trị của nó. Bài dừng ở một câu trung tính về đa dạng hoá sản phẩm và thị trường đích, dù chính phép tính của nó đã nói rằng **chẩn đoán "năng suất thấp" là chẩn đoán sai cho Bồ Đào Nha ở chiều liên kết xuôi**.
+
+Một chi tiết củng cố thêm: tỷ trọng dịch vụ thâm dụng tri thức **giảm từ năm 2009 rồi trì trệ**, còn liên kết xuôi **hội tụ với bình quân EU tới 2007 rồi dừng hẳn**. Hai đường cong dừng gần như cùng lúc — dấu hiệu của một cú chuyển trạng thái sau khủng hoảng, không phải của một quá trình cải thiện chậm.
+
+### Kết quả "đáng chú ý nhất" có một phần là số học, phần còn lại mới là phát hiện thật
+
+Bài coi việc năng suất lao động có SHAP **+1,05 ở liên kết xuôi nhưng −1,50 ở liên kết ngược** là kết quả nổi bật nhất. Con số này cần tách làm hai.
+
+Phần thứ nhất mang tính kế toán. Liên kết ngược đo tỷ trọng giá trị gia tăng **nước ngoài** trong xuất khẩu của chính mình; với một mức xuất khẩu gộp cho trước, tỷ trọng nước ngoài cao đồng nghĩa với tỷ trọng trong nước thấp. Vậy nên bất kỳ biến nào phản ánh "năng lực sản xuất đầu vào trong nước" — năng suất **+1,05 rồi −1,50**, tỷ trọng chế tạo **+0,70 rồi −1,15** — gần như buộc phải đổi dấu. Đó là hệ quả của cách định nghĩa chỉ tiêu, không phải khám phá về hành vi.
+
+Phần thứ hai mới có nội dung, và nằm ở biến ít ai chú ý: **hạ tầng vận tải đường bộ, SHAP −0,30 ở liên kết xuôi nhưng +0,80 ở liên kết ngược**. Biến này không có ràng buộc kế toán nào buộc nó đổi dấu. Cách đọc của bài — liên kết xuôi dựa vào vận tải hàng không và đường biển, còn nhập đầu vào trung gian trong EU chủ yếu chạy trên đường bộ và đường sắt — biến một đặc điểm hạ tầng thành **chỉ báo về vị thế trong chuỗi**: một nước đầu tư mạnh vào mạng lưới đường bộ xuyên biên giới đang, dù cố ý hay không, tối ưu hoá cho vai trò lắp ráp hạ nguồn.
+
+Từ đó ra hàm ý mà bài chỉ nói nửa vời: **không thể tối đa hoá cả hai chiều liên kết bằng cùng một bộ chính sách**. Mệnh đề này bác bỏ cách nói phổ biến rằng "tham gia sâu hơn vào chuỗi giá trị" là một mục tiêu đơn nhất. Sâu hơn theo chiều nào là hai chiến lược khác nhau, đòi hỏi hai loại đầu tư khác nhau và đem lại hai hồ sơ rủi ro khác nhau.
+
+### Nghịch lý Ireland–Malta là lời cảnh báo về chỉ tiêu "xuất khẩu công nghệ cao"
+
+Ireland và Malta đứng **đầu EU về tỷ trọng hàng công nghệ cao, trên 50%**, nhưng **không** đứng đầu về độ phức tạp kinh tế — vị trí đó thuộc về Đức và Séc. Bài giải thích bằng hai lý do: rổ xuất khẩu tập trung ở phạm vi hẹp sản phẩm, hoặc chính các sản phẩm đó cũng được nhiều nước khác sản xuất dù công nghệ tinh vi.
+
+Quan sát này bị chôn trong một đoạn mô tả, nhưng với người đọc ngoài EU nó có giá trị thực tiễn cao nhất trong toàn bài: **tỷ trọng xuất khẩu công nghệ cao là chỉ tiêu có thể bị "đánh lừa" bằng cách nhập linh kiện tinh vi về lắp ráp**. Hàng đi ra được phân loại là công nghệ cao vì bản thân sản phẩm là công nghệ cao, không phải vì công đoạn làm ra nó ở trong nước là công nghệ cao. Chỉ tiêu thay thế đã có sẵn trong chính bài: **độ phức tạp kinh tế đo đồng thời tính đa dạng của rổ xuất khẩu và tính độc đáo của sản phẩm** — tức có bao nhiêu nước khác cũng làm được thứ đó. Một nước lắp ráp điện thoại đạt điểm cao ở vế đầu và thấp ở vế sau.
+
+### Hai nghiên cứu tình huống là hai đầu của chính nghịch lý mở bài, nhưng bài không đóng vòng
+
+Bài mở đầu bằng mệnh đề "càng lên cao trong chuỗi, lợi ích càng lớn nhưng rủi ro càng phức tạp", rồi trình bày Bỉ và Bồ Đào Nha như hai nghiên cứu tình huống tách rời. Thực ra chúng là hai đầu của đúng cái đánh đổi ấy.
+
+**Bỉ đã đi lên và trả giá bằng rủi ro tập trung.** Cả hai chiều liên kết đều trên bình quân EU, nhưng danh mục rủi ro của Bỉ gần như thu về **một ngành và một thị trường**: dược phẩm tăng mạnh thành một trong các mặt hàng xuất khẩu lớn nhất, và cơ cấu xuất sang Mỹ còn nghiêng về dược phẩm mạnh hơn cả cơ cấu xuất ra toàn thế giới. Rủi ro đi kèm không chỉ là chuỗi cung ứng vật lý mà là chính sách định giá thuốc, chu kỳ bằng sáng chế, sở hữu trí tuệ và các yêu cầu tuân thủ có thể gây **ngừng sản xuất đột ngột**. Đợt COVID minh hoạ rõ: liên kết xuôi giảm vì cầu dịch vụ kinh doanh ở nước ngoài sụt, liên kết ngược tăng vọt vì phải nhập đầu vào cho vắc-xin — **hai chiều ngược nhau cùng lúc**.
+
+**Bồ Đào Nha ở lại phía dưới và được bảo hiểm.** Bài ghi nhận rằng liên kết xuôi yếu **làm giảm phơi nhiễm trước cú sốc cầu bên ngoài**, và căng thẳng thương mại Mỹ–EU tác động tới Bồ Đào Nha nhẹ hơn các nước cùng khu vực.
+
+Ghép lại được một mệnh đề mà bài không viết ra: **mắc kẹt ở khâu giá trị thấp là một dạng bảo hiểm, và đi lên là mua thêm rủi ro**. Điều đó không có nghĩa nên ở lại — biên lợi nhuận mỏng ở khâu thấp là cái giá thường trực, còn rủi ro tập trung chỉ hiện ra từng đợt. Nhưng nó có nghĩa lộ trình đi lên phải kèm chiến lược đa dạng hoá ngay từ đầu, chứ không phải sau khi đã thành công.
+
+### Độ tin cậy: R bình phương 0,92–0,98 nên được đọc như một cảnh báo, không phải một chứng chỉ
+
+**Hiệu ứng cố định từng nước làm đổi ý nghĩa của kết quả.** Mô hình có hiệu ứng cố định nước, nên phần biến thiên còn lại cho các biến giải thích khai thác chủ yếu là biến thiên **theo thời gian trong nội bộ từng nước**. Nhưng bài lại diễn giải theo chiều **so sánh giữa các nước** — "nước năng suất cao có liên kết xuôi mạnh". Hai phát biểu này không tương đương, và mức R bình phương 0,92 tới 0,98 trên một bảng 27 nước gần như chắc chắn phần lớn do chính hiệu ứng cố định tạo ra chứ không phải do tám biến giải thích.
+
+Thêm hai điểm. Vốn con người chỉ được đo bằng **tỷ lệ lao động có trình độ dưới trung học phổ thông**, tức phần đáy của phân bố kỹ năng chứ không phải phần đỉnh — một nước có thể có rất ít lao động trình độ thấp mà vẫn thiếu đúng loại kỹ năng cần cho khâu thượng nguồn. Và bài tự nhận rõ là không dùng học máy nhân quả: mọi con số SHAP ở đây là **liên hệ**, hữu ích để xếp hạng mức quan trọng tương đối, không dùng được để dự báo kết quả của một can thiệp chính sách.
+
+### Việt Nam là phiên bản cực đoan của hồ sơ Slovakia–Malta, và bài chỉ đúng công cụ chẩn đoán cần dùng
+
+Việt Nam không xuất hiện trong bài, nhưng vị trí của nó trên bản đồ hai chiều thì rất rõ: **liên kết ngược rất cao, liên kết xuôi thấp** — cùng ô với Luxembourg khoảng 65%, Slovakia, Malta và Hungary, tức nhóm mà bài gọi thẳng là "lắp ráp hạ nguồn, phụ thuộc đầu vào nước ngoài". Ba điều rút ra được.
+
+**Thứ nhất, mục tiêu nội địa hoá và cấu trúc hiện tại là hai trạng thái, không phải hai điểm trên một đường liên tục.** Các biến đẩy liên kết xuôi lên — năng suất, chiều sâu chế tạo — chính là các biến đẩy liên kết ngược xuống, với biên độ còn lớn hơn. Nâng tỷ trọng giá trị gia tăng trong nước không phải là cải thiện dần dần cùng một mô hình tăng trưởng, mà là **đổi mô hình** — cùng kết luận mà tài liệu Việt Nam 2035 rút ra từ hướng khác khi chỉ ra khu vực tư nhân trong nước yếu một cách có hệ thống so với khu vực FDI xuất khẩu.
+
+**Thứ hai, phép phân rã của Bồ Đào Nha là thứ đáng nhập khẩu nhất từ bài này.** Câu hỏi chẩn đoán đúng không phải "năng suất của ta bằng bao nhiêu phần trăm của nước X", mà là: trong khoảng cách liên kết xuôi giữa Việt Nam và một nhóm tham chiếu, bao nhiêu phần do **rổ ngành sai** và bao nhiêu phần do **kém hiệu quả trong từng ngành**. Nếu tỷ lệ ra gần con số 90% của Bồ Đào Nha thì toàn bộ nhóm chính sách nâng năng suất trong các ngành hiện có sẽ không dịch chuyển được vị thế chuỗi giá trị. Đây cũng là câu hỏi đang treo lơ lửng với Thái Lan trong tài liệu về khơi lại chuyển dịch cơ cấu của nước này.
+
+**Thứ ba, hạ tầng và mở cửa thương mại đang củng cố vị thế hiện tại, không phá vỡ nó.** Đầu tư đường bộ và cảng cùng việc hạ rào cản đều là những biến có SHAP dương mạnh với **liên kết ngược**: chúng làm việc nhập linh kiện về lắp ráp dễ hơn, rẻ hơn và đáng tin cậy hơn. Đó là việc cần làm, nhưng theo chính mô hình của bài, nó là chiến lược làm tốt hơn vị trí hiện tại chứ không phải chiến lược đi lên chuỗi giá trị.
+
+Một điểm cuối cho khu vực: **khoảng một nửa cả hai chiều liên kết của các nước EU là với đối tác trong khối**, và bài coi đó là dư địa để làm sâu hội nhập nội khối. Với ASEAN, mật độ liên kết nội khối mỏng hơn hẳn — phần lớn giá trị gia tăng nước ngoài trong xuất khẩu các nước ASEAN đến từ ngoài khu vực. Đây là khác biệt cấu trúc giữa hai khối, và là lý do các tài liệu về thời của ASEAN và về thương mại đầu tư ASEAN trong thế giới phân mảnh liên tục quay lại chủ đề hội nhập khu vực mà không có nhiều tiến triển để báo cáo.
