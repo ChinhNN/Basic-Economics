@@ -1,8 +1,8 @@
 # Unpacking the Effects of Trade Policy Uncertainty on ASEAN Economies — Bóc tách tác động của bất định chính sách thương mại lên các nền kinh tế ASEAN
 
-**Nguồn:** IMF, chương trong tập Selected Issues kèm theo báo cáo tham vấn Điều IV về Malaysia, 2026.
+**Nguồn:** IMF Selected Issues Paper SIP/2026/031, Vụ châu Á – Thái Bình Dương, tháng 4/2026 (Masahiro Nozaki cho phép phát hành; hoàn thành ngày 4/2/2026). Cũng được in thành một chương trong tập Selected Issues kèm báo cáo tham vấn Điều IV về Malaysia, IMF Country Report No. 26/55.
 
-**Tác giả:** Không nêu tên riêng (chương thuộc tập Selected Issues của Vụ châu Á – Thái Bình Dương).
+**Tác giả:** Sandile Hlatshwayo, Aishwary Trivedi (IMF). Cùng hai người này viết chương về động lực tiêu dùng tư nhân của Singapore trong cùng thư mục.
 
 **Ý chính:** Bất định chính sách thương mại đang ở mức cao kỷ lục, nhưng các thước đo hiện có đều gộp chung mọi loại bất định làm một. Chương này xây dựng **một bộ chỉ số hoàn toàn mới tách bất định theo hai chiều**: theo nội dung (bất định về **bảo hộ** so với bất định về **hiệp định thương mại**) và theo nguồn gốc (bất định của **chính nước mình** so với bất định của **nước thứ ba** là đối tác thương mại). Chỉ số được xây bằng cách đếm bài báo trên cơ sở dữ liệu Factiva — hơn 36.000 nguồn tin, 25 nền kinh tế, theo tháng từ 1995 đến 2025.
 
@@ -27,6 +27,7 @@ Chương tự đánh giá rất thận trọng, thừa nhận thẳng rằng "c�
 > - **Bekkers và Schroeter (2020) được trích dẫn trong thân bài nhưng KHÔNG có trong danh mục tham khảo.** Ngược lại, Aiyar và cộng sự (2023) về phân mảnh địa kinh tế có trong danh mục nhưng không bao giờ được trích dẫn.
 > - **Chương nêu lý do thiết kế mà không đưa bằng chứng.** Chương giải thích việc đưa số hạng tương tác vào mô hình là "do tương quan cao giữa thước đo bảo hộ và thước đo hiệp định của nước thứ ba". Nhưng bảng tương quan duy nhất được công bố là cho thước đo của **chính nước mình**, và ở đó tương quan chỉ là **0,19** — rất thấp. Tương quan của thước đo nước thứ ba, tức con số thực sự biện minh cho thiết kế, không bao giờ được báo cáo, nên người đọc không có cách nào kiểm chứng.
 > - **Tuyên bố về độ vững mạnh hơn mức bằng chứng cho phép.** Chương viết rằng khi thêm các biến giả khủng hoảng (khủng hoảng châu Á, khủng hoảng tài chính toàn cầu, Covid), "kết quả tương tự về mặt định tính so với kết quả cơ sở". Nhưng đọc các biểu đồ phụ lục thì thấy tác động của bất định bảo hộ **của chính nước mình** gần như biến mất — đường phản ứng dao động quanh 0 và dải tin cậy bao trùm 0 từ sau năm thứ nhất — trong khi chỉ tác động của nước thứ ba là còn giữ được. Đây không phải "tương tự về mặt định tính".
+> - Bản tổng hợp này ban đầu viết từ bản chương Malaysia không ghi tên tác giả; tên tác giả và số hiệu SIP/2026/031 được bổ sung sau từ bản Selected Issues Paper. Ở bản này, trang tóm tắt ghi tên bài là "…on ASEAN **Economics**" thay vì "Economies", và mục "trích dẫn khuyến nghị" chỉ có tên hai tác giả, thiếu năm, tên bài và số hiệu.
 > - Tên một trường đại học được viết hai cách khác nhau trong cùng tài liệu: "University of **Witwatersrand**" ở một chú thích và "University of **Witswatersrand**" ở chú thích khác.
 > - Trục hoành của hai biểu đồ chuỗi thời gian được chia mốc tới **2030** trong khi dữ liệu chỉ tới 2025.
 > - **Độ lớn của các ước lượng rất khó tin nếu đọc thiếu ngữ cảnh.** Mức thiệt hại 7,1% GDP đầu người sau hai năm cần được đặt cạnh mức tăng trưởng trung bình 3,1%/năm của ASEAN6 — tức là tương đương xóa sạch hơn hai năm tăng trưởng. Chương có cảnh báo về điều này nhưng cảnh báo bị đặt ở vị trí khó thấy.
@@ -436,7 +437,7 @@ Bốn điểm rút ra trực tiếp:
 
 ### Nghịch lý của chương: thủ pháp tốt nhất trong tập, kết quả yếu nhất
 
-Về mặt kỹ thuật, đây là tài liệu được làm cẩn thận nhất trong chín tài liệu của thư mục. Chọn biến kiểm soát bằng LASSO hai bước thay vì theo ý chủ quan; kiểm soát riêng cho moment thứ nhất để tách bất định khỏi tin xấu; bootstrap cụm hoang dã với trọng số Webb vì chỉ có sáu cụm; giải thích rõ vì sao không dùng hiệu ứng cố định theo thời gian; và — bước hiếm gặp nhất — **tham vấn nhà báo đang tác nghiệp cùng giáo sư báo chí** để kiểm tra xem bộ lọc từ khóa có phản ánh đúng cách tin tức thương mại thực sự được viết hay không.
+Về mặt kỹ thuật, đây là tài liệu được làm cẩn thận nhất trong chín tài liệu đầu tiên của thư mục. Chọn biến kiểm soát bằng LASSO hai bước thay vì theo ý chủ quan; kiểm soát riêng cho moment thứ nhất để tách bất định khỏi tin xấu; bootstrap cụm hoang dã với trọng số Webb vì chỉ có sáu cụm; giải thích rõ vì sao không dùng hiệu ứng cố định theo thời gian; và — bước hiếm gặp nhất — **tham vấn nhà báo đang tác nghiệp cùng giáo sư báo chí** để kiểm tra xem bộ lọc từ khóa có phản ánh đúng cách tin tức thương mại thực sự được viết hay không.
 
 Bước cuối cùng đáng được nhấn mạnh. Điểm yếu cố hữu của mọi chỉ số đếm bài báo là giả định về ngôn ngữ: người nghiên cứu ngồi nghĩ ra danh sách từ khóa và tin rằng nó khớp với thực tế viết lách. Hầu như không ai kiểm chứng giả định đó với người trong nghề. Ở đây thì có.
 
