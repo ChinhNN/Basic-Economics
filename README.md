@@ -108,6 +108,9 @@ Back to Basics: Rất phù hợp để học các khái niệm như lạm phát,
 - [Vietnam: Selected Issues — Boosting Productivity and Medium-Term Growth; Upgrading the Fiscal Framework — Việt Nam: Các vấn đề chọn lọc — Nâng năng suất và tăng trưởng trung hạn; Nâng cấp khuôn khổ tài khoá](IMF/Asean%202026/2025-vietnam-selected-issues-productivity-fiscal-framework.md) — IMF Country Report No. 25/284, tháng 10/2025, nhóm cán bộ IMF và Cục Thống kê Việt Nam (tài liệu nền cho tham vấn Điều IV 2025)
 - [Drivers of Private Consumption in Singapore — Động lực của tiêu dùng tư nhân ở Singapore](IMF/Asean%202026/2026-singapore-drivers-private-consumption.md) — Selected Issues Singapore, Country Report 26/186, tháng 7/2026, Sandile Hlatshwayo
 - [Vietnam: Building Capacity in Macroeconomic Analysis and Forecasting — Việt Nam: Xây dựng năng lực phân tích và dự báo kinh tế vĩ mô](IMF/Asean%202026/2026-vietnam-ta-macroeconomic-forecasting-capacity.md) — Báo cáo Hỗ trợ Kỹ thuật (tháng 5/2026) và bản Tóm tắt cấp cao HLS/26/54 (tháng 8/2026), Tubagus Feridhanusetyawan, David Corvino, Nuntanid Thongsri
+- [Determinants of Inclusive Growth in ASEAN — Các yếu tố quyết định tăng trưởng bao trùm ở ASEAN](IMF/Asean%202026/2020-determinants-inclusive-growth-asean.md) — Working Paper WP/20/118, tháng 7/2020, Victoriia Alekhina, Giovanni Ganelli
+- [External Financing Dependence and Corporate Saving in ASEAN5 — Mức phụ thuộc vốn bên ngoài và tiết kiệm doanh nghiệp ở ASEAN-5](IMF/Asean%202026/2020-external-financing-dependence-corporate-saving-asean5.md) — Working Paper WP/20/223, tháng 10/2020, Xin Li
+- [ASEAN-5 Cluster Report — Evolution of Monetary Policy Frameworks — Báo cáo cụm ASEAN-5: Sự tiến hóa của khuôn khổ chính sách tiền tệ](IMF/Asean%202026/2016-asean5-cluster-report-monetary-policy-frameworks.md) — IMF Country Report No. 16/176, tháng 6/2016, nhóm cán bộ Vụ châu Á – Thái Bình Dương do Shanaka Jayanath Peiris dẫn đầu
 
 ## Capital Flows
 
