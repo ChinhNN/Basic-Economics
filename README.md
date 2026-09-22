@@ -105,6 +105,7 @@ Back to Basics: Rất phù hợp để học các khái niệm như lạm phát,
 - [The Macroeconomic Consequences of Undermining Central Bank Independence: Evidence from Governor Transitions — Hệ quả vĩ mô của việc xói mòn tính độc lập của ngân hàng trung ương: bằng chứng từ các lần thay thống đốc](IMF/Asean%202026/2026-central-bank-independence-governor-transitions.md) — Working Paper WP/26/40, tháng 3/2026, Marijn A. Bolhuis, Rui C. Mano, Hedda Thorell
 - [Institutions for Industrial Policy: The Foundation of Economic Development — Thể chế cho chính sách công nghiệp: nền móng của phát triển kinh tế](IMF/Asean%202026/2026-institutions-for-industrial-policy.md) — Working Paper WP/26/63, tháng 3/2026, Reda Cherif, Fuad Hasanov, Gary Xie
 - [Labor Supply Effects of Monetary Policy: Evidence from Australian Mortgage Holders — Tác động của chính sách tiền tệ lên cung lao động: bằng chứng từ người vay thế chấp ở Úc](IMF/Asean%202026/2026-labor-supply-monetary-policy-australia.md) — Working Paper WP/26/71, tháng 4/2026, Mitali Das, Jonathan Hambur, Klaus-Peter Hellwig, John Spray
+- [Vietnam: Selected Issues — Boosting Productivity and Medium-Term Growth; Upgrading the Fiscal Framework — Việt Nam: Các vấn đề chọn lọc — Nâng năng suất và tăng trưởng trung hạn; Nâng cấp khuôn khổ tài khoá](IMF/Asean%202026/2025-vietnam-selected-issues-productivity-fiscal-framework.md) — IMF Country Report No. 25/284, tháng 10/2025, nhóm cán bộ IMF và Cục Thống kê Việt Nam (tài liệu nền cho tham vấn Điều IV 2025)
 
 ## Capital Flows
 
