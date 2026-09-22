@@ -1,10 +1,10 @@
 # Playing with Blocs: Quantifying Decoupling — Chơi với các khối: định lượng quá trình tách rời
 
-**Nguồn:** IMF Working Paper WP/2025/263.
-**Tác giả:** chưa xác định (bản PDF bắt đầu từ trang 1 của bài, không có trang bìa và trang tác giả).
+**Nguồn:** IMF Working Paper WP/25/263, Vụ Nghiên cứu, tháng 12/2025 (Antonio Spilimbergo cho phép phát hành).
+**Tác giả:** Barthélémy Bonadio (NYU Abu Dhabi), Zhen Huo (Yale), Elliot Kang (PwC và Đại học Minnesota), Andrei A. Levchenko (Đại học Michigan), Nitya Pandalai-Nayar (Đại học Texas tại Austin), Hiroshi Toma (Texas A&M), Petia Topalova (IMF).
 **Ý chính:** Sau Brexit, chiến tranh thương mại Mỹ–Trung và việc phương Tây cắt quan hệ với Nga, ai cũng chờ thương mại thế giới sụt giảm. Nhưng tỷ lệ thương mại trên GDP toàn cầu **không hề giảm** kể từ 2015. Bài dùng phần dư của phương trình lực hấp dẫn để **tự động phát hiện đường đứt gãy** giữa các khối mà không cần giả định trước, rồi đưa vào mô hình mạng sản xuất toàn cầu 66 nước và 22 ngành. Kết luận trung tâm: thế giới đang **tách rời chứ không phi toàn cầu hoá** — chi phí thương mại giữa hai khối tăng, nhưng **trong nội bộ mỗi khối lại giảm nhiều hơn**, khiến nước trung vị **được lợi 0,6% thu nhập thực**. Phát hiện gây bất ngờ nhất nằm ở phần phản thực: **các nước đang ở nhầm khối** — nước nghiêng về Mỹ trung bình sẽ có lợi hơn nếu sang khối Trung Quốc, và ngược lại. Điều đó hàm ý động cơ chi phối việc chọn phe **không phải là lợi ích thương mại**.
 
-> **Lưu ý:** bản PDF không có trang bìa và trang tác giả. Số hiệu tài liệu lấy từ trang bìa sau.
+> **Lưu ý:** bản tổng hợp này ban đầu viết từ một bản PDF thiếu trang bìa và trang tác giả; tên tác giả, đơn vị và thời điểm phát hành được bổ sung sau từ bản PDF đầy đủ. Bài được tài trợ một phần bởi chương trình Chính sách kinh tế vĩ mô ở các nước thu nhập thấp của Bộ Ngoại giao, Khối thịnh vượng chung và Phát triển Anh, và chương trình Nghiên cứu kinh tế vĩ mô về biến đổi khí hậu và rủi ro mới nổi ở châu Á của Bộ Kinh tế và Tài chính Hàn Quốc. Mục "trích dẫn khuyến nghị" ở trang tóm tắt chỉ ghi "Bonadio et al. (2025)", không có tên bài và số hiệu.
 
 ## Sơ đồ
 
