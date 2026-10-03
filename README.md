@@ -177,3 +177,246 @@ Back to Basics: Rất phù hợp để học các khái niệm như lạm phát,
 ## World Bank
 
 - [Vietnam 2035: Toward Prosperity, Creativity, Equity, and Democracy (Overview) — Việt Nam 2035: Hướng tới Thịnh vượng, Sáng tạo, Công bằng và Dân chủ (Bản tổng quan)](worldbank/2016-vietnam-2035-prosperity-creativity-equity-democracy.md) — Ngân hàng Thế giới và Bộ Kế hoạch và Đầu tư Việt Nam, 2016, nhóm tác giả do Cao Viết Sinh, Gabriel Demombynes, Victoria Kwakwa, Sandeep Mahajan, Sudhir Shetty dẫn dắt (bản PDF chỉ có phần Tổng quan, không có 7 chương của báo cáo đầy đủ)
+
+## VN
+
+Tổng hợp bài viết của AI WikiMoney (wikimoney.ai.vn) về kinh tế, tài chính cá nhân và đầu tư ở Việt Nam, xếp theo chuyên mục của trang và theo ngày đăng.
+
+### Economics — Basic Concepts (Kinh tế)
+
+- [Cung và cầu: Lý do giá cả lên xuống](VN/Economics/Basic%20Concepts/2025-05-cung-va-cau-ly-do-gia-ca-len-xuong.md) — AI WikiMoney, 17/5/2025, WikiMoney Team
+- [GDP, GNP, và các chỉ số kinh tế cơ bản cần biết](VN/Economics/Basic%20Concepts/2025-05-gdp-gnp-cac-chi-so-kinh-te-co-ban.md) — AI WikiMoney, 12/5/2025, WikiMoney Team (hiểu sai quan hệ GNP và GDP của Việt Nam)
+- [Kinh tế và ứng dụng trong cuộc sống](VN/Economics/Basic%20Concepts/2025-05-kinh-te-va-ung-dung-trong-cuoc-song.md) — AI WikiMoney, 12/5/2025, WikiMoney Team
+- [Chi phí cơ hội là gì? Và tại sao nó quyết định mọi lựa chọn tài chính của bạn](VN/Economics/Basic%20Concepts/2026-06-chi-phi-co-hoi-quyet-dinh-lua-chon-tai-chinh.md) — AI WikiMoney, 26/6/2026, WikiMoney Team
+
+### Economics — Economics and Everyday Life (Kinh tế)
+
+- [Chi phí cơ hội: Điều bạn từ bỏ, điều bạn nhận được](VN/Economics/Economics%20and%20Everyday%20Life/2025-05-chi-phi-co-hoi-dieu-ban-tu-bo.md) — AI WikiMoney, 12/5/2025, WikiMoney Team (áp dụng khái niệm chi phí cơ hội chưa nhất quán)
+- [Giá xăng dầu biến động: Ảnh hưởng trực tiếp và gián tiếp đến bạn](VN/Economics/Economics%20and%20Everyday%20Life/2025-05-gia-xang-dau-bien-dong-anh-huong.md) — AI WikiMoney, 12/5/2025, WikiMoney Team (mốc giá "kỷ lục" mâu thuẫn nội bộ)
+- [Giảm giá – Đòn bẩy tâm lý: Vì sao chúng ta mua nhiều hơn cần thiết?](VN/Economics/Economics%20and%20Everyday%20Life/2025-05-giam-gia-don-bay-tam-ly.md) — AI WikiMoney, 12/5/2025, WikiMoney Team (dùng sai thuật ngữ "hiệu ứng mồi")
+- [Kinh tế chia sẻ: Cơ hội và thách thức cho cuộc sống hiện đại](VN/Economics/Economics%20and%20Everyday%20Life/2025-05-kinh-te-chia-se-co-hoi-thach-thuc.md) — AI WikiMoney, 12/5/2025, WikiMoney Team
+- [Lạm phát: Ảnh hưởng ra sao đến cuộc sống của bạn?](VN/Economics/Economics%20and%20Everyday%20Life/2025-05-lam-phat-anh-huong-cuoc-song.md) — AI WikiMoney, 9/5/2025, WikiMoney Team
+- [Ảnh hưởng của lãi suất lên thị trường và cuộc sống người dân](VN/Economics/Economics%20and%20Everyday%20Life/2025-05-anh-huong-lai-suat-thi-truong-cuoc-song.md) — AI WikiMoney, 12/5/2025, WikiMoney Team (nhiều số liệu sai hoặc lệch năm)
+- [Lạm phát là gì? Hậu quả của lạm phát. Cách tính lãi suất thực. Cách quản lý tài chính cá nhân trong lạm phát.](VN/Economics/Economics%20and%20Everyday%20Life/2025-12-lam-phat-hau-qua-cach-tinh-lai-suat-thuc.md) — AI WikiMoney, 15/12/2025, Lâm Minh Chánh
+- [Hạn 31/7: Hộ kinh doanh mới phải thông báo doanh thu](VN/Economics/Economics%20and%20Everyday%20Life/2026-07-han-31-7-ho-kinh-doanh-thong-bao-doanh-thu.md) — AI WikiMoney, 30/7/2026, WikiMoney Team (ngưỡng 500 triệu ghi không thống nhất)
+- [IMF nâng dự báo GDP Việt Nam 2026 lên 7,5%: Bạn được gì?](VN/Economics/Economics%20and%20Everyday%20Life/2026-07-imf-nang-du-bao-gdp-viet-nam-2026.md) — AI WikiMoney, 20/7/2026, WikiMoney Team
+- [Stagflation là gì? Khi lạm phát cao gặp tăng trưởng thấp](VN/Economics/Economics%20and%20Everyday%20Life/2026-07-stagflation-lam-phat-cao-tang-truong-thap.md) — AI WikiMoney, 2/7/2026, WikiMoney Team (hai mốc lịch sử về giá vàng không chính xác)
+- [Tiền chạy đi đâu hết rồi?](VN/Economics/Economics%20and%20Everyday%20Life/2026-07-tien-chay-di-dau-het-roi.md) — AI WikiMoney, 29/7/2026, Lâm Minh Chánh
+- [Lãi suất cao, thị trường băng giá, bạn nên làm gì?](VN/Economics/Economics%20and%20Everyday%20Life/2026-08-lai-suat-cao-thi-truong-bang-gia.md) — AI WikiMoney, 13/8/2026, Lâm Minh Chánh (bản chép lời video)
+- [Lãi suất thấp sướng thật, sao không kéo dài mãi?](VN/Economics/Economics%20and%20Everyday%20Life/2026-08-lai-suat-thap-sao-khong-keo-dai.md) — AI WikiMoney, 13/8/2026, Lâm Minh Chánh
+- [Vì sao khối ngoại chỉ nắm 0,1–0,15% trái phiếu Chính phủ Việt Nam? Và bài học đằng sau con số đó](VN/Economics/Economics%20and%20Everyday%20Life/2026-09-vi-sao-khoi-ngoai-nam-it-trai-phieu-chinh-phu.md) — AI WikiMoney, 12/9/2026, Lâm Minh Chánh
+
+### Economics — Global Trade (Kinh tế)
+
+- [Các tổ chức quốc tế như WTO, IMF có vai trò gì trong kiểm soát rào cản?](VN/Economics/Global%20Trade/2025-05-vai-tro-wto-imf-kiem-soat-rao-can.md) — AI WikiMoney, 12/5/2025, WikiMoney Team (nhiều ví dụ ASEAN sai sự kiện)
+- [Quota là gì? – Hạn ngạch nhập khẩu và cách các quốc gia kiểm soát lượng hàng](VN/Economics/Global%20Trade/2025-05-quota-han-ngach-nhap-khau.md) — AI WikiMoney, 12/5/2025, WikiMoney Team (một số ví dụ quota đã lỗi thời)
+- [Rào cản phi thuế quan là gì? – Từ tiêu chuẩn kỹ thuật đến kiểm dịch thực phẩm](VN/Economics/Global%20Trade/2025-05-rao-can-phi-thue-quan-la-gi.md) — AI WikiMoney, 9/5/2025, WikiMoney Team
+- [Thuế nhập khẩu – Mục đích và vai trò trong thương mại toàn cầu](VN/Economics/Global%20Trade/2025-05-thue-nhap-khau-muc-dich-vai-tro.md) — AI WikiMoney, 12/5/2025, WikiMoney Team
+- [Tại sao các nước nên mua bán với nhau? Các lợi ích của thương mại toàn cầu](VN/Economics/Global%20Trade/2025-05-loi-ich-cua-thuong-mai-toan-cau.md) — AI WikiMoney, 12/5/2025, WikiMoney Team (nhầm lợi thế so sánh với lợi thế tuyệt đối)
+- [Tự do thương mại có thực sự công bằng? Góc nhìn từ nước nhỏ](VN/Economics/Global%20Trade/2025-05-tu-do-thuong-mai-co-cong-bang.md) — AI WikiMoney, 12/5/2025, WikiMoney Team
+- [Việt Nam nhập siêu trở lại: Tỷ giá và túi tiền bạn bị ảnh hưởng gì?](VN/Economics/Global%20Trade/2026-07-viet-nam-nhap-sieu-tro-lai-ty-gia.md) — AI WikiMoney, 16/7/2026, WikiMoney Team
+- [Giá dầu biến động mạnh: Rủi ro lạm phát rình rập cuối năm](VN/Economics/Global%20Trade/2026-08-gia-dau-bien-dong-rui-ro-lam-phat.md) — AI WikiMoney, 11/8/2026, WikiMoney Team (trích ACBS)
+
+### Economics — Macroeconomics (Kinh tế)
+
+- [Chính sách tiền tệ: Lãi suất - Công cụ điều tiết kinh tế](VN/Economics/Macroeconomics/2025-05-chinh-sach-tien-te-lai-suat.md) — AI WikiMoney, 12/5/2025, WikiMoney Team
+- [Lạm phát ở Việt Nam: Lịch sử và cách kiểm soát](VN/Economics/Macroeconomics/2025-05-lam-phat-viet-nam-lich-su-kiem-soat.md) — AI WikiMoney, 9/5/2025, WikiMoney Team
+- [Thất nghiệp: Nguyên nhân và hậu quả đối với xã hội](VN/Economics/Macroeconomics/2025-05-that-nghiep-nguyen-nhan-hau-qua.md) — AI WikiMoney, 12/5/2025, WikiMoney Team
+- [Tăng trưởng kinh tế: Việt Nam so với các nước Đông Nam Á và Thế giới.](VN/Economics/Macroeconomics/2025-06-tang-truong-kinh-te-viet-nam-so-voi-dong-nam-a.md) — AI WikiMoney, 11/6/2025, WikiMoney Team (số liệu tự mâu thuẫn)
+- [Nợ công. Việt Nam đang vay bao nhiêu và có đáng lo.](VN/Economics/Macroeconomics/2025-08-no-cong-viet-nam-vay-bao-nhieu.md) — AI WikiMoney, 21/8/2025, WikiMoney Team
+- [Chính sách tài khóa: Thuế và chi tiêu chính phủ - Công cụ điều tiết kinh tế](VN/Economics/Macroeconomics/2025-09-chinh-sach-tai-khoa-thue-chi-tieu-chinh-phu.md) — AI WikiMoney, 11/9/2025, WikiMoney Team
+- [Chu kỳ kinh tế là gì? Việt Nam đang ở giai đoạn nào?](VN/Economics/Macroeconomics/2026-07-chu-ky-kinh-te-viet-nam-giai-doan-nao.md) — AI WikiMoney, 2/7/2026, WikiMoney Team
+- [PMI là gì? Chỉ số báo trước sức khỏe kinh tế](VN/Economics/Macroeconomics/2026-07-pmi-chi-so-bao-truoc-suc-khoe-kinh-te.md) — AI WikiMoney, 9/7/2026, WikiMoney Team
+
+### Economics — Money (Kinh tế)
+
+- [Cung tiền M1 và M2 là gì?](VN/Economics/Money/2025-05-cung-tien-m1-va-m2-la-gi.md) — AI WikiMoney, 12/5/2025, WikiMoney Team
+- [Ngân hàng thương mại hoạt động như thế nào?](VN/Economics/Money/2025-05-ngan-hang-thuong-mai-hoat-dong.md) — AI WikiMoney, 12/5/2025, không ghi tác giả
+- [Ngân hàng trung ương: Người in tiền và điều hành kinh tế](VN/Economics/Money/2025-05-ngan-hang-trung-uong-in-tien-dieu-hanh.md) — AI WikiMoney, 12/5/2025, WikiMoney Team
+- [Tại sao tỷ giá hối đoái lại quan trọng như vậy?](VN/Economics/Money/2025-05-ty-gia-hoi-doai-quan-trong.md) — AI WikiMoney, 26/5/2025, WikiMoney Team
+- [Xu hướng thanh toán không dùng tiền mặt tại Việt Nam](VN/Economics/Money/2025-05-thanh-toan-khong-dung-tien-mat.md) — AI WikiMoney, 9/5/2025, WikiMoney Team
+- [Tiền pháp định kỹ thuật số: CBDC và tương lai tiền tệ ở Việt Nam](VN/Economics/Money/2025-06-cbdc-tuong-lai-tien-te-viet-nam.md) — AI WikiMoney, 11/6/2025, WikiMoney Team, dẫn TS. Đặng Minh Tuấn (nhầm CBDC với stablecoin)
+- [Tiền pháp định là gì? Vì sao tờ giấy trong ví lại mua được cả tạ gạo](VN/Economics/Money/2026-08-tien-phap-dinh-la-gi.md) — AI WikiMoney, 26/8/2026, WikiMoney Team
+
+### Financial Instruments — Credit Cards (Công cụ tài chính)
+
+- [Chọn thẻ tín dụng phù hợp với thu nhập và nhu cầu của bạn](VN/Financial%20Instruments/Credit%20Cards/2025-06-chon-the-tin-dung-phu-hop-thu-nhap.md) — AI WikiMoney, 25/6/2025, WikiMoney Team
+- [Lợi và hại khi sử dụng thẻ tín dụng](VN/Financial%20Instruments/Credit%20Cards/2025-06-loi-va-hai-the-tin-dung.md) — AI WikiMoney, 25/6/2025, WikiMoney Team
+- [Mẹo quản lý chi tiêu hiệu quả với thẻ tín dụng cho người trẻ](VN/Financial%20Instruments/Credit%20Cards/2025-06-meo-quan-ly-chi-tieu-the-tin-dung.md) — AI WikiMoney, 25/6/2025, WikiMoney Team
+- [Thẻ tín dụng là gì? Cách sử dụng thông minh cho người mới bắt đầu](VN/Financial%20Instruments/Credit%20Cards/2025-06-the-tin-dung-la-gi.md) — AI WikiMoney, 25/6/2025, WikiMoney Team
+- [Điểm tín dụng cá nhân CIC: Làm sao để tăng và tránh bị giảm?](VN/Financial%20Instruments/Credit%20Cards/2025-06-diem-tin-dung-cic-tang-tranh-giam.md) — AI WikiMoney, 25/6/2025, WikiMoney Team (bộ trọng số chấm điểm là của FICO, không phải CIC)
+
+### Financial Instruments — Fund Certificates (Công cụ tài chính)
+
+- [Sai lầm khi đầu tư quỹ: làm sao để tránh mất tiền?](VN/Financial%20Instruments/Fund%20Certificates/2025-08-sai-lam-khi-dau-tu-quy.md) — AI WikiMoney, 12/8/2025, Lâm Minh Chánh
+- [Quỹ cổ phiếu, trái phiếu, cân bằng: chọn loại phù hợp với bạn](VN/Financial%20Instruments/Fund%20Certificates/2025-09-quy-co-phieu-trai-phieu-can-bang.md) — AI WikiMoney, 8/9/2025, WikiMoney Team (số liệu hiệu quả quỹ không rõ mốc thời gian)
+- [Quỹ đầu tư là gì? Cách công ty quản lý quỹ giúp tiền của bạn sinh lời](VN/Financial%20Instruments/Fund%20Certificates/2025-09-quy-dau-tu-cong-ty-quan-ly-quy.md) — AI WikiMoney, 8/9/2025, Lâm Minh Chánh (coi "thông tin nội bộ" là lợi thế của quỹ)
+- [Có thu nhập nhưng mãi chưa có tài sản – bạn cần đọc bài này](VN/Financial%20Instruments/Fund%20Certificates/2025-12-co-thu-nhap-chua-co-tai-san.md) — AI WikiMoney, 19/12/2025, Lâm Minh Chánh
+- [Lý do nhà đầu tư cá nhân nên đầu tư vào Chứng chỉ quỹ (CCQĐT)](VN/Financial%20Instruments/Fund%20Certificates/2025-12-ly-do-nen-dau-tu-chung-chi-quy.md) — AI WikiMoney, 3/12/2025, Lâm Minh Chánh
+- [Ông Lâm Minh Chánh trả lời báo Thanh Niên: người trẻ nên đầu tư vào Chứng chỉ Quỹ](VN/Financial%20Instruments/Fund%20Certificates/2026-05-lam-minh-chanh-nguoi-tre-dau-tu-chung-chi-quy.md) — AI WikiMoney, 8/5/2026, đăng lại bài báo Thanh Niên (Lâm Minh Chánh, TS. Phạm Văn Kiên, TS. Hồ Văn Tuyên)
+- [Trái phiếu doanh nghiệp 2026: đã an toàn hơn chưa, hay vẫn cần né?](VN/Financial%20Instruments/Fund%20Certificates/2026-06-trai-phieu-doanh-nghiep-an-toan-chua.md) — AI WikiMoney, 25/6/2026, WikiMoney Team
+- [ETF là gì? Khác quỹ mở thế nào, người mới nên chọn loại nào?](VN/Financial%20Instruments/Fund%20Certificates/2026-07-etf-khac-quy-mo-the-nao.md) — AI WikiMoney, 14/7/2026, WikiMoney Team
+- [Từ 1/7/2026: giữ chứng chỉ quỹ trên 2 năm được miễn thuế](VN/Financial%20Instruments/Fund%20Certificates/2026-07-giu-chung-chi-quy-tren-2-nam-mien-thue.md) — AI WikiMoney, 16/7/2026, WikiMoney Team
+- [Quỹ ETF là gì? Cách người mới bắt đầu đầu tư ETF từ số vốn nhỏ](VN/Financial%20Instruments/Fund%20Certificates/2026-08-quy-etf-nguoi-moi-von-nho.md) — AI WikiMoney, 18/8/2026, WikiMoney Team
+
+### Financial Instruments — Gold (Công cụ tài chính)
+
+- [Chuyên gia Lâm Minh Chánh chia sẻ 6 sự thật về vàng: Từng là kênh đầu tư "Vua", nhưng nay thua cả lãi suất ngân hàng!](VN/Financial%20Instruments/Gold/2025-07-lam-minh-chanh-6-su-that-ve-vang.md) — AI WikiMoney, 17/7/2025, Lâm Minh Chánh
+- [Khách hàng nắm lưỡi, doanh nghiệp vàng nắm cán](VN/Financial%20Instruments/Gold/2025-07-khach-hang-nam-luoi-doanh-nghiep-vang.md) — AI WikiMoney, 18/7/2025, phỏng vấn Lâm Minh Chánh
+- [Vàng SJC tăng, giảm như "tàu lượn", nhà đầu tư có nên xuống tiền?](VN/Financial%20Instruments/Gold/2025-08-vang-sjc-tang-giam-nhu-tau-luon.md) — AI WikiMoney, 7/8/2025, đăng lại bài báo 24h (trích lời Lâm Minh Chánh)
+- [Vàng miếng, vàng nhẫn hay trang sức: Mua loại nào?](VN/Financial%20Instruments/Gold/2026-07-vang-mieng-vang-nhan-hay-trang-suc.md) — AI WikiMoney, 6/7/2026, WikiMoney Team
+
+### Financial Instruments — Life Insurance (Công cụ tài chính)
+
+- [Bảo hiểm nhân thọ là gì? Vai trò và điều cần biết](VN/Financial%20Instruments/Life%20Insurance/2025-08-bao-hiem-nhan-tho-la-gi.md) — AI WikiMoney, 20/8/2025, WikiMoney Team
+- [Những dấu hiệu nhận biết một công ty bảo hiểm nhân thọ tốt](VN/Financial%20Instruments/Life%20Insurance/2025-08-dau-hieu-cong-ty-bao-hiem-nhan-tho-tot.md) — AI WikiMoney, 21/8/2025, WikiMoney Team
+- [Phí bảo hiểm nhân thọ: Bạn đang trả gì và làm sao tiết kiệm?](VN/Financial%20Instruments/Life%20Insurance/2025-08-phi-bao-hiem-nhan-tho-tiet-kiem.md) — AI WikiMoney, 21/8/2025, WikiMoney Team
+- [Rủi ro khi chọn sai công ty bảo hiểm nhân thọ và cách phòng tránh](VN/Financial%20Instruments/Life%20Insurance/2025-08-rui-ro-chon-sai-cong-ty-bao-hiem.md) — AI WikiMoney, 21/8/2025, WikiMoney Team
+- [Sai lầm thường gặp khi mua bảo hiểm nhân thọ và cách tránh](VN/Financial%20Instruments/Life%20Insurance/2025-08-sai-lam-khi-mua-bao-hiem-nhan-tho.md) — AI WikiMoney, 21/8/2025, WikiMoney Team
+
+### Financial Instruments — Loans (Công cụ tài chính)
+
+- [Bí quyết vay mua xe ôtô: lợi nhất, ít áp lực nhất!](VN/Financial%20Instruments/Loans/2025-08-bi-quyet-vay-mua-xe-oto.md) — AI WikiMoney, 20/8/2025, WikiMoney Team
+- [Cẩn thận 'bẫy' vay tài chính: những sai lầm phổ biến bạn cần tránh](VN/Financial%20Instruments/Loans/2025-08-bay-vay-tai-chinh-sai-lam-pho-bien.md) — AI WikiMoney, 20/8/2025, WikiMoney Team
+- [So sánh vay ngân hàng và công ty tài chính: lợi và hại ra sao?](VN/Financial%20Instruments/Loans/2025-08-so-sanh-vay-ngan-hang-cong-ty-tai-chinh.md) — AI WikiMoney, 20/8/2025, WikiMoney Team
+- [Vay ngân hàng mua nhà: bí quyết chọn đúng gói vay, nhẹ gánh lãi suất](VN/Financial%20Instruments/Loans/2025-08-vay-ngan-hang-mua-nha-chon-goi-vay.md) — AI WikiMoney, 20/8/2025, WikiMoney Team (đánh giá thấp lợi ích trả thêm gốc)
+- [Vay tiêu dùng cá nhân: khi nào nên vay, khi nào nên tránh?](VN/Financial%20Instruments/Loans/2025-08-vay-tieu-dung-ca-nhan-khi-nao-nen-vay.md) — AI WikiMoney, 20/8/2025, WikiMoney Team
+- [Vay tiền nhanh, khẩn cấp: những điều bạn nhất định phải biết](VN/Financial%20Instruments/Loans/2025-08-vay-tien-nhanh-khan-cap.md) — AI WikiMoney, 20/8/2025, WikiMoney Team (hiểu sai mốc lãi "100%/năm")
+- [Lãi suất vay mua nhà đang tăng: bạn có đang trả quá đắt không?](VN/Financial%20Instruments/Loans/2026-06-lai-suat-vay-mua-nha-dang-tang.md) — AI WikiMoney, 24/6/2026, WikiMoney Team
+- [Vay mua nhà ở xã hội từ tháng 7/2026: lãi suất 6,5%/năm cho người dưới 35 tuổi – cơ hội hay áp lực dài hạn?](VN/Financial%20Instruments/Loans/2026-06-vay-mua-nha-o-xa-hoi-lai-suat-6-5.md) — AI WikiMoney, 29/6/2026, WikiMoney Team (tính sai khoản trả giai đoạn 2)
+- [Điểm tín dụng CIC là gì? Nó ảnh hưởng đến khả năng vay tiền của bạn như thế nào?](VN/Financial%20Instruments/Loans/2026-06-diem-tin-dung-cic-la-gi.md) — AI WikiMoney, 30/6/2026, WikiMoney Team (phóng đại tiền lãi tăng thêm)
+
+### Financial Instruments — Savings Deposits (Công cụ tài chính)
+
+- [Các loại hình tiền gửi, tiết kiệm ngân hàng: Khám phá ngay!](VN/Financial%20Instruments/Savings%20Deposits/2025-08-cac-loai-hinh-tien-gui-tiet-kiem.md) — AI WikiMoney, 20/8/2025, WikiMoney Team
+- [Gửi tiết kiệm thế nào để an toàn và tối ưu lợi nhuận?](VN/Financial%20Instruments/Savings%20Deposits/2025-08-gui-tiet-kiem-an-toan-toi-uu-loi-nhuan.md) — AI WikiMoney, 20/8/2025, WikiMoney Team (hạn mức bảo hiểm tiền gửi 75 triệu đã lỗi thời)
+- [Tiết kiệm tại ngân hàng: Lựa chọn thông minh cho tương lai](VN/Financial%20Instruments/Savings%20Deposits/2025-08-tiet-kiem-tai-ngan-hang-lua-chon-thong-minh.md) — AI WikiMoney, 20/8/2025, WikiMoney Team
+- [Tránh mất tiền oan: Những sai lầm khi gửi tiết kiệm bạn cần biết](VN/Financial%20Instruments/Savings%20Deposits/2025-08-sai-lam-khi-gui-tiet-kiem.md) — AI WikiMoney, 20/8/2025, WikiMoney Team
+- [Tương lai của tiền gửi: Những xu hướng mới bạn không thể bỏ qua](VN/Financial%20Instruments/Savings%20Deposits/2025-08-tuong-lai-cua-tien-gui-xu-huong-moi.md) — AI WikiMoney, 20/8/2025, WikiMoney Team
+- ["Sinh lời tự động" trên app ngân hàng: Lãi thật hay chiêu marketing?](VN/Financial%20Instruments/Savings%20Deposits/2026-07-sinh-loi-tu-dong-tren-app-ngan-hang.md) — AI WikiMoney, 14/7/2026, WikiMoney Team
+- [Bảo hiểm tiền gửi là gì? Được bảo vệ tới đâu?](VN/Financial%20Instruments/Savings%20Deposits/2026-07-bao-hiem-tien-gui-duoc-bao-ve-toi-dau.md) — AI WikiMoney, 9/7/2026, WikiMoney Team
+- [Lãi suất tiết kiệm nửa cuối 2026: Bảng niêm yết "đứng hình", có nên gửi?](VN/Financial%20Instruments/Savings%20Deposits/2026-07-lai-suat-tiet-kiem-nua-cuoi-2026.md) — AI WikiMoney, 14/7/2026, WikiMoney Team
+
+### Investment — Interest Rate (Đầu tư)
+
+- [Chơi hụi có tốt không? Hốt hụi lúc nào thì có lợi nhất](VN/Investment/Interest%20Rate/2025-09-choi-hui-hot-hui-luc-nao-loi-nhat.md) — AI WikiMoney, 9/9/2025, WikiMoney Team (bảng tính bỏ sót người hốt tháng 6)
+- [Cách tính lãi suất từ A đến Z: hướng dẫn toàn diện](VN/Investment/Interest%20Rate/2025-09-cach-tinh-lai-suat-tu-a-den-z.md) — AI WikiMoney, 9/9/2025, Lâm Minh Chánh
+- [Cách tính tỷ suất lợi nhuận bài toán mua bán bò](VN/Investment/Interest%20Rate/2025-09-ty-suat-loi-nhuan-bai-toan-mua-ban-bo.md) — AI WikiMoney, 9/9/2025, Lâm Minh Chánh
+- [Hiểu đúng lạm phát để tiền không "bốc hơi": cách tính lãi suất thực ai cũng cần biết](VN/Investment/Interest%20Rate/2025-09-hieu-dung-lam-phat-cach-tinh-lai-suat-thuc.md) — AI WikiMoney, 9/9/2025, Lâm Minh Chánh
+- [Nên vay tiền mua nhà hay là thuê nhà và để dành tiền đầu tư?](VN/Investment/Interest%20Rate/2025-09-vay-mua-nha-hay-thue-nha-de-dau-tu.md) — AI WikiMoney, 9/9/2025, Lâm Minh Chánh (đề bài 6,5% nhưng kết quả tính theo 6%)
+- [Vay trả góp: lãi suất thực tế cao hơn bạn nghĩ](VN/Investment/Interest%20Rate/2025-12-vay-tra-gop-lai-suat-thuc-te-cao-hon.md) — AI WikiMoney, 15/12/2025, Lâm Minh Chánh
+- [Lãi suất kép: "Phép màu thứ 8 của thế giới" mà nhiều người Việt vẫn bỏ qua](VN/Investment/Interest%20Rate/2026-06-lai-suat-kep-phep-mau-thu-8.md) — AI WikiMoney, 26/6/2026, WikiMoney Team (ví dụ so sánh tính sai)
+- [Lãi suất kép là gì? Vì sao bắt đầu sớm quan trọng hơn](VN/Investment/Interest%20Rate/2026-08-lai-suat-kep-vi-sao-bat-dau-som.md) — AI WikiMoney, 7/8/2026, WikiMoney Team
+- [Lãi suất thực là gì? Vì sao gửi tiết kiệm 7%/năm mà tiền vẫn "mất giá"](VN/Investment/Interest%20Rate/2026-08-lai-suat-thuc-gui-tiet-kiem-7-van-mat-gia.md) — AI WikiMoney, 18/8/2026, WikiMoney Team
+
+### Investment — Investment Risks (Đầu tư)
+
+- [Làm sao để đo lường và quản trị rủi ro khi đầu tư chứng khoán?](VN/Investment/Investment%20Risks/2025-07-do-luong-quan-tri-rui-ro-chung-khoan.md) — AI WikiMoney, 4/7/2025, WikiMoney Team
+- [Rủi ro hệ thống và rủi ro phi hệ thống: Phân biệt để phòng tránh](VN/Investment/Investment%20Risks/2025-07-rui-ro-he-thong-va-phi-he-thong.md) — AI WikiMoney, 4/7/2025, WikiMoney Team
+- [Rủi ro là gì và vì sao nhà đầu tư cần hiểu rõ?](VN/Investment/Investment%20Risks/2025-07-rui-ro-la-gi-vi-sao-can-hieu-ro.md) — AI WikiMoney, 4/7/2025, WikiMoney Team
+- [Rủi ro từ thông tin sai lệch và "đội lái" thị trường: Cảnh báo và giải pháp](VN/Investment/Investment%20Risks/2025-07-thong-tin-sai-lech-va-doi-lai.md) — AI WikiMoney, 4/7/2025, WikiMoney Team (vụ GameStop sai năm và sai bản chất)
+- [Tâm lý nhà đầu tư: Kẻ tiếp tay nguy hiểm cho rủi ro](VN/Investment/Investment%20Risks/2025-07-tam-ly-nha-dau-tu-tiep-tay-rui-ro.md) — AI WikiMoney, 4/7/2025, WikiMoney Team
+- [Đa dạng hóa danh mục: Vũ khí đơn giản chống lại rủi ro](VN/Investment/Investment%20Risks/2025-07-da-dang-hoa-danh-muc-vu-khi-chong-rui-ro.md) — AI WikiMoney, 4/7/2025, WikiMoney Team
+- [Dự án đầu tư "Nhà trọ tiền chế, thuê – xây dựng – cho thuê": Quá hời hay quá rủi ro?](VN/Investment/Investment%20Risks/2025-08-nha-tro-tien-che-qua-hoi-hay-qua-rui-ro.md) — AI WikiMoney, 15/8/2025, Lâm Minh Chánh
+- [Ba nguyên tắc vàng để đầu tư an toàn và sinh lời bền vững](VN/Investment/Investment%20Risks/2025-12-ba-nguyen-tac-vang-dau-tu-an-toan.md) — AI WikiMoney, 15/12/2025, Lâm Minh Chánh
+- [Không bao giờ có "bữa trưa miễn phí": Hãy nói KHÔNG với dự án cam kết lợi nhuận cao](VN/Investment/Investment%20Risks/2025-12-khong-co-bua-trua-mien-phi-cam-ket-loi-nhuan.md) — AI WikiMoney, 15/12/2025, Lâm Minh Chánh
+- [Khủng hoảng tài chính 2008 - câu chuyện về sự tự tin mù quáng của nước Mỹ và những người tận dụng được cơ hội từ khủng hoảng](VN/Investment/Investment%20Risks/2025-12-khung-hoang-tai-chinh-2008-tu-tin-mu-quang.md) — AI WikiMoney, 9/12/2025, WikiMoney Team (sai một số chi tiết lịch sử)
+- [Rủi ro phi hệ thống là gì? Bài học từ vụ PNJ](VN/Investment/Investment%20Risks/2026-07-rui-ro-phi-he-thong-bai-hoc-pnj.md) — AI WikiMoney, 9/7/2026, WikiMoney Team (3 phiên giảm sàn khoảng 19,6%, không phải "gần 15%")
+- [Vàng và cổ phiếu cùng giảm: Đa dạng hóa còn hiệu quả?](VN/Investment/Investment%20Risks/2026-07-vang-co-phieu-cung-giam-da-dang-hoa.md) — AI WikiMoney, 28/7/2026, WikiMoney Team
+- [Rủi ro khi mua trái phiếu: Lãi cao và những bài học đắt giá](VN/Investment/Investment%20Risks/2026-08-rui-ro-khi-mua-trai-phieu.md) — AI WikiMoney, 19/8/2026, WikiMoney Team
+- [Rủi ro khi đầu tư bất động sản: Đất có thật sự không lỗ?](VN/Investment/Investment%20Risks/2026-08-rui-ro-dau-tu-bat-dong-san.md) — AI WikiMoney, 19/8/2026, WikiMoney Team
+- [Rủi ro khi đầu tư vàng: Kênh trú ẩn vẫn có thể lỗ](VN/Investment/Investment%20Risks/2026-08-rui-ro-dau-tu-vang.md) — AI WikiMoney, 19/8/2026, WikiMoney Team
+
+### Investment — Recognizing Investment Scams (Đầu tư)
+
+- [Chuyên gia lý giải: Vì sao hàng ngàn người rơi vào bẫy lừa đảo của Mr. Pips?](VN/Investment/Recognizing%20Investment%20Scams/2025-08-vi-sao-hang-ngan-nguoi-mac-bay-mr-pips.md) — AI WikiMoney, 7/8/2025, Lâm Minh Chánh
+- [Chuyên gia nói về app kiểu Cotton fund: Đừng tin vào các bữa trưa miễn phí](VN/Investment/Recognizing%20Investment%20Scams/2025-08-app-kieu-cotton-fund-bua-trua-mien-phi.md) — AI WikiMoney, 7/8/2025, Lâm Minh Chánh
+- [Chuyên gia: S.Tix Coffee có dấu hiệu lừa đảo](VN/Investment/Recognizing%20Investment%20Scams/2025-08-s-tix-coffee-co-dau-hieu-lua-dao.md) — AI WikiMoney, 14/8/2025, Lâm Minh Chánh và luật sư Hà Hải
+- [Dự án đào tiền ảo lớn nhất Việt Nam: Giải mã vụ chạy trốn của CEO Sky Mining Lê Minh Tâm](VN/Investment/Recognizing%20Investment%20Scams/2025-08-sky-mining-giai-ma-vu-ceo-bo-tron.md) — AI WikiMoney, 14/8/2025, Lâm Minh Chánh
+- [Nhận diện những lừa đảo tài chính đa cấp kiểu Ponzi núp bóng app thương mại điện tử](VN/Investment/Recognizing%20Investment%20Scams/2025-08-lua-dao-ponzi-nup-bong-app-thuong-mai-dien-tu.md) — AI WikiMoney, 7/8/2025, Lâm Minh Chánh
+- [Tránh bẫy lừa đảo đầu tư tài chính](VN/Investment/Recognizing%20Investment%20Scams/2025-08-tranh-bay-lua-dao-dau-tu-tai-chinh.md) — AI WikiMoney, 7/8/2025, Lâm Minh Chánh
+- [Vụ lừa đảo tài chính lớn nhất thế giới bởi trùm lừa đảo Bernard Madoff](VN/Investment/Recognizing%20Investment%20Scams/2025-08-bernard-madoff-vu-lua-dao-lon-nhat-the-gioi.md) — AI WikiMoney, 7/8/2025, Lâm Minh Chánh
+
+### Investment — Why Should You Invest (Đầu tư)
+
+- [Dự án đầu tư "Nhà trọ tiền chế, thuê – xây dựng – cho thuê": Quá hời hay quá rủi ro?](VN/Investment/Investment%20Risks/2025-08-nha-tro-tien-che-qua-hoi-hay-qua-rui-ro.md) — cùng một bài, xếp ở cả hai chuyên mục; AI WikiMoney, 15/8/2025, Lâm Minh Chánh
+- [Đầu tư trong tài chính cá nhân: Trồng cây tiền bạc – Gieo đều, chăm kỹ, hái quả lâu dài](VN/Investment/Why%20Should%20You%20Invest/2025-12-dau-tu-tai-chinh-ca-nhan-trong-cay-tien-bac.md) — AI WikiMoney, 15/12/2025, Lâm Minh Chánh
+- [DCA là gì? Chiến lược đầu tư định kỳ giúp người bình thường kiên trì với thị trường](VN/Investment/Why%20Should%20You%20Invest/2026-06-dca-dau-tu-dinh-ky.md) — AI WikiMoney, 30/6/2026, WikiMoney Team
+- [Vì sao chỉ gửi tiết kiệm thôi chưa đủ để giàu?](VN/Investment/Why%20Should%20You%20Invest/2026-08-vi-sao-chi-gui-tiet-kiem-chua-du-giau.md) — AI WikiMoney, 27/8/2026, WikiMoney Team
+- [Đầu cơ và đầu tư khác nhau thế nào? Đừng nhầm lẫn](VN/Investment/Why%20Should%20You%20Invest/2026-08-dau-co-va-dau-tu-khac-nhau.md) — AI WikiMoney, 7/8/2026, WikiMoney Team
+
+### Market — Gold Market (Thị trường)
+
+- [Giá vàng thế giới tăng vọt: Đằng sau là gì? Nhà đầu tư nên hành động ra sao?](VN/Market/Gold%20Market/2025-12-gia-vang-the-gioi-tang-vot.md) — AI WikiMoney, 5/12/2025, WikiMoney Team
+- [Cơn lốc vàng 2026: Tại sao vàng phá đỉnh và nhà đầu tư nên làm gì?](VN/Market/Gold%20Market/2026-01-con-loc-vang-2026-vi-sao-pha-dinh.md) — AI WikiMoney, 30/1/2026, WikiMoney Team
+- [Vì sao vàng lại giảm ngay giữa tâm bão xung đột giữa Mỹ – Israel vs Iran?](VN/Market/Gold%20Market/2026-03-vi-sao-vang-giam-giua-xung-dot-iran.md) — AI WikiMoney, 23/3/2026, không ghi tác giả
+- [Đổi vàng lấy nhà Vinhomes: Chuyên gia phân tích bài toán giá vàng sau 5 năm](VN/Market/Gold%20Market/2026-05-doi-vang-lay-nha-vinhomes.md) — AI WikiMoney, 25/5/2026, đăng lại bài báo Người Quan Sát (Lâm Minh Chánh)
+- [Bank "run", kim cương "run", vàng "run"](VN/Market/Gold%20Market/2026-07-bank-run-kim-cuong-run-vang-run.md) — AI WikiMoney, 23/7/2026, Lâm Minh Chánh
+- [Vàng SJC lội ngược dòng 20/7: Cẩn thận bẫy chênh lệch](VN/Market/Gold%20Market/2026-07-vang-sjc-loi-nguoc-dong-bay-chenh-lech.md) — AI WikiMoney, 20/7/2026, WikiMoney Team
+- [Vàng SJC rơi 7 triệu/lượng: Mua đỉnh 20/7 lỗ bao nhiêu?](VN/Market/Gold%20Market/2026-07-vang-sjc-roi-7-trieu-mua-dinh-lo.md) — AI WikiMoney, 24/7/2026, WikiMoney Team
+- [Giá vàng hôm nay 17/8/2026: SJC lên 144,2 triệu, người mua đỉnh đầu năm vẫn lỗ nặng](VN/Market/Gold%20Market/2026-08-gia-vang-17-8-nguoi-mua-dinh-van-lo.md) — AI WikiMoney, 18/8/2026, WikiMoney Team
+- [Vàng lao dốc 30% từ đỉnh: Người mua đỉnh nên làm gì?](VN/Market/Gold%20Market/2026-08-vang-lao-doc-30-phan-tram-tu-dinh.md) — AI WikiMoney, 4/8/2026, WikiMoney Team (mức giảm thực tế khoảng 22–26%)
+- [Vàng lập đỉnh mới, SJC chạm 150 triệu đồng/lượng: Vì sao tăng nóng và bạn nên nhìn nhận thế nào](VN/Market/Gold%20Market/2026-08-vang-lap-dinh-sjc-cham-150-trieu.md) — AI WikiMoney, 26/8/2026, WikiMoney Team ("đỉnh mới" chỉ tính từ tháng 5)
+- [Giá vàng sáng 8/9: SJC quanh 146 triệu/lượng, tạm ổn định sau 3 phiên giảm](VN/Market/Gold%20Market/2026-09-gia-vang-8-9-sjc-quanh-146-trieu.md) — AI WikiMoney, 8/9/2026, WikiMoney Team
+
+### Market — Macroeconomics (Thị trường)
+
+- [Thuế 15% của Mỹ – Cuộc chơi chính sách, điểm nghẽn thương mại và cơ hội cho Việt Nam?](VN/Market/Macroeconomics/2026-02-thue-15-cua-my-co-hoi-viet-nam.md) — AI WikiMoney, 24/2/2026, WikiMoney Team (thân bài không có phần về Việt Nam như tiêu đề hứa)
+- [Vĩ mô Việt Nam giữa năm 2026: Tăng trưởng tốt, nhưng gió ngược đang mạnh dần](VN/Market/Macroeconomics/2026-06-vi-mo-viet-nam-giua-nam-2026-gio-nguoc.md) — AI WikiMoney, 25/6/2026, WikiMoney Team (trích lời Đặng Thanh Tùng, Dragon Capital)
+- [Fed giữ nguyên lãi suất 29/7: Túi tiền người Việt ra sao?](VN/Market/Macroeconomics/2026-07-fed-giu-nguyen-lai-suat-29-7-tui-tien-nguoi-viet.md) — AI WikiMoney, 30/7/2026, WikiMoney Team
+- [Fed họp 29/7: Túi tiền người Việt bị ảnh hưởng gì?](VN/Market/Macroeconomics/2026-07-fed-hop-29-7-tui-tien-nguoi-viet.md) — AI WikiMoney, 22/7/2026, WikiMoney Team
+- [Việt Nam chính thức lên nhóm thu nhập trung bình cao — Điều này có nghĩa gì với bạn?](VN/Market/Macroeconomics/2026-07-viet-nam-len-nhom-thu-nhap-trung-binh-cao.md) — AI WikiMoney, 2/7/2026, WikiMoney Team (quy đổi GNI sai, hiểu sai GNI và kiều hối)
+- [Việt Nam đã có sàn carbon: Người thường mua tín chỉ được không?](VN/Market/Macroeconomics/2026-07-viet-nam-co-san-carbon-ca-nhan-mua-tin-chi.md) — AI WikiMoney, 16/7/2026, WikiMoney Team
+- [Fed chưa hạ lãi suất: Tỷ giá và tiền của bạn ra sao?](VN/Market/Macroeconomics/2026-08-fed-chua-ha-lai-suat-ty-gia.md) — AI WikiMoney, 11/8/2026, WikiMoney Team
+- [Kinh tế 7 tháng 2026: Số liệu nói gì về túi tiền bạn?](VN/Market/Macroeconomics/2026-08-kinh-te-7-thang-2026-tui-tien.md) — AI WikiMoney, 4/8/2026, WikiMoney Team ("GDP 7 tháng" thực ra là số liệu 6 tháng)
+- [Ngân hàng Nhà nước tăng hay giảm lãi suất, túi tiền của bạn đổi thế nào?](VN/Market/Macroeconomics/2026-09-ngan-hang-nha-nuoc-tang-giam-lai-suat.md) — AI WikiMoney, 8/9/2026, WikiMoney Team (ví dụ trả góp tính sai)
+
+### Personal Finance — Building Wealth (Tài chính cá nhân)
+
+- [Các quy tắc quan trọng trong việc chi tiêu tiền](VN/Personal%20Finance/Building%20Wealth/2025-06-cac-quy-tac-quan-trong-chi-tieu-tien.md) — AI WikiMoney, 27/6/2025, WikiMoney Team
+- [Nguyên tắc tiết kiệm trong cuốn sách I Will Teach You to Be Rich](VN/Personal%20Finance/Building%20Wealth/2025-06-nguyen-tac-tiet-kiem-i-will-teach-you-to-be-rich.md) — AI WikiMoney, 27/6/2025, WikiMoney Team
+- [Nguyên tắc tích lũy tiền theo thời gian từ cuốn sách "Người giàu nhất thành Babylon"](VN/Personal%20Finance/Building%20Wealth/2025-06-nguyen-tac-tich-luy-nguoi-giau-nhat-babylon.md) — AI WikiMoney, 27/6/2025, WikiMoney Team
+- [Tại sao bạn nên tích lũy tiền? Ba lý do quan trọng](VN/Personal%20Finance/Building%20Wealth/2025-06-tai-sao-nen-tich-luy-tien-ba-ly-do.md) — AI WikiMoney, 27/6/2025, WikiMoney Team
+- [Để tích lũy tiền, hãy áp dụng công thức 20% - 50% - 30%](VN/Personal%20Finance/Building%20Wealth/2025-06-cong-thuc-20-50-30-tich-luy-tien.md) — AI WikiMoney, 27/6/2025, WikiMoney Team (3 ví dụ tính sai)
+- [Nguyên tắc trả cho mình trước: Bí quyết của người thành công tài chính](VN/Personal%20Finance/Building%20Wealth/2025-08-nguyen-tac-tra-cho-minh-truoc.md) — AI WikiMoney, 7/8/2025, WikiMoney Team
+- [Những mẹo giúp 'dễ thở' hơn trong thời 'bão giá', bạn đã biết chưa?](VN/Personal%20Finance/Building%20Wealth/2026-04-meo-de-tho-hon-thoi-bao-gia.md) — AI WikiMoney, 22/4/2026, đăng lại bài báo Thanh Niên (Lâm Minh Chánh, TS Nguyễn Trí Hiếu)
+- [Quỹ dự phòng khẩn cấp: Tấm đệm tài chính mà 7/10 người Việt chưa có](VN/Personal%20Finance/Building%20Wealth/2026-06-quy-du-phong-tam-dem-tai-chinh.md) — AI WikiMoney, 26/6/2026, WikiMoney Team (con số "7/10" không có dẫn chứng)
+- [Quỹ dự phòng khẩn cấp: Cần bao nhiêu và để ở đâu?](VN/Personal%20Finance/Building%20Wealth/2026-08-quy-du-phong-can-bao-nhieu-de-o-dau.md) — AI WikiMoney, 7/8/2026, WikiMoney Team
+
+### Personal Finance — Debt Management (Tài chính cá nhân)
+
+- [Quy tắc 50/30/20 không còn phù hợp với người Việt — đây là công thức mới](VN/Personal%20Finance/Debt%20Management/2026-06-quy-tac-50-30-20-cong-thuc-moi-nguoi-viet.md) — AI WikiMoney, 25/6/2026, WikiMoney Team
+- [Thoát nợ nhanh hơn với Avalanche và Snowball: bạn nên chọn cái nào?](VN/Personal%20Finance/Debt%20Management/2026-07-thoat-no-avalanche-va-snowball.md) — AI WikiMoney, 1/7/2026, WikiMoney Team (phóng đại chênh lệch tiền lãi giữa hai cách)
+
+### Personal Finance — Financial Freedom (Tài chính cá nhân)
+
+- [An toàn tài chính và điều cần biết để đối phó lúc khó khăn](VN/Personal%20Finance/Financial%20Freedom/2025-10-an-toan-tai-chinh-doi-pho-kho-khan.md) — AI WikiMoney, 18/10/2025, Lâm Minh Chánh (phỏng vấn Zing.vn 2021)
+- [Làm chủ cuộc chơi tiền bạc. Làm chủ 7 bước tài chính cá nhân để đạt tự do.](VN/Personal%20Finance/Financial%20Freedom/2025-10-lam-chu-cuoc-choi-tien-bac-7-buoc.md) — AI WikiMoney, 18/10/2025, WikiMoney Team, tóm tắt sách của Tony Robbins (tỷ trọng danh mục All Weather ghi sai)
+- [Để giàu sụ thì rất khó. Để độc lập, tự do về tài chính thì cũng khó nhưng có thể thực hiện được nếu hiểu biết và giữ kỷ luật.](VN/Personal%20Finance/Financial%20Freedom/2025-12-doc-lap-tu-do-tai-chinh-tich-luy-dau-tu-deu-dan.md) — AI WikiMoney, 15/12/2025, Lâm Minh Chánh
+- [Độc lập và Tự do Tài chính là gì và làm sao để đạt được?](VN/Personal%20Finance/Financial%20Freedom/2025-12-doc-lap-tu-do-tai-chinh-la-gi.md) — AI WikiMoney, 15/12/2025, Lâm Minh Chánh (hai dòng trong bảng ví dụ tính sai)
+- [BHXH tự nguyện: Cách lao động tự do tự lo lương hưu](VN/Personal%20Finance/Financial%20Freedom/2026-07-bhxh-tu-nguyen-lao-dong-tu-do-luong-huu.md) — AI WikiMoney, 20/7/2026, WikiMoney Team
+
+### Personal Finance — Risk Management (Tài chính cá nhân)
+
+- ["Thiên Nga Đen" Trong Tài Chính Cá Nhân: Hiểu Biết và Ứng Phó Trước Những Biến Cố Bất Ngờ](VN/Personal%20Finance/Risk%20Management/2025-07-thien-nga-den-tai-chinh-ca-nhan.md) — AI WikiMoney, 4/7/2025, WikiMoney Team (tỷ lệ phân bổ chỉ cộng được 90%)
+- [5 Bước Để Xác Định Và Kiểm Soát Rủi Ro Tài Chính Cá Nhân Hiệu Quả](VN/Personal%20Finance/Risk%20Management/2025-07-5-buoc-xac-dinh-kiem-soat-rui-ro-tai-chinh.md) — AI WikiMoney, 4/7/2025, WikiMoney Team (một ví dụ tính sai mức mất vốn)
+- [Câu Chuyện Kỳ Diệu Về Rủi Ro - "Against the Gods"](VN/Personal%20Finance/Risk%20Management/2025-07-against-the-gods-cau-chuyen-ve-rui-ro.md) — AI WikiMoney, 4/7/2025, WikiMoney Team (một số chi tiết lịch sử và định nghĩa VaR không chính xác)
+- [Hiểu Rõ Rủi Ro Để Làm Chủ Tài Chính: Những Điều Không Ai Dạy Bạn](VN/Personal%20Finance/Risk%20Management/2025-07-hieu-ro-rui-ro-lam-chu-tai-chinh.md) — AI WikiMoney, 4/7/2025, WikiMoney Team
+- [Phòng Tránh 'Bẫy Tâm Lý' Khiến Bạn Gặp Rủi Ro Tài Chính Không Đáng Có](VN/Personal%20Finance/Risk%20Management/2025-07-phong-tranh-bay-tam-ly-rui-ro-tai-chinh.md) — AI WikiMoney, 4/7/2025, WikiMoney Team (ví dụ lãi kép tính sai khoảng 3 lần)
+- [Bốn Loại Nợ Bạn Cần Biết Để Quản Lý Tài Chính Cá Nhân](VN/Personal%20Finance/Risk%20Management/2025-08-bon-loai-no-quan-ly-tai-chinh-ca-nhan.md) — AI WikiMoney, 20/8/2025, Lâm Minh Chánh
+- [Quản Lý Nợ Hiệu Quả: Bài Học Từ "Người Giàu Nhất Thành Babylon"](VN/Personal%20Finance/Risk%20Management/2025-08-quan-ly-no-bai-hoc-nguoi-giau-babylon.md) — AI WikiMoney, 20/8/2025, WikiMoney Team (ví dụ trả nợ tính sai)
+- [Lạm phát là gì? Hậu quả của lạm phát. Cách tính lãi suất thực. Cách quản lý tài chính cá nhân trong lạm phát.](VN/Economics/Economics%20and%20Everyday%20Life/2025-12-lam-phat-hau-qua-cach-tinh-lai-suat-thuc.md) — cùng một bài, xếp ở cả hai chuyên mục; AI WikiMoney, 15/12/2025, Lâm Minh Chánh
+- [Thiên Kiến Sợ Mất Mát: Vì Sao Bạn Giữ Lỗ, Bán Vội Lãi?](VN/Personal%20Finance/Risk%20Management/2026-07-thien-kien-so-mat-mat-giu-lo-ban-lai.md) — AI WikiMoney, 28/7/2026, không ghi tác giả
+
+### Personal Finance — Understanding Personal Finance (Tài chính cá nhân)
+
+- [Quản lý tài chính cá nhân rất quan trọng đến cuộc sống của chúng ta](VN/Personal%20Finance/Understanding%20Personal%20Finance/2025-05-quan-ly-tai-chinh-ca-nhan-rat-quan-trong.md) — AI WikiMoney, 12/5/2025, Lâm Minh Chánh
+- [Thu nhập ròng và tài sản ròng: hai chìa khóa để quản lý tài chính cá nhân hiệu quả](VN/Personal%20Finance/Understanding%20Personal%20Finance/2025-05-thu-nhap-rong-va-tai-san-rong.md) — AI WikiMoney, 12/5/2025, Lâm Minh Chánh
+- [Những tư duy quan trọng để quản lý tài chính cá nhân hiệu quả](VN/Personal%20Finance/Understanding%20Personal%20Finance/2025-08-nhung-tu-duy-quan-ly-tai-chinh-ca-nhan.md) — AI WikiMoney, 18/8/2025, Lâm Minh Chánh
+- [Tư duy tự chịu trách nhiệm với tài chính cá nhân – chìa khóa thành công và tự do tài chính](VN/Personal%20Finance/Understanding%20Personal%20Finance/2025-08-tu-duy-tu-chiu-trach-nhiem-tai-chinh.md) — AI WikiMoney, 20/8/2025, Lâm Minh Chánh
+- [Tài chính cá nhân là gì? Những nội dung chính của tài chính cá nhân](VN/Personal%20Finance/Understanding%20Personal%20Finance/2025-10-tai-chinh-ca-nhan-la-gi-noi-dung-chinh.md) — AI WikiMoney, 16/10/2025, Lâm Minh Chánh
+- [Hai công thức giúp bạn hiểu rõ về quản lý tài chính cá nhân](VN/Personal%20Finance/Understanding%20Personal%20Finance/2025-12-hai-cong-thuc-quan-ly-tai-chinh-ca-nhan.md) — AI WikiMoney, 4/12/2025, Lâm Minh Chánh
+- [Lương cơ sở tăng lên 2,53 triệu đồng từ tháng 7/2026: túi tiền bạn thay đổi thế nào?](VN/Personal%20Finance/Understanding%20Personal%20Finance/2026-06-luong-co-so-tang-2-53-trieu-tui-tien.md) — AI WikiMoney, 29/6/2026, WikiMoney Team
+- [Luật Thuế TNCN 2026 thay đổi gì và bạn được lợi bao nhiêu?](VN/Personal%20Finance/Understanding%20Personal%20Finance/2026-07-luat-thue-tncn-2026-thay-doi-gi.md) — AI WikiMoney, 1/7/2026, WikiMoney Team (tính sai thuế theo biểu cũ)
+- [Tài sản ròng là gì? Thước đo bạn thật sự giàu đến đâu](VN/Personal%20Finance/Understanding%20Personal%20Finance/2026-07-tai-san-rong-la-gi-thuoc-do-giau.md) — AI WikiMoney, 16/7/2026, WikiMoney Team
+- [Di sản lớn nhất cha mẹ để lại cho con là năng lực quản lý tài chính và tự tạo dựng tài sản](VN/Personal%20Finance/Understanding%20Personal%20Finance/2026-08-di-san-cha-me-nang-luc-quan-ly-tai-chinh.md) — AI WikiMoney, 6/8/2026, phỏng vấn Lâm Minh Chánh (báo Một Thế Giới)
