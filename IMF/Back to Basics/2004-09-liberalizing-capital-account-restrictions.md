@@ -137,41 +137,119 @@
 2. Lý thuyết nói gì về lợi ích của tự do hoá, và bằng chứng nói gì?
 3. Một nước nên làm gì?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tài khoản vốn (capital account).** Phần của cán cân thanh toán ghi lại các giao dịch mua bán tài sản giữa người trong nước và người nước ngoài. Ba dòng chính là đầu tư trực tiếp nước ngoài (FDI), dòng danh mục (mua cổ phiếu, trái phiếu) và vay ngân hàng. Điểm chung của chúng: người cư trú ở nước này mua tài sản ở nước khác. Ví dụ minh hoạ: một công ty Hàn Quốc xây nhà máy ở nước khác là FDI; một quỹ Mỹ mua cổ phiếu trên sàn chứng khoán nước khác là dòng danh mục; một ngân hàng trong nước vay 100 triệu USD từ ngân hàng Nhật là vay ngân hàng. Khác với tài khoản vãng lai, nơi ghi mua bán hàng hoá và dịch vụ.
+
+**Tự do hoá tài khoản vốn và kiểm soát vốn (capital account liberalization, capital controls).** Kiểm soát vốn là các hạn chế nhà nước đặt lên dòng tiền đầu tư vào hoặc ra khỏi nước: giới hạn số ngoại tệ được mua để đầu tư ra nước ngoài, yêu cầu giấy phép, thuế lên dòng vốn ngắn hạn. Tự do hoá là nới lỏng các hạn chế đó. Ví dụ minh hoạ: một nước chỉ cho người dân chuyển tối đa 50.000 USD mỗi năm ra nước ngoài để đầu tư; bỏ giới hạn này là một bước tự do hoá. Toàn bộ bài cân nhắc lợi ích và rủi ro của bước này với nước đang phát triển.
+
+**Hội nhập tài chính (financial integration).** Mức độ một nền kinh tế gắn với thị trường tài chính thế giới, thể hiện qua khối lượng vốn đi vào và đi ra. Bài nhấn mạnh hội nhập trên giấy và trên thực tế có thể khác nhau: một nước có thể có kiểm soát vốn chặt mà vốn vẫn chảy ra, hoặc không có kiểm soát mà vốn vẫn không vào.
+
+**Tỷ giá cố định và hệ thống Bretton Woods.** Tỷ giá cố định là khi nhà nước cam kết giữ giá đồng tiền nước mình ở một mức với ngoại tệ. Muốn giữ được cam kết đó, ngân hàng trung ương phải có đủ ngoại tệ để bán ra khi có người muốn đổi. Nếu vốn được tự do chảy ra, một làn sóng rút vốn có thể làm cạn dự trữ và phá vỡ tỷ giá. Vì vậy dưới hệ thống Bretton Woods, chế độ tỷ giá cố định toàn cầu từ cuối Thế chiến II đến năm 1973, ngay cả các nước công nghiệp cũng giữ tài khoản vốn tương đối đóng.
+
+**FDI và vốn ngắn hạn.** FDI là đầu tư để sở hữu và điều hành doanh nghiệp ở nước khác, như xây nhà máy; nó gắn với tài sản khó bán nhanh nên ít khi rút đi đột ngột. Vốn ngắn hạn, như tiền gửi hoặc khoản vay kỳ hạn dưới một năm, có thể rút ra trong vài ngày khi tâm lý nhà đầu tư thay đổi. Ví dụ minh hoạ: một nhà máy giày trị giá 200 triệu USD không thể "rút về" trong một tuần, nhưng 200 triệu USD trái phiếu chính phủ do nhà đầu tư nước ngoài nắm thì có thể bán hết trong một tuần. Vì vậy nhiều nước tìm cách lái dòng vốn vào sang dạng FDI.
+
+**Làm mượt tiêu dùng (consumption smoothing).** Ý tưởng rằng một nước có thể vay nước ngoài khi gặp năm xấu và trả lại hoặc cho vay khi gặp năm tốt, để mức tiêu dùng của người dân ít dao động hơn thu nhập. Giống một hộ gia đình vay tạm khi mất mùa rồi trả khi được mùa. Điều này khả thi vì thời tốt và thời xấu không đồng bộ giữa các nước. Đây là một trong các lợi ích lý thuyết của tự do hoá mà bằng chứng không xác nhận.
+
+**Thuận chu kỳ (procyclical).** Một biến số thuận chu kỳ khi nó tăng lúc kinh tế tốt và giảm lúc kinh tế xấu, làm dao động lớn thêm. Ví dụ minh hoạ: khi kinh tế một nước đang tăng trưởng 7%, nhà đầu tư nước ngoài đổ vốn vào làm nó nóng thêm; khi tăng trưởng rơi xuống 2%, họ rút vốn ra làm nó tệ thêm. Bài cho thấy khả năng vay vốn quốc tế của các nước mới nổi có tính chất này, nên thay vì "bảo hiểm" thì dòng vốn lại khuếch đại dao động.
+
+**Tương quan và nhân quả (correlation, causation).** Hai biến đi cùng nhau chưa chắc biến này gây ra biến kia; có thể một yếu tố thứ ba gây ra cả hai, hoặc chiều tác động ngược lại. Ví dụ trong bài: các nước đã tự do hoá có tăng trưởng cao hơn trung bình, nhưng sau khi kiểm soát các yếu tố khác, tác động nhân quả của tự do hoá lên tăng trưởng là yếu, nếu có. Phân biệt này là trọng tâm của phần bằng chứng.
+
+## Nội dung chi tiết
 
 ### 1. Tài khoản vốn là gì
 
-- Điều gì giải thích sự tăng vọt của dòng vốn xuyên biên giới trong hai thập kỷ qua? Tự do hoá tài khoản vốn là phần lớn câu trả lời. Nhưng trong khi sự gia tăng các dòng vốn này từ giữa thập niên 1980, cả giữa các nước công nghiệp lẫn từ nước công nghiệp sang nước đang phát triển, đi kèm nhiều lợi ích, nó cũng đóng vai trò trong một số khủng hoảng tài chính. Điều này đặt ra những câu hỏi nền tảng. Vì sao nhiều nước đang phát triển đi theo các nền kinh tế tiên tiến và ký vào tự do hoá tài khoản vốn bất chấp rủi ro, và nó có thật là thủ phạm như một số người chống toàn cầu hoá đã nói không?
-- Tài khoản vốn trong cán cân thanh toán của một nước bao gồm nhiều dòng tài chính khác nhau, chủ yếu là đầu tư trực tiếp nước ngoài (FDI), dòng danh mục (gồm đầu tư vào cổ phiếu) và vay ngân hàng, tất cả có điểm chung là việc người cư trú của nước này mua tài sản ở nước khác. Về nguyên tắc, có thể kiểm soát các dòng này bằng cách đặt hạn chế lên những dòng đi qua các kênh chính thức.
-- Tự do hoá tài khoản vốn, nói rộng, là nới lỏng các hạn chế lên dòng vốn qua biên giới một nước. Điều này được cho là dẫn đến mức độ hội nhập tài chính cao hơn với nền kinh tế toàn cầu qua khối lượng dòng vốn vào và ra lớn hơn.
-- Tuy nhiên, có khác biệt đáng kể giữa hội nhập tài chính trên lý thuyết và trong thực tế. Một số nước, ví dụ ở Mỹ Latinh trong thập niên 1970 và 1980, thấy khó ngăn chặn dòng vốn chảy ra trong thời kỳ khó khăn kinh tế dù có vẻ có các biện pháp kiểm soát toàn diện. Ngược lại, nhiều nước đang phát triển, gồm một vài nước ở châu Phi, không có biện pháp kiểm soát đáng kể nhưng chỉ trải qua dòng vốn vào tối thiểu.
-- Điều này cũng chỉ ra khó khăn trong việc đo lường kiểm soát vốn và, mở rộng ra, mức độ tự do hoá tài khoản vốn đã thực hiện. IMF (có thẩm quyền đối với các hạn chế tài khoản vãng lai, nhưng không phải tài khoản vốn) duy trì một bản tổng hợp chi tiết về các hạn chế tài khoản vốn của các nước thành viên. Nhưng ngay cả những bản này cũng chỉ cung cấp, tốt nhất, các chỉ dấu thô vì chúng không đo cường độ hay hiệu lực của kiểm soát vốn.
+**Câu hỏi đặt ra.** Dòng vốn xuyên biên giới tăng vọt trong hai thập kỷ trước khi bài được viết, và tự do hoá tài khoản vốn là phần lớn lời giải thích. Sự gia tăng này bắt đầu từ giữa thập niên 1980, diễn ra cả giữa các nước công nghiệp với nhau lẫn từ nước công nghiệp sang nước đang phát triển. Nó mang lại nhiều lợi ích, nhưng cũng góp phần vào một số cuộc khủng hoảng tài chính. Từ đó nảy sinh hai câu hỏi nền tảng: vì sao nhiều nước đang phát triển vẫn đi theo các nền kinh tế tiên tiến và tự do hoá tài khoản vốn bất chấp rủi ro? Và tự do hoá có thật là thủ phạm như một số người chống toàn cầu hoá nói không?
+
+**Định nghĩa.** Tài khoản vốn trong cán cân thanh toán gồm nhiều dòng tài chính, chủ yếu là:
+
+- Đầu tư trực tiếp nước ngoài (FDI).
+- Dòng danh mục, gồm đầu tư vào cổ phiếu.
+- Vay ngân hàng.
+
+Điểm chung của chúng là người cư trú ở nước này mua tài sản ở nước khác. Về nguyên tắc, nhà nước có thể kiểm soát các dòng này bằng cách đặt hạn chế lên những dòng đi qua kênh chính thức.
+
+Tự do hoá tài khoản vốn, nói rộng, là nới lỏng các hạn chế lên dòng vốn qua biên giới. Kết quả được kỳ vọng là hội nhập tài chính cao hơn với nền kinh tế toàn cầu, thể hiện qua khối lượng vốn vào và ra lớn hơn.
+
+**Lý thuyết khác thực tế.** Mức hội nhập trên giấy và trên thực tế có thể khác nhau xa:
+
+| Trường hợp | Kiểm soát trên giấy | Dòng vốn thực tế |
+|---|---|---|
+| Một số nước Mỹ Latinh thập niên 1970 và 1980 (1970–80) | Có vẻ toàn diện | Vẫn khó ngăn vốn chảy ra trong thời kỳ khó khăn kinh tế |
+| Nhiều nước đang phát triển, gồm vài nước châu Phi | Không có kiểm soát đáng kể | Dòng vốn vào chỉ ở mức tối thiểu |
+
+**Khó đo lường.** Hai trường hợp trên cho thấy việc đo kiểm soát vốn, và do đó đo mức độ tự do hoá, rất khó. IMF có thẩm quyền đối với các hạn chế trên tài khoản vãng lai (giao dịch hàng hoá, dịch vụ), nhưng không có thẩm quyền đối với tài khoản vốn. Dù vậy, IMF vẫn duy trì một bản tổng hợp chi tiết về các hạn chế tài khoản vốn của các nước thành viên. Nhưng bản tổng hợp này, tốt nhất, cũng chỉ là chỉ dấu thô: nó ghi có quy định hay không, mà không đo được quy định đó mạnh đến đâu (cường độ) và có thực sự được thi hành không (hiệu lực).
 
 ### 2. Vì sao kiểm soát dòng vốn
 
-- Kiểm soát các giao dịch tài khoản vốn đại diện cho nỗ lực của một nước nhằm tự bảo vệ khỏi các rủi ro gắn với biến động của dòng vốn quốc tế. Kiểm soát vốn mang ý nghĩa đặc biệt trong bối cảnh chế độ tỷ giá cố định. Việc duy trì một chế độ như vậy có thể trở nên khó khăn hơn bởi dòng vốn không bị ràng buộc. Đây là một lý do vì sao ngay cả các nước công nghiệp cũng có tài khoản vốn tương đối đóng dưới hệ thống tỷ giá cố định Bretton Woods, vận hành từ cuối Thế chiến II đến năm 1973.
-- Tất nhiên có thể có nhiều lý do khác để duy trì kiểm soát, lên cả dòng vào lẫn dòng ra. Ở một nước có hệ thống ngân hàng mong manh, chẳng hạn, cho phép hộ gia đình đầu tư ra nước ngoài tự do có thể gây ra sự chảy máu của tiết kiệm trong nước và đe doạ khả năng tồn tại của hệ thống ngân hàng. Và dòng vốn vào ngắn hạn có thể bị đảo chiều nhanh chóng khi một nước bị một cú sốc vĩ mô bất lợi, qua đó khuếch đại tác động vĩ mô của nó.
-- Một số nước đang phát triển cũng dùng kiểm soát vốn để lái thành phần của dòng vốn vào sang các hình thức ổn định hơn, như FDI. Các nước ưa chuộng FDI, trong số các lý do khác, vì nó thường liên quan đến các dòng tương đối dài hạn và không chịu sự đảo chiều nhanh gắn với thay đổi tâm lý nhà đầu tư. Một số nước cũng đã dùng kiểm soát vốn chọn lọc để cố gây ra sự chuyển dịch từ dòng vốn ngắn hạn sang dài hạn hơn, trong trường hợp của Chile là bằng cách áp một khoản thuế ngầm lên dòng vốn vào bị đảo chiều trong vòng chưa đầy một năm.
+Kiểm soát vốn là nỗ lực của một nước nhằm tự bảo vệ khỏi những rủi ro đi kèm biến động của dòng vốn quốc tế. Bài nêu bốn lý do cụ thể.
+
+**Lý do 1: giữ tỷ giá cố định.** Kiểm soát vốn có ý nghĩa đặc biệt khi một nước theo chế độ tỷ giá cố định, vì dòng vốn tự do có thể làm việc giữ tỷ giá khó khăn hơn: khi vốn ồ ạt rút ra, ngân hàng trung ương phải bán ngoại tệ để giữ giá nội tệ cho đến khi cạn dự trữ. Đây là lý do ngay cả các nước công nghiệp cũng giữ tài khoản vốn tương đối đóng dưới hệ thống tỷ giá cố định Bretton Woods, vận hành từ cuối Thế chiến II đến năm 1973.
+
+**Lý do 2: bảo vệ hệ thống ngân hàng mong manh.** Ở một nước có hệ thống ngân hàng yếu, nếu cho hộ gia đình tự do đầu tư ra nước ngoài, tiền tiết kiệm trong nước có thể bị rút khỏi ngân hàng và chảy ra ngoài, đe doạ khả năng tồn tại của chính hệ thống ngân hàng.
+
+**Lý do 3: tránh dòng vốn ngắn hạn đảo chiều.** Dòng vốn vào ngắn hạn có thể đảo chiều rất nhanh khi một nước gặp cú sốc vĩ mô bất lợi. Khi đó vốn rút ra đúng lúc nền kinh tế đang gặp khó, khuếch đại tác động của cú sốc.
+
+**Lý do 4: lái thành phần dòng vốn sang dạng ổn định hơn.** Một số nước đang phát triển dùng kiểm soát vốn để hướng dòng vốn vào sang FDI. Các nước ưa FDI vì, trong số các lý do khác, FDI thường là dòng tương đối dài hạn và không bị đảo chiều nhanh theo tâm lý nhà đầu tư.
+
+Một số nước còn dùng **kiểm soát vốn chọn lọc** để chuyển dòng vốn từ ngắn hạn sang dài hạn. Ví dụ là Chile: nước này áp một khoản thuế ngầm lên dòng vốn vào nếu dòng vốn đó bị rút ra trong vòng chưa đầy một năm. Nhà đầu tư dài hạn gần như không bị ảnh hưởng, còn nhà đầu tư muốn vào rồi ra nhanh phải chịu chi phí cao hơn, nên dòng vốn vào chuyển dần sang kỳ hạn dài.
+
+| Lý do kiểm soát | Rủi ro muốn tránh |
+|---|---|
+| Tỷ giá cố định | Dòng vốn tự do làm cạn dự trữ, phá vỡ tỷ giá |
+| Ngân hàng mong manh | Tiết kiệm trong nước chảy ra ngoài |
+| Vốn ngắn hạn | Đảo chiều nhanh, khuếch đại cú sốc |
+| Thành phần dòng vốn | Quá nhiều vốn dễ rút, quá ít FDI |
 
 ### 3. Động cơ tự do hoá
 
-- Về lý thuyết, tự do hoá tài khoản vốn nên cho phép phân bổ vốn toàn cầu hiệu quả hơn, từ các nước công nghiệp giàu vốn sang các nền kinh tế đang phát triển nghèo vốn. Điều này nên có lợi ích rộng rãi: cung cấp tỷ suất sinh lời cao hơn cho tiết kiệm của người dân ở các nước công nghiệp và tăng tăng trưởng, cơ hội việc làm và mức sống ở các nước đang phát triển.
-- Tiếp cận thị trường vốn nên cho phép các nước "bảo hiểm" cho mình ở một mức độ nào đó chống lại các biến động trong thu nhập quốc dân, để mức tiêu dùng quốc gia tương đối ít biến động hơn. Vì thời tốt và thời xấu không đồng bộ giữa các nước, dòng vốn có thể, ở một mức độ nào đó, bù trừ biến động trong thu nhập quốc dân của chính các nước.
-- Tự do hoá tài khoản vốn cũng có thể được diễn giải như tín hiệu về cam kết của một nước với các chính sách kinh tế tốt. Với một nước có tài khoản vốn mở, sự xấu đi được cảm nhận trong môi trường chính sách của nước đó có thể bị trừng phạt bởi các nhà đầu tư trong và ngoài nước, những người có thể đột ngột rút vốn khỏi nước đó. Điều này tạo động lực mạnh mẽ để các nhà hoạch định áp dụng và duy trì các chính sách lành mạnh, với lợi ích rõ ràng về mặt tăng trưởng dài hạn. Dòng vốn vào từ tự do hoá cũng nên tạo thuận lợi cho việc chuyển giao bí quyết công nghệ và quản lý nước ngoài và khuyến khích cạnh tranh và phát triển tài chính, qua đó thúc đẩy tăng trưởng.
+Về lý thuyết, tự do hoá có bốn lợi ích.
+
+**Phân bổ vốn hiệu quả hơn.** Tự do hoá cho phép vốn chảy từ các nước công nghiệp giàu vốn sang các nước đang phát triển nghèo vốn, nơi vốn khan hiếm nên có khả năng sinh lời cao hơn. Lợi ích rộng cho cả hai phía: người tiết kiệm ở nước công nghiệp có tỷ suất sinh lời cao hơn; nước đang phát triển có thêm tăng trưởng, việc làm và mức sống cao hơn.
+
+**"Bảo hiểm" chống biến động thu nhập.** Tiếp cận thị trường vốn quốc tế cho phép một nước tự bảo hiểm phần nào trước các biến động của thu nhập quốc dân, để tiêu dùng của người dân ổn định hơn. Điều này khả thi vì thời tốt và thời xấu không đồng bộ giữa các nước: khi một nước gặp năm xấu, nước khác có thể đang tốt và sẵn sàng cho vay, nên dòng vốn có thể bù trừ một phần biến động.
+
+**Tín hiệu cam kết chính sách tốt.** Một nước mở tài khoản vốn tự đặt mình dưới sự giám sát của nhà đầu tư. Nếu môi trường chính sách bị coi là xấu đi, cả nhà đầu tư trong nước lẫn nước ngoài có thể đột ngột rút vốn. Mối đe doạ này tạo động lực mạnh để nhà hoạch định áp dụng và duy trì chính sách lành mạnh, và điều đó có lợi rõ ràng cho tăng trưởng dài hạn.
+
+**Chuyển giao công nghệ và phát triển tài chính.** Dòng vốn vào cũng tạo thuận lợi cho việc chuyển giao công nghệ và bí quyết quản lý từ nước ngoài, đồng thời khuyến khích cạnh tranh và phát triển khu vực tài chính, qua đó thúc đẩy tăng trưởng.
 
 ### 4. Bằng chứng nói gì
 
-- Tuy nhiên, bằng chứng không thuyết phục bằng lý thuyết. Trong khi các nước thị trường mới nổi đã tự do hoá tài khoản vốn thường có tỷ lệ tăng trưởng cao hơn, trung bình, so với các nước chưa làm vậy, sự liên hệ này không hàm ý quan hệ nhân quả. Phân tích thống kê gợi ý rằng, sau khi kiểm soát tác động của các yếu tố khác, tác động nhân quả của tự do hoá tài khoản vốn lên tăng trưởng là yếu, nếu có.
-- Cũng có một số bằng chứng rằng các nước thị trường mới nổi đã không thể dùng thị trường tài chính quốc tế một cách hiệu quả để giảm biến động tiêu dùng. Thực tế, các khủng hoảng tài chính đã xảy ra ở những nền kinh tế này gắn với sự sụt giảm mạnh cả thu nhập lẫn tiêu dùng. Và có vẻ có một yếu tố thuận chu kỳ đáng kể trong khả năng tiếp cận thị trường vốn quốc tế của các nước như vậy. Nhà đầu tư quốc tế sẵn sàng cho họ vay khi thời tốt nhưng có xu hướng rút lui khi thời xấu, qua đó khuếch đại các dao động trong nền kinh tế vĩ mô trong nước.
-- Tự do hoá có đáng liều không? Câu trả lời, như với hầu hết những việc như vậy, là còn tuỳ. Tự do hoá tài khoản vốn rõ ràng không phải là phúc lành vô điều kiện và gây ra rủi ro lớn nếu được thực hiện trong hoàn cảnh bất lợi, đặc biệt nếu không có các chính sách hỗ trợ.
-- Việc mở tài khoản vốn trong khi duy trì chế độ tỷ giá cố định, nhất là khi chính sách vĩ mô trong nước không nhất quán với yêu cầu của chế độ đó, đã được theo sau bởi khủng hoảng ở nhiều nước. Các nước duy trì hoặc chỉ nới lỏng dần kiểm soát vốn trong khi tiến tới chế độ tỷ giá linh hoạt hơn nhìn chung có vẻ đã có kết quả tốt hơn.
-- Nền tảng vĩ mô yếu cũng có thể gây vấn đề. Chẳng hạn, tự do hoá tài khoản vốn có thể làm trầm trọng thêm các rủi ro gắn với chính sách tài khoá thiếu thận trọng bằng cách cho phép tiếp cận vay nợ nước ngoài quá mức. Việc mở tài khoản vốn quá sớm cũng gây rủi ro nghiêm trọng khi quy định và giám sát tài chính không đầy đủ. Trước một hệ thống ngân hàng được quản lý yếu kém và các méo mó khác trong thị trường vốn trong nước, dòng vốn nước ngoài có thể bị phân bổ sai và tạo ra hàng loạt vấn đề.
+**Tác động lên tăng trưởng yếu.** Bằng chứng không thuyết phục bằng lý thuyết. Các nước thị trường mới nổi đã tự do hoá tài khoản vốn thường có tăng trưởng trung bình cao hơn các nước chưa tự do hoá. Nhưng tương quan đó không hàm ý quan hệ nhân quả: có thể các nước vốn đã tăng trưởng tốt mới dám mở cửa. Phân tích thống kê, sau khi kiểm soát tác động của các yếu tố khác, cho thấy tác động nhân quả của tự do hoá lên tăng trưởng là yếu, nếu có.
+
+**Không làm mượt được tiêu dùng.** Có bằng chứng rằng các nước thị trường mới nổi đã không dùng được thị trường tài chính quốc tế hiệu quả để giảm biến động tiêu dùng. Thực tế, các cuộc khủng hoảng tài chính ở các nền kinh tế này đi kèm sụt giảm mạnh cả thu nhập lẫn tiêu dùng, tức là ngược hẳn với lý thuyết "bảo hiểm".
+
+**Dòng vốn thuận chu kỳ.** Khả năng tiếp cận thị trường vốn quốc tế của các nước này có yếu tố thuận chu kỳ đáng kể. Nhà đầu tư quốc tế sẵn sàng cho vay khi thời tốt nhưng rút lui khi thời xấu, nên dòng vốn khuếch đại thay vì làm dịu các dao động kinh tế vĩ mô trong nước.
+
+| Lợi ích lý thuyết | Bằng chứng |
+|---|---|
+| Tăng trưởng cao hơn | Có tương quan, nhưng tác động nhân quả yếu, nếu có |
+| Tiêu dùng ổn định hơn | Không: khủng hoảng đi kèm sụt giảm mạnh cả thu nhập lẫn tiêu dùng |
+| Dòng vốn bù trừ biến động | Ngược lại: dòng vốn thuận chu kỳ, khuếch đại dao động |
+
+**Có đáng liều không?** Câu trả lời của bài, như với hầu hết những câu hỏi như vậy, là "còn tuỳ". Tự do hoá rõ ràng không phải phúc lành vô điều kiện, và gây rủi ro lớn nếu thực hiện trong hoàn cảnh bất lợi, nhất là khi không có các chính sách hỗ trợ đi kèm. Bài nêu ba hoàn cảnh nguy hiểm:
+
+- **Mở tài khoản vốn trong khi vẫn giữ tỷ giá cố định**, nhất là khi chính sách vĩ mô trong nước không nhất quán với yêu cầu của chế độ tỷ giá đó. Tổ hợp này đã được theo sau bởi khủng hoảng ở nhiều nước. Ngược lại, các nước giữ kiểm soát vốn, hoặc chỉ nới dần, trong khi chuyển sang tỷ giá linh hoạt hơn nhìn chung có kết quả tốt hơn.
+- **Nền tảng vĩ mô yếu.** Ví dụ, tự do hoá có thể làm trầm trọng thêm rủi ro từ chính sách tài khoá thiếu thận trọng, vì nó cho chính phủ tiếp cận vay nợ nước ngoài quá mức.
+- **Quy định và giám sát tài chính không đầy đủ.** Mở tài khoản vốn quá sớm, khi hệ thống ngân hàng được quản lý yếu kém và thị trường vốn trong nước có nhiều méo mó, khiến dòng vốn nước ngoài bị phân bổ sai và tạo ra hàng loạt vấn đề.
 
 ### 5. Một nước nên làm gì
 
-- Trong khi bằng chứng gợi ý rằng có các rủi ro chuyển tiếp gắn với việc mở tài khoản vốn, việc chống lại tự do hoá trong một thời gian kéo dài có thể tỏ ra vô ích và phản tác dụng. Khi các lực toàn cầu hoá tiến lên, các nước càng khó duy trì tài khoản vốn đóng. Mức độ mở cửa ngày càng tăng với thương mại quốc tế mở rộng các cơ hội lách hạn chế tài khoản vốn qua việc khai giảm và khai khống các giao dịch thương mại. Và sự tinh vi ngày càng tăng của nhà đầu tư và thị trường tài chính toàn cầu khiến việc di chuyển vốn dưới nhiều vỏ bọc khác nhau dễ hơn nhiều.
-- Một chiến lược khả dĩ là chấp nhận rủi ro và tiến lên trong khi kiểm soát rủi ro nhiều nhất có thể. Lịch sử và kinh nghiệm quốc tế cung cấp một kim chỉ nam. Các chính sách và thể chế trong nước lành mạnh, một khung quy định thúc đẩy một khu vực tài chính mạnh và hiệu quả, cùng các hệ thống và thủ tục hiệu quả để giám sát dòng vốn sẽ cải thiện đáng kể cơ hội bảo đảm rằng dòng vốn nuôi dưỡng tăng trưởng bền vững.
-- Đáng chú ý là các lợi ích của việc mở cửa tài khoản vốn về mặt tăng trưởng cao hơn và biến động thấp hơn có vẻ rõ ràng nhất đối với các nền kinh tế công nghiệp, cũng là những nước thường có tài khoản vốn mở nhất. Dù có vẻ ngược trực giác, các trải nghiệm tương đối tích cực hơn của các nước công nghiệp do đó gợi ý rằng, với các nền kinh tế đang phát triển, hội nhập tài chính nhiều hơn, chứ không phải ít hơn, là câu trả lời. Nhưng chỉ khi nó được làm đúng cách. Có lẽ đáng chú ý nhất, ở tất cả các nền kinh tế tiên tiến và nhiều nước khác, tài khoản vốn mở nay được coi là đương nhiên: không nước nào đã tự do hoá tài khoản vốn trong các thập kỷ gần đây đảo ngược quá trình đó ngoài việc tạm thời.
+**Chống lại lâu dài là vô ích.** Dù có rủi ro trong giai đoạn chuyển tiếp, việc chống lại tự do hoá trong thời gian dài có thể vô ích và phản tác dụng, vì ba lý do:
+
+- Toàn cầu hoá càng tiến lên, càng khó giữ tài khoản vốn đóng.
+- Mở cửa thương mại tạo cơ hội lách kiểm soát vốn qua khai giảm và khai khống giá trị giao dịch thương mại. Ví dụ minh hoạ: một nhà nhập khẩu khai hoá đơn 1,2 triệu USD cho lô hàng thật ra chỉ trị giá 1 triệu USD, và phần chênh lệch nằm lại ở nước ngoài.
+- Nhà đầu tư và thị trường tài chính toàn cầu ngày càng tinh vi, nên việc chuyển vốn dưới nhiều vỏ bọc khác nhau ngày càng dễ.
+
+**Chiến lược khả dĩ: chấp nhận rủi ro và tiến lên, nhưng kiểm soát rủi ro nhiều nhất có thể.** Lịch sử và kinh nghiệm quốc tế cho thấy ba điều kiện làm tăng mạnh khả năng dòng vốn nuôi dưỡng tăng trưởng bền vững:
+
+1. Chính sách và thể chế trong nước lành mạnh.
+2. Một khung quy định thúc đẩy khu vực tài chính mạnh và hiệu quả.
+3. Hệ thống và thủ tục hiệu quả để giám sát dòng vốn.
+
+**Kết luận ngược trực giác.** Lợi ích của mở cửa tài khoản vốn, về tăng trưởng cao hơn và biến động thấp hơn, rõ ràng nhất ở các nền kinh tế công nghiệp, cũng là những nước thường có tài khoản vốn mở nhất. Từ kinh nghiệm tương đối tích cực đó, bài kết luận rằng với các nền kinh tế đang phát triển, câu trả lời là hội nhập tài chính **nhiều hơn, chứ không phải ít hơn**. Nhưng chỉ khi được làm đúng cách.
+
+Điểm đáng chú ý nhất, theo bài: ở mọi nền kinh tế tiên tiến và nhiều nước khác, tài khoản vốn mở nay được coi là đương nhiên. Không nước nào đã tự do hoá tài khoản vốn trong các thập kỷ gần đây đảo ngược quá trình đó, ngoài việc tạm thời.
 
 ## Thuật ngữ
 

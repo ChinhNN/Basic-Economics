@@ -263,85 +263,225 @@ Dự án kéo dài ba năm (5/2023 – 4/2026), do Chính phủ Nhật Bản tà
 
 3. **Cần làm gì tiếp?** Việc quan trọng nhất không còn là kỹ thuật mà là thể chế: lập lại kênh để kết quả phân tích của nhóm đến được người ra quyết định, qua Tổ Điều phối Kinh tế Vĩ mô mới thành lập. Kèm theo đó là giữ người, ưu tiên người có nền tảng vĩ mô, lập chu trình dự báo khớp lịch chính sách, và đánh giá hậu kiểm dự báo. Phía Việt Nam muốn dự án tiếp theo mở rộng sang phân tích đầu tư công, chính sách thuế và chi cụ thể, và làm rõ hơn kênh truyền dẫn tín dụng của chính sách tiền tệ.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Khung kinh tế vĩ mô đa khu vực (macroeconomic framework).** Một bộ dự báo trong đó bốn khu vực của nền kinh tế được tính cùng lúc và khớp với nhau: khu vực thực (sản xuất, tiêu dùng, đầu tư), khu vực đối ngoại (xuất nhập khẩu, cán cân vãng lai, dự trữ), khu vực tài khoá (thu, chi, bội chi, nợ công) và khu vực tiền tệ (tiền, tín dụng, lãi suất). "Khớp" nghĩa là các con số phải nhất quán về kế toán: ví dụ minh hoạ, nếu dự báo nhập khẩu tăng thêm 10 tỷ USD thì con số đó phải xuất hiện đồng thời ở phía GDP (làm giảm xuất khẩu ròng) và ở phía cán cân thanh toán (làm giảm thặng dư vãng lai). Báo cáo nói trước dự án Việt Nam chưa có một khung như vậy, vì mỗi bộ tự dự báo phần của mình.
+
+**Phương trình hành vi và hiệu chỉnh tham số (behavioral equation, calibration).** Phương trình hành vi mô tả cách một nhóm người trong nền kinh tế phản ứng, ví dụ hộ gia đình tiêu dùng bao nhiêu khi thu nhập tăng. Hiệu chỉnh là chọn con số cho các hệ số dựa vào lý thuyết và phán đoán, thay vì để máy tính hồi quy từ số liệu. Ví dụ trong bài: hệ số 0,70 của thu nhập khả dụng trong phương trình tiêu dùng nghĩa là thu nhập tăng thêm 1 điểm phần trăm thì tiêu dùng tăng thêm khoảng 0,7 điểm phần trăm trong năm đó. Nhóm chọn hiệu chỉnh vì chuỗi số liệu Việt Nam ngắn và có gãy cấu trúc, nên hồi quy cho kết quả thiếu ổn định.
+
+**GDP tiềm năng và chênh lệch sản lượng (potential GDP, output gap).** GDP tiềm năng là mức sản lượng nền kinh tế làm ra được khi dùng vốn và lao động ở mức bình thường, không quá nóng cũng không quá nguội. Chênh lệch sản lượng là GDP thực tế trừ GDP tiềm năng. Ví dụ minh hoạ: nếu GDP tiềm năng là 100 và GDP thực tế là 102, chênh lệch sản lượng là +2%, nền kinh tế đang chạy quá công suất và có áp lực tăng giá. Trong bài, ước lượng tăng trưởng tiềm năng của nhóm thấp hơn mục tiêu kế hoạch 2026–2030, và đó là điểm nhạy cảm nhất khi trình bày.
+
+**Bộ lọc Hodrick–Prescott (HP filter).** Một phương pháp thống kê tách một chuỗi số liệu thành phần xu hướng trơn và phần dao động quanh xu hướng. Điểm yếu của nó là ở cuối chuỗi, xu hướng bị kéo theo vài quan sát mới nhất; để giảm sai lệch này, người ta nối thêm số dự báo vào cuối chuỗi trước khi lọc. Nhóm dùng bộ lọc này để ước lượng GDP tiềm năng và các thành phần của hàm sản xuất.
+
+**Kịch bản cơ sở, kịch bản thay thế và phân tích độ nhạy (baseline, alternative scenario, sensitivity analysis).** Kịch bản cơ sở là dự báo khi chỉ đưa vào những chính sách chắc chắn sẽ được thực hiện. Kịch bản thay thế là dự báo khi giả định thêm một thay đổi, ví dụ nới lỏng tài khoá và tiền tệ. Phân tích độ nhạy là thay một giả định một chút để xem kết quả thay đổi bao nhiêu; trong bài, nhóm thử tăng hoặc giảm chi tiêu 1% GDP, lãi suất và tỷ giá 1 điểm. Cách làm này giúp người ra quyết định thấy cái giá của từng lựa chọn thay vì chỉ thấy một con số.
+
+**Phân tích động lực nợ công (debt dynamics).** Cách tính nợ công trên GDP sẽ đi về đâu, dựa trên bốn yếu tố: cân đối ngân sách cơ bản (thu trừ chi, không tính trả lãi), lãi suất, tăng trưởng và tỷ giá. Ví dụ minh hoạ: nợ 30% GDP, lãi suất bằng tăng trưởng danh nghĩa, ngân sách cơ bản thâm hụt 1% GDP mỗi năm thì sau năm năm nợ lên khoảng 35% GDP. Công cụ DDT của IMF làm phép tính này, và kết quả chính của nhóm là nợ Việt Nam nhạy nhất với cân đối ngân sách cơ bản.
+
+**Tác động ngắn hạn và dài hạn khi có quán tính.** Khi một biến phụ thuộc vào chính nó năm trước (quán tính), tác động của một cú sốc tích luỹ dần qua các năm. Tác động dài hạn bằng tác động năm đầu chia cho (1 trừ hệ số quán tính). Ví dụ trong bài: phương trình xuất khẩu có quán tính 0,90 và hệ số tỷ giá 0,10, nên tác động năm đầu nhỏ (0,10) nhưng tác động dài hạn là 0,10 / (1 − 0,90) = 1,0. Phân biệt này quan trọng vì dự báo trung hạn năm năm chịu tác động gần với mức dài hạn hơn.
+
+**Đánh giá hậu kiểm (ex-post evaluation).** So dự báo đã làm với số liệu thực tế khi nó được công bố, để biết công cụ sai bao nhiêu và sai theo hướng nào. Ví dụ minh hoạ: nếu nhóm dự báo tăng trưởng 6,5% nhưng thực tế là 7,0%, hậu kiểm hỏi phần chênh 0,5 điểm đến từ giả định nào. Đây là cách duy nhất kiểm tra các hệ số do nhóm tự hiệu chỉnh có đúng không, và trong bài nó được đặt hạn tháng 9/2026, sau khi dự án kết thúc.
+
+## Nội dung chi tiết
 
 ### 1. Bối cảnh kinh tế vĩ mô
 
-Theo báo cáo tham vấn Điều IV năm 2025 của IMF: trong 2023–2025, tăng trưởng GDP thực đạt 5–8%/năm, lạm phát bình quân khoảng 3,3–3,6%, thặng dư vãng lai khoảng 6,4–6,7% GDP, và nợ công khoảng 30% GDP. Rủi ro chính là bất định về thương mại toàn cầu, điều kiện tài chính thế giới thắt chặt, và áp lực lạm phát từ rủi ro địa chính trị.
+Báo cáo mở đầu bằng bức tranh kinh tế Việt Nam theo báo cáo tham vấn Điều IV năm 2025 của IMF, để cho thấy nhóm dự báo sẽ phải làm việc với một nền kinh tế như thế nào:
 
-Khuyến nghị của IMF:
-- **Tài khoá**: dẫn dắt hỗ trợ nếu tăng trưởng giảm mạnh.
-- **Khuôn khổ tài khoá trung hạn**: cần mạnh hơn để đầu tư công lớn phát huy tác dụng.
-- **Tiền tệ**: dư địa nới lỏng hạn chế; tỷ giá cần linh hoạt hơn; hiện đại hoá khung chính sách.
+| Chỉ tiêu, giai đoạn 2023–2025 | Mức |
+|---|---|
+| Tăng trưởng GDP thực | 5–8%/năm |
+| Lạm phát bình quân | khoảng 3,3–3,6% |
+| Thặng dư cán cân vãng lai | khoảng 6,4–6,7% GDP |
+| Nợ công | khoảng 30% GDP |
+
+Đây là một nền kinh tế tăng trưởng nhanh, lạm phát vừa phải, thặng dư đối ngoại lớn và nợ công thấp. Rủi ro chính nằm ở bên ngoài: bất định về thương mại toàn cầu, điều kiện tài chính thế giới thắt chặt, và áp lực lạm phát từ rủi ro địa chính trị.
+
+Khuyến nghị của IMF trong Điều IV:
+
+- **Tài khoá**: dẫn dắt việc hỗ trợ nền kinh tế nếu tăng trưởng giảm mạnh.
+- **Khuôn khổ tài khoá trung hạn**: cần mạnh hơn để kế hoạch đầu tư công lớn phát huy tác dụng.
+- **Tiền tệ**: dư địa nới lỏng hạn chế; tỷ giá cần linh hoạt hơn; hiện đại hoá khung chính sách tiền tệ.
 - **Ngân hàng**: tăng đệm thanh khoản và vốn.
 - **Cải cách cơ cấu**: đẩy nhanh để nâng năng suất.
 
-Dự án này là một phần trong quan hệ phát triển năng lực rộng hơn của IMF với Việt Nam: quản lý thu, khung kinh tế vĩ mô, khung chính sách tiền tệ, kiểm tra sức chịu đựng ngân hàng, giám sát và thống kê.
+Dự án này là một phần trong quan hệ phát triển năng lực rộng hơn của IMF với Việt Nam, bao gồm quản lý thu, khung kinh tế vĩ mô, khung chính sách tiền tệ, kiểm tra sức chịu đựng ngân hàng, giám sát và thống kê. Dự án kéo dài ba năm, từ 5/2023 đến 4/2026, do Chính phủ Nhật Bản tài trợ qua Văn phòng Phát triển Năng lực của IMF tại Thái Lan (CDOT).
 
 ### 2. Vì sao cần nhóm liên bộ
 
-Bộ Kế hoạch và Đầu tư khi đó quản lý chiến lược, quy hoạch, đầu tư, và là đầu mối điều phối Tổ 1317. Phạm vi của tổ gồm:
+**Bộ máy trước sáp nhập.** Trong 2023–2024, Bộ Kế hoạch và Đầu tư quản lý chiến lược, quy hoạch, đầu tư, và là đầu mối điều phối Tổ công tác 1317. Tổ này được lập theo Quyết định 1317 của Thủ tướng năm 2013, gồm các bộ, ngành Kế hoạch và Đầu tư, Tài chính, Ngân hàng Nhà nước, Công Thương, họp theo quý. Phạm vi của tổ gồm:
+
 - Đề xuất chỉ tiêu vĩ mô hằng năm và trung hạn.
 - Chia sẻ thông tin về đầu tư, tiền tệ, tín dụng, tài khoá, thương mại, giá.
 - Nâng năng lực phân tích và dự báo tác động chính sách.
 - Cung cấp số liệu cho tài khoản quốc gia và cán cân thanh toán.
 - Đề xuất kịch bản ứng phó với biến động bên ngoài.
 
-Vấn đề là phân tích được làm rời rạc ở từng vụ, bằng phương pháp và số liệu khác nhau, kết quả không phải lúc nào cũng công khai.
+Vấn đề là phân tích được làm rời rạc ở từng vụ, bằng phương pháp và số liệu khác nhau, kết quả không phải lúc nào cũng công khai. Không có một bộ dự báo chung mà mọi bộ cùng nhìn vào.
 
-Đoàn IMF khuyến nghị đưa cán bộ của tất cả các bộ trong Tổ 1317 vào nhóm, để giải quyết việc thu thập số liệu phân tán và bao quát được mọi khu vực, mọi loại chính sách. Nhóm gồm hai lớp: cán bộ cao cấp có kinh nghiệm để dẫn dắt, và cán bộ trẻ để đảm bảo tính liên tục. Quyết định số 1628 (6/3/2024) quy định rõ:
+**Thiết kế nhóm.** Đoàn IMF khuyến nghị đưa cán bộ của tất cả các bộ trong Tổ 1317 vào nhóm, vì hai lý do: giải quyết việc số liệu nằm rải rác ở nhiều cơ quan, và bao quát được mọi khu vực, mọi loại chính sách. Nhóm có hai lớp: cán bộ cao cấp có kinh nghiệm để dẫn dắt, và cán bộ trẻ để đảm bảo tính liên tục. Nhóm, gọi là Nhóm Công tác Nòng cốt (CWG), đặt tại Vụ Tài chính Tiền tệ của Bộ Kế hoạch và Đầu tư, do Vụ trưởng Nguyễn Thế Ngạn và Phó Vụ trưởng Hoàng Thị Hồng phụ trách.
+
+Quyết định số 1628 (6/3/2024) quy định rõ:
+
 - **Năm nhiệm vụ**: dữ liệu, công cụ, đánh giá và dự báo, báo cáo, sổ tay.
-- **Quy tắc làm việc**: tham gia đầy đủ, ba nhóm nhỏ, phối hợp qua ổ đĩa dùng chung; Vụ Tài chính Tiền tệ làm thư ký.
+- **Quy tắc làm việc**: tham gia đầy đủ, chia thành ba nhóm nhỏ, phối hợp qua ổ đĩa dùng chung; Vụ Tài chính Tiền tệ làm thư ký.
 - **Quan hệ với Tổ 1317**: trình bày tại mỗi cuộc họp quý.
+
+**Tiến trình chín đợt công tác:**
+
+| Thời gian | Đợt | Việc chính |
+|---|---|---|
+| 6–7/2023 | Đợt 1 | Khảo sát, thống nhất kế hoạch; thảo luận thành lập nhóm |
+| 8–10/2023 | | Quyết định 6929 (28/8) công bố lập nhóm; Quyết định 8261-62 (5/10) chính thức lập nhóm liên bộ |
+| 10/2023 | Đợt 2 | Hoàn tất dữ liệu đầu vào; khoá lập trình tài chính 1 tuần |
+| 12/2023 | | Có đủ số liệu 4 khu vực đến năm 2022 (tài khoá mất nhiều thời gian nhất do khác định dạng) |
+| 3/2024 | Đợt 3 | Hiệu chỉnh phương trình, dự báo đầu tiên; trình bày với Thứ trưởng Bộ Kế hoạch và Đầu tư; Quyết định 1628 (6/3) giao nhiệm vụ |
+| 6/2024 | Đợt 4 | Kịch bản cơ sở và kịch bản thay thế; thử nghiệm lỗi |
+| 10/2024 | Đợt 5 | Thêm công cụ DDT; dự báo vĩ mô và nợ đầy đủ; **trình bày tại Tổ 1317** |
+| | | *Sáp nhập Bộ Kế hoạch và Đầu tư vào Bộ Tài chính* |
+| 3/2025 | Đợt 6 | Giữ lại nhóm; đào tạo người mới |
+| 7/2025 | Đợt 7 | Giới thiệu lại DDT; phân tích căng thẳng thương mại; trình bày với lãnh đạo Bộ Tài chính |
+| 12/2025 | Đợt 8 | Hoàn thành sổ tay; tiếp tục đào tạo |
+| 3/2026 | Đợt 9 | Kết thúc: nhóm tự vận hành công cụ; thảo luận báo cáo |
+
+**Bộ máy sau sáp nhập (3/2025).** Số bộ và cơ quan ngang bộ giảm từ 30 xuống 22. Bộ Tài chính nhận thêm các mảng quy hoạch phát triển, đầu tư trong nước và nước ngoài, và thống kê. Tổng cục Thống kê trở thành Cục Thống kê thuộc Bộ Tài chính. Viện Chiến lược Phát triển được sáp nhập vào viện NIEF (National Institute for Economic and Finance) của Bộ Tài chính. Viện Nghiên cứu Quản lý Kinh tế Trung ương không chuyển sang Bộ Tài chính. Nhóm CWG chuyển về Vụ Các định chế tài chính của Bộ Tài chính, do Vũ Đức Hội, Hoàng Thị Hồng và Hồ Việt Hương phụ trách.
+
+Ở phía điều phối, Tổ 1317 không còn tồn tại theo hình thức cũ. Thay vào đó, Thủ tướng lập Ban Chỉ đạo Kinh tế Vĩ mô (12/2025), dưới đó có Tổ Điều phối Kinh tế Vĩ mô do Bộ Tài chính chủ trì (3/2026). Đến khi dự án kết thúc, **chưa có kênh nối** giữa nhóm CWG và tổ điều phối mới. Dự án hỗ trợ kỹ thuật tiếp theo được giao cho NIEF.
+
+**Tác động của tái cơ cấu lên nhóm:**
+
+| | 12/2024 | 3/2026 |
+|---|---|---|
+| Tổng số thành viên | 31 người | 28 người |
+| Phân theo cơ quan | Bộ Kế hoạch và Đầu tư 15, Ngân hàng Nhà nước 5, Bộ Tài chính 3, Tổng cục Thuế 7, Bộ Công Thương 1 | Bộ Tài chính 19, Ngân hàng Nhà nước 8, Bộ Công Thương 1 |
+| Nhóm phân tích (người vận hành công cụ) | 10 người | chỉ 2 người trong số đó còn làm phân tích; 2 người khác ở lại nhưng chuyển nhóm; 6 người rời nhóm |
+
+Chỉ 14 trong 31 người (45%) ở lại qua sáp nhập; 17 người rời nhóm. Mất mát tập trung đúng ở phần năng lực khó thay thế nhất: những người biết vận hành mô hình.
+
+Cách ứng phó:
+
+- Giữ nguyên quy mô khoảng 25 người, bổ sung từ Bộ Tài chính và Ngân hàng Nhà nước.
+- Người mới phần lớn trẻ, ít nền tảng kinh tế vĩ mô, nên phải đào tạo lại.
+- Hoãn giai đoạn 2 (mở rộng công cụ), tập trung vận hành cái đã có.
+- Đẩy nhanh sổ tay: hơn nửa xong cuối 2024, hoàn thành 12/2025.
 
 ### 3. Chọn công cụ và xây dữ liệu
 
-MFT và DDT được chọn vì phù hợp nhu cầu, năng lực hấp thụ của một nhóm mới lập, và mức sẵn có của số liệu. Kế hoạch gồm hai giai đoạn: dùng bản chuẩn trong 2023–24, mở rộng tính năng trong 2025–26. Giai đoạn hai bị hoãn sau tái cơ cấu.
+**Vì sao chọn MFT và DDT.** Hai công cụ Excel của IMF được chọn vì phù hợp nhu cầu, phù hợp năng lực hấp thụ của một nhóm mới lập, và phù hợp mức sẵn có của số liệu. MFT (Công cụ Nền tảng Khung Kinh tế Vĩ mô) đã được dùng trong hỗ trợ kỹ thuật cho 15 nước tính đến cuối 2025. Kế hoạch gồm hai giai đoạn: dùng bản chuẩn trong 2023–24, mở rộng tính năng trong 2025–26. Giai đoạn hai bị hoãn sau tái cơ cấu.
 
-Nguyên tắc dữ liệu:
+**MFT hoạt động thế nào.** Đầu vào gồm số liệu trong nước và thế giới (khoảng 60 biến, đặt trong 6 trang tính Excel), 5 phương trình hành vi (tiêu dùng, đầu tư, xuất khẩu, nhập khẩu, lạm phát), cùng các giả định chính sách và biến ngoại sinh. Đầu ra là dự báo đồng thời và nhất quán cả về kế toán lẫn về kinh tế cho GDP, lạm phát, cán cân vãng lai, dự trữ, bội chi, nợ công, tiền và tín dụng. Vì các khu vực ảnh hưởng lẫn nhau, công cụ giải lặp cho đến khi các con số hội tụ.
+
+Các luồng phản hồi chính giữa các khu vực:
+
+- Tiêu dùng, đầu tư, xuất khẩu và nhập khẩu nhân với giá cho ra GDP danh nghĩa.
+- GDP thực trừ GDP tiềm năng cho ra chênh lệch sản lượng, và chênh lệch này tác động lên lạm phát.
+- Chênh lệch giữa tiết kiệm và đầu tư của khu vực tư nhân và chính phủ cho ra thâm hụt (hoặc thặng dư) vãng lai.
+- Phần thâm hụt đó phải được tài trợ bằng vay trong nước, vay nước ngoài, dòng vốn hoặc tiền.
+- Chính sách đi vào mô hình qua tài khoá (chi tiêu, thuế) và tiền tệ (lãi suất, tỷ giá).
+
+**Nguyên tắc dữ liệu:**
+
 - Dùng số liệu **đã công bố chính thức**; tự ước tính khi thiếu, rồi thay bằng số chính thức khi có.
 - Trình bày theo chuẩn thống kê quốc tế, lập bảng chuyển đổi từ định dạng Việt Nam.
 - Kiểm tra nhất quán trong và giữa các khu vực, đối chiếu với báo cáo Điều IV.
 - Hệ thống tệp mở cho mọi thành viên từ mọi cơ quan.
 
-Khu vực thực có số liệu ngay trong đợt khảo sát; khu vực đối ngoại và tiền tệ xong vào tháng 10/2023; khu vực tài khoá mất nhiều thời gian nhất vì số liệu Bộ Tài chính công bố khác định dạng và phân loại. Số liệu đối tác thương mại và thế giới lấy từ Triển vọng Kinh tế Thế giới của IMF.
+Tiến độ dữ liệu không đều giữa các khu vực. Khu vực thực có số liệu ngay trong đợt khảo sát; khu vực đối ngoại và tiền tệ xong vào tháng 10/2023; khu vực tài khoá mất nhiều thời gian nhất vì số liệu Bộ Tài chính công bố khác định dạng và cách phân loại so với chuẩn quốc tế. Số liệu đối tác thương mại và thế giới lấy từ Triển vọng Kinh tế Thế giới của IMF.
 
 ### 4. Hiệu chỉnh phương trình
 
-Năm phương trình và ý nghĩa của chúng đã trình bày ở sơ đồ. Báo cáo khuyến nghị nhóm ghi lại lý do kinh tế đằng sau mỗi tham số và ràng buộc, để các lần cập nhật sau nhất quán và dễ chuyển giao. Nếu thêm biến giải thích, cần tránh thêm biến nội sinh vào vế phải (phải lặp thêm để giải), giữ mô hình đơn giản và đúng nguyên lý kinh tế.
+Nhóm hiệu chỉnh năm phương trình hành vi cho Việt Nam. Các hệ số được chọn theo lý thuyết và phán đoán, **không hồi quy trực tiếp**, vì chuỗi số liệu ngắn, có gãy cấu trúc, và hồi quy cho hệ số trái trực giác hoặc dự báo không ổn định. Hồi quy chỉ dùng để đối chiếu. Mô hình có thêm ràng buộc và cơ chế hiệu chỉnh sai số để đảm bảo các biến hội tụ về trạng thái ổn định. Tất cả các phương trình đều viết theo tốc độ tăng trưởng (trừ lạm phát).
+
+**Phương trình 1, tiêu dùng tư nhân:**
+
+C = 0,30 × C (năm trước) + 0,70 × thu nhập khả dụng − 0,15 × thay đổi lãi suất thực
+
+Về dài hạn, tiêu dùng được kéo về 58% GDP tiềm năng, mỗi năm điều chỉnh 1/5 khoảng cách. Ý nghĩa: tiêu dùng của người Việt Nam chủ yếu đi theo **thu nhập** và ít nhạy với lãi suất, vì vay tiêu dùng còn hạn chế và chính sách tiền tệ truyền qua tín dụng tiêu dùng yếu.
+
+**Phương trình 2, đầu tư tư nhân:**
+
+I = 1,00 × thay đổi tăng trưởng GDP + 1,00 × tăng trưởng tiềm năng − 0,50 × thay đổi lãi suất thực
+
+Về dài hạn, đầu tư được kéo về 30% GDP tiềm năng. Đây là dạng "gia tốc": đầu tư phản ứng với thay đổi của tăng trưởng. Hệ số lãi suất 0,50 gấp 3 lần hệ số trong phương trình tiêu dùng, nghĩa là đầu tư nhạy mạnh với cả chu kỳ kinh tế lẫn chi phí vốn.
+
+**Phương trình 3, xuất khẩu:**
+
+X = 0,90 × X (năm trước) + 0,74 × nhập khẩu của đối tác − 0,62 × nhập khẩu của đối tác (năm trước) − 0,10 × tỷ giá thực hiệu dụng
+
+Xuất khẩu chủ yếu do cầu bên ngoài chi phối. Tác động của tỷ giá trong **ngắn hạn** nhỏ, mà báo cáo giải thích là do xuất khẩu gắn với chuỗi giá trị và hợp đồng thường tính bằng USD. Nhưng vì quán tính 0,90 rất cao, tác động tích luỹ lớn hơn nhiều. Tự tính độ co giãn **dài hạn**: theo cầu bên ngoài là (0,74 − 0,62) / (1 − 0,90) = 1,2; theo tỷ giá là 0,10 / (1 − 0,90) = 1,0.
+
+**Phương trình 4, nhập khẩu:**
+
+M = 1,41 × tăng trưởng GDP + 0,31 × tỷ giá thực hiệu dụng
+
+Nhập khẩu tăng nhanh hơn GDP (hệ số lớn hơn 1), phản ánh một nền sản xuất mở, nhập nguyên liệu và linh kiện để làm hàng xuất khẩu. Một phương trình phụ cho thấy điều này rõ hơn: M = 0,10 × C + 0,96 × X + 0,10 × tỷ giá. Gần như toàn bộ nhập khẩu đi theo xuất khẩu, tức là "nhập để xuất".
+
+**Phương trình 5, lạm phát:**
+
+π = 0,81 × π (năm trước) + 0,19 × mục tiêu của Ngân hàng Nhà nước + 0,08 × chênh lệch sản lượng + 0,30 × (lạm phát giá nhập khẩu − mức ổn định 5 năm)
+
+Lạm phát chủ yếu **nhìn lại quá khứ** (hệ số 0,81) và do **giá nhập khẩu** dẫn dắt (0,30). Chênh lệch sản lượng ảnh hưởng rất nhỏ (0,08), vì tỷ trọng hàng nhập khẩu trong rổ CPI cao. Nói cách khác, làm nguội cầu trong nước không phải cách hiệu quả để kéo lạm phát xuống.
+
+Báo cáo khuyến nghị nhóm ghi lại lý do kinh tế đằng sau mỗi tham số và ràng buộc, để các lần cập nhật sau nhất quán và dễ chuyển giao cho người mới. Nếu thêm biến giải thích, cần tránh thêm biến nội sinh vào vế phải (vì khi đó phải lặp thêm để giải), giữ mô hình đơn giản và đúng nguyên lý kinh tế.
 
 ### 5. Phân tích bổ trợ
 
-**GDP tiềm năng**: đã trình bày ở sơ đồ.
+**GDP tiềm năng.** GDP tiềm năng là đầu vào then chốt, vì nó quyết định chênh lệch sản lượng và do đó quyết định lạm phát trong mô hình. Nhóm ước lượng bằng hai cách:
 
-**Tác động căng thẳng thương mại (tháng 7/2025)**: một mức tăng thuế quan giả định được quy thành mức giảm xuất khẩu, dựa trên độ co giãn cầu và chuyển hướng thương mại. Mức giảm này được đưa qua bảng cân đối liên ngành của Việt Nam để ước tính lan toả trực tiếp và gián tiếp giữa các ngành, rồi quy thành thay đổi GDP. Đây là phân tích minh hoạ, để đối chiếu với công cụ chính.
+| Cách | Nội dung |
+|---|---|
+| Lọc thống kê | Dùng bộ lọc Hodrick–Prescott hai phía tách GDP thực thành xu hướng và chu kỳ; nối thêm dự báo đến 2030 vào cuối chuỗi để giảm sai lệch ở cuối chuỗi |
+| Hàm sản xuất Cobb–Douglas | GDP tiềm năng tính từ vốn, lao động tiềm năng, vốn con người và năng suất nhân tố tổng hợp (TFP) xu hướng |
+
+Trong cách thứ hai: vốn thực tế được coi bằng vốn tiềm năng (báo cáo lưu ý đây là giả định cần thận trọng vì có thể có phân bổ sai vốn, như tập Selected Issues 2025 của IMF về Việt Nam đã chỉ ra); lao động tiềm năng lấy bằng lọc HP, nhất quán với tỷ lệ thất nghiệp tự nhiên; vốn con người theo xu hướng tuyến tính; TFP lấy bằng lọc HP. Nguồn số liệu là Penn World Table, Liên Hợp Quốc và Cục Thống kê. Nhóm so sánh kết quả hai cách rồi chọn một giá trị làm giả định ngoại sinh cho MFT.
+
+Kết quả này trở thành điểm nhạy cảm nhất của dự án. Tại cuộc họp Tổ 1317 tháng 10/2024, ước lượng tăng trưởng tiềm năng trung hạn của nhóm **thấp hơn mục tiêu Kế hoạch phát triển kinh tế – xã hội 2026–2030**. Một số thành viên của tổ khuyến khích nhóm tiếp tục nói thẳng quan điểm, kể cả khi khác mục tiêu của Chính phủ.
+
+**Tác động căng thẳng thương mại (tháng 7/2025).** Nhóm làm một phân tích theo ba bước: một mức tăng thuế quan giả định được quy thành mức giảm xuất khẩu, dựa trên độ co giãn của cầu và mức chuyển hướng thương mại; mức giảm này được đưa qua bảng cân đối liên ngành của Việt Nam để ước tính lan toả trực tiếp và gián tiếp giữa các ngành (ngành dệt may giảm đơn hàng thì ngành sợi, ngành vận tải cũng giảm theo); cuối cùng quy thành thay đổi GDP. Đây là phân tích minh hoạ, dùng để đối chiếu với công cụ chính chứ không thay thế nó.
 
 ### 6. Giả định chính sách và biến ngoại sinh
 
-- **Thu ngân sách**: chọn một trong hai mô hình. Hoặc độ co giãn thuế theo GDP bằng 1 (tỷ lệ thuế trên GDP không đổi), hoặc tỷ lệ thuế khi toàn dụng điều chỉnh theo chênh lệch sản lượng (thuế thuận chu kỳ).
-- **Chi ngân sách**: đặt tăng trưởng chi thường xuyên không kể lãi và chi mua tài sản phi tài chính theo chính sách.
-- **Tài trợ**: vay nước ngoài ngoại sinh; vay trong nước là phần dư.
-- **Tiền tệ**: lãi suất bám chính sách hiện hành trong ngắn hạn, hội tụ về mức phù hợp mục tiêu lạm phát trong dài hạn. Tỷ giá theo định hướng của Ngân hàng Nhà nước. Nếu không có định hướng, giả định tỷ giá thực hiệu dụng ổn định theo chênh lệch lạm phát, hoặc một mức tăng hay giảm giá thực phản ánh năng suất.
-- **Cán cân thanh toán**: xuất nhập khẩu lấy từ dự báo các thành phần GDP; dòng chính phủ lấy từ dự báo tài khoá. Thu nhập sơ cấp, thứ cấp, FDI và vốn tư nhân là ngoại sinh.
+Một dự báo chỉ tốt bằng các giả định của nó. Nhóm đặt nguyên tắc chung là **tách mục tiêu khỏi chính sách**: mục tiêu (tăng trưởng, bội chi, nợ) là điều Chính phủ muốn đạt, còn chính sách là công cụ để đạt. Chính sách nào **chắc chắn** sẽ thực hiện thì đưa vào kịch bản cơ sở; chính sách còn là mong muốn thì đưa vào kịch bản thay thế. Chính sách khác, ví dụ nới lỏng quy định đầu tư, được thể hiện qua giả định cho biến ngoại sinh tương ứng, ví dụ dòng FDI.
 
-Lập kịch bản cơ sở cần ba bước: phương trình tốt, giả định ngoại sinh hợp lý và hội tụ, giả định chính sách phản ánh đúng những gì sẽ thực hiện. Thường phải lặp nhiều lần.
+Giả định cụ thể theo từng khu vực:
+
+- **Thu ngân sách**: chọn một trong hai mô hình. Hoặc độ co giãn thuế theo GDP bằng 1 (tỷ lệ thuế trên GDP không đổi), hoặc tỷ lệ thuế khi toàn dụng được điều chỉnh theo chênh lệch sản lượng (thuế thu được nhiều hơn khi kinh tế nóng, ít hơn khi kinh tế nguội).
+- **Chi ngân sách**: đặt tăng trưởng chi thường xuyên không kể lãi và chi mua tài sản phi tài chính theo chính sách. Số liệu lấy từ dự toán ngân sách và Kế hoạch 5 năm, rồi quy đổi sang chuẩn thống kê tài chính chính phủ (GFS).
+- **Tài trợ**: vay nước ngoài là ngoại sinh; vay trong nước là phần dư để bù phần còn thiếu.
+- **Tiền tệ**: lãi suất bám chính sách hiện hành trong ngắn hạn theo định hướng của Ngân hàng Nhà nước, rồi hội tụ về mức phù hợp mục tiêu lạm phát trong dài hạn. Tỷ giá theo định hướng của Ngân hàng Nhà nước; vì không có công bố chính thức, nhóm thường giả định theo xu hướng: tỷ giá thực hiệu dụng ổn định theo chênh lệch lạm phát, hoặc một mức tăng hay giảm giá thực phản ánh năng suất. Các giả định tiền tệ phải nhất quán với mục tiêu tăng trưởng tín dụng.
+- **Cán cân thanh toán**: xuất nhập khẩu lấy từ dự báo các thành phần GDP; dòng tiền của chính phủ lấy từ dự báo tài khoá. Thu nhập sơ cấp, thu nhập thứ cấp, FDI và vốn tư nhân là ngoại sinh.
+
+Lập kịch bản cơ sở cần ba điều: phương trình tốt; giả định ngoại sinh hợp lý và hội tụ; giả định chính sách phản ánh đúng những gì sẽ thực hiện. Thường phải lặp nhiều lần mới có một kịch bản đứng vững.
 
 ### 7. Kiểm tra kết quả
 
-Ba câu hỏi kiểm tra:
-- Dự báo có lệch xa xu hướng gần đây không?
-- Tác động của chính sách tài khoá và tiền tệ có đúng kỳ vọng không?
+Sau khi chạy mô hình, nhóm tự hỏi ba câu:
+
+- Dự báo có lệch xa xu hướng gần đây không? Nếu có thì vì lý do kinh tế hay vì lỗi giả định?
+- Tác động của chính sách tài khoá và tiền tệ có đúng kỳ vọng không? Ví dụ nới lỏng thì tăng trưởng và lạm phát phải tăng.
 - Chênh lệch sản lượng có thu hẹp dần và các biến có hội tụ về trạng thái ổn định không?
 
-Kèm theo là kiểm tra độ nhạy, và so sánh với tài liệu chính thức của Chính phủ và dự báo của IMF. Mục đích không phải để sao chép các dự báo đó, mà để hiểu vì sao khác.
+Kèm theo là kiểm tra độ nhạy: tăng hoặc giảm chi tiêu ±1% GDP, lãi suất và tỷ giá ±1 điểm, để xem kết quả thay đổi bao nhiêu. Cuối cùng nhóm so sánh với dự báo trong tài liệu chính thức của Chính phủ và dự báo của IMF. Mục đích không phải để sao chép các dự báo đó, mà để hiểu vì sao khác.
+
+**Chu trình dự báo và ba nhóm nhỏ.** Việc dự báo được chia cho ba nhóm nhỏ, mỗi nhóm có 3–4 đầu mối, nối nhau thành một dây chuyền; một điều phối viên quản lý toàn chu trình:
+
+| Nhóm | Việc |
+|---|---|
+| Nhóm đầu vào | Cập nhật số liệu theo lịch; ước tính phần thiếu; kiểm tra nhất quán giữa các khu vực; đối chiếu với IMF |
+| Nhóm phân tích | Chạy MFT và DDT; lập bảng biểu; kiểm tra độ nhạy; so với dự báo chính thức và của IMF |
+| Nhóm chính sách | Xác nhận giả định chính sách với lãnh đạo; diễn giải kết quả; viết báo cáo, trình bày |
+
+Trong chu kỳ 2023–24, dự báo được cập nhật **theo quý**, trước mỗi cuộc họp Tổ 1317. Bản tháng 6 và tháng 9 là đầu vào cho việc xây dựng chính sách năm sau.
 
 ### 8. DDT
 
-DDT được nối vào MFT như công cụ hạ nguồn qua một trang đầu vào riêng. Kiểm tra sức chịu đựng và biểu đồ hình quạt chạy ở bản DDT độc lập, vì cần thêm giả định về cú sốc và biến động lịch sử. Thực hành tốt: chốt dự báo cơ sở của MFT trước khi chạy kiểm tra nợ. Kết quả chính: quỹ đạo nợ của Việt Nam **nhạy nhất với cân đối ngân sách cơ bản**, nên giữ chính sách tài khoá thận trọng là then chốt.
+DDT (Công cụ Phân tích Động lực Nợ Công) được nối vào MFT như một công cụ hạ nguồn qua một trang đầu vào riêng. Nó nhận từ MFT các dự báo về tăng trưởng, lạm phát, cân đối ngân sách, lãi suất và tỷ giá, rồi tính ra quỹ đạo nợ công. Kiểm tra sức chịu đựng (nợ sẽ ra sao nếu có cú sốc) và biểu đồ hình quạt (dải các quỹ đạo nợ có thể xảy ra) chạy ở bản DDT độc lập, vì cần thêm giả định về cú sốc và về mức biến động trong lịch sử.
+
+Thực hành tốt: chốt dự báo cơ sở của MFT trước rồi mới chạy kiểm tra nợ, để tránh mỗi lần sửa MFT lại phải làm lại phần nợ. Kết quả chính: quỹ đạo nợ của Việt Nam **nhạy nhất với cân đối ngân sách cơ bản** (thu trừ chi không tính lãi), nên giữ chính sách tài khoá thận trọng là then chốt để nợ đi đúng hướng.
 
 ### 9. Sổ tay
 
-Sổ tay được viết theo từng buổi thực hành, ngay sau khi làm xong mỗi bước, nên phản ánh đúng quy trình, cấu trúc tệp và cách xử lý số liệu thực tế. Bản tiếng Việt dùng cho công việc hằng ngày, bản tiếng Anh để làm việc với đối tác. Nội dung gồm:
+Sổ tay được viết theo từng buổi thực hành, ngay sau khi làm xong mỗi bước, nên phản ánh đúng quy trình, cấu trúc tệp và cách xử lý số liệu thực tế, chứ không phải lý thuyết chung. Sổ tay song ngữ: bản tiếng Việt dùng cho công việc hằng ngày, bản tiếng Anh để làm việc với đối tác. Sau tái cơ cấu, việc viết được đẩy nhanh: hơn nửa xong cuối 2024 và hoàn thành 12/2025. Nội dung gồm:
+
 - Thiết lập nhóm và quy trình nội bộ.
 - Chuẩn bị dữ liệu bốn khu vực.
 - Cập nhật năm dự báo đầu tiên.
@@ -352,41 +492,69 @@ Sổ tay được viết theo từng buổi thực hành, ngay sau khi làm xong
 - Cấu trúc thư mục Google Drive.
 - Danh sách thành viên 2024 và 2026.
 
-Khuyến nghị: giao một đầu mối cập nhật sổ tay sau mỗi lần sửa số liệu lớn hoặc nâng cấp công cụ.
+Khuyến nghị: giao một đầu mối chịu trách nhiệm cập nhật sổ tay sau mỗi lần sửa số liệu lớn hoặc nâng cấp công cụ, để sổ tay không lạc hậu.
 
 ### 10. Trình bày cho người hoạch định chính sách
 
-**Tháng 3/2024**: phiên do Thứ trưởng Bộ Kế hoạch và Đầu tư chủ trì, có cán bộ Ngân hàng Nhà nước và các bộ dự. Nhóm trình bày kịch bản cơ sở (giữ nguyên chính sách) và kịch bản nới lỏng tài khoá, tiền tệ. Kết quả đúng kỳ vọng: nới lỏng làm tăng trưởng, lạm phát, bội chi và nợ tăng; cán cân vãng lai và dự trữ giảm. Thứ trưởng đề nghị lần sau đưa vào các chính sách cụ thể Chính phủ đang dự kiến.
+Một bài trình bày chuẩn của nhóm có sáu phần: (1) giới thiệu nhóm, (2) công cụ, (3) diễn biến gần đây, (4) giả định, (5) nhiều kịch bản, (6) hàm ý chính sách.
 
-**Tháng 10/2024, tại Tổ 1317**: nhóm quy đổi văn bản chính sách thành tham số, cập nhật mọi khu vực, trình bày kịch bản cơ sở, dự báo nợ, kịch bản nới lỏng. Trong kịch bản cơ sở, tăng trưởng cải thiện trong 2024–2025 nhờ cầu bên ngoài và chính sách hỗ trợ, rồi hội tụ về tiềm năng; kịch bản nới lỏng đẩy lạm phát vượt mục tiêu. Các góp ý tập trung vào:
-- Khác biệt giữa cách trình bày tài khoá của Bộ Tài chính và của IMF, và kỹ thuật quy đổi.
+**Tháng 3/2024**: phiên do Thứ trưởng Bộ Kế hoạch và Đầu tư chủ trì, có cán bộ Ngân hàng Nhà nước và các bộ dự. Nhóm trình bày kịch bản cơ sở (giữ nguyên chính sách) và kịch bản nới lỏng tài khoá, tiền tệ. Kết quả đúng kỳ vọng: nới lỏng làm tăng trưởng, lạm phát, bội chi và nợ cùng tăng; cán cân vãng lai và dự trữ giảm. Thứ trưởng đề nghị lần sau đưa vào các chính sách cụ thể Chính phủ đang dự kiến, thay vì một kịch bản nới lỏng chung chung.
+
+**Tháng 10/2024, tại Tổ 1317**: nhóm quy đổi văn bản chính sách thành tham số mô hình, cập nhật mọi khu vực, và trình bày kịch bản cơ sở, dự báo nợ, kịch bản nới lỏng. Trong kịch bản cơ sở, tăng trưởng cải thiện trong 2024–2025 nhờ cầu bên ngoài và chính sách hỗ trợ, rồi hội tụ về mức tiềm năng; kịch bản nới lỏng đẩy lạm phát vượt mục tiêu. Các góp ý tập trung vào hai điểm:
+
+- Khác biệt giữa cách trình bày tài khoá của Bộ Tài chính và của IMF, và kỹ thuật quy đổi giữa hai cách.
 - **Ước lượng tăng trưởng tiềm năng thấp hơn mục tiêu Kế hoạch 2026–2030.**
 
-**2025–2026**: trình bày cho lãnh đạo Bộ Tài chính về tính hiện thực và hàm ý vĩ mô của các kịch bản tăng trưởng mà Chính phủ đặt ra. Các buổi đông người dự, thảo luận sôi nổi. Lãnh đạo Bộ cho biết sẽ tham khảo khi xây dựng chiến lược phát triển trung hạn.
+**2025–2026**: nhóm trình bày cho lãnh đạo Bộ Tài chính về tính hiện thực và hàm ý vĩ mô của các kịch bản tăng trưởng mà Chính phủ đặt ra. Các buổi có đông người dự, thảo luận sôi nổi. Lãnh đạo Bộ cho biết sẽ tham khảo khi xây dựng chiến lược phát triển trung hạn.
 
-Đoàn IMF giúp phân tích tác động của chính sách Chính phủ dự kiến nhưng **không đưa ra khuyến nghị chính sách**, vì việc đó thuộc kênh giám sát.
+Đoàn IMF giúp phân tích tác động của chính sách Chính phủ dự kiến nhưng **không đưa ra khuyến nghị chính sách**, vì việc đó thuộc kênh giám sát (tham vấn Điều IV) chứ không thuộc hỗ trợ kỹ thuật.
 
 ### 11. Bài học
 
-- Lãnh đạo cấp cao cam kết mạnh tạo động lực và quyền làm chủ: Thứ trưởng gặp đoàn mỗi đợt, đặt chỉ tiêu cụ thể.
-- Nhóm liên bộ giải quyết số liệu phân tán và làm phong phú thảo luận phối hợp tài khoá – tiền tệ.
-- Người có nền tảng vĩ mô, hoặc từ các vụ làm chính sách, giúp tiến độ nhanh.
-- Vai trò rõ ràng bằng văn bản giúp phối hợp và trách nhiệm giải trình.
+Báo cáo rút ra mười bài học:
+
+- Lãnh đạo cấp cao cam kết mạnh tạo động lực và quyền làm chủ: Thứ trưởng gặp đoàn mỗi đợt và đặt chỉ tiêu cụ thể. Nhờ vậy, chỉ khoảng chín tháng sau khi bắt đầu lập nhóm, nhóm đã có dự báo đầu tiên để trình bày.
+- Nhóm liên bộ giải quyết được vấn đề số liệu phân tán và làm phong phú thảo luận về phối hợp tài khoá – tiền tệ.
+- Người có nền tảng kinh tế vĩ mô, hoặc đến từ các vụ làm chính sách, giúp tiến độ nhanh.
+- Vai trò được ghi rõ bằng văn bản giúp phối hợp và tạo trách nhiệm giải trình.
 - Điều phối viên các nhóm nhỏ là then chốt.
-- Giảm luân chuyển cán bộ là điều kiện để năng lực bền vững.
+- Giảm luân chuyển cán bộ là điều kiện để năng lực bền vững. Số liệu tái cơ cấu ở mục 2 (chỉ 2 trong 10 người nhóm phân tích còn làm phân tích) cho thấy vì sao.
 - Đưa chính sách thật vào mô hình và trình bày theo định dạng của Chính phủ giúp thảo luận hiệu quả; ví dụ quy đổi bảng tài khoá từ MFT sang định dạng Bộ Tài chính.
-- Bước chuẩn bị (kiểm tra số liệu) và bước rà soát (hiện thực, độ nhạy, so sánh) quyết định độ tin cậy.
-- Kênh trình bày cố định theo lịch dự báo gắn kết quả với chính sách.
-- Viết sổ tay từ sớm giảm thiệt hại khi luân chuyển.
+- Bước chuẩn bị (kiểm tra số liệu) và bước rà soát (tính hiện thực, độ nhạy, so sánh) quyết định độ tin cậy của dự báo.
+- Một kênh trình bày cố định theo lịch dự báo là thứ gắn kết quả phân tích với chính sách.
+- Viết sổ tay từ sớm giảm thiệt hại khi cán bộ luân chuyển.
 
 ### 12. Quan điểm phía Việt Nam
 
-Phía Việt Nam nhất trí với đánh giá và cho rằng kết quả "đáng ghi nhận" dù có luân chuyển. Họ đề nghị:
-- Không đặt thời hạn cố định cho việc tích hợp vào chính sách.
-- Dự án sau mở rộng sang đầu tư công, chính sách thuế và chi cụ thể, và làm rõ kênh tín dụng trong truyền dẫn tiền tệ.
+Phía Việt Nam nhất trí với đánh giá và cho rằng kết quả "đáng ghi nhận" dù có luân chuyển cán bộ. Họ đề nghị:
+
+- Không đặt thời hạn cố định cho việc tích hợp kết quả vào chính sách, vì đang chuẩn bị cơ chế mới cho nhóm.
+- Dự án sau mở rộng sang phân tích đầu tư công, chính sách thuế và chi cụ thể, và làm rõ kênh tín dụng trong truyền dẫn chính sách tiền tệ.
 - Giao viện NIEF thực hiện dự án mới.
 
-Họ nhấn mạnh: độ chính xác của dự báo phụ thuộc vào chất lượng giả định. Họ cũng **nhắc lại** — lần thứ hai trong báo cáo — rằng mọi số liệu đầu vào đều đã được các bộ, ngành công bố chính thức, **tuân thủ quy định về bảo vệ bí mật nhà nước**.
+Họ nhấn mạnh: độ chính xác của dự báo phụ thuộc vào chất lượng giả định. Họ cũng **nhắc lại**, lần thứ hai trong báo cáo, rằng mọi số liệu đầu vào đều đã được các bộ, ngành công bố chính thức, **tuân thủ quy định về bảo vệ bí mật nhà nước**.
+
+**Khuyến nghị cuối cùng và thời hạn:**
+
+| Khuyến nghị | Trách nhiệm | Thời hạn |
+|---|---|---|
+| Giữ nhóm liên ngành, giảm luân chuyển | Lãnh đạo Bộ Tài chính | Liên tục |
+| Làm rõ vị trí, vai trò, sản phẩm của nhóm | Lãnh đạo Bộ Tài chính | 5–6/2026 |
+| Duy trì điều phối viên | Nhóm và lãnh đạo | 5–6/2026 |
+| Ưu tiên người có nền tảng vĩ mô, từ các vụ chính sách; chương trình đào tạo người mới | Nhóm | 8/2026 |
+| Lập chu trình dự báo khớp lịch chính sách | Nhóm và lãnh đạo | 8–9/2026 |
+| Lịch họp điều phối nội bộ | Nhóm | 8–9/2026 |
+| Đánh giá hậu kiểm độ chính xác dự báo | Nhóm | 9/2026 |
+| Báo cáo, trình bày cho lãnh đạo Bộ và Tổ Điều phối; lập kênh đưa kết quả vào chính sách | Lãnh đạo Bộ Tài chính | Chưa ấn định, theo đề nghị của phía Việt Nam |
+
+**Đánh giá rủi ro lúc kết thúc dự án:**
+
+| Rủi ro | Tình trạng |
+|---|---|
+| Thiếu người và luân chuyển cán bộ | Vẫn là rủi ro chính |
+| Phối hợp liên ngành và số liệu | Đã giảm |
+| Thiếu tham gia do rào cản ngôn ngữ | Đã giảm, nhờ phiên dịch đồng thời và đào tạo lại |
+| Tích hợp vào hoạch định chính sách | Vẫn ở mức trung bình |
 
 ## Thuật ngữ
 

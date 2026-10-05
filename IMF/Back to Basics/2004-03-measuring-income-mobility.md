@@ -123,31 +123,101 @@
 2. Vì sao bằng chứng về dịch chuyển khó thu thập và dễ hiểu sai?
 3. Thu nhập của cha có truyền sang con không?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Dịch chuyển thu nhập (income mobility).** Mức độ mà người ta thay đổi vị trí trong bảng xếp hạng thu nhập theo thời gian: người đang nghèo có leo lên được không, người đang giàu có tụt xuống không. Nó khác với bất bình đẳng: bất bình đẳng là khoảng cách giữa các bậc thang tại một thời điểm, còn dịch chuyển là việc người ta có đổi bậc hay không. Ví dụ minh hoạ: hai xã hội có cùng mức chênh lệch giàu nghèo, nhưng ở xã hội thứ nhất người nghèo năm nay mười năm sau vẫn nghèo, còn ở xã hội thứ hai một nửa trong số họ đã lên được nhóm giữa. Bài hỏi mức dịch chuyển có đủ để làm bất bình đẳng trở nên dễ chấp nhận hơn không.
+
+**Ngũ phân vị và tứ phân vị (quintile, quartile).** Cách chia dân số thành các nhóm bằng nhau theo thu nhập. Ngũ phân vị chia thành 5 nhóm, mỗi nhóm 20% dân số: ngũ phân vị thấp nhất là 20% người có thu nhập thấp nhất, ngũ phân vị cao nhất là 20% người có thu nhập cao nhất. Tứ phân vị chia thành 4 nhóm, mỗi nhóm 25%. Bài dùng ngũ phân vị cho dữ liệu Mỹ và tứ phân vị cho dữ liệu cha con ở Canada.
+
+**Dịch chuyển hoàn hảo (perfect mobility).** Trạng thái mà vị trí của một người ở thời điểm sau hoàn toàn không phụ thuộc vào vị trí trước đó, như thể bộ bài thu nhập được xáo lại ngẫu nhiên. Khi chia 5 nhóm, mỗi người có 20% khả năng rơi vào bất kỳ nhóm nào, kể cả nhóm cũ; khi chia 4 nhóm thì là 25%. Ví dụ trong bài: 40% người ở ngũ phân vị thấp nhất vẫn ở đó sau 25 năm, gấp đôi mức 20% của dịch chuyển hoàn hảo. Đây là mốc so sánh giúp biết một con số dịch chuyển là cao hay thấp.
+
+**Phân vị 90 và phân vị 10 (90th / 10th percentile).** Phân vị 90 là mức thu nhập mà 90% dân số thấp hơn, tức người đứng gần đỉnh; phân vị 10 là mức mà chỉ 10% dân số thấp hơn, tức người đứng gần đáy. Khoảng cách giữa hai mức này là một thước đo bất bình đẳng. Ví dụ minh hoạ: nếu người ở phân vị 90 kiếm 100.000 USD một năm và người ở phân vị 10 kiếm 20.000 USD, tỷ lệ giữa hai mức là 5 lần. Bài dùng thước đo này để tính dịch chuyển xoá được bao nhiêu bất bình đẳng.
+
+**Dữ liệu bảng theo chiều dọc (longitudinal panel data).** Bộ dữ liệu theo dõi cùng những người đó qua nhiều năm và ghi lại thu nhập của họ mỗi lần, khác với khảo sát thông thường mỗi năm hỏi một nhóm người khác. Chỉ có loại dữ liệu này mới đo được dịch chuyển, vì phải biết một người cụ thể năm 1969 ở đâu và năm 1994 ở đâu. Ví dụ trong bài: Panel Survey of Income Dynamics của Đại học Michigan, và tờ khai thuế.
+
+**Chu kỳ đời người của thu nhập (life cycle of income).** Thu nhập của một người thường thấp khi mới đi làm, tăng dần đến đỉnh ở tuổi trung niên, rồi giảm khi nghỉ hưu. Sự thay đổi này không phải dịch chuyển xã hội theo nghĩa thật. Ví dụ trong bài: một sinh viên làm ở hiệu sách rồi có việc làm thật sự ở đầu tuổi ba mươi sẽ trông như "leo từ đáy lên" trong số liệu. Nếu không loại bỏ hiệu ứng này, nghiên cứu sẽ thổi phồng dịch chuyển đi lên (ở người trẻ) hoặc dịch chuyển đi xuống (ở người gần nghỉ hưu).
+
+**Biến động tạm thời và thay đổi lâu dài (transitory, permanent changes).** Thu nhập một năm có thể cao hoặc thấp bất thường vì lý do nhất thời: một khoản thưởng lớn, vài tháng thất nghiệp. Ví dụ minh hoạ: một người mất việc nửa năm có thể rơi xuống ngũ phân vị thấp nhất trong năm đó rồi quay lại nhóm giữa năm sau. Nếu hai lần quan sát cách nhau quá gần, nghiên cứu dễ nhầm những dao động này là dịch chuyển thật, nên các nhà nghiên cứu thích khoảng cách một thập kỷ hoặc 25 năm.
+
+**Dịch chuyển giữa các thế hệ (intergenerational mobility).** Mức độ vị trí thu nhập của con cái phụ thuộc vào vị trí của cha mẹ. Nếu con nhà nghèo gần như chắc chắn nghèo và con nhà giàu gần như chắc chắn giàu, dịch chuyển giữa các thế hệ thấp. Ví dụ trong bài: ở Canada, khoảng 33% con trai có cha thuộc tứ phân vị thấp nhất cũng ở tứ phân vị thấp nhất, so với mức 25% nếu hoàn toàn ngẫu nhiên.
+
+## Nội dung chi tiết
 
 ### 1. Dịch chuyển trong đời
 
-- Có bao nhiêu dịch chuyển thu nhập trong các nền kinh tế ngày nay? Mức dịch chuyển cao hàm ý, theo lời của Jagdish Bhagwati thuộc Đại học Columbia, rằng "các bất bình đẳng của chủ nghĩa tư bản khi đó trở nên chịu đựng được, không phải vì người giàu tự chối bỏ sự hưởng thụ mà vì người nghèo tưởng tượng rằng những phần thưởng ấy một ngày nào đó cũng có thể đến với họ."
-- Phần lớn bằng chứng về dịch chuyển thu nhập là cho Mỹ. Trong *The State of Working America*, các nhà nghiên cứu tại Economic Policy Institute kết luận rằng dù bằng chứng Mỹ "không cho thấy nhiều dịch chuyển thu nhập, dữ liệu có cho thấy rằng dịch chuyển tồn tại và rằng các gia đình đi lên và đi xuống khi vận mệnh tương đối của họ thay đổi."
-- Cơ sở cho kết luận của họ được thể hiện trong biểu đồ. Các cá nhân được chia thành ngũ phân vị dựa trên thu nhập gia đình năm 1969; rồi vị trí của họ được quan sát lại năm 1994. Điều này cho những bức ảnh "trước" và "sau" có thể tiết lộ liệu họ đã đổi chỗ với người khác trong phân phối thu nhập hay vẫn đứng yên. Hãy nhớ rằng nếu xếp hạng năm 1994 không liên quan gì đến thu nhập năm 1969, số người đứng yên trong mỗi ngũ phân vị sẽ là 20%, trong khi phần còn lại sẽ phân tán đều giữa các ngũ phân vị khác. Điều này tương ứng với cái mà các nhà kinh tế gọi là "dịch chuyển hoàn hảo" vì nó cho thấy bộ bài thu nhập của mọi người đã bị xáo trộn kỹ đến mức người ta được xếp vào các ngũ phân vị thu nhập như thể hoàn toàn ngẫu nhiên.
-- Dịch chuyển thực tế cách trạng thái dịch chuyển hoàn hảo này bao xa? Khá xa ở hai đầu, ít hơn ở giữa. Khoảng 40% những người ở ngũ phân vị thấp nhất của phân phối thu nhập năm 1969 vẫn ở ngũ phân vị đó 25 năm sau. Tương tự, gần 40% những người ở ngũ phân vị cao nhất giữ được vị trí tương đối của mình ở đỉnh 25 năm sau. Các con số này lớn gấp đôi con số mà trạng thái dịch chuyển hoàn hảo sẽ chỉ ra. Ở các ngũ phân vị trung gian, dịch chuyển lớn hơn nhiều. Chỉ 24% những người ở ngũ phân vị giữa đứng yên, và những người rời đi có khả năng đi lên trong phân phối thu nhập ngang bằng với đi xuống. Hai ngũ phân vị trung gian còn lại cũng gần với mức kỳ vọng nếu dịch chuyển hoàn hảo tồn tại.
-- Bao nhiêu bất bình đẳng thu nhập bị xoá đi vì người ta di chuyển trong phân phối thu nhập theo thời gian? Peter Gottschalk của Boston College tính rằng bất bình đẳng ở Mỹ, đo bằng khoảng cách thu nhập lao động ở phân vị thứ 90 và thứ 10, giảm một phần ba khi tính đến dịch chuyển. Tuy nhiên, ông chỉ ra rằng mức độ dịch chuyển có vẻ không thay đổi theo thời gian, trong khi bất bình đẳng thu nhập ở Mỹ đã tăng trong hai thập kỷ qua. Do đó, mức độ mà dịch chuyển bù trừ tác động của bất bình đẳng có thể đang suy yếu. Hơn nữa, mức độ dịch chuyển không khác nhau nhiều giữa các nước công nghiệp lớn, điều gây bất ngờ vì thể chế thị trường lao động và hệ thống thuế rất khác nhau giữa các nước. Gottschalk kết luận rằng "tỷ lệ dịch chuyển của Mỹ giống với tỷ lệ của các nước khác biệt như Pháp, Ý và Thuỵ Điển."
+**Vì sao dịch chuyển quan trọng.** Bài mở đầu bằng câu hỏi: các nền kinh tế ngày nay có bao nhiêu dịch chuyển thu nhập? Câu hỏi này quan trọng vì nó quyết định xã hội chịu đựng bất bình đẳng đến đâu. Jagdish Bhagwati của Đại học Columbia diễn đạt điều đó như sau: nếu dịch chuyển cao, "các bất bình đẳng của chủ nghĩa tư bản khi đó trở nên chịu đựng được, không phải vì người giàu tự chối bỏ sự hưởng thụ mà vì người nghèo tưởng tượng rằng những phần thưởng ấy một ngày nào đó cũng có thể đến với họ."
+
+**Bằng chứng ở Mỹ.** Phần lớn bằng chứng về dịch chuyển thu nhập là của Mỹ. Trong báo cáo *The State of Working America*, các nhà nghiên cứu tại Economic Policy Institute kết luận rằng dữ liệu Mỹ "không cho thấy nhiều dịch chuyển thu nhập", nhưng "có cho thấy rằng dịch chuyển tồn tại và rằng các gia đình đi lên và đi xuống khi vận mệnh tương đối của họ thay đổi."
+
+**Phương pháp "ảnh trước, ảnh sau".** Các cá nhân được chia thành năm nhóm bằng nhau (ngũ phân vị) dựa trên thu nhập gia đình năm 1969. Rồi vị trí của chính những người đó được quan sát lại năm 1994. Hai bức ảnh này cho biết mỗi người đã đổi chỗ với người khác trong phân phối thu nhập hay vẫn đứng yên.
+
+Để đọc kết quả, cần một mốc so sánh. Nếu xếp hạng năm 1994 hoàn toàn không liên quan gì đến thu nhập năm 1969, thì trong mỗi ngũ phân vị sẽ có 20% người đứng yên, và 80% còn lại phân tán đều sang bốn ngũ phân vị khác (mỗi nhóm 20%). Các nhà kinh tế gọi trạng thái này là **"dịch chuyển hoàn hảo"**: bộ bài thu nhập của mọi người đã bị xáo kỹ đến mức người ta được xếp vào các ngũ phân vị như thể hoàn toàn ngẫu nhiên.
+
+**Thực tế cách dịch chuyển hoàn hảo bao xa?** Khá xa ở hai đầu, ít hơn ở giữa:
+
+| Nhóm năm 1969 | Tỷ lệ vẫn ở nhóm cũ sau 25 năm (1994) | So với dịch chuyển hoàn hảo (20%) |
+|---|---|---|
+| Ngũ phân vị thấp nhất | khoảng 40% | gấp đôi |
+| Ngũ phân vị giữa | chỉ 24% | gần bằng; người rời đi có khả năng đi lên ngang bằng đi xuống |
+| Hai ngũ phân vị trung gian còn lại | gần mức kỳ vọng | gần bằng |
+| Ngũ phân vị cao nhất | gần 40% | gấp đôi |
+
+Nói cách khác, người nghèo nhất và người giàu nhất có xu hướng "dính" lại ở vị trí của mình, còn ở giữa thì xáo trộn mạnh.
+
+**Dịch chuyển xoá được bao nhiêu bất bình đẳng?** Nếu người ta di chuyển lên xuống, thì bất bình đẳng đo trong một năm sẽ lớn hơn bất bình đẳng tính trên nhiều năm, vì người nghèo năm nay có thể khá hơn năm sau. Peter Gottschalk của Boston College tính rằng bất bình đẳng ở Mỹ, đo bằng khoảng cách thu nhập lao động giữa phân vị 90 và phân vị 10, **giảm một phần ba** khi tính đến dịch chuyển.
+
+Nhưng Gottschalk nêu hai điểm hạn chế lời an ủi đó:
+
+- **Dịch chuyển không đổi trong khi bất bình đẳng tăng.** Mức độ dịch chuyển có vẻ không thay đổi theo thời gian, trong khi bất bình đẳng thu nhập ở Mỹ đã tăng trong hai thập kỷ qua. Vì vậy, khả năng của dịch chuyển trong việc bù trừ tác động của bất bình đẳng có thể đang suy yếu.
+- **Dịch chuyển gần như giống nhau giữa các nước công nghiệp lớn.** Điều này gây bất ngờ, vì thể chế thị trường lao động và hệ thống thuế rất khác nhau giữa các nước. Gottschalk kết luận rằng "tỷ lệ dịch chuyển của Mỹ giống với tỷ lệ của các nước khác biệt như Pháp, Ý và Thuỵ Điển."
 
 ### 2. Đọc kỹ chữ nhỏ
 
-- Bằng chứng về dịch chuyển thu nhập khó thu thập. Nó đòi hỏi một bộ dữ liệu bảng theo chiều dọc, tức bộ dữ liệu theo dõi cùng những người đó theo thời gian và ghi lại thu nhập của họ. Các khảo sát liên tục như Panel Survey of Income Dynamics của Đại học Michigan (cơ sở của biểu đồ) và tờ khai thuế là một cách để theo dõi thu nhập của người dân. Tuy nhiên, thước đo thu nhập dễ có nhất từ các bộ dữ liệu này là thu nhập lao động; các thước đo thu nhập toàn diện hơn, hoặc các thước đo của cải, hoặc không có hoặc rất khó tính toán.
-- Ngay cả sau khi bộ dữ liệu đã được lắp ghép, các lựa chọn về thiết kế nghiên cứu có thể ảnh hưởng lớn đến kết luận rút ra. Một lựa chọn quan trọng là tính toán dựa trên thu nhập của bản thân cá nhân hay thu nhập gia đình của người đó. Các nghiên cứu dùng cách thứ nhất có xu hướng tìm thấy dịch chuyển đi lên cao hơn nhiều so với báo cáo ở trên, nhưng như nhà kinh tế Đại học Chicago Kevin Murphy giải thích, "Đây không phải dịch chuyển thu nhập cổ điển của bạn. Đây là anh chàng làm việc ở hiệu sách đại học và có một công việc thật sự vào đầu tuổi ba mươi." Ngược lại, việc đưa vào những người gần nghỉ hưu có thể làm kết quả thiên lệch về phía tìm thấy dịch chuyển đi xuống. Do đó, việc chọn mẫu phải bảo đảm rằng dịch chuyển quan sát được không đơn giản là do chu kỳ đời người của thu nhập cá nhân.
-- Một quyết định khác là bao nhiêu năm nên trôi qua giữa bức ảnh trước và bức ảnh sau? Nếu hai bức ảnh được chụp chỉ sau một khoảng thời gian ngắn, có nguy cơ bắt phải dịch chuyển nảy sinh từ các biến động tạm thời trong thu nhập của người dân thay vì những thay đổi lâu dài hơn. Hầu hết các nhà nghiên cứu do đó thích dùng một thập kỷ hoặc khoảng cách 25 năm như trong biểu đồ.
+**Dữ liệu khó thu thập.** Muốn đo dịch chuyển phải có bộ dữ liệu bảng theo chiều dọc, tức bộ dữ liệu theo dõi **cùng những người đó** qua thời gian và ghi lại thu nhập của họ. Có hai nguồn chính:
+
+- Các khảo sát liên tục như Panel Survey of Income Dynamics của Đại học Michigan, nguồn của số liệu 1969–1994 ở trên.
+- Tờ khai thuế.
+
+Hạn chế: thước đo dễ có nhất từ các nguồn này là thu nhập lao động (tiền lương, tiền công). Các thước đo thu nhập toàn diện hơn (gồm cả thu nhập từ vốn, chuyển giao), hay các thước đo của cải, hoặc không có hoặc rất khó tính.
+
+**Thiết kế nghiên cứu ảnh hưởng lớn đến kết luận.** Ngay cả khi đã có dữ liệu, hai lựa chọn thiết kế có thể làm kết quả thay đổi nhiều.
+
+*Lựa chọn thứ nhất: thu nhập cá nhân hay thu nhập gia đình?* Các nghiên cứu dùng thu nhập của bản thân cá nhân có xu hướng tìm thấy dịch chuyển đi lên cao hơn nhiều so với con số ở mục 1. Nhưng nhà kinh tế Kevin Murphy của Đại học Chicago giải thích vì sao con số đó gây hiểu lầm: "Đây không phải dịch chuyển thu nhập cổ điển của bạn. Đây là anh chàng làm việc ở hiệu sách đại học và có một công việc thật sự vào đầu tuổi ba mươi." Ngược lại, đưa những người gần nghỉ hưu vào mẫu có thể làm kết quả thiên lệch về phía dịch chuyển đi xuống, vì thu nhập của họ giảm tự nhiên. Do đó, mẫu phải được chọn sao cho dịch chuyển quan sát được không đơn giản là do chu kỳ đời người của thu nhập.
+
+*Lựa chọn thứ hai: bao nhiêu năm giữa ảnh trước và ảnh sau?* Nếu hai lần quan sát cách nhau quá ngắn, nghiên cứu có nguy cơ bắt được những dịch chuyển chỉ do biến động tạm thời của thu nhập (một năm được thưởng lớn, một năm thất nghiệp vài tháng), thay vì những thay đổi lâu dài. Vì vậy hầu hết các nhà nghiên cứu thích dùng khoảng cách một thập kỷ, hoặc khoảng 25 năm như trong số liệu Mỹ ở trên.
+
+| Lựa chọn thiết kế | Nếu chọn sai | Hậu quả |
+|---|---|---|
+| Đơn vị thu nhập | Dùng thu nhập cá nhân, mẫu có nhiều người trẻ | Thổi phồng dịch chuyển đi lên |
+| Độ tuổi trong mẫu | Đưa vào người gần nghỉ hưu | Thổi phồng dịch chuyển đi xuống |
+| Khoảng cách hai lần quan sát | Quá ngắn | Nhầm biến động tạm thời với thay đổi lâu dài |
 
 ### 3. Cha và con
 
-- Các kỳ kế toán dài cũng cần cho các nghiên cứu về dịch chuyển giữa các thế hệ, đo lường tác động mà vị trí của cha mẹ trong phân phối thu nhập có lên vị trí của con cái họ. Con cái của cha mẹ giàu có giữ được vị trí ở đỉnh phân phối thu nhập đến mức nào? Nghèo đói được truyền sang thế hệ sau đến mức nào?
-- Câu trả lời tốt nhất đến từ dữ liệu thuế thu nhập. Một nghiên cứu dựa trên tờ khai thuế thu nhập của 400.000 cặp cha–con ở Canada tìm thấy các mô hình dịch chuyển tương tự như những mô hình tìm thấy trong dữ liệu Mỹ. Điều này được thể hiện trong bảng, báo cáo cách vị trí của người cha trong phân phối thu nhập tương quan với vị trí của con trai ông. Phân phối thu nhập ở đây được chia thành tứ phân vị (thay vì ngũ phân vị), nên trạng thái dịch chuyển hoàn hảo sẽ được chỉ ra bằng số 25 trong mỗi ô.
-- Một lần nữa, bằng chứng gợi ý những sai lệch khỏi dịch chuyển hoàn hảo ở hai đầu của phân phối thu nhập và dịch chuyển nhiều hơn hẳn ở giữa. Như thể hiện ở ô trên cùng bên trái, khoảng 33% con trai có cha thu nhập ở tứ phân vị thấp nhất cũng kết thúc với thu nhập ở tứ phân vị thấp nhất. Ở đầu kia, 35% những người có cha thu nhập ở tứ phân vị cao nhất cũng có thu nhập ở tứ phân vị cao nhất. Ngược lại, phần giữa đặc trưng bởi dịch chuyển gần như hoàn hảo, tức các con số không lệch nhiều khỏi con số 25% mà ta sẽ kỳ vọng nếu thu nhập được gán một cách ngẫu nhiên.
+**Câu hỏi.** Dịch chuyển giữa các thế hệ đo tác động của vị trí cha mẹ trong phân phối thu nhập lên vị trí của con cái. Hai câu hỏi cụ thể: con cái của cha mẹ giàu có giữ được vị trí ở đỉnh đến mức nào? Nghèo đói được truyền sang thế hệ sau đến mức nào? Loại nghiên cứu này cũng cần kỳ quan sát dài, vì phải đợi con lớn lên và đi làm.
+
+**Dữ liệu tốt nhất: tờ khai thuế.** Câu trả lời tốt nhất đến từ dữ liệu thuế thu nhập. Một nghiên cứu dựa trên tờ khai thuế thu nhập của 400.000 cặp cha–con ở Canada tìm thấy các mô hình dịch chuyển tương tự như trong dữ liệu Mỹ. Nghiên cứu này so vị trí của người cha trong phân phối thu nhập với vị trí của con trai ông. Phân phối được chia thành bốn nhóm (tứ phân vị) thay vì năm, nên dịch chuyển hoàn hảo tương ứng với con số 25% ở mọi ô: con của một người cha ở bất kỳ nhóm nào cũng có 25% khả năng rơi vào mỗi nhóm.
+
+**Kết quả** lặp lại hình mẫu của mục 1: lệch khỏi dịch chuyển hoàn hảo ở hai đầu, dịch chuyển gần như hoàn hảo ở giữa.
+
+| Vị trí của cha | Tỷ lệ con trai ở cùng tứ phân vị | So với mức ngẫu nhiên (25%) |
+|---|---|---|
+| Tứ phân vị thấp nhất | khoảng 33% | cao hơn rõ |
+| Hai tứ phân vị ở giữa | không lệch nhiều khỏi 25% | gần như dịch chuyển hoàn hảo |
+| Tứ phân vị cao nhất | 35% | cao hơn rõ |
+
+Tức là con nhà nghèo có khả năng ở lại đáy cao hơn mức ngẫu nhiên khoảng một phần ba, và con nhà giàu có khả năng ở lại đỉnh cao hơn mức ngẫu nhiên khoảng hai phần năm; còn ở giữa, thu nhập của cha gần như không dự báo được thu nhập của con.
 
 ### 4. Đầy một nửa?
 
-- Kết luận là gì? Bằng chứng về dịch chuyển đến mức cả người bảo vệ lẫn người phê phán chủ nghĩa tư bản đều có thể giữ nguyên lập trường. Người phê phán có thể chỉ vào hành vi ở hai đầu của phân phối thu nhập để lập luận rằng nhiều người ở đỉnh có thể giữ được vị trí của mình, trong khi nhiều người ở đáy thấy khó khăn để bò lên. Hơn nữa, họ sẽ nói thêm, dịch chuyển có tồn tại cũng làm rất ít để xoá bỏ sự tập trung cực đoan của thu nhập và của cải vào tay một số ít người. Người bảo vệ có thể chỉ vào mức độ dịch chuyển đáng kể trong đa số ở giữa để gợi ý, như Bhagwati nói, rằng người ta "cảm thấy họ cũng có thể làm được: bất bình đẳng được chấp nhận vì nó khơi dậy không phải sự ghen tị mà là khát vọng và hy vọng."
+Kết luận của bài: bằng chứng về dịch chuyển cho phép **cả người bảo vệ lẫn người phê phán chủ nghĩa tư bản đều giữ nguyên lập trường**, giống như cùng một ly nước có thể gọi là đầy một nửa hoặc vơi một nửa.
+
+| Phe | Dữ kiện dựa vào | Lập luận |
+|---|---|---|
+| Phê phán | Hành vi ở hai đầu phân phối | Nhiều người ở đỉnh giữ được vị trí của mình, nhiều người ở đáy khó bò lên. Hơn nữa, dịch chuyển có tồn tại cũng làm rất ít để xoá bỏ sự tập trung cực đoan của thu nhập và của cải vào tay một số ít người |
+| Bảo vệ | Mức dịch chuyển đáng kể của đa số ở giữa | Như Bhagwati nói, người ta "cảm thấy họ cũng có thể làm được: bất bình đẳng được chấp nhận vì nó khơi dậy không phải sự ghen tị mà là khát vọng và hy vọng" |
+
+Cả hai đều dùng cùng một bộ số liệu, chỉ nhìn vào hai phần khác nhau của nó: phe phê phán nhìn 40% đứng yên ở đáy và đỉnh, phe bảo vệ nhìn 24% đứng yên ở giữa.
 
 ## Thuật ngữ
 

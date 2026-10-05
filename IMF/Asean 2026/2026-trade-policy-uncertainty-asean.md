@@ -267,125 +267,250 @@ Kênh truyền dẫn — vì sao "thắng thương mại" không có nghĩa là 
 
 3. **Có cách nào tự bảo vệ không?** Có, và công cụ hiệu quả nhất là **độ mở thương mại**. Với nước ở phân vị 90 về độ mở, cú sốc bất định từ nước thứ ba mất hoàn toàn ý nghĩa thống kê. Hàm ý rất phản trực giác: phản ứng đúng khi đối tác gia tăng bảo hộ **không phải là đóng cửa lại để tự vệ, mà là mở thêm về phía khác** để đa dạng hóa.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Bất định chính sách thương mại (trade policy uncertainty, TPU).** Tình trạng doanh nghiệp và nhà đầu tư không biết chắc quy tắc thương mại sắp tới sẽ ra sao: thuế quan có tăng không, hiệp định có được ký không, đối tác có trả đũa không. Nó khác với một chính sách xấu đã biết trước. Ví dụ minh hoạ: một nhà máy biết chắc thuế nhập khẩu sẽ là 10% thì có thể tính toán và lên kế hoạch; nếu thuế có thể là 0% hoặc 25% tuỳ kết quả một cuộc đàm phán, nhà máy khó quyết định có nên mở rộng hay không. Toàn bộ chương đo và ước lượng tác động của loại bất định này lên sáu nền kinh tế ASEAN.
+
+**Bất định bảo hộ và bất định hiệp định (protectionist TPU, agreement TPU).** Bất định bảo hộ là không chắc về các biện pháp dựng rào cản: thuế quan, hạn ngạch, trả đũa. Bất định hiệp định là không chắc về việc một hiệp định thương mại có được ký kết hay đàm phán sẽ đổ vỡ. Trong chương, hai loại này có tác động ngược chiều nhau: bất định bảo hộ của chính nước mình làm GDP đầu người giảm 3,7%, còn bất định hiệp định của chính nước mình lại làm GDP tăng 1,3%. Đây là lý do chương phải tách chúng ra thay vì gộp làm một.
+
+**Bất định của chính nước mình và của nước thứ ba (own TPU, third-party TPU).** Bất định của chính nước mình đến từ tin tức về chính sách thương mại của nước đang xét. Bất định của nước thứ ba đến từ chính sách của các đối tác thương mại, được tính bằng trung bình có trọng số theo tỷ trọng xuất khẩu sang từng đối tác. Ví dụ minh hoạ: nếu một nước xuất 30% hàng sang nước A và 20% sang nước B, bất định của nước A được tính nặng hơn bất định của nước B. Chương cho thấy loại thứ hai gây hại gần gấp đôi loại thứ nhất (−7,1% so với −3,7%).
+
+**Quyền chọn thực và quyền chọn tăng trưởng (real options, growth options).** Quyền chọn thực: khi một khoản đầu tư khó rút lại (đã xây nhà máy thì không thể "không xây" nữa) và tương lai chưa rõ, việc chờ thêm để có thông tin có giá trị, nên người ta hoãn đầu tư. Quyền chọn tăng trưởng là mặt ngược lại: nếu bất định chủ yếu là khả năng được lợi lớn, người đầu tư sớm sẽ chiếm được chỗ trước đối thủ, nên họ đầu tư sớm hơn. Ví dụ minh hoạ: một hãng dệt mở thêm xưởng khi hiệp định còn đang đàm phán; nếu hiệp định đổ vỡ, hãng vẫn bán được như trước; nếu hiệp định được ký, hãng có sẵn năng lực để đón đơn hàng mới. Đây là cách chương giải thích vì sao bất định hiệp định của chính nước mình có tác động dương.
+
+**Phần bù rủi ro (risk premia).** Phần lợi suất tăng thêm mà nhà đầu tư đòi để chấp nhận rủi ro. Ví dụ minh hoạ: nếu bình thường một dự án chỉ cần lãi 8% một năm để được duyệt, khi bất định tăng nhà đầu tư có thể đòi 10%, và những dự án chỉ lãi 9% bị loại bỏ. Đây là một trong hai cơ chế khiến bất định làm giảm đầu tư.
+
+**Độ mở thương mại (trade openness).** Thường đo bằng tổng xuất khẩu và nhập khẩu chia cho GDP. Nước càng mở thì càng giao thương nhiều và với nhiều đối tác. Chương xếp các nước theo phân vị độ mở: phân vị 10 là nhóm ít mở, phân vị 90 là nhóm rất mở như Singapore. Kết quả quan trọng nhất của chương là độ mở làm bộ đệm: tác động của bất định bảo hộ nước thứ ba là −9,4% ở phân vị 10 nhưng chỉ −2,9% và không có ý nghĩa thống kê ở phân vị 90.
+
+**Phép chiếu cục bộ và phản ứng xung (local projections, impulse response).** Phản ứng xung là đường mô tả một biến (ví dụ GDP) thay đổi thế nào trong các năm sau một cú sốc. Phép chiếu cục bộ ước lượng đường đó bằng cách chạy một hồi quy riêng cho mỗi tầm chiếu: năm cú sốc xảy ra (năm t), một năm sau (t+1), hai năm sau (t+2), và cứ thế. Ví dụ: con số −7,1% ở năm t+2 nghĩa là hai năm sau cú sốc, GDP đầu người thấp hơn khoảng 7,1% so với khi không có cú sốc.
+
+**Moment thứ nhất và moment thứ hai (first moment, second moment).** Moment thứ nhất là mức kỳ vọng trung bình, moment thứ hai là độ phân tán quanh mức đó. Tin xấu làm kỳ vọng trung bình dịch xuống (moment thứ nhất); bất định làm khoảng các kết quả có thể xảy ra rộng ra (moment thứ hai). Ví dụ minh hoạ: dự báo tăng trưởng giảm từ 6% xuống 5% là tin xấu; dự báo vẫn là 6% nhưng có thể rơi vào bất kỳ đâu từ 3% đến 9% là bất định. Chương phải tách hai thứ này để chắc rằng mình đang đo bất định chứ không chỉ đo việc triển vọng xấu đi.
+
+## Nội dung chi tiết
 
 ### 1. Vấn đề và ba đóng góp
 
-Bất định chính sách thương mại đang ở mức cao kỷ lục. Nhưng các thước đo sẵn có — chỉ số bất định chính sách kinh tế toàn cầu, chỉ số bất định thương mại thế giới, chỉ số Caldara — đều gộp mọi loại bất định làm một khối. Chương này tách ra theo ba chiều:
+Bất định chính sách thương mại đang ở mức cao kỷ lục. Vấn đề là các thước đo sẵn có, như chỉ số bất định chính sách kinh tế toàn cầu, chỉ số bất định thương mại thế giới và chỉ số Caldara, đều gộp mọi loại bất định làm một khối. Một tin về khả năng tăng thuế quan và một tin về khả năng ký hiệp định tự do thương mại đều được đếm như nhau, dù tác động kinh tế của chúng có thể ngược chiều.
+
+Chương này tách bất định ra theo ba chiều:
 
 - **Theo nội dung:** bất định về **bảo hộ** (nguy cơ thuế quan, rào cản, trả đũa) so với bất định về **hiệp định thương mại** (khả năng ký kết hoặc đổ vỡ đàm phán).
-- **Theo nguồn gốc:** bất định do **chính nước mình** tạo ra so với bất định của **các nước đối tác thương mại**.
-- **Theo phạm vi:** tập trung vào sáu nền kinh tế ASEAN — Indonesia, Malaysia, Philippines, Singapore, Thái Lan và Việt Nam.
+- **Theo nguồn gốc:** bất định do **chính nước mình** tạo ra so với bất định của **các nước đối tác thương mại**, gọi là nước thứ ba.
+- **Theo phạm vi:** tập trung vào sáu nền kinh tế ASEAN (ASEAN6) là Indonesia, Malaysia, Philippines, Singapore, Thái Lan và Việt Nam.
+
+Ghép hai chiều đầu lại ta được bốn ô, mỗi ô là một loại bất định với tác động riêng lên GDP đầu người. Bảng dưới đây tóm tắt kết quả chính của cả chương theo bốn ô này (chi tiết ở mục 6):
+
+| | Bảo hộ | Hiệp định |
+|---|---|---|
+| **Của chính nước mình** | −3,7% (năm t+1, một năm sau cú sốc) | **+1,3%** (ngay năm t, năm xảy ra cú sốc), tác động dương |
+| **Của nước thứ ba** | **−7,1%** (năm t+2, hai năm sau cú sốc), tệ nhất | −5,7% (năm t+2), cũng rất tệ |
 
 ### 2. Nền tảng lý thuyết: vì sao dấu không hiển nhiên
 
-Có ba cơ chế lý thuyết, và chúng không cùng dấu:
+Trước khi ước lượng, chương hỏi: về lý thuyết, bất định làm sản lượng giảm hay tăng? Câu trả lời là không hiển nhiên, vì có ba cơ chế và chúng không cùng dấu.
 
-**Quyền chọn thực.** Đầu tư là quyết định khó đảo ngược, nên khi tương lai bất định thì việc chờ đợi có giá trị: chờ thêm để có thêm thông tin. Kết quả là đầu tư bị hoãn. Tác động âm.
+| Cơ chế | Lập luận | Dấu tác động |
+|---|---|---|
+| **Quyền chọn thực** (real options) | Đầu tư là quyết định không đảo ngược được. Khi tương lai bất định, chờ thêm để có thông tin có giá trị, nên doanh nghiệp "chờ xem đã" và hoãn đầu tư | Âm |
+| **Phần bù rủi ro** (risk premia) | Bất định làm nhà đầu tư đòi lợi suất cao hơn, chi phí vốn tăng, các dự án biên (lãi vừa đủ) bị loại bỏ, đầu tư giảm | Âm |
+| **Quyền chọn tăng trưởng** (growth options) | Bất định không chỉ là rủi ro mất mát mà còn là khả năng được lợi lớn. Khi phân phối kết quả lệch về phía có lợi, doanh nghiệp có động cơ đầu tư **sớm** để chiếm chỗ trước đối thủ | Dương |
 
-**Phần bù rủi ro.** Bất định làm nhà đầu tư đòi lợi suất cao hơn, chi phí vốn tăng, dự án biên bị loại bỏ. Tác động âm.
+Cơ chế thứ ba bị bỏ quên trong phần lớn văn liệu. Chương lập luận rằng khi áp dụng vào **đàm phán hiệp định thương mại**, cơ chế này trở nên áp đảo. Lý do nằm ở hình dạng của các kịch bản:
 
-**Quyền chọn tăng trưởng.** Đây là cơ chế bị bỏ quên trong phần lớn văn liệu. Nếu bất định không chỉ là rủi ro mất mát mà còn là khả năng được lợi lớn, thì phân phối kết quả lệch về phía có lợi, và doanh nghiệp có động cơ đầu tư **sớm** để chiếm chỗ trước đối thủ. Tác động dương.
+- **Kịch bản xấu nhất:** đàm phán đổ vỡ và quay về nguyên trạng. Doanh nghiệp không mất gì thêm so với hiện tại.
+- **Kịch bản tốt:** hiệp định được ký, mở ra thị trường mới, thuế quan giảm, chuỗi cung ứng mở rộng. Phần thưởng rất lớn.
 
-**Áp dụng vào đàm phán hiệp định thương mại**, cơ chế thứ ba trở nên áp đảo. Trong lịch sử, kịch bản xấu nhất của một cuộc đàm phán thương mại là đàm phán đổ vỡ và quay về nguyên trạng — không mất thêm gì. Trong khi phần thưởng nếu thành công thì rất lớn: thị trường mới, thuế quan giảm, chuỗi cung ứng mở rộng. Hai tiền lệ được nêu là việc Trung Quốc gia nhập WTO và quá trình đàm phán CP-TPP.
+Vì phía thua lỗ bị chặn ở mức "không đổi" còn phía được lợi thì rộng, phân phối kết quả lệch hẳn về phía có lợi. Doanh nghiệp vì vậy đầu tư sớm để chiếm chỗ trước, thay vì chờ đợi. Hai tiền lệ lịch sử được nêu là việc Trung Quốc gia nhập WTO và quá trình đàm phán CP-TPP (Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương).
 
-Đây cũng là chỗ chứa mầm mống của một cảnh báo quan trọng mà chương không khai thác hết: lô-gic này **chỉ đúng khi "nguyên trạng" là an toàn**. Trong một thế giới mà thất bại đàm phán có thể kéo theo trả đũa, phân phối kết quả không còn lệch về phía có lợi, và dấu dương này có thể biến mất.
+Đây cũng là chỗ chứa mầm mống của một cảnh báo quan trọng mà chương không khai thác hết: lô-gic này **chỉ đúng khi "nguyên trạng" là an toàn**. Trong một thế giới mà thất bại đàm phán có thể kéo theo trả đũa, kịch bản xấu nhất không còn là "không mất gì", phân phối kết quả không còn lệch về phía có lợi, và dấu dương này có thể biến mất.
 
 ### 3. Cách xây dựng chỉ số
 
-Nguồn là cơ sở dữ liệu Factiva, bao gồm hơn 36.000 nguồn tin, hơn một tỷ bài báo tiếng Anh và gần 700 hãng thông tấn. Phạm vi: 25 nền kinh tế, tần suất tháng, từ tháng 1/1995 đến tháng 8/2025. Với mỗi nền kinh tế có ba thuật toán riêng: một cho bất định bảo hộ, một cho bất định hiệp định, và một cho việc chuẩn hóa.
+**Nguồn dữ liệu.** Chỉ số được xây bằng cách đếm bài báo trên cơ sở dữ liệu Factiva, bao gồm hơn 36.000 nguồn tin, hơn 1 tỷ bài báo tiếng Anh và gần 700 hãng thông tấn. Phạm vi: 25 nền kinh tế, tần suất tháng, từ tháng 1/1995 đến tháng 8/2025. Với mỗi nền kinh tế có ba thuật toán riêng: một cho bất định bảo hộ, một cho bất định hiệp định, và một cho việc chuẩn hoá.
 
-**Bộ lọc bốn tầng** áp dụng đồng thời cho mỗi bài báo: từ khóa về loại chính sách thương mại phải nằm trong phạm vi 8 từ so với từ chỉ sự bất định; đồng thời nằm trong phạm vi 8 từ so với tên nước; bài không được chứa các từ loại trừ (để tránh dương tính giả); và bài phải dài hơn 99 từ để loại bỏ tin vắn và tiêu đề.
+**Bộ lọc bốn tầng.** Một bài báo chỉ được đếm khi thoả cả bốn điều kiện cùng lúc:
 
-**Chuẩn hóa bằng trung bình trượt trung tâm một năm.** Đây là chi tiết kỹ thuật quan trọng. Khi bất định chính sách tăng vọt, tổng lượng tin về nước đó cũng tăng vọt. Nếu chia cho tổng số bài cùng tháng, mẫu số phình lên cùng lúc với tử số và chỉ số sẽ bị nén lại — hiện tượng chệch suy giảm. Dùng trung bình trượt một năm làm mẫu số giúp tránh vấn đề này.
+| Tầng | Điều kiện | Mục đích |
+|---|---|---|
+| 1 | Từ khoá về loại chính sách thương mại (bảo hộ hoặc hiệp định) nằm trong phạm vi 8 từ so với từ chỉ sự bất định | Đảm bảo bài thật sự nói về bất định của chính sách đó |
+| 2 | Đồng thời nằm trong phạm vi 8 từ so với tên nước | Gán đúng bất định cho đúng nước |
+| 3 | Bài không chứa các từ loại trừ | Tránh dương tính giả (bài trùng từ khoá nhưng nói chuyện khác) |
+| 4 | Bài dài hơn 99 từ | Loại bỏ tin vắn và tiêu đề |
 
-Cuối cùng chỉ số được quy về thang với trung bình giai đoạn 1995–2015 bằng 100.
+**Chuẩn hoá bằng trung bình trượt trung tâm 1 năm.** Số bài đếm được chia cho tổng số bài báo về nước đó, nhưng mẫu số không phải là tổng số bài cùng tháng mà là trung bình trượt trung tâm một năm (trung bình của các tháng trước và sau tháng đang xét). Lý do: khi bất định chính sách tăng vọt thì tổng lượng tin về nước đó cũng tăng vọt. Nếu chia cho tổng số bài cùng tháng, mẫu số phình lên cùng lúc với tử số và chỉ số bị nén lại, tức là bị chệch suy giảm. Ví dụ minh hoạ: tháng bình thường có 1.000 bài về một nước, 10 bài nói về bất định bảo hộ, tỷ lệ 1%; tháng căng thẳng có 50 bài về bất định nhưng tổng số bài cũng tăng lên 2.500, tỷ lệ chỉ còn 2%, dù số bài về bất định tăng gấp năm. Dùng mẫu số là trung bình một năm thì đỉnh này ít bị nén hơn.
 
-**Bất định của nước thứ ba** được tính bằng trung bình có trọng số bất định của các đối tác thương mại, trọng số là tỷ trọng xuất khẩu. Độ phủ đối tác dao động từ 79,0% (Thái Lan) đến 89,5% (Philippines), trung bình 85% — nghĩa là chỉ số nắm được phần lớn nhưng không toàn bộ quan hệ thương mại.
+**Quy về thang.** Cuối cùng chỉ số được quy về thang với trung bình giai đoạn 1995–2015 bằng 100. Một giá trị 200 nghĩa là bất định gấp đôi mức trung bình của giai đoạn đó.
 
-**Một bước phương pháp bất thường và đáng ghi nhận:** nhóm tác giả tham vấn các nhà báo đang tác nghiệp (một phóng viên Financial Times, một phóng viên từng làm cho CBS và Bloomberg) cùng các giáo sư báo chí để kiểm tra xem cách xây dựng bộ lọc có phản ánh đúng cách tin tức thương mại thực sự được viết hay không. Đây là một bước hiếm gặp trong nghiên cứu kinh tế định lượng, và nó xử lý đúng điểm yếu lớn nhất của phương pháp đếm bài báo: giả định về cách ngôn ngữ được dùng.
+**Bất định của nước thứ ba** được tính bằng trung bình có trọng số bất định của các đối tác thương mại, trọng số là tỷ trọng xuất khẩu. Vì không phải đối tác nào cũng có chỉ số, độ phủ không đạt 100%:
+
+| Nước | Độ phủ đối tác (phần xuất khẩu được tính) |
+|---|---|
+| Indonesia | 86,2% |
+| Malaysia | 86,6% |
+| Philippines | 89,5% (cao nhất) |
+| Singapore | 84,6% |
+| Thái Lan | 79,0% (thấp nhất) |
+| Việt Nam | 83,5% |
+| Trung bình | 85% |
+
+Nghĩa là chỉ số nắm được phần lớn nhưng không toàn bộ quan hệ thương mại.
+
+**Một bước phương pháp bất thường và đáng ghi nhận:** nhóm tác giả tham vấn các nhà báo đang tác nghiệp (một phóng viên Financial Times, một phóng viên từng làm cho CBS và Bloomberg) cùng các giáo sư báo chí để kiểm tra xem cách xây dựng bộ lọc có phản ánh đúng cách tin tức thương mại thực sự được viết hay không. Đây là bước hiếm gặp trong nghiên cứu kinh tế định lượng, và nó xử lý đúng điểm yếu lớn nhất của phương pháp đếm bài báo: giả định của người nghiên cứu về cách ngôn ngữ được dùng.
 
 ### 4. Bức tranh mô tả
 
-Số liệu đầy đủ đã trình bày ở sơ đồ. Bốn nhận xét:
+Các con số dưới đây là trung bình giai đoạn 1995–2025, theo thang lấy trung bình 1995–2015 bằng 100.
 
-**ASEAN6 chịu bất định của chính mình thấp nhất trong các khu vực** (58,4 cho bảo hộ và 84,4 cho hiệp định) — thấp hơn châu Á ngoài ASEAN, châu Âu và châu Mỹ. Điều này phản ánh chính sách thương mại tương đối ổn định và ít gây tranh cãi trong khu vực.
+**ASEAN6 chịu bất định của chính mình thấp nhất trong các khu vực**, chỉ trên Nam Phi:
 
-**Nhưng nước đang phát triển nói chung chịu bất định cao gấp khoảng 2,5 lần nước phát triển** (233,4 so với 92,6 về bảo hộ).
+| Khu vực | Bảo hộ (chính mình) | Hiệp định (chính mình) |
+|---|---|---|
+| Châu Á ngoài ASEAN | 258,5 (độ lệch chuẩn 423) | 247,0 (độ lệch chuẩn 296) |
+| Châu Âu | 124,4 | 171,4 |
+| Châu Mỹ | 79,0 | 149,4 |
+| ASEAN6 | 58,4 | 84,4 |
+| Nam Phi | 35,1 | 57,4 |
 
-**Việt Nam đứng đầu ASEAN6 ở cả bốn thước đo** — bất định bảo hộ của chính mình (102,0), bất định hiệp định của chính mình (137,6), bất định bảo hộ của nước thứ ba (133,5) và bất định hiệp định của nước thứ ba (177,3). Đây là hệ quả trực tiếp của vị thế đặc biệt: vừa là nền kinh tế mở sâu nhất với nhiều hiệp định nhất, vừa là tâm điểm của quá trình tái định tuyến thương mại toàn cầu, nên vừa tạo ra nhiều tin tức về chính sách thương mại của mình vừa hứng chịu nhiều tin tức về chính sách của đối tác.
+Châu Á ngoài ASEAN không chỉ có mức trung bình cao nhất mà còn dao động rất mạnh (độ lệch chuẩn lớn hơn cả mức trung bình). ASEAN6 thấp hơn châu Á ngoài ASEAN, châu Âu và châu Mỹ, phản ánh chính sách thương mại tương đối ổn định và ít gây tranh cãi trong khu vực.
 
-**Thước đo "hiệp định" mang thông tin thực sự mới.** Tương quan của nó với mọi chỉ số bất định hiện có đều dưới 0,31, và với chỉ số bất định kinh tế toàn cầu thì âm (−0,04). Nói cách khác, văn liệu trước đây không chỉ gộp chung hai loại bất định — mà còn bỏ sót hẳn một trong hai.
+**Nhưng nước đang phát triển nói chung chịu bất định cao gấp khoảng 2,5 lần nước phát triển:**
+
+| Nhóm nước | Bảo hộ | Hiệp định |
+|---|---|---|
+| Nước phát triển | 92,6 | 139,7 |
+| Nước mới nổi và đang phát triển | 233,4 | 241,1 |
+
+Về bảo hộ, 233,4 chia 92,6 cho khoảng 2,5 lần.
+
+**Việt Nam đứng đầu ASEAN6 ở cả bốn thước đo:**
+
+| Nước | Bảo hộ chính mình | Hiệp định chính mình | Bảo hộ nước thứ ba | Hiệp định nước thứ ba |
+|---|---|---|---|---|
+| **Việt Nam** | **102,0** | **137,6** | **133,5** | **177,3** |
+| Thái Lan | 71,9 | 95,4 | 114,3 | 147,4 |
+| Indonesia | 60,4 | 106,7 | 126,0 | 155,5 |
+| Malaysia | 38,2 | 29,5 | 105,5 | 130,4 |
+| Singapore | 37,6 | 37,0 | 107,7 | 138,5 |
+| Philippines | 35,4 | 38,8 | 102,8 | 134,5 |
+
+Đây là hệ quả trực tiếp của vị thế đặc biệt của Việt Nam: vừa là nền kinh tế mở sâu nhất với nhiều hiệp định nhất, vừa là tâm điểm của quá trình tái định tuyến thương mại toàn cầu. Vì vậy Việt Nam vừa tạo ra nhiều tin tức về chính sách thương mại của mình, vừa hứng chịu nhiều tin tức về chính sách của đối tác. Cũng đáng để ý là với mọi nước trong bảng, bất định của nước thứ ba đều cao hơn bất định của chính mình.
+
+**Thước đo "hiệp định" mang thông tin thực sự mới.** Chương so hai chỉ số mới với các thước đo bất định đã có:
+
+| Thước đo đã có | Tương quan với chỉ số bảo hộ | Tương quan với chỉ số hiệp định |
+|---|---|---|
+| Bất định chính sách kinh tế toàn cầu | 0,24 | −0,04 |
+| Bất định chính sách thương mại của Mỹ | 0,37 | 0,10 |
+| Chỉ số bất định thương mại thế giới | 0,49 | 0,31 |
+| Chỉ số Caldara | 0,37 | 0,09 |
+| Bất định chính sách thương mại Trung Quốc | 0,30 | 0,03 |
+| Biến động thị trường chứng khoán | 0,33 | 0,09 |
+
+Tương quan giữa chính hai thước đo mới với nhau chỉ là 0,19. Chỉ số bảo hộ có liên hệ vừa phải với các thước đo cũ (cao nhất 0,49), nghĩa là các thước đo cũ chủ yếu đang đo bất định bảo hộ. Còn tương quan của thước đo hiệp định với mọi chỉ số hiện có đều không vượt quá 0,31, và với chỉ số bất định kinh tế toàn cầu thì âm (−0,04). Nói cách khác, văn liệu trước đây không chỉ gộp chung hai loại bất định mà còn bỏ sót hẳn một trong hai.
 
 ### 5. Phương pháp ước lượng
 
-Chương dùng phép chiếu cục bộ trên dữ liệu năm, giai đoạn 1995–2024, với tầm chiếu từ 0 đến 5 năm.
+Chương dùng phép chiếu cục bộ trên dữ liệu năm, giai đoạn 1995–2024, với tầm chiếu từ 0 đến 5 năm sau cú sốc. Năm bước thiết kế chính:
 
-**Định nghĩa cú sốc:** biến giả bằng 1 nếu chỉ số bất định của nước đó vượt trung bình ASEAN6 ít nhất một độ lệch chuẩn. Cách này đổi độ chính xác về độ lớn lấy sự vững chắc — nó tránh việc phải giả định quan hệ tuyến tính trên toàn dải giá trị.
+**Định nghĩa cú sốc.** Cú sốc là một biến giả bằng 1 nếu chỉ số bất định của nước đó vượt trung bình ASEAN6 ít nhất một độ lệch chuẩn, và bằng 0 trong các trường hợp còn lại. Cách này đổi độ chính xác về độ lớn lấy sự vững chắc: nó không đo được bất định tăng bao nhiêu thì GDP giảm bao nhiêu, nhưng tránh được việc phải giả định quan hệ tuyến tính trên toàn dải giá trị.
 
-**Chọn biến kiểm soát bằng LASSO hai bước** từ hơn 150 biến vĩ mô và tài chính. Phương pháp này chọn biến một cách có hệ thống thay vì theo ý chủ quan của người nghiên cứu, và bước thứ hai giúp tránh chệch do bỏ sót biến mà LASSO đơn thuần hay mắc phải.
+**Chọn biến kiểm soát bằng LASSO hai bước** từ hơn 150 biến vĩ mô và tài chính. LASSO là một thuật toán tự động chọn ra những biến thực sự có ích trong số rất nhiều biến ứng viên. Cách này chọn biến có hệ thống thay vì theo ý chủ quan của người nghiên cứu, và bước thứ hai giúp tránh chệch do bỏ sót biến mà LASSO đơn thuần hay mắc phải.
 
-**Kiểm soát tác động của moment thứ nhất:** chương đưa vào mức điều chỉnh dự báo tăng trưởng của IMF giữa kỳ Xuân và kỳ Thu của năm trước. Đây là bước quan trọng để tách **bất định** (moment thứ hai — độ phân tán của kỳ vọng) khỏi **tin xấu** (moment thứ nhất — kỳ vọng trung bình dịch xuống). Nếu không tách, chỉ số bất định sẽ chỉ đo việc triển vọng đang xấu đi.
+**Kiểm soát tác động của moment thứ nhất.** Chương đưa vào mô hình mức điều chỉnh dự báo tăng trưởng của IMF giữa kỳ Xuân và kỳ Thu của năm trước. Đây là bước quan trọng để tách **bất định** (moment thứ hai, tức độ phân tán của kỳ vọng) khỏi **tin xấu** (moment thứ nhất, tức kỳ vọng trung bình dịch xuống). Nếu không tách, chỉ số bất định có thể chỉ đang đo việc triển vọng xấu đi.
 
-**Sai số chuẩn bằng bootstrap cụm hoang dã với trọng số Webb** — cần thiết vì chỉ có sáu cụm (sáu nước), quá ít để dùng sai số chuẩn cụm thông thường.
+**Sai số chuẩn bằng bootstrap cụm hoang dã với trọng số Webb.** Sai số chuẩn cho biết ước lượng chắc đến đâu. Cách tính thông thường theo cụm cần nhiều cụm; ở đây chỉ có sáu cụm (sáu nước), quá ít, nên phải dùng phương pháp lấy mẫu lại đặc biệt này.
 
-**Không đưa hiệu ứng cố định theo thời gian**, với lý do được nêu rõ: cú sốc của nước thứ ba có tương quan rất cao giữa các nước nên về mặt kinh tế lượng sẽ bị hiệu ứng cố định theo thời gian hấp thụ mất.
+**Không đưa hiệu ứng cố định theo thời gian.** Hiệu ứng cố định theo thời gian là cách loại bỏ mọi thứ chung cho tất cả các nước trong cùng một năm. Chương nêu rõ lý do không dùng: cú sốc của nước thứ ba có tương quan rất cao giữa các nước (khi Mỹ tăng thuế quan, cả sáu nước cùng chịu), nên nếu đưa hiệu ứng này vào thì nó sẽ hấp thụ mất chính cú sốc cần đo.
 
 ### 6. Kết quả chính
 
-Bốn con số, đã trình bày ở sơ đồ đầu tiên: bất định bảo hộ của nước thứ ba −7,1% sau hai năm; bất định hiệp định của nước thứ ba −5,7%; bất định bảo hộ của chính nước mình −3,7% ở năm thứ nhất; bất định hiệp định của chính nước mình **+1,3%** ngay trong năm đầu.
+Bốn kết quả, xếp theo mức thiệt hại lên GDP đầu người:
 
-Xếp hạng này chứa bài học chính sách quan trọng nhất: **bất định đến từ bên ngoài nguy hiểm hơn nhiều so với bất định do chính mình tạo ra**. Lý do không khó hiểu nhưng thường bị bỏ qua: với chính sách của mình, chính phủ còn kiểm soát được thời điểm, có thể phát tín hiệu, có thể cam kết; với chính sách của đối tác thì hoàn toàn bị động.
+| Hạng | Loại bất định | Tác động lên GDP đầu người | Thời điểm |
+|---|---|---|---|
+| 1 | Bảo hộ của nước thứ ba | −7,1% | tích luỹ đến năm t+2 |
+| 2 | Hiệp định của nước thứ ba | −5,7% | tích luỹ đến năm t+2 |
+| 3 | Bảo hộ của chính nước mình | −3,7% | năm t+1 |
+| 4 | Hiệp định của chính nước mình | **+1,3%**, có lợi | ngay năm t |
 
-Khi hai cú sốc xảy ra đồng thời, tác động của bất định bảo hộ của chính nước mình giảm xuống −3,0% so với −3,7% khi đứng riêng — một hiệu ứng bù trừ nhẹ.
+Xếp hạng này chứa bài học chính sách quan trọng nhất của chương: **bất định đến từ bên ngoài nguy hiểm hơn nhiều so với bất định do chính mình tạo ra**. Tác động của bất định bảo hộ nước thứ ba gần gấp đôi bất định bảo hộ của chính mình. Lý do không khó hiểu nhưng thường bị bỏ qua: với chính sách của mình, chính phủ còn kiểm soát được thời điểm, có thể phát tín hiệu trấn an thị trường, có thể cam kết; với chính sách của đối tác thì hoàn toàn bị động và không thể phòng ngừa.
+
+Để cảm nhận độ lớn: mức thiệt hại 7,1% GDP đầu người sau hai năm, đặt cạnh mức tăng trưởng trung bình 3,1% mỗi năm của ASEAN6, tương đương xoá sạch hơn hai năm tăng trưởng. Đây là lý do cần đọc các con số này cùng những cảnh báo ở mục 9.
+
+Khi hai cú sốc xảy ra đồng thời (bất định của chính mình và của nước thứ ba đưa cùng vào mô hình), tác động của bất định bảo hộ của chính nước mình giảm xuống −3,0%, so với −3,7% khi đứng riêng. Đây là một hiệu ứng bù trừ nhẹ: một phần nhỏ tác động tưởng là của chính mình thật ra đi cùng với bất định từ bên ngoài.
 
 ### 7. Vai trò của độ mở thương mại
 
-Đây là kết quả có giá trị chính sách trực tiếp nhất. Khi cho cú sốc của nước thứ ba tương tác với độ mở thương mại trung bình, gradient rất rõ: nước ở phân vị 10 về độ mở chịu thiệt hại −9,4%, nước ở phân vị 50 chịu −7,8%, còn nước ở phân vị 90 (ví dụ Singapore) chỉ chịu −2,9% và con số này **không có ý nghĩa thống kê**. Với cú sốc bất định hiệp định của nước thứ ba, tác động ở phân vị 90 thậm chí đổi dấu thành +0,5%.
+Đây là kết quả có giá trị chính sách trực tiếp nhất. Chương cho cú sốc của nước thứ ba tương tác với độ mở thương mại, rồi tính tác động ở các mức độ mở khác nhau. Gradient rất rõ và đơn điệu:
 
-Cơ chế: đa dạng hóa thị trường và đối tác cho phép chuyển hướng khi một tuyến bị tắc. Nước mở nhiều cửa thì việc một cửa đóng lại không phải là thảm họa.
+| Mức độ mở thương mại | Bất định bảo hộ nước thứ ba (tích luỹ 2 năm) | Bất định hiệp định nước thứ ba |
+|---|---|---|
+| Phân vị 10 (ít mở) | −9,4%, thiệt hại nặng nhất | −9,3% |
+| Phân vị 50 | −7,8% | −6,9% |
+| Trung bình mẫu | −7,1% | −5,7% |
+| Phân vị 90 (rất mở, ví dụ Singapore) | −2,9%, **không có ý nghĩa thống kê** | +0,5%, đổi dấu, không có ý nghĩa thống kê |
 
-**Hàm ý chính sách rất phản trực giác**: phản ứng đúng khi đối tác gia tăng bảo hộ không phải là đóng cửa lại để tự vệ, mà là mở thêm về phía khác. Đây cũng là lập luận mạnh nhất ủng hộ chiến lược đa dạng hóa hiệp định thương mại mà Việt Nam đang theo đuổi.
+Với nước ít mở, cú sốc gây thiệt hại gấp hơn ba lần so với nước rất mở. Với cú sốc bất định hiệp định của nước thứ ba, tác động ở phân vị 90 thậm chí đổi dấu thành dương.
+
+Cơ chế: đa dạng hoá thị trường và đối tác cho phép chuyển hướng khi một tuyến bị tắc. Nước mở nhiều cửa thì việc một cửa đóng lại không phải là thảm hoạ. Đây là cùng nguyên lý với đa dạng hoá danh mục đầu tư, áp dụng ở cấp quốc gia: độ mở thương mại là một công cụ phòng ngừa rủi ro.
+
+**Hàm ý chính sách rất phản trực giác**: phản ứng đúng khi đối tác gia tăng bảo hộ không phải là đóng cửa lại để tự vệ, mà là mở thêm về phía khác. Đây cũng là lập luận mạnh nhất ủng hộ chiến lược đa dạng hoá hiệp định thương mại mà Việt Nam đang theo đuổi.
 
 ### 8. Các kênh truyền dẫn
 
-**Khi chính nước mình gia tăng bất định bảo hộ:** xuất khẩu trên GDP giảm 1,9 điểm phần trăm ngay năm đầu; cán cân vãng lai xấu đi theo thời gian nhưng ước lượng không chính xác; **lạm phát tăng 3 điểm phần trăm** vào năm thứ ba. Đây là một cú sốc **đình lạm** — sản lượng giảm và giá tăng cùng lúc. Hai kết quả bất ngờ: đầu tư và FDI ròng lại **tăng** 3,6 điểm phần trăm GDP vào năm thứ hai (có thể là đầu tư thay thế nhập khẩu), và tiêu dùng tư nhân có dấu dương, trái với kỳ vọng ban đầu.
+Để hiểu vì sao GDP giảm, chương xem từng thành phần của nền kinh tế phản ứng ra sao với từng loại cú sốc.
 
-**Khi nước thứ ba gia tăng bất định bảo hộ:** xuất khẩu nhích lên và cán cân vãng lai cải thiện 2,5 điểm phần trăm GDP vào năm thứ hai — đúng như dự đoán của lý thuyết tái phân bổ thương mại. Thị trường chứng khoán tăng 15,6% ngay năm đầu. **Nhưng đầu tư giảm 4,2 điểm phần trăm GDP vào năm thứ hai và tiêu dùng tư nhân giảm 1,3 điểm phần trăm vào năm thứ nhất.**
+**Khi chính nước mình gia tăng bất định bảo hộ:**
 
-Đây là kết quả đáng suy nghĩ nhất của chương, và chương tự tóm tắt bằng một câu rất thẳng: **"cần thận trọng khi cho rằng có 'người thắng' từ căng thẳng thương mại, bất chấp kết quả thương mại tốt hơn"**. Số liệu thương mại tốt lên không có nghĩa là nền kinh tế tốt lên — vì đầu tư và tiêu dùng cùng co lại dưới sức nặng của bất định, và hai hiệu ứng bù trừ nhau.
+- Xuất khẩu trên GDP giảm 1,9 điểm phần trăm ngay năm đầu.
+- Cán cân vãng lai xấu đi theo thời gian, nhưng ước lượng không chính xác.
+- **Lạm phát tăng 3 điểm phần trăm** vào năm thứ ba (t+3).
+- Hai kết quả bất ngờ: đầu tư và FDI ròng lại **tăng** 3,6 điểm phần trăm GDP vào năm thứ hai (t+2), có thể là đầu tư thay thế nhập khẩu (doanh nghiệp trong nước xây cơ sở để sản xuất thứ trước đây phải nhập); và tiêu dùng tư nhân có dấu dương, trái với kỳ vọng ban đầu.
+
+Sản lượng giảm và giá tăng cùng lúc, nên đây là một cú sốc **đình lạm**.
+
+**Khi nước thứ ba gia tăng bất định bảo hộ:**
+
+| Mặt tốt | Mặt xấu |
+|---|---|
+| Xuất khẩu nhích lên nhờ tái phân bổ thương mại (đơn hàng chuyển từ nước bị đánh thuế sang nước quan sát) | **Đầu tư giảm 4,2 điểm phần trăm GDP** vào năm thứ hai (t+2) |
+| Cán cân vãng lai cải thiện 2,5 điểm phần trăm GDP vào năm thứ hai (t+2) | **Tiêu dùng tư nhân giảm 1,3 điểm phần trăm** vào năm thứ nhất (t+1) |
+| Thị trường chứng khoán tăng 15,6% ngay năm đầu | |
+
+Phần mặt tốt đúng như lý thuyết tái phân bổ thương mại dự đoán. Nhưng hai cột bù trừ nhau, và tổng lại GDP vẫn giảm 7,1%.
+
+Đây là kết quả đáng suy nghĩ nhất của chương, và chương tự tóm tắt bằng một câu rất thẳng: **"cần thận trọng khi cho rằng có 'người thắng' từ căng thẳng thương mại, bất chấp kết quả thương mại tốt hơn"**. Số liệu thương mại tốt lên không có nghĩa là nền kinh tế tốt lên, vì đầu tư và tiêu dùng cùng co lại dưới sức nặng của bất định.
 
 Lưu ý sự tương đồng rất mạnh với kết luận của nghiên cứu về ASEAN trong thế giới phân mảnh cùng thư mục: lợi ích từ tái phân bổ thương mại là có thật nhưng hẹp, và bị bù trừ bởi những thiệt hại rộng hơn.
 
 **Khi nước thứ ba gia tăng bất định hiệp định:** đầu tư giảm 2,4 điểm phần trăm GDP vào năm thứ hai; cán cân vãng lai cải thiện 1,4 điểm phần trăm ở năm thứ nhất.
 
-**Khi chính nước mình gia tăng bất định hiệp định:** đầu tư và FDI tăng khoảng 2 điểm phần trăm GDP ở giai đoạn đầu — đúng như lý thuyết quyền chọn tăng trưởng dự đoán; cán cân vãng lai xấu đi 2,0 điểm phần trăm trong năm đầu vì nhập khẩu tăng nhanh hơn xuất khẩu (nhập máy móc thiết bị cho các dự án đầu tư mới). Các tác động này tắt dần theo thời gian.
+**Khi chính nước mình gia tăng bất định hiệp định:** đầu tư và FDI tăng khoảng 2 điểm phần trăm GDP ở giai đoạn đầu, đúng như lý thuyết quyền chọn tăng trưởng dự đoán. Cán cân vãng lai xấu đi 2,0 điểm phần trăm trong năm đầu vì nhập khẩu tăng nhanh hơn xuất khẩu: các dự án đầu tư mới cần nhập máy móc, thiết bị. Các tác động này tắt dần theo thời gian.
 
 ### 9. Kiểm định độ vững và những cảnh báo của chính chương
 
-Chương kiểm tra với biến giả cho ba cuộc khủng hoảng lớn (khủng hoảng tài chính châu Á, khủng hoảng tài chính toàn cầu, Covid), với cả bốn cú sốc đưa vào cùng một phương trình, và với phiên bản liên tục của chỉ số thay cho biến giả.
+Chương kiểm tra lại kết quả theo ba cách: thêm biến giả cho ba cuộc khủng hoảng lớn (khủng hoảng tài chính châu Á, khủng hoảng tài chính toàn cầu, Covid); đưa cả bốn cú sốc vào cùng một phương trình; và dùng phiên bản liên tục của chỉ số thay cho biến giả 0–1.
 
-Ở phiên bản liên tục, chương đưa ra một con số rất đáng nhớ: **một cú tăng bất định bảo hộ của nước thứ ba với độ lớn tương đương đợt căng thẳng Mỹ – Trung năm 2018 tương ứng với mức giảm tích lũy 8,7% GDP đầu người sau hai năm.**
+Ở phiên bản liên tục, chương đưa ra một con số rất đáng nhớ: **một cú tăng bất định bảo hộ của nước thứ ba với độ lớn tương đương đợt căng thẳng Mỹ – Trung năm 2018 tương ứng với mức giảm tích luỹ 8,7% GDP đầu người sau hai năm.**
 
 Điều đáng ghi nhận là chương **tự cảnh báo rất mạnh** về chính kết quả của mình, ở ba chỗ:
 
-- Liệt kê năm hạn chế: cú sốc bất định có thể tương quan với các yếu tố toàn cầu bị bỏ sót; giả định rằng lan tỏa tỷ lệ với tỷ trọng thương mại có thể không đúng trong giai đoạn chuyển dịch cơ cấu; bảng dữ liệu quá nhỏ (sáu nước); chỉ số có thể đang đo mức độ chú ý của báo chí chứ không phải mức bất định thực; và mô hình bỏ qua cân bằng tổng thể. Kết luận: "kết quả nên được hiểu là các mô thức động có điều kiện chứ không phải các độ lớn nhân quả xác định".
+- Liệt kê năm hạn chế: (1) cú sốc bất định có thể tương quan với các yếu tố toàn cầu bị bỏ sót; (2) giả định rằng lan toả tỷ lệ với tỷ trọng thương mại có thể không đúng trong giai đoạn chuyển dịch cơ cấu; (3) bảng dữ liệu quá nhỏ, chỉ sáu nước; (4) chỉ số có thể đang đo mức độ chú ý của báo chí chứ không phải mức bất định thực; (5) mô hình bỏ qua cân bằng tổng thể. Kết luận: "kết quả nên được hiểu là các mô thức động có điều kiện chứ không phải các độ lớn nhân quả xác định".
 - Thừa nhận thẳng: **"các phản ứng xung không có ý nghĩa thống kê ở phần lớn các tầm chiếu"**.
 - Lưu ý rằng "tuy tác động ước lượng lên sản lượng là lớn, những mức suy giảm đó có thể không thực sự xảy ra vì các cú sốc tích cực khác có thể đã xuất hiện và bù trừ".
 
-Ba cảnh báo này cần được đọc cùng với vấn đề độ vững đã nêu trong phần Lưu ý: khi thêm biến giả khủng hoảng, tác động của bất định bảo hộ **của chính nước mình** gần như biến mất, trong khi chương mô tả kết quả là "tương tự về mặt định tính".
+Ba cảnh báo này cần được đọc cùng với một vấn đề độ vững mà chương mô tả nhẹ hơn thực tế: khi thêm biến giả khủng hoảng, tác động của bất định bảo hộ **của chính nước mình** gần như biến mất (đường phản ứng dao động quanh 0 và dải tin cậy bao trùm 0 từ sau năm thứ nhất), chỉ tác động của nước thứ ba là còn giữ được. Thế nhưng chương mô tả kết quả này là "tương tự về mặt định tính".
 
 ### 10. Ý nghĩa với Việt Nam
 
 Bốn điểm rút ra trực tiếp:
 
-**Việt Nam chịu bất định chính sách thương mại cao nhất ASEAN6 ở cả bốn thước đo.** Đây không phải dấu hiệu chính sách kém mà là hệ quả cơ học của việc mở cửa sâu nhất và nằm ở tâm điểm tái định tuyến thương mại toàn cầu. Nhưng nó có nghĩa là Việt Nam cũng là nước chịu tác động của các cú sốc này mạnh nhất.
+**Việt Nam chịu bất định chính sách thương mại cao nhất ASEAN6 ở cả bốn thước đo** (102,0; 137,6; 133,5; 177,3). Đây không phải dấu hiệu chính sách kém mà là hệ quả cơ học của việc mở cửa sâu nhất và nằm ở tâm điểm tái định tuyến thương mại toàn cầu. Nhưng nó có nghĩa là Việt Nam cũng là nước chịu tác động của các cú sốc này mạnh nhất.
 
-**Độ mở thương mại vừa là nguồn phơi nhiễm vừa là bộ đệm** — và theo kết quả của chương thì vế thứ hai thắng. Việt Nam đã ở phía mở của phân phối, và việc tiếp tục mở rộng mạng lưới hiệp định là cách phòng ngừa hiệu quả nhất trước bất định từ đối tác.
+**Độ mở thương mại vừa là nguồn phơi nhiễm vừa là bộ đệm**, và theo kết quả của chương thì vế thứ hai thắng. Việt Nam đã ở phía mở của phân phối, và việc tiếp tục mở rộng mạng lưới hiệp định là cách phòng ngừa hiệu quả nhất trước bất định từ đối tác.
 
-**Bất định về hiệp định thương mại của chính mình không đáng sợ.** Đây là một lời trấn an có cơ sở thực nghiệm: các cuộc đàm phán kéo dài, ồn ào và không chắc chắn về kết quả vẫn có tác động ròng dương lên sản lượng, vì bản thân triển vọng có một hiệp định đã đủ để kéo đầu tư đến sớm. Nhưng cần nhớ điều kiện đi kèm: lô-gic này giả định thất bại đàm phán chỉ dẫn tới nguyên trạng, không dẫn tới trả đũa.
+**Bất định về hiệp định thương mại của chính mình không đáng sợ.** Đây là một lời trấn an có cơ sở thực nghiệm: các cuộc đàm phán kéo dài, ồn ào và không chắc chắn về kết quả vẫn có tác động ròng dương lên sản lượng (+1,3%), vì bản thân triển vọng có một hiệp định đã đủ để kéo đầu tư đến sớm. Nhưng cần nhớ điều kiện đi kèm: lô-gic này giả định thất bại đàm phán chỉ dẫn tới nguyên trạng, không dẫn tới trả đũa.
 
-**Đừng nhầm số liệu thương mại tốt lên với nền kinh tế tốt lên.** Khi đối tác gia tăng bảo hộ với nước khác và đơn hàng chuyển sang Việt Nam, xuất khẩu và cán cân vãng lai sẽ đẹp lên. Nhưng cùng lúc đó, đầu tư và tiêu dùng trong nước co lại dưới sức nặng của bất định — và tổng lại sản lượng vẫn giảm.
+**Đừng nhầm số liệu thương mại tốt lên với nền kinh tế tốt lên.** Khi đối tác gia tăng bảo hộ với nước khác và đơn hàng chuyển sang Việt Nam, xuất khẩu và cán cân vãng lai sẽ đẹp lên. Nhưng cùng lúc đó, đầu tư và tiêu dùng trong nước co lại dưới sức nặng của bất định, và tổng lại sản lượng vẫn giảm.
 
 ## Thuật ngữ
 

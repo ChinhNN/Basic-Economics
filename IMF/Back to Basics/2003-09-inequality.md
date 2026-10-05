@@ -138,37 +138,127 @@
 2. Nên dùng khái niệm nào, tuỳ mục đích gì?
 3. Ta nên lo lắng đến đâu về bất bình đẳng?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Bất bình đẳng giữa các nước (cross-country inequality).** So sánh thu nhập trung bình của các nước với nhau, mỗi nước được tính là một quan sát, không quan tâm nước đó đông hay ít dân. Ví dụ minh hoạ: nếu nước A có thu nhập trung bình 40.000 USD và nước B có 1.000 USD, rồi mười năm sau A lên 50.000 USD còn B vẫn đứng ở 1.000 USD, thì bất bình đẳng giữa các nước tăng. Đây là thước đo ủng hộ khẩu hiệu "người giàu càng giàu, người nghèo càng nghèo" nhiều nhất trong bài.
+
+**Bất bình đẳng trong một nước (within-country inequality).** Chênh lệch thu nhập giữa người giàu và người nghèo sống trong cùng một nước. Thước đo này nói về đời sống mà người dân thực sự trải qua hằng ngày, vì phần lớn người ta sống cả đời ở nước mình sinh ra. Trong bài, nó tăng ở một số nước (như Mỹ) nhưng ổn định ở nhiều nước khác.
+
+**Hệ số Gini (Gini coefficient).** Con số tóm tắt mức bất bình đẳng thu nhập trong một nhóm người, chạy từ 0 đến 1. Bằng 0 nghĩa là mọi người có thu nhập như nhau; bằng 1 nghĩa là một người nắm toàn bộ thu nhập. Càng thấp càng bình đẳng. Ví dụ trong bài: Nhật Bản và nhiều nước châu Âu khoảng 0,25–0,3, Mỹ khoảng 0,4, Brazil khoảng 0,6. Chênh lệch từ 0,3 lên 0,6 là rất lớn: đó là khác biệt giữa một xã hội tương đối đều và một trong những xã hội bất bình đẳng nhất thế giới.
+
+**Bất bình đẳng toàn cầu (global inequality).** Coi cả thế giới như một nước duy nhất và so thu nhập giữa người với người, bỏ qua biên giới. Tác giả gọi đây là "định nghĩa John Lennon", theo lời bài hát *Imagine* mời người nghe tưởng tượng một thế giới không có quốc gia. Vì mỗi người được tính một lần, nước đông dân có trọng số lớn: tăng trưởng của Trung Quốc với 1,2 tỷ dân nặng hơn rất nhiều so với tăng trưởng của Lesotho với vài triệu dân. Đây là thước đo cho kết quả "hội tụ".
+
+**Phân kỳ và hội tụ (divergence, convergence).** Phân kỳ là khoảng cách giữa giàu và nghèo giãn ra theo thời gian; hội tụ là khoảng cách thu hẹp lại. Hai khái niệm này chỉ có nghĩa khi đã nói rõ đang so ai với ai. Điểm then chốt của bài là cùng một bộ số liệu cho ra "phân kỳ, quy mô lớn" nếu đo giữa các nước, và "hội tụ, chấm hết" nếu đo giữa người với người.
+
+**Trọng số dân số (population weighting).** Khi tính trung bình, mỗi nước được nhân với số dân của nó, để một nước 1,2 tỷ người không bị tính ngang một nước vài triệu người. Ví dụ minh hoạ: hai nước, một nước 100 triệu dân tăng trưởng 10%, một nước 1 triệu dân tăng trưởng 0%. Không tính trọng số thì "trung bình" tăng 5%; tính trọng số thì gần như cả thế giới gộp lại tăng gần 10%. Lựa chọn kỹ thuật này là điểm quyết định toàn bộ kết luận của bài.
+
+**Chỉ số Phát triển Con người (Human Development Index, HDI).** Chỉ số do Liên hợp quốc tính, gộp ba thước đo phúc lợi: thu nhập đầu người, tuổi thọ và tỷ lệ biết chữ. Nó dựa trên ý rằng tiền không phải là tất cả. Trong bài, khi tính thêm tuổi thọ, kết luận "phân kỳ" giữa các nước giàu và nghèo đổi thành "hội tụ".
+
+**Tái phân phối (redistribution).** Các chính sách của nhà nước lấy bớt thu nhập của người có nhiều để chuyển cho người có ít, qua thuế luỹ tiến, trợ cấp và dịch vụ công. Ví dụ minh hoạ: thuế thu nhập 40% với phần thu nhập cao, dùng để trả trợ cấp cho hộ nghèo. Bài kết luận rằng mức bất bình đẳng trong nước một phần lớn là lựa chọn chính sách, và nhiều nước Tây Âu dùng tái phân phối để có phân phối đều hơn mức lẽ ra sẽ có.
+
+## Nội dung chi tiết
 
 ### 1. Chỉ cần sự thật
 
-- "Người giàu càng giàu; người nghèo càng nghèo." Gõ khẩu hiệu phổ biến này vào Google cho hơn 34.000 kết quả. Nhưng nó có mô tả đúng sự thật không? Và ta nên lo lắng đến mức nào về bất bình đẳng?
-- Xác lập sự thật có thể khó vì có ba khái niệm bất bình đẳng thu nhập thường dùng, mỗi cái có chỗ đứng riêng trong tranh luận chính sách.
-- **Bất bình đẳng giữa các nước** là khái niệm ủng hộ khẩu hiệu "người giàu càng giàu..." nhiều nhất, chỉ bất bình đẳng của thu nhập trung bình. Đo theo cách này, bất bình đẳng giữa các nước rõ ràng đã tăng trong những thập kỷ gần đây, một kết quả mà nhà kinh tế Harvard Lant Pritchett mô tả nổi tiếng là "phân kỳ, quy mô lớn". Thu nhập trung bình của các nước tiên tiến tiếp tục tăng, trong khi thu nhập trung bình ở đầu kia của phân phối, nhất là ở nhiều nước châu Phi hạ Sahara, trì trệ hoặc giảm.
-- Điều đó có nghĩa bất bình đẳng thu nhập trong các nước đã tăng không? Không nhất thiết. **Bất bình đẳng trong một nước** quả thực đã tăng ở nhiều nước nhưng vẫn ổn định ở nhiều nước khác. Khái niệm thứ hai này là chênh lệch giữa thu nhập người giàu và người nghèo trong một nước, thường đo bằng hệ số Gini, một cấu trúc thống kê chạy từ 0 đến 1, giá trị thấp hơn cho thấy bình đẳng hơn. Hệ số Gini ở Nhật Bản, nhiều nước châu Âu và Canada ổn định trong hai thập kỷ qua, dao động giữa 0,25 và 0,3. Ngược lại, ở các nước phát triển khác, Mỹ là ví dụ đáng chú ý nhất, hệ số Gini đã tăng lên khoảng 0,4 trong 20 năm qua. Các nước thị trường mới nổi và đang phát triển khó khái quát: một số như Hàn Quốc, có Gini khoảng 0,3, đã trải qua tăng trưởng thần kỳ mà không làm tăng mức bất bình đẳng vốn đã thấp. Số khác như Brazil, có Gini khoảng 0,6, tăng trưởng chậm và không làm suy suyển mức bất bình đẳng thu nhập vốn đã cao.
-- **Khái niệm thứ ba, bất bình đẳng toàn cầu,** là cách tiếp cận "một người, một phiếu" để đo bất bình đẳng thu nhập. Khái niệm này tập trung vào bất bình đẳng thu nhập giữa người với người thay vì giữa nước với nước. Hãy nghĩ đây là định nghĩa John Lennon về bất bình đẳng vì ta được yêu cầu tưởng tượng rằng không có quốc gia. Vì sao? Vì coi mỗi nước là một quan sát, như trong khái niệm thứ nhất, cho Lesotho và Trung Quốc cùng trọng số trong tính toán bất bình đẳng toàn cầu. Nhưng tăng trưởng 10% ở Trung Quốc cải thiện phúc lợi của 1,2 tỷ người, trong khi tăng trưởng 10% ở Lesotho, dù đáng hoan nghênh, chỉ cải thiện đời sống của vài triệu người.
-- Khi tính đến khác biệt quy mô dân số giữa các nước, kết quả không phải "phân kỳ, quy mô lớn". Thay vào đó là "hội tụ, chấm hết". Trung bình của phân phối thu nhập thế giới đã dịch chuyển đều đặn sang phải từ năm 1970; nói cách khác, công dân toàn cầu trung bình đã trở nên giàu hơn. Phân phối thu nhập thế giới cũng đã trở nên bình đẳng hơn. Tuy nhiên, sự bình đẳng đó đến từ tăng trưởng của một vài nước rất đông dân như Trung Quốc, Ấn Độ và Việt Nam. Nên kết quả về hội tụ an ủi rất ít không chỉ cho người Lesotho mà cho nhiều trong số 2,5 đến 3 tỷ người sống ở các nước đang phát triển khác.
+Bài mở đầu bằng khẩu hiệu "người giàu càng giàu; người nghèo càng nghèo". Gõ câu này vào Google cho hơn 34.000 kết quả. Câu hỏi tác giả đặt ra: khẩu hiệu đó có mô tả đúng sự thật không, và ta nên lo lắng đến mức nào về bất bình đẳng?
+
+Xác lập sự thật khó hơn tưởng, vì có ba khái niệm bất bình đẳng thu nhập thường dùng. Mỗi khái niệm có chỗ đứng riêng trong tranh luận chính sách, và chúng cho ra những kết luận khác nhau.
+
+**Khái niệm thứ nhất: bất bình đẳng giữa các nước.** Đây là bất bình đẳng của thu nhập trung bình các nước, mỗi nước là một quan sát. Đây cũng là khái niệm ủng hộ khẩu hiệu nhiều nhất. Đo theo cách này, bất bình đẳng giữa các nước rõ ràng đã tăng trong những thập kỷ gần đây. Nhà kinh tế Lant Pritchett của Đại học Harvard mô tả kết quả này bằng một cụm từ nổi tiếng: "phân kỳ, quy mô lớn". Ở một đầu, thu nhập trung bình của các nước tiên tiến tiếp tục tăng; ở đầu kia, thu nhập trung bình của nhiều nước, nhất là ở châu Phi hạ Sahara, trì trệ hoặc giảm.
+
+**Khái niệm thứ hai: bất bình đẳng trong một nước.** Bất bình đẳng giữa các nước tăng không có nghĩa là bất bình đẳng bên trong từng nước cũng tăng. Khái niệm thứ hai đo chênh lệch giữa thu nhập người giàu và người nghèo trong một nước, thường bằng hệ số Gini (từ 0 đến 1, giá trị thấp hơn nghĩa là bình đẳng hơn). Bức tranh ở đây rất khác nhau giữa các nước:
+
+| Nhóm nước | Hệ số Gini | Diễn biến |
+|---|---|---|
+| Nhật Bản, nhiều nước châu Âu, Canada | 0,25–0,3 | Ổn định trong hai thập kỷ |
+| Mỹ | tăng lên khoảng 0,4 | Tăng trong 20 năm qua, ví dụ đáng chú ý nhất trong các nước phát triển |
+| Hàn Quốc | khoảng 0,3 | Tăng trưởng thần kỳ mà không làm tăng mức bất bình đẳng vốn đã thấp |
+| Brazil | khoảng 0,6 | Tăng trưởng chậm, không làm suy suyển mức bất bình đẳng vốn đã cao |
+
+Với các nước thị trường mới nổi và đang phát triển, rất khó khái quát: hai trường hợp Hàn Quốc và Brazil đi theo hai hướng hoàn toàn khác nhau.
+
+**Khái niệm thứ ba: bất bình đẳng toàn cầu.** Đây là cách tiếp cận "một người, một phiếu": đo bất bình đẳng giữa người với người chứ không giữa nước với nước. Tác giả gọi đây là "định nghĩa John Lennon" về bất bình đẳng, vì nó yêu cầu ta tưởng tượng rằng không có quốc gia.
+
+Vì sao cần khái niệm này? Vì khi coi mỗi nước là một quan sát như ở khái niệm thứ nhất, Lesotho và Trung Quốc có trọng số như nhau. Nhưng tăng trưởng 10% ở Trung Quốc cải thiện phúc lợi của 1,2 tỷ người, còn tăng trưởng 10% ở Lesotho, dù đáng hoan nghênh, chỉ cải thiện đời sống của vài triệu người.
+
+Khi tính đến khác biệt về quy mô dân số, kết quả không còn là "phân kỳ, quy mô lớn" mà là "hội tụ, chấm hết". Hai điều đã xảy ra:
+
+- Trung bình của phân phối thu nhập thế giới đã dịch chuyển đều đặn sang phải từ năm 1970, nghĩa là công dân toàn cầu trung bình đã giàu lên.
+- Phân phối thu nhập thế giới cũng trở nên bình đẳng hơn.
+
+Tuy nhiên, sự bình đẳng hơn đó đến từ tăng trưởng của một vài nước rất đông dân: Trung Quốc, Ấn Độ và Việt Nam. Vì vậy kết quả hội tụ an ủi rất ít, không chỉ cho người Lesotho mà cho nhiều người trong số 2,5 đến 3 tỷ người sống ở các nước đang phát triển khác.
+
+Tóm lại ba khái niệm:
+
+| Khái niệm | Đơn vị so sánh | Kết quả trong bài |
+|---|---|---|
+| Giữa các nước | Thu nhập trung bình từng nước, mỗi nước một phiếu | Phân kỳ, quy mô lớn |
+| Trong một nước | Người giàu và người nghèo trong cùng nước | Tuỳ nước: tăng ở Mỹ, ổn định ở Nhật, châu Âu, Canada |
+| Toàn cầu | Mỗi người trên thế giới một phiếu | Hội tụ, chấm hết (nhờ vài nước đông dân) |
 
 ### 2. Cái nào công bằng nhất?
 
-- Khái niệm bất bình đẳng nào là đúng? Tuỳ mục đích. Từ góc độ chỉ đơn giản mô tả xem phúc lợi con người có tăng không, bất bình đẳng toàn cầu, khái niệm cuối trong ba khái niệm trên, có thể phù hợp nhất. Nó coi mức tăng thu nhập của mọi cá nhân, dù người đó từ Trung Quốc hay Lesotho, là tương đương.
-- Nhưng việc bỏ qua quốc gia có thể không phù hợp nếu mục đích là đánh giá các chính sách sẽ giảm bất bình đẳng trong tương lai. Vì sao? Đại đa số người không rời khỏi nước mình sinh ra. Do đó, mức sống và bất bình đẳng thu nhập trong nước họ sinh ra quan trọng nhất với họ. Chẳng an ủi gì mấy cho một người không thoát được nghèo đói ở một nước châu Phi khi biết về tăng trưởng mạnh mẽ ở Trung Quốc và sự giảm bất bình đẳng thu nhập toàn cầu kéo theo.
-- Thước đo bất bình đẳng giữa các nước hữu ích như chỉ báo xem chính phủ ở các nước nghèo hơn có đang áp dụng chính sách cho phép thu nhập của họ bắt kịp thu nhập ở các nước giàu hơn không. Chính sách kinh tế thường do chính phủ quốc gia xây dựng. Việc thước đo này cho thấy phân kỳ theo thời gian gợi ý rằng nhiều chính phủ, nhất là ở châu Phi, đã không thể áp dụng các chính sách nâng cao phúc lợi.
+Khái niệm nào đúng? Câu trả lời của bài: tuỳ mục đích.
+
+**Để mô tả phúc lợi con người có tăng không**, bất bình đẳng toàn cầu có thể phù hợp nhất. Nó coi mức tăng thu nhập của mọi cá nhân là tương đương, dù người đó ở Trung Quốc hay Lesotho.
+
+**Để đánh giá chính sách giảm bất bình đẳng trong tương lai**, bỏ qua quốc gia có thể không phù hợp. Lý do: đại đa số người không rời khỏi nước mình sinh ra. Do đó mức sống và mức bất bình đẳng trong nước họ sinh ra mới quan trọng nhất với họ. Một người không thoát được nghèo ở một nước châu Phi chẳng được an ủi bao nhiêu khi biết Trung Quốc tăng trưởng mạnh và bất bình đẳng toàn cầu giảm theo.
+
+**Bất bình đẳng giữa các nước** hữu ích như một chỉ báo xem chính phủ các nước nghèo có đang áp dụng chính sách cho phép thu nhập nước mình bắt kịp các nước giàu không. Chính sách kinh tế thường do chính phủ quốc gia xây dựng, nên so sánh giữa các quốc gia là cách đánh giá chính phủ. Việc thước đo này cho thấy phân kỳ theo thời gian gợi ý rằng nhiều chính phủ, nhất là ở châu Phi, đã không áp dụng được các chính sách nâng cao phúc lợi.
+
+| Mục đích | Khái niệm phù hợp |
+|---|---|
+| Mô tả phúc lợi con người nói chung | Bất bình đẳng toàn cầu |
+| Đánh giá chính sách giảm bất bình đẳng tương lai | Mức sống và bất bình đẳng trong nước |
+| Đánh giá chính phủ nước nghèo có giúp nước mình bắt kịp không | Bất bình đẳng giữa các nước |
 
 ### 3. Tiền không phải tất cả
 
-- Thu nhập chỉ là một thước đo của phúc lợi. Khi tính Chỉ số Phát triển Con người, Liên hợp quốc dùng thu nhập đầu người, tuổi thọ và tỷ lệ biết chữ làm ba thước đo then chốt của phúc lợi.
-- Nhờ tiến bộ y học, việc mua thêm một năm sống đã rẻ hơn ở cả nước giàu lẫn nước nghèo. Kết quả là sự hội tụ về tuổi thọ giữa các nước. Lấy ví dụ Ai Cập. So sánh thu nhập đầu người với Mỹ, tiến bộ của Ai Cập không mấy ấn tượng. Nhưng nước này đã đạt mức tăng khổng lồ về tuổi thọ, cả về tuyệt đối lẫn so với Mỹ. Tuổi thọ ở Ai Cập chỉ 48 năm vào năm 1965, so với 69 năm ở Mỹ. Đến 1995, tuổi thọ Ai Cập đã tăng mạnh lên 66 năm, chỉ kém con số của Mỹ năm đó 9 năm.
-- Điều đúng với Ai Cập cũng đúng với thế giới đang phát triển nói chung: các nước nghèo hơn được lợi về tuổi thọ nhiều hơn các nước giàu hơn. Điều này nghĩa là các tính toán chỉ dựa trên thu nhập trung bình đánh giá thấp mức hội tụ về phúc lợi chung. Tính đến các lợi ích thu nhập mà những năm sống thêm mang lại sẽ đảo ngược kết luận rằng có sự phân kỳ giữa vận mệnh các nước giàu và nghèo; thay vào đó là hội tụ. Tuy nhiên, tốc độ hội tụ khá chậm chạp; hơn nữa, có thể các mức tăng tuổi thọ dễ đạt ở các nước đang phát triển đã đạt được rồi, và hội tụ thêm với các nước phát triển có thể sẽ khó khăn.
+Thu nhập chỉ là một thước đo của phúc lợi. Khi tính Chỉ số Phát triển Con người, Liên hợp quốc dùng ba thước đo then chốt: thu nhập đầu người, tuổi thọ và tỷ lệ biết chữ.
+
+Nhờ tiến bộ y học, việc "mua" thêm một năm sống đã rẻ hơn ở cả nước giàu lẫn nước nghèo. Kết quả là tuổi thọ hội tụ giữa các nước.
+
+Ai Cập là ví dụ. Nếu so thu nhập đầu người với Mỹ, tiến bộ của Ai Cập không mấy ấn tượng. Nhưng về tuổi thọ, Ai Cập đạt mức tăng rất lớn, cả về tuyệt đối lẫn so với Mỹ:
+
+| Năm | Tuổi thọ Ai Cập | Tuổi thọ Mỹ | Khoảng cách |
+|---|---|---|---|
+| 1965 | 48 năm | 69 năm | 21 năm |
+| 1995 | 66 năm | 75 năm (suy ra từ khoảng cách) | 9 năm |
+
+Trong 30 năm, Ai Cập thêm 18 năm tuổi thọ và thu hẹp khoảng cách với Mỹ từ 21 năm xuống còn 9 năm.
+
+Điều đúng với Ai Cập cũng đúng với thế giới đang phát triển nói chung: các nước nghèo được lợi về tuổi thọ nhiều hơn các nước giàu. Điều này có nghĩa là các phép tính chỉ dựa trên thu nhập trung bình đánh giá thấp mức hội tụ về phúc lợi chung. Nếu quy đổi những năm sống thêm thành lợi ích thu nhập và cộng vào, kết luận "phân kỳ" giữa các nước giàu và nghèo đảo ngược thành "hội tụ".
+
+Bài thêm hai lưu ý. Thứ nhất, tốc độ hội tụ này khá chậm chạp. Thứ hai, có thể các mức tăng tuổi thọ dễ đạt ở các nước đang phát triển đã đạt được rồi, nên hội tụ thêm với các nước phát triển có thể sẽ khó khăn hơn.
 
 ### 4. Ta có nên lo lắng?
 
-- Có một phổ quan điểm rộng về mức độ ta nên lo lắng về các diễn biến của bất bình đẳng. Ở một đầu phổ, việc tập trung quá mức vào bất bình đẳng bị coi là đặt sai chỗ: nhà kinh tế Martin Feldstein chẳng hạn lập luận rằng vấn đề thật sự là "không phải bất bình đẳng mà là nghèo đói". Nhìn qua chiều dài lịch sử, theo quan điểm này, tiến bộ kinh tế có xu hướng làm gần như mọi người khá hơn. Joseph Schumpeter nhận xét rằng "thành tựu của các nhà tư bản không nằm ở việc cung cấp tất lụa cho các nữ hoàng mà ở việc đưa chúng vào tầm với của các cô gái nhà máy...". Bất bình đẳng nảy sinh từ việc người giàu khá lên với tốc độ nhanh hơn người nghèo không phải là vấn đề, Feldstein nói, nhưng ông thừa nhận rằng "không phải ai cũng sẽ đồng ý với tôi. Một số người thấy bất bình đẳng xấu xí đến mức họ coi việc tăng thu nhập của người khá giả là một 'điều xấu' ngay cả khi nó không đến từ cái giá của bất kỳ ai khác."
-- Quả thực, ở đầu kia của phổ quan điểm, bất bình đẳng, đặc biệt là chênh lệch giữa thu nhập của người rất giàu và người rất nghèo, được coi là một trong những thất bại lớn của chủ nghĩa tư bản và thị trường. Trong một bài trên *New York Times Magazine* tháng 10 năm ngoái, Paul Krugman ước tính 0,01% người nộp thuế hàng đầu ở Mỹ, chỉ 13.000 hộ gia đình, nhận hơn 3% thu nhập của cả nước. Tương tự, một bài trên *American Prospect* tháng 1 năm nay lưu ý rằng ngay cả theo thước đo bất bình đẳng toàn cầu, khái niệm thứ ba đã bàn, 10% dân số giàu nhất thế giới có thu nhập cao gấp 120 lần 10% nghèo nhất vào năm 1990; nhờ bằng chứng về hội tụ trình bày ở trên, tỷ lệ này có giảm, nhưng chỉ xuống 118 vào cuối thập kỷ. Nguy hiểm của sự tập trung thu nhập như vậy, theo Krugman và những người khác, là nó nuôi dưỡng sự hình thành các nhóm đầu sỏ quan tâm đến việc bảo vệ của cải và quyền lực của chính mình hơn là nuôi dưỡng các xã hội có cơ hội bình đẳng cho tất cả.
+Có một phổ quan điểm rộng về mức độ đáng lo của bất bình đẳng. Bài trình bày hai đầu của phổ.
+
+**Đầu ít lo: Martin Feldstein.** Theo nhà kinh tế Martin Feldstein, tập trung quá mức vào bất bình đẳng là đặt sai chỗ: vấn đề thật sự là "không phải bất bình đẳng mà là nghèo đói". Nhìn qua chiều dài lịch sử, tiến bộ kinh tế có xu hướng làm gần như mọi người khá hơn. Joseph Schumpeter từng nhận xét: "thành tựu của các nhà tư bản không nằm ở việc cung cấp tất lụa cho các nữ hoàng mà ở việc đưa chúng vào tầm với của các cô gái nhà máy". Theo Feldstein, bất bình đẳng nảy sinh vì người giàu khá lên nhanh hơn người nghèo không phải là vấn đề. Nhưng ông thừa nhận: "không phải ai cũng sẽ đồng ý với tôi. Một số người thấy bất bình đẳng xấu xí đến mức họ coi việc tăng thu nhập của người khá giả là một 'điều xấu' ngay cả khi nó không đến từ cái giá của bất kỳ ai khác."
+
+**Đầu rất lo: Paul Krugman.** Ở đầu kia, bất bình đẳng, đặc biệt là chênh lệch giữa người rất giàu và người rất nghèo, được coi là một trong những thất bại lớn của chủ nghĩa tư bản và thị trường. Hai con số được dẫn:
+
+| Nguồn | Con số |
+|---|---|
+| Paul Krugman, *New York Times Magazine*, tháng 10/2002 | 0,01% người nộp thuế đứng đầu ở Mỹ, chỉ 13.000 hộ gia đình, nhận hơn 3% thu nhập của cả nước |
+| *American Prospect*, tháng 1/2003 | Ngay cả theo thước đo bất bình đẳng toàn cầu, 10% dân số giàu nhất thế giới có thu nhập cao gấp 120 lần 10% nghèo nhất vào năm 1990; nhờ hội tụ, tỷ lệ này có giảm, nhưng chỉ xuống 118 lần vào cuối thập kỷ |
+
+Con số thứ hai đáng chú ý vì nó dùng chính thước đo cho kết quả "hội tụ", và cho thấy hội tụ có thật nhưng rất nhỏ so với khoảng cách: từ 120 lần xuống 118 lần.
+
+Theo Krugman và những người cùng quan điểm, nguy hiểm của sự tập trung thu nhập như vậy là nó nuôi dưỡng sự hình thành các nhóm đầu sỏ, những nhóm quan tâm đến việc bảo vệ của cải và quyền lực của chính mình hơn là nuôi dưỡng một xã hội có cơ hội bình đẳng cho tất cả.
 
 ### 5. Một vấn đề của lựa chọn?
 
-- Với sự lan rộng của dân chủ, mức bất bình đẳng trong một nước ngày càng là một lựa chọn sẽ được đưa ra qua quá trình bầu cử. Mức bất bình đẳng thu nhập của một nước là kết quả của một tập hợp lực phức tạp: các yếu tố lịch sử, chuẩn mực văn hoá, và tác động của các lực ngoại sinh như thương mại và công nghệ. Nhưng phần lớn nó cũng là một lựa chọn chính sách: nhiều nước Tây Âu dùng chính sách tái phân phối để đạt được phân phối thu nhập đều hơn mức lẽ ra sẽ có.
+Bài kết thúc bằng một nhận định về bất bình đẳng trong nước. Với sự lan rộng của dân chủ, mức bất bình đẳng trong một nước ngày càng là một lựa chọn được đưa ra qua quá trình bầu cử.
+
+Mức bất bình đẳng thu nhập của một nước là kết quả của một tập hợp lực phức tạp:
+
+- Các yếu tố lịch sử.
+- Các chuẩn mực văn hoá.
+- Tác động của các lực ngoại sinh (từ bên ngoài, nằm ngoài tầm kiểm soát của chính phủ) như thương mại và công nghệ.
+
+Nhưng phần lớn nó cũng là một lựa chọn chính sách. Bằng chứng: nhiều nước Tây Âu dùng chính sách tái phân phối để đạt phân phối thu nhập đều hơn mức lẽ ra sẽ có nếu để thị trường tự quyết.
 
 ## Thuật ngữ
 

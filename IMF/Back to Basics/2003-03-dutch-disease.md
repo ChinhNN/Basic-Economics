@@ -73,33 +73,100 @@
 2. Căn bệnh Hà Lan có thực sự là "bệnh" không?
 3. Chính sách nên làm gì, tuỳ của cải là tạm thời hay lâu dài?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Hàng thương mại và hàng phi thương mại (traded, nontraded goods).** Hàng thương mại là hàng có thể mua bán qua biên giới, như gạo, vải, máy móc, dầu; giá của chúng bị giá thế giới kéo về gần nhau. Hàng phi thương mại là hàng chỉ dùng được ở nơi sản xuất ra nó, như cắt tóc, xây nhà, bán lẻ, dịch vụ chính phủ; giá của chúng do cung cầu trong nước quyết định. Ví dụ minh hoạ: một chiếc áo sơ mi có thể nhập từ nước khác nếu áo trong nước quá đắt, nhưng một lần cắt tóc thì không. Căn bệnh Hà Lan là câu chuyện giá hàng phi thương mại tăng lên so với giá hàng thương mại.
+
+**Tỷ giá danh nghĩa và tỷ giá thực (nominal, real exchange rate).** Tỷ giá danh nghĩa là số nội tệ đổi được một đơn vị ngoại tệ. Tỷ giá thực tính thêm mức giá hai bên, cho biết một đơn vị ngoại tệ mua được bao nhiêu hàng thực trong nước. Tỷ giá thực **lên giá** nghĩa là một đơn vị ngoại tệ mua được ít hàng thực trong nước hơn, tức hàng trong nước đắt lên trong mắt người nước ngoài. Ví dụ minh hoạ: tỷ giá giữ nguyên 10 đơn vị nội tệ đổi 1 USD, nhưng giá trong nước tăng 20% còn giá ở nước ngoài đứng yên, thì 1 USD mua được ít hàng trong nước hơn khoảng một phần sáu: tỷ giá thực đã lên giá dù tỷ giá danh nghĩa không đổi. Đây là kênh mà qua đó xuất khẩu truyền thống mất sức cạnh tranh.
+
+**Tỷ giá cố định và tỷ giá thả nổi (fixed, flexible exchange rate).** Với tỷ giá cố định, ngân hàng trung ương cam kết mua bán ngoại tệ ở một mức giá định sẵn. Với tỷ giá thả nổi, tỷ giá do cung cầu trên thị trường quyết định. Trong bài, hai chế độ dẫn tới cùng một kết quả là tỷ giá thực lên giá, chỉ khác đường đi: tỷ giá cố định thì qua giá trong nước tăng, tỷ giá thả nổi thì qua nội tệ lên giá danh nghĩa.
+
+**Hiệu ứng chi tiêu (spending effect).** Khi ngoại tệ từ khu vực bùng nổ được đổi ra nội tệ và chi tiêu trong nước, một phần chi vào hàng phi thương mại, đẩy giá của chúng lên. Ví dụ minh hoạ: công nhân giàn khoan lương cao thuê nhà, ăn nhà hàng nhiều hơn, khiến giá thuê nhà và giá dịch vụ trong thành phố tăng. Đây là kênh thứ nhất làm tỷ giá thực lên giá.
+
+**Hiệu ứng dịch chuyển nguồn lực (resource movement effect).** Vốn và lao động rời khỏi các ngành xuất khẩu truyền thống để sang khu vực đang bùng nổ (vì trả lương cao hơn) và sang khu vực phi thương mại (vì cầu ở đó tăng). Ví dụ minh hoạ: một kỹ sư nhà máy giấy chuyển sang làm cho công ty dầu, một thợ dệt chuyển sang làm phụ hồ. Đây là kênh thứ hai làm khu vực xuất khẩu truyền thống co lại.
+
+**Học qua làm (learning by doing).** Năng suất tăng dần nhờ kinh nghiệm tích luỹ khi sản xuất: càng làm lâu, công nhân và doanh nghiệp càng giỏi. Ngành chế tạo được cho là có nhiều học qua làm hơn ngành khai thác. Vì vậy mất ngành chế tạo là mất một nguồn phát triển vốn con người, và đây là lý do chính khiến một số nhà kinh tế coi căn bệnh Hà Lan là thật sự đáng lo.
+
+**Can thiệp ngoại hối và dự trữ ngoại hối (foreign exchange intervention, reserves).** Ngân hàng trung ương bán nội tệ để mua ngoại tệ, cất giữ số ngoại tệ đó làm dự trữ. Việc mua vào làm tăng cầu ngoại tệ, giữ cho nội tệ không lên giá nhiều như khi để thị trường tự quyết. Ví dụ minh hoạ: nếu dòng ngoại tệ vào thêm 5 tỷ USD và ngân hàng trung ương mua lại 4 tỷ, chỉ 1 tỷ còn lại tạo áp lực lên tỷ giá. Cái giá phải trả là lượng nội tệ bơm ra có thể gây lạm phát. Đây là công cụ bài đề xuất khi của cải mới chỉ là tạm thời.
+
+**Tỷ lệ trao đổi (terms of trade).** Giá hàng xuất khẩu so với giá hàng nhập khẩu. Khi giá cà phê hay giá dầu tăng mà giá hàng nhập không đổi, tỷ lệ trao đổi của nước xuất khẩu cà phê hay dầu được cải thiện, và thu nhập ngoại tệ của nước đó tăng. Một cải thiện tỷ lệ trao đổi lớn và đột ngột là một trong những nguồn gây bệnh mà bài nêu ra.
+
+## Nội dung chi tiết
 
 ### 1. Nguồn gốc thuật ngữ
 
-- Cervantes, tác giả *Don Quixote*, từng nói "sự thoả mãn của của cải không nằm ở sở hữu hay tiêu xài hoang phí, mà ở cách dùng khôn ngoan". Ông sống ở thời Tây Ban Nha mới có vàng từ châu Mỹ, có lẽ đã thấy triệu chứng của điều sau này gọi là "căn bệnh Hà Lan": hậu quả có hại của việc thu nhập một nước tăng vọt.
-- Thập niên 1960, Hà Lan phát hiện mỏ khí lớn ở Biển Bắc. Điều tưởng như tích cực lại gây hậu quả nghiêm trọng: guilder mạnh lên, xuất khẩu phi dầu mất sức cạnh tranh.
-- Bệnh thường gắn với phát hiện tài nguyên, nhưng có thể đến từ bất kỳ dòng ngoại tệ lớn nào: giá tài nguyên tăng vọt, viện trợ nước ngoài, đầu tư trực tiếp nước ngoài. Các nhà kinh tế đã dùng mô hình này cho dòng kho báu châu Mỹ vào Tây Ban Nha thế kỷ 16 và phát hiện vàng ở Úc thập niên 1850.
+Bài mở đầu bằng một câu của Cervantes, tác giả *Don Quixote*: "sự thoả mãn của của cải không nằm ở sở hữu hay tiêu xài hoang phí, mà ở cách dùng khôn ngoan". Cervantes sống ở thời Tây Ban Nha vừa có vàng bạc từ châu Mỹ đổ về, và có lẽ đã chứng kiến triệu chứng của điều mà mấy trăm năm sau người ta gọi là "căn bệnh Hà Lan": hậu quả có hại của việc thu nhập một nước tăng vọt.
+
+Tên gọi đến từ Hà Lan thập niên 1960. Nước này phát hiện mỏ khí đốt lớn ở Biển Bắc. Điều tưởng như hoàn toàn tích cực lại gây hậu quả nghiêm trọng: xuất khẩu khí đưa nhiều ngoại tệ vào, đồng guilder (đồng tiền của Hà Lan khi đó) mạnh lên, và các ngành xuất khẩu không liên quan đến dầu khí mất sức cạnh tranh trên thị trường thế giới.
+
+Bệnh thường gắn với phát hiện tài nguyên, nhưng có thể đến từ **bất kỳ dòng ngoại tệ lớn nào**: giá tài nguyên tăng vọt, viện trợ nước ngoài, hoặc đầu tư trực tiếp nước ngoài (FDI). Các nhà kinh tế đã dùng cùng mô hình này để phân tích những ca bệnh từ trước khi có tên gọi: dòng kho báu từ châu Mỹ vào Tây Ban Nha thế kỷ 16, và phát hiện vàng ở Úc thập niên 1850.
 
 ### 2. Chẩn đoán: mô hình Corden–Neary
 
-- Bài báo kinh điển 1982 của W.M. Corden và J. Peter Neary chia nền kinh tế đang bùng nổ xuất khẩu thành ba khu vực: khu vực xuất khẩu bùng nổ và khu vực xuất khẩu tụt hậu (hai khu vực hàng thương mại), và khu vực hàng phi thương mại phục vụ dân trong nước (bán lẻ, dịch vụ, xây dựng). Khi mắc bệnh, khu vực xuất khẩu truyền thống bị hai khu vực kia chèn lấn.
-- **Hiệu ứng chi tiêu:** một nước phát hiện dầu, xuất khẩu dầu tăng làm thu nhập tăng, ngoại tệ đổ vào. Nếu chi hết vào nhập khẩu thì không ảnh hưởng cung tiền hay cầu hàng nội địa. Nhưng nếu đổi ra nội tệ và chi vào hàng phi thương mại, kết quả tuỳ chế độ tỷ giá. Tỷ giá cố định: đổi tiền làm cung tiền tăng, cầu nội địa đẩy giá trong nước lên, tức tỷ giá thực lên giá (một đơn vị ngoại tệ mua được ít hàng thực trong nước hơn). Tỷ giá thả nổi: cung ngoại tệ tăng đẩy giá nội tệ lên, cũng là tỷ giá thực lên giá nhưng qua tỷ giá danh nghĩa. Cả hai trường hợp, xuất khẩu mất sức cạnh tranh, khu vực xuất khẩu truyền thống co lại.
-- **Hiệu ứng dịch chuyển nguồn lực:** vốn và lao động chuyển sang sản xuất hàng phi thương mại để đáp ứng cầu nội địa tăng, và sang khu vực dầu đang bùng nổ. Cả hai dịch chuyển đều làm khu vực xuất khẩu truyền thống, giờ tụt hậu, sản xuất ít đi.
-- Các hiệu ứng này diễn ra ở các nước dầu mỏ thập niên 1970 khi giá dầu tăng vọt, xuất khẩu dầu tăng bằng cái giá của nông nghiệp và chế tạo. Tương tự, giá cà phê tăng cuối thập niên 1970 (sau sương giá phá vụ cà phê Brazil) gây bùng nổ cà phê ở Colombia: peso lên giá thực, khu vực phi thương mại (xây dựng, tiền thuê nhà, dịch vụ chính phủ) tăng nhanh, khu vực thương mại truyền thống (dệt may, giấy, hoá chất, kim loại, máy móc) chậm lại.
+**Ba khu vực.** Bài báo kinh điển năm 1982 của W.M. Corden và J. Peter Neary chia một nền kinh tế đang bùng nổ xuất khẩu thành 3 khu vực:
+
+| Khu vực | Ví dụ | Loại hàng |
+|---|---|---|
+| Xuất khẩu bùng nổ | Dầu, khí | Hàng thương mại |
+| Xuất khẩu tụt hậu (truyền thống) | Nông nghiệp, chế tạo | Hàng thương mại |
+| Hàng phi thương mại, phục vụ dân trong nước | Bán lẻ, dịch vụ, xây dựng | Hàng phi thương mại |
+
+Khi nền kinh tế mắc bệnh, khu vực thứ hai, tức khu vực xuất khẩu truyền thống, bị hai khu vực kia chèn lấn. Có hai kênh dẫn tới kết quả đó.
+
+**Kênh thứ nhất: hiệu ứng chi tiêu.** Giả sử một nước phát hiện dầu. Xuất khẩu dầu tăng làm thu nhập tăng, ngoại tệ đổ vào. Nếu toàn bộ số ngoại tệ đó được chi hết vào hàng nhập khẩu, nó không ảnh hưởng gì tới cung tiền hay cầu hàng trong nước. Nhưng trên thực tế, ngoại tệ được đổi ra nội tệ và một phần được chi vào hàng phi thương mại. Kết quả khi đó tuỳ chế độ tỷ giá:
+
+- **Tỷ giá cố định:** việc đổi ngoại tệ sang nội tệ làm cung tiền tăng. Cầu nội địa tăng đẩy giá trong nước lên. Tỷ giá danh nghĩa không đổi, nhưng tỷ giá thực lên giá: một đơn vị ngoại tệ mua được ít hàng thực trong nước hơn.
+- **Tỷ giá thả nổi:** cung ngoại tệ tăng trên thị trường đẩy giá nội tệ lên, tức nội tệ lên giá danh nghĩa. Đây cũng là tỷ giá thực lên giá, nhưng đi qua tỷ giá danh nghĩa thay vì qua giá trong nước.
+
+Trong cả hai trường hợp, hàng xuất khẩu truyền thống trở nên đắt hơn trong mắt người mua nước ngoài, mất sức cạnh tranh, và khu vực xuất khẩu truyền thống co lại.
+
+**Kênh thứ hai: hiệu ứng dịch chuyển nguồn lực.** Vốn và lao động chuyển sang sản xuất hàng phi thương mại để đáp ứng cầu nội địa đang tăng, và chuyển sang khu vực dầu đang bùng nổ, nơi trả lương cao hơn. Cả hai dòng dịch chuyển đều rút nguồn lực ra khỏi khu vực xuất khẩu truyền thống, khiến khu vực này, giờ đã thành khu vực tụt hậu, sản xuất ít đi.
+
+**Ví dụ thực tế.** Các hiệu ứng này diễn ra ở các nước xuất khẩu dầu mỏ thập niên 1970, khi giá dầu tăng vọt: xuất khẩu dầu tăng, nhưng phải trả giá bằng sự teo lại của nông nghiệp và chế tạo.
+
+Ví dụ thứ hai không liên quan đến tài nguyên khoáng sản. Sương giá phá hỏng vụ cà phê của Brazil, đẩy giá cà phê thế giới tăng vọt vào cuối thập niên 1970. Colombia, một nước xuất khẩu cà phê lớn khác, trải qua một đợt bùng nổ cà phê trong giai đoạn 1975–77. Diễn biến đúng như mô hình dự đoán:
+
+| Bước | Diễn biến ở Colombia |
+|---|---|
+| Cú sốc | Giá cà phê tăng vọt, ngoại tệ đổ vào |
+| Tỷ giá | Đồng peso lên giá thực |
+| Tăng nhanh | Cà phê, và khu vực phi thương mại: xây dựng, tiền thuê nhà, dịch vụ chính phủ |
+| Chậm lại | Khu vực thương mại truyền thống: dệt may, giấy, hoá chất, kim loại, máy móc |
 
 ### 3. Có thực sự bi quan?
 
-- Một số nhà kinh tế nói không, nếu dòng tiền lớn hơn được kỳ vọng là lâu dài. Khi đó, căn bệnh Hà Lan chỉ là sự thích nghi của nền kinh tế với của cải mới, chữ "bệnh" là dùng sai. Dịch chuyển sản xuất từ thương mại sang phi thương mại là cơ chế tự điều chỉnh trước cầu nội địa tăng.
-- Nhưng người khác cho rằng ngay cả thay đổi lâu dài cũng đáng lo. Khi vốn và lao động chuyển khu vực, ngành phải đóng cửa và người lao động phải tìm việc mới. Quá trình chuyển đổi này, dù ngắn, đau đớn cả về kinh tế lẫn chính trị. Chuyển nguồn lực khỏi các ngành chế tạo tạo ra "học qua làm" có thể đe doạ tiềm năng tăng trưởng dài hạn vì bóp nghẹt nguồn phát triển vốn con người quan trọng.
-- Kết luận: dù coi là vấn đề hay không, chính sách phải giúp nền kinh tế ứng phó với hệ quả.
+Các nhà kinh tế không đồng ý với nhau về việc đây có phải là "bệnh" hay không.
+
+**Quan điểm thứ nhất: không phải bệnh.** Nếu dòng tiền lớn hơn được kỳ vọng là **lâu dài**, thì những gì xảy ra chỉ là nền kinh tế thích nghi với mức của cải mới. Gọi là "bệnh" là dùng chữ sai. Việc sản xuất dịch chuyển từ hàng thương mại sang hàng phi thương mại là cơ chế tự điều chỉnh bình thường khi cầu nội địa tăng: dân giàu hơn thì muốn nhiều nhà ở, dịch vụ hơn, và nền kinh tế sắp xếp lại để đáp ứng.
+
+**Quan điểm thứ hai: ngay cả thay đổi lâu dài cũng đáng lo**, vì hai lý do:
+
+- **Chi phí chuyển đổi.** Khi vốn và lao động chuyển khu vực, ngành phải đóng cửa và người lao động phải tìm việc mới. Quá trình này, dù ngắn, gây đau đớn cả về kinh tế lẫn chính trị.
+- **Mất nguồn tăng trưởng dài hạn.** Ngành chế tạo là nơi diễn ra "học qua làm": công nhân và doanh nghiệp giỏi lên nhờ sản xuất. Chuyển nguồn lực ra khỏi các ngành này là bóp nghẹt một nguồn phát triển vốn con người quan trọng, và có thể đe doạ tiềm năng tăng trưởng dài hạn.
+
+**Kết luận của bài:** dù coi những thay đổi này là vấn đề hay không, chính sách vẫn phải giúp nền kinh tế ứng phó với hệ quả của chúng.
 
 ### 4. Đơn thuốc
 
-- Phụ thuộc nhiều vào của cải mới là tạm thời hay lâu dài.
-- **Tạm thời** (tài nguyên cạn nhanh, viện trợ ngắn hạn, cải thiện tỷ lệ trao đổi nhất thời): có thể bảo vệ ngành dễ tổn thương qua can thiệp ngoại hối. Bán nội tệ mua ngoại tệ, tức tích luỹ dự trữ ngoại hối chính thức, giữ giá nội tệ thấp hơn lẽ ra, cách ly nền kinh tế khỏi xáo trộn ngắn hạn sắp đảo chiều. Thách thức: bảo đảm tích dự trữ không gây lạm phát, và của cải thêm được chi khôn ngoan, quản lý minh bạch, ví dụ qua tài khoản ở ngân hàng trung ương hay quỹ tín thác.
-- **Lâu dài:** phải quản lý thay đổi cơ cấu không tránh khỏi để giữ ổn định kinh tế. Tăng năng suất khu vực phi thương mại (có thể qua tư nhân hoá, tái cơ cấu), đầu tư đào tạo lại lao động. Tiếp tục đa dạng hoá xuất khẩu để giảm phụ thuộc vào ngành bùng nổ và bớt tổn thương trước cú sốc bên ngoài như giá hàng hoá rơi đột ngột.
-- Dù thận trọng quản lý của cải mới hay đổi hướng nền kinh tế để thích nghi, cách dùng của cải khôn ngoan như vậy hẳn được Cervantes tán thành.
+Cách chữa phụ thuộc chủ yếu vào một câu hỏi: của cải mới là **tạm thời** hay **lâu dài**?
+
+| | Của cải tạm thời | Của cải lâu dài |
+|---|---|---|
+| Ví dụ | Tài nguyên cạn nhanh, viện trợ ngắn hạn, giá xuất khẩu tăng nhất thời (cải thiện tỷ lệ trao đổi nhất thời) | Dòng tiền được kỳ vọng kéo dài (minh hoạ: một mỏ lớn khai thác hàng chục năm) |
+| Mục tiêu | Bảo vệ ngành dễ tổn thương qua giai đoạn ngắn | Quản lý chuyển dịch cơ cấu không tránh khỏi, giữ ổn định kinh tế |
+| Công cụ | Can thiệp ngoại hối, tích luỹ dự trữ | Tăng năng suất khu vực phi thương mại, đào tạo lại lao động, đa dạng hoá xuất khẩu |
+
+**Khi của cải là tạm thời**, có thể bảo vệ các ngành dễ tổn thương bằng can thiệp ngoại hối. Ngân hàng trung ương bán nội tệ để mua ngoại tệ, tức tích luỹ dự trữ ngoại hối chính thức. Việc này giữ giá nội tệ thấp hơn mức lẽ ra nó lên tới, và cách ly nền kinh tế khỏi một xáo trộn ngắn hạn sắp đảo chiều. Ý tưởng là không đáng để phá huỷ một ngành xuất khẩu chỉ vì một cú bùng nổ sẽ qua đi sau vài năm.
+
+Cách này có hai thách thức. Thứ nhất, lượng nội tệ bơm ra khi mua ngoại tệ có thể gây lạm phát, nên phải bảo đảm việc tích dự trữ không làm giá cả tăng. Thứ hai, số của cải thêm được phải được chi khôn ngoan và quản lý minh bạch, ví dụ đặt trong một tài khoản riêng ở ngân hàng trung ương hoặc trong một quỹ tín thác.
+
+**Khi của cải là lâu dài**, không nên chống lại sự thay đổi mà phải quản lý thay đổi cơ cấu không tránh khỏi để giữ ổn định kinh tế. Các biện pháp:
+
+- Tăng năng suất khu vực phi thương mại, có thể qua tư nhân hoá hoặc tái cơ cấu doanh nghiệp, để khu vực này đáp ứng cầu tăng mà không đẩy giá lên quá nhiều.
+- Đầu tư đào tạo lại lao động, để người mất việc ở ngành xuất khẩu truyền thống chuyển được sang ngành khác.
+- Tiếp tục đa dạng hoá xuất khẩu, để giảm phụ thuộc vào ngành bùng nổ và bớt tổn thương trước cú sốc bên ngoài, như khi giá hàng hoá rơi đột ngột.
+
+Bài kết lại bằng chính ý của Cervantes: dù chọn cách thận trọng quản lý của cải mới hay cách đổi hướng nền kinh tế để thích nghi, cách dùng của cải khôn ngoan như vậy hẳn được ông tán thành.
 
 ## Thuật ngữ
 
