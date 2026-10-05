@@ -176,86 +176,139 @@
 2. **Vì sao đau buồn, giận dữ, sợ hãi lại là sai?** Vì chúng là sự chống lại điều luật tự nhiên đã định; người để mình chìm trong chúng giống nô lệ bỏ trốn khỏi chủ, còn người lý trí thì tự nguyện đi theo điều mà mọi vật buộc phải theo (10.25, 10.28).
 3. **Nên ra đi khỏi đời thế nào?** Biết rằng ngay người tốt nhất cũng có kẻ mừng khi mình chết, nên bớt níu kéo; nhưng vẫn giữ lòng tử tế, ra đi tự nguyện như tự nhiên cởi nút đã buộc (10.34, 10.36).
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
 
-*(Các mục 10.1–10.10 không có trong bản dịch; xem khối Lưu ý ở đầu để biết nội dung theo nguyên tác.)*
+**Phần chỉ huy (hegemonikon).** Phần bên trong mỗi người làm việc phán đoán, lựa chọn và điều khiển hành động. Ở 10.38, Marcus gọi nó là "cái giật dây ẩn bên trong", và coi thân thể chỉ là dụng cụ như chiếc rìu hay cây bút. Ví dụ minh hoạ: một bàn tay cầm bút viết được một lá thư tử tế hay một lá thư độc ác; bàn tay như nhau, cái quyết định là phần chỉ huy. Khái niệm này quan trọng vì toàn bộ ý "tâm trí khoẻ mạnh" của quyển là nói về sức khoẻ của phần này, không phải của thân thể.
 
-**10.11 Học cách thấy biến đổi.** Hãy tập một phương pháp nhìn mọi vật chuyển hoá liên tục từ dạng này sang dạng khác; chú tâm và luyện tập thường xuyên ở điểm này. Hiếm có gì nâng tầm tâm trí bằng nó.
+**Tâm trí khoẻ như cơ thể khoẻ.** Marcus so sánh sức khoẻ tinh thần với sức khoẻ của giác quan: một cơ quan khoẻ thì nhận được mọi thứ thuộc về nó, còn cơ quan chỉ chịu được một số thứ là cơ quan đang bệnh. Ví dụ trong bài (10.35): mắt kêu "quá chói" là dấu hiệu viêm mắt; dạ dày khoẻ tiêu được mọi món. Ví dụ minh hoạ: một người chỉ bình tĩnh được khi 10 việc đều suôn sẻ, nhưng mất bình tĩnh khi 1 việc trục trặc, có một tâm trí "chỉ ăn được cháo". Khái niệm này là hình ảnh trung tâm của quyển và giải thích tên gọi của nó.
 
-**10.11a Người đã cởi thân xác.**
-- Người hiểu rằng mình sắp phải rời mọi thứ thì như đã cởi bỏ thân xác: anh ta dồn trọn sức vào công lý trong việc mình làm, và trao mình cho tự nhiên trong những việc xảy đến.
-- Người khác nói gì, nghĩ gì, làm gì với anh ta, anh không để tâm. Anh chỉ cần hai điều: làm đúng việc đang làm, và vui lòng với phần được giao. Anh đã gác mọi bận rộn khác, chỉ muốn đi con đường thẳng theo luật và đi theo thần.
+**Chướng ngại thành chất liệu.** Phái Khắc kỷ cho rằng hoàn cảnh xấu không cản được việc ta hành động đúng; nó chỉ đổi hình thức của hành động đúng. Ví dụ trong bài (10.31): ngọn lửa mạnh biến mọi thứ ném vào thành ánh sáng và sức nóng. Ví dụ minh hoạ: một kế hoạch kinh doanh hỏng là "nguyên liệu" để rèn sự kiên nhẫn và trung thực khi báo tin xấu cho cộng sự. Khái niệm này giải thích nghịch lý ở 10.33: vật khác gặp điều xấu thì xấu đi, còn con người có thể tốt lên.
 
-**10.12 Khi chưa chắc.**
-- Cần gì phỏng đoán khi ta có thể xem việc gì phải làm? Nếu thấy rõ, hãy đi theo, vui lòng và không quay lại. Nếu chưa thấy, hãy dừng và hỏi những người khuyên tốt nhất.
-- Nếu có gì cản trở, hãy tiến lên một cách thận trọng với những phương tiện đang có, giữ lấy điều có vẻ đúng. Đạt được điều đúng là tốt nhất; còn nếu thất bại, hãy thất bại khi đang nhắm vào nó.
+**Khối trụ của Chrysippus.** Chrysippus, nhà hệ thống hoá học thuyết Khắc kỷ, dùng hình ảnh một khối trụ để giải thích quan hệ giữa nguyên nhân bên ngoài và bản tính bên trong: cú đẩy làm khối trụ bắt đầu lăn, nhưng nó lăn được là vì nó tròn. Ví dụ minh hoạ: cùng một cú đẩy, một khối trụ lăn, một khối lập phương thì không; cùng một lời xúc phạm, người này nổi giận, người kia không. Khái niệm này giúp hiểu 10.33: hoàn cảnh là cú đẩy, còn cách ta phản ứng đến từ bản tính và phán đoán của ta. (Bản dịch gọi nó là "cái xy lanh".)
 
-**10.12a Kết quả của việc theo lý trí.** Người theo lý trí trong mọi việc vừa thư thái vừa nhanh nhạy, vừa vui tươi vừa điềm tĩnh.
+**Luật tự nhiên như người chủ.** Với phái Khắc kỷ, vũ trụ vận hành theo một luật hợp lý, phân cho mỗi người phần của mình. Chống lại điều luật ấy đã định, bằng đau buồn, giận dữ hay sợ hãi, giống như một người nô lệ bỏ trốn khỏi chủ. Ví dụ trong bài (10.25, 10.28): mọi vật đều buộc phải đi theo luật, nhưng chỉ sinh vật có lý trí mới đi theo được một cách tự nguyện. Khái niệm này giải thích vì sao Marcus coi các cảm xúc tiêu cực không chỉ là khó chịu mà là một kiểu "bỏ trốn" khỏi công lý.
 
-**10.13 Câu hỏi buổi sáng.**
-- Vừa thức dậy, hỏi mình: nếu người khác trách điều đúng mà ta làm, điều đó có gì khác không? Không khác gì.
-- Ta có quên những kẻ hay khen và chê người khác ra sao lúc ăn, lúc ngủ không? Họ làm gì, sợ gì, thèm gì, và họ ăn trộm, cướp phá không bằng tay chân mà bằng phần quý nhất trong họ, phần mà nếu muốn có thể sinh ra lòng tin, sự khiêm nhường, chân lý, trật tự và hạnh phúc.
+**Đời người như lá cây.** Một câu thơ của Homer so sánh các thế hệ người với lá cây: gió thổi lá rụng, mùa xuân lá khác mọc thay. Marcus dùng nó như một câu nhắc ngắn, đủ để xua buồn và sợ. Ví dụ minh hoạ: một cái cây rụng hàng nghìn chiếc lá mỗi mùa thu mà vẫn sống; người khen, người chửi, danh tiếng của ta đều là những chiếc lá ấy. Khái niệm này giúp hiểu thái độ với cái chết ở 10.34 và 10.36: ra đi là một phần bình thường của một chu kỳ.
 
-**10.14 Ban và lấy.** Với tự nhiên, kẻ ban mọi thứ và lấy lại mọi thứ, người có học và khiêm tốn sẽ nói: hãy ban điều gì tuỳ ý, lấy lại điều gì tuỳ ý. Nói thế không phải vì kiêu ngạo thách thức, mà vì vâng phục và thiện chí.
+## Nội dung chi tiết
 
-**10.15 Sống như trên núi.** Thời gian còn lại ngắn. Hãy sống như trên núi: ở đây hay ở đó không khác gì nếu khắp nơi ta đều sống như công dân của thành bang vũ trụ. Hãy để mọi người thấy và biết một con người thật sống thuận tự nhiên. Nếu họ không chịu nổi, cứ để họ giết; thà vậy còn hơn sống như họ.
+Suy tưởng không chia chủ đề mà chỉ có các mục đánh số. Phần dưới đi theo đúng thứ tự Dàn ý cũ, từ 10.11 đến 10.38, viết thành văn xuôi có giải thích, và gom thành bốn nhóm mục cho dễ theo dõi. Số mục (ví dụ 10.33) là số dùng chung trong mọi bản dịch.
 
-**10.16 Đừng bàn, hãy là.** Thôi tranh luận người tốt phải thế nào; hãy là người tốt.
+*(Các mục 10.1–10.10 không có trong bản dịch; xem khối Lưu ý ở đầu để biết nội dung theo nguyên tác.)* Bản dịch tiếng Việt đăng Quyển 10 thành ba phần, và tài liệu nguồn chỉ có phần (2) và (3), bắt đầu từ mục 11. Vì vậy nội dung dưới đây bắt đầu từ 10.11.
 
-**10.17 Tỉ lệ.** Luôn nghĩ đến toàn bộ thời gian và toàn bộ vật chất: mỗi vật riêng lẻ so với vật chất là một hạt nhỏ, so với thời gian là một vòng xoay. (Người dịch thêm chú thích đề nghị đọc là "một cái chớp mắt".)
+### Mục 10.11–10.16: thấy biến đổi, và chỉ còn hai câu hỏi
 
-**10.18 Mọi thứ đang tan rã.** Mỗi vật đang tồn tại thật ra đã đang tan rã và biến đổi, đang mục, đang phân tán; hoặc nói cách khác, mọi thứ sinh ra là để chết.
+**10.11 Học cách thấy biến đổi.** Marcus tự dặn hãy tập một phương pháp: nhìn mọi vật như đang chuyển hoá liên tục từ dạng này sang dạng khác. Phải chú tâm và luyện tập thường xuyên ở điểm này, vì hiếm có điều gì nâng tầm tâm trí bằng nó. Đây là một bài tập, không phải một kiến thức: biết rằng mọi thứ thay đổi thì dễ, nhưng thấy nó trong từng sự vật hằng ngày thì phải luyện.
 
-**10.19 Họ là ai.** Xem họ thế nào lúc ăn, ngủ, giao hợp, đi vệ sinh. Rồi xem họ lúc ra vẻ uy quyền, lúc hống hách, lúc nổi giận quát mắng từ trên cao. Mới hôm qua họ còn khúm núm với bao người vì những lý do nào, và chẳng bao lâu nữa họ lại sẽ như thế.
+**10.11a Người đã cởi thân xác.** Người hiểu rằng mình sắp phải rời bỏ mọi thứ thì giống như đã cởi bỏ thân xác, đã thoát khỏi ràng buộc của nó. Người ấy dồn trọn sức vào hai việc: giữ công lý trong những việc mình làm, và trao mình cho tự nhiên trong những việc xảy đến với mình. Người khác nói gì, nghĩ gì hay làm gì với anh ta, anh không để tâm. Anh chỉ cần hai điều, cũng là hai câu hỏi duy nhất còn lại:
 
-**10.20 Đúng thứ, đúng lúc.** Điều tự nhiên đem đến cho mỗi người là điều có lợi cho người đó, và có lợi đúng vào lúc nó đem đến.
+1. Việc ta đang làm có đúng không?
+2. Ta có đón nhận, thậm chí vui lòng, với phần được giao không?
 
-**10.21 Thế giới yêu điều sẽ đến.** Câu thơ: đất mong mưa, bầu trời cao quý cũng mong. Vũ trụ cũng mong làm ra điều sẽ phải xảy ra. Vậy ta nói với vũ trụ: ta cũng mong như ngươi. Chẳng phải đó là ý của câu nói thông thường rằng điều này "có xu hướng xảy ra" sao?
+Anh đã gác lại mọi bận rộn khác, chỉ muốn đi con đường thẳng theo luật, và bằng con đường ấy đi theo thần. (Bản dịch viết "đến với Chúa/Thượng đế"; chữ gốc là *theos*, "thần", không mang sắc thái Kitô giáo.)
 
-**10.22 Ba khả năng.** Hoặc ta sống tiếp ở đây, điều đã quen; hoặc ta rời đi, điều đó do ta muốn; hoặc ta chết, khi đã làm xong phận sự. Ngoài ba điều đó không có gì khác. Vậy hãy vững lòng.
+**10.12 Khi chưa chắc nên làm gì.** Cần gì phải phỏng đoán khi ta có thể nhìn xem việc gì cần làm? Marcus đưa ra một quy trình ba nhánh:
 
-**10.23 Ở đây cũng như trên núi.** Luôn thấy rõ rằng nơi này cũng như một cánh đồng ở đâu đó, và mọi thứ ở đây y như trên đỉnh núi, ngoài bờ biển hay bất cứ nơi nào. Như Plato nói về người cai trị: chỉ là kẻ rào chuồng trên núi và vắt sữa đàn gia súc. (Người dịch chú thích: từ góc nhìn của nhà triết học, ông vua cũng chỉ như một người chăn cừu.)
+| Tình huống | Nên làm |
+|---|---|
+| Đã thấy rõ đường | Đi theo, vui vẻ, không ngoảnh lại |
+| Chưa thấy rõ | Dừng lại và hỏi những người khuyên tốt nhất |
+| Có trở ngại | Tiến lên thận trọng với những phương tiện đang có trong tay, bám lấy điều có vẻ đúng |
 
-**10.24 Kiểm tra phần chỉ huy.** Phần chỉ huy của ta là gì đối với ta? Ta đang làm nó thành thứ gì, dùng nó vào việc gì? Nó có trống rỗng hiểu biết không? Có bị cắt rời khỏi cộng đồng không? Có bị dính, trộn vào xác thịt đến mức bị xác thịt điều khiển không?
+Câu kết của mục rất đáng nhớ: đạt được điều đúng là tốt nhất; còn nếu thất bại, thì hãy thất bại trong khi đang nhắm vào điều đúng. Tức là kết quả có thể ngoài tầm tay, nhưng hướng nhắm thì luôn thuộc quyền ta.
 
-**10.25 Nô lệ bỏ trốn.** Kẻ trốn chủ là nô lệ bỏ trốn. Luật cũng là chủ, nên kẻ vi phạm luật là kẻ bỏ trốn. Người đau buồn, giận dữ hay sợ hãi là người không muốn điều đã, đang hoặc sẽ xảy ra theo sự sắp đặt của đấng điều hành vạn vật, tức là Luật, kẻ phân cho mỗi người phần của mình. Vậy kẻ sợ, kẻ buồn, kẻ giận đều là kẻ bỏ trốn.
+**10.12a Kết quả của việc theo lý trí.** Người đi theo lý trí trong mọi việc có những phẩm chất tưởng như trái ngược nhau: vừa thư thái vừa nhanh nhạy, vừa vui tươi vừa điềm tĩnh. Bình thản không có nghĩa là chậm chạp, và vui không có nghĩa là thiếu vững vàng.
 
-**10.26 Sức mạnh vô hình.** Người cha để lại hạt giống rồi đi; một nguyên nhân khác tiếp nhận và làm thành đứa trẻ. Từ cái ấy mà ra cái này! Hay: người ta nuốt thức ăn, rồi một nguyên nhân khác tạo ra cảm giác, ham muốn, sự sống, sức lực và nhiều thứ khác. Hãy quan sát những việc diễn ra lặng lẽ ấy và nhận ra sức mạnh làm nên chúng, như ta nhận ra sức kéo xuống hay đẩy lên: không bằng mắt, nhưng rõ không kém.
+**10.13 Câu hỏi buổi sáng.** Vừa thức dậy, hãy hỏi mình: nếu người khác trách một việc đúng mà ta làm, điều đó có làm gì khác đi không? Không khác gì cả. Rồi hỏi tiếp: ta có quên những kẻ hay khen và chê người khác trông ra sao lúc ăn, lúc ngủ không? Họ làm gì, sợ gì, thèm gì? Marcus nói họ ăn trộm và cướp phá, không phải bằng tay chân, mà bằng phần quý nhất trong chính họ. Cái họ đánh mất vì sợ hãi và thèm muốn không phải của cải, mà là phần mà nếu muốn, có thể sinh ra lòng tin, sự khiêm nhường, chân lý, trật tự và hạnh phúc. Lập luận ở đây là: lời khen chê đến từ những người như vậy không đáng làm thước đo.
 
-**10.27 Cùng một vở kịch.** Luôn nhớ rằng mọi thứ hiện nay đều đã xảy ra như thế trước đây và sẽ xảy ra như thế sau này. Hãy đặt trước mắt những vở kịch, những cảnh trí cùng một kiểu mà ta biết qua kinh nghiệm hay sử sách: cả triều đình Hadrian, cả triều đình Antoninus, triều Philip, Alexander, Croesus. Tất cả như nhau, chỉ khác người diễn.
+**10.14 Ban và lấy.** Với tự nhiên, kẻ ban ra mọi thứ và lấy lại mọi thứ, người có học và khiêm tốn sẽ nói: hãy ban điều gì tuỳ ý, và lấy lại điều gì tuỳ ý. Câu này nghe như thách thức, nhưng Marcus nói rõ: người ấy nói vậy không vì kiêu ngạo thách thức, mà vì vâng phục và thiện chí, với lòng chấp thuận. (Bản dịch gọi chủ thể là "Ngài", làm tự nhiên giống một vị thần có ngôi vị; trong nguyên tác đó là Tự nhiên, *physis*.)
 
-**10.28 Con lợn bị chọc tiết.** Ai đau khổ hay bực bội vì bất cứ điều gì thì giống con lợn bị chọc tiết, giãy đạp và kêu thét; hay giống người nằm một mình trên giường lặng lẽ than khóc về những sợi dây ràng buộc ta. Hãy nhớ: mọi vật đều buộc phải đi theo, nhưng chỉ sinh vật lý trí được ban cho khả năng đi theo một cách tự nguyện.
+**10.15 Sống như trên núi.** Thời gian còn lại ngắn. Hãy sống như đang ở trên núi, nơi không có ai để làm vừa lòng. Ở đây hay ở đó không khác gì, nếu ở đâu ta cũng sống như một công dân của thành bang vũ trụ. Hãy để mọi người thấy và biết thế nào là một con người thật, sống thuận theo tự nhiên. Nếu họ không chịu nổi, cứ để họ giết ta; thà bị họ giết còn hơn sống như họ. (Câu "còn tốt hơn là sống thế này" trong bản dịch nên hiểu theo nghĩa đó.)
 
-**10.29 Kiểm tra nỗi sợ chết.** Với từng việc đang làm, dừng lại hỏi: có phải cái chết đáng sợ vì nó lấy mất việc này của ta?
+**10.16 Đừng bàn, hãy là.** Thôi tranh luận xem người tốt phải như thế nào; hãy là người tốt. Đây là câu ngắn nhất và có lẽ thực tế nhất của quyển: triết học không phải để nói về sống đúng, mà để sống đúng.
 
-**10.30 Khi thấy người làm sai.** Lập tức quay về hỏi: ta đã từng sai tương tự chưa, chẳng hạn coi tiền bạc, khoái lạc, chút danh tiếng là điều tốt? Nghĩ vậy, cơn giận sẽ nhanh tan, cùng với ý nghĩ rằng người kia bị thôi thúc ép buộc thì biết làm khác thế nào. Nếu có thể, hãy gỡ cho họ sự ép buộc ấy.
+### Mục 10.17–10.26: tỉ lệ, luật tự nhiên và sức mạnh vô hình
 
-**10.31 Họ đâu cả rồi.**
-- Nhìn Satyron, hãy nghĩ tới Socraticus, Eutyches hay Hymen; nhìn Euphrates, nghĩ tới Eutychion hay Silvanus; nhìn Alciphron, nghĩ tới Tropaeophorus; nhìn Xenophon, nghĩ tới Crito hay Severus; nhìn chính mình, nghĩ tới một hoàng đế trước. Với mỗi người cũng làm thế, rồi hỏi: họ đâu? Không ở đâu cả, hoặc ở bất cứ đâu.
-- Như vậy ta sẽ luôn thấy việc của con người là khói và hư không, nhất là khi nhớ rằng cái gì đã đổi thì không bao giờ trở lại trong thời gian vô tận. Vậy sao phải giằng xé? Sống đúng đắn khoảng đời ngắn ngủi này chưa đủ sao?
-- Ta đang tránh né chất liệu nào, cơ hội nào? Tất cả chỉ là bài tập cho lý trí, cho người đã nhìn đời sống một cách chính xác. Hãy kiên trì cho đến khi biến chúng thành của mình, như dạ dày khoẻ đồng hoá mọi thức ăn, như ngọn lửa mạnh biến mọi thứ ném vào thành ánh sáng và sức nóng.
+**10.17 Tỉ lệ.** Hãy luôn nghĩ tới toàn bộ thời gian và toàn bộ vật chất. So với toàn bộ vật chất, mỗi vật riêng lẻ chỉ là một hạt nhỏ (nguyên tác: một hạt sung); so với toàn bộ thời gian, đời của nó chỉ là một vòng xoay của mũi khoan. Bản dịch viết "hạt nho" và "cái vặn nút chai", một dụng cụ không tồn tại thời La Mã; người dịch còn thêm chú thích đề nghị đọc là "một cái chớp mắt". Dù chọn hình ảnh nào, ý vẫn là: đặt một việc vào đúng tỉ lệ thì nó nhỏ đi rất nhiều.
 
-**10.32 Không ai cản được ta trung thực.** Đừng để ai nói đúng được rằng ta không thẳng thắn, không tốt; kẻ nào nghĩ thế thì phải là nghĩ sai. Việc ấy hoàn toàn trong quyền ta: không ai ngăn được ta là người tốt và thẳng thắn. Chỉ cần quyết định không sống nữa nếu không giữ được như vậy, vì lý trí cũng không đòi ta sống trong tình trạng đó.
+**10.18 Mọi thứ đang tan rã.** Mỗi vật đang tồn tại thật ra đã đang tan rã và biến đổi: đang mục, đang phân tán. Hoặc nói cách khác, mọi thứ sinh ra là để chết. Mục này đi cùng 10.11: tập thấy sự biến đổi đang diễn ra ngay trong những thứ trông có vẻ bền vững.
 
-**10.33 Lý trí tự mở đường.**
-- Với chất liệu đời mình, việc đúng đắn nhất có thể làm hay nói là gì? Dù là gì, ta đều làm, nói được; đừng viện cớ bị ngăn cản.
-- Ta sẽ không ngừng tự trách cho tới khi thấy việc làm điều xứng với con người, trong hoàn cảnh nào cũng vậy, đem lại niềm vui như khoái lạc đem lại cho kẻ hưởng lạc. Phải coi là niềm vui mọi điều ta làm được theo bản tính mình, và ở đâu cũng làm được.
-- Khối trụ không được ban quyền tự chuyển động theo cách của nó; nước, lửa và những gì do tự nhiên hay linh hồn không lý trí điều khiển cũng vậy, vì có nhiều thứ chặn chúng. Còn trí tuệ và lý trí thì đi qua mọi chướng ngại bằng bản tính và ý chí của mình. Hãy hình dung sự dễ dàng ấy, như lửa bốc lên, đá rơi xuống, khối trụ lăn xuống dốc, rồi không đòi gì thêm.
-- Mọi trở ngại khác hoặc chỉ chạm tới thân xác vốn như xác chết, hoặc không thể làm ta đổ vỡ hay chịu hại gì nếu không có phán đoán sai và lý trí không tự buông mình. Nếu không thì người chịu trở ngại đã lập tức trở nên tồi tệ. Ở mọi vật khác, điều xấu xảy đến làm vật ấy xấu đi; còn con người, nếu có thể nói vậy, lại tốt lên và đáng khen hơn khi biết dùng đúng điều xảy đến.
-- Cuối cùng: không gì làm hại một công dân thực sự trừ điều làm hại thành bang; không gì làm hại thành bang trừ điều làm hại luật; và không một điều nào người ta gọi là bất hạnh làm hại được luật. Luật còn nguyên thì thành bang và công dân đều không hề hấn. (Người dịch chú thích: có thể hiểu "thành phố" rộng thành đất nước hay cả thế giới.)
+**10.19 Họ là ai.** Hãy xem những người ta để ý ý kiến của họ trông thế nào lúc ăn, lúc ngủ, lúc giao hợp, lúc đi vệ sinh. Rồi xem họ lúc ra vẻ uy quyền, lúc hống hách, lúc nổi giận quát mắng từ trên cao. Mới hôm qua họ còn khúm núm, quỳ luỵ bao nhiêu người vì đủ lý do, và chẳng bao lâu nữa họ lại sẽ như thế. Kỹ thuật này giống 10.13: nhìn con người ở những lúc bình thường nhất để thấy uy quyền của họ không lớn như vẻ ngoài.
 
-**10.34 Lá cây.** Người đã thấm các nguyên lý đúng chỉ cần một câu nhắc ngắn, bình thường nhất, cũng đủ để hết buồn và sợ, như câu thơ Homer: lá cây bị gió thổi rụng xuống đất, các thế hệ người cũng vậy. Con cái ta là lá; những kẻ hết lời tâng bốc ta, hay nguyền rủa, chế giễu ta từ chỗ an toàn, cũng là lá; những người sẽ truyền lại danh tiếng của ta cũng là lá. Tất cả mọc lên vào mùa xuân, gió thổi rụng, rồi cây ra lá khác thay. Mọi thứ đều chóng qua, vậy mà ta sợ và thèm như thể chúng còn mãi. Chẳng bao lâu ta sẽ nhắm mắt, và người chôn ta rồi cũng sẽ được người khác khóc.
+**10.20 Đúng thứ, đúng lúc.** Điều tự nhiên đem tới cho mỗi người là điều có lợi cho người đó, và có lợi đúng vào lúc nó được đem tới. Đây là niềm tin Khắc kỷ rằng mọi việc nằm trong một trật tự hợp lý.
 
-**10.35 Tâm trí khoẻ.** Mắt khoẻ phải nhìn được mọi thứ có thể thấy, không kêu "quá chói", vì kêu vậy là dấu hiệu viêm mắt. Tai, mũi khoẻ phải sẵn sàng cho mọi âm thanh, mùi hương. Dạ dày khoẻ phải nhận mọi thức ăn, như cối xay nhận mọi thứ đem xay. Vậy tâm trí khoẻ phải sẵn sàng cho mọi điều xảy đến. Tâm trí nào cứ đòi con mình phải bình an, ai cũng phải khen việc mình làm, thì như mắt chỉ chịu màu nhạt, răng chỉ nhai được đồ mềm.
+**10.21 Thế giới yêu điều sẽ đến.** Marcus trích một câu thơ của Euripides: đất mong mưa, và bầu trời cao quý cũng mong (đổ mưa xuống; bản dịch lược nửa câu này thành dấu "..."). Vũ trụ cũng "mong" làm ra điều sẽ phải xảy ra. Vậy ta nói với vũ trụ: ta cũng mong như ngươi. Rồi ông hỏi: chẳng phải đó chính là ý của cách nói thông thường rằng một điều "có xu hướng xảy ra" sao? Câu hỏi này dựa trên một lối chơi chữ: trong tiếng Hy Lạp, động từ *philein* vừa có nghĩa "yêu, mong", vừa có nghĩa "thường, có xu hướng". Nói một điều "hay xảy ra" cũng là nói nó "yêu xảy ra". Marcus dùng lối chơi chữ này để nói: hãy yêu điều sắp đến như chính thế giới yêu nó.
 
-**10.36 Bên giường bệnh.**
-- Không ai may đến mức lúc chết không có vài người đứng quanh mừng thầm điều xấu đang đến. Người tốt và khôn ngoan ư? Rồi cũng sẽ có kẻ nghĩ: cuối cùng cũng thoát được ông thầy này; ông không làm khổ ai trong chúng ta, nhưng ta cảm thấy ông vẫn ngầm phán xét ta. Người tốt còn vậy, huống chi ta, với bao nhiêu điều khiến nhiều người mong thoát khỏi ta.
-- Hãy nghĩ điều đó lúc chết, ta sẽ ra đi dễ hơn khi tự nhủ: ta đang rời một đời sống mà ngay những người ta đã vất vả, cầu nguyện, lo lắng vì họ cũng mong ta đi, mong được nhẹ nhõm hơn. Còn ai muốn ở lại lâu hơn?
-- Nhưng đừng vì thế mà ra đi với lòng kém tử tế với họ. Hãy giữ đúng tính mình: tận tâm, cảm thông, khoan dung. Và đừng ra đi như bị giật khỏi đời, mà như linh hồn của người chết êm dễ dàng rời thân xác. Chính tự nhiên đã buộc ta với họ, giờ chính tự nhiên cởi ra. Ta được cởi như khỏi người thân, không giằng co, không bị lôi đi, mà tự nguyện; vì đây cũng là một trong những điều thuận tự nhiên.
+**10.22 Ba khả năng.** Chỉ có ba khả năng. Hoặc ta sống tiếp ở đây, điều ta đã quen. Hoặc ta rời đi, và điều đó là do ta muốn. Hoặc ta chết, khi đã làm xong phận sự. Ngoài ba điều đó không có khả năng thứ tư. Vậy hãy vững lòng. Lập luận này giống lập luận chia trường hợp ở các quyển trước: liệt kê đủ các khả năng và cho thấy không khả năng nào đáng sợ.
 
-**10.37 Hỏi "vì sao".** Tập thói quen trước mọi việc người khác làm, hỏi: người này nhắm tới điều gì? Nhưng bắt đầu từ chính mình, và xét mình trước tiên.
+**10.23 Ở đây cũng như trên núi.** Hãy luôn thấy rõ rằng nơi ta đang ở cũng như một cánh đồng ở đâu đó, và mọi thứ ở đây y như trên đỉnh núi, ngoài bờ biển hay bất cứ nơi nào khác. Như Plato nói về người cai trị: người ấy chỉ là kẻ rào chuồng trên núi và vắt sữa đàn gia súc. Người dịch chú thích: từ góc nhìn của nhà triết học, ông vua cũng chỉ như một người chăn cừu. Với một hoàng đế, đây là lời tự hạ mình rõ ràng.
 
-**10.38 Cái điều khiển nằm bên trong.** Hãy nhớ: cái giật dây ta là cái ẩn bên trong. Đó là lời nói, là sự sống, nếu có thể nói vậy, đó là con người. Đừng lẫn nó với cái vỏ bao quanh và các cơ quan đi kèm. Chúng như chiếc rìu, chỉ khác là mọc liền với ta. Không có nguyên nhân làm chúng chuyển động và dừng lại thì chúng cũng vô dụng như con thoi không thợ dệt, cây bút không người viết, cái roi không người đánh xe.
+**10.24 Kiểm tra phần chỉ huy.** Marcus đặt cho mình một loạt câu hỏi kiểm tra. Phần chỉ huy của ta là gì đối với ta? Ta đang biến nó thành thứ gì, dùng nó vào việc gì? Nó có trống rỗng hiểu biết không? Có bị cắt rời khỏi cộng đồng không? Có bị dính chặt, trộn vào xác thịt đến mức bị xác thịt điều khiển không? Đây là một bản "khám sức khoẻ" cho tâm trí, đi cùng với hình ảnh tâm trí khoẻ ở 10.35.
+
+**10.25 Nô lệ bỏ trốn.** Lập luận đi qua ba bước. Kẻ trốn chủ là nô lệ bỏ trốn. Luật cũng là một người chủ, nên kẻ vi phạm luật cũng là kẻ bỏ trốn. Người đau buồn, giận dữ hay sợ hãi là người không muốn điều đã, đang hoặc sẽ xảy ra theo sự sắp đặt của sức mạnh điều hành vạn vật, tức là Luật, kẻ phân cho mỗi người phần của mình. Kết luận: kẻ sợ, kẻ buồn, kẻ giận đều là kẻ bỏ trốn, trốn khỏi luật và vì thế trốn khỏi công lý. Lập luận này biến các cảm xúc tiêu cực từ chuyện riêng tư thành một vấn đề đạo đức.
+
+**10.26 Sức mạnh vô hình.** Người cha để lại hạt giống rồi đi; một nguyên nhân khác tiếp nhận nó và làm thành đứa trẻ. Từ cái ấy mà ra cái này! Cũng vậy, người ta nuốt thức ăn, rồi một nguyên nhân khác biến nó thành cảm giác, ham muốn, sự sống, sức lực và nhiều thứ khác. Hãy quan sát những việc diễn ra lặng lẽ ấy và nhận ra sức mạnh làm nên chúng, như ta nhận ra lực kéo xuống hay đẩy lên: không thấy bằng mắt, nhưng hiểu rõ không kém.
+
+### Mục 10.27–10.31: cùng một vở kịch, và biến mọi thứ thành của mình
+
+**10.27 Cùng một vở kịch.** Hãy luôn nhớ rằng mọi thứ đang diễn ra hôm nay đều đã xảy ra như thế trước đây và sẽ xảy ra như thế sau này. Hãy đặt trước mắt những vở kịch và cảnh trí cùng một kiểu mà ta biết qua kinh nghiệm hay qua sử sách: cả triều đình Hadrian, cả triều đình Antoninus, triều đình của Philip, của Alexander, của Croesus. Tất cả như nhau, chỉ khác người diễn. Hai triều đầu là những triều Marcus đã sống trong đó (Hadrian là người sắp đặt để Antoninus nhận Marcus làm con nuôi, Antoninus là cha nuôi ông), nên ông đang nói về chính triều đình của mình.
+
+**10.28 Con lợn bị chọc tiết.** Ai đau khổ hay bực bội vì bất cứ điều gì thì giống con lợn bị chọc tiết, giãy đạp và kêu thét. Hoặc giống người nằm một mình trên giường lặng lẽ than khóc về những sợi dây đang ràng buộc ta. Hãy nhớ: mọi vật đều buộc phải đi theo điều xảy đến; nhưng chỉ sinh vật có lý trí được ban cho khả năng đi theo một cách tự nguyện. Khác biệt không nằm ở việc có phải đi theo hay không, mà ở việc đi theo bằng thái độ nào.
+
+**10.29 Kiểm tra nỗi sợ chết.** Với từng việc đang làm, hãy dừng lại và hỏi: có phải cái chết đáng sợ chỉ vì nó lấy mất việc này của ta? Câu hỏi giúp thấy rằng phần lớn những việc ta đang làm không đáng để níu kéo đến thế.
+
+**10.30 Khi thấy người làm sai.** Lập tức quay về mình và hỏi: ta đã từng sai tương tự chưa, chẳng hạn coi tiền bạc, khoái lạc hay một chút danh tiếng là điều tốt? Nghĩ như vậy, cơn giận sẽ nhanh chóng nguôi, cùng với ý nghĩ rằng người kia đang bị một thôi thúc ép buộc thì biết làm khác thế nào được. Và nếu có thể, hãy giúp gỡ cho họ sự ép buộc ấy. Quy trình ba bước ở đây là: tự soi mình, hiểu cho người, rồi giúp nếu được.
+
+**10.31 Họ đâu cả rồi.** Marcus dùng một bài tập liên tưởng. Nhìn một người đang sống, hãy nghĩ tới người giống họ đã khuất:
+
+| Nhìn người đang sống | Nghĩ tới người đã khuất |
+|---|---|
+| Satyron | Socraticus, Eutyches hay Hymen |
+| Euphrates | Eutychion hay Silvanus |
+| Alciphron | Tropaeophorus |
+| Xenophon | Crito hay Severus |
+| Chính mình | Một hoàng đế trước |
+
+Với mỗi người cũng làm như vậy, rồi hỏi: họ đâu? Không ở đâu cả, hoặc ở bất cứ đâu. Làm như vậy, ta sẽ luôn thấy việc của con người chỉ là khói và hư không, nhất là khi nhớ rằng cái gì đã đổi thì không bao giờ trở lại trong thời gian vô tận. Vậy sao phải giằng xé? Sống đúng đắn khoảng đời ngắn ngủi này chưa đủ sao?
+
+Nửa sau của mục chuyển sang một ý tích cực. Ta đang tránh né chất liệu nào, cơ hội nào? Tất cả những thứ ấy, kể cả cơ hội bị lỡ và việc bị hỏng, chỉ là bài tập cho lý trí, cho người đã nhìn đời sống một cách chính xác. Hãy kiên trì cho tới khi biến chúng thành của mình, như dạ dày khoẻ đồng hoá mọi thức ăn, như ngọn lửa mạnh biến mọi thứ ném vào thành ánh sáng và sức nóng.
+
+### Mục 10.32–10.38: lý trí tự mở đường, tâm trí khoẻ và giường bệnh
+
+**10.32 Không ai cản được ta trung thực.** Đừng để ai có thể nói đúng rằng ta không thẳng thắn, không tốt; nếu có người nghĩ thế thì họ phải là người nghĩ sai. Việc ấy hoàn toàn nằm trong quyền ta: không ai ngăn được ta là người tốt và thẳng thắn. Chỉ cần quyết định không sống nữa nếu không giữ được như vậy, vì lý trí cũng không đòi ta sống trong tình trạng đó.
+
+**10.33 Lý trí tự mở đường.** Đây là mục dài và quan trọng nhất của quyển. Nó có năm bước:
+
+- **Câu hỏi xuất phát.** Với chất liệu đời mình, việc đúng đắn nhất có thể làm hay nói là gì? Dù là gì, ta đều làm được, nói được; đừng viện cớ là bị ngăn cản.
+- **Niềm vui của việc đúng.** Ta sẽ không ngừng tự trách cho tới khi thấy rằng việc làm điều xứng với con người, trong bất cứ hoàn cảnh nào, đem lại niềm vui giống như khoái lạc đem lại cho kẻ hưởng lạc. Phải coi là niềm vui mọi điều ta làm được theo bản tính mình, và ở đâu cũng làm được điều đó.
+- **Vật khác bị chặn, lý trí thì không.** Khối trụ không được ban quyền tự chuyển động theo cách của nó ở mọi nơi; nước, lửa và những gì do tự nhiên hay do linh hồn không lý trí điều khiển cũng vậy, vì có nhiều thứ chặn được chúng. Còn trí tuệ và lý trí thì đi qua mọi chướng ngại bằng bản tính và ý chí của mình. Hãy hình dung sự dễ dàng ấy, tự nhiên như lửa bốc lên, đá rơi xuống, khối trụ lăn xuống dốc, rồi không đòi gì thêm. (Khối trụ là hình ảnh của Chrysippus; bản dịch gọi là "cái xy lanh".)
+- **Chướng ngại chỉ chạm tới thân xác.** Mọi trở ngại khác hoặc chỉ chạm tới thân xác, vốn như một cái xác, hoặc không thể làm ta đổ vỡ hay chịu hại gì, trừ khi ta phán đoán sai và lý trí tự buông mình, tự đầu hàng. Nếu không phải vậy, thì người gặp trở ngại đã lập tức trở nên tồi tệ. Ở mọi vật khác, điều xấu xảy đến làm vật ấy xấu đi; còn con người, nếu có thể nói vậy, lại tốt lên và đáng khen hơn khi biết dùng đúng điều xảy đến.
+- **Công dân, thành bang và luật.** Không gì làm hại một công dân thực sự trừ điều làm hại thành bang; không gì làm hại thành bang trừ điều làm hại luật; và không một điều nào người ta gọi là bất hạnh làm hại được luật. Vậy luật còn nguyên thì thành bang và công dân đều không hề hấn gì. (Người dịch chú thích: có thể hiểu "thành phố" rộng ra thành đất nước hay cả thế giới.)
+
+Nghịch lý ở bước thứ tư là chỗ sâu nhất: một hòn đá bị đập thì vỡ, một cái cây bị chặt thì chết, nhưng một con người gặp bất hạnh có thể dùng chính bất hạnh đó để trở nên tốt hơn.
+
+**10.34 Lá cây.** Người đã thấm các nguyên lý đúng chỉ cần một câu nhắc ngắn, bình thường nhất, cũng đủ để hết buồn và hết sợ. Ví dụ câu thơ của Homer: lá cây bị gió thổi rụng xuống đất, các thế hệ người cũng vậy. Marcus áp nó vào đời mình: con cái ta là lá; những kẻ hết lời tâng bốc ta, hay nguyền rủa, chế giễu ta từ chỗ an toàn, cũng là lá; những người sẽ truyền lại danh tiếng của ta cũng là lá. Tất cả mọc lên vào mùa xuân, gió thổi rụng, rồi cây ra lá khác thay. Mọi thứ đều chóng qua, vậy mà ta sợ và thèm như thể chúng còn mãi. Chẳng bao lâu ta sẽ nhắm mắt, và người chôn ta rồi cũng sẽ được người khác khóc.
+
+**10.35 Tâm trí khoẻ.** Đây là hình ảnh đặt tên cho quyển. Marcus đi qua từng cơ quan của cơ thể:
+
+| Cơ quan khoẻ | Dấu hiệu khoẻ |
+|---|---|
+| Mắt | Nhìn được mọi thứ có thể thấy, không kêu "quá chói"; kêu như vậy là dấu hiệu viêm mắt |
+| Tai, mũi | Sẵn sàng cho mọi âm thanh, mọi mùi hương |
+| Dạ dày | Nhận mọi thức ăn, như cối xay nhận mọi thứ đem xay |
+| Tâm trí | Sẵn sàng cho mọi điều xảy đến |
+
+Rồi ông chỉ ra triệu chứng của một tâm trí bệnh: tâm trí nào cứ đòi con mình phải bình an, cứ đòi ai cũng phải khen việc mình làm, thì giống như con mắt chỉ chịu được màu nhạt, hay hàm răng chỉ nhai được đồ mềm như cháo. Điều đáng chú ý là ngay cả mong muốn tự nhiên nhất, con mình được an toàn, cũng bị Marcus xếp vào loại "đòi hỏi" nếu nó trở thành điều kiện để tâm trí được yên.
+
+**10.36 Bên giường bệnh.** Marcus tưởng tượng lúc mình hấp hối. Không ai may mắn tới mức lúc chết không có vài người đứng quanh thầm mừng vì điều xấu đang đến. Người tốt và khôn ngoan ư? Rồi cũng sẽ có kẻ nghĩ: cuối cùng cũng thoát được ông thầy này; ông không làm khổ ai trong chúng ta, nhưng ta cảm thấy ông vẫn ngầm phán xét chúng ta. Người tốt còn như vậy, huống chi ta, với bao nhiêu điều khiến nhiều người mong thoát khỏi ta.
+
+Hãy nghĩ tới điều đó lúc chết, và ta sẽ ra đi dễ dàng hơn khi tự nhủ: ta đang rời một đời sống mà ngay cả những người ta đã vất vả, cầu nguyện, lo lắng vì họ cũng mong ta đi, mong được nhẹ nhõm hơn. Vậy còn ai muốn ở lại lâu hơn?
+
+Nhưng Marcus lập tức đặt một giới hạn: đừng vì thế mà ra đi với lòng kém tử tế với họ, không ra đi trong giận dữ. Hãy giữ đúng tính mình: tận tâm, cảm thông, khoan dung. Và đừng ra đi như bị giật khỏi đời, mà như linh hồn của người chết êm, dễ dàng rời thân xác. Chính tự nhiên đã buộc ta với những người ấy, giờ chính tự nhiên cởi ra. Ta được cởi ra như rời khỏi người thân, không giằng co, không bị lôi đi, mà tự nguyện; vì đây cũng là một trong những điều thuận tự nhiên.
+
+**10.37 Hỏi "vì sao".** Hãy tập thói quen: trước mọi việc người khác làm, hỏi người này đang nhắm tới điều gì. Nhưng hãy bắt đầu từ chính mình, và xét mình trước tiên. Mục này đi cùng 10.30: muốn hiểu người khác thì trước hết phải hiểu động cơ của chính mình.
+
+**10.38 Cái điều khiển nằm bên trong.** Quyển kết bằng một hình ảnh về con người. Hãy nhớ: cái giật dây ta là cái ẩn ở bên trong. Đó là lời nói, là sự sống, nếu có thể nói vậy, đó chính là con người. Đừng lẫn nó với cái vỏ bao quanh và các cơ quan đi kèm. Những thứ ấy giống chiếc rìu, chỉ khác là chúng mọc liền với ta. Không có nguyên nhân làm chúng chuyển động và dừng lại, thì chúng cũng vô dụng như con thoi không có thợ dệt, cây bút không có người viết, cái roi không có người đánh xe. Hình ảnh này nối lại với các câu hỏi tự kiểm tra ở 10.24: điều cần chăm sóc là phần chỉ huy, vì chỉ nó mới là "ta".
 
 ## Luận điểm triết học cốt lõi
 

@@ -188,125 +188,187 @@
 2. **Phải đối xử thế nào với người khiến ta khó chịu?** Nhìn vào tâm trí họ để thấy khen chê của họ không đáng sợ; nhớ rằng kẻ xấu phải tồn tại trong thế giới; thuyết phục nếu được, kiên nhẫn nếu không; và tự trách mình nếu ta đã trông đợi điều khác (9.27, 9.42).
 3. **Nên cầu nguyện điều gì, và nên chờ cái chết thế nào?** Cầu cho chính mình hết sợ hãi, hết thèm muốn, chứ không cầu cho ngoại cảnh thay đổi (9.40); chờ cái chết như chờ một đứa trẻ chào đời, một biến đổi tự nhiên trong chuỗi biến đổi mà đời ta đã trải qua nhiều lần (9.3, 9.21).
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
 
-**9.1 Bốn dạng báng bổ.**
-- Tự nhiên tạo ra các sinh vật lý trí vì nhau: để giúp nhau theo đúng giá trị của mỗi người, không bao giờ để hại nhau. Vì vậy, ai làm bất công là xúc phạm vị thần cổ xưa nhất, tức chính Tự nhiên.
-- Nói dối cũng thế. Tự nhiên toàn thể là gốc của vạn vật và gắn chặt với những gì nó sinh ra, nên nó cũng là Chân lý, nguồn của mọi điều đúng. Kẻ cố ý nói dối phạm tội lừa gạt, tức bất công. Kẻ nói sai mà không biết cũng làm rối trật tự của thế giới, vì đã chống lại cách vạn vật được sắp đặt. Tự nhiên đã cho họ khả năng phân biệt thật giả, nhưng họ bỏ bê nó đến mức không còn nhận ra khác biệt.
-- Theo đuổi khoái lạc như điều thiện và chạy trốn đau khổ như điều ác cũng là báng bổ. Ba hệ quả: (a) người như vậy sẽ luôn trách Tự nhiên phân phối bất công, vì kẻ xấu thường hưởng sướng còn người tốt thường chịu khổ; (b) ai sợ đau thì có lúc sẽ sợ những gì tất yếu xảy ra trong thế giới; (c) ai đuổi theo khoái lạc thì khó tránh làm sai.
-- Những gì Tự nhiên đối xử như nhau (khoái lạc và đau, sống và chết, danh tiếng và vô danh) thì ta cũng phải đối xử như nhau, nếu muốn thuận theo Tự nhiên. Nếu Tự nhiên thật sự ưa một bên, nó đã không tạo ra cả hai.
-- "Tự nhiên đối xử như nhau" nghĩa là các điều ấy xảy đến cho mọi người không phân biệt, theo chuỗi nối tiếp của những gì có và sẽ có, từ một xung lực ban đầu của Thiên ý (*pronoia*), lúc nó khởi sự tạo trật tự thế giới, định ra mầm mống của những gì sẽ có và sức sinh thành, biến đổi.
+**Tự nhiên toàn thể như một vị thần.** Phái Khắc kỷ không tin vào một đấng sáng tạo đứng bên ngoài thế giới. Với họ, chính vũ trụ, với trật tự hợp lý bên trong nó, là thần; Marcus gọi Tự nhiên là "vị thần cổ xưa nhất", vì mọi thứ khác đều sinh ra từ nó. Ví dụ trong bài (9.1): vì Tự nhiên tạo ra người để giúp nhau, nên làm bất công là đi ngược ý của vị thần ấy, tức là báng bổ. Khái niệm này quan trọng vì nó giải thích tiêu đề của quyển: với Marcus, một lỗi đạo đức (bất công, nói dối) đồng thời là một lỗi tôn giáo.
 
-**9.2 Hai cách ra đi tốt.** Tốt nhất là rời đời mà chưa từng nếm gian dối, đạo đức giả, sa đoạ, kiêu căng. Tốt nhì (Marcus dùng thành ngữ Hy Lạp *deuteros plous*, nghĩa đen là chuyến đi thứ hai, tức phương án tốt nhì) là ra đi khi đã chán ngấy chúng. Hay ta định ở lại cùng cái ác? Kinh nghiệm chưa dạy ta tránh nó như tránh dịch bệnh sao? Sự hư hỏng của tâm trí là thứ dịch tệ hơn bất kỳ không khí độc nào: dịch bệnh thân thể chỉ đe doạ sự sống của con vật, còn cái ác đe doạ tính người.
+**Thiên ý (pronoia).** Chữ Hy Lạp nghĩa đen là "nghĩ trước". Trong Khắc kỷ, đó là trật tự hợp lý mà vũ trụ tự mang trong mình từ lúc khởi đầu, định ra chuỗi nhân quả của mọi sự. Bản dịch gọi nó là "sắc lệnh cổ xưa của Thượng đế", dễ gây hiểu nhầm thành một vị thần riêng ra lệnh. Ví dụ minh hoạ: như một hạt giống đã chứa sẵn "kế hoạch" của cái cây sẽ mọc lên, vũ trụ chứa sẵn mầm của những gì sẽ xảy ra. Khái niệm này giải thích vì sao Marcus nói khoái lạc và đau đớn đến với mọi người không phân biệt tốt xấu (9.1).
 
-**9.3 Đón cái chết như một quá trình tự nhiên.**
-- Đừng khinh cái chết mà hãy đón nhận nó, vì nó cũng là một việc Tự nhiên muốn. Tuổi trẻ, tuổi già, lớn lên, trưởng thành, thay răng, mọc râu, bạc tóc, giao hợp, mang thai, sinh nở, mọi biến đổi của các mùa đời; sự tan rã của thân thể cũng chỉ là một biến đổi như vậy.
-- Người biết suy nghĩ chờ cái chết không hờ hững, không sốt ruột, không khinh miệt, mà như một trong những việc của tự nhiên. Như người ta chờ đứa bé ra khỏi bụng mẹ, ta chờ giờ linh hồn ra khỏi lớp vỏ của nó.
-- Nếu cần một liều thuốc đơn giản hơn để làm dịu lòng, hãy nghĩ tới hai điều: những gì ta sẽ bỏ lại, và loại người ta sẽ thôi phải sống chung. Không nên giận họ; ngược lại, phải chăm lo và nhẹ nhàng với họ. Nhưng hãy nhớ những người ta rời bỏ không cùng nguyên tắc với ta. Điều duy nhất có thể níu ta lại là được sống với những người chung lý tưởng; nhưng nhìn xem sống giữa cảnh lộn xộn bất hoà này mệt mỏi thế nào, đủ để muốn bảo cái chết hãy đến nhanh, kẻo ta cũng quên mất mình như họ.
+**Những thứ không thiện không ác (adiaphora).** Khoái lạc và đau, sống và chết, danh tiếng và vô danh đều không tự thân là tốt hay xấu; chỉ đức hạnh là tốt, chỉ thói xấu là xấu. Ví dụ minh hoạ: hai người cùng được thưởng 1 tỷ đồng, một người dùng làm việc tốt, người kia dùng để hại người; số tiền như nhau, cái tốt hay xấu nằm ở cách dùng. Đây là cơ sở để Marcus kết luận ở 9.1: ai coi khoái lạc là thiện, đau khổ là ác sẽ oán trách Tự nhiên và dễ làm sai.
 
-**9.4 Làm sai là tự hại.** Kẻ làm sai làm sai với chính mình; kẻ bất công làm hại chính mình vì tự làm mình xấu đi.
+**Bản tính cộng đồng (koinonia, sympatheia).** Ý tưởng rằng mọi sinh vật có lý trí sinh ra để sống cùng nhau và giúp nhau; *sympatheia* là sự gắn kết giữa các phần của vũ trụ, kể cả những phần ở xa nhau. Ví dụ trong bài (9.9): đất bị hút về đất, lửa bốc về lửa, con vật sống thành bầy, con người lập nhà nước, gia đình, hiệp ước. Khái niệm này là trục của Quyển 9: mọi hành động không hướng về lợi ích chung đều làm rách đời sống chung (9.23).
 
-**9.5 Bất công vì không làm gì.** Bất công không chỉ nằm trong việc làm mà còn trong việc bỏ không làm.
+**Phần chỉ huy (hegemonikon).** Phần bên trong mỗi người làm việc phán đoán và ra quyết định. Ví dụ trong bài (9.15): sự vật đứng "ngoài cửa", câm lặng, không tự nói chúng là gì; chính phần chỉ huy của ta nói về chúng. Ví dụ minh hoạ: một tin nhắn có 5 chữ "anh lên gặp tôi" có thể khiến người này lo cả buổi, người kia không nghĩ gì; nội dung như nhau, phần chỉ huy diễn giải khác nhau. Khái niệm này giải thích vì sao Marcus nói mọi lo âu nằm bên trong, nên có thể vứt bỏ (9.13).
 
-**9.6 Ba thứ đủ dùng.** Phán đoán khách quan ngay lúc này; hành động vì người khác ngay lúc này; sẵn lòng chấp nhận mọi việc bên ngoài ngay lúc này. Chỉ cần thế.
+**"Không ai tự nguyện làm sai" và tính tất yếu của kẻ làm sai.** Phái Khắc kỷ cho rằng người làm sai là người trượt khỏi mục tiêu do hiểu sai điều tốt. Thêm vào đó, Marcus nhận xét rằng một thế giới có con người thì tất yếu có người vô liêm sỉ, gian dối, vô ơn. Ví dụ minh hoạ: trong 100 người ta gặp, gần như chắc chắn có vài người thô lỗ; ngạc nhiên mỗi lần gặp họ là quên một điều đã biết. Khái niệm này là nền cho đoạn thực hành dài 9.42: đừng đòi điều không thể, và tự trách mình nếu đã trông đợi khác.
 
-**9.7 Bốn mệnh lệnh.** Xoá ấn tượng tưởng tượng, chặn xung động, dập tắt ham muốn, giữ cho phần chỉ huy (*hegemonikon*) tự làm chủ mình.
+**Hai giả thuyết về vũ trụ: trí tuệ hay nguyên tử.** Thời Marcus có hai bức tranh lớn. Khắc kỷ: vũ trụ do một trí tuệ điều hành, mọi thứ là một cơ thể. Epicurus và Democritus: vũ trụ chỉ là nguyên tử va chạm ngẫu nhiên. Ví dụ trong bài (9.28, 9.39): Marcus xét cả hai trường hợp và cho thấy trong cả hai, việc của ta không đổi: sống công chính và không lo âu. Khái niệm này quan trọng vì nó cho thấy Marcus cố làm lời khuyên của mình đứng được ngay cả khi học thuyết Khắc kỷ về vũ trụ là sai.
 
-**9.8 Linh hồn chung.** Các loài không lý trí chia nhau một dạng linh hồn; các loài có lý trí chia nhau một linh hồn lý trí. Cũng như mọi vật bằng đất có chung một mặt đất, và mọi sinh vật có mắt, có thở đều thấy chung một ánh sáng, thở chung một bầu không khí.
+## Nội dung chi tiết
 
-**9.9 Cái giống hút cái giống.**
-- Mọi thứ cùng bản chất đều tìm về nhau: vật bằng đất bị hút về đất, chất lỏng chảy về nhau, chất khí cũng vậy (cần vách ngăn mới tách được). Lửa bay lên về phía lửa trên cao, nhưng cũng sẵn sàng bén vào bất kỳ ngọn lửa nào dưới đất, nên vật gì hơi khô cũng dễ cháy vì ít chất cản lửa.
-- Những gì cùng chia bản chất trí tuệ còn hướng về nhau mạnh hơn nữa: càng cao hơn các vật khác, chúng càng sẵn sàng hoà nhập với đồng loại.
-- Ở động vật không lý trí đã thấy bầy, tổ, tình mẹ con, vì chúng có linh hồn, và bản năng gắn kết ở bậc cao hơn mạnh hơn hẳn ở cây cỏ hay đá. Ở sinh vật lý trí có nhà nước, tình bạn, gia đình, hội nhóm, hoà ước, hiệp ước. Ở những thực thể cao hơn nữa có sự hợp nhất ngay cả khi tách biệt, như các vì sao. Bậc càng cao càng tạo được sự đồng cảm (*sympatheia*) giữa những thứ ở xa nhau.
-- Nghịch lý: hiện nay chỉ có sinh vật lý trí quên mất khuynh hướng hội tụ; chỉ ở con người mới không thấy sự tụ lại. Nhưng dù trốn thế nào, họ vẫn bị kéo lại, vì tự nhiên mạnh hơn. Tìm được một vật bằng đất không chạm vào đất còn dễ hơn tìm một người hoàn toàn tách khỏi loài người.
+Suy tưởng không chia chủ đề mà chỉ có các mục đánh số; Dàn ý cũ cũng đi lần lượt từ 9.1 đến 9.42. Phần dưới giữ đúng thứ tự ấy, viết lại thành văn xuôi có giải thích, và gom thành bốn nhóm mục cho dễ theo dõi. Số mục (ví dụ 9.13) là số dùng chung trong mọi bản dịch.
 
-**9.10 Lý trí cũng ra quả.** Người, thần và vũ trụ đều ra quả vào mùa của mình. Theo thói quen ta chỉ dùng chữ "quả" cho cây nho và những cây tương tự, nhưng điều đó không quan trọng. Lý trí cũng có quả cho chung và cho riêng, và từ nó sinh ra những thứ khác cùng loại với nó.
+### Mục 9.1–9.12: bất công là báng bổ, và bản tính cộng đồng
 
-**9.11 Thuyết phục hoặc kiên nhẫn.** Nếu được, hãy dạy kẻ làm sai cho tốt hơn. Nếu không, nhớ rằng lòng khoan dung được ban cho ta chính cho lúc này. Thần linh cũng kiên nhẫn với những người như vậy, thậm chí còn giúp họ có sức khoẻ, của cải, danh tiếng; thần linh tốt đến thế. Ta cũng làm được; có gì cản ta đâu?
+**9.1 Bốn dạng báng bổ.** Đây là lập luận thần học dài nhất trong cả tác phẩm, và nó mở đầu quyển. Điểm xuất phát: Tự nhiên toàn thể là vị thần cổ xưa nhất, nguồn gốc của mọi thứ. Tự nhiên tạo ra các sinh vật có lý trí vì nhau: để giúp nhau theo đúng giá trị của mỗi người, không bao giờ để hại nhau. Từ đó Marcus rút ra bốn dạng báng bổ, tức bốn cách đi ngược ý chí của vị thần ấy:
 
-**9.12 Làm việc thế nào.** Không làm việc như kẻ khốn khổ, cũng không để được thương hại hay ngưỡng mộ. Chỉ muốn một điều: hành động hay dừng lại theo đúng đòi hỏi của lý trí người công dân.
+| Dạng báng bổ | Vì sao là báng bổ |
+|---|---|
+| Bất công | Phá đúng mục đích "giúp nhau" mà Tự nhiên đặt ra khi tạo ra sinh vật lý trí |
+| Nói dối cố ý | Tự nhiên toàn thể gắn chặt với mọi thứ nó sinh ra, nên nó cũng là Chân lý, nguồn của mọi điều đúng. Lừa gạt người khác là một dạng bất công |
+| Nói sai mà không biết | Làm rối trật tự thế giới, vì chống lại cách vạn vật được sắp đặt. Tự nhiên đã cho người đó khả năng phân biệt thật giả, nhưng họ bỏ bê nó đến mức không còn nhận ra khác biệt |
+| Coi khoái lạc là thiện, đau khổ là ác | Dẫn tới ba hệ quả xấu, trình bày dưới đây |
 
-**9.13 Gạt lo âu.** Hôm nay ta đã thoát mọi lo âu; nói đúng hơn là đã vứt chúng ra, vì chúng không ở ngoài mà ở trong, trong các phán đoán của ta.
+Với dạng thứ tư, Marcus nêu ba hệ quả. (a) Người như vậy sẽ luôn trách Tự nhiên phân phối bất công, vì họ thấy kẻ xấu thường được hưởng sướng còn người tốt thường chịu khổ. (b) Ai sợ đau thì sớm muộn sẽ sợ cả những điều tất yếu phải xảy ra trong thế giới. (c) Ai đuổi theo khoái lạc thì khó tránh khỏi làm điều sai để có nó.
 
-**9.14 Không có gì mới.** Mọi thứ đều quen thuộc với kinh nghiệm, chóng qua về thời gian, thấp hèn về chất liệu. Bây giờ y như thời những người ta đã chôn cất.
+Lập luận kết thúc bằng một quy tắc: những gì Tự nhiên đối xử như nhau, như khoái lạc và đau, sống và chết, danh tiếng và vô danh, thì ta cũng phải đối xử như nhau nếu muốn sống thuận theo Tự nhiên. Nếu Tự nhiên thật sự ưa một bên, nó đã không tạo ra cả hai. "Tự nhiên đối xử như nhau" ở đây có nghĩa cụ thể: những điều ấy xảy đến cho mọi người, không phân biệt tốt xấu, theo chuỗi nối tiếp của những gì đang có và sẽ có. Chuỗi ấy bắt nguồn từ một xung lực ban đầu của Thiên ý (*pronoia*, trật tự hợp lý của vũ trụ), lúc nó khởi sự tạo trật tự cho thế giới, định ra mầm mống của mọi thứ sẽ có cùng sức sinh thành và biến đổi. Vì vậy khoái lạc hay đau đớn đến với một người không phải là phần thưởng hay hình phạt dành riêng cho người đó.
 
-**9.15 Sự vật câm lặng.** Sự vật đứng ngoài cửa, một mình, không biết gì về mình và không nói gì về mình. Cái gì nói về chúng? Phần chỉ huy của ta.
+**9.2 Hai cách ra đi tốt.** Tốt nhất là rời cuộc đời mà chưa từng nếm sự gian dối, đạo đức giả, sa đoạ, kiêu căng. Tốt nhì là ra đi khi đã chán ngấy những thói ấy. Marcus dùng thành ngữ Hy Lạp *deuteros plous*, nghĩa đen là "chuyến đi thứ hai" (khi không có gió thì phải chèo), tức phương án tốt nhì. Chữ "đủ" trong bản dịch chỉ các thói xấu, không phải trải nghiệm sống nói chung. Rồi ông tự hỏi: hay ta định ở lại sống chung với cái ác? Kinh nghiệm chưa dạy ta tránh nó như tránh dịch bệnh sao? Sự hư hỏng của tâm trí là thứ dịch tệ hơn bất kỳ bầu không khí độc nào: dịch bệnh thân thể chỉ đe doạ sự sống của con vật trong ta, còn cái ác đe doạ chính tính người. Hình ảnh này có sức nặng riêng vì quyển được viết giữa thời dịch bệnh Antonine.
 
-**9.16 Thiện ác nằm ở hành động.** Thiện và ác của sinh vật lý trí, sống cộng đồng không nằm ở những gì nó chịu tác động mà ở những gì nó làm, cũng như đức hạnh và thói xấu không nằm ở sự bị động mà ở hoạt động.
+**9.3 Đón cái chết như một quá trình tự nhiên.** Marcus không khuyên khinh cái chết mà khuyên đón nhận nó, vì nó cũng là một trong những việc Tự nhiên muốn. Ông liệt kê các biến đổi tự nhiên của đời người: tuổi trẻ, tuổi già, lớn lên, trưởng thành, thay răng, mọc râu, bạc tóc, giao hợp, mang thai, sinh nở, và mọi biến đổi khác theo các mùa của đời. Sự tan rã của thân thể chỉ là một biến đổi nữa trong danh sách ấy.
 
-**9.17 Hòn đá ném lên.** Rơi xuống không phải điều xấu cho nó, bay lên cũng không phải điều tốt.
+Thái độ đúng là thái độ của người biết suy nghĩ: chờ cái chết không hờ hững, không sốt ruột, không khinh miệt, mà như chờ một việc của tự nhiên. Ông dùng một so sánh dịu dàng: như người ta chờ đứa bé ra khỏi bụng mẹ, ta chờ giờ linh hồn ra khỏi lớp vỏ của nó.
 
-**9.18 Nhìn vào các "quan toà".** Đi vào phần chỉ huy của họ, ta sẽ thấy ta đang sợ những quan toà nào, và họ phán xét chính mình kém cỏi ra sao.
+Nếu cần một liều thuốc đơn giản hơn, ít triết lý hơn để làm dịu lòng, Marcus đề nghị nghĩ tới hai điều: những gì ta sẽ bỏ lại, và loại người mà ta sẽ thôi phải sống cùng. Ông lập tức thêm một giới hạn: không được giận họ; ngược lại phải chăm lo và nhẹ nhàng với họ. Nhưng cũng phải nhớ rằng những người ta sẽ rời bỏ không cùng nguyên tắc với ta. Điều duy nhất có thể níu ta lại với cuộc đời là được sống cùng những người chung lý tưởng. Mà hãy nhìn xem sống giữa cảnh lộn xộn, bất hoà này mệt mỏi đến thế nào: đủ để muốn nói với cái chết "hãy đến nhanh lên", kẻo chính ta cũng quên mất mình như họ. Đây là một trong những chỗ giọng văn mệt mỏi nhất của tác phẩm.
 
-**9.19 Dòng chảy.** Mọi thứ đang biến đổi; chính ta cũng đang biến đổi không ngừng và đang tan rã từng phần, cả vũ trụ cũng vậy.
+**9.4 Làm sai là tự hại.** Kẻ làm sai là làm sai với chính mình; kẻ bất công làm hại chính mình, vì tự làm mình xấu đi, mất phẩm giá.
 
-**9.20 Lỗi người khác.** Lỗi của người khác thì cứ để nguyên chỗ của nó (người dịch giải thích thêm: không để nó làm sao nhãng hay cản bước mình, nhưng nếu việc liên quan thì vẫn chỉ cho họ điều đúng).
+**9.5 Bất công vì không làm gì.** Bất công không chỉ nằm trong những việc ta làm, mà còn trong những việc ta bỏ không làm. Đứng nhìn một điều sai mà không làm gì cũng có thể là bất công.
 
-**9.21 Những cái chết nhỏ.**
-- Ngừng một hoạt động, dừng một xung động, một phán đoán: đó là một kiểu chết, và không có gì xấu.
-- Nhìn lại các tuổi: thơ ấu, thiếu niên, thanh niên, tuổi già; mỗi lần chuyển là một cái chết. Có gì đáng sợ không?
-- Nhìn lại các chặng đời sống dưới ông nội, rồi dưới mẹ, rồi dưới cha nuôi: bao nhiêu thay đổi và kết thúc. Có gì đáng sợ không? Nếu không, thì sự kết thúc, ngừng lại và đổi thay của toàn bộ đời ta cũng vậy.
+**9.6 Ba thứ đủ dùng.** Chỉ cần ba thứ, và cả ba đều "ngay lúc này": một phán đoán khách quan ngay lúc này; một hành động vì người khác ngay lúc này; một thái độ sẵn lòng chấp nhận mọi việc bên ngoài ngay lúc này.
 
-**9.22 Xét ba tâm trí.** Đi thẳng vào phần chỉ huy: của chính ta để làm nó công chính; của vũ trụ để nhớ mình là phần của cái gì; của người bên cạnh để biết họ hành động vì không hiểu hay có hiểu biết, và để nhớ rằng họ cùng một giống với ta.
+**9.7 Bốn mệnh lệnh.** Xoá những ấn tượng do tưởng tượng; chặn xung động; dập tắt ham muốn; giữ cho phần chỉ huy (*hegemonikon*) tự làm chủ mình.
 
-**9.23 Mỗi hành động là một phần của đời sống chung.** Ta là một thành phần bổ sung cho một hệ thống xã hội, nên mọi hành động của ta phải bổ sung cho đời sống xã hội. Hành động nào không nhắm, trực tiếp hay gián tiếp, đến mục đích chung thì xé rách đời sống chung, phá sự thống nhất, gây bè phái, giống một công dân trong hội đồng tự tách nhóm ra khỏi sự hoà hợp chung.
+**9.8 Linh hồn chung.** Các loài không có lý trí cùng chia nhau một dạng linh hồn; các loài có lý trí cùng chia nhau một linh hồn lý trí. Cũng như mọi vật làm bằng đất có chung một mặt đất, và mọi sinh vật có mắt, có thở đều cùng thấy một ánh sáng và cùng thở một bầu không khí.
 
-**9.24 Đời như trò trẻ con.** Hờn giận trẻ con, đồ chơi trẻ con, những linh hồn nhỏ cõng xác chết (câu Marcus mượn từ Epictetus); cảnh Âm phủ trong *Odyssey* còn sống động hơn đời sống này.
+**9.9 Cái giống hút cái giống.** Mục này xây một "bậc thang" của sự gắn kết, từ vật chất lên tới các vì sao:
 
-**9.25 Phân tích một vật.** Đi đến bản chất nguyên nhân của nó, tách khỏi phần vật chất, quan sát nó; rồi tính xem vật có bản chất ấy tồn tại được bao lâu.
+| Bậc | Biểu hiện của sự gắn kết |
+|---|---|
+| Vật chất | Vật bằng đất bị hút về đất; chất lỏng chảy về nhau; chất khí cũng vậy, phải có vách ngăn mới tách được. Lửa bốc lên về phía lửa trên cao, nhưng cũng sẵn sàng bén vào bất kỳ ngọn lửa nào dưới đất, nên vật gì hơi khô cũng dễ cháy vì ít chất cản lửa |
+| Động vật | Bầy đàn, tổ, tình mẹ con; vì chúng có linh hồn, bản năng gắn kết ở bậc này mạnh hơn hẳn ở cây cỏ hay đá |
+| Sinh vật có lý trí | Nhà nước, tình bạn, gia đình, hội nhóm, hoà ước, hiệp ước |
+| Bậc cao nhất (các vì sao) | Hợp nhất ngay cả khi ở rất xa nhau |
 
-**9.26 Khổ vì không để tâm trí làm việc của nó.** Ta đã chịu vô số khổ sở chỉ vì không để phần chỉ huy làm đúng chức năng của nó. Đủ rồi.
+Quy luật rút ra: bậc càng cao thì càng tạo được sự đồng cảm (*sympatheia*) giữa những thứ ở xa nhau. Những gì chia chung bản chất trí tuệ còn hướng về nhau mạnh hơn các vật kia; càng cao hơn các vật khác, chúng càng sẵn sàng hoà vào đồng loại.
 
-**9.27 Khi bị ghét hay chê.**
-- Khi ai đó nhục mạ, ghét bỏ hay nói điều tương tự, hãy đi vào linh hồn họ, nhìn xem họ là người thế nào. Ta sẽ thấy chẳng cần cố để được họ nghĩ tốt về mình.
-- Nhưng vẫn phải có thiện ý với họ, vì họ là đồng loại gần gũi nhất của ta. Chính thần linh cũng giúp họ đủ cách, bằng giấc mơ, bằng điềm báo, để đạt những điều họ đang lo.
+Rồi Marcus chỉ ra một nghịch lý. Hiện nay chỉ có sinh vật lý trí là quên mất khuynh hướng tìm về nhau; chỉ ở con người mới không thấy sự tụ lại ấy. Nhưng dù họ trốn tránh thế nào, họ vẫn bị kéo lại, vì tự nhiên mạnh hơn. Tìm được một vật bằng đất không chạm vào đất còn dễ hơn tìm được một người hoàn toàn tách khỏi loài người. (Bản dịch có lỗi trích xuất: câu về vật nặng bị lặp hai lần, và câu "Nếu không phải là cao hơn nữa" bị vỡ.)
 
-**9.28 Chu kỳ, hai giả thuyết và cơn sóng biến đổi.**
-- Vũ trụ vận hành theo cùng các chu kỳ lên xuống, đời này qua đời khác.
-- Hoặc trí tuệ vũ trụ thúc đẩy từng việc riêng (nếu vậy, hãy đón nhận điều nó thúc đẩy); hoặc nó chỉ thúc đẩy một lần và mọi thứ theo sau là hệ quả. Hoặc là nguyên tử, hoặc là một thể thống nhất. Nói gọn: nếu là thần, mọi sự đều ổn; nếu là ngẫu nhiên, đừng để mình cũng hành động ngẫu nhiên.
-- Chẳng bao lâu đất sẽ phủ tất cả ta; rồi đất biến đổi, rồi cái biến đổi từ đó lại biến đổi mãi. Ai nghĩ đến những làn sóng biến đổi chồng lên nhau và tốc độ của chúng sẽ coi nhẹ mọi thứ hữu tử.
+**9.10 Lý trí cũng ra quả.** Người, thần và vũ trụ đều ra quả vào mùa của mình. Theo thói quen ta chỉ dùng chữ "quả" cho cây nho và những cây tương tự, nhưng điều đó không quan trọng. Lý trí cũng ra quả, vừa cho chung vừa cho riêng, và từ nó sinh ra những thứ khác cùng loại với nó, như lời khuyên tốt, hành động công chính.
 
-**9.29 Không mơ cộng hoà của Plato.**
-- Nguyên nhân của vạn vật là một dòng lũ, cuốn đi tất cả. Những con người nhỏ bé tất bật việc nhà nước và tưởng mình làm triết học thật ngớ ngẩn.
-- Vậy thì sao? Hãy làm điều tự nhiên đòi hỏi ngay bây giờ. Bắt đầu nếu có thể, và đừng ngó quanh xem có ai biết không. Đừng trông đợi nhà nước lý tưởng của Plato; hãy hài lòng nếu có một bước tiến nhỏ nhất, và nghĩ rằng kết quả ấy không phải chuyện nhỏ.
-- Ai thay đổi được niềm tin của con người? Không thay đổi niềm tin thì chỉ còn nô lệ rên rỉ và giả vờ vâng lời.
-- Cứ nhắc Alexander, Philip, Demetrius xứ Phalerum đi: họ có hiểu ý Tự nhiên và tự rèn mình không là chuyện của họ; còn nếu họ chỉ đóng vai bi kịch, không ai bắt ta bắt chước. Việc của triết học là giản dị và khiêm tốn; đừng để mình bị lôi vào thói tự cao.
+**9.11 Thuyết phục hoặc kiên nhẫn.** Nếu được, hãy dạy kẻ làm sai để họ tốt hơn. Nếu không được, hãy nhớ rằng lòng khoan dung được trao cho ta chính là để dùng vào lúc này. Thần linh cũng kiên nhẫn với những người như vậy, thậm chí còn giúp họ có sức khoẻ, của cải, danh tiếng; thần linh tốt đến thế. Ta cũng làm được như vậy; có gì cản ta đâu?
 
-**9.30 Nhìn từ trên cao.** Nhìn xuống: hàng ngàn đàn gia súc, hàng ngàn nghi lễ, những chuyến đi biển êm hay bão, những cảnh sinh ra, chung sống, chết đi. Nghĩ đến đời người xưa, đời người sau, đời của các dân tộc xa lạ. Bao người không biết tên ta, bao người sẽ sớm quên, bao người đang khen ta sẽ sớm chê ta. Được nhớ đến không đáng gì, danh tiếng cũng vậy, mọi thứ khác cũng vậy.
+**9.12 Làm việc thế nào.** Đừng làm việc như một kẻ khốn khổ, cũng đừng làm để được thương hại hay được ngưỡng mộ. Chỉ muốn một điều: hành động hay dừng lại theo đúng đòi hỏi của lý trí người công dân (*politikos logos*). Bản dịch viết "lý trí toàn thể - logos", làm mất chữ "công dân", vốn là chủ đề của cả quyển.
 
-**9.31 Công thức hai vế.** Bình thản trước những gì đến từ nguyên nhân bên ngoài; công chính trong những gì do ta làm. Tức là: xung động và hành động dừng ở chỗ làm lợi cho cộng đồng, vì đó là điều hợp với bản tính ta.
+### Mục 9.13–9.27: phiền nhiễu nằm trong nhận thức, và những cái chết nhỏ
 
-**9.32 Dọn chỗ trong tâm trí.** Phần lớn phiền nhiễu thừa thãi chỉ nằm trong phán đoán của ta, nên ta gạt bỏ được, và sẽ có rất nhiều khoảng trống: bằng cách ôm trọn cả vũ trụ trong tâm trí, nghĩ tới thời gian vô tận, nghĩ tới tốc độ biến đổi của từng vật, khoảng ngắn ngủi từ sinh tới tử, so với vô tận trước khi sinh và vô tận sau khi chết.
+**9.13 Gạt lo âu.** Marcus viết: hôm nay ta đã thoát khỏi mọi lo âu. Rồi ông tự sửa: nói đúng hơn là ta đã vứt chúng ra, vì chúng không ở bên ngoài mà ở bên trong, trong các phán đoán của ta. Sự khác nhau giữa "thoát khỏi" và "vứt bỏ" là chỗ quan trọng: thoát khỏi nghĩa là chờ hoàn cảnh thay đổi; vứt bỏ nghĩa là chính ta hành động.
 
-**9.33 Ai rồi cũng tan.** Mọi thứ ta thấy sẽ sớm tan, những người nhìn chúng tan cũng sẽ sớm tan; người chết già cũng chẳng hơn người chết yểu.
+**9.14 Không có gì mới.** Mọi thứ đều quen thuộc với kinh nghiệm, chóng qua về thời gian, thấp hèn về chất liệu. Bây giờ cũng y như thời của những người ta đã chôn cất.
 
-**9.34 Lột trần tâm trí người khen chê.** Phần chỉ huy của họ thế nào, họ bận lòng vì gì, họ yêu và quý cái gì. Hãy hình dung linh hồn họ trần trụi. Khi họ nghĩ lời chê của họ làm hại hay lời khen của họ có ích, thật là tự phụ.
+**9.15 Sự vật câm lặng.** Sự vật đứng ngoài cửa, một mình, riêng lẻ, không biết gì về chính mình và không nói gì về chính mình. Vậy cái gì nói về chúng, cái gì phán xét chúng? Chính phần chỉ huy của ta. Mọi nhãn "tốt", "xấu", "đáng sợ" là do ta dán lên.
 
-**9.35 Mất mát là biến đổi.** Mất mát chỉ là biến đổi, và Tự nhiên vui thích trong biến đổi; nhờ Tự nhiên mà mọi sự diễn ra đúng như phải diễn ra, xưa đã thế và sẽ còn thế mãi. Vậy sao lại nói rằng mọi thứ xưa nay đều tệ, rằng giữa bao nhiêu thần linh không có sức mạnh nào sửa chữa được, và thế giới bị kết án mãi trong cái xấu?
+**9.16 Thiện ác nằm ở hành động.** Thiện và ác của một sinh vật có lý trí, sống trong cộng đồng, không nằm ở những gì nó chịu tác động, mà ở những gì nó làm. Đức hạnh và thói xấu cũng vậy: không nằm ở sự bị động mà ở hoạt động.
 
-**9.36 Chất liệu thấp hèn.** Cái mục rữa của chất liệu làm nên mọi thứ: nước, bụi, xương, mùi hôi. Đá cẩm thạch là chai cứng của đất; vàng bạc là cặn; áo là lông thú; màu tía là máu một loài ốc. Hơi thở của ta cũng thế, đổi từ trạng thái này sang trạng thái khác.
+**9.17 Hòn đá ném lên.** Với hòn đá bị ném lên, rơi xuống không phải điều xấu, bay lên cũng không phải điều tốt. Thăng tiến hay sa sút trong đời người cũng nên được nhìn như vậy.
 
-**9.37 Đủ rồi.** Đủ cuộc sống khốn khổ, càu nhàu, làm trò khỉ này. Có gì làm ta rối? Có gì mới đâu? Cái gì làm ta sửng sốt? Nguyên nhân hình thức của nó? Xem đi. Vật chất của nó? Xem đi. Ngoài hai thứ ấy chẳng còn gì. Còn với thần linh: từ giờ hãy giản dị hơn, tốt hơn. Trăm năm hay ba năm quan sát những điều này cũng như nhau.
+**9.18 Nhìn vào các "quan toà".** Hãy đi vào phần chỉ huy của những người mà ta sợ bị họ phán xét. Ta sẽ thấy mình đang sợ những "quan toà" nào, và chính họ phán xét bản thân mình kém cỏi ra sao.
 
-**9.38 Kẻ làm sai tự chịu.** Nếu họ làm sai, cái hại ở nơi họ. Mà chắc gì họ đã sai?
+**9.19 Dòng chảy.** Mọi thứ đang biến đổi; chính ta cũng đang biến đổi không ngừng và đang tan rã từng phần; cả vũ trụ cũng vậy.
 
-**9.39 Trí tuệ hay nguyên tử.** Hoặc mọi thứ đến từ một nguồn trí tuệ duy nhất và hợp thành một cơ thể, nên phần không được phàn nàn về điều xảy ra vì toàn thể; hoặc chỉ là nguyên tử tụ tán. Vậy lo gì? Hãy hỏi phần chỉ huy của mình: ngươi đã chết chưa, đã thối rữa chưa, đã thành thú vật chưa, đang giả vờ, đang theo bầy gặm cỏ chăng?
+**9.20 Lỗi người khác.** Lỗi của người khác thì cứ để nguyên ở chỗ của nó. Người dịch giải thích thêm: không để nó làm mình xao nhãng hay cản bước mình, nhưng nếu việc có liên quan thì vẫn chỉ cho họ điều đúng.
 
-**9.40 Cầu nguyện đúng cách.**
-- Thần linh hoặc không có quyền năng, hoặc có. Nếu không, cầu làm gì? Nếu có, sao không cầu cho mình không sợ, không thèm, không đau vì những điều ấy, thay vì cầu cho chúng xảy ra hay không xảy ra? Nếu thần linh giúp được con người, họ hẳn giúp được việc này.
-- Có thể ta sẽ nói: thần linh đã đặt những việc ấy trong quyền của ta. Vậy chẳng phải tốt hơn là dùng cái thuộc quyền mình như người tự do, hơn là vật vã vì cái không thuộc quyền mình như nô lệ, kẻ ăn xin? Và ai bảo thần linh không giúp ta cả những việc thuộc quyền ta?
-- Ba cặp đối chiếu: đừng cầu được ngủ với một người, hãy cầu hết thèm muốn; đừng cầu thoát khỏi một kẻ, hãy cầu hết muốn thoát khỏi hắn; đừng cầu con mình được sống, hãy cầu không còn sợ mất con. Hướng lời cầu như vậy rồi xem điều gì xảy ra.
+**9.21 Những cái chết nhỏ.** Đây là một lập luận đẹp về cái chết, đi từ cái nhỏ tới cái lớn qua ba bước:
 
-**9.41 Bài học từ Epicurus.**
-- Epicurus kể: khi ốm, ông không nói chuyện về bệnh tật thân thể với khách đến thăm mà tiếp tục bàn những vấn đề triết học cốt lõi, nhất là làm sao tâm trí vẫn dự phần vào các biến động của thân xác mà không bị xáo trộn, giữ lấy điều tốt của riêng nó. Ông cũng không để thầy thuốc ra vẻ quan trọng, và đời vẫn trôi tốt đẹp.
-- Marcus tự dặn: làm y như vậy khi ốm và trong mọi hoàn cảnh. Mọi trường phái đều đồng ý: không bỏ triết học dù gặp chuyện gì, không tán gẫu với kẻ ngu dốt, chỉ chú tâm vào việc đang làm và công cụ để làm nó.
+1. Ngừng một hoạt động, dừng một xung động hay một phán đoán: đó là một kiểu chết nhỏ, và không có gì xấu trong đó.
+2. Nhìn lại các tuổi của đời mình: thơ ấu, thiếu niên, thanh niên, tuổi già. Mỗi lần chuyển sang tuổi mới, con người cũ "chết" đi. Có gì đáng sợ không?
+3. Nhìn lại các chặng đời của chính Marcus: khi sống dưới sự dạy dỗ của ông nội, rồi của mẹ, rồi của cha nuôi (Antoninus Pius). Bao nhiêu thay đổi và kết thúc. Có gì đáng sợ không?
 
-**9.42 Khi gặp kẻ vô liêm sỉ.**
-- Hỏi ngay: thế giới có thể không có người vô liêm sỉ không? Không thể. Vậy đừng đòi điều không thể; đây chỉ là một trong những kẻ tất yếu phải có. Làm tương tự với kẻ gian, kẻ bất tín, mọi kẻ làm sai: nhớ rằng loại người ấy phải tồn tại, ta sẽ dịu dàng hơn với từng người cụ thể.
-- Hỏi tiếp: tự nhiên đã cho ta phẩm cách nào để đối trị lỗi này? Với sự ác tâm, nó cho sự tử tế như thuốc giải; với mỗi thói xấu khác, một phẩm cách khác.
-- Ta luôn có thể dạy lại người đi lạc, vì ai làm sai cũng là trượt khỏi mục tiêu của mình. Mà ta bị hại gì? Không kẻ nào làm ta bực có thể làm hư tâm trí ta, và chỉ đó mới là cái hại thật sự của ta.
-- Kẻ thô lỗ làm việc thô lỗ thì có gì lạ? Nên trách mình vì không lường trước; lý trí đã cho ta phương tiện để biết người thế ấy sẽ làm thế ấy, mà ta quên dùng, rồi lại ngạc nhiên.
-- Khi trách ai bất tín hay vô ơn, hãy quay về mình: lỗi ở ta, vì đã tin người như thế sẽ giữ lời, hoặc đã giúp mà không coi việc giúp là phần thưởng trọn vẹn. Làm điều hợp bản tính còn chưa đủ sao, còn đòi công? Như mắt đòi trả công vì nhìn, chân vì bước. Chúng làm đúng chức năng là đã nhận đủ phần của mình. Con người sinh ra để làm điều tốt cho người khác; khi giúp ai đó, ta đã làm đúng việc mình được tạo ra để làm và có được cái của mình.
+Nếu không có gì đáng sợ trong những lần kết thúc ấy, thì sự kết thúc, ngừng lại và đổi thay của toàn bộ đời ta cũng vậy. (Bản dịch viết "nghĩ về cuộc đời của ông ta, mẹ ta, cha nuôi ta", làm mất ý rằng đây là các chặng đời của chính Marcus.)
+
+**9.22 Xét ba tâm trí.** Hãy đi thẳng vào ba phần chỉ huy. Của chính ta, để làm nó công chính. Của vũ trụ, để nhớ mình là một phần của cái gì. Của người bên cạnh, để biết họ hành động vì không hiểu hay vì có hiểu biết, và để nhớ rằng họ cùng một giống với ta.
+
+**9.23 Mỗi hành động là một phần của đời sống chung.** Bản thân sự tồn tại của ta đã là một thành phần bổ sung cho một hệ thống xã hội, nên mọi hành động của ta cũng phải bổ sung cho đời sống xã hội. Hành động nào không nhắm, trực tiếp hay gián tiếp, tới mục đích chung thì xé rách đời sống chung, phá sự thống nhất và gây chia rẽ. Nó giống một nghị viên trong hội đồng thành phố tự lập bè phái, tách mình khỏi sự hoà hợp chung và lạc nhịp với toàn thể.
+
+**9.24 Đời như trò trẻ con.** Hờn giận trẻ con, trò chơi trẻ con, và "những linh hồn nhỏ cõng xác chết" (câu Marcus mượn từ Epictetus, chỉ con người mang thân xác như mang một cái xác). Đời sống như vậy hư ảo tới mức cảnh Âm phủ trong *Odyssey* (khúc *Nekyia*, khi Odysseus xuống cõi chết) còn sống động hơn. Bản dịch đảo nghĩa câu này thành "Odysseus ở Âm phủ còn thấy cuộc sống thật hơn".
+
+**9.25 Phân tích một vật.** Hãy đi tới bản chất nguyên nhân của nó, tách nó khỏi phần vật chất, và quan sát nó; rồi tính xem một vật có bản chất như thế tồn tại được bao lâu.
+
+**9.26 Khổ vì không để tâm trí làm việc của nó.** Ta đã chịu vô số khổ sở chỉ vì không để phần chỉ huy làm đúng chức năng của nó. Đủ rồi. Câu ngắn này gói lại ý của 9.13 và 9.15: nỗi khổ kéo dài không phải vì hoàn cảnh mà vì ta không dùng đến năng lực phán đoán của mình.
+
+**9.27 Khi bị ghét hay bị chê.** Khi ai đó nhục mạ ta, ghét bỏ ta hay nói những điều tương tự, hãy đi vào linh hồn họ và nhìn xem họ là người như thế nào. Ta sẽ thấy không cần phải cố để được họ nghĩ tốt về mình. Nhưng Marcus không dừng ở sự coi nhẹ: ta vẫn phải có thiện ý với họ, vì họ là đồng loại gần gũi nhất của ta. Chính thần linh cũng giúp họ đủ cách, bằng giấc mơ, bằng điềm báo, để họ đạt được những điều họ đang lo.
+
+### Mục 9.28–9.37: chu kỳ, dòng lũ và cái nhìn từ trên cao
+
+**9.28 Chu kỳ, hai giả thuyết và cơn sóng biến đổi.** Vũ trụ vận hành theo cùng những chu kỳ lên xuống, đời này qua đời khác. (Bản dịch dùng chữ "vòng luân hồi", gợi ý niệm tái sinh của Phật giáo; Marcus chỉ nói tới các chu kỳ của thế giới theo thuyết Khắc kỷ.) Rồi ông xét các khả năng về cách vũ trụ vận hành:
+
+| Giả thuyết | Thái độ nên có |
+|---|---|
+| Trí tuệ vũ trụ thúc đẩy từng việc riêng | Đón nhận điều nó thúc đẩy |
+| Trí tuệ vũ trụ chỉ thúc đẩy một lần từ đầu, mọi thứ sau là hệ quả | Vậy thì sao phải lo? |
+| Vũ trụ chỉ là nguyên tử tụ lại rồi tan ra | Đừng để chính mình cũng hành động bừa bãi |
+
+Nói gọn: nếu là thần, mọi sự đều ổn; nếu là ngẫu nhiên, thì đừng để mình cũng ngẫu nhiên. (Chữ "Chúa" trong bản dịch ở đây dịch từ *theos*, "thần".) Mục kết bằng một hình ảnh: chẳng bao lâu đất sẽ phủ lên tất cả chúng ta; rồi đất biến đổi, rồi cái sinh ra từ đó lại biến đổi, mãi mãi. Ai nghĩ tới những làn sóng biến đổi chồng lên nhau và tốc độ của chúng sẽ coi nhẹ mọi thứ phải chết.
+
+**9.29 Không mơ cộng hoà của Plato.** Nguyên nhân của vạn vật là một dòng lũ cuốn đi tất cả. Những con người nhỏ bé tất bật với việc nhà nước và tưởng rằng mình đang làm triết học thật đáng cười. Vậy thì sao? Marcus đưa ra mấy chỉ dẫn:
+
+- Hãy làm điều tự nhiên đòi hỏi ngay bây giờ. Bắt đầu nếu có thể, và đừng ngó quanh xem có ai biết hay ghi công không.
+- Đừng trông đợi một nhà nước lý tưởng như *Cộng hoà* của Plato. Hãy hài lòng nếu có được một bước tiến nhỏ nhất, và hiểu rằng kết quả ấy không phải chuyện nhỏ.
+- Ai thay đổi được niềm tin của con người? Không thay đổi được niềm tin thì chỉ còn lại những người nô lệ rên rỉ và giả vờ vâng lời. Tức là cải cách bằng mệnh lệnh có giới hạn.
+- Cứ nhắc tới Alexander, Philip, Demetrius xứ Phalerum đi: họ có hiểu ý Tự nhiên và có tự rèn mình hay không là chuyện của họ; còn nếu họ chỉ đóng vai trong một vở bi kịch, không ai bắt ta phải bắt chước.
+
+Việc của triết học là giản dị và khiêm tốn; đừng để mình bị lôi vào thói tự cao. Đây là lời của một hoàng đế có quyền lực để thử xây "nhà nước lý tưởng", tự nhắc mình rằng tiến bộ nhỏ là đủ.
+
+**9.30 Nhìn từ trên cao.** Hãy nhìn xuống: hàng ngàn đàn gia súc, hàng ngàn nghi lễ, những chuyến đi biển êm ả hay gặp bão, những cảnh sinh ra, chung sống, chết đi. Hãy nghĩ tới đời của những người sống trước kia, những người sẽ sống sau này, và các dân tộc xa lạ. Bao nhiêu người không biết tên ta, bao nhiêu người sẽ sớm quên ta, và bao nhiêu người đang khen ta sẽ sớm chê ta. Được nhớ tới không đáng gì, danh tiếng cũng vậy, mọi thứ khác cũng vậy.
+
+**9.31 Công thức hai vế.** Bình thản, dửng dưng trước những gì đến từ nguyên nhân bên ngoài; công chính trong những gì do chính ta làm. Nói cách khác: xung động và hành động của ta dừng ở chỗ làm lợi cho cộng đồng, nghĩ và làm vì lợi ích chung, vì đó là điều hợp với bản tính của ta.
+
+**9.32 Dọn chỗ trong tâm trí.** Phần lớn phiền nhiễu thừa thãi chỉ nằm trong phán đoán của ta, nên ta gạt bỏ được, và khi đó tâm trí sẽ có rất nhiều khoảng trống. Cách làm là nghĩ tới bốn điều:
+
+- độ rộng của vũ trụ, ôm trọn nó trong tâm trí;
+- độ dài vô tận của thời gian;
+- tốc độ biến đổi của từng vật;
+- khoảng ngắn ngủi từ lúc sinh tới lúc chết, so với vô tận trước khi sinh và vô tận sau khi chết.
+
+**9.33 Ai rồi cũng tan.** Mọi thứ ta đang thấy sẽ sớm tan, và những người nhìn chúng tan cũng sẽ sớm tan. Trước thời gian vô tận, người chết già cũng chẳng hơn gì người chết trẻ.
+
+**9.34 Lột trần tâm trí người khen chê.** Hãy xem phần chỉ huy của họ ra sao, họ bận lòng vì điều gì, họ yêu và quý điều gì. Hãy hình dung linh hồn họ ở trạng thái trần trụi. Khi họ nghĩ lời chê của họ làm hại ta hay lời khen của họ giúp ích cho ta, đó là sự tự phụ.
+
+**9.35 Mất mát là biến đổi.** Mất mát chẳng gì khác ngoài biến đổi, và Tự nhiên vui thích trong biến đổi. Nhờ Tự nhiên mà mọi sự diễn ra đúng như phải diễn ra; xưa đã thế, và sẽ còn thế mãi; Tự nhiên tạo cái mới từ cái cũ. Vậy sao lại nói rằng mọi thứ từ xưa tới nay đều tệ, rằng giữa bao nhiêu thần linh không có sức mạnh nào sửa chữa được, và thế giới bị kết án mãi trong cái xấu? (Bản dịch viết thành "phân huỷ chính là tái tạo lại" và bỏ mất ý Tự nhiên vui thích.)
+
+**9.36 Chất liệu thấp hèn.** Hãy nhìn vào cái mục rữa của chất liệu làm nên mọi thứ: nước, bụi, xương, mùi hôi. Đá cẩm thạch chỉ là chỗ chai cứng của đất; vàng bạc là cặn; áo quần là lông thú; màu tía của áo quý tộc là dịch của một loài ốc (ốc gai; bản dịch ghi "máu sò huyết" là chọn từ sai). Hơi thở của ta cũng vậy, đổi từ trạng thái này sang trạng thái khác. Kỹ thuật này bóc lớp hào nhoáng của những thứ người ta thèm muốn.
+
+**9.37 Đủ rồi.** Đủ cuộc sống khốn khổ, càu nhàu, làm trò khỉ này rồi. Có gì làm ta rối? Có gì mới đâu? Cái gì làm ta sửng sốt? Nguyên nhân hình thức của nó? Hãy xem đi. Phần vật chất của nó? Hãy xem đi. Ngoài hai thứ ấy chẳng còn gì. Còn với thần linh: từ giờ hãy giản dị hơn, tốt hơn. Quan sát những điều này một trăm năm hay ba năm thì cũng như nhau.
+
+### Mục 9.38–9.42: người làm sai, lời cầu nguyện và chức năng giúp người
+
+**9.38 Kẻ làm sai tự chịu.** Nếu họ làm sai, cái hại nằm ở nơi họ. Mà chắc gì họ đã sai? Câu hỏi sau là một lời nhắc khiêm tốn: phán đoán "họ sai" của ta cũng có thể sai.
+
+**9.39 Trí tuệ hay nguyên tử.** Có hai khả năng. Hoặc mọi thứ đến từ một nguồn trí tuệ duy nhất và hợp thành một cơ thể; khi đó một bộ phận không được phàn nàn về điều xảy ra vì lợi ích của toàn thể. Hoặc mọi thứ chỉ là nguyên tử tụ lại rồi tan ra. Trong cả hai trường hợp, lo âu làm gì? Rồi Marcus quay sang chất vấn phần chỉ huy của mình bằng một chuỗi câu hỏi trách móc: ngươi đã chết rồi sao, đã thối rữa rồi sao, đã hoá thành thú vật rồi sao, đang giả vờ, hay đang chạy theo bầy và gặm cỏ như gia súc? (Bản dịch biến chuỗi câu trách này thành câu hỏi trung tính về việc "ăn uống như một cá nhân trong cộng đồng".)
+
+**9.40 Cầu nguyện đúng cách.** Lập luận chia hai trường hợp: thần linh hoặc không có quyền năng, hoặc có. Nếu không có, cầu làm gì? Nếu có, sao không cầu cho chính mình không sợ, không thèm, không đau vì những điều ấy, thay vì cầu cho chúng xảy ra hay không xảy ra? Nếu thần linh giúp được con người, hẳn họ giúp được việc này.
+
+Marcus đoán trước một lời phản bác: "thần linh đã đặt những việc ấy trong quyền của ta rồi". Ông trả lời: vậy chẳng phải tốt hơn là dùng cái thuộc quyền mình như một người tự do, hơn là vật vã vì cái không thuộc quyền mình như một nô lệ hay một kẻ ăn xin? Và ai bảo rằng thần linh không giúp ta cả trong những việc thuộc quyền ta? Ông đưa ba cặp đối chiếu:
+
+| Đừng cầu | Hãy cầu |
+|---|---|
+| Được ngủ với một người | Hết thèm muốn điều đó |
+| Thoát khỏi một kẻ | Hết muốn thoát khỏi hắn |
+| Con mình được cứu sống | Không còn sợ mất con |
+
+Hãy hướng lời cầu như vậy rồi xem điều gì xảy ra. Ý tưởng ở đây là chuyển đối tượng của lời cầu từ thế giới bên ngoài, thứ ta không điều khiển được, vào thái độ bên trong, thứ thuộc quyền ta.
+
+**9.41 Bài học từ Epicurus.** Marcus kể lại lời của Epicurus, triết gia của một trường phái đối thủ. Khi ốm, Epicurus không nói chuyện về bệnh tật thân thể với khách tới thăm, mà tiếp tục bàn những vấn đề triết học cốt lõi, nhất là câu hỏi làm sao tâm trí vẫn dự phần vào các biến động của thân xác mà không bị xáo trộn, vẫn giữ được điều tốt của riêng nó. Ông cũng không để thầy thuốc ra vẻ quan trọng, và đời ông vẫn trôi đi tốt đẹp. Marcus tự dặn: hãy làm y như vậy khi ốm và trong mọi hoàn cảnh khác. Mọi trường phái triết học đều đồng ý ở mấy điểm: không bỏ triết học dù gặp chuyện gì, không tán gẫu với kẻ ngu dốt, chỉ chú tâm vào việc đang làm và công cụ để làm nó. Việc một nhà Khắc kỷ học từ Epicurus cho thấy Marcus lấy điều đúng từ bất cứ đâu.
+
+**9.42 Khi gặp kẻ vô liêm sỉ.** Đây là một trong những đoạn thực hành dài nhất của cả sách. Nó có thể đọc như một quy trình năm bước:
+
+1. **Hỏi ngay: thế giới có thể không có người vô liêm sỉ không?** Không thể. Vậy đừng đòi điều không thể; người này chỉ là một trong những kẻ tất yếu phải có. Làm tương tự với kẻ gian, kẻ bất tín, mọi kẻ làm sai: nhớ rằng loại người ấy phải tồn tại thì ta sẽ dịu dàng hơn với từng người cụ thể.
+2. **Hỏi tiếp: tự nhiên đã cho ta phẩm cách nào để đối trị lỗi này?** Với sự ác tâm, nó cho sự tử tế như thuốc giải; với mỗi thói xấu khác, một phẩm cách khác.
+3. **Nhớ rằng ta luôn có thể dạy lại người đi lạc**, vì ai làm sai cũng là đang trượt khỏi chính mục tiêu của mình. Mà ta bị hại gì? Không kẻ nào làm ta bực có thể làm hư tâm trí ta, và chỉ điều đó mới là cái hại thật sự của ta.
+4. **Kẻ thô lỗ làm việc thô lỗ thì có gì lạ?** Nên trách mình vì đã không lường trước. Lý trí đã cho ta phương tiện để biết người như thế sẽ làm việc như thế, nhưng ta quên dùng, rồi lại ngạc nhiên.
+5. **Khi trách ai bất tín hay vô ơn, hãy quay về mình.** Lỗi ở ta, vì đã tin rằng người như thế sẽ giữ lời, hoặc vì đã giúp người mà không coi chính việc giúp là phần thưởng trọn vẹn.
+
+Đoạn kết của 9.42 là một lập luận về chức năng. Làm điều hợp với bản tính mình còn chưa đủ sao, mà còn đòi công? Điều đó giống như con mắt đòi được trả công vì đã nhìn, hay bàn chân đòi trả công vì đã bước. Chúng làm đúng chức năng của mình là đã nhận đủ phần của mình. Con người sinh ra để làm điều tốt cho người khác; khi giúp ai đó, ta đã làm đúng việc mình được tạo ra để làm, và đã có được cái của mình. Giúp người, theo cách nhìn này, không phải là cho vay để chờ trả ơn.
 
 ## Luận điểm triết học cốt lõi
 
