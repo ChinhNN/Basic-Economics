@@ -46,58 +46,118 @@
 2. Những yếu tố nào thúc đẩy xu hướng này, và còn những thách thức gì?
 3. Triển vọng, giải pháp và lợi ích cho người tiêu dùng là gì?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Thanh toán không dùng tiền mặt (TTKDTM, cashless payment).** Mọi cách trả tiền mà không trao tay tiền giấy: quẹt thẻ, chuyển khoản, quét mã QR, trả bằng ví điện tử. Tiền vẫn là đồng Việt Nam, chỉ khác là nó đi từ tài khoản này sang tài khoản khác dưới dạng bút toán điện tử. Ví dụ trong bài: năm 2024 Việt Nam có hơn 17 tỷ giao dịch không dùng tiền mặt, trị giá khoảng 280 triệu tỷ đồng. Đây là chủ đề của toàn bài.
+
+**Thanh toán bằng mã QR (QR code payment).** Người bán in hoặc hiển thị một mã hai chiều chứa thông tin tài khoản; người mua dùng ứng dụng ngân hàng quét mã, nhập số tiền và chuyển khoản ngay. Ví dụ minh hoạ: một bát phở 50.000 đồng ở chợ được trả bằng cách quét mã dán trên quầy, tiền vào tài khoản chủ quán trong vài giây. Theo bài, đây là phương thức tăng nhanh nhất, với số giao dịch tăng 892,95%.
+
+**Ví điện tử (e-wallet).** Tài khoản điện tử do một công ty trung gian thanh toán (không phải ngân hàng) cung cấp, thường liên kết với tài khoản ngân hàng để nạp và rút tiền. Ví dụ trong bài: Momo, ZaloPay, Viettel Money, được 4/5 người tiêu dùng dùng thường xuyên. Ví điện tử quan trọng vì nó mở rộng thanh toán số sang trả hoá đơn, mua sắm trực tuyến, thậm chí đầu tư.
+
+**Mobile Money.** Dịch vụ thanh toán qua tài khoản gắn với số thuê bao di động, do nhà mạng cung cấp, không cần có tài khoản ngân hàng. Người dùng có thể nạp tiền mặt tại điểm giao dịch của nhà mạng rồi chuyển, thanh toán bằng điện thoại. Ví dụ trong bài: tháng 6/2024 có 9,13 triệu tài khoản Mobile Money, 72% ở nông thôn, miền núi, vùng sâu, vùng xa. Đây là công cụ chính để đưa thanh toán số tới người chưa có tài khoản ngân hàng.
+
+**eKYC (định danh khách hàng điện tử).** Mở tài khoản ngân hàng trực tuyến bằng cách chụp giấy tờ tuỳ thân và quay khuôn mặt qua điện thoại, thay vì đến quầy. Ví dụ trong bài: năm 2023 có 11,9 triệu tài khoản được mở qua eKYC. Khái niệm này giải thích vì sao số tài khoản cá nhân tăng nhanh tới 200 triệu.
+
+**POS/mPOS.** Máy chấp nhận thẻ đặt tại quầy bán hàng (POS); mPOS là thiết bị nhỏ gắn với điện thoại. Người mua cắm, quẹt hoặc chạm thẻ vào máy để trả tiền. Ví dụ trong bài: cả nước có khoảng 400.000 thiết bị POS/mPOS, theo NHNN chỉ đáp ứng 30% nhu cầu. Số máy này là một thước đo hạ tầng chấp nhận thẻ.
+
+**Chuyển tiền nhanh 24/7 và thanh toán bù trừ tự động (ACH).** Chuyển tiền nhanh 24/7 là hệ thống cho phép chuyển khoản liên ngân hàng tức thì vào bất kỳ giờ nào, kể cả cuối tuần. Thanh toán bù trừ tự động (Automated Clearing House) là hệ thống xử lý hàng loạt giao dịch giữa các ngân hàng, cộng trừ bù cho nhau rồi chỉ chuyển phần chênh. Ví dụ minh hoạ: nếu ngân hàng A phải chuyển cho B 100 tỷ đồng và B phải chuyển cho A 80 tỷ đồng, hệ thống bù trừ chỉ cần chuyển 20 tỷ đồng từ A sang B. Đây là hạ tầng phía sau khiến QR và chuyển khoản trở nên tiện lợi.
+
+**Tài chính bao trùm (financial inclusion).** Mục tiêu để mọi người dân, kể cả người nghèo, người ở vùng sâu, người lớn tuổi, đều tiếp cận được các dịch vụ tài chính cơ bản như tài khoản, thanh toán, tiết kiệm. Bài nêu Mobile Money và Chợ 4.0 là các công cụ hướng tới mục tiêu này, đối lập với rào cản "khoảng cách số".
+
+## Nội dung chi tiết
 
 ### 1. Thực trạng
-- Năm 2024 (theo Báo Điện tử VTV, Báo Nhân Dân, NHNN):
+
+Theo số liệu năm 2024 mà bài tổng hợp từ Báo Điện tử VTV, Báo Nhân Dân và NHNN, thanh toán không dùng tiền mặt ở Việt Nam đã đạt quy mô rất lớn:
 
 | Chỉ số | Số liệu | Tăng trưởng so với 2023 |
 |---|---|---|
-| Tổng số giao dịch | 17 tỷ giao dịch | không nêu |
-| Tổng giá trị giao dịch | 280 triệu tỷ đồng | +120% |
+| Tổng số giao dịch | hơn 17 tỷ giao dịch | không nêu |
+| Tổng giá trị giao dịch | khoảng 280 triệu tỷ đồng | +120% |
 | Số tài khoản thanh toán cá nhân | 200 triệu tài khoản | +50% |
-| Tài khoản mở qua eKYC (năm 2023) | 11,9 triệu tài khoản | không nêu |
+| Tài khoản mở qua eKYC (số năm 2023) | 11,9 triệu tài khoản | không nêu |
 
-- Các phương thức:
-  - **Mã QR**: phát triển nhanh nhất, số giao dịch tăng 892,95%, giá trị tăng 1.062,01% so với 2023 (Thời báo Tài chính Việt Nam); dùng rộng rãi ở chợ truyền thống, cửa hàng bán lẻ, phương tiện công cộng.
-  - **Ngân hàng di động, Internet**: kênh di động tăng 68,54% về số lượng, 41,12% về giá trị; kênh Internet tăng 57,85% và 32,43% (AppotaPay News). Ứng dụng Vietcombank, TPBank tích hợp Facepay, Voicepay.
-  - **Thẻ ngân hàng**: đến năm 2022 gần 130 triệu thẻ lưu hành, tăng 20%, thẻ mới tăng 50% (NHNN); giao dịch không tiếp xúc qua thẻ Visa tăng 53% năm 2023.
-  - **Mobile Money**: tháng 6/2024 có 9,13 triệu tài khoản, 72% ở nông thôn, miền núi, vùng sâu, vùng xa.
-  - **Ví điện tử**: Momo, ZaloPay, Viettel Money được 4/5 người tiêu dùng dùng thường xuyên (Visa, 2023), từ trả hóa đơn đến đầu tư.
-- Ứng dụng đời sống:
-  - Chợ 4.0: chợ Đồng Xa (Hà Nội) là chợ dân sinh thông minh đầu tiên, dùng hoàn toàn mã QR; mô hình đang nhân rộng.
-  - Tuyến phố thương mại 4.0 tại Hà Nội, Đà Nẵng, TP.HCM, Lâm Đồng, Khánh Hòa, Kiên Giang.
-  - Dịch vụ công: trường học, bệnh viện, bãi xe, cơ quan hành chính; 71 bộ, ngành, địa phương tích hợp thanh toán số vào Cổng Dịch vụ công Quốc gia.
+Cần lưu ý rằng bài trộn số của nhiều năm và nhiều kỳ so sánh mà không ghi rõ, nên các tỷ lệ tăng trưởng chỉ nên dùng để thấy hướng và độ lớn.
+
+Bài mô tả sáu phương thức thanh toán chính, mỗi phương thức có số liệu riêng:
+
+| Phương thức | Số liệu trong bài | Nguồn bài dẫn |
+|---|---|---|
+| Mã QR | Phát triển nhanh nhất: số giao dịch tăng 892,95%, giá trị tăng 1.062,01% so với 2023 | Thời báo Tài chính Việt Nam |
+| Ngân hàng di động | Số giao dịch tăng 68,54%, giá trị tăng 41,12% | AppotaPay News |
+| Internet banking | Số giao dịch tăng 57,85%, giá trị tăng 32,43% | AppotaPay News |
+| Thẻ ngân hàng | Đến năm 2022 có gần 130 triệu thẻ lưu hành, tăng 20%, thẻ phát hành mới tăng 50%; giao dịch không tiếp xúc qua thẻ Visa tăng 53% năm 2023 | NHNN, Visa |
+| Mobile Money | Tháng 6/2024 có 9,13 triệu tài khoản, 72% ở nông thôn, miền núi, vùng sâu, vùng xa | |
+| Ví điện tử | Momo, ZaloPay, Viettel Money được 4/5 người tiêu dùng dùng thường xuyên, từ trả hoá đơn tới đầu tư | Visa, 2023 |
+
+Mã QR được dùng rộng rãi ở chợ truyền thống, cửa hàng bán lẻ và phương tiện công cộng. Các ứng dụng ngân hàng như Vietcombank, TPBank còn tích hợp thanh toán bằng khuôn mặt (Facepay) và bằng giọng nói (Voicepay).
+
+Bài nêu ba nhóm ứng dụng trong đời sống:
+
+- **Chợ 4.0:** chợ Đồng Xa (Hà Nội) là chợ dân sinh thông minh đầu tiên, tiểu thương nhận tiền hoàn toàn bằng mã QR; mô hình này đang được nhân rộng.
+- **Tuyến phố thương mại 4.0:** đã có ở Hà Nội, Đà Nẵng, TP.HCM, Lâm Đồng, Khánh Hoà, Kiên Giang.
+- **Dịch vụ công:** trường học, bệnh viện, bãi gửi xe, cơ quan hành chính nhận thanh toán số; 71 bộ, ngành, địa phương đã tích hợp thanh toán trực tuyến vào Cổng Dịch vụ công Quốc gia.
 
 ### 2. Động lực
-- **Chính sách**:
-  - Quyết định 1813/QĐ-TTg (2021): đề án phát triển TTKDTM 2021–2025, mục tiêu 90–100% cơ sở giáo dục, y tế ở đô thị chấp nhận TTKDTM.
-  - Nghị định 52/2024/NĐ-CP, hiệu lực 1/7/2024, quy định về thẻ tín dụng, ví điện tử, an ninh mạng (theo cách bài mô tả).
-  - "Ngày không tiền mặt" 16/6 hằng năm.
-  - Năm 2024 NHNN hoàn thiện quy định về hoạt động ngân hàng, thanh toán, hỗ trợ fintech.
-- **Công nghệ**: AI, blockchain, mã hóa bảo mật; chuyển tiền nhanh liên ngân hàng 24/7 và thanh toán bù trừ tự động (ACH) theo thời gian thực; sinh trắc học vân tay, khuôn mặt.
-- **Hành vi**: COVID-19 thúc đẩy chuyển đổi; theo Visa (2023), 56% người dùng mang ít tiền mặt hơn, 89% người trẻ dùng thanh toán số; thương mại điện tử (Shopee, Lazada) tăng nhu cầu thanh toán trực tuyến.
-- **Ngân hàng, fintech**: khuyến mãi, tích điểm, mã giảm giá; hệ thống POS/mPOS lên 400.000 thiết bị (2022), dù chưa đủ.
+
+Bài chia các yếu tố thúc đẩy thành bốn nhóm.
+
+**Chính sách của Nhà nước.**
+
+| Văn bản, hoạt động | Nội dung theo bài |
+|---|---|
+| Quyết định 1813/QĐ-TTg (2021) | Đề án phát triển TTKDTM giai đoạn 2021–2025, mục tiêu 90–100% cơ sở giáo dục, y tế ở đô thị chấp nhận thanh toán không dùng tiền mặt |
+| Nghị định 52/2024/NĐ-CP, hiệu lực từ 1/7/2024 | Quy định về thanh toán không dùng tiền mặt, theo cách bài mô tả là về thẻ tín dụng, ví điện tử và an ninh mạng |
+| "Ngày không tiền mặt" 16/6 hằng năm | Hoạt động truyền thông, khuyến mãi để khuyến khích người dân thử thanh toán số |
+| Quy định năm 2024 của NHNN | Hoàn thiện khung pháp lý cho hoạt động ngân hàng, thanh toán và hỗ trợ fintech |
+
+**Công nghệ.** Trí tuệ nhân tạo, blockchain và mã hoá bảo mật được ứng dụng trong thanh toán. Quan trọng nhất là hạ tầng chuyển tiền nhanh liên ngân hàng 24/7 và hệ thống thanh toán bù trừ tự động (ACH) chạy theo thời gian thực, cùng xác thực sinh trắc học bằng vân tay và khuôn mặt.
+
+**Thay đổi hành vi.** Đại dịch COVID-19 khiến nhiều người chuyển sang thanh toán số để tránh tiếp xúc. Theo khảo sát của Visa năm 2023, 56% người dùng mang ít tiền mặt hơn trước và 89% người trẻ dùng thanh toán số. Sự phát triển của thương mại điện tử (Shopee, Lazada) cũng làm tăng nhu cầu thanh toán trực tuyến.
+
+**Ngân hàng và fintech.** Các ngân hàng và công ty công nghệ tài chính cạnh tranh bằng khuyến mãi, tích điểm, mã giảm giá. Hệ thống máy POS/mPOS tăng lên khoảng 400.000 thiết bị (năm 2022), dù như bài thừa nhận ở phần sau, vẫn chưa đủ.
 
 ### 3. Thách thức
-- Thói quen tiền mặt: hơn 90% giao dịch ở nông thôn dùng tiền mặt (Advertising Vietnam); người lớn tuổi e ngại an toàn.
-- Hạ tầng: internet vùng sâu không ổn định; cả nước 400.000 POS/mPOS, đáp ứng 30% nhu cầu (NHNN).
-- An ninh mạng: lừa đảo chiếm đoạt thông tin ngân hàng, tấn công DDoS; theo NHNN, số vụ lừa đảo trực tuyến tăng 30% năm 2023.
-- Khoảng cách số: người nông thôn, người lớn tuổi thiếu kỹ năng công nghệ.
+
+Bên cạnh động lực, bài nêu bốn rào cản:
+
+| Rào cản | Biểu hiện | Số liệu, nguồn |
+|---|---|---|
+| Thói quen dùng tiền mặt | Tiền mặt vẫn chiếm ưu thế trong giao dịch nhỏ lẻ và ở nông thôn; người lớn tuổi e ngại về an toàn | Hơn 90% giao dịch ở nông thôn dùng tiền mặt (Advertising Vietnam) |
+| Hạ tầng | Internet ở vùng sâu, vùng xa chưa ổn định; thiếu máy chấp nhận thẻ | Cả nước khoảng 400.000 POS/mPOS, chỉ đáp ứng khoảng 30% nhu cầu (NHNN) |
+| An ninh mạng | Lừa đảo chiếm đoạt thông tin tài khoản ngân hàng, tấn công từ chối dịch vụ (DDoS) | Theo NHNN, số vụ lừa đảo trực tuyến tăng 30% năm 2023 |
+| Khoảng cách số | Người nông thôn, người lớn tuổi thiếu kỹ năng dùng công nghệ | |
+
+Một điểm cần chú ý: con số 400.000 thiết bị POS/mPOS xuất hiện hai lần trong bài, một lần như bằng chứng hạ tầng đã mở rộng (phần động lực), một lần như bằng chứng hạ tầng còn thiếu (phần thách thức). Cả hai cách đọc đều đúng một phần: số máy tăng nhanh nhưng vẫn chưa đủ so với nhu cầu.
 
 ### 4. Triển vọng và giải pháp
-- Triển vọng: xã hội ít tiền mặt ở đô thị với thanh toán thời gian thực (RTP) và QR xuyên biên giới (Thái Lan, Lào, Campuchia); NHNN nghiên cứu tiền kỹ thuật số (CBDC); thương mại điện tử, tuyến phố 4.0 tiếp tục thúc đẩy.
-- Giải pháp: mở rộng POS/mPOS và internet nông thôn; truyền thông, đào tạo, "Ngày không tiền mặt"; công nghệ bảo mật và phối hợp an ninh mạng; khung pháp lý cho tiền kỹ thuật số và thanh toán xuyên biên giới; đẩy mạnh Mobile Money, Chợ 4.0 cho tài chính bao trùm.
+
+**Triển vọng.** Bài kỳ vọng các đô thị sẽ tiến tới xã hội ít tiền mặt, dựa trên ba hướng: thanh toán thời gian thực (RTP), trong đó tiền được chuyển và ghi có gần như tức thì; thanh toán QR xuyên biên giới với Thái Lan, Lào, Campuchia, để người Việt đi du lịch có thể quét mã trả tiền ở nước bạn; và việc NHNN nghiên cứu tiền kỹ thuật số của ngân hàng trung ương (CBDC). Thương mại điện tử và các tuyến phố 4.0 sẽ tiếp tục là động lực.
+
+**Giải pháp.** Bài đề xuất năm nhóm giải pháp, tương ứng với các rào cản ở mục trước:
+
+1. **Hạ tầng:** mở rộng mạng lưới POS/mPOS và internet ở nông thôn.
+2. **Truyền thông và đào tạo:** hướng dẫn người dân dùng thanh toán số, duy trì "Ngày không tiền mặt".
+3. **Bảo mật:** ứng dụng công nghệ bảo mật và phối hợp giữa các cơ quan về an ninh mạng.
+4. **Pháp lý:** xây dựng khung pháp lý cho tiền kỹ thuật số và thanh toán xuyên biên giới.
+5. **Tài chính bao trùm:** đẩy mạnh Mobile Money và mô hình Chợ 4.0 để đưa thanh toán số tới vùng nông thôn, người chưa có tài khoản ngân hàng.
 
 ### 5. Lợi ích cho người tiêu dùng
-- Tiết kiệm thời gian, giảm rủi ro mất tiền mặt.
-- Lịch sử giao dịch giúp theo dõi chi tiêu.
-- Khuyến mãi, tích điểm, hoàn tiền.
-- Tích hợp thương mại điện tử, dịch vụ công, du lịch.
-- Mẹo: học cách dùng an toàn, cập nhật ưu đãi, tham gia "Ngày không tiền mặt".
+
+Bài liệt kê các lợi ích trực tiếp cho người dùng:
+
+- **Tiết kiệm thời gian và giảm rủi ro:** không phải rút tiền, đếm tiền, thối tiền; không lo mất tiền mặt hay nhận tiền giả.
+- **Theo dõi chi tiêu:** lịch sử giao dịch được lưu tự động, giúp biết mình đã tiêu vào đâu.
+- **Ưu đãi:** khuyến mãi, tích điểm, hoàn tiền khi thanh toán bằng thẻ, ví hoặc QR.
+- **Tích hợp nhiều dịch vụ:** dùng cùng một ứng dụng để mua hàng trực tuyến, trả phí dịch vụ công, đặt dịch vụ du lịch.
+
+Bài kèm ba mẹo: học cách dùng thanh toán số an toàn, thường xuyên cập nhật ưu đãi, và tham gia các hoạt động của "Ngày không tiền mặt".
+
+**Ví dụ hôm nay** (minh hoạ). Một người đi chợ sáng quét mã QR trả 30.000 đồng tiền rau, buổi trưa trả tiền điện qua ví điện tử, buổi chiều nộp lệ phí hành chính trên Cổng Dịch vụ công. Cuối tháng, ứng dụng ngân hàng cho thấy họ đã chi bao nhiêu cho ăn uống, bao nhiêu cho hoá đơn, điều mà với tiền mặt gần như không ai ghi chép được.
 
 ### 6. Kết luận của bài
-- TTKDTM đạt thành tựu đáng kể nhờ QR, ví điện tử, Mobile Money; động lực là chính sách, công nghệ, hành vi. Để thành xã hội ít tiền mặt cần khắc phục hạ tầng, an ninh mạng, khoảng cách số.
+
+Bài kết luận rằng thanh toán không dùng tiền mặt ở Việt Nam đã đạt thành tựu đáng kể, nhờ mã QR, ví điện tử và Mobile Money, với ba động lực chính là chính sách, công nghệ và thay đổi hành vi. Tuy nhiên, để trở thành một xã hội ít tiền mặt, Việt Nam còn phải khắc phục các thách thức về hạ tầng, an ninh mạng và khoảng cách số giữa thành thị và nông thôn.
 
 ## Thuật ngữ
 
