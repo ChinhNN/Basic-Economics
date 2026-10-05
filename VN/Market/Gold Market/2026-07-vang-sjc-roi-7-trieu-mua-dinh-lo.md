@@ -43,73 +43,147 @@
 2. Hai loại chênh lệch nào (mua - bán, trong nước - thế giới) khiến người mua vàng chịu thiệt?
 3. Làm thế nào để không trở thành người mua đỉnh, và nếu đã lỡ mua thì nên xử lý ra sao?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Giá mua vào và giá bán ra.** Bảng giá vàng luôn có hai con số: giá doanh nghiệp mua lại từ khách (mua vào) và giá doanh nghiệp bán cho khách (bán ra). Khách luôn mua ở giá bán ra, cao hơn, và bán ở giá mua vào, thấp hơn. Ví dụ trong bài: ngày 23/7/2026 vàng miếng SJC niêm yết 135 – 140 triệu đồng/lượng, tức khách mua ở 140 triệu và bán lại được 135 triệu.
+
+**Chênh lệch mua - bán (spread).** Khoảng cách giữa giá bán ra và giá mua vào, chính là chi phí giao dịch của khách. Ví dụ trong bài: mua một lượng nhẫn SJC giá 139 triệu, bán lại ngay chỉ nhận 134 triệu, mất 5 triệu (khoảng 3,6%) dù giá chưa hề thay đổi. Đây là lý do thứ nhất khiến người mua vàng "lỗ ngay khi vừa mua".
+
+**Lượng và ounce.** Hai đơn vị khối lượng vàng: 1 lượng = 37,5 g; 1 troy ounce = 31,1 g. Vì vậy 1 ounce ≈ 0,829 lượng, và 1 lượng ≈ 1,2057 ounce. Giá thế giới tính theo USD mỗi ounce, giá trong nước tính theo đồng mỗi lượng, nên muốn so sánh phải quy đổi.
+
+**Giá thế giới quy đổi.** Giá vàng thế giới đổi ra đồng mỗi lượng: lấy giá USD/ounce chia 0,829 để ra giá USD của một lượng, rồi nhân tỷ giá; chưa gồm thuế, phí. Ví dụ trong bài: 4.047,3 USD/ounce ÷ 0,829 × 26.309 đồng/USD ≈ 128,4 triệu đồng/lượng.
+
+**Chênh lệch trong nước - thế giới (premium).** Phần giá SJC cao hơn giá thế giới quy đổi. Ngày 24/7/2026 là khoảng 11,6 triệu đồng/lượng (140 − 128,4). Phần này không cố định: khi nó co lại, giá trong nước giảm dù giá thế giới đứng yên. Đây là rủi ro thứ hai trong bài.
+
+**Mua đỉnh (đu đỉnh).** Mua ở vùng giá cao nhất ngay trước khi giá giảm. Chị Thu trong bài là ví dụ: mua đúng ngày SJC lập kỷ lục 147,5 triệu đồng/lượng.
+
+**Bình quân giá xuống (averaging down) và cắt lỗ (stop loss).** Bình quân giá xuống là mua thêm khi giá giảm để hạ giá vốn trung bình; cắt lỗ là bán ra chấp nhận lỗ để tránh lỗ thêm. Ví dụ minh hoạ: đã mua 1 lượng ở 147,5 triệu, mua thêm 1 lượng ở 140 triệu thì giá vốn bình quân còn 143,75 triệu. Bài khuyên không dùng tiền vay để bình quân giá, và lưu ý rằng cắt lỗ vàng phải chịu thêm chênh lệch mua - bán.
+
+**Lợi suất trái phiếu và tỷ trọng chịu được.** Lợi suất trái phiếu là tiền lời khi giữ trái phiếu; nó là chi phí cơ hội của việc giữ vàng, vì vàng không trả lãi. Tỷ trọng chịu được là mức vàng trong tổng tài sản mà nếu giá giảm thêm 15% mình vẫn chấp nhận được. Ví dụ minh hoạ: tổng tài sản 1 tỷ, vàng chiếm 200 triệu; vàng giảm 15% thì mất 30 triệu, tức 3% tổng tài sản.
+
+## Nội dung chi tiết
 
 ### 1. Tin nhanh (dữ liệu đến sáng 24/7/2026)
-- Chốt phiên 23/7, vàng miếng SJC niêm yết 135 – 140 triệu đồng/lượng (mua vào – bán ra), giảm 7 triệu đồng/lượng cả hai chiều so với phiên trước.
-- Vàng nhẫn SJC về 134 – 139 triệu đồng/lượng.
-- Vàng thế giới lùi về quanh 4.042 – 4.047 USD/ounce, giảm khoảng 2%.
+
+Chốt phiên 23/7, giá vàng trong nước và thế giới cùng giảm:
+
+| Sản phẩm | Giá chốt phiên 23/7 | Thay đổi |
+|---|---|---|
+| Vàng miếng SJC | 135 – 140 triệu đồng/lượng (mua vào – bán ra) | Giảm 7 triệu đồng/lượng cả hai chiều so với phiên trước |
+| Vàng nhẫn SJC | 134 – 139 triệu đồng/lượng | Giảm |
+| Vàng thế giới | Quanh 4.042 – 4.047 USD/ounce | Giảm khoảng 2% |
 
 ### 2. Câu chuyện chị Thu
-- Chị Thu, 38 tuổi, bán tạp hóa ở Gò Vấp, mua 2 lượng vàng miếng SJC sáng 20/7, hôm giá bán ra lập kỷ lục 147,5 triệu đồng/lượng; mua vì nghe nói vàng đang lên, "mua sớm ngày nào lời ngày đó".
-- Sáng 24/7 chị hỏi giá thu mua, nhân viên báo 135 triệu đồng/lượng. "Bốn ngày. Hai lượng."
+
+Chị Thu, 38 tuổi, bán tạp hoá ở Gò Vấp. Sáng 20/7, đúng hôm giá bán ra lập kỷ lục 147,5 triệu đồng/lượng, chị mua 2 lượng vàng miếng SJC. Chị mua vì nghe nói vàng đang lên, "mua sớm ngày nào lời ngày đó".
+
+Sáng 24/7, chị hỏi giá thu mua; nhân viên báo 135 triệu đồng/lượng. "Bốn ngày. Hai lượng."
 
 ### 3. Diễn biến giá chi tiết
+
+Giá các loại vàng trong nước chốt phiên 23/7:
 
 | Sản phẩm | Mua vào – bán ra (triệu đồng/lượng) | Thay đổi |
 |---|---|---|
 | Vàng miếng SJC | 135 – 140 | −7 triệu cả hai chiều |
 | Vàng nhẫn SJC loại 1 – 5 chỉ | 134 – 139 | −7 triệu chiều mua, −6 triệu chiều bán |
-| Nhẫn Hưng Thịnh Vượng DOJI | 139 – 143,5 | điều chỉnh giảm |
-| Vàng nhẫn trơn PNJ | 135 – 140 | điều chỉnh giảm |
-| Vàng nhẫn Bảo Tín Mạnh Hải | 135 – 139,5 | điều chỉnh giảm |
+| Nhẫn Hưng Thịnh Vượng DOJI | 139 – 143,5 | Điều chỉnh giảm |
+| Vàng nhẫn trơn PNJ | 135 – 140 | Điều chỉnh giảm |
+| Vàng nhẫn Bảo Tín Mạnh Hải | 135 – 139,5 | Điều chỉnh giảm |
 
-- Quốc tế (5 giờ sáng 24/7): 4.047,3 USD/ounce, mất 85,21 USD so với phiên trước, tương đương giảm 2,06%. Kiểm tra: 85,21 / (4.047,3 + 85,21) ≈ 2,06%, đúng.
-- Quy đổi theo tỷ giá Vietcombank 26.309 đồng/USD: mỗi lượng vàng thế giới khoảng 128,4 triệu đồng, chưa gồm thuế và phí. Kiểm tra: 4.047,3 / 0,8294 × 26.309 ≈ 128,4 triệu, đúng.
-- Nguồn bài nêu: VietnamNet, Báo Hà Tĩnh, Báo Lâm Đồng, ngày 23 – 24/7/2026.
+**Giá quốc tế.** Lúc 5 giờ sáng 24/7, vàng thế giới ở 4.047,3 USD/ounce, mất 85,21 USD so với phiên trước, tương đương giảm 2,06%. Kiểm tra: 85,21 / (4.047,3 + 85,21) ≈ 2,06%, đúng.
+
+**Quy đổi.** Theo tỷ giá Vietcombank 26.309 đồng/USD, mỗi lượng vàng thế giới tương đương khoảng 128,4 triệu đồng, chưa gồm thuế và phí. Kiểm tra: 4.047,3 / 0,8294 × 26.309 ≈ 128,4 triệu, đúng.
+
+Như vậy, một lượng SJC ngày 24/7/2026 có ba lớp giá:
+
+| Lớp giá | Triệu đồng/lượng | Ý nghĩa |
+|---|---|---|
+| Giá bán ra trong nước | 140,0 | Giá khách phải trả khi mua |
+| Giá mua vào trong nước | 135,0 | Giá khách nhận khi bán; thấp hơn giá bán ra khoảng 5 triệu (spread) |
+| Giá thế giới quy đổi | 128,4 | Thấp hơn giá bán ra khoảng 11,6 triệu (premium) |
+
+Bài dẫn nguồn VietnamNet, Báo Hà Tĩnh, Báo Lâm Đồng, ngày 23 – 24/7/2026.
 
 ### 4. Bài toán của người mua đỉnh ngày 20/7
-- Ngày 20/7 SJC lập kỷ lục 147,5 triệu dù thế giới đang giảm; WikiMoney đã có bài cảnh báo ngay hôm đó.
-- Tính cho chị Thu:
-  - Mua ngày 20/7: 147,5 triệu × 2 lượng = 295 triệu đồng.
-  - Tiệm thu mua lại ngày 23/7: 135 triệu × 2 lượng = 270 triệu đồng.
-  - Chênh lệch: 25 triệu đồng, tương đương mất 8,5% giá trị trong 4 ngày. Kiểm tra: 25 / 295 = 8,47%, đúng.
-- Cảnh báo: 25 triệu tương đương gần 3 tháng lợi nhuận bán tạp hóa của chị Thu. Chị không làm gì sai về pháp lý hay đạo đức; chị chỉ mua đúng ngày giá trong nước cao bất thường so với thế giới.
+
+Ngày 20/7, SJC lập kỷ lục 147,5 triệu đồng/lượng dù vàng thế giới đang giảm; WikiMoney đã có bài cảnh báo ngay hôm đó. Tính cho chị Thu:
+
+| Bước | Phép tính | Số tiền |
+|---|---|---|
+| Mua ngày 20/7 | 147,5 triệu × 2 lượng | 295 triệu đồng |
+| Tiệm thu mua lại (giá chốt 23/7) | 135 triệu × 2 lượng | 270 triệu đồng |
+| Khoản lỗ | 295 − 270 | 25 triệu đồng, tức 8,5% trong 4 ngày |
+
+Kiểm tra: 25 / 295 = 8,47%, đúng.
+
+Có thể tách khoản lỗ 12,5 triệu đồng trên mỗi lượng thành hai phần:
+
+- giá bán ra giảm từ 147,5 xuống 140 triệu: 7,5 triệu;
+- chênh lệch mua - bán, 140 − 135: 5,0 triệu.
+
+Theo bài, 25 triệu đồng tương đương gần 3 tháng lợi nhuận bán tạp hoá của chị Thu. Chị không làm gì sai về mặt pháp lý hay đạo đức; chị chỉ mua vào đúng ngày giá trong nước đang cao bất thường so với giá thế giới.
 
 ### 5. Vì sao mua vàng là lỗ ngay khi vừa mua
-- Bảng niêm yết luôn có hai giá: giá doanh nghiệp mua vào từ bạn và giá bán ra cho bạn. Bạn luôn mua ở giá cao, bán ở giá thấp; khoảng cách là chi phí giao dịch.
-- Khoảng cách hiện rất rộng: vàng nhẫn 9999 SJC chênh 5 triệu đồng/lượng; nhẫn Hưng Thịnh Vượng DOJI chênh 4,5 triệu; Bảo Tín Mạnh Hải chênh 4,5 triệu; PNJ chênh 5 triệu.
-- Ví dụ: mua một lượng nhẫn SJC giá 139 triệu, bán lại ngay nhận 134 triệu, mất 5 triệu tương đương 3,6% (5/139 = 3,6%, đúng) mà giá chưa hề nhúc nhích. Để hòa vốn giá phải tăng thêm 5 triệu đồng/lượng.
-- Ghi nhớ: với chênh lệch mua - bán 4,5 – 5 triệu đồng/lượng, vàng không phải công cụ lướt sóng; cần nắm giữ đủ lâu để phần tăng giá vượt qua khoản chênh này.
+
+Bảng niêm yết luôn có hai giá: giá doanh nghiệp mua vào từ bạn và giá doanh nghiệp bán ra cho bạn. Bạn luôn mua ở giá cao và bán ở giá thấp; khoảng cách giữa hai con số đó là chi phí bạn trả cho giao dịch.
+
+Hiện khoảng cách này rất rộng:
+
+| Sản phẩm | Chênh lệch mua - bán |
+|---|---|
+| Vàng nhẫn 9999 SJC | 5 triệu đồng/lượng |
+| Nhẫn Hưng Thịnh Vượng DOJI | 4,5 triệu đồng/lượng |
+| Bảo Tín Mạnh Hải | 4,5 triệu đồng/lượng |
+| PNJ | 5 triệu đồng/lượng |
+
+Ví dụ: mua một lượng nhẫn SJC giá 139 triệu, bán lại ngay chỉ nhận 134 triệu, mất 5 triệu, tương đương 3,6% (5/139 = 3,6%, đúng), trong khi giá chưa hề nhúc nhích. Muốn hoà vốn, giá phải tăng thêm 5 triệu đồng/lượng.
+
+Điều cần ghi nhớ: với chênh lệch mua - bán 4,5 – 5 triệu đồng/lượng, vàng không phải công cụ để lướt sóng. Phải nắm giữ đủ lâu để phần tăng giá vượt qua được khoản chênh này.
 
 ### 6. Rủi ro thứ hai: chênh lệch với giá thế giới
-- Giá bán SJC cao hơn mức quy đổi quốc tế khoảng 11,6 triệu đồng/lượng (140 − 128,4), phát sinh từ đặc thù nguồn cung và cơ chế quản lý vàng miếng trong nước.
-- Phần chênh lệch không cố định; khi co lại, giá trong nước có thể giảm cả khi thế giới đi ngang.
-- Đây là điều đã xảy ra với người mua 20/7: hôm đó thế giới giảm nhưng SJC vẫn tăng kỷ lục, tức chênh lệch bị đẩy rất cao; khi thu hẹp, giá trong nước rơi mạnh hơn thế giới.
+
+Ngoài spread, người mua còn chịu rủi ro từ phần giá trong nước cao hơn thế giới. Ngày 24/7, giá bán SJC cao hơn mức quy đổi quốc tế khoảng 11,6 triệu đồng/lượng (140 − 128,4). Khoản này phát sinh từ đặc thù nguồn cung và cơ chế quản lý vàng miếng trong nước.
+
+Phần chênh lệch này không cố định. Khi nó co lại, giá trong nước có thể giảm ngay cả khi giá thế giới đi ngang. Đó chính là điều đã xảy ra với người mua ngày 20/7: hôm đó thế giới giảm nhưng SJC vẫn tăng lên kỷ lục, tức chênh lệch bị đẩy lên rất cao; khi khoảng chênh thu hẹp lại, giá trong nước rơi mạnh hơn giá thế giới.
 
 ### 7. Vì sao vàng thế giới giảm
-- Giá dầu lên cao nhất hơn 6 tuần sau khi căng thẳng Trung Đông leo thang, làm dấy lo ngại lạm phát và kỳ vọng Fed có thể tăng lãi suất vào tháng 9.
-- Lợi suất trái phiếu Mỹ lên cao nhất 17 tháng, kìm hãm kim loại quý.
-- Ngân hàng Trung ương châu Âu giữ lãi suất chuẩn 2,25% sau cuộc họp tháng 6, cảnh báo bất ổn từ cú sốc năng lượng vẫn cao.
-- Lãi suất và lợi suất trái phiếu cao khiến giữ vàng kém hấp dẫn vì vàng không trả lãi. Cuộc họp Fed ngày 29/7 là sự kiện tiếp theo cần theo dõi.
-- Nguồn bài nêu: Vietnam.vn, VietnamNet, ngày 23 – 24/7/2026.
+
+Bài nêu bốn nguyên nhân:
+
+- Giá dầu lên mức cao nhất hơn 6 tuần sau khi căng thẳng Trung Đông leo thang, làm dấy lo ngại lạm phát và kỳ vọng Fed có thể tăng lãi suất vào tháng 9.
+- Lợi suất trái phiếu Mỹ lên cao nhất 17 tháng, kìm hãm giá kim loại quý.
+- Ngân hàng Trung ương châu Âu giữ lãi suất chuẩn ở 2,25% sau cuộc họp tháng 6, và cảnh báo bất ổn từ cú sốc năng lượng vẫn còn cao.
+- Lãi suất và lợi suất trái phiếu cao khiến việc giữ vàng kém hấp dẫn, vì vàng không trả lãi.
+
+Sự kiện tiếp theo cần theo dõi là cuộc họp của Fed ngày 29/7. Bài dẫn nguồn Vietnam.vn, VietnamNet, ngày 23 – 24/7/2026.
 
 ### 8. Bốn nguyên tắc để không thành người mua đỉnh
-- Thứ nhất, luôn so giá trong nước với giá thế giới quy đổi trước khi mua; chênh lệch cao bất thường là tín hiệu nên chờ.
-- Thứ hai, không mua vàng khi thấy tin giá lập kỷ lục: tin kỷ lục xuất hiện sau khi giá đã tăng, không phải trước.
-- Thứ ba, vàng là công cụ giữ giá trị dài hạn: với chênh lệch mua - bán 4,5 – 5 triệu đồng/lượng, nắm giữ dưới một năm "gần như chắc chắn bất lợi".
-- Thứ tư, giới hạn tỷ trọng: vàng là một phần trong danh mục, không phải toàn bộ tích lũy của gia đình.
+
+1. **Luôn so giá trong nước với giá thế giới quy đổi trước khi mua.** Chênh lệch cao bất thường là tín hiệu nên chờ.
+2. **Không mua vàng khi thấy tin giá lập kỷ lục.** Tin kỷ lục xuất hiện sau khi giá đã tăng, không phải trước.
+3. **Coi vàng là công cụ giữ giá trị dài hạn.** Với chênh lệch mua - bán 4,5 – 5 triệu đồng/lượng, theo bài, nắm giữ dưới một năm "gần như chắc chắn bất lợi".
+4. **Giới hạn tỷ trọng.** Vàng là một phần trong danh mục, không phải toàn bộ tích luỹ của gia đình.
 
 ### 9. Hành động ngay hôm nay
-- Phép tính 2 phút trước khi ra tiệm: lấy giá thế giới USD/ounce chia 0,829, nhân tỷ giá USD của ngân hàng, so với giá bán ra trong nước. Nếu khoảng cách trên 10 triệu đồng/lượng, cân nhắc chờ thêm.
-- Đã lỡ mua vùng giá cao: bán tháo cắt lỗ thường không phải lựa chọn tốt với vàng vì chịu thêm một lần chênh lệch mua - bán. Nên dừng mua thêm, không vay tiền để trung bình giá, và xác định lại khoản vàng chiếm tỷ trọng bao nhiêu trong tổng tài sản gia đình.
+
+**Phép tính 2 phút trước khi ra tiệm.** Lấy giá vàng thế giới tính bằng USD/ounce chia 0,829 để ra giá USD của một lượng, nhân với tỷ giá USD của ngân hàng, rồi so với giá bán ra trong nước. Nếu khoảng cách trên 10 triệu đồng/lượng, nên cân nhắc chờ thêm. Ví dụ với số liệu ngày 24/7: 4.047,3 ÷ 0,829 × 26.309 ≈ 128,4 triệu; so với giá bán 140 triệu, chênh khoảng 11,6 triệu, tức đã vượt ngưỡng 10 triệu.
+
+**Nếu đã lỡ mua ở vùng giá cao.** Theo bài, bán tháo cắt lỗ thường không phải lựa chọn tốt với vàng, vì phải chịu thêm một lần chênh lệch mua - bán. Nên:
+
+- dừng mua thêm;
+- không vay tiền để bình quân giá;
+- xác định lại khoản vàng đang chiếm bao nhiêu phần trong tổng tài sản gia đình.
 
 ### 10. Câu hỏi thường gặp
-- Giá SJC hôm nay? Chốt 23/7/2026: miếng 135 – 140 triệu, nhẫn SJC 134 – 139 triệu; giá thay đổi nhiều lần trong ngày.
-- Vì sao trong nước giảm mạnh hơn thế giới? Vì chênh lệch trong nước - thế giới bị đẩy rất cao trước đó, khi thu hẹp thì giá trong nước giảm mạnh hơn.
-- Chênh lệch mua - bán là gì? Khoảng cách giữa giá doanh nghiệp bán cho bạn và giá mua lại từ bạn; hiện 4,5 – 5 triệu đồng/lượng với vàng nhẫn tại các thương hiệu lớn.
-- Nên mua vàng miếng hay nhẫn? Hai loại khác nhau về chênh lệch với thế giới và thanh khoản (bài trỏ sang một bài phân tích riêng, không trình bày ở đây).
-- Giá sắp tới tăng hay giảm? Không ai dự báo chắc; yếu tố tác động là lộ trình lãi suất Fed, giá dầu, căng thẳng địa chính trị. Thay vì dự đoán, giữ tỷ trọng vàng ở mức chịu được nếu giá giảm thêm 15%.
+
+| Câu hỏi | Trả lời của bài |
+|---|---|
+| Giá SJC hôm nay? | Chốt 23/7/2026: vàng miếng 135 – 140 triệu, nhẫn SJC 134 – 139 triệu đồng/lượng; giá thay đổi nhiều lần trong ngày |
+| Vì sao trong nước giảm mạnh hơn thế giới? | Vì chênh lệch trong nước - thế giới đã bị đẩy rất cao trước đó; khi thu hẹp, giá trong nước giảm mạnh hơn |
+| Chênh lệch mua - bán là gì? | Khoảng cách giữa giá doanh nghiệp bán cho bạn và giá mua lại từ bạn; hiện 4,5 – 5 triệu đồng/lượng với vàng nhẫn tại các thương hiệu lớn |
+| Nên mua vàng miếng hay nhẫn? | Hai loại khác nhau về chênh lệch với thế giới và về thanh khoản; bài không phân tích chi tiết ở đây |
+| Giá sắp tới tăng hay giảm? | Không ai dự báo chắc; các yếu tố tác động là lộ trình lãi suất Fed, giá dầu và căng thẳng địa chính trị. Thay vì dự đoán, hãy giữ tỷ trọng vàng ở mức chịu được nếu giá giảm thêm 15% |
 
 ## Thuật ngữ
 

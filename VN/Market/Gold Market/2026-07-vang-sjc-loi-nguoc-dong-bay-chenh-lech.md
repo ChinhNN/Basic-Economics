@@ -53,45 +53,97 @@
 2. "Phí chênh lệch" (premium) là gì và vì sao nó là cái bẫy với người mua sau cùng?
 3. Người định mua vàng nên làm gì để tránh mua "đu đỉnh"?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Giá thế giới quy đổi.** Giá vàng quốc tế (tính bằng USD mỗi ounce) đổi ra đồng mỗi lượng theo tỷ giá, chưa gồm thuế phí. Một lượng nặng hơn một ounce, nên phép quy đổi cần tính cả khối lượng lẫn tỷ giá. Đây là mốc để biết vàng trong nước đang đắt hơn thế giới bao nhiêu.
+
+**Phí chênh lệch (premium).** Phần giá vàng trong nước cao hơn giá thế giới quy đổi. Ví dụ minh hoạ: nếu giá thế giới quy đổi là 130 triệu đồng/lượng và SJC bán 145 triệu, premium là 15 triệu đồng/lượng. Theo bài, premium càng lớn thì người mua sau cùng càng dễ lỗ, vì phần này có thể co lại bất cứ lúc nào.
+
+**Khoảng cách mua - bán (spread).** Chênh lệch giữa giá cửa hàng bán ra và giá cửa hàng mua vào. Ví dụ minh hoạ: SJC bán ra 147,5 triệu, mua vào 145 triệu thì spread là 2,5 triệu; người mua xong bán lại ngay mất khoản đó. Spread là chi phí giao dịch của người mua, và nó thường nới rộng khi thị trường biến động.
+
+**Vàng giao ngay (spot gold).** Giá vàng giao dịch tức thời trên thị trường quốc tế, tức giá để mua bán và giao nhận ngay. Trong bài, vàng giao ngay chốt tuần ở 4.017 USD/ounce.
+
+**PPI (chỉ số giá sản xuất).** Chỉ số đo giá đầu ra mà các nhà sản xuất bán cho nhau và cho người bán lẻ. PPI tăng mạnh là dấu hiệu lạm phát còn cao, khiến Fed khó hạ lãi suất; lãi suất giữ cao thì vàng, vốn không sinh lãi, kém hấp dẫn hơn. Đây là lý do vàng thế giới giảm trong bài.
+
+**Dập mới vàng miếng.** Việc sản xuất thêm vàng miếng mang thương hiệu SJC. Ở Việt Nam, việc này bị quản lý chặt và hạn chế, nên nguồn cung vàng miếng gần như không tăng kịp khi cầu tăng. Đây là gốc rễ của premium.
+
+**Bong bóng chênh lệch và đu đỉnh.** Bong bóng chênh lệch là khi premium bị đẩy lên quá cao so với nền tảng, dễ co lại đột ngột. Đu đỉnh là mua ở vùng giá cao nhất ngay trước khi giá giảm. Bài cảnh báo hai khái niệm này đi liền nhau: mua khi premium đang phình to là dễ đu đỉnh.
+
+**FOMO (sợ bỏ lỡ).** Tâm lý mua vội vì thấy giá lên kỷ lục và sợ "lỡ tàu". Bài coi FOMO là lý do chính khiến người ta mua vàng đúng lúc rủi ro nhất.
+
+## Nội dung chi tiết
 
 ### 1. Tin nhanh
-- Cuối tuần qua, vàng thế giới giảm mạnh 2,5% về quanh 4.017 USD/ounce.
-- Vàng miếng SJC trong nước bất ngờ tăng tới 900.000 đồng/lượng, đẩy giá bán ra chạm kỷ lục 147,5 triệu đồng/lượng, đi ngược hoàn toàn thị trường thế giới.
-- Báo chí nói vàng thế giới lao dốc mà giá vàng miếng trong nước lại lập đỉnh; người cầm tiền định mua đứng ngồi không yên: mua bây giờ có phải "đu đỉnh"?
+
+Cuối tuần trước ngày 20/7/2026, hai thị trường vàng đi theo hai hướng ngược nhau:
+
+| Thị trường | Diễn biến |
+|---|---|
+| Vàng thế giới | Giảm mạnh 2,5%, về quanh 4.017 USD/ounce |
+| Vàng miếng SJC trong nước | Bất ngờ tăng tới 900.000 đồng/lượng, giá bán ra chạm kỷ lục 147,5 triệu đồng/lượng |
+
+Báo chí đưa tin vàng thế giới lao dốc mà vàng miếng trong nước lại lập đỉnh. Những người đang cầm tiền định mua vàng đứng ngồi không yên, với câu hỏi: mua bây giờ có phải là "đu đỉnh" không?
 
 ### 2. Chuyện gì đang diễn ra
-- Quốc tế: áp lực bán tháo khi số liệu kinh tế Mỹ (giá sản xuất PPI, doanh số bán lẻ) vượt kỳ vọng, làm giảm khả năng Fed hạ lãi suất. Vàng giao ngay chốt tuần ở 4.017 USD/ounce, bốc hơi 2,5% trong vài ngày.
-- Trong nước: SJC được niêm yết tăng 900.000 đồng/lượng ở cả hai chiều, giá bán ra lên kỷ lục 147,5 triệu đồng/lượng. Hai thị trường đi hai hướng ngược nhau.
-- Nguồn: tổng hợp giá vàng ngày 20/7/2026 từ báo chí trong nước (giá có thể thay đổi từng giờ).
+
+**Ở thị trường quốc tế,** vàng chịu áp lực bán tháo khi các số liệu kinh tế Mỹ, gồm chỉ số giá sản xuất (PPI) và doanh số bán lẻ, đều vượt kỳ vọng. Kinh tế Mỹ khoẻ hơn dự đoán làm giảm khả năng Fed hạ lãi suất, và vàng mất sức hút. Vàng giao ngay chốt tuần ở 4.017 USD/ounce, bốc hơi 2,5% chỉ trong vài ngày.
+
+**Ở trong nước,** SJC được niêm yết tăng 900.000 đồng/lượng ở cả hai chiều mua vào và bán ra, đưa giá bán ra lên kỷ lục 147,5 triệu đồng/lượng.
+
+Kết quả là hai thị trường đi hai hướng ngược nhau. Số liệu được tổng hợp từ giá vàng ngày 20/7/2026 trên báo chí trong nước, và giá có thể thay đổi từng giờ.
 
 ### 3. Hiểu về "phí chênh lệch"
-- Phí chênh lệch (premium): khoản chênh giữa giá vàng trong nước và giá vàng thế giới quy đổi.
-- Nguồn cung vàng miếng SJC ở Việt Nam mang tính đặc thù: quản lý chặt và hạn chế dập mới.
-- Khi nhu cầu trú ẩn của người dân tăng cao, nhất là lúc bất động sản, chứng khoán chưa thật sự khởi sắc, lực cầu nội địa lớn có thể kéo giá trong nước tăng bất chấp thế giới giảm.
-- Giá vàng trong nước không chỉ chạy theo thế giới mà còn phụ thuộc cung - cầu riêng của Việt Nam; cầu vượt cung mà cung bị siết thì giá bị đẩy lên, premium ngày càng lớn.
+
+Để hiểu vì sao giá trong nước có thể tăng khi thế giới giảm, cần hiểu khái niệm phí chênh lệch (premium): khoản chênh giữa giá vàng trong nước và giá vàng thế giới quy đổi.
+
+Bài giải thích premium hình thành từ hai phía:
+
+- **Phía cung:** nguồn cung vàng miếng SJC ở Việt Nam mang tính đặc thù, được quản lý chặt và hạn chế dập mới. Cung vì thế gần như cứng nhắc.
+- **Phía cầu:** khi nhu cầu trú ẩn của người dân tăng cao, nhất là lúc bất động sản và chứng khoán chưa thật sự khởi sắc, lực cầu nội địa lớn có thể kéo giá trong nước lên bất chấp thế giới giảm.
+
+Như bài viết, giá vàng trong nước không chỉ chạy theo thế giới, mà còn phụ thuộc vào cung - cầu riêng của thị trường Việt Nam. Khi cầu vượt cung mà cung lại bị siết, giá bị đẩy lên và premium ngày càng lớn. Ngày 20/7/2026 là một ví dụ: premium giãn rộng bất thường vì giá thế giới đi xuống còn giá trong nước đi lên.
 
 ### 4. Bẫy chênh lệch: người mua sau cùng chịu thiệt
-- Premium càng lớn thì "bong bóng chênh lệch" càng rủi ro.
-- Mua lúc chênh lệch với thế giới rất cao, chỉ cần giá thế giới hạ nhiệt và premium co lại, bạn có thể lỗ ngay cả khi giá thế giới không đổi.
-- Người mua sau cùng ở vùng giá đỉnh thường chịu thiệt nhất.
+
+Premium càng lớn thì "bong bóng chênh lệch" càng rủi ro. Cơ chế của cái bẫy diễn ra theo các bước:
+
+1. Người mua vào lúc premium đang rất cao.
+2. Sau đó giá thế giới hạ nhiệt, hoặc thậm chí chỉ đứng yên.
+3. Premium co lại, kéo giá SJC giảm.
+4. Cộng thêm spread mua - bán nới rộng khi thị trường biến động, khoản lỗ lớn hơn nữa.
+5. Người mua sau cùng ở vùng giá đỉnh là người chịu thiệt nhất.
+
+Điểm then chốt là bước 2: người mua có thể lỗ ngay cả khi giá vàng thế giới không đổi, chỉ vì phần premium mà họ đã trả biến mất.
+
+**Ví dụ minh hoạ.** Một người mua 1 lượng SJC ở 147,5 triệu khi premium đang là 20 triệu. Vài tuần sau, giá thế giới không đổi nhưng premium co lại còn 10 triệu, nên giá SJC chỉ còn khoảng 137,5 triệu. Nếu cửa hàng mua vào thấp hơn giá bán ra thêm vài triệu nữa, người này lỗ trên dưới 10 triệu đồng mà giá vàng thế giới không hề giảm.
 
 ### 5. Nhà đầu tư và người mua vàng nên làm gì
-- So sánh giá trong nước với giá thế giới quy đổi trước khi mua; chênh lệch bất thường là tín hiệu cần thận trọng.
-- Nhìn cả khoảng cách mua - bán (spread): khi thị trường biến động mạnh, spread nới rộng, mua xong bán lại ngay sẽ lỗ.
-- Đừng mua theo FOMO vì "thấy vàng lên kỷ lục sợ lỡ tàu"; vàng là kênh giữ giá dài hạn, không phải để lướt sóng theo tin.
-- Chỉ dùng tiền nhàn rỗi, không vay mượn để mua vàng lúc giá lập đỉnh.
+
+Bài đưa ra bốn lời khuyên:
+
+| Lời khuyên | Lý do |
+|---|---|
+| So sánh giá trong nước với giá thế giới quy đổi trước khi mua | Chênh lệch bất thường là tín hiệu cần thận trọng |
+| Nhìn cả khoảng cách mua - bán (spread) | Khi thị trường biến động mạnh, spread nới rộng; mua xong bán lại ngay sẽ lỗ |
+| Đừng mua theo FOMO vì "thấy vàng lên kỷ lục sợ lỡ tàu" | Vàng là kênh giữ giá dài hạn, không phải để lướt sóng theo tin |
+| Chỉ dùng tiền nhàn rỗi | Không vay mượn để mua vàng lúc giá đang lập đỉnh |
 
 ### 6. Hành động ngay hôm nay
-- Định mua vàng: dừng lại 5 phút, tra giá vàng thế giới quy đổi, so với giá SJC sắp mua, ghi ra khoảng chênh lệch.
-- Nếu con số đó cao bất thường so với vài tháng trước: tốt nhất chờ, hoặc chia nhỏ khoản mua thành nhiều lần thay vì xuống tiền một lần lúc đỉnh.
+
+Nếu đang định mua vàng, hãy làm hai việc:
+
+1. Dừng lại 5 phút. Tra giá vàng thế giới quy đổi, so với giá SJC mình sắp mua, và ghi ra khoảng chênh lệch.
+2. Nếu con số đó cao bất thường so với vài tháng trước, tốt nhất là chờ, hoặc chia nhỏ khoản mua thành nhiều lần thay vì xuống tiền một lần lúc đỉnh.
 
 ### 7. Câu hỏi thường gặp
-- Vì sao vàng trong nước tăng khi thế giới giảm? Do cung vàng miếng SJC bị hạn chế trong khi nhu cầu trú ẩn cao, tạo premium lớn.
-- Premium là gì? Khoản chênh giữa giá trong nước và giá thế giới quy đổi; càng cao thì rủi ro cho người mua sau cùng càng lớn.
-- Mua lúc này có bị đu đỉnh không? Rủi ro cao nếu mua khi chênh lệch với thế giới rất lớn; premium co lại là có thể lỗ dù thế giới không đổi.
-- Khoảng cách mua - bán ảnh hưởng gì? Khi biến động, spread nới rộng; mua xong bán ngay sẽ lỗ đáng kể, cần tính trước.
-- Mua thế nào cho an toàn? Tiền nhàn rỗi, so sánh giá trong nước với thế giới, tránh FOMO, chia nhỏ khoản mua.
+
+| Câu hỏi | Trả lời của bài |
+|---|---|
+| Vì sao vàng trong nước tăng khi thế giới giảm? | Vì cung vàng miếng SJC bị hạn chế trong khi nhu cầu trú ẩn cao, tạo ra premium lớn |
+| Premium là gì? | Khoản chênh giữa giá trong nước và giá thế giới quy đổi; càng cao thì rủi ro cho người mua sau cùng càng lớn |
+| Mua lúc này có bị đu đỉnh không? | Rủi ro cao nếu mua khi chênh lệch với thế giới rất lớn; premium co lại là có thể lỗ dù thế giới không đổi |
+| Khoảng cách mua - bán ảnh hưởng gì? | Khi biến động, spread nới rộng; mua xong bán ngay sẽ lỗ đáng kể, cần tính trước |
+| Mua thế nào cho an toàn? | Dùng tiền nhàn rỗi, so sánh giá trong nước với thế giới, tránh FOMO, chia nhỏ khoản mua |
 
 ## Thuật ngữ
 

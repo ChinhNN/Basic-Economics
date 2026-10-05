@@ -45,48 +45,95 @@
 2. Những yếu tố nào đẩy vàng lên kỷ lục 4.300 USD/ounce trong năm 2025?
 3. Nhà đầu tư cá nhân nên phân bổ và mua vàng thế nào để tránh thua lỗ?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Ounce (oz).** Đơn vị đo khối lượng vàng trên thị trường thế giới; một ounce (troy ounce) khoảng 31,1 gam. Giá vàng thế giới luôn được báo theo USD mỗi ounce, ví dụ 4.300 USD/oz là mức kỷ lục tháng 10/2025 trong bài.
+
+**Tăng bình quân theo lãi kép (CAGR).** Tốc độ tăng đều mỗi năm sao cho sau nhiều năm cho ra đúng mức tăng tổng. Công thức: (giá cuối / giá đầu)^(1/số năm) − 1. Ví dụ trong bài: vàng từ 500 USD/oz năm 2005 lên 4.300 USD/oz năm 2025, tức gấp 8,6 lần trong 20 năm; 8,6^(1/20) ≈ 1,1136, nên tốc độ bình quân là 11,36%/năm. Mọi con số tăng trưởng trong bài đều tính theo cách này.
+
+**Bản vị vàng (gold standard) và Cú sốc Nixon (Nixon shock).** Bản vị vàng là chế độ trong đó tiền có thể đổi ra vàng theo một tỷ lệ cố định. Năm 1971, Tổng thống Mỹ Richard Nixon đình chỉ việc đổi USD sang vàng; quyết định này được gọi là Cú sốc Nixon và chấm dứt bản vị vàng. Đây là mốc giải thích vì sao từ đó vàng trở thành "người phán xét" niềm tin vào tiền giấy.
+
+**Tiền pháp định (fiat money).** Tiền có giá trị nhờ niềm tin và luật pháp của nhà nước phát hành, không được bảo chứng bằng tài sản thật như vàng. Từ sau năm 1971, USD và hầu hết các đồng tiền đều là tiền pháp định. Khi niềm tin vào chúng lung lay, người ta tìm đến vàng.
+
+**Risk-off.** Trạng thái nhà đầu tư rút tiền khỏi các tài sản rủi ro (như cổ phiếu) để chuyển sang tài sản an toàn (như vàng). Năm 2025, quỹ ETF vàng SPDR Gold Shares ghi nhận dòng vốn vào mạnh nhất 5 năm, một biểu hiện của tâm lý này.
+
+**Dự trữ ngoại hối và vàng hoá (re-goldization).** Dự trữ ngoại hối là tài sản mà ngân hàng trung ương nắm giữ, gồm ngoại tệ, trái phiếu nước ngoài và vàng. Vàng hoá là xu hướng các ngân hàng trung ương tăng tỷ trọng vàng trong dự trữ. Theo bài, năm 2025 vàng chiếm 27% dự trữ toàn cầu, vượt trái phiếu Kho bạc Mỹ (23%), lần đầu tiên kể từ 1996.
+
+**Chiến lược trung bình giá (dollar-cost averaging).** Mua đều đặn một khoản theo tuần, tháng hoặc quý, để giá vốn là trung bình của nhiều thời điểm thay vì dồn vào một lúc. Bài khuyên mua vàng theo cách này.
+
+**Đòn bẩy, margin 1:100.** Ký quỹ 1 đồng để giao dịch một vị thế trị giá 100 đồng. Ví dụ minh hoạ: ký quỹ 10 triệu để mua vị thế vàng 1 tỷ; giá giảm 1% là lỗ 10 triệu, mất trắng số ký quỹ. Bài dùng ví dụ này để cảnh báo không dùng đòn bẩy cao khi giao dịch vàng.
+
+## Nội dung chi tiết
 
 ### 1. Cơn sốt vàng 4.300 USD/oz
-- Tháng 10/2025 vàng thế giới lập kỷ lục 4.300 USD/ounce, cao nhất lịch sử.
-- Giá vàng 20 năm: 2005 là 500 USD/oz; 2020 là 1.900 USD/oz; tháng 10/2025 là 4.300 USD/oz.
-- Tốc độ tăng bình quân theo lãi kép (bài nêu):
-  - "2005 – 2010": 9,31%/năm (tính lại: con số này ứng với 2005–2020, xem Lưu ý).
-  - 2020 – 2025: 17,75%/năm. Kiểm tra: 4.300/1.900 = 2,263; 2,263^(1/5) ≈ 1,1775, đúng 17,75%.
-  - 2005 – 2025: 11,36%/năm. Kiểm tra: 4.300/500 = 8,6; 8,6^(1/20) ≈ 1,1136, đúng 11,36%.
-- Mức tăng này thấp hơn tỷ suất lợi nhuận của các chứng khoán tốt, chứng chỉ quỹ "xịn", nhưng cao hơn nhiều so với nhiều tài sản khác.
-- ANZ, Reuters dự báo: "Vàng có thể đạt 4.400 USD cuối 2025, và thậm chí 4.600 USD giữa năm 2026."
-- Đằng sau là câu chuyện của niềm tin, của bất ổn và vai trò vàng trong thế giới tài chính đang thay đổi.
+
+Tháng 10/2025, giá vàng thế giới lập kỷ lục 4.300 USD/ounce, mức cao nhất trong lịch sử. Bài nhìn lại chặng đường 20 năm để đặt kỷ lục này vào bối cảnh:
+
+| Mốc | Giá vàng |
+|---|---|
+| Năm 2005 | 500 USD/oz |
+| Năm 2020 | 1.900 USD/oz |
+| Tháng 10/2025 | 4.300 USD/oz |
+
+Từ các mốc đó, bài tính tốc độ tăng bình quân theo lãi kép:
+
+| Giai đoạn | Tốc độ bình quân | Kiểm tra |
+|---|---|---|
+| Bài ghi "2005 – 2010" | 9,31%/năm | Con số này thực ra ứng với giai đoạn 2005–2020 (15 năm): (1.900/500)^(1/15) − 1 ≈ 9,31% |
+| 2020 – 2025 (5 năm) | 17,75%/năm | 4.300/1.900 = 2,263; 2,263^(1/5) ≈ 1,1775, đúng 17,75% |
+| 2005 – 2025 (20 năm) | 11,36%/năm | 4.300/500 = 8,6; 8,6^(1/20) ≈ 1,1136, đúng 11,36% |
+
+Bảng cho thấy tốc độ tăng của vàng đã nhanh lên rõ rệt trong 5 năm gần nhất so với 15 năm trước đó.
+
+Theo bài, mức tăng này thấp hơn tỷ suất lợi nhuận của các cổ phiếu tốt và các chứng chỉ quỹ "xịn", nhưng cao hơn nhiều so với nhiều loại tài sản khác. ANZ và Reuters dự báo: "Vàng có thể đạt 4.400 USD cuối 2025, và thậm chí 4.600 USD giữa năm 2026."
+
+Bài cho rằng đằng sau các con số là câu chuyện của niềm tin, của bất ổn, và của vai trò đang thay đổi của vàng trong thế giới tài chính.
 
 ### 2. Vàng, "đồng tiền vĩnh cửu" của nhân loại
-- Hơn 5.000 năm, vàng giữ vai trò chuẩn mực giá trị, vượt qua mọi đế chế, mọi đồng tiền giấy, mọi khủng hoảng.
-- Có giai đoạn biến động mạnh, như 2011 – 2015 giá giảm hơn 45%, nhưng dài hạn vẫn đi lên vì ba lý do:
-  - Nguồn cung hạn chế: mỗi năm thế giới chỉ khai thác khoảng 3.000 tấn, mỏ chất lượng cao ngày càng cạn.
-  - Nhu cầu liên tục tăng: ngân hàng trung ương, quỹ đầu tư, đặc biệt người dân châu Á (Ấn Độ, Trung Quốc, Việt Nam) xem vàng là tài sản trú ẩn an toàn nhất.
-  - Vàng đứng ngoài hệ thống nợ, không phụ thuộc chính phủ, lạm phát hay chính sách tiền tệ.
-- Năm 1971 Tổng thống Richard Nixon đình chỉ quy đổi USD sang vàng. "Cú sốc Nixon" chấm dứt bản vị vàng, mở ra thời kỳ tiền pháp định, tiền được bảo chứng bằng "niềm tin" chứ không phải tài sản thật.
-- Từ đó USD thống trị nhờ sức mạnh kinh tế, chính trị, quân sự của Mỹ; mỗi khi niềm tin lung lay (nợ công, lạm phát, khủng hoảng), vàng lại thành "người phán xét cuối cùng" của hệ thống tài chính.
-- Vàng không chỉ là kim loại quý mà là "ngôn ngữ của niềm tin", thứ tiền giấy và tiền số không thể thay thế hoàn toàn.
+
+Trong hơn 5.000 năm, vàng giữ vai trò chuẩn mực giá trị, tồn tại qua mọi đế chế, mọi đồng tiền giấy và mọi cuộc khủng hoảng.
+
+Vàng cũng có những giai đoạn biến động mạnh, như 2011 – 2015 giá giảm hơn 45%. Nhưng trong dài hạn, giá vàng vẫn đi lên, vì ba lý do:
+
+1. **Nguồn cung hạn chế.** Mỗi năm thế giới chỉ khai thác được khoảng 3.000 tấn vàng, và các mỏ chất lượng cao ngày càng cạn.
+2. **Nhu cầu liên tục tăng.** Ngân hàng trung ương, quỹ đầu tư, và đặc biệt người dân châu Á (Ấn Độ, Trung Quốc, Việt Nam) coi vàng là tài sản trú ẩn an toàn nhất.
+3. **Vàng đứng ngoài hệ thống nợ.** Vàng không phải là lời hứa trả nợ của ai, nên theo bài, nó không phụ thuộc vào chính phủ, lạm phát hay chính sách tiền tệ.
+
+**Từ bản vị vàng đến tiền pháp định.** Năm 1971, Tổng thống Richard Nixon đình chỉ việc quy đổi USD sang vàng. "Cú sốc Nixon" chấm dứt bản vị vàng và mở ra thời kỳ tiền pháp định, khi tiền được bảo chứng bằng "niềm tin" chứ không phải bằng tài sản thật. Từ đó USD thống trị nhờ sức mạnh kinh tế, chính trị và quân sự của Mỹ. Nhưng mỗi khi niềm tin ấy lung lay, vì nợ công, lạm phát hay khủng hoảng, vàng lại trở thành "người phán xét cuối cùng" của hệ thống tài chính.
+
+Bài kết luận phần này: vàng không chỉ là một kim loại quý mà là "ngôn ngữ của niềm tin", thứ mà tiền giấy và tiền số không thể thay thế hoàn toàn.
 
 ### 3. Vì sao vàng tăng mạnh năm 2025
-- Nhóm 1, bất ổn toàn cầu và tâm lý trú ẩn: chiến sự Nga - Ukraine, căng thẳng Mỹ - Trung, xung đột Trung Đông, nợ công châu Âu. Nhà đầu tư "chạy khỏi rủi ro"; các quỹ ETF vàng như SPDR Gold Shares ghi nhận dòng vốn vào mạnh nhất 5 năm, thể hiện tâm lý "risk-off".
-- Nhóm 2, trái phiếu Mỹ mất sức hấp dẫn, ngân hàng trung ương tăng tỷ trọng vàng:
-  - Nợ công Mỹ vượt 35.000 tỷ USD, rủi ro tài khóa tăng, USD yếu đi.
-  - Ngân hàng trung ương Trung Quốc, Ấn Độ, Nga, Thổ Nhĩ Kỳ, Ba Lan mua hơn 1.000 tấn vàng trong 2 năm 2024 và 2025, "chiếm hơn 30% tổng cầu vàng" (xem Lưu ý).
-  - Lần đầu tiên kể từ 1996, theo IMF và World Gold Council, tỷ trọng vàng trong dự trữ toàn cầu đạt 27%, vượt tỷ lệ trái phiếu Kho bạc Mỹ 23%, một sự đảo chiều mang tính lịch sử.
-- Nhiều thập kỷ trái phiếu Mỹ là "tài sản an toàn cuối cùng"; nay ngân hàng trung ương coi vàng là bảo hiểm chủ quyền tài chính quốc gia. Thế giới bước vào thời kỳ "vàng hóa" (re-goldization), xu hướng bài cho là "gần như không thể đảo ngược".
+
+Trên nền tảng dài hạn đó, năm 2025 có thêm hai nhóm chất xúc tác.
+
+**Nhóm 1: bất ổn toàn cầu và tâm lý trú ẩn.** Chiến sự Nga - Ukraine, căng thẳng Mỹ - Trung, xung đột Trung Đông và nợ công châu Âu khiến nhà đầu tư "chạy khỏi rủi ro". Các quỹ ETF vàng như SPDR Gold Shares ghi nhận dòng vốn vào mạnh nhất trong 5 năm, thể hiện rõ tâm lý "risk-off".
+
+**Nhóm 2: trái phiếu Mỹ mất sức hấp dẫn, ngân hàng trung ương tăng tỷ trọng vàng.**
+
+- Nợ công Mỹ vượt 35.000 tỷ USD, rủi ro tài khoá tăng và USD yếu đi.
+- Ngân hàng trung ương Trung Quốc, Ấn Độ, Nga, Thổ Nhĩ Kỳ, Ba Lan mua hơn 1.000 tấn vàng trong 2 năm 2024 và 2025, theo bài "chiếm hơn 30% tổng cầu vàng". Cần đọc con số này thận trọng: với nguồn cung khai thác khoảng 3.000 tấn mỗi năm, 1.000 tấn trong hai năm khó đạt tới 30% tổng cầu; con số chỉ hợp lý nếu là khoảng 1.000 tấn mỗi năm.
+- Theo IMF và World Gold Council, lần đầu tiên kể từ 1996, tỷ trọng vàng trong dự trữ toàn cầu đạt 27%, vượt tỷ lệ trái phiếu Kho bạc Mỹ là 23%. Bài gọi đây là một sự đảo chiều mang tính lịch sử.
+
+Trong nhiều thập kỷ, trái phiếu Mỹ được coi là "tài sản an toàn cuối cùng". Nay các ngân hàng trung ương coi vàng là thứ bảo hiểm cho chủ quyền tài chính quốc gia. Theo bài, thế giới đã bước vào thời kỳ "vàng hoá" (re-goldization), một xu hướng mà bài cho là "gần như không thể đảo ngược".
 
 ### 4. Gợi ý cho nhà đầu tư
-- Đầu tư dài hạn: xem vàng là công cụ bảo toàn giá trị để tích sản, không phải công cụ đầu cơ.
-  - Giữ 10% – 15% danh mục tài sản bằng vàng.
-  - Ưu tiên vàng vật chất hoặc ETF vàng chuẩn.
-  - Hạn chế đầu cơ ngắn hạn, tập trung bảo toàn vốn.
-- Lưu ý quan trọng:
-  - Mua đều đặn theo tuần, tháng, quý, tức chiến lược "trung bình giá".
-  - Đừng dùng đòn bẩy cao: với margin 1:100, chỉ cần giá điều chỉnh 0,8% – 1% là tài khoản có thể cháy. (Kiểm tra: đòn bẩy 100 lần nghĩa là ký quỹ 1% giá trị vị thế; giá đi ngược 1% là mất toàn bộ ký quỹ, và sàn thường đóng vị thế sớm hơn ở mức 0,8% khi tỷ lệ ký quỹ chạm ngưỡng.)
-  - Rất nhiều trader đoán đúng xu hướng tăng vẫn thua lỗ, vì vàng thường "nhúng xuống" trước khi bật lên hoặc "điều chỉnh mạnh" ngay sau giai đoạn tăng.
-- Vàng không dành cho người nóng vội nhưng bảo vệ người kiên nhẫn.
-- Bài kết: câu chuyện giá vàng Việt Nam "còn hấp dẫn và gay cấn hơn nhiều" (không trình bày trong bài này).
+
+**Đầu tư dài hạn.** Hãy xem vàng là công cụ bảo toàn giá trị để tích sản, không phải công cụ đầu cơ. Cụ thể:
+
+- giữ 10% – 15% danh mục tài sản bằng vàng;
+- ưu tiên vàng vật chất hoặc ETF vàng chuẩn;
+- hạn chế đầu cơ ngắn hạn, tập trung bảo toàn vốn.
+
+**Ví dụ minh hoạ.** Với danh mục 500 triệu đồng, mức 10% – 15% tương đương 50–75 triệu đồng nắm giữ bằng vàng.
+
+**Ba lưu ý quan trọng.**
+
+1. **Mua đều đặn** theo tuần, tháng hoặc quý, tức chiến lược "trung bình giá", thay vì dồn tiền vào một thời điểm.
+2. **Đừng dùng đòn bẩy cao.** Với margin 1:100, chỉ cần giá điều chỉnh 0,8% – 1% là tài khoản có thể cháy. Lý do: đòn bẩy 100 lần nghĩa là ký quỹ chỉ bằng 1% giá trị vị thế; giá đi ngược 1% là mất toàn bộ ký quỹ, và sàn thường đóng vị thế sớm hơn, ở khoảng 0,8%, khi tỷ lệ ký quỹ chạm ngưỡng.
+3. **Đoán đúng xu hướng chưa đủ.** Rất nhiều trader đoán đúng là vàng sẽ tăng mà vẫn thua lỗ, vì vàng thường "nhúng xuống" trước khi bật lên, hoặc "điều chỉnh mạnh" ngay sau một giai đoạn tăng. Người dùng đòn bẩy có thể bị thanh lý trong cú nhúng đó, trước khi xu hướng kịp diễn ra.
+
+Bài tóm lại: vàng không dành cho người nóng vội, nhưng bảo vệ người kiên nhẫn. Cuối bài, tác giả hứa hẹn câu chuyện giá vàng Việt Nam "còn hấp dẫn và gay cấn hơn nhiều", nhưng không trình bày trong bài này.
 
 ## Thuật ngữ
 

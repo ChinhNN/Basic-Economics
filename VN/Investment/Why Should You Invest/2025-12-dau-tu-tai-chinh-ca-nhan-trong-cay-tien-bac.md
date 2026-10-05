@@ -47,27 +47,55 @@
 2. Những nguyên tắc nào giúp người bình thường đầu tư bền vững (đều đặn, đa dạng hoá, lãi kép, tránh rủi ro cao)?
 3. Bắt đầu đầu tư theo trình tự và khung ra quyết định nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Đầu tư (investment).** Dùng những gì mình đang có, như tiền bạc, thời gian, kiến thức, để nhận lại một giá trị lớn hơn trong tương lai. Điều kiện là phải tính toán rõ ràng và có kỳ vọng giá trị gia tăng, chứ không dựa vào may rủi hay tin đồn. Ví dụ minh hoạ: bỏ 20 triệu học một khoá kỹ năng để lương tăng thêm 2 triệu mỗi tháng cũng là đầu tư. Bài dùng nghĩa rộng này, gồm cả đầu tư vào bản thân, kinh doanh và tài sản tài chính.
+
+**Công thức 20–50–30.** Cách chia thu nhập hằng tháng: 20% để tích luỹ (rồi đem đầu tư), 50% cho nhu cầu thiết yếu, 30% cho nhu cầu mong muốn. Ví dụ minh hoạ: thu nhập 15 triệu thì tích luỹ 3 triệu, chi thiết yếu 7,5 triệu, chi mong muốn 4,5 triệu. Phần 20% này chính là "hạt giống" để đầu tư.
+
+**Quỹ khẩn cấp (emergency fund).** Khoản tiền để sẵn, đủ chi tiêu 3–6 tháng, dùng khi mất việc, ốm đau hay có việc gấp. Ví dụ minh hoạ: chi tiêu 10 triệu mỗi tháng thì quỹ khẩn cấp nên khoảng 30–60 triệu. Đây là bước đầu tiên trong lộ trình của bài, vì có nó thì không phải bán tài sản đầu tư vào lúc bất lợi.
+
+**Lãi kép (compound interest).** Tiền lời được để lại và tái đầu tư, nên kỳ sau tiền lời lại sinh thêm lời. Ví dụ trong bài: góp 3 triệu mỗi tháng, lãi 1%/tháng trong 240 tháng (20 năm), tổng tiền gốc chỉ 720 triệu nhưng cuối kỳ có khoảng 2.967 triệu đồng. Bài gọi đây là "phép màu của thời gian".
+
+**Đa dạng hoá (diversification).** Chia tiền vào nhiều loại tài sản khác nhau để một tài sản giảm giá không kéo cả danh mục đi xuống. Câu quen thuộc là "không bỏ hết trứng vào một giỏ"; bài gọi lợi ích của nó là "giảm sốc, ngủ ngon".
+
+**Khẩu vị rủi ro (risk appetite).** Mức thua lỗ, biến động mà một người chấp nhận được mà không hoảng loạn. Ví dụ minh hoạ: người chịu được việc danh mục tạm giảm 30% có khẩu vị rủi ro cao hơn người chỉ chịu được giảm 5%. Bài đặt việc đánh giá khẩu vị rủi ro thành một bước trong khung ra quyết định.
+
+**Phân bổ tài sản (asset allocation).** Quyết định mỗi kênh đầu tư chiếm bao nhiêu phần trăm danh mục. Ví dụ trong bài: danh mục của bạn Hùng gồm 20% tiết kiệm, 50% quỹ và cổ phiếu, 20% vàng, 10% tiền mã hoá.
+
+**Chứng chỉ quỹ, ETF và đơn vị giữ tài sản (custodian).** Chứng chỉ quỹ là phần sở hữu trong một quỹ mở do công ty chuyên nghiệp quản lý; ETF là quỹ hoán đổi danh mục, mô phỏng một chỉ số và giao dịch trên sàn. Đơn vị giữ tài sản là tổ chức lưu ký giữ hộ tài sản của quỹ hoặc nhà đầu tư, tách khỏi người quản lý tiền. Bài coi "đơn vị giữ tài sản uy tín" là một trong ba điều kiện an toàn.
+
+## Nội dung chi tiết
 
 ### 1. Mở bài: đầu tư trong tài chính cá nhân
-- Là cách dùng phần tiền tích luỹ hằng tháng hoặc hằng năm để tăng trưởng tài sản, hình thành quỹ tài chính cá nhân giúp:
-  - Đạt an toàn tài chính.
-  - Có khả năng mua tài sản giá trị lớn.
-  - Dần tiến tới độc lập, tự do tài chính.
-- Hình ảnh: trồng cây tiền bạc, gieo đều, chăm kỹ để hái quả lâu dài.
+
+Trong tài chính cá nhân, đầu tư là cách dùng phần tiền tích luỹ hằng tháng hoặc hằng năm để làm tài sản tăng lên, dần hình thành một quỹ tài chính cá nhân. Quỹ này giúp người ta đạt ba mục tiêu:
+
+- đạt an toàn tài chính, tức không bị chao đảo khi có biến cố;
+- có khả năng mua những tài sản giá trị lớn, như nhà, xe;
+- dần tiến tới độc lập, tự do tài chính.
+
+Tác giả dùng hình ảnh "trồng cây tiền bạc": gieo đều, chăm kỹ, rồi kiên nhẫn để hái quả lâu dài. Cây không lớn trong một ngày, và tài sản cũng vậy.
 
 ### 2. Đầu tư là gì
-- Định nghĩa: sử dụng tài nguyên hiện có (tiền bạc, thời gian, kiến thức) để tạo lợi ích trong tương lai; giá trị nhận lại phải lớn hơn những gì bỏ ra; cần tính toán rõ, có kỳ vọng giá trị gia tăng, không dựa vào may rủi hay tin đồn.
-- Ví dụ các loại đầu tư:
-  - Vào bản thân: học kiến thức, kỹ năng, bằng cấp để có nghề ổn định hoặc tăng thu nhập.
-  - Kinh doanh: mở quán cà phê, nhà hàng, khởi nghiệp thương mại.
-  - Hùn vốn vào doanh nghiệp: cùng người khác làm ăn, chia lợi nhuận.
-  - Tài sản tài chính: gửi tiết kiệm, chứng chỉ quỹ, cổ phiếu.
-  - Bất động sản: mua nhà đất cho thuê hoặc chờ tăng giá.
-- Mọi hình thức đều có rủi ro; không loại bỏ hoàn toàn được, nhưng cần biết quản lý.
+
+Đầu tư là sử dụng tài nguyên hiện có, gồm tiền bạc, thời gian và kiến thức, để tạo lợi ích trong tương lai. Giá trị nhận lại phải lớn hơn những gì đã bỏ ra. Để được gọi là đầu tư, việc đó cần tính toán rõ ràng, có kỳ vọng giá trị gia tăng, không dựa vào may rủi hay tin đồn.
+
+Theo định nghĩa này, có rất nhiều loại đầu tư:
+
+| Loại đầu tư | Ví dụ trong bài |
+|---|---|
+| Vào bản thân | Học kiến thức, kỹ năng, lấy bằng cấp để có nghề ổn định hoặc tăng thu nhập |
+| Kinh doanh | Mở quán cà phê, nhà hàng, khởi nghiệp thương mại |
+| Hùn vốn vào doanh nghiệp | Cùng người khác làm ăn, chia lợi nhuận |
+| Tài sản tài chính | Gửi tiết kiệm, chứng chỉ quỹ, cổ phiếu |
+| Bất động sản | Mua nhà đất để cho thuê hoặc chờ tăng giá |
+
+Mọi hình thức đầu tư đều có rủi ro. Rủi ro không thể loại bỏ hoàn toàn, nhưng có thể và cần được quản lý.
 
 ### 3. Đầu tư trong tài chính cá nhân
-- Mục tiêu: kiếm tiền, tạo thu nhập ở mức cao nhất có thể, rồi dùng thu nhập theo công thức 20%–50%–30%:
+
+**Thứ tự: kiếm, chia, tích luỹ, đầu tư.** Mục tiêu đầu tiên là kiếm tiền, tạo thu nhập ở mức cao nhất có thể. Sau đó dùng thu nhập theo công thức 20%–50%–30%:
 
 | Tỷ lệ | Dùng cho |
 |---|---|
@@ -75,32 +103,67 @@
 | 50% | Nhu cầu thiết yếu |
 | 30% | Nhu cầu mong muốn |
 
-- Phần tích luỹ cần đầu tư vào tài sản sinh lời để: tạo quỹ khẩn cấp, mua tài sản lớn, tiến tới tự do tài chính, chuẩn bị hưu trí.
-- Ba nguyên tắc: đầu tư đều đặn, không để tiền nằm im; hiểu rõ tài sản đầu tư; đa dạng hoá để giảm rủi ro.
-- Các kênh phổ biến: tiết kiệm ngân hàng; chứng chỉ quỹ/ETF; cổ phiếu; vàng; bất động sản; tài sản rủi ro cao (tiền mã hoá…).
-- Bắt đầu từ nhỏ: 1–2–3 triệu đồng mỗi tháng cũng đủ nếu duy trì đều và lâu dài; nguyên lý "nhỏ giọt thành sông": đầu tư đều đặn → tái đầu tư → lãi kép → tài sản lớn dần.
+Phần 20% tích luỹ không nên để nằm im mà cần được đầu tư vào tài sản sinh lời, phục vụ bốn mục tiêu nối tiếp nhau: tạo quỹ khẩn cấp, mua tài sản lớn, tiến tới tự do tài chính và chuẩn bị cho tuổi hưu trí.
+
+**Ba nguyên tắc.**
+
+1. Đầu tư đều đặn, không để tiền nằm im.
+2. Hiểu rõ tài sản mình đầu tư.
+3. Đa dạng hoá để giảm rủi ro.
+
+**Các kênh phổ biến.** Tiết kiệm ngân hàng; chứng chỉ quỹ, ETF; cổ phiếu; vàng; bất động sản; và các tài sản rủi ro cao như tiền mã hoá.
+
+**Bắt đầu từ nhỏ.** Không cần nhiều vốn: 1–2–3 triệu đồng mỗi tháng cũng đủ, miễn là duy trì đều và lâu dài. Nguyên lý là "nhỏ giọt thành sông": đầu tư đều đặn, tái đầu tư tiền lời, để lãi kép làm việc và tài sản lớn dần.
 
 ### 4. Những điểm quan trọng
-- 4.1 Đa dạng hoá, "giảm sốc, ngủ ngon": không bỏ hết trứng vào một giỏ. Ví dụ bạn Hùng: 20% tiết kiệm, 50% quỹ/cổ phiếu, 20% vàng, 10% tiền mã hoá.
-- 4.2 Lãi kép, "phép màu của thời gian": đầu tư đều và tái đầu tư lợi nhuận.
-  - 3 triệu/tháng, lãi 12%/năm, sau 20 năm có khoảng 2.967 triệu đồng.
-  - 10 triệu/tháng, sau 20 năm có gần 9.892 triệu đồng.
-  - Kiểm tra: với lãi 1%/tháng, giá trị tương lai của chuỗi góp đều là PMT × [(1,01^240 − 1) ÷ 0,01] = PMT × 989,26. Ra 3 × 989,26 ≈ 2.967,8 triệu và 10 × 989,26 ≈ 9.892,6 triệu; khớp với bài. Tiền gốc góp vào lần lượt là 720 triệu và 2,4 tỷ đồng.
-- 4.3 Tránh rủi ro cao và cám dỗ làm giàu nhanh: lợi nhuận càng cao rủi ro càng lớn; chỉ dành 5–10% vốn cho kênh rủi ro cao; kiên nhẫn và kỷ luật là lợi thế bền vững.
-- 4.4 Bảo vệ vốn, hiểu rõ mình đầu tư gì, đủ ba yếu tố mới an toàn, bền vững:
-  - Pháp lý rõ ràng.
-  - Đơn vị giữ tài sản uy tín.
-  - Hiểu rõ nguồn gốc lợi nhuận.
-- 4.5 Khung ra quyết định năm bước: xác định mục tiêu → xác định thời gian đầu tư → đánh giá khẩu vị rủi ro → phân bổ tài sản → kỷ luật và theo dõi.
-- 4.6 Lộ trình bắt đầu ngay:
-  1. Xây quỹ khẩn cấp 3–6 tháng chi tiêu.
-  2. Tự động trích 20% thu nhập để đầu tư.
-  3. Mua đều đặn chứng chỉ quỹ hoặc cổ phiếu chất lượng.
-  4. Thêm vàng, bất động sản nếu đủ vốn và hiểu rõ.
-  5. Ghi nhật ký đầu tư, bám sát kế hoạch.
+
+**4.1 Đa dạng hoá, "giảm sốc, ngủ ngon".** Không bỏ hết trứng vào một giỏ. Khi tiền được chia ra nhiều kênh, một kênh giảm giá mạnh cũng không làm cả danh mục sụp đổ, nên người đầu tư không bị "sốc" và ngủ yên hơn. Bài đưa ví dụ phân bổ của bạn Hùng:
+
+| Kênh | Tỷ trọng |
+|---|---|
+| Tiết kiệm | 20% |
+| Quỹ, cổ phiếu | 50% |
+| Vàng | 20% |
+| Tiền mã hoá | 10% |
+
+**4.2 Lãi kép, "phép màu của thời gian".** Lãi kép chỉ phát huy khi đầu tư đều và tái đầu tư lợi nhuận. Bài đưa hai ví dụ với lãi 12%/năm trong 20 năm:
+
+| Góp mỗi tháng | Số tháng | Tiền gốc góp vào | Giá trị sau 20 năm |
+|---|---|---|---|
+| 3 triệu | 240 | 720 triệu | khoảng 2.967 triệu (khoảng 2,97 tỷ) |
+| 10 triệu | 240 | 2,4 tỷ | gần 9.892 triệu (khoảng 9,89 tỷ) |
+
+Có thể kiểm tra lại các con số này nếu hiểu 12%/năm là 1%/tháng, nhập lãi hằng tháng. Giá trị tương lai của một chuỗi khoản góp đều bằng PMT × [(1,01^240 − 1) ÷ 0,01] = PMT × 989,26, trong đó PMT là số tiền góp mỗi tháng. Thay vào: 3 × 989,26 ≈ 2.967,8 triệu và 10 × 989,26 ≈ 9.892,6 triệu, khớp với bài. Với khoản góp 3 triệu, tiền gốc chỉ 720 triệu, phần còn lại khoảng 2,25 tỷ hoàn toàn là lãi và lãi của lãi. Đó là lý do bài gọi đây là phép màu của thời gian: càng để lâu, phần lãi sinh ra từ lãi càng lớn.
+
+**4.3 Tránh rủi ro cao và cám dỗ làm giàu nhanh.** Lợi nhuận càng cao thì rủi ro càng lớn. Bài khuyên chỉ dành 5–10% vốn cho các kênh rủi ro cao. Kiên nhẫn và kỷ luật mới là lợi thế bền vững của người đầu tư cá nhân.
+
+**4.4 Bảo vệ vốn, hiểu rõ mình đầu tư gì.** Một khoản đầu tư chỉ an toàn và bền vững khi có đủ ba yếu tố:
+
+- pháp lý rõ ràng;
+- đơn vị giữ tài sản uy tín;
+- hiểu rõ nguồn gốc lợi nhuận.
+
+Thiếu một trong ba, mọi nguyên tắc khác như đa dạng hoá hay lãi kép đều không bảo vệ được số tiền đã bỏ vào.
+
+**4.5 Khung ra quyết định năm bước.** Trước khi chọn kênh, hãy đi qua năm bước theo thứ tự:
+
+1. Xác định mục tiêu.
+2. Xác định thời gian đầu tư.
+3. Đánh giá khẩu vị rủi ro.
+4. Phân bổ tài sản.
+5. Giữ kỷ luật và theo dõi.
+
+**4.6 Lộ trình bắt đầu ngay.**
+
+1. Xây quỹ khẩn cấp đủ 3–6 tháng chi tiêu.
+2. Tự động trích 20% thu nhập để đầu tư.
+3. Mua đều đặn chứng chỉ quỹ hoặc cổ phiếu chất lượng.
+4. Thêm vàng, bất động sản nếu đủ vốn và hiểu rõ.
+5. Ghi nhật ký đầu tư và bám sát kế hoạch.
 
 ### 5. Kết luận
-- Làm đúng thứ tự: kiếm tiền tử tế → chi tiêu hợp lý → tích luỹ → đầu tư phù hợp. Đa dạng hoá, tận dụng lãi kép, hiểu rõ tài sản và tránh rủi ro cao là nền tảng của an toàn và tự do tài chính.
+
+Bài kết bằng một trình tự: kiếm tiền tử tế, chi tiêu hợp lý, tích luỹ, rồi mới đầu tư phù hợp. Làm sai thứ tự, ví dụ đầu tư khi chưa có quỹ khẩn cấp hay khi chưa kiểm soát được chi tiêu, thì cây tiền bạc khó lớn. Đa dạng hoá, tận dụng lãi kép, hiểu rõ tài sản mình nắm và tránh rủi ro cao là nền tảng để đi tới an toàn và tự do tài chính.
 
 ## Thuật ngữ
 

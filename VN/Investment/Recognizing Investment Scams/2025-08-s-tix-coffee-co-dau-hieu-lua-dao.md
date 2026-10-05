@@ -47,39 +47,81 @@
 2. Vì sao cổ đông không thể được cam kết lợi nhuận, và cam kết đó thực chất là gì?
 3. Nhà đầu tư nên tự hỏi gì trước khi rót vốn vào doanh nghiệp chưa niêm yết, và có thể làm gì về mặt pháp lý khi đã bị lừa?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Vốn vay (debt).** Tiền doanh nghiệp đi vay từ người quen, ngân hàng hoặc bằng cách phát hành trái phiếu. Doanh nghiệp bắt buộc phải trả lãi và gốc đúng hạn, dù kinh doanh lời hay lỗ; không trả được thì có thể phá sản. Theo bài, lãi vay nhìn chung khoảng 6–12%/năm. Ví dụ minh hoạ: vay 1 tỷ đồng với lãi 10%/năm thì mỗi năm phải trả 100 triệu tiền lãi.
+
+**Vốn chủ sở hữu (equity).** Tiền cổ đông góp vào để trở thành chủ doanh nghiệp. Cổ đông không được hứa trước một mức lời nào: doanh nghiệp lời thì họ được chia nhiều, lỗ thì họ chịu thiệt, đúng nguyên tắc "lời ăn lỗ chịu". Phân biệt hai loại vốn này là chìa khoá của bài: S.Tix gọi người góp tiền là "nhà đầu tư" nhưng lại hứa trả lời cố định như một khoản vay.
+
+**ROE (return on equity).** Lợi nhuận trên vốn chủ sở hữu, tức một năm doanh nghiệp làm ra bao nhiêu lời trên mỗi đồng vốn của cổ đông. Ví dụ minh hoạ: cổ đông góp 100 tỷ, lợi nhuận năm là 30 tỷ thì ROE là 30%. Bài nêu nhiều doanh nghiệp tốt trên sàn có ROE 30–40%, nhưng không doanh nghiệp nào dám cam kết mức đó với cổ đông.
+
+**Thời gian hoàn vốn (payback period).** Số năm cần để tiền kiếm được từ kinh doanh bù lại số vốn bỏ ra ban đầu. Ví dụ minh hoạ: bỏ 600 triệu mở quán, mỗi năm lời 100 triệu thì cần 6 năm để hoàn vốn. Theo bài, doanh nghiệp khởi nghiệp thường cần trung bình 5–8 năm; vì vậy việc S.Tix trả lời ngay khi điểm bán chưa hoạt động là bất thường.
+
+**Lời ròng (net profit).** Phần lợi nhuận còn lại sau khi trừ mọi chi phí. Một doanh nghiệp có thể có doanh thu lớn mà chưa có lời ròng trong nhiều năm.
+
+**Doanh nghiệp chưa niêm yết và cơ chế giám sát.** Doanh nghiệp chưa niêm yết là doanh nghiệp không có cổ phiếu giao dịch trên sàn chứng khoán, nên không bị bắt buộc công bố thông tin rộng rãi. Cơ chế giám sát là quyền của nhà đầu tư được kiểm tra việc dùng vốn và kết quả kinh doanh. Khi góp tiền vào loại doanh nghiệp này mà không có quyền giám sát, nhà đầu tư không biết tiền của mình đi đâu.
+
+**Lừa đảo chiếm đoạt tài sản.** Tội theo Điều 174 Bộ luật Hình sự 2015 (sửa đổi, bổ sung 2017): dùng thủ đoạn gian dối để lấy tài sản của người khác. Khoản 2 của điều này áp dụng khi phạm tội có tổ chức, có tính chất chuyên nghiệp, với mức phạt tù 2–7 năm. Điểm quan trọng: tội hoàn thành ngay khi nạn nhân giao tiền.
+
+## Nội dung chi tiết
 
 ### 1. Nạn nhân
-- Chị Ngọc Ánh (quận 4, TP.HCM) gửi đơn tố cáo S.Tix Coffee và giám đốc Đinh Công Đạt lên các cấp chính quyền hơn 1 tháng nhưng chưa được hồi âm.
-- Chị đầu tư 835 triệu đồng; nếu công ty đúng cam kết thì lời ít nhất 250 triệu sau một năm, tức lãi khoảng 30%/năm (250/835 ≈ 29,9%).
-- Đến nay chị chưa nhận đủ tiền tháng đầu tiên; số tiền hai vợ chồng dành dụm để làm đám cưới sau dịch biến mất cùng S.Tix.
-- Anh Phát (TP.HCM) đầu tư hơn 1,8 tỷ đồng.
+
+Bài mở đầu bằng câu chuyện của những người đã góp tiền vào S.Tix Coffee.
+
+Chị Ngọc Ánh (quận 4, TP.HCM) đã gửi đơn tố cáo S.Tix Coffee và giám đốc Đinh Công Đạt lên các cấp chính quyền hơn 1 tháng nhưng chưa nhận được hồi âm. Chị đầu tư 835 triệu đồng. Nếu công ty làm đúng cam kết, sau một năm chị sẽ lời ít nhất 250 triệu đồng, tức khoảng 30%/năm (250/835 ≈ 29,9%). Thực tế, chị còn chưa nhận đủ tiền của tháng đầu tiên. Đây là số tiền hai vợ chồng dành dụm để làm đám cưới sau dịch, và nó đã biến mất cùng S.Tix.
+
+Một nạn nhân khác là anh Phát (TP.HCM), người đã đầu tư hơn 1,8 tỷ đồng.
 
 ### 2. Dấu hiệu lừa đảo theo ông Lâm Minh Chánh
-- Hầu hết doanh nghiệp khởi nghiệp cần trung bình 5–8 năm để hoàn vốn trước khi có lãi; chỉ một số doanh nghiệp nhỏ, ngành đặc biệt mới có lời ngay năm đầu.
-- "99,99% doanh nghiệp với số vốn trên 50 tỷ cần thời gian dài kinh doanh mới có lời ròng"; S.Tix tuyên bố trả lợi nhuận ngay từ lúc chưa hoạt động là không khả thi.
-- Khi anh Phát hỏi, nhân viên sales giải thích đây là hình thức "doanh nghiệp tri ân, đảm bảo lợi ích cho nhà đầu tư".
-- Xem số liệu kinh doanh hằng tháng các điểm bán, anh Phát thấy số ly cà phê mang đi gần như không chênh giữa ngày nắng và ngày mưa, ngày thường và cuối tuần.
-- S.Tix giải thích họ "cố gắng cân đối và bù đắp" để anh vẫn nhận đủ ít nhất 20 triệu đồng/tháng/hợp đồng.
+
+**Trả lời trước khi kinh doanh.** Theo ông Chánh, hầu hết doanh nghiệp khởi nghiệp cần trung bình 5–8 năm để hoàn vốn rồi mới có lãi; chỉ một số doanh nghiệp nhỏ, trong ngành đặc biệt, mới có lời ngay năm đầu. Ông nói: "99,99% doanh nghiệp với số vốn trên 50 tỷ cần thời gian dài kinh doanh mới có lời ròng". Vì thế, việc S.Tix tuyên bố trả lợi nhuận ngay từ khi điểm bán chưa hoạt động là không khả thi. Một khoản lời trả trước khi có hoạt động kinh doanh chỉ có thể lấy từ tiền vốn của chính người góp hoặc của người góp sau.
+
+**Lời giải thích mơ hồ.** Khi anh Phát hỏi vì sao được trả lời sớm như vậy, nhân viên bán hàng giải thích đó là hình thức "doanh nghiệp tri ân, đảm bảo lợi ích cho nhà đầu tư". Đây không phải một lời giải thích kinh doanh.
+
+**Doanh số phẳng bất thường.** Xem số liệu kinh doanh hằng tháng của các điểm bán, anh Phát thấy số ly cà phê mang đi gần như không chênh lệch giữa ngày nắng và ngày mưa, giữa ngày thường và cuối tuần. Một quán cà phê thật luôn bán nhiều hơn vào ngày đẹp trời và cuối tuần, nên số liệu phẳng như vậy là dấu hiệu bị làm ra.
+
+**"Cân đối, bù đắp".** Khi được hỏi, S.Tix giải thích họ "cố gắng cân đối và bù đắp" để anh Phát vẫn nhận đủ ít nhất 20 triệu đồng mỗi tháng cho mỗi hợp đồng. Nói cách khác, khoản trả cho nhà đầu tư không phụ thuộc vào việc bán được bao nhiêu cà phê.
 
 ### 3. Lời ăn lỗ chịu: bản chất vốn
-- Doanh nghiệp có hai loại vốn: vốn vay và vốn chủ sở hữu (vốn cổ đông).
-- Vốn vay từ người quen, ngân hàng, trái phiếu: lãi nhìn chung 6–12%/năm, phải trả nếu không muốn phá sản.
-- Vốn cổ đông: doanh nghiệp không cam kết. Nhiều doanh nghiệp tốt trên sàn có ROE 30–40% nhưng không doanh nghiệp nào cam kết tỷ suất lợi nhuận với cổ đông.
-- "Cổ đông là ông chủ của doanh nghiệp thì phải 'lời ăn lỗ chịu'." S.Tix cam kết lợi nhuận cao cho cổ đông nghĩa là biến cổ đông thành người cho vay lãi cao; lãi 26–30%/năm thì không doanh nghiệp nào trả nổi.
+
+Ông Chánh giải thích vì sao cam kết lợi nhuận cho cổ đông là dấu hiệu lừa đảo bằng cách phân biệt hai loại vốn của doanh nghiệp:
+
+| | Vốn vay | Vốn chủ sở hữu (vốn cổ đông) |
+|---|---|---|
+| Nguồn | Người quen, ngân hàng, trái phiếu | Cổ đông góp vào |
+| Chi phí | Lãi nhìn chung 6–12%/năm | Không có mức cố định |
+| Có bắt buộc trả không | Có, nếu không muốn phá sản | Không; doanh nghiệp không cam kết gì |
+| Ví dụ | Khoản vay ngân hàng | Nhiều doanh nghiệp tốt trên sàn có ROE 30–40% nhưng không doanh nghiệp nào cam kết tỷ suất lợi nhuận với cổ đông |
+
+Ông nói: "Cổ đông là ông chủ của doanh nghiệp thì phải 'lời ăn lỗ chịu'." Khi S.Tix cam kết trả lợi nhuận cao cho cổ đông, công ty đã biến cổ đông thành người cho vay với lãi suất cao. Mức lãi 26–30%/năm như vậy thì không doanh nghiệp nào trả nổi, càng không thể khi điểm bán còn chưa hoạt động. Một doanh nghiệp làm ăn tử tế có thể vay ngân hàng với lãi 6–12%, nên không có lý do gì đi vay với giá gấp mấy lần như thế.
 
 ### 4. Trách nhiệm của nhà đầu tư
-- Đầu tư vào doanh nghiệp chưa niêm yết phải nắm rõ uy tín và có cơ chế giám sát doanh nghiệp.
-- Ở vụ này nhà đầu tư không giám sát được việc dùng vốn và kết quả kinh doanh; vì thế hàng trăm tỷ được đổ vào chỉ cho số ít cửa hàng.
-- Ba câu tự hỏi: doanh nghiệp có uy tín không? có công khai minh bạch tài chính không? mô hình, chiến lược, cách tạo giá trị và lợi nhuận là gì? Chưa trả lời được thì khoan đầu tư.
-- "Không bao giờ có bữa trưa miễn phí" luôn đúng trong đầu tư và kinh doanh.
+
+Ông Chánh cũng nhắc tới phần trách nhiệm của người bỏ tiền. Đầu tư vào doanh nghiệp chưa niêm yết thì phải nắm rõ uy tín của doanh nghiệp và phải có cơ chế giám sát doanh nghiệp. Trong vụ này, nhà đầu tư không giám sát được việc sử dụng vốn và kết quả kinh doanh. Hậu quả là hàng trăm tỷ đồng được đổ vào nhưng chỉ có số ít cửa hàng.
+
+Trước khi đầu tư, hãy tự hỏi ba câu:
+
+1. Doanh nghiệp có uy tín không?
+2. Doanh nghiệp có công khai, minh bạch tài chính không?
+3. Mô hình kinh doanh, chiến lược, cách tạo ra giá trị và lợi nhuận là gì?
+
+Chưa trả lời được cả ba câu thì khoan đầu tư. Và nguyên tắc "không bao giờ có bữa trưa miễn phí" luôn đúng trong đầu tư và kinh doanh.
 
 ### 5. Góc độ pháp lý (luật sư Hà Hải)
-- Vụ việc có dấu hiệu chiếm đoạt tài sản, đặc biệt của những người góp vốn sau cùng.
-- Khoản 2 Điều 174 Bộ luật Hình sự 2015 (sửa đổi, bổ sung 2017): dùng thủ đoạn gian dối chiếm đoạt tài sản một cách có tổ chức, có tính chất chuyên nghiệp, phạt tù 2–7 năm.
-- Cơ quan thẩm quyền vẫn phải xem xét kỹ hợp đồng và tài liệu, chứng cứ để xác định chính xác.
-- Nhà đầu tư nên nhờ luật sư tư vấn soạn đơn tố giác tội phạm gửi cơ quan công an.
-- "Tội lừa đảo hoàn thành ngay khi giao tài sản là tiền, hoàn toàn không thể chờ 3 năm sau S.Tix Coffee trả hay không trả mới truy cứu trách nhiệm hình sự."
+
+Luật sư Hà Hải (Đoàn luật sư TP.HCM) nhận định vụ việc có dấu hiệu chiếm đoạt tài sản, đặc biệt là tài sản của những người góp vốn sau cùng.
+
+Hành vi này có thể thuộc khoản 2 Điều 174 Bộ luật Hình sự 2015 (sửa đổi, bổ sung 2017): dùng thủ đoạn gian dối chiếm đoạt tài sản một cách có tổ chức, có tính chất chuyên nghiệp, với mức phạt tù từ 2 đến 7 năm. Tuy vậy, cơ quan có thẩm quyền vẫn phải xem xét kỹ hợp đồng, tài liệu và chứng cứ để xác định chính xác.
+
+Lời khuyên của luật sư là nhà đầu tư nên nhờ luật sư tư vấn, soạn đơn tố giác tội phạm gửi cơ quan công an. Điểm quan trọng nhất ông nêu: "Tội lừa đảo hoàn thành ngay khi giao tài sản là tiền, hoàn toàn không thể chờ 3 năm sau S.Tix Coffee trả hay không trả mới truy cứu trách nhiệm hình sự." Tức là nạn nhân không cần đợi hợp đồng 3 năm hết hạn mới được tố giác.
+
+| Câu hỏi pháp lý | Trả lời trong bài |
+|---|---|
+| Tội danh có thể áp dụng | Lừa đảo chiếm đoạt tài sản, khoản 2 Điều 174 Bộ luật Hình sự |
+| Mức phạt | Tù 2–7 năm |
+| Khi nào tội hoàn thành | Ngay khi nhà đầu tư giao tiền |
+| Nạn nhân nên làm gì | Nhờ luật sư soạn đơn tố giác gửi công an, không chờ hết hạn hợp đồng |
 
 ## Thuật ngữ
 

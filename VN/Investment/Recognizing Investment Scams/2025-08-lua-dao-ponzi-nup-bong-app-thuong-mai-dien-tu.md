@@ -45,63 +45,123 @@
 2. Vì sao về mặt kinh doanh, một app thương mại điện tử hoàn tiền khủng không thể có lãi?
 3. Những dấu hiệu và nguyên tắc nào giúp nhận diện các app lừa đảo này?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Mô hình Ponzi (Ponzi scheme).** Kiểu lừa đảo lấy tiền của người góp sau để trả lãi cho người góp trước, không có hoạt động kinh doanh thật nào đứng sau. Tên gọi lấy từ Charles Ponzi, người trong hai năm 1919–1920 huy động 15 triệu USD từ hơn 40.000 khách hàng theo cách này. Bài coi các app thương mại điện tử hoàn tiền khủng là phiên bản mới của mô hình đó.
+
+**Phiếu hồi đáp quốc tế (IRC, International Reply Coupon).** Một loại phiếu bưu chính mua ở nước này có thể đổi lấy tem ở nước khác. Vì giá phiếu ở các nước khác nhau, có thể mua rẻ ở nơi này và đổi ra tem bán giá cao hơn ở Mỹ. Đây là "câu chuyện kinh doanh" có thật mà Ponzi dùng làm vỏ bọc, trước khi chuyển hẳn sang lấy tiền người sau trả người trước.
+
+**Doanh thu thuần, lợi nhuận gộp, lợi nhuận ròng.** Ba bậc của báo cáo kết quả kinh doanh. Doanh thu thuần là toàn bộ doanh số trừ khuyến mại, giảm giá. Lợi nhuận gộp là doanh thu thuần trừ giá vốn hàng bán. Lợi nhuận ròng là lợi nhuận gộp trừ tiếp chi phí bán hàng và chi phí quản lý. Ví dụ minh hoạ: bán được 100 đồng, giảm giá 10 đồng, giá vốn 60 đồng, chi phí bán hàng và quản lý 25 đồng thì lợi nhuận ròng trước thuế là 100 − 10 − 60 − 25 = 5 đồng. Bài dùng chính công thức này để chỉ ra app không thể có lãi.
+
+**Chi phí thu hút khách hàng (customer acquisition cost).** Số tiền doanh nghiệp bỏ ra cho quảng cáo, khuyến mại để có thêm một khách hàng. Ở thương mại điện tử, khoản này rất lớn, là lý do các sàn thật như Amazon, Shopee, Lazada, Tiki, Sendo đều lỗ nhiều năm đầu.
+
+**Giá trị hiện tại (present value).** Giá trị hôm nay của một khoản tiền sẽ nhận trong tương lai. Một đồng nhận sau này đáng giá ít hơn một đồng hôm nay, vì đồng hôm nay có thể đem đầu tư sinh lãi. Công thức: giá trị hiện tại = giá trị tương lai / (1 + lãi suất)^số kỳ. Ví dụ trong bài: với lãi suất 1,81%/tháng, 1 đồng trả ở tháng thứ 40 chỉ đáng 0,488 đồng hôm nay. Khái niệm này cho phép quy lời hứa "hoàn 80 đồng trong 5 năm" về một con số so được với doanh thu hôm nay.
+
+**Lãi suất chiết khấu.** Mức lãi dùng để quy tiền tương lai về hiện tại, phản ánh chi phí cơ hội và rủi ro. Bài chọn 24%/năm, quy ra 1,81%/tháng. Lãi suất chiết khấu càng cao, giá trị hiện tại của khoản hoàn tiền càng nhỏ.
+
+**Bản cáo bạch (prospectus).** Tài liệu bắt buộc khi chào bán chứng khoán ra công chúng, công bố chủ sở hữu, ban giám đốc, kết quả kinh doanh, kế hoạch và rủi ro, kèm báo cáo tài chính có kiểm toán. App lừa đảo không bao giờ có tài liệu loại này.
+
+**Kinh doanh chênh lệch không rủi ro (arbitrage).** Vay ở chỗ rẻ, đem đầu tư ở chỗ được trả cao hơn, ăn phần chênh lệch mà không chịu rủi ro. Ví dụ trong bài: nếu một doanh nghiệp hứa chắc 30%/năm, ai cũng vay ngân hàng 12–15% để đầu tư vào đó. Vì cơ hội như vậy không thể tồn tại lâu, lời hứa lãi cao chắc chắn là dấu hiệu lừa đảo.
+
+## Nội dung chi tiết
 
 ### 1. Từ Charles Ponzi đến app thần kỳ
-- Charles Ponzi, người Mỹ gốc Ý, mê tiền và mưu mô. Năm 1919 tìm ra cách đầu cơ chênh lệch tem bưu chính quốc tế: thuê đại lý mua phiếu hồi đáp quốc tế (IRC, International Reply Coupon) giá rẻ ở nước khác, gửi về Mỹ đổi lấy tem rồi bán giá cao hơn.
-- Thành công, rồi tham lam, dựng mô hình lừa đảo: phóng đại sự thành công của mua bán IRC; vay tiền nhà đầu tư bằng trái phiếu, cam kết trả 50% trong 45 ngày hoặc 100% trong 90 ngày.
-- Trong hai năm 1919–1920 huy động được 15 triệu USD từ hơn 40.000 khách hàng. Tháng 8/1920 bắt đầu trả lãi chậm; cảnh sát liên bang khám xét và phát hiện ông không dùng tiền mua bán IRC mà lấy tiền người sau trả người trước ("robbing Peter to pay Paul"). Tên ông được đặt cho mô hình.
-- **Định nghĩa:** mô hình Ponzi là dạng lừa đảo tín dụng huy động vốn theo hình thức đa cấp, lấy tiền người góp sau trả lãi cho người góp trước. Người huy động "vẽ" dự án hiệu quả, cam kết lãi cao, dùng ví dụ người đã nhận lãi, trả hoa hồng rất cao cho người giới thiệu (có thể là nhà đầu tư cũ); vì thế còn gọi là tài chính đa cấp Ponzi.
-- Ponzi liên tục xuất hiện ở mọi quốc gia; một trong những vụ lớn nhất là của Bernard L. Madoff với số tiền lên đến 50 tỷ USD.
-- Ở Việt Nam tác giả từng góp phần vạch trần mỏ vàng Insider 21, tiền ảo One Coin, máy đào tiền ảo Sky Mining.
-- "App thần kỳ thời 4.0": dùng mô hình sàn TMĐT kết nối người mua và người bán, hoàn tiền khủng cho người mua; đích nhắm là kêu gọi góp vốn hoặc cho app vay lãi cực cao, dùng tiền người sau trả người trước; chết khi tiền mới không đủ hoặc chủ app rút tiền biến mất.
+
+Charles Ponzi là người Mỹ gốc Ý, mê tiền và nhiều mưu mô. Năm 1919, ông tìm ra cách đầu cơ chênh lệch giá tem bưu chính quốc tế: thuê đại lý mua phiếu hồi đáp quốc tế (IRC, International Reply Coupon) giá rẻ ở nước khác, gửi về Mỹ đổi lấy tem rồi bán với giá cao hơn.
+
+Việc này thành công, và rồi lòng tham khiến Ponzi dựng lên một mô hình lừa đảo. Ông phóng đại sự thành công của việc mua bán IRC và vay tiền nhà đầu tư bằng trái phiếu, cam kết trả lãi 50% sau 45 ngày hoặc 100% sau 90 ngày. Trong hai năm 1919–1920, ông huy động được 15 triệu USD từ hơn 40.000 khách hàng. Tháng 8/1920, ông bắt đầu trả lãi chậm; cảnh sát liên bang khám xét và phát hiện ông không hề dùng tiền để mua bán IRC mà lấy tiền người sau trả cho người trước, kiểu "robbing Peter to pay Paul". Tên ông được đặt cho mô hình lừa đảo này.
+
+**Định nghĩa.** Mô hình Ponzi là một dạng lừa đảo tín dụng, huy động vốn theo hình thức đa cấp, lấy tiền người góp sau trả lãi cho người góp trước. Người huy động "vẽ" ra một dự án kinh doanh hiệu quả, cam kết lãi cao, đem ví dụ những người đã nhận được lãi ra để thuyết phục, và trả hoa hồng rất cao cho người giới thiệu, người này có thể chính là nhà đầu tư cũ. Vì có tầng hoa hồng đó, mô hình còn được gọi là tài chính đa cấp Ponzi.
+
+Ponzi liên tục xuất hiện ở mọi quốc gia. Một trong những vụ lớn nhất là của Bernard L. Madoff, với số tiền lên đến 50 tỷ USD. Ở Việt Nam, tác giả từng góp phần vạch trần các vụ mỏ vàng Insider 21, tiền ảo One Coin và máy đào tiền ảo Sky Mining.
+
+**"App thần kỳ thời 4.0".** Đây là phiên bản mới của Ponzi. App dùng mô hình sàn thương mại điện tử (TMĐT) kết nối người mua với người bán, và hứa hoàn tiền khủng cho người mua. Nhưng đích nhắm thật là kêu gọi người dân góp vốn hoặc cho app vay với lãi cực cao, rồi dùng tiền người sau trả người trước. Như mọi Ponzi, nó chết khi tiền mới không còn đủ hoặc khi chủ app rút tiền rồi biến mất.
 
 ### 2. Công thức kết quả kinh doanh áp dụng cho mọi doanh nghiệp
-- Doanh thu gộp (toàn bộ doanh số) − khuyến mại, giảm giá trực tiếp = doanh thu thuần.
-- Doanh thu thuần − giá thành sản phẩm/dịch vụ = lợi nhuận gộp.
-- Lợi nhuận gộp − chi phí bán hàng, tiếp thị (quảng cáo, lương thưởng nhân viên kinh doanh) − chi phí quản lý doanh nghiệp (thuê văn phòng, lương, khấu hao, vận hành) = lợi nhuận ròng trước thuế. Âm thì là lỗ ròng, không đóng thuế; dương thì đóng thuế thu nhập.
-- Lợi nhuận sau thuế, sau khi trích quỹ tái đầu tư, mới là lợi nhuận để chia cổ tức hoặc giữ lại.
+
+Để chứng minh app không thể có lãi, tác giả nhắc lại công thức tính kết quả kinh doanh áp dụng cho mọi doanh nghiệp:
+
+| Bước | Phép tính | Kết quả |
+|---|---|---|
+| 1 | Doanh thu gộp (toàn bộ doanh số) − khuyến mại, giảm giá trực tiếp | Doanh thu thuần |
+| 2 | Doanh thu thuần − giá thành sản phẩm, dịch vụ | Lợi nhuận gộp |
+| 3 | Lợi nhuận gộp − chi phí bán hàng, tiếp thị (quảng cáo, lương thưởng nhân viên kinh doanh) − chi phí quản lý doanh nghiệp (thuê văn phòng, lương, khấu hao, vận hành) | Lợi nhuận ròng trước thuế |
+| 4 | Lợi nhuận trước thuế − thuế thu nhập − trích quỹ tái đầu tư | Lợi nhuận để chia cổ tức hoặc giữ lại |
+
+Nếu lợi nhuận ròng trước thuế âm thì doanh nghiệp lỗ ròng và không phải đóng thuế; nếu dương thì đóng thuế thu nhập. Chỉ phần lợi nhuận sau thuế, sau khi trích quỹ tái đầu tư, mới là tiền có thể chia cho chủ sở hữu. Bất kỳ khoản trả cho nhà đầu tư nào cũng phải đi ra từ dòng cuối cùng này.
 
 ### 3. Sàn TMĐT thật cũng lỗ nhiều năm
-- Amazon, Lazada, Shopee, Tiki, Sendo đều lỗ nhiều năm đầu vì chi phí, đặc biệt marketing để thu hút (acquire) và thúc đẩy khách mua.
-- Hầu như chưa sàn TMĐT nào có lãi trong 5 năm đầu; phải liên tục gọi vốn. Sàn ngừng lỗ khi chiếm lĩnh thị trường, có lượng user lớn và không bị áp lực cạnh tranh nặng.
+
+Amazon, Lazada, Shopee, Tiki, Sendo đều lỗ trong nhiều năm đầu. Lý do chính là chi phí, đặc biệt là chi phí marketing để thu hút (acquire) khách hàng mới và thúc đẩy khách mua nhiều hơn.
+
+Hầu như chưa có sàn TMĐT nào có lãi trong 5 năm đầu, và các sàn phải liên tục gọi vốn để bù lỗ. Một sàn chỉ ngừng lỗ khi đã chiếm lĩnh thị trường, có lượng người dùng lớn và không còn chịu áp lực cạnh tranh nặng. Điểm then chốt: những sàn này không hề hoàn tiền cho khách mà vẫn lỗ nặng.
 
 ### 4. App thần kỳ "hô biến" ra tiền: phép tính
-- Ngoài các chi phí như sàn TMĐT thật, app còn có chi phí đặc biệt: hoàn tiền cho khách, cam kết hoàn đến 80% doanh số mua hàng trong 5 năm.
-- Giả sử khách mua 100 đồng; doanh thu app là hoa hồng và phí người bán, giả định rất tốt là 30% → app được 30 đồng.
-- Tính giá trị hiện tại của 80 đồng hoàn trong 60 tháng: Giá trị hiện tại = Giá trị tương lai/(1 + lãi suất)^số kỳ.
-- Lãi suất chiết khấu 24%/năm, tương đương 1,81%/tháng (1,24^(1/12) − 1).
-  - 2 đồng trả ở kỳ đầu tiên có giá trị hiện tại 2/1,0181 = 1,964 đồng.
-  - 1 đồng trả ở tháng thứ 40 có giá trị hiện tại 1/1,0181^40 = 0,488 đồng.
-  - Tổng giá trị hiện tại của 80 đồng hoàn lại = 50,48 đồng.
-- Kết quả: app thu 30 đồng, phải hoàn khoản tương đương 50 đồng → lỗ ngay khoảng 20 đồng, chưa kể chi phí sales, marketing, vận hành, quản lý.
-- Kinh doanh lỗ nặng thì tiền trả nhà đầu tư chỉ có thể đến từ "robbing Peter to pay Paul".
+
+Ngoài mọi chi phí mà một sàn TMĐT thật phải chịu, app thần kỳ còn có một khoản chi đặc biệt: hoàn tiền cho khách, với cam kết hoàn đến 80% doanh số mua hàng trong 5 năm. Tác giả làm phép tính như sau.
+
+**Bước 1: doanh thu của app.** Giả sử khách mua 100 đồng hàng. Doanh thu của app là hoa hồng và phí người bán. Giả định rất tốt cho app là 30% doanh số, tức app thu được 30 đồng.
+
+**Bước 2: giá trị hiện tại của khoản hoàn tiền.** App phải hoàn 80 đồng, rải trong 60 tháng. Vì tiền trả sau đáng giá ít hơn tiền hôm nay, cần quy về giá trị hiện tại theo công thức: giá trị hiện tại = giá trị tương lai / (1 + lãi suất)^số kỳ. Tác giả chọn lãi suất chiết khấu 24%/năm, tương đương 1,81%/tháng (tính bằng 1,24^(1/12) − 1).
+
+| Khoản hoàn | Phép tính | Giá trị hiện tại |
+|---|---|---|
+| 2 đồng trả ở kỳ đầu tiên | 2 / 1,0181 | 1,964 đồng |
+| 1 đồng trả ở tháng thứ 40 | 1 / 1,0181^40 | 0,488 đồng |
+| Tổng 80 đồng hoàn lại trong 60 tháng | Cộng giá trị hiện tại của từng kỳ | 50,48 đồng |
+
+**Bước 3: so sánh.** App thu 30 đồng nhưng phải hoàn một khoản có giá trị hôm nay khoảng 50 đồng. Nghĩa là 30 − 50 = lỗ ngay khoảng 20 đồng trên mỗi 100 đồng khách mua, chưa tính đồng nào cho chi phí bán hàng, marketing, vận hành và quản lý.
+
+Một mô hình kinh doanh lỗ nặng như vậy không thể có tiền để trả cho nhà đầu tư. Tiền trả nhà đầu tư chỉ có thể đến từ tiền của nhà đầu tư sau, tức "robbing Peter to pay Paul".
 
 ### 5. Kêu gọi vốn "như đi bán rau"
-- Gọi vốn từ quỹ, đại gia: phải trình kế hoạch kinh doanh chi tiết, quá khứ, hiện tại, tương lai, số liệu rõ ràng; nhà đầu tư nghiên cứu kỹ.
-- Gọi vốn từ công chúng, lên sàn chứng khoán: phải đủ điều kiện về thời gian hoạt động, lợi nhuận; phát hành bản cáo bạch chi tiết (chủ sở hữu, ban giám đốc, kết quả kinh doanh, kế hoạch, rủi ro); báo cáo tài chính phải kiểm toán.
-- Vay ngân hàng: hồ sơ chi tiết, đa phần phải thế chấp.
-- App thần kỳ: không trình bày kế hoạch, không số liệu, không báo cáo tài chính kiểm toán; không nói gì về cách vận hành, quản lý vốn, sinh lợi, vấn đề quan trọng nhất. Thay vào đó nói về hoàn tiền khủng, lợi nhuận cao, dùng từ ngữ 4.0 bí ẩn, hoa mỹ, cách tính rắc rối để che câu hỏi: kinh doanh thế nào mà tiền đẻ ra tiền khủng như vậy?
+
+Tác giả so sánh cách doanh nghiệp thật đi gọi vốn với cách app thần kỳ làm:
+
+| Kênh gọi vốn | Doanh nghiệp thật phải làm gì |
+|---|---|
+| Quỹ đầu tư, đại gia | Trình kế hoạch kinh doanh chi tiết về quá khứ, hiện tại, tương lai, số liệu rõ ràng; nhà đầu tư nghiên cứu kỹ trước khi rót tiền |
+| Công chúng, lên sàn chứng khoán | Đủ điều kiện về thời gian hoạt động và lợi nhuận; phát hành bản cáo bạch chi tiết (chủ sở hữu, ban giám đốc, kết quả kinh doanh, kế hoạch, rủi ro); báo cáo tài chính phải được kiểm toán |
+| Vay ngân hàng | Nộp hồ sơ chi tiết, đa phần phải có tài sản thế chấp |
+
+App thần kỳ thì gọi vốn dễ "như đi bán rau": không trình bày kế hoạch, không có số liệu, không có báo cáo tài chính kiểm toán. Nó không nói gì về vấn đề quan trọng nhất là cách vận hành, cách quản lý vốn và cách sinh lời. Thay vào đó, nó chỉ nói về hoàn tiền khủng và lợi nhuận cao, dùng từ ngữ "4.0" bí ẩn, hoa mỹ và cách tính rắc rối, để người nghe không kịp đặt câu hỏi: kinh doanh thế nào mà tiền đẻ ra tiền khủng như vậy?
 
 ### 6. Nhập nhằng, đánh lận con đen
-- Doanh nghiệp nghiêm túc công bố giấy phép, trụ sở, người sáng lập, hội đồng quản trị, ban giám đốc; app thần kỳ không có thông tin rõ ràng, chính thức.
-- Dựng website, kênh YouTube vệ tinh để đánh bóng thương hiệu.
-- Dùng hình ảnh, tên tuổi người nổi tiếng một cách mập mờ: mời đến sự kiện, chụp hình cùng logo rồi "chế biến" để PR. Câu cửa miệng: "App này của ông A, ông B cực uy tín", "ông C đem về Việt Nam", "cả thế giới dùng app này mà lo gì".
+
+Một doanh nghiệp nghiêm túc công bố rõ giấy phép, trụ sở, người sáng lập, hội đồng quản trị và ban giám đốc. App thần kỳ thì không có thông tin rõ ràng, chính thức về những điều này. Thay vào đó, nó:
+
+- dựng website và các kênh YouTube vệ tinh để đánh bóng thương hiệu;
+- dùng hình ảnh, tên tuổi người nổi tiếng một cách mập mờ, chẳng hạn mời họ tới sự kiện, chụp hình cạnh logo rồi "chế biến" thành tài liệu quảng bá.
+
+Câu cửa miệng của người mời chào thường là: "App này của ông A, ông B cực uy tín", "ông C đem về Việt Nam", "cả thế giới dùng app này mà lo gì". Không câu nào trả lời được câu hỏi app kiếm tiền bằng cách nào.
 
 ### 7. Bốn nhóm tín đồ
-- Nhóm 1: người mua đã được hoàn tiền vài tháng, thấy quá lợi, mua liên tục, tuyên truyền, rồi chuyển từ người mua thành nhà đầu tư; đúng kịch bản app giăng ra.
-- Nhóm 2: nhà đầu tư tham lam; kể cả bạn bè tác giả học và làm tài chính cũng từng dính Insider 21, OneCoin, Sky Mining.
-- Nhóm 3: nhà đầu tư sành sỏi lợi dụng Ponzi, vào sớm, giới thiệu nhiều người, thu vốn và lời về nhanh trước khi sập.
-- Nhóm 4: chuyên giới thiệu ăn hoa hồng mà không đầu tư; "những con diều hâu hút tiền của nhà đầu tư", nói to nhất để bảo vệ dự án.
+
+Hệ thống chạy được là nhờ bốn nhóm người:
+
+| Nhóm | Họ là ai | Vai trò |
+|---|---|---|
+| 1 | Người mua đã được hoàn tiền vài tháng, thấy quá lợi | Mua liên tục, đi tuyên truyền, rồi chuyển từ người mua thành nhà đầu tư, đúng kịch bản app giăng ra |
+| 2 | Nhà đầu tư tham lam | Bỏ tiền vào; kể cả bạn bè học và làm tài chính của tác giả cũng từng dính Insider 21, OneCoin, Sky Mining |
+| 3 | Nhà đầu tư sành sỏi, biết đó là Ponzi | Vào sớm, giới thiệu nhiều người, thu vốn và lời về nhanh trước khi sập |
+| 4 | Người chuyên giới thiệu ăn hoa hồng, không đầu tư | "Những con diều hâu hút tiền của nhà đầu tư", nói to nhất để bảo vệ dự án |
+
+Dù được bốn nhóm này giữ cho chạy, hệ thống vẫn sụp khi tiền mới không đủ hoặc chủ app rút tiền biến mất. Người chịu thiệt nhất là nhóm 1 và nhóm 2.
 
 ### 8. Nguyên tắc nhận diện (từ sách "Tài chính cá nhân dành cho người Việt Nam")
-- Cơ sở pháp lý của dự án, app; pháp luật có bảo vệ mình không.
-- "Hạng mức tín dụng", độ tin cậy của doanh nghiệp, của người giữ tiền.
-- Nguyên tắc vận hành, tạo lợi nhuận.
+
+Tác giả dẫn lại các nguyên tắc trong cuốn sách của mình. Trước khi đầu tư, hãy xét:
+
+- Cơ sở pháp lý của dự án, của app: pháp luật có bảo vệ mình không?
+- "Hạng mức tín dụng", tức độ tin cậy của doanh nghiệp và của người giữ tiền.
+- Nguyên tắc vận hành và cách tạo ra lợi nhuận.
 - Rủi ro tiềm ẩn và cách giảm thiểu.
-- App thần kỳ không thỏa điều kiện nào, và vi phạm nguyên tắc quan trọng nhất: "Không bao giờ có một bữa trưa miễn phí".
-- Doanh nghiệp hàng đầu tạo lợi nhuận cao, chia cổ tức cao nhưng không bao giờ hứa một mức lợi nhuận cao. Nếu doanh nghiệp hứa chắc 30%, 50%, 70%/năm thì ai cũng có thể vay ngân hàng 12–15% để đầu tư hưởng chênh lệch không rủi ro; điều đó trái nguyên tắc không có bữa trưa miễn phí.
-- Bớt tham, chịu học hỏi thì người dân sẽ bớt sập bẫy.
+
+App thần kỳ không thoả điều kiện nào, và vi phạm nguyên tắc quan trọng nhất: "Không bao giờ có một bữa trưa miễn phí".
+
+Tác giả giải thích nguyên tắc đó bằng lập luận chênh lệch. Các doanh nghiệp hàng đầu có thể tạo lợi nhuận cao và chia cổ tức cao, nhưng không bao giờ hứa trước một mức lợi nhuận cao. Nếu một doanh nghiệp hứa chắc 30%, 50% hay 70%/năm, thì ai cũng có thể vay ngân hàng với lãi 12–15% để đầu tư vào đó và hưởng phần chênh lệch mà không chịu rủi ro nào. Một cơ hội như vậy trái với nguyên tắc không có bữa trưa miễn phí, nên lời hứa đó chắc chắn không thật.
+
+Lời kết của tác giả: người dân bớt tham và chịu học hỏi thì sẽ bớt sập bẫy.
 
 ## Thuật ngữ
 
