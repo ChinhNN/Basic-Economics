@@ -125,36 +125,143 @@
 2. Song đề tù nhân và trò chơi nhiều cân bằng dạy điều gì?
 3. Lý thuyết trò chơi được ứng dụng ở đâu?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Lý thuyết trò chơi (game theory).** Môn nghiên cứu cách ra quyết định khi kết quả của mình phụ thuộc vào quyết định của người khác, và quyết định của người khác lại phụ thuộc vào việc họ đoán mình sẽ làm gì. Ví dụ trong bài: ván cờ vua, nơi nước đi tốt của một người tuỳ vào nước đi của đối thủ. "Trò chơi" ở đây không chỉ là trò giải trí mà là mọi tình huống có tương tác chiến lược, từ hai doanh nghiệp định giá đến hai nước chạy đua vũ trang.
+
+**Chiến lược và lợi ích (strategy, payoff).** Chiến lược là một hướng hành động mà người chơi có thể chọn. Lợi ích là giá trị người chơi nhận được, thường biểu diễn bằng một con số, và phụ thuộc vào chiến lược của tất cả người chơi. Ví dụ trong bài: trong song đề tù nhân, chiến lược là "thú tội" hoặc "im lặng", lợi ích là số năm tù (1, 5 hoặc 10 năm). Lợi ích có thể là tiền, số năm hạnh phúc, hay bất cứ thứ gì người chơi quan tâm; lý thuyết giả định mỗi người tìm cách tối đa hoá lợi ích của mình.
+
+**Cân bằng (equilibrium).** Một kết quả mà tại đó không người chơi nào còn lý do để tự mình đổi chiến lược, khi chiến lược của những người khác giữ nguyên. Ví dụ trong bài: cả hai tù nhân cùng thú tội và ngồi tù 5 năm là cân bằng, vì nếu một người đổi sang im lặng trong khi người kia vẫn thú tội, người đổi sẽ bị 10 năm. Khái niệm này giúp dự đoán kết quả của một tình huống chiến lược.
+
+**Trò chơi tổng bằng không, tổng dương, tổng âm (zero-sum, positive-sum, negative-sum).** Tổng bằng không: cái được của người này đúng bằng cái mất của người kia, như cờ vua. Tổng dương: cả hai cùng được, như hai tác giả cùng viết một bài báo. Tổng âm: cả hai cùng mất, như khi không ngăn được chiến tranh. Ví dụ minh hoạ: chia một chiếc bánh 10 miếng là tổng bằng không; cùng góp vốn mở cửa hàng và mỗi người lời 5 triệu là tổng dương. Bài dùng phân biệt này để cho thấy lý thuyết trò chơi không chỉ nói về xung đột.
+
+**Chiến lược áp đảo (dominant strategy).** Chiến lược tốt nhất cho một người chơi bất kể người kia làm gì. Ví dụ trong bài: với mỗi tên cướp, thú tội luôn tốt hơn im lặng, dù đồng phạm thú tội (5 năm thay vì 10) hay im lặng (được tha thay vì 1 năm). Song đề tù nhân là bài học rằng khi mỗi người theo chiến lược áp đảo của mình, cả nhóm có thể nhận kết quả tệ hơn.
+
+**Trò chơi lặp lại (repeated game).** Cùng một trò chơi được chơi nhiều lần, và người chơi không biết trước khi nào kết thúc. Ví dụ minh hoạ: hai cửa hàng cạnh nhau định giá mỗi tuần trong nhiều năm; nếu một bên giảm giá hôm nay để giành khách, bên kia có thể trả đũa tuần sau. Bài cho thấy sự lặp lại có thể giúp người chơi thoát song đề nhờ khả năng thưởng và phạt nhau.
+
+**Nước đi đồng thời và tuần tự (simultaneous vs sequential moves).** Đồng thời là mọi người quyết định cùng lúc, không biết người khác chọn gì. Tuần tự là một người đi trước, người sau biết nước đi đó rồi mới quyết định. Ví dụ trong bài: trong trò chơi vợ chồng, nếu vợ đi trước và mua vé ba lê, chồng sẽ đi ba lê theo. Khi đi tuần tự, người đi trước có thể "nhìn về phía trước và suy luận ngược", và thường có lợi thế.
+
+**Thông tin bất đối xứng (asymmetric information).** Tình huống một bên biết nhiều hơn bên kia. Ví dụ trong bài: trên thị trường xe cũ, người bán biết xe mình tốt hay xấu, người mua thì không. Lý thuyết trò chơi với thông tin bất đối xứng đã cách mạng hoá kinh tế học thông tin, và mang về giải Nobel 2001 cho ba nhà kinh tế.
+
+## Nội dung chi tiết
 
 ### 1. Khái niệm
 
-- Bất kỳ ai từng phải ra quyết định chiến lược có tính đến hành động của người khác đều đã dùng lý thuyết trò chơi. Hãy nghĩ đến một ván cờ vua. Kết quả ván cờ phụ thuộc không chỉ vào nước đi của một người chơi mà còn vào hành động của đối thủ. Khi chọn một hướng hành động, nói cách khác là một "chiến lược", người chơi phải tính đến lựa chọn của đối thủ. Nhưng đến lượt mình, lựa chọn của đối thủ lại dựa trên suy nghĩ về hướng hành động mà người chơi có thể chọn. Lý thuyết trò chơi nghiên cứu việc ra quyết định phụ thuộc lẫn nhau này và xác định chiến lược tối ưu, tức hướng hành động tốt nhất, cho mỗi người chơi trước hành động của người khác, và cách điều này dẫn đến một kết quả cân bằng, trong đó không người chơi nào còn lý do thay đổi chiến lược.
-- Vì các tình huống liên quan đến quyết định phụ thuộc lẫn nhau xuất hiện thường xuyên, tiềm năng ứng dụng lý thuyết trò chơi trong tư duy chiến lược cũng vậy. Doanh nghiệp cạnh tranh trên thị trường, nhà ngoại giao đàm phán hiệp ước, con bạc đặt cược trong ván bài, và cả những người đang cân nhắc cầu hôn đều có thể dùng lý thuyết trò chơi.
+**Ai cũng đã dùng lý thuyết trò chơi.** Bất kỳ ai từng phải ra một quyết định chiến lược có tính đến hành động của người khác đều đã dùng lý thuyết trò chơi, dù không gọi tên nó. Hãy nghĩ đến một ván cờ vua. Kết quả ván cờ không chỉ phụ thuộc vào nước đi của một người chơi mà còn vào hành động của đối thủ. Khi chọn một hướng hành động, tức một "chiến lược", người chơi phải tính đến lựa chọn của đối thủ. Nhưng lựa chọn của đối thủ lại dựa trên việc đối thủ đoán xem người chơi kia sẽ làm gì. Hai suy tính lồng vào nhau như vậy.
+
+**Lý thuyết trò chơi nghiên cứu gì.** Lý thuyết trò chơi nghiên cứu kiểu ra quyết định phụ thuộc lẫn nhau này. Nó làm ba việc:
+
+1. Xác định **chiến lược tối ưu**, tức hướng hành động tốt nhất, cho mỗi người chơi khi đã tính đến hành động của những người khác.
+2. Cho thấy cách các chiến lược đó dẫn đến một **cân bằng**.
+3. Mô tả cân bằng là một kết quả mà tại đó không người chơi nào còn lý do để thay đổi chiến lược.
+
+**Ứng dụng ở khắp nơi.** Vì các tình huống quyết định phụ thuộc lẫn nhau xuất hiện thường xuyên, lý thuyết trò chơi có tiềm năng ứng dụng rộng trong tư duy chiến lược. Doanh nghiệp cạnh tranh trên thị trường, nhà ngoại giao đàm phán hiệp ước, con bạc đặt cược trong ván bài, và cả người đang cân nhắc có nên cầu hôn hay không, đều có thể dùng lý thuyết trò chơi.
 
 ### 2. Khoa học về chiến lược
 
-- Ví dụ sớm nhất của một phân tích lý thuyết trò chơi chính thức là của Antoine Cournot năm 1838, khi ông nghiên cứu hành vi kinh doanh của hai hãng (một độc quyền đôi theo cách nói kinh tế) có chi phí giống hệt nhau sản xuất cùng sản phẩm nhưng tranh giành lợi nhuận tối đa trong một thị trường hạn chế. Nhà toán học Émile Borel đề xuất một lý thuyết trò chơi chính thức năm 1921, được nhà toán học Princeton John von Neumann phát triển thêm cuối thập kỷ đó. Nhưng lý thuyết trò chơi trở thành một lĩnh vực riêng sau khi xuất bản *Theory of Games and Economic Behavior* của von Neumann và nhà kinh tế Oskar Morgenstern năm 1944.
-- Họ nghiên cứu các trò chơi "tổng bằng không", trong đó lợi ích của hai người chơi đối lập nghiêm ngặt đến mức trò chơi là xung đột thuần tuý, với cái được của người này luôn dẫn đến cái mất của người kia. Một ví dụ tốt là cờ vua, có kẻ thắng và người thua. Nhưng trò chơi không nhất thiết phải tổng bằng không. Người chơi có thể tham gia trò chơi tổng dương, ví dụ việc cùng viết bài này tạo ra lợi ích cho cả hai tác giả/người chơi và là trò chơi đôi bên cùng thắng. Tương tự, trò chơi có thể dẫn đến tổn hại cho cả hai (tổng âm), ví dụ việc không ngăn được một cuộc chiến. John Nash xử lý trường hợp tổng quát và thực tế hơn trong đó một trò chơi liên quan đến hỗn hợp lợi ích chung và sự ganh đua, với số người chơi bất kỳ. Các nhà lý thuyết khác, đáng chú ý nhất là Reinhard Selten và John Harsanyi, những người chia giải Nobel kinh tế 1994 với Nash, nghiên cứu các trò chơi còn phức tạp hơn với chuỗi nước đi, và các trò chơi trong đó một người chơi có nhiều thông tin hơn người khác.
+**Lịch sử phát triển.** Lý thuyết trò chơi hình thành qua hơn một thế kỷ:
+
+| Năm | Người | Đóng góp |
+|---|---|---|
+| 1838 | Antoine Cournot | Phân tích lý thuyết trò chơi chính thức sớm nhất: hai hãng có chi phí giống hệt nhau, làm cùng một sản phẩm, tranh giành lợi nhuận tối đa trong một thị trường hạn chế (độc quyền đôi) |
+| 1921 | Émile Borel (nhà toán học) | Đề xuất một lý thuyết trò chơi chính thức |
+| Cuối thập niên 1920 | John von Neumann (nhà toán học Princeton) | Phát triển thêm lý thuyết của Borel |
+| 1944 | von Neumann và Oskar Morgenstern (nhà kinh tế) | Xuất bản *Theory of Games and Economic Behavior*, biến lý thuyết trò chơi thành một lĩnh vực riêng |
+| Sau đó | John Nash | Trường hợp tổng quát: pha trộn lợi ích chung và ganh đua, số người chơi bất kỳ |
+| Nobel 1994 | Nash, Reinhard Selten, John Harsanyi | Selten và Harsanyi nghiên cứu trò chơi có chuỗi nước đi, và trò chơi trong đó một người có nhiều thông tin hơn |
+
+"Độc quyền đôi" trong ví dụ của Cournot là cách nói kinh tế cho một thị trường chỉ có hai người bán. Mỗi hãng phải quyết định sản xuất bao nhiêu, và lợi nhuận của mỗi hãng phụ thuộc vào lượng hàng của hãng kia, vì tổng lượng hàng quyết định giá.
+
+**Tổng bằng không và hơn thế.** Von Neumann và Morgenstern nghiên cứu các trò chơi **tổng bằng không**, trong đó lợi ích của hai người chơi đối lập hoàn toàn: trò chơi là một xung đột thuần tuý, cái được của người này luôn là cái mất của người kia. Cờ vua là ví dụ tốt: có kẻ thắng và người thua.
+
+Nhưng trò chơi không nhất thiết phải tổng bằng không:
+
+- **Tổng dương:** người chơi có thể tham gia một trò chơi mà cả hai cùng được. Chính hai tác giả của bài này là ví dụ: việc cùng viết bài tạo ra lợi ích cho cả hai người, một trò chơi đôi bên cùng thắng.
+- **Tổng âm:** trò chơi cũng có thể gây hại cho cả hai, ví dụ khi các bên không ngăn được một cuộc chiến tranh.
+
+**Nash và những người kế tục.** John Nash xử lý trường hợp tổng quát và sát thực tế hơn: một trò chơi vừa có lợi ích chung vừa có ganh đua, với số người chơi bất kỳ. Các nhà lý thuyết khác, đáng chú ý nhất là Reinhard Selten và John Harsanyi, những người cùng Nash chia giải Nobel kinh tế năm 1994, nghiên cứu các trò chơi còn phức tạp hơn: trò chơi có một chuỗi nước đi nối tiếp nhau, và trò chơi trong đó một người chơi có nhiều thông tin hơn người khác.
 
 ### 3. Trò chơi gồm những gì
 
-- Một trò chơi là tương tác chiến lược giữa hai hay nhiều người chơi. Mỗi người chơi có một tập hợp các chiến lược khả dĩ. Với mỗi chiến lược người chơi chọn, họ nhận một lợi ích, thường biểu diễn bằng một con số. Lợi ích đó phụ thuộc vào chiến lược của tất cả người chơi trong trò chơi. Lợi ích cũng có thể mang ý nghĩa khác nhau: có thể là một số tiền hay số năm hạnh phúc. Lý thuyết trò chơi giả định người chơi hành động hợp lý, tức họ tìm cách tối đa hoá lợi ích của chính mình.
-- **Song đề tù nhân** có lẽ là ví dụ nổi tiếng nhất. Hai kẻ cướp ngân hàng bị bắt và được hỏi cung riêng. Họ có thể thú tội hoặc im lặng. Công tố viên đề nghị mỗi người kịch bản sau. Nếu một người thú tội và người kia im lặng, người nhận tội sẽ được tha trong khi đồng phạm đối mặt 10 năm sau song sắt. Nếu cả hai thú tội, mỗi người sẽ ngồi tù 5 năm, còn nếu cả hai im lặng, mỗi người sẽ ngồi tù một năm.
-- Nếu Kẻ cướp A thú tội, tốt hơn cho Kẻ cướp B là thú tội và nhận 5 năm tù thay vì im lặng và chịu 10 năm. Mặt khác, nếu Kẻ cướp A không thú tội, vẫn tốt hơn cho Kẻ cướp B là thú tội và được tha thay vì im lặng và ngồi tù một năm. Trong trò chơi này, luôn tốt hơn cho Kẻ cướp B là thú tội bất kể Kẻ cướp A làm gì. Tức chiến lược áp đảo là thú tội. Vì mỗi người chơi có cùng cấu trúc lợi ích, kết quả của trò chơi là những người chơi hợp lý sẽ thú tội và cả hai cùng ngồi tù 5 năm. Song đề nằm ở chỗ nếu không ai thú tội, mỗi người chỉ ngồi tù một năm, một kết quả tốt hơn cho cả hai.
-- Có thể giải quyết song đề này không? Nếu trò chơi được lặp lại mà không biết trước khi nào kết thúc, cả hai người chơi có thể thưởng hoặc phạt lẫn nhau cho hành động tương ứng. Điều này có thể dẫn đến kết quả cùng có lợi trong đó không ai thú tội và mỗi người ngồi tù một năm. Một ví dụ đời thực là sự thông đồng giữa hai hãng cạnh tranh để tối đa hoá lợi nhuận chung của họ.
+**Các thành phần của một trò chơi.** Một trò chơi là một tương tác chiến lược giữa hai hay nhiều người chơi, gồm:
+
+- **Người chơi:** từ 2 người trở lên.
+- **Tập chiến lược:** mỗi người chơi có một tập hợp các chiến lược có thể chọn.
+- **Lợi ích:** với mỗi chiến lược được chọn, người chơi nhận một lợi ích, thường biểu diễn bằng một con số. Lợi ích của một người phụ thuộc vào chiến lược của **tất cả** người chơi, không chỉ của riêng người đó. Lợi ích có thể mang những ý nghĩa khác nhau: một số tiền, hay số năm sống hạnh phúc.
+
+Lý thuyết trò chơi giả định người chơi hành động **hợp lý**, nghĩa là mỗi người tìm cách tối đa hoá lợi ích của chính mình.
+
+**Song đề tù nhân.** Đây có lẽ là ví dụ nổi tiếng nhất. Hai kẻ cướp ngân hàng bị bắt và bị hỏi cung riêng, không liên lạc được với nhau. Mỗi người có thể thú tội hoặc im lặng. Công tố viên đưa ra cho mỗi người kịch bản sau:
+
+| | B im lặng | B thú tội |
+|---|---|---|
+| **A im lặng** | A: 1 năm, B: 1 năm | A: 10 năm, B: được tha |
+| **A thú tội** | A: được tha, B: 10 năm | A: 5 năm, B: 5 năm |
+
+Hãy đặt mình vào vị trí Kẻ cướp B và suy luận theo từng khả năng của A:
+
+- Nếu A thú tội: B thú tội thì ngồi 5 năm, B im lặng thì ngồi 10 năm. Thú tội tốt hơn.
+- Nếu A không thú tội: B thú tội thì được tha, B im lặng thì ngồi một năm. Thú tội vẫn tốt hơn.
+
+Vậy bất kể A làm gì, B luôn có lợi hơn khi thú tội. Thú tội là **chiến lược áp đảo**. Vì A cũng đứng trước đúng cấu trúc lợi ích đó, A cũng sẽ thú tội. Kết quả: hai người chơi hợp lý cùng thú tội và mỗi người ngồi tù 5 năm.
+
+**Song đề** nằm ở chỗ: nếu cả hai cùng im lặng, mỗi người chỉ ngồi tù một năm, một kết quả tốt hơn cho cả hai. Hành động hợp lý của từng cá nhân dẫn đến kết quả tệ hơn cho tập thể.
+
+**Có thoát được song đề không?** Có thể, nếu trò chơi được **lặp lại** nhiều lần mà không ai biết trước khi nào kết thúc. Khi đó mỗi người có thể thưởng hoặc phạt người kia ở các vòng sau, tuỳ theo người kia đã hành động thế nào ở vòng trước. Mối đe doạ bị trừng phạt trong tương lai có thể giữ cả hai ở kết quả cùng có lợi: không ai thú tội, mỗi người ngồi tù một năm. Ví dụ ngoài đời thực là sự thông đồng giữa hai hãng cạnh tranh để tối đa hoá lợi nhuận chung: mỗi hãng đều muốn hạ giá để giành khách, nhưng biết rằng nếu làm vậy, hãng kia sẽ trả đũa trong những kỳ sau.
+
+**Ví dụ minh hoạ** (giả định, không có trong bài). Hai trạm xăng đối diện nhau. Nếu cả hai giữ giá cao, mỗi trạm lãi 10 triệu một tuần. Nếu một trạm hạ giá còn trạm kia không, trạm hạ giá lãi 15 triệu, trạm kia lãi 2 triệu. Nếu cả hai hạ giá, mỗi trạm lãi 5 triệu. Nếu chỉ gặp nhau một lần, cả hai sẽ hạ giá. Nhưng vì họ đứng cạnh nhau hằng tuần trong nhiều năm, mỗi trạm biết rằng hạ giá tuần này sẽ khiến trạm kia hạ giá mãi về sau, nên cả hai có thể giữ giá cao.
 
 ### 4. Nhiều cân bằng và nước đi tuần tự
 
-- Đôi khi có nhiều hơn một cân bằng trong một trò chơi. Lấy ví dụ sau: một đôi vợ chồng đang lên kế hoạch cho một buổi tối đi chơi. Trên hết, họ quý thời gian bên nhau, nhưng người chồng thích đấm bốc trong khi người vợ thích ba lê. Cả hai phải quyết định độc lập với nhau về việc sẽ làm gì, tức họ phải quyết định đồng thời. Nếu họ chọn cùng một hoạt động, họ sẽ ở bên nhau. Nếu chọn hoạt động khác nhau, họ sẽ tách nhau. Vợ chồng nhận giá trị 1 nếu được xem thứ giải trí mình thích; giá trị 2 được gán cho việc ở bên nhau. Điều này dẫn đến một ma trận lợi ích tối đa hoá sự hài lòng khi cả hai chọn cùng hoạt động.
-- Nếu người chơi hy sinh cho bạn đời, họ nhận kết quả tệ nhất: mỗi người đi sự kiện mình không thích, và lại một mình, lợi ích bằng không. Nếu cả hai chọn sự kiện mình thích, kết quả tốt hơn, nhưng không ai có niềm vui được ở cùng người kia, nên lợi ích là 1 cho mỗi người. Nếu vợ chọn ba lê, kết quả tối ưu xảy ra khi chồng cũng chọn ba lê. Do đó đi xem ba lê là một cân bằng với lợi ích 3 cho vợ và 2 cho chồng. Theo logic tương tự, khi cả hai đi xem đấm bốc, cũng có một cân bằng, trong đó lợi ích của chồng là 3 và của vợ là 2. Vì vậy trò chơi này có hai cân bằng.
-- Sửa đổi trò chơi này bằng cách để người chơi đi tuần tự, tức mỗi người chơi biết hành động trước đó của người kia, sẽ cho một cân bằng duy nhất. Nếu vợ đi trước và quyết định đi xem ba lê, lựa chọn tốt nhất của chồng là đi xem ba lê. Nếu vợ chọn đấm bốc, chồng chắc chắn sẽ chọn đi xem trận đấu. Chiến lược cơ bản của vợ sẽ là "nhìn về phía trước và suy luận ngược". Vợ có thể đoán trước quyết định của chồng sẽ dẫn đến đâu và dùng thông tin này để tính quyết định tốt nhất của mình: trong trường hợp này là chọn ba lê. Trong kiểu trò chơi này, có một lợi thế rõ ràng cho người đi trước.
+**Trò chơi vợ chồng.** Đôi khi một trò chơi có nhiều hơn một cân bằng. Ví dụ: một đôi vợ chồng lên kế hoạch cho buổi tối đi chơi. Trên hết, họ quý thời gian ở bên nhau. Nhưng người chồng thích xem đấm bốc, còn người vợ thích xem ba lê. Cả hai phải quyết định độc lập, tức quyết định đồng thời mà không biết người kia chọn gì. Nếu chọn cùng một hoạt động, họ ở bên nhau; nếu chọn khác nhau, họ tách nhau.
+
+Cách tính lợi ích: mỗi người nhận giá trị 1 nếu được xem thứ mình thích, và giá trị 2 cho việc được ở bên nhau. Từ đó có bảng lợi ích (số đầu là của vợ, số sau là của chồng):
+
+| | Chồng chọn ba lê | Chồng chọn đấm bốc |
+|---|---|---|
+| **Vợ chọn ba lê** | Vợ 3, chồng 2 | Vợ 1, chồng 1 |
+| **Vợ chọn đấm bốc** | Vợ 0, chồng 0 | Vợ 2, chồng 3 |
+
+Đọc bảng:
+
+- **Cả hai hy sinh cho nhau** (vợ đi đấm bốc, chồng đi ba lê): kết quả tệ nhất. Mỗi người xem thứ mình không thích, lại xem một mình. Lợi ích bằng 0.
+- **Cả hai chọn thứ mình thích** (vợ ba lê, chồng đấm bốc): tốt hơn, vì ít nhất được xem thứ mình thích, nhưng không ai có niềm vui ở cạnh người kia. Lợi ích 1 cho mỗi người.
+- **Cả hai đi ba lê:** vợ được 1 (xem thứ mình thích) cộng 2 (ở bên nhau) bằng 3; chồng được 2. Đây là một cân bằng: nếu vợ chọn ba lê, lựa chọn tốt nhất của chồng là cũng chọn ba lê, và ngược lại.
+- **Cả hai đi đấm bốc:** theo logic tương tự, đây cũng là một cân bằng, với chồng được 3 và vợ được 2.
+
+Vậy trò chơi này có **hai cân bằng**, và lý thuyết không nói trước được đôi vợ chồng sẽ rơi vào cân bằng nào.
+
+**Khi đi tuần tự: một cân bằng duy nhất.** Sửa trò chơi một chút: cho hai người chơi đi tuần tự, tức người đi sau biết người đi trước đã chọn gì. Khi đó trò chơi chỉ còn một cân bằng. Giả sử vợ đi trước:
+
+- Nếu vợ chọn ba lê, lựa chọn tốt nhất của chồng là đi ba lê (2 điểm thay vì 1).
+- Nếu vợ chọn đấm bốc, chồng chắc chắn sẽ đi xem trận đấu (3 điểm thay vì 0).
+
+Chiến lược của vợ là **"nhìn về phía trước và suy luận ngược"**: đoán trước mỗi lựa chọn của mình sẽ khiến chồng phản ứng ra sao, rồi dùng thông tin đó để chọn điều tốt nhất cho mình. Chọn ba lê cho vợ 3 điểm, chọn đấm bốc cho vợ 2 điểm, nên vợ chọn ba lê. Trong kiểu trò chơi này, người đi trước có **lợi thế rõ ràng**: họ chọn được cân bằng có lợi cho mình.
 
 ### 5. Răn đe hạt nhân và các ứng dụng
 
-- Trò chơi tù nhân và trò chơi vợ chồng chỉ liên quan hai người chơi, và mỗi người có thông tin đầy đủ về trò chơi. Trò chơi trở nên phức tạp hơn khi có nhiều người chơi hơn hoặc khi không phải tất cả người chơi đều tiếp cận cùng thông tin. Không ngạc nhiên khi lý thuyết trò chơi đã được áp dụng vào phân tích cuộc chạy đua vũ trang hạt nhân. Người đoạt giải Nobel kinh tế 2005, Thomas Schelling, cho thấy khả năng trả đũa là một biện pháp răn đe hiệu quả hơn khả năng chịu đựng một cuộc tấn công, và chứng minh rằng sự bất định về việc trả đũa, thứ khiến kẻ địch phải phỏng đoán, có thể giữ hoà bình hiệu quả hơn lời đe doạ trả đũa chắc chắn.
-- Lý thuyết trò chơi đã được dùng để phân tích quyền lực thị trường và cách quản lý độc quyền để bảo vệ người tiêu dùng, một hướng nghiên cứu đã mang lại cho Jean Tirole giải Nobel kinh tế 2014. Lý thuyết trò chơi cũng đã cách mạng hoá lĩnh vực kinh tế học thông tin bằng cách nghiên cứu các trò chơi trong đó một số người chơi có nhiều thông tin hơn người khác. Ba nhà kinh tế cùng nhận giải Nobel năm 2001 cho công trình nền tảng về trò chơi với thông tin bất đối xứng: George Akerlof về thị trường xe cũ, Michael Spence về việc phát tín hiệu trên thị trường lao động qua giáo dục, và Joseph Stiglitz về tự sàng lọc trên thị trường bảo hiểm.
-- Lý thuyết trò chơi thậm chí đã được áp dụng trong sinh học tiến hoá, nơi người chơi (trong trường hợp này là động vật) không nhất thiết là những sinh vật hợp lý. Trò chơi diều hâu–bồ câu do John Maynard Smith phát triển năm 1982 liên quan đến hành vi hung hăng và không hung hăng, và cung cấp hiểu biết về sự sống sót của các loài. Lý thuyết trò chơi đang được một số người dùng để dự báo số phận của Liên minh châu Âu. Chừng nào còn có các quyết định tương tác cần đưa ra, lý thuyết trò chơi sẽ còn được áp dụng để soi sáng chúng.
+**Khi trò chơi phức tạp hơn.** Trò chơi tù nhân và trò chơi vợ chồng chỉ có hai người chơi, và mỗi người có thông tin đầy đủ về trò chơi. Trò chơi trở nên phức tạp hơn khi có nhiều người chơi, hoặc khi không phải ai cũng có cùng thông tin.
+
+**Răn đe hạt nhân.** Không ngạc nhiên khi lý thuyết trò chơi được dùng để phân tích cuộc chạy đua vũ trang hạt nhân. Thomas Schelling, người đoạt giải Nobel kinh tế năm 2005, có hai phát hiện:
+
+- **Khả năng trả đũa** là cách răn đe hiệu quả hơn **khả năng chịu đựng** một đòn tấn công. Kẻ địch ngần ngại tấn công không phải vì biết bên kia chịu được, mà vì biết mình sẽ bị đánh trả.
+- **Sự bất định về việc có trả đũa hay không**, thứ buộc kẻ địch phải phỏng đoán, có thể giữ hoà bình hiệu quả hơn một lời đe doạ trả đũa chắc chắn.
+
+**Các ứng dụng khác.** Lý thuyết trò chơi đã lan ra nhiều lĩnh vực:
+
+| Lĩnh vực | Nội dung | Người, năm |
+|---|---|---|
+| Quyền lực thị trường | Phân tích quyền lực thị trường và cách quản lý độc quyền để bảo vệ người tiêu dùng | Jean Tirole, Nobel kinh tế 2014 |
+| Kinh tế học thông tin | Trò chơi trong đó một số người chơi biết nhiều hơn người khác (thông tin bất đối xứng) | Nobel 2001 cho ba nhà kinh tế |
+| — Thị trường xe cũ | Người bán biết chất lượng xe, người mua thì không | George Akerlof |
+| — Thị trường lao động | Người lao động phát tín hiệu năng lực qua giáo dục | Michael Spence |
+| — Thị trường bảo hiểm | Người mua bảo hiểm tự sàng lọc qua lựa chọn hợp đồng | Joseph Stiglitz |
+| Sinh học tiến hoá | Trò chơi diều hâu–bồ câu: hành vi hung hăng và không hung hăng, giúp hiểu sự sống sót của các loài | John Maynard Smith, 1982 |
+| Chính trị quốc tế | Dự báo số phận của Liên minh châu Âu | Một số nhà phân tích |
+
+Ứng dụng trong sinh học tiến hoá đặc biệt đáng chú ý vì ở đó người chơi là động vật, không nhất thiết là những sinh vật hợp lý. Lý thuyết vẫn dùng được vì chọn lọc tự nhiên làm thay việc "tính toán": những hành vi mang lại lợi ích cao hơn sẽ sống sót và nhân lên.
+
+Chừng nào còn có những quyết định tương tác cần đưa ra, lý thuyết trò chơi sẽ còn được dùng để soi sáng chúng.
 
 ## Thuật ngữ
 

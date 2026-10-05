@@ -110,26 +110,93 @@
 2. Mặt trái của trợ cấp là gì và lớn đến đâu?
 3. Cải cách trợ cấp cần chiến lược thế nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Trợ cấp (subsidy).** Khoản nhà nước bỏ ra, trực tiếp hoặc gián tiếp, để hạ chi phí hay tăng thu nhập của một nhóm người, một ngành hay một hoạt động. Trợ cấp có thể là tiền chi ra, nhưng cũng có thể là khoản thuế không thu, hoặc một mức giá bị giữ khác với giá thị trường. Ví dụ trong bài: Na Uy miễn phí cầu đường cho xe điện; Úc trả một phần lương khi doanh nghiệp thuê người trẻ; Singapore ưu đãi thuế cho công ty đặt trụ sở khu vực. Bài coi trợ cấp là một công cụ tài khoá, tốt hay xấu tuỳ cách dùng.
+
+**Khiếm khuyết thị trường (market imperfection).** Tình huống thị trường tư nhân cạnh tranh tự vận hành mà không cho ra kết quả xã hội mong muốn. Ví dụ trong bài: một doanh nghiệp đầu tư nghiên cứu và phát triển, nhưng phát minh của nó cũng giúp các hãng khác trong ngành; vì không thu được hết lợi ích, doanh nghiệp đầu tư ít hơn mức có lợi cho xã hội. Bài lấy đây làm tiêu chí: trợ cấp hợp lý khi sửa khiếm khuyết thị trường, và có hại khi không sửa gì.
+
+**Bóp méo giá (price distortion).** Khi giá bị trợ cấp đẩy lệch khỏi chi phí thật, người mua và người bán đưa ra quyết định sai. Ví dụ minh hoạ: nếu một lít xăng tốn 25 nghìn đồng để sản xuất nhưng chỉ bán 15 nghìn nhờ trợ cấp, người ta sẽ đi xe nhiều hơn và các nhà máy dùng nhiều năng lượng sẽ tồn tại dù không hiệu quả. Bài nói bóp méo giá làm phân bổ sai lao động và vốn khan hiếm, nên làm suy yếu tăng trưởng.
+
+**Chuyển tiền mặt có mục tiêu (targeted cash transfer).** Nhà nước trả tiền trực tiếp cho những hộ được xác định là nghèo, thay vì giảm giá một mặt hàng cho tất cả mọi người. Ví dụ minh hoạ: thay vì giữ giá điện thấp cho mọi hộ, nhà nước trả 300 nghìn đồng mỗi tháng cho các hộ nghèo. Bài cho thấy cách này rẻ hơn nhiều so với trợ cấp phổ quát, vì không phải chi cho người khá giả.
+
+**Trợ cấp người sản xuất (producer subsidy).** Trợ cấp làm tăng giá mà người sản xuất nhận được, thường trong nông nghiệp. Ví dụ trong bài: ở Liên minh châu Âu, trợ cấp này trung bình chiếm 20% tổng thu của nông trại giai đoạn 2014–16. Nó làm nông dân ít có động lực nâng hiệu quả, vì được trả cao hơn giá thực phẩm nhập khẩu dù sản xuất kém hơn.
+
+**Trợ cấp năng lượng theo nghĩa rộng (energy subsidies, broad measure).** Năng lượng được coi là đang được trợ cấp bất cứ khi nào giá của nó thấp hơn tổng chi phí thật, gồm chi phí sản xuất và toàn bộ chi phí môi trường (ô nhiễm không khí, biến đổi khí hậu). Ví dụ minh hoạ: một lít dầu diesel bán đúng giá sản xuất 20 nghìn đồng, nhưng khói của nó gây thiệt hại sức khoẻ và khí hậu trị giá thêm 8 nghìn; theo nghĩa rộng, mỗi lít đang được trợ cấp 8 nghìn dù nhà nước không chi đồng nào. Với thước đo này, bài ước tính trợ cấp năng lượng toàn cầu năm 2015 là 5,3 nghìn tỷ USD.
+
+**Chèn lấn (crowding out).** Tiền ngân sách dành cho trợ cấp là tiền không còn để chi cho việc khác. Ví dụ minh hoạ: một chính phủ chi 3% GDP cho trợ cấp xăng dầu trong khi chỉ chi 2% GDP cho y tế. Bài khuyên chính phủ dùng lập luận này trong truyền thông để giải thích vì sao cắt trợ cấp có thể làm chi tiêu công hiệu quả và công bằng hơn.
+
+## Nội dung chi tiết
 
 ### 1. Trợ cấp là gì
 
-- Na Uy miễn phí cầu đường cho chủ xe điện. Ở Úc, chính phủ trả một phần lương khi doanh nghiệp thuê người trẻ, thổ dân Úc hoặc người lao động lớn tuổi. Singapore đưa ra ưu đãi thuế cho các công ty đặt trụ sở toàn cầu hoặc khu vực tại nước này. Tất cả đều là ví dụ về trợ cấp: công cụ tài khoá mà chính phủ dùng để khuyến khích phát triển kinh tế, giúp các nhóm yếu thế, hoặc thúc đẩy các mục tiêu quốc gia khác.
-- Trợ cấp có nhiều hình thức. Chính phủ đôi khi giữ giá cao một cách giả tạo, như trường hợp trợ cấp nhằm tăng thu nhập nông dân. Họ có thể cung cấp dịch vụ, như học đại học hay vé tàu điện ngầm, dưới giá vốn. Họ có thể trả một phần lãi cho các khoản vay dùng để tài trợ xây dựng đường sá hay nhà máy điện. Hoặc họ có thể miễn giảm thuế cho một số sản phẩm hoặc công nghệ.
-- Khi nào trợ cấp hợp lý? Chúng có thể là công cụ chính sách tốt khi được dùng để sửa các khiếm khuyết thị trường, tức khi thị trường tư nhân cạnh tranh không tạo ra kết quả mong muốn về mặt xã hội. Ví dụ, trợ cấp có thể khuyến khích doanh nghiệp đầu tư vào nghiên cứu và phát triển mang lại lợi ích không chỉ cho hãng của họ mà cho cả ngành hay xã hội. Chúng cũng có thể giúp các doanh nghiệp khởi nghiệp sống sót qua giai đoạn lỗ ban đầu cho đến khi đủ lớn để có lãi (dù chính phủ cần đủ thông tin để xác định liệu doanh nghiệp có thành công khi lớn hơn không).
+**Ba ví dụ.** Bài mở đầu bằng ba chính sách có vẻ khác hẳn nhau:
+
+- Na Uy miễn phí cầu đường cho chủ xe điện.
+- Ở Úc, chính phủ trả một phần lương khi doanh nghiệp thuê người trẻ, thổ dân Úc hoặc người lao động lớn tuổi.
+- Singapore ưu đãi thuế cho các công ty đặt trụ sở toàn cầu hoặc khu vực tại nước này.
+
+Cả ba đều là **trợ cấp**: công cụ tài khoá mà chính phủ dùng để khuyến khích phát triển kinh tế, giúp các nhóm yếu thế, hoặc thúc đẩy các mục tiêu quốc gia khác.
+
+**Các hình thức.** Trợ cấp không nhất thiết là một khoản tiền chi ra. Bài nêu bốn hình thức:
+
+| Hình thức | Ví dụ |
+|---|---|
+| Giữ giá cao một cách giả tạo | Trợ cấp nhằm tăng thu nhập nông dân |
+| Cung cấp dịch vụ dưới giá vốn | Học đại học, vé tàu điện ngầm |
+| Trả một phần lãi cho khoản vay | Khoản vay tài trợ xây đường, nhà máy điện |
+| Miễn giảm thuế | Cho một số sản phẩm hoặc công nghệ |
+
+**Khi nào trợ cấp hợp lý.** Trợ cấp có thể là công cụ chính sách tốt khi dùng để sửa **khiếm khuyết thị trường**, tức khi thị trường tư nhân cạnh tranh không tự tạo ra kết quả mà xã hội mong muốn. Bài nêu hai trường hợp:
+
+- **Nghiên cứu và phát triển.** Trợ cấp có thể khuyến khích doanh nghiệp đầu tư vào nghiên cứu và phát triển, loại hoạt động mang lại lợi ích không chỉ cho chính hãng đó mà cho cả ngành và xã hội. Vì doanh nghiệp không thu được phần lợi ích chảy sang người khác, nếu không có trợ cấp họ sẽ đầu tư ít hơn mức tốt cho xã hội.
+- **Doanh nghiệp khởi nghiệp.** Trợ cấp có thể giúp doanh nghiệp mới sống sót qua giai đoạn lỗ ban đầu cho tới khi đủ lớn để có lãi. Bài kèm một điều kiện: chính phủ cần có đủ thông tin để xác định doanh nghiệp nào thực sự sẽ thành công khi lớn lên, nếu không sẽ trợ cấp nhầm cho những doanh nghiệp không bao giờ có lãi.
 
 ### 2. Tác động lên bất bình đẳng
 
-- Nhưng có những mặt trái. Hãy xem xét trợ cấp năng lượng, thường nhằm giúp các hộ thu nhập thấp. Chúng có thể rút cạn nguồn lực chính phủ nếu được dành cho tất cả mọi người, kể cả những người tương đối khá giả. Một khoản chuyển tiền mặt có mục tiêu nhắm vào hộ nghèo tốn ít hơn nhiều.
-- Trợ cấp cũng có thể làm trầm trọng thêm bất bình đẳng nếu chúng mang lại lợi ích không tương xứng cho những người sản xuất hoặc tiêu dùng nhiều nhất. Chẳng hạn, khắp châu Phi, châu Á, Mỹ Latinh và Trung Đông, 20% hộ gia đình giàu nhất hưởng trung bình gấp bảy lần lợi ích của trợ cấp năng lượng so với 20% nghèo nhất (Coady, Flamini và Sears 2015).
-- Một mặt trái khác: trợ cấp không xử lý các khiếm khuyết thị trường có thể bóp méo giá, gây phân bổ sai lao động và vốn khan hiếm, làm suy yếu tăng trưởng. Chống đỡ giá dầu, ví dụ, có thể giữ các doanh nghiệp trong các ngành thâm dụng năng lượng sống một cách giả tạo và làm giảm đầu tư vào năng lượng thay thế. Trợ cấp người sản xuất trong nông nghiệp, thứ đẩy giá nông dân nhận được cao hơn giá thực phẩm nhập khẩu, cũng làm giảm động lực nâng cao hiệu quả. Ở Liên minh châu Âu, các trợ cấp này trung bình chiếm 20% tổng thu nông trại trong giai đoạn 2014–16, theo một báo cáo năm 2017 của Tổ chức Hợp tác và Phát triển Kinh tế.
-- Một số trợ cấp có thể gây hại, như trợ cấp cho nhiên liệu hoá thạch. Chúng không chỉ tốn kém mà còn mâu thuẫn với các mục tiêu môi trường, như giảm tử vong do ô nhiễm không khí địa phương hay thực hiện cam kết theo Hiệp định Paris về Biến đổi Khí hậu 2015 nhằm giảm phát thải carbon dioxide và các khí giữ nhiệt khác. Theo nghĩa rộng, năng lượng có thể được coi là được trợ cấp bất cứ khi nào giá của nó không phản ánh đầy đủ không chỉ chi phí sản xuất mà còn toàn bộ chi phí môi trường. Dùng thước đo mở rộng này, trợ cấp toàn cầu năm 2015 được ước tính ở mức khổng lồ 5,3 nghìn tỷ USD, tức 6,5% GDP toàn cầu (Coady và cộng sự 2017), nhiều hơn số chính phủ chi cho y tế trên toàn thế giới. Các trợ cấp này phổ biến ở cả nền kinh tế tiên tiến lẫn đang phát triển. Trợ cấp lớn nhất ở Trung Quốc với 2,3 nghìn tỷ USD, tiếp theo là Mỹ với 700 tỷ, Nga và Ấn Độ mỗi nước khoảng 300 tỷ.
+Trợ cấp có ba mặt trái chính.
+
+**Mặt trái thứ nhất: tốn kém và làm trầm trọng bất bình đẳng.** Lấy ví dụ trợ cấp năng lượng, vốn thường được biện minh là để giúp các hộ thu nhập thấp. Nếu trợ cấp được dành cho tất cả mọi người, kể cả những người tương đối khá giả, nó có thể rút cạn nguồn lực của chính phủ. Một khoản chuyển tiền mặt có mục tiêu, nhắm thẳng vào hộ nghèo, tốn ít hơn nhiều.
+
+Tệ hơn, trợ cấp còn có thể làm bất bình đẳng trầm trọng thêm, vì lợi ích rơi vào tay những người sản xuất hoặc tiêu dùng nhiều nhất. Người giàu có nhiều xe hơn, nhà to hơn, dùng nhiều điện và xăng hơn, nên nhận nhiều trợ cấp hơn. Số liệu: khắp châu Phi, châu Á, Mỹ Latinh và Trung Đông, 20% hộ gia đình giàu nhất hưởng lợi ích từ trợ cấp năng lượng trung bình gấp bảy lần so với 20% hộ nghèo nhất (Coady, Flamini và Sears 2015).
+
+**Ví dụ minh hoạ** (con số giả định). Nhà nước trợ giá xăng 5 nghìn đồng mỗi lít. Một hộ nghèo đi xe máy dùng 20 lít mỗi tháng, nhận 100 nghìn đồng trợ cấp. Một hộ khá giả có hai ô tô dùng 140 lít mỗi tháng, nhận 700 nghìn đồng, gấp bảy lần. Nếu dùng cùng số tiền ngân sách đó để chuyển thẳng cho hộ nghèo, mỗi hộ nghèo có thể nhận nhiều hơn hẳn 100 nghìn.
+
+**Mặt trái thứ hai: bóp méo giá.** Trợ cấp không nhằm sửa khiếm khuyết thị trường nào có thể bóp méo giá, khiến lao động và vốn khan hiếm bị phân bổ sai chỗ, và từ đó làm suy yếu tăng trưởng. Hai ví dụ:
+
+- **Chống đỡ giá dầu.** Giữ giá dầu thấp có thể giữ cho các doanh nghiệp trong các ngành thâm dụng năng lượng sống một cách giả tạo, đồng thời làm giảm đầu tư vào năng lượng thay thế (vì năng lượng thay thế phải cạnh tranh với dầu giá rẻ nhân tạo).
+- **Trợ cấp người sản xuất nông nghiệp.** Loại trợ cấp này đẩy giá mà nông dân nhận được lên cao hơn giá thực phẩm nhập khẩu, làm giảm động lực nâng cao hiệu quả. Ở Liên minh châu Âu, các trợ cấp này trung bình chiếm 20% tổng thu của nông trại trong giai đoạn 2014–16, theo một báo cáo năm 2017 của Tổ chức Hợp tác và Phát triển Kinh tế (OECD). Nghĩa là cứ 100 euro một nông trại thu về thì khoảng 20 euro đến từ chính sách hỗ trợ chứ không từ thị trường.
+
+**Mặt trái thứ ba: trợ cấp có hại cho môi trường.** Một số trợ cấp trực tiếp gây hại, điển hình là trợ cấp cho nhiên liệu hoá thạch. Chúng không chỉ tốn kém mà còn đi ngược các mục tiêu môi trường: giảm số người chết vì ô nhiễm không khí tại chỗ, và thực hiện cam kết theo Hiệp định Paris về Biến đổi Khí hậu năm 2015 nhằm giảm phát thải carbon dioxide (CO2) và các khí giữ nhiệt khác.
+
+**Thước đo rộng.** Bài dùng một định nghĩa rộng: năng lượng được coi là đang được trợ cấp bất cứ khi nào giá của nó không phản ánh đầy đủ cả chi phí sản xuất lẫn toàn bộ chi phí môi trường. Theo định nghĩa này, một chính phủ không chi đồng nào cho xăng dầu vẫn có thể đang trợ cấp, nếu giá xăng không tính tới thiệt hại do ô nhiễm và khí thải gây ra.
+
+Dùng thước đo mở rộng này, trợ cấp năng lượng toàn cầu năm 2015 được ước tính ở mức khổng lồ **5,3 nghìn tỷ USD**, tương đương **6,5% GDP toàn cầu** (Coady và cộng sự 2017). Con số này lớn hơn tổng số tiền mà các chính phủ trên toàn thế giới chi cho y tế. Trợ cấp loại này phổ biến ở cả nền kinh tế tiên tiến lẫn đang phát triển:
+
+| Nước | Trợ cấp năng lượng năm 2015 (theo nghĩa rộng) |
+|---|---|
+| Trung Quốc | 2,3 nghìn tỷ USD (lớn nhất) |
+| Mỹ | 700 tỷ USD |
+| Nga | khoảng 300 tỷ USD |
+| Ấn Độ | khoảng 300 tỷ USD |
+| Toàn cầu | 5,3 nghìn tỷ USD, bằng 6,5% GDP toàn cầu |
+
+Đáng chú ý là Mỹ, một nền kinh tế tiên tiến không có chính sách bán xăng dưới giá thành, vẫn đứng thứ hai. Điều này chỉ hiểu được khi nhớ rằng thước đo tính cả phần chi phí môi trường không được đưa vào giá.
 
 ### 3. Chiến lược cải cách
 
-- Cải cách trợ cấp có thể khó bán vì nó thường liên quan đến việc tăng giá các hàng hoá như xăng hay thực phẩm, thứ đánh ngay vào túi tiền người tiêu dùng. Nhiều nỗ lực cắt giảm các trợ cấp có hại đã bị đảo ngược dưới áp lực từ các nhóm lợi ích và công chúng.
-- Chính phủ do đó cần một chiến lược cải cách toàn diện và chi tiết, nêu rõ các mục tiêu dài hạn về lộ trình giá tương lai và cách sử dụng nguồn thu (Clements và cộng sự, 2013). Cũng cần một chiến lược truyền thông sâu rộng để cho thấy trợ cấp chèn lấn chi tiêu công hiệu quả và công bằng hơn như thế nào. Một cách tiếp cận từng bước, cho người tiêu dùng và doanh nghiệp thời gian điều chỉnh, có thể giúp ích. Các biện pháp như chuyển tiền mặt để bảo vệ hộ dễ tổn thương và đào tạo lại người lao động bị ảnh hưởng thường là thiết yếu để vượt qua phản đối.
-- Cải cách trợ cấp không dễ, nhưng nhiều nước (chủ yếu là các nước sản xuất năng lượng) đã xoay xở tăng được giá trong nước những năm gần đây, gồm Angola, Ai Cập, Ấn Độ, Mexico và Saudi Arabia. Tuy nhiên, cải cách cần đi xa hơn nhiều, đặc biệt trong việc phản ánh chi phí môi trường vào giá nhiên liệu, thứ phải là thành phần then chốt trong chiến lược của các nước để thực hiện các cam kết đưa ra năm 2015 theo Hiệp định Paris về Biến đổi Khí hậu nhằm giảm phát thải carbon.
+**Vì sao cải cách khó.** Cải cách trợ cấp khó thuyết phục công chúng vì nó thường đồng nghĩa với tăng giá những mặt hàng như xăng hay thực phẩm, thứ đánh ngay vào túi tiền người tiêu dùng. Lợi ích của cải cách (ngân sách lành mạnh hơn, môi trường sạch hơn) thì đến chậm và phân tán. Vì vậy nhiều nỗ lực cắt giảm các trợ cấp có hại đã bị đảo ngược dưới áp lực của các nhóm lợi ích và của công chúng.
+
+**Những gì chính phủ cần.** Bài đề xuất bốn yếu tố cho một cuộc cải cách thành công:
+
+1. **Chiến lược cải cách toàn diện và chi tiết**, nêu rõ các mục tiêu dài hạn: giá sẽ đi theo lộ trình nào trong tương lai, và nguồn thu tiết kiệm được sẽ được dùng vào việc gì (Clements và cộng sự, 2013).
+2. **Chiến lược truyền thông sâu rộng**, cho người dân thấy trợ cấp đang chèn lấn những khoản chi tiêu công hiệu quả và công bằng hơn ra sao.
+3. **Cách tiếp cận từng bước**, cho người tiêu dùng và doanh nghiệp thời gian điều chỉnh (đổi xe, đổi thiết bị, đổi quy trình sản xuất).
+4. **Biện pháp đền bù**, như chuyển tiền mặt để bảo vệ các hộ dễ tổn thương và đào tạo lại người lao động bị ảnh hưởng. Những biện pháp này thường là thiết yếu để vượt qua sự phản đối.
+
+**Ví dụ minh hoạ** (giả định, không có trong bài). Một chính phủ thông báo sẽ đưa giá điện lên ngang chi phí trong ba năm, mỗi năm tăng một phần ba khoảng chênh. Cùng lúc, chính phủ công bố rằng một phần số tiền tiết kiệm được sẽ chuyển cho các hộ nghèo, phần còn lại dùng xây trường và trạm y tế, và định kỳ công khai số tiền đã chi. Người dân biết trước giá sẽ đi đâu, biết tiền đi đâu, và hộ nghèo không bị thiệt.
+
+**Kết quả đến nay và việc còn lại.** Cải cách trợ cấp không dễ, nhưng nhiều nước, chủ yếu là các nước sản xuất năng lượng, đã tăng được giá năng lượng trong nước trong những năm gần đây, gồm Angola, Ai Cập, Ấn Độ, Mexico và Saudi Arabia. Tuy vậy, cải cách cần đi xa hơn nhiều, đặc biệt là đưa chi phí môi trường vào giá nhiên liệu. Việc này phải là thành phần then chốt trong chiến lược của các nước để thực hiện những cam kết đã đưa ra năm 2015 theo Hiệp định Paris về Biến đổi Khí hậu nhằm giảm phát thải carbon.
 
 ## Thuật ngữ
 
