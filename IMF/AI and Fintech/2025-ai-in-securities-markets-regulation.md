@@ -193,55 +193,175 @@
 2. Rủi ro thực sự nằm ở đâu, nếu không phải ở việc một mô hình đơn lẻ bị hỏng?
 3. Cơ quan quản lý cần làm gì khi tốc độ của thị trường đã vượt xa tốc độ của công cụ giám sát?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Giao dịch thuật toán (algorithmic trading).** Cách giao dịch trong đó một chương trình máy tính tự quyết định khi nào đặt lệnh, mua bán bao nhiêu và ở giá nào, theo các quy tắc hoặc mô hình đã cài sẵn, thay vì con người bấm từng lệnh. Một dạng cực đoan là giao dịch tần suất cao, nơi lệnh được đặt và huỷ trong vài phần nghìn giây. Ví dụ trong bài: ở Hoa Kỳ khoảng 70% khối lượng giao dịch là do thuật toán, ở Thái Lan khoảng 44,8%. Khái niệm này quan trọng vì khi phần lớn lệnh trên thị trường do máy sinh ra, hành vi của thị trường phụ thuộc vào cách các máy đó được thiết kế.
+
+**Tư vấn đầu tư tự động (robo-advisory) và môi giới thế hệ mới (neo-broking).** Tư vấn tự động là dịch vụ trong đó thuật toán hỏi người dùng vài câu về mục tiêu và mức chịu rủi ro, rồi tự đề xuất và tự phân bổ danh mục, gần như không có nhân viên tư vấn. Môi giới thế hệ mới là các công ty chứng khoán hoạt động chủ yếu qua ứng dụng điện thoại, thu phí rất thấp hoặc bằng 0, thường có giao diện giống trò chơi. Ví dụ trong bài: tài sản do tư vấn tự động quản lý được dự báo vượt 2 nghìn tỷ đô la vào năm 2028. Hai mảng này quan trọng vì chúng là nơi AI tiếp xúc trực tiếp với nhà đầu tư cá nhân.
+
+**Dữ liệu thay thế (alternative data).** Mọi loại dữ liệu ngoài báo cáo tài chính và số liệu thị trường truyền thống: bài đăng mạng xã hội, ảnh vệ tinh bãi đỗ xe, dữ liệu thẻ thanh toán, lượt tìm kiếm trên mạng. Ví dụ minh hoạ: một quỹ đếm số xe trong bãi đỗ của một chuỗi siêu thị qua ảnh vệ tinh để đoán doanh thu trước khi công ty công bố. Trong bài, 64% chuyên gia đầu tư dùng loại dữ liệu này. Nó quan trọng vì nếu nhiều tổ chức cùng đọc một nguồn dữ liệu thì họ dễ ra quyết định giống nhau.
+
+**Hành vi bầy đàn và tính thuận chu kỳ (herd behavior, procyclicality).** Hành vi bầy đàn là khi nhiều nhà đầu tư cùng mua hoặc cùng bán một lúc. Tính thuận chu kỳ là khi hành vi đó khuếch đại xu hướng sẵn có: giá đang giảm thì mọi người bán thêm, làm giá giảm sâu hơn. Ví dụ minh hoạ: nếu mười quỹ cùng dùng một mô hình và mô hình báo "bán" khi giá giảm 5%, thì cú giảm 5% đầu tiên sẽ kéo theo một đợt bán đồng loạt của cả mười quỹ. Đây là cơ chế cốt lõi mà bài dùng để giải thích rủi ro hệ thống của AI.
+
+**Tập trung mô hình (model concentration).** Tình trạng nhiều tổ chức tài chính cùng dựa vào một số ít mô hình AI nền và một số ít nhà cung cấp dữ liệu, điện toán đám mây. Ví dụ minh hoạ: hàng trăm công ty chứng khoán cùng thuê một mô hình ngôn ngữ của cùng một nhà cung cấp để tóm tắt tin tức. Đây là luận điểm trung tâm của bài: rủi ro không nằm ở một mô hình hỏng mà ở việc mọi người cùng dùng một mô hình.
+
+**Thông đồng thuật toán (algorithmic collusion).** Khi các thuật toán định giá của những công ty cạnh tranh nhau cùng giữ giá cao hơn mức cạnh tranh. Có thể do con người cố ý lập trình, hoặc do thuật toán tự "học" ra rằng không hạ giá thì có lợi hơn. Ví dụ trong bài: vụ Trod Ltd và GB Eye bị Cơ quan Cạnh tranh và Thị trường Anh xử lý năm 2018. Khái niệm này quan trọng vì luật cạnh tranh hiện hành thường cần bằng chứng về thoả thuận giữa con người, nên trường hợp thuật toán tự học ra cách phối hợp rơi vào khoảng trống pháp lý.
+
+**Đặt lệnh giả (spoofing).** Đặt những lệnh mua hoặc bán lớn mà không định cho khớp, rồi huỷ ngay, nhằm tạo ấn tượng sai về cung cầu để các nhà giao dịch khác, nhất là thuật toán, phản ứng theo. Ví dụ trong bài: Navinder Sarao bị truy tố về hành vi này liên quan tới vụ sụp đổ chớp nhoáng năm 2010. Nó cho thấy thao túng có thể nhắm thẳng vào thuật toán.
+
+**SupTech và nguyên tắc tương xứng.** SupTech (supervisory technology) là việc cơ quan quản lý dùng công nghệ, kể cả AI, để giám sát thị trường. Nguyên tắc tương xứng (proportionality) nghĩa là mức độ quản lý chặt hay lỏng tuỳ theo mức rủi ro của từng tổ chức hay hoạt động. Ví dụ trong bài: FINRA của Hoa Kỳ giám sát 100% hoạt động giao dịch nhờ công cụ tự động. Hai khái niệm này là xương sống của các khuyến nghị cuối bài.
+
+## Nội dung chi tiết
 
 ### 1. Năm mảng nghiệp vụ
 
-- Bài chọn năm mảng làm khung quan sát: quản lý tài sản, giao dịch bán buôn, tư vấn đầu tư tự động, môi giới thế hệ mới, và gọi vốn cộng đồng. Bảng 1 ánh xạ từng mảng với các ứng dụng AI cụ thể.
-- Trong quản lý tài sản, khảo sát Mercer năm 2024 với một trăm năm mươi nhà quản lý cho thấy bức tranh chưa đồng đều: bốn mươi phần trăm dùng AI để phân tích dữ liệu lớn, nhưng hai mươi chín phần trăm vẫn hoàn toàn không dùng AI, và chỉ hai mươi lăm phần trăm đưa AI vào chính khâu ra quyết định đầu tư.
-- Ước tính của BCG về mức tăng hiệu quả cho thấy lợi ích tập trung ở khâu hỗ trợ chứ không phải khâu đầu tư: tiếp thị ba mươi tới bốn mươi phần trăm, công nghệ thông tin mười lăm tới ba mươi, vận hành hai mươi tới hai mươi lăm, còn rủi ro và tuân thủ mười lăm tới hai mươi lăm.
-- Giao dịch thuật toán đã chiếm tỷ trọng rất lớn ở thị trường phát triển và đang lan sang thị trường mới nổi, với Ấn Độ ở khoảng bốn mươi lăm tới năm mươi tám phần trăm và Thái Lan khoảng bốn mươi bốn phẩy tám phần trăm tính tới tháng 10/2025.
-- Điểm gây chú ý nhất là tốc độ tăng trưởng ở thị trường mới nổi. Tư vấn đầu tư tự động tăng một trăm bảy mươi hai phần trăm mỗi năm ở nhóm mới nổi so với một trăm bốn mươi phần trăm ở nhóm phát triển ngoài Hoa Kỳ. Môi giới thế hệ mới tăng hai trăm hai mươi ba phần trăm mỗi năm ở nhóm mới nổi so với một trăm chín mươi bảy phần trăm ở nhóm phát triển.
-- Về dữ liệu đầu vào, ba mươi lăm phần trăm chuyên gia đầu tư dùng công cụ kiểu ChatGPT, sáu mươi bốn phần trăm dùng dữ liệu thay thế và bốn mươi tám phần trăm dùng nguồn mở. Điều này quan trọng vì nó là tiền đề cho rủi ro đồng bộ hoá ở phần sau.
+Bài chọn năm mảng nghiệp vụ làm khung để quan sát AI đang đi vào thị trường vốn ở đâu: quản lý tài sản, giao dịch bán buôn, tư vấn đầu tư tự động, môi giới thế hệ mới, và gọi vốn cộng đồng. Với mỗi mảng, bài lập một bảng đối chiếu các ứng dụng AI cụ thể.
+
+**Quản lý tài sản.** Khảo sát của Mercer năm 2024 với 150 nhà quản lý tài sản cho thấy việc dùng AI chưa đồng đều. Bức tranh như sau:
+
+| Cách dùng AI | Tỷ lệ nhà quản lý |
+|---|---|
+| Phân tích dữ liệu lớn | 40% |
+| Tạo ý tưởng đầu tư | 32% |
+| Xác định dữ liệu và tín hiệu | 31% |
+| Hoàn toàn không dùng AI | 29% |
+| Đưa AI vào chính khâu ra quyết định đầu tư | 25% |
+
+Như vậy gần một phần ba nhà quản lý chưa dùng AI, và chỉ một phần tư để AI tham gia vào quyết định mua bán. Ước tính của BCG về mức tăng hiệu quả cũng cho thấy lợi ích của AI hiện tập trung ở các khâu hỗ trợ chứ không phải khâu đầu tư: tiếp thị tăng hiệu quả 30–40%, công nghệ thông tin 15–30%, vận hành 20–25%, bán hàng 15–25%, rủi ro và tuân thủ 15–25%.
+
+**Giao dịch bán buôn.** Giao dịch thuật toán đã chiếm tỷ trọng rất lớn ở thị trường phát triển và đang lan sang thị trường mới nổi:
+
+| Thị trường | Tỷ trọng giao dịch thuật toán |
+|---|---|
+| Hoa Kỳ | khoảng 70% |
+| Châu Âu | khoảng 50% |
+| Châu Á | khoảng 43% |
+| Mỹ Latin | khoảng 30% (tháng 12/2024) |
+| Ấn Độ (sàn NSE và BSE) | khoảng 45–58% |
+| Thái Lan (sàn SET) | khoảng 44,8% (tháng 10/2025) |
+
+**Tư vấn đầu tư tự động.** Tài sản do các dịch vụ này quản lý được dự báo vượt 2 nghìn tỷ đô la vào năm 2028. Giai đoạn 2017–23, tốc độ tăng trưởng ở Hoa Kỳ là 418% mỗi năm. Điểm gây chú ý là thị trường mới nổi tăng 172% mỗi năm, nhanh hơn nhóm phát triển ngoài Hoa Kỳ ở mức 140% mỗi năm.
+
+**Môi giới thế hệ mới.** Đây là các công ty môi giới qua ứng dụng di động, hoa hồng bằng 0 và giao diện được trò chơi hoá. Giai đoạn 2017–22, mảng này tăng 223% mỗi năm ở nhóm mới nổi so với 197% mỗi năm ở nhóm phát triển.
+
+**Gọi vốn cộng đồng.** Anh và Hoa Kỳ chiếm hơn một nửa khối lượng toàn cầu, nhưng thị trường mới nổi cũng đang tăng nhanh hơn thị trường phát triển.
+
+Như vậy, ở cả ba mảng bán lẻ (tư vấn tự động, môi giới mới, gọi vốn cộng đồng), thị trường mới nổi tăng nhanh hơn, dù xuất phát điểm thấp hơn nhiều.
+
+**Dữ liệu đầu vào.** 35% chuyên gia đầu tư đã dùng công cụ kiểu ChatGPT, 64% dùng dữ liệu thay thế và 48% dùng dữ liệu nguồn mở. Những con số này quan trọng vì chúng là tiền đề cho rủi ro đồng bộ hoá ở phần sau: khi nhiều người cùng dùng một loại công cụ và cùng đọc một loại dữ liệu, kết luận của họ dễ giống nhau.
+
+**Ví dụ hôm nay** (minh hoạ chung). Một nhà đầu tư cá nhân mở ứng dụng môi giới trên điện thoại, không trả phí giao dịch, được ứng dụng gợi ý danh mục do thuật toán chọn, và nhận thông báo dạng "huy hiệu" mỗi lần giao dịch. Cả ba mảng tư vấn tự động, môi giới thế hệ mới và trò chơi hoá đều có mặt trong một màn hình.
 
 ### 2. Cấu trúc rủi ro
 
-- Bài phân rủi ro theo ba tầng nguồn: hạ tầng, dữ liệu, và mô hình, rồi cho thấy cả ba đều đổ vào cùng một nhóm hậu quả trên thị trường.
-- Ở tầng dữ liệu, ngoài vấn đề chất lượng còn có hai rủi ro ít được nói tới: sự độc quyền nhóm của một số ít nhà cung cấp dữ liệu, và khả năng dữ liệu phi cấu trúc bị thao túng có chủ đích để đánh lừa mô hình.
-- Ở tầng mô hình, rủi ro nghiêm trọng nhất là sự đồng bộ hoá và tập trung. Nếu nhiều tổ chức cùng dùng một số ít mô hình nền và cùng nguồn dữ liệu, họ sẽ phản ứng giống nhau trước cùng một tín hiệu.
-- Hậu quả gồm hành vi bầy đàn, tính thuận chu kỳ, biến động tăng, bóp méo thị trường, bất đối xứng thông tin, và sai phạm với nhà đầu tư cá nhân. Điểm cần nhấn mạnh là những hậu quả này mang tính hệ thống chứ không phải cục bộ.
+Bài chia nguồn rủi ro thành ba tầng, rồi cho thấy cả ba tầng cùng đổ vào một nhóm hậu quả chung trên thị trường.
+
+| Tầng | Rủi ro cụ thể |
+|---|---|
+| Hạ tầng | Phụ thuộc vào bên thứ ba (nhà cung cấp đám mây, dữ liệu, mô hình); rủi ro an ninh mạng |
+| Dữ liệu | Chất lượng kém; độc quyền nhóm của một số ít nhà cung cấp dữ liệu; dữ liệu phi cấu trúc (văn bản, hình ảnh) bị thao túng có chủ đích để đánh lừa mô hình |
+| Mô hình | Đồng bộ hoá hành vi; tập trung vào vài mô hình giống nhau; thiếu bền vững và không giải thích được; sai phạm khi thực thi lệnh; thực hành không công bằng với nhà đầu tư |
+
+Ở tầng dữ liệu, ngoài chuyện chất lượng, có hai rủi ro ít được nói tới. Thứ nhất, thị trường dữ liệu tài chính nằm trong tay một số ít nhà cung cấp, nên một lỗi hay một thay đổi ở đó ảnh hưởng tới rất nhiều người dùng. Thứ hai, mô hình đọc văn bản và hình ảnh có thể bị đánh lừa nếu ai đó cố ý tung ra nội dung sai lệch vào đúng nguồn mà mô hình đọc.
+
+Ở tầng mô hình, rủi ro nghiêm trọng nhất là đồng bộ hoá và tập trung. Nếu nhiều tổ chức cùng dùng một số ít mô hình nền và cùng nguồn dữ liệu, họ sẽ phản ứng giống nhau trước cùng một tín hiệu. Thêm vào đó, mô hình có thể thiếu bền vững (hoạt động kém khi gặp tình huống khác dữ liệu huấn luyện) và khó giải thích (không ai nói rõ được vì sao nó ra quyết định).
+
+Hậu quả trên thị trường gồm:
+
+- **Hành vi bầy đàn**: nhiều bên cùng mua, cùng bán một lúc.
+- **Tính thuận chu kỳ**: khuếch đại xu hướng sẵn có, giá đang giảm thì bị đẩy giảm sâu hơn.
+- **Biến động tăng**, và thanh khoản bốc hơi đúng lúc cần nhất, vì khi mọi người cùng muốn bán thì không còn ai mua.
+- **Bóp méo thị trường**: giá không còn phản ánh thông tin thật về doanh nghiệp.
+- **Bất đối xứng thông tin** giữa tổ chức lớn có mô hình mạnh và nhà đầu tư nhỏ.
+- **Sai phạm với nhà đầu tư cá nhân**, chẳng hạn tư vấn không phù hợp hoặc giao diện thúc đẩy giao dịch quá nhiều.
+
+Điểm bài nhấn mạnh là những hậu quả này mang tính hệ thống chứ không cục bộ. Luận điểm trung tâm: rủi ro hệ thống không đến từ một mô hình hỏng, mà từ việc rất nhiều tổ chức dùng cùng một số ít mô hình và cùng nguồn dữ liệu. Khi tín hiệu đổi chiều, tất cả cùng quay đầu một lúc.
 
 ### 3. Thông đồng thuật toán
 
-- Hộp 1 phân biệt hai trường hợp khác nhau về bản chất pháp lý. Thông đồng có chủ ý, khi con người lập trình cho thuật toán phối hợp giá, thì luật cạnh tranh hiện hành xử lý được, và vụ Trod Ltd cùng GB Eye do Cơ quan Cạnh tranh và Thị trường Anh xử lý năm 2018 là tiền lệ.
-- Trường hợp khó là phối hợp không chủ ý. Calvano và cộng sự năm 2020 chứng minh trong môi trường thí nghiệm rằng thuật toán học tăng cường có thể tự học ra cách duy trì giá siêu cạnh tranh mà không cần bất kỳ thoả thuận hay liên lạc nào giữa các bên.
-- Đây là khoảng trống pháp lý thực sự, vì luật cạnh tranh ở hầu hết nơi đòi hỏi bằng chứng về một thoả thuận. Khi không có thoả thuận, không có liên lạc và không có ý định của con người, cơ quan quản lý gần như không có công cụ.
+Bài dành một hộp riêng để phân biệt hai trường hợp thông đồng có bản chất pháp lý khác nhau.
+
+| | Thông đồng có chủ ý | Thông đồng không chủ ý |
+|---|---|---|
+| Diễn ra thế nào | Con người lập trình cho thuật toán phối hợp giá với đối thủ | Thuật toán tự học ra rằng giữ giá cao thì có lợi hơn cạnh tranh |
+| Có thoả thuận, liên lạc, ý định của con người không | Có | Không |
+| Luật cạnh tranh hiện hành | Xử lý được | Thường không xử lý được, vì luật đòi bằng chứng về thoả thuận |
+
+Trường hợp có chủ ý đã có tiền lệ thực: vụ Trod Ltd và GB Eye, bị Cơ quan Cạnh tranh và Thị trường Anh xử lý năm 2018 vì dùng phần mềm định giá để phối hợp giá bán trên sàn thương mại điện tử.
+
+Trường hợp khó là phối hợp không chủ ý. Calvano và cộng sự (2020) chứng minh trong môi trường thí nghiệm rằng thuật toán học tăng cường, loại thuật toán học bằng cách thử nhiều lần và được "thưởng" khi lợi nhuận cao, có thể tự học ra cách duy trì giá siêu cạnh tranh, tức là cao hơn mức giá mà cạnh tranh bình thường tạo ra, mà không cần thoả thuận hay liên lạc nào giữa các bên.
+
+Đây là khoảng trống pháp lý thực sự. Luật cạnh tranh ở hầu hết nơi đòi hỏi bằng chứng về một thoả thuận. Khi không có thoả thuận, không có liên lạc và không có ý định của con người, cơ quan quản lý gần như không có công cụ, dù người mua vẫn chịu giá cao.
 
 ### 4. Các sự cố đã xảy ra
 
-- Knight Capital năm 2012 mất bốn trăm bốn mươi triệu đô la trong bốn mươi lăm phút vì lỗi triển khai phần mềm giao dịch, minh hoạ rủi ro vận hành của tốc độ tự động.
-- Sụp đổ chớp nhoáng năm 2010 và vụ truy tố Navinder Sarao cho thấy thao túng có thể nhắm vào chính các thuật toán, bằng cách đặt rồi huỷ lệnh để dẫn dụ chúng.
-- Quỹ Renaissance Institutional Equities thất bại vào tháng 3/2020 khi chế độ thị trường thay đổi đột ngột vì đại dịch, minh hoạ rằng mô hình học từ dữ liệu quá khứ không xử lý được cú sốc chưa từng có tiền lệ.
-- Các vụ xử phạt của SEC với Delphia và Global Predictions về hành vi khai khống năng lực AI cho thấy một dạng rủi ro khác hẳn: không phải AI gây hại, mà là lời hứa về AI được dùng để lừa nhà đầu tư.
-- Ở thị trường mới nổi, bài nêu vụ SEBI xử lý Nimi Enterprises năm 2023, cùng các vụ FCA kiện Da Vinci Invest năm 2015 và Paul Axel Walter năm 2017 ở Anh.
+Bài rút bài học từ bốn sự cố tiêu biểu, cộng thêm một số vụ ở thị trường mới nổi và ở Anh.
+
+| Sự cố | Chuyện gì xảy ra | Bài học |
+|---|---|---|
+| Knight Capital (2012) | Lỗi khi triển khai phần mềm giao dịch, công ty mất 440 triệu đô la trong 45 phút | Rủi ro vận hành của tốc độ tự động: lỗi nhân lên nhanh hơn con người kịp can thiệp |
+| Sụp đổ chớp nhoáng (2010) | Chỉ số chứng khoán Mỹ bốc hơi rồi hồi phục trong vài phút; Navinder Sarao bị truy tố vì đặt lệnh giả rồi huỷ để dẫn dụ thuật toán khác | Thao túng có thể nhắm vào chính các thuật toán |
+| Quỹ Renaissance Institutional Equities (3/2020) | Mô hình định lượng thất bại khi chế độ thị trường đổi đột ngột vì đại dịch | Mô hình học từ dữ liệu quá khứ không xử lý được cú sốc chưa từng có tiền lệ |
+| "AI washing": Delphia và Global Predictions | SEC xử phạt hai công ty vì khai khống năng lực AI của mình | Rủi ro không chỉ đến từ AI thật mà từ lời hứa về AI dùng để lừa nhà đầu tư |
+
+Vụ cuối cùng khác hẳn ba vụ đầu: không phải AI gây hại, mà là danh nghĩa "AI" được dùng để thu hút khách hàng.
+
+Ở thị trường mới nổi, bài nêu vụ SEBI (cơ quan quản lý chứng khoán Ấn Độ) xử lý Nimi Enterprises năm 2023. Ở Anh, bài nêu các vụ FCA kiện Da Vinci Invest năm 2015 và Paul Axel Walter năm 2017.
 
 ### 5. Bức tranh quản lý
 
-- Khảo sát ba mươi mốt khu vực pháp lý với ba mươi ba cơ quan cho thấy nền tảng pháp lý chung khá vững: chín mươi bảy phần trăm có luật về tội phạm mạng, chín mươi bốn phần trăm có khung quản trị dữ liệu, tám mươi bốn phần trăm có chiến lược quốc gia về AI.
-- Nhưng chỉ năm mươi hai phần trăm có đạo luật riêng về AI, và ở cấp cơ quan quản lý chứng khoán, hành động cưỡng chế liên quan tới AI mới ở mức ba phần trăm. Phần lớn hoạt động vẫn là tiếp cận, phổ biến và làm rõ cách áp dụng quy định sẵn có.
-- Hướng dẫn cụ thể tập trung vào hai mảng đã quen thuộc: tám mươi tám phần trăm có hướng dẫn về tư vấn đầu tư tự động và bảy mươi chín phần trăm về giao dịch thuật toán.
-- Ở cấp tổ chức đặt chuẩn, bài dẫn các báo cáo của Hội đồng Ổn định Tài chính năm 2017, 2024 và 2025, cùng báo cáo IOSCO năm 2021 với sáu biện pháp đề xuất, tài liệu tham vấn năm 2025 và báo cáo về môi giới thế hệ mới.
-- Ở cấp quốc gia, bài dẫn ESMA và Đạo luật AI của EU với Điều 14 về giám sát của con người, thông tư tháng 11/2024 của SFC Hong Kong, quy tắc AI tạo sinh của Trung Quốc có hiệu lực từ 15/8/2023 cùng cơ chế đăng ký thuật toán, và đề xuất năm 2024 của SEBI quy trách nhiệm hoàn toàn cho tổ chức trung gian sử dụng AI.
+Bài khảo sát 31 khu vực pháp lý với 33 cơ quan. Nền tảng pháp lý chung ở cấp quốc gia khá vững, nhưng quy định riêng cho AI và hành động cưỡng chế còn rất mỏng.
+
+| Cấp | Nội dung | Tỷ lệ có |
+|---|---|---|
+| Quốc gia | Luật về tội phạm mạng | 97% |
+| Quốc gia | Khung quản trị dữ liệu | 94% |
+| Quốc gia | Chiến lược quốc gia về AI | 84% |
+| Quốc gia | Đạo luật riêng về AI | 52% |
+| Cơ quan chứng khoán | Hướng dẫn về tư vấn đầu tư tự động | 88% |
+| Cơ quan chứng khoán | Hướng dẫn về giao dịch thuật toán | 79% |
+| Cơ quan chứng khoán | Hoạt động tiếp cận, phổ biến | 67% |
+| Cơ quan chứng khoán | Văn bản làm rõ cách áp dụng quy định sẵn có | 61% |
+| Cơ quan chứng khoán | Quy định dựa trên nguyên tắc riêng cho AI | 9% |
+| Cơ quan chứng khoán | Hành động cưỡng chế liên quan tới AI | 3% |
+
+Đọc bảng: đạo luật riêng về AI mới có ở hơn một nửa số nơi (52%). Hướng dẫn cụ thể tập trung vào hai mảng đã quen thuộc là tư vấn tự động (88%) và giao dịch thuật toán (79%). Phần lớn hoạt động của cơ quan chứng khoán vẫn là tiếp cận, phổ biến và làm rõ cách áp dụng quy định có sẵn, còn hành động cưỡng chế liên quan tới AI gần như chưa có (3%).
+
+Ở cấp tổ chức đặt chuẩn quốc tế, bài dẫn các báo cáo của Hội đồng Ổn định Tài chính (FSB) năm 2017, 2024 và 2025; báo cáo IOSCO (Tổ chức Quốc tế các Uỷ ban Chứng khoán) năm 2021 với sáu biện pháp đề xuất; tài liệu tham vấn của IOSCO năm 2025; và báo cáo của IOSCO về môi giới thế hệ mới.
+
+Ở cấp quốc gia, bài nêu các ví dụ:
+
+- **EU**: ESMA (cơ quan chứng khoán châu Âu) và Đạo luật AI của EU, trong đó Điều 14 yêu cầu giám sát của con người đối với hệ thống AI rủi ro cao.
+- **Hong Kong**: SFC ra thông tư về AI tháng 11/2024.
+- **Trung Quốc**: quy tắc về AI tạo sinh có hiệu lực từ 15/8/2023, kèm cơ chế đăng ký thuật toán với nhà nước.
+- **Ấn Độ**: SEBI ra thông tư năm 2019; đề xuất năm 2024 quy trách nhiệm hoàn toàn cho tổ chức trung gian dùng AI, tức là công ty không được đổ lỗi cho thuật toán.
+- **Thái Lan**: SEC Thái Lan nghiên cứu giao dịch tần suất cao và quản lý người ảnh hưởng tài chính trên mạng xã hội.
 
 ### 6. Bảy khuyến nghị
 
-- Về năng lực giám sát, cơ quan quản lý cần bộ kỹ năng mới, không chỉ pháp lý mà cả kỹ thuật, và phải cạnh tranh về nhân sự với chính khu vực tư nhân mà họ giám sát.
-- Về công cụ, bài lập luận rằng giám sát phải được nâng cấp bằng chính công nghệ đang được giám sát, dẫn ví dụ FINRA giám sát toàn bộ một trăm phần trăm hoạt động giao dịch.
-- Về giám sát thị trường theo nguyên tắc tương xứng, Bảng 2 đưa một bộ chỉ tiêu tham chiếu để theo dõi mức độ tập trung, đồng bộ hoá và bất thường, cho phép cơ quan nhỏ tập trung nguồn lực vào nơi rủi ro cao nhất.
-- Về minh bạch, yêu cầu công bố rằng AI đang được dùng ở khâu nào, để nhà đầu tư hiểu được bản chất dịch vụ mình mua.
-- Về mạng xã hội, giám sát nội dung do AI tạo ra và hoạt động của người ảnh hưởng tài chính, vốn có thể tác động tới hành vi nhà đầu tư nhỏ lẻ ở quy mô lớn.
-- Về hợp tác xuyên biên giới, bài đưa ra lập luận đặc biệt mạnh cho thị trường mới nổi bằng các số liệu về mức độ hiện diện của nhà đầu tư và tổ chức nước ngoài: ngân hàng nước ngoài nắm hơn tám mươi phần trăm tài sản ngân hàng ở Mexico, nhà đầu tư nước ngoài nắm ba mươi phần trăm cổ phiếu và hai mươi lăm phần trăm trái phiếu chính phủ ở Nam Phi, và hoạt động bán khống cùng giao dịch theo chương trình của nước ngoài chiếm tới mười lăm phần trăm giao dịch ngày ở Thái Lan. Bài cũng lưu ý bài học từ các nỗ lực hội nhập thị trường trước đây, như việc Liên kết Giao dịch ASEAN ngừng hoạt động năm 2017.
-- Về rủi ro tập trung, vài nhà cung cấp đám mây và dữ liệu có thể trở thành điểm hỏng duy nhất cho cả thị trường, và đây là rủi ro không tổ chức đơn lẻ nào có thể tự xử lý.
+Bài kết thúc bằng bảy khuyến nghị cho cơ quan quản lý.
+
+1. **Năng lực và bộ kỹ năng giám sát.** Cơ quan quản lý cần tuyển và giữ người hiểu học máy, không chỉ người hiểu luật. Khó khăn là họ phải cạnh tranh về nhân sự với chính khu vực tư nhân mà họ giám sát, vốn trả lương cao hơn.
+
+2. **Công cụ giám sát dựa trên công nghệ (SupTech).** Bài lập luận rằng công cụ giám sát phải được nâng cấp bằng chính công nghệ đang được giám sát, tức là dùng AI để giám sát AI. Ví dụ tham chiếu là FINRA giám sát toàn bộ 100% hoạt động giao dịch.
+
+3. **Giám sát thị trường theo nguyên tắc tương xứng.** Bài đề xuất một bộ chỉ tiêu tham chiếu để theo dõi mức độ tập trung, mức độ đồng bộ hoá và các dấu hiệu bất thường trên thị trường. Bộ chỉ tiêu này giúp cơ quan nhỏ, ít người, dồn nguồn lực vào nơi rủi ro cao nhất thay vì giám sát dàn trải.
+
+4. **Minh bạch và công bố thông tin.** Tổ chức phải công bố AI đang được dùng ở khâu nào, để nhà đầu tư hiểu bản chất dịch vụ mình mua.
+
+5. **Giám sát mạng xã hội.** Theo dõi nội dung do AI tạo ra và hoạt động của người ảnh hưởng tài chính, vì họ có thể tác động tới hành vi của rất nhiều nhà đầu tư nhỏ lẻ cùng lúc.
+
+6. **Hợp tác xuyên biên giới.** Bài đưa ra lập luận đặc biệt mạnh cho thị trường mới nổi, vì ở đó nhà đầu tư và tổ chức nước ngoài chiếm phần lớn hoạt động, nên cơ quan trong nước không tự giám sát hết được:
+
+   | Nước | Mức độ hiện diện của nước ngoài |
+   |---|---|
+   | Mexico | Ngân hàng nước ngoài nắm hơn 80% tài sản ngân hàng; giao dịch phi tập trung (OTC) với đối tác nước ngoài gấp đôi giao dịch trong nước |
+   | Nam Phi | Nhà đầu tư nước ngoài nắm 30% cổ phiếu trên sàn JSE và 25% trái phiếu chính phủ |
+   | Thái Lan | Bán khống và giao dịch theo chương trình của nước ngoài chiếm tới 15% giao dịch trong ngày |
+
+   Bài cũng lưu ý bài học từ các nỗ lực hội nhập trước đây, như việc Liên kết Giao dịch ASEAN ngừng hoạt động năm 2017.
+
+7. **Rủi ro tập trung và hạ tầng.** Vài nhà cung cấp đám mây và dữ liệu có thể trở thành điểm hỏng duy nhất của cả thị trường: một nhà cung cấp gặp sự cố thì nhiều tổ chức cùng ngừng hoạt động. Đây là rủi ro mà không tổ chức đơn lẻ nào tự xử lý được, nên cần cơ quan quản lý nhìn ở cấp toàn hệ thống.
 
 ## Thuật ngữ
 

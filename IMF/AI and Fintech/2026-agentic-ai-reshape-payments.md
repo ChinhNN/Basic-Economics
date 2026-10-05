@@ -165,45 +165,133 @@
 2. Vì sao lớp kiểm soát và uỷ quyền, chứ không phải lớp quyết toán, là nơi quyết định?
 3. Cơ quan quản lý và ngân hàng trung ương nên chuẩn bị gì ngay từ bây giờ?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**AI tác tử (agentic AI).** Hệ thống AI không chỉ trả lời câu hỏi mà tự lập kế hoạch và tự hành động để đạt một mục tiêu được giao: tìm kiếm, so sánh, gọi phần mềm khác, điền biểu mẫu và trả tiền. Ví dụ trong bài: người dùng chỉ nói "đặt chuyến đi dưới 800 đô, bay thẳng, huỷ được", tác tử tự làm phần còn lại. Khái niệm này là nền của cả bài, vì thứ thay đổi là người ra quyết định tại thời điểm trả tiền không còn là con người.
+
+**"Bấm để trả" và "quyết định để trả" (click-to-pay, decide-to-pay).** Trong mô hình bấm để trả, mỗi giao dịch có một hành động có ý thức của con người đúng lúc tiền chuyển đi, ví dụ bấm nút "Thanh toán". Trong mô hình quyết định để trả, con người đồng ý trước với một dải kết quả, còn tác tử chọn giao dịch cụ thể sau. Ví dụ minh hoạ: bạn cho phép tác tử "mua đồ tạp hoá hằng tuần, tối đa 1,5 triệu đồng", rồi không còn duyệt từng đơn. Đây là tên bài dùng cho bước chuyển mà nó phân tích.
+
+**Uỷ quyền (authorization) và bằng chứng uỷ quyền kiểm toán được.** Uỷ quyền là việc xác nhận một giao dịch được người có quyền cho phép. Trong thanh toán cũ, cú bấm của chủ tài khoản kèm mật khẩu hay mã OTP là bằng chứng. Với tác tử, bằng chứng phải là một văn bản số ghi rõ ai cho phép, cho tác tử nào, trong hạn mức và thời hạn nào, và bên thứ ba kiểm tra lại được. Ví dụ minh hoạ: một "giấy uỷ quyền số" cho phép tác tử X chi tối đa 200 đô la mỗi tháng tại ba cửa hàng nhất định, hết hạn cuối năm. Bài coi đây là trọng tâm của toàn bộ vấn đề.
+
+**Chứng thư có thể kiểm chứng và token phạm vi hẹp (verifiable credential, scoped token).** Chứng thư có thể kiểm chứng là một tài liệu số được ký bằng mật mã, nên ai cũng kiểm tra được nó thật và chưa bị sửa. Token phạm vi hẹp là một "chìa khoá" thanh toán chỉ dùng được trong giới hạn định trước: số tiền, thương nhân, thời gian. Ví dụ minh hoạ: thay vì đưa tác tử số thẻ thật, ngân hàng cấp một token chỉ chi được tối đa 50 đô la tại một hãng hàng không trong 24 giờ. Đây là công cụ chính của lớp kiểm soát và uỷ quyền.
+
+**Biết tác tử của bạn (KYA, know your agent).** Ngân hàng vốn phải "biết khách hàng của bạn" (KYC): xác minh người mở tài khoản là ai. KYA là nghĩa vụ tương tự với tác tử: tác tử này là gì, do ai vận hành, thay mặt ai, ai chịu trách nhiệm pháp lý. Ví dụ minh hoạ: một sổ đăng ký trong đó mỗi tác tử có mã định danh gắn với một công ty hoặc cá nhân cụ thể. KYA quan trọng vì tác tử có thể bị chiếm quyền, giả mạo, hoặc bị dùng để che giấu người thật đứng sau.
+
+**Công tắc ngắt (kill switch) và giới hạn tốc độ.** Công tắc ngắt là cơ chế dừng khẩn cấp mọi hoạt động của một tác tử, một nhà cung cấp, hay cả hệ thống. Giới hạn tốc độ là trần số giao dịch được phép trong một khoảng thời gian. Ví dụ trong bài: một tác tử hiểu sai "rẻ nhất" và đặt 400 vé không huỷ được; giới hạn tốc độ và công tắc ngắt chặn lỗi trước khi nó nhân lên. Đây là biện pháp giảm thiểu chính cho rủi ro vận hành.
+
+**Vi thanh toán (micropayment).** Giao dịch có giá trị rất nhỏ, có thể chỉ vài xu, mà tác tử tạo ra với tần suất cao, ví dụ trả tiền cho mỗi lần truy vấn một nguồn dữ liệu. Ví dụ minh hoạ: nếu phí cố định mỗi giao dịch thẻ là 0,30 đô la, thì một khoản trả 0,05 đô la sẽ tốn phí gấp sáu lần giá trị của nó. Vì vậy thanh toán bằng tác tử gây áp lực lên cách tính phí của hạ tầng hiện có.
+
+**Hành vi bầy đàn (herding behavior).** Khi nhiều tác tử dùng chung một mô hình nền và phản ứng giống nhau trước cùng một tín hiệu, chúng cùng mua hoặc cùng bán một lúc, làm giá biến động đồng bộ. Ví dụ minh hoạ: hàng nghìn tác tử cùng thấy một mặt hàng giảm giá và cùng đặt mua trong một phút, khiến hàng hết và giá bật tăng. Đây là một kênh rủi ro cạnh tranh và hệ thống trong bài.
+
+## Nội dung chi tiết
 
 ### 1. Vì sao lần này khác
 
-- Bốn thập niên qua, thanh toán liên tục bị gỡ bỏ các bước trung gian: thẻ và ATM tách thanh toán khỏi quầy giao dịch, thương mại điện tử tách nó khỏi cửa hàng vật lý, ví điện tử tách khỏi thẻ nhựa, di động và mã QR tách khỏi thiết bị đầu cuối, thanh toán nhúng tách khỏi chính hành vi thanh toán có ý thức.
-- Mỗi làn sóng đó vẫn giữ nguyên một điểm cố định: tại thời điểm tiền chuyển đi, một con người đã ra quyết định. AI tác tử gỡ bỏ chính điểm cố định ấy. Đó là lý do bài gọi bước chuyển này là từ "click-to-pay" sang "decide-to-pay".
-- Hệ quả pháp lý sâu xa: trong mô hình cũ, sự đồng ý, việc xác thực danh tính và việc uỷ quyền chi tiêu hội tụ tại một cú bấm. Trong mô hình mới, ba thứ đó tách rời nhau cả về thời gian lẫn phạm vi. Người dùng đồng ý với một dải kết quả có thể xảy ra, trước khi biết giao dịch cụ thể sẽ là gì.
-- Điều này đặt lại câu hỏi trung tâm của toàn bộ ngành thanh toán. Câu hỏi không còn là "ai đã bấm nút" mà là "ai đã uỷ quyền cho giao dịch này, trong phạm vi nào, và có bằng chứng gì".
+Trong bốn thập niên qua, thanh toán liên tục bị gỡ bỏ các bước trung gian. Mỗi làn sóng tách thanh toán khỏi một thứ:
+
+| Thập niên | Đổi mới | Thanh toán được tách khỏi |
+|---|---|---|
+| 1980s | Thẻ và máy ATM | Quầy giao dịch ngân hàng |
+| 1990s | Thương mại điện tử | Cửa hàng vật lý |
+| 2000s | Ví điện tử và PayPal | Thẻ nhựa |
+| 2010s | Di động và mã QR; thanh toán tức thời trở nên phổ biến | Thiết bị đầu cuối tại quầy |
+| 2020s | Thanh toán nhúng và thời gian thực (trong ứng dụng gọi xe, giao đồ ăn, phần mềm kế toán) | Chính hành vi thanh toán có ý thức |
+| Cuối 2020s | AI tác tử | Con người ra quyết định |
+
+Mỗi làn sóng trước đây bỏ đi một bước thao tác, nhưng vẫn giữ nguyên một điểm cố định: tại thời điểm tiền chuyển đi, một con người đã ra quyết định. AI tác tử gỡ bỏ chính điểm cố định ấy. Đó là lý do bài gọi bước chuyển này là từ "bấm để trả" (click-to-pay) sang "quyết định để trả" (decide-to-pay).
+
+**So sánh hai mô hình.** Trong mô hình cũ, người dùng duyệt hàng, chọn, bấm xác nhận rồi tiền đi. Trong mô hình mới, người dùng chỉ nêu mục tiêu, ví dụ "đặt chuyến đi dưới 800 đô, bay thẳng, huỷ được". Tác tử AI tự tìm kiếm, so sánh, thương lượng và mua; nó có thể gọi các tác tử khác của bên bán, bên vận chuyển, bên bảo hiểm. Con người chỉ thấy kết quả cuối, không thấy từng bước.
+
+**Hệ quả pháp lý sâu xa.** Trong mô hình cũ, ba thứ hội tụ tại một cú bấm: sự đồng ý của người dùng, việc xác thực danh tính, và việc uỷ quyền chi tiêu. Trong mô hình mới, ba thứ đó tách rời nhau cả về thời gian lẫn phạm vi. Người dùng đồng ý trước với một dải kết quả có thể xảy ra, khi chưa biết giao dịch cụ thể sẽ là gì.
+
+**Ba hệ quả trực tiếp:**
+
+1. **Số lượng giao dịch tăng vọt, giá trị mỗi giao dịch giảm.** Tác tử chia nhỏ đơn hàng, thử, huỷ, thử lại. Điều này gây áp lực lên các khoản phí cố định mỗi giao dịch và lên hạ tầng vi thanh toán.
+2. **Tốc độ vượt nhịp con người.** Một lỗi logic có thể nhân bản thành hàng nghìn giao dịch trước khi ai kịp nhìn thấy.
+3. **Câu hỏi trung tâm thay đổi.** Câu hỏi của toàn ngành thanh toán không còn là "ai đã bấm nút" mà là "ai đã uỷ quyền cho giao dịch này, trong phạm vi nào, và có bằng chứng gì". Vì vậy cần bằng chứng uỷ quyền kiểm toán được.
 
 ### 2. Mô hình ba lớp
 
-- **Lớp ý định và điều phối.** Đây là nơi mục tiêu bằng ngôn ngữ tự nhiên được chuyển thành một kế hoạch có cấu trúc. Tác tử phân rã mục tiêu thành các bước, gọi công cụ, truy vấn dữ liệu và có thể gọi các tác tử khác. Giao thức đang hình thành gồm Model Context Protocol để kết nối tác tử với công cụ và dữ liệu, và Agent-to-Agent để tác tử trao đổi với nhau.
-- **Lớp kiểm soát và uỷ quyền.** Đây là lớp mà bài coi là quyết định. Nó trả lời các câu hỏi: tác tử này có được phép chi tiêu không, thay mặt ai, trong hạn mức nào, với thương nhân nào, hiệu lực đến khi nào. Công cụ gồm uỷ quyền có thể kiểm chứng bằng mật mã, token phạm vi hẹp và chữ ký số. Đây cũng là nơi tự nhiên để đặt kiểm tra chống rửa tiền, sàng lọc trừng phạt, giới hạn rủi ro và công tắc ngắt.
-- **Lớp quyết toán.** Việc chuyển giá trị thật diễn ra qua các kênh đã có: mạng thẻ, hệ thống thanh toán tức thời, tiền gửi token hoá, stablecoin hoặc CBDC. Phần lớn hạ tầng này đã tồn tại và vận hành tốt. Thách thức không phải là xây mới mà là thích ứng với khối lượng lớn giao dịch giá trị nhỏ, tính khả dụng liên tục và khả năng đảo ngược khi tác tử sai.
-- Bài nhấn mạnh rằng cuộc cạnh tranh thương mại hiện nay, thể hiện qua các sáng kiến của OpenAI cùng Stripe, Amazon, Google, Visa, Mastercard và PayPal, đều nhắm vào lớp thứ hai. Ai định nghĩa được chuẩn uỷ quyền tác tử sẽ định nghĩa được luật chơi kinh tế của thương mại tác tử.
+Bài đề xuất chia chuỗi thanh toán bằng tác tử thành ba lớp xếp chồng. Ý định đi từ lớp 1 xuống, được cấu trúc hoá, rồi được uỷ quyền ở lớp 2, rồi mới tới lớp 3 để chuyển tiền.
+
+**Lớp 1: ý định và điều phối (intent and orchestration).** Đây là nơi mục tiêu bằng ngôn ngữ tự nhiên được diễn giải thành một kế hoạch có cấu trúc. Tác tử phân rã mục tiêu thành các bước, gọi công cụ, truy vấn dữ liệu và có thể gọi các tác tử khác. Hai giao thức đang hình thành: MCP (Model Context Protocol) để kết nối tác tử với công cụ và dữ liệu, và A2A (Agent-to-Agent) để tác tử trao đổi trực tiếp với nhau. Rủi ro ở lớp này gồm diễn giải sai ý định người dùng, tác tử bị "tiêm lệnh" (prompt injection, tức bị cài chỉ dẫn độc hại giấu trong nội dung nó đọc), và xung đột mục tiêu giữa các tác tử.
+
+**Lớp 2: kiểm soát và uỷ quyền (control and authorization).** Đây là lớp mà bài coi là quyết định, nơi tập trung quyền lực và trách nhiệm. Nó trả lời các câu hỏi: tác tử này có quyền chi tiêu không, thay mặt ai, trong hạn mức nào, với thương nhân nào, phạm vi nào, hiệu lực đến khi nào. Công cụ gồm uỷ quyền có thể kiểm chứng bằng mật mã, token phạm vi hẹp, hạn mức, danh sách thương nhân được phép, và chữ ký số. Đây cũng là nơi tự nhiên để đặt KYA, kiểm tra chống rửa tiền, sàng lọc trừng phạt, giới hạn rủi ro và công tắc ngắt.
+
+Các chuẩn đang cạnh tranh ở lớp này:
+
+| Chuẩn | Bên đứng sau | Đặc điểm |
+|---|---|---|
+| UCP (Universal Commerce Protocol) | OpenAI và Stripe | Chuẩn thương mại tác tử, mua hàng ngay trong hội thoại |
+| AP2 (Agent Payments Protocol) | Google | Chuẩn thanh toán tác tử mở cho bên thứ ba |
+| x402 | | Hồi sinh mã trạng thái HTTP 402 ("cần thanh toán"), vốn có từ lâu nhưng chưa từng được dùng |
+| ERC-1812, ERC-4337, ERC-6900, ERC-8004 | Cộng đồng Ethereum | Các chuẩn trên chuỗi khối Ethereum; ví dụ ERC-4337 cho phép ví lập trình được, ERC-8004 đề xuất danh tính và uy tín của tác tử |
+
+**Lớp 3: quyết toán (settlement).** Việc chuyển giá trị thật diễn ra qua các kênh đã có: mạng thẻ, hệ thống chuyển khoản tức thời, tiền gửi token hoá, stablecoin hoặc CBDC. Phần lớn hạ tầng này đã tồn tại và vận hành tốt. Thách thức không phải xây mới mà là thích ứng với ba đòi hỏi: chi phí đơn vị thấp cho giao dịch siêu nhỏ, tính khả dụng 24/7, và khả năng đảo ngược khi tác tử sai.
+
+**Luận điểm trung tâm.** Lớp 3 không phải điểm nghẽn. Ai thắng hay thua sẽ được quyết định ở lớp 2. Ai kiểm soát lớp uỷ quyền sẽ đặt ra luật chơi kinh tế của thương mại tác tử, và vì thế là đối tượng tự nhiên của quản lý nhà nước.
+
+**Ai đang xây gì.** Cuộc cạnh tranh thương mại hiện nay đều nhắm vào lớp 2:
+
+- **OpenAI và Stripe**: Universal Commerce Protocol, mua hàng ngay trong cuộc hội thoại với chatbot.
+- **Amazon**: tác tử mua sắm gắn với danh mục hàng của chính Amazon.
+- **Google**: Agent Payments Protocol (AP2), mở cho bên thứ ba.
+- **Visa và Mastercard**: chương trình tác tử với token uỷ quyền gắn vào mạng thẻ hiện có.
+- **PayPal**: bộ công cụ tác tử cho thương nhân.
+
+Cuộc đua thực sự là giành lớp 2, không phải lớp 3: ai định nghĩa được chuẩn uỷ quyền tác tử sẽ định nghĩa được luật chơi.
 
 ### 3. Hành trình thanh toán được viết lại
 
-- **Khởi tạo.** Thay vì người dùng chọn sản phẩm và phương thức, tác tử nhận mục tiêu và tự chọn cả hai. Việc chọn phương thức thanh toán trở thành một quyết định tối ưu hoá của máy, dựa trên chi phí, tốc độ, khả năng hoàn tiền và chương trình thưởng.
-- **Uỷ quyền.** Thay vì xác thực hai yếu tố tại thời điểm giao dịch, hệ thống kiểm tra một chứng thư uỷ quyền đã được cấp trước. Chứng thư này cần nêu rõ phạm vi, hạn mức, thời hạn và danh tính của cả người uỷ quyền lẫn tác tử được uỷ quyền.
-- **Khớp lệnh và thương lượng.** Đây là bước hoàn toàn mới. Tác tử bên mua có thể thương lượng với tác tử bên bán về giá, điều kiện giao hàng, bảo hiểm và chính sách huỷ. Giao dịch có thể được chia nhỏ, thử, huỷ và thử lại nhiều lần trước khi chốt.
-- **Quyết toán.** Giá trị chuyển đi qua hạ tầng hiện có, nhưng với đặc điểm mới: giá trị nhỏ hơn, tần suất cao hơn, và nhu cầu quyết toán tức thời để tác tử có thể tiếp tục bước tiếp theo.
-- **Hậu giao dịch.** Đối soát, tranh chấp và hoàn tiền trở nên phức tạp hơn vì phải truy ngược qua chuỗi quyết định của máy. Bài nhấn mạnh nhu cầu về nhật ký kiểm toán ghi lại không chỉ giao dịch mà cả lý do tác tử đưa ra quyết định đó.
+Bài đi qua từng bước của một giao dịch để thấy mỗi bước thay đổi thế nào khi có tác tử:
+
+| Bước | Trước đây | Với tác tử |
+|---|---|---|
+| Khởi tạo | Người dùng chọn sản phẩm và phương thức thanh toán | Tác tử nhận mục tiêu và tự chọn cả hai |
+| Uỷ quyền | Xác thực hai yếu tố (mật khẩu cộng mã gửi về điện thoại) đúng lúc giao dịch | Hệ thống kiểm tra một chứng thư uỷ quyền đã cấp trước |
+| Khớp lệnh và thương lượng | Gần như không có, người mua chấp nhận giá niêm yết | Tác tử bên mua thương lượng với tác tử bên bán |
+| Quyết toán | Qua hạ tầng hiện có | Vẫn qua hạ tầng hiện có, nhưng giá trị nhỏ hơn, tần suất cao hơn, cần tức thời |
+| Hậu giao dịch | Đối soát, tranh chấp, hoàn tiền theo quy trình quen thuộc | Phức tạp hơn vì phải truy ngược chuỗi quyết định của máy |
+
+**Khởi tạo.** Việc chọn phương thức thanh toán trở thành một bài toán tối ưu hoá của máy, dựa trên chi phí, tốc độ, khả năng hoàn tiền và chương trình thưởng. Thẻ hay ví nào được dùng không còn do thói quen của người dùng quyết định.
+
+**Uỷ quyền.** Chứng thư uỷ quyền cấp trước cần nêu rõ phạm vi, hạn mức, thời hạn, và danh tính của cả người uỷ quyền lẫn tác tử được uỷ quyền.
+
+**Khớp lệnh và thương lượng.** Đây là bước hoàn toàn mới. Hai tác tử có thể thương lượng về giá, điều kiện giao hàng, bảo hiểm và chính sách huỷ. Giao dịch có thể được chia nhỏ, thử, huỷ và thử lại nhiều lần trước khi chốt.
+
+**Quyết toán.** Tác tử cần quyết toán tức thời để biết giao dịch đã xong và tiếp tục bước tiếp theo trong kế hoạch.
+
+**Hậu giao dịch.** Bài nhấn mạnh nhu cầu về nhật ký kiểm toán ghi lại không chỉ giao dịch mà cả lý do tác tử đưa ra quyết định đó, để khi có tranh chấp người ta biết nó đã "nghĩ" gì.
 
 ### 4. Rủi ro
 
-- **Vận hành.** Rủi ro đặc trưng không phải là lỗi mới về bản chất, mà là tốc độ và quy mô. Một lỗi logic trong tác tử có thể nhân bản thành hàng nghìn giao dịch sai trong vài giây, trước khi bất kỳ con người nào kịp nhìn thấy. Giảm thiểu đòi hỏi hạn mức cứng nhiều tầng, giới hạn tốc độ và công tắc ngắt ở cấp tác tử, cấp nhà cung cấp và cấp hệ thống.
-- **Uỷ quyền và trách nhiệm.** Khung bảo vệ người tiêu dùng hiện hành xây trên giả định rằng giao dịch không được uỷ quyền là giao dịch mà chủ tài khoản không thực hiện. Khi tác tử hành động trong phạm vi được cấp nhưng đưa ra kết quả người dùng không mong muốn, giao dịch đó được uỷ quyền hay không vẫn là câu hỏi mở. Bài kêu gọi làm rõ phân định trách nhiệm giữa người dùng, nhà phát triển tác tử, nền tảng và tổ chức tài chính.
-- **Tính toàn vẹn.** Bên cạnh biết khách hàng của bạn, cần khái niệm biết tác tử của bạn. Tác tử có thể bị chiếm quyền, bị giả mạo, hoặc bị dùng làm lớp che giấu chủ sở hữu hưởng lợi. Giải pháp hướng tới danh tính tác tử có thể kiểm chứng và việc gắn mỗi tác tử với một chủ thể pháp lý chịu trách nhiệm.
-- **Cạnh tranh.** Nếu một số ít nền tảng kiểm soát cả lớp ý định lẫn lớp uỷ quyền, họ có thể tự ưu tiên sản phẩm của mình và dựng rào cản. Ngoài ra, khi nhiều tác tử dùng chung một mô hình nền và phản ứng giống nhau trước cùng một tín hiệu, hành vi bầy đàn và biến động giá đồng bộ có thể xuất hiện.
-- **Hệ thống.** Nếu thương mại tác tử trở thành kênh chủ đạo, sự phụ thuộc vào một số ít nhà cung cấp mô hình tạo ra điểm hỏng đơn lẻ mới cho toàn nền kinh tế. Rủi ro tập trung nhà cung cấp cần được giám sát như rủi ro hạ tầng quan trọng.
+Bài phân năm nhóm rủi ro, mỗi nhóm kèm hướng giảm thiểu.
+
+**Rủi ro vận hành: lỗi nhân bản theo cấp số.** Rủi ro đặc trưng không phải là một loại lỗi mới, mà là tốc độ và quy mô. Một lỗi logic trong tác tử có thể nhân bản thành hàng nghìn giao dịch sai trong vài giây, trước khi bất kỳ ai kịp nhìn thấy. Ví dụ trong bài: tác tử hiểu sai "rẻ nhất" và đặt 400 vé không huỷ được. Giảm thiểu đòi hỏi hạn mức cứng nhiều tầng (theo giao dịch, theo ngày, theo thương nhân), giới hạn tốc độ, và công tắc ngắt ở ba cấp: cấp tác tử, cấp nhà cung cấp và cấp hệ thống.
+
+**Rủi ro uỷ quyền và trách nhiệm: ai chịu khi tác tử sai?** Người dùng, nhà phát triển tác tử, nền tảng hay ngân hàng? Khung bảo vệ người tiêu dùng hiện hành giả định con người bấm nút: giao dịch không được uỷ quyền là giao dịch mà chủ tài khoản không thực hiện, và khi đó ngân hàng thường phải hoàn tiền. Nhưng khi tác tử hành động trong phạm vi được cấp mà cho ra kết quả người dùng không mong muốn, giao dịch đó có được uỷ quyền hay không vẫn là câu hỏi mở; khái niệm "giao dịch không được uỷ quyền" trở nên mơ hồ. Bài kêu gọi bằng chứng uỷ quyền kiểm toán được và phân định rõ trách nhiệm giữa người dùng, nhà phát triển tác tử, nền tảng và tổ chức tài chính, cả bằng hợp đồng lẫn bằng luật.
+
+**Rủi ro tính toàn vẹn: cần KYA bên cạnh KYC.** Tác tử có thể bị chiếm quyền, bị giả mạo, hoặc bị dùng làm lớp che giấu chủ sở hữu hưởng lợi, tức người thật sự hưởng tiền. Giải pháp hướng tới danh tính tác tử có thể kiểm chứng, sổ đăng ký tác tử, và gắn mỗi tác tử với một chủ thể pháp lý chịu trách nhiệm.
+
+**Rủi ro thị trường và cạnh tranh: tập trung hoá.** Nếu một số ít nền tảng kiểm soát cả lớp ý định lẫn lớp uỷ quyền, họ có thể để tác tử của mình tự ưu tiên hàng hoá của chính họ và dựng rào cản với đối thủ. Ngoài ra, khi nhiều tác tử dùng chung một mô hình nền và phản ứng giống nhau trước cùng một tín hiệu, hành vi bầy đàn và biến động giá đồng bộ có thể xuất hiện. Giảm thiểu: bắt buộc khả năng liên thông, chuẩn mở, và quyền chuyển đổi tác tử (người dùng mang uỷ quyền của mình sang tác tử khác).
+
+**Rủi ro hệ thống và vĩ mô.** Nếu thương mại tác tử trở thành kênh thanh toán chính, sự cố ở một nhà cung cấp mô hình có thể lan ra toàn nền kinh tế: sự phụ thuộc vào vài nhà cung cấp tạo ra một điểm hỏng đơn lẻ mới. Rủi ro tập trung nhà cung cấp cần được giám sát như rủi ro hạ tầng quan trọng, kèm kiểm thử chịu đựng và yêu cầu về khả năng chống chịu vận hành.
 
 ### 5. Hàm ý chính sách
 
-- Quản lý nên theo chức năng kinh tế chứ không theo nhãn công nghệ. Nếu một tác tử thực hiện hoạt động khởi tạo thanh toán, hoạt động đó nên chịu cùng nghĩa vụ như bất kỳ đơn vị khởi tạo nào khác, bất kể nó là phần mềm hay con người.
-- Nghĩa vụ nên được đặt ở lớp uỷ quyền, vì đó là điểm duy nhất trong kiến trúc mà mọi giao dịch đều đi qua và có thể thực thi được. Đặt nghĩa vụ ở lớp ý định là không khả thi vì lớp đó phân tán và biến đổi nhanh; đặt ở lớp quyết toán là quá muộn.
-- Các sáng kiến hiện có cung cấp điểm tựa. Khung quản trị AI tác tử của cơ quan IMDA Singapore và Đạo luật AI của EU đưa ra nguyên tắc về minh bạch, giám sát của con người và phân loại theo mức rủi ro, có thể được áp dụng vào bối cảnh thanh toán.
-- Ngân hàng trung ương và cơ quan giám sát nên bắt đầu ngay ba việc: xây năng lực kỹ thuật để hiểu và kiểm tra hệ thống tác tử; tham gia vào quá trình đặt chuẩn uỷ quyền khi các chuẩn còn đang hình thành thay vì tiếp nhận chuẩn đã cố định; và làm rõ trách nhiệm pháp lý trước khi khối lượng giao dịch tác tử đủ lớn để gây sự cố hệ thống.
-- Bài kết luận rằng thời điểm hành động là bây giờ, khi chuẩn còn mềm dẻo. Một khi kiến trúc uỷ quyền đông cứng lại quanh các lựa chọn thương mại của vài nền tảng, việc sửa lại sẽ tốn kém hơn nhiều.
+**Quản lý theo chức năng, không theo nhãn công nghệ.** Câu hỏi là hoạt động gì đang được thực hiện, không phải công nghệ gì đang thực hiện nó. Nếu một tác tử thực hiện hoạt động khởi tạo thanh toán, hoạt động đó nên chịu cùng nghĩa vụ như bất kỳ đơn vị khởi tạo thanh toán nào khác, dù là phần mềm hay con người.
+
+**Đặt nghĩa vụ ở lớp uỷ quyền.** Đó là điểm duy nhất trong kiến trúc mà mọi giao dịch đều đi qua và nơi nghĩa vụ có thể thực thi được. Đặt nghĩa vụ ở lớp ý định là không khả thi, vì lớp đó phân tán và biến đổi quá nhanh. Đặt ở lớp quyết toán là quá muộn, vì khi đó quyết định đã được đưa ra.
+
+**Dựa vào các khung đã có.** Khung quản trị AI tác tử của IMDA (Cơ quan Phát triển Truyền thông Thông tin Singapore) và Đạo luật AI của EU, với nghĩa vụ phân theo mức rủi ro và yêu cầu minh bạch với hệ thống tương tác với con người, đưa ra các nguyên tắc về minh bạch, giám sát của con người và phân loại rủi ro, có thể áp dụng vào bối cảnh thanh toán.
+
+**Ba việc nên làm ngay.** Ngân hàng trung ương và cơ quan giám sát nên:
+
+1. Xây năng lực kỹ thuật để hiểu và kiểm tra hệ thống tác tử.
+2. Tham gia đặt chuẩn uỷ quyền ngay khi các chuẩn còn đang hình thành, thay vì tiếp nhận chuẩn đã cố định do tư nhân đặt.
+3. Làm rõ trách nhiệm pháp lý trước khi khối lượng giao dịch tác tử đủ lớn để gây sự cố hệ thống.
+
+**Thời điểm là bây giờ.** Bài kết luận rằng phải hành động khi chuẩn còn mềm dẻo. Một khi kiến trúc uỷ quyền đông cứng lại quanh các lựa chọn thương mại của vài nền tảng, việc sửa lại sẽ tốn kém hơn nhiều.
 
 ## Thuật ngữ
 

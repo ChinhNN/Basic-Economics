@@ -152,56 +152,141 @@
 2. CBDC có gì khác các công cụ chính sách khác khi muốn tăng cạnh tranh?
 3. Trong hoàn cảnh nào CBDC thực sự tạo khác biệt, và trong hoàn cảnh nào nó gần như thừa?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tiền số ngân hàng trung ương (CBDC, central bank digital currency).** Tiền do ngân hàng trung ương phát hành ở dạng điện tử, dùng cho thanh toán hằng ngày của người dân (CBDC bán lẻ). Nó giống tiền mặt ở chỗ là nghĩa vụ nợ trực tiếp của ngân hàng trung ương, nhưng giống ví điện tử ở chỗ dùng qua điện thoại hay thẻ. Ví dụ trong bài: eNaira của Nigeria và Sand Dollar của Bahamas, cả hai đều miễn phí cho người dùng. Đây là đối tượng của cả bài: câu hỏi là CBDC có làm thị trường thanh toán cạnh tranh hơn không.
+
+**Thị trường hai mặt (two-sided market).** Thị trường mà một nền tảng phục vụ hai nhóm khách hàng phụ thuộc vào nhau. Trong thanh toán, hai nhóm đó là người trả tiền (người mua) và người nhận tiền (người bán). Giữa họ còn có tổ chức trung gian: bên phát hành (issuer) cấp thẻ hoặc ví cho người mua, bên thu nhận (acquirer) phục vụ người bán. Ví dụ minh hoạ: một mạng thẻ chỉ có giá trị với người mua nếu nhiều cửa hàng nhận thẻ, và chỉ có giá trị với cửa hàng nếu nhiều người mua có thẻ. Khái niệm này giải thích vì sao thị trường thanh toán khác thị trường hàng hoá thông thường.
+
+**Hiệu ứng mạng chéo (cross-side network effect).** Giá trị của một phương tiện thanh toán với người mua tăng khi có thêm người bán chấp nhận nó, và ngược lại. Ví dụ minh hoạ: một ví mới ra đời, chưa cửa hàng nào nhận, nên chưa ai muốn cài; chưa ai cài thì cửa hàng cũng không muốn nhận. Đây là "bài toán con gà và quả trứng". Hiệu ứng này làm bên đi trước có lợi thế áp đảo và khiến thị trường dồn về vài bên, như ở Canada nơi 4 tổ chức thu nhận xử lý khoảng 85% giao dịch thẻ.
+
+**Phí hoán đổi (interchange fee) và mức chiết khấu người bán (merchant discount rate).** Khi khách quẹt thẻ, người bán trả cho bên thu nhận một khoản phần trăm trên giá trị giao dịch, gọi là mức chiết khấu người bán. Một phần khoản đó được bên thu nhận chuyển cho bên phát hành thẻ, gọi là phí hoán đổi. Ví dụ trong bài: ở Brazil phí thẻ tín dụng khoảng 2,2%, nghĩa là món hàng 100 đồng thì người bán chỉ nhận về khoảng 97,8 đồng. Đây là thứ mà các biện pháp áp trần phí nhắm vào.
+
+**Khả năng tranh giành (contestability) và rào cản gia nhập (barrier to entry).** Rào cản gia nhập là những thứ khiến một công ty mới khó vào thị trường, ví dụ phải tự xây cả mạng lưới cửa hàng chấp nhận. Khả năng tranh giành là mức dễ dàng để bên mới thách thức bên cũ. Một thị trường có thể chỉ có hai công ty nhưng vẫn "dễ tranh giành" nếu bên thứ ba vào được bất kỳ lúc nào, và nỗi lo đó buộc hai công ty kia giữ giá thấp. Đây là một trong bốn kênh mà bài dùng để đo tác động của CBDC.
+
+**Hệ thống thanh toán nhanh công cộng (fast payment system).** Hệ thống do nhà nước hoặc ngân hàng trung ương vận hành, cho phép chuyển tiền giữa các tài khoản gần như tức thì, mọi lúc, phí rất thấp. Ví dụ trong bài: Pix của Brazil (76% người trưởng thành sử dụng) và UPI của Ấn Độ (khoảng 350 triệu người dùng hoạt động). Khái niệm này quyết định kết luận chính của bài: nơi đã có hệ thống như vậy thì CBDC gần như không thêm được gì.
+
+**Tiền pháp định và nghĩa vụ chấp nhận (legal tender, mandatory acceptance).** Tiền pháp định là loại tiền mà luật quy định phải được chấp nhận để thanh toán nợ. Nếu CBDC có địa vị này, mọi người bán buộc phải nhận nó. Ví dụ minh hoạ: tiền giấy là tiền pháp định nên cửa hàng không được từ chối. Đòn bẩy này quan trọng vì nó giải trực tiếp bài toán con gà và quả trứng của hiệu ứng mạng.
+
+**Mô hình hai tầng (two-tier model).** Ngân hàng trung ương phát hành CBDC (tầng một), còn ngân hàng thương mại và công ty thanh toán phân phối tới người dùng, mở ví, chăm sóc khách hàng (tầng hai). Vì tầng hai phải tốn chi phí, họ cần được trả công; đó là lý do bài có đòn bẩy "khuyến khích hai tầng".
+
+## Nội dung chi tiết
 
 ### 1. Cấu trúc thị trường thanh toán
 
-- Thanh toán là thị trường hai mặt với ba nhóm chủ thể: nền tảng thanh toán, tổ chức trung gian phát hành và thu nhận, và người dùng cuối ở cả hai phía giao dịch.
-- Hiệu ứng mạng chéo là động lực trung tâm. Người mua chọn phương tiện mà nhiều người bán chấp nhận, còn người bán chấp nhận phương tiện mà nhiều người mua dùng. Vòng xoáy này tự củng cố và tạo lợi thế áp đảo cho bên đi trước.
-- Hệ quả là thị trường dồn về tay vài bên. Bài dẫn ví dụ Canada, nơi bốn tổ chức thu nhận xử lý khoảng tám mươi lăm phần trăm giao dịch thẻ.
-- Một trở ngại khác được nêu là hành vi khoá chặt của bên hiện hữu, minh hoạ bằng vụ điều tra chống độc quyền liên quan tới việc Apple hạn chế quyền truy cập chip giao tiếp tầm gần trên thiết bị của mình.
+Thanh toán là một thị trường hai mặt với ba nhóm chủ thể. Ở trên cùng là **nền tảng thanh toán**, chẳng hạn mạng thẻ hay hệ thống thanh toán nhanh. Ở giữa là **tổ chức trung gian**: bên phát hành, cấp phương tiện thanh toán cho người trả tiền, và bên thu nhận, phục vụ người bán. Ở dưới cùng là **người dùng cuối** ở cả hai phía giao dịch: người trả (người mua) và người nhận (người bán).
+
+Động lực trung tâm của thị trường này là hiệu ứng mạng chéo. Người mua chọn phương tiện mà nhiều người bán chấp nhận; người bán chấp nhận phương tiện mà nhiều người mua dùng. Hai lựa chọn này nuôi nhau thành một vòng xoáy tự củng cố: phương tiện nào đã đông người dùng thì càng thu hút thêm người bán, và càng nhiều người bán thì càng thu hút thêm người mua. Kết quả là bên đi trước có lợi thế áp đảo.
+
+Hệ quả là thị trường dồn về tay vài bên. Bài dẫn ví dụ Canada, nơi 4 tổ chức thu nhận xử lý khoảng 85% giao dịch thẻ. Vì vậy cạnh tranh khó tự nảy sinh từ bên trong thị trường: một bên mới, dù tốt hơn, vẫn phải vượt qua lợi thế quy mô của bên cũ.
+
+Một trở ngại khác là hành vi khoá chặt của bên hiện hữu. Bài minh hoạ bằng vụ điều tra chống độc quyền liên quan tới việc Apple hạn chế quyền truy cập chip giao tiếp tầm gần (NFC, công nghệ chạm điện thoại vào máy để thanh toán) trên thiết bị của mình. Khi chủ thiết bị kiểm soát cổng chạm, các ví khác khó cạnh tranh trên cùng chiếc điện thoại.
 
 ### 2. Vai trò kép của CBDC
 
-- Bài lập luận rằng CBDC có một đặc tính mà không công cụ nào khác có: nó vừa là phương tiện thanh toán cạnh tranh trực tiếp với thẻ và ví, vừa là nền tảng mà bên khác có thể xây dịch vụ lên trên.
-- Ở vai trò phương tiện thanh toán, CBDC gây sức ép lên giá và chất lượng của các lựa chọn sẵn có.
-- Ở vai trò nền tảng, nó hạ rào cản gia nhập cho bên mới, kể cả bên nhỏ không đủ sức tự xây mạng lưới chấp nhận.
-- Bài dẫn kết quả lý thuyết về nút thắt cạnh tranh của Liu, Reshidi và Rivadeneyra năm 2025 để làm nền cho phân tích này.
+Bài lập luận rằng CBDC có một đặc tính mà không công cụ chính sách nào khác có: nó đóng hai vai cùng lúc. Mọi công cụ khác chỉ làm được một trong hai.
+
+| Vai trò | CBDC làm gì | Tác dụng với cạnh tranh |
+|---|---|---|
+| Phương tiện thanh toán | Cạnh tranh trực tiếp với thẻ, ví điện tử, chuyển khoản | Gây sức ép lên giá và chất lượng của các lựa chọn sẵn có |
+| Nền tảng | Các bên khác xây dịch vụ lên trên nó, giống như đường sá công cộng cho xe tư nhân chạy | Hạ rào cản gia nhập cho bên mới, kể cả bên nhỏ không đủ sức tự xây mạng lưới chấp nhận |
+
+Để làm nền cho phân tích này, bài dẫn kết quả lý thuyết về "nút thắt cạnh tranh" của Liu, Reshidi và Rivadeneyra (2025). Nút thắt cạnh tranh là tình huống một bên nắm cửa ngõ duy nhất dẫn tới một nhóm khách hàng và có thể thu "tô" từ những ai muốn đi qua. Một nền tảng công cộng mở như CBDC có thể phá thế độc quyền cửa ngõ đó.
 
 ### 3. Khung giá – giá trị
 
-- Điểm phương pháp quan trọng của bài là người dùng không chỉ so sánh giá. Họ so sánh giá với giá trị nhận được, gồm mức độ được chấp nhận, tiện lợi, an toàn, tốc độ, sản phẩm đi kèm, và cách dữ liệu của họ được sử dụng.
-- Hàm ý thực tiễn rất trực tiếp: một CBDC miễn phí vẫn có thể thua một chiếc thẻ có phí, nếu chiếc thẻ đó đi kèm hạn mức tín dụng, điểm thưởng và bảo hiểm mua hàng.
-- Điều này giải thích vì sao các CBDC bán lẻ miễn phí ở Nigeria và Bahamas vẫn không đạt được mức sử dụng cao: giá không phải rào cản chính.
+Điểm phương pháp quan trọng của bài là người dùng không chỉ so sánh giá. Họ so giá phải trả với giá trị nhận được, gồm:
+
+- mức độ được chấp nhận (bao nhiêu cửa hàng nhận);
+- sự tiện lợi;
+- độ an toàn;
+- tốc độ;
+- sản phẩm đi kèm, như hạn mức tín dụng, điểm thưởng, bảo hiểm mua hàng;
+- cách dữ liệu của họ được sử dụng và mức bảo vệ quyền riêng tư.
+
+Hàm ý thực tiễn rất trực tiếp: một CBDC miễn phí vẫn có thể thua một chiếc thẻ có phí, nếu chiếc thẻ đó cho người dùng chi trước trả sau, tích điểm và được bảo hiểm khi mua hàng. Người dùng sẵn sàng trả phí (thường là gián tiếp qua người bán) để đổi lấy những thứ đi kèm đó.
+
+Điều này giải thích vì sao các CBDC bán lẻ miễn phí ở Nigeria (eNaira) và Bahamas (Sand Dollar) vẫn không đạt mức sử dụng cao: giá không phải rào cản chính.
+
+**Ví dụ hôm nay** (minh hoạ chung). Một người có thẻ tín dụng hoàn tiền 1% và miễn lãi 45 ngày sẽ không bỏ thẻ để chuyển sang một ví miễn phí nhưng không có tín dụng, vì với họ, dùng thẻ là "được trả tiền" chứ không phải mất tiền.
 
 ### 4. Bốn kênh tác động
 
-- Kênh định giá: CBDC tạo ra một mức giá tham chiếu công khai, kéo phí của toàn thị trường xuống.
-- Kênh giá trị: sự hiện diện của một lựa chọn thay thế buộc bên hiện hữu nâng chất lượng dịch vụ.
-- Kênh khả năng tranh giành: CBDC làm nền tảng chung hạ rào cản gia nhập, khiến thị trường dễ bị thách thức hơn ngay cả khi số lượng bên tham gia chưa tăng ngay.
-- Kênh tiếp cận tài chính: CBDC có thể đưa người chưa có tài khoản ngân hàng vào hệ thống thanh toán chính thức.
+Bài xác định bốn kênh mà qua đó CBDC có thể tác động lên cạnh tranh:
+
+| Kênh | Cơ chế |
+|---|---|
+| Định giá | CBDC tạo ra một mức giá tham chiếu công khai, kéo phí của toàn thị trường xuống |
+| Giá trị | Sự có mặt của một lựa chọn thay thế buộc bên hiện hữu nâng chất lượng dịch vụ |
+| Khả năng tranh giành | CBDC làm nền tảng chung hạ rào cản gia nhập, khiến thị trường dễ bị thách thức hơn, ngay cả khi số bên tham gia chưa tăng ngay |
+| Tiếp cận tài chính | CBDC có thể đưa người chưa có tài khoản ngân hàng vào hệ thống thanh toán chính thức |
+
+Kênh khả năng tranh giành đáng chú ý ở chỗ nó có tác dụng ngay cả khi chưa ai mới vào: chỉ cần khả năng bị thách thức trở nên thật, bên cũ đã phải điều chỉnh giá và chất lượng.
 
 ### 5. Ba kịch bản thị trường
 
-- Kịch bản một chấm a, thị trường do tư nhân chi phối và chưa bị điều tiết, là nơi CBDC có dư địa lớn nhất: tác động cao ở ba trong bốn kênh, chỉ riêng kênh giá trị là thấp vì bên hiện hữu vốn đã cung cấp dịch vụ chất lượng tốt.
-- Kịch bản một chấm b, cùng cấu trúc nhưng đã bị điều tiết bằng trần phí, cho tác động trung bình đồng đều ở cả bốn kênh. Điều này quan trọng vì nó ngụ ý rằng can thiệp quản lý có thể đã hoàn thành phần lớn công việc trước khi CBDC xuất hiện.
-- Kịch bản hai, nơi một hệ thống thanh toán nhanh công cộng đã chi phối, cho tác động thấp ở ba kênh đầu và chỉ trung bình ở tiếp cận tài chính. Đây là kết luận thẳng thắn nhất của bài: ở Brazil với Pix hay Ấn Độ với UPI, CBDC gần như không thêm được gì về mặt cạnh tranh.
-- Kịch bản ba, nơi tiền mặt vẫn chi phối, cho hình mẫu ngược lại: tác động định giá thấp vì tiền mặt vốn đã không tính phí trực tiếp, nhưng tác động cao ở ba kênh còn lại vì có rất nhiều giá trị chưa được tạo ra.
+Bài đánh giá mức tác động của CBDC qua bốn kênh trong từng kịch bản thị trường. Kết quả tổng hợp:
+
+| Kịch bản | Định giá | Giá trị | Tranh giành | Tiếp cận tài chính |
+|---|---|---|---|---|
+| 1.a Tư nhân chi phối, chưa bị điều tiết | Cao | Thấp | Cao | Cao |
+| 1.b Tư nhân chi phối, đã bị điều tiết | Trung bình | Trung bình | Trung bình | Trung bình |
+| 2 Hệ thống thanh toán nhanh công cộng chi phối | Thấp | Thấp | Thấp | Trung bình |
+| 3 Tiền mặt chi phối | Thấp | Cao | Cao | Cao |
+
+**Kịch bản 1.a**, thị trường do tư nhân chi phối và chưa bị điều tiết, phí cao và ít đối thủ, là nơi CBDC có dư địa lớn nhất. Tác động cao ở ba trong bốn kênh; riêng kênh giá trị thấp vì bên hiện hữu vốn đã cung cấp dịch vụ chất lượng tốt.
+
+**Kịch bản 1.b** có cùng cấu trúc nhưng đã bị điều tiết bằng trần phí. Tác động chỉ ở mức trung bình đều ở cả bốn kênh, vì trần phí đã làm phần việc kéo giá xuống. Điều này quan trọng: nó ngụ ý rằng can thiệp quản lý có thể đã hoàn thành phần lớn công việc trước khi CBDC xuất hiện.
+
+**Kịch bản 2**, nơi một hệ thống thanh toán nhanh công cộng đã chi phối, cho tác động thấp ở ba kênh đầu và chỉ trung bình ở tiếp cận tài chính. Đây là kết luận thẳng thắn nhất của bài: ở Brazil với Pix hay Ấn Độ với UPI, CBDC gần như không thêm được gì về mặt cạnh tranh, vì những hệ thống đó đã làm rồi.
+
+**Kịch bản 3**, nơi tiền mặt vẫn chi phối, cho hình mẫu ngược lại. Tác động định giá thấp vì tiền mặt vốn không tính phí trực tiếp, nên không có nhiều phí để hạ. Nhưng tác động cao ở ba kênh còn lại vì có rất nhiều giá trị chưa được tạo ra.
+
+Kết luận chung: CBDC không phải câu trả lời phổ quát. Giá trị của nó với cạnh tranh phụ thuộc hoàn toàn vào điểm xuất phát của thị trường.
 
 ### 6. Đòn bẩy thiết kế
 
-- Tám đòn bẩy được nêu: ràng buộc về giá, khuyến khích cho trung gian ở tầng thứ hai, hạn mức giao dịch và nắm giữ, quyết định trả lãi hay không, địa vị tiền pháp định kèm nghĩa vụ chấp nhận, khả năng liên thông, cho phép đóng gói sản phẩm đi kèm, và mở CBDC làm nền tảng cho đổi mới.
-- Đòn bẩy địa vị tiền pháp định kèm nghĩa vụ chấp nhận đáng chú ý vì nó giải trực tiếp bài toán con gà và quả trứng: nếu mọi người bán buộc phải chấp nhận, thì hiệu ứng mạng khởi động ngay mà không cần chờ tích luỹ dần.
-- Đòn bẩy khuyến khích hai tầng thừa nhận một thực tế: ngân hàng trung ương không phân phối trực tiếp tới người dùng, nên trung gian phải có lý do kinh tế để làm việc đó.
+Bài nêu tám đòn bẩy mà ngân hàng trung ương có thể dùng khi thiết kế một CBDC hướng tới cạnh tranh:
+
+1. **Ràng buộc về giá**: đặt phí trần hoặc miễn phí.
+2. **Khuyến khích hai tầng**: trả công cho trung gian phân phối CBDC.
+3. **Hạn mức giao dịch và nắm giữ**: giới hạn số tiền mỗi người được giữ hoặc chuyển, để CBDC không hút quá nhiều tiền gửi khỏi ngân hàng.
+4. **Trả lãi hay không trả lãi** cho số dư CBDC.
+5. **Địa vị tiền pháp định kèm nghĩa vụ chấp nhận.**
+6. **Khả năng liên thông** với các hệ thống thanh toán sẵn có.
+7. **Cho phép đóng gói sản phẩm đi kèm**, như tín dụng hay điểm thưởng.
+8. **Mở CBDC làm nền tảng cho đổi mới**, để bên khác xây dịch vụ lên trên.
+
+Đòn bẩy thứ năm đáng chú ý vì nó giải trực tiếp bài toán con gà và quả trứng: nếu mọi người bán buộc phải chấp nhận CBDC, hiệu ứng mạng khởi động ngay mà không cần chờ tích luỹ dần từng cửa hàng một.
+
+Đòn bẩy thứ hai thừa nhận một thực tế: ngân hàng trung ương không phân phối trực tiếp tới người dùng, nên các trung gian phải có lý do kinh tế để mở ví, hỗ trợ khách hàng và vận hành dịch vụ CBDC. Không được trả công, họ không có động cơ quảng bá một sản phẩm cạnh tranh với chính thẻ và ví của mình.
 
 ### 7. Bằng chứng từ can thiệp quản lý và thiết kế thực tế
 
-- Hộp 1 cho thấy công cụ quản lý thuần tuý đã đạt được nhiều kết quả. Trong khảo sát bốn mươi ba khu vực pháp lý của Ngân hàng Dự trữ Liên bang Kansas City, chỉ mười nơi áp trần rõ ràng cho phí hoán đổi. Pakistan áp mức không phẩy hai phần trăm cho thẻ ghi nợ và không phẩy bảy phần trăm cho thẻ tín dụng. Sri Lanka áp trần hai mươi lăm rupee mỗi giao dịch.
-- So sánh gây ấn tượng mạnh nhất là ở Brazil: Pix có chi phí khoảng không phẩy hai hai phần trăm so với khoảng hai phẩy hai phần trăm của thẻ tín dụng, tức rẻ hơn khoảng mười lần.
-- Hộp 2 thảo luận vai trò của stablecoin như một lực cạnh tranh khác trong thanh toán.
-- Hộp 3 nêu các đặc tính thiết kế đã thúc đẩy cạnh tranh trong thực tế. Mã QR dùng chung của UPI ở Ấn Độ tạo ra khoảng năm mươi triệu điểm chấp nhận của người bán mà không bị khoá vào một nhà cung cấp cụ thể. Trung Quốc chọn cách đặt e-CNY bên trong Alipay và WeChat Pay thay vì cạnh tranh từ bên ngoài. Nigeria và Bahamas chọn miễn phí hoàn toàn. Liên minh châu Âu dự kiến áp trần phí giữa các trung gian cho đồng euro số.
-- Độ phủ đạt được mà không cần CBDC cũng rất đáng kể: Pix tiếp cận bảy mươi sáu phần trăm người trưởng thành Brazil, còn UPI có khoảng ba trăm năm mươi triệu người dùng hoạt động, tương đương khoảng một phần tư dân số Ấn Độ.
-- Nhưng Phụ lục I về phí thanh toán đưa ra một lưu ý cân bằng: khảo sát cho thấy hơn bốn mươi phần trăm người dùng UPI vẫn gặp một loại phí nào đó. Miễn phí ở bề mặt không có nghĩa là miễn phí trên toàn chuỗi giá trị. Bài cũng dẫn Indonesia, nơi phí người bán với tiền điện tử dao động từ không tới hai phần trăm.
+**Can thiệp quản lý thuần tuý đã làm được nhiều việc, trước khi cần tới CBDC.** Trong khảo sát 43 khu vực pháp lý của Ngân hàng Dự trữ Liên bang Kansas City, chỉ 10 nơi áp trần rõ ràng cho phí hoán đổi. Một số ví dụ:
+
+| Nước | Biện pháp hoặc mức phí |
+|---|---|
+| Pakistan | Trần phí hoán đổi 0,2% cho thẻ ghi nợ và 0,7% cho thẻ tín dụng |
+| Brazil | Pix có chi phí khoảng 0,22%, so với khoảng 2,2% của thẻ tín dụng, tức rẻ hơn khoảng 10 lần |
+| Ấn Độ | UPI thu phí giao diện 1,1% với giao dịch từ ví trả trước |
+| Sri Lanka | Trần 25 rupee mỗi giao dịch |
+
+So sánh ở Brazil là ấn tượng nhất: một hệ thống thanh toán nhanh công cộng đã kéo chi phí xuống một phần mười so với thẻ tín dụng, không cần CBDC.
+
+**Stablecoin.** Bài dành một hộp riêng thảo luận vai trò của stablecoin, đồng tiền mã hoá giữ giá ổn định theo một đồng tiền pháp định, như một lực cạnh tranh khác trong thanh toán.
+
+**Các đặc tính thiết kế đã thúc đẩy cạnh tranh trong thực tế:**
+
+- **Ấn Độ**: mã QR dùng chung của UPI tạo ra khoảng 50 triệu điểm chấp nhận của người bán, không bị khoá vào một nhà cung cấp cụ thể. Người bán dán một mã và nhận tiền từ bất kỳ ứng dụng nào.
+- **Trung Quốc**: e-CNY được đặt bên trong Alipay và WeChat Pay thay vì cạnh tranh từ bên ngoài.
+- **Nigeria**: eNaira miễn phí hoàn toàn.
+- **Bahamas**: Sand Dollar miễn phí.
+- **EU**: đồng euro số dự kiến áp trần phí giữa các trung gian.
+
+**Độ phủ đạt được mà không cần CBDC** cũng rất đáng kể. Pix được 76% người trưởng thành Brazil sử dụng. UPI có khoảng 350 triệu người dùng hoạt động, tương đương khoảng 25%, tức một phần tư, dân số Ấn Độ.
+
+**Lưu ý cân bằng về phí.** Phần phụ lục về phí thanh toán của bài cho thấy hơn 40% người dùng UPI vẫn gặp một loại phí nào đó. Miễn phí ở bề mặt không có nghĩa là miễn phí trên toàn chuỗi: chi phí có thể nằm ở khâu nạp tiền, ở ví trả trước, hay ở phía người bán. Bài cũng dẫn Indonesia, nơi phí người bán phải trả khi nhận tiền điện tử dao động từ 0 tới 2%.
 
 ## Thuật ngữ
 
