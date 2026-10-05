@@ -51,55 +51,107 @@
 2. Vì sao lãi suất của Mỹ chạm tới giá hàng, lãi vay, lãi tiết kiệm của người Việt?
 3. Với từng kịch bản, người gửi tiền, người vay, người giữ vàng và nhà đầu tư chứng khoán nên làm gì?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**FOMC và lãi suất quỹ liên bang.** FOMC (Ủy ban Thị trường Mở Liên bang) là uỷ ban của Fed, ngân hàng trung ương Mỹ, họp tám lần mỗi năm để quyết định lãi suất. Lãi suất quỹ liên bang (*federal funds rate*) là mức lãi các ngân hàng Mỹ cho nhau vay qua đêm, và là lãi suất chính sách mà Fed điều chỉnh. Trước cuộc họp 29/7/2026, mức này đang ở 3,5%–3,75%. Mọi chuỗi tác động trong bài đều bắt đầu từ con số này.
+
+**Điểm phần trăm.** Đơn vị đo mức thay đổi của một tỷ lệ phần trăm. Tăng 0,25 điểm phần trăm từ vùng 3,5%–3,75% nghĩa là lên vùng 3,75%–4%. Phân biệt với "tăng 0,25%" theo nghĩa tương đối, vốn là một thay đổi nhỏ hơn nhiều. Bài dùng đơn vị này khi nói về khả năng Fed tăng lãi.
+
+**FedWatch và xác suất thị trường định giá.** FedWatch là công cụ của sàn CME, dùng giá các hợp đồng tương lai về lãi suất để suy ra xác suất mà thị trường gán cho từng quyết định của Fed. Ví dụ trong bài: xác suất Fed tăng 0,25 điểm phần trăm vào 29/7 có lúc lên 46,5%, từ mức 34% ngày 12/7. Đây không phải dự báo của Fed mà là "đặt cược" của nhà đầu tư, nên có thể dao động mạnh khi có dữ liệu mới.
+
+**CPI so với tháng trước và lạm phát năm.** CPI (chỉ số giá tiêu dùng) đo mức giá của giỏ hàng tiêu dùng. "So với tháng trước" là thay đổi trong một tháng; "lạm phát năm" là thay đổi so với cùng tháng năm trước. Ví dụ trong bài: CPI tháng 6 của Mỹ giảm 0,4% so với tháng trước, kéo lạm phát năm xuống 3,5%. Con số này làm kỳ vọng tăng lãi hạ nhiệt.
+
+**Tỷ giá trung tâm và biên độ.** Tỷ giá trung tâm là mức tỷ giá VND/USD mà Ngân hàng Nhà nước (NHNN) công bố mỗi ngày; ngân hàng thương mại chỉ được mua bán USD trong khoảng ±5% quanh mức đó. Ví dụ trong bài: ngày 21/7/2026, tỷ giá trung tâm 25.260 đồng, nên trần là 25.260 × 1,05 = 26.523 và sàn là 25.260 × 0,95 = 23.997 đồng/USD. Đây là mắt xích thứ hai trong chuỗi domino.
+
+**Diều hâu (giọng cứng rắn) và bồ câu (giọng mềm).** Cách mô tả thông điệp của ngân hàng trung ương. Giọng cứng rắn nhấn mạnh chống lạm phát, sẵn sàng giữ lãi cao hoặc tăng thêm; giọng mềm để ngỏ khả năng giảm lãi. Ba kịch bản trong bài phân biệt nhau chủ yếu ở điểm này, vì ngay cả khi Fed giữ nguyên lãi suất, câu chữ trong thông cáo vẫn làm tỷ giá và giá tài sản dịch chuyển.
+
+**Lãi suất thực.** Lãi suất danh nghĩa trừ đi lạm phát. Ví dụ minh hoạ: gửi tiết kiệm lãi 6%/năm khi lạm phát 4% thì lãi suất thực khoảng 2%, tức sức mua chỉ tăng 2%. Bài nhắc vàng phản ứng mạnh với kỳ vọng lãi suất thực, vì lãi suất thực càng cao thì giữ vàng (không sinh lãi) càng thiệt.
+
+**Chia sổ nhiều kỳ hạn.** Thay vì gửi toàn bộ tiền vào một sổ kỳ hạn dài, chia thành nhiều sổ có kỳ hạn khác nhau. Ví dụ minh hoạ: 300 triệu chia ba sổ 100 triệu kỳ hạn 3, 6 và 12 tháng; cứ vài tháng lại có một sổ đáo hạn để gửi lại theo mặt bằng lãi mới. Bài khuyên cách này khi lãi suất khó đoán.
+
+## Nội dung chi tiết
 
 ### 1. Tình huống mở đầu: chị Ngọc
-- Chị Ngọc bán hàng nhập khẩu online ở Hà Nội, vốn bỏ qua tin "Fed sắp họp".
-- Rồi nhà cung cấp báo giá nhập tăng, và số tiền chuyển cho con đi du học đội thêm mấy triệu đồng chỉ trong một tháng.
-- Bài cập nhật ngày 22/7/2026, dùng dữ liệu công bố đến 21/7/2026.
+
+Chị Ngọc bán hàng nhập khẩu online ở Hà Nội (nhân vật minh hoạ của bài), vốn bỏ qua những tin "Fed sắp họp" vì nghĩ không liên quan đến mình. Rồi nhà cung cấp báo giá nhập tăng, và số tiền chị chuyển cho con đi du học đội thêm mấy triệu đồng chỉ trong một tháng. Bài dùng câu chuyện này để cho thấy lãi suất ở Mỹ chạm tới túi tiền một gia đình Việt Nam qua nhiều đường.
+
+Bài được cập nhật ngày 22/7/2026, dùng dữ liệu công bố đến 21/7/2026, tức là được viết trước cuộc họp 29/7.
 
 ### 2. Fed đang ở đâu
-- Cuộc họp FOMC ngày 16–17/6/2026 (cuộc họp đầu tiên do Chủ tịch Kevin Warsh chủ trì): toàn bộ thành viên nhất trí giữ lãi suất quỹ liên bang ở 3,5%–3,75%, mức duy trì từ đầu năm 2026.
-- Nội bộ chia hai luồng: một bên cho rằng lạm phát có thể hạ nhiệt, tạo điều kiện giảm lãi; bên kia lo áp lực giá còn cao, buộc Fed phải tăng tiếp (nguồn: Vietstock, tháng 7/2026, dẫn biên bản FOMC tháng 6).
-- Tháng 7, kỳ vọng dao động mạnh. Theo công cụ FedWatch của CME:
-  - Xác suất Fed tăng 0,25 điểm phần trăm vào 29/7 có lúc lên 46,5%, tăng vọt từ 34% ngày 12/7, do giá dầu leo thang và nỗi lo lạm phát quay lại.
-  - FedWatch khi đó định giá 75,8% khả năng Fed tăng lãi trước hoặc tại cuộc họp tháng 9.
-  - Nguồn: Vietstock/Investing, giữa tháng 7/2026, dẫn FedWatch và nền tảng dự đoán Kalshi.
-- Dữ liệu lạm phát đảo chiều kỳ vọng: CPI tháng 6 của Mỹ giảm 0,4% so với tháng trước, kéo lạm phát năm xuống 3,5%. Nhiều chuyên gia cho rằng số liệu này gần như loại bỏ khả năng tăng lãi ngay tháng 7, dù chưa loại trừ ở các cuộc họp sau (nguồn: Thời báo Ngân hàng, tuần thứ ba tháng 7/2026, dẫn Bộ Lao động Mỹ).
-- Ghi nhớ của bài: kịch bản nhiều khả năng nhất là Fed giữ nguyên nhưng phát thông điệp cứng rắn; điều thị trường quan tâm là câu chữ trong thông cáo và họp báo.
+
+**Cuộc họp tháng 6.** Tại cuộc họp FOMC ngày 16–17/6/2026, cuộc họp đầu tiên do Chủ tịch Kevin Warsh chủ trì, toàn bộ thành viên nhất trí giữ lãi suất quỹ liên bang ở 3,5%–3,75%, mức đã duy trì từ đầu năm 2026. Tuy nhiên, theo biên bản cuộc họp (Vietstock dẫn lại vào tháng 7/2026), nội bộ Fed chia làm hai luồng: một bên cho rằng lạm phát có thể hạ nhiệt và tạo điều kiện giảm lãi; bên kia lo áp lực giá còn cao, có thể buộc Fed phải tăng tiếp.
+
+**Kỳ vọng dao động mạnh trong tháng 7.** Theo công cụ FedWatch của CME (Vietstock và Investing dẫn lại giữa tháng 7/2026, cùng nền tảng dự đoán Kalshi):
+
+| Thời điểm | Xác suất thị trường định giá |
+|---|---|
+| Ngày 12/7 | 34% khả năng Fed tăng 0,25 điểm phần trăm vào 29/7 |
+| Có lúc sau đó | 46,5% khả năng tăng vào 29/7 |
+| Cùng thời điểm | 75,8% khả năng Fed tăng lãi trước hoặc tại cuộc họp tháng 9 |
+
+Nguyên nhân của đợt tăng vọt này là giá dầu leo thang và nỗi lo lạm phát quay trở lại.
+
+**Dữ liệu lạm phát đảo chiều kỳ vọng.** Sau đó, CPI tháng 6 của Mỹ giảm 0,4% so với tháng trước, kéo lạm phát năm xuống 3,5% (Thời báo Ngân hàng dẫn số liệu Bộ Lao động Mỹ, tuần thứ ba của tháng 7/2026). Nhiều chuyên gia cho rằng số liệu này gần như loại bỏ khả năng tăng lãi ngay trong tháng 7, dù chưa loại trừ khả năng đó ở các cuộc họp sau.
+
+**Ghi nhớ của bài.** Kịch bản nhiều khả năng nhất là Fed giữ nguyên lãi suất nhưng phát thông điệp cứng rắn. Vì vậy, điều thị trường quan tâm không phải con số lãi suất mà là câu chữ trong thông cáo và trong buổi họp báo.
 
 ### 3. Chuỗi domino bốn mắt xích
-- Mắt xích 1 — Lãi suất Mỹ cao thì USD mạnh: tiền như nước, chảy về nơi trả lãi cao; nhà đầu tư toàn cầu bán đồng tiền khác để mua tài sản định giá bằng USD, cầu USD tăng, USD lên giá so với hầu hết đồng tiền, có VND.
-- Mắt xích 2 — Tỷ giá chịu áp lực:
-  - Ngày 21/7/2026, NHNN công bố tỷ giá trung tâm 25.260 VND/USD, tăng 8 đồng so với hôm trước (nguồn: Báo Tin Tức/TTXVN).
-  - Biên độ ±5%: trần 26.523 VND/USD (25.260 × 1,05), sàn 23.997 VND/USD (25.260 × 0,95).
-  - Ví dụ: doanh nghiệp nhập 1 triệu USD hàng mỗi năm, mỗi 100 đồng chênh lệch tỷ giá là 100 triệu đồng chi phí tăng thêm (1.000.000 × 100), và chi phí này cuối cùng đi vào giá bán lẻ.
-- Mắt xích 3 — NHNN phải cân đối: có ít lựa chọn dễ chịu: bán ngoại tệ can thiệp, hút bớt tiền đồng, hoặc để lãi suất trong nước nhích lên; lựa chọn nào cũng khiến lãi suất khó giảm thêm.
-- Mắt xích 4 — Túi tiền của bạn: giá hàng nhập khẩu và nguyên liệu đầu vào tăng; lãi vay mua nhà, tiêu dùng khó rẻ đi; lãi tiết kiệm có thể nhích lên đôi chút; vốn ngoại trên TTCK thận trọng hơn; học phí, sinh hoạt phí cho người thân ở nước ngoài tăng.
+
+Bài giải thích con đường từ lãi suất Mỹ tới túi tiền người Việt qua bốn mắt xích nối tiếp.
+
+**Mắt xích 1: Lãi suất Mỹ cao thì USD mạnh.** Bài ví tiền như nước, chảy về nơi trả lãi cao hơn. Khi lãi suất Mỹ cao, nhà đầu tư toàn cầu bán các đồng tiền khác để mua tài sản định giá bằng USD. Cầu USD tăng, nên USD lên giá so với hầu hết các đồng tiền, trong đó có VND.
+
+**Mắt xích 2: Tỷ giá chịu áp lực.** Ngày 21/7/2026, NHNN công bố tỷ giá trung tâm 25.260 VND/USD, tăng 8 đồng so với hôm trước (Báo Tin Tức/TTXVN). Với biên độ ±5%, ngân hàng thương mại được giao dịch trong khoảng:
+
+| Mốc | Phép tính | Mức (VND/USD) |
+|---|---|---|
+| Trần | 25.260 × 1,05 | 26.523 |
+| Sàn | 25.260 × 0,95 | 23.997 |
+
+Ví dụ để thấy độ lớn: một doanh nghiệp nhập 1 triệu USD hàng mỗi năm, thì mỗi 100 đồng chênh lệch tỷ giá là 1.000.000 × 100 = 100 triệu đồng chi phí tăng thêm. Chi phí này cuối cùng đi vào giá bán lẻ mà người tiêu dùng trả.
+
+**Mắt xích 3: NHNN phải cân đối.** Để giữ tỷ giá, NHNN có ít lựa chọn dễ chịu: bán ngoại tệ từ dự trữ để can thiệp, hút bớt tiền đồng khỏi hệ thống, hoặc để lãi suất trong nước nhích lên cho tiền đồng hấp dẫn hơn. Lựa chọn nào cũng khiến mặt bằng lãi suất trong nước khó giảm thêm.
+
+**Mắt xích 4: Túi tiền của bạn.** Kết quả cuối cùng hiện ra ở năm chỗ:
+
+- Giá hàng nhập khẩu và nguyên liệu đầu vào tăng.
+- Lãi vay mua nhà và vay tiêu dùng khó rẻ đi.
+- Lãi tiết kiệm có thể nhích lên đôi chút.
+- Vốn ngoại trên thị trường chứng khoán thận trọng hơn.
+- Học phí và sinh hoạt phí gửi cho người thân ở nước ngoài tăng, như trường hợp chị Ngọc.
 
 ### 4. Ba kịch bản ngày 29/7
 
 | Kịch bản | Mức khả năng theo bài | Tác động dự kiến |
 |---|---|---|
-| 1. Giữ nguyên, giọng điệu mềm | Dễ chịu nhất | Áp lực tỷ giá giảm, vốn ngoại có cơ sở quay lại thị trường mới nổi, vàng thường được hỗ trợ, TTCK Việt Nam có thêm dư địa hồi phục sau nhịp điều chỉnh |
-| 2. Giữ nguyên, tín hiệu cứng rắn | Nhiều khả năng nhất | Thị trường đọc từng chữ thông cáo; nếu Fed nhấn mạnh khả năng thắt chặt thêm khi lạm phát dai dẳng, tỷ giá tiếp tục căng, tâm lý nhà đầu tư trong nước thận trọng thêm |
-| 3. Bất ngờ tăng 0,25 điểm % | Thấp sau CPI tháng 6, nhưng không bằng 0 | USD tăng mạnh, vàng và chứng khoán chịu áp lực bán ngắn hạn; chuẩn bị cho vài phiên biến động, không phải khủng hoảng |
+| 1. Giữ nguyên, giọng điệu mềm | Dễ chịu nhất | Áp lực tỷ giá giảm; vốn ngoại có cơ sở quay lại các thị trường mới nổi; vàng thường được hỗ trợ; chứng khoán Việt Nam có thêm dư địa hồi phục sau nhịp điều chỉnh |
+| 2. Giữ nguyên, tín hiệu cứng rắn | Nhiều khả năng nhất | Thị trường đọc từng chữ trong thông cáo; nếu Fed nhấn mạnh khả năng thắt chặt thêm khi lạm phát dai dẳng, tỷ giá tiếp tục căng và tâm lý nhà đầu tư trong nước thận trọng thêm một thời gian |
+| 3. Bất ngờ tăng 0,25 điểm phần trăm | Thấp sau số liệu CPI tháng 6, nhưng không bằng 0 | USD tăng mạnh; vàng và chứng khoán chịu áp lực bán ngắn hạn; nên chuẩn bị cho vài phiên biến động, không phải một cuộc khủng hoảng |
 
-- Cảnh báo: đừng đảo lộn kế hoạch tài chính dài hạn vì một cuộc họp. Fed họp tám lần mỗi năm; nếu danh mục thay đổi sau mỗi cuộc họp, vấn đề nằm ở danh mục chứ không ở Fed.
+Bài kèm một cảnh báo: đừng đảo lộn kế hoạch tài chính dài hạn vì một cuộc họp. Fed họp tám lần mỗi năm; nếu danh mục của bạn phải thay đổi sau mỗi cuộc họp, vấn đề nằm ở danh mục chứ không ở Fed.
 
 ### 5. Nên làm gì trước và sau ngày 29/7
-- Người gửi tiết kiệm: không cần vội chốt kỳ hạn dài; khi lãi suất khó giảm, chia sổ thành nhiều kỳ hạn khác nhau để linh hoạt khi mặt bằng lãi thay đổi.
-- Người vay: kiểm tra lãi thả nổi được neo theo cơ sở nào và bao lâu điều chỉnh một lần; đây là con số quyết định tiền trả góp 12 tháng tới, quan trọng hơn nhiều so với việc Fed tăng hay không.
-- Người giữ vàng: vàng phản ứng mạnh với kỳ vọng lãi suất thực, nhưng phản ứng diễn ra trong vài giờ đến vài ngày, còn quyết định mua bán vàng của gia đình nên tính bằng năm. Đừng mua vàng vì một cuộc họp.
-- Nhà đầu tư chứng khoán, chứng chỉ quỹ: giữ kỷ luật giải ngân định kỳ; biến động ngắn hạn chính là thứ chiến lược đầu tư đều đặn được thiết kế để tận dụng.
-- Hành động 10 phút: mở bảng lãi suất tiết kiệm của ngân hàng đang gửi và hợp đồng vay; ghi ra hai con số — lãi tiền gửi thực nhận và lãi vay sau kỳ điều chỉnh gần nhất — để sau 29/7 biết chính xác mình bị ảnh hưởng bao nhiêu đồng mỗi tháng.
+
+| Đối tượng | Khuyến nghị | Lý do |
+|---|---|---|
+| Người gửi tiết kiệm | Không cần vội chốt kỳ hạn dài; chia sổ thành nhiều kỳ hạn khác nhau | Khi lãi suất khó giảm, nhiều kỳ hạn giúp linh hoạt khi mặt bằng lãi thay đổi |
+| Người vay | Kiểm tra lãi thả nổi được neo theo cơ sở nào và bao lâu điều chỉnh một lần | Đây là con số quyết định tiền trả góp 12 tháng tới, quan trọng hơn nhiều so với việc Fed tăng hay không |
+| Người giữ vàng | Đừng mua vàng vì một cuộc họp | Vàng phản ứng mạnh với kỳ vọng lãi suất thực, nhưng phản ứng diễn ra trong vài giờ đến vài ngày, còn quyết định mua bán vàng của gia đình nên tính bằng năm |
+| Nhà đầu tư chứng khoán, chứng chỉ quỹ | Giữ kỷ luật giải ngân định kỳ | Biến động ngắn hạn chính là thứ mà chiến lược đầu tư đều đặn được thiết kế để tận dụng: giá thấp thì cùng số tiền mua được nhiều hơn |
+
+**Hành động 10 phút.** Mở bảng lãi suất tiết kiệm của ngân hàng mình đang gửi và hợp đồng vay. Ghi ra hai con số: lãi tiền gửi thực nhận, và lãi vay sau kỳ điều chỉnh gần nhất. Có hai con số này, sau ngày 29/7 bạn sẽ biết chính xác mình bị ảnh hưởng bao nhiêu đồng mỗi tháng, thay vì lo lắng chung chung.
 
 ### 6. Câu hỏi thường gặp
-- Fed họp ngày nào, quyết định gì? Ngày 29/7/2026; điểm được quan tâm là có nâng lãi suất quỹ liên bang khỏi vùng 3,5%–3,75% không và thông điệp về lộ trình những tháng tới.
-- Fed tăng lãi thì tỷ giá tăng bao nhiêu? Không có tỷ lệ cố định; phụ thuộc cung cầu ngoại tệ trong nước, dự trữ ngoại hối và điều hành của NHNN.
-- Lãi suất Mỹ tăng thì lãi tiết kiệm Việt Nam có tăng theo? Không tự động, nhưng gián tiếp: dư địa hạ lãi trong nước bị thu hẹp, nên lãi tiết kiệm có xu hướng đi ngang hoặc nhích nhẹ thay vì giảm.
-- Có nên bán cổ phiếu trước cuộc họp? Mua bán quanh sự kiện là đầu cơ ngắn hạn, xác suất đúng gần như tung đồng xu vì thị trường đã định giá phần lớn kỳ vọng; nhà đầu tư dài hạn nên tập trung vào chất lượng doanh nghiệp và tỷ lệ đòn bẩy của mình.
-- Vì sao lạm phát Mỹ ảnh hưởng giá hàng Việt Nam? Phần lớn thương mại quốc tế thanh toán bằng USD; USD mạnh thì cùng lượng hàng nhập tốn nhiều tiền đồng hơn và chi phí đó chuyển dần vào giá bán.
+
+**Fed họp ngày nào, quyết định gì?** Ngày 29/7/2026. Điểm được quan tâm là Fed có nâng lãi suất quỹ liên bang ra khỏi vùng 3,5%–3,75% hay không, và thông điệp về lộ trình lãi suất những tháng tới.
+
+**Fed tăng lãi thì tỷ giá tăng bao nhiêu?** Không có tỷ lệ cố định. Mức tăng phụ thuộc vào cung cầu ngoại tệ trong nước, dự trữ ngoại hối và cách điều hành của NHNN.
+
+**Lãi suất Mỹ tăng thì lãi tiết kiệm ở Việt Nam có tăng theo không?** Không tự động, nhưng có tác động gián tiếp: dư địa hạ lãi suất trong nước bị thu hẹp, nên lãi tiết kiệm có xu hướng đi ngang hoặc nhích nhẹ thay vì giảm.
+
+**Có nên bán cổ phiếu trước cuộc họp?** Mua bán quanh một sự kiện là đầu cơ ngắn hạn, và xác suất đúng gần như tung đồng xu, vì thị trường đã định giá phần lớn kỳ vọng vào giá hiện tại. Nhà đầu tư dài hạn nên tập trung vào chất lượng doanh nghiệp và tỷ lệ đòn bẩy (mức vay nợ) của chính mình.
+
+**Vì sao lạm phát Mỹ ảnh hưởng giá hàng ở Việt Nam?** Phần lớn thương mại quốc tế được thanh toán bằng USD. Khi USD mạnh, cùng một lượng hàng nhập tốn nhiều tiền đồng hơn, và chi phí đó chuyển dần vào giá bán.
 
 ## Thuật ngữ
 

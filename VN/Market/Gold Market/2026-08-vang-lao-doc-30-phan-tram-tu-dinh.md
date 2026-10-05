@@ -52,57 +52,113 @@
 2. Vì sao vàng SJC có thể giảm nhanh hơn cả vàng thế giới?
 3. Người đang giữ vàng lỗ nên suy nghĩ và hành động theo những nguyên tắc nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Giá mua vào và giá bán ra.** Giá bán ra là giá tiệm vàng bán cho khách; giá mua vào là giá tiệm trả khi khách bán lại. Sáng 4/8/2026, vàng miếng SJC có giá mua vào khoảng 137 triệu và bán ra khoảng 140 triệu đồng/lượng. Khi tính lãi lỗ thực của số vàng đang giữ, phải dùng giá mua vào của tiệm, vì đó là số tiền bạn thật sự nhận được nếu bán. Đây là bước đầu tiên trong khung tự kiểm tra mà bài đề xuất.
+
+**Chênh lệch mua - bán.** Khoảng cách giữa giá bán ra và giá mua vào cùng lúc. Theo bài, khoảng này đang là 3–3,5 triệu đồng/lượng. Ví dụ: mua một lượng giá 140 triệu rồi bán lại ngay, bạn chỉ nhận khoảng 137 triệu, mất 3 triệu dù giá thị trường chưa thay đổi. Khái niệm này giải thích vì sao người mua lẻ lướt sóng ngắn hạn gần như luôn bất lợi.
+
+**Giá thế giới quy đổi và premium trong nước.** Giá vàng thế giới tính bằng USD mỗi ounce; quy đổi sang đồng mỗi lượng bằng cách nhân với số ounce trong một lượng (khoảng 1,2) và với tỷ giá. Ngày 4/8, vàng thế giới 4.030–4.050 USD/ounce tương đương khoảng 129 triệu đồng/lượng. Phần SJC cao hơn mức đó gọi là premium, ngày 4/8 khoảng 11–13 triệu đồng/lượng. Premium có thể co giãn riêng, nên là một nguồn rủi ro thứ hai bên cạnh giá thế giới.
+
+**Đòn kép.** Tình huống người mua vàng trong nước chịu hai cú giảm cùng lúc: giá thế giới giảm, và premium trong nước co lại. Ví dụ minh hoạ: nếu giá quy đổi giảm 5 triệu và premium co từ 18 triệu về 12 triệu, giá SJC giảm tổng cộng 11 triệu. Bài dùng khái niệm này để giải thích vì sao SJC có thể giảm nhanh hơn vàng thế giới.
+
+**Bình quân giá xuống.** Mua thêm khi giá đã giảm để kéo giá vốn trung bình xuống. Ví dụ minh hoạ: đã mua 1 lượng giá 144 triệu, mua thêm 1 lượng giá 138 triệu thì giá vốn trung bình là 141 triệu. Cách này chỉ an toàn khi dùng tiền nhàn rỗi; bài cấm làm điều đó bằng tiền vay hay tiền cần dùng gấp, vì nếu giá tiếp tục giảm thì rủi ro bị nhân đôi.
+
+**Tỷ trọng tài sản và tái cân bằng.** Tỷ trọng là phần trăm một loại tài sản chiếm trong tổng tài sản. Ví dụ minh hoạ: tổng tài sản 1 tỷ đồng, vàng trị giá 80 triệu thì vàng chiếm 8%. Tái cân bằng là bán bớt hoặc mua thêm để đưa tỷ trọng về mức đã định. Bài gợi ý vàng khoảng 5–10% tổng tài sản, nên đây là thước đo chính để biết người giữ vàng lỗ có cần hành động hay không.
+
+## Nội dung chi tiết
 
 ### 1. Câu chuyện anh Tuấn
-- Cuối tháng 7, anh Tuấn dồn 100 triệu đồng tiết kiệm mua "ba lượng" vàng miếng (xem Lưu ý), tin rằng "vàng chỉ có lên chứ không xuống".
-- Chưa đầy hai tuần sau, số vàng đó bán ra chỉ còn hơn 95 triệu đồng.
-- Rất nhiều nhà đầu tư mua vùng đỉnh đang trải qua đúng cảm giác đó.
+
+Cuối tháng 7/2026, anh Tuấn dồn 100 triệu đồng tiền tiết kiệm để mua vàng miếng, tin rằng "vàng chỉ có lên chứ không xuống". Bài viết nói anh mua được "ba lượng", nhưng con số này không khớp: với giá bán ra 144,2 triệu đồng/lượng mà chính bài nêu cho ngày 27/7, 100 triệu chỉ mua được khoảng 0,69 lượng. Phần tính lỗ ở mục 3 cũng chỉ đúng với lượng vàng nhỏ đó.
+
+Chưa đầy hai tuần sau, số vàng ấy nếu bán ra chỉ còn hơn 95 triệu đồng. Bài nhấn mạnh rằng rất nhiều nhà đầu tư mua ở vùng đỉnh đang trải qua đúng cảm giác này.
 
 ### 2. Giá vàng ngày 4/8/2026
-- Sáng 4/8/2026, vàng miếng SJC niêm yết quanh 137–140 triệu đồng/lượng (mua vào – bán ra), giảm khoảng 300.000–1 triệu đồng/lượng chỉ trong một phiên. Vàng nhẫn tròn trơn 9999 cũng lùi về vùng tương tự.
-- Thế giới: vàng giằng co quanh 4.030–4.050 USD/ounce, đi ngang khi nhà đầu tư chờ tín hiệu lãi suất từ Fed.
-- Quy đổi: mỗi lượng vàng thế giới khoảng 129 triệu đồng, tức SJC cao hơn giá quốc tế chừng 11–13 triệu đồng/lượng.
-- Bài nhấn mạnh: tính từ vùng đỉnh tháng 1/2026, vàng thế giới đã mất "gần 30%" (xem Lưu ý); đây không còn là nhịp điều chỉnh nhỏ mà là đợt giảm sâu và kéo dài.
+
+| Loại | Mức giá sáng 4/8/2026 | Ghi chú |
+|---|---|---|
+| Vàng miếng SJC | 137 (mua vào) – 140 (bán ra) triệu đồng/lượng | giảm khoảng 300.000 đồng đến 1 triệu đồng/lượng chỉ trong một phiên |
+| Vàng nhẫn tròn trơn 9999 | lùi về vùng tương tự | |
+| Vàng thế giới | 4.030–4.050 USD/ounce | đi ngang, giằng co khi nhà đầu tư chờ tín hiệu lãi suất từ Fed |
+| Vàng thế giới quy đổi | khoảng 129 triệu đồng/lượng | SJC cao hơn giá quốc tế khoảng 11–13 triệu đồng/lượng |
+
+Bài nhấn mạnh rằng tính từ vùng đỉnh tháng 1/2026, vàng thế giới đã mất "gần 30%", và vì thế đây không còn là một nhịp điều chỉnh nhỏ mà là một đợt giảm sâu, kéo dài. Cần lưu ý con số "gần 30%" này cao hơn mức tính được từ các số liệu cùng chuyên mục: SJC từ 189,6 triệu (bán ra, ngày 29/1) về 140 triệu là giảm khoảng 26%; vàng thế giới từ khoảng 5.200 USD (28/1) về 4.040 USD là giảm khoảng 22%.
 
 ### 3. Người "đu đỉnh" giờ ra sao
-- Ngày 27/7, giá bán vàng miếng tại một số doanh nghiệp lên tới 144,2 triệu đồng/lượng.
-- Ai bỏ 100 triệu mua đúng hôm đó, đến 4/8 giá trị chỉ còn khoảng 95,3 triệu, tạm lỗ gần 5 triệu, tương đương gần 5% sau hơn một tuần.
-- Kiểm tra: 100 triệu / 144,2 triệu ≈ 0,6935 lượng; nhân giá mua vào 137 triệu ≈ 95,0 triệu (lỗ khoảng 5%); nhân giá bán ra 140 triệu ≈ 97,1 triệu. Con số 95,3 triệu của bài gần với cách tính theo giá mua vào.
-- Lỗ nhanh vì ngoài giá giảm còn có "chi phí ẩn": chênh lệch giữa giá mua vào và bán ra.
+
+Ngày 27/7, giá bán vàng miếng tại một số doanh nghiệp lên tới 144,2 triệu đồng/lượng. Người bỏ 100 triệu đồng mua đúng hôm đó, đến 4/8 chỉ còn tài sản trị giá khoảng 95,3 triệu, tức tạm lỗ gần 5 triệu đồng, tương đương gần 5% chỉ sau hơn một tuần.
+
+Có thể kiểm tra con số này:
+
+| Bước | Phép tính | Kết quả |
+|---|---|---|
+| Số vàng mua được | 100 triệu ÷ 144,2 triệu/lượng | ≈ 0,6935 lượng |
+| Giá trị nếu bán lại theo giá mua vào của tiệm | 0,6935 × 137 triệu | ≈ 95,0 triệu (lỗ khoảng 5%) |
+| Giá trị nếu tính theo giá bán ra | 0,6935 × 140 triệu | ≈ 97,1 triệu |
+
+Con số 95,3 triệu của bài gần với cách tính theo giá mua vào, tức là cách phản ánh số tiền thật sự nhận được khi bán. Bài giải thích rằng người mua lỗ nhanh như vậy không chỉ vì giá giảm, mà còn vì một "chi phí ẩn": chênh lệch giữa giá mua vào và giá bán ra.
 
 ### 4. Chênh lệch mua - bán: lỗ ngay khi vừa mua
-- Doanh nghiệp mua vào thấp hơn bán ra khoảng 3–3,5 triệu đồng/lượng.
-- Mua xong bán lại ngay, nhà đầu tư đã mất khoản này trước khi giá kịp biến động.
-- Vì vậy "lướt sóng" ngắn hạn gần như luôn bất lợi cho người mua lẻ.
+
+Các doanh nghiệp kinh doanh vàng mua vào thấp hơn giá bán ra khoảng 3–3,5 triệu đồng/lượng. Nếu nhà đầu tư mua xong rồi bán lại ngay, họ đã mất khoản này trước khi giá kịp biến động. Nói cách khác, giá phải tăng thêm ít nhất 3–3,5 triệu mỗi lượng thì người mua mới hoà vốn.
+
+Đây là lý do bài kết luận "lướt sóng" ngắn hạn gần như luôn bất lợi cho người mua lẻ: mỗi lần mua bán đều mất một khoản cố định, trong khi biến động giá ngắn hạn thì không ai đoán chắc.
 
 ### 5. Vì sao vàng SJC giảm nhanh hơn thế giới
-- Có giai đoạn giá trong nước cao hơn thế giới 15–20 triệu đồng/lượng do khan hiếm nguồn cung.
-- Khi thị trường quốc tế hạ nhiệt và cung trong nước bớt căng, khoảng chênh co lại; dù thế giới chỉ đi ngang, SJC vẫn giảm mạnh để về sát giá quốc tế.
-- Nhà đầu tư trong nước "chịu đòn kép": vừa chịu đà giảm của thế giới, vừa chịu phần thu hẹp chênh lệch nội địa.
+
+Người mua ở vùng đỉnh chịu ba lớp thua lỗ chồng lên nhau:
+
+1. **Giá thế giới giảm sâu**, nay đi ngang quanh 4.030–4.050 USD/ounce.
+2. **Chênh lệch mua - bán 3–3,5 triệu đồng/lượng**, khiến họ lỗ ngay khi vừa mua, trước khi giá kịp đổi.
+3. **Premium trong nước co lại.** Có giai đoạn giá trong nước cao hơn thế giới 15–20 triệu đồng/lượng do khan hiếm nguồn cung; nay mức chênh chỉ còn khoảng 11–13 triệu.
+
+Lớp thứ ba giải thích vì sao SJC có thể giảm mạnh ngay cả khi thế giới chỉ đi ngang. Khi thị trường quốc tế hạ nhiệt và nguồn cung trong nước bớt căng, khoảng chênh co lại, kéo giá SJC về sát giá quốc tế. Nhà đầu tư trong nước vì vậy chịu "đòn kép": vừa chịu đà giảm của giá thế giới, vừa chịu phần chênh lệch nội địa thu hẹp.
 
 ### 6. Đang giữ vàng lỗ, nên nghĩ gì
-- WikiMoney không khuyến nghị mua hay bán, nhưng nêu các nguyên tắc:
-  - Vàng là kênh trú ẩn dài hạn, không phải công cụ làm giàu nhanh; giữ giá trị qua nhiều năm nhưng ngắn hạn có thể biến động rất mạnh.
-  - Không bình quân giá xuống bằng tiền đi vay; mua thêm để "gồng lỗ" bằng tiền vay hoặc tiền cần dùng gấp là nhân đôi rủi ro.
-  - Xác định tỷ trọng hợp lý: nhiều chuyên gia gợi ý vàng chỉ nên chiếm khoảng 5–10% tổng tài sản, vai trò phòng thủ, không "bỏ hết trứng vào một giỏ".
-  - Tránh quyết định theo cảm xúc: bán tháo trong hoảng loạn hay ôm thêm trong tiếc nuối đều là bẫy tâm lý.
+
+WikiMoney không khuyến nghị mua hay bán, nhưng nêu bốn nguyên tắc:
+
+- **Vàng là kênh trú ẩn dài hạn, không phải công cụ làm giàu nhanh.** Vàng giữ được giá trị qua nhiều năm, nhưng trong ngắn hạn có thể biến động rất mạnh, như đợt giảm hiện nay cho thấy.
+- **Không bình quân giá xuống bằng tiền đi vay.** Mua thêm để "gồng lỗ" bằng tiền vay hoặc tiền cần dùng gấp là nhân đôi rủi ro: nếu giá tiếp tục giảm, người mua vừa lỗ thêm vừa phải trả nợ.
+- **Xác định tỷ trọng hợp lý.** Nhiều chuyên gia gợi ý vàng chỉ nên chiếm khoảng 5–10% tổng tài sản, với vai trò phòng thủ, để không "bỏ hết trứng vào một giỏ".
+- **Tránh quyết định theo cảm xúc.** Bán tháo trong hoảng loạn hay ôm thêm vì tiếc nuối đều là bẫy tâm lý.
 
 ### 7. Vàng nên chiếm bao nhiêu trong túi tiền
-- Danh mục cân bằng thường phân bổ vàng 5–10% để phòng ngừa lạm phát và rủi ro; phần còn lại chia cho tiền gửi, cổ phiếu/chứng chỉ quỹ và quỹ dự phòng khẩn cấp.
-- Vàng chiếm quá nửa tài sản là dấu hiệu danh mục mất cân đối, bất kể giá lên hay xuống.
+
+Một danh mục cân bằng thường phân bổ vàng khoảng 5–10% để phòng ngừa lạm phát và rủi ro. Phần còn lại chia cho tiền gửi, cổ phiếu hoặc chứng chỉ quỹ, và quỹ dự phòng khẩn cấp. Bài coi trường hợp vàng chiếm quá nửa tài sản là dấu hiệu danh mục mất cân đối, bất kể giá vàng đang lên hay xuống, vì khi đó toàn bộ tình trạng tài chính phụ thuộc vào một loại tài sản.
+
+Bảng dưới tóm tắt cách đọc tỷ trọng vàng theo khung bài đưa ra:
+
+| Tỷ trọng vàng trong tổng tài sản | Đánh giá |
+|---|---|
+| 5–10% | Hợp lý, đóng vai trò phòng thủ |
+| Trên 10–15% | Cân nhắc lộ trình đưa danh mục về cân bằng |
+| Trên 50% | Mất cân đối, dù giá lên hay xuống |
+
+Cần lưu ý bài không hoàn toàn nhất quán: mức gợi ý là 5–10%, nhưng ở phần hành động lại lấy ngưỡng 10–15% để bắt đầu cân nhắc tái cân bằng.
 
 ### 8. Việc có thể làm ngay
-- Mở bảng giá, tính đúng lãi/lỗ thực tế, nhớ trừ chênh lệch mua - bán, đừng chỉ nhìn giá bán ra.
-- Tính vàng chiếm bao nhiêu phần trăm tổng tài sản; vượt 10–15% thì cân nhắc lộ trình đưa danh mục về cân bằng.
-- Ghi ra giấy: mua để phòng thủ dài hạn hay lướt sóng; câu trả lời quyết định cách ứng xử với khoản lỗ.
+
+Bài đề xuất một khung tự kiểm tra gồm ba bước, nên làm theo thứ tự:
+
+1. **Tính lãi lỗ thực.** Mở bảng giá, dùng giá mua vào của tiệm chứ không dùng giá bán ra, tức là đã trừ chênh lệch mua - bán.
+2. **Tính tỷ trọng.** Xem vàng chiếm bao nhiêu phần trăm tổng tài sản. Nếu vượt 10–15%, cân nhắc lộ trình đưa danh mục về cân bằng.
+3. **Ghi ra giấy mục tiêu ban đầu.** Mua để phòng thủ dài hạn hay để lướt sóng? Câu trả lời quyết định cách ứng xử với khoản lỗ: người mua để phòng thủ dài hạn có thể kiên nhẫn, người lướt sóng thì phải đối diện với việc kế hoạch đã sai.
+
+Và một điều cấm xuyên suốt: không bình quân giá xuống bằng tiền vay hay tiền cần dùng gấp.
 
 ### 9. Câu hỏi thường gặp
-- Giá SJC 4/8/2026? Quanh 137–140 triệu đồng/lượng phiên sáng; kiểm tra mốc thời gian cập nhật vì giá đổi nhiều lần trong ngày.
-- Vàng giảm bao nhiêu so với đỉnh? Từ vùng đỉnh tháng 1/2026, vàng thế giới giảm "gần 30%"; SJC cũng lùi mạnh khỏi các đỉnh.
-- Đang lỗ có nên cắt lỗ? Không khuyến nghị; tùy mục tiêu ban đầu, tỷ trọng vàng và khả năng chịu rủi ro.
-- Vì sao SJC giảm nhanh hơn thế giới? Khoảng chênh trong nước - quốc tế đang thu hẹp.
-- Mua lúc này có phải bắt đáy? Không ai biết chắc đâu là đáy; quan trọng là tỷ trọng hợp lý, tiền nhàn rỗi, xác định rõ dài hạn hay ngắn hạn.
+
+**Giá SJC ngày 4/8/2026 là bao nhiêu?** Quanh 137–140 triệu đồng/lượng phiên sáng. Giá đổi nhiều lần trong ngày nên cần kiểm tra mốc thời gian cập nhật.
+
+**Vàng đã giảm bao nhiêu so với đỉnh?** Theo bài, từ vùng đỉnh tháng 1/2026 vàng thế giới giảm "gần 30%", và SJC cũng lùi mạnh khỏi các đỉnh. Như đã nói ở mục 2, mức tính được từ số liệu cụ thể thấp hơn, khoảng 22–26%.
+
+**Đang lỗ có nên cắt lỗ?** Bài không khuyến nghị; việc này tùy mục tiêu ban đầu, tỷ trọng vàng trong tài sản và khả năng chịu rủi ro của mỗi người.
+
+**Vì sao SJC giảm nhanh hơn thế giới?** Vì khoảng chênh giữa giá trong nước và giá quốc tế đang thu hẹp.
+
+**Mua lúc này có phải là bắt đáy?** Không ai biết chắc đâu là đáy. Điều quan trọng là giữ tỷ trọng hợp lý, chỉ dùng tiền nhàn rỗi, và xác định rõ mục tiêu dài hạn hay ngắn hạn.
 
 ## Thuật ngữ
 

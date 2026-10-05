@@ -43,56 +43,87 @@
 2. USD mạnh lên đi vào túi tiền người Việt qua những con đường nào (tỷ giá, vàng, lãi tiết kiệm, lãi vay)?
 3. Người nhập hàng, người gửi tiết kiệm, người vay thả nổi và người giữ vàng nên làm gì ngay?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Fed và lãi suất điều hành.** Fed (Cục Dự trữ Liên bang Mỹ) là ngân hàng trung ương của Mỹ. Lãi suất điều hành là mức lãi suất mà ngân hàng trung ương nhắm tới cho các khoản vay ngắn hạn giữa các ngân hàng với nhau. Nó là "mỏ neo" kéo theo hầu hết các lãi suất khác. Ví dụ trong bài: Fed giữ lãi suất điều hành ở 3,5%–3,75%. Khi mức này thay đổi, lãi vay mua nhà, vay tiêu dùng, thẻ tín dụng và tiết kiệm ở Mỹ đều dịch chuyển theo, và qua đồng USD lan sang các nước khác.
+
+**Phiếu bầu và phiếu chống trong Fed.** Quyết định lãi suất của Fed do một uỷ ban bỏ phiếu. Phiếu chống là phiếu của thành viên không đồng ý với quyết định đa số. Ví dụ trong bài: kết quả 9 thuận – 3 chống, và cả 3 phiếu chống đều muốn tăng lãi thêm 0,25% chứ không phải giữ nguyên hay giảm. Hướng của phiếu chống quan trọng vì nó báo trước Fed có thể đi theo hướng nào ở các cuộc họp sau.
+
+**"Diều hâu" và "bồ câu".** Cách gọi quen thuộc về khuynh hướng của người làm chính sách tiền tệ. "Diều hâu" ưu tiên chống lạm phát, muốn giữ lãi suất cao lâu hơn hoặc tăng tiếp; "bồ câu" ưu tiên hỗ trợ tăng trưởng và việc làm, sẵn sàng giảm lãi suất. Bài cho rằng nội bộ Fed đang nghiêng dần về phía diều hâu, vì lạm phát Mỹ ở trên mục tiêu 2% suốt hơn 5 năm.
+
+**Kỳ vọng thị trường.** Điều mà nhà đầu tư tin sẽ xảy ra, và họ hành động ngay theo niềm tin đó. Giá tài sản thay đổi khi kỳ vọng thay đổi, không cần chờ sự kiện xảy ra thật. Ví dụ trong bài: Fed chỉ giữ nguyên lãi suất, nhưng vì thị trường chuyển từ chờ Fed cắt sang đặt cược Fed còn tăng, USD lập tức mạnh lên.
+
+**Tỷ giá trung tâm.** Mức tỷ giá USD/VND mà Ngân hàng Nhà nước (NHNN) công bố mỗi ngày làm mốc; các ngân hàng thương mại được niêm yết giá mua bán trong một biên độ quanh mốc này. Ví dụ trong bài: sáng 30/7/2026, NHNN nâng tỷ giá trung tâm thêm 14 đồng lên 25.320 đồng/USD, trong khi Vietcombank niêm yết khoảng 26.140 (mua) – 26.520 (bán). Đây là kênh đầu tiên và trực tiếp nhất đưa quyết định của Fed vào túi tiền người Việt.
+
+**Lãi suất thả nổi.** Lãi suất khoản vay được điều chỉnh theo định kỳ, thường theo lãi tiền gửi cộng một biên độ. Ví dụ minh hoạ: khoản vay 1 tỷ đồng, lãi thả nổi tăng từ 10% lên 11%/năm thì tiền lãi mỗi năm tăng thêm 10 triệu đồng. Bài chỉ ra người vay theo hình thức này là nhóm chịu tác động khi lãi huy động trong nước nhích lên.
+
+**Chốt tỷ giá.** Thoả thuận trước với ngân hàng một mức tỷ giá cho khoản ngoại tệ sẽ mua hoặc bán trong tương lai, để không bị ảnh hưởng nếu tỷ giá biến động. Ví dụ minh hoạ: cần trả 20.000 USD sau một tháng, chốt hôm nay ở 26.520 đồng thì tổng chi phí cố định là 530,4 triệu đồng, dù đến lúc đó giá USD có lên 26.800. Bài khuyên người có khoản phải trả lớn bằng USD cân nhắc cách này.
+
+## Nội dung chi tiết
 
 ### 1. Tình huống mở đầu: anh Dũng nhập linh kiện
-- Anh Dũng, 34 tuổi, nhập linh kiện điện tử từ Mỹ về bán ở TP.HCM, xưa nay bỏ qua tin "Fed họp" vì nghĩ không liên quan.
-- Sáng 30/7 mở app ngân hàng thấy tỷ giá USD nhích lên, trong khi lô hàng tháng sau vẫn phải thanh toán bằng USD.
-- Bài nhấn mạnh: vài chục đồng chênh trên mỗi USD nhân với hàng chục nghìn USD là một khoản không nhỏ.
-- Bài ghi rõ: cập nhật ngày 30/7/2026, sử dụng dữ liệu công bố đến sáng 30/7/2026.
+
+Anh Dũng, 34 tuổi, nhập linh kiện điện tử từ Mỹ về bán ở TP.HCM (nhân vật minh hoạ của bài). Xưa nay anh bỏ qua các tin "Fed họp" vì nghĩ chuyện đó không liên quan đến mình.
+
+Sáng 30/7, mở ứng dụng ngân hàng, anh thấy tỷ giá USD nhích lên, trong khi lô hàng tháng sau vẫn phải thanh toán bằng USD. Bài nhấn mạnh rằng vài chục đồng chênh lệch trên mỗi USD, nhân với hàng chục nghìn USD tiền hàng, là một khoản không nhỏ. Ví dụ minh hoạ: 30.000 USD tiền hàng, mỗi USD đắt thêm 50 đồng, là thêm 1,5 triệu đồng chi phí.
+
+Bài ghi rõ thông tin được cập nhật ngày 30/7/2026, dùng dữ liệu công bố đến sáng 30/7/2026.
 
 ### 2. Quyết định của Fed trong cuộc họp 29/7
-- Rạng sáng 30/7 giờ Việt Nam, Cục Dự trữ Liên bang Mỹ (Fed) công bố giữ nguyên lãi suất điều hành ở 3,5%–3,75%.
-- Đây là lần thứ 5 liên tiếp Fed không thay đổi lãi suất, sau ba lần cắt giảm hồi cuối năm 2025.
-- Kết quả bỏ phiếu: 9 thuận – 3 chống. Điểm bất thường: cả 3 phiếu chống không đòi cắt mà đòi tăng thêm 0,25% để ghìm lạm phát.
-- Chủ tịch Fed Kevin Warsh gọi cuộc họp là "cuộc tranh luận nảy lửa trong gia đình".
+
+Cuộc họp diễn ra ngày 29/7 theo giờ Mỹ; rạng sáng 30/7 theo giờ Việt Nam, Fed công bố giữ nguyên lãi suất điều hành ở 3,5%–3,75%. Đây là lần thứ 5 liên tiếp Fed không thay đổi lãi suất, sau ba lần cắt giảm hồi cuối năm 2025.
+
+Điều đáng chú ý nằm ở kết quả bỏ phiếu: 9 thuận – 3 chống. Bình thường, nếu có phiếu chống trong lúc Fed giữ nguyên, người ta đoán đó là phiếu muốn cắt lãi. Lần này thì ngược lại: cả 3 phiếu chống đều đòi tăng thêm 0,25% để ghìm lạm phát. Chủ tịch Fed Kevin Warsh mô tả cuộc họp là "cuộc tranh luận nảy lửa trong gia đình".
 
 ### 3. Khái niệm: lãi suất điều hành
-- Là mức lãi suất ngân hàng trung ương áp cho các khoản vay ngắn hạn giữa các ngân hàng.
-- Là "mỏ neo" kéo theo hầu hết lãi suất khác: vay mua nhà, vay tiêu dùng, thẻ tín dụng, tiết kiệm.
+
+Lãi suất điều hành là mức lãi suất mà ngân hàng trung ương áp cho các khoản vay ngắn hạn giữa các ngân hàng. Bản thân người dân không vay ở mức này, nhưng nó đóng vai trò "mỏ neo": khi ngân hàng vay của nhau đắt hơn, họ cũng cho khách hàng vay đắt hơn và trả lãi tiền gửi cao hơn. Vì vậy, nó kéo theo hầu hết các lãi suất khác, từ vay mua nhà, vay tiêu dùng, thẻ tín dụng đến lãi tiết kiệm.
 
 ### 4. Vì sao "3 phiếu đòi tăng" đáng chú ý
-- Lần đầu tiên kể từ năm 2016 có tới 3 thành viên Fed cùng phản đối theo một hướng.
-- Tín hiệu: nội bộ Fed nghiêng dần về phía "diều hâu" (muốn giữ lãi cao lâu hơn, thậm chí tăng tiếp), vì lạm phát Mỹ dai dẳng trên mục tiêu 2% suốt hơn 5 năm.
-- Thị trường đảo kỳ vọng: thay vì chờ Fed cắt lãi, nhiều nhà đầu tư đặt cược Fed còn tăng lãi một lần trước cuối năm 2026.
-- Kỳ vọng này lập tức đẩy USD mạnh lên trên thị trường quốc tế.
+
+Theo bài, đây là lần đầu tiên kể từ năm 2016 có tới 3 thành viên Fed cùng phản đối theo một hướng. Điều đó mang ba tín hiệu nối tiếp nhau:
+
+1. **Nội bộ Fed nghiêng về phía "diều hâu".** Ngày càng nhiều thành viên muốn giữ lãi suất cao lâu hơn, thậm chí tăng tiếp, vì lạm phát Mỹ đã dai dẳng ở trên mục tiêu 2% suốt hơn 5 năm.
+2. **Thị trường đảo kỳ vọng.** Thay vì chờ Fed cắt lãi, nhiều nhà đầu tư chuyển sang đặt cược Fed còn tăng lãi thêm một lần trước cuối năm 2026.
+3. **USD mạnh lên ngay.** Lãi suất Mỹ dự kiến cao hơn khiến tài sản bằng USD hấp dẫn hơn, nên kỳ vọng này lập tức đẩy USD mạnh lên trên thị trường quốc tế.
+
+Nói cách khác, quyết định "giữ nguyên" không có gì mới, nhưng cách các thành viên bỏ phiếu đã thay đổi cách thị trường nhìn về tương lai, và chính điều đó tác động lên giá cả.
 
 ### 5. Bốn con đường USD mạnh đi vào túi tiền người Việt
 
 | Kênh | Diễn biến bài nêu | Ai bị tác động |
 |---|---|---|
-| Tỷ giá USD/VND | Sáng 30/7 NHNN nâng tỷ giá trung tâm thêm 14 đồng lên 25.320 đồng/USD, vùng cao nhất từ trước đến nay; Vietcombank niêm yết khoảng 26.140 (mua) – 26.520 (bán); MBS dự báo 26.800–27.000 đồng/USD cuối 2026, tức tăng thêm khoảng 2–2,8% so với đầu năm | Người nhập hàng, thanh toán bằng USD |
-| Giá vàng | Vàng thường đi ngược USD; USD mạnh khiến vàng "đắt" hơn với người giữ đồng tiền khác nên dễ bị bán; sáng 29/7 vàng thế giới quanh 4.017 USD/ounce, giảm so với hôm trước | Người "lướt" vàng ngắn hạn |
-| Lãi suất tiết kiệm | Để giữ tiền đồng không mất giá quá nhanh, lãi huy động có xu hướng tăng nhẹ; đã có chương trình lãi thỏa thuận gần 10%/năm cho khoản tiền lớn | Người gửi được lợi đôi chút |
-| Lãi vay | Lãi huy động tăng thường kéo lãi cho vay tăng; khoản vay mua nhà, tiêu dùng thả nổi có thể tăng tiền trả hằng tháng ở các kỳ điều chỉnh tới | Người đang vay |
+| Tỷ giá USD/VND | Sáng 30/7, NHNN nâng tỷ giá trung tâm thêm 14 đồng lên 25.320 đồng/USD, vùng cao nhất từ trước đến nay. Vietcombank niêm yết khoảng 26.140 (mua) – 26.520 (bán). MBS dự báo tỷ giá cuối 2026 ở mức 26.800–27.000 đồng/USD, tức tăng thêm khoảng 2–2,8% so với đầu năm | Người nhập hàng, người thanh toán bằng USD: giá vốn tăng hoặc lãi mỏng hơn |
+| Giá vàng | Vàng thường đi ngược chiều USD. Vàng được định giá bằng USD, nên USD mạnh khiến vàng "đắt" hơn với người giữ đồng tiền khác, và vàng dễ bị bán ra. Sáng 29/7, vàng thế giới quanh 4.017 USD/ounce, giảm so với hôm trước | Người "lướt" vàng ngắn hạn: rủi ro giảm giá |
+| Lãi suất tiết kiệm | Để giữ tiền đồng không mất giá quá nhanh so với USD, lãi huy động có xu hướng tăng nhẹ. Đã có chương trình lãi thoả thuận gần 10%/năm cho khoản tiền lớn | Người gửi tiết kiệm bằng VND: được lợi "đôi chút" |
+| Lãi vay | Lãi huy động tăng thường kéo lãi cho vay tăng theo. Các khoản vay mua nhà, vay tiêu dùng thả nổi có thể phải trả nhiều hơn mỗi tháng ở các kỳ điều chỉnh tới | Người đang vay theo lãi thả nổi |
 
-- Với anh Dũng: mỗi USD đắt thêm nghĩa là giá vốn tăng, hoặc phải chấp nhận lợi nhuận mỏng hơn.
+Hai lưu ý khi đọc bảng. Thứ nhất, số liệu trong bài chỉ cho thấy tỷ giá trung tâm tăng 14 đồng trong ngày 30/7; câu "mỗi USD đắt thêm vài trăm đồng" ở một chỗ khác của bài chỉ đúng nếu so với một mốc xa hơn, như đầu năm hoặc dự báo cuối năm của MBS. Thứ hai, giá vàng 4.017 USD/ounce là số liệu sáng 29/7, trước khi Fed công bố quyết định, nên chưa phải phản ứng của vàng với quyết định này.
+
+Với anh Dũng, kênh tỷ giá là kênh tác động rõ nhất: mỗi USD đắt thêm nghĩa là giá vốn hàng nhập tăng, hoặc anh phải chấp nhận lợi nhuận mỏng hơn nếu không tăng giá bán.
 
 ### 6. Đừng vội "bắt đáy" hay "đu đỉnh" theo tin Fed
-- Một quyết định của Fed không đảo chiều thị trường ngay; tỷ giá và giá vàng còn phụ thuộc nhiều yếu tố khác.
-- Ra quyết định lớn chỉ vì một bản tin là cách nhanh nhất để mua đắt, bán rẻ.
+
+Bài cảnh báo rằng một quyết định của Fed không làm thị trường đảo chiều ngay lập tức. Tỷ giá và giá vàng còn phụ thuộc vào nhiều yếu tố khác, như cán cân thương mại, dòng vốn, chính sách của NHNN. Ra một quyết định tài chính lớn chỉ vì một bản tin là cách nhanh nhất để mua đắt, bán rẻ: người mua chạy theo tin thường mua sau khi giá đã phản ứng, và bán khi giá đã quay đầu.
 
 ### 7. Hành động ngay hôm nay
-1. Nhập hàng hoặc thanh toán bằng USD: rà lại các khoản phải trả sắp tới, cân nhắc chốt tỷ giá sớm cho đơn hàng lớn.
-2. Đang gửi tiết kiệm: so sánh lãi suất giữa vài ngân hàng trước khi tái tục vì mặt bằng đang nhích lên.
-3. Đang vay lãi thả nổi: hỏi ngân hàng lịch điều chỉnh lãi kế tiếp để chủ động dòng tiền.
-4. Giữ vàng ngắn hạn: theo dõi diễn biến USD, không dồn hết vốn vào một thời điểm.
+
+Bài đưa ra bốn việc, tương ứng với bốn nhóm người:
+
+1. **Người nhập hàng hoặc thanh toán bằng USD:** rà lại các khoản phải trả sắp tới, cân nhắc chốt tỷ giá sớm cho các đơn hàng lớn.
+2. **Người đang gửi tiết kiệm:** so sánh lãi suất giữa vài ngân hàng trước khi tái tục, vì mặt bằng lãi đang nhích lên.
+3. **Người đang vay lãi thả nổi:** hỏi ngân hàng lịch điều chỉnh lãi suất kế tiếp để chủ động dòng tiền trả nợ.
+4. **Người giữ vàng ngắn hạn:** theo dõi diễn biến của USD, không dồn hết vốn vào một thời điểm.
 
 ### 8. Câu hỏi thường gặp
-- Fed giữ nguyên là tốt hay xấu cho Việt Nam? Không hẳn tốt, không hẳn xấu: giữ nguyên giúp môi trường tài chính ổn định hơn, nhưng kỳ vọng Fed tăng lại vẫn tạo áp lực lên tỷ giá.
-- Vì sao USD mạnh làm vàng giảm? Vàng định giá bằng USD; USD mạnh khiến vàng đắt đỏ hơn với người giữ đồng tiền khác nên lực mua yếu đi.
-- Fed họp tiếp khi nào? Dự kiến giữa tháng 9/2026; trước đó thị trường theo dõi phát biểu của Chủ tịch Fed.
-- Có nên đổi hết tiền sang USD để phòng tỷ giá? Không; đa dạng hóa và giữ ngoại tệ theo đúng nhu cầu chi tiêu thực tế an toàn hơn đầu cơ tỷ giá.
+
+**Fed giữ nguyên lãi suất là tốt hay xấu cho Việt Nam?** Không hẳn tốt, không hẳn xấu. Giữ nguyên giúp môi trường tài chính ổn định hơn, nhưng kỳ vọng Fed tăng lãi trở lại vẫn tạo áp lực lên tỷ giá.
+
+**Vì sao USD mạnh làm giá vàng giảm?** Vì vàng được định giá bằng USD. USD mạnh khiến vàng đắt đỏ hơn với người giữ đồng tiền khác, nên lực mua yếu đi.
+
+**Khi nào Fed họp tiếp?** Dự kiến giữa tháng 9/2026. Trước đó, thị trường sẽ theo dõi các phát biểu của Chủ tịch Fed để đoán hướng đi.
+
+**Có nên đổi hết tiền sang USD để phòng tỷ giá tăng?** Không. Đa dạng hoá và giữ ngoại tệ đúng theo nhu cầu chi tiêu thực tế an toàn hơn đầu cơ tỷ giá.
 
 ## Thuật ngữ
 

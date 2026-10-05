@@ -44,13 +44,31 @@
 2. GDP tăng, lạm phát 4,39%, xuất nhập khẩu và FDI mạnh có ý nghĩa gì với lương, tiết kiệm và giá cả của một người bình thường?
 3. Người tiết kiệm và nhà đầu tư nên làm gì với bức tranh này?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**GDP và tăng trưởng GDP.** GDP (tổng sản phẩm trong nước) là tổng giá trị hàng hoá và dịch vụ mà nền kinh tế tạo ra trong một kỳ. Tăng trưởng GDP là phần trăm GDP (đã loại tác động giá) tăng so với cùng kỳ năm trước. Ví dụ trong bài: GDP 6 tháng đầu năm 2026 tăng 8,18%, riêng quý I tăng 7,83%. Ở Việt Nam, GDP chỉ được công bố theo quý, nên con số "GDP 7 tháng" mà một số tin nhắc tới thực chất là số liệu 6 tháng. Bài dùng GDP như thước đo "chiếc bánh kinh tế" lớn lên bao nhiêu.
+
+**CPI so với tháng trước và CPI bình quân so với cùng kỳ.** CPI (chỉ số giá tiêu dùng) đo giá của một giỏ hàng hoá, dịch vụ mà hộ gia đình thường mua. "So với tháng trước" cho biết giá thay đổi trong một tháng; "bình quân 7 tháng so với cùng kỳ" so trung bình giá 7 tháng năm nay với 7 tháng năm trước. Ví dụ trong bài: CPI tháng 7 giảm 0,1% so với tháng 6, nhưng CPI bình quân 7 tháng vẫn tăng 4,39%. Hai con số khác nhau vì đo hai việc khác nhau, nên phải đọc đúng con số khi đánh giá túi tiền.
+
+**Lãi suất thực.** Lãi suất tiền gửi trừ đi lạm phát; nó cho biết sức mua của tiền gửi thực sự tăng bao nhiêu. Ví dụ trong bài: gửi lãi 5%/năm khi lạm phát 4,39% thì lãi thực chỉ khoảng 0,6%/năm. Đây là khái niệm trung tâm của bài, vì nó cho thấy một sổ tiết kiệm có lãi trên giấy vẫn có thể đang mất sức mua.
+
+**Kim ngạch xuất nhập khẩu và cán cân thương mại.** Kim ngạch xuất nhập khẩu là tổng giá trị hàng xuất đi cộng hàng nhập về. Cán cân thương mại là xuất khẩu trừ nhập khẩu: dương là xuất siêu, âm là nhập siêu. Ví dụ trong bài: tổng xuất nhập khẩu 7 tháng đạt 659,58 tỷ USD, tăng 28,1%. Tổng lớn cho thấy thương mại sôi động, nhưng nếu nhập khẩu tăng nhanh hơn xuất khẩu, cán cân xấu đi và có thể gây áp lực lên tỷ giá.
+
+**FDI thực hiện.** FDI (đầu tư trực tiếp nước ngoài) thực hiện là số vốn nhà đầu tư nước ngoài đã thực sự giải ngân để xây nhà máy, mở rộng sản xuất, khác với số vốn mới chỉ đăng ký trên giấy. Ví dụ trong bài: 7 tháng đầu năm, FDI thực hiện đạt 15,2 tỷ USD, tăng 11,8%, cao nhất 5 năm. Bài gọi đây là "vốn thật", vì nó tạo ra việc làm ngay.
+
+**Dự toán ngân sách.** Kế hoạch thu, chi của Nhà nước cho cả năm, được Quốc hội thông qua từ đầu năm. Tỷ lệ "đạt bao nhiêu phần trăm dự toán" cho biết tiến độ so với kế hoạch. Ví dụ trong bài: thu ngân sách 7 tháng đạt 1,83 triệu tỷ đồng, bằng 72,5% dự toán, tức dự toán cả năm khoảng 2,52 triệu tỷ. Sau 7 trên 12 tháng (khoảng 58% thời gian) mà đã thu được 72,5%, tiến độ thu là khá nhanh.
+
+**Đa dạng hoá tài sản.** Chia tiền vào nhiều loại tài sản khác nhau (tiền gửi, cổ phiếu, chứng chỉ quỹ, vàng, quỹ dự phòng) để một loại giảm giá không làm hỏng cả kế hoạch. Ví dụ minh hoạ: 200 triệu chia 50% tiền gửi, 30% chứng chỉ quỹ, 10% vàng, 10% dự phòng thay vì dồn cả vào một kênh. Bài gọi đây là "nguyên tắc vàng".
+
+## Nội dung chi tiết
 
 ### 1. Tình huống mở đầu
-- Chị Lan thấy hàng loạt tin "GDP tăng 8%", "lạm phát trong tầm kiểm soát", "xuất nhập khẩu vượt 659 tỷ USD" và tự hỏi các con số này liên quan gì đến lương, khoản tiết kiệm, giá mớ rau của mình.
+
+Chị Lan (nhân vật minh hoạ của bài) đọc hàng loạt tin như "GDP tăng 8%", "lạm phát trong tầm kiểm soát", "xuất nhập khẩu vượt 659 tỷ USD". Chị tự hỏi những con số ấy liên quan gì đến lương, đến khoản tiết kiệm và đến giá mớ rau của mình. Toàn bộ bài là lời đáp cho câu hỏi đó: dịch từng chỉ tiêu vĩ mô sang ngôn ngữ của túi tiền.
 
 ### 2. Bức tranh kinh tế 7 tháng đầu năm 2026
-Số liệu công bố tại phiên họp Chính phủ thường kỳ chiều 3/8/2026:
+
+Số liệu được công bố tại phiên họp Chính phủ thường kỳ chiều 3/8/2026:
 
 | Chỉ tiêu | Số liệu | Diễn giải của bài |
 |---|---|---|
@@ -62,41 +80,79 @@ Số liệu công bố tại phiên họp Chính phủ thường kỳ chiều 3/
 | Thu ngân sách | 1,83 triệu tỷ đồng (72,5% dự toán) | |
 | Giải ngân đầu tư công | 418,9 nghìn tỷ đồng | |
 
-- Tự kiểm tra: thu ngân sách đạt 72,5% dự toán ứng với dự toán cả năm khoảng 1,83 / 0,725 ≈ 2,52 triệu tỷ đồng.
+Từ tỷ lệ 72,5% có thể suy ra dự toán thu ngân sách cả năm khoảng 1,83 / 0,725 ≈ 2,52 triệu tỷ đồng.
+
+Hai điểm cần đọc cho đúng. Thứ nhất, tiêu đề và phần hỏi đáp của bài nói "GDP 7 tháng", nhưng GDP chỉ công bố theo quý; 8,18% là tăng trưởng 6 tháng đầu năm, và phần mở đầu làm tròn thành "GDP tăng 8%". Thứ hai, 4,39% là CPI bình quân 7 tháng so với cùng kỳ, không phải tốc độ lạm phát của riêng tháng 7 so với tháng 7 năm trước; hai thước đo này có thể khác nhau đáng kể.
+
+Bài nối các chỉ tiêu này thành một chuỗi đi vào túi tiền:
+
+- GDP 6 tháng tăng 8,18% → doanh nghiệp mở rộng, tuyển người, tăng lương; nhưng tăng trưởng nhanh dễ đẩy giá lên.
+- CPI bình quân 7 tháng tăng 4,39% → giỏ hàng đắt hơn khoảng 4,39%, sổ tiết kiệm bị bào mòn.
+- Xuất nhập khẩu 659,58 tỷ USD (tăng 28,1%) → doanh nghiệp xuất khẩu khoẻ, có việc làm; nhưng nhập khẩu tăng nhanh ảnh hưởng tới cán cân thương mại và tỷ giá.
+- FDI thực hiện 15,2 tỷ USD (tăng 11,8%) → nhà máy, việc làm, vĩ mô ổn định.
+- Thu ngân sách 1,83 triệu tỷ đồng (72,5% dự toán) và đầu tư công giải ngân 418,9 nghìn tỷ đồng.
 
 ### 3. GDP tăng 8% nghĩa là gì với bạn
-- GDP là tổng giá trị hàng hóa và dịch vụ nền kinh tế tạo ra; GDP tăng mạnh nghĩa là "chiếc bánh kinh tế" phình to: doanh nghiệp làm ăn tốt hơn, tuyển thêm người, trả lương cao hơn, cơ hội kinh doanh nhiều hơn.
-- Với người đi làm: môi trường thuận lợi để tìm việc, tăng thu nhập hoặc khởi nghiệp.
-- Mặt trái: tăng trưởng nhanh dễ tạo áp lực lên giá cả, tức lạm phát.
+
+GDP là tổng giá trị hàng hoá và dịch vụ mà nền kinh tế tạo ra. GDP tăng mạnh nghĩa là "chiếc bánh kinh tế" phình to: doanh nghiệp làm ăn tốt hơn, tuyển thêm người, trả lương cao hơn, và có nhiều cơ hội kinh doanh hơn.
+
+Với người đi làm, đây là môi trường thuận lợi để tìm việc, tăng thu nhập hoặc khởi nghiệp.
+
+Mặt trái mà bài chỉ ra: tăng trưởng nhanh dễ tạo áp lực lên giá cả. Khi doanh nghiệp và người dân cùng chi tiêu nhiều hơn, cầu tăng nhanh hơn cung, và giá có xu hướng đi lên, tức là lạm phát.
 
 ### 4. Lạm phát 4,39% ảnh hưởng túi tiền thế nào
-- Mặt bằng giá hàng hóa, dịch vụ cao hơn khoảng 4,39% so với cùng kỳ: cùng một giỏ hàng, năm nay phải trả nhiều tiền hơn.
-- Với người gửi tiết kiệm: nếu tiền nằm yên hoặc sinh lời thấp hơn lạm phát, sức mua thực tế bị bào mòn dần.
-- Công thức của bài: Lãi suất thực = Lãi suất tiền gửi − Lạm phát.
-- Ví dụ: gửi 100 triệu đồng, lãi 5%/năm, lạm phát 4,39% → lãi thực khoảng 0,6%/năm (5 − 4,39 = 0,61), sức mua gần như đứng yên. Nếu lãi gửi thấp hơn 4,39%, bạn đang "lỗ thật" dù sổ tiết kiệm vẫn cộng thêm tiền.
-- Kiểm tra bằng công thức chính xác: (1,05 / 1,0439) − 1 ≈ 0,58%/năm; bằng tiền, 100 triệu sau một năm thành 105 triệu, nhưng chỉ mua được lượng hàng tương đương khoảng 100,58 triệu đồng năm trước.
+
+Mặt bằng giá hàng hoá, dịch vụ đang cao hơn khoảng 4,39% so với cùng kỳ. Nói đơn giản, cùng một giỏ hàng, năm nay phải trả nhiều tiền hơn năm ngoái.
+
+Với người gửi tiết kiệm, điều này có nghĩa là: nếu tiền nằm yên, hoặc sinh lời thấp hơn lạm phát, sức mua thực tế sẽ bị bào mòn dần. Bài đưa ra một công thức có thể tính trong 30 giây:
+
+**Lãi suất thực = Lãi suất tiền gửi − Lạm phát**
+
+| Bước | Phép tính | Kết quả |
+|---|---|---|
+| Gửi 100 triệu, lãi 5%/năm | 100 × 1,05 | 105 triệu sau một năm |
+| Lãi thực theo công thức gần đúng | 5 − 4,39 | 0,61, tức khoảng 0,6%/năm |
+| Lãi thực theo công thức chính xác | (1,05 / 1,0439) − 1 | ≈ 0,58%/năm |
+| Sức mua của 105 triệu, quy về giá năm trước | 105 / 1,0439 | ≈ 100,58 triệu đồng |
+
+Nghĩa là sau một năm, sổ tiết kiệm cộng thêm 5 triệu đồng, nhưng số tiền ấy chỉ mua được lượng hàng tương đương khoảng 100,58 triệu đồng của năm trước. Sức mua gần như đứng yên.
+
+Quy tắc rút ra:
+
+- Lãi gửi cao hơn 4,39%: còn lời thực.
+- Lãi gửi thấp hơn 4,39%: bạn đang "lỗ thật", dù sổ tiết kiệm vẫn cộng thêm tiền mỗi kỳ.
 
 ### 5. Xuất nhập khẩu và FDI mạnh nói lên điều gì
-- XNK tăng 28,1% và FDI thực hiện cao nhất 5 năm: Việt Nam vẫn là điểm đến hấp dẫn của vốn quốc tế, doanh nghiệp sản xuất – xuất khẩu đang khỏe; tốt cho việc làm và thường là nền tảng thuận lợi cho thị trường chứng khoán.
-- Cần theo dõi: nhập khẩu tăng nhanh liên quan đến cán cân thương mại và áp lực tỷ giá, từ đó tới giá hàng nhập, giá xăng dầu và lãi suất tương lai.
+
+Xuất nhập khẩu tăng 28,1% và FDI thực hiện cao nhất 5 năm cho thấy Việt Nam vẫn là điểm đến hấp dẫn của vốn quốc tế, và các doanh nghiệp sản xuất, xuất khẩu đang khoẻ. Điều này tốt cho việc làm, và thường là nền tảng thuận lợi cho thị trường chứng khoán.
+
+Điểm cần theo dõi là nhập khẩu tăng nhanh. Nhập khẩu tăng nhanh hơn xuất khẩu sẽ làm cán cân thương mại xấu đi, kéo theo nhu cầu ngoại tệ lớn hơn và áp lực lên tỷ giá. Tỷ giá tăng lại ảnh hưởng tới giá hàng nhập, giá xăng dầu và lãi suất trong tương lai.
 
 ### 6. Người tiết kiệm và nhà đầu tư nên nghĩ gì
-- WikiMoney không đưa khuyến nghị mua bán cụ thể.
-- Đừng để tiền "ngủ đông": với lạm phát quanh 4–4,5%, tiền để không hoặc gửi lãi quá thấp sẽ giảm sức mua.
-- Nền vĩ mô ổn định là điều kiện thuận lợi, không phải lời hứa: tăng trưởng tốt giúp giảm rủi ro hệ thống, nhưng từng khoản đầu tư vẫn cần đánh giá riêng.
-- Đa dạng hóa là nguyên tắc vàng: phân bổ giữa tiền gửi, chứng chỉ quỹ/cổ phiếu, vàng và quỹ dự phòng.
+
+WikiMoney không đưa ra khuyến nghị mua bán cụ thể, nhưng nêu ba nguyên tắc:
+
+- **Đừng để tiền "ngủ đông".** Với lạm phát quanh 4–4,5%, tiền để không hoặc gửi ở mức lãi quá thấp sẽ mất dần sức mua.
+- **Nền vĩ mô ổn định là điều kiện thuận lợi, không phải lời hứa.** Tăng trưởng tốt giúp giảm rủi ro chung của cả hệ thống, nhưng từng khoản đầu tư vẫn cần được đánh giá riêng.
+- **Đa dạng hoá là nguyên tắc vàng.** Phân bổ tiền giữa tiền gửi, chứng chỉ quỹ hoặc cổ phiếu, vàng và quỹ dự phòng.
 
 ### 7. Hành động ngay hôm nay
-1. Lấy sổ tiết kiệm, tính lãi thực = lãi gửi − 4,39%; nếu âm hoặc gần 0, xem lại kế hoạch cho tiền.
-2. Liệt kê tài sản (tiền gửi, vàng, cổ phiếu, tiền mặt), ước lượng tỷ trọng từng loại để xem danh mục đã cân đối chưa.
-3. Đặt mục tiêu tài chính cụ thể cho 6 tháng cuối năm dựa trên bối cảnh kinh tế thuận lợi.
+
+1. **Tính lãi thực của sổ tiết kiệm:** lấy lãi gửi trừ 4,39%. Nếu kết quả âm hoặc gần 0, hãy xem lại kế hoạch cho số tiền đó.
+2. **Liệt kê tài sản** (tiền gửi, vàng, cổ phiếu, tiền mặt) và ước lượng tỷ trọng từng loại để xem danh mục đã cân đối chưa.
+3. **Đặt mục tiêu tài chính cụ thể** cho 6 tháng cuối năm, dựa trên bối cảnh kinh tế đang thuận lợi.
 
 ### 8. Câu hỏi thường gặp
-- GDP tăng bao nhiêu? 6 tháng đầu năm 8,18%, quý I 7,83%.
-- Lạm phát 7 tháng? CPI bình quân 7 tháng tăng 4,39%; tháng 7 giảm 0,1% so với tháng trước; trong mục tiêu cả năm.
-- Lạm phát cao gửi tiết kiệm còn lời không? Lãi gửi cao hơn 4,39% thì còn lời thực; thấp hơn thì sức mua giảm.
-- Kinh tế tốt có nghĩa chứng khoán tăng? Không đảm bảo; giá cổ phiếu còn phụ thuộc nhiều yếu tố, cần đánh giá từng doanh nghiệp.
-- FDI tăng có lợi gì cho người dân? Tạo nhà máy, việc làm, thu nhập, góp phần ổn định vĩ mô, gián tiếp bảo vệ giá trị đồng tiền và cơ hội nghề nghiệp.
+
+**GDP tăng bao nhiêu?** 6 tháng đầu năm tăng 8,18%, riêng quý I tăng 7,83%.
+
+**Lạm phát 7 tháng là bao nhiêu?** CPI bình quân 7 tháng tăng 4,39%; riêng tháng 7 giảm 0,1% so với tháng trước. Mức này vẫn trong mục tiêu cả năm.
+
+**Lạm phát như vậy thì gửi tiết kiệm còn lời không?** Lãi gửi cao hơn 4,39% thì còn lời thực; thấp hơn thì sức mua giảm.
+
+**Kinh tế tốt có nghĩa là chứng khoán tăng không?** Không bảo đảm. Giá cổ phiếu còn phụ thuộc nhiều yếu tố khác, cần đánh giá từng doanh nghiệp.
+
+**FDI tăng có lợi gì cho người dân?** FDI tạo ra nhà máy, việc làm và thu nhập, góp phần ổn định kinh tế vĩ mô, qua đó gián tiếp bảo vệ giá trị đồng tiền và mở thêm cơ hội nghề nghiệp.
 
 ## Thuật ngữ
 

@@ -48,55 +48,85 @@
 2. Những yếu tố nào khiến vàng tăng nóng và vì sao đà tăng này mong manh?
 3. Người muốn mua vàng lúc giá lập đỉnh nên cân nhắc những gì?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Giá mua vào, giá bán ra và chênh lệch mua - bán.** Giá bán ra là giá tiệm vàng bán cho khách, giá mua vào là giá tiệm mua lại. Sáng 25/8/2026, vàng miếng SJC phổ biến ở mức 147 triệu (mua vào) – 150 triệu (bán ra) đồng/lượng, nên khoảng chênh là 3 triệu; nhiều nơi chênh 3–3,5 triệu. Khoảng chênh này là chi phí thật mà người mua trả ngay khi giao dịch, và là lý do bài khẳng định vàng không phải kênh "lướt" ngắn ngày.
+
+**Lập đỉnh.** Giá đạt mức cao nhất trong một khoảng thời gian. Bài viết dùng chữ "lập đỉnh mới" cho mức SJC 150 triệu, nhưng đó là đỉnh ngắn hạn: chính bài nói vàng thế giới chỉ ở "vùng cao nhất kể từ giữa tháng 5". Hiểu đúng phạm vi của chữ "đỉnh" giúp người đọc không bị cuốn theo cảm giác giá "chưa từng thấy".
+
+**Chi phí cơ hội của việc giữ vàng.** Vàng không sinh lãi, nên giữ vàng là bỏ lỡ tiền lãi mà số tiền đó có thể kiếm được ở kênh khác. Ví dụ minh hoạ: giữ 150 triệu bằng vàng trong một năm khi lãi tiền gửi 5%/năm là bỏ lỡ 7,5 triệu; nếu lãi suất xuống 3%/năm thì chỉ bỏ lỡ 4,5 triệu. Khi thị trường kỳ vọng lãi suất Mỹ giảm, chi phí này giảm và vàng hấp dẫn hơn; đây là yếu tố thứ nhất đẩy giá vàng lên trong bài.
+
+**USD suy yếu và giá vàng.** Vàng thế giới được định giá bằng đô la Mỹ. Khi USD yếu đi so với các đồng tiền khác, người cầm đồng tiền khác thấy vàng rẻ hơn và mua nhiều hơn, nên giá vàng tính bằng USD thường tăng. Ví dụ minh hoạ: nếu USD mất giá 2% so với euro mà giá vàng tính bằng USD không đổi, người châu Âu mua vàng rẻ hơn khoảng 2%, nhu cầu tăng và đẩy giá USD của vàng lên. Đây là yếu tố thứ hai trong bài.
+
+**Quỹ ETF vàng.** Quỹ hoán đổi danh mục (*exchange-traded fund*) nắm giữ vàng thật và bán chứng chỉ quỹ trên sàn chứng khoán, để nhà đầu tư sở hữu vàng gián tiếp. Khi tiền đổ vào các quỹ này, quỹ phải mua thêm vàng, làm tăng cầu. Đây là yếu tố thứ ba nâng đỡ giá vàng cuối tháng 8.
+
+**Chỉ số PCE và hội nghị Jackson Hole.** PCE (*personal consumption expenditures*) là chỉ số giá chi tiêu tiêu dùng cá nhân của Mỹ, thước đo lạm phát mà Fed theo dõi sát. Jackson Hole là hội nghị thường niên của giới ngân hàng trung ương, nơi Chủ tịch Fed thường phát tín hiệu về chính sách. Bài coi hai sự kiện này là phép thử: nếu tín hiệu không ủng hộ việc hạ lãi suất, kỳ vọng đang nâng giá vàng có thể đảo chiều nhanh.
+
+**Quỹ dự phòng khẩn cấp.** Khoản tiền để riêng cho các việc bất ngờ như ốm đau, mất việc, thường giữ ở dạng rút được ngay. Ví dụ minh hoạ: người chi tiêu 15 triệu mỗi tháng giữ quỹ dự phòng 90 triệu (sáu tháng). Bài cảnh báo không dồn khoản này vào vàng ở đỉnh, vì nếu cần tiền gấp đúng lúc giá vừa giảm, người giữ vàng buộc phải bán lỗ.
+
+## Nội dung chi tiết
 
 ### 1. Câu chuyện cô Lan
-- Cô Lan, giáo viên về hưu ở Hà Nội, mấy hôm nay mở điện thoại là thấy tin vàng phá đỉnh; hàng xóm rủ "mua nhanh không mai lại tăng".
-- Cô quen tích vàng để dành nhiều năm, nhưng giá cao chưa từng thấy khiến cô phân vân: mua lúc này có khôn ngoan?
-- Đây cũng là băn khoăn của rất nhiều người Việt trong tuần.
+
+Cô Lan là một giáo viên về hưu ở Hà Nội (nhân vật minh hoạ của bài). Mấy hôm nay, mở điện thoại lên là cô thấy tin vàng phá đỉnh, còn hàng xóm thì rủ "mua nhanh không mai lại tăng". Cô vốn quen tích vàng để dành từ nhiều năm, nhưng mức giá cao chưa từng thấy khiến cô phân vân không biết mua lúc này có khôn ngoan hay không.
+
+Bài cho rằng băn khoăn này cũng là băn khoăn của rất nhiều người Việt trong tuần. Câu chuyện đặt ra vấn đề trung tâm của bài: khi giá tăng nóng và đám đông hối thúc, người tích luỹ nên phân biệt giữa mua có kế hoạch và mua vì sợ lỡ cơ hội.
 
 ### 2. Giá vàng sáng 25/8/2026
 
 | Loại | Giá |
 |---|---|
-| Vàng miếng SJC phổ biến | 147 (mua) – 150 (bán) triệu đồng/lượng |
+| Vàng miếng SJC phổ biến | 147 (mua vào) – 150 (bán ra) triệu đồng/lượng |
 | Vàng nhẫn 9999 nhiều thương hiệu | quanh 147 – 150 triệu đồng/lượng |
 | Vàng nhẫn DOJI | 151,5 – 153 triệu đồng/lượng |
 | Thay đổi so với sáng hôm trước | tăng khoảng 2,4 – 3 triệu đồng/lượng |
-| Vàng thế giới | 4.660 – 4.690 USD/ounce, cao nhất từ giữa tháng 5 |
-| Chênh lệch mua - bán nhiều nơi | 3 – 3,5 triệu đồng/lượng |
+| Vàng thế giới | 4.660 – 4.690 USD/ounce, cao nhất kể từ giữa tháng 5 |
+| Chênh lệch mua - bán ở nhiều nơi | 3 – 3,5 triệu đồng/lượng |
 
-- Nguồn bài nêu: Thanh Niên, Báo Quốc Tế, Doanh nghiệp & Hội nhập và các bản tin giá vàng ngày 25/8/2026; giá thay đổi liên tục trong ngày.
-- Nếu giữ được đà này, tháng 8/2026 có thể là một trong những tháng tăng mạnh nhất từng ghi nhận của vàng; "không còn là nhịp tăng nhẹ mà là một con sóng lớn".
+Bài dẫn số liệu từ các báo Thanh Niên, Báo Quốc Tế, Doanh nghiệp & Hội nhập và các bản tin giá vàng ngày 25/8/2026, đồng thời lưu ý giá thay đổi liên tục trong ngày. Bản in của bài bị mất dấu gạch nối giữa các khoảng giá (ví dụ "147 150 triệu"); các khoảng trên được hiểu là giá mua vào – bán ra hoặc khoảng dao động.
+
+Theo bài, nếu giữ được đà này, tháng 8/2026 có thể là một trong những tháng tăng mạnh nhất từng ghi nhận của vàng: "không còn là nhịp tăng nhẹ mà là một con sóng lớn". Cần đặt chữ "đỉnh" vào đúng phạm vi: các bài cùng chuyên mục ghi nhận SJC từng niêm yết 186,6–189,6 triệu đồng/lượng ngày 29/1/2026, cao hơn mức 150 triệu hiện nay khoảng 26%. Mức 150 triệu là đỉnh của mấy tháng gần đây, không phải đỉnh lịch sử.
 
 ### 3. Vì sao vàng tăng nóng
-- Giá trong nước tăng chủ yếu vì vàng thế giới tăng; vàng thế giới được nâng đỡ bởi:
-  - Kỳ vọng chính sách lãi suất Mỹ: thị trường dự đoán lãi suất có thể hạ hoặc nới lỏng, vàng hưởng lợi vì chi phí cơ hội của việc giữ vàng (không sinh lãi) giảm.
-  - USD suy yếu: vàng định giá bằng USD, USD yếu thì vàng thường tăng.
-  - Dòng tiền vào các quỹ vàng (ETF) và nhu cầu trú ẩn khi nhà đầu tư lo ngại rủi ro.
-- Tâm điểm tuần: số liệu lạm phát PCE của Mỹ và bài phát biểu của Chủ tịch Fed tại hội nghị Jackson Hole vào thứ Sáu; có thể quyết định vàng tiếp tục lên hay điều chỉnh.
-- Đà tăng hiện tại phụ thuộc nhiều vào kỳ vọng, thứ có thể đảo chiều nhanh.
+
+Bài nói rõ giá trong nước tăng chủ yếu vì vàng thế giới tăng. Vàng thế giới được nâng đỡ bởi ba yếu tố:
+
+1. **Kỳ vọng về chính sách lãi suất Mỹ.** Thị trường dự đoán lãi suất Mỹ có thể được hạ hoặc nới lỏng. Vàng không sinh lãi, nên khi lãi suất dự kiến giảm thì chi phí cơ hội của việc giữ vàng giảm, và vàng hưởng lợi.
+2. **USD suy yếu.** Vàng được định giá bằng USD; khi USD yếu, giá vàng thường tăng.
+3. **Dòng tiền vào các quỹ vàng (ETF) và nhu cầu trú ẩn** khi nhà đầu tư lo ngại rủi ro.
+
+Ba yếu tố này đưa vàng thế giới lên 4.660 – 4.690 USD/ounce, và kéo theo giá SJC 147 – 150 triệu, nhẫn 9999 khoảng 147 – 150 triệu, DOJI 151,5 – 153 triệu, tăng 2,4 – 3 triệu so với sáng hôm trước.
+
+Điểm then chốt mà bài nhấn mạnh là đà tăng này phụ thuộc nhiều vào **kỳ vọng**, thứ có thể đảo chiều nhanh. Tâm điểm của tuần là số liệu lạm phát PCE của Mỹ và bài phát biểu của Chủ tịch Fed tại hội nghị Jackson Hole vào thứ Sáu. Hai sự kiện này có thể quyết định vàng tiếp tục lên hay điều chỉnh: nếu lạm phát cao hơn dự kiến hoặc Chủ tịch Fed không phát tín hiệu hạ lãi suất, lý do số một của đợt tăng sẽ yếu đi.
 
 ### 4. Góc nhìn WikiMoney: đừng để cơn sốt cuốn đi
-- WikiMoney không khuyên mua hay bán, nhưng ở thời điểm giá lập đỉnh và tâm lý đám đông nóng, có vài sự thật cần dừng lại suy nghĩ.
-- Ba điều cần nhớ:
-  - Mua đỉnh là rủi ro có thật: chỉ hơn một tháng trước vàng từng có những nhịp giảm mạnh khiến người mua giá cao lỗ ngay; giá cao kỷ lục không đảm bảo ngày mai còn cao hơn.
-  - Chênh lệch mua - bán 3 – 3,5 triệu đồng/lượng là chi phí thật: mua hôm nay rồi bán ngay là lỗ khoản này, chưa tính biến động; vàng không phải kênh "lướt" ngắn ngày.
-  - Đừng dồn quỹ dự phòng khẩn cấp hay tiền sắp cần dùng vào vàng ở đỉnh: khi cần tiền gấp mà giá vừa giảm, bạn buộc phải bán lỗ.
-- Với người xem vàng là kênh tích lũy dài hạn như cô Lan, vàng vẫn có vai trò giữ tài sản qua thời gian; nhưng "tích lũy dài hạn" khác hoàn toàn "mua gấp vì sợ lỡ".
-- Muốn có vàng trong danh mục: mua dần đều đặn từng ít một qua nhiều thời điểm để tránh dồn hết tiền vào đúng đỉnh; vàng chỉ là một phần tổng tài sản.
+
+WikiMoney không khuyên mua hay bán. Nhưng ở thời điểm giá lập đỉnh và tâm lý đám đông đang nóng, bài cho rằng có vài sự thật cần dừng lại suy nghĩ. Bài nêu ba điều cần nhớ trước khi mua:
+
+1. **Mua đỉnh là rủi ro có thật.** Chỉ hơn một tháng trước, vàng từng có những nhịp giảm mạnh khiến người mua giá cao lỗ ngay. Giá đang cao kỷ lục không bảo đảm ngày mai sẽ còn cao hơn.
+2. **Chênh lệch mua - bán 3 – 3,5 triệu đồng/lượng là chi phí thật.** Mua hôm nay rồi bán ngay là lỗ đúng khoản này, chưa tính biến động giá. Vì vậy vàng không phải kênh "lướt" ngắn ngày.
+3. **Đừng dồn quỹ dự phòng khẩn cấp hay tiền sắp cần dùng vào vàng ở đỉnh.** Nếu cần tiền gấp đúng lúc giá vừa giảm, bạn buộc phải bán lỗ.
+
+Với người xem vàng là kênh tích luỹ dài hạn như cô Lan, bài thừa nhận vàng vẫn có vai trò giữ tài sản qua thời gian. Nhưng "tích luỹ dài hạn" khác hoàn toàn với "mua gấp vì sợ lỡ". Người muốn có vàng trong danh mục nên mua dần, đều đặn, từng ít một qua nhiều thời điểm để không dồn hết tiền vào đúng đỉnh, và vàng chỉ nên là một phần trong tổng tài sản.
 
 ### 5. Nguyên tắc giữ đầu lạnh với vàng
-- Xác định mục đích: tích lũy dài hạn hay lướt sóng; nếu lướt sóng, chênh lệch mua - bán đang bào mòn lợi nhuận.
-- Chỉ dùng tiền nhàn rỗi, giữ nguyên quỹ dự phòng khẩn cấp ở dạng dễ rút.
-- Muốn tích lũy thì chia nhỏ nhiều lần thay vì mua một lần ở vùng giá cao.
-- Giữ vàng ở tỷ trọng hợp lý trong tổng tài sản, đừng để cảm xúc đám đông quyết định thay.
+
+Bài tóm lại bằng bốn nguyên tắc:
+
+- **Xác định mục đích.** Mua để tích luỹ dài hạn hay để lướt sóng? Nếu lướt sóng, chênh lệch mua - bán 3 – 3,5 triệu mỗi lượng đang bào mòn lợi nhuận ngay từ đầu.
+- **Chỉ dùng tiền nhàn rỗi.** Giữ nguyên quỹ dự phòng khẩn cấp ở dạng dễ rút.
+- **Chia nhỏ nhiều lần mua** thay vì mua một lần ở vùng giá cao.
+- **Giữ vàng ở tỷ trọng hợp lý trong tổng tài sản**, không để cảm xúc của đám đông quyết định thay mình.
 
 ### 6. Câu hỏi thường gặp
-- Giá đang đỉnh có nên mua? Không ai chắc giá ngày mai; WikiMoney không khuyến nghị. Tích lũy dài hạn thì mua dần; lướt sóng thì rủi ro mua đỉnh và chênh lệch mua - bán rất đáng cân nhắc.
-- Vì sao mua xong bán ngay lại lỗ? Giá mua vào luôn thấp hơn giá bán ra, hiện chênh khoảng 3 – 3,5 triệu đồng/lượng.
-- Nên mua vàng miếng SJC hay vàng nhẫn? Mỗi loại có đặc điểm và mức chênh lệch khác nhau, tùy mục đích tích trữ (bài trỏ sang bài phân tích riêng); điều chung là để ý chênh lệch mua - bán và mua ở nơi uy tín.
-- Có nên để toàn bộ tiền tiết kiệm vào vàng? Không; đa dạng hóa và giữ quỹ dự phòng ở dạng dễ rút là nguyên tắc an toàn cơ bản.
+
+**Giá đang ở đỉnh có nên mua?** Không ai chắc giá ngày mai, và WikiMoney không khuyến nghị. Nếu tích luỹ dài hạn thì mua dần; nếu lướt sóng thì rủi ro mua đỉnh và chênh lệch mua - bán rất đáng cân nhắc.
+
+**Vì sao mua xong bán ngay lại lỗ?** Vì giá mua vào luôn thấp hơn giá bán ra; hiện chênh khoảng 3 – 3,5 triệu đồng/lượng.
+
+**Nên mua vàng miếng SJC hay vàng nhẫn?** Mỗi loại có đặc điểm và mức chênh lệch mua - bán khác nhau, nên lựa chọn tùy mục đích tích trữ. Điểm chung là luôn để ý chênh lệch mua - bán và mua ở nơi uy tín.
+
+**Có nên để toàn bộ tiền tiết kiệm vào vàng?** Không. Đa dạng hoá và giữ quỹ dự phòng ở dạng dễ rút là nguyên tắc an toàn cơ bản.
 
 ## Thuật ngữ
 
