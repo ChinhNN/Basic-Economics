@@ -268,52 +268,206 @@
 2. Bất bình đẳng ảnh hưởng thế nào tới mức nợ nước ngoài bền vững, và độ lớn định lượng ra sao?
 3. Khi có động cơ tái phân phối, chính sách thắt lưng buộc bụng tối ưu sau một cú sốc xấu nên nhanh hay chậm?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Cam kết hạn chế và ràng buộc bền vững (limited commitment, sustainability constraint).** Không có toà án nào buộc được một chính phủ trả nợ nước ngoài. Chính phủ trả nợ chỉ khi trả nợ có lợi hơn vỡ nợ. Ràng buộc bền vững viết điều đó thành công thức: ở mọi thời điểm, phúc lợi của người dân khi tiếp tục trả nợ phải không thấp hơn phúc lợi khi vỡ nợ. Ví dụ minh hoạ: nếu tiếp tục trả nợ đem lại cho cả nước một mức phúc lợi tương đương 100, còn vỡ nợ đem lại 95, chính phủ sẽ trả; nếu nợ lớn tới mức trả nợ chỉ còn đem lại 94, chính phủ sẽ vỡ nợ. Ràng buộc này tạo ra một giới hạn nợ: mức nợ cao nhất mà chính phủ vẫn muốn trả.
+
+**Tự cung tài chính (financial autarky).** Trạng thái một nền kinh tế bị cắt khỏi mọi thị trường tài chính: không vay được, không cho vay được, không mua được tài sản nước ngoài. Trong bài, đây là hậu quả của vỡ nợ: mọi khoản nợ công và tư bị xoá và nền kinh tế rơi vào tự cung tài chính vĩnh viễn. Ví dụ minh hoạ: một nước tự cung tài chính bị mất mùa thì không thể vay để giữ mức tiêu dùng, phải cắt ngay. Tự cung càng tệ thì vỡ nợ càng đắt, và mức nợ mà chính phủ sẵn sàng trả càng cao.
+
+**Chi phí vỡ nợ ngoại sinh và nội sinh.** Các mô hình vỡ nợ thông thường giả định sẵn một chi phí vỡ nợ, ví dụ "vỡ nợ làm mất 5% sản lượng", rồi chỉnh con số đó cho khớp dữ liệu; đó là chi phí ngoại sinh. Bài này không giả định gì như vậy. Chi phí vỡ nợ được suy ra từ bên trong mô hình (nội sinh): vỡ nợ làm mất một công cụ chính sách, nên tái phân phối trở nên đắt hơn. Đây là đóng góp lý thuyết chính của bài.
+
+**Thuế gây méo và chi phí tái phân phối (distortionary tax, cost of redistribution).** Một khoản thuế gây méo khi nó làm người ta thay đổi hành vi theo hướng làm nền kinh tế kém hiệu quả. Thuế thu nhập lao động là ví dụ: thuế càng cao, người ta càng ít muốn làm thêm. Ví dụ minh hoạ: với thuế suất 50%, một giờ làm thêm được trả 20 euro chỉ còn 10 euro, nên nhiều người chọn nghỉ. Khi chính phủ muốn lấy của người kỹ năng cao chia cho người kỹ năng thấp mà chỉ có thuế lao động, tổng sản lượng giảm; phần mất mát đó là chi phí tái phân phối.
+
+**Méo lao động tổng (aggregate labor distortion, Ω).** Khoảng chênh giữa giá trị mà một giờ lao động thêm tạo ra (năng suất biên) và giá trị mà người lao động cảm nhận khi đánh đổi nghỉ ngơi lấy tiêu dùng. Công thức trong bài là Ω = 1 + (1/F_L)·(U_L/U_C). Nếu Ω = 0, nền kinh tế không bị méo; nếu Ω > 0, người ta làm ít hơn mức hiệu quả. Ví dụ minh hoạ: một giờ làm thêm tạo ra 20 euro sản phẩm nhưng người lao động chỉ giữ được 15 euro sau thuế, nên họ không làm giờ đó dù xã hội được lợi. Định lý chính của bài nói: nếu Ω > 0 ở trạng thái tự cung, thì nợ nước ngoài tối ưu là dương.
+
+**Thiếu kiên nhẫn (impatience, βR* < 1).** β là mức người dân quý tương lai so với hiện tại; R* là một cộng lãi suất thế giới. Nếu βR* < 1, người dân muốn tiêu nhiều hơn bây giờ và vay để trả sau. Ví dụ trong bài: hệ số chiết khấu β = 0,967 và lãi suất thực thế giới r* = 0,017, nên βR* = 0,967 × 1,017 ≈ 0,983, nhỏ hơn 1. Đây là lý do nền kinh tế muốn vay nước ngoài ngay từ đầu.
+
+**Ngoại ứng vay quá mức và thuế vay nợ (overborrowing externality, borrowing tax).** Mỗi người dân khi vay nước ngoài chỉ nghĩ tới lợi ích của mình, không tính tới việc tổng nợ nước ngoài lớn hơn làm cả nước gần giới hạn nợ hơn. Đó là một ngoại ứng, giống như mỗi xe thêm vào đường làm tắc đường cho mọi người. Chính phủ sửa ngoại ứng bằng một khoản thuế đánh vào việc vay. Ví dụ trong bài: thuế vay nợ khoảng 0,018 ngay từ kỳ 1. Điểm mấu chốt: vì người kỹ năng cao vay nhiều hơn, thuế này cũng là một công cụ tái phân phối.
+
+**Hệ số Gini.** Thước đo bất bình đẳng từ 0 (mọi người như nhau) tới 100% hoặc 1 (một người nắm tất cả). Gini trước thuế đo bất bình đẳng của thu nhập thị trường, trước khi nhà nước đánh thuế và chuyển giao. Ví dụ trong bài: ở các nước có nợ nước ngoài ròng, Gini trước thuế bình quân tăng từ khoảng 46% năm 1985 lên khoảng 49,5% năm 2015. Bài dùng Gini để kiểm tra dự báo rằng bất bình đẳng cao đi kèm nợ nước ngoài cao.
+
+## Nội dung chi tiết
 
 ### 1. Động cơ
 
-- Khủng hoảng nợ đặt ra câu hỏi về thiết kế tài khoá khi suy thoái: sản lượng giảm và nợ nước ngoài tích tụ cho tới khi bị giới hạn bởi năng lực trả nợ. Thắt lưng buộc bụng mở rộng năng lực trả nợ, nhưng áp gánh nặng không đều lên các nhóm dân cư.
-- Chính phủ vì vậy đối mặt đánh đổi giữa bền vững nợ và tái phân phối. Đánh đổi này ngày càng nổi bật khi bất bình đẳng và nợ nước ngoài cùng tăng ở nhiều nước.
+**Câu hỏi.** Khủng hoảng nợ đặt ra câu hỏi về thiết kế chính sách tài khoá khi suy thoái: sản lượng giảm, và nợ nước ngoài tích tụ cho tới khi bị giới hạn bởi năng lực trả nợ. Thắt lưng buộc bụng mở rộng năng lực trả nợ, nhưng áp gánh nặng không đều lên các nhóm dân cư. Chính phủ vì vậy phải đánh đổi giữa bền vững nợ và tái phân phối.
+
+**Hiện tượng mở đầu.** Đánh đổi này ngày càng nổi bật vì bất bình đẳng và nợ nước ngoài cùng tăng ở nhiều nước. Ở nhóm các nước có nợ nước ngoài ròng, giai đoạn 1985–2015 (bình quân gia quyền theo GDP, ước đọc từ biểu đồ):
+
+| Chỉ tiêu | Năm 1985 | Năm 2015 |
+|---|---|---|
+| Nợ nước ngoài ròng (% GDP) | khoảng 13 | khoảng 35 |
+| Gini trước thuế (%) | khoảng 46 | khoảng 49,5 |
+
+Bài đặt hai câu hỏi: động cơ tái phân phối ảnh hưởng thế nào tới việc chính phủ có muốn duy trì nợ nước ngoài hay không; và bất bình đẳng định hình chính sách thắt lưng buộc bụng tối ưu ra sao.
 
 ### 2. Ba đóng góp
 
-- Thứ nhất, một lý thuyết về bền vững nợ nước ngoài dựa trên động cơ tái phân phối, trong đó tái phân phối tốn kém tạo ra chi phí nội sinh của vỡ nợ.
-- Thứ hai, định lượng chi phí này cho Ý như một ví dụ minh hoạ. Ý chưa từng vỡ nợ, nhưng khủng hoảng nợ châu Âu cho thấy căng thẳng nợ định hình ràng buộc tài khoá. Cơ chế này áp dụng cho nhiều nước, kể cả thị trường mới nổi.
-- Thứ ba, thiết kế thắt lưng buộc bụng khi có bất bình đẳng: điều chỉnh tối ưu diễn ra từ từ, ban đầu vay thêm và tái phân phối nhiều hơn, sau đó mới củng cố ngân sách.
+**Thứ nhất, một lý thuyết mới về bền vững nợ nước ngoài** dựa trên động cơ tái phân phối. Trong lý thuyết này, việc tái phân phối là tốn kém, và chính cái tốn kém đó tạo ra một chi phí nội sinh của vỡ nợ.
+
+**Thứ hai, định lượng chi phí này cho Ý** như một ví dụ minh hoạ. Ý chưa từng vỡ nợ, nhưng khủng hoảng nợ châu Âu cho thấy căng thẳng nợ định hình các ràng buộc tài khoá của nước này. Cơ chế của bài áp dụng được cho nhiều nước, kể cả thị trường mới nổi.
+
+**Thứ ba, thiết kế thắt lưng buộc bụng khi có bất bình đẳng.** Điều chỉnh tối ưu diễn ra từ từ: ban đầu chính phủ vay thêm và tái phân phối nhiều hơn, sau đó mới củng cố ngân sách.
 
 ### 3. Vị trí trong tài liệu
 
-- Nhánh nợ chính phủ với cam kết hạn chế nhấn mạnh ràng buộc vay tự thực thi và vai trò của rủi ro vỡ nợ. Bài đưa bất đồng nhất và động cơ tái phân phối vào khung này. Bài gần với Tran-Xuan (2023), công trình cho thấy tái phân phối sớm là tối ưu khi có ràng buộc nợ.
-- Nhánh liên kết bất bình đẳng với rủi ro vỡ nợ chỉ ra ảnh hưởng tới phần bù rủi ro, động thái nợ và phản ứng tài khoá. Bài bổ sung một nguồn chi phí vỡ nợ mới, bên cạnh mất hiệu quả sản xuất (Mendoza và Yue) hay thất nghiệp (Balke). Khác với Dovis và cộng sự, vốn tập trung vào chu kỳ nợ, bài nghiên cứu mức nợ bền vững tổng thể.
-- Nhánh tài chính công về tái phân phối: Werning (2007) cho thấy nợ dùng để làm mượt chi phí tái phân phối theo thời gian; Bhandari và cộng sự nhấn mạnh nợ chính phủ như tài sản an toàn. Bài này tập trung vào việc nợ nước ngoài làm giảm tổng chi phí tái phân phối.
+**Nhánh nợ chính phủ với cam kết hạn chế** nhấn mạnh ràng buộc vay tự thực thi (chính phủ chỉ vay tới mức mà nó còn muốn trả) và vai trò của rủi ro vỡ nợ. Bài đưa bất đồng nhất giữa người dân và động cơ tái phân phối vào khung này. Bài gần với Tran-Xuan (2023), công trình cho thấy tái phân phối sớm là tối ưu khi có ràng buộc nợ.
+
+**Nhánh liên kết bất bình đẳng với rủi ro vỡ nợ** chỉ ra ảnh hưởng của bất bình đẳng tới phần bù rủi ro, động thái nợ và phản ứng tài khoá. Bài bổ sung một nguồn chi phí vỡ nợ mới, bên cạnh các nguồn đã biết như mất hiệu quả sản xuất (Mendoza và Yue) hay thất nghiệp (Balke). Khác với Dovis và cộng sự, vốn tập trung vào chu kỳ nợ, bài này nghiên cứu mức nợ bền vững tổng thể.
+
+**Nhánh tài chính công về tái phân phối.** Werning (2007) cho thấy nợ được dùng để làm mượt chi phí tái phân phối theo thời gian; Bhandari và cộng sự nhấn mạnh nợ chính phủ như một tài sản an toàn. Bài này tập trung vào việc nợ nước ngoài làm giảm tổng chi phí tái phân phối.
 
 ### 4. Mô hình và cân bằng
 
-- Nền kinh tế mở nhỏ với các tác nhân khác nhau về năng suất, một doanh nghiệp đại diện với lợi suất không đổi theo quy mô, và chính phủ nhân từ có chi tiêu ngoại sinh.
-- Không chênh lệch lãi suất giữa trái phiếu trong nước và nước ngoài. Cân bằng cạnh tranh được đặc trưng bằng phân bổ tổng và một phân phối cố định của tỷ phần thoả dụng biên, cùng ràng buộc tài nguyên và ràng buộc thực thi cho từng người.
-- Có hai nguồn bất nhất thời gian: động cơ vỡ nợ để tăng tiêu dùng và nghỉ ngơi, và động cơ tước đoạt tài sản để tái phân phối. Chính sách nợ bền vững là chính sách tối ưu ban đầu và nhất quán theo thời gian.
+**Nền kinh tế.** Một nền kinh tế mở nhỏ (không ảnh hưởng được lãi suất thế giới), gồm một continuum (vô số) tác nhân sống vô hạn, khác nhau về năng suất lao động θⁱ, và năng suất này quan sát được. Có một doanh nghiệp đại diện với lợi suất không đổi theo quy mô, và một chính phủ nhân từ có chi tiêu ngoại sinh. Lãi suất của trái phiếu trong nước và nước ngoài như nhau.
+
+**Công cụ của chính phủ** (áp dụng đồng nhất cho mọi người):
+
+| Ký hiệu | Công cụ |
+|---|---|
+| τⁿ | thuế biên đánh vào thu nhập lao động; gây méo, và quyết định mức luỹ tiến của hệ thống thuế tuyến tính |
+| τᵃ | thuế trên lợi tức tiết kiệm; khi lấy dấu âm (−τᵃ) thì đây là thuế vay nợ |
+| T | thuế khoán, như nhau cho mọi người |
+| nợ | nợ trong nước và nợ nước ngoài |
+
+Hệ thống thuế tuyến tính cộng phần khoán có tính luỹ tiến theo nghĩa: nếu T là một khoản chuyển giao đều cho mọi người, thì người thu nhập thấp nhận được nhiều hơn so với phần thuế mình đóng.
+
+**Đặc trưng cân bằng (theo Werning 2007).** Tồn tại một bộ trọng số thị trường φⁱ (trọng số Negishi) sao cho phân bổ của từng cá nhân tỉ lệ với phân bổ tổng: tiêu dùng cⁱ = ψᶜⁱ·C và lao động lⁱ = ψˡⁱ·L. Nhờ vậy bài toán thu gọn về hai biến tổng là tiêu dùng C và lao động L, với phân phối φ không đổi theo thời gian. Cân bằng cạnh tranh được đặc trưng bằng phân bổ tổng, phân phối cố định của tỷ phần thoả dụng biên, cùng ràng buộc tài nguyên và ràng buộc thực thi cho từng người (tính tới cách người dân phản ứng với thuế).
+
+**Thiếu cam kết dẫn tới ràng buộc bền vững.** Ở mọi thời điểm t, tổng phúc lợi theo trọng số của chính phủ khi tiếp tục tuân thủ, tức tổng theo các nhóm của λⁱπⁱ nhân với giá trị chiết khấu của thoả dụng tương lai, phải không thấp hơn Uₜ. Trong đó λⁱ là trọng số phúc lợi mà chính phủ gán cho nhóm i, và Uₜ là giá trị khi lệch: vỡ nợ, xoá mọi nợ công và nợ tư, rồi rơi vào tự cung tài chính vĩnh viễn. Đây là hình phạt tệ nhất, theo cách của Chari và Kehoe (1990, 1993). Ràng buộc này tạo ra một giới hạn nợ nội sinh. Lưu ý: bài đặc trưng mức nợ tối đa trong một cân bằng mà vỡ nợ không bao giờ xảy ra; bài chưa mô hình hoá trường hợp vỡ nợ thực sự xảy ra trong cân bằng.
+
+**Hai nguồn bất nhất thời gian.** Chính phủ có hai cám dỗ đi ngược lời hứa: vỡ nợ để tăng tiêu dùng và nghỉ ngơi ngay, và tước đoạt tài sản đã tích luỹ để tái phân phối. Chính sách nợ bền vững được định nghĩa là chính sách vừa tối ưu khi nhìn từ đầu, vừa nhất quán theo thời gian (chính phủ không muốn đổi ý về sau).
 
 ### 5. Kết quả lý thuyết
 
-- Với thiếu kiên nhẫn, chính phủ đẩy tiêu dùng lên trước bằng cách tích luỹ nợ, và ràng buộc bền vững chặt vô hạn lần về dài hạn.
-- Nếu tự cung có méo lao động dương, tự cung không bao giờ tối ưu, nên nợ dài hạn tối ưu là dương.
-- Với sở thích đẳng co giãn, méo lao động dương ở tự cung khi chính phủ ưu tiên người kỹ năng thấp, kỹ năng và của cải tương quan, và σ ≥ 1. Nếu không có bất đồng nhất, hoặc chính phủ đồng ý với phân phối thị trường, thì không có méo, và nợ bền vững bằng không.
+**Ba giả định cơ bản:**
+
+1. Hàm thoả dụng tách được dạng u(c) − v(n): đơn điệu, lõm, và thoả dụng biên bị chặn.
+2. Thiếu kiên nhẫn: βR* < 1 về dài hạn, nên nền kinh tế muốn vay nước ngoài.
+3. Lệch có nghĩa là rơi vào tự cung tài chính.
+
+**Định lý chính (Mệnh đề 2.1).** Gọi méo lao động tổng là Ω = 1 + (1/F_L)·(U_L/U_C). Nếu Ω > 0 ở trạng thái tự cung, và tồn tại trạng thái dừng, thì nợ nước ngoài tối ưu trong dài hạn là dương.
+
+**Chứng minh theo ba bước:**
+
+1. Ràng buộc bền vững chặt vô hạn lần trong dài hạn. Lý do: vì thiếu kiên nhẫn, chính phủ muốn đẩy tiêu dùng và nghỉ ngơi lên trước bằng cách tích luỹ nợ, nên liên tục chạm giới hạn.
+2. Phân bổ hội tụ về mức nợ trạng thái dừng tối đa hoá năng lực trả nợ.
+3. Tự cung không bao giờ là tối ưu. Nếu Ω > 0, chính phủ có thể vay thêm hôm nay, giảm méo lao động ở kỳ sau, và nhờ người dân làm việc nhiều hơn mà sản xuất dư ra để trả nợ. Kết quả là phúc lợi cao hơn tự cung, nên nợ dương là tốt hơn.
+
+**Khi nào có méo lao động ở tự cung.** Với sở thích đẳng co giãn tách được, u = c^(1−σ)/(1−σ) − ω(l/θ)^(1+ν)/(1+ν), Giả định 4 gồm ba điều kiện:
+
+1. Chính phủ ưu tiên người kỹ năng thấp: năng suất θⁱ thấp hơn θʲ khi và chỉ khi trọng số phúc lợi λⁱ lớn hơn λʲ.
+2. Kỹ năng và của cải ban đầu tương quan hoàn hảo: người kỹ năng cao cũng là người giàu hơn.
+3. σ ≥ 1.
+
+Mệnh đề 3.1: khi ba điều kiện này thoả mãn, méo lao động tổng ở tự cung Ω > 0, nên theo định lý chính, nợ nước ngoài tối ưu là dương.
+
+**Chìa khoá là tỷ số λⁱ/φⁱ**, tức mức lệch giữa phân phối mà chính phủ mong muốn (trọng số λ) và phân phối do thị trường tạo ra (trọng số φ). Mệnh đề 3.2: Ω = 0 nếu không có bất đồng nhất (mọi người như nhau), hoặc nếu λⁱ = φⁱ (chính phủ hài lòng với phân phối thị trường). Khi đó tái phân phối không tốn kém, tiếp cận thị trường quốc tế không đem lại lợi ích thêm, và nợ bền vững bằng không.
+
+**Cơ chế: chi phí tái phân phối là chi phí vỡ nợ.** So sánh cân bằng với tự cung (ước đọc từ biểu đồ):
+
+| Biến | Tự cung | Cân bằng |
+|---|---|---|
+| Thuế lao động τⁿ | khoảng 0,235, không đổi | từ khoảng 0,24 giảm dần, còn khoảng 0,12 sau 50 kỳ |
+| Thuế vay nợ −τᵃ | 0 | khoảng 0,018 ngay từ kỳ 1 |
+| Nợ tư nhân | 0 | tăng; người kỹ năng cao nợ nhiều hơn |
+| Nợ nước ngoài | 0 | tăng tới khoảng 0,18 |
+
+Chuỗi nhân quả như sau:
+
+1. Người dân thiếu kiên nhẫn vay nước ngoài, mà không tính tới việc khoản vay làm chặt ràng buộc bền vững của cả nước.
+2. Đó là một ngoại ứng vay quá mức, nên chính phủ đặt một khoản thuế vay nợ tối ưu.
+3. Người kỹ năng cao nợ nhiều hơn nên gánh phần lớn thuế này. Thuế vay nợ vì vậy trở thành một công cụ tái phân phối bổ sung.
+4. Có thêm công cụ này, chính phủ hạ được thuế lao động; người dân làm việc nhiều hơn, năng lực trả nợ tăng.
+5. Vỡ nợ đồng nghĩa với mất công cụ này và quay về thuế lao động cao.
+
+Vì vậy chi phí nội sinh của vỡ nợ chính là khoảng cách thuế lao động giữa cân bằng và tự cung. Bất bình đẳng hay động cơ tái phân phối càng cao thì thuế lao động ở tự cung càng cao, tự cung càng đắt, động cơ trả nợ càng mạnh, và mức nợ bền vững càng cao. Mô hình vì vậy dự báo tương quan dương giữa bất bình đẳng và nợ.
+
+**Bàn về các giả định:**
+
+- **Hệ quả của vỡ nợ.** Vỡ nợ xoá cả nợ công lẫn nợ tư (như Broner và Ventura, 2011). Xoá nợ công trong nước có tính luỹ tiến, vì người giàu giữ nhiều trái phiếu; xoá nợ tư với nước ngoài có tính luỹ thoái, vì người giàu nợ nhiều. Nhìn chung vỡ nợ làm giảm tái phân phối. Cơ chế vẫn hoạt động nếu chỉ vỡ nợ phần nợ nước ngoài và thị trường trong nước vẫn chạy.
+- **Cơ cấu danh mục nợ.** Mô hình không xác định được tỷ lệ nợ trong nước so với nợ nước ngoài; nó chỉ xác định tổng nợ tư, tổng nợ công và vị thế nợ nước ngoài. Một cách diễn giải khác là chỉ chính phủ vay nước ngoài rồi cho khu vực tư vay lại.
+- **Thuế tái phân phối.** Bài dùng thuế tuyến tính. Với thuế luỹ tiến dạng Heathcote–Storesletten–Violante, chi phí méo còn cao hơn, nên kết quả càng mạnh. Theo Boar và Midrigan (2022), thuế tuyến tính đã gần tối ưu.
 
 ### 6. Kết quả định lượng
 
-- Mô hình tạo ra nợ nước ngoài khoảng 17% GDP so với 24% trong dữ liệu, cùng biến động và chu kỳ sát thực tế, mà không cần chi phí vỡ nợ ngoại sinh.
-- Kênh tái phân phối chiếm phần lớn: bỏ bất bình đẳng, hoặc cho phép tái phân phối không méo, thì nợ chỉ còn khoảng 2,9% GDP.
-- Mức tăng bất bình đẳng tiền lương của Ý giải thích phần lớn mức tăng nợ nước ngoài giữa hai giai đoạn.
+**Hiệu chỉnh cho Ý.** Có hai loại người, mỗi loại chiếm 50% dân số, và chính phủ là vị lợi (λᴴ = λᴸ, hai nhóm có trọng số như nhau). Hàm sản xuất là F(L, z) = zL, với năng suất z mà log của nó theo quá trình AR(1), xấp xỉ bằng 31 nút theo phương pháp Tauchen. Lệch nghĩa là tự cung đóng, và nợ ban đầu bằng 0.
+
+| Tham số | Giá trị | Mục tiêu hiệu chỉnh |
+|---|---|---|
+| Lãi suất thực thế giới r* | 0,017 | lợi suất thực trái phiếu Đức 2002–2015 |
+| Hệ số chiết khấu β | 0,967 | lãi suất thực của Ý 3,4% |
+| σ; 1/ν; ω | 1; 0,5; 1 | giá trị chuẩn |
+| Tỷ lệ năng suất θᴴ/θᴸ | 1,89 | lương bình quân nửa trên so với nửa dưới (khảo sát SHIW 2002–2014) |
+| ρz | 0,927 | tự tương quan của log GDP |
+| σz | 0,0205 | độ lệch chuẩn của log GDP |
+| ḡ | 0,202 | tiêu dùng chính phủ trên GDP |
+
+Bài không nhắm tỷ lệ nợ trên GDP khi hiệu chỉnh, để dùng nó làm thước đo kiểm tra mô hình. Giai đoạn hiệu chỉnh bắt đầu từ năm 2002 để loại rủi ro tỷ giá của thời trước khi dùng euro.
+
+**Kết quả chính:**
+
+| Chỉ tiêu | Dữ liệu | Mô hình cơ sở | Không bất bình đẳng | Thuế khoán theo kỹ năng |
+|---|---|---|---|---|
+| Nợ nước ngoài trên GDP (%) | 24 | 17 | 2,9 | 2,9 |
+| Độ lệch chuẩn của nợ trên GDP | 2,7 | 2,1 | 0,45 | 0,45 |
+| Độ lệch chuẩn của C so với của Y | 1,0 | 1,2 | 1,2 | 1,1 |
+| Độ lệch chuẩn của tiết kiệm ròng | 1,5 | 1,8 | 1,8 | 1,7 |
+| Tương quan của C với Y (%) | 97 | 95 | 95 | 95 |
+| Tương quan của tiết kiệm ròng với Y (%) | 40 | 31 | 36 | 35 |
+
+Cách đọc bảng:
+
+1. Không cần bất kỳ chi phí vỡ nợ ngoại sinh nào (mất sản lượng, mất năng suất), mô hình cơ sở vẫn tạo ra mức nợ lớn, khoảng 17% GDP so với 24% trong dữ liệu, và mức biến động sát dữ liệu.
+2. Bỏ bất bình đẳng đi thì nợ chỉ còn 2,9% GDP. Như vậy kênh bảo hiểm truyền thống (vay để làm mượt cú sốc) giải thích khoảng 12% mức nợ trong dữ liệu (2,9 chia 24), còn kênh tái phân phối giải thích khoảng 60% (phần chênh 17 trừ 2,9, chia 24).
+3. Khi chính phủ được phép đánh thuế khoán theo kỹ năng, tức tái phân phối mà không gây méo, nợ cũng chỉ còn 2,9%. Điều này xác nhận rằng chính chi phí của tái phân phối là cơ chế tạo ra nợ.
+4. Ràng buộc chỉ chặt thỉnh thoảng, nên nền kinh tế không được bảo hiểm hoàn toàn dù có tài sản phụ thuộc trạng thái; nhờ vậy chu kỳ trong mô hình sát thực tế.
+
+**Giải thích mức tăng nợ của Ý.** Bài so sánh hai giai đoạn 1985–2001 và 2002–2015. Tỷ lệ lương giữa hai nhóm được nâng từ 1,83 lên 1,89 để khớp mức tăng 3,0 điểm của Gini trước thuế. Nợ nước ngoài trên GDP trong dữ liệu tăng 14 điểm, mô hình tạo ra mức tăng 10 điểm, tức giải thích khoảng 71% mức tăng nợ nước ngoài của Ý. Nghĩa là mức tăng bất bình đẳng tiền lương của Ý giải thích phần lớn mức tăng nợ nước ngoài giữa hai giai đoạn.
+
+**Độ nhạy** (nợ nước ngoài trên GDP, %):
+
+| Kịch bản | Nợ |
+|---|---|
+| Cơ sở | 17 |
+| Không có chi tiêu chính phủ | 17 (mức chi ngoại sinh không ảnh hưởng mức nợ, chỉ ảnh hưởng biến động) |
+| Tất định, không có cú sốc | 22 (bất định tạo động cơ phòng ngừa, giữ nợ thấp hơn) |
+| β = 0,95 | 12 (và khớp kém hơn với các đặc trưng của tiết kiệm ròng) |
+
+**Bằng chứng thực nghiệm.** Trên mẫu 30 nước hay gặp khủng hoảng nợ, bài hồi quy nợ nước ngoài ròng trên GDP (%) theo Gini trước thuế (%), với các biến kiểm soát là GDP bình quân đầu người, tăng trưởng, cán cân vãng lai và lạm phát:
+
+| | Cột (1) | Cột (2) | Cột (3) | Cột (4) |
+|---|---|---|---|---|
+| Hệ số của Gini trước thuế | 0,773\*\*\* | 0,472\*\* | 4,947\*\*\* | 5,456\*\*\* |
+| Hiệu ứng cố định theo nước | không | không | có | có |
+| Hiệu ứng cố định theo năm | không | không | không | có |
+
+Khi có đủ hiệu ứng cố định, Gini cao hơn 1 điểm đi kèm nợ nước ngoài cao hơn khoảng 5 điểm phần trăm GDP, phù hợp với dự báo tương quan dương của mô hình.
 
 ### 7. Thắt lưng buộc bụng
 
-- Sau cú sốc năng suất xấu, giá trị tự cung giảm nên ràng buộc lỏng tạm thời. Chính phủ vay thêm, hạ thuế và tăng tái phân phối, sau đó tăng thuế để trả nợ và giảm tái phân phối.
-- So với nền kinh tế không bất bình đẳng, chính phủ vay ít hơn lúc đầu nhưng duy trì nợ cao hơn lâu hơn, tức củng cố tài khoá từ từ hơn.
+**Phản ứng với cú sốc năng suất giảm một độ lệch chuẩn** (ước đọc từ biểu đồ):
+
+- Sản lượng giảm khoảng 6,5% rồi hồi phục dần.
+- Tiêu dùng giảm khoảng 4% ở kỳ 3–4, tức giảm ít hơn sản lượng.
+- Nợ trên GDP tăng khoảng 13–15 điểm rồi giảm dần.
+
+**Cơ chế.** Cú sốc xấu làm giảm giá trị của trạng thái tự cung, vì tự cung trong một nền kinh tế đang suy thoái cũng tệ hơn. Do đó ràng buộc bền vững tạm thời lỏng ra: trả nợ trở nên tương đối hấp dẫn hơn vỡ nợ. Chính phủ tận dụng điều này để vay thêm, hạ thuế bình quân và tăng tái phân phối; bất bình đẳng về thoả dụng giữa hai nhóm (uᴴ − uᴸ) giảm khoảng 0,1. Về sau, chính phủ phải tăng thuế để trả nợ và giảm tái phân phối; bất bình đẳng tăng nhẹ, khoảng 0,02.
+
+**So với nền kinh tế không bất bình đẳng:**
+
+| Mô hình | Đường đi của nợ |
+|---|---|
+| Không bất bình đẳng | nợ tăng vọt hơn lúc đầu, rồi giảm nhanh hơn |
+| Cơ sở, có bất bình đẳng | vay ít hơn lúc đầu, nhưng giữ nợ cao hơn và lâu hơn |
+
+Tức là khi có động cơ tái phân phối, củng cố tài khoá tối ưu diễn ra từ từ hơn. Lý do: mỗi lần tăng thuế để trả nợ đồng nghĩa với cắt tái phân phối, nên chính phủ dàn việc đó ra theo thời gian.
 
 ### 8. Kết luận
 
-- Bài xác định chi phí tái phân phối như một chi phí nội sinh của vỡ nợ, giải thích vì sao các nền kinh tế bất bình đẳng có thể duy trì nợ nước ngoài cao.
-- Hướng nghiên cứu tiếp: đưa rủi ro vỡ nợ trong cân bằng và các dạng khủng hoảng nợ khác vào mô hình.
+Bài xác định chi phí tái phân phối là một chi phí nội sinh của vỡ nợ: tiếp cận thị trường tín dụng quốc tế làm giảm chi phí tái phân phối, còn vỡ nợ và rơi vào tự cung tài chính làm tăng nó. Điều này giải thích vì sao các nền kinh tế bất bình đẳng có thể duy trì nợ nước ngoài cao: bất bình đẳng cao hơn hàm ý mức nợ bền vững cân bằng cao hơn. Hàm ý chính sách: khi có mối lo về phân phối, thắt lưng buộc bụng tối ưu diễn ra từ từ hơn.
+
+Hướng nghiên cứu tiếp theo: đưa rủi ro vỡ nợ xảy ra trong cân bằng và các dạng khủng hoảng nợ khác vào mô hình.
 
 ## Thuật ngữ
 

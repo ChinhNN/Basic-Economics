@@ -252,66 +252,240 @@
 2. Chủ đề, mục tiêu và cách đóng khung chi tiêu, thu ngân sách, nợ công thay đổi ra sao giữa các kênh, các nước và theo thời gian?
 3. Truyền thông tài khoá có thiên lệch về phía tin tốt không, và nên thiết kế thể chế thế nào để lời nói khớp với con số?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Truyền thông tài khoá (fiscal communication).** Mọi cách bộ tài chính nói với bên ngoài về thuế, chi tiêu và nợ công: tài liệu ngân sách, bài phát biểu, thông cáo báo chí, họp báo. Khác với chính sách tài khoá (quyết định thu bao nhiêu, chi bao nhiêu), truyền thông tài khoá là cách giải thích các quyết định đó. Ví dụ trong bài: năm 2022, Anh công bố một gói cắt thuế lớn mà không nói rõ lấy tiền ở đâu bù vào, và thị trường trái phiếu phản ứng dữ dội. Bài này là nỗ lực đầu tiên đo một cách hệ thống xem bộ tài chính G7 nói những gì và nói thế nào.
+
+**Kiến trúc nhiều tầng (layered architecture).** Bộ tài chính phải nói với nhiều nhóm người nghe cùng lúc, nên dùng mỗi kênh cho một nhóm: tài liệu ngân sách cho chuyên gia và thị trường, bài phát biểu cho công chúng, thông cáo cho nhà báo. Ví dụ trong bài: tài liệu ngân sách dài 60–80 nghìn từ, bài phát biểu 3–5 nghìn từ, thông cáo chỉ 0,5–1,5 nghìn từ. Hệ quả là ai chỉ đọc một kênh sẽ thấy một bức tranh khác với người đọc kênh khác; bài gọi đây là "khoảng cách rõ ràng".
+
+**Tín hiệu (signaling).** Khi người ngoài không biết hết thông tin bên trong chính phủ, lời nói và hành động của chính phủ được dùng làm dấu hiệu để đoán ý định. Ví dụ minh hoạ: một chính phủ công bố trước lộ trình giảm thâm hụt 0,5% GDP mỗi năm và làm đúng hai năm liền; thị trường bắt đầu tin vào các lời hứa sau và đòi lãi suất thấp hơn. Đây là lớp lý thuyết đầu tiên mà bài dùng để giải thích vì sao truyền thông tài khoá quan trọng.
+
+**Mơ hồ có chủ đích và đóng khung (strategic ambiguity, framing).** Đóng khung là chọn từ ngữ để cùng một sự việc gây ấn tượng khác nhau. Mơ hồ có chủ đích là cố ý nói không rõ để tránh phản ứng. Ví dụ trong bài: cắt chi được gọi là "tăng hiệu quả" hay "tinh gọn", tăng thuế được gọi là "bịt kẽ hở", thắt lưng buộc bụng được gọi là "tái cân bằng". Khái niệm này giải thích vì sao các câu nói thẳng về cắt chi hiếm tới vậy trong dữ liệu.
+
+**Kinh tế học tự sự (narrative economics).** Ý tưởng của Robert Shiller rằng những câu chuyện lan truyền trong xã hội ảnh hưởng tới hành vi kinh tế, không kém gì con số. Ví dụ trong bài: cùng một khoản tăng thuế, nếu kể như "công bằng giữa các thế hệ" thì được đón nhận khác với khi kể như "thắt lưng buộc bụng". Bài coi một tự sự tài khoá mạch lạc là một dạng "vốn vĩ mô" giúp neo kỳ vọng.
+
+**Chỉ số Flesch–Kincaid.** Một công thức đo độ khó đọc của văn bản dựa trên độ dài câu và số âm tiết mỗi từ, cho ra kết quả là số năm đi học cần có để hiểu. Ví dụ: điểm 10–12 nghĩa là học sinh cuối cấp ba đọc được; điểm 13–15 nghĩa là cần trình độ đại học. Trong bài, bài phát biểu ngân sách ở mức 10–12, dễ hơn hẳn tài liệu ngân sách (13–15) và tuyên bố chính sách tiền tệ (khoảng 16).
+
+**Thiên lệch lạc quan (optimism bias).** Xu hướng có hệ thống nói nhiều về tin tốt và ít về tin xấu. Ví dụ trong bài: trong thông cáo báo chí, khoảng 52% số câu nói về tăng chi, chỉ khoảng 4% nói về giảm chi, tức tỷ lệ khoảng 13:1. Đây là phát hiện quan trọng nhất của bài, vì nó cho thấy công chúng nhận được một bức tranh tài khoá dễ chịu hơn thực tế.
+
+**Kiểm định t và dấu sao.** Kiểm định t xem một chênh lệch quan sát được (ví dụ giữa hai kênh) có đủ lớn để không phải do ngẫu nhiên hay không. Giá trị t càng lớn thì bằng chứng càng mạnh; thường t trên khoảng 2 đã được coi là có ý nghĩa. Ký hiệu \*\*\* (p < 0,01) nghĩa là xác suất thấy chênh lệch như vậy khi thật ra không có khác biệt là dưới 1%; \*\* là dưới 5%; \* là dưới 10%. Ví dụ trong bài: giá trị t 43,6 cho giả thuyết "thông cáo nói về tăng chi nhiều hơn giảm chi" là bằng chứng cực kỳ mạnh.
+
+**Hội đồng tài khoá độc lập (independent fiscal council).** Một cơ quan công không thuộc chính phủ đương nhiệm, có nhiệm vụ kiểm tra dự báo và kế hoạch ngân sách, và công bố đánh giá. Ví dụ trong bài: Văn phòng Trách nhiệm Ngân sách (OBR) của Anh. Bài đề xuất các hội đồng này đánh giá thêm cả việc lời kể của chính phủ có khớp với con số hay không.
+
+## Nội dung chi tiết
 
 ### 1. Bối cảnh
 
-- Sau Thế chiến thứ hai, ngân sách là công cụ ổn định chủ động. Từ thập niên 1980 và 1990, chủ nghĩa tiền tệ, độc lập ngân hàng trung ương và lạm phát mục tiêu chuyển trách nhiệm ổn định ngắn hạn sang ngân hàng trung ương; tài khoá gắn với củng cố, quy tắc và kiểm soát nợ.
-- Ngân hàng trung ương xây dựng chiến lược quản lý kỳ vọng tinh vi. Bộ tài chính giữ mô hình truyền thông dựa trên hình thức pháp lý, thương lượng chính trị và phản ứng theo chu kỳ ngân sách.
-- Mười lăm năm qua, tài khoá quay lại trung tâm, nhưng thể chế truyền thông tụt lại. Tài khoá tác động không chỉ qua thuế, chi và vay nợ mà qua kỳ vọng hộ gia đình, doanh nghiệp và thị trường về ý định của chính phủ.
-- Nghiên cứu về minh bạch tài khoá tập trung vào chuẩn công bố và quy tắc; nghiên cứu về truyền thông tập trung vào ngân hàng trung ương. Chưa có khung thực nghiệm để phân tích cách bộ tài chính nói.
+**Hai cơ quan, hai cách nói.** Sau Thế chiến thứ hai, ngân sách nhà nước là công cụ chính để ổn định nền kinh tế một cách chủ động: suy thoái thì chi thêm, quá nóng thì thu bớt. Từ thập niên 1980 và 1990, ba trào lưu là chủ nghĩa tiền tệ, độc lập ngân hàng trung ương và lạm phát mục tiêu đã chuyển trách nhiệm ổn định ngắn hạn sang ngân hàng trung ương. Tài khoá từ đó gắn với củng cố ngân sách, quy tắc và kiểm soát nợ.
+
+Hai loại cơ quan phát triển hai cách truyền thông rất khác nhau:
+
+| | Ngân hàng trung ương ("nói") | Bộ tài chính ("làm") |
+|---|---|---|
+| Mục tiêu | một mục tiêu duy nhất là lạm phát | nhiều mục tiêu, không có điểm neo chung |
+| Vị trí chính trị | độc lập với chính trị | nằm giữa đấu trường chính trị, liên minh, bầu cử |
+| Công cụ truyền thông | hướng dẫn tương lai, họp báo, báo cáo lạm phát | văn bản pháp lý, phát biểu theo chu kỳ ngân sách |
+| Vai trò của truyền thông | là một công cụ chính sách | chủ yếu để công bố quyết định |
+
+Ngân hàng trung ương xây dựng các chiến lược quản lý kỳ vọng tinh vi. Bộ tài chính thì giữ mô hình truyền thông dựa trên hình thức pháp lý, thương lượng chính trị và phản ứng theo chu kỳ ngân sách. Nói gọn, chính sách tiền tệ thì "nói", còn chính sách tài khoá chủ yếu "làm", dựa vào việc thực hiện hơn là giải thích để truyền đạt ý định.
+
+**Vì sao bất cân xứng này không còn ổn.** Mười lăm năm qua, qua khủng hoảng tài chính 2008, khủng hoảng nợ công châu Âu, COVID-19 và đợt lạm phát 2021–23, tài khoá đã quay lại trung tâm của ổn định vĩ mô. Nhưng thể chế truyền thông tài khoá thì tụt lại phía sau. Tài khoá tác động tới nền kinh tế không chỉ qua thuế, chi và vay nợ, mà còn qua kỳ vọng của hộ gia đình, doanh nghiệp và thị trường về ý định của chính phủ. Bài nêu ba ví dụ khi truyền thông thất bại:
+
+- Ngân sách mini của Anh năm 2022: chính phủ không nói rõ các khoản cắt thuế được tài trợ ra sao, và thị trường phản ứng dữ dội.
+- Các đợt bế tắc trần nợ ở Mỹ.
+- Ý năm 2018, trong căng thẳng với quy tắc tài khoá của EU.
+
+**Khoảng trống nghiên cứu.** Các nghiên cứu về minh bạch tài khoá tập trung vào chuẩn công bố số liệu và quy tắc tài khoá. Các nghiên cứu về truyền thông lại tập trung vào ngân hàng trung ương. Chưa có một khung thực nghiệm nào để phân tích cách bộ tài chính nói. Bài này lấp khoảng trống đó.
 
 ### 2. Khung khái niệm
 
-- Truyền thông tài khoá là cơ chế tín hiệu: trong điều kiện thông tin không đầy đủ, thông báo báo hiệu ý định tương lai, sức mạnh thể chế và độ tin cậy. Khi nợ tăng hoặc liên minh chính trị lung lay, thông điệp rõ ràng và nhất quán giúp neo kỳ vọng.
-- Bộ tài chính nói trong môi trường phân mảnh và chính trị hoá, chịu chu kỳ bầu cử, liên minh, thay đổi nhân sự và quy tắc tài khoá. Sự mơ hồ có thể là tài sản chiến lược để che các đánh đổi không được lòng dân.
-- Không có điểm neo vận hành duy nhất như mục tiêu lạm phát, nên truyền thông tài khoá thiếu tiêu điểm và thường rơi vào các tự sự phân tán hoặc cạnh tranh.
-- Phải nói với nhiều khán giả cùng lúc, nên hình thành kiến trúc nhiều tầng. Trong môi trường truyền thông trực tiếp và mạng xã hội, một câu lỡ lời có thể lan ra thị trường trái phiếu. Một tự sự tài khoá mạch lạc trở thành một dạng vốn vĩ mô.
+Bài dựa trên ba lớp lý thuyết.
+
+**Lớp thứ nhất: tín hiệu.** Trong điều kiện thông tin không đầy đủ, các thông báo tài khoá báo hiệu ý định tương lai, sức mạnh thể chế và mức đáng tin của chính phủ. Khi nợ tăng hoặc liên minh chính trị lung lay, một thông điệp rõ ràng và nhất quán giúp neo kỳ vọng.
+
+**Lớp thứ hai: ràng buộc truyền thông.** Bộ tài chính nói trong một môi trường phân mảnh và chính trị hoá, chịu ảnh hưởng của chu kỳ bầu cử, liên minh cầm quyền, thay đổi nhân sự và quy tắc tài khoá. Vì vậy họ phải cân giữa minh bạch và mơ hồ có chủ đích. Sự mơ hồ có thể là một tài sản chiến lược để che các đánh đổi không được lòng dân. Ví dụ quen thuộc: thắt lưng buộc bụng được gọi là "tái cân bằng", tăng thuế được gọi là "bịt kẽ hở", cắt chi được gọi là "tăng hiệu quả".
+
+**Lớp thứ ba: tự sự.** Theo kinh tế học tự sự của Shiller, cách kể quan trọng không kém nội dung. Cùng một khoản tăng thuế, nếu gọi là "công bằng giữa các thế hệ" thì tác động lên dư luận khác với khi gọi là "thắt lưng buộc bụng".
+
+**Thiếu điểm neo.** Ngân hàng trung ương có mục tiêu lạm phát làm điểm neo vận hành duy nhất. Bộ tài chính không có điểm neo tương tự, nên truyền thông tài khoá thiếu tiêu điểm và thường rơi vào các tự sự phân tán hoặc cạnh tranh nhau.
+
+**Nhiều khán giả, nhiều tầng.** Vì phải nói với nhiều nhóm người nghe cùng lúc, bộ tài chính hình thành một kiến trúc truyền thông nhiều tầng. Trong môi trường truyền thông trực tiếp và mạng xã hội, một câu lỡ lời có thể lan thẳng ra thị trường trái phiếu. Vì vậy một tự sự tài khoá mạch lạc trở thành một dạng vốn vĩ mô.
 
 ### 3. Dữ liệu và phương pháp
 
-- Ba kênh được chọn vì là phần nhất quán và so sánh được nhất của lịch ngân sách ở các nền kinh tế phát triển. Các kênh khác như cập nhật giữa năm, kế hoạch dài hạn hay tranh luận quốc hội khác nhau nhiều giữa các nước.
-- Bài chỉ dùng dự thảo ngân sách ban đầu, không dùng các bản sửa trong năm.
-- Văn bản không có tiếng Anh được dịch bằng GPT-4o-mini, kiểm tra bằng văn bản song song; mọi chỉ số tính sau khi dịch. Bài thừa nhận khác biệt giữa văn bản gốc tiếng Anh và bản dịch máy vẫn có thể tồn tại.
-- Bài so sánh giữa các kênh trong cùng một nước và cùng một năm, vì cả ba kênh nói về cùng một quyết định chính sách. Cách này giúp tách lựa chọn truyền thông khỏi thực trạng tài khoá, dù không xử lý trực tiếp tính nội sinh.
-- Bài lưu ý khác biệt thể chế: nước liên bang như Mỹ, Canada, Đức có quy trình ngân sách phức tạp hơn; Mỹ không có chu kỳ ngân sách thống nhất nên bộ ba văn bản kém ý nghĩa hơn; Anh có Văn phòng Trách nhiệm Ngân sách đảm nhận một phần nội dung phân tích.
+**Kho văn bản.** Bài xây dựng một kho hơn 500 văn bản tài khoá của bảy nước G7 trong giai đoạn 2000–2024, tổng cộng vài triệu từ, chia làm ba kênh:
+
+| Kênh | Người đọc chính | Vai trò |
+|---|---|---|
+| Tài liệu ngân sách (chỉ dùng dự thảo ban đầu) | nghị sĩ, nhà kinh tế, tổ chức xếp hạng tín nhiệm, IMF, Ngân hàng Thế giới | bản thiết kế kỹ thuật: số liệu, giả định |
+| Bài phát biểu của bộ trưởng | công chúng, giới chính trị | cầu nối sang tự sự, thuyết phục |
+| Thông cáo báo chí | nhà báo, mạng xã hội | "cổng" định hình ấn tượng đầu tiên |
+
+Ba kênh này được chọn vì đó là phần nhất quán và so sánh được nhất của lịch ngân sách ở các nền kinh tế phát triển. Các kênh khác như bản cập nhật giữa năm, kế hoạch dài hạn hay tranh luận ở quốc hội khác nhau quá nhiều giữa các nước. Bài chỉ dùng dự thảo ngân sách ban đầu, không dùng các bản sửa trong năm.
+
+**Điều chỉnh theo từng nước.** Không phải nước nào cũng có đủ ba loại văn bản giống nhau:
+
+- **Nhật Bản:** dùng Public Finance Factsheet thay cho tài liệu ngân sách, và Highlights of the Budget thay cho thông cáo; nhiều dữ liệu phải nhập tay.
+- **Đức:** dùng kế hoạch ngân sách trung hạn, vì luật ngân sách hằng năm dài hơn 3.000 trang.
+- **Mỹ:** dùng factsheet thay cho thông cáo, và phát biểu của Tổng thống (hoặc giám đốc Văn phòng Quản lý và Ngân sách, OMB) thay cho phát biểu của bộ trưởng.
+- **Pháp, Đức, Ý:** thiếu thông cáo một cách có hệ thống, và văn bản của ba nước này được dịch sang tiếng Anh bằng GPT-4o-mini.
+
+Bản dịch được kiểm tra bằng cách đối chiếu với văn bản song song, và mọi chỉ số được tính sau khi dịch. Bài thừa nhận khác biệt giữa văn bản gốc tiếng Anh và bản dịch máy vẫn có thể tồn tại.
+
+**Công cụ đo:**
+
+| Khía cạnh | Cách đo |
+|---|---|
+| Độ dễ đọc | chỉ số Flesch–Kincaid, tính bằng số năm đi học cần có |
+| Văn phong | tỷ lệ số từ khác nhau trên tổng số từ (độ phong phú từ vựng); tỷ lệ câu ẩn dụ, theo quy trình nhận diện ẩn dụ của kho ngữ liệu VU Amsterdam |
+| Chủ đề | GPT-4o-mini xếp từng câu vào 8 nhóm chủ đề |
+| Tăng hay giảm chi, tăng hay giảm thu | phân loại hơn 190.000 câu, với các quy tắc chặt để mô hình ngôn ngữ không hiểu nhầm con số |
+| Sắc thái về nợ công | mỗi câu được xếp là tích cực, tiêu cực hoặc trung lập |
+
+**Thiết kế so sánh.** Bài so sánh giữa các kênh trong cùng một nước và cùng một năm, vì cả ba kênh nói về cùng một quyết định chính sách. Nhờ vậy, khác biệt giữa các kênh phản ánh lựa chọn truyền thông chứ không phải thực trạng tài khoá, dù cách này không xử lý trực tiếp vấn đề nội sinh. Cách tiếp cận là mô tả, tương tự học không giám sát: bài không tìm quan hệ nhân quả và không đo tác động của truyền thông lên lợi suất trái phiếu hay kỳ vọng.
+
+**Khác biệt thể chế cần lưu ý.** Các nước liên bang như Mỹ, Canada, Đức có quy trình ngân sách phức tạp hơn. Mỹ không có một chu kỳ ngân sách thống nhất, nên bộ ba văn bản ở Mỹ kém ý nghĩa hơn. Ở Anh, Văn phòng Trách nhiệm Ngân sách (OBR) đảm nhận một phần nội dung phân tích, nên tài liệu ngân sách của Anh có thể ngắn hơn.
 
 ### 4. Hình thức truyền thông
 
-- Thứ bậc độ dài ổn định: ngân sách dài nhất, phát biểu ở giữa, thông cáo ngắn nhất. Ngân sách dài ra trong COVID để minh bạch và biện minh cho các biện pháp khẩn cấp; thông cáo dài ra trong khủng hoảng 2008.
-- Canada giai đoạn 2016–2018 và từ 2022 bỏ các phụ lục thuế đồ sộ để chuyển sang trình bày theo tự sự, xoay quanh "tầng lớp trung lưu".
-- Phát biểu dễ đọc nhất, quanh mức mười tới mười hai năm đi học, và sự hội tụ này giống nhau ở mọi nước. Ngân sách và thông cáo cần trình độ đại học. Thông cáo ngắn nhưng không đơn giản, thực chất là gói thông tin nén cho nhà báo và nhà phân tích.
-- Độ dễ đọc của ngân sách và thông cáo gần như không đổi hai thập kỷ, phản ánh "văn phong nhà" của bộ máy hành chính. Chỉ bài phát biểu theo xu hướng ngôn ngữ giản dị.
-- Về văn phong, ngân sách ít màu sắc nhất vì phải lặp các thuật ngữ như thâm hụt, thuế, chương trình. Thông cáo có độ phong phú từ vựng cao nhất, nhất là đầu thập niên 2000 với các khẩu hiệu như "hỗ trợ gia đình lao động", "sống trong khả năng của mình". Ẩn dụ tăng trong giai đoạn căng thẳng kinh tế, nhưng bài lưu ý định nghĩa ẩn dụ có thể trôi theo thời gian.
+**Ba kênh, ba "chất giọng".** Bảng sau tóm tắt khác biệt về hình thức (giá trị ước đọc từ biểu đồ):
+
+| Chỉ tiêu | Tài liệu ngân sách | Bài phát biểu | Thông cáo |
+|---|---|---|---|
+| Số từ bình quân | 60–80 nghìn | 3–5 nghìn | 0,5–1,5 nghìn |
+| Số từ mỗi câu | khoảng 25–30 | khoảng 20 | cũng dài |
+| Flesch–Kincaid (năm đi học) | 13–15 | 10–12 | 13–15 |
+| Tỷ lệ từ khác nhau | khoảng 0,1–0,15 | khoảng 0,35–0,4 | khoảng 0,5–0,6 |
+| Tỷ lệ câu ẩn dụ (%) | khoảng 0–3 | khoảng 5–23 | khoảng 0–17 |
+
+**Độ dài.** Thứ bậc độ dài rất ổn định: ngân sách dài nhất, phát biểu ở giữa, thông cáo ngắn nhất. Tài liệu ngân sách dài ra trong COVID để minh bạch và biện minh cho các biện pháp khẩn cấp; thông cáo dài ra trong khủng hoảng 2008. Anh và Mỹ đã rút gọn tài liệu ngân sách từ đầu thập niên 2010, còn Pháp thì mở rộng phần phụ lục. Canada, trong giai đoạn 2016–2018 và từ 2022, bỏ các phụ lục thuế đồ sộ để chuyển sang trình bày theo lối kể chuyện, xoay quanh "tầng lớp trung lưu". Từ khoảng 2016, phương sai của độ dài văn bản giữa các nước tăng vọt; thời điểm này không trùng với khủng hoảng 2008, cho thấy các chính phủ ngày càng khác nhau trong cách trình bày.
+
+**Độ dễ đọc.** Bài phát biểu dễ đọc nhất, ở mức khoảng mười tới mười hai năm đi học, và sự hội tụ này giống nhau ở mọi nước. Để so sánh: tuyên bố chính sách tiền tệ ở các nước phát triển cần khoảng 16 năm đi học, phát biểu của lãnh đạo ECB khoảng 14,5. Như vậy phát biểu ngân sách dễ hiểu hơn hẳn. Ngược lại, tài liệu ngân sách và thông cáo đều cần trình độ đại học. Thông cáo ngắn nhưng không đơn giản: thực chất nó là một gói thông tin nén dành cho nhà báo và nhà phân tích.
+
+**Phát hiện về thời gian.** Độ dễ đọc của tài liệu ngân sách và thông cáo gần như không đổi trong 20 năm, bất chấp khủng hoảng, đổi chính phủ hay các cải cách minh bạch. Điều này phản ánh một "văn phong nhà" của bộ máy hành chính. Chỉ có bài phát biểu đi theo xu hướng ngôn ngữ giản dị. Sau 2009, câu trong tài liệu ngân sách dài ra, còn câu trong bài phát biểu ngắn đi, nên hai kênh bù trừ cho nhau.
+
+**Văn phong.** Tài liệu ngân sách ít màu sắc nhất, vì phải lặp đi lặp lại các thuật ngữ như thâm hụt, thuế, chương trình. Thông cáo có độ phong phú từ vựng cao nhất, nhất là đầu thập niên 2000, với các khẩu hiệu như "hỗ trợ gia đình lao động" hay "sống trong khả năng của mình". Thông cáo gần đây ở Anh và Canada tiết chế hơn, bớt khẩu hiệu. Ẩn dụ tăng lên trong các giai đoạn căng thẳng kinh tế, dù bài lưu ý cách định nghĩa ẩn dụ có thể thay đổi theo thời gian. Có khác biệt theo truyền thống pháp lý: các nước thông luật (Canada, Anh, Mỹ) dùng nhiều tự sự và ẩn dụ; các nước dân luật (Pháp, Ý) thiên về trình bày có cấu trúc; Nhật Bản ngắn gọn và định dạng chặt.
+
+**Khoảng cách rõ ràng.** Hệ quả của kiến trúc này là ai chỉ nghe bài phát biểu sẽ bỏ lỡ các ràng buộc tài khoá, còn ai chỉ đọc tài liệu ngân sách sẽ bỏ lỡ cách chính phủ đóng khung vấn đề.
+
+**Kiểm định thống kê về hình thức.** Bài dùng kiểm định t cặp để xem khác biệt giữa từng cặp kênh có ý nghĩa thống kê không (NS là ngân sách, PB là phát biểu, TC là thông cáo):
+
+| Chỉ tiêu | NS so với TC | NS so với PB | PB so với TC |
+|---|---|---|---|
+| Độ dễ đọc | 4,7\*\*\* | 16,4\*\*\* | 13,9\*\*\* |
+| Độ dài câu | 2,2\* | 12,3\*\*\* | 6,3\*\*\* |
+| Độ phong phú từ vựng | 20,2\*\*\* | 29,4\*\*\* | 6,2\*\*\* |
+| Độ dài văn bản | 18,5\*\*\* | 17,8\*\*\* | 10,2\*\*\* |
+
+Gần như mọi khác biệt đều rất có ý nghĩa. Ngoại lệ duy nhất là độ dài câu giữa ngân sách và thông cáo, chỉ có ý nghĩa ở mức yếu, đúng như quan sát rằng câu trong thông cáo cũng dài.
 
 ### 5. Chủ đề và mục tiêu
 
-- Chủ đề khác nhau theo kênh, điều chứng tỏ bộ tài chính chủ động nhắm khán giả. Muốn thấy toàn bộ ưu tiên tài khoá phải đọc cả ba kênh.
-- Phân đoạn này có thể tăng ủng hộ chính trị ngắn hạn nhưng làm yếu trách nhiệm giải trình: công dân có thể ủng hộ chương trình đầu tư "lịch sử" mà không hiểu hệ quả tài khoá, thị trường có thể định giá sai rủi ro nếu giả định tăng trưởng được nhấn còn dự báo nợ bị che.
-- Mục tiêu trong phát biểu thiên về phúc lợi, việc làm, năng suất; mục tiêu trong ngân sách thiên về bền vững tài khoá, quản lý nợ, tuân thủ quy tắc. Đức gắn mục tiêu chặt với phanh nợ và nhấn tuân thủ hơn tầm nhìn.
-- Bài chưa phân tích chính thức vai trò của quy tắc tài khoá và hội đồng tài khoá, nhưng gợi ý chúng có thể thu hẹp dư địa tu từ và làm nổi các tự sự dựa trên độ tin cậy.
+**Chủ đề khác nhau theo kênh**, điều chứng tỏ bộ tài chính chủ động nhắm tới từng nhóm người nghe:
+
+- **Tài liệu ngân sách** tập trung vào thuế và cơ chế chi tiêu.
+- **Bài phát biểu** tập trung vào tăng trưởng, việc làm và chi xã hội.
+- **Thông cáo** tập trung vào các sáng kiến mới (tăng chi, giảm thuế, dự án chủ lực) và bỏ qua các đánh đổi.
+
+Trong các đợt khủng hoảng 2009 và 2020, mọi kênh đều chuyển sang chủ đề ổn định vĩ mô. Chủ đề khí hậu xuất hiện rải rác trước 2015 và nổi hơn sau Hiệp định Paris; Anh là nước chú ý tới khí hậu bền bỉ nhất. Mỗi nước cũng có điểm nhấn riêng: Mỹ và Anh nhấn giảm thuế; Pháp và Đức nhấn quy tắc (phanh nợ của Đức, tiêu chí Maastricht của EU); Nhật Bản nhấn dân số già và củng cố nợ. Khoảng 10–20% nội dung thuộc nhóm "khác": thủ tục, dẫn chiếu luật, lời đệm. Muốn thấy toàn bộ ưu tiên tài khoá của một chính phủ, người đọc phải đọc cả ba kênh.
+
+**Cái giá của sự phân đoạn.** Chia thông điệp theo kênh có thể tăng ủng hộ chính trị ngắn hạn, nhưng làm yếu trách nhiệm giải trình. Công dân có thể ủng hộ một chương trình đầu tư "lịch sử" mà không hiểu hệ quả tài khoá của nó. Thị trường có thể định giá sai rủi ro nếu giả định tăng trưởng được nhấn mạnh còn dự báo nợ bị che đi.
+
+**Mục tiêu theo kênh** (tỷ trọng ước đọc từ biểu đồ; bài lưu ý số liệu phần bài phát biểu trùng khớp với số liệu riêng của Canada, nên có thể đã đặt nhầm hình):
+
+| Mục tiêu | Tài liệu ngân sách | Bài phát biểu |
+|---|---|---|
+| Phúc lợi xã hội | khoảng 24% | khoảng 33% |
+| Trách nhiệm tài khoá | khoảng 19% | khoảng 15% |
+| Bền vững môi trường | khoảng 13% | không đáng kể |
+| Tạo việc làm | khoảng 12% | khoảng 19% |
+| Năng lực cạnh tranh | khoảng 7% | khoảng 19% |
+
+Mục tiêu trong bài phát biểu thiên về phúc lợi, việc làm và năng suất, với các câu như "xây nền kinh tế cho mọi người", "củng cố tầng lớp trung lưu". Mục tiêu trong tài liệu ngân sách thiên về bền vững tài khoá, quản lý nợ và tuân thủ quy tắc, với các câu như "đưa nợ trên GDP về 50% vào 2030", "đạt mục tiêu cân bằng trung hạn". Khí hậu nằm chủ yếu trong tài liệu ngân sách; bài phát biểu nhắc tới thưa thớt hoặc theo lối đạo đức.
+
+Mục tiêu trách nhiệm tài khoá nổi bật ở một số nơi: chiếm khoảng 65% trong tài liệu ngân sách của Nhật, khoảng 58% trong bài phát biểu của Mỹ, khoảng 47% trong bài phát biểu của Nhật và khoảng 36% trong bài phát biểu của Đức. Đức gắn mục tiêu chặt với phanh nợ và nhấn mạnh việc tuân thủ hơn là tầm nhìn.
+
+**Vai trò của thể chế.** Bài chưa phân tích chính thức vai trò của quy tắc tài khoá và hội đồng tài khoá, nhưng gợi ý rằng chúng có thể thu hẹp dư địa tu từ và làm nổi các tự sự dựa trên độ tin cậy.
 
 ### 6. Chi tiêu, thu và nợ công
 
-- Chính phủ có động cơ "nhận công": nhấn các chính sách có lợi, giảm nhẹ chi phí. Bằng chứng G7 xác nhận chi tiêu được nói nhiều hơn thu ở mọi kênh, và tăng chi áp đảo cắt chi.
-- Cắt chi được diễn đạt mơ hồ hoặc ở thì quá khứ. Tăng thu được gán cho thu thuế tốt hơn hoặc bịt kẽ hở. Cải cách trung tính về thu được kể như thắng lợi. Tăng thuế bắt buộc thì ghép với một khoản chi được lòng dân.
-- Hệ quả là bất cân xứng giữa thực tế và tự sự tài khoá; gánh nặng tìm ra mặt kém thuận lợi dồn lên nhà phân tích và nhà báo. Nhật minh hoạ điều này: ràng buộc dài hạn rất lớn nhưng truyền thông công chúng vẫn chủ yếu là cam kết chi.
-- Về nợ, giọng lạc quan chiếm ưu thế kể cả khi nợ tăng. Bài nói rõ lạc quan không nhất thiết là trình bày sai, nhưng lạc quan lặp lại mà kết quả không khớp có thể dần làm mòn độ tin cậy. Phát biểu lạc quan hơn tài liệu viết.
+**Động cơ "nhận công".** Chính phủ có động cơ nhận công cho các chính sách có lợi và giảm nhẹ chi phí của các chính sách gây thiệt. Dữ liệu G7 xác nhận điều này: chi tiêu được nói nhiều hơn thu ngân sách ở mọi kênh, và tăng chi áp đảo cắt chi.
+
+Tỷ lệ câu theo loại (ước đọc; phần còn lại là câu trung lập):
+
+| Kênh | Chi: tăng | Chi: giảm | Thu: tăng | Thu: giảm |
+|---|---|---|---|---|
+| Tài liệu ngân sách | khoảng 28% | khoảng 4% | khoảng 19% | khoảng 14% |
+| Bài phát biểu | khoảng 31% | khoảng 3% | khoảng 17% | khoảng 22% |
+| Thông cáo | khoảng 52% | khoảng 4% | khoảng 32% | khoảng 28% |
+
+Câu về tăng chi nhiều gấp khoảng 7 lần câu về giảm chi trong tài liệu ngân sách, gấp khoảng 10 lần trong bài phát biểu và khoảng 13 lần trong thông cáo. Riêng bài phát biểu nói về giảm thu (giảm thuế) nhiều hơn tăng thu.
+
+**Các kỹ thuật diễn đạt:**
+
+- **Cắt chi** hiếm khi được nói thẳng. Thay vào đó là "tinh gọn", "tìm dư địa hiệu quả", "làm chậm tốc độ tăng chi". Nếu có nói thì dùng thì quá khứ, kiểu "năm ngoái chúng tôi đã có những quyết định khó khăn". Ví dụ Anh năm 2010–11: các chữ "trách nhiệm", "tiết kiệm nhờ hiệu quả", "kiềm chế lương khu vực công" được dùng thay cho chữ "cắt".
+- **Tăng thu** được gắn với "thu thuế tốt hơn" hoặc "bịt kẽ hở"; gần như không bao giờ nói thẳng là tăng thuế diện rộng.
+- **Ghép đôi:** khi buộc phải tăng thuế, chính phủ ghép ngay với một khoản chi được lòng dân. Ví dụ Nhật tăng thuế giá trị gia tăng năm 2014 và năm 2019 với lý do "bảo đảm an sinh xã hội".
+- **Cải cách trung tính về thu** và cả việc "không tăng thuế" cũng được kể như một thành tích.
+- Ví dụ Canada sau 2015: 60–70% số câu về thu ngân sách trong bài phát biểu là về giảm thuế, còn lo ngại về thâm hụt gần như biến mất.
+
+**Hệ quả.** Có một sự bất cân xứng giữa thực tế tài khoá và tự sự tài khoá, và gánh nặng tìm ra mặt kém thuận lợi dồn lên nhà phân tích và nhà báo. Nhật Bản minh hoạ điều này: ràng buộc dài hạn rất lớn, nhưng truyền thông với công chúng vẫn chủ yếu là các cam kết chi.
+
+**Sắc thái về nợ công.** Giọng lạc quan chiếm ưu thế ngay cả khi nợ đang tăng. Tỷ lệ câu tích cực về nợ (ước đọc):
+
+| Kênh | Tỷ lệ câu tích cực |
+|---|---|
+| Bài phát biểu | Canada khoảng 72%, Anh khoảng 65%, Pháp khoảng 57%, Mỹ khoảng 56%, Đức khoảng 46%, Nhật khoảng 41% |
+| Tài liệu ngân sách | Mỹ khoảng 51%, Canada khoảng 45%, các nước còn lại khoảng 25–35%; riêng Nhật có khoảng 55% số câu mang giọng tiêu cực |
+
+Các công thức quen thuộc: nợ "sắp ổn định", "trong tầm kiểm soát", "đạt đỉnh năm sau rồi giảm" (Anh lặp lại câu này qua nhiều chu kỳ); Canada nói nước mình có "nợ thấp nhất G7". Giọng u ám chỉ xuất hiện trong các giai đoạn cấp tính (2009, 2020–21), và ngay lập tức được ghép với lạc quan về phục hồi. Bài gọi đây là "tính thuận chu kỳ nhẹ": lời nói luôn mạnh hơn nền tảng. Bài nói rõ rằng lạc quan không nhất thiết là trình bày sai, nhưng lạc quan lặp lại mà kết quả không khớp có thể dần làm mòn độ tin cậy. Bài phát biểu lạc quan hơn tài liệu viết.
+
+**Kiểm định thống kê về nội dung.** Bài dùng kiểm định t một phía cho từng giả thuyết lạc quan:
+
+| Giả thuyết | Tài liệu ngân sách | Thông cáo | Bài phát biểu |
+|---|---|---|---|
+| Nói về chi nhiều hơn thu | 12,9\*\*\* | 22,2\*\*\* | 10,8\*\*\* |
+| Nói về tăng chi nhiều hơn giảm chi | 24,6\*\*\* | 43,6\*\*\* | 27,4\*\*\* |
+| Nói về giảm thu nhiều hơn tăng thu | −3,1 | −11,3 | 6,9\*\* |
+| Câu tích cực về nợ nhiều hơn câu tiêu cực | 9,5\*\*\* | 44,8\*\*\* | 30\*\*\* |
+
+Giả thuyết lạc quan đúng ở hầu hết các ô. Riêng giảm thuế chỉ được nhấn mạnh trong bài phát biểu; ở tài liệu ngân sách và thông cáo, giá trị t âm nghĩa là tăng thu được bàn nhiều hơn giảm thu.
 
 ### 7. Thảo luận và hàm ý
 
-- Nhấn lợi ích và giảm chi phí phản ánh ngại mất mát, hiệu ứng nổi bật và động cơ nhận công, nhưng có thể gây ảo giác tài khoá, làm sai lệch hiểu biết về đánh đổi.
-- Truyền thông chiến lược chỉ ổn định kỳ vọng tạm thời, không bù được rủi ro nền tảng khi quỹ đạo nợ xấu đi. Nó cũng phụ thuộc vào dữ liệu tài khoá kịp thời và đáng tin.
-- Bộ tài chính nên truyền thông có điều kiện, theo giai đoạn: thừa nhận xấu đi ngắn hạn nhưng nêu rõ lộ trình củng cố trung hạn.
-- Khi truyền thông nhấn lợi ích và giảm nhẹ chi phí trễ, hộ thu nhập thấp có thể chịu gánh nặng không tương xứng, làm xói mòn niềm tin.
-- Các nước mới nổi đang cải cách khung minh bạch có cơ hội áp dụng cách truyền thông tích hợp và cân đối ngay từ đầu. IMF và OECD có thể xây dựng hướng dẫn không chỉ về quy tắc tài khoá mà về thực hành tự sự.
-- Trong khủng hoảng, chính phủ thường vội chuyển sang trấn an; cách tốt hơn là lập kịch bản, công bố rủi ro dự phòng và nói thẳng về rủi ro mà không gây hoảng loạn.
+**Vì sao chính phủ nói như vậy.** Xu hướng nhấn lợi ích và giảm nhẹ chi phí phản ánh ba điều: tâm lý ngại mất mát (người ta phản ứng mạnh với thiệt hại hơn với lợi ích cùng cỡ), hiệu ứng nổi bật (điều được nhắc nhiều thì được nhớ) và động cơ nhận công. Nhưng nó có thể gây ra "ảo giác tài khoá", khiến công chúng hiểu sai các đánh đổi.
+
+**Giới hạn của truyền thông.** Truyền thông chiến lược chỉ ổn định kỳ vọng tạm thời; nó không bù được rủi ro nền tảng khi quỹ đạo nợ xấu đi. Nó cũng phụ thuộc vào việc có dữ liệu tài khoá kịp thời và đáng tin.
+
+**Khuyến nghị:**
+
+- Bộ tài chính nên truyền thông có điều kiện và theo giai đoạn: thừa nhận tình hình xấu đi trong ngắn hạn, nhưng nêu rõ lộ trình củng cố trung hạn.
+- Cần chú ý hệ quả phân phối: khi truyền thông nhấn lợi ích và giảm nhẹ chi phí đến sau, hộ thu nhập thấp có thể chịu gánh nặng không tương xứng, làm xói mòn niềm tin.
+- Các nước mới nổi đang cải cách khung minh bạch có cơ hội áp dụng cách truyền thông tích hợp và cân đối ngay từ đầu. IMF và OECD có thể xây dựng hướng dẫn không chỉ về quy tắc tài khoá mà cả về thực hành tự sự.
+- Trong khủng hoảng, chính phủ thường vội chuyển sang trấn an. Cách tốt hơn là lập kịch bản, công bố các rủi ro dự phòng và nói thẳng về rủi ro mà không gây hoảng loạn.
+
+**Học từ các lĩnh vực khác.** Từ truyền thông y tế, khí hậu và quản lý khủng hoảng, bài rút ra sáu bài học: bắt đầu từ niềm tin chứ không phải kỹ thuật; kể bằng câu chuyện; khán giả khác nhau cần thông điệp khác nhau; nhất quán quan trọng ngang nội dung; cho thấy giá trị đằng sau con số; đối thoại chứ không độc thoại.
+
+**Mười nguyên tắc cho truyền thông tài khoá:**
+
+1. Rõ ràng về thông điệp và về kênh (truyền thông nhiều tầng có chủ đích).
+2. Nhất quán trong nội bộ và giữa các cơ quan.
+3. Minh bạch về bất định: nêu khoảng dự báo, giả định, kịch bản.
+4. Giải thích đánh đổi, và ai được, ai mất.
+5. Truyền thông là một quá trình, không phải một khoảnh khắc.
+6. Tự sự là một chiến lược.
+7. Nhạy cảm về văn hoá và ngôn ngữ.
+8. Thừa nhận các ràng buộc kinh tế chính trị.
+9. Giữ ký ức thể chế và tính liên tục qua các nhiệm kỳ.
+10. Tương tác chứ không chỉ phát đi.
+
+**Đề xuất thể chế.** Bài đề xuất một chế độ truyền thông tài khoá có cấu trúc, giống khung lạm phát mục tiêu của ngân hàng trung ương: có điểm neo tự sự (ví dụ một lộ trình nợ được nhắc lại nhất quán), có bản tóm tắt bằng ngôn ngữ giản dị, và có "kiểm toán tự sự" do bên thứ ba thực hiện. Hội đồng tài khoá độc lập như OBR của Anh có thể đánh giá cả mức mạch lạc giữa lời nói và con số. Một ví dụ đã có: tháng 3/2025, Pháp cam kết thêm một mục về bất định và rủi ro vào tài liệu ngân sách, áp dụng lần đầu cho dự thảo ngân sách 2026.
 
 ### 8. Kết luận
 
-- Truyền thông tài khoá có kiến trúc nhất quán: ngân sách nhấn quy tắc và kiềm chế, phát biểu nhấn công bằng và tiến bộ, thông cáo chưng cất thông điệp lạc quan.
-- Thiên lệch lạc quan kéo dài có thể ảnh hưởng độ tin cậy khi kỳ vọng không thành hiện thực. Sự khác biệt giữa các kênh có thể làm hiểu biết của công chúng và thị trường phân mảnh.
-- Thiết kế thể chế, như hội đồng tài khoá độc lập, có thể giúp tự sự và số học khớp nhau.
+Truyền thông tài khoá ở G7 có một kiến trúc nhất quán và gần như không đổi suốt hai thập kỷ: tài liệu ngân sách nhấn quy tắc và kiềm chế; bài phát biểu nhấn công bằng và tiến bộ; thông cáo chưng cất các thông điệp lạc quan. Như bài tóm lại, truyền thông tài khoá mang tính nhị nguyên: đơn giản khi nói, phức tạp khi viết.
+
+Thiên lệch lạc quan kéo dài có thể làm giảm độ tin cậy khi các kỳ vọng không thành hiện thực. Sự khác biệt giữa các kênh có thể làm hiểu biết của công chúng và thị trường bị phân mảnh, mỗi bên nắm một nửa bức tranh. Thiết kế thể chế, như hội đồng tài khoá độc lập, có thể giúp lời kể và phép tính khớp nhau. Câu kết của bài: qua mọi kênh và mọi chu kỳ, sự mạch lạc không phải là thứ xa xỉ mà là điều kiện tiên quyết của niềm tin tài khoá.
 
 ## Thuật ngữ
 

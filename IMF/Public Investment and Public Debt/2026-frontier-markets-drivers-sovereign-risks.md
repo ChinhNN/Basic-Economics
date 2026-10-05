@@ -272,61 +272,225 @@
 2. Việc một nước thu nhập thấp trở thành FM phụ thuộc chủ yếu vào nền tảng trong nước hay vào điều kiện tài chính toàn cầu?
 3. Chênh lệch lợi suất trái phiếu chính phủ của FM nhạy tới đâu với chính sách tiền tệ Mỹ, và đặc điểm nào giúp giảm độ nhạy đó?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Thị trường cận biên (frontier market, FM).** Một nước thu nhập thấp nhưng đã bắt đầu hội nhập vào thị trường tài chính quốc tế: có thể bán trái phiếu chính phủ cho nhà đầu tư nước ngoài, có thị trường cổ phiếu đáng kể, có dòng vốn danh mục chảy vào. Nó đứng giữa hai nhóm: nước thu nhập thấp chưa phải FM (NFLIC), gần như chỉ vay ưu đãi từ các tổ chức quốc tế, và thị trường mới nổi (EM), đã hội nhập đầy đủ. Ví dụ trong bài: năm 2024 sáu nước châu Phi và Trung Á quay lại thị trường Eurobond với tổng 7,7 tỷ USD. Bài coi danh hiệu FM là bậc thang để lên EM, nên câu hỏi trung tâm là cái gì giúp lên bậc và giữ được bậc.
+
+**Yếu tố đẩy và yếu tố kéo (push and pull factors).** Yếu tố kéo là những điều kiện bên trong một nước hút vốn vào: tăng trưởng cao, nợ thấp, nhà nước làm việc hiệu quả. Yếu tố đẩy là những điều kiện bên ngoài đẩy vốn đi tìm nơi mới: lãi suất ở Mỹ thấp, nhà đầu tư toàn cầu ít sợ rủi ro. Ví dụ minh hoạ: khi lãi suất Mỹ gần 0%, một quỹ chịu chấp nhận rủi ro để mua trái phiếu lợi suất 7% của một nước châu Phi, dù nước đó không thay đổi gì. Bài kết luận rằng việc thành FM chủ yếu do yếu tố kéo.
+
+**Chênh lệch lợi suất trái phiếu chính phủ (sovereign spread).** Phần lãi suất mà một chính phủ phải trả thêm so với trái phiếu chính phủ Mỹ cùng kỳ hạn. Đây là giá mà thị trường đòi cho rủi ro vỡ nợ và các rủi ro khác. Ví dụ minh hoạ: trái phiếu Mỹ 10 năm lợi suất 4%, trái phiếu đô la của nước A lợi suất 9%, chênh lệch là 5 điểm phần trăm. Trong bài, đây là biến dùng để đo FM nhạy thế nào với chính sách tiền tệ Mỹ.
+
+**Lãi suất bóng (Krippner shadow rate).** Một thước đo lãi suất chính sách của Mỹ được tính sao cho phản ánh cả các biện pháp không thông thường như mua trái phiếu quy mô lớn. Khi lãi suất thật đã chạm 0, lãi suất bóng có thể âm. Ví dụ minh hoạ: năm Fed giữ lãi suất ở 0% nhưng vẫn bơm tiền mạnh, lãi suất bóng có thể ở mức −2%, cho thấy chính sách còn nới hơn mức 0%. Bài dùng thay đổi của lãi suất bóng làm cú sốc từ chính sách tiền tệ Mỹ.
+
+**Chỉ số VIX.** Thước đo mức biến động kỳ vọng của thị trường cổ phiếu Mỹ, thường được gọi là "chỉ số sợ hãi". VIX cao nghĩa là nhà đầu tư toàn cầu lo lắng và ngại rủi ro. Ví dụ minh hoạ: VIX quanh 15 là thị trường bình thường, vượt 40 là hoảng loạn. Trong bài, VIX và lãi suất bóng là hai yếu tố đẩy toàn cầu.
+
+**Hiệu quả chính phủ (government effectiveness).** Một trong sáu chỉ số quản trị toàn cầu (WGI) của Ngân hàng Thế giới, đo chất lượng dịch vụ công, năng lực của bộ máy hành chính và độ tin cậy của việc thực thi chính sách. Trong bài, chỉ số được chuẩn hoá, càng cao càng tốt. Ví dụ trong bài: FM đạt bình quân 0,40, nhóm NFLIC 0,34, EM 0,49. Đây là biến duy nhất giữ được ý nghĩa thống kê qua mọi kiểm tra, nên là kết quả chắc nhất của bài.
+
+**Hiệu ứng biên và mô hình probit.** Mô hình probit dùng để ước lượng xác suất một sự kiện có hoặc không (ở đây: năm nay có thành FM hay không). Hiệu ứng biên cho biết xác suất đó thay đổi bao nhiêu khi một yếu tố tăng một đơn vị. Ví dụ trong bài: hiệu ứng biên của tăng trưởng là 0,004 trong mô hình probit; nếu tăng trưởng đo bằng điểm phần trăm, điều này nghĩa là tăng trưởng cao hơn 1 điểm thì xác suất thành FM trong năm tăng khoảng 0,4 điểm phần trăm. Con số nhỏ vì việc thành FM trong một năm cụ thể vốn là sự kiện hiếm.
+
+**Phản ứng xung tích luỹ (cumulative impulse response).** Cách đo một cú sốc hôm nay tác động lên một biến qua nhiều kỳ sau, cộng dồn lại. Bài ước lượng bằng phép chiếu địa phương (local projections), tức chạy một hồi quy riêng cho mỗi khoảng thời gian 1, 2, 3… quý sau cú sốc. Ví dụ trong bài: sau một cú sốc thắt chặt của Mỹ, chênh lệch lợi suất của FM tăng tích luỹ khoảng 0,85 điểm sau 5 quý.
+
+## Nội dung chi tiết
 
 ### 1. Bối cảnh
 
-- Khái niệm thị trường cận biên ra đời ba thập kỷ trước để ghi nhận đặc điểm riêng của các nước thu nhập thấp tiến bộ hơn, hội nhập sâu hơn vào hệ thống kinh tế và tài chính toàn cầu so với các nước cùng nhóm. Được xem là FM là tín hiệu nước đó đang trở thành điểm đến hấp dẫn nhờ tăng trưởng nhanh và tiếp xúc đáng kể với dòng vốn tư nhân quốc tế dưới dạng FDI hay đầu tư danh mục.
-- Số nước FM tăng từ thập niên 1990 và tăng tốc sau khủng hoảng tài chính toàn cầu, khi nhà đầu tư quan tâm nhiều hơn tới nhóm này. Việc đưa các nước thu nhập thấp vào chỉ số EMBI Global Diversified từ năm 2009 cũng góp phần.
-- Chuỗi cú sốc từ COVID-19 làm nền tảng vĩ mô của FM xấu đi, gây vốn chảy ra, tiền mất giá, chênh lệch lợi suất tăng và khó phát hành trái phiếu mới. Áp lực đã giảm phần nào khi nhiều FM quay lại thị trường, nhưng nguy cơ mất danh hiệu FM là động cơ của bài.
-- Bài theo ba bước: dựng danh sách FM theo thời gian và so sánh đặc điểm; tìm động lực chuyển từ NFLIC sang FM; và ước lượng độ nhạy của chênh lệch lợi suất với điều kiện tài chính toàn cầu cùng vai trò của đặc điểm cơ cấu.
+**Nguồn gốc khái niệm.** Khái niệm thị trường cận biên ra đời năm 1992, do Farida Khambata ở Ngân hàng Thế giới đặt ra, tức khoảng ba thập kỷ trước. Nó dùng để ghi nhận đặc điểm riêng của những nước thu nhập thấp tiến bộ hơn, hội nhập sâu hơn vào hệ thống kinh tế và tài chính toàn cầu so với các nước cùng nhóm. Được xem là FM là một tín hiệu: nước đó đang trở thành điểm đến hấp dẫn nhờ tăng trưởng nhanh, và đã tiếp xúc đáng kể với dòng vốn tư nhân quốc tế dưới dạng đầu tư trực tiếp nước ngoài (FDI) hay đầu tư danh mục. Vị trí của FM có thể hình dung như sau:
+
+| Nhóm | Đặc điểm |
+|---|---|
+| Nước thu nhập thấp chưa phải FM (NFLIC) | ít hội nhập tài chính toàn cầu |
+| Thị trường cận biên (FM) | đang hội nhập; được ví như "ngọn hải đăng lạc quan" |
+| Thị trường mới nổi (EM) | hội nhập đầy đủ |
+
+**Bùng nổ sau 2008.** Số nước FM tăng từ thập niên 1990 và tăng tốc sau khủng hoảng tài chính toàn cầu 2008, khi lãi suất ở các nước phát triển xuống rất thấp và nhà đầu tư đi tìm lợi suất cao hơn. Tới 2022, có 23 nước thu nhập thấp đang phát triển đã phát hành trái phiếu trên thị trường quốc tế. Các chỉ số chuyên cho nhóm này ra đời, như J.P. Morgan NexGen, S&P Frontier BMI và FTSE Frontier. Việc đưa các nước thu nhập thấp vào chỉ số trái phiếu EMBI Global Diversified từ năm 2009 cũng góp phần, vì các quỹ bám theo chỉ số buộc phải mua trái phiếu của những nước có trong chỉ số.
+
+**Chuỗi cú sốc từ COVID-19.** Sau đại dịch là chiến tranh Ukraine, giá năng lượng và lương thực tăng, lãi suất ở các nước phát triển tăng, kiều hối và viện trợ giảm. Nền tảng vĩ mô của FM xấu đi: vốn chảy ra, tiền mất giá, chênh lệch lợi suất tăng, và việc phát hành trái phiếu mới trở nên rất khó. Nhiều FM đã phải nhờ tới chương trình của IMF.
+
+**Phục hồi một phần.** Trong 2024–2025, áp lực giảm phần nào. Benin, Côte d'Ivoire, Senegal, Kenya, Cameroon và Uzbekistan quay lại thị trường Eurobond, tổng cộng 7,7 tỷ USD năm 2024; Honduras phát hành 700 triệu USD; Kyrgyzstan lần đầu phát hành, khoảng 700 triệu USD năm 2025. Nhưng nguy cơ mất danh hiệu FM vẫn còn, và đó là động cơ của bài: điều gì giúp một nước trở thành FM, và điều gì giúp nó giữ được danh hiệu?
+
+**Ba bước của bài.** Thứ nhất, dựng danh sách FM thay đổi theo thời gian và so sánh đặc điểm của FM với các nhóm khác. Thứ hai, tìm động lực khiến một nước chuyển từ NFLIC thành FM. Thứ ba, ước lượng độ nhạy của chênh lệch lợi suất trước điều kiện tài chính toàn cầu, và vai trò của các đặc điểm cơ cấu trong việc giảm độ nhạy đó.
 
 ### 2. Vị trí trong tài liệu
 
-- Về tiếp cận thị trường, bài xét cả yếu tố đẩy và kéo, nhưng với khái niệm rộng hơn là danh hiệu FM. Kết quả bổ sung cho các nghiên cứu cho thấy vị thế tài khoá và đối ngoại mạnh, thể chế vững, tăng trưởng tốt và xếp hạng tín nhiệm thuận lợi làm tăng khả năng tiếp cận thị trường quốc tế. Một số nghiên cứu khác lại thấy yếu tố đẩy toàn cầu quan trọng với phát hành trái phiếu; nghiên cứu gần đây về nước thu nhập thấp cho thấy yếu tố kéo quan trọng hơn với FDI, còn yếu tố đẩy quan trọng hơn với dòng vốn danh mục.
-- Về phản ứng của lợi suất, tài liệu cho thấy yếu tố toàn cầu như thanh khoản và lây lan có vai trò lớn với lợi suất EM, và chính sách tiền tệ Mỹ tác động lên lợi suất EM qua kênh dòng vốn. Đóng góp của bài là cho thấy FM phản ứng không khác EM, trái với nhận thức phổ biến.
-- Phương pháp xác định FM gần với Abidi và cộng sự (2016), nhưng họ tập trung vào động thái dòng vốn còn bài này tập trung vào yếu tố quyết định chuyển đổi và phản ứng với điều kiện tài chính toàn cầu.
+**Về tiếp cận thị trường.** Các nghiên cứu trước đã xét cả yếu tố đẩy và yếu tố kéo đối với việc một nước có vay được trên thị trường quốc tế hay không. Bài này dùng khái niệm rộng hơn là danh hiệu FM. Kết quả của bài bổ sung cho nhóm nghiên cứu cho thấy vị thế tài khoá và đối ngoại mạnh, thể chế vững, tăng trưởng tốt và xếp hạng tín nhiệm thuận lợi làm tăng khả năng tiếp cận thị trường quốc tế. Một số nghiên cứu khác lại thấy yếu tố đẩy toàn cầu quan trọng đối với việc phát hành trái phiếu. Nghiên cứu gần đây về nước thu nhập thấp cho thấy yếu tố kéo quan trọng hơn với FDI, còn yếu tố đẩy quan trọng hơn với dòng vốn danh mục.
+
+**Về phản ứng của lợi suất.** Tài liệu hiện có cho thấy các yếu tố toàn cầu như thanh khoản và lây lan có vai trò lớn với lợi suất trái phiếu EM, và chính sách tiền tệ Mỹ tác động lên lợi suất EM qua kênh dòng vốn. Đóng góp của bài là chỉ ra rằng FM phản ứng không khác EM, trái với nhận thức phổ biến rằng FM mong manh hơn hẳn.
+
+**Về phương pháp xác định FM.** Cách làm của bài gần với Abidi và cộng sự (2016). Khác biệt là nhóm đó tập trung vào động thái của dòng vốn, còn bài này tập trung vào yếu tố quyết định việc chuyển đổi và phản ứng với điều kiện tài chính toàn cầu.
 
 ### 3. Xác định FM
 
-- Không có định nghĩa FM được thống nhất. Chỉ số của tổ chức xếp hạng và tổ chức tài chính dựa trên độ sâu tài chính, quy mô, thanh khoản và cấu trúc thị trường, nhưng thiếu minh bạch và dùng phán đoán. Định nghĩa dựa trên việc từng phát hành trái phiếu thì không đổi theo thời gian và có thể xếp nhầm do một lần phát hành lẻ.
-- Báo cáo LIDC năm 2014 của IMF dùng năm chỉ số tài chính phản ánh độ sâu, độ mở và năng lực phát hành quốc tế, nhưng không xét nền tảng vĩ mô. Bài xây dựng từ cách này để có chuỗi thời gian hằng năm.
-- Mẫu được chọn rộng để tránh bỏ sót. Một nước là FM trong một năm nếu đạt ít nhất bốn trên năm tiêu chí, so sánh bình quân ba năm với nhóm EM theo phân loại của Triển vọng Kinh tế Thế giới.
-- Vốn hoá thị trường và tiếp cận thị trường là hai tiêu chí tương quan mạnh nhất với danh hiệu FM.
+**Vấn đề với các định nghĩa hiện có.** Không có một định nghĩa FM được thống nhất, và mỗi cách hiện có đều có nhược điểm:
+
+| Cách xác định | Nhược điểm |
+|---|---|
+| Chỉ số của ngân hàng đầu tư và tổ chức xếp hạng (dựa trên độ sâu tài chính, quy mô, thanh khoản, cấu trúc thị trường) | thiếu minh bạch, dùng phán đoán, khó lùi về trước 2000 |
+| "Đã từng phát hành trái phiếu quốc tế" (Da Silva và cộng sự, 2021) | không thay đổi theo thời gian; một lần phát hành lẻ cũng được tính, nên dễ xếp nhầm |
+| Báo cáo về các nước thu nhập thấp đang phát triển (LIDC) của IMF năm 2014 | dùng năm chỉ số tài chính rõ ràng về độ sâu, độ mở và năng lực phát hành quốc tế, nhưng chỉ cho năm 2014, không cập nhật, và không xét nền tảng vĩ mô |
+
+**Cách của bài: mở rộng tiêu chí năm 2014 thành một chuỗi theo năm.** Mẫu được chọn rộng để tránh bỏ sót, gồm 87 nước: 69 nước đủ điều kiện vay ưu đãi từ Quỹ Tăng trưởng và Giảm nghèo (PRGT) năm 2023, cộng 18 nước từng là LIDC hoặc từng có tên trong một chỉ số FM. Với mỗi năm, các chỉ số được tính bình quân trượt 3 năm và so với nhóm EM cùng năm (EM theo phân loại của Triển vọng Kinh tế Thế giới). Năm tiêu chí là:
+
+| Tiêu chí | Điều kiện đạt |
+|---|---|
+| 1. Tiền rộng M2 trên GDP | vượt cận dưới của dải một độ lệch chuẩn quanh bình quân nhóm EM |
+| 2. Vay và tiền gửi xuyên biên giới (số liệu BIS) | như trên |
+| 3. Vốn hoá thị trường cổ phiếu trên GDP | như trên, hoặc nước đó có tên trong một chỉ số FM |
+| 4. Dòng vốn danh mục vào trên GDP | như trên |
+| 5. Phát hành trái phiếu chính phủ | có phát hành ra nước ngoài trong năm nay và hai năm trước, hoặc có xếp hạng tín nhiệm trên BB− |
+
+Một nước được coi là FM trong một năm nếu đạt ít nhất 4 trên 5 tiêu chí.
+
+**Kết quả phân loại.** Bài có 369 quan sát nước-năm là FM (khoảng 14,13% mẫu), 1.921 quan sát NFLIC và 320 quan sát EM. Mức tương quan của từng tiêu chí với biến FM như sau:
+
+| Tiêu chí | Tương quan với biến FM |
+|---|---|
+| Tiếp cận thị trường | 0,52 |
+| Vốn hoá thị trường cổ phiếu | 0,47 |
+| Phát hành trái phiếu | 0,40 |
+| Xếp hạng tín nhiệm | 0,34 |
+| Tiền rộng | 0,17 |
+| Dòng vốn danh mục | 0,14 |
+| Vay và tiền gửi xuyên biên giới | 0,13 |
+
+Như vậy vốn hoá thị trường và tiếp cận thị trường là hai tiêu chí quyết định nhất.
+
+**Kiểm tra với danh sách năm 2014.** Cho năm 2014, phân loại của bài khớp 13 trong 14 FM của báo cáo LIDC (chỉ trừ Côte d'Ivoire), và thêm một số nước: Honduras, Lào, Ethiopia, Guinea-Bissau, Lesotho, Georgia.
+
+**Hai định nghĩa thay thế để kiểm tra độ vững.** Định nghĩa thứ nhất bỏ tiêu chí dòng vốn danh mục, và xếp FM khi đạt 3 trên 4 tiêu chí còn lại; thay đổi này chủ yếu ảnh hưởng các quốc đảo nhỏ và nước đang phát triển. Định nghĩa thứ hai chỉ dựa vào việc phát hành nợ quốc tế, nên loại một vài nước thiếu xếp hạng BB− hoặc không có tiếp cận thị trường.
 
 ### 4. Phân tích mô tả
 
-- FM có nền tảng vĩ mô mạnh hơn NFLIC và EM: tăng trưởng cao hơn, nợ công và lạm phát thấp hơn.
-- FM có thâm hụt tài khoá lớn hơn và FDI cao hơn, cả hai cùng hỗ trợ tổng cầu.
-- FM có chỉ số quản trị tốt hơn NFLIC, nhất là hiệu quả chính phủ và chất lượng pháp quy, nhưng không khác về ổn định chính trị và kiểm soát tham nhũng.
-- Các chỉ số then chốt, nhất là tăng trưởng, cải thiện trước khi chuyển thành FM. Thâm hụt thu hẹp trước khi chuyển rồi mở rộng sau đó, dẫn tới nợ công tăng. Bài giải thích bằng việc nhà đầu tư quan tâm tới nước thận trọng tài khoá, rồi tiếp cận vốn dễ dàng hơn sau chuyển đổi lại làm thâm hụt rộng ra.
-- Tăng trưởng của FM biến động hơn, sụt mạnh hơn sau khủng hoảng tài chính và COVID, cho thấy nguồn dễ tổn thương có thể đến từ mức tiếp xúc cao với cú sốc toàn cầu.
+**Các nước đổi trạng thái, 1993–2022.** Nhiều nước thành FM sau 2008, khi các nước phát triển nới lỏng tiền tệ; ví dụ Honduras năm 2013, Ethiopia năm 2014 sau lần đầu phát hành trái phiếu. Khoảng năm 2016, Việt Nam, Nigeria, Mông Cổ và Bolivia lên nhóm EM. Ngược lại, có những nước rớt từ FM về nhóm thu nhập thấp, như Zambia, Lesotho, Cabo Verde, và Ethiopia về sau. Một nước có thu nhập khá nhưng tiếp cận thị trường kém thì không được xếp là FM. Thời gian ở lại nhóm FM dài hay ngắn không liên quan tới việc nước đó có lên được EM hay không.
+
+**FM khác gì các nhóm còn lại** (bình quân các nhóm; AE là nền kinh tế phát triển):
+
+| Chỉ tiêu | NFLIC | FM | EM | AE |
+|---|---|---|---|---|
+| Tăng trưởng (%) | 3,55 | 5,35 | 3,14 | 2,45 |
+| FDI (% GDP) | 3,21 | 3,76 | 3,28 | 0,55 |
+| Cán cân tài khoá (% GDP) | −2,43 | −3,27 | −2,03 | −1,97 |
+| Cán cân vãng lai (% GDP) | −4,34 | −4,18 | −1,38 | 1,56 |
+| Dự trữ (số tháng nhập khẩu) | 4,21 | 4,66 | 6,12 | 3,82 |
+| Nợ công (% GDP) | 59,85 | 51,58 | 49,22 | 67,69 |
+| Lạm phát (%) | 40,41 | 7,25 | 62,39 | 2,23 |
+| Chỉ số quản trị WGI bình quân | 0,38 | 0,40 | 0,50 | 0,77 |
+| Hiệu quả chính phủ | 0,34 | 0,40 | 0,49 | 0,79 |
+| Chất lượng pháp quy | 0,35 | 0,41 | 0,50 | 0,78 |
+| Ổn định chính trị | 0,49 | 0,48 | 0,56 | 0,72 |
+| Kiểm soát tham nhũng | 0,37 | 0,38 | 0,47 | 0,79 |
+
+Bảng cho thấy ba đặc điểm:
+
+1. **Nền tảng vĩ mô mạnh.** FM tăng trưởng cao hơn cả NFLIC lẫn EM (5,35% so với 3,55% và 3,14%), nợ công thấp hơn NFLIC, và lạm phát thấp hơn nhiều.
+2. **Nhưng thâm hụt tài khoá lớn hơn** (−3,27% GDP, lớn nhất trong bốn nhóm) và FDI cao hơn. Cả hai cùng hỗ trợ tổng cầu, tức góp phần vào mức tăng trưởng cao.
+3. **Quản trị tốt hơn NFLIC ở hai mặt cụ thể**: hiệu quả chính phủ (0,40 so với 0,34) và chất lượng pháp quy (0,41 so với 0,35). Về ổn định chính trị và kiểm soát tham nhũng thì FM không khác NFLIC.
+
+Lưu ý: lạm phát bình quân của NFLIC và EM bị bóp méo bởi các đợt siêu lạm phát, ví dụ Venezuela trên 65.374% năm 2018, và có 24 lần một nước EM có lạm phát vượt 500% trong một năm. Vì vậy con số 40,41% và 62,39% không phản ánh một nước điển hình.
+
+**Trước và sau năm chuyển đổi.** Bài theo dõi các chỉ tiêu quanh năm t, năm một nước thành FM (chỉ tính là chuyển đổi nếu nước đó đã là NFLIC ít nhất 3 năm trước đó). Các số dưới đây là ước đọc từ biểu đồ:
+
+| Chỉ tiêu | Trước năm t | Sau năm t |
+|---|---|---|
+| Tăng trưởng | tăng dần, tới khoảng 6% tại năm t | biến động mạnh |
+| FDI (% GDP) | tăng từ khoảng 3,8 lên khoảng 5,5 | giữ ở khoảng 5,5–6 |
+| Cán cân tài khoá (% GDP) | cải thiện, lên khoảng −1,7 tại năm t | xấu đi, khoảng −3,3 ở năm t+3 |
+| Nợ công (% GDP) | ổn định quanh 45% | tăng lên khoảng 59% ở năm t+3 |
+
+Nghĩa là các chỉ tiêu then chốt, nhất là tăng trưởng, cải thiện trước khi chuyển thành FM. Thâm hụt thu hẹp trước khi chuyển rồi mở rộng sau đó, kéo theo nợ công tăng khoảng 14 điểm phần trăm GDP trong ba năm. Cách giải thích của bài: trước năm chuyển đổi, nhà đầu tư quốc tế quan tâm tới những nước thận trọng về tài khoá; sau năm chuyển đổi, tiếp cận vốn bên ngoài dễ hơn nên thâm hụt rộng ra.
+
+**Tăng trưởng của FM biến động hơn**, sụt mạnh hơn sau khủng hoảng tài chính 2008 và sau COVID. Điều này cho thấy nguồn dễ tổn thương của FM có thể đến từ chính mức tiếp xúc cao với các cú sốc toàn cầu.
+
+**Thời điểm FM hấp dẫn nhà đầu tư.** FM thu hút nhà đầu tư chủ yếu sau 2013, nhờ lợi suất cao, lãi suất ở các nước phát triển thấp, và viện trợ phát triển lớn từ Trung Quốc. FM có thâm hụt cao hơn các nhóm khác từ 2009, và nợ cao hơn từ 2015.
 
 ### 5. Động lực chuyển thành FM
 
-- Tăng trưởng mạnh hơn, nợ công thấp hơn và hiệu quả chính phủ tốt hơn làm tăng xác suất chuyển thành FM.
-- Chương trình GRA của IMF có hệ số dương nhưng hầu như không có ý nghĩa thống kê.
-- Hiệu quả chính phủ có vẻ là tín hiệu hiệu quả hơn các thước đo quản trị khác; ngoài nó chỉ có chất lượng pháp quy là có ý nghĩa.
-- Không có mối liên hệ chắc chắn giữa yếu tố đẩy và việc chuyển thành FM, nhất quán với phát hiện rằng danh hiệu FM có tính bền.
+**Mô hình.** Bài ước lượng xác suất để một nước đang là NFLIC ở năm t−1 trở thành FM ở năm t (phương trình thứ 2 của bài). Xác suất này phụ thuộc vào bốn nhóm yếu tố, mỗi nhóm có hệ số riêng (β₁ tới β₄):
+
+| Nhóm yếu tố | Biến cụ thể |
+|---|---|
+| Vĩ mô | tăng trưởng, FDI, cán cân tài khoá, cán cân vãng lai, dự trữ, nợ công, lạm phát (bình quân trượt 3 năm, lấy trễ 1 năm) |
+| Quản trị | hiệu quả chính phủ (WGI) |
+| Chương trình IMF | có chương trình vay thông thường (GRA) hoặc vay ưu đãi (PRGT) trong 3 năm trước |
+| Yếu tố đẩy | chỉ số VIX, lãi suất bóng Krippner của Mỹ |
+
+Bài dùng cả mô hình tuyến tính và mô hình probit, trên 930 quan sát.
+
+**Kết quả** (hiệu ứng biên; cột tuyến tính và cột probit):
+
+| Biến | Tuyến tính | Probit |
+|---|---|---|
+| Tăng trưởng | 0,003\*\*\* | 0,004\*\* |
+| Nợ công | −0,0001\* | −0,0005\* |
+| Hiệu quả chính phủ | 0,096\* | 0,159\*\*\* |
+| Chương trình GRA | 0,076 | 0,033\* |
+| Chương trình PRGT | −0,008 | 0,0001 |
+| VIX | −0,001 | −0,001 |
+| Lãi suất bóng | −0,002 | −0,002 |
+
+Đọc bảng: tăng trưởng mạnh hơn, nợ công thấp hơn và hiệu quả chính phủ tốt hơn đều làm tăng xác suất chuyển thành FM. Chương trình GRA của IMF có hệ số dương nhưng hầu như không có ý nghĩa thống kê. Hai yếu tố đẩy toàn cầu, VIX và lãi suất bóng, nhìn chung không có ý nghĩa (chỉ có ý nghĩa trong mô hình có hiệu ứng cố định theo nước). Kết luận: yếu tố kéo trong nước quyết định. Việc không có mối liên hệ chắc chắn giữa yếu tố đẩy và việc thành FM cũng nhất quán với phát hiện rằng danh hiệu FM có tính bền: một khi đã đạt, nó không lên xuống theo chu kỳ tài chính toàn cầu.
+
+**Thước đo quản trị nào quan trọng.** Khi thay hiệu quả chính phủ bằng các chỉ số quản trị khác, chỉ có hiệu quả chính phủ và chất lượng pháp quy có ý nghĩa ổn định. Chỉ số WGI bình quân, ổn định chính trị, pháp quyền, kiểm soát tham nhũng, tiếng nói và trách nhiệm giải trình đều không có ý nghĩa. Bài kết luận hiệu quả chính phủ là "tín hiệu" tốt nhất cho nhà đầu tư, tốt hơn các thước đo quản trị khác.
+
+**Kiểm tra độ vững với hai định nghĩa FM thay thế.** Chỉ có hiệu quả chính phủ giữ vững, với hệ số từ 0,195 tới 0,381 và có ý nghĩa cao ở hầu hết các cột. Tăng trưởng, nợ công và chương trình IMF thay đổi theo định nghĩa. Với định nghĩa thứ hai, VIX có hệ số âm và có ý nghĩa, và chương trình GRA có hệ số dương và có ý nghĩa. Với các định nghĩa thay thế, chỉ số WGI bình quân, chất lượng pháp quy và chỉ số Đánh giá Chính sách và Thể chế Quốc gia (CPIA) của Ngân hàng Thế giới cũng có ý nghĩa.
 
 ### 6. Độ nhạy với chính sách tiền tệ Mỹ
 
-- Thước đo điều kiện tài chính toàn cầu là thay đổi của lãi suất bóng Krippner của Mỹ, phản ánh cả chính sách thông thường lẫn không thông thường.
-- Chênh lệch lợi suất của FM và EM nhạy tương tự nhau và tăng sau khi Mỹ thắt chặt, phù hợp với kênh dòng vốn: khi lãi suất nước phát triển thấp, nhà đầu tư tìm lợi suất ở EM, làm tăng cầu trái phiếu và giảm lợi suất; khi Mỹ thắt chặt thì ngược lại.
-- Khác biệt giữa FM và EM nhỏ, cho thấy phản ứng với biến động thị trường không khác nhau đáng kể khi cả hai cùng có tiếp cận thị trường. Phản ứng của NFLIC không có ý nghĩa thống kê.
+**Thước đo.** Điều kiện tài chính toàn cầu được đo bằng thay đổi của lãi suất bóng Krippner của Mỹ, vì nó phản ánh cả chính sách tiền tệ thông thường lẫn không thông thường.
+
+**Mô hình** (phương trình thứ 3 của bài). Bài dùng phép chiếu địa phương theo quý. Biến được giải thích là thay đổi của chênh lệch lợi suất sau h quý. Biến giải thích chính là thay đổi của lãi suất bóng Mỹ, với hệ số β ước lượng riêng cho từng nhóm FM, NFLIC và EM. Các biến kiểm soát gồm thay đổi chênh lệch lợi suất kỳ trước, VIX, tăng trưởng, cán cân tài khoá, nợ công và hiệu ứng cố định theo nước. Mẫu gồm 76 nước, giai đoạn từ quý 2/2012 tới quý 4/2022, với số liệu chênh lệch lợi suất từ cơ sở dữ liệu Sovereign Spread Monitor.
+
+**Kết quả: phản ứng tích luỹ của chênh lệch lợi suất** (điểm, sau một cú sốc thắt chặt của Mỹ; ước đọc từ đồ thị):
+
+| Số quý sau cú sốc | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| FM | khoảng 0,4 | khoảng 0,55 | khoảng 0,65 | khoảng 0,6 | khoảng 0,85 |
+| EM | khoảng 0,35 | khoảng 0,6 | khoảng 0,6 | khoảng 0,5 | khoảng 1,15 |
+| NFLIC | khoảng tin cậy rất rộng, không có ý nghĩa | | | | |
+
+FM và EM phản ứng gần như y hệt. Khác biệt giữa hai nhóm nhỏ, cho thấy khi đã cùng có tiếp cận thị trường, phản ứng của hai nhóm với biến động thị trường không khác nhau đáng kể. Điều này trái với hình dung phổ biến rằng FM mong manh hơn EM.
+
+**Cơ chế: kênh dòng vốn.** Khi lãi suất ở các nước phát triển thấp, nhà đầu tư đi tìm lợi suất ở các thị trường mới nổi và cận biên, làm tăng cầu trái phiếu và giảm lợi suất ở đó. Khi Mỹ thắt chặt thì ngược lại: vốn rút khỏi, cầu trái phiếu giảm, chênh lệch lợi suất tăng. Vì cả FM và EM đều có tiếp cận thị trường, cả hai cùng chịu kênh này.
+
+**NFLIC không phản ứng có ý nghĩa.** Có hai lý do: phần bù rủi ro của nhóm này vốn đã cao, và mẫu rất không đồng nhất.
+
+**Kiểm tra độ vững.** Khi dùng hai định nghĩa FM thay thế, và khi thay số liệu Sovereign Spread Monitor bằng chênh lệch lợi suất theo chỉ số EMBIG, kết quả phần lớn nhất quán với kết quả cơ sở.
 
 ### 7. Vai trò của đặc điểm cơ cấu
 
-- Với FM, tỷ giá thả nổi, dự trữ lớn, nợ công thấp và thâm hụt nhỏ đi kèm phản ứng yếu hơn hẳn. Khi dự trữ cao, độ nhạy gần bằng không; khi nợ công cao, phản ứng lớn và có ý nghĩa.
-- Cơ cấu xuất khẩu đa dạng hơn cũng làm giảm tác động. Nước xuất khẩu dầu phản ứng ít hơn nước nhập khẩu dầu, trừ quý đầu, có thể nhờ đệm tích luỹ từ nguồn thu dầu.
-- Với EM, các đặc điểm này cũng quan trọng nhưng yếu hơn, cho thấy nền tảng vĩ mô và đệm tài chính quan trọng hơn với FM.
+**Mô hình** (phương trình thứ 4 của bài). Bài chia FM thành hai nhóm theo từng đặc điểm, bằng một biến giả d: với tỷ giá, d = 1 nếu thả nổi; với dầu, d = 1 nếu là nước xuất khẩu dầu; với các đặc điểm còn lại, d = 1 nếu nước đó ở trên trung vị. Sau đó so sánh phản ứng của hai nhóm.
+
+**Kết quả cho FM** (phản ứng tích luỹ của chênh lệch lợi suất sau 5 quý, ước đọc):
+
+| Đặc điểm | Nhóm tốt | Nhóm yếu |
+|---|---|---|
+| Tỷ giá | thả nổi: khoảng 0 | không thả nổi: khoảng 1,0 |
+| Dự trữ ngoại hối | lớn: khoảng 0,2–0,6 | thấp: khoảng 1,1–1,4 |
+| Nợ công | thấp: khoảng 0 | cao: khoảng 1,5–1,7 |
+| Cán cân tài khoá | tốt: khoảng 0 | yếu: khoảng 1,8 |
+| Xuất khẩu | đa dạng: khoảng 0,2 | tập trung: khoảng 1,3–1,6 |
+| Dầu | xuất khẩu dầu: khoảng 0,15 | nhập khẩu dầu: khoảng 0,8 |
+
+Với FM, tỷ giá thả nổi, dự trữ lớn, nợ công thấp và thâm hụt nhỏ đi kèm phản ứng yếu hơn hẳn. Khi dự trữ cao, độ nhạy gần bằng không; khi nợ công cao, phản ứng lớn và có ý nghĩa.
+
+**Cơ chế của từng tấm đệm:**
+
+- **Tỷ giá thả nổi:** khi vốn chảy vào, đồng tiền lên giá, làm giảm cầu trái phiếu; nhờ tỷ giá tự điều chỉnh theo dòng vốn, một phần cú sốc được hấp thụ thay vì dồn hết lên chênh lệch lợi suất.
+- **Dự trữ ngoại hối:** dự trữ thấp làm nhà đầu tư giảm niềm tin vào khả năng chống sốc của nước đó.
+- **Nợ công và thâm hụt thấp:** dư địa tài khoá giúp chính phủ che chắn thị trường tài chính trong nước khi có cú sốc.
+- **Đa dạng hoá xuất khẩu:** tạo đệm trước dao động thương mại, vì một mặt hàng giảm giá không kéo cả nền kinh tế xuống.
+- **Xuất khẩu dầu:** nước xuất khẩu dầu phản ứng ít hơn nước nhập khẩu dầu, có thể nhờ đã tích luỹ đệm từ nguồn thu dầu; riêng trong quý đầu tiên, hai nhóm phản ứng như nhau.
+
+**So với EM.** Với EM, các đặc điểm này cũng quan trọng nhưng yếu hơn. Nợ công, dự trữ, đa dạng xuất khẩu và nhập khẩu dầu vẫn tạo khác biệt rõ. Nhưng với EM, tỷ giá thả nổi không làm phản ứng nhỏ đi: nhóm EM thả nổi có phản ứng lên tới khoảng 2,7 sau 5 quý. Cán cân tài khoá cũng không tách hai nhóm EM một cách rõ ràng. Kết luận của bài: nền tảng vĩ mô và các tấm đệm tài chính quan trọng hơn với FM so với EM.
 
 ### 8. Kết luận và hàm ý chính sách
 
-- Trở thành FM là cột mốc lớn, mở ra nguồn vốn bên ngoài ổn định hơn, nhất là vốn tư nhân quốc tế có thể đẩy nhanh tăng trưởng và phát triển.
-- Để thành FM, nền tảng kinh tế và chất lượng thể chế là then chốt; yếu tố đẩy bên ngoài ít quan trọng.
-- Để giữ danh hiệu, cần khả năng chống chịu cú sốc bên ngoài. Độ nhạy ngang EM cho thấy tiếp cận thị trường của FM mong manh. Nhiều FM đã phải nhờ tới chương trình IMF sau COVID-19.
-- Vì thâm hụt và nợ công thường tăng sau khi thành FM, chính sách tài khoá thận trọng, tăng huy động thu, quy tắc tài khoá đáng tin cậy và khuôn khổ trung hạn đặc biệt quan trọng để neo niềm tin nhà đầu tư. Con đường lên EM đòi hỏi cam kết liên tục với xây dựng đệm, cải cách cơ cấu và nâng cấp thể chế.
+**Giá trị của danh hiệu.** Trở thành FM là một cột mốc lớn. Nó mở ra nguồn vốn bên ngoài ổn định hơn, nhất là vốn tư nhân quốc tế, thứ có thể đẩy nhanh tăng trưởng và phát triển. Như bài viết, danh hiệu FM là bậc thang trên con đường từ nước thu nhập thấp lên thị trường mới nổi.
+
+**Để thành FM:** nền tảng kinh tế và chất lượng thể chế là then chốt, đặc biệt là hiệu quả chính phủ. Yếu tố đẩy bên ngoài ít quan trọng.
+
+**Để giữ danh hiệu:** cần khả năng chống chịu cú sốc bên ngoài. Độ nhạy của chênh lệch lợi suất FM với chính sách tiền tệ Mỹ ngang EM cho thấy tiếp cận thị trường của FM mong manh. Nhiều FM đã phải nhờ tới chương trình IMF sau COVID-19, và các ví dụ rớt hạng cho thấy không thể coi việc giữ danh hiệu là đương nhiên.
+
+**Cảnh giác sau khi lên hạng.** Vì thâm hụt và nợ công thường tăng sau khi thành FM, các chính sách sau đặc biệt quan trọng để neo niềm tin của nhà đầu tư: chính sách tài khoá thận trọng, tăng huy động thu ngân sách, quy tắc tài khoá đáng tin cậy, và khuôn khổ tài khoá trung hạn. Con đường từ FM lên EM đòi hỏi cam kết liên tục với việc xây dựng các tấm đệm (dự trữ, dư địa tài khoá, tỷ giá linh hoạt, xuất khẩu đa dạng), cải cách cơ cấu và nâng cấp thể chế.
 
 ## Thuật ngữ
 

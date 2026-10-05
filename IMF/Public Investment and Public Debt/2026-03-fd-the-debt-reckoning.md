@@ -307,59 +307,265 @@
 2. Các nước cần điều chỉnh bao nhiêu để ổn định nợ, và có những con đường nào: kỷ luật và cải cách, lạm phát có kiểm soát, hay hạ cánh cứng?
 3. Những rủi ro nào nằm trong cấu trúc của nợ, từ thị trường Trái phiếu Kho bạc Mỹ, bất bình đẳng, tới nợ trong nước ở châu Phi, và làm sao xây niềm tin để cải cách khả thi?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Nợ công trên GDP (public debt to GDP).** Tổng số tiền chính phủ đang nợ, chia cho tổng sản lượng một năm của nền kinh tế. Chia cho GDP là để so sánh được giữa các nước và giữa các năm: một khoản nợ 1.000 tỷ đô la là rất lớn với một nước nhỏ nhưng bình thường với một nước lớn. Ví dụ trong bài: nợ công toàn cầu là 93,9% GDP năm 2025, tức là nếu toàn thế giới dồn gần trọn một năm sản lượng thì mới trả hết nợ công. Đây là con số mở đầu của cả số tạp chí, và vượt 100% vào 2028 là mức chưa từng có trong thời bình.
+
+**Cán cân sơ cấp (primary balance).** Thu ngân sách trừ chi ngân sách, nhưng không tính khoản trả lãi. Nếu dương gọi là thặng dư sơ cấp, nếu âm gọi là thâm hụt sơ cấp. Ví dụ minh hoạ: chính phủ thu 40, chi cho mọi việc (trừ lãi) 38, trả lãi 4. Cán cân sơ cấp là +2, nhưng cán cân tổng thể là −2. Khái niệm này quan trọng vì nó là phần chính phủ tự quyết được qua thuế và chi tiêu; bài của Darvas và Zettelmeyer đo mức "điều chỉnh" cần làm bằng chính chỉ tiêu này. Bản *điều chỉnh theo chu kỳ* (cyclically adjusted) còn loại thêm phần thu chi tăng giảm chỉ vì kinh tế đang bùng nổ hay suy thoái.
+
+**Lãi suất so với tăng trưởng.** Nợ trên GDP tự tăng lên nếu lãi suất phải trả cao hơn tốc độ tăng của GDP danh nghĩa, và tự giảm nếu ngược lại. Ví dụ minh hoạ: nợ bằng 100% GDP, lãi suất 4%, GDP danh nghĩa tăng 3%; nếu cán cân sơ cấp bằng 0, sau một năm nợ thành khoảng 101% GDP. Muốn giữ nợ đứng yên thì phải có thặng dư sơ cấp khoảng 1% GDP. Đây là lý do số tạp chí nói tình hình nghiêm trọng hơn trước: lãi suất đã tăng gấp 2–3 lần trong thời gian ngắn, còn tăng trưởng không đổi.
+
+**Áp chế tài chính (financial repression).** Những biện pháp buộc người tiết kiệm cho chính phủ vay rẻ hơn mức thị trường, ví dụ trần lãi suất tiền gửi, buộc ngân hàng giữ trái phiếu chính phủ, hạn chế đưa tiền ra nước ngoài. Ví dụ minh hoạ: nếu lạm phát 5% mà lãi suất trái phiếu bị giữ ở 2%, người nắm trái phiếu mất khoảng 3% sức mua mỗi năm và khoản đó chuyển sang người đi vay là nhà nước. Bài nhắc tới nó như một lối thoát có giới hạn trong kịch bản "hạ cánh cứng" và như một cám dỗ khi nợ cao.
+
+**Hậu thuẫn tài khoá và lạm phát tài khoá (fiscal backing, fiscal inflation).** Khi ngân hàng trung ương tăng lãi suất, gánh nặng lãi của chính phủ tăng. Nếu chính phủ tăng thặng dư sơ cấp để trả, chính sách tiền tệ có "hậu thuẫn tài khoá" và lạm phát giảm. Nếu chính phủ không làm vậy, giá cả sẽ tăng cho tới khi giá trị thực của khối nợ cũ khớp với số thặng dư mà người ta kỳ vọng chính phủ sẽ có; lạm phát sinh ra theo đường đó gọi là lạm phát tài khoá. Ví dụ minh hoạ: nợ danh nghĩa 100, nhưng người ta chỉ tin chính phủ sẽ có thặng dư đủ trả 90 theo giá thực; giá cả sẽ phải tăng khoảng 11% để giá trị thực của nợ còn 90. Đây là khung lý thuyết của bài Corsetti và Melosi.
+
+**Repo và giao dịch chênh lệch cơ sở (basis trade).** Repo là khoản vay ngắn hạn có tài sản bảo đảm: bên vay đưa trái phiếu làm thế chấp, nhận tiền mặt, và cam kết mua lại trái phiếu sau một thời gian ngắn. Giao dịch chênh lệch cơ sở là việc quỹ phòng hộ mua trái phiếu, đồng thời bán hợp đồng tương lai trên chính trái phiếu đó, để ăn một khoản chênh lệch giá rất nhỏ; vì chênh lệch nhỏ nên phải vay rất nhiều. Ví dụ trong bài: quỹ vay repo tới 99% vị thế, tức là mua 100 đồng trái phiếu chỉ với 1 đồng vốn tự có. Đòn bẩy cao như vậy là lý do khi quỹ buộc phải đóng vị thế, việc bán tháo diễn ra rất nhanh.
+
+**Dư thừa tiết kiệm và cầu dựa vào nợ (saving glut, indebted demand).** Người thu nhập cao tiêu một phần nhỏ thu nhập và tiết kiệm phần lớn. Khi thu nhập dồn về nhóm này, tổng tiết kiệm vượt nhu cầu đầu tư, nên phải có ai đó đi vay và chi tiêu thì nền kinh tế mới đủ cầu. Ví dụ minh hoạ: một người thu nhập 1 triệu đô la tiêu 300 nghìn, mười người thu nhập 100 nghìn mỗi người tiêu 90 nghìn; chuyển thu nhập từ nhóm sau sang người trước làm tổng chi tiêu giảm. Atif Mian dùng khái niệm này để giải thích vì sao nợ hộ gia đình rồi nợ công cứ tăng.
+
+**Rủi ro tái cấp vốn và vòng lặp ngân hàng–chủ quyền (rollover risk, sovereign-bank nexus).** Rủi ro tái cấp vốn là rủi ro khi khoản nợ đến hạn, chính phủ không vay mới được để trả, hoặc chỉ vay được với lãi suất rất cao. Nợ càng ngắn hạn thì phải "đảo nợ" càng thường xuyên. Ví dụ trong bài: nợ trong nước ở châu Phi cận Sahara có kỳ hạn bình quân khoảng 2 năm, nên mỗi năm khoảng một nửa khối nợ phải vay lại. Vòng lặp ngân hàng–chủ quyền xảy ra khi ngân hàng nắm nhiều trái phiếu chính phủ: chính phủ gặp khó thì ngân hàng lỗ, ngân hàng gặp khó thì chính phủ phải cứu, hai bên kéo nhau xuống.
+
+## Nội dung chi tiết
 
 ### 1. Thư biên tập
 
-- Nợ công vượt sản lượng một năm ở nhiều nền kinh tế lớn, và câu hỏi là còn bao nhiêu dư địa cho cuộc khủng hoảng tiếp theo.
-- Không có cách giảm nợ nào thanh lịch, dễ dàng hay hấp dẫn về chính trị. Nhưng sửa tài chính công không có nghĩa là thắt lưng buộc bụng bừa bãi. Người dân dễ chấp nhận cải cách đau đớn hơn nếu tin gánh nặng được chia công bằng.
-- Đổi mới công nghệ có thể giúp, nhưng không thể chờ tới ngày đó mới bắt đầu quản lý nợ khôn ngoan.
+Thư biên tập của Gita Bhatt mở đầu bằng một nhận xét: nhiều năm qua, nợ công được coi như sợi dây thun kéo mãi không đứt, vượt qua cả khủng hoảng tài chính toàn cầu lẫn đại dịch. Nay ở nhiều nền kinh tế lớn, nợ công đã vượt sản lượng của cả một năm, và câu hỏi đặt ra là còn bao nhiêu dư địa cho cuộc khủng hoảng tiếp theo.
+
+**Bức tranh chung.** Nợ công toàn cầu là 93,9% GDP năm 2025 và được dự báo vượt 100% vào 2028. Với nhiều nước phát triển, đây là mức cao nhất từng có trong thời bình. Bảng dưới đây so sánh nợ công năm 2005 và năm 2025 theo số liệu bài Dabla-Norris và Valdes (giá trị ước đọc từ biểu đồ, % GDP):
+
+| Nền kinh tế | Năm 2005 | Năm 2025 |
+|---|---|---|
+| Nhật Bản | khoảng 175 | khoảng 235 |
+| Ý | khoảng 105 | khoảng 137 |
+| Mỹ | khoảng 65 | khoảng 125 |
+| Pháp | khoảng 67 | khoảng 116 |
+| Canada | khoảng 70 | khoảng 113 |
+| Anh | khoảng 40 | khoảng 103 |
+| Trung Quốc | khoảng 26 | khoảng 96 |
+| Brazil | khoảng 67 | khoảng 91 |
+| EU | khoảng 65 | khoảng 82 |
+| Ấn Độ | khoảng 84 | khoảng 81 |
+| Đức | khoảng 66 | khoảng 63 |
+
+Trong cả nhóm, chỉ Đức (và Ấn Độ ở mức rất nhẹ) có nợ giảm. Anh gần như tăng gấp hai lần rưỡi, Trung Quốc gần gấp bốn lần.
+
+**Vì sao lúc này nghiêm trọng hơn trước.** Khối nợ lớn không phải điều mới; điều mới là cái giá của nó. Lãi suất đã tăng gấp 2–3 lần trong thời gian ngắn, trong khi tăng trưởng không tăng theo. Ở Mỹ, chi trả lãi ròng từ khoảng 2% GDP trước đại dịch lên 4,2% GDP năm 2025, vượt cả chi quốc phòng. Ở nhóm nước thu nhập thấp, tiền trả lãi đã bằng 21% thu thuế. Cùng lúc, dân số già đi: theo OECD, năm 2000 có khoảng 4 người lao động cho mỗi người hưu trí, nay còn khoảng 3, và tới 2050 chỉ còn khoảng 2. Ít người đóng góp hơn cho mỗi người nhận lương hưu và chi y tế nghĩa là áp lực chi tiêu sẽ còn tăng. Câu nói của nhà kinh tế Rudi Dornbusch được dùng làm lời cảnh báo: khủng hoảng đến chậm hơn bạn nghĩ, rồi xảy ra nhanh hơn bạn tưởng.
+
+**Thông điệp của thư.** Không có cách giảm nợ nào thanh lịch, dễ dàng hay hấp dẫn về chính trị. Nhưng sửa tài chính công không có nghĩa là thắt lưng buộc bụng bừa bãi. Người dân dễ chấp nhận cải cách đau đớn hơn nếu họ tin rằng gánh nặng được chia công bằng. Đổi mới công nghệ, chẳng hạn tăng năng suất nhờ AI, có thể giúp, nhưng không thể chờ tới ngày đó mới bắt đầu quản lý nợ một cách khôn ngoan.
 
 ### 2. Nợ cao, lựa chọn khó
 
-- Trước đại dịch, nợ đã tăng dần vì cương lĩnh chính trị ưa chi tiêu và thâm hụt, trì hoãn cải cách, tăng trưởng khiêm tốn, già hoá và ngại tăng thuế, được lãi suất siêu thấp nâng đỡ. Năm 2020, nợ tăng vọt để tránh thảm hoạ lớn hơn.
-- Nay là "hậu COVID tài khoá": lãi suất và chi phí nợ cao. Mỗi đồng vay không kèm nguồn thu tương ứng đều hàm ý thuế cao hơn hoặc chi thấp hơn trong tương lai, ít nhất để trả phần lãi tăng thêm.
-- Nợ cao thu hẹp dư địa ứng phó cú sốc, đẩy chi phí vốn lên, làm chính sách tiền tệ phức tạp hơn và tạo động cơ áp chế tài chính.
-- Các nghĩa vụ hưu trí và y tế nằm ngoài bảng cân đối sẽ lộ ra khi dân số già, thường với sức phá lớn.
-- Thiếu niềm tin tạo vòng luẩn quẩn: lãnh đạo sợ phản ứng nên trì hoãn, vấn đề nợ xấu đi, niềm tin càng giảm. Kinh nghiệm cải cách trợ cấp nhiên liệu cho thấy dù lý lẽ kinh tế rõ, việc thực hiện vẫn rất phức tạp về chính trị và xã hội.
+Bài của Era Dabla-Norris và Rodrigo Valdes giải thích nợ đã lên cao thế nào, vì sao nó gây hại, và vì sao niềm tin là điều kiện để cải cách.
+
+**Nợ tăng qua hai giai đoạn.** Trước đại dịch, nợ đã tăng dần vì nhiều lý do cộng lại: cương lĩnh chính trị ưa chi tiêu và thâm hụt, cải cách bị trì hoãn, tăng trưởng khiêm tốn, dân số già hoá và sự ngại tăng thuế. Tất cả được lãi suất siêu thấp nâng đỡ, nên vay thêm có vẻ không tốn kém. Năm 2020, nợ tăng vọt vì chính phủ phải chi mạnh để tránh một thảm hoạ kinh tế lớn hơn.
+
+Nay là giai đoạn mà các tác giả gọi là "hậu COVID tài khoá": lãi suất và chi phí nợ đều cao. Mỗi đồng vay không kèm nguồn thu tương ứng đều hàm ý thuế cao hơn hoặc chi thấp hơn trong tương lai, ít nhất là để trả phần lãi tăng thêm.
+
+**Nợ cao gây hại theo bốn cách.** Nó thu hẹp dư địa để ứng phó cú sốc tiếp theo. Nó đẩy chi phí vốn lên cho cả nền kinh tế. Nó làm chính sách tiền tệ phức tạp hơn, vì mỗi lần tăng lãi suất lại làm ngân sách khó khăn thêm. Và nó tạo động cơ cho áp chế tài chính. Ngoài ra, các nghĩa vụ hưu trí và y tế nằm ngoài bảng cân đối (nghĩa vụ ngầm) sẽ lộ ra khi dân số già, thường với sức phá lớn.
+
+**Ba đánh đổi mà cử tri và chính phủ phải đối mặt:**
+
+| Đánh đổi | Nội dung |
+|---|---|
+| Quy mô nhà nước | Người dân muốn phúc lợi kiểu Bắc Âu nhưng không muốn thuế kiểu Bắc Âu. Không thể có cả hai. |
+| Uy tín hay linh hoạt | Quy tắc tài khoá quá cứng thì buộc phải cắt chi giữa lúc suy thoái và làm suy thoái sâu hơn; bỏ mặc thâm hụt thì thị trường phản ứng. Lời giải là một điểm neo trung hạn có điều khoản thoát hiểm cho tình huống đặc biệt. |
+| Đầu tư ngay hay giữ đạn | Nước nào dùng hết sức vay lúc thuận lợi sẽ bị lộ khi khủng hoảng hoặc thiên tai tiếp theo xảy ra. |
+
+**Công bằng giữa các thế hệ.** Các tác giả dẫn Edmund Burke: xã hội là quan hệ đối tác giữa người đang sống, người đã khuất và người chưa sinh. Vấn đề là phần lớn khoản nợ gần đây được dùng để tài trợ tiêu dùng hiện tại chứ không phải đầu tư. Vay để xây đường thì thế hệ sau vừa trả nợ vừa dùng đường; vay để chi tiêu hôm nay thì thế hệ sau chỉ nhận hoá đơn.
+
+**Khảo sát về niềm tin.** Một khảo sát năm 2024 với 27.000 người ở 13 nước (Bianchi, Dabla-Norris và Khalid, 2025) cho các kết quả sau:
+
+| Phát hiện | Con số |
+|---|---|
+| Hiểu rằng tăng thuế hoặc cắt chi làm giảm thâm hụt | chỉ khoảng 42% |
+| Đánh giá thấp tỷ lệ nợ trên GDP của nước mình | hơn 60% |
+| Người tin chính phủ, so với người không tin: khả năng tin rằng chính sách ổn định được nợ | cao hơn 20% |
+| Người tin chính phủ: khả năng tin rằng mình được lợi từ chính sách | cao hơn 17% |
+| Tỷ lệ cho rằng chính sách ổn định được nợ (ước đọc) | khoảng 77% ở nhóm tin chính phủ, khoảng 57% ở nhóm không tin |
+| Tỷ lệ lo ngại nợ hại thế hệ sau (ước đọc) | khoảng 50% và khoảng 63%, tức cao ở cả hai nhóm |
+
+Ý nghĩa: niềm tin vào chính phủ làm người dân dễ chấp nhận chính sách hơn, nhưng nỗi lo về nợ thì phổ biến bất kể có tin hay không.
+
+**Vòng luẩn quẩn của thiếu niềm tin.** Lãnh đạo sợ phản ứng của dân nên trì hoãn cải cách; vấn đề nợ xấu đi; niềm tin càng giảm; cải cách càng khó. Kinh nghiệm cải cách trợ cấp nhiên liệu ở nhiều nước cho thấy dù lý lẽ kinh tế rất rõ, việc thực hiện vẫn rất phức tạp về chính trị và xã hội.
+
+**Cách xây niềm tin** mà bài đề xuất gồm: minh bạch ngân sách; hội đồng tài khoá độc lập (ví dụ Hà Lan); đánh giá chi tiêu định kỳ và báo cáo công khai các khoản ưu đãi thuế; quản lý tốt quỹ lương và mua sắm công; giảm bớt các chế độ thuế và hưu trí đặc biệt cho từng nhóm; và giám sát doanh nghiệp nhà nước.
 
 ### 3. Ổn định nợ ở các nền kinh tế phát triển
 
-- Nếu giữ nguyên chính sách, tỷ lệ nợ của Bỉ, Pháp, Anh và Mỹ sẽ xấu đi trong hai thập kỷ tới. Thị trường cho tới nay còn dễ dãi nhưng có thể nhạy hơn với tin xấu. Năng suất nhờ AI có thể giúp, nhưng độ lớn và thời điểm chưa rõ, còn già hoá và phân mảnh kéo theo chiều ngược lại.
-- Mức cán cân sơ cấp dài hạn cần có không quá cao, nhưng mức điều chỉnh từ vị thế năm 2024 thì lớn và hiếm thấy trong lịch sử. Các nước có nhu cầu điều chỉnh lớn nhất lại ít khả năng thực hiện, theo dự báo của Uỷ ban châu Âu và IMF.
-- Hy Lạp, Ireland và Bồ Đào Nha cho thấy kỷ luật tài khoá và cải cách cơ cấu, cùng tái cơ cấu nợ khi cần, cuối cùng có kết quả. Nhưng những cải cách đó do thị trường ép buộc chứ không từ động lực chính trị trong nước.
+Bài của Zsolt Darvas và Jeromin Zettelmeyer tính xem các nền kinh tế phát triển cần điều chỉnh ngân sách bao nhiêu để nợ ngừng tăng.
+
+**Xuất phát điểm.** Nếu giữ nguyên chính sách, tỷ lệ nợ của Bỉ, Pháp, Anh và Mỹ sẽ xấu đi trong hai thập kỷ tới. Thị trường cho tới nay còn dễ dãi, nhưng có thể trở nên nhạy hơn với tin xấu. Năng suất nhờ AI có thể giúp, nhưng độ lớn và thời điểm chưa rõ, trong khi già hoá dân số và phân mảnh kinh tế thế giới kéo theo chiều ngược lại.
+
+**Phương pháp.** Các tác giả xét một khoảng 20 năm bắt đầu từ 2024, chia làm 7 năm điều chỉnh dần và 13 năm sau đó giữ nguyên cán cân sơ cấp (không tính phần chi tăng thêm do già hoá). Mục tiêu là có 70% xác suất nợ ổn định hoặc giảm trong 5 năm cuối của giai đoạn.
+
+**Kết quả: đích đến không xa, nhưng quãng đường thì dài.** Mức cán cân sơ cấp cần giữ trong dài hạn không quá cao:
+
+| Nước | Cán cân sơ cấp dài hạn cần có (% GDP) |
+|---|---|
+| Pháp, Mỹ | 1,3 |
+| Bỉ, Anh | 1,8 |
+| Ý | 2,5 |
+
+Nhưng vì năm 2024 nhiều nước đang thâm hụt lớn, mức phải điều chỉnh để đạt tới đó rất lớn. Khoảng 12 nước cần điều chỉnh trên 3% GDP; Pháp, Ba Lan, Romania, Slovakia và Mỹ cần khoảng 5% GDP. Mức điều chỉnh này hiếm thấy trong lịch sử. Hai chi tiết làm rõ độ khó: Pháp chỉ đạt thặng dư sơ cấp 1,3% đúng sáu lần trong 5 thập kỷ; còn kế hoạch tài khoá của Đức dựa trên giả định lạm phát và tăng trưởng lạc quan hơn dự báo của giới chuyên gia. Theo dự báo của Uỷ ban châu Âu và IMF, chính các nước cần điều chỉnh nhiều nhất lại là những nước ít khả năng thực hiện nhất.
+
+**Bài học từ các "mắt xích yếu" cũ.** Hy Lạp, Ireland và Bồ Đào Nha, những nước suýt sụp đổ trong khủng hoảng nợ khu vực euro, nay ở vị thế tốt hơn nhiều:
+
+| Nước | Tình hình hiện nay |
+|---|---|
+| Hy Lạp | cán cân sơ cấp điều chỉnh chu kỳ đạt 4,0% GDP năm 2024 |
+| Bồ Đào Nha | chỉ cần điều chỉnh 0,5% GDP |
+| Ireland | chỉ cần điều chỉnh 1,9% GDP; nợ 39% GDP (so với Mỹ 122%, Anh 101%); tăng trưởng 3,1–4,2%/năm giai đoạn 2022–25, cao hơn mức 2,6% của Mỹ |
+
+Kỷ luật tài khoá và cải cách cơ cấu, cùng với tái cơ cấu nợ khi cần, cuối cùng đã có kết quả. Nhưng các tác giả nhấn mạnh: những cải cách đó bị thị trường ép buộc, chứ không xuất phát từ động lực chính trị trong nước.
+
+**Ba kịch bản cho thời gian tới:**
+
+- **Tốt nhất:** các nước kết hợp cải cách thúc đẩy tăng trưởng (ví dụ hoàn thiện thị trường chung châu Âu theo báo cáo Draghi), cải cách hưu trí và cải cách thuế. Bài lưu ý Mỹ là nước OECD duy nhất không có thuế giá trị gia tăng (VAT), nên vẫn còn một nguồn thu lớn chưa dùng tới.
+- **Dễ xảy ra nhất:** lãnh đạo mới ưu tiên kỷ luật ngân sách nhưng không cải cách sâu. Ví dụ Ý: nợ khoảng 135% GDP, cán cân sơ cấp điều chỉnh chu kỳ chỉ 0,3%.
+- **Hạ cánh cứng:** chi phí vay tăng vọt, buộc chính phủ tìm lối thoát bằng áp chế tài chính hoặc lạm phát bất ngờ, nhưng cả hai đều có giới hạn.
 
 ### 4. Phối hợp chính sách thời phân mảnh
 
-- Mọi mô hình tiền tệ đều ngầm chứa sự phối hợp với tài khoá. Hiệu quả của thắt chặt tiền tệ phụ thuộc vào hậu thuẫn tài khoá.
-- Điểm thường bị bỏ qua: hiệu quả của phối hợp dựa trên môi trường địa chính trị ổn định và một trật tự quốc tế được chấp nhận rộng rãi.
-- Sau đại dịch, phối hợp chưa từng có để phục hồi đã góp phần gây lạm phát kéo dài, vì diễn ra cùng lúc với đứt gãy chuỗi cung ứng và chiến tranh Ukraine.
-- Điều chỉnh bền vững có lẽ đòi hỏi chấp nhận thực dụng một mức lạm phát có kiểm soát. Muốn thành công cần truyền thông hiệu quả: bảo đảm với công chúng về khả năng ổn định nợ và đem lại tăng năng suất diện rộng.
-- Mỹ và Anh có cơ chế ổn định nợ một phần qua lạm phát. Khu vực euro phức tạp hơn vì thiếu ngân sách và nợ liên bang đáng kể. Các thị trường mới nổi phải bảo vệ uy tín đã khó khăn mới có được, và tránh cám dỗ tạo lạm phát bất ngờ lớn.
+Giancarlo Corsetti và Leonardo Melosi xem xét mối quan hệ giữa chính sách tiền tệ và tài khoá khi nợ cao và thế giới phân mảnh.
+
+**Sau 2008, phối hợp thành công vì hai điều kiện.** Thứ nhất, hai chính sách cùng chiều: cả ngân hàng trung ương lẫn chính phủ đều muốn kích thích để chống giảm phát. Thứ hai, trật tự quốc tế khi đó còn mang tính hợp tác. Điểm thường bị bỏ qua là hiệu quả của phối hợp dựa vào một môi trường địa chính trị ổn định và một trật tự quốc tế được chấp nhận rộng rãi.
+
+**Lý thuyết: mọi mô hình tiền tệ đều ngầm chứa tài khoá.** Khi ngân hàng trung ương thắt chặt, lãi suất thực tăng và tăng trưởng chậm lại. Hệ quả là thâm hụt sơ cấp tăng và gánh nặng thực của nợ tăng. Nếu chính phủ không đáp lại bằng cách tăng thặng dư sơ cấp, tức là không có hậu thuẫn tài khoá, thì lạm phát sẽ tăng cho tới khi giá trị thực của khối nợ khớp với số thặng dư mà người ta kỳ vọng. Kết quả có thể là một vòng xoáy lạm phát (Bianchi và Melosi, 2019). Nói cách khác, hiệu quả của thắt chặt tiền tệ phụ thuộc vào việc chính phủ có sẵn sàng làm phần việc của mình hay không.
+
+**Bất cân xứng giữa cú sốc cung và cú sốc cầu** (Smets và Wouters, 2024): hậu thuẫn tài khoá yếu đi khi gặp cú sốc cung nhiều hơn khi gặp cú sốc cầu.
+
+| Giai đoạn | Hoàn cảnh | Kết quả |
+|---|---|---|
+| Thập niên 2010 | cú sốc cầu cùng các cú sốc cung thuận lợi | lạm phát tài khoá ở mức vừa phải lại có ích, giúp chống giảm phát |
+| Hiện nay | nợ cao, cộng các cú sốc cung bất lợi: chi quốc phòng, phân mảnh thương mại, già hoá | ngân hàng trung ương rơi vào thế khó: thắt chặt thì gây suy thoái sâu và nợ xấu thêm; không thắt chặt thì dung túng lạm phát |
+
+Sau đại dịch, sự phối hợp chưa từng có để phục hồi kinh tế đã góp phần gây lạm phát kéo dài, vì nó diễn ra cùng lúc với đứt gãy chuỗi cung ứng và chiến tranh Ukraine.
+
+**Đề xuất: chấp nhận lạm phát có kiểm soát.** Các tác giả cho rằng điều chỉnh bền vững có lẽ đòi hỏi chấp nhận một cách thực dụng mức lạm phát cao hơn mục tiêu, nhưng có kiểm soát, tạm thời và vừa phải. Với trái phiếu không chỉ số hoá theo lạm phát, ngân hàng trung ương có thể "đánh cược": làm mượt biến động giá hôm nay, và hy vọng tăng trưởng trong tương lai (ví dụ nhờ AI) sẽ làm gánh nặng nợ nhẹ đi. Muốn thành công cần truyền thông hiệu quả: bảo đảm với công chúng rằng nợ sẽ được ổn định, và đem lại tăng năng suất trên diện rộng.
+
+**Rủi ro của đề xuất.** Chính phủ có thể đánh giá quá cao dư địa của lạm phát tài khoá. Họ cũng có thể bị cám dỗ dùng các công cụ khác như đánh thuế thương mại, áp chế tài chính, kiểm soát vốn. Bài học thập niên 1960–70: khi nợ đã cao và các nước không giải quyết được đòn bẩy giá dầu của OPEC, kết quả là thời kỳ Đại lạm phát.
+
+**Khác biệt giữa các nhóm nước.** Mỹ và Anh có cơ chế ổn định nợ một phần qua lạm phát. Khu vực euro phức tạp hơn vì thiếu ngân sách và nợ liên bang đáng kể. Các thị trường mới nổi phải bảo vệ uy tín chống lạm phát mà họ đã khó khăn mới có được, và tránh cám dỗ tạo lạm phát bất ngờ lớn. Kết luận của bài: ổn định vĩ mô trước hết là một hàng hoá công toàn cầu.
 
 ### 5. Bảo vệ thị trường Trái phiếu Kho bạc
 
-- Các đợt rối loạn cực đoan như tháng 3/2020 và tháng 4/2025 không bắt nguồn chủ yếu từ yếu tố vĩ mô, mà từ tương tác giữa quản lý tài sản, quỹ phòng hộ và đại lý.
-- Các đề xuất sau 2020, như điều chỉnh quy định đòn bẩy, mở rộng cơ sở repo thường trực, ký quỹ tối thiểu và bù trừ tập trung, đều có ích nhưng không đủ. Bán tháo vẫn có thể xảy ra nếu quỹ phòng hộ bị buộc thoát vị thế vì lỗ ở giao dịch khác hay bị gọi ký quỹ.
-- Vì vậy cần một vai trò trực tiếp nhưng có mục tiêu hơn cho ngân hàng trung ương: mua có phòng ngừa, chuẩn bị từ trước.
+Anil Kashyap và Jeremy Stein bàn về nguy cơ thị trường trái phiếu chính phủ Mỹ, thị trường được coi là an toàn nhất thế giới, bị tê liệt.
+
+**Nợ tăng nhưng sức chứa của thị trường không tăng.** Nợ liên bang do công chúng nắm giữ đã khoảng 100% GDP, và Văn phòng Ngân sách Quốc hội Mỹ (CBO) dự báo nó sẽ trên 170% vào giữa thập niên 2050. Trong khi đó, bảng cân đối của các đại lý (dealer, những ngân hàng lớn đứng ra mua bán trái phiếu để giữ thị trường thông suốt) không lớn lên tương ứng, vì sau 2008 họ bị ràng buộc bởi tỷ lệ đòn bẩy bổ sung (SLR).
+
+**Cấu trúc thị trường hiện nay:**
+
+| Nhóm | Vai trò |
+|---|---|
+| Quản lý tài sản (quỹ hưu, bảo hiểm) | Giữ rủi ro kỳ hạn qua phái sinh (hợp đồng tương lai, hoán đổi lãi suất) thay vì mua thẳng trái phiếu, để dành bảng cân đối cho trái phiếu doanh nghiệp. Nhu cầu của nhóm này quyết định phần bù kỳ hạn. |
+| Quỹ phòng hộ | Đứng ở phía bên kia qua "giao dịch chênh lệch cơ sở": mua trái phiếu, bán hợp đồng tương lai, vay repo tới 99% vị thế. |
+| Đại lý | Bảng cân đối hạn chế, không đủ sức hấp thụ khi có bán tháo. |
+
+Cấu trúc này ổn định trong điều kiện bình thường. Nhưng khi quỹ phòng hộ buộc phải đóng vị thế, chẳng hạn vì lỗ ở giao dịch khác hay bị gọi ký quỹ, họ phải bán tháo trái phiếu. Chênh lệch giá mua bán mở rộng, thanh khoản biến mất và thị trường repo căng thẳng. Các đợt rối loạn cực đoan như tháng 3/2020 và tháng 4/2025 không bắt nguồn chủ yếu từ yếu tố vĩ mô, mà từ chính sự tương tác giữa ba nhóm này.
+
+**Bài học tháng 3/2020.** Fed đã mua khoảng 1.600 tỷ USD trái phiếu trong vài tuần. Việc này cứu được thị trường, nhưng nó trông giống nới lỏng định lượng, làm xoá ranh giới giữa hỗ trợ thị trường và chính sách tiền tệ. Fed cũng tiếp tục mua lâu sau khi thị trường đã ổn.
+
+**Các biện pháp đã được đề xuất là chưa đủ.** Sau 2020 đã có nhiều đề xuất: điều chỉnh quy định đòn bẩy, mở rộng cơ sở repo thường trực, ký quỹ tối thiểu, bù trừ tập trung. Tất cả đều có ích, nhưng bán tháo vẫn có thể xảy ra. Vì vậy cần một vai trò trực tiếp nhưng có mục tiêu hơn cho ngân hàng trung ương, được chuẩn bị từ trước.
+
+**Đề xuất: mua có phòng ngừa.** Fed mua trái phiếu đồng thời bán hợp đồng tương lai, tức là làm đúng phần việc mà quỹ phòng hộ đang buộc phải bỏ. Ưu điểm:
+
+- Về kinh tế, nó giống một giao dịch repo thông thường.
+- Nó giải toả bảng cân đối của đại lý hiệu quả hơn.
+- Nó trung lập về kỳ hạn, nên không phát tín hiệu nới lỏng tiền tệ; điều này quan trọng khi lạm phát đang cao.
+- Không cần cam kết bán lại sau.
+- Fed chịu ít rủi ro lãi suất, tránh lỗ cho người nộp thuế.
+
+Rủi ro đạo đức (thị trường ỷ lại) nhỏ hơn so với một "Fed put", tức sàn giá ngầm mà Fed bảo đảm. Các tác giả còn đề xuất cách tiếp cận lãi suất phạt: chỉ can thiệp khi chênh lệch cơ sở lên tới mức cực đoan, để thị trường không coi đó là việc thường xuyên.
 
 ### 6. Vòng xoay nợ và bất bình đẳng
 
-- Khi thiếu cầu mang tính cơ cấu do tiết kiệm cao ở nhóm thu nhập đỉnh, nhu cầu thâm hụt kéo dài chứ không tạm thời như trong quan điểm Keynes thông thường.
-- Tiết kiệm dư thừa đến từ hộ giàu, doanh nghiệp (kênh tiết kiệm ưu đãi thuế của người giàu) và các chính phủ giàu qua ngân hàng trung ương và quỹ tài sản quốc gia, trong khi đầu tư toàn cầu không theo kịp.
-- Mô hình tăng trưởng dựa vào cầu vay nợ mong manh tự thân. Sự mong manh tài khoá toàn cầu là hệ quả của việc hệ thống kinh tế không chuyển được tiết kiệm dồi dào thành đầu tư sản xuất.
-- Bất bình đẳng thường được nhìn theo góc đạo đức, nhưng bài học vĩ mô còn khắc nghiệt hơn: khi thu nhập dồn lên đỉnh, cầu yếu đi, thâm hụt kéo dài, và sự phụ thuộc vào nợ làm mọi người suy yếu.
+Atif Mian đưa ra một cách giải thích khác hẳn các bài còn lại: nợ cao là hệ quả của bất bình đẳng.
+
+**Từ Eccles tới nay.** Năm 1933, Marriner Eccles (sau là Chủ tịch Fed) đã cho rằng tiết kiệm quá mức của người giàu làm cạn cầu trong nền kinh tế. Tỷ phần của cải của nhóm 1% giàu nhất ở Mỹ là khoảng 42% trong thập niên 1930, giảm mạnh sau Thế chiến, còn khoảng 22% năm 1980, rồi tăng trở lại khoảng 35% năm 2010.
+
+**Cơ chế "cầu dựa vào nợ".** Thu nhập tập trung ở đỉnh tạo ra tiết kiệm dư thừa, và tiết kiệm dư thừa làm cầu yếu. Phải có ai đó đi vay để hấp thụ khoản tiết kiệm này:
+
+| Giai đoạn | Ai đi vay | Số liệu (ước đọc) |
+|---|---|---|
+| 1980–2008 | hộ gia đình ở nửa dưới phân phối | tín dụng tư nhân trên GDP tăng khoảng +70 điểm phần trăm, nợ công gần như đứng yên |
+| Sau 2008 | nợ tư nhân phải giảm, nợ công thay thế | nợ công tăng khoảng +70 điểm, nợ tư gần như không đổi (0) |
+
+Tiết kiệm dư thừa đến từ ba nguồn: hộ giàu; doanh nghiệp (cũng là kênh tiết kiệm có ưu đãi thuế của người giàu); và các chính phủ giàu, qua ngân hàng trung ương và quỹ tài sản quốc gia. Trong khi đó đầu tư toàn cầu không theo kịp. Vì sự thiếu cầu mang tính cơ cấu, nhu cầu thâm hụt ngân sách là kéo dài, chứ không tạm thời như trong quan điểm Keynes thông thường (thâm hụt khi suy thoái, thặng dư khi kinh tế tốt).
+
+**Thuyết "Goldilocks" (Mian, Sufi và Straub).** Thâm hụt ngân sách phải ở mức vừa phải. Nếu "quá lạnh", tức quá nhỏ, nó không đủ bù phần thiếu cầu và nền kinh tế rơi vào giới hạn lãi suất bằng không, khi ngân hàng trung ương không hạ lãi suất được nữa. Nếu "quá nóng", tức quá lớn, nợ mất bền vững. Theo tính toán của các tác giả, Mỹ đã sát giới hạn trên từ năm 2019, trong khi thâm hụt hiện nay khoảng 6% GDP.
+
+**Hiện tượng toàn cầu.** Anh chuyển từ nợ tư sang nợ công sau 2008. Nhật Bản đi trước, từ đầu thập niên 1990. Khu vực euro chuyển sau khi đồng euro ra đời năm 1999. Trung Quốc là trường hợp đặc biệt: trước 2008, nước này "xuất khẩu" tiết kiệm qua thặng dư vãng lai khoảng 10% GDP, tức là để thế giới bên ngoài đi vay hấp thụ. Sau đó thặng dư vãng lai giảm, và tín dụng tư nhân trong nước tăng từ khoảng 100% lên khoảng 185% GDP.
+
+**Vì sao vòng xoay không dừng.** Đầu tư trên GDP không tăng, nghĩa là nợ chủ yếu tài trợ tiêu dùng, không tạo ra thu nhập để trả. Kết quả là nợ trên GDP tăng mãi, còn lãi suất bị ép xuống. Mô hình tăng trưởng dựa vào cầu vay nợ vì vậy mong manh tự thân. Sự mong manh tài khoá toàn cầu là hệ quả của việc hệ thống kinh tế không chuyển được tiết kiệm dồi dào thành đầu tư sản xuất.
+
+**Kết luận của Mian.** Bất bình đẳng thường được nhìn qua góc đạo đức, nhưng bài học vĩ mô còn khắc nghiệt hơn: khi thu nhập dồn lên đỉnh, cầu yếu đi, thâm hụt kéo dài, và sự phụ thuộc vào nợ làm mọi người suy yếu. Ông viết: "Đây không phải 'vắt kiệt người giàu'; đây là cứu người giàu", vì nếu không có ai đi vay hấp thụ tiết kiệm dư thừa, chính lợi suất trên tài sản của người giàu sẽ sụp.
 
 ### 7. Bộ mặt mới của nợ châu Phi
 
-- Sau Sáng kiến các Nước Nghèo Mắc nợ Nặng, tăng trưởng mạnh và làn sóng tìm lợi suất đưa nhiều nước tới Eurobond, rồi bị đóng cửa khi lãi suất quốc tế tăng năm 2022. Một số nước chuyển sang vay trong nước như biện pháp chữa cháy, số khác chủ động phát triển thị trường.
-- Thực hành quản lý nợ tốt là nền tảng: minh bạch số liệu, khung pháp lý và giám sát, quản lý tài chính công, đầu tư công hiệu quả.
-- Phát triển thị trường nợ phải đi cùng cải cách tài chính và khu vực tư: mở rộng nhà đầu tư dài hạn như quỹ hưu và bảo hiểm, tăng cường giám sát ngân hàng và định chế phi ngân hàng. Không đổi mới nào bù được cho quản lý tài khoá kém, lạm phát cao hay nợ không bền vững.
+Amadou Sy và Athene Laws mô tả việc các nước châu Phi cận Sahara chuyển sang vay trong nước.
+
+**Lịch sử.** Sau Sáng kiến các Nước Nghèo Mắc nợ Nặng (HIPC), tăng trưởng mạnh và làn sóng nhà đầu tư quốc tế đi tìm lợi suất đã đưa nhiều nước tới thị trường Eurobond (trái phiếu phát hành ra quốc tế, thường bằng đô la hoặc euro). Cánh cửa này đóng lại khi lãi suất quốc tế tăng năm 2022: không nước nào trong khu vực phát hành được Eurobond từ mùa xuân 2022 tới tháng 1/2024. Một số nước chuyển sang vay trong nước như biện pháp chữa cháy, số khác thì chủ động phát triển thị trường nợ trong nước.
+
+**Cơ cấu nợ thay đổi hẳn** (nợ công châu Phi cận Sahara, % GDP, ước đọc):
+
+| Năm | Tổng nợ | Cơ cấu |
+|---|---|---|
+| 2000 | khoảng 52 | phần lớn là nợ nước ngoài, từ các tổ chức đa phương và vay song phương ưu đãi |
+| 2024 | khoảng 57 | nợ trong nước khoảng 33, chiếm phần lớn; Eurobond khoảng 7 |
+
+Tổng nợ gần như không đổi, nhưng chủ nợ và loại nợ đã khác hoàn toàn.
+
+**Lợi ích của nợ trong nước.** Vay bằng nội tệ nên tránh được rủi ro tỷ giá; chịu luật trong nước; ít phụ thuộc vào tâm lý của nhà đầu tư quốc tế; tạo công cụ cho chính sách tiền tệ; và hình thành một đường cong lợi suất làm chuẩn để định giá các khoản vay khác trong nền kinh tế.
+
+**Năm rủi ro:**
+
+1. **Đáo hạn ngắn.** Kỳ hạn bình quân của nợ trong nước khoảng 2 năm, so với Eurobond khoảng 10 năm, vay song phương khoảng 20 năm và vay đa phương khoảng 29 năm. Trường hợp cực đoan là Ghana: sau tái cơ cấu nợ năm 2023, nước này chỉ phát hành tín phiếu dưới 1 năm, và kỳ hạn còn lại bình quân dưới 3 tháng (số liệu ngày 30/11/2025). Ngược lại, Mauritius và Tanzania đã kéo dài được kỳ hạn.
+2. **Chi phí.** Lãi suất trung vị là 8,8% năm 2024, có khi cao hơn cả Eurobond. Lãi suất thực còn tuỳ vào lạm phát của từng nước.
+3. **Lấn át tín dụng tư nhân.** Ngân hàng mua trái phiếu chính phủ vì thiếu cơ hội cho vay tốt, rồi vì đã dồn vốn vào trái phiếu nên lại càng ít cho doanh nghiệp vay.
+4. **Vòng lặp ngân hàng–chủ quyền.** Tỷ lệ nợ chính phủ trên tài sản ngân hàng ở các nước thu nhập thấp châu Phi tăng từ khoảng 17,7% năm 2019 lên khoảng 22,5% năm 2024, tức +4,8 điểm, nhanh nhất thế giới.
+5. **Tiền nóng.** Nhà đầu tư nước ngoài tham gia thị trường trong nước giúp giảm lợi suất, nhưng họ có thể rút đi rất nhanh.
+
+Kết quả là một chính phủ điển hình trong khu vực trả khoảng 1/7 thu ngân sách cho lãi vay.
+
+**Điều kiện để thành công.** Thực hành quản lý nợ tốt là nền tảng: minh bạch số liệu, khung pháp lý và giám sát, quản lý tài chính công, đầu tư công hiệu quả. Phát triển thị trường nợ phải đi cùng cải cách tài chính và khu vực tư: mở rộng nhóm nhà đầu tư dài hạn như quỹ hưu và công ty bảo hiểm, tăng cường giám sát ngân hàng và định chế phi ngân hàng. Không đổi mới nào bù được cho quản lý tài khoá kém, lạm phát cao hay nợ không bền vững. Câu kết của bài: phát triển thị trường nợ trong nước như một chiến lược chủ động thì có lợi; làm như một phản ứng khủng hoảng thì dễ tổn thương.
 
 ### 8. Góc nhìn chính trị
 
-- Auerbach cho rằng dễ giải thích Mỹ đã rơi vào khó khăn tài khoá thế nào hơn là thoát ra thế nào. Trên con đường từ từ, trả lãi chiếm dần ngân sách và có thể làm yếu phản kháng với cải cách, hoặc chính phủ vay nhanh hơn. Trên con đường đột ngột, vay trở nên quá đắt. Mỹ có thể vẫn là nơi trú ẩn an toàn tương đối vì nhiều nước lớn khác cũng mang nợ không bền vững.
-- Blinder cho rằng nhà kinh tế ít ảnh hưởng tới chính sách hơn người ta tưởng. Logic chính trị và logic kinh tế thường ngược nhau, và nhà kinh tế phải là bên thay đổi nhiều hơn.
+**Auerbach: con đường tài khoá nguy hiểm của Mỹ.** Alan Auerbach so sánh hai thời điểm. Năm 1990, nợ Mỹ là 43% GNP, và Tổng thống Bush cha đã ký thoả thuận tiết kiệm khoảng 500 tỷ USD trong 5 năm, dù trước đó hứa không tăng thuế; ông mất ghế ở lần bầu cử sau. Tháng 7/2025, nợ khoảng 100% GDP, thâm hụt dự báo tăng từ 5,5% lên 5,9% GDP, và đạo luật One Big Beautiful Bill vừa được thông qua tốn khoảng 2.000 tỷ USD trong 5 năm.
+
+Ông nêu ba lý do khiến Mỹ đi tới đây:
+
+1. Hai cú sốc lớn: khủng hoảng 2008 và COVID.
+2. Phân cực chính trị: không còn sự đồng thuận lưỡng đảng như thời uỷ ban Simpson-Bowles năm 2010.
+3. Không thấy thiệt hại: nợ trên GDP tăng hơn 3 lần giai đoạn 2001–2021, nhưng chi trả lãi lại giảm từ 2,0% xuống 1,5% GDP vì lãi suất giảm. Trong hai mươi năm, cử tri và chính trị gia thấy vay thêm không tốn gì.
+
+Auerbach cho rằng dễ giải thích Mỹ đã rơi vào khó khăn thế nào hơn là thoát ra thế nào. Ông mượn câu của Hemingway: phá sản xảy ra "từ từ, rồi đột ngột". Trên con đường từ từ, trả lãi chiếm dần ngân sách; điều này có thể làm yếu sự phản kháng với cải cách, hoặc khiến chính phủ vay nhanh hơn. Trên con đường đột ngột, vay trở nên quá đắt. Quỹ An sinh Xã hội và Medicare sẽ cạn trong thập kỷ tới. Tuy vậy, Mỹ có thể vẫn là nơi trú ẩn an toàn tương đối, vì nhiều nước lớn khác cũng mang nợ không bền vững.
+
+**Blinder: hai thế giới xa nhau.** Alan Blinder cho rằng nhà kinh tế ít ảnh hưởng tới chính sách hơn người ta tưởng. Ông nêu "thuyết cột đèn": chính trị gia dùng kinh tế học như người say dùng cột đèn, để tựa chứ không phải để soi sáng.
+
+Logic chính trị và logic kinh tế thường ngược nhau. Ví dụ của ông: một chính sách đem lợi 1 triệu USD cho mỗi người trong 10 người, và gây thiệt 1 USD cho mỗi người trong 20 triệu người. Kinh tế học nói chính sách này tệ, vì tổng thiệt (20 triệu USD) lớn hơn tổng lợi (10 triệu USD). Chính trị nói chính sách này tốt, vì 10 người được lợi sẽ vận động hết sức, còn 20 triệu người mất 1 USD thì không ai để ý. Ngoài ra, cửa sổ để tổng thống Mỹ làm chính sách lớn chỉ là 12–18 tháng đầu nhiệm kỳ.
+
+Theo Blinder, nhà kinh tế phải là bên thay đổi nhiều hơn. Ông khuyên hai điều: thứ nhất, quan tâm tới chi phí chuyển đổi, đừng chỉ nhìn trạng thái cân bằng dài hạn; thứ hai, coi trọng công bằng chứ không chỉ hiệu quả. Điều đó nghĩa là chấp nhận những giải pháp "tốt thứ ba, thứ tư" có thể thực hiện được, thay vì đòi giải pháp tốt nhất trên giấy.
+
+### 9. Các bài tài khoá khác trong số
+
+**Đánh thuế thói quen có hại (Christoph Rosenberg và Marius van Oordt).** Thuế tiêu thụ đặc biệt đánh vào thuốc lá, rượu bia và các sản phẩm có hại khác mang lại khoảng 2% GDP. Các tác giả đề xuất ba nguyên tắc:
+
+- **Đánh hết** mọi sản phẩm có hại. Lỗ hổng hiện nay: Hong Kong không đánh thuế rượu vang; São Tomé miễn thuế rượu cọ; Ethiopia không đánh thuế lá khat.
+- **Đánh theo mức hại**, tức theo lượng chất độc và cách dùng, chứ không theo giá trị. Ví dụ lệch lạc ở Nam Phi: thuế trên mỗi đơn vị cồn của bia truyền thống chỉ bằng khoảng 1/50 thuế của các loại bia khác.
+- **Hợp tác xuyên biên giới**, vì chênh lệch thuế giữa các nước tạo ra buôn bán qua biên giới và buôn lậu. Khi Phần Lan giảm thuế rượu năm 2004, doanh số rượu mạnh ở các thị trấn giáp Thuỵ Điển tăng khoảng 150%. EU mất khoảng 4 tỷ euro mỗi năm vì buôn lậu. Thuốc lá từ Paraguay chiếm khoảng 20% thị trường Brazil, làm Brazil mất khoảng 400 triệu USD thu thuế mỗi năm.
+
+Bằng chứng về hiệu quả: New Zealand tăng thuế thuốc lá đốt ít nhất 10% mỗi năm, và tỷ lệ hút thuốc giảm từ 18% xuống 8% trong giai đoạn 2012–2024; cùng lúc, tỷ lệ dùng thuốc lá điện tử tăng từ 0 lên 14%.
+
+**Hạ tầng số công (Diane Coyle, David Eaves và Beatriz Vasconcellos).** Các tác giả đề nghị coi định danh số, hệ thống thanh toán và nền tảng trao đổi dữ liệu như đường sá, lưới điện: hạ tầng dùng chung và dài hạn. Thực trạng hiện nay là phân mảnh: trong mẫu khảo sát có 64 chương trình định danh, 97 hệ thanh toán và 103 nền tảng trao đổi dữ liệu; chỉ khoảng 1/2 số hệ định danh được dùng cho hơn 2 dịch vụ; riêng Nam Phi có 8 nền tảng tách biệt.
+
+Ba rào cản chính:
+
+- **Phối hợp:** mỗi cơ quan chỉ lo phần của mình, như câu được dẫn "chúng tôi là thủ môn, không phải tiền đạo".
+- **Tài trợ dài hạn:** ngân sách hằng năm khó nuôi hạ tầng cần nhiều năm.
+- **Thẩm định:** phân tích chi phí–lợi ích thông thường bỏ sót lợi ích lan toả sang các dịch vụ khác.
+
+Bộ tài chính có thể đóng vai trò ở nhiều mức: thẩm định (Anh), điều phối và cưỡng chế (Uganda), hoặc trực tiếp triển khai (nền tảng CamDX ở Campuchia). Bài học COVID cho thấy cái giá của việc thiếu hạ tầng này: trong 800 tỷ USD của Chương trình Bảo vệ Tiền lương (PPP) của Mỹ, chỉ khoảng 1/4 tới 1/3 tới đúng người lao động cần hỗ trợ.
 
 ## Thuật ngữ
 

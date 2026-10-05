@@ -262,66 +262,222 @@
 2. Cùng một mức nỗ lực tài khoá, củng cố dựa vào chi và dựa vào thu khác nhau thế nào về sản lượng, tốc độ giảm nợ và việc ai gánh chịu?
 3. Trợ cấp nhắm đích và cải cách cơ cấu giúp giảm chi phí vĩ mô và phân phối của củng cố tới mức nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Củng cố tài khoá (fiscal consolidation).** Một chương trình cải thiện cán cân ngân sách trong nhiều năm để nợ công ngừng tăng hoặc giảm xuống, bằng cách cắt chi, tăng thu, hoặc cả hai. Bài so sánh hai loại: củng cố dựa vào chi (ExC) và củng cố dựa vào thu (ReC). Ví dụ trong bài: cả hai gói đều có cùng quy mô 1,5 điểm phần trăm GDP, thực hiện 0,3 điểm mỗi năm trong 2027–31. Câu hỏi của bài không phải là có củng cố hay không, mà là củng cố bằng thành phần nào thì ít hại nhất.
+
+**Xu hướng tiêu dùng biên (marginal propensity to consume, MPC).** Phần của một đồng thu nhập tăng thêm mà một hộ đem đi tiêu ngay. Ví dụ minh hoạ: một hộ nhận thêm 100 euro và tiêu 90 euro thì MPC là 0,9; một hộ giàu nhận 100 euro và tiêu 10 euro thì MPC là 0,1. Đây là cơ chế trung tâm của bài: nếu cắt 100 euro thu nhập của hộ có MPC cao, cầu trong nền kinh tế giảm gần 100 euro; nếu cắt của hộ có MPC thấp, cầu chỉ giảm ít. Trong mô hình, MPC bình quân được hiệu chỉnh ở mức 0,44.
+
+**Hộ "kiếm được bao nhiêu tiêu bấy nhiêu" (hand-to-mouth, HtM).** Hộ không có khoản đệm tiền mặt nào, nên mỗi khi thu nhập thay đổi thì tiêu dùng thay đổi theo gần như ngay lập tức; MPC của họ gần bằng 1. Có hai loại. Hộ nghèo HtM gần như không có tài sản. Hộ giàu HtM có tài sản, nhưng là tài sản kém thanh khoản như nhà ở hay quyền lương hưu, không rút ra tiêu được, nên vẫn tiêu theo thu nhập hiện tại. Ví dụ minh hoạ: một gia đình sở hữu căn nhà trị giá 300.000 euro nhưng chỉ có 500 euro trong tài khoản; nếu lương giảm 200 euro một tháng, họ phải cắt chi tiêu ngay. Trong mô hình, khoảng 43% hộ là HtM, trong đó 32% là giàu HtM và 11% là nghèo HtM.
+
+**Tài sản thanh khoản và kém thanh khoản.** Tài sản thanh khoản (như tiền gửi) rút ra được bất kỳ lúc nào nhưng lãi thấp. Tài sản kém thanh khoản (như nhà, quỹ hưu) cho lãi cao hơn nhưng khó hoặc tốn kém mới chuyển thành tiền được. Ví dụ trong bài: tài sản kém thanh khoản nhận lãi suất thực đầy đủ 0,05; chênh lệch lãi giữa hai loại tài sản được hiệu chỉnh ở mức 0,09; và mỗi năm hộ chỉ có xác suất 0,15 được điều chỉnh khoản tài sản kém thanh khoản. Cấu trúc hai tài sản này là thứ sinh ra nhóm giàu HtM và khác biệt về MPC giữa các hộ.
+
+**Mô hình HANK.** Viết tắt của "Heterogeneous Agent New Keynesian": mô hình Keynes mới (giá và lương điều chỉnh chậm, ngân hàng trung ương đặt lãi suất) nhưng có hàng nghìn loại hộ gia đình khác nhau về thu nhập và tài sản, thay vì một "hộ đại diện" duy nhất. Ví dụ minh hoạ: trong mô hình một hộ đại diện, cắt trợ cấp của người nghèo hay người giàu đều như nhau; trong HANK, hai việc đó có tác động lên tổng cầu khác hẳn nhau. Nhờ vậy bài phân tích được đồng thời tác động vĩ mô và việc ai gánh chịu.
+
+**Số nhân tài khoá (fiscal multiplier).** Mức thay đổi của sản lượng khi chi tiêu hoặc thuế của chính phủ thay đổi một đồng. Ví dụ minh hoạ: số nhân 0,8 nghĩa là cắt 1 tỷ euro chi tiêu làm GDP giảm 0,8 tỷ euro. Trong bài, công cụ có số nhân lớn nhất là đầu tư công, nên mọi kịch bản đều giữ nguyên đầu tư công.
+
+**Phần bù rủi ro chủ quyền và nợ nhiều kỳ hạn.** Phần bù rủi ro chủ quyền là lãi suất mà nhà đầu tư đòi thêm vì lo chính phủ không trả được nợ; trong bài nó tăng theo mức nợ vượt mức dài hạn. Nợ nhiều kỳ hạn nghĩa là chính phủ có nhiều loại trái phiếu đáo hạn ở các thời điểm khác nhau, nên khi lãi suất thị trường tăng, chỉ phần trái phiếu mới phát hành chịu lãi cao. Ví dụ minh hoạ: nếu mỗi năm chỉ 1/7 khối nợ đáo hạn và được vay lại, thì lãi suất thị trường tăng 1 điểm chỉ làm lãi bình quân trên toàn bộ nợ tăng khoảng 0,14 điểm trong năm đầu. Hai cơ chế này giúp mô hình nắm được lợi ích của việc giảm nợ qua tiết kiệm lãi.
+
+**Quy tắc Taylor.** Một công thức mô tả cách ngân hàng trung ương đặt lãi suất: lạm phát cao hơn mục tiêu thì tăng lãi suất mạnh hơn mức tăng lạm phát. Ví dụ trong bài: hệ số với lạm phát là 1,2, tức lạm phát tăng 1 điểm thì lãi suất danh nghĩa tăng 1,2 điểm. Nhưng ECB nhìn lạm phát của cả khu vực euro, nên phản ứng với lạm phát của riêng một nước được thu nhỏ lại. Điều này quan trọng vì nó có nghĩa là khi một nước củng cố tài khoá, ECB gần như không hạ lãi suất để đỡ riêng cho nước đó.
+
+## Nội dung chi tiết
 
 ### 1. Động cơ
 
-- Tỷ lệ nợ vẫn cao sau đại dịch và cú sốc năng lượng, và nếu không điều chỉnh sẽ tiếp tục tăng. Khi nợ cao, động thái nợ rất nhạy với chênh lệch giữa tăng trưởng và lãi suất.
-- Kinh tế chính trị của điều chỉnh ngày càng bị chi phối bởi mối lo phân phối, vì áp lực chi mới không thể đáp ứng nếu không cắt ở chỗ khác.
-- Rủi ro chủ quyền tác động vượt ra ngoài ngân sách: chênh lệch lợi suất cao làm tăng chi phí vốn của doanh nghiệp, nhất là doanh nghiệp nắm nhiều trái phiếu chính phủ, và chi phí phúc lợi dồn lên hộ ít khả năng tự bảo hiểm nhất.
-- Tốc độ điều chỉnh vì vậy là lựa chọn chính sách bậc nhất, phụ thuộc vào dấu và độ lớn tác động của nỗ lực tài khoá lên chênh lệch và hoạt động kinh tế.
+**Bài toán.** Bài xét một nền kinh tế nợ cao của khu vực đồng euro, với nợ khoảng 125% GDP. Tỷ lệ nợ vẫn cao sau đại dịch và cú sốc năng lượng, và nếu không điều chỉnh sẽ tiếp tục tăng. Cùng lúc có các áp lực chi mới: dân số già, chuyển đổi xanh và chuyển đổi số, chi quốc phòng. Tăng trưởng tiềm năng thấp. Lạm phát năng lượng từ 2021 đã bào mòn thu nhập thực của hộ gia đình. Kinh tế chính trị của điều chỉnh ngày càng bị chi phối bởi mối lo về phân phối, vì các áp lực chi mới không thể đáp ứng nếu không cắt ở chỗ khác.
+
+**Ba lý do khiến điều chỉnh khó hơn bình thường:**
+
+1. **Tăng trưởng thấp**, nên khó "tăng trưởng để thoát nợ". Khi nợ cao, động thái của nợ rất nhạy với chênh lệch giữa tăng trưởng và lãi suất.
+2. **Nợ cao khiến nhà đầu tư định giá rủi ro trượt tài khoá.** Rủi ro chủ quyền tác động vượt ra ngoài ngân sách: chênh lệch lợi suất cao làm tăng chi phí vốn của doanh nghiệp, nhất là các doanh nghiệp và ngân hàng nắm nhiều trái phiếu chính phủ, và chi phí phúc lợi dồn lên những hộ ít khả năng tự bảo hiểm nhất. Trong một liên minh tiền tệ còn có một vòng xoáy giảm phát: chênh lệch lợi suất tăng làm cầu giảm, cầu giảm làm giá giảm, nhưng ECB không bù riêng cho một nước, nên lãi suất thực vẫn cao và tình hình tài khoá xấu thêm.
+3. **Hộ gia đình không đồng nhất.** Các hộ thiếu thanh khoản tiêu gần hết phần thay đổi trong thu nhập sau thuế và trợ cấp, nên việc cắt hay tăng nhắm vào ai sẽ quyết định cầu co lại bao nhiêu.
+
+**Câu hỏi chính sách.** Khung tài khoá mới của EU cho phép giai đoạn điều chỉnh kéo dài tới 7 năm. Tốc độ điều chỉnh vì vậy là một lựa chọn chính sách bậc nhất, và câu trả lời phụ thuộc vào dấu và độ lớn của tác động của nỗ lực tài khoá lên chênh lệch lợi suất và hoạt động kinh tế. Câu hỏi cụ thể của bài: nên thiết kế thành phần của gói củng cố thế nào?
 
 ### 2. Đóng góp
 
-- Bài mở rộng mô hình của Auclert và cộng sự theo hai hướng: nhiều công cụ tài khoá giống ngân sách thật thay vì các cú sốc chi tiêu hay thuế cách điệu, và phần bù rủi ro chủ quyền nội sinh theo tỷ lệ nợ.
-- Nợ có cấu trúc nhiều kỳ hạn nên thay đổi chênh lệch chỉ truyền dần vào chi phí lãi. Quy tắc Taylor được thu nhỏ để phản ánh nhiệm vụ toàn khu vực của ECB.
-- Cơ chế truyền dẫn trung tâm là sự khác biệt về xu hướng tiêu dùng biên, sinh ra nội sinh từ cấu trúc hai tài sản. Mô hình tái tạo được ba sự thật: nhiều hộ có tài sản kém thanh khoản nhưng ít tiền mặt, xu hướng tiêu dùng biên cao với thu nhập tạm thời, và một khối lượng đáng kể hộ nằm ở ràng buộc thanh khoản.
+**Mở rộng mô hình nền.** Bài xây trên mô hình HANK của Auclert, Rognlie và Straub (2024), giải bằng phương pháp Jacobian không gian chuỗi (một kỹ thuật tính toán cho phép giải nhanh mô hình có rất nhiều loại hộ). Bài mở rộng theo hai hướng chính:
+
+- **Nhiều công cụ tài khoá giống ngân sách thật**: thuế lao động, thuế doanh nghiệp, ba loại trợ cấp, tiêu dùng và đầu tư công, thay vì các cú sốc chi tiêu hay thuế cách điệu.
+- **Phần bù rủi ro chủ quyền nội sinh**, tăng theo tỷ lệ nợ (theo Langot và cộng sự, 2025).
+
+Ngoài ra, nợ có cấu trúc nhiều kỳ hạn, nên thay đổi của chênh lệch lợi suất chỉ truyền dần vào chi phí lãi. Quy tắc Taylor được thu nhỏ để phản ánh nhiệm vụ toàn khu vực của ECB.
+
+**Cơ chế truyền dẫn trung tâm** là sự khác biệt về xu hướng tiêu dùng biên giữa các hộ, sinh ra một cách nội sinh từ cấu trúc hai tài sản. Mô hình tái tạo được ba sự thật thực nghiệm: nhiều hộ có tài sản kém thanh khoản nhưng ít tiền mặt; xu hướng tiêu dùng biên cao đối với thu nhập tạm thời; và một số lượng đáng kể hộ đang chạm ràng buộc thanh khoản.
 
 ### 3. Mô hình
 
-- Hộ gia đình chọn tiêu dùng, lao động và phân bổ giữa hai tài khoản. Trợ cấp nhắm đích chia đều cho bốn thập phân vị năng suất thấp nhất.
-- Doanh nghiệp dùng vốn công, vốn tư và lao động; vốn tư chịu chi phí điều chỉnh bậc hai; giá và lương chịu chi phí điều chỉnh kiểu Rotemberg, tương đương Calvo ở bậc một.
-- Lãi suất thực phụ thuộc lãi danh nghĩa, phần bù rủi ro theo khoảng cách nợ so với dài hạn, và thuế doanh nghiệp hiệu dụng.
-- Khi kỳ hạn dài, chênh lệch nới rộng đột ngột làm tăng chi phí phát hành mới nhưng ít ảnh hưởng tổng chi phí lãi ngay lập tức.
-- Thuế khoán là công cụ cân đối, phản ứng theo nợ để giữ tỷ lệ nợ ổn định dài hạn mà không làm méo quyết định lao động hay tiết kiệm.
+**Hộ gia đình.** Mỗi hộ chọn mức tiêu dùng, số giờ lao động và cách phân bổ tiết kiệm giữa hai tài khoản:
+
+| Tài khoản | Đặc điểm |
+|---|---|
+| Tài sản thanh khoản | rút bất kỳ lúc nào, nhưng lãi thấp hơn vì trung gian thu một khoản phí (ký hiệu ζ) |
+| Tài sản kém thanh khoản | nhận lãi đầy đủ r, nhưng mỗi kỳ chỉ được điều chỉnh với xác suất ν |
+
+Cấu trúc này sinh ra hai nhóm HtM: nhóm nghèo HtM gần như không có tài sản, và nhóm giàu HtM có tài sản kém thanh khoản (nhà, lương hưu) nhưng không có tiền mặt nên vẫn tiêu theo thu nhập. Hộ không được vay. Thuế thu nhập luỹ tiến theo dạng Heathcote–Storesletten–Violante. Năng suất của mỗi cá nhân thay đổi ngẫu nhiên theo một chuỗi Markov có 11 mức (nút).
+
+**Công cụ tài khoá:**
+
+| Phía | Công cụ |
+|---|---|
+| Thu | thuế lao động; thuế doanh nghiệp; thuế khoán (công cụ cân đối, phản ứng theo nợ) |
+| Chi | trợ cấp bảo hiểm (lương hưu có đóng góp, trợ cấp thất nghiệp); trợ cấp khoán phổ quát (mọi hộ nhận như nhau); trợ cấp nhắm đích (chia đều cho 4 thập phân vị năng suất thấp nhất); tiêu dùng chính phủ; đầu tư công (đi vào hàm sản xuất) |
+
+Thuế khoán là công cụ cân đối: nó phản ứng theo nợ để giữ tỷ lệ nợ ổn định trong dài hạn, mà không làm méo quyết định lao động hay tiết kiệm của hộ.
+
+**Doanh nghiệp.** Doanh nghiệp sản xuất bằng vốn công, vốn tư và lao động. Vốn tư chịu chi phí điều chỉnh bậc hai (thay đổi càng nhanh càng tốn). Giá và lương chịu chi phí điều chỉnh kiểu Rotemberg, tương đương với kiểu Calvo ở mức xấp xỉ bậc một; nói đơn giản là giá và lương điều chỉnh chậm.
+
+**Lãi suất và nợ.** Lãi suất thực phụ thuộc vào lãi suất danh nghĩa, phần bù rủi ro và thuế doanh nghiệp hiệu dụng. Ba phần mở rộng quan trọng:
+
+- **Phần bù rủi ro** bằng η nhân với khoảng cách giữa tỷ lệ nợ trên GDP hiện tại và tỷ lệ nợ dài hạn.
+- **Nợ nhiều kỳ hạn:** coupon bình quân chỉ điều chỉnh dần khi trái phiếu cũ đáo hạn và được tái cấp vốn. Vì vậy khi kỳ hạn dài, chênh lệch lợi suất nới rộng đột ngột làm tăng chi phí của các đợt phát hành mới, nhưng ít ảnh hưởng tới tổng chi phí lãi ngay lập tức.
+- **Quy tắc Taylor:** hệ số với lạm phát trong nước được thu nhỏ, vì ECB nhìn lạm phát của toàn khu vực.
+
+**Hiệu chỉnh.** Nền kinh tế đại diện là bình quân gia quyền theo GDP của Bỉ, Pháp và Ý. Hy Lạp bị loại vì thu ngân sách thấp, Tây Ban Nha bị loại vì tăng trưởng cao, đều không đại diện. Các tham số chính:
+
+| Tham số | Giá trị | Nguồn hoặc mục tiêu |
+|---|---|---|
+| Hệ số chiết khấu β | 0,94 | khớp tỷ lệ tài sản trên GDP |
+| Độ co giãn Frisch của cung lao động | 0,5 | |
+| Chênh lệch lãi giữa tài sản kém thanh khoản và thanh khoản | 0,09 | khớp MPC bình quân = 0,44 |
+| Xác suất điều chỉnh ν | 0,15 | khớp MPC bình quân = 0,44 |
+| Lãi suất thực r | 0,05 | Auclert và cộng sự 2024 |
+| Tỷ phần vốn α | 0,4219 | Penn World Table |
+| Độ dốc đường Phillips của giá và của lương | 0,22 và 0,10 | Auclert và cộng sự 2024 |
+| Hệ số Taylor | 1,2 | Langot và cộng sự 2025 |
+| Độ nhạy của chênh lệch lợi suất theo nợ η | 0,0077 | Langot và cộng sự 2025 |
+| Nợ trên GDP | 1,25 | Eurostat, quý 3/2025 |
+| Tiêu dùng chính phủ trên GDP | 0,21 | Ngân hàng Thế giới |
+
+**So sánh với dữ liệu ở những đại lượng không nhắm tới:**
+
+| Đại lượng | Mô hình | Dữ liệu |
+|---|---|---|
+| Tỷ trọng hộ HtM | 0,438 | khoảng 0,22 |
+| Tỷ trọng hộ giàu HtM | 0,324 | khoảng 0,17 |
+| Tỷ trọng hộ có tài sản thanh khoản không quá 10% thu nhập | 0,638 | không có số liệu |
+| Hệ số Gini tài sản | 0,845 | khoảng 0,67 |
+| Tỷ phần tài sản của 10% giàu nhất | 0,798 | khoảng 0,52 |
+
+Mô hình dự báo quá cao cả tỷ trọng hộ HtM lẫn mức bất bình đẳng tài sản. Bài biện hộ rằng họ nhắm vào MPC bình quân vì đó là thống kê đủ cho động thái của các biến tổng (theo Debortoli và Galí 2024, Bilbiie 2020).
+
+**Bốn kênh truyền dẫn của củng cố:**
+
+1. **Chi tiêu chính phủ.** Cắt tiêu dùng công làm cầu giảm tương đương với khoản cắt, không phụ thuộc vào MPC. Cắt đầu tư công vừa giảm cầu ngắn hạn vừa bào mòn vốn công, kéo tụt sản lượng tiềm năng, nên có số nhân lớn nhất.
+2. **Thu nhập khả dụng.** Thay đổi trực tiếp qua thuế và trợ cấp, gián tiếp qua lương và việc làm. Nếu phần giảm rơi vào hộ HtM (kể cả giàu HtM), cầu co mạnh hơn.
+3. **Lãi suất.** Củng cố gây áp lực giảm phát, ECB hạ lãi suất phần nào, khuyến khích tiêu dùng. Nợ giảm làm phần bù rủi ro giảm, giúp doanh nghiệp vay vốn rẻ hơn.
+4. **Định giá lại tài sản.** Lãi suất thực giảm làm giá tài sản tăng, có lợi cho hộ giàu; tác động này bị trễ vì tài sản kém thanh khoản.
+
+**Tác động phân phối của từng công cụ:**
+
+| Công cụ | Ai chịu |
+|---|---|
+| Cắt trợ cấp bảo hiểm | nhóm trung lưu, vì tài sản của họ kẹt ở dạng kém thanh khoản |
+| Cắt trợ cấp nhắm đích | hộ nghèo, nhóm có MPC cao nhất |
+| Cắt trợ cấp phổ quát | cầu co ít hơn, vì hộ giàu dùng tiết kiệm để bù |
+| Tăng thuế lao động | cung lao động co lại; trúng hộ thu nhập thấp phụ thuộc vào lương |
+| Tăng thuế doanh nghiệp | giảm đầu tư, giảm cổ tức của hộ giàu |
 
 ### 4. Trạng thái dừng
 
-- Khoảng 43% hộ là HtM, trong đó 32% là giàu HtM. Xu hướng tiêu dùng biên gần bằng một ở nhóm đáy, vẫn cao ở nhóm giữa do tài sản kém thanh khoản, và thấp ở nhóm giàu nắm phần lớn tài sản.
-- Tài sản thanh khoản thấp tập trung ở nhóm thu nhập thấp và trung bình, nên việc nhắm công cụ tài khoá theo đối tượng chịu tác động là rất quan trọng.
+Ở trạng thái cân bằng dài hạn của mô hình, khoảng 43% hộ là HtM, trong đó 32% là giàu HtM và 11% là nghèo HtM. Xu hướng tiêu dùng biên gần bằng một ở nhóm đáy; vẫn cao ở nhóm giữa, vì tài sản của họ chủ yếu là tài sản kém thanh khoản; và thấp ở nhóm giàu, những người nắm phần lớn tài sản.
+
+Tài sản thanh khoản thấp tập trung ở nhóm thu nhập thấp và trung bình. Vì vậy, việc chọn công cụ tài khoá theo đối tượng chịu tác động là rất quan trọng: cùng một khoản cắt giảm có thể làm cầu co mạnh hay yếu tuỳ nó rơi vào ai.
 
 ### 5. Chi phí của việc chờ đợi
 
-- Giữ nguyên chính sách, thâm hụt tiếp tục mở rộng khi trả lãi tăng, phần bù rủi ro nới rộng và làm nợ tích lũy nhanh hơn trong một vòng lặp tài khoá tài chính tự củng cố.
-- Đầu tư tư nhân bị lấn át qua thị trường tài sản, vì nợ công hút tiết kiệm; lương thực bị bào mòn.
-- Bài nêu hai lưu ý: độ lớn của chi phí phụ thuộc giả định về kịch bản cơ sở, và so sánh với ExC+SR phóng đại khác biệt vì gộp lợi ích năng suất. Kết luận định tính rằng trì hoãn tốn kém vẫn đúng với ExC và ReC thuần.
+**Kịch bản cơ sở: giữ nguyên chính sách sau 2025.** Thâm hụt tiếp tục mở rộng khi tiền trả lãi tăng; phần bù rủi ro nới rộng và làm nợ tích luỹ nhanh hơn, tạo thành một vòng lặp tài khoá–tài chính tự củng cố. Đầu tư tư nhân bị lấn át qua thị trường tài sản, vì nợ công hút tiết kiệm của hộ; lương thực bị bào mòn. Như bài viết, giữ nguyên hiện trạng không phải là trung lập: trì hoãn điều chỉnh tự nó gây chi phí dưới dạng đầu tư thấp hơn, gánh nặng trả nợ cao hơn và thiệt hại phân phối cho các hộ bị ràng buộc.
+
+**Hai gói củng cố** có cùng quy mô 1,5 điểm phần trăm GDP, thực hiện 0,3 điểm mỗi năm trong 2027–31. Thành phần (tính bằng % của tổng nỗ lực; dấu âm là cắt chi, dấu dương ở trợ cấp nhắm đích là khoản bù, ở thuế là tăng thuế):
+
+| Hạng mục | ExC (dựa vào chi) | ReC (dựa vào thu) |
+|---|---|---|
+| Trợ cấp bảo hiểm | −40 | −5 |
+| Trợ cấp khoán phổ quát | −40 | −5 |
+| Tiêu dùng chính phủ | −30 | −30 |
+| Trợ cấp nhắm đích (bù) | +20 | +18 |
+| Thuế lao động | +5 | +50 |
+| Thuế doanh nghiệp | +5 | +28 |
+
+Đầu tư công được giữ nguyên trong mọi kịch bản. Kịch bản thứ ba, ExC+SR, là ExC cộng thêm cải cách cơ cấu làm năng suất tổng hợp tăng 0,1–0,2 điểm phần trăm mỗi năm.
+
+**Chi phí của việc chờ** (so sánh ExC+SR với kịch bản cơ sở; ước đọc từ biểu đồ):
+
+| Chỉ tiêu | ExC+SR | Giữ nguyên chính sách |
+|---|---|---|
+| Nợ trên GDP năm 2031 | khoảng 134% | khoảng 139% (chênh khoảng 5 điểm phần trăm) |
+| Đầu tư tư nhân 2027–31 | cao hơn khoảng 0,7 điểm phần trăm | |
+| Chi trả lãi | giảm từ khoảng 3,7% xuống khoảng 3,4% GDP | vẫn khoảng 3,7% GDP |
+
+**Hai lưu ý của chính bài.** Thứ nhất, độ lớn của chi phí phụ thuộc vào giả định về độ dốc của nợ trong kịch bản cơ sở. Thứ hai, so sánh với ExC+SR phóng đại khác biệt, vì nó gộp cả lợi ích từ cải cách năng suất. Tuy vậy, kết luận định tính rằng trì hoãn là tốn kém vẫn đúng khi so ExC và ReC thuần với kịch bản cơ sở.
+
+Bài còn dẫn kết quả của Elenev và cộng sự (2025): khi nợ vượt một ngưỡng nhất định, chính sách tài khoá chủ động và chính sách tiền tệ chủ động không thể cùng duy trì. Khi đó chi phí của việc chờ có thể nhảy bậc chứ không tăng dần.
 
 ### 6. Thành phần của củng cố
 
-- ExC giảm nợ nhanh hơn vì cắt chi trực tiếp cải thiện cán cân sơ cấp; ReC chậm hơn vì thuế làm yếu hoạt động và thu hẹp cơ sở thuế.
-- Số nhân của ExC nhỏ hơn vì trợ cấp bị cắt một phần rơi vào hộ không bị ràng buộc thanh khoản, trong khi thuế lao động làm thu nhập co lại diện rộng ở một nền kinh tế nhiều hộ HtM.
-- Chênh lệch lợi suất giảm tạo tiết kiệm lãi đáng kể, hiệu ứng vắng mặt trong các mô hình giả định chênh lệch cố định.
+**Kết quả về sản lượng và nợ:**
+
+| | ExC | ReC |
+|---|---|---|
+| Sản lượng năm đầu so với giữ nguyên chính sách | khoảng −0,2% | khoảng −0,25% |
+| Tốc độ giảm nợ | nhanh hơn | chậm hơn, vì cơ sở thuế co lại |
+
+**Vì sao ExC giảm nợ nhanh hơn.** Cắt chi cải thiện trực tiếp cán cân sơ cấp. Với ReC, thuế cao hơn làm hoạt động kinh tế yếu đi và thu hẹp cơ sở thuế, nên một phần số thu dự tính không thành hiện thực.
+
+**Vì sao số nhân của ExC nhỏ hơn.** Một phần trợ cấp bị cắt rơi vào các hộ không bị ràng buộc thanh khoản, những hộ có thể dùng tiết kiệm để giữ mức tiêu dùng. Ngược lại, thuế lao động làm thu nhập co lại trên diện rộng, trong một nền kinh tế có nhiều hộ HtM tiêu gần hết thu nhập, nên cầu giảm mạnh hơn. Thêm vào đó, các nước này đã có mức thuế cao, nên chi phí biên của việc tăng thuế thêm nằm ở mức cao của khoảng ước lượng. Nếu buộc phải tăng thu, bài khuyên mở rộng cơ sở thuế, cắt ưu đãi thuế và chống trốn thuế, thay vì tăng thuế suất.
+
+**Tiết kiệm lãi nhờ chênh lệch lợi suất giảm.** Dưới ExC, chênh lệch lợi suất giảm khoảng 50 điểm cơ bản (0,5 điểm phần trăm) vào cuối kỳ, giúp tiết kiệm tiền lãi khoảng 0,2% GDP mỗi năm. Hiệu ứng này vắng mặt trong các mô hình giả định chênh lệch lợi suất cố định. Đây là lập luận cho một cuộc củng cố sớm và đáng tin.
 
 ### 7. Phân phối
 
-- Dưới ExC, nếu không có bù nhắm đích, cắt trợ cấp bảo hiểm và phổ quát rơi nặng lên hộ thu nhập thấp và trung bình, vốn nhận khoảng 60% tổng trợ cấp. Nhóm giữa chịu mức giảm tuyệt đối lớn nhất.
-- Bù nhắm đích nhỏ gần như triệt tiêu thiệt hại ở nhóm đáy vì người nhận có xu hướng tiêu dùng biên gần một. Bảo trợ xã hội nhắm đúng không chỉ công bằng mà còn hiệu quả về vĩ mô.
-- Dưới ReC, gánh nặng trải đều hơn nhưng tổng mức giảm tiêu dùng sâu hơn. Tác động của thuế doanh nghiệp lên nhóm giàu bị giảm và trễ vì tài sản kém thanh khoản.
-- Phân phối không phải tác dụng phụ để giảm nhẹ mà quay lại tác động lên tổng cầu. Mô hình không có biên thất nghiệp, nên thiệt hại thực của nhóm đáy có thể lớn hơn.
+Bài chia hộ theo thập phân vị tài sản và báo cáo ba nhóm: nhóm thấp (thập phân vị 1), nhóm giữa (thập phân vị 5) và nhóm cao (thập phân vị 10).
+
+**Dưới ExC.** Nếu không có khoản bù nhắm đích, việc cắt trợ cấp bảo hiểm và trợ cấp phổ quát rơi nặng lên hộ thu nhập thấp và trung bình, những hộ nhận khoảng 60% tổng trợ cấp; tiêu dùng của nhóm đáy giảm khoảng 0,5% ngay năm đầu. Nhưng khi dành 20% nỗ lực để tăng trợ cấp nhắm đích, thiệt hại của nhóm đáy gần như bị triệt tiêu, vì người nhận có MPC gần bằng 1: mỗi đồng bù quay lại thành cầu gần như ngay lập tức. Như bài kết luận, bảo trợ xã hội nhắm đúng không chỉ công bằng mà còn hiệu quả về vĩ mô. Nhóm giữa chịu mức giảm lớn nhất, vì trợ cấp bảo hiểm và trợ cấp phổ quát tập trung ở nhóm này.
+
+**Dưới ReC.** Thuế lao động chi phối phần giảm tiêu dùng ở mọi nhóm; thuế doanh nghiệp thêm một phần nhỏ, có tính luỹ tiến, ở nhóm giàu. Tác động của thuế doanh nghiệp lên nhóm giàu bị giảm và trễ vì tài sản của họ kém thanh khoản. Gánh nặng trải đều hơn giữa các nhóm, nhưng tổng mức giảm tiêu dùng sâu hơn.
+
+**Tiêu dùng so với giữ nguyên chính sách** (ước đọc từ biểu đồ, năm 2027 và năm 2031):
+
+| Nhóm | ExC: 2027 → 2031 | ReC: 2027 → 2031 |
+|---|---|---|
+| Nhóm thấp | khoảng 0 → khoảng −0,1% | khoảng 0 → khoảng −0,14% |
+| Nhóm giữa | khoảng −0,42 → khoảng −0,44% | khoảng −0,42 → khoảng −0,48% |
+| Nhóm cao | khoảng −0,27 → khoảng −0,21% | khoảng −0,32 → khoảng −0,29% |
+
+Ở cả hai gói, nhóm giữa chịu nặng nhất; gói ReC làm mọi nhóm thiệt hơn gói ExC.
+
+**Phân phối không phải tác dụng phụ.** Bài nhấn mạnh rằng tác động phân phối không chỉ là một hệ quả cần giảm nhẹ, mà quay lại tác động lên tổng cầu: cắt vào nhóm có MPC cao thì cầu co mạnh hơn. Lựa chọn con đường củng cố cũng là lựa chọn về việc ai gánh chi phí. Hạn chế: mô hình không có biên việc làm–thất nghiệp (người lao động chỉ làm nhiều hay ít giờ, không mất việc), nên tác động thật lên nhóm đáy, gồm lao động phi chính thức, bán thời gian và lương thấp, có thể lớn hơn.
 
 ### 8. Cải cách cơ cấu
 
-- Với cải cách, năng suất cao hơn nâng sản phẩm biên của lao động và vốn, hỗ trợ đầu tư và khôi phục lương thực. Sản lượng vượt mức giữ nguyên chính sách từ sau năm thứ hai.
-- Lợi ích lũy tiến vì kênh lương có tác dụng mạnh hơn ở nhóm đáy. Cần ít trợ cấp nhắm đích hơn để bảo vệ hộ nghèo.
-- Loại cải cách quyết định ai được lợi; gói nghiêng về thị trường chung và nâng kỹ năng sẽ lũy tiến hơn gói dựa chủ yếu vào bãi bỏ quy định trong nước.
+**Kịch bản ExC+SR.** Củng cố dựa vào chi, cộng thêm cải cách làm năng suất tổng hợp tăng 0,1–0,2 điểm phần trăm mỗi năm.
+
+**Tác động vĩ mô.** Năng suất cao hơn nâng sản phẩm biên của lao động và vốn, hỗ trợ đầu tư và khôi phục lương thực. Sản lượng vượt mức giữ nguyên chính sách từ sau năm thứ 2. Cơ sở thuế rộng ra, nợ giảm nhanh hơn và chênh lệch lợi suất bị nén mạnh hơn. Cải cách vì vậy biến một cuộc điều chỉnh gây co hẹp thành một cuộc điều chỉnh thân thiện với tăng trưởng. Theo IMF (2025), một gói cải cách vừa phải có thể giảm nhu cầu điều chỉnh tài khoá tích luỹ khoảng 1,5 điểm phần trăm GDP.
+
+**Tác động phân phối.** Lương thực vào năm thứ 4 cao hơn kịch bản ExC khoảng 0,2%. Lợi ích có tính luỹ tiến, vì kênh lương tác động mạnh hơn ở nhóm đáy: các hộ HtM sống bằng lương được lợi nhiều nhất. Nhờ vậy cần ít trợ cấp nhắm đích hơn để bảo vệ hộ nghèo.
+
+**Loại cải cách cũng là lựa chọn phân phối:**
+
+| Loại cải cách | Tốc độ | Ai được, ai mất |
+|---|---|---|
+| Bãi bỏ quy định trong nước | tăng năng suất nhanh nhất | có thể ép thu nhập của người lao động trong các ngành được bảo hộ, chủ yếu là trung lưu |
+| Hội nhập thị trường chung EU | chậm hơn | lợi ích lan rộng hơn |
+| Nâng kỹ năng, chính sách lao động chủ động | chậm nhất | luỹ tiến nhất |
+
+Một gói nghiêng về thị trường chung và nâng kỹ năng sẽ luỹ tiến hơn một gói dựa chủ yếu vào bãi bỏ quy định trong nước.
+
+**Kiểm tra độ vững.** Bài kiểm tra hai giả định quan trọng:
+
+- **Độ nhạy của chênh lệch lợi suất theo nợ η.** Ngoài mức cơ sở 0,0077, bài thử 0,0100 và 0,0125 (theo Pamies và cộng sự 2021, so với trái phiếu Bund của Đức) và 0,0150 (ước lượng của chính bài). Với η lớn hơn, tiết kiệm lãi lớn hơn một chút và nợ giảm nhanh hơn, nhưng thứ hạng các kịch bản giữ nguyên.
+- **Tỷ trọng hộ HtM.** Có hai cách hiệu chỉnh. Cách thứ nhất đo trực tiếp từ vi dữ liệu khảo sát hộ gia đình (HFCS của khu vực euro, SCF của Mỹ); theo Arroyo và Tisnés (2023), khác biệt giữa các nước chủ yếu do nhóm giàu HtM. Cách thứ hai, bài chọn, là nhắm vào MPC bình quân và để tỷ trọng HtM tự hình thành, cho ra 43% HtM gồm 32% giàu và 11% nghèo. Vì vậy các kết quả phân tích phân phối là có điều kiện, phụ thuộc vào cách hiệu chỉnh này.
 
 ### 9. Hàm ý thiết kế
 
-- Hành động ngay rẻ hơn chờ đợi; cam kết một lộ trình bền vững thay vì điều chỉnh tùy ý hằng năm mới tạo ra hiệu ứng kỳ vọng làm nén chênh lệch.
-- Thành phần tiết kiệm chi quan trọng ngang quy mô: loại bỏ trợ cấp kém hiệu quả hay cải cách trợ cấp phổ quát nhắm kém ít tốn về cầu.
-- Bảo vệ đầu tư công để giữ tính bổ trợ giữa vốn công và vốn tư.
-- Hệ thống bảo trợ có thể mở rộng trợ cấp nhắm đích nhanh là bổ sung then chốt.
-- Khi bất bình đẳng cao, tính bền vững nợ phụ thuộc vào phân phối tài sản: điều chỉnh để hộ bị ràng buộc quá lộ ra sẽ làm suy yếu chính khả năng thực hiện kế hoạch.
+- **Hành động ngay rẻ hơn chờ đợi.** Cam kết một lộ trình bền vững nhiều năm, thay vì điều chỉnh tuỳ ý hằng năm, mới tạo ra hiệu ứng kỳ vọng giúp nén chênh lệch lợi suất.
+- **Thành phần tiết kiệm chi quan trọng ngang quy mô.** Loại bỏ trợ cấp kém hiệu quả, hay cải cách các khoản trợ cấp phổ quát nhắm kém, ít tốn kém về cầu hơn.
+- **Bảo vệ đầu tư công**, để giữ tính bổ trợ giữa vốn công và vốn tư: đường sá, hạ tầng tốt làm vốn tư nhân sinh lợi hơn.
+- **Một hệ thống bảo trợ có thể mở rộng trợ cấp nhắm đích nhanh** là bổ sung then chốt cho mọi gói củng cố.
+- **Khi bất bình đẳng cao, tính bền vững của nợ phụ thuộc vào phân phối tài sản.** Một cuộc điều chỉnh để các hộ bị ràng buộc thanh khoản chịu tổn thất quá lớn sẽ làm suy yếu chính khả năng thực hiện kế hoạch, cả về kinh tế lẫn chính trị.
 
 ## Thuật ngữ
 
