@@ -346,140 +346,371 @@
 2. **Tiền ngân hàng là gì và vì sao nó ổn định hơn tiền lưu hành?** Là số dư ghi có trên sổ một ngân hàng như Ngân hàng Amsterdam, được bảo chứng đầy đủ bằng kim loại theo đúng chuẩn, dùng để thanh toán hối phiếu bằng chuyển khoản. Nó có giá cao hơn tiền lưu hành khoảng 5% (agio) vì đủ chuẩn, an toàn và tiện lợi. Quyền rút kim loại được tách ra thành giấy biên nhận có thời hạn, và ngân hàng giữ agio trong biên độ 4–5% bằng cách mua bán tiền ngân hàng.
 3. **Vì sao học thuyết cán cân thương mại sai từ gốc, và cái gì thay thế nó?** Vì lợi ích của thương mại đo bằng giá trị trao đổi của sản phẩm hằng năm chứ không bằng vàng bạc, và trao đổi tự nguyện có lợi cho cả hai bên. Học thuyết ấy do tinh thần độc quyền của nhà buôn sinh ra và được thành kiến dân tộc nuôi dưỡng. Cái thực sự quyết định thịnh suy là cán cân giữa sản xuất và tiêu dùng hằng năm, tức tiết kiệm và tích luỹ vốn.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Cán cân thương mại song phương và tổng thể (bilateral and overall balance of trade).** Cán cân thương mại là chênh lệch giữa giá trị xuất khẩu và nhập khẩu. Cán cân song phương chỉ tính giữa hai nước; cán cân tổng thể tính giữa một nước với toàn thế giới. Hai thứ này có thể ngược chiều nhau. Ví dụ minh hoạ: Anh thâm hụt 10 với Pháp nhưng thặng dư 15 với Hà Lan và 5 với Bồ Đào Nha, thì tổng thể Anh vẫn thặng dư 10. Phần I của chương dựa trên phân biệt này để chỉ ra rằng hạn chế hàng Pháp vì cán cân "bất lợi" với Pháp là vô căn cứ, ngay cả theo logic trọng thương.
+
+**Hối phiếu và tỷ giá hối đoái (bill of exchange, exchange).** Hối phiếu là giấy ra lệnh cho một người ở nơi khác trả một số tiền; nhờ nó, nhà buôn ở London trả nợ ở Paris mà không phải chở tiền qua biển. Tỷ giá là số tiền phải trả ở nơi này để mua một hối phiếu đòi được một số tiền nhất định ở nơi kia. Khi London nợ Paris nhiều hơn Paris nợ London, cầu về hối phiếu đòi tiền ở Paris tăng, người mua phải trả thêm một khoản bù (premium), và tỷ giá được gọi là "bất lợi" cho London. Ví dụ minh hoạ: để có hối phiếu đòi 100 ở Paris, phải trả 102 ở London. Phái trọng thương dùng tỷ giá như nhiệt kế đo cán cân thương mại; Smith chỉ ra nhiệt kế ấy sai ở nhiều chỗ.
+
+**Ngang giá, tỷ giá tính toán và tỷ giá thực (par of exchange, computed and real exchange).** "Ngang giá" là khi một số tiền trả ở Anh, chứa một số ounce bạc nguyên chất theo chuẩn của Sở đúc tiền Anh, mua được hối phiếu đòi một số tiền ở Pháp chứa đúng số ounce ấy theo chuẩn của Sở đúc tiền Pháp. Tỷ giá tính toán là tỷ giá so với ngang giá trên giấy, theo chuẩn; tỷ giá thực là tỷ giá so với lượng bạc thực có trong tiền đang lưu hành. Ví dụ trong chương: trước năm 1696, tỷ giá tính toán với Hà Lan bất lợi cho Anh 25%, nhưng tiền Anh khi ấy đã mòn hơn 25% so với chuẩn, nên tính theo bạc thực thì tỷ giá có thể có lợi cho Anh. Khái niệm này cho thấy vì sao con số tỷ giá không dùng được để đo cán cân.
+
+**Phí đúc tiền (seigniorage).** Khoản mà Sở đúc tiền thu khi biến kim loại thành tiền đúc. Nếu có phí, đồng tiền đáng giá hơn lượng kim loại chứa trong nó, đúng bằng phần phí ấy, vì muốn có đồng tiền thì phải trả phí. Ví dụ trong chương: ở Anh đúc miễn phí, một pound bạc chuẩn mang tới Sở đúc tiền nhận lại 62 shilling chứa đúng một pound bạc chuẩn; ở Pháp thu thuế đúc 8%. Vì vậy cùng một lượng bạc, tiền Pháp đáng giá hơn tiền Anh, và tỷ giá tính toán nghiêng về Pháp mà không phản ánh gì về cán cân thương mại.
+
+**Tiền ngân hàng và agio (bank money, agio).** Tiền ngân hàng là số dư ghi có trên sổ của một ngân hàng tiền gửi như Ngân hàng Amsterdam, được bảo chứng bằng kim loại đúng chuẩn và dùng để thanh toán bằng chuyển khoản. Agio là phần chênh lệch mà tiền ngân hàng đáng giá hơn tiền đúc đang lưu hành cùng mệnh giá. Ví dụ trong chương: 1.000 guilder tiền ngân hàng Amsterdam đổi được khoảng 1.050 guilder tiền lưu hành, tức agio khoảng 5%; ở Hamburg agio khoảng 14%. Khái niệm này vừa là lý do thứ ba khiến tỷ giá tính toán sai lệch, vừa là chủ đề của phần lạc đề dài về Ngân hàng Amsterdam.
+
+**Giấy biên nhận (receipt).** Ở Ngân hàng Amsterdam, người ký gửi vàng bạc thỏi nhận hai thứ: một khoản ghi có bằng tiền ngân hàng và một giấy biên nhận cho quyền rút lại đúng lượng kim loại ấy trong sáu tháng, với điều kiện nộp lại lượng tiền ngân hàng tương ứng và trả phí giữ kho ¼% (bạc) hoặc ½% (vàng). Hai thứ này được mua bán riêng. Ví dụ trong chương: giá tiền ngân hàng (agio khoảng 5%) cộng giá biên nhận (khoảng 2–3%) bằng giá thị trường đầy đủ của kim loại. Hiểu cơ chế tách đôi này là chìa khoá để hiểu kịch bản khủng hoảng mà Smith suy đoán.
+
+**Vốn quay vòng (turnover of capital).** Số lần trong một năm mà một khoản vốn bỏ vào buôn bán được thu về để dùng lại. Vốn quay vòng càng nhanh thì cùng một lượng vốn nuôi được càng nhiều lao động trong một năm. Ví dụ trong chương: vốn buôn giữa bờ nam nước Anh và bờ bắc nước Pháp có thể quay vòng 4, 5 hay 6 lần mỗi năm; vốn buôn với thuộc địa Bắc Mỹ phải 3 năm, thường 4–5 năm mới về. Smith dùng khái niệm này để tính rằng thương mại với Pháp có lợi gấp nhiều lần thương mại thuộc địa.
+
+**Cán cân giữa sản xuất và tiêu dùng.** Chênh lệch giữa giá trị sản phẩm một xã hội làm ra trong năm và giá trị nó tiêu dùng trong năm. Phần dư là tiết kiệm, được thêm vào vốn; phần thiếu là ăn vào vốn. Ví dụ minh hoạ: một nước làm ra 100 và tiêu dùng 90 thì vốn tăng 10, năm sau có thể làm ra nhiều hơn; tiêu dùng 110 thì vốn giảm 10. Đây là "cán cân thật sự" mà Smith đặt thay cho cán cân thương mại ở cuối chương, và nó có thể thuận ngay cả khi cán cân thương mại nghịch suốt nhiều năm.
+
+## Nội dung chi tiết
 
 ### 1. Mô tả các hạn chế với hàng Pháp
 
-- Hạn chế nhập khẩu từ các nước có cán cân bị coi là bất lợi là công cụ thứ hai mà hệ thống trọng thương đề xuất để tăng vàng bạc.
-- Ví dụ ở Anh: vải silesia được nhập để tiêu dùng sau khi nộp thuế, nhưng vải lanh mịn và vải batit Pháp bị cấm nhập trừ khi qua cảng London và nằm trong kho để tái xuất. Rượu vang Pháp chịu thuế cao hơn rượu Bồ Đào Nha hay bất kỳ nước nào khác.
-- Thuế nhập khẩu năm 1692 đánh 25% giá trị lên phần lớn hàng Pháp, trong khi phần lớn hàng các nước khác chịu thuế nhẹ hơn nhiều, thường không quá 5%. Rượu vang, rượu mạnh, muối và dấm Pháp bị tách riêng và chịu thêm các thuế nặng khác.
-- Năm 1696, vì 25% bị coi là quá nhẹ để ngăn nhập, thêm 25% nữa với hàng Pháp (trừ rượu mạnh), cùng thuế mới £25 mỗi tấn rượu vang Pháp và £15 mỗi tấn dấm Pháp.
-- Hàng Pháp không bao giờ được miễn các khoản thuế chung (thuế 5% theo bảng giá hải quan). Tính gộp thuế một phần ba và hai phần ba thành một khoản thì có năm khoản thuế chung như vậy. Vì thế trước cuộc chiến tranh hiện tại (Chiến tranh Độc lập Mỹ), 75% có thể coi là mức thuế thấp nhất với phần lớn hàng nông sản và hàng chế tạo Pháp. Với phần lớn hàng hoá, mức này chẳng khác gì cấm nhập.
-- Smith tin Pháp cũng đối xử với hàng Anh thẳng tay như vậy. Các hạn chế có đi có lại đó đã chấm dứt mọi buôn bán công bằng giữa hai nước, và kẻ buôn lậu trở thành người nhập khẩu chính theo cả hai chiều.
-- Phân loại nguồn gốc: các nguyên tắc ở Chương II xuất phát từ lợi ích tư nhân và tinh thần độc quyền; các nguyên tắc ở chương này xuất phát từ thành kiến dân tộc và thù địch. Vì vậy chúng càng vô lý và quá đáng hơn, ngay cả xét theo chính các nguyên tắc của hệ thống trọng thương.
+Ở Chương I, Smith liệt kê sáu công cụ mà hệ thống trọng thương dùng để kéo vàng bạc về nước. Công cụ thứ hai, đề tài của chương này, là hạn chế đặc biệt việc nhập gần như mọi loại hàng từ những nước mà cán cân thương mại được coi là bất lợi cho mình. Ở nước Anh thời Smith, mũi nhọn của công cụ này nhắm vào nước Pháp.
+
+Smith mô tả cụ thể. Vải silesia (vải lanh từ vùng Silesia của Đức) được nhập vào Anh để tiêu dùng, sau khi nộp thuế. Nhưng vải lanh mịn và vải batit của Pháp thì bị cấm nhập, trừ khi được đưa vào cảng London và nằm trong kho chờ tái xuất sang nước khác. Rượu vang Pháp chịu thuế cao hơn rượu vang Bồ Đào Nha, và cao hơn rượu vang của bất kỳ nước nào khác.
+
+Các mức thuế chồng lên nhau qua nhiều năm:
+
+| Năm hay loại thuế | Nội dung |
+|---|---|
+| 1692 | Thuế nhập khẩu 25% giá trị đánh lên phần lớn hàng Pháp, trong khi phần lớn hàng các nước khác chịu thuế nhẹ hơn nhiều, thường không quá 5%. Rượu vang, rượu mạnh, muối và dấm Pháp bị tách riêng và chịu thêm các thuế nặng khác |
+| 1696 | Vì 25% bị coi là quá nhẹ để ngăn nhập, đánh thêm 25% nữa lên hàng Pháp (trừ rượu mạnh), cùng thuế mới £25 mỗi tấn rượu vang Pháp và £15 mỗi tấn dấm Pháp |
+| Các thuế chung | Hàng Pháp không bao giờ được miễn các khoản thuế chung, mỗi khoản 5% theo bảng giá hải quan. Nếu tính gộp thuế một phần ba (1/3) và thuế hai phần ba (2/3) thành một khoản, thì có năm khoản thuế chung như vậy |
+| Kết quả | Trước cuộc chiến tranh hiện tại (Chiến tranh Độc lập Mỹ), 75% có thể coi là mức thuế thấp nhất với phần lớn hàng nông sản và hàng chế tạo Pháp |
+
+Với phần lớn hàng hoá, mức thuế 75% chẳng khác gì một lệnh cấm nhập. Smith tin rằng Pháp cũng đối xử thẳng tay như vậy với hàng Anh. Các hạn chế qua lại đó đã chấm dứt mọi buôn bán công bằng giữa hai nước. Kẻ buôn lậu trở thành người nhập khẩu chính theo cả hai chiều: hàng Anh vào Pháp và hàng Pháp vào Anh đều chủ yếu đi bằng đường lậu.
+
+Smith phân loại nguồn gốc của các hạn chế. Những hạn chế ở Chương II (với hàng ngoại mà trong nước làm được) xuất phát từ lợi ích tư nhân và tinh thần độc quyền của nhà sản xuất. Những hạn chế ở chương này xuất phát từ thành kiến dân tộc và lòng thù địch giữa các nước. Vì vậy, theo Smith, chúng còn vô lý và quá đáng hơn, ngay cả khi xét theo chính các nguyên tắc của hệ thống trọng thương. Phần I của chương chứng minh điều đó; Phần II đi xa hơn, bác bỏ bản thân các nguyên tắc ấy.
 
 ### 2. Ba lý do trong khuôn khổ trọng thương
 
-- **Thứ nhất, song phương không phải tổng thể.** Giả sử buôn bán tự do giữa Pháp và Anh và cán cân có lợi cho Pháp, không thể suy ra buôn bán ấy bất lợi cho Anh, càng không thể suy ra cán cân tổng thể của Anh xấu đi. Nếu rượu vang Pháp tốt và rẻ hơn rượu Bồ Đào Nha, vải lanh Pháp tốt và rẻ hơn vải Đức, thì mua của Pháp có lợi hơn. Giá trị nhập từ Pháp tăng nhiều, nhưng tổng giá trị nhập khẩu của Anh giảm theo tỷ lệ hàng Pháp rẻ hơn. Điều này đúng ngay cả khi toàn bộ hàng Pháp được tiêu dùng ở Anh.
-- **Thứ hai, tái xuất.** Phần lớn hàng Pháp có thể được tái xuất sang nước khác với lãi, mang về số tiền có thể bằng giá vốn của toàn bộ hàng nhập từ Pháp. Người ta vẫn nói đúng điều này về thương mại Đông Ấn: dù phần lớn hàng Đông Ấn được mua bằng vàng bạc, tái xuất một phần thu về lượng vàng bạc không kém lượng đã bỏ ra. Một trong những ngành quan trọng nhất của thương mại Hà Lan hiện nay là chở hàng Pháp sang các nước Châu Âu khác, và ngay cả một phần rượu vang Pháp mà người Anh uống hằng ngày cũng do Hà Lan và Zealand nhập lậu vào. Nếu thương mại với Pháp tự do, hoặc hàng Pháp chịu thuế như hàng các nước khác, Anh có thể giành lại một phần lợi nhuận buôn chuyển tải mà Hà Lan đang hưởng.
-- **Thứ ba, không có thước đo.** Không có tiêu chuẩn vững chắc để xác định cán cân nghiêng về bên nào. Thành kiến dân tộc và thù hận, được lợi ích riêng của một số nhà buôn khơi lên, chi phối mọi phán đoán về chủ đề này. Hai tiêu chuẩn thường dùng là sổ sách hải quan và diễn biến tỷ giá hối đoái. Sổ hải quan bị mọi người thừa nhận là không đúng, vì giá tính thuế của phần lớn hàng hoá không chính xác. Tỷ giá cũng không hơn.
+Ở Phần I, Smith tạm chấp nhận mục tiêu của phái trọng thương (giữ vàng bạc trong nước) và chỉ ra rằng ngay cả với mục tiêu đó, các hạn chế với hàng Pháp vẫn không đứng vững. Ông đưa ra ba lý do.
+
+**Lý do thứ nhất: cán cân song phương không phải cán cân tổng thể.** Giả sử Anh và Pháp buôn bán tự do, và cán cân giữa hai nước nghiêng về phía Pháp. Từ đó không thể suy ra rằng buôn bán ấy bất lợi cho Anh, càng không thể suy ra rằng cán cân tổng thể của Anh với toàn thế giới xấu đi. Lý do: nếu rượu vang Pháp tốt hơn và rẻ hơn rượu vang Bồ Đào Nha, và vải lanh Pháp tốt hơn và rẻ hơn vải lanh Đức, thì người Anh mua của Pháp sẽ có lợi hơn mua của Bồ Đào Nha hay Đức. Khi đó giá trị nhập khẩu từ Pháp tăng nhiều, nhưng tổng giá trị nhập khẩu của Anh lại giảm, theo đúng tỷ lệ mà hàng Pháp rẻ hơn hàng thay thế. Điều này đúng ngay cả khi toàn bộ hàng Pháp được tiêu dùng ở Anh, không tái xuất chút nào.
+
+Ví dụ minh hoạ: trước kia Anh mua lượng rượu cần dùng từ Bồ Đào Nha hết 100 đơn vị; nay mua cùng lượng rượu ấy từ Pháp chỉ hết 80. Cán cân với Pháp xấu đi 80, nhưng tổng chi cho nhập khẩu rượu của Anh giảm 20.
+
+**Lý do thứ hai: tái xuất.** Phần lớn hàng Pháp nhập vào Anh có thể được tái xuất sang nước khác với lãi, và mang về một số tiền có thể bằng giá vốn của toàn bộ hàng nhập từ Pháp. Người ta vẫn nói đúng điều này về thương mại Đông Ấn: dù phần lớn hàng Đông Ấn được mua bằng vàng bạc, việc tái xuất một phần số hàng ấy sang các nước khác thu về lượng vàng bạc không kém lượng đã bỏ ra. Thực tế đã chứng minh: một trong những ngành quan trọng nhất của thương mại Hà Lan thời Smith là chở hàng Pháp đi bán khắp các nước châu Âu khác. Ngay cả một phần rượu vang Pháp mà người Anh uống hằng ngày cũng do người Hà Lan và Zealand nhập lậu vào Anh. Nếu thương mại giữa Anh và Pháp được tự do, hoặc hàng Pháp chỉ chịu thuế như hàng các nước khác, Anh có thể giành lại một phần lợi nhuận buôn chuyển tải mà Hà Lan đang hưởng.
+
+**Lý do thứ ba: không có thước đo đáng tin.** Không có tiêu chuẩn vững chắc nào để xác định cán cân giữa hai nước nghiêng về bên nào. Trong thực tế, mọi phán đoán về chủ đề này bị chi phối bởi thành kiến dân tộc và thù hận, vốn lại được lợi ích riêng của một số nhà buôn khơi lên. Hai tiêu chuẩn thường được dùng là:
+
+- **Sổ sách hải quan.** Mọi người đều thừa nhận sổ hải quan không đúng, vì giá tính thuế ghi trong bảng giá hải quan của phần lớn hàng hoá không khớp với giá thật.
+- **Diễn biến tỷ giá hối đoái.** Theo Smith, tỷ giá cũng không đáng tin hơn. Ba mục tiếp theo giải thích vì sao.
 
 ### 3. Tỷ giá hối đoái và nợ có giữa hai nơi
 
-- Khi tỷ giá giữa London và Paris ở mức ngang giá, người ta coi đó là dấu hiệu nợ của London với Paris cân bằng với nợ của Paris với London. Khi phải trả tiền bù ở London cho một hối phiếu đòi tiền ở Paris, người ta coi đó là dấu hiệu London nợ nhiều hơn, phải gửi tiền đi, và nhà ngân hàng đòi tiền bù cho rủi ro, phiền toái và chi phí chuyển tiền.
-- Nợ có thông thường giữa hai thành phố được điều chỉnh bởi giao dịch giữa chúng. Khi không bên nào nhập từ bên kia nhiều hơn xuất sang, nợ và có bù trừ nhau. Khi một bên nhập nhiều hơn xuất, bên đó nợ nhiều hơn, và tiền phải chuyển đi. Vì vậy tỷ giá thông thường là một dấu hiệu của nợ có, và qua đó của xuất nhập khẩu.
-- Nhưng nợ có giữa hai nơi không chỉ do giao dịch giữa chúng quyết định, mà còn do giao dịch của mỗi nơi với nơi khác. Nếu nhà buôn Anh thường trả tiền hàng mua ở Hamburg, Dantzic, Riga bằng hối phiếu ký phát ở Hà Lan, Anh có thể phải chuyển tiền sang Hà Lan hằng năm dù xuất khẩu sang Hà Lan vượt xa nhập từ Hà Lan và cán cân nghiêng nhiều về phía Anh.
+Lập luận của phái trọng thương về tỷ giá như sau. Khi tỷ giá giữa London và Paris ở mức ngang giá, người ta coi đó là dấu hiệu rằng nợ của London với Paris cân bằng với nợ của Paris với London. Khi ở London phải trả thêm một khoản bù (premium) để mua một hối phiếu đòi tiền ở Paris, người ta coi đó là dấu hiệu London nợ Paris nhiều hơn. London phải gửi tiền sang Paris, và nhà ngân hàng lo việc này đòi khoản bù để trả cho rủi ro, phiền toái và chi phí chuyển tiền. Lúc ấy tỷ giá được gọi là "bất lợi" cho London.
+
+Smith thừa nhận phần đầu của lập luận. Tình trạng nợ có thông thường giữa hai thành phố được điều chỉnh bởi giao dịch giữa chúng. Khi không bên nào nhập từ bên kia nhiều hơn xuất sang, nợ và có của hai bên bù trừ nhau. Khi một bên nhập nhiều hơn xuất, bên đó nợ nhiều hơn, và tiền phải được chuyển đi. Vì vậy tỷ giá thông thường là một dấu hiệu của tình trạng nợ có, và qua đó là một dấu hiệu của xuất nhập khẩu giữa hai nơi.
+
+Nhưng có một chỗ hổng: nợ có giữa hai nơi không chỉ do giao dịch giữa hai nơi ấy quyết định, mà còn do giao dịch của mỗi nơi với những nơi khác. Ví dụ của Smith: nếu nhà buôn Anh thường trả tiền hàng mua ở Hamburg, Dantzic và Riga bằng hối phiếu ký phát ở Hà Lan (tức nhờ Hà Lan trả hộ), thì Anh phải chuyển tiền sang Hà Lan hằng năm để thanh toán các hối phiếu ấy. Điều này xảy ra ngay cả khi Anh xuất sang Hà Lan vượt xa lượng nhập từ Hà Lan, và cán cân thương mại với Hà Lan nghiêng nhiều về phía Anh. Nói cách khác, khi thanh toán là đa phương, tỷ giá giữa hai nơi phản ánh nợ có của cả một mạng lưới, không đo được thương mại giữa riêng hai nơi đó.
 
 ### 4. Tỷ giá tính toán và tỷ giá thực
 
-- Tỷ giá được coi là ngang giá khi một số tiền trả ở Anh, chứa một số ounce bạc nguyên chất theo chuẩn Sở đúc tiền Anh, mua được hối phiếu đòi một số tiền ở Pháp chứa đúng số ounce ấy theo chuẩn Sở đúc tiền Pháp. Trả nhiều hơn là Anh trả tiền bù, tỷ giá bất lợi cho Anh. Trả ít hơn là Anh được tiền thưởng, tỷ giá có lợi cho Anh. Nhưng cách tính này có ba sai lệch.
-- **Tiền mòn và bị cắt xén.** Giá trị tiền đang lưu hành ở mỗi nước so với nước khác tỷ lệ với lượng kim loại thực chứa trong nó, không với chuẩn. Trước đợt đúc lại tiền bạc thời vua William (1696), tỷ giá với Hà Lan tính theo chuẩn của hai Sở đúc tiền là bất lợi cho Anh 25%. Nhưng theo William Lowndes, tiền Anh khi đó kém chuẩn hơn 25%. Vậy tỷ giá thực có thể có lợi cho Anh: một số ounce bạc thực trả ở Anh mua được hối phiếu đòi nhiều ounce hơn ở Hà Lan. Trước đợt đúc lại tiền vàng gần đây (1774), tiền Pháp mòn ít hơn tiền Anh, có lẽ gần chuẩn hơn tiền Anh 2–3%. Nếu tỷ giá tính toán với Pháp không bất lợi cho Anh quá 2–3% thì tỷ giá thực là có lợi cho Anh. Từ khi đúc lại, tỷ giá luôn có lợi cho Anh.
-- **Phí đúc tiền.** Ở Anh nhà nước chịu toàn bộ chi phí đúc: mang một pound bạc chuẩn tới Sở đúc tiền nhận lại 62 shilling chứa đúng một pound bạc chuẩn. Vì vậy tiền Anh không thể có giá trị cao hơn lượng kim loại trong nó. Ở Pháp phải nộp thuế đúc 8%, đủ trả chi phí và còn cho nhà nước một khoản thu nhỏ. Vì vậy tiền Pháp có giá trị cao hơn lượng bạc nó chứa. Ngay cả khi tiền hai nước đều gần chuẩn, một số tiền Anh không đổi ngang được số tiền Pháp chứa cùng số ounce bạc. Nếu phải trả thêm không quá chi phí đúc tiền ở Pháp, tỷ giá thực vẫn có thể là ngang giá dù tỷ giá tính toán nghiêng nhiều về Pháp. Nếu trả thêm ít hơn, tỷ giá thực có lợi cho Anh.
-- **Tiền ngân hàng.** Ở Amsterdam, Hamburg, Venice, hối phiếu ngoại được trả bằng tiền ngân hàng; ở London, Lisbon, Antwerp, Leghorn, bằng tiền lưu hành thông thường. Tiền ngân hàng luôn có giá trị cao hơn số tiền lưu hành cùng mệnh giá: 1.000 guilder ở Ngân hàng Amsterdam đáng giá hơn 1.000 guilder tiền lưu hành, chênh lệch gọi là agio, thường khoảng 5%. Nếu tiền lưu hành của cả hai nước đều gần chuẩn, mà nước này trả hối phiếu bằng tiền thường còn nước kia bằng tiền ngân hàng, thì tỷ giá tính toán có thể có lợi cho nước trả bằng tiền ngân hàng dù tỷ giá thực có lợi cho nước kia. Tương tự, tỷ giá tính toán có thể có lợi cho nước trả bằng tiền tốt hơn, dù tỷ giá thực có lợi cho nước trả bằng tiền xấu hơn.
-- Áp dụng: trước đợt đúc lại tiền vàng, tỷ giá tính toán thường bất lợi cho London với Amsterdam, Hamburg, Venice và mọi nơi trả bằng tiền ngân hàng, nhưng không thể suy ra tỷ giá thực bất lợi. Từ khi đúc lại, tỷ giá thực luôn có lợi cho London với các nơi đó. Với Lisbon, Antwerp, Leghorn và hầu hết các nơi trả bằng tiền thường (trừ Pháp), tỷ giá tính toán thường có lợi cho London, và nhiều khả năng tỷ giá thực cũng vậy.
+Ngoài vấn đề thanh toán đa phương, Smith chỉ ra rằng ngay cách tính tỷ giá cũng sai lệch. Tỷ giá được coi là ngang giá khi một số tiền trả ở Anh, chứa một số ounce bạc nguyên chất theo chuẩn của Sở đúc tiền Anh, mua được hối phiếu đòi một số tiền ở Pháp chứa đúng số ounce ấy theo chuẩn của Sở đúc tiền Pháp. Nếu phải trả nhiều hơn, Anh trả tiền bù và tỷ giá bất lợi cho Anh; nếu trả ít hơn, Anh được tiền thưởng và tỷ giá có lợi cho Anh. Cách tính này có ba sai lệch.
+
+**Sai lệch thứ nhất: tiền mòn và bị cắt xén.** Giá trị tiền đang lưu hành ở một nước so với tiền nước khác tỷ lệ với lượng kim loại thực chứa trong nó, không phải với lượng kim loại mà chuẩn quy định. Hai ví dụ:
+
+| Thời điểm | Tỷ giá tính toán | Thực tế về tiền | Tỷ giá thực |
+|---|---|---|---|
+| Trước đợt đúc lại tiền bạc thời vua William (1696) | Với Hà Lan, bất lợi cho Anh 25% | Theo William Lowndes, tiền Anh khi đó kém chuẩn hơn 25% | Có thể có lợi cho Anh: một số ounce bạc thực trả ở Anh mua được hối phiếu đòi nhiều ounce bạc hơn ở Hà Lan |
+| Trước đợt đúc lại tiền vàng gần đây (1774) | Với Pháp, thường bất lợi cho Anh | Tiền Pháp mòn ít hơn tiền Anh, có lẽ gần chuẩn hơn tiền Anh 2–3% | Nếu tỷ giá tính toán không bất lợi cho Anh quá 2–3% thì tỷ giá thực là có lợi cho Anh |
+| Sau đợt đúc lại tiền vàng | | Tiền Anh trở lại gần chuẩn | Tỷ giá với Pháp luôn có lợi cho Anh |
+
+Ý của bảng này: cái trông như Anh đang "thiệt" trên tỷ giá thực ra chỉ phản ánh việc tiền Anh chứa ít bạc hơn tiền nước kia.
+
+**Sai lệch thứ hai: phí đúc tiền.** Ở Anh, nhà nước chịu toàn bộ chi phí đúc tiền. Ai mang một pound bạc chuẩn tới Sở đúc tiền sẽ nhận lại 62 shilling, chứa đúng một pound bạc chuẩn. Vì vậy tiền Anh không thể có giá trị cao hơn lượng kim loại trong nó: nếu có, người ta sẽ mang bạc đi đúc miễn phí. Ở Pháp, người mang kim loại đi đúc phải nộp thuế đúc 8%, đủ trả chi phí đúc và còn để lại cho nhà nước một khoản thu nhỏ. Vì vậy tiền Pháp có giá trị cao hơn lượng bạc nó chứa. Hệ quả: ngay cả khi tiền của cả hai nước đều gần đúng chuẩn, một số tiền Anh không đổi ngang được số tiền Pháp chứa cùng số ounce bạc. Nếu người Anh phải trả thêm, nhưng không quá chi phí đúc tiền ở Pháp (tối đa khoảng 8%), để mua hối phiếu đòi tiền ở Paris, thì tỷ giá thực vẫn có thể là ngang giá, dù tỷ giá tính toán trông như nghiêng nhiều về phía Pháp. Nếu phải trả thêm ít hơn mức ấy, tỷ giá thực còn có lợi cho Anh.
+
+**Sai lệch thứ ba: tiền ngân hàng.** Ở một số nơi, hối phiếu ngoại được thanh toán bằng tiền ngân hàng; ở những nơi khác, bằng tiền lưu hành thông thường:
+
+| Thanh toán hối phiếu ngoại bằng tiền ngân hàng | Thanh toán bằng tiền lưu hành thông thường |
+|---|---|
+| Amsterdam, Hamburg, Venice | London, Lisbon, Antwerp, Leghorn |
+
+Tiền ngân hàng luôn có giá trị cao hơn số tiền lưu hành cùng mệnh giá. Ví dụ, 1.000 guilder trên sổ Ngân hàng Amsterdam đáng giá hơn 1.000 guilder tiền đang lưu hành ở Amsterdam; phần chênh lệch gọi là agio, thường khoảng 5%. Giả sử tiền lưu hành của cả hai nước đều gần chuẩn, nhưng nước này trả hối phiếu bằng tiền thường còn nước kia trả bằng tiền ngân hàng. Khi đó tỷ giá tính toán có thể nghiêng về phía nước trả bằng tiền ngân hàng, dù tỷ giá thực lại có lợi cho nước kia. Tổng quát hơn, tỷ giá tính toán có thể có lợi cho nước trả bằng tiền tốt hơn, dù tỷ giá thực có lợi cho nước trả bằng tiền xấu hơn.
+
+**Áp dụng cho London.** Trước đợt đúc lại tiền vàng, tỷ giá tính toán thường bất lợi cho London trong quan hệ với Amsterdam, Hamburg, Venice và mọi nơi trả bằng tiền ngân hàng. Nhưng từ đó không thể suy ra tỷ giá thực cũng bất lợi. Từ khi đúc lại, tỷ giá thực luôn có lợi cho London với các nơi đó. Với Lisbon, Antwerp, Leghorn và hầu hết các nơi trả bằng tiền thường (trừ Pháp), tỷ giá tính toán thường có lợi cho London, và nhiều khả năng tỷ giá thực cũng vậy.
+
+**Ví dụ hôm nay** (minh hoạ chung). Khi so giá giữa hai nước, nếu chỉ nhìn con số trên tờ tiền mà không biết mỗi tờ tiền mua được gì, ta dễ kết luận sai. Lập luận của Smith tương tự: con số tỷ giá ghi trên hối phiếu chỉ có nghĩa khi biết mỗi đồng tiền thực sự chứa bao nhiêu bạc, đã chịu phí đúc chưa, và là tiền ngân hàng hay tiền thường.
 
 ### 5. Lạc đề: vì sao các nước nhỏ lập ngân hàng tiền gửi
 
-- Tiền tệ của một nước lớn như Pháp hay Anh gần như hoàn toàn là tiền đúc của chính nước đó. Nếu tiền bị mòn hay cắt xén, nhà nước khôi phục được bằng cách đúc lại.
-- Tiền tệ của một nước nhỏ như Genoa hay Hamburg hiếm khi chỉ gồm tiền của mình, mà gồm nhiều loại tiền của các nước láng giềng do giao thương mang tới. Một nước như vậy không phải lúc nào cũng đúc lại được. Nếu hối phiếu nước ngoài được trả bằng thứ tiền này, giá trị bất định của nó khiến tỷ giá luôn bất lợi, vì tiền của nước đó tất yếu bị định giá thấp hơn giá trị thực ở mọi nơi khác.
-- Để sửa, các nước nhỏ khi bắt đầu chú trọng thương mại thường ra lệnh hối phiếu từ một giá trị nhất định phải được thanh toán không bằng tiền lưu hành mà bằng lệnh trả tiền hoặc chuyển khoản trên sổ một ngân hàng được lập trên tín nhiệm và dưới sự bảo trợ của nhà nước, ngân hàng này luôn trả bằng tiền tốt đúng chuẩn. Các ngân hàng Venice, Genoa, Amsterdam, Hamburg và Nuremberg dường như ban đầu được lập theo cách này, dù một số sau đó chuyển sang làm cả việc khác.
-- Tiền của các ngân hàng này có giá trị cao hơn tiền lưu hành, tạo ra agio lớn hay nhỏ tuỳ tiền lưu hành mất giá nhiều hay ít so với chuẩn. Agio của Ngân hàng Hamburg được nói là thường khoảng 14%, tức chênh lệch giữa tiền chuẩn và tiền mòn, cắt xén do láng giềng đổ vào.
+Để giải thích sai lệch thứ ba, Smith rẽ sang một phần lạc đề dài về các ngân hàng tiền gửi, đặc biệt là Ngân hàng Amsterdam.
+
+Ông bắt đầu bằng sự khác nhau giữa nước lớn và nước nhỏ. Tiền tệ của một nước lớn như Pháp hay Anh gần như hoàn toàn là tiền đúc của chính nước đó. Nếu tiền bị mòn, bị cắt xén hay bị hạ giá xuống dưới chuẩn, nhà nước có thể khôi phục bằng cách đúc lại toàn bộ.
+
+Tiền tệ của một nước nhỏ như Genoa hay Hamburg thì khác. Nó hiếm khi chỉ gồm tiền của nước ấy, mà gồm nhiều loại tiền của các nước láng giềng do giao thương mang tới, phần lớn đã mòn và bị cắt xén. Một nước như vậy không phải lúc nào cũng đúc lại được, vì phần lớn tiền không phải của mình. Nếu hối phiếu nước ngoài được trả bằng thứ tiền hỗn tạp này, giá trị bất định của nó khiến tỷ giá luôn bất lợi cho nước ấy, vì tiền của nó tất yếu bị định giá thấp hơn giá trị thực ở mọi nơi khác.
+
+**Giải pháp.** Khi bắt đầu chú trọng thương mại, các nước nhỏ thường ra luật buộc mọi hối phiếu nước ngoài từ một giá trị nhất định trở lên phải được thanh toán không bằng tiền lưu hành, mà bằng lệnh trả tiền hoặc chuyển khoản trên sổ của một ngân hàng. Ngân hàng ấy được lập trên tín nhiệm và dưới sự bảo trợ của nhà nước, và luôn trả bằng tiền tốt, đúng chuẩn của nước đó. Các ngân hàng Venice, Genoa, Amsterdam, Hamburg và Nuremberg dường như ban đầu được lập theo cách này, dù một số về sau chuyển sang làm cả những việc khác.
+
+Tiền của các ngân hàng này có giá trị cao hơn tiền lưu hành, tạo ra một agio. Agio lớn hay nhỏ tuỳ theo tiền lưu hành bị mất giá nhiều hay ít so với chuẩn. Agio của Ngân hàng Hamburg được nói là thường khoảng 14%, tức đúng bằng chênh lệch giữa tiền chuẩn của nhà nước và tiền mòn, cắt xén do các nước láng giềng đổ vào.
 
 ### 6. Ngân hàng Amsterdam: thành lập và tiền ngân hàng
 
-- Trước năm 1609, lượng lớn tiền nước ngoài mòn và bị cắt xén, do thương mại rộng lớn của Amsterdam mang về từ khắp Châu Âu, kéo giá trị tiền tệ Hà Lan xuống khoảng 9% dưới tiền mới đúc. Tiền mới đúc vừa xuất hiện đã bị nấu chảy hoặc mang đi (đúng định luật Gresham, dù Smith không gọi tên). Nhà buôn có nhiều tiền nhưng khó có đủ tiền tốt để trả hối phiếu, và giá trị hối phiếu trở nên bất định bất chấp các quy định chống lại.
-- Năm 1609 một ngân hàng được lập dưới sự bảo trợ của thành phố. Nó nhận cả tiền nước ngoài lẫn tiền trong nước đã mòn theo giá trị thực chất tính bằng tiền chuẩn, chỉ trừ chi phí đúc và quản lý cần thiết. Phần còn lại được ghi có trên sổ, và khoản ghi có này gọi là tiền ngân hàng. Nó đại diện cho tiền đúng chuẩn Sở đúc tiền, luôn giữ giá trị, và về thực chất đáng giá hơn tiền lưu hành.
-- Đồng thời có luật quy định mọi hối phiếu ký phát hoặc thanh toán ở Amsterdam từ 600 guilder trở lên phải trả bằng tiền ngân hàng. Điều này loại bỏ mọi bất định về giá trị hối phiếu và buộc mọi nhà buôn phải có tài khoản ở ngân hàng.
-- Ngoài giá trị thực chất cao hơn, tiền ngân hàng có thêm lợi thế: an toàn trước hoả hoạn, cướp bóc và tai nạn; thành phố Amsterdam chịu trách nhiệm về nó; thanh toán chỉ bằng chuyển khoản, không mất công đếm tiền, không rủi ro vận chuyển. Vì những lợi thế ấy nó có agio ngay từ đầu.
-- Tiền ký thác ban đầu được để lại trong ngân hàng, không ai đòi rút, vì rút ra là mất agio. Một shilling mới đúc không mua được nhiều hàng hơn một shilling mòn đang lưu hành. Rút ra, đồng tiền tốt sẽ lẫn vào tiền thường và mất phần hơn giá; đồng thời mất mọi tiện lợi của tiền ngân hàng; và không rút được nếu không trả phí giữ kho. Các khoản ký thác bằng tiền đúc ấy là vốn ban đầu của ngân hàng, tức toàn bộ giá trị của cái gọi là tiền ngân hàng thuở đầu.
+**Vấn đề trước năm 1609.** Thương mại rộng lớn của Amsterdam mang về từ khắp châu Âu một lượng lớn tiền nước ngoài đã mòn và bị cắt xén. Lượng tiền ấy kéo giá trị tiền tệ lưu hành ở Hà Lan xuống khoảng 9% dưới giá trị của tiền mới đúc. Tiền mới đúc vừa xuất hiện đã bị nấu chảy hoặc mang đi nơi khác, vì nó chứa nhiều bạc hơn đồng tiền mòn cùng mệnh giá. Đây đúng là hiện tượng mà về sau được gọi là định luật Gresham ("tiền xấu đuổi tiền tốt"), dù Smith không gọi tên. Kết quả: nhà buôn có nhiều tiền nhưng khó có đủ tiền tốt để trả hối phiếu, và giá trị của hối phiếu trở nên bất định, bất chấp nhiều quy định được ban ra để chống lại tình trạng đó.
+
+**Giải pháp năm 1609.** Một ngân hàng được lập dưới sự bảo trợ của thành phố. Nó nhận cả tiền nước ngoài lẫn tiền trong nước đã mòn, và định giá chúng theo giá trị thực chất tính bằng tiền chuẩn của nước, chỉ trừ đi chi phí đúc lại và chi phí quản lý cần thiết. Phần giá trị còn lại được ghi có cho người gửi trên sổ ngân hàng. Khoản ghi có này gọi là **tiền ngân hàng**. Vì nó đại diện cho tiền đúng chuẩn của Sở đúc tiền, nó luôn giữ nguyên giá trị, và về thực chất đáng giá hơn tiền đang lưu hành.
+
+Cùng lúc đó, một đạo luật quy định mọi hối phiếu ký phát hoặc thanh toán ở Amsterdam từ 600 guilder trở lên phải trả bằng tiền ngân hàng. Điều này loại bỏ mọi bất định về giá trị hối phiếu, và buộc mọi nhà buôn phải mở tài khoản ở ngân hàng để thanh toán hối phiếu nước ngoài, từ đó tạo ra cầu thường xuyên đối với tiền ngân hàng.
+
+**Các lợi thế của tiền ngân hàng.** Ngoài giá trị thực chất cao hơn, tiền ngân hàng còn có thêm những lợi thế sau:
+
+- an toàn trước hoả hoạn, trộm cướp và các tai nạn khác;
+- thành phố Amsterdam chịu trách nhiệm bảo đảm về nó;
+- thanh toán chỉ cần chuyển khoản trên sổ, không mất công đếm tiền, không chịu rủi ro chở tiền từ nơi này sang nơi khác.
+
+Vì những lợi thế ấy, tiền ngân hàng có agio ngay từ đầu.
+
+**Vì sao không ai rút tiền ra.** Tiền ký thác ban đầu được để lại trong ngân hàng, gần như không ai đòi rút. Lý do: rút ra là mất agio. Một shilling mới đúc không mua được nhiều hàng trên chợ hơn một shilling mòn đang lưu hành. Nếu rút đồng tiền tốt ra, nó sẽ lẫn vào khối tiền thường, mất phần hơn giá; đồng thời người rút mất mọi tiện lợi của tiền ngân hàng; và muốn rút còn phải trả phí giữ kho. Vì vậy các khoản ký thác bằng tiền đúc ấy nằm lại mãi trong ngân hàng, và chính chúng là vốn ban đầu của ngân hàng, tức toàn bộ giá trị của cái gọi là tiền ngân hàng thuở đầu.
 
 ### 7. Cơ chế ký gửi vàng bạc thỏi và giấy biên nhận
 
-- Hiện nay các khoản ký thác kiểu đó chỉ là một phần nhỏ. Để thuận tiện cho thương mại, ngân hàng nhiều năm nay ghi có cho người ký gửi vàng bạc thỏi, ở mức thường thấp hơn giá Sở đúc tiền khoảng 5%. Đồng thời ngân hàng cấp một giấy biên nhận, cho phép người ký gửi hoặc người cầm biên nhận rút lại kim loại bất cứ lúc nào trong sáu tháng, với điều kiện trả lại cho ngân hàng lượng tiền ngân hàng bằng số đã được ghi có khi ký gửi, và trả ¼% (với bạc) hoặc ½% (với vàng) phí giữ kho. Nếu không trả phí và để quá hạn sáu tháng, kim loại thuộc về ngân hàng theo giá đã ghi có.
-- Phí giữ kho có thể coi là tiền thuê kho. Vàng đắt hơn bạc vì độ tuổi vàng khó xác định hơn, gian lận dễ hơn và gây thiệt hại lớn hơn; ngoài ra bạc là kim loại chuẩn nên nhà nước khuyến khích ký gửi bạc.
-- Người ta thường ký gửi khi giá kim loại hơi thấp và rút ra khi giá lên. Ở Hà Lan giá thị trường của vàng bạc thỏi thường cao hơn giá Sở đúc tiền, cũng vì lý do như ở Anh trước đợt đúc lại tiền vàng gần đây. Chênh lệch thường từ 6 tới 16 stiver mỗi mác (8 ounce bạc gồm 11 phần bạc ròng và 1 phần hợp kim). Với bạc có độ tuổi đã biết như đồng dollar Mexico, giá ngân hàng là 22 guilder một mác, giá Sở đúc tiền khoảng 23 guilder, giá thị trường từ 23 guilder 6 stiver tới 23 guilder 16 stiver, tức cao hơn giá Sở đúc 2–3%. Tỷ lệ giữa ba loại giá với vàng thỏi cũng gần như vậy.
-- Người ký gửi nhận một khoản ghi có và một giấy biên nhận. Ông ta dùng khoản ghi có để trả hối phiếu, và bán hoặc giữ biên nhận tuỳ phán đoán giá kim loại lên hay xuống. Biên nhận về vàng bạc thỏi luôn có giá trị, nên hiếm ai để nó quá hạn.
-- Biên nhận và khoản ghi có hiếm khi nằm chung trong tay một người lâu. Người có biên nhận muốn rút kim loại luôn mua được tiền ngân hàng ở giá thông thường; người có tiền ngân hàng muốn rút kim loại cũng dễ mua biên nhận vì có nhiều trên thị trường.
-- Do đó có hai loại chủ nợ của ngân hàng: người có tiền ngân hàng và người giữ biên nhận. Người giữ biên nhận mua tiền ngân hàng là mua quyền rút một lượng kim loại có giá Sở đúc cao hơn giá ngân hàng 5%; agio 5% ông trả không phải giá trị tưởng tượng mà là giá trị thực. Người có tiền ngân hàng mua biên nhận là mua quyền rút một lượng kim loại có giá thị trường thường cao hơn giá Sở đúc 2–3%; giá ông trả cũng là giá trị thực. **Giá biên nhận cộng giá tiền ngân hàng hợp thành giá trị đầy đủ của kim loại.**
-- Biên nhận cấp cho tiền đúc lưu hành trong nước thường không có giá trị thị trường. Ví dụ, với đồng ducatoon (tiền bạc) lưu hành ở giá 3 guilder 3 stiver, ngân hàng chỉ ghi có 3 guilder, thấp hơn 5%. Biên nhận cho phép rút ducatoon trong sáu tháng sau khi trả phí ¼%. Nhưng 3 guilder tiền ngân hàng thường bán được 3 guilder 3 stiver trên thị trường, đúng giá trị đầy đủ của ducatoon, nên biên nhận vô giá trị, trừ khi agio có lúc xuống 3%, khi đó biên nhận bán được 1¾%. Vì agio hiện thường khoảng 5%, các biên nhận này thường bị để quá hạn, và biên nhận cho ducat vàng còn bị để quá hạn nhiều hơn vì phí giữ kho cao hơn (½%). Agio 5% mà ngân hàng giữ được khi tiền đúc hay kim loại "rơi" vào tay nó có thể coi là tiền thuê kho để giữ những khoản ấy mãi mãi.
-- Phần tiền ngân hàng có biên nhận đã quá hạn chắc phải khá lớn, bao gồm toàn bộ vốn ban đầu của ngân hàng. Nhưng so với tổng thể vẫn nhỏ. Ngân hàng Amsterdam từ lâu là nhà kho lớn của Châu Âu để giữ vàng bạc thỏi, và biên nhận với kim loại hiếm khi bị để quá hạn. Phần lớn tiền ngân hàng được coi là tạo nên từ những khoản ký gửi mà các nhà buôn kim loại liên tục gửi vào và rút ra.
-- Không ai đòi được gì ở ngân hàng nếu không có biên nhận. Phần tiền ngân hàng nhỏ hơn có biên nhận đã quá hạn nằm lẫn trong khối lớn có biên nhận còn hiệu lực, nên không có phần nào mà không thể bị đòi bằng một biên nhận bất kỳ lúc nào. Ngân hàng không thể cùng lúc nợ hai người cùng một khoản. Người có tiền ngân hàng mà không có biên nhận chỉ cần mua một biên nhận trên thị trường vào thời bình.
+**Cơ chế hiện nay.** Thời Smith, các khoản ký thác bằng tiền đúc kiểu ban đầu chỉ còn là một phần nhỏ. Để thuận tiện cho thương mại, nhiều năm nay ngân hàng nhận ký gửi vàng bạc thỏi và làm như sau:
+
+1. Ghi có cho người ký gửi một khoản tiền ngân hàng, thường thấp hơn giá Sở đúc tiền của kim loại ấy khoảng 5%.
+2. Cấp cho người ký gửi một giấy biên nhận. Người ký gửi, hoặc bất kỳ ai cầm biên nhận, được quyền rút lại đúng lượng kim loại ấy bất cứ lúc nào trong 6 tháng, với hai điều kiện: trả lại cho ngân hàng lượng tiền ngân hàng bằng số đã được ghi có lúc ký gửi, và trả phí giữ kho ¼% với bạc hoặc ½% với vàng.
+3. Nếu không trả phí và để biên nhận quá hạn 6 tháng mà không gia hạn, kim loại thuộc về ngân hàng theo giá đã ghi có.
+
+Phí giữ kho có thể coi là tiền thuê kho. Phí với vàng cao hơn với bạc vì độ tuổi (hàm lượng nguyên chất) của vàng khó xác định hơn, gian lận dễ hơn và nếu có gian lận thì thiệt hại lớn hơn. Ngoài ra, bạc là kim loại chuẩn của Hà Lan nên nhà nước muốn khuyến khích ký gửi bạc hơn vàng.
+
+**Khi nào người ta ký gửi và rút ra.** Người ta thường ký gửi kim loại khi giá của nó hơi thấp, và rút ra khi giá lên. Ở Hà Lan, giá thị trường của vàng bạc thỏi thường cao hơn giá Sở đúc tiền, vì lý do giống như ở Anh trước đợt đúc lại tiền vàng gần đây (tiền lưu hành bị mòn). Chênh lệch thường từ 6 tới 16 stiver mỗi mác. Một mác là 8 ounce bạc, gồm 11 phần bạc ròng và 1 phần hợp kim. Với bạc có độ tuổi đã biết, như đồng dollar Mexico, ba loại giá như sau:
+
+| Loại giá | Mức cho mỗi mác bạc |
+|---|---|
+| Giá ngân hàng (mức ngân hàng ghi có) | 22 guilder |
+| Giá Sở đúc tiền | khoảng 23 guilder |
+| Giá thị trường | từ 23 guilder 6 stiver tới 23 guilder 16 stiver, tức cao hơn giá Sở đúc 2–3% |
+
+Tỷ lệ giữa ba loại giá ấy với vàng thỏi cũng gần như vậy.
+
+**Hai quyền được tách rời và mua bán riêng.** Người ký gửi nhận một khoản ghi có và một giấy biên nhận. Ông dùng khoản ghi có để trả hối phiếu, còn biên nhận thì bán đi hay giữ lại tuỳ theo ông đoán giá kim loại sẽ lên hay xuống. Biên nhận về vàng bạc thỏi luôn có giá trị nào đó, nên hiếm ai để nó quá hạn. Biên nhận và khoản ghi có cũng hiếm khi nằm chung trong tay một người lâu: người có biên nhận muốn rút kim loại luôn mua được tiền ngân hàng ở giá thông thường, còn người có tiền ngân hàng muốn rút kim loại cũng dễ mua được biên nhận vì trên thị trường có rất nhiều.
+
+Do đó ngân hàng có hai loại chủ nợ:
+
+| Loại chủ nợ | Có gì | Thiếu gì để rút kim loại | Giá phải trả để mua phần thiếu |
+|---|---|---|---|
+| Người có tiền ngân hàng | Khoản ghi có trên sổ | Biên nhận | Giá biên nhận, khoảng 2–3%, đúng bằng phần giá thị trường cao hơn giá Sở đúc tiền |
+| Người giữ biên nhận | Quyền rút kim loại | Tiền ngân hàng | Agio khoảng 5%, đúng bằng phần giá Sở đúc tiền cao hơn giá ngân hàng |
+
+Cả hai khoản giá ấy đều là giá trị thực, không phải giá trị tưởng tượng. **Giá biên nhận cộng giá tiền ngân hàng hợp thành giá trị đầy đủ của kim loại** trên thị trường.
+
+**Biên nhận cho tiền đúc trong nước gần như vô giá trị.** Biên nhận cấp cho tiền đúc đang lưu hành trong nước thường không có giá trị thị trường. Ví dụ: đồng ducatoon (một đồng tiền bạc) lưu hành ở giá 3 guilder 3 stiver, nhưng ngân hàng chỉ ghi có 3 guilder, tức thấp hơn 5%. Biên nhận cho phép rút lại ducatoon trong sáu tháng sau khi trả phí ¼%. Nhưng 3 guilder tiền ngân hàng thường bán được 3 guilder 3 stiver trên thị trường, đúng bằng giá trị đầy đủ của đồng ducatoon, nên chẳng ai cần trả gì thêm cho biên nhận. Biên nhận ấy chỉ có giá khi agio có lúc xuống 3%; khi đó nó bán được 1¾%. Vì agio thời Smith thường khoảng 5%, các biên nhận này thường bị để quá hạn, và biên nhận cho ducat vàng còn bị để quá hạn nhiều hơn vì phí giữ kho với vàng cao hơn (½%). Phần agio 5% mà ngân hàng giữ được khi tiền đúc hay kim loại "rơi" vào tay nó theo cách ấy có thể coi là tiền thuê kho để giữ các khoản ấy mãi mãi.
+
+**Phần tiền có biên nhận đã quá hạn.** Phần tiền ngân hàng có biên nhận đã quá hạn chắc phải khá lớn, vì nó bao gồm toàn bộ vốn ban đầu của ngân hàng. Nhưng so với tổng thể, nó vẫn nhỏ. Ngân hàng Amsterdam từ lâu là nhà kho lớn của châu Âu để giữ vàng bạc thỏi, và biên nhận với kim loại hiếm khi bị để quá hạn. Phần lớn tiền ngân hàng được coi là tạo nên từ những khoản ký gửi mà các nhà buôn kim loại liên tục gửi vào và rút ra.
+
+Không ai đòi được gì ở ngân hàng nếu không có biên nhận. Phần tiền ngân hàng có biên nhận đã quá hạn nằm lẫn trong khối lớn hơn nhiều có biên nhận còn hiệu lực, nên không có phần tiền ngân hàng nào mà không thể bị đòi bằng một biên nhận nào đó vào bất cứ lúc nào. Ngân hàng không thể cùng lúc nợ hai người cùng một khoản. Trong thời bình, người có tiền ngân hàng mà không có biên nhận chỉ cần mua một biên nhận trên thị trường là rút được kim loại.
 
 ### 8. Kịch bản khủng hoảng (giả định kiểu năm 1672) và ổn định agio
 
-- Smith xét một tình huống giả định: trong một tai hoạ quốc gia như cuộc xâm lược của Pháp năm 1672, người có tiền ngân hàng sẽ nóng lòng rút ra để giữ bên mình. Cầu về biên nhận có thể đẩy giá chúng lên mức vô lý: người giữ biên nhận có thể đòi tới một nửa số tiền ngân hàng thay vì 2–3%. Kẻ thù, nếu biết cách ngân hàng vận hành, thậm chí có thể mua hết biên nhận để ngăn của cải bị mang đi.
-- Smith cho rằng trong trường hợp khẩn cấp ấy, ngân hàng hẳn sẽ phá bỏ quy tắc thông thường là chỉ trả cho người có biên nhận. Người có biên nhận mà không có tiền ngân hàng hẳn đã nhận được toàn bộ giá trị khoản ký gửi trừ đi 2–3% khi bán khoản ghi có, nên phần còn lại họ đáng được hưởng chỉ là 2–3%. Vì vậy ngân hàng sẽ không ngần ngại trả toàn bộ giá trị cho người có tiền ngân hàng, bằng tiền ngân hàng hoặc kim loại, dù họ không có biên nhận, đồng thời trả 2–3% cho người chỉ có biên nhận, tức toàn bộ giá trị đúng của họ.
-- Ngay cả thời bình, lợi ích hai phe đối nghịch: người giữ biên nhận muốn agio thấp để mua tiền ngân hàng rẻ hoặc bán biên nhận đắt; người có tiền ngân hàng muốn agio cao để bán tiền ngân hàng đắt hoặc mua biên nhận rẻ. Giá biên nhận thường bằng chênh lệch giữa giá thị trường của tiền ngân hàng và giá thị trường của tiền đúc hay kim loại tương ứng.
-- Để chặn các mánh đầu cơ ấy, những năm gần đây ngân hàng quyết định bất cứ lúc nào cũng bán tiền ngân hàng lấy tiền thường ở agio 5%, và mua lại ở agio 4%. Nhờ vậy agio không bao giờ vượt 5% hay xuống dưới 4%. Trước đó agio đôi khi lên tới 9%, đôi khi xuống ngang giá, tuỳ lực của các lợi ích đối nghịch.
+**Kịch bản giả định.** Smith xét điều gì sẽ xảy ra trong một tai hoạ quốc gia, như cuộc xâm lược Hà Lan của Pháp năm 1672. Đây là phần ông suy đoán, không phải mô tả sự kiện:
+
+1. Người có tiền ngân hàng đều nóng lòng rút ra để giữ của bên mình.
+2. Muốn rút thì phải có biên nhận, nên cầu về biên nhận tăng vọt và giá biên nhận có thể bị đẩy lên mức vô lý: người giữ biên nhận có thể đòi tới một nửa số tiền ngân hàng thay vì 2–3% như thường lệ.
+3. Kẻ thù, nếu hiểu cách ngân hàng vận hành, thậm chí có thể mua hết biên nhận để ngăn của cải bị mang đi.
+
+Smith cho rằng trong trường hợp khẩn cấp ấy, ngân hàng hẳn sẽ phá bỏ quy tắc thông thường là chỉ trả cho người có biên nhận. Lý do: người có biên nhận mà không có tiền ngân hàng hẳn đã nhận gần đủ giá trị khoản ký gửi, chỉ thiếu 2–3%, khi họ bán khoản ghi có đi; vì vậy phần họ còn đáng được hưởng chỉ là 2–3%. Ngân hàng sẽ không ngần ngại trả toàn bộ giá trị cho người có tiền ngân hàng, bằng tiền ngân hàng hoặc bằng kim loại, dù họ không có biên nhận; đồng thời trả 2–3% cho người chỉ có biên nhận, tức đúng toàn bộ giá trị mà biên nhận đại diện.
+
+**Ổn định agio.** Ngay cả trong thời bình, lợi ích của hai phe đối nghịch nhau:
+
+| Phe | Muốn agio thế nào | Vì sao |
+|---|---|---|
+| Người giữ biên nhận | Thấp | Để mua tiền ngân hàng rẻ (khi cần rút kim loại) hoặc bán biên nhận đắt |
+| Người có tiền ngân hàng | Cao | Để bán tiền ngân hàng đắt hoặc mua biên nhận rẻ |
+
+Giá biên nhận thường bằng chênh lệch giữa giá thị trường của tiền ngân hàng và giá thị trường của tiền đúc hay kim loại tương ứng. Hai phe tìm đủ mánh đầu cơ để đẩy agio theo hướng có lợi cho mình. Trước kia, tuỳ lực của các lợi ích đối nghịch, agio đôi khi lên tới 9%, đôi khi xuống ngang giá (0%).
+
+Để chặn các mánh đầu cơ ấy, những năm gần đây ngân hàng quyết định bất cứ lúc nào cũng sẵn sàng bán tiền ngân hàng lấy tiền thường ở agio 5%, và mua lại tiền ngân hàng ở agio 4%. Nhờ vậy agio không bao giờ vượt 5% và không bao giờ xuống dưới 4%: nó bị kẹp trong biên độ 4–5%.
 
 ### 9. Dự trữ, quản trị và quy mô
 
-- Ngân hàng tuyên bố không cho vay bất kỳ phần nào của tiền ký thác, mọi guilder ghi có đều có tiền hoặc kim loại tương ứng trong kho. Smith chắc chắn điều này đúng với phần có biên nhận còn hạn, luôn sẵn sàng chi trả và liên tục ra vào. Nhưng ông nói chưa chắc đúng với phần vốn có biên nhận đã quá hạn từ lâu, phần mà thời bình không ai đòi và trên thực tế có thể nằm mãi trong ngân hàng chừng nào nhà nước Các Tỉnh Thống nhất còn tồn tại.
-- Ở Amsterdam người ta tin chắc rằng mỗi guilder tiền ngân hàng đều có lượng kim loại tương đương trong kho, và thành phố bảo đảm điều đó. Ngân hàng do bốn thị trưởng đương nhiệm điều hành, thay mỗi năm. Các thị trưởng mới kiểm kho, đối chiếu sổ sách, nhận bàn giao trịnh trọng dưới lời thề, rồi lại bàn giao cho người kế nhiệm. Trong các cuộc tranh giành phe phái, phe thắng chưa bao giờ buộc tội phe trước thiếu trung thực trong quản lý ngân hàng. Năm 1672, khi vua Pháp đóng ở Utrecht, ngân hàng chi trả sòng phẳng tới mức không ai nghi ngờ.
-- Quy mô chỉ ước đoán được: khoảng 2.000 tài khoản, mỗi tài khoản trung bình khoảng £1.500, tổng khoảng £3 triệu, tức khoảng 33 triệu guilder nếu tính 11 guilder bằng một bảng. Đủ lớn cho một lưu thông rộng nhưng thấp xa các ước đoán phóng đại.
-- Thành phố thu được khoản đáng kể: ngoài phí giữ kho, mỗi người mở tài khoản lần đầu trả 10 guilder, mỗi tài khoản thêm 3 guilder 3 stiver; mỗi lần chuyển khoản 2 stiver, dưới 300 guilder thì 6 stiver để hạn chế giao dịch nhỏ; ai không quyết toán tài khoản hai lần mỗi năm bị phạt 25 guilder; ai lệnh chuyển vượt số dư trả 3% trên phần vượt và lệnh bị gác lại. Ngân hàng còn lãi từ bán tiền ngoại và kim loại rơi vào tay nó khi biên nhận quá hạn, giữ lại tới khi bán được giá, và từ chênh lệch bán ở agio 5% mua ở 4%. Riêng phí giữ kho theo biên nhận đã lên tới 150.000–200.000 guilder mỗi năm, thừa trả lương và chi phí quản lý.
-- Mục đích ban đầu là phục vụ lợi ích chung, giảm phiền toái cho nhà buôn, không phải kiếm lời. Lợi nhuận là chuyện ngẫu nhiên.
-- Smith khép phần lạc đề bằng kết luận về tỷ giá: tiền ngân hàng có giá trị nội tại không đổi, đúng chuẩn, còn tiền thường có giá trị nội tại luôn thay đổi và ít nhiều dưới chuẩn. Vì vậy tỷ giá tính toán nghiêng về nước trả bằng tiền ngân hàng, và tỷ giá không phải thước đo cán cân thương mại.
+**Tuyên bố không cho vay.** Ngân hàng Amsterdam tuyên bố không cho vay bất kỳ phần nào của tiền ký thác: mọi guilder ghi có trên sổ đều có tiền đúc hoặc kim loại tương ứng nằm trong kho. Smith tin chắc điều này đúng với phần tiền có biên nhận còn hạn, phần luôn có thể bị đòi bất kỳ lúc nào và thực tế liên tục ra vào kho. Nhưng ông nói chưa chắc đúng với phần vốn có biên nhận đã quá hạn từ lâu, phần mà trong thời bình không ai đòi được, và trên thực tế có thể nằm mãi trong ngân hàng chừng nào nhà nước Các Tỉnh Thống nhất (Hà Lan) còn tồn tại.
+
+**Quản trị.** Ở Amsterdam, người ta tin chắc như một tín điều rằng mỗi guilder tiền ngân hàng đều có lượng kim loại tương đương trong kho, và thành phố bảo đảm điều đó. Ngân hàng do bốn thị trưởng đương nhiệm điều hành, và các thị trưởng được thay mỗi năm. Mỗi đợt 4 thị trưởng mới nhậm chức đều kiểm kho, đối chiếu sổ sách, nhận bàn giao trịnh trọng dưới lời thề, rồi đến lượt mình lại bàn giao cho người kế nhiệm với cùng thủ tục. Trong các cuộc tranh giành phe phái ở Amsterdam, phe thắng chưa bao giờ buộc tội phe trước thiếu trung thực trong việc quản lý ngân hàng. Sự kiện thật năm 1672 là bằng chứng: khi vua Pháp đóng quân ở Utrecht, ngân hàng chi trả sòng phẳng tới mức không ai còn nghi ngờ.
+
+**Quy mô.** Quy mô ngân hàng chỉ ước đoán được:
+
+| Đại lượng | Ước tính |
+|---|---|
+| Số tài khoản | khoảng 2.000 |
+| Số dư trung bình mỗi tài khoản | khoảng £1.500 |
+| Tổng tiền ngân hàng | khoảng £3 triệu, tức khoảng 33 triệu guilder (tính 11 guilder bằng một bảng) |
+
+Con số ấy đủ lớn cho một hệ thống lưu thông rộng, nhưng thấp xa các ước đoán phóng đại mà người ta vẫn truyền tai.
+
+**Thu nhập của thành phố.** Ngân hàng đem lại cho thành phố một khoản thu đáng kể từ nhiều nguồn:
+
+| Nguồn thu | Mức |
+|---|---|
+| Phí mở tài khoản lần đầu | 10 guilder; mỗi tài khoản mở thêm 3 guilder 3 stiver |
+| Phí mỗi lần chuyển khoản | 2 stiver; nếu dưới 300 guilder thì 6 stiver, để hạn chế giao dịch nhỏ |
+| Phạt không quyết toán tài khoản | 25 guilder nếu không quyết toán 2 lần mỗi năm |
+| Lệnh chuyển vượt số dư | Trả 3% trên phần vượt, và lệnh bị gác lại |
+| Bán kim loại và tiền ngoại rơi vào tay ngân hàng khi biên nhận quá hạn | Giữ lại tới khi bán được giá có lãi |
+| Chênh lệch mua bán tiền ngân hàng | Bán ở agio 5%, mua ở agio 4% |
+| Phí giữ kho theo biên nhận | Riêng khoản này đã lên tới 150.000–200.000 guilder mỗi năm, thừa trả lương và chi phí quản lý |
+
+Dù vậy, Smith nhấn mạnh rằng mục đích ban đầu của ngân hàng là phục vụ lợi ích chung, giảm phiền toái cho nhà buôn, không phải kiếm lời cho thành phố. Lợi nhuận là chuyện ngẫu nhiên.
+
+**Khép lại phần lạc đề.** Smith quay về câu hỏi tỷ giá. Tiền ngân hàng có giá trị nội tại không đổi, luôn đúng chuẩn Sở đúc tiền; tiền thường có giá trị nội tại luôn thay đổi và ít nhiều dưới chuẩn. Vì vậy tỷ giá tính toán giữa một nơi trả bằng tiền thường và một nơi trả bằng tiền ngân hàng nghiêng về nơi trả bằng tiền ngân hàng, và tỷ giá không phải là thước đo cán cân thương mại.
 
 ### 10. Phần II: học thuyết cán cân tự nó là vô lý
 
-- Smith nhắc lại: ở Phần I ông đã chứng minh, ngay cả theo nguyên tắc trọng thương, không cần hạn chế đặc biệt với hàng từ các nước có cán cân bị coi là bất lợi.
-- Nhưng không có gì vô lý hơn toàn bộ học thuyết cán cân thương mại, nền tảng không chỉ của các hạn chế này mà của hầu hết các quy định thương mại khác. Học thuyết nói: khi hai nơi buôn bán, cán cân ngang thì không ai được hay mất; cán cân lệch thì một bên mất, bên kia được, theo mức lệch. Cả hai giả thiết đều sai.
-- Buôn bán được ép bằng tiền thưởng và độc quyền có thể và thường bất lợi cho chính nước lập ra nó (Smith hứa chứng minh ở Chương V). Nhưng buôn bán không bị ép buộc hay hạn chế, diễn ra tự nhiên và đều đặn giữa hai nơi, luôn có lợi cho cả hai, dù không phải lúc nào cũng ngang nhau.
-- Định nghĩa "lợi": không phải tăng lượng vàng bạc, mà là tăng giá trị trao đổi của sản phẩm hằng năm của đất đai và lao động, tức tăng thu nhập hằng năm của dân chúng. Đây là định nghĩa của cải mà Smith đặt từ lời mở đầu bộ sách.
+Smith mở Phần II bằng việc nhắc lại kết quả Phần I: ngay cả theo nguyên tắc của hệ thống trọng thương, cũng không cần các hạn chế đặc biệt với hàng từ những nước có cán cân bị coi là bất lợi. Bây giờ ông đi xa hơn.
+
+Theo Smith, không có gì vô lý hơn toàn bộ học thuyết cán cân thương mại. Học thuyết này là nền tảng không chỉ của các hạn chế ở chương này mà của hầu hết các quy định thương mại khác. Nội dung của nó: khi hai nơi buôn bán với nhau, nếu cán cân ngang nhau thì không bên nào được hay mất; nếu cán cân lệch về một phía thì một bên mất, bên kia được, đúng theo mức lệch. Smith nói cả hai giả thiết ấy đều sai.
+
+Ông phân biệt hai loại buôn bán:
+
+- **Buôn bán bị ép buộc** bằng tiền thưởng xuất khẩu và độc quyền. Loại này có thể, và thường, bất lợi cho chính nước lập ra nó. Smith hứa chứng minh điều đó ở Chương V.
+- **Buôn bán tự nhiên và đều đặn**, không bị ép buộc hay hạn chế, giữa hai nơi. Loại này luôn có lợi cho cả hai bên, dù không phải lúc nào cũng có lợi ngang nhau.
+
+Then chốt là định nghĩa thế nào là "có lợi". Theo Smith, có lợi không phải là tăng lượng vàng bạc, mà là tăng giá trị trao đổi của sản phẩm hằng năm của đất đai và lao động của một nước, tức là tăng thu nhập hằng năm của dân chúng nước đó. Đây chính là định nghĩa của cải mà Smith đặt ra từ lời mở đầu bộ sách. Dựa vào định nghĩa này, ông xét ba trường hợp trao đổi.
 
 ### 11. Ba trường hợp trao đổi
 
-- **Hàng nội đổi hàng nội, cán cân ngang.** Trong phần lớn trường hợp cả hai bên được lợi ngang hoặc gần ngang. Mỗi bên là thị trường cho phần sản phẩm dư thừa của bên kia, mỗi bên hoàn lại vốn mà bên kia đã dùng để sản xuất phần dư ấy, vốn đã nuôi một số người ở bên kia. Vì hàng trao đổi ngang giá trị, vốn hai bên dùng vào buôn bán này ngang nhau; vì cả hai vốn đều dùng sản xuất hàng nội địa, thu nhập phân phối cho dân hai bên cũng ngang nhau. Nếu buôn bán hằng năm trị giá £100.000 hay £1 triệu, mỗi bên tạo ra £100.000 hay £1 triệu thu nhập cho dân mình.
-- **Hàng nội đổi hàng ngoại, cán cân vẫn "ngang" vì hàng trả bằng hàng.** Cả hai được lợi nhưng không đều; nước xuất toàn hàng nội được nhiều nhất. Nếu Anh nhập từ Pháp toàn hàng sản xuất ở Pháp, mà không có hàng nội Pháp cần, phải mua thuốc lá và hàng Đông Ấn để trả, thì toàn bộ vốn Pháp dùng vào buôn bán này được phân phối cho dân Pháp, còn ở Anh chỉ phần vốn dùng sản xuất hàng để mua hàng ngoại ấy được phân phối cho dân Anh. Phần lớn vốn Anh hoàn lại vốn đã dùng ở Virginia, Indostan và Trung Hoa. Pháp buôn ngoại thương tiêu dùng trực tiếp, Anh buôn vòng vo. Smith dẫn lại sự khác biệt này từ Quyển II, Chương V, nơi ông xếp hạng các cách dùng vốn theo lượng lao động trong nước được nuôi.
-- Thực tế không có cặp nước nào buôn toàn hàng nội hay một bên toàn hàng ngoại. Hầu hết đổi một phần hàng nội, một phần hàng ngoại. Nước nào có tỷ lệ hàng nội cao hơn luôn được lợi nhiều hơn. Đáng chú ý: tiêu chí này phụ thuộc vào cơ cấu hàng xuất, không phụ thuộc vào cán cân.
-- **Hàng đổi vàng bạc, cán cân "lệch".** Nếu Anh trả hàng Pháp bằng vàng bạc thay vì thuốc lá và hàng Đông Ấn, cán cân bị coi là bất lợi. Nhưng buôn bán vẫn có lợi cho cả hai, Pháp nhiều hơn. Dân Anh sản xuất hàng để mua vàng bạc, vốn ấy phải được hoàn lại. Vốn của Anh không giảm khi xuất vàng bạc hơn khi xuất cùng giá trị bất kỳ hàng nào khác, thường còn tăng. Không hàng nào được xuất trừ khi nước ngoài cần nó hơn trong nước, và hàng mua về đáng giá trong nước hơn hàng xuất đi. Nếu £100.000 thuốc lá xuất sang Pháp mua được rượu vang bán ở Anh được £110.000, vốn Anh tăng £10.000. Nếu £100.000 vàng mua được rượu vang cũng bán được £110.000 thì cũng tăng £10.000. Một nhà buôn có £110.000 rượu trong hầm giàu hơn người có £100.000 thuốc lá trong kho, và giàu hơn người có £100.000 vàng trong két; ông có thể thuê nhiều lao động hơn. Vốn quốc gia là tổng vốn của các công dân, nên cả vốn quốc gia lẫn lượng lao động được thuê đều tăng nhờ trao đổi ấy.
-- Smith vẫn giữ thứ bậc: Anh mua rượu Pháp bằng đồ ngũ kim và vải sẽ lợi hơn mua bằng thuốc lá Virginia hay vàng bạc Brazil và Peru, vì buôn trực tiếp luôn lợi hơn buôn vòng vo. Nhưng buôn vòng vo bằng vàng bạc không kém lợi hơn các kiểu buôn vòng vo khác.
-- Một nước không có mỏ không cạn vàng bạc vì xuất chúng hằng năm, cũng như nước không trồng thuốc lá không thiếu thuốc lá: nước có tiền mua vàng bạc không bao giờ thiếu chúng. Đây là luận điểm của Quyển IV, Chương I: vàng bạc là hàng hoá như mọi hàng hoá, và lượng của chúng tự điều chỉnh theo nhu cầu lưu thông.
+**Trường hợp 1: hàng nội đổi hàng nội, cán cân ngang.** Giả sử hai nước chỉ đổi hàng do chính mình sản xuất lấy hàng do nước kia sản xuất, và cán cân ngang nhau. Trong phần lớn trường hợp, cả hai bên được lợi ngang hoặc gần ngang nhau. Mỗi bên là thị trường cho phần sản phẩm dư thừa của bên kia. Mỗi bên, khi trả tiền mua hàng, hoàn lại cho bên kia khoản vốn mà bên kia đã dùng để sản xuất phần dư ấy, khoản vốn đã nuôi và thuê một số người ở bên kia. Vì hàng trao đổi ngang giá trị, vốn hai bên dùng vào buôn bán này ngang nhau. Vì cả hai khoản vốn đều được dùng để sản xuất hàng nội địa, thu nhập mà chúng phân phối cho dân hai bên cũng ngang nhau. Cụ thể: nếu buôn bán hằng năm giữa hai nước trị giá £100.000, mỗi bên tạo ra £100.000 thu nhập cho dân mình; nếu trị giá £1 triệu, mỗi bên tạo ra £1 triệu thu nhập.
+
+**Trường hợp 2: hàng nội đổi hàng ngoại, cán cân vẫn "ngang" vì hàng trả bằng hàng.** Cả hai bên vẫn được lợi, nhưng không đều: nước xuất toàn hàng nội được lợi nhiều nhất. Ví dụ của Smith: Anh nhập từ Pháp toàn hàng sản xuất ở Pháp, nhưng Anh không có hàng nội nào mà Pháp cần, nên phải mua thuốc lá Virginia và hàng Đông Ấn để trả cho Pháp. Khi đó:
+
+| | Pháp | Anh |
+|---|---|---|
+| Hàng đem bán | Hàng do Pháp sản xuất | Thuốc lá Virginia và hàng Đông Ấn (hàng ngoại) |
+| Vốn được hoàn lại cho ai | Toàn bộ vốn Pháp dùng vào buôn bán này được phân phối cho dân Pháp | Chỉ phần vốn dùng để sản xuất hàng Anh đem đi mua thuốc lá và hàng Đông Ấn được phân phối cho dân Anh; phần lớn vốn Anh hoàn lại vốn đã dùng ở Virginia, Indostan và Trung Hoa |
+| Kiểu buôn | Ngoại thương tiêu dùng trực tiếp | Ngoại thương tiêu dùng vòng vo |
+
+Smith lấy sự phân biệt này từ Quyển II, Chương V, nơi ông xếp hạng các cách dùng vốn theo lượng lao động trong nước mà mỗi cách nuôi được: buôn trực tiếp nuôi nhiều lao động trong nước hơn buôn vòng vo.
+
+Trên thực tế, không có cặp nước nào buôn toàn hàng nội với nhau, hay một bên chỉ đưa hàng ngoại. Hầu hết đều đổi một phần hàng nội và một phần hàng ngoại. Nước nào có tỷ lệ hàng nội trong hàng xuất cao hơn thì luôn được lợi nhiều hơn. Điều đáng chú ý là tiêu chí này phụ thuộc vào cơ cấu hàng xuất khẩu, hoàn toàn không phụ thuộc vào cán cân thương mại.
+
+**Trường hợp 3: hàng đổi vàng bạc, cán cân "lệch".** Giả sử Anh trả tiền hàng Pháp bằng vàng bạc thay vì bằng thuốc lá và hàng Đông Ấn. Theo phái trọng thương, cán cân khi ấy là bất lợi cho Anh. Smith nói buôn bán vẫn có lợi cho cả hai, chỉ là Pháp được lợi nhiều hơn. Lý do: dân Anh đã phải sản xuất hàng để mua vàng bạc ấy, và khoản vốn đó phải được hoàn lại. Vốn của Anh không giảm khi xuất vàng bạc nhiều hơn khi xuất bất kỳ hàng nào khác có cùng giá trị; thường nó còn tăng. Không hàng nào được xuất đi trừ khi nước ngoài cần nó hơn trong nước, và hàng mua về đáng giá ở trong nước hơn hàng xuất đi. Phép tính của Smith:
+
+| Hàng Anh đưa sang Pháp | Hàng Anh nhận về | Kết quả với vốn Anh |
+|---|---|---|
+| £100.000 thuốc lá | Rượu vang bán ở Anh được £110.000 | Tăng £10.000 |
+| £100.000 vàng | Rượu vang bán ở Anh được £110.000 | Cũng tăng £10.000 |
+
+Một nhà buôn có lượng rượu trị giá £110.000 trong hầm giàu hơn người có £100.000 thuốc lá trong kho, và cũng giàu hơn người có £100.000 vàng nằm trong két. Ông có thể thuê nhiều lao động hơn cả hai người kia. Vốn quốc gia là tổng vốn của các công dân, nên cả vốn quốc gia lẫn lượng lao động được thuê trong nước đều tăng nhờ cuộc trao đổi ấy, dù cán cân thương mại trông "lệch".
+
+Smith vẫn giữ thứ bậc của mình: Anh mua rượu Pháp bằng đồ ngũ kim và vải của chính mình thì lợi hơn mua bằng thuốc lá Virginia hay bằng vàng bạc Brazil và Peru, vì buôn trực tiếp luôn lợi hơn buôn vòng vo. Nhưng buôn vòng vo bằng vàng bạc không kém lợi hơn các kiểu buôn vòng vo khác.
+
+Cuối cùng, một nước không có mỏ không cạn vàng bạc vì hằng năm xuất chúng đi, cũng như một nước không trồng thuốc lá không bao giờ thiếu thuốc lá dù hằng năm tái xuất nó. Nước có phương tiện để mua vàng bạc thì không bao giờ thiếu chúng. Đây là luận điểm Smith đã đưa ra ở Quyển IV, Chương I: vàng bạc là hàng hoá như mọi hàng hoá, và lượng của chúng trong một nước tự điều chỉnh theo nhu cầu lưu thông.
 
 ### 12. Người thợ và quán bia, rượu rẻ và sự điều độ
 
-- Luận điệu: buôn bán với nước làm rượu vang là buôn bán lỗ, như việc người thợ buôn bán với quán bia.
-- Smith đáp: buôn bán với quán bia không nhất thiết lỗ. Về bản chất nó có lợi như các nghề khác, dù dễ bị lạm dụng hơn. Nghề nấu bia và bán lẻ đồ uống là phân công lao động cần thiết như mọi nghề. Người thợ mua bia của người nấu có lợi hơn tự nấu; nếu nghèo thì mua lẻ từng ít của người bán lẻ có lợi hơn mua một lượng lớn của người nấu. Người thợ có thể mua quá nhiều, như có thể mua quá nhiều của bất kỳ người bán nào khác (thịt, vải) nếu muốn khoe với bạn bè, nhưng với phần lớn người thợ, việc mọi nghề được tự do là có lợi, dù có lúc bị lạm dụng.
-- Cá nhân có thể khánh kiệt vì uống quá nhiều, nhưng dân tộc thì không: mỗi nước luôn có người tiêu quá thu nhập vào rượu, nhưng cũng luôn có nhiều người uống ít hay không uống.
-- Kinh nghiệm cho thấy rượu rẻ không sinh ra say mà sinh ra điều độ. Dân các nước làm rượu vang là những người uống điều độ nhất Châu Âu: người Tây Ban Nha, người Italia, dân miền nam nước Pháp. Khi rượu vang rẻ như bia nhẹ, chẳng ai thể hiện sự hào phóng bằng mời rượu quá mức. Ngược lại, ở các nước quá nóng hay quá lạnh để trồng nho, rượu đắt và hiếm, say rượu là thói xấu phổ biến, như ở các dân tộc phương bắc và các dân tộc vùng nhiệt đới.
-- Khi một trung đoàn Pháp chuyển từ miền bắc, nơi rượu đắt, xuống miền nam, nơi rượu rất rẻ, lính bị sa ngã vì rượu, nhưng sau vài tháng phần lớn trở lại uống điều độ như dân địa phương. Nếu Anh bỏ ngay thuế rượu vang ngoại và thuế mạch nha, bia, say rượu có thể lan tạm thời trong tầng lớp trung và hạ lưu rồi sẽ trở lại điều độ. Hiện nay say rượu không còn là thói xấu của người có địa vị, những người dễ dàng mua đồ uống đắt.
-- Các hạn chế với buôn rượu vang ở Anh dường như không nhằm ngăn dân chúng tới quán bia bằng nhằm ngăn họ tới nơi mua được thứ đồ uống tốt và rẻ nhất. Chúng ưu đãi rượu Bồ Đào Nha và cản rượu Pháp. Lý lẽ: người Bồ Đào Nha là khách hàng tốt hơn của hàng chế tạo Anh, nên phải ưu tiên họ; họ mua của ta thì ta mua của họ.
-- Smith: đó là thủ đoạn nhỏ nhen của những người buôn bán lặt vặt, được nâng thành nguyên tắc chính trị của một đế chế. Chỉ những người buôn bán nhỏ nhen nhất mới dùng nguyên tắc ấy với khách hàng. Một nhà buôn lớn luôn mua hàng ở nơi rẻ và tốt nhất, không quan tâm tới những lợi ích nhỏ nhặt như vậy.
+Một luận điệu phổ biến để biện hộ cho việc hạn chế rượu vang Pháp nói rằng buôn bán với một nước làm rượu vang là buôn bán lỗ, giống như việc một người thợ buôn bán với quán bia: người thợ chỉ đi mua bia, không bán được gì cho quán, nên lúc nào cũng mất tiền.
+
+Smith trả lời từng bước:
+
+- **Buôn bán với quán bia không nhất thiết lỗ.** Về bản chất, nó có lợi như mọi nghề khác, dù dễ bị lạm dụng hơn. Nghề nấu bia và nghề bán lẻ đồ uống là những phân công lao động cần thiết như mọi nghề. Người thợ mua bia của người nấu thì có lợi hơn tự nấu lấy. Nếu nghèo, người thợ mua lẻ từng ít một của người bán lẻ còn có lợi hơn mua một lượng lớn một lần của người nấu bia.
+- **Mua quá nhiều là chuyện của người mua, không phải của nghề.** Người thợ có thể mua bia quá nhiều, cũng như có thể mua quá nhiều của bất kỳ người bán nào khác, chẳng hạn mua quá nhiều thịt của người bán thịt hay quá nhiều vải của người bán vải nếu muốn khoe với bạn bè. Nhưng với phần lớn người thợ, việc mọi nghề đều được tự do là có lợi, dù tự do ấy có lúc bị lạm dụng.
+- **Cá nhân có thể khánh kiệt, dân tộc thì không.** Một cá nhân có thể khánh kiệt vì uống quá nhiều. Nhưng một dân tộc thì không: ở mỗi nước luôn có một số người tiêu quá thu nhập vào rượu, nhưng cũng luôn có nhiều người uống ít hơn thu nhập cho phép, hoặc không uống.
+
+**Rượu rẻ sinh ra điều độ, không sinh ra say.** Smith dựa vào kinh nghiệm: dân các nước làm rượu vang là những người uống điều độ nhất châu Âu, như người Tây Ban Nha, người Italia và dân miền nam nước Pháp. Khi rượu vang rẻ như bia nhẹ, chẳng ai thể hiện sự hào phóng hay tình bạn bằng cách mời rượu quá mức. Ngược lại, ở các nước quá nóng hoặc quá lạnh để trồng nho, nơi rượu đắt và hiếm, say rượu là thói xấu phổ biến. Ví dụ là các dân tộc phương bắc và các dân tộc vùng nhiệt đới.
+
+Smith đưa thêm một quan sát: khi một trung đoàn Pháp chuyển từ miền bắc nước Pháp, nơi rượu vang khá đắt, xuống miền nam, nơi rượu rất rẻ, lính lúc đầu bị sa ngã vì rượu rẻ và mới lạ. Nhưng sau vài tháng, phần lớn trở lại uống điều độ như dân địa phương. Tương tự, nếu nước Anh bỏ ngay thuế rượu vang ngoại và thuế mạch nha, thuế bia, say rượu có thể lan tạm thời trong tầng lớp trung lưu và hạ lưu, rồi sẽ trở lại điều độ lâu dài. Smith nhận xét thêm rằng thời ông, say rượu không còn là thói xấu của người có địa vị, những người vốn dễ dàng mua được đồ uống đắt nhất.
+
+**Mục đích thật của các hạn chế.** Theo Smith, các hạn chế với buôn rượu vang ở Anh dường như không nhằm ngăn dân chúng tới quán bia bằng nhằm ngăn họ tới nơi mua được thứ đồ uống tốt nhất và rẻ nhất. Chúng ưu đãi rượu Bồ Đào Nha và cản rượu Pháp. Lý lẽ được đưa ra: người Bồ Đào Nha là khách hàng tốt hơn của hàng chế tạo Anh so với người Pháp, nên phải ưu tiên họ; họ mua của ta thì ta mua của họ.
+
+Smith gọi đó là thủ đoạn nhỏ nhen của những người buôn bán lặt vặt, được nâng lên thành nguyên tắc chính trị của cả một đế chế. Chỉ những người buôn bán nhỏ nhen nhất mới dùng nguyên tắc "ưu tiên khách quen" ấy. Một nhà buôn lớn luôn mua hàng ở nơi rẻ nhất và tốt nhất, không bận tâm tới những lợi ích nhỏ nhặt như vậy.
 
 ### 13. Lòng đố kỵ thương mại
 
-- Bằng những nguyên tắc như vậy, các nước được dạy rằng lợi ích của mình là làm nghèo mọi láng giềng. Mỗi nước bị dạy nhìn sự thịnh vượng của các nước mình buôn bán cùng bằng con mắt ganh tị và coi cái lợi của họ là cái thiệt của mình.
-- Thương mại, lẽ ra giữa các dân tộc cũng như giữa các cá nhân phải là sợi dây đoàn kết và hữu nghị, đã trở thành nguồn bất hoà và thù hận dồi dào nhất. Tham vọng thất thường của vua chúa và bộ trưởng trong thế kỷ này và thế kỷ trước không tai hại cho sự yên ổn của Châu Âu hơn lòng đố kỵ hỗn xược của nhà buôn và nhà sản xuất.
-- Bạo lực và bất công của kẻ cai trị là tai hoạ cổ xưa mà bản chất con người e rằng khó sửa. Nhưng lòng tham và tinh thần độc quyền của nhà buôn và nhà sản xuất, những người không phải và không nên là kẻ cai trị nhân loại, dù có thể không sửa được, lại rất dễ ngăn để nó không quấy nhiễu sự yên ổn của ai ngoài chính họ. Đây là một nhận định chính sách quan trọng: không cần thay đổi bản chất nhà buôn, chỉ cần không trao cho họ quyền lực lập pháp.
-- Chính tinh thần độc quyền đã nghĩ ra và truyền bá học thuyết này, và những người đầu tiên dạy nó không ngu như những người tin nó. Ở mọi nước, lợi ích của đại chúng là mua mọi thứ của người bán rẻ nhất. Lợi ích của nhà buôn và nhà sản xuất thì ngược lại. Như thành viên phường hội muốn cấm dân thuê thợ ngoài phường, nhà buôn và nhà sản xuất muốn độc quyền thị trường trong nước. Vì vậy có thuế đặc biệt với hầu hết hàng do người nước ngoài nhập, thuế cao và cấm đoán với hàng chế tạo nước ngoài cạnh tranh, và hạn chế đặc biệt với hàng từ các nước có cán cân bị coi là bất lợi, tức các nước mà thù hận dân tộc nhắm vào nhiều nhất.
+Smith chuyển sang hệ quả chính trị của học thuyết cán cân. Bằng những nguyên tắc như vậy, các nước được dạy rằng lợi ích của mình là làm nghèo mọi láng giềng. Mỗi nước bị dạy nhìn sự thịnh vượng của các nước mình buôn bán cùng bằng con mắt ganh tị, và coi cái lợi của họ là cái thiệt của mình.
+
+Thương mại, lẽ ra giữa các dân tộc cũng như giữa các cá nhân phải là sợi dây đoàn kết và hữu nghị, đã trở thành nguồn bất hoà và thù hận dồi dào nhất. Smith đưa ra một nhận định mạnh: trong thế kỷ này và thế kỷ trước, tham vọng thất thường của vua chúa và các bộ trưởng không tai hại cho sự yên ổn của châu Âu hơn lòng đố kỵ hỗn xược của nhà buôn và nhà sản xuất.
+
+Ông so sánh hai loại tai hoạ:
+
+| | Bạo lực và bất công của kẻ cai trị | Lòng tham và tinh thần độc quyền của nhà buôn, nhà sản xuất |
+|---|---|---|
+| Tính chất | Tai hoạ cổ xưa, gắn với bản chất con người | Thói của những người không phải và không nên là kẻ cai trị nhân loại |
+| Có sửa được không | E rằng khó sửa | Có thể không sửa được |
+| Có ngăn được không | | Rất dễ ngăn để nó không quấy nhiễu sự yên ổn của ai ngoài chính họ |
+
+Đây là một nhận định chính sách quan trọng: không cần thay đổi bản chất của nhà buôn, chỉ cần không trao cho họ quyền định ra luật lệ.
+
+**Ai sinh ra học thuyết?** Theo Smith, chính tinh thần độc quyền đã nghĩ ra và truyền bá học thuyết cán cân thương mại, và những người đầu tiên dạy nó không ngu như những người tin nó. Ở mọi nước, lợi ích của đại chúng là mua mọi thứ của người bán rẻ nhất. Lợi ích của nhà buôn và nhà sản xuất thì ngược lại. Giống như thành viên các phường hội muốn cấm dân thuê thợ không thuộc phường, nhà buôn và nhà sản xuất muốn độc quyền thị trường trong nước. Từ đó sinh ra:
+
+- thuế đặc biệt với hầu hết hàng do người nước ngoài nhập vào;
+- thuế cao và lệnh cấm với hàng chế tạo nước ngoài có thể cạnh tranh với hàng trong nước;
+- hạn chế đặc biệt với hàng từ những nước có cán cân bị coi là bất lợi, tức chính những nước mà thù hận dân tộc nhắm vào nhiều nhất.
 
 ### 14. Láng giềng giàu là thị trường tốt
 
-- Sự giàu có của nước láng giềng, dù nguy hiểm về chiến tranh và chính trị, chắc chắn có lợi về thương mại. Trong chiến tranh, kẻ thù giàu có thể nuôi hạm đội và quân đội mạnh hơn. Trong hoà bình, sự giàu có ấy cho phép họ trao đổi với ta giá trị lớn hơn và là thị trường tốt hơn cho sản phẩm của ta hay cho hàng mua bằng sản phẩm đó.
-- Như người giàu là khách hàng tốt hơn người nghèo cho những người láng giềng cần cù, nước giàu cũng vậy. Một người giàu là nhà sản xuất thì nguy hiểm cho những ai cùng nghề, nhưng mọi người còn lại trong vùng được lợi từ chi tiêu của ông, và được lợi vì ông bán rẻ hơn thợ nghèo. Nhà sản xuất của một nước giàu là đối thủ nguy hiểm của nhà sản xuất láng giềng, nhưng cạnh tranh ấy có lợi cho đại chúng.
-- Người muốn làm giàu không lui về các tỉnh xa xôi nghèo khó mà tới thủ đô hay thành phố thương mại lớn. Họ biết nơi ít của cải lưu thông thì khó kiếm lời, nơi của cải dồi dào thì có phần. Nguyên tắc dẫn dắt hàng nghìn cá nhân ấy cũng nên dẫn dắt một dân tộc: dân tộc muốn giàu bằng ngoại thương phải tìm buôn bán với láng giềng giàu có, cần cù.
-- Một nước lớn giữa các láng giềng nghèo và lạc hậu có thể giàu bằng canh tác đất đai và nội thương, không bằng ngoại thương. Người Ai Cập cổ và người Trung Hoa hiện nay dường như giàu theo cách này: người Ai Cập cổ không quan tâm ngoại thương, người Trung Hoa coi thường ngoại thương và hiếm khi cho nó sự bảo hộ của luật pháp.
-- Các nguyên tắc ngoại thương hiện đại, nhắm vào việc làm nghèo mọi láng giềng, nếu đạt mục đích thì chính chúng làm cho ngoại thương ấy trở nên vô nghĩa và đáng khinh.
+Smith lật ngược quan niệm rằng sự giàu có của láng giềng là mối đe doạ. Sự giàu có của một nước láng giềng, dù nguy hiểm về chiến tranh và chính trị, chắc chắn có lợi về thương mại.
+
+- **Trong chiến tranh,** một kẻ thù giàu có thể nuôi hạm đội và quân đội mạnh hơn kẻ thù nghèo.
+- **Trong hoà bình,** sự giàu có ấy cho phép họ trao đổi với ta một khối lượng giá trị lớn hơn, và họ là thị trường tốt hơn cho sản phẩm của ta, hay cho hàng mà ta mua bằng sản phẩm đó.
+
+Smith so sánh với quan hệ giữa các cá nhân. Một người giàu là khách hàng tốt hơn một người nghèo đối với những người láng giềng cần cù xung quanh. Một người giàu là nhà sản xuất thì nguy hiểm cho những ai làm cùng nghề, nhưng mọi người còn lại trong vùng đều được lợi: được lợi từ chi tiêu của ông, và được lợi vì ông bán rẻ hơn những người thợ nghèo. Tương tự, nhà sản xuất của một nước giàu là đối thủ nguy hiểm của nhà sản xuất cùng ngành ở nước láng giềng, nhưng chính sự cạnh tranh ấy lại có lợi cho đại chúng của nước láng giềng.
+
+Ông thêm một quan sát về hành vi cá nhân: người muốn làm giàu không lui về các tỉnh xa xôi, nghèo khó mà tìm tới thủ đô hay các thành phố thương mại lớn. Họ biết nơi ít của cải lưu thông thì khó kiếm lời, nơi của cải dồi dào thì họ có thể giành được một phần. Nguyên tắc dẫn dắt hàng nghìn cá nhân ấy cũng nên dẫn dắt một dân tộc: dân tộc muốn giàu lên bằng ngoại thương phải tìm buôn bán với những láng giềng giàu có, cần cù.
+
+Smith nói thêm một trường hợp ngoại lệ: một nước lớn nằm giữa các láng giềng nghèo và lạc hậu có thể giàu lên bằng canh tác đất đai và nội thương, không phải bằng ngoại thương. Người Ai Cập cổ và người Trung Hoa thời Smith dường như giàu lên theo cách này. Người Ai Cập cổ không quan tâm đến ngoại thương; người Trung Hoa coi thường ngoại thương và hiếm khi cho nó sự bảo hộ của luật pháp.
+
+Kết luận của mục: các nguyên tắc ngoại thương hiện đại, nhắm vào việc làm nghèo mọi láng giềng, nếu đạt được mục đích thì chính chúng sẽ làm cho ngoại thương trở nên vô nghĩa và đáng khinh, vì không còn ai giàu để buôn bán cùng.
 
 ### 15. Anh và Pháp: thương mại có lợi nhất bị bóp nghẹt nhất
 
-- Chính vì các nguyên tắc ấy mà thương mại Anh – Pháp bị hạn chế và cấm đoán nhiều như vậy. Nếu hai nước gạt bỏ thù hận và đố kỵ, chỉ xét lợi ích thật, thì thương mại giữa họ có lợi cho cả hai hơn với bất kỳ nước nào khác.
-- Pháp là láng giềng gần nhất. Giữa bờ nam nước Anh và bờ bắc, tây bắc nước Pháp, vốn có thể quay vòng 4, 5 hay 6 lần mỗi năm như nội thương, nên nuôi được lượng lao động gấp 4, 5 hay 6 lần cùng lượng vốn trong phần lớn các ngành ngoại thương khác. Giữa những vùng xa nhất của hai nước, vốn quay vòng ít nhất một lần mỗi năm, nên ít nhất có lợi gấp ba lần thương mại với thuộc địa Bắc Mỹ được ca ngợi nhiều, nơi vốn về sau ít nhất ba năm, thường bốn hay năm năm.
-- Pháp có 24 triệu dân. Thuộc địa Bắc Mỹ chưa bao giờ được cho là có hơn ba triệu. Pháp giàu hơn Bắc Mỹ nhiều, dù vì phân phối không đều nên có nhiều người nghèo hơn. Vì vậy Pháp là thị trường lớn ít nhất gấp tám lần, và nhờ quay vòng nhanh hơn, có lợi gấp 24 lần thương mại thuộc địa. Thương mại với Anh cũng có lợi tương tự cho Pháp. Những lợi ích lớn như vậy lại bị cả hai nước tìm cách vùi dập.
-- Nghịch lý: chính những yếu tố làm cho thương mại tự do giữa hai nước có lợi lại là trở ngại chính. Láng giềng gần thì "tất nhiên" là kẻ thù. Sự giàu có và sức mạnh của bên này đáng sợ với bên kia. Cả hai đều giàu và cần cù, nên nhà buôn và nhà sản xuất mỗi bên sợ đối thủ bên kia. Đố kỵ thương mại được thù hằn dân tộc kích động. Thương nhân cả hai bên tuyên bố rằng buôn bán không hạn chế với bên kia, qua một cán cân bất lợi, sẽ dẫn tới phá sản.
+Chính vì những nguyên tắc ấy mà thương mại giữa Anh và Pháp bị hạn chế và cấm đoán nhiều đến vậy. Smith lập luận rằng nếu hai nước gạt bỏ thù hận và đố kỵ, chỉ xét lợi ích thật của mình, thì thương mại giữa họ sẽ có lợi cho cả hai hơn thương mại với bất kỳ nước nào khác. Ông đưa ra một phép tính dựa trên khoảng cách và quy mô thị trường:
+
+| Yếu tố | Thương mại Anh – Pháp | Thương mại Anh – thuộc địa Bắc Mỹ |
+|---|---|---|
+| Khoảng cách | Láng giềng gần nhất | Bên kia Đại Tây Dương |
+| Tốc độ quay vòng vốn | Giữa bờ nam nước Anh và bờ bắc, tây bắc nước Pháp: 4, 5 hay 6 lần mỗi năm, như nội thương; giữa những vùng xa nhất của hai nước: ít nhất 1 lần mỗi năm | Vốn về sau ít nhất 3 năm, thường 4 hay 5 năm |
+| Dân số | 24 triệu | Chưa bao giờ được cho là hơn 3 triệu |
+| Mức giàu | Giàu hơn Bắc Mỹ nhiều, dù vì phân phối không đều nên có nhiều người nghèo hơn | |
+
+Từ đó Smith suy ra mấy kết quả:
+
+- Giữa bờ nam nước Anh và bờ bắc nước Pháp, cùng một lượng vốn nuôi được lượng lao động gấp 4, 5 hay 6 lần so với phần lớn các ngành ngoại thương khác.
+- Ngay giữa những vùng xa nhất của hai nước, thương mại với Pháp vẫn có lợi ít nhất gấp ba lần thương mại với thuộc địa Bắc Mỹ được ca ngợi nhiều, vì vốn quay vòng ít nhất mỗi năm một lần so với ba năm một lần.
+- Về quy mô, Pháp là thị trường lớn ít nhất gấp tám lần Bắc Mỹ; và nhờ vốn quay vòng nhanh hơn, thương mại với Pháp có lợi gấp 24 lần thương mại thuộc địa.
+
+Thương mại với Anh cũng có lợi tương tự cho Pháp. Thế mà những lợi ích lớn như vậy lại bị cả hai nước tìm cách vùi dập.
+
+**Nghịch lý.** Chính những yếu tố làm cho thương mại tự do giữa hai nước có lợi lại là trở ngại chính cho nó:
+
+- Hai nước là láng giềng gần, và láng giềng gần thì "tất nhiên" bị coi là kẻ thù.
+- Sự giàu có và sức mạnh của bên này đáng sợ với bên kia.
+- Cả hai đều giàu và cần cù, nên nhà buôn và nhà sản xuất mỗi bên sợ đối thủ bên kia.
+- Đố kỵ thương mại được thù hằn dân tộc kích động, và ngược lại.
+
+Thương nhân cả hai bên đều tuyên bố, với tất cả sự tự tin của sự giả dối có chủ đích, rằng buôn bán không hạn chế với bên kia, qua một cán cân bất lợi, chắc chắn sẽ dẫn tới phá sản.
 
 ### 16. Bằng chứng: không nước nào bị bần cùng vì cán cân bất lợi
 
-- Không nước buôn bán nào ở Châu Âu mà sự suy vong chưa từng được các "thầy thuốc" của hệ thống này tiên đoán vì cán cân bất lợi. Nhưng sau mọi lo âu họ khơi dậy và mọi nỗ lực vô ích để kéo cán cân về mình, chưa thấy nước Châu Âu nào bị bần cùng hoá vì nguyên nhân này.
-- Ngược lại, mọi thành phố và quốc gia, theo mức độ mở cửa hải cảng, đều giàu lên chứ không phá sản như các nguyên tắc trọng thương dự đoán. Ở Châu Âu có vài thành phố xứng đáng phần nào với tên hải cảng tự do, nhưng không có nước nào. Hà Lan gần nhất với tính chất này dù còn xa, và được thừa nhận là lấy không chỉ toàn bộ của cải mà cả phần lớn lương thực cần thiết từ ngoại thương.
+Smith đưa ra bằng chứng lịch sử để bác bỏ những lời tiên đoán ấy. Không có nước buôn bán nào ở châu Âu mà sự suy vong chưa từng được các "thầy thuốc" của hệ thống trọng thương tiên đoán, vì một cán cân thương mại bất lợi. Nhưng sau mọi lo âu họ khơi dậy, và sau mọi nỗ lực vô ích của gần như mọi nước buôn bán để kéo cán cân về phía mình, chưa thấy nước châu Âu nào bị bần cùng hoá vì nguyên nhân này.
+
+Ngược lại, mọi thành phố và quốc gia, theo đúng mức độ chúng mở cửa hải cảng cho mọi dân tộc, đều giàu lên chứ không phá sản như các nguyên tắc trọng thương dự đoán. Ở châu Âu có vài thành phố xứng đáng phần nào với tên gọi hải cảng tự do, nhưng không có quốc gia nào. Hà Lan là nước gần nhất với tính chất ấy, dù vẫn còn xa, và được mọi người thừa nhận là lấy không chỉ toàn bộ của cải mà cả phần lớn lương thực cần thiết của mình từ ngoại thương.
 
 ### 17. Cán cân giữa sản xuất và tiêu dùng
 
-- Có một loại cán cân khác, rất khác cán cân thương mại, mà tuỳ theo nó thuận hay nghịch, tất yếu gây ra thịnh vượng hay suy tàn của mọi quốc gia: cán cân giữa sản phẩm hằng năm và tiêu dùng hằng năm.
-- Nếu giá trị trao đổi của sản phẩm hằng năm vượt giá trị trao đổi của tiêu dùng hằng năm, vốn xã hội phải tăng hằng năm theo phần dư đó. Xã hội sống trong thu nhập, phần tiết kiệm được thêm vào vốn và dùng để tăng thêm sản phẩm. Ngược lại, nếu sản phẩm không đủ cho tiêu dùng, vốn xã hội suy giảm theo phần thiếu hụt; tiêu dùng vượt thu nhập thì phải ăn vào vốn, vốn giảm, và cùng với nó giá trị sản phẩm hằng năm giảm. Đây là lý thuyết tích luỹ của Quyển II, Chương III: tiết kiệm của người cần kiệm làm tăng vốn, tiêu xài của kẻ hoang phí làm giảm vốn.
-- Cán cân này hoàn toàn khác cán cân thương mại. Nó có thể xảy ra với một nước không ngoại thương, hoàn toàn tách biệt với thế giới, và với cả thế giới, nơi của cải, dân số và sự cải thiện có thể tăng dần hay giảm dần.
-- Cán cân sản xuất – tiêu dùng có thể luôn thuận dù cán cân thương mại thường nghịch. Một nước có thể nhập nhiều hơn xuất trong nửa thế kỷ; vàng bạc nhập vào suốt thời gian đó có thể lập tức bị xuất đi; tiền đúc lưu hành có thể mòn dần và giảm, tiền giấy thay thế; nợ với các nước khác có thể tăng dần; vậy mà của cải thực, giá trị trao đổi của sản phẩm hằng năm, có thể tăng theo tỷ lệ lớn hơn nhiều trong cùng thời gian. Tình trạng các thuộc địa Bắc Mỹ và thương mại của chúng với Anh trước các xáo trộn hiện nay là bằng chứng rằng đây không phải giả thiết không thể có.
+Chương kết bằng việc thay cán cân thương mại bằng một cán cân khác mà Smith cho là thật sự quyết định. Có một loại cán cân rất khác cán cân thương mại, mà tuỳ theo nó thuận hay nghịch, tất yếu gây ra sự thịnh vượng hay suy tàn của mọi quốc gia: đó là cán cân giữa sản phẩm hằng năm và tiêu dùng hằng năm.
+
+| Tình trạng | Điều xảy ra |
+|---|---|
+| Giá trị trao đổi của sản phẩm hằng năm vượt giá trị trao đổi của tiêu dùng hằng năm | Vốn xã hội phải tăng hằng năm theo phần dư đó. Xã hội sống trong phạm vi thu nhập của mình; phần tiết kiệm được từ thu nhập được thêm vào vốn và dùng để làm ra thêm sản phẩm |
+| Sản phẩm hằng năm không đủ cho tiêu dùng hằng năm | Vốn xã hội suy giảm theo phần thiếu hụt. Tiêu dùng vượt thu nhập thì phải ăn vào vốn; vốn giảm, và cùng với nó giá trị sản phẩm hằng năm giảm theo |
+
+Đây là lý thuyết tích luỹ của Quyển II, Chương III: tiết kiệm của người cần kiệm làm tăng vốn, tiêu xài của kẻ hoang phí làm giảm vốn.
+
+Cán cân này hoàn toàn khác cán cân thương mại. Nó có thể xảy ra với một nước không có ngoại thương, hoàn toàn tách biệt với thế giới. Nó cũng có thể xảy ra với cả thế giới nói chung, nơi của cải, dân số và sự cải thiện có thể tăng dần hay giảm dần.
+
+Quan trọng hơn, cán cân sản xuất – tiêu dùng có thể luôn thuận trong khi cán cân thương mại thường xuyên nghịch. Smith mô tả một kịch bản:
+
+1. Một nước có thể nhập nhiều hơn xuất trong suốt nửa thế kỷ.
+2. Vàng bạc nhập vào nước ấy suốt thời gian đó có thể lập tức bị xuất đi.
+3. Tiền đúc lưu hành có thể mòn dần và giảm dần, và các loại tiền giấy thay thế cho nó.
+4. Nợ của nước ấy với các nước lớn mà nó buôn bán cùng có thể tăng dần.
+5. Vậy mà của cải thực của nước ấy, tức giá trị trao đổi của sản phẩm hằng năm của đất đai và lao động, có thể tăng theo một tỷ lệ lớn hơn nhiều trong cùng thời gian.
+
+Smith nói đây không phải giả thiết không thể có: tình trạng các thuộc địa Bắc Mỹ và thương mại của chúng với Anh, trước các xáo trộn hiện nay (cuộc nổi dậy của các thuộc địa), là bằng chứng cho thấy điều đó đã xảy ra.
+
+**Ví dụ hôm nay** (minh hoạ chung). Một gia đình trẻ vay tiền mua máy móc để mở xưởng: trong vài năm, gia đình ấy chi ra ngoài nhiều hơn thu vào từ bên ngoài và mắc nợ, tức là "nhập siêu". Nhưng nếu xưởng làm ra nhiều hơn số gia đình tiêu dùng, tài sản của gia đình vẫn tăng. Thứ quyết định gia đình giàu lên hay nghèo đi là họ làm ra nhiều hơn hay tiêu nhiều hơn, chứ không phải tiền chảy vào hay chảy ra trong từng năm. Thuộc địa Bắc Mỹ trong ví dụ của Smith ở đúng tình trạng ấy.
 
 ## Luận điểm kinh tế cốt lõi
 
