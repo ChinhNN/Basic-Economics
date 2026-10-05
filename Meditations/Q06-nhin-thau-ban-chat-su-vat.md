@@ -196,225 +196,418 @@
 2. **Vì sao ta oán trời trách người, và làm sao thôi?** Vì ta gán "tốt" và "xấu" cho những thứ ngoài quyền mình. Nếu chỉ gọi tốt hay xấu những gì thuộc hành động của mình, ta không còn lý do oán thần linh hay coi ai là kẻ thù. Dù vũ trụ là thần quyền hay nguyên tử, kết luận thực hành vẫn vậy.
 3. **Một người quyền lực tuyệt đối giữ mình thế nào?** Đừng để bị "Caesar hóa"; lấy triết học làm mẹ ruột, triều đình làm mẹ kế; học từng nét của Antoninus: không hấp tấp, chịu chê không đáp trả, vui khi bị chỉ ra ý tốt hơn, sống giản dị; nhớ rằng ai cũng chết như nhau, từ Alexander tới người dắt la.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Phép nhìn trần trụi.** Là bài tập mô tả một sự vật bằng thành phần vật chất của nó, bỏ hết những lời tán tụng, giá cả và danh tiếng bọc quanh. Mục đích không phải để chê bai mọi thứ, mà để thấy đúng giá trị thật trước khi để nó điều khiển mình. Ví dụ trong quyển: mục 6.13 gọi rượu Falernian hảo hạng là "nước nho", áo choàng tía của hoàng đế là "lông cừu nhúng máu con sò". Khái niệm này quan trọng vì nó là công cụ chính của Quyển 6, quyển tập trung vào việc **thấy đúng** sự vật.
+
+**Thói tự phụ (typhos).** Chữ Hy Lạp *typhos* nghĩa đen là "khói": thứ làm mờ mắt, làm ta tưởng mình và việc mình quan trọng hơn thực tế. Ví dụ trong quyển: mục 6.13 nói thói tự phụ là "kẻ nguỵ biện đáng sợ nhất", vì đúng lúc ta tưởng mình đang lo việc nghiêm túc nhất là lúc nó lừa ta nhiều nhất. (Bản dịch tiếng Việt đổi chủ ngữ thành "vẻ ngoài", làm mất ý Marcus tự cảnh báo chính mình.) Khái niệm này quan trọng vì nó cho thấy phép nhìn trần trụi không chỉ hướng ra ngoài sự vật, mà hướng cả vào lòng kiêu ngạo của người nhìn.
+
+**Cái trong quyền ta và cái ngoài quyền ta.** Người Khắc kỷ chia mọi thứ làm hai loại: cái ta kiểm soát được (phán đoán, ý định, hành động của mình) và cái ta không kiểm soát được (thời tiết, sức khoẻ, lời người khác, kết quả). Họ chỉ gọi "tốt" hay "xấu" những gì thuộc loại thứ nhất. Ví dụ minh hoạ: một nhân viên làm báo cáo cẩn thận (trong quyền mình) nhưng dự án vẫn bị huỷ vì ngân sách (ngoài quyền mình); theo người Khắc kỷ, việc làm cẩn thận là "tốt", còn việc bị huỷ thì không tốt cũng không xấu. Khái niệm này quan trọng vì mục 6.41 nói gán tốt, xấu cho thứ ngoài quyền ta là nguồn gốc của việc oán thần linh và ghét người.
+
+**Lập luận hai nhánh (thần quyền hay nguyên tử).** Thời cổ đại có hai giả thuyết về vũ trụ: hoặc nó được một lý trí an bài có trật tự (thần quyền, quan điểm Khắc kỷ), hoặc nó chỉ là các hạt nguyên tử va chạm ngẫu nhiên (quan điểm của Epicurus). Marcus không chờ giải quyết câu hỏi ấy, mà chứng minh rằng thái độ đúng vẫn như nhau trong cả 2 trường hợp. Ví dụ trong quyển: mục 6.10 xét cả hai nhánh và cả hai đều dẫn tới bình thản; mục 6.44 mở rộng thành 3 nhánh về thần linh. Khái niệm này quan trọng vì nó giúp phần đạo đức của Marcus đứng vững ngay cả với người không tin thần học Khắc kỷ.
+
+**Sự cảm thông của vũ trụ (sympatheia).** Là ý tưởng rằng mọi phần của vũ trụ liên kết và ảnh hưởng lẫn nhau, như các bộ phận trong một cơ thể. Ví dụ trong quyển: mục 6.38 nói mọi thứ "đan vào nhau và vì thế cảm thông với nhau"; mục 6.54 rút ra hệ quả: điều gì không có lợi cho tổ ong thì cũng không có lợi cho con ong. Khái niệm này quan trọng vì nó là nền của hình ảnh "một công trình chung" ở mục 6.42, nơi cả kẻ phá ngang cũng góp phần.
+
+**Nỗ lực có bảo lưu.** Là cách đặt mục tiêu kèm điều kiện "nếu không có gì ngăn cản". Ta nhắm vào chính sự cố gắng, không nhắm vào kết quả; nên khi bị ngăn, mục tiêu thật vẫn đã đạt được. Ví dụ trong quyển: mục 6.50 nói hãy cố thuyết phục người khác, gặp sức mạnh lớn hơn thì lùi lại bình thản và dùng trở ngại để rèn một phẩm chất khác, vì "điều ta định làm đã được làm". Khái niệm này quan trọng vì nó giải thích làm sao Marcus vừa hành động quyết liệt vừa không bị thất bại làm rối.
+
+**"Caesar hoá" (apokaisarōthēs).** Là chữ Marcus tự đặt ra, nghĩa là bị vai trò hoàng đế "nhuộm" mất con người mình, như vải bị nhuộm tía (màu áo hoàng đế) không gột ra được. Ví dụ trong quyển: mục 6.30 liệt kê khoảng 10 phẩm chất cần giữ để không bị Caesar hoá: giản dị, tốt, trong sạch, nghiêm trang, không màu mè, yêu công lý, kính thần, nhân hậu, trìu mến, vững vàng. Khái niệm này quan trọng vì nó cho thấy nỗi lo lớn nhất của một người có quyền lực tuyệt đối không phải là mất quyền, mà là bị quyền lực thay đổi.
+
+## Nội dung chi tiết
+
+*Suy tưởng không chia chủ đề, chỉ có các mục đánh số. Quyển 6 có 59 mục (cộng một mục 36a); mục số n của Quyển 6 được ghi là 6.n. Phần dưới đi theo đúng thứ tự các mục.*
 
 ### Mục 1. Logos không biết điều xấu
-- Chất liệu của vũ trụ dễ uốn và vâng phục. Lý trí điều hành nó không có lý do gì để làm điều xấu, vì nó không có cái xấu trong mình, không làm gì xấu, và không gì bị nó làm hại. Mọi thứ khởi đầu và hoàn tất theo nó.
+
+Mục 6.1 mở quyển bằng một nhận định về vũ trụ. Chất liệu của vũ trụ dễ uốn và vâng phục. Lý trí điều hành nó (logos) không có lý do gì để làm điều xấu, vì nó không có cái xấu trong mình, không làm gì xấu, và không có gì bị nó làm hại. Mọi thứ khởi đầu và hoàn tất theo nó. Tức là logos chỉ đặt khởi đầu và kết thúc cho mọi vật, không gây ra điều ác.
 
 ### Mục 2. Chỉ cần làm điều đúng
-- Đừng bận tâm mình đang lạnh hay ấm khi làm điều đúng, buồn ngủ hay đã ngủ đủ, bị chê hay được khen, đang sắp chết hay đang làm việc gì khác. Vì chết cũng là một trong những việc của đời, và với việc ấy cũng vẫn phải "làm thứ cần phải làm".
+
+Mục 6.2 nói: khi làm điều đúng, đừng bận tâm mình đang lạnh hay nóng, buồn ngủ hay đã ngủ đủ, mệt hay khoẻ, bị chê hay được khen, đang sắp chết hay đang làm việc gì khác. Những điều ấy không quan trọng.
+
+Marcus thêm một ý đáng chú ý: chết cũng là một trong những việc của đời. Vậy với việc ấy cũng vẫn phải "làm thứ cần phải làm", tức là chết cho đúng cách, như làm bất cứ việc gì khác cho đúng cách.
 
 ### Mục 3. Nhìn vào trong
-- Hãy nhìn vào bên trong; đừng để tính chất riêng hay giá trị thật của bất cứ thứ gì lọt khỏi tầm nhìn.
+
+Mục 6.3: hãy hướng vào bên trong; đừng để tính chất riêng hay giá trị thật của bất cứ thứ gì lọt khỏi tầm nhìn. Đây là lời mở cho phép nhìn trần trụi ở mục 6.13.
 
 ### Mục 4. Khói hay tan rã
-- Mọi thứ hiện có sẽ sớm biến đổi: hoặc bốc hơi (nếu mọi chất là một), hoặc phân tán thành các phần (nếu là nguyên tử). Marcus để ngỏ cả hai thuyết.
+
+Mục 6.4: mọi thứ hiện có sẽ sớm biến đổi. Hoặc chúng bốc hơi (nếu mọi chất thực ra là một chất duy nhất), hoặc phân tán thành các phần (nếu vũ trụ gồm nguyên tử). Marcus để ngỏ cả hai thuyết; kết luận "mọi thứ sẽ biến đổi" đúng trong cả hai.
 
 ### Mục 5. Lý trí biết mình
-- Lý trí điều hành biết mình ở trạng thái nào, đang làm gì, và làm trên chất liệu nào.
+
+Mục 6.5: lý trí điều hành biết mình đang ở trạng thái nào, đang làm gì, và đang làm trên chất liệu nào. Nó là năng lực tự nhận thức.
 
 ### Mục 6. Trả thù tốt nhất
-- Cách tự vệ tốt nhất là đừng trở nên giống kẻ đã làm hại mình.
+
+Mục 6.6 chỉ có một câu: cách tự vệ, hay cách trả thù, tốt nhất là đừng trở nên giống kẻ đã làm hại mình. Nếu kẻ ấy độc ác và ta đáp lại bằng độc ác, thì hắn đã thắng hai lần: một lần làm hại ta, một lần biến ta thành giống hắn.
 
 ### Mục 7. Từ việc chung này sang việc chung khác
-- Hãy tìm niềm vui và sự nghỉ ngơi ở một điều duy nhất: đi từ một hành động vì cộng đồng sang hành động vì cộng đồng khác, trong lúc nhớ tới thần linh.
+
+Mục 6.7: hãy tìm niềm vui và sự nghỉ ngơi ở một điều duy nhất: đi từ một hành động vì cộng đồng sang một hành động vì cộng đồng khác, trong lúc nhớ tới thần linh. (Bản dịch dùng chữ "Thượng Đế/Chúa"; nguyên tác chỉ nói "nhớ đến thần", không có sắc thái Kitô giáo.)
 
 ### Mục 8. Tâm trí tự định hình
-- Phần chỉ huy là cái tự đánh thức, tự xoay chuyển, tự làm mình thành thế nào nó muốn, và làm cho mọi sự xảy đến hiện ra theo cách nó muốn.
+
+Mục 6.8: phần chỉ huy là cái tự đánh thức mình, tự xoay chuyển mình, tự làm mình thành thế nào nó muốn, và làm cho mọi sự xảy đến hiện ra theo cách nó muốn. Ngoại cảnh không định hình được nó; nó định hình cách ngoại cảnh hiện ra với nó.
 
 ### Mục 9. Mọi thứ theo một tự nhiên
-- Mọi thứ được hoàn tất theo Tự nhiên của toàn thể, không theo một tự nhiên nào khác bao bọc từ ngoài, ẩn bên trong, hay treo lơ lửng tách rời.
+
+Mục 6.9: mọi thứ được hoàn tất theo Tự nhiên của toàn thể, không theo một tự nhiên nào khác, dù là thứ bao bọc từ bên ngoài, ẩn bên trong, hay treo lơ lửng tách rời. Chỉ có một trật tự.
 
 ### Mục 10. Hai giả thuyết về vũ trụ
-- Hoặc vũ trụ là mớ hỗn độn, đan rối rồi phân tán; hoặc là một thể thống nhất, có trật tự, có thần quyền.
-- Nếu là cái thứ nhất: sao ta lại muốn sống lâu trong một mớ hỗn tạp ngẫu nhiên như thế? Ta còn bận tâm gì ngoài cái kết "cát bụi lại trở về với cát bụi"? Việc gì phải lo, vì dù ta làm gì thì sự tan rã cũng sẽ tới.
-- Nếu là cái thứ hai: ta tôn kính, đứng vững, và tin vào cái đang điều hành.
-- Đây là "lập luận hai nhánh" xuất hiện nhiều lần trong *Suy tưởng*: thái độ đúng không phụ thuộc vào việc giải quyết câu hỏi siêu hình.
+
+Mục 6.10 là một ví dụ rõ của "lập luận hai nhánh", kiểu lập luận xuất hiện nhiều lần trong *Suy tưởng*:
+
+| Giả thuyết | Vũ trụ là | Thái độ rút ra |
+|---|---|---|
+| (i) Nguyên tử | mớ hỗn độn, đan rối rồi phân tán | Sao ta lại muốn sống lâu trong một mớ hỗn tạp ngẫu nhiên như thế? Ta còn bận tâm gì ngoài cái kết "cát bụi lại trở về với cát bụi"? Việc gì phải lo, vì dù ta làm gì thì sự tan rã cũng sẽ tới. |
+| (ii) Thần quyền | một thể thống nhất, có trật tự, có chủ ý | Ta tôn kính, đứng vững, và tin vào cái đang điều hành. |
+
+Cả hai nhánh đều dẫn tới bình thản. Điểm mấu chốt: thái độ đúng không phụ thuộc vào việc giải quyết được câu hỏi siêu hình.
 
 ### Mục 11. Trở về nhịp của mình
-- Khi hoàn cảnh buộc ta phải bối rối, hãy nhanh chóng quay về bên trong, đừng lạc nhịp lâu hơn mức cần thiết. Càng thường xuyên quay về, ta càng làm chủ được sự hài hòa.
+
+Mục 6.11: khi hoàn cảnh buộc ta phải bối rối, hãy nhanh chóng quay về bên trong, đừng lạc nhịp lâu hơn mức cần thiết. Càng thường xuyên quay về, ta càng làm chủ được sự hài hoà. Như một nhạc công lỡ nhịp: không thể không bao giờ lỡ, nhưng có thể tập để quay lại nhịp thật nhanh.
 
 ### Mục 12. Mẹ kế và mẹ ruột
-- Nếu có cả mẹ kế lẫn mẹ ruột, ta sẽ kính trọng mẹ kế, nhưng thường xuyên trở về với mẹ ruột. Triều đình là mẹ kế, triết học là mẹ ruột. Hãy thường về với triết học và nghỉ ngơi ở đó; nhờ nó mà triều đình trở nên chịu đựng được với ta, và ta chịu đựng được với triều đình.
+
+Mục 6.12 dùng một hình ảnh gia đình. Nếu có cả mẹ kế lẫn mẹ ruột, ta sẽ kính trọng mẹ kế, nhưng thường xuyên trở về với mẹ ruột. Với Marcus, triều đình là mẹ kế, triết học là mẹ ruột. Hãy thường về với triết học và nghỉ ngơi ở đó; nhờ nó mà triều đình trở nên chịu đựng được với ta, và ta cũng trở nên chịu đựng được với triều đình.
 
 ### Mục 13. Phép nhìn trần trụi
-- Trước món thịt và đồ ăn ngon, hãy nghĩ: đây là xác con cá, xác con chim hay con lợn. Rượu Falernian là nước nho. Áo choàng tía là lông cừu nhúng máu con sò. Chuyện ái ân là sự cọ xát của một bộ phận bên trong, một cơn co giật và một chút chất nhầy tiết ra.
-- Những nhận thức như thế đi xuyên vào sự vật và cho thấy chúng thật ra là gì. Phải làm vậy suốt đời: chỗ nào sự vật có vẻ đáng tin nhất thì càng phải lột trần chúng, thấy chúng rẻ mạt ra sao, và tước đi những lời kể tô vẽ làm chúng có vẻ cao sang.
-- Vì thói tự phụ là kẻ ngụy biện đáng sợ: đúng lúc ta tưởng mình đang lo việc nghiêm túc nhất, nó đánh lừa ta nhiều nhất (xem Lưu ý). Hãy nghĩ tới lời Crates nói về chính Xenocrates (cả hai đều là triết gia; lời ấy không còn lưu lại, nhiều khả năng là một câu châm chọc vẻ trịnh trọng của Xenocrates).
+
+Mục 6.13 là một trong những đoạn nổi tiếng nhất của cả tác phẩm. Marcus tập mô tả những thứ được coi là quý giá bằng thành phần vật chất của chúng:
+
+| Thứ được coi trọng | Nhìn trần trụi thì là |
+|---|---|
+| món thịt nướng, đồ ăn ngon sang trọng | xác con cá, xác con chim hay con lợn |
+| rượu Falernian hảo hạng | nước nho |
+| áo choàng tía (màu của hoàng đế) | lông cừu nhúng máu con sò |
+| chuyện ái ân | sự cọ xát của một bộ phận bên trong, một cơn co giật, và một chút chất nhầy tiết ra |
+
+Những nhận thức như thế đi xuyên vào sự vật và cho thấy chúng thật ra là gì, bóc lớp vỏ và tiếng tăm bọc quanh chúng. Phải làm vậy suốt đời: chỗ nào sự vật có vẻ đáng tin, đáng trọng nhất thì càng phải lột trần chúng, thấy chúng rẻ mạt ra sao, và tước đi những lời kể tô vẽ làm chúng có vẻ cao sang.
+
+Lý do phải cảnh giác như vậy: thói tự phụ là kẻ nguỵ biện, kẻ lừa đảo đáng sợ nhất. Đúng lúc ta tưởng mình đang lo việc nghiêm túc, quan trọng nhất, nó đánh lừa ta nhiều nhất. Marcus nhắc mình nhớ tới lời triết gia Crates nói về chính Xenocrates (cũng là một triết gia). Lời ấy không còn lưu lại; nhiều khả năng đó là một câu châm chọc vẻ trịnh trọng của Xenocrates.
+
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp). Một chiếc túi xách hàng hiệu giá vài trăm triệu đồng, nhìn trần trụi là "da bò đã thuộc, chỉ khâu và một cái nhãn". Bài tập không bảo ta đừng bao giờ mua túi đẹp, mà bảo ta biết rõ mình đang trả tiền cho phần vật chất hay cho phần tiếng tăm bọc quanh nó.
 
 ### Mục 14. Thang giá trị của người đời
-- Phần lớn những thứ đám đông khâm phục thuộc loại vật được giữ lại bằng cấu trúc hay bằng sinh trưởng tự nhiên: đá, gỗ, cây vả, nho, ô liu.
-- Người khá hơn chút thì khâm phục những thứ có hồn: đàn gia súc.
-- Người tinh tế hơn nữa khâm phục những thứ có linh hồn lý trí, nhưng không phải lý trí phổ quát, mà là lý trí theo nghĩa có tay nghề, khéo léo, hoặc đơn giản là sở hữu nhiều nô lệ.
-- Còn người trân trọng linh hồn lý trí phổ quát và mang tính công dân thì không còn để tâm tới thứ gì khác. Trên hết, họ giữ cho linh hồn mình ở trạng thái và hoạt động hợp lý trí, vì cộng đồng, và cùng người đồng loại hướng tới đích ấy.
+
+Mục 6.14 xếp những thứ người ta khâm phục thành một cái thang, từ thấp lên cao:
+
+| Bậc | Người ta trầm trồ trước | Ví dụ |
+|---|---|---|
+| Thấp nhất | vật được giữ lại bằng cấu trúc (vật vô tri) hay bằng sinh trưởng tự nhiên (cây cối) | đá, gỗ; cây vả, nho, ô liu |
+| Cao hơn | vật có hồn | đàn cừu, đàn bò, đàn gia súc |
+| Cao hơn nữa | vật có linh hồn lý trí, nhưng không phải lý trí phổ quát, mà là lý trí theo nghĩa có tay nghề khéo léo, hoặc đơn giản là việc sở hữu nhiều nô lệ | thợ giỏi, người có nhiều nô lệ |
+| Cao nhất | linh hồn lý trí phổ quát và mang tính công dân | người trọng lý trí chung |
+
+Người ở bậc cao nhất không còn để tâm tới thứ gì khác. Trên hết, họ chăm lo tâm trí mình, giữ cho linh hồn ở trạng thái và hoạt động hợp lý trí, vì cộng đồng, và cùng người đồng loại làm việc chung hướng tới đích ấy.
 
 ### Mục 15. Chim sẻ bay qua
-- Có thứ đang vội đến, có thứ đang vội đi; trong cái đang sinh, một phần đã tắt. Dòng chảy và biến đổi liên tục làm mới thế giới, như dòng thời gian không ngừng làm mới vĩnh hằng.
-- Giữa dòng sông ấy, ai còn quý một thứ trôi qua mà không thể đứng chân lên? Như đem lòng yêu một con chim sẻ vừa bay ngang, đã khuất mắt.
-- Đời ta cũng như làn hơi bốc từ máu hay hơi thở: trả lại năng lực hô hấp nhận lúc sinh ra (hôm qua hay hôm kia) cũng giống như thở ra mỗi khoảnh khắc.
+
+Mục 6.15 nói về dòng chảy. Có thứ đang vội đến, có thứ đang vội đi; trong cái đang sinh ra, một phần đã tắt. Dòng chảy và biến đổi liên tục làm mới thế giới, như dòng thời gian không ngừng làm mới vĩnh hằng.
+
+Giữa dòng sông ấy, ai còn quý một thứ đang trôi qua mà không thể đặt chân lên? Như đem lòng yêu một con chim sẻ vừa bay ngang, chớp mắt đã khuất.
+
+Đời ta cũng như làn hơi bốc lên từ máu hay như hơi thở. Trả lại năng lực hô hấp mà ta nhận lúc sinh ra (mới hôm qua hay hôm kia) cũng giống như mỗi lần thở ra trong từng khoảnh khắc.
 
 ### Mục 16. Điều gì đáng trọng?
-- Không phải thoát hơi như cây, thở như thú nuôi và thú hoang, nhận ấn tượng giác quan, bị xung lực giật dây như con rối, tụ bầy, hay ăn rồi thải.
-- Không phải tiếng vỗ tay: lời khen của đám đông chỉ là tiếng nhiều cái lưỡi lách cách. Gạt danh tiếng đi, còn lại gì?
-- Theo Marcus: là hoạt động và kiềm chế mình theo đúng cấu tạo của mình. Mọi nghề và mọi kỹ năng đều nhắm tới điều này: làm sao cho vật được tạo ra hợp với công việc nó được tạo ra để làm. Người trồng nho, người luyện ngựa, người nuôi chó đều nhắm tới vậy; giáo dục và giảng dạy cũng thế.
-- Nếu nắm chắc điều này, ta sẽ không tìm thứ gì khác. Còn nếu vẫn coi trọng nhiều thứ khác, ta sẽ không tự do, không tự đủ, không thoát khỏi đam mê: tất phải ghen tị, đố kỵ, nghi kẻ có thể tước chúng đi, mưu hại kẻ đang có chúng, sống trong rối loạn, và oán trách thần linh.
-- Ngược lại, tôn trọng tâm trí mình sẽ làm ta hài lòng với chính mình, hòa hợp với con người và đồng điệu với thần linh, nghĩa là tán thành những gì họ phân và sắp đặt.
+
+Mục 6.16 dùng phép loại trừ. Điều đáng trọng, đáng tự hào **không phải**:
+
+- thoát hơi nước như cây cối;
+- thở như thú nuôi và thú hoang;
+- nhận ấn tượng giác quan;
+- bị xung lực giật dây như con rối;
+- tụ thành bầy;
+- ăn rồi thải.
+
+Cũng **không phải** tiếng vỗ tay: lời khen của đám đông chỉ là tiếng tặc lưỡi, tiếng lách cách của nhiều cái lưỡi. Gạt danh tiếng đi rồi, còn lại gì?
+
+Theo Marcus, còn lại là: hoạt động và kiềm chế mình theo đúng cấu tạo của mình, tức làm đúng việc ta được tạo ra để làm. Mọi nghề và mọi kỹ năng đều nhắm tới điều này: làm sao cho vật được tạo ra hợp với công việc nó được tạo ra để làm. Người trồng nho, người luyện ngựa, người nuôi chó đều nhắm tới vậy; giáo dục và giảng dạy cũng thế.
+
+Hệ quả hai chiều:
+
+- Nếu nắm chắc điều này, ta sẽ không tìm thứ gì khác.
+- Nếu vẫn coi trọng nhiều thứ khác (ngoại vật), ta sẽ không tự do, không tự đủ, không thoát khỏi đam mê. Ta tất phải ghen tị, đố kỵ, sợ mất, nghi kẻ có thể tước chúng đi, mưu hại kẻ đang có chúng, sống trong rối loạn, và oán trách thần linh.
+
+Ngược lại, tôn trọng tâm trí mình sẽ làm ta hài lòng với chính mình, hoà hợp với con người và đồng điệu với thần linh, tức là tán thành những gì thần linh phân chia và sắp đặt.
 
 ### Mục 17. Chuyển động của đức hạnh
-- Các nguyên tố chuyển động lên, xuống, vòng quanh. Chuyển động của đức hạnh thì không như vậy; nó là điều thần diệu hơn, đi trên con đường khó thấy nhưng vững vàng tiến lên.
+
+Mục 6.17: các nguyên tố chuyển động lên, xuống, vòng quanh. Chuyển động của đức hạnh thì không như vậy; nó là điều thần diệu hơn, đi trên một con đường khó thấy nhưng vững vàng tiến lên.
 
 ### Mục 18. Thèm khen của hậu thế
-- Người ta lạ thay: không chịu khen những người cùng thời đang sống bên mình, mà lại đặt nặng việc được hậu thế, những người chưa từng gặp và sẽ không bao giờ gặp, khen ngợi. Chẳng khác gì buồn phiền vì tổ tiên không khen mình.
+
+Mục 6.18 chỉ ra một nghịch lý. Người ta không chịu khen những người cùng thời đang sống bên mình, mà lại đặt nặng việc được hậu thế khen, tức những người họ chưa từng gặp và sẽ không bao giờ gặp. Điều đó vô lý chẳng khác gì buồn phiền vì tổ tiên không khen mình.
 
 ### Mục 19. Người khác làm được thì ta làm được
-- Đừng vì một việc khó với ta mà nghĩ con người không làm được. Điều gì con người làm được và hợp với con người, hãy tin ta cũng với tới được.
+
+Mục 6.19: đừng vì một việc khó với ta mà nghĩ con người không làm được. Điều gì con người làm được và hợp với con người, hãy tin rằng ta cũng với tới được.
 
 ### Mục 20. Sàn đấu
-- Trong buổi tập, đối thủ cào móng hay húc đầu làm ta bầm tím, ta không làm ầm lên, không phật ý, về sau cũng không nghi họ là kẻ ác. Ta chỉ đề phòng, nhưng không như với kẻ thù, cũng không nghi kỵ, mà né tránh một cách thân thiện.
-- Ở các mặt khác của đời cũng nên vậy: bỏ qua nhiều điều cho những người cùng tập với mình trên sàn đấu cuộc đời. Ta có thể tránh họ mà không nghi ngờ hay thù ghét.
+
+Mục 6.20 dùng hình ảnh buổi tập đấu vật. Trong buổi tập, đối thủ cào móng hay húc đầu làm ta bầm tím. Ta không làm ầm lên, không phật ý, không lên án, về sau cũng không nghi họ là kẻ xấu. Ta chỉ để mắt đề phòng, nhưng không như đề phòng kẻ thù, cũng không nghi kỵ; ta né tránh một cách thân thiện, nhẹ nhàng.
+
+Ở các mặt khác của đời cũng nên vậy: bỏ qua nhiều điều cho những người cùng tập với mình trên sàn đấu cuộc đời, những người va chạm với ta. Ta có thể tránh họ mà không ghét, không nghi ngờ.
 
 ### Mục 21. Vui lòng đổi ý
-- Nếu ai chứng minh được ta nghĩ hay làm sai, ta sẽ vui vẻ sửa. Vì ta tìm sự thật, và sự thật chưa từng làm hại ai; cái hại là cứ ở lì trong sự tự lừa dối và thiếu hiểu biết.
+
+Mục 6.21: nếu ai chứng minh được ta nghĩ hay làm sai, ta sẽ vui vẻ sửa, vui vẻ đổi ý. Lý do: ta tìm sự thật, và sự thật chưa từng làm hại ai. Cái hại là cứ cố chấp ở lì trong sự tự lừa dối và thiếu hiểu biết.
 
 ### Mục 22. Làm việc của mình
-- Ta làm bổn phận của mình; những thứ khác không làm ta xao lãng, vì chúng hoặc vô tri, hoặc không có lý trí, hoặc lạc đường và không biết lối.
+
+Mục 6.22: ta làm bổn phận của mình; những thứ khác không làm ta xao lãng, vì chúng hoặc vô tri, hoặc không có lý trí, hoặc lạc đường và không biết lối.
 
 ### Mục 23. Rộng lượng với vật, tình người với người
-- Với con vật không lý trí và với mọi vật, hãy đối xử rộng rãi và tự do, vì ta có lý trí còn chúng thì không. Với con người, những sinh vật có lý trí, hãy đối xử như người với người. Trong mọi việc, hãy cầu thần linh giúp.
-- Đừng bận lòng phải làm thế bao lâu; chỉ cần sống như thế trong một quãng ngắn cũng đã đủ.
+
+Mục 6.23 phân biệt cách đối xử:
+
+- Với con vật không có lý trí và với mọi đồ vật: đối xử rộng rãi và tự do, vì ta có lý trí còn chúng thì không.
+- Với con người, những sinh vật có lý trí: đối xử như người với người, với tình đồng loại.
+- Trong mọi việc, hãy cầu thần linh giúp.
+
+Đừng bận lòng phải làm thế bao lâu; chỉ cần sống như thế trong một quãng ngắn cũng đã đủ. Bản dịch viết "Chỉ một buổi chiều cũng đủ rồi"; nguyên tác là "ba giờ như thế cũng đủ".
 
 ### Mục 24. Alexander và người dắt la
-- Alexander Đại đế và người dắt la của ông, khi chết, cùng chung một cảnh: hoặc được thu về cùng một lý trí sinh thành của vũ trụ, hoặc cùng tan thành nguyên tử.
+
+Mục 6.24: Alexander Đại đế và người dắt la của ông, khi chết, cùng chung một cảnh: hoặc cả hai được thu về cùng một lý trí sinh thành của vũ trụ, hoặc cả hai cùng tan thành nguyên tử. (Bản dịch gọi người này là "kẻ chăn gia súc"; nguyên tác là người dắt la, *oreōkomos*.) Một lần nữa là lập luận hai nhánh: nhánh nào thì vị vua và người hầu cũng như nhau.
 
 ### Mục 25. Cái gì đáng ngạc nhiên?
-- Hãy nghĩ có bao nhiêu điều xảy ra cùng lúc trong mỗi người ta, cả thân thể lẫn linh hồn, chỉ trong một khoảnh khắc. Vậy chẳng có gì lạ khi vô số điều, đúng hơn là tất cả, cùng lúc diễn ra trong cái thể thống nhất ta gọi là vũ trụ.
+
+Mục 6.25: hãy nghĩ có bao nhiêu điều xảy ra cùng lúc trong mỗi người chúng ta, cả trong thân thể lẫn linh hồn, chỉ trong một khoảnh khắc. Vậy chẳng có gì lạ khi vô số điều, đúng hơn là tất cả mọi điều, cùng lúc diễn ra trong cái thể thống nhất mà ta gọi là vũ trụ.
 
 ### Mục 26. Đánh vần tên mình
-- Nếu ai hỏi ta tên ta viết thế nào, ta có gào lên từng chữ không? Nếu họ nổi nóng, ta có nổi nóng lại không? Không, ta cứ bình tĩnh đánh vần từng chữ.
-- Vậy hãy nhớ: mỗi bổn phận đều gồm những bước nhất định. Giữ lấy chúng, đừng rối, đừng đáp trả cơn giận bằng cơn giận, cứ đi đến cùng việc đã đặt ra.
+
+Mục 6.26 dùng một ví dụ đời thường. Nếu ai hỏi ta tên ta viết thế nào, ta có gào lên từng chữ không? Nếu họ nổi nóng, ta có nổi nóng lại không? Không, ta cứ bình tĩnh đánh vần từng chữ, không cãi.
+
+Bài học: mỗi bổn phận, kể cả việc lớn, đều gồm những bước nhỏ nhất định như thế. Hãy giữ lấy các bước ấy, đừng rối, đừng đáp trả cơn giận bằng cơn giận, cứ đi đến cùng việc đã đặt ra. (Lời bình của dịch giả ở mục này suy diễn khá xa về "địa vị hoàng đế".)
 
 ### Mục 27. Đừng cấm người ta theo điều họ tưởng là tốt
-- Thật tàn nhẫn khi không cho người ta theo đuổi điều họ thấy là hợp và có lợi cho mình. Vậy mà khi ta giận vì họ sai, chính là ta đang không cho phép họ điều đó, vì họ đang bị kéo về phía cái họ tưởng là tốt.
-- Phản bác: nhưng đó không thật sự tốt cho họ. Trả lời: vậy hãy dạy họ, chỉ cho họ, đừng nổi giận.
+
+Mục 6.27: thật tàn nhẫn khi không cho người ta theo đuổi điều họ thấy là hợp và có lợi cho mình. Vậy mà khi ta giận vì họ làm sai, chính là ta đang không cho phép họ điều đó, vì họ đang bị kéo về phía cái họ **tưởng** là tốt.
+
+Phản bác: "Nhưng điều đó không thật sự tốt cho họ." Trả lời: vậy hãy dạy họ, chỉ cho họ thấy, đừng nổi giận.
 
 ### Mục 28. Cái chết
-- Cái chết là sự nghỉ ngơi khỏi các phản ứng của giác quan, khỏi sự giật dây của xung lực, khỏi những lan man của trí nghĩ, và khỏi việc phục dịch thân xác.
+
+Mục 6.28 định nghĩa cái chết như một sự nghỉ ngơi khỏi bốn thứ: khỏi các phản ứng của giác quan, khỏi sự giật dây của xung lực, khỏi những lan man của trí nghĩ, và khỏi việc phục dịch thân xác.
 
 ### Mục 29. Hổ thẹn
-- Thật đáng hổ thẹn khi trong một đời mà thân thể chưa bỏ cuộc, linh hồn đã bỏ cuộc trước.
+
+Mục 6.29: thật đáng hổ thẹn khi trong một đời mà thân thể chưa bỏ cuộc, linh hồn đã bỏ cuộc trước.
 
 ### Mục 30. Đừng bị Caesar hóa; chân dung Antoninus
-- Hãy coi chừng đừng để bị "Caesar hóa", bị nhuộm tía (xem Lưu ý); điều đó dễ xảy ra. Hãy giữ mình giản dị, tốt, trong sạch, nghiêm trang, không màu mè, bạn của công lý, kính thần, nhân hậu, trìu mến, vững vàng trong bổn phận. Hãy cố là người mà triết học muốn làm ra.
-- Kính thần, giúp người. Đời ngắn. Quả duy nhất của cuộc sống trên mặt đất là tâm thế thánh thiện và hành động vì cộng đồng.
-- Làm mọi việc như học trò của Antoninus. Marcus liệt kê từng nét:
-  - kiên trì làm những gì hợp lý trí; luôn đều tính, kính thần, gương mặt điềm tĩnh, hiền hòa, không ham hư danh, hăng hái muốn hiểu sự việc;
-  - không bỏ qua điều gì trước khi xem xét kỹ và hiểu rõ; chịu đựng lời trách móc bất công mà không trách lại; không hấp tấp; không nghe kẻ vu khống, chỉ điểm;
-  - đánh giá kỹ tính cách và việc làm; không bới móc, không hèn nhát, không đa nghi, không ngụy biện;
-  - hài lòng với ít: nhà ở, giường, áo, đồ ăn, người hầu;
-  - chăm chỉ, nhẫn nại; nhờ ăn uống đạm bạc mà làm việc được tới tối, không cần nghỉ giữa chừng trừ giờ quen;
-  - trước sau như một trong tình bạn; chịu được người công khai phản đối ý mình, và vui khi có người chỉ ra điều tốt hơn;
-  - kính thần mà không mê tín.
-- Mục đích: để khi giờ cuối đến, ta có lương tâm thanh thản như ông.
+
+Mục 6.30 là mục dài nhất và nổi tiếng nhất Quyển 6. Nó có ba phần.
+
+**Lời tự cảnh báo.** Hãy coi chừng, đừng để bị "Caesar hoá", bị nhuộm tía; điều đó rất dễ xảy ra. Nguyên tác dùng một chữ Marcus tự đặt (*apokaisarōthēs*): ông sợ vai trò hoàng đế nhuộm mất con người mình, như thuốc nhuộm tía để lại vết không gột sạch. Bản dịch viết "tránh để mình trở thành một tên bạo chúa", làm hẹp ý: Marcus không chỉ sợ thành bạo chúa, mà sợ cái vai nuốt mất con người.
+
+Để không bị Caesar hoá, hãy giữ mình: giản dị, tốt, trong sạch, nghiêm trang, không màu mè, bạn của công lý, kính thần, nhân hậu, trìu mến, vững vàng trong bổn phận. Hãy cố là người mà triết học muốn làm ra.
+
+**Điều cốt lõi.** Kính thần, giúp người. Đời ngắn. Quả duy nhất của cuộc sống trên mặt đất là tâm thế trong sạch, thánh thiện và hành động vì cộng đồng.
+
+**Chân dung Antoninus.** Hãy làm mọi việc như một học trò của Antoninus Pius, cha nuôi và người tiền nhiệm của Marcus. (Đây là bức chân dung thứ hai về Antoninus, sau bức chân dung dài ở Quyển 1.) Marcus liệt kê từng nét:
+
+| Mặt | Nét của Antoninus |
+|---|---|
+| Tâm tính | kiên trì làm những gì hợp lý trí; luôn đều tính, kính thần, gương mặt điềm tĩnh, hiền hoà; không ham hư danh; hăng hái muốn hiểu sự việc |
+| Cách xét việc | không bỏ qua điều gì trước khi xem xét kỹ và hiểu rõ đến cùng; không hấp tấp; đánh giá kỹ tính cách và việc làm của người khác |
+| Trước lời chê | chịu đựng lời trách móc bất công mà không trách lại; không nghe kẻ vu khống, kẻ chỉ điểm |
+| Tính cách | không bới móc, không hèn nhát, không đa nghi, không nguỵ biện |
+| Lối sống | hài lòng với ít: nhà ở, giường, áo, đồ ăn, người hầu đều giản dị |
+| Làm việc | chăm chỉ, nhẫn nại; nhờ ăn uống đạm bạc mà làm việc được tới tối, không cần nghỉ giữa chừng trừ giờ quen |
+| Với người khác | trước sau như một trong tình bạn; chịu được người công khai phản đối ý mình, và vui khi có người chỉ ra ý tốt hơn |
+| Tôn giáo | kính thần mà không mê tín |
+
+Mục đích của việc học theo ông: để khi giờ cuối đến, ta cũng có lương tâm thanh thản như ông.
 
 ### Mục 31. Tỉnh dậy
-- Hãy tỉnh lại, gọi mình về, rũ giấc ngủ đi; nhận ra những gì làm ta bối rối chỉ là giấc mơ, rồi tỉnh táo nhìn mọi thứ như đã nhìn những hình ảnh trong mơ.
+
+Mục 6.31: hãy tỉnh lại, gọi mình về, rũ giấc ngủ đi. Nhận ra rằng những gì làm ta bối rối chỉ là giấc mơ, rồi tỉnh táo nhìn mọi thứ như đã nhìn những hình ảnh trong mơ.
 
 ### Mục 32. Thân và tâm
-- Ta gồm thân xác và linh hồn. Với thân xác, mọi thứ đều không khác biệt, vì nó không có khả năng phân biệt. Với tâm trí, những gì không phải hoạt động của nó thì không khác biệt; còn mọi hoạt động của nó thì nằm trong quyền nó.
-- Và trong số đó, chỉ hoạt động ở hiện tại là đáng bận tâm; hoạt động quá khứ và tương lai của nó lúc này cũng không còn khác biệt gì.
+
+Mục 6.32 phân tích ta gồm thân xác và linh hồn:
+
+- Với thân xác, mọi thứ đều như nhau, vì nó không có khả năng phân biệt.
+- Với tâm trí, những gì không phải hoạt động của nó thì không có gì khác biệt; còn mọi hoạt động của nó thì nằm trong quyền nó.
+- Và trong các hoạt động ấy, chỉ hoạt động ở hiện tại là đáng bận tâm; hoạt động quá khứ và tương lai của nó lúc này cũng không còn khác biệt gì.
+
+Nói gọn: với tâm trí, chỉ hành động của chính nó, và chỉ ở hiện tại, mới có ý nghĩa.
 
 ### Mục 33. Đau khi làm đúng việc thì không xấu
-- Tay chân đau không trái tự nhiên nếu tay làm việc của tay, chân làm việc của chân. Con người chịu vất vả cũng không trái tự nhiên nếu đang làm việc của con người. Mà đã không trái tự nhiên thì không thể là điều xấu với họ.
+
+Mục 6.33: tay chân đau không trái tự nhiên nếu tay đang làm việc của tay, chân đang làm việc của chân. Con người chịu vất vả cũng không trái tự nhiên nếu đang làm việc của con người. Mà đã không trái tự nhiên thì không thể là điều xấu với họ.
 
 ### Mục 34. Khoái lạc của ai?
-- Kẻ cướp, kẻ trụy lạc, kẻ giết cha, bạo chúa đã hưởng biết bao khoái lạc. Ngụ ý: khoái lạc không thể là thước đo cái tốt, vì những kẻ tồi tệ nhất cũng có thừa.
+
+Mục 6.34: kẻ cướp, kẻ truỵ lạc, kẻ giết cha, bạo chúa đã hưởng biết bao khoái lạc. Ngụ ý: khoái lạc không thể là thước đo cái tốt, vì những kẻ tồi tệ nhất cũng có thừa.
 
 ### Mục 35. Người thợ trung thành với nghề
-- Thợ thủ công chiều theo người không chuyên ở một mức nào đó, nhưng không rời khỏi nguyên tắc nghề mình. Thật lạ nếu kiến trúc sư hay thầy thuốc tôn trọng nguyên tắc nghề mình hơn con người tôn trọng lý trí của chính mình, thứ ta chung với thần linh.
+
+Mục 6.35: người thợ thủ công chiều theo người không chuyên tới một mức nào đó, nhưng không rời khỏi nguyên tắc nghề mình. Thật lạ nếu kiến trúc sư hay thầy thuốc tôn trọng nguyên tắc nghề mình hơn con người tôn trọng lý trí của chính mình, thứ ta có chung với thần linh. (Bản dịch "đã vượt qua những người kém cỏi hơn" lệch nghĩa; nội dung ở đây theo nghĩa của nguyên tác.)
 
 ### Mục 36. Góc nhỏ của vũ trụ
-- Châu Á, châu Âu là những góc vũ trụ; cả đại dương là một giọt nước; núi Athos là một hòn đất; toàn bộ hiện tại là một điểm trong vĩnh hằng. Mọi thứ đều nhỏ, dễ đổi, dễ tan biến.
+
+Mục 6.36 đổi tỷ lệ để thấy mọi thứ nhỏ đến đâu:
+
+| Thứ ta tưởng lớn | Trong vũ trụ chỉ là |
+|---|---|
+| châu Á, châu Âu | những góc nhỏ |
+| cả đại dương | một giọt nước |
+| núi Athos | một hòn đất |
+| toàn bộ hiện tại | một điểm trong vĩnh hằng |
+
+Mọi thứ đều nhỏ, dễ đổi, dễ tan biến.
 
 ### Mục 36a. Hàm sư tử cũng là sản phẩm phụ của cái đẹp
-- Mọi thứ đến từ đó, từ phần chỉ huy chung của vũ trụ, hoặc trực tiếp hoặc như hệ quả kéo theo. Hàm sư tử há rộng, chất độc, mọi thứ có hại như gai, bùn, đều là sản phẩm phụ của những thứ thiêng liêng và đẹp.
-- Vậy đừng nghĩ chúng xa lạ với cái ta tôn kính, mà hãy nghĩ tới nguồn gốc chung của mọi thứ.
+
+Mục 6.36a: mọi thứ đều đến từ đó, từ phần chỉ huy chung của vũ trụ, hoặc trực tiếp, hoặc như hệ quả kéo theo. Hàm sư tử há rộng, chất độc, mọi thứ có hại như gai, bùn, đều là sản phẩm phụ của những thứ thiêng liêng và đẹp. Vậy đừng nghĩ chúng xa lạ với cái ta tôn kính, mà hãy nghĩ tới nguồn gốc chung của mọi thứ.
 
 ### Mục 37. Thấy hiện tại là thấy tất cả
-- Ai thấy được hiện tại là đã thấy mọi thứ: những gì đã có từ vô thủy và sẽ có mãi mãi. Mọi thứ đều cùng một gốc, cùng một dạng.
+
+Mục 6.37: ai thấy được hiện tại là đã thấy mọi thứ, cả những gì đã có từ vô thuỷ và sẽ có mãi mãi. Vì mọi thứ đều cùng một gốc, cùng một dạng.
 
 ### Mục 38. Mọi thứ đan cài
-- Hãy thường nghĩ tới sự liên kết và tương quan của mọi thứ trong vũ trụ. Chúng đan vào nhau và vì thế "cảm thông với nhau"; vật này theo vật kia nhờ chuyển động căng giãn, nhờ hơi thở chung và sự thống nhất của chất liệu.
+
+Mục 6.38: hãy thường nghĩ tới sự liên kết và tương quan của mọi thứ trong vũ trụ. Chúng đan vào nhau, và vì thế "cảm thông với nhau" (sympatheia). Vật này theo vật kia nhờ chuyển động căng giãn, nhờ hơi thở chung, và nhờ sự thống nhất của chất liệu.
 
 ### Mục 39. Yêu người cùng chung số phận
-- Hãy hòa hợp với những gì được phân cho ta, và yêu những người mà số phận đặt cạnh ta, yêu thật lòng.
+
+Mục 6.39: hãy hoà hợp với những gì được phân cho ta, và yêu những người mà số phận đặt cạnh ta, yêu thật lòng.
 
 ### Mục 40. Sức mạnh tạo tác nằm bên trong
-- Một dụng cụ, đồ nghề hay vật dụng mà làm được việc nó được làm ra để làm thì là tốt, dù người làm ra nó ở xa. Nhưng với những vật do Tự nhiên tạo, sức mạnh tạo ra chúng nằm ngay trong chúng và vẫn ở đó. Vì thế phải tôn kính nó hơn, và hiểu rằng nếu ta sống theo ý nó thì mọi thứ trong ta cũng hợp lý như mọi thứ trong vũ trụ.
+
+Mục 6.40 so sánh đồ vật do người làm với vật do Tự nhiên tạo ra:
+
+- Một dụng cụ, đồ nghề hay vật dụng mà làm được việc nó được làm ra để làm thì là tốt, dù người thợ làm ra nó đã đi xa.
+- Nhưng với những vật do Tự nhiên tạo ra, sức mạnh tạo ra chúng nằm ngay trong chúng và vẫn ở đó.
+
+Vì thế phải tôn kính sức mạnh ấy hơn, và hiểu rằng nếu ta sống theo ý nó thì mọi thứ trong ta cũng hợp lý như mọi thứ trong vũ trụ.
 
 ### Mục 41. Gốc của mọi cư xử sai
-- Khi ta coi điều gì ngoài quyền ta là tốt hay xấu, thì hễ "điều xấu" ấy đến hay "điều tốt" ấy không đến, ta tất sẽ oán thần linh và ghét những người gây ra hay bị nghi là gây ra. Phần lớn điều sai ta làm đều xuất phát từ việc bận tâm tới những thứ ấy.
-- Nếu chỉ coi tốt và xấu những gì trong quyền ta, thì không còn lý do để trách thần linh hay coi người khác là kẻ thù.
+
+Mục 6.41 chỉ ra nguồn gốc của phần lớn các cư xử sai. Cơ chế gồm ba bước:
+
+1. Ta gán "tốt" hay "xấu" cho một điều nằm ngoài quyền ta.
+2. Hễ "điều xấu" ấy đến, hay "điều tốt" ấy không đến, ta tất sẽ oán thần linh và ghét những người gây ra, hay bị nghi là gây ra.
+3. Phần lớn điều sai ta làm đều xuất phát từ việc bận tâm tới những thứ ấy.
+
+Giải pháp: chỉ gọi tốt và xấu những gì trong quyền ta. Khi ấy không còn lý do để trách thần linh hay coi người khác là kẻ thù.
 
 ### Mục 42. Một công trình chung
-- Tất cả chúng ta cùng làm một công trình, người thì biết và hiểu, người thì không biết. Heraclitus có nói rằng ngay cả người ngủ cũng là thợ, cũng góp vào những gì xảy ra trong vũ trụ. Mỗi người góp một cách; người phàn nàn, người tìm cách cản trở hay phá hỏng cũng góp nhiều như ai, vì vũ trụ cần cả họ.
-- Vậy hãy xác định mình sẽ đứng vào hàng nào. Đằng nào cái điều hành vũ trụ cũng sẽ dùng ta, xếp ta vào hàng thợ của nó. Chỉ cần đừng làm cái câu thơ rẻ tiền buồn cười trong vở kịch mà Chrysippus nhắc tới (một câu tầm thường mà vẫn có chỗ trong toàn bộ vở).
+
+Mục 6.42: tất cả chúng ta cùng làm một công trình, người thì biết và hiểu, người thì không biết. Heraclitus có nói rằng ngay cả người đang ngủ cũng là thợ, cũng góp vào những gì xảy ra trong vũ trụ. Mỗi người góp một cách; người phàn nàn, người tìm cách cản trở hay phá hỏng cũng góp nhiều như ai, vì vũ trụ cần cả họ.
+
+Vậy câu hỏi duy nhất là: ta chọn đứng vào hàng nào, góp sức theo cách nào. Đằng nào cái điều hành vũ trụ cũng sẽ dùng ta, xếp ta vào hàng thợ của nó. Chỉ cần đừng làm câu thơ rẻ tiền, nhạt nhẽo chỉ để gây cười trong vở kịch mà Chrysippus nhắc tới: một câu tầm thường nhưng vẫn có chỗ trong toàn bộ vở. Ý: ai cũng có vai trong vở, nhưng nên chọn một vai xứng đáng.
 
 ### Mục 43. Mỗi vật một việc
-- Mặt trời có đòi làm việc của mưa không? Asclepius (thần y) có đòi làm việc của Demeter (thần mùa màng) không? Các vì sao khác nhau nhưng cùng góp vào một việc.
+
+Mục 6.43: mặt trời có đòi làm việc của mưa không? Asclepius (thần y) có đòi làm việc của Demeter (thần mùa màng) không? Các vì sao khác nhau, nhưng cùng góp vào một việc.
 
 ### Mục 44. Ba nhánh về thần linh, hai thành bang
-- Nếu thần linh đã quyết định về ta và những gì sẽ xảy đến với ta, thì đó là quyết định tốt; khó mà hình dung một vị thần thiếu suy xét. Và họ có lý do gì để muốn hại ta? Họ được gì, hay cộng đồng mà họ chăm lo được gì?
-- Nếu họ không quyết định riêng về ta, thì họ đã quyết định về cái chung, và những gì đến với ta là hệ quả của nó, ta nên đón nhận vui vẻ.
-- Nếu họ không quyết định gì cả (tin như vậy là bất kính, vì thế thì ta bỏ tế lễ, cầu nguyện, thề nguyện và mọi việc ta làm với niềm tin thần linh hiện diện), thì ta vẫn có thể tự quyết về mình. Ta xét điều gì có lợi, và điều có lợi cho mỗi người là điều hợp với cấu tạo và bản chất của họ. Bản chất ta là có lý trí và có tính công dân.
-- Với tư cách Antoninus (tức chính Marcus, hoàng đế), thành bang và tổ quốc của ta là La Mã; với tư cách con người, là thế giới. Vậy cái có lợi cho hai thành bang ấy là cái tốt duy nhất với ta.
+
+Mục 6.44 mở rộng lập luận hai nhánh thành ba nhánh:
+
+| Nếu thần linh | Thì | Thái độ của ta |
+|---|---|---|
+| đã quyết định về riêng ta và những gì sẽ xảy đến với ta | quyết định ấy tốt; khó hình dung một vị thần thiếu suy xét. Và họ có lý do gì để muốn hại ta? Họ được gì, hay cộng đồng mà họ chăm lo được gì? | tin rằng điều đến là tốt |
+| không quyết định riêng về ta, mà quyết định về cái chung | những gì đến với ta là hệ quả của quyết định chung | đón nhận vui vẻ |
+| không quyết định gì cả | tin như vậy là bất kính (thế thì ta bỏ tế lễ, cầu nguyện, thề nguyện và mọi việc ta làm với niềm tin thần linh hiện diện), nhưng cứ giả sử | ta vẫn tự quyết về mình, theo bản chất mình |
+
+Ở nhánh thứ ba, Marcus lập luận: ta xét điều gì có lợi, và điều có lợi cho mỗi người là điều hợp với cấu tạo và bản chất của họ. Bản chất của ta là có lý trí và có tính công dân, sống vì cộng đồng.
+
+Kết luận về hai thành bang: với tư cách Antoninus, thành bang và tổ quốc của ta là La Mã; với tư cách con người, là thế giới. Vậy cái có lợi cho cả hai thành bang ấy là cái tốt duy nhất với ta. Lưu ý: "Antoninus" ở đây là **chính Marcus**, vì tên chính thức của ông là Marcus Aurelius Antoninus; người đọc bản dịch dễ nhầm với Antoninus Pius ở mục 6.30.
 
 ### Mục 45. Điều xảy đến với một người có lợi cho toàn thể
-- Mọi điều xảy đến với mỗi người đều có lợi cho toàn thể; thế là đủ. Nhìn kỹ hơn, ta còn thấy điều có lợi cho một người cũng có lợi cho những người khác, hiểu chữ "lợi" theo nghĩa thông thường, áp cho những thứ không thiện không ác.
+
+Mục 6.45: mọi điều xảy đến với mỗi người đều có lợi cho toàn thể; thế là đủ. Nhìn kỹ hơn, ta còn thấy điều có lợi cho một người cũng có lợi cho những người khác, nếu hiểu chữ "lợi" theo nghĩa thông thường, tức áp cho những thứ không thiện không ác.
 
 ### Mục 46. Chán vì lặp lại
-- Như ở trường đấu và những nơi tương tự, cảnh lặp đi lặp lại làm màn trình diễn trở nên nhàm chán, đời người cũng vậy: trên dưới đều cùng những thứ ấy, từ cùng những nguyên nhân ấy. Còn đến bao giờ? Đây là một trong những câu mệt mỏi, gần như chán đời, hiếm hoi của Marcus.
+
+Mục 6.46: như ở trường đấu và những nơi tương tự, cảnh lặp đi lặp lại làm màn trình diễn trở nên nhàm chán; đời người cũng vậy: trên dưới đều cùng những thứ ấy, từ cùng những nguyên nhân ấy. Còn đến bao giờ? Đây là một trong những câu mệt mỏi, gần như chán đời, hiếm hoi của Marcus.
 
 ### Mục 47. Ai cũng đã nằm dưới đất
-- Hãy luôn nghĩ rằng đủ loại người, đủ nghề, đủ dân tộc đã chết. Đi xuống tận những cái tên vô danh như Philistion, Phoebus, Origanion, rồi sang các loài khác.
-- Ta cũng sẽ phải tới nơi những người này đã tới: biết bao nhà hùng biện, biết bao triết gia (Heraclitus, Pythagoras, Socrates), biết bao anh hùng xưa, tướng lĩnh, vua chúa sau đó; rồi Eudoxus, Hipparchus, Archimedes; những người sắc sảo, rộng lượng, cần cù, khôn khéo, kiêu ngạo; cả những kẻ chế giễu sự ngắn ngủi của đời người như Menippus. Tất cả đã nằm dưới đất từ lâu.
-- Có gì đáng sợ cho họ? Cho cả những người mà tên cũng không còn ai biết? Chỉ có một điều đáng giá: sống trọn đời trong sự thật và công chính, và tử tế với những kẻ dối trá và bất công.
+
+Mục 6.47: hãy luôn nghĩ rằng đủ loại người, đủ nghề, đủ dân tộc đã chết. Đi xuống tận những cái tên vô danh như Philistion, Phoebus, Origanion, rồi sang cả các loài khác.
+
+Ta cũng sẽ phải tới nơi những người này đã tới:
+
+- biết bao nhà hùng biện;
+- biết bao triết gia: Heraclitus, Pythagoras, Socrates;
+- biết bao anh hùng xưa, rồi tướng lĩnh, vua chúa sau đó;
+- các nhà khoa học: Eudoxus, Hipparchus, Archimedes;
+- những người sắc sảo, rộng lượng, cần cù, khôn khéo, kiêu ngạo;
+- cả những kẻ chế giễu sự ngắn ngủi của đời người như Menippus.
+
+Tất cả đã nằm dưới đất từ lâu. Điều đó có gì đáng sợ, có hại gì cho họ? Cho cả những người mà tên cũng không còn ai biết? Chỉ có một điều đáng giá: sống trọn đời trong sự thật và công chính, và tử tế với cả những kẻ dối trá và bất công.
 
 ### Mục 48. Nguồn khích lệ
-- Khi muốn vui lên, hãy nghĩ tới phẩm chất của những người sống quanh mình: sự năng nổ của người này, sự khiêm tốn của người kia, sự rộng rãi của người khác. Không gì làm ta phấn chấn bằng hình ảnh các đức hạnh hiện lên trong tính cách người cùng sống với ta. Hãy giữ những hình ảnh ấy trong tầm tay.
+
+Mục 6.48: khi muốn vui lên, hãy nghĩ tới phẩm chất của những người sống quanh mình: sự năng nổ của người này, sự khiêm tốn của người kia, sự rộng rãi của người khác. Không gì làm ta phấn chấn bằng hình ảnh các đức hạnh hiện lên trong tính cách người cùng sống với ta. Hãy giữ những hình ảnh ấy trong tầm tay.
 
 ### Mục 49. Giới hạn của thời gian như giới hạn của cân nặng
-- Ta không khó chịu vì chỉ nặng bấy nhiêu cân chứ không phải ba trăm. Vậy cũng đừng khó chịu vì chỉ được sống bấy nhiêu năm. Chấp nhận giới hạn của thân thể thế nào thì chấp nhận giới hạn của thời gian như thế.
+
+Mục 6.49 dùng một phép so sánh: ta không khó chịu vì mình chỉ nặng bấy nhiêu cân chứ không phải ba trăm cân. Vậy cũng đừng khó chịu vì chỉ được sống bấy nhiêu năm. Chấp nhận giới hạn cân nặng của thân thể thế nào thì chấp nhận giới hạn số năm sống như thế.
 
 ### Mục 50. Nỗ lực có bảo lưu
-- Hãy cố thuyết phục họ. Nhưng nếu nguyên tắc công lý đòi hỏi, hãy hành động dù họ không muốn. Nếu có ai dùng sức mạnh cản lại, hãy chuyển sang chấp nhận và bình thản, dùng chính trở ngại ấy để rèn một phẩm chất khác.
-- Nhớ rằng ta đã hướng tới mục tiêu **với bảo lưu**, không đòi điều không thể. Vậy ta muốn gì? Chính sự cố gắng ấy. Và ta đã đạt được: điều ta định làm đã được làm.
+
+Mục 6.50 mô tả cách hành động khi gặp người phản đối:
+
+1. Hãy cố thuyết phục họ.
+2. Nhưng nếu nguyên tắc công lý đòi hỏi, hãy hành động dù họ không muốn.
+3. Nếu có ai dùng sức mạnh lớn hơn cản lại, hãy lùi lại, chấp nhận và bình thản, dùng chính trở ngại ấy để rèn một phẩm chất khác (kiên nhẫn, khoan dung).
+
+Hãy nhớ rằng ta đã hướng tới mục tiêu **với bảo lưu**, tức "nếu không bị cản", không đòi điều không thể. Vậy ta muốn gì? Chính sự cố gắng ấy. Và ta đã đạt được: điều ta định làm đã được làm.
 
 ### Mục 51. Ba nơi gắn hạnh phúc
-- Người ham danh đặt cái tốt của mình vào hành động của người khác; người ham khoái lạc đặt nó vào cảm giác của mình; người có trí khôn đặt nó vào hành động của chính mình.
+
+Mục 6.51 so sánh ba kiểu người theo chỗ họ đặt cái tốt của mình:
+
+| Kiểu người | Đặt hạnh phúc vào | Hệ quả |
+|---|---|---|
+| Người ham danh | hành động của người khác | phụ thuộc vào việc người khác khen hay chê |
+| Người ham khoái lạc | cảm giác của mình | phụ thuộc vào thân thể và hoàn cảnh |
+| Người có trí khôn, tỉnh táo | hành động của chính mình | chỉ phụ thuộc vào chính mình |
 
 ### Mục 52. Không cần có ý kiến
-- Ta có thể không đưa ra phán đoán nào về việc này, và không để nó làm mình rối. Bản thân sự vật không có sức tạo ra phán đoán của ta.
+
+Mục 6.52: ta có thể không đưa ra phán đoán nào về việc này, và không để nó làm mình rối. Bản thân sự vật không có sức tạo ra phán đoán của ta.
 
 ### Mục 53. Lắng nghe
-- Hãy tập chú tâm vào lời người khác nói, và cố đi vào tâm trí người đang nói.
+
+Mục 6.53: hãy tập chú tâm vào lời người khác nói, và cố đi vào tâm trí người đang nói.
 
 ### Mục 54. Tổ ong và con ong
-- Điều gì không có lợi cho tổ ong thì cũng không có lợi cho con ong.
+
+Mục 6.54: điều gì không có lợi cho tổ ong thì cũng không có lợi cho con ong. Hại tổ ong là hại con ong; cá nhân không thể được lợi thật từ việc làm hại cộng đồng của mình.
 
 ### Mục 55. Thủy thủ và thuyền trưởng
-- Nếu thủy thủ chống lại thuyền trưởng, hay bệnh nhân chống lại thầy thuốc, thì họ còn nghe ai? Làm sao người trên thuyền được an toàn, người bệnh được khỏe? Ngụ ý: chống lại cái điều hành (lý trí, Tự nhiên) là tự hại mình.
+
+Mục 6.55: nếu thuỷ thủ chống lại thuyền trưởng, hay bệnh nhân chống lại thầy thuốc, thì họ còn nghe ai? Làm sao người trên thuyền được an toàn, người bệnh được khoẻ? Ngụ ý: chống lại cái điều hành (lý trí, Tự nhiên) là tự hại mình.
 
 ### Mục 56. Những người đã đi
-- Biết bao người cùng vào đời với ta đã ra đi rồi.
+
+Mục 6.56: biết bao người cùng vào đời với ta đã ra đi rồi.
 
 ### Mục 57. Mật đắng với người vàng da
-- Với người vàng da, mật ong có vị đắng; người bị chó dại cắn thì sợ nước; với trẻ con, quả bóng là đẹp. Vậy sao ta giận? Chẳng lẽ ta nghĩ một quan niệm sai lầm có ít sức mạnh hơn mật trong người vàng da hay chất độc trong người bị dại? Ý: người sai lầm đang "bệnh" trong phán đoán, và ta nên đối xử như với người bệnh.
+
+Mục 6.57 so sánh người lầm lỗi với người bệnh:
+
+- với người bị vàng da, mật ong có vị đắng;
+- người bị chó dại cắn thì sợ nước;
+- với trẻ con, quả bóng là thứ đẹp đẽ.
+
+Vậy sao ta giận? Chẳng lẽ ta nghĩ một quan niệm sai lầm có ít sức mạnh hơn mật trong người vàng da hay chất độc trong người bị dại? Ý: người sai lầm đang "bệnh" trong phán đoán; sai lầm của họ là bệnh của họ, không phải lý do để ta rối. Ta nên đối xử với họ như với người bệnh.
 
 ### Mục 58. Không ai ngăn được
-- Không ai ngăn ta sống theo lý trí của bản chất mình; và không gì xảy đến với ta trái với lý trí của Tự nhiên chung.
+
+Mục 6.58: không ai ngăn được ta sống theo lý trí của bản chất mình; và không gì xảy đến với ta trái với lý trí của Tự nhiên chung.
 
 ### Mục 59. Mọi thứ bị thời gian vùi lấp
-- Hãy nhìn những người mà người ta muốn lấy lòng, vì mục đích gì, bằng những việc làm nào. Thời gian sẽ sớm vùi lấp tất cả, như nó đã vùi lấp biết bao thứ rồi.
+
+Mục 6.59 kết quyển: hãy nhìn những người mà người ta muốn lấy lòng, họ lấy lòng vì mục đích gì, bằng những việc làm nào. Thời gian sẽ sớm vùi lấp tất cả, như nó đã vùi lấp biết bao thứ rồi.
 
 ## Luận điểm triết học cốt lõi
 

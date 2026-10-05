@@ -167,165 +167,326 @@
 2. **Nên đón nhận bất hạnh thế nào?** Như đơn thuốc của thầy thuốc: nó được kê cho ta, và nó phục vụ sức khỏe của toàn thể. Than phiền là cắt một mảnh khỏi trật tự liền mạch ấy. Không gì xảy đến mà bản chất ta không chịu nổi, và không gì bên ngoài chạm được vào tâm trí.
 3. **Làm gì khi người khác cản trở hay làm hại ta?** Họ chỉ cản được hành động, không cản được ý định. Tâm trí điều chỉnh và biến trở ngại thành con đường. Với kẻ sai, đừng giận mà chỉ cho họ thấy chỗ sai. Và trước hết hãy hỏi cộng đồng có thật sự bị hại không.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Chức năng riêng của con người (ergon).** Người Hy Lạp cho rằng mỗi loài và mỗi vật có một "việc" riêng mà nó làm tốt nhất: dao để cắt, ong để làm mật, cây nho để ra quả. Việc riêng của con người, theo người Khắc kỷ, là hành động theo lý trí và vì cộng đồng. Ví dụ trong quyển: ở mục 5.1, Marcus kể 5 loài (cây cối, chim, kiến, nhện, ong) đều đang làm phần việc của mình, chỉ con người nằm trong chăn. Khái niệm này quan trọng vì toàn bộ lý lẽ "phải dậy làm việc" của Quyển 5 dựa vào định nghĩa con người, chứ không dựa vào ý chí hay kỷ luật.
+
+**Tự nhiên (physis), riêng và chung.** Người Khắc kỷ dùng chữ "Tự nhiên" theo hai nghĩa: bản chất riêng của mỗi người, và trật tự chung của toàn vũ trụ. Họ tin hai thứ ấy không mâu thuẫn: sống đúng bản chất mình cũng là sống thuận theo vũ trụ. Ví dụ trong quyển: mục 5.3 nói con đường mà bản chất riêng và Tự nhiên chung vạch ra "thực ra là một". Khái niệm này quan trọng vì nó giải thích vì sao Marcus coi những gì xảy đến với mình (bệnh tật, mất mát) là "đơn thuốc" phù hợp với mình, chứ không phải tai hoạ ngẫu nhiên.
+
+**Định mệnh như chuỗi nguyên nhân (heimarmenē).** Là ý tưởng rằng mọi sự kiện được nối với nhau thành một chuỗi nguyên nhân liền mạch, như các sợi chỉ đã được se từ rất lâu. Không phải "số trời" theo nghĩa mê tín, mà là: mọi chuyện đều có nguyên nhân, và các nguyên nhân ấy đan vào nhau thành một tổng thể. Ví dụ trong quyển: mục 5.8 nói "như vũ trụ là một thân thể làm từ mọi thân thể, định mệnh là một nguyên nhân làm từ mọi nguyên nhân". Khái niệm này quan trọng vì nó là nền của lập luận "than phiền là cắt một mắt xích khỏi chuỗi, tức làm hại toàn thể".
+
+**Những thứ trung tính (adiaphora).** Là những thứ tự chúng không tốt cũng không xấu: của cải, danh tiếng, sức khoẻ, địa vị. Chỉ đức hạnh (khôn ngoan, tiết độ, công chính, can đảm) mới là tốt thật. Ví dụ trong quyển: mục 5.12 dùng một câu đùa về kẻ giàu đến nỗi "không còn chỗ đi vệ sinh" để cho thấy chính đám đông cũng ngầm phân biệt hai loại "tốt". Khái niệm này quan trọng vì hai phép thử nổi bật nhất của Quyển 5 (phép thử ngôn ngữ ở 5.12 và phép thử từ bỏ ở 5.15) đều nhằm chứng minh nó.
+
+**Hành động có bảo lưu (hypexairesis).** Là cách người Khắc kỷ đặt mục tiêu: ta muốn làm một việc "nếu không có gì ngăn cản". Khi bị ngăn, ý chí không thất bại, vì điều kiện "nếu" đã được tính trước; ta chỉ việc chuyển sang làm điều tốt nhất còn có thể làm. Ví dụ minh hoạ: một người định chạy bộ 5 km sáng nay "nếu trời không mưa"; trời mưa, người ấy không bực mà chuyển sang tập 30 phút trong nhà. Khái niệm này quan trọng vì nó là cơ chế đằng sau câu nổi tiếng ở mục 5.20: "cái chắn đường trở thành con đường".
+
+**Phần chỉ huy (hegemonikon) và phán đoán.** Phần chỉ huy là phần lý trí của linh hồn, nơi ta tiếp nhận ấn tượng và quyết định chấp thuận hay không. Người Khắc kỷ phân biệt cảm giác (đến tự nhiên, không tránh được) với phán đoán "điều này tốt" hay "điều này xấu" (do phần chỉ huy thêm vào). Ví dụ trong quyển: mục 5.26 nói cơn đau trong thân thể cứ đến, đừng chống nó, nhưng đừng để phần chỉ huy thêm nhận định rằng nó xấu. Khái niệm này quan trọng vì nó giải thích vì sao ngoại vật "không chạm được vào linh hồn" (5.19).
+
+**Daimon.** Là "thần hộ mệnh" bên trong mỗi người; Marcus nói đó là một mảnh của chính Zeus trao cho mỗi người để bảo hộ và dẫn dắt, tức là trí tuệ và lý trí của người ấy. Ví dụ trong quyển: mục 5.27 định nghĩa "sống cùng thần linh" là hài lòng với phần được chia và làm điều daimon muốn. Khái niệm này quan trọng vì nó cho thấy, với Marcus, nghe theo lý trí của mình cũng là tôn kính thần linh; không có mâu thuẫn giữa hai việc.
+
+**Tính cộng đồng (koinōnia).** Là sự gắn bó với đồng loại và đời sống chung. Người Khắc kỷ coi đây là cái tốt riêng của sinh vật có lý trí. Ví dụ trong quyển: mục 5.16 nói cái tốt của sinh vật lý trí là đời sống chung; mục 5.22 dùng "phép thử cộng đồng": nếu thành bang không bị hại thì công dân cũng không bị hại. (Bản dịch ở 5.16 thu hẹp chữ này thành "tính không vị kỷ".) Khái niệm này quan trọng vì nó là mục đích của "việc của con người" mà Marcus phải dậy để làm.
+
+## Nội dung chi tiết
+
+*Suy tưởng không chia chủ đề, chỉ có các mục đánh số. Mục số n của Quyển 5 cũng được ghi là 5.n (ví dụ Mục 1 là 5.1). Phần dưới đi theo đúng thứ tự các mục.*
 
 ### Mục 1. Lúc bình minh
-- Khi khó rời giường, Marcus dặn mình rằng ta dậy để làm việc của một con người. Có gì đáng than khi ta sắp làm chính việc mà ta được sinh ra để làm? Hay ta được tạo ra để nằm ấm trong chăn?
-- Cái tôi lười phản bác: nằm thế này dễ chịu. Trả lời: vậy ta sinh ra để hưởng dễ chịu, chứ không để hành động? Cây cối, chim chóc, kiến, nhện, ong đều đang làm phần việc của mình, góp vào trật tự của thế giới. Chỉ con người không chịu làm việc của con người.
-- Phản bác thứ hai: ta cũng cần ngủ. Trả lời: đúng, nhưng tự nhiên đặt giới hạn cho giấc ngủ như cho ăn uống. Ta đã vượt quá giới hạn ngủ, nhưng chưa làm đủ phần việc của mình.
-- Chẩn đoán gốc: ta không yêu bản thân. Nếu yêu, ta đã yêu bản chất mình và điều bản chất ấy đòi hỏi. Người yêu nghề (thợ chạm khắc, vũ công) quên tắm, quên ăn vì nghề; kẻ tham tiền và kẻ ham địa vị cũng vậy. Họ thà bỏ ăn ngủ còn hơn bỏ dở việc.
-- Câu hỏi kết: chẳng lẽ hành động vì cộng đồng lại kém giá trị hơn, không đáng để ta dốc sức bằng những đam mê ấy?
+
+Mục 5.1 mở đầu bằng một khoảnh khắc rất đời thường: lúc bình minh, khó rời giường. Marcus dặn mình: ta dậy để làm việc của một con người. Có gì đáng than khi ta sắp làm chính việc mà ta được sinh ra để làm? Hay ta được tạo ra để nằm ấm trong chăn?
+
+Rồi ông để cái tôi lười lên tiếng phản bác, và trả lời từng câu:
+
+| Cái tôi lười nói | Marcus trả lời |
+|---|---|
+| "Nằm đây trong chăn thật thoải mái." | Vậy ta sinh ra để hưởng dễ chịu chứ không để hành động? Cây cối, chim chóc, kiến, nhện, ong đều đang làm phần việc của mình, góp vào trật tự của thế giới. Chỉ con người không chịu làm việc của con người. |
+| "Nhưng ta cũng cần ngủ." | Đúng, nhưng tự nhiên đặt giới hạn cho giấc ngủ, như đặt giới hạn cho ăn uống. Ta đã vượt quá giới hạn ngủ, nhưng chưa làm đủ phần việc của mình. |
+
+Sau đó Marcus đưa ra chẩn đoán gốc: ta không yêu bản thân đủ. Nếu yêu, ta đã yêu bản chất mình và những gì bản chất ấy đòi hỏi. Ông so sánh với những người yêu nghề: thợ chạm khắc, vũ công quên tắm, quên ăn vì nghề; kẻ tham tiền và kẻ ham địa vị cũng vậy. Họ thà bỏ ăn bỏ ngủ còn hơn bỏ dở việc mình theo đuổi.
+
+Câu hỏi kết của mục: chẳng lẽ hành động vì cộng đồng, giúp người khác, lại kém giá trị hơn, không đáng để ta dốc sức bằng những đam mê ấy?
+
+Điểm cần nhận ra: Marcus không bảo mình "cố lên". Ông lập luận từ định nghĩa con người. Nếu con người được sinh ra để hành động vì cộng đồng theo lý trí, thì nằm lì trong chăn không phải là nghỉ ngơi, mà là sống sai chức năng.
 
 ### Mục 2. Sự tĩnh lặng là dễ
-- Gạt bỏ và lau sạch mọi ấn tượng phiền nhiễu, xa lạ, rồi lập tức đạt sự tĩnh lặng hoàn toàn: việc này dễ dàng (xem Lưu ý về cách dịch "trò chơi của trẻ con").
+
+Mục 5.2 chỉ có một ý: gạt bỏ và lau sạch mọi ấn tượng phiền nhiễu, xa lạ, rồi lập tức đạt được sự tĩnh lặng hoàn toàn, là việc dễ dàng. Bản dịch tiếng Việt kết bằng câu "Tất cả chỉ như trò chơi của trẻ con mà thôi", hiểu sai cụm *Child's play* của bản Hays. Cụm này có nghĩa "dễ như trở bàn tay": Marcus nói việc lấy lại sự tĩnh lặng là dễ, chứ không nói mọi thứ là trò trẻ con.
 
 ### Mục 3. Đừng để lời phê bình làm ta lệch đường
-- Lời nói hay việc làm nào hợp tự nhiên thì xứng đáng với ta. Đừng để lời chỉ trích sau đó làm ta nản. Nếu điều đó đúng, cứ làm.
-- Người khác có lý trí dẫn dắt và xung lực của riêng họ; đừng ngoái nhìn. Đi thẳng con đường của mình, con đường mà bản chất riêng và Tự nhiên chung cùng vạch ra (thực ra hai con đường là một).
+
+Mục 5.3 nói: lời nói hay việc làm nào hợp với tự nhiên thì xứng đáng với ta. Đừng để những lời chỉ trích đến sau làm ta nản lòng. Nếu điều đó đúng, cứ làm.
+
+Người khác có lý trí dẫn dắt và xung lực riêng của họ, tức có nguyên tắc của họ. Đừng ngoái lại nhìn họ. Hãy đi thẳng con đường của mình, con đường mà bản chất riêng của ta và Tự nhiên chung cùng vạch ra; và thực ra hai con đường ấy là một.
 
 ### Mục 4. Trở về với đất
-- Ta sẽ đi theo tự nhiên cho tới lúc gục xuống nghỉ, trả hơi thở cuối về nơi ta hít thở mỗi ngày, ngã xuống mảnh đất đã cho cha ta hạt giống, mẹ ta máu, vú nuôi sữa, nuôi ta bao năm và chịu đựng mỗi bước chân ta. Cái chết được nhìn như sự hoàn trả, không phải mất mát.
+
+Mục 5.4 là một hình ảnh về cái chết. Ta sẽ đi theo tự nhiên cho tới lúc gục xuống nghỉ: trả hơi thở cuối cùng về bầu không khí mà ta hít thở mỗi ngày, ngã xuống mảnh đất đã cho cha ta hạt giống, cho mẹ ta máu, cho vú nuôi sữa, đã nuôi ta bao năm và đã chịu đựng mỗi bước chân ta. Cái chết ở đây được nhìn như một sự hoàn trả về đất mẹ, không phải một mất mát.
 
 ### Mục 5. Không có tài trí, nhưng còn bao phẩm chất khác
-- Người ta không thể khâm phục ta vì sự sắc sảo. Được thôi. Nhưng còn vô số phẩm chất mà ta không thể viện cớ "không có trong mình": trung thực, nghiêm trang, sức chịu đựng, cần kiệm, không than thân, tiết chế, kiên trì, điều độ, đứng đắn, một tâm hồn cao thượng.
-- Ta có thể thể hiện bao nhiêu phẩm chất như thế ngay bây giờ, vậy mà vẫn tự nguyện ở mức thấp. Chẳng lẽ vì thiếu tài bẩm sinh mà ta buộc phải than vãn, tham lam, nịnh bợ, đổ lỗi cho cơ thể, lấy lòng, khoe khoang và rối loạn trong lòng? Không. Ta đã có thể thoát khỏi những thứ đó từ lâu.
-- Nếu thật sự chậm hiểu, thì phải rèn luyện cả sự chậm hiểu đó, chứ không được bỏ mặc hay hài lòng với nó.
-- Lập luận: tách **năng khiếu** (không trong quyền ta) khỏi **phẩm chất đạo đức** (trong quyền ta), và không cho phép cái thứ nhất làm cớ cho cái thứ hai.
+
+Mục 5.5 mở bằng một lời nhượng bộ: người ta không thể khâm phục ta vì sự sắc sảo. Được thôi. Tức là Marcus thừa nhận mình không thông minh nhanh nhạy bẩm sinh. (Bản dịch biến câu này thành mệnh lệnh "Sống sao để không ai có thể nói ta là một kẻ nhanh trí", làm mất ý nhượng bộ và khiến câu kết của mục khó hiểu.)
+
+Nhưng còn vô số phẩm chất mà ta không thể viện cớ "không có trong mình", vì chúng hoàn toàn trong quyền ta:
+
+- trung thực, nghiêm trang;
+- sức chịu đựng, cần kiệm;
+- không than thân, tiết chế;
+- kiên trì, điều độ, đứng đắn;
+- một tâm hồn cao thượng.
+
+Ta có thể thể hiện bao nhiêu phẩm chất như thế ngay bây giờ, vậy mà vẫn tự nguyện ở mức thấp. Chẳng lẽ vì thiếu tài bẩm sinh mà ta buộc phải than vãn, tham lam, nịnh bợ, đổ lỗi cho cơ thể, lấy lòng người, khoe khoang và rối loạn trong lòng? Không. Ta đã có thể thoát khỏi những thứ đó từ lâu. Câu "ta không thể" chỉ là lời thoái thác.
+
+Và nếu thật sự chậm hiểu, thì phải rèn luyện cả sự chậm hiểu ấy, chứ không được bỏ mặc hay hài lòng với nó.
+
+Lập luận của mục là tách **năng khiếu** (không trong quyền ta) khỏi **phẩm chất đạo đức** (trong quyền ta), và không cho phép cái thứ nhất làm cớ cho cái thứ hai.
 
 ### Mục 6. Như cây nho ra quả
-- Có ba hạng người làm ơn: hạng thứ nhất chực nhắc lại ơn mình đã làm; hạng thứ hai không nói ra nhưng trong bụng coi người kia đang mắc nợ; hạng thứ ba thậm chí không nhớ mình đã làm gì, như cây nho ra chùm quả rồi không đòi gì thêm.
-- Hình ảnh: con ngựa sau cuộc đua, con chó sau cuộc săn, con ong sau khi làm mật, và con người sau khi làm điều tốt. Họ không ầm ĩ, chỉ chuyển sang việc tiếp theo, như cây nho chờ mùa quả sau.
-- Phản bác: nhưng phải ý thức việc mình làm chứ, vì đặc điểm của sinh vật xã hội là biết mình đang hành động vì cộng đồng, và muốn người kia cũng biết. Trả lời: đúng, nhưng ngươi hiểu sai ý ta; hiểu như thế là thành hạng người thứ nhất, bị những lý lẽ nghe hợp lý dẫn đi. Còn nếu hiểu đúng ý ta, đừng sợ rằng vì thế mà bỏ lỡ việc gì có ích cho cộng đồng.
-- Điểm tinh tế: Marcus không đòi hành động vô thức theo nghĩa thiếu suy nghĩ, mà đòi hành động không **gắn kèm hóa đơn**.
+
+Mục 5.6 phân biệt 3 loại người khi làm ơn cho người khác:
+
+| Loại | Cách cư xử |
+|---|---|
+| Thứ nhất | chực nhắc lại ơn mình đã làm, kể lể |
+| Thứ hai | không nói ra, nhưng trong bụng coi người kia đang mắc nợ mình, ghi nợ trong đầu |
+| Thứ ba | thậm chí không nhớ mình đã làm gì, như cây nho ra chùm quả rồi không đòi gì thêm |
+
+Marcus đưa thêm một loạt hình ảnh: con ngựa sau cuộc đua, con chó sau cuộc săn, con ong sau khi làm mật, và con người sau khi làm điều tốt. Họ không ầm ĩ, chỉ chuyển sang việc tiếp theo, như cây nho chờ đến mùa ra quả sau.
+
+Ông lường trước một phản bác: nhưng phải ý thức được việc mình làm chứ, vì đặc điểm của sinh vật xã hội là biết mình đang hành động vì cộng đồng, và muốn người kia cũng biết. Marcus trả lời: đúng, nhưng ngươi hiểu sai ý ta; hiểu như thế là thành loại người thứ nhất, bị những lý lẽ nghe hợp lý dẫn đi. Còn nếu hiểu đúng ý ta, đừng sợ rằng vì thế mà bỏ lỡ việc gì có ích cho cộng đồng.
+
+Điểm tinh tế: Marcus không đòi hành động vô thức theo nghĩa thiếu suy nghĩ. Ông đòi hành động không **gắn kèm hoá đơn**.
 
 ### Mục 7. Cầu nguyện cho thẳng
-- Người Athens cầu xin Zeus cho mưa xuống đất đai, ruộng đồng của họ. Hoặc đừng cầu nguyện, hoặc cầu cho giản dị và thẳng thắn như vậy.
+
+Mục 5.7 rất ngắn. Người Athens cầu xin Zeus cho mưa xuống đất đai, ruộng đồng của họ. Marcus nhận xét: hoặc đừng cầu nguyện, hoặc cầu cho giản dị và thẳng thắn như vậy, không vòng vo, không màu mè.
 
 ### Mục 8. Tự nhiên kê đơn
-- Ta vẫn nghe nói thầy thuốc (Asclepius) kê cho người này cưỡi ngựa, tắm nước lạnh, đi chân trần. Cũng theo cách đó, Tự nhiên kê cho người ấy bệnh tật, mù lòa, mất một chi. "Kê" trong cả hai trường hợp nghĩa là chỉ định điều phù hợp với sự hồi phục; những gì xảy đến với mỗi người được sắp đặt cho phù hợp với định mệnh của họ.
-- Chữ "xảy ra" (*symbainein*, nghĩa đen là "khớp vào nhau") được dùng như thợ xây nói các khối đá vuông "khớp" vào tường hay kim tự tháp, ăn khớp với nhau trong một kết cấu.
-- Chỉ có một sự hòa hợp duy nhất. Như vũ trụ là một thân thể làm từ mọi thân thể, định mệnh là một nguyên nhân làm từ mọi nguyên nhân. Ngay người không học cũng hiểu điều này khi nói rằng có một thế lực nào đó mang đến cho họ điều này điều kia.
-- Vậy hãy đón nhận như đón nhận đơn thuốc: nhiều thứ đắng, nhưng ta nhận vì hy vọng được khỏe. Hãy coi việc Tự nhiên hoàn thành ý định của nó như sức khỏe của chính mình, và đón nhận mọi việc, kể cả việc khó chấp nhận, vì nó dẫn tới sức khỏe của vũ trụ và sự hưng thịnh của Zeus. Zeus không mang điều gì đến cho ai nếu điều đó không có lợi cho toàn thể.
-- Hai lý do để đón nhận: (1) điều đó xảy đến với ta, được kê cho ta, liên hệ với ta, sợi chỉ đã được se từ những nguyên nhân xa xưa nhất; (2) điều xảy đến với mỗi cá nhân là nguyên nhân cho sự thịnh vượng, sự hoàn tất và cả sự tồn tại của cái điều hành toàn thể. Cắt bỏ bất cứ thứ gì khỏi chuỗi nối tiếp của các bộ phận hay các nguyên nhân là làm tổn hại toàn thể. Và khi bất mãn, ta đang cố cắt bỏ như thế, đang phá hủy trong khả năng của mình.
+
+Mục 5.8 là một trong hai đoạn lập luận chặt chẽ nhất của Quyển 5. Marcus đi qua từng bước:
+
+**Bước 1: so sánh với thầy thuốc.** Ta vẫn nghe nói thầy thuốc (Asclepius, vị thần y) kê cho người này cưỡi ngựa, tắm nước lạnh, đi chân trần. Theo đúng cách đó, Tự nhiên kê cho người ấy bệnh tật, mù loà, mất một chi. Chữ "kê" trong cả hai trường hợp có cùng nghĩa: chỉ định điều phù hợp với sự hồi phục. Những gì xảy đến với mỗi người được sắp đặt cho phù hợp với định mệnh của họ.
+
+**Bước 2: nghĩa của chữ "xảy ra".** Chữ Hy Lạp *symbainein* ("xảy ra") có nghĩa đen là "khớp vào nhau". Thợ xây cũng dùng đúng chữ này khi nói các khối đá vuông "khớp" vào bức tường hay kim tự tháp, ăn khớp với nhau trong một kết cấu. Vậy điều xảy đến với ta là một viên đá khớp vào chỗ của nó.
+
+**Bước 3: chỉ có một sự hoà hợp.** Như vũ trụ là một thân thể làm từ mọi thân thể, định mệnh là một nguyên nhân làm từ mọi nguyên nhân. Ngay người không học cũng hiểu điều này khi nói "có một thế lực nào đó mang đến cho tôi điều này điều kia".
+
+**Bước 4: đón nhận như uống thuốc.** Nhiều đơn thuốc đắng, nhưng ta vẫn uống vì hy vọng được khoẻ. Hãy coi việc Tự nhiên hoàn thành ý định của nó như sức khoẻ của chính mình, và đón nhận mọi việc, kể cả việc khó chấp nhận, vì nó dẫn tới sức khoẻ của vũ trụ và sự hưng thịnh của Zeus. Zeus không mang điều gì đến cho ai nếu điều đó không có lợi cho toàn thể.
+
+**Bước 5: hai lý do để đón nhận.**
+
+1. Điều đó xảy đến với ta, được kê riêng cho ta, có liên hệ với ta; sợi chỉ của nó đã được se từ những nguyên nhân xa xưa nhất.
+2. Điều xảy đến với mỗi cá nhân là nguyên nhân cho sự thịnh vượng, sự hoàn tất và cả sự tồn tại của cái điều hành toàn thể. Nó là điều kiện cho sức khoẻ, sự toàn vẹn của toàn thể.
+
+**Kết luận.** Cắt bỏ bất cứ thứ gì khỏi chuỗi nối tiếp của các bộ phận hay của các nguyên nhân là làm tổn hại toàn thể. Khi bất mãn, than phiền, ta đang cố cắt bỏ như thế, tức đang phá hoại trong khả năng của mình.
 
 ### Mục 9. Ngã thì đứng dậy, và triết học là thuốc
-- Đừng chán nản hay bỏ cuộc khi không phải lúc nào cũng hành động đúng nguyên tắc. Bị đánh ngã thì quay lại, vui vì phần lớn việc mình làm vẫn xứng với con người, và yêu con đường mình đang về.
-- Đừng trở lại với triết học như trò về với thầy giáo nghiêm, mà như người đau mắt tìm miếng bọt biển và lòng trắng trứng, như người khác tìm thuốc mỡ hay nước ấm. Đừng phô ra việc mình tuân theo lý trí, hãy yên nghỉ trong nó.
-- Triết học chỉ đòi điều bản chất ta vẫn đòi, còn ta lại đi đòi thứ khác, thứ trái tự nhiên.
-- Phản bác: nhưng thứ ấy dễ chịu hơn. Trả lời: chính bằng cái dễ chịu mà khoái lạc lừa ta. Sự cao thượng, tự do tâm trí, trung thực, thận trọng, lòng sùng kính chẳng đáng ưa hơn sao? Và có gì đáng ưa hơn chính sự hiểu biết, khi nghĩ tới sự vững chắc và sự bình thản lâu bền mà nó đem lại?
+
+Mục 5.9 nói về việc vấp ngã trong tu dưỡng. Đừng chán nản hay bỏ cuộc khi không phải lúc nào cũng hành động đúng nguyên tắc. Bị đánh ngã thì quay lại, vui vì phần lớn việc mình làm vẫn xứng với con người, và yêu con đường mình đang quay về.
+
+Marcus phân biệt hai cách quay về với triết học:
+
+| Cách sai | Cách đúng |
+|---|---|
+| như cậu học trò sợ sệt quay về với ông thầy nghiêm khắc | như người đau mắt tìm miếng bọt biển và lòng trắng trứng, như người khác tìm thuốc mỡ hay nước ấm: tìm đến vì nó chữa lành |
+
+Đừng phô ra việc mình tuân theo lý trí; hãy yên nghỉ trong nó. Triết học chỉ đòi điều bản chất ta vốn đòi, còn ta lại đi đòi thứ khác, thứ trái tự nhiên.
+
+Phản bác: nhưng thứ ấy dễ chịu hơn. Trả lời: chính bằng cái dễ chịu mà khoái lạc lừa ta. Sự cao thượng, tự do của tâm trí, sự trung thực, thận trọng, lòng sùng kính chẳng đáng ưa hơn sao? Và có gì đáng ưa hơn chính sự hiểu biết, khi nghĩ tới sự vững chắc và sự bình thản lâu bền mà nó đem lại?
 
 ### Mục 10. Mọi thứ không chắc chắn; hai nơi nương tựa
-- Sự vật bị bọc kín đến mức nhiều triết gia cho rằng không thể biết được gì; ngay phái Khắc kỷ cũng thấy khó. Mọi sự chấp thuận (phán đoán) của ta đều có thể đổi thay, như chính ta vậy.
-- Nhìn vào chính sự vật: chúng ngắn ngủi, rẻ mạt, có thể nằm trong tay kẻ trụy lạc, gái điếm, kẻ cắp.
-- Nhìn vào tính cách người sống quanh ta: ngay người dễ chịu nhất cũng khó chịu đựng, chưa kể chính mình.
-- Trong bóng tối và cặn bã ấy, trong dòng chảy của vật chất, thời gian, chuyển động, ta không thấy gì đáng trân trọng hay theo đuổi.
-- Kết luận: tự an ủi, chờ sự tan rã tự nhiên mà không nôn nóng, và tựa vào hai điều: (i) không gì xảy đến với ta mà không thuận tự nhiên của toàn thể; (ii) ta có quyền không làm gì trái với vị thần và *daimon* trong ta, không ai buộc ta được.
-- Đây là một trong những mục bi quan nhất của tác phẩm, và cũng thể hiện rõ nhất cách Marcus dùng hai trụ cột (thuận tự nhiên, tự chủ) như điểm tựa khi mọi thứ khác sụp đổ.
+
+Mục 5.10 là một trong những mục bi quan nhất của cả tác phẩm. Marcus đi qua ba tầng của sự hoài nghi:
+
+- **Về tri thức:** sự vật bị bọc kín đến mức nhiều triết gia cho rằng không thể biết được gì chắc chắn; ngay phái Khắc kỷ cũng thấy khó. Mọi sự chấp thuận (phán đoán) của ta đều có thể thay đổi, như chính ta vậy.
+- **Về sự vật:** nhìn vào chính chúng thì thấy chúng ngắn ngủi, rẻ mạt, có thể nằm trong tay kẻ truỵ lạc, gái điếm, kẻ cắp.
+- **Về con người:** nhìn vào tính cách những người sống quanh ta, ngay người dễ chịu nhất cũng khó chịu đựng, chưa kể chính mình.
+
+Trong bóng tối và cặn bã ấy, trong dòng chảy của vật chất, thời gian và chuyển động, ta không thấy gì đáng trân trọng hay đáng theo đuổi.
+
+Kết luận của Marcus: hãy tự an ủi, chờ sự tan rã tự nhiên mà không nôn nóng, và tựa vào hai điều:
+
+1. Không gì xảy đến với ta mà không thuận với tự nhiên của toàn thể; không gì phi tự nhiên xảy đến với ta.
+2. Ta có quyền không làm gì trái với vị thần và daimon trong ta; không ai buộc ta được.
+
+Mục này cho thấy rõ nhất cách Marcus dùng hai trụ cột (thuận tự nhiên và tự chủ) làm điểm tựa khi mọi thứ khác sụp đổ. (Bản dịch dùng chữ "Chúa" ở đây; nguyên tác nói "vị thần và daimon trong ta", không mang sắc thái Kitô giáo.)
 
 ### Mục 11. Ta đang dùng linh hồn mình vào việc gì?
-- Tự vấn thường xuyên: phần chỉ huy trong ta (*hegemonikon*) đang chứa gì, linh hồn ta lúc này là của ai: một đứa trẻ, một thiếu niên, một người đàn bà, một bạo chúa, một con thú săn mồi hay con mồi?
+
+Mục 5.11 là một câu tự vấn nên hỏi thường xuyên: phần chỉ huy trong ta lúc này đang chứa gì? Linh hồn ta lúc này giống linh hồn của ai: một đứa trẻ, một thiếu niên, một người đàn bà, một bạo chúa, một con thú săn mồi, hay một con mồi? Câu hỏi buộc ta nhìn thẳng vào trạng thái tâm trí của mình thay vì nhìn ra ngoài.
 
 ### Mục 12. Phép thử ngôn ngữ về chữ "tốt"
-- Nếu hiểu "điều tốt" là khôn ngoan, tiết độ, công chính, can đảm, thì không ai chịu nổi câu thơ hài kịch (của Menander) chế giễu kẻ có "nhiều của tốt" đến nỗi không còn chỗ đi vệ sinh; câu ấy sẽ lạc lõng.
-- Nhưng nếu hiểu "tốt" theo nghĩa đám đông (của cải, xa hoa, danh tiếng), thì câu đùa nghe trúng ngay, ta hiểu và bật cười.
-- Vậy chính đám đông cũng ngầm phân biệt được: với loại "tốt" thứ nhất, câu đùa bị phản cảm; với loại thứ hai, nó được chấp nhận là dí dỏm và đúng.
-- Bước thêm: hãy tự hỏi có nên coi trọng như "điều tốt" những thứ mà khi nghĩ tới, ta thấy hợp lý khi bị chế giễu như thế không.
+
+Mục 5.12 dùng một câu đùa để chứng minh một điều triết học. Có một câu thơ hài kịch (của Menander) chế giễu kẻ có "nhiều của tốt" đến nỗi không còn chỗ để đi vệ sinh.
+
+| Nếu hiểu "tốt" là | Thì câu đùa |
+|---|---|
+| khôn ngoan, tiết độ, công chính, can đảm | nghe lạc lõng, vô nghĩa; không ai chịu nổi nó |
+| của cải, xa hoa, danh tiếng (nghĩa của đám đông) | nghe trúng ngay; ta hiểu và bật cười |
+
+Vậy chính đám đông cũng ngầm phân biệt được hai loại "tốt": với loại thứ nhất, câu đùa gây phản cảm; với loại thứ hai, nó được chấp nhận là dí dỏm và đúng.
+
+Marcus bước thêm một bước: hãy tự hỏi có nên coi trọng như "điều tốt" những thứ mà khi nghĩ tới, ta thấy việc bị chế giễu như thế là hợp lý hay không.
 
 ### Mục 13. Không gì mất đi
-- Ta gồm phần nguyên nhân (hình thể, sinh lực) và phần vật chất. Không phần nào biến vào hư không, vì cũng chẳng phần nào đến từ hư không. Mỗi phần sẽ được sắp xếp lại thành một phần khác của vũ trụ, rồi lại thành phần khác, mãi mãi. Ta và cha mẹ ta đều sinh ra từ một chuỗi biến đổi như vậy.
-- Ghi chú thêm: lập luận vẫn đứng vững ngay cả khi vũ trụ vận hành theo các chu kỳ tuần hoàn (giáo lý Khắc kỷ về đại hỏa và tái sinh vũ trụ).
+
+Mục 5.13 nói ta gồm hai phần: phần nguyên nhân (hình thể, sinh lực) và phần vật chất. Không phần nào biến vào hư không, vì cũng chẳng phần nào đến từ hư không. Mỗi phần sẽ được sắp xếp lại thành một phần khác của vũ trụ, rồi lại thành một phần khác nữa, mãi mãi. Ta và cha mẹ ta đều sinh ra từ một chuỗi biến đổi như vậy.
+
+Marcus ghi thêm rằng lập luận vẫn đứng vững ngay cả khi vũ trụ vận hành theo các chu kỳ tuần hoàn (giáo lý Khắc kỷ về đại hoả: vũ trụ định kỳ cháy thành lửa rồi tái sinh).
 
 ### Mục 14. Lý trí tự đủ
-- Lý trí và nghệ thuật suy luận là năng lực tự đủ cho chính nó và cho việc của nó. Nó khởi đi từ nguyên tắc riêng và đi thẳng tới đích. Vì thế hành động hợp lý được gọi là "hành động đúng đường" (*katorthōseis*, từ chữ "thẳng").
+
+Mục 5.14 nói lý trí và nghệ thuật suy luận là năng lực tự đủ cho chính nó và cho việc của nó. Nó khởi đi từ nguyên tắc riêng và đi thẳng tới đích. Vì thế, trong tiếng Hy Lạp, hành động hợp lý được gọi là "hành động đúng đường" (*katorthōseis*, gốc từ chữ "thẳng").
 
 ### Mục 15. Thứ không thuộc bản chất con người thì không phải của con người
-- Không gì nên được gọi là thuộc về con người nếu nó không thuộc về con người với tư cách con người. Những thứ khác không được đòi hỏi ở ta, bản chất ta không hứa hẹn chúng, và thiếu chúng cũng không làm bản chất ta khiếm khuyết. Vậy chúng không phải mục đích, cũng không phải phương tiện tới mục đích (là cái thiện).
-- Lập luận phản chứng: nếu chúng thuộc về ta, thì khinh thường hay chống lại chúng là không đúng, và người không cần chúng không đáng khâm phục; nếu chúng là tốt, thì người tự thiếu thốn chúng không thể là người tốt. Thực tế ngược lại: càng tự tước bỏ, hay càng chịu đựng thản nhiên khi bị tước đoạt, ta càng tốt hơn.
+
+Mục 5.15 bắt đầu bằng một nguyên tắc: không gì nên được gọi là thuộc về con người nếu nó không thuộc về con người với tư cách là con người. Những thứ khác không được đòi hỏi ở ta, bản chất ta không hứa hẹn chúng, và thiếu chúng cũng không làm bản chất ta khiếm khuyết. Vậy chúng không phải mục đích, cũng không phải phương tiện dẫn tới mục đích (tức cái thiện).
+
+Rồi Marcus dùng lập luận phản chứng, gọi là "phép thử từ bỏ":
+
+- Nếu ngoại vật thuộc về ta, thì khinh thường hay chống lại chúng là không đúng, và người không cần chúng không đáng khâm phục.
+- Nếu ngoại vật là tốt, thì người tự từ bỏ chúng không thể là người tốt.
+- Nhưng thực tế ngược lại: ta khâm phục người dửng dưng với chúng; và càng tự tước bỏ, hay càng chịu đựng thản nhiên khi bị tước đoạt, ta càng tốt hơn.
+
+Kết luận: ngoại vật không thuộc về bản chất con người.
 
 ### Mục 16. Linh hồn nhuộm màu suy nghĩ
-- Tâm trí ta sẽ mang màu những gì ta thường nghĩ. Vậy hãy nhuộm nó bằng chuỗi ý nghĩ sau:
-  - Ở đâu sống được thì ở đó sống tốt được. Ta phải sống trong cung điện, vậy sống tốt trong cung điện cũng được (Marcus tự trả lời câu hỏi của chính vị trí hoàng đế).
-  - Mỗi vật được tạo ra vì một mục đích, hướng về mục đích ấy, và cái lợi, cái tốt của nó nằm ở đó.
-  - Cái tốt của sinh vật lý trí là đời sống chung (*koinōnia*). Ta sinh ra vì cộng đồng, điều này đã được chứng minh từ lâu: cái thấp vì cái cao, cái cao vì nhau; sinh vật có hồn cao hơn vật vô hồn, và sinh vật lý trí cao hơn sinh vật chỉ có hồn.
+
+Mục 5.16 nói tâm trí ta sẽ mang màu của những gì ta thường nghĩ, như vải mang màu thuốc nhuộm. Vậy hãy chủ động nhuộm nó bằng một chuỗi ý nghĩ:
+
+- **Sống tốt được ở đâu cũng được.** Ở đâu sống được thì ở đó sống tốt được. Ta phải sống trong cung điện, vậy sống tốt trong cung điện cũng được. Đây là Marcus tự trả lời câu hỏi đặt ra cho chính vị trí hoàng đế của mình.
+- **Mỗi vật hướng về mục đích của nó.** Mỗi vật được tạo ra vì một mục đích, hướng về mục đích ấy, và cái lợi, cái tốt của nó nằm ở đó.
+- **Cái tốt của sinh vật lý trí là đời sống chung.** Ta sinh ra vì cộng đồng, điều này đã được chứng minh từ lâu: cái thấp tồn tại vì cái cao, các cái cao tồn tại vì nhau; sinh vật có hồn cao hơn vật vô hồn, và sinh vật có lý trí cao hơn sinh vật chỉ có hồn.
 
 ### Mục 17. Đòi điều không thể
-- Theo đuổi điều không thể là điên rồ, và người xấu thì không thể không làm vậy.
+
+Mục 5.17: theo đuổi điều không thể là điên rồ, và người xấu thì không thể không làm những việc xấu. Vậy đòi người xấu đừng làm điều xấu cũng là đòi điều không thể.
 
 ### Mục 18. Không gì vượt quá sức chịu
-- Không gì xảy đến với ai mà bản chất họ không chịu nổi. Người khác gặp chuyện tương tự vẫn đứng vững, vì không biết điều gì đã xảy ra hoặc vì muốn tỏ ra can đảm. Thật đáng hổ thẹn nếu sự ngu ngơ và lòng khoe khoang lại mạnh hơn sự hiểu biết.
+
+Mục 5.18 nói không gì xảy đến với ai mà bản chất người ấy không chịu nổi. Người khác gặp chuyện tương tự vẫn đứng vững, hoặc vì không biết điều gì đã xảy ra, hoặc vì muốn tỏ ra can đảm. Thật đáng hổ thẹn nếu sự ngu ngơ và lòng khoe khoang lại mạnh hơn sự hiểu biết.
 
 ### Mục 19. Ngoại vật không chạm vào linh hồn
-- Sự vật bên ngoài không chạm được vào linh hồn, không lối vào, không xoay chuyển hay dịch chuyển được nó. Chỉ linh hồn tự xoay chuyển mình, và nó làm cho những gì đến với nó tương xứng với các phán đoán mà nó cho là xứng đáng.
+
+Mục 5.19: sự vật bên ngoài không chạm được vào linh hồn. Chúng không có lối vào, không xoay chuyển hay dịch chuyển được nó. Chỉ linh hồn tự xoay chuyển mình, tự điều khiển mình, và nó làm cho những gì đến với nó tương xứng với các phán đoán mà nó cho là xứng đáng.
 
 ### Mục 20. Chướng ngại thành con đường
-- Ở một khía cạnh, con người là thứ gần gũi nhất với ta: phải làm điều tốt cho họ và chịu đựng họ. Nhưng khi ai đó cản đường việc riêng của ta, họ trở thành thứ trung tính đối với ta, như mặt trời, gió, hay con thú.
-- Họ có thể cản trở hành động, nhưng không cản trở được ý định (xung lực) và tâm thế, vì ta luôn có thể hành động **có bảo lưu** (chỉ muốn "nếu không gì ngăn cản") và **chuyển hướng**. Tâm trí chuyển hóa và đổi mọi trở ngại thành chất liệu cho mục đích của nó.
-- Kết luận nổi tiếng: chướng ngại cho hành động lại thúc đẩy hành động; cái chắn đường lại thành con đường.
+
+Mục 5.20 bắt đầu bằng một nhận xét về con người. Ở một khía cạnh, con người là thứ gần gũi nhất với ta: ta phải làm điều tốt cho họ và chịu đựng họ. Nhưng khi ai đó cản đường việc riêng của ta, họ trở thành thứ trung tính đối với ta, như mặt trời, gió hay con thú.
+
+Họ có thể cản trở **hành động** của ta, nhưng không cản trở được **ý định** (xung lực) và **thái độ** của ta. Lý do: ta luôn có thể hành động có bảo lưu, tức chỉ muốn điều gì đó "nếu không gì ngăn cản", và có thể chuyển hướng. Tâm trí điều chỉnh, chuyển hoá, và đổi mọi trở ngại thành chất liệu cho mục đích của nó.
+
+Kết luận nổi tiếng: trở ngại cho hành động lại thúc đẩy hành động; cái chắn đường lại thành con đường.
+
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp). Một người định thuyết trình dự án nhưng sếp huỷ cuộc họp. Hành động "thuyết trình hôm nay" bị chặn. Nhưng ý định "làm dự án tốt" vẫn còn nguyên: người ấy dùng thời gian vừa được giải phóng để sửa lại phần số liệu còn yếu. Trở ngại đã thành chất liệu.
 
 ### Mục 21. Hai thứ cao nhất
-- Tôn kính cái cao nhất trong vũ trụ, thứ dùng mọi vật và điều khiển mọi vật. Cũng tôn kính cái cao nhất trong ta, vốn cùng loại với nó: trong ta, nó cũng dùng mọi thứ còn lại và đời ta do nó điều khiển.
+
+Mục 5.21: hãy tôn kính cái cao nhất trong vũ trụ (logos), thứ dùng mọi vật và điều khiển mọi vật. Cũng hãy tôn kính cái cao nhất trong ta, vốn cùng bản chất với nó: trong ta, nó cũng dùng mọi thứ còn lại, và đời ta do nó điều khiển.
 
 ### Mục 22. Phép thử cộng đồng
-- Điều không hại thành bang thì không hại công dân. Mỗi khi tưởng mình bị hại, hãy dùng quy tắc này: nếu thành bang không bị hại thì ta cũng không. Nếu thành bang bị hại, đừng giận kẻ gây ra, mà chỉ cho họ thấy họ đã sai ở đâu.
+
+Mục 5.22 đưa ra một quy tắc đơn giản: điều không hại thành bang thì không hại công dân. Mỗi khi tưởng mình bị hại, hãy hỏi:
+
+- Thành bang (cộng đồng) có bị hại không? Nếu **không**, thì ta cũng không bị hại.
+- Nếu **có**, thì giận dữ không phải lời đáp. Đừng giận kẻ gây ra, mà hãy chỉ cho họ thấy họ đã sai ở đâu.
 
 ### Mục 23. Dòng sông
-- Hãy thường nghĩ đến tốc độ mà mọi thứ đang có và đang tới bị cuốn đi. Bản chất sự vật như một dòng sông chảy mãi; hoạt động của chúng biến đổi không ngừng, nguyên nhân của chúng thay hình vạn dạng, gần như không gì đứng yên. Ngay bên cạnh là vực thẳm vô tận của quá khứ và tương lai, nơi mọi thứ tan biến.
-- Vậy kẻ nào giữa dòng ấy mà tự mãn, đau khổ hay giận dữ, như thể nỗi phiền ấy sẽ kéo dài mãi, thì thật ngớ ngẩn.
+
+Mục 5.23: hãy thường nghĩ tới tốc độ mà mọi thứ đang có và đang tới bị cuốn đi. Bản chất sự vật như một dòng sông chảy mãi; hoạt động của chúng biến đổi không ngừng, nguyên nhân của chúng thay hình vạn dạng, gần như không gì đứng yên. Và ngay bên cạnh là vực thẳm vô tận của quá khứ và tương lai, nơi mọi thứ tan biến.
+
+Vậy kẻ nào giữa dòng ấy mà tự mãn, đau khổ hay giận dữ, như thể nỗi phiền ấy sẽ kéo dài mãi, thì thật ngớ ngẩn.
 
 ### Mục 24. Ba phép đo
-- Nhớ toàn bộ vật chất, mà phần của ta thật nhỏ; toàn bộ thời gian, mà phần của ta thật ngắn; toàn bộ định mệnh, mà vai của ta thật bé.
+
+Mục 5.24 đưa ra ba phép đo để đặt mình đúng tỷ lệ:
+
+| Đo trên | Phần của ta |
+|---|---|
+| toàn bộ vật chất | thật nhỏ |
+| toàn bộ thời gian | thật ngắn |
+| toàn bộ định mệnh (vận mệnh) | vai của ta thật bé |
 
 ### Mục 25. Việc họ làm là của họ
-- Có kẻ làm điều sai với ta? Đó là việc của họ, tính khí của họ, hành động của họ. Ta đang có điều Tự nhiên chung muốn ta có, và đang làm điều bản chất ta muốn ta làm.
+
+Mục 5.25: có kẻ làm điều sai với ta? Đó là việc của họ, tính khí của họ, hành động của họ. Còn ta đang có điều mà Tự nhiên chung muốn ta có, và đang làm điều mà bản chất ta muốn ta làm. Tính cách họ là việc của họ; việc của ta là việc của ta.
 
 ### Mục 26. Cảm giác đến, phán xét thì đừng thêm
-- Phần chỉ huy của linh hồn phải không bị lay động bởi các chuyển động êm hay mạnh trong thân thể. Đừng hòa lẫn vào chúng mà hãy khoanh chúng lại, giữ ở đúng các bộ phận của thân thể.
-- Khi chúng lan lên tâm trí theo con đường cảm thông tự nhiên giữa thân và tâm, đừng cố chống cảm giác ấy, vì nó tự nhiên. Nhưng đừng để phần chỉ huy thêm vào nhận định của riêng nó rằng điều đó tốt hay xấu.
+
+Mục 5.26 nói phần chỉ huy của linh hồn phải không bị lay động bởi các chuyển động êm dịu hay dữ dội trong thân thể. Đừng hoà lẫn vào chúng, mà hãy khoanh chúng lại, giữ chúng ở đúng các bộ phận của thân thể.
+
+Khi các cảm giác ấy lan lên tâm trí theo con đường cảm thông tự nhiên giữa thân và tâm, đừng cố chống lại chúng, vì chúng là tự nhiên. Nhưng đừng để phần chỉ huy thêm vào nhận định riêng của nó rằng điều đó là tốt hay xấu.
 
 ### Mục 27. Sống cùng thần linh
-- Sống cùng thần linh là luôn cho họ thấy linh hồn mình hài lòng với phần được chia, và làm điều mà *daimon* muốn. *Daimon* là mảnh của chính Zeus mà Zeus trao cho mỗi người làm người bảo hộ và dẫn dắt, tức là trí tuệ và lý trí của mỗi người.
+
+Mục 5.27 định nghĩa "sống cùng thần linh": luôn cho thần linh thấy linh hồn mình hài lòng với phần được chia, và làm điều mà daimon muốn. Daimon là một mảnh của chính Zeus, được Zeus trao cho mỗi người làm người bảo hộ và dẫn dắt; đó là trí tuệ và lý trí của mỗi người. (Bản dịch gọi ở đây là "Thượng Đế/Chúa"; nguyên tác nói rõ là Zeus.)
 
 ### Mục 28. Mùi hôi của người khác
-- Có giận người hôi nách hay hôi miệng không? Giận để làm gì? Với cái miệng ấy, cái nách ấy, mùi đó tất phải bốc ra.
-- Phản bác: nhưng người đó có lý trí, đáng ra phải tự nhận ra mình làm người khác khó chịu. Trả lời: tốt, vậy ngươi cũng có lý trí; hãy dùng lý trí của mình đánh thức lý trí của họ: chỉ cho họ, nhắc họ. Nếu họ nghe, ngươi đã chữa được, không cần nổi giận.
+
+Mục 5.28 dùng một ví dụ cố ý thô: có ai giận người hôi nách hay hôi miệng không? Giận để làm gì? Với cái miệng ấy, cái nách ấy, mùi đó tất phải bốc ra.
+
+Phản bác: "Nhưng người đó có não, có lý trí, đáng ra phải tự nhận ra mình làm người khác khó chịu!" Trả lời: tốt, vậy ngươi cũng có lý trí. Hãy dùng lý trí của mình đánh thức lý trí của họ: chỉ ra cho họ, nhắc họ, thuyết phục họ. Nếu họ nghe, ngươi đã chữa được, không cần nổi giận.
 
 ### Mục 28a. Không phải diễn viên, không phải gái điếm
-- Một dòng ngắn (xem Lưu ý): đừng sống như kẻ đóng kịch trên sân khấu đời, cũng đừng chiều theo người khác như kẻ bán mình. Hiểu theo mạch mục 28: phản ứng với lỗi của người khác không cần màn bi kịch, cũng không cần chiều lòng giả dối.
+
+Mục 5.28a là một dòng ngắn. Nguyên tác viết "không phải diễn viên bi kịch, cũng không phải gái điếm" (bản Hays: *Neither actor nor whore*). Nghĩa là: đừng sống như kẻ đóng kịch phô trương trên sân khấu đời, cũng đừng như kẻ bán mình cho ham muốn của người khác. Cách hiểu "kẻ đóng vai vua" trong bản dịch là của dịch giả. Đọc theo mạch mục 28: phản ứng với lỗi của người khác không cần màn bi kịch, cũng không cần chiều lòng giả dối.
 
 ### Mục 29. Sống ở đây như sẽ sống khi đã ra đi
-- Ta có thể sống ngay bây giờ đúng như ta định sống khi đã rời khỏi đây (xem Lưu ý). Nếu người ta không cho phép, thì hãy rời bỏ cuộc sống, nhưng không coi đó là điều tệ hại: khói làm ta ho thì ta ra ngoài, có gì khó khăn đâu (hình ảnh của Epictetus về quyền rời bỏ cuộc sống khi không thể sống xứng đáng).
-- Nhưng chừng nào chưa có gì đuổi ta đi, ta ở lại như một người tự do, và không ai ngăn ta làm điều ta muốn; và điều ta muốn là điều hợp với bản chất của sinh vật lý trí và sống trong cộng đồng.
+
+Mục 5.29: ta có thể sống ngay bây giờ đúng như ta định sống khi đã rời khỏi đây (rời triều đình, hay rời cuộc đời). Chữ "thiên đường" trong lời bình của dịch giả là phỏng đoán, không có trong văn bản.
+
+Nếu người ta không cho phép ta sống như vậy, thì hãy rời bỏ cuộc sống, nhưng đừng coi đó là điều tệ hại: khói làm ta ho thì ta ra ngoài, có gì khó khăn đâu. Đây là hình ảnh mượn của Epictetus về quyền rời bỏ cuộc sống khi không thể sống xứng đáng.
+
+Nhưng chừng nào chưa có gì đuổi ta đi, ta ở lại như một người tự do, và không ai ngăn ta làm điều ta muốn; mà điều ta muốn là điều hợp với bản chất của sinh vật có lý trí và sống trong cộng đồng.
 
 ### Mục 30. Tâm trí vũ trụ có tính cộng đồng
-- Trí tuệ của toàn thể có tính cộng đồng: nó tạo ra cái thấp vì cái cao, và gắn các cái cao vào nhau. Nó sắp xếp mọi thứ phụ thuộc lẫn nhau, phân cho mỗi thứ phần tương xứng, và đưa những thứ cao nhất tới sự đồng thuận với nhau.
+
+Mục 5.30: trí tuệ của toàn thể có tính cộng đồng, không ích kỷ. Nó tạo ra cái thấp vì cái cao, và gắn các cái cao vào nhau. Nó sắp xếp mọi thứ phụ thuộc lẫn nhau, phân cho mỗi thứ phần tương xứng, và đưa những thứ cao nhất tới sự đồng thuận với nhau.
 
 ### Mục 31. Tự kiểm điểm cả đời
-- Ta đã cư xử thế nào với thần linh, cha mẹ, anh chị em, vợ, con, thầy, vú nuôi, bạn bè, họ hàng, nô lệ? Đã bao giờ ta làm hay nói điều gì bất công với ai chưa (Marcus mượn một câu trong *Odyssey* của Homer)?
-- Hãy nhớ những gì ta đã trải qua và đã chịu đựng được. Câu chuyện đời ta đã được viết xong, nhiệm vụ đã hoàn thành; ta đã thấy bao điều tốt đẹp, đã coi thường bao khoái lạc và đau đớn, đã bỏ qua bao vinh quang, đã tử tế với bao kẻ không tử tế.
+
+Mục 5.31 là một bản tự kiểm điểm. Ta đã cư xử thế nào với thần linh, cha mẹ, anh chị em, vợ, con, thầy, vú nuôi, bạn bè, họ hàng, nô lệ? Đã bao giờ ta làm hay nói điều gì bất công với ai chưa? (Câu này Marcus mượn từ *Odyssey* của Homer.)
+
+Rồi hãy nhớ những gì ta đã trải qua và đã chịu đựng được. Giả như đời ta kết thúc ngay lúc này: câu chuyện đời ta đã được viết xong, nhiệm vụ đã hoàn thành; ta đã thấy bao điều tốt đẹp, đã coi thường bao khoái lạc và đau đớn, đã khước từ bao vinh quang, đã tử tế với bao kẻ không tử tế.
 
 ### Mục 32. Kẻ vô học không làm rối được người đã rèn
-- Sao những linh hồn vô học, thiếu hiểu biết lại làm rối được một linh hồn có học và hiểu biết? Linh hồn ấy là linh hồn biết khởi đầu và kết thúc, và biết lý trí thấm khắp vật chất, điều hành toàn thể theo các chu kỳ định sẵn suốt thời gian vô tận.
+
+Mục 5.32 hỏi: sao những linh hồn vô học, thiếu hiểu biết lại làm rối được một linh hồn có học và hiểu biết? Linh hồn đã được rèn luyện là linh hồn biết khởi đầu và kết thúc, và biết rằng lý trí thấm khắp vật chất, điều hành toàn thể theo các chu kỳ định sẵn suốt thời gian vô tận.
 
 ### Mục 33. Tro, xương và tiếng vọng
-- Chẳng bao lâu ta thành tro hay bộ xương, nhiều lắm còn lại cái tên, mà cái tên cũng chỉ là âm thanh, tiếng vọng. Những thứ được quý trọng trong đời đều rỗng, mục, vụn vặt: chó con cắn nhau, trẻ con cãi cọ, vừa cười đã khóc. Lòng tin, sự tự trọng, công lý và chân lý đã "biến khỏi mặt đất và chỉ có thể được tìm thấy nơi thiên đường" (Marcus mượn ý thơ Hesiod).
-- Vậy còn gì giữ ta ở lại? Giác quan mờ và dễ bị lừa, linh hồn chỉ là làn hơi bốc từ máu, danh tiếng giữa những người như thế thì vô nghĩa.
-- Vậy làm gì? Bình thản chờ, hoặc là tiêu tan, hoặc là chuyển sang trạng thái khác. Trong lúc chờ: tôn kính thần linh, làm điều tốt cho người, chịu đựng họ và kiềm chế mình. Và nhớ rằng mọi thứ nằm ngoài cái thân xác và hơi thở nhỏ bé này đều không phải của ta và không thuộc quyền ta.
+
+Mục 5.33 là một trong những đoạn u tối nhất của quyển. Marcus đi qua ba câu hỏi:
+
+**Cái gì còn lại?** Chẳng bao lâu ta thành tro hay một bộ xương; nhiều lắm còn lại cái tên, mà cái tên cũng chỉ là âm thanh, là tiếng vọng. Những thứ được quý trọng trong đời đều rỗng, mục, vụn vặt: như chó con cắn nhau, trẻ con cãi cọ, vừa cười đã khóc. Lòng tin, sự tự trọng, công lý và chân lý đã "biến khỏi mặt đất và chỉ có thể được tìm thấy nơi thiên đường" (Marcus mượn ý thơ của Hesiod).
+
+**Cái gì giữ ta ở lại?** Giác quan thì mờ và dễ bị lừa; linh hồn chỉ là làn hơi bốc lên từ máu; danh tiếng giữa những người như thế thì vô nghĩa.
+
+**Vậy làm gì?** Bình thản chờ, hoặc là tiêu tan, hoặc là chuyển sang một trạng thái khác. Trong lúc chờ: tôn kính thần linh, làm điều tốt cho người, chịu đựng họ và kiềm chế mình. Và nhớ rằng mọi thứ nằm ngoài cái thân xác và hơi thở nhỏ bé này đều không phải của ta và không thuộc quyền ta. (Bản dịch viết "không gì thực sự thuộc về ta ngoài chính máu thịt của cái cơ thể này", bỏ mất chữ "hơi thở" và làm lệch ý.)
 
 ### Mục 34. Đời trôi chảy
-- Ta có thể sống trôi chảy nếu đi đúng đường, nghĩ và làm theo con đường đúng. Thần linh, con người và mọi sinh vật lý trí có chung hai điều: không bị cái khác cản trở, và đặt cái thiện vào hành động và tâm thế công chính, giới hạn mong muốn của mình trong đó.
+
+Mục 5.34: ta có thể sống trôi chảy nếu đi đúng đường, nghĩ và làm theo con đường đúng. Thần linh, con người và mọi sinh vật có lý trí có chung hai điều: không bị cái khác cản trở, và đặt cái thiện vào hành động và tâm thế công chính, giới hạn mong muốn của mình trong đó.
 
 ### Mục 35. Đừng phiền vì cái xấu không phải của mình
-- Nếu điều này không phải sự xấu của ta, không phải hệ quả từ sự xấu của ta, và cộng đồng không bị hại, thì sao phải bận tâm? Và cái gì thì hại được cộng đồng?
+
+Mục 5.35 là một phiên bản ngắn của phép thử cộng đồng: nếu điều này không phải sự xấu của ta, không phải hệ quả từ sự xấu của ta, và cộng đồng không bị hại, thì sao phải bận tâm? Và rốt cuộc cái gì thì hại được cộng đồng?
 
 ### Mục 36. Giúp người mất mát mà không chia nỗi ảo tưởng
-- Đừng để ấn tượng cuốn ta đi. Hãy giúp người đang buồn theo sức mình và theo mức thích hợp, kể cả khi điều họ mất thuộc loại không quan trọng; nhưng đừng coi đó là tổn hại thật, vì đó là thói quen xấu (văn bản dịch có chỗ trống, xem Lưu ý).
-- Hình ảnh: như ông già (trong một vở hài kịch không rõ tên) lúc ra đi xin lại con quay của đứa con nuôi, dù biết đó chỉ là con quay. Ta có thể chia sẻ một cách tử tế với mối bận tâm của người khác mà không quên nó thật ra là gì.
+
+Văn bản dịch của mục 5.36 có chỗ trống và câu bị vỡ. Theo bản Hays, ý của Marcus là: đừng để trí tưởng tượng cuốn ta theo nỗi buồn của người khác. Hãy giúp người đang buồn hết sức mình và trong chừng mực thích hợp, kể cả khi điều họ mất thuộc loại không quan trọng; nhưng đừng coi đó là tổn hại thật, vì coi như vậy là một thói quen xấu.
+
+Marcus dùng hình ảnh một ông già trong một vở hài kịch (không rõ tên): lúc sắp ra đi, ông xin lại con quay của đứa con nuôi, dù biết rõ đó chỉ là một con quay. Ý: ta có thể chia sẻ một cách tử tế với mối bận tâm của người khác mà không quên nó thật ra là gì.
 
 ### Mục 36a. Trên ngai cao
-- Một đoạn đối thoại ngắn: ngươi đã quên những thứ ấy thật ra là gì rồi sao? Không, nhưng người ta coi trọng chúng. Thế vì vậy mà ngươi cũng phải làm kẻ ngốc theo à? Tức là: hoàng đế có thể chiều theo nghi lễ và kỳ vọng của người khác, nhưng không được tin vào chúng.
+
+Mục 5.36a là một đoạn đối thoại ngắn với chính mình:
+
+- Ngươi đã quên những thứ ấy thật ra là gì rồi sao?
+- Không, nhưng người ta coi trọng chúng.
+- Thế vì vậy mà ngươi cũng phải làm kẻ ngốc theo à?
+
+Nghĩa là: ngồi trên ngai, hoàng đế có thể chiều theo nghi lễ và kỳ vọng của người khác, nhưng phải nhớ ngai vàng thật ra là gì, và không được tin vào chúng chỉ vì người khác coi trọng chúng.
 
 ### Mục 37. Vận may thật
-- "Ta từng là một kẻ may mắn", rồi vận may rời bỏ ta. Marcus chơi chữ *eumoiros* (người có phần tốt): vận may thật là thứ ta tự chia cho mình, gồm tâm thế tốt, xung lực tốt, hành động tốt.
+
+Mục 5.37 kết quyển bằng một trò chơi chữ. "Ta từng là một kẻ may mắn", rồi vận may rời bỏ ta. Marcus chơi chữ *eumoiros*, nghĩa đen là "người có phần tốt": vận may thật là phần ta tự chia cho mình, gồm tâm thế tốt (phẩm cách), xung lực tốt (ý định đúng) và hành động tốt. Vận may theo nghĩa ấy không ai lấy đi được.
 
 ## Luận điểm triết học cốt lõi
 

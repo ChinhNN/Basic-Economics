@@ -196,263 +196,357 @@
 2. **Cái gì thực sự hại được ta?** Chỉ phán đoán của chính ta rằng mình bị hại. Điều gì không làm ta xấu đi (không ngăn ta công bằng, tự chủ, trung thực) thì không phải tổn hại, và chịu đựng nó cho tốt lại là một may mắn.
 3. **Nên đặt mình ở đâu trong thế giới?** Là công dân của thành phố vũ trụ, một sinh thể duy nhất luôn biến đổi theo trật tự. Từ đó: cái chết chỉ là đổi thay, danh tiếng là trống rỗng, thời gian sống dài hay ngắn không khác biệt, và việc đáng làm là việc cần thiết cho lợi ích chung, làm ít mà đúng.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Phần chỉ huy (hegemonikon).** Là phần lý trí trong mỗi người, nơi tiếp nhận ấn tượng, đưa ra nhận định và quyết định hành động. Người Khắc kỷ coi đây là cái "ta" thật sự, và là thứ duy nhất hoàn toàn thuộc quyền ta. Ví dụ trong quyển: mục 4.1 tả phần chỉ huy như một ngọn lửa lớn, biến cả những thứ ném vào để dập nó thành nhiên liệu. Khái niệm này quan trọng vì "nơi ẩn náu bên trong" ở mục 4.3 chính là phần chỉ huy: muốn rút về đó được thì nó phải được sắp xếp gọn gàng từ trước.
+
+**Nhận định (hypolēpsis).** Là ý kiến ta tự đưa ra về một sự việc, ví dụ "việc này là xấu", "ta bị xúc phạm". Theo Marcus, sự vật tự nó nằm yên bên ngoài; điều làm ta xáo động là nhận định ta gán thêm cho nó. Ví dụ minh hoạ: hai người cùng bị cắt ngang 1 câu trong cuộc họp; người nhận định "họ coi thường mình" thì bực cả buổi, người nhận định "họ đang vội" thì quên ngay. Sự kiện như nhau, nhận định khác nhau. Khái niệm này quan trọng vì câu đúc kết của Quyển 4 là "thế giới là đổi thay, đời là nhận định" (4.3), và lập luận "chỉ phán đoán mới làm ta bị hại" (4.7, 4.39) dựa hoàn toàn vào nó.
+
+**Tổn hại theo nghĩa Khắc kỷ.** Người Khắc kỷ định nghĩa lại chữ "hại": chỉ cái gì làm ta trở thành người xấu hơn mới là tổn hại thật. Mất tiền, đau ốm, bị nói xấu là chuyện khó chịu, nhưng nếu chúng không làm ta bất công, hèn nhát hay dối trá thì chúng không hại phẩm cách của ta. Ví dụ trong quyển: mục 4.49a đưa ra phép thử với khoảng 8 đức tính (công bằng, độ lượng, tự chủ, đúng mực, cẩn trọng, trung thực, khiêm nhường, thẳng thắn): nếu biến cố không ngăn được ta giữ các đức ấy thì nó không phải bất hạnh. Khái niệm này quan trọng vì nó là chìa khoá để hiểu vì sao Marcus nói "chịu đựng giỏi chính là may mắn".
+
+**Những thứ trung tính (adiaphora).** Là những thứ tự chúng không tốt cũng không xấu: sức khoẻ, tiền, danh tiếng, sống lâu hay chết sớm. Dấu hiệu nhận ra: chúng đến với cả người tốt lẫn kẻ xấu. Ví dụ trong quyển: mục 4.39 nói điều gì xảy ra cho cả người tốt lẫn kẻ xấu thì không tốt cũng không xấu; mục 4.42 nói trải qua biến đổi không có gì xấu, là kết quả của biến đổi cũng không có gì tốt. Khái niệm này quan trọng vì nó giải thích vì sao Marcus coi cái chết và danh tiếng là không đáng sợ, không đáng mơ.
+
+**Thành phố của thế giới (kosmopolis).** Ý tưởng rằng mọi người, vì cùng có lý trí, đều là công dân của một thành phố chung là cả vũ trụ. Ví dụ trong quyển: mục 4.4 đi qua 7 bước suy diễn, từ "tư duy chung" đến "thế giới là một thành phố"; mục 4.23 gọi vũ trụ là "thành phố thân yêu của Zeus". Khái niệm này quan trọng vì nó biến lời khuyên "đừng giận người làm sai" thành một lập luận: người kia là đồng công dân của ta, và ta sinh ra vì nhau.
+
+**Thiên ý hay nguyên tử (pronoia / atomoi).** Hai giả thuyết về vũ trụ thời cổ đại. Thiên ý (quan điểm Khắc kỷ): vũ trụ được một lý trí an bài có trật tự. Nguyên tử (quan điểm của Epicurus, Democritus): vũ trụ chỉ là các hạt nhỏ va chạm ngẫu nhiên. Ví dụ trong quyển: ở mục 4.3 và 4.27, Marcus lập luận rằng dù đúng là giả thuyết nào thì cũng không có lý do để than phiền. Khái niệm này quan trọng vì nó cho thấy cách Marcus ra quyết định khi không chắc chắn: tìm lý lẽ đứng vững trong cả 2 trường hợp. (Bản dịch tiếng Việt ghi sai thành "Thượng đế hoặc là phân tử".)
+
+**Biến đổi (metabolē).** Với người Khắc kỷ, mọi thứ trong vũ trụ liên tục chuyển hoá: đất thành nước, nước thành khí, khí thành lửa rồi quay ngược lại; cá thể tan ra và được dùng lại để làm thành cái mới. Ví dụ trong quyển: mục 4.36 nói mọi vật hiện có là hạt giống của cái sẽ sinh ra từ nó. Khái niệm này quan trọng vì Marcus dùng nó để nhìn cái chết như một biến đổi bình thường, giống sự sinh ra.
+
+**Bổn phận (kathēkon) và lợi ích chung.** Bổn phận là việc thích đáng phải làm theo bản tính của mình; với con người, bản tính ấy là lý trí và sống trong cộng đồng, nên bổn phận luôn gắn với lợi ích chung. Ví dụ trong quyển: mục 4.24 sửa câu "muốn bình yên hãy làm ít đi" thành "hãy làm điều cần, theo cách lý trí của một sinh vật sống trong cộng đồng đòi hỏi". Khái niệm này quan trọng vì nó cho thấy "làm ít" của Marcus không phải lười hay trốn việc, mà là bỏ việc thừa để làm đúng việc cần.
+
+## Nội dung chi tiết
+
+*Suy tưởng không chia chủ đề, chỉ có các mục đánh số. Quyển 4 có 51 mục (cộng một mục 4.49a), phần dưới đi theo đúng thứ tự.*
 
 ### 4.1 Trở ngại thành nhiên liệu
 
-- Phần chỉ huy bên trong, khi thuận tự nhiên, ứng xử với hoàn cảnh bằng cách thích nghi với bất cứ điều gì có thể xảy ra và thực sự xảy ra. Nó không đòi một chất liệu cố định nào; nó theo đuổi mục tiêu trong giới hạn hoàn cảnh cho phép, và biến vật cản thành chất đốt.
-- Hình ảnh: ngọn lửa lớn nuốt chửng những thứ đủ sức dập tắt một ngọn đèn nhỏ; vật ném vào chỉ làm nó bốc cao hơn.
-- Đây là nền của ý Marcus phát triển ở Quyển 5, mục 20: vật cản trên đường hành động lại thúc đẩy hành động, cái chắn đường trở thành con đường.
+Phần chỉ huy bên trong, khi vận hành thuận tự nhiên, ứng xử với hoàn cảnh bằng cách thích nghi với bất cứ điều gì có thể xảy ra và thực sự xảy ra. Nó không đòi một chất liệu cố định nào để làm việc. Nó theo đuổi mục tiêu trong giới hạn mà hoàn cảnh cho phép, và khi gặp vật cản thì biến vật cản thành chất đốt.
+
+Marcus dùng hình ảnh ngọn lửa: một ngọn lửa lớn nuốt chửng cả những thứ đủ sức dập tắt một ngọn đèn nhỏ; vật ném vào chỉ làm nó bốc cao hơn. Tâm trí yếu thì bị trở ngại dập tắt; tâm trí mạnh thì dùng trở ngại làm nhiên liệu.
+
+Đây là nền của ý mà Marcus phát triển ở Quyển 5: vật cản trên đường hành động lại thúc đẩy hành động, cái chắn đường trở thành con đường.
 
 ### 4.2 Không hành động tuỳ tiện
 
-- Không làm việc gì một cách ngẫu hứng, hay không dựa trên nguyên tắc của nghề sống.
+Mục rất ngắn: không làm việc gì một cách ngẫu hứng, hay không dựa trên nguyên tắc của nghề sống. Với người Khắc kỷ, sống là một nghề có quy tắc như nghề y hay nghề mộc, và mỗi hành động phải xuất phát từ quy tắc ấy.
 
 ### 4.3 Rút vào bên trong (bài suy tưởng trung tâm)
 
-- **Ý tưởng:** người ta tìm chốn nghỉ ở quê, bờ biển, núi; Marcus cũng từng thèm như vậy. Nhưng đó là ngớ ngẩn, vì có thể "lui về" bất cứ lúc nào, vào trong chính mình. Không nơi nào yên và ít bị quấy hơn tâm hồn, nhất là khi trong đó có sẵn những ý nghĩ mà chỉ cần nhìn vào là bình thản ngay. Và bình thản chỉ là một tâm trí được sắp xếp gọn gàng.
-- **Cách làm:** tự cho mình những lần lui về như thế để làm mới, nhưng giữ cho các nguyên tắc ngắn và căn bản, đủ để vừa chạm vào là rũ sạch muộn phiền và quay lại việc mà không bực bội.
-- **Nếu bực vì cái xấu của người khác:** nhớ (a) sinh vật lý trí tồn tại vì nhau; (b) nhẫn nại là một phần của công lý; (c) không ai cố ý làm sai; (d) bao nhiêu người từng thù hận, nghi kỵ, tranh đấu, giờ đã nằm thành tro. Rồi im lặng.
-- **Nếu bực vì phần số:** nhớ lựa chọn hai nhánh, thiên ý hay nguyên tử, và các lập luận cho thấy thế giới là một kiểu thành phố.
-- **Nếu bực vì thân thể:** nhớ rằng tâm trí, khi đã tự tách ra và hiểu năng lực của mình, không còn dính vào những trạng thái của đời sống thân xác, dù khó khăn hay trôi chảy; và nhớ mọi điều đã học và đã chấp nhận về sướng và khổ.
-- **Nếu bận lòng vì danh tiếng:** nghĩ tới việc mọi thứ sớm bị quên, vực thẳm thời gian ở hai phía, sự rỗng tuếch của tiếng vỗ tay, sự thất thường và kém phán đoán của người khen, cái góc nhỏ nơi tiếng tăm lan tới: trái đất chỉ là một điểm, phần có người ở còn nhỏ hơn, và bao nhiêu người, loại người nào, sẽ khen ta?
-- **Vậy:** nhớ con đường lui về khoảnh đất nhỏ của mình. Trên hết, đừng giằng xé, đừng căng thẳng; giữ tự do, nhìn sự vật như một người đàn ông, một con người, một công dân, một sinh vật phải chết.
-- **Hai điều phải có sẵn trong tay:** (i) sự vật không chạm tới tâm hồn, chúng đứng yên bên ngoài, mọi xáo động đến từ nhận định bên trong; (ii) mọi thứ ta thấy sẽ sớm đổi và không còn, hãy nhớ mình đã chứng kiến bao nhiêu đổi thay. Đúc kết: thế giới là đổi thay, đời là nhận định.
+Đây là mục dài nhất Quyển 4, nơi Marcus gom các lập luận ông dùng để tự trấn an.
+
+**Ý tưởng chính.** Người ta tìm chốn nghỉ ở thôn quê, bờ biển, núi cao, và chính Marcus cũng từng thèm như vậy. Nhưng ông gọi mong muốn ấy là ngớ ngẩn, vì có thể "lui về" bất cứ lúc nào, vào trong chính mình. Không nơi nào yên và ít bị quấy hơn tâm hồn mình, nhất là khi trong đó có sẵn những ý nghĩ mà chỉ cần nhìn vào là bình thản ngay. Và bình thản, theo Marcus, chẳng là gì khác ngoài một tâm trí được sắp xếp ngăn nắp.
+
+**Cách làm.** Hãy thường xuyên cho mình những lần lui về như thế để làm mới, nhưng mỗi lần phải ngắn, gọn. Các nguyên tắc dùng ở đó cũng phải ngắn và căn bản, đủ để vừa chạm vào là rũ sạch muộn phiền và quay lại việc đang chờ mà không bực bội.
+
+**Mỗi loại bực bội có sẵn một lập luận.** Marcus chuẩn bị trước lời đáp cho từng nguồn phiền muộn:
+
+| Đang bực vì | Lập luận để gỡ |
+|---|---|
+| Cái xấu của người khác | (a) sinh vật lý trí tồn tại vì nhau; (b) nhẫn nại là một phần của công lý (bản dịch viết "hành động đúng đắn đôi khi đòi hỏi sự nhẫn nại", làm mất ý rằng chịu đựng người khác là một bộ phận của đức công bằng); (c) không ai cố ý làm sai; (d) bao nhiêu người từng thù hận, nghi kỵ, tranh đấu, giờ đã nằm dưới mộ thành tro. Nhớ vậy rồi im lặng. |
+| Phần số | Nhớ lựa chọn hai nhánh: thiên ý hay nguyên tử, nhánh nào cũng không đáng than; và nhớ các lập luận cho thấy thế giới là một kiểu thành phố. |
+| Thân thể | Tâm trí, khi đã tự tách ra và hiểu năng lực của mình, không còn dính vào trạng thái của thân xác, dù khó khăn hay trôi chảy, êm hay gắt; và nhớ mọi điều đã học và đã chấp nhận về sướng và khổ. |
+| Danh tiếng | Mọi thứ sớm bị quên; vực thẳm thời gian ở cả hai phía nuốt hết; tiếng vỗ tay rỗng tuếch; người khen thất thường và kém phán đoán; cái góc nơi tiếng tăm lan tới rất nhỏ: trái đất chỉ là một điểm, phần có người ở còn nhỏ hơn, và bao nhiêu người, loại người nào, sẽ khen ta? |
+
+**Kết luận thực hành.** Hãy nhớ con đường lui về khoảnh đất nhỏ của mình. Trên hết, đừng giằng xé, đừng căng thẳng; giữ tự do, và nhìn sự vật như một người đàn ông, một con người, một công dân, một sinh vật phải chết.
+
+**Hai điều phải luôn có sẵn trong tay:**
+
+1. Sự vật không chạm tới tâm hồn. Chúng đứng yên bên ngoài; mọi xáo động đến từ nhận định bên trong.
+2. Mọi thứ ta thấy sẽ sớm đổi và không còn nữa; hãy nhớ mình đã chứng kiến bao nhiêu đổi thay.
+
+Đúc kết: thế giới là đổi thay, đời là nhận định. (Chữ "nhận thức" trong bản dịch dịch từ *hypolēpsis*, đúng hơn là "nhận định, ý kiến"; câu này có học giả quy cho truyền thống Democritus.)
 
 ### 4.4 Lập luận về thành phố của thế giới
 
-- Chuỗi suy diễn từng bước: nếu năng lực tư duy là chung, thì lý trí làm ta thành sinh vật lý trí cũng chung; nếu thế, lý trí chỉ ra điều nên làm và nên tránh cũng chung; vậy ta có luật chung; vậy ta là đồng công dân; vậy ta cùng thuộc một cộng đồng chính trị; vậy thế giới là một thành phố, vì còn cộng đồng nào khác mà cả loài người cùng thuộc về?
-- Từ thành phố chung ấy mà có tư duy, lý trí và luật. Vì không gì từ hư không: phần đất trong thân ta đến từ đất, phần nước từ một nguyên tố khác, khí và lửa từ nguồn riêng của chúng. Thì phần trí tuệ cũng phải có nguồn.
+Marcus xây một chuỗi suy diễn từng bước, mỗi bước dựa vào bước trước:
+
+1. Nếu năng lực tư duy là chung cho mọi người,
+2. thì lý trí, thứ làm ta thành sinh vật lý trí, cũng chung;
+3. nếu thế, lý trí chỉ ra điều nên làm và nên tránh cũng chung;
+4. vậy ta có luật chung;
+5. vậy ta là đồng công dân;
+6. vậy ta cùng thuộc một cộng đồng chính trị;
+7. vậy thế giới là một thành phố, vì còn cộng đồng nào khác mà cả loài người cùng thuộc về?
+
+Ông thêm một lập luận về nguồn gốc: chính từ thành phố chung ấy mà ta có tư duy, lý trí và luật. Vì không gì từ hư không mà ra: phần đất trong thân ta đến từ đất, phần nước từ nguyên tố nước, khí và lửa từ nguồn riêng của chúng. Thì phần trí tuệ cũng phải đến từ đâu đó.
 
 ### 4.5 Cái chết như sự sinh
 
-- Cái chết giống sinh ra, là một bí ẩn của tự nhiên: các nguyên tố kết hợp rồi tan rã. Không có gì đáng xấu hổ, không trái với bản chất của một sinh vật lý trí hay với lý lẽ cấu tạo nên nó.
+Cái chết giống sự sinh ra: cả hai là bí ẩn của tự nhiên. Sinh ra là các nguyên tố kết hợp lại; chết là chúng tan rã ra. Không có gì đáng xấu hổ trong đó, không có gì trái với bản chất của một sinh vật lý trí hay với lý lẽ cấu tạo nên nó.
 
 ### 4.6 Cây vả và người làm sai
 
-- Người như thế tất yếu sẽ làm như thế. Muốn khác đi là muốn cây vả đừng ra nhựa, ra quả. Và dù sao, chẳng bao lâu cả ta và người ấy đều chết, tên tuổi cũng mất.
+Người như thế tất yếu sẽ làm điều như thế. Muốn họ khác đi cũng như muốn cây vả đừng ra nhựa, đừng ra quả. Vì vậy bực bội với họ là vô lý. Và dù sao, chẳng bao lâu cả ta và người ấy đều chết, tên tuổi cũng mất theo.
 
 ### 4.7 Bỏ nhận định "ta bị hại"
 
-- Chọn không coi mình bị hại, thì không cảm thấy bị hại; không cảm thấy bị hại, thì đã không bị hại. Cái hại nằm ở sự chấp thuận nhận định, không nằm ở sự kiện.
+Mục này là một chuỗi ba bước: chọn không coi mình bị hại, thì sẽ không cảm thấy bị hại; không cảm thấy bị hại, thì đã không bị hại. Cái hại nằm ở việc ta chấp thuận nhận định "ta bị hại", không nằm ở bản thân sự kiện.
 
 ### 4.8 Định nghĩa tổn hại
 
-- Cái gì không làm con người xấu đi thì không làm đời người xấu đi, và không hại người từ bên ngoài hay bên trong. Tổn hại thật chỉ là tổn hại đến phẩm cách.
+Cái gì không làm con người xấu đi thì không làm đời người ấy xấu đi, và không hại người ấy, dù từ bên ngoài hay bên trong. Tổn hại thật chỉ là tổn hại đến phẩm cách. Đây là định nghĩa làm nền cho 4.7: nếu tổn hại chỉ là trở nên xấu hơn, thì chỉ chính ta mới tự làm hại mình được.
 
 ### 4.9 Lợi ích của toàn thể
 
-- Điều xảy ra là vì nó có lợi cho toàn thể, nên tự nhiên buộc phải làm vậy.
+Điều xảy ra là vì nó có lợi cho toàn thể, nên tự nhiên buộc phải làm vậy.
 
 ### 4.10 Mọi điều xảy ra đều công bằng
 
-- Nhìn kỹ sẽ thấy mọi điều xảy ra là đúng: không chỉ theo nghĩa nối tiếp có trình tự, mà như thể có ai đó cân đo và trao cho mỗi thứ phần nó đáng nhận (xem Lưu ý 3 về chỗ bản dịch làm mất phân biệt này).
-- Hệ quả: tiếp tục quan sát như vậy, và làm mọi việc với lòng tốt, theo đúng nghĩa của chữ "người tốt".
+Nhìn kỹ sẽ thấy mọi điều xảy ra đều đúng. Marcus nói rõ: đúng không chỉ theo nghĩa các sự việc nối tiếp nhau theo trình tự, mà theo nghĩa công bằng, như thể có ai đó cân đo và trao cho mỗi thứ phần nó đáng nhận. Bản dịch tiếng Việt đổi câu này thành "không chỉ đáng xảy ra chung chung mà cần phải xảy ra", tức lại nhấn vào tính tất yếu, đúng cái vế mà Marcus nói là chưa đủ.
+
+Hệ quả: hãy tiếp tục quan sát theo cách ấy, và làm mọi việc với lòng tốt, theo đúng nghĩa của chữ "người tốt".
 
 ### 4.11 Nhìn như sự vật là
 
-- Đừng nhìn sự vật theo cách kẻ làm hại ta nhìn, hay theo cách hắn muốn ta nhìn. Nhìn đúng như chúng là.
+Đừng nhìn sự vật theo cách kẻ làm hại ta nhìn, hay theo cách hắn muốn ta nhìn. Hãy nhìn chúng đúng như chúng là. Kẻ xúc phạm muốn ta tin rằng ta đã bị hạ thấp; chấp nhận cách nhìn ấy là để hắn quyết định cảm xúc của ta.
 
 ### 4.12 Hai sự sẵn sàng
 
-- (i) Chỉ làm điều mà lý trí cai trị và lập pháp trong ta chỉ ra, vì lợi ích con người.
-- (ii) Sẵn sàng đổi ý khi có ai chỉ ra cái sai và thuyết phục ta. Nhưng việc đổi ý phải xuất phát từ niềm tin rằng điều mới là đúng hay có lợi chung, không phải vì nó dễ chịu hay được nhiều người theo, cũng không vì tài thuyết phục của người kia.
+Marcus đòi mình luôn sẵn sàng cho hai việc:
+
+1. Chỉ làm điều mà lý trí cai trị và lập pháp trong chính ta (phần chỉ huy, không phải lý trí của vũ trụ) chỉ ra, vì lợi ích con người.
+2. Sẵn sàng đổi ý khi có ai chỉ ra cái sai và thuyết phục được ta. Nhưng việc đổi ý phải xuất phát từ niềm tin rằng điều mới là đúng hoặc có lợi chung, không phải vì nó dễ chịu hay được nhiều người theo, cũng không vì người kia khéo nói.
 
 ### 4.13 Có tâm trí thì dùng
 
-- Ta có lý trí không? Có. Vậy sao không dùng? Nếu nó làm đúng việc của nó thì ta còn muốn gì hơn?
+Một đối thoại tự hỏi tự đáp: Ta có lý trí không? Có. Vậy sao không dùng nó? Nếu nó làm đúng việc của nó thì ta còn muốn gì hơn?
 
 ### 4.14 Được hoàn lại
 
-- Ta tồn tại như một phần; sẽ tan vào cái đã sinh ra mình, hay đúng hơn là được thu về nguồn lý trí sinh thành mọi vật, qua sự biến đổi vẫn luôn diễn ra.
+Ta tồn tại như một phần của toàn thể. Rồi ta sẽ tan vào cái đã sinh ra mình, hay đúng hơn, được thu về nguồn lý trí sinh thành mọi vật, qua sự biến đổi vẫn luôn diễn ra. Cái chết không phải mất đi, mà là được hoàn trả.
 
 ### 4.15 Nén hương trên bàn thờ
 
-- Nhiều bó hương (nguyên tác: cục nhũ hương) trên cùng bàn thờ: cái tàn trước, cái tàn sau, không khác biệt gì. Đời người cũng vậy.
+Nhiều nén hương (nguyên tác là những cục nhũ hương) trên cùng một bàn thờ: cái rơi vào lửa trước, cái rơi sau, không khác biệt gì. Đời người cũng vậy: chết sớm hay muộn đều là cháy trên cùng một bàn thờ.
 
 ### 4.16 Từ khỉ thành thần
 
-- Hôm nay người ta coi ta như thú, như khỉ; chỉ ít ngày sau sẽ coi ta là thần, nếu ta quay về với các nguyên tắc và tôn kính lý trí. Tức là đánh giá của người đời đổi nhanh, chỉ nguyên tắc của mình là đáng giữ.
+Hôm nay người ta coi ta như thú, như khỉ; chỉ khoảng mười ngày sau (bản dịch ghi "một tuần") họ sẽ coi ta là thần, nếu ta quay về với các nguyên tắc và tôn kính lý trí. Ý: đánh giá của người đời đổi rất nhanh và rất thất thường, chỉ nguyên tắc của mình là đáng giữ.
 
 ### 4.17 Sống tốt khi còn sống
 
-- Đừng sống như thể còn hàng nghìn năm. Cái chết luôn treo trên đầu. Khi còn sống, còn làm được, hãy là người tốt.
+Đừng sống như thể còn hàng nghìn năm. Cái chết luôn treo trên đầu. Khi còn sống, khi còn làm được, hãy là người tốt.
 
 ### 4.18 Không nhìn sang người khác
 
-- Thật nhẹ người khi không còn để ý người khác nói gì, nghĩ gì, làm gì, mà chỉ xem việc mình làm có công bằng và đúng đắn không.
-- Đừng ngó quanh tìm cái tối tăm trong tính người khác; chạy thẳng tới đích, không lạc bước.
+Thật nhẹ người khi không còn để ý người khác nói gì, nghĩ gì, làm gì, mà chỉ xem việc mình làm có công bằng và đúng đắn hay không. Đừng ngó quanh tìm cái tối tăm trong tính người khác; hãy chạy thẳng tới đích, không lạc bước.
 
 ### 4.19 Danh tiếng sau khi chết
 
-- Người mê danh tiếng sau khi chết quên rằng người nhớ tới họ cũng sẽ chết, rồi những người kế tiếp cũng vậy, cho đến khi ký ức, truyền như ngọn nến mồi lửa cho nến khác, cháy hết và tắt.
-- Giả sử người nhớ ta bất tử và ký ức bất diệt: thì có ích gì cho ta, người đã chết? Ngay khi còn sống, lời khen được gì ngoài chút tiện lợi thực tế?
-- Kết luận: ta đang bỏ quên món quà tự nhiên trao cho ta trong hiện tại để bám vào lời người đời sau.
+Marcus bác lòng ham danh tiếng sau khi chết bằng ba bước:
+
+- **Người nhớ cũng chết.** Người mê danh tiếng sau khi chết quên rằng những ai nhớ tới họ cũng sẽ chết, rồi những người kế tiếp cũng vậy, cho đến khi ký ức, được truyền như ngọn nến mồi lửa cho ngọn nến khác, cháy hết và tắt.
+- **Giả sử ký ức bất diệt.** Giả sử người nhớ ta bất tử và ký ức không bao giờ mất: thì điều đó có ích gì cho ta, người đã chết? Ngay khi còn sống, lời khen được gì ngoài chút tiện lợi thực tế?
+- **Kết luận.** Mải mê lời người đời sau là bỏ quên món quà tự nhiên đang trao cho ta trong hiện tại.
 
 ### 4.20 Cái đẹp không cần lời khen
 
-- Cái gì đẹp thì đẹp tự nó, trọn vẹn trong nó; lời khen không là phần của nó, nên không làm nó tốt hơn hay xấu đi. Điều này đúng với cả đồ vật, tác phẩm nghệ thuật đời thường.
-- Cái đẹp thật không cần gì thêm, như luật pháp, chân lý, lòng tốt, sự khiêm nhường: có cái nào hay lên nhờ khen, hỏng đi nhờ chê? Ngọc lục bảo có kém đi vì không ai ngắm? Vàng, ngà, vải tía, cây đàn lia, con dao, bông hoa, bụi cây cũng vậy.
+Cái gì đẹp thì đẹp tự nó, trọn vẹn trong nó; lời khen không phải là một phần của nó, nên không làm nó tốt hơn hay xấu đi. Điều này đúng cả với đồ vật và tác phẩm nghệ thuật đời thường.
+
+Cái đẹp thật không cần gì thêm, giống như luật pháp, chân lý, lòng tốt, sự khiêm nhường: có thứ nào hay lên nhờ được khen, hỏng đi vì bị chê? Viên ngọc lục bảo có kém đi vì không ai ngắm? Vàng, ngà, vải tía, cây đàn lia, con dao, bông hoa, bụi cây cũng vậy.
 
 ### 4.21 Linh hồn đi đâu?
 
-- Câu hỏi: nếu linh hồn tồn tại mãi, không gian chứa đâu cho hết từ thuở ban đầu?
-- Trả lời bằng phép loại suy: đất chứa được xác chết bao đời vì xác tồn tại thêm ít lâu rồi biến đổi, phân rã, nhường chỗ. Linh hồn trong không gian cũng nấn ná một thời rồi biến đổi, tan ra, được thu về lửa của lý trí sinh thành của toàn thể, nhường chỗ cho linh hồn mới. Marcus gọi đây là "một đáp án khả dĩ", không khẳng định chắc chắn.
-- Bổ sung: không chỉ xác chôn, còn bao nhiêu thân thể bị người và vật ăn mỗi ngày, vẫn đủ chỗ vì chúng hoá thành máu thịt, thành khí và lửa.
-- Cách tìm sự thật: phân biệt chất liệu và nguyên nhân (cái làm nên hình thức).
+Marcus tự đặt một câu hỏi: nếu linh hồn tồn tại mãi sau khi chết, thì không gian lấy đâu ra chỗ chứa hết linh hồn từ thuở ban đầu?
+
+Ông trả lời bằng phép loại suy: đất chứa được xác chết của bao nhiêu đời, vì xác chỉ tồn tại thêm ít lâu rồi biến đổi, phân rã, nhường chỗ. Linh hồn trong không gian cũng vậy: nấn ná một thời gian, rồi biến đổi, tan ra, được thu về ngọn lửa của lý trí sinh thành toàn thể, nhường chỗ cho linh hồn mới. Marcus chỉ gọi đây là "một đáp án khả dĩ", không khẳng định chắc chắn.
+
+Ông bổ sung: không chỉ có xác được chôn, còn bao nhiêu thân thể bị người và thú ăn mỗi ngày, vậy mà vẫn đủ chỗ, vì chúng hoá thành máu thịt của kẻ ăn, thành khí và lửa. Cách đi tìm sự thật ở đây là phân biệt chất liệu với nguyên nhân (cái làm nên hình thức của vật).
 
 ### 4.22 Không bị cuốn đi
 
-- Đừng để bị giật hết bên này sang bên kia; hãy luôn hành xử công bằng và nhìn mọi thứ đúng theo bản chất của chúng.
+Đừng để thôi thúc giật mình hết bên này sang bên kia. Hãy luôn hành xử công bằng, và nhìn mọi thứ đúng theo bản chất của chúng.
 
 ### 4.23 Lời với vũ trụ
 
-- Gửi vũ trụ: cái gì hợp với ngươi thì hợp với ta; không gì đến sớm hay muộn nếu đúng lúc với ngươi. Gửi tự nhiên: mọi thứ mùa ngươi mang tới đều là quả cho ta; mọi thứ từ ngươi, trong ngươi, về ngươi.
-- Nhà thơ (Aristophanes) gọi Athens là "thành phố thân yêu của Cecrops" (vị vua huyền thoại lập Athens); sao ta không gọi vũ trụ là thành phố thân yêu của Zeus?
+Một đoạn gần như lời cầu nguyện. Marcus nói với vũ trụ: cái gì hợp với ngươi thì hợp với ta; không gì đến sớm hay muộn nếu nó đúng lúc với ngươi. Ông nói với tự nhiên: mọi thứ mùa ngươi mang tới đều là quả cho ta; mọi thứ từ ngươi mà ra, ở trong ngươi, và trở về ngươi.
+
+Rồi ông mượn một câu thơ: nhà thơ Aristophanes gọi Athens là "thành phố thân yêu của Cecrops" (Cecrops là vị vua huyền thoại lập ra Athens). Vậy sao ta không gọi vũ trụ là thành phố thân yêu của Zeus?
 
 ### 4.24 Làm ít mà đúng
 
-- Có câu: muốn bình yên thì hãy làm ít việc (Democritus). Marcus sửa: hãy làm điều cần thiết, điều mà lý trí của một sinh vật sống trong cộng đồng đòi hỏi, và làm theo cách nó đòi hỏi. Như vậy có hai niềm vui: làm ít hơn và làm tốt hơn.
-- Phần lớn lời nói và việc làm là không cần; bỏ chúng đi, ta có thêm thời gian và bớt rối. Mỗi lúc hãy hỏi: điều này có cần không?
-- Và phải bỏ cả những ý nghĩ thừa, vì việc thừa đi theo sau chúng.
+Có câu: muốn bình yên thì hãy làm ít việc. Câu này của Democritus, bản dịch không ghi nguồn. Marcus sửa lại: hãy làm điều cần thiết, điều mà lý trí của một sinh vật sống trong cộng đồng đòi hỏi, và làm theo cách nó đòi hỏi. Như vậy ta có hai niềm vui một lúc: làm ít hơn và làm tốt hơn.
+
+Lập luận: phần lớn lời nói và việc làm của ta là không cần. Bỏ chúng đi, ta có thêm thời gian và bớt rối. Vì vậy mỗi lúc hãy tự hỏi: điều này có thật cần không?
+
+Và phải cắt từ gốc: bỏ cả những ý nghĩ thừa, vì việc thừa luôn đi theo sau chúng.
 
 ### 4.25 Thử sống đời người tốt
 
-- Hãy thử xem đời người tốt diễn ra thế nào: người bằng lòng với phần toàn thể chia cho mình, và bằng lòng với việc mình làm công bằng, tử tế.
+Hãy thử xem đời của người tốt diễn ra thế nào: người bằng lòng với phần toàn thể chia cho mình, và bằng lòng với việc chính mình làm điều công bằng, tử tế.
 
 ### 4.26 Đơn giản hoá
 
-- Đã thấy cái kia rồi, giờ hãy nhìn cái này: đừng tự làm rối, hãy giản dị.
-- Ai làm sai? Là làm sai với chính hắn. Có gì xảy đến cho ta? Tốt: nó đã được toàn thể dệt sẵn cho ta từ đầu.
-- Đời ngắn. Hãy tận dụng hiện tại bằng sự cân nhắc và công bằng. Thư giãn nhưng tỉnh táo, có chừng mực.
+Đã thấy cái kia rồi, giờ hãy nhìn cái này: đừng tự làm rối, hãy giản dị.
+
+Ai làm sai? Là họ làm sai với chính họ, vì người duy nhất bị tổn hại phẩm cách là người làm sai. Có gì xảy đến cho ta? Tốt: nó đã được toàn thể dệt sẵn cho ta từ đầu.
+
+Đời ngắn. Hãy tận dụng hiện tại bằng sự cân nhắc và công bằng. Thư giãn, nhưng tỉnh táo và có chừng mực. (Dịch giả có chen một lời bình phỏng đoán rằng Marcus đang mỉa thói ham của lạ của vua chúa; văn bản không có căn cứ cho cách đọc ấy.)
 
 ### 4.27 Trật tự hay hỗn độn
 
-- Hoặc là một thế giới có trật tự, hoặc là một mớ hổ lốn, nhưng vẫn là một thế giới (chữ *kosmos* vừa là "thế giới" vừa là "trật tự").
-- Lập luận: có thể nào trong ta có trật tự mà ngoài toàn thể chỉ là hỗn loạn? Nhất là khi mọi thứ dù phân tán khác biệt vẫn liên thông, cảm ứng với nhau.
+Hoặc đây là một thế giới có trật tự, hoặc là một mớ hổ lốn, nhưng dù sao vẫn là một thế giới. Chữ Hy Lạp *kosmos* vừa có nghĩa "thế giới" vừa có nghĩa "trật tự", nên câu này có một lớp chơi chữ.
+
+Lập luận: có thể nào trong ta có trật tự, mà bên ngoài, trong toàn thể, lại chỉ là hỗn loạn? Nhất là khi mọi thứ, dù phân tán và khác biệt, vẫn liên thông và cảm ứng với nhau.
 
 ### 4.28 Danh mục tính xấu
 
-- Tính tối tăm, ẻo lả, cứng nhắc; sói, cừu, trẻ con, kẻ ngờ nghệch, kẻ lừa đảo, kẻ pha trò, kẻ buôn bán, bạo chúa. Một danh sách để nhận diện, giống bài tập buổi sáng ở Quyển 2, mục 1 (sáng ra tự nhắc hôm nay sẽ gặp người tọc mạch, vô ơn, kiêu căng...).
+Một danh sách ngắn để nhận diện các kiểu tính cách xấu: tính tối tăm, ẻo lả, cứng nhắc; kẻ như sói, như cừu, như trẻ con; kẻ ngờ nghệch, kẻ lừa đảo, kẻ pha trò, kẻ buôn bán, bạo chúa. Nó giống bài tập buổi sáng ở Quyển 2: sáng ra tự nhắc rằng hôm nay sẽ gặp người tọc mạch, vô ơn, kiêu căng..., để khi gặp thì không bất ngờ.
 
 ### 4.29 Định nghĩa lại từ ngữ
 
-- Kẻ xa lạ với thế giới: người không biết thế giới gồm gì, hay không biết điều gì đang diễn ra trong đó.
-- Kẻ đào tẩu: người trốn khỏi lý lẽ của đời sống cộng đồng.
-- Kẻ mù: người nhắm mắt trí tuệ.
-- Kẻ nghèo: người đòi hỏi những thứ bên ngoài, không thấy rằng mình đã có đủ mọi thứ cần cho đời sống.
-- Ung nhọt trên thân vũ trụ: người tự tách khỏi lý lẽ của tự nhiên chung vì bất mãn với điều xảy ra (chính tự nhiên ấy đã sinh ra anh ta và sinh ra cả điều này).
-- Mảnh vỡ của thành bang: người cắt linh hồn mình khỏi linh hồn những người có lý trí, trong khi tất cả là một.
-- Ý: dùng định nghĩa đạo đức thay cho định nghĩa thông thường (nghèo là thiếu tự chủ, không phải thiếu tiền).
+Marcus lấy những chữ thông thường và định nghĩa lại theo nghĩa đạo đức:
+
+| Chữ | Nghĩa Marcus gán cho |
+|---|---|
+| Kẻ xa lạ với thế giới | người không biết thế giới gồm những gì, hay không biết điều gì đang diễn ra trong đó |
+| Kẻ đào tẩu | người trốn khỏi lý lẽ của đời sống cộng đồng |
+| Kẻ mù | người nhắm mắt trí tuệ |
+| Kẻ nghèo | người đòi hỏi những thứ bên ngoài, không thấy rằng mình đã có đủ mọi thứ cần cho đời sống |
+| Ung nhọt trên thân vũ trụ | người tự tách khỏi lý lẽ của tự nhiên chung vì bất mãn với điều xảy ra, trong khi chính tự nhiên ấy đã sinh ra anh ta và sinh ra cả điều này |
+| Mảnh vỡ của thành bang | người cắt linh hồn mình khỏi linh hồn những người có lý trí, trong khi tất cả là một |
+
+Hai hình ảnh cuối là hình ảnh y học (ung nhọt) và chính trị (mảnh vỡ tách khỏi thành bang). Bản dịch đổi thành "kẻ chống đối" và "kẻ có khuynh hướng ly giáo", dùng từ ngữ tôn giáo không có trong nguyên tác. Ý chung của mục: dùng định nghĩa đạo đức thay cho định nghĩa thông thường; ví dụ nghèo là thiếu tự chủ, không phải thiếu tiền.
 
 ### 4.30 Triết gia không áo, không sách
 
-- Một người theo triết học mà không có áo, một người không có sách; một người thứ ba gần như trần trụi nói rằng mình không có bánh mì nhưng vẫn giữ lấy lý trí. Và ta (Marcus) cũng vậy: không có lương thực từ việc học, ta vẫn giữ lấy nó. (Bản dịch gộp thành một người, xem Lưu ý 6.)
+Trong nguyên tác có 3 triết gia: một người theo triết học mà không có áo, một người không có sách, và một người thứ ba gần như trần trụi nói rằng mình không có bánh mì nhưng vẫn trung thành với lý trí. Và Marcus nói ta cũng vậy: không có lương thực từ việc học, ta vẫn giữ lấy nó. Bản dịch gộp ba người làm một và dịch câu cuối thành "ta tồn tại trong cái toàn thể", nên lời bình của dịch giả kèm theo là một cách đọc gượng.
 
 ### 4.31 Yêu cái nghề mình học
 
-- Yêu và dựa vào cái nghề nhỏ mình đã học. Sống phần còn lại như người đã giao phó trọn lòng mọi việc của mình cho thần linh, không làm chủ nô cũng không làm nô lệ của ai.
+Hãy yêu và dựa vào cái nghề nhỏ mình đã học. Sống phần đời còn lại như người đã giao phó trọn lòng mọi việc của mình cho thần linh, không làm chủ nô của ai mà cũng không làm nô lệ của ai.
 
 ### 4.32 Thời Vespasian, thời Trajan
 
-- Nghĩ về thời Vespasian: người ta cũng cưới, nuôi con, ốm, chết, đánh trận, ăn tiệc, buôn bán, cày cấy, nịnh, khoe, nghi, mưu, mong người khác chết, kêu ca, yêu, tích của, thèm chức. Đời họ không còn gì. Thời Trajan cũng thế.
-- Nhìn qua các thời đại: bao người gắng sức rồi sớm ngã, tan thành nguyên tố.
-- Trên hết, nghĩ tới những người chính ta quen, bận rộn với việc vô ích mà bỏ việc hợp với bản tính mình, việc lẽ ra phải bám chặt và bằng lòng.
-- Then chốt: sự chú tâm dành cho mỗi việc phải tương xứng với giá trị của nó. Đừng dành cho việc nhỏ nhiều hơn nó đáng.
+Marcus đề nghị một bài tập tưởng tượng. Hãy nghĩ về thời hoàng đế Vespasian: người ta cũng cưới vợ, nuôi con, ốm đau, chết, đánh trận, ăn tiệc, buôn bán, cày cấy, nịnh bợ, khoe khoang, nghi kỵ, mưu mô, mong người khác chết, kêu ca, yêu đương, tích của, thèm chức. Đời họ giờ không còn gì. Thời Trajan cũng thế.
+
+Nhìn qua các thời đại: bao người gắng sức rồi sớm ngã xuống, tan thành nguyên tố. Trên hết, hãy nghĩ tới những người chính ta quen, bận rộn với việc vô ích mà bỏ việc hợp với bản tính mình, việc lẽ ra họ phải bám chặt và bằng lòng.
+
+Điểm then chốt của mục: sự chú tâm dành cho mỗi việc phải tương xứng với giá trị của việc ấy. Đừng dành cho việc nhỏ nhiều công sức hơn nó đáng.
 
 ### 4.33 Tên tuổi hoá cổ ngữ
 
-- Những từ thông dụng xưa nay thành cổ ngữ; tên những người lừng danh cũng vậy: Camillus, Caeso, Volesus, Dentatus, rồi Scipio và Cato, rồi Augustus, Hadrian và Antoninus. Mọi thứ phai thành truyện kể, rồi chìm hẳn.
-- Đó là những người từng rực rỡ; còn những người khác, vừa tắt thở là "không ai biết, chẳng ai hỏi đến" (chữ của Homer). Vậy tiếng thơm muôn đời là gì? Trống rỗng.
-- Vậy phải dốc sức vì điều gì? Chỉ điều này: nhận định đúng, hành động vì cộng đồng, lời nói không dối trá, và một tâm thế đón nhận mọi việc như cần thiết, quen thuộc, chảy từ cùng một nguồn.
+Những từ ngữ thông dụng ngày xưa nay đã thành cổ ngữ. Tên những người lừng danh cũng vậy, theo từng lớp thời gian:
+
+- lớp xa nhất: Camillus, Caeso, Volesus, Dentatus;
+- lớp sau: Scipio và Cato;
+- lớp gần: Augustus, Hadrian và Antoninus (bản dịch ghi nhầm là "Antonius"; đây là Antoninus Pius, cha nuôi và người tiền nhiệm của Marcus).
+
+Mọi thứ phai thành truyện kể, rồi chìm hẳn. Đó còn là những người từng rực rỡ; còn những người khác thì vừa tắt thở đã "không ai biết, chẳng ai hỏi đến", theo chữ của Homer. Vậy tiếng thơm muôn đời là gì? Là trống rỗng.
+
+Vậy phải dốc sức vì điều gì? Chỉ vì điều này: nhận định đúng, hành động vì cộng đồng, lời nói không dối trá, và một tâm thế đón nhận mọi việc xảy đến như điều cần thiết, quen thuộc, chảy ra từ cùng một nguồn như dòng nước.
 
 ### 4.34 Trao mình cho Clotho
 
-- Tự nguyện trao mình cho Clotho (một trong ba nữ thần số phận, người kéo sợi), để bà dệt sợi đời ta thành gì tuỳ ý.
+Hãy tự nguyện trao mình cho Clotho, 1 trong 3 nữ thần số phận (người kéo sợi đời), để bà dệt sợi đời ta thành bất cứ gì bà muốn.
 
 ### 4.35 Phù du
 
-- Mọi thứ chỉ tồn tại một ngày: cả người nhớ lẫn người được nhớ.
+Mọi thứ chỉ tồn tại một ngày: cả người nhớ lẫn người được nhớ.
 
 ### 4.36 Tự nhiên thích đổi thay
 
-- Luôn quan sát mọi thứ đều sinh ra từ biến đổi; tự nhiên không yêu gì hơn biến đổi cái đang có và làm cái mới giống thế. Mọi vật hiện có là hạt giống của cái sẽ ra từ nó. Đừng nghĩ hạt giống chỉ là thứ gieo xuống đất hay vào bụng mẹ: đó là cách nghĩ quá thô.
+Hãy luôn quan sát rằng mọi thứ đều sinh ra từ biến đổi. Tự nhiên không yêu gì hơn việc biến đổi cái đang có và làm ra cái mới giống như thế. Mọi vật hiện có là hạt giống của cái sẽ sinh ra từ nó. Đừng nghĩ hạt giống chỉ là thứ gieo xuống đất hay vào bụng mẹ: đó là cách nghĩ quá thô.
 
 ### 4.37 Sắp chết mà vẫn chưa xong
 
-- Sắp chết đến nơi mà vẫn chưa giản dị, chưa bình thản, vẫn còn nghĩ ngoại vật hại được mình, vẫn chưa hiền với mọi người, chưa hiểu rằng khôn ngoan chỉ là hành động công bằng.
+Một lời tự trách: sắp chết đến nơi mà ta vẫn chưa giản dị, chưa bình thản, vẫn còn nghĩ ngoại vật có thể hại mình, vẫn chưa hiền với mọi người, vẫn chưa hiểu rằng khôn ngoan chỉ là hành động công bằng.
 
 ### 4.38 Nhìn vào phần chỉ huy của người khôn
 
-- Xem xét tâm trí người khác, nhất là người khôn: họ tránh gì, theo đuổi gì.
+Hãy xem xét tâm trí người khác, nhất là người khôn ngoan: họ tránh điều gì, theo đuổi điều gì. Đó là cách học nghề sống từ người làm giỏi.
 
 ### 4.39 Cái hại nằm ở phán đoán
 
-- Điều xấu cho ta không nằm trong tâm trí người khác, cũng không trong biến đổi của thân thể hay ngoại cảnh. Nó nằm ở phần trong ta đưa ra nhận định về điều xấu. Phần ấy đừng phán xét, thì mọi chuyện ổn.
-- Dù thân xác gần nó nhất bị chém, đốt, mưng mủ, thối rữa, phần phán đoán vẫn giữ yên, tức là nhận ra: điều xảy ra cho cả người tốt lẫn kẻ xấu thì không tốt cũng không xấu; điều xảy ra cho cả người sống thuận lẫn trái tự nhiên thì không thuận cũng không trái tự nhiên.
+Điều xấu cho ta không nằm trong tâm trí người khác, cũng không nằm trong biến đổi của thân thể hay ngoại cảnh. Nó nằm ở phần trong ta đưa ra nhận định về điều xấu. Phần ấy đừng phán xét, thì mọi chuyện ổn.
+
+Marcus không nói rằng đau đớn không có thật. Ông nói: dù thân xác, thứ ở gần phần phán đoán nhất, bị chém, bị đốt, mưng mủ, thối rữa, phần phán đoán vẫn có thể giữ yên, nếu nó nhận ra hai điều:
+
+- điều xảy ra cho cả người tốt lẫn kẻ xấu thì không tốt cũng không xấu;
+- điều xảy ra cho cả người sống thuận lẫn người sống trái tự nhiên thì không thuận cũng không trái tự nhiên.
 
 ### 4.40 Vũ trụ là một sinh thể
 
-- Hãy luôn hình dung vũ trụ là một sinh thể, có một bản chất và một linh hồn; mọi thứ góp vào sự tồn tại duy nhất ấy và chuyển động cùng nhau; mọi thứ cùng sinh ra những thứ khác, xoay vần và đan quyện vào nhau.
+Hãy luôn hình dung vũ trụ là một sinh thể duy nhất, có một bản chất và một linh hồn. Mọi thứ góp vào sự tồn tại duy nhất ấy và chuyển động cùng nhau; mọi thứ cùng sinh ra những thứ khác, xoay vần và đan quyện vào nhau.
 
 ### 4.41 Epictetus
 
-- "Một mảnh linh hồn mang theo cái xác bên ngoài này": câu của Epictetus về thân phận con người.
+Một câu trích Epictetus về thân phận con người: ta là "một mảnh linh hồn mang theo cái xác bên ngoài này".
 
 ### 4.42 Biến đổi trung tính
 
-- Không có gì xấu khi trải qua biến đổi, và không có gì tốt khi là kết quả của biến đổi.
+Không có gì xấu khi trải qua biến đổi, và không có gì tốt khi là kết quả của biến đổi. Biến đổi tự nó là trung tính.
 
 ### 4.43 Dòng sông thời gian
 
-- Thời gian là dòng sông của những gì xảy ra, chảy xiết; vừa thấy một thứ thì nó đã bị cuốn đi, thứ khác đến thế chỗ và cũng sẽ bị cuốn đi.
+Thời gian là một dòng sông của những gì xảy ra, chảy xiết. Vừa thấy một thứ thì nó đã bị cuốn đi, thứ khác đến thế chỗ và rồi cũng sẽ bị cuốn đi.
 
 ### 4.44 Quen như hoa hồng mùa xuân
 
-- Mọi việc xảy đến đều quen thuộc như hoa hồng mùa xuân, trái mùa hè: bệnh tật, cái chết, lời vu khống, mưu mô, mọi thứ làm kẻ khờ vui hay giận.
+Mọi việc xảy đến đều quen thuộc như hoa hồng mùa xuân, trái cây mùa hè: bệnh tật, cái chết, lời vu khống, mưu mô, và mọi thứ làm kẻ khờ vui hay giận. Chúng không phải bất ngờ, mà là mùa vụ bình thường của đời người.
 
 ### 4.45 Trật tự logic của sự kiện
 
-- Cái đến sau luôn có liên hệ với cái đến trước. Không như một bản danh mục ngẫu nhiên mà thứ tự là tuỳ tiện, mà gắn với nhau một cách hợp lý. Như cái đang có được sắp đặt hài hoà, cái đang sinh ra cũng cho thấy một sự tương hợp kỳ diệu chứ không chỉ là nối tiếp.
+Cái đến sau luôn có liên hệ với cái đến trước. Các sự kiện không giống một bản danh mục xếp ngẫu nhiên, nơi thứ tự là tuỳ tiện, mà gắn với nhau một cách hợp lý như các bước của một lập luận. Như những gì đang có được sắp đặt hài hoà, những gì đang sinh ra cũng cho thấy một sự tương hợp kỳ diệu, chứ không chỉ đơn thuần nối tiếp nhau.
 
 ### 4.46 Năm câu Heraclitus
 
-- Đất chết thành nước, nước chết thành khí, khí thành lửa, rồi ngược lại.
-- Nhớ người quên mất con đường dẫn đi đâu.
-- Người ta xa lạ với chính cái mà họ gặp thường xuyên nhất: lý trí điều khiển toàn thể; và thấy lạ những gì họ đụng phải hằng ngày.
-- Đừng nói và làm như người ngủ (vì trong giấc ngủ ta cũng tưởng mình nói và làm).
-- Đừng như con trẻ bắt chước cha mẹ, chỉ làm theo những gì được dạy.
+Marcus ghi lại năm câu của triết gia Heraclitus để tự nhắc:
+
+1. Đất chết thành nước, nước chết thành khí, khí thành lửa, rồi theo chiều ngược lại.
+2. Hãy nhớ người quên mất con đường dẫn đi đâu.
+3. Người ta xa lạ với chính cái mà họ gặp thường xuyên nhất, tức lý trí điều khiển toàn thể; và họ thấy lạ những gì họ đụng phải hằng ngày.
+4. Đừng nói và làm như người đang ngủ (vì trong giấc ngủ ta cũng tưởng mình đang nói và làm).
+5. Đừng như con trẻ bắt chước cha mẹ, chỉ làm theo những gì được dạy mà không hiểu.
 
 ### 4.47 Mai hay mười năm nữa
 
-- Nếu một vị thần báo ta sẽ chết ngày mai hay chậm nhất ngày kia, ta sẽ không, trừ phi hèn nhát cùng cực, cãi nhau xem ngày nào, vì chênh lệch là quá nhỏ. Vậy cũng đừng coi chuyện chết sau nhiều năm hay ngày mai là khác biệt lớn.
+Một phép so sánh: nếu một vị thần báo rằng ta sẽ chết ngày mai, hay chậm nhất là ngày kia, ta sẽ không, trừ phi hèn nhát cùng cực, cãi nhau xem là ngày nào, vì chênh lệch quá nhỏ. Vậy cũng đừng coi chuyện chết sau nhiều năm nữa hay chết ngày mai là khác biệt lớn: so với thời gian vô tận, nhiều năm cũng nhỏ như một ngày.
 
 ### 4.48 Danh sách những người đã chết
 
-- Thầy thuốc chau mày bên bao giường bệnh, rồi cũng chết; nhà chiêm tinh tiên đoán cái chết của người khác, rồi chết; triết gia viết dài về cái chết và bất tử, rồi chết; chiến binh giết hàng nghìn người, rồi chết; bạo chúa dùng quyền sinh sát kiêu ngạo như mình bất tử, rồi chết. Cả thành phố cũng chết: Helike (chìm xuống biển do động đất), Pompeii, Herculaneum.
-- Nghĩ tới những người mình biết: người này chôn người kia rồi bị chôn, tất cả trong thời gian ngắn.
-- Tóm lại: đời người ngắn và rẻ; hôm qua là chút nước nhầy, mai là xác ướp hay tro.
-- Vậy hãy đi qua quãng thời gian nhỏ ấy thuận tự nhiên, và ra đi vui vẻ, như quả ô liu chín rụng, ca ngợi đất đã nuôi nó và biết ơn cây đã sinh ra nó.
+Marcus kể một danh sách giống mục 3.3 của Quyển 3, mỗi người đều chết trong chính lĩnh vực mình làm chủ:
+
+- thầy thuốc chau mày bên bao giường bệnh, rồi cũng chết;
+- nhà chiêm tinh tiên đoán cái chết của người khác, rồi chết;
+- triết gia viết dài về cái chết và sự bất tử, rồi chết;
+- chiến binh giết hàng nghìn người, rồi chết;
+- bạo chúa dùng quyền sinh sát một cách kiêu ngạo như thể mình bất tử, rồi chết;
+- cả thành phố cũng chết: Helike (chìm xuống biển do động đất), Pompeii, Herculaneum.
+
+Rồi hãy nghĩ tới những người mình biết: người này chôn người kia, rồi đến lượt mình bị chôn, tất cả trong một thời gian ngắn.
+
+Tóm lại, đời người ngắn và rẻ: hôm qua là một chút nước nhầy (nguyên tác nói thẳng là tinh dịch; bản dịch làm nhẹ thành "một giọt của sự sống"), ngày mai là xác ướp hay tro. Vậy hãy đi qua quãng thời gian nhỏ ấy thuận theo tự nhiên, và ra đi vui vẻ, như quả ô liu chín rụng, ca ngợi đất đã nuôi nó và biết ơn cây đã sinh ra nó.
 
 ### 4.49 Hòn đá giữa sóng
 
-- Hãy như mỏm đá ngoài khơi bị sóng đập không ngừng: nó đứng yên, và nước sôi sục quanh nó rồi lắng xuống.
+Hãy như mỏm đá ngoài khơi bị sóng đập không ngừng: nó đứng yên, còn nước sôi sục quanh nó rồi tự lắng xuống.
 
 ### 4.49a Không may hay may mắn?
 
-- Câu tự nhủ "thật không may điều này xảy đến với ta" phải sửa thành: thật may là nó xảy đến mà ta vẫn không đau khổ, không bị hiện tại đè bẹp, không sợ tương lai. Chuyện ấy có thể xảy ra với bất kỳ ai, nhưng không phải ai cũng chịu đựng được mà không đau khổ.
-- Vì sao gọi cái này là rủi, cái kia là may? Có thể gọi là bất hạnh cái gì không làm hỏng bản tính con người không? Có thể coi điều phù hợp với ý muốn của tự nhiên là trái tự nhiên không? Mà ý muốn ấy ta đã biết.
-- Phép thử: điều xảy ra có ngăn ta công bằng, độ lượng, tự chủ, đúng mực, cẩn trọng, trung thực, khiêm nhường, thẳng thắn, cùng các đức tính làm nên bản tính con người không? Không.
-- Nguyên tắc: khi có gì khiến ta đau, nhớ rằng nó không phải bất hạnh; chịu đựng nó cho tốt mới là may mắn.
+Câu tự nhủ "thật không may điều này xảy đến với ta" phải được sửa thành: "thật may là nó xảy đến mà ta vẫn không đau khổ, không bị hiện tại đè bẹp, không sợ tương lai". Chuyện ấy có thể xảy ra với bất kỳ ai, nhưng không phải ai cũng chịu đựng được mà không đau khổ.
+
+Marcus đặt ba câu hỏi:
+
+- Vì sao gọi cái này là rủi, cái kia là may?
+- Có thể gọi là bất hạnh một điều không làm hỏng bản tính con người không?
+- Có thể coi điều phù hợp với ý muốn của tự nhiên là trái tự nhiên không? Mà ý muốn ấy ta đã biết.
+
+Phép thử: điều xảy ra có ngăn ta công bằng, độ lượng, tự chủ, đúng mực, cẩn trọng, trung thực, khiêm nhường, thẳng thắn, cùng các đức tính làm nên bản tính con người không? Không. Vậy nó không phải bất hạnh.
+
+Nguyên tắc rút ra: khi có gì khiến ta đau, hãy nhớ rằng nó không phải bất hạnh; chịu đựng nó cho tốt mới chính là may mắn.
+
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp). Một người bị trễ chuyến bay vì kẹt xe. Câu "thật xui" đến ngay. Áp phép thử: việc trễ chuyến có ngăn người ấy cư xử tử tế với nhân viên quầy vé, trung thực khi báo lại cho đối tác, bình tĩnh tìm chuyến sau không? Không. Vậy cái cần quản lý không phải chuyến bay đã đi mất, mà là cách mình phản ứng trong vài giờ tiếp theo.
 
 ### 4.50 Thuốc chữa sợ chết
 
-- Một cách thô nhưng hiệu quả: nhớ những người bám lấy đời rất lâu. Họ được gì hơn người chết sớm? Caedicianus, Fabius, Julian, Lepidus và bao người khác: chôn nhiều người rồi bị chôn.
-- Khoảng cách thật nhỏ, và kéo nó đi qua bao gian nan, với những người như thế, trong một thân xác như thế. Đừng coi là gì cả. Nhìn vực thời gian phía sau và vô hạn phía trước: giữa đó, đứa trẻ sống ba ngày và người sống ba đời người (nguyên tác ám chỉ Nestor, người sống qua ba thế hệ trong Homer) có khác gì?
+Marcus đưa ra một cách "thô nhưng hiệu quả": nhớ tới những người bám lấy đời rất lâu. Họ được gì hơn người chết sớm? Caedicianus, Fabius, Julian, Lepidus và bao người khác: họ chôn nhiều người, rồi cũng bị chôn.
+
+Khoảng cách giữa sống lâu và chết sớm thật nhỏ, và người ta kéo nó đi qua bao gian nan, giữa những người như thế, trong một thân xác như thế. Đừng coi nó là gì cả. Hãy nhìn vực thời gian phía sau và khoảng vô hạn phía trước: giữa hai khoảng ấy, đứa trẻ sống ba ngày và người sống ba đời người có khác gì nhau? (Nguyên tác ám chỉ Nestor, nhân vật trong Homer sống qua ba thế hệ.)
 
 ### 4.51 Con đường ngắn nhất
 
-- Luôn đi đường ngắn nhất, và đường ngắn nhất là đường tự nhiên: nói và làm mọi việc theo lý lẽ lành mạnh nhất. Theo được như vậy thì thoát khỏi đau đớn mệt mỏi, toan tính và kỳ vọng.
+Luôn đi đường ngắn nhất, và đường ngắn nhất là đường tự nhiên: nói và làm mọi việc theo lý lẽ lành mạnh nhất. Theo được như vậy thì thoát khỏi đau đớn mệt mỏi, toan tính và kỳ vọng. Mục cuối nối lại với 4.24: làm điều cần, theo cách lý trí đòi hỏi, cũng chính là đường ngắn nhất.
 
 ## Luận điểm triết học cốt lõi
 

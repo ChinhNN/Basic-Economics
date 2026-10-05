@@ -156,113 +156,246 @@
 2. **Cái gì đáng làm thước đo cho mọi giá trị khác?** Phần lý trí dẫn dắt bên trong (daimon) khi nó công chính, trung thực, tự chủ, can đảm và bằng lòng với phần số. Nếu không tìm ra gì hơn nó, mọi lợi ích khác (danh, quyền, tiền, lạc thú) không được phép trở thành đối thủ cạnh tranh với nó.
 3. **Làm sao giữ được chuẩn mực ấy giữa đời thường?** Bằng kỷ luật ý nghĩ (chỉ nghĩ điều có thể nói ra), bằng phân tích mỗi sự vật thành bản chất, thành phần, thời hạn và đức hạnh tương ứng, bằng triết học luôn sẵn sàng như dao mổ, và bằng việc không phụ thuộc vào lời khen hay sự giúp đỡ của người khác.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Phần thần linh bên trong (daimon) và phần chỉ huy (hegemonikon).** Người Khắc kỷ cho rằng trong mỗi người có một phần lý trí điều khiển mọi suy nghĩ và quyết định; họ coi phần ấy là một mảnh nhỏ của lý trí chung điều hành vũ trụ, nên gọi nó là "vị thần bên trong" (daimon) hay "phần chỉ huy" (hegemonikon). Ví dụ trong quyển: ở mục 3.16, Marcus chia con người làm 3 phần (thân, hồn, trí) và nói chỉ phần trí, khi được giữ trong sạch, mới là chỗ đặt điều thiện riêng của người tốt. Khái niệm này quan trọng vì toàn bộ Quyển 3 dùng daimon làm thước đo cho mọi giá trị khác: cái gì làm vẩn đục nó thì không phải lợi ích, dù là tiền hay danh.
+
+**Đức hạnh và bốn đức chính (aretē).** Đức hạnh là phẩm chất tốt của tâm trí, thứ duy nhất mà người Khắc kỷ gọi là "thiện" theo nghĩa chặt. Họ kể 4 đức chính: công lý, trung thực (hay khôn ngoan), tự chủ và can đảm. Ví dụ trong quyển: phép thử ở mục 3.6 hỏi đúng bốn đức này: trong đời có thứ gì tốt hơn công lý, trung thực, tự chủ, can đảm hay không. Khái niệm này quan trọng vì Marcus dùng nó làm điểm chuẩn: nếu không tìm ra gì hơn bốn đức ấy, thì danh, quyền, tiền, lạc thú không được đứng ngang hàng.
+
+**Những thứ trung tính (adiaphora).** Là những thứ tự chúng không tốt cũng không xấu: sức khoẻ, tiền bạc, danh tiếng, quyền lực, thậm chí cái chết. Người ta có thể ưa thứ này hơn thứ kia, nhưng có chúng không làm ai tốt hơn và mất chúng không làm ai xấu đi. Ví dụ minh hoạ: hai người cùng có 1 tỷ đồng, một người dùng để giúp người, một người dùng để lừa người; số tiền như nhau, còn điều tốt hay xấu nằm ở cách dùng, tức ở tâm trí. Khái niệm này quan trọng vì ở mục 3.11 Marcus nhắc phải "định giá đúng mức" những thứ trung tính, và ở mục 3.6 ông không cho chúng cạnh tranh với đức hạnh.
+
+**Ấn tượng (phantasia) và sự chấp thuận (synkatathesis).** Ấn tượng là hình ảnh hay ý nghĩ tự hiện ra trong đầu khi ta gặp một sự việc, ví dụ "người kia đang xúc phạm mình". Sự chấp thuận là bước ta đồng ý rằng ấn tượng ấy đúng và đáng phản ứng. Theo người Khắc kỷ, ấn tượng đến ngoài ý muốn, còn chấp thuận hay không là việc thuộc quyền ta. Ví dụ minh hoạ: nhận một tin nhắn cộc lốc, ấn tượng đầu tiên là "họ coi thường mình"; dừng lại 10 giây để hỏi "có cách hiểu nào khác không" chính là giữ quyền chấp thuận. Khái niệm này quan trọng vì nó giải thích vì sao ở mục 3.9 Marcus coi năng lực phán đoán là thứ duy nhất ngăn ý kiến sai lọt vào tâm trí.
+
+**Bổn phận (kathēkon).** Là việc thích đáng phải làm ở vị trí của mình: làm cha, làm công dân, làm hoàng đế, mỗi vai có việc thích đáng riêng. Ví dụ trong quyển: ở mục 3.1, việc "xét bổn phận của mình" được kể là một trong 3 việc chỉ trí óc lành mạnh mới làm được (cùng với cân nhắc điều nghe thấy và quyết định lúc nào nên dừng). Khái niệm này quan trọng vì ở mục 3.16 Marcus chỉ ra rằng kẻ phản quốc cũng dùng trí óc để theo điều nó **tưởng** là bổn phận; vậy dùng trí óc thôi chưa đủ, phải dùng nó đúng.
+
+**Sống thuận tự nhiên (physis, logos).** Với người Khắc kỷ, "tự nhiên" của con người là lý trí và tính sống thành cộng đồng; sống thuận tự nhiên nghĩa là sống theo lý trí và vì cộng đồng, đồng thời chấp nhận trật tự chung của vũ trụ. Ví dụ trong quyển: mục 3.4 nói người tốt chỉ coi trọng ý kiến của những ai "sống thuận tự nhiên", còn mục 3.11 nói ta đối xử với người lầm lỗi "theo luật tự nhiên của tình đồng loại", tức tử tế và công bằng. Khái niệm này quan trọng vì nó là tiêu chuẩn Marcus dùng để phân biệt lời khen đáng nghe với lời khen vô giá trị.
+
+**Thành phố của vũ trụ (kosmopolis).** Ý tưởng rằng mọi sinh vật có lý trí đều là công dân của một thành phố chung là cả thế giới, còn các thành phố cụ thể chỉ như những hộ gia đình trong đó. Ví dụ trong quyển: mục 3.11 gọi con người là công dân của "thành phố tối cao" ấy. Khái niệm này quan trọng vì nó giải thích vì sao một hoàng đế La Mã lại nói mọi sinh vật lý trí là họ hàng của mình (3.4) và phải đối xử tử tế cả với người không hiểu điều đúng.
+
+## Nội dung chi tiết
+
+*Suy tưởng không chia chủ đề, chỉ có các mục đánh số từ 3.1 đến 3.16. Phần dưới đây đi theo đúng thứ tự các mục.*
 
 ### 3.1 Trí tuệ có thể chết trước thân xác
 
-- Không chỉ đời ngắn đi mỗi ngày; nếu sống lâu hơn, không gì bảo đảm trí óc vẫn đủ sức hiểu thế giới và suy xét chuyện thần linh, con người.
-- Marcus phân biệt hai tầng: các chức năng sinh học (thở, ăn, tưởng tượng, có thôi thúc) có thể vẫn còn khi trí óc đã lú lẫn; nhưng những việc làm nên đời sống đầy đủ (xét bổn phận của mình, cân nhắc điều nghe thấy, quyết định lúc nào nên dừng lại) đòi hỏi một trí óc lành mạnh.
-- Kết luận: phải khẩn trương, vì hai lý do cộng dồn: cái chết đến gần mỗi ngày, và sự hiểu biết (cách ta gắn với thế giới và có ích trong đó) có thể ra đi sớm hơn.
-- Việc quyết định lúc nào dừng lại trong bối cảnh Khắc kỷ có thể bao gồm cả quyết định rời bỏ cuộc đời khi không còn sống đúng được nữa; người lú lẫn thì mất cả khả năng chọn ấy.
+Marcus mở Quyển 3 bằng một nỗi lo khác thường. Ai cũng biết mỗi ngày trôi qua thì quãng đời còn lại ngắn đi một ngày. Nhưng ông nêu thêm một mối nguy lớn hơn: nếu ta sống lâu hơn, không có gì bảo đảm trí óc vẫn đủ sức hiểu thế giới và suy xét những chuyện thuộc thần linh và con người.
+
+Để làm rõ, ông tách đời sống thành hai tầng:
+
+| Tầng | Gồm những gì | Còn hay mất khi trí óc lú lẫn |
+|---|---|---|
+| Chức năng sinh học | thở, ăn uống, tưởng tượng, có thôi thúc muốn làm gì đó | vẫn còn |
+| Chức năng lý trí | xét bổn phận của mình, cân nhắc điều nghe và thấy, quyết định lúc nào nên dừng lại | mất, vì cần một trí óc lành mạnh |
+
+Người lú lẫn vẫn sống theo nghĩa sinh học, nhưng đã mất những việc làm nên một đời sống đầy đủ. Từ đó Marcus kết luận rằng phải khẩn trương, vì hai lý do cộng dồn: cái chết đến gần hơn mỗi ngày, và sự hiểu biết, tức cách ta gắn với thế giới và có ích trong đó, có thể ra đi sớm hơn cả cái chết.
+
+Vế "quyết định lúc nào nên dừng lại" cần đọc trong bối cảnh Khắc kỷ: nó có thể bao gồm cả quyết định rời bỏ cuộc đời khi không còn sống đúng được nữa. Người đã lú lẫn thì mất luôn cả khả năng lựa chọn ấy. Vì vậy với Marcus, trí tuệ suy tàn là một kiểu chết sớm.
 
 ### 3.2 Cái đẹp của những sản phẩm phụ trong tự nhiên
 
-- Ngay cả những thứ tự nhiên tạo ra ngoài chủ ý cũng có sức quyến rũ: vết nứt trên vỏ bánh mì khi nướng, không ai định làm ra nhưng làm ta thèm ăn; quả vả chín nứt; ô liu sắp rụng, dấu hiệu của sự hư hoại lại cho nó vẻ đẹp riêng; bông lúa trĩu xuống; nếp nhăn trên trán sư tử; bọt mép lợn rừng.
-- Tách riêng ra thì chúng chẳng đẹp; nhưng vì chúng đi kèm quá trình tự nhiên, chúng góp phần vào cái toàn thể và trở nên hấp dẫn với người biết nhìn.
-- Người thực sự gần gũi và hiểu tự nhiên sẽ thấy hàm thú dữ thật cũng đẹp như tranh tượng, thấy nét đẹp riêng của người già và vẻ đáng yêu của trẻ nhỏ bằng con mắt trong sạch; những điều này người thường bỏ qua.
-- Ý triết học: trong một vũ trụ có trật tự, ngay cái "phụ" và cái "đang tàn" cũng thuộc về thiết kế chung; nhận ra chúng là một cách tập nhìn toàn thể.
+Giữa những lời tự răn nghiêm khắc, mục này là một quan sát thẩm mỹ. Marcus nói ngay cả những thứ tự nhiên tạo ra ngoài chủ ý cũng có sức quyến rũ riêng. Ông kể một loạt ví dụ:
+
+- vết nứt trên vỏ bánh mì khi nướng: không ai định làm ra nó, nhưng nó làm ta thèm ăn;
+- quả vả chín nứt ra;
+- quả ô liu sắp rụng, khi dấu hiệu của sự hư hoại lại cho nó một vẻ đẹp lạ;
+- bông lúa trĩu cong xuống vì sức nặng của chính nó;
+- nếp nhăn trên trán con sư tử;
+- bọt trắng bên mép con lợn rừng.
+
+Tách riêng ra thì những thứ ấy chẳng đẹp gì. Nhưng vì chúng đi kèm các quá trình tự nhiên, chúng góp phần vào cái toàn thể và trở nên hấp dẫn với người biết nhìn. Người thật sự gần gũi và hiểu tự nhiên sẽ thấy hàm của thú dữ còn sống cũng đẹp như tranh tượng, sẽ thấy nét đẹp riêng của người già, đàn ông lẫn đàn bà, và vẻ đáng yêu của trẻ nhỏ bằng một con mắt trong sạch. Người thường thì bỏ qua những điều này.
+
+Ý triết học phía sau: trong một vũ trụ có trật tự, ngay cái "phụ" và cái "đang tàn" cũng thuộc về thiết kế chung. Tập nhận ra vẻ đẹp của chúng là một cách tập nhìn cái toàn thể thay vì chỉ nhìn từng mảnh.
 
 ### 3.3 Người vĩ đại cũng chết
 
-- Danh sách đối xứng: thầy thuốc Hippocrates chữa vô số người rồi tự ốm chết; các nhà chiêm tinh Chaldea (bản dịch giữ chữ "Chaldaeans"; người Chaldea ở Lưỡng Hà nổi tiếng về chiêm tinh, nên thời La Mã tên này dùng chung cho các thầy bói, thầy chiêm tinh) báo trước cái chết của bao người rồi đến lượt mình; Alexander, Pompey, Caesar san phẳng thành trì, giết hàng nghìn người ngựa, rồi cũng chết.
-- Mỉa mai trong cái chết của triết gia: Heraclitus dạy rằng vũ trụ sẽ kết thúc trong lửa, nhưng lại chết vì chất ẩm, nước (truyền thống kể là bệnh phù thũng), người trát đầy phân bò; Democritus chết vì chấy rận; Socrates bị sâu bọ loại khác, là con người, giết.
-- Vậy thì sao? Hình ảnh hải trình: đã lên tàu, đã đi hết, đến lúc lên bờ.
-- Lập luận hai nhánh về cái chết (thường gặp ở Marcus): nếu là sang một đời khác, thần linh có mặt khắp nơi, cả bên kia; nếu là mất hết cảm giác, ta thôi phải chịu khổ và vui, thôi phải làm đầy tớ cho cái vỏ thân xác, thứ thấp kém hơn nhiều so với phần nó phục vụ. Một bên là trí và thần, bên kia là đất và máu me.
+Marcus đưa ra một danh sách được sắp đối xứng có chủ ý: mỗi người đều bị chính cái mình giỏi nhất "trả đũa".
+
+| Người | Điều họ làm hay dạy | Kết cục |
+|---|---|---|
+| Hippocrates, thầy thuốc | chữa bệnh cho vô số người | tự ốm rồi chết |
+| Các nhà chiêm tinh Chaldea | báo trước ngày chết của bao người | rồi cũng đến lượt mình |
+| Alexander, Pompey, Caesar | san phẳng thành trì, giết hàng nghìn người và ngựa | rồi cũng chết |
+| Heraclitus | dạy rằng vũ trụ sẽ kết thúc trong lửa | chết vì chất ẩm, nước (truyền thống kể là bệnh phù thũng), người trát đầy phân bò |
+| Democritus | | chết vì chấy rận |
+| Socrates | | bị một loại "sâu bọ" khác giết, tức là con người |
+
+Về chữ "Chaldea": bản dịch giữ chữ "Chaldaeans". Người Chaldea ở vùng Lưỡng Hà nổi tiếng về chiêm tinh, nên thời La Mã tên này được dùng chung để chỉ các thầy bói, thầy chiêm tinh. Cái chết của Socrates là một câu châm biếm: chấy rận giết Democritus, còn "sâu bọ" giết Socrates là chính con người, những người đã kết án ông.
+
+Vậy thì sao? Marcus trả lời bằng hình ảnh một chuyến đi biển: ta đã lên tàu, đã đi hết hải trình, đã đến lúc lên bờ.
+
+Tiếp theo là một lập luận hai nhánh về cái chết mà Marcus dùng nhiều lần trong cả tác phẩm:
+
+- Nếu chết là sang một đời khác, thì thần linh có mặt khắp nơi, cả ở bên ấy, nên không có gì phải sợ.
+- Nếu chết là mất hết cảm giác, thì ta thôi phải chịu đau và chịu cả khoái lạc, thôi phải làm đầy tớ cho cái vỏ thân xác, thứ thấp kém hơn nhiều so với phần tâm trí vốn bị buộc phải phục vụ nó. Một bên là trí và thần linh, bên kia là đất và máu me.
+
+Nhánh nào thì cái chết cũng không phải điều đáng sợ. Điều đáng sợ, như mục 3.1 đã nói, là sống mà mất trí tuệ.
 
 ### 3.4 Lọc ý nghĩ, và chân dung người tư tế của thần linh
 
-- Đừng phí phần đời còn lại vào việc bận tâm người khác làm gì, nói gì, nghĩ gì, toan tính gì, trừ khi việc đó liên quan lợi ích chung. Bận tâm như thế lấy mất cơ hội làm việc có ích và làm ta xao nhãng khỏi việc canh giữ tâm trí mình.
-- Phép thử ý nghĩ: tập chỉ nghĩ những điều mà nếu ai bất chợt hỏi "Ngài đang nghĩ gì vậy?", ta có thể trả lời thật ngay lập tức, và câu trả lời cho thấy một người thẳng thắn, tử tế, không mơ tưởng khoái lạc, không ganh đua, đố kỵ, nghi ngờ hay bất cứ điều gì đáng xấu hổ nếu bị nhìn thấy.
-- Người như vậy, không trì hoãn việc trở thành người tốt nhất, là một kiểu tư tế và người phụng sự thần linh, dùng đúng phần thần linh đặt trong mình. Phần ấy khiến người không bị lạc thú làm vẩn đục, không bị đau đớn làm tổn thương, không bị kiêu căng chạm đến, không vướng điều xấu.
-- Hình ảnh lực sĩ: anh ta đấu cuộc đấu cao quý nhất, là không để bất cứ đam mê nào vật ngã. Hình ảnh nhuộm vải: được nhuộm thấm tận lõi trong công lý.
-- Anh ta đón nhận trọn lòng mọi điều được chia, ít khi và chỉ vì lợi ích chung mới bận tâm người khác nói gì làm gì. Anh chỉ chăm lo việc của mình và phần mà toàn thể giao cho mình, làm việc ấy cho tốt và tin rằng phần ấy là tốt, vì phần số mỗi người mang theo nó và nó cũng mang ta theo.
-- Anh nhớ rằng mọi sinh vật lý trí là họ hàng, và quan tâm tới mọi người là thuận theo bản tính con người. Nhưng không vì thế mà nghe theo ý kiến của tất cả; chỉ ý kiến của những ai sống thuận tự nhiên. Với những người khác, anh nhớ họ sống thế nào ở nhà, ngoài phố, ngày đêm, với ai; lời khen của những người còn không làm hài lòng chính mình thì chẳng đáng gì.
+Mục này dài và có hai phần: một quy tắc về ý nghĩ, rồi một chân dung người tốt.
+
+**Quy tắc về ý nghĩ.** Đừng phí phần đời còn lại vào việc bận tâm người khác làm gì, nói gì, nghĩ gì, toan tính gì, trừ khi việc đó liên quan đến lợi ích chung. Bận tâm như vậy lấy mất cơ hội làm việc có ích và kéo ta xao nhãng khỏi việc canh giữ tâm trí mình. Marcus đề ra một phép thử: hãy tập chỉ nghĩ những điều mà nếu có ai bất chợt hỏi "Ngài đang nghĩ gì vậy?", ta có thể trả lời thật ngay lập tức. Câu trả lời ấy phải cho thấy một người thẳng thắn, tử tế, không mơ tưởng khoái lạc, không ganh đua, đố kỵ, nghi ngờ, và không có gì đáng xấu hổ nếu bị người khác nhìn thấy. Những ý nghĩ vu vơ, tò mò chuyện người, ghen tị, vu khống, hiểm độc đều bị loại.
+
+**Chân dung người tốt.** Người sống như vậy, không trì hoãn việc trở thành người tốt nhất, được Marcus ví với:
+
+- **người tư tế** phụng sự thần linh, vì anh dùng đúng phần thần linh đặt trong mình. Phần ấy giữ cho anh không bị lạc thú làm vẩn đục, không bị đau đớn làm tổn thương, không bị kiêu căng chạm tới, không vướng điều xấu;
+- **người lực sĩ** đấu cuộc đấu cao quý nhất: không để bất cứ đam mê nào vật ngã mình;
+- **tấm vải nhuộm sâu**: công lý thấm vào anh tận lõi chứ không chỉ phủ bên ngoài.
+
+Anh đón nhận trọn lòng mọi điều được chia cho mình, và chỉ thỉnh thoảng, vì lợi ích chung, mới bận tâm người khác nói gì làm gì. Anh chăm lo việc của mình và phần mà toàn thể giao cho mình, làm việc ấy cho tốt và tin rằng phần ấy là tốt, vì phần số mỗi người mang theo nó, và nó cũng mang ta theo.
+
+Anh nhớ rằng mọi sinh vật có lý trí đều là họ hàng, và quan tâm tới mọi người là đúng bản tính con người. Nhưng quan tâm không có nghĩa là nghe theo ý kiến của tất cả. Anh chỉ coi trọng ý kiến của những ai sống thuận tự nhiên. Với những người khác, anh nhớ họ sống thế nào ở nhà, ngoài phố, ngày cũng như đêm, giao du với ai. Lời khen của những người còn không làm hài lòng được chính mình thì chẳng đáng gì.
 
 ### 3.5 Quy tắc hành xử
 
+Mục này là một danh sách ngắn các quy tắc, gần như một bản tự kiểm của người cầm quyền:
+
 - Hành động không miễn cưỡng, không vì lợi riêng, không thiếu suy xét, không chần chừ hai lòng.
-- Không tô vẽ ý nghĩ cho bóng bẩy; không nói thừa, không làm việc không cần.
-- Để vị thần bên trong làm chủ một con người đàn ông trưởng thành, một công dân, một người La Mã, một nhà cai trị, đứng ở vị trí của mình như người lính chờ hiệu lệnh rút khỏi đời, không cần thề thốt, không cần ai làm chứng.
+- Không tô vẽ ý nghĩ cho bóng bẩy; không nói lời thừa, không làm việc không cần.
+- Để vị thần bên trong làm chủ một con người trưởng thành, một công dân, một người La Mã, một nhà cai trị. Người ấy đứng ở vị trí của mình như người lính giữ chốt, sẵn sàng chờ hiệu lệnh rút khỏi đời, không cần thề thốt, không cần ai làm chứng.
 - Vui vẻ, không cần người khác giúp, không cần ai ban cho sự bình yên.
-- Đứng thẳng bằng sức mình, chứ không phải được người khác dựng cho thẳng.
+- Đứng thẳng bằng sức mình, chứ không phải được người khác nắn cho thẳng.
+
+Câu cuối là điểm mấu chốt: chuẩn mực phải đến từ bên trong. Người cần giám sát, lời thề hay nhân chứng mới giữ được đúng mực thì chưa thật sự đứng thẳng.
 
 ### 3.6 Phép thử tối thượng: có gì tốt hơn đức hạnh?
 
-- Nếu trong đời ta tìm được thứ gì tốt hơn công lý, trung thực, tự chủ, can đảm, tức tốt hơn một tâm trí bằng lòng với việc mình làm theo lý trí và bằng lòng với phần số ngoài tầm kiểm soát, thì hãy theo nó hết lòng và hưởng lấy nó.
-- Còn nếu không có gì hơn được phần thần linh bên trong (cái đã khuất phục các thôi thúc riêng, sàng lọc các ấn tượng, như Socrates nói, đã tự tách khỏi sự lôi kéo của giác quan, quy phục thần linh và quan tâm tới con người), nếu mọi thứ khác đều nhỏ hơn nó, thì không được nhường chỗ cho thứ nào khác.
-- Lý do: một khi đã nghiêng về thứ khác, ta không còn toàn tâm cho điều thiện riêng của mình được nữa. Không được để bất cứ gì khác loại (lời khen đám đông, quyền lực, giàu có, khoái lạc) cạnh tranh với điều thiện của lý trí và của đời sống công dân. Chúng có vẻ dung hoà được trong chốc lát, rồi bất ngờ chiếm quyền và cuốn ta đi.
-- Vậy chọn một lần cho dứt khoát, cái tốt hơn, và giữ lấy.
-- Đối thoại giả định: nhưng cái tốt nhất là cái có lợi cho ta. Có lợi cho ta với tư cách sinh vật lý trí? Thì theo đó. Hay chỉ với tư cách con vật? Thì nói rõ ra và giữ quan điểm ấy một cách trung thực, nhưng phải xét kỹ đã.
-- Đây là lập luận về **tính không thể so sánh** của giá trị: đức hạnh không phải một món hàng trong giỏ để đánh đổi với danh và tiền, mà là thước đo.
+Đây là mục trung tâm của Quyển 3. Marcus đặt ra một phép thử có hai nhánh:
+
+- **Nếu có:** nếu trong đời ta tìm được thứ gì tốt hơn công lý, trung thực, tự chủ, can đảm, tức tốt hơn một tâm trí bằng lòng với việc mình làm theo lý trí (những việc thuộc quyền nó) và bằng lòng với phần số ngoài tầm kiểm soát, thì hãy theo thứ đó hết lòng và hưởng lấy nó, vì nó hẳn phải phi thường.
+- **Nếu không:** nếu không có gì hơn được phần thần linh bên trong, thì không được nhường chỗ cho thứ nào khác. Phần thần linh ấy được mô tả là cái đã khuất phục các thôi thúc riêng, biết sàng lọc các ấn tượng, và như Socrates nói, đã tự tách khỏi sự lôi kéo của giác quan, quy phục thần linh và quan tâm tới con người. Nếu mọi thứ khác đều nhỏ hơn nó, nó phải đứng một mình ở vị trí cao nhất.
+
+Lý do Marcus không cho phép "dung hoà": một khi đã nghiêng về thứ khác, ta không còn toàn tâm cho điều thiện riêng của mình được nữa. Những thứ khác loại, như lời khen của đám đông, quyền lực, giàu có, khoái lạc, không được phép cạnh tranh với điều thiện của lý trí và của đời sống công dân. Chúng có vẻ dung hoà được trong chốc lát, rồi bất ngờ chiếm quyền và cuốn ta đi. Vì vậy phải chọn một lần, dứt khoát, chọn cái tốt hơn, và giữ lấy.
+
+Marcus còn tự dựng một cuộc đối thoại để chặn lời phản bác. Có người nói: nhưng cái tốt nhất là cái có lợi cho ta. Ông hỏi lại: có lợi cho ta với tư cách sinh vật có lý trí? Nếu vậy thì cứ theo nó. Hay chỉ có lợi cho ta với tư cách một con vật? Nếu vậy thì hãy nói rõ ra và giữ quan điểm ấy một cách trung thực, nhưng phải xét kỹ trước đã.
+
+Về mặt triết học, đây là lập luận về **tính không thể so sánh** của giá trị: đức hạnh không phải một món hàng trong giỏ để đem đổi lấy danh và tiền, mà là cái thước dùng để đo mọi món hàng khác.
 
 ### 3.7 Những gì không bao giờ được coi là có lợi
 
-- Không coi là có lợi bất cứ điều gì buộc ta phản bội sự thật, đánh mất cảm giác hổ thẹn, căm ghét, nghi ngờ, ác tâm, đạo đức giả, hay thèm muốn những điều chỉ dám làm sau cánh cửa đóng kín.
-- Ai đặt lên trên hết trí tuệ và phần thần linh của mình cùng việc thờ phụng nó thì tránh được những cơn xúc động mạnh và những tiếng than vãn nghiến răng, không cần cô độc cũng không cần đám đông. Trên hết, người ấy sống không đuổi theo cũng không chạy trốn điều gì.
-- Linh hồn còn ở trong thân bao lâu, dài hay ngắn, người ấy không bận tâm; nếu phải ra đi ngay, sẽ đi nhẹ nhàng như làm bất cứ việc gì khác cho đàng hoàng, đứng đắn. Suốt đời chỉ lo một điều: tâm trí luôn ở trạng thái xứng với một sinh vật lý trí và sống trong cộng đồng.
+Mục 3.7 là phép thử ngược của mục 3.6. Thay vì hỏi cái gì tốt nhất, nó liệt kê những gì không bao giờ được coi là có lợi: bất cứ điều gì buộc ta phản bội sự thật, đánh mất cảm giác hổ thẹn, căm ghét, nghi ngờ, ác tâm, đạo đức giả, hay thèm muốn những điều chỉ dám làm sau cánh cửa đóng kín.
+
+Người đặt lên trên hết trí tuệ và phần thần linh của mình, cùng việc tôn thờ nó, sẽ được ba điều:
+
+- tránh được những cơn xúc động mạnh và những tiếng than vãn nghiến răng;
+- không cần cô độc mà cũng không cần đám đông;
+- trên hết, sống không đuổi theo cũng không chạy trốn điều gì.
+
+Linh hồn còn ở trong thân bao lâu, dài hay ngắn, người ấy không bận tâm. Nếu phải ra đi ngay bây giờ, người ấy sẽ đi nhẹ nhàng, như làm bất cứ việc gì khác cho đàng hoàng, đứng đắn. Suốt đời người ấy chỉ lo một điều: giữ cho tâm trí luôn ở trạng thái xứng với một sinh vật có lý trí và sống trong cộng đồng.
 
 ### 3.8 Tâm trí đã được chữa lành
 
-- Hình ảnh y học: tâm trí của người đã được rèn và thanh lọc không có mủ, không có bẩn, không có vết thương che vảy (dịch giả đọc là: không tự mục ruỗng bên trong, không để cái bên ngoài xâm nhập, không còn vết thương chưa lành).
-- Đời người như thế không dở dang khi số phận cắt ngang, khác với diễn viên rời sân khấu trước khi vở kết thúc: vì đời họ đã trọn trong từng lúc.
-- Ba cặp phủ định cân bằng: không nô lệ cũng không hống hách, không khúm núm cũng không khinh người, không có gì phải bào chữa, không có gì phải giấu.
+Marcus dùng một hình ảnh y học. Tâm trí của người đã được rèn luyện và thanh lọc giống một vết thương đã lành sạch: không có mủ, không có chỗ bẩn, không có vết thương bị vảy che bên trên mà bên dưới vẫn mưng. Dịch giả đọc ba hình ảnh này là: không tự mục ruỗng bên trong, không để cái bên ngoài xâm nhập, không còn vết thương chưa lành.
+
+Đời của một người như vậy không bao giờ dở dang, dù số phận cắt ngang bất ngờ. Marcus đối lập nó với người diễn viên phải rời sân khấu khi vở kịch chưa hết: diễn viên bị cắt ngang thì vai diễn hỏng, còn người có tâm trí lành thì đời đã trọn vẹn trong từng lúc, nên dừng ở lúc nào cũng là trọn.
+
+Mục này kết bằng ba cặp phủ định cân bằng, mỗi cặp tránh hai thái cực:
+
+| Không thế này | Cũng không thế kia |
+|---|---|
+| không nô lệ | không hống hách |
+| không khúm núm | không khinh người |
+| không có gì phải bào chữa | không có gì phải giấu |
 
 ### 3.9 Tôn trọng năng lực phán đoán
 
-- Hãy quý năng lực hình thành nhận định của mình. Nó là thứ duy nhất ngăn những ý kiến trái với tự nhiên và với cấu trúc của sinh vật lý trí lọt vào phần dẫn dắt.
-- Nó đem lại ba điều: sự thận trọng trong phán đoán, tình thân với con người, và sự vâng theo thần linh.
+Hãy quý trọng năng lực hình thành nhận định của mình. Theo Marcus, đó là thứ duy nhất đứng gác để những ý kiến trái với tự nhiên và trái với cấu trúc của một sinh vật có lý trí không lọt được vào phần dẫn dắt.
+
+Năng lực ấy đem lại ba điều: sự thận trọng trong phán đoán, tình thân với con người, và sự vâng theo thần linh. Mục này ngắn nhưng là nền cho cả quyển: nếu phán đoán bị hỏng thì mọi phép thử khác (lọc ý nghĩ ở 3.4, so sánh với đức hạnh ở 3.6, phân tích sự vật ở 3.11) đều không vận hành được.
 
 ### 3.10 Chỉ hiện tại là của ta
 
-- Gạt mọi thứ khác, giữ một điều: mỗi người chỉ sống trong khoảnh khắc hiện tại; phần còn lại hoặc đã sống xong hoặc chưa biết.
-- Đời người nhỏ, góc đất người ta sống nhỏ, và danh tiếng lâu dài nhất cũng nhỏ: nó được truyền qua một chuỗi những người cũng sắp chết, chẳng hiểu chính mình, nói gì đến người chết từ lâu.
+Gạt mọi thứ khác sang một bên, chỉ giữ một điều: mỗi người chỉ sống trong khoảnh khắc hiện tại, ngắn ngủi. Phần còn lại hoặc đã sống xong, hoặc chưa biết sẽ ra sao.
+
+Marcus kể ba cái "nhỏ": đời người nhỏ; góc đất nơi người ta sống nhỏ; và ngay cả danh tiếng lâu dài nhất cũng nhỏ. Lý do danh tiếng nhỏ: nó được truyền đi qua một chuỗi những người cũng sắp chết, những người còn chưa hiểu nổi chính mình, nói gì đến hiểu người đã chết từ lâu. Mục này nối với 3.1 và 3.14: chính vì chỉ có hiện tại là của ta, nên trì hoãn là đánh mất thứ duy nhất ta có.
 
 ### 3.11 Phương pháp phân tích một sự vật
 
-- Bổ sung cho các nguyên tắc trên: với mỗi thứ hiện ra trong tâm trí, hãy định nghĩa hoặc mô tả nó để thấy rõ nó là gì, trần trụi, nguyên khối, lột hết vẻ ngoài; gọi đúng tên nó và tên các thành phần mà nó sẽ tan rã về.
-- Không gì nâng tầm tâm hồn bằng khả năng xem xét có phương pháp và đúng đắn mọi điều xảy ra: thấy nó phục vụ gì, trong một thế giới thế nào, có giá trị gì đối với toàn thể và đối với con người, công dân của thành phố tối cao mà các thành phố khác chỉ như những hộ gia đình.
-- Bốn câu hỏi: nó là gì; làm bằng gì; tự nhiên định cho nó tồn tại bao lâu; ta cần đức hạnh nào để đối diện với nó (hiền hoà, can đảm, trung thực, đáng tin, thẳng thắn, tự lập...).
-- Phân loại nguồn gốc: cái này do thần linh; cái này do mạng lưới số phận, sự trùng hợp, may rủi; cái này do một con người, đồng loại, họ hàng, bạn đồng hành nhưng không biết điều gì hợp với tự nhiên của mình. Ta thì biết, nên sẽ đối xử với anh ta theo luật tự nhiên của tình đồng loại: tử tế và công bằng.
-- Với những thứ trung tính (không tốt không xấu), cố gắng định giá chúng đúng mức của chúng.
+Mục này bổ sung cho các nguyên tắc trước bằng một phương pháp cụ thể. Với mỗi thứ hiện ra trong tâm trí, hãy định nghĩa hoặc mô tả nó để thấy rõ nó là gì: trần trụi, nguyên khối, lột hết vẻ ngoài. Hãy gọi đúng tên nó và tên các thành phần mà nó sẽ tan rã về khi hết thời hạn.
+
+Marcus nói không gì nâng tầm tâm hồn bằng khả năng xem xét có phương pháp và đúng đắn mọi điều xảy đến: thấy nó phục vụ việc gì, trong một thế giới như thế nào, có giá trị gì đối với toàn thể và đối với con người, mà con người lại là công dân của thành phố tối cao, nơi các thành phố khác chỉ như những hộ gia đình.
+
+Phương pháp gồm bốn câu hỏi:
+
+| Câu hỏi | Ý nghĩa |
+|---|---|
+| Nó là gì? | định nghĩa, lột vỏ đánh giá |
+| Nó làm bằng gì? | các thành phần, những thứ nó sẽ tan rã về |
+| Tự nhiên định cho nó tồn tại bao lâu? | thời hạn, để không coi nó là vĩnh cửu |
+| Ta cần đức hạnh nào để đối diện với nó? | hiền hoà, can đảm, trung thực, đáng tin, thẳng thắn, tự lập... |
+
+Sau đó phân loại nguồn gốc của sự việc:
+
+- cái này do thần linh;
+- cái này do mạng lưới số phận, sự trùng hợp, may rủi;
+- cái này do một con người: một đồng loại, họ hàng, bạn đồng hành, nhưng là người không biết điều gì hợp với tự nhiên của mình. Ta thì biết, nên ta sẽ đối xử với người ấy theo luật tự nhiên của tình đồng loại: tử tế và công bằng.
+
+Cuối cùng, với những thứ trung tính (không tốt không xấu), hãy cố định giá chúng đúng mức của chúng, không đề cao cũng không coi thường.
+
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp). Một người bị sếp phê bình trước cuộc họp. Áp bốn câu hỏi: nó là gì (vài câu nói trong khoảng 2 phút); làm bằng gì (lời nói, giọng điệu, cộng thêm phần diễn giải "mình bị coi thường" do chính mình thêm vào); tồn tại bao lâu (cuộc họp kết thúc là hết, chỉ còn trong trí nhớ nếu ta giữ nó lại); cần đức hạnh nào (bình tĩnh để nghe phần đúng, trung thực để nhận lỗi nếu có, can đảm để trao đổi lại nếu sai). Lột vỏ xong, sự việc nhỏ hơn hẳn cảm giác ban đầu.
 
 ### 3.12 Công thức của hạnh phúc
 
-- Nếu làm việc trước mắt có nguyên tắc, cẩn thận, nhiệt thành và kiên nhẫn, không để việc phụ chen vào, giữ phần thần linh trong sạch như thể phải trả lại nó ngay bây giờ;
-- nếu bám vào đó mà không mong gì, không né gì, bằng lòng với hành động thuận tự nhiên trong hiện tại và sự trung thực tuyệt đối trong lời nói, thì ta sẽ sống tốt. Và không ai ngăn được điều ấy.
-- Điểm then chốt là câu "Không ai có thể ngăn cản được điều ấy": hạnh phúc được định nghĩa bằng những thứ hoàn toàn thuộc quyền ta.
+Marcus đưa ra một câu điều kiện dài, có thể tách thành các vế:
+
+- nếu làm việc trước mắt có nguyên tắc, cẩn thận, nhiệt thành và kiên nhẫn;
+- không để việc phụ chen vào;
+- giữ phần thần linh trong sạch như thể phải trả lại nó ngay bây giờ;
+- bám vào đó mà không mong gì, không né gì;
+- bằng lòng với hành động thuận tự nhiên trong hiện tại và với sự trung thực tuyệt đối trong lời nói,
+
+thì ta sẽ sống tốt. Và không ai có thể ngăn cản được điều ấy.
+
+Câu "Không ai có thể ngăn cản được điều ấy" là điểm then chốt. Mọi điều kiện trong danh sách đều hoàn toàn thuộc quyền ta; không có điều kiện nào phụ thuộc vào thời tiết, người khác hay may rủi. Hạnh phúc được định nghĩa bằng những thứ không ai lấy đi được.
 
 ### 3.13 Triết học như hộp dụng cụ của bác sĩ
 
-- Bác sĩ luôn mang dao kéo sẵn cho ca khẩn; ta cũng phải giữ các nguyên tắc sẵn sàng để hiểu những điều thuộc thần linh và con người.
-- Làm việc gì, dù nhỏ nhất, cũng nhớ mối dây nối hai cõi: không việc người nào làm tốt được nếu không quy về điều thần linh, và ngược lại.
+Người bác sĩ luôn mang sẵn dao kéo để xử lý ca khẩn cấp. Tương tự, ta phải giữ các nguyên tắc triết học luôn sẵn sàng để hiểu những điều thuộc thần linh và những điều thuộc con người.
+
+Làm việc gì, dù nhỏ nhất, cũng phải nhớ mối dây nối hai cõi: không việc gì của con người làm tốt được nếu không quy về điều thần linh, và ngược lại. Ý thực hành: triết học không phải để đọc lúc rảnh, mà phải "trong tầm tay" đúng lúc sự việc xảy ra, như dao mổ trong ca cấp cứu.
 
 ### 3.14 Thôi trôi dạt
 
-- Ngừng lang thang. Ta sẽ không kịp đọc lại các ghi chép của mình, các sách về người La Mã và Hy Lạp xưa, các sổ chép trích dẫn để dành cho tuổi già.
-- Hãy chạy nước rút tới đích, bỏ các hy vọng hão, và nếu còn quan tâm tới bản thân thì hãy tự cứu mình khi còn có thể.
-- Lời tự trách của một người hay trì hoãn việc tu dưỡng bằng cách tích luỹ tài liệu.
+Marcus tự ra lệnh: ngừng lang thang. Ông sẽ không kịp đọc lại các ghi chép của mình, các sách về người La Mã và Hy Lạp xưa, các sổ chép trích dẫn mà ông để dành cho tuổi già. (Những "cuốn sách để dành đến tuổi già" trong bản dịch là các sổ chép trích dẫn Marcus tự soạn, không phải sách phổ thông.)
+
+Vậy hãy chạy nước rút về đích, bỏ các hy vọng hão, và nếu còn quan tâm tới bản thân thì hãy tự cứu mình khi còn có thể.
+
+Đây là lời tự trách của một người hay trì hoãn việc tu dưỡng bằng cách tích luỹ tài liệu: thu gom sách vở, trích dẫn, kế hoạch đọc, như thể việc chuẩn bị có thể thay cho việc làm. Nó nối thẳng với 3.1: nếu trí tuệ có thể suy tàn trước cái chết, thì "để dành đến già" là một canh bạc thua.
 
 ### 3.15 Những điều mắt thường không thấy
 
-- Người ta không biết những chữ như ăn cắp, gieo hạt, mua bán, giữ yên lặng, thấy điều cần làm hàm chứa bao nhiêu điều; điều cần làm không thấy được bằng mắt mà bằng một loại nhìn khác.
-- Câu rất ngắn và tối nghĩa. Dịch giả đọc là cái nhìn từ trên cao, để thấy các việc ấy tầm thường và giữ bình thản. Cách đọc khác: các hành vi đời thường có chiều sâu đạo đức mà chỉ lý trí nhận ra.
+Mục này chỉ có một câu ngắn: người ta không biết những chữ như ăn cắp, gieo hạt, mua bán, giữ yên lặng, thấy điều cần làm hàm chứa bao nhiêu điều; điều cần làm không thấy được bằng mắt thịt mà bằng một loại nhìn khác.
+
+Câu này rất tối nghĩa và có hai cách đọc:
+
+| Cách đọc | Nội dung | Hệ quả |
+|---|---|---|
+| Của dịch giả | nhìn các việc đời thường từ trên cao để thấy chúng tầm thường, ít giá trị tinh thần | giữ bình thản trước chúng |
+| Cách đọc phổ biến hơn | các hành vi đời thường có chiều sâu đạo đức mà người đời không thấy; chỉ con mắt của lý trí mới nhận ra | phải dùng lý trí để thấy điều cần làm |
 
 ### 3.16 Điều gì riêng có của con người
 
-- Ba phần: thân, hồn, trí. Cảm giác thuộc thân; thôi thúc, ham muốn thuộc hồn (sinh khí); nguyên tắc, nhận định thuộc trí.
-- Lập luận loại trừ: nhận ấn tượng giác quan thì súc vật cũng có; bị thôi thúc giật dây thì thú hoang, kẻ sa đoạ và các bạo chúa (từ Phalaris đến Nero) cũng thế; dùng trí óc dẫn tới điều mình cho là bổn phận thì kẻ không tin thần, kẻ phản quốc, kẻ làm việc nhơ nhuốc sau cánh cửa cũng làm được.
-- Nếu mọi thứ ấy chung cho tất cả, thì điều riêng của người tốt là: yêu và đón nhận những gì số phận dệt cho mình; không làm vẩn đục phần thần linh trong ngực bằng một đám ấn tượng hỗn loạn, mà giữ nó bình yên, vâng theo thần linh một cách trật tự, không nói điều sai, không làm điều bất chính.
-- Nếu người khác không tin rằng anh sống giản dị, khiêm tốn, vui vẻ, anh không giận họ và không rời con đường dẫn tới đích đời: đến đó trong sạch, bình thản, sẵn sàng ra đi, hoà hợp với phần số mà không cần ép buộc.
+Mục cuối chia con người thành ba phần và gán cho mỗi phần một chức năng:
+
+| Phần | Chức năng |
+|---|---|
+| Thân | cảm giác |
+| Hồn (sinh khí) | thôi thúc, ham muốn |
+| Trí | nguyên tắc, nhận định |
+
+Rồi Marcus dùng lập luận loại trừ: cái gì kẻ khác cũng có thì không thể là điều riêng của người tốt.
+
+- Nhận ấn tượng qua giác quan: súc vật cũng có.
+- Bị thôi thúc giật dây: thú hoang, kẻ sa đoạ và các bạo chúa, từ Phalaris đến Nero, cũng thế.
+- Dùng trí óc để dẫn tới điều mình cho là bổn phận: kẻ không tin thần, kẻ phản quốc, kẻ làm việc nhơ nhuốc sau cánh cửa đóng kín cũng làm được. Chữ "cho là" quan trọng: kẻ phản quốc cũng dùng lý trí, nhưng để theo đuổi điều nó tưởng là nên làm.
+
+Nếu ba thứ ấy chung cho tất cả, thì điều riêng của người tốt là:
+
+- yêu và đón nhận những gì số phận dệt cho mình;
+- không làm vẩn đục phần thần linh trong ngực bằng một đám ấn tượng hỗn loạn, mà giữ nó bình yên, vâng theo thần linh một cách trật tự;
+- không nói điều sai, không làm điều bất chính.
+
+Và nếu người khác không tin rằng anh sống giản dị, khiêm tốn, vui vẻ, anh không giận họ, cũng không rời con đường dẫn tới đích của đời mình: đến đó trong sạch, bình thản, sẵn sàng ra đi, hoà hợp với phần số mà không cần ai ép buộc.
 
 ## Luận điểm triết học cốt lõi
 
