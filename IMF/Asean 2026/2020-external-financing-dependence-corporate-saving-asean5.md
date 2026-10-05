@@ -241,56 +241,244 @@ Công cụ phân tích là **mức phụ thuộc vốn bên ngoài** (theo Rajan
 
 3. **Chính sách nào giảm được tiết kiệm phòng thân dư thừa?** Làm ngân hàng cạnh tranh và hiệu quả hơn, và giảm bất định chính sách. Ổn định chính trị đi kèm tiết kiệm thấp hơn ở mọi ngành. Bài kết thúc bằng câu hỏi mở: tiết kiệm doanh nghiệp thực tế có vượt mức "mong muốn" không, và phần vượt đóng góp bao nhiêu vào thặng dư đối ngoại.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tiết kiệm gộp và tiết kiệm ròng của doanh nghiệp.** Lợi nhuận là thặng dư hoạt động gộp trừ thuế lợi nhuận và tiền lãi. Tiết kiệm gộp là phần lợi nhuận giữ lại sau khi trả cổ tức. Tiết kiệm ròng là tiết kiệm gộp trừ chi đầu tư. Ví dụ minh hoạ: doanh nghiệp lãi 100, trả cổ tức 30, chi đầu tư 50; tiết kiệm gộp là 70, tiết kiệm ròng là 20. Tiết kiệm ròng dương nghĩa là doanh nghiệp đang tích tiền (cho vay ròng), âm nghĩa là đang đi vay ròng. Bài chia mọi đại lượng cho tổng tài sản để so được giữa các doanh nghiệp.
+
+**Mức phụ thuộc vốn bên ngoài (external financing dependence).** Phần chi đầu tư không tự tài trợ được bằng dòng tiền từ hoạt động kinh doanh, tính bằng (chi đầu tư − dòng tiền kinh doanh) chia chi đầu tư. Ví dụ minh hoạ: một doanh nghiệp đầu tư 100 mà dòng tiền kinh doanh chỉ có 40 thì mức phụ thuộc là 0,6, tức 60% đầu tư phải đi vay hoặc phát hành cổ phiếu; nếu dòng tiền là 150 thì mức phụ thuộc là −0,5, tức thừa tiền. Đây là thước đo "ngành nào cần vốn ngoài" mà bài dùng xuyên suốt, theo Rajan và Zingales (1998).
+
+**Ràng buộc tài chính (financial constraint).** Tình trạng doanh nghiệp có dự án đáng làm nhưng không vay hoặc huy động được đủ vốn với chi phí hợp lý. Ví dụ minh hoạ: một doanh nghiệp có dự án lãi 15%/năm nhưng ngân hàng đòi lãi 18% hoặc không cho vay vì thiếu tài sản thế chấp, nên dự án không được làm. Khi bị ràng buộc, doanh nghiệp có xu hướng tự tích lũy tiền để lần sau không phải đi vay.
+
+**Động cơ phòng thân (precautionary motive).** Giữ tiền mặt để phòng những lúc không vay được. Ví dụ minh hoạ: một doanh nghiệp xuất khẩu giữ sẵn số tiền đủ trả lương ba tháng, phòng khi ngân hàng nước ngoài đột ngột cắt hạn mức. Bài lập luận tiết kiệm doanh nghiệp ASEAN-5 chủ yếu mang tính phòng thân.
+
+**Độ mở tài khoản vốn và chỉ số Chinn–Ito.** Mức độ nhà nước cho phép vốn tự do ra vào qua biên giới. Chỉ số Chinn–Ito đo độ mở này theo luật, chuẩn hoá từ 0 (đóng hoàn toàn) đến 1 (mở hoàn toàn). Ví dụ trong bài: Singapore luôn bằng 1, Thái Lan giảm từ 0,42 xuống 0,17 từ 2009. Bài hỏi mở cửa làm doanh nghiệp tiết kiệm nhiều hơn hay ít hơn.
+
+**Tỷ số Q của Tobin (Tobin's Q).** Giá trị thị trường của doanh nghiệp chia cho giá trị sổ sách của tài sản. Q lớn hơn 1 nghĩa là thị trường đánh giá doanh nghiệp có nhiều cơ hội đầu tư sinh lời. Ví dụ minh hoạ: tài sản ghi sổ 100, giá trị cổ phiếu và nợ trên thị trường 180, thì Q = 1,8. Bài dùng Q làm đại diện cho cơ hội đầu tư.
+
+**Kênh cạnh tranh và kênh bảng cân đối của tỷ giá.** Khi nội tệ mất giá, kênh cạnh tranh giúp hàng xuất khẩu rẻ hơn ở nước ngoài, doanh nghiệp bán được nhiều hơn và đầu tư nhiều hơn. Kênh bảng cân đối thì ngược lại: nợ ngoại tệ tính ra nội tệ phình lên. Ví dụ minh hoạ: doanh nghiệp nợ 1 triệu USD, nội tệ mất giá 20% thì khoản nợ tính bằng nội tệ tăng 20%, doanh nghiệp khó vay thêm và phải tích tiền phòng thân. Bài cho thấy hai kênh này kéo tiết kiệm doanh nghiệp theo hai chiều ngược nhau.
+
+**Đo cạnh tranh ngân hàng: chênh lệch lãi suất, mức tập trung, chỉ số H, Lerner, Boone.** Chênh lệch lãi suất cho vay – tiền gửi càng rộng thì ngân hàng càng kém hiệu quả hoặc càng có sức mạnh thị trường. Mức tập trung đo thị phần tài sản của 3 ngân hàng lớn nhất. Chỉ số H cao nghĩa là cạnh tranh mạnh; chỉ số Lerner cao nghĩa là ngân hàng có sức mạnh định giá. Ví dụ minh hoạ: ngân hàng huy động với lãi 5% và cho vay 9% thì chênh lệch là 4 điểm phần trăm. Bài dùng các chỉ số này để hỏi ngân hàng cạnh tranh hơn có làm doanh nghiệp bớt tích tiền không.
+
+## Nội dung chi tiết
 
 ### 1. Vấn đề
 
-Tiết kiệm doanh nghiệp là một cấu phần lớn của tiết kiệm quốc gia, và vì vậy của cán cân vãng lai. Văn liệu cho nước phát triển thấy khu vực doanh nghiệp chuyển thành người cho vay ròng từ những năm 2000, do các doanh nghiệp niêm yết lớn thu lợi nhuận cao hơn trong khi hạn chế chi trả cho cổ đông và thuế; phần lớn đến từ các công ty công nghệ. Văn liệu cho nước mới nổi tập trung vào ràng buộc tín dụng, nhất là câu đố tiết kiệm của Trung Quốc. Fan và Kalemli-Özcan (2016) thấy cải cách tài chính ở châu Á mới nổi làm doanh nghiệp tư nhân (trước bị ràng buộc) tiết kiệm ít đi so với doanh nghiệp nhà nước, nhưng tổng tiết kiệm doanh nghiệp lại tăng sau cải cách, nhất là ở ngành cần vốn ngoài.
+Tiết kiệm doanh nghiệp là một cấu phần lớn của tiết kiệm quốc gia, và vì vậy ảnh hưởng tới cán cân vãng lai: nếu doanh nghiệp tích nhiều tiền mà không đầu tư, nền kinh tế có xu hướng tiết kiệm nhiều hơn đầu tư và có thặng dư đối ngoại.
+
+**Ở nước phát triển.** Văn liệu cho thấy từ những năm 2000, khu vực doanh nghiệp phi tài chính ở các nước phát triển chuyển từ đi vay ròng sang cho vay ròng. Các doanh nghiệp niêm yết lớn thu lợi nhuận cao hơn, nhưng hạn chế chi trả cho cổ đông và nộp thuế ít hơn, nên tiền mặt tích lũy ngày càng nhiều. Phần lớn hiện tượng này đến từ các công ty công nghệ.
+
+**Ở nước mới nổi.** Văn liệu tập trung vào ràng buộc tín dụng, nhất là "câu đố tiết kiệm" của Trung Quốc (vì sao doanh nghiệp Trung Quốc tiết kiệm rất nhiều). Fan và Kalemli-Özcan (2016) thấy cải cách tài chính ở châu Á mới nổi làm doanh nghiệp tư nhân, vốn trước đó bị ràng buộc, tiết kiệm ít đi so với doanh nghiệp nhà nước. Nhưng tổng tiết kiệm doanh nghiệp lại tăng sau cải cách, nhất là ở ngành cần nhiều vốn ngoài.
+
+**Câu hỏi của bài.** ASEAN-5 (Indonesia, Malaysia, Philippines, Singapore, Thái Lan) có hiện tượng giống nước phát triển: khi lợi nhuận tăng, doanh nghiệp giữ lại thành tiết kiệm thay vì tăng cổ tức hay đầu tư. Nhưng nguyên nhân không thể là công ty công nghệ, vì ở ASEAN-5 các công ty này còn trẻ và tiết kiệm ít. Bài lập luận nguyên nhân là ràng buộc tài chính: thị trường tài chính kém phát triển và các biện pháp quản lý dòng vốn khiến doanh nghiệp phải tự tích lũy để phòng thân.
 
 ### 2. Bốn động cơ tiết kiệm của doanh nghiệp
 
-- **Chi phí giao dịch**: khi huy động vốn ngoài tốn kém, doanh nghiệp giữ tiền để giảm chi phí về sau (Almeida và cộng sự 2004).
-- **Phòng thân**: giữ tiền phòng khi không vay được (Han và Qiu 2007).
-- **Quản trị doanh nghiệp yếu**: người quản lý muốn giữ tiền nhiều hơn cổ đông muốn.
-- **Tránh thuế**: giữ tiền ở nước ngoài để tránh thuế khi chuyển lợi nhuận về.
+Văn liệu nêu bốn lý do doanh nghiệp giữ tiền:
 
-Bài chỉ kiểm định hai động cơ đầu. Thêm một lập luận: doanh nghiệp xuất khẩu lớn có thu ngoại tệ nên có phòng vệ tự nhiên, nhưng các biện pháp quản lý dòng vốn — như yêu cầu kết hối và chuyển thu nhập xuất khẩu về nước — có thể "ném cát vào bánh xe" và tạo thêm tiết kiệm phòng thân.
+| Động cơ | Nội dung | Nguồn |
+|---|---|---|
+| Chi phí giao dịch | Huy động vốn ngoài tốn kém (phí phát hành, thủ tục), nên doanh nghiệp giữ tiền để giảm chi phí về sau | Almeida và cộng sự 2004 |
+| Phòng thân | Giữ tiền phòng khi không vay được | Han và Qiu 2007 |
+| Quản trị doanh nghiệp yếu | Người quản lý muốn giữ tiền nhiều hơn mức cổ đông muốn, vì tiền trong tay cho họ quyền lực và sự an toàn | |
+| Tránh thuế | Giữ tiền ở nước ngoài để khỏi nộp thuế khi chuyển lợi nhuận về | |
+
+Bài chỉ kiểm định hai động cơ đầu.
+
+**Lập luận thêm về doanh nghiệp xuất khẩu.** Doanh nghiệp xuất khẩu lớn có nguồn thu ngoại tệ, nên có phòng vệ tự nhiên trước rủi ro tỷ giá: nợ ngoại tệ được trả bằng doanh thu ngoại tệ. Nhưng các biện pháp quản lý dòng vốn, như yêu cầu kết hối (bán ngoại tệ thu được cho ngân hàng) và yêu cầu chuyển thu nhập xuất khẩu về nước, có thể "ném cát vào bánh xe": chúng làm doanh nghiệp không chủ động dùng được nguồn ngoại tệ của mình, và do đó tạo thêm nhu cầu tiết kiệm phòng thân.
 
 ### 3. Dữ liệu và sự thật cách điệu
 
-Số liệu đã trình bày ở sơ đồ. Mọi biến được cắt đuôi ở mức 1%. Dữ liệu là báo cáo hợp nhất, nên không phân biệt được công ty con của tập đoàn — vốn có thể vay nội bộ tập đoàn và vì thế tiết kiệm ít hơn. Điều này quan trọng ở ASEAN, nơi các tập đoàn đa ngành phổ biến. Dữ liệu cũng không có doanh nghiệp chưa niêm yết.
+**Định nghĩa các đại lượng.**
 
-Về vĩ mô: ASEAN-4 (trừ Singapore) có tài khoản vốn đóng hơn hẳn nước phát triển, châu Âu mới nổi và Mỹ Latinh. Trước khủng hoảng tài chính toàn cầu, ASEAN-4 mở hơn các nước châu Á mới nổi khác; sau khủng hoảng, một số nước áp thêm biện pháp hạn chế nên độ mở giảm tạm thời. Thị trường tài chính ASEAN-4 kém nước phát triển nhưng trung bình phát triển hơn phần còn lại của châu Á mới nổi, châu Âu mới nổi và Mỹ Latinh.
+- Lợi nhuận = thặng dư hoạt động gộp − thuế lợi nhuận − tiền lãi.
+- Tiết kiệm gộp = lợi nhuận − cổ tức ròng.
+- Tiết kiệm ròng = tiết kiệm gộp − chi đầu tư.
+
+Tất cả được chia cho tổng tài sản, vì ở cấp doanh nghiệp không tính được giá trị gia tăng.
+
+**Phạm vi dữ liệu.** Dữ liệu lấy từ WorldScope, gồm các doanh nghiệp phi tài chính niêm yết, giai đoạn 2000–2017: 3.503 doanh nghiệp trong cả giai đoạn, 2.530 doanh nghiệp còn niêm yết cuối 2017.
+
+| Nước | Số doanh nghiệp | Tổng tài sản (% GDP) | Tiết kiệm gộp (% GDP) | Đầu tư (% GDP) | Tiết kiệm ròng (% GDP) |
+|---|---|---|---|---|---|
+| Indonesia | 451 | 28,5 | 1,8 | 1,4 | 0,3 |
+| Malaysia | 820 | 170,2 | 9,9 | 8,4 | 1,5 |
+| Philippines | 163 | 79,2 | 4,1 | 3,2 | 0,9 |
+| Singapore | 516 | 110,9 | 3,5 | 4,2 | −0,7 |
+| Thái Lan | 580 | 83,3 | 5,9 | 4,3 | 1,6 |
+
+Mọi biến được cắt đuôi ở mức 1%, tức các giá trị cực đoan ở hai đầu được thay bằng giá trị tại ngưỡng 1% để không làm lệch kết quả. Có hai hạn chế. Dữ liệu là báo cáo hợp nhất, nên không phân biệt được công ty con trong tập đoàn, vốn có thể vay nội bộ tập đoàn và vì thế tiết kiệm ít hơn; điều này quan trọng ở ASEAN, nơi các tập đoàn đa ngành phổ biến. Dữ liệu cũng không có doanh nghiệp chưa niêm yết.
+
+**Diễn biến 2000–2017** (theo tổng tài sản):
+
+- Tiết kiệm gộp dao động khoảng 3–9%; tiết kiệm ròng dao động quanh 0, trong khoảng −8% đến +4%.
+- Năm 2008, lợi nhuận bình quân giảm một nửa, kéo tiết kiệm lao dốc.
+- Giai đoạn 2009–10 phục hồi; 2011–15 giảm; từ 2015 tăng trở lại.
+- Cộng dồn từ 2000, tiết kiệm gộp tăng 1,8 điểm phần trăm (+1,8), tiết kiệm ròng tăng 1,9 điểm (+1,9).
+
+Như vậy ở ASEAN-5, tiết kiệm doanh nghiệp đi theo chu kỳ, chứ không có xu hướng tăng đều như ở nước phát triển.
+
+**Phân rã thay đổi tiết kiệm 2000–2017.** Bài tách thay đổi tiết kiệm thành phần "trong nhóm" (doanh nghiệp cùng nhóm tuổi hoặc quy mô thay đổi hành vi) và phần "giữa nhóm" (tỷ trọng các nhóm thay đổi), tính bằng % đóng góp:
+
+| Cách chia nhóm | Tiết kiệm gộp: trong nhóm | Tiết kiệm gộp: giữa nhóm | Tiết kiệm ròng: trong nhóm | Tiết kiệm ròng: giữa nhóm |
+|---|---|---|---|---|
+| Theo tuổi | 102,7 | −2,7 | 117,4 | −17,4 |
+| Theo quy mô | 92,9 | 7,1 | 94,9 | 5,1 |
+
+Gần như toàn bộ thay đổi nằm trong nhóm. Tức là tiết kiệm thay đổi không phải vì tỷ trọng doanh nghiệp già hay doanh nghiệp lớn tăng lên, mà vì doanh nghiệp cùng tuổi, cùng quy mô hành xử khác trước.
+
+**Khi lợi nhuận tăng.** Xét xu hướng 10 năm của từng doanh nghiệp: cổ tức gần như không tương quan với lợi nhuận; đầu tư không tương quan với lợi nhuận; còn tiết kiệm gộp và ròng tương quan dương mạnh với lợi nhuận. Nghĩa là phần lợi nhuận tăng thêm được giữ lại, không được trả cho cổ đông hay đem đi đầu tư.
+
+**Công ty công nghệ.** Tiết kiệm ròng/tài sản của công ty công nghệ ở Mỹ khoảng +5,6%, cao nhất trong các ngành; ở ASEAN-5 là khoảng −0,8%, tức âm. Vì vậy cách giải thích của nước phát triển (công ty công nghệ tích tiền) không áp dụng được cho ASEAN-5.
+
+**Bối cảnh vĩ mô: định hướng xuất khẩu.** Định hướng xuất khẩu là phần giá trị gia tăng của một ngành đi vào cầu nước ngoài, chia cho tổng giá trị gia tăng của ngành (%, xấp xỉ, theo cơ sở dữ liệu TiVA của OECD):
+
+- Theo ngành: máy tính, điện tử khoảng 78; thiết bị điện khoảng 76; kim loại cơ bản khoảng 72; máy móc khoảng 64; hóa chất, dược khoảng 64; cao su, nhựa khoảng 61; … ; khoáng phi kim khoảng 32. Hơn một nửa số ngành chế tạo có định hướng xuất khẩu trên 50%.
+- Theo nước, từ 2005 đến 2016: Singapore khoảng 83 → 79; Malaysia khoảng 80 → 65; Thái Lan khoảng 57 → 63; Philippines khoảng 37 → 31; Indonesia khoảng 37 → 25.
+
+**Độ mở tài khoản vốn** (Chinn–Ito chuẩn hóa, thang 0–1, xấp xỉ):
+
+| Nhóm hoặc nước | Diễn biến |
+|---|---|
+| Nước phát triển | khoảng 0,85 → 0,95 |
+| Mỹ Latinh | khoảng 0,55 |
+| Châu Âu mới nổi | 0,31 → 0,65 |
+| Châu Á mới nổi khác | khoảng 0,35–0,4 |
+| ASEAN-4 (trừ Singapore) | khoảng 0,5 → giảm còn khoảng 0,23 (2011–13) → khoảng 0,36 |
+| Singapore | luôn bằng 1 |
+| Indonesia | 0,7 → 0,42 (từ 2011) |
+| Malaysia | 0,42, vọt lên 0,7 năm 2008, xuống 0,17 (2010–13), rồi về 0,42 |
+| Philippines | 0,45, xuống 0,17 (2010–13), rồi về 0,45 |
+| Thái Lan | 0,42 → 0,17 (từ 2009) |
+
+ASEAN-4 có tài khoản vốn đóng hơn hẳn nước phát triển, châu Âu mới nổi và Mỹ Latinh. Trước khủng hoảng tài chính toàn cầu, ASEAN-4 mở hơn các nước châu Á mới nổi khác; sau khủng hoảng, một số nước áp thêm biện pháp hạn chế nên độ mở giảm tạm thời.
+
+**Phát triển tài chính.** Tín dụng tư nhân/GDP năm 2016 (%): Thái Lan khoảng 145; Singapore khoảng 132; Malaysia khoảng 120; Philippines khoảng 41; Indonesia khoảng 38. Mức này rất khác nhau: 3 nước trên mức bình quân nước phát triển, 2 nước dưới 50%. Tính chung, thị trường tài chính ASEAN-4 kém nước phát triển nhưng trung bình phát triển hơn phần còn lại của châu Á mới nổi, châu Âu mới nổi và Mỹ Latinh.
+
+**Tỷ giá** (USD trên một đơn vị nội tệ, năm 2000 = 100, cuối 2018): Singapore khoảng 127; Thái Lan khoảng 125; Malaysia khoảng 92; Philippines khoảng 84; Indonesia khoảng 58. Tức rupiah mất khoảng 42% giá trị so với USD, trong khi đô la Singapore và baht tăng giá.
 
 ### 4. Mức phụ thuộc vốn bên ngoài
 
-Cách đo đã trình bày ở sơ đồ. Bài thừa nhận 20 năm đã trôi qua kể từ Rajan và Zingales, và mức phụ thuộc vốn ngoài ở Mỹ có thể đã thay đổi: doanh nghiệp già đi và tiết kiệm nhiều hơn, và đột phá công nghệ có thể làm thay đổi hàm sản xuất. Vì vậy bài xem lại diễn biến và chọn mốc NASDAQ thập niên 1990.
+**Cách đo.** Với từng doanh nghiệp, cộng dồn số liệu 10 năm, rồi tính: mức phụ thuộc vốn ngoài = (chi đầu tư − dòng tiền kinh doanh) / chi đầu tư. Sau đó lấy trung vị của các doanh nghiệp trong cùng ngành, để doanh nghiệp lớn không át doanh nghiệp nhỏ.
+
+**Vì sao dùng số liệu Mỹ.** Hai lý do:
+
+- Hàm sản xuất của một ngành, tức cách kết hợp vốn và lao động để làm ra sản phẩm, giống nhau giữa các nước, nhất là ở ngành chế tạo.
+- Thị trường vốn Mỹ gần như không có ma sát, nên lượng vốn ngoài mà doanh nghiệp Mỹ huy động phản ánh nhu cầu do công nghệ của ngành quyết định, chứ không phải giới hạn về cung vốn.
+
+Ví dụ các ngành cần nhiều vốn ngoài: khai khoáng, lọc dầu, xây dựng, máy móc. Đặc điểm chung là đầu tư ban đầu lớn và thời gian thu hồi vốn dài.
+
+**Vì sao chọn NASDAQ thập niên 1990.** Bài thừa nhận 20 năm đã trôi qua kể từ Rajan và Zingales, và mức phụ thuộc vốn ngoài ở Mỹ có thể đã thay đổi: doanh nghiệp già đi và tiết kiệm nhiều hơn, còn các đột phá công nghệ có thể làm thay đổi hàm sản xuất. Vì vậy bài xem lại diễn biến và đưa ra bốn lý do chọn mốc này:
+
+- Ở Mỹ, doanh nghiệp trẻ (tính theo số năm từ khi niêm yết lần đầu) phụ thuộc vốn ngoài nhiều hơn doanh nghiệp già.
+- Phân phối mức phụ thuộc đang dịch xuống dần qua các thập niên, ở cả NASDAQ và NYSE.
+- NASDAQ có nhiều doanh nghiệp trẻ và nhỏ hơn NYSE.
+- Thứ hạng giữa các ngành tương đối ổn định; điều quan trọng cho phân tích là thứ hạng, không phải độ lớn.
+
+**So sánh ASEAN-5 với Mỹ.** Khi đặt mức phụ thuộc thực tế của các ngành ASEAN-5 (từ 2000) cạnh mức của Mỹ thập niên 1990, hai chỉ số có tương quan dương có ý nghĩa; giá trị của hầu hết các ngành nằm trong khoảng −2 đến +0,5. Nhiều ngành ASEAN nằm dưới đường 45° (đường mà hai giá trị bằng nhau), tức doanh nghiệp ASEAN tự tài trợ nhiều hơn doanh nghiệp Mỹ cùng ngành. Có hai cách hiểu: doanh nghiệp ASEAN bị ràng buộc tài chính nên không vay được, hoặc đơn giản là không cần nhiều vốn ngoài như doanh nghiệp Mỹ. Vì vậy cần kiểm định.
 
 ### 5. Hai phương trình và kết quả
 
-Toàn bộ kết quả đã trình bày ở sơ đồ. Cả hai phương trình dùng phương pháp GMM của Arellano và Bond (1991), vì có biến trễ của biến phụ thuộc cùng hiệu ứng cố định, nên ước lượng thông thường không nhất quán.
+Cả hai phương trình dùng phương pháp GMM của Arellano và Bond (1991). Lý do: phương trình có biến trễ của chính biến phụ thuộc cùng với hiệu ứng cố định doanh nghiệp, và trong trường hợp đó ước lượng thông thường bị chệch và không nhất quán.
 
-Diễn giải về Tobin's Q: hệ số âm đứng riêng có vẻ trái lý thuyết (doanh nghiệp nhiều cơ hội đầu tư lại tiết kiệm ít). Bài giải thích rằng khi tương tác với mức phụ thuộc vốn ngoài thì hệ số tương tác dương: doanh nghiệp triển vọng trong ngành cần nhiều vốn ngoài mới có động cơ tiết kiệm.
+**Kiểm định 1: doanh nghiệp có bị ràng buộc tài chính không?** Phương trình: tăng trưởng tài sản doanh nghiệp = … + δ × (mức phụ thuộc vốn ngoài của ngành × chỉ số phát triển tài chính), với khoảng 12.300–13.700 quan sát. Logic: nếu δ đúng dấu, ngành cần vốn ngoài lớn nhanh hơn ở nơi tài chính phát triển hơn, nghĩa là ở nơi tài chính kém, chúng đang bị kìm lại.
 
-Diễn giải về độ mở tài khoản vốn: mở cửa làm vốn dễ tiếp cận lúc thuận lợi, giảm động cơ tiết kiệm trung bình, nhưng cũng tạo rủi ro dòng vốn rút ra lúc khó khăn. Ngành cần nhiều vốn ngoài phản ứng bằng cách tiết kiệm nhiều hơn khi thuận lợi. Hàm ý ngược lại: nếu một nước siết kiểm soát vốn, doanh nghiệp xuất khẩu sẽ tiết kiệm nhiều hơn so với doanh nghiệp hướng nội.
+| Mức phụ thuộc vốn ngoài nhân với | Hệ số | Đúng kỳ vọng? |
+|---|---|---|
+| Tín dụng/GDP | +0,00518\*\*\* | Đúng: tài chính sâu hơn thì ngành cần vốn ngoài tăng nhanh hơn |
+| Tổng vốn hóa thị trường | −0,000326 | Không có ý nghĩa |
+| Chênh lệch lãi suất ngân hàng | −0,0213\* | Đúng: vay rẻ hơn thì tăng nhanh hơn |
+| Tỷ lệ nợ xấu | −0,0196\*\*\* | Đúng: ngân hàng lành mạnh hơn thì tăng nhanh hơn |
+| Mức tập trung của 3 ngân hàng lớn nhất | −0,00125\* | Đúng: cạnh tranh hơn thì tăng nhanh hơn |
 
-Diễn giải về tỷ giá: phù hợp Jiang và Sedik (2019) — kênh cạnh tranh của tỷ giá cuối cùng bị kênh bảng cân đối lấn át khi mức phụ thuộc vốn ngoài đủ cao.
+(Ở các bảng của bài này: \* p < 0,05; \*\* p < 0,01; \*\*\* p < 0,001.)
 
-Về bất định chính sách: chỉ số bất định chính sách kinh tế của Baker và cộng sự không có cho ASEAN, nên bài dùng chỉ số ổn định chính trị của ICRG làm đại diện.
+Kết luận: có dấu hiệu ràng buộc tài chính, và cả độ sâu (lượng tín dụng) lẫn hiệu quả (chi phí, chất lượng, cạnh tranh) của hệ thống tài chính đều quan trọng.
+
+**Kiểm định 2: điều gì quyết định tiết kiệm ròng?** Phương trình: tiết kiệm ròng/tài sản = trễ 1 và 2 kỳ của chính nó + log tài sản + nhóm tuổi + Tobin's Q + lợi nhuận bình quân ngành (và bình phương của nó) + yếu tố vĩ mô + (mức phụ thuộc vốn ngoài × yếu tố vĩ mô). Mức phụ thuộc vốn ngoài không đưa riêng vào được, vì nó cố định theo ngành và trùng với hiệu ứng cố định doanh nghiệp; nó chỉ xuất hiện qua các tương tác.
+
+*Đặc điểm doanh nghiệp và ngành* (khoảng 14.900 quan sát; ba cột (1), (2), (3) là ba đặc tả):
+
+| Biến | (1) | (2) | (3) |
+|---|---|---|---|
+| Log tài sản | 0,108\*\*\* | 0,109\*\*\* | 0,108\*\*\* |
+| Nhóm tuổi | −0,0225\*\*\* | −0,0227\*\*\* | −0,0225\*\*\* |
+| Lợi nhuận ngành | 0,324\*\*\* | 0,325\*\*\* | 0,324\*\*\* |
+| Lợi nhuận ngành bình phương | −0,173\*\*\* | −0,172\*\*\* | −0,174\*\*\* |
+| Tobin's Q | −0,000133\*\* | | −0,000133 |
+| Mức phụ thuộc vốn ngoài × Q | | 0,000167\* | 0,0000042 |
+
+Diễn giải của bài:
+
+- Doanh nghiệp lớn tiết kiệm nhiều hơn, được đọc là nhờ sức mạnh thị trường.
+- Doanh nghiệp già tiết kiệm ít hơn (sau khi đã tính quy mô).
+- Ngành lãi hơn giữ lại một phần lợi nhuận, nhưng ngành rất lãi thì đầu tư nhiều hơn (do hệ số bình phương âm).
+- Về Tobin's Q: hệ số âm khi đứng riêng có vẻ trái lý thuyết, vì doanh nghiệp nhiều cơ hội đầu tư lại tiết kiệm ít. Bài giải thích rằng khi tương tác với mức phụ thuộc vốn ngoài, hệ số tương tác dương: doanh nghiệp có triển vọng trong ngành cần nhiều vốn ngoài mới là bên có động cơ tiết kiệm, để tự tài trợ dự án tương lai.
+
+Lưu ý: ở cột (3), khi đưa cả Q và tương tác vào cùng lúc, hệ số tương tác giảm từ 0,000167 xuống 0,0000042, tức mất hẳn.
+
+*Độ mở tài khoản vốn* (các cột (2) đến (5)):
+
+| Biến | (2) | (3) | (4) | (5) |
+|---|---|---|---|---|
+| Độ mở tài khoản vốn | −0,0546\*\*\* | | −0,0351\* | |
+| Mức phụ thuộc vốn ngoài × độ mở | | 0,0577\*\*\* | 0,0357\* | |
+| Định hướng xuất khẩu × độ mở | | | | −0,0739\*\*\* |
+
+Ở cột (4), tác động của mở cửa = −0,0351 + 0,0357 × mức phụ thuộc vốn ngoài. Tác động này chỉ đổi dấu (từ giảm sang tăng tiết kiệm) khi mức phụ thuộc vốn ngoài lớn hơn khoảng 0,98.
+
+Diễn giải: mở cửa làm vốn dễ tiếp cận lúc thuận lợi, nên giảm động cơ tiết kiệm trung bình. Nhưng nó cũng tạo rủi ro vốn rút ra lúc khó khăn, nên ngành cần nhiều vốn ngoài phản ứng bằng cách tiết kiệm nhiều hơn khi thuận lợi. Hàm ý ngược lại: nếu một nước siết kiểm soát vốn, doanh nghiệp xuất khẩu sẽ tiết kiệm nhiều hơn so với doanh nghiệp hướng nội (theo hệ số âm của định hướng xuất khẩu × độ mở).
+
+*Theo định hướng xuất khẩu* (hồi quy lượng tử, tức ước lượng tác động ở các mức tiết kiệm khác nhau thay vì chỉ ở mức trung bình; hệ số của mức phụ thuộc × độ mở ở bốn lượng tử):
+
+- Ngành có định hướng xuất khẩu dưới 60%: −0,017; 0,063; −0,046; −0,012, đều không có ý nghĩa.
+- Ngành có định hướng xuất khẩu trên 60%: 0,109\*\*\*; 0,130\*\*\*; 0,006; 0,225\*\*.
+
+Tức là chỉ với ngành hướng xuất khẩu mạnh, mở cửa mới làm doanh nghiệp cần vốn ngoài tiết kiệm nhiều hơn. Giải thích: doanh nghiệp xuất khẩu tiếp cận được vốn xuyên biên giới, nên cũng là bên chịu rủi ro khi dòng vốn đảo chiều.
+
+*Mất giá đồng nội tệ* (bài đo "độ linh hoạt tỷ giá" bằng mức mất giá năm trước, %):
+
+| Biến | (2) | (3) | (4) | (5) |
+|---|---|---|---|---|
+| Mất giá (%) | −0,0731\*\* | | −0,0637\* | |
+| Mức phụ thuộc vốn ngoài × mất giá | | 0,0577\* | 0,0183 (không có ý nghĩa) | |
+| Định hướng xuất khẩu × mất giá | | | | −0,104\* |
+
+Tỷ giá tác động qua hai kênh ngược chiều:
+
+- **Kênh cạnh tranh:** mất giá giúp xuất khẩu tốt hơn, doanh nghiệp đầu tư nhiều hơn, nên tiết kiệm giảm. Kênh này yếu đi khi hàng hóa được định giá bằng USD (giá bán ra nước ngoài không giảm khi nội tệ mất giá) và khi doanh nghiệp nằm sâu trong chuỗi giá trị (phải nhập linh kiện đắt lên). Cả hai điều kiện đều đúng với ASEAN-5.
+- **Kênh bảng cân đối:** mất giá làm nợ ngoại tệ nặng hơn, doanh nghiệp khó vay hơn, nên tăng tiết kiệm phòng thân.
+
+Kết quả phù hợp với Jiang và Sedik (2019): kênh cạnh tranh của tỷ giá cuối cùng bị kênh bảng cân đối lấn át khi mức phụ thuộc vốn ngoài đủ cao. Doanh nghiệp xuất khẩu được lợi nhờ phòng vệ tự nhiên, nên tiết kiệm ít đi khi nội tệ mất giá (hệ số −0,104).
+
+*Ngân hàng và chính trị:*
+
+| Chỉ số | Hệ số | Ý nghĩa |
+|---|---|---|
+| Chênh lệch lãi suất cho vay – tiền gửi | +0,0120\*\*\* | Ngân hàng kém hiệu quả thì doanh nghiệp tiết kiệm nhiều hơn |
+| Chỉ số H (cạnh tranh) | −0,224\*\*\* | Cạnh tranh hơn thì tiết kiệm ít hơn |
+| Chỉ số Lerner (sức mạnh thị trường) | +0,0453\*\* | Ngân hàng độc quyền hơn thì tiết kiệm nhiều hơn |
+| Chỉ số Boone | −0,0217 | Không có ý nghĩa |
+| Mức tập trung 3 ngân hàng lớn nhất | +0,000504\*\* | Tập trung hơn thì tiết kiệm nhiều hơn |
+| Ổn định chính trị (ICRG) | −0,000854\*\*\* | Ổn định hơn thì tiết kiệm ít hơn |
+| Mức phụ thuộc × ổn định chính trị | −0,0000167 | Không khác nhau giữa các ngành |
+
+Về bất định chính sách: chỉ số bất định chính sách kinh tế của Baker và cộng sự không có cho ASEAN, nên bài dùng chỉ số ổn định chính trị của ICRG (International Country Risk Guide) làm đại diện. Ổn định chính trị đi kèm tiết kiệm thấp hơn ở mọi ngành như nhau.
 
 ### 6. Kết luận và hướng tiếp
 
-Tiết kiệm doanh nghiệp ASEAN-5 dao động theo chu kỳ chứ không tăng theo xu hướng như ở nước phát triển, do các đặc điểm riêng của khu vực. Câu hỏi còn mở: tiết kiệm thực tế có vượt mức mong muốn không, và phần chênh lệch đóng góp bao nhiêu vào mất cân bằng đối ngoại. Để trả lời, cần định nghĩa mức tiết kiệm mong muốn theo mức phụ thuộc vốn ngoài của ngành, tuổi doanh nghiệp, định hướng xuất khẩu, loại hình sở hữu — cùng với mức mong muốn của các yếu tố vĩ mô như phát triển tài chính, độ mở tài khoản vốn, độ linh hoạt tỷ giá.
+Tiết kiệm doanh nghiệp ASEAN-5 dao động theo chu kỳ chứ không tăng theo xu hướng như ở nước phát triển, do các đặc điểm riêng của khu vực: thị trường tài chính kém phát triển, ngân hàng kém cạnh tranh, và các biện pháp quản lý dòng vốn. Chính sách giảm được tiết kiệm phòng thân dư thừa là làm ngân hàng cạnh tranh và hiệu quả hơn, và giảm bất định chính sách.
+
+Câu hỏi còn mở: tiết kiệm thực tế có vượt mức "mong muốn" không, và phần chênh lệch đóng góp bao nhiêu vào mất cân bằng đối ngoại. Để trả lời, cần định nghĩa mức tiết kiệm mong muốn của doanh nghiệp theo các đặc điểm: mức phụ thuộc vốn ngoài của ngành, tuổi doanh nghiệp, định hướng xuất khẩu, loại hình sở hữu; cùng với mức mong muốn của các yếu tố vĩ mô như phát triển tài chính, độ mở tài khoản vốn và độ linh hoạt tỷ giá.
 
 ### 7. Ý nghĩa với Việt Nam
 
 Việt Nam không nằm trong mẫu, nhưng bài liên quan trực tiếp theo ba cách.
 
-**Ràng buộc tài chính và phân bổ vốn.** Tập Selected Issues 2025 của IMF về Việt Nam trong cùng thư mục thấy doanh nghiệp tư nhân Việt Nam vay đắt hơn doanh nghiệp nhà nước và FDI, và phần bù chi phí vay cao hơn các nước ASEAN. Theo khung của bài này, đó là môi trường khiến doanh nghiệp tư nhân cần vốn ngoài bị kìm tăng trưởng và phải tự tích lũy — tức là vừa tăng trưởng chậm hơn tiềm năng vừa đầu tư ít hơn lợi nhuận cho phép.
+**Ràng buộc tài chính và phân bổ vốn.** Tập Selected Issues 2025 của IMF về Việt Nam trong cùng thư mục thấy doanh nghiệp tư nhân Việt Nam vay đắt hơn doanh nghiệp nhà nước và doanh nghiệp FDI, và phần bù chi phí vay cao hơn các nước ASEAN. Theo khung của bài này, đó chính là môi trường khiến doanh nghiệp tư nhân trong các ngành cần vốn ngoài bị kìm tăng trưởng và phải tự tích lũy: vừa tăng trưởng chậm hơn tiềm năng, vừa đầu tư ít hơn mức lợi nhuận cho phép.
 
-**Tài khoản vốn và doanh nghiệp xuất khẩu.** Việt Nam có tài khoản vốn còn quản lý và yêu cầu về ngoại tệ đối với doanh nghiệp. Kết quả "ngành hướng xuất khẩu mạnh phản ứng mạnh nhất với độ mở tài khoản vốn" gợi ý rằng khi Việt Nam tiếp tục tự do hóa, doanh nghiệp xuất khẩu trong nước sẽ là nhóm chịu tác động lớn nhất.
+**Tài khoản vốn và doanh nghiệp xuất khẩu.** Việt Nam có tài khoản vốn còn được quản lý và có yêu cầu về ngoại tệ đối với doanh nghiệp. Kết quả "ngành hướng xuất khẩu mạnh phản ứng mạnh nhất với độ mở tài khoản vốn" gợi ý rằng khi Việt Nam tiếp tục tự do hóa, doanh nghiệp xuất khẩu trong nước sẽ là nhóm chịu tác động lớn nhất, theo cả hai hướng: dễ vay hơn lúc thuận lợi, và dễ bị cắt vốn hơn lúc dòng vốn đảo chiều.
 
-**Cạnh tranh ngân hàng là đòn bẩy rẻ nhất.** Chênh lệch lãi suất cho vay – tiền gửi hẹp hơn và ngân hàng cạnh tranh hơn đi kèm cả doanh nghiệp tăng trưởng nhanh hơn lẫn tiết kiệm phòng thân ít hơn.
+**Cạnh tranh ngân hàng là đòn bẩy rẻ nhất.** Theo kết quả của bài, chênh lệch lãi suất cho vay – tiền gửi hẹp hơn và ngân hàng cạnh tranh hơn đi kèm cả hai điều tốt: doanh nghiệp ngành cần vốn ngoài tăng trưởng nhanh hơn, và doanh nghiệp nói chung tiết kiệm phòng thân ít hơn. Khác với mở tài khoản vốn hay để tỷ giá mất giá, đòn bẩy này không có mặt trái rõ rệt trong kết quả của bài.
 
 ## Thuật ngữ
 

@@ -142,48 +142,120 @@
 2. Loại tiền nào sẽ làm chân tiền trong giao dịch token hoá, và vì sao lựa chọn đó quan trọng?
 3. Rủi ro đặc thù với các nền kinh tế mới nổi là gì và nên làm gì trước?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Token hoá (tokenization).** Thể hiện một tài sản hoặc một quyền (cổ phiếu, trái phiếu, tiền gửi, phần góp quỹ) dưới dạng bản ghi trên một sổ cái lập trình được, nơi việc chuyển quyền sở hữu và việc ghi sổ là cùng một hành vi. Ví dụ minh hoạ: khi một trái phiếu token hoá được chuyển từ A sang B, chính thao tác chuyển đó là việc cập nhật sổ; không có một sổ riêng ở trung tâm lưu ký phải sửa sau. Khác với số hoá thông thường, vốn chỉ biến giấy thành tệp điện tử nhưng vẫn để mỗi bên giữ một sổ riêng. Đây là khái niệm nền của toàn bài.
+
+**Quyết toán (settlement) và chu kỳ T+1, T+2.** Quyết toán là bước hoàn tất giao dịch: tiền thật sự đến tay bên bán và tài sản thật sự đến tay bên mua. T+2 nghĩa là việc này xảy ra hai ngày làm việc sau ngày giao dịch (ngày T). Ví dụ minh hoạ: mua cổ phiếu thứ Hai theo chu kỳ T+2 thì tới thứ Tư mới quyết toán; trong hai ngày đó, nếu một bên phá sản, bên kia chịu rủi ro. Khoảng chờ này là thứ token hoá hứa rút ngắn.
+
+**Rủi ro đối tác và ký quỹ.** Rủi ro đối tác là khả năng bên kia không thực hiện nghĩa vụ. Để phòng rủi ro này, các bên phải nộp ký quỹ, tức một khoản tiền hoặc tài sản đặt cọc. Ví dụ minh hoạ: một ngân hàng có giao dịch 100 triệu đô la đang chờ quyết toán có thể phải đặt vài triệu đô la ký quỹ; số tiền đó bị "giam", không dùng vào việc khác được. Rút ngắn quyết toán làm giảm rủi ro đối tác, nên giải phóng được ký quỹ.
+
+**Quyết toán nguyên tử và giao hàng đổi thanh toán (atomic settlement, DvP).** Giao dịch có hai chân: chân tiền và chân tài sản. Quyết toán nguyên tử nghĩa là hai chân hoặc cùng xong, hoặc không chân nào xảy ra; không bao giờ có cảnh một bên đã giao mà bên kia chưa trả. Ví dụ minh hoạ: A đổi 1 triệu đô la token lấy trái phiếu token của B; nếu tài khoản B không có trái phiếu, tiền của A cũng không rời đi. Đây là lợi ích kỹ thuật cốt lõi của token hoá.
+
+**Tính chung quyết toán (settlement finality).** Thời điểm mà, theo luật, việc chuyển giao không thể bị đảo ngược nữa, kể cả khi một bên phá sản sau đó. Ví dụ minh hoạ: giao dịch đã hoàn tất trên sổ cái lúc 10 giờ, nhưng nếu luật chưa công nhận đó là thời điểm chung thẩm, người quản lý tài sản phá sản của một bên vẫn có thể đòi huỷ giao dịch. Bài nhấn mạnh tính nguyên tử là thuộc tính kỹ thuật, còn tính chung quyết toán là thuộc tính pháp lý, và hai thứ không tự động trùng nhau.
+
+**Tính đơn nhất của tiền (singleness of money).** Mọi hình thái tiền trong một hệ thống (tiền mặt, tiền gửi ở ngân hàng này hay ngân hàng kia) đều đổi ngang mệnh giá cho nhau. Ví dụ minh hoạ: 100 đô la gửi ở ngân hàng X và 100 đô la gửi ở ngân hàng Y đều là đúng 100 đô la; nếu một stablecoin chỉ đổi được 99,7 xu cho mỗi đô la danh nghĩa thì tính đơn nhất bị phá. Khái niệm này giải thích vì sao bài cần một tài sản quyết toán của ngân hàng trung ương làm neo.
+
+**sCBDC (CBDC bán buôn trên sổ cái token hoá).** Tiền điện tử do ngân hàng trung ương phát hành, chỉ dành cho các tổ chức tài chính (bán buôn) chứ không cho người dân, và nằm trực tiếp trên sổ cái token hoá. Vì là nghĩa vụ của ngân hàng trung ương, nó không có rủi ro tín dụng. Ví dụ minh hoạ: hai ngân hàng quyết toán một giao dịch trái phiếu token bằng sCBDC thì không bên nào phải lo bên phát hành tiền vỡ nợ. Đây là "neo" của toàn hệ thống trong lập luận của bài.
+
+**Thay thế tiền tệ (currency substitution).** Người dân bỏ dần đồng tiền trong nước để dùng đồng tiền khác cho tiết kiệm và thanh toán. Ví dụ minh hoạ: ở một nước có lạm phát cao, người dân giữ tiết kiệm bằng stablecoin neo đô la trên điện thoại thay vì tiền gửi nội tệ. Đây là rủi ro lớn nhất bài nêu cho các nền kinh tế mới nổi và đang phát triển (EMDE).
+
+## Nội dung chi tiết
 
 ### 1. Token hoá là gì và không phải là gì
 
-- Token hoá là việc thể hiện tài sản hoặc quyền dưới dạng bản ghi trên sổ cái lập trình được, nơi việc chuyển giao quyền sở hữu và việc cập nhật sổ sách là cùng một hành vi. Đây là điểm khác biệt cốt lõi so với số hoá thông thường, vốn chỉ biến chứng từ giấy thành tệp điện tử trong khi vẫn giữ nhiều sổ sách tách rời cần đối soát.
-- Hệ quả trực tiếp là khả năng quyết toán nguyên tử: hai chân của một giao dịch, chân tiền và chân tài sản, hoặc cùng hoàn tất hoặc cùng không xảy ra. Điều này loại bỏ rủi ro một bên đã giao mà bên kia chưa trả.
-- Khả năng lập trình mở ra việc tự động hoá các thao tác vốn tốn kém: trả lãi coupon, gọi ký quỹ, kiểm tra tuân thủ trước giao dịch, xử lý sự kiện doanh nghiệp. Khả năng kết hợp cho phép các ứng dụng tài chính khác nhau gọi lẫn nhau trên cùng một hạ tầng.
-- Điều token hoá không làm là loại bỏ rủi ro. Nó phân bổ lại niềm tin. Thay vì tin vào trung tâm lưu ký chứng khoán và các tổ chức trung gian được cấp phép, người tham gia phải tin vào tính đúng đắn của mã lệnh và vào cơ chế quản trị quyết định ai được sửa mã lệnh đó.
+**Định nghĩa.** Token hoá là việc thể hiện tài sản hoặc quyền dưới dạng bản ghi trên sổ cái lập trình được, nơi việc chuyển giao quyền sở hữu và việc cập nhật sổ sách là cùng một hành vi. Đây là điểm khác biệt cốt lõi so với số hoá thông thường. Số hoá chỉ biến chứng từ giấy thành tệp điện tử, trong khi vẫn giữ nhiều sổ sách tách rời cần đối soát với nhau.
+
+**Hệ thống hiện nay: sổ sách tách rời.** Trong một giao dịch chứng khoán thông thường, bên mua và bên bán gửi lệnh qua ngân hàng lưu ký của mình. Các ngân hàng lưu ký làm việc với trung tâm lưu ký chứng khoán và trung tâm thanh toán; tiền được ghi trên một sổ cái tiền, chứng khoán được ghi trên một sổ cái chứng khoán riêng. Mỗi bên giữ sổ riêng, và các sổ phải được đối soát nhiều vòng để khớp với nhau. Ba hệ quả:
+
+- Quyết toán mất T+1 hoặc T+2, tức một đến hai ngày làm việc sau giao dịch.
+- Trong khoảng chờ đó, rủi ro đối tác tồn tại: một bên có thể đã cam kết giao mà bên kia chưa trả.
+- Để bù rủi ro này, các bên phải ký quỹ, nên một phần vốn bị giam lại.
+
+**Hệ thống token hoá: một sổ cái chung lập trình được.** Tiền token hoá và chứng khoán token hoá nằm trên cùng một sổ cái và được đổi cho nhau bằng một giao dịch hoán đổi nguyên tử (*atomic swap*). Chuyển giao và cập nhật sổ sách là cùng một hành vi. Hệ quả trực tiếp là khả năng **quyết toán nguyên tử**: giao hàng đổi thanh toán (DvP) xảy ra sao cho hai chân của giao dịch, chân tiền và chân tài sản, hoặc cùng hoàn tất hoặc cùng không xảy ra. Điều này loại bỏ rủi ro một bên đã giao mà bên kia chưa trả.
+
+**Khả năng lập trình và khả năng kết hợp.** Vì sổ cái chạy được mã lệnh, hợp đồng thông minh có thể tự động hoá các thao tác vốn tốn kém: trả lãi coupon trái phiếu, gọi ký quỹ, kiểm tra tuân thủ trước khi giao dịch, xử lý sự kiện doanh nghiệp (chia cổ tức, tách cổ phiếu). Khả năng kết hợp (*composability*) cho phép các ứng dụng tài chính khác nhau gọi lẫn nhau trên cùng một hạ tầng.
+
+Tổng hợp lợi ích: giảm rủi ro đối tác, giải phóng ký quỹ, bớt đối soát, hoạt động 24/7 (24 giờ mỗi ngày, 7 ngày mỗi tuần), và khả năng kết hợp giữa các ứng dụng.
+
+**Điều token hoá không làm: loại bỏ rủi ro.** Token hoá phân bổ lại niềm tin. Thay vì tin vào trung tâm lưu ký chứng khoán và các tổ chức trung gian được cấp phép, người tham gia phải tin vào tính đúng đắn của mã lệnh, và vào cơ chế quản trị quyết định ai được sửa mã lệnh đó. Từ đây nảy sinh ba câu hỏi: ai viết mã, ai sửa được mã, và ai chịu trách nhiệm khi mã sai.
 
 ### 2. Ba loại tiền token hoá
 
-- **Tiền gửi token hoá** là nghĩa vụ của ngân hàng thương mại được thể hiện trên sổ cái. Chúng giữ nguyên cấu trúc hai tầng của hệ thống tiền tệ, nằm trong khung quản lý và bảo hiểm tiền gửi hiện hành, nên ít gây gián đoạn nhất. Hạn chế là việc chuyển giữa các ngân hàng khác nhau vẫn cần quyết toán bằng tiền ngân hàng trung ương.
-- **Stablecoin** là nghĩa vụ của tổ chức phi ngân hàng, neo vào tiền pháp định qua tài sản dự trữ. Vấn đề cơ bản là tính đơn nhất của tiền không được bảo đảm: một stablecoin có thể giao dịch lệch mệnh giá, và người nắm giữ chịu rủi ro về chất lượng dự trữ cùng rủi ro rút chạy hàng loạt.
-- **Quỹ thị trường tiền tệ token hoá** đại diện cho yêu cầu trên một rổ tài sản chứ không phải một mệnh giá cố định. Chúng trả lợi tức nhưng không phải phương tiện thanh toán tự nhiên vì việc chuyển đổi đòi hỏi bán tài sản cơ sở.
-- **CBDC bán buôn trên sổ cái token hoá** đóng vai trò neo. Lập luận trung tâm của bài là nếu không có tài sản quyết toán không rủi ro của ngân hàng trung ương hiện diện trực tiếp trên sổ cái, hệ thống token hoá sẽ tái tạo lại đúng các rủi ro tín dụng và thanh khoản mà nó hứa loại bỏ, chỉ là dưới hình thức mới.
+Giao dịch token hoá cần một "chân tiền". Bài phân biệt ba loại tiền tư nhân có thể đóng vai trò này, và một loại tiền ngân hàng trung ương làm neo:
+
+| Loại | Là nghĩa vụ của ai | Ưu điểm | Hạn chế |
+|---|---|---|---|
+| Tiền gửi token hoá | Ngân hàng thương mại | Giữ cấu trúc hai tầng, nằm trong khung quản lý và có bảo hiểm tiền gửi; ít gây gián đoạn nhất | Chuyển giữa các ngân hàng khác nhau vẫn cần quyết toán bằng tiền ngân hàng trung ương, nên cần cầu nối |
+| Stablecoin | Tổ chức phi ngân hàng, neo vào tiền pháp định qua dự trữ | Linh hoạt nhất | Rủi ro cao nhất: tính đơn nhất không được bảo đảm, có thể lệch mệnh giá, rủi ro rút chạy hàng loạt, chất lượng dự trữ, minh bạch |
+| Quỹ thị trường tiền tệ token hoá | Quỹ, đại diện yêu cầu trên một rổ tài sản | Trả lợi tức | Không có mệnh giá cố định; không phải phương tiện thanh toán tự nhiên vì muốn chuyển đổi phải bán tài sản cơ sở |
+| sCBDC (CBDC bán buôn trên sổ cái token hoá) | Ngân hàng trung ương | Tài sản quyết toán không rủi ro; neo của toàn hệ thống | Cần ngân hàng trung ương phát hành và vận hành |
+
+**Tiền gửi token hoá** là nghĩa vụ của ngân hàng thương mại được thể hiện trên sổ cái. Chúng giữ nguyên cấu trúc hai tầng của hệ thống tiền tệ hiện hành (ngân hàng trung ương ở tầng trên, ngân hàng thương mại ở tầng dưới), nằm trong khung quản lý ngân hàng và bảo hiểm tiền gửi, nên ít gây gián đoạn nhất.
+
+**Stablecoin** là nghĩa vụ của tổ chức phi ngân hàng, neo vào tiền pháp định qua tài sản dự trữ. Vấn đề cơ bản là tính đơn nhất của tiền không được bảo đảm: một stablecoin có thể giao dịch lệch mệnh giá, và người nắm giữ chịu rủi ro về chất lượng dự trữ cùng rủi ro rút chạy hàng loạt.
+
+**Quỹ thị trường tiền tệ token hoá** trả lợi tức nhưng không phải phương tiện thanh toán tự nhiên, vì giá trị của nó phụ thuộc vào rổ tài sản và muốn dùng làm tiền thì phải bán tài sản.
+
+**sCBDC đóng vai trò neo.** Vì là tài sản quyết toán không rủi ro, sCBDC giữ được tính đơn nhất của tiền: mọi token tư nhân đều quy đổi về một đơn vị tài khoản chung. Nó cũng cho phép quyết toán nguyên tử mà không cần tin vào bất kỳ bên phát hành tư nhân nào. Lập luận trung tâm của bài là: nếu không có tài sản quyết toán không rủi ro của ngân hàng trung ương hiện diện trực tiếp trên sổ cái, hệ thống token hoá sẽ tái tạo lại đúng các rủi ro tín dụng và rủi ro thanh khoản mà nó hứa loại bỏ, chỉ là dưới hình thức mới.
 
 ### 3. Tác động lên ba khu vực
 
-- **Ngân hàng.** Token hoá có thể rút ngắn chu kỳ quyết toán, giảm nhu cầu ký quỹ và giải phóng vốn. Nhưng nó cũng có thể đẩy nhanh tốc độ rút tiền gửi khi khủng hoảng, vì tiền có thể di chuyển tức thời và liên tục. Câu hỏi về việc quản lý thanh khoản trong môi trường hoạt động 24/7 chưa có lời giải đầy đủ.
-- **Thị trường vốn.** Lợi ích rõ nhất nằm ở các thị trường có chu kỳ quyết toán dài và nhiều khâu đối soát, như trái phiếu doanh nghiệp, quỹ và các giao dịch xuyên biên giới. Token hoá cũng có thể mở rộng khả năng chia nhỏ tài sản, tăng tính tiếp cận với tài sản kém thanh khoản, tuy bài lưu ý rằng chia nhỏ không tự động tạo ra thanh khoản.
-- **Hạ tầng thị trường tài chính.** Vai trò của trung tâm lưu ký, hệ thống quyết toán chứng khoán và đối tác bù trừ trung tâm bị đặt lại câu hỏi. Một số chức năng có thể được mã hoá vào sổ cái, nhưng các chức năng quản trị rủi ro, xử lý vỡ nợ và quản lý khủng hoảng thì khó thay thế bằng mã lệnh.
+**Ngân hàng.** Token hoá có thể rút ngắn chu kỳ quyết toán, giảm nhu cầu ký quỹ và giải phóng vốn. Nhưng nó cũng có thể đẩy nhanh tốc độ rút tiền gửi khi khủng hoảng, vì tiền token hoá di chuyển tức thời và liên tục, không dừng vào cuối tuần hay ban đêm. Câu hỏi quản lý thanh khoản trong môi trường hoạt động 24/7 chưa có lời giải đầy đủ.
+
+**Thị trường vốn.** Lợi ích rõ nhất nằm ở các thị trường có chu kỳ quyết toán dài và nhiều khâu đối soát, như trái phiếu doanh nghiệp, quỹ đầu tư và giao dịch xuyên biên giới. Token hoá cũng có thể mở rộng khả năng chia nhỏ tài sản, giúp nhiều người tiếp cận được tài sản kém thanh khoản (ví dụ một phần nhỏ của một toà nhà). Tuy vậy bài lưu ý rằng chia nhỏ không tự động tạo ra thanh khoản: chia một tài sản thành nhiều phần không bảo đảm có người mua các phần đó.
+
+**Hạ tầng thị trường tài chính.** Vai trò của trung tâm lưu ký chứng khoán (CSD), hệ thống quyết toán chứng khoán và đối tác bù trừ trung tâm (CCP) bị đặt lại câu hỏi. Một số chức năng của chúng, như ghi sổ và đối chiếu, có thể được mã hoá vào sổ cái. Nhưng các chức năng quản trị rủi ro, xử lý khi một thành viên vỡ nợ và quản lý khủng hoảng thì khó thay thế bằng mã lệnh, vì chúng đòi hỏi phán đoán trong tình huống chưa lường trước.
 
 ### 4. Tính chung quyết toán và quản trị mã lệnh
 
-- Bài phân biệt rạch ròi giữa tính nguyên tử, một thuộc tính kỹ thuật của sổ cái, và tính chung quyết toán, một thuộc tính pháp lý xác định thời điểm mà việc chuyển giao không thể bị đảo ngược ngay cả khi một bên phá sản. Hai thứ này không tự động trùng nhau, và khoảng cách giữa chúng là nơi rủi ro ẩn nấp.
-- Các câu hỏi pháp lý chưa được giải quyết thống nhất gồm: luật nào áp dụng cho một sổ cái phân tán qua nhiều quốc gia; token thuộc loại tài sản pháp lý nào; khi mã lệnh thực hiện đúng nhưng kết quả trái ý định các bên thì mã hay hợp đồng thắng; ai có quyền đảo ngược khi có gian lận hoặc lệnh toà án; và token của khách hàng có được tách khỏi khối tài sản phá sản của trung gian hay không.
-- Về quản trị mã lệnh, bài đặt các câu hỏi thực tiễn: ai kiểm toán mã trước khi triển khai, ai có quyền nâng cấp, quy trình nào áp dụng khi phát hiện lỗi, và ai chịu trách nhiệm tài chính cho tổn thất do lỗi mã. Nguyên tắc đề xuất là cùng hoạt động thì cùng rủi ro và cùng quy định, bất kể hình thức công nghệ.
+**Vấn đề cốt lõi.** Bài phân biệt rạch ròi hai khái niệm. Tính nguyên tử ("quyết toán nguyên tử") là thuộc tính kỹ thuật của sổ cái. Tính chung quyết toán là thuộc tính pháp lý, xác định thời điểm mà việc chuyển giao không thể bị đảo ngược, ngay cả khi một bên phá sản. Hai thứ này không tự động trùng nhau, và khoảng cách giữa chúng là nơi rủi ro ẩn nấp: một giao dịch có thể đã xong trên sổ cái nhưng về mặt pháp lý vẫn có thể bị huỷ.
+
+**Năm câu hỏi pháp lý chưa có lời đáp thống nhất:**
+
+1. Luật nào áp dụng cho một sổ cái phân tán qua nhiều quốc gia?
+2. Token là loại tài sản gì về mặt pháp lý: chứng khoán, hàng hoá, yêu cầu theo hợp đồng, hay một loại mới?
+3. Nếu mã lệnh thực hiện đúng nhưng kết quả trái với ý định của các bên, cái nào thắng: mã hay hợp đồng?
+4. Ai có quyền đảo ngược giao dịch khi có gian lận hoặc lệnh toà án?
+5. Khi một bên trung gian phá sản, token của khách hàng có được tách khỏi khối tài sản phá sản của bên trung gian đó không?
+
+**Hệ quả.** Nếu không xử lý những câu hỏi này, token hoá không loại bỏ rủi ro. Nó chỉ di chuyển rủi ro từ nơi có khung pháp lý rõ ràng sang nơi chưa có.
+
+**Quản trị mã lệnh.** Bài đặt các câu hỏi thực tiễn: ai kiểm toán mã trước khi triển khai, ai có quyền nâng cấp, quy trình nào áp dụng khi phát hiện lỗi, và ai chịu trách nhiệm tài chính cho tổn thất do lỗi mã. Nguyên tắc đề xuất là "cùng hoạt động, cùng rủi ro, cùng quy định": quản lý theo bản chất của hoạt động, bất kể nó được thực hiện bằng công nghệ nào.
 
 ### 5. Rủi ro đối với các nền kinh tế mới nổi và đang phát triển
 
-- Rủi ro nổi bật nhất là thay thế tiền tệ. Nếu token ngoại tệ, đặc biệt là stablecoin neo đô la, dễ tiếp cận qua điện thoại di động, người dân ở các nước có lạm phát cao hoặc đồng tiền biến động có thể chuyển sang dùng chúng nhanh hơn nhiều so với các đợt đô la hoá trước đây, vốn bị giới hạn bởi chi phí và ma sát vật lý.
-- Hệ quả là chính sách tiền tệ trong nước mất hiệu lực, cơ sở tiền gửi của hệ thống ngân hàng bị bào mòn, và ngân hàng trung ương mất nguồn thu phát hành tiền.
-- Các biện pháp quản lý dòng vốn có thể bị lách vì token di chuyển qua biên giới mà không đi qua hệ thống ngân hàng đại lý truyền thống, nơi các biện pháp này vốn được thực thi.
-- Bài cũng nêu rủi ro ngược: nếu các nước này bị loại khỏi hạ tầng token hoá đang hình thành, chi phí và thời gian cho thanh toán xuyên biên giới cùng kiều hối có thể vẫn cao trong khi các nước khác hưởng lợi.
+**Thay thế tiền tệ là rủi ro nổi bật nhất.** Nếu token ngoại tệ, đặc biệt là stablecoin neo đô la, dễ tiếp cận qua điện thoại di động, người dân ở các nước có lạm phát cao hoặc đồng tiền biến động có thể chuyển sang dùng chúng nhanh hơn nhiều so với các đợt đô la hoá trước đây. Các đợt đô la hoá trước bị giới hạn bởi chi phí và ma sát vật lý: phải đến quầy đổi tiền, phải cất giữ tiền mặt. Với token trên điện thoại, những rào cản đó gần như biến mất.
+
+Hệ quả của thay thế tiền tệ:
+
+- chính sách tiền tệ trong nước mất hiệu lực, vì lãi suất nội tệ không còn tác động tới phần tài sản người dân giữ bằng token ngoại tệ;
+- cơ sở tiền gửi của hệ thống ngân hàng bị bào mòn, ngân hàng có ít vốn hơn để cho vay;
+- ngân hàng trung ương mất nguồn thu phát hành tiền.
+
+**Lách quản lý dòng vốn.** Các biện pháp quản lý dòng vốn (CFM) có thể bị lách, vì token di chuyển qua biên giới mà không đi qua hệ thống ngân hàng đại lý truyền thống, nơi các biện pháp này vốn được thực thi.
+
+**Rủi ro ngược chiều.** Bài cũng nêu một rủi ro theo hướng ngược lại: nếu các nước này bị loại khỏi hạ tầng token hoá đang hình thành, chi phí và thời gian cho thanh toán xuyên biên giới cùng kiều hối của họ có thể vẫn cao, trong khi các nước khác hưởng lợi.
 
 ### 6. Ba kịch bản và lộ trình
 
-- **Ngõ cụt:** các thí điểm không mở rộng được vì chi phí chuyển đổi vượt lợi ích và hệ thống hiện hành vẫn đủ tốt; token hoá thành một ngách.
-- **Song song:** hai hệ thống cùng tồn tại được nối bằng cầu nối; hưởng một phần lợi ích nhưng chịu chi phí vận hành kép và thanh khoản phân mảnh.
-- **Chuyển đổi:** tài chính bán buôn dịch chuyển lên hạ tầng token hoá chung có sCBDC làm neo; đạt lợi ích đầy đủ nhưng đòi hỏi mức độ phối hợp quốc tế chưa từng có.
-- Lộ trình năm trụ cột: làm rõ khung pháp lý trước chứ không phải sau; bảo đảm có tài sản quyết toán của ngân hàng trung ương trên sổ cái; xây chuẩn liên thông để tránh phân mảnh; thiết lập quản trị mã lệnh có trách nhiệm giải trình; và bảo vệ các nền kinh tế mới nổi khỏi thay thế tiền tệ đồng thời xây năng lực giám sát.
-- Các phụ lục minh hoạ bằng các dự án thực tế: Jura và Agorá về thanh toán xuyên biên giới bằng tiền token hoá, DTCC cùng Eurex và HQLAx về quản lý tài sản bảo đảm, nền tảng XC về kiến trúc liên thông, và so sánh trực tiếp giữa stablecoin với sCBDC về đặc tính rủi ro.
+**Ba kịch bản phát triển:**
+
+| Kịch bản | Mô tả | Kết quả |
+|---|---|---|
+| A. Ngõ cụt | Các thí điểm không mở rộng được vì chi phí chuyển đổi vượt lợi ích, hệ thống hiện hành vẫn đủ tốt | Token hoá thành một ngách nhỏ |
+| B. Song song | Hệ thống token hoá và hệ thống truyền thống cùng tồn tại, nối với nhau bằng cầu nối | Hưởng một phần lợi ích, nhưng thanh khoản phân mảnh và chi phí vận hành kép |
+| C. Chuyển đổi | Tài chính bán buôn dịch chuyển lên hạ tầng token hoá chung, có sCBDC làm neo | Lợi ích đầy đủ, nhưng đòi hỏi mức phối hợp quốc tế chưa từng có |
+
+**Lộ trình năm trụ cột:**
+
+1. **Rõ ràng pháp lý:** định danh tài sản, tính chung quyết toán, luật áp dụng, quy tắc phá sản. Bài nhấn mạnh việc này phải làm trước, không làm sau.
+2. **Tài sản quyết toán:** bảo đảm có tiền ngân hàng trung ương trên sổ cái token hoá, hoặc một cơ chế tương đương.
+3. **Khả năng liên thông:** xây chuẩn chung để tránh hệ thống bị phân mảnh thành các "hòn đảo" thanh khoản không nối với nhau.
+4. **Quản trị mã lệnh:** xác định ai kiểm toán, ai nâng cấp, ai chịu trách nhiệm, theo nguyên tắc "cùng hoạt động, cùng rủi ro, cùng quy định".
+5. **Bảo vệ EMDE:** chống thay thế tiền tệ bằng token ngoại tệ, giữ hiệu lực của quản lý dòng vốn, và xây năng lực giám sát.
+
+**Các dự án minh hoạ trong phụ lục.** Bài minh hoạ bằng các dự án thực tế: Jura và Agorá về thanh toán xuyên biên giới bằng tiền token hoá; DTCC cùng Eurex và HQLAx về quản lý tài sản bảo đảm; nền tảng XC về kiến trúc liên thông; và một phép so sánh trực tiếp giữa stablecoin với sCBDC về đặc tính rủi ro.
 
 ## Thuật ngữ
 

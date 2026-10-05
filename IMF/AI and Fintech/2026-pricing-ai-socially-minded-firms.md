@@ -116,43 +116,120 @@
 2. Bốn động cơ xã hội tác động tới giá theo chiều nào và với độ lớn bao nhiêu?
 3. Chính sách giá của doanh nghiệp có thể thay thế thuế và chuyển nhượng của nhà nước không?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Chi phí biên (marginal cost).** Chi phí phải bỏ thêm để làm ra thêm một đơn vị sản phẩm. Với sản phẩm AI, chi phí biên là tiền điện và năng lực tính toán cho thêm một lượt trả lời, thường rất nhỏ; phần tốn kém lớn là huấn luyện mô hình, vốn là chi phí cố định. Ví dụ minh hoạ: nếu mỗi lượt trả lời tốn 1 xu tiền tính toán thì chi phí biên là 1 xu, dù công ty đã chi hàng trăm triệu đô la để huấn luyện mô hình. Khái niệm này quan trọng vì mọi quy tắc định giá trong bài đều đo giá so với chi phí biên.
+
+**Biên giá (markup).** Phần chênh giữa giá và chi phí biên, tính theo tỷ lệ trên giá: (P − MC)/P, với P là giá và MC là chi phí biên. Ví dụ minh hoạ: giá 10 đô la, chi phí biên 6 đô la thì biên giá là (10 − 6)/10 = 40%. Mọi kết quả định lượng của bài (32%, 50%, 15%, 7%…) đều là biên giá theo nghĩa này.
+
+**Độ co giãn của cầu theo giá (price elasticity), ký hiệu ε.** Phần trăm lượng mua giảm khi giá tăng 1%. Ví dụ minh hoạ: nếu giá tăng 1% làm lượng mua giảm 3% thì ε = 3. Cầu càng co giãn (ε lớn) thì người mua càng dễ bỏ đi khi giá lên, nên doanh nghiệp càng khó đặt giá cao. Trong bài, khi AI mạnh hơn và hữu ích hơn, người dùng khó bỏ nó hơn, tức cầu ít co giãn đi.
+
+**Quy tắc Lerner (Lerner Rule).** Công thức chuẩn của kinh tế học cho doanh nghiệp tối đa hoá lợi nhuận: biên giá tối ưu bằng nghịch đảo độ co giãn, (P − MC)/P = 1/ε. Ví dụ minh hoạ: với ε = 3, biên giá tối ưu là 1/3, khoảng 33%; với ε = 2, biên giá là 50%. Bài lấy công thức này làm điểm xuất phát và chỉ sửa đúng một chỗ là tử số.
+
+**Chỉ số động cơ tổng hợp (motive index), ký hiệu M.** Con số thay cho số 1 ở tử số của Quy tắc Lerner, gom mọi mục tiêu của doanh nghiệp vào một chỗ. M = 1 nghĩa là doanh nghiệp chỉ quan tâm lợi nhuận; M < 1 nghĩa là doanh nghiệp coi trọng phúc lợi xã hội và đặt giá thấp hơn. Ví dụ minh hoạ: với ε = 3 và M = 0,6, biên giá là 0,6/3 = 20% thay vì 33%. Đây là khái niệm trung tâm của bài, vì toàn bộ nội dung xã hội nằm trong M.
+
+**Thặng dư tiêu dùng (consumer surplus).** Phần lợi người mua nhận được vượt quá số tiền họ trả. Ví dụ minh hoạ: một người sẵn lòng trả 30 đô la mỗi tháng cho một công cụ AI nhưng chỉ phải trả 20 đô la thì thặng dư tiêu dùng của họ là 10 đô la. Doanh nghiệp coi trọng thặng dư này sẽ muốn hạ giá để nhiều người được lợi hơn.
+
+**Trọng số phúc lợi xã hội (social welfare weight) và hiệp phương sai.** Trọng số phúc lợi cho biết xã hội coi một đô la đến tay mỗi nhóm thu nhập là quý đến mức nào; thường một đô la cho người nghèo được tính nặng hơn một đô la cho người giàu. Hiệp phương sai đo hai đại lượng có đi cùng chiều với nhau hay không. Ví dụ minh hoạ: nếu nhóm thu nhập cao dùng sản phẩm gấp ba lần nhóm thu nhập thấp, thì mức tiêu dùng đi ngược chiều với trọng số phúc lợi (hiệp phương sai âm). Khái niệm này quyết định dấu của động cơ phân phối trong bài.
+
+**Nhà hoạch định xã hội (social planner) và chuyển nhượng nhắm đúng đối tượng (targeted transfer).** Nhà hoạch định xã hội là một nhân vật giả định, có trong tay mọi công cụ của nhà nước như thuế và trợ cấp, và chọn mọi thứ để tối đa phúc lợi chung. Chuyển nhượng nhắm đúng đối tượng là khoản tiền chuyển thẳng tới người cần hỗ trợ, ví dụ trợ cấp tiền mặt cho hộ thu nhập thấp. Bài dùng nhân vật này làm thước đo: khoảng cách giữa giá của doanh nghiệp và giá của nhà hoạch định cho biết cái giá của việc dùng giá thay cho chính sách tài khoá.
+
+## Nội dung chi tiết
 
 ### 1. Vấn đề đặt ra
 
-- Nhiều công ty AI hàng đầu công khai tuyên bố theo đuổi mục tiêu xã hội bên cạnh lợi nhuận, thể hiện qua cấu trúc sở hữu đặc biệt, điều lệ công ty và các cam kết công khai. Nhưng khi đến lúc đặt giá cho sản phẩm, họ không có khung phân tích nào để tham chiếu.
-- Câu hỏi không tầm thường vì giá của sản phẩm AI quyết định đồng thời ba thứ: ai được tiếp cận công nghệ, doanh nghiệp thu được bao nhiêu để tái đầu tư vào nghiên cứu an toàn, và tốc độ mà lao động bị thay thế.
-- Bài lấp khoảng trống này bằng cách mở rộng công cụ chuẩn của kinh tế học định giá là Quy tắc Lerner, sao cho nó chứa được các mục tiêu xã hội mà vẫn giữ dạng đơn giản và có thể hiệu chuẩn bằng số liệu.
+Nhiều công ty AI hàng đầu công khai tuyên bố theo đuổi mục tiêu xã hội bên cạnh lợi nhuận. Cam kết này được thể hiện qua cấu trúc sở hữu đặc biệt, qua điều lệ công ty và qua các tuyên bố công khai. Nhưng khi đến lúc đặt giá cho sản phẩm, họ không có khung phân tích nào để tham chiếu: kinh tế học có sẵn công thức định giá cho doanh nghiệp chỉ cần lợi nhuận, chứ không có công thức cho doanh nghiệp vừa muốn lợi nhuận vừa muốn phục vụ xã hội.
+
+Câu hỏi này không tầm thường vì giá của sản phẩm AI quyết định cùng lúc ba việc:
+
+- **Ai được tiếp cận công nghệ.** Giá cao loại bớt người dùng có thu nhập thấp.
+- **Doanh nghiệp thu được bao nhiêu để tái đầu tư**, trong đó có nghiên cứu về an toàn AI.
+- **Tốc độ lao động bị thay thế.** Giá càng thấp, doanh nghiệp khách hàng càng nhanh dùng AI thay cho người làm.
+
+Bài lấp khoảng trống này bằng cách mở rộng công cụ chuẩn của kinh tế học định giá là Quy tắc Lerner. Yêu cầu đặt ra là bản mở rộng phải chứa được các mục tiêu xã hội, mà vẫn giữ được dạng đơn giản như bản gốc và vẫn hiệu chuẩn được bằng số liệu thực tế.
 
 ### 2. Khung lý thuyết
 
-- Trong Quy tắc Lerner cổ điển, biên lợi nhuận tương đối bằng nghịch đảo của độ co giãn cầu. Doanh nghiệp đối mặt với cầu ít co giãn định giá cao hơn.
-- Quy tắc Lerner Mở rộng giữ nguyên cấu trúc nhưng thay tử số bằng một chỉ số động cơ tổng hợp. Khi chỉ số này bằng một, ta quay lại trường hợp tối đa hoá lợi nhuận. Khi nhỏ hơn một, doanh nghiệp định giá thấp hơn.
-- Chỉ số động cơ được phân rã thành bốn thành phần. **Động cơ lợi nhuận** phản ánh trọng số doanh nghiệp đặt lên lợi nhuận của mình và đẩy giá lên. **Động cơ thặng dư tiêu dùng** phản ánh việc coi trọng lợi ích người dùng và đẩy giá xuống. **Động cơ phân phối** phản ánh việc đặt trọng số cao hơn lên phúc lợi của người thu nhập thấp. **Động cơ lao động** phản ánh việc tính tới tổn thất của người lao động bị sản phẩm thay thế.
-- Điểm tinh tế nhất của khung này là hai động cơ cuối kéo ngược chiều nhau. Quan tâm tới người tiêu dùng nói hãy hạ giá để nhiều người tiếp cận được; quan tâm tới người lao động bị thay thế nói đừng hạ quá nhanh, vì giá thấp đẩy nhanh việc áp dụng và do đó đẩy nhanh dịch chuyển việc làm.
+**Điểm xuất phát: Quy tắc Lerner cổ điển.** Doanh nghiệp tối đa hoá lợi nhuận đặt giá sao cho
+
+(P − MC)/P = 1/ε,
+
+tức biên lợi nhuận tương đối bằng nghịch đảo của độ co giãn cầu. Biên giá tỷ lệ nghịch với độ co giãn: doanh nghiệp đối mặt với cầu ít co giãn (người mua khó bỏ đi) thì định giá cao hơn. Ví dụ minh hoạ: nếu ε = 3 thì biên giá là khoảng 33%; nếu ε giảm xuống 2 thì biên giá lên 50%.
+
+**Bản mở rộng: Quy tắc Lerner Mở rộng.** Với doanh nghiệp có mục tiêu xã hội, bài chứng minh giá tối ưu thoả mãn
+
+(P − MC)/P = M/ε.
+
+Cấu trúc giữ nguyên, chỉ có tử số thay đổi: số 1 được thay bằng chỉ số động cơ tổng hợp M. Khi M = 1, ta quay lại đúng trường hợp tối đa hoá lợi nhuận. Khi M < 1, doanh nghiệp coi trọng phúc lợi xã hội và định giá thấp hơn. Như vậy cùng một công thức, nhưng toàn bộ nội dung xã hội được dồn vào tử số. Ưu điểm của cách viết này là người đọc chỉ cần biết hai con số, M và ε, để biết một doanh nghiệp sẽ đặt biên giá bao nhiêu.
+
+**M được tạo từ bốn động cơ.** Bài phân rã M thành bốn thành phần, mỗi thành phần kéo giá theo một hướng:
+
+| Động cơ | Nội dung | Tác động lên giá |
+|---|---|---|
+| Động cơ lợi nhuận | Trọng số doanh nghiệp đặt lên lợi nhuận của chính mình | Đẩy giá lên |
+| Động cơ thặng dư tiêu dùng | Coi trọng lợi ích người dùng nhận được ngoài phần tiền họ trả | Đẩy giá xuống |
+| Động cơ phân phối | Đặt trọng số cao hơn lên phúc lợi của người thu nhập thấp | Đẩy giá xuống (trong trường hợp thông thường), nhưng độ lớn nhỏ |
+| Động cơ lao động | Tính tới việc sản phẩm làm dịch chuyển việc làm, gây tổn thất cho người lao động bị thay thế | Đẩy giá lên, vì giá cao làm chậm tốc độ áp dụng AI |
+
+**Điểm tinh tế nhất: hai động cơ kéo ngược chiều nhau.** Động cơ thặng dư tiêu dùng và động cơ lao động đối nghịch. Quan tâm tới người tiêu dùng nói "hãy hạ giá" để nhiều người tiếp cận được. Quan tâm tới người lao động bị thay thế nói "đừng hạ quá nhanh", vì giá thấp làm doanh nghiệp khách hàng áp dụng AI nhanh hơn, và do đó đẩy nhanh việc mất việc làm. Một doanh nghiệp quan tâm tới cả hai nhóm phải cân hai lực này với nhau, và giá cuối cùng phụ thuộc vào lực nào lớn hơn.
 
 ### 3. Năm mệnh đề
 
-- Mệnh đề đầu thiết lập sự tồn tại và dạng của quy tắc mở rộng với các giả định cầu chuẩn.
-- Mệnh đề thứ hai cho thấy doanh nghiệp vị lợi thuần tuý định giá thấp hơn doanh nghiệp tối đa hoá lợi nhuận, nhưng vẫn cao hơn chi phí biên khi tồn tại chi phí cố định cần thu hồi. Đây là điểm quan trọng: ngay cả một doanh nghiệp hoàn toàn không quan tâm tới lợi nhuận riêng cũng không nên định giá bằng chi phí biên, vì như vậy sẽ không có nguồn cho nghiên cứu và phát triển.
-- Mệnh đề thứ ba đưa ra một kết quả trái trực giác. Đóng góp của động cơ phân phối vào chỉ số động cơ tỷ lệ với hiệp phương sai giữa trọng số phúc lợi xã hội và mức tiêu dùng sản phẩm. Vì sản phẩm AI cao cấp thường được người thu nhập cao dùng nhiều hơn, hiệp phương sai này có thể mang dấu khiến động cơ phân phối làm giá tăng chứ không giảm.
-- Mệnh đề thứ tư định lượng động cơ lao động: nó làm giá tăng khi sản phẩm thay thế lao động, với độ lớn tỷ lệ với tổn thất phúc lợi của người bị dịch chuyển và tốc độ dịch chuyển.
-- Mệnh đề thứ năm là kết luận chính sách: định giá là công cụ phân phối lại kém hiệu quả so với thuế và chuyển nhượng, vì nó chỉ tác động qua một sản phẩm duy nhất và không nhắm được đúng đối tượng cần hỗ trợ.
+Phần lý thuyết của bài được tóm lại trong năm mệnh đề:
+
+**Mệnh đề 1: tồn tại và dạng của quy tắc mở rộng.** Với các giả định chuẩn về hàm cầu, giá tối ưu của doanh nghiệp có mục tiêu xã hội luôn tồn tại và thoả mãn (P − MC)/P = M/ε, với M tổng hợp bốn động cơ nói trên.
+
+**Mệnh đề 2: doanh nghiệp vị lợi thuần tuý.** Doanh nghiệp vị lợi thuần tuý là doanh nghiệp chỉ tối đa hoá tổng phúc lợi, không đặt trọng số riêng nào cho lợi nhuận của mình. Doanh nghiệp này định giá thấp hơn doanh nghiệp tối đa hoá lợi nhuận, nhưng vẫn cao hơn chi phí biên khi có chi phí cố định phải thu hồi. Đây là điểm quan trọng: ngay cả một doanh nghiệp hoàn toàn không quan tâm tới lợi nhuận riêng cũng không nên định giá bằng chi phí biên. Nếu bán đúng bằng chi phí biên, doanh nghiệp không thu lại được khoản tiền đã bỏ ra để huấn luyện mô hình, và sẽ không có nguồn cho nghiên cứu và phát triển tiếp theo.
+
+**Mệnh đề 3: động cơ phân phối có thể làm giá tăng.** Đây là kết quả trái trực giác. Phần đóng góp của động cơ phân phối vào M tỷ lệ với hiệp phương sai giữa trọng số phúc lợi xã hội và mức tiêu dùng sản phẩm. Nói bằng lời thường: hạ giá chỉ giúp người nghèo nhiều hơn người giàu khi người nghèo dùng sản phẩm nhiều hơn. Sản phẩm AI cao cấp thường được người thu nhập cao dùng nhiều hơn, nên hiệp phương sai này có thể mang dấu khiến động cơ phân phối làm giá tăng chứ không giảm. Lý do: hạ giá một sản phẩm mà người giàu dùng nhiều thì phần lớn lợi ích của việc hạ giá đến tay người giàu.
+
+**Mệnh đề 4: động cơ lao động.** Động cơ lao động làm giá tăng khi sản phẩm thay thế lao động. Độ lớn của nó tỷ lệ với hai thứ: tổn thất phúc lợi của người bị dịch chuyển, và tốc độ dịch chuyển.
+
+**Mệnh đề 5: kết luận chính sách.** Định giá là công cụ phân phối lại kém hiệu quả so với thuế và chuyển nhượng. Lý do là giá chỉ tác động qua một sản phẩm duy nhất, và một mức giá áp chung cho mọi người không nhắm được đúng đối tượng cần hỗ trợ.
 
 ### 4. Hiệu chuẩn và kết quả định lượng
 
-- Mô hình được hiệu chuẩn trên 525 nghề nghiệp tại Hoa Kỳ, với mức độ tiếp xúc của tác vụ với AI đặt ở 4%, độ co giãn thay thế bằng 3, chi phí dịch chuyển lao động bằng một nửa mức lương trung bình, và các trọng số động cơ đặt ở 0,5.
-- Khi năng lực AI tăng, doanh nghiệp tối đa hoá lợi nhuận tăng biên giá từ 32% lên 50%, vì cầu trở nên ít co giãn hơn khi sản phẩm hữu ích hơn.
-- Doanh nghiệp vị lợi thuần tuý cũng tăng biên giá nhưng từ mức thấp hơn nhiều, từ 15% lên 20%, chủ yếu để trang trải chi phí cố định.
-- Doanh nghiệp đa mục tiêu cho kết quả đáng chú ý nhất: biên giá đi theo chiều ngược lại, giảm từ 33% xuống 15%. Cơ chế là khi AI mạnh hơn, lợi ích tiêu dùng tăng nhanh hơn tổn thất dịch chuyển lao động, nên cân bằng giữa hai động cơ đối nghịch dịch chuyển về phía hạ giá. Điều này có nghĩa là các loại doanh nghiệp khác nhau không chỉ ở mức giá mà ở cả hình dạng quỹ đạo giá theo thời gian.
-- Về động cơ phân phối, kết quả rất rõ ràng: ở nhóm thu nhập thấp nhất, động cơ này kéo giá xuống khoảng một xu; ở nhóm thu nhập cao nhất, nó kéo giá lên khoảng mười hai xu. Nói cách khác, mối quan tâm phân phối gần như không có ý nghĩa kinh tế trong quyết định giá.
-- So sánh với nhà hoạch định xã hội có đầy đủ công cụ thuế: biên giá tối ưu chỉ 7%, và giảm xuống dưới 1% khi có sẵn cơ chế chuyển nhượng nhắm đúng đối tượng. Khoảng cách giữa 15% của doanh nghiệp vị lợi và 7% của nhà hoạch định chính là cái giá của việc phải dùng giá thay cho chính sách tài khoá.
+**Các tham số hiệu chuẩn.** Mô hình được hiệu chuẩn trên 525 nghề nghiệp tại Hoa Kỳ, với các giá trị sau:
+
+| Tham số | Ý nghĩa | Giá trị |
+|---|---|---|
+| α | Mức độ tiếp xúc của tác vụ với AI | 4% |
+| σ | Độ co giãn thay thế giữa AI và lao động | 3 |
+| ψ | Chi phí dịch chuyển của người lao động bị thay thế | 0,5 × mức lương trung bình |
+| μ = λ | Trọng số các động cơ | 0,5 |
+
+**Ba loại doanh nghiệp đi theo ba quỹ đạo khác nhau khi năng lực AI tăng:**
+
+| Loại doanh nghiệp | Biên giá khi AI mạnh dần | Cơ chế |
+|---|---|---|
+| Tối đa hoá lợi nhuận | Tăng từ 32% lên 50% | Sản phẩm hữu ích hơn nên cầu ít co giãn hơn, doanh nghiệp tăng biên |
+| Vị lợi thuần tuý (utilitarian) | Tăng từ 15% lên 20% | Định giá thấp hơn nhiều, chủ yếu chỉ đủ trang trải chi phí cố định |
+| Đa mục tiêu (multi-objective) | Giảm từ 33% xuống 15% | Đi theo chiều ngược lại: lợi ích tiêu dùng tăng nhanh hơn tổn thất dịch chuyển lao động, nên cân bằng giữa hai động cơ đối nghịch dịch về phía hạ giá |
+
+Kết quả của doanh nghiệp đa mục tiêu là đáng chú ý nhất. Khi AI mạnh hơn, mối lo về dịch chuyển lao động nhỏ dần so với lợi ích mà người tiêu dùng nhận được, nên doanh nghiệp giảm biên giá. Điều này cho thấy các loại doanh nghiệp khác nhau không chỉ ở mức giá mà ở cả hình dạng quỹ đạo giá theo thời gian: một loại tăng biên, một loại giảm biên.
+
+**Độ lớn của động cơ phân phối: kết quả then chốt.** Bài tính riêng phần mà động cơ phân phối đóng góp vào giá ở từng nhóm thu nhập:
+
+- Ở nhóm thu nhập thấp nhất, động cơ này kéo giá xuống khoảng 1 xu.
+- Ở nhóm thu nhập cao nhất, nó kéo giá lên khoảng 12 xu.
+
+Nói cách khác, mối quan tâm phân phối gần như không có ý nghĩa kinh tế trong quyết định giá. Một doanh nghiệp tuyên bố định giá vì công bằng thực ra chỉ thay đổi được giá vài xu.
+
+**So sánh với nhà hoạch định xã hội.** Nhà hoạch định xã hội có đầy đủ công cụ thuế sẽ đặt biên giá tối ưu chỉ 7%. Nếu có thêm cơ chế chuyển nhượng nhắm đúng đối tượng, biên giá tối ưu giảm xuống dưới 1%. Khoảng cách giữa 15% của doanh nghiệp vị lợi và 7% của nhà hoạch định chính là cái giá của việc phải dùng giá thay cho chính sách tài khoá. Doanh nghiệp vị lợi không định giá cao hơn vì tham lợi nhuận, mà vì nó phải tự thu hồi chi phí cố định qua giá, trong khi nhà hoạch định có thể thu hồi qua thuế chung.
+
+| Chủ thể định giá | Biên giá tối ưu |
+|---|---|
+| Doanh nghiệp vị lợi thuần tuý | 15% (lên 20% khi AI mạnh hơn) |
+| Nhà hoạch định xã hội có công cụ thuế | 7% |
+| Nhà hoạch định có thêm chuyển nhượng nhắm đúng đối tượng | Dưới 1% |
 
 ### 5. Hàm ý
 
-- Với doanh nghiệp: tuyên bố mục tiêu xã hội hàm ý một mức giá thấp hơn đáng kể so với tối đa hoá lợi nhuận, nhưng không hàm ý định giá bằng chi phí. Và nếu doanh nghiệp thực sự quan tâm tới người lao động bị thay thế, họ nên nhận ra rằng mối quan tâm đó đẩy giá theo chiều ngược với mối quan tâm tới người tiêu dùng.
-- Với nhà hoạch định chính sách: không nên trông cậy vào chính sách giá của doanh nghiệp để đạt mục tiêu phân phối. Công cụ phân phối lại phải là thuế và chuyển nhượng. Điều nhà nước nên quan tâm ở khâu định giá là sức mạnh thị trường và khả năng tiếp cận, chứ không phải công bằng.
-- Bài cũng gợi ý rằng nếu xã hội muốn doanh nghiệp AI tính tới chi phí dịch chuyển lao động, cách hiệu quả hơn là nội hoá chi phí đó qua thuế hoặc qua cơ chế bảo hiểm, thay vì trông cậy vào lòng vị tha của doanh nghiệp thể hiện qua giá.
+**Với doanh nghiệp.** Tuyên bố mục tiêu xã hội hàm ý một mức giá thấp hơn đáng kể so với tối đa hoá lợi nhuận, nhưng không hàm ý định giá bằng chi phí, vì chi phí cố định vẫn phải được thu hồi. Và nếu doanh nghiệp thực sự quan tâm tới người lao động bị thay thế, họ cần nhận ra rằng mối quan tâm đó đẩy giá theo chiều ngược với mối quan tâm tới người tiêu dùng; hai mục tiêu không thể cùng được phục vụ tối đa bằng một mức giá.
+
+**Với nhà hoạch định chính sách.** Không nên trông cậy vào chính sách giá của doanh nghiệp để đạt mục tiêu phân phối, vì như bài đã tính, tác động phân phối của giá chỉ vài xu. Công cụ phân phối lại phải là thuế và chuyển nhượng. Ở khâu định giá, điều nhà nước nên quan tâm là sức mạnh thị trường (doanh nghiệp có đang lạm dụng vị thế để đặt giá cao không) và khả năng tiếp cận, chứ không phải công bằng phân phối.
+
+**Về chi phí dịch chuyển lao động.** Bài gợi ý rằng nếu xã hội muốn doanh nghiệp AI tính tới chi phí mà người lao động bị thay thế phải gánh, cách hiệu quả hơn là nội hoá chi phí đó, tức là buộc nó hiện ra trong chi phí của doanh nghiệp, qua thuế hoặc qua một cơ chế bảo hiểm cho người lao động. Cách này tốt hơn việc trông cậy vào lòng vị tha của doanh nghiệp thể hiện qua giá.
 
 ## Thuật ngữ
 

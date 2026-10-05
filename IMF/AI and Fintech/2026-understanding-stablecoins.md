@@ -169,52 +169,137 @@
 2. Chúng đang được dùng để làm gì trong thực tế, và số liệu thị trường nói gì sau khi lọc nhiễu?
 3. Các khung quản lý lớn đang hội tụ ở đâu và còn khác nhau ở đâu?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Stablecoin.** Token mã hoá được thiết kế để giữ giá trị ổn định so với một tài sản tham chiếu, thường là một đồng tiền pháp định như đô la Mỹ. Bên phát hành nhận tiền thật, phát ra token tương ứng, và giữ một lượng tài sản dự trữ để bảo đảm cho số token đang lưu hành. Ví dụ minh hoạ: một bên phát hành có 1 tỷ token đang lưu hành, mỗi token hứa đổi được 1 đô la, thì cần nắm khoảng 1 tỷ đô la tài sản dự trữ. Bài lập luận rằng "stablecoin" thật ra là một họ công cụ rất khác nhau, chứ không phải một thứ duy nhất.
+
+**Cơ chế neo giá (peg).** Cách một stablecoin giữ giá ở mệnh giá. Có ba nhóm: bảo chứng bằng tiền pháp định (giữ tiền và tài sản an toàn), bảo chứng bằng tiền mã hoá (thường phải thế chấp vượt mức), và thuật toán (dựa vào quy tắc tự động tăng giảm nguồn cung, không có tài sản bảo chứng đầy đủ). Ví dụ minh hoạ về thế chấp vượt mức: muốn phát hành 100 đô la stablecoin phải khoá 150 đô la tiền mã hoá, để nếu giá tiền mã hoá giảm một phần ba thì vẫn đủ bảo chứng. Nhóm thuật toán đã sụp đổ trong vụ TerraUSD tháng 5/2022.
+
+**Mất neo (de-pegging).** Giá thị trường của stablecoin lệch khỏi mệnh giá tham chiếu. Ví dụ minh hoạ: một stablecoin hứa bằng 1 đô la nhưng trong lúc hoảng loạn chỉ bán được 0,95 đô la; người nắm giữ mất 5%. Khái niệm này cho thấy lời hứa "ổn định" không phải lúc nào cũng giữ được.
+
+**Quyền quy đổi (redemption right) và đối tác được cấp phép.** Quyền đưa token trở lại bên phát hành để lấy tiền pháp định theo mệnh giá. Ở đa số stablecoin lớn, chỉ một số đối tác được cấp phép (thường là tổ chức tài chính lớn) mới quy đổi trực tiếp được; người nắm giữ lẻ phải bán token cho người khác trên thị trường thứ cấp. Ví dụ minh hoạ: một người giữ 500 token muốn đổi ra đô la không gửi được yêu cầu cho bên phát hành, mà phải bán trên sàn với giá thị trường lúc đó. Đây là điểm thường bị hiểu sai nhất về stablecoin.
+
+**Rút chạy hàng loạt (run) và người cho vay cuối cùng (lender of last resort).** Rút chạy là khi nhiều người nắm giữ cùng lúc đòi đổi lại tiền, buộc bên phát hành bán tài sản dự trữ, có khi phải bán tháo dưới giá. Người cho vay cuối cùng là ngân hàng trung ương, có thể cho ngân hàng vay khẩn cấp để ngăn rút chạy lan rộng. Ví dụ minh hoạ: nếu 30% người nắm giữ đòi đổi trong một ngày mà dự trữ chủ yếu là tài sản phải mất nhiều ngày mới bán được, bên phát hành không trả kịp. Ngân hàng có bảo hiểm tiền gửi và người cho vay cuối cùng; stablecoin thì không.
+
+**Tín phiếu kho bạc.** Giấy nợ ngắn hạn của chính phủ (thường dưới một năm), được coi là tài sản an toàn nhất trên thị trường. Ví dụ minh hoạ: một bên phát hành giữ phần lớn dự trữ bằng tín phiếu kho bạc Mỹ kỳ hạn 3 tháng. Khi dự trữ của stablecoin đủ lớn, việc bên phát hành mua hay bán tín phiếu có thể ảnh hưởng tới chính thị trường này.
+
+**Thay thế tiền tệ (currency substitution) và thu phát hành tiền (seigniorage).** Thay thế tiền tệ là việc người dân chuyển sang dùng đồng tiền nước khác để tiết kiệm và thanh toán. Thu phát hành tiền là khoản lợi ngân hàng trung ương có được nhờ độc quyền phát hành tiền. Ví dụ minh hoạ: ở một nước có lạm phát 30% một năm, người dân giữ tiết kiệm bằng stablecoin đô la trên điện thoại; khi đó lãi suất của ngân hàng trung ương ít tác động tới họ, và nhà nước thu được ít hơn từ việc phát hành tiền. Đây là rủi ro lớn nhất với các nền kinh tế mới nổi.
+
+**Arbitrage pháp lý (regulatory arbitrage).** Việc chọn nơi đăng ký có yêu cầu quản lý nhẹ nhất trong khi vẫn phục vụ khách hàng ở khắp nơi. Ví dụ minh hoạ: một bên phát hành đặt trụ sở tại một trung tâm tài chính hải ngoại có quy định lỏng, nhưng token của họ được dùng ở hàng chục nước. Khái niệm này giải thích vì sao bài kêu gọi phối hợp quốc tế.
+
+## Nội dung chi tiết
 
 ### 1. Stablecoin không phải một thứ duy nhất
 
-- Thuật ngữ stablecoin che giấu sự đa dạng lớn. Bài đề xuất phân loại theo bảy đặc tính: cơ chế neo giá, thành phần dự trữ, quyền quy đổi, cấu trúc pháp lý và nơi đăng ký, sổ cái và khả năng liên thông, quản trị và quyền kiểm soát, cùng mức độ minh bạch.
-- Trong đó, quyền quy đổi và thành phần dự trữ quyết định phần lớn hồ sơ rủi ro. Một điểm thường bị hiểu sai: ở đa số stablecoin lớn, chỉ các đối tác được cấp phép mới quy đổi trực tiếp được với bên phát hành. Người nắm giữ lẻ phải bán trên thị trường thứ cấp, nơi giá có thể lệch mệnh giá khi căng thẳng.
-- Nhóm stablecoin thuật toán, không có tài sản bảo chứng đầy đủ, đã sụp đổ ngoạn mục trong vụ TerraUSD tháng 5/2022. Bài coi đây là bằng chứng rằng cơ chế neo dựa hoàn toàn vào kỳ vọng thị trường không bền vững.
-- So với tiền gửi ngân hàng, stablecoin thiếu ba thứ: bảo hiểm tiền gửi, quyền tiếp cận người cho vay cuối cùng, và khung giám sát thận trọng đầy đủ. So với quỹ thị trường tiền tệ, chúng thiếu các quy tắc về chất lượng và kỳ hạn tài sản vốn đã được siết sau các đợt khủng hoảng trước.
+Thuật ngữ "stablecoin" che giấu sự đa dạng rất lớn. Bài đề xuất phân loại stablecoin theo bảy đặc tính, vì mỗi đặc tính ảnh hưởng tới mức rủi ro theo một cách riêng:
+
+| Đặc tính | Nội dung | Điểm cần chú ý |
+|---|---|---|
+| 1. Cơ chế neo giá | Bảo chứng bằng tiền pháp định; bằng tiền mã hoá; hoặc thuật toán | Loại bảo chứng bằng tiền pháp định chiếm áp đảo thị trường; loại bằng tiền mã hoá thường phải thế chấp vượt mức; loại thuật toán đã sụp đổ (TerraUSD, 5/2022) |
+| 2. Thành phần dự trữ | Tiền mặt và tín phiếu kho bạc ngắn hạn; thương phiếu, tiền gửi, repo; vàng hoặc tiền mã hoá khác | Nhóm đầu chất lượng cao; nhóm thứ hai mang rủi ro tín dụng; nhóm thứ ba mang rủi ro giá. Thành phần dự trữ quyết định khả năng chịu đựng khi bị rút hàng loạt |
+| 3. Quyền quy đổi | Ai được quy đổi trực tiếp, phí, mức tối thiểu, thời gian xử lý, quyền tạm dừng | Thường chỉ đối tác được cấp phép mới quy đổi trực tiếp; quyền tạm dừng quy đổi là điểm dễ tổn thương nhất |
+| 4. Cấu trúc pháp lý và nơi đăng ký | Người nắm giữ có yêu cầu trên bên phát hành, trên tài sản dự trữ, hay chỉ có quan hệ hợp đồng | Nhiều bên phát hành đặt tại trung tâm tài chính hải ngoại, nên quyền của người nắm giữ khi bên phát hành phá sản không rõ |
+| 5. Sổ cái và khả năng liên thông | Phát hành trên nhiều blockchain cùng lúc | Cầu nối giữa các chuỗi là điểm yếu an ninh đã bị khai thác |
+| 6. Quản trị và kiểm soát | Ai có quyền đóng băng hoặc huỷ token; ai quyết định thay đổi dự trữ, phí, điều khoản | Phần lớn bên phát hành lớn đều có quyền đóng băng và huỷ token |
+| 7. Minh bạch | Hình thức, tần suất, mức chi tiết của việc công bố, bên xác nhận độc lập | Chứng thực (attestation) có phạm vi hẹp hơn nhiều so với kiểm toán đầy đủ |
+
+**Hai đặc tính quan trọng nhất.** Trong bảy đặc tính, quyền quy đổi và thành phần dự trữ quyết định phần lớn hồ sơ rủi ro. Một điểm thường bị hiểu sai: ở đa số stablecoin lớn, chỉ các đối tác được cấp phép mới quy đổi trực tiếp được với bên phát hành. Người nắm giữ lẻ không có quyền này, họ phải bán trên thị trường thứ cấp, nơi giá có thể lệch mệnh giá khi thị trường căng thẳng. Vì vậy với người nắm giữ lẻ, "một token bằng một đô la" là một mức giá thị trường, chứ không phải một quyền đòi tiền.
+
+**Bài học từ TerraUSD.** Nhóm stablecoin thuật toán, không có tài sản bảo chứng đầy đủ, đã sụp đổ ngoạn mục trong vụ TerraUSD tháng 5/2022. Bài coi đây là bằng chứng rằng một cơ chế neo dựa hoàn toàn vào kỳ vọng thị trường không bền vững: khi kỳ vọng đổi chiều, không có tài sản nào đỡ giá.
+
+**So sánh với tiền gửi ngân hàng và quỹ thị trường tiền tệ.**
+
+| So với | Stablecoin thiếu gì |
+|---|---|
+| Tiền gửi ngân hàng | Bảo hiểm tiền gửi; quyền tiếp cận người cho vay cuối cùng; khung giám sát thận trọng đầy đủ |
+| Quỹ thị trường tiền tệ | Các quy tắc về chất lượng và kỳ hạn tài sản, vốn đã được siết lại sau các đợt khủng hoảng trước |
 
 ### 2. Thị trường thực tế
 
-- Tổng vốn hoá khoảng 300 tỷ đô la vào tháng 9/2025, tương đương khoảng 7% thị trường tiền mã hoá. Hơn 97% neo vào đô la Mỹ, khiến stablecoin về bản chất là một hiện tượng đô la hoá kỹ thuật số chứ không phải một hệ thống tiền tệ đa dạng.
-- Thị trường tập trung cao độ vào hai bên phát hành lớn nhất, làm rủi ro tập trung trở thành mối quan tâm riêng.
-- Bài đưa ra một cảnh báo phương pháp quan trọng: các con số khối lượng giao dịch thô thường được dùng để lập luận rằng stablecoin đã vượt các mạng thẻ về quy mô thanh toán. Nhưng ước tính khoảng 80% lưu lượng trên chuỗi là do bot tạo ra, gồm giao dịch chênh lệch giá, tạo lập thị trường tự động và chuyển nội bộ giữa các ví của cùng một chủ thể. Sau khi lọc, khối lượng thanh toán thực nhỏ hơn rất nhiều.
-- Các công dụng thực tế, xếp theo mức độ quan trọng: làm tài sản đệm trong giao dịch tiền mã hoá, làm tài sản bảo đảm trong tài chính phi tập trung, làm phương tiện lưu trữ giá trị bằng đô la ở các nước có lạm phát cao hoặc kiểm soát ngoại hối chặt, làm kênh thanh toán xuyên biên giới và kiều hối, và cuối cùng là thanh toán bán lẻ hàng ngày, vốn vẫn rất hạn chế.
+**Quy mô (tháng 9/2025).** Tổng vốn hoá stablecoin khoảng 300 tỷ đô la, tương đương khoảng 7% toàn thị trường tiền mã hoá. Hơn 97% neo vào đô la Mỹ. Vì vậy stablecoin về bản chất là một hiện tượng đô la hoá kỹ thuật số, chứ không phải một hệ thống tiền tệ đa dạng gồm nhiều đồng tiền. Thị trường còn tập trung cao độ vào hai bên phát hành lớn nhất, nên rủi ro tập trung (sự cố ở một bên ảnh hưởng tới phần lớn thị trường) trở thành mối quan tâm riêng.
+
+**Cảnh báo về số liệu khối lượng giao dịch.** Các con số khối lượng giao dịch thô rất lớn và thường được dùng để lập luận rằng stablecoin đã vượt các mạng thẻ về quy mô thanh toán. Bài chỉ ra rằng ước tính khoảng 80% lưu lượng trên chuỗi là do bot tạo ra, gồm:
+
+- giao dịch chênh lệch giá (mua nơi rẻ, bán nơi đắt một cách tự động);
+- tạo lập thị trường tự động;
+- chuyển nội bộ giữa các ví của cùng một chủ thể.
+
+Sau khi lọc các giao dịch này, khối lượng thanh toán thực nhỏ hơn rất nhiều. Ví dụ minh hoạ: nếu khối lượng thô là 100 đơn vị thì chỉ khoảng 20 đơn vị là không do bot, và trong 20 đơn vị đó, phần là thanh toán cho hàng hoá dịch vụ còn nhỏ hơn nữa.
+
+**Công dụng thực tế, xếp theo mức quan trọng:**
+
+1. **Tài sản đệm trong giao dịch tiền mã hoá:** người giao dịch dùng stablecoin để vào và ra vị thế mà không phải đổi về tiền pháp định. Đây là công dụng áp đảo.
+2. **Tài sản bảo đảm trong tài chính phi tập trung.**
+3. **Lưu trữ giá trị bằng đô la** ở các nước có lạm phát cao hoặc kiểm soát ngoại hối chặt. Công dụng này đang tăng.
+4. **Thanh toán xuyên biên giới và kiều hối:** có tiềm năng thật, nhưng quy mô còn nhỏ so với kênh truyền thống.
+5. **Thanh toán bán lẻ hàng ngày:** vẫn rất hạn chế.
+
+Tóm lại, đa số hoạt động hiện nay vẫn nằm trong hệ sinh thái tiền mã hoá, chưa phải thanh toán thực trong nền kinh tế.
 
 ### 3. Lợi ích tiềm năng
 
-- Thanh toán xuyên biên giới và kiều hối là trường hợp có luận cứ mạnh nhất. Kênh truyền thống vẫn chậm, đắt và hoạt động theo giờ hành chính. Stablecoin hoạt động liên tục và có thể rẻ hơn ở một số hành lang chuyển tiền.
-- Bài cẩn trọng nêu điều kiện: lợi ích này chỉ hiện thực hoá khi tính đến toàn bộ chi phí chuyển đổi vào và ra tiền pháp định ở hai đầu, chi phí tuân thủ, và rủi ro biến động trong thời gian nắm giữ. Khi tính đủ, lợi thế chi phí thu hẹp đáng kể ở nhiều hành lang.
-- Các lợi ích khác gồm khả năng lập trình cho thanh toán có điều kiện, hoạt động liên tục, và tiềm năng bao trùm tài chính ở nơi hệ thống ngân hàng phủ sóng kém. Bài lưu ý rằng bao trùm tài chính đòi hỏi nhiều thứ hơn là một công cụ thanh toán, và rằng các giải pháp tiền di động đã đạt được nhiều điều tương tự mà không cần blockchain.
+**Thanh toán xuyên biên giới và kiều hối** là trường hợp có luận cứ mạnh nhất. Kênh truyền thống vẫn chậm, đắt và chỉ hoạt động theo giờ hành chính. Stablecoin hoạt động liên tục và có thể rẻ hơn ở một số hành lang chuyển tiền.
+
+Bài cẩn trọng nêu điều kiện: lợi ích này chỉ có thật khi đã tính đủ ba loại chi phí:
+
+- chi phí đổi tiền pháp định sang stablecoin ở đầu gửi, và đổi ngược lại ở đầu nhận;
+- chi phí tuân thủ (xác minh khách hàng, chống rửa tiền);
+- rủi ro biến động giá trong thời gian nắm giữ token.
+
+Khi tính đủ các chi phí này, lợi thế chi phí của stablecoin thu hẹp đáng kể ở nhiều hành lang chuyển tiền.
+
+**Các lợi ích khác** gồm khả năng lập trình cho thanh toán có điều kiện (tiền chỉ được chuyển khi một điều kiện xảy ra), hoạt động liên tục, và tiềm năng bao trùm tài chính ở nơi hệ thống ngân hàng phủ sóng kém. Về bao trùm tài chính, bài lưu ý hai điều: nó đòi hỏi nhiều thứ hơn một công cụ thanh toán (cần tiết kiệm, tín dụng, bảo hiểm), và các giải pháp tiền di động đã đạt được nhiều kết quả tương tự mà không cần blockchain.
 
 ### 4. Tám nhóm rủi ro
 
-- **Rút chạy hàng loạt.** Cấu trúc kinh tế giống quỹ thị trường tiền tệ: hứa mệnh giá cố định trong khi nắm giữ tài sản có giá biến động. Không có bảo hiểm tiền gửi và không có người cho vay cuối cùng.
-- **Lan truyền sang thị trường tín phiếu kho bạc.** Khi quy mô dự trữ đủ lớn, việc bán tháo tín phiếu để đáp ứng làn sóng quy đổi có thể gây áp lực lên chính thị trường được coi là an toàn nhất, tạo kênh lây nhiễm từ tiền mã hoá sang tài chính truyền thống.
-- **Phi trung gian hoá ngân hàng.** Tiền gửi rời khỏi ngân hàng làm giảm nguồn vốn cho tín dụng, tác động mạnh hơn ở các nước có hệ thống ngân hàng nhỏ.
-- **Thay thế tiền tệ.** Ở các nước lạm phát cao, stablecoin đô la dễ tiếp cận qua điện thoại có thể đẩy nhanh và làm sâu sắc quá trình đô la hoá so với các đợt trước, làm suy yếu chính sách tiền tệ và thu phát hành tiền.
-- **Lách quản lý dòng vốn.** Token di chuyển qua biên giới mà không đi qua hệ thống ngân hàng đại lý, nơi các biện pháp này vốn được thực thi.
-- **Phân mảnh hệ thống thanh toán.** Nhiều loại stablecoin trên nhiều chuỗi không liên thông với nhau tạo nguy cơ quay lại tình trạng tiền ngân hàng tư nhân thế kỷ 19, khi mỗi loại giấy bạc giao dịch ở một mức chiết khấu khác nhau.
-- **Tính toàn vẹn tài chính.** Chuyển giao ngang hàng, ví không lưu ký và bên phát hành đặt tại nơi quản lý lỏng tạo điều kiện cho rửa tiền và né trừng phạt.
-- **Rủi ro pháp lý và vận hành.** Quyền của người nắm giữ khi bên phát hành phá sản chưa rõ ở nhiều nơi; lỗi hợp đồng thông minh và tấn công vào cầu nối chuỗi chéo đã gây tổn thất lớn trong thực tế.
+**Rút chạy hàng loạt.** Cấu trúc kinh tế của stablecoin giống quỹ thị trường tiền tệ: hứa mệnh giá cố định trong khi nắm giữ tài sản có giá biến động. Khác với ngân hàng, stablecoin không có bảo hiểm tiền gửi và không có người cho vay cuối cùng, nên khi người nắm giữ hoảng loạn, không có gì chặn làn sóng rút tiền.
+
+**Lan truyền sang thị trường tín phiếu kho bạc.** Khi quy mô dự trữ đủ lớn, việc bên phát hành bán tháo tín phiếu để đáp ứng làn sóng quy đổi có thể gây áp lực lên chính thị trường được coi là an toàn nhất. Đây là một kênh lây nhiễm từ tiền mã hoá sang tài chính truyền thống.
+
+**Phi trung gian hoá ngân hàng.** Nếu người dân chuyển tiền gửi sang stablecoin, tiền rời khỏi ngân hàng, làm giảm nguồn vốn để ngân hàng cho vay. Tác động mạnh hơn ở các nước có hệ thống ngân hàng nhỏ.
+
+**Thay thế tiền tệ.** Ở các nước lạm phát cao, stablecoin đô la dễ tiếp cận qua điện thoại có thể làm quá trình đô la hoá diễn ra nhanh hơn và sâu hơn các đợt trước. Hậu quả là chính sách tiền tệ suy yếu và ngân hàng trung ương mất thu phát hành tiền.
+
+**Lách quản lý dòng vốn.** Token di chuyển qua biên giới mà không đi qua hệ thống ngân hàng đại lý, nơi các biện pháp quản lý dòng vốn (CFM) vốn được thực thi.
+
+**Phân mảnh hệ thống thanh toán.** Nhiều loại stablecoin trên nhiều chuỗi không liên thông với nhau tạo nguy cơ quay lại tình trạng tiền ngân hàng tư nhân thế kỷ 19, khi mỗi loại giấy bạc do một ngân hàng phát hành giao dịch ở một mức chiết khấu khác nhau.
+
+**Tính toàn vẹn tài chính.** Chuyển giao ngang hàng (không qua trung gian), ví không lưu ký (người dùng tự giữ khoá, không có tổ chức nào quản lý) và bên phát hành đặt tại nơi quản lý lỏng tạo điều kiện cho rửa tiền và né trừng phạt.
+
+**Rủi ro pháp lý và vận hành.** Ở nhiều nơi, quyền của người nắm giữ khi bên phát hành phá sản chưa rõ. Lỗi hợp đồng thông minh và các vụ tấn công vào cầu nối chuỗi chéo đã gây tổn thất lớn trong thực tế.
+
+Điểm chung của tám nhóm: rủi ro chính không nằm ở công nghệ mà ở cấu trúc, tức một công cụ hứa ổn định mệnh giá nhưng được bảo chứng bằng tài sản có rủi ro và không có người cho vay cuối cùng.
 
 ### 5. Bốn khung quản lý
 
-- **Nhật Bản** đi đầu bằng việc sửa Luật Dịch vụ Thanh toán, chỉ cho phép ngân hàng, công ty uỷ thác và nhà chuyển tiền được cấp phép phát hành. Cách tiếp cận này coi stablecoin về bản chất là tiền chứ không phải tài sản mã hoá, và yêu cầu dự trữ được tách biệt khỏi tài sản của bên phát hành.
-- **Liên minh châu Âu** với quy định MiCA là khung toàn diện đầu tiên ở cấp khối. MiCA phân biệt token tiền điện tử neo vào một đồng tiền và token tham chiếu tài sản neo vào một giỏ. Điểm mạnh nhất là quyền quy đổi theo mệnh giá và miễn phí dành cho người nắm giữ. MiCA cũng áp quy tắc chặt hơn cho các token được xếp loại quan trọng và hạn chế việc dùng stablecoin ngoại tệ làm phương tiện thanh toán rộng rãi.
-- **Hoa Kỳ** với Đạo luật GENIUS thiết lập con đường cấp phép ở cả cấp liên bang và cấp bang, yêu cầu dự trữ một đổi một bằng tài sản chất lượng cao và công bố hàng tháng. Một đặc điểm gây tranh luận là cấm trả lãi cho người nắm giữ, nhằm hạn chế cạnh tranh trực tiếp với tiền gửi ngân hàng.
-- **Anh** áp dụng cách tiếp cận phân tầng, trong đó cơ quan FCA quản lý bên phát hành nói chung, còn Ngân hàng Anh giám sát riêng những loại đạt quy mô hệ thống và có thể áp hạn mức nắm giữ.
-- Các khung này hội tụ ở bốn điểm: yêu cầu cấp phép, dự trữ chất lượng cao và tách biệt, quyền quy đổi rõ ràng, và công bố định kỳ. Chúng khác nhau ở chỗ ai được phép phát hành, có được trả lãi không, xử lý stablecoin ngoại tệ ra sao, và ngưỡng nào thì bị coi là có tầm quan trọng hệ thống.
+| Tài phán | Khung | Nội dung chính | Điểm đặc trưng |
+|---|---|---|---|
+| Nhật Bản | Sửa Luật Dịch vụ Thanh toán (PSA) | Chỉ ngân hàng, công ty uỷ thác và nhà chuyển tiền được cấp phép mới được phát hành; dự trữ giữ dưới dạng tiền gửi hoặc tài sản an toàn, tách biệt khỏi bên phát hành | Đi đầu; coi stablecoin là tiền, không phải tài sản mã hoá |
+| Liên minh châu Âu | MiCA | Phân biệt token tiền điện tử (EMT, neo một đồng tiền) và token tham chiếu tài sản (ART, neo một giỏ); quy tắc chặt hơn cho token "quan trọng"; hạn chế stablecoin ngoại tệ làm phương tiện thanh toán rộng rãi | Khung toàn diện đầu tiên của một khối; quyền quy đổi theo mệnh giá, miễn phí cho người nắm giữ là điểm mạnh nhất |
+| Hoa Kỳ | Đạo luật GENIUS | Cấp phép ở cấp liên bang và cấp bang; dự trữ 1:1 (một đổi một) bằng tài sản chất lượng cao; công bố hàng tháng | Cấm trả lãi cho người nắm giữ, nhằm hạn chế cạnh tranh với tiền gửi ngân hàng |
+| Anh | Ngân hàng Anh (BoE) và FCA | FCA quản lý bên phát hành nói chung; BoE giám sát riêng các loại đạt quy mô hệ thống | Phân tầng; có thể áp hạn mức nắm giữ |
+
+**Nhật Bản** đi đầu bằng việc sửa Luật Dịch vụ Thanh toán. Chỉ ngân hàng, công ty uỷ thác và nhà chuyển tiền được cấp phép mới được phát hành. Cách tiếp cận này coi stablecoin về bản chất là tiền chứ không phải tài sản mã hoá, và yêu cầu dự trữ được tách biệt khỏi tài sản của bên phát hành để không bị lẫn vào khi bên phát hành phá sản.
+
+**Liên minh châu Âu**, với quy định MiCA, có khung toàn diện đầu tiên ở cấp một khối nhiều nước. MiCA phân biệt token tiền điện tử neo vào một đồng tiền và token tham chiếu tài sản neo vào một giỏ. Điểm mạnh nhất là quyền quy đổi theo mệnh giá và miễn phí dành cho chính người nắm giữ, không chỉ cho đối tác được cấp phép. MiCA cũng áp quy tắc chặt hơn cho các token được xếp loại quan trọng, và hạn chế việc dùng stablecoin ngoại tệ làm phương tiện thanh toán rộng rãi.
+
+**Hoa Kỳ**, với Đạo luật GENIUS, thiết lập con đường cấp phép ở cả cấp liên bang và cấp bang, yêu cầu dự trữ một đổi một bằng tài sản chất lượng cao và công bố hàng tháng. Một đặc điểm gây tranh luận là cấm trả lãi cho người nắm giữ, nhằm hạn chế việc stablecoin cạnh tranh trực tiếp với tiền gửi ngân hàng.
+
+**Anh** áp dụng cách tiếp cận phân tầng: cơ quan FCA quản lý bên phát hành nói chung, còn Ngân hàng Anh giám sát riêng những loại đạt quy mô hệ thống và có thể áp hạn mức nắm giữ cho mỗi người.
+
+**Hội tụ và khác biệt.** Bốn khung hội tụ ở bốn điểm: yêu cầu cấp phép; dự trữ chất lượng cao và tách biệt; quyền quy đổi rõ ràng; và công bố định kỳ. Chúng khác nhau ở bốn điểm: ai được phép phát hành; có được trả lãi không; xử lý stablecoin ngoại tệ ra sao; và ngưỡng nào thì bị coi là có tầm quan trọng hệ thống.
 
 ### 6. Hàm ý chính sách
 
-- Sự khác biệt giữa các khung tạo cơ hội arbitrage pháp lý, khi bên phát hành chọn nơi đăng ký có yêu cầu nhẹ nhất trong khi phục vụ người dùng toàn cầu. Bài kêu gọi phối hợp quốc tế về các yếu tố cốt lõi.
-- Với các nền kinh tế mới nổi và đang phát triển, ưu tiên là bảo vệ chủ quyền tiền tệ. Các lựa chọn gồm cải thiện chính sách vĩ mô để giảm động cơ chuyển sang đô la, hiện đại hoá hệ thống thanh toán trong nước để cạnh tranh về tiện lợi, và cân nhắc các hạn chế trực tiếp, dù bài lưu ý rằng lệnh cấm khó thực thi.
-- Bài kết luận rằng câu hỏi trung tâm không phải là công nghệ mà là cấu trúc: liệu một công cụ hứa hẹn ổn định mệnh giá có thể tồn tại bền vững ngoài mạng lưới an toàn của ngân hàng trung ương hay không. Lịch sử tiền tư nhân cho thấy câu trả lời thường là không.
+**Phối hợp quốc tế.** Sự khác biệt giữa các khung quản lý tạo cơ hội arbitrage pháp lý: bên phát hành chọn nơi đăng ký có yêu cầu nhẹ nhất trong khi vẫn phục vụ người dùng toàn cầu. Bài kêu gọi phối hợp quốc tế về các yếu tố cốt lõi.
+
+**Với các nền kinh tế mới nổi và đang phát triển**, ưu tiên là bảo vệ chủ quyền tiền tệ. Bài nêu ba nhóm lựa chọn:
+
+- cải thiện chính sách vĩ mô (giữ lạm phát thấp, tỷ giá ổn định) để giảm động cơ chuyển sang đô la;
+- hiện đại hoá hệ thống thanh toán trong nước để cạnh tranh về tiện lợi;
+- cân nhắc các hạn chế trực tiếp, dù bài lưu ý rằng lệnh cấm khó thực thi.
+
+**Kết luận của bài.** Câu hỏi trung tâm không phải là công nghệ mà là cấu trúc: liệu một công cụ hứa hẹn ổn định mệnh giá có thể tồn tại bền vững bên ngoài mạng lưới an toàn của ngân hàng trung ương hay không. Lịch sử tiền tư nhân cho thấy câu trả lời thường là không.
 
 ## Thuật ngữ
 

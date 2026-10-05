@@ -107,51 +107,133 @@
 2. Thị trường tài chính nghĩ ai thắng và ai thua trong ngành thanh toán?
 3. Độ lớn của tác động là bao nhiêu so với các cú sốc quản lý đã biết?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Stablecoin.** Một loại token tiền mã hoá được thiết kế để giữ giá ổn định so với một đồng tiền pháp định, thường là đô la Mỹ, nhờ bên phát hành giữ một lượng tài sản dự trữ tương ứng. Ví dụ minh hoạ: một người chuyển 1.000 đô la cho bên phát hành và nhận 1.000 token, mỗi token có thể đổi lại 1 đô la. Token này chuyển được qua biên giới trong vài phút mà không cần đi qua chuỗi ngân hàng trung gian. Đây là lý do bài quan tâm tới tác động của stablecoin lên ngành thanh toán, nhất là chuyển tiền quốc tế.
+
+**Nghiên cứu sự kiện (event study).** Phương pháp đo tác động của một tin tức bằng cách xem giá cổ phiếu thay đổi thế nào quanh đúng thời điểm tin xuất hiện. Ví dụ minh hoạ: nếu một tin được công bố lúc 10 giờ và cổ phiếu một công ty giảm 2% trong mười phút sau đó, trong khi thị trường chung đứng yên, thì 2% đó được quy cho tin tức. Bài dùng phiên bản "tần suất cao", tức cửa sổ đo chỉ vài phút, để gần như không có tin nào khác chen vào.
+
+**Lợi suất bất thường (abnormal return).** Phần thay đổi giá cổ phiếu vượt quá mức mà biến động chung của thị trường giải thích được. Ví dụ minh hoạ: trong cùng mười phút, chỉ số thị trường tăng 0,2% còn cổ phiếu A giảm 0,5%; lợi suất bất thường của A khoảng −0,7%. Đây là thước đo chính của bài: âm nghĩa là thị trường cho rằng tin đó có hại cho công ty.
+
+**Vốn hoá thị trường (market capitalization).** Tổng giá trị cổ phiếu đang lưu hành của một công ty, bằng giá mỗi cổ phiếu nhân số cổ phiếu. Ví dụ minh hoạ: 100 triệu cổ phiếu giá 50 đô la thì vốn hoá là 5 tỷ đô la; giá giảm 1% làm vốn hoá giảm 50 triệu đô la. Nhờ khái niệm này, bài quy đổi một phần trăm thay đổi giá thành số tiền cụ thể.
+
+**Thị trường dự đoán (prediction market).** Nơi người ta mua bán các hợp đồng trả tiền nếu một sự kiện xảy ra; giá hợp đồng vì vậy phản ánh xác suất mà người chơi gán cho sự kiện đó. Ví dụ minh hoạ: hợp đồng trả 1 đô la nếu đạo luật được ban hành đang có giá 0,60 đô la, nghĩa là thị trường đánh giá xác suất khoảng 60%. Bài cần khái niệm này để biết cuộc bỏ phiếu làm xác suất thay đổi bao nhiêu.
+
+**Quy đổi theo xác suất (probability scaling).** Chia phản ứng giá quan sát được cho mức thay đổi xác suất để suy ra tác động của sự kiện nếu nó chắc chắn xảy ra. Ví dụ minh hoạ: nếu xác suất đạo luật được ban hành tăng thêm 10 điểm phần trăm và giá cổ phiếu ngành giảm 1%, thì tác động nếu đạo luật chắc chắn được ban hành ước tính là 1% chia 0,1, tức 10%. Đây là bước biến con số 21,5 tỷ đô la thành con số 300 tỷ đô la của bài.
+
+**Hiệu ứng mạng lưới (network effect).** Giá trị của một mạng tăng lên khi có thêm người tham gia. Ví dụ minh hoạ: một loại thẻ được hàng chục triệu cửa hàng chấp nhận thì người dùng muốn giữ thẻ đó, và vì người dùng giữ thẻ nên cửa hàng càng phải chấp nhận nó. Khái niệm này giải thích vì sao mạng thẻ không bị stablecoin đe doạ mà còn được lợi.
+
+**Ý nghĩa thống kê.** Ký hiệu p < 0,01 nghĩa là: nếu sự kiện thật ra không có tác động gì, thì xác suất dữ liệu cho ra một kết quả mạnh như vậy chỉ dưới 1%; p < 0,05 nghĩa là dưới 5%. Ví dụ trong bài: phản ứng bình quân của ngành có ý nghĩa ở mức 1%, các phản ứng của từng nhóm con có ý nghĩa ở mức 5%. Khái niệm này giúp người đọc biết kết quả nào chắc hơn.
+
+## Nội dung chi tiết
 
 ### 1. Vấn đề và ý tưởng
 
-- Tranh luận về stablecoin cho tới nay chủ yếu dựa trên dự đoán. Người ủng hộ nói chúng sẽ làm sập chi phí thanh toán xuyên biên giới; người hoài nghi nói chúng sẽ mãi là công cụ ngách của giới giao dịch tiền mã hoá. Không bên nào có dữ liệu phản thực.
-- Bài chuyển câu hỏi sang một dạng có thể trả lời được bằng dữ liệu: thay vì hỏi stablecoin sẽ làm gì, hỏi thị trường tài chính nghĩ chúng sẽ làm gì. Giá cổ phiếu tổng hợp kỳ vọng của hàng triệu nhà đầu tư có tiền thật đặt cược, nên nó là một thước đo kỳ vọng có kỷ luật.
-- Điều kiện để làm được điều này là tìm một thời điểm mà xác suất stablecoin được hợp pháp hoá thay đổi đột ngột, có thể xác định tới từng phút, và không trùng với bất kỳ tin tức nào khác về ngành thanh toán.
+Tranh luận về stablecoin cho tới nay chủ yếu dựa trên dự đoán. Người ủng hộ nói stablecoin sẽ làm sập chi phí thanh toán xuyên biên giới. Người hoài nghi nói chúng sẽ mãi chỉ là công cụ ngách của giới giao dịch tiền mã hoá. Không bên nào có dữ liệu phản thực, tức là dữ liệu cho biết điều gì sẽ xảy ra nếu stablecoin được phép hoạt động rộng rãi so với khi không được phép. Các nghiên cứu hiện có dựa vào khảo sát, mô phỏng hoặc ngoại suy từ các xu hướng cũ.
+
+Bài chuyển câu hỏi sang một dạng có thể trả lời bằng dữ liệu. Thay vì hỏi "stablecoin sẽ làm gì", bài hỏi "thị trường tài chính nghĩ stablecoin sẽ làm gì". Giá cổ phiếu tổng hợp kỳ vọng của hàng triệu nhà đầu tư, và mỗi nhà đầu tư đặt cược bằng tiền thật, nên giá cổ phiếu là một thước đo kỳ vọng có kỷ luật: ai đoán sai thì mất tiền.
+
+Để biến ý tưởng này thành phép đo, cần tìm được một thời điểm thoả ba điều kiện:
+
+- xác suất stablecoin được hợp pháp hoá thay đổi **đột ngột**;
+- thời điểm đó xác định được **tới từng phút**;
+- không trùng với **bất kỳ tin tức nào khác** về ngành thanh toán.
+
+Nếu có thời điểm như vậy, thay đổi giá cổ phiếu các công ty thanh toán ngay tại thời điểm đó chính là đánh giá của thị trường về tác động của stablecoin.
 
 ### 2. Sự kiện được chọn
 
-- Ngày 17/7/2025 lúc 15 giờ 32, Hạ viện Hoa Kỳ bỏ phiếu thông qua một quy tắc thủ tục mở đường cho Đạo luật GENIUS, đạo luật thiết lập khung cấp phép liên bang cho bên phát hành stablecoin.
-- Sự kiện này thoả mãn cả bốn điều kiện. Nó bất ngờ vì kết quả không được dự đoán trước cho tới sát giờ bỏ phiếu. Nó hẹp vì thời điểm xác định được tới phút. Nó sạch vì không có công bố vĩ mô hay tin ngành nào cùng lúc. Và quan trọng nhất, tồn tại thị trường dự đoán niêm yết xác suất đạo luật được ban hành cả trước lẫn sau cuộc bỏ phiếu, cho phép quy đổi cú sốc từng phần thành cú sốc toàn phần.
-- Mẫu gồm 35 công ty thanh toán niêm yết, được phân nhóm theo mô hình kinh doanh. Nhóm đối chứng gồm các công ty không liên quan tới thanh toán để kiểm soát biến động thị trường chung.
+Ngày 17/7/2025, lúc 15 giờ 32 (15:32), Hạ viện Hoa Kỳ bỏ phiếu thông qua một quy tắc thủ tục mở đường cho Đạo luật GENIUS. Đây là đạo luật thiết lập khung cấp phép liên bang cho bên phát hành stablecoin. Bản thân cuộc bỏ phiếu chưa ban hành đạo luật, nhưng nó gỡ một trở ngại lớn trên đường ban hành.
+
+Sự kiện này thoả mãn bốn điều kiện mà phương pháp cần:
+
+| Điều kiện | Sự kiện 17/7/2025 đáp ứng thế nào |
+|---|---|
+| Bất ngờ | Kết quả bỏ phiếu không được dự đoán trước cho tới sát giờ |
+| Hẹp | Thời điểm xác định được tới từng phút |
+| Sạch | Không có công bố vĩ mô hay tin ngành nào khác cùng lúc |
+| Có thước đo xác suất | Thị trường dự đoán niêm yết xác suất đạo luật được ban hành cả trước và sau cuộc bỏ phiếu |
+
+Điều kiện cuối là quan trọng nhất, vì nó cho phép quy đổi cú sốc từng phần (xác suất chỉ tăng một phần) thành cú sốc toàn phần (stablecoin được hợp pháp hoá hoàn toàn).
+
+**Phương pháp: nghiên cứu sự kiện tần suất cao.** Mẫu gồm 35 công ty thanh toán niêm yết, được chia nhóm theo mô hình kinh doanh. Bài đo lợi suất của các công ty này trong cửa sổ vài phút quanh 15:32, so với chỉ số thị trường chung. Bài cũng dùng một nhóm đối chứng gồm các công ty không liên quan tới thanh toán, để tách phần biến động do toàn thị trường khỏi phần do tin stablecoin.
 
 ### 3. Kết quả tổng thể
 
-- Lợi suất bất thường bình quân của ngành thanh toán là âm 0,747% trong cửa sổ hẹp và âm 1,272% trong cửa sổ rộng hơn, cả hai đều có ý nghĩa thống kê ở mức 1%.
-- Quy đổi ra giá trị tuyệt đối, khoảng 21,5 tỷ đô la vốn hoá thị trường biến mất trong vài phút.
-- Con số này đã có ý nghĩa, nhưng nó chỉ phản ánh mức tăng từng phần trong xác suất đạo luật được ban hành, chứ không phải tác động của việc stablecoin được hợp pháp hoá hoàn toàn.
+Ngành thanh toán phản ứng tiêu cực ngay lập tức:
+
+| Thước đo | Kết quả | Mức ý nghĩa |
+|---|---|---|
+| Lợi suất bất thường bình quân, cửa sổ hẹp | −0,747% | p < 0,01 |
+| Lợi suất bất thường bình quân, cửa sổ rộng hơn | −1,272% | p < 0,01 |
+| Giá trị vốn hoá bốc hơi | khoảng 21,5 tỷ đô la | |
+
+Cả hai mức lợi suất đều có ý nghĩa thống kê ở mức 1%. Quy ra giá trị tuyệt đối, khoảng 21,5 tỷ đô la vốn hoá thị trường biến mất trong vài phút.
+
+Con số này đã có ý nghĩa kinh tế, nhưng nó chưa phải tác động của việc stablecoin được hợp pháp hoá. Nó chỉ phản ánh việc xác suất đạo luật được ban hành **tăng thêm một phần**. Muốn biết tác động toàn phần, cần bước quy đổi ở mục 5.
 
 ### 4. Phân hoá trong nội bộ ngành
 
-- Đây là phần chứa nhiều thông tin nhất của bài, vì nó cho thấy thị trường không phản ứng đồng loạt mà phân biệt rõ giữa các mô hình kinh doanh.
-- **Công ty thanh toán xuyên biên giới** chịu thêm mức lỗ 0,642% so với trung bình ngành. Đây là kết quả phù hợp với trực giác kinh tế: chuyển tiền quốc tế là mảng có phí cao nhất, nhiều khâu trung gian nhất và chậm nhất, nên cũng là nơi stablecoin cạnh tranh trực tiếp nhất.
-- **Mạng thẻ** như Visa và Mastercard có lợi suất bất thường dương 0,885%. Diễn giải là hiệu ứng mạng lưới, quan hệ với hàng chục triệu thương nhân và hạ tầng giải quyết tranh chấp rất khó bị thay thế, và các mạng này có thể tích hợp stablecoin như một phương thức quyết toán bên trong chính mạng của họ thay vì bị thay thế bởi nó.
-- **Công ty đã tham gia tiền mã hoá** có lợi suất bất thường dương 0,845%. Với các công ty đã đầu tư vào hạ tầng tiền mã hoá, việc có khung pháp lý rõ ràng là tin tốt vì nó hợp pháp hoá khoản đầu tư đã thực hiện và loại bỏ rủi ro quản lý.
-- Đọc chung, thị trường không cho rằng stablecoin xoá sổ ngành thanh toán. Thị trường cho rằng chúng tái phân phối giá trị từ khâu trung gian xuyên biên giới sang chủ sở hữu mạng lưới và những bên đi trước.
+Đây là phần chứa nhiều thông tin nhất của bài. Thị trường không phản ứng đồng loạt mà phân biệt rõ giữa các mô hình kinh doanh, và một số nhóm còn tăng giá:
+
+| Nhóm công ty | Lợi suất bất thường (so với trung bình ngành) | Mức ý nghĩa | Diễn giải |
+|---|---|---|---|
+| Công ty thanh toán xuyên biên giới | −0,642% (lỗ thêm) | p < 0,05 | Mảng bị stablecoin cạnh tranh trực tiếp nhất |
+| Mạng thẻ (Visa, Mastercard) | +0,885% | p < 0,05 | Thắng nhờ hiệu ứng mạng lưới và khả năng tích hợp stablecoin |
+| Công ty đã tham gia tiền mã hoá | +0,845% | p < 0,05 | Thắng vì quy định rõ ràng hợp pháp hoá khoản đầu tư sẵn có |
+
+**Công ty thanh toán xuyên biên giới** chịu thêm mức lỗ 0,642% so với trung bình ngành. Kết quả này phù hợp với trực giác kinh tế: chuyển tiền quốc tế là mảng có phí cao nhất, đi qua nhiều khâu trung gian nhất và chậm nhất. Đó cũng là nơi stablecoin, vốn chuyển được giá trị qua biên giới trong vài phút, cạnh tranh trực tiếp nhất.
+
+**Mạng thẻ** như Visa và Mastercard có lợi suất bất thường dương 0,885%. Lý do là những gì mạng thẻ sở hữu rất khó bị thay thế: hiệu ứng mạng lưới, quan hệ với hàng chục triệu thương nhân, và hạ tầng giải quyết tranh chấp giữa người mua và người bán. Hơn nữa, các mạng này có thể tích hợp stablecoin như một phương thức quyết toán bên trong chính mạng của họ, thay vì bị stablecoin thay thế.
+
+**Công ty đã tham gia tiền mã hoá** có lợi suất bất thường dương 0,845%. Với các công ty đã đầu tư vào hạ tầng tiền mã hoá từ trước, một khung pháp lý rõ ràng là tin tốt: nó hợp pháp hoá khoản đầu tư đã thực hiện và loại bỏ rủi ro bị quản lý siết bất ngờ.
+
+**Đọc chung**, thị trường không cho rằng stablecoin xoá sổ ngành thanh toán. Thị trường cho rằng stablecoin **tái phân phối giá trị**: từ khâu trung gian xuyên biên giới sang chủ sở hữu mạng lưới và những bên đi trước.
 
 ### 5. Quy đổi sang tác động toàn phần
 
-- Bước then chốt về phương pháp là dùng thị trường dự đoán để biết cuộc bỏ phiếu làm tăng xác suất ban hành thêm bao nhiêu điểm phần trăm. Chia phản ứng giá cho mức tăng xác suất đó cho ta ước tính về tác động nếu xác suất tăng từ không lên một trăm phần trăm.
-- Ước tính trung tâm là stablecoin được quản lý đầy đủ sẽ bào mòn khoảng 18% giá trị của ngành thanh toán, tương đương khoảng 300 tỷ đô la.
-- Khoảng tin cậy chạy từ 13% đến 27%, tương đương 220 đến 470 tỷ đô la. Bài trình bày khoảng này một cách minh bạch thay vì chỉ nêu con số trung tâm, và thảo luận các nguồn bất định gồm sai số trong thước đo xác suất của thị trường dự đoán và khả năng thị trường điều chỉnh kỳ vọng thêm sau cửa sổ quan sát.
+Cuộc bỏ phiếu chỉ làm xác suất ban hành đạo luật tăng một phần. Bước then chốt về phương pháp là dùng thị trường dự đoán để biết mức tăng đó là bao nhiêu điểm phần trăm. Chia phản ứng giá cho mức tăng xác suất cho ra ước tính về tác động nếu xác suất tăng từ 0 lên 100%, tức nếu stablecoin được hợp pháp hoá hoàn toàn.
+
+| Ước tính | Tỷ lệ giá trị ngành bị bào mòn | Quy ra tiền |
+|---|---|---|
+| Ước tính trung tâm | khoảng 18% | khoảng 300 tỷ đô la |
+| Khoảng tin cậy | 13% – 27% | khoảng 220 – 470 tỷ đô la |
+
+Nói cách khác, theo đánh giá của thị trường, stablecoin được quản lý đầy đủ sẽ bào mòn khoảng 18% giá trị của ngành thanh toán, tương đương khoảng 300 tỷ đô la.
+
+Bài trình bày khoảng tin cậy một cách minh bạch thay vì chỉ nêu con số trung tâm, và thảo luận hai nguồn bất định chính: sai số trong thước đo xác suất của thị trường dự đoán, và khả năng thị trường tiếp tục điều chỉnh kỳ vọng sau khi cửa sổ quan sát đã đóng.
 
 ### 6. Đặt kết quả vào bối cảnh và kiểm định độ vững
 
-- Để đánh giá độ lớn của con số 18%, bài so sánh với các cú sốc quản lý và sự kiện đã được đo trong tài liệu: Tu chính án Durbin về trần phí hoán đổi thẻ ghi nợ tác động khoảng 5,3%; các công bố về đồng euro số làm giá cổ phiếu ngân hàng giảm 11,6% trong khi nhà cung cấp công nghệ tăng 30,5%; Đạo luật Cạnh tranh Thẻ tín dụng khoảng 3,4%; các sự kiện liên quan Paytm ở Ấn Độ từ 11% đến 48%; và các sự kiện chào bán cổ phiếu lần đầu trong ngành lên tới 51%.
-- Kết luận về độ lớn: 18% lớn hơn nhiều so với các can thiệp quản lý về phí, nhưng nhỏ hơn các cú sốc mang tính tồn vong của doanh nghiệp. Đây là một cú sốc cơ cấu đáng kể chứ không phải sự kiện xoá sổ ngành.
-- Sáu phụ lục trình bày các kiểm định độ vững: thay đổi độ dài cửa sổ sự kiện, thay đổi mô hình lợi suất kỳ vọng, dùng các nhóm đối chứng khác nhau, kiểm tra thanh khoản cổ phiếu để loại trừ giải thích do vi cấu trúc thị trường, kiểm tra các sự kiện giả ở thời điểm ngẫu nhiên, và phân tích độ nhạy với thước đo xác suất từ thị trường dự đoán.
+**So sánh với các cú sốc đã biết.** Để đánh giá con số 18% là lớn hay nhỏ, bài so sánh với các cú sốc quản lý và sự kiện đã được đo trong các nghiên cứu khác:
+
+| Cú sốc | Tác động lên giá trị |
+|---|---|
+| Tu chính án Durbin (Hoa Kỳ, trần phí hoán đổi thẻ ghi nợ) | khoảng 5,3% |
+| Công bố về đồng euro số | −11,6% với cổ phiếu ngân hàng; +30,5% với nhà cung cấp công nghệ |
+| Đạo luật Cạnh tranh Thẻ tín dụng | khoảng 3,4% |
+| Các sự kiện liên quan Paytm (Ấn Độ) | 11% – 48% |
+| Các sự kiện chào bán cổ phiếu lần đầu (IPO) trong ngành | tới 51% |
+| Stablecoin (ước tính của bài này) | 18% |
+
+**Kết luận về độ lớn.** Con số 18% lớn hơn nhiều so với các can thiệp quản lý về phí (5,3% và 3,4%), nhưng nhỏ hơn các cú sốc mang tính sống còn đối với từng doanh nghiệp (Paytm tới 48%, IPO tới 51%). Vì vậy stablecoin là một cú sốc cơ cấu đáng kể đối với ngành thanh toán, chứ không phải sự kiện xoá sổ ngành.
+
+**Kiểm định độ vững.** Sáu phụ lục của bài trình bày các phép kiểm tra để chắc rằng kết quả không phải do cách làm:
+
+- thay đổi độ dài cửa sổ sự kiện;
+- thay đổi mô hình lợi suất kỳ vọng;
+- dùng các nhóm đối chứng khác nhau;
+- kiểm tra thanh khoản cổ phiếu, để loại trừ khả năng kết quả chỉ do đặc điểm giao dịch vi mô của thị trường;
+- kiểm định giả: chạy cùng phương pháp tại các thời điểm ngẫu nhiên không có sự kiện, để xem có ra kết quả tương tự không;
+- phân tích độ nhạy của kết quả với thước đo xác suất lấy từ thị trường dự đoán.
 
 ### 7. Hàm ý
 
-- Với nhà hoạch định chính sách: thị trường coi việc hợp pháp hoá stablecoin là một sự kiện tái phân bổ giá trị có ý nghĩa kinh tế, tập trung vào mảng thanh toán xuyên biên giới. Điều này củng cố lập luận rằng lợi ích xã hội tiềm năng nằm chủ yếu ở việc giảm chi phí chuyển tiền quốc tế.
-- Với các nước nhận kiều hối: nếu phần giá trị bị bào mòn ở khâu trung gian chuyển thành khoản tiết kiệm cho người gửi và người nhận, tác động phúc lợi có thể đáng kể. Bài lưu ý rằng điều này không tự động xảy ra và phụ thuộc vào mức độ cạnh tranh ở hai đầu hành lang chuyển tiền.
-- Về phương pháp: bài minh hoạ rằng nghiên cứu sự kiện tần suất cao kết hợp với thị trường dự đoán là công cụ hữu ích để định lượng kỳ vọng về các công nghệ chưa được triển khai rộng, một cách tiếp cận có thể áp dụng cho nhiều câu hỏi chính sách khác.
+**Với nhà hoạch định chính sách.** Thị trường coi việc hợp pháp hoá stablecoin là một sự kiện tái phân bổ giá trị có ý nghĩa kinh tế, tập trung ở mảng thanh toán xuyên biên giới. Điều này củng cố lập luận rằng lợi ích xã hội tiềm năng của stablecoin nằm chủ yếu ở việc giảm chi phí chuyển tiền quốc tế.
+
+**Với các nước nhận kiều hối.** Nếu phần giá trị bị bào mòn ở khâu trung gian chuyển thành khoản tiết kiệm cho người gửi và người nhận, tác động phúc lợi có thể đáng kể. Bài lưu ý rằng điều này không tự động xảy ra: nó phụ thuộc vào mức độ cạnh tranh ở hai đầu hành lang chuyển tiền, tức ở nơi người gửi nạp tiền và nơi người nhận rút tiền.
+
+**Về phương pháp.** Bài cho thấy nghiên cứu sự kiện tần suất cao kết hợp với thị trường dự đoán là công cụ hữu ích để định lượng kỳ vọng về các công nghệ chưa được triển khai rộng. Cách tiếp cận này có thể áp dụng cho nhiều câu hỏi chính sách khác, khi có một thời điểm quyết định rõ ràng và có thị trường niêm yết xác suất.
 
 ## Thuật ngữ
 

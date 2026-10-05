@@ -331,73 +331,301 @@
 
 3. **Các ngân hàng trung ương đã đối phó bằng gì?** Bằng một bộ công cụ rộng hơn lãi suất: chính sách an toàn vĩ mô nhắm vào nhà ở và nợ hộ gia đình, biện pháp quản lý dòng vốn có chọn lọc, và can thiệp ngoại hối có trung hòa với dự trữ làm vùng đệm. Mỗi công cụ nhắm một mục tiêu riêng. Cái giá là chi phí giữ dự trữ khoảng 0,6–1,3% GDP. Khi Mỹ bình thường hóa chính sách, dư địa tự chủ sẽ tăng, nhưng nợ tăng và vùng đệm mỏng đi sẽ đòi hỏi khuôn khổ tiếp tục thay đổi.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Mục tiêu lạm phát (inflation targeting), công khai hoặc ngầm.** Cách điều hành trong đó ngân hàng trung ương công bố một mức lạm phát cần đạt (thường kèm biên độ) và dùng lãi suất để đưa lạm phát về mức đó. Ví dụ trong báo cáo: Philippines đặt mục tiêu 3% ± 1 cho 2015–18, tức lạm phát nằm trong khoảng 2% đến 4% là đạt. Mục tiêu "ngầm" là khi ngân hàng trung ương không công bố con số chính thức nhưng thị trường hiểu được mức chịu đựng, như "mức thoải mái" khoảng 3% của Malaysia. Đây là đích đến của quá trình chuyển đổi mà báo cáo mô tả.
+
+**Bộ ba bất khả thi (impossible trinity) và "thế lưỡng nan".** Một nước không thể cùng lúc có đủ ba thứ: tự chủ tiền tệ (tự đặt lãi suất), tỷ giá ổn định, và tài khoản vốn mở (tiền tự do ra vào). Chỉ chọn được hai. Ví dụ minh hoạ: nếu một nước neo tỷ giá vào USD và để vốn tự do ra vào, khi Mỹ tăng lãi suất mà nước đó không tăng theo, vốn sẽ chảy ra và phá neo; vậy nước đó mất quyền tự đặt lãi suất. Rey (2013) cho rằng khi tài khoản vốn mở, ngay cả tỷ giá thả nổi cũng không đủ che chắn, nên lựa chọn thực chất chỉ còn hai ("thế lưỡng nan chứ không phải bộ ba"). Đây là luận điểm trung tâm của báo cáo.
+
+**Thả nổi có quản lý, thả nổi tự do, neo trượt.** Thả nổi tự do: tỷ giá do thị trường quyết định, ngân hàng trung ương gần như không can thiệp. Thả nổi có quản lý: tỷ giá do thị trường quyết định nhưng ngân hàng trung ương mua bán ngoại tệ để làm dịu dao động. Neo trượt: tỷ giá được neo nhưng điểm neo được dịch dần theo lịch. Phân loại "theo luật" là những gì nhà nước tuyên bố; phân loại "trên thực tế" là hành vi quan sát được. Báo cáo chỉ ra từ 2008 cả năm nước là thả nổi theo luật, nhưng năm 2014 không nước nào thả nổi tự do trên thực tế.
+
+**Chu kỳ tài chính toàn cầu và chỉ số VIX.** Dòng vốn, giá tài sản và tín dụng ở nhiều nước cùng lên cùng xuống theo một nhịp chung, do chính sách tiền tệ Mỹ dẫn dắt. VIX là chỉ số đo mức biến động kỳ vọng của thị trường cổ phiếu Mỹ, dùng làm thước đo độ e ngại rủi ro toàn cầu. Ví dụ trong báo cáo: VIX tăng 30 điểm như tháng 9/2011 đi kèm lãi suất chính sách ASEAN-5 thấp hơn từ 10 đến 45 điểm cơ bản. Khái niệm này giải thích vì sao điều kiện tài chính trong nước không hoàn toàn do ngân hàng trung ương trong nước quyết định.
+
+**Quy tắc Taylor và làm mượt lãi suất.** Công thức mô tả ngân hàng trung ương đặt lãi suất theo độ lệch của lạm phát so với mục tiêu và độ lệch của sản lượng so với tiềm năng (chênh lệch sản lượng). "Làm mượt" nghĩa là lãi suất kỳ này phần lớn giữ như kỳ trước, chỉ điều chỉnh từng phần. Ví dụ minh hoạ: với hệ số làm mượt 0,8, nếu công thức nói lãi suất nên tăng 1 điểm phần trăm thì kỳ này chỉ tăng khoảng 0,2 điểm, phần còn lại dồn sang các kỳ sau. Báo cáo dùng công thức này để xem điều gì thật sự dẫn dắt lãi suất chính sách.
+
+**Can thiệp ngoại hối có trung hòa (sterilized intervention).** Khi ngân hàng trung ương mua ngoại tệ để chặn nội tệ tăng giá, nó bơm thêm nội tệ ra thị trường; "trung hòa" là hút lượng nội tệ đó lại bằng cách bán tín phiếu hoặc nhận tiền gửi, để lượng tiền trong nước không đổi. Hệ số trung hòa −1 nghĩa là hút lại toàn bộ, 0 nghĩa là không hút gì. Ví dụ minh hoạ: mua 100 đơn vị ngoại tệ và phát hành tín phiếu hút về 83 đơn vị nội tệ tương đương thì hệ số khoảng −0,83. Việc này tốn kém vì ngân hàng trung ương giữ tài sản USD lãi thấp trong khi trả lãi cao cho tín phiếu nội tệ; báo cáo ước chi phí 0,6–1,3% GDP mỗi năm.
+
+**Chính sách an toàn vĩ mô (macroprudential policy) và tỷ lệ cho vay trên giá trị tài sản (LTV).** Các biện pháp nhắm vào rủi ro của cả hệ thống tài chính, thường theo từng ngành, thay vì dùng lãi suất chung. LTV là tỷ lệ tối đa ngân hàng được cho vay so với giá trị tài sản thế chấp. Ví dụ minh hoạ: với LTV 70%, người mua căn nhà 1 tỷ đồng chỉ vay được tối đa 700 triệu, phải tự có 300 triệu; siết LTV xuống 60% thì phải tự có 400 triệu, nên cầu vay mua nhà giảm. Báo cáo cho thấy ASEAN-5 dùng công cụ này chủ yếu để xử lý nóng nhà đất.
+
+**Hệ số biến thiên (coefficient of variation).** Độ lệch chuẩn chia cho giá trị trung bình, dùng để so mức dao động của các chuỗi có quy mô khác nhau. Ví dụ minh hoạ: một tỷ giá trung bình 100 với độ lệch chuẩn 2 có hệ số biến thiên 2%. Báo cáo dùng nó để so độ biến động tỷ giá của năm nước ở các kỳ hạn 10, 50 và 250 ngày.
+
+## Nội dung chi tiết
 
 ### 1. Khuôn khổ chính sách tiền tệ là gì
 
-Khuôn khổ gồm: cơ cấu thể chế của ngân hàng trung ương (nhiệm vụ theo luật, quản trị, quy trình ra quyết định), mục tiêu, công cụ, chiến lược, mục tiêu vận hành và quy trình, cùng truyền thông. Có đồng thuận chung về các nguyên tắc của khuôn khổ hiệu quả ở nước có dư địa tự chủ tiền tệ. Cả năm ngân hàng trung ương ASEAN-5 đều có mục tiêu nhất quán, thể chế cho phép theo đuổi mục tiêu, và truyền thông minh bạch. Ổn định giá là mục tiêu chính; nhiều nước còn phải xét sản lượng và việc làm. Indonesia có thêm mục tiêu ổn định tỷ giá.
+Một khuôn khổ chính sách tiền tệ gồm nhiều phần ghép lại: cơ cấu thể chế của ngân hàng trung ương (nhiệm vụ theo luật, cách quản trị, quy trình ra quyết định), mục tiêu cuối cùng, công cụ, chiến lược, mục tiêu vận hành và quy trình vận hành hằng ngày, cùng cách truyền thông với thị trường. Ở những nước còn dư địa tự chủ tiền tệ, đã có đồng thuận chung về các nguyên tắc của một khuôn khổ hiệu quả: mục tiêu nhất quán, thể chế cho phép theo đuổi mục tiêu đó, và truyền thông minh bạch.
 
-Với Malaysia và Singapore, mục tiêu lạm phát và mục tiêu trung gian không công bố chính thức, nhưng hành động và ý định được truyền đạt đủ rõ để thị trường hiểu mức chịu đựng lạm phát.
+Cả năm ngân hàng trung ương ASEAN-5 đều đáp ứng ba nguyên tắc này. Ổn định giá là mục tiêu chính; nhiều nước còn phải xét tới sản lượng và việc làm. Indonesia có thêm mục tiêu ổn định tỷ giá. Với Malaysia và Singapore, mục tiêu lạm phát và mục tiêu trung gian không được công bố chính thức, nhưng hành động và ý định được truyền đạt đủ rõ để thị trường hiểu mức lạm phát mà ngân hàng trung ương chấp nhận được.
+
+Khuôn khổ của từng nước vào khoảng 2015–2016:
+
+| Nước | Khuôn khổ | Mục tiêu lạm phát | Công cụ chính |
+|---|---|---|---|
+| Indonesia | Mục tiêu lạm phát (từ 2005) | 4% ± 1 (2013–15), do Chính phủ đặt theo đề xuất của ngân hàng trung ương | Lãi suất chính sách BI; mục tiêu gồm ổn định giá và ổn định tỷ giá |
+| Malaysia | Mục tiêu lạm phát ngầm | "Mức thoải mái" khoảng 3% | Lãi suất qua đêm; ngân hàng trung ương tự đặt mục tiêu |
+| Philippines | Mục tiêu lạm phát (từ 2002) | 3% ± 1 (2015–18), do một ủy ban liên bộ duyệt | Lãi suất repo ngược, lãi suất tài khoản tiền gửi đặc biệt |
+| Singapore | Mục tiêu lạm phát ngầm | "Mức thoải mái" khoảng 2% | Dải tỷ giá hiệu dụng danh nghĩa, điều chỉnh qua độ dốc, độ rộng và điểm giữa của dải; công bố 6 tháng một lần |
+| Thái Lan | Mục tiêu lạm phát (từ 2000) | 2,5% ± 1,5 (2015), do Bộ Tài chính và Nội các duyệt | Lãi suất repo 1 ngày |
+
+Cả năm ngân hàng trung ương đều độc lập vận hành theo luật, tức tự chọn cách dùng công cụ, và đều công bố quyết định ngay trong ngày. Mức minh bạch cũng tăng rõ: chỉ số minh bạch (thang 0–15) của ASEAN-5 tăng từ khoảng 3 năm 1998 lên khoảng 9 năm 2010, ngang các nước mới nổi có mục tiêu lạm phát khác.
 
 ### 2. Bộ ba bất khả thi và hành vi tỷ giá
 
-Nội dung đã trình bày ở sơ đồ. Chuyển sang thả nổi thường diễn ra dần dần, và ngay cả các nước theo đuổi mục tiêu lạm phát thành công vẫn cân nhắc tỷ giá, nhất là khi khủng hoảng. Số nước mới nổi có mục tiêu lạm phát được xếp là thả nổi có quản lý trên thực tế đã tăng theo thời gian.
+**Bộ ba bất khả thi trong thực tế.** Lý thuyết nói chỉ chọn được 2 trong 3 thứ: tự chủ tiền tệ, ổn định tỷ giá, mở tài khoản vốn. Trong thực tế, các nước thường chọn mức trung gian của cả ba; khi đo mỗi thứ bằng một chỉ số từ 0 đến 1, ba chỉ số cộng lại bằng khoảng 2. Năm nước ASEAN-5 đi theo năm con đường khác nhau:
 
-Hồi quy kiểu Frankel và Wei (1994): trước 1997, các đồng tiền ASEAN-5 chủ yếu theo USD; đô la Singapore theo một rổ trong đó USD chi phối nhưng yên và đồng tiền châu Âu có trọng số đáng kể. Sau 1997, rupiah biến động hơn hẳn, baht chuyển một phần trọng số sang yên, peso tăng giá theo xu hướng so với tổ hợp USD – yên.
+| Nước | Trước 1997 | 2000–2007 | 2010–2014 |
+|---|---|---|---|
+| Indonesia | Neo trượt và tài khoản vốn mở, nên ít tự chủ tiền tệ | Tỷ giá linh hoạt hơn, nên tự chủ hơn | Linh hoạt hơn nữa và có biện pháp quản lý dòng vốn, nên tự chủ hơn nữa |
+| Malaysia | Tỷ giá được quản lý và tài khoản vốn mở | Neo cứng vào USD và kiểm soát vốn | Thả nổi (từ 2005) và mở tài khoản vốn, nên tự chủ hơn |
+| Philippines | Tài khoản vốn khá đóng, nên khá tự chủ | Mở dần tài khoản vốn nhưng vẫn quản lý tỷ giá để tích dự trữ, nên kém tự chủ hơn | Tỷ giá linh hoạt hơn, nên tự chủ hơn |
+| Singapore | Tài khoản vốn mở hoàn toàn, điều hành qua tỷ giá, lãi suất do thị trường quyết định; vị trí gần như không đổi qua cả ba giai đoạn | (như cột trước) | (như cột trước) |
+| Thái Lan | Tỷ giá được quản lý và tài khoản vốn mở | Linh hoạt hơn, quản lý tài khoản vốn chặt | Linh hoạt hơn nữa, nên tự chủ hơn |
+
+**Phân loại tỷ giá: theo luật và trên thực tế.** Theo luật, từ 2008 cả năm nước đều là thả nổi có quản lý hoặc thả nổi tự do. Trên thực tế, năm 2014 bốn nước là thả nổi có quản lý, và không nước nào thả nổi tự do. Kiểm định nghiệm đơn vị (một phép thử thống kê xem tỷ giá có bám theo một đồng tiền khác hay không) không tìm thấy bằng chứng về việc neo vào USD, yên hay nhân dân tệ sau khủng hoảng toàn cầu; trước 1997 thì có. Kiểm định cũng bắt được việc ringgit neo vào USD đến 2005.
+
+Chuyển sang thả nổi thường diễn ra dần dần, và ngay cả các nước theo đuổi mục tiêu lạm phát thành công vẫn cân nhắc tỷ giá, nhất là khi khủng hoảng. Số nước mới nổi có mục tiêu lạm phát nhưng được xếp là thả nổi có quản lý trên thực tế đã tăng theo thời gian.
+
+**Đồng tiền theo đồng tiền nào.** Hồi quy kiểu Frankel và Wei (1994) đo xem mỗi đồng tiền di chuyển theo những đồng tiền lớn nào. Trước 1997, các đồng tiền ASEAN-5 chủ yếu theo USD; đô la Singapore theo một rổ trong đó USD chi phối nhưng yên và các đồng tiền châu Âu có trọng số đáng kể. Sau 1997, rupiah biến động hơn hẳn, baht chuyển một phần trọng số sang yên, và peso có xu hướng tăng giá so với tổ hợp USD – yên.
+
+**Làm mượt ngắn hạn, để trôi dài hạn.** Bảng dưới là hệ số biến thiên của tỷ giá so với USD, đo trên các cửa sổ 10, 50 và 250 ngày, ở ba giai đoạn: trước 1997, khủng hoảng (9/2008–2/2009), và sau khủng hoảng. Mỗi ô ghi ba giá trị theo thứ tự đó.
+
+| Nước | 10 ngày | 50 ngày | 250 ngày |
+|---|---|---|---|
+| Indonesia | 0,10 / 1,33 / 0,50 | 0,31 / 4,17 / 1,27 | 1,14 / 5,78 / 4,04 |
+| Malaysia | 0,23 / 0,62 / 0,54 | 0,61 / 1,77 / 1,25 | 1,76 / 3,79 / 2,89 |
+| Philippines | 0,24 / 0,75 / 0,39 | 0,78 / 1,87 / 0,88 | 3,09 / 5,60 / 1,91 |
+| Singapore | 0,24 / 0,73 / 0,39 | 0,60 / 1,90 / 0,90 | 1,69 / 3,28 / 2,23 |
+| Thái Lan | 0,18 / 0,43 / 0,33 | 0,40 / 1,01 / 0,87 | 0,79 / 4,34 / 2,15 |
+| Úc (so sánh) | 0,51 / 2,45 / 0,85 | 1,14 / 5,91 / 1,97 | 2,55 / 11,69 / 5,43 |
+| Nhật (so sánh) | 0,71 / 1,28 / 0,67 | 1,73 / 2,75 / 1,51 | 4,55 / 4,63 / 4,08 |
+
+Hai kết luận rút ra. Thứ nhất, biến động tăng dần theo độ dài cửa sổ: ngân hàng trung ương chặn dao động ngắn hạn nhưng để đồng tiền di chuyển trong dài hạn. Dù vậy, ở mọi kỳ hạn, biến động của ASEAN-5 vẫn thấp hơn các đồng tiền thả nổi tự do như đô la Úc và yên Nhật. Ví dụ: ở cửa sổ 250 ngày sau khủng hoảng, Thái Lan là 2,15 so với Úc 5,43. Thứ hai, sau khủng hoảng, biến động chỉ tăng nhẹ so với trước 1997, trong khi môi trường quốc tế biến động hơn nhiều; điều này gợi ý ngân hàng trung ương đã can thiệp nhiều hơn để chống lại.
+
+**Mức độ quản lý tỷ giá.** Trên thang xấp xỉ từ 0 (thả nổi hoàn toàn) đến 1 (cố định):
+
+| Nước | Mức độ quản lý | Gần với |
+|---|---|---|
+| Indonesia | khoảng 0,2 | Nhật Bản |
+| Philippines | khoảng 0,43 | |
+| Thái Lan | khoảng 0,48 | |
+| Malaysia | khoảng 0,52 | Nga, Argentina |
+| Singapore | khoảng 0,72 | Trung Quốc |
 
 ### 3. Chu kỳ tài chính toàn cầu
 
-Theo Rey (2013), có một chu kỳ tài chính toàn cầu trong dòng vốn, giá tài sản và tín dụng, do chính sách tiền tệ Mỹ dẫn dắt qua đòn bẩy của các ngân hàng toàn cầu. Eichengreen và Gupta (2014) thấy mức độ chịu tác động của cú sốc taper tantrum phụ thuộc vào lượng vốn đã chảy vào trước đó.
+**Khung lý thuyết.** Theo Rey (2013), có một chu kỳ tài chính toàn cầu trong dòng vốn, giá tài sản và tín dụng, do chính sách tiền tệ Mỹ dẫn dắt qua đòn bẩy của các ngân hàng toàn cầu: khi Mỹ nới lỏng, các ngân hàng toàn cầu vay rẻ hơn, tăng đòn bẩy và đẩy vốn sang các nước mới nổi. Eichengreen và Gupta (2014) thấy mức độ một nước bị cú sốc thu hẹp nới lỏng định lượng (taper tantrum) năm 2013 tác động phụ thuộc vào lượng vốn đã chảy vào nước đó trước đó.
 
-Kết quả đã trình bày ở sơ đồ. Thêm vài điểm:
-- Nền tảng vĩ mô tốt (cán cân vãng lai mạnh) giữ lợi suất thấp; kỳ vọng đồng tiền mất giá đẩy lợi suất lên.
-- Kỳ vọng tăng trưởng tốt thường đi kèm lợi suất **thấp** hơn: nhà đầu tư đọc đó là tín nhiệm tốt hơn, không chỉ là chu kỳ.
+**Hai nhân tố chung chi phối điều kiện tài chính.** Báo cáo dùng phân tích thành phần chính trên 40–60 chỉ số tài chính của mỗi nước, để tìm ra vài nhân tố chung đứng sau phần lớn biến động. Hai nhân tố đầu tiên giải thích 60–75% biến động điều kiện tài chính (ở Singapore, riêng nhân tố đầu đã giải thích phần lớn):
+
+| Nhân tố | Gắn với | Chi phối | Kênh truyền dẫn |
+|---|---|---|---|
+| Thứ nhất | Lợi suất trái phiếu Mỹ 10 năm (tương quan từ −0,74 đến −0,90) | Lợi suất dài hạn, lãi suất ngân hàng, tín dụng, doanh nghiệp | Kênh tiền tệ và tín dụng |
+| Thứ hai | VIX (độ e ngại rủi ro toàn cầu) | Lãi suất ngắn hạn, tỷ giá, chứng khoán | Kênh dòng vốn và giá tài sản |
+
+**Lợi suất trái phiếu chính phủ 10 năm.** Bảng dưới cho biết lợi suất trong nước thay đổi bao nhiêu điểm phần trăm khi mỗi biến bên Mỹ tăng 1 điểm, ước lượng cho giai đoạn 2000–2015 với hai đặc tả (hai cách viết mô hình), ghi lần lượt. Dấu sao chỉ mức ý nghĩa: \*\*\* là chắc chắn nhất, \* là yếu nhất, không có sao là không có ý nghĩa thống kê.
+
+| Nước | Lãi suất bóng của Fed | Phần bù kỳ hạn Mỹ | VIX |
+|---|---|---|---|
+| Indonesia | 0,26\*\*\* / 0,21\*\*\* | 0,72\*\*\* / 0,69\*\*\* | 0,051\*\* / 0,046\*\*\* |
+| Philippines | 0,28\*\*\* / 0,35\*\*\* | 0,38\*\* / 0,22\*\* | 0,016 / 0,027\* |
+| Singapore | 0,15\*\*\* / 0,14\*\*\* | 0,22\*\*\* / 0,26\*\*\* | khoảng 0 |
+| Thái Lan | 0,09\*\* / 0,03 | 0,21\*\* / 0,18\*\*\* | −0,022\* / −0,025\*\* |
+| Malaysia | 0,08\*\*\* / 0,03 | 0,19\*\*\* / 0,18\*\* | khoảng 0 |
+
+Lãi suất bóng là ước lượng lãi suất chính sách của Mỹ trong giai đoạn lãi suất thật đã ở 0, phản ánh cả tác động của nới lỏng định lượng (theo Krippner 2014). Phần bù kỳ hạn là phần lợi suất thêm mà nhà đầu tư đòi để giữ trái phiếu dài hạn thay vì ngắn hạn. Indonesia và Philippines nhạy nhất: chẳng hạn phần bù kỳ hạn Mỹ tăng 1 điểm đi kèm lợi suất Indonesia tăng khoảng 0,7 điểm. Điểm đặc biệt là VIX tăng làm lợi suất Thái Lan giảm: khi thế giới bất ổn, nhà đầu tư trong nước Thái Lan chuyển sang trái phiếu nội.
+
+**Lãi suất ngân hàng.** Theo đặc tả không có biến trễ, lãi suất cho vay của ngân hàng phản ứng như sau (điểm phần trăm khi lãi suất tương ứng tăng 1 điểm):
+
+| Nước | Theo lãi suất chính sách trong nước | Theo lãi suất Fed |
+|---|---|---|
+| Indonesia | 0,10 (không có ý nghĩa) | 0,69\*\*\* |
+| Malaysia | 0,04 (không có ý nghĩa) | 0,38\*\*\* |
+| Philippines | 1,05\*\*\* | 0,07 (không có ý nghĩa) |
+| Thái Lan | 0,69\*\*\* | −0,22\*\*\* |
+| Singapore | −0,03\*\*\* (theo SIBOR) | 0,006\*\* |
+
+Lãi suất tiền gửi theo lãi suất Fed: Indonesia 0,40\*\*\*; Malaysia 0,09\*\*\*; Thái Lan 0,07\*\*\*; Singapore 0,02\*\*\*; Philippines −0,11\*\*. Thanh khoản trong nước, đo bằng độ lệch của tiền cơ sở so với xu hướng, cũng có ý nghĩa thống kê, nghĩa là điều hành thanh khoản của ngân hàng trung ương có tác dụng.
+
+**Các phát hiện bổ sung:**
+
+- Nền tảng vĩ mô tốt, như cán cân vãng lai mạnh, giữ lợi suất thấp; kỳ vọng đồng tiền mất giá đẩy lợi suất lên.
+- Kỳ vọng tăng trưởng tốt thường đi kèm lợi suất **thấp** hơn: nhà đầu tư đọc đó là tín nhiệm tốt hơn, không chỉ là dấu hiệu chu kỳ đang nóng.
 - Tỷ lệ nhà đầu tư nước ngoài nắm trái phiếu nội tệ cao là kênh lan truyền chính.
-- Thái Lan ít chịu tác động toàn cầu lên lãi suất ngân hàng hơn, có thể do Ngân hàng Thái Lan tăng yêu cầu dự phòng và ngân hàng siết tiêu chuẩn cho vay vì nợ hộ gia đình.
-- Phát triển tài chính làm giảm độ nhạy của giá cổ phiếu, trái phiếu với yếu tố toàn cầu, nhưng yếu hơn với thị trường ngoại hối.
+- Thái Lan ít chịu tác động toàn cầu lên lãi suất ngân hàng hơn, có thể do Ngân hàng Thái Lan tăng yêu cầu dự phòng và các ngân hàng tự siết tiêu chuẩn cho vay vì nợ hộ gia đình cao.
+- Phát triển tài chính làm giảm độ nhạy của giá cổ phiếu và trái phiếu với yếu tố toàn cầu, nhưng tác dụng này yếu hơn với thị trường ngoại hối.
 
-**Khung vận hành chủ động**: ngân hàng trung ương nhìn chung giữ lãi suất thị trường trong hành lang lãi suất đã công bố. Hai ngoại lệ: Philippines (lãi suất thị trường ngắn hạn thấp hơn hẳn hành lang, vì khó hút thanh khoản dư thừa từ dòng vốn vào 2009–2011 với ít công cụ; đã công bố áp dụng hành lang lãi suất và đấu thầu tiền gửi từ quý 2/2016) và Indonesia (lãi suất liên ngân hàng qua đêm nằm sát đáy hành lang).
+**Khung vận hành chủ động.** Các ngân hàng trung ương nhìn chung giữ lãi suất thị trường ngắn hạn nằm trong hành lang lãi suất đã công bố (giữa lãi suất cho vay và lãi suất nhận gửi của ngân hàng trung ương). Có hai ngoại lệ. Ở Philippines, lãi suất thị trường ngắn hạn thấp hơn hẳn hành lang, vì ngân hàng trung ương khó hút hết thanh khoản dư thừa từ dòng vốn vào giai đoạn 2009–2011 khi có ít công cụ; nước này đã công bố áp dụng hành lang lãi suất và đấu thầu tiền gửi từ quý 2/2016. Ở Indonesia, lãi suất liên ngân hàng qua đêm nằm sát đáy hành lang.
 
 ### 4. Phản ứng chính sách tiền tệ
 
-Kết quả quy tắc Taylor đã trình bày ở sơ đồ. Độ lệch khỏi quy tắc Taylor truyền thống sau 2008 gợi ý một "bình thường mới" (Hofmann và Bogdanova 2012). Với Singapore: hệ số của thay đổi tỷ giá kỳ trước khoảng 0,6; phản ứng mạnh nhất với lạm phát kỳ vọng; lãi suất Mỹ, VIX và khủng hoảng toàn cầu không có ý nghĩa.
+**Dạng quy tắc Taylor được ước lượng.** Lãi suất chính sách bằng ρ nhân lãi suất kỳ trước, cộng (1 − ρ) nhân tổng của: β₁ nhân độ lệch lạm phát so với mục tiêu, β₂ nhân chênh lệch sản lượng, và các biến khác. ρ là hệ số làm mượt. Với Singapore, vì điều hành bằng tỷ giá, biến được giải thích là phần trăm thay đổi của tỷ giá hiệu dụng danh nghĩa thay cho lãi suất.
+
+**Phương pháp "ước lượng dày".** Thay vì chọn một phương trình duy nhất, báo cáo ước lượng mọi tổ hợp hợp lý của biến giải thích: 3 thước đo lạm phát nhân 2 thước đo chênh lệch sản lượng, có hoặc không có tỷ giá, lãi suất Mỹ, VIX và các biến khác. Mỗi mô hình được lặp 10.000 lần bằng bootstrap (lấy mẫu lại ngẫu nhiên từ dữ liệu), rồi gộp hệ số lại. Hệ số xác định R² thường trên 80%, nhiều khi trên 90%.
+
+**Kết quả chính:**
+
+| Câu hỏi | Kết quả |
+|---|---|
+| Làm mượt lãi suất (ρ) | Malaysia khoảng 0,6; Indonesia khoảng 0,8; Thái Lan khoảng 0,8; Philippines khoảng 0,97 |
+| Lạm phát nào quan trọng hơn | Lạm phát kỳ vọng quan trọng hơn lạm phát thực tế, tức điều hành nhìn về phía trước |
+| Phản ứng với lạm phát | Thái Lan mạnh nhất (hệ số lớn hơn 1 với lạm phát lõi và lạm phát kỳ vọng); Malaysia yếu nhất (gần 0) |
+| Phản ứng với sản lượng | Chỉ có ý nghĩa ở Malaysia: chênh lệch sản lượng giảm 1 điểm (−1) thì lãi suất giảm 25 điểm cơ bản (−25); Malaysia chú trọng sản lượng hơn lạm phát |
+| Khủng hoảng toàn cầu (quý 4/2008 – quý 2/2009, tức Q4/2008–Q2/2009) | Lãi suất thấp hơn mức quy tắc thêm từ 30 điểm cơ bản (Malaysia) đến 75 điểm cơ bản (Indonesia) |
+| VIX | VIX tăng 30 điểm (như tháng 9/2011) thì lãi suất thấp hơn từ 10 đến 45 điểm cơ bản (−10 đến −45) |
+| Lãi suất Mỹ | Có ý nghĩa ở mức 5% với Indonesia, ở mức 10% với Thái Lan và Philippines; tác động nhỏ ở Malaysia và Singapore |
+
+Hệ số làm mượt 0,97 của Philippines nghĩa là mỗi kỳ, lãi suất chỉ điều chỉnh 3% khoảng cách tới mức quy tắc khuyến nghị; lãi suất gần như giữ nguyên từ kỳ này sang kỳ khác.
+
+**Tác động của chính sách phi truyền thống của Mỹ.** Báo cáo ước lượng chính sách nới lỏng phi truyền thống của Mỹ đã kéo lãi suất chính sách ASEAN-5 thấp hơn mức mà điều kiện trong nước biện minh bao nhiêu điểm phần trăm, tại đáy vào khoảng 2012 (giá trị xấp xỉ):
+
+| Nước | Tác động tại đáy |
+|---|---|
+| Indonesia | khoảng −2,0, có thể tới −2,5 |
+| Philippines | khoảng −1,2 |
+| Thái Lan | khoảng −0,75 |
+| Malaysia | khoảng −0,2 |
+| Singapore | khoảng −0,3 (tính theo tỷ giá) |
+
+Đến 2015, tác động này gần như đã hết.
+
+**"Bình thường mới" và trường hợp Singapore.** Độ lệch của lãi suất khỏi quy tắc Taylor truyền thống sau 2008 gợi ý một "bình thường mới" (theo Hofmann và Bogdanova 2012), trong đó lãi suất chính sách thấp kéo dài hơn mức quy tắc cũ dự đoán. Với Singapore, hệ số của thay đổi tỷ giá kỳ trước khoảng 0,6; phản ứng mạnh nhất là với lạm phát kỳ vọng; còn lãi suất Mỹ, VIX và khủng hoảng toàn cầu đều không có ý nghĩa thống kê.
 
 ### 5. Dòng vốn và điều chỉnh đối ngoại
 
-Nội dung đã trình bày ở sơ đồ. Bán tài sản nước ngoài khi dòng vốn rút có mặt tích cực: giúp trả nợ ngoại tệ, giảm rủi ro bảng cân đối — cùng với việc phát hành nợ bằng nội tệ ngày càng nhiều. Khi bảng cân đối khỏe hơn, mất giá có thể đóng vai trò giảm sốc truyền thống. Khoảng cách đối ngoại theo phương pháp Đánh giá Cân bằng Đối ngoại của IMF thu hẹp qua hai chu kỳ.
+**Khi dòng vốn vào ồ ạt, mỗi nước hấp thụ bằng cách nào:**
 
-Dự trữ tích lũy vì bài học 1997. Nhưng lợi ích phải cân với chi phí: khi lỗ vượt thu nhập từ phát hành tiền bền vững, hoặc luật yêu cầu vốn tối thiểu cho ngân hàng trung ương, bảng cân đối yếu có thể làm ngân hàng trung ương khó độc lập với áp lực tài khóa. Chi phí nên được đánh giá theo dự kiến trước, không theo kết quả sau, vì ngân hàng trung ương không thể biết trước các cú sốc làm chi phí thay đổi.
+- **Malaysia:** các định chế tài chính trong nước đầu tư ra nước ngoài (tạo dòng vốn ra gộp lớn), cộng với tích dự trữ và hút tiền về bằng tín phiếu ngân hàng trung ương.
+- **Indonesia, Philippines, Thái Lan:** trước 1997, dòng vốn vào được dùng để tài trợ thâm hụt vãng lai. Trong 2003–07 và 2010–12, dòng vào chủ yếu được hấp thụ bằng tích dự trữ, nhờ đó cán cân vãng lai được che chắn.
+- **Singapore:** là trung tâm tài chính, dòng vào gộp xấp xỉ bằng dòng ra gộp.
+
+Trong 2013–2015, khi dòng vốn đảo chiều, các nước dựa vào để đồng tiền mất giá nhiều hơn là dùng dự trữ.
+
+**Mặt tích cực của việc bán tài sản nước ngoài.** Khi dòng vốn rút ra, việc bán tài sản nước ngoài giúp trả nợ ngoại tệ và giảm rủi ro bảng cân đối. Cùng với việc doanh nghiệp và chính phủ phát hành nợ bằng nội tệ ngày càng nhiều, bảng cân đối khỏe hơn; khi đó đồng tiền mất giá có thể đóng vai trò giảm sốc truyền thống (làm hàng xuất khẩu rẻ đi) thay vì làm nợ ngoại tệ phình ra. Khoảng cách đối ngoại theo phương pháp Đánh giá Cân bằng Đối ngoại của IMF đã thu hẹp qua hai chu kỳ.
+
+**Hệ số trung hòa can thiệp ngoại hối** (−1 là trung hòa toàn bộ, 0 là không trung hòa):
+
+| Nước | Trước khủng hoảng toàn cầu | Khủng hoảng toàn cầu | Sau khủng hoảng | Taper tantrum |
+|---|---|---|---|---|
+| Indonesia | −0,957 | −0,901 | −0,838 | −0,824 |
+| Malaysia | −0,933 | −0,914 | −0,871 | −0,839 |
+| Philippines | −0,806 | −0,709 | −0,765 | −0,833 |
+| Singapore | −0,989 | −0,981 | −1,000 | −1,004 |
+| Thái Lan | −1,000 | −1,000 | −1,000 | −1,000 |
+
+Thái Lan và Singapore trung hòa gần như toàn bộ. Philippines chỉ trung hòa một phần trong mọi giai đoạn, với hệ số từ −0,709 đến −0,833.
+
+**Vì sao tích dự trữ, và cái giá của nó.** Các nước tích lũy dự trữ vì bài học năm 1997, khi thiếu ngoại tệ khiến khủng hoảng trầm trọng. Nhưng lợi ích phải được cân với chi phí. Chi phí giữ dự trữ, tính theo dự kiến trước (bình quân 2002–13, % GDP):
+
+| Nước | Chi phí |
+|---|---|
+| Indonesia | 0,6 |
+| Philippines | 0,7 |
+| Thái Lan | 0,9 |
+| Malaysia | 1,0 |
+| Singapore | 1,3 |
+| Trung vị các nước mới nổi | 0,5 |
+
+Chi phí này được đo bằng độ lệch khỏi ngang giá lãi suất không phòng ngừa: ngân hàng trung ương giữ tài sản USD lãi thấp, trong khi phát hành nợ nội tệ lãi cao để trung hòa. Cả năm nước đều cao hơn trung vị các nước mới nổi.
+
+Khi khoản lỗ này vượt thu nhập bền vững từ phát hành tiền, hoặc khi luật yêu cầu ngân hàng trung ương duy trì vốn tối thiểu, một bảng cân đối yếu có thể khiến ngân hàng trung ương khó giữ độc lập trước áp lực tài khóa. Báo cáo lưu ý chi phí nên được đánh giá theo dự kiến trước, không theo kết quả sau, vì ngân hàng trung ương không thể biết trước các cú sốc làm chi phí thay đổi.
+
+**Dự trữ so với thước đo đầy đủ của IMF.** Giai đoạn 2002–12, dự trữ được tích lũy vượt mức cần thiết. Giai đoạn 2013–15, Indonesia và Malaysia rút dự trữ xuống gần cận dưới của mức đầy đủ, còn Philippines và Thái Lan vẫn ở trên mức cần thiết.
+
+**Ba đợt dòng vốn rút ra:**
+
+| | Khủng hoảng toàn cầu (9/2008–3/09) | Taper tantrum (từ 5/2013) | Mùa hè 2015 (nhân dân tệ) |
+|---|---|---|---|
+| Dòng vốn | Hơn 90 tỷ USD rút ra (không tính FDI); khoảng 8 tỷ USD là vốn danh mục | Khoảng 20 tỷ USD vốn danh mục ròng rút ra (6/2013–3/2014) | Xấp xỉ quy mô taper tantrum, chủ yếu cổ phiếu |
+| Chứng khoán | Giảm 30% trở lên | Giảm 15% (Indonesia, Philippines, Thái Lan); giảm 5% (Malaysia, Singapore) | Giảm 12% (Indonesia, Singapore); giảm 6 đến 9% ở các nước khác |
+| Phí bảo hiểm rủi ro vỡ nợ chính phủ (CDS, điểm cơ bản) | Tăng từ 90 (Singapore) đến khoảng 400 (Indonesia) | Indonesia tăng 124 (lợi suất trái phiếu tăng 250 điểm cơ bản) | Indonesia, Malaysia tăng khoảng 100 |
+| Nước chịu nhiều nhất | Cả năm nước | Indonesia (thâm hụt kép: cả vãng lai lẫn ngân sách) | Indonesia và Malaysia (nước xuất khẩu dầu) |
+| Lãi suất chính sách | Cả năm nước hạ | Chỉ Indonesia tăng | Giữ nguyên |
+
+Từ 4/2013 đến 12/2015, rupiah và ringgit mất 29% giá trị so với USD, và dự trữ ngoại hối của Malaysia giảm 32%.
+
+Khi taper tantrum xảy ra, Indonesia phản ứng bằng cả một bộ biện pháp: tăng lãi suất, tăng dự trữ bắt buộc, siết tỷ lệ cho vay trên giá trị tài sản, tăng giá xăng dầu trợ giá bình quân 33% để giảm thâm hụt ngân sách, rút ngắn thời gian nắm giữ bắt buộc với tín phiếu ngân hàng trung ương để thu hút vốn, và ký các thỏa thuận hoán đổi tiền tệ với các nước.
 
 ### 6. An toàn vĩ mô và quản lý dòng vốn
 
-Dòng vốn có thể gây rủi ro qua: vốn ngắn hạn cho ngân hàng, vốn ngoại tệ cho hệ thống tài chính, bùng nổ tín dụng và giá tài sản, rủi ro tín dụng từ cho vay ngoại tệ. Bài tập trung vào kênh thứ ba. Kết quả đã trình bày ở sơ đồ.
+**Bốn kênh rủi ro từ dòng vốn.** Dòng vốn có thể gây rủi ro cho hệ thống tài chính qua bốn kênh: vốn ngắn hạn chảy vào ngân hàng (dễ rút đi đột ngột); vốn ngoại tệ vào hệ thống tài chính; bùng nổ tín dụng và giá tài sản; và rủi ro tín dụng khi ngân hàng cho vay bằng ngoại tệ những người không có thu nhập ngoại tệ. Báo cáo tập trung vào kênh thứ ba.
 
-Quản lý dòng vốn và an toàn vĩ mô có thể trùng nhau: khi dòng vốn là nguồn gốc rủi ro hệ thống, công cụ xử lý nó vừa là biện pháp an toàn vĩ mô vừa là biện pháp quản lý dòng vốn (ví dụ thuế trước bạ bổ sung của Singapore). Việc dùng dè dặt biện pháp quản lý dòng vốn có thể do kinh nghiệm xấu trước đây và tranh cãi về hiệu quả; cách tiếp cận nhắm vào cơ cấu dòng vốn (chuyển sang loại ít biến động) được coi là hiệu quả hơn.
+**Có bùng nổ tín dụng không?** Báo cáo dùng ba phương pháp nhận diện:
+
+| Phương pháp | Ngưỡng |
+|---|---|
+| Mendoza–Terrones | Tín dụng thực trên đầu người lệch khỏi xu hướng hơn 1,75 độ lệch chuẩn |
+| Dell'Ariccia và cộng sự | Tăng trưởng tỷ lệ tín dụng/GDP: 10% là cảnh báo, 20% là bùng nổ |
+| Báo cáo Ổn định Tài chính Toàn cầu 2011 | Tín dụng/GDP tăng hơn 3 điểm phần trăm mỗi năm là cảnh báo, hơn 5 điểm là bùng nổ |
+
+Kết quả theo giai đoạn:
+
+| Nước | 1996–97 | 2007–08 | 2009–12 | 2013–15 |
+|---|---|---|---|---|
+| Indonesia | Bùng nổ | – | – | – |
+| Malaysia | Bùng nổ | – | – | – |
+| Philippines | Bùng nổ | – | – | – |
+| Singapore | Bùng nổ | Bùng nổ (\*) | Cảnh báo | Bùng nổ (\*) |
+| Thái Lan | Bùng nổ | – | Cảnh báo | Cảnh báo |
+
+(\*) Chỉ theo phương pháp tín dụng/GDP, vốn ít đáng tin với một trung tâm tài chính như Singapore, nơi tín dụng phục vụ cả khu vực.
+
+Như vậy trước 1997 cả năm nước đều có bùng nổ tín dụng, còn sau 2008 không có bùng nổ diện rộng.
+
+**Nhưng có điểm nóng:**
+
+- Nợ hộ gia đình trên 80% GDP ở Malaysia và Thái Lan, chủ yếu là vay mua nhà, trong lúc giá nhà tăng nhanh.
+- Nợ doanh nghiệp trên 80% GDP ở Singapore và Thái Lan.
+- Cường độ tín dụng (lượng tín dụng tăng thêm cho mỗi đơn vị GDP tăng thêm) tăng sau 2008, nghĩa là tín dụng kích thích tăng trưởng kém hiệu quả đi: cần nhiều tín dụng hơn để tạo ra cùng một lượng tăng trưởng.
+
+**Chính sách an toàn vĩ mô, chủ yếu nhắm vào nhà ở:**
+
+- **Indonesia** siết tỷ lệ cho vay trên giá trị tài sản hai lần, vào tháng 6 và tháng 9/2013. Sau đó, tăng trưởng cho vay mua nhà giảm từ 32% (quý 3/2013, Q3/2013) xuống 12% (Q3/2014), và tốc độ tăng giá nhà giảm từ 13,5% xuống 6,5%.
+- **Malaysia và Thái Lan** nới các biện pháp khi khủng hoảng và siết lại khi nhà đất nóng, dùng tỷ lệ cho vay trên giá trị, thuế lãi vốn bất động sản và giới hạn thời hạn vay.
+- **Singapore** siết dần liên tục, dùng thuế trước bạ bổ sung và giới hạn tỷ lệ trả nợ trên thu nhập; cho vay và giá nhà giảm mạnh.
+- **Philippines** không có biện pháp chính thức, mà tăng giám sát và kiểm tra sức chịu đựng của danh mục cho vay nhà.
+
+**Quản lý dòng vốn: được dùng dè dặt.**
+
+- Công cụ chủ yếu là dự trữ bắt buộc với tiền gửi ngoại tệ.
+- Indonesia và Thái Lan áp thời gian nắm giữ tối thiểu và thuế khấu trừ với nhà đầu tư nước ngoài mua trái phiếu.
+- Philippines yêu cầu vốn cao hơn với các hợp đồng kỳ hạn không giao nhận (NDF).
+
+Quản lý dòng vốn và an toàn vĩ mô có thể trùng nhau: khi chính dòng vốn là nguồn gốc của rủi ro hệ thống, công cụ xử lý nó vừa là biện pháp an toàn vĩ mô vừa là biện pháp quản lý dòng vốn. Thuế trước bạ bổ sung của Singapore là ví dụ: nó nhắm vào nhà đất nhưng đánh nặng hơn vào người mua nước ngoài. Việc dùng dè dặt các biện pháp quản lý dòng vốn có thể do kinh nghiệm xấu trước đây và tranh cãi về hiệu quả. Cách tiếp cận nhắm vào cơ cấu dòng vốn, tức khuyến khích chuyển sang loại vốn ít biến động hơn, được coi là hiệu quả hơn việc chặn tổng lượng.
 
 ### 7. Can thiệp ngoại hối khi thị trường rối loạn
 
-Khi biến động tỷ giá quá mức, tỷ giá có thể thôi là bộ giảm sốc và trở thành bộ khuếch đại sốc, nhất là qua bảng cân đối. Can thiệp có thể giúp, nhưng phải hai chiều, và phải cân với rủi ro làm mờ khuôn khổ chính sách, nhất là khi can thiệp thường xuyên và không có rối loạn thật. Can thiệp không được thay thế các điều chỉnh chính sách cần thiết khác. Lưu ý: biến động hay vượt mức cân bằng không tự nó là "rối loạn thị trường"; chỉ khi nó khuếch đại cú sốc.
+Bình thường, tỷ giá là bộ giảm sốc: khi có cú sốc bất lợi, đồng tiền mất giá giúp nền kinh tế điều chỉnh. Nhưng khi biến động tỷ giá quá mức, tỷ giá có thể thôi giảm sốc và trở thành bộ khuếch đại sốc, nhất là qua bảng cân đối: doanh nghiệp và ngân hàng có nợ ngoại tệ thấy nợ phình ra, phải cắt giảm chi tiêu hoặc bán tháo tài sản, làm cú sốc nặng thêm.
+
+Trong tình huống đó, can thiệp có thể giúp, với ba điều kiện:
+
+- can thiệp phải **hai chiều**, tức sẵn sàng mua cũng như bán ngoại tệ, không chỉ chặn một hướng;
+- phải cân với rủi ro làm mờ khuôn khổ chính sách, nhất là khi can thiệp thường xuyên mà không có rối loạn thật, khiến thị trường không còn rõ ngân hàng trung ương đang nhắm lạm phát hay nhắm tỷ giá;
+- can thiệp **không được thay thế** các điều chỉnh chính sách cần thiết khác (như tăng lãi suất hay siết ngân sách).
+
+Báo cáo lưu ý: tỷ giá biến động mạnh hay vượt mức cân bằng không tự nó là "rối loạn thị trường". Chỉ khi biến động đó khuếch đại cú sốc thì mới là rối loạn.
+
+Số liệu ở mục dòng vốn cho thấy ASEAN-5 can thiệp nhiều và trung hòa gần như toàn bộ (trừ Philippines), và trong đợt 2013–2015 thì để đồng tiền mất giá nhiều hơn là dùng dự trữ.
 
 ### 8. Bài học và hướng tới
 
-- Trước 1997, neo tỷ giá tạo ra vay nợ quá mức và lệch tiền tệ ở doanh nghiệp, ngân hàng. Sau 1997, tỷ giá linh hoạt hơn, mục tiêu lạm phát (Thái Lan trong chương trình vay IMF; Indonesia và Philippines trong khuôn khổ giám sát sau chương trình), dự trữ và quy định tài chính chặt hơn.
-- Hội nhập tài chính làm điều kiện trong nước nhạy với bên ngoài. Trung hòa toàn bộ và điều hành thanh khoản chủ động giúp che chắn tín dụng và neo kỳ vọng, nhưng tốn kém. Dự trữ có lúc có vẻ vượt mức cần thiết.
-- Công cụ an toàn vĩ mô được mở rộng vì rủi ro mang tính **theo ngành**: lãi suất quá thô để xử lý nóng một ngành, và tăng lãi suất trong nền kinh tế mở có thể hút thêm vốn vào.
-- Khi Mỹ bình thường hóa, dư địa tự chủ tăng. Có thể cần chính sách an toàn vĩ mô ngược chu kỳ (như đệm vốn ngược chu kỳ của Basel III) và nới các biện pháp hiện có nếu tăng trưởng yếu kéo dài.
-- Mục tiêu trung gian như ổn định tài chính và đối ngoại sẽ quan trọng hơn; nên dùng công cụ riêng. Nhưng nếu dự trữ xuống dưới mức tới hạn hoặc tín dụng bùng nổ diện rộng, lãi suất có thể phải vào cuộc. Khi chu kỳ giá tài sản và lạm phát lệch nhau, chính sách tiền tệ sẽ gặp thế khó.
-- Cộng đồng Kinh tế ASEAN hướng tới tự do hóa tài chính và dòng vốn trong khối đến 2025, sẽ đặt thêm thách thức.
+- **Từ neo sang linh hoạt.** Trước 1997, neo tỷ giá tạo ra vay nợ quá mức và lệch tiền tệ ở doanh nghiệp và ngân hàng (vay bằng USD nhưng thu nhập bằng nội tệ). Sau 1997, các nước chuyển sang tỷ giá linh hoạt hơn, mục tiêu lạm phát (Thái Lan áp dụng trong chương trình vay của IMF; Indonesia và Philippines trong khuôn khổ giám sát sau chương trình), dự trữ lớn hơn và quy định tài chính chặt hơn.
+- **Hội nhập có giá.** Hội nhập tài chính làm điều kiện trong nước nhạy với bên ngoài. Trung hòa toàn bộ can thiệp và điều hành thanh khoản chủ động đã giúp che chắn tín dụng trong nước và neo kỳ vọng, nhưng tốn kém (chi phí dự trữ 0,6–1,3% GDP). Có lúc dự trữ có vẻ vượt mức cần thiết.
+- **Mỗi rủi ro một công cụ.** Công cụ an toàn vĩ mô được mở rộng vì rủi ro mang tính **theo ngành**. Lãi suất ảnh hưởng toàn bộ nền kinh tế, quá thô để xử lý một ngành đang nóng; hơn nữa trong nền kinh tế mở, tăng lãi suất có thể hút thêm vốn nước ngoài vào, làm nóng thêm.
+- **Khi Mỹ bình thường hóa.** Dư địa tự chủ tiền tệ sẽ tăng. Có thể cần chính sách an toàn vĩ mô ngược chu kỳ, như đệm vốn ngược chu kỳ của Basel III (yêu cầu ngân hàng tích thêm vốn khi tín dụng tăng nhanh và được dùng khi suy thoái), và nới các biện pháp hiện có nếu tăng trưởng yếu kéo dài.
+- **Mục tiêu trung gian sẽ quan trọng hơn.** Ổn định tài chính và ổn định đối ngoại nên được xử lý bằng công cụ riêng. Nhưng nếu dự trữ xuống dưới mức tới hạn hoặc tín dụng bùng nổ diện rộng, lãi suất có thể phải vào cuộc. Khi chu kỳ giá tài sản và chu kỳ lạm phát lệch nhau (ví dụ nhà đất nóng trong lúc lạm phát thấp), chính sách tiền tệ sẽ gặp thế khó.
+- **Thách thức sắp tới.** Cộng đồng Kinh tế ASEAN hướng tới tự do hóa tài chính và dòng vốn trong khối đến 2025, sẽ làm tài khoản vốn mở hơn và thế lưỡng nan rõ hơn.
 
 ### 9. Ý nghĩa với Việt Nam
 
 Việt Nam không nằm trong báo cáo, nhưng đang đứng ở vị trí mà ASEAN-5 đã đi qua.
 
-**Khuôn khổ.** Ngân hàng Nhà nước Việt Nam điều hành với nhiều mục tiêu cùng lúc (lạm phát, tăng trưởng tín dụng, tỷ giá), dùng hạn mức tăng trưởng tín dụng như một công cụ chính, và quản lý tỷ giá trong một biên độ quanh tỷ giá trung tâm. Theo phân loại của báo cáo, đó là vị trí gần với Malaysia trước 2005 hoặc Philippines 2000–2007. Kinh nghiệm ASEAN-5 cho thấy con đường đi sang mục tiêu lạm phát là **dần dần**, và tỷ giá vẫn được quản lý nhiều năm sau đó.
+**Khuôn khổ.** Ngân hàng Nhà nước Việt Nam điều hành với nhiều mục tiêu cùng lúc (lạm phát, tăng trưởng tín dụng, tỷ giá), dùng hạn mức tăng trưởng tín dụng như một công cụ chính, và quản lý tỷ giá trong một biên độ quanh tỷ giá trung tâm. Theo cách phân loại của báo cáo, vị trí đó gần với Malaysia trước 2005 hoặc Philippines giai đoạn 2000–2007: tỷ giá được quản lý chặt, tự chủ tiền tệ có giới hạn. Kinh nghiệm ASEAN-5 cho thấy con đường đi sang mục tiêu lạm phát diễn ra **dần dần**, qua nhiều năm, và tỷ giá vẫn được quản lý nhiều năm sau khi đã chuyển.
 
-**Thế lưỡng nan.** Phát hiện rằng lãi suất cho vay ở Indonesia và Malaysia bám theo lãi suất Mỹ nhiều hơn lãi suất chính sách trong nước là lời cảnh báo cho Việt Nam khi mở dần tài khoản vốn: tỷ giá linh hoạt hơn không tự động đem lại tự chủ tiền tệ.
+**Thế lưỡng nan.** Phát hiện rằng lãi suất cho vay ở Indonesia (0,69) và Malaysia (0,38) bám theo lãi suất Mỹ nhiều hơn lãi suất chính sách trong nước (0,10 và 0,04, không có ý nghĩa) là lời cảnh báo cho Việt Nam khi mở dần tài khoản vốn: tỷ giá linh hoạt hơn không tự động đem lại tự chủ tiền tệ.
 
-**Công cụ riêng cho từng rủi ro.** Cách ASEAN-5 xử lý nóng nhà đất bằng tỷ lệ cho vay/giá trị tài sản và thuế, thay vì bằng lãi suất chung, là mô hình đáng tham khảo cho Việt Nam, nơi các đợt siết tín dụng bất động sản thường được làm bằng hạn mức tín dụng chung hoặc chỉ đạo hành chính.
+**Công cụ riêng cho từng rủi ro.** Cách ASEAN-5 xử lý nóng nhà đất bằng tỷ lệ cho vay trên giá trị tài sản và bằng thuế, thay vì bằng lãi suất chung, là mô hình đáng tham khảo cho Việt Nam, nơi các đợt siết tín dụng bất động sản thường được thực hiện bằng hạn mức tín dụng chung hoặc chỉ đạo hành chính. Trường hợp Indonesia năm 2013 cho thấy một công cụ nhắm đúng ngành có thể hạ tăng trưởng cho vay mua nhà từ 32% xuống 12% trong một năm mà không cần siết toàn bộ nền kinh tế.
 
-**Chi phí dự trữ.** 0,6–1,3% GDP mỗi năm là cái giá của vùng đệm. Khi Việt Nam tích lũy dự trữ và trung hòa bằng tín phiếu, chi phí này cũng tồn tại, dù ít được công bố.
+**Chi phí dự trữ.** Khoản 0,6–1,3% GDP mỗi năm là cái giá của vùng đệm ngoại hối. Khi Việt Nam tích lũy dự trữ và trung hòa bằng tín phiếu, chi phí này cũng tồn tại, dù ít được công bố.
 
 ## Thuật ngữ
 
