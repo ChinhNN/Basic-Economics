@@ -429,44 +429,225 @@
 2. Lập một ABP gồm những bước nào, từ xác định phạm vi nợ và nhu cầu tài trợ gộp tới lịch phát hành và đối chiếu với mục tiêu chi phí–rủi ro?
 3. Ai làm gì và công bố những gì, để ABP vừa đáng tin với nhà đầu tư vừa phối hợp được với chính sách tài khoá, tiền tệ và quản lý tiền mặt?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Chiến lược quản lý nợ trung hạn (MTDS, DMS).** MTDS là khung phương pháp do IMF và Ngân hàng Thế giới xây dựng để giúp các nước chọn cơ cấu nợ trong 3–5 năm tới: vay bao nhiêu bằng ngoại tệ, bao nhiêu bằng nội tệ, kỳ hạn ngắn hay dài, lãi cố định hay thả nổi. DMS là chiến lược cụ thể mà một nước soạn ra theo khung đó. Ví dụ minh hoạ: một DMS có thể đặt mục tiêu "trong 5 năm, 50% tài trợ đến từ nội tệ, và kỳ hạn bình quân còn lại của nợ nội tệ ở trong khoảng 3–5 năm". Khái niệm này quan trọng vì ABP chính là cách biến chiến lược nhiều năm đó thành hành động cho năm tới.
+
+**Kế hoạch Vay nợ Hằng năm (Annual Borrowing Plan, ABP).** Chiến lược tài trợ cho đúng một năm: chính phủ sẽ vay từ những công cụ nào, từ chủ nợ nào, bao nhiêu, và vào tháng hay quý nào, để đáp ứng nhu cầu tài trợ của năm đó. Khác với DMS chỉ nêu tỷ trọng theo nhóm lớn, ABP nêu từng khoản cụ thể. Ví dụ trong bài: thay vì chỉ ghi "vay đa phương", ABP ghi "Ngân hàng Thế giới trong khoảng 2.500–3.500 triệu, tức 15–25% tổng tài trợ". Khái niệm này là chủ đề của toàn bộ tài liệu.
+
+**Nhu cầu tài trợ gộp (Gross Financing Need, GFN).** Tổng số tiền chính phủ phải vay trong năm, bằng thâm hụt ngân sách cộng với phần nợ gốc đến hạn phải trả. Ví dụ trong bài: thu và viện trợ 11.900, chi sơ cấp 18.235, trả lãi 1.925, bán tài sản 10, cho vay lại 150, trả gốc 6.600 (triệu đơn vị nội tệ), cho GFN bằng 15.000. Khái niệm này quan trọng vì GFN là con số mà ABP phải "lấp đầy", và hình dạng của nó theo từng tháng quyết định thời điểm vay.
+
+**Nợ giao dịch được và không giao dịch được (marketable, nonmarketable debt).** Nợ giao dịch được là chứng khoán có thể mua bán lại trên thị trường, như tín phiếu kho bạc (T-bills, kỳ hạn dưới một năm) và trái phiếu kho bạc (T-bonds, kỳ hạn dài hơn), hay trái phiếu quốc tế. Nợ không giao dịch được là các khoản vay không chuyển nhượng được, như vay Ngân hàng Thế giới, vay một chính phủ khác, hay chứng khoán đặc biệt bán riêng cho một tổ chức. Ví dụ minh hoạ: một nhà đầu tư mua T-bill 6 tháng có thể bán lại cho người khác sau 2 tháng; một khoản vay Ngân hàng Thế giới thì không. Khái niệm này quan trọng vì ABP phải tách tối thiểu theo hai trục: trong nước hay nước ngoài, và giao dịch được hay không.
+
+**Rủi ro tái tài trợ (refinancing risk).** Rủi ro chính phủ phải vay lại để trả khoản nợ đến hạn vào đúng lúc thị trường khó khăn, nên phải chịu lãi rất cao hoặc không vay được. Ví dụ minh hoạ: nếu 3.000 triệu trái phiếu đáo hạn trong cùng một tháng mà tháng đó nhà đầu tư thiếu tiền, chính phủ có thể phải chấp nhận lãi cao hơn hẳn. Khái niệm này quan trọng vì nhận diện sớm rủi ro này trong năm là lợi ích đầu tiên của ABP.
+
+**Đệm tiền mặt (cash buffer).** Một lượng tiền chính phủ giữ sẵn, thường ở tài khoản tại ngân hàng trung ương, để dùng khi có cú sốc như thu thuế thấp hơn dự kiến hoặc một phiên đấu giá trái phiếu thất bại. Ví dụ minh hoạ: chính phủ giữ sẵn số tiền đủ trả nợ đến hạn trong hai tháng; nếu năm nay rút 250 triệu từ đệm, năm sau phải vay thêm để bổ sung lại. Khái niệm này quan trọng vì đệm tiền mặt vừa là công cụ giảm rủi ro tái tài trợ, vừa là một khoản phải tính vào nhu cầu vay.
+
+**Trái phiếu chuẩn và mở lại (benchmark bond, reopening).** Trái phiếu chuẩn là một mã trái phiếu có dư nợ đủ lớn để được mua bán thường xuyên, nhờ đó có giá rõ ràng làm tham chiếu cho thị trường. Cách xây trái phiếu chuẩn là "mở lại", tức phát hành thêm cùng một mã (cùng ngày đáo hạn, cùng coupon) qua nhiều phiên, thay vì mỗi phiên tạo ra một mã mới. Ví dụ minh hoạ: thay vì 10 mã trái phiếu 3 năm, mỗi mã 100 triệu, chính phủ phát hành 2 mã, mỗi mã 500 triệu. Khái niệm này quan trọng vì lịch phát hành trong ABP là nơi người quản lý nợ lên kế hoạch xây đường cong lợi suất chuẩn.
+
+**Kỳ hạn bình quân còn lại (Average Time to Maturity, ATM).** Thời gian trung bình, tính theo trọng số dư nợ, cho tới khi các khoản nợ phải trả gốc. Ví dụ minh hoạ: một nửa danh mục đáo hạn sau 1 năm, nửa còn lại sau 5 năm thì ATM là 3 năm. ATM càng ngắn, chính phủ càng phải vay lại thường xuyên và rủi ro tái tài trợ càng cao. Khái niệm này quan trọng vì đây là một trong những chỉ số chi phí–rủi ro mà ABP phải đối chiếu với mục tiêu của DMS.
+
+## Nội dung chi tiết
 
 ### 1. Mở đầu
 
-- Khung MTDS được IMF và Ngân hàng Thế giới công bố sau các khủng hoảng nợ chủ quyền cuối thập niên 1990 và đầu 2000 và sau các sáng kiến giảm nợ HIPC, MDRI, rồi được cập nhật năm 2019.
-- Chiến lược có chân trời 3–5 năm và được thực hiện qua kế hoạch vay nợ hằng năm. Nhiều nước đã soạn và công bố chiến lược nhưng thực hiện kém, vì khó dịch chiến lược thành kế hoạch hành động cho năm tới.
-- Ghi chú này và công cụ Excel đi kèm nhằm lấp khoảng trống đó, đặc biệt nhấn mạnh việc phối hợp giữa quản lý nợ, quản lý tiền mặt và chính sách tiền tệ qua tác động của hoạt động vay nợ lên số dư tiền mặt chính phủ và thanh khoản thị trường.
+**Bối cảnh lịch sử.** Sau các cuộc khủng hoảng nợ chủ quyền cuối thập niên 1990 và đầu những năm 2000 ở Đông Á và Mỹ Latinh, cùng với các sáng kiến giảm nợ cho các nước nghèo mắc nợ nhiều (HIPC) và sáng kiến giảm nợ đa phương (MDRI), IMF và Ngân hàng Thế giới đẩy mạnh hỗ trợ năng lực quản lý nợ công cho các nước. Các mốc chính:
+
+| Năm | Mốc |
+|---|---|
+| 2009 | Công bố khung MTDS và công cụ phân tích MTDS AT |
+| 2019 | Cập nhật hướng dẫn, thêm các công cụ nợ đa dạng hơn |
+| Từ 2020 | Khoá học trực tuyến đại chúng của IMF và sổ tay tương tác của Ngân hàng Thế giới |
+
+**Vấn đề còn lại.** Một chiến lược quản lý nợ có chân trời 3–5 năm và được thực hiện qua kế hoạch vay nợ hằng năm. Nhiều nước đã soạn và công bố được chiến lược, nhưng việc thực hiện qua ABP thì kém. Phản hồi từ thực tế cho thấy rào cản chính là khó dịch chiến lược thành một kế hoạch hành động cụ thể cho năm tới. Bản đồ nhiệt Minh bạch Nợ của Ngân hàng Thế giới cho thấy nhiều nước vẫn chưa lập và công bố ABP, dù đã có tiến bộ từ năm 2021.
+
+**Vì sao cần một kế hoạch riêng cho năm tới.** DMS nhìn 3–5 năm và dùng các công cụ đại diện đơn giản hoá (ví dụ "trái phiếu trung hạn nội tệ" chung chung). ABP thì cần dữ liệu có tần suất cao hơn và chi tiết hơn, vì thời điểm và quy mô vay trong năm phụ thuộc vào bốn yếu tố:
+
+1. **Hình dạng của nhu cầu tài trợ gộp theo thời gian**, tức tính mùa vụ của thu ngân sách, chi ngân sách và lịch trả nợ. Ví dụ minh hoạ: nếu thuế thu nhập doanh nghiệp được nộp tập trung vào tháng 3, thì tháng 3 chính phủ cần vay ít hơn hẳn các tháng khác.
+2. Điều kiện thị trường.
+3. Nhu cầu của nhà đầu tư.
+4. Các chuẩn mực của một thị trường sơ cấp lành mạnh, như tổ chức đấu giá tốt và xây trái phiếu chuẩn.
+
+Ghi chú kỹ thuật này và công cụ Excel đi kèm (ABPT, nối trực tiếp với công cụ phân tích MTDS) nhằm lấp khoảng trống giữa chiến lược và thực hiện. Ghi chú đặc biệt nhấn mạnh việc phối hợp giữa quản lý nợ, quản lý tiền mặt và chính sách tiền tệ, vì hoạt động vay nợ tác động trực tiếp lên số dư tiền mặt của chính phủ và lên thanh khoản của thị trường.
 
 ### 2. Kế hoạch vay nợ hằng năm
 
-- ABP là chiến lược tài trợ một năm phục vụ mục tiêu cốt lõi: đáp ứng nhu cầu tài trợ đúng hạn với chi phí thấp nhất ở mức rủi ro thận trọng. Với nước đã có chiến lược, ABP chính là kế hoạch thực hiện năm đầu tiên.
-- ABP nêu rõ từng công cụ và từng chủ nợ, phân biệt vay ngoại tệ theo loại chủ nợ và vay nội tệ theo công cụ giao dịch được hay không, với chỉ dẫn về phân bổ giữa các kỳ hạn.
-- Bảy lợi ích: quản lý rủi ro tái tài trợ, phản hồi về tính khả thi của mức vay, phát hiện lỗ hổng tài trợ, gắn kết nhà đầu tư, hỗ trợ phát triển thị trường, theo dõi tiến độ so với chiến lược, và tăng minh bạch cùng kỷ luật.
-- Quá trình chia sẻ thông tin qua lại giữa người quản lý nợ và cơ quan tài khoá trong lúc lập ABP và lập dự toán là điều kiện để hai tài liệu nhất quán. Thiếu nó, người quản lý nợ có thể bị ép vay mức bất khả thi hoặc làm méo cơ cấu nợ, gây bất ổn thị trường.
+**Định nghĩa.** ABP là chiến lược tài trợ một năm nhằm đáp ứng nhu cầu tài trợ gộp của năm tới, phục vụ mục tiêu cốt lõi của người quản lý nợ: đáp ứng nhu cầu tài trợ đúng hạn, với chi phí thấp nhất có thể, ở mức rủi ro thận trọng. Với một nước đã có chiến lược quản lý nợ, ABP chính là kế hoạch thực hiện năm đầu tiên của chiến lược đó.
+
+**Ba tầng từ mục tiêu tới lịch phát hành.** Từ mục tiêu quản lý nợ đi xuống, có ba tầng tài liệu ngày càng chi tiết:
+
+| Tầng | Nội dung |
+|---|---|
+| Thứ nhất: DMS | Tỷ trọng tài trợ mỗi năm theo đồng tiền (ngoại tệ, nội tệ); với ngoại tệ, theo loại chủ nợ (đa phương, song phương, thương mại); với nội tệ, theo loại công cụ (T-bills, trái phiếu trung hạn, dài hạn); kèm mục tiêu cho các chỉ số rủi ro của danh mục |
+| Thứ hai: ABP | Nêu **từng công cụ** và phần đóng góp của nó: các khoản vay đa phương A, B, C, D; song phương A, B, C, D; vay thương mại A, B, C; trái phiếu quốc tế A, B, C; vay nội tệ; chứng khoán không giao dịch được; T-bills; trái phiếu 3, 5, 10, 20 năm, v.v. |
+| Thứ ba: lịch phát hành trong nước | Chỉ bao gồm phần chứng khoán giao dịch được trong nước: ngày đấu giá, mã, quy mô |
+
+ABP phân biệt vay ngoại tệ theo loại chủ nợ và vay nội tệ theo công cụ giao dịch được hay không, kèm chỉ dẫn về phân bổ giữa các kỳ hạn. Nội dung tối thiểu của một ABP là tách các nguồn tài trợ thành trong nước và nước ngoài, giao dịch được và không giao dịch được.
+
+**Một quy ước quan trọng.** Trong ghi chú này, nợ "ngoại" và nợ "nội" được định nghĩa theo **đồng tiền**, không theo nơi cư trú của chủ nợ. Ngoại lệ: chứng khoán phát hành trong nước nhưng ghi bằng ngoại tệ được coi là vay ngoài trong DMS và ABP, nhưng vẫn nằm trong lịch phát hành trong nước nếu được bán qua đấu giá.
+
+**Bảy lợi ích của ABP.**
+
+1. **Quản lý rủi ro tái tài trợ trong năm.** ABP cho thấy sớm tháng nào có nhiều nợ đến hạn. Các công cụ giảm nhẹ gồm xây dựng hoặc sử dụng đệm tiền mặt, và các nghiệp vụ quản lý nợ phải trả như mua lại trái phiếu hoặc hoán đổi trái phiếu sắp đáo hạn lấy trái phiếu dài hơn trước hạn.
+2. **Phản hồi về tính khả thi của mức vay.** Người quản lý nợ cho cơ quan tài khoá biết nhu cầu tài trợ theo dự toán có vay được hay không, để sửa dự toán nếu cần. Nếu không có cuộc đối thoại này, người quản lý nợ có thể bị ép phải vay một mức bất khả thi, hoặc phải làm méo cơ cấu nợ, chẳng hạn rút ngắn kỳ hạn bình quân bằng cách dồn vào tín phiếu ngắn hạn. Điều đó có thể làm bất ổn thị trường nợ trong nước, đẩy lợi suất lên cao hơn và biến động hơn.
+3. **Phát hiện lỗ hổng tài trợ trong năm**, và cả những thời điểm có tiền mặt dư thừa.
+4. **Gắn kết nhà đầu tư.** Người quản lý nợ có thể tham vấn thị trường về lịch phát hành, và việc công bố lịch giúp nhà đầu tư lên kế hoạch. Điều này giảm bất đối xứng thông tin giữa chính phủ và nhà đầu tư, nhờ đó có thể hạ phần bù rủi ro mà nhà đầu tư đòi.
+5. **Phát triển thị trường.** ABP là nơi đánh giá cẩn thận nhịp độ xây đường cong lợi suất chuẩn và chọn kỳ hạn chuẩn nào có thể ra mắt trong năm.
+6. **Theo dõi tiến độ so với chiến lược** qua các chỉ số chi phí–rủi ro.
+7. **Minh bạch và kỷ luật.** Phát hành theo kiểu cơ hội hoặc tuỳ tiện về thời điểm, kỳ hạn hay quy mô khiến nhà đầu tư không dự liệu được, và theo thời gian làm tăng phần bù rủi ro.
+
+Quá trình chia sẻ thông tin qua lại giữa người quản lý nợ và cơ quan tài khoá trong lúc lập ABP và lập dự toán là điều kiện để hai tài liệu nhất quán với nhau.
 
 ### 3. ABP trong khung kinh tế vĩ mô
 
-- ABP có năm mối liên kết: với chiến lược quản lý nợ, với chính sách tài khoá, với quản lý tiền mặt, với chính sách tiền tệ và với cơ quan quản lý tài chính.
-- Với chiến lược, cần định trước mức dung sai cho sai lệch về cơ cấu tài trợ và chỉ số chi phí–rủi ro. Với tài khoá, cần phối hợp cả khi lập lẫn khi thực hiện dự toán, và mùa vụ thu chi các năm trước là đầu vào hữu ích.
-- Với tiền mặt, nghiệp vụ tiền mặt không nhằm tạo tài trợ ròng mà để xử lý dao động dòng tiền, và nên có một bộ phận tiền tuyến duy nhất cho mọi giao dịch. Với tiền tệ, thay đổi số dư tiền mặt tại ngân hàng trung ương ngoài dự kiến sẽ gây hệ quả cho chính sách tiền tệ.
-- Với quản lý tài chính, thay đổi quy định có thể thay đổi khẩu vị rủi ro của nhà đầu tư; ngược lại, lựa chọn của người quản lý nợ cũng có thể phá mục tiêu phát triển thị trường vốn.
+**Nhu cầu tài trợ gộp đến từ đâu.** GFN được xác định từ ba thành phần: cán cân sơ cấp dự báo (thu trừ chi, chưa tính lãi), trả lãi và trả gốc. Cán cân sơ cấp lấy từ dự toán đã trình hoặc đã được duyệt, hoặc từ khung tài khoá trung hạn mới nhất. Số liệu trả nợ lý tưởng nhất là trích thẳng từ hệ thống ghi nhận nợ. Có thể phải điều chỉnh cho chênh lệch giữa dòng tiền thực tế và cách chúng được ghi trong dự toán. Nếu ABP được lập sớm, trước khi năm áp dụng bắt đầu, thì phải cộng thêm chi phí trả nợ phát sinh từ những khoản giải ngân và phát hành sẽ diễn ra từ nay tới cuối năm hiện tại.
+
+**Năm mối liên kết.**
+
+| Liên kết với | Nội dung |
+|---|---|
+| Chiến lược quản lý nợ | ABP phải nhất quán với DMS. Nếu môi trường tài trợ thay đổi mạnh thì phải xem lại cả DMS. Cần định trước ngưỡng dung sai cho sai lệch về cơ cấu tài trợ và chỉ số chi phí–rủi ro |
+| Chính sách tài khoá | Phối hợp cả khi lập lẫn khi thực hiện dự toán; mọi lần sửa dự toán giữa kỳ phải được báo ngay cho người quản lý nợ. Mùa vụ và biến động của thu chi trong các năm trước là đầu vào hữu ích |
+| Quản lý tiền mặt | Nghiệp vụ tiền mặt không nhằm tạo tài trợ ròng mà để xử lý dao động dòng tiền trong năm. Nên có một bộ phận tiền tuyến duy nhất thực hiện mọi giao dịch trên thị trường, để tránh phát ra tín hiệu mâu thuẫn |
+| Chính sách tiền tệ | Chính phủ thường là người vay thống trị trên thị trường trong nước, nên hoạt động vay ảnh hưởng tới thanh khoản thị trường tiền tệ. Thay đổi ngoài dự kiến của số dư tiền mặt chính phủ tại ngân hàng trung ương sẽ gây hệ quả cho chính sách tiền tệ |
+| Quản lý tài chính | Quy định hạn chế người không cư trú nắm chứng khoán chính phủ thu hẹp nhóm nhà đầu tư; quy định an toàn được siết có thể khiến ngân hàng bớt muốn giữ trái phiếu. Ngược lại, nếu người quản lý nợ dồn phát hành vào đầu ngắn của đường cong lợi suất để có chi phí rẻ, họ có thể phá mục tiêu phát triển thị trường vốn và làm tăng mức dễ tổn thương |
+
+Nói gọn, thay đổi quy định tài chính có thể thay đổi khẩu vị rủi ro của nhà đầu tư, và ngược lại, lựa chọn của người quản lý nợ cũng có thể làm hỏng mục tiêu phát triển thị trường vốn.
 
 ### 4. Tám bước lập ABP
 
-- Bước 1 xác định chiến lược và phạm vi nợ, thường là chính phủ trung ương, với các chỉ số cuối năm 1 của chiến lược làm chỉ dẫn.
-- Bước 2 lấy nhu cầu tài trợ gộp mới nhất và hình dạng trong năm, kể cả yêu cầu về số dư tiền mặt và đệm tiền mặt.
-- Bước 3 xác định công cụ vay, kiểm tra lại tính thực tế của các giả định trong chiến lược, tìm nguồn mới có điều kiện tốt hơn, và định nghĩa công cụ ở mức cụ thể nhất có thể.
-- Bước 4 lập kế hoạch theo tháng hoặc quý, bắt đầu từ nguồn ngoại tệ rồi tới nội tệ không giao dịch được và cuối cùng là chứng khoán giao dịch được, với ngoại tệ quy đổi theo tỷ giá mới nhất.
-- Bước 5 lập lịch phát hành theo các chuẩn mực thị trường sơ cấp lành mạnh, hiểu rõ cơ sở nhà đầu tư và phối hợp chặt với quản lý tiền mặt cùng ngân hàng trung ương.
-- Bước 6 đối chiếu kế hoạch với mục tiêu chi phí–rủi ro của chiến lược, với ngưỡng dung sai định trước.
-- Bước 7 công bố bản cấp cao cùng dự toán và bản chi tiết dưới dạng tài liệu độc lập trước khi năm bắt đầu, cùng lịch phát hành trong nước.
-- Bước 8 theo dõi và rà soát định kỳ, cập nhật khi dự toán và nhu cầu vay thay đổi, và dùng kết quả làm đầu vào cập nhật chiến lược.
+**Bước 1: Xác định chiến lược quản lý nợ và phạm vi nợ.** Lý tưởng nhất là lập ABP cùng lúc với DMS. Nếu DMS được cập nhật hằng năm theo lịch ngân sách, thì năm thứ nhất của DMS là điểm xuất phát, và các chỉ số cuối năm 1 của chiến lược làm chỉ dẫn. Phạm vi nợ của ABP phải trùng với DMS, thường là chính phủ trung ương. Khác biệt hay gặp là DMS bao gồm cả nợ được chính phủ bảo lãnh. Phạm vi được phân tầng: khu vực công bao gồm chính phủ chung, chính phủ chung bao gồm chính phủ trung ương, và nợ của chính phủ trung ương lại chia thành giao dịch được hay không, trong nước hay nước ngoài. ABP bao phủ toàn bộ nợ của chính phủ trung ương; lịch phát hành chỉ bao phủ phần nợ giao dịch được trong nước.
+
+**Bước 2: Lấy nhu cầu tài trợ gộp mới nhất và hình dạng trong năm.** Từ lúc soạn DMS tới lúc lập ABP, các con số thường đã thay đổi. Ví dụ minh hoạ của bài (triệu đơn vị nội tệ, số trong ngoặc là khoản chi ra):
+
+| Khoản | Ở giai đoạn soạn DMS | Ở giai đoạn lập ABP |
+|---|---|---|
+| Thu và viện trợ | 12.000 | 11.900 |
+| Chi sơ cấp | (18.000) | (18.235) |
+| Trả lãi | (1.850) | (1.925) |
+| Bán tài sản | 50 | 10 |
+| Cho vay lại | (200) | (150) |
+| Trả gốc | (6.500) | (6.600) |
+| Nhu cầu tài trợ gộp | (14.500) | (15.000) |
+
+Như vậy chỉ trong vài tháng, nhu cầu vay đã tăng thêm 500 triệu, do thu thấp hơn, chi cao hơn và nợ phải trả nhiều hơn. Các nguyên nhân điển hình là một dự án hạ tầng lớn từng bị tạm dừng nay khởi động lại, hoặc kế hoạch tư nhân hoá hay cho vay lại thay đổi. Một lưu ý: với dự án gắn với một khoản vay riêng, việc tạm dừng dự án làm chậm cả tài trợ lẫn chi tiêu cùng lúc, nên tài trợ ròng không đổi; trường hợp này nên ghi chú riêng.
+
+Bước này cũng gồm yêu cầu về số dư tiền mặt và đệm tiền mặt. Quy mô đệm do Đơn vị Quản lý Tiền mặt quyết định nhưng phải bàn với Đơn vị Quản lý Nợ. Nếu đệm đã bị rút trong năm thì năm sau phải bổ sung lại, và khoản bổ sung đó cộng vào nhu cầu vay. Cần phân biệt đệm dự phòng cho cú sốc với khoản tiền đã được chủ đích để dành từ kỳ trước, ví dụ tiền thu từ trái phiếu quốc tế phát hành cuối năm trước để dùng cho năm nay.
+
+**Bước 3: Xác định công cụ vay.** Các công cụ được xếp theo hai trục:
+
+| | Không giao dịch được | Giao dịch được |
+|---|---|---|
+| Ngoại tệ | Vay chủ nợ chính thức (đa phương, song phương); vay thương mại | Trái phiếu quốc tế |
+| Nội tệ | Chứng khoán chính phủ đặc biệt; vay thương mại; vay ngân hàng trung ương; công cụ bán lẻ cho dân cư | T-bonds; T-bills |
+
+Ba việc cần làm ở bước này. Thứ nhất, **kiểm tra lại tính thực tế** của các giả định trong chiến lược: ví dụ DMS có thể đã giả định phát hành Eurobond (trái phiếu quốc tế), nhưng điều kiện thị trường toàn cầu thay đổi khiến việc đó không còn khả thi hoặc không nên làm nữa. Thứ hai, **tìm nguồn mới** có điều kiện tốt hơn; các nguồn ưu đãi từng bị loại vì lý do nào đó nên được xem xét lại. Thứ ba, **định nghĩa công cụ ở mức cụ thể nhất có thể**: không chỉ "T-bill" mà là T-bill 3 tháng, 6 tháng, 12 tháng; không chỉ "trái phiếu" mà nêu cả tần suất trả coupon. DMS thì chỉ cần công cụ đại diện đơn giản hoá là đủ.
+
+**Bước 4: Lập ABP chi tiết theo tháng hoặc quý.** Tần suất của ABP do tần suất dự báo dòng tiền quyết định: nếu Kho bạc dự báo dòng tiền theo tháng thì ABP theo tháng. Khi bộ phận quản lý tiền mặt kiểm soát tốt số dư, thời điểm phát sinh nhu cầu có thể tách rời thời điểm vay; ví dụ gọi vốn trước vài tháng cho một đợt đáo hạn lớn.
+
+Trình tự lập theo thứ tự từ phần ít kiểm soát được tới phần linh hoạt nhất:
+
+1. **Nguồn ngoại tệ trước**, vì giải ngân từ chủ nợ chính thức đã được thu xếp trước, vay thương mại nước ngoài cần thời gian chuẩn bị lâu, và Đơn vị Quản lý Nợ ít kiểm soát được thời điểm của chúng.
+2. **Rồi nội tệ không giao dịch được.**
+3. **Cuối cùng là chứng khoán giao dịch được**, vốn là phần linh hoạt nhất để lấp chỗ trống còn lại.
+
+Các khoản vay ngoại tệ phải được quy đổi sang nội tệ theo tỷ giá mới nhất, để đánh giá đúng tác động lên Tài khoản Kho bạc Duy nhất. Với các khoản vay gắn điều kiện chính sách (giải ngân khi chính phủ hoàn thành một số cải cách), việc đáp ứng điều kiện chậm hay nhanh hơn dự kiến đều kéo theo điều chỉnh cả nhu cầu tài trợ (phía chi) lẫn lịch tài trợ.
+
+**Bước 5: Lập lịch phát hành.** Lịch phát hành được lập theo chín bước:
+
+1. Xác định công cụ và tỷ trọng đóng góp theo DMS.
+2. Xác định phần nhu cầu được đáp ứng bằng chứng khoán trong nước, dựa trên phân rã nhu cầu tài trợ theo tuần hoặc theo tháng.
+3. Chọn công cụ và kỳ hạn; với trái phiếu, nêu số đợt phát hành và quy mô mục tiêu của mỗi mã.
+4. Tổ chức đấu giá: khoảng quy mô chào bán mỗi đợt, tần suất và trình tự. Ví dụ: trái phiếu 3 năm, 100–200 triệu mỗi phiên, hai tuần một lần.
+5. Sắp xếp kỳ đáo hạn theo từng mã để tránh dồn cục. Ví dụ: các trái phiếu 3 năm đáo hạn vào ngày 15/5 và 15/11.
+6. Xác định các nghiệp vụ quản lý nợ phải trả: loại, thời điểm, quy mô.
+7. Lập lịch.
+8. Xác định tần suất, hình thức và mức chi tiết khi truyền thông lịch ra bên ngoài.
+9. Rà soát và điều chỉnh định kỳ.
+
+Lịch phải tuân theo nguyên tắc của một thị trường sơ cấp lành mạnh: thông báo trước mỗi phiên, đăng kết quả sau phiên, và để giá tự điều chỉnh để thị trường cân bằng (không đặt trần lãi suất rồi huỷ phiên khi nhà đầu tư đòi cao hơn). Với đấu giá, cần công bố lịch; giữ khoảng quy mô nhất quán (có thể khác nhau theo kỳ hạn); đấu T-bill thường xuyên hơn T-bond; xây trái phiếu chuẩn bằng cách đặt mức dư nợ tối thiểu mục tiêu cho mỗi mã, để tăng thanh khoản và giúp thị trường khám phá giá; và dùng công cụ ngắn hạn để làm mượt việc phát hành và bù những dao động nhỏ của nhu cầu tài trợ.
+
+Người quản lý nợ cần **hiểu nhà đầu tư**: đặc điểm, hành vi, công cụ ưa thích và mẫu hình cầu. Ví dụ, cầu thường yếu vào cuối quý khi thanh khoản của ngân hàng khan hiếm.
+
+**Phối hợp với quản lý tiền mặt.** Nên khớp ngày thanh toán của đợt phát hành mới với ngày đáo hạn của đợt cũ để làm mượt dòng tiền, và đặt ngày trả coupon, trả gốc trùng với tuần hoặc ngày có dòng thu mạnh, ví dụ kỳ nộp thuế.
+
+**Phối hợp với ngân hàng trung ương.** Quy tắc vàng là tránh tổ chức đấu giá khi ngân hàng trung ương đang can thiệp trên thị trường tiền tệ. Nếu ngân hàng trung ương đang hút thanh khoản, họ cạnh tranh trực tiếp với chính phủ để giành tiền của ngân hàng, và cầu với trái phiếu chính phủ yếu đi. Nếu ngân hàng trung ương đang bơm thanh khoản, tác động bị chính phủ vô hiệu hoá nếu cùng lúc chính phủ hút tiền về qua phát hành. Nhiều nước lập Uỷ ban Phối hợp Tiền mặt do một quan chức cấp cao của Kho bạc hoặc cơ quan quản lý nợ chủ trì, định kỳ rà soát dòng tiền thực tế so với dự báo và quyết định hành động, tối thiểu là điều chỉnh kế hoạch phát hành T-bill.
+
+**Hai ví dụ thực tế.**
+
+- **Côte d'Ivoire** phát hành qua UMOA-Titres, cơ quan của Liên minh Kinh tế và Tiền tệ Tây Phi (WAEMU). Lịch được công bố theo quý, nêu ngày đấu giá và công cụ kèm mệnh giá. Trong quý 2/2023, tổng phát hành dự kiến là 165 tỷ franc CFA Tây Phi (XOF) trong tháng 4, 195 tỷ trong tháng 5 và 160 tỷ trong tháng 6. Công cụ trải từ T-bill 3, 6, 12 tháng tới trái phiếu 3, 5, 7 năm.
+- **Fiji** đưa lịch phát hành cả năm vào ngay trong ABP, nêu ngày, loại nghiệp vụ, quy mô mục tiêu và kỳ hạn. Lịch đánh dấu rõ đợt nào là mở lại một mã cũ, đợt nào là trái phiếu chuẩn, và tháng nào có tham vấn nhà đầu tư. Trước mỗi đợt, Fiji công bố loại phát hành, mã ISIN, kỳ hạn, quy mô, ngày đáo hạn, ngày trả lãi, lãi suất coupon, chi tiết về đấu thầu không cạnh tranh (dành cho nhà đầu tư nhỏ mua theo giá trúng thầu bình quân) và mẫu dự thầu.
+
+**Bước 6: Đối chiếu với mục tiêu của chiến lược.** Trước khi lập ABP, cần định trước ngưỡng dung sai; nếu kế hoạch vượt ngưỡng thì phải rà soát lại ABP, hoặc cả DMS, và báo cáo lãnh đạo. Ngưỡng có thể đặt đơn giản (ví dụ lệch không quá ±5% so với tỷ trọng trong chiến lược) hoặc dựa trên các chỉ số chi phí–rủi ro. Mọi sai lệch lớn phải giải thích được; ví dụ, phá mục tiêu rủi ro tỷ giá vì giành được một khoản vay ngoại tệ rất ưu đãi.
+
+Ví dụ đối chiếu của bài:
+
+| Chỉ số rủi ro | Năm 0 | Năm 1 | Năm 3 | Mục tiêu |
+|---|---|---|---|---|
+| Kỳ hạn bình quân còn lại của nợ ngoại tệ (năm) | 9,3 | 11,8 | 13,8 | 10,0–15,0 |
+| Kỳ hạn bình quân còn lại của nợ nội tệ (năm) | 3,7 | 3,1 | 2,9 | 3,0–5,0 |
+| Nợ ngoại tệ phải tái định lãi trong 1 năm (%) | 29 | 25,9 | 27,1 | 25,0–30,0 |
+| Nợ nội tệ phải tái định lãi trong 1 năm (%) | 39,3 | 30,2 | 25,1 | 25,0–40,0 |
+| Nợ ngoại tệ đáo hạn trong 1 năm so với dự trữ ngoại hối (%) | 6,6 | 4,3 | 3,1 | 4,5–6,5 |
+
+Đọc bảng: kỳ hạn bình quân còn lại của nợ nội tệ đi ra khỏi khoảng mục tiêu (xuống 2,9 năm vào năm 3, dưới mức 3,0), và tỷ lệ nợ ngoại tệ đáo hạn trên dự trữ rơi xuống dưới khoảng mục tiêu (4,3% năm 1, rồi 3,1% năm 3, dưới mức 4,5). Cả hai sai lệch đều phải được giải thích trước khi ABP được thông qua. Tỷ lệ thứ hai rơi xuống dưới khoảng là an toàn hơn về rủi ro, nhưng vẫn là một sai lệch so với chiến lược đã định.
+
+**Bước 7: Công bố.** Có bốn loại ABP, khác nhau ở mức chi tiết và người đọc:
+
+| Loại | Nội dung và cách dùng |
+|---|---|
+| ABP dựng từ DMS | Bản dựng theo chiến lược, chưa cập nhật số liệu mới |
+| ABP cấp cao | Công bố cùng hoặc nằm trong dự toán; phân rã chung theo nguồn tài trợ |
+| ABP chi tiết | Tài liệu độc lập, nêu từng công cụ kèm khoảng số tiền hoặc tỷ lệ (dùng khoảng để giữ linh hoạt) |
+| ABP chi tiết theo tháng | Dòng tiền theo tháng hoặc quý, dùng nội bộ; bắt đầu sớm và cập nhật liên tục cho các tháng còn lại |
+
+**Trình tự thời gian** trong năm trước năm áp dụng:
+
+| Thời điểm | Việc chính | Việc song song |
+|---|---|---|
+| Quý 3 | Lập dự toán, xác định nhu cầu tài trợ gộp | Dựng ABP từ DMS |
+| Quý 3–4 | Lập DMS, xác định chi phí–rủi ro | Lập ABP |
+| Quý 3–4 | Duyệt và công bố dự toán, duyệt và công bố DMS | Công bố ABP cấp cao cùng hoặc trong dự toán |
+| Quý 4 | Công bố ABP chi tiết | |
+
+Thường không kịp làm ABP chi tiết vào lúc công bố dự toán, nên ra bản cấp cao trước và bản chi tiết theo sau. Nhưng bản chi tiết không được trễ quá và phải ra trước khi năm áp dụng bắt đầu.
+
+Bản chi tiết dùng **khoảng** thay vì con số chính xác. Ví dụ: Ngân hàng Thế giới trong khoảng 2.500–3.500 triệu, tức 15–25% tổng tài trợ; T-bill 3 tháng trong khoảng 2.000–3.000 triệu, tức 15–20%.
+
+Lịch phát hành trong nước phải được công bố. Sai lệch lớn so với ABP hoặc huỷ đấu giá thường xuyên sẽ phá uy tín của ABP. Khi bất định về dòng tiền cao, nên cân nhắc rút ngắn chân trời của lịch (ví dụ công bố theo quý thay vì cả năm) để có một tài liệu đáng tin hơn, thay vì công bố dài mà sai. Nên ghi rõ rằng chương trình T-bill hay quy mô đấu giá T-bill chịu biến động lớn hơn trái phiếu, để có chỗ làm mượt dòng tiền. Nếu dự toán không đáng tin thì có thể không công bố nổi lịch cả năm.
+
+**Bước 8: Theo dõi và rà soát định kỳ.** Bộ phận lập dự toán và bộ phận dự báo dòng tiền của Kho bạc phải theo dõi và báo cho Đơn vị Quản lý Nợ mọi thay đổi trong dòng tiền ngân sách. ABP được cập nhật khi dự toán và nhu cầu vay thay đổi.
+
+Ở đây có một đánh đổi giữa tính dự báo được (để nhà đầu tư tin tưởng) và tính linh hoạt (để thích ứng với thay đổi). Đánh đổi này đặc biệt gay gắt khi thị trường trái phiếu trong nước kém thanh khoản, và khi đó khả năng phát hành nhanh T-bills hoặc T-bonds ngắn hạn có giá trị lớn. Nước có khung kinh tế vĩ mô yếu phải sửa ABP thường xuyên hơn, vì dự toán liên tục điều chỉnh kéo theo ABP liên tục sửa. Khả năng thực thi ABP còn phụ thuộc vào uy tín của ngân hàng trung ương trong việc neo kỳ vọng lạm phát.
+
+Kết quả thực hiện ABP là đầu vào chính để cập nhật DMS hằng năm. Những sửa đổi lớn phải được công bố kèm giải thích nguyên nhân, và báo cáo quản lý nợ hằng năm phải đánh giá việc thực hiện ABP.
 
 ### 5. Sắp xếp thể chế
 
-- Bộ phận tiền tuyến chủ trì lập ABP nhờ tiếp xúc thường xuyên với chủ nợ và nhà đầu tư; bộ phận trung gian hỗ trợ và chủ trì truyền thông cùng đánh giá cuối năm; bộ phận hậu kiểm cung cấp số liệu nợ và dự báo trả nợ chính xác.
-- Định nghĩa trách nhiệm một cách chính thức giúp mọi đầu vào về đúng hạn. Việc đưa đơn vị quản lý nợ vào khâu ước tính nhu cầu tài trợ gộp đặc biệt quan trọng ở các nước mà luật ngân sách ấn định mức vay theo nguồn hoặc theo công cụ.
-- Minh bạch là chìa khoá cho uy tín của ABP. Thông lệ tốt là luật quản lý nợ công bắt buộc công bố chiến lược, kế hoạch và báo cáo trong thời hạn quy định, và có đánh giá cuối năm do bộ phận trung gian chủ trì.
+**Phân vai trong Đơn vị Quản lý Nợ.**
+
+| Bộ phận tiền tuyến | Bộ phận trung gian | Bộ phận hậu kiểm |
+|---|---|---|
+| **Chủ trì lập ABP**, nhờ tiếp xúc thường xuyên với chủ nợ và nhà đầu tư | Thiết kế DMS | Ghi nhận và đối chiếu số liệu nợ, đầu vào then chốt cho ABP |
+| Đàm phán các khoản vay mới | Hỗ trợ lập ABP | Quản lý giải ngân và các thủ tục hành chính liên quan |
+| Phát hành chứng khoán trong nước | Xây dựng chính sách về DMS và ABP | Thống kê và báo cáo nợ, kể cả báo cáo nội bộ về thực hiện ABP |
+| Thiết kế lịch đấu giá và tổ chức đấu giá | Hỗ trợ đơn vị kinh tế vĩ mô–tài khoá về phân tích bền vững nợ (DSA), bảo đảm nhất quán với ABP | |
+| Theo dõi cho vay lại và bảo lãnh | **Truyền thông ABP** tới nhà đầu tư, tổ chức xếp hạng tín nhiệm, công chúng và nhà hoạch định chính sách | |
+| Quản lý thanh khoản khi thực tế lệch khỏi ABP; theo dõi thị trường | **Chủ trì đánh giá cuối năm** | |
+
+Bộ phận hậu kiểm cung cấp số liệu nợ và dự báo trả nợ chính xác, không có số liệu này thì không tính được nhu cầu tài trợ. Ngoại lệ: ở nơi Đơn vị Quản lý Nợ thiếu người hoặc năng lực tập trung ở bộ phận trung gian, bộ phận trung gian có thể chủ trì lập ABP, còn bộ phận tiền tuyến cung cấp đầu vào.
+
+**Một bộ phận tiền tuyến duy nhất.** Bộ phận tiền tuyến phải là đại diện duy nhất của chính phủ trên thị trường, cả khi vay lẫn khi đầu tư tiền nhàn rỗi. Lý do: tránh phát ra tín hiệu mâu thuẫn và tạo bất định về ý định của nhà chức trách; và cho phép dùng toàn bộ dải công cụ, cân nhắc đồng thời mục tiêu của DMS, cầu của thị trường, hình dạng đường cong lợi suất và nhu cầu tiền mặt của chính phủ. Nếu Đơn vị Quản lý Tiền mặt cần có nghiệp vụ thị trường riêng thì phải có biên bản ghi nhớ quy định rõ, ví dụ kỳ hạn tối đa được phát hành và ngày phát hành trong tuần.
+
+**Các đầu mối ngoài Đơn vị Quản lý Nợ.**
+
+- **Đơn vị tài khoá, ngân sách:** ước tính nhu cầu tài trợ gộp. Nên có Đơn vị Quản lý Nợ tham gia khâu này để phát hiện sớm lỗ hổng tài trợ. Điều này đặc biệt quan trọng ở những nước mà luật ngân sách ấn định mức vay trong nước, ngoài nước hoặc theo từng công cụ, ví dụ Kyrgyzstan, Nepal, Pakistan, Tajikistan: nếu con số trong luật không khả thi, chính phủ sẽ bị kẹt suốt năm.
+- **Các bộ ngành chủ quản:** phối hợp với bộ phận hậu kiểm để dự báo được ngày giải ngân của các khoản vay gắn điều kiện hay gắn dự án.
+- **Ngân hàng trung ương:** tham vấn ở cả khâu lập lẫn khâu thực hiện, tốt nhất qua một uỷ ban phối hợp, về quản lý thanh khoản, dòng ngoại tệ, các vấn đề quản lý ngân hàng, và mục tiêu chung phát triển thị trường.
+
+Định nghĩa trách nhiệm một cách chính thức giúp mọi đầu vào về đúng hạn.
+
+**Minh bạch.** Minh bạch là chìa khoá cho uy tín của ABP. Thông lệ tốt là luật quản lý nợ công bắt buộc công bố chiến lược quản lý nợ, kế hoạch vay nợ hằng năm và báo cáo quản lý nợ trong thời hạn quy định, kèm một đánh giá cuối năm do bộ phận trung gian chủ trì.
 
 ## Thuật ngữ
 

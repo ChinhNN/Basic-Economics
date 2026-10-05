@@ -232,55 +232,227 @@
 2. Nhóm hàng nào, theo loại hàng và theo mục đích sử dụng, chịu tác động mạnh nhất?
 3. Mức tổng cầu trong nước trước khủng hoảng khuếch đại hay làm dịu các tác động này?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tái cơ cấu nợ chính phủ: sau vỡ nợ và chủ động (post-default, preemptive restructuring).** Tái cơ cấu nợ là khi chính phủ và chủ nợ thoả thuận đổi điều khoản của khoản nợ: giảm gốc, giảm lãi hoặc kéo dài kỳ hạn. Bài chia làm hai loại, theo cách của Asonuma và Trebesch (2016). **Sau vỡ nợ**: chính phủ đã ngừng trả nợ mà không có sự đồng ý của chủ nợ, rồi mới đàm phán. **Chủ động**: chính phủ không ngừng trả, hoặc chỉ tạm ngừng sau khi đã đàm phán với chủ nợ. Ví dụ trong bài: trong 194 đợt tái cơ cấu, 115 đợt (khoảng 60%) là sau vỡ nợ và kéo dài khoảng 5 năm, 79 đợt là chủ động và ngắn hơn. Khái niệm này quan trọng vì toàn bộ bài so sánh tác động thương mại của hai loại.
+
+**Co nhập khẩu (import compression).** Nhập khẩu bị ép giảm mạnh, không phải vì nước đó muốn mà vì không còn đủ ngoại tệ, thu nhập giảm và hàng nhập trở nên quá đắt. Ví dụ trong bài: sau vỡ nợ, tỷ lệ nhập khẩu trên GDP giảm khoảng 15% vào năm thứ hai, tương đương khoảng 2 điểm phần trăm GDP. Khái niệm này quan trọng vì đây là kết quả rõ và vững nhất của bài.
+
+**Tỷ giá thực và mất giá (real exchange rate, depreciation).** Tỷ giá thực đo giá hàng hoá trong nước so với giá hàng hoá nước ngoài khi quy về cùng một đồng tiền. Khi đồng nội tệ mất giá thực, hàng nhập khẩu trở nên đắt hơn với người trong nước, còn hàng xuất khẩu trở nên rẻ hơn với người nước ngoài. Ví dụ minh hoạ: nếu nội tệ mất giá 20% và giá cả trong nước không đổi, một chiếc máy nhập khẩu giá 100.000 đô la sẽ tốn nhiều hơn 25% tính bằng nội tệ. Khái niệm này quan trọng vì mất giá là kênh vừa ép nhập khẩu vừa có thể đẩy xuất khẩu.
+
+**Tổng cầu nội địa (domestic aggregate demand).** Tổng chi tiêu của mọi người trong nước: tiêu dùng cộng đầu tư cộng chi tiêu chính phủ, tức bằng GDP trừ đi xuất khẩu ròng. Khi tổng cầu nội địa lớn hơn 100% GDP, nghĩa là nước đó đang tiêu nhiều hơn mình sản xuất, phần chênh được bù bằng nhập khẩu và vay nước ngoài. Ví dụ trong bài: ngưỡng chia mẫu là 101,8% GDP của năm trước tái cơ cấu. Khái niệm này quan trọng vì nó quyết định nhập khẩu co mạnh tới đâu.
+
+**Phép chiếu địa phương (local projections).** Phương pháp do Jordà (2005) đưa ra để đo tác động của một sự kiện theo thời gian: với mỗi khoảng h năm sau sự kiện (h từ 1 tới 5), chạy một hồi quy riêng xem biến kết quả thay đổi bao nhiêu so với trước sự kiện. Ví dụ minh hoạ: một hồi quy cho biết nhập khẩu thay đổi bao nhiêu sau 1 năm, hồi quy khác cho biết sau 2 năm, và ghép lại thành một "đường phản ứng". Khái niệm này quan trọng vì đó là cách bài vẽ ra diễn biến thương mại qua năm năm sau tái cơ cấu.
+
+**Thiên lệch chọn mẫu và AIPW (selection bias, augmented inverse probability weighting).** Các nước tái cơ cấu thường là những nước vốn đã có kinh tế xấu, nên nếu chỉ so trước và sau, ta có thể nhầm cái xấu sẵn có thành tác động của tái cơ cấu. AIPW sửa điều này: trước hết ước lượng xác suất mỗi quan sát bị tái cơ cấu, rồi gán trọng số thấp cho quan sát rất dễ bị tái cơ cấu và trọng số cao cho quan sát ít khả năng, đồng thời kết hợp với một phần dự báo bằng hồi quy. Ví dụ minh hoạ: nếu một nước có xác suất tái cơ cấu 90% thì việc nó tái cơ cấu là điều gần như chắc chắn và ít cho ta thông tin, nên được gán trọng số thấp. Khái niệm này quan trọng vì đây là phương pháp chính của bài, theo Jordà và Taylor (2016).
+
+**Tốc độ thay đổi và mức thay đổi theo điểm phần trăm GDP.** Cùng một thay đổi có thể đo hai cách. Ví dụ trong bài: nếu xuất khẩu đi từ 10% GDP xuống 8% GDP thì tốc độ thay đổi là −20%, còn mức thay đổi là −2 điểm phần trăm GDP. Với một nước có xuất khẩu rất nhỏ, một tốc độ tăng lớn có thể chỉ là mức tăng rất nhỏ tính theo GDP. Khái niệm này quan trọng vì kết quả về xuất khẩu của bài gần như biến mất khi đổi từ cách đo thứ nhất sang cách đo thứ hai.
+
+**Tư liệu sản xuất, hàng trung gian, hàng tiêu dùng.** Ba nhóm hàng theo mục đích sử dụng. Tư liệu sản xuất là máy móc, thiết bị dùng lâu dài để sản xuất (ví dụ một dây chuyền đóng gói). Hàng trung gian là đầu vào bị dùng hết trong quá trình sản xuất (ví dụ vải để may áo, linh kiện để lắp điện thoại). Hàng tiêu dùng là hàng người dân mua để dùng. Khái niệm này quan trọng vì bài cho thấy sau vỡ nợ, phần bị cắt mạnh nhất là tư liệu sản xuất và hàng trung gian, không phải hàng tiêu dùng.
+
+## Nội dung chi tiết
 
 ### 1. Mở đầu
 
-- Khi vỡ nợ hoặc tái cơ cấu nợ nước ngoài, nước đi vay chịu sản lượng và tổng cầu giảm mạnh cùng tỷ giá mất giá lớn so với xu hướng trước khủng hoảng. Mọi kênh này đều ép nhập khẩu, còn tác động lên xuất khẩu thì mơ hồ.
-- Một số cuộc khủng hoảng sâu và dai dẳng hơn những cuộc khác. Bài dùng tính chất sau vỡ nợ hay chủ động làm chỉ báo trước cho độ sâu và độ dài của thiệt hại. Chỉ báo này hợp với phép chiếu địa phương vì đã biết ngay từ đầu khủng hoảng.
-- Bài mở rộng bằng cách chia mẫu theo tổng cầu nội địa so với GDP năm trước tái cơ cấu, theo cách của Auerbach và Gorodnichenko cùng Jordà và Taylor.
+Khi một chính phủ vỡ nợ hoặc tái cơ cấu nợ nước ngoài, nền kinh tế thường chịu sản lượng và tổng cầu giảm mạnh, cùng với tỷ giá mất giá lớn so với xu hướng trước khủng hoảng. Câu hỏi của bài là điều đó ảnh hưởng tới thương mại thế nào.
+
+**Các kênh tác động.** Bài liệt kê bốn kênh:
+
+| Kênh | Tác động lên nhập khẩu | Tác động lên xuất khẩu |
+|---|---|---|
+| Sản lượng và tổng cầu giảm | Giảm | |
+| Tỷ giá mất giá mạnh | Giảm (hàng nhập đắt hơn) | Tăng (hàng xuất rẻ hơn với người nước ngoài) |
+| Tài trợ thương mại bị gián đoạn (Mendoza và Yue 2012) | Giảm | Giảm |
+| Cầu nội địa yếu, nhà sản xuất chuyển sang bán ra thị trường nước ngoài | | Tăng |
+
+Với nhập khẩu, mọi kênh đều cùng chiều giảm, nên kết quả kỳ vọng là rõ ràng. Với xuất khẩu, các kênh ngược chiều nhau, nên kết quả là mơ hồ và phải xác định bằng số liệu.
+
+**Ý tưởng chính.** Một số cuộc khủng hoảng nợ sâu và dai dẳng hơn những cuộc khác. Bài dùng tính chất "sau vỡ nợ" hay "chủ động" của đợt tái cơ cấu làm chỉ báo trước cho độ sâu và độ dài của thiệt hại. Chỉ báo này rất hợp với phép chiếu địa phương, vì loại tái cơ cấu đã được biết ngay từ đầu khủng hoảng, nên có thể dùng làm điểm xuất phát để theo dõi diễn biến các năm sau.
+
+Hai loại tái cơ cấu khác nhau rõ rệt:
+
+| | Sau vỡ nợ | Chủ động |
+|---|---|---|
+| Định nghĩa | Đã ngừng trả nợ mà không có sự đồng ý của chủ nợ | Không ngừng trả, hoặc chỉ tạm ngừng sau khi đã đàm phán |
+| Số đợt trong mẫu | 115 (khoảng 60%) | 79 |
+| Thời gian kéo dài | Khoảng 5 năm | Ngắn hơn |
+| Thiệt hại sản lượng | GDP giảm khoảng 6% so với xu hướng (Asonuma 2024) | Rất hạn chế |
+
+Bài mở rộng phân tích bằng cách chia mẫu theo tổng cầu nội địa so với GDP của năm trước tái cơ cấu, theo cách làm của Auerbach và Gorodnichenko cùng Jordà và Taylor khi họ chia mẫu theo trạng thái của nền kinh tế.
 
 ### 2. Vị trí trong tài liệu
 
-- Nhánh xuyên quốc gia về chi phí thương mại của vỡ nợ: Rose (2005) thấy tái đàm phán với chủ nợ chính thức đi kèm thương mại giảm; Kuvshinov và Zimmermann thấy xuất khẩu ròng giảm; Serfaty thấy vỡ nợ từ 1815 tới 2019 đi kèm thương mại giảm, nhất là nhập khẩu. Bài làm sắc nét sự khác biệt giữa nhập và xuất, giữa các nhóm hàng và giữa hai loại tái cơ cấu.
-- Nhánh cấp ngành và doanh nghiệp: Zymek thấy xuất khẩu ngành phụ thuộc tài chính giảm mạnh hơn; Gopinath và Neiman thấy nhập khẩu của Argentina sau vỡ nợ 2001 giảm chủ yếu do thay đổi cơ cấu sản phẩm và nhà cung cấp; Hébert và Schreger thấy doanh nghiệp xuất khẩu Argentina chịu thiệt nặng hơn dự kiến khi xác suất vỡ nợ tăng.
-- Nhánh về động lực thương mại trong khủng hoảng tài chính toàn cầu: tổng cầu giảm là yếu tố chính làm nhập khẩu giảm. Bài bổ sung trường hợp cú sốc bắt nguồn trong nước.
-- Nhánh về tính không đồng nhất của vỡ nợ: vỡ nợ "cứng" với mức cắt giảm nợ cao đi kèm GDP giảm kéo dài; nước phụ thuộc nhiều vào trung gian ngân hàng chịu thiệt nặng hơn.
+Bài nằm giữa bốn nhánh nghiên cứu.
+
+**Nghiên cứu xuyên quốc gia về chi phí thương mại của vỡ nợ.** Rose (2005) thấy rằng tái đàm phán nợ với chủ nợ chính thức đi kèm với thương mại giảm. Kuvshinov và Zimmermann thấy xuất khẩu ròng giảm. Serfaty, với dữ liệu các đợt vỡ nợ từ 1815 tới 2019, thấy vỡ nợ đi kèm thương mại giảm, nhất là nhập khẩu. Bài này làm sắc nét hơn ba sự phân biệt: giữa nhập khẩu và xuất khẩu, giữa các nhóm hàng, và giữa hai loại tái cơ cấu.
+
+**Nghiên cứu cấp ngành và doanh nghiệp.** Zymek thấy xuất khẩu của các ngành phụ thuộc nhiều vào tài chính giảm mạnh hơn sau vỡ nợ. Gopinath và Neiman thấy nhập khẩu của Argentina sau vỡ nợ năm 2001 giảm chủ yếu do thay đổi trong cơ cấu sản phẩm và nhà cung cấp. Hébert và Schreger thấy các doanh nghiệp xuất khẩu Argentina chịu thiệt nặng hơn dự kiến khi xác suất vỡ nợ tăng.
+
+**Động lực thương mại trong khủng hoảng tài chính toàn cầu.** Nhánh này thấy tổng cầu giảm là yếu tố chính làm nhập khẩu giảm. Bài bổ sung trường hợp cú sốc bắt nguồn từ trong nước (khủng hoảng nợ của chính nước đó) chứ không phải từ bên ngoài.
+
+**Tính không đồng nhất của vỡ nợ.** Vỡ nợ "cứng", với mức cắt giảm nợ cao cho chủ nợ, đi kèm GDP giảm kéo dài; những nước phụ thuộc nhiều vào trung gian ngân hàng chịu thiệt nặng hơn.
 
 ### 3. Dữ liệu và sự thật cách điệu
 
-- Mẫu gồm 194 đợt tái cơ cấu nợ nước ngoài với chủ nợ tư nhân. Mỗi đợt được tính riêng kể cả khi chồng lấn, vì có thể liên quan các công cụ nợ khác nhau.
-- Số liệu thô cho thấy nhập khẩu và GDP giảm mạnh sau vỡ nợ, nhẹ hơn nhiều sau tái cơ cấu chủ động. Xuất khẩu giảm hai năm đầu sau vỡ nợ rồi ổn định, trong khi vẫn tiếp tục giảm sau tái cơ cấu chủ động.
-- Ước lượng OLS cho kết quả tương tự nhưng khoảng tin cậy rộng, phần lớn khác biệt về xuất khẩu không có ý nghĩa thống kê.
+**Mẫu tái cơ cấu.** Mẫu gồm 194 đợt tái cơ cấu nợ nước ngoài với chủ nợ tư nhân, ở 76 nước, trong giai đoạn 1975–2019. Mỗi đợt được tính riêng, kể cả khi chồng lấn thời gian với đợt khác, vì các đợt có thể liên quan tới những công cụ nợ khác nhau.
+
+Mốc bắt đầu của một đợt là sự kiện nào xảy ra sớm hơn trong hai sự kiện: tháng vỡ nợ, hoặc tháng công bố tái cơ cấu. Mẫu cơ sở bỏ các trường hợp "lai", tức công bố tái cơ cấu trước rồi vỡ nợ ở các năm sau, vì không rõ chúng thuộc loại nào. Sau khi bỏ, còn lại 106 đợt vỡ nợ xảy ra ngay trong năm bắt đầu, chiếm 92% số đợt sau vỡ nợ.
+
+**Dữ liệu thương mại.** Số liệu lấy từ UNCTAD, theo năm, chia thành:
+
+- **Hàng chế tạo:** hoá chất, hàng chế tạo cơ bản, máy móc và phương tiện vận tải, hàng chế tạo khác.
+- **Hàng sơ cấp:** lương thực, đồ uống, nguyên liệu thô, nhiên liệu, dầu mỡ, kim loại màu.
+- **Hàng khác:** chỉ chiếm khoảng 2%, nên bỏ qua.
+
+Mỗi nhóm lại được chia tiếp theo mục đích sử dụng thành tư liệu sản xuất, hàng trung gian và hàng tiêu dùng (hàng sơ cấp chỉ có hàng trung gian và hàng tiêu dùng).
+
+**Sự thật cách điệu từ số liệu thô.** Bình quân thay đổi tích luỹ (%, giá trị ước đọc từ hình), tính từ năm bắt đầu tái cơ cấu:
+
+| Biến | Sau vỡ nợ | Chủ động |
+|---|---|---|
+| Nhập khẩu/GDP | Khoảng −14% ở năm 2, hồi về khoảng 0 ở năm 5 | Khoảng −11% ở năm 3, vẫn còn khoảng −8,5% ở năm 5 |
+| Xuất khẩu/GDP | Khoảng −5% rồi ổn định, còn khoảng −2% ở năm 5 | Giảm liên tục, khoảng −11,5% ở năm 5 |
+| GDP | Khoảng −5,5% ở năm 3 | Khoảng −1,8% ở năm 1, rồi gần như hồi phục |
+| Tỷ giá thực | Khoảng −8% ở năm 5 | Khoảng −10% ở năm 2, khoảng −14% ở năm 5 |
+
+Như vậy số liệu thô cho thấy nhập khẩu và GDP giảm mạnh sau vỡ nợ, nhẹ hơn nhiều sau tái cơ cấu chủ động. Xuất khẩu giảm trong hai năm đầu sau vỡ nợ rồi ổn định, trong khi tiếp tục giảm sau tái cơ cấu chủ động.
+
+Nhưng số liệu thô chưa tính tới việc tái cơ cấu thường xảy ra khi kinh tế vốn đã xấu, nên cần một phương pháp điều chỉnh cho thiên lệch chọn mẫu. Ước lượng bằng hồi quy bình phương nhỏ nhất thông thường (OLS) cho kết quả tương tự, nhưng khoảng tin cậy rộng, và phần lớn khác biệt về xuất khẩu không có ý nghĩa thống kê.
 
 ### 4. Phương pháp AIPW
 
-- Quyết định tái cơ cấu chịu ảnh hưởng của điều kiện kinh tế, và điều kiện xấu ban đầu có thể bị chính việc tái cơ cấu làm tệ thêm. AIPW gán trọng số khác nhau để phân bố quan sát ít thiên lệch chọn mẫu hơn.
-- Probit dùng cả biến kiểm soát lẫn ba biến dự báo: lãi suất Fed, tái cơ cấu ở các nước khác có trọng số theo khoảng cách địa lý, và số lần tái cơ cấu chủ động trước đó. Hai biến đầu trực giao với quyết định của từng nước; biến thứ ba đã xác định trước.
-- Đường ROC và mật độ xác suất dự báo cho thấy mô hình phân loại tốt, và trọng số được phân bố đều hơn trong nhóm được xử lý.
+**Vấn đề.** Quyết định tái cơ cấu chịu ảnh hưởng của điều kiện kinh tế, và điều kiện xấu ban đầu có thể bị chính việc tái cơ cấu làm tệ thêm. Nếu không xử lý, ta không tách được phần nào là do tái cơ cấu và phần nào là do hoàn cảnh sẵn có.
+
+**Bước thứ nhất: phép chiếu địa phương.** Theo Jordà (2005), với mỗi khoảng h = 1 đến 5 năm, bài ước lượng:
+
+log(y_{t+h}) − log(y_t) = αᵢ + β·D_{t+1} + X_t·γ + u
+
+Trong đó y là tỷ lệ nhập khẩu (hoặc xuất khẩu) trên GDP, D là biến cho biết có tái cơ cấu hay không, αᵢ là hiệu ứng cố định của từng nước, và X là các biến kiểm soát. Bài dùng hai thước đo: tốc độ thay đổi (%) và mức thay đổi (điểm phần trăm GDP). Ví dụ: xuất khẩu đi từ 10% xuống 8% GDP là −20% theo thước đo thứ nhất và −2 điểm phần trăm theo thước đo thứ hai.
+
+Các biến kiểm soát gồm: tăng trưởng GDP, chi tiêu chính phủ trên GDP, độ mở thương mại, khủng hoảng ngân hàng, tín dụng ngân hàng trên GDP, lạm phát trên 50%, tổng cầu nội địa trên GDP, tỷ giá mậu dịch và tỷ giá thực.
+
+**Bước thứ hai: mô hình probit dự báo xác suất tái cơ cấu.** Mô hình dùng cả các biến kiểm soát lẫn ba biến dự báo bổ sung. Ba biến này cần thoả điều kiện loại trừ: chúng ảnh hưởng tới xác suất tái cơ cấu nhưng không trực tiếp ảnh hưởng tới thương mại. Hai biến đầu (lãi suất Fed và tái cơ cấu ở nước khác) đến từ bên ngoài, trực giao với quyết định của từng nước; biến thứ ba đã được xác định từ trước.
+
+| Biến dự báo | Sau vỡ nợ | Chủ động |
+|---|---|---|
+| Lãi suất của Cục Dự trữ Liên bang Mỹ (Fed) | +5,442\* | −3,351 |
+| Lây lan: tái cơ cấu ở các nước khác, có trọng số theo khoảng cách địa lý | +4,224\*\*\* | +5,417\*\*\* |
+| Số lần tái cơ cấu chủ động trước đó | −0,157 | −0,838\*\*\* |
+| Diện tích dưới đường ROC (AUC) | 0,871 | 0,935 |
+
+Đọc bảng: khi Fed thắt chặt, một nước dễ rơi vào vỡ nợ hơn và ít khả năng tái cơ cấu chủ động hơn. Tái cơ cấu ở các nước lân cận làm tăng xác suất cả hai loại. Nước đã từng tái cơ cấu chủ động nhiều lần ít có khả năng tái cơ cấu chủ động thêm.
+
+AUC đo khả năng phân loại của mô hình, từ 0,5 (đoán ngẫu nhiên) đến 1 (phân loại hoàn hảo). Thêm ba biến dự báo nâng AUC từ 0,79 lên 0,87 cho vỡ nợ, và từ 0,85 lên 0,94 cho tái cơ cấu chủ động. Đường ROC và mật độ xác suất dự báo cho thấy mô hình phân loại tốt, và sau khi gán trọng số, các quan sát trong nhóm có tái cơ cấu được phân bố đều hơn.
+
+**Bước thứ ba: AIPW** (Jordà và Taylor 2016). Phương pháp gán trọng số thấp cho quan sát dễ bị tái cơ cấu và trọng số cao cho quan sát ít khả năng, để giảm thiên lệch chọn mẫu theo các biến quan sát được. Nó kết hợp hai phần: phần trọng số xác suất nghịch đảo và phần dự báo bằng hồi quy. Cách kết hợp này có ưu điểm là kết quả vẫn đúng nếu một trong hai phần được xác định đúng.
+
+Để so sánh hệ số giữa hai loại tái cơ cấu, bài dùng hai phép kiểm định: bootstrap 1000 lần (lấy mẫu lại nhiều lần để ước lượng sai số) và thống kê z của Clogg và cộng sự (1995).
 
 ### 5. Kết quả AIPW
 
-- Theo AIPW, tỷ giá thực sau vỡ nợ mất giá sâu và kéo dài, còn sau tái cơ cấu chủ động có cú sốc ban đầu lớn rồi gần như hồi phục hết vào năm thứ năm. Khác biệt này rõ hơn so với số liệu thô.
-- Nhập khẩu co mạnh sau vỡ nợ, do cầu nhập khẩu giảm và giá nhập khẩu tính bằng nội tệ tăng. Sau tái cơ cấu chủ động, nhập khẩu ổn định.
-- Xuất khẩu tăng nhẹ sau vỡ nợ nhờ hàng chế tạo, giảm nhẹ sau tái cơ cấu chủ động. Khi đo theo điểm phần trăm GDP, tác động sau vỡ nợ gần như biến mất, cho thấy kết quả đến từ các nền kinh tế tương đối đóng với nền xuất khẩu nhỏ.
+**Tỷ giá thực.** Theo AIPW, sau vỡ nợ tỷ giá thực mất giá sâu và kéo dài. Sau tái cơ cấu chủ động có cú sốc ban đầu lớn, rồi tỷ giá gần như hồi phục hết vào năm thứ năm. Khác biệt này rõ hơn so với số liệu thô.
+
+**Nhập khẩu.** Tốc độ thay đổi tích luỹ (%) của tỷ lệ nhập khẩu trên GDP:
+
+| Năm | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Tổng, sau vỡ nợ | −6,07\*\*\* | −15,01\*\*\* | −10,22\*\*\* | −0,65 | 3,78 |
+| Tổng, chủ động | 0,1 | −2,59\* | 0,4 | 2,99 | 6,64\*\* |
+| Hàng chế tạo, sau vỡ nợ | −7,21\*\*\* | −17,04\*\*\* | −13,73\*\*\* | 1,39 | 1,33 |
+| Hàng chế tạo, chủ động | −0,61 | −2,01 | −3,17 | 5,51\*\* | 10,77\*\*\* |
+| Hàng sơ cấp, sau vỡ nợ | −7,05\*\*\* | −12,51\*\*\* | −9,68\*\*\* | −13,58\*\*\* | −3,31 |
+| Hàng sơ cấp, chủ động | −0,87 | −2,55 | 2,81 | 0,5 | −1,36 |
+
+Đọc bảng theo ba ý:
+
+1. Sau vỡ nợ, nhập khẩu sụp 10–15% cho tới năm 3, sâu nhất ở năm 2 với −15,01%, tương đương khoảng 2 điểm phần trăm GDP. Lý do là GDP giảm mạnh làm cầu nhập khẩu co lại, và tỷ giá mất giá làm giá nhập khẩu tính bằng nội tệ tăng vọt.
+2. Hàng chế tạo và hàng sơ cấp giảm với mức tương đương nhau, nhưng hàng chế tạo hồi phục từ năm 4, còn hàng sơ cấp giảm lâu hơn (vẫn −13,58% ở năm 4).
+3. Sau tái cơ cấu chủ động, nhập khẩu ổn định, thậm chí tăng khoảng 7% (6,64%) tới năm 5.
+
+Lưu ý: khác biệt giữa hai loại tái cơ cấu có ý nghĩa thống kê theo thống kê z của Clogg, nhưng **không** có ý nghĩa theo bootstrap.
+
+**Xuất khẩu.** Tốc độ thay đổi tích luỹ (%) của tỷ lệ xuất khẩu trên GDP:
+
+| Năm | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Tổng, sau vỡ nợ | −0,12 | −0,05 | 5,5\*\*\* | 11,04\*\*\* | 5,86\*\* |
+| Tổng, chủ động | −7,57\*\*\* | −6,62\*\*\* | −4,86\*\* | −5,59\*\*\* | −6,38\*\*\* |
+| Hàng chế tạo, sau vỡ nợ | 3,39 | 9,44\*\*\* | 17,26\*\*\* | 2,9 | 19,84\*\*\* |
+| Hàng chế tạo, chủ động | −9,51\*\*\* | 3,91 | −19,77\*\*\* | −13,9\*\*\* | −10,76\*\*\* |
+| Hàng sơ cấp, sau vỡ nợ | 1,79 | −0,3 | 4,71\*\*\* | 7,09\*\*\* | 3,66 |
+| Hàng sơ cấp, chủ động | −7,11\*\*\* | −7,27\*\*\* | −5,99\*\*\* | −10,17\*\*\* | −14,6\*\*\* |
+
+Đọc bảng:
+
+1. Sau vỡ nợ, xuất khẩu tăng, đỉnh khoảng 11% ở năm 4, chủ yếu nhờ hàng chế tạo, nhất là tư liệu sản xuất. Cách giải thích: tỷ giá mất giá sâu và kéo dài, cộng với việc doanh nghiệp chuyển sản xuất sang phục vụ thị trường nước ngoài, đã bù được cú sốc cung tiêu cực (thiếu tài trợ thương mại, thiếu đầu vào).
+2. Sau tái cơ cấu chủ động, xuất khẩu giảm khoảng 5% và duy trì như vậy qua cả năm năm.
+
+**Kết quả đổi khi đo theo điểm phần trăm GDP.** Khi đo theo mức thay đổi thay vì tốc độ thay đổi, tác động lên xuất khẩu sau vỡ nợ gần như biến mất, chỉ còn khoảng +0,4 điểm phần trăm GDP. Sau tái cơ cấu chủ động, xuất khẩu vẫn giảm khoảng 1,7 điểm phần trăm GDP, chủ yếu ở hàng sơ cấp. Lý do: mức tăng phần trăm lớn sau vỡ nợ đến từ một nền xuất khẩu rất nhỏ ở các nền kinh tế tương đối đóng. Ví dụ minh hoạ: xuất khẩu tăng 11% từ nền 4% GDP chỉ là thêm khoảng 0,4 điểm phần trăm GDP. Vì vậy kết quả về nhập khẩu vững hơn nhiều so với kết quả về xuất khẩu.
+
+**Độ vững.** Kết quả tương tự khi: đưa cả các trường hợp "lai" vào mẫu; lấy năm vỡ nợ thay cho năm công bố làm mốc; xử lý các đợt chồng lấn theo hai cách khác nhau ("chiến lược ban đầu", tức xếp theo loại của đợt đầu, và "chiến lược tệ nhất", tức xếp theo loại tệ hơn); và dùng hồi quy trung vị thay cho hồi quy trung bình.
 
 ### 6. Theo nhóm hàng
 
-- Co nhập khẩu hàng chế tạo sau vỡ nợ chủ yếu do tư liệu sản xuất, phần nhỏ hơn do hàng trung gian. Co nhập khẩu hàng sơ cấp do cả hàng trung gian lẫn hàng tiêu dùng.
-- Tăng xuất khẩu hàng chế tạo sau vỡ nợ do tư liệu sản xuất. Sau tái cơ cấu chủ động, mọi nhóm hàng chế tạo cùng giảm, còn hàng sơ cấp giảm chủ yếu ở hàng trung gian.
+Phân tách theo mục đích sử dụng cho thấy rõ phần nào của thương mại chịu tác động (giá trị ước đọc từ hình).
+
+**Nhập khẩu.**
+
+| Nhóm | Diễn biến |
+|---|---|
+| Hàng chế tạo, sau vỡ nợ | Giảm chủ yếu ở tư liệu sản xuất (khoảng −23%) và hàng trung gian (khoảng −19%); hàng tiêu dùng chế tạo ổn định |
+| Hàng chế tạo, chủ động | Ổn định, trừ một đợt giảm ở hàng trung gian; mức tăng cuối kỳ là nhờ tư liệu sản xuất |
+| Hàng sơ cấp, sau vỡ nợ | Giảm ở cả hàng trung gian lẫn hàng tiêu dùng (khoảng −19% ở năm 3) |
+
+Như vậy co nhập khẩu hàng chế tạo sau vỡ nợ chủ yếu là do cắt nhập máy móc thiết bị, một phần nhỏ hơn do cắt đầu vào trung gian; còn co nhập khẩu hàng sơ cấp đến từ cả đầu vào lẫn hàng tiêu dùng như lương thực và nhiên liệu.
+
+**Xuất khẩu.**
+
+| Nhóm | Diễn biến |
+|---|---|
+| Hàng chế tạo, sau vỡ nợ | Tăng nhờ tư liệu sản xuất (khoảng +45% ở năm 5) |
+| Hàng chế tạo, chủ động | Cả ba nhóm cùng giảm |
+| Hàng sơ cấp, sau vỡ nợ | Ổn định, có một đợt tăng tạm thời ở hàng tiêu dùng |
+| Hàng sơ cấp, chủ động | Giảm, do hàng trung gian |
+
+Khi đo theo điểm phần trăm GDP, trong các kết quả xuất khẩu chỉ còn rõ mức giảm khoảng 1 điểm phần trăm GDP của hàng sơ cấp trung gian sau tái cơ cấu chủ động.
 
 ### 7. Vai trò của tổng cầu
 
-- Mức độ phụ thuộc vào thương mại ảnh hưởng cả mức thiệt hại lẫn khả năng điều chỉnh. Nước mở hơn có thể dễ chuyển sang xuất khẩu hơn; nước đóng hơn thì co nhập khẩu từ nền thấp sẽ rất đau đớn.
-- Nước có tổng cầu cao, vốn hấp thụ nhiều nhập khẩu, co nhập khẩu mạnh hơn, nhất là sau vỡ nợ. Với tái cơ cấu chủ động, khác biệt chủ yếu nằm ở hàng sơ cấp.
-- Mức tăng xuất khẩu sau vỡ nợ đến từ nhóm có tổng cầu thấp, còn nhóm tổng cầu cao lại giảm xuất khẩu.
+**Vì sao xét tổng cầu.** Mức độ phụ thuộc vào thương mại ảnh hưởng cả tới mức thiệt hại lẫn khả năng điều chỉnh. Nước mở hơn có thể dễ chuyển sang xuất khẩu hơn khi cầu trong nước sụp; nước đóng hơn thì việc co nhập khẩu từ một nền vốn đã thấp sẽ rất đau đớn.
+
+Tổng cầu nội địa bằng tiêu dùng cộng đầu tư cộng chi tiêu chính phủ, tức bằng GDP trừ xuất khẩu ròng. Ngưỡng chia mẫu là trung vị của các đợt tái cơ cấu, bằng 101,8% GDP của năm trước tái cơ cấu. Nhóm "cầu cao" gồm một nửa số đợt sau vỡ nợ và một phần ba số đợt chủ động.
+
+**Nhập khẩu** (tốc độ thay đổi tích luỹ, %):
+
+| Năm | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Sau vỡ nợ, cầu cao | −14,74 | −23,1 | −25,21 | −19,15 | −11,07 |
+| Sau vỡ nợ, cầu thấp | 3,65 | −5,85 | 2,64 | 10,8 | 13,96 |
+| Chủ động, cầu cao | −12,09 | −13,32 | −6,78 | −6,4 | −0,05 |
+| Chủ động, cầu thấp | 1,34 | 0,38 | −1,45 | 3,07 | −1,14 |
+
+**Xuất khẩu** (tốc độ thay đổi tích luỹ, %):
+
+| Năm | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|
+| Sau vỡ nợ, cầu cao | 0,05 | −2,46 | −4,51 | −7,13 | −4,88 |
+| Sau vỡ nợ, cầu thấp | 3,09 | 4,56 | 15,62 | 33 | 24,46 |
+| Chủ động, cầu cao | −4,35 | −2,03 | 4,68 | 2,53 | −2,64 |
+| Chủ động, cầu thấp | 2,72 | 2,58 | −2,41 | −1,26 | −3,56 |
+
+Đọc hai bảng theo ba ý:
+
+1. Nước có tổng cầu cao, vốn đang hấp thụ nhiều nhập khẩu, co nhập khẩu mạnh nhất: tới −25% ở năm 3 sau vỡ nợ. Nước có tổng cầu thấp gần như không co nhập khẩu. Với tái cơ cấu chủ động, nhóm cầu cao cũng co nhập khẩu (khoảng −12% đến −13% hai năm đầu) và khác biệt giữa hai nhóm chủ yếu nằm ở hàng sơ cấp.
+2. Mức tăng xuất khẩu sau vỡ nợ hoàn toàn đến từ nhóm có tổng cầu thấp (tới 33% ở năm 4), còn nhóm có tổng cầu cao lại giảm xuất khẩu.
+3. Khác biệt giữa nhóm cao và thấp nhìn chung tập trung ở hàng chế tạo.
 
 ### 8. Kết luận
 
-- Cách một nước xử lý khủng hoảng nợ ảnh hưởng lớn tới thương mại. Biến động lớn của xuất khẩu ròng có thể là thước đo gần đúng cho thiệt hại phúc lợi, khớp với các ước lượng chi phí sản lượng trong tài liệu.
-- Khủng hoảng sâu và kéo dài có thể cải thiện cán cân thương mại, nhưng cái giá là co nhập khẩu và xuất khẩu dựa vào mất giá thực lớn.
-- Quan điểm trọng thương đơn giản coi xuất khẩu ròng cao là tốt, nhưng ở đây nó có thể là kết quả của khủng hoảng sâu. Tái cơ cấu chủ động giúp tránh cuộc điều chỉnh đối ngoại bị ép buộc và tốn kém về phúc lợi.
+Cách một nước xử lý khủng hoảng nợ ảnh hưởng lớn tới thương mại của nó. Sau vỡ nợ, nhập khẩu co khoảng 15%, tương đương khoảng 2 điểm phần trăm GDP; sau tái cơ cấu chủ động, nhập khẩu gần như không đổi. Biến động lớn của xuất khẩu ròng có thể dùng làm thước đo gần đúng cho thiệt hại phúc lợi, và điều này khớp với các ước lượng về chi phí sản lượng của vỡ nợ trong tài liệu.
+
+Khủng hoảng sâu và kéo dài có thể làm cán cân thương mại cải thiện, nhưng cái giá là co nhập khẩu và một mức xuất khẩu dựa vào mất giá thực lớn. Quan điểm trọng thương đơn giản coi xuất khẩu ròng cao là điều tốt; ở đây xuất khẩu ròng cao lại có thể là kết quả của một cuộc khủng hoảng sâu. Ví dụ minh hoạ: một nước có xuất khẩu không đổi nhưng nhập khẩu giảm 2 điểm phần trăm GDP sẽ thấy cán cân thương mại "cải thiện" 2 điểm, trong khi thực chất người dân và doanh nghiệp đang phải nhịn hàng hoá và máy móc.
+
+Thông điệp chính sách của bài: bằng cách tái cơ cấu chủ động, các nước có thể làm dịu tác động mà nếu không sẽ đòi hỏi một cuộc điều chỉnh đối ngoại bị ép buộc và tốn kém về phúc lợi.
 
 ## Thuật ngữ
 

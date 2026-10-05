@@ -370,51 +370,289 @@
 2. DDR thực sự mang lại bao nhiêu nhẹ nợ và phải trả giá bao nhiêu về sản lượng và tín dụng, so với tái cơ cấu nợ nước ngoài?
 3. Thiết kế nào, công cụ nào và bối cảnh nào làm cho đánh đổi đó bớt nghiệt ngã?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tái cơ cấu nợ trong nước và nợ nước ngoài (DDR, EDR).** Tái cơ cấu nợ là khi chính phủ thay đổi điều khoản của khoản nợ theo hướng có lợi cho mình và bất lợi cho chủ nợ. DDR (domestic debt restructuring) là tái cơ cấu nợ phát hành theo luật trong nước, thường do chủ nợ trong nước nắm, bằng nội tệ. EDR (external debt restructuring) là tái cơ cấu nợ nước ngoài, chia tiếp thành EDR với chủ nợ tư nhân (trái chủ, ngân hàng nước ngoài) và EDR với chủ nợ chính thức (chính phủ khác, tổ chức đa phương). Ví dụ trong bài: giai đoạn 1980–2021 có 134 đợt DDR, 189 đợt EDR với chủ nợ tư nhân và 465 đợt EDR với chủ nợ chính thức. Khái niệm này quan trọng vì bài là một trong những nghiên cứu đầu tiên đo riêng tác động của DDR, so với EDR.
+
+**Ba hình thức tái cơ cấu: giảm mệnh giá, kéo dài kỳ hạn, giảm lãi coupon.** Giảm mệnh giá (cắt gốc, *haircut*) là giảm thẳng số tiền gốc phải trả. Kéo dài kỳ hạn là giữ nguyên số tiền nhưng trả muộn hơn. Giảm lãi coupon là giảm tiền lãi trả định kỳ. Cả ba đều làm chủ nợ mất giá trị hiện tại, vì một đồng nhận muộn hơn hoặc ít lãi hơn có giá trị thấp hơn. Ví dụ minh hoạ: trái phiếu 100 triệu, lãi 10%/năm, đáo hạn sau 2 năm. Cắt gốc 30% thì chủ nợ chỉ nhận lại 70 triệu; kéo dài kỳ hạn thêm 5 năm thì chủ nợ vẫn nhận 100 triệu nhưng muộn hơn; giảm coupon xuống 5% thì mỗi năm chủ nợ nhận 5 triệu tiền lãi thay vì 10 triệu. Khái niệm này quan trọng vì bài cho thấy mỗi hình thức có đánh đổi rất khác nhau giữa mức nhẹ nợ và chi phí kinh tế.
+
+**Liên kết chính phủ–ngân hàng (sovereign-bank nexus).** Sự phụ thuộc lẫn nhau giữa bảng cân đối của chính phủ và của ngân hàng: ngân hàng nắm nhiều trái phiếu chính phủ và cho chính phủ, doanh nghiệp nhà nước vay, nên khi chính phủ gặp khó thì ngân hàng cũng gặp khó. Bài đo nó bằng tỷ lệ cho vay và nắm giữ chứng khoán của chính phủ và doanh nghiệp nhà nước trên tổng tài sản ngân hàng. Ví dụ minh hoạ: một ngân hàng có 1.000 tỷ tài sản, trong đó 300 tỷ là trái phiếu chính phủ; nếu chính phủ cắt gốc 30%, ngân hàng mất 90 tỷ, có thể vượt quá vốn chủ sở hữu và buộc phải cắt cho vay. Khái niệm này quan trọng vì đây là kênh chính khiến DDR tốn kém hơn EDR.
+
+**Kịch bản phản thực và tác động bình quân (counterfactual, ATE).** Kịch bản phản thực là điều lẽ ra đã xảy ra nếu không có sự kiện. Tác động bình quân của xử lý (ATE) là chênh lệch trung bình giữa kết cục thực tế và kết cục phản thực. Ví dụ trong bài: "GDP thấp hơn mức phản thực 3,7 điểm sau năm năm" nghĩa là so với một nước tương tự nhưng không làm DDR, GDP của nước làm DDR thấp hơn 3,7%. Khái niệm này quan trọng vì mọi con số chính của bài đều là chênh lệch so với kịch bản phản thực, và việc kịch bản đó được dựng thế nào quyết định ý nghĩa của con số.
+
+**Điểm xu hướng và CBPS (propensity score, covariate balancing propensity score).** Điểm xu hướng là xác suất một nước tiến hành DDR, ước lượng từ đặc điểm của nước đó. Dùng nó để gán trọng số cho các quan sát, ta có thể so sánh nhóm làm DDR với một nhóm đối chứng có đặc điểm giống nhau, gần như một thí nghiệm ngẫu nhiên. CBPS, của Imai và Ratkovic (2014), là cách ước lượng điểm xu hướng sao cho đồng thời làm hai nhóm cân bằng về các đặc điểm quan sát được. Ví dụ trong bài: sau khi gia trọng bằng CBPS, chênh lệch chuẩn hoá giữa hai nhóm bằng 0,00 ở mọi biến, trong khi trước đó lên tới 0,61–0,81. Khái niệm này quan trọng vì đây là cách bài xử lý việc các nước làm DDR vốn đã yếu hơn từ trước.
+
+**Vững kép (doubly robust).** Tính chất của ước lượng AIPW: nó kết hợp hai mô hình, một mô hình dự báo ai bị "xử lý" (điểm xu hướng) và một mô hình dự báo kết cục, và chỉ cần một trong hai mô hình đúng là kết quả vẫn nhất quán. Ví dụ minh hoạ: nếu mô hình điểm xu hướng bỏ sót một biến nhưng mô hình kết cục đúng, ước lượng vẫn đáng tin. Khái niệm này quan trọng vì nó là lý do bài chọn AIPW thay vì chỉ dùng một trong hai cách.
+
+**Khoảng cách sản lượng (output gap).** Chênh lệch giữa GDP thực tế và GDP tiềm năng, tức mức GDP mà nền kinh tế đạt được khi dùng hết năng lực mà không gây lạm phát. Khoảng cách âm nghĩa là nền kinh tế đang suy yếu, sản xuất dưới khả năng. Ví dụ minh hoạ: GDP tiềm năng 100, GDP thực tế 97 thì khoảng cách sản lượng là −3%. Khái niệm này quan trọng vì trong bài, khoảng cách sản lượng âm là yếu tố có tác động lớn nhất (theo chiều ngược) tới xác suất một nước làm DDR.
+
+**Quy tắc tài khoá (fiscal rule).** Giới hạn có tính ràng buộc lâu dài lên các chỉ tiêu ngân sách, ví dụ trần nợ công hay trần thâm hụt. Bài phân biệt việc có quy tắc với việc quy tắc được thực thi, tức có tỷ lệ tuân thủ cao. Ví dụ minh hoạ: một luật quy định nợ công không vượt 60% GDP; khi nợ tiến sát 60%, chính phủ buộc phải hành động. Khái niệm này quan trọng vì bài tìm thấy một nghịch lý: quy tắc tài khoá được thực thi lại làm tăng xác suất DDR.
+
+## Nội dung chi tiết
 
 ### 1. Mở đầu
 
-- Tái cơ cấu nợ trong nước trở nên thường xuyên hơn ở các nền kinh tế mới nổi và đang phát triển, song song với việc chính phủ chuyển dần từ vay nước ngoài sang phát hành trong nước, và tăng tốc sau đại dịch.
-- Nợ công toàn cầu tiến tới khoảng 100% GDP vào 2030 với hơn một nửa tập trung ở các nước mà nợ chưa được dự báo là sẽ ổn định, nên DDR sẽ ngày càng là công cụ phải tính đến.
-- Khác EDR, DDR có lan toả trong nước mạnh vì chủ nợ là ngân hàng và quỹ hưu trí, tạo phụ thuộc lẫn nhau giữa bảng cân đối của chính phủ và của khu vực tài chính. Vỡ nợ theo luật trong nước gắn trực tiếp hơn với rủi ro ổn định tài chính và tác động phân phối.
-- Năm đóng góp: các yếu tố quyết định DDR; tác động vĩ mô–tài khoá tách bạch với EDR; khác biệt giữa nước thu nhập thấp và mới nổi theo thiết kế và công cụ; vai trò của lập trường tài khoá, phát triển tài chính và liên kết chính phủ–ngân hàng; vai trò của dự trữ ngoại hối và chương trình IMF.
-- Bài nói rõ không trả lời được câu hỏi DDR có đáng làm hay không, vì không so sánh với phương án trì hoãn, mà trì hoãn có thể còn đắt hơn.
+**Bước ngoặt trong cơ cấu tài trợ.** Từ thập niên 1990, chính phủ các nền kinh tế mới nổi và đang phát triển (EMDE) chuyển dần từ vay nước ngoài sang phát hành nợ trong nước. Nguyên nhân gồm: hệ thống tài chính sâu hơn, tăng trưởng kinh tế, thị trường nợ nội địa phát triển, hoặc ngược lại là bị hạn chế tiếp cận vốn nước ngoài. Đại dịch COVID-19 đẩy nhanh xu hướng này, vì nhu cầu vốn tăng đột ngột trong khi cửa vay quốc tế hẹp lại. Song song với đó, tái cơ cấu nợ trong nước cũng trở nên thường xuyên hơn.
+
+**Bối cảnh nợ toàn cầu.** Theo IMF (2024), nợ công toàn cầu đã vượt 100 nghìn tỷ đô la, tương đương 93% GDP toàn cầu năm 2024, và có thể tiến tới khoảng 100% GDP vào năm 2030. Hơn một nửa nợ toàn cầu nằm ở các nước mà nợ không được dự báo là sẽ ổn định. Thêm vào đó là các áp lực chi mới: dân số già, quốc phòng và an ninh, và bất định nói chung. Vì vậy DDR sẽ ngày càng là một công cụ mà các chính phủ phải tính đến.
+
+**Vì sao DDR khác EDR về bản chất.**
+
+| | EDR | DDR |
+|---|---|---|
+| Chủ nợ | Nước ngoài | Trong nước: ngân hàng, quỹ hưu trí |
+| Rủi ro chính | Mất khả năng tiếp cận vốn quốc tế | Bất ổn tài chính qua liên kết chính phủ–ngân hàng, và tác động phân phối |
+
+Vì chủ nợ là ngân hàng và quỹ hưu trí trong nước, DDR tạo ra lan toả mạnh trong nền kinh tế: khi chính phủ cắt nghĩa vụ, bảng cân đối của khu vực tài chính bị tổn hại ngay. Vỡ nợ theo luật trong nước vì thế có thể gây hại cho khu vực tư nhân nặng hơn vỡ nợ theo luật nước ngoài (Gelpern và Panizza 2022; IMF 2021), và gắn trực tiếp hơn với rủi ro ổn định tài chính và tác động phân phối (ai mất tiền, ai được lợi).
+
+**Năm đóng góp của bài.**
+
+1. Xác định các yếu tố quyết định việc một nước làm DDR.
+2. Đo tác động vĩ mô và tài khoá của DDR, tách bạch với EDR.
+3. So sánh khác biệt giữa nước thu nhập thấp và nước mới nổi, theo thiết kế và theo công cụ được tái cơ cấu.
+4. Xét vai trò của lập trường tài khoá, mức phát triển tài chính và liên kết chính phủ–ngân hàng.
+5. Xét vai trò của dự trữ ngoại hối và chương trình do IMF hỗ trợ.
+
+**Câu hỏi bài không trả lời (tự thừa nhận).** Bài so sánh nước có tái cơ cấu với nước tránh được tái cơ cấu. Bài không so sánh với việc trì hoãn một cuộc tái cơ cấu cần thiết. Vì vậy bài không trả lời được câu hỏi DDR có đáng làm hay không, và chi phí của việc trì hoãn có thể còn lớn hơn, theo kiểu "quá ít, quá muộn".
 
 ### 2. Dữ liệu và sự thật mô tả
 
-- Mẫu 142 EMDE giai đoạn 1987–2021, tập trung vào nhóm này vì tần suất tái cơ cấu cao hơn hẳn nước phát triển và cơ cấu nợ đã dịch chuyển mạnh.
-- Bộ dữ liệu DDR của Erce và cộng sự bao phủ rộng hơn các nguồn khác, đa dạng về phạm vi nợ được tái cơ cấu, loại công cụ, thiết kế và biện pháp giảm nhẹ. Tính "trùng hợp ba lớp" cho thấy DDR đúng là chuyện trong nước.
-- DDR phổ biến dần từ thập niên 1990, đỉnh ở thập niên 2000, và chủ yếu diễn ra sau vỡ nợ, với công cụ chính là kéo dài kỳ hạn và giảm lãi coupon; giảm mệnh giá ít gặp hơn nhiều so với EDR với chủ nợ tư nhân.
+**Mẫu.** Bảng gồm 142 nước EMDE (81 nước mới nổi, 61 nước thu nhập thấp), giai đoạn 1987–2021. Bài tập trung vào nhóm này vì tần suất tái cơ cấu ở đây cao hơn hẳn các nước phát triển, và cơ cấu nợ đã dịch chuyển mạnh sang nợ trong nước.
+
+**Nguồn dữ liệu.**
+
+| Loại sự kiện | Nguồn |
+|---|---|
+| DDR | Erce, Mallucci và Picarelli (2022) |
+| EDR với chủ nợ tư nhân | Asonuma và Trebesch (2016); Asonuma và cộng sự (2023) |
+| EDR với chủ nợ chính thức | Horn và cộng sự (2022) |
+| Các biến kinh tế (biến phụ thuộc) | Triển vọng Kinh tế Thế giới (WEO) của IMF |
+
+Bộ dữ liệu DDR của Erce và cộng sự bao phủ rộng hơn các nguồn khác: có thêm 39 đợt DDR không có trong IMF (2021) và 30 đợt không có trong bộ dữ liệu của Beers và de Leon-Manlagnit. Nó cũng đa dạng về phạm vi nợ được tái cơ cấu, loại công cụ, thiết kế và các biện pháp giảm nhẹ đi kèm. Bộ dữ liệu loại trừ các trường hợp vỡ nợ "thực tế" qua siêu lạm phát, tức khi chính phủ để lạm phát xoá bớt giá trị thực của nợ thay vì chính thức tái cơ cấu.
+
+**"Trùng hợp ba lớp".** Trong giai đoạn 2010–18, nợ được tái cơ cấu trong các đợt DDR vừa theo luật trong nước, vừa do nhà đầu tư trong nước nắm (75%), vừa bằng nội tệ (79%). Điều này cho thấy DDR đúng là chuyện trong nước, không phải EDR khoác áo trong nước.
+
+**Số lượng giai đoạn 1980–2021.**
+
+| Loại | Số đợt | Ghi chú |
+|---|---|---|
+| DDR | 134 | |
+| EDR với chủ nợ tư nhân | 189 | |
+| EDR với chủ nợ chính thức | 465 | Khoảng 60% thuộc sáng kiến HIPC; 62 ca thuộc Sáng kiến Hoãn Trả nợ (DSSI) 2020–21 |
+| Tái cơ cấu với Trung Quốc | 52 | Thêm 58 ca DSSI 2020–21 |
+
+DDR phổ biến dần từ thập niên 1990 và đạt đỉnh vào thập niên 2000, khi EDR thưa dần và khi siêu lạm phát cùng áp chế tài chính (ép ngân hàng giữ trái phiếu chính phủ với lãi thấp) ít được dùng hơn. Siêu lạm phát và DDR không gắn chặt với nhau: chỉ 7% số đợt DDR xảy ra trong vòng 5 năm sau một đợt siêu lạm phát, và chỉ 11% số đợt siêu lạm phát dẫn tới DDR. Về địa lý, DDR tập trung ở Mỹ Latinh và Caribe, châu Phi hạ Sahara, Đông Âu và Trung Á.
+
+**Cơ chế tái cơ cấu: DDR nghiêng về hình thức "mềm".**
+
+| | DDR | EDR tư nhân | EDR chính thức | Với Trung Quốc |
+|---|---|---|---|---|
+| Diễn ra sau vỡ nợ | 61% | 58,7% | | |
+| Kéo dài kỳ hạn | 85,5% | | | |
+| Giảm lãi coupon | 83% | | | |
+| Giảm mệnh giá | 24% | 34% | 19,6% | 5,8% |
+
+DDR chủ yếu diễn ra sau vỡ nợ, với công cụ chính là kéo dài kỳ hạn và giảm lãi coupon. Giảm mệnh giá ít gặp hơn nhiều so với EDR với chủ nợ tư nhân. Cách đọc: DDR ưu tiên giãn nợ và giảm lãi hơn là cắt gốc, nhằm giảm cú sốc cho hệ thống tài chính trong nước.
 
 ### 3. Phương pháp thực nghiệm
 
-- Nội sinh đến từ thiên lệch chọn mẫu và nhân quả ngược. Bài dùng hai bước: ước lượng điểm xu hướng bằng CBPS rồi mô hình hoá tác động động bằng phép chiếu địa phương ước lượng riêng cho nhóm xử lý và nhóm đối chứng.
-- Ba loại tái cơ cấu được đưa vào cùng một phương trình vì khoảng 40% DDR trùng với EDR; bỏ sót sẽ gán nhầm tác động.
-- Ghép điểm xu hướng với mô hình kết cục cho ước lượng AIPW bán tham số, có tính chất vững kép. Chẩn đoán cân bằng cho thấy CBPS khử hoàn toàn chênh lệch đặc điểm, còn logit thì không.
+**Hai nguồn nội sinh.** Không thể so sánh đơn giản nước làm DDR với nước không làm, vì hai lý do:
+
+1. **Thiên lệch chọn mẫu:** nước tái cơ cấu vốn đã có nền tảng vĩ mô yếu, thể chế mong manh và dễ tổn thương về tài khoá.
+2. **Nhân quả ngược:** tái cơ cấu do căng thẳng tài khoá gây ra, mà căng thẳng tài khoá lại chịu ảnh hưởng của chính việc tái cơ cấu.
+
+**Bước 1: điểm xu hướng.** Bài dùng CBPS (Imai và Ratkovic 2014) thay cho logit hay probit thông thường. CBPS tối ưu đồng thời hai việc: ước lượng điểm xu hướng và làm cân bằng các biến kiểm soát giữa hai nhóm. Mẫu sau đó được tái gia trọng để mô phỏng một thí nghiệm ngẫu nhiên. Trọng số cho nhóm xử lý là 1/p̂ và cho nhóm đối chứng là 1/(1−p̂), với p̂ là điểm xu hướng ước lượng. Để tránh vài quan sát có trọng số quá lớn chi phối kết quả, trọng số bị chặn trần ở mức 10, theo Imbens (2004) và Cole và Hernán (2008); bài kiểm tra độ vững với trần 5.
+
+**Bước 2: phép chiếu địa phương**, với h = 0 đến 5 năm sau sự kiện:
+
+Δy(i,t+h) = Λ₁·DDR + Λ₂·EDRp + Λ₃·EDRo + θ₁·Δy(i,t−1) + θ₂·Δy(i,t−2) + X'β + α(i) + ε
+
+Trong đó Δy là thay đổi của biến kết cục, tính bằng y(t+h) − y(t−1); riêng GDP tính theo phần trăm. EDRp và EDRo là EDR với chủ nợ tư nhân và chính thức, α(i) là hiệu ứng cố định của từng nước. Phép chiếu được ước lượng riêng cho nhóm xử lý và nhóm đối chứng.
+
+Điểm quan trọng: **cả ba loại tái cơ cấu được đưa vào cùng một phương trình**, vì khoảng 40% số đợt DDR trùng thời gian với EDR. Nếu bỏ sót một loại, tác động của nó sẽ bị gán nhầm cho loại kia, gây thiên lệch lớn.
+
+**Ghép hai bước thành AIPW.** Kết hợp điểm xu hướng với mô hình kết cục cho ước lượng AIPW (trọng số xác suất nghịch đảo có bổ sung), một ước lượng bán tham số. Ưu điểm chính là tính vững kép: chỉ cần một trong hai mô hình (điểm xu hướng hoặc kết cục) đúng là ước lượng vẫn nhất quán.
+
+**Bộ biến dự báo**, đều lấy giá trị năm trước:
+
+1. Khủng hoảng ngân hàng, khủng hoảng tài khoá, củng cố tài khoá trong một trong hai năm trước.
+2. Khoảng cách sản lượng, log GDP bình quân đầu người theo sức mua tương đương (PPP), tăng trưởng thực, log nợ/GDP, log chi trả lãi/GDP, chỉ số nhà nước pháp quyền.
+3. Chỉ số phát triển tài chính, tách riêng phần định chế (ngân hàng, bảo hiểm) và phần thị trường (cổ phiếu, trái phiếu).
+4. Biến giả cho việc có quy tắc tài khoá và việc quy tắc được thực thi.
+5. Biến giả năm bầu cử.
+
+**Chẩn đoán cân bằng** (theo tiêu chí của Rubin 2001):
+
+| Cách gia trọng | Kết quả |
+|---|---|
+| Chưa gia trọng | Chênh lệch chuẩn hoá tới 0,61–0,81, tỷ số phương sai tới 2,9–3,1: mất cân bằng nặng |
+| CBPS | Chênh lệch chuẩn hoá bằng 0,00 ở mọi biến |
+| Logit | Vẫn còn chênh lệch đáng kể, ví dụ 0,44 với biến phát triển thị trường tài chính |
+
+Như vậy CBPS khử hoàn toàn chênh lệch về đặc điểm quan sát được giữa hai nhóm, còn logit thì không.
 
 ### 4. Kết quả chính
 
-- Logit cho thấy DDR gắn với hệ thống tài chính yếu, quy tắc tài khoá được thực thi, khủng hoảng tài khoá, khoảng cách sản lượng âm, nợ và chi trả lãi tăng. Quan hệ nghịch giữa phát triển tài chính và xác suất DDR được giải thích chủ yếu bằng việc nơi tài chính sâu thì nhà chức trách né DDR do lường trước hậu quả lớn hơn.
-- Về tài khoá, DDR giảm nợ 7,9 điểm GDP sau năm năm, kém xa EDR với chủ nợ tư nhân và chính thức. Chi trả lãi giảm 0,25 điểm, thấp hơn EDR chính thức nhưng nhỉnh hơn EDR tư nhân.
-- Về kinh tế, GDP sau năm năm vẫn thấp hơn mức phản thực 3,7 điểm và tín dụng giảm 1,9 điểm GDP, trong khi EDR tư nhân không còn tác động có ý nghĩa và EDR chính thức thậm chí đi kèm GDP tăng.
+**Khi nào một nước làm DDR.** Hồi quy logit cho thấy các yếu tố làm tăng xác suất DDR:
+
+1. Phát triển định chế tài chính hạn chế, yếu tố có tác động lớn nhất.
+2. Phát triển thị trường tài chính hạn chế.
+3. Đang có EDR với chủ nợ tư nhân.
+4. Quy tắc tài khoá được thực thi.
+5. GDP bình quân đầu người theo PPP cao hơn.
+6. Khủng hoảng tài khoá: vỡ nợ nước ngoài, mất khả năng tiếp cận thị trường.
+7. Chi trả lãi trên GDP tăng.
+8. Nợ công trên GDP tăng.
+9. Khoảng cách sản lượng âm, yếu tố có tác động lớn nhất theo chiều ngược (hệ số biên khoảng −0,05): khoảng cách sản lượng càng thấp, xác suất DDR càng cao.
+
+Các yếu tố không có ý nghĩa thống kê: củng cố tài khoá trước đó, khủng hoảng ngân hàng, tăng trưởng thực, bầu cử, nhà nước pháp quyền. Mô hình phân loại đúng 98,5% trường hợp, với diện tích dưới đường ROC (AUROC) bằng 0,8.
+
+**Phát hiện gây ngạc nhiên: tài chính càng yếu càng dễ làm DDR.** Có hai cách giải thích:
+
+1. Phát triển tài chính giúp chống đỡ: chính phủ dễ huy động vốn trong nước hơn, và nợ nội địa đóng vai trò công cụ phòng hộ và thanh khoản cho hệ thống (Willems và Zettelmeyer 2022; Martinez 2023), nên ít cần tái cơ cấu.
+2. Ở nơi tài chính sâu, nhà chức trách né DDR vì biết hậu quả sẽ lớn hơn: cú sốc lan qua một hệ thống tài chính lớn sẽ mạnh hơn.
+
+Bài nghiêng về cách giải thích thứ hai và chứng minh nó ở phần phân tích nhạy cảm.
+
+**Nghịch lý quy tắc tài khoá.** Quy tắc tài khoá thường gắn với kỷ luật tốt hơn, nhưng ở đây lại làm tăng xác suất DDR khi nợ đang xấu đi. Hai cách giải thích: (1) trần nợ buộc chính phủ phải hành động sớm hơn, khi các lựa chọn khác đã cạn hoặc quá đắt về chính trị; (2) có một yếu tố chung, như nợ cao hay giám sát từ bên ngoài (chương trình IMF, áp lực của nhà tài trợ), vừa thúc đẩy việc áp dụng quy tắc vừa thúc đẩy DDR.
+
+**Tác động bình quân sau năm năm.**
+
+| Biến | DDR | EDR với chủ nợ tư nhân | EDR với chủ nợ chính thức |
+|---|---|---|---|
+| Nợ công (điểm % GDP) | −7,9 | −20,2 | −20,7 |
+| Chi trả lãi (điểm % GDP) | −0,25 | −0,2 (không có ý nghĩa ở giữa kỳ) | −0,46 |
+| GDP (%) | −3,7 | −1,6, không có ý nghĩa | +3,2 |
+| Tín dụng tư nhân (điểm % GDP) | −1,9 | −1,5 | −1,4 |
+
+**Về tài khoá**, DDR giảm nợ 7,9 điểm GDP sau năm năm, chỉ bằng khoảng 40% mức của EDR với chủ nợ tư nhân (20,2) và chính thức (20,7). Chi trả lãi giảm 0,25 điểm, thấp hơn EDR chính thức (0,46) nhưng nhỉnh hơn EDR tư nhân (0,2).
+
+**Về kinh tế**, sau năm năm GDP vẫn thấp hơn mức phản thực 3,7 điểm và tín dụng giảm 1,9 điểm GDP. Trong khi đó EDR tư nhân không còn tác động có ý nghĩa lên GDP, và EDR chính thức thậm chí đi kèm GDP cao hơn 3,2%.
+
+Đây là **nghịch lý trung tâm** của bài: DDR cho nhẹ nợ ít nhất nhưng chi phí kinh tế nặng nhất và dai dẳng nhất.
+
+**Diễn tiến theo thời gian.** Mức giảm nợ công sau DDR (điểm % GDP):
+
+| Năm h | 0 | 1 | 2 | 3 | 4 | 5 |
+|---|---|---|---|---|---|---|
+| Nợ công | −0,56 (không có ý nghĩa) | −1,85\*\* | −3,63\*\*\* | −4,33\*\*\* | −6,07\*\*\* | −7,90\*\*\* |
+
+Tác dụng giảm nợ đến chậm, phải sang năm thứ hai mới rõ. Ngược lại, GDP giảm 0,95% (có ý nghĩa ở mức 1%) ngay từ năm h = 0. Nói cách khác, chi phí đến ngay còn lợi ích đến từ từ.
+
+**Vì sao DDR cho nhẹ nợ ít.**
+
+1. Thiết kế: DDR ít giảm mệnh giá hơn EDR với chủ nợ tư nhân, nơi mức cắt gốc thường lớn (Das 2012; Meyer 2022).
+2. Chính phủ phải bảo vệ khu vực tài chính trong nước, nên không thể cắt mạnh.
+3. Chính tác động xấu lên kinh tế và ổn định tài chính làm GDP, mẫu số của tỷ lệ nợ/GDP, co lại, khiến tỷ lệ nợ giảm ít hơn.
+
+**Vì sao EDR chính thức lại đi kèm GDP tăng.** Khoảng 60% số đợt EDR chính thức là các ca thuộc sáng kiến HIPC: mức nhẹ nợ rất lớn, thiết kế có cấu trúc, quá trình thực hiện dự đoán được, và kèm cam kết cải cách để đạt "điểm hoàn thành" của sáng kiến.
+
+**Chỉ số ổn định tài chính.** Bài có chạy hồi quy với các chỉ số ổn định tài chính và thấy căng thẳng tài chính tăng, nợ xấu tăng, tỷ suất lợi nhuận trên tài sản (ROA) và trên vốn chủ sở hữu (ROE) giảm, nhưng không báo cáo chính thức vì các chỉ số này chỉ bao phủ chưa tới 10 đợt DDR.
+
+**Lập luận bảo vệ.** Các đợt DDR rất không đồng nhất về thiết kế, quy mô và bối cảnh. Điều này lẽ ra làm khó tìm thấy tác động có ý nghĩa; việc vẫn tìm thấy mẫu hình vững chắc cho thấy có một động lực chung thật sự.
 
 ### 5. Kiểm tra độ vững
 
-- Sáu phép thử: giữ lại nước từng có ít nhất một loại tái cơ cấu; chỉ DDR với chủ nợ cư trú; loại DDR chỉ liên quan tiền gửi; hạ trần trọng số; dùng logit; kéo chân trời lên mười năm. Tất cả đều xác nhận kết luận cơ sở, với một vài thay đổi về độ lớn.
-- Đáng chú ý là khi chỉ giữ DDR với chủ nợ cư trú thì nhẹ nợ còn ít hơn và mất sản lượng còn lớn hơn, đúng như kỳ vọng.
+Bài thực hiện sáu phép thử, tất cả đều xác nhận kết luận cơ sở với một vài thay đổi về độ lớn:
+
+1. **Chỉ giữ những nước từng có ít nhất một loại tái cơ cấu**, để nhóm đối chứng gần với nhóm xử lý hơn. Kết quả gần như không đổi; ngoại lệ là mức giảm tín dụng sau EDR mất ý nghĩa.
+2. **Chỉ giữ DDR với chủ nợ cư trú**, tức loại mọi đợt DDR trùng với EDR. Kết quả giống về định tính nhưng khắc nghiệt hơn về định lượng: nhẹ nợ còn ít hơn (khoảng −5,5 điểm GDP) và GDP giảm sâu hơn. Đây đúng là điều được kỳ vọng nếu cơ chế gây hại là tác động lên chủ nợ trong nước.
+3. **Loại các đợt DDR chỉ liên quan tới tiền gửi.** Lý do: đó là các hành động đơn phương, như đóng băng tiền gửi hay chuyển tiền gửi thành trái phiếu, trên công cụ không giao dịch được, và nhiều bộ dữ liệu khác không tính là tái cơ cấu. Về quy mô, 18 trong 134 đợt có liên quan tiền gửi, trong đó chỉ 11 đợt là độc lập (không đi kèm tái cơ cấu công cụ khác). Khi loại chúng ra, nợ giảm nhỉnh hơn, GDP và tín dụng giảm nhẹ hơn; nhưng DDR không liên quan tiền gửi vẫn đắt hơn EDR và cho nhẹ nợ ít hơn.
+4. **Hạ trần trọng số từ 10 xuống 5.** Mức ý nghĩa và độ lớn giữ nguyên.
+5. **Dùng logit thay cho CBPS.** Kết quả giống về định tính, nhưng độ lớn nói chung tăng, cho thấy logit không khử hết chênh lệch giữa hai nhóm.
+6. **Kéo chân trời từ 5 lên 10 năm.** DDR tiếp tục làm giảm nợ và chi trả lãi, nhưng GDP và tín dụng vẫn thấp dai dẳng; GDP thấp hơn khoảng 9 điểm ở năm thứ 10.
 
 ### 6. Phân tích nhạy cảm
 
-- Nước thu nhập thấp được nhẹ nợ nhiều hơn với chi phí vừa phải, nước mới nổi chịu suy giảm sâu hơn và siết tín dụng kéo dài.
-- Trong các thiết kế, giảm mệnh giá cho nhẹ nợ nhiều nhất nhưng gây suy giảm sâu nhất; kéo dài kỳ hạn là phương án cân bằng; giảm lãi coupon hiệu quả về chi phí lãi nhưng rủi ro với ổn định tài chính; tái cơ cấu sau vỡ nợ và đàm phán lại khoản vay ngân hàng gây xáo trộn nặng nhất.
-- Liên kết chính phủ–ngân hàng mạnh và củng cố tài khoá kèm theo đều khuếch đại cả lợi ích lẫn chi phí. Phát triển tài chính cao làm giảm lợi ích và tăng chi phí.
-- Dự trữ ngoại hối cao và chương trình do IMF hỗ trợ vừa bảo toàn lợi ích vừa giảm chi phí; thiếu hai yếu tố này thì nước đó gần như chỉ chịu chi phí.
+**Nước thu nhập thấp so với nước mới nổi: đảo chiều hoàn toàn.** Tác động sau năm năm:
+
+| Biến | Nước thu nhập thấp (LIC) | Nước mới nổi (EM) |
+|---|---|---|
+| Nợ công | −14,2 điểm | −7,4 điểm |
+| Chi trả lãi | −0,5 điểm | −0,2 điểm |
+| GDP | −3,3 điểm | −5,0 điểm |
+| Tín dụng | −0,6 rồi tan sau hai năm | Từ −0,5 tăng lên −4,3 và còn kéo dài |
+
+Nước thu nhập thấp được nhẹ nợ nhiều hơn với chi phí vừa phải. Nước mới nổi được nhẹ nợ ít hơn, chịu suy giảm sâu hơn và siết tín dụng kéo dài. Điều này khớp với giả thuyết rằng hệ thống tài chính sâu hơn ở nước mới nổi truyền cú sốc mạnh hơn.
+
+**Theo thiết kế: bốn đánh đổi.**
+
+| Thiết kế | Nhẹ nợ | Giảm lãi | Chi phí kinh tế |
+|---|---|---|---|
+| Giảm mệnh giá | Lớn nhất, tức thì | Lớn nhất | Sâu nhất |
+| Kéo dài kỳ hạn | Vừa phải | Đều đặn | Nhẹ nhất |
+| Giảm lãi coupon | Trung gian | Bền vững | GDP giảm nhẹ hơn, nhưng tín dụng giảm sâu |
+| Sau vỡ nợ | Vừa phải, nhưng chậm (2 năm mới có ý nghĩa) | Khiêm tốn | Nặng và kéo dài |
+
+Kết luận về thiết kế: **kéo dài kỳ hạn là phương án cân bằng nhất**, đạt được lợi ích tài khoá với mức co GDP thấp nhất. Giảm lãi coupon hiệu quả về chi phí lãi nhưng rủi ro cho ổn định tài chính, vì thu nhập của ngân hàng bị cắt và tín dụng giảm sâu.
+
+**Theo công cụ.**
+
+- **Khoản vay ngân hàng:** nhẹ nợ ít hơn và chi phí nặng hơn. Điều này khớp với Bolton và Jeanne (2009) về sự mong manh của hệ thống ngân hàng khi phải đàm phán lại các khoản vay quy mô lớn.
+- **Trái phiếu:** nhẹ nợ nhiều hơn và GDP giảm ít hơn, khớp với Sturzenegger và Zettelmeyer (2006).
+
+Như vậy tái cơ cấu sau vỡ nợ và đàm phán lại khoản vay ngân hàng là hai trường hợp gây xáo trộn nặng nhất.
+
+**Liên kết chính phủ–ngân hàng.** Đo bằng tỷ lệ cho vay và nắm giữ chứng khoán của chính phủ và doanh nghiệp nhà nước trên tổng tài sản ngân hàng.
+
+- Liên kết **cao**: nợ và lãi giảm mạnh hơn, nhưng GDP và tín dụng co sâu hơn.
+- Liên kết **thấp**: nợ giảm nhiều hơn một chút, và GDP không bị ảnh hưởng có ý nghĩa.
+
+Điều bài không đo được: ngân hàng có thể vốn dày và lãi cao chính nhờ liên kết đó (vì trái phiếu chính phủ cho thu nhập ổn định); khi đó DDR làm giảm lợi nhuận của ngân hàng nhưng ngân hàng vẫn cấp tín dụng như trước (theo Togo và cộng sự).
+
+**Lập trường tài khoá sau DDR.** Đo bằng thay đổi cán cân sơ cấp từ năm t−1 tới năm t+3: dương là củng cố, âm là mở rộng.
+
+- **Củng cố** đi kèm nợ và lãi giảm sâu hơn và bền hơn, nhưng GDP và tín dụng co mạnh hơn.
+- Điểm quyết định: khoảng cách về chi phí giữa hai nhóm nhỏ hơn khoảng cách về lợi ích. Vì vậy vẫn nên giữ kỷ luật tài khoá sau tái cơ cấu.
+
+Như vậy liên kết chính phủ–ngân hàng mạnh và củng cố tài khoá đi kèm đều khuếch đại cả lợi ích lẫn chi phí.
+
+**Phát triển tài chính: xác nhận giả thuyết thứ hai.**
+
+- Tài chính phát triển **cao**: nhẹ nợ ít hơn và chi phí kinh tế cao hơn.
+- Tài chính phát triển **thấp**: nhẹ nợ nhiều nhất và không có chi phí trung hạn có ý nghĩa.
+
+Cơ chế: hệ thống tài chính sâu truyền cú sốc rộng hơn qua kênh tín dụng (Reinhart và Rogoff 2009; Gennaioli 2014). Bài kết luận: DDR có lợi hơn ở nơi hệ thống tài chính kém phát triển.
+
+**Dự trữ ngoại hối (% GDP).**
+
+- Dự trữ **cao**: nợ và lãi giảm mạnh hơn, GDP mất ít hơn, và tín dụng không bị ảnh hưởng có ý nghĩa.
+- Dự trữ **thấp**: nợ và lãi không giảm có ý nghĩa, trong khi GDP và tín dụng vẫn co mạnh. Tức là nước đó chịu chi phí mà không được lợi ích.
+
+Cơ chế: dự trữ là đệm thanh khoản đỡ các định chế tài chính trong nước và giữ thị trường tín dụng khỏi đứt gãy; đồng thời nó hạ rủi ro tái tài trợ và ổn định tỷ giá (Dominguez 2012; Bianchi và Sosa-Padilla 2024).
+
+**Chương trình do IMF hỗ trợ.**
+
+- **Có chương trình:** nợ và lãi giảm ở mức mạnh nhất trong toàn bộ phân tích, GDP chỉ giảm nhẹ, tín dụng không bị ảnh hưởng.
+- **Không có chương trình:** nợ chỉ giảm nhẹ, lãi không giảm có ý nghĩa, và GDP giảm mạnh.
+
+Các cơ chế được nêu: hỗ trợ tài chính, hỗ trợ kỹ thuật, uy tín chính sách, điều phối giữa chủ nợ và chính phủ, thúc đẩy cải cách cơ cấu, và vai trò xúc tác kéo thêm vốn bên ngoài.
+
+Tóm lại, dự trữ ngoại hối cao và chương trình do IMF hỗ trợ vừa bảo toàn lợi ích vừa giảm chi phí; thiếu hai yếu tố này thì nước đó gần như chỉ chịu chi phí.
+
+**Tỷ trọng nợ trong nước và phạm vi tái cơ cấu** (phụ lục). Khi tỷ trọng nợ nội địa cao hoặc phạm vi nợ được đưa vào tái cơ cấu lớn, nợ và lãi giảm mạnh hơn nhưng GDP và tín dụng co sâu hơn. Đây là cùng một đánh đổi, chỉ khác độ lớn.
 
 ### 7. Kết luận và hàm ý chính sách
 
-- DDR giảm được nợ và chi trả lãi nhưng cái giá về sản lượng và tín dụng là đáng kể và dai dẳng, trái ngược với EDR, nhất là EDR với chủ nợ chính thức.
-- Tuy vậy DDR có thể là cần thiết: nếu không, nhiều nước sẽ phải in tiền tài trợ hoặc vay ngắn hạn đắt đỏ, gây lạm phát, làm ngân hàng bất ổn và chệch hướng cải cách.
-- Hàm ý: thiết kế DDR sao cho ít xáo trộn khu vực tài chính nhất, nhất là ở nơi thị trường tài chính sâu và liên kết chính phủ–ngân hàng chặt; dựng đệm dự trữ trước; tận dụng chương trình IMF để ổn định vĩ mô và điều phối chủ nợ; và cân nhắc DDR bên cạnh các phương án củng cố tài khoá và tài trợ bên ngoài khác.
+DDR giảm được nợ và chi trả lãi, nhưng cái giá về sản lượng và tín dụng là đáng kể và dai dẳng, trái ngược với EDR, nhất là EDR với chủ nợ chính thức.
+
+Tuy vậy, DDR có thể là cần thiết. Nếu không có nó, nhiều nước sẽ phải in tiền để tài trợ ngân sách hoặc vay ngắn hạn với chi phí đắt đỏ, gây lạm phát, làm ngân hàng bất ổn và làm chệch hướng cải cách.
+
+**Hàm ý chính sách.**
+
+1. Thiết kế DDR sao cho ít xáo trộn khu vực tài chính nhất, nhất là ở nơi thị trường tài chính sâu và liên kết chính phủ–ngân hàng chặt. Ưu tiên kéo dài kỳ hạn hơn cắt gốc.
+2. Phân bổ tổn thất tới nơi hấp thụ được tốt nhất. Bài nêu các đòn bẩy thiết kế dù không đo được trực tiếp:
+
+| Loại chủ nợ | Hình thức phù hợp |
+|---|---|
+| Quỹ hưu trí của dân số trẻ, chân trời đầu tư dài | Chịu kéo dài kỳ hạn dễ hơn ngân hàng |
+| Định chế định giá tài sản theo giá thị trường | Thích cắt gốc, với lãi suất của trái phiếu mới đặt theo giá thị trường |
+| Định chế giữ trái phiếu tới đáo hạn | Không muốn cắt gốc, nhưng chịu được giảm lãi và giãn kỳ hạn |
+
+3. Chuẩn bị các biện pháp đi kèm: hỗ trợ thanh khoản khẩn cấp (ELA) cho ngân hàng, khung xử lý đổ vỡ ngân hàng, và quỹ ổn định tài chính.
+4. Dựng đệm dự trữ ngoại hối từ trước.
+5. Tận dụng chương trình do IMF hỗ trợ để ổn định kinh tế vĩ mô và điều phối chủ nợ.
+6. Cân nhắc DDR bên cạnh các phương án khác như củng cố tài khoá và tài trợ từ bên ngoài, thay vì coi nó là lối thoát mặc định.
 
 ## Thuật ngữ
 

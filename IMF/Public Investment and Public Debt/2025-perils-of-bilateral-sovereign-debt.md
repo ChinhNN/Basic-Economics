@@ -272,54 +272,228 @@
 2. Vì sao một khoản vay song phương nhỏ lại có thể làm chính phủ vay quá mức trên thị trường?
 3. Thiết kế nào của khoản vay song phương có thể có lợi cho nước đi vay, và làm sao nhận biết một chủ nợ hay công cụ mới có khả năng gây hại?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Nợ chính thức và nợ song phương (official debt, bilateral debt).** Nợ chính thức là khoản một chính phủ vay từ các chủ nợ không phải tư nhân: chính phủ nước khác, ngân hàng trung ương nước khác, ngân hàng phát triển, hay tổ chức đa phương như IMF và Ngân hàng Thế giới. Nợ song phương là phần nợ chính thức vay trực tiếp từ **một** chính phủ hay ngân hàng trung ương khác, theo thoả thuận hai bên. Ví dụ trong bài: tỷ trọng của chủ nợ song phương trong nợ chính thức của các nước mới nổi đã tăng từ dưới một phần sáu lên khoảng một phần ba trong giai đoạn 2000–2023, với Trung Quốc là chủ nợ song phương lớn nhất. Khái niệm này quan trọng vì toàn bộ bài hỏi việc có thêm một chủ nợ song phương lớn làm nước đi vay lợi hay thiệt.
+
+**Câu lạc bộ Paris (Paris Club).** Nhóm các nước chủ nợ chính thức truyền thống, chủ yếu là các nước phát triển, phối hợp với nhau khi một nước đi vay cần tái cơ cấu nợ. Ví dụ trong bài: nợ của các nước mới nổi với Câu lạc bộ Paris giảm từ khoảng 0,5 nghìn tỷ đô la năm 2000 xuống khoảng 0,25 nghìn tỷ năm 2023, trong khi nợ với Trung Quốc tăng từ gần 0 lên khoảng 0,15 nghìn tỷ. Khái niệm này quan trọng vì các chủ nợ mới nằm ngoài nhóm này không phải tuân theo cách phối hợp chung của nó.
+
+**Hạn mức hoán đổi giữa các ngân hàng trung ương (central bank swap line).** Thoả thuận trong đó một ngân hàng trung ương cho ngân hàng trung ương khác vay ngoại tệ trong thời gian ngắn, đổi lại bằng nội tệ của bên vay. Ví dụ trong bài: hạn mức hoán đổi của Cục Dự trữ Liên bang Mỹ (Fed) có lãi suất cố định trước và công bố công khai, cộng thêm 25 điểm cơ bản; trong khi nhiều hạn mức khác có lãi suất và kỳ hạn được giữ bí mật. Khái niệm này quan trọng vì đây là hình mẫu thực tế gần nhất với "chủ nợ lớn" trong mô hình: ngắn hạn, chưa từng bị vỡ nợ, điều khoản do đàm phán.
+
+**Chênh lệch lợi suất và điểm cơ bản (spread, basis point).** Chênh lệch lợi suất là phần lãi mà chính phủ phải trả cao hơn lãi suất phi rủi ro, để bù cho nhà đầu tư rủi ro bị vỡ nợ. Một điểm cơ bản bằng 0,01 điểm phần trăm, nên 100 điểm cơ bản bằng 1 điểm phần trăm. Ví dụ trong bài: khi chỉ vay trên thị trường, chênh lệch bình quân là 714 điểm cơ bản (tức khoảng 7,1 điểm phần trăm); khi có chủ nợ lớn, nó lên 2.105 điểm cơ bản (khoảng 21 điểm phần trăm). Khái niệm này quan trọng vì chênh lệch là thước đo rủi ro và cũng là cái "phạt" mà thị trường áp lên chính phủ vay nhiều.
+
+**Thương lượng Nash và điểm đe doạ (Nash bargaining, threat point).** Khi hai bên thương lượng, họ chia phần lợi ích chung (thặng dư) theo sức mạnh thương lượng của mỗi bên. Điểm đe doạ là điều xảy ra nếu đàm phán đổ vỡ; bên nào có điểm đe doạ tốt hơn thì đàm phán ở thế mạnh hơn. Trong bài, sức mạnh của chủ nợ lớn ký hiệu là θ: θ = 0,5 nghĩa là hai bên chia đôi thặng dư, θ = 0 nghĩa là chính phủ đi vay nắm toàn bộ sức mạnh. Điểm đe doạ của chính phủ là trả hết khoản vay song phương ngay lập tức. Ví dụ minh hoạ: nếu chính phủ đang có sẵn nhiều tiền mặt thì việc trả hết khoản vay là dễ, nên lời đe doạ "tôi sẽ trả hết và không vay anh nữa" là đáng tin, và chủ nợ phải giảm lãi. Khái niệm này quan trọng vì toàn bộ cơ chế gây hại trong bài đi qua điểm đe doạ.
+
+**Vị thế ưu tiên (seniority).** Một chủ nợ được ưu tiên nghĩa là được trả trước các chủ nợ khác, kể cả khi chính phủ vỡ nợ với các chủ nợ còn lại. Bài giả định khoản vay của chủ nợ lớn **không thể vỡ nợ**: chính phủ có thể vỡ nợ với trái phiếu thị trường, nhưng không với chủ nợ lớn. Ví dụ trong bài: hạn mức hoán đổi chưa từng bị vỡ nợ, kể cả khi các nước tái cơ cấu nợ thị trường. Khái niệm này quan trọng vì vị thế ưu tiên là lý do chủ nợ lớn không cần đòi phần bù rủi ro vỡ nợ, nên mọi phần lãi cao hơn lãi phi rủi ro đều đến từ thương lượng.
+
+**Pha loãng nợ (debt dilution).** Khi chính phủ phát hành thêm trái phiếu, khả năng trả các trái phiếu cũ giảm đi, nên giá trị của trái phiếu cũ giảm. Ví dụ minh hoạ: một nhà đầu tư mua trái phiếu khi nợ là 20% GDP; nếu năm sau chính phủ vay thêm tới 30% GDP, rủi ro vỡ nợ tăng và trái phiếu của người đó mất giá. Nhà đầu tư lường trước điều này nên trả giá thấp ngay từ đầu. Khái niệm này quan trọng vì bài cho thấy chủ nợ lớn làm giá trái phiếu giảm qua chính kênh này.
+
+**Phúc lợi quy ra tiêu dùng tương đương (consumption-equivalent welfare).** Cách đo một thay đổi chính sách tốt hay xấu bằng câu hỏi: người dân sẵn sàng mất bao nhiêu phần trăm tiêu dùng mỗi năm, vĩnh viễn, để tránh (hay để có) thay đổi đó. Ví dụ trong bài: có chủ nợ lớn với θ = 0,5 làm phúc lợi giảm 0,43%, tức tương đương mất 0,43% tiêu dùng mỗi năm mãi mãi. Khái niệm này quan trọng vì đây là con số tổng kết cho câu hỏi "có chủ nợ lớn thì lợi hay thiệt".
+
+## Nội dung chi tiết
 
 ### 1. Mở đầu
 
-- Một phần lớn khoản vay của các chính phủ thị trường mới nổi là nợ chính thức, từ chính phủ khác, ngân hàng phát triển khu vực hay tổ chức đa phương. Sự trỗi dậy của các chủ nợ mới ngoài Câu lạc bộ Paris, cùng với việc họ đòi vị thế ưu tiên, làm dấy lên lo ngại về phúc lợi của nước đi vay.
-- Lãi suất của chủ nợ lớn bị giới hạn bởi cạnh tranh ngầm từ thị trường, nhưng khi rủi ro vỡ nợ đẩy lợi suất thị trường lên, chủ nợ lớn có thể đòi phần bù. Vì khoản vay không có rủi ro vỡ nợ, phần bù này chỉ phản ánh phương án thay thế của con nợ.
-- Có hai lý do nước đi vay thiệt. Lý do quen thuộc: vay được trong lúc bị loại khỏi thị trường làm tăng giá trị của vỡ nợ. Lý do căn bản hơn: ngay cả khi cấm vay lúc vỡ nợ, hiệu ứng vay quá mức do quan hệ vẫn làm phúc lợi giảm.
-- Thặng dư của quan hệ song phương lớn nhất khi chính phủ đang trả chênh lệch cao, đúng lúc chính phủ cần chủ nợ lớn nhất. Vì vậy, khi chủ nợ dự kiến chính phủ sẽ gặp chênh lệch cao, họ đánh giá quan hệ cao hơn và sẵn sàng đầu tư vào nó bằng cách cho vay rẻ hơn.
-- Tham số then chốt là sức mạnh thương lượng. Khi chính phủ nắm hết sức mạnh, chủ nợ lớn chỉ cho vay ở lãi phi rủi ro, mô hình trở về Hatchondo, Martinez và Önder (2017), và chính phủ được lợi. Nhưng lợi ích biến mất nhanh khi sức mạnh của chính phủ giảm.
+Một phần lớn khoản vay của các chính phủ ở thị trường mới nổi là nợ chính thức, tức vay từ chính phủ khác, từ ngân hàng phát triển khu vực hay từ tổ chức đa phương. Cơ cấu chủ nợ chính thức đã thay đổi đáng kể trong hai thập kỷ. Số liệu nợ chính thức nước ngoài của các nước mới nổi (nghìn tỷ đô la theo giá năm 2023, giá trị ước đọc từ hình):
+
+| Chủ nợ | Năm 2000 | Năm 2023 |
+|---|---|---|
+| Tổng | khoảng 1,2 | khoảng 1,6 |
+| IMF và Ngân hàng Thế giới | khoảng 0,4 | khoảng 0,6 |
+| Đa phương khác | khoảng 0,2 | khoảng 0,5 |
+| Câu lạc bộ Paris | khoảng 0,5 | khoảng 0,25 |
+| Trung Quốc | gần 0 | khoảng 0,15 |
+| Song phương khác | khoảng 0,1 | khoảng 0,1 |
+
+Tỷ trọng của chủ nợ song phương đi từ dưới một phần sáu lên khoảng một phần ba tổng nợ chính thức, và Trung Quốc đã trở thành chủ nợ song phương lớn nhất. Các chủ nợ mới nằm ngoài Câu lạc bộ Paris thường đòi vị thế ưu tiên trên thực tế so với chủ nợ tư nhân, và điều này làm dấy lên lo ngại về phúc lợi của nước đi vay.
+
+Bài cũng lưu ý rằng con số trên còn đánh giá thấp nợ song phương, vì hạn mức hoán đổi của ngân hàng trung ương thường không nằm trong số liệu nợ công và nợ được chính phủ bảo lãnh, và lãi suất cũng như kỳ hạn của chúng thường được giữ bí mật.
+
+**Lập luận cốt lõi.** Lãi suất mà chủ nợ lớn đòi bị giới hạn bởi sự cạnh tranh ngầm từ thị trường: nếu đòi quá cao, chính phủ sẽ vay trên thị trường thay vì vay chủ nợ lớn. Nhưng khi rủi ro vỡ nợ đẩy lợi suất thị trường lên, phương án thay thế của chính phủ trở nên đắt, và chủ nợ lớn có thể đòi một phần bù. Vì khoản vay của chủ nợ lớn không có rủi ro vỡ nợ, phần bù này không phản ánh rủi ro mà chỉ phản ánh việc phương án thay thế của con nợ tệ đến đâu.
+
+Bài chỉ ra hai lý do nước đi vay bị thiệt:
+
+1. **Lý do quen thuộc:** nếu chính phủ vẫn vay được từ chủ nợ lớn trong lúc bị thị trường loại ra sau vỡ nợ, thì vỡ nợ bớt đau, tức giá trị của việc vỡ nợ tăng lên, và chính phủ dễ vỡ nợ hơn.
+2. **Lý do căn bản hơn, và mới:** ngay cả khi cấm vay song phương lúc vỡ nợ, hiệu ứng **vay quá mức do quan hệ** vẫn làm phúc lợi giảm.
+
+Thặng dư của quan hệ song phương lớn nhất khi chính phủ đang phải trả chênh lệch lợi suất cao trên thị trường, tức đúng lúc chính phủ cần chủ nợ lớn nhất. Vì vậy, khi chủ nợ dự kiến chính phủ sẽ gặp chênh lệch cao trong tương lai, họ đánh giá quan hệ cao hơn và sẵn sàng "đầu tư" vào quan hệ bằng cách cho vay rẻ hơn hôm nay.
+
+Tham số then chốt là sức mạnh thương lượng. Khi chính phủ nắm hết sức mạnh (θ = 0), chủ nợ lớn chỉ cho vay ở lãi phi rủi ro; mô hình khi đó trở về kết quả của Hatchondo, Martinez và Önder (2017), và chính phủ được lợi. Nhưng lợi ích này biến mất nhanh khi sức mạnh của chính phủ giảm.
+
+**Ba giả định then chốt về chủ nợ lớn.** Mô hình đặt hai loại chủ nợ cạnh nhau:
+
+| Thị trường cạnh tranh | Chủ nợ lớn (song phương) |
+|---|---|
+| Chính phủ có thể vỡ nợ | Thứ nhất: không thể vỡ nợ, tức có vị thế ưu tiên |
+| Trái phiếu dài hạn | Thứ hai: ngắn hạn, phải tái tục mỗi kỳ |
+| Giá do cạnh tranh quyết định, nhà đầu tư có lợi nhuận kỳ vọng bằng 0 | Thứ ba: lãi suất do thương lượng Nash quyết định, θ là sức mạnh của chủ nợ |
+
+Hình mẫu thực tế là hạn mức hoán đổi giữa các ngân hàng trung ương: ngắn hạn, chưa từng bị vỡ nợ kể cả khi nước đi vay tái cơ cấu nợ thị trường, và điều khoản do đàm phán. Để so sánh, IMF áp phụ phí theo ngưỡng định sẵn, còn hạn mức hoán đổi của Fed có lãi cộng 25 điểm cơ bản được công bố công khai; đó là những khoản vay có điều khoản cố định trước, không thương lượng.
+
+Bài giả định chủ nợ lớn chỉ quan tâm đến lợi nhuận và có cùng sở thích với nhà đầu tư thị trường. Mục đích là tách riêng tác động của **cấu trúc thị trường** (một chủ nợ thương lượng, ưu tiên, ngắn hạn), không gán thêm động cơ chính trị nào. Kết quả vẫn giữ được, trừ khi chủ nợ lớn rất muốn tránh việc chính phủ vỡ nợ với nợ thị trường.
 
 ### 2. Vị trí trong tài liệu
 
-- Bài đóng góp vào nhánh nghiên cứu mới về tương tác giữa các loại nợ chủ quyền. Hatchondo, Martinez và Önder cho thấy thêm một lượng nợ không thể vỡ có giới hạn giúp phúc lợi nhưng chỉ tạm thời; Cordella và Powell cho thấy vị thế ưu tiên của tổ chức tài chính quốc tế có thể hình thành nội sinh; nhiều nghiên cứu khác xét nợ ưu tiên đi kèm điều kiện, hay vai trò của cho vay chính thức trong loại bỏ đa cân bằng.
-- Mô hình của bài không có đa cân bằng, vốn là thứ có thể mở đường cho lợi ích của khoản vay song phương nếu nó loại bỏ được cân bằng xấu, và bỏ qua yếu tố điều kiện để tập trung vào thiết kế thị trường.
-- Arellano và Barreto cho thấy định giá cạnh tranh và kỳ hạn dài, như khoản vay của Câu lạc bộ Paris, làm nợ chính thức ít rủi ro hơn. Liu, Liu và Yue cho thấy cân bằng tốt nhất với chủ nợ thị trường, song phương và đa phương có thể đạt phân bổ hiệu quả có ràng buộc. Các bài này nhấn mạnh thể chế có thể cải thiện phúc lợi, còn bài này minh hoạ hiểm hoạ.
-- Mô hình không mô tả mọi khía cạnh của hạn mức hoán đổi: không có khác biệt đồng tiền, điều kiện về dự trữ hay tài sản bảo đảm. Nó cũng xem nợ là công cụ làm mượt tiêu dùng, không xét tài trợ dự án hay cho vay phát triển.
+Bài đóng góp vào nhánh nghiên cứu mới về tương tác giữa các loại nợ chủ quyền khác nhau:
+
+- Hatchondo, Martinez và Önder cho thấy thêm một lượng giới hạn nợ không thể vỡ giúp tăng phúc lợi, nhưng chỉ tạm thời.
+- Cordella và Powell cho thấy vị thế ưu tiên của các tổ chức tài chính quốc tế có thể hình thành một cách nội sinh.
+- Nhiều nghiên cứu khác xét nợ ưu tiên đi kèm điều kiện chính sách, hoặc vai trò của cho vay chính thức trong việc loại bỏ đa cân bằng (tình huống nền kinh tế có thể rơi vào một cuộc tháo chạy tự thực hiện chỉ vì nhà đầu tư lo sợ).
+
+Mô hình của bài cố ý không có đa cân bằng. Đây là điểm cần nhớ, vì đa cân bằng chính là thứ có thể mở đường cho lợi ích của khoản vay song phương: nếu khoản vay loại bỏ được cân bằng xấu, nó có thể có lợi. Bài cũng bỏ qua yếu tố điều kiện chính sách để tập trung vào thiết kế thị trường.
+
+Arellano và Barreto cho thấy định giá cạnh tranh và kỳ hạn dài, như các khoản vay của Câu lạc bộ Paris, làm nợ chính thức ít rủi ro hơn. Liu, Liu và Yue cho thấy cân bằng tốt nhất khi có cả chủ nợ thị trường, song phương và đa phương có thể đạt được phân bổ hiệu quả trong giới hạn ràng buộc. Các bài này nhấn mạnh thể chế có thể cải thiện phúc lợi; bài này thì minh hoạ mặt hiểm hoạ.
+
+Bài thừa nhận mô hình không mô tả mọi khía cạnh của hạn mức hoán đổi: không có khác biệt giữa các đồng tiền, không có điều kiện về dự trữ hay tài sản bảo đảm. Nó cũng coi nợ là công cụ làm mượt tiêu dùng qua các thời kỳ, không xét tài trợ dự án hay cho vay phát triển.
 
 ### 3. Mô hình chỉ có vay song phương
 
-- Nền kinh tế mở nhỏ nhận thu nhập ngẫu nhiên và vay từ một chủ nợ độc quyền. Khoản vay ngắn hạn nên thực chất được thương lượng lại liên tục, với điểm đe doạ là trả hết nợ.
-- Nền kinh tế giảm nợ khi thu nhập cao và nhận chuyển giao khi thu nhập thấp. Chủ nợ dùng lãi suất để chiếm thặng dư: trợ giá khi nợ và thu nhập thấp, rồi tăng lãi khi nợ lớn và việc trả hết trở nên khó.
-- Khi nợ tăng, điểm đe doạ của con nợ kém đáng tin, thặng dư tăng nhưng chủ nợ cũng mạnh hơn trong thương lượng. Điều này làm hàm lợi nhuận của chủ nợ lồi, khiến chủ nợ trung tính rủi ro hành xử như người ưa rủi ro.
+Để hiểu cơ chế, bài bắt đầu từ một mô hình đơn giản hơn: một nền kinh tế mở nhỏ nhận thu nhập ngẫu nhiên và chỉ vay từ một chủ nợ độc quyền. Vì khoản vay là ngắn hạn, thực chất nó được thương lượng lại liên tục mỗi kỳ.
+
+Mỗi kỳ, hai bên thương lượng về hai thứ: khoản chuyển giao x trong kỳ và khoản vay mới m'. Điểm đe doạ của chính phủ là trả hết khoản nợ cũ m ngay lập tức. Lãi suất ngầm r được suy ra từ hệ thức x = m'/(1 + r) − m: chủ nợ đưa cho chính phủ giá trị hiện tại của khoản vay mới, trừ đi khoản nợ cũ. Trong phần này bài đặt θ = 0,5 và cho hệ số chiết khấu của chính phủ β = β_L, để tách riêng cơ chế thương lượng khỏi động cơ muốn vay trước của chính phủ nóng vội.
+
+Về hành vi, nền kinh tế giảm nợ khi thu nhập cao và nhận tiền từ chủ nợ khi thu nhập thấp. Chủ nợ dùng lãi suất để chiếm thặng dư, theo một chiến lược hai giai đoạn:
+
+| Tình trạng của con nợ | Lãi suất chủ nợ đặt ra | Lý do |
+|---|---|---|
+| Nợ thấp, thu nhập thấp | Trợ giá, thậm chí âm, khoảng −7% | Để kéo con nợ vào mức nợ cao |
+| Nợ cao | Tăng lên khoảng 5–15% | Trả hết trở nên khó, điểm đe doạ của con nợ yếu |
+
+Khi nợ tăng, lời đe doạ "trả hết" của con nợ kém đáng tin. Thặng dư của quan hệ tăng, nhưng đồng thời chủ nợ cũng mạnh hơn trong thương lượng. Hai điều này cộng lại làm hàm giá trị (lợi nhuận) của chủ nợ **lồi** theo quy mô khoản vay m: lợi nhuận tăng nhanh dần khi nợ tăng. Hệ quả là một chủ nợ trung tính với rủi ro lại hành xử như một người ưa rủi ro, mà bài gọi là "đánh cược vào tình trạng nợ đè nặng". Chủ nợ lỗ nếu thu nhập của con nợ hồi phục nhanh và con nợ trả hết trước khi chủ nợ kịp tăng lãi.
+
+Để đối chiếu: khi θ = 0, tức con nợ nắm hết sức mạnh thương lượng, lãi suất luôn bằng lãi phi rủi ro, không có trợ giá và cũng không có tăng lãi.
+
+Phần này cho hai bài học:
+
+1. Lãi suất do thương lượng tăng mạnh khi điểm đe doạ của con nợ trở nên đắt. Kết quả này không cần đến giả định "không thể vỡ nợ".
+2. Kỳ vọng thu được lợi nhuận sau này khiến chủ nợ đặt lãi thấp hôm nay, và vì vậy nợ tích tụ.
 
 ### 4. Mô hình đầy đủ
 
-- Chính phủ vay từ chủ nợ lớn và từ nhóm chủ nợ cạnh tranh. Vỡ nợ với nợ thị trường có thể xảy ra, chịu chi phí sản lượng chuẩn, còn khoản vay song phương thì không.
-- Buổi sáng, chính phủ quyết định vỡ nợ và phát hành; buổi chiều, thương lượng với chủ nợ lớn; sau đó tiêu dùng. Giá trái phiếu phản ánh kỳ vọng về cả quyết định vỡ nợ lẫn kết quả thương lượng.
-- Kênh quan trọng nhất là dòng tiền ròng từ thị trường, vốn điều chỉnh điểm đe doạ: sau một đợt phát hành lớn, chính phủ ở thế mạnh vì trả nợ song phương ít tốn kém.
+Trong mô hình đầy đủ, chính phủ vay từ hai nguồn: chủ nợ lớn và nhóm chủ nợ cạnh tranh trên thị trường. Chính phủ có thể vỡ nợ với nợ thị trường và khi đó chịu chi phí sản lượng theo cách chuẩn trong tài liệu; khoản vay song phương thì không thể vỡ nợ.
+
+**Trình tự trong một kỳ** (khi không vỡ nợ). Trạng thái đầu kỳ gồm nợ thị trường b, nợ song phương m và thu nhập z.
+
+1. **Buổi sáng:** chính phủ quyết định có vỡ nợ không, và nếu không thì phát hành trái phiếu, đưa nợ thị trường lên b'.
+2. **Buổi chiều:** chính phủ thương lượng với chủ nợ lớn, quyết định khoản chuyển giao x và khoản vay mới m'.
+3. Chính phủ tiêu dùng, và nền kinh tế bước sang kỳ sau với trạng thái (b', m', z').
+
+Giá trái phiếu phản ánh kỳ vọng của nhà đầu tư về cả quyết định vỡ nợ lẫn kết quả thương lượng trong tương lai.
+
+**Đặc điểm của nợ thị trường và vỡ nợ.**
+
+- Nợ thị trường là trái phiếu vĩnh viễn với coupon giảm dần theo tỷ lệ (1 − δ) mỗi kỳ; nhờ vậy mỗi kỳ chỉ một phần nhỏ đến hạn, giống nợ dài hạn.
+- Khi vỡ nợ, toàn bộ trái phiếu được xoá, chính phủ bị loại khỏi thị trường, quay lại thị trường với xác suất ψ mỗi kỳ, và trong thời gian bị loại chịu mất sản lượng ξ(z).
+- Bài thêm một cú sốc sở thích theo phân phối giá trị cực trị (Extreme Value) để xác suất vỡ nợ thay đổi trơn tru thay vì nhảy bậc, giúp giải mô hình.
+
+**Vay song phương khi đang vỡ nợ.** Bài xét hai phương án qua giới hạn m' ≤ Γ(m, z):
+
+- **Không hạn chế:** Γ = +∞, tức chính phủ vẫn vay được từ chủ nợ lớn trong lúc vỡ nợ với thị trường.
+- **Hạn chế:** Γ = 0, tức nếu vỡ nợ với thị trường thì phải trả hết cho chủ nợ lớn.
+
+**Điểm mấu chốt.** Dòng tiền ròng mà chính phủ thu từ thị trường trong kỳ là B(b', b, m, z) = q·(b' − (1 − δ)b) − κb, tức tiền bán trái phiếu mới trừ đi phần coupon phải trả. Dòng tiền này đi thẳng vào điểm đe doạ trong cuộc thương lượng buổi chiều. Nếu chính phủ vừa phát hành nhiều, họ có nhiều tiền mặt, trả hết m dễ dàng, nên ở thế mạnh và được lãi song phương thấp. Nếu chính phủ đang giảm nợ thị trường, tiền mặt ít, trả hết m khó, nên ở thế yếu và phải chịu lãi song phương cao.
 
 ### 5. Kết quả định lượng
 
-- Sự có mặt của chủ nợ lớn làm tăng mạnh tần suất vỡ nợ, chênh lệch cao hơn và biến động hơn, dù nợ thị trường thấp hơn đôi chút và khoản vay song phương khiêm tốn.
-- Khoản vay song phương dùng nhiều nhất quanh vỡ nợ. Trước vỡ nợ, nó được trợ giá để tránh hoặc hoãn vỡ nợ; khi vỡ nợ, lãi tăng vọt.
-- Khi cấm vay song phương trong lúc vỡ nợ, việc dùng khoản vay giảm hơn hai phần ba, vì phải trả hết khi vỡ nợ trở thành một chi phí vỡ nợ bổ sung. Khoản vay vẫn được dùng chủ yếu khi chênh lệch cao, và phúc lợi vẫn giảm dù ít hơn nhiều.
-- Ngay cả khi quyết định vỡ nợ kỳ tới gần như không đổi, giá nợ vẫn thấp hơn vì chính sách vay tương lai thay đổi, tăng pha loãng nợ. Nền kinh tế dành nhiều thời gian hơn ở vùng nợ rủi ro.
+**Hiệu chỉnh.** Mô hình theo quý. Phần lớn tham số lấy từ Roch và Roldán (2023), vốn được hiệu chỉnh để tái tạo vụ vỡ nợ của Argentina năm 2001.
+
+| Tham số | Giá trị |
+|---|---|
+| β, hệ số chiết khấu của chính phủ | 0,9504 |
+| γ, mức ngại rủi ro | 2 |
+| χ, độ lớn cú sốc sở thích | 0,025 |
+| θ, sức mạnh thương lượng của chủ nợ lớn | 0,5 |
+| r*, lãi suất phi rủi ro | 0,01 |
+| δ, tốc độ giảm coupon | 0,05 |
+| ρz và σz, độ bền và độ biến động của thu nhập | 0,9484 và 0,02 |
+| ψ, xác suất quay lại thị trường mỗi quý | 0,0385 |
+| d₀ và d₁, tham số chi phí vỡ nợ | −0,24 và 0,3 |
+
+**Kết quả chính.** Bảng dưới so sánh sáu kịch bản: chỉ có thị trường; có chủ nợ lớn không hạn chế với θ = 0,25 và θ = 0,5; có chủ nợ lớn bị hạn chế (cấm vay lúc vỡ nợ) với θ = 0,5; và hai quy tắc lãi suất cố định thay cho thương lượng (sẽ giải thích ở mục 6).
+
+| Chỉ tiêu | Chỉ thị trường | Không hạn chế, θ = 0,25 | Không hạn chế, θ = 0,5 | Hạn chế, θ = 0,5 | Quy tắc theo quy mô | Quy tắc kích rủi ro |
+|---|---|---|---|---|---|---|
+| Chênh lệch bình quân (điểm cơ bản) | 714 | 1.613 | 2.105 | 1.038 | 623 | 921 |
+| Độ lệch chuẩn chênh lệch (điểm cơ bản) | 399 | 927 | 1.331 | 612 | 315 | 552 |
+| Nợ thị trường/GDP (%) | 22,5 | 21,7 | 21,2 | 22,5 | 23,5 | 22,8 |
+| Vay song phương/GDP (%) | 0 | 3,4 | 3,02 | 1,06 | 0,71 | 0,97 |
+| Chênh lệch lãi vay song phương (điểm cơ bản) | không có | −52,5 | −429 | 536 | 682 | 1.264 |
+| Tương quan giữa vay song phương và chênh lệch (%) | không có | 61,7 | 67,5 | 71,1 | 62,5 | 48,1 |
+| Tần suất vỡ nợ (%) | 5,72 | 11 | 13 | 7,72 | 5,13 | 6,92 |
+| Phúc lợi so với chỉ thị trường | không có | −0,15% | −0,43% | −0,2% | +0,21% | −0,079% |
+
+Đọc bảng theo năm ý:
+
+1. Khoản vay song phương nhỏ, khoảng 3% GDP, thấp hơn nợ thị trường một bậc độ lớn, nhưng làm tần suất vỡ nợ **gấp đôi** (từ 5,72% lên 13%) và chênh lệch lợi suất **gấp ba** (từ 714 lên 2.105 điểm cơ bản). Chênh lệch cũng biến động hơn nhiều, dù nợ thị trường thấp hơn đôi chút (21,2% so với 22,5%).
+2. Kể cả khi chính phủ có sức mạnh thương lượng khá (θ = 0,25), họ vẫn thiệt (−0,15%). Tức là chính phủ thà **không có** chủ nợ lớn.
+3. Cấm vay song phương trong lúc vỡ nợ làm lượng vay giảm hơn hai phần ba (từ 3,02% xuống 1,06% GDP) và thiệt hại phúc lợi giảm khoảng một nửa (từ −0,43% còn −0,2%), nhưng phúc lợi **vẫn âm**.
+4. Thay thương lượng bằng quy tắc lãi suất tăng theo quy mô khoản vay song phương làm vỡ nợ và chênh lệch **thấp hơn cả khi chỉ có thị trường** (5,13% so với 5,72%; 623 so với 714 điểm cơ bản). Chính phủ được lợi (+0,21%) và chủ nợ vẫn có lãi vì lãi suất không bao giờ thấp hơn r*.
+5. Quy tắc lãi suất giảm khi nợ thị trường tăng ("kích rủi ro") tái tạo gần đúng kết quả của thương lượng và gây thiệt (−0,079%).
+
+**Vì sao khoản vay nhỏ lại có tác động lớn.** Nợ thị trường là dài hạn, nên mỗi kỳ chính phủ chỉ phải trả một phần nhỏ. Khoản vay song phương là ngắn hạn, nên mỗi kỳ phải trả hay tái tục **toàn bộ**. Vì vậy, một thay đổi lãi suất trên khoản vay song phương tác động lên ngân sách kỳ này ngang với một thay đổi lãi suất trên một khối nợ thị trường lớn hơn nhiều lần. Ví dụ minh hoạ: nếu nợ thị trường là 21% GDP và mỗi quý chỉ khoảng 5% số đó đến hạn (khoảng 1% GDP), thì khoản vay song phương 3% GDP phải tái tục toàn bộ lại lớn gấp ba phần nợ thị trường phải tái cấp vốn trong quý.
+
+**Quanh các lần vỡ nợ.** Khoản vay song phương được dùng nhiều nhất quanh thời điểm vỡ nợ. Trong kịch bản không hạn chế (giá trị ước đọc từ hình):
+
+| | Khoảng 2 năm trước vỡ nợ | Lúc vỡ nợ và sau đó |
+|---|---|---|
+| Vay song phương (% thu nhập năm) | khoảng 3,4% | khoảng 5,5% |
+| Lãi suất song phương | khoảng −1% đến 0 | khoảng 19–20% |
+
+Trước vỡ nợ, chính phủ dùng khoản vay song phương để tránh hoặc hoãn vỡ nợ, và khoản vay được trợ giá. Cần lưu ý rằng bức tranh này chỉ gồm những lần vỡ nợ thực sự xảy ra, không cho thấy những lần vỡ nợ đã được tránh nhờ khoản vay. Khi vỡ nợ, lãi suất song phương vọt lên, và chủ nợ thu lời trong suốt thời gian chính phủ bị loại khỏi thị trường. Khi chính phủ quay lại thị trường, việc đầu tiên là phát hành trái phiếu ngay để trả hết khoản vay song phương đắt đỏ. Như vậy, khi cho vay lúc vỡ nợ, chủ nợ đang cược rằng thu nhập của con nợ **không** hồi phục nhanh và thời gian bị loại khỏi thị trường kéo dài.
+
+**Khi cấm vay song phương lúc vỡ nợ.** Lượng vay giảm hơn hai phần ba, vì việc phải trả hết khi vỡ nợ trở thành một chi phí vỡ nợ bổ sung, khiến chính phủ dè dặt hơn. Khoản vay vẫn được dùng chủ yếu khi chênh lệch cao, và phúc lợi vẫn giảm, dù ít hơn nhiều.
+
+**Giá nợ và vùng vỡ nợ** (giá trị ước đọc từ hình):
+
+- **Mức nợ tại đó xác suất vỡ nợ vượt 50%:** khi chỉ có thị trường hoặc khi bị hạn chế, ngưỡng này đi từ khoảng 17% GDP (thu nhập thấp) tới khoảng 39% GDP (thu nhập cao). Khi không hạn chế, ngưỡng thấp hơn khoảng 1–2 điểm phần trăm, tức nền kinh tế gánh được ít nợ hơn.
+- **Giá trái phiếu q khi mức nợ mới b' thấp:** khoảng 0,88 khi chỉ có thị trường, khoảng 0,81 khi bị hạn chế, và chỉ khoảng 0,69 khi không hạn chế.
+
+Điểm tinh tế là phương án hạn chế gần như không thay đổi quyết định vỡ nợ trong kỳ tới, **nhưng giá trái phiếu vẫn thấp hơn**. Lý do là chính sách vay mượn trong tương lai thay đổi: nhà đầu tư dự kiến chính phủ sẽ vay nhiều hơn về sau, làm pha loãng giá trị của trái phiếu họ đang mua.
+
+- **Phân bố dài hạn của nợ trên GDP:** khi có vay song phương (cả hai phương án), nền kinh tế ở lâu hơn trong vùng nợ cao, nơi rủi ro vỡ nợ lớn; đỉnh của phân bố dời từ khoảng 24% sang khoảng 27–28% GDP.
+- **Chính phủ muốn tự trói tay:** so sánh hàm giá trị cho thấy chính phủ muốn việc vay song phương lúc vỡ nợ bị cấm, trừ khi họ sắp vỡ nợ ngay trong kỳ này.
 
 ### 6. Lập trình cho chủ nợ lớn
 
-- Bài thay thương lượng bằng quy tắc lãi cố định dạng tuyến tính theo nợ thị trường và khoản vay song phương, có sàn ở lãi phi rủi ro nên chủ nợ không lỗ.
-- Quy tắc kích rủi ro, trong đó lãi giảm khi nợ thị trường tăng, tái tạo động thái của thương lượng và gây thiệt.
-- Quy tắc phụ thuộc quy mô, trong đó lãi tăng theo khoản vay song phương và không gắn với nợ thị trường, làm vỡ nợ và chênh lệch thấp hơn, cải thiện phúc lợi chính phủ trong khi chủ nợ vẫn có lợi nhuận, tức là một cải thiện Pareto.
+**Vay quá mức do quan hệ: cơ chế.** Trước khi đến các quy tắc, cần hiểu vì sao thương lượng gây hại ngay cả khi đã cấm vay lúc vỡ nợ.
+
+Lợi nhuận của chủ nợ lớn thay đổi theo mức nợ thị trường b. Khi rủi ro còn vừa phải, lợi nhuận **tăng** theo b: nợ thị trường cao hơn thì chênh lệch rộng hơn, chủ nợ lớn có giá trị hơn với chính phủ, và thặng dư để chia lớn hơn. Khi nợ quá cao, hai phương án tách ra: nếu bị hạn chế, lợi nhuận **giảm**, vì vỡ nợ thì chính phủ phải trả hết m và chủ nợ mất quan hệ; nếu không hạn chế, lợi nhuận **tăng vọt**, vì chủ nợ thu được nhiều trong lúc vỡ nợ. Khi nợ ở mức an toàn, chủ nợ chẳng có gì hơn thị trường để "bán".
+
+Trong phương án hạn chế, lãi suất song phương phụ thuộc mạnh vào mức nợ thị trường mới b' (giá trị ước đọc): khi b' gần 0, lãi khoảng 8–15%; khi b' từ khoảng 0,7 trở lên, lãi gần 0%. Tức là lãi song phương **giảm mạnh khi nợ thị trường tăng**.
+
+Phương trình Euler (điều kiện tối ưu khi phát hành thêm một trái phiếu) cho thấy hệ quả:
+
+- **Chỉ có thị trường:** lợi ích biên của thêm một trái phiếu là u'(c)·(q + ∂q/∂b'·i). Vì ∂q/∂b' < 0 (vay thêm thì giá trái phiếu giảm), số hạng này là **kỷ luật của chênh lệch**: chính phủ phải chịu ngay cái giá của việc vay nhiều.
+- **Có chủ nợ lớn:** lợi ích biên trở thành u'(c)·(q + ∂q/∂b'·i + ∂x/∂b'). Số hạng mới ∂x/∂b' > 0 nghĩa là vay nhiều hơn trên thị trường thì được chủ nợ lớn chuyển cho nhiều hơn, rẻ hơn.
+
+Độ co giãn chéo nội sinh này, tức điều khoản song phương tốt lên khi nợ thị trường tăng, **đối trọng với kỷ luật thị trường**. Chính phủ vay nhiều hơn, giảm đòn bẩy chậm hơn, dẫn tới vỡ nợ nhiều hơn, chênh lệch cao hơn và phúc lợi thấp hơn. Ngoài ra, khoản vay song phương m' cũng thay đổi theo b', và điều này ảnh hưởng tới giá trái phiếu q' và khoản chuyển giao x' của kỳ sau theo quy tắc dây chuyền.
+
+**Quy tắc thay cho thương lượng.** Bài thay thương lượng bằng một quy tắc lãi suất cố định, tuyến tính theo nợ thị trường và khoản vay song phương, có sàn ở lãi phi rủi ro để chủ nợ không bao giờ lỗ:
+
+r(b', m') = max{r*, α₀ + α_b·b' + α_m·m'}
+
+| Dạng quy tắc | Kết quả |
+|---|---|
+| **Kích rủi ro:** α_b < 0, lãi giảm khi nợ thị trường tăng | Tái tạo động thái của thương lượng, kích thích vay quá mức, gây thiệt |
+| **Phụ thuộc quy mô:** α_m > 0 và α_b = 0, lãi tăng theo quy mô khoản vay song phương, không gắn với nợ thị trường | Vỡ nợ ít hơn, chênh lệch thấp hơn, có lợi cho cả hai bên |
+
+Quy tắc phụ thuộc quy mô cải thiện phúc lợi của chính phủ trong khi chủ nợ vẫn có lợi nhuận. Đây là một **cải thiện Pareto**: có người lợi mà không ai thiệt.
+
+**Phép thử đơn giản cho nhà hoạch định chính sách.** Hãy hỏi: điều khoản song phương có **tốt lên** khi nợ hoặc chênh lệch lợi suất thị trường tăng không? Nếu có, đó là dấu hiệu của vay quá mức do quan hệ và khoản vay nhiều khả năng gây hại phúc lợi. Nếu điều khoản tốt lên khi nợ **thấp**, chủ nợ đang hỗ trợ bền vững nợ.
 
 ### 7. Kết luận
 
-- Hai nguồn vốn liên kết chặt dù khoản vay từ chủ nợ lớn nhỏ hơn nợ thị trường một bậc độ lớn.
-- Độ co giãn chéo tự nó đủ để khuyến khích vay quá mức, tăng rủi ro và giảm phúc lợi. Thiệt hại có thể xảy ra ngay cả khi chính phủ được tự do không vay nếu điều khoản không đủ hấp dẫn.
-- Có thêm nguồn vay không nhất thiết có lợi: khoản vay song phương có thể giúp tránh vỡ nợ, nhưng cũng có thể làm vỡ nợ dễ xảy ra hơn.
-- Chính sách gợi ý: hạn chế vay song phương khi vỡ nợ, dùng quy tắc tài khoá hạn chế vay thị trường, và quy định điều khoản song phương minh bạch theo quy tắc.
+Hai nguồn vốn, thị trường và chủ nợ lớn, liên kết chặt với nhau, dù khoản vay từ chủ nợ lớn nhỏ hơn nợ thị trường một bậc độ lớn.
+
+Riêng độ co giãn chéo của điều khoản song phương theo nợ thị trường đã đủ để khuyến khích vay quá mức, tăng rủi ro và giảm phúc lợi. Thiệt hại có thể xảy ra ngay cả khi chính phủ được tự do không vay nếu điều khoản không đủ hấp dẫn. Có thêm một nguồn vay vì thế không nhất thiết có lợi: khoản vay song phương có thể giúp tránh vỡ nợ, nhưng cũng có thể khiến vỡ nợ dễ xảy ra hơn.
+
+Ba hàm ý chính sách:
+
+1. Hạn chế vay song phương trong lúc vỡ nợ sẽ tăng phúc lợi. Điều này khớp với chính sách Bảo đảm Tài trợ và Nợ quá hạn của IMF.
+2. Quy tắc tài khoá hạn chế vay trên thị trường càng có lợi với những nước tiếp cận được loại nợ song phương này, vì nó thay thế phần kỷ luật thị trường đã bị bào mòn.
+3. Điều khoản song phương minh bạch, theo quy tắc định sẵn, tốt hơn đàm phán bí mật.
+
+Bài nhấn mạnh rằng tranh luận chính sách thường chỉ nhìn vào **giá** của khoản vay song phương và **vị thế ưu tiên** của chủ nợ. Theo mô hình, thiệt hại chính lại đến từ **động cơ lệch lạc** mà quan hệ thương lượng tạo ra cho chính phủ đi vay, và thiệt hại này xảy ra kể cả khi chính phủ có quyền từ chối vay nếu điều khoản không hấp dẫn.
 
 ## Thuật ngữ
 
