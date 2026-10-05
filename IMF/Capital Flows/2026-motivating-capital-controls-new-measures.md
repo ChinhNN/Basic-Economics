@@ -315,78 +315,269 @@
 2. Vì sao các chỉ số đếm thay đổi luôn cho thấy tự do hoá mạnh hơn các chỉ số đo mức?
 3. Các nước áp và gỡ kiểm soát vốn vì những động cơ gì?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Kiểm soát vốn (capital controls).** Các quy định của nhà nước hạn chế việc tiền đi vào hoặc đi ra khỏi một nước cho mục đích đầu tư: cấm hoặc giới hạn người nước ngoài mua cổ phiếu trong nước, buộc doanh nghiệp đem ngoại tệ thu được về nước, cấm người dân mở tài khoản ở nước ngoài. Ví dụ minh hoạ: một nước quy định người dân chỉ được chuyển ra nước ngoài tối đa 50.000 USD mỗi năm để đầu tư; đó là một kiểm soát dòng vốn ra. Bài dùng chữ "kiểm soát vốn" thay vì "biện pháp quản lý dòng vốn" của IMF vì định nghĩa trong cơ sở dữ liệu nguồn khác với định nghĩa trong chính sách của IMF.
+
+**Dòng vốn vào và dòng vốn ra (inflows / outflows).** Dòng vào là tiền người nước ngoài đưa vào trong nước (xây nhà máy, mua trái phiếu, cho vay); dòng ra là tiền người trong nước đưa ra ngoài. Theo quy ước cán cân thanh toán, khi người nước ngoài rút tiền về thì đó được ghi là dòng vào mang dấu âm. Ví dụ trong bài: khi Iceland khủng hoảng năm 2008, việc cấm nhà đầu tư nước ngoài rút vốn làm chỉ số hạn chế dòng vào tăng, dù nghe như một biện pháp về dòng ra. Bài đo riêng hai chiều vì các nước đối xử với chúng rất khác nhau.
+
+**AREAER.** Báo cáo Thường niên về Cơ chế và Hạn chế Hối đoái của IMF, mỗi năm mô tả chi tiết quy định ngoại hối và giao dịch vốn của từng nước thành viên, kèm một bảng ghi lại mọi thay đổi trong năm với ngày hiệu lực. Ví dụ: trong bài, báo cáo này cho dữ liệu của 190 nước từ 1999 đến 2022. Cả hai chỉ số mới đều được xây từ báo cáo này, và nhóm tác giả là chính những người biên soạn nó.
+
+**Chỉ tiêu nhị phân (binary indicator).** Một ô chỉ có hai giá trị: "có hạn chế" hoặc "không có hạn chế", không phân biệt nặng hay nhẹ. Ví dụ minh hoạ: một nước nâng hạn mức người nước ngoài được mua cổ phần ngân hàng từ 30% lên 49%; hạn chế vẫn còn nên ô vẫn là "có". Đây là lý do một chỉ số đo mức (FARI) không thấy được tự do hoá từng phần, trong khi một chỉ số đếm thay đổi (ACI) thì thấy.
+
+**Chỉ số dựa trên sự tồn tại và chỉ số dựa trên thay đổi.** Loại thứ nhất hỏi "hiện có bao nhiêu phần trăm hạng mục bị hạn chế"; loại thứ hai hỏi "trong kỳ này đã có bao nhiêu lần nới hay siết". Ví dụ minh hoạ: một nước có 10 trong 50 hạng mục bị hạn chế thì chỉ số mức là 0,2; nếu năm đó nước ấy nới ba lần nhưng không xoá hẳn hạng mục nào, chỉ số mức vẫn là 0,2 còn chỉ số đếm ghi ba lần nới. Toàn bộ phát hiện trung tâm của bài đến từ việc đặt hai loại này cạnh nhau.
+
+**Bộ ba bất khả thi (impossible trinity).** Một nước không thể cùng lúc có ba thứ: tỷ giá cố định, vốn tự do di chuyển và chính sách tiền tệ độc lập; chỉ chọn được tối đa hai. Ví dụ: nước neo cứng tỷ giá và muốn tự đặt lãi suất thì phải đóng tài khoản vốn; nước để vốn tự do và tự đặt lãi suất thì phải thả nổi tỷ giá. Bài dùng logic này để giải thích vì sao nước theo chế độ tỷ giá trung gian lại điều chỉnh kiểm soát vốn thường xuyên nhất.
+
+**Phản chu kỳ (countercyclical), khoảng cách sản lượng và khoảng cách tín dụng.** Chính sách phản chu kỳ là siết khi kinh tế quá nóng và nới khi kinh tế nguội. Khoảng cách sản lượng (*output gap*) là phần chênh giữa sản lượng thực tế và mức xu hướng; khoảng cách tín dụng (*credit gap*) là phần chênh của tỷ lệ tín dụng trên GDP so với xu hướng. Ví dụ minh hoạ: nếu sản lượng xu hướng là 100 và thực tế là 103, khoảng cách sản lượng là +3%, tức kinh tế đang nóng. Bài kiểm tra xem các nước có siết dòng vốn vào khi các khoảng cách này dương hay không.
+
+**Mô hình probit và hiệu ứng cố định.** Probit là mô hình ước lượng xác suất một sự kiện có hay không xảy ra, ở đây là "quý này có ít nhất một lần siết hay không". Hiệu ứng cố định nước nghĩa là mỗi nước được so với chính nó qua thời gian, nên những đặc điểm không đổi của từng nước bị loại ra. Ví dụ: hệ số 0,979 của biến COVID trong phương trình siết dòng vào ở nước tiên tiến cho biết thời kỳ COVID gắn với xác suất siết cao hơn. Hệ quả quan trọng của hiệu ứng cố định là nước nào không có thay đổi nào thì không đóng góp gì vào ước lượng, và đó là giới hạn lớn nhất của bài.
+
+## Nội dung chi tiết
 
 ### 1. Bối cảnh và bốn đóng góp
 
-- Kiểm soát vốn từ lâu là một phần trong bộ công cụ chính sách. Các nước gỡ hạn chế dòng vào để thu hút đầu tư nước ngoài khi vốn trong nước khan hiếm, nhưng đôi khi áp lại khi dòng vào lớn gây lên giá tỷ giá và làm giảm sức cạnh tranh. Việc gỡ kiểm soát dòng ra cho phép người cư trú đa dạng hoá danh mục, song nhà hoạch định thường ủng hộ kiểm soát dòng ra khi đối mặt tháo chạy vốn do chính sách vĩ mô thiếu nhất quán, chính sách khu vực tài chính bất cập hoặc bất ổn chính trị.
-- Về cơ sở lý thuyết, bài dẫn các lập luận về ngoại ứng tiền tệ gây vay mượn quá mức, bong bóng giá tài sản và nền kinh tế quá nóng. Điểm chung là cá nhân không nội hoá phần đóng góp của mình vào hiệu ứng khuếch đại tài chính. Cũng có lập luận Keynes quen thuộc về tính tự chủ của chính sách tiền tệ, và lập luận của Rey rằng khi vốn tự do di chuyển thì Chu kỳ Tài chính Toàn cầu ràng buộc chính sách tiền tệ quốc gia bất kể chế độ tỷ giá.
-- Bài nêu rõ lý do dùng thuật ngữ kiểm soát vốn thay vì biện pháp quản lý dòng vốn: định nghĩa hạn chế giao dịch vốn trong cơ sở dữ liệu AREAER khác với khái niệm mà IMF dùng trong Quan điểm Thể chế.
-- Bốn đóng góp được nêu. Thứ nhất, đáp lại lời kêu gọi năm 2020 của Văn phòng Đánh giá Độc lập của IMF về việc xây chỉ số dựa trên AREAER, bài cung cấp hai chỉ số phủ toàn bộ 190 thành viên ở tần suất tháng và quý. Thứ hai, bài đưa ra một bộ sự thật cách điệu mới. Thứ ba, bài cung cấp bằng chứng rằng các nước dùng kiểm soát vốn một cách cơ hội. Thứ tư, bài làm sáng tỏ một bất đồng thực nghiệm trong tài liệu về việc kiểm soát vốn có được dùng theo chu kỳ hay không.
-- Một điểm đáng chú ý về tính chính danh: nhóm tác giả là những người đã làm việc sâu với bản cập nhật hàng năm và với việc phát triển cơ sở dữ liệu AREAER, nên đây là bộ chỉ số đầu tiên do chính nhóm biên soạn xây dựng.
+Kiểm soát vốn từ lâu đã là một phần của bộ công cụ chính sách, và các nước dùng nó theo cả hai chiều. Ở chiều dòng vào, khi vốn trong nước khan hiếm, các nước gỡ hạn chế để thu hút đầu tư nước ngoài; nhưng khi dòng vào quá lớn làm đồng tiền lên giá và hàng xuất khẩu mất sức cạnh tranh, họ có thể áp lại. Ở chiều dòng ra, gỡ kiểm soát cho phép người dân và doanh nghiệp trong nước đa dạng hoá tài sản ra nước ngoài; nhưng khi đối mặt với tháo chạy vốn do chính sách vĩ mô thiếu nhất quán, chính sách khu vực tài chính bất cập hoặc bất ổn chính trị, nhà hoạch định thường ủng hộ việc siết dòng ra.
+
+Về lý thuyết, bài dẫn ba nhóm lập luận ủng hộ kiểm soát vốn:
+
+- **Ngoại ứng tài chính.** Dòng vốn tự do có thể gây vay mượn quá mức, bong bóng giá tài sản và nền kinh tế quá nóng. Điểm chung của các lập luận này là mỗi cá nhân khi vay hay đầu tư không tính đến phần mình góp vào hiệu ứng khuếch đại chung của cả hệ thống, nên tổng thể vay quá nhiều so với mức tốt cho xã hội.
+- **Tự chủ chính sách tiền tệ** theo lập luận quen thuộc của Keynes: hạn chế dòng vốn giúp ngân hàng trung ương đặt lãi suất theo tình hình trong nước.
+- **Chu kỳ Tài chính Toàn cầu** theo lập luận của Rey: khi vốn tự do di chuyển, các làn sóng rủi ro toàn cầu ràng buộc chính sách tiền tệ của từng nước bất kể nước đó theo chế độ tỷ giá nào.
+
+Bài giải thích vì sao dùng thuật ngữ "kiểm soát vốn" thay vì "biện pháp quản lý dòng vốn": định nghĩa hạn chế giao dịch vốn trong cơ sở dữ liệu AREAER khác với khái niệm mà IMF dùng trong Quan điểm Thể chế (khung chính sách chính thức của IMF về tự do hoá và quản lý dòng vốn).
+
+Bài nêu bốn đóng góp:
+
+1. Đáp lại lời kêu gọi năm 2020 của Văn phòng Đánh giá Độc lập của IMF về việc xây chỉ số dựa trên AREAER, bài cung cấp hai chỉ số phủ toàn bộ 190 thành viên ở tần suất tháng và quý.
+2. Bài đưa ra một bộ sự thật cách điệu (những quy luật thực nghiệm nổi bật) mới về cách các nước dùng kiểm soát vốn.
+3. Bài cung cấp bằng chứng rằng các nước dùng kiểm soát vốn một cách cơ hội, tức là tuỳ theo hoàn cảnh kinh tế lúc đó.
+4. Bài làm sáng tỏ một bất đồng thực nghiệm trong tài liệu về việc kiểm soát vốn có được dùng theo chu kỳ hay không.
+
+Một điểm về tính chính danh: nhóm tác giả là những người đã làm việc sâu với bản cập nhật hàng năm và việc phát triển cơ sở dữ liệu AREAER. Đây là bộ chỉ số đầu tiên do chính nhóm biên soạn báo cáo xây dựng, nên họ hiểu rõ từng nhãn trong dữ liệu có nghĩa gì và thay đổi ra sao qua các ấn bản.
 
 ### 2. Thiết kế FARI
 
-- FARI là tỷ lệ số nhãn có trên tổng số nhãn có và không trong tập hạng mục đã xác định, thang từ 0 tới 1 với giá trị cao hơn nghĩa là hạn chế hơn. Các trạng thái không có thông tin hoặc không được quản lý bị loại khỏi cả tử số lẫn mẫu số.
-- Điểm cải thiện quan trọng nhất so với các chỉ số cũ là phạm vi. Ngoài các hạng mục danh mục và đầu tư trực tiếp tiêu chuẩn, FARI bao gồm cả khả năng người không cư trú mở và vận hành tài khoản ngoại tệ hoặc nội tệ trong nước, khả năng người cư trú giữ tài khoản ở nước ngoài, cùng yêu cầu hồi hương và nộp lại. Đây là những giao dịch thường bị kiểm soát để hạn chế dòng vốn di chuyển nhanh hoặc để bảo đảm hiệu lực của các kiểm soát khác, nhưng bị các chỉ số hiện có bỏ qua.
-- Một số hạng mục về ngân hàng thương mại cũng được đưa vào, đặc biệt là đối xử phân biệt với tiền gửi của người không cư trú, vì biện pháp như áp yêu cầu dự trữ cao hơn cho tiền gửi phi cư trú có thể hạn chế dòng vốn xuyên biên giới. Nhưng các hạng mục khác của khu vực tài chính được loại để tránh trùng lặp, vì theo hướng dẫn biên soạn AREAER thì kiểm soát với ngân hàng và định chế phi ngân hàng đã được ghi nhận trong phần giao dịch vốn.
-- Hai điều chỉnh kỹ thuật đáng chú ý. Năm 2005 có sáng kiến hài hoà AREAER với Bộ luật Tự do hoá Di chuyển Vốn của OECD, khiến nhiều hạn chế dòng ra vốn đã tồn tại từ lâu mới được đưa vào, tạo bước nhảy giả trong chuỗi thời gian cho riêng các nước OECD. FARI sửa ngược các giá trị giai đoạn 1999 tới 2005 để xoá đứt gãy nhân tạo này.
-- Điều chỉnh thứ hai là việc nội suy sang tần suất tháng. Chỉ số dùng ngày chốt số liệu ghi ở đầu mỗi chương quốc gia, đối chiếu chéo với bảng ghi chép thay đổi để xác định chính xác tháng xảy ra chuyển trạng thái. Tổng cộng 531 ngày hiệu lực được nhận diện và sử dụng. Bài giải thích vì sao điều này quan trọng: nếu chỉ dựa vào giá trị công bố hàng năm thì ta sẽ so sánh mức hạn chế giữa các nước tại những thời điểm khác nhau, vì các nước báo cáo với ngày chốt khác nhau.
-- Một số hạng mục có ý nghĩa đảo ngược, cụ thể là các hạng mục về tài khoản của người cư trú và không cư trú, nơi nhãn có nghĩa là giao dịch được phép. Các giá trị này được đảo lại trước khi tính chỉ số.
+FARI (Chỉ số Hạn chế Tài khoản Tài chính) trả lời câu hỏi **"hạn chế đến đâu?"**. Cách tính: trong tập hạng mục đã chọn, lấy số nhãn "có" (có hạn chế) chia cho tổng số nhãn "có" và "không". Kết quả nằm trên thang từ 0 tới 1, giá trị càng cao nghĩa là càng hạn chế. Những ô ghi "không có thông tin" hoặc "không được quản lý" bị loại khỏi cả tử số lẫn mẫu số, để thiếu dữ liệu không làm chỉ số trông mở hơn hay đóng hơn. Ví dụ minh hoạ: nếu trong 56 hạng mục có 50 ô có thông tin và 20 ô ghi "có", FARI bằng 20/50 = 0,4.
+
+Phạm vi của FARI như sau:
+
+| Đặc điểm | Giá trị |
+|---|---|
+| Tổng số hạng mục | 56 |
+| Hạng mục về dòng vào | 30 |
+| Hạng mục về dòng ra | 26 |
+| Số nước | 190 |
+| Giai đoạn | 1999–2022 |
+| Tần suất | tháng, quý, năm |
+
+FARI còn được tách thành bốn tiểu chỉ số theo các khoản mục của cán cân thanh toán:
+
+| Tiểu chỉ số | Số hạng mục |
+|---|---|
+| Đầu tư trực tiếp | 6 |
+| Đầu tư danh mục | 16 |
+| Phái sinh | 4 |
+| Đầu tư khác | 30 |
+
+Điểm cải thiện quan trọng nhất so với các chỉ số cũ là **phạm vi**. Ngoài các hạng mục tiêu chuẩn về đầu tư danh mục và đầu tư trực tiếp, FARI bao gồm:
+
+- khả năng người không cư trú mở và vận hành tài khoản ngoại tệ hoặc nội tệ trong nước;
+- khả năng người cư trú giữ tài khoản ở nước ngoài;
+- yêu cầu hồi hương (đem ngoại tệ thu được về nước) và nộp lại (bán ngoại tệ đó cho ngân hàng trong nước).
+
+Đây là những giao dịch thường bị kiểm soát, hoặc để chặn dòng vốn di chuyển nhanh, hoặc để bảo đảm các kiểm soát khác có hiệu lực (không có tài khoản ở nước ngoài thì khó lách các hạn chế đầu tư). Thế nhưng các chỉ số sẵn có lại bỏ qua chúng.
+
+Một số hạng mục về ngân hàng thương mại cũng được đưa vào, đặc biệt là đối xử phân biệt với tiền gửi của người không cư trú. Ví dụ, áp tỷ lệ dự trữ bắt buộc cao hơn cho tiền gửi của người nước ngoài làm việc giữ tiền ở ngân hàng trong nước kém hấp dẫn, tức là hạn chế dòng vốn xuyên biên giới. Các hạng mục khác của khu vực tài chính thì bị loại để tránh đếm trùng, vì theo hướng dẫn biên soạn AREAER, kiểm soát áp lên ngân hàng và định chế phi ngân hàng đã được ghi trong phần giao dịch vốn.
+
+Có hai điều chỉnh kỹ thuật đáng chú ý.
+
+**Sửa đứt gãy năm 2005.** Năm 2005, AREAER được hài hoà với Bộ luật Tự do hoá Di chuyển Vốn của OECD. Việc này khiến nhiều hạn chế dòng ra đã tồn tại từ lâu ở các nước OECD lần đầu được ghi vào dữ liệu, tạo ra một bước nhảy giả: nhìn chuỗi số thì tưởng các nước này đột nhiên siết, trong khi thực tế không có gì thay đổi. FARI sửa ngược các giá trị giai đoạn 1999–2005, mỗi năm điều chỉnh từ 113 tới 128 hạng mục, để xoá đứt gãy nhân tạo này.
+
+**Nội suy sang tần suất tháng.** Mỗi chương quốc gia trong AREAER có một ngày chốt số liệu riêng. Bài dùng ngày chốt đó, đối chiếu chéo với bảng ghi chép thay đổi, để xác định chính xác tháng mà một hạng mục chuyển trạng thái. Tổng cộng 531 ngày hiệu lực được nhận diện và sử dụng. Bước này quan trọng vì các nước báo cáo với ngày chốt khác nhau; nếu chỉ dùng giá trị công bố hàng năm, ta sẽ vô tình so mức hạn chế của nước này vào tháng 3 với nước kia vào tháng 12.
+
+Cuối cùng, một số hạng mục có nghĩa đảo ngược, cụ thể là các hạng mục về tài khoản của người cư trú và không cư trú, nơi nhãn "có" nghĩa là giao dịch **được phép**. Các giá trị này được đảo lại trước khi tính chỉ số để mọi nhãn "có" đều cùng nghĩa là hạn chế.
 
 ### 3. Thiết kế ACI
 
-- ACI đếm số biện pháp mới đối với giao dịch vốn trong một giai đoạn cho một nước, lấy từ bảng ghi chép thay đổi ở cuối mỗi chương quốc gia, nơi có ngày hiệu lực chính xác và mô tả ngắn.
-- Mỗi thay đổi được phân loại theo chiều nới, siết hoặc trung tính, rồi theo việc ảnh hưởng tới dòng vào, dòng ra hay cả hai. Các biện pháp chỉ đơn thuần được gia hạn được gắn nhãn trung tính để tránh đếm trùng.
-- Có một vấn đề kỹ thuật cần xử lý: từ ấn bản 2017, bảng thay đổi báo cáo theo từng phân mục thay vì gộp dưới tiêu đề mục như trước. Nếu không xử lý, số thay đổi sau 2016 sẽ bị thổi phồng. Bài nhận diện các thay đổi trùng lặp cho giai đoạn từ 2016 trở đi và tổ chức lại theo cách cũ để giữ chuỗi thời gian nhất quán.
-- So sánh với Pasricha và cộng sự năm 2018 cho thấy xu hướng tổng thể khá tương đồng. Có năm nghiên cứu đó ghi nhận nhiều thay đổi hơn nhờ bổ sung nguồn ngoài AREAER, nhưng cũng có năm ACI ghi nhận nhiều hơn.
-- Bài cũng nêu một điểm phòng thủ hợp lý về việc dùng ngày hiệu lực thay vì ngày công bố. Khi kiểm soát vốn được siết, chúng thường có hiệu lực ngay trong ngày công bố để hạn chế việc chạy trước, nên lo ngại về phản ứng thị trường giữa hai thời điểm là không đáng kể.
+ACI (Chỉ số Thay đổi của AREAER) trả lời câu hỏi khác: **"có động tĩnh gì?"**. Nó đếm số biện pháp mới đối với giao dịch vốn của một nước trong một giai đoạn, lấy từ bảng ghi chép thay đổi ở cuối mỗi chương quốc gia, nơi mỗi thay đổi có ngày hiệu lực chính xác và một mô tả ngắn. ACI cũng có ở tần suất tháng, quý và năm.
+
+Mỗi thay đổi được phân loại theo hai chiều:
+
+- theo hướng: **nới**, **siết** hoặc **trung tính**; các biện pháp chỉ được gia hạn được gắn nhãn trung tính để không bị đếm trùng như một lần siết mới;
+- theo đối tượng: ảnh hưởng dòng vào, dòng ra hay cả hai.
+
+Trong giai đoạn 1999–2022, tổng số thay đổi được ghi nhận là:
+
+| Loại thay đổi | Số lần |
+|---|---|
+| Nới | 3.968 |
+| Siết | 1.392 |
+| Trung tính | 771 |
+
+Có một vấn đề kỹ thuật cần xử lý. Từ ấn bản 2017, bảng thay đổi báo cáo theo từng phân mục thay vì gộp dưới tiêu đề mục như trước. Nếu để nguyên, một thay đổi trước đây được đếm một lần nay có thể bị đếm nhiều lần, và số thay đổi sau năm 2016 sẽ bị thổi phồng. Bài nhận diện các thay đổi trùng lặp từ năm 2016 trở đi và tổ chức lại theo cách cũ để giữ chuỗi thời gian nhất quán.
+
+So với cơ sở dữ liệu của Pasricha và cộng sự năm 2018, xu hướng tổng thể của ACI khá tương đồng. Có năm nghiên cứu kia ghi nhận nhiều thay đổi hơn nhờ bổ sung nguồn ngoài AREAER, nhưng cũng có năm ACI ghi nhận nhiều hơn.
+
+Bài cũng giải thích vì sao dùng ngày hiệu lực thay vì ngày công bố. Một lo ngại có thể có là thị trường phản ứng ngay từ lúc công bố, trước khi biện pháp có hiệu lực. Nhưng khi kiểm soát vốn được siết, chúng thường có hiệu lực ngay trong ngày công bố, chính để nhà đầu tư không kịp chuyển tiền đi trước. Vì vậy khoảng cách giữa hai thời điểm gần như không đáng kể.
+
+**Vì sao hai chỉ số không thay thế nhau được.** Khi một nước nới một phần hạn chế, ví dụ nâng hạn mức chứ không xoá hẳn, nhãn nhị phân vẫn là "có", nên FARI không đổi nhưng ACI ghi một lần nới. Ngược lại, không phải mọi thay đổi của FARI đều truy được về một biện pháp trong bảng thay đổi. Nói cách khác, không phải mọi thay đổi trong ACI đều làm FARI đổi, và không phải mọi thay đổi của FARI đều tìm được biện pháp tương ứng trong ACI. Cần lưu ý thêm: **cả hai chỉ số đều không đo cường độ hay mức độ thực thi** của biện pháp. Đây là lựa chọn có chủ ý: chấm cường độ đòi hỏi phán đoán chủ quan, và nhóm tác giả muốn giữ chỉ số khách quan.
 
 ### 4. Bức tranh tổng quát
 
-- FARI trung bình giảm từ 0,42 xuống 0,35 trong giai đoạn nghiên cứu. Giao dịch dòng vào ít bị kiểm soát hơn dòng ra khoảng mười bốn điểm phần trăm, và chênh lệch này dai dẳng.
-- Một nghịch lý được làm rõ. Mức độ hội nhập tài chính quốc tế đo bằng tổng tài sản đối ngoại trên GDP toàn cầu đã đứng yên quanh hai trăm phần trăm từ năm 2007, tương tự hiện tượng giảm tốc trong thương mại hàng hoá. Nhưng khác với thương mại, không có sự gia tăng đột biến nào về hạn chế tài khoản vốn. Nguyên nhân là tỷ trọng các nước mới nổi trong GDP toàn cầu tăng, mà nhóm này vốn có tỷ lệ tài sản và nợ đối ngoại trên GDP thấp hơn. Khi tính trọng số theo quy mô, FARI trung bình lại có xu hướng tăng dù các nước mới nổi vẫn liên tục tự do hoá.
-- Quan hệ với thu nhập cho thấy hình mẫu tự do hoá tuần tự: mở dòng vào trước rồi mới mở dòng ra, đạt gần mở hoàn toàn khi còn mười tới mười lăm phần trăm số hạng mục bị kiểm soát. Logic đằng sau là giai đoạn đầu phát triển cần vốn nước ngoài để bù cho vốn trong nước khan hiếm, còn khi thị trường tài chính phát triển thì chuyển sang khuyến khích dân đầu tư ra ngoài.
-- Theo loại giao dịch, đầu tư trực tiếp vào và đầu tư danh mục ra là hai nhóm bị kiểm soát nhất. Việc FDI vào bị kiểm soát cao thoạt nhìn mâu thuẫn với nhận thức rằng FDI ít rủi ro, nhưng thực ra vì các nước giữ kiểm soát chọn lọc vì lý do phi kinh tế như an ninh quốc gia, ngay cả sau khi đã gần như tự do hoá hoàn toàn.
-- Bài lưu ý một điểm so sánh với chỉ số của Fernández và cộng sự: các biện pháp vì an ninh quốc gia thường bị bỏ qua trong chỉ số đó, khiến mức hạn chế FDI thấp hơn, nhưng việc điều chỉnh nhãn nhị phân như vậy lại đưa yếu tố chủ quan vào chỉ số.
-- Số liệu ACI kể một câu chuyện hơi khác: tự do hoá diễn ra ở mọi loại giao dịch, kể cả những nhóm mà FARI không thấy tiến triển. Điều này gợi ý có tự do hoá từng phần mà chỉ tiêu nhị phân về sự tồn tại của kiểm soát không nắm bắt được.
+**Xu hướng chung.** FARI trung bình giảm từ 0,42 (quý 1/1999) xuống 0,35 (quý 4/2022), tức giảm 7 điểm phần trăm trong hơn hai thập kỷ. Dòng vào ít bị kiểm soát hơn dòng ra khoảng 14 điểm phần trăm, và khoảng cách này dai dẳng suốt giai đoạn. Tốc độ tự do hoá dòng ra nhỉnh hơn dòng vào một chút. Theo ACI, dòng ra chiếm 51% số thay đổi và dòng vào 49%. Biện pháp nới chiếm 75% số thay đổi về dòng vào và 80% số thay đổi về dòng ra.
+
+**Nghịch lý "giảm tốc tài chính".** Mức hội nhập tài chính quốc tế, đo bằng tổng tài sản đối ngoại của thế giới, đã đứng yên quanh 200% GDP thế giới kể từ năm 2007, tương tự hiện tượng giảm tốc trong thương mại hàng hoá. Nhưng khác với thương mại, sự chững lại này **không phải** do hạn chế tăng lên: không có đợt tăng đột biến nào về hạn chế tài khoản vốn. Lời giải là tỷ trọng các nước mới nổi trong GDP toàn cầu tăng lên, mà nhóm này vốn có tỷ lệ tài sản và nợ đối ngoại trên GDP thấp hơn và khung pháp lý chặt hơn. Vì vậy, khi tính FARI trung bình có trọng số theo quy mô nền kinh tế, chỉ số lại có xu hướng **tăng**, dù chính các nước mới nổi vẫn đang liên tục tự do hoá. Bài cũng lưu ý rằng bằng chứng về phân mảnh địa kinh tế (thế giới chia thành các khối) từ dữ liệu pháp lý tới nay chỉ giới hạn ở một số hạn chế về FDI.
+
+**Quan hệ với thu nhập.** Đúng như tài liệu cũ, thu nhập càng cao thì khung pháp lý càng mở. Điểm mới là ở nước thu nhập thấp có khoảng cách lớn giữa mức chặt của dòng vào và dòng ra, và khoảng cách này thu hẹp khi thu nhập tăng. Hình mẫu tự do hoá tuần tự hiện ra: mở dòng vào trước, rồi mới mở dòng ra, và một nước được coi là gần mở hoàn toàn khi còn khoảng 10–15% số hạng mục bị kiểm soát. Logic là giai đoạn đầu phát triển cần vốn nước ngoài, chủ yếu FDI và vốn vay, để bù cho vốn trong nước khan hiếm; khi thị trường tài chính phát triển, nước đó chuyển sang khuyến khích người dân đầu tư ra ngoài để đa dạng hoá rủi ro và giảm áp lực lên giá đồng nội tệ.
+
+**Theo loại giao dịch.** Theo FARI:
+
+| Loại giao dịch | Mức kiểm soát |
+|---|---|
+| Đầu tư trực tiếp vào trong nước | bị kiểm soát nhiều nhất |
+| Đầu tư danh mục ra nước ngoài | bị kiểm soát nhiều nhất |
+| Đầu tư danh mục (cả hai chiều) | ít tiến triển suốt hai thập kỷ, vì bị coi là "tiền nóng" dễ đảo chiều |
+| Đầu tư khác (vay, tín dụng, tiền gửi) | ít bị kiểm soát nhất, và dẫn dắt xu hướng tự do hoá chung |
+
+Việc FDI vào bị kiểm soát cao thoạt nhìn mâu thuẫn với nhận thức phổ biến rằng FDI là loại vốn ít rủi ro nhất. Thực ra, các nước vẫn giữ kiểm soát chọn lọc với FDI vì lý do phi kinh tế, nhất là an ninh quốc gia (ví dụ hạn chế người nước ngoài sở hữu doanh nghiệp quốc phòng, viễn thông), ngay cả khi đã gần như mở hết các mặt khác.
+
+Bài so sánh với chỉ số của Fernández và cộng sự: chỉ số đó thường bỏ qua các biện pháp vì an ninh quốc gia, nên cho mức hạn chế FDI thấp hơn. Nhưng việc điều chỉnh nhãn nhị phân như vậy lại đưa yếu tố chủ quan vào chỉ số, điều FARI muốn tránh.
+
+**ACI kể một câu chuyện khác.** Số liệu ACI cho thấy tự do hoá diễn ra ở mọi loại giao dịch, kể cả FDI và đầu tư danh mục, những nhóm mà FARI không thấy tiến triển. Điều này chứng tỏ có tự do hoá từng phần (nới hạn mức, đơn giản thủ tục) mà nhãn nhị phân về sự tồn tại của kiểm soát bỏ lỡ.
 
 ### 5. Phát hiện trung tâm về tính bất đối xứng
 
-- Bằng cách chia số biện pháp trong ACI cho thay đổi tích luỹ của FARI, bài tính được số biện pháp cần để dịch chuyển chỉ số. Kết quả trung vị cho thấy bất đối xứng rõ rệt: cần mười bốn lần nới để đi từ đóng hẳn tới mở hẳn với dòng vào và hai mươi ba lần với dòng ra, nhưng chỉ cần mười lần siết với dòng vào và tám lần với dòng ra để đi theo chiều ngược lại.
-- Bài dùng trung vị vì một số nước thực hiện rất nhiều biện pháp nới trong khi FARI chỉ giảm chút ít do các kiểm soát khác vẫn còn, khiến số biện pháp ngụ ý bị thổi lên rất cao.
-- Nguyên nhân của bất đối xứng nằm ở cách áp và gỡ. Khi khủng hoảng, kiểm soát được áp đồng loạt, diện rộng và ngay lập tức để tránh rò rỉ. Khi gỡ, phải gỡ từng bước theo đúng khuyến nghị của Quan điểm Thể chế năm 2012 là tự do hoá khi điều kiện cho phép.
-- Đây cũng là lời giải cho câu hỏi vì sao các chỉ số đếm thay đổi luôn cho thấy xu hướng tự do hoá mạnh hơn các chỉ số đo mức, và bài cảnh báo rằng so sánh đơn giản số lần nới và siết trong một giai đoạn khủng hoảng sẽ tạo ấn tượng sai rằng nước đó đã mở hơn trước.
-- Trường hợp Iceland và Cyprus minh hoạ rất rõ. Điểm đáng chú ý về mặt kỹ thuật là cả FARI dòng vào lẫn dòng ra đều tăng khi khủng hoảng nổ ra, vì việc người không cư trú rút vốn về cũng bị hạn chế, mà theo quy ước cán cân thanh toán thì đó là dòng vào mang dấu âm. Với Iceland, ACI còn cho thấy các lần siết bổ sung sau khi đã áp kiểm soát ban đầu, phản ánh việc tinh chỉnh để bịt kẽ hở, và FARI không nhìn thấy điều này vì siết hay nới từng phần không làm thay đổi chỉ tiêu về sự tồn tại.
-- Trường hợp Trung Quốc và Ấn Độ minh hoạ chiều ngược lại. Trong các chỉ số phổ biến, chỉ Quinn và Toyoda, vốn xét mức độ chặt của biện pháp, nhìn thấy tự do hoá dần của Trung Quốc; còn tự do hoá của Ấn Độ thì chỉ các chỉ số dựa trên thay đổi mới ghi nhận.
+**Phương pháp.** Với mỗi nước, bài lấy số biện pháp trong ACI chia cho thay đổi tích luỹ của FARI. Kết quả là số biện pháp cần để dịch chuyển FARI một khoảng cho trước. Quy ra số biện pháp cần để đi hết thang đo, trung vị giữa các nước như sau:
+
+| | Từ đóng hẳn tới mở hẳn (số lần nới) | Từ mở hẳn tới đóng hẳn (số lần siết) |
+|---|---|---|
+| Dòng vào | 14 | 10 |
+| Dòng ra | 23 | 8 |
+
+Cách đọc bảng: với dòng ra, mở lại cần gần gấp ba số biện pháp so với đóng (23 so với 8). Với dòng vào, chênh lệch nhỏ hơn nhưng cùng chiều (14 so với 10).
+
+Bài dùng trung vị chứ không dùng trung bình vì một số nước thực hiện rất nhiều biện pháp nới trong khi FARI chỉ giảm chút ít, do các kiểm soát khác vẫn còn. Ở những nước đó, phép chia cho ra số biện pháp ngụ ý rất lớn và sẽ kéo trung bình lên bất hợp lý.
+
+**Vì sao bất đối xứng.** Nguyên nhân nằm ở cách áp và gỡ. Khi khủng hoảng, kiểm soát được áp đồng loạt, diện rộng và ngay lập tức để không có kẽ hở cho vốn rò ra ngoài; ví dụ, cấm hẳn đầu tư danh mục ra nước ngoài chỉ bằng một lệnh. Khi gỡ, các nước gỡ từng bước, đúng như khuyến nghị của Quan điểm Thể chế năm 2012 là chỉ tự do hoá khi điều kiện cho phép. Nói gọn: siết một lần thật mạnh, nới ra từng bước nhỏ.
+
+**Hệ quả cho việc đọc số liệu.** Đây cũng là lời giải cho câu hỏi vì sao các chỉ số đếm thay đổi luôn cho thấy xu hướng tự do hoá mạnh hơn các chỉ số đo mức: mỗi lần siết lớn được "trả" bằng nhiều lần nới nhỏ, nên số lần nới luôn áp đảo. Bài cảnh báo: nếu chỉ so số lần nới và số lần siết trong một giai đoạn có khủng hoảng, ta sẽ tưởng nhầm rằng nước đó đã mở hơn trước, trong khi thực tế nó chỉ đang gỡ dần những gì đã áp ồ ạt.
+
+**Iceland và Síp: khủng hoảng ở nước tiên tiến.** Iceland gặp khủng hoảng tiền tệ vào tháng 9/2008. Síp (Cyprus) gặp khủng hoảng ngân hàng tháng 6/2011 và khủng hoảng nợ công tháng 7/2013. Cả hai nước đều gần như mở hoàn toàn tới giữa những năm 2000. Khi khủng hoảng nổ ra, FARI của họ vọt lên. Điểm đáng chú ý về kỹ thuật: cả FARI dòng vào lẫn dòng ra đều tăng, vì việc người nước ngoài rút vốn về cũng bị hạn chế, mà theo quy ước cán cân thanh toán thì đó là dòng vào mang dấu âm. Trên ACI, hình ảnh là một số ít lần siết ban đầu rồi rất nhiều bước nới về sau. Với Iceland, ACI còn cho thấy các lần siết bổ sung sau khi đã áp kiểm soát, để bịt các kẽ hở phát sinh. FARI không nhìn thấy những lần tinh chỉnh này, vì siết hay nới từng phần không làm thay đổi nhãn "có kiểm soát".
+
+**Trung Quốc và Ấn Độ: tự do hoá dần dần.** Đây là trường hợp ngược lại. ACI ghi nhận rất nhiều lần nới, nhưng FARI gần như không nhúc nhích, vì hai nước này nới bằng hạn mức và điều kiện chứ không xoá hẳn hạng mục. Trong các chỉ số phổ biến, chỉ chỉ số Quinn–Toyoda, vốn chấm theo mức độ chặt của biện pháp, nhìn thấy tự do hoá của Trung Quốc; còn tự do hoá của Ấn Độ thì chỉ các chỉ số đếm thay đổi như ACI mới ghi nhận.
+
+**Ai dùng kiểm soát vốn nhiều.** Phân bố số biện pháp giữa các nước rất lệch:
+
+| Nhóm | Mức độ sử dụng |
+|---|---|
+| Khoảng 50% số nước | dưới 10 biện pháp trong 22 năm |
+| 70% số nước | dưới 1 thay đổi mỗi năm |
+| 10% số nước | hơn 70 biện pháp |
+
+Nhóm 10% dùng nhiều nhất gồm hai kiểu: (1) các nước trải qua khủng hoảng là Argentina, Síp, Ukraine, Iceland, Hy Lạp; và (2) các nước tự do hoá dần dần là Ấn Độ, Sri Lanka, Malaysia, Trung Quốc, Nam Phi, Thái Lan, Fiji.
+
+**Chế độ tỷ giá.** Kết quả khớp với logic bộ ba bất khả thi:
+
+| Chế độ tỷ giá | Mức hạn chế | Tần suất điều chỉnh kiểm soát |
+|---|---|---|
+| Neo cứng | cao nhất | thấp |
+| Trung gian | ở giữa | cao nhất |
+| Thả nổi tự do | thấp nhất | thấp |
+
+Nước neo cứng ưu tiên ổn định tỷ giá nên từ bỏ tài khoản vốn mở; vì đã kiểm soát chặt sẵn nên ít cần điều chỉnh thêm. Nước thả nổi để tỷ giá tự hấp thụ cú sốc nên cũng ít cần dùng kiểm soát vốn. Nước theo chế độ trung gian cố theo đuổi cả ba mục tiêu cùng lúc ở mức độ nào đó, nên cần nhiều công cụ hơn: vừa can thiệp thị trường ngoại hối vừa liên tục điều chỉnh kiểm soát vốn.
+
+**Quanh các cuộc khủng hoảng.**
+
+- *Khủng hoảng tiền tệ*: kiểm soát dòng ra được siết dần ngay cả trước khi khủng hoảng nổ ra; tại thời điểm nổ ra, cả dòng vào lẫn dòng ra đều bị siết; việc nới bắt đầu sau khoảng 4 quý.
+- *Khủng hoảng nợ công*: cả hai chiều bị siết khoảng 2 quý trước khủng hoảng. Một phần lý do là kỹ thuật: phương pháp xác định khủng hoảng dùng thời điểm vỡ nợ và tái cơ cấu, vốn xảy ra sau khi thị trường đã phản ứng mạnh.
+- *Khủng hoảng ngân hàng*: dữ liệu không cho thấy việc áp kiểm soát quanh thời điểm này. Ví dụ, Síp và Hy Lạp đều được xác định có khủng hoảng ngân hàng năm 2008, nhưng kiểm soát vốn chỉ được áp trong khủng hoảng nợ công, năm 2012 ở Hy Lạp và năm 2013 ở Síp.
+
+Tuy nhiên, nếu loại năm nước báo cáo nhiều thay đổi nhất (Argentina, Síp, Ukraine, Iceland, Hy Lạp), thì không còn mức tăng đáng kể nào của kiểm soát quanh khủng hoảng. Nghĩa là không phải nước nào gặp khủng hoảng cũng dùng kiểm soát vốn.
+
+**Một kênh thay thế bị ẩn.** Để ngăn tỷ giá lao dốc, một số nước hạn chế nguồn cung ngoại tệ, kể cả cho giao dịch vãng lai như nhập khẩu hàng hoá. Việc này làm xuất hiện thị trường ngoại tệ song song với giá cao hơn giá chính thức. Nó rõ ràng hạn chế giao dịch vốn bằng cách làm chúng đắt hơn, giống như một loại thuế, nhưng trong AREAER nó không được ghi là kiểm soát vốn mà là hạn chế hối đoái hoặc thực hành đa tỷ giá, nên không đi vào FARI hay ACI.
 
 ### 6. Yếu tố quyết định dài hạn
 
-- Hồi quy trên FARI với hiệu ứng cố định nước và năm xác nhận rằng các nước tự do hoá khi phát triển, với hệ số âm cho cả thu nhập đầu người và phát triển tài chính, ở cả hai chiều dòng vốn. Độ co giãn cao hơn với dòng ra và ở nhóm nước tiên tiến, phản ánh tự do hoá nhanh của các nước châu Âu.
-- Chế độ tỷ giá có vai trò rõ. Neo tỷ giá đi kèm kiểm soát dòng ra chặt hơn, còn thả nổi tự do đi kèm mức hạn chế thấp hơn ở cả hai chiều. Bài giải thích rằng việc neo không có ý nghĩa ở phía dòng vào là do nhiều nước duy trì chế độ neo suốt giai đoạn nghiên cứu, nên tác động đã bị hiệu ứng cố định nước hấp thụ.
-- Một kết quả phản trực giác đáng chú ý: sự tồn tại của chênh lệch thị trường song song đi kèm mức hạn chế thấp hơn, nhất là ở nước đang phát triển. Lời giải thích là các nước này khi gặp khó khăn cán cân thanh toán thì dùng hạn chế giao dịch vãng lai như phân bổ ngoại tệ thay cho kiểm soát vốn chính thức.
-- Biến giả khủng hoảng chỉ có ý nghĩa ở nhóm nước tiên tiến. Bài lưu ý rằng điều này một phần phản ánh việc biến giả khủng hoảng không phủ các đợt sau năm 2017, trong khi một số nước mới nổi và đang phát triển đã gặp khó khăn cán cân thanh toán trong giai đoạn đó.
+Để tìm yếu tố dài hạn, bài hồi quy FARI theo mô hình tuyến tính tổng quát (phù hợp vì FARI nằm trong khoảng từ 0 đến 1), trên 169 nước, giai đoạn 2000–2022, có hiệu ứng cố định nước và năm. Các biến giải thích đều lấy trễ 1 năm. Hệ số âm nghĩa là biến đó đi kèm mức hạn chế thấp hơn.
+
+| Biến (trễ 1 năm) | Dòng vào | Dòng ra |
+|---|---|---|
+| GDP đầu người | −0,162\*\*\* | −0,368\*\*\* |
+| Phát triển tài chính | −0,605\*\* | −1,267\*\*\* |
+| Thả nổi tự do | −0,180\*\*\* | −0,127\* |
+| Neo tỷ giá | −0,023 | +0,239\*\*\* |
+| Độ phủ dự trữ ngoại hối | −0,015 | −0,054\*\* |
+| Thành viên OECD hoặc EU | −0,342\*\*\* | −0,969\*\*\* |
+| Khủng hoảng (nước tiên tiến) | +0,797\*\* | +0,874\*\* |
+| Thị trường song song | −0,150\*\*\* | −0,077 |
+| Thị trường song song (nước đang phát triển) | −0,327\*\* | −0,480\*\*\* |
+
+(Ký hiệu: \*\*\* có ý nghĩa ở mức 1%, \*\* ở mức 5%, \* ở mức 10%; không có sao là không có ý nghĩa thống kê.)
+
+**Phát triển đi kèm mở cửa.** Hệ số âm của thu nhập đầu người và phát triển tài chính ở cả hai chiều xác nhận rằng các nước tự do hoá khi phát triển. Tác động mạnh hơn với dòng ra và ở nhóm nước tiên tiến, phản ánh tự do hoá nhanh của các nước châu Âu. Thành viên OECD hoặc EU gắn với mức hạn chế thấp hơn rõ rệt, nhất là ở dòng ra (−0,969).
+
+**Chế độ tỷ giá.** Neo tỷ giá đi kèm kiểm soát dòng ra chặt hơn (+0,239), còn thả nổi tự do đi kèm mức hạn chế thấp hơn ở cả hai chiều. Hệ số của neo tỷ giá ở phía dòng vào không có ý nghĩa; bài giải thích rằng nhiều nước giữ chế độ neo suốt giai đoạn nghiên cứu, nên tác động của nó đã bị hiệu ứng cố định nước hấp thụ (mô hình chỉ học được từ những nước thay đổi chế độ).
+
+**Kết quả phản trực giác về thị trường song song.** Sự tồn tại của chênh lệch giá giữa thị trường ngoại tệ song song và thị trường chính thức lại đi kèm mức hạn chế **thấp hơn**, nhất là ở nước đang phát triển (−0,327 cho dòng vào, −0,480 cho dòng ra). Lời giải thích là khi gặp khó khăn cán cân thanh toán, các nước này dùng hạn chế giao dịch vãng lai, như phân bổ ngoại tệ theo hạn ngạch, thay cho kiểm soát vốn chính thức. Kết quả là họ đóng cửa trên thực tế nhưng trông "mở" trên chỉ số.
+
+**Khủng hoảng.** Biến giả khủng hoảng chỉ có ý nghĩa ở nhóm nước tiên tiến, phản ánh việc các nước châu Âu bị khủng hoảng đã dùng kiểm soát rộng rãi. Bài lưu ý một phần nguyên nhân là biến giả khủng hoảng không phủ các đợt sau năm 2017, trong khi một số nước mới nổi và đang phát triển đã gặp khó khăn cán cân thanh toán trong giai đoạn đó.
 
 ### 7. Yếu tố chu kỳ
 
-- Mô hình probit theo quý xét riêng bốn loại thay đổi. Bài cố ý không phân biệt số lượng biện pháp trong một quý, vì mức độ khác biệt giữa các nước về số biện pháp là rất lớn.
-- Với siết dòng vào, toàn mẫu cho thấy các biến gắn với chu kỳ thuận lợi đều có ý nghĩa: khoảng cách sản lượng dương, khoảng cách tín dụng dương và tỷ giá thực lên giá. Với riêng nước mới nổi, chính dòng vốn vào lại là biến có ý nghĩa còn các biến vĩ mô thì không, điều mà bài giải thích bằng việc các biến này đồng chuyển động với nhau nên khó tách vai trò riêng.
-- Ở nhóm nước tiên tiến có hai kết quả ngược dự đoán: siết dễ xảy ra hơn ở nước đã hạn chế nhiều và ở thành viên OECD hoặc EU. Bài giải thích rằng đây là trường hợp Síp và Hy Lạp áp kiểm soát rộng sau khi đã là thành viên EU, rồi điều chỉnh để bịt kẽ hở. Hệ số dương của biến giả COVID cũng phản ánh các kiểm soát khủng hoảng này, đồng thời nắm bắt việc các nước EU triển khai khung sàng lọc FDI theo từng giai đoạn trong năm 2020.
-- Bảng riêng về bất động sản cho thấy tăng trưởng giá nhà thực có ý nghĩa ở nước mới nổi và tỷ lệ giá nhà trên thu nhập có ý nghĩa ở nước tiên tiến, củng cố bằng chứng rằng kiểm soát vốn được dùng cho mục tiêu ổn định tài chính.
-- Với siết dòng ra, các biến đặc trưng cho khủng hoảng kinh tế và cán cân thanh toán mới là yếu tố thúc đẩy: khoảng cách sản lượng âm, sự tồn tại của thị trường song song, và khủng hoảng ở quý trước. Đáng chú ý là dòng vốn ra hay tháo chạy vốn lại không dự báo được việc siết dòng ra.
-- Với nới ở cả hai chiều, mẫu hình chung là các nước tự do hoá khi đang ở thế mạnh. Đồng thời, hệ số dương lớn của chính FARI cho thấy có hội tụ: nước đang hạn chế nhiều thì dễ nới hơn.
+Để tìm yếu tố chu kỳ, bài dùng mô hình probit theo quý trên ACI, xét riêng bốn loại thay đổi: siết dòng vào, siết dòng ra, nới dòng vào, nới dòng ra. Biến phụ thuộc bằng 1 nếu trong quý có ít nhất một thay đổi thuộc loại đó. Bài cố ý không phân biệt một quý có một hay nhiều biện pháp, vì số biện pháp khác nhau rất lớn giữa các nước, và dùng con số thô sẽ để vài nước hoạt động nhiều chi phối kết quả.
+
+**Siết dòng vào (mẫu 67 nước).**
+
+| Nhóm | Biến có ý nghĩa | Hệ số |
+|---|---|---|
+| Toàn mẫu | khoảng cách sản lượng | 0,005\* |
+| Toàn mẫu | khoảng cách tín dụng | 0,011\*\* |
+| Toàn mẫu | tỷ giá thực lên giá | 0,009\*\* |
+| Nước mới nổi | dòng vốn vào gộp | 0,013\*\*\* |
+| Nước mới nổi | dòng vốn vào ròng | 0,022\* |
+| Nước tiên tiến | khoảng cách sản lượng | 0,064\*\*\* |
+| Nước tiên tiến | dự trữ | 0,160\*\* |
+| Nước tiên tiến | COVID | 0,979\*\*\* |
+| Nước tiên tiến | thành viên OECD/EU | 4,951\*\*\* |
+
+Với toàn mẫu, các biến gắn với giai đoạn kinh tế thuận lợi đều có ý nghĩa: kinh tế chạy trên xu hướng, tín dụng tăng nhanh hơn xu hướng, và đồng tiền lên giá thực. Đây là dấu hiệu của dùng kiểm soát vốn theo kiểu phản chu kỳ. Điều đáng chú ý là các thước đo dòng vốn lại không có ý nghĩa ở toàn mẫu. Với riêng nước mới nổi thì ngược lại: chính dòng vốn vào gộp và ròng là biến có ý nghĩa, còn các biến vĩ mô thì không. Bài giải thích rằng ở nhóm này các biến vĩ mô và dòng vốn đồng chuyển động với nhau (vốn vào nhiều thì tín dụng tăng, đồng tiền lên giá), nên khó tách vai trò riêng của từng biến.
+
+Ở nhóm nước tiên tiến có hai kết quả ngược với dự đoán: việc siết dễ xảy ra hơn ở nước đã hạn chế nhiều và ở thành viên OECD hoặc EU (hệ số rất lớn 4,951). Bài giải thích rằng đây là trường hợp Síp và Hy Lạp áp kiểm soát rộng sau khi đã là thành viên EU, rồi tiếp tục điều chỉnh để bịt kẽ hở. Hệ số dương của biến COVID cũng phản ánh các kiểm soát khủng hoảng này, đồng thời phản ánh việc các nước EU triển khai khung sàng lọc FDI theo từng giai đoạn trong năm 2020.
+
+**Bất động sản cũng quan trọng.** Một bảng riêng cho thấy tăng trưởng giá nhà thực có ý nghĩa ở nước mới nổi (hệ số 3,303\*), và tỷ lệ giá nhà trên thu nhập có ý nghĩa ở nước tiên tiến (0,010\*). Kết quả này củng cố lập luận rằng kiểm soát vốn được dùng cho mục tiêu ổn định tài chính (ngăn bong bóng tài sản), không chỉ cho mục tiêu vĩ mô.
+
+**Siết dòng ra (mẫu 42 nước).** Các biến đặc trưng cho khủng hoảng kinh tế và khó khăn cán cân thanh toán mới là yếu tố thúc đẩy: khoảng cách sản lượng âm (hệ số −0,021\*, tức kinh tế dưới xu hướng), sự tồn tại của thị trường song song (0,326\*), và khủng hoảng ở quý trước tại nước tiên tiến (1,436\*\*). Đáng chú ý, dòng vốn ra hay tháo chạy vốn lại không dự báo được việc siết dòng ra. Điều này khớp với hình mẫu: siết dòng ra là phản ứng với khủng hoảng và cán cân thanh toán, không phải phản ứng trực tiếp với dòng tiền đang chảy ra.
+
+**Nới dòng vào.** Biến có ý nghĩa nổi bật là chính FARI dòng vào (2,906\*\*\*): nước đang hạn chế nhiều thì dễ nới hơn, tức có sự hội tụ dần về khung mở hơn. Hệ số của thành viên OECD/EU âm (−0,667\*\*\*) vì các nước này đã nới xong trước khi gia nhập, nên còn ít để nới.
+
+**Nới dòng ra.** Tương tự, FARI dòng ra có hệ số dương lớn (1,715\*\*\*). Ở nước mới nổi, dòng vốn ròng dương đi kèm khả năng nới (0,032\*\*); ở nước đang phát triển, dự trữ ngoại hối dồi dào đi kèm khả năng nới (1,524\*\*\*). Riêng ở nước tiên tiến, các dấu lại ngược: nới đi kèm dòng vốn ròng âm, tỷ giá giảm và có khủng hoảng. Lý do là đó là việc gỡ dần các kiểm soát đã áp trong khủng hoảng (Iceland, Síp, Hy Lạp), không phải tự do hoá khi đang ở thế mạnh.
+
+**Nguyên tắc chung.** Gộp các kết quả nới lại, mẫu hình nổi lên là **các nước tự do hoá khi đang ở thế mạnh**: dòng vốn dồi dào, không có dừng đột ngột, khoảng cách sản lượng dương, đồng tiền lên giá. Đồng thời, hệ số dương lớn của chính FARI cho thấy có hội tụ: nước càng đóng thì càng dễ nới.
+
+Tổng hợp ba động cơ mà hồi quy xác nhận:
+
+| Loại thay đổi | Động cơ chính |
+|---|---|
+| Nới (cả hai chiều) | hưởng lợi từ vốn tự do khi đang ở thế mạnh |
+| Siết dòng vào | quản lý chu kỳ kinh tế và tài chính (kinh tế nóng, tín dụng, giá nhà, dòng vốn vào) |
+| Siết dòng ra | ứng phó khủng hoảng tiền tệ, nợ công và khó khăn cán cân thanh toán |
 
 ### 8. Giới hạn và kiểm chứng
 
-- Về nội sinh, bài lập luận rằng việc tập trung vào yếu tố kích hoạt chính sách thay vì tác động của chính sách làm giảm đáng kể vấn đề đồng thời, nhất là khi dùng biến kiểm soát vĩ mô có độ trễ. Các hiệu ứng cố định hấp thụ đặc điểm bất biến theo thời gian và cú sốc chung, và tương quan từng cặp giữa biến giá và biến lượng thấp nên đa cộng tuyến không đáng lo.
-- Giới hạn quan trọng nhất được nêu thẳng: do có hiệu ứng cố định nước, các nước không có thay đổi nào trong giai đoạn nghiên cứu bị loại khỏi hồi quy. Khoảng một phần ba số nước có đủ dữ liệu vĩ mô chưa từng thực hiện biện pháp siết dòng vào nào, và với nhóm này thì hợp lý khi suy đoán rằng chính sách của họ không mang tính phản chu kỳ.
-- Đây chính là đóng góp thứ tư của bài: nó hoà giải bất đồng trong tài liệu. Các nghiên cứu kết luận rằng kiểm soát vốn không được dùng theo chu kỳ và các nghiên cứu kết luận ngược lại có thể cùng đúng, chỉ là nhìn vào các nhóm nước khác nhau. Mức độ không đồng nhất giữa các nhóm và giữa các nước có thể giải thích vì sao tài liệu lại phân hoá như vậy.
-- Về độ vững, bài áp dụng hiệu chỉnh chệch cho mô hình probit có hiệu ứng cố định, đồng thời ước lượng lại sau khi loại các nước chỉ có một thay đổi duy nhất. Tác động biên ước lượng vẫn tương tự về độ lớn và mức ý nghĩa.
+**Nội sinh.** Một lo ngại là chính kiểm soát vốn có thể tác động ngược lên các biến giải thích (ví dụ siết dòng vào làm dòng vào giảm). Bài lập luận rằng vì nghiên cứu tập trung vào yếu tố **kích hoạt** chính sách chứ không phải **tác động** của chính sách, và dùng biến vĩ mô có độ trễ, nên vấn đề hai chiều nhân quả giảm đáng kể. Các hiệu ứng cố định hấp thụ đặc điểm không đổi theo thời gian của từng nước và các cú sốc chung toàn cầu. Tương quan từng cặp giữa biến giá (tỷ giá, giá nhà) và biến lượng (dòng vốn, tín dụng) thấp, nên đa cộng tuyến không đáng lo.
+
+**Giới hạn quan trọng nhất.** Vì mô hình có hiệu ứng cố định nước, những nước không có thay đổi nào trong giai đoạn nghiên cứu bị loại khỏi hồi quy (biến phụ thuộc của họ luôn bằng 0, trùng hoàn toàn với hiệu ứng cố định). Khoảng một phần ba số nước có đủ dữ liệu vĩ mô chưa từng thực hiện biện pháp siết dòng vào nào, nên không nằm trong mẫu. Với nhóm này, bài cho rằng hợp lý khi suy đoán chính sách dòng vào của họ không mang tính phản chu kỳ, đúng như kết luận của Fernández và cộng sự (2015) và Bhargava và cộng sự (2023).
+
+**Lời hoà giải.** Đây chính là đóng góp thứ tư của bài. Các nghiên cứu kết luận rằng kiểm soát vốn không được dùng theo chu kỳ và các nghiên cứu kết luận ngược lại có thể cùng đúng, chỉ là nhìn vào các nhóm nước khác nhau: nhóm có siết dòng vào thì dùng phản chu kỳ, nhóm không bao giờ siết thì không. Mức độ khác biệt lớn giữa các nhóm và giữa các nước giải thích vì sao tài liệu bị phân hoá như vậy.
+
+**Độ vững.** Bài áp dụng phương pháp hiệu chỉnh chệch cho mô hình probit có hiệu ứng cố định hai chiều (Cruz-Gonzalez và cộng sự 2017), vì probit có hiệu ứng cố định trên mẫu ngắn có thể cho hệ số chệch. Bài cũng ước lượng lại sau khi loại các nước chỉ có một thay đổi duy nhất. Trong cả hai trường hợp, tác động biên ước lượng giữ nguyên về độ lớn và mức ý nghĩa.
 
 ### 9. Công bố dữ liệu
 
-- Cả hai chỉ số cùng các tiểu chỉ số sẽ được công bố trên trang AREAER trực tuyến công khai và cập nhật hàng năm theo chu kỳ xuất bản của báo cáo. Người dùng có thể tải theo nước, theo năm và theo nhóm nước tiêu chuẩn, rồi tự tạo chỉ số bình quân cho nhóm mình quan tâm.
-- Bài thừa nhận một hạn chế về tính khách quan: dù thiết kế nhằm tránh phán đoán chủ quan, khách quan hoàn toàn là khó đạt được. Việc gán trọng số khác nhau cho các hạng mục rõ ràng đưa yếu tố chủ quan vào, nhưng việc gán trọng số bằng nhau như AREAER đang làm cũng có thể bị coi là một dạng chủ quan.
+Cả hai chỉ số cùng các tiểu chỉ số sẽ được công bố trên trang AREAER trực tuyến công khai và được cập nhật hàng năm theo chu kỳ xuất bản của báo cáo. Người dùng có thể tải dữ liệu theo nước, theo năm và theo các nhóm nước tiêu chuẩn, rồi tự tính chỉ số bình quân cho nhóm nước mình quan tâm.
+
+Bài thừa nhận một hạn chế về tính khách quan. Dù được thiết kế để tránh phán đoán chủ quan, khách quan hoàn toàn là khó đạt được. Gán trọng số khác nhau cho các hạng mục (ví dụ coi cấm FDI nặng hơn hạn chế phái sinh) rõ ràng đưa yếu tố chủ quan vào. Nhưng gán trọng số bằng nhau cho mọi hạng mục, như cách AREAER và FARI đang làm, thực chất cũng là một lựa chọn và có thể bị coi là một dạng chủ quan.
 
 ## Thuật ngữ
 

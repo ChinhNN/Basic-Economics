@@ -272,60 +272,226 @@
 2. Tham nhũng làm giảm đầu tư và tăng trưởng tới mức nào khi dùng mẫu lớn hơn?
 3. Tham nhũng có làm thay đổi cơ cấu chi tiêu công không, nhất là chi cho giáo dục?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tham nhũng (corruption).** Việc công chức dùng quyền lực công để thu lợi riêng, điển hình là nhận hối lộ để cấp giấy phép, bỏ qua vi phạm hoặc chọn nhà thầu. Ví dụ trong bài: hối lộ để được cấp bằng lái xe (tham nhũng vặt) và hối lộ khi mua máy bay chiến đấu đắt tiền (tham nhũng cấp cao). Bài coi tham nhũng như một loại thuế đặc biệt độc hại, vì nó phải giữ bí mật và người nộp không chắc trả rồi có được việc hay không.
+
+**Đặc lợi và tìm kiếm đặc lợi (rents / rent seeking).** Đặc lợi là phần lợi ích vượt quá mức mà cạnh tranh bình thường mang lại, sinh ra từ một quy định, một giấy phép hay một nguồn tài nguyên khan hiếm. Tìm kiếm đặc lợi là bỏ công sức, kể cả hối lộ, để giành phần lợi ích đó thay vì sản xuất ra của cải mới. Ví dụ minh hoạ: nếu hạn ngạch nhập khẩu làm một mặt hàng bán trong nước cao hơn giá thế giới 30%, thì giấy phép nhập khẩu lô hàng 1 triệu USD có giá trị khoảng 300.000 USD, và người ta sẵn sàng hối lộ một phần số đó để có giấy phép. Bài coi đặc lợi là gốc rễ của tham nhũng.
+
+**Chỉ số tham nhũng.** Điểm số do công ty xếp hạng rủi ro tư nhân chấm cho từng nước, dựa trên bảng hỏi gửi chuyên gia, trên thang 0 (tham nhũng nhất) tới 10 (ít tham nhũng nhất). Ví dụ trong bài: chỉ số dùng là bình quân của hai nguồn ICRG và BI, có giá trị trung bình 5,85 và độ lệch chuẩn 2,38 trên 106 nước. Đây là biến giải thích trung tâm của mọi hồi quy trong bài, nên mọi kết luận đều phụ thuộc vào độ tin cậy của nó.
+
+**Độ lệch chuẩn (standard deviation).** Thước đo mức phân tán của một biến quanh giá trị trung bình; nếu phân phối gần với phân phối chuẩn thì khoảng hai phần ba số nước nằm trong phạm vi một độ lệch chuẩn quanh trung bình. Ví dụ: với trung bình 5,85 và độ lệch chuẩn 2,38, "cải thiện một độ lệch chuẩn" nghĩa là chỉ số tăng khoảng 2,38 điểm, chẳng hạn từ 5,85 lên 8,23. Bài dùng đơn vị này để quy hệ số hồi quy thành con số dễ hình dung.
+
+**Hồi quy chéo, OLS và hệ số t.** Hồi quy chéo so sánh nhiều nước tại cùng một thời điểm hoặc trên số bình quân dài hạn. OLS (bình phương nhỏ nhất thông thường) là cách ước lượng đơn giản nhất. Hệ số t là hệ số chia cho sai số chuẩn của nó; theo quy ước, |t| lớn hơn khoảng 2 nghĩa là có ý nghĩa thống kê ở mức 5%. Ví dụ trong bài: hệ số tham nhũng với đầu tư là 0,0187 với t = 7,03, rất chắc chắn; nhưng ở một cột khác là 0,0281 với t = 0,99, không có ý nghĩa. Biết đọc t là điều kiện để hiểu bài chắc chắn tới đâu.
+
+**Nội sinh và biến công cụ (endogeneity / instrumental variables, 2SLS).** Nội sinh là khi biến giải thích có thể chịu tác động ngược của biến kết quả: ví dụ chuyên gia thấy một nước tăng trưởng nhanh thì có xu hướng chấm nước đó "ít tham nhũng". Biến công cụ là một biến khác có liên quan tới tham nhũng nhưng chỉ ảnh hưởng tới tăng trưởng qua kênh tham nhũng; phương pháp bình phương nhỏ nhất hai giai đoạn (2SLS) dùng biến đó để tách phần biến thiên "sạch" của tham nhũng. Ví dụ trong bài: chỉ số đa dạng dân tộc–ngôn ngữ có tương quan 0,39 với chỉ số tham nhũng. Bài dùng cách này để kiểm tra chiều nhân quả, và chính tác giả thừa nhận điều kiện của nó khó thoả mãn.
+
+**Chỉ số đa dạng dân tộc–ngôn ngữ (ELF).** Xác suất để hai người chọn ngẫu nhiên trong một nước không thuộc cùng một nhóm dân tộc–ngôn ngữ, tính bằng 1 trừ tổng bình phương tỷ trọng các nhóm. Ví dụ minh hoạ: một nước có hai nhóm, mỗi nhóm 50% dân số, có ELF = 1 − (0,5² + 0,5²) = 0,5; một nước chỉ có một nhóm có ELF = 0. Đây là biến công cụ chính của bài.
+
+**Cơ cấu chi tiêu công và luật Wagner.** Cơ cấu chi tiêu công là tỷ trọng của từng khoản chi (giáo dục, y tế, quốc phòng, chuyển giao, đầu tư) so với GDP hoặc tổng chi. Luật Wagner là quan sát rằng khi thu nhập tăng, chi tiêu công so với GDP cũng tăng, nhất là chi phúc lợi. Ví dụ trong bài: chi chuyển giao và phúc lợi tương quan mạnh với chỉ số tham nhũng, nhưng mất ý nghĩa khi kiểm soát GDP đầu người, vì nước ít tham nhũng thường cũng là nước giàu. Phân biệt hai hiệu ứng này là điều kiện để thấy vì sao chỉ giáo dục còn lại là kết quả đáng tin.
+
+## Nội dung chi tiết
 
 ### 1. Mở đầu
 
-- Nghiên cứu về nguyên nhân và hệ quả của tham nhũng có lịch sử dài, ít nhất từ các công trình về tìm kiếm đặc lợi. Nhưng nghiên cứu thực nghiệm còn hạn chế vì khó định lượng hiệu quả thể chế, và tham nhũng lại càng khó đo do bản chất của nó.
-- Chỉ số của công ty xếp hạng tư nhân dựa trên bảng hỏi chuẩn nên có tính chủ quan. Tuy vậy, các chỉ số từ những nguồn khác nhau tương quan rất cao, và việc khách hàng sẵn sàng trả giá cao cho chúng là bằng chứng gián tiếp rằng thông tin hữu ích.
-- Vì chuyên gia có thể bị ảnh hưởng bởi kết quả kinh tế của nước họ theo dõi, cần rất thận trọng khi diễn giải tương quan theo nghĩa nhân quả. Biến công cụ là một cách xử lý.
+Nguyên nhân và hệ quả của tham nhũng đã được nghiên cứu từ lâu, ít nhất từ các công trình lý thuyết về tìm kiếm đặc lợi. Nhưng nghiên cứu thực nghiệm còn hạn chế, vì hiệu quả thể chế đã khó định lượng mà tham nhũng còn khó đo hơn: bản chất của nó là che giấu. Bài có hai phần: phần đầu điểm lại những nguyên nhân và hệ quả có thể kiểm định bằng hồi quy xuyên quốc gia; phần sau mở rộng nghiên cứu Mauro (1995) với mẫu lớn hơn và xét thêm tác động lên cơ cấu chi tiêu công.
+
+**Cách đo tham nhũng.** Vì không có số liệu trực tiếp, bài dùng chỉ số của các công ty xếp hạng rủi ro tư nhân. Các công ty này bán đánh giá cho công ty đa quốc gia và ngân hàng quốc tế, dựa trên bảng hỏi chuẩn gửi chuyên gia tư vấn ở nhiều nước. Hai nguồn được dùng:
+
+| Nguồn | Giai đoạn | Số nước |
+|---|---|---|
+| ICRG (International Country Risk Guide của Political Risk Services, do IRIS tổng hợp) | bình quân 1982–1995 | hơn 100 |
+| Business International (BI, nay thuộc Economist Intelligence Unit) | bình quân 1980–1983 | 67 |
+
+Cả hai đều chấm trên thang 0 (tham nhũng nhất) tới 10 (ít tham nhũng nhất). Hai chỉ số tương quan với nhau rất cao, r = 0,81, cho thấy các nguồn khác nhau có đồng thuận về nước nào tham nhũng hơn. Việc khách hàng sẵn sàng trả giá cao cho các đánh giá này cũng là bằng chứng gián tiếp rằng thông tin có ích. Chỉ số dùng trong bài là **bình quân hai chỉ số** khi nước đó có cả hai, để giảm sai số đo lường. Kết quả cho 106 nước:
+
+| Thống kê | Giá trị |
+|---|---|
+| Số nước | 106 |
+| Trung bình | 5,85 |
+| Độ lệch chuẩn | 2,38 |
+| Thấp nhất | 0,59 |
+| Cao nhất | 10 |
+
+**Ba hạn chế của chỉ số.**
+
+1. Chỉ số mang tính chủ quan. Chuyên gia có thể bị ảnh hưởng bởi chính kết quả kinh tế của nước họ đánh giá: thấy kinh tế tăng trưởng tốt thì chấm điểm tham nhũng nhẹ tay hơn. Đây là rủi ro nội sinh, nên phải rất thận trọng khi đọc tương quan như quan hệ nhân quả; biến công cụ là một cách xử lý.
+2. Chỉ số không phân biệt tham nhũng cấp cao (ví dụ mua máy bay chiến đấu đắt tiền để ăn hối lộ lớn) với tham nhũng cấp thấp (ví dụ hối lộ để lấy bằng lái xe).
+3. Chỉ số không phân biệt tham nhũng có tổ chức với tham nhũng không có tổ chức. Theo Shleifer và Vishny (1993), loại không có tổ chức tệ hơn, vì người đưa hối lộ không biết phải đưa bao nhiêu, đưa cho ai, và đưa rồi có được việc hay không.
 
 ### 2. Nguyên nhân
 
-- Trong lý thuyết tìm kiếm đặc lợi, nguồn gốc cuối cùng là sự tồn tại của đặc lợi, thường do chính phủ tạo ra. Khi quy định dày đặc và công chức có nhiều quyền tuỳ ý, người dân và doanh nghiệp sẵn sàng hối lộ để hưởng đặc lợi đó. Tanzi (1994) nhấn mạnh vấn đề tệ hơn khi quy định thiếu đơn giản và minh bạch.
-- Hạn chế thương mại là ví dụ kinh điển: giấy phép nhập khẩu trong chế độ hạn ngạch rất có giá trị. Nền kinh tế mở hơn đi kèm tham nhũng thấp hơn.
-- Trợ cấp và chính sách công nghiệp tạo ra đặc lợi. Ades và Di Tella cho rằng khi đánh giá chính sách công nghiệp cần tính cả tham nhũng như một sản phẩm phụ ngoài ý muốn.
-- Kiểm soát giá và đa tỷ giá cũng tạo ra đặc lợi, có thể đo bằng chênh lệch tỷ giá thị trường song song.
-- Lương công chức thấp so với khu vực tư hay GDP bình quân đầu người khuyến khích tham nhũng vặt. Điều này cần cân nhắc khi phải chọn giữa cắt lương và cắt biên chế để giảm quỹ lương.
-- Các nguồn đặc lợi không do chính sách gồm tài nguyên thiên nhiên và yếu tố xã hội. Nhà hoạch định chính sách cần cảnh giác với chúng và phải tính đến chúng khi đánh giá tác động của chính sách.
+Theo lý thuyết tìm kiếm đặc lợi (Krueger 1974, Tullock 1967, Bhagwati 1982, Rose-Ackerman 1978), nguồn gốc cuối cùng của tham nhũng là sự tồn tại của **đặc lợi**, thường do chính phủ tạo ra. Khi quy định dày đặc và công chức có nhiều quyền tuỳ ý, người dân và doanh nghiệp sẵn sàng hối lộ để được hưởng phần đặc lợi đó. Tanzi (1994) nhấn mạnh vấn đề càng tệ khi quy định thiếu đơn giản và minh bạch. Bài chia nguồn đặc lợi thành hai nhóm.
+
+**Nhóm 1: đặc lợi do chính sách tạo ra (sửa được bằng chính sách).**
+
+| Nguồn | Cơ chế |
+|---|---|
+| Hạn chế thương mại | Trong chế độ hạn ngạch, giấy phép nhập khẩu rất có giá trị, nên người ta hối lộ để có nó. Ades và Di Tella (1994) thấy nền kinh tế mở hơn với thương mại đi kèm tham nhũng thấp hơn |
+| Trợ cấp, ưu đãi thuế | Chính sách công nghiệp tạo ra đặc lợi cho doanh nghiệp được chọn. Ades và Di Tella (1995) thấy tỷ lệ trợ cấp cho ngành chế tạo trên GDP liên quan tới chỉ số tham nhũng, và cho rằng khi đánh giá chính sách công nghiệp cần tính cả tham nhũng như một sản phẩm phụ ngoài ý muốn |
+| Kiểm soát giá | Doanh nghiệp hối lộ để được mua đầu vào ở giá quy định, thấp hơn giá thị trường |
+| Đa tỷ giá, phân bổ ngoại tệ | Doanh nghiệp hối lộ cán bộ ngân hàng nhà nước để được cấp ngoại tệ theo tỷ giá ưu đãi để nhập đầu vào. Quy mô đặc lợi này có thể đo bằng chênh lệch tỷ giá trên thị trường song song |
+| Lương công chức thấp | Khi lương thấp so với khu vực tư hay so với GDP bình quân đầu người, công chức phải kiếm thêm để sống, và nếu bị bắt, đuổi việc thì cũng mất ít. Đây là cơ chế lương hiệu quả đảo chiều |
+
+Hệ quả chính sách của điểm cuối: khi phải giảm quỹ lương khu vực công, cần cân nhắc kỹ giữa cắt lương đồng loạt và cắt biên chế. Cắt lương đồng loạt có thể làm tham nhũng vặt tăng lên.
+
+**Nhóm 2: đặc lợi không do chính sách.**
+
+- **Tài nguyên thiên nhiên**: dầu mỏ, khoáng sản bán được với giá cao hơn nhiều so với chi phí khai thác, tạo ra khoản đặc lợi lớn để tranh giành. Sachs và Warner (1995) có đề cập, nhưng tương quan giữa tài nguyên và tham nhũng chưa đủ ý nghĩa thống kê.
+- **Yếu tố xã hội**: theo Shleifer và Vishny, ở nước có nhiều sắc tộc, tham nhũng có thể kém tổ chức hơn (nhiều nhóm cùng đòi hối lộ độc lập nhau). Theo Tanzi (1994), quan hệ gia đình mạnh dẫn tới thiên vị họ hàng.
+
+Nhà hoạch định chính sách không xoá được các nguồn này, nhưng cần cảnh giác và tính đến chúng khi đánh giá tác động của chính sách.
 
 ### 3. Hệ quả
 
-- Nhà đầu tư biết một phần lợi nhuận có thể bị quan chức tham nhũng chiếm, và hối lộ thường phải trả trước để được cấp phép. Tham nhũng vì vậy như một loại thuế đặc biệt độc hại do cần giữ bí mật và kèm bất định.
-- Mauro (1995) và Keefer và Knack cho thấy tham nhũng làm giảm đầu tư và tăng trưởng. Theo Keefer và Knack, biến thể chế còn có tác động trực tiếp lên tăng trưởng ngoài kênh đầu tư, có thể qua phân bổ nguồn lực giữa các ngành hoặc giữa khu vực chính thức và phi chính thức.
-- Tham nhũng làm phân bổ nhân tài kém, giảm hiệu quả viện trợ, làm mất thu thuế, gây hệ quả xấu cho ngân sách và tiền tệ, và hạ chất lượng hạ tầng.
-- Tham nhũng có thể làm thay đổi cơ cấu chi tiêu công, vốn là trọng tâm thực nghiệm của bài. Nghiên cứu trước về chủ đề này rất ít. Rauch cho thấy làn sóng cải cách đô thị thời Tiến bộ ở Mỹ làm tăng tỷ trọng chi cho đường và cống, từ đó thúc đẩy việc làm chế tạo.
+Bài liệt kê bảy hệ quả của tham nhũng:
+
+1. **Đầu tư và tăng trưởng.** Nhà đầu tư biết một phần lợi nhuận có thể bị quan chức chiếm, và hối lộ thường phải trả trước để được cấp phép. Tham nhũng vì vậy giống một loại thuế, nhưng độc hại hơn thuế thường vì phải giữ bí mật và kèm bất định, nên làm giảm động cơ đầu tư. Mauro (1995) và Keefer và Knack cho thấy tham nhũng làm giảm đầu tư và tăng trưởng. Theo Keefer và Knack, biến thể chế còn có tác động trực tiếp lên tăng trưởng ngoài kênh đầu tư, có thể qua việc phân bổ nguồn lực giữa các ngành hoặc giữa khu vực chính thức và phi chính thức.
+2. **Phân bổ nhân tài.** Khi tìm kiếm đặc lợi sinh lời hơn sản xuất, người giỏi chọn làm việc đó thay vì làm việc sản xuất (Murphy, Shleifer và Vishny 1991).
+3. **Viện trợ kém hiệu quả.** Tiền viện trợ bị chuyển hướng. Các nhà tài trợ ngày càng chú ý tới quản trị, và có nơi đã cắt giảm viện trợ vì tham nhũng.
+4. **Mất thu thuế.** Qua trốn thuế và miễn thuế tuỳ tiện. Bài lưu ý trốn thuế chỉ là tham nhũng khi có tiền trả cho cán bộ thuế.
+5. **Hệ quả ngân sách và tiền tệ.** Ví dụ ngân hàng nhà nước cho vay chỉ định với lãi suất thấp cho người có quan hệ.
+6. **Hạ tầng chất lượng thấp.** Cán bộ giám sát nhận hối lộ để cho nhà thầu dùng vật liệu rẻ, dẫn tới cầu sập, nhà sập.
+7. **Cơ cấu chi tiêu công.** Quan chức tham nhũng có động cơ chọn những khoản chi dễ thu hối lộ và dễ giữ bí mật.
+
+Hệ quả thứ bảy là trọng tâm thực nghiệm của bài. Nghiên cứu trước về chủ đề này rất ít. Một ví dụ là Rauch: làn sóng cải cách chính quyền đô thị thời Tiến bộ ở Mỹ làm tăng tỷ trọng chi cho đường và cống, qua đó thúc đẩy việc làm ngành chế tạo.
+
+Bài phân loại các khoản chi theo mức độ dễ thu hối lộ:
+
+| Dễ thu hối lộ | Khó thu hối lộ |
+|---|---|
+| Dự án lớn, hàng chuyên biệt khó định giá | Sách giáo khoa |
+| Hạ tầng quy mô lớn | Lương giáo viên |
+| Vũ khí công nghệ cao, máy bay quân sự (Hines 1995) | Lương bác sĩ, y tá |
+| Toà nhà bệnh viện, thiết bị y tế hiện đại | |
+
+Điểm chung của nhóm dễ thu hối lộ là hàng hoá do doanh nghiệp trong thị trường độc quyền nhóm cung cấp, nơi có đặc lợi để chia. Ngược lại, lương giáo viên được trả theo thang bảng công khai, sách giáo khoa có giá dễ so sánh, nên khó "rút" ra khoản hối lộ đáng kể.
 
 ### 4. Dữ liệu
 
-- Chỉ số tham nhũng là bình quân của hai nguồn ICRG và BI khi có cả hai. Mẫu Barro có 106 nước có chỉ số.
-- Ba nguồn dữ liệu chi tiêu: bộ dữ liệu Barro bình quân 1970–1985; bộ Devarajan và cộng sự bổ sung thêm nước công nghiệp, quan sát năm 1985 từ GFS, có chi tiết giáo dục và y tế cho khoảng 60 nước; và bộ Easterly và Rebelo về đầu tư công hợp nhất cả khu vực chính phủ lẫn doanh nghiệp nhà nước.
-- Phân tích dùng hồi quy chéo trên số bình quân vì hiệu quả thể chế thay đổi chậm. Mauro (1993) cho thấy quan hệ giữa đầu tư và tham nhũng vẫn có ý nghĩa trong bảng dữ liệu có hiệu ứng cố định.
+**Chỉ số tham nhũng** là bình quân của ICRG và BI khi có cả hai nguồn. Trong mẫu Barro có 106 nước có chỉ số.
+
+**Ba nguồn dữ liệu chi tiêu công:**
+
+| Bộ dữ liệu | Phạm vi | Đặc điểm |
+|---|---|---|
+| Barro | bình quân 1970–1985 | các khoản chi lớn tính theo % GDP |
+| Devarajan và cộng sự, từ GFS (Thống kê Tài chính Chính phủ của IMF) | quan sát năm 1985, bổ sung thêm nước công nghiệp | có chi tiết giáo dục và y tế cho khoảng 60 nước |
+| Easterly và Rebelo | khoảng 40 nước đang phát triển | đầu tư công hợp nhất cả khu vực chính phủ lẫn doanh nghiệp nhà nước |
+
+**Phương pháp.** Bài dùng hồi quy chéo trên số bình quân dài hạn, vì hiệu quả thể chế thay đổi rất chậm nên dùng dữ liệu theo năm cũng không thêm được nhiều thông tin. Mauro (1993) đã cho thấy quan hệ giữa đầu tư và tham nhũng vẫn có ý nghĩa trong bảng dữ liệu có hiệu ứng cố định nước.
 
 ### 5. Đầu tư và tăng trưởng
 
-- Hồi quy đơn biến cho thấy quan hệ có ý nghĩa với cả đầu tư lẫn tăng trưởng, và hệ số lớn hơn khi dùng biến công cụ.
-- Quan hệ vẫn có ý nghĩa khi thêm các biến chuẩn theo Levine và Renelt: thu nhập ban đầu, tỷ lệ nhập học trung học ban đầu và tăng dân số.
-- Khi thêm đầu tư vào hồi quy tăng trưởng, hệ số tham nhũng giảm hai phần ba, cho thấy phần lớn tác động đi qua đầu tư.
+**Đầu tư.** Biến phụ thuộc là tỷ lệ đầu tư trên GDP, bình quân 1960–1985. Con số trong ngoặc là hệ số t.
+
+| Biến | (1) OLS | (2) 2SLS | (3) OLS | (4) 2SLS |
+|---|---|---|---|---|
+| Chỉ số tham nhũng | 0,0187 (7,03) | 0,0320 (3,93) | 0,0095 (2,09) | 0,0281 (0,99) |
+| GDP đầu người năm 1960 | | | −0,0062 | −0,0213 |
+| Tỷ lệ nhập học trung học năm 1960 | | | 0,1749 (2,95) | 0,1241 (1,21) |
+| Tăng dân số | | | −0,8226 | −1,0160 |
+| R² | 0,32 | — | 0,44 | — |
+
+**Tăng trưởng.** Biến phụ thuộc là tăng trưởng GDP bình quân đầu người 1960–1985.
+
+| Biến | (1) OLS | (2) 2SLS | (3) OLS | (4) 2SLS | (5) OLS |
+|---|---|---|---|---|---|
+| Chỉ số tham nhũng | 0,0029 (4,74) | 0,0081 (3,61) | 0,0038 (2,95) | 0,0175 (1,40) | 0,0028 (2,01) |
+| Đầu tư | | | | | 0,1056 (3,09) |
+| R² | 0,14 | — | 0,31 | — | 0,42 |
+
+**Đọc các bảng.**
+
+- *Hồi quy đơn biến (cột 1)* cho quan hệ có ý nghĩa với cả đầu tư lẫn tăng trưởng. Cải thiện chỉ số tham nhũng một độ lệch chuẩn (2,38 điểm) đi kèm đầu tư tăng khoảng 4,4 điểm phần trăm GDP (0,0187 × 2,38) và tăng trưởng tăng khoảng 0,7 điểm phần trăm mỗi năm (0,0029 × 2,38). Ví dụ của chính bài: một nước nâng chỉ số từ 6/10 lên 8/10 thì đầu tư tăng gần 4 điểm phần trăm GDP.
+- *Dùng biến công cụ (cột 2)*, với công cụ là chỉ số đa dạng dân tộc–ngôn ngữ, hệ số còn lớn hơn: 0,0320 với đầu tư và 0,0081 với tăng trưởng.
+- *Thêm biến kiểm soát chuẩn (cột 3)* theo Levine và Renelt, gồm thu nhập ban đầu, tỷ lệ nhập học trung học ban đầu và tăng dân số, quan hệ vẫn có ý nghĩa nhưng hệ số với đầu tư nhỏ đi một nửa (0,0095).
+- *Vừa có biến kiểm soát vừa dùng công cụ (cột 4)*, hệ số mất ý nghĩa thống kê (t = 0,99 với đầu tư, 1,40 với tăng trưởng).
+- *Thêm đầu tư vào hồi quy tăng trưởng (cột 5)*: hệ số tham nhũng giảm khoảng hai phần ba so với các đặc tả không có đầu tư, còn 0,0028, vừa đủ ý nghĩa ở mức 5%. Nghĩa là phần lớn tác động của tham nhũng lên tăng trưởng đi **qua kênh đầu tư**, phần còn lại có thể là tác động trực tiếp.
+
+**Biến công cụ.** Bài dùng ba biến công cụ:
+
+| Biến công cụ | Tương quan với chỉ số tham nhũng |
+|---|---|
+| Chỉ số đa dạng dân tộc–ngôn ngữ (ELF) năm 1960 | 0,39 |
+| Từng là thuộc địa (sau 1776) | 0,46 |
+| Độc lập sau 1945 | 0,38 |
+
+ELF được tính bằng 1 − Σ(nᵢ/N)², trong đó nᵢ là số người thuộc nhóm i và N là tổng dân số; nó bằng xác suất hai người chọn ngẫu nhiên không cùng một nhóm. Số liệu lấy từ Atlas Narodov Mira, do Liên Xô xuất bản năm 1964. Điều kiện để các biến này hợp lệ là chúng chỉ ảnh hưởng tới tăng trưởng, đầu tư và chi tiêu **qua** tham nhũng. Tác giả tự thừa nhận rằng nói đúng ra chúng là công cụ cho hiệu quả thể chế nói chung, và được dùng chủ yếu để xử lý tính chủ quan của chỉ số.
 
 ### 6. Cơ cấu chi tiêu công
 
-- Mô hình khái quát hoá Barro cho thấy nếu tham nhũng chỉ như thuế tỷ lệ trên thu nhập thì cơ cấu chi tiêu không phụ thuộc tham nhũng. Vì vậy, nếu thấy quan hệ giữa tham nhũng và từng khoản chi thì có thể hiểu là hối lộ dễ thu ở một số khoản hơn.
-- Dù dữ liệu chi tiêu nhiễu, vì khó đảm bảo các nước phân loại giống nhau và mỗi hạng mục có cả dự án hữu ích lẫn vô ích, bài vẫn tìm thấy quan hệ âm có ý nghĩa giữa tham nhũng và chi giáo dục.
-- Với số liệu GFS chi tiết hơn, chi y tế cũng có quan hệ âm có ý nghĩa với tham nhũng. Quan hệ với các tiểu mục của giáo dục và y tế thì mờ nhạt hơn.
-- Giả thuyết phổ biến rằng tham nhũng dẫn tới chi đầu tư lớn cho các dự án "con voi trắng" chỉ được dữ liệu ủng hộ yếu.
-- Với đầu tư công, không thấy quan hệ rõ nào. Có thể vì mẫu nhỏ, hoặc vì hối lộ dễ thu từ xây trường hơn từ lương giáo viên.
-- Khi dùng biến công cụ, kết quả lẫn lộn: có gợi ý rằng tham nhũng là nguyên nhân làm giảm chi giáo dục, nhưng chưa chắc chắn.
+**Mô hình chuẩn so sánh.** Bài khái quát hoá mô hình tăng trưởng của Barro (1990) với N loại chi tiêu công. Sản lượng là y = A·k^(1−α)·Π gᵢ^αᵢ, trong đó k là vốn tư nhân, gᵢ là từng loại chi tiêu công, và tổng các αᵢ bằng α. Chính phủ tối đa hoá một trung bình có trọng số giữa lợi ích của dân và lợi ích của quan chức: (1 − ψ)·U_dân + ψ·U_quan chức, trong đó ψ là mức "tham nhũng" và θ là độ bất ổn chính trị.
+
+Mô hình cho hai kết quả:
+
+- ψ hoặc θ cao hơn thì tổng thuế cộng hối lộ τ cao hơn, nên đầu tư tư nhân và tăng trưởng thấp hơn. Điều này khớp với kết quả hồi quy đầu tư và tăng trưởng ở mục 5.
+- Nhưng tỷ lệ mỗi loại chi trên GDP **không phụ thuộc** mức tham nhũng: tỷ lệ giữa hai khoản chi bất kỳ là φⱼ/φₖ = αⱼ/αₖ, chỉ do công nghệ sản xuất quyết định.
+
+Ý nghĩa: nếu hối lộ chỉ hoạt động như một khoản thuế tỷ lệ trên thu nhập, cơ cấu chi tiêu sẽ không đổi theo tham nhũng. Vì vậy, nếu dữ liệu cho thấy cơ cấu chi **có** liên quan tới tham nhũng, thì phải hiểu là hối lộ dễ thu ở một số khoản chi hơn các khoản khác. Mô hình đóng vai trò giả thuyết đối chứng.
+
+**Lưu ý về dữ liệu.** Dữ liệu chi tiêu nhiễu: khó bảo đảm các nước phân loại khoản chi giống nhau, và mỗi hạng mục đều chứa cả dự án hữu ích lẫn vô ích. Dù vậy bài vẫn tìm thấy quan hệ có ý nghĩa với chi giáo dục.
+
+**Kết quả với số liệu Barro** (bình quân 1970–1985, % GDP; hệ số dương nghĩa là nước ít tham nhũng hơn chi nhiều hơn; t trong ngoặc):
+
+| Khoản chi | Chỉ có chỉ số tham nhũng | Thêm GDP đầu người năm 1980 |
+|---|---|---|
+| Giáo dục | 0,0023 (3,97) | 0,0020 (2,20) |
+| Tiêu dùng chính phủ | −0,0047 (−1,70) | 0,0052 (1,46) |
+| Quốc phòng | 0,0004 (0,28) | 0,0009 (0,25) |
+| Chuyển giao | 0,0208 (7,22) | 0,0001 (0,03) |
+| An sinh, phúc lợi | 0,0156 (7,94) | 0,0041 (1,64) |
+
+Cải thiện chỉ số một độ lệch chuẩn đi kèm chi giáo dục tăng khoảng 0,5% GDP. Chi chuyển giao và phúc lợi có quan hệ rất mạnh khi đứng một mình, nhưng mất ý nghĩa khi kiểm soát thu nhập: đó là luật Wagner, nước giàu chi phúc lợi nhiều hơn so với GDP, và nước giàu cũng thường ít tham nhũng. Giáo dục là khoản **duy nhất** còn có ý nghĩa ở mức 95% sau khi kiểm soát thu nhập.
+
+**Kết quả với số liệu GFS năm 1985** (có kiểm soát GDP đầu người):
+
+| Khoản chi | Hệ số (t) | Nhận xét |
+|---|---|---|
+| Tổng chi | 0,0043 (0,36) | không liên quan |
+| Chi thường xuyên | 0,0124 (1,34) | không có ý nghĩa |
+| Chi đầu tư | −0,0064 (−1,61) | nước tham nhũng hơn chi đầu tư nhiều hơn, chỉ vừa sát mức 90% |
+| Giáo dục | 0,0030 (2,29) | có ý nghĩa |
+| Y tế | 0,0027 (2,34) | có ý nghĩa |
+| Trường học (tiểu mục giáo dục) | 0,0028 (1,60) | mờ nhạt |
+| Đại học (tiểu mục giáo dục) | 0,0008 (2,45) | có ý nghĩa nhưng nhỏ |
+| Quốc phòng, giao thông | — | không có ý nghĩa |
+
+Với số liệu chi tiết hơn này, chi y tế cũng có quan hệ có ý nghĩa: nước tham nhũng hơn chi ít hơn cho y tế. Quan hệ với các tiểu mục của giáo dục và y tế thì mờ nhạt hơn. Giả thuyết phổ biến rằng tham nhũng đẩy chính phủ sang chi đầu tư lớn cho các dự án "con voi trắng" (công trình phô trương mà vô ích) chỉ được ủng hộ yếu.
+
+**Kết quả với đầu tư công** (số liệu Easterly–Rebelo, khoảng 40 nước đang phát triển): hầu như không có quan hệ nào có ý nghĩa. Có thể do mẫu nhỏ. Cũng có thể vì tham nhũng giữ nguyên **mức** đầu tư công (nhưng không giữ chất lượng) trong khi đầu tư tư nhân giảm, và vì hối lộ khó thu từ lương giáo viên nhưng dễ thu từ việc xây trường, tức là tham nhũng có thể làm thay đổi cơ cấu bên trong một hạng mục mà không làm thay đổi tổng.
+
+**Kiểm tra độ vững cho giáo dục.**
+
+| Đặc tả | Hệ số | t |
+|---|---|---|
+| Giáo dục/GDP, kiểm soát tiêu dùng chính phủ/GDP | 0,0027 | 5,48 |
+| Như trên, thêm GDP đầu người | 0,0014 | 1,62 (vừa sát ngưỡng) |
+| Giáo dục/tiêu dùng chính phủ | 0,0256 | 5,40 |
+| Như trên, thêm GDP đầu người | 0,0056 | 1,09 (không có ý nghĩa) |
+| Giáo dục/GDP, công cụ ELF | 0,0011 | 0,74 (không có ý nghĩa) |
+| Giáo dục/GDP, công cụ ELF và thuộc địa | 0,0015 | 1,36 (không có ý nghĩa) |
+| Giáo dục/tiêu dùng chính phủ, công cụ ELF | 0,0318 | 3,04 |
+| Giáo dục/tiêu dùng chính phủ, công cụ ELF và thuộc địa | 0,0331 | 3,95 |
+
+Khi dùng biến công cụ, kết quả lẫn lộn: hệ số với tỷ lệ giáo dục trên GDP giảm khoảng một nửa và mất ý nghĩa, còn hệ số với tỷ trọng giáo dục trong tiêu dùng chính phủ lại tăng và có ý nghĩa. Bài kết luận rằng bằng chứng **gợi ý** chứ không kết luận được rằng tham nhũng là nguyên nhân làm chi giáo dục thấp.
 
 ### 7. Chiều nhân quả và chính sách
 
-- Chiều nhân quả thường mờ: không rõ quy định sinh ra tham nhũng, hay quan chức tham nhũng tạo ra quy định. Nhân quả nhiều khả năng đi theo cả hai chiều.
-- Tương quan quan sát được có thể đủ để cân nhắc khuyến khích chính phủ chi nhiều hơn cho các hạng mục ít bị tham nhũng. Tuy vậy, điều đó chỉ hiệu quả nếu cơ cấu chi được quy định đủ chặt để không thể thay thế bên trong hạng mục.
+Chiều nhân quả giữa tham nhũng và cơ cấu chi thường mờ: không rõ quy định sinh ra tham nhũng, hay quan chức tham nhũng tạo ra quy định để thu lợi. Nhiều khả năng nhân quả đi theo cả hai chiều. Bài xét hai khả năng:
+
+| Khả năng | Chiều nhân quả | Hệ quả chính sách |
+|---|---|---|
+| A | Cơ cấu chi xấu tạo ra cơ hội tham nhũng | Buộc cải thiện cơ cấu chi sẽ làm giảm tham nhũng |
+| B | Tham nhũng khiến chính phủ chọn cơ cấu chi xấu | Chính phủ tham nhũng sẽ lách: thay dự án hữu ích bằng dự án béo bở ngay trong cùng một hạng mục, mà vẫn báo cáo "tỷ trọng chi giáo dục đã tăng" |
+
+Kết luận của bài: tương quan quan sát được có thể đủ để cân nhắc khuyến khích chính phủ chi nhiều hơn cho các hạng mục ít bị tham nhũng, và cách làm đó có thể hữu ích với cả hai chiều nhân quả. Nhưng nó chỉ hiệu quả khi cơ cấu chi được quy định đủ chi tiết để không thể thay thế bên trong hạng mục. Ví dụ minh hoạ: nếu chỉ tiêu chỉ là "tăng chi giáo dục", chính phủ có thể đáp ứng bằng cách xây thêm trường thay vì trả thêm lương giáo viên, và mục tiêu thực sự không đạt được.
 
 ### 8. Kết luận
 
-- Tham nhũng có tác động tiêu cực đáng kể lên tăng trưởng, chủ yếu qua giảm đầu tư tư nhân, và có thể qua cơ cấu chi tiêu công kém hơn.
-- Quan hệ âm giữa tham nhũng và chi giáo dục đáng lo ngại, vì tài liệu trước cho thấy trình độ giáo dục là yếu tố quan trọng quyết định tăng trưởng.
+Tham nhũng có tác động tiêu cực đáng kể lên tăng trưởng kinh tế. Kênh chính là làm giảm đầu tư tư nhân: cải thiện chỉ số tham nhũng một độ lệch chuẩn đi kèm đầu tư cao hơn hơn 4 điểm phần trăm GDP và tăng trưởng GDP bình quân đầu người cao hơn hơn 0,5 điểm phần trăm mỗi năm. Một kênh khác có thể là cơ cấu chi tiêu công kém hơn.
+
+Quan hệ âm giữa tham nhũng và chi cho giáo dục, khoảng 0,5% GDP cho mỗi độ lệch chuẩn, là điều đáng lo ngại, vì tài liệu trước đã cho thấy trình độ giáo dục là một yếu tố quan trọng quyết định tăng trưởng.
 
 ## Thuật ngữ
 
