@@ -89,34 +89,105 @@
 2. Dữ liệu kinh tế gây khó khăn gì so với khoa học tự nhiên?
 3. Quy trình bốn bước của kinh tế lượng ứng dụng là gì?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Kinh tế lượng (econometrics).** Việc kết hợp lý thuyết kinh tế, toán học và suy luận thống kê để đo xem các quan hệ kinh tế mạnh tới mức nào. Lý thuyết thường chỉ nói hai biến đi cùng chiều; kinh tế lượng cho ra con số. Ví dụ trong bài: thay vì nói "thu nhập tăng thì tiêu dùng tăng", kinh tế lượng ước tính "mỗi đô la thu nhập khả dụng tăng thêm làm tiêu dùng tăng 95 xu". Đây là chủ đề của cả bài.
+
+**Định tính và định lượng.** Phát biểu định tính chỉ nói về hướng của quan hệ (dương hay âm, tăng hay giảm). Phát biểu định lượng nói cả độ lớn. Ví dụ minh hoạ: "lãi suất tăng làm lạm phát giảm" là định tính; "lãi suất tăng 1 điểm phần trăm làm lạm phát giảm 0,3 điểm phần trăm sau một năm" là định lượng (số giả định). Bài nhấn mạnh rằng nhà hoạch định chính sách cần loại thứ hai.
+
+**Biến phụ thuộc và biến giải thích (dependent and explanatory variables).** Biến phụ thuộc là thứ ta muốn giải thích; biến giải thích là những thứ được cho là tác động lên nó. Ví dụ trong bài: chi tiêu tiêu dùng của hộ gia đình là biến phụ thuộc; thu nhập khả dụng, của cải, lãi suất, thuế là các biến giải thích. Mọi mô hình hồi quy đều được xây quanh sự phân biệt này.
+
+**Hồi quy tuyến tính bội và tác động biên (linear multiple regression, marginal impact).** Hồi quy tuyến tính bội là phương pháp ước lượng xem mỗi biến giải thích tác động bao nhiêu lên biến phụ thuộc **khi các biến giải thích khác được giữ nguyên**. Phần tác động riêng của một biến đó gọi là tác động biên. Ví dụ trong bài: tách riêng tác động của việc tăng thuế 1 điểm phần trăm lên chi tiêu của một hộ trung bình, trong khi thu nhập trước thuế, của cải và lãi suất không đổi. Đây là công cụ chính của kinh tế lượng.
+
+**Sai số (error term).** Một biến "gom" mọi yếu tố ảnh hưởng tới biến phụ thuộc mà mô hình không tính được, vì dữ liệu quá phức tạp hoặc thiếu. Thường giả định nó có trung bình bằng 0 và không dự đoán được. Ví dụ minh hoạ: hai hộ cùng thu nhập, cùng của cải nhưng một hộ tiêu nhiều hơn vì vừa có đám cưới; phần chênh lệch đó rơi vào sai số. Giả định về sai số là điều kiện để các con số ước lượng đáng tin.
+
+**Ngang giá sức mua (purchasing power parity).** Nguyên lý cho rằng khi hàng hoá đi lại tự do qua biên giới, giá cả ở hai nước sẽ chuyển động cùng nhau sau khi tính tới thay đổi của tỷ giá. Ví dụ minh hoạ: nếu giá ở nước ngoài tăng 5% và tỷ giá không đổi, giá trong nước cũng phải tăng khoảng 5%. Bài dùng nguyên lý này làm ví dụ cho bước một, đặt giả thuyết từ lý thuyết.
+
+**Kiểm định giả thuyết (hypothesis testing).** Thủ tục thống kê để xem con số ước lượng được có phù hợp với một giá trị mà nhà nghiên cứu nêu trước hay không. Ví dụ minh hoạ: lý thuyết ngang giá sức mua nói hệ số giữa giá trong nước và giá nước ngoài là 1; nếu ước lượng ra 0,4 và kiểm định cho thấy khác biệt đó không thể do ngẫu nhiên, ta bác bỏ giả thuyết. Đây là công cụ chính của bước bốn, bước quan trọng nhất.
+
+**Rác vào, rác ra (garbage in, garbage out, GIGO).** Nguyên lý từ tin học: đưa dữ liệu hay mô hình tồi vào máy thì kết quả cũng tồi, dù máy tính toán chính xác. Ví dụ minh hoạ: phần mềm vẫn cho ra một hệ số đẹp đẽ khi hồi quy doanh số kem lên số vụ đuối nước, nhưng hệ số đó không nói gì về việc kem gây đuối nước. Bài dùng nguyên lý này để nhắc rằng tính được không có nghĩa là có ý nghĩa kinh tế.
+
+## Nội dung chi tiết
 
 ### 1. Lượng hoá lý thuyết
 
-- Nhà kinh tế xây mô hình để giải thích các quan hệ lặp lại nhất quán, nối một hay nhiều biến với biến khác. Ví dụ nối chi tiêu tiêu dùng với thu nhập khả dụng và của cải, kỳ vọng tiêu dùng tăng khi hai thứ này tăng (quan hệ dương).
-- Thường có nhiều mô hình cạnh tranh giải thích cùng một quan hệ lặp lại, gọi là quy luật thực nghiệm, nhưng ít mô hình cho manh mối hữu ích về độ lớn của quan hệ. Đây lại là điều nhà hoạch định quan tâm nhất. Khi đặt chính sách tiền tệ, ngân hàng trung ương cần biết tác động khả dĩ của thay đổi lãi suất chính thức lên lạm phát và tăng trưởng. Những lúc đó nhà kinh tế dùng kinh tế lượng.
-- Kinh tế lượng dùng lý thuyết kinh tế, toán học và suy luận thống kê để lượng hoá hiện tượng kinh tế, biến mô hình lý thuyết thành công cụ hữu ích cho hoạch định chính sách. Mục tiêu: chuyển phát biểu định tính ("quan hệ giữa hai biến là dương") thành định lượng ("chi tiêu tiêu dùng tăng 95 xu cho mỗi đô la tăng thu nhập khả dụng"). Nhà kinh tế lượng biến mô hình của nhà lý thuyết thành dạng ước lượng được. Theo Stock và Watson (2007), phương pháp kinh tế lượng dùng trong nhiều nhánh: tài chính, kinh tế lao động, vĩ mô, vi mô, chính sách. Quyết định chính sách hiếm khi được đưa ra mà không có phân tích kinh tế lượng đánh giá tác động.
+**Mô hình kinh tế giải thích các quan hệ lặp lại.** Nhà kinh tế xây mô hình để giải thích những quan hệ lặp đi lặp lại một cách nhất quán, nối một hay nhiều biến với một biến khác. Ví dụ: một mô hình nối chi tiêu tiêu dùng với thu nhập khả dụng (thu nhập sau thuế) và của cải, và dự đoán tiêu dùng tăng khi hai thứ này tăng. Quan hệ cùng chiều như vậy gọi là quan hệ dương.
+
+**Lý thuyết hiếm khi cho biết độ lớn.** Thường có nhiều mô hình cạnh tranh nhau cùng giải thích một quan hệ lặp lại, gọi là **quy luật thực nghiệm**. Nhưng ít mô hình cho biết quan hệ đó **lớn tới mức nào**. Đây lại chính là điều nhà hoạch định chính sách quan tâm nhất. Ví dụ: khi điều hành chính sách tiền tệ, ngân hàng trung ương cần biết thay đổi lãi suất chính thức sẽ tác động bao nhiêu lên lạm phát và tăng trưởng. Những lúc như vậy, nhà kinh tế dùng kinh tế lượng.
+
+**Kinh tế lượng làm gì.** Kinh tế lượng dùng lý thuyết kinh tế, toán học và suy luận thống kê để đo lường các hiện tượng kinh tế, biến mô hình lý thuyết thành công cụ dùng được cho chính sách. Mục tiêu là chuyển:
+
+| Từ phát biểu định tính | Sang phát biểu định lượng |
+|---|---|
+| "Quan hệ giữa hai biến là dương" | "Chi tiêu tiêu dùng tăng 95 xu cho mỗi 1 đô la thu nhập khả dụng tăng thêm" |
+
+Nói cách khác, nhà kinh tế lượng biến mô hình của nhà lý thuyết thành dạng có thể ước lượng được bằng dữ liệu. Theo Stock và Watson (2007), phương pháp kinh tế lượng được dùng trong nhiều nhánh: tài chính, kinh tế lao động, kinh tế vĩ mô, kinh tế vi mô và chính sách kinh tế. Bài nhận xét rằng ngày nay hiếm có quyết định chính sách nào được đưa ra mà không có phân tích kinh tế lượng để đánh giá tác động của nó.
 
 ### 2. Nhiệm vụ khó khăn
 
-- Đặc điểm dữ liệu kinh tế khiến lượng hoá mô hình khó. Khác nhà khoa học tự nhiên, nhà kinh tế lượng hiếm khi làm được thí nghiệm có kiểm soát chỉ thay đổi một biến và đo phản ứng. Thay vào đó phải ước lượng quan hệ từ dữ liệu sinh ra bởi hệ phương trình phức tạp liên quan nhau, trong đó mọi biến có thể thay đổi cùng lúc. Đặt ra câu hỏi liệu dữ liệu có đủ thông tin để nhận diện các ẩn số trong mô hình.
-- **Kinh tế lượng lý thuyết:** nghiên cứu tính chất của các kiểm định thống kê và thủ tục ước lượng hiện có; phát triển thủ tục mới hợp lệ (vững) bất chấp đặc thù dữ liệu kinh tế như xu hướng thay đổi đồng thời. Dựa nhiều vào toán học, thống kê lý thuyết, phương pháp số để chứng minh thủ tục mới rút ra suy luận đúng.
-- **Kinh tế lượng ứng dụng:** dùng kỹ thuật do nhà lý thuyết phát triển để chuyển phát biểu định tính thành định lượng. Vì gần dữ liệu hơn, họ thường gặp và báo cho đồng nghiệp lý thuyết các thuộc tính dữ liệu gây vấn đề cho kỹ thuật ước lượng hiện có, ví dụ phát hiện phương sai dữ liệu (mức các giá trị riêng lẻ lệch khỏi trung bình) thay đổi theo thời gian.
-- **Công cụ chính là mô hình hồi quy tuyến tính bội:** cách tiếp cận chính thức để ước lượng thay đổi của một biến kinh tế, biến giải thích, ảnh hưởng thế nào đến biến được giải thích, biến phụ thuộc, sau khi tính tác động của mọi yếu tố khác quyết định biến phụ thuộc. Điều kiện này quan trọng vì hồi quy tìm tác động biên của một biến giải thích cụ thể sau khi tính các biến giải thích khác trong mô hình. Ví dụ: cô lập tác động của tăng thuế 1 điểm phần trăm lên chi tiêu tiêu dùng hộ gia đình trung bình, giữ nguyên các yếu tố khác như thu nhập trước thuế, của cải, lãi suất.
+**Không có thí nghiệm có kiểm soát.** Đặc điểm của dữ liệu kinh tế làm cho việc đo lường các mô hình trở nên khó. Nhà khoa học tự nhiên có thể làm thí nghiệm: giữ mọi thứ cố định, chỉ thay đổi một yếu tố rồi đo phản ứng. Nhà kinh tế lượng hiếm khi làm được như vậy. Họ phải ước lượng các quan hệ từ dữ liệu do cả một hệ thống phức tạp các phương trình liên quan với nhau sinh ra, trong đó **mọi biến có thể thay đổi cùng lúc**. Điều này đặt ra câu hỏi: dữ liệu có chứa đủ thông tin để xác định (nhận diện) các ẩn số trong mô hình hay không.
+
+Ví dụ minh hoạ: trong một năm, lãi suất tăng, giá dầu tăng và chi tiêu chính phủ giảm cùng lúc, và lạm phát giảm. Không có cách nào làm lại năm đó chỉ với lãi suất thay đổi, nên muốn biết riêng phần của lãi suất phải dựa vào phương pháp thống kê.
+
+**Hai nhánh của kinh tế lượng.** Bài chia ngành thành hai nhóm công việc:
+
+| | Kinh tế lượng lý thuyết | Kinh tế lượng ứng dụng |
+|---|---|---|
+| Làm gì | Nghiên cứu tính chất của các kiểm định thống kê và thủ tục ước lượng hiện có; phát triển thủ tục mới vẫn cho kết quả đúng (vững) dù dữ liệu kinh tế có những đặc thù, ví dụ nhiều biến cùng có xu hướng thay đổi theo thời gian | Dùng các kỹ thuật do nhà lý thuyết phát triển để chuyển phát biểu định tính thành định lượng |
+| Dựa vào | Toán học, thống kê lý thuyết, phương pháp số, để chứng minh thủ tục mới cho suy luận đúng | Dữ liệu thực tế |
+| Đóng góp ngược lại | | Vì làm việc gần dữ liệu, họ phát hiện và báo cho nhà lý thuyết những đặc điểm của dữ liệu gây khó cho kỹ thuật hiện có, ví dụ phương sai (mức các giá trị riêng lẻ lệch khỏi trung bình) thay đổi theo thời gian |
+
+**Công cụ chính: hồi quy tuyến tính bội.** Đây là cách tiếp cận chính thức để ước lượng xem thay đổi của một biến kinh tế (biến giải thích) ảnh hưởng thế nào tới biến được giải thích (biến phụ thuộc), **sau khi đã tính tới tác động của mọi yếu tố khác** quyết định biến phụ thuộc. Điều kiện "sau khi đã tính tới" là quan trọng, vì hồi quy tìm **tác động biên** của một biến giải thích cụ thể sau khi đã tính tới các biến giải thích khác trong mô hình.
+
+Ví dụ của bài: mô hình có thể cô lập tác động của việc tăng thuế 1 điểm phần trăm lên chi tiêu tiêu dùng của hộ gia đình trung bình, trong khi giữ nguyên các yếu tố khác như thu nhập trước thuế, của cải và lãi suất.
 
 ### 3. Bốn giai đoạn
 
-- **Bước một:** đề xuất lý thuyết hay giả thuyết để giải thích dữ liệu. Nêu rõ các biến giải thích, dấu và/hoặc độ lớn quan hệ với biến phụ thuộc. Nhà kinh tế lượng ứng dụng dựa nhiều vào lý thuyết kinh tế. Ví dụ, một nguyên lý kinh tế quốc tế là giá cả qua biên giới mở cùng chuyển động sau khi tính biến động tỷ giá danh nghĩa (ngang giá sức mua). Quan hệ thực nghiệm giữa giá trong nước và giá nước ngoài (điều chỉnh tỷ giá) phải dương và xấp xỉ một đổi một.
-- **Bước hai:** đặc tả mô hình thống kê nắm bản chất lý thuyết. Mô hình đề xuất quan hệ toán học cụ thể giữa biến phụ thuộc và biến giải thích, điều lý thuyết kinh tế tiếc là thường im lặng. Phổ biến nhất là giả định tuyến tính: thay đổi ở biến giải thích luôn tạo cùng thay đổi ở biến phụ thuộc (đường thẳng). Vì không thể tính mọi ảnh hưởng lên biến phụ thuộc, thêm biến "gom" để hoàn tất đặc tả: đại diện mọi yếu tố không tính được do dữ liệu phức tạp hoặc thiếu. Thường giả định biến "sai số" này trung bình bằng không và không dự đoán được, để nhất quán với tiền đề mô hình đã tính mọi biến giải thích quan trọng.
-- **Bước ba:** dùng thủ tục thống kê phù hợp và phần mềm kinh tế lượng để ước lượng tham số (hệ số) chưa biết bằng dữ liệu kinh tế. Thường là phần dễ nhất nhờ dữ liệu sẵn có và phần mềm tốt. Nhưng nguyên lý GIGO (rác vào, rác ra) của tin học cũng áp dụng: tính được không có nghĩa là có ý nghĩa kinh tế.
-- **Bước bốn, quan trọng nhất:** "kiểm tra mùi". Mô hình ước lượng có hợp lý kinh tế không, tức có cho dự đoán kinh tế có ý nghĩa không? Dấu các tham số nối biến phụ thuộc với biến giải thích có nhất quán với lý thuyết nền không? (Trong ví dụ tiêu dùng hộ gia đình, mô hình dự đoán chi tiêu giảm khi thu nhập tăng thì đáng ngờ.) Nếu tham số không hợp lý, nên sửa mô hình thống kê thế nào? Và ước lượng hợp lý hơn có hàm ý tác động kinh tế đáng kể không? Bước này đòi hỏi và thử thách kỹ năng, kinh nghiệm của nhà kinh tế lượng ứng dụng.
+Bài mô tả kinh tế lượng ứng dụng như một quy trình bốn bước.
+
+**Bước 1: Đặt giả thuyết.** Đề xuất một lý thuyết hay giả thuyết để giải thích dữ liệu đang xét. Nêu rõ các biến giải thích, và dấu (cùng chiều hay ngược chiều) và/hoặc độ lớn của quan hệ giữa chúng với biến phụ thuộc. Nhà kinh tế lượng ứng dụng dựa nhiều vào lý thuyết kinh tế ở bước này.
+
+Ví dụ của bài là **ngang giá sức mua**, một nguyên lý của kinh tế quốc tế: giá cả ở hai bên một biên giới mở sẽ chuyển động cùng nhau sau khi tính tới biến động của tỷ giá danh nghĩa. Vậy quan hệ thực nghiệm giữa giá trong nước và giá nước ngoài (đã điều chỉnh theo tỷ giá) phải **dương** và **xấp xỉ một đổi một** (tỷ lệ 1:1): giá nước ngoài tăng 1% thì giá trong nước tăng khoảng 1%.
+
+**Bước 2: Đặc tả mô hình thống kê.** Viết ra một mô hình thống kê nắm được bản chất của lý thuyết. Mô hình phải đề xuất một quan hệ toán học cụ thể giữa biến phụ thuộc và các biến giải thích, điều mà lý thuyết kinh tế, đáng tiếc, thường không nói gì. Hai lựa chọn chính:
+
+- **Dạng tuyến tính.** Phổ biến nhất là giả định quan hệ tuyến tính, tức một thay đổi ở biến giải thích **luôn** tạo ra cùng một mức thay đổi ở biến phụ thuộc. Vẽ ra thì đó là một đường thẳng.
+- **Biến sai số.** Vì không thể tính hết mọi thứ ảnh hưởng tới biến phụ thuộc, người ta thêm một biến "gom" để hoàn chỉnh mô hình. Biến này đại diện cho mọi yếu tố không tính được, do dữ liệu quá phức tạp hoặc thiếu. Thông thường giả định biến "sai số" này có trung bình bằng 0 và không dự đoán được, để phù hợp với tiền đề rằng mô hình đã đưa vào mọi biến giải thích quan trọng.
+
+**Bước 3: Ước lượng.** Dùng thủ tục thống kê phù hợp và phần mềm kinh tế lượng để ước lượng các tham số (hệ số) chưa biết của mô hình từ dữ liệu kinh tế. Đây thường là phần **dễ nhất**, nhờ dữ liệu sẵn có và phần mềm tốt. Nhưng nguyên lý GIGO của tin học ("rác vào, rác ra") vẫn áp dụng: tính được một con số không có nghĩa là con số đó có ý nghĩa kinh tế.
+
+**Bước 4: "Kiểm tra mùi", bước quan trọng nhất.** Kiểm tra xem mô hình đã ước lượng có hợp lý về kinh tế không, tức có cho ra những dự đoán có ý nghĩa kinh tế không. Bài nêu các câu hỏi phải đặt ra:
+
+1. Dấu của các tham số nối biến phụ thuộc với biến giải thích có phù hợp với lý thuyết nền không? Ví dụ: nếu mô hình tiêu dùng hộ gia đình dự đoán chi tiêu **giảm** khi thu nhập **tăng**, kết quả đó đáng ngờ.
+2. Nếu tham số không hợp lý, nên sửa mô hình thống kê thế nào?
+3. Nếu ước lượng đã hợp lý, nó có hàm ý một tác động kinh tế **đáng kể** không, hay chỉ rất nhỏ?
+
+Bài nhấn mạnh bước này đòi hỏi và thử thách nhiều nhất kỹ năng và kinh nghiệm của nhà kinh tế lượng ứng dụng.
+
+Tóm tắt bốn bước:
+
+| Bước | Việc | Ví dụ hoặc lưu ý trong bài |
+|---|---|---|
+| 1 | Đặt giả thuyết từ lý thuyết: biến nào, dấu nào, độ lớn bao nhiêu | Ngang giá sức mua: quan hệ dương, xấp xỉ 1:1 |
+| 2 | Chọn dạng toán học và thêm biến sai số | Thường là tuyến tính; sai số trung bình bằng 0, không dự đoán được |
+| 3 | Ước lượng tham số bằng phần mềm | Dễ nhất; nhưng rác vào thì rác ra |
+| 4 | Kiểm tra mùi | Quan trọng nhất; chi tiêu giảm khi thu nhập tăng là dấu hiệu sai |
+
+**Ví dụ hôm nay** (minh hoạ chung, số giả định). Một nhóm phân tích muốn biết người dân chi thêm bao nhiêu khi thu nhập tăng. Bước 1: lý thuyết nói quan hệ dương và nhỏ hơn 1 (không ai tiêu hết mọi đồng tăng thêm). Bước 2: chọn mô hình tuyến tính, chi tiêu phụ thuộc thu nhập, của cải và lãi suất, cộng sai số. Bước 3: phần mềm cho hệ số thu nhập là 0,7. Bước 4: dấu dương, độ lớn dưới 1, nghĩa là mỗi 100 nghìn đồng thu nhập tăng thêm thì chi tiêu tăng khoảng 70 nghìn đồng, hợp lý và đủ lớn để có ý nghĩa. Nếu phần mềm cho ra −0,7, nhóm phải quay lại tìm lỗi trong dữ liệu hoặc mô hình.
 
 ### 4. Kiểm định giả thuyết và ba nguyên tắc
 
-- Công cụ chính của bước bốn là kiểm định giả thuyết: thủ tục thống kê chính thức trong đó nhà nghiên cứu nêu phát biểu cụ thể về giá trị thật của một tham số kinh tế, và kiểm định thống kê xác định tham số ước lượng có nhất quán với giả thuyết đó không. Nếu không, phải bác bỏ giả thuyết hoặc đặc tả lại mô hình và làm lại.
-- Nếu cả bốn bước suôn sẻ, kết quả là công cụ đánh giá giá trị thực nghiệm của mô hình kinh tế trừu tượng. Mô hình thực nghiệm cũng có thể dùng để dự báo biến phụ thuộc, giúp nhà hoạch định quyết định thay đổi chính sách tiền tệ và/hoặc tài khoá để giữ nền kinh tế ổn định.
-- Sinh viên thường mê khả năng của hồi quy tuyến tính bội trong ước lượng quan hệ kinh tế. Ba nguyên tắc đáng nhớ: thứ nhất, chất lượng ước lượng tham số phụ thuộc tính hợp lệ của mô hình kinh tế nền. Thứ hai, nếu bỏ sót biến giải thích liên quan, kết quả khả dĩ nhất là ước lượng kém. Thứ ba, kể cả khi nhà kinh tế lượng nhận diện đúng quy trình thực sự sinh dữ liệu, ước lượng tham số chỉ có cơ hội mong manh bằng giá trị thật. Dù vậy vẫn được dùng vì về mặt thống kê, chúng sẽ chính xác dần khi có thêm dữ liệu.
-- Kinh tế lượng, theo thiết kế, có thể cho dự đoán đúng trung bình, nhưng chỉ với sự dẫn dắt của kinh tế học vững chắc trong đặc tả mô hình thực nghiệm. Dù là khoa học với quy tắc và thủ tục ổn định để khớp mô hình vào dữ liệu, trong thực hành kinh tế lượng là nghệ thuật đòi hỏi nhiều phán đoán để có ước lượng hữu ích cho chính sách.
+**Kiểm định giả thuyết.** Công cụ chính của bước bốn là kiểm định giả thuyết: một thủ tục thống kê chính thức, trong đó nhà nghiên cứu nêu một phát biểu cụ thể về giá trị thật của một tham số kinh tế, rồi một phép kiểm định thống kê xác định xem tham số ước lượng được có phù hợp với phát biểu đó không. Nếu không phù hợp, nhà nghiên cứu phải hoặc bác bỏ giả thuyết, hoặc đặc tả lại mô hình thống kê và làm lại từ đầu.
+
+**Kết quả khi bốn bước suôn sẻ.** Nếu cả bốn bước đều ổn, kết quả là một công cụ để đánh giá giá trị thực nghiệm của một mô hình kinh tế trừu tượng, tức xem lý thuyết có khớp với thực tế không. Mô hình thực nghiệm này cũng có thể dùng để **dự báo** biến phụ thuộc, giúp nhà hoạch định quyết định có nên thay đổi chính sách tiền tệ và/hoặc tài khoá để giữ nền kinh tế ổn định hay không.
+
+**Ba nguyên tắc cần nhớ.** Bài nhận xét sinh viên thường bị cuốn hút bởi sức mạnh của hồi quy tuyến tính bội trong việc ước lượng các quan hệ kinh tế, và nêu ba nguyên tắc để giữ sự tỉnh táo:
+
+1. **Chất lượng ước lượng phụ thuộc vào mô hình kinh tế nền.** Các tham số ước lượng chỉ tốt tới đâu thì mô hình kinh tế đằng sau chúng hợp lệ tới đó.
+2. **Bỏ sót biến thì ước lượng kém.** Nếu một biến giải thích có liên quan bị bỏ ra khỏi mô hình, kết quả khả dĩ nhất là các ước lượng tồi. Ví dụ minh hoạ: nếu mô hình tiêu dùng bỏ quên của cải, mà người thu nhập cao thường cũng giàu hơn, thì hệ số thu nhập sẽ "gánh" luôn tác động của của cải và bị phóng đại.
+3. **Ước lượng hiếm khi trúng giá trị thật, nhưng tốt dần lên.** Ngay cả khi nhà kinh tế lượng xác định đúng quy trình thực sự sinh ra dữ liệu, ước lượng của họ chỉ có cơ hội rất nhỏ trùng đúng giá trị thật. Dù vậy chúng vẫn được dùng vì, về mặt thống kê, chúng sẽ chính xác dần khi có thêm dữ liệu.
+
+**Khoa học và nghệ thuật.** Kinh tế lượng, theo thiết kế, có thể cho dự đoán đúng **trung bình**, nhưng chỉ khi việc đặc tả mô hình thực nghiệm được dẫn dắt bởi kinh tế học vững chắc. Bài kết luận rằng kinh tế lượng là một khoa học, với các quy tắc và thủ tục ổn định để khớp mô hình vào dữ liệu; nhưng trong thực hành, nó là một nghệ thuật đòi hỏi nhiều phán đoán để có được những ước lượng hữu ích cho chính sách.
 
 ## Thuật ngữ
 
