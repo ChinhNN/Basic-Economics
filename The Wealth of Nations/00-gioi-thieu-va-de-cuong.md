@@ -215,91 +215,254 @@
 2. **Điều gì quyết định mức của cải đó?** Hai thứ: năng suất lao động (kỹ năng, khéo léo, óc phán đoán) và tỷ lệ người làm lao động có ích. Thứ nhất quan trọng hơn; thứ hai phụ thuộc vào lượng vốn và cách dùng vốn.
 3. **Vì sao cần cả năm quyển?** Vì sau khi giải thích hai yếu tố (Quyển I, II), Smith còn phải giải thích vì sao các nước thực tế đi lệch con đường tự nhiên (Quyển III), các lý thuyết nào biện minh cho sự lệch lạc đó và chúng sai ở đâu (Quyển IV), rồi nhà nước nên làm gì và lấy tiền ở đâu (Quyển V).
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Của cải là dòng, không phải kho (flow và stock).** Một *kho* là lượng có tại một thời điểm (số vàng trong ngân khố ngày 31/12); một *dòng* là lượng sinh ra trong một khoảng thời gian (số hàng hoá làm ra trong một năm). Smith định nghĩa của cải của một dân tộc là một dòng: sản phẩm hàng năm của lao động. Ví dụ minh hoạ: hai nước cùng có 100 tấn vàng trong kho, nhưng nước A mỗi năm làm ra lương thực, quần áo, nhà cửa đủ cho dân dùng, còn nước B làm ra rất ít; theo Smith, A giàu hơn dù kho vàng bằng nhau. Khái niệm này quan trọng vì nó là đòn đầu tiên Smith đánh vào chủ nghĩa trọng thương, vốn coi của cải là kho vàng bạc.
+
+**Sản phẩm trên đầu người.** Tổng sản phẩm hàng năm chia cho số người tiêu dùng. Smith nói một dân tộc được cung cấp tốt hay kém tuỳ theo tỷ lệ này, không tuỳ theo tổng. Ví dụ minh hoạ: nước có 1.000 đơn vị sản phẩm và 100 người thì mỗi người được 10; nước có 2.000 đơn vị nhưng 400 người thì mỗi người chỉ được 5, dù tổng lớn gấp đôi. Khái niệm này quan trọng vì nó là thước đo mà cả bộ sách dùng; ngày nay ta gọi gần đúng là GDP bình quân đầu người.
+
+**Năng suất lao động.** Lượng sản phẩm một người làm ra trong một khoảng thời gian; Smith gọi là "kỹ năng, sự khéo léo và óc phán đoán" trong lao động. Ví dụ trong sách: xưởng ghim 10 người làm 48.000 chiếc mỗi ngày, tức 4.800 chiếc mỗi người. Khái niệm này quan trọng vì Smith nói đây là yếu tố quyết định quan trọng hơn trong hai yếu tố, và Quyển I dành để giải thích nó.
+
+**Lao động sản xuất và lao động phi sản xuất.** Smith chia người lao động thành người làm "lao động có ích" (tạo ra sản phẩm) và người không làm. Ở Quyển II ông định nghĩa lao động sản xuất là lao động gắn vào một vật cụ thể có thể bán được, như người thợ dệt; còn dịch vụ và nghề tự do (người hầu, luật sư, nhạc công) là phi sản xuất, dù có thể rất cần thiết. Ví dụ minh hoạ: trong một làng 100 người, nếu 60 người làm ruộng và dệt vải, 40 người làm việc khác hoặc không làm, thì tỷ lệ lao động có ích là 60%. Khái niệm này quan trọng vì tỷ lệ này là yếu tố thứ hai quyết định của cải, và Smith gắn nó với lượng vốn.
+
+**Vốn cố định và vốn luân chuyển.** Vốn (*stock*) là phần của cải được giữ lại để dùng vào sản xuất thay vì tiêu dùng ngay. Vốn cố định là thứ ở lại trong quá trình sản xuất (máy, công cụ, nhà xưởng, đất được cải tạo, và kỹ năng của người lao động); vốn luân chuyển là thứ đi ra rồi phải bổ sung liên tục (tiền, nguyên liệu, thành phẩm chờ bán). Ví dụ minh hoạ: một tiệm bánh có cái lò trị giá 50 triệu đồng (vốn cố định, dùng nhiều năm) và mỗi tuần mua 5 triệu đồng bột, đường (vốn luân chuyển, hết là phải mua lại). Khái niệm này quan trọng vì Smith nói số người làm lao động có ích tỷ lệ với lượng vốn, nên tích luỹ vốn là động cơ thứ hai của tăng trưởng. Bản dịch dịch *stock* là "vốn cổ phần", đó là dịch sai.
+
+**Chủ nghĩa trọng thương và phái trọng nông.** Hai học thuyết mà Smith phản bác. Trọng thương (*mercantilism*) coi của cải là vàng bạc, muốn xuất nhiều nhập ít để tiền chảy vào nước, và dùng thuế bảo hộ, trợ cấp xuất khẩu, độc quyền thuộc địa để làm việc đó. Trọng nông (*physiocracy*, nhóm Quesnay ở Pháp) cho rằng chỉ nông nghiệp tạo ra thặng dư, còn công nghiệp và thương mại "không sinh lợi". Ví dụ minh hoạ: một nước trọng thương cấm nhập vải để giữ 1 triệu bảng vàng không chảy ra ngoài, dù dân phải mua vải đắt hơn. Khái niệm này quan trọng vì đề cương xếp Quyển IV để phân tích cả hai, và mệnh đề "của cải là sản phẩm hàng năm của lao động" được viết ra chính để bác bỏ trọng thương.
+
+**Giá tự nhiên và giá thị trường.** Giá tự nhiên là mức giá vừa đủ trả tiền lương, lợi nhuận và địa tô theo mức bình thường của chúng; giá thị trường là giá thực tế mua bán hằng ngày. Giá thị trường dao động quanh giá tự nhiên như quanh một trọng tâm. Ví dụ minh hoạ: nếu giá tự nhiên của một bao gạo là 100 nghìn đồng mà một năm mất mùa giá lên 150 nghìn, người trồng lãi to, nhiều người trồng thêm, cung tăng và giá kéo về gần 100 nghìn. Khái niệm này quan trọng vì nó là phần lý thuyết giá của Quyển I mà Raphael tóm tắt trong lời giới thiệu.
+
+**Bàn tay vô hình.** Ẩn dụ của Smith cho việc mỗi người mua bán theo lợi ích riêng mà vô tình phục vụ lợi ích chung, không ai sắp đặt trước. Ví dụ minh hoạ: người làm bánh dậy lúc 3 giờ sáng không phải vì thương khách mà vì muốn bán được bánh; kết quả là cả phố có bánh nóng mỗi sáng. Khái niệm này quan trọng vì Raphael nhấn rằng nó không mang nghĩa thần học, chỉ mô tả một quá trình tự nhiên, cùng loại với phân công lao động.
+
+## Nội dung chi tiết
 
 ### 1. Lời nhà xuất bản
 
-- NXB Giáo dục và ĐH Kinh tế quốc dân dịch và giới thiệu cuốn sách "trong quá trình đổi mới tư duy kinh tế ở nước ta hiện nay", coi đây là tác phẩm đặt nền móng cho khoa học về kinh tế thị trường.
-- Nhấn mạnh rằng Smith dùng hình tượng quen thuộc để người không chuyên cũng nắm được; sách dành cho giảng dạy, nghiên cứu, hoạch định chính sách và quản trị doanh nghiệp.
-- Thừa nhận sách "tổng hợp nhiều thuật ngữ và khái niệm mà chúng ta mới bắt đầu tiếp cận" nên còn sai sót. Bản dịch được tổ chức SIDA (Thuỵ Điển) tài trợ, Everyman's Library cho phép dịch.
+Lời nhà xuất bản cho biết NXB Giáo dục và ĐH Kinh tế quốc dân dịch và giới thiệu cuốn sách "trong quá trình đổi mới tư duy kinh tế ở nước ta hiện nay". Họ coi đây là tác phẩm đặt nền móng cho khoa học về kinh tế thị trường.
+
+Nhà xuất bản nhấn mạnh rằng Smith dùng những hình tượng quen thuộc nên người không chuyên cũng nắm được ý, và giới thiệu sách cho bốn nhóm người đọc: người giảng dạy, người nghiên cứu, người hoạch định chính sách và người quản trị doanh nghiệp.
+
+Họ cũng thừa nhận sách "tổng hợp nhiều thuật ngữ và khái niệm mà chúng ta mới bắt đầu tiếp cận", nên bản dịch còn sai sót. Bản dịch được tổ chức SIDA (Thuỵ Điển) tài trợ, và Everyman's Library cho phép dịch.
 
 ### 2. Raphael: vị trí của cuốn sách và phong cách của Smith
 
-- Đây là cuốn kinh điển lớn đầu tiên về lý thuyết kinh tế, có thể là tác phẩm kinh điển lớn nhất của khoa học xã hội. Raphael so với *Nguyên lý* của Newton và *Nguồn gốc các loài* của Darwin, nhưng cẩn trọng: khoa học xã hội không cho phép loại "chân lý trường cửu" đó; điểm giống là cuốn sách cho mô hình thành công nhất trong phạm vi của nó.
-- Smith không phải người đổi mới lớn trong việc nhận ra từng đặc trưng của hành vi kinh tế; ông hơn các bậc tiền bối ở chỗ **nhìn toàn bộ đời sống kinh tế như một hệ thống thống nhất**, có liên hệ với xã hội học, tâm lý học, chính thể và luật pháp.
-- Phong cách: viết tiếng Anh giản dị, sẵn sàng chịu "nhạt nhẽo" để chắc là dễ hiểu (câu ở cuối Quyển I, Chương IV). Khi cần nhấn một điểm, ông dùng ẩn dụ khiến người đọc nhớ mãi: người bán thịt, người nấu bia, người làm bánh; "bàn tay vô hình".
-- Gốc rễ của lối viết ấy: sinh viên đại học Scotland thế kỷ 18 chỉ 12–14 tuổi; muốn giữ được sự chú ý của các em, giáo viên phải nói dễ hiểu và có ví dụ.
+Raphael mở đầu bằng một đánh giá mạnh: đây là cuốn kinh điển lớn đầu tiên về lý thuyết kinh tế, và có thể là tác phẩm kinh điển lớn nhất của khoa học xã hội. Ông so nó với *Nguyên lý* của Newton và *Nguồn gốc các loài* của Darwin, nhưng thận trọng: khoa học xã hội không cho phép loại "chân lý trường cửu" như vật lý hay sinh học. Điểm giống nhau, theo Raphael, là cuốn sách đưa ra mô hình thành công nhất trong phạm vi của nó.
+
+Smith không phải là người đầu tiên nhận ra từng đặc điểm của hành vi kinh tế; nhiều ý đã có ở các tác giả trước. Ông hơn các bậc tiền bối ở chỗ **nhìn toàn bộ đời sống kinh tế như một hệ thống thống nhất**, và đặt hệ thống ấy trong mối liên hệ với xã hội học, tâm lý học, chính thể và luật pháp.
+
+Về phong cách, Smith viết tiếng Anh giản dị và sẵn sàng chịu bị coi là "nhạt nhẽo" để chắc chắn người đọc hiểu (ông nói vậy ở cuối Quyển I, Chương IV). Khi cần nhấn một điểm, ông dùng một hình ảnh khiến người đọc nhớ mãi: người bán thịt, người nấu bia, người làm bánh; hay "bàn tay vô hình".
+
+Raphael giải thích gốc rễ của lối viết ấy: sinh viên đại học ở Scotland thế kỷ 18 chỉ khoảng 12–14 tuổi. Muốn giữ được sự chú ý của các em, giáo viên phải nói dễ hiểu và có ví dụ cụ thể. Smith đã giảng như vậy nhiều năm, và viết như vậy.
 
 ### 3. Raphael: tiểu sử
 
-- Sinh ở Kirkcaldy, Fife, rửa tội ngày 5/6/1723; cha (đã có con trai Hugh từ cuộc hôn nhân trước) chết tháng 1/1723 khi vợ kế Margaret Douglas đang mang thai. Hugh chết năm 1750. Smith sống với mẹ đến khi bà mất năm 1784 ở tuổi 89; ông không lấy vợ dù từng yêu ít nhất một lần.
-- Glasgow: chịu ảnh hưởng của Francis Hutcheson, giáo sư luân lý học, một nhà giáo giỏi hơn là một triết gia lớn. Luân lý học ở Scotland thế kỷ 18 bao gồm cả luật và chính trị; "giải quyết một cách duy thực quan điểm chính trị là phải xem xét nó trên cơ sở kinh tế học".
-- Oxford (Balliol, học bổng Snell, sáu năm): Smith chê học phí cao, giảng dạy kém ("nhiệm vụ duy nhất của chúng tôi ở đây là đi cầu kinh mỗi ngày hai lần và đi nghe giảng mỗi tuần hai lần"). Ở Quyển V ông đề xuất lời giải theo kiểu thị trường: một phần thu nhập của giáo sư lấy từ học phí của sinh viên, như ở Scotland, để giáo sư giỏi thu hút nhiều sinh viên và được trả nhiều hơn. Ông tự học và thông thạo tiếng Pháp, Ý, Hy Lạp, Latin.
-- Edinburgh (1748–1751): giảng mỹ từ học và văn học, rồi nguyên lý luật và chính trị, trong đó đã có các nguyên lý kinh tế làm ông nổi tiếng.
-- Glasgow: giáo sư logic năm 1751, giáo sư luân lý học từ 1752 trong 12 năm. Năm 1759 xuất bản *Lý thuyết về những tình cảm đạo đức*, soạn từ phần đầu bài giảng luân lý, kết thúc bằng lời hứa sẽ viết về luật học. Bài giảng luật học trình bày lịch sử luật và chính thể, sự tiến bộ của xã hội từ các hình thức ban đầu tới xã hội thương nghiệp giàu có; kinh tế học vốn là phần cuối bài giảng luật học dần chiếm lĩnh tư duy của ông. Trước khi rời Glasgow năm 1764, ông đã bắt đầu viết một công trình độc lập về "tính chất và nguyên nhân sự giàu có", bỏ dở cuốn luật học.
-- Gia sư cho Công tước Buccleuch (1764–1766), con riêng của vợ chính khách Charles Townshend, với lương cao và trợ cấp suốt đời. Gần ba năm ở miền nam Pháp, Geneva (nhiều lần thăm Voltaire) và Paris.
-- Ở Paris, Smith gặp phái trọng nông (*physiocrats*; tên do Dupont de Nemours đặt, gốc Hy Lạp nghĩa là "quy luật của tự nhiên"). Học thuyết của họ: chính phủ không nên can thiệp bằng quy định hạn chế tự do thương mại và bảo vệ đặc quyền; chỉ nông nghiệp (và khai khoáng) mới "sinh lợi" vì tạo thặng dư so với chi phí; chế tạo chỉ đổi hình dạng, thương mại chỉ di chuyển sản phẩm, nên "không sinh lợi" và sống nhờ thặng dư nông nghiệp. Họ chống chính sách Pháp đương thời ưu đãi thành thị, cấm xuất khẩu ngũ cốc để giữ giá rẻ cho thành thị và hạn chế nhập hàng cạnh tranh với công nghiệp trong nước.
-- Smith đồng ý với họ về tự do thương mại, coi đó là một khía cạnh của "tự do tự nhiên", nhưng không đồng ý rằng chỉ nông nghiệp mới sinh lợi. Ông chịu ơn *Tableau économique* của Quesnay: biểu đồ cho thấy giá trị sản phẩm nông nghiệp hàng năm được phân phối giữa các nhóm; vốn là khoản **ứng trước** cần có trước khi sản xuất, chia thành phần cố định (đất, nhà máy, thiết bị) và phần lưu động (tiền lương, sản phẩm bán ra) phải bổ sung hàng năm; ý tưởng chủ đạo là **cân bằng** của một hệ thống tái sản xuất. Smith phát triển nó thành lý thuyết phân phối thu nhập chi tiết hơn và có lẽ học từ Quesnay tham vọng tìm "một hệ thống liên kết các hiện tượng".
-- Viết sách ở Kirkcaldy từ cuối 1766; năm 1773 mang bản thảo đi London, đọc từng phần cho Benjamin Franklin và sửa theo nhận xét. Hoàn thành 1775, xuất bản 9/3/1776; bán hết lần in đầu trong sáu tháng. Lần in thứ ba (1784) sửa và bổ sung nhiều.
-- Lord North dùng một số khuyến nghị thuế trong ngân sách 1777 và 1778; lời khuyên của Smith được xem xét trong chính sách với Mỹ và Ireland. Năm 1778 ông nhận chức uỷ viên hải quan Edinburgh và làm việc tận tuỵ.
-- Những năm cuối: định viết một lịch sử triết học của văn học, triết học và khoa học, và một lý thuyết và lịch sử luật và chính thể; nhưng 1788–1789 dành để sửa gần như toàn bộ *Tình cảm đạo đức* (in lần thứ sáu năm 1790). Một tuần trước khi mất, ông nhờ bạn huỷ bản thảo. Mất ngày 17/7/1790 tại Edinburgh. Raphael cho rằng cuốn luật học dự định có một chủ đề thống nhất nối cả *Tình cảm đạo đức* và *Của cải*.
+Bảng dưới tóm tắt các mốc đời Smith mà Raphael kể; các đoạn sau đi vào chi tiết.
+
+| Năm | Sự kiện |
+|---|---|
+| 1723 | Sinh ở Kirkcaldy, Fife; rửa tội ngày 5/6 |
+| 1737–40 | Học ĐH Glasgow, chịu ảnh hưởng của Francis Hutcheson |
+| 1740–46 | Học ở Oxford (Balliol) với học bổng Snell |
+| 1748–51 | Giảng mỹ từ học, rồi nguyên lý luật và chính trị ở Edinburgh |
+| 1751 | Giáo sư logic ở Glasgow |
+| 1752 | Giáo sư luân lý học ở Glasgow, giữ chức 12 năm |
+| 1759 | Xuất bản *Lý thuyết về những tình cảm đạo đức* |
+| 1764–66 | Gia sư cho Công tước Buccleuch, đi Pháp và Geneva |
+| 1767–75 | Viết *Của cải* ở Kirkcaldy và London |
+| 9/3/1776 | *Của cải của các dân tộc* xuất bản |
+| 1777–78 | Thủ tướng North dùng một số khuyến nghị thuế của Smith trong ngân sách |
+| 1778–90 | Uỷ viên hải quan Edinburgh |
+| 1787 | Hiệu trưởng ĐH Glasgow |
+| 17/7/1790 | Mất ở Edinburgh |
+| 1795 | *Các tiểu luận về các chủ đề triết học* được in sau khi ông mất |
+
+**Gia đình.** Smith sinh ở Kirkcaldy, Fife, và được rửa tội ngày 5/6/1723. Cha ông, người đã có một con trai tên Hugh từ cuộc hôn nhân trước, mất vào tháng 1/1723, tức khoảng 4 tháng trước khi Smith ra đời, khi người vợ kế Margaret Douglas đang mang thai. Hugh mất năm 1750. Smith sống với mẹ suốt đời, cho tới khi bà mất năm 1784 ở tuổi 89. Ông không lấy vợ, dù từng yêu ít nhất một lần.
+
+**Glasgow.** Ở ĐH Glasgow (1737–1740), Smith chịu ảnh hưởng của Francis Hutcheson, giáo sư luân lý học, người Raphael đánh giá là một nhà giáo giỏi hơn là một triết gia lớn. Hutcheson giảng cả luật học và kinh tế học, vì luân lý học ở Scotland thế kỷ 18 bao gồm cả luật và chính trị; và theo cách nhìn thời đó, muốn xét chính trị một cách thực tế thì phải xét nó trên cơ sở kinh tế học.
+
+**Oxford.** Smith học sáu năm ở Balliol, Oxford (1740–1746), nhờ học bổng Snell. Ông chê học phí cao và giảng dạy kém: các giáo sư Oxford "hầu như đã từ bỏ ý định dạy học", và theo lời ông, nhiệm vụ duy nhất của sinh viên là đi cầu kinh mỗi ngày hai lần và đi nghe giảng mỗi tuần hai lần. Về sau, ở Quyển V, ông đề xuất một lời giải theo kiểu thị trường: một phần thu nhập của giáo sư nên lấy từ học phí của sinh viên, như ở Scotland, để giáo sư giỏi thu hút nhiều sinh viên và được trả nhiều hơn. Trong những năm ở Oxford, ông tự học và thông thạo tiếng Pháp, Ý, Hy Lạp và Latin.
+
+**Edinburgh.** Từ 1748 đến 1751, Smith giảng mỹ từ học và văn học, rồi nguyên lý luật và chính trị ở Edinburgh. Raphael lưu ý rằng các bài giảng này đã chứa những nguyên lý kinh tế về sau làm ông nổi tiếng.
+
+**Giáo sư ở Glasgow và cuốn sách đầu tiên.** Smith làm giáo sư logic ở Glasgow năm 1751, rồi từ 1752 làm giáo sư luân lý học trong 12 năm. Năm 1759 ông xuất bản *Lý thuyết về những tình cảm đạo đức*, soạn từ phần đầu của giáo trình luân lý, và kết thúc cuốn sách bằng lời hứa sẽ viết về luật học. Giáo trình luân lý của ông đi theo trình tự: đạo đức, rồi luật học, rồi kinh tế học. Phần luật học trình bày lịch sử luật pháp và chính thể, sự tiến bộ của xã hội từ các hình thức ban đầu tới xã hội thương nghiệp giàu có. Kinh tế học vốn chỉ là phần cuối của bài giảng luật học, nhưng dần "thống soái tư duy" của ông. Trước khi rời Glasgow năm 1764, ông đã bắt đầu viết một công trình độc lập về "tính chất và nguyên nhân sự giàu có", và bỏ dở cuốn luật học.
+
+**Gia sư và chuyến đi Pháp.** Từ 1764 đến 1766, Smith làm gia sư cho Công tước Buccleuch, con riêng của vợ chính khách Charles Townshend, với lương cao và một khoản trợ cấp suốt đời. Ông ở gần ba năm tại miền nam nước Pháp, Geneva (nơi ông nhiều lần thăm Voltaire) và Paris.
+
+**Phái trọng nông.** Ở Paris, Smith gặp phái trọng nông, trong đó có Quesnay và Dupont de Nemours. Tên *physiocrats* do Dupont de Nemours đặt, gốc Hy Lạp nghĩa là "quy luật của tự nhiên". Học thuyết của họ có hai phần:
+
+- Chính phủ không nên can thiệp bằng các quy định hạn chế tự do thương mại hay bảo vệ đặc quyền.
+- Chỉ nông nghiệp (và khai khoáng) mới "sinh lợi", vì chỉ chúng tạo ra thặng dư so với chi phí. Ngành chế tạo chỉ đổi hình dạng của sản phẩm, thương mại chỉ di chuyển sản phẩm, nên cả hai "không sinh lợi" và sống nhờ thặng dư nông nghiệp.
+
+Họ chống chính sách của Pháp đương thời, vốn ưu đãi thành thị: cấm xuất khẩu ngũ cốc để giữ giá rẻ cho dân thành thị, và hạn chế nhập hàng cạnh tranh với công nghiệp trong nước.
+
+Smith đồng ý với họ về tự do thương mại, coi đó là một khía cạnh của "tự do tự nhiên", nhưng không đồng ý rằng chỉ nông nghiệp mới sinh lợi. Ông chịu ơn *Tableau économique* (1758) của Quesnay, một biểu đồ cho thấy giá trị sản phẩm nông nghiệp hàng năm được phân phối giữa các nhóm người thế nào. Từ Quesnay, Smith nhận ba ý: vốn là khoản **ứng trước** phải có trước khi sản xuất; vốn chia thành phần cố định (đất, nhà máy, thiết bị) và phần lưu động (tiền lương, sản phẩm bán ra) phải bổ sung hàng năm; và ý tưởng chủ đạo về **cân bằng** của một hệ thống tái sản xuất. Smith phát triển những ý này thành một lý thuyết phân phối thu nhập chi tiết hơn, và có lẽ học từ Quesnay tham vọng tìm "một hệ thống liên kết các hiện tượng".
+
+**Viết và xuất bản.** Smith bắt đầu viết ở Kirkcaldy từ cuối năm 1766. Năm 1773 ông mang bản thảo đi London, đọc từng phần cho Benjamin Franklin, người cung cấp cho ông thông tin về châu Mỹ, và sửa theo nhận xét. Sách hoàn thành năm 1775 và xuất bản ngày 9/3/1776. Lần in đầu bán hết trong 6 tháng. Sử gia Gibbon khen đó là "một ngành khoa học mênh mông trong một cuốn sách duy nhất". Sách được tái bản các năm 1778, 1784 (lần in thứ ba, sửa và bổ sung nhiều), 1786 và 1789.
+
+**Ảnh hưởng và chức vụ.** Thủ tướng Lord North dùng một số khuyến nghị thuế của Smith trong ngân sách các năm 1777 và 1778, và lời khuyên của ông được xem xét trong chính sách với Mỹ và Ireland. Năm 1778 ông nhận chức uỷ viên hải quan Edinburgh và giữ đến 1790, làm việc tận tuỵ; nghịch lý là người phê phán thuế quan lại đi thu thuế quan. Năm 1787 ông làm Hiệu trưởng ĐH Glasgow.
+
+**Những năm cuối.** Smith định viết hai cuốn nữa: một lịch sử triết học của văn học, nghệ thuật và khoa học, và một lý thuyết và lịch sử về luật pháp và chính thể. Nhưng ông dành 1788–1789 để sửa gần như toàn bộ *Tình cảm đạo đức* (lần in thứ sáu ra năm 1790). Một tuần trước khi mất, ông nhờ bạn huỷ bản thảo hai cuốn dở dang. Ông mất ngày 17/7/1790 tại Edinburgh. Năm 1795, *Các tiểu luận về các chủ đề triết học* được in. Raphael cho rằng cuốn luật học dự định sẽ có một chủ đề thống nhất nối cả *Tình cảm đạo đức* và *Của cải*.
 
 ### 4. Raphael: bản chất của của cải và đối thủ trọng thương
 
-- Tên đầy đủ: *Một công trình nghiên cứu bản chất và nguyên nhân của cải của các dân tộc*. Tìm nguyên nhân của cải tăng (ngày nay gọi là tăng trưởng kinh tế) rõ ràng khó; nhưng Smith coi việc xác định **bản chất** của cải là vấn đề cũng quan trọng.
-- Học thuyết và chính sách phổ biến thời ấy: của cải nằm trong thỏi vàng, thỏi bạc; cán cân thương mại thuận lợi làm giàu đất nước vì tăng khối lượng tiền; chính phủ phải điều tiết thương mại bằng thuế bảo hộ và trợ cấp xuất khẩu; thuộc địa là thị trường xuất khẩu và nguồn nguyên liệu, bị cấm chế tạo hay buôn với nước khác. Smith gọi đó là "hệ thống thương mại" vì nó che chở thương nhân khỏi cạnh tranh; về sau gọi là chủ nghĩa trọng thương.
-- David Hume, bạn của Smith, đã phê phán mạnh, nhưng theo Smith vẫn chưa dứt khoát bỏ quan niệm của cải là tiền, và Smith coi đó là sai lầm gốc rễ của trọng thương.
-- Của cải thật nằm trong hàng hoá tiêu dùng và lao động làm ra nó; của cải tăng nghĩa là hàng hoá nhiều hơn, tức là rẻ hơn. Bảo hộ làm giảm lượng hàng, hạn chế buôn bán, làm hàng khan hiếm. Vì vậy chủ trương tự do mậu dịch suy ra trực tiếp từ định nghĩa đúng về của cải.
+Tên đầy đủ của sách là *Một công trình nghiên cứu bản chất và nguyên nhân của cải của các dân tộc*. Tìm **nguyên nhân** làm của cải tăng lên (ngày nay gọi là tăng trưởng kinh tế) rõ ràng là việc khó. Nhưng Raphael lưu ý rằng Smith coi việc xác định **bản chất** của cải cũng quan trọng không kém, vì định nghĩa sai dẫn tới chính sách sai.
+
+Học thuyết và chính sách phổ biến thời Smith có bốn điểm:
+
+1. Của cải nằm trong thỏi vàng, thỏi bạc.
+2. Cán cân thương mại thuận lợi (xuất siêu) làm giàu đất nước, vì nó làm tăng lượng tiền trong nước.
+3. Vì vậy chính phủ phải điều tiết thương mại bằng thuế bảo hộ để hạn chế nhập khẩu và trợ cấp để khuyến khích xuất khẩu.
+4. Thuộc địa là thị trường xuất khẩu và nguồn nguyên liệu cho mẫu quốc, bị cấm tự chế tạo hay buôn bán với nước khác ngoài mẫu quốc.
+
+Smith gọi toàn bộ hệ thống đó là "hệ thống thương mại", vì nó che chở thương nhân khỏi cạnh tranh; về sau người ta gọi nó là chủ nghĩa trọng thương.
+
+David Hume, bạn của Smith, đã phê phán hệ thống này mạnh mẽ. Nhưng theo Smith, Hume vẫn chưa dứt khoát bỏ quan niệm của cải là tiền, và Smith coi chính quan niệm ấy là sai lầm gốc rễ của trọng thương.
+
+Lập luận của Smith đi theo ba bước. Của cải thật nằm trong hàng hoá tiêu dùng và trong lao động làm ra hàng hoá đó. Của cải tăng nghĩa là hàng hoá nhiều hơn, tức là rẻ hơn. Bảo hộ làm giảm lượng hàng, hạn chế buôn bán, làm hàng khan hiếm, tức là làm giảm của cải. Do đó chủ trương tự do mậu dịch không phải là một lựa chọn chính sách riêng, mà suy ra trực tiếp từ định nghĩa đúng về của cải.
 
 ### 5. Raphael: phân công lao động và bàn tay vô hình
 
-- Nguyên nhân tăng trưởng nằm trong sự phát triển buôn bán, cả giữa các nước và giữa các cá nhân trong một nước; thị trường là trung tâm phân tích. Nhưng nguyên nhân cơ bản là **phân công lao động**: người ta chỉ trao đổi khi chuyên môn hoá có lợi cho mọi bên (người trồng lúa và người làm bánh cùng nhau có nhiều lương thực hơn mỗi người làm riêng).
-- Năng suất tăng nhờ công cụ, máy móc và kỹ năng; Smith coi cả hai là biểu hiện của phân công, vì người thợ chuyên một việc hiểu rõ nhất dụng cụ nào giúp tiết kiệm công sức, và vì kỹ sư, nhà thiết kế chuyên nghiệp cũng chỉ tồn tại nhờ phân công.
-- Xưởng ghim: 10 người, 18 thao tác (Raphael ghi khoảng 50.000 chiếc mỗi ngày; Smith ghi 48.000). Raphael cho biết Smith lấy ví dụ này từ bài về nghề làm ghim trong Bách khoa toàn thư Pháp, đọc ở thư viện ĐH Glasgow.
-- Điểm sâu hơn: phân công không chỉ làm hàng nhiều và rẻ mà **tăng sự phụ thuộc lẫn nhau**; người lao động ở nước văn minh nhờ "sự giúp đỡ và hợp tác của hàng ngàn người khác" mà sống tốt hơn một tù trưởng có "mười ngàn người mọi rợ trần trụi" dưới quyền. Xã hội văn minh là một hệ thống **hợp tác tự phát** do thiên hướng của con người, không do quyền lực chính trị nào vạch ra.
-- "Bàn tay vô hình" diễn đạt cùng ý đó cho thị trường: người mua kẻ bán theo lợi ích riêng mà phục vụ lợi ích chung không hề chủ định. Smith không đưa thần học vào kinh tế học, chỉ dùng ẩn dụ cho một quá trình tự nhiên. Phân công và thị trường đều là quá trình tự nhiên, không dự kiến trước, và tốt nhất là để chúng tự vận hành.
+Theo Raphael, Smith thấy nguyên nhân tăng trưởng trong sự phát triển của buôn bán, cả giữa các nước và giữa các cá nhân trong một nước; thị trường là trung tâm phân tích của ông. Nhưng nguyên nhân cơ bản hơn là **phân công lao động**. Người ta chỉ trao đổi khi chuyên môn hoá có lợi cho mọi bên. Ví dụ của Raphael: người trồng lúa và người làm bánh, mỗi người chuyên một việc rồi trao đổi, cùng nhau có nhiều lương thực hơn so với khi mỗi người tự làm cả hai.
+
+Năng suất tăng nhờ công cụ, máy móc và kỹ năng. Smith coi cả máy móc lẫn kỹ năng là biểu hiện của phân công, vì hai lẽ: người thợ chuyên một việc hiểu rõ nhất dụng cụ nào giúp mình đỡ công sức; và kỹ sư, nhà thiết kế máy chuyên nghiệp cũng chỉ tồn tại nhờ phân công, vì thiết kế máy đã trở thành một nghề riêng.
+
+Ví dụ nổi tiếng là xưởng ghim: 10 người chia nhau 18 thao tác. Raphael ghi xưởng làm khoảng 50.000 chiếc mỗi ngày; con số trong văn bản của Smith (Quyển I, Chương I) là 48.000. Raphael cho biết Smith lấy ví dụ này từ bài viết về nghề làm ghim trong Bách khoa toàn thư Pháp, mà ông đọc ở thư viện ĐH Glasgow.
+
+Raphael chỉ ra một điểm sâu hơn: phân công không chỉ làm hàng hoá nhiều và rẻ, mà còn **tăng sự phụ thuộc lẫn nhau** giữa con người. Nhờ "sự giúp đỡ và hợp tác của hàng ngàn người khác", người lao động bình thường ở một nước văn minh sống tốt hơn một tù trưởng có "mười ngàn người mọi rợ trần trụi" dưới quyền. Xã hội văn minh vì vậy là một hệ thống **hợp tác tự phát**, sinh ra từ thiên hướng tự nhiên của con người, không do quyền lực chính trị nào vạch ra.
+
+"Bàn tay vô hình" diễn đạt cùng ý đó cho thị trường: người mua và người bán theo đuổi lợi ích riêng nhưng phục vụ lợi ích chung mà không hề chủ định. Raphael nhấn rằng Smith không đưa thần học vào kinh tế học; cụm từ chỉ là một ẩn dụ cho một quá trình tự nhiên. Phân công và thị trường đều là những quá trình tự nhiên, không ai dự kiến trước, và tốt nhất là để chúng tự vận hành.
 
 ### 6. Raphael: giá trị, giá cả, phân phối
 
-- Smith phân biệt **giá thực** (giá trị, đo bằng lao động) và **giá danh nghĩa** (bằng tiền). Người làm ra hàng phải bỏ công sức, nên được đền bù bằng thứ người khác cũng phải lao động làm ra; "lao động là thước đo thực tế đối với giá trị trao đổi của mọi thứ hàng hoá". Cách giải thích này chỉ khớp với xã hội nguyên thuỷ, nơi lao động là chi phí duy nhất.
-- Thuyết giá trị lao động bị nhiều tác giả sau phê phán. Raphael dẫn cách đọc của các nhà lý luận hiện đại: đó không phải lý thuyết giá cả mà là một "chỉ số phúc lợi", cân bằng giữa thứ đem lại thoả mãn và công sức khó chịu; với Smith còn có một ý tưởng đạo đức về trao đổi công bằng. Thuyết giá thực ít tác dụng giải thích giá thật; phần về giá danh nghĩa mới có tác dụng.
-- Giá phụ thuộc một phần vào cầu, một phần vào chi phí cung cấp, gồm ba phần: **tiền lương** (trả công nhân); **lợi nhuận** (trả người chủ vốn để bù rủi ro mất vốn và việc từ bỏ dùng tiền vào việc khác; không phải thù lao quản lý, vì nếu là thù lao thì phải tuỳ lao động, thời gian, tài năng, trong khi thực tế lợi nhuận tỷ lệ với số vốn bỏ ra); **địa tô** (địa chủ nhận mà không làm gì và không chịu rủi ro).
-- **Giá tự nhiên** và **giá thị trường**: giá tự nhiên là trung bình mà giá thị trường dao động xoay quanh và hướng tới, giống trọng tâm trong vật lý (hệ mặt trời). Lực thật là lợi ích cá nhân dưới tác động cung cầu: giá cao làm lợi nhuận cao, kéo thêm người sản xuất, giá giảm; giá thấp hơn giá tự nhiên làm lương, lợi nhuận hay địa tô giảm, người ta rút đi, cung giảm, giá lên. Giá tự nhiên trả mỗi phần chi phí theo tỷ suất tự nhiên của nó.
-- Smith không chỉ lý thuyết: ông so sánh giá ngũ cốc, bánh mì, thịt qua thời gian và nơi chốn và quan hệ của chúng với tiền lương; so sánh nền kinh tế tăng trưởng nhanh (Anh, Mỹ), đứng yên (Trung Quốc), suy thoái (Bengal). Công nhân ở nền kinh tế đang tăng trưởng có thế mặc cả mạnh hơn và lương cao hơn; tăng trưởng tự nuôi chính nó.
-- Phân phối: cung cầu chỉ là một phần. Về tiền lương, Smith tin vào cân bằng giữa mức khó nhọc và thù lao (gần như cho rằng mọi nghề có mức "hạnh phúc" như nhau, vì lương cao bù cho rủi ro lớn hoặc đào tạo lâu) và nêu năm căn cứ giải thích chênh lệch lương. Lợi nhuận: chỉ báo tốt nhất của tỷ suất tự nhiên là lãi suất bình quân, vì cả hai đều là thu nhập từ vốn. Địa tô: phần thặng dư còn lại sau khi trừ lương và lợi nhuận, mức cao nhất người thuê trả được.
+**Giá thực và giá danh nghĩa.** Smith phân biệt giá thực, tức giá trị đo bằng lao động, với giá danh nghĩa, tức giá tính bằng tiền. Lập luận của ông: người làm ra hàng phải bỏ công sức, nên phải được đền bù bằng thứ mà người khác cũng phải lao động mới làm ra được; vì vậy "lao động là thước đo thực tế đối với giá trị trao đổi của mọi thứ hàng hoá". Raphael nhận xét cách giải thích này chỉ khớp với xã hội nguyên thuỷ, nơi lao động là chi phí duy nhất.
+
+Thuyết giá trị lao động bị nhiều tác giả về sau phê phán. Raphael dẫn cách đọc của các nhà lý luận hiện đại: đó không hẳn là một lý thuyết giá cả, mà là một "chỉ số phúc lợi", cân bằng giữa thứ đem lại thoả mãn và công sức khó chịu bỏ ra để có nó. Với Smith, nó còn chứa một ý tưởng đạo đức về trao đổi công bằng. Kết luận của Raphael: phần giá thực ít tác dụng giải thích giá cả thật; phần về giá danh nghĩa mới có tác dụng.
+
+**Ba thành phần của giá.** Giá phụ thuộc một phần vào cầu, một phần vào chi phí cung cấp. Chi phí gồm ba phần:
+
+| Thành phần | Trả cho ai | Bản chất |
+|---|---|---|
+| Tiền lương | Công nhân | Công lao động |
+| Lợi nhuận | Người chủ vốn | Bù rủi ro mất vốn và việc từ bỏ dùng tiền vào việc khác; tỷ lệ với số vốn bỏ ra |
+| Địa tô | Địa chủ | Địa chủ nhận mà không làm gì và không chịu rủi ro, "ngồi không mà được hưởng" |
+
+Smith lập luận rằng lợi nhuận không phải là thù lao quản lý: nếu là thù lao thì nó phải tuỳ theo công sức, thời gian và tài năng của người quản lý, trong khi thực tế lợi nhuận tỷ lệ với số vốn bỏ ra.
+
+**Giá tự nhiên và giá thị trường.** Giá tự nhiên là mức trung bình mà giá thị trường dao động xoay quanh và luôn hướng tới, giống như trọng tâm trong vật lý (Raphael so với hệ mặt trời). Lực thật đằng sau là lợi ích cá nhân dưới tác động của cung cầu:
+
+- Khi giá thị trường cao hơn giá tự nhiên, lợi nhuận cao, kéo thêm người vào sản xuất, cung tăng và giá giảm.
+- Khi giá thị trường thấp hơn giá tự nhiên, tiền lương, lợi nhuận hay địa tô giảm, người ta rút ra khỏi ngành, cung giảm và giá tăng lên.
+
+Ở mức giá tự nhiên, mỗi phần chi phí được trả theo tỷ suất tự nhiên của nó, tức tỷ suất bình thường của tiền lương, lợi nhuận và địa tô.
+
+**Dữ liệu và so sánh.** Smith không chỉ dựng lý thuyết. Ông so sánh giá ngũ cốc, bánh mì, thịt qua các thời kỳ và các nơi, và quan hệ của chúng với tiền lương. Ông so sánh ba loại nền kinh tế: tăng trưởng nhanh (Anh, Mỹ), đứng yên (Trung Quốc) và suy thoái (Bengal). Kết luận: công nhân ở nền kinh tế đang tăng trưởng có thế mặc cả mạnh hơn và được lương cao hơn; tăng trưởng tự nuôi chính nó.
+
+**Phân phối.** Cung cầu chỉ giải thích được một phần thu nhập của các nhóm.
+
+- Về tiền lương, Smith tin vào sự cân bằng giữa mức khó nhọc và thù lao; ông gần như cho rằng mọi nghề có mức "hạnh phúc" như nhau, vì lương cao bù cho rủi ro lớn hoặc thời gian đào tạo lâu. Ông nêu năm căn cứ giải thích chênh lệch lương giữa các nghề.
+- Về lợi nhuận, chỉ báo tốt nhất của tỷ suất tự nhiên là lãi suất bình quân, vì cả hai đều là thu nhập từ vốn.
+- Về địa tô, đó là phần thặng dư còn lại sau khi trừ tiền lương và lợi nhuận, tức mức cao nhất người thuê đất trả được.
 
 ### 7. Raphael: vốn, tích luỹ, lao động sản xuất
 
-- Người sản xuất không bán hết ngay, phải chờ khách; khi bán được, chi một phần cho tiêu dùng trước mắt, một phần mua vật liệu cho kỳ sau. Phần sau là vốn, chia thành **vốn cố định** (máy, công cụ, nhà máy, cải tạo đất; ở cấp quốc gia còn gồm **kỹ năng, trình độ của lực lượng lao động**) và **vốn luân chuyển** (tiền, nguyên liệu, thành phẩm luôn được mua bán; hàng rút ra để tiêu dùng hay thành vốn cố định thì phải bổ sung).
-- Không phải mọi người đều lao động sản xuất; dịch vụ và nghề tự do là phi sản xuất nhưng cần cho xã hội. Sản xuất tăng chỉ khi có thêm người làm lao động sản xuất hoặc năng suất cao hơn nhờ máy móc tốt hơn; cả hai cần thêm vốn, tức là phải tiết kiệm. Quá trình luỹ tích: sản xuất mở rộng tạo thặng dư, thặng dư lại thành tiết kiệm.
+Người sản xuất không bán hết hàng ngay mà phải chờ khách. Khi bán được, họ chi một phần cho tiêu dùng trước mắt và dùng một phần mua vật liệu cho kỳ sản xuất sau. Phần sau chính là vốn. Smith chia vốn làm hai loại:
+
+| Loại vốn | Gồm những gì | Đặc điểm |
+|---|---|---|
+| Vốn cố định | Máy, công cụ, nhà máy, cải tạo đất; ở cấp quốc gia còn gồm **kỹ năng, trình độ của lực lượng lao động** | Ở lại trong quá trình sản xuất |
+| Vốn luân chuyển | Tiền, nguyên liệu, thành phẩm luôn được mua bán | Hàng rút ra để tiêu dùng hay để chuyển thành vốn cố định thì phải được bổ sung liên tục |
+
+Việc Smith tính kỹ năng của người lao động vào vốn cố định là một ý rất sớm của cái mà kinh tế học hiện đại gọi là vốn con người.
+
+Không phải ai cũng làm lao động sản xuất. Dịch vụ và các nghề tự do là phi sản xuất, nhưng vẫn cần cho xã hội. Sản xuất chỉ tăng khi có thêm người làm lao động sản xuất, hoặc khi năng suất cao hơn nhờ máy móc tốt hơn. Cả hai cách đều cần thêm vốn, tức là phải có tiết kiệm. Từ đó hình thành một quá trình luỹ tích: sản xuất mở rộng tạo ra thặng dư, thặng dư lại được tiết kiệm thành vốn, vốn lại mở rộng sản xuất.
 
 ### 8. Raphael: cấu trúc Quyển III–IV và tự do thương mại có giới hạn
 
-- Quyển I và II mô tả vận động của nền kinh tế; Quyển III là lịch sử kinh tế ngắn về quan hệ thành thị–nông thôn; Quyển IV xét hai hệ thống loại trừ nhau: trọng thương (ưu đãi thành thị) và trọng nông (ưu đãi nông thôn). Phần lớn Quyển IV nói về trọng thương và tự do buôn bán; chương cuối phê phán việc đề cao quá mức nông nghiệp nhưng tán thành việc phái trọng nông chống hạn chế của chính phủ với nông nghiệp, và coi hệ thống trọng nông là "rất gần với chân lý".
-- Lập luận của Smith cho tự do buôn bán, dù được củng cố bằng niềm tin vào "hệ thống rõ ràng và đơn giản của nền tự do tự nhiên", thực chất là phê phán cụ thể từng biện pháp: bảo hộ giúp một ngành nhưng hại cả nước vì sinh độc quyền và giá cao; mỗi nước, như mỗi cá nhân trong phân công, có lợi khi làm điều mình giỏi nhất và trao đổi; trợ cấp lợi cho một nhóm nhưng tăng thuế cho dân; độc quyền thuộc địa lợi cho thương nhân, thu hẹp thị trường, hại thương mại chung, và gây oán giận dẫn tới bạo loạn.
-- Ngoại lệ: hạn chế vì quốc phòng là đúng vì an ninh quan trọng hơn giàu có; đánh thuế hàng nhập khi hàng nội tương ứng cũng bị đánh thuế vì lý do chính đáng; trả đũa khi nước ngoài cấm hàng của mình, nếu nó có khả năng buộc nước kia sửa; khi gỡ bỏ hạn chế phải làm dần dần vì lòng nhân đạo, tránh thất nghiệp hàng loạt. Smith kết luận rằng mong thương mại tuyệt đối tự do là điều không tưởng.
-- Cuối Quyển IV: chính phủ muốn điều khiển công nghiệp của đất nước tất yếu vấp phải ảo tưởng, vì không ai có đủ hiểu biết và khôn ngoan để làm việc đó. Nhà nước có ba nhiệm vụ: quốc phòng, tư pháp, và duy trì những công trình, thể chế công không mang lại lợi nhuận cho tư nhân nhưng có lợi cho xã hội (đường sá, cầu cống, kênh đào, bến cảng; đại sứ, thể chế bảo vệ thương nhân ở nước ngoài; giáo dục). Nhiệm vụ thứ ba cho thấy Smith không tin vào tự do kinh doanh trong mọi lĩnh vực.
-- Giáo dục: phần lớn nên độc lập khỏi nhà nước, nhưng vì phân công làm công việc đơn điệu, khiến người công nhân không còn dùng trí thông minh, Smith đề nghị giáo dục tiểu học ở cấp xã và bắt buộc cho mọi người, một đề nghị rất mạnh vào thời đó.
-- Quyển V: thu nhập để chi trả các chức năng nhà nước; nhận xét về bốn giai đoạn xã hội (săn bắn, chăn nuôi, nông nghiệp, thương mại), lịch sử quốc phòng, luật pháp, giáo dục, tôn giáo; phần lớn về thuế với các nguyên tắc chung "hoàn toàn hợp lý". Everyman's Library quyết định in một tập để bán rẻ, nên **bỏ Quyển V**; Raphael gọi đó là điều đáng tiếc nhưng cho rằng Quyển I–IV đã chứa toàn bộ điều Smith muốn nói về bản chất và nguyên nhân của cải.
+**Cấu trúc.** Quyển I và II mô tả cách nền kinh tế vận động. Quyển III là một lịch sử kinh tế ngắn về quan hệ giữa thành thị và nông thôn. Quyển IV xét hai hệ thống loại trừ nhau: trọng thương (ưu đãi thành thị) và trọng nông (ưu đãi nông thôn). Phần lớn Quyển IV nói về trọng thương và tự do buôn bán. Chương cuối phê phán việc phái trọng nông đề cao quá mức nông nghiệp, nhưng tán thành việc họ chống các hạn chế của chính phủ với nông nghiệp, và coi hệ thống trọng nông là "rất gần với chân lý".
+
+**Lập luận cho tự do buôn bán.** Dù được củng cố bằng niềm tin vào "hệ thống rõ ràng và đơn giản của nền tự do tự nhiên", lập luận của Smith thực chất là phê phán cụ thể từng biện pháp:
+
+- Bảo hộ giúp một ngành nhưng hại cả nước, vì nó sinh độc quyền và đẩy giá lên.
+- Mỗi nước, giống mỗi cá nhân trong phân công lao động, có lợi khi làm điều mình giỏi nhất rồi trao đổi.
+- Trợ cấp có lợi cho một nhóm người nhưng làm tăng gánh thuế của cả dân chúng.
+- Độc quyền thuộc địa có lợi cho thương nhân nhưng thu hẹp thị trường, hại thương mại chung, và gây oán giận dẫn tới bạo loạn, như ở Mỹ.
+
+**Các ngoại lệ.** Smith là người ủng hộ tự do thương mại một cách thực dụng, không tuyệt đối. Ông chấp nhận bốn trường hợp hạn chế:
+
+1. Hạn chế vì quốc phòng là đúng, vì an ninh "quan trọng hơn sự giàu có".
+2. Đánh thuế hàng nhập khẩu khi hàng nội tương ứng cũng bị đánh thuế, vì lý do công bằng giữa hai bên.
+3. Trả đũa khi nước ngoài cấm hàng của mình, với điều kiện việc trả đũa có khả năng buộc nước kia gỡ lệnh cấm.
+4. Khi gỡ bỏ các hạn chế đã có, phải làm dần dần vì lòng nhân đạo, để tránh thất nghiệp hàng loạt.
+
+Smith kết luận rằng mong thương mại hoàn toàn tự do là điều "không tưởng".
+
+**Ba nhiệm vụ của nhà nước.** Cuối Quyển IV, Smith viết rằng chính phủ nào muốn tự điều khiển công nghiệp của đất nước tất yếu sẽ vấp phải ảo tưởng, vì không ai có đủ hiểu biết và khôn ngoan để làm việc đó. Nhà nước chỉ có ba nhiệm vụ:
+
+1. Quốc phòng.
+2. Tư pháp.
+3. Duy trì những công trình và thể chế công không đem lại lợi nhuận cho tư nhân nhưng có lợi cho xã hội: đường sá, cầu cống, kênh đào, bến cảng; đại sứ và các thể chế bảo vệ thương nhân ở nước ngoài; giáo dục.
+
+Nhiệm vụ thứ ba cho thấy Smith không tin rằng tự do kinh doanh là đúng trong mọi lĩnh vực.
+
+**Giáo dục.** Smith cho rằng phần lớn giáo dục nên độc lập khỏi nhà nước. Nhưng vì phân công lao động làm công việc của người công nhân trở nên đơn điệu, khiến họ không còn dùng tới trí thông minh và trở nên đần độn, ông đề nghị giáo dục tiểu học ở cấp xã và bắt buộc cho mọi người. Đó là một đề nghị rất mạnh vào thời ấy.
+
+**Quyển V.** Quyển này bàn về thu nhập để chi trả các chức năng của nhà nước, kèm các nhận xét về bốn giai đoạn của xã hội (săn bắn, chăn nuôi, nông nghiệp, thương mại), về lịch sử quốc phòng, luật pháp, giáo dục và tôn giáo; phần lớn là về thuế, với các nguyên tắc chung mà Raphael gọi là "hoàn toàn hợp lý". Everyman's Library quyết định in sách thành một tập để bán rẻ, nên **bỏ Quyển V**. Raphael gọi đó là điều đáng tiếc, nhưng cho rằng Quyển I–IV đã chứa toàn bộ điều Smith muốn nói về bản chất và nguyên nhân của cải.
 
 ### 9. Thư mục chọn lọc và bảng niên đại
 
-- Tác phẩm khác của Smith: *Lý thuyết về những tình cảm đạo đức* (Raphael và Macfie biên tập, Oxford 1976), bổ sung cho *Của cải* phần về bản chất con người và xã hội, rất dễ đọc; *Các tiểu luận về các chủ đề triết học*, *Bài giảng về tu từ học*, *Bài giảng về luật học* dành cho nhà nghiên cứu.
-- Tiểu sử: John Rae (1895); Ian S. Ross (sắp xuất bản lúc ấy); E.G. West (1969). Nghiên cứu chung: Campbell và Skinner (1982); Raphael, *Adam Smith* (1985). Bình luận: Andrew S. Skinner, *Một hệ thống khoa học xã hội* (1979); Mark Blaug, *Nhìn lại lý thuyết kinh tế*, chương 2 (in lần ba 1978); Samuel Hollander, *Kinh tế học của Adam Smith* (1973).
-- Bảng niên đại đặt đời Smith cạnh Cách mạng công nghiệp sơ kỳ (Kay 1733, Hargreaves 1764, Watt 1765, Arkwright 1768), các tác phẩm của Hume, Montesquieu, Quesnay, Turgot, Steuart, Gibbon, và các biến cố chính trị: cuộc nổi dậy Jacobite 1745–1746, Chiến tranh Bảy năm, Chiến tranh độc lập Mỹ, Cách mạng Pháp. Đáng chú ý: *Của cải* ra đời cùng năm Tuyên ngôn độc lập Mỹ, và trước khi các phát minh dệt và máy hơi nước biến thành hệ thống nhà máy; ví dụ của Smith là xưởng thủ công, không phải nhà máy.
+**Thư mục.** Các tác phẩm khác của Smith được giới thiệu gồm: *Lý thuyết về những tình cảm đạo đức* (Raphael và Macfie biên tập, Oxford 1976), bổ sung cho *Của cải* phần về bản chất con người và xã hội, và rất dễ đọc; cùng *Các tiểu luận về các chủ đề triết học*, *Bài giảng về tu từ học* và *Bài giảng về luật học*, dành cho người nghiên cứu.
+
+Sách viết về Smith:
+
+| Loại | Tác giả và tác phẩm |
+|---|---|
+| Tiểu sử | John Rae (1895); Ian S. Ross (sắp xuất bản lúc ấy); E.G. West (1969) |
+| Nghiên cứu chung | Campbell và Skinner (1982); Raphael, *Adam Smith* (1985) |
+| Bình luận | Andrew S. Skinner, *Một hệ thống khoa học xã hội* (1979); Mark Blaug, *Nhìn lại lý thuyết kinh tế*, chương 2 (in lần ba 1978); Samuel Hollander, *Kinh tế học của Adam Smith* (1973) |
+
+**Bảng niên đại.** Bảng niên đại đặt đời Smith cạnh ba dòng sự kiện:
+
+| Dòng sự kiện | Mốc |
+|---|---|
+| Cách mạng công nghiệp sơ kỳ | Con thoi bay của Kay (1733); máy kéo sợi của Hargreaves (1764); bình ngưng tách rời của Watt cho máy hơi nước (1765); máy kéo sợi của Arkwright (1768) |
+| Tác phẩm tư tưởng | Hume, *Khái luận về bản chất con người* (1739–40) và các tiểu luận *Kinh tế chính trị* (1752); Montesquieu, *Tinh thần pháp luật* (1748); Bách khoa toàn thư Pháp (1751–66); Quesnay, *Tableau économique* (1758); Steuart, *Kinh tế chính trị học* (1767); các tác phẩm của Turgot; tập 1 *Đế quốc La Mã* của Gibbon (1776) |
+| Biến cố chính trị | Cuộc nổi dậy Jacobite (1745–1746); Chiến tranh Bảy năm (1756–63); Chiến tranh độc lập Mỹ (1775–83); Tuyên ngôn độc lập Mỹ (1776); Cách mạng Pháp (1789) |
+
+Hai điều đáng chú ý. Thứ nhất, *Của cải* ra đời cùng năm 1776 với Tuyên ngôn độc lập Mỹ và tập 1 của Gibbon. Thứ hai, sách ra đời trước khi các phát minh trong ngành dệt và máy hơi nước biến thành hệ thống nhà máy; vì vậy ví dụ của Smith là xưởng thủ công tập trung, không phải nhà máy cơ khí.
 
 ### 10. Lời giới thiệu và đề cương của Smith
 
-- Câu mở đầu: lao động hàng năm của mỗi dân tộc là quỹ ban đầu cung cấp mọi vật dụng cần thiết và tiện nghi mà dân tộc đó tiêu dùng hàng năm; quỹ ấy gồm sản phẩm trực tiếp của lao động, hoặc những gì mua được của dân tộc khác nhờ sản phẩm ấy.
-- Dân tộc được cung cấp tốt hay kém tuỳ theo tỷ lệ của sản phẩm so với số người tiêu dùng.
-- Tỷ lệ này do hai yếu tố điều tiết: kỹ năng, sự khéo léo và óc phán đoán trong lao động; và tỷ lệ giữa số người làm lao động có ích với số người không làm. Đất đai, khí hậu hay diện tích không thay đổi được điều đó.
-- Yếu tố thứ nhất quan trọng hơn. Ở dân săn bắt và đánh cá, ai có thể làm đều làm, nuôi cả người già yếu, trẻ nhỏ, tàn tật, nhưng nghèo đến mức có lúc buộc phải bỏ mặc họ chết đói, chết bệnh hay bị thú dữ ăn thịt. Ở xã hội văn minh, nhiều người không làm gì mà tiêu dùng gấp mười, gấp trăm người lao động, vậy mà sản phẩm vẫn đủ cho mọi người, và người lao động chăm chỉ, tiết kiệm ở tầng lớp thấp nhất hưởng nhiều hơn bất kỳ ai trong xã hội hoang dã.
-- Quyển I: nguyên nhân tăng năng suất lao động và trật tự phân phối tự nhiên của sản phẩm giữa các tầng lớp.
-- Quyển II: số người làm lao động có ích ở đâu cũng tỷ lệ với lượng vốn dùng để thuê họ và cách dùng vốn; vậy phải bàn bản chất của vốn, cách tích luỹ dần, và lượng lao động mà các cách dùng vốn khác nhau huy động.
-- Quyển III: các nước đã khá tiến bộ về kỹ năng lại theo những kế hoạch rất khác nhau trong việc điều hành lao động, và không phải kế hoạch nào cũng thuận lợi như nhau cho sản lượng. Có nước khuyến khích nông nghiệp, có nước chỉ khuyến khích công nghiệp thành thị, hiếm nước đối xử đồng đều. Từ khi La Mã sụp đổ, châu Âu ưu đãi thủ công, công nghiệp và thương mại thành thị hơn nông nghiệp; Quyển III giải thích hoàn cảnh dẫn tới chính sách đó.
-- Quyển IV: các kế hoạch ấy, ban đầu do lợi ích và định kiến riêng của từng nhóm người, không ai nghĩ tới hậu quả cho phúc lợi chung, đã sinh ra các lý thuyết kinh tế chính trị khác nhau, bên đề cao công nghiệp thành thị, bên đề cao nông nghiệp; các lý thuyết ấy ảnh hưởng không chỉ tới người có học mà tới cách trị nước của các vua chúa và nhà nước có chủ quyền.
-- Đối tượng của bốn quyển đầu: giải thích thu nhập của đại bộ phận nhân dân gồm những gì, và bản chất của quỹ bảo đảm tiêu dùng hàng năm của các quốc gia ở các thời đại.
-- Quyển V: thu nhập của nhà nước: các khoản chi cần thiết và khoản nào cả xã hội gánh, khoản nào một bộ phận gánh; các phương pháp để cả xã hội đóng góp và ưu nhược điểm; vì sao hầu hết chính phủ hiện nay thế chấp một phần thu nhập này, tức là vay nợ, và nợ ảnh hưởng thế nào tới của cải thật, tức là sản phẩm hàng năm của đất đai và lao động.
+Đây là phần duy nhất trong mở đầu do chính Smith viết, chỉ hơn một trang, nhưng chứa toàn bộ khung của bộ sách.
+
+**Câu mở đầu: của cải là một dòng.** Lao động hàng năm của mỗi dân tộc là quỹ (*fund*) ban đầu cung cấp tất cả vật dụng cần thiết và tiện nghi mà dân tộc đó tiêu dùng hàng năm. Quỹ ấy gồm hai phần: sản phẩm trực tiếp của lao động đó, hoặc những thứ mua được của các dân tộc khác nhờ sản phẩm ấy. Tức là của cải là một dòng sản phẩm sinh ra mỗi năm, không phải một kho vàng bạc; và hàng nhập khẩu cũng được tính, vì chúng được trả bằng sản phẩm của lao động trong nước.
+
+**Chia cho số người tiêu dùng.** Một dân tộc được cung cấp tốt hay kém tuỳ theo sản phẩm ấy chiếm tỷ lệ lớn hay nhỏ so với số người tiêu dùng nó. Thước đo vì vậy là sản phẩm trên đầu người.
+
+**Hai yếu tố quyết định.** Tỷ lệ này, ở bất kỳ nước nào, do hai yếu tố điều tiết, bất kể đất đai, khí hậu hay diện tích lãnh thổ:
+
+1. Kỹ năng, sự khéo léo và óc phán đoán trong lao động, tức là năng suất lao động.
+2. Tỷ lệ giữa số người làm lao động có ích và số người không làm, tức là cơ cấu giữa lao động sản xuất và phi sản xuất.
+
+**Yếu tố thứ nhất quan trọng hơn: đối chiếu hai xã hội.** Smith chứng minh bằng một so sánh:
+
+| | Dân săn bắt, đánh cá | Xã hội văn minh |
+|---|---|---|
+| Ai lao động | Mọi người có sức đều lao động, nuôi cả người già yếu, trẻ nhỏ, tàn tật | Nhiều người không lao động gì, và nhiều người tiêu dùng gấp mười, gấp trăm người lao động |
+| Yếu tố thứ hai (tỷ lệ người làm) | Gần tối đa | Thấp hơn |
+| Yếu tố thứ nhất (năng suất) | Rất thấp | Rất cao |
+| Kết quả | Nghèo đến mức có lúc buộc phải bỏ mặc trẻ em, người già, người bệnh chết đói, chết bệnh hay bị thú dữ ăn thịt | Sản phẩm vẫn đủ cho mọi người; người lao động chăm chỉ, tiết kiệm ở tầng lớp thấp nhất hưởng nhiều hơn bất kỳ ai trong xã hội hoang dã |
+
+Xã hội săn bắt có tỷ lệ người làm cao hơn mà vẫn nghèo hơn; vậy năng suất mới là yếu tố quyết định chính.
+
+**Cấu trúc 5 quyển suy ra từ hai yếu tố.**
+
+- **Quyển I** bàn nguyên nhân làm tăng năng suất lao động (yếu tố thứ nhất), và trật tự tự nhiên theo đó sản phẩm được phân phối giữa các tầng lớp trong xã hội.
+- **Quyển II** bàn yếu tố thứ hai. Số người làm lao động có ích, ở đâu cũng vậy, tỷ lệ với lượng vốn (*stock*) dùng để thuê họ và với cách dùng vốn ấy. Vì vậy Quyển II bàn bản chất của vốn, cách nó được tích luỹ dần, và lượng lao động mà mỗi cách dùng vốn khác nhau huy động được.
+- **Quyển III.** Các nước đã khá tiến bộ về kỹ năng lại theo những kế hoạch rất khác nhau trong việc điều hành lao động, và không phải kế hoạch nào cũng thuận lợi như nhau cho sản lượng. Có nước khuyến khích nông nghiệp, có nước chỉ khuyến khích công nghiệp thành thị, hiếm nước đối xử đồng đều với mọi ngành. Từ khi đế quốc La Mã sụp đổ, chính sách của châu Âu ưu đãi thủ công, công nghiệp và thương mại thành thị hơn nông nghiệp. Quyển III giải thích hoàn cảnh đã dẫn tới chính sách đó.
+- **Quyển IV.** Các kế hoạch ấy, ban đầu xuất phát từ lợi ích và định kiến riêng của từng nhóm người, không ai nghĩ tới hậu quả cho phúc lợi chung, đã sinh ra các lý thuyết kinh tế chính trị khác nhau: một bên đề cao công nghiệp thành thị (trọng thương), một bên đề cao nông nghiệp (trọng nông). Các lý thuyết ấy ảnh hưởng không chỉ tới người có học mà tới cả cách các vua chúa và nhà nước có chủ quyền trị nước. Quyển IV phân tích chúng.
+- **Đối tượng chung của bốn quyển đầu** là giải thích thu nhập của đại bộ phận nhân dân gồm những gì, và bản chất của quỹ bảo đảm tiêu dùng hàng năm của các quốc gia ở các thời đại khác nhau.
+- **Quyển V** bàn thu nhập của nhà nước, theo ba phần: một là các khoản chi cần thiết, khoản nào cả xã hội nên gánh và khoản nào chỉ một bộ phận nên gánh; hai là các phương pháp để cả xã hội đóng góp, cùng ưu nhược điểm của từng phương pháp; ba là vì sao hầu hết các chính phủ hiện nay thế chấp một phần thu nhập này, tức là vay nợ, và nợ ấy ảnh hưởng thế nào tới của cải thật, tức sản phẩm hàng năm của đất đai và lao động. (Ấn bản này bỏ Quyển V.)
+
+Cấu trúc này cho thấy mọi chương sau đều là một mắt xích: Quyển I và II giải thích hai yếu tố, Quyển III và IV giải thích vì sao các nước đi lệch khỏi con đường tự nhiên, Quyển V nói nhà nước nên làm gì và lấy tiền ở đâu.
 
 ## Luận điểm kinh tế cốt lõi
 

@@ -155,168 +155,251 @@
 2. **Nên làm gì với người làm ta giận?** Nhớ mười điều ở 11.18: ta và họ sinh ra vì nhau; họ sai vì không biết; chính ta cũng sai; ta chưa chắc họ sai; đời ngắn; phán đoán của ta mới làm ta khổ; giận hại ta hơn lỗi của họ; lòng tốt chân thành là vô địch; và mong kẻ xấu không làm sai là đòi điều không thể. Rồi sửa họ nhẹ nhàng, không giận cũng không nịnh.
 3. **Rối loạn trong ta đến từ đâu?** Từ phán đoán ta tự gán cho sự vật. Sự vật không tìm đến ta và không tự áp đặt nghĩa lên ta; ta có thể giữ tâm trí như trang giấy trắng, và học "nghệ thuật chấp thuận" mà Epictetus dạy.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Linh hồn lý trí (psychē logikē).** Theo phái Khắc kỷ, con người khác cây cối và loài vật ở chỗ có một phần biết suy nghĩ, tự xét lại mình và tự chọn cách hành động. Marcus gọi phần đó là linh hồn lý trí. Ví dụ minh hoạ: một cây táo cho 200 quả mỗi mùa, nhưng người hái và người ăn là kẻ khác; còn một người giữ được bình tĩnh khi bị xúc phạm thì chính người ấy hưởng sự bình tĩnh đó, không ai lấy đi được. Khái niệm này quan trọng vì cả quyển xây trên ý rằng cái tốt của con người nằm hoàn toàn trong phần lý trí này, nên nó trọn vẹn ở mọi lúc và cái chết không lấy mất gì của nó.
+
+**Phần chỉ huy (hegemonikon).** Chỗ trong tâm trí nơi ra quyết định, nơi các ấn tượng được đánh giá và được chấp nhận hay bác bỏ. Bản dịch gọi nó là "tâm trí" hoặc "trí tuệ". Ví dụ minh hoạ: hai người cùng bị chen ngang khi xếp hàng; người thứ nhất nghĩ "nó coi thường mình" và bực suốt 30 phút, người thứ hai nghĩ "chắc nó vội" và quên ngay. Sự kiện như nhau, khác nhau là ở phần chỉ huy. Khái niệm này quan trọng vì mọi lời khuyên trong quyển (bốn lối lệch ở 11.19, điều thứ bảy ở 11.18) đều nhắm vào việc giữ phần chỉ huy đúng vị trí của nó.
+
+**Phán đoán và sự chấp thuận (hypolēpsis, synkatathesis).** Khắc kỷ chia một phản ứng tâm lý thành hai bước: ấn tượng đến (ta thấy, ta nghe), rồi ta *chấp thuận* hay không chấp thuận một đánh giá về ấn tượng ấy ("việc này thật kinh khủng"). Bước thứ nhất không do ta, bước thứ hai thì do ta. Ví dụ minh hoạ: một đồng nghiệp trả lời email sau 3 ngày; việc chậm 3 ngày là sự kiện, còn "anh ta coi thường tôi" là phán đoán ta tự thêm vào. Khái niệm này quan trọng vì Marcus nói sự vật đứng yên bên ngoài, chính ta "viết" phán đoán lên mình, và do đó có thể xoá; Epictetus gọi việc làm chủ bước thứ hai là "nghệ thuật chấp thuận".
+
+**Những thứ không tốt không xấu (adiaphora).** Theo Khắc kỷ, chỉ đức hạnh là tốt và chỉ thói xấu là xấu; còn của cải, danh tiếng, sức khoẻ, một bản nhạc hay, tự chúng không tốt không xấu. Bản dịch gọi thái độ đúng với chúng là "không khác biệt" hay thờ ơ. Ví dụ minh hoạ: một người mất 10 triệu đồng vì cổ phiếu giảm vẫn có thể hành xử tử tế và trung thực như hôm trước; theo Khắc kỷ, người ấy không mất gì thuộc về cái tốt thật của mình. Khái niệm này quan trọng vì kỹ thuật phân tích thành phần (11.2) và lời khuyên sống thờ ơ với cái không quan trọng (11.16) đều dựa vào nó.
+
+**Tính cộng đồng và sự nhận người khác là "người nhà" (koinōnia, oikeiosis).** Khắc kỷ cho rằng mọi sinh vật có lý trí sinh ra vì nhau, như các bộ phận của một cơ thể hay các công dân của một thành phố chung. Oikeiosis là quá trình mở rộng vòng "người nhà" từ bản thân ra gia đình, rồi ra toàn nhân loại. Ví dụ minh hoạ: trong một nhóm 5 người làm chung dự án, người giận và cắt liên lạc với một thành viên thực chất làm hỏng cả nhóm, không chỉ một quan hệ. Khái niệm này quan trọng vì nó là nền của hình ảnh cành cây bị cắt (11.8), của lập luận "giận là tự xa lạ với người đồng loại" (11.9) và của điều thứ nhất trong danh sách chống giận (11.18).
+
+**"Không ai cố ý làm sai".** Luận đề của Socrates: người làm điều xấu là vì nhầm điều xấu thành điều tốt, tức là vì không biết, chứ không ai tỉnh táo chọn cái xấu cho chính mình. Ví dụ minh hoạ: một người lái xe vượt đèn đỏ thường tin rằng mình "kịp" hoặc "không sao", chứ không nghĩ "tôi muốn gây tai nạn". Khái niệm này quan trọng vì nó là tiền đề của điều thứ ba trong danh sách 11.18: nếu người kia sai vì không biết, họ đáng được chỉ bảo hơn là đáng bị ghét.
+
+**Phân tích thành phần ("định nghĩa vật lý").** Kỹ thuật tách một thứ hấp dẫn thành các bộ phận nhỏ để nhìn nó như nó thật là, không có lớp hào quang. Ví dụ minh hoạ: một bài hát 4 phút có thể được nghe như từng nốt rời; khi hỏi "mình có bị nốt này chinh phục không?", sức cuốn của cả bài giảm đi. Khái niệm này quan trọng vì Marcus dùng nó để giữ thái độ thờ ơ với những thứ bên ngoài, và nói rõ chỉ có đức hạnh là không được đem ra chia nhỏ như vậy.
+
+## Nội dung chi tiết
+
+*Quyển 11 không chia chủ đề, chỉ có các mục đánh số từ 11.1 đến 11.39. Các tiêu đề dưới đây đi theo số mục. Có thể đọc theo bốn cụm ý: linh hồn lý trí tự hoàn tất (11.1, 11.2, 11.12, 11.16); cái cây chung và cơn giận (11.8, 11.9, 11.13, 11.18); phán đoán, thói quen trí óc và mục đích (11.11, 11.19–11.21); và cuốn sổ trích dẫn ở nửa sau (11.22–11.39).*
 
 ### 11.1 Đặc điểm của linh hồn lý trí
 
-- Linh hồn lý trí có những thuộc tính riêng: tự nhận thấy chính nó, tự phân tích chính nó, và tự làm cho mình thành điều nó muốn.
-- Nó tự hưởng thành quả của mình, trong khi hoa trái của cây cối (và theo cách khác, sản phẩm của gia súc) là do kẻ khác hưởng.
-- Nó đạt mục đích của mình dù đời bị dừng ở đâu. Một điệu múa hay vở kịch bị ngắt giữa chừng thì dở dang; còn linh hồn lý trí, dừng ở bất cứ điểm nào, việc nó làm vẫn trọn vẹn, và nó có thể nói rằng mình đã có đủ những gì thuộc về mình.
-- Nó bao quát cả vũ trụ, khoảng trống quanh vũ trụ và hình dạng của nó; nó vươn vào thời gian vô tận và hiểu các chu kỳ tái sinh định kỳ của vạn vật. Từ đó nó thấy rằng người sau sẽ không thấy gì mới, người trước cũng không thấy gì hơn; ai đã sống bốn mươi năm với đầu óc bình thường đã thấy tất cả quá khứ và tương lai, vì chúng cùng một dạng.
-- Thuộc tính khác của nó: yêu người xung quanh, chân thật, khiêm tốn, và không đặt điều gì lên trên chính nó, điều mà luật pháp cũng có. Kết luận: lý trí đúng đắn và công lý không khác nhau.
-- Lập luận ngầm: vì linh hồn lý trí trọn vẹn ở mỗi khoảnh khắc, cái chết không lấy đi được gì của nó. Đây là phiên bản Khắc kỷ của luận điểm rằng hạnh phúc không tăng theo độ dài thời gian.
+Marcus mở quyển bằng một bản liệt kê các thuộc tính của linh hồn lý trí. Thứ nhất, nó có ba năng lực hướng vào chính nó: tự nhìn thấy mình, tự phân tích mình, và tự làm cho mình trở thành điều nó muốn. Không cây cối hay con vật nào làm được như vậy.
+
+Thứ hai, nó tự thu hoạch mùa màng của mình. Cây trồng ra quả và gia súc cho sản phẩm, nhưng người hưởng là kẻ khác. Còn thành quả của linh hồn lý trí, như sự công bằng hay sự bình thản, thuộc về chính nó.
+
+Thứ ba, nó trọn vẹn ở mọi thời điểm. Một điệu múa hay một vở kịch bị dừng giữa chừng thì dở dang, vì giá trị của chúng nằm ở toàn bộ màn trình diễn. Linh hồn lý trí thì khác: đời bị cắt ngang ở bất cứ chỗ nào, việc nó đang làm vẫn hoàn tất, và nó có thể nói rằng mình đã có đủ những gì thuộc về mình.
+
+Thứ tư, nó bao quát được cả vũ trụ, khoảng trống bao quanh vũ trụ và hình dạng của nó; nó vươn tới thời gian vô tận và hiểu rằng vạn vật được tái sinh theo những chu kỳ lặp lại. Từ hiểu biết ấy, nó thấy rằng người đời sau sẽ không thấy gì mới, và người đời trước cũng không thấy gì nhiều hơn ta. Marcus đưa ra một con số: ai đã sống **40 năm** với đầu óc bình thường thì đã thấy mọi thứ của quá khứ và tương lai, vì chúng giống nhau về hình thức.
+
+Thứ năm, nó yêu người xung quanh, chân thật, khiêm tốn, và không coi điều gì cao hơn chính nó; đặc điểm cuối này luật pháp cũng có. Marcus kết đoạn bằng một mệnh đề ngắn: lý trí đúng đắn và công lý là một, không khác nhau.
+
+Lập luận ngầm của cả mục là: vì linh hồn lý trí trọn vẹn ở mỗi khoảnh khắc, cái chết đến sớm hay muộn không lấy đi được gì của nó. Đây là phiên bản Khắc kỷ của luận điểm rằng hạnh phúc không tăng theo độ dài thời gian.
 
 ### 11.2 Phân tích thành phần để thờ ơ với cái hấp dẫn
 
-- Ta sẽ coi thường được một bài hát hay, một điệu múa đẹp, một trận đấu võ (pankration), nếu chia giai điệu thành từng nốt và hỏi với từng nốt xem ta có bị nó chinh phục không; ta sẽ ngượng mà thôi bị cuốn.
-- Làm tương tự với điệu múa (từng động tác, từng tư thế) và với trận võ.
-- Áp dụng cho mọi thứ, trừ đức hạnh và những gì sinh ra từ đức hạnh: đi thẳng vào từng phần, chia nhỏ để đi tới chỗ coi nhẹ. Rồi áp dụng cho cả cuộc đời.
-- Đây là kỹ thuật "định nghĩa vật lý" mà Marcus dùng nhiều lần (như ở Quyển 6, mục 13, nơi ông mô tả món ăn ngon là xác cá, rượu quý là nước nho lên men).
+Vì giá trị nằm bên trong linh hồn lý trí, những thứ hấp dẫn bên ngoài cần được nhìn cho đúng. Marcus đưa ra một kỹ thuật cụ thể. Một bài hát hay sẽ mất sức cuốn nếu ta chia giai điệu thành từng nốt và hỏi với từng nốt: "ta có bị nốt này chinh phục không?". Câu trả lời là không, và ta sẽ thấy ngượng mà thôi bị cuốn theo.
+
+Làm tương tự với điệu múa (tách thành từng động tác, từng tư thế) và với trận võ pankration, môn võ tổng hợp của Hy Lạp (tách thành từng thế đánh). Rồi áp dụng cho mọi thứ khác, với một ngoại lệ: đức hạnh và những gì sinh ra từ đức hạnh. Với mọi thứ còn lại, cách làm là đi thẳng vào từng phần, chia nhỏ ra cho tới khi coi nhẹ được chúng. Cuối cùng, Marcus muốn áp dụng cách nhìn này cho cả cuộc đời.
+
+Đây là kỹ thuật "định nghĩa vật lý" mà Marcus dùng nhiều lần trong tác phẩm. Ví dụ quen thuộc nhất ở Quyển 6 (mục 13): món ăn ngon được mô tả là xác một con cá, rượu quý là nước nho lên men. Mục đích không phải là chán ghét những thứ đó, mà là thấy chúng đúng như chúng là, để chúng không quyết định thay ta.
 
 ### 11.3 Sẵn sàng rời thân xác, nhưng vì suy xét
 
-- Đáng quý là linh hồn sẵn sàng khi phải tách khỏi thân thể, dù sau đó nó tắt hẳn, tan rã, hay tiếp tục tồn tại.
-- Nhưng sự sẵn sàng ấy phải đến từ phán đoán riêng, không phải từ tinh thần đối kháng thuần tuý (Marcus nhắc Cơ Đốc nhân như ví dụ); nó phải được cân nhắc, nghiêm trang, thuyết phục được người khác, và không có chút kịch tính nào.
+Một linh hồn đáng quý là linh hồn sẵn sàng khi đến lúc phải tách khỏi thân thể, bất kể sau đó nó sẽ tắt hẳn, tan rã ra, hay tiếp tục tồn tại. Marcus không khẳng định điều gì xảy ra sau cái chết; ông chỉ nói thái độ sẵn sàng là đáng quý trong cả ba trường hợp.
+
+Nhưng ông đặt một điều kiện. Sự sẵn sàng ấy phải đến từ phán đoán riêng của mình, không phải từ tinh thần đối kháng thuần tuý, kiểu đứng vào hàng ngũ chỉ để chống lại. Marcus nhắc Cơ Đốc nhân như ví dụ cho kiểu thứ hai (đây là lần duy nhất họ xuất hiện trong tác phẩm, và nhiều học giả cho rằng cụm này do người chép tay thêm vào). Sự sẵn sàng đúng nghĩa phải được cân nhắc, nghiêm trang, đủ sức thuyết phục người khác, và không có chút kịch tính hay phô diễn nào.
 
 ### 11.4 Làm điều lợi cho cộng đồng
 
-- Nếu đã làm điều gì đó vì lợi ích chung, thì chính ta đã được lợi rồi (vì ta là một phần của cộng đồng). Luôn giữ ý này trong đầu và đừng bao giờ ngừng.
+Mục ngắn này nêu một lập luận gọn: nếu ta đã làm điều gì vì lợi ích chung, thì chính ta đã được lợi rồi, vì ta là một phần của cộng đồng. Phần thưởng không cần đến từ bên ngoài. Marcus tự dặn phải luôn giữ ý này trong đầu và không bao giờ ngừng làm điều có ích cho cộng đồng.
 
 ### 11.5 Nghề của ta là làm người tốt
 
-- Đoạn đối thoại ngắn: nghề của anh là gì? Là làm người tốt. Và làm sao thành công trong nghề ấy, nếu không nhờ hiểu biết về bản chất vũ trụ và cấu tạo riêng của con người? (Câu đầu có lẽ trích từ một tác phẩm khác; dịch giả không tìm được nguồn.)
+Đây là một đoạn đối thoại ngắn. Hỏi: nghề của anh là gì? Đáp: làm người tốt. Và làm sao thành công trong nghề ấy, nếu không nhờ hiểu biết về bản chất của vũ trụ và về cấu tạo riêng của con người? Ý của Marcus là sống tốt cũng là một nghề, và như mọi nghề, nó cần kiến thức nền. Câu hỏi đầu có lẽ được trích từ một tác phẩm khác; dịch giả không tìm được nguồn.
 
 ### 11.6 Bi kịch, hài kịch cũ và mới dạy gì
 
-- Bi kịch được dựng trước tiên để nhắc người xem về những gì xảy ra trong đời, rằng chúng tự nhiên phải xảy ra; và nếu ta thích xem chúng trên sân khấu thì đừng khổ sở khi chúng xảy ra trên sân khấu lớn hơn là cuộc đời. Ta thấy chúng phải diễn ra như vậy, và ngay cả người kêu than "Ôi Cithaeron!" (Oedipus, núi nơi ông bị bỏ rơi khi mới sinh) cũng phải chịu.
-- Các nhà viết bi kịch có những câu hữu ích, Marcus nhắc lại ba câu ông đã ghi ở Quyển 7: nếu thần linh bỏ mặc ta và con ta thì họ có lý do; đừng giận sự vật; gặt đời người như gặt bông lúa chín.
-- Sau bi kịch là Hài kịch Cũ, có giá trị giáo dục nhờ sự nói thẳng, dùng chính lối thẳng thắn ấy để hạ bệ thói kiêu căng (Diogenes phái Khuyển nho cũng mượn cách này).
-- Rồi Hài kịch Trung kỳ và Hài kịch Mới, dần sa vào kỹ xảo bắt chước. Marcus thừa nhận có những câu hay, nhưng đặt câu hỏi: toàn bộ thể loại này nhắm tới mục đích gì?
-- Hàm ý: nghệ thuật được đánh giá theo việc nó giúp con người sống đúng, không theo kỹ thuật.
+Marcus điểm lại lịch sử sân khấu Athens để hỏi mỗi thể loại dạy con người điều gì.
+
+**Bi kịch** được dựng trước tiên để nhắc người xem về những gì xảy ra trong đời, và rằng chúng tự nhiên phải xảy ra như vậy. Nếu ta thích thú xem chúng trên sân khấu, thì đừng khổ sở khi chúng xảy ra trên sân khấu lớn hơn là cuộc đời. Ta thấy các sự việc phải diễn ra như thế, và ngay cả người kêu than "Ôi Cithaeron!" cũng phải chịu đựng chúng. Người kêu là Oedipus, và Cithaeron là ngọn núi nơi ông bị bỏ rơi khi mới sinh. Các nhà viết bi kịch còn để lại những câu hữu ích; Marcus nhắc lại ba câu ông đã ghi ở Quyển 7: nếu thần linh bỏ mặc ta và con ta thì điều đó cũng có lý do; đừng giận sự vật; đời người bị gặt như gặt bông lúa chín.
+
+**Hài kịch Cũ** đến sau bi kịch và có giá trị giáo dục nhờ lối nói thẳng không kiêng nể. Chính sự thẳng thắn ấy được dùng để hạ bệ thói kiêu căng; Diogenes phái Khuyển nho cũng mượn cách nói này.
+
+**Hài kịch Trung kỳ và Hài kịch Mới** đến sau nữa, và dần sa vào kỹ xảo bắt chước đời thường. Marcus thừa nhận các tác giả này có những câu hay, nhưng ông đặt câu hỏi: toàn bộ thể loại ấy rốt cuộc nhắm tới mục đích gì?
+
+Hàm ý của cả mục là nghệ thuật được đánh giá theo việc nó giúp con người sống đúng, không theo độ tinh xảo của kỹ thuật.
 
 ### 11.7 Hoàn cảnh hiện tại là hoàn cảnh tốt nhất để triết học
 
-- Marcus tự nói với mình rằng rõ ràng không có hoàn cảnh sống nào thích hợp cho triết học hơn hoàn cảnh ông đang có. Không đợi điều kiện lý tưởng; triết học là cách xử lý chính cuộc sống đang diễn ra (kể cả cuộc sống của một hoàng đế giữa chiến tranh).
+Marcus tự nói với mình rằng rõ ràng không có hoàn cảnh sống nào thích hợp để thực hành triết học hơn chính hoàn cảnh ông đang có. Ông không chờ một điều kiện lý tưởng (nhàn rỗi, yên tĩnh, xa triều đình). Triết học, theo cách hiểu Khắc kỷ, là cách xử lý chính cuộc sống đang diễn ra, kể cả cuộc sống của một hoàng đế giữa chiến tranh ở biên giới.
 
 ### 11.8 Cành cây bị cắt
 
-- Một cành bị cắt khỏi cành kế bên thì cũng bị cắt khỏi cả cây. Tương tự, người tách khỏi một người là tách khỏi toàn thể cộng đồng.
-- Khác biệt: cành bị người khác cắt, còn con người tự cắt mình qua lòng thù ghét và sự quay lưng, mà không biết rằng mình cũng đã tự cắt khỏi cả tập thể công dân.
-- Nhưng Zeus, đấng lập ra cộng đồng, cho ta một món quà: có thể tự ghép lại và lại thành một phần của toàn thể.
-- Tuy vậy, tách ra nhiều lần thì khó nối lại và khó phục hồi. Cành mọc từ đầu cùng cây và lớn cùng cây khác với cành bị cắt rồi ghép lại, như người làm vườn nói.
-- Câu kết của người làm vườn là lối chơi chữ: mọc cùng một gốc nhưng không nhất thiết cùng quan điểm; tức là gắn bó với người khác không đòi hỏi phải đồng ý với họ.
+Một cành bị cắt khỏi cành bên cạnh thì cũng bị cắt khỏi cả cái cây. Cũng vậy, một người tách mình khỏi một người khác là tách mình khỏi toàn thể cộng đồng. Hình ảnh này nói rằng không có chuyện "chỉ giận riêng một người": quan hệ với từng người là một phần của quan hệ với cả cộng đồng.
+
+Giữa cành cây và con người có một khác biệt quan trọng. Cành bị người khác cắt. Còn con người tự cắt mình, bằng lòng thù ghét và bằng việc quay lưng với người khác, mà không biết rằng làm vậy là tự tách khỏi cả tập thể công dân.
+
+Nhưng Zeus, đấng lập ra cộng đồng, cho con người một món quà: ta có thể tự ghép mình lại và lại trở thành một phần của toàn thể. Tuy vậy, món quà có giới hạn. Nếu tách ra nhiều lần, việc nối lại và phục hồi sẽ khó hơn. Như người làm vườn nói, cành mọc từ đầu cùng cây và lớn lên cùng cây khác với cành bị cắt rồi ghép lại.
+
+Câu kết của người làm vườn là một lối chơi chữ trong tiếng Hy Lạp, đại ý: mọc cùng một gốc, nhưng không nhất thiết cùng một quan điểm. Tức là gắn bó với người khác không đòi hỏi phải đồng ý với họ. Bản dịch dịch câu này là "Một thân, hai đầu", giữ được hình ảnh nhưng làm mất lối chơi chữ.
 
 ### 11.9 Người cản đường và hai mục tiêu
 
-- Khi ta tiến bước theo lý trí đúng, có người sẽ cản. Họ không thể làm ta bỏ việc đúng; vậy cũng đừng để họ làm ta mất thiện ý với họ.
-- Giữ cả hai: phán đoán và hành động vững vàng, đồng thời ôn hoà với người cố ngăn trở hay gây phiền cho ta.
-- Lập luận: giận họ là một sự yếu đuối, cũng như bỏ việc vì bị dọa. Cả hai đều là đào ngũ: một người vì sợ, một người vì tự xa lạ với người đồng loại, người họ hàng tự nhiên của mình.
+Khi ta tiến bước theo lý trí đúng đắn, sẽ có người cản đường. Họ không thể làm ta bỏ việc đúng. Vậy thì cũng đừng để họ làm ta mất thiện ý với chính họ.
+
+Marcus đòi giữ cùng lúc hai mục tiêu: một là phán đoán và hành động vững vàng, hai là thái độ ôn hoà với người đang cố ngăn trở hay gây phiền cho ta. Nhiều người chỉ giữ được một trong hai: hoặc nhượng bộ để giữ hoà khí, hoặc giữ lập trường nhưng nổi giận.
+
+Lập luận của ông là: giận họ là một sự yếu đuối, ngang với việc bỏ dở công việc vì bị doạ. Cả hai đều là đào ngũ khỏi vị trí của mình. Một người đào ngũ vì sợ hãi; người kia đào ngũ vì tự biến mình thành xa lạ với người đồng loại, vốn là họ hàng tự nhiên của mình.
 
 ### 11.10 Tự nhiên không thua nghệ thuật, và gốc của công lý
 
-- Tự nhiên không bao giờ kém nghệ thuật, vì nghệ thuật bắt chước tự nhiên. Vậy tự nhiên hoàn hảo nhất, bao trùm nhất, không thể kém tay nghề hơn người thợ.
-- Mọi nghề đều làm cái thấp vì cái cao; tự nhiên chung cũng vậy.
-- Từ đó sinh ra công lý, và từ công lý sinh ra các đức hạnh khác. Bởi ta không thể giữ công lý nếu còn bận tâm tới những thứ không đáng kể, nếu dễ bị lừa, hấp tấp hay thay đổi thất thường.
+Tự nhiên không bao giờ kém nghệ thuật, vì nghệ thuật chỉ bắt chước tự nhiên. Nếu vậy, thì tự nhiên hoàn hảo nhất và bao trùm nhất không thể kém tay nghề hơn người thợ.
+
+Bước tiếp theo: mọi nghề đều làm ra cái thấp hơn để phục vụ cái cao hơn (người thợ làm dây cương để phục vụ việc cưỡi ngựa, chẳng hạn). Tự nhiên chung cũng làm như vậy. Bản dịch viết "mọi nghệ thuật đều tiến triển từ mục tiêu thấp đến mục tiêu cao hơn", nhưng đúng ý là cái thấp được làm **vì** cái cao.
+
+Từ trật tự ấy sinh ra công lý, và từ công lý sinh ra các đức hạnh khác. Marcus giải thích vì sao công lý cần các đức hạnh kia: ta không thể giữ được công lý nếu còn bận tâm tới những thứ không đáng kể, nếu dễ bị lừa, hấp tấp hay thay đổi thất thường.
 
 ### 11.11 Ngoại vật không đến tìm ta
 
-- Những thứ mà việc theo đuổi hay né tránh chúng làm ta rối loạn không tự đến với ta; chính ta đi tới chúng.
-- Hãy để phán đoán về chúng nằm yên: chúng sẽ đứng im và không ai thấy ta chạy theo hay chạy trốn nữa.
+Những thứ làm ta rối loạn, vì ta theo đuổi hay né tránh chúng, không tự tìm đến ta. Chính ta đi tới chúng, chạy theo hoặc chạy trốn chúng. Nếu ta để phán đoán về chúng nằm yên, thôi phán xét chúng là tốt hay xấu, thì chúng cũng đứng yên, và sẽ không ai còn thấy ta chạy theo hay chạy trốn chúng nữa.
+
+Ý này gắn với mục 11.16 ở dưới: rối loạn không nằm ở sự vật mà ở chuyển động của chính ta về phía sự vật, và chuyển động đó bắt đầu từ phán đoán.
 
 ### 11.12 Linh hồn là khối cầu
 
-- Linh hồn là một khối cầu cân đối khi nó không vươn ra ngoài nắm lấy gì, không co rút vào trong, không bung tán ra, không sụp xuống; nó sáng lên bằng ánh sáng giúp nó thấy sự thật của mọi vật và của chính nó. (Hình ảnh khối cầu của Empedocles, sẽ trở lại ở Quyển 12.)
+Linh hồn ở trạng thái cân bằng giống một khối cầu cân đối. Marcus mô tả bằng bốn điều nó không làm: không vươn ra ngoài để nắm lấy ngoại vật, không co rút vào trong, không bung tán ra, không sụp xuống. Khi giữ được như vậy, nó toả sáng bằng một thứ ánh sáng giúp nó nhìn thấy sự thật của mọi vật và của chính nó. Hình ảnh khối cầu lấy từ triết gia Empedocles và sẽ trở lại ở Quyển 12.
 
 ### 11.13 Ai đó khinh hay ghét ta
 
-- Có người khinh ta: đó là việc của họ. Việc của ta là đừng làm hay nói điều gì đáng khinh.
-- Có người ghét ta: đó là việc của họ. Việc của ta là tử tế và ôn hoà với mọi người, kể cả họ, sẵn sàng chỉ cho chính họ chỗ sai, không trách móc, không khoe sự nhẫn nhịn của mình, mà thật lòng và tốt bụng như Phocion (vị tướng Athens bình thản trước khi bị xử tử, nếu ông không giả vờ).
-- Bên trong phải như vậy: các thần không được thấy ta giận dữ hay oán trách.
-- Câu hỏi kết: chừng nào ta làm điều hợp bản chất mình và chấp nhận điều tự nhiên chung thấy hợp thời, tìm mọi cách vì lợi ích chung, thì có gì hại được ta?
+Marcus chia việc thành hai phần: việc của họ và việc của ta.
+
+| Tình huống | Việc của họ | Việc của ta |
+|---|---|---|
+| Có người khinh ta | Đó là chuyện của họ | Không làm hay nói điều gì đáng bị khinh |
+| Có người ghét ta | Đó là chuyện của họ | Tử tế và ôn hoà với mọi người, kể cả họ; sẵn sàng chỉ cho chính họ chỗ sai |
+
+Cách chỉ lỗi cũng có yêu cầu: không trách móc, không khoe sự nhẫn nhịn của mình, mà thật lòng và tốt bụng. Marcus lấy Phocion làm mẫu, vị tướng Athens nổi tiếng bình thản trước khi bị xử tử, với điều kiện sự bình thản ấy không phải là giả vờ.
+
+Thái độ này phải có thật ở bên trong, không chỉ ở bề ngoài: các thần không được thấy ta giận dữ hay oán trách. Mục kết bằng một câu hỏi: chừng nào ta làm điều hợp với bản chất mình, chấp nhận điều mà tự nhiên chung thấy là hợp thời, và tìm mọi cách vì lợi ích chung, thì còn điều gì có thể làm hại ta?
 
 ### 11.14 Nịnh nhau trong khinh nhau
 
-- Người ta khinh nhau mà vẫn nịnh nhau; muốn hơn nhau mà vẫn khúm núm trước nhau. Một quan sát ngắn về đời sống triều đình.
+Một quan sát ngắn về đời sống triều đình: người ta khinh nhau mà vẫn nịnh nhau, muốn hơn nhau mà vẫn khúm núm trước nhau. Marcus không bình luận thêm; sự mâu thuẫn tự nó đã là lời phê phán.
 
 ### 11.15 Sự thẳng thắn không cần tuyên bố
 
-- Thật giả tạo khi ai đó mở lời rằng sẽ thẳng thắn với ta. Nói ra làm gì: điều đó phải hiện ngay trên mặt, trong giọng nói, trong ánh mắt, như người yêu đọc được tất cả trong mắt người kia.
-- Người chân thật, tốt bụng phải giống người có mùi nồng: ai đứng gần là nhận ra ngay, dù muốn hay không. (Đây là hình ảnh dịch giả khen "độc nhất vô nhị".)
-- Sự chân thật giả vờ thì như con dao giấu. Không gì tệ hơn tình bạn giả dối (chữ Hy Lạp Marcus dùng, *lykophilia*, nghĩa đen là tình bạn của chó sói). Tránh nó bằng mọi giá. Người tốt, chân thật, có thiện ý thì điều đó lộ ra trong mắt, không nhầm được.
+Khi ai đó mở lời bằng câu "tôi sẽ nói thẳng với anh", đó là dấu hiệu của sự giả tạo. Nói ra để làm gì? Sự thẳng thắn phải hiện ngay trên khuôn mặt, trong giọng nói, trong ánh mắt, giống như người đang yêu đọc được mọi điều trong mắt người kia.
+
+Marcus đưa ra một hình ảnh: người chân thật và tốt bụng phải giống người có mùi cơ thể nồng, ai đứng gần cũng nhận ra ngay, dù muốn hay không. Dịch giả khen hình ảnh này là "độc nhất vô nhị".
+
+Ngược lại, sự chân thật giả vờ giống một con dao giấu trong người. Không gì tệ hơn tình bạn giả dối; chữ Hy Lạp Marcus dùng là *lykophilia*, nghĩa đen là "tình bạn của chó sói". Phải tránh nó bằng mọi giá. Người tốt, chân thật và có thiện ý thì những phẩm chất ấy lộ ra trong mắt, không thể nhầm được.
 
 ### 11.16 Sống tốt nhờ thờ ơ với cái không quan trọng
 
-- Có thể sống tốt nhất nếu thờ ơ với những thứ không làm nên khác biệt. Muốn thế, xét từng thứ theo từng phần và theo toàn thể, và nhớ rằng không thứ nào áp đặt phán đoán về nó lên ta, cũng không tự đến với ta. Chúng đứng yên; chính ta tạo phán đoán về chúng rồi như viết chúng lên mình.
-- Ta không cần viết; và nếu lỡ viết thì có thể xoá ngay.
-- Chỉ cần tập trung như vậy trong ít thời gian nữa, rồi đời sẽ hết.
-- Vì sao việc này lại khó? Nếu sự việc hợp với tự nhiên, hãy vui lòng đón nhận và nó sẽ dễ dàng. Nếu không hợp, hãy tìm điều hợp với bản chất mình và theo đuổi nó, dù chẳng có danh tiếng gì. Không ai bị cấm theo đuổi cái tốt của riêng mình.
+Có thể sống cuộc đời tốt nhất nếu giữ thái độ thờ ơ với những thứ không làm nên khác biệt về đạo đức. Muốn làm được vậy, cần hai việc. Một là xét từng thứ theo từng phần và theo toàn thể (kỹ thuật ở 11.2). Hai là nhớ rằng không thứ nào áp đặt phán đoán về nó lên ta, cũng không thứ nào tự tìm đến ta. Chúng đứng yên ở bên ngoài; chính ta tạo ra phán đoán về chúng rồi như tự viết chúng lên mình.
+
+Từ đó Marcus rút ra: ta không cần viết. Ta có thể giữ tâm trí như một trang giấy trắng, và nếu lỡ có vết nào thì xoá đi ngay. Ông còn tự an ủi rằng chỉ cần tập trung như vậy trong một khoảng thời gian ngắn nữa thôi, rồi đời sẽ hết.
+
+Vì sao việc này lại khó đến vậy? Marcus đưa ra một quy tắc hai nhánh. Nếu sự việc hợp với tự nhiên, hãy vui lòng đón nhận, và nó sẽ trở nên dễ dàng. Nếu không hợp, hãy tìm điều hợp với bản chất của mình và theo đuổi nó, dù điều đó không mang lại danh tiếng gì. Không ai bị cấm theo đuổi cái tốt của riêng mình.
 
 ### 11.17 Nguồn gốc và biến đổi
 
-- Mỗi vật từ đâu tới, gồm những gì, sẽ biến thành gì, và khi biến đổi sẽ ra sao; và rằng sự biến đổi ấy không làm nó chịu hại gì.
+Một lời tự nhắc gồm bốn câu hỏi cho mỗi sự vật: nó từ đâu tới, gồm những gì, sẽ biến thành gì, và khi biến đổi thì sẽ ra sao. Kèm theo đó là một kết luận: sự biến đổi ấy không làm nó chịu hại gì. Đây là cách nhìn giúp bớt sợ mất mát, vì mất đi chỉ là đổi dạng.
 
 ### 11.18 Chín điều (và điều thứ mười) cần nhớ khi bị xúc phạm
 
-Đây là mục dài nhất của quyển, một "bộ công cụ" có thứ tự để xử lý cơn giận:
+Đây là mục dài nhất của quyển và là đoạn có hệ thống nhất về cơn giận trong toàn bộ *Suy tưởng*: một bộ công cụ có thứ tự để xử lý cơn giận khi ai đó làm sai với ta. Marcus đếm chín điều, ví chúng như quà tặng của chín nữ thần Muse, rồi thêm điều thứ mười từ Apollo, vị thủ lĩnh của các Muse. Bảng dưới tóm tắt từng điều trước khi đi vào chi tiết.
 
-- **(i) Quan hệ của ta với họ.** Chúng ta sinh ra vì nhau. Theo một nghĩa khác, ta sinh ra để đứng đầu họ, như con đực đầu đàn trong bầy cừu hay bò. Lập luận từ gốc: nếu không phải nguyên tử ngẫu nhiên thì tự nhiên cai quản mọi thứ; nếu vậy thì cái thấp hơn tồn tại vì cái cao hơn, và các vật cao hơn (sinh vật có lý trí) tồn tại vì nhau.
-- **(ii) Họ là người như thế nào.** Hãy nghĩ họ cư xử ra sao lúc ăn, lúc ngủ, ở các nơi khác; họ bị những quan niệm của chính mình thúc ép thế nào, và họ tự hào ra sao về điều họ làm.
-- **(iii) Họ đúng hay sai đều không phải lý do để giận.** Nếu họ làm đúng thì ta không có quyền bực. Nếu họ làm sai thì rõ là không cố ý, mà vì không biết. Mọi linh hồn đều không tự nguyện bị tước mất sự thật, cũng không tự nguyện mất khả năng đối xử với người khác đúng mực. Bằng chứng: họ khó chịu khi bị gọi là bất công, vô ơn, tham lam, tức là bất cứ ám chỉ nào rằng họ làm sai với người khác.
-- **(iv) Chính ta cũng sai nhiều.** Ta cũng là người như họ. Dù có lỗi nào ta đã tránh được, ta vẫn có khuynh hướng mắc nó; và có thể ta tránh được chỉ vì nhút nhát, vì sợ tiếng xấu, hay vì lý do tồi tệ tương tự.
-- **(v) Ta chưa chắc họ sai.** Nhiều việc được làm như một bước cho mục đích khác. Phải biết rất nhiều mới phán xét chắc chắn hành động của người khác.
-- **(vi) Đời ngắn.** Khi mất bình tĩnh hay bực bội, hãy nhớ đời người chỉ trong khoảnh khắc; chẳng bao lâu tất cả ta đều nằm xuống đất.
-- **(vii) Không phải việc họ làm khiến ta khó chịu, mà là phán đoán của ta.** Việc họ làm nằm trong phần chỉ huy (hegemonikon) của họ, không phải của ta. Hãy bỏ phán đoán rằng đó là điều kinh khủng, thì cơn giận sẽ tan. Làm sao bỏ? Bằng cách nghĩ rằng việc ấy không làm ta xấu hổ. Lập luận đi kèm: nếu cái đáng xấu hổ về đạo đức không phải là điều xấu duy nhất, thì để tránh các "điều xấu" khác ta sẽ phải làm đủ điều sai, thành kẻ cướp hay tệ hơn.
-- **(viii) Giận và buồn hại ta hơn chính việc làm ta giận và buồn.**
-- **(ix) Lòng tốt là vô địch, nếu chân thật, không cười nhạo, không giả vờ.** Kẻ hung hăng nhất làm được gì nếu ta vẫn tử tế với hắn, và khi có dịp thì ôn tồn khuyên bảo, sửa cho hắn đúng lúc hắn định làm hại ta? Marcus gợi một lời nói mẫu: đừng làm vậy, ta sinh ra không phải để làm thế; ta không bị hại đâu, chính anh mới bị hại. Hãy chỉ cho hắn, nhẹ nhàng và khái quát, rằng loài ong và các loài sống thành bầy không làm vậy. Không mỉa mai, không lên lớp, mà với tình cảm thật, không oán hận; không như thầy đồ, không để người đứng xem trầm trồ, mà nói riêng với hắn, dù có người khác ở đó.
-- Marcus dặn mình giữ chín điều này như quà tặng của chín Muse, và bắt đầu làm người trong quãng đời còn lại.
-- Bổ sung: tránh giận người khác, nhưng cũng tránh nịnh họ; cả hai đều phản xã hội và dẫn đến hại. Khi giận, nhớ rằng nổi nóng không phải là nam tính; ôn hoà và nhã nhặn mới thật là người và thật là mạnh mẽ, có sức lực, gân cốt và can đảm, chứ không phải kẻ hay cáu kỉnh, bất mãn. Càng gần với sự không bị dục vọng chi phối thì càng gần sức mạnh. Như đau đớn, giận dữ cũng là dấu hiệu của yếu đuối: cả hai đều là bị thương và đầu hàng.
-- **(x) Món quà thứ mười, từ Apollo (thủ lĩnh các Muse).** Mong kẻ xấu không làm điều xấu là điên rồ, là đòi điều không thể. Còn chấp nhận họ làm xấu với người khác nhưng đòi họ đừng làm với mình thì vừa vô lý vừa là thái độ của bạo chúa.
+| Điều | Ý chính | Đánh vào cơn giận từ phía nào |
+|---|---|---|
+| (i) | Ta và họ sinh ra vì nhau; ta còn là người dẫn dắt họ | Quan hệ |
+| (ii) | Nhớ họ là người thế nào khi ăn, khi ngủ; họ bị quan niệm của chính mình chi phối ra sao, tự hào về điều gì | Nhìn họ như một con người cụ thể |
+| (iii) | Họ đúng thì không được trách; họ sai thì là vì không biết, không cố ý | Lý thuyết về hành động |
+| (iv) | Chính ta cũng sai; lỗi ta tránh được có khi chỉ vì sợ hay sợ mang tiếng | Soi lại mình |
+| (v) | Ta chưa chắc họ sai; nhiều việc là phương tiện cho một đích khác | Giới hạn hiểu biết |
+| (vi) | Đời ngắn; chẳng bao lâu tất cả nằm cạnh nhau dưới đất | Thời gian |
+| (vii) | Không phải việc họ làm khiến ta khổ, mà là phán đoán của ta về việc ấy | Cơ chế tâm lý |
+| (viii) | Giận và buồn hại ta hơn chính cái gây ra chúng | Cái giá của cơn giận |
+| (ix) | Lòng tốt chân thành là vô địch; nhẹ nhàng sửa họ, nói riêng | Cách hành động thay thế |
+| (x) | Đòi kẻ xấu không làm sai là đòi điều không thể | Kỳ vọng thực tế |
+
+**(i) Quan hệ giữa ta và họ.** Chúng ta sinh ra vì nhau. Theo một nghĩa khác, ta sinh ra để đứng đầu họ, như con đực đầu đàn trong bầy cừu hay đàn bò (Marcus là hoàng đế, nên câu này nói đúng vị trí của ông). Lập luận đi từ gốc: nếu vũ trụ không phải chỉ là các nguyên tử va chạm ngẫu nhiên, thì có một tự nhiên cai quản mọi thứ; nếu vậy thì cái thấp hơn tồn tại vì cái cao hơn, và các vật cao hơn, tức các sinh vật có lý trí, tồn tại vì nhau.
+
+**(ii) Họ là người như thế nào.** Hãy nghĩ xem họ cư xử ra sao khi ngồi ăn, khi ngủ, ở những nơi khác; họ bị chính những quan niệm của mình thúc ép như thế nào, và họ tự hào ra sao về những gì họ làm. Nhìn người kia trong đời thường giúp ta thấy họ là một con người bị chi phối bởi niềm tin của họ, không phải một kẻ thù trừu tượng.
+
+**(iii) Họ đúng hay sai đều không phải lý do để giận.** Nếu họ làm đúng, ta không có quyền bực bội. Nếu họ làm sai, thì rõ ràng là không cố ý, mà vì không biết. Không linh hồn nào tự nguyện bị tước mất sự thật, cũng không linh hồn nào tự nguyện mất khả năng đối xử với người khác cho đúng mực. Marcus đưa bằng chứng: người ta khó chịu khi bị gọi là bất công, vô ơn, tham lam, hay bị ám chỉ là làm sai với người khác. Nếu họ thật sự muốn bất công, họ đã không phật ý khi bị gọi như vậy.
+
+**(iv) Chính ta cũng sai nhiều.** Ta cũng là người như họ. Kể cả với những lỗi ta đã tránh được, ta vẫn có khuynh hướng mắc chúng; và có khi ta tránh được chỉ vì nhút nhát, vì sợ mang tiếng xấu, hay vì một lý do tồi tệ tương tự, chứ không phải vì ta tốt hơn.
+
+**(v) Ta chưa chắc họ sai.** Nhiều việc được làm như một bước để đi tới một mục đích khác mà ta không thấy. Phải biết rất nhiều mới phán xét chắc chắn được hành động của người khác.
+
+**(vi) Đời ngắn.** Khi mất bình tĩnh hay đang bực bội, hãy nhớ rằng đời người chỉ kéo dài trong khoảnh khắc; chẳng bao lâu nữa tất cả chúng ta đều sẽ nằm xuống đất.
+
+**(vii) Không phải việc họ làm khiến ta khó chịu, mà là phán đoán của ta về việc ấy.** Việc họ làm nằm trong phần chỉ huy của họ, không phải của ta. Hãy bỏ phán đoán rằng đó là điều kinh khủng, thì cơn giận sẽ tan. Bỏ bằng cách nào? Bằng cách nghĩ rằng việc ấy không làm ta xấu hổ, vì chỉ điều sai do chính ta làm mới đáng xấu hổ. Marcus thêm một lập luận phụ: nếu điều đáng xấu hổ về đạo đức không phải là điều xấu duy nhất, thì để tránh các "điều xấu" khác (mất của, mất danh), ta sẽ phải làm đủ điều sai, thành kẻ cướp hay tệ hơn.
+
+**(viii) Giận và buồn hại ta hơn chính việc làm ta giận và buồn.** Lỗi của người kia là một thiệt hại; cơn giận của ta là thiệt hại thứ hai, và thường lớn hơn.
+
+**(ix) Lòng tốt là vô địch, với điều kiện nó chân thật, không cười nhạo, không giả vờ.** Kẻ hung hăng nhất làm được gì ta nếu ta vẫn tử tế với hắn, và khi có dịp thì ôn tồn khuyên bảo, sửa cho hắn đúng vào lúc hắn định làm hại ta? Marcus gợi ý một lời nói mẫu, đại ý: đừng làm vậy, chúng ta sinh ra không phải để làm thế; tôi không bị hại gì đâu, chính anh mới là người bị hại. Rồi chỉ cho hắn, nhẹ nhàng và khái quát, rằng loài ong và các loài sống thành bầy không đối xử với nhau như vậy. Cách nói phải có tình cảm thật, không oán hận, không mỉa mai, không lên lớp như thầy đồ, không nhằm để người đứng xem trầm trồ; phải nói riêng với hắn, kể cả khi có người khác ở đó.
+
+Marcus dặn mình giữ chín điều này như quà tặng của chín Muse, và bắt đầu thật sự làm người trong quãng đời còn lại.
+
+**Bổ sung trước điều thứ mười.** Phải tránh giận người khác, nhưng cũng phải tránh nịnh họ; cả hai đều phản xã hội và đều dẫn tới tổn hại. Khi nổi giận, hãy nhớ rằng nổi nóng không phải là nam tính. Sự ôn hoà và nhã nhặn mới thật là con người và thật là mạnh mẽ: người như vậy có sức lực, gân cốt và can đảm, chứ không phải kẻ hay cáu kỉnh, bất mãn. Càng gần với trạng thái không bị dục vọng chi phối thì càng gần với sức mạnh. Cũng như đau đớn, giận dữ là dấu hiệu của yếu đuối: cả hai đều là bị thương và đầu hàng.
+
+**(x) Món quà thứ mười, từ Apollo.** Mong kẻ xấu không làm điều xấu là điên rồ, là đòi điều không thể. Còn chấp nhận họ làm điều xấu với người khác nhưng lại đòi họ đừng làm với mình thì vừa vô lý vừa là thái độ của một bạo chúa.
 
 ### 11.19 Bốn lối lệch của phần chỉ huy
 
-- Phải luôn canh chừng bốn sự lệch lạc của phần chỉ huy trong ta, và khi phát hiện thì xoá đi bằng cách tự nói với mình:
-  1. Ý nghĩ này không cần thiết.
-  2. Ý nghĩ này làm rạn mối liên kết xã hội.
-  3. Điều ta sắp nói không phải điều ta thật nghĩ (nói điều mình không nghĩ là phi lý).
-  4. Phần thiêng liêng hơn trong ta đang bị phần thấp kém và hữu tử hơn, tức thân xác và các khoái lạc thô thiển của nó, đánh bại.
+Marcus dặn phải luôn canh chừng bốn thói quen trí óc làm phần chỉ huy đi lệch. Khi phát hiện một thói quen, hãy xoá nó đi bằng cách tự nói với mình câu tương ứng:
+
+1. "Ý nghĩ này không cần thiết."
+2. "Ý nghĩ này làm rạn mối liên kết xã hội", tức là một ý nghĩ phản xã hội.
+3. "Điều ta sắp nói không phải điều ta thật nghĩ." Nói điều mình không nghĩ là phi lý.
+4. "Phần thiêng liêng hơn trong ta đang bị phần thấp kém và hữu tử hơn đánh bại", tức là bị thân xác và các khoái lạc thô thiển của nó lấn át.
 
 ### 11.20 Các nguyên tố giữ vị trí, trí tuệ thì không
 
-- Phần khí và lửa trong ta tự nhiên muốn bay lên, nhưng tuân theo trật tự vũ trụ và bị giữ lại ở đây trong hỗn hợp. Phần đất và nước tự nhiên muốn đi xuống, nhưng bị nâng lên và giữ ở vị trí không phải của chúng. Các nguyên tố cũng vâng theo toàn thể, giữ vị trí được giao cho tới khi có hiệu lệnh giải tán.
-- Vậy thì sao chỉ trí tuệ là kẻ phản đối, bất mãn với vị trí của mình? Nó không bị ép gì cả, chỉ được yêu cầu những điều hợp với bản chất nó, mà vẫn không chịu và đi ngược lại.
-- Bị cuốn vào bất công, phóng túng, giận, buồn, sợ đều là quay lưng với tự nhiên. Khi phần chỉ huy bực bội với một sự việc, nó cũng rời bỏ vị trí. Nó được tạo ra để kính trọng thần linh không kém gì để thực hành công lý; hai điều này thuộc về sự sống chung và còn có trước cả công lý.
+Marcus dùng vật lý Khắc kỷ về bốn nguyên tố để so sánh. Phần khí và lửa trong cơ thể ta tự nhiên muốn bay lên, nhưng chúng tuân theo trật tự vũ trụ và chịu ở lại đây trong hỗn hợp. Phần đất và nước tự nhiên muốn rơi xuống, nhưng chúng bị nâng lên và giữ ở một vị trí không phải của chúng. Như vậy, ngay cả các nguyên tố cũng vâng theo toàn thể và giữ vị trí được giao cho tới khi có hiệu lệnh giải tán, tức là khi cơ thể chết.
+
+Vậy thì vì sao chỉ có trí tuệ là kẻ phản đối, bất mãn với vị trí của mình? Nó không bị ép gì cả, chỉ được yêu cầu làm những điều hợp với bản chất của nó, vậy mà vẫn không chịu và đi ngược lại.
+
+Bị cuốn vào bất công, phóng túng, giận dữ, buồn rầu hay sợ hãi đều là quay lưng với tự nhiên. Mỗi khi phần chỉ huy bực bội với một sự việc, nó cũng đang rời bỏ vị trí của mình. Nó được tạo ra để kính trọng thần linh không kém gì để thực hành công lý; hai điều này thuộc về sự sống chung, và theo Marcus còn có trước cả công lý.
 
 ### 11.21 Một mục đích nhất quán
 
-- Ai không có một mục đích sống duy nhất và nhất quán thì cả đời không thể nhất quán.
-- Nhưng nói vậy chưa đủ; phải thêm mục đích ấy là gì. Những gì đám đông coi là tốt không đồng nhất, trừ một số ít thứ ảnh hưởng tới mọi người. Vậy mục đích phải là cái chung, cái của công dân. Ai hướng mọi nỗ lực tới đó thì mọi hành động của họ sẽ đồng nhất, và chính họ cũng nhất quán.
+Ai không có một mục đích sống duy nhất và nhất quán thì cả đời không thể nhất quán. Nhưng nói vậy chưa đủ; phải nói thêm mục đích ấy là gì.
+
+Marcus lập luận bằng cách so sánh. Những gì đám đông coi là tốt thì không đồng nhất với nhau (người coi tiền là tốt, người coi danh là tốt), trừ một số ít thứ ảnh hưởng tới mọi người. Vậy mục đích đúng phải là cái chung, cái thuộc về người công dân. Ai hướng mọi nỗ lực tới mục đích đó thì mọi hành động của họ sẽ đồng nhất, và chính họ cũng sẽ nhất quán.
 
 ### 11.22–11.29 Gương người xưa
 
-- **11.22** Con chuột thành phố và con chuột đồng quê (ngụ ngôn Aesop): sự hoảng hốt, chạy tán loạn của chuột thành phố, đối lập sung túc mà sợ hãi với đạm bạc mà yên ổn.
-- **11.23** Socrates gọi ý kiến của đám đông là ông kẹ (Lamia), thứ để doạ trẻ con.
-- **11.24** Ở các lễ hội, người Sparta xếp ghế cho khách trong bóng râm, còn mình ngồi đâu cũng được: tôn trọng khách, coi nhẹ tiện nghi bản thân.
-- **11.25** Socrates từ chối lời mời của vua Perdiccas (vua Macedonia), vì nhận một ân huệ mà không thể đáp lại thì với ông còn tệ hơn chết (bản dịch: để khỏi "chết hàng ngàn cái chết").
-- **11.26** Lời khuyên trong các văn bản xưa (bản chép tay ghi "người Ephesus", có bản sửa thành "phái Epicurus"): luôn nhớ tới một người xưa đã sống có đức hạnh.
-- **11.27** Phái Pythagoras dặn nhìn trời lúc rạng đông, để nhớ tới các vì sao luôn làm đúng việc của mình, theo cùng một cách, với trật tự, sự tinh khiết và trần trụi của chúng, vì sao không che giấu gì.
-- **11.28** Socrates phải quấn khăn tắm khi Xanthippe lấy áo choàng của ông ra ngoài, và ông đã nói gì với bạn bè đang ngượng ngùng tránh mặt. Marcus chỉ ghi lại gợi ý giai thoại, không ghi câu trả lời.
-- **11.29** Muốn dạy đọc dạy viết, trước hết phải học và tuân theo quy tắc. Điều này càng đúng với "nghề" sống.
+Từ đây trở đi, Quyển 11 chuyển thành một cuốn sổ trích dẫn: Marcus ghi lại giai thoại, ngụ ngôn và lời khuyên của người xưa, nhiều khi chỉ bằng vài chữ để tự nhắc. Bảng dưới đi lần lượt từng mục. Khi nhắc gọn, các mục này thường được gọi theo số sau dấu chấm: 22, 23, 24, 25, 26, 27, 28 và 29.
+
+| Mục | Gương người xưa | Bài học |
+|---|---|---|
+| 11.22 | Con chuột thành phố và con chuột đồng quê (ngụ ngôn Aesop): chuột thành phố có nhiều đồ ăn nhưng hoảng hốt, chạy tán loạn; chuột đồng quê đạm bạc mà yên ổn | Sung túc mà sợ hãi không bằng đạm bạc mà yên |
+| 11.23 | Socrates gọi ý kiến của đám đông là ông kẹ (Lamia), thứ để doạ trẻ con | Đừng sợ dư luận |
+| 11.24 | Ở các lễ hội, người Sparta xếp ghế cho khách trong bóng râm, còn mình ngồi đâu cũng được | Tôn trọng khách, coi nhẹ tiện nghi của mình |
+| 11.25 | Socrates từ chối lời mời của vua Perdiccas xứ Macedonia, vì nhận ân huệ mà không đáp lại được thì với ông còn tệ hơn chết (bản dịch: để khỏi "chết hàng ngàn cái chết") | Giữ sự độc lập |
+| 11.26 | Lời khuyên trong các văn bản xưa: luôn nhớ tới một người xưa đã sống có đức hạnh (bản chép tay ghi "của người Ephesus", có bản sửa thành "phái Epicurus") | Có một tấm gương trước mắt |
+| 11.27 | Phái Pythagoras dặn ngắm trời lúc rạng đông, để nhớ tới các vì sao luôn làm đúng việc của mình, theo cùng một cách, với trật tự, sự tinh khiết và sự trần trụi, vì sao không che giấu gì | Làm đúng phận sự, không che giấu |
+| 11.28 | Socrates phải quấn khăn tắm khi Xanthippe mang áo choàng của ông ra ngoài, và ông đã nói gì đó với bạn bè đang ngượng ngùng tránh mặt | Không ngượng vì bề ngoài |
+| 11.29 | Muốn dạy đọc dạy viết, trước hết phải học và tuân theo quy tắc | Muốn dạy người khác, trước hết phải tự học và tự theo |
+
+Hai mục trong bảng cần đọc thận trọng. Ở mục 11.22, dịch giả nói "chỉ có thể đoán ý", nhưng đây là ngụ ngôn Aesop quen thuộc. Ở mục 11.28, Marcus chỉ ghi gợi ý về giai thoại, không ghi Socrates đã trả lời thế nào; câu trả lời có trong bản dịch là do dịch giả tự dựng. Mục 11.29 có ý rộng hơn chuyện dạy chữ: điều đó càng đúng với "nghề" sống, nơi ai muốn khuyên người khác phải tự sống theo lời khuyên trước.
 
 ### 11.30–11.32 Ba câu thơ
 
-- **11.30** Ngươi là nô lệ, ngươi không có quyền lên tiếng (câu thơ bi kịch, có lẽ để tự nhắc vị trí của mình trước trật tự vũ trụ).
-- **11.31** Trái tim ta cười thầm (Homer, *Odyssey*): niềm vui nội tâm không cần phô ra.
-- **11.32** Họ sẽ dùng lời cay nghiệt chê bai đức hạnh (Hesiod, *Công việc và ngày tháng*): đừng ngạc nhiên khi người tốt bị chế giễu.
+Marcus chép ba câu thơ ở ba mục liền nhau (gọi gọn là 30, 31, 32), mỗi câu là một lời tự nhắc:
+
+- **11.30**, câu thơ từ một vở bi kịch: ngươi là nô lệ, ngươi không có quyền lên tiếng. Chữ *logos* ở đây nghĩa là lời nói, quyền phát ngôn. Có lẽ Marcus dùng nó để tự nhắc vị trí khiêm tốn của mình trước trật tự vũ trụ.
+- **11.31**, câu của Homer trong *Odyssey*: trái tim ta cười thầm. Niềm vui nội tâm không cần phô ra ngoài.
+- **11.32**, câu của Hesiod trong *Công việc và ngày tháng*: họ sẽ dùng lời cay nghiệt chê bai đức hạnh. Đừng ngạc nhiên khi người tốt bị chế giễu.
 
 ### 11.33–11.39 Từ Epictetus
 
-- **11.33** Mong có quả vả vào mùa đông là điên rồ; mong đứa con còn nhỏ mãi khi thời của nó đã qua cũng vậy.
-- **11.34** Epictetus dạy: khi hôn con, hãy thầm nói rằng mai nó có thể chết. Có người bảo đó là lời gở. Không phải: đó chỉ là nói về một sự việc của tự nhiên; nếu không, nói "bông lúa được gặt" cũng là lời gở.
-- **11.35** Chùm nho xanh, chín, khô: mọi thứ đều là biến đổi, không phải thành cái không có, mà thành cái chưa có.
-- **11.36** Không ai cướp được ý chí tự do (prohairesis) của ta.
-- **11.37** Phải tìm ra nghệ thuật chấp thuận (synkatathesis); với các xung lực, phải chú ý để chúng có điều kiện kèm theo, hướng tới lợi ích chung và tương xứng với giá trị thật của đối tượng. Hoàn toàn bỏ ham muốn, và đừng né tránh những gì nằm ngoài quyền mình.
-- **11.38** Cuộc tranh đấu này không phải về chuyện tầm thường, mà về việc ta tỉnh táo hay điên rồ.
-- **11.39** Socrates hỏi: các anh muốn có linh hồn lý trí hay không lý trí? Lý trí. Lành mạnh hay hư hỏng? Lành mạnh. Vậy sao không đi tìm? Vì đã có rồi. Vậy sao còn tranh cãi, bất hoà? Ý ngầm: ai đã có lý trí lành mạnh thì không cần đánh nhau với người khác.
+Cụm bảy mục cuối (gọi gọn là 33 đến 39, gồm 33, 34, 35, 36, 37, 38, 39) gần như là một tuyển tập Epictetus thu nhỏ, cho thấy người thầy này vẫn hiện diện rõ nhất trong đầu Marcus ở giai đoạn cuối đời.
+
+- **11.33.** Mong có quả vả vào mùa đông là điên rồ; mong đứa con mãi còn nhỏ khi thời của nó đã qua cũng điên rồ như vậy. Mọi thứ có mùa của nó.
+- **11.34.** Epictetus dạy: khi hôn con, hãy thầm nhủ rằng ngày mai nó có thể chết. Có người bảo đó là lời gở. Epictetus đáp: không phải, đó chỉ là nói về một việc của tự nhiên; nếu không thì nói "bông lúa được gặt" cũng là lời gở.
+- **11.35.** Chùm nho xanh, rồi chín, rồi khô: mọi thứ đều là biến đổi. Nhưng không phải biến thành cái không có, mà biến thành cái chưa có.
+- **11.36.** Không ai cướp được ý chí tự do (*prohairesis*) của ta.
+- **11.37.** Phải tìm ra nghệ thuật chấp thuận (*synkatathesis*). Với các xung lực hành động, phải chú ý để chúng luôn có điều kiện kèm theo, hướng tới lợi ích chung, và tương xứng với giá trị thật của đối tượng. Còn ham muốn thì phải bỏ hẳn, và đừng né tránh những gì nằm ngoài quyền của mình.
+- **11.38.** Cuộc tranh đấu này không phải về chuyện tầm thường, mà về việc ta tỉnh táo hay điên rồ.
+- **11.39.** Socrates hỏi: các anh muốn có linh hồn lý trí hay không lý trí? Lý trí. Lý trí lành mạnh hay hư hỏng? Lành mạnh. Vậy sao không đi tìm nó? Vì đã có rồi. Vậy sao còn tranh cãi, bất hoà với nhau? Ý ngầm: ai đã có lý trí lành mạnh thì không cần đánh nhau với người khác. Câu hỏi này khép lại quyển bằng đúng chủ đề của 11.18: cơn giận và sự bất hoà là dấu hiệu lý trí chưa lành mạnh.
 
 ## Luận điểm triết học cốt lõi
 

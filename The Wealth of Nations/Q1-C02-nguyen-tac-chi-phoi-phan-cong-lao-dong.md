@@ -131,48 +131,110 @@
 2. **Vì sao người ta hợp tác với nhau trong xã hội lớn?** Vì trao đổi cho phép mỗi người được hàng nghìn người giúp mà không cần họ quý mình: ta có bữa ăn nhờ lợi ích riêng của người bán thịt, người nấu bia, người làm bánh, không nhờ lòng nhân từ của họ.
 3. **Khác biệt tài năng là nguyên nhân hay kết quả của phân công?** Phần lớn là kết quả: nhà triết học và người khuân vác lúc nhỏ rất giống nhau; nghề nghiệp khác nhau làm họ khác nhau. Và trao đổi biến khác biệt ấy thành tài sản chung.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Thiên hướng trao đổi (propensity to truck, barter, and exchange).** Xu hướng tự nhiên của con người muốn đổi vật này lấy vật khác: đổi chác hàng lấy hàng, mua bán bằng tiền, thoả thuận "anh làm cho tôi việc này, tôi trả anh thứ kia". Smith cho rằng chỉ con người có xu hướng này, và có lẽ nó bắt nguồn từ khả năng lý trí và ngôn ngữ. Ví dụ minh hoạ: hai đứa trẻ 7 tuổi đổi cho nhau 3 viên bi lấy 1 tấm thẻ hình mà không ai dạy; chưa ai thấy hai con chó làm việc tương tự với hai khúc xương. Khái niệm này quan trọng vì nó là câu trả lời của chương cho câu hỏi phân công từ đâu ra.
+
+**Phân công lao động như một trật tự tự phát.** Trật tự tự phát (*spontaneous order*) là một sắp xếp có ích trong xã hội mà không ai thiết kế; nó tự hình thành khi nhiều người cùng theo đuổi mục đích riêng của mình. Ví dụ minh hoạ: không ai ra lệnh cho một thị trấn 10.000 dân phải có đúng 5 tiệm bánh, 3 tiệm sửa xe và 2 hiệu thuốc; con số ấy tự hình thành vì mỗi người mở tiệm ở chỗ thấy có khách. Khái niệm này quan trọng vì mệnh đề mở đầu chương là: phân công không do trí khôn con người nhìn trước và cố ý tạo ra, mà là hệ quả chậm, không chủ định của thiên hướng trao đổi.
+
+**Lòng nhân từ và lòng vị kỷ (benevolence và self-love).** Lòng nhân từ là muốn giúp người khác vì quý họ; lòng vị kỷ theo nghĩa của Smith là quan tâm tới lợi ích của bản thân, không đồng nghĩa với tham lam hay lừa đảo. Ví dụ minh hoạ: một người mỗi tháng mua hàng của khoảng 50 người bán khác nhau (gạo, rau, điện, xăng, thuốc...), hầu hết là người lạ; không ai trong số đó bán vì quý người mua, nhưng ai cũng bán đều đặn vì có lợi. Khái niệm này quan trọng vì Smith lập luận rằng trong xã hội lớn, sự hợp tác của hàng nghìn người không thể dựa vào lòng nhân từ, mà phải dựa vào việc cho mỗi bên thấy lợi ích của chính họ.
+
+**Phần sản phẩm dư thừa (surplus produce).** Phần mình làm ra vượt quá mức mình tự dùng, có thể đem đổi lấy thứ khác. Ví dụ minh hoạ: người làm cung tên trong bộ lạc làm 20 bộ cung mỗi mùa nhưng chỉ cần 1 bộ; 19 bộ còn lại là phần dư để đổi lấy thịt và gia súc. Khái niệm này quan trọng vì phân công chỉ có thể xảy ra khi mỗi người làm ra nhiều hơn mình cần một thứ và đổi phần dư ấy lấy những thứ khác.
+
+**Sự chắc chắn của trao đổi (certainty of exchange).** Niềm tin rằng phần dư của mình chắc chắn sẽ đổi được khi cần. Ví dụ minh hoạ: một người chỉ dám bỏ ruộng để làm thợ mộc toàn thời gian nếu chắc rằng tuần nào cũng có người đem lương thực tới đổi lấy đồ gỗ; nếu chỉ chắc được 1 tuần trong 4 tuần, anh ta sẽ giữ lại ruộng. Khái niệm này quan trọng vì Smith coi nó là điều kiện để mỗi người dám chuyên hẳn vào một nghề và trau dồi tài năng cho nghề đó.
+
+**Khác biệt tài năng là kết quả, không phải nguyên nhân.** Ý rằng năng lực khác nhau giữa người làm các nghề khác nhau phần lớn được tạo ra bởi công việc, thói quen và giáo dục, chứ không có sẵn từ lúc sinh. Ví dụ trong chương: nhà triết học và người khuân vác trong 6–8 năm đầu đời giống nhau đến mức cha mẹ không thấy khác biệt. Khái niệm này quan trọng vì nó đảo ngược cách giải thích quen thuộc rằng người ta làm các nghề khác nhau vì sinh ra đã khác nhau.
+
+**Kho chung (common stock).** Hình ảnh Smith dùng để mô tả kết quả của trao đổi: sản phẩm của mọi tài năng khác nhau được gom lại như vào một kho, và mỗi người lấy ra phần mình cần bằng cách đổi phần của mình. Chữ *stock* ở đây không phải là vốn. Ví dụ minh hoạ: trong một làng có thợ rèn, thợ dệt, thợ mộc và nông dân, mỗi người dùng được dao của thợ rèn, vải của thợ dệt, bàn của thợ mộc mà không cần tự biết làm. Khái niệm này quan trọng vì nó giải thích vì sao khác biệt tài năng giữa người với người có ích, còn khác biệt giữa các giống chó thì không.
+
+## Nội dung chi tiết
 
 ### 1. Mệnh đề: phân công không phải sản phẩm của trí khôn
 
-- Phân công, dù đem lại nhiều lợi thế, không xuất phát từ trí khôn con người nhìn thấy trước và cố ý tạo ra sự giàu có chung. Nó là hệ quả tất yếu, rất chậm và dần dần, của một thiên hướng trong bản chất con người vốn không nhắm tới lợi ích rộng lớn ấy: thiên hướng đổi chác, trao đổi vật này lấy vật khác.
-- Smith gác lại câu hỏi liệu thiên hướng này là một nguyên lý nguyên thuỷ không giải thích thêm được, hay (như có vẻ đúng hơn) là hệ quả tất yếu của khả năng lý trí và ngôn ngữ. Câu hỏi đó không thuộc chủ đề.
-- Điểm phương pháp: Smith tách **nguyên nhân** của một thể chế (một thiên hướng tâm lý) khỏi **chức năng** của nó (tạo của cải). Thể chế có ích không có nghĩa là có ai đó thiết kế nó vì sự có ích.
+Chương I đã chứng minh phân công lao động làm năng suất tăng rất mạnh. Chương II hỏi tiếp: vậy phân công từ đâu ra? Một câu trả lời tự nhiên là con người, thấy trước lợi ích của phân công, đã cố ý tổ chức nó. Smith bác bỏ câu trả lời đó.
+
+Theo ông, phân công lao động, dù đem lại nhiều lợi thế, không xuất phát từ trí khôn của một ai đó nhìn thấy trước và cố ý tạo ra sự giàu có chung. Nó là hệ quả tất yếu, rất chậm và dần dần, của một thiên hướng trong bản chất con người, một thiên hướng vốn không hề nhắm tới lợi ích rộng lớn ấy: **thiên hướng đổi chác, trao đổi vật này lấy vật khác** (*propensity to truck, barter, and exchange*).
+
+Smith tự đặt ra một câu hỏi rồi gác lại: thiên hướng này là một nguyên lý nguyên thuỷ trong bản chất con người, không giải thích thêm được, hay là hệ quả tất yếu của khả năng lý trí và ngôn ngữ? Ông nói vế sau có vẻ đúng hơn, nhưng câu hỏi ấy không thuộc chủ đề của sách, nên ông không đi sâu.
+
+Điểm quan trọng ở đây là phương pháp. Smith tách **nguyên nhân** của một thể chế (ở đây là một thiên hướng tâm lý) khỏi **chức năng** của nó (tạo ra của cải). Một thể chế có ích không có nghĩa là có ai đó đã thiết kế nó vì sự có ích ấy. Phân công làm xã hội giàu lên, nhưng không ai lập ra phân công để làm xã hội giàu lên.
 
 ### 2. Thiên hướng trao đổi chỉ có ở con người
 
-- Thiên hướng này chung cho mọi người và không thấy ở loài vật nào, những loài dường như không biết tới loại giao kèo này hay bất kỳ loại nào khác.
-- Hai con chó săn đuổi cùng một con thỏ đôi khi trông như phối hợp: con này đuổi thỏ về phía con kia, hoặc chặn thỏ lại khi con kia đuổi tới. Nhưng đó không phải kết quả của một giao kèo, chỉ là sự trùng hợp ngẫu nhiên của ham muốn trong lúc đó.
-- Chưa ai thấy một con chó trao đổi sòng phẳng và có chủ ý khúc xương của nó lấy khúc xương của con khác. Chưa ai thấy một con vật dùng cử chỉ hay tiếng kêu để nói với con khác: cái này của tao, cái kia của mày, tao đổi cái này lấy cái kia.
-- Khi con vật muốn gì đó từ người hay vật khác, nó chỉ có một cách: xin ơn. Chó con quấn quýt mẹ; chó spaniel làm đủ trò ve vãn để chủ chú ý và cho ăn lúc chủ đang ăn. Con người đôi khi cũng dùng cách đó với đồng loại; khi không có cách nào khác để khiến họ làm theo ý mình, người ta tìm cách lấy lòng bằng mọi sự khúm núm và nịnh bợ.
-- Nhưng không ai có thời gian làm thế với mọi người. Trong xã hội văn minh, con người luôn cần sự hợp tác và giúp đỡ của rất nhiều người, trong khi cả đời người cũng không đủ để giành được tình bạn của vài người.
+Thiên hướng trao đổi chung cho mọi người, và không thấy ở bất kỳ loài vật nào. Các loài vật dường như không biết tới loại giao kèo này, hay bất kỳ loại giao kèo nào khác. Smith đưa ra ba quan sát để chứng minh.
+
+**Hai con chó săn đuổi một con thỏ.** Đôi khi hai con chó săn cùng đuổi một con thỏ trông như đang phối hợp: con này lùa thỏ về phía con kia, hoặc chặn thỏ lại khi con kia đuổi tới. Nhưng đó không phải kết quả của một giao kèo nào. Nó chỉ là sự trùng hợp ngẫu nhiên của ham muốn của hai con trong cùng lúc đó, cả hai cùng muốn bắt con thỏ.
+
+**Khúc xương.** Chưa ai từng thấy một con chó trao đổi một cách sòng phẳng và có chủ ý khúc xương của nó lấy khúc xương của một con chó khác. Chưa ai thấy một con vật dùng cử chỉ hay tiếng kêu để nói với con khác rằng: cái này của tao, cái kia của mày, tao đổi cái này lấy cái kia. (Bản dịch viết thành con chó "chia sẻ" mẩu xương, làm sai ý: Smith nói về trao đổi, không phải về lòng tốt.)
+
+**Cách duy nhất của loài vật: xin ơn.** Khi một con vật muốn có thứ gì từ người hay từ một con vật khác, nó chỉ có một cách là làm cho kẻ kia mủi lòng. Chó con quấn quýt lấy mẹ; chó spaniel làm đủ trò ve vãn để chủ chú ý và cho ăn lúc chủ đang ngồi ăn. Con người đôi khi cũng dùng cách này với đồng loại. Khi không còn cách nào khác để khiến người khác làm theo ý mình, người ta tìm cách lấy lòng họ bằng mọi sự khúm núm, hèn hạ và nịnh bợ.
+
+Nhưng cách xin ơn có một giới hạn về quy mô. Không ai có đủ thời gian để làm thế với tất cả mọi người. Trong xã hội văn minh, con người luôn cần sự hợp tác và giúp đỡ của rất nhiều người, trong khi cả một đời người cũng không đủ để giành được tình bạn của vài người. Vậy phải có một cách khác.
 
 ### 3. Lợi ích riêng thay cho lòng nhân từ
 
-- Ở hầu hết loài vật, mỗi con khi trưởng thành hoàn toàn tự lập, và trong trạng thái tự nhiên không cần ai giúp. Con người thì gần như luôn cần đồng loại giúp, nhưng trông chờ điều đó chỉ từ lòng nhân từ của họ là vô ích.
-- Người ta dễ thành công hơn nếu khiến lòng vị kỷ của người khác nghiêng về phía mình, cho họ thấy rằng làm điều mình yêu cầu là có lợi cho chính họ. Ai đề nghị người khác một cuộc trao đổi cũng đề nghị điều đó. "Anh cho tôi thứ tôi cần, anh sẽ có thứ anh muốn": đó là ý nghĩa của mọi đề nghị như vậy, và theo cách này ta nhận được từ nhau phần lớn những sự giúp đỡ ta cần.
-- Không phải vì lòng nhân từ của người bán thịt, người nấu bia hay người làm bánh mà ta có bữa ăn, mà vì họ quan tâm tới lợi ích riêng. Ta không kêu gọi lòng nhân đạo của họ mà kêu gọi lòng vị kỷ của họ; không bao giờ nói với họ về nhu cầu của ta mà về lợi ích của họ.
-- Không ai, trừ người ăn mày, chọn dựa chủ yếu vào lòng nhân từ của đồng bào. Ngay người ăn mày cũng không dựa hoàn toàn vào đó. Lòng từ thiện của người tốt cung cấp cho anh ta toàn bộ phương tiện sống, nhưng không cung cấp từng thứ đúng lúc anh ta cần. Phần lớn nhu cầu thường ngày của chính người ăn mày cũng được thoả mãn như của mọi người khác: qua thoả thuận, đổi chác và mua bán. Tiền được cho thì dùng mua thức ăn; quần áo cũ được cho thì đổi lấy quần áo cũ khác vừa hơn, hoặc lấy chỗ ở, thức ăn, tiền.
+Smith so sánh con người với loài vật. Ở hầu hết loài vật, mỗi con khi đã trưởng thành thì hoàn toàn tự lập, và trong trạng thái tự nhiên không cần con nào khác giúp. Con người thì ngược lại: gần như lúc nào cũng cần đồng loại giúp đỡ. Nhưng nếu chỉ trông chờ sự giúp đỡ ấy từ lòng nhân từ của họ, thì sẽ vô ích.
+
+Cách dễ thành công hơn là làm cho lòng vị kỷ của người khác nghiêng về phía mình, tức là cho họ thấy rằng làm điều mình yêu cầu là có lợi cho chính họ. Bất kỳ ai đề nghị người khác một cuộc trao đổi đều đang làm đúng việc đó. Ý nghĩa của mọi đề nghị như vậy là: "Anh cho tôi thứ tôi cần, anh sẽ có thứ anh muốn." Và chính bằng cách này mà ta nhận được từ nhau phần lớn những sự giúp đỡ ta cần.
+
+Từ đây là câu nổi tiếng nhất của chương. Ta có bữa ăn không phải nhờ lòng nhân từ của người bán thịt, người nấu bia hay người làm bánh, mà nhờ họ quan tâm tới lợi ích riêng của họ. Khi nói chuyện với họ, ta không kêu gọi lòng nhân đạo của họ mà kêu gọi lòng vị kỷ của họ; ta không bao giờ nói với họ về nhu cầu của ta, mà nói về lợi ích của họ.
+
+**Ví dụ hôm nay** (minh hoạ chung). Một người đặt xe công nghệ lúc 11 giờ đêm không cần biết người tài xế, cũng không cần người tài xế quý mình. Chuyến xe xảy ra vì tài xế muốn có thu nhập, còn hành khách muốn về nhà. Ứng dụng chỉ làm đúng việc Smith mô tả: cho mỗi bên thấy lợi ích của mình trong cuộc trao đổi.
+
+**Ngay cả người ăn mày.** Smith xét trường hợp khó nhất cho lập luận của mình: người sống nhờ lòng tốt của người khác. Không ai, trừ người ăn mày, chọn dựa **chủ yếu** vào lòng nhân từ của đồng bào. Nhưng ngay cả người ăn mày cũng không dựa **hoàn toàn** vào đó. Lòng từ thiện của người tốt cho anh ta toàn bộ phương tiện để sống, nhưng không cho anh ta từng thứ đúng vào lúc anh ta cần. Phần lớn nhu cầu hằng ngày của chính người ăn mày cũng được thoả mãn giống như của mọi người khác, tức là qua thoả thuận, đổi chác và mua bán:
+
+- tiền được cho thì anh ta dùng để mua thức ăn;
+- quần áo cũ được cho thì anh ta đổi lấy quần áo cũ khác vừa người hơn, hoặc đổi lấy chỗ ở, thức ăn hay tiền.
+
+Kết luận: ngay cả người sống nhờ từ thiện cũng phải dùng thị trường. (Bản dịch đổi chủ ngữ của đoạn này từ "người ăn mày" sang "con người" nói chung và bỏ chữ "chủ yếu", nên điểm này bị mờ.)
 
 ### 4. Từ trao đổi đến phân công: bộ lạc săn bắt
 
-- Cũng như ta nhận được phần lớn sự giúp đỡ lẫn nhau qua giao kèo, đổi chác, mua bán, chính thiên hướng đổi chác ban đầu đã sinh ra phân công lao động.
-- Trong một bộ lạc săn bắt hay chăn nuôi, một người làm cung tên khéo và nhanh hơn người khác. Anh ta thường đổi cung tên lấy gia súc hay thịt nai của bạn bè, và cuối cùng nhận ra rằng làm thế được nhiều gia súc và thịt nai hơn là tự đi săn. Vì lợi ích riêng, làm cung tên trở thành nghề chính, và anh thành người làm vũ khí.
-- Một người khác giỏi làm khung lều cho người trong bộ lạc, được trả bằng gia súc và thịt nai, cuối cùng chuyên hẳn vào việc này và thành thợ mộc. Người thứ ba thành thợ rèn hay thợ đồng; người thứ tư thành thợ thuộc da, may đồ da, thứ quần áo chính của người hoang dã.
-- Điều kiện cốt yếu: **sự chắc chắn** đổi được toàn bộ phần sản phẩm dư thừa (sau khi tiêu dùng đủ) lấy những phần sản phẩm của người khác khi cần. Sự chắc chắn ấy khuyến khích mỗi người chuyên một nghề, và trau dồi, hoàn thiện mọi tài năng hay năng khiếu mình có cho nghề đó.
+Smith nối hai ý lại. Cũng như ta nhận được phần lớn sự giúp đỡ lẫn nhau qua giao kèo, đổi chác và mua bán, chính thiên hướng đổi chác ấy ban đầu đã sinh ra phân công lao động. Ông minh hoạ bằng một câu chuyện về một bộ lạc săn bắt hay chăn nuôi.
+
+**Người làm cung tên.** Trong bộ lạc có một người làm cung tên khéo và nhanh hơn những người khác. Anh ta thường đem cung tên đổi lấy gia súc hay thịt nai của bạn bè. Dần dần anh nhận ra rằng làm như vậy được nhiều gia súc và thịt nai hơn là tự mình đi săn. Vì lợi ích riêng, anh chuyển làm cung tên thành nghề chính, và trở thành người làm vũ khí chuyên nghiệp.
+
+**Nhân rộng ra các nghề khác.** Quá trình ấy lặp lại với người khác:
+
+| Người | Giỏi việc gì | Được trả bằng | Trở thành |
+|---|---|---|---|
+| Thứ nhất | Làm cung tên | Gia súc, thịt nai | Người làm vũ khí |
+| Thứ hai | Làm khung lều cho người trong bộ lạc | Gia súc, thịt nai | Thợ mộc |
+| Thứ ba | (Smith chỉ nói "cũng như vậy") | Theo cùng cách | Thợ rèn hay thợ đồng |
+| Thứ tư | Thuộc da, may đồ da (thứ quần áo chính của người hoang dã) | Theo cùng cách | Thợ thuộc da, thợ may đồ da |
+
+**Điều kiện cốt yếu.** Mọi bước trên đều cần một điều: **sự chắc chắn** rằng mình đổi được toàn bộ phần sản phẩm dư thừa, tức phần còn lại sau khi mình và gia đình đã tiêu dùng đủ, lấy những phần sản phẩm dư thừa của người khác khi cần. Chính sự chắc chắn ấy khuyến khích mỗi người dám chuyên hẳn vào một nghề, và dồn sức trau dồi, hoàn thiện mọi tài năng hay năng khiếu mình có cho nghề đó. Nếu không chắc đổi được, người làm cung tên sẽ không dám bỏ việc đi săn, vì bỏ là có thể đói.
 
 ### 5. Khác biệt tài năng là kết quả của phân công
 
-- Khác biệt tài năng tự nhiên giữa người với người, trên thực tế, nhỏ hơn nhiều so với ta tưởng. Và năng khiếu rất khác nhau phân biệt người ở các nghề khác nhau khi đã trưởng thành, trong nhiều trường hợp, là **kết quả** chứ không phải **nguyên nhân** của phân công.
-- Khác biệt giữa những con người khác nhau nhất, như giữa một nhà triết học và một người khuân vác bình thường, dường như phần lớn không do thiên tư mà do thói quen, tập quán và giáo dục. Lúc mới sinh và trong sáu, tám năm đầu, họ có lẽ rất giống nhau, cha mẹ hay bạn chơi không nhận ra khác biệt đáng kể nào. Khoảng tuổi đó hoặc sau đó ít lâu, họ được đưa vào những công việc rất khác nhau. Từ đó khác biệt tài năng mới bắt đầu được nhận ra và lớn dần.
-- Nếu không có thiên hướng trao đổi, mỗi người phải tự làm mọi thứ cần cho đời sống. Mọi người có cùng nhiệm vụ, cùng việc phải làm, nên không có sự khác biệt về công việc, thứ duy nhất có thể sinh ra khác biệt lớn về tài năng.
+Thông thường người ta nghĩ: vì người ta sinh ra đã có tài năng khác nhau, nên họ làm các nghề khác nhau. Smith đảo ngược chiều nhân quả đó.
+
+Theo ông, khác biệt tài năng tự nhiên giữa người với người, trên thực tế, nhỏ hơn nhiều so với ta tưởng. Những năng khiếu rất khác nhau mà ta thấy ở người làm các nghề khác nhau khi họ đã trưởng thành, trong nhiều trường hợp, là **kết quả** chứ không phải **nguyên nhân** của phân công.
+
+Ví dụ của Smith là hai con người khác nhau nhất mà ta có thể nghĩ tới: một nhà triết học và một người khuân vác bình thường ngoài phố. Khác biệt giữa họ dường như phần lớn không do thiên tư, mà do thói quen, tập quán và giáo dục. Lúc mới sinh và trong 6–8 năm đầu đời, họ có lẽ rất giống nhau; cả cha mẹ lẫn bạn chơi cùng đều không nhận ra khác biệt đáng kể nào. Vào khoảng tuổi đó, hoặc sau đó ít lâu, họ được đưa vào những công việc rất khác nhau. Từ lúc ấy, khác biệt về tài năng mới bắt đầu được nhận ra, và lớn dần lên theo thời gian.
+
+Smith hoàn tất lập luận bằng một giả định ngược. Nếu con người không có thiên hướng trao đổi, mỗi người sẽ phải tự làm lấy mọi thứ cần cho đời sống của mình. Khi đó mọi người có cùng nhiệm vụ, cùng việc phải làm, nên không có khác biệt về công việc. Mà khác biệt về công việc là thứ duy nhất có thể sinh ra khác biệt lớn về tài năng. Vậy chính thiên hướng trao đổi đã tạo ra khác biệt tài năng.
+
+**Ví dụ hôm nay** (minh hoạ chung). Hai người bạn học cùng lớp đến năm 18 tuổi, có kết quả học tập gần như nhau. Một người vào ngành y, người kia vào ngành xây dựng. Mười năm sau, người thứ nhất đọc được phim chụp phổi trong vài giây, người thứ hai nhìn bản vẽ là biết chỗ nào kết cấu yếu. Khác biệt ấy là có thật và rất lớn, nhưng phần lớn được tạo ra bởi mười năm làm các việc khác nhau.
 
 ### 6. Trao đổi biến khác biệt thành kho chung
 
-- Chính thiên hướng trao đổi tạo ra khác biệt tài năng đáng kể giữa người làm các nghề khác nhau, cũng chính nó làm cho khác biệt ấy trở nên có ích.
-- Nhiều giống thuộc cùng một loài vật nhận từ tự nhiên những khác biệt thiên tư lớn hơn nhiều so với những gì con người có trước khi có tập quán và giáo dục. Nhà triết học khác người khuân vác không nhiều bằng chó giữ nhà khác chó săn thỏ, chó săn thỏ khác chó spaniel, hay chó spaniel khác chó chăn cừu.
-- Nhưng các giống chó ấy hầu như không có ích gì cho nhau. Sức mạnh của chó giữ nhà không được hỗ trợ bởi tốc độ của chó săn thỏ, sự khôn ngoan của chó spaniel hay sự dễ bảo của chó chăn cừu. Vì thiếu khả năng hay thiên hướng trao đổi, hiệu quả của các tài năng khác nhau ấy không được góp thành một kho chung, và không góp chút gì cho tiện nghi chung của loài. Mỗi con vẫn phải tự lo và tự bảo vệ một mình, không hưởng gì từ những tài năng khác nhau mà tự nhiên đã phân cho đồng loại của nó.
-- Ở con người, ngược lại, những tài năng khác nhau nhất cũng có ích cho nhau. Nhờ thiên hướng trao đổi, sản phẩm của từng tài năng như được góp vào một kho chung, và mỗi người mua được bất kỳ phần nào mình cần từ sản phẩm tài năng của người khác.
+Thiên hướng trao đổi không chỉ tạo ra khác biệt tài năng giữa những người làm các nghề khác nhau. Chính nó cũng làm cho khác biệt ấy trở nên có ích. Smith chứng minh bằng một so sánh với các giống chó.
+
+Nhiều giống thuộc cùng một loài vật nhận từ tự nhiên những khác biệt về thiên tư lớn hơn nhiều so với những gì con người có trước khi được tập quán và giáo dục tác động. Nhà triết học khác người khuân vác không nhiều bằng các giống chó khác nhau:
+
+| Giống chó | Ưu thế tự nhiên |
+|---|---|
+| Chó giữ nhà (*mastiff*) | Mạnh |
+| Chó săn thỏ (*greyhound*) | Nhanh |
+| Chó spaniel | Khôn |
+| Chó chăn cừu | Dễ bảo |
+
+Nhưng các giống chó ấy hầu như không có ích gì cho nhau. Sức mạnh của chó giữ nhà không được bổ sung bởi tốc độ của chó săn thỏ, sự khôn ngoan của chó spaniel hay sự dễ bảo của chó chăn cừu. Vì thiếu khả năng hay thiên hướng trao đổi, hiệu quả của các tài năng khác nhau ấy không được góp thành một kho chung, và không góp chút nào vào tiện nghi chung của cả loài. Mỗi con vẫn phải tự lo và tự bảo vệ một mình, không hưởng được gì từ những tài năng khác nhau mà tự nhiên đã phân cho đồng loại của nó.
+
+Ở con người thì ngược lại: ngay cả những tài năng khác nhau nhất cũng có ích cho nhau. Nhờ thiên hướng trao đổi, sản phẩm của từng tài năng như được góp vào **một kho chung**, và mỗi người mua được bất kỳ phần nào mình cần từ sản phẩm tài năng của người khác.
+
+Như vậy chương khép lại bằng hai vai trò của trao đổi: nó **tạo ra** khác biệt tài năng (qua phân công), và nó **biến** khác biệt ấy thành của chung (qua việc mỗi người đổi được phần của người khác). Đây là lý do một xã hội có trao đổi giàu lên nhờ sự đa dạng của mình, còn loài chó thì không.
 
 ## Luận điểm kinh tế cốt lõi
 

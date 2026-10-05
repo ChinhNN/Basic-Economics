@@ -134,190 +134,279 @@
 2. **Nếu không biết vũ trụ do ai cai quản thì sống thế nào?** Không cần biết. Nếu là định mệnh thì chống lại vô ích; nếu là thần linh thì hãy sống xứng đáng; nếu là hỗn loạn thì mừng vì mình có tâm trí để tự định hướng. Cả ba trường hợp đều dẫn tới cùng một thái độ.
 3. **Vì sao không nên sợ chết?** Vì chết là một sự biến đổi tự nhiên, có ích cho toàn thể; vì một đời dừng đúng lúc không xấu đi vì đã dừng; vì năm năm hay một trăm năm đều tuân cùng một luật; và vì kẻ cho ta rời sân khấu cũng là kẻ đã đưa ta lên.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Ba phần của con người: thân thể, hơi thở, tâm trí (sōma, pneuma, nous).** Khắc kỷ chia con người thành thân thể (thịt xương), hơi thở hay sinh khí (cái giữ cho thân thể sống), và tâm trí (phần suy nghĩ, phán đoán, lựa chọn). Hai phần đầu chỉ được "giao giữ": ta phải chăm sóc chúng nhưng không làm chủ được chúng, vì bệnh tật, tuổi già, tai nạn đến mà không hỏi ý ta. Ví dụ minh hoạ: một người 70 tuổi không giữ được sức khoẻ như năm 30 tuổi dù chăm chỉ tập luyện, nhưng vẫn quyết định được mình sẽ nói thật hay nói dối hôm nay. Khái niệm này quan trọng vì cả Quyển 12 dựa trên nó: chỉ tâm trí là thật sự của ta, nên mọi bài tập trong quyển đều nhằm tách tâm trí khỏi những gì không thuộc quyền nó.
+
+**Phần chỉ huy (hegemonikon).** Cách Khắc kỷ gọi tâm trí ở vai trò điều khiển: nơi ấn tượng được đánh giá và quyết định được đưa ra. Bản dịch thường gọi chung là "tâm trí". Ví dụ minh hoạ: hai người cùng mất một khoản đầu tư 50 triệu đồng; một người mất ngủ cả tháng, người kia rút kinh nghiệm rồi làm việc tiếp. Khác nhau không ở khoản lỗ mà ở cách phần chỉ huy của mỗi người dùng chính nó. Khái niệm này quan trọng vì Marcus kết luận ở 12.33 rằng tất cả nằm ở việc phần chỉ huy dùng chính nó thế nào; mọi thứ khác chỉ là tro và khói.
+
+**Phán đoán (hypolēpsis).** Đánh giá mà ta gán cho một sự việc, ví dụ "việc này thật tồi tệ" hay "người kia cố ý hại ta". Khắc kỷ cho rằng chính phán đoán, không phải sự việc, gây ra rối loạn, và phán đoán thuộc quyền ta nên có thể bỏ đi. Ví dụ minh hoạ: chuyến bay bị hoãn 2 tiếng là sự việc; "hôm nay mọi thứ đều hỏng" là phán đoán. Khái niệm này quan trọng vì Quyển 12 nhắc lại nhiều lần câu "mọi thứ là phán đoán" (12.8, 12.22, 12.25, 12.26), và coi việc gạt bỏ phán đoán là con đường tới bình yên.
+
+**Phân tích sự vật thành nguyên nhân, vật chất, mục đích và thời hạn (aitia, hylē, telos).** Một bài tập Khắc kỷ: trước một thứ đang gây ấn tượng mạnh, hỏi nó do đâu mà có, làm bằng gì, để làm gì, và sẽ tồn tại bao lâu. Ví dụ minh hoạ: một chiếc điện thoại 30 triệu đồng; nguyên nhân ta muốn nó có thể là quảng cáo; vật chất là kim loại, kính, linh kiện; mục đích là liên lạc và làm việc; thời hạn hữu dụng chừng 3–4 năm. Sau bốn câu hỏi, sức hút của nó thu về đúng kích thước. Khái niệm này quan trọng vì nó là công cụ chính của quyển (12.8, 12.10, 12.18, 12.29) để làm những thứ ta khao khát hay sợ hãi thôi có vẻ lớn.
+
+**Quan phòng, định mệnh và hỗn loạn (pronoia, heimarmenē, nguyên tử).** Ba cách hình dung vũ trụ được cai quản: theo một chuỗi nhân quả tất yếu (định mệnh); theo sự sắp đặt của một lý trí thần thánh có thể cầu khẩn (quan phòng); hoặc không theo gì cả, chỉ là các nguyên tử va chạm ngẫu nhiên (quan điểm của phái Epicurus). Ví dụ minh hoạ: trước một trận bão, người tin định mệnh nói "chuyện phải đến", người tin quan phòng cầu nguyện, người tin ngẫu nhiên nói "xui thôi"; nhưng cả ba vẫn có thể cùng làm một việc là chằng chống nhà cửa. Khái niệm này quan trọng vì ở 12.14 Marcus cho thấy thái độ đúng không phụ thuộc vào việc khả năng nào là thật.
+
+**Cái hợp thời (to eukairon).** Cái đến đúng lúc của nó. Marcus nói người chỉ coi cái hợp thời là tốt thì không bận tâm đời dài hay ngắn. Bản dịch dịch chữ này là "sự chín chắn", làm mất nghĩa thời điểm. Ví dụ minh hoạ: một bản nhạc 3 phút kết thúc đúng chỗ không dở hơn một bản 10 phút; bản nhạc dở là bản bị cắt sai chỗ, không phải bản ngắn. Khái niệm này quan trọng vì nó là nền của lập luận về cái chết ở cuối quyển (12.23, 12.35, 12.36).
+
+**Thành phố vũ trụ (kosmopolis).** Ý tưởng Khắc kỷ rằng mọi sinh vật có lý trí là công dân của một thành phố chung là vũ trụ, với một luật chung áp dụng công bằng cho mọi người. Ví dụ minh hoạ: trong một thành phố, luật về tuổi nghỉ hưu áp dụng như nhau cho mọi công dân; không ai coi đó là bất công riêng với mình. Khái niệm này quan trọng vì ở 12.36 Marcus dùng nó để nói rằng bị tự nhiên "đưa ra khỏi thành phố" sau 5 năm hay 100 năm đều theo cùng một luật, nên không có gì đáng oán.
+
+## Nội dung chi tiết
+
+*Quyển 12 không chia chủ đề, chỉ có các mục đánh số từ 12.1 đến 12.36. Các tiêu đề dưới đây đi theo số mục. Có thể đọc theo bốn cụm ý: sống ngay bây giờ bằng tâm trí (12.1–12.3, 12.19, 12.33); dù vũ trụ là gì vẫn có lý do bình thản (12.5, 12.12, 12.14, 12.24, 12.28); bộ công cụ phân tích (12.8, 12.10, 12.18, 12.24, 12.27, 12.32); và cái chết cùng màn kết (12.23, 12.31, 12.34–12.36).*
 
 ### 12.1 Mọi thứ ta tìm đều có ngay bây giờ
 
-- Mọi điều ta mong đạt tới bằng đường vòng, ta có thể có ngay, nếu không tự từ chối chúng. Điều kiện: bỏ lại toàn bộ quá khứ, phó thác tương lai cho sự sắp đặt của thần linh, và hướng hiện tại về sự kính trọng thần linh và công lý.
-- Kính trọng thần linh: để yêu điều được phân cho mình, vì tự nhiên mang nó tới cho ta và ta cho nó.
-- Công lý: để nói sự thật một cách tự do, không vòng vo, và hành động theo luật và theo giá trị của sự việc.
-- Không để bị cản trở bởi sự tệ hại của người khác, bởi phán đoán sai của chính mình, bởi lời người ta nói, hay bởi cảm giác của thân xác bao quanh ta (để phần bị tác động tự lo).
-- Nếu khi sắp rời đời, ta gác lại mọi thứ chỉ giữ tâm trí và phần thần thánh trong mình, và nỗi sợ của ta không phải là sẽ ngừng sống mà là chưa bao giờ bắt đầu sống theo tự nhiên, thì ta sẽ xứng với vũ trụ đã sinh ra mình.
-- Khi ấy ta không còn là người lạ trên quê hương mình, không còn ngạc nhiên trước chuyện hằng ngày như thể chưa từng thấy, không còn bị treo vào cái này cái kia.
+Marcus mở quyển cuối bằng một lời hứa: mọi điều ta đang cố đạt tới bằng đường vòng, ta có thể có ngay lập tức, nếu ta không tự từ chối chúng. Điều kiện gồm ba việc: bỏ lại toàn bộ quá khứ; phó thác tương lai cho sự sắp đặt của thần linh; và hướng hiện tại về hai đức hạnh là sự kính trọng thần linh và công lý.
+
+Ông giải thích từng đức hạnh. **Kính trọng thần linh** ở đây có nghĩa là yêu điều được phân cho mình, vì tự nhiên đã mang nó tới cho ta và mang ta tới cho nó. **Công lý** có nghĩa là nói sự thật một cách tự do, không vòng vo, và hành động theo luật, đối xử với mỗi người và mỗi việc đúng theo giá trị của họ.
+
+Có bốn thứ không được để cản trở ta: sự tệ hại của người khác; phán đoán sai của chính ta; lời người ta bàn tán; và cảm giác của thân xác bao quanh ta. Với điều cuối, Marcus nói hãy để phần bị tác động tự lo lấy.
+
+Rồi ông nói tới cái chết. Nếu khi sắp rời đời, ta gác lại mọi thứ, chỉ giữ tâm trí và phần thần thánh trong mình, và nỗi sợ của ta không phải là sẽ ngừng sống mà là **chưa bao giờ bắt đầu sống** theo tự nhiên, thì ta sẽ xứng đáng với vũ trụ đã sinh ra mình. Đây là một sự đảo ngược: điều đáng sợ không phải là đời kết thúc mà là đời chưa từng được sống cho đúng.
+
+Kết quả của thái độ ấy: ta không còn là người lạ trên quê hương mình (tức vũ trụ), không còn ngạc nhiên trước những chuyện hằng ngày như thể chưa từng thấy, và không còn bị treo lơ lửng vào cái này cái kia.
 
 ### 12.2 Thần linh nhìn tâm trí trần trụi
 
-- Thần linh nhìn mọi tâm trí trần trụi, không có lớp vỏ thân xác, vỏ trấu và cặn bẩn. Bằng trí tuệ của mình, thần chỉ chạm vào cái đã từ mình chảy vào các tâm trí ấy.
-- Nếu ta tập làm như vậy, ta sẽ thoát được nhiều phiền não: ai không quan tâm tới lớp thịt bao quanh mình thì càng không bận lòng vì quần áo, nhà cửa, danh tiếng, những lớp sơn phết và đồ che đậy bên ngoài.
+Thần linh nhìn mọi tâm trí ở dạng trần trụi, không có lớp vỏ thân xác, lớp vỏ trấu và cặn bẩn bao quanh. Bằng trí tuệ của mình, thần chỉ chạm vào cái phần đã từ thần chảy vào các tâm trí ấy, tức là phần lý trí.
+
+Nếu ta tập nhìn theo cách đó, nhìn thẳng vào tâm trí mà bỏ qua lớp vỏ, ta sẽ thoát được nhiều phiền não. Lập luận đi từ lớn tới nhỏ: ai đã không bận tâm tới lớp thịt bao quanh chính mình thì càng không bận lòng vì quần áo, nhà cửa, danh tiếng, tức là những lớp sơn phết và đồ che đậy bên ngoài.
 
 ### 12.3 Ba phần của con người
 
-- Ta gồm ba phần: thân thể, hơi thở (pneuma, sinh khí), tâm trí. Hai phần đầu là của ta chỉ theo nghĩa ta phải chăm sóc chúng; chỉ phần thứ ba thật sự thuộc về ta.
-- Nếu tách được tâm trí khỏi: những gì người khác làm hay nói, những gì chính ta đã làm hay nói, những gì ta sợ sẽ xảy ra, những gì gắn vào thân xác và hơi thở mà ngoài ý muốn, và những gì cơn lốc bên ngoài cuốn tới, để sức mạnh của tâm trí, đã thoát khỏi định mệnh, sống thanh sạch và tự do: làm điều đúng, chấp nhận điều xảy ra, nói sự thật.
-- Nếu tách khỏi phần chỉ huy những gì bám vào nó từ cảm xúc, những gì của tương lai và của quá khứ, và tự biến mình thành khối cầu của Empedocles, tròn đầy và vui trong sự yên tĩnh của mình; nếu chỉ tập sống cái đang sống, tức hiện tại, thì phần đời còn lại có thể sống tới lúc chết trong thanh thản, tử tế và hoà thuận với vị thần hộ mệnh (daimon) trong mình.
+Đây là mục nền tảng của quyển. Ta gồm ba phần:
+
+| Phần | Quan hệ với ta |
+|---|---|
+| Thân thể | Chỉ được giao giữ: ta phải chăm sóc, nhưng nó không thật sự của ta |
+| Hơi thở (*pneuma*, sinh khí) | Chỉ được giao giữ, như thân thể |
+| Tâm trí | Thật sự thuộc về ta |
+
+Từ đó Marcus đưa ra một chương trình tách tâm trí khỏi năm thứ: những gì người khác làm hay nói; những gì chính ta đã làm hay đã nói; những gì ta sợ sẽ xảy ra trong tương lai; những gì gắn vào thân xác và hơi thở mà ngoài ý muốn ta (như đau, mệt); và những biến động mà cơn lốc bên ngoài cuốn tới. Nếu tách được như vậy, sức mạnh của tâm trí, đã thoát khỏi định mệnh, sẽ sống thanh sạch và tự do, chỉ làm ba việc: làm điều đúng, chấp nhận điều xảy ra, nói sự thật.
+
+Marcus nói thêm: nếu tách khỏi phần chỉ huy những gì bám vào nó từ cảm xúc, những gì thuộc về tương lai và quá khứ, ta sẽ tự biến mình thành khối cầu của Empedocles, "khối cầu hân hoan trong sự tĩnh lặng", tròn đầy và vui trong sự yên tĩnh của mình. Nếu chỉ tập sống cái đang sống, tức là hiện tại, thì phần đời còn lại có thể sống tới lúc chết trong thanh thản, tử tế và hoà thuận với vị thần hộ mệnh (*daimon*) ở trong mình.
 
 ### 12.4 Yêu mình hơn người, nhưng sợ ý kiến người hơn ý kiến mình
 
-- Marcus luôn ngạc nhiên: ai cũng yêu mình hơn yêu người khác, vậy mà lại coi trọng ý kiến của người khác về mình hơn ý kiến của chính mình.
-- Phép thử: nếu một vị thần hay một người thầy thông thái bắt ta phải nói ra ngay mọi ý nghĩ trong đầu, ta không chịu nổi một ngày. Tức là ta sợ người xung quanh nghĩ gì về mình hơn là chính ta nghĩ gì về mình.
+Marcus luôn lấy làm lạ về một mâu thuẫn: ai cũng yêu bản thân hơn yêu người khác, vậy mà lại coi trọng ý kiến của người khác về mình hơn ý kiến của chính mình về mình.
+
+Ông đưa ra một phép thử. Giả sử một vị thần hay một người thầy thông thái bắt ta phải nói ra ngay mọi ý nghĩ vừa nảy trong đầu, không giữ lại gì. Ta sẽ không chịu nổi dù chỉ một ngày. Điều đó cho thấy ta sợ người xung quanh nghĩ gì về mình hơn là chính ta nghĩ gì về mình.
 
 ### 12.5 Nếu người tốt chết là hết
 
-- Câu hỏi: thần linh đã sắp xếp mọi thứ khéo léo và nhân từ, sao lại bỏ qua một điều: những người thật sự tốt, những người gần gũi thần linh nhất qua sự sùng kính và việc làm, khi chết lại tắt hẳn, không bao giờ tồn tại lại?
-- Trả lời: nếu đúng là như vậy, thì hãy chắc rằng nếu cần phải khác, thần linh đã làm khác. Nếu điều khác ấy đúng thì nó cũng làm được; nếu nó hợp tự nhiên thì tự nhiên đã mang nó tới. Vậy từ chỗ nó không như thế, hãy tin rằng nó không nên như thế.
-- Hơn nữa, chính việc ta chất vấn như vậy là ta đang tranh luận về công lý với thần linh. Ta sẽ không làm thế nếu họ không công bằng và tốt lành tuyệt đối. Mà nếu họ như thế, họ không thể bỏ qua điều gì bất công và phi lý trong việc sắp đặt vũ trụ.
-- Đây là một trong những chỗ Marcus đối diện thẳng với khả năng không có bất tử, và chọn tin vào trật tự hơn là đòi một phần thưởng sau cái chết.
+Marcus đặt ra một câu hỏi khó. Thần linh đã sắp xếp mọi thứ khéo léo và nhân từ, vậy sao lại bỏ qua một điều: những người thật sự tốt, những người gần gũi thần linh nhất qua lòng sùng kính và việc làm của họ, khi chết lại tắt hẳn và không bao giờ tồn tại lại?
+
+Câu trả lời của ông có hai bước. Bước một: nếu quả là như vậy, thì hãy tin chắc rằng nó phải như vậy mới đúng. Nếu cần phải khác, thần linh đã làm khác; nếu điều khác ấy là đúng, nó cũng sẽ làm được; nếu nó hợp với tự nhiên, tự nhiên đã mang nó tới. Vậy từ chỗ nó không như thế, ta suy ra nó không nên như thế. Thần linh vừa công bằng vừa khôn ngoan.
+
+Bước hai: chính việc ta chất vấn như vậy là ta đang tranh luận về công lý với thần linh. Ta sẽ không làm thế nếu họ không công bằng và tốt lành tuyệt đối, vì không ai đi đòi công lý ở kẻ bất công. Mà nếu họ công bằng và tốt lành như thế, họ không thể bỏ sót điều gì bất công và phi lý khi sắp đặt vũ trụ.
+
+Đây là một trong những chỗ Marcus đối diện thẳng với khả năng không có sự bất tử, và chọn tin vào trật tự của vũ trụ thay vì đòi một phần thưởng sau cái chết.
 
 ### 12.6 Tập cả những việc tưởng không làm nổi
 
-- Tập luyện cả những việc ta tưởng không làm được. Tay trái vụng về trong mọi việc vì không được tập, nhưng cầm cương ngựa lại chắc hơn tay phải, vì đã quen làm việc đó.
+Hãy tập cả những việc ta tưởng mình không làm được. Marcus lấy ví dụ bàn tay trái: nó vụng về trong hầu hết mọi việc vì không được tập, nhưng khi cầm cương ngựa thì nó lại chắc hơn tay phải, vì đã quen làm việc đó. Năng lực đến từ luyện tập, không phải từ thiên bẩm.
 
 ### 12.7 Bốn điều để chiêm nghiệm
 
-- Trạng thái của thân thể và linh hồn khi cái chết tới; sự ngắn ngủi của đời người; khoảng thời gian vô tận phía trước và phía sau; sự mong manh của mọi vật chất.
+Marcus ghi bốn đề tài để suy ngẫm:
+
+1. Trạng thái của thân thể và linh hồn khi cái chết tới.
+2. Sự ngắn ngủi của đời người.
+3. Khoảng thời gian vô tận ở phía trước và phía sau ta.
+4. Sự mong manh của mọi vật chất.
 
 ### 12.8 Truy tới nguyên nhân
 
-- Nhìn các nguyên nhân bị bóc trần khỏi lớp vỏ; nhìn mục đích của các hành động.
-- Đau là gì, khoái lạc là gì, chết là gì, danh tiếng là gì.
-- Ai là thủ phạm gây ra sự bất an của ta: không ai bị người khác cản trở; mọi thứ là do phán đoán.
+Bài tập ở mục này có ba phần. Thứ nhất, nhìn các nguyên nhân khi chúng đã bị bóc trần khỏi lớp vỏ, và nhìn mục đích của các hành động. Thứ hai, tự hỏi đau là gì, khoái lạc là gì, cái chết là gì, danh tiếng là gì. Thứ ba, hỏi ai là thủ phạm gây ra sự bất an của ta. Câu trả lời: không ai bị người khác cản trở thật sự; mọi thứ là do phán đoán.
 
 ### 12.9 Người đấu quyền, không phải đấu kiếm
 
-- Khi áp dụng nguyên tắc, hãy như võ sĩ pankration chứ không như đấu sĩ cầm kiếm. Vũ khí của đấu sĩ kiếm phải được cầm lên rồi đặt xuống; còn vũ khí của võ sĩ là chính bàn tay, chỉ cần nắm chặt lại.
-- Hàm ý: nguyên tắc triết học phải thành một phần của cơ thể, có sẵn bất cứ lúc nào, không phải thứ phải tìm, cầm lên, đặt xuống.
+Khi áp dụng các nguyên tắc sống, hãy làm như võ sĩ pankration (môn võ tổng hợp của Hy Lạp, bản dịch gọi là "người đấu quyền"), chứ đừng như đấu sĩ cầm kiếm. Vũ khí của đấu sĩ phải được cầm lên rồi đặt xuống, và có thể bị rơi. Còn vũ khí của võ sĩ là chính bàn tay; anh ta chỉ cần nắm chặt lại.
+
+Hàm ý: nguyên tắc triết học phải trở thành một phần của cơ thể, có sẵn bất cứ lúc nào cần, không phải một thứ dụng cụ phải đi tìm, cầm lên rồi đặt xuống.
 
 ### 12.10 Nhìn sự vật như chúng là
 
-- Nhìn sự vật thật sự là gì, chia chúng thành vật chất, nguyên nhân và mục đích.
+Một lời tự nhắc ngắn: hãy nhìn sự vật thật sự là gì, bằng cách chia chúng thành ba thành phần là vật chất, nguyên nhân và mục đích.
 
 ### 12.11 và 12.11a Quyền năng của con người
 
-- Con người có quyền năng lớn: chỉ làm những gì thần linh tán thành, và chấp nhận mọi điều thần linh phân cho mình.
-- 12.11a (một dòng rời): nó được làm bằng gì (tiếp tục bài tập phân tích).
+Con người có một quyền năng lớn: chỉ làm những gì thần linh sẽ tán thành, và chấp nhận mọi điều thần linh phân cho mình. Cả hai việc đều nằm trong tay ta.
+
+Ngay sau đó là một dòng rời, được đánh số 12.11a theo cách chia của Hays: "Nó được làm bằng gì". Đây là phần tiếp của bài tập phân tích sự vật ở các mục trên.
 
 ### 12.12 Không ai đáng trách
 
-- Không nên trách thần linh, vì họ không làm sai, cố ý hay vô ý. Cũng không nên trách con người, vì họ không cố ý làm sai. Vậy không nên trách ai cả.
+Một lập luận ba bước. Không nên trách thần linh, vì họ không làm sai, dù cố ý hay vô ý. Cũng không nên trách con người, vì họ không cố ý làm sai; nếu họ sai thì là vì không biết. Vậy không nên trách ai cả.
 
 ### 12.13 Ngạc nhiên vì đời là ngớ ngẩn
 
-- Thật lố bịch và xa lạ khi ngạc nhiên trước bất cứ điều gì xảy ra trong đời, như du khách ngạc nhiên trước phong tục xứ lạ.
+Thật lố bịch và xa lạ khi ngạc nhiên trước bất cứ điều gì xảy ra trong đời, giống như một du khách ngạc nhiên trước phong tục của xứ lạ. Người đã hiểu vũ trụ là quê hương mình thì không ngạc nhiên trước những chuyện vẫn xảy ra ở đó.
 
 ### 12.14 Định mệnh, quan phòng hay hỗn loạn
 
-- Hoặc là định mệnh tất yếu và một trật tự không thể vi phạm, hoặc một sự quan phòng có thể được cầu khẩn, hoặc một mớ hỗn loạn ngẫu nhiên không ai điều khiển.
-- Nếu là tất yếu không thể cưỡng, sao còn chống lại? Nếu là quan phòng có thể cầu khẩn, hãy làm cho mình xứng với sự giúp đỡ của thần linh. Nếu là hỗn loạn không ai cai quản, hãy mừng vì giữa cơn bão ấy ta có một trí tuệ dẫn đường bên trong.
-- Nếu cơn bão cuốn ta đi, cứ để nó cuốn thân xác, hơi thở và những thứ khác; nó không cuốn được tâm trí.
+Marcus nêu ba khả năng về cách vũ trụ vận hành và chỉ ra rằng cả ba đều dẫn tới cùng một thái độ:
+
+| Khả năng | Mô tả | Thái độ đúng |
+|---|---|---|
+| Định mệnh tất yếu | Một trật tự không thể vi phạm | Đã không thể cưỡng thì chống lại làm gì? |
+| Quan phòng có thể cầu khẩn | Một sự sắp đặt của thần linh có thể được lay động | Hãy sống sao cho xứng với sự giúp đỡ của thần linh |
+| Hỗn loạn không ai cai quản | Một mớ ngẫu nhiên không ai điều khiển | Hãy mừng vì giữa cơn bão ấy ta có một trí tuệ dẫn đường ở bên trong |
+
+Nếu cơn bão cuốn ta đi, cứ để nó cuốn thân xác, hơi thở và những thứ khác; nó không cuốn được tâm trí. Đây lại là sự phân biệt ba phần của con người ở 12.3: bão chỉ chạm được vào hai phần được giao giữ.
+
+Một chú ý về bản dịch: vế thứ hai ("một sự quan phòng có thể được cầu khẩn") bị dịch thành mệnh lệnh của một Thượng đế mà ta luôn tôn thờ, làm mất ý "có thể cầu khẩn".
 
 ### 12.15 Ngọn đèn
 
-- Ngọn đèn vẫn sáng và không mất ánh cho tới khi tắt hẳn; vậy mà sự thật, công lý và sự tự chủ trong ta lại tắt trước khi ta tắt sao? Lời tự trách để giữ đức hạnh tới cuối đời.
+Ngọn đèn vẫn sáng và không mất ánh sáng cho tới lúc tắt hẳn. Vậy mà sự thật, công lý và sự tự chủ trong ta lại tắt trước khi chính ta tắt sao? Đây là một lời tự trách, nhắc mình giữ đức hạnh tới tận cuối đời, không buông lơi khi tuổi già hay mệt mỏi đến.
 
 ### 12.16 Khi có người dường như làm sai
 
-- Trước hết: làm sao ta biết chắc đó là việc sai?
-- Dù họ có sai, hãy nhớ: họ đã tự kết án mình (như tự cào mặt mình); mong kẻ xấu không làm sai cũng như mong cây vả không có nhựa trong quả, trẻ sơ sinh không khóc, ngựa không hí, tức là mong điều tất yếu đừng xảy ra. Với tính cách như thế, họ làm được gì khác?
-- Nếu ta vẫn để mình bực, thì việc cần chữa là cơn giận của chính ta.
+Marcus đưa ra một trình tự xử lý:
+
+- **Trước hết, hỏi:** làm sao ta biết chắc đó là việc sai?
+- **Nếu họ có sai thật,** hãy nhớ rằng họ đã tự kết án mình, như người tự cào lên mặt mình. Mong kẻ xấu không làm điều sai cũng giống như mong cây vả không có nhựa trong quả, trẻ sơ sinh không khóc, ngựa không hí, tức là mong điều tất yếu đừng xảy ra. Với tính cách như thế, họ còn làm được gì khác?
+- **Nếu ta vẫn để mình bực bội,** thì thứ cần chữa là cơn giận của chính ta, không phải lỗi của họ.
 
 ### 12.17 Đúng thì làm, thật thì nói
 
-- Nếu không đúng, đừng làm. Nếu không thật, đừng nói. (Phần sau bị cắt trong bản PDF; đại ý là hãy giữ xung lực trong tay mình.)
+Hai quy tắc ngắn: nếu điều gì không đúng, đừng làm; nếu điều gì không thật, đừng nói. Câu thứ ba bị cắt trong bản PDF; đại ý là hãy giữ các xung lực của mình trong quyền kiểm soát của mình. (Bản dịch viết câu thứ hai thành "không đúng đắn", lặp lại vế đầu; đúng ý là "không thật".)
 
 ### 12.18 Bốn câu hỏi phân tích
 
-- Luôn nhìn toàn bộ của sự vật đang gây ấn tượng cho ta, và mở nó ra bằng cách phân tích: nguyên nhân, vật chất, mục đích, và khoảng thời gian nó sẽ tồn tại.
+Luôn nhìn toàn bộ sự vật đang gây ấn tượng cho ta, rồi mở nó ra bằng cách phân tích theo bốn câu hỏi:
+
+1. Nguyên nhân: nó do đâu mà có?
+2. Vật chất: nó làm bằng gì?
+3. Mục đích: nó để làm gì?
+4. Thời hạn: nó sẽ tồn tại bao lâu?
 
 ### 12.19 Con rối
 
-- Đã đến lúc nhận ra rằng trong ta có một thứ mạnh hơn và thần thánh hơn những thứ giật dây ta như con rối.
-- Tự hỏi: tâm trí ta lúc này đang có gì? Sợ hãi? Ghen tị? Ham muốn? Hay điều gì tương tự?
+Đã đến lúc nhận ra rằng trong ta có một thứ mạnh hơn và thần thánh hơn những sợi dây đang giật ta như giật một con rối. Marcus tự kiểm tra: tâm trí ta lúc này đang chứa gì? Sợ hãi? Ghen tị? Ham muốn? Hay một điều gì tương tự? Mỗi thứ ấy là một sợi dây; nhận ra nó là bước đầu để không bị nó giật.
 
 ### 12.20 Hai điều không làm
 
-- Thứ nhất, không làm gì một cách bừa bãi, không mục đích. Thứ hai, không làm gì vì một mục đích nào khác ngoài lợi ích chung.
+Thứ nhất, không làm gì một cách bừa bãi, không có mục đích. Thứ hai, không làm gì vì một mục đích nào khác ngoài lợi ích chung.
 
 ### 12.21 Chẳng bao lâu nữa
 
-- Chẳng bao lâu ta sẽ không là ai và không ở đâu; những gì ta thấy và những người đang sống cũng vậy. Mọi thứ sinh ra để đổi thay, biến đổi và tan rã, để những thứ khác nối tiếp ra đời.
+Chẳng bao lâu nữa ta sẽ không là ai và không ở đâu cả; những gì ta đang thấy và những người đang sống cũng vậy. Mọi thứ sinh ra là để đổi thay, biến đổi và tan rã, để những thứ khác nối tiếp ra đời.
 
 ### 12.22 Người lái thuyền vòng qua mũi đất
 
-- Mọi thứ là phán đoán, và phán đoán thuộc quyền ta. Hãy gạt bỏ phán đoán khi muốn; khi ấy, như thuyền vừa vòng qua mũi đất, ta sẽ thấy biển lặng, mọi thứ yên và một vịnh không sóng.
+Mọi thứ là phán đoán, và phán đoán thuộc quyền ta. Vậy hãy gạt bỏ phán đoán khi ta muốn. Khi ấy, giống như con thuyền vừa vòng qua mũi đất, ta sẽ thấy biển lặng, mọi thứ yên ả, và một vịnh không có sóng.
 
 ### 12.23 Một hành động, một đời, dừng đúng lúc
 
-- Một hành động dừng đúng lúc của nó thì không bị hại gì vì đã dừng; người làm hành động ấy cũng không bị hại vì việc dừng.
-- Đời người là toàn bộ chuỗi hành động ấy; nếu nó dừng đúng lúc thì cũng không bị hại vì dừng, và người kết thúc chuỗi ấy đúng lúc cũng không chịu gì xấu.
-- Lúc dừng và giới hạn do tự nhiên định: đôi khi là bản tính riêng (như khi chết già), nhưng chung nhất là tự nhiên toàn thể, nhờ các phần của nó biến đổi mà vũ trụ luôn tươi mới và đúng thời.
-- Cái gì có ích cho toàn thể thì luôn đẹp và hợp thời. Vậy cái chết với mỗi người không xấu: không đáng xấu hổ (vì không do ta chọn và không trái lợi ích chung), và còn tốt, vì nó hợp thời, có ích cho toàn thể và đi cùng nhịp của toàn thể.
-- Người đi theo thần linh như vậy, cùng hướng và cùng ý, được đưa đi bởi thần linh.
+Đây là lập luận chính của Marcus về cái chết, đi theo từng bước:
+
+1. Một hành động, khi dừng đúng lúc của nó, không bị hại gì vì đã dừng; người làm hành động ấy cũng không bị hại vì việc dừng.
+2. Đời người chính là toàn bộ chuỗi các hành động ấy. Nếu chuỗi ấy dừng đúng lúc thì nó cũng không bị hại gì vì dừng, và người kết thúc chuỗi ấy đúng lúc cũng không chịu điều gì xấu.
+3. Lúc dừng và giới hạn do tự nhiên định. Đôi khi đó là bản tính riêng của mỗi người (như khi chết vì già), nhưng chung nhất là tự nhiên toàn thể, nhờ các phần của nó biến đổi mà vũ trụ luôn tươi mới và đúng thời.
+4. Cái gì có ích cho toàn thể thì luôn đẹp và hợp thời.
+5. Vậy cái chết không xấu với mỗi người. Nó không đáng xấu hổ, vì không do ta chọn và không trái với lợi ích chung. Hơn nữa nó còn tốt, vì nó hợp thời, có ích cho toàn thể và đi cùng nhịp với toàn thể.
+
+Người đi theo thần linh như vậy, cùng hướng và cùng ý với thần linh, là người được thần linh đưa đi.
 
 ### 12.24 Ba điều luôn sẵn trong đầu
 
-- (i) Về hành động: đừng làm bừa bãi hay khác với cách công lý tự nó sẽ làm. Về những gì bên ngoài: chúng hoặc do ngẫu nhiên hoặc do quan phòng; không nên trách ngẫu nhiên, cũng không nên kiện quan phòng.
-- (ii) Mỗi sinh vật là gì từ khi là hạt giống tới khi có linh hồn, và từ khi có linh hồn tới khi trả lại nó; nó được ghép từ những gì và sẽ tan thành những gì.
-- (iii) Nếu bỗng được nâng lên cao và nhìn xuống mọi việc của con người, thấy sự đa dạng của nó đồng thời thấy vùng rộng mênh mông của không trung và bầu trời xung quanh, ta sẽ thấy chúng nhỏ bé biết bao; và dù được nâng lên bao nhiêu lần, ta vẫn thấy cùng những thứ ấy, cùng một dạng, ngắn ngủi như nhau. Thế mà người ta lại kiêu hãnh vì chúng.
+Marcus ghi ba điều cần luôn có sẵn:
+
+- **(i) Về hành động và về những gì bên ngoài.** Đừng làm gì bừa bãi, hay khác với cách mà chính công lý sẽ làm. Còn những gì xảy ra bên ngoài thì hoặc do ngẫu nhiên, hoặc do quan phòng; không nên trách ngẫu nhiên, cũng không nên kiện quan phòng. Đây là phiên bản rút gọn của lập luận ba khả năng ở 12.14.
+- **(ii) Về vòng đời của mỗi sinh vật.** Mỗi sinh vật là gì từ khi còn là hạt giống tới khi có linh hồn, và từ khi có linh hồn tới khi trả nó lại; nó được ghép từ những gì và sẽ tan thành những gì.
+- **(iii) Nhìn từ trên cao.** Nếu bỗng được nâng vụt lên cao và nhìn xuống mọi việc của con người, thấy sự đa dạng của chúng, đồng thời thấy vùng không trung và bầu trời mênh mông bao quanh, ta sẽ thấy chúng nhỏ bé biết bao. Và dù được nâng lên bao nhiêu lần, ta vẫn thấy cùng những thứ ấy, cùng một dạng, ngắn ngủi như nhau. Thế mà người ta lại kiêu hãnh vì chúng.
 
 ### 12.25 Vứt bỏ phán đoán
 
-- Vứt bỏ phán đoán thì được cứu. Ai ngăn được ta vứt nó đi?
+Vứt bỏ phán đoán thì được cứu. Ai ngăn được ta vứt nó đi? Không ai, vì phán đoán thuộc quyền ta.
 
 ### 12.26 Khi bực bội, ta đã quên
 
-- Khi bực vì điều gì, ta đã quên rằng: mọi việc xảy ra theo tự nhiên toàn thể; lỗi của người khác không phải việc của ta; mọi việc xảy ra đã từng xảy ra, sẽ còn xảy ra, và đang xảy ra ở nơi khác; mối liên hệ giữa người với người không phải là máu mủ hay hạt giống mà là cùng chia sẻ tâm trí.
-- Và ta đã quên: tâm trí mỗi người là thần thánh và từ thần thánh mà ra; không gì thật sự thuộc riêng ai, cả con cái, thân thể, lẫn linh hồn đều đến từ cùng nguồn; mọi thứ là phán đoán; và mỗi người chỉ sống hiện tại, chỉ mất hiện tại.
+Mỗi khi bực vì điều gì, ấy là ta đã quên một số điều. Marcus liệt kê chúng:
+
+- Mọi việc xảy ra đều theo tự nhiên toàn thể.
+- Lỗi của người khác không phải việc của ta.
+- Mọi việc đang xảy ra đã từng xảy ra, sẽ còn xảy ra, và ngay lúc này đang xảy ra ở nơi khác.
+- Mối liên hệ giữa người với người không phải là máu mủ hay hạt giống, mà là cùng chia sẻ một tâm trí.
+- Tâm trí mỗi người là thần thánh và từ thần thánh mà ra (bản dịch dùng chữ "Chúa", nhưng ý Marcus là lý trí thần thánh thấm khắp vũ trụ).
+- Không gì thật sự thuộc riêng ai: con cái, thân thể, cả linh hồn đều đến từ cùng một nguồn.
+- Mọi thứ là phán đoán.
+- Mỗi người chỉ sống trong hiện tại, và cũng chỉ mất hiện tại.
 
 ### 12.27 Danh sách những người đã qua
 
-- Thường xuyên nhớ tới những người từng giận dữ tột độ, từng lừng danh nhất, từng gặp tai hoạ lớn nhất, từng bị ghét nhất, hay nổi bật nhất ở điều gì đó. Tự hỏi: giờ họ ở đâu? Khói, tro, một giai thoại, hay chẳng còn cả giai thoại.
-- Những ví dụ: Fabius Catullinus ở nhà quê, Lusius Lupus trong vườn, Stertinius ở Baiae, hoàng đế Tiberius ở đảo Capri, Velius Rufus; nói chung là mọi kiểu say mê một điều gì đến mức kiêu ngạo. Phần lớn các tên gắn với một nơi chốn của sự xa hoa hay ẩn dật (đảo Capri, khu nghỉ dưỡng Baiae), và tất cả đều đã mất.
-- Những gì người ta khát khao thật tầm thường. Triết học hơn nhiều khi ta, trong những gì được phân cho mình, sống công bằng, tự chủ, vâng theo thần linh một cách giản dị. Không gì khó chịu hơn sự kiêu ngạo đội lốt khiêm tốn.
+Marcus dặn mình thường xuyên nhớ tới những người từng giận dữ tột độ, từng lừng danh nhất, từng gặp tai hoạ lớn nhất, từng bị ghét nhất, hay nổi bật nhất ở một điều gì đó. Rồi tự hỏi: giờ họ ở đâu? Chỉ còn là khói, là tro, là một giai thoại, hay chẳng còn cả giai thoại.
+
+Ông nêu tên: Fabius Catullinus ở nhà quê, Lusius Lupus trong vườn của mình, Stertinius ở Baiae, hoàng đế Tiberius ở đảo Capri, Velius Rufus; nói chung là mọi kiểu say mê một điều gì đến mức kiêu ngạo. Phần lớn các tên gắn với một nơi chốn của sự xa hoa hay ẩn dật (đảo Capri, khu nghỉ dưỡng Baiae), và tất cả đều đã mất.
+
+Kết luận: những gì người ta khát khao thật tầm thường. Triết học hơn nhiều là khi ta, trong phạm vi những gì được phân cho mình, sống công bằng, tự chủ và vâng theo thần linh một cách giản dị. Marcus thêm một nhận xét sắc: không gì khó chịu hơn sự kiêu ngạo đội lốt khiêm tốn.
 
 ### 12.28 Vì sao kính trọng thần linh dù chưa thấy
 
-- Với ai hỏi ta đã thấy thần linh ở đâu mà tin họ có thật và tôn kính họ, câu trả lời có hai phần: thứ nhất, họ hiện ra trước mắt ta (qua trật tự vũ trụ); thứ hai, ta cũng chưa bao giờ thấy linh hồn mình mà vẫn tôn trọng nó.
-- Cũng vậy với thần linh: qua những gì ta trải nghiệm về quyền năng của họ, lần này qua lần khác, ta hiểu rằng họ có thật và tôn kính họ.
+Có người hỏi: ta đã thấy thần linh ở đâu mà tin họ có thật và tôn kính họ? Câu trả lời của Marcus có hai phần. Thứ nhất, họ hiện ra trước mắt ta, qua trật tự của vũ trụ. Thứ hai, ta cũng chưa bao giờ nhìn thấy linh hồn của mình, vậy mà vẫn tôn trọng nó.
+
+Với thần linh cũng vậy: qua những gì ta trải nghiệm về quyền năng của họ, lần này qua lần khác, ta hiểu rằng họ có thật và tôn kính họ. (Cụm "thưa hoàng đế" trong bản dịch là do dịch giả thêm vào.)
 
 ### 12.29 Sự cứu rỗi của đời người
 
-- Sự an toàn của đời sống nằm ở việc nhìn mỗi vật hoàn toàn đúng như nó là, vật chất và nguyên nhân của nó; làm điều đúng hết lòng và nói sự thật.
-- Còn lại là tận hưởng cuộc sống bằng cách nối việc tốt này với việc tốt khác, không để kẽ hở nào giữa chúng.
+Sự an toàn của đời sống nằm ở ba việc: nhìn mỗi vật hoàn toàn đúng như nó là, tức là thấy vật chất và nguyên nhân của nó; làm điều đúng bằng cả tấm lòng; và nói sự thật.
+
+Phần còn lại là tận hưởng cuộc sống bằng cách nối việc tốt này với việc tốt khác, không để một kẽ hở nào giữa chúng.
 
 ### 12.30 Một ánh sáng, một trí tuệ
 
-- Ánh mặt trời là một, dù bị tường, núi và vô số vật khác chia cắt. Chất liệu chung là một, dù chia thành vô số vật thể riêng. Linh hồn sự sống là một, dù chia ra vô số bản chất với giới hạn riêng. Tâm trí là một, dù có vẻ bị chia.
-- Những phần khác (hơi thở, vật chất) không có cảm giác về nhau và không có gắn kết tự giác, dù vẫn được giữ lại với nhau nhờ sự hợp nhất và sức nặng kéo về cùng chỗ.
-- Còn tâm trí có xu hướng riêng tìm đến cái cùng loại với nó, hợp lại với nó, và cảm giác chung ấy không bị cắt đứt. Đây là nền vũ trụ học cho tình đồng loại.
+Marcus dùng một chuỗi so sánh về cái một bị chia thành nhiều:
+
+| Cái chung | Bị chia bởi | Vẫn là một |
+|---|---|---|
+| Ánh mặt trời | Tường, núi và vô số vật khác | Vẫn là một ánh sáng |
+| Chất liệu chung | Vô số vật thể riêng | Vẫn là một chất liệu |
+| Linh hồn sự sống | Vô số bản chất, mỗi bản chất có giới hạn riêng | Vẫn là một linh hồn |
+| Tâm trí | Có vẻ bị chia giữa nhiều người | Vẫn là một tâm trí |
+
+Ông phân biệt tiếp. Những phần khác (hơi thở, vật chất) không có cảm giác về nhau và không gắn kết với nhau một cách tự giác, dù chúng vẫn được giữ lại với nhau nhờ sự hợp nhất và nhờ sức nặng tự nhiên kéo các phần vật chất về cùng một chỗ (bản dịch hiện đại hoá điều này thành "lực hấp dẫn"). Còn tâm trí có xu hướng riêng tìm đến cái cùng loại với nó, hợp lại với nó, và cảm giác chung ấy không bị cắt đứt. Đây là nền vũ trụ học cho tình đồng loại: người với người gắn với nhau vì cùng chia sẻ một tâm trí.
 
 ### 12.31 Ta còn muốn gì?
 
-- Ta muốn gì: tiếp tục thở? Cảm nhận? Ham muốn? Lớn lên, rồi thôi lớn? Nói? Suy nghĩ? Có điều nào đáng mong đâu?
-- Nếu tất cả đều đáng coi nhẹ, hãy đi tới đích cuối là theo lý trí và thần linh. Còn tiếc nuối những thứ ấy, đau khổ vì cái chết sẽ lấy chúng đi, là trái với việc tôn kính lý trí và thần linh.
+Marcus tự hỏi: ta còn muốn gì? Tiếp tục thở? Tiếp tục cảm nhận? Ham muốn? Lớn lên, rồi thôi lớn? Nói? Suy nghĩ? Có điều nào trong số đó thật sự đáng mong không?
+
+Nếu tất cả đều đáng coi nhẹ, hãy đi tới đích cuối cùng là theo lý trí và thần linh. Còn tiếc nuối những thứ ấy, và đau khổ vì cái chết sẽ lấy chúng đi, là trái với việc tôn kính lý trí và thần linh.
 
 ### 12.32 Phần nhỏ được phân
 
-- Mỗi người được phân một phần rất nhỏ của thời gian vô tận, phần ấy sẽ sớm biến vào vĩnh cửu; một phần rất nhỏ của toàn bộ vật chất, của toàn bộ linh hồn; và bò trên một cục đất rất nhỏ của toàn bộ trái đất.
-- Ghi nhớ những điều ấy thì không coi gì là lớn, trừ làm điều bản tính mình dẫn tới và chịu điều tự nhiên chung mang lại.
+Mỗi người được phân:
+
+- một phần rất nhỏ của thời gian vô tận, phần ấy sẽ sớm biến vào vĩnh cửu;
+- một phần rất nhỏ của toàn bộ vật chất;
+- một phần rất nhỏ của toàn bộ linh hồn;
+- và một cục đất rất nhỏ để bò trên đó, so với toàn bộ trái đất.
+
+Ghi nhớ điều ấy thì không coi gì là lớn, trừ hai việc: làm điều mà bản tính mình dẫn tới, và chấp nhận điều mà tự nhiên chung mang lại.
 
 ### 12.33 Tâm trí tự dùng mình thế nào
 
-- Phần chỉ huy sử dụng chính nó như thế nào: tất cả nằm ở đó. Mọi thứ khác, thuộc quyền ta hay không, đều chỉ là tro và khói, không có sự sống (chữ Hy Lạp nghĩa đen là xác chết và khói).
+Phần chỉ huy sử dụng chính nó như thế nào: tất cả nằm ở đó. Mọi thứ khác, dù thuộc quyền ta hay không, đều chỉ là tro và khói, không có sự sống. Chữ Hy Lạp Marcus dùng có nghĩa đen là "xác chết và khói".
 
 ### 12.34 Ngay cả phái khoái lạc cũng coi thường cái chết
 
-- Điều thúc đẩy ta coi khinh cái chết: ngay cả những người cho rằng khoái lạc là tốt và đau là xấu (phái Epicurus) cũng đã coi khinh nó.
+Một lý do để coi khinh cái chết: ngay cả những người cho rằng khoái lạc là tốt và đau đớn là xấu, tức phái Epicurus, cũng đã coi khinh nó. Nếu một trường phái đặt khoái lạc lên hàng đầu mà vẫn không sợ chết, thì người Khắc kỷ càng không có lý do để sợ.
 
 ### 12.35 Ai chỉ coi cái hợp thời là tốt
 
-- Với người chỉ coi cái đến đúng thời là tốt, làm nhiều hay ít hành động theo lý trí đúng đều như nhau, nhìn thế giới lâu hay ngắn cũng không quan trọng; với người ấy, cái chết không đáng sợ.
+Với người chỉ coi cái đến đúng thời của nó là tốt, thì làm được nhiều hay ít hành động theo lý trí đúng đắn đều như nhau, và được nhìn thế giới lâu hay ngắn cũng không quan trọng. Với người ấy, cái chết không đáng sợ. (Bản dịch gọi "cái hợp thời" là "sự chín chắn", làm mất ý về thời điểm.)
 
 ### 12.36 Vở kịch ba màn
 
-- Ta đã là công dân của thành phố lớn này (vũ trụ). Năm năm hay một trăm năm thì có khác gì? Điều theo luật của thành phố là công bằng với mọi người.
-- Vậy có gì đáng sợ khi bị đưa ra khỏi thành phố, không phải bởi bạo chúa hay quan toà bất công, mà bởi chính tự nhiên đã đưa ta vào?
-- Như diễn viên bị người tổ chức đã thuê mình cho rời sân khấu. "Nhưng tôi mới diễn có ba màn" (nguyên văn Hy Lạp: ba trong năm màn của một vở kịch thông thường). Phải, nhưng trong đời người, ba màn là cả vở kịch. Kết thúc do người đã ghép nên ta trước đây và nay làm ta tan ra quyết định; cả hai việc đều không do ta.
-- Vậy hãy ra đi trong thanh thản, vì người cho ta ra đi cũng thanh thản. Đây là câu kết của toàn bộ *Suy tưởng*.
+Mục cuối cùng của *Suy tưởng* gồm bốn bước:
+
+- **Công dân của thành phố lớn.** Ta đã là công dân của thành phố lớn này, tức vũ trụ. Sống 5 năm hay 100 năm thì có khác gì? Điều theo luật của thành phố thì công bằng với mọi người.
+- **Ai đưa ta ra.** Vậy có gì đáng sợ khi bị đưa ra khỏi thành phố, không phải bởi một bạo chúa hay một quan toà bất lương, mà bởi chính tự nhiên, kẻ đã đưa ta vào?
+- **Diễn viên ba màn.** Giống như một diễn viên bị người tổ chức, người đã thuê anh ta, cho rời sân khấu. Anh ta kêu: "Nhưng tôi mới diễn có ba màn." (Trong nguyên văn, ý là ba trong năm màn của một vở kịch thông thường.) Đúng vậy, nhưng trong đời người, ba màn là trọn cả vở kịch. Việc kết thúc do kẻ đã ghép nên ta trước kia và nay làm ta tan ra quyết định; cả hai việc ấy đều không do ta.
+- **Ra đi thanh thản.** Vậy hãy ra đi trong thanh thản, vì sức mạnh cho ta ra đi cũng hài lòng khi làm điều đó.
+
+Đây là câu kết của toàn bộ tác phẩm. Nó nối lại với 12.23 (một đời dừng đúng lúc không xấu đi vì đã dừng) và 12.35 (ai chỉ coi cái hợp thời là tốt thì không bận tâm đời dài hay ngắn).
 
 ## Luận điểm triết học cốt lõi
 
