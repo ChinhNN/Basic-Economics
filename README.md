@@ -214,6 +214,24 @@ Adam Smith, *Của cải của các dân tộc* (1776), bản dịch NXB Giáo d
 - [Quyển IV, Chương VIII — Kết luận về chế độ trọng thương](The%20Wealth%20of%20Nations/Q4-C08-ket-luan-ve-che-do-trong-thuong.md)
 - [Quyển IV, Chương IX — Các hệ thống trọng nông](The%20Wealth%20of%20Nations/Q4-C09-he-thong-trong-nong.md)
 
+## Meditations
+
+Marcus Aurelius, *Suy tưởng* (*Meditations*, khoảng 170–180), bản dịch Andy Lương từ bản tiếng Anh của Gregory Hays. Mỗi quyển một file, giữ lại luận điểm Marcus tự nhắc mình, kèm đánh giá và vận dụng. Xem [tổng quan và khung tư tưởng](Meditations/README.md).
+
+- [Quyển 1 — Những bài học và lòng biết ơn](Meditations/Q01-nhung-bai-hoc-va-long-biet-on.md)
+- [Quyển 2 — Bên dòng Gran, giữa những người Quadi](Meditations/Q02-ben-dong-gran.md)
+- [Quyển 3 — Ở Carnuntum](Meditations/Q03-o-carnuntum.md)
+- [Quyển 4 — Nơi ẩn náu bên trong](Meditations/Q04-noi-an-nau-ben-trong.md)
+- [Quyển 5 — Thức dậy làm việc của con người](Meditations/Q05-thuc-day-lam-viec-cua-con-nguoi.md)
+- [Quyển 6 — Nhìn thấu bản chất sự vật](Meditations/Q06-nhin-thau-ban-chat-su-vat.md)
+- [Quyển 7 — Thay đổi, lòng khoan dung và tiếng nói của người xưa](Meditations/Q07-thay-doi-va-long-khoan-dung.md)
+- [Quyển 8 — Tâm trí là pháo đài](Meditations/Q08-tam-tri-la-phao-dai.md)
+- [Quyển 9 — Bất công là báng bổ](Meditations/Q09-bat-cong-la-bang-bo.md)
+- [Quyển 10 — Tâm trí khoẻ mạnh](Meditations/Q10-tam-tri-khoe-manh.md)
+- [Quyển 11 — Linh hồn lý trí, cành cây bị cắt và mười điều nhớ khi nổi giận](Meditations/Q11-linh-hon-ly-tri-va-con-gian.md)
+- [Quyển 12 — Sống ngay bây giờ và rời sân khấu thanh thản](Meditations/Q12-hien-tai-va-man-ket-thuc.md)
+- [Phụ lục — Giờ khắc cuối cùng của hoàng đế triết gia](Meditations/PL-gio-khac-cuoi-cung-cua-hoang-de-triet-gia.md) — trích Donald Robertson, *How to Think Like a Roman Emperor* (2019)
+
 ## VN
 
 Tổng hợp bài viết của AI WikiMoney (wikimoney.ai.vn) về kinh tế, tài chính cá nhân và đầu tư ở Việt Nam, xếp theo chuyên mục của trang và theo ngày đăng.
