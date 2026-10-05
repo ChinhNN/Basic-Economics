@@ -146,124 +146,220 @@
 2. **Vì sao một người Khắc kỷ không cần sợ chết?** Vì cái chết chỉ là một bước thay đổi như mọi bước khác của tự nhiên; nếu nó là mất ý thức thì không có ai để chịu khổ, nếu nó là tan rã thì các thành phần chỉ trở về nguồn; cái xấu thật chỉ là nỗi sợ, vì nó làm người ta sống hèn.
 3. **Còn lại gì đáng làm khi mọi thứ đều qua?** Hai việc: sống theo lý trí, và bình thản đón nhận mọi điều tự nhiên đưa đến; tâm trí khi ấy như mặt trời, soi mọi vật mà không bị vấy bẩn. Người dẫn đường duy nhất là triết học.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
 
-Bài không có mục đánh số. Dàn ý đi theo các đoạn của văn bản, ghi trang PDF và, khi nhận ra chắc chắn, đoạn tương ứng trong *Suy tưởng*.
+**Chủ nghĩa Khắc kỷ (Stoicism).** Một trường phái triết học Hy Lạp – La Mã, ra đời khoảng năm 300 trước Công nguyên với Zeno, sau đó được Epictetus và Marcus Aurelius phát triển. Ý cốt lõi: điều tốt duy nhất là đức hạnh, tức sống theo lý trí; mọi thứ khác (sức khoẻ, của cải, danh tiếng, kể cả sống và chết) không tự nó tốt hay xấu. Ví dụ trong bài: Marcus mất 13 người con với Faustina nhưng vẫn giữ được sự vững vàng, vì ông coi việc con cái phải chết là một phần của tự nhiên. Toàn bộ độc thoại là một màn trình diễn: Khắc kỷ được đem ra "dùng thật" vào giờ phút cuối.
+
+**Phán đoán khác với sự việc.** Nguyên lý của Epictetus: không phải sự việc làm ta khổ, mà là cách ta đánh giá sự việc. Cảm xúc ban đầu (giật mình, buồn) là tự nhiên; nỗi khổ kéo dài thường đến từ những phán đoán ta chồng thêm lên ("thật bất công", "ta không chịu nổi"). Ví dụ trong bài: Marcus khóc con trai 5 ngày rồi lên đường ra trận; thầy Apollonius dạy ông rằng tiếc thương là tự nhiên, nhưng không được tự làm nỗi đau nặng thêm. Nguyên lý này là chìa khoá để "tháo mặt nạ" cái chết ở chặng 3.
+
+**Vô thường và dòng chảy (Heraclitus).** Ý tưởng rằng vạn vật luôn thay đổi, giống nước sông không bao giờ là một: "không ai bước hai lần xuống cùng một dòng sông". Ví dụ trong bài: chuỗi tiễn biệt kéo qua ba thế hệ, từ cha Marcus, mẹ Lucilla, Antoninus, Lucius, đến Faustina, rồi tới lượt Marcus. Khái niệm này mở đầu độc thoại và là lý do để buông tay thay vì níu kéo.
+
+**Adiaphora, "những thứ không khác biệt".** Theo Khắc kỷ, ngoại vật như sức khoẻ, tiền bạc, danh tiếng không tốt không xấu tự thân; chúng chỉ là chất liệu mà người khôn ngoan dùng tốt và kẻ dại dùng phí. Ví dụ minh hoạ theo hình ảnh trong bài: một con ngựa đeo yên vàng giá gấp 10 lần yên da thường cũng không chạy nhanh hơn; của cải không làm tâm hồn tốt hơn. Khái niệm này giải thích vì sao cái chết, vốn cũng thuộc nhóm "không khác biệt", không đáng sợ.
+
+**Lập luận của Epicurus về cái chết.** Epicurus, đối thủ của Khắc kỷ, lập luận: nếu chết là mất hết cảm giác thì không còn ai để chịu khổ; cái chết không tệ hơn giấc ngủ không mộng, và giống trạng thái trước khi ta sinh ra. Ví dụ: hàng vạn năm trước khi ta ra đời không làm ta khó chịu chút nào, vậy hàng vạn năm sau khi ta chết cũng vậy. Robertson dùng lập luận này cạnh lập luận Khắc kỷ, để kết luận đứng vững dù người đọc tin vào điều gì.
+
+**Nhìn từ trên cao (view from above).** Bài tập tưởng tượng mình được nâng lên rất cao để nhìn xuống nhân loại và trái đất, khiến việc riêng nhỏ lại đúng tỷ lệ. Ví dụ trong bài: từ giữa các vì sao, trái đất chỉ là một chấm, châu Á và châu Âu là hạt bụi, cả đại dương là một giọt nước; cáu giận với vũ trụ vì rắc rối riêng giống như khóc vì một vết xước trên ngón tay. Đây là chặng 4, đỉnh của độc thoại.
+
+**Sympatheia, vũ trụ là một sinh thể.** Theo Khắc kỷ, toàn bộ vũ trụ là một cơ thể sống có một tâm trí chung; mỗi người là một chi của cơ thể ấy, và mọi sự kiện đan vào một tấm vải nhân quả duy nhất. Ví dụ minh hoạ: một bàn tay không thể "thắng" khi cả cơ thể thua; một người cũng không thể có lợi thật khi gây hại cho toàn thể. Khái niệm này cho Marcus lý do để coi cái chết là trở về với toàn thể, không phải biến mất.
+
+**Hiền nhân (sophos).** Hình mẫu người khôn ngoan lý tưởng của Khắc kỷ, người đã làm chủ hoàn toàn phán đoán của mình. Ví dụ trong bài: tâm trí hiền nhân được ví như mặt trời, tia sáng toả mọi hướng, chạm vào mọi vật mà không bị vấy bẩn; Marcus thấy bóng dáng hình mẫu này nơi 3 người thầy Apollonius, Junius Rusticus và Claudius Maximus. Hình ảnh hiền nhân là đích mà người hấp hối hướng tới ở các đoạn cuối.
+
+## Nội dung chi tiết
+
+Bài không có mục đánh số. Nội dung dưới đây đi theo các đoạn của văn bản; con số trong ngoặc ở tiêu đề là trang của bản dịch, còn các số dạng 4.32 chỉ quyển và đoạn tương ứng trong *Suy tưởng* mà câu chữ của Robertson diễn lại.
+
+**Khung của toàn bài.** Bài mở bằng một cảnh ngắn kể ở ngôi thứ ba: Vindobona, ngày 17/3/180, hoàng đế bệnh nặng, đã nhịn ăn nhiều ngày, nói với lính gác một câu về "mặt trời mọc" (ý gốc trong sử liệu: hãy đi theo người kế vị Commodus), trùm khăn lên đầu và nằm xuống; mặt trời lặn, ông lúc tỉnh lúc mê. Sau đó bài chuyển sang ngôi thứ nhất, thành độc thoại của người hấp hối, đi qua năm chặng nối tiếp: ① dòng sông, ② những người đã mất, ③ tháo mặt nạ cái chết, ④ bay lên giữa các vì sao, ⑤ lời dặn cuối diễn lại đoạn 2.17. Cảnh kết vòng lại hình ảnh mặt trời mọc ở đầu bài: có lẽ bình minh sắp đến, ông sẽ không còn thấy, và điều đó không sao cả.
 
 ### Lời dẫn của dịch giả (tr. 208)
 
-- Andy Lương cho biết đây là chương cuối sách của Donald Robertson, dịch tặng độc giả của trang ("các Nhện") vì bản thân đọc nhiều lần vẫn xúc động.
+Trước khi vào bài, dịch giả Andy Lương viết vài dòng giới thiệu. Ông cho biết đây là chương cuối trong sách của Donald Robertson, được dịch tặng độc giả của trang chunghiakhacky.com (những người ông gọi thân mật là "các Nhện"), vì bản thân ông đọc lại nhiều lần mà lần nào cũng xúc động. Lời dẫn này quan trọng để nhớ rằng văn bản theo sau là của Robertson, không phải của Marcus.
 
 ### Cảnh mở đầu, ngôi thứ ba (tr. 208–209)
 
-- Vindobona, ngày 17 tháng 3 năm 180. Hoàng đế gọi lính gác đến, thì thầm một câu về mặt trời mọc và nói mình đã sẵn sàng cho kết thúc. Người lính trẻ sợ hãi, lúng túng gật đầu rồi về chỗ.
-- Marcus kéo tấm khăn lên đầu, xoay người khó nhọc như để nằm lần cuối. Bệnh dịch đang tàn phá cơ thể ông từ bên trong, và ông đã nhịn ăn uống nhiều ngày, tự làm mình yếu đi.
-- Mặt trời lặn, mọi thứ im lặng; cơn đau không cho ông ngủ, ông trôi giữa tỉnh và mơ. Ông nghĩ đôi mắt nặng trĩu đã đến lúc khép hẳn.
+Cảnh đặt ở Vindobona (nay là Vienna), ngày 17 tháng 3 năm 180. Hoàng đế gọi người lính gác đến, thì thầm một câu về mặt trời mọc và nói rằng mình đã sẵn sàng cho kết thúc. Người lính trẻ sợ hãi, lúng túng gật đầu rồi trở về chỗ. Trong sử liệu cổ, câu nói này có nghĩa chuyển giao quyền lực: hãy phục vụ mặt trời đang mọc, tức người kế vị Commodus, vì ta đã lặn rồi.
+
+Marcus kéo tấm khăn lên đầu và xoay người khó nhọc, như để nằm xuống lần cuối. Căn bệnh dịch đang tàn phá cơ thể ông từ bên trong, và ông đã tự nhịn ăn uống nhiều ngày, làm mình yếu dần đi.
+
+Mặt trời lặn, mọi thứ chìm vào im lặng. Cơn đau không cho ông ngủ hẳn; ông trôi giữa tỉnh và mơ, và nghĩ rằng đôi mắt nặng trĩu đã đến lúc khép lại vĩnh viễn. Từ đây, người kể chuyện rút lui và Marcus tự "nghĩ thành lời".
 
 ### Chặng 1: dòng sông (tr. 209–210)
 
-- Trong bóng tối, ông không còn biết mắt đang mở hay nhắm. Ông hình dung bình minh, chim sẻ hót, mùa xuân, các suối tan băng đổ vào sông Danube chảy qua doanh trại.
-- Lính tráng coi sông Danube là một vị thần sông cổ. Bài học thầm lặng của nó: mọi thứ thay đổi và sắp tan biến. Ông nhắc Heraclitus: không ai bước hai lần xuống cùng một dòng sông.
-- Tự nhiên là một dòng chảy dữ dội cuốn mọi thứ; cái vừa xuất hiện sẽ sớm bị rửa trôi để nhường chỗ cho cái khác. Quá khứ vô tận ở thượng nguồn, tương lai mù mịt ở hạ nguồn.
-- Ông thấy nhẹ nhõm vì không còn cần thuốc men hay thầy thuốc. Sống và chết đều là thay đổi; có thể trì hoãn điều không tránh được, nhưng không thể thoát. Ông dẫn hai câu thơ Euripides chế giễu việc dùng ăn uống và bùa phép để cưỡng lại cái chết (Marcus cũng trích hai câu này ở 7.51).
+Trong bóng tối, ông không còn phân biệt được mắt mình đang mở hay nhắm. Ông hình dung bình minh, tiếng chim sẻ, mùa xuân, các con suối tan băng đổ vào sông Danube chảy ngang qua doanh trại.
+
+Lính tráng coi sông Danube là một vị thần sông cổ xưa. Với Marcus, dòng sông dạy một bài học thầm lặng: mọi thứ đều thay đổi và sắp tan biến. Ông nhắc câu của Heraclitus rằng không ai bước hai lần xuống cùng một dòng sông, vì lần thứ hai nước đã khác và người cũng đã khác.
+
+Từ hình ảnh đó, ông mở rộng ra toàn bộ tự nhiên. Tự nhiên là một dòng chảy dữ dội cuốn theo mọi thứ; cái vừa xuất hiện sẽ sớm bị rửa trôi để nhường chỗ cho cái khác. Ở thượng nguồn là quá khứ vô tận, ở hạ nguồn là tương lai tối tăm, mù mịt. Mỗi đời người chỉ là một khúc ngắn ở giữa.
+
+Ý nghĩ ấy làm ông nhẹ nhõm: ông không còn cần thuốc men hay thầy thuốc nữa. Sống và chết đều là thay đổi; người ta có thể trì hoãn điều không tránh được, nhưng không thể thoát khỏi nó. Ông dẫn hai câu thơ của Euripides chế giễu những ai dùng ăn uống và bùa phép để cưỡng lại cái chết, gọi đó là việc ngu ngốc. Chính Marcus cũng trích hai câu thơ này trong *Suy tưởng* ở đoạn 7.51.
 
 ### Đám đông và bi kịch tự tạo (tr. 210)
 
-- Nhìn lại, ông thấy đời phần lớn người ta là bi kịch tự gây ra: hoặc kiêu căng tự tôn, hoặc rên rỉ than phiền. Họ quan tâm đến thứ mong manh và chóng qua, nên ít ai sống vững vàng: giữa dòng chảy vạn vật không có gì chắc chắn để đặt hy vọng.
+Nhìn lại cuộc đời, ông thấy phần lớn người ta tự gây ra bi kịch cho mình theo một trong hai cách: hoặc kiêu căng tự tôn, hoặc rên rỉ than phiền. Lý do là họ đặt lòng mình vào những thứ mong manh và chóng qua. Giữa một dòng chảy mà không có gì đứng yên, chẳng có chỗ nào chắc chắn để đặt hy vọng, nên rất ít người sống được vững vàng. Đoạn này nối chặng 1 với chặng 2: nếu mọi thứ trôi đi, thì bám vào chúng là tự chuốc khổ.
 
 ### Chặng 2: những đứa con (tr. 210–212)
 
-- Hình ảnh con chim sẻ làm tổ bên sông: vừa thấy đáng yêu thì nó đã bay mất (Marcus dùng hình ảnh này ở 6.15). Ông thú nhận đã từng bị cuốn theo "những chú chim sẻ" của mình, tức các con.
-- Faustina sinh cho ông mười ba người con; nay chỉ còn Commodus và bốn cô con gái đang khóc bên giường. Những đứa khác chết sớm từ lâu. Ban đầu ông đau đớn, nhưng Khắc kỷ dạy ông vừa thương con vừa chấp nhận khi Tự nhiên đòi chúng lại.
-- Khi ông khóc cặp con trai song sinh, thầy Apollonius kiên nhẫn an ủi. Lập luận: tiếc thương là tự nhiên, cả loài vật cũng biết; nhưng có người để nỗi đau vượt quá mức tự nhiên và cuốn mình vào tuyệt vọng, còn người khôn ngoan chịu đựng nỗi đau mà không tự làm nó nặng thêm. Đây là phân biệt Khắc kỷ giữa cảm xúc ban đầu và phán đoán chồng thêm lên nó.
-- Người con trai tên Marcus Annius Verus (tên thời nhỏ của chính ông) chết vì mất máu trên bàn mổ khi thầy thuốc cắt khối u dưới tai, ít lâu trước khi Lucius mất. Ông chỉ khóc được năm ngày rồi phải rời Rome ra mặt trận Pannonia.
-- Apollonius nhắc câu Epictetus: chỉ kẻ điên mới mong thấy quả vả vào mùa đông (Marcus ghi câu này ở 11.33); người héo hon vì con đã trở về tự nhiên cũng vậy. Ông yêu con hết lòng nhưng phải học rằng chúng là sinh linh hữu hạn.
-- Thơ Homer: thế hệ người như lá bị gió cuốn xuống đất (Marcus trích ở 10.34). Con cái đến mùa xuân, đi trong gió đông, rồi những đứa trẻ khác thế chỗ. Trái tim kêu "xin cho con ta bình an" thì giống đôi mắt chỉ chịu nhìn cái đẹp: một cách cố chấp không chấp nhận rằng mọi thứ thay đổi.
+Ông nghĩ đến con chim sẻ làm tổ bên sông: vừa thấy nó đáng yêu thì nó đã bay mất. Marcus dùng đúng hình ảnh này trong *Suy tưởng* ở đoạn 6.15. Ông thú nhận rằng mình đã từng bị cuốn theo "những chú chim sẻ" của mình, tức các con.
+
+Faustina sinh cho ông 13 người con. Nay chỉ còn Commodus và 4 cô con gái đang khóc bên giường; những đứa khác đã chết sớm từ lâu. Ban đầu ông đau đớn, nhưng triết học Khắc kỷ dạy ông vừa thương con hết lòng vừa chấp nhận khi Tự nhiên đòi chúng lại.
+
+Khi ông khóc cặp con trai song sinh, thầy Apollonius đã kiên nhẫn an ủi bằng một lập luận rõ ràng. Tiếc thương là tự nhiên; ngay cả loài vật cũng biết thương nhớ. Nhưng có người để nỗi đau vượt quá mức tự nhiên và tự cuốn mình vào tuyệt vọng, còn người khôn ngoan thì chịu đựng nỗi đau mà không tự làm nó nặng thêm. Đây là phân biệt Khắc kỷ quen thuộc giữa cảm xúc ban đầu, vốn không tránh được, và các phán đoán chồng thêm lên nó, vốn thuộc quyền ta.
+
+Người con trai mang tên Marcus Annius Verus, cũng là tên thời nhỏ của chính ông, chết vì mất máu trên bàn mổ khi thầy thuốc cắt một khối u dưới tai, ít lâu trước khi Lucius mất. Marcus chỉ được khóc con 5 ngày rồi phải rời Rome ra mặt trận Pannonia, vì trách nhiệm của hoàng đế không chờ ai.
+
+Apollonius còn nhắc ông câu của Epictetus: chỉ kẻ điên mới mong thấy quả vả vào mùa đông. Marcus ghi câu này trong *Suy tưởng* ở đoạn 11.33. Người héo hon mãi vì đứa con đã trở về tự nhiên cũng giống như kẻ đòi quả vả giữa mùa đông: mong một điều trái với bản chất của sự vật. Ông yêu con hết lòng, nhưng phải học rằng chúng là những sinh linh hữu hạn.
+
+Ông nhớ thêm câu thơ Homer: các thế hệ người giống như lá cây bị gió cuốn xuống đất (Marcus trích ở đoạn 10.34). Con cái đến cùng mùa xuân, ra đi trong gió đông, rồi những đứa trẻ khác thế chỗ. Một trái tim cứ kêu "xin cho con ta được bình an mãi" giống như đôi mắt chỉ chịu nhìn cái đẹp: đó là một cách cố chấp không chịu chấp nhận rằng mọi thứ đều thay đổi.
 
 ### Chuỗi tiễn biệt (tr. 212)
 
-- Người khôn ngoan xem sống và chết là hai mặt một đồng xu. Xenophon, học trò của Socrates, nghe tin con trai tử trận chỉ nói rằng ông vẫn biết con mình là người phải chết: ông đã thấm điều gì sinh ra thì phải chết.
-- Marcus kể chuỗi người đã tiễn nhau: cha ông (Annius Verus) mất khi ông còn nhỏ, chỉ để lại tiếng là người tốt và khiêm nhường; mẹ Lucilla tiễn cha, rồi ông tiễn mẹ; Antoninus tiễn hoàng hậu của mình, rồi Marcus và Lucius tiễn Antoninus; Lucius chết đột ngột; cuối cùng là Faustina.
-- Ông sắp gặp lại Faustina khi Commodus đặt thân xác ông vào lăng Hadrian bên sông Tiber. Bạn bè sẽ nói ở Rome rằng ông không mất mà trở về Tự nhiên. Thần mặt trời lặn đêm nay mang ông theo; ngày mai người khác "mọc lên" thay.
+Người khôn ngoan xem sống và chết là hai mặt của một đồng xu. Ví dụ là Xenophon, học trò của Socrates: khi nghe tin con trai tử trận, ông chỉ nói rằng mình vẫn biết con mình là người phải chết. Câu ấy không lạnh lùng; nó cho thấy Xenophon đã thấm từ trước rằng điều gì sinh ra thì phải chết.
+
+Rồi Marcus điểm lại chuỗi những người đã lần lượt tiễn nhau:
+
+1. Cha ông, Annius Verus, mất khi ông còn nhỏ, chỉ để lại tiếng là người tốt và khiêm nhường.
+2. Mẹ ông, Lucilla, tiễn cha; rồi chính ông tiễn mẹ.
+3. Hoàng đế Antoninus, cha nuôi của ông, tiễn hoàng hậu của mình; rồi Marcus và Lucius cùng tiễn Antoninus.
+4. Lucius, em nuôi và đồng hoàng đế, chết đột ngột.
+5. Cuối cùng là Faustina, vợ ông.
+
+Nay sắp đến lượt Marcus. Ông sẽ gặp lại Faustina khi Commodus đặt thân xác ông vào lăng Hadrian bên sông Tiber. Bạn bè ở Rome sẽ nói rằng ông không mất đi mà trở về với Tự nhiên. Thần mặt trời lặn đêm nay sẽ mang ông theo; ngày mai sẽ có người khác "mọc lên" thế chỗ. Đây là chỗ còn giữ lại ý chuyển giao quyền lực của câu nói về mặt trời mọc ở đầu bài.
 
 ### Cái chết, người bạn cũ (tr. 212–214)
 
-- Ông gọi Cái Chết là bạn cũ: nó đã nhiều lần làm khách qua cánh cửa tưởng tượng trong những lần ông suy tưởng về các triều đại xa xưa.
-- Mọi thời đều như nhau: người cưới xin, nuôi con, ốm, chết; kẻ ra trận, kẻ tiệc tùng, kẻ cày ruộng, kẻ buôn bán; kẻ nịnh, kẻ được nịnh rồi nghi kỵ cấp dưới; kẻ mưu đồ, mong người khác chết, than phận, mê tình, tích của, thèm chức, thèm ngôi (danh sách gần như lấy từ 4.32). Vô số người không để lại tên; mà người còn tên cũng chẳng khác gì.
-- Cái chết gõ cửa cung điện như gõ cửa lều kẻ ăn xin. Augustus cùng gia đình, tổ tiên, thầy tư tế, cố vấn: không ai còn. Alexander và người chăn la của ông cùng một kết cục (6.24).
-- Các dòng họ cố có người nối dõi, cuối cùng vẫn khắc "người cuối cùng của dòng họ" trên bia (8.31). Thành phố chết, dân tộc bị xoá. Scipio, khi phá huỷ Carthage, buồn vì thấy trước ngày Rome cũng sụp đổ.
-- Bài học của mọi thời đại: không gì bền mãi. Tên Hadrian và Antoninus đã nghe cổ kính như Scipio Africanus hay Cato thành Utica; mai đây "triều đại Marcus Aurelius" cũng thành tên một thời đã qua (ý của 4.33).
+Ông gọi Cái Chết là một người bạn cũ, vì nó đã nhiều lần làm khách qua "cánh cửa tưởng tượng" mỗi khi ông suy tưởng về các triều đại xa xưa.
+
+Bài học đầu tiên từ những lần suy tưởng ấy là mọi thời đại đều giống nhau. Danh sách gần như lấy nguyên ý từ đoạn 4.32: ở thời nào cũng có người cưới xin, nuôi con, ốm đau, chết; kẻ ra trận, kẻ tiệc tùng, kẻ cày ruộng, kẻ buôn bán; kẻ nịnh hót, kẻ được nịnh rồi nghi kỵ cấp dưới; kẻ mưu đồ, mong người khác chết, than thân trách phận, mê đắm tình ái, tích của, thèm chức, thèm ngôi. Vô số người trong số đó không để lại tên; mà người còn tên thì cũng chẳng khác gì.
+
+Cái chết gõ cửa cung điện cũng như gõ cửa lều kẻ ăn xin. Hoàng đế Augustus cùng gia đình, tổ tiên, thầy tư tế, cố vấn và cả triều đình: không ai còn. Alexander Đại đế và người chăn la của ông rốt cuộc chung một kết cục (đoạn 6.24).
+
+Các dòng họ cố gắng có người nối dõi, nhưng cuối cùng vẫn phải khắc lên bia mộ dòng chữ "người cuối cùng của dòng họ" (đoạn 8.31). Thành phố cũng chết, dân tộc cũng bị xoá tên. Tướng Scipio, khi phá huỷ Carthage, đã buồn vì thấy trước ngày Rome cũng sẽ sụp đổ như vậy.
+
+Bài học chung của mọi thời đại là không có gì bền mãi. Tên Hadrian và Antoninus giờ đã nghe cổ kính như tên Scipio Africanus hay Cato thành Utica; mai đây "triều đại Marcus Aurelius" cũng sẽ thành tên của một thời đã qua (ý của đoạn 4.33).
 
 ### Vô nghĩa của danh tiếng (tr. 214)
 
-- Ông sẽ gia nhập Augustus, Vespasian, Trajan. Nhưng được nhớ thế nào, hay có được nhớ không, đều không quan trọng: bao người từng được hát ca ngợi đã bị quên, cả người hát cũng vậy.
-- Lập luận đối xứng: người lo hậu thế nghĩ gì về mình thì cũng phải buồn vì hàng thế kỷ trước khi họ sinh ra chẳng ai biết tên họ. Miệng đời không trao được vinh quang nào đáng khao khát.
-- Vấn đề duy nhất còn lại: đối diện giờ phút cuối thế nào, khi chính nó cũng sắp qua và ông đang trượt dần vào không tồn tại như vào giấc mơ.
+Ông sắp gia nhập hàng các hoàng đế đã khuất như Augustus, Vespasian, Trajan. Nhưng ông sẽ được nhớ thế nào, hay có được nhớ hay không, đều không quan trọng. Bao người từng được ca tụng đã bị quên, và cả những người từng hát ca tụng họ cũng bị quên.
+
+Ông đưa ra một lập luận đối xứng: người lo lắng về việc hậu thế nghĩ gì về mình thì cũng phải buồn vì suốt hàng thế kỷ trước khi họ sinh ra, chẳng ai biết tên họ. Nếu điều thứ hai không làm ai khổ, thì điều thứ nhất cũng không đáng làm khổ. Miệng đời không trao được thứ vinh quang nào đáng khao khát. Kết luận rút ra: danh tiếng sau khi chết là vô nghĩa.
+
+Vấn đề duy nhất còn lại là đối diện giờ phút cuối như thế nào, khi chính giờ phút ấy cũng sắp qua và ông đang trượt dần vào chỗ không còn tồn tại, như trượt vào một giấc mơ.
 
 ### Khúc khải hoàn và dịch bệnh (tr. 214–215)
 
-- Ông hỏi Cái Chết có ở bên khi ông và Lucius diễu hành khải hoàn ở Rome không: có phải nó nấp trong người nô lệ đứng trên xe, giữ vòng nguyệt quế vàng và thì thầm rằng các ngài cũng sẽ chết.
-- Trong khi Lucius phô xe vàng, châu báu và tù binh Parthia, quân của ông mang từ phương Đông về một thứ tai hoạ hơn: dịch bệnh. Nó kéo dài mười bốn năm, chất xác lên xe ở Rome, và giờ lấy đi thêm một hoàng đế.
+Ông hỏi Cái Chết rằng nó có ở bên cạnh khi ông và Lucius diễu hành khải hoàn ở Rome không. Có phải nó đã nấp trong người nô lệ đứng sau trên xe, tay giữ vòng nguyệt quế vàng, thì thầm vào tai rằng các ngài rồi cũng sẽ chết?
+
+Trong khi Lucius phô xe vàng, châu báu và tù binh Parthia, quân lính trở về từ phương Đông lại mang theo một thứ tai hoạ lớn hơn mọi chiến lợi phẩm: dịch bệnh. Trận dịch ấy kéo dài 14 năm, xác người chất lên xe ở Rome, và giờ đang lấy đi thêm một hoàng đế. Khúc khải hoàn và dịch bệnh đặt cạnh nhau cho thấy vinh quang và cái chết đi chung một chuyến xe.
 
 ### Chặng 3: tháo mặt nạ (tr. 215–217)
 
-- Khắc kỷ dạy nhìn thẳng cái chết, tự nhắc mỗi ngày mình là người phải chết, mà vẫn giữ được sự vui vẻ hài hoà. Zeno già ngã đập đầu xuống đất, đùa rằng ông tự đến được, sao phải gọi. Marcus nay cũng già và đã sẵn sàng.
-- Nhiều người sợ cả gọi tên cái chết như một điềm gở. Socrates coi cái chết là chiếc mặt nạ xấu dọa trẻ con, và khuyên hát "thần chú" cho đứa trẻ sợ hãi bên trong mỗi ngày đến khi nó khỏi sợ (*Phaedo*). Dùng lý trí bóc hết các giả định, cái chết hiện nguyên hình: một phần của tiến trình tự nhiên, không làm hại được ai.
-- Luận điểm then chốt: **nỗi sợ chết** là tai ương lớn nhất, vì nó làm người ta hèn nhát, trong khi cái chết chỉ trả họ về tự nhiên. Người khôn ngoan tận hưởng sống mà không sợ chết; không ai sống trọn được khi còn sợ chết; học bình thản trước cái chết giải phóng khỏi mọi xiềng xích nô lệ.
-- Không phải cái chết làm ta buồn mà là cách ta nhìn nó (nguyên lý Epictetus). Socrates coi nó là thứ không tốt không xấu; sáng ngày hành hình ông vẫn bình thản nói rằng triết học nâng đỡ tinh thần suốt đời, và triết gia thật là người ít sợ chết nhất, vì cả đời họ tập dượt cho lúc ấy.
-- Từ lúc sinh ra ai cũng đang trên đường đến cái chết. Chùm nho xanh, chín, hái, khô (11.35): mọi vật có đầu, giữa, cuối; mỗi giai đoạn đời (thơ ấu, thiếu niên, tráng niên, già) đều đã "chết" một lần. Cơ thể hiện tại không còn là cơ thể mẹ sinh ra; ta chết dần mỗi ngày. Nếu những lần kết thúc trước không đáng sợ, sao phải sợ lần cuối?
-- Lập luận Epicurus: nếu chết là mất nhận thức thì chẳng có gì để buồn; chỉ cái tồn tại mới tốt hay xấu, mà cái chết chỉ là vắng mặt trải nghiệm, không tệ hơn giấc ngủ, lại là giới hạn mà không nỗi đau nào vượt qua. Nó trả ta về trạng thái trước khi sinh, mà hàng vạn năm ấy chẳng làm ta khó chịu. Châm ngôn văn bia Epicurus: không có, rồi có, rồi không còn, chẳng bận tâm.
-- Lập luận đối xứng không gian và thời gian: không ai buồn vì thân mình nhỏ bé trong không gian, vậy sao phải sợ vì đời mình chỉ là khúc ngắn trong dòng thời gian?
-- Lập luận Khắc kỷ (khác Epicurus): ta không biến vào hư không mà tan về Tự nhiên, về đất nơi cha mẹ, vú nuôi lấy ra hạt giống, máu thịt, sữa. Mọi vật từ một nguồn và về lại nguồn ấy dưới dạng khác, như sáp mềm nặn ngựa rồi cây rồi người (7.23). Không gì bị huỷ, chỉ được trả lại để tạo vật khác.
-- Hôm nay một giọt, mai nắm tro hay bộ xương (4.48). Đời như một giờ trong ngày: đến rồi đi. Càng chiêm nghiệm mình là phần của toàn thể, càng thấy thân xác mong manh. Vì luôn nhớ mình không sống ngàn năm (4.17), ông đã sống mỗi ngày như ngày cuối; nay giờ cuối đến, nó không khác các giờ khác. Chết bình thản hay yếu đuối vẫn là lựa chọn của mình.
-- Socrates (Plato, *Cộng hoà*, được Marcus trích ở 7.35): người có tâm hồn bao quát toàn bộ thời gian và vũ trụ sẽ không coi đời người là to tát, và không thấy cái chết đáng sợ.
+**Nhìn thẳng vào cái chết.** Khắc kỷ dạy người ta nhìn thẳng vào cái chết, tự nhắc mỗi ngày rằng mình là người phải chết, mà vẫn giữ được sự vui vẻ và hài hoà. Giai thoại về Zeno, người sáng lập trường phái: khi đã già, ông ngã đập đầu xuống đất và đùa với cái chết rằng ta tự đến được, sao phải gọi? Marcus nay cũng đã già và đã sẵn sàng như thế.
+
+**Chiếc mặt nạ.** Nhiều người sợ đến mức không dám gọi tên cái chết, coi nó như một điềm gở. Socrates (trong *Phaedo* của Plato) ví cái chết với một chiếc mặt nạ xấu xí dùng để doạ trẻ con, và khuyên mỗi ngày hãy "hát thần chú" cho đứa trẻ sợ hãi bên trong mình cho đến khi nó hết sợ. Khi dùng lý trí bóc đi hết các giả định, cái chết hiện nguyên hình: một phần của tiến trình tự nhiên, không làm hại được ai.
+
+**Luận điểm then chốt.** Nỗi sợ chết mới là tai ương lớn nhất, vì nó làm người ta sống hèn nhát, trong khi bản thân cái chết chỉ trả họ về với tự nhiên. Người khôn ngoan tận hưởng sự sống mà không sợ chết; không ai sống trọn vẹn được khi còn sợ chết; và học cách bình thản trước cái chết là thoát khỏi mọi xiềng xích nô lệ.
+
+**Phán đoán, không phải sự việc.** Theo nguyên lý của Epictetus, không phải cái chết làm ta buồn mà là cách ta nhìn nó. Socrates coi cái chết là thứ không tốt không xấu. Sáng ngày bị hành hình, ông vẫn bình thản nói rằng triết học đã nâng đỡ tinh thần ông suốt đời, và triết gia thật sự là người ít sợ chết nhất, vì cả đời họ đã tập dượt cho khoảnh khắc ấy.
+
+**Ta chết dần mỗi ngày.** Từ lúc sinh ra, ai cũng đã đang trên đường đến cái chết. Hình ảnh chùm nho (đoạn 11.35): nho xanh, rồi chín, rồi được hái, rồi khô. Mọi vật đều có đầu, giữa và cuối. Mỗi giai đoạn của đời người, thơ ấu, thiếu niên, tráng niên, tuổi già, đều đã "chết" một lần để nhường chỗ cho giai đoạn sau. Cơ thể hiện tại không còn là cơ thể mẹ đã sinh ra. Nếu những lần kết thúc trước không đáng sợ, tại sao phải sợ lần cuối?
+
+**Lập luận Epicurus.** Nếu chết là mất nhận thức thì không có gì để buồn. Chỉ cái đang tồn tại mới có thể tốt hay xấu, mà cái chết chỉ là sự vắng mặt của trải nghiệm, không tệ hơn một giấc ngủ, lại là giới hạn mà không nỗi đau nào vượt qua được. Nó trả ta về trạng thái trước khi sinh, mà hàng vạn năm ấy chẳng hề làm ta khó chịu. Câu văn bia theo tinh thần Epicurus tóm gọn: trước không có, rồi có, rồi không còn, chẳng bận tâm.
+
+**Lập luận đối xứng không gian và thời gian.** Không ai buồn vì thân mình nhỏ bé trong không gian bao la; vậy tại sao phải sợ vì đời mình chỉ là một khúc ngắn trong dòng thời gian?
+
+**Lập luận Khắc kỷ, khác với Epicurus.** Ta không biến vào hư không mà tan về Tự nhiên, về với đất, nơi cha mẹ và vú nuôi đã lấy ra hạt giống, máu thịt và sữa để nuôi ta. Mọi vật đến từ một nguồn và trở về nguồn ấy dưới dạng khác, như một khối sáp mềm hôm nay nặn thành con ngựa, rồi thành cái cây, rồi thành con người (đoạn 7.23). Không gì bị huỷ diệt; mọi thứ chỉ được trả lại để tạo nên vật khác.
+
+**Đời như một giờ trong ngày.** Hôm nay là một giọt sự sống, mai là nắm tro hay bộ xương (đoạn 4.48). Đời người như một giờ trong ngày: đến rồi đi. Càng chiêm nghiệm mình là một phần của toàn thể, càng thấy thân xác mong manh. Vì luôn nhớ rằng mình không sống được ngàn năm (đoạn 4.17), ông đã sống mỗi ngày như ngày cuối; nay giờ cuối thật sự đến, nó không khác các giờ khác. Chết bình thản hay chết yếu đuối vẫn là lựa chọn của chính mình.
+
+**Tâm hồn bao quát.** Ông nhớ lời Socrates trong *Cộng hoà* của Plato, được Marcus trích ở đoạn 7.35: người có tâm hồn bao quát được toàn bộ thời gian và toàn bộ vũ trụ sẽ không coi đời người là điều to tát, và cũng không thấy cái chết đáng sợ.
+
+Tóm lại, chặng này đặt cạnh nhau bốn cặp "mặt nạ" và "bên dưới":
+
+| Mặt nạ (nỗi sợ) | Bên dưới (lý trí phân tích) |
+|---|---|
+| Một điềm gở, không dám gọi tên | Một tiến trình của tự nhiên (Socrates, Epictetus) |
+| Một mất mát khủng khiếp | Chỉ là mất cảm giác, như giấc ngủ (Epicurus: không có, có, không còn, chẳng bận tâm) |
+| Sự huỷ diệt | Trả về nguồn, như sáp nặn từ ngựa thành cây thành người (7.23) |
+| Một điểm kết bất thường | Như mọi giai đoạn khác: nho xanh, chín, khô (11.35) |
 
 ### Chặng 4: bay lên (tr. 218–220)
 
-- Tâm hồn ông trôi trong mơ màng; ông kinh ngạc rằng ý nghĩ có thể đi khắp thế giới, thu cả toàn thể vào tầm nhìn. Hai hình mẫu: Zeus của Homer nhìn xuống từ Olympus, lần lượt nhìn xứ Thrace của dân nuôi ngựa và các miền khác, biển màu rượu vang bao quanh; và Scipio Aemilianus ngủ ở Numidia, mơ được đưa lên các vì sao nhìn xuống trái đất (Cicero, *Giấc mơ của Scipio*).
-- Plato dạy ai muốn hiểu đời người thì nhìn xuống như từ tháp canh rất cao. Ông đã tập hằng ngày như các thầy dạy, tưởng mình bất chợt được nhấc lên nhìn tấm thảm dệt phức tạp của đời người (9.30, 12.24); nay bài tập thành thật.
-- Từ trên cao, những thứ người ta tranh giành thật tầm thường: như trẻ con chỉ nghĩ tới đồ chơi trong giỏ, ta để những nỗi sợ và ham muốn nhỏ nhen chi phối và thành xa lạ với Tự nhiên.
-- Ông thấy bên dưới đám đông như kiến: nông dân, thương nhân đi xa, hàng vạn binh lính; nam nữ, trẻ già, nô lệ và quý tộc; người mới sinh, người hấp hối, cưới, ly dị, lễ hội, tang chế, tiếng mệt mỏi ở toà án; bạn bè và người lạ.
-- Ông thấy thành phố mọc lên từ bình địa, thịnh rồi đổ thành hoang mạc; bộ tộc từ man rợ vươn tới văn minh rồi lại chìm vào man rợ; nghệ thuật, khoa học xuất hiện sau thời tăm tối rồi lại tắt. Cả những bộ tộc chưa ai biết ở góc xa thế giới, bao nghi lễ, ngôn ngữ, câu chuyện.
-- Vô số đời đã qua và sẽ đến. Dù làm hoàng đế, mấy ai trong thế giới rộng lớn từng nghe tên ông, huống hồ biết con người ông; người biết cũng sắp chết.
+Tâm hồn ông trôi trong mơ màng. Ông kinh ngạc vì ý nghĩ có thể đi khắp thế giới và thu cả toàn thể vào tầm nhìn. Ông có hai hình mẫu cho trải nghiệm này. Thứ nhất là thần Zeus trong thơ Homer, từ đỉnh Olympus nhìn xuống, lần lượt ngắm xứ Thrace của dân nuôi ngựa và các miền khác, với biển màu rượu vang bao quanh. Thứ hai là Scipio Aemilianus, khi ngủ ở Numidia đã mơ được đưa lên giữa các vì sao để nhìn xuống trái đất (Cicero kể lại trong *Giấc mơ của Scipio*).
+
+Plato dạy rằng ai muốn hiểu đời người thì phải nhìn xuống như từ một tháp canh rất cao. Marcus đã tập bài tập này hằng ngày như các thầy dạy, tưởng tượng mình bất chợt được nhấc lên để nhìn tấm thảm dệt phức tạp của đời người (đoạn 9.30 và 12.24). Nay bài tập trở thành thật.
+
+Từ trên cao, những thứ người ta tranh giành trở nên thật tầm thường. Giống trẻ con chỉ nghĩ tới đồ chơi trong giỏ, người lớn để những nỗi sợ và ham muốn nhỏ nhen chi phối mình và trở nên xa lạ với Tự nhiên.
+
+Ông thấy bên dưới đám đông như một đàn kiến: nông dân, thương nhân đi xa, hàng vạn binh lính; nam và nữ, trẻ và già, nô lệ và quý tộc; người mới sinh và người hấp hối; đám cưới, ly dị, lễ hội, tang chế, những tiếng nói mệt mỏi ở toà án; bạn bè và người lạ.
+
+Ông thấy cả lịch sử trôi qua bên dưới: thành phố mọc lên từ đất trống, thịnh vượng rồi đổ nát thành hoang mạc; các bộ tộc từ man rợ vươn tới văn minh rồi lại chìm vào man rợ; nghệ thuật và khoa học xuất hiện sau thời tăm tối rồi lại tắt. Có cả những bộ tộc chưa ai biết đến ở các góc xa của thế giới, với bao nghi lễ, ngôn ngữ và câu chuyện riêng.
+
+Vô số đời người đã qua và sẽ còn đến. Dù ông là hoàng đế, trong thế giới rộng lớn ấy mấy ai từng nghe tên ông, huống hồ biết con người thật của ông; mà những người biết thì cũng sắp chết.
 
 ### Tâm hồn rộng ra (tr. 220–222)
 
-- Tâm hồn có sức tự giải thoát khỏi vô số chuyện vụn vặt bằng cách nâng mình lên, chiêm ngưỡng toàn thể và thấy sự chóng tàn của mọi thứ cá nhân so với vĩnh cửu. Mở rộng tâm trí vượt lên cái "bên dưới" làm con người cao thượng (ý *megalopsychia*, tâm hồn lớn).
-- Linh hồn bay tự do khi không bị sợ hãi và ham muốn vật chất kéo xuống, trở về nơi xuất xứ như một mảnh của toàn thể vũ trụ.
-- Ông cảm ơn thần linh vì được khuyến khích hình dung vũ trụ và sự rộng lớn của không gian, thời gian. Đặt mọi việc riêng vào tương quan ấy, chúng nhỏ hơn hạt quả vả và ngắn như một cái ngoảnh mặt (10.17). Cái mắt không thấy thì lý trí vẫn nắm được.
-- Hình dung bầu trời như quả cầu trong suốt chứa mọi sinh linh, sao, mặt trời, mặt trăng, đất, biển, như cầm được trong tay. Từ đó, cáu giận với vũ trụ vì rắc rối của mình giống khóc vì vết xước trên ngón tay.
-- Ông chấp nhận đời mình đã xong; không còn sợ hãi hay ham muốn nào ngăn ông với Tự nhiên. Trong vũ trụ, cả thế giới chỉ là một chấm; châu Á, châu Âu là hạt bụi, đại dương là giọt nước, núi cao nhất là đụn cát (6.36). Bi kịch đời cá nhân thu lại nhỏ như đầu kim; còn gì để kinh ngạc?
-- Vũ trụ là một sinh thể duy nhất có thân và một ý thức (4.40); tâm trí mỗi người là một hạt của tâm trí lớn; mỗi người như một chi của cơ thể lớn, cùng phối hợp dù có biết hay không; mọi sự đan vào một tấm vải nhân quả duy nhất.
-- Trước kia ông phải gắng sức mới liên tưởng được đến toàn thể; nay, buông sợ và muốn, ông thấy toàn thể rõ và thật hơn mọi thứ. Cuộc đời, quan điểm riêng của ông trước đây như làn khói che Tự nhiên.
+Tâm hồn có sức tự giải thoát khỏi vô số chuyện vụn vặt bằng cách nâng mình lên, chiêm ngưỡng toàn thể và thấy mọi thứ cá nhân chóng tàn đến đâu so với vĩnh cửu. Mở rộng tâm trí vượt lên những gì "bên dưới" làm con người trở nên cao thượng; đây là ý *megalopsychia*, "tâm hồn lớn".
+
+Linh hồn bay lên tự do khi không còn bị sợ hãi và ham muốn vật chất kéo xuống, và trở về nơi xuất xứ của nó như một mảnh của toàn thể vũ trụ.
+
+Ông cảm ơn thần linh vì đã được khuyến khích hình dung vũ trụ cùng sự rộng lớn của không gian và thời gian. Đặt mọi việc riêng vào tương quan ấy, chúng nhỏ hơn hạt quả vả và ngắn như một cái ngoảnh mặt (đoạn 10.17). Điều mắt không thấy được thì lý trí vẫn nắm được.
+
+Ông hình dung bầu trời như một quả cầu trong suốt chứa mọi sinh linh, các vì sao, mặt trời, mặt trăng, đất và biển, như thể có thể cầm trong tay. Từ góc nhìn ấy, cáu giận với vũ trụ vì rắc rối của riêng mình chẳng khác gì khóc vì một vết xước trên ngón tay.
+
+Ông chấp nhận rằng đời mình đã xong; không còn nỗi sợ hay ham muốn nào ngăn cách ông với Tự nhiên. Trong vũ trụ, cả trái đất chỉ là một chấm; châu Á, châu Âu là những hạt bụi; đại dương là một giọt nước; ngọn núi cao nhất là một đụn cát (đoạn 6.36). Bi kịch của đời một cá nhân thu lại nhỏ như đầu kim; còn gì để kinh ngạc nữa?
+
+Vũ trụ là một sinh thể duy nhất, có một thân và một ý thức (đoạn 4.40). Tâm trí mỗi người là một hạt của tâm trí lớn ấy; mỗi người như một chi của cơ thể lớn, cùng phối hợp với nhau dù có biết hay không; mọi sự kiện đan vào một tấm vải nhân quả duy nhất.
+
+Trước kia ông phải gắng sức mới liên tưởng được đến toàn thể. Nay, khi đã buông nỗi sợ và ham muốn, ông thấy toàn thể rõ và thật hơn bất cứ thứ gì. Cuộc đời và những quan điểm riêng của ông trước đây hoá ra chỉ như làn khói che khuất Tự nhiên.
 
 ### Hai việc duy nhất (tr. 222–223)
 
-- Khi linh hồn mở rộng tới mức hoà với Tự nhiên vô hạn, ông thấy thời gian và chỗ đứng mỗi người được chia nhỏ bé đến đâu, và kết luận: không gì làm nên khoảnh khắc lớn ngoài hai việc. Thứ nhất, theo bản tính của loài có lý trí, đặt mình dưới quyền lý trí. Thứ hai, đón nhận khôn ngoan và bình thản mọi điều Tự nhiên gửi đến: tiện nghi hay đau đớn, khen hay chê, sống hay chết.
+Khi linh hồn mở rộng tới mức hoà vào Tự nhiên vô hạn, ông thấy rõ thời gian và chỗ đứng chia cho mỗi người nhỏ bé đến mức nào. Từ đó ông kết luận rằng không có gì làm nên một khoảnh khắc lớn lao, ngoài hai việc:
+
+1. **Sống theo bản tính lý trí.** Con người là loài có lý trí, nên việc đúng với bản tính của mình là đặt mọi hành động dưới quyền của lý trí.
+2. **Đón nhận bình thản mọi điều Tự nhiên gửi đến**, một cách khôn ngoan, dù đó là tiện nghi hay đau đớn, lời khen hay lời chê, sống hay chết.
+
+Hai việc này là bản tóm tắt của cả bài: việc thứ nhất nói về những gì thuộc quyền ta, việc thứ hai nói về cách đối xử với những gì không thuộc quyền ta.
 
 ### Giữa các vì sao (tr. 223–225)
 
-- Khoảng cách giữa biết và thấy biến mất. Ông thấy các chòm sao vây quanh như trên tường đền thờ thần Mithras, và trôi giữa chúng như thuyền trên mặt nước phẳng.
-- Các vì sao tinh khiết, đi đúng quỹ đạo, khác hẳn con người: người cũng mang ánh sáng thần thánh nhưng giấu sâu bên trong, còn bên ngoài sống như tù nhân bị dìm trong bùn bởi sự điên rồ và tham lam của chính mình.
-- Tâm trí hiền nhân như ngôi sao, như mặt trời. Ông may mắn được thấy điều đó nơi người thật: Apollonius, Junius Rusticus, Claudius Maximus (các thầy được cảm ơn ở Quyển 1), những người cho thấy sống khôn ngoan, đức hạnh, thuận tự nhiên là thế nào. Nay, rời các ràng buộc trần thế, ông thấy linh hồn mình được gột rửa, lộ ra chút ánh sáng ông từng thấy lờ mờ nơi các thầy.
-- Tâm trí rời thân, tự do theo bản tính thật. Mặt trời không bao giờ làm việc của mưa hay gió (6.43); mỗi vì sao "nói" rằng nó sinh ra cho việc của riêng nó (8.19). Ông sinh ra để theo bản tính mình, vươn tới trí tuệ.
-- Các vì sao khác nhau nhưng cùng làm nên một bầu trời: con người cũng nên suốt đời kiên nhẫn đạt tới ánh sáng trí tuệ bên trong, để nó soi và giúp người khác; độc lập mà vẫn là phần của nhân loại, sống hoà thuận với đồng loại. Phái Pythagoras đúng khi bảo ngắm sự tinh khiết, giản dị của sao trời gột rửa bụi trần (11.27).
-- Tia sáng mặt trời (Apollo) toả mọi hướng mà không đứt, chạm và soi rõ mọi vật mà không mất tinh khiết, không đổi hướng như gió, không bị thấm như mưa. Tâm trí người khôn ngoan như vậy: soi mọi thứ mà không vướng vào; thứ gì không đón ánh sáng tự chìm vào bóng tối (8.57).
+Khoảng cách giữa biết và thấy biến mất. Ông thấy các chòm sao vây quanh mình như hình vẽ trên trần đền thờ thần Mithras, và trôi giữa chúng như chiếc thuyền trên mặt nước phẳng lặng.
+
+Các vì sao tinh khiết và đi đúng quỹ đạo của mình, khác hẳn con người. Con người cũng mang ánh sáng thần thánh, nhưng giấu sâu bên trong; bên ngoài, họ sống như tù nhân bị dìm trong bùn bởi sự điên rồ và lòng tham của chính mình.
+
+Tâm trí hiền nhân giống như ngôi sao, như mặt trời. Ông thấy mình may mắn vì đã được gặp hình mẫu ấy nơi người thật: Apollonius, Junius Rusticus, Claudius Maximus, những người thầy mà ông cảm ơn ở Quyển 1 của *Suy tưởng*. Họ cho ông thấy sống khôn ngoan, đức hạnh và thuận theo tự nhiên là như thế nào. Nay, khi rời các ràng buộc trần thế, ông thấy linh hồn mình được gột rửa, lộ ra chút ánh sáng mà ông từng thấy lờ mờ nơi các thầy.
+
+Tâm trí rời khỏi thân xác thì được tự do sống theo bản tính thật của nó. Mặt trời không bao giờ làm việc của mưa hay của gió (đoạn 6.43); mỗi vì sao như "nói" rằng nó sinh ra cho công việc riêng của nó (đoạn 8.19). Ông cũng sinh ra để theo bản tính của mình, tức là vươn tới trí tuệ.
+
+Các vì sao khác nhau nhưng cùng làm nên một bầu trời. Con người cũng vậy: nên kiên nhẫn suốt đời để đạt tới ánh sáng trí tuệ bên trong, để nó soi đường và giúp người khác; độc lập mà vẫn là một phần của nhân loại, sống hoà thuận với đồng loại. Phái Pythagoras đã đúng khi khuyên ngắm sự tinh khiết và giản dị của sao trời để gột rửa bụi trần (đoạn 11.27).
+
+Tia sáng mặt trời, tức thần Apollo, toả ra mọi hướng mà không bị đứt; nó chạm vào và soi rõ mọi vật mà không mất đi sự tinh khiết, không đổi hướng như gió, không bị thấm ướt như mưa. Tâm trí người khôn ngoan cũng thế: soi sáng mọi thứ mà không bị vướng vào; thứ gì không đón nhận ánh sáng thì tự chìm vào bóng tối (đoạn 8.57).
 
 ### Tâm trí là của ta, ngoại vật là "không khác biệt" (tr. 225–226)
 
-- Trí tuệ thuần khiết như lửa mặt trời, nuốt mọi thứ chắn đường để cháy sáng hơn; lý trí cũng biến chướng ngại thành nhiên liệu nếu người ta hiểu sức mạnh của nó và tìm được cách ứng xử đúng phẩm cách trong từng hoàn cảnh (4.1).
-- Ta được giao chăm sóc cơ thể yếu ớt cùng cảm xúc bất kham của nó, nhưng chỉ tâm trí mới thật sự thuộc về ta (12.3). Hiểu ngoại vật là thay đổi, chóng tàn và "không khác biệt", ta cắt được dây ràng buộc; cắt dây với quá khứ và tương lai, sống trọn trong hiện tại, ta tự do sống theo bản tính thần thánh của tâm trí.
-- Sức khoẻ, của cải, danh tiếng không tốt không xấu; chúng là cơ hội người khôn ngoan dùng, kẻ dại phung phí. Của cải không làm tâm hồn tốt hơn, như yên ngựa vàng không làm con ngựa tốt hơn. Ta tự làm hỏng mình khi lẫn lộn bản chất của ngoại vật và của tâm hồn.
-- Empedocles: vượt lên ngoại vật, tâm trí hiền nhân thành khối cầu hoàn hảo, không vươn ra để hoà lẫn với bên ngoài cũng không né tránh, ánh sáng toả đều, trọn vẹn, tròn, sáng; không gì bám vào làm hại được (8.41, 12.3).
+Trí tuệ thuần khiết giống như ngọn lửa mặt trời: nó nuốt mọi thứ chắn đường để cháy sáng hơn. Lý trí cũng biến chướng ngại thành nhiên liệu, miễn là người ta hiểu sức mạnh của nó và tìm được cách ứng xử đúng phẩm cách trong từng hoàn cảnh (đoạn 4.1). Một khó khăn, nhìn bằng lý trí, trở thành dịp để rèn đức hạnh.
+
+Ta được giao chăm sóc một cơ thể yếu ớt cùng những cảm xúc bất kham của nó, nhưng chỉ có tâm trí là thật sự thuộc về ta (đoạn 12.3). Khi hiểu rằng ngoại vật luôn thay đổi, chóng tàn và "không khác biệt", ta cắt được sợi dây ràng buộc với chúng. Khi cắt cả dây nối với quá khứ và tương lai để sống trọn trong hiện tại, ta tự do sống theo bản tính thần thánh của tâm trí.
+
+Sức khoẻ, của cải, danh tiếng không tốt cũng không xấu. Chúng là cơ hội mà người khôn ngoan biết dùng và kẻ dại phung phí. Của cải không làm tâm hồn tốt hơn, cũng như chiếc yên vàng không làm con ngựa tốt hơn. Ta tự làm hỏng mình khi lẫn lộn bản chất của ngoại vật với bản chất của tâm hồn.
+
+Hình ảnh cuối của đoạn này mượn từ Empedocles: khi đã vượt lên ngoại vật, tâm trí hiền nhân trở thành một khối cầu hoàn hảo. Nó không vươn ra để hoà lẫn với bên ngoài, cũng không co lại để né tránh; ánh sáng của nó toả đều, trọn vẹn, tròn và sáng; không gì bám vào được để làm hại nó (đoạn 8.41 và 12.3).
 
 ### Lời từ biệt (tr. 226–227)
 
-- Ông vẫn cảm thấy đau, chỗ còn rỉ máu, rùng mình dưới chăn, nhưng tất cả như ở rất xa. Biết lần mê tới sẽ là lần cuối, ông muốn từ biệt thân xác và sự sống bình thản, không miễn cưỡng, đến với cái chết như bạn già chứ không phải kẻ thù.
-- Ông tự nhắc lời Khắc kỷ (diễn lại 2.17): cả đời chỉ là khoảnh khắc so với toàn bộ thời gian; giác quan mờ dần, thân thể sẽ phân huỷ; hồn là một luồng khí đổi mới theo hơi thở, vận mệnh bất định, danh tiếng không đáng tin; mọi thứ thuộc thân là dòng chảy, mọi thứ thuộc hồn là giấc mơ; đời là cuộc chinh chiến nơi đất lạ, danh tiếng sau khi chết là quên lãng.
-- Vậy cái gì dẫn đường? Chỉ triết học, tình yêu trí tuệ. Cụ thể: giữ phần thần thánh bên trong khỏi xáo động và tổn hại, đứng trên cả đau đớn lẫn khoái lạc; không làm gì vô mục đích, sai trái hay giả dối, bất kể người khác làm gì; đón nhận mọi việc như đến từ cùng nguồn với mình; và trên hết, khiêm nhường, bình thản chờ chết như sự tách rời của các thành phần.
-- Lập luận khép lại: nếu chính các thành phần không hề chịu tổn hại khi liên tục biến đổi từ dạng này sang dạng khác, thì sự tách rời cuối cùng có gì đáng sợ? Đó là thuận tự nhiên, mà điều thuận tự nhiên thì không thể xấu.
-- Cảnh cuối: có lẽ bình minh sắp tới, nhưng mắt ông đã tối; ông sẽ không sống tới lúc mặt trời mọc lần nữa, và điều đó cũng chẳng khác gì.
+Ông vẫn cảm thấy đau, chỗ vết thương còn rỉ máu, người rùng mình dưới chăn, nhưng tất cả như đang ở rất xa. Biết rằng lần mê man tới sẽ là lần cuối, ông muốn từ biệt thân xác và sự sống một cách bình thản, không miễn cưỡng, đến với cái chết như với một người bạn già chứ không phải một kẻ thù.
+
+Ông tự nhắc lại lời dạy Khắc kỷ, diễn lại đoạn 2.17 của *Suy tưởng*. Cả đời người chỉ là một khoảnh khắc so với toàn bộ thời gian. Giác quan mờ dần, thân thể sẽ phân huỷ. Linh hồn là một luồng khí đổi mới theo từng hơi thở; vận mệnh bất định; danh tiếng không đáng tin. Mọi thứ thuộc về thân là một dòng chảy, mọi thứ thuộc về hồn là một giấc mơ. Đời là một cuộc chinh chiến nơi đất lạ, và danh tiếng sau khi chết là quên lãng.
+
+Vậy cái gì dẫn đường cho con người? Chỉ có một thứ: triết học, tức tình yêu trí tuệ. Cụ thể, triết học dạy:
+
+- giữ phần thần thánh bên trong khỏi xáo động và tổn hại, đứng trên cả đau đớn lẫn khoái lạc;
+- không làm gì vô mục đích, sai trái hay giả dối, bất kể người khác làm gì;
+- đón nhận mọi việc xảy đến như thể chúng đến từ cùng một nguồn với chính mình;
+- và trên hết, khiêm nhường, bình thản chờ cái chết như sự tách rời của các thành phần tạo nên mình.
+
+Lập luận khép lại toàn bài: các thành phần của ta vẫn liên tục biến đổi từ dạng này sang dạng khác mà không hề bị tổn hại; vậy sự tách rời cuối cùng của chúng có gì đáng sợ? Đó là việc thuận theo tự nhiên, mà điều gì thuận theo tự nhiên thì không thể là điều xấu.
+
+Cảnh cuối: có lẽ bình minh sắp tới, nhưng mắt ông đã tối. Ông sẽ không sống được tới lúc mặt trời mọc thêm lần nữa, và điều đó cũng chẳng có gì khác biệt. Hình ảnh mặt trời mọc khép lại vòng tròn đã mở ra từ cảnh đầu tiên.
 
 ## Nội dung chính và luận điểm
 

@@ -134,142 +134,203 @@
 2. **Vì sao không phải sợ chết?** Vì nếu có thần linh quan tâm thì không có gì đáng sợ, còn nếu không có thì một thế giới như thế chẳng đáng níu; vì chết là quá trình tự nhiên, có ích cho toàn thể; vì những thứ đến với cả người tốt lẫn người xấu thì không thể là xấu thật; và vì chết chỉ lấy đi hiện tại, thứ mà người sống lâu hay chết trẻ đều chỉ có bấy nhiêu.
 3. **Giữa một đời ngắn và bấp bênh, cái gì dẫn đường được?** Chỉ có triết học, hiểu là việc giữ phần lý trí bên trong an toàn, đứng trên sướng và khổ, không dối trá, không lệ thuộc vào người khác, chấp nhận điều xảy đến và đón cái chết bình thản.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Phần dẫn dắt và vị thần bên trong (hegemonikon, daimon).** Theo Khắc kỷ, con người gồm thân thể, hơi thở (*pneuma*, khí sống) và phần lý trí điều khiển mọi suy nghĩ, lựa chọn, gọi là *hegemonikon*, "phần chỉ huy". Marcus còn gọi phần này là *daimon*, vị thần bên trong mỗi người, vì nó là một mảnh của lý trí vũ trụ. Ví dụ trong quyển: ở mục 2.2, Marcus chia mình làm 3 phần, "chút thịt, chút hơi thở, và phần trí tuệ dẫn dắt", và nói chỉ phần thứ ba là đáng giữ. Khái niệm này là trục của cả quyển: mọi lời tự nhắc đều nhằm giữ phần dẫn dắt "sạch" và tự do.
+
+**Nghĩ trước điều xấu (praemeditatio malorum).** Kỹ thuật dự liệu trước những khó khăn sẽ gặp để khi chúng đến, ta không bị bất ngờ và không phản ứng theo cơn. Đây không phải bi quan, mà là chuẩn bị. Ví dụ trong quyển: mỗi sáng Marcus tự nhủ rằng hôm nay sẽ gặp 6 loại người khó chịu: phiền phức, vô ơn, ngạo mạn, gian dối, ghen tị, cáu kỉnh (2.1). Kỹ thuật này mở đầu Quyển 2 và là cách Marcus tập không giận.
+
+**Không ai cố ý làm sai.** Luận đề của Socrates mà phái Khắc kỷ kế thừa: người làm điều xấu là vì họ không phân biệt được tốt và xấu, tức vì hiểu sai, chứ không phải vì cố ý chọn cái ác. Ví dụ trong quyển: người làm sai được ví như người mù không phân biệt được trắng và đen (2.13); ta không giận người mù vì họ không thấy màu. Khái niệm này là tiền đề đầu tiên trong lập luận "không giận" ở mục 2.1.
+
+**Adiaphora, "những điều trung tính".** Những thứ không tự nó tốt hay xấu, vì chúng không làm con người tốt lên hay tệ đi: sống và chết, danh và tiếng xấu, đau và sướng, giàu và nghèo. Theo Khắc kỷ, chỉ đức hạnh là thiện và chỉ thói xấu là ác. Ví dụ minh hoạ: một người tốt và một người xấu cùng trúng số 1 tỷ đồng; số tiền ấy không làm người xấu thành tốt hay người tốt thành xấu, nên tự nó là "trung tính". Khái niệm này là kết luận của mục 2.11 và là lý do để không sợ chết.
+
+**Quan phòng (pronoia).** Ý niệm rằng vũ trụ được thần linh hay lý trí của tự nhiên sắp đặt một cách hợp lý, sao cho cái gì tốt cho toàn thể thì cũng tốt cho từng bộ phận. Ví dụ minh hoạ: trong một cơ thể, việc tế bào cũ chết đi để tế bào mới thay thế là có ích cho cả cơ thể dù không "có lợi" cho tế bào cũ; Marcus nhìn cái chết của con người theo cách tương tự (2.12). Khái niệm này là nền của mục 2.3 và của lập luận "thần linh hay không thần linh" ở mục 2.11.
+
+**Thành bang vũ trụ và sự gắn bó với đồng loại (kosmopolis, oikeiosis).** Phái Khắc kỷ coi vũ trụ là một thành bang chung của mọi sinh vật có lý trí, có lý và luật riêng; mỗi người là công dân của nó. Sự gắn bó tự nhiên mà mỗi người dành cho bản thân và gia đình (*oikeiosis*) cần được mở rộng ra toàn nhân loại. Ví dụ trong quyển: người làm sai là "họ hàng" của ta, không chung máu mà chung tâm trí; ta và họ như 2 bàn tay, 2 mi mắt, hàm răng trên và hàm răng dưới của một cơ thể (2.1). Khái niệm này giải thích vì sao giận dữ bị coi là "trái tự nhiên".
+
+**Ấn tượng và phán đoán (phantasia, synkatathesis).** Ấn tượng là những gì giác quan và tâm trí ghi nhận về sự việc; nó chỉ trở thành đau khổ khi ta "chấp thuận" một phán đoán rằng điều đó là xấu. Ví dụ minh hoạ: giá một cổ phiếu giảm 7% là sự việc; câu "mình là kẻ thất bại" là phán đoán ta gắn thêm vào. Ví dụ trong quyển: câu của Monimus "mọi thứ đều chỉ là ý kiến" (2.15). Khái niệm này là ý nền của Epictetus và sẽ trở lại trong mọi quyển sau.
+
+## Nội dung chi tiết
+
+Quyển 2 ngắn, chỉ có 17 mục, nhưng chứa gần như mọi chủ đề lớn của *Suy tưởng*. Có thể gom các mục thành năm mạch:
+
+| Mạch | Mục chính | Ý cốt lõi |
+|---|---|---|
+| Phải sống gấp, không cần sợ chết | 2.2–2.7, 2.11–2.12, 2.17 | Thời gian gần hết; thôi đọc, phải làm; chết là việc của tự nhiên |
+| Chỉ mất được hiện tại | 2.14 | Đời dài hay ngắn như nhau |
+| Không giận người cư xử tệ | 2.1, 2.13, 2.16 | Họ không biết; họ không hại được ta; ta với họ là một cơ thể |
+| Thân thể, hơi thở, tâm trí | 2.2, 2.13, 2.17 | Chỉ phần dẫn dắt là đáng giữ |
+| Năm cách linh hồn tự hạ giá | 2.10, 2.16 | Đều là tách mình khỏi toàn thể và lý trí |
+
+Mạch đầu tiên chạy qua cả quyển như một nhịp trống. Marcus nhắc rằng ông đã già (2.2); thời gian được ban có giới hạn, ông đã hoãn quá lâu và thần linh đã gia hạn nhiều lần (2.4); mỗi người chỉ có một đời, và đời ông đã gần hết (2.6). Từ đó ông rút ra ba mệnh lệnh: thôi đọc thêm sách mà phải làm theo điều sách dạy, và bỏ mọi thứ làm sao nhãng (2.2, 2.3, 2.5, 2.7); làm mỗi việc như việc cuối cùng trong đời (2.5); làm, nói, nghĩ như một người có thể rời bỏ cuộc sống ngay bây giờ (2.11). Và ông đưa ra năm lý do để không sợ chết: nếu có thần linh thì họ không đưa ta đến điều có hại; nếu không có, hay họ không quan tâm, thì sống trong thế giới ấy có gì đáng (2.11); chết là quá trình tự nhiên, chỉ trẻ con mới sợ, lại có ích cho tự nhiên (2.12); chết là các thành phần phân rã để tạo vật khác, mà các nguyên tố không bị hại gì khi chuyển từ vật này sang vật khác (2.17); và không gì thuận tự nhiên lại là xấu (2.17).
 
 ### Mục 1: lời tự nhủ buổi sáng
 
-- Mỗi sáng thức dậy, Marcus tự chuẩn bị tinh thần: hôm nay sẽ gặp người phiền phức, vô ơn, ngạo mạn, gian dối, ghen tị, cáu kỉnh. Đây không phải bi quan mà là **dự liệu trước** (phái Khắc kỷ gọi là *praemeditatio malorum*, nghĩ trước điều xấu), để không bị bất ngờ.
-- Lập luận vì sao không giận họ, theo từng bước:
-  - **Nguyên nhân:** họ cư xử như vậy vì không biết đâu là tốt, đâu là xấu. Đây là luận đề của Socrates mà phái Khắc kỷ kế thừa: không ai cố ý làm điều sai, cái sai là do hiểu sai.
-  - **Vị thế của ta:** ta đã thấy được vẻ đẹp của điều thiện và sự xấu của điều ác, nên có trách nhiệm hơn họ.
-  - **Quan hệ:** người làm sai là họ hàng của ta, không phải vì cùng huyết thống mà vì cùng có một tâm trí, cùng một phần thần tính.
-  - **Không bị hại:** không ai trong số họ làm hại được ta, vì cái duy nhất có thể bị hại thật là phẩm chất của ta; cũng không ai ép được ta làm điều xấu.
-  - **Hình ảnh cơ thể:** con người sinh ra để làm việc cùng nhau như hai bàn chân, hai bàn tay, hai mi mắt, hàm răng trên và hàm răng dưới. Chống lại nhau là trái tự nhiên; mà nổi giận hay quay lưng với ai chính là chống lại họ.
-- Kết luận: ta không thể giận hay ghét họ.
+Mỗi sáng thức dậy, Marcus tự chuẩn bị tinh thần: hôm nay ta sẽ gặp những người phiền phức, vô ơn, ngạo mạn, gian dối, ghen tị, cáu kỉnh. Đây không phải lời than đời của người chán ghét nhân loại, mà là kỹ thuật dự liệu trước (*praemeditatio malorum*), để không bị bất ngờ và không phản ứng theo cơn.
+
+Phần dài nhất của mục là lập luận vì sao không giận những người đó, đi theo từng bước:
+
+1. **Nguyên nhân.** Họ cư xử như vậy vì không biết đâu là tốt, đâu là xấu. Đây là luận đề của Socrates mà phái Khắc kỷ kế thừa: không ai cố ý làm điều sai; cái sai là do hiểu sai.
+2. **Vị thế của ta.** Ta đã thấy được vẻ đẹp của điều thiện và sự xấu của điều ác, nên ta có trách nhiệm hơn họ. Người biết mà giận người không biết là đòi hỏi ở họ điều họ chưa có.
+3. **Quan hệ.** Người làm sai là họ hàng của ta, không phải vì cùng huyết thống mà vì cùng có một tâm trí, cùng mang một phần thần tính.
+4. **Không bị hại.** Không ai trong số họ làm hại được ta, vì cái duy nhất có thể bị hại thật là phẩm chất của ta, mà phẩm chất ấy chỉ do ta quyết định. Cũng không ai ép được ta làm điều xấu.
+5. **Hình ảnh cơ thể.** Con người sinh ra để làm việc cùng nhau, như hai bàn chân, hai bàn tay, hai mi mắt, hàm răng trên và hàm răng dưới. Chống lại nhau là trái tự nhiên; mà nổi giận hay quay lưng với ai chính là chống lại họ.
+
+Kết luận: ta không thể giận hay ghét họ. Mục 2.13 bổ sung thái độ đúng: với điều thần thánh thì kính, với con người thì thương vì họ giống ta, và đôi khi thương hại vì họ không biết. Mục 2.16 thêm rằng giận dữ và âm mưu hại người là một cách linh hồn tự làm mất giá trị của chính nó.
 
 ### Mục 2: thân thể, hơi thở, tâm trí
 
-- Ta gồm ba phần: chút thịt, chút hơi thở, và phần trí tuệ dẫn dắt.
-- Mệnh lệnh: bỏ sách xuống, đừng để bị phân tán nữa, việc đó không còn được phép. Hãy sống như người sắp chết.
-- Với thân thể: coi nhẹ nó, nó chỉ là máu, xương và một mớ dây thần kinh, tĩnh mạch, động mạch đan vào nhau.
-- Với hơi thở: nó chỉ là không khí, không bao giờ giữ nguyên, lúc nào cũng thở ra rồi hút vào.
-- Với tâm trí: ta đã già rồi, đừng để nó làm nô lệ nữa, đừng để nó bị giật như con rối bằng những sợi dây ham muốn ích kỷ, đừng để nó phàn nàn về số phận hôm nay hay lo sợ về ngày mai.
-- Đây là kỹ thuật "nhìn trần trụi" mà Marcus dùng suốt sách: mô tả một thứ bằng các thành phần vật chất của nó để tước đi vẻ quan trọng giả tạo.
+Marcus chia con người làm ba phần: chút thịt, chút hơi thở, và phần trí tuệ dẫn dắt. Rồi ông ra lệnh cho chính mình: bỏ sách xuống, đừng để bị phân tán nữa, vì việc đó không còn được phép; hãy sống như một người sắp chết.
+
+Với từng phần, ông có một thái độ riêng:
+
+- **Thân thể:** hãy coi nhẹ nó; nó chỉ là máu, xương và một mớ dây thần kinh, tĩnh mạch, động mạch đan vào nhau. Ở mục 2.17, ông nói thêm rằng thân thể tự phân huỷ, chảy trôi như một dòng sông.
+- **Hơi thở** (*pneuma*): nó chỉ là không khí, không bao giờ giữ nguyên, lúc nào cũng thở ra rồi hít vào, đổi từng giây. Ở mục 2.17, linh hồn theo nghĩa này được ví như giấc mơ, màn sương.
+- **Tâm trí** (*hegemonikon*): ta đã già rồi, đừng để nó làm nô lệ nữa, đừng để nó bị giật như con rối bằng những sợi dây ham muốn ích kỷ, đừng để nó phàn nàn về số phận hôm nay hay lo sợ về ngày mai.
+
+Cách mô tả này là kỹ thuật "nhìn trần trụi" mà Marcus dùng suốt sách: mô tả một thứ bằng các thành phần vật chất của nó để tước đi vẻ quan trọng giả tạo. Khi thân thể chỉ là "máu và xương", việc chiều chuộng nó mất đi sức hút; khi đó, phần duy nhất còn đáng chăm là tâm trí. Ở mục 2.13, Marcus gọi việc chăm sóc tâm trí là "tôn kính" nó, tức giữ nó sạch khỏi rối loạn, khỏi sự vô định và khỏi sự bất mãn với thần và người. Ở mục 2.17, ông nói phải giữ nó an toàn, tự do, đứng trên sướng và đau, không dối trá, không phụ thuộc ai; và chỉ có triết học dẫn đường được cho việc đó.
 
 ### Mục 3: quan phòng và đổi thay
 
-- Mọi việc thần linh làm đều có quan phòng, tức có sắp đặt hợp lý. Ngay cả may rủi cũng không nằm ngoài tự nhiên, ngoài tấm lưới đan cài của vạn vật do quan phòng điều khiển. Mọi thứ đều đến từ đó.
-- Ngoài ra còn có sự tất yếu và nhu cầu của toàn thể vũ trụ, mà ta là một phần. Cái gì tự nhiên toàn thể tạo ra, cái gì giúp duy trì nó, thì cũng tốt cho mỗi bộ phận.
-- Vũ trụ được giữ vững chính bằng **sự đổi thay**: biến đổi của các nguyên tố và của những vật được tạo từ chúng.
-- Chỉ cần nắm chắc điều này như nguyên tắc sống. Bỏ cơn khát sách, để khi chết không cay đắng mà vui vẻ, thành thật và biết ơn thần linh từ đáy lòng.
+Mọi việc thần linh làm đều có quan phòng, tức có sự sắp đặt hợp lý. Ngay cả may rủi cũng không nằm ngoài tự nhiên, ngoài tấm lưới đan cài của vạn vật do quan phòng điều khiển; mọi thứ đều đến từ đó.
+
+Ngoài ra còn có sự tất yếu và nhu cầu của toàn thể vũ trụ, mà ta là một phần. Cái gì tự nhiên của toàn thể tạo ra, cái gì giúp duy trì nó, thì cũng tốt cho mỗi bộ phận. Và vũ trụ được giữ vững chính bằng sự đổi thay: sự biến đổi của các nguyên tố, và của những vật được tạo ra từ chúng. Đổi thay, theo cách nhìn này, không phải là mối đe doạ mà là cách vũ trụ tồn tại.
+
+Marcus kết: chỉ cần nắm chắc những điều này như nguyên tắc sống. Hãy bỏ cơn khát sách, để khi chết, ta không chết trong cay đắng mà vui vẻ, thành thật và biết ơn thần linh từ đáy lòng.
 
 ### Mục 4: đừng trì hoãn nữa
 
-- Hãy nhớ mình đã hoãn bao lâu, đã được thần linh cho thêm hạn bao nhiêu lần mà không dùng.
-- Đến lúc phải hiểu mình thuộc về vũ trụ nào, mình xuất phát từ quyền năng nào đang điều hành nó.
-- Thời gian của ta có giới hạn; nếu không dùng nó để giải phóng mình (làm trong sáng tâm trí), nó sẽ qua đi và không quay lại.
+Marcus tự nhắc mình đã trì hoãn bao lâu, và đã được thần linh cho thêm hạn bao nhiêu lần mà không dùng. Đến lúc phải hiểu mình thuộc về vũ trụ nào, và mình xuất phát từ quyền năng nào đang điều hành vũ trụ ấy. Thời gian của ta có giới hạn; nếu không dùng nó để giải phóng mình, tức làm cho tâm trí trong sáng, thì nó sẽ qua đi và không bao giờ quay lại.
 
 ### Mục 5: làm mỗi việc như việc cuối cùng
 
-- Từng lúc, hãy tập trung như một người La Mã, như một con người, vào việc trước mắt: làm cho chính xác, nghiêm túc, tận tâm, công bằng.
-- Gạt bỏ mọi thứ khác. Làm được điều đó nếu làm mỗi việc như thể là việc cuối cùng của đời mình.
-- Muốn thế phải bỏ: hành động tuỳ tiện không mục đích, để cảm xúc lấn át lý trí, đạo đức giả, ích kỷ, và bực bội với phần số của mình.
-- Lý lẽ an ủi: những gì cần để sống một đời trọn vẹn và đáng kính là **rất ít**; làm được những điều ấy thì thần linh cũng không đòi gì hơn.
+Từng lúc, hãy tập trung như một người La Mã, như một con người, vào việc ngay trước mắt, và làm nó cho chính xác, nghiêm túc, tận tâm, công bằng. Gạt bỏ mọi thứ khác. Điều đó làm được nếu ta làm mỗi việc như thể đó là việc cuối cùng của đời mình.
+
+Muốn vậy, phải bỏ năm thứ: hành động tuỳ tiện không mục đích; để cảm xúc lấn át lý trí; đạo đức giả; ích kỷ; và bực bội với phần số của mình.
+
+Marcus kèm một lý lẽ an ủi: những gì cần để sống một đời trọn vẹn và đáng kính là rất ít. Làm được những điều ít ỏi ấy thì thần linh cũng không đòi gì hơn. Đây là một lời nhắc rằng đức hạnh không đòi hỏi tài năng hay hoàn cảnh đặc biệt.
 
 ### Mục 6: lời trách linh hồn
 
-- Marcus mỉa chính linh hồn mình: cứ tiếp tục tự làm nhục đi. Nhưng thời gian để tự tôn trọng mình sắp hết.
-- Mỗi người chỉ có một cuộc đời, và đời ta gần hết; vậy mà thay vì tôn trọng chính mình, ta lại đặt hạnh phúc của mình vào tâm hồn người khác (vào việc họ nghĩ gì, đánh giá gì).
+Marcus mỉa mai chính linh hồn mình: cứ tiếp tục tự làm nhục đi. Nhưng thời gian để tự tôn trọng mình sắp hết. Mỗi người chỉ có một cuộc đời, và đời ta đã gần hết; vậy mà thay vì tôn trọng chính mình, ta lại đặt hạnh phúc của mình vào tâm hồn người khác, tức vào việc họ nghĩ gì, đánh giá gì về ta. Giọng ở đây rất gắt, gần như một lời mắng, cho thấy Quyển 2 không phải lời của người đã bình thản mà của người đang tự kéo mình ra khỏi sao nhãng.
 
 ### Mục 7: bận rộn không phải là có mục đích
 
-- Chuyện bên ngoài làm ta phân tâm? Hãy dành thời gian học điều gì có ích, và thôi bị kéo đi lung tung.
-- Nhưng phải tránh một kiểu lạc hướng khác: những người làm lụng mệt nhọc cả đời mà không có mục tiêu để hướng mọi hành động và ý nghĩ vào, thì dù chăm chỉ đến mấy vẫn là đang phí đời.
+Chuyện bên ngoài làm ta phân tâm? Hãy dành thời gian học điều gì có ích, và thôi bị kéo đi lung tung.
+
+Nhưng phải tránh một kiểu lạc hướng khác, khó nhận ra hơn: những người làm lụng mệt nhọc cả đời mà không có một mục tiêu để hướng mọi hành động và ý nghĩ vào, thì dù chăm chỉ đến mấy vẫn là đang phí đời. Nói cách khác, bận rộn không phải bằng chứng của sống tốt.
 
 ### Mục 8: nhìn vào tâm trí mình
 
-- Hiếm ai khổ vì không biết trong đầu người khác có gì; nhưng ai không theo dõi chuyển động trong tâm trí chính mình thì chắc chắn sẽ khổ.
+Hiếm ai khổ vì không biết trong đầu người khác có gì; nhưng ai không theo dõi chuyển động trong tâm trí chính mình thì chắc chắn sẽ khổ. Mục ngắn này đặt sự chú ý đúng chỗ: điều ta kiểm soát được là tâm trí mình, nên cần quan sát nó, thay vì đoán lòng người khác.
 
 ### Mục 9: năm điều không được quên
 
-- Bản chất của toàn thể vũ trụ.
-- Bản chất của chính mình.
-- Mình liên hệ với toàn thể ra sao.
-- Mình là phần nào của toàn thể ấy.
-- Và rằng không ai ngăn được mình nói và làm những điều thuận với tự nhiên, mà mình là một phần.
+Marcus liệt kê năm điều phải luôn nhớ:
+
+1. Bản chất của toàn thể vũ trụ.
+2. Bản chất của chính mình.
+3. Mình liên hệ với toàn thể ra sao.
+4. Mình là phần nào của toàn thể ấy.
+5. Và rằng không ai ngăn được mình nói và làm những điều thuận với tự nhiên, mà mình là một phần.
+
+Năm điều này đi từ vũ trụ xuống cá nhân rồi kết bằng một khẳng định về tự do: việc sống đúng luôn nằm trong quyền mình.
 
 ### Mục 10: tội vì ham muốn nặng hơn tội vì giận
 
-- Marcus dẫn Theophrastus (người kế nghiệp Aristotle) khi so sánh các lỗi lầm theo cách người thường so sánh: lỗi do ham muốn đáng trách hơn lỗi do giận. Marcus cho đây là nhận định đúng tinh thần triết học.
-- Lý do: người giận quay lưng với lý trí trong trạng thái **đau đớn** và co thắt bên trong, gần như bị đẩy vào. Người phạm lỗi vì ham muốn, bị khoái lạc chi phối, thì tỏ ra buông thả hơn, kém nam tính hơn.
-- Vì vậy lỗi do khoái lạc đáng bị trách nặng hơn lỗi do đau đớn: người giận giống một nạn nhân bị tổn thương rồi bị đẩy vào cơn giận; người kia tự mình chủ động lao vào điều sai vì ham muốn.
+Marcus dẫn Theophrastus, người kế nghiệp Aristotle, khi so sánh các lỗi lầm theo cách người thường hay so sánh: lỗi do ham muốn đáng trách hơn lỗi do giận. Marcus cho đây là nhận định đúng tinh thần triết học.
+
+Lý do nằm ở trạng thái của người phạm lỗi. Người giận quay lưng với lý trí trong trạng thái đau đớn và co thắt bên trong, gần như bị đẩy vào cơn giận; họ giống một nạn nhân bị tổn thương. Người phạm lỗi vì ham muốn, bị khoái lạc chi phối, thì tỏ ra buông thả hơn, kém nam tính hơn, và tự mình chủ động lao vào điều sai. Vì vậy lỗi do khoái lạc đáng bị trách nặng hơn lỗi do đau đớn.
+
+Với một hoàng đế có quyền làm mọi điều mình thích, đây là một lời tự cảnh giác hợp lý: cám dỗ lớn của quyền lực không phải cơn nóng giận mà là sự hưởng thụ.
 
 ### Mục 11: sống như người có thể ra đi ngay lúc này
 
-- Mệnh đề hành động: hãy để ý nghĩ "ta có thể rời đời ngay bây giờ" quyết định mọi điều ta làm, nói, nghĩ.
-- **Lập luận hai nhánh về thần linh:**
-  - Nếu có thần linh, thì rời bỏ thế giới con người không đáng sợ, vì thần linh không để ta gặp điều xấu.
-  - Nếu không có, hoặc họ không quan tâm đến con người, thì sống trong một thế giới không có thần linh, không có quan phòng thì có nghĩa lý gì?
-- Nhưng Marcus khẳng định: thần linh có, họ có quan tâm, và họ đã đặt hoàn toàn trong quyền ta khả năng không rơi vào điều xấu thật sự. Nếu còn điều gì khác là xấu, họ cũng đã lo để ta tránh được.
-- **Nguyên lý then chốt:** cái gì không làm con người tệ đi thì không thể làm đời người tệ đi.
-- **Lập luận từ sự hoàn hảo của tự nhiên:** tự nhiên của toàn thể không thể bỏ sót những điều xấu ấy vì không biết, hay biết mà bất lực không ngăn hay sửa được; nó cũng không thể vì bất lực hay vụng về mà để điều tốt và điều xấu đến bừa với người tốt lẫn người xấu.
-- **Kết luận:** sống và chết, danh và tiếng xấu, đau và sướng, giàu và nghèo đến với cả người tốt lẫn người xấu như nhau. Chúng không làm ta cao quý hơn hay hèn hạ đi, vậy chúng không phải tốt cũng không phải xấu. Đây là học thuyết *adiaphora* (những điều trung tính).
+**Mệnh đề hành động.** Hãy để ý nghĩ "ta có thể rời đời ngay bây giờ" quyết định mọi điều ta làm, nói và nghĩ.
+
+**Lập luận hai nhánh về thần linh.** Nếu có thần linh, thì rời bỏ thế giới con người không đáng sợ, vì thần linh không để ta gặp điều xấu. Nếu không có thần linh, hoặc họ không quan tâm đến con người, thì sống trong một thế giới không có thần linh, không có quan phòng thì có nghĩa lý gì? Nhánh thứ nhất chặt chẽ; nhánh thứ hai thật ra không chứng minh cái chết không xấu, mà chỉ nói một thế giới như vậy không đáng níu.
+
+Marcus khẳng định tiếp: thần linh có tồn tại, họ có quan tâm, và họ đã đặt hoàn toàn trong quyền ta khả năng không rơi vào điều xấu thật sự. Nếu còn điều gì khác là xấu, họ cũng đã lo để ta tránh được.
+
+**Nguyên lý then chốt.** Cái gì không làm con người tệ đi thì không thể làm đời người tệ đi. Nguyên lý này nói chung về mọi thứ, không riêng cái chết.
+
+**Lập luận từ sự hoàn hảo của tự nhiên.** Tự nhiên của toàn thể không thể bỏ sót những điều xấu ấy vì không biết, hay biết mà bất lực không ngăn hay sửa được. Nó cũng không thể vì bất lực hay vụng về mà để điều tốt và điều xấu đến bừa bãi với người tốt lẫn người xấu.
+
+**Kết luận.** Sống và chết, danh và tiếng xấu, đau và sướng, giàu và nghèo đến với cả người tốt lẫn người xấu như nhau. Chúng không làm ta cao quý hơn hay hèn hạ đi, vậy chúng không phải tốt cũng không phải xấu. Đây là học thuyết *adiaphora*, những điều trung tính.
 
 ### Mục 12: lý trí nhìn thấu mọi thứ
 
-- Mọi thứ tan biến nhanh: thân xác tan vào vũ trụ, ký ức về chúng tan vào thời gian.
-- Lý trí phải nhìn rõ bản chất của những gì giác quan đem lại, nhất là ba thứ: cái quyến rũ ta bằng khoái lạc, cái doạ ta bằng đau đớn, cái được tung hô bằng hư danh. Thấy chúng rẻ rúng, đáng khinh, bẩn thỉu, dễ mục và đã chết.
-- Phải hỏi: những người mà lời nói và ý kiến của họ tạo nên hay phá hỏng tiếng tăm thật ra là ai?
-- Phải hiểu cái chết là gì: nếu nhìn nó một mình, dùng phân tích gỡ bỏ mọi hình dung bám vào nó, ta sẽ thấy nó chỉ là một hoạt động của tự nhiên. Sợ một hoạt động của tự nhiên là trẻ con. Hơn nữa nó không chỉ là việc của tự nhiên mà còn có ích cho tự nhiên.
-- Và phải hiểu con người chạm tới thần linh bằng phần nào của mình, và phần ấy ở trạng thái nào khi làm thế.
+Mọi thứ tan biến nhanh: thân xác tan vào vũ trụ, ký ức về chúng tan vào thời gian.
+
+Lý trí phải nhìn rõ bản chất của những gì giác quan đem lại, nhất là ba loại: cái quyến rũ ta bằng khoái lạc, cái doạ ta bằng đau đớn, và cái được tung hô bằng hư danh. Nhìn kỹ, ta thấy chúng rẻ rúng, đáng khinh, bẩn thỉu, dễ mục và đã chết.
+
+Phải tự hỏi: những người mà lời nói và ý kiến của họ tạo nên hay phá hỏng tiếng tăm của ta thật ra là ai? Câu hỏi này làm danh tiếng mất đi sức nặng, vì nó phụ thuộc vào những người cũng không biết rõ tốt xấu.
+
+Phải hiểu cái chết là gì. Nếu nhìn nó một mình và dùng phân tích gỡ bỏ mọi hình dung bám vào nó, ta sẽ thấy nó chỉ là một hoạt động của tự nhiên. Sợ một hoạt động của tự nhiên là trẻ con. Hơn nữa, cái chết không chỉ là việc của tự nhiên mà còn có ích cho tự nhiên, vì nó nhường chỗ cho những gì mới.
+
+Và phải hiểu con người chạm tới thần linh bằng phần nào của mình, và phần ấy ở trạng thái nào khi làm thế. Câu trả lời ngầm là phần lý trí dẫn dắt, ở trạng thái trong sạch.
 
 ### Mục 13: đừng soi vào lòng người, hãy chăm phần thần tính bên trong
 
-- Không ai đáng thương bằng kẻ chạy vòng quanh khắp nơi, "đào bới những thứ dưới lòng đất" (câu của nhà thơ Pindar), đoán xem trong lòng người xung quanh có gì, mà không nhận ra chỉ cần chú tâm vào **cái thần tính bên trong** (*daimon*) và phụng sự nó.
-- Phụng sự nó nghĩa là giữ nó khỏi đam mê, khỏi sự tuỳ tiện, khỏi bất mãn với những gì thần linh và con người làm.
-- Với việc của thần linh: kính trọng, vì chúng tốt. Với việc của con người: thương, vì họ là đồng loại; đôi khi thương hại, vì họ không biết tốt xấu, một sự mù lòa không kém việc mù không phân biệt được trắng đen.
+Không ai đáng thương bằng kẻ chạy vòng quanh khắp nơi, "đào bới những thứ dưới lòng đất" (câu của nhà thơ Pindar), cố đoán xem trong lòng người xung quanh có gì, mà không nhận ra rằng chỉ cần chú tâm vào cái thần tính bên trong mình (*daimon*) và phụng sự nó.
+
+Phụng sự nó nghĩa là giữ nó khỏi đam mê, khỏi sự tuỳ tiện, khỏi sự bất mãn với những gì thần linh và con người làm.
+
+Thái độ đúng với hai loại việc: với việc của thần linh thì kính trọng, vì chúng tốt; với việc của con người thì thương, vì họ là đồng loại, và đôi khi thương hại, vì họ không biết tốt xấu. Sự không biết ấy là một kiểu mù lòa, không kém việc người mù không phân biệt được trắng và đen.
 
 ### Mục 14: chỉ mất được hiện tại
 
-- Dù sống ba nghìn năm hay ba mươi nghìn năm, ta không mất cuộc đời nào khác ngoài cuộc đời đang sống, và không sống cuộc đời nào khác ngoài cuộc đời đang mất.
-- Vì vậy đời dài nhất và đời ngắn nhất thành ra như nhau. Hiện tại thì ai cũng có như nhau, nên cái mất đi cũng như nhau: chỉ là một khoảnh khắc.
-- Không ai mất được quá khứ hay tương lai, vì làm sao mất được cái mình không có?
-- Hai điều cần nhớ:
-  - Mọi thứ từ muôn đời vẫn thế, lặp lại theo vòng; nhìn cùng những điều ấy trong một trăm năm, hai trăm năm hay vô tận thì cũng chẳng khác gì.
-  - Người sống lâu nhất và người chết sớm nhất mất cùng một thứ: hiện tại, vì đó là tất cả những gì họ có, và không ai mất được cái mình không có.
+Dù sống 3.000 năm hay 30.000 năm, ta cũng không mất cuộc đời nào khác ngoài cuộc đời đang sống, và không sống cuộc đời nào khác ngoài cuộc đời đang mất. Lý do: quá khứ và tương lai không phải của ta, nên không thể mất; làm sao mất được cái mình không có? Cái duy nhất ta có, và do đó cái duy nhất mất được, là khoảnh khắc hiện tại. Vì hiện tại thì ai cũng có như nhau, nên cái mất đi cũng như nhau: chỉ là một khoảnh khắc.
+
+Marcus thêm hai điều cần nhớ:
+
+1. Mọi thứ từ muôn đời vẫn thế, lặp lại theo vòng. Được chứng kiến cùng những điều ấy trong 100 năm, 200 năm hay mãi mãi cũng chẳng thấy thêm gì khác.
+2. Người sống lâu nhất và người chết sớm nhất mất đúng một thứ: hiện tại, vì đó là tất cả những gì họ có.
+
+Kết luận: đời dài nhất và đời ngắn nhất thực chất như nhau. Ví dụ minh hoạ cho cách nghĩ này: người 90 tuổi và người 30 tuổi, khi chết, đều chỉ mất khoảnh khắc đang sống; những năm đã qua của người 90 tuổi đã không còn là của họ từ trước.
 
 ### Mục 15: mọi thứ là cách ta nhìn
 
-- Câu của Monimus, triết gia phái Khuyển nho: mọi thứ đều chỉ là ý kiến, ấn tượng của ta về nó.
-- Lời phản bác thì ai cũng thấy (có những sự thật khách quan). Nhưng câu ấy vẫn rất có ích nếu lấy phần hạt nhân đúng của nó: điều làm ta khổ thường là **phán đoán** của ta về sự việc, không phải sự việc. Đây là ý nền của Epictetus và sẽ trở lại liên tục trong các quyển sau.
+Monimus, triết gia phái Khuyển nho (học trò của Diogenes), nói rằng mọi thứ đều chỉ là ý kiến, là ấn tượng của ta về nó. Lời phản bác thì ai cũng thấy: có những sự thật khách quan, không phụ thuộc ai nghĩ gì. Nhưng câu ấy vẫn rất có ích nếu ta lấy phần hạt nhân đúng của nó: điều làm ta khổ thường là phán đoán của ta về sự việc, không phải bản thân sự việc. Đây là ý nền của Epictetus và sẽ trở lại liên tục trong các quyển sau.
 
 ### Mục 16: năm cách linh hồn tự hạ giá
 
-- (i) Khi nó biến thành một ung nhọt, một khối u trên cơ thể vũ trụ. Bực bội với bất cứ điều gì xảy ra là tách mình khỏi tự nhiên, nơi chứa mọi bản chất riêng.
-- (ii) Khi nó quay lưng với người khác hay tìm cách hại họ, như linh hồn người đang giận.
-- (iii) Khi nó để khoái lạc hay đau đớn chế ngự.
-- (iv) Khi nó giả bộ, làm hay nói điều không thật.
-- (v) Khi nó để hành động và xung lực của mình trôi đi không mục đích, tuỳ tiện, rời rạc. Ngay cả việc nhỏ nhất cũng phải hướng về một mục tiêu; và mục tiêu của sinh vật có lý trí là theo lý và luật của thành bang cổ xưa nhất, tức là vũ trụ.
+Marcus kể năm cách linh hồn tự làm mất giá trị của mình:
+
+1. Khi nó biến thành một ung nhọt, một khối u trên cơ thể vũ trụ. Bực bội với bất cứ điều gì xảy ra là tự tách mình khỏi tự nhiên, nơi chứa mọi bản chất riêng.
+2. Khi nó quay lưng với người khác hay tìm cách hại họ, như linh hồn của người đang giận.
+3. Khi nó để khoái lạc hay đau đớn chế ngự.
+4. Khi nó đeo mặt nạ, giả bộ, làm hay nói điều không thật.
+5. Khi nó để hành động và xung lực của mình trôi đi không mục đích, tuỳ tiện, rời rạc.
+
+Năm cách này có chung một gốc: tách mình khỏi toàn thể và khỏi lý trí. Ngay cả việc nhỏ nhất cũng phải hướng về một mục tiêu; và mục tiêu của sinh vật có lý trí là theo lý và luật của thành bang cổ xưa nhất, tức là vũ trụ. Kết hợp với mục 2.10, ta có thêm một thang đo: trong các lỗi ấy, lỗi do ham muốn khoái lạc nặng hơn lỗi do giận, vì người ham muốn tự chọn lao vào.
 
 ### Mục 17: đời người và thứ duy nhất dẫn đường
 
-- Bản kê về đời người:
-  - thời gian sống: một điểm;
-  - bản chất: luôn chảy trôi;
-  - nhận thức: mờ đục;
-  - thân thể: đang mục rữa;
-  - linh hồn: một vòng xoáy;
-  - vận mệnh: khó đoán;
-  - danh tiếng: không chắc.
-- Tóm lại: thân thể là một dòng sông, linh hồn là giấc mơ và làn khói, đời là chiến tranh và một chuyến đi xa nhà, danh tiếng để lại sẽ bị quên.
-- Vậy cái gì dẫn đường được? Chỉ có triết học. Cụ thể là giữ cho phần thần tính bên trong:
-  - không bị xúc phạm, không bị tổn hại;
-  - đứng trên khoái lạc và đau đớn;
-  - không làm gì tuỳ tiện, giả dối, đạo đức giả;
-  - không lệ thuộc vào việc người khác làm hay không làm;
-  - đón nhận mọi điều xảy đến như đến từ cùng một nguồn với chính nó;
-  - và trên hết, chờ cái chết với tâm thế bình thản, coi nó chỉ là sự tan rã của các nguyên tố cấu thành mọi sinh vật.
-- **Lập luận cuối:** nếu các nguyên tố không bị hại gì khi liên tục chuyển từ vật này sang vật khác, thì vì sao ta phải lo sợ khi tất cả chúng đổi thay và tách ra? Đó là việc của tự nhiên, và không gì thuận tự nhiên là xấu.
+Marcus lập một bản kê ngắn về đời người:
+
+| Khía cạnh | Bản chất |
+|---|---|
+| Thời gian sống | một điểm |
+| Bản chất | luôn chảy trôi |
+| Nhận thức | mờ đục |
+| Thân thể | đang mục rữa |
+| Linh hồn | một vòng xoáy |
+| Vận mệnh | khó đoán |
+| Danh tiếng | không chắc |
+
+Tóm lại: thân thể là một dòng sông, linh hồn là giấc mơ và làn khói, đời là chiến tranh và một chuyến đi xa nhà, danh tiếng để lại sẽ bị quên.
+
+Vậy cái gì dẫn đường được? Chỉ có triết học. Cụ thể, triết học là giữ cho phần thần tính bên trong:
+
+- không bị xúc phạm, không bị tổn hại;
+- đứng trên khoái lạc và đau đớn;
+- không làm gì tuỳ tiện, giả dối, đạo đức giả;
+- không lệ thuộc vào việc người khác làm hay không làm;
+- đón nhận mọi điều xảy đến như thể chúng đến từ cùng một nguồn với chính nó;
+- và trên hết, chờ cái chết với tâm thế bình thản, coi nó chỉ là sự tan rã của các nguyên tố cấu thành mọi sinh vật.
+
+**Lập luận cuối.** Nếu các nguyên tố không bị hại gì khi liên tục chuyển từ vật này sang vật khác, thì vì sao ta phải lo sợ khi tất cả chúng đổi thay và tách ra? Đó là việc của tự nhiên, và không gì thuận theo tự nhiên lại là xấu. Quyển 2 khép lại đúng ở chỗ mạch "không cần sợ chết" đạt tới kết luận của nó.
 
 ## Luận điểm triết học cốt lõi
 

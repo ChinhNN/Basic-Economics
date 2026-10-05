@@ -203,63 +203,192 @@
 2. Tác động có đều nhau trên toàn bộ đường cong lợi suất, từ tín phiếu ba tháng đến trái phiếu dài hạn, không?
 3. Tác động truyền qua những kênh nào, và điều gì giúp giảm nhẹ nó?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Đường cong lợi suất (yield curve).** Đường nối lãi suất mà chính phủ phải trả cho các khoản vay có kỳ hạn khác nhau, từ tín phiếu vài tháng đến trái phiếu nhiều năm, tại cùng một thời điểm. Ví dụ trong bài: năm 2019, lãi suất trung vị của các nước đang phát triển là 4,2% cho kỳ hạn tới ba tháng và 6,3% cho kỳ hạn từ bốn năm trở lên; đường đi lên từ trái sang phải nên gọi là đường cong "dốc lên". Khi lãi ngắn hạn cao hơn lãi dài hạn, đường cong bị "đảo ngược". Khái niệm này quan trọng vì câu hỏi trung tâm của bài là thiên tai đẩy lên một đoạn nào của đường, hay đẩy cả đường.
+
+**Điểm cơ bản (basis point, bp) và điểm phần trăm.** Một điểm cơ bản bằng một phần trăm của một điểm phần trăm, tức 0,01 điểm phần trăm. Ví dụ: lãi suất tăng từ 6,0% lên 7,0% là tăng 1 điểm phần trăm, hay 100 điểm cơ bản; con số "tăng 80–100 điểm cơ bản" của bài tương đương 0,8–1 điểm phần trăm. Bài dùng cả hai đơn vị, nên cần quy đổi để so sánh.
+
+**Nợ trong nước và nợ nước ngoài.** Trong bài, nợ trong nước là chứng khoán do chính phủ trung ương phát hành bằng nội tệ trên thị trường nội địa; nợ nước ngoài thường là trái phiếu quốc tế bằng ngoại tệ. Ví dụ trong bài: ở các nước đang phát triển, nợ trong nước tăng từ khoảng 22% GDP năm 2000 lên khoảng 34% GDP năm 2020, và chiếm tới khoảng 80% tổng tiền lãi phải trả. Phân biệt này quan trọng vì các nghiên cứu trước chỉ đo tác động của khí hậu lên trái phiếu quốc tế, tức là bỏ qua phần nợ đang tốn nhiều tiền lãi nhất.
+
+**Phần bù rủi ro (risk premium).** Phần lãi suất mà người cho vay đòi thêm để bù cho khả năng bị thiệt, ngoài mức lãi họ sẽ chấp nhận với một khoản vay an toàn. Ví dụ minh hoạ: nếu nhà đầu tư chấp nhận cho một nước vay 5% trong điều kiện bình thường nhưng đòi 6% sau một trận hạn hán lớn, thì 1 điểm phần trăm chênh lệch là phần bù rủi ro thiên tai. Bài đi đo chính phần bù này trên thị trường trái phiếu trong nước.
+
+**Cú sốc thiên tai và mức dễ tổn thương khí hậu.** Cú sốc thiên tai là một sự kiện đột ngột, có thời hạn (hạn hán, lũ, bão trong một năm cụ thể). Mức dễ tổn thương khí hậu là đặc điểm cơ cấu, thay đổi chậm, gộp cả mức phơi nhiễm trước rủi ro khí hậu lẫn khả năng chống chịu của một nước. Bài đo mức dễ tổn thương bằng chỉ số ND-GAIN của Đại học Notre Dame, xây từ 74 biến và 45 chỉ báo. Ví dụ trong bài: trung vị của chỉ số này chỉ tăng 0,5 điểm trong 20 năm. Hai loại biến này cho kết quả rất khác nhau, nên đây là phân biệt xương sống của bài.
+
+**Hiệu ứng cố định và sai phân kép (fixed effects, difference-in-differences).** Hiệu ứng cố định nước loại bỏ mọi đặc điểm không đổi của từng nước (ví dụ một nước vốn luôn có lãi suất cao), còn hiệu ứng cố định năm loại bỏ những gì chung cho mọi nước trong một năm (ví dụ khủng hoảng 2008). Sai phân kép so sánh mức thay đổi của nhóm bị cú sốc với mức thay đổi của nhóm không bị cú sốc. Ví dụ minh hoạ: nước A bị hạn hán, lãi tăng từ 8% lên 9,5%; nước B không bị, lãi tăng từ 8% lên 8,5% cùng kỳ; tác động ước lượng của hạn hán là 1,5 trừ 0,5, tức 1 điểm phần trăm. Đây là hai công cụ chính để bài tách tác động của thiên tai khỏi các yếu tố khác.
+
+**Biến công cụ (instrumental variable).** Khi một biến giải thích có thể bị ảnh hưởng ngược bởi biến cần giải thích, người ta dùng một biến khác chỉ tác động lên kết quả thông qua biến giải thích đó, để lấy ra phần biến thiên "sạch". Ví dụ trong bài: mức dễ tổn thương khí hậu có thể bị ảnh hưởng bởi chi phí vay (vay rẻ thì có tiền đầu tư chống chịu), nên bài dùng phần ngoại sinh của chỉ số làm biến công cụ. Độ mạnh của công cụ được kiểm tra bằng thống kê F Cragg–Donald; trong bài nó nằm trong khoảng 12,2–27,5, đủ mạnh theo ngưỡng thông thường. Khái niệm này quan trọng vì toàn bộ kết quả về dễ tổn thương khí hậu dựa vào nó.
+
+**Độ sâu tài chính (financial deepening).** Mức phát triển của hệ thống tài chính, thường đo bằng tín dụng cho khu vực tư nhân chia cho GDP. Hệ thống sâu có nhiều loại nhà đầu tư và công cụ, nên rủi ro được chia sẻ và phân tán. Ví dụ trong bài: hệ số tương tác giữa tín dụng tư nhân/GDP và mức dễ tổn thương là −0,405 với kỳ hạn từ bốn năm trở lên, tức nước có tài chính sâu hơn chịu phần bù khí hậu nhỏ hơn ở đầu dài của đường cong. Đây là kết luận chính sách quan trọng nhất của bài.
+
+## Nội dung chi tiết
 
 ### 1. Bối cảnh
 
-- Biến đổi khí hậu và tần suất thiên tai đã tăng rõ trong thế kỷ qua; số thiên tai tăng gấp mười từ 39 vụ năm 1960 lên 396 vụ năm 2019. Các nghiên cứu nhìn chung thấy thiên tai tác động tiêu cực tới kinh tế, nhất là ở nước đang phát triển.
-- Nhiều nghiên cứu cho thấy nước dễ tổn thương khí hậu phải trả lãi cao hơn trên trái phiếu quốc tế, với tác động mạnh hơn ở nước đang phát triển có khả năng chống chịu yếu.
-- Nợ trong nước đã tăng mạnh khi thị trường tài chính nội địa sâu hơn và thanh khoản quốc tế cạn kiệt trong khủng hoảng 2008, nhưng chi phí của nó dưới tác động của thiên tai chưa được nghiên cứu, một phần vì thiếu dữ liệu.
+Biến đổi khí hậu và tần suất thiên tai đã tăng rõ trong thế kỷ qua. Số thiên tai được ghi nhận tăng gấp mười, từ 39 vụ năm 1960 lên 396 vụ năm 2019. Các nghiên cứu nhìn chung thấy thiên tai tác động tiêu cực tới kinh tế, và tác động nặng nhất ở các nước đang phát triển, nơi khả năng chống chịu yếu hơn.
+
+Một nhánh tài liệu đã cho thấy nước dễ tổn thương khí hậu phải trả lãi cao hơn khi vay trên thị trường quốc tế, và tác động mạnh hơn ở nước đang phát triển. Các kết quả tiêu biểu mà bài dẫn:
+
+| Nghiên cứu | Kết quả với trái phiếu quốc tế |
+|---|---|
+| Kling 2018 | Mức dễ tổn thương khí hậu làm chi phí nợ nước ngoài tăng 1,2 điểm phần trăm |
+| Klomp 2017 | Thêm một thảm hoạ lớn làm xác suất vỡ nợ tăng khoảng 3 điểm phần trăm |
+| Mallucci 2022 | Nếu không có rủi ro bão, chênh lệch lợi suất sẽ thấp hơn 105 điểm cơ bản |
+| Klusak 2021 | Hạ bậc tín nhiệm do khí hậu có thể bắt đầu từ năm 2030 |
+
+Vấn đề là các nghiên cứu này chỉ nhìn vào trái phiếu quốc tế. Trong khi đó, nợ trong nước của các nước đang phát triển đã tăng mạnh, vì thị trường tài chính nội địa sâu hơn và vì thanh khoản quốc tế cạn kiệt trong khủng hoảng 2008 buộc chính phủ quay về vay trong nước. Cơ cấu nợ công (% GDP) thay đổi như sau:
+
+| Loại nợ | Năm 2000 | Năm 2020 |
+|---|---|---|
+| Nợ trong nước | khoảng 22 | khoảng 34 |
+| Nợ nước ngoài | khoảng 45 | khoảng 41 |
+
+Đến cuối thập niên 2010, nợ trong nước đã chiếm khoảng một nửa tổng nợ công, tức tỷ trọng tăng khoảng 20 điểm phần trăm so với đầu thập niên 2000. Vì lãi suất trong nước cao hơn lãi vay quốc tế, tiền lãi của nợ trong nước chiếm tới khoảng 80% tổng tiền lãi mà các chính phủ này phải trả.
+
+Dù vậy, chi phí của nợ trong nước khi có thiên tai chưa được nghiên cứu, một phần vì thiếu dữ liệu. Bài đặt ra ba câu hỏi chưa có lời đáp: thiên tai có đẩy lãi vay trong nước lên không; nếu có, tác động có đều trên mọi kỳ hạn không; và tác động đi qua kênh nào.
 
 ### 2. Tài liệu và kênh truyền dẫn
 
-- Bão làm nợ tăng tới ba quý sau sự kiện ở vùng Đông Caribe; một thảm hoạ cực đoan làm thâm hụt của nước thu nhập thấp tăng khoảng 0,9% GDP ngay trong năm.
-- Có cảnh báo về một "vòng lặp khí hậu và nợ", trong đó rủi ro khí hậu làm động thái nợ xấu đi và phần bù rủi ro tăng phi tuyến. Một mô hình khác nhấn kênh tỷ giá: nước rủi ro hơn có tỷ giá mất giá và lãi suất cao hơn để bù cho rủi ro mất giá khi có thảm hoạ toàn cầu.
-- Kênh nợ công: chi cứu trợ và tái thiết tăng, thu thuế giảm, quản lý thuế bị gián đoạn, nợ tiềm tàng của doanh nghiệp nhà nước hiện thực hoá. Trong trường hợp cực đoan, chính phủ phải vay với lãi rất cao để cứu người.
-- Kênh chính sách tiền tệ: cú sốc cung thường tạm thời nên không cần phản ứng, nhưng cú sốc lặp lại khiến lạm phát xa mục tiêu và buộc phải thắt chặt.
-- Kênh độ sâu tài chính: ở thị trường nông, nhà đầu tư khó đa dạng hoá và chịu rủi ro nặng hơn khi cú sốc khí hậu đánh vào cả nền kinh tế.
-- Ngoài ra còn các kênh ổn định tài chính, qua nợ xấu, và ổn định chính trị, qua xung đột.
+Bài phân biệt hai loại biến khí hậu có cơ chế khác nhau.
+
+**Cú sốc thiên tai** là sự kiện đột ngột và có thời hạn. Nó có thể làm tăng lãi vay trong nước qua bốn đường:
+
+- **Kênh nợ công.** Chi cứu trợ và tái thiết tăng; thu thuế giảm, nhất là từ du lịch, nông nghiệp và thuỷ sản; việc quản lý thuế bị gián đoạn; các khoản nợ tiềm tàng, như hỗ trợ cho doanh nghiệp nhà nước, trở thành nợ thật. Nhu cầu vay tăng thì lãi tăng. Trong trường hợp cực đoan, chính phủ phải vay với lãi rất cao để cứu người. Bằng chứng trước đây: ở vùng Đông Caribe, bão làm nợ tăng tới ba quý sau sự kiện; một thảm hoạ cực đoan làm thâm hụt ngân sách của nước thu nhập thấp tăng khoảng 0,9% GDP ngay trong năm.
+- **Kênh chính sách tiền tệ.** Thiên tai thường là cú sốc cung, ví dụ mất mùa đẩy giá lương thực lên. Về nguyên tắc, cú sốc cung tạm thời không cần phản ứng bằng lãi suất vì tác động lên lạm phát sẽ tự tan. Nhưng nếu cú sốc lặp lại, lạm phát bị đẩy xa mục tiêu và ngân hàng trung ương buộc phải thắt chặt, làm lãi chính sách tăng, kéo theo lãi trái phiếu.
+- **Kênh tăng trưởng và tỷ giá.** Tăng trưởng và xuất khẩu giảm, đồng tiền mất giá, làm khả năng trả nợ yếu đi. Một mô hình trong tài liệu nhấn kênh tỷ giá: nước rủi ro hơn có tỷ giá mất giá và lãi suất cao hơn để bù cho rủi ro mất giá khi xảy ra thảm hoạ toàn cầu.
+- **Kênh ổn định tài chính và chính trị.** Nợ xấu ngân hàng tăng; trong một số trường hợp, thiên tai làm tăng nguy cơ xung đột.
+
+**Mức dễ tổn thương khí hậu** là đặc điểm cơ cấu, thay đổi chậm. Nó tác động qua các đường khác:
+
+- Nhà đầu tư định giá rủi ro tương lai vào nợ hôm nay, kể cả những thảm hoạ chưa xảy ra.
+- Chi phí thích ứng lớn làm nhu cầu vay trong nước tăng.
+- Rủi ro chuyển đổi: khi thế giới chuyển sang kinh tế xanh, các tài sản gắn với carbon có thể bị "mắc kẹt", tức mất giá trị trước khi hết đời sử dụng.
+- **Kênh độ sâu tài chính.** Ở thị trường nông, nhà đầu tư khó đa dạng hoá và phải gánh rủi ro nặng hơn khi cú sốc khí hậu đánh vào cả nền kinh tế. Hệ thống tài chính sâu cho phép đa dạng hoá và chuyển rủi ro sang những người chịu được, nên làm giảm phần bù.
+
+Tài liệu còn cảnh báo về một "vòng lặp khí hậu và nợ": rủi ro khí hậu làm động thái nợ xấu đi, nợ cao làm phần bù rủi ro tăng, và phần bù tăng theo cách phi tuyến, nghĩa là tăng nhanh dần khi nợ càng cao.
 
 ### 3. Dữ liệu
 
-- Bộ dữ liệu bổ sung cho các nguồn hiện có như Cơ sở dữ liệu Nợ Toàn cầu, Thống kê Nợ Khu vực Công theo Quý hay bộ dữ liệu nợ châu Phi, vốn thiếu thông tin cấp chứng khoán về nợ trong nước hoặc chỉ phủ châu Phi.
+Bài tự xây một bộ dữ liệu mới về chứng khoán chính phủ trong nước, bổ sung cho các nguồn hiện có như Cơ sở dữ liệu Nợ Toàn cầu, Thống kê Nợ Khu vực Công theo Quý hay bộ dữ liệu nợ châu Phi. Các nguồn đó hoặc thiếu thông tin cấp từng chứng khoán về nợ trong nước, hoặc chỉ phủ châu Phi.
+
+**Quy mô.** Bộ dữ liệu gồm khoảng 100.000 chứng khoán của 99 nước, trong đó 72 nước đang phát triển. Giai đoạn lõi là 2000–21, một số nước có dữ liệu từ 1977. Thông tin lấy từ ngân hàng trung ương, bộ tài chính, cơ quan quản lý nợ và sở giao dịch chứng khoán. Nhiều nguồn chỉ có dạng file PDF hoặc bản quét, nên phải nhập tay.
+
+**Nguyên tắc xây dựng:**
+
+- "Trong nước" nghĩa là do chính phủ trung ương phát hành bằng nội tệ trên thị trường nội địa. Riêng hai liên minh tiền tệ CEMAC (Trung Phi) và WAEMU (Tây Phi) dùng chung một thị trường khu vực, nên thị trường khu vực được tính là thị trường trong nước.
+- Lãi suất là lãi coupon lúc phát hành trên thị trường sơ cấp; với chứng khoán chiết khấu (không trả coupon) hoặc dữ liệu từ thị trường thứ cấp thì dùng lợi suất đáo hạn.
+- Mọi lãi suất được quy về lãi suất năm. Bài loại các quan sát có lợi suất bằng hoặc dưới 0, và các quan sát trên phân vị thứ 99 (ngưỡng này vào khoảng 50%).
 - Chứng khoán được gộp theo năm thành bốn nhóm kỳ hạn: tới ba tháng, tới một năm, hai tới ba năm, và từ bốn năm trở lên.
-- Lãi kỳ hạn ngắn và trung bình giảm mạnh nhờ ổn định vĩ mô và môi trường toàn cầu thuận lợi, trừ quanh khủng hoảng 2008; lãi dài hạn gần như không giảm. Với nước thu nhập thấp và trung bình, lãi trung và dài hạn không giảm như ở nước thu nhập cao.
-- Lãi thực biến động mạnh, nhất là ở nước thu nhập thấp, và kỳ hạn ngắn nằm lâu nhất ở vùng âm.
-- Phân tích chỉ dùng nước đang phát triển vì xu hướng khác hẳn nước thu nhập cao, và vì ở nước thu nhập cao định nghĩa nợ trong nước theo đồng tiền kém ý nghĩa hơn.
+
+**Các sự thật cách điệu** (những đặc điểm nổi bật rút ra khi mô tả dữ liệu):
+
+- Thị trường nghiêng hẳn về kỳ hạn ngắn: 22% số chứng khoán có kỳ hạn dưới ba tháng và 57% có kỳ hạn tới một năm. Thị trường trung và dài hạn vì vậy mỏng.
+- Lãi suất danh nghĩa bình quân là 9%, lãi suất thực (sau khi trừ lạm phát) là 2,2%. Khoảng 1/4 số quan sát có lãi suất thực âm. Lãi thực biến động mạnh, nhất là ở nước thu nhập thấp, và kỳ hạn ngắn là nhóm nằm lâu nhất ở vùng âm.
+- Châu Phi cận Sahara chiếm 37% mẫu; nước thu nhập trung bình chiếm 50%.
+- Trong giai đoạn 2000–20, lãi suất kỳ hạn ngắn đến trung bình giảm hơn 50%, nhờ ổn định vĩ mô và môi trường toàn cầu thuận lợi (trừ quanh khủng hoảng 2008). Lãi suất dài hạn chỉ giảm khoảng 7%. Ở nước thu nhập thấp và trung bình, lãi trung và dài hạn không giảm như ở nước thu nhập cao.
+
+Đường cong lợi suất trung vị (%) qua một số năm:
+
+| Năm | Tới 3 tháng | Tới 1 năm | 2–3 năm | Từ 4 năm |
+|---|---|---|---|---|
+| 2007 | 7,0 | 6,7 | 8,3 | 7,3 |
+| 2008 | 7,7 | 8,1 | 8,6 | 7,3 |
+| 2010 | 4,9 | 5,2 | 6,7 | 7,0 |
+| 2019 | 4,2 | 4,9 | 6,3 | 6,3 |
+| 2020 | 2,6 | 3,9 | 5,9 | 6,3 |
+
+Quanh khủng hoảng 2008, đường cong bị đảo ngược một phần: lãi kỳ hạn 2–3 năm (8,6%) cao hơn lãi từ bốn năm (7,3%), và lãi ngắn hạn tăng vọt. Sau đó đường cong dốc lên trở lại; đến cuối 2020, lãi kỳ hạn tới ba tháng chỉ còn 2,6% trong khi đầu dài vẫn ở 6,3%.
+
+Phân tích chỉ dùng 72 nước đang phát triển, vì xu hướng lãi suất ở nước thu nhập cao khác hẳn, và vì ở nước thu nhập cao, việc định nghĩa nợ trong nước theo đồng tiền phát hành kém ý nghĩa hơn (nhà đầu tư nước ngoài nắm nhiều trái phiếu nội tệ của các nước này).
 
 ### 4. Phương pháp
 
-- Biến phụ thuộc là lãi suất danh nghĩa bình quân trên tín phiếu và trái phiếu. Các biến kiểm soát lấy từ tài liệu về yếu tố quyết định lãi vay trong nước.
-- Điều kiện tài chính toàn cầu thuận lợi giúp chính phủ vay quốc tế, giảm áp lực lên thị trường trong nước.
-- Phép chiếu địa phương cho phép ước lượng tác động ở từng chân trời mà không cần giả định mạnh. Nhưng cả hiệu ứng cố định hai chiều lẫn phép chiếu địa phương đều có thể bị lệch khi tác động khác nhau giữa các nhóm, nên bài dùng phiên bản sai phân kép với nhóm đối chứng sạch.
-- Hai giả định then chốt là xu hướng song song trước cú sốc và không có hành vi dự đoán trước.
+**Biến phụ thuộc** là lãi suất danh nghĩa bình quân trên tín phiếu và trái phiếu, tính chung và theo từng nhóm kỳ hạn.
+
+**Biến thiên tai** có hai loại:
+
+1. **Biến giả hạn hán, lũ và bão** lấy từ cơ sở dữ liệu EM-DAT, bằng 1 nếu nước đó có ít nhất một đợt trong năm. Bài chọn biến giả thay vì mức thiệt hại vì thời điểm thiên tai xảy ra là ngẫu nhiên, nên có thể coi là ngoại sinh (không bị lãi suất tác động ngược lại). Mức thiệt hại thì khác: nó có thể phụ thuộc ngược vào khả năng vay để đầu tư chống chịu (nước vay rẻ xây đê tốt hơn, thiệt hại thấp hơn), và thường bị đo sai nhiều.
+2. **Chỉ số dễ tổn thương khí hậu ND-GAIN**, xây từ 74 biến và 45 chỉ báo. Để tránh tác động ngược, bài lấy trễ một kỳ và dùng biến công cụ là phần ngoại sinh của chỉ số, theo cách của Kling 2021.
+
+**Ước lượng** theo hai cách:
+
+1. **Hồi quy hiệu ứng cố định nước và năm, dữ liệu theo năm.** Các biến kiểm soát lấy từ tài liệu về yếu tố quyết định lãi vay trong nước: thu nhập đầu người, tăng trưởng, lạm phát, cán cân vãng lai, dự trữ ngoại hối, tỷ giá, lợi suất trái phiếu 10 năm của Mỹ, chỉ số pháp quyền và kỳ hạn bình quân của nợ. Lợi suất Mỹ đại diện cho điều kiện tài chính toàn cầu: khi điều kiện thuận lợi, chính phủ dễ vay quốc tế hơn và áp lực lên thị trường trong nước giảm.
+2. **Phép chiếu địa phương sai phân kép** (theo Dube và cộng sự 2025), dùng dữ liệu theo quý cho thiên tai. Phép chiếu địa phương ước lượng tác động ở từng chân trời (sau một quý, hai quý…) mà không cần giả định mạnh về hình dạng phản ứng. Nhưng cả hiệu ứng cố định hai chiều lẫn phép chiếu địa phương thông thường đều có thể bị lệch khi tác động khác nhau giữa các nhóm nước hoặc các thời điểm. Phiên bản sai phân kép khắc phục bằng cách chỉ so sánh nước **mới** bị tác động với một nhóm đối chứng **sạch**, tức những nước không bị cú sốc trong khoảng thời gian liên quan.
+
+Hai giả định then chốt của sai phân kép là **xu hướng song song** (trước cú sốc, lãi suất của hai nhóm đi cùng nhịp) và **không có hành vi dự đoán trước** (lãi suất không phản ứng trước khi thiên tai xảy ra).
 
 ### 5. Kết quả với thiên tai
 
-- Hạn hán và bão làm tăng chi phí vay trong nước, lũ thì không.
-- Tác động tập trung ở kỳ hạn ngắn, phản ánh việc chính phủ dựa vào vay ngắn hạn khi gặp cú sốc bất ngờ và việc nhà đầu tư coi tác động tài khoá là tạm thời.
-- Sai phân kép cho thấy tác động của hạn hán đạt đỉnh sau ba quý và tắt dần từ quý năm, với độ lớn tương đương ước lượng hiệu ứng cố định. Tác động của bão nhỏ hơn và chỉ có ý nghĩa ở quý đầu.
-- Bỏ biến kiểm soát thường làm đánh giá thấp phần bù thiên tai.
+**Hồi quy hiệu ứng cố định, đặc tả đầy đủ** (thay đổi lãi suất, điểm phần trăm; dấu sao thể hiện mức ý nghĩa thống kê, càng nhiều sao càng chắc chắn):
+
+| Thiên tai | Mọi kỳ hạn | Tới 3 tháng | Tới 1 năm | 2–3 năm | Từ 4 năm |
+|---|---|---|---|---|---|
+| Hạn hán | 0,887\* | 1,262\*\* | 1,122\*\* | 0,282 | 0,308 |
+| Lũ | −0,291 | −0,589 | −0,369 | −0,634 | −0,041 |
+| Bão | 1,052\*\*\* | 0,750\*\* | 0,971\*\*\* | 0,086 | 0,201 |
+
+Đọc bảng:
+
+- Hạn hán hoặc bão làm lãi suất trung bình tăng khoảng 80–100 điểm cơ bản.
+- Chỉ kỳ hạn ngắn phản ứng. Ở kỳ hạn 2–3 năm và từ bốn năm trở lên, hệ số nhỏ và không có ý nghĩa thống kê.
+- Lũ không có tác động: mọi hệ số đều âm nhẹ và không có ý nghĩa. Bài giải thích rằng lũ thường ngắn, đôi khi còn có lợi cho nông nghiệp (bồi đắp phù sa, bổ sung nước), trong khi bão mạnh hơn và ảnh hưởng rộng hơn.
+
+Vì sao chỉ đầu ngắn phản ứng? Bài đưa ra hai lý do. Một là khi gặp cú sốc bất ngờ, chính phủ dựa vào vay ngắn hạn để có tiền nhanh, nên áp lực dồn vào tín phiếu. Hai là nhà đầu tư coi tác động tài khoá của thiên tai là tạm thời, nên không đòi thêm lãi cho kỳ hạn dài. Bài cũng cảnh báo: thiên tai ngày càng dày, nên tác động gọi là "ngắn hạn" có thể kéo dài; nếu vậy nhà đầu tư trong nước có thể đang định giá thấp rủi ro đối với tài chính công.
+
+**Các biến kiểm soát** có ý nghĩa ổn định: lợi suất 10 năm của Mỹ (hệ số khoảng 2,2–2,7 ở kỳ hạn ngắn), lạm phát (dấu dương: lạm phát cao thì lãi cao) và cán cân vãng lai (dấu âm: thặng dư vãng lai thì lãi thấp). Bỏ các biến kiểm soát này thường làm đánh giá thấp phần bù thiên tai.
+
+**Phép chiếu địa phương sai phân kép** (dữ liệu theo quý, các giá trị là ước đọc):
+
+| Thiên tai | Diễn biến |
+|---|---|
+| Hạn hán | Tác động tăng dần, đạt đỉnh khoảng 0,75 điểm phần trăm ở quý 3, tắt dần từ quý 5. Riêng kỳ hạn tới một năm tiếp tục tăng lên khoảng 1,0 điểm ở quý 5. Kỳ hạn từ bốn năm không đổi. |
+| Bão | Nhỏ hơn, khoảng 0,3 điểm phần trăm, và chỉ có ý nghĩa ở quý 1, với kỳ hạn tới một năm. |
+
+Độ lớn của tác động hạn hán tương đương với ước lượng hiệu ứng cố định. Hai kiểm tra củng cố kết quả. Thứ nhất, các hệ số trước cú sốc gần bằng 0, nghĩa là giả định xu hướng song song và không dự đoán trước được thoả mãn. Thứ hai, khi đo thiên tai bằng thiệt hại trên GDP hoặc tỷ lệ dân số bị ảnh hưởng thay cho biến giả, kết quả vẫn giữ.
 
 ### 6. Kết quả với dễ tổn thương khí hậu
 
-- Dễ tổn thương khác thiên tai ở chỗ nó bao gồm cả mức phơi nhiễm lẫn khả năng chống chịu. Một nước có thể dễ tổn thương vì chịu cú sốc thường xuyên với cường độ trung bình, hoặc chịu cú sốc thưa nhưng cực đoan.
-- Dễ tổn thương khí hậu làm tăng lãi ở mọi kỳ hạn, vì đây là thay đổi cơ cấu với hệ quả sâu rộng; bất định về chi phí của các thảm hoạ tương lai làm giảm niềm tin của nhà đầu tư trong nước.
-- Tác động lọc qua chậm hơn so với thiên tai. Kết quả giữ nguyên khi đổi ngưỡng sang bình quân hoặc phân vị 25.
+Dễ tổn thương khác thiên tai ở chỗ nó bao gồm cả mức phơi nhiễm lẫn khả năng chống chịu. Một nước có thể dễ tổn thương vì chịu cú sốc thường xuyên với cường độ trung bình, hoặc vì chịu cú sốc thưa nhưng cực đoan.
+
+**Hồi quy biến công cụ** (thay đổi lãi suất, điểm phần trăm, khi chỉ số dễ tổn thương tăng một điểm):
+
+| Mọi kỳ hạn | Tới 3 tháng | Tới 1 năm | 2–3 năm | Từ 4 năm |
+|---|---|---|---|---|
+| 2,015\*\* | 2,648\* | 3,486\*\* | 6,033\*\* | 2,000\*\* |
+
+Thống kê F Cragg–Donald nằm trong khoảng 12,2–27,5, cho thấy biến công cụ đủ mạnh. Khác với thiên tai, mức dễ tổn thương đẩy **toàn bộ đường cong lợi suất** lên chứ không chỉ đầu ngắn. Lý do: đây là thay đổi cơ cấu có hệ quả sâu rộng, và bất định về chi phí của các thảm hoạ tương lai làm giảm niềm tin của nhà đầu tư trong nước ở mọi kỳ hạn.
+
+**Cách đọc độ lớn.** Đi từ phân vị 25 lên trung vị của chỉ số, tức tăng khoảng 5 điểm, tương ứng lãi suất tăng khoảng 10 điểm phần trăm. Con số này rất lớn, nhưng chỉ số thay đổi rất chậm: trung vị chỉ tăng 0,5 điểm trong 20 năm, tương ứng lãi tăng khoảng 1 điểm phần trăm trong cả giai đoạn.
+
+**Sai phân kép.** Bài định nghĩa nhóm "bị tác động" là các nước có chỉ số trên trung vị và theo dõi theo năm. Tác động tăng dần: khoảng 1–2 điểm phần trăm trong vài năm đầu và khoảng 3,6 điểm ở năm 8 (ước đọc). So với thiên tai, tác động lọc vào lãi suất chậm hơn nhưng dai dẳng. Bài lưu ý mẫu nhỏ nên cần thận trọng. Kết quả giữ nguyên khi đổi ngưỡng từ trung vị sang bình quân hoặc phân vị 25.
 
 ### 7. Kênh truyền dẫn
 
-- Với hạn hán, đưa nợ công hoặc lãi chính sách vào làm hệ số hạn hán mất ý nghĩa, ủng hộ cả hai kênh. Kết quả tương tự theo kỳ hạn.
-- Với bão, kênh nợ yếu nhưng kênh tiền tệ có hoạt động.
-- Với dễ tổn thương khí hậu, nợ công và lãi chính sách có thể quan trọng, nhưng bài thận trọng vì thiếu dữ liệu về đầu tư chống chịu và vì tài liệu chưa thống nhất về cách chính sách tiền tệ phản ứng với dễ tổn thương khí hậu.
-- Độ sâu tài chính làm giảm tác động của dễ tổn thương, đặc biệt mạnh với lãi dài hạn.
+**Cách kiểm định.** Bài thêm biến đại diện cho kênh (nợ công trên GDP, hoặc lãi suất chính sách) vào hồi quy. Nếu hệ số của cú sốc nhỏ đi hoặc mất ý nghĩa, thì một phần tác động đang đi qua kênh đó.
+
+**Hạn hán, mọi kỳ hạn:**
+
+| Đặc tả | Hệ số hạn hán | Hệ số biến kênh |
+|---|---|---|
+| Cơ sở | 0,977\* | |
+| Thêm nợ công/GDP | 0,878 (không ý nghĩa) | nợ: 0,067\*\*\* |
+| Thêm lãi chính sách | 0,463 (không ý nghĩa) | lãi chính sách: 0,380\*\* |
+
+Đưa nợ công hoặc lãi chính sách vào đều làm hệ số hạn hán mất ý nghĩa, nên cả hai kênh đều hoạt động. Kết quả tương tự khi tách theo kỳ hạn.
+
+**Bão, mọi kỳ hạn:** hệ số cơ sở 1,129\*\*\*; thêm nợ công thì thành 1,156\*\*\*; thêm lãi chính sách thì thành 0,831\*\*\*. Kênh nợ yếu, vì thêm nợ không làm hệ số bão giảm. Kênh tiền tệ có hoạt động, vì hệ số giảm khi thêm lãi chính sách, nhưng bão vẫn còn tác động có ý nghĩa ngoài kênh này.
+
+**Dễ tổn thương khí hậu:** hệ số cơ sở 2,015\*\*; thêm nợ công còn 1,201; thêm lãi chính sách còn 1,064; thêm cả hai còn 0,655. Như vậy cả nợ công và lãi chính sách có thể là kênh quan trọng. Tuy nhiên bài thận trọng, vì thiếu dữ liệu về đầu tư chống chịu để kết luận rằng dễ tổn thương làm tăng nợ, và vì tài liệu chưa thống nhất về cách chính sách tiền tệ phản ứng với mức dễ tổn thương khí hậu.
+
+**Độ sâu tài chính.** Hệ số tương tác giữa tín dụng tư nhân/GDP và mức dễ tổn thương là −0,006\* cho mọi kỳ hạn, và −0,405\*\*\* cho kỳ hạn từ bốn năm trở lên. Dấu âm nghĩa là ở nước có hệ thống tài chính sâu hơn, cùng một mức dễ tổn thương gây ra phần bù khí hậu nhỏ hơn. Tác dụng này rõ nhất ở kỳ hạn dài, đúng đoạn đường cong mà mức dễ tổn thương đẩy lên mạnh và nơi thị trường nông khó phân tán rủi ro nhất.
 
 ### 8. Kết luận
 
-- Có phần bù thiên tai trong lợi suất chủ quyền trong nước, nhưng nó khác nhau theo loại cú sốc và kỳ hạn.
-- Vì nợ trong nước chiếm khoảng một nửa nợ và tới 80% tiền lãi của các nước đang phát triển, cần chú ý hơn tới chi phí vay trong nước khi có thiên tai.
-- Cần đưa xây dựng khả năng chống chịu vào khung quản lý nợ và chính sách tài khoá, và coi phát triển tài chính là một phần của khả năng chống chịu.
+Có tồn tại một phần bù thiên tai trong lợi suất chủ quyền trong nước, nhưng nó khác nhau theo loại cú sốc và theo kỳ hạn. Hạn hán và bão đẩy đầu ngắn lên trong khoảng một năm; lũ không có tác động đo được; mức dễ tổn thương khí hậu đẩy cả đường cong lên một cách chậm nhưng bền.
+
+Vì nợ trong nước chiếm khoảng một nửa nợ và tới 80% tiền lãi của các nước đang phát triển, các nhà hoạch định chính sách cần chú ý hơn tới chi phí vay trong nước khi có thiên tai, thay vì chỉ theo dõi chênh lệch lợi suất trái phiếu quốc tế.
+
+Bài khuyến nghị đưa việc xây dựng khả năng chống chịu vào khung quản lý nợ và chính sách tài khoá, và coi phát triển tài chính là một phần của khả năng chống chịu: một thị trường tài chính sâu hơn giúp giảm phần bù khí hậu, nhất là ở kỳ hạn dài.
 
 ## Thuật ngữ
 

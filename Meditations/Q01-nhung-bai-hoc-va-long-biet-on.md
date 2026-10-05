@@ -126,164 +126,169 @@
 2. **Người cai trị lý tưởng trông thế nào?** Như Antoninus: quyết định chậm mà chắc, lắng nghe và nhường chỗ cho người giỏi, không màng tung hô, giữ của công, sống giản dị giữa cung điện, không bao giờ mất kiểm soát. Quyền lực không làm ông thay đổi; ông dùng nó như một người quản gia chứ không như chủ nhân.
 3. **Vì sao kết thúc bằng lời cảm ơn các thần?** Vì gần như mọi điều tốt đã liệt kê (người thân, thầy, sức khoẻ, cả việc không bị đặt vào cám dỗ) không do Marcus tự tạo ra. Thừa nhận điều đó giữ ông khỏi kiêu ngạo, và để lại cho ông một trách nhiệm duy nhất mà ông không thể đổ cho ai: chú tâm vào những gì đã được chỉ dạy.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Chủ nghĩa Khắc kỷ và đức hạnh như một nghề (Stoicism, technē peri ton bion).** Khắc kỷ là trường phái triết học Hy Lạp – La Mã cho rằng điều tốt duy nhất là đức hạnh, tức một tính cách sống theo lý trí: khôn ngoan, công bằng, can đảm, tiết độ. Đức hạnh được coi là một "nghệ thuật sống", học được như học một nghề: cần thầy, cần hình mẫu và cần thực hành mỗi ngày. Ví dụ trong quyển: Marcus kê ra 16 người (ông, cha, mẹ, ông cố, các thầy, bạn, cha nuôi), mỗi người dạy ông một phẩm chất cụ thể. Khái niệm này giải thích vì sao Quyển 1 là một danh sách người chứ không phải một chuỗi lập luận.
+
+**Hùng biện và triết học (rhetoric, philosophy).** Hùng biện là nghệ thuật nói và viết để thuyết phục, nền giáo dục chính của giới thượng lưu La Mã, mở đường tới quan trường. Triết học, theo nghĩa Khắc kỷ, là một cách sống nhằm thay đổi tính cách. Ví dụ trong quyển: Marcus học hùng biện với Fronto, thầy nổi tiếng nhất thời đó, nhưng chỉ dành cho Fronto 1 dòng, và còn cảm ơn các thần vì mình đã không giỏi hùng biện. Sự đối lập này là trục giá trị của cả quyển.
+
+**Sống thuận theo tự nhiên (kata physin).** Mục tiêu của đời sống Khắc kỷ: sống đúng với bản chất có lý trí và có tính xã hội của con người, và hoà hợp với trật tự của vũ trụ. Ví dụ trong quyển: Marcus học từ Sextus (mục 1.9) thế nào là sống thuận tự nhiên, và ở mục cuối 1.17 nói rằng nếu ông không sống được như vậy thì "lỗi tại ta". Khái niệm này nối điểm đầu và điểm cuối của quyển.
+
+**Apatheia, không bị đam mê sai chi phối.** Không phải là không có cảm xúc, mà là không để những cảm xúc sinh ra từ phán đoán sai, như giận dữ, sợ hãi, tham lam, điều khiển mình; trong khi vẫn giữ những tình cảm tự nhiên như tình thương (*philostorgia*). Ví dụ trong quyển: Sextus không bao giờ để cơn giận chế ngự mà vẫn đầy tình thương người; trong 23 năm Marcus ở bên cạnh, Antoninus chưa để ai thấy mình giận đến "toát mồ hôi". Khái niệm này sửa hiểu lầm phổ biến rằng Khắc kỷ là lạnh lùng.
+
+**Adiaphora, "những thứ không thiện không ác".** Tiện nghi, của cải, sức khoẻ, danh tiếng không tự nó tốt hay xấu; điều quan trọng là cách dùng chúng. Ví dụ minh hoạ theo tinh thần quyển này: hai người cùng có 1 tỷ đồng, một người dùng để học hành và giúp người, một người dùng để khoe khoang; số tiền giống nhau nhưng giá trị đạo đức khác hẳn. Ví dụ trong quyển: Antoninus có nhiều tiện nghi, dùng mà không kiêu, không có thì không thấy thiếu.
+
+**Cái thuộc quyền ta và cái không thuộc quyền ta (prohairesis).** Phân biệt nền tảng của Epictetus: chỉ phán đoán và năng lực lựa chọn (*prohairesis*) là thật sự của ta; thân thể, của cải, danh tiếng, người khác, hoàn cảnh thì không. Ví dụ trong quyển: ở mục 1.17, Marcus kê hàng chục điều tốt mình có (gia đình, thầy, sức khoẻ, cả những cám dỗ không gặp phải) như những thứ được ban, và chỉ nhận về mình đúng 1 trách nhiệm: chú tâm làm theo điều đã được chỉ dạy. Khái niệm này là chìa khoá đọc lời cảm ơn các thần.
+
+**Kế vị bằng nhận con nuôi.** Ở La Mã thế kỷ 2, nhiều hoàng đế không truyền ngôi cho con ruột mà nhận một người có phẩm chất làm con nuôi để kế vị. Ví dụ trong quyển: năm 138, theo yêu cầu của hoàng đế Hadrian, Antoninus Pius nhận Marcus làm con nuôi; Marcus làm người kế vị bên cạnh ông 23 năm, đến khi Antoninus mất năm 161. Khái niệm này giải thích vì sao mục về Antoninus dài nhất: đó là "trường học chính trị" của Marcus.
+
+## Nội dung chi tiết
+
+Quyển 1 không có lập luận liên tục mà là một bản kê có trật tự. Marcus cảm ơn theo thứ tự: gia đình (mục 1.1–1.4), thầy thời niên thiếu (1.5–1.6), các thầy triết học (1.7–1.9, rồi 1.13 và 1.15), thầy văn chương và bạn (1.10–1.12, 1.14), cha nuôi Antoninus Pius (1.16, mục dài nhất), và cuối cùng là các thần (1.17). Mỗi bậc thêm một lớp: gia đình đặt nền tính cách (tự chủ, chính trực, mộ đạo, giản dị, đầu tư cho giáo dục); thầy thời niên thiếu dạy không theo đám đông, chịu vất vả, không mê tín, nghe được sự thật mất lòng và đưa Marcus đến triết học; các thầy triết học dạy kỷ luật tính cách, bỏ hùng biện phô trương, giới thiệu Epictetus, chỉ dựa vào lý trí, cương quyết mà mềm mỏng, điềm tĩnh mà vẫn đầy tình thương; thầy văn chương và bạn dạy sửa sai không làm người bẽ mặt, nhận ra sự độc ác của quyền lực, không viện cớ "bận", và lý tưởng nhà nước có luật bình đẳng và tự do ngôn luận; Antoninus cho một chân dung người cai trị lý tưởng; và các thần nhắc rằng mọi điều tốt ấy cần thần linh và may mắn, còn phần duy nhất Marcus tự chịu trách nhiệm là chú tâm sống thuận tự nhiên.
+
+Đọc ngang qua các mục, bốn phẩm chất lặp lại nhiều lần, mỗi phẩm chất học từ nhiều người:
+
+| Phẩm chất | Học từ ai (mục) |
+|---|---|
+| Giản dị, không phô trương | Mẹ sống khác người giàu (1.3); giường ván, áo choàng thô (1.6); không ăn diện trong nhà, viết thư thẳng (1.7); học rộng mà không khoe (1.9); Antoninus sống trong cung như người thường (1.16, 1.17) |
+| Tự chủ trước cảm xúc và dục vọng | Ông nội giữ bình tĩnh (1.1); Apollonius vững vàng khi mất con (1.8); Sextus không để cơn giận chế ngự (1.9); Maximus không gì kéo chệch hướng (1.15); Antoninus không ai thấy giận đến toát mồ hôi (1.16); cảm ơn vì giữ được mình trước dục vọng (1.17) |
+| Đối xử với người khác | Không nghe kẻ vu khống (1.5); làm lành khi được đề nghị (1.7); kiên nhẫn với người kém hiểu biết (1.9); sửa sai tế nhị (1.10); không viện cớ bận (1.12); không bỏ qua lời trách của bạn (1.13); nói thẳng điều mình không đồng ý (1.14) |
+| Triết học là lối sống, không phải môn học | Bỏ hùng biện, thơ, luận thuyết trừu tượng (1.7); coi tài giảng giải là phẩm chất nhỏ nhất (1.8); cảm ơn vì không giỏi hùng biện và không sa vào tam đoạn luận, thiên văn (1.17) |
 
 ### Gia đình (1.1–1.4)
 
-- **1.1. Ông nội Verus** (Marcus Annius Verus, ba lần làm chấp chính quan, người nuôi Marcus sau khi cha mất). Bài học: phẩm cách đứng đắn và khả năng giữ được bình tĩnh, làm chủ bản thân.
-- **1.2. Cha ruột** (Annius Verus, mất khi Marcus khoảng ba tuổi, nên Marcus chỉ biết ông qua chút ký ức và tiếng tăm người khác kể). Bài học: sự chính trực và khí chất đàn ông, tức sự cứng cỏi không ẻo lả.
-- **1.3. Mẹ** (Domitia Lucilla). Bài học:
-  - lòng kính thần và sự rộng lượng với người khác;
-  - sự kiêng khem ở mức sâu hơn hành vi: không chỉ không làm điều sai mà ngay ý nghĩ làm điều sai cũng không nảy ra;
-  - lối sống đạm bạc, khác hẳn thói quen của giới giàu có (dù bà thuộc một gia đình rất giàu).
-- **1.4. Ông cố** (bên ngoại). Bài học: không cho con cháu đi học trường công mà thuê thầy riêng giỏi, và coi khoản tiền ấy là chi đáng đồng tiền. Đây là bài học về **đầu tư cho giáo dục**.
+**Ông nội Verus (1.1).** Marcus Annius Verus, người ba lần làm chấp chính quan, đã nuôi Marcus sau khi cha cậu mất. Từ ông, Marcus học phẩm cách đứng đắn và khả năng giữ bình tĩnh, làm chủ bản thân. Đây là bài học tự chủ đầu tiên trong một chuỗi sẽ lặp lại suốt quyển.
+
+**Cha ruột (1.2).** Annius Verus mất khi Marcus khoảng ba tuổi, nên Marcus chỉ biết ông qua chút ký ức và qua tiếng tăm người khác kể lại. Dù vậy, ông ghi nhận từ cha sự chính trực và khí chất đàn ông, tức sự cứng cỏi, không ẻo lả. Mục này cho thấy một người có thể học từ hình mẫu ngay cả khi chỉ biết hình mẫu ấy qua lời kể.
+
+**Mẹ, Domitia Lucilla (1.3).** Marcus học từ mẹ ba điều. Một là lòng kính thần và sự rộng lượng với người khác. Hai là một kiểu kiêng khem sâu hơn hành vi: không chỉ không làm điều sai, mà ngay ý nghĩ làm điều sai cũng không nảy ra. Ba là lối sống đạm bạc, khác hẳn thói quen của giới giàu có, dù bà thuộc một gia đình rất giàu. Bài học thứ hai đặc biệt quan trọng với Khắc kỷ: đạo đức nằm ở chỗ ý nghĩ được hình thành, chứ không chỉ ở việc kìm hành động.
+
+**Ông cố bên ngoại (1.4).** Ông không cho con cháu đi học trường công mà thuê thầy riêng giỏi về dạy ở nhà, và coi khoản tiền ấy là chi đáng đồng tiền. Đây là bài học về đầu tư cho giáo dục: một khoản chi lớn, nhưng là khoản chi mà người lớn trong nhà nên sẵn lòng bỏ ra.
 
 ### Thầy thời niên thiếu (1.5–1.6)
 
-- **1.5. Người thầy đầu tiên** (người gia sư không nêu tên). Ba bài học:
-  - không làm cổ động viên cho phe này phe kia ở trường đua ngựa (các phe Xanh lá, Xanh lam của La Mã) hay cho kiểu võ sĩ này kiểu kia ở đấu trường, tức là không để đám đông kéo mình vào những cuộc phân phe vô nghĩa;
-  - chịu được vất vả, không đòi hỏi nhiều;
-  - tự làm phần việc của mình, không xen vào việc người khác, và không dành thời gian cho kẻ nói xấu, vu khống.
-- **1.6. Diognetus** (thầy dạy vẽ, người hướng Marcus đến triết học). Các bài học:
-  - không phí thời gian cho chuyện vô bổ;
-  - không tin bọn thầy bói, thầy phù thuỷ, bùa chú, trừ tà;
-  - không say mê chọi gà, chọi chim hay những trò thời thượng tương tự;
-  - tập nghe được những lời nói thẳng khó nghe;
-  - đến với triết học: nghe giảng Baccheius, rồi Tandasis và Marcianus; tập viết đối thoại triết học khi còn là học trò;
-  - chọn lối sống khổ hạnh kiểu triết gia Hy Lạp: ngủ giường ván như lính, mặc áo choàng thô. (Theo tiểu sử cổ, cậu bé Marcus khoảng 12 tuổi đã muốn ngủ dưới đất, mẹ phải thuyết phục mới chịu nằm giường.)
+**Người thầy đầu tiên (1.5).** Đây là một gia sư không được nêu tên. Ông dạy Marcus ba điều. Thứ nhất, không làm cổ động viên cho phe này hay phe kia ở trường đua ngựa (La Mã có các phe Xanh lá, Xanh lam cuồng nhiệt như cổ động viên bóng đá ngày nay) hay cho kiểu võ sĩ này kiểu kia ở đấu trường; nói cách khác, không để đám đông kéo mình vào những cuộc phân phe vô nghĩa. Thứ hai, chịu được vất vả, không đòi hỏi nhiều. Thứ ba, tự làm phần việc của mình, không xen vào việc người khác, và không dành thời gian cho kẻ nói xấu, vu khống.
+
+**Diognetus (1.6).** Diognetus là thầy dạy vẽ, nhưng vai trò lớn nhất của ông là lần đầu hướng Marcus đến triết học. Các bài học:
+
+- không phí thời gian cho chuyện vô bổ;
+- không tin thầy bói, thầy phù thuỷ, bùa chú hay trừ tà, tức là không mê tín;
+- không say mê chọi gà, chọi chim hay những trò thời thượng tương tự;
+- tập nghe được những lời nói thẳng, kể cả sự thật mất lòng;
+- đến với triết học: nghe giảng các thầy Baccheius, rồi Tandasis và Marcianus, và tập viết đối thoại triết học khi còn là học trò;
+- chọn lối sống khổ hạnh kiểu triết gia Hy Lạp: ngủ giường ván như lính, mặc áo choàng thô.
+
+Theo tiểu sử cổ, cậu bé Marcus khoảng 12 tuổi đã muốn ngủ dưới đất như triết gia, và mẹ phải thuyết phục mãi cậu mới chịu nằm giường. Chi tiết này cho thấy ngay từ nhỏ, với Marcus, triết học là một cách sống chứ không chỉ là môn học.
 
 ### Các thầy triết học Khắc kỷ (1.7–1.9)
 
-- **1.7. Rusticus** (Quintus Junius Rusticus, triết gia Khắc kỷ, về sau hai lần làm chấp chính quan, người thầy có ảnh hưởng lớn nhất). Đây là mục tách Marcus khỏi con đường văn chương:
-  - nhận ra rằng tính cách của mình **cần được rèn và sửa**, chứ không phải có sẵn;
-  - không để mê thích hùng biện kéo mình đi lạc;
-  - không viết luận văn về các vấn đề lý thuyết suông, không giảng đạo đức kiểu khoe mẽ, không đóng vai nhà khổ hạnh hay người làm phúc một cách gây ấn tượng;
-  - tránh lối nói hoa mỹ, thơ phú, văn chương cầu kỳ;
-  - không diện quần áo sang để đi lại trong nhà, không làm những việc khoe khoang tương tự;
-  - viết thư ngắn gọn, đi thẳng vào việc, như lá thư Rusticus từng gửi mẹ Marcus từ Sinuessa;
-  - với người đã làm mình giận hay khó chịu, sẵn sàng làm hoà ngay khi họ muốn quay lại;
-  - đọc kỹ, không tự bằng lòng với việc hiểu đại khái;
-  - không vội tin những người ăn nói trơn tru;
-  - và món nợ lớn nhất: chính Rusticus giới thiệu cho Marcus các bài giảng của **Epictetus**, và cho mượn bản chép riêng của mình. Epictetus là nguồn tư tưởng chính của *Suy tưởng*.
-- **1.8. Apollonius** (người xứ Chalcedon, triết gia Khắc kỷ). Các bài học:
-  - suy nghĩ độc lập, và một sự vững vàng không lay chuyển; không để tâm vào bất cứ gì khác ngoài lý trí (*logos*), dù chỉ trong khoảnh khắc;
-  - giữ nguyên con người mình trong cơn đau dữ dội, khi mất con, khi ốm lâu ngày;
-  - tận mắt thấy một người có thể vừa cương quyết vừa mềm mỏng;
-  - không bao giờ bực bội khi giảng giải cho người khác;
-  - coi kinh nghiệm và tài truyền đạt triết học của mình là phẩm chất **kém giá trị nhất** của bản thân;
-  - biết nhận ơn bạn bè đúng mực: không để ơn huệ làm mình mất tự trọng, mà cũng không tỏ ra vô ơn.
-- **1.9. Sextus** (người xứ Chaeronea, cháu của Plutarch). Các bài học:
-  - lòng tử tế; hình mẫu một gia đình do người cha dẫn dắt; hiểu thế nào là **sống thuận theo tự nhiên**;
-  - sự nghiêm trang không giả tạo;
-  - để tâm thật sự đến điều bạn bè cần;
-  - kiên nhẫn với người kém hiểu biết và với những người phát biểu ý kiến mà không nghĩ kỹ;
-  - hoà hợp được với mọi người, đến mức ở cạnh ông dễ chịu hơn được nịnh, và ai quen cũng kính trọng;
-  - có đầu óc sáng rõ để tìm hiểu và trình bày có hệ thống những nguyên tắc cần cho đời sống;
-  - không bao giờ để giận dữ hay một cảm xúc mạnh nào chế ngự, mà vẫn đầy tình thương người. Đây là chỗ quan trọng: điềm tĩnh kiểu Khắc kỷ đi **cùng** với tình cảm ấm áp, không loại trừ nó;
-  - khen ngợi đúng mực, không quá lời; học rộng mà không khoe.
+**Rusticus (1.7).** Quintus Junius Rusticus là triết gia Khắc kỷ, về sau hai lần làm chấp chính quan, và là người thầy có ảnh hưởng lớn nhất đến Marcus. Mục này là chỗ Marcus được tách khỏi con đường văn chương để đi theo triết học. Những gì ông học được:
+
+- nhận ra rằng tính cách của mình cần được rèn và sửa bằng kỷ luật, chứ không phải có sẵn;
+- không để niềm mê thích hùng biện kéo mình đi lạc;
+- không viết luận văn về các vấn đề lý thuyết suông, không giảng đạo đức kiểu khoe mẽ, không đóng vai nhà khổ hạnh hay người làm phúc để gây ấn tượng;
+- tránh lối nói hoa mỹ, thơ phú, văn chương cầu kỳ;
+- không diện quần áo sang để đi lại trong nhà, không làm những việc khoe khoang tương tự;
+- viết thư ngắn gọn, đi thẳng vào việc, như lá thư Rusticus từng gửi mẹ Marcus từ Sinuessa;
+- với người đã làm mình giận hay khó chịu, sẵn sàng làm hoà ngay khi họ muốn quay lại;
+- đọc kỹ, không tự bằng lòng với việc hiểu đại khái;
+- không vội tin những người ăn nói trơn tru.
+
+Món nợ lớn nhất: chính Rusticus đã giới thiệu cho Marcus các bài giảng của Epictetus, và cho ông mượn bản chép riêng của mình. Epictetus, một cựu nô lệ trở thành triết gia, là nguồn tư tưởng chính của toàn bộ *Suy tưởng*. Có thể nói không có Rusticus thì không có cuốn sách này như ta biết.
+
+**Apollonius (1.8).** Apollonius người xứ Chalcedon là triết gia Khắc kỷ. Marcus học từ ông:
+
+- suy nghĩ độc lập, và một sự vững vàng không lay chuyển; không để tâm vào bất cứ gì khác ngoài lý trí (*logos*), dù chỉ trong khoảnh khắc;
+- giữ nguyên con người mình trong cơn đau dữ dội, khi mất con, khi ốm lâu ngày;
+- tận mắt thấy một người có thể vừa cương quyết vừa mềm mỏng, hai phẩm chất người ta thường nghĩ loại trừ nhau;
+- không bao giờ bực bội khi giảng giải cho người khác;
+- coi kinh nghiệm và tài truyền đạt triết học của mình là phẩm chất kém giá trị nhất của bản thân;
+- biết nhận ơn bạn bè đúng mực: không để ơn huệ làm mình mất tự trọng, mà cũng không tỏ ra vô ơn.
+
+Điểm đáng chú ý là một người thầy triết học lại coi chính tài giảng triết học của mình là thứ nhỏ nhất. Với Apollonius, giá trị nằm ở cách sống chứ không ở bài giảng.
+
+**Sextus (1.9).** Sextus người xứ Chaeronea là cháu của nhà văn Plutarch. Các bài học:
+
+- lòng tử tế; hình mẫu một gia đình do người cha dẫn dắt; và hiểu thế nào là sống thuận theo tự nhiên;
+- sự nghiêm trang không giả tạo;
+- để tâm thật sự đến điều bạn bè cần;
+- kiên nhẫn với người kém hiểu biết và với những người phát biểu mà không nghĩ kỹ;
+- hoà hợp được với mọi người, đến mức ở cạnh ông còn dễ chịu hơn được nịnh, và ai quen ông cũng kính trọng;
+- có đầu óc sáng rõ để tìm hiểu và trình bày có hệ thống những nguyên tắc cần cho đời sống;
+- không bao giờ để giận dữ hay một cảm xúc mạnh nào chế ngự, mà vẫn đầy tình thương người;
+- khen ngợi đúng mực, không quá lời; học rộng mà không khoe.
+
+Bài học thứ bảy là chỗ quan trọng: sự điềm tĩnh kiểu Khắc kỷ đi cùng với tình cảm ấm áp, không loại trừ nó. Sextus là bằng chứng sống rằng làm chủ cơn giận không có nghĩa là trở nên lạnh lùng.
 
 ### Thầy văn chương, cố vấn và bạn (1.10–1.14)
 
-- **1.10. Alexander nhà ngữ pháp** (người xứ Cotiaeum). Bài học về cách sửa sai người khác: không soi lỗi, không chê bai gay gắt người dùng sai ngữ pháp, dùng từ lệch hay phát âm sai. Thay vào đó, trả lời đúng câu hỏi của họ, đưa thêm ví dụ, bàn vào nội dung chứ không bàn vào câu chữ, hoặc góp thêm điều có ích; trong lúc đó khéo dùng lại từ đúng để người kia tự nhận ra mà không bị xấu hổ.
-- **1.11. Fronto** (Marcus Cornelius Fronto, thầy hùng biện nổi tiếng nhất thời đó). Bài học: nhận ra sự ác ý, mưu mô và giả dối mà quyền lực sinh ra; và nhận ra rằng những người có xuất thân tốt lại thường có một sự lạnh lùng khó hiểu. Điều đáng chú ý: Marcus không ghi nhận từ Fronto tài hùng biện, mà một bài học về **mặt tối của triều đình**.
-- **1.12. Alexander người phái Plato** (thư ký tiếng Hy Lạp của Marcus). Bài học: đừng hay nói hay viết cho ai rằng mình "quá bận rộn"; đừng lấy cớ việc gấp để thoái thác bổn phận với những người xung quanh.
-- **1.13. Catulus** (Cinna Catulus, triết gia Khắc kỷ). Bài học:
-  - đừng thờ ơ khi bạn trách mình, kể cả khi lời trách vô lý; hãy cố hàn gắn để bạn trở lại như trước;
-  - khen thầy giáo một cách hết lòng (như chuyện Catulus kể về Domitius và Athenodotus, có lẽ là một cặp thầy trò nổi tiếng vì lòng kính trọng);
-  - thương con một cách thật lòng.
-- **1.14. Severus** (Claudius Severus, triết gia phái Aristotle, thông gia với Marcus). Các bài học:
-  - yêu gia đình, yêu sự thật và lẽ công bằng;
-  - qua ông, Marcus biết đến những tấm gương chống chuyên chế: Thrasea và Helvidius (hai nghị sĩ Khắc kỷ bị Nero và Vespasian xử tử), Cato (Cato Trẻ, chết để không phải sống dưới Caesar), Dion (người Syracuse, học trò Plato, lật đổ bạo chúa), Brutus;
-  - ý niệm về một nhà nước mà **luật như nhau cho mọi người**, vận hành trên nền bình đẳng và **tự do ngôn luận**, và về một nền quân chủ lấy tự do của thần dân làm điều đáng trọng nhất. Đây là một lý tưởng chính trị đáng chú ý ở một hoàng đế có quyền tuyệt đối;
-  - sự nhất quán và bền bỉ trong việc theo đuổi triết học;
-  - thích làm điều tốt, rộng rãi, lạc quan, tin rằng bạn bè quý mình;
-  - khi không đồng ý thì nói thẳng, không che giấu, nên bạn bè không phải đoán ông muốn gì hay không muốn gì.
+**Alexander nhà ngữ pháp (1.10).** Alexander người xứ Cotiaeum dạy Marcus cách sửa sai người khác. Ông không soi lỗi, không chê bai gay gắt người dùng sai ngữ pháp, dùng từ lệch hay phát âm sai. Thay vào đó, ông trả lời đúng câu hỏi của họ, đưa thêm ví dụ, bàn vào nội dung chứ không bàn vào câu chữ, hoặc góp thêm điều có ích; trong lúc đó, ông khéo dùng lại từ đúng để người kia tự nhận ra mà không bị xấu hổ. Đây là kỹ thuật sửa sai bằng làm mẫu thay vì chỉ trích.
+
+**Fronto (1.11).** Marcus Cornelius Fronto là thầy hùng biện nổi tiếng nhất thời đó và là người Marcus viết thư thân thiết trong nhiều năm. Vậy mà Marcus không ghi nhận từ Fronto tài hùng biện, mà ghi nhận hai điều về mặt tối của triều đình: sự ác ý, mưu mô và giả dối mà quyền lực sinh ra; và việc những người có xuất thân tốt lại thường có một sự lạnh lùng khó hiểu. Sự lựa chọn này cho thấy rõ Marcus coi trọng điều gì.
+
+**Alexander người phái Plato (1.12).** Alexander là thư ký tiếng Hy Lạp của Marcus. Bài học: đừng hay nói hay viết cho ai rằng mình "quá bận rộn", và đừng lấy cớ việc gấp để thoái thác bổn phận với những người xung quanh. Với một hoàng đế thực sự bận, đây là một lời tự nhắc khó giữ.
+
+**Catulus (1.13).** Cinna Catulus là triết gia Khắc kỷ. Marcus học từ ông ba điều. Thứ nhất, đừng thờ ơ khi bạn trách mình, kể cả khi lời trách vô lý; hãy cố hàn gắn để bạn trở lại thân thiện như trước. Thứ hai, khen thầy giáo một cách hết lòng, như chuyện Catulus kể về Domitius và Athenodotus, có lẽ là một cặp thầy trò nổi tiếng vì lòng kính trọng. Thứ ba, thương con một cách thật lòng.
+
+**Severus (1.14).** Claudius Severus là triết gia phái Aristotle và là thông gia với Marcus. Các bài học:
+
+- yêu gia đình, yêu sự thật và lẽ công bằng;
+- qua ông, Marcus biết đến những tấm gương chống chuyên chế: Thrasea và Helvidius (hai nghị sĩ Khắc kỷ bị Nero và Vespasian xử tử), Cato Trẻ (người chết để không phải sống dưới quyền Caesar), Dion người Syracuse (học trò Plato, lật đổ bạo chúa), và Brutus;
+- ý niệm về một nhà nước mà luật như nhau cho mọi người, vận hành trên nền bình đẳng và tự do ngôn luận, và về một nền quân chủ coi tự do của thần dân là điều đáng trọng nhất;
+- sự nhất quán và bền bỉ trong việc theo đuổi triết học;
+- thích làm điều tốt, rộng rãi, lạc quan, tin rằng bạn bè quý mình;
+- khi không đồng ý thì nói thẳng, không che giấu, nên bạn bè không phải đoán ông muốn gì hay không muốn gì.
+
+Lý tưởng chính trị ở đây rất đáng chú ý khi nó được ghi lại bởi một hoàng đế có quyền tuyệt đối: Marcus ý thức được khoảng cách giữa quyền lực của mình và tự do của người dân.
 
 ### Maximus (1.15)
 
-- **1.15. Maximus** (Claudius Maximus, triết gia Khắc kỷ, từng làm thống đốc). Các bài học:
-  - làm chủ bản thân, không để gì kéo mình chệch hướng;
-  - giữ tinh thần tốt trong nghịch cảnh, nhất là khi ốm;
-  - tính cách hoà trộn giữa dịu dàng và nghiêm trang;
-  - làm việc được giao mà không than;
-  - mọi người tin rằng ông nói đúng điều mình nghĩ, và làm gì cũng không có ác ý;
-  - không sợ, không nao núng; không vội vàng mà cũng không chần chừ; không bao giờ lúng túng trước hoàn cảnh; không xun xoe, nhưng cũng không cáu bẳn hay đa nghi;
-  - rộng lượng, sẵn lòng tha thứ, trung thực;
-  - cho người ta cảm giác ông **tự đi đúng đường** chứ không phải được ai giữ cho khỏi lạc;
-  - không ai cảm thấy bị ông coi thường, nhưng cũng không ai dám nghĩ mình hơn ông;
-  - biết đùa đúng lúc.
+Claudius Maximus là triết gia Khắc kỷ và từng làm thống đốc. Mục này vẽ một chân dung con người hơn là một danh sách bài học:
+
+- làm chủ bản thân, không để gì kéo mình chệch hướng;
+- giữ tinh thần tốt trong nghịch cảnh, nhất là khi ốm;
+- tính cách hoà trộn giữa dịu dàng và nghiêm trang;
+- làm việc được giao mà không than;
+- mọi người tin rằng ông nói đúng điều mình nghĩ, và làm gì cũng không có ác ý;
+- không sợ, không nao núng; không vội vàng mà cũng không chần chừ; không bao giờ lúng túng trước hoàn cảnh; không xun xoe, nhưng cũng không cáu bẳn hay đa nghi;
+- rộng lượng, sẵn lòng tha thứ, trung thực;
+- cho người ta cảm giác ông tự đi đúng đường, chứ không phải được ai giữ cho khỏi lạc;
+- không ai cảm thấy bị ông coi thường, nhưng cũng không ai dám nghĩ mình hơn ông;
+- biết đùa đúng lúc.
+
+Nét "tự đi đúng đường" là đích của đạo đức Khắc kỷ: đức hạnh trở thành bản tính, không còn cần ai giám sát hay luật lệ ép buộc. Và chi tiết "biết đùa đúng lúc" một lần nữa cho thấy người Khắc kỷ lý tưởng không khô khan.
 
 ### Cha nuôi Antoninus Pius (1.16)
 
-Antoninus Pius trị vì 138–161, nhận Marcus làm con nuôi năm 138 theo yêu cầu của hoàng đế Hadrian. Hai mươi ba năm làm người kế vị bên cạnh ông là trường học chính trị của Marcus. Đây là mục dài nhất của quyển. Gom theo nhóm:
+Antoninus Pius trị vì từ 138 đến 161. Năm 138, theo yêu cầu của hoàng đế Hadrian, ông nhận Marcus làm con nuôi. Hai mươi ba năm làm người kế vị bên cạnh ông là trường học chính trị của Marcus. Đây là mục dài nhất của quyển, và có thể gom thành năm mặt.
 
-- **Cách ra quyết định và làm việc**
-  - kiên định với điều đã quyết, nhưng chỉ sau khi đã cân nhắc kỹ;
-  - có thói quen tra hỏi cặn kẽ trong các cuộc bàn bạc, kiên trì, không dừng lại ở cách giải thích đầu tiên nghe có vẻ hợp lý, không cắt ngang tranh luận quá sớm;
-  - nhìn xa, và lặng lẽ lo trước cả những chi tiết nhỏ có thể ảnh hưởng đến kế hoạch;
-  - biết từ kinh nghiệm lúc nào nên đẩy tới, lúc nào nên dừng;
-  - xử lý mọi việc có lý lẽ, có tính trước, bình tĩnh và theo thứ tự, nhưng dứt khoát, không bỏ dở;
-  - yêu công việc và bền bỉ.
-- **Đối với người khác**
-  - có lòng trắc ẩn;
-  - sẵn lòng nghe bất kỳ ai có đề xuất vì lợi ích chung;
-  - kiên quyết đối xử với mỗi người **theo đúng công trạng** của họ;
-  - không đòi bạn bè phải mời tiệc cho vui hay theo hầu trong các chuyến đi; ai bận không đi được, khi gặp lại vẫn thấy ông như cũ, không giận;
-  - giữ bạn lâu, không chán bạn, nhưng cũng không quá say mê hay thiên vị ai;
-  - đặc biệt: sẵn sàng **nhường chỗ cho người giỏi hơn** trong các lĩnh vực chuyên môn (hùng biện, luật, hiểu biết về tính cách con người, v.v.) và hết lòng hỗ trợ để họ phát huy;
-  - nổi tiếng với cách ông đối xử độ lượng với viên thu thuế ở Tusculum khi người này xin ông khoan dung; Marcus nói ông luôn cư xử như vậy;
-  - kính trọng những người thực lòng theo triết học, và không chê bai những người tự xưng triết gia khác, chỉ đơn giản là không nghe theo họ;
-  - hoà nhã, được lòng người mà không cố đòi người ta quý mình.
-- **Đối với quyền lực, danh tiếng và của công**
-  - không coi trọng hư danh; hạn chế những lời tung hô dành cho mình và chặn mọi trò nịnh bợ;
-  - với các thần thì không mê tín; với dân thì không mị dân, không mua lòng bằng quà cáp hay lời ngon ngọt, mà luôn tỉnh táo, vững vàng, đúng mực; không bao giờ dung tục hay chạy theo cái mới lạ;
-  - tận tuỵ với nhu cầu của đế quốc; giữ chặt ngân khố, chi tiêu công dè sẻn, và chấp nhận bị chê bai vì chuyện đó;
-  - thận trọng với những khoản chi để lấy tiếng: tổ chức trò diễn cho công chúng, xây công trình phô trương, phân phát của cải; với những việc ấy ông chỉ hỏi cái gì cần làm, không hỏi cái gì đem lại danh tiếng;
-  - tôn trọng truyền thống mà không đi khoe mình đã giữ gìn nó;
-  - có rất ít bí mật, và phần lớn số ít đó là bí mật quốc gia;
-  - không ai có thể gọi ông là kẻ nguỵ biện, kẻ cợt nhả hay kẻ làm ra vẻ uyên bác; người ta thấy ông đúng như ông là: một người trưởng thành qua thử thách, không để lời khen làm lay động, đủ sức làm chủ mình và cai trị người khác.
-- **Đời sống riêng**
-  - có nhiều tiện nghi do vận may đem lại, ông dùng mà không kiêu căng cũng không áy náy; có thì hưởng, không có thì không thấy thiếu;
-  - đã chấm dứt chuyện si mê các thiếu niên (một thói phổ biến của giới quyền quý đương thời);
-  - chăm sức khoẻ vừa phải: không phải người sợ ốm hay chăm chút vẻ ngoài, cũng không bỏ bê thân thể; vì thế hiếm khi cần thầy thuốc hay thuốc men;
-  - không thích thay đổi liên tục, thích ở những chỗ quen, làm những việc quen;
-  - sau những cơn đau nửa đầu, trở lại ngay với công việc đang dở, tỉnh táo và đầy sức;
-  - không tắm vào giờ giấc bất thường; không xây nhà để thoả thích riêng; không cầu kỳ chuyện ăn, chất liệu hay màu áo, hay vẻ đẹp của nô lệ; quần áo lấy từ trang trại của ông ở Lorium, đồ dùng khác phần lớn từ Lanuvium.
-- **Tâm thế và sức mạnh tinh thần**
-  - tự đủ trong mọi hoàn cảnh, nhờ vậy luôn vui vẻ, hoà nhã;
-  - không bao giờ thô bạo, mất tự chủ hay nóng nảy; không ai thấy ông giận đến mức "toát mồ hôi";
-  - điều người ta từng nói về **Socrates** cũng đúng với ông: ông có thể hưởng hay nhịn những thứ mà người khác vừa không nhịn nổi vừa hưởng thì sa đà. Sức mạnh để vừa tiết chế khi hưởng vừa kiên trì khi nhịn là dấu hiệu của một tinh thần hoàn chỉnh, bất khuất, như ông đã cho thấy khi Maximus lâm bệnh.
+**1. Cách ra quyết định và làm việc.** Antoninus kiên định với điều đã quyết, nhưng chỉ sau khi đã cân nhắc kỹ. Trong các cuộc bàn bạc, ông có thói quen tra hỏi cặn kẽ và kiên trì; ông không dừng lại ở cách giải thích đầu tiên nghe có vẻ hợp lý, và không cắt ngang tranh luận quá sớm. Ông nhìn xa, và lặng lẽ lo trước cả những chi tiết nhỏ có thể ảnh hưởng đến kế hoạch. Ông biết từ kinh nghiệm lúc nào nên đẩy tới, lúc nào nên dừng. Ông xử lý mọi việc có lý lẽ, có tính trước, bình tĩnh và theo thứ tự, nhưng dứt khoát, không bỏ dở. Ông yêu công việc và bền bỉ.
+
+**2. Quan hệ với người khác.** Antoninus có lòng trắc ẩn và sẵn lòng nghe bất kỳ ai có đề xuất vì lợi ích chung. Ông kiên quyết đối xử với mỗi người theo đúng công trạng của họ. Ông không đòi bạn bè phải mời tiệc cho vui hay theo hầu trong các chuyến đi; ai bận không đi được, khi gặp lại vẫn thấy ông như cũ, không giận. Ông giữ bạn lâu, không chán bạn, nhưng cũng không quá say mê hay thiên vị ai. Đặc biệt, ông sẵn sàng nhường chỗ cho người giỏi hơn mình trong các lĩnh vực chuyên môn như hùng biện, luật, hiểu biết về tính cách con người, và hết lòng hỗ trợ để họ phát huy. Ông nổi tiếng với cách đối xử độ lượng với viên thu thuế ở Tusculum khi người này xin ông khoan dung, và Marcus nói ông luôn cư xử như vậy. Ông kính trọng những người thực lòng theo triết học, không chê bai những kẻ tự xưng triết gia khác mà chỉ đơn giản là không nghe theo họ. Ông hoà nhã, được lòng người mà không cố đòi người ta quý mình.
+
+**3. Quan hệ với quyền lực, danh tiếng và của công.** Antoninus không coi trọng hư danh; ông hạn chế những lời tung hô dành cho mình và chặn mọi trò nịnh bợ. Với các thần, ông không mê tín; với dân, ông không mị dân, không mua lòng người bằng quà cáp hay lời ngon ngọt, mà luôn tỉnh táo, vững vàng, đúng mực, không bao giờ dung tục hay chạy theo cái mới lạ. Ông tận tuỵ với nhu cầu của đế quốc, giữ chặt ngân khố, chi tiêu công dè sẻn và chấp nhận bị chê bai vì chuyện đó. Ông thận trọng với những khoản chi để lấy tiếng như tổ chức trò diễn cho công chúng, xây công trình phô trương hay phân phát của cải; với những việc ấy, ông chỉ hỏi cái gì cần làm, không hỏi cái gì đem lại danh tiếng. Ông tôn trọng truyền thống mà không khoe mình đã giữ gìn nó. Ông có rất ít bí mật, và phần lớn số ít đó là bí mật quốc gia. Không ai có thể gọi ông là kẻ nguỵ biện, kẻ cợt nhả hay kẻ làm ra vẻ uyên bác; người ta thấy ông đúng như ông là: một người trưởng thành qua thử thách, không để lời khen làm lay động, đủ sức làm chủ mình và cai trị người khác.
+
+**4. Đời sống riêng.** Ông có nhiều tiện nghi do vận may đem lại, dùng mà không kiêu căng cũng không áy náy; có thì hưởng, không có thì không thấy thiếu. Ông đã chấm dứt chuyện si mê các thiếu niên, một thói phổ biến của giới quyền quý đương thời. Ông chăm sức khoẻ vừa phải: không phải người sợ ốm hay chăm chút vẻ ngoài, cũng không bỏ bê thân thể; nhờ vậy hiếm khi cần thầy thuốc hay thuốc men. Ông không thích thay đổi liên tục, thích ở những chỗ quen và làm những việc quen, tức là có một nếp sinh hoạt ổn định. Sau những cơn đau nửa đầu, ông trở lại ngay với công việc đang dở, tỉnh táo và đầy sức. Ông không tắm vào giờ giấc bất thường, không xây nhà để thoả thích riêng, không cầu kỳ chuyện ăn uống, chất liệu hay màu áo, hay vẻ đẹp của nô lệ hầu hạ. Quần áo của ông lấy từ trang trại ở Lorium, đồ dùng khác phần lớn từ Lanuvium.
+
+**5. Tâm thế và sức mạnh tinh thần.** Antoninus tự đủ trong mọi hoàn cảnh, nhờ vậy luôn vui vẻ, hoà nhã. Ông không bao giờ thô bạo, mất tự chủ hay nóng nảy; không ai thấy ông giận đến mức "toát mồ hôi". Điều người ta từng nói về Socrates cũng đúng với ông: ông có thể hưởng hoặc nhịn những thứ mà người khác vừa không nhịn nổi vừa hưởng thì sa đà. Sức mạnh để vừa tiết chế khi hưởng vừa kiên trì khi nhịn là dấu hiệu của một tinh thần hoàn chỉnh, bất khuất, như ông đã cho thấy khi Maximus lâm bệnh.
+
+Nhìn tổng thể, gần như mọi nét được khen ở Antoninus là một sự tự giới hạn: người có toàn quyền nhưng tự chặn tung hô, tự giữ ngân khố, tự kìm cơn giận. Quyền lực không làm ông thay đổi; ông dùng nó như một người quản gia chứ không như một chủ nhân.
 
 ### Các thần (1.17)
 
-Mục cuối chuyển từ "ta học được từ ai" sang "ta mang ơn các thần vì điều gì". Danh sách gồm cả những điều may và những điều **không xảy ra**:
+Mục cuối chuyển từ câu hỏi "ta học được từ ai" sang câu hỏi "ta mang ơn các thần vì điều gì". Điểm lạ của danh sách là nó gồm cả những điều may đã xảy ra và những điều xấu không xảy ra.
 
-- **Về người thân và quan hệ**
-  - có ông bà, cha mẹ, chị gái, thầy, người thân, bạn bè gần như đều tốt;
-  - chưa bao giờ đối xử quá đáng với ai trong số họ, dù tính khí ông có thể dẫn tới điều đó và quyền lực cho phép; nhưng nhờ các thần, hoàn cảnh không bao giờ đặt ông vào chỗ phải bị thử thách như vậy;
-  - được cha nuôi, một người cai trị, chọn và dạy dỗ; ông giữ cho Marcus khỏi kiêu ngạo và cho thấy có thể sống trong cung điện mà không cần vệ binh, áo thêu, đuốc sáng, tượng đài và đủ thứ phô trương; có thể sống gần như một người thường mà không vì thế trở nên luộm thuộm hay lơ là bổn phận của người cầm quyền;
-  - có một người anh em (Lucius Verus) mà phẩm chất thúc đẩy Marcus tự sửa mình, và tình thương làm ông thấy mình giàu có;
-  - các con không ngớ ngẩn hay dị tật;
-  - sớm đưa những người đã nuôi dạy mình lên các chức vị danh dự họ mong, không bắt họ chờ với lý do họ còn trẻ;
-  - được biết Apollonius, Rusticus, Maximus;
-  - mẹ mất sớm, nhưng những năm cuối đời bà đã sống bên ông;
-  - dù hay bực Rusticus, chưa bao giờ làm điều gì để sau phải hối hận;
-  - có người vợ (Faustina) biết vâng lời, yêu thương và giản dị;
-  - các con có thầy tốt.
-- **Về dục vọng và tự chủ**
-  - không phải sống lâu hơn dưới sự nuôi dạy của người tình của ông nội; giữ được tuổi trẻ trong sạch, không vội trở thành người trưởng thành trước thời điểm;
-  - không đụng đến Benedicta hay Theodotus; về sau, khi bị dục vọng chi phối, vẫn tìm được đường thoát ra và lấy lại tự chủ.
-- **Về con đường trí tuệ**
-  - không tiến xa trong hùng biện, thơ ca và các môn tương tự; nếu thấy mình giỏi lên, có lẽ ông đã không dứt ra được để chuyển sang điều cốt lõi;
-  - khi đến với triết học thì không rơi vào tay một nhà nguỵ biện, không sa vào viết luận thuyết, giải tam đoạn luận hay mải mê quan sát thiên văn.
-- **Về sống thuận tự nhiên**
-  - thường xuyên có những hình dung rõ ràng về thế nào là sống thuận theo tự nhiên; về phía các thần, mọi sự giúp đỡ, chỉ dẫn đều đã có, nên không gì ngăn ông sống như vậy;
-  - nếu chưa đạt thì **lỗi tại ông**, vì không chú tâm vào những lời nhắc và chỉ dẫn ấy. Đây là câu duy nhất trong mục mà Marcus tự nhận trách nhiệm: phần được ban là của thần, phần chú tâm là của ta.
-- **Về thân thể và vật chất**
-  - thân thể chịu đựng được lâu đến vậy với cuộc sống như thế (Marcus nhiều bệnh suốt đời);
-  - mỗi khi muốn giúp ai về tiền bạc hay việc gì khác, chưa bao giờ bị báo là không đủ khả năng; và bản thân chưa bao giờ rơi vào cảnh phải nhận giúp đỡ;
-  - được chỉ cho phương thuốc qua giấc mơ, chữa chứng ho ra máu, chóng mặt, và trận ốm ở Caieta.
-- **Câu kết:** tất cả những điều trên đều cần đến sự trợ giúp của thần linh và vận may. Lời cảm ơn khép lại bằng một lời thừa nhận rằng phần lớn những gì làm nên con người ông **không thuộc quyền ông**.
+**Về người thân và các mối quan hệ.** Marcus cảm ơn vì có ông bà, cha mẹ, chị gái, thầy, người thân và bạn bè gần như đều tốt. Ông chưa bao giờ đối xử quá đáng với ai trong số họ, dù tính khí ông có thể dẫn tới điều đó và quyền lực cho phép; nhưng nhờ các thần, hoàn cảnh không bao giờ đặt ông vào chỗ phải bị thử thách như vậy. Ông được cha nuôi, một người cai trị, chọn và dạy dỗ; người cha ấy giữ cho ông khỏi kiêu ngạo và cho thấy có thể sống trong cung điện mà không cần vệ binh, áo thêu, đuốc sáng, tượng đài và đủ thứ phô trương, có thể sống gần như một người thường mà không vì thế trở nên luộm thuộm hay lơ là bổn phận cầm quyền. Ông có một người anh em, Lucius Verus, mà phẩm chất thúc đẩy ông tự sửa mình và tình thương làm ông thấy mình giàu có. Các con ông không ngớ ngẩn hay dị tật. Ông sớm đưa những người đã nuôi dạy mình lên các chức vị danh dự họ mong, không bắt họ chờ với lý do họ còn trẻ. Ông được biết Apollonius, Rusticus và Maximus. Mẹ ông mất sớm, nhưng những năm cuối đời bà đã sống bên ông. Dù hay bực Rusticus, ông chưa bao giờ làm điều gì để sau phải hối hận. Ông có người vợ, Faustina, biết vâng lời, yêu thương và giản dị. Các con ông có thầy tốt.
+
+**Về dục vọng và tự chủ.** Ông cảm ơn vì không phải sống lâu hơn dưới sự nuôi dạy của người tình của ông nội, nhờ đó giữ được tuổi trẻ trong sạch, không vội trở thành người trưởng thành trước thời điểm. Ông không đụng đến Benedicta hay Theodotus (có lẽ là người trong gia nhân); về sau, khi bị dục vọng chi phối, ông vẫn tìm được đường thoát ra và lấy lại tự chủ.
+
+**Về con đường trí tuệ.** Ông cảm ơn vì không tiến xa trong hùng biện, thơ ca và các môn tương tự; nếu thấy mình giỏi lên, có lẽ ông đã không dứt ra được để chuyển sang điều cốt lõi. Khi đến với triết học, ông không rơi vào tay một nhà nguỵ biện, không sa vào viết luận thuyết, giải tam đoạn luận hay mải mê quan sát thiên văn.
+
+**Về sống thuận tự nhiên.** Ông thường xuyên có những hình dung rõ ràng về thế nào là sống thuận theo tự nhiên. Về phía các thần, mọi sự giúp đỡ và chỉ dẫn đều đã có, nên không gì ngăn ông sống như vậy. Nếu ông chưa đạt được, thì lỗi hoàn toàn tại ông, vì không chú tâm vào những lời nhắc và chỉ dẫn ấy. Đây là câu duy nhất trong mục mà Marcus tự nhận trách nhiệm: phần được ban là của thần, phần chú tâm là của ta.
+
+**Về thân thể và vật chất.** Ông cảm ơn vì thân thể chịu đựng được lâu đến vậy với cuộc sống như thế; Marcus nhiều bệnh suốt đời. Mỗi khi muốn giúp ai về tiền bạc hay việc gì khác, ông chưa bao giờ bị báo là không đủ khả năng; và bản thân ông chưa bao giờ rơi vào cảnh phải nhận giúp đỡ. Ông được chỉ cho phương thuốc qua giấc mơ để chữa chứng ho ra máu, chóng mặt, và trận ốm ở Caieta.
+
+**Câu kết.** Tất cả những điều trên đều cần đến sự trợ giúp của thần linh và vận may. Lời cảm ơn khép lại bằng một lời thừa nhận rằng phần lớn những gì làm nên con người Marcus không thuộc quyền ông. Thừa nhận như vậy giữ ông khỏi kiêu ngạo: một hoàng đế được tung hô hằng ngày rất dễ tin rằng mình tốt là nhờ chính mình. Đồng thời, nó để lại cho ông một trách nhiệm hẹp nhưng không thể đổ cho ai: chú tâm vào những gì đã được chỉ dạy.
 
 ## Luận điểm triết học cốt lõi
 
