@@ -289,100 +289,329 @@
 2. **Vì sao tiền công cao ở nước đang giàu lên chứ không ở nước giàu nhất?** Vì cầu lao động phụ thuộc vào tốc độ tăng của quỹ trả công, không phải độ lớn của nó. Bắc Mỹ nghèo hơn Anh nhưng tăng nhanh nên công cao; Trung Hoa giàu nhưng đứng yên nên công ở mức tối thiểu; Bengal suy thoái nên người chết đói.
 3. **Tiền công cao có hại cho xã hội không?** Không. Nó là triệu chứng của thịnh vượng, nó làm dân số tăng, nó khuyến khích cần cù, và nó được bù đắp bởi năng suất tăng nhờ tích luỹ vốn và phân công lao động.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tiền công danh nghĩa và tiền công thực (money price of labour / real recompence of labour).** Tiền công danh nghĩa là số tiền người lao động nhận được; tiền công thực là lượng lương thực, quần áo, nhà ở và tiện nghi mà số tiền đó mua được. Ví dụ minh hoạ: nếu tiền công tăng từ 10 lên 12 penny một ngày (tăng 20%) nhưng giá bánh mì cũng tăng 20%, tiền công thực không đổi; ngược lại nếu tiền công giữ nguyên mà khoai tây rẻ đi một nửa, tiền công thực đã tăng. Khái niệm này quan trọng vì gần như mọi lập luận trong chương (Bắc Mỹ trả cao hơn London, tiền công ở Anh đã tăng từ thế kỷ trước) đều phải tách hai thứ này ra.
+
+**Đơn vị tiền Anh thời Smith.** 1 bảng (pound) bằng 20 shilling, 1 shilling bằng 12 penny, nên 1 bảng bằng 240 penny. Trong chương, "18 penny một ngày" ở London tức là 1 shilling 6 penny. Ở New York còn có "tiền thuộc địa" (*currency*), giá trị thấp hơn tiền Anh (*sterling*): 3 shilling 6 penny tiền thuộc địa chỉ bằng 2 shilling sterling. Phải nắm điều này mới so được tiền công giữa các nơi.
+
+**Quỹ trả công (funds destined for the payment of wages).** Phần thu nhập và phần vốn mà người sở hữu có dư, sau khi đã lo đủ nhu cầu của chính mình, và đem dùng để thuê người khác. Ví dụ minh hoạ: một chủ đất có thu nhập 500 bảng mỗi năm, tiêu cho gia đình 300 bảng, phần 200 bảng còn lại có thể dùng thuê thêm đầy tớ; một thợ dệt độc lập có vốn nhiều hơn mức cần để mua sợi và nuôi nhà thì thuê thêm thợ phụ. Đây là trục của cả chương: Smith nói cầu lao động chỉ tăng khi quỹ này tăng.
+
+**Trạng thái tiến, đứng yên, suy thoái (progressive / stationary / declining state).** Ba tình huống của một nền kinh tế, phân theo việc quỹ trả công đang tăng, giữ nguyên hay giảm, chứ không theo nước đó giàu hay nghèo. Ví dụ trong chương: Bắc Mỹ nghèo hơn Anh nhưng đang tiến, nên tiền công cao và dân số gấp đôi trong 20–25 năm; Trung Hoa giàu nhưng đứng yên, nên tiền công ở mức tối thiểu; Bengal suy thoái, nên 300–400 nghìn người chết đói trong một năm. Khái niệm này chứa mệnh đề trung tâm của chương: tiền công đi theo **tốc độ tăng** của của cải chứ không theo **mức** của cải.
+
+**Liên kết và sức mặc cả (combination, bargaining power).** Liên kết là thoả thuận tập thể: chủ thoả thuận với nhau để không tăng hoặc hạ tiền công, thợ thoả thuận với nhau để đòi tăng. Bên nào chịu được lâu hơn khi hai bên không thoả thuận được thì có sức mặc cả lớn hơn. Ví dụ trong chương: chủ đất, chủ xưởng sống được một hai năm bằng vốn sẵn có, còn nhiều thợ không sống nổi một tuần nếu mất việc. Smith dùng khái niệm này để giải thích vì sao trong ngắn hạn chủ thường thắng; ngày nay ý này được gọi là sức mạnh độc quyền mua lao động (*monopsony*).
+
+**Mức sàn của tiền công (mức "nhân tính thông thường", common humanity).** Mức tiền công thấp nhất có thể duy trì lâu dài: đủ để người lao động sống và nuôi được đủ con để thay thế thế hệ mình. Ví dụ trong chương: theo Cantillon, nếu một nửa số trẻ chết trước tuổi trưởng thành thì mỗi gia đình nghèo phải nuôi bốn con để hai đứa sống sót, nên người cha phải kiếm gấp đôi mức tự nuôi mình. Khái niệm này cho biết giới hạn dưới của mặc cả: chủ có thắng đến đâu cũng không thể ép tiền công xuống dưới mức này mãi.
+
+**Chênh lệch tiền công theo vùng và chi phí di chuyển của lao động.** Hàng hoá được chở từ nơi rẻ sang nơi đắt nên giá giữa các nơi gần bằng nhau; con người thì khó dời nhà, nên tiền công có thể chênh nhau lâu dài. Ví dụ trong chương: London trả khoảng 18 penny một ngày, vùng cách đó vài dặm chỉ 14–15 penny, dù giá bánh mì và thịt gần như như nhau. Smith dùng chính chênh lệch này làm bằng chứng rằng tiền công không do giá lương thực quyết định.
+
+**Tiền công hiệu quả và làm khoán (efficiency wages, piece-work).** Làm khoán là trả công theo số sản phẩm thay vì theo ngày. Tiền công hiệu quả là ý cho rằng trả cao hơn làm người lao động khoẻ hơn, có động lực hơn và vì thế làm ra nhiều hơn, nên chủ có thể có lợi khi trả cao. Ví dụ trong chương: thợ được trả khoán hậu dễ làm quá sức, thợ mộc London được cho là không giữ được sức tối đa quá 8 năm. Khái niệm này giúp hiểu vì sao Smith bác bỏ quan điểm "trả thấp thì thợ mới chăm".
+
+## Nội dung chi tiết
 
 ### 1. Nguồn gốc của tiền công và hai phần khấu trừ
 
-- Sản phẩm của lao động là sự đền bù tự nhiên, tức tiền công, của lao động. Trong trạng thái ban đầu, trước khi đất bị chiếm hữu và vốn được tích luỹ, toàn bộ sản phẩm thuộc về người lao động.
-- Nếu trạng thái đó kéo dài, tiền công sẽ tăng cùng năng suất do phân công lao động, và mọi thứ sẽ rẻ đi theo nghĩa thực. Smith minh hoạ sự khác biệt giữa "rẻ thực" và "đắt bề ngoài": nếu năng suất phần lớn các ngành tăng 10 lần mà một ngành chỉ tăng 2 lần, hàng của ngành đó sẽ đổi được gấp 5 lần lượng hàng khác (trông đắt hơn 5 lần), nhưng thực ra chỉ cần một nửa lượng lao động để làm ra hoặc mua nó (rẻ hơn 2 lần). Đây là ứng dụng trực tiếp thước đo giá trị bằng lao động ông đã đặt ra ở Quyển I, Chương V.
-- Trạng thái đó chấm dứt từ lâu, trước khi có cải tiến đáng kể, nên Smith gạt sang bên.
-- Khi đất thành tư hữu, **địa tô** là phần khấu trừ thứ nhất khỏi sản phẩm lao động trên đất. Người làm ruộng hiếm khi đủ ăn đến mùa gặt; họ sống bằng phần chủ trại ứng trước từ vốn, và chủ trại chỉ thuê khi được chia một phần sản phẩm, đó là **lợi nhuận**, phần khấu trừ thứ hai.
-- Trong mọi ngành chế tạo, người thợ cũng cần chủ ứng trước vật liệu và tiền công cho đến khi xong việc; lợi nhuận của chủ nằm trong phần giá trị lao động thêm vào vật liệu mà chủ được chia.
-- Thợ độc lập có đủ vốn riêng thì vừa là chủ vừa là thợ, hưởng cả lợi nhuận lẫn tiền công. Nhưng hiếm: trên toàn lục địa châu Âu, cứ 20 thợ làm thuê mới có 1 thợ độc lập. Vì vậy "tiền công" được hiểu là thu nhập của người làm thuê cho một người chủ khác có vốn.
+Smith mở chương bằng định nghĩa: sản phẩm của lao động là sự đền bù tự nhiên của lao động, tức là tiền công. Để thấy tiền công ở dạng thuần nhất, ông hình dung **trạng thái ban đầu** của xã hội, trước khi đất đai bị chiếm hữu và trước khi có ai tích luỹ được vốn. Trong trạng thái đó không có chủ đất đòi địa tô, không có chủ xưởng đòi lợi nhuận, nên toàn bộ sản phẩm thuộc về người làm ra nó.
+
+Nếu trạng thái ấy kéo dài, tiền công sẽ tăng cùng với năng suất mà phân công lao động đem lại, và mọi thứ sẽ rẻ đi theo nghĩa thực, vì mỗi món đều được làm ra bằng ít lao động hơn trước. Những hàng hoá làm ra bằng lượng lao động bằng nhau sẽ đổi cho nhau, nên người lao động mua được mọi thứ bằng sản phẩm của ít lao động hơn.
+
+Smith dùng một ví dụ số để phân biệt "rẻ thực sự" với "đắt bề ngoài":
+
+| Giả định | Kết quả |
+|---|---|
+| Năng suất phần lớn các ngành tăng 10 lần | Hàng của các ngành này cần một phần mười lượng lao động cũ |
+| Năng suất một ngành riêng chỉ tăng 2 lần | Hàng của ngành này cần một nửa lượng lao động cũ |
+| So hàng ngành chậm với hàng các ngành khác | Một đơn vị hàng ngành chậm đổi được gấp 5 lần lượng hàng khác so với trước, nên **trông như đắt gấp 5** |
+| Đo bằng lao động | Người mua chỉ cần bỏ ra một nửa lượng lao động so với trước, nên thực ra **rẻ gấp 2** |
+
+Đây là ứng dụng trực tiếp thước đo giá trị bằng lao động mà Smith đã đặt ra ở Quyển I, Chương V: giá tính bằng hàng khác có thể tăng trong khi giá tính bằng lao động lại giảm.
+
+Tuy nhiên trạng thái ban đầu đã chấm dứt từ rất lâu, trước khi có những cải tiến đáng kể về năng suất, nên Smith cho rằng bàn tiếp về nó là vô ích và gạt sang bên.
+
+Khi đất trở thành tư hữu, xuất hiện **phần khấu trừ thứ nhất**: **địa tô**. Chủ đất đòi một phần sản lượng mà người lao động làm ra hay thu hái được trên đất của mình.
+
+**Phần khấu trừ thứ hai** là **lợi nhuận**. Người làm ruộng hiếm khi có đủ của để tự nuôi mình cho tới mùa gặt. Họ sống nhờ phần mà một chủ trại ứng trước từ vốn của chủ trại, và chủ trại chỉ chịu thuê người khi được chia một phần sản phẩm, tức là khi vốn bỏ ra được hoàn lại kèm theo một khoản lời.
+
+Điều tương tự xảy ra trong mọi ngành chế tạo. Phần lớn thợ cần một người chủ ứng trước vật liệu và trả tiền công cho tới khi sản phẩm hoàn thành. Lợi nhuận của chủ nằm trong phần giá trị mà lao động thêm vào vật liệu: chủ được chia một phần giá trị ấy.
+
+Có một ngoại lệ: **thợ độc lập**, người có đủ vốn riêng để mua vật liệu và tự nuôi mình cho tới khi bán được hàng. Người này vừa là chủ vừa là thợ, nên hưởng cả lợi nhuận lẫn tiền công. Nhưng trường hợp đó hiếm: trên toàn lục địa châu Âu, cứ 20 thợ làm thuê cho chủ mới có 1 thợ độc lập. Vì vậy, khi nói "tiền công", Smith hiểu là thu nhập của người làm thuê cho một người chủ khác có vốn.
 
 ### 2. Mặc cả tiền công: vì sao chủ thắng
 
-- Tiền công thông thường được định trong hợp đồng giữa hai bên có lợi ích không bao giờ trùng nhau: thợ muốn được nhiều, chủ muốn trả ít; thợ liên kết để tăng, chủ liên kết để hạ.
-- Chủ có lợi thế vì ba lý do: số ít nên dễ phối hợp; luật pháp cho phép hoặc không cấm chủ liên kết nhưng có nhiều đạo luật cấm thợ liên kết, và không có đạo luật nào cấm phối hợp hạ công; chủ chịu được lâu hơn trong tranh chấp, sống được một hai năm bằng vốn sẵn có, còn nhiều thợ không sống nổi một tuần, ít người qua một tháng, rất ít người qua một năm nếu không có việc. Về lâu dài hai bên cần nhau như nhau, nhưng sự cần ấy không cấp bách như nhau.
-- Smith bác bỏ ấn tượng rằng chủ ít liên kết: người nghĩ vậy "chẳng hiểu gì về sự đời cũng như về vấn đề". Chủ luôn liên kết ngầm và thường xuyên để không tăng công vượt mức hiện hành; phá vỡ là điều đáng chê trách và nhục nhã trong giới chủ. Đôi khi chủ còn liên kết bí mật để hạ công dưới mức đó. Ta ít nghe vì đó là trạng thái bình thường, và khi thợ chịu hạ công không kháng cự thì không ai biết.
-- Thợ liên kết, để phòng vệ hay tấn công (viện cớ giá lương thực cao hoặc chủ lãi quá nhiều), thì luôn ồn ào, đôi khi bạo lực, vì tuyệt vọng: hoặc chết đói, hoặc doạ được chủ. Chủ kêu quan toà thi hành luật chống liên kết của thợ. Do quan toà can thiệp, chủ cứng rắn và thợ không đủ ăn để kéo dài, các cuộc liên kết thường kết thúc mà chỉ để lại việc trừng phạt hoặc làm điêu đứng người cầm đầu.
+Ở mọi nơi, tiền công thông thường được định trong một **hợp đồng** giữa hai bên có lợi ích không bao giờ trùng nhau. Thợ muốn nhận càng nhiều càng tốt; chủ muốn trả càng ít càng tốt. Vì vậy thợ có xu hướng liên kết với nhau để đòi tăng công, còn chủ liên kết với nhau để hạ công.
+
+Smith nói không khó đoán bên nào thắng trong cuộc tranh chấp thông thường. Chủ có lợi thế vì ba lý do:
+
+| Lý do | Giải thích |
+|---|---|
+| 1. Số ít | Chủ ít người hơn thợ rất nhiều, nên dễ gặp nhau và thoả thuận |
+| 2. Luật pháp | Luật cho phép, hoặc ít nhất không cấm, chủ liên kết; trong khi có nhiều đạo luật cấm thợ liên kết. Không có đạo luật nào cấm chủ phối hợp để hạ công, nhưng có nhiều đạo luật cấm thợ phối hợp để tăng công |
+| 3. Sức chịu đựng | Chủ đất, chủ trại, chủ xưởng, lái buôn, dù không thuê một người nào, vẫn sống được 1–2 năm bằng vốn sẵn có. Nhiều thợ không sống nổi 1 tuần, ít người sống nổi 1 tháng, hiếm ai sống nổi 1 năm nếu không có việc |
+
+Về lâu dài, chủ cần thợ cũng như thợ cần chủ, nhưng sự cần đó không cấp bách như nhau. Bên nào chờ được lâu hơn thì ép được bên kia.
+
+Smith bác bỏ ấn tượng phổ biến rằng chủ ít khi liên kết, vì ta "ít nghe nói" về chuyện đó. Người nghĩ vậy, theo ông, "chẳng hiểu gì về sự đời cũng như về vấn đề". Chủ **luôn luôn** liên kết, một cách ngầm nhưng thường xuyên và đều đặn, để không tăng tiền công vượt mức đang trả. Phá vỡ thoả thuận ngầm này bị coi là việc đáng chê trách và nhục nhã trong giới chủ. Đôi khi chủ còn liên kết bí mật để hạ tiền công xuống dưới mức hiện hành. Ta ít nghe về những liên kết ấy vì đó là trạng thái bình thường, không ai bàn tới; và khi thợ chịu bị hạ công mà không kháng cự, người ngoài chẳng biết gì.
+
+Liên kết của thợ thì khác hẳn. Thợ liên kết để phòng vệ trước việc bị hạ công, hoặc để tấn công, đòi tăng công với lý do giá lương thực cao hay chủ lãi quá nhiều. Các cuộc liên kết này luôn ồn ào, đôi khi bạo lực, vì thợ ở thế tuyệt vọng: họ hoặc chết đói, hoặc phải làm chủ sợ để chủ chấp nhận ngay. Chủ đáp lại bằng cách kêu gọi quan toà dân sự thi hành nghiêm các đạo luật chống liên kết của thợ. Vì có quan toà can thiệp, vì chủ cứng rắn hơn, và vì phần lớn thợ cần tiền để ăn ngay nên không kéo dài được, các cuộc liên kết của thợ thường kết thúc mà không được gì, chỉ để lại việc trừng phạt hoặc làm điêu đứng những người cầm đầu.
 
 ### 3. Mức sàn của tiền công
 
-- Dù chủ có lợi thế, có một mức mà dưới đó không thể hạ công lâu dài: người lao động phải sống được bằng công việc của mình, và thường phải hơn thế để nuôi gia đình, nếu không dòng giống thợ không tồn tại quá một thế hệ.
-- Cantillon giả định lao động thấp nhất phải kiếm gấp đôi mức tự nuôi để nuôi được hai con; lao động của vợ, vì còn trông con, chỉ đủ nuôi chính cô ấy. Một nửa số trẻ chết trước tuổi trưởng thành, nên người nghèo nhất phải nuôi bốn con để hai đứa có cơ hội sống đến tuổi trưởng thành. Nuôi bốn trẻ tốn gần bằng nuôi một người lớn. Ông nói thêm: lao động của một nô lệ khoẻ mạnh được tính bằng gấp đôi chi phí nuôi nó, và lao động thấp nhất của người tự do không thể kém hơn.
-- Smith chấp nhận kết luận định tính (phải hơn mức tự nuôi) nhưng từ chối ấn định tỷ lệ chính xác. Mức này là "mức thấp nhất phù hợp với nhân tính thông thường" (*common humanity*).
+Dù chủ có lợi thế trong mặc cả, có một mức mà dưới đó không thể hạ tiền công lâu dài. Người lao động phải sống được bằng công việc của mình, và tiền công phải đủ để nuôi họ. Phần lớn trường hợp còn phải hơn thế, để họ nuôi được một gia đình; nếu không, dòng giống thợ sẽ không tồn tại quá một thế hệ.
+
+Smith dẫn tính toán của **Cantillon**:
+
+| Bước lập luận của Cantillon | Nội dung |
+|---|---|
+| Lao động của người vợ | Vì phải trông con, người vợ chỉ kiếm đủ nuôi chính mình |
+| Tử vong trẻ em | Một nửa số trẻ chết trước tuổi trưởng thành |
+| Số con phải nuôi | Người nghèo nhất phải nuôi ít nhất 4 con để 2 đứa có cơ hội sống tới tuổi trưởng thành |
+| Chi phí nuôi con | Nuôi 4 trẻ tốn gần bằng nuôi 1 người lớn |
+| Kết luận | Lao động thấp nhất của người đàn ông phải kiếm được **gấp đôi** mức tự nuôi mình |
+| So sánh thêm | Lao động của một nô lệ khoẻ mạnh được tính bằng gấp đôi chi phí nuôi nó; lao động thấp nhất của người tự do không thể kém hơn |
+
+Smith chấp nhận kết luận định tính: tiền công thấp nhất chắc chắn phải hơn mức đủ nuôi một người. Nhưng ông không dám ấn định tỷ lệ chính xác (gấp đôi hay bao nhiêu). Ông gọi mức này là "mức thấp nhất phù hợp với nhân tính thông thường" (*common humanity*), tức mức sống tối thiểu mà xã hội coi là chấp nhận được.
 
 ### 4. Cầu lao động và quỹ trả công
 
-- Khi cầu đối với người làm thuê (lao động, thợ thủ công, thợ công nhật, đầy tớ) tăng liên tục, mỗi năm có việc hơn năm trước, thợ không cần liên kết. Sự khan hiếm khiến chủ phải trả giá cao hơn nhau để có người, tức tự phá vỡ liên kết ngầm của chính họ.
-- Cầu lao động chỉ tăng tương ứng với quỹ dành để trả công. Quỹ này gồm hai loại: thu nhập dư so với nhu cầu sinh sống của chủ nó, và vốn dư so với nhu cầu tự dùng của chủ nó.
-- Chủ đất, người sống bằng niên kim, người giàu có thu nhập dư thì dùng để thuê đầy tớ; dư càng nhiều thuê càng nhiều. Thợ độc lập (thợ dệt, thợ giày) có vốn dư so với nhu cầu mua vật liệu và nuôi gia đình đến khi bán hàng thì thuê thợ phụ để kiếm lời; dư càng nhiều thuê càng nhiều.
-- Vậy cầu lao động tăng theo thu nhập và vốn của quốc gia, tức theo của cải quốc dân, và không thể tăng nếu của cải quốc dân không tăng.
+Có những hoàn cảnh mà thợ có lợi thế và có thể đẩy tiền công lên trên mức sàn. Đó là khi **cầu** đối với người làm thuê (lao động, thợ thủ công, thợ công nhật, đầy tớ) **tăng liên tục**, mỗi năm có nhiều việc hơn năm trước. Khi ấy thợ không cần liên kết. Sự khan hiếm người làm buộc các chủ phải trả giá cao hơn nhau để có người, và như vậy chính họ tự phá vỡ thoả thuận ngầm không tăng công của giới chủ.
+
+Cầu lao động chỉ có thể tăng tương ứng với **quỹ dùng để trả công**. Quỹ này gồm hai loại:
+
+| Loại quỹ | Ai có | Dùng thế nào |
+|---|---|---|
+| Thu nhập dư so với nhu cầu sinh sống | Chủ đất, người sống bằng niên kim, người giàu có | Dùng thuê thêm một hay nhiều đầy tớ; thu nhập dư càng nhiều thì thuê càng nhiều |
+| Vốn dư so với nhu cầu tự dùng vào công việc của mình | Thợ độc lập như thợ dệt, thợ giày, có vốn nhiều hơn mức cần để mua vật liệu và nuôi gia đình cho tới khi bán được hàng | Dùng thuê thêm thợ phụ để kiếm lời trên lao động của họ; vốn dư càng nhiều thì thuê càng nhiều |
+
+Từ đó Smith kết luận: cầu lao động tăng theo thu nhập và vốn của mỗi quốc gia, tức là tăng theo **của cải quốc dân**, và không thể tăng nếu của cải quốc dân không tăng.
+
+**Ví dụ hôm nay** (minh hoạ chung, không phải số liệu thống kê). Ở một khu công nghiệp mới, khi liên tiếp có nhà máy mới mở, các nhà máy phải tăng lương khởi điểm, thêm phụ cấp và tiền thưởng để giữ người, dù không có thoả thuận nào buộc họ làm vậy. Khi dòng đầu tư mới dừng lại, các khoản thưởng ấy cũng dần biến mất. Đó đúng là cơ chế Smith mô tả: cầu tăng liên tục làm thoả thuận ngầm của giới chủ tự tan.
 
 ### 5. Ba trạng thái: tiến, đứng, lùi
 
-- **Mệnh đề:** không phải độ lớn hiện tại của của cải mà là sự gia tăng liên tục của nó làm tiền công tăng. Vì vậy tiền công cao nhất không ở nước giàu nhất mà ở nước phát triển nhanh nhất.
-- **Bắc Mỹ:** Anh giàu hơn nhiều, nhưng tiền công ở Bắc Mỹ cao hơn. Ở New York, lao động thường được 3 shilling 6 penny tiền thuộc địa, bằng 2 shilling sterling; thợ mộc đóng tàu 10 shilling 6 penny tiền thuộc địa cộng một panh rum trị giá 6 penny sterling, tổng cộng bằng 6 shilling 6 penny sterling; thợ mộc làm nhà và thợ nề 8 shilling tiền thuộc địa, bằng 4 shilling 6 penny sterling; thợ may công nhật 5 shilling tiền thuộc địa, khoảng 2 shilling 10 penny sterling. Tất cả đều cao hơn London, và các thuộc địa khác được cho là tương tự. Giá lương thực ở Bắc Mỹ thấp hơn Anh, không biết đến đói kém, nên tiền công thực còn cao hơn tiền công danh nghĩa nhiều.
-- Dấu hiệu quyết định của thịnh vượng là dân số tăng. Ở Anh và phần lớn châu Âu, dân số được cho là gấp đôi trong khoảng 500 năm; ở các thuộc địa Anh tại Bắc Mỹ, gấp đôi trong 20–25 năm, chủ yếu do sinh sản tự nhiên chứ không do nhập cư. Người già có 50–100 con cháu hay hơn. Con cái là nguồn của cải: lao động của mỗi đứa con trước khi rời nhà được tính là lãi ròng 100 bảng cho cha mẹ; goá phụ với 4–5 con được nhiều người hỏi cưới như một gia tài, trong khi ở châu Âu khó tái giá. Người Bắc Mỹ lấy vợ lấy chồng sớm, vậy mà vẫn than thiếu nhân công: cầu lao động và quỹ trả công tăng nhanh hơn khả năng tìm được người.
-- **Trung Hoa:** một nước rất giàu nhưng đứng yên thì tiền công không thể cao. Nếu quỹ trả công giữ nguyên nhiều thế kỷ, số lao động cần mỗi năm dễ dàng có đủ, người làm nhiều hơn việc, họ phải cạnh tranh giành việc, và tiền công nhanh chóng xuống mức thấp nhất của nhân tính thông thường. Trung Hoa từ lâu là một trong những nước giàu nhất (đất màu mỡ, canh tác tốt, dân cần cù, đông nhất thế giới), nhưng đứng yên: mô tả của Marco Polo hơn 500 năm trước gần như trùng với mô tả của du khách nay. Mọi người đều nhất trí tiền công ở đó thấp, người lao động vui khi kiếm được chút gạo sau một ngày làm đồng; thợ thủ công vác đồ nghề rong phố chào việc như đi xin; quanh Quảng Châu hàng trăm nghìn gia đình sống trên thuyền, vớt đồ thừa từ tàu châu Âu, ăn cả xác chó mèo đã thối. Hôn nhân được khuyến khích không vì con cái sinh lợi mà vì người ta được tự do bỏ mặc con cho chết.
-- Nhưng Trung Hoa không thụt lùi: thành phố không bị bỏ hoang, đất không bị bỏ hoang, quỹ nuôi lao động không giảm, và tầng lớp thấp nhất dù thiếu thốn vẫn duy trì được dòng giống.
-- **Nước có quỹ trả công suy giảm:** mỗi năm cầu đầy tớ và lao động thấp hơn năm trước. Người được đào tạo cho nghề cao tụt xuống nghề thấp; nghề thấp vốn đã thừa người nay phải nhận thêm người từ trên xuống; cạnh tranh giành việc đẩy tiền công xuống mức khốn khổ nhất. Nhiều người không tìm được việc ngay cả với điều kiện đó, phải chết đói, ăn xin hoặc phạm tội. Thiếu thốn, đói khổ, chết chóc lan từ tầng lớp đó lên các tầng lớp trên, cho đến khi dân số giảm xuống mức mà thu nhập và vốn còn lại nuôi nổi. Đây là tình cảnh Bengal và một số khu định cư của Anh ở Đông Ấn: ở một nước đất đai màu mỡ, dân số trước đó đã giảm mạnh, vậy mà ba–bốn trăm nghìn người chết đói trong một năm, chứng tỏ quỹ nuôi người nghèo đang giảm nhanh.
-- Sự tương phản giữa Bắc Mỹ và Đông Ấn cho thấy chế độ chính trị Anh bảo vệ và cai trị Bắc Mỹ, đối lập với sự áp bức của công ty thương mại (Công ty Đông Ấn) thống trị ở Đông Ấn.
-- **Kết luận phần này:** trả công hậu là triệu chứng tự nhiên của của cải đang tăng; người nghèo bị nuôi ở mức khốn cùng là triệu chứng tự nhiên của đình trệ; người nghèo chết đói là triệu chứng của suy thoái nhanh.
+**Mệnh đề trung tâm.** Không phải độ lớn hiện tại của của cải quốc dân, mà là **sự gia tăng liên tục** của nó, làm tiền công tăng. Vì vậy tiền công cao nhất không ở nước giàu nhất, mà ở nước đang phát triển nhanh nhất. Smith chứng minh bằng ba trường hợp.
+
+**Bắc Mỹ: trạng thái tiến.** Anh hiện giàu hơn nhiều so với bất kỳ vùng nào ở Bắc Mỹ, vậy mà tiền công ở Bắc Mỹ cao hơn mọi nơi ở Anh. Smith đưa số liệu ở New York, quy ra tiền Anh (sterling):
+
+| Nghề ở New York | Tiền công một ngày bằng tiền thuộc địa | Quy ra sterling |
+|---|---|---|
+| Lao động thường | 3 shilling 6 penny | 2 shilling |
+| Thợ mộc đóng tàu | 10 shilling 6 penny, cộng một panh rượu rum trị giá 6 penny sterling | tổng cộng 6 shilling 6 penny |
+| Thợ mộc làm nhà, thợ nề | 8 shilling | 4 shilling 6 penny |
+| Thợ may công nhật | 5 shilling | khoảng 2 shilling 10 penny |
+
+Tất cả các mức này đều cao hơn London (nơi lao động thường được khoảng 18 penny, tức 1 shilling 6 penny một ngày), và các thuộc địa khác được cho là tương tự New York. Hơn nữa, giá lương thực ở Bắc Mỹ thấp hơn ở Anh và ở đó chưa bao giờ biết đến nạn đói. Vì vậy tiền công **thực** ở Bắc Mỹ còn cao hơn tiền công danh nghĩa nhiều.
+
+Dấu hiệu quyết định của thịnh vượng ở một nước là dân số tăng. Ở Anh và phần lớn các nước châu Âu, dân số được cho là gấp đôi sau khoảng 500 năm. Ở các thuộc địa Anh tại Bắc Mỹ, dân số gấp đôi trong 20–25 năm, và chủ yếu do sinh sản tự nhiên chứ không do người nhập cư. Người cao tuổi ở đó thường có 50–100 con cháu, đôi khi nhiều hơn. Lao động được trả hậu đến mức con đông là nguồn của cải chứ không phải gánh nặng: lao động của mỗi đứa con trước khi rời nhà cha mẹ được tính là đem lại cho cha mẹ một khoản **lãi ròng 100 bảng**. Một goá phụ trẻ có 4–5 con nhỏ, ở tầng lớp trung lưu hay hạ lưu châu Âu sẽ khó tái giá, thì ở Bắc Mỹ lại được nhiều người tranh nhau hỏi cưới như một gia tài. Người Bắc Mỹ lấy vợ lấy chồng rất sớm, vậy mà vẫn than thiếu nhân công. Lý do: cầu lao động và quỹ trả công tăng còn nhanh hơn khả năng tìm được người để thuê.
+
+**Trung Hoa: trạng thái đứng yên.** Một nước dù rất giàu, nếu đứng yên lâu ngày, thì không thể có tiền công cao. Lập luận như sau: nếu quỹ trả công giữ nguyên qua nhiều thế kỷ, số lao động cần thuê mỗi năm dễ dàng có đủ, thậm chí dư. Người cần việc nhiều hơn việc cần người, họ phải cạnh tranh nhau để có việc, và tiền công nhanh chóng tụt xuống mức thấp nhất phù hợp với nhân tính thông thường.
+
+Trung Hoa từ lâu là một trong những nước giàu nhất thế giới: đất màu mỡ nhất, canh tác tốt nhất, dân cần cù nhất và đông nhất. Nhưng nước này dường như đứng yên từ lâu: mô tả của **Marco Polo** về nông nghiệp, công nghiệp và dân số Trung Hoa hơn 500 năm trước gần như trùng khớp với mô tả của các du khách ngày nay. Các du khách đều nhất trí rằng tiền công ở đó rất thấp:
+
+- người lao động vui mừng khi kiếm được chút gạo để ăn sau một ngày làm đồng;
+- thợ thủ công vác đồ nghề đi rong khắp phố, chào việc như đi xin;
+- quanh Quảng Châu có hàng trăm nghìn gia đình không có nhà trên đất liền, sống trên thuyền, vớt cả đồ thừa ném xuống từ tàu châu Âu, ăn cả xác chó mèo đã thối;
+- hôn nhân được khuyến khích, không phải vì con cái sinh lợi như ở Bắc Mỹ, mà vì người ta được tự do bỏ mặc con cho chết (tục bỏ trẻ sơ sinh ở các thành phố lớn).
+
+Nhưng Trung Hoa **không thụt lùi**. Thành phố không bị bỏ hoang, đất đã canh tác không bị bỏ hoang, quỹ nuôi lao động không giảm. Tầng lớp thấp nhất, dù sống rất thiếu thốn, vẫn duy trì được dòng giống, nên dân số giữ được mức cũ.
+
+**Bengal: trạng thái suy thoái.** Ở một nước mà quỹ trả công đang giảm, mỗi năm cầu đầy tớ và người lao động lại thấp hơn năm trước. Chuỗi hệ quả diễn ra như sau:
+
+1. Người được đào tạo cho các nghề bậc cao không tìm được việc trong nghề mình, nên tụt xuống làm nghề thấp hơn.
+2. Các nghề thấp nhất vốn đã thừa người, nay phải nhận thêm người từ các bậc trên đổ xuống.
+3. Cạnh tranh giành việc đẩy tiền công xuống mức khốn khổ và tồi tệ nhất.
+4. Nhiều người không tìm được việc ngay cả với điều kiện ấy, phải chết đói, ăn xin hoặc phạm tội.
+5. Thiếu thốn, đói khổ và chết chóc lan từ tầng lớp thấp nhất lên các tầng lớp trên, cho tới khi dân số giảm xuống mức mà thu nhập và vốn còn lại nuôi nổi.
+
+Đó là tình cảnh của Bengal và một số khu định cư khác của Anh ở Đông Ấn. Ở một nước đất đai màu mỡ, nơi dân số trước đó đã giảm mạnh, vậy mà 300–400 nghìn người chết đói trong một năm (nạn đói Bengal năm 1770). Theo Smith, điều đó chứng tỏ quỹ nuôi người lao động nghèo ở đó đang giảm nhanh.
+
+Sự tương phản giữa Bắc Mỹ và Đông Ấn cho thấy sự khác biệt giữa hai cách cai trị: chế độ chính trị Anh bảo vệ và cai trị Bắc Mỹ, còn ở Đông Ấn là sự áp bức của một công ty thương mại, **Công ty Đông Ấn**, nắm quyền thống trị.
+
+Tóm tắt ba trạng thái:
+
+| Trạng thái | Quỹ trả công | Tiền công | Dân số | Ví dụ |
+|---|---|---|---|---|
+| Tiến | Tăng liên tục | Cao, trên mức sàn | Tăng nhanh | Bắc Mỹ |
+| Đứng yên | Giữ nguyên | Ở mức tối thiểu | Giữ nguyên | Trung Hoa |
+| Suy thoái | Giảm | Dưới mức sàn | Giảm, có nạn đói | Bengal |
+
+**Kết luận phần này:** trả công hậu là triệu chứng tự nhiên của của cải quốc dân đang tăng. Người nghèo bị nuôi ở mức khốn cùng là triệu chứng tự nhiên của đình trệ. Người nghèo chết đói là triệu chứng của suy thoái nhanh.
 
 ### 6. Bốn triệu chứng: tiền công ở Anh đã vượt mức tối thiểu
 
-- Không cần tính mức tối thiểu; có nhiều triệu chứng cho thấy tiền công ở Anh ở mọi nơi đều trên mức đó.
-- **Thứ nhất:** khắp nước Anh, kể cả lao động thấp nhất, công mùa hè cao hơn công mùa đông, dù mùa đông nuôi gia đình tốn hơn vì nhiên liệu. Tiền công cao nhất khi chi tiêu thấp nhất chứng tỏ nó được điều tiết bởi lượng và giá trị công việc, không phải bởi nhu cầu chi tiêu. Người lao động có thể để dành công mùa hè cho mùa đông; nô lệ hay người sống phụ thuộc từng ngày thì không làm vậy được.
-- **Thứ hai:** tiền công không dao động theo giá lương thực. Giá lương thực đổi từng năm, từng tháng, nhưng ở nhiều nơi tiền công giữ nguyên nửa thế kỷ. Nếu người nghèo nuôi được gia đình trong năm đắt, đó là nhờ để dành được trong năm rẻ. Giá lương thực cao trong mười năm qua không làm tiền công tăng đáng kể ở nhiều nơi; nơi nào tăng là do cầu lao động tăng.
-- **Thứ ba:** giá lương thực đổi theo năm, còn tiền công đổi theo nơi. Giá bánh mì và thịt gần như như nhau ở phần lớn nước Anh (thậm chí rẻ hơn ở thành phố lớn), nhưng tiền công ở thành phố lớn cao hơn vùng cách vài dặm khoảng một phần tư đến một phần năm, tức 20–25%. London khoảng 18 penny một ngày, vùng cách vài dặm 14–15 penny; Edinburgh 10 penny, vùng cách vài dặm 8 penny, mức thông thường ở phần lớn vùng đất thấp Scotland, nơi tiền công ít biến động hơn ở Anh. Chênh lệch ấy không đủ để người dời đi, trong khi hàng hoá được chở khắp nơi, cả giữa các nước, làm giá gần ngang nhau. Kinh nghiệm cho thấy con người là thứ khó di chuyển nhất. Nếu người nghèo nuôi được gia đình ở nơi công thấp nhất, họ sẽ sung túc ở nơi công cao nhất.
-- **Thứ tư:** biến động tiền công không những không khớp với giá lương thực mà thường ngược chiều. Lúa đắt hơn ở Scotland (vốn nhập lúa từ Anh hàng năm) nhưng tiền công ở Anh cao hơn. Người Scotland ăn bột yến mạch, kém hơn thức ăn của người cùng tầng lớp ở Anh; nhưng khác biệt lối sống là hậu quả chứ không phải nguyên nhân của chênh lệch tiền công, như không phải vì đi xe ngựa mà người ta giàu, mà vì giàu nên đi xe ngựa.
-- Thế kỷ trước lúa đắt hơn bây giờ ở cả hai phần của vương quốc, điều chắc chắn hơn với Scotland, vậy mà tiền công thấp hơn nhiều. Thế kỷ trước, công phổ biến ở phần lớn Scotland là 6 penny mùa hè, 5 penny mùa đông; 3 shilling một tuần, gần như cùng mức, vẫn còn trả ở vài nơi vùng Cao nguyên và quần đảo phía tây. Nay ở phần lớn vùng đất thấp là 8 penny; ở Edinburgh, các hạt giáp Anh và những nơi cầu lao động mới tăng (Glasgow, Carron, Ayrshire) là 10 penny, đôi khi 1 shilling.
-- Ở Anh, nông nghiệp, chế tạo và thương mại tiến bộ sớm hơn Scotland, cầu lao động tăng nên tiền công cao hơn cả thế kỷ trước lẫn nay. Tiền công đã tăng nhiều từ đó, dù khó đo vì đa dạng theo nơi và theo việc.
-- Bằng chứng lịch sử: năm 1614 lính bộ binh được 8 penny một ngày như hiện nay, và lương lính được tính theo tiền công lao động thường. Chánh án Hale, thời Charles II, tính chi tiêu cần thiết của một gia đình lao động 6 người (cha, mẹ, hai con làm được việc, hai con nhỏ) là 10 shilling một tuần, tức 26 bảng một năm; thiếu thì phải ăn cắp hoặc ăn xin. Năm 1688, Gregory King, nhà "số học chính trị" được Davenant ca ngợi, tính thu nhập thường niên của lao động và đầy tớ ở ngoài cần khoảng 15 bảng cho một gia đình trung bình 3,5 người. Hai cách tính khác bề ngoài nhưng khớp nhau: khoảng 20 penny một người một tuần. Từ đó thu nhập và chi tiêu đều đã tăng khắp nơi, dù không nhiều như vài bản tường trình phóng đại gần đây.
-- Tiền công không xác định chính xác được ở đâu cả, vì cùng nơi cùng việc vẫn trả khác nhau, tuỳ tay nghề và tuỳ chủ rộng rãi hay keo kiệt. Ở nơi luật không ấn định, chỉ có thể xác định tiền công phổ biến nhất. Và kinh nghiệm cho thấy luật pháp không bao giờ ấn định đúng được tiền công, dù thường muốn làm vậy.
-- **Tiền công thực tăng nhanh hơn tiền công danh nghĩa:** lúa rẻ hơn; khoai tây giá chỉ bằng một nửa so với 30–40 năm trước (bản dịch ghi "20, 40 năm"); củ cải, cà rốt, bắp cải trước trồng bằng cuốc nay trồng bằng cày; mọi sản phẩm vườn rẻ hơn; thế kỷ trước táo và hành phải nhập từ Flanders, nay trồng khắp nơi. Vải lanh, vải len, đồ kim khí, đồ gỗ rẻ hơn và tốt hơn. Chỉ xà phòng, nến, da và rượu bia lên men đắt hơn, chủ yếu do thuế, nhưng người lao động được bù lại nhiều hơn bởi giá hạ của các hàng khác, nhất là lương thực. Lời than rằng xa xỉ đã lan xuống tầng lớp thấp nhất, rằng người nghèo không còn bằng lòng với cái ăn, cái mặc, chỗ ở trước kia, chính là bằng chứng tiền công thực đã tăng.
+Smith nói không cần tính chính xác mức tối thiểu là bao nhiêu. Chỉ cần chỉ ra rằng có nhiều triệu chứng cho thấy tiền công ở Anh, ở mọi nơi, đều cao hơn mức đó, tức là không do mức sống tối thiểu quyết định. Ông nêu bốn triệu chứng.
+
+**Thứ nhất: công mùa hè cao hơn công mùa đông.** Khắp nước Anh, kể cả với loại lao động thấp nhất, tiền công mùa hè cao hơn mùa đông. Thế nhưng mùa đông nuôi một gia đình lại tốn hơn, vì phải mua củi, than để sưởi. Tiền công cao nhất đúng vào lúc chi tiêu thấp nhất, nên nó không được điều tiết bởi nhu cầu chi tiêu, mà bởi lượng và giá trị của công việc. Người ta có thể nói người lao động nên để dành một phần công mùa hè để chi cho mùa đông, và tính cả năm thì tiền công không vượt mức cần thiết. Nhưng Smith đáp: một nô lệ, hay một người phải sống phụ thuộc từng ngày, không được đối xử như vậy; việc người lao động tự để dành được đã cho thấy tiền công của họ vượt mức tối thiểu.
+
+**Thứ hai: tiền công không dao động theo giá lương thực.** Giá lương thực thay đổi từng năm, thậm chí từng tháng, nhưng ở nhiều nơi tiền công bằng tiền giữ nguyên suốt nửa thế kỷ. Nếu ở những nơi ấy người nghèo vẫn nuôi được gia đình trong năm đắt đỏ, thì họ hẳn phải sống khá dư dả trong năm rẻ, và đã để dành được. Giá lương thực cao trong 10 năm qua không làm tiền công tăng đáng kể ở nhiều nơi; nơi nào tiền công có tăng thì là do cầu lao động tăng, không phải do giá lương thực.
+
+**Thứ ba: giá lương thực đổi theo năm, còn tiền công đổi theo nơi.** Giá bánh mì và thịt gần như như nhau ở phần lớn nước Anh, thậm chí ở các thành phố lớn còn rẻ hơn một chút. Nhưng tiền công ở thành phố lớn thường cao hơn vùng cách đó vài dặm khoảng một phần năm đến một phần tư, tức 20–25%:
+
+| Nơi | Tiền công lao động thường một ngày | Vùng cách vài dặm |
+|---|---|---|
+| London và vùng lân cận | khoảng 18 penny | 14–15 penny |
+| Edinburgh và vùng lân cận | khoảng 10 penny | 8 penny, mức thông thường ở phần lớn vùng đất thấp Scotland |
+
+Ở Scotland tiền công ít biến động theo vùng hơn ở Anh. Chênh lệch kể trên không đủ lớn để thúc người ta dời nhà từ nơi này sang nơi khác, trong khi hàng hoá thì được chở đi khắp nơi, kể cả từ nước này sang nước khác, và làm giá các nơi gần ngang nhau. Smith rút ra: bất chấp sự hay thay đổi của bản tính con người, kinh nghiệm cho thấy **con người là thứ hàng khó di chuyển nhất**. Và nếu người nghèo nuôi được gia đình ở nơi tiền công thấp nhất, thì ở nơi tiền công cao nhất họ phải sống sung túc.
+
+**Thứ tư: tiền công thường biến động ngược chiều với giá lương thực.** Lúa ở Scotland đắt hơn ở Anh (Scotland hằng năm phải nhập lúa từ Anh), vậy mà tiền công ở Anh lại cao hơn ở Scotland. Có người giải thích tiền công Scotland thấp vì người Scotland ăn bột yến mạch, thức ăn kém hơn thức ăn của người cùng tầng lớp ở Anh. Smith đảo ngược quan hệ nhân quả: khác biệt lối sống là **hậu quả** chứ không phải **nguyên nhân** của chênh lệch tiền công. Ông ví: không phải vì một người đi xe ngựa còn người láng giềng đi bộ mà người này giàu, người kia nghèo; mà vì người này giàu nên đi xe ngựa, người kia nghèo nên đi bộ.
+
+Số liệu lịch sử củng cố triệu chứng thứ tư. Thế kỷ trước, lúa ở cả hai phần của vương quốc đều đắt hơn bây giờ (điều này chắc chắn hơn với Scotland), vậy mà tiền công lại thấp hơn nhiều:
+
+| Thời kỳ, vùng | Tiền công lao động thường |
+|---|---|
+| Thế kỷ trước, phần lớn Scotland | 6 penny một ngày mùa hè, 5 penny một ngày mùa đông |
+| Vẫn trả ở vài nơi vùng Cao nguyên và quần đảo phía tây | 3 shilling một tuần, gần như cùng mức trên |
+| Nay, phần lớn vùng đất thấp Scotland | 8 penny một ngày |
+| Nay, Edinburgh, các hạt giáp Anh, và những nơi cầu lao động mới tăng mạnh (Glasgow, Carron, Ayrshire) | 10 penny một ngày, đôi khi 1 shilling |
+
+Ở Anh, nông nghiệp, chế tạo và thương mại tiến bộ sớm hơn Scotland nhiều, nên cầu lao động và tiền công tăng sớm hơn: tiền công ở Anh cao hơn Scotland cả thế kỷ trước lẫn bây giờ. Tiền công ở Anh cũng đã tăng nhiều từ thế kỷ trước, dù khó đo chính xác vì nó khác nhau theo nơi và theo loại việc.
+
+**Bằng chứng lịch sử về mức tiền công ở Anh:**
+
+- Năm 1614, lính bộ binh được trả 8 penny một ngày, đúng như hiện nay. Khi ấn định lương lính, người ta tính theo tiền công thông thường của người lao động bình thường, tầng lớp mà lính bộ binh thường được tuyển từ đó.
+- **Chánh án Hale**, sống dưới thời vua Charles II, tính chi tiêu cần thiết của một gia đình lao động gồm 6 người (cha, mẹ, hai con đã làm được việc, hai con còn nhỏ) là 10 shilling một tuần, tức 26 bảng một năm. Nếu không kiếm được mức này bằng lao động, họ phải ăn cắp hoặc ăn xin.
+- Năm 1688, **Gregory King**, nhà "số học chính trị" (thống kê kinh tế sơ khai) được Davenant hết lời ca ngợi, tính thu nhập thường niên của lao động và đầy tớ ở ngoài cần khoảng 15 bảng cho một gia đình trung bình 3,5 người.
+- Hai cách tính này trông khác nhau nhưng thực ra khớp nhau: cả hai đều ra khoảng 20 penny một người một tuần. Từ đó đến nay, cả thu nhập lẫn chi tiêu của các gia đình này đều đã tăng khắp nơi, dù không nhiều như một số bản tường trình phóng đại gần đây.
+
+Smith lưu ý rằng không thể xác định chính xác tiền công ở bất cứ đâu, vì cùng một nơi, cùng một việc, mức trả vẫn khác nhau tuỳ tay nghề của thợ và tuỳ chủ rộng rãi hay keo kiệt. Ở nơi luật pháp không ấn định tiền công, ta chỉ xác định được mức phổ biến nhất. Và kinh nghiệm cho thấy luật pháp không bao giờ ấn định đúng được tiền công, dù luật thường muốn làm vậy.
+
+**Tiền công thực còn tăng nhanh hơn tiền công danh nghĩa**, vì nhiều thứ người lao động mua đã rẻ đi:
+
+| Loại hàng | Thay đổi |
+|---|---|
+| Lúa | Rẻ hơn thế kỷ trước |
+| Khoai tây | Giá chỉ bằng một nửa so với 30–40 năm trước (bản dịch ghi "20, 40 năm") |
+| Củ cải, cà rốt, bắp cải | Trước trồng bằng cuốc, nay trồng bằng cày, nên rẻ hơn; mọi sản phẩm vườn đều rẻ hơn |
+| Táo, hành | Thế kỷ trước phải nhập từ Flanders, nay trồng khắp nơi |
+| Vải lanh, vải len | Rẻ hơn và tốt hơn |
+| Đồ kim khí, đồ gỗ | Rẻ hơn và tốt hơn |
+| Xà phòng, nến, da, rượu bia lên men | Đắt hơn, chủ yếu do thuế |
+
+Phần đắt lên ở các thứ này được bù lại nhiều hơn bởi giá hạ của các hàng khác, nhất là lương thực, nên tính chung người lao động vẫn có lợi. Smith nói thêm rằng lời than phổ biến "xa xỉ đã lan xuống tầng lớp thấp nhất", "người nghèo không còn bằng lòng với cái ăn, cái mặc, chỗ ở như trước", thực ra lại chính là bằng chứng cho thấy tiền công thực đã tăng.
 
 ### 7. Tiền công cao là lợi hay hại
 
-- Đầy tớ, lao động, thợ thủ công là phần lớn dân số; điều cải thiện hoàn cảnh phần lớn không thể là bất lợi cho toàn thể. Không xã hội nào phồn vinh và hạnh phúc khi phần lớn thành viên nghèo khổ. Công bằng đòi những người làm ra lương thực, quần áo, nhà cửa cho cả xã hội được hưởng một phần đủ để chính họ ăn, mặc, ở tử tế.
-- Nghèo không ngăn sinh đẻ: phụ nữ Cao nguyên đói dở thường đẻ hơn 20 con, quý bà giàu thường không đẻ được hoặc kiệt sức sau 2–3 lần.
-- Nhưng nghèo làm khó nuôi con. Ở Cao nguyên Scotland, người mẹ đẻ 20 con thường không nuôi được 2. Ở vài nơi, một nửa số trẻ chết trước 4 tuổi (bản dịch ghi 3); nơi khác trước 7; hầu hết trước 9–10. Tử vong cao nhất ở con nhà thường dân; ở trại trẻ bị bỏ rơi còn cao hơn.
-- Mọi loài vật sinh sôi tương ứng với phương tiện sinh sống. Trong xã hội văn minh, sự thiếu thốn của tầng lớp dưới giới hạn dân số bằng cách giết phần lớn trẻ em họ sinh ra.
-- Trả công hậu, giúp họ nuôi được con, mở rộng giới hạn đó. Nếu cầu lao động tăng liên tục, tiền công phải khuyến khích hôn nhân và sinh đẻ đủ để dân số theo kịp. Nếu công thấp hơn mức cần, thiếu người sẽ đẩy nó lên; nếu cao hơn, dân số tăng quá mức sẽ đẩy nó xuống. Vì vậy cầu về con người, như cầu về mọi hàng hoá, điều tiết việc sản xuất ra con người: thúc nhanh khi chậm, hãm lại khi nhanh. Chính cầu này quyết định trạng thái dân số ở Bắc Mỹ, châu Âu và Trung Hoa, khiến nơi tiến nhanh, nơi chậm, nơi đứng yên.
-- Hao mòn sức của nô lệ do chủ nô chịu; của người làm thuê tự do người ta tưởng do chính anh ta chịu, nhưng thực ra cũng do chủ chịu qua tiền công, vì tiền công phải đủ để duy trì dòng giống thợ theo cầu của xã hội. Có điều hao mòn của người tự do tốn ít hơn nhiều so với của nô lệ, vì quỹ bù hao mòn của nô lệ do chủ nô cẩu thả hoặc quản lý viên lơ là điều hành, còn của người tự do do chính người nghèo tằn tiện quản lý. Kinh nghiệm mọi thời đại cho thấy công việc của người tự do rốt cuộc rẻ hơn công việc của nô lệ, kể cả ở Boston, New York, Philadelphia, nơi tiền công rất cao.
-- Vậy trả công hậu là hệ quả của của cải tăng và là nguyên nhân của dân số tăng. Than phiền về nó là than phiền về hệ quả và nguyên nhân tất yếu của phồn vinh lớn nhất.
-- Chính trong trạng thái tiến, chứ không phải khi đã giàu đến đỉnh, người lao động nghèo, tức phần lớn dân số, sung sướng nhất. Trạng thái đứng yên thì khó khăn, suy thoái thì khốn khổ. Trạng thái tiến là vui vẻ với mọi tầng lớp; đứng yên thì buồn tẻ; suy thoái thì sầu não.
+Smith đặt câu hỏi: việc cải thiện hoàn cảnh của tầng lớp thấp là lợi hay hại cho xã hội? Ông trả lời bằng hai lý lẽ. Lý lẽ thứ nhất là số đông: đầy tớ, người lao động và thợ thủ công là phần lớn dân số của mọi xã hội lớn, nên điều gì cải thiện hoàn cảnh của phần lớn thì không thể là bất lợi cho toàn thể. Không xã hội nào phồn vinh và hạnh phúc được khi phần lớn thành viên của nó nghèo khổ. Lý lẽ thứ hai là công bằng: những người làm ra lương thực, quần áo, nhà cửa cho cả xã hội phải được hưởng một phần sản phẩm lao động của chính mình, đủ để bản thân họ ăn, mặc, ở tử tế.
+
+Tiếp theo Smith bàn quan hệ giữa tiền công và dân số. **Nghèo không ngăn được sinh đẻ.** Một phụ nữ đói dở ở vùng Cao nguyên Scotland thường đẻ hơn 20 con, trong khi một quý bà giàu sang được nuông chiều thường không đẻ được, hoặc kiệt sức sau 2–3 lần sinh.
+
+**Nhưng nghèo làm khó nuôi con.** Trẻ sinh ra trong nhà nghèo chết rất nhiều:
+
+| Nơi | Tỷ lệ trẻ chết |
+|---|---|
+| Cao nguyên Scotland | Người mẹ đẻ 20 con thường không nuôi được 2 con sống |
+| Vài nơi | Một nửa số trẻ chết trước 4 tuổi (bản dịch ghi 3) |
+| Nhiều nơi khác | Một nửa chết trước 7 tuổi |
+| Hầu hết các nơi | Một nửa chết trước 9–10 tuổi |
+| Trại trẻ bị bỏ rơi, trẻ được giáo xứ nuôi | Tỷ lệ chết còn cao hơn nữa |
+
+Tỷ lệ tử vong cao như vậy chủ yếu xảy ra ở con nhà thường dân, những gia đình không chăm sóc con được như tầng lớp khá giả.
+
+Mọi loài vật sinh sôi tương ứng với phương tiện sinh sống của chúng, và không loài nào có thể sinh sôi vượt quá giới hạn đó. Trong xã hội văn minh, chỉ ở tầng lớp thấp, sự thiếu thốn mới giới hạn được sự sinh sôi của loài người, và cách duy nhất nó làm điều đó là giết đi phần lớn trẻ em mà các cuộc hôn nhân sinh ra. Tức là giới hạn dân số nằm ở việc **nuôi được con**, chứ không ở việc **đẻ ra con**.
+
+Trả công hậu giúp người lao động nuôi con tốt hơn, nên nới rộng giới hạn đó. Từ đây Smith mô tả một **cơ chế tự điều chỉnh**:
+
+- Nếu cầu lao động tăng liên tục, tiền công phải đủ cao để khuyến khích hôn nhân và sinh đẻ, sao cho số người lao động theo kịp cầu.
+- Nếu tiền công thấp hơn mức cần cho việc đó, sự thiếu người sẽ nhanh chóng đẩy tiền công lên.
+- Nếu tiền công cao hơn mức cần, dân số tăng quá mức sẽ nhanh chóng kéo tiền công xuống.
+
+Vì vậy, "cầu về con người, như cầu về mọi hàng hoá khác, điều tiết việc sản xuất ra con người": thúc nhanh khi nó quá chậm, hãm lại khi nó quá nhanh. Chính cầu này quyết định trạng thái dân số ở mọi nước, khiến dân số Bắc Mỹ tăng nhanh, châu Âu tăng chậm và đều, còn Trung Hoa đứng yên.
+
+**Lao động tự do rẻ hơn lao động nô lệ.** Người ta thường nói hao mòn sức lực của nô lệ do chủ nô chịu, còn hao mòn của người làm thuê tự do thì do chính anh ta chịu. Smith cho rằng thực ra hao mòn của người tự do cũng do chủ chịu, thông qua tiền công: tiền công phải đủ để duy trì dòng giống thợ theo đúng cầu của xã hội. Khác biệt là hao mòn của người tự do tốn ít hơn nhiều. Quỹ bù hao mòn cho nô lệ do một chủ nô cẩu thả hoặc một quản lý lơ là điều hành; quỹ bù hao mòn cho người tự do do chính người nghèo, vốn tằn tiện và chắt bóp, tự quản lý. Kinh nghiệm mọi thời đại và mọi dân tộc cho thấy công việc của người tự do rốt cuộc rẻ hơn công việc của nô lệ, kể cả ở Boston, New York và Philadelphia, nơi tiền công thông thường rất cao.
+
+Kết luận: trả công hậu vừa là **hệ quả** của của cải tăng, vừa là **nguyên nhân** của dân số tăng. Than phiền về tiền công cao là than phiền về hệ quả và nguyên nhân tất yếu của sự phồn vinh lớn nhất.
+
+Smith nói thêm một nhận xét đáng nhớ: chính trong trạng thái tiến, khi xã hội đang giàu lên, chứ không phải khi đã giàu đến đỉnh, thì người lao động nghèo, tức phần lớn dân số, sống sung sướng nhất. Trạng thái đứng yên thì khó khăn với họ, trạng thái suy thoái thì khốn khổ. Trạng thái tiến là vui vẻ với mọi tầng lớp; trạng thái đứng yên thì buồn tẻ; trạng thái suy thoái thì sầu não.
 
 ### 8. Tiền công cao và tính cần cù
 
-- Trả công hậu khuyến khích sinh sôi và khuyến khích cần cù. Tiền công là động lực của cần cù, và cần cù tăng theo động lực. Ăn uống đủ làm khoẻ; hy vọng đời ngày càng khá hơn làm người ta dốc hết sức lực và tài năng. Nơi công cao, như Anh so với Scotland, thành phố so với vùng hẻo lánh, thợ làm hăng hơn.
-- Có vài người làm 4 ngày đủ sống cả tuần rồi nghỉ 3 ngày, nhưng đó không phải số đông. Vấn đề phổ biến hơn là ngược lại: được trả hậu theo sản phẩm, thợ dễ làm quá sức và huỷ hoại sức khoẻ trong vài năm. Thợ mộc ở London được cho là không giữ sức tối đa quá 8 năm. Điều tương tự xảy ra ở nhiều nghề làm khoán trong chế tạo và cả lao động nông thôn khi được trả cao hơn bình thường. Hầu như mọi nghề thủ công đều có bệnh nghề nghiệp riêng do làm quá sức; Ramazzini, thầy thuốc Ý nổi tiếng, viết riêng một cuốn sách về các bệnh đó.
-- Lính không phải hạng cần cù nhất, nhưng khi được dùng làm việc đặc biệt và trả khoán hậu, sĩ quan thường phải thoả thuận với nhà thầu rằng mỗi ngày họ không được kiếm quá một mức nhất định; trước khi có quy định đó, lính thi nhau làm quá sức đến hại sức khoẻ.
-- Làm quá sức 4 ngày thường là nguyên nhân thật sự của việc nghỉ 3 ngày. Lao động căng thẳng, trí óc hay tay chân, kéo dài nhiều ngày tự nhiên đòi nghỉ ngơi, giải trí, đôi khi chơi bời; không được thì hậu quả có khi nguy hiểm. Nếu chủ nghe theo lý trí và lòng nhân đạo, họ nên điều độ công việc của thợ thay vì thúc đẩy. Người làm điều độ, đều đặn không những giữ sức lâu nhất mà trong cả năm còn làm ra nhiều sản phẩm nhất.
+Trả công hậu không chỉ khuyến khích sinh sôi mà còn khuyến khích **cần cù**. Tiền công là động lực của sự cần cù, và như mọi phẩm chất khác của con người, cần cù tăng lên khi được khuyến khích nhiều hơn. Ăn uống đầy đủ làm người lao động khoẻ hơn; hy vọng có thể cải thiện đời mình khiến họ dốc hết sức lực và tài năng. Vì vậy, nơi tiền công cao, thợ làm hăng hơn, siêng hơn và nhanh hơn nơi tiền công thấp. Smith nói điều này thấy rõ khi so Anh với Scotland, và so vùng lân cận các thành phố lớn với các vùng nông thôn hẻo lánh.
+
+Ông thừa nhận có một số người, nếu kiếm trong 4 ngày đủ sống cả tuần, sẽ nghỉ 3 ngày còn lại. Nhưng đó không phải số đông.
+
+Vấn đề phổ biến hơn lại là **ngược lại**: khi được trả hậu theo sản phẩm (làm khoán), người lao động dễ làm quá sức và huỷ hoại sức khoẻ trong vài năm.
+
+- Một thợ mộc ở London, và ở vài nơi khác, được cho là không giữ được sức tối đa quá 8 năm.
+- Điều tương tự xảy ra ở nhiều nghề khác, nơi thợ được trả theo sản phẩm, như thường thấy trong các ngành chế tạo, và cả trong lao động nông thôn ở những nơi tiền công cao hơn bình thường.
+- Hầu như mọi nghề thủ công đều có bệnh nghề nghiệp riêng do làm quá sức. **Ramazzini**, một thầy thuốc nổi tiếng người Ý, đã viết riêng một cuốn sách về các bệnh nghề nghiệp ấy.
+- Lính không phải hạng người cần cù nhất. Nhưng khi được dùng vào những việc đặc biệt và được trả khoán hậu, sĩ quan chỉ huy thường phải thoả thuận với nhà thầu rằng mỗi ngày lính không được kiếm quá một mức nhất định, tuỳ mức trả. Trước khi có quy định đó, lính thi nhau làm và làm quá sức đến mức hại sức khoẻ.
+
+Smith cho rằng làm quá sức trong 4 ngày thường là nguyên nhân thật sự của việc nghỉ ngơi trong 3 ngày còn lại, chứ không phải sự lười biếng. Lao động căng thẳng, dù bằng trí óc hay bằng tay chân, kéo dài nhiều ngày liền tự nhiên đòi hỏi được nghỉ ngơi, giải trí, đôi khi chơi bời. Nếu không được nghỉ, hậu quả có khi nguy hiểm. Vì vậy, nếu chủ nghe theo lý trí và lòng nhân đạo, họ nên **điều độ** công việc của thợ thay vì thúc ép. Trong mọi nghề, người làm điều độ để có thể làm đều đặn không những giữ sức được lâu nhất mà, tính trong cả năm, còn làm ra **nhiều sản phẩm nhất**.
+
+**Ví dụ hôm nay** (minh hoạ chung, con số giả định). Một xưởng trả lương theo sản phẩm thấy sản lượng tăng mạnh trong vài tháng đầu, rồi tỷ lệ nghỉ ốm và tai nạn lao động tăng lên, nhiều người nghỉ việc. Nếu mỗi công nhân làm 12 giờ một ngày chỉ trụ được vài năm, trong khi làm 8 giờ thì trụ được hàng chục năm, tổng sản lượng cả đời của người làm 8 giờ có thể cao hơn. Đó là lý lẽ "điều độ thì ra nhiều sản phẩm hơn" của Smith.
 
 ### 9. Năm rẻ và năm đắt
 
-- Có ý kiến cho rằng thợ lười trong năm rẻ, chăm trong năm đắt; no đủ làm lười, thiếu thốn làm chăm. Smith thừa nhận một ít dư dả hơn bình thường có thể làm vài người lười, nhưng không thể nói điều đó đúng với số đông, hay rằng người ta làm tốt hơn khi đói, khi chán nản, khi ốm. Năm đắt đỏ thường có nhiều bệnh tật và chết chóc ở thường dân, điều chắc chắn làm giảm sản phẩm lao động của họ.
-- Năm dồi dào, đầy tớ thường bỏ chủ để tự kiếm sống bằng lao động độc lập. Lương thực rẻ khiến chủ, nhất là chủ trại, muốn thuê thêm người, vì thấy dùng lúa nuôi thêm một ít nhân công có lời hơn bán lúa giá rẻ. Cầu lao động tăng, số người tìm việc giảm, nên giá lao động thường tăng trong năm rẻ.
-- Năm khan hiếm, cuộc sống bấp bênh khiến nhiều người đi tìm việc; nhưng giá lương thực cao làm quỹ nuôi đầy tớ giảm, chủ cắt bớt người. Thợ độc lập nghèo tiêu hết vốn nhỏ mua vật liệu, phải đi làm công nhật. Người tìm việc nhiều, việc ít, nhiều người chịu nhận điều kiện thấp hơn thường lệ, nên tiền công của cả đầy tớ lẫn thợ công nhật thường thấp hơn trong năm đắt.
-- Chủ thường mặc cả được lợi hơn trong năm đắt, thấy thợ "khúm núm" và phụ thuộc hơn, nên ca ngợi năm đắt là thuận lợi cho công việc. Địa chủ và chủ trại còn có thêm lý do: địa tô và lợi nhuận của họ phụ thuộc phần lớn vào giá lương thực.
-- Thật phi lý khi nghĩ người ta làm ít hơn khi làm cho mình so với khi làm cho người khác. Thợ độc lập nghèo thường chăm hơn cả thợ làm khoán, vì hưởng trọn sản phẩm, và ít bị bạn xấu trong các xưởng lớn làm hư. Sự hơn hẳn của thợ độc lập so với người làm thuê theo tháng, theo năm, vốn nhận công và tiền ăn như nhau dù làm nhiều hay ít, còn lớn hơn. Năm rẻ làm tăng tỷ lệ thợ độc lập so với thợ công nhật và đầy tớ; năm đắt làm giảm.
-- **Phản bác Messance:** tác giả Pháp này dùng sổ sách nhà nước về ba ngành (len thô ở Elbeuf; vải lanh và tơ lụa trải khắp vùng Rouen) để chứng minh người nghèo làm nhiều hơn trong năm rẻ: sản lượng ba ngành luôn cao nhất trong năm rẻ nhất và thấp nhất trong năm đắt nhất. Smith chỉ ra cả ba ngành đều đứng yên. Hai ngành đang tiến, vải lanh Scotland và hàng len West Riding ở Yorkshire, không cho thấy liên hệ rõ ràng giữa sản lượng và giá lúa. Năm 1740, năm cực kỳ khan hiếm, cả hai đều giảm rõ rệt. Năm 1756, một năm khan hiếm khác, vải lanh Scotland lại tiến bộ khác thường; ngành Yorkshire giảm và không lấy lại mức năm 1755 cho đến năm 1766, sau khi Đạo luật Tem thuế ở Mỹ bị bãi bỏ, rồi từ đó tăng nhanh.
-- Hàng chế tạo bán xa phụ thuộc vào cầu ở nước tiêu thụ, vào chiến tranh hay hoà bình ở đó, và vào sức cạnh tranh của nhà sản xuất khác, chứ không phụ thuộc giá lúa nơi sản xuất. Thêm nữa, trong năm rẻ phần lớn công việc thêm không được ghi vào sổ: đầy tớ nam thành lao động độc lập, phụ nữ về nhà cha mẹ quay tơ dệt vải cho gia đình, thợ độc lập làm thuê cho láng giềng. Sổ sách công bố, mà thương nhân và chủ xưởng hay dùng để tuyên bố sự hưng thịnh hay suy tàn của các đế chế, vì thế đánh giá thấp sản xuất năm rẻ.
+Có một quan điểm phổ biến: người lao động lười hơn trong năm lương thực rẻ và chăm hơn trong năm lương thực đắt; no đủ làm người ta lười, thiếu thốn làm người ta chăm. Smith thừa nhận một chút dư dả hơn bình thường có thể làm **vài người** lười. Nhưng ông bác bỏ việc cho rằng điều đó đúng với số đông, hay cho rằng người ta làm việc tốt hơn khi ăn đói, khi chán nản, khi ốm đau. Năm đắt đỏ thường là năm có nhiều bệnh tật và chết chóc ở thường dân, điều chắc chắn làm **giảm** sản phẩm lao động của họ.
+
+Smith phân tích cung và cầu lao động trong hai loại năm:
+
+| | Năm rẻ (được mùa) | Năm đắt (mất mùa) |
+|---|---|---|
+| Phía cung lao động | Đầy tớ thường bỏ chủ để tự kiếm sống bằng lao động độc lập, nên số người đi làm thuê giảm | Cuộc sống bấp bênh khiến nhiều người đi tìm việc; thợ độc lập nghèo tiêu hết vốn nhỏ dùng mua vật liệu, phải đi làm công nhật; số người tìm việc tăng |
+| Phía cầu lao động | Lương thực rẻ khiến chủ, nhất là chủ trại, muốn thuê thêm một ít nhân công, vì dùng lúa nuôi thêm người làm có lời hơn bán lúa giá rẻ; cầu tăng | Giá lương thực cao làm quỹ nuôi đầy tớ giảm, chủ cắt bớt người thay vì thuê thêm; cầu giảm |
+| Kết quả | Tiền công thường tăng | Nhiều người chịu nhận điều kiện thấp hơn thường lệ; tiền công của cả đầy tớ lẫn thợ công nhật thường giảm |
+
+Vì vậy giới chủ thường mặc cả được lợi hơn trong năm đắt. Họ thấy thợ "khúm núm" và phụ thuộc hơn, nên ca ngợi năm đắt là thuận lợi cho công việc làm ăn. Địa chủ và chủ trại còn có thêm một lý do để thích năm đắt: địa tô của địa chủ và lợi nhuận của chủ trại phụ thuộc phần lớn vào giá lương thực.
+
+Smith cho rằng thật phi lý khi nghĩ người ta làm ít hơn khi làm cho chính mình so với khi làm cho người khác. Một thợ độc lập nghèo thường chăm chỉ hơn cả một thợ công nhật làm khoán: người thợ độc lập hưởng trọn sản phẩm lao động của mình, và ít bị bạn bè xấu trong các xưởng lớn làm hư. Sự hơn hẳn của thợ độc lập so với người làm thuê theo tháng hoặc theo năm còn lớn hơn nữa, vì những người làm thuê này nhận tiền công và tiền ăn như nhau dù làm nhiều hay ít. Năm rẻ làm tăng tỷ lệ thợ độc lập so với thợ công nhật và đầy tớ; năm đắt làm giảm tỷ lệ đó. Như vậy năm rẻ, nếu có tác động gì, phải làm tăng tổng sản phẩm lao động.
+
+**Phản bác Messance.** Messance, một tác giả Pháp, dùng sổ sách nhà nước về ba ngành để chứng minh người nghèo làm nhiều hơn trong năm rẻ: ngành len thô ở Elbeuf, và hai ngành vải lanh và tơ lụa trải khắp vùng Rouen. Theo sổ sách, sản lượng của ba ngành luôn cao nhất trong những năm rẻ nhất và thấp nhất trong những năm đắt nhất.
+
+Smith phản bác bằng hai lập luận:
+
+1. **Lỗi chọn mẫu.** Cả ba ngành mà Messance dùng đều là những ngành đứng yên, có lẽ đang suy giảm. Smith xét hai ngành đang tiến: vải lanh Scotland và hàng len thô West Riding ở Yorkshire. Sổ sách của hai ngành này không cho thấy liên hệ rõ ràng nào giữa sản lượng và giá lúa.
+
+| Năm | Bối cảnh | Vải lanh Scotland | Hàng len Yorkshire |
+|---|---|---|---|
+| 1740 | Năm cực kỳ khan hiếm | Giảm rõ rệt | Giảm rõ rệt |
+| 1756 | Một năm khan hiếm khác | Tiến bộ khác thường | Giảm, và không lấy lại được mức năm 1755 |
+| 1766 | Quốc hội Anh bãi bỏ Đạo luật Tem thuế áp lên các thuộc địa Mỹ | | Phục hồi về mức năm 1755 sau khi đạo luật bị bãi bỏ, rồi từ đó tăng nhanh |
+
+Tức là sản lượng của các ngành bán hàng đi xa phụ thuộc vào những yếu tố khác hẳn giá lúa: cầu ở nước tiêu thụ, chiến tranh hay hoà bình ở đó, và sức cạnh tranh của các nhà sản xuất khác. Giá lúa ở nơi sản xuất không phải yếu tố quyết định.
+
+2. **Sổ sách bỏ sót sản xuất ngoài thị trường.** Trong năm rẻ, phần lớn công việc tăng thêm không được ghi vào sổ sách công. Đầy tớ nam rời chủ để thành lao động độc lập; phụ nữ trở về nhà cha mẹ quay tơ, dệt vải cho gia đình mình; thợ độc lập làm thuê cho hàng xóm láng giềng. Những sản phẩm ấy không đi qua các xưởng lớn nên không vào sổ. Vì vậy sổ sách công bố, thứ mà thương nhân và chủ xưởng hay dùng để tuyên bố sự hưng thịnh hay suy tàn của những đế chế lớn, đánh giá thấp sản xuất trong năm rẻ.
 
 ### 10. Tổng hợp: hai yếu tố quyết định tiền công bằng tiền
 
-- Biến động tiền công không theo giá lương thực, thậm chí ngược chiều, không có nghĩa giá lương thực không ảnh hưởng tiền công. Tiền công bằng tiền được điều tiết bởi hai yếu tố: cầu lao động và giá nhu yếu phẩm, tiện nghi.
-- Cầu lao động, tuỳ đang tăng, đứng yên hay giảm, tức tuỳ dân số cần tăng, đứng hay giảm, quyết định lượng nhu yếu phẩm và tiện nghi phải trao cho người lao động; tiền công bằng tiền được định bằng số tiền cần để mua lượng đó. Tiền công có khi cao khi lương thực rẻ, nhưng sẽ còn cao hơn nữa nếu lương thực đắt mà cầu giữ nguyên.
-- Năm dồi dào đột ngột, quỹ trả công trong tay chủ đủ thuê nhiều người hơn năm trước; muốn thuê thêm, chủ phải trả cao hơn đối thủ, đẩy cả giá thực lẫn giá danh nghĩa của lao động lên. Năm khan hiếm đột ngột thì ngược lại: nhiều người bị sa thải, cạnh tranh nhau hạ cả giá thực lẫn danh nghĩa. Năm 1740, năm khan hiếm khủng khiếp, nhiều người chịu làm chỉ để được nuôi; những năm dồi dào sau đó lại khó thuê thợ và đầy tớ.
-- Năm khan hiếm làm giảm cầu lao động (đẩy giá lao động xuống) trong khi giá lương thực cao đẩy nó lên. Năm dồi dào làm tăng cầu (đẩy lên) trong khi lương thực rẻ đẩy xuống. Trong biến động bình thường, hai lực trái chiều triệt tiêu phần nào nhau; đó là một phần lý do tiền công ổn định hơn nhiều so với giá lương thực.
+Ở các phần trên, Smith đã chỉ ra tiền công không biến động theo giá lương thực, thậm chí thường ngược chiều. Nhưng điều đó không có nghĩa giá lương thực không ảnh hưởng gì tới tiền công. Ông tổng hợp: **tiền công bằng tiền** được điều tiết bởi hai yếu tố.
+
+| Yếu tố | Vai trò |
+|---|---|
+| 1. Cầu lao động | Tuỳ cầu đang tăng, đứng yên hay giảm, tức tuỳ dân số cần tăng, đứng hay giảm, mà quyết định **lượng** nhu yếu phẩm và tiện nghi phải trao cho người lao động |
+| 2. Giá nhu yếu phẩm và tiện nghi | Quyết định **số tiền** cần để mua lượng đó; tiền công bằng tiền chính là số tiền này |
+
+Vì vậy tiền công bằng tiền có khi cao trong lúc lương thực rẻ; nhưng nếu lương thực đắt mà cầu lao động giữ nguyên, tiền công bằng tiền sẽ còn cao hơn nữa.
+
+Smith giải thích vì sao tiền công tăng trong năm dồi dào đột ngột và giảm trong năm khan hiếm đột ngột:
+
+- **Năm dồi dào đột ngột:** quỹ trả công trong tay nhiều chủ đủ để thuê nhiều người hơn năm trước, nhưng số người sẵn sàng làm thuê không tăng theo. Chủ nào muốn thuê thêm phải trả giá cao hơn đối thủ, và điều đó đẩy cả giá thực lẫn giá danh nghĩa của lao động lên.
+- **Năm khan hiếm đột ngột:** quỹ trả công giảm, nhiều người bị sa thải, họ cạnh tranh nhau giành việc và hạ cả giá thực lẫn giá danh nghĩa của lao động.
+
+Năm 1740, một năm khan hiếm khủng khiếp, nhiều người chịu làm việc chỉ để được nuôi ăn, tức tiền công chỉ đủ sống. Trong những năm dồi dào tiếp theo, khi phồn vinh trở lại, chủ lại khó thuê được thợ và đầy tớ.
+
+Từ đó ra một kết luận quan trọng về độ ổn định:
+
+| Năm | Tác động qua cầu lao động | Tác động qua giá lương thực | Kết quả |
+|---|---|---|---|
+| Khan hiếm | Cầu giảm, đẩy tiền công xuống | Giá lương thực cao, đẩy tiền công bằng tiền lên | Hai lực triệt tiêu phần nào nhau |
+| Dồi dào | Cầu tăng, đẩy tiền công lên | Giá lương thực thấp, đẩy tiền công bằng tiền xuống | Hai lực triệt tiêu phần nào nhau |
+
+Trong những biến động bình thường của giá lương thực, hai lực trái chiều này triệt tiêu một phần lẫn nhau. Đó là một phần lý do khiến tiền công ổn định hơn nhiều so với giá lương thực ở mọi nơi.
 
 ### 11. Tiền công cao, giá cả và năng suất
 
-- Tiền công tăng làm giá nhiều hàng tăng, vì làm tăng phần tiền công trong giá, và do đó có xu hướng giảm tiêu thụ trong và ngoài nước.
-- Nhưng chính sự tăng vốn, nguyên nhân làm tiền công tăng, lại làm tăng năng suất lao động. Chủ có nhiều vốn thuê nhiều người, cố phân công sao cho ra nhiều sản phẩm nhất, và trang bị máy móc tốt nhất có thể. Điều xảy ra trong một xưởng xảy ra trong cả xã hội: thợ càng đông, phân công càng tỉ mỉ, nhiều người tài được dùng vào việc chế tạo máy. Vì vậy nhiều hàng hoá được làm ra bằng lượng lao động ít hơn đến mức giá lao động cao hơn được bù đắp dư thừa bởi lượng lao động giảm đi.
+Đoạn cuối chương trả lời một nỗi lo: tiền công cao có làm hàng hoá đắt lên và mất sức cạnh tranh không? Smith thừa nhận: tiền công tăng làm giá nhiều hàng hoá tăng, vì nó làm tăng phần tiền công nằm trong giá (theo cách tách giá thành tiền công, lợi nhuận, địa tô ở Chương VI). Ở mức đó, tiền công cao có xu hướng làm giảm tiêu thụ những hàng này, cả trong nước lẫn ở nước ngoài.
+
+Nhưng chính nguyên nhân làm tiền công tăng, tức **sự tăng vốn**, lại có xu hướng làm tăng năng suất lao động, và làm một lượng lao động nhỏ hơn sản xuất ra lượng hàng lớn hơn. Cơ chế diễn ra qua ba bước:
+
+1. Chủ có nhiều vốn thuê được nhiều người, và vì lợi ích của chính mình, cố phân công lao động sao cho ra được nhiều sản phẩm nhất.
+2. Cũng vì lý do đó, chủ cố trang bị cho thợ những máy móc tốt nhất mà mình hoặc thợ nghĩ ra được.
+3. Điều xảy ra trong một xưởng cũng xảy ra trong cả xã hội: số người lao động càng đông thì phân công càng tỉ mỉ, và càng nhiều người tài được dùng vào việc phát minh, chế tạo máy móc thích hợp cho từng công việc.
+
+Kết quả là nhiều loại hàng hoá được làm ra bằng lượng lao động ít đi nhiều, đến mức giá lao động cao hơn được **bù đắp dư thừa** bởi lượng lao động giảm đi. Đây là chỗ chương này nối lại với Chương I: tích luỹ vốn vừa đẩy tiền công lên, vừa mở rộng phân công lao động, và chính phân công lao động bù lại chi phí của tiền công cao.
+
+**Ví dụ minh hoạ** (số giả định). Một xưởng trả công 10 penny một ngày, mỗi thợ làm 20 sản phẩm, nên chi phí tiền công là nửa penny cho mỗi sản phẩm. Sau khi chủ tích luỹ thêm vốn, phân công tỉ mỉ hơn và lắp máy mới, tiền công tăng lên 12 penny nhưng mỗi thợ làm được 40 sản phẩm, nên chi phí tiền công chỉ còn 0,3 penny mỗi sản phẩm. Tiền công tăng 20% mà hàng hoá lại rẻ đi.
 
 ## Luận điểm kinh tế cốt lõi
 

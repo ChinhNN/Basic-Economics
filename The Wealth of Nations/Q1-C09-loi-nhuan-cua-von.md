@@ -212,65 +212,223 @@
 2. **Làm sao biết lợi nhuận cao hay thấp khi không đo được nó?** Qua lãi suất thị trường, vì lãi suất người vay trả được tỷ lệ với lợi nhuận ròng. Ở Anh, lợi nhuận "hợp lý" là khoảng gấp đôi lãi suất.
 3. **Lợi nhuận và tiền công quan hệ thế nào?** Thường ngược chiều: nước tiến thì công cao lãi thấp (Hà Lan, Anh), nước nghèo hay suy thì công thấp lãi cao (Scotland, Pháp, Bengal). Ngoại lệ là thuộc địa mới, nơi đất dồi dào khiến cả hai cùng cao.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Lợi nhuận của vốn (profits of stock).** Khoản thu mà người bỏ vốn ra kinh doanh nhận được, sau khi đã trả đủ vật liệu và tiền công. Smith tính nó theo tỷ lệ phần trăm trên số vốn bỏ ra, gọi là tỷ suất lợi nhuận. Ví dụ minh hoạ: một chủ xưởng bỏ 1.000 bảng mua vật liệu và trả công, bán hàng được 1.100 bảng, thì lợi nhuận là 100 bảng, tỷ suất lợi nhuận 10%. Đây là phần thứ hai trong ba phần cấu thành giá (tiền công, lợi nhuận, địa tô), và chương này hỏi cái gì làm tỷ suất ấy cao hay thấp.
+
+**Lãi suất (interest of money).** Giá phải trả cho việc dùng tiền của người khác, tính theo phần trăm mỗi năm. Ví dụ trong chương: trước Chiến tranh Bảy năm, chính phủ Anh vay với lãi 3%, tức vay 100 bảng thì mỗi năm trả 3 bảng tiền lãi. Lãi suất quan trọng trong chương vì Smith dùng nó thay cho lợi nhuận, thứ không đo trực tiếp được: ai dùng tiền kiếm được nhiều thì trả được lãi cao.
+
+**Lãi suất pháp định và lãi suất thị trường (legal rate / market rate).** Lãi suất pháp định là mức trần do luật đặt ra, cho vay cao hơn mức đó là phạm pháp. Lãi suất thị trường là mức mà người vay có tín nhiệm tốt thực sự trả. Ví dụ trong chương: ở Anh từ thời nữ hoàng Anne, trần pháp định là 5% nhưng lãi suất thị trường còn thấp hơn, 3,5–4,5%; ở Pháp thì ngược lại, trần thấp hơn Anh mà lãi thị trường lại cao hơn. Khái niệm này giúp hiểu luận điểm của Smith rằng luật chỉ hiệu quả khi đi theo thị trường.
+
+**Lợi nhuận gộp và lợi nhuận ròng (gross profit / clear profit).** Mọi cách dùng vốn đều thỉnh thoảng gặp tổn thất (hàng chìm, con nợ bỏ trốn). Lợi nhuận gộp gồm cả phần để dành bù những tổn thất đó; lợi nhuận ròng là phần còn lại. Ví dụ minh hoạ: một thương nhân có lợi nhuận gộp 12% nhưng trung bình mất 2% vốn mỗi năm vì tổn thất, thì lợi nhuận ròng là 10%. Smith nói lãi suất người vay trả được chỉ tỷ lệ với lợi nhuận ròng.
+
+**Cạnh tranh giữa các chủ vốn.** Khi có nhiều người có vốn cùng kinh doanh một ngành, họ phải hạ giá bán để giành khách và trả công cao hơn để giành thợ, nên lợi nhuận của mỗi người bị ép xuống. Ví dụ minh hoạ: một thị trấn chỉ có một tiệm bánh thì tiệm đó lãi lớn; khi có năm tiệm mở ra, giá bánh giảm và lãi mỗi tiệm giảm. Đây là cơ chế Smith dùng để giải thích vì sao vốn tăng thì lợi nhuận giảm, trong khi tiền công lại tăng.
+
+**Phần bù rủi ro (risk premium).** Phần lãi mà người cho vay đòi thêm vì sợ không lấy lại được tiền. Ví dụ trong chương: ở Bengal nông dân phải vay với lãi 40%, 50%, 60%; ở nơi luật cấm cho vay lấy lãi, người cho vay đòi thêm để bù nguy cơ bị phạt. Khái niệm này giải thích vì sao luật pháp kém và lệnh cấm lãi làm lãi suất cao hơn mức mà mức giàu nghèo của một nước lẽ ra cho phép.
+
+**Lãi đơn và lãi kép (simple / compound interest).** Lãi đơn là tính lãi chỉ trên khoản gốc; lãi kép là tính lãi trên cả gốc lẫn lãi đã cộng từ trước. Ví dụ minh hoạ: 100 bảng với lãi 5% sau hai năm thành 110 bảng nếu tính lãi đơn, nhưng thành 110,25 bảng nếu tính lãi kép. Smith dùng hình ảnh này ở cuối chương để chứng minh lợi nhuận cao đẩy giá lên mạnh hơn tiền công cao.
+
+## Nội dung chi tiết
 
 ### 1. Mệnh đề và vấn đề đo lường
 
-- Lợi nhuận tăng giảm do cùng những nguyên nhân làm tiền công tăng giảm, tức trạng thái tăng hay giảm của của cải xã hội, nhưng tác động rất khác nhau lên hai thứ.
-- Tăng vốn làm tăng tiền công nhưng có xu hướng hạ lợi nhuận. Khi vốn của nhiều thương nhân giàu đổ vào cùng một ngành, cạnh tranh tự nhiên làm giảm lợi nhuận; khi vốn tăng ở mọi ngành trong xã hội, cạnh tranh gây tác động như vậy ở mọi ngành.
-- Tiền công trung bình đã khó xác định, chỉ biết được tiền công phổ biến nhất. Lợi nhuận thì còn khó hơn: nó biến động theo giá hàng, theo vận may của đối thủ và khách hàng, theo hàng nghìn rủi ro khi hàng đi đường biển, đường bộ, kể cả khi nằm trong kho. Lợi nhuận đổi từng năm, từng ngày, gần như từng giờ; người kinh doanh cũng không nói được lợi nhuận trung bình năm của mình. Ước tính cho cả một vương quốc lớn, hoặc cho quá khứ xa, là không thể.
-- Nhưng có thể hình thành một ý niệm qua lãi suất. Châm ngôn: ở đâu dùng tiền làm ra được nhiều thì người ta sẵn sàng trả nhiều để được dùng tiền; ở đâu làm ra ít thì trả ít. Vậy lợi nhuận trung bình phải biến động cùng chiều lãi suất thị trường thông thường.
+Smith mở chương bằng mệnh đề: lợi nhuận của vốn tăng hay giảm do **cùng những nguyên nhân** làm tiền công tăng hay giảm, tức là do của cải của xã hội đang tăng hay đang giảm. Nhưng những nguyên nhân ấy tác động lên hai thứ theo những cách rất khác nhau, thường là **ngược chiều**.
+
+Cụ thể, tăng vốn làm tăng tiền công (như đã chứng minh ở Chương VIII) nhưng lại có xu hướng hạ lợi nhuận. Cơ chế là cạnh tranh:
+
+- Khi vốn của nhiều thương nhân giàu có đổ vào cùng một ngành, họ cạnh tranh với nhau, và cạnh tranh tự nhiên làm giảm lợi nhuận của ngành đó.
+- Khi vốn tăng ở mọi ngành trong cùng một xã hội, cạnh tranh gây tác động y như vậy ở mọi ngành, nên lợi nhuận chung giảm.
+
+Tiếp theo là một vấn đề phương pháp. Ngay tiền công trung bình ở một nơi, một thời điểm, cũng đã khó xác định; ta chỉ biết được mức tiền công phổ biến nhất. Lợi nhuận còn khó xác định hơn nhiều, vì nó biến động theo:
+
+- giá của các hàng hoá mà người kinh doanh mua bán;
+- vận may hay rủi của đối thủ và của khách hàng;
+- hàng nghìn rủi ro mà hàng hoá gặp phải khi đi đường biển, đường bộ, và cả khi nằm trong kho.
+
+Vì vậy lợi nhuận thay đổi từng năm, từng ngày, gần như từng giờ. Chính người kinh doanh cũng không nói được chắc chắn lợi nhuận trung bình hằng năm của mình là bao nhiêu. Còn ước tính lợi nhuận trung bình cho cả một vương quốc lớn, hoặc cho những thời kỳ đã xa, thì hoàn toàn không thể.
+
+Smith đề xuất một lối vòng: dùng **lãi suất** làm chỉ báo. Ông dựa vào một châm ngôn: ở đâu dùng tiền làm ra được nhiều, người ta sẵn sàng trả nhiều để được dùng tiền; ở đâu làm ra ít, người ta chỉ trả ít. Vậy khi lãi suất thị trường thông thường thay đổi, ta có thể chắc rằng lợi nhuận trung bình cũng thay đổi theo cùng chiều: lãi suất giảm thì lợi nhuận giảm, lãi suất tăng thì lợi nhuận tăng. Diễn biến của lãi suất vì thế cho ta một ý niệm về diễn biến của lợi nhuận.
 
 ### 2. Lịch sử lãi suất ở Anh
 
-- Năm thứ 37 đời Henry VIII, mọi khoản lãi trên 10% bị tuyên bố bất hợp pháp; trước đó lãi suất đôi khi cao hơn.
-- Dưới thời Edward VI, lòng nhiệt thành tôn giáo cấm mọi khoản lãi. Lệnh cấm, như mọi lệnh cấm tương tự, không có tác dụng và có lẽ còn làm nạn cho vay nặng lãi tăng thay vì giảm.
-- Năm thứ 13 đời Elizabeth, đạo luật của Henry VIII được khôi phục, và 10% là mức pháp định cho đến năm thứ 21 đời James I, khi hạ xuống 8%. Sau Phục hưng (thời Charles II), hạ xuống 6% (bản dịch không nêu bước này); năm thứ 12 đời Anne hạ xuống 5%.
-- Các đạo luật đều được ban hành rất đúng lúc: chúng theo sau, chứ không đi trước, lãi suất thị trường, tức mức người có tín nhiệm tốt thường vay. Từ thời Anne, 5% có lẽ còn cao hơn chứ không thấp hơn lãi suất thị trường. Trước cuộc chiến tranh vừa qua, chính phủ vay 3%, người có tín nhiệm ở kinh đô và nhiều nơi khác vay 3,5%, 4% và 4,5%.
-- Từ thời Henry VIII, của cải và thu nhập của nước Anh liên tục tăng, và tăng ngày càng nhanh. Tiền công liên tục tăng; lợi nhuận trong phần lớn các ngành thương mại và chế tạo giảm.
+Smith đi qua các mốc của luật trần lãi suất ở Anh (các năm được tính theo năm trị vì của mỗi vị vua):
+
+| Thời điểm | Trần lãi suất pháp định | Ghi chú |
+|---|---|---|
+| Năm thứ 37 đời Henry VIII | 10% | Mọi khoản lãi trên 10% bị tuyên bố bất hợp pháp; trước đó lãi suất đôi khi cao hơn |
+| Thời Edward VI | Cấm mọi khoản lãi | Do lòng nhiệt thành tôn giáo |
+| Năm thứ 13 đời Elizabeth | 10% | Khôi phục đạo luật của Henry VIII |
+| Năm thứ 21 đời James I | 8% | |
+| Sau Phục hưng, thời Charles II | 6% | Bản dịch bỏ mất bước này |
+| Năm thứ 12 đời Anne | 5% | |
+
+Lệnh cấm mọi khoản lãi dưới thời Edward VI, như mọi lệnh cấm tương tự, không có tác dụng gì, và có lẽ còn làm nạn cho vay nặng lãi tăng lên chứ không giảm đi (điểm này được giải thích ở mục 6).
+
+Smith nhận xét rằng các đạo luật này đều được ban hành rất đúng lúc: chúng **theo sau**, chứ không đi trước, lãi suất thị trường, tức mức lãi mà người có tín nhiệm tốt thường vay. Luật chỉ ghi nhận cái thị trường đã đạt. Từ thời Anne, trần 5% có lẽ còn cao hơn chứ không thấp hơn lãi suất thị trường. Trước cuộc chiến tranh vừa qua (Chiến tranh Bảy năm), mức lãi thực tế là:
+
+| Người vay | Lãi suất |
+|---|---|
+| Chính phủ | 3% |
+| Người có tín nhiệm tốt ở kinh đô và nhiều nơi khác | 3,5%, 4% và 4,5% |
+
+Ghép lại: từ thời Henry VIII, của cải và thu nhập của nước Anh liên tục tăng, và trong quá trình ấy tốc độ tăng dường như ngày càng nhanh. Tiền công liên tục tăng, còn lợi nhuận trong phần lớn các ngành thương mại và chế tạo thì giảm. Trần lãi suất đi từ 10% xuống 5%, và lãi suất thị trường còn xuống thấp hơn, phù hợp với mệnh đề của Smith.
 
 ### 3. Thành phố, nông thôn và các nước
 
-- Mở một ngành kinh doanh ở thành phố lớn cần nhiều vốn hơn ở làng quê. Vốn lớn và đối thủ nhiều làm lợi nhuận ở thành phố thấp hơn, trong khi tiền công cao hơn. Ở thành phố đang phát đạt, người có vốn lớn thường không tìm đủ người làm, phải tranh nhau thuê, đẩy công lên và lợi nhuận xuống. Ở vùng hẻo lánh, ít người đủ vốn thuê công nhân, người làm phải tranh nhau tìm việc, nên công thấp mà lợi nhuận cao.
-- **Scotland:** lãi suất pháp định như Anh nhưng lãi suất thị trường cao hơn. Người tín nhiệm nhất hiếm khi vay dưới 5%. Ngay cả ngân hàng tư nhân ở Edinburgh cũng trả 4% cho lệnh phiếu của họ, loại phiếu người cầm có thể đòi trả toàn bộ hay một phần bất cứ lúc nào; ngân hàng tư nhân ở London không trả lãi cho tiền gửi. Hầu hết các nghề ở Scotland làm được với vốn nhỏ hơn ở Anh, nên tỷ suất lợi nhuận thông thường phải cao hơn. Tiền công ở Scotland thấp hơn Anh. Xứ này không chỉ nghèo hơn nhiều mà còn tiến chậm hơn, dù rõ ràng vẫn đang đi lên.
-- **Pháp:** trong thế kỷ này, lãi suất pháp định không phải lúc nào cũng theo lãi suất thị trường. Năm 1720, lãi suất bị hạ từ 5% xuống 2%; năm 1724 nâng lên 3,33%; năm 1725 nâng lên 5%; năm 1766, dưới thời Laverdy, hạ xuống 4%; sau đó Abbé Terray nâng lại 5%. Các lần hạ nhằm giảm lãi của nợ công, mục đích đôi khi đạt được. Pháp hiện không giàu bằng Anh; lãi suất pháp định thường thấp hơn Anh nhưng lãi suất thị trường nói chung cao hơn, vì ở Pháp cũng như nơi khác có nhiều cách an toàn và dễ dàng để lách luật. Theo các thương nhân buôn bán ở cả hai nước, lợi nhuận thương mại ở Pháp cao hơn; chính vì thế nhiều người Anh thích dùng vốn ở một nước mà thương mại bị coi thường hơn ở nước mình. Tiền công ở Pháp thấp hơn Anh: đi từ Scotland sang Anh đã thấy khác biệt rõ ở quần áo và nét mặt dân thường, đi từ Pháp về Anh thì càng rõ hơn. Pháp giàu hơn Scotland nhưng tiến chậm hơn. Ý kiến cho rằng Pháp đang thụt lùi, theo Smith, là thiếu cơ sở, và ý kiến tương tự về Scotland cũng không được những người biết rõ Scotland 20–30 năm trước ủng hộ.
-- **Hà Lan:** tính theo đất đai và dân số, giàu hơn Anh. Chính phủ vay 2%, tư nhân tín nhiệm vay 3%. Tiền công cao hơn Anh, và người Hà Lan được biết là buôn bán với lợi nhuận thấp hơn bất kỳ dân tộc nào ở châu Âu. Có người cho thương mại Hà Lan đang suy; có thể đúng với vài ngành, nhưng không có dấu hiệu suy thoái chung. Khi lợi nhuận giảm, thương nhân hay than thương mại suy, dù lợi nhuận giảm là hiệu ứng tự nhiên của thịnh vượng, hoặc của việc có nhiều vốn hơn được dùng vào thương mại. Trong cuộc chiến tranh vừa qua, người Hà Lan nắm toàn bộ việc chuyên chở cho Pháp và vẫn giữ một phần lớn. Tài sản lớn của họ trong các quỹ công của Pháp và Anh, nghe nói khoảng 40 triệu bảng (Smith nghi là phóng đại nhiều), và những khoản cho tư nhân ở các nước lãi cao hơn vay, chứng tỏ họ thừa vốn, tức vốn vượt quá mức dùng được trong nước với lợi nhuận chấp nhận được, chứ không chứng tỏ thương mại suy. Vốn của một cá nhân có thể tăng vượt quá mức anh ta dùng được trong ngành của mình mà ngành ấy vẫn tăng; vốn của một nước lớn cũng vậy.
+**Thành phố và nông thôn.** Mở một ngành kinh doanh ở thành phố lớn cần nhiều vốn hơn ở làng quê. Vốn lớn đổ vào mọi ngành và số đối thủ nhiều làm tỷ suất lợi nhuận ở thành phố thấp hơn ở nông thôn, trong khi tiền công ở thành phố lại cao hơn. Ở một thành phố đang phát đạt, người có vốn lớn thường không tìm đủ người làm như mình muốn, nên phải tranh nhau thuê, đẩy tiền công lên và kéo lợi nhuận xuống. Ở những vùng hẻo lánh, ít người có đủ vốn để thuê công nhân, nên người cần việc phải tranh nhau tìm chủ, khiến tiền công thấp mà lợi nhuận cao.
+
+Sau đó Smith so sánh bốn nước, và trường hợp nào cũng khớp với quy luật "công cao đi với lãi thấp, công thấp đi với lãi cao":
+
+**Scotland.** Lãi suất pháp định ở Scotland giống ở Anh, nhưng lãi suất thị trường cao hơn. Người có tín nhiệm tốt nhất hiếm khi vay được dưới 5%. Smith đưa một bằng chứng về ngân hàng:
+
+| | Ngân hàng tư nhân ở Edinburgh | Ngân hàng tư nhân ở London |
+|---|---|---|
+| Lãi trả cho người gửi | 4% cho lệnh phiếu của ngân hàng | Không trả lãi (0%) cho tiền gửi |
+| Điều kiện rút | Người cầm phiếu có thể đòi trả toàn bộ hay một phần bất cứ lúc nào | |
+
+Tức là ở Edinburgh ngay cả tiền gửi có thể rút ngay cũng được trả 4%, còn ở London thì không được gì, chứng tỏ lãi suất ở Scotland cao hơn. Hầu hết các nghề ở Scotland làm được với số vốn nhỏ hơn ở Anh, nên tỷ suất lợi nhuận thông thường ở đó phải cao hơn. Tiền công ở Scotland thì thấp hơn ở Anh. Xứ này không chỉ nghèo hơn nhiều mà còn tiến lên chậm hơn, dù rõ ràng là vẫn đang đi lên.
+
+**Pháp.** Trong thế kỷ này, lãi suất pháp định ở Pháp không phải lúc nào cũng đi theo thị trường; nó bị thay đổi để phục vụ nhà nước:
+
+| Năm | Lãi suất pháp định |
+|---|---|
+| 1720 | Hạ từ 5% xuống 2% |
+| 1724 | Nâng lên 3,33% (một phần ba mươi) |
+| 1725 | Nâng lên 5% |
+| 1766, thời Laverdy | Hạ xuống 4% |
+| Sau đó, thời Abbé Terray | Nâng lại 5% |
+
+Mục đích của những lần hạ lãi suất bằng luật là giảm tiền lãi phải trả cho nợ công, và mục đích ấy đôi khi đạt được. Pháp hiện không giàu bằng Anh. Lãi suất pháp định ở Pháp thường thấp hơn ở Anh, nhưng lãi suất thị trường nói chung lại cao hơn, vì ở Pháp cũng như mọi nơi có nhiều cách an toàn và dễ dàng để lách luật. Các thương nhân buôn bán ở cả hai nước cho biết lợi nhuận thương mại ở Pháp cao hơn ở Anh; chính vì thế nhiều người Anh thích đem vốn sang dùng ở một nước mà nghề buôn bị coi thường hơn ở nước mình. Tiền công ở Pháp thấp hơn ở Anh: đi từ Scotland sang Anh đã thấy rõ khác biệt ở quần áo và nét mặt của dân thường, đi từ Pháp về Anh thì khác biệt còn rõ hơn. Pháp giàu hơn Scotland nhưng tiến chậm hơn. Có ý kiến phổ biến rằng Pháp đang thụt lùi; Smith cho là thiếu cơ sở. Ý kiến tương tự về Scotland cũng không được những người biết rõ Scotland 20–30 năm trước và biết Scotland hiện nay ủng hộ.
+
+**Hà Lan.** Tính theo diện tích đất đai và số dân, Hà Lan giàu hơn Anh. Chính phủ Hà Lan vay với lãi 2%, tư nhân có tín nhiệm tốt vay 3%. Tiền công ở Hà Lan được cho là cao hơn ở Anh, và người Hà Lan nổi tiếng là buôn bán với lợi nhuận thấp hơn bất kỳ dân tộc nào ở châu Âu.
+
+Có người cho rằng thương mại của Hà Lan đang suy. Smith nói điều đó có thể đúng với vài ngành, nhưng không có dấu hiệu suy thoái chung. Ông giải thích vì sao lời than ấy hay xuất hiện: khi lợi nhuận giảm, thương nhân thường than rằng thương mại suy, dù lợi nhuận giảm là hệ quả tự nhiên của thịnh vượng, hoặc của việc có nhiều vốn hơn trước được dùng vào thương mại. Bằng chứng ngược lại:
+
+- trong cuộc chiến tranh vừa qua, người Hà Lan nắm toàn bộ việc chuyên chở hàng hoá cho Pháp, và đến nay vẫn giữ một phần lớn;
+- họ có tài sản lớn trong các quỹ công (trái phiếu nhà nước) của Pháp và Anh, nghe nói khoảng 40 triệu bảng, con số Smith nghi là bị phóng đại nhiều;
+- họ cho tư nhân ở các nước có lãi suất cao hơn vay những khoản lớn.
+
+Những điều đó chứng tỏ Hà Lan **thừa vốn**, tức vốn đã vượt quá mức có thể dùng trong nước với lợi nhuận chấp nhận được, chứ không chứng tỏ thương mại suy. Smith so sánh: vốn của một cá nhân có thể tăng vượt quá mức anh ta dùng được trong ngành của mình mà ngành ấy vẫn tiếp tục phát triển; vốn của một nước lớn cũng vậy.
+
+Tóm tắt các so sánh:
+
+| Nước | Lãi suất | Tiền công so với Anh | Trạng thái |
+|---|---|---|---|
+| Hà Lan | Chính phủ 2%, tư nhân 3% | Cao hơn | Giàu hơn Anh, lợi nhuận thấp nhất châu Âu |
+| Anh | Chính phủ 3%, tư nhân 3,5–4,5% | | Giàu lên liên tục |
+| Scotland | Hiếm khi dưới 5% | Thấp hơn | Nghèo hơn, tiến chậm hơn |
+| Pháp | Trần 2–5% nhưng thị trường cao hơn Anh | Thấp hơn | Tiến chậm |
 
 ### 4. Ngoại lệ: thuộc địa mới
 
-- Ở các thuộc địa Bắc Mỹ và Tây Ấn, không chỉ tiền công mà cả lãi suất, và do đó lợi nhuận, đều cao hơn Anh. Lãi suất pháp định và thị trường ở các thuộc địa từ 6% đến 8%.
-- Công cao và lợi nhuận cao đi cùng nhau là hiếm, chỉ có ở hoàn cảnh đặc biệt của thuộc địa mới. Ở đó, so với đất đai, vốn ít; so với vốn, dân còn ít hơn. Người ta có nhiều đất hơn vốn để canh tác, nên chỉ canh tác đất màu mỡ nhất, vị trí tốt nhất, ven biển hoặc dọc các sông đi lại được. Đất ấy thường mua với giá thấp hơn cả giá trị sản lượng tự nhiên của nó. Vốn dùng để mua và cải tạo đất ấy cho lợi nhuận rất lớn, nên trả được lãi rất cao.
-- Vốn tích luỹ nhanh nhờ làm ăn có lãi lớn khiến chủ đồn điền muốn tăng nhân công nhanh hơn khả năng tìm người ở vùng mới, nên người làm được trả công rất hậu.
-- Khi thuộc địa phát triển, lợi nhuận dần giảm. Khi đất tốt nhất và vị trí tốt nhất đã có chủ, người đến sau phải canh tác đất xấu hơn, xa đường vận chuyển, lợi nhuận ít hơn, nên chỉ trả được lãi thấp hơn. Vì vậy ở phần lớn thuộc địa Anh, cả lãi suất pháp định lẫn thị trường đã giảm đáng kể trong thế kỷ này.
-- Của cải, cải tiến và dân số tăng thì lãi suất giảm, nhưng tiền công không giảm theo lợi nhuận. Cầu lao động tăng theo lượng vốn, bất kể lợi nhuận là bao nhiêu; sau khi lợi nhuận giảm, vốn không những vẫn tăng mà còn tăng nhanh hơn trước. Dân tộc cần cù đang giàu lên cũng như cá nhân cần cù: vốn lớn dù lãi nhỏ thường tăng nhanh hơn vốn nhỏ lãi lớn. Tục ngữ nói tiền đẻ ra tiền: có một ít rồi thì dễ có thêm; khó nhất là có được cái ít ỏi ban đầu. Smith hứa giải thích kỹ hơn mối liên hệ giữa tăng vốn và cầu lao động khi bàn về tích luỹ vốn (Quyển II).
+Ở các thuộc địa Bắc Mỹ và Tây Ấn, không chỉ tiền công mà cả lãi suất, và do đó lợi nhuận, đều cao hơn ở Anh. Lãi suất pháp định và lãi suất thị trường ở các thuộc địa đều từ 6% đến 8%.
+
+Tiền công cao và lợi nhuận cao cùng lúc là chuyện hiếm, chỉ có trong hoàn cảnh đặc biệt của các thuộc địa mới. Smith giải thích bằng tỷ lệ giữa ba yếu tố:
+
+- So với đất đai, **vốn ít**; so với vốn, **người còn ít hơn**.
+- Người ta có nhiều đất hơn số vốn đủ để canh tác, nên chỉ canh tác loại đất màu mỡ nhất và có vị trí tốt nhất: đất ven biển hoặc dọc các con sông tàu thuyền đi lại được.
+- Loại đất ấy thường mua được với giá thấp hơn cả giá trị sản lượng tự nhiên của nó.
+- Vốn dùng để mua và cải tạo đất như vậy đem lại lợi nhuận rất lớn, nên người dùng vốn trả được lãi rất cao.
+
+Đồng thời, vốn tích luỹ rất nhanh nhờ làm ăn lãi lớn khiến các chủ đồn điền muốn tăng số người làm nhanh hơn khả năng tìm được người ở một vùng mới. Thiếu người thì phải trả công rất hậu. Vậy là cả lợi nhuận lẫn tiền công cùng cao.
+
+Nhưng khi thuộc địa phát triển, lợi nhuận dần giảm. Khi đất tốt nhất và vị trí tốt nhất đã có chủ, người đến sau phải canh tác đất xấu hơn và xa đường vận chuyển hơn, lợi nhuận ít hơn, nên chỉ trả được lãi thấp hơn. Vì vậy ở phần lớn các thuộc địa Anh, cả lãi suất pháp định lẫn lãi suất thị trường đã giảm đáng kể trong thế kỷ này.
+
+Từ đây Smith rút ra một điểm quan trọng: khi của cải, cải tiến và dân số tăng, lãi suất giảm, nhưng **tiền công không giảm theo lợi nhuận**. Cầu lao động tăng theo **lượng** vốn, bất kể lợi nhuận trên vốn ấy là bao nhiêu. Sau khi lợi nhuận đã giảm, vốn không những vẫn tiếp tục tăng mà còn tăng nhanh hơn trước. Các dân tộc cần cù đang giàu lên cũng giống như những cá nhân cần cù: một số vốn lớn, dù lãi ít, thường vẫn tăng nhanh hơn một số vốn nhỏ lãi nhiều. Tục ngữ nói "tiền đẻ ra tiền": có được một ít rồi thì dễ có thêm; cái khó nhất là có được số vốn ít ỏi ban đầu.
+
+**Ví dụ minh hoạ** (số giả định). Một người có 100 bảng sinh lời 20% mỗi năm thì thêm 20 bảng; một người có 10.000 bảng chỉ sinh lời 5% vẫn thêm 500 bảng. Số tiền tuyệt đối tăng thêm, và do đó số người có thể thuê thêm, phụ thuộc vào quy mô vốn nhiều hơn vào tỷ suất lợi nhuận.
+
+Smith hứa sẽ giải thích kỹ hơn mối liên hệ giữa tăng vốn và cầu lao động khi bàn về tích luỹ vốn ở Quyển II.
 
 ### 5. Khi nào lợi nhuận và lãi suất tăng
 
-- **Đất mới, ngành mới:** việc có thêm lãnh thổ hay ngành kinh doanh mới đôi khi nâng lợi nhuận và lãi suất ngay cả ở nước đang giàu nhanh. Vốn của nước không đủ cho toàn bộ cơ hội mới, nên chỉ dồn vào các ngành lãi nhất; một phần vốn phải rút khỏi các ngành cũ. Cạnh tranh ở ngành cũ giảm, thị trường thiếu hàng hơn, giá tăng, lợi nhuận tăng, và người kinh doanh vay được với lãi cao hơn.
-- Một thời gian sau khi chiến tranh vừa qua kết thúc, không chỉ tư nhân tín nhiệm nhất mà cả một số công ty lớn nhất ở London thường vay 5%, trong khi trước đó họ ít khi trả quá 4% hay 4,5%. Việc có thêm lãnh thổ và thương mại lớn ở Bắc Mỹ và Tây Ấn đủ giải thích điều này mà không cần giả định tổng vốn xã hội giảm. Smith hứa sẽ trình bày lý do ông tin tổng vốn nước Anh không giảm ngay cả sau những chi tiêu chiến tranh khổng lồ (Quyển II).
-- **Tổng vốn giảm:** khi vốn của xã hội, tức quỹ duy trì ngành nghề, giảm, tiền công giảm và lợi nhuận tăng, nên lãi suất tăng. Công rẻ cho phép chủ vốn còn lại đưa hàng ra thị trường với chi phí thấp hơn; ít vốn cung hàng hơn cho phép bán giá cao hơn. Lợi nhuận tăng ở cả hai đầu, nên họ trả được lãi cao.
-- Bằng chứng: Bengal và các khu định cư Anh ở Đông Ấn, nơi người ta giàu lên rất nhanh vì công rẻ mạt và lợi nhuận rất cao. Lãi suất cao tương ứng: nông dân ở Bengal thường vay với 40%, 50%, 60%, và thế chấp vụ mùa sắp tới. Lợi nhuận trả được lãi như thế phải ngốn gần hết địa tô của chủ đất, và lãi nặng như thế lại ngốn phần lớn lợi nhuận ấy. Trước khi Cộng hoà La Mã sụp đổ, cho vay nặng lãi kiểu này thịnh hành ở các tỉnh dưới các thống đốc tham tàn. Theo thư của Cicero, Brutus "đoan chính" cũng cho vay ở Síp với lãi 48%.
+Smith chỉ ra hai trường hợp làm lợi nhuận và lãi suất tăng lên.
+
+**Trường hợp thứ nhất: có thêm đất mới hoặc ngành mới.** Việc có thêm lãnh thổ hay thêm ngành kinh doanh mới đôi khi nâng lợi nhuận và lãi suất lên, ngay cả ở một nước đang giàu nhanh. Chuỗi lập luận như sau:
+
+1. Vốn của nước đó không đủ cho toàn bộ cơ hội kinh doanh mới, nên chỉ được dồn vào những ngành lãi nhất.
+2. Một phần vốn trước đây dùng trong các ngành cũ phải rút ra để chuyển sang ngành mới lãi hơn.
+3. Ở các ngành cũ, số vốn ít đi nên cạnh tranh giảm.
+4. Thị trường của các ngành cũ được cung hàng ít hơn trước, giá hàng tăng.
+5. Lợi nhuận tăng, và người kinh doanh trả được, nên vay được, với lãi cao hơn.
+
+Bằng chứng: một thời gian sau khi chiến tranh vừa qua (Chiến tranh Bảy năm) kết thúc, không chỉ những tư nhân có tín nhiệm tốt nhất mà cả một số công ty lớn nhất ở London thường vay với lãi 5%, trong khi trước đó họ ít khi trả quá 4% hay 4,5%. Theo Smith, việc nước Anh có thêm lãnh thổ và thương mại lớn ở Bắc Mỹ và Tây Ấn sau chiến tranh đủ để giải thích điều này, không cần giả định rằng tổng vốn của xã hội đã giảm. Ông hứa sẽ trình bày ở Quyển II lý do ông tin tổng vốn của nước Anh không giảm, ngay cả sau những chi tiêu chiến tranh khổng lồ.
+
+**Trường hợp thứ hai: tổng vốn của xã hội giảm.** Khi vốn của xã hội, tức quỹ duy trì các ngành nghề, giảm đi, tiền công giảm và lợi nhuận tăng, nên lãi suất cũng tăng. Lợi nhuận tăng ở **cả hai đầu**:
+
+- Đầu chi phí: tiền công thấp xuống cho phép những người còn vốn đưa hàng ra thị trường với chi phí thấp hơn trước.
+- Đầu giá bán: có ít vốn hơn dùng để cung cấp hàng cho thị trường, nên hàng khan hơn và bán được giá cao hơn.
+
+Chi phí thấp hơn và giá bán cao hơn cùng lúc, nên lợi nhuận tăng mạnh và chủ vốn trả được lãi cao.
+
+Bằng chứng là **Bengal** và các khu định cư khác của Anh ở Đông Ấn. Ở đó người ta giàu lên rất nhanh vì tiền công rẻ mạt và lợi nhuận rất cao. Lãi suất cao tương ứng: nông dân ở Bengal thường vay với lãi 40%, 50%, 60%, và phải thế chấp vụ mùa sắp tới. Lợi nhuận đủ để trả mức lãi ấy phải ngốn gần hết phần lẽ ra là địa tô của chủ đất, và đến lượt mình, mức lãi nặng ấy lại ngốn phần lớn lợi nhuận đó.
+
+Smith thêm một ví dụ lịch sử: trước khi Cộng hoà La Mã sụp đổ, cho vay nặng lãi kiểu này thịnh hành ở các tỉnh dưới quyền những thống đốc tham tàn. Theo thư của Cicero, ngay cả Brutus, người nổi tiếng "đoan chính", cũng cho vay ở đảo Síp với lãi 48%.
 
 ### 6. Trạng thái đầy đủ, Trung Hoa và vai trò của luật pháp
 
-- Ở một nước đã đạt trọn mức của cải mà đất, khí hậu và vị trí cho phép, không tiến nữa và không lùi, cả tiền công lẫn lợi nhuận đều rất thấp. Dân đã đủ đầy so với khả năng nuôi của đất và vốn, nên cạnh tranh việc làm hạ công xuống mức đủ duy trì số người hiện có. Vốn đã đủ cho mọi ngành, nên cạnh tranh ở mọi nơi hạ lợi nhuận xuống thấp nhất.
-- Chưa nước nào đạt mức đó. Trung Hoa đứng yên từ lâu, có lẽ đã đạt trọn của cải mà luật lệ và thể chế của nó cho phép, nhưng với luật lệ và thể chế khác thì đất, khí hậu, vị trí của nó còn cho phép nhiều hơn. Một nước coi thường ngoại thương, chỉ cho tàu nước ngoài vào một hai cảng, không thể kinh doanh với quy mô lẽ ra có thể. Ở một nước mà người giàu, vốn lớn được an toàn, còn người nghèo, vốn nhỏ không được bảo đảm gì và bị các quan lại cấp thấp áp bức, cướp đoạt bất cứ lúc nào, thì vốn dùng trong kinh doanh không bao giờ đạt mức mà tính chất và quy mô kinh doanh cho phép. Ở mọi ngành, việc áp bức người nghèo tất yếu dẫn đến độc quyền của người giàu, những người thâu tóm toàn bộ ngành và thu lợi nhuận rất lớn. Lãi suất thông thường ở Trung Hoa là 12%, và lợi nhuận thông thường phải đủ trả mức lãi đó.
-- Khiếm khuyết của luật pháp có thể đẩy lãi suất lên cao hơn mức mà điều kiện giàu nghèo của nước cho phép. Khi luật không cưỡng chế thực hiện hợp đồng, mọi người vay đều bị đặt ngang hàng với con nợ mất khả năng trả hay kẻ không đáng tin. Người cho vay, không chắc lấy lại được tiền, đòi lãi nặng như người ta thường đòi ở con nợ xấu. Ở các dân tộc man rợ chiếm các tỉnh phía tây Đế quốc La Mã, việc thực hiện hợp đồng dựa vào lòng tin của các bên, toà án nhà vua ít can thiệp; lãi suất cao thời xưa có lẽ một phần bắt nguồn từ đó.
-- Khi luật cấm cho vay lấy lãi, việc đó không bị ngăn lại. Nhiều người cần vay, và không ai cho vay mà không đòi một khoản tương xứng không chỉ với giá trị sử dụng tiền mà còn với khó khăn và nguy hiểm khi lách luật. Lãi suất cao ở các dân tộc Hồi giáo không phải do họ nghèo, mà một phần do điều này (lệnh cấm lãi) và một phần do khó đòi nợ. (Trong nguyên bản, đây là lời giải thích của Montesquieu mà Smith dẫn; bản dịch bỏ tên.)
+**Trạng thái đầy đủ.** Smith hình dung một nước đã đạt trọn mức của cải mà đất đai, khí hậu và vị trí của nó cho phép, nên không tiến thêm được nữa và cũng không lùi. Ở nước ấy, **cả tiền công lẫn lợi nhuận đều rất thấp**:
+
+- Dân số đã đủ đầy so với khả năng nuôi của đất và vốn, nên người lao động cạnh tranh nhau giành việc, hạ tiền công xuống mức chỉ đủ duy trì số người hiện có.
+- Vốn đã đủ cho mọi ngành kinh doanh, theo đúng tính chất và quy mô của từng ngành, nên cạnh tranh ở mọi nơi hạ lợi nhuận xuống mức thấp nhất có thể.
+
+Chưa nước nào đạt tới trạng thái đó.
+
+**Trung Hoa.** Trung Hoa đã đứng yên từ lâu và có lẽ đã đạt trọn mức của cải mà **luật lệ và thể chế** của nó cho phép. Nhưng với luật lệ và thể chế khác, đất đai, khí hậu và vị trí của Trung Hoa còn cho phép giàu hơn nhiều. Smith chỉ ra hai khiếm khuyết thể chế:
+
+- **Đóng cửa ngoại thương.** Một nước coi thường hoặc khinh rẻ ngoại thương, chỉ cho tàu nước ngoài vào 1–2 cảng, không thể kinh doanh với quy mô mà nó lẽ ra có thể đạt được với luật lệ khác.
+- **Không bảo vệ người vốn nhỏ.** Ở Trung Hoa, người giàu và người có vốn lớn được hưởng an toàn khá cao, còn người nghèo và người có vốn nhỏ thì không được bảo đảm gì; họ có thể bị các quan lại cấp thấp áp bức, cướp đoạt bất cứ lúc nào dưới danh nghĩa thi hành công lý. Vì vậy số vốn dùng trong các ngành kinh doanh không bao giờ đạt mức mà tính chất và quy mô của các ngành ấy cho phép.
+
+Hệ quả: ở mọi ngành, việc áp bức người nghèo tất yếu dẫn đến **độc quyền của người giàu**. Những người giàu thâu tóm toàn bộ một ngành và thu lợi nhuận rất lớn. Lãi suất thông thường ở Trung Hoa là 12%, và lợi nhuận thông thường của vốn phải đủ để trả mức lãi cao ấy. Tức là lãi suất cao ở Trung Hoa không phải do nước này nghèo vốn theo nghĩa tự nhiên, mà do thể chế ngăn vốn được dùng đầy đủ.
+
+**Luật pháp kém đẩy lãi suất lên.** Khiếm khuyết của luật pháp có thể đẩy lãi suất lên cao hơn mức mà điều kiện giàu nghèo của một nước lẽ ra cho phép. Khi luật không bảo vệ việc thực hiện hợp đồng, mọi người vay đều bị đặt ngang hàng với con nợ đã mất khả năng trả hoặc kẻ không đáng tin ở những nước có luật pháp tốt hơn. Người cho vay không chắc lấy lại được tiền nên đòi mức lãi nặng như người ta vẫn đòi ở con nợ xấu. Ở các dân tộc man rợ đã chiếm các tỉnh phía tây của Đế quốc La Mã, việc thực hiện hợp đồng trong nhiều thời kỳ dựa vào lòng tin của các bên, toà án của nhà vua ít khi can thiệp. Smith cho rằng mức lãi suất cao thời xưa có lẽ một phần bắt nguồn từ đó.
+
+**Cấm cho vay lấy lãi làm lãi tăng.** Khi luật cấm hẳn việc cho vay lấy lãi, việc cho vay không vì thế mà dừng lại. Nhiều người vẫn cần vay, và không ai chịu cho vay mà không đòi một khoản tương xứng, không chỉ với giá trị của việc dùng tiền mà còn với khó khăn và nguy hiểm khi lách luật. Như vậy lệnh cấm cộng thêm một khoản bù rủi ro vào lãi suất. Lãi suất cao ở các dân tộc Hồi giáo, theo lời giải thích của Montesquieu mà Smith dẫn, không phải do họ nghèo, mà một phần do lệnh cấm lãi và một phần do khó đòi nợ (bản dịch bỏ mất tên Montesquieu).
 
 ### 7. Giới hạn dưới, giới hạn trên và quy tắc "lãi gấp đôi"
 
-- Tỷ suất lợi nhuận thông thường thấp nhất phải luôn hơn mức đủ bù những tổn thất thỉnh thoảng mà mọi cách dùng vốn gặp phải. Chỉ phần dư ấy là lợi nhuận ròng. Lợi nhuận gộp thường gồm cả phần dư ấy lẫn phần giữ lại để bù tổn thất bất thường. Lãi suất người vay trả nổi chỉ tỷ lệ với lợi nhuận ròng.
-- Ở một nước đã đạt trọn của cải, mỗi ngành đã có vốn tối đa, lợi nhuận ròng trung bình rất nhỏ, nên lãi suất thị trường thấp đến mức chỉ người giàu nhất mới sống được bằng lãi. Người có vốn nhỏ và vừa phải tự quản lý vốn của mình; hầu như ai cũng phải là người kinh doanh. Hà Lan dường như gần tới trạng thái đó: ở đó không làm ăn buôn bán thì bị coi là lạc lõng. Như mặc khác mọi người là lố bịch, không làm việc như mọi người cũng vậy; như người dân thường thấy lạc lõng và bị coi khinh trong trại lính, kẻ ăn không ngồi rồi cũng vậy giữa những người bận rộn kinh doanh.
-- Tỷ suất lợi nhuận thông thường cao nhất là mức mà, trong giá phần lớn hàng hoá, ngốn toàn bộ phần lẽ ra là địa tô, chỉ để lại đủ trả công cho lao động làm và đưa hàng ra thị trường ở mức thấp nhất mà lao động có thể được trả, tức mức đủ sống. Người thợ luôn phải được nuôi bằng cách này hay cách khác khi làm việc; chủ đất thì không phải lúc nào cũng được trả. Lợi nhuận của việc buôn bán mà nhân viên Công ty Đông Ấn tiến hành ở Bengal có lẽ không xa mức này.
-- Tỷ lệ giữa lãi suất thị trường và lợi nhuận ròng thay đổi khi lợi nhuận tăng hay giảm. Ở Anh, gấp đôi lãi suất được thương nhân coi là lợi nhuận "tốt, vừa phải, hợp lý", tức lợi nhuận thông thường. Ở nước có lợi nhuận ròng thông thường 8–10%, hợp lý là một nửa số đó trả lãi khi kinh doanh bằng vốn vay. Vốn chịu rủi ro thuộc về người vay, người vay như bảo hiểm vốn cho người cho vay; trong phần lớn ngành, 4–5% vừa đủ là lợi nhuận cho rủi ro bảo hiểm ấy và đền bù cho công sức dùng vốn. Nhưng tỷ lệ ấy không giống nhau ở nước có lợi nhuận thấp hơn hay cao hơn nhiều: thấp hơn nhiều thì một nửa lợi nhuận không đủ trả lãi; cao hơn nhiều thì một nửa là thừa.
+**Giới hạn dưới.** Tỷ suất lợi nhuận thông thường thấp nhất luôn phải cao hơn mức vừa đủ bù những tổn thất thỉnh thoảng xảy ra với mọi cách dùng vốn. Chỉ phần dư ra sau khi đã bù tổn thất mới là **lợi nhuận ròng**. Cái gọi là **lợi nhuận gộp** thường gồm cả phần dư ấy lẫn phần giữ lại để bù những tổn thất bất thường. Lãi suất mà người vay trả nổi chỉ tỷ lệ với lợi nhuận ròng.
+
+Ở một nước đã đạt trọn mức của cải, nơi mỗi ngành đã có lượng vốn tối đa có thể dùng, lợi nhuận ròng thông thường rất nhỏ, nên lãi suất thị trường cũng thấp đến mức chỉ những người giàu nhất mới sống được bằng tiền lãi. Mọi người có vốn nhỏ và vừa đều phải tự mình quản lý vốn, tức là hầu như ai cũng phải là người kinh doanh. Hà Lan dường như đang tiến gần tới trạng thái đó. Ở Hà Lan, không làm ăn buôn bán bị coi là lạc lõng: cũng như ăn mặc khác mọi người là lố bịch, không làm việc như mọi người cũng vậy; và cũng như một người dân thường thấy lạc lõng, thậm chí bị coi khinh trong trại lính, kẻ ăn không ngồi rồi thấy mình lạc lõng giữa những người bận rộn kinh doanh.
+
+**Giới hạn trên.** Tỷ suất lợi nhuận thông thường cao nhất là mức mà, trong giá của phần lớn hàng hoá, nó ngốn **toàn bộ** phần lẽ ra là địa tô, và chỉ để lại đủ trả công cho những người làm ra hàng và đưa hàng ra thị trường, ở mức thấp nhất mà lao động có thể được trả, tức mức đủ sống. Lý do giới hạn là ở tiền công chứ không ở địa tô: người thợ luôn phải được nuôi bằng cách này hay cách khác trong khi làm việc, còn chủ đất thì không phải lúc nào cũng được trả. Smith cho rằng lợi nhuận của việc buôn bán mà các nhân viên Công ty Đông Ấn tiến hành ở Bengal có lẽ không xa mức này.
+
+| Giới hạn | Lợi nhuận ở mức nào | Khi nào gần đạt |
+|---|---|---|
+| Dưới | Chỉ hơn một chút so với mức bù tổn thất thỉnh thoảng | Nước đã đạt trọn của cải; Hà Lan đang tiến gần |
+| Trên | Ngốn toàn bộ địa tô, để tiền công ở mức đủ sống | Buôn bán của nhân viên Công ty Đông Ấn ở Bengal |
+
+**Quy tắc "lãi gấp đôi".** Tỷ lệ giữa lãi suất thị trường và lợi nhuận ròng thông thường thay đổi khi lợi nhuận tăng hay giảm. Ở Anh, thương nhân coi lợi nhuận bằng **gấp đôi lãi suất** là lợi nhuận "tốt, vừa phải, hợp lý", tức là lợi nhuận thông thường. Smith giải thích quy tắc này:
+
+- Ở một nước có lợi nhuận ròng thông thường 8–10%, hợp lý là một nửa số đó dùng để trả lãi khi kinh doanh bằng vốn vay.
+- Vốn chịu rủi ro thuộc về người vay; người vay giống như người bảo hiểm vốn cho người cho vay.
+- Trong phần lớn các ngành, phần 4–5% còn lại vừa đủ là lợi nhuận cho rủi ro bảo hiểm ấy và là đền bù cho công sức dùng vốn.
+
+Nhưng tỷ lệ một nửa ấy không áp dụng giống nhau ở mọi nước. Phần người vay giữ lại phải đủ bù rủi ro và công sức, mà khoản này không co lại theo lợi nhuận. Vì vậy ở nước có lợi nhuận thông thường thấp hơn nhiều, người vay không thể dành tới một nửa lợi nhuận để trả lãi; còn ở nước có lợi nhuận cao hơn nhiều, người vay có thể dành nhiều hơn một nửa. (Câu này trong bản dịch tiếng Việt viết khá tối nghĩa; nguyên bản nói một nửa lợi nhuận "không thể dành để trả lãi" ở nước lợi nhuận thấp, và "có thể dành nhiều hơn" ở nước lợi nhuận cao.)
+
+**Ví dụ minh hoạ** (số giả định). Một thương nhân Anh vay 1.000 bảng với lãi 5%, kinh doanh thu lợi nhuận ròng 10%, tức 100 bảng. Anh ta trả 50 bảng tiền lãi và giữ 50 bảng còn lại làm phần thưởng cho việc chịu rủi ro và bỏ công quản lý. Đó là hình mẫu "lợi nhuận gấp đôi lãi suất".
 
 ### 8. Lợi nhuận thấp, tiền công cao và giá cả
 
-- Ở nước giàu lên nhanh, lợi nhuận thấp có thể, trong giá nhiều hàng, bù cho tiền công cao, cho phép nước đó bán rẻ như láng giềng kém thịnh vượng có công thấp hơn.
-- Thực ra lợi nhuận cao đẩy giá lên mạnh hơn nhiều so với tiền công cao. Ví dụ vải lanh: nếu công của các loại thợ (thợ sơ chế lanh, thợ xe sợi, thợ dệt…) tăng 2 penny một ngày, giá một tấm vải chỉ phải tăng thêm 2 penny nhân số thợ nhân số ngày làm. Phần giá do tiền công, qua các khâu sản xuất, chỉ tăng theo cấp số cộng.
-- Nhưng nếu lợi nhuận của mọi người chủ tăng 5%, phần giá do lợi nhuận tăng theo cấp số nhân. Chủ thợ sơ chế lanh, khi bán lanh, cộng thêm 5% trên toàn bộ giá trị nguyên liệu và tiền công đã ứng trước. Chủ thợ xe sợi cộng thêm 5% trên giá lanh (đã gồm 5% của khâu trước) và tiền công thợ xe sợi. Chủ thợ dệt cộng thêm 5% trên giá sợi (đã gồm 5% của hai khâu trước) và tiền công thợ dệt. Trong việc nâng giá, tiền công tăng hoạt động như lãi đơn trong tích luỹ nợ; lợi nhuận tăng hoạt động như lãi kép.
-- Thương nhân và chủ xưởng than nhiều về tác hại của tiền công cao trong việc nâng giá và làm giảm hàng bán trong và ngoài nước. Họ không nói gì về tác hại của lợi nhuận cao. Họ im lặng về tác hại của chính thu nhập của mình. Họ chỉ than về tác hại của thu nhập người khác.
+Ở một nước đang giàu lên nhanh, trong giá của nhiều hàng hoá, lợi nhuận thấp có thể bù cho tiền công cao. Nhờ vậy nước đó vẫn bán rẻ được như các nước láng giềng kém thịnh vượng hơn, nơi tiền công thấp hơn.
+
+Nhưng Smith đi xa hơn: thực ra **lợi nhuận cao đẩy giá lên mạnh hơn nhiều so với tiền công cao**. Ông chứng minh bằng ví dụ chuỗi sản xuất vải lanh, gồm ba khâu nối tiếp: thợ sơ chế (chải) cây lanh, thợ xe sợi, thợ dệt.
+
+**Nếu tiền công tăng.** Giả sử công của mọi loại thợ trong chuỗi tăng 2 penny một ngày. Giá một tấm vải chỉ phải tăng thêm đúng bằng 2 penny nhân với số thợ đã làm ra nó, nhân với số ngày họ làm. Phần giá do tiền công tạo ra, đi qua các khâu, chỉ tăng theo **cấp số cộng**, giống như lãi đơn.
+
+**Nếu lợi nhuận tăng.** Giả sử lợi nhuận của mọi người chủ trong chuỗi tăng thêm 5%:
+
+| Khâu | Người chủ cộng thêm 5% trên |
+|---|---|
+| 1. Chủ thợ sơ chế lanh, khi bán lanh | Toàn bộ giá trị nguyên liệu và tiền công đã ứng trước cho thợ của mình |
+| 2. Chủ thợ xe sợi | Giá lanh đã mua (giá này đã gồm 5% của khâu 1) cộng tiền công thợ xe sợi |
+| 3. Chủ thợ dệt | Giá sợi đã mua (giá này đã gồm 2 lần 5% của hai khâu trước) cộng tiền công thợ dệt |
+
+Phần giá do lợi nhuận tạo ra tăng theo **cấp số nhân**, vì mỗi khâu tính phần trăm của mình trên cả phần lợi nhuận mà các khâu trước đã cộng vào. Smith tóm lại: trong việc nâng giá hàng hoá, tiền công tăng hoạt động như lãi đơn trong việc tích luỹ nợ, còn lợi nhuận tăng hoạt động như lãi kép.
+
+**Ví dụ minh hoạ** (số giả định). Giả sử ở mỗi khâu, nguyên liệu cộng tiền công ban đầu là 100 bảng, và lợi nhuận mỗi khâu tăng thêm 5%. Khâu 1 bán lanh với phần tăng 5% trên 100, tức thêm 5 bảng. Khâu 2 tính 5% trên một giá đầu vào đã chứa 5 bảng ấy, nên phần tăng của nó lớn hơn 5% của chi phí gốc. Đến khâu 3, phần tăng do lợi nhuận đã chứa "lãi trên lãi" của hai khâu trước. Chuỗi càng dài, khoảng cách giữa tác động của lợi nhuận và tác động của tiền công càng lớn.
+
+Chương kết bằng một nhận xét về động cơ của giới kinh doanh. Thương nhân và chủ xưởng than phiền nhiều về tác hại của tiền công cao: nó nâng giá, làm giảm lượng hàng bán được cả trong nước lẫn ngoài nước. Họ không nói gì về tác hại của lợi nhuận cao. Họ im lặng về hậu quả nguy hại của chính thu nhập của mình. Họ chỉ than phiền về hậu quả nguy hại của thu nhập của người khác.
 
 ## Luận điểm kinh tế cốt lõi
 
