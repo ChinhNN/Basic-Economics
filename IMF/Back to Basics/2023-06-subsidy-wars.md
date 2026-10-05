@@ -91,35 +91,99 @@
 2. Trợ cấp gây ra những vấn đề gì?
 3. Làm gì để ngăn một cuộc chiến trợ cấp toàn diện?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Trợ cấp (subsidy).** Việc chính phủ chuyển nguồn lực cho một doanh nghiệp, ngành hay cá nhân trong nước mà không nhận lại thứ gì có giá trị tương đương. Hình thức có thể là cấp tiền trực tiếp, giảm thuế, hoặc cho vay với điều kiện ưu đãi hơn thị trường. Ví dụ minh hoạ: chính phủ giảm 7.500 USD thuế cho mỗi người mua ô tô điện; người mua trả ít hơn, nhà sản xuất bán được nhiều hơn, còn ngân sách mất phần thuế đó. Đây là đối tượng của cả bài.
+
+**Thất bại thị trường (market failure).** Tình huống mà thị trường tự do không cho ra kết quả tốt nhất cho xã hội, ví dụ khi một hoạt động gây hại cho người khác (ô nhiễm) mà người gây hại không phải trả tiền, hoặc khi một thứ có ích cho cả xã hội nhưng không ai đủ động cơ sản xuất đủ. Ví dụ trong bài: vaccine COVID, khi chính phủ phải can thiệp để mở rộng năng lực sản xuất. Khái niệm này quan trọng vì nó phân biệt trợ cấp có lý do chính đáng với trợ cấp gây méo mó.
+
+**Bóp méo thị trường (market distortion).** Khi giá bán không còn phản ánh chi phí sản xuất thật, người mua và người bán ra quyết định sai so với điều có lợi nhất cho xã hội. Ví dụ minh hoạ: một sản phẩm tốn 100 để làm nhưng nhờ trợ cấp bán được giá 80, nên doanh nghiệp kém hiệu quả này đánh bại một đối thủ làm cùng sản phẩm với chi phí 90 nhưng không được trợ cấp. Đây là lý do cổ điển khiến kinh tế học nghi ngờ trợ cấp.
+
+**Trục lợi (rent-seeking).** Việc doanh nghiệp hay cá nhân dồn công sức vào vận động chính sách để giành phần ưu đãi cho mình, thay vì làm ra sản phẩm tốt hơn. Ví dụ minh hoạ: một ngành bỏ 10 triệu USD vận động hành lang để nhận 500 triệu USD trợ cấp; khoản 10 triệu đó không tạo ra giá trị gì cho xã hội. Bài nêu đây là một tác hại của trợ cấp.
+
+**Yêu cầu nội địa hoá (local-content requirement).** Điều kiện buộc sản phẩm phải dùng linh kiện sản xuất trong nước mới được hưởng ưu đãi. Ví dụ minh hoạ trong bài: nước A cho người mua được trừ thuế nếu toàn bộ linh kiện sản phẩm làm trong nước, khiến nhà sản xuất nước ngoài phải dời nhà máy sang A. Khái niệm này giải thích vì sao một số trợ cấp gây căng thẳng thương mại đặc biệt lớn và bị WTO cấm.
+
+**Thuế đối kháng (countervailing duty).** Thuế nhập khẩu mà một nước đánh lên hàng của nước khác để triệt tiêu lợi thế giá có được nhờ trợ cấp. Ví dụ minh hoạ: hàng của nước A được trợ cấp 15% nên bán rẻ hơn, nước B đánh thuế 15% lên hàng đó để đưa giá về mức công bằng. Đây là công cụ trả đũa chính dẫn tới "chiến tranh trợ cấp".
+
+**Chiến tranh trợ cấp và cuộc đua xuống đáy (subsidy war, race to the bottom).** Tình huống các nước đáp trả trợ cấp của nhau bằng trợ cấp hay thuế đối kháng của mình, rồi lại bị đáp trả, khiến ai cũng tốn ngân sách mà không ai được lợi lâu dài. Ví dụ trong bài: trợ cấp của một khối thương mại lớn khiến khối khác ban hành trợ cấp riêng chỉ trong sáu tháng. Đây là nỗi lo trung tâm của bài.
+
+**Hiệp định SCM của WTO.** Bộ quy tắc của Tổ chức Thương mại Thế giới về trợ cấp và biện pháp đối kháng: định nghĩa trợ cấp, cấm một số loại, cho phép kiện các loại gây hại, và buộc các nước thông báo trợ cấp của mình. Bài đánh giá nó là nền tảng tốt nhưng có lỗ hổng, đặc biệt với doanh nghiệp nhà nước.
+
+## Nội dung chi tiết
 
 ### 1. Bối cảnh
 
-- Các nền kinh tế lớn nhất tăng trợ cấp góp phần làm căng thẳng thương mại toàn cầu tăng đáng kể. Trợ cấp mới, thuế đối kháng, và luật như Inflation Reduction Act (Mỹ), Green Deal Industrial Plan (EU), chiến lược Made in China 2025 gây lo ngại về chiến tranh trợ cấp, tức cạnh tranh trợ cấp dẫn đến đua xuống đáy.
-- Lo ngại này được củng cố khi trợ cấp của một khối thương mại lớn khiến khối khác ban hành trợ cấp riêng chỉ trong sáu tháng. Để hạ nhiệt cần hiểu nỗi sợ và mục tiêu đằng sau.
-- **Định nghĩa:** trợ cấp là chuyển nguồn lực từ chính phủ sang thực thể trong nước mà không có đóng góp tương đương đổi lại, dưới nhiều hình thức: cấp tiền trực tiếp cho doanh nghiệp, ưu đãi thuế, điều kiện tài trợ ưu đãi.
-- **Động cơ:** mục tiêu chiến lược quốc gia hoặc lợi thế cạnh tranh quốc tế, như trợ cấp sản xuất ngành công nghệ cao (hàng không vũ trụ, viễn thông) để bảo đảm chuỗi cung ứng hoặc lợi ích an ninh. Một số trợ cấp không có lý do rõ, có thể do vận động hành lang hay áp lực chính trị. Số khác vì mục tiêu công chính đáng: sửa thất bại thị trường, ứng phó khẩn cấp quốc gia từ y tế đến khí hậu, ví dụ trợ cấp vaccine COVID khi chính phủ can thiệp giải quyết hạn chế năng lực.
-- Dù lý do gì, trợ cấp thiết kế kém gây tác động tiêu cực cho nước khác có thể mời gọi biện pháp trả đũa.
+Các nền kinh tế lớn nhất thế giới đang tăng trợ cấp, và điều này góp phần làm căng thẳng thương mại toàn cầu tăng đáng kể. Bài nêu ba gói chính sách lớn:
+
+- **Đạo luật Giảm lạm phát** (*Inflation Reduction Act*, IRA) của Mỹ;
+- **Kế hoạch Công nghiệp Thoả thuận Xanh** (*Green Deal Industrial Plan*) của Liên minh châu Âu;
+- **Chiến lược Made in China 2025** của Trung Quốc.
+
+Cùng với các khoản trợ cấp mới và các mức thuế đối kháng, những chính sách này làm dấy lên lo ngại về một "chiến tranh trợ cấp", tức các nước cạnh tranh bằng trợ cấp và cùng nhau trượt vào một cuộc đua xuống đáy. Nỗi lo càng có cơ sở khi trợ cấp của một khối thương mại lớn khiến một khối khác ban hành gói trợ cấp riêng chỉ trong 6 (sáu) tháng. Theo tác giả, muốn hạ nhiệt thì trước hết cần hiểu nỗi sợ và các mục tiêu đứng sau trợ cấp.
+
+**Trợ cấp là gì?** Là việc chính phủ chuyển nguồn lực cho một thực thể trong nước mà không nhận lại đóng góp tương đương. Có nhiều hình thức: cấp tiền trực tiếp cho doanh nghiệp, ưu đãi thuế, hoặc cho vay với điều kiện ưu đãi.
+
+**Vì sao chính phủ trợ cấp?** Bài phân biệt bốn nhóm động cơ:
+
+| Động cơ | Ví dụ |
+|---|---|
+| Mục tiêu chiến lược quốc gia | Trợ cấp sản xuất trong ngành công nghệ cao như hàng không vũ trụ, viễn thông, để bảo đảm chuỗi cung ứng hoặc lợi ích an ninh |
+| Lợi thế cạnh tranh quốc tế | Giúp doanh nghiệp trong nước giành thị phần trên thị trường thế giới |
+| Không có lý do rõ ràng | Kết quả của vận động hành lang hay áp lực chính trị |
+| Mục tiêu công chính đáng | Sửa thất bại thị trường, ứng phó tình huống khẩn cấp quốc gia từ y tế đến khí hậu; ví dụ trợ cấp vaccine COVID khi chính phủ can thiệp để giải quyết tình trạng thiếu năng lực sản xuất |
+
+Dù lý do là gì, một khoản trợ cấp được thiết kế kém sẽ gây tác động tiêu cực cho nước khác, và có thể khiến nước đó trả đũa.
 
 ### 2. Trợ cấp có gì sai
 
-- **Lập luận kinh tế cổ điển:** trợ cấp làm giá lệch chi phí sản xuất, bóp méo thị trường, ngăn kết quả hiệu quả, chuyển nguồn lực sang nơi kém năng suất. Nếu lợi cho một số doanh nghiệp hơn doanh nghiệp khác, chúng dập tắt đổi mới và ép doanh nghiệp hiệu quả phải thuê ngoài hoặc rời thị trường, giảm năng suất chung. Chúng tạo cơ hội trục lợi (rent-seeking), tức thao túng phân bổ nguồn lực để lợi cho cá nhân chứ không phải xã hội, và hại nền kinh tế nhỏ không đủ tiền trợ cấp.
-- Trợ cấp còn duy trì thực hành có hại cho lợi ích công, môi trường và sức khoẻ. Theo kinh tế gia IMF, thế giới có thể cắt 28% phát thải carbon và 46% tử vong do ô nhiễm không khí nếu thay trợ cấp nhiên liệu hoá thạch bằng giá carbon hiệu quả.
-- **Tác động lên quan hệ thương mại** đặc biệt căng:
-  - Thứ nhất, bóp méo quyết định thương mại và đầu tư ở nền kinh tế khác, nhất là khi có điều khoản phân biệt như yêu cầu linh kiện sản xuất chủ yếu trong nước. Nếu nước A cấp tín dụng thuế cho người mua sản phẩm có linh kiện toàn bộ nội địa: nhà sản xuất tái cấu trúc chuỗi cung ứng ưu tiên đối tác trong nước, nhà sản xuất nước ngoài dời sang A, người tiêu dùng A ưa hàng nội địa một cách vô cớ.
-  - Thứ hai, xoá lợi ích của đàm phán thuế quan và tiếp cận thị trường trong hiệp định khu vực và đa phương, thường khi trợ cấp lấy lại thị phần đã nhượng qua giảm thuế. Theo thời gian, tăng cảm giác thương mại bất công và giảm ủng hộ thương mại.
-  - Thứ ba, khiến đối tác tin chính phủ thúc đẩy cạnh tranh không lành mạnh và buộc họ đáp lại. Nước B, đối tác chính của A, thấy ngành trong nước bị hại bởi hàng nhập rẻ được A trợ cấp, có thể áp thuế đối kháng để trung hoà, hoặc tự trợ cấp sản xuất và đưa ra biện pháp tương tự A. A trả đũa lại, dẫn đến chiến tranh trợ cấp leo thang.
+**Lập luận kinh tế cổ điển.** Trợ cấp làm giá bán lệch khỏi chi phí sản xuất. Khi giá không phản ánh chi phí thật, thị trường bị bóp méo, không đạt được kết quả hiệu quả, và nguồn lực chảy vào những nơi kém năng suất hơn. Bài liệt kê các hệ quả:
+
+- Nếu trợ cấp có lợi cho một số doanh nghiệp hơn các doanh nghiệp khác, nó dập tắt đổi mới sáng tạo, và buộc cả những doanh nghiệp hiệu quả phải thu hẹp, thuê ngoài hoặc rời thị trường. Năng suất chung của nền kinh tế giảm.
+- Trợ cấp mở ra cơ hội **trục lợi** (*rent-seeking*), tức thao túng cách phân bổ nguồn lực để có lợi cho cá nhân chứ không cho xã hội.
+- Trợ cấp gây hại cho các nền kinh tế nhỏ, vốn không đủ tiền để trợ cấp đáp trả.
+
+**Duy trì các thực hành có hại.** Trợ cấp còn có thể nuôi sống những hoạt động có hại cho lợi ích công, cho môi trường và sức khoẻ. Theo tính toán của các kinh tế gia IMF, nếu thế giới thay trợ cấp nhiên liệu hoá thạch bằng một mức giá carbon hiệu quả, phát thải carbon (CO2) toàn cầu có thể giảm 28% và số người chết do ô nhiễm không khí có thể giảm 46%.
+
+**Tác động lên quan hệ thương mại.** Đây là phần gây căng thẳng nhất, qua ba kênh.
+
+*Kênh thứ nhất: bóp méo quyết định thương mại và đầu tư ở nước khác*, nhất là khi trợ cấp có điều khoản phân biệt đối xử như yêu cầu linh kiện phải sản xuất chủ yếu trong nước. Giả sử nước A cho người mua được khấu trừ thuế nếu sản phẩm có toàn bộ linh kiện sản xuất trong nước. Khi đó:
+
+1. nhà sản xuất tái cấu trúc chuỗi cung ứng để ưu tiên nhà cung cấp trong nước A;
+2. nhà sản xuất nước ngoài dời nhà máy sang A để được hưởng ưu đãi;
+3. người tiêu dùng ở A chuộng hàng nội địa không phải vì nó tốt hơn mà chỉ vì được trợ cấp.
+
+*Kênh thứ hai: xoá bỏ lợi ích của các cuộc đàm phán thuế quan* và mở cửa thị trường trong các hiệp định khu vực và đa phương. Một nước đã giảm thuế nhập khẩu để mở cửa cho hàng nước ngoài, nhưng sau đó dùng trợ cấp để giành lại phần thị phần đã nhượng. Lâu dần, cảm giác "thương mại bất công" lan rộng và người dân bớt ủng hộ thương mại.
+
+*Kênh thứ ba: kích động trả đũa.* Trợ cấp khiến đối tác tin rằng chính phủ đang thúc đẩy cạnh tranh không lành mạnh, và buộc họ phải đáp lại. Nước B, đối tác thương mại chính của A, thấy ngành trong nước bị thiệt hại vì hàng nhập khẩu giá rẻ được A trợ cấp. B có thể áp thuế đối kháng để triệt tiêu lợi thế đó, hoặc tự trợ cấp sản xuất trong nước và đưa ra biện pháp tương tự A. A lại trả đũa B, và chiến tranh trợ cấp leo thang.
 
 ### 3. Quy tắc quốc tế có giúp được không
 
-- Hiệp định WTO về Trợ cấp và Biện pháp Đối kháng (SCM) cùng Hiệp định Nông nghiệp là nền tảng tốt cho quy tắc về trợ cấp ảnh hưởng thương mại hàng hoá. SCM định nghĩa trợ cấp, gồm loại bị cấm (trợ cấp xuất khẩu, trợ cấp nội địa hoá) và loại có thể bị kiện vì gây hại nước khác. Yêu cầu chính phủ thông báo WTO về một số trợ cấp và thiết lập thủ tục khắc phục đơn phương và đa phương, gồm biện pháp đối kháng và giải quyết tranh chấp WTO.
-- **Thiếu sót:** một số hình thức can thiệp nhà nước, gồm trợ cấp cho và từ doanh nghiệp nhà nước, không tự động tính là "trợ cấp" theo định nghĩa WTO hiện hành, ví dụ tài trợ ưu đãi đất hoặc thiết bị cho doanh nghiệp nhà nước sản xuất hàng xuất khẩu. Một số nước lo ngại nên đưa vào hiệp định gần đây các biện pháp giới hạn hành vi bóp méo của doanh nghiệp nhà nước: CPTPP và hiệp định Mỹ - Mexico - Canada. Nhiều nước cũng không thông báo WTO khi ban hành trợ cấp, gây thiếu minh bạch và nghi ngờ.
-- Quy tắc chỉ là một phần. Thiếu thông tin khiến nhà hoạch định khó quyết định sáng suốt: không có phân tích toàn diện về trợ cấp và tác động, quốc tế ít hướng dẫn cách cải thiện trợ cấp và giảm lan toả tiêu cực xuyên biên giới.
+Tổ chức Thương mại Thế giới (WTO) có hai hiệp định làm nền tảng cho quy tắc về trợ cấp ảnh hưởng tới thương mại hàng hoá: **Hiệp định về Trợ cấp và Biện pháp Đối kháng** (SCM) và **Hiệp định Nông nghiệp**. Hiệp định SCM làm các việc sau:
+
+- định nghĩa thế nào là trợ cấp;
+- xác định loại trợ cấp **bị cấm**, gồm trợ cấp xuất khẩu và trợ cấp gắn với yêu cầu nội địa hoá;
+- xác định loại trợ cấp **có thể bị kiện** nếu gây hại cho nước khác;
+- yêu cầu chính phủ thông báo cho WTO về một số loại trợ cấp;
+- thiết lập thủ tục khắc phục, cả đơn phương (thuế đối kháng) lẫn đa phương (cơ chế giải quyết tranh chấp của WTO).
+
+**Thiếu sót của quy tắc hiện hành.** Thứ nhất, một số hình thức can thiệp của nhà nước, gồm trợ cấp cho doanh nghiệp nhà nước và trợ cấp do doanh nghiệp nhà nước cấp, không tự động được tính là "trợ cấp" theo định nghĩa của WTO. Ví dụ: một doanh nghiệp nhà nước được cấp đất hoặc thiết bị với giá ưu đãi để sản xuất hàng xuất khẩu. Lo ngại về lỗ hổng này, một số nước đã tự đưa vào các hiệp định gần đây những điều khoản hạn chế hành vi gây méo mó của doanh nghiệp nhà nước, như Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương (CPTPP) và Hiệp định Mỹ - Mexico - Canada (USMCA). Thứ hai, nhiều nước không thông báo cho WTO khi ban hành trợ cấp, gây thiếu minh bạch và nghi kỵ lẫn nhau.
+
+Nhưng quy tắc chỉ là một phần của vấn đề. Phần còn lại là **thiếu thông tin**: không có phân tích toàn diện về các khoản trợ cấp và tác động của chúng, và quốc tế cũng có rất ít hướng dẫn về cách thiết kế trợ cấp tốt hơn và giảm tác động tiêu cực lan sang nước khác. Thiếu thông tin khiến nhà hoạch định chính sách khó ra quyết định sáng suốt.
 
 ### 4. Có thể ngăn chiến tranh trợ cấp không
 
-- Bối cảnh khó: tranh chấp trợ cấp và điều tra thuế đối kháng tại WTO tăng đều từ 2010. Khi chính phủ mở rộng trợ cấp, cạnh tranh ăn miếng trả miếng giữa các chính phủ lớn có vẻ sẽ tiếp diễn.
-- **Lối thoát:** báo cáo chung gần đây "Subsidies, Trade, and International Cooperation" của bốn tổ chức quốc tế, gồm IMF, đề xuất tăng minh bạch, phân tích tốt hơn, tăng hợp tác để cải thiện thiết kế trợ cấp và giới hạn tác hại. Hợp tác và hiểu biết chung sẽ giúp hạ nhiệt căng thẳng, mang lại sự cởi mở và dự đoán được cho thương mại toàn cầu.
+Bối cảnh không thuận lợi. Số vụ tranh chấp về trợ cấp và số cuộc điều tra áp thuế đối kháng tại WTO đã tăng đều từ năm 2010. Khi các chính phủ tiếp tục mở rộng trợ cấp, vòng ăn miếng trả miếng giữa các nền kinh tế lớn có vẻ sẽ còn tiếp diễn.
+
+Lối thoát mà bài đề xuất đến từ một báo cáo chung gần đây của 4 (bốn) tổ chức quốc tế, trong đó có IMF, mang tên *Subsidies, Trade, and International Cooperation* (Trợ cấp, thương mại và hợp tác quốc tế). Báo cáo khuyến nghị bốn hướng:
+
+| Hướng | Nội dung |
+|---|---|
+| Minh bạch hơn | Các nước công khai và thông báo đầy đủ về trợ cấp |
+| Phân tích tốt hơn | Hiểu rõ trợ cấp nào có tác dụng và gây hại tới đâu |
+| Hợp tác thiết kế | Phối hợp để cải thiện thiết kế trợ cấp |
+| Giới hạn tác hại | Giảm tác động lan sang nước khác |
+
+Theo tác giả, hợp tác và hiểu biết chung sẽ giúp hạ nhiệt căng thẳng, đem lại cho thương mại toàn cầu sự cởi mở và khả năng dự đoán mà nó đang rất cần.
 
 ## Thuật ngữ
 

@@ -226,68 +226,204 @@
 2. Tác động đó nghiêng về doanh nghiệp rủi ro, doanh nghiệp năng suất, hay cả hai?
 3. Việc bớt phát hành trái phiếu có chuyển thành giảm tổng nợ và giảm đầu tư, và doanh nghiệp năng suất tự bù đắp bằng cách nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Kiểm soát dòng vốn vào (controls on capital inflows, CCI).** Các quy định của nhà nước hạn chế tiền từ nước ngoài chảy vào trong nước: cấm hoặc hạn chế người nước ngoài mua một loại tài sản, đòi giấy phép, hay buộc ký quỹ một phần tiền mang vào. Ví dụ minh hoạ: nếu một nước cấm người không cư trú mua trái phiếu doanh nghiệp trong nước, một quỹ đầu tư nước ngoài định mua 100 triệu USD trái phiếu của một công ty ở nước đó sẽ không được mua nữa. Trong bài, đây là biến chính sách cần đánh giá: nó có làm doanh nghiệp vay ít đi không, và vay ít đi thì ai chịu thiệt.
+
+**Người cư trú và người không cư trú (resident / non-resident).** Cách phân loại dùng trong thống kê và quản lý dòng vốn: người cư trú là cá nhân, doanh nghiệp có trung tâm hoạt động kinh tế trong nước; người không cư trú là phía nước ngoài. Ví dụ: một quỹ hưu trí ở Mỹ mua trái phiếu do một công ty Indonesia phát hành tại Jakarta là người không cư trú mua tài sản trong nước. Biến chính của bài, ký hiệu Bonds(PLBN), đo đúng loại hạn chế này, nên nó khớp trực tiếp với việc doanh nghiệp có phát hành trái phiếu trong nước hay không.
+
+**Đòn bẩy (leverage).** Tỷ lệ tổng nợ trên tổng tài sản của doanh nghiệp. Ví dụ: doanh nghiệp có tài sản 1.000 tỷ đồng và nợ 600 tỷ thì đòn bẩy là 60%. Doanh nghiệp bình quân trong mẫu có đòn bẩy 32,6%. Đòn bẩy cao nghĩa là doanh nghiệp dễ vỡ nợ hơn khi doanh thu giảm hoặc lãi suất tăng, nên bài dùng nó làm thước đo doanh nghiệp "rủi ro".
+
+**Lợi nhuận trên tài sản (ROA) và trên vốn chủ sở hữu (ROE).** ROA là lợi nhuận chia tổng tài sản; ROE là lợi nhuận chia phần vốn của chủ sở hữu. Ví dụ: doanh nghiệp có tài sản 1.000 tỷ, lãi 55 tỷ thì ROA là 5,5%, đúng bằng mức bình quân của mẫu. Bài dùng ROA (và kiểm tra lại bằng ROE) làm thước đo doanh nghiệp "năng suất": doanh nghiệp sinh lời cao trên mỗi đồng tài sản là nơi vốn được dùng hiệu quả.
+
+**Phân bổ sai vốn (misallocation).** Tình trạng vốn không chảy tới nơi dùng nó hiệu quả nhất. Ví dụ minh hoạ: doanh nghiệp A dùng 1 tỷ đồng vốn sinh ra 200 triệu lợi nhuận, doanh nghiệp B chỉ sinh ra 50 triệu; nếu một quy định khiến A không vay được còn B vẫn vay được, sản lượng của cả nền kinh tế thấp hơn mức có thể đạt. Đây là chi phí chính của kiểm soát vốn mà bài muốn đo, gọi là kênh năng suất.
+
+**Xác suất và điểm phần trăm.** Bài đo kết quả bằng xác suất một doanh nghiệp phát hành trái phiếu trong nước trong một quý, bình quân 5,1%. Một "điểm phần trăm" là chênh lệch tuyệt đối giữa hai tỷ lệ. Ví dụ: xác suất giảm 1,7 điểm phần trăm nghĩa là từ 5,1% xuống 3,4%; so với mức ban đầu, đó là giảm khoảng một phần ba. Phân biệt hai cách nói này là cần thiết để hiểu kết quả cơ sở.
+
+**Phép chiếu địa phương (local projections).** Phương pháp do Jordà đề xuất năm 2005 để ước lượng một cú sốc tác động ra sao sau 0, 1, 2… quý: với mỗi khoảng thời gian, chạy một hồi quy riêng. Ví dụ: hồi quy thay đổi tổng nợ giữa quý hiện tại và bốn quý sau lên biến kiểm soát vốn cho biết tác động sau một năm. Bài dùng cách này để xem kiểm soát vốn có làm doanh nghiệp giảm nợ và đầu tư kéo dài hay chỉ thoáng qua.
+
+**Tỷ lệ chi trả cổ tức (dividend payout ratio).** Phần lợi nhuận doanh nghiệp đem chia cho cổ đông. Ví dụ: lãi 100 tỷ, chia cổ tức 5 tỷ thì tỷ lệ là 5%; bình quân trong mẫu là 5,15%. Phần không chia được giữ lại để đầu tư. Bài phát hiện doanh nghiệp lợi nhuận cao bù phần vốn trái phiếu bị mất bằng cách giảm tỷ lệ này, nên đây là "nguồn vốn nội bộ" giải thích vì sao đầu tư của họ không bị ảnh hưởng.
+
+## Nội dung chi tiết
 
 ### 1. Động cơ và câu hỏi
 
-- Dòng vốn vào quan trọng với các nền kinh tế mới nổi vì thúc đẩy tăng trưởng và phân bổ vốn vào mục đích năng suất, nhưng dòng vốn lớn cũng có thể nuôi bùng nổ tín dụng và khuếch đại nguy cơ khủng hoảng. Quản lý dòng vốn vì vậy là một đánh đổi giữa tăng trưởng và ổn định.
-- Về lý thuyết, quản lý dòng vốn có thể giảm khả năng và mức độ khủng hoảng bằng cách kìm vay nợ rủi ro và khuyến khích giảm đòn bẩy. Nhưng nó cũng có thể gây mất hiệu quả do phân bổ sai vốn, khi tước nguồn vốn của doanh nghiệp năng suất.
-- Bài hỏi ba câu: kiểm soát trên trái phiếu có làm giảm phát hành trong nước không; cơ chế là kênh an toàn vĩ mô hay kênh năng suất; và hệ quả với tổng nợ và đầu tư.
+Dòng vốn từ nước ngoài quan trọng với các nền kinh tế mới nổi: nó bổ sung tiết kiệm trong nước, thúc đẩy tăng trưởng và có thể đưa vốn tới những mục đích có năng suất. Nhưng dòng vốn lớn cũng có thể nuôi một đợt bùng nổ tín dụng, và khi dòng vốn đảo chiều thì khuếch đại nguy cơ khủng hoảng. Vì vậy quản lý dòng vốn luôn là một đánh đổi giữa tăng trưởng và ổn định.
+
+Bài mô tả đánh đổi đó thành hai nhánh tác động của kiểm soát dòng vốn vào:
+
+| Nhánh | Cơ chế | Kênh tương ứng | Dấu hiệu cần tìm trong dữ liệu |
+|---|---|---|---|
+| Lợi ích an toàn | Kìm vay nợ rủi ro, khuyến khích doanh nghiệp giảm đòn bẩy, nhờ đó giảm khả năng xảy ra khủng hoảng và giảm mức độ nghiêm trọng nếu xảy ra | Kênh an toàn vĩ mô | Tác động mạnh hơn ở doanh nghiệp đòn bẩy cao |
+| Chi phí hiệu quả | Phân bổ sai vốn: doanh nghiệp năng suất không có đủ vốn để đạt quy mô hiệu quả (lập luận của Andreasen và cộng sự 2023) | Kênh năng suất | Tác động mạnh hơn ở doanh nghiệp có ROA cao |
+
+Từ đó bài đặt ba câu hỏi: kiểm soát vốn trên trái phiếu có làm doanh nghiệp phát hành trái phiếu trong nước ít đi không; nếu có, tác động đi qua kênh an toàn vĩ mô hay kênh năng suất; và việc bớt phát hành có chuyển thành giảm tổng nợ và giảm đầu tư không.
+
+Bài nêu hai đóng góp. Thứ nhất, nó kiểm định cả hai kênh cùng lúc trên một mẫu nhiều nước, và nối kết quả phát hành với tổng nợ và đầu tư của doanh nghiệp. Thứ hai, đây là nghiên cứu đầu tiên về "kênh trái phiếu" của kiểm soát vốn: biện pháp được đo (cấm hoặc hạn chế người không cư trú mua trái phiếu phát hành trong nước) khớp trực tiếp với kết quả được đo (doanh nghiệp có phát hành trái phiếu trong nước hay không), không qua khâu trung gian nào.
 
 ### 2. Vị trí trong tài liệu
 
-- Nhánh thứ nhất ghi nhận chi phí vi mô: Forbes chỉ ra encaje của Chile làm doanh nghiệp nhỏ bị ràng buộc tài chính; Alfaro, Chari và Kanczuk cho thấy doanh nghiệp Brazil có lợi suất cổ phiếu thấp hơn sau thông báo kiểm soát vốn; Andreasen và cộng sự cho thấy kiểm soát vốn làm tăng phân bổ sai, nhất là với doanh nghiệp xuất khẩu và năng suất cao.
-- Nhánh thứ hai nghiên cứu lợi ích ổn định: Erten, Korinek và Ocampo kết luận bằng chứng nhìn chung ủng hộ vai trò ổn định, nhất là khi dùng ngược chu kỳ. Doanh nghiệp Chile giảm đòn bẩy và dựa vào lợi nhuận giữ lại nhiều hơn; ở Colombia kiểm soát vốn làm chậm tăng trưởng nợ trong thời kỳ bùng nổ mà không làm lệch phân bổ tín dụng.
-- Bài cho rằng chi phí và lợi ích là hai mặt của một đồng xu: giảm đòn bẩy giúp bảng cân đối vững hơn ở cấp vĩ mô cũng có nghĩa doanh nghiệp cắt chi tiêu. Câu hỏi đúng là kiểm soát vốn có tác động không cân xứng lên doanh nghiệp năng suất cao, để lại vết sẹo cho tăng trưởng dài hạn hay không.
-- Tập trung vào trái phiếu cũng giúp tránh một mối lo phổ biến: doanh nghiệp nhỏ hầu như vắng mặt trên thị trường trái phiếu, và mẫu của bài nghiêng về doanh nghiệp niêm yết lớn.
+Các nghiên cứu trước chia thành hai nhánh, mỗi nhánh nhìn một mặt của đồng xu.
+
+**Nhánh thứ nhất ghi nhận chi phí ở cấp doanh nghiệp.** Forbes chỉ ra rằng *encaje* của Chile (yêu cầu ký gửi dự trữ không hưởng lãi trên một phần dòng vốn vào) khiến doanh nghiệp nhỏ bị ràng buộc tài chính nhiều hơn. Alfaro, Chari và Kanczuk cho thấy cổ phiếu của doanh nghiệp Brazil có lợi suất thấp hơn sau mỗi lần chính phủ thông báo kiểm soát vốn, tức thị trường coi đó là tin xấu cho doanh nghiệp. Andreasen và cộng sự cho thấy kiểm soát vốn làm tăng phân bổ sai vốn, nhất là với doanh nghiệp xuất khẩu và doanh nghiệp năng suất cao.
+
+**Nhánh thứ hai nghiên cứu lợi ích ổn định.** Erten, Korinek và Ocampo tổng kết rằng bằng chứng nhìn chung ủng hộ vai trò ổn định của kiểm soát vốn, nhất là khi nó được dùng ngược chu kỳ (siết khi vốn đổ vào mạnh, nới khi vốn rút ra). Ở Chile, doanh nghiệp giảm đòn bẩy và dựa nhiều hơn vào lợi nhuận giữ lại. Ở Colombia, kiểm soát vốn làm chậm tốc độ tăng nợ trong thời kỳ bùng nổ mà không làm lệch cách tín dụng được phân bổ giữa các doanh nghiệp.
+
+**Lập luận của bài là hai nhánh này mô tả cùng một hiện tượng.** Việc doanh nghiệp giảm đòn bẩy làm bảng cân đối của cả nền kinh tế vững hơn, nhưng ở cấp từng doanh nghiệp, nó cũng có nghĩa là cắt chi tiêu và chịu ràng buộc tài chính chặt hơn. Câu hỏi đúng không phải là kiểm soát vốn có chi phí hay không, mà là chi phí đó có rơi không cân xứng vào doanh nghiệp năng suất cao, để lại vết sẹo cho tăng trưởng dài hạn hay không.
+
+Việc tập trung vào trái phiếu còn giúp tránh một mối lo thường gặp ở nhánh thứ nhất: doanh nghiệp nhỏ, vốn dễ bị ràng buộc tài chính nhất, hầu như không có mặt trên thị trường trái phiếu. Mẫu của bài nghiêng về doanh nghiệp niêm yết lớn, nên kết quả nói về nhóm doanh nghiệp có nhiều lựa chọn nguồn vốn nhất.
 
 ### 3. Dữ liệu
 
-- Mười tám nền kinh tế mới nổi có chỉ số EMBI: Argentina, Brazil, Chile, Trung Quốc, Colombia, Hungary, Ấn Độ, Indonesia, Kazakhstan, Malaysia, Mexico, Peru, Philippines, Ba Lan, Nga, Thái Lan, Thổ Nhĩ Kỳ và Việt Nam.
-- Dữ liệu phát hành từ SDC Platinum được gán cho công ty mẹ cuối cùng. Một đợt phát hành là trong nước nếu diễn ra ở thị trường của nước có trụ sở công ty mẹ.
-- Dữ liệu kiểm soát vốn của Fernández và cộng sự có ba đặc điểm quý: tách theo công cụ, theo cư trú của bên mua bán, và theo chiều dòng vốn. Biến chính là hạn chế người không cư trú mua trái phiếu phát hành trong nước. Dữ liệu chỉ đo biên mở rộng, tức có hay không có hạn chế, theo năm.
-- Kiểm soát vốn trên trái phiếu có mặt khoảng hai phần ba thời gian trong mẫu, với mười chín lần bật tắt ở mười một nước.
+Bài ghép bốn nguồn dữ liệu.
+
+**Nguồn thứ nhất: SDC Platinum (của LSEG)**, ghi từng đợt phát hành trái phiếu. Mỗi đợt được gán cho công ty mẹ cuối cùng của bên phát hành; trong 16% trường hợp không có thông tin công ty mẹ, bài coi chính bên phát hành là công ty mẹ. Một đợt phát hành được xếp là "trong nước" nếu nó diễn ra ở thị trường của nước nơi công ty mẹ đặt trụ sở. Bài chỉ giữ trái phiếu và giấy nợ có kỳ hạn từ 1 năm trở lên, bỏ thương phiếu (nợ ngắn hạn) và trái phiếu chuyển đổi (có thể đổi thành cổ phiếu).
+
+**Nguồn thứ hai: Worldscope**, cho bảng cân đối theo quý của công ty niêm yết. Hai nguồn được nối với nhau bằng các mã chứng khoán CUSIP, SEDOL, ISIN, rồi so khớp tên mờ (cho phép tên viết hơi khác nhau) và kiểm tra bằng tay. Kết quả khớp được 4.045 trên 4.256 bên phát hành, tức thất thoát khoảng 5%.
+
+**Nguồn thứ ba: bộ dữ liệu kiểm soát vốn của Fernández và cộng sự (2016)**, theo năm. Bộ dữ liệu này có ba đặc điểm quý: tách theo từng loại công cụ tài chính (trái phiếu, cổ phiếu, thị trường tiền tệ…), theo việc bên mua bán là người cư trú hay không cư trú, và theo chiều dòng vốn (vào hay ra). Biến chính của bài là **Bonds(PLBN)**: hạn chế người không cư trú mua trái phiếu phát hành trong nước. Dữ liệu chỉ đo biên mở rộng, tức có hay không có hạn chế, chứ không đo hạn chế chặt đến mức nào. Các chỉ số độ mở tài khoản vốn phổ biến hơn như Chinn–Ito hay Quinn–Toyoda không dùng được cho câu hỏi này, vì chúng không tách theo công cụ và theo chiều dòng vốn.
+
+**Nguồn thứ tư: iMaPP**, cơ sở dữ liệu về chính sách an toàn vĩ mô, theo dõi 17 công cụ; mỗi lần thắt chặt ghi +1, mỗi lần nới lỏng ghi −1.
+
+Mẫu gồm 18 nền kinh tế mới nổi có chỉ số EMBI (chỉ số chênh lệch lợi suất trái phiếu chính phủ của JP Morgan): Argentina, Brazil, Chile, Trung Quốc, Colombia, Hungary, Ấn Độ, Indonesia, Kazakhstan, Malaysia, Mexico, Peru, Philippines, Ba Lan, Nga, Thái Lan, Thổ Nhĩ Kỳ và Việt Nam. Giai đoạn 1998–2019, tổng cộng 72.332 quan sát doanh nghiệp–quý của khoảng 2.700 doanh nghiệp (chính xác là 2.695).
+
+Một số thống kê mô tả:
+
+| Đại lượng | Giá trị |
+|---|---|
+| Xác suất một doanh nghiệp phát hành trái phiếu trong nước trong một quý | 5,1% |
+| Đòn bẩy (nợ trên tài sản) | bình quân 32,6%, độ lệch chuẩn 16,6 |
+| ROA | bình quân 5,5%, độ lệch chuẩn 6,4 |
+| Tỷ lệ thời gian có hạn chế Bonds(PLBN) = 1 | 67%, tức khoảng hai phần ba |
+| Số lần chính sách bật hoặc tắt | 19 lần ở 11 nước (10 lần thắt, 9 lần nới) |
+| Quy mô bình quân một đợt phát hành | 227,7 triệu USD |
+| Kỳ hạn bình quân | 3,6 năm |
+
+Hai quan sát đáng chú ý từ dữ liệu. Một là từ sau khủng hoảng 2008, phát hành trái phiếu trong nước của doanh nghiệp ở các nước này áp đảo phát hành ra quốc tế cả về số đợt lẫn quy mô, nên kênh trái phiếu trong nước ngày càng quan trọng. Hai là kiểm soát vốn trên các công cụ khác nhau tương quan rất cao với nhau: hệ số tương quan giữa kiểm soát trái phiếu và kiểm soát thị trường tiền tệ là 0,99, với kiểm soát quỹ đầu tư tập thể là 0,90. Nói cách khác, các nước thường ban hành nhiều hạn chế cùng một lúc.
 
 ### 4. Kết quả cơ sở
 
-- Qua mọi đặc tả, dù R bình phương hiệu chỉnh tăng từ hai lên gần mười ba phần trăm, kiểm soát vốn trễ luôn đi kèm xác suất phát hành trong nước giảm. Hệ số ổn định, khoảng âm một phẩy bảy điểm phần trăm trong đặc tả đầy đủ nhất, tương đương cắt một phần ba xác suất trung bình.
-- Kiểm soát trên cổ phiếu, thị trường tiền tệ và phát hành ở nước ngoài làm tăng phát hành trái phiếu trong nước, cho thấy hiệu ứng thay thế giữa các nguồn vốn.
-- Kiểm soát trên tín dụng từ nước ngoài và các biện pháp an toàn vĩ mô lại làm giảm phát hành, có thể vì chúng báo hiệu chính phủ sẽ can thiệp tiếp vào trái phiếu.
+**Cách ước lượng.** Phương trình (1) là một mô hình xác suất tuyến tính: biến phụ thuộc bằng 1 nếu doanh nghiệp f ở nước c phát hành trái phiếu trong nước trong quý t, bằng 0 nếu không. Biến giải thích chính là kiểm soát vốn CC của nước c ở kỳ trước (t−1), cùng các đặc điểm doanh nghiệp X cũng lấy ở kỳ t−1. Mô hình có hiệu ứng cố định doanh nghiệp (loại bỏ những khác biệt cố định giữa các doanh nghiệp) và hiệu ứng cố định ngành × thời gian (loại bỏ mọi cú sốc chung cho một ngành trong một quý).
+
+**Mẹo nhận diện phía cung của Becker và Ivashina (2014).** Doanh nghiệp phát hành ít trái phiếu đi có thể vì không ai cho vay (phía cung), hoặc vì chính doanh nghiệp không cần vay (phía cầu). Để tách hai khả năng, bài chỉ giữ các quý mà tổng nợ của doanh nghiệp tăng. Theo lập luận "sở thích bộc lộ", một doanh nghiệp đang tăng nợ chắc chắn có nhu cầu vốn bên ngoài; nếu trong những quý đó nó chọn vay qua kênh khác thay vì trái phiếu, thì lý do phải nằm ở phía cung trái phiếu.
+
+**Lo ngại nội sinh và cách xử lý.** Chính phủ thường áp kiểm soát vốn khi điều kiện vĩ mô đặc biệt (ví dụ vốn đang đổ vào ồ ạt), nên tác động đo được có thể là của điều kiện vĩ mô chứ không phải của chính sách. Bài xử lý theo năm cách:
+
+- Hiệu ứng cố định ngành × thời gian hấp thụ các cú sốc toàn cầu.
+- Dùng biến kiểm soát vốn trễ một kỳ để loại khả năng nhân quả ngược (phát hành ảnh hưởng ngược lại chính sách).
+- Kiểm soát một loạt biến vĩ mô: tăng trưởng, lạm phát, tỷ giá, mức độ phát triển tài chính, thay đổi chênh lệch EMBI.
+- Kiểm soát cả các loại kiểm soát vốn khác và chỉ số iMaPP.
+- Vì kết quả thực chất so sánh trái phiếu với các nguồn vốn khác, thiên lệch chỉ đáng kể nếu điều kiện vĩ mô dẫn tới kiểm soát vốn làm doanh nghiệp nghiêng về trái phiếu so với vay ngân hàng. Điều này khó xảy ra, vì chu kỳ tín dụng toàn cầu cũng tác động lên cả ngân hàng trong nước.
+
+Ở các mô hình về tác động không đồng nhất (mục 5), bài còn thêm hiệu ứng cố định nước × thời gian. Khi đó mọi yếu tố chung của một nước trong một quý, kể cả bản thân chính sách, bị hấp thụ hết, và kết quả được nhận diện hoàn toàn từ khác biệt giữa các doanh nghiệp trong cùng nước, cùng quý.
+
+**Kết quả.** Hệ số của biến kiểm soát trái phiếu trễ, L.Bonds(PLBN), luôn âm và có ý nghĩa qua bốn đặc tả:
+
+| Đặc tả | Hệ số | R² hiệu chỉnh |
+|---|---|---|
+| (1) Chỉ có biến vĩ mô | −0,0096 (\*\*) | 0,021 |
+| (2) Thêm hiệu ứng cố định doanh nghiệp và thời gian | −0,0160 (\*\*\*) | 0,115 |
+| (3) Thêm hiệu ứng cố định ngành × thời gian | −0,0156 (\*\*\*) | 0,125 |
+| (4) Thêm đặc điểm doanh nghiệp (đặc tả đầy đủ) | −0,0169 (\*\*\*) | 0,127 |
+
+Dù mức độ giải thích của mô hình tăng từ khoảng 2% lên gần 13%, hệ số gần như không đổi. Trong đặc tả đầy đủ nhất, kiểm soát trái phiếu làm xác suất phát hành trong nước giảm khoảng 1,7 điểm phần trăm, tức khoảng một phần ba so với mức trung bình 5,1% mỗi quý. Lưu ý: phần mở đầu của bài ghi con số 1,9 điểm phần trăm và 37%, trong khi bảng kết quả cho 1,7 điểm; hai con số không khớp nhau.
+
+**Các công cụ kiểm soát khác (đặc tả đầy đủ).** Khi đưa các loại kiểm soát vốn khác vào cùng hồi quy, chúng chia thành hai nhóm trái dấu:
+
+| Công cụ | Hệ số | Tác động lên phát hành trái phiếu trong nước |
+|---|---|---|
+| Kiểm soát cổ phiếu (người không cư trú mua) | +0,0185 (\*\*\*) | Tăng |
+| Kiểm soát thị trường tiền tệ | +0,0228 (\*\*\*) | Tăng |
+| Kiểm soát việc phát hành ở nước ngoài | +0,0173 (\*) | Tăng |
+| Kiểm soát tín dụng từ nước ngoài | −0,0167 (\*\*\*) | Giảm |
+| Chỉ số iMaPP | −0,0015 (\*) | Giảm |
+
+Nhóm đầu cho thấy **hiệu ứng thay thế**: khi một nguồn vốn khác bị chặn (bán cổ phiếu cho người nước ngoài, vay ngắn hạn, phát hành ra nước ngoài), doanh nghiệp quay sang phát hành trái phiếu trong nước nhiều hơn. Nhóm sau lại làm giảm phát hành; bài cho rằng có thể vì các biện pháp này nhắm vào tăng trưởng tín dụng nói chung, nên chúng báo hiệu chính phủ sắp can thiệp vào cả thị trường trái phiếu.
 
 ### 5. Tác động không đồng nhất
 
-- Doanh nghiệp đòn bẩy trên trung vị có xác suất phát hành giảm nhiều hơn so với nhóm đòn bẩy thấp nhất, phù hợp với kênh an toàn vĩ mô.
-- Doanh nghiệp lợi nhuận cao nhất cũng bị cắt mạnh hơn, phù hợp với kênh năng suất.
-- Vì ROA và đòn bẩy tương quan mạnh, bài đưa cả hai vào cùng hồi quy, và cả hai kênh vẫn đứng vững.
-- Với thước đo ROE, kết quả lặp lại. Với ARPK, thước đo hiệu quả dựa trên mô hình phân bổ sai, không có khác biệt có ý nghĩa. Bài kết luận kênh đòn bẩy mạnh hơn kênh lợi nhuận và hiệu quả.
+Phương trình (2) cho biến kiểm soát vốn tương tác với tứ phân vị đòn bẩy và tứ phân vị ROA của doanh nghiệp. Nhóm so sánh là tứ phân vị thấp nhất (một phần tư doanh nghiệp có đòn bẩy, hoặc ROA, thấp nhất). Kết quả trong đặc tả đầy đủ (cột 4):
+
+| Tứ phân vị | Đòn bẩy | ROA |
+|---|---|---|
+| Tứ phân vị 2 | −0,0037 | +0,0054 |
+| Tứ phân vị 3 | −0,0122 (\*\*) | +0,0022 |
+| Tứ phân vị 4 | −0,0137 (\*\*) | −0,0107 (\*) |
+
+Đọc bảng này:
+
+- **Kênh an toàn vĩ mô có mặt.** Doanh nghiệp có đòn bẩy trên trung vị (tứ phân vị 3 và 4) bị giảm xác suất phát hành nhiều hơn rõ rệt so với nhóm nợ ít nhất. Kiểm soát vốn hạn chế đúng nhóm doanh nghiệp rủi ro.
+- **Kênh năng suất cũng có mặt.** Doanh nghiệp có lợi nhuận cao nhất (tứ phân vị 4 của ROA) cũng bị cắt mạnh hơn. Nếu nhóm này không tìm được nguồn vốn thay thế, vốn sẽ bị phân bổ sai.
+- **Hai kênh không lẫn vào nhau.** Vì ROA và đòn bẩy tương quan mạnh với nhau, có thể lo rằng một kênh chỉ là cái bóng của kênh kia. Bài đưa cả hai vào cùng một hồi quy, và thêm hiệu ứng cố định nước × thời gian; cả hai kênh vẫn đứng vững.
+
+**Kiểm tra với các thước đo hiệu quả khác.** Bài thay ROA bằng hai thước đo khác:
+
+| Thước đo | Kết quả ở tứ phân vị cao nhất | Diễn giải |
+|---|---|---|
+| ROE (lợi nhuận trên vốn chủ sở hữu) | −0,0139 (\*\*) | Xác nhận kết quả với ROA |
+| ARPK (doanh thu trên tài sản cố định, thước đo hiệu quả dựa trên mô hình phân bổ sai) | Không có ý nghĩa thống kê | Không thấy khác biệt |
+
+Từ đó bài kết luận kênh đòn bẩy vững hơn kênh lợi nhuận và hiệu quả.
 
 ### 6. Tác động thực
 
-- Doanh nghiệp có thể bù phần trái phiếu mất đi bằng vay ngân hàng hay nguồn khác, nên cần kiểm định hai bước: trước hết là tổng nợ phải trả, sau đó là đầu tư.
-- Bình quân, tổng nợ giảm ngay và quý sau rồi về không sau hai quý. Đầu tư giảm, đạt đỉnh sau sáu quý ở khoảng mười ba phần trăm mức bình quân.
-- Doanh nghiệp đòn bẩy cao chịu mức cắt tổng nợ mạnh hơn và kéo dài, tới gần mười phần trăm sau hai năm so với nhóm thấp nhất, và cũng giảm đầu tư đáng kể.
-- Doanh nghiệp lợi nhuận cao không giảm tổng nợ hay đầu tư có ý nghĩa.
+Bớt phát hành trái phiếu chưa chắc là thiệt hại: doanh nghiệp có thể bù bằng vay ngân hàng hay nguồn khác. Vì vậy bài kiểm định hai bước. Bước một: tổng nợ phải trả có giảm không. Bước hai: nếu có, đầu tư có giảm không. Phương pháp là phép chiếu địa phương của Jordà (2005), ước lượng tác động ở từng kỳ hạn h từ 0 đến 8 quý. Biến phụ thuộc là thay đổi log tổng nợ phải trả, và thay đổi đầu tư (chi đầu tư tài sản cố định, CAPEX, chia tổng tài sản kỳ trước).
+
+**Tác động bình quân ngắn và nhỏ.** Tính trung bình trên mọi doanh nghiệp:
+
+| Biến | Tác động |
+|---|---|
+| Tổng nợ | −1,2% (\*) ngay trong quý (h=0), −1,7% (\*) quý sau (h=1), sau hai quý về 0 |
+| Đầu tư | giảm dần, mạnh nhất ở quý thứ sáu (h=6) với −0,0021 (\*), tương đương khoảng 13% mức đầu tư bình quân 0,016 |
+
+**Khi phân theo loại doanh nghiệp, bức tranh khác hẳn:**
+
+| Nhóm | Tổng nợ | Đầu tư |
+|---|---|---|
+| Đòn bẩy cao nhất (tứ phân vị 4) | −3,4% (\*\*\*) sau 1 quý (h=1), −6,8% (\*\*\*) sau 4 quý (h=4), −9,8% (\*\*\*) sau 8 quý (h=8), so với nhóm đòn bẩy thấp nhất; tác động sâu dần và kéo dài | Giảm ngay −0,0014 (\*\*), khoảng 8% mức bình quân; ở tứ phân vị 3, mức giảm lên tới −0,0037 (\*\*\*) ở quý thứ năm (h=5) |
+| ROA cao nhất (tứ phân vị 4) | +1,8% (\*\*) ngay lập tức, sau đó không còn ý nghĩa | Không giảm có ý nghĩa |
+
+Kết luận của mục này: tác động bình quân của kiểm soát vốn lên nợ và đầu tư là hạn chế, nhưng nó ràng buộc mạnh doanh nghiệp rủi ro, những doanh nghiệp này cắt nợ gần 10% sau hai năm và giảm đầu tư đáng kể. Còn doanh nghiệp lợi nhuận cao thì thay thế được phần vốn trái phiếu bị mất, nên tổng nợ và đầu tư của họ không bị ảnh hưởng.
 
 ### 7. Nguồn thay thế
 
-- Doanh nghiệp lợi nhuận cao tạo ra nhiều lợi nhuận hơn, nên có thể giảm chia cổ tức, điều đặc biệt hấp dẫn khi chi phí vốn bên ngoài cao.
-- Bình quân, kiểm soát vốn không làm giảm tỷ lệ chi trả cổ tức có ý nghĩa. Nhưng khi phân theo lợi nhuận, doanh nghiệp càng lợi nhuận cao càng cắt cổ tức mạnh.
-- Tín dụng thương mại từ doanh nghiệp khác và việc dùng tiền mặt nhìn chung không cho kết quả có ý nghĩa.
+Nếu doanh nghiệp lợi nhuận cao không giảm đầu tư, họ lấy tiền ở đâu? Bài lập luận rằng doanh nghiệp lợi nhuận cao tạo ra nhiều lợi nhuận hơn, nên có thể giữ lại nhiều hơn bằng cách giảm chia cổ tức. Lựa chọn này đặc biệt hấp dẫn khi vốn bên ngoài trở nên đắt, đúng như lúc kênh trái phiếu bị chặn. Bài kiểm định bằng dữ liệu năm, với biến phụ thuộc là tỷ lệ chi trả cổ tức (cổ tức chia lợi nhuận, bình quân 5,15%):
+
+| Nhóm | Tác động của kiểm soát vốn lên tỷ lệ chi trả cổ tức |
+|---|---|
+| Bình quân mọi doanh nghiệp | −0,0008, không có ý nghĩa |
+| ROA tứ phân vị 2 | −0,0039 (\*\*) |
+| ROA tứ phân vị 3 | −0,0066 (\*\*\*) |
+| ROA tứ phân vị 4 | −0,0096 (\*\*\*), khoảng 19% mức bình quân |
+
+Bình quân thì không thấy gì, nhưng khi phân theo lợi nhuận, doanh nghiệp càng lợi nhuận cao càng cắt cổ tức mạnh. Giảm cổ tức đóng vai trò một "van tài chính nội bộ": doanh nghiệp tự tài trợ đầu tư bằng phần lợi nhuận lẽ ra trả cho cổ đông.
+
+Bài cũng kiểm tra hai nguồn thay thế khác: tín dụng thương mại từ doanh nghiệp khác (đo bằng khoản phải trả, tức mua chịu của nhà cung cấp) và việc dùng tiền mặt sẵn có. Nhìn chung cả hai không cho kết quả có ý nghĩa.
 
 ### 8. Theo chu kỳ tài chính
 
-- Tài liệu có bằng chứng lẫn lộn về việc điều kiện tài chính nới lỏng đưa vốn tới doanh nghiệp rủi ro hay hiệu quả hơn, nên đây là câu hỏi thực nghiệm.
-- Khi chu kỳ trong nước nới lỏng, doanh nghiệp nợ nhiều phát hành nhiều hơn và kiểm soát vốn cắt mạnh hơn ở nhóm này, còn doanh nghiệp lợi nhuận cao không bị ảnh hưởng thêm.
-- Khi chu kỳ toàn cầu nới lỏng, đo bằng đô la yếu, kiểm soát vốn cắt mạnh hơn ở cả doanh nghiệp nợ nhiều lẫn doanh nghiệp lợi nhuận cao.
-- Đánh đổi vì vậy ít gay gắt hơn khi nhà đầu tư ưa chuộng công cụ nợ trong nước.
+Các nghiên cứu trước có bằng chứng lẫn lộn về việc khi điều kiện tài chính nới lỏng, vốn chảy nhiều hơn tới doanh nghiệp rủi ro hay doanh nghiệp hiệu quả. Vì vậy đây là một câu hỏi thực nghiệm. Bài thêm một tương tác ba chiều: kiểm soát vốn × tứ phân vị doanh nghiệp × biến chu kỳ X, trong đó X lớn nghĩa là điều kiện tài chính nới lỏng. Bài dùng hai loại chu kỳ.
+
+**Chu kỳ trong nước**, đo bằng âm log chênh lệch EMBI (chênh lệch càng thấp, điều kiện càng nới lỏng):
+
+- Khi trong nước nới lỏng, doanh nghiệp nợ nhiều phát hành nhiều hơn (+0,0152, \*), còn doanh nghiệp lợi nhuận cao thì không.
+- Kiểm soát vốn cắt mạnh hơn ở doanh nghiệp nợ nhiều (−0,0185, \*\*); với nhóm ROA cao không có tác động thêm có ý nghĩa.
+- Tức là khi trong nước nới lỏng, chỉ có kênh an toàn vĩ mô hoạt động.
+
+**Chu kỳ toàn cầu**, đo bằng âm log chỉ số đô la rộng và âm log chỉ số đô la so với tiền các nước phát triển (đô la yếu nghĩa là điều kiện toàn cầu nới lỏng):
+
+- Kiểm soát vốn cắt mạnh hơn ở cả doanh nghiệp nợ nhiều lẫn doanh nghiệp lợi nhuận cao. Ví dụ với chỉ số đô la rộng: đòn bẩy tứ phân vị 4 (Q4) là −0,183 (\*\*), ROA tứ phân vị 4 là −0,237 (\*\*\*).
+- Tức là khi toàn cầu nới lỏng, cả hai kênh cùng hoạt động.
+
+Kết luận của bài: đánh đổi giữa an toàn và hiệu quả ít gay gắt hơn khi chu kỳ trong nước nới lỏng, tức khi nhà đầu tư ưa chuộng công cụ nợ trong nước. Lúc đó kiểm soát vốn đặc biệt hiệu quả trong việc hạn chế doanh nghiệp rủi ro mà không làm hại doanh nghiệp lợi nhuận cao.
 
 ### 9. Hàm ý chính sách
 
-- Kiểm soát vốn có thể giảm rủi ro ổn định tài chính bằng cách kìm phát hành quá mức của doanh nghiệp nợ nhiều.
-- Việc doanh nghiệp năng suất không bị phạt phụ thuộc vào việc có nguồn thay thế. Bài học thiết kế là kết hợp kiểm soát vốn với chính sách mở rộng nguồn vốn cho doanh nghiệp năng suất: thị trường nội tệ sâu, trung gian phi ngân hàng, và biện pháp khuyến khích tự tài trợ đầu tư.
-- Vì mẫu gồm doanh nghiệp niêm yết lớn, doanh nghiệp nhỏ phụ thuộc tín dụng ngân hàng có thể bị ảnh hưởng qua kênh khác. Biện pháp tác động tới trung gian ngân hàng nên được hiệu chỉnh với loại tín dụng này và phối hợp với công cụ an toàn vĩ mô.
-- Hiệu quả có thể phụ thuộc trạng thái chu kỳ, cần hiệu chỉnh khác nhau giữa nới lỏng trong nước và nới lỏng toàn cầu.
-- Hướng nghiên cứu tiếp theo: tương tác giữa kiểm soát vốn với công cụ an toàn vĩ mô và can thiệp ngoại hối, và dùng các kết quả làm nền cho phân tích chuẩn tắc trong mô hình cấu trúc.
+- **Kiểm soát vốn có tác dụng an toàn thật.** Nó có thể giảm rủi ro ổn định tài chính bằng cách kìm việc phát hành quá mức của doanh nghiệp nợ nhiều; nhóm này cắt nợ và đầu tư kéo dài.
+- **Doanh nghiệp năng suất chỉ không bị phạt khi có nguồn thay thế.** Bài học thiết kế là kết hợp kiểm soát vốn với chính sách mở rộng nguồn vốn cho doanh nghiệp năng suất: phát triển thị trường nợ bằng nội tệ sâu hơn, phát triển các trung gian tài chính phi ngân hàng, và có biện pháp khuyến khích doanh nghiệp tự tài trợ đầu tư.
+- **Doanh nghiệp nhỏ có thể bị ảnh hưởng theo đường khác.** Mẫu chỉ gồm doanh nghiệp niêm yết lớn. Doanh nghiệp nhỏ phụ thuộc tín dụng ngân hàng có thể chịu tác động qua kênh ngân hàng, nên các biện pháp nhắm vào trung gian ngân hàng cần được hiệu chỉnh cho loại tín dụng này và phối hợp với công cụ an toàn vĩ mô.
+- **Hiệu quả phụ thuộc trạng thái chu kỳ.** Cần hiệu chỉnh khác nhau giữa lúc trong nước nới lỏng (chủ yếu kênh an toàn) và lúc toàn cầu nới lỏng (cả hai kênh).
+- **Hướng nghiên cứu tiếp theo.** Xem kiểm soát vốn tương tác thế nào với công cụ an toàn vĩ mô và can thiệp ngoại hối, và dùng các kết quả thực nghiệm này làm nền cho phân tích chuẩn tắc (xác định chính sách tối ưu) trong các mô hình cấu trúc.
 
 ## Thuật ngữ
 

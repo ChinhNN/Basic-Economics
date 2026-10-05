@@ -117,56 +117,115 @@
 3. Điều gì khiến giá của chúng biến động mạnh?
 4. Vì sao chúng nằm ở trung tâm của tài chính và địa chính trị hiện đại?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Hàng hoá cơ bản (commodity).** Loại hàng mà đơn vị này giống hệt đơn vị kia, không có thương hiệu hay bản sắc riêng, nên có thể thay thế cho nhau. Ví dụ: một thùng dầu thô cùng loại từ người bán A và người bán B có giá trị như nhau, người mua không quan tâm ai bán. Ngược lại, một đôi giày có thương hiệu thì không. Chính tính đồng nhất này cho phép hàng hoá được mua bán dễ dàng trên khắp thế giới, và là điểm xuất phát của bài.
+
+**Hàng hoá "cứng" và "mềm" (hard / soft commodities).** Hàng hoá cứng là những thứ khai thác từ lòng đất, như dầu, đồng, quặng sắt, vàng. Hàng hoá mềm là những thứ nuôi trồng, như lúa mì, cà phê, bông, ca cao. Cách chia này hữu ích vì hai nhóm chịu những cú sốc khác nhau: hàng mềm phụ thuộc thời tiết và mùa vụ, hàng cứng phụ thuộc vào việc mở mỏ, khoan giếng.
+
+**Hợp đồng tương lai (futures contract).** Một hợp đồng chốt trước giá, số lượng, loại hàng và ngày giao. Ví dụ minh hoạ: tháng 3, một nông dân ký bán 100 tấn lúa mì giao vào tháng 9 với giá 200 USD/tấn. Nếu tới tháng 9 giá thị trường rơi xuống 150 USD, nông dân vẫn nhận 200 USD/tấn; nếu giá lên 250 USD, người mua được lợi. Cả hai bên đều biết trước con số của mình. Đây là công cụ mà sàn Chicago năm 1848 chuẩn hoá.
+
+**Phòng hộ rủi ro (hedge).** Dùng một hợp đồng tài chính để bù lại khoản lỗ có thể xảy ra từ biến động giá. Ví dụ ở trên: nông dân bán trước bằng hợp đồng tương lai là đang phòng hộ trước nguy cơ giá lúa mì giảm. Nhờ thu nhập được bảo đảm, ngân hàng cũng yên tâm cho nông dân vay vốn hơn.
+
+**Quyền chọn (options).** Hợp đồng cho người mua quyền, nhưng không bắt buộc, mua hoặc bán một lượng hàng ở một mức giá đã định trong một thời hạn. Ví dụ minh hoạ: trả 5 USD để có quyền mua một thùng dầu với giá 80 USD trong ba tháng tới; nếu giá lên 100 USD thì dùng quyền, nếu giá xuống thì bỏ, chỉ mất 5 USD. Cùng với hợp đồng tương lai, đây là những công cụ biến hàng hoá thành tài sản tài chính.
+
+**Đòn bẩy và ký quỹ (leverage, margin).** Khi giao dịch hợp đồng tương lai, người giao dịch chỉ cần đặt cọc một phần nhỏ giá trị hợp đồng. Ví dụ minh hoạ: ký quỹ 10.000 USD để nắm hợp đồng trị giá 100.000 USD; giá tăng 10% thì lãi 10.000 USD, tức gấp đôi số vốn bỏ ra, nhưng giá giảm 10% thì mất sạch số tiền đặt cọc. Bài dùng khái niệm này để giải thích vì sao giá hàng hoá đôi khi phản ánh đầu cơ hơn là cầu thật.
+
+**Siêu chu kỳ hàng hoá (commodity supercycle).** Một giai đoạn kéo dài nhiều năm trong đó giá của nhiều nhóm hàng hoá cùng tăng mạnh, thường do một nguồn cầu rất lớn xuất hiện. Ví dụ trong bài: đầu những năm 2000, Trung Quốc bùng nổ xây dựng hạ tầng khiến giá dầu, kim loại và nông sản cùng tăng.
+
+**Hàng hoá thiết yếu (critical commodities) và reshoring.** Hàng hoá thiết yếu là những nguyên liệu không thể thiếu cho quốc phòng, chuyển dịch năng lượng và công nghệ số, như lithium (pin), cobalt, đất hiếm (nam châm trong động cơ điện, tuabin gió). Reshoring là đưa sản xuất hoặc nguồn cung về trong nước hay sang nước đồng minh để bớt phụ thuộc. Bài cho rằng các nguyên liệu này hôm nay giữ vị trí chiến lược như dầu và thép trước đây.
+
+## Nội dung chi tiết
 
 ### 1. Hàng hoá là gì
 
-- **Định nghĩa:** thứ không có bản sắc riêng. Khi một thứ bị "commoditized", nó mất đi vẻ hào nhoáng của hàng tiêu dùng có thương hiệu.
-- **Nghịch lý:** chính tính đồng nhất và thay thế được đó cho phép hàng hoá giao dịch liền mạch trên thị trường toàn cầu, để ai ở đâu cũng tiếp cận được nguyên liệu mình cần.
-- **Hard commodities** đào từ lòng đất: dầu, đồng, sắt, vàng. **Soft commodities** nuôi trồng từ đất: lúa mì, cà phê, bông, ca cao.
-- **Ví dụ:** một chiếc điện thoại chứa khoảng 42 khoáng chất. Điện để sạc nó cũng đến từ hàng hoá: dầu, khí, than, uranium, hoặc khoáng chất trong pin mặt trời và tuabin gió.
+**Định nghĩa.** Bài định nghĩa hàng hoá cơ bản là thứ không có bản sắc riêng. Khi người ta nói một sản phẩm bị "commoditized", tức bị biến thành hàng hoá cơ bản, nghĩa là nó đã mất đi vẻ hào nhoáng của một món hàng tiêu dùng có thương hiệu; người mua chỉ còn quan tâm tới giá.
+
+**Nghịch lý.** Nghe có vẻ là một điều kém hấp dẫn, nhưng chính tính đồng nhất và có thể thay thế cho nhau này lại cho phép hàng hoá được giao dịch liền mạch trên thị trường toàn cầu. Người mua ở bất cứ đâu cũng có thể tiếp cận nguyên liệu mình cần mà không phải kiểm tra từng lô hàng hay từng người bán.
+
+Bài chia hàng hoá thành hai nhóm:
+
+| Nhóm | Nguồn gốc | Ví dụ |
+|---|---|---|
+| Hàng hoá cứng (hard commodities) | Khai thác từ lòng đất | Dầu, đồng, sắt, vàng |
+| Hàng hoá mềm (soft commodities) | Nuôi trồng từ đất | Lúa mì, cà phê, bông, ca cao |
+
+**Ví dụ về mức độ phụ thuộc.** Một chiếc điện thoại thông minh chứa khoảng 42 loại khoáng chất. Ngay cả điện để sạc nó cũng đến từ hàng hoá: dầu, khí, than, uranium, hoặc các khoáng chất nằm trong tấm pin mặt trời và tuabin gió. Hàng hoá có mặt trong gần như mọi thứ ta dùng.
 
 ### 2. Lịch sử: cơ hội kinh tế và tổn thương địa chính trị
 
-- Hàng hoá thiết yếu nhưng phân bố không đều giữa các nước, nên luôn vừa là cơ hội vừa là điểm yếu.
-- Các tuyến thương mại đường dài đầu tiên ra đời để chuyển nguyên liệu quý qua các lục địa: caravan xuyên Sahara nối mỏ vàng và mỏ muối Tây Phi với Bắc Phi và châu Âu; mạng hàng hải Ấn Độ Dương buôn gia vị, ngà voi, đá quý, kim loại quý giữa Đông Phi, Ả Rập, Ấn Độ, Đông Nam Á.
-- Cũng chính các tài nguyên ấy châm ngòi xung đột.
+Hàng hoá thiết yếu cho đời sống, nhưng lại phân bố không đều giữa các vùng và các nước. Vì vậy chúng luôn mang hai mặt: là cơ hội kinh tế cho nơi có chúng và nơi buôn bán chúng, đồng thời là điểm yếu địa chính trị cho nơi phải phụ thuộc vào người khác.
+
+Về mặt cơ hội, những tuyến thương mại đường dài đầu tiên của loài người ra đời chính là để chuyển những nguyên liệu quý qua các lục địa:
+
+- **Các đoàn caravan xuyên sa mạc Sahara** nối các mỏ vàng và mỏ muối ở Tây Phi với Bắc Phi và châu Âu.
+- **Mạng lưới hàng hải Ấn Độ Dương** buôn gia vị, ngà voi, đá quý và kim loại quý giữa Đông Phi, bán đảo Ả Rập, Ấn Độ và Đông Nam Á.
+
+Về mặt tổn thương, cũng chính những tài nguyên ấy đã nhiều lần châm ngòi cho xung đột, sự bành trướng của các đế chế và việc vạch biên giới thời thuộc địa, điều được bàn kỹ hơn ở phần về rạn nứt địa chính trị bên dưới.
 
 ### 3. Từ chợ vật chất đến sàn giao dịch
 
-- **Bài toán:** giá biến động dữ dội. Một năm được mùa, năm sau hạn hán có thể làm nông dân phá sản, kéo theo chủ xay, thương nhân và ngân hàng cho vay.
-- **CBOT, 1848:** Sở giao dịch Chicago tạo ra thị trường chuẩn hoá đầu tiên, cho phép nông dân và khách hàng chốt giá trước nhiều tháng.
-- **Hợp đồng tương lai:** một tờ giấy bảo đảm một mức giá, cho một lượng hàng, của một loại hàng cụ thể, giao vào một ngày cụ thể. Ngoài thu nhập ổn định, nó giúp nông dân dễ vay vốn cho tưới tiêu, giống, phân bón, thuốc trừ sâu.
-- **Các sàn khác:** NYMEX cho năng lượng và kim loại, LME cho kim loại cơ bản.
-- **Hệ quả:** thương mại hàng hoá thoát khỏi giới hạn của chợ vật chất và địa phương. Người sản xuất phòng hộ rủi ro, người mua có giá ổn định. Quan trọng nhất, thương nhân mở rộng được quy mô, chuyển khối lượng ngày càng lớn qua các lục địa, đẩy nhanh toàn cầu hoá.
+**Bài toán.** Giá hàng hoá biến động dữ dội. Một năm được mùa làm giá rơi, năm sau hạn hán lại làm mất mùa; chỉ hai năm như vậy có thể khiến nông dân phá sản, kéo theo cả chủ cối xay, thương nhân và ngân hàng đã cho họ vay.
+
+**Sàn giao dịch Chicago (CBOT), năm 1848.** Sở giao dịch Chicago tạo ra thị trường chuẩn hoá đầu tiên, cho phép nông dân và khách hàng của họ chốt giá trước nhiều tháng.
+
+**Hợp đồng tương lai** là công cụ trung tâm của sàn. Theo bài, đó là một tờ giấy bảo đảm một mức giá, cho một lượng hàng, của một loại hàng cụ thể, giao vào một ngày cụ thể. Ngoài việc giúp nông dân có thu nhập ổn định, hợp đồng này còn giúp họ dễ vay vốn hơn để mua nước tưới, giống, phân bón và thuốc trừ sâu, vì ngân hàng biết trước khoản thu của họ.
+
+**Các sàn khác** ra đời sau theo cùng mô hình: Sở giao dịch hàng hoá New York (NYMEX) cho năng lượng và kim loại, Sở giao dịch kim loại London (LME) cho các kim loại cơ bản.
+
+**Hệ quả.** Nhờ các sàn giao dịch, thương mại hàng hoá thoát khỏi giới hạn của chợ vật chất và của thị trường địa phương:
+
+- Người sản xuất phòng hộ được rủi ro giá.
+- Người mua có được mức giá ổn định để lập kế hoạch.
+- Quan trọng nhất, thương nhân mở rộng được quy mô, chuyển những khối lượng hàng ngày càng lớn qua các lục địa, và qua đó đẩy nhanh toàn cầu hoá.
 
 ### 4. Futures và options: tài chính hoá
 
-- Khi thị trường trưởng thành, giao dịch xoay quanh hợp đồng thay vì hàng vật chất.
-- Futures, options và phái sinh khác, vốn là công cụ bảo hiểm, trở thành tài sản tự thân, thu hút nhà đầu cơ, quỹ phòng hộ, rồi giao dịch tần suất cao.
-- Vì chỉ cần ký quỹ một phần giá trị tài sản cơ sở, vị thế đòn bẩy khuếch đại cả rủi ro lẫn lợi nhuận, kéo hàng hoá vào sâu trong lõi tài chính toàn cầu.
-- Giá đôi khi phản ánh đầu cơ tài chính hơn là cầu vật chất. Ví dụ: vàng tăng vọt rồi điều chỉnh mạnh trong tháng 10–11/2025.
+Khi thị trường trưởng thành, giao dịch dần xoay quanh các hợp đồng thay vì hàng vật chất. Phần lớn người mua bán hợp đồng không bao giờ nhận hay giao một tấn lúa mì nào.
+
+Hợp đồng tương lai (futures), quyền chọn (options) và các loại phái sinh khác vốn ra đời như công cụ bảo hiểm cho người sản xuất và người mua. Dần dần chúng trở thành tài sản tự thân, được mua bán vì lợi nhuận, thu hút nhà đầu cơ, rồi các quỹ phòng hộ (hedge fund), và sau đó là giao dịch tần suất cao (HFT) bằng máy tính.
+
+Vì chỉ cần ký quỹ một phần giá trị của hàng hoá cơ sở, các vị thế có đòn bẩy khuếch đại cả lãi lẫn lỗ. Điều này kéo hàng hoá vào sâu trong lõi của hệ thống tài chính toàn cầu.
+
+Hệ quả là giá hàng hoá đôi khi phản ánh hoạt động đầu cơ tài chính nhiều hơn là cầu vật chất thật. Bài lấy ví dụ giá vàng tăng vọt rồi điều chỉnh mạnh trong tháng 10–11/2025.
 
 ### 5. Vì sao giá biến động
 
-- **Phía cung** chậm điều chỉnh: khoan giếng, đào mỏ, trồng trọt đều cần thời gian, vốn và hàng thập kỷ hoạch định.
-- **Phía cầu** khó thay thế: nhà máy không thiết kế lại dây chuyền qua đêm, nhà máy lọc chỉ xử lý một số loại dầu thô, chuỗi cung ứng không đổi hướng tức thì.
-- Vì thế khi cầu toàn cầu đổi chiều, hoặc cú sốc địa chính trị, khí hậu, logistics làm gián đoạn cung, giá đi nhanh và mạnh.
-- **Ví dụ cùng chiều:** Trung Quốc gia nhập hệ thống thương mại toàn cầu và bùng nổ hạ tầng đầu những năm 2000, cầu tăng vọt trên nhiều ngành khiến dầu, kim loại, nông sản cùng tăng: siêu chu kỳ hàng hoá.
-- **Ví dụ ngược chiều:** trong COVID-19, phong toả ở Trung Quốc làm cầu thép sụp đổ, nhưng giá quặng sắt vẫn tăng vì các mỏ lớn ở châu Phi và Brazil đóng cửa hoặc giảm sản lượng cùng lúc.
-- **Bài học:** dự báo giá hàng hoá rất khó. Theo dõi kinh tế toàn cầu là chưa đủ, phải nắm đặc thù riêng của từng thị trường.
+Bài giải thích tính biến động của giá hàng hoá từ cả hai phía của thị trường.
+
+**Phía cung chậm điều chỉnh.** Khoan một giếng dầu, mở một mỏ hay trồng một vụ mới đều cần thời gian, vốn lớn, và có khi hàng thập kỷ hoạch định. Khi giá tăng, người sản xuất không thể tăng sản lượng ngay.
+
+**Phía cầu khó thay thế.** Một nhà máy không thể thiết kế lại dây chuyền qua một đêm để dùng nguyên liệu khác; một nhà máy lọc dầu chỉ xử lý được một số loại dầu thô nhất định; chuỗi cung ứng không đổi hướng tức thì. Khi giá tăng, người mua cũng không thể giảm mua ngay.
+
+Vì cả cung lẫn cầu đều phản ứng chậm với giá, khi cầu toàn cầu đổi chiều, hoặc khi các cú sốc địa chính trị, khí hậu hay logistics làm gián đoạn nguồn cung, giá phải đi rất nhanh và rất mạnh mới đưa được cung và cầu về cân bằng.
+
+Hai ví dụ cho thấy giá có thể đi theo những cách khác nhau:
+
+| Kiểu biến động | Ví dụ | Cơ chế |
+|---|---|---|
+| Cùng chiều | Đầu những năm 2000 | Trung Quốc gia nhập hệ thống thương mại toàn cầu và bùng nổ xây dựng hạ tầng; cầu tăng vọt trên nhiều ngành khiến dầu, kim loại và nông sản cùng tăng giá, tạo ra siêu chu kỳ hàng hoá |
+| Ngược chiều | Đại dịch COVID-19 | Phong toả ở Trung Quốc làm cầu thép sụp đổ, nhưng giá quặng sắt vẫn tăng vì các mỏ lớn ở châu Phi và Brazil đóng cửa hoặc giảm sản lượng cùng lúc |
+
+**Bài học.** Dự báo giá hàng hoá rất khó. Chỉ theo dõi tình hình kinh tế toàn cầu là chưa đủ; phải nắm được đặc thù riêng của từng thị trường, như ở ví dụ quặng sắt, nơi cú sốc cung lấn át cú sốc cầu.
 
 ### 6. Rạn nứt địa chính trị
 
-- **Không mới:** đế chế tranh vàng, bạc, đường, gia vị; hải quân bảo vệ đường tiếp cận cao su, dầu và nguồn cung chiến lược khác. Thời thuộc địa, biên giới thường được vẽ quanh các bồn tài nguyên, và nhiều biên giới, cấu trúc kinh tế ngày nay vẫn mang di sản đó.
-- **Hôm nay:** sự phụ thuộc ngày càng lớn vào hàng hoá thiết yếu cho quốc phòng, chuyển dịch năng lượng và công nghệ số vận hành AI tạo ra các đường đứt gãy địa chính trị mới. Lithium, cobalt, đất hiếm giữ vị trí chiến lược như dầu và thép từng giữ.
-- **Phản ứng:** nước giàu tài nguyên tăng ảnh hưởng; nước thiếu chạy đua bảo đảm tiếp cận dài hạn qua liên minh, hợp đồng đầu tư, thiết kế lại chuỗi cung ứng. Kiểm soát xuất khẩu, trừng phạt và reshoring ngày càng nhắm vào những khoáng chất định hình sức mạnh quân sự, công nghiệp, công nghệ tương lai.
+**Không có gì mới.** Trong lịch sử, các đế chế đã tranh giành vàng, bạc, đường và gia vị. Hải quân các nước được dùng để bảo vệ đường tiếp cận cao su, dầu và các nguồn cung chiến lược khác. Thời thuộc địa, biên giới thường được vẽ quanh các bồn tài nguyên, và nhiều đường biên giới cũng như cấu trúc kinh tế ngày nay vẫn mang dấu vết của di sản đó.
+
+**Hôm nay.** Thế giới ngày càng phụ thuộc vào các hàng hoá thiết yếu cho quốc phòng, cho chuyển dịch năng lượng và cho hạ tầng số vận hành trí tuệ nhân tạo (AI). Sự phụ thuộc này tạo ra những đường đứt gãy địa chính trị mới. Lithium, cobalt và đất hiếm hôm nay giữ vị trí chiến lược giống như dầu và thép từng giữ trong thế kỷ trước.
+
+**Phản ứng của các nước** chia theo hai phía:
+
+- **Nước giàu tài nguyên** tăng được ảnh hưởng của mình.
+- **Nước thiếu tài nguyên** chạy đua bảo đảm nguồn tiếp cận dài hạn qua liên minh, hợp đồng đầu tư và thiết kế lại chuỗi cung ứng.
+
+Các công cụ như kiểm soát xuất khẩu, trừng phạt và reshoring (đưa sản xuất về trong nước hoặc sang nước đồng minh) ngày càng nhắm vào chính những khoáng chất sẽ định hình sức mạnh quân sự, công nghiệp và công nghệ trong tương lai.
 
 ### 7. Vị thế lâu bền
 
-- Từ caravan cổ đại đến sàn phái sinh hiện đại, từ chinh phục thuộc địa đến cuộc đua khoáng chất thiết yếu, hàng hoá luôn ở giao điểm của kinh tế, chính trị và công nghệ.
-- Là khối xây dựng lâu đời nhất của hoạt động con người, nhưng vẫn không thể thiếu cho những ngành tiên tiến nhất.
-- Khi chuyển dịch năng lượng tăng tốc, số hoá sâu hơn và cạnh tranh địa chính trị gay gắt hơn, vai trò của hàng hoá chỉ càng trung tâm.
+Từ các đoàn caravan thời cổ đến các sàn phái sinh hiện đại, từ những cuộc chinh phục thuộc địa đến cuộc đua giành khoáng chất thiết yếu ngày nay, hàng hoá luôn nằm ở giao điểm của kinh tế, chính trị và công nghệ.
+
+Hàng hoá là khối xây dựng lâu đời nhất của hoạt động kinh tế con người, nhưng vẫn không thể thiếu cho những ngành tiên tiến nhất. Bài kết luận rằng khi chuyển dịch năng lượng tăng tốc, số hoá đi sâu hơn và cạnh tranh địa chính trị gay gắt hơn, vai trò của hàng hoá sẽ chỉ càng trở nên trung tâm: quyền kiểm soát hàng hoá đã định hình kinh tế thế giới trong quá khứ và có thể quyết định trật tự thế giới tương lai.
 
 ## Thuật ngữ
 

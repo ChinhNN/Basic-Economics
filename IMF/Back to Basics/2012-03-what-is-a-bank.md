@@ -86,34 +86,105 @@
 2. Vì sao ngân hàng dễ đổ vỡ và đổ vỡ lại nguy hiểm?
 3. Vì sao và bằng cách nào ngân hàng được quản lý?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Trung gian tài chính (financial intermediary).** Một tổ chức đứng giữa người có tiền nhàn rỗi và người cần vay, nhận tiền của bên này rồi cho bên kia vay, thay vì để hai bên tự tìm nhau. Ví dụ trong bài: bạn có 1.000 USD không dùng trong một năm, còn một người khác cần vay 100.000 USD trả trong 30 năm; hai người gần như không thể tự khớp với nhau về số tiền và thời hạn, nhưng ngân hàng gom tiền của rất nhiều người như bạn để cho người kia vay. Đây là vai trò gốc của ngân hàng, mọi chức năng khác trong bài đều xây trên nó.
+
+**Chuyển đổi kỳ hạn (maturity transformation).** Dùng tiền huy động ngắn hạn (tiền gửi mà người gửi có thể rút bất cứ lúc nào) để cho vay dài hạn (khoản vay mua nhà 30 năm). Việc này làm được vì tại mỗi thời điểm chỉ một số ít người gửi cần rút tiền. Khái niệm này quan trọng vì nó vừa là nguồn lợi nhuận của ngân hàng, vừa là nguồn gốc khiến ngân hàng dễ đổ vỡ khi nhiều người cùng rút một lúc.
+
+**Chênh lệch lãi suất (spread).** Phần chênh giữa lãi ngân hàng thu từ người vay và lãi ngân hàng trả cho người gửi. Ví dụ minh hoạ: ngân hàng trả người gửi 3% một năm và cho vay với lãi 7%, thì trên mỗi 100 đồng cho vay ngân hàng giữ lại khoảng 4 đồng trước chi phí. Bài nói đây là phần lớn thu nhập của ngân hàng ở hầu hết các nước.
+
+**Dự trữ (reserves) và hiệu ứng số nhân (multiplier effect).** Dự trữ là phần tiền gửi ngân hàng giữ lại, không cho vay, dưới dạng tiền mặt hoặc chứng khoán dễ đổi ra tiền, một phần gửi tại ngân hàng trung ương theo quy định. Phần còn lại được cho vay, người vay tiêu tiền, tiền đó quay lại một ngân hàng khác thành tiền gửi mới, và ngân hàng đó lại cho vay tiếp. Ví dụ minh hoạ: với tỷ lệ dự trữ 10%, một khoản gửi 100 đồng cho phép cho vay 90, rồi 81, rồi khoảng 73…; tổng tiền gửi trong hệ thống có thể lên tới 1.000 đồng, tức gấp 10 lần. Khái niệm này giải thích vì sao bài nói ngân hàng "tạo tiền".
+
+**Tài sản lỏng (liquid assets).** Tài sản có thể đổi ra tiền mặt nhanh mà ít làm giảm giá, như tiền mặt và trái phiếu chính phủ ngắn hạn. Ngược lại, một khoản cho vay mua nhà 30 năm rất khó bán nhanh mà không lỗ. Tỷ lệ tài sản lỏng thấp là một trong ba nguồn dễ tổn thương mà bài nêu.
+
+**Vốn chủ sở hữu (capital) và mất khả năng thanh toán (insolvency).** Vốn chủ là tài sản trừ nợ, tức phần tiền thuộc về chủ ngân hàng, dùng làm đệm hấp thụ lỗ. Ví dụ minh hoạ: ngân hàng có tài sản 100, nợ (chủ yếu là tiền gửi) 92, thì vốn chủ là 8; nếu phải bán tài sản và lỗ 10, tài sản còn 90 thấp hơn nợ 92, ngân hàng mất khả năng thanh toán. Bài nhấn mạnh quy định sau khủng hoảng buộc ngân hàng giữ nhiều vốn chủ hơn chính vì lý do này.
+
+**Rút tiền ồ ạt (bank run).** Tình huống nhiều người gửi cùng lúc đòi rút tiền vì sợ ngân hàng gặp vấn đề, bất kể nỗi sợ đó đúng hay sai. Vì ngân hàng chỉ giữ một phần nhỏ tài sản ở dạng lỏng, một cuộc rút tiền đủ lớn buộc ngân hàng bán tài sản dài hạn với giá lỗ. Đây là lý do bài nói "ngân hàng là niềm tin".
+
+**Ngân hàng bóng tối (shadow banks).** Các tổ chức làm việc giống ngân hàng (nhận vốn ngắn hạn, cho vay hay đầu tư dài hạn) nhưng không bị quản lý như ngân hàng, như công ty tài chính, ngân hàng đầu tư, quỹ tương hỗ thị trường tiền tệ. Bài nêu khái niệm này ở cuối để chỉ ra phần hệ thống mà khung quản lý ngân hàng chưa phủ tới.
+
+## Nội dung chi tiết
 
 ### 1. Trung gian giữa người gửi và người vay
 
-- Bạn có 1.000 USD không cần trong một năm và muốn kiếm thu nhập. Hoặc bạn muốn mua nhà, cần vay 100.000 USD trả trong 30 năm. Một mình tìm được người vay đúng 1.000 USD trong một năm, hay người cho vay 100.000 USD trong 30 năm, gần như bất khả. Đó là chỗ ngân hàng xuất hiện.
-- Ngân hàng làm nhiều việc, nhưng vai trò chính là nhận tiền gửi từ người có tiền, gom lại, cho vay người cần. Ngân hàng là trung gian giữa người gửi (cho ngân hàng vay) và người vay (ngân hàng cho vay). Số tiền trả cho tiền gửi và thu từ khoản vay đều gọi là lãi. Người gửi và người vay đều có thể là cá nhân, hộ gia đình, doanh nghiệp tài chính và phi tài chính, chính quyền trung ương và địa phương. Tiền gửi có thể rút theo yêu cầu (tài khoản vãng lai) hoặc có hạn chế (tiết kiệm, có kỳ hạn).
-- **Chuyển đổi kỳ hạn:** tại mỗi thời điểm một số người gửi cần tiền nhưng đa số không. Điều đó cho phép ngân hàng dùng tiền gửi ngắn hạn cho vay dài hạn, chuyển nợ ngắn hạn (tiền gửi) thành tài sản dài hạn (khoản vay). Ngân hàng trả người gửi ít hơn thu từ người vay, chênh lệch chiếm phần lớn thu nhập ngân hàng ở hầu hết các nước.
-- Ngân hàng có thể bổ sung tiền gửi bằng vay trực tiếp trên thị trường tiền tệ và vốn: phát hành thương phiếu, trái phiếu; cho tổ chức khác mượn tạm chứng khoán đang sở hữu lấy tiền mặt (hợp đồng mua lại, repo); đóng gói khoản vay thành chứng khoán bán ra thị trường (chuyển đổi thanh khoản và chứng khoán hoá) để có vốn cho vay tiếp.
+Bài mở đầu bằng một tình huống đời thường. Giả sử bạn có 1.000 USD không cần dùng trong một năm và muốn số tiền đó sinh lời. Hoặc ngược lại, bạn muốn mua nhà và cần vay 100.000 USD, trả dần trong 30 năm. Nếu tự mình đi tìm, bạn gần như không thể gặp đúng một người cần vay đúng 1.000 USD trong đúng một năm, hay một người sẵn sàng cho vay 100.000 USD trong 30 năm. Ngân hàng xuất hiện để giải quyết đúng bài toán khớp nhu cầu này.
+
+Ngân hàng làm nhiều việc, nhưng vai trò chính là **trung gian**: nhận tiền gửi từ những người có tiền, gom lại, rồi cho những người cần tiền vay. Người gửi tiền thực chất là đang cho ngân hàng vay, còn ngân hàng thì cho người vay vay. Khoản ngân hàng trả cho người gửi và khoản ngân hàng thu từ người vay đều gọi là lãi. Cả hai phía đều rất đa dạng: cá nhân, hộ gia đình, doanh nghiệp tài chính và phi tài chính, chính quyền trung ương và địa phương. Tiền gửi cũng có nhiều loại: loại rút được bất cứ lúc nào theo yêu cầu (tài khoản vãng lai), và loại có hạn chế về thời điểm rút (tài khoản tiết kiệm, tiền gửi có kỳ hạn).
+
+**Chuyển đổi kỳ hạn.** Tại mỗi thời điểm, chỉ một số người gửi cần lấy tiền, còn đa số thì không. Nhờ vậy ngân hàng có thể dùng tiền gửi ngắn hạn để cho vay dài hạn. Nói theo ngôn ngữ bảng cân đối, ngân hàng biến một khoản nợ ngắn hạn (tiền gửi) thành một tài sản dài hạn (khoản vay). Ngân hàng trả người gửi mức lãi thấp hơn mức thu từ người vay, và phần chênh lệch lãi này là nguồn thu nhập lớn nhất của ngân hàng ở hầu hết các nước.
+
+Ngoài tiền gửi, ngân hàng còn huy động vốn trực tiếp trên thị trường tiền tệ và thị trường vốn:
+
+- **Phát hành thương phiếu và trái phiếu**, tức vay nợ trực tiếp từ nhà đầu tư.
+- **Hợp đồng mua lại (repo)**: cho một tổ chức khác mượn tạm chứng khoán mình đang nắm giữ để lấy tiền mặt, với cam kết mua lại sau.
+- **Chứng khoán hoá**: đóng gói nhiều khoản vay thành một loại chứng khoán rồi bán ra thị trường, thu tiền về để cho vay tiếp. Đây là cách chuyển một tài sản khó bán (khoản vay riêng lẻ) thành tài sản dễ bán, gọi là chuyển đổi thanh khoản.
 
 ### 2. Thanh toán, tạo tiền, thu nhập
 
-- Ngân hàng cũng thiết yếu cho hệ thống thanh toán trong nước và quốc tế. Cá nhân, doanh nghiệp, chính phủ cần chuyển tiền: người mua sang người bán, chủ sang nhân viên, người nộp thuế sang chính phủ. Ngân hàng xử lý thanh toán từ séc cá nhân nhỏ nhất đến chuyển điện tử giá trị lớn giữa các ngân hàng. Hệ thống thanh toán là mạng phức tạp của ngân hàng địa phương, quốc gia, quốc tế, thường có ngân hàng trung ương và trung tâm bù trừ tư nhân khớp số ngân hàng nợ nhau. Nhiều trường hợp gần như tức thời. Gồm cả thẻ tín dụng và ghi nợ. Hệ thống thanh toán vận hành tốt là điều kiện tiên quyết cho nền kinh tế hiệu quả; đứt gãy sẽ gián đoạn thương mại và tăng trưởng đáng kể.
-- **Tạo tiền:** ngân hàng phải giữ dự trữ, không cho vay, một phần tiền gửi, bằng tiền mặt hoặc chứng khoán dễ đổi ra tiền. Lượng dự trữ tuỳ đánh giá của ngân hàng về nhu cầu tiền mặt của người gửi và quy định của cơ quan quản lý, thường là ngân hàng trung ương (định chế nhà nước ở trung tâm hệ thống tiền tệ và ngân hàng quốc gia). Dự trữ bắt buộc gửi tại ngân hàng trung ương như Fed, Ngân hàng Nhật Bản, Ngân hàng Trung ương châu Âu. Ngân hàng tạo tiền khi cho vay phần còn lại. Tiền này dùng mua hàng hoá dịch vụ và có thể quay lại hệ thống thành tiền gửi ở ngân hàng khác, ngân hàng đó lại cho vay một phần. Quá trình lặp nhiều lần gọi là hiệu ứng số nhân. Độ lớn số nhân, lượng tiền tạo ra từ một khoản gửi ban đầu, phụ thuộc tỷ lệ dự trữ bắt buộc.
-- Ngân hàng cũng cho vay và tái sử dụng tiền dư trong hệ thống tài chính; tạo, phân phối và giao dịch chứng khoán. Ngoài chênh lệch lãi, ngân hàng kiếm tiền từ chứng khoán tự doanh và phí dịch vụ khách hàng: tài khoản vãng lai, ngân hàng đầu tư, phục vụ khoản vay, khởi tạo, phân phối, bán sản phẩm tài chính khác như bảo hiểm, quỹ tương hỗ. Trung bình ngân hàng kiếm 1–2% tài sản (khoản vay và chứng khoán), gọi là tỷ suất sinh lời trên tài sản.
+**Hệ thống thanh toán.** Ngân hàng là mắt xích thiết yếu của hệ thống thanh toán trong nước và quốc tế. Mọi chủ thể trong nền kinh tế đều cần chuyển tiền cho nhau: người mua trả người bán, chủ trả lương nhân viên, người nộp thuế nộp cho chính phủ. Ngân hàng xử lý tất cả các khoản này, từ tấm séc cá nhân nhỏ nhất đến các lệnh chuyển tiền điện tử giá trị lớn giữa các ngân hàng, cùng với thanh toán bằng thẻ tín dụng và thẻ ghi nợ. Hệ thống thanh toán là một mạng phức tạp gồm ngân hàng địa phương, ngân hàng quốc gia và quốc tế, thường có ngân hàng trung ương tham gia, cùng các trung tâm bù trừ tư nhân làm nhiệm vụ đối chiếu xem ngân hàng nào nợ ngân hàng nào bao nhiêu. Nhiều giao dịch được xử lý gần như tức thời. Bài coi một hệ thống thanh toán vận hành tốt là điều kiện tiên quyết để nền kinh tế hoạt động hiệu quả; nếu hệ thống này đứt gãy, thương mại và tăng trưởng sẽ bị gián đoạn đáng kể.
+
+**Tạo tiền.** Ngân hàng không cho vay toàn bộ tiền gửi mà phải giữ lại một phần làm dự trữ, dưới dạng tiền mặt hoặc chứng khoán dễ đổi ra tiền. Mức dự trữ do hai thứ quyết định: đánh giá của chính ngân hàng về việc người gửi sẽ cần bao nhiêu tiền mặt, và quy định của cơ quan quản lý, thường là ngân hàng trung ương. Bài định nghĩa ngân hàng trung ương là định chế nhà nước đứng ở trung tâm hệ thống tiền tệ và ngân hàng của một nước, ví dụ Cục Dự trữ Liên bang Mỹ (Fed), Ngân hàng Nhật Bản, Ngân hàng Trung ương châu Âu. Dự trữ bắt buộc được gửi tại ngân hàng trung ương.
+
+Ngân hàng tạo ra tiền khi cho vay phần tiền gửi còn lại. Người vay dùng tiền đó mua hàng hoá, dịch vụ; người bán nhận tiền và gửi vào một ngân hàng khác; ngân hàng này lại giữ một phần làm dự trữ và cho vay phần còn lại. Quá trình lặp đi lặp lại nhiều vòng như vậy gọi là **hiệu ứng số nhân**. Tổng lượng tiền được tạo ra từ một khoản gửi ban đầu, tức độ lớn của số nhân, phụ thuộc vào tỷ lệ dự trữ bắt buộc: tỷ lệ dự trữ càng thấp, mỗi vòng cho vay được nhiều hơn và số nhân càng lớn.
+
+**Các hoạt động và nguồn thu khác.** Ngân hàng còn cho vay lại và tái sử dụng tiền dư thừa trong hệ thống tài chính, đồng thời tạo ra, phân phối và giao dịch chứng khoán. Ngoài chênh lệch lãi, ngân hàng có hai nguồn thu chính nữa:
+
+- lãi từ việc tự doanh chứng khoán, tức dùng vốn của mình mua bán chứng khoán;
+- phí dịch vụ thu từ khách hàng: phí tài khoản vãng lai, dịch vụ ngân hàng đầu tư, phí phục vụ khoản vay, phí khởi tạo và phân phối, và hoa hồng bán các sản phẩm tài chính khác như bảo hiểm và quỹ tương hỗ.
+
+Tính trung bình, ngân hàng kiếm được khoảng 1–2% trên tổng tài sản của mình (gồm các khoản cho vay và chứng khoán nắm giữ). Chỉ số này gọi là tỷ suất sinh lời trên tài sản (ROA). Ví dụ minh hoạ: một ngân hàng có 100 tỷ đồng tài sản và ROA 1% thì lãi khoảng 1 tỷ đồng một năm. Con số nhỏ này cho thấy ngân hàng sống bằng biên lợi nhuận mỏng trên một khối tài sản rất lớn, nên chỉ một tỷ lệ lỗ nhỏ trên tài sản cũng đủ xoá hết lợi nhuận.
 
 ### 3. Truyền dẫn chính sách tiền tệ và đổ vỡ
 
-- Ngân hàng đóng vai trò trung tâm trong truyền dẫn chính sách tiền tệ, một trong những công cụ quan trọng nhất của chính phủ để tăng trưởng không lạm phát. Ngân hàng trung ương kiểm soát cung tiền cấp quốc gia; ngân hàng tạo thuận lợi cho dòng tiền trong thị trường mình hoạt động. Ngân hàng trung ương thu hẹp hoặc mở rộng cung tiền bằng tăng giảm dự trữ bắt buộc và mua bán chứng khoán trên thị trường mở với ngân hàng là đối tác chính. Ngân hàng có thể thu hẹp cung tiền bằng để nhiều tiền gửi hơn làm dự trữ tại ngân hàng trung ương hoặc tăng tài sản lỏng khác (dễ đổi ra tiền ít ảnh hưởng giá). Dự trữ hoặc tài sản lỏng tăng vọt vì bất kỳ lý do gì có thể gây "thắt chặt tín dụng": giảm tiền ngân hàng có để cho vay, chi phí vay cao hơn vì vốn khan hiếm. Thắt chặt tín dụng gây hại tăng trưởng.
-- Ngân hàng có thể đổ vỡ như doanh nghiệp khác, nhưng đổ vỡ lan rộng hơn: hại khách hàng, ngân hàng khác, cộng đồng, cả thị trường. Tiền gửi có thể bị đóng băng, quan hệ vay đứt gãy, hạn mức tín dụng doanh nghiệp dùng trả lương hay trả nhà cung cấp có thể không được gia hạn. Một ngân hàng đổ có thể kéo theo ngân hàng khác.
-- **Ba nguồn dễ tổn thương:** tỷ lệ cao vốn ngắn hạn (tài khoản vãng lai, repo) trên tổng tiền gửi, trong khi phần lớn tiền gửi tài trợ khoản vay dài hạn khó đổi ra tiền nhanh; tỷ lệ tiền mặt trên tài sản thấp; tỷ lệ vốn chủ (tài sản trừ nợ) trên tài sản thấp.
-- Người gửi và chủ nợ khác có thể đòi thanh toán tài khoản vãng lai và repo gần như ngay lập tức. Khi ngân hàng bị coi, đúng hay sai, là có vấn đề, khách hàng sợ mất tiền gửi có thể rút nhanh đến mức phần tài sản lỏng nhỏ cạn kiệt. Trong "rút tiền ồ ạt", ngân hàng có thể phải bán tài sản dài hạn kém lỏng, thường lỗ, để đáp ứng rút tiền. Lỗ đủ lớn vượt vốn thì mất khả năng thanh toán.
-- Về bản chất, ngân hàng là niềm tin: tin rằng ngân hàng có tiền để trả nghĩa vụ. Vết nứt niềm tin có thể kích hoạt rút tiền và đổ vỡ, thậm chí kéo sập cả định chế lành mạnh. Nhiều nước bảo hiểm tiền gửi phòng ngân hàng đổ vỡ, và khủng hoảng gần đây cho thấy ngân hàng dùng nhiều nguồn vốn thị trường hơn khiến họ dễ bị rút vốn do tâm lý nhà đầu tư hơn là do người gửi.
+**Ngân hàng trong truyền dẫn chính sách tiền tệ.** Chính sách tiền tệ là một trong những công cụ quan trọng nhất của chính phủ để đạt tăng trưởng mà không gây lạm phát, và ngân hàng nằm ở trung tâm của việc truyền tác động chính sách đó vào nền kinh tế. Ngân hàng trung ương kiểm soát cung tiền ở cấp quốc gia, còn các ngân hàng thương mại là kênh đưa dòng tiền vào từng thị trường cụ thể. Ngân hàng trung ương có hai cách chính để thu hẹp hoặc mở rộng cung tiền:
+
+- tăng hoặc giảm tỷ lệ dự trữ bắt buộc;
+- mua hoặc bán chứng khoán trên thị trường mở, với các ngân hàng là đối tác giao dịch chính.
+
+Bản thân ngân hàng cũng có thể làm cung tiền co lại, khi họ để nhiều tiền gửi hơn nằm làm dự trữ ở ngân hàng trung ương, hoặc tăng nắm giữ các tài sản lỏng khác (tài sản dễ đổi ra tiền mà ít ảnh hưởng tới giá). Nếu dự trữ hoặc tài sản lỏng tăng vọt, vì bất kỳ lý do gì, có thể xảy ra **thắt chặt tín dụng** (credit crunch): ngân hàng còn ít tiền để cho vay, vốn trở nên khan hiếm và chi phí vay tăng lên. Thắt chặt tín dụng làm hại tăng trưởng.
+
+**Vì sao đổ vỡ ngân hàng nguy hiểm hơn đổ vỡ doanh nghiệp thường.** Ngân hàng có thể phá sản như mọi doanh nghiệp, nhưng hậu quả lan rộng hơn nhiều: nó làm hại khách hàng, các ngân hàng khác, cộng đồng và cả thị trường. Cụ thể:
+
+- tiền gửi có thể bị đóng băng, người gửi không lấy được tiền;
+- quan hệ vay vốn giữa ngân hàng và khách hàng bị cắt đứt;
+- các hạn mức tín dụng mà doanh nghiệp dựa vào để trả lương hay trả nhà cung cấp có thể không được gia hạn;
+- một ngân hàng sụp đổ có thể kéo theo các ngân hàng khác.
+
+**Ba nguồn dễ tổn thương.** Bài chỉ ra ba đặc điểm khiến một ngân hàng dễ đổ vỡ:
+
+| Nguồn dễ tổn thương | Vì sao nguy hiểm |
+|---|---|
+| Thứ nhất: tỷ lệ cao vốn ngắn hạn (tài khoản vãng lai, repo) trên tổng vốn huy động | Phần lớn vốn này lại được dùng cho vay dài hạn, mà khoản vay dài hạn khó đổi ra tiền nhanh |
+| Thứ hai: tỷ lệ tiền mặt trên tài sản thấp | Ngân hàng có ít tiền sẵn để trả khi người gửi đòi |
+| Thứ ba: tỷ lệ vốn chủ (tài sản trừ nợ) trên tài sản thấp | Ngân hàng có ít đệm để hấp thụ lỗ |
+
+**Cơ chế rút tiền ồ ạt.** Người gửi và các chủ nợ khác có thể đòi rút tiền trong tài khoản vãng lai và đòi lại tiền repo gần như ngay lập tức. Khi một ngân hàng bị coi là có vấn đề, dù nhận định đó đúng hay sai, khách hàng sợ mất tiền sẽ rút nhanh đến mức phần tài sản lỏng nhỏ bé của ngân hàng cạn kiệt. Lúc đó ngân hàng phải bán các tài sản dài hạn kém lỏng để có tiền trả, và thường phải bán với giá lỗ. Nếu khoản lỗ đủ lớn để vượt quá vốn chủ, ngân hàng mất khả năng thanh toán. Chuỗi diễn biến là: bị nghi ngờ, người gửi rút nhanh, tài sản lỏng cạn, bán tài sản dài hạn chịu lỗ, lỗ vượt vốn, mất khả năng thanh toán.
+
+Vì vậy, theo bài, về bản chất **ngân hàng là chuyện niềm tin**: niềm tin rằng ngân hàng có đủ tiền để thực hiện nghĩa vụ của mình. Chỉ một vết nứt trong niềm tin cũng có thể kích hoạt rút tiền và đổ vỡ, thậm chí kéo sập cả một ngân hàng vốn lành mạnh. Đó là lý do nhiều nước có bảo hiểm tiền gửi để phòng ngừa đổ vỡ. Bài cũng ghi nhận một bài học từ cuộc khủng hoảng gần đây (2008): các ngân hàng ngày càng dựa vào nguồn vốn huy động trên thị trường, nên họ dễ bị "rút" vốn vì tâm lý của nhà đầu tư trên thị trường hơn là vì người gửi tiền.
 
 ### 4. Nhu cầu quản lý
 
-- An toàn và lành mạnh ngân hàng là mối quan tâm chính sách công lớn; chính sách được thiết kế để hạn chế đổ vỡ và hoảng loạn có thể châm ngòi. Ở hầu hết các nước, ngân hàng cần giấy phép để hoạt động và đủ điều kiện nhận hỗ trợ nhà nước như cho vay khẩn cấp từ ngân hàng trung ương và bảo đảm rõ ràng bảo hiểm tiền gửi đến mức nhất định. Ngân hàng chịu luật nước nhà và giám sát định kỳ; hoạt động ở nước ngoài có thể chịu thêm quản lý của nước chủ nhà. Cơ quan quản lý có quyền rộng can thiệp vào ngân hàng gặp khó để giảm gián đoạn.
-- Quy định thường nhằm hạn chế rủi ro tín dụng, thị trường, thanh khoản và rủi ro khả năng thanh toán chung. Ngân hàng nay phải giữ nhiều vốn chủ hơn và chất lượng cao hơn (lợi nhuận giữ lại, vốn góp) để đệm lỗ so với trước khủng hoảng. Ngân hàng toàn cầu lớn phải giữ thêm vốn để tính tác động đổ vỡ của họ lên ổn định hệ thống tài chính toàn cầu (rủi ro hệ thống). Quy định cũng đặt mức tài sản lỏng tối thiểu và yêu cầu nguồn vốn dài hạn ổn định.
-- Cơ quan quản lý đang xem xét tầm quan trọng ngày càng lớn của các định chế làm chức năng giống ngân hàng nhưng không bị quản lý như ngân hàng, gọi là ngân hàng bóng tối, và các phương án quản lý. Khủng hoảng gần đây lộ tầm quan trọng hệ thống của những định chế này: công ty tài chính, ngân hàng đầu tư, quỹ tương hỗ thị trường tiền tệ.
+Vì những rủi ro trên, sự an toàn và lành mạnh của ngân hàng là một mối quan tâm lớn của chính sách công, và các chính sách được thiết kế để hạn chế đổ vỡ ngân hàng cũng như những cơn hoảng loạn mà đổ vỡ có thể châm ngòi.
+
+**Cấp phép và mạng lưới bảo vệ.** Ở hầu hết các nước, ngân hàng phải có giấy phép mới được hoạt động. Đổi lại, ngân hàng được cấp phép đủ điều kiện nhận hỗ trợ của nhà nước, như vay khẩn cấp từ ngân hàng trung ương, và được bảo đảm rõ ràng bằng bảo hiểm tiền gửi đến một hạn mức nhất định. Ngân hàng chịu luật pháp của nước nơi mình đăng ký và bị giám sát định kỳ; nếu hoạt động ở nước ngoài, nó có thể chịu thêm sự quản lý của nước sở tại. Cơ quan quản lý có quyền rộng để can thiệp vào ngân hàng gặp khó khăn nhằm giảm gián đoạn cho nền kinh tế.
+
+**Nội dung quy định.** Quy định thường nhằm hạn chế bốn loại rủi ro:
+
+- rủi ro tín dụng (người vay không trả nợ);
+- rủi ro thị trường (giá tài sản ngân hàng nắm giữ giảm);
+- rủi ro thanh khoản (không đủ tiền mặt khi bị đòi);
+- rủi ro mất khả năng thanh toán nói chung.
+
+Sau khủng hoảng, quy định được siết theo ba hướng chính:
+
+| Yêu cầu mới | Nội dung |
+|---|---|
+| Vốn chủ nhiều hơn và chất lượng cao hơn | Chủ yếu là lợi nhuận giữ lại và vốn góp, để làm đệm hấp thụ lỗ |
+| Vốn bổ sung cho ngân hàng toàn cầu lớn | Phản ánh tác động mà sự đổ vỡ của họ có thể gây ra cho ổn định của hệ thống tài chính toàn cầu, tức rủi ro hệ thống |
+| Thanh khoản và nguồn vốn | Mức tài sản lỏng tối thiểu và yêu cầu có nguồn vốn dài hạn ổn định |
+
+**Ngân hàng bóng tối.** Cuối cùng, bài lưu ý cơ quan quản lý đang xem xét tầm quan trọng ngày càng tăng của các định chế làm những việc giống ngân hàng nhưng không bị quản lý như ngân hàng, gọi chung là ngân hàng bóng tối: công ty tài chính, ngân hàng đầu tư và quỹ tương hỗ thị trường tiền tệ. Cuộc khủng hoảng gần đây đã làm lộ ra tầm quan trọng mang tính hệ thống của những định chế này, và các cơ quan quản lý đang cân nhắc phương án quản lý chúng.
 
 ## Thuật ngữ
 

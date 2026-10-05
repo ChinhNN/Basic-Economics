@@ -94,33 +94,98 @@
 2. Vì sao stablecoin đi ngược lý tưởng crypto, và nó dùng để làm gì?
 3. Stablecoin có rủi ro gì và nên quản lý thế nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tiền mã hoá không bảo đảm (unbacked crypto asset).** Một loại tài sản số như bitcoin, không có tổ chức nào đứng ra cam kết đổi nó lấy tiền hay tài sản thật. Giá của nó chỉ do người mua và người bán quyết định trên thị trường, nên có thể tăng hay giảm vài chục phần trăm trong vài tuần. Ví dụ minh hoạ: nếu bạn bán một chiếc xe lấy 1 bitcoin khi bitcoin đáng 40.000 USD, rồi một tháng sau giá còn 28.000 USD, thì bạn đã mất 30% giá trị chiếc xe. Khái niệm này quan trọng vì chính sự biến động đó là lý do stablecoin ra đời.
+
+**Ba chức năng của tiền.** Một thứ được coi là tiền khi làm được ba việc: phương tiện thanh toán (dùng để trả tiền mua hàng), kho giá trị (cất đi hôm nay vẫn mua được lượng hàng tương tự sau này) và đơn vị tính (dùng để niêm yết giá). Ví dụ minh hoạ: một cửa hàng không thể niêm yết bát phở bằng bitcoin nếu sáng giá 0,0001 bitcoin, chiều phải sửa thành 0,00012. Bài dùng chính tiêu chí này để giải thích vì sao crypto khó dùng để thanh toán.
+
+**Stablecoin.** Loại tiền mã hoá được thiết kế để giữ giá ổn định so với một tài sản hay rổ tài sản chỉ định: một đồng tiền như USD hay euro, một rổ tiền tệ, hàng hoá như vàng, hoặc một tiền mã hoá không bảo đảm. Ví dụ minh hoạ: một stablecoin neo USD luôn nhắm giá 1 USD; muốn có 100 đơn vị thì bạn nộp 100 USD cho nhà phát hành. Đây là đối tượng của cả bài.
+
+**Phát hành, thu hồi và lưu ký (mint, burn, custodian).** "Phát hành" là tạo ra đơn vị stablecoin mới khi có người nộp tiền vào; "thu hồi" là xoá đơn vị đó khi người dùng đổi lại ra tiền. Tổ chức lưu ký là bên giữ khoản dự trữ (thường là tiền pháp định) làm bảo đảm. Ví dụ minh hoạ: nếu đang lưu hành 1 triệu đơn vị neo USD, kho dự trữ phải có khoảng 1 triệu USD. Bài nhấn mạnh rằng các việc này cần tổ chức tập trung, tức đi ngược lý tưởng phi tập trung.
+
+**Tiền pháp định (fiat currency).** Tiền do chính phủ phát hành và có giá trị nhờ luật pháp và niềm tin vào nhà nước, như USD hay euro. Ví dụ: tờ 100 USD có giá trị vì mọi người ở Mỹ buộc phải chấp nhận nó để thanh toán nợ. Khái niệm này quan trọng vì hầu hết stablecoin lại dựa vào chính thứ tiền mà phong trào crypto muốn thoát ra.
+
+**Stablecoin thuật toán (algorithmic stablecoin) và mất neo (de-pegging).** Stablecoin thuật toán không có đủ dự trữ thật mà giữ giá bằng một quy tắc tự động tăng hay giảm lượng phát hành theo cung cầu, đôi khi kèm bảo đảm bằng tiền mã hoá không bảo đảm. "Mất neo" là khi giá rời xa mức mục tiêu. Ví dụ: TerraUSD, khi đó là stablecoin lớn thứ ba, mất neo giữa năm 2022 sau một đợt rút tiền ồ ạt. Đây là bằng chứng chính của bài cho luận điểm stablecoin không phải loại nào cũng ổn định.
+
+**Đô la hoá qua tiền mã hoá (cryptoization).** Hiện tượng người dân ở nước có lạm phát cao hay tiền tệ mất giá chuyển sang giữ stablecoin neo USD thay cho tiền trong nước. Ví dụ minh hoạ: nếu tiền nội địa mất 20% giá trị mỗi năm, giữ một stablecoin neo USD giúp người dân bảo toàn sức mua. Bài nêu hiện tượng này vì nó vừa là công dụng thật vừa là mối lo cho ngân hàng trung ương.
+
+**Tài chính toàn diện (financial inclusion).** Tỷ lệ người dân, nhất là người nghèo, tiếp cận được dịch vụ tài chính cơ bản như tài khoản, chuyển tiền, tiết kiệm. Ví dụ trong bài: ở Kenya tỷ lệ này tăng từ 14% lên 83% trong giai đoạn 2006–2019 nhờ tiền di động, không nhờ crypto. Khái niệm này quan trọng vì nó là lợi ích hay được nêu nhất của stablecoin, và bài phản bác nó.
+
+## Nội dung chi tiết
 
 ### 1. Từ cách mạng đến stablecoin
 
-- Ra mắt 2009, cách mạng crypto không chỉ về tài chính. Khủng hoảng tài chính làm lung lay niềm tin vào ngân hàng và chính phủ cứu trợ họ. Với người muốn né thể chế truyền thống và tìm cách thanh toán thay thế, Bitcoin và công nghệ blockchain hứa hẹn phi tập trung và dân chủ hoá dịch vụ tài chính, đặt quyền lực vào tay người dân. Tầm nhìn này vẫn hấp dẫn.
-- Vấn đề: đầu cơ sớm tràn vào. Thay vì chi tiêu bitcoin và crypto khác, họ tích trữ mong giá tăng mãi. Crypto khó chứng minh tiềm năng làm công cụ thanh toán, thành cược đầu cơ. Hàng nghìn "altcoin" biến động, nhiều cái chỉ là kế làm giàu nhanh, càng khó dùng để giao dịch. Làm sao trả tiền bằng tài sản không phải kho giá trị ổn định hay đơn vị tính tin cậy?
-- **Định nghĩa:** stablecoin là crypto nhằm giữ giá trị ổn định so với một tài sản hoặc rổ tài sản chỉ định: đơn vị tiền tệ như USD hay euro, rổ tiền tệ, hàng hoá như vàng, hoặc crypto không bảo đảm. Ổn định này chỉ đạt được nếu một tổ chức tập trung phụ trách phát hành (mint) và thu hồi (burn), và một tổ chức tập trung khác (lưu ký) giữ dự trữ tương ứng (thường tiền pháp định do chính phủ phát hành) bảo đảm từng đơn vị stablecoin.
+Tiền mã hoá ra mắt năm 2009, ngay sau khủng hoảng tài chính toàn cầu, và cuộc "cách mạng crypto" khi đó không chỉ là chuyện tài chính. Khủng hoảng làm lung lay niềm tin của nhiều người vào ngân hàng và vào các chính phủ đã bỏ tiền ra cứu những ngân hàng ấy. Với những ai muốn tránh thể chế tài chính truyền thống và tìm một cách thanh toán khác, Bitcoin và công nghệ chuỗi khối (*blockchain*) hứa hẹn hai điều: phi tập trung (không có một tổ chức nào nắm quyền kiểm soát) và dân chủ hoá dịch vụ tài chính, tức trao quyền lực về tay người dân. Theo các tác giả, tầm nhìn đó đến nay vẫn hấp dẫn.
+
+Vấn đề là giới đầu cơ đã tràn vào từ rất sớm. Thay vì dùng bitcoin và các crypto khác để chi tiêu, người ta tích trữ với hy vọng giá tăng mãi. Kết quả là crypto khó chứng minh được nó có thể làm công cụ thanh toán, mà trở thành một ván cược đầu cơ. Hàng nghìn "altcoin" (các đồng crypto khác ngoài Bitcoin) ra đời, giá biến động mạnh, nhiều đồng chỉ là kế làm giàu nhanh, khiến việc dùng crypto để giao dịch càng khó. Câu hỏi đặt ra rất đơn giản: làm sao trả tiền bằng một tài sản vừa không phải kho giá trị ổn định, vừa không phải đơn vị tính đáng tin cậy?
+
+Stablecoin là câu trả lời. Đó là loại crypto nhằm giữ giá trị ổn định so với một tài sản hay một rổ tài sản chỉ định. Tài sản đó có thể là:
+
+- một đơn vị tiền tệ như USD hay euro;
+- một rổ nhiều đồng tiền;
+- một hàng hoá như vàng;
+- hoặc một crypto không bảo đảm.
+
+Điều mấu chốt là sự ổn định này chỉ đạt được khi có **một tổ chức tập trung** lo việc phát hành (*mint*) và thu hồi (*burn*) stablecoin, cùng **một tổ chức tập trung khác** (tổ chức lưu ký) giữ khoản dự trữ tương ứng, thường là tiền pháp định do chính phủ phát hành, để bảo đảm cho từng đơn vị stablecoin đang lưu hành.
 
 ### 2. Tập trung hoá tài chính
 
-- Diễn biến này trái tầm nhìn gốc. Thay vì phi tập trung, nhiều stablecoin có tính tập trung. Thay vì rời tiền pháp định, hầu hết loại stablecoin phụ thuộc căn bản vào nó để ổn định giá. Thay vì bỏ trung gian, chúng tạo trung gian tập trung mới: nhà phát hành (giữ dữ liệu người dùng), quản lý dự trữ (thường ngân hàng thương mại), quản trị mạng (có thể đổi luật mạng), sàn và ví (có thể chặn giao dịch). Với blockchain minh bạch và yêu cầu tuân thủ chống rửa tiền, stablecoin có thể kém riêng tư hơn kênh thanh toán hiện có.
-- **Vậy tồn tại để làm gì?** Chủ yếu để người dùng ở lại vũ trụ crypto mà không cần rút ra tiền pháp định. Dùng mua crypto không bảo đảm, tiếp cận và vận hành trong tài chính phi tập trung (DeFi). Chúng là yếu tố then chốt cho tăng trưởng thị trường crypto và DeFi.
-- Ở một số thị trường mới nổi và nước đang phát triển, stablecoin định giá USD có thể phổ biến làm kho giá trị và phòng hộ lạm phát, mất giá tiền tệ. Từ góc nhìn người dùng, "cryptoization" này là cách bảo vệ lợi ích tài chính trước áp lực vĩ mô và thể chế tài chính yếu. Nơi không được quản lý, stablecoin có thể né kiểm soát dòng vốn và làm phức tạp quản lý vĩ mô của ngân hàng trung ương.
-- Với một số người, stablecoin là tương lai thanh toán. Ở nhiều nền kinh tế, phần lớn tiền lưu hành không phải tiền ngân hàng trung ương mà là tiền ngân hàng thương mại phát hành tư nhân. Blockchain có tiềm năng tăng tốc và giảm chi phí dịch vụ ngân hàng truyền thống, nhất là kiều hối xuyên biên giới. Có thể lập luận stablecoin sẽ là tiền tư nhân của tương lai.
+Diễn biến này đi ngược tầm nhìn ban đầu của crypto ở ba điểm:
+
+| Tầm nhìn gốc | Thực tế của stablecoin |
+|---|---|
+| Phi tập trung | Nhiều stablecoin mang tính tập trung |
+| Rời bỏ tiền pháp định | Hầu hết phụ thuộc căn bản vào tiền pháp định để giữ giá |
+| Bỏ trung gian | Tạo ra các trung gian tập trung mới |
+
+Các trung gian mới gồm: nhà phát hành (nắm giữ dữ liệu người dùng), bên quản lý dự trữ (thường là ngân hàng thương mại), bên quản trị mạng lưới (có thể thay đổi luật lệ của mạng) và các sàn giao dịch, ví điện tử (có thể chặn giao dịch). Thêm vào đó, vì chuỗi khối ghi lại mọi giao dịch một cách công khai, và vì các bên phải tuân thủ quy định chống rửa tiền, stablecoin thậm chí có thể **kém riêng tư hơn** các kênh thanh toán hiện có.
+
+**Vậy stablecoin tồn tại để làm gì?** Bài nêu bốn công dụng.
+
+Thứ nhất và quan trọng nhất, stablecoin cho phép người dùng **ở lại trong thế giới crypto** mà không phải đổi ra tiền pháp định. Người ta dùng nó để mua các crypto không bảo đảm, và để tham gia, vận hành trong tài chính phi tập trung (DeFi). Vì thế stablecoin là yếu tố then chốt cho sự tăng trưởng của thị trường crypto và DeFi.
+
+Thứ hai, ở một số thị trường mới nổi và nước đang phát triển, stablecoin định giá bằng USD có thể trở thành **kho giá trị** và công cụ phòng ngừa lạm phát, mất giá tiền tệ. Bài gọi hiện tượng này là "cryptoization". Nhìn từ phía người dân, đây là cách tự bảo vệ trước áp lực kinh tế vĩ mô và trước các thể chế tài chính yếu. Nhưng nơi stablecoin không được quản lý, nó có thể bị dùng để **né kiểm soát dòng vốn** và làm việc điều hành kinh tế vĩ mô của ngân hàng trung ương thêm phức tạp.
+
+Thứ ba, với một số người, stablecoin là **tương lai của thanh toán**. Lập luận của họ: ở nhiều nền kinh tế, phần lớn tiền đang lưu hành không phải tiền của ngân hàng trung ương mà là tiền do các ngân hàng thương mại tư nhân tạo ra (số dư tiền gửi). Như vậy tiền tư nhân không có gì mới. Nếu chuỗi khối giúp dịch vụ ngân hàng nhanh hơn, rẻ hơn, nhất là chuyển kiều hối qua biên giới, thì có thể lập luận stablecoin sẽ là tiền tư nhân của tương lai.
 
 ### 3. Đồng tiền không ổn định
 
-- **Thứ nhất, không phải stablecoin nào cũng ổn định.** Hầu hết dao động quanh giá mong muốn thay vì bám chặt. Một số lệch đáng kể, đặc biệt stablecoin thuật toán: ổn định giá bằng thuật toán điều chỉnh phát hành theo cung cầu, đôi khi kết hợp bảo đảm bằng crypto không bảo đảm. Chúng cực kỳ rủi ro, dễ mất neo khi có cú sốc lớn tự khuếch đại một khi bắt đầu, như TerraUSD cho thấy. Stablecoin này mất neo giữa 2022 sau khi người dùng rút ồ ạt kiểu ngân hàng. Sụp đổ của TerraUSD, khi đó lớn thứ ba, gây hiệu ứng lan toả khắp thị trường crypto. Lan toả tương tự tương lai có thể vượt ra ngoài crypto: nhiều stablecoin giữ dự trữ bằng công cụ tài chính truyền thống, và mức phơi nhiễm crypto của tổ chức tài chính truyền thống đã tăng.
-- **Thứ hai, công nghệ sổ cái phân tán chưa được thử ở quy mô lớn** cho thanh toán. Có thể làm kiều hối xuyên biên giới và thanh toán bán buôn hiệu quả hơn chút, nhưng không hẳn hơn nhiều so với hệ thống thanh toán nội địa, nhất là ở nước tiên tiến.
-- Tài chính toàn diện thường được nêu là lợi ích, nhưng hầu hết người dùng có học, tương đối trẻ, đã có tài khoản ngân hàng. Trừ khi giao dịch ngoài blockchain (càng xa lý tưởng minh bạch, phi tập trung), stablecoin đôi khi đắt hơn tiền di động hay tiền điện tử. Các lựa chọn phi crypto này nâng tài chính toàn diện ở Kenya từ 14% lên 83% trong 2006–2019.
+Bài đưa ra ba lý do để thận trọng. Hai lý do đầu nằm ở mục này, lý do thứ ba (quản lý) ở mục 4.
+
+**Lý do thứ nhất: không phải stablecoin nào cũng ổn định.** Đa số dao động quanh mức giá mong muốn chứ không bám chặt. Một số lệch đáng kể, nhất là **stablecoin thuật toán**: loại này giữ giá bằng một thuật toán tự điều chỉnh lượng phát hành theo cung cầu, đôi khi kết hợp với bảo đảm bằng crypto không bảo đảm. Chúng cực kỳ rủi ro vì dễ mất neo khi gặp cú sốc lớn, và một khi đã bắt đầu mất neo thì quá trình tự khuếch đại: giá giảm khiến người dùng bán ra, bán ra lại làm giá giảm tiếp.
+
+TerraUSD là ví dụ. Đồng này mất neo vào giữa năm 2022 sau khi người dùng ồ ạt rút ra, giống hệt một vụ rút tiền hàng loạt khỏi ngân hàng. TerraUSD lúc đó là stablecoin lớn thứ 3 (thứ ba) thế giới, và sự sụp đổ của nó lan ra khắp thị trường crypto. Bài cảnh báo rằng trong tương lai, những cú lan toả như vậy có thể vượt ra khỏi thị trường crypto, vì hai lý do: nhiều stablecoin giữ dự trữ bằng các công cụ tài chính truyền thống, và các tổ chức tài chính truyền thống ngày càng nắm giữ nhiều crypto hơn.
+
+**Lý do thứ hai: công nghệ chưa được thử ở quy mô lớn.** Công nghệ sổ cái phân tán (nền tảng của chuỗi khối) chưa được kiểm chứng cho thanh toán ở quy mô lớn. Nó có thể làm chuyển kiều hối qua biên giới và thanh toán bán buôn (giữa các tổ chức tài chính) hiệu quả hơn một chút, nhưng chưa chắc hơn nhiều so với các hệ thống thanh toán nội địa, nhất là ở các nước tiên tiến vốn đã có hệ thống tốt.
+
+Lợi ích hay được nhắc nhất là **tài chính toàn diện**, nhưng bài phản bác bằng hai quan sát:
+
+- Đa số người dùng crypto là người có học, tương đối trẻ và **đã có tài khoản ngân hàng**, tức không phải nhóm bị loại khỏi hệ thống tài chính.
+- Trừ khi giao dịch được thực hiện ngoài chuỗi khối (điều càng đưa stablecoin xa lý tưởng minh bạch và phi tập trung), stablecoin đôi khi còn **đắt hơn** tiền di động hay tiền điện tử thông thường.
+
+Bằng chứng là Kenya: nhờ tiền di động, một giải pháp không dùng crypto, tỷ lệ tiếp cận dịch vụ tài chính ở Kenya tăng từ 14% lên 83% trong giai đoạn 2006–2019.
 
 ### 4. Thách thức quản lý
 
-- Rào cản quản lý có thể xuất hiện. Cơ quan quản lý hệ thống thanh toán nội địa có thể không cho stablecoin làm công cụ thanh toán mua hàng hoá dịch vụ và tích hợp với hệ thống nội địa. Stablecoin (và crypto nói chung) chưa được quản lý về hành vi và an toàn ở nhiều nơi. Dù một số quy định chống rửa tiền có thể áp dụng, người dùng không được bảo vệ khi có sự cố: có thể lỗ lớn không được bồi thường nếu stablecoin giả được phát hành, nhà phát hành nói có bảo đảm nhưng không, stablecoin bị trộm, hoặc không truy cập hay thu hồi được ngang giá.
-- Trước rủi ro, một số cơ quan tìm cách quản lý stablecoin tương tự tổ chức tài chính truyền thống, với quy tắc khác nhau theo mô hình kinh doanh, rủi ro kinh tế, chức năng. Stablecoin không do ngân hàng phát hành và dùng thanh toán quy mô nhỏ: quy định thanh toán điều chỉnh. Stablecoin dự trữ kém thanh khoản và dùng đầu tư: yêu cầu tương tự chứng khoán.
-- Một đề xuất nhiều cơ quan nêu là áp quy định kiểu ngân hàng cho stablecoin, nhất là nếu dùng rộng rãi cho thanh toán. Khi đó, stablecoin sẽ thành chính ngân hàng mà crypto định thay thế.
-- Đổi mới nào cho người dân thêm lựa chọn, giảm quyền lực của tổ chức quá lớn để sụp đổ, và tăng tiếp cận dịch vụ tài chính đều đáng khám phá. Có quản lý đúng, stablecoin có thể đóng vai trò giá trị mang lại lợi ích đó, nhưng không tự làm được một mình. Và chúng xa tầm nhìn cách mạng của người tạo ra crypto.
+**Lý do thứ ba: rào cản quản lý.** Cơ quan quản lý hệ thống thanh toán trong nước có thể không cho phép stablecoin được dùng để trả tiền hàng hoá, dịch vụ, cũng như không cho nó kết nối vào hệ thống thanh toán nội địa. Ở nhiều nơi, stablecoin (và crypto nói chung) chưa chịu quy định nào về hành vi kinh doanh và về an toàn. Một số quy định chống rửa tiền có thể được áp dụng, nhưng khi có sự cố thì người dùng không được bảo vệ. Họ có thể mất lớn mà không được bồi thường trong các tình huống như:
+
+- stablecoin giả được phát hành;
+- nhà phát hành nói có dự trữ bảo đảm nhưng thực tế không có;
+- stablecoin bị đánh cắp;
+- người dùng không truy cập được hoặc không đổi lại được theo đúng mệnh giá.
+
+Trước các rủi ro này, một số cơ quan quản lý tìm cách quản lý stablecoin giống các tổ chức tài chính truyền thống, với quy tắc khác nhau tuỳ mô hình kinh doanh, mức rủi ro kinh tế và chức năng:
+
+| Loại stablecoin | Cách quản lý phù hợp |
+|---|---|
+| Không do ngân hàng phát hành, dùng cho thanh toán quy mô nhỏ | Quy định về dịch vụ thanh toán |
+| Dự trữ kém thanh khoản, dùng để đầu tư | Yêu cầu tương tự chứng khoán |
+| Được dùng rộng rãi cho thanh toán | Quy định kiểu ngân hàng |
+
+Đề xuất áp dụng quy định kiểu ngân hàng được nhiều cơ quan nêu ra, nhất là nếu stablecoin được dùng rộng rãi để thanh toán. Nhưng khi đó, nghịch lý đi đến cùng: **stablecoin sẽ trở thành chính những ngân hàng mà crypto định thay thế.**
+
+Bài kết bằng một nhận định cân bằng. Mọi đổi mới giúp người dân có thêm lựa chọn, làm giảm quyền lực của các tổ chức "quá lớn để sụp đổ" và mở rộng tiếp cận dịch vụ tài chính đều đáng được tìm hiểu. Nếu được quản lý đúng cách, stablecoin có thể góp phần đem lại những lợi ích đó, nhưng không thể tự mình làm được. Và dù thế nào, stablecoin cũng đã đi rất xa tầm nhìn cách mạng của những người tạo ra crypto.
 
 ## Thuật ngữ
 

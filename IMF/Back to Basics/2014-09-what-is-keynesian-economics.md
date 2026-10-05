@@ -100,39 +100,128 @@
 2. Ba nguyên lý và đơn thuốc chính sách Keynesian?
 3. Trường phái này tiến hoá và hồi sinh ra sao?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tổng cầu (aggregate demand).** Tổng số tiền mà mọi người trong nền kinh tế muốn chi để mua hàng hoá và dịch vụ trong một thời kỳ: chi tiêu của hộ gia đình, đầu tư của doanh nghiệp, mua sắm của chính phủ, cộng phần người nước ngoài mua của ta trừ đi phần ta mua của họ. Ví dụ minh hoạ: một nền kinh tế có tiêu dùng 60, đầu tư 20, mua sắm chính phủ 15 và xuất khẩu ròng 5 thì tổng cầu là 100. Nếu hộ gia đình sợ mất việc và cắt tiêu dùng xuống 55, tổng cầu chỉ còn 95, và doanh nghiệp sẽ chỉ sản xuất những gì bán được. Khái niệm này là trụ cột của Keynes: ông cho rằng chính tổng cầu, chứ không phải năng lực sản xuất, quyết định sản lượng và việc làm trong ngắn hạn.
+
+**Toàn dụng (full employment).** Tình trạng ai muốn đi làm ở mức lương hiện hành cũng tìm được việc. Ví dụ minh hoạ: nếu 100 người muốn làm việc và 100 người có việc thì nền kinh tế ở trạng thái toàn dụng; nếu chỉ 85 người có việc thì 15 người thất nghiệp không phải vì họ lười hay đòi lương quá cao, mà vì không đủ chỗ làm. Bài quan trọng vì Keynes bác bỏ quan niệm thịnh hành trước ông rằng thị trường tự do luôn tự đưa nền kinh tế về toàn dụng, miễn là người lao động chịu hạ lương.
+
+**Chu kỳ kinh doanh (business cycle).** Sự lên xuống lặp lại của hoạt động kinh tế: có giai đoạn bùng nổ (sản xuất tăng nhanh, thất nghiệp thấp) và giai đoạn suy sụp (sản xuất giảm, thất nghiệp tăng). Ví dụ minh hoạ: tăng trưởng 6% trong ba năm liền, rồi giảm xuống âm 2% khi xảy ra khủng hoảng. Người theo Keynes coi việc thu hẹp biên độ của những dao động này là một trong những nhiệm vụ kinh tế quan trọng nhất của nhà nước.
+
+**Giá và lương cứng (sticky prices/wages).** Giá cả và tiền lương không điều chỉnh ngay khi cung cầu thay đổi, vì có hợp đồng, có thói quen, và vì người lao động không chấp nhận bị cắt lương danh nghĩa. Ví dụ minh hoạ: khi doanh số giảm 20%, một nhà máy hiếm khi cắt lương mọi người 20%; họ thường giữ lương và cho bớt người nghỉ việc. Vì giá và lương không tự hạ để "dọn sạch" thị trường, cú sốc về cầu biến thành cú sốc về sản lượng và việc làm.
+
+**Hiệu ứng số nhân và số nhân tài khoá (multiplier effect, fiscal multiplier).** Một khoản chi tiêu mới tạo ra thu nhập cho người nhận, người đó lại tiêu một phần, tạo thu nhập cho người khác, và cứ thế. Tổng sản lượng tăng thêm vì thế có thể lớn hơn khoản chi ban đầu. Số nhân tài khoá là tỷ lệ giữa sản lượng tăng thêm và khoản chi của chính phủ. Ví dụ minh hoạ: chính phủ chi 1 tỷ đồng xây đường; nếu sản lượng cuối cùng tăng 1,5 tỷ thì số nhân là 1,5. Bài nhấn mạnh: nếu số nhân lớn hơn 1 thì 1 đô la chi tiêu của chính phủ làm sản lượng tăng hơn 1 đô la, và đây là lý do kích thích tài khoá có sức mạnh trong suy thoái.
+
+**Chính sách tài khoá phản chu kỳ (countercyclical fiscal policy).** Chính phủ hành động ngược chiều chu kỳ: chi nhiều hơn và chấp nhận thâm hụt khi kinh tế suy giảm, tăng thuế để làm nguội khi kinh tế quá nóng. Ví dụ minh hoạ: khi thất nghiệp tăng, chính phủ vay thêm để làm đường, cầu, kênh mương thuê nhiều lao động; khi cầu tăng quá nhanh và giá bắt đầu leo thang, chính phủ tăng thuế để hút bớt sức mua. Đây là "đơn thuốc" đặc trưng của trường phái Keynes.
+
+**Bẫy thanh khoản (liquidity trap).** Tình huống ngân hàng trung ương bơm thêm tiền nhưng lãi suất không giảm được nữa (thường vì đã gần 0), nên tiền thêm không kích thích được đầu tư và sản lượng. Ví dụ minh hoạ: lãi suất đã ở 0,1%, ngân hàng trung ương tăng gấp đôi lượng tiền nhưng người ta chỉ giữ tiền mặt chứ không vay để đầu tư thêm. Bài coi đây là ngoại lệ khiến chính sách tiền tệ mất tác dụng, và khi đó gánh nặng dồn sang chính sách tài khoá.
+
+**Lạm phát đình đốn (stagflation).** Tình trạng vừa lạm phát cao vừa tăng trưởng chậm, thất nghiệp cao. Ví dụ minh hoạ: giá cả tăng 10% một năm trong khi kinh tế gần như không tăng trưởng. Đây là hiện tượng của thập niên 1970 mà lý thuyết Keynes thời đó không có lời giải, và là lý do trường phái này suy yếu.
+
+**Trung lập dài hạn của tiền (long-run neutrality of money).** Về lâu dài, thay đổi lượng tiền chỉ làm thay đổi các biến tính bằng tiền (giá, lương danh nghĩa) chứ không thay đổi các biến thực (sản lượng, việc làm). Ví dụ minh hoạ: nếu lượng tiền tăng gấp đôi, về lâu dài mọi giá và mọi mức lương cũng gấp đôi, còn số người có việc và số hàng làm ra như cũ. Người theo Keynes tiếp thu ý này từ phái trọng tiền.
+
+## Nội dung chi tiết
 
 ### 1. Bối cảnh và ý tưởng cách mạng
 
-- Trong Đại Suy thoái thập niên 1930, lý thuyết kinh tế hiện có không giải thích được nguyên nhân của sự sụp đổ nghiêm trọng toàn cầu, cũng không đưa ra giải pháp chính sách công phù hợp để khởi động lại sản xuất và việc làm.
-- Nhà kinh tế Anh John Maynard Keynes dẫn đầu cuộc cách mạng tư duy kinh tế, lật đổ quan niệm thịnh hành khi đó rằng thị trường tự do tự động tạo toàn dụng, tức ai muốn việc cũng có miễn là linh hoạt trong đòi hỏi lương. Trụ cột chính của lý thuyết mang tên ông là khẳng định tổng cầu, đo bằng tổng chi tiêu của hộ gia đình, doanh nghiệp và chính phủ, là động lực quan trọng nhất của nền kinh tế. Keynes còn khẳng định thị trường tự do không có cơ chế tự cân bằng dẫn tới toàn dụng. Nhà kinh tế Keynesian biện minh cho can thiệp của chính phủ qua chính sách công nhằm đạt toàn dụng và ổn định giá.
-- Keynes lập luận cầu tổng thể không đủ có thể dẫn đến thời kỳ dài thất nghiệp cao. Sản lượng hàng hoá dịch vụ của nền kinh tế là tổng bốn thành phần: tiêu dùng, đầu tư, mua sắm chính phủ và xuất khẩu ròng (chênh lệch giữa bán ra và mua vào từ nước ngoài). Bất kỳ tăng cầu nào cũng phải đến từ một trong bốn. Nhưng trong suy thoái, các lực mạnh thường dập tắt cầu khi chi tiêu giảm. Ví dụ, trong suy giảm kinh tế, bất định thường xói mòn niềm tin người tiêu dùng, khiến họ giảm chi tiêu, nhất là với mua sắm tuỳ ý như nhà hay xe. Việc người tiêu dùng giảm chi có thể dẫn đến doanh nghiệp giảm chi đầu tư khi họ phản ứng với cầu yếu đi cho sản phẩm của mình. Điều này đặt nhiệm vụ tăng sản lượng lên vai chính phủ. Theo kinh tế học Keynes, can thiệp nhà nước là cần thiết để điều tiết các đợt bùng nổ và suy sụp của hoạt động kinh tế, còn gọi là chu kỳ kinh doanh.
+Kinh tế học Keynes ra đời từ một thất bại của lý thuyết. Trong Đại Suy thoái thập niên 1930, sản xuất và việc làm sụp đổ nghiêm trọng trên toàn cầu, nhưng lý thuyết kinh tế hiện có khi đó không giải thích được vì sao sự sụp đổ xảy ra, cũng không đưa ra được giải pháp chính sách công nào phù hợp để khởi động lại sản xuất và việc làm.
+
+Nhà kinh tế Anh John Maynard Keynes dẫn đầu một cuộc cách mạng trong tư duy kinh tế. Ông lật đổ quan niệm thịnh hành lúc đó rằng thị trường tự do sẽ tự động tạo ra toàn dụng, tức là ai muốn có việc cũng sẽ có, miễn là người lao động linh hoạt trong đòi hỏi về lương. Thay vào đó, lý thuyết mang tên ông dựa trên hai khẳng định:
+
+- **Tổng cầu là động lực quan trọng nhất của nền kinh tế.** Tổng cầu được đo bằng tổng chi tiêu của hộ gia đình, doanh nghiệp và chính phủ.
+- **Thị trường tự do không có cơ chế tự cân bằng** đưa nền kinh tế về toàn dụng. Nếu chi tiêu sụt giảm, không có lực tự nhiên nào chắc chắn kéo nó trở lại đủ nhanh.
+
+Từ hai khẳng định đó, các nhà kinh tế theo Keynes biện minh cho việc nhà nước can thiệp bằng chính sách công nhằm đạt toàn dụng và ổn định giá.
+
+Keynes lập luận rằng khi cầu tổng thể không đủ, nền kinh tế có thể rơi vào một thời kỳ dài thất nghiệp cao. Lập luận của ông bắt đầu từ một đẳng thức kế toán: sản lượng hàng hoá và dịch vụ của nền kinh tế bằng tổng của bốn thành phần.
+
+| Thành phần | Ai chi | Ví dụ |
+|---|---|---|
+| Tiêu dùng | Hộ gia đình | Thực phẩm, nhà, xe |
+| Đầu tư | Doanh nghiệp | Nhà xưởng, máy móc |
+| Mua sắm chính phủ | Nhà nước | Đường sá, trường học |
+| Xuất khẩu ròng | Người nước ngoài trừ đi phần ta mua của họ | Chênh lệch giữa bán ra và mua vào từ nước ngoài |
+
+Vì sản lượng là tổng của bốn thành phần này, bất kỳ sự tăng cầu nào cũng phải đến từ một trong bốn. Vấn đề là trong suy thoái, có những lực mạnh cùng lúc đè cầu xuống. Chuỗi diễn biến điển hình như sau:
+
+1. Kinh tế suy giảm làm tăng bất định, và bất định xói mòn niềm tin của người tiêu dùng.
+2. Người tiêu dùng cắt chi tiêu, nhất là các khoản mua sắm tuỳ ý có thể hoãn lại như nhà hay xe.
+3. Doanh nghiệp thấy cầu cho sản phẩm của mình yếu đi nên cắt chi đầu tư.
+4. Hai thành phần lớn nhất của tổng cầu cùng giảm, sản lượng và việc làm giảm theo.
+
+Khi hộ gia đình và doanh nghiệp đều thu mình lại, chỉ còn chính phủ có thể đẩy cầu lên. Vì vậy, theo Keynes, gánh nặng tăng sản lượng đặt lên vai chính phủ. Can thiệp nhà nước là cần thiết để điều tiết các đợt bùng nổ và suy sụp của hoạt động kinh tế, tức là chu kỳ kinh doanh.
 
 ### 2. Ba nguyên lý
 
-- **Tổng cầu chịu ảnh hưởng của nhiều quyết định kinh tế, công và tư.** Quyết định khu vực tư nhân đôi khi dẫn đến kết quả vĩ mô bất lợi, như giảm chi tiêu tiêu dùng trong suy thoái. Những thất bại thị trường này đôi khi đòi hỏi chính sách chủ động của chính phủ, như gói kích thích tài khoá. Do đó, kinh tế học Keynes ủng hộ nền kinh tế hỗn hợp chủ yếu do khu vực tư nhân dẫn dắt nhưng phần nào do chính phủ vận hành.
-- **Giá, và đặc biệt là lương, phản ứng chậm với thay đổi cung cầu,** dẫn đến thiếu hụt và dư thừa định kỳ, nhất là của lao động.
-- **Thay đổi tổng cầu, dù dự kiến hay không, có tác động lớn nhất trong ngắn hạn lên sản lượng thực và việc làm, không phải lên giá.** Người Keynesian tin rằng vì giá khá cứng, dao động ở bất kỳ thành phần chi tiêu nào (tiêu dùng, đầu tư hay chi tiêu chính phủ) khiến sản lượng thay đổi. Nếu chi tiêu chính phủ tăng và mọi thành phần chi tiêu khác không đổi thì sản lượng sẽ tăng. Mô hình Keynesian cũng bao gồm hiệu ứng số nhân: sản lượng thay đổi theo một bội số của mức tăng hay giảm chi tiêu gây ra thay đổi đó. Nếu số nhân tài khoá lớn hơn một, tăng chi tiêu chính phủ một đô la sẽ làm sản lượng tăng hơn một đô la.
+Bài tóm kinh tế học Keynes vào ba nguyên lý.
+
+**Nguyên lý 1: Tổng cầu chịu ảnh hưởng của nhiều quyết định kinh tế, cả công lẫn tư.** Quyết định của khu vực tư nhân, dù hợp lý với từng người, đôi khi dẫn đến kết quả vĩ mô bất lợi. Ví dụ điển hình là việc mọi hộ gia đình cùng cắt chi tiêu trong suy thoái: mỗi hộ thận trọng là đúng, nhưng khi tất cả cùng làm thì doanh nghiệp bán được ít hơn, sa thải nhiều hơn, và suy thoái sâu thêm. Những thất bại thị trường như vậy đôi khi đòi hỏi chính phủ có chính sách chủ động, chẳng hạn một gói kích thích tài khoá. Do đó kinh tế học Keynes ủng hộ một **nền kinh tế hỗn hợp**: chủ yếu do khu vực tư nhân dẫn dắt, nhưng có một phần do nhà nước vận hành.
+
+**Nguyên lý 2: Giá, và đặc biệt là lương, phản ứng chậm với thay đổi cung cầu.** Vì giá và lương không điều chỉnh tức thì, thị trường không "dọn sạch" ngay được. Kết quả là có những đợt thiếu hụt và dư thừa định kỳ, nhất là của lao động: khi cầu giảm mà lương không giảm, doanh nghiệp thuê ít người hơn và thất nghiệp xuất hiện.
+
+**Nguyên lý 3: Thay đổi tổng cầu, dù được dự kiến trước hay không, có tác động lớn nhất trong ngắn hạn lên sản lượng thực và việc làm, chứ không phải lên giá.** Đây là hệ quả trực tiếp của nguyên lý 2. Vì giá khá cứng, khi một thành phần chi tiêu bất kỳ (tiêu dùng, đầu tư hay chi tiêu chính phủ) dao động thì cái phải điều chỉnh là sản lượng. Nếu chi tiêu chính phủ tăng trong khi mọi thành phần chi tiêu khác không đổi, sản lượng sẽ tăng.
+
+Mô hình Keynes còn có **hiệu ứng số nhân**: sản lượng thay đổi theo một bội số của mức tăng hay giảm chi tiêu ban đầu. Lý do là chi tiêu của người này là thu nhập của người khác, và người nhận lại tiêu tiếp một phần. Nếu số nhân tài khoá lớn hơn 1, thì tăng chi tiêu chính phủ 1 đô la sẽ làm sản lượng tăng hơn 1 đô la.
+
+**Ví dụ minh hoạ về số nhân** (con số giả định để hiểu cơ chế, không phải số trong bài). Giả sử mỗi người nhận thêm 1 đồng thu nhập thì tiêu 0,5 đồng và để dành phần còn lại. Chính phủ chi 100 đồng thuê công nhân làm đường. Công nhân tiêu 50 đồng mua hàng; người bán hàng tiêu tiếp 25 đồng; vòng sau 12,5 đồng, và cứ thế. Cộng lại, tổng sản lượng tăng khoảng 200 đồng, tức số nhân bằng 2. Nếu người ta để dành nhiều hơn, hoặc phần lớn tiền chảy ra mua hàng nhập khẩu, số nhân sẽ nhỏ hơn.
 
 ### 3. Ổn định hoá nền kinh tế
 
-- Ba nguyên lý này chưa cho đơn thuốc chính sách nào. Điều phân biệt người Keynesian với nhà kinh tế khác là niềm tin vào chính sách chủ động để giảm biên độ chu kỳ kinh doanh, thứ họ xếp vào nhóm vấn đề kinh tế quan trọng nhất.
-- Thay vì coi ngân sách chính phủ mất cân đối là sai, Keynes ủng hộ chính sách tài khoá phản chu kỳ, tức hành động ngược chiều chu kỳ kinh doanh. Ví dụ, nhà kinh tế Keynesian sẽ ủng hộ chi tiêu thâm hụt vào các dự án hạ tầng thâm dụng lao động để kích thích việc làm và ổn định lương khi kinh tế suy giảm. Họ sẽ tăng thuế để làm nguội nền kinh tế và ngăn lạm phát khi có tăng trưởng dồi dào từ phía cầu. Chính sách tiền tệ cũng có thể dùng để kích thích, ví dụ giảm lãi suất để khuyến khích đầu tư. Ngoại lệ xảy ra trong bẫy thanh khoản, khi tăng lượng tiền không hạ được lãi suất và do đó không thúc đẩy sản lượng và việc làm.
-- Keynes lập luận chính phủ nên giải quyết vấn đề trong ngắn hạn thay vì chờ lực thị trường sửa chữa trong dài hạn, vì như ông viết, "Về dài hạn, tất cả chúng ta đều chết". Điều này không có nghĩa người Keynesian chủ trương điều chỉnh chính sách vài tháng một lần để giữ nền kinh tế ở toàn dụng. Thực tế họ tin chính phủ không thể biết đủ để tinh chỉnh thành công.
+Ba nguyên lý trên mới chỉ mô tả cách nền kinh tế vận hành, chưa cho ra một đơn thuốc chính sách nào. Điều thực sự phân biệt người theo Keynes với các nhà kinh tế khác là **niềm tin vào chính sách chủ động** để giảm biên độ dao động của chu kỳ kinh doanh, một việc mà họ xếp vào nhóm những vấn đề kinh tế quan trọng nhất.
+
+Keynes không coi một ngân sách nhà nước mất cân đối là điều sai trái. Ông ủng hộ **chính sách tài khoá phản chu kỳ**, tức là hành động ngược chiều chu kỳ kinh doanh:
+
+| Tình trạng kinh tế | Hành động Keynesian | Mục đích |
+|---|---|---|
+| Suy giảm | Chi tiêu thâm hụt vào các dự án hạ tầng thâm dụng lao động | Kích thích việc làm, ổn định lương |
+| Tăng trưởng dồi dào từ phía cầu | Tăng thuế | Làm nguội nền kinh tế, ngăn lạm phát |
+
+Chính sách tiền tệ cũng có thể dùng để kích thích, ví dụ ngân hàng trung ương hạ lãi suất để khuyến khích doanh nghiệp vay vốn đầu tư. Nhưng có một ngoại lệ: **bẫy thanh khoản**. Trong bẫy thanh khoản, tăng lượng tiền không hạ được lãi suất, do đó không thúc đẩy được sản lượng và việc làm. Khi đó chỉ còn công cụ tài khoá.
+
+Keynes lập luận chính phủ nên giải quyết vấn đề trong ngắn hạn thay vì ngồi chờ lực thị trường tự sửa chữa trong dài hạn. Câu nổi tiếng của ông là: "Về dài hạn, tất cả chúng ta đều chết". Ý ông là: nói rằng thị trường "cuối cùng" sẽ tự hồi phục chẳng có ích gì cho những người đang thất nghiệp hôm nay.
+
+Tuy vậy, điều này không có nghĩa người theo Keynes chủ trương điều chỉnh chính sách vài tháng một lần để giữ nền kinh tế luôn ở mức toàn dụng. Thực tế họ tin rằng chính phủ không thể biết đủ thông tin để tinh chỉnh nền kinh tế một cách thành công. Chính sách chủ động là để chống những dao động lớn, không phải để điều khiển từng biến động nhỏ.
 
 ### 4. Tiến hoá và hồi sinh
 
-- Dù ý tưởng của Keynes được chấp nhận rộng rãi khi ông còn sống, chúng cũng bị soi xét và phản bác bởi một số nhà tư tưởng đương thời. Đáng chú ý là các tranh luận với Trường phái Áo, những người tin suy thoái và bùng nổ là một phần của trật tự tự nhiên và can thiệp của chính phủ chỉ làm quá trình hồi phục tệ hơn.
-- Kinh tế học Keynes thống trị lý thuyết và chính sách kinh tế sau Thế chiến II cho đến thập niên 1970, khi nhiều nền kinh tế tiên tiến chịu cả lạm phát lẫn tăng trưởng chậm, tình trạng gọi là "lạm phát đình đốn". Mức phổ biến của lý thuyết Keynes suy giảm khi đó vì nó không có phản ứng chính sách phù hợp cho lạm phát đình đốn. Nhà kinh tế trọng tiền nghi ngờ khả năng chính phủ điều tiết chu kỳ kinh doanh bằng chính sách tài khoá và lập luận rằng sử dụng khôn ngoan chính sách tiền tệ (về cơ bản là kiểm soát cung tiền để tác động lãi suất) có thể giảm nhẹ khủng hoảng. Thành viên trường phái trọng tiền cũng cho rằng tiền có thể tác động sản lượng ngắn hạn nhưng tin trong dài hạn, chính sách tiền tệ mở rộng chỉ dẫn đến lạm phát. Nhà kinh tế Keynesian phần lớn tiếp thu các phê phán này, bổ sung vào lý thuyết gốc sự tích hợp tốt hơn giữa ngắn hạn và dài hạn cùng hiểu biết về trung lập dài hạn của tiền, tức thay đổi lượng tiền chỉ ảnh hưởng các biến danh nghĩa như giá và lương, không ảnh hưởng biến thực như việc làm và sản lượng.
-- Cả Keynesian và trọng tiền đều bị soi xét khi trường phái cổ điển mới nổi lên giữa thập niên 1970. Trường phái cổ điển mới khẳng định nhà hoạch định là vô hiệu vì từng người tham gia thị trường có thể dự đoán thay đổi từ một chính sách và hành động trước để chống lại. Thế hệ Keynesian mới nổi lên thập niên 1970 và 1980 lập luận rằng dù cá nhân có thể dự đoán đúng, thị trường tổng gộp có thể không cân bằng tức thì; do đó chính sách tài khoá vẫn có thể hiệu quả trong ngắn hạn.
-- Khủng hoảng tài chính toàn cầu 2007–08 làm tư tưởng Keynes hồi sinh. Nó là nền tảng lý thuyết cho chính sách kinh tế ứng phó khủng hoảng của nhiều chính phủ, gồm Mỹ và Anh. Khi suy thoái toàn cầu lan ra cuối 2008, giáo sư Harvard N. Gregory Mankiw viết trên *New York Times*: "Nếu bạn chỉ chọn một nhà kinh tế để hiểu các vấn đề nền kinh tế đang đối mặt, chắc chắn đó là John Maynard Keynes. Dù Keynes mất hơn nửa thế kỷ trước, chẩn đoán của ông về suy thoái và khủng hoảng vẫn là nền tảng của kinh tế vĩ mô hiện đại. Keynes viết: 'Người thực dụng, tin mình hoàn toàn miễn nhiễm với mọi ảnh hưởng trí tuệ, thường là nô lệ của một nhà kinh tế đã khuất nào đó.' Năm 2008, không nhà kinh tế đã khuất nào nổi bật hơn chính Keynes."
-- Nhưng khủng hoảng 2007–08 cũng cho thấy lý thuyết Keynes phải tích hợp tốt hơn vai trò của hệ thống tài chính. Nhà kinh tế Keynesian đang khắc phục thiếu sót đó bằng cách tích hợp khu vực thực và khu vực tài chính của nền kinh tế.
+Dù ý tưởng của Keynes được chấp nhận rộng rãi khi ông còn sống, chúng cũng bị một số nhà tư tưởng đương thời soi xét và phản bác. Lịch sử của trường phái này là một chuỗi thách thức và thích nghi.
+
+**Tranh luận với Trường phái Áo.** Đáng chú ý nhất là các cuộc tranh luận với Trường phái Áo. Những người theo trường phái này tin rằng suy thoái và bùng nổ là một phần của trật tự tự nhiên, và can thiệp của chính phủ chỉ làm quá trình hồi phục tệ hơn.
+
+**Thống trị rồi suy yếu.** Kinh tế học Keynes thống trị cả lý thuyết lẫn chính sách kinh tế sau Thế chiến II cho đến thập niên 1970. Khi đó nhiều nền kinh tế tiên tiến cùng lúc chịu lạm phát và tăng trưởng chậm, tình trạng gọi là lạm phát đình đốn. Lý thuyết Keynes thời đó không có phản ứng chính sách phù hợp: kích cầu để chống tăng trưởng chậm sẽ làm lạm phát tệ hơn, còn thắt chặt để chống lạm phát sẽ làm tăng trưởng chậm hơn. Mức phổ biến của lý thuyết vì thế giảm mạnh.
+
+**Thách thức của phái trọng tiền.** Các nhà kinh tế trọng tiền nghi ngờ khả năng chính phủ điều tiết chu kỳ kinh doanh bằng chính sách tài khoá. Họ lập luận rằng sử dụng khôn ngoan chính sách tiền tệ, về cơ bản là kiểm soát cung tiền để tác động lãi suất, có thể giảm nhẹ khủng hoảng. Họ cũng cho rằng tiền có thể tác động đến sản lượng trong ngắn hạn, nhưng trong dài hạn chính sách tiền tệ mở rộng chỉ dẫn đến lạm phát. Người theo Keynes phần lớn tiếp thu các phê phán này và bổ sung vào lý thuyết gốc hai điều: sự tích hợp tốt hơn giữa ngắn hạn và dài hạn, và hiểu biết về **trung lập dài hạn của tiền**, tức là thay đổi lượng tiền về lâu dài chỉ ảnh hưởng các biến danh nghĩa như giá và lương, không ảnh hưởng các biến thực như việc làm và sản lượng.
+
+**Thách thức của trường phái cổ điển mới.** Từ giữa thập niên 1970, cả phái Keynes lẫn phái trọng tiền đều bị trường phái cổ điển mới chất vấn. Trường phái này khẳng định nhà hoạch định chính sách là vô hiệu, vì từng người tham gia thị trường có thể dự đoán được thay đổi mà một chính sách sẽ gây ra và hành động trước để vô hiệu hoá nó. Thế hệ Keynes mới xuất hiện trong thập niên 1970 và 1980 đáp lại: dù từng cá nhân có thể dự đoán đúng, thị trường xét tổng gộp có thể không cân bằng ngay tức thì (chẳng hạn vì giá và lương cứng), nên chính sách tài khoá vẫn có thể hiệu quả trong ngắn hạn.
+
+| Giai đoạn | Trường phái thách thức | Lập luận | Phản ứng của phái Keynes |
+|---|---|---|---|
+| Thời Keynes còn sống | Trường phái Áo | Suy thoái và bùng nổ là trật tự tự nhiên; can thiệp làm hồi phục tệ hơn | Tranh luận |
+| Thập niên 1970 | Thực tế lạm phát đình đốn | Lý thuyết không có lời giải | Mất vị thế thống trị |
+| Thập niên 1970 | Phái trọng tiền | Tài khoá kém hiệu quả; dài hạn mở rộng tiền chỉ gây lạm phát | Tiếp thu: tích hợp ngắn hạn và dài hạn, trung lập dài hạn của tiền |
+| Giữa thập niên 1970 | Cổ điển mới | Người dân dự đoán và vô hiệu hoá chính sách | Keynes mới (1970–80): thị trường tổng gộp không cân bằng tức thì |
+| 2007–08 | Khủng hoảng tài chính toàn cầu | — | Hồi sinh; bổ sung vai trò hệ thống tài chính |
+
+**Hồi sinh sau khủng hoảng 2007–08.** Khủng hoảng tài chính toàn cầu 2007–08 làm tư tưởng Keynes sống lại. Nó trở thành nền tảng lý thuyết cho chính sách ứng phó khủng hoảng của nhiều chính phủ, trong đó có Mỹ và Anh. Khi suy thoái toàn cầu lan rộng cuối năm 2008, giáo sư Đại học Harvard N. Gregory Mankiw viết trên báo *New York Times* rằng nếu chỉ được chọn một nhà kinh tế để hiểu các vấn đề nền kinh tế đang đối mặt, chắc chắn người đó là John Maynard Keynes. Mankiw nhận xét: dù Keynes đã mất hơn nửa thế kỷ, chẩn đoán của ông về suy thoái và khủng hoảng vẫn là nền tảng của kinh tế vĩ mô hiện đại. Ông dẫn lại câu của chính Keynes: "Người thực dụng, tin mình hoàn toàn miễn nhiễm với mọi ảnh hưởng trí tuệ, thường là nô lệ của một nhà kinh tế đã khuất nào đó", và kết luận rằng năm 2008, không nhà kinh tế đã khuất nào nổi bật hơn chính Keynes.
+
+**Thiếu sót bị lộ ra.** Nhưng cuộc khủng hoảng 2007–08 cũng cho thấy lý thuyết Keynes phải tích hợp tốt hơn vai trò của hệ thống tài chính, vì chính khu vực tài chính là nơi khủng hoảng bắt đầu. Các nhà kinh tế theo Keynes đang khắc phục thiếu sót này bằng cách gắn kết khu vực thực (sản xuất, việc làm) với khu vực tài chính (ngân hàng, tín dụng, giá tài sản) trong mô hình của mình.
 
 ### 5. Keynes con người (hộp bên)
 
-- Kinh tế học Keynes lấy tên, lý thuyết và nguyên lý từ nhà kinh tế Anh John Maynard Keynes (1883–1946), được coi là người sáng lập kinh tế vĩ mô hiện đại. Tác phẩm nổi tiếng nhất, *The General Theory of Employment, Interest and Money*, xuất bản năm 1936. Nhưng tiền thân năm 1930 của nó, *A Treatise on Money*, thường được coi là quan trọng hơn với tư tưởng kinh tế. Trước đó kinh tế học chỉ phân tích điều kiện tĩnh, về cơ bản là xem xét chi tiết một bức ảnh chụp nhanh của một quá trình chuyển động nhanh. Keynes, trong *Treatise*, tạo ra cách tiếp cận động, biến kinh tế học thành nghiên cứu dòng thu nhập và chi tiêu. Ông mở ra chân trời mới cho phân tích kinh tế.
-- Trong *The Economic Consequences of the Peace* năm 1919, Keynes dự đoán các điều kiện nghiệt ngã mà hoà ước Versailles áp lên Đức để kết thúc Thế chiến I sẽ dẫn đến một cuộc chiến châu Âu khác.
-- Ông nhớ bài học từ Versailles và Đại Suy thoái khi dẫn đầu phái đoàn Anh tại hội nghị Bretton Woods 1944, hội nghị đặt ra các quy tắc bảo đảm ổn định hệ thống tài chính quốc tế và tạo điều kiện tái thiết các quốc gia bị Thế chiến II tàn phá. Cùng quan chức Bộ Tài chính Mỹ Harry Dexter White, Keynes được coi là cha đẻ trí tuệ của Quỹ Tiền tệ Quốc tế và Ngân hàng Thế giới, được tạo ra tại Bretton Woods.
+Kinh tế học Keynes lấy tên, lý thuyết và nguyên lý từ nhà kinh tế Anh John Maynard Keynes (1883–1946), người được coi là sáng lập ra kinh tế vĩ mô hiện đại.
+
+| Năm | Tác phẩm hoặc sự kiện | Ý nghĩa |
+|---|---|---|
+| 1919 | *The Economic Consequences of the Peace* | Dự đoán điều kiện nghiệt ngã của hoà ước Versailles áp lên Đức sau Thế chiến I sẽ dẫn đến một cuộc chiến châu Âu khác |
+| 1930 | *A Treatise on Money* | Thường được coi là quan trọng hơn với tư tưởng kinh tế; tạo ra cách tiếp cận động |
+| 1936 | *The General Theory of Employment, Interest and Money* | Tác phẩm nổi tiếng nhất |
+| 1944 | Hội nghị Bretton Woods | Dẫn đầu phái đoàn Anh; cha đẻ trí tuệ của IMF và Ngân hàng Thế giới |
+
+Tác phẩm nổi tiếng nhất của ông là *The General Theory of Employment, Interest and Money* (Lý thuyết tổng quát về việc làm, lãi suất và tiền tệ), xuất bản năm 1936. Nhưng cuốn tiền thân năm 1930, *A Treatise on Money* (Chuyên luận về tiền tệ), thường được coi là quan trọng hơn với lịch sử tư tưởng kinh tế. Lý do: trước đó kinh tế học chỉ phân tích các điều kiện tĩnh, về cơ bản là soi kỹ một bức ảnh chụp nhanh của một quá trình đang chuyển động nhanh. Trong *Treatise*, Keynes tạo ra cách tiếp cận động, biến kinh tế học thành môn nghiên cứu các dòng thu nhập và chi tiêu chảy qua nền kinh tế theo thời gian. Ông mở ra một chân trời mới cho phân tích kinh tế.
+
+Trước đó nữa, trong *The Economic Consequences of the Peace* (Hậu quả kinh tế của hoà bình) năm 1919, Keynes đã dự đoán rằng những điều kiện nghiệt ngã mà hoà ước Versailles áp lên nước Đức để kết thúc Thế chiến I sẽ dẫn tới một cuộc chiến châu Âu khác.
+
+Ông mang theo bài học của Versailles và của Đại Suy thoái khi dẫn đầu phái đoàn Anh tại hội nghị Bretton Woods năm 1944. Hội nghị này đặt ra các quy tắc bảo đảm sự ổn định của hệ thống tài chính quốc tế và tạo điều kiện tái thiết các quốc gia bị Thế chiến II tàn phá. Cùng với quan chức Bộ Tài chính Mỹ Harry Dexter White, Keynes được coi là cha đẻ trí tuệ của Quỹ Tiền tệ Quốc tế và Ngân hàng Thế giới, hai tổ chức ra đời tại Bretton Woods.
 
 ## Thuật ngữ
 

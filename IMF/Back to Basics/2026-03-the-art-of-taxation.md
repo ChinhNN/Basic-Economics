@@ -99,59 +99,112 @@
            (minh bạch, giải trình → nộp thuế là đầu tư chung)
 ```
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Huy động nguồn thu trong nước (domestic revenue mobilization).** Quá trình một nước tự thu tiền cho ngân sách, chủ yếu qua thuế, theo cách bền vững (thu đều đặn năm này qua năm khác), hiệu quả (ít làm méo mó hoạt động kinh tế) và công bằng. Ví dụ minh hoạ: một nước có GDP 100 tỷ USD thu thuế 12 tỷ USD thì tỷ lệ thu là 12% GDP; nếu nâng lên 15 tỷ USD, nước đó có thêm 3 tỷ USD mỗi năm cho trường học, bệnh viện mà không phải vay. Đây là khái niệm trung tâm của bài.
+
+**Tỷ lệ thu thuế trên GDP.** Tổng số thuế chính phủ thu được chia cho tổng sản phẩm của nền kinh tế trong cùng năm. Nó cho biết nhà nước "lấy" được bao nhiêu phần của mỗi đồng thu nhập quốc gia. Bài dùng thước đo này để nêu mốc 15% GDP: dưới mức đó, nhà nước khó vận hành hiệu quả.
+
+**Thuế giá trị gia tăng (VAT) và khấu trừ đầu vào.** VAT đánh vào phần giá trị mà mỗi khâu sản xuất, phân phối tạo thêm. Doanh nghiệp thu VAT trên giá bán, nhưng được trừ đi số VAT đã trả khi mua đầu vào. Ví dụ minh hoạ với thuế suất 10%: nhà máy bán vải giá 100, thu 10 tiền thuế; xưởng may mua vải đó, may thành áo bán giá 150, thu 15 tiền thuế nhưng được trừ 10 đã trả, nên chỉ nộp 5. Tổng thuế nộp là 15, đúng bằng 10% giá cuối cùng. Nhờ vậy thuế không bị chồng lên thuế qua nhiều khâu.
+
+**Thuế chồng thuế (cascading).** Hiện tượng thuế đánh trên doanh thu ở mọi khâu mà không cho trừ thuế đã nộp ở khâu trước, nên thuế của khâu trước trở thành một phần giá bị đánh thuế tiếp. Ví dụ minh hoạ: với thuế doanh thu 10% ở mỗi khâu, chuỗi ba khâu có thể khiến tổng thuế vượt xa 10% giá cuối cùng, và hàng đi qua càng nhiều khâu càng chịu thuế nặng. Đây là lý do bài coi VAT hiệu quả hơn.
+
+**Tính luỹ tiến (progressivity).** Một loại thuế là luỹ tiến khi người có thu nhập cao nộp một tỷ lệ thu nhập lớn hơn người thu nhập thấp. Ví dụ minh hoạ: người thu nhập 10 triệu đồng/tháng nộp 5%, người thu nhập 100 triệu đồng/tháng nộp 25%. Bài nhắc tới tính luỹ tiến để giải thích vì sao thuế thu nhập cá nhân vẫn quan trọng dù hiện thu được ít.
+
+**Chi tiêu thuế (tax expenditures).** Các khoản miễn thuế, giảm thuế, khấu trừ, thuế suất ưu đãi hay chế độ đặc biệt. Gọi là "chi tiêu" vì về tác dụng, nhà nước bỏ qua một khoản thu, giống như chi tiền cho nhóm được ưu đãi. Ví dụ trong bài: ở nhiều nước, tổng chi tiêu thuế lên tới 3–4% GDP, khoảng một phần tư số thu thuế. Bài khuyên rà soát định kỳ các khoản này.
+
+**Khấu trừ tại nguồn (withholding).** Thuế được trừ ngay khi tiền được trả, bởi bên trả tiền, thay vì để người nhận tự kê khai sau. Ví dụ: doanh nghiệp trừ thuế thu nhập vào lương trước khi chuyển cho nhân viên, ngân hàng trừ thuế trên tiền lãi trước khi trả cho người gửi. Cách này khó trốn vì nhà nước chỉ cần theo dõi số ít doanh nghiệp, ngân hàng lớn thay vì hàng triệu cá nhân.
+
+**Khế ước xã hội (social contract).** Thoả thuận ngầm giữa nhà nước và người dân: người dân nộp thuế, đổi lại nhà nước cung cấp dịch vụ công và dùng tiền đúng mục đích. Khi một bên thấy bên kia không giữ phần mình, như thấy thuế bị tham nhũng, việc tuân thủ giảm. Bài kết thúc bằng chính ý này: niềm tin là cốt lõi của mọi hệ thống thuế.
+
+## Nội dung chi tiết
 
 ### 1. Vì sao cần thuế
 
-- Mọi chính phủ đều cần tiền để xây đường, trả lương giáo viên, cấp thuốc cho bệnh viện, vận hành toà án, bảo đảm an ninh. Đây là xương sống của mọi nền kinh tế và xã hội vận hành tốt.
-- Chính phủ có thể vay hoặc nhận viện trợ, nhưng thuế là nguồn tài trợ bền vững nhất.
-- **Bài toán cân bằng:** thu phải đủ cho dịch vụ công, nhưng thuế quá cao, thiết kế kém hoặc quản lý tồi sẽ bóp nghẹt đầu tư, đổi mới và tăng trưởng.
-- **Ngày càng khó** vì nợ công và thâm hụt cao trong khi nhu cầu chi tăng: dân số già, nghèo đói, áp lực đầu tư cho giáo dục, y tế, hạ tầng số, chống chịu khí hậu.
+Mọi chính phủ đều cần tiền để xây đường, trả lương giáo viên, cấp thuốc cho bệnh viện, vận hành toà án và bảo đảm an ninh. Bài gọi những việc này là xương sống của mọi nền kinh tế và xã hội vận hành tốt.
+
+Để có tiền, chính phủ có ba con đường: vay nợ, nhận viện trợ, hoặc thu thuế. Vay và viện trợ đều có thể dùng, nhưng không bền: nợ phải trả kèm lãi, còn viện trợ phụ thuộc vào ý muốn của nước khác. Thuế là nguồn tài trợ bền vững nhất.
+
+Việc thu thuế là một **bài toán cân bằng**. Một mặt, số thu phải đủ để tài trợ dịch vụ công. Mặt khác, thuế quá cao, thiết kế kém hoặc quản lý tồi sẽ bóp nghẹt đầu tư, đổi mới và tăng trưởng, tức là làm nhỏ đi chính cái nền mà thuế được thu trên đó.
+
+Bài toán này **ngày càng khó**. Nợ công và thâm hụt ngân sách ở nhiều nước đã cao, trong khi nhu cầu chi lại tăng: dân số già đi cần nhiều chi cho lương hưu và y tế, vẫn còn nghèo đói cần hỗ trợ, và áp lực đầu tư lớn cho giáo dục, y tế, hạ tầng số và khả năng chống chịu biến đổi khí hậu.
 
 ### 2. Huy động nguồn thu trong nước
 
-- **Định nghĩa:** quá trình một nước huy động nguồn lực công qua thuế theo cách bền vững, hiệu quả và công bằng. Nó quyết định chính phủ có tài trợ được ưu tiên, giảm lệ thuộc viện trợ và ứng phó cú sốc hay không.
-- **Mang tính chính trị:** ai nộp thuế, bao nhiêu, dưới hình thức nào là cốt lõi của khế ước xã hội. Ít ai thích nộp thuế, nên cải cách cần cả thiết kế kinh tế lẫn quản lý chính trị khéo léo. Cuối cùng phụ thuộc vào niềm tin: hệ thống công bằng và chính phủ dùng tiền khôn ngoan.
-- **Mốc 15% GDP:** dưới mức này, hiệu lực nhà nước, phát triển tài chính và tăng trưởng đình trệ. Hơn 70 nền kinh tế đang phát triển vẫn thu dưới 15%.
-- **Tin tốt:** nhiều nước có thể thu thêm 4–5% GDP nhờ cải cách thiết kế tốt. Jamaica, Maldives, Morocco, Nepal, Rwanda, Uzbekistan đã chứng minh điều đó gần đây, ngay trong bối cảnh khó khăn.
+**Định nghĩa.** Huy động nguồn thu trong nước là quá trình một nước huy động nguồn lực công qua thuế theo cách bền vững, hiệu quả và công bằng. Năng lực này quyết định chính phủ có tài trợ được các ưu tiên của mình, có giảm được lệ thuộc vào viện trợ, và có đủ sức ứng phó với cú sốc hay không.
+
+**Đây là vấn đề chính trị, không chỉ kỹ thuật.** Ai nộp thuế, nộp bao nhiêu và dưới hình thức nào là cốt lõi của khế ước xã hội giữa nhà nước và người dân. Ít ai thích nộp thuế, nên cải cách thuế cần cả thiết kế kinh tế tốt lẫn khả năng quản lý chính trị khéo léo. Rốt cuộc, mọi thứ phụ thuộc vào niềm tin: người dân phải tin rằng hệ thống công bằng và chính phủ dùng tiền khôn ngoan.
+
+**Mốc 15% GDP.** Bài nêu rằng khi thu thuế dưới khoảng 15% GDP, hiệu lực của nhà nước, sự phát triển của khu vực tài chính và tăng trưởng kinh tế đều có xu hướng đình trệ. Hiện vẫn còn hơn 70 nền kinh tế đang phát triển thu dưới mức này.
+
+**Tin tốt.** Nhiều nước có thể thu thêm 4–5% GDP nhờ những cải cách được thiết kế tốt. Các nước Jamaica, Maldives, Morocco, Nepal, Rwanda và Uzbekistan đã chứng minh điều đó trong thời gian gần đây, ngay cả trong bối cảnh khó khăn. Ví dụ minh hoạ về quy mô: với một nước đang thu 11% GDP, thêm 4–5 điểm phần trăm là đủ vượt mốc 15%.
 
 ### 3. Các loại thuế
 
-- **Xu hướng chung:** rời xa thuế hẹp và méo mó, tiến tới thuế rộng và hiệu quả hơn.
-- **Thuế thương mại, thuế quan:** từng là nguồn thu quan trọng vì dễ thu ở biên giới. Giảm toàn cầu từ giữa thế kỷ 20 nhờ toàn cầu hoá, nhưng vẫn chiếm khoảng một phần tư thu thuế ở nhiều nước đang phát triển. Lạm dụng sẽ cản thương mại, tăng giá tiêu dùng, chậm hội nhập.
-- **VAT:** "con ngựa thồ" của hệ thống thu, tạo hơn một phần ba tổng thu thuế, kể cả ở nhiều nước thu nhập thấp và trung bình. Hiệu quả vì đánh rộng trên tiêu dùng và cho doanh nghiệp khấu trừ thuế đầu vào, giảm hiệu ứng thuế chồng thuế dọc chuỗi cung ứng.
-- **Thuế tiêu thụ đặc biệt:** bổ trợ VAT, đánh vào hàng có chi phí xã hội như thuốc lá, rượu, hoặc hoạt động hại môi trường như đốt nhiên liệu hoá thạch. Vừa thu ngân sách vừa cải thiện sức khoẻ, môi trường.
-- **Thuế thu nhập doanh nghiệp:** quan trọng để đánh vào lợi nhuận công ty lớn và đa quốc gia. Chịu áp lực từ cạnh tranh thuế quốc tế và chuyển lợi nhuận sang nơi thuế thấp, nên cải cách ngày càng phức tạp và cần phối hợp quốc tế.
-- **Thuế thu nhập cá nhân:** thu tương đối ít ở nước đang phát triển do tầng lớp trung lưu nhỏ, khu vực phi chính thức lớn, nhiều người tự làm chủ, khu vực tài chính chính thức hạn chế. Vẫn tiến bộ được: ở châu Phi, tỉ lệ thu trên GDP đã tăng gần gấp đôi từ năm 2000. Quan trọng cho cả nguồn thu lẫn tính luỹ tiến.
-- **Thuế tài sản trên đất và bất động sản:** bị bỏ quên đáng kể. Khó trốn, hiệu quả cho ngân sách địa phương, nhưng vấp phản đối chính trị và khó khăn hành chính như sổ đăng ký tài sản lạc hậu.
+**Xu hướng chung** của các hệ thống thuế là rời xa những loại thuế có cơ sở hẹp và gây méo mó, tiến tới những loại thuế có cơ sở rộng và hiệu quả hơn. Bài lần lượt điểm qua từng loại.
+
+**Thuế thương mại, thuế quan.** Từng là nguồn thu rất quan trọng vì dễ thu: hàng hoá phải đi qua cửa khẩu. Từ giữa thế kỷ 20, nhờ toàn cầu hoá, thuế quan giảm trên toàn thế giới, nhưng vẫn chiếm khoảng một phần tư (1/4) số thu thuế ở nhiều nước đang phát triển. Nếu lạm dụng, thuế quan cản trở thương mại, đẩy giá tiêu dùng lên và làm chậm quá trình hội nhập.
+
+**VAT.** Bài gọi VAT là "con ngựa thồ" của hệ thống thu, vì nó tạo ra hơn một phần ba (1/3) tổng thu thuế, kể cả ở nhiều nước thu nhập thấp và trung bình. VAT hiệu quả vì hai lý do: nó đánh trên một cơ sở rộng là tiêu dùng, và nó cho doanh nghiệp khấu trừ thuế đã trả ở đầu vào, nhờ đó tránh được hiện tượng thuế chồng thuế dọc chuỗi cung ứng.
+
+**Thuế tiêu thụ đặc biệt.** Bổ trợ cho VAT, đánh vào những mặt hàng gây chi phí cho xã hội như thuốc lá và rượu, hoặc những hoạt động hại môi trường như đốt nhiên liệu hoá thạch. Loại thuế này làm được hai việc một lúc: thu ngân sách, và cải thiện sức khoẻ cộng đồng cùng môi trường, vì giá cao hơn khiến người ta dùng ít đi.
+
+**Thuế thu nhập doanh nghiệp (TNDN).** Quan trọng để đánh vào lợi nhuận của các công ty lớn và công ty đa quốc gia. Nhưng loại thuế này chịu áp lực từ cạnh tranh thuế giữa các nước (nước nào cũng muốn hạ thuế để hút đầu tư) và từ việc doanh nghiệp chuyển lợi nhuận sang nơi thuế thấp. Vì vậy cải cách thuế TNDN ngày càng phức tạp và cần phối hợp quốc tế.
+
+**Thuế thu nhập cá nhân (TNCN).** Ở các nước đang phát triển, loại thuế này thu được tương đối ít, vì tầng lớp trung lưu còn nhỏ, khu vực phi chính thức lớn, nhiều người tự làm chủ, và khu vực tài chính chính thức còn hạn chế nên khó theo dõi thu nhập. Dù vậy vẫn có tiến bộ: ở châu Phi, thu thuế TNCN tính trên GDP đã tăng gần gấp đôi (khoảng x2) kể từ năm 2000. Thuế TNCN quan trọng vì cả nguồn thu lẫn tính luỹ tiến.
+
+**Thuế tài sản trên đất và bất động sản.** Bài cho rằng đây là loại thuế bị bỏ quên đáng kể. Nó có ưu điểm lớn: đất đai không giấu đi hay chuyển ra nước ngoài được nên khó trốn, và rất phù hợp làm nguồn thu cho ngân sách địa phương. Nhưng nó vấp phải phản đối chính trị (chủ nhà là nhóm có tiếng nói) và khó khăn hành chính, như sổ đăng ký tài sản lạc hậu.
+
+| Loại thuế | Vai trò hiện nay | Điểm mạnh | Khó khăn |
+|---|---|---|---|
+| Thuế quan | Khoảng 1/4 thu thuế ở nhiều nước đang phát triển, đang giảm | Dễ thu ở biên giới | Cản thương mại, tăng giá tiêu dùng |
+| VAT | Hơn 1/3 tổng thu thuế | Cơ sở rộng, khấu trừ đầu vào | — |
+| Tiêu thụ đặc biệt | Bổ trợ VAT | Thu ngân sách và cải thiện sức khoẻ, môi trường | — |
+| Thuế TNDN | Đánh vào lợi nhuận công ty lớn | — | Cạnh tranh thuế, chuyển lợi nhuận |
+| Thuế TNCN | Còn thu ít; ở châu Phi gần gấp đôi từ 2000 | Luỹ tiến | Khu vực phi chính thức lớn |
+| Thuế tài sản | Bị bỏ quên | Khó trốn, tốt cho địa phương | Phản đối chính trị, sổ đăng ký lạc hậu |
 
 ### 4. Thiết kế thuế
 
-- **Mục tiêu:** thu ngân sách với ít méo mó kinh tế và ít bất công nhất.
-- **Nguyên tắc trung lập:** thuế nên can thiệp ít nhất có thể vào quyết định làm việc, tiết kiệm, đầu tư, tiêu dùng. Trong thực tế nghĩa là cơ sở thuế rộng kết hợp thuế suất vừa phải.
-- **Chi tiêu thuế (tax expenditures):** miễn, khấu trừ, thuế suất ưu đãi, chế độ đặc biệt. Chi phí gộp thường lớn, 3–4% GDP ở nhiều nước, khoảng một phần tư số thu.
-- Không phải cái nào cũng xấu: chế độ đơn giản cho doanh nghiệp nhỏ giảm chi phí tuân thủ, ưu đãi cho lao động kỹ năng thấp có thể tăng việc làm. Vấn đề nảy sinh khi ưu đãi tràn lan mà không được đánh giá: méo mó, bất công, phức tạp, khó quản lý và dễ trốn.
-- **Rà soát định kỳ và minh bạch:** mỗi ưu đãi có đạt mục tiêu không, có phải công cụ hiệu quả nhất không.
+**Mục tiêu** của thiết kế thuế là thu được ngân sách với ít méo mó kinh tế nhất và ít bất công nhất.
+
+**Nguyên tắc trung lập.** Thuế nên can thiệp càng ít càng tốt vào các quyết định làm việc, tiết kiệm, đầu tư và tiêu dùng của người dân. Trong thực tế, điều này có nghĩa là một cơ sở thuế rộng kết hợp với thuế suất vừa phải. Lý do: khi cơ sở rộng, mỗi người chỉ cần chịu thuế suất thấp mà vẫn thu đủ, nên ít ai có động cơ thay đổi hành vi để né thuế.
+
+**Chi tiêu thuế.** Đó là các khoản miễn thuế, khấu trừ, thuế suất ưu đãi và chế độ đặc biệt. Tổng chi phí của chúng thường lớn: ở nhiều nước khoảng 3–4% GDP, tương đương khoảng một phần tư số thu thuế.
+
+Không phải khoản chi tiêu thuế nào cũng xấu. Một chế độ thuế đơn giản cho doanh nghiệp nhỏ giúp giảm chi phí tuân thủ; ưu đãi cho lao động kỹ năng thấp có thể giúp tăng việc làm. Vấn đề nảy sinh khi ưu đãi được cấp tràn lan mà không ai đánh giá hiệu quả. Khi đó chúng gây méo mó, bất công, làm hệ thống phức tạp, khó quản lý và mở ra kẽ hở để trốn thuế.
+
+**Rà soát định kỳ và minh bạch.** Bài khuyên mỗi khoản ưu đãi cần được xem xét lại thường xuyên với hai câu hỏi: nó có đạt được mục tiêu đã đặt ra không, và nó có phải là công cụ hiệu quả nhất để đạt mục tiêu đó không.
 
 ### 5. Từ chính sách đến thực thi
 
-- Chính sách tốt nhất cũng thất bại nếu thực thi yếu. Hành chính kém làm xói mòn nguồn thu, phá công bằng, hại đầu tư, mất niềm tin.
-- **Thách thức:** năng lực hành chính hạn chế và khu vực phi chính thức lớn. Riêng thất thu VAT đã tốn các nước đang phát triển trung bình khoảng 3% GDP.
-- Mở rộng sổ đăng ký người nộp thuế một cách tràn lan thường vô ích, vì nhiều người phi chính thức thu nhập quá thấp để phải nộp.
-- **Chiến lược hiệu quả hơn:** khấu trừ tại nguồn qua trung gian lớn như doanh nghiệp và ngân hàng; kiểm tra dựa trên rủi ro, tập trung vào người nộp rủi ro cao; số hoá với khai và nộp điện tử, hoá đơn thời gian thực, phân tích dữ liệu, kể cả AI.
-- **Luật rõ và đơn giản:** phức tạp và thay đổi liên tục tạo bất định và mở cửa cho tham nhũng. Nhiều nước vẫn cần củng cố nền tảng: nhân sự giỏi, cơ cấu tổ chức hiện đại, quản trị mạnh.
+Chính sách thuế tốt nhất cũng thất bại nếu thực thi yếu. Một bộ máy hành chính thuế kém làm xói mòn nguồn thu, phá vỡ sự công bằng (người trung thực nộp đủ, người khác trốn được), gây hại cho đầu tư và làm mất niềm tin.
+
+**Thách thức** lớn nhất là năng lực hành chính hạn chế và khu vực phi chính thức lớn. Riêng thất thu VAT, tức khoảng cách giữa số VAT lẽ ra thu được và số thực thu, đã khiến các nước đang phát triển mất trung bình khoảng 3% GDP.
+
+Một sai lầm phổ biến là mở rộng sổ đăng ký người nộp thuế một cách tràn lan. Cách này thường vô ích, vì nhiều người trong khu vực phi chính thức có thu nhập quá thấp, dưới ngưỡng phải nộp thuế; đăng ký họ tốn công mà không thu thêm được bao nhiêu.
+
+**Các chiến lược hiệu quả hơn:**
+
+- **Khấu trừ tại nguồn** qua các trung gian lớn như doanh nghiệp và ngân hàng.
+- **Kiểm tra dựa trên rủi ro**, tập trung nguồn lực thanh tra vào những người nộp thuế có rủi ro cao thay vì kiểm tra dàn trải.
+- **Số hoá**: khai và nộp thuế điện tử, hoá đơn điện tử thời gian thực, phân tích dữ liệu, kể cả dùng trí tuệ nhân tạo (AI).
+
+**Luật rõ ràng và đơn giản** cũng là điều kiện cần. Luật phức tạp và thay đổi liên tục tạo ra bất định cho doanh nghiệp và mở cửa cho tham nhũng, vì cán bộ thuế có nhiều chỗ để diễn giải tuỳ ý. Nhiều nước vẫn cần củng cố những nền tảng cơ bản: đội ngũ nhân sự giỏi, cơ cấu tổ chức hiện đại và quản trị mạnh.
 
 ### 6. Ba bài học từ kinh nghiệm các nước
 
-1. **Nghĩ theo hệ thống.** Mức thuế, cơ cấu, thiết kế và hành chính gắn chặt với nhau. Cải cách rời rạc, như thêm một sắc thuế mới mà không củng cố bộ máy, hiếm khi cho kết quả bền.
-2. **Kiên nhẫn.** Xây năng lực thuế mất thời gian. Thắng nhanh có thể có qua khấu trừ tại nguồn hay chỉ số hoá theo lạm phát, nhưng cải thiện bền vững cần nhiều năm nỗ lực nhất quán, giữ đà qua các chu kỳ chính trị. Bất ổn chính sách hoặc khủng hoảng dễ đảo ngược tiến bộ.
-3. **Hợp tác quốc tế giúp nhưng không đủ.** Trao đổi thông tin, hiệp định thuế, thoả thuận toàn cầu về thuế doanh nghiệp đều có giá trị, nhưng không thay thế được thể chế trong nước mạnh. Kỳ vọng quá mức vào giải pháp quốc tế có thể làm sao nhãng cải cách trong nước.
+Từ kinh nghiệm cải cách của nhiều nước, bài rút ra ba bài học:
+
+1. **Nghĩ theo hệ thống.** Mức thuế, cơ cấu thuế, thiết kế từng sắc thuế và bộ máy hành chính gắn chặt với nhau. Cải cách rời rạc, ví dụ thêm một sắc thuế mới mà không củng cố bộ máy thu, hiếm khi cho kết quả bền vững.
+2. **Kiên nhẫn.** Xây dựng năng lực thuế mất nhiều thời gian. Có thể có một số kết quả nhanh, chẳng hạn nhờ khấu trừ tại nguồn hay điều chỉnh các ngưỡng thuế theo lạm phát. Nhưng cải thiện bền vững cần nhiều năm nỗ lực nhất quán, giữ được đà qua các chu kỳ chính trị. Bất ổn chính sách hoặc một cuộc khủng hoảng có thể dễ dàng đảo ngược những tiến bộ đã đạt được.
+3. **Hợp tác quốc tế giúp ích nhưng không đủ.** Trao đổi thông tin thuế giữa các nước, hiệp định thuế và các thoả thuận toàn cầu về thuế doanh nghiệp đều có giá trị. Nhưng chúng không thay thế được thể chế mạnh trong nước. Kỳ vọng quá nhiều vào giải pháp quốc tế có thể làm các nước sao nhãng cải cách trong nước.
 
 ### 7. Chính trị và niềm tin
 
-- Cốt lõi của huy động nguồn thu là niềm tin. Khi người dân thấy thuế tuỳ tiện hoặc tham nhũng, tuân thủ giảm. Khi họ thấy thuế là đóng góp cho thịnh vượng chung, tài trợ trường học, bệnh viện, hạ tầng, an sinh, ủng hộ tăng.
-- Củng cố niềm tin có lẽ là phần khó nhất, nhưng cũng quan trọng nhất.
-- Minh bạch, trách nhiệm giải trình và truyền thông rõ ràng là thiết yếu. Nộp thuế không nên là cảm giác mất của riêng, mà là đầu tư cho tương lai chung.
+Cốt lõi của huy động nguồn thu là niềm tin. Khi người dân thấy thuế tuỳ tiện hoặc bị tham nhũng, họ tuân thủ ít đi. Khi họ thấy thuế là phần đóng góp cho thịnh vượng chung, dùng để tài trợ trường học, bệnh viện, hạ tầng và mạng an sinh, họ ủng hộ nhiều hơn.
+
+Bài thừa nhận củng cố niềm tin có lẽ là phần khó nhất, nhưng cũng quan trọng nhất. Ba điều được nêu là thiết yếu: minh bạch về thu và chi, trách nhiệm giải trình của người cầm tiền, và truyền thông rõ ràng với người dân. Mục tiêu là để việc nộp thuế không còn là cảm giác mất đi của cải riêng, mà là một khoản đầu tư cho tương lai chung.
 
 ## Thuật ngữ
 

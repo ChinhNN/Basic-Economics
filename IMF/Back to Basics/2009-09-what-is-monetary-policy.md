@@ -203,43 +203,151 @@
 2. Vì sao ngân hàng trung ương nên độc lập?
 3. Chính sách tiền tệ truyền đến nền kinh tế thực qua những kênh nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Cung tiền (money supply).** Tổng lượng tiền mà người dân và doanh nghiệp có thể dùng để chi tiêu: tiền mặt đang lưu hành cộng với tiền gửi trong ngân hàng. Ngân hàng trung ương không in tiền rồi phát cho dân, mà làm thay đổi lượng tiền này gián tiếp, qua việc mua bán giấy tờ có giá với ngân hàng thương mại. Ví dụ minh hoạ: nếu ngân hàng trung ương mua 100 tỷ đồng tín phiếu từ một ngân hàng thương mại, ngân hàng đó có thêm 100 tỷ đồng tiền để cho vay. Bài định nghĩa chính sách tiền tệ chính là việc điều chỉnh đại lượng này.
+
+**Tổng cầu (aggregate demand).** Tổng chi tiêu cho hàng hoá và dịch vụ của cả nền kinh tế: hộ gia đình tiêu dùng, doanh nghiệp đầu tư, nhà nước chi tiêu, và người nước ngoài mua hàng xuất khẩu. Ví dụ minh hoạ: nếu hộ gia đình giảm mua sắm 5% và người nước ngoài mua ít hàng xuất khẩu hơn, tổng cầu giảm, doanh nghiệp bán được ít hơn và cắt giảm sản xuất. Mọi kênh truyền dẫn trong bài đều tác động lên sản lượng và giá bằng cách thay đổi tổng cầu.
+
+**Chính sách phản chu kỳ (countercyclical policy).** Chính sách đi ngược hướng nền kinh tế đang đi: khi kinh tế suy giảm thì nới lỏng để kích cầu, khi kinh tế quá nóng thì thắt chặt để hạ nhiệt. Ví dụ minh hoạ: khi tăng trưởng rơi từ 6% xuống 2%, ngân hàng trung ương hạ lãi suất để người dân và doanh nghiệp vay nhiều hơn. Bài coi chính sách tiền tệ là công cụ phản chu kỳ được chọn trước tiên.
+
+**Lãi suất chính sách (policy rate).** Mức lãi suất mà ngân hàng trung ương chọn làm mục tiêu, thường là lãi suất qua đêm mà các ngân hàng tính cho nhau khi vay vốn trong một ngày. Ví dụ minh hoạ: ngân hàng trung ương hạ lãi suất qua đêm từ 3% xuống 2%; sau đó lãi suất vay mua nhà, vay mua xe, vay kinh doanh cũng dần giảm theo. Đây là con số mà ngân hàng trung ương thường nói tới khi công bố chính sách, thay vì nói tới lượng tiền.
+
+**Nghiệp vụ thị trường mở (open market operations).** Việc ngân hàng trung ương mua hoặc bán nợ chính phủ ngắn hạn (như tín phiếu kho bạc) với ngân hàng thương mại. Mua vào thì trả tiền cho ngân hàng, làm tăng dự trữ và cung tiền; bán ra thì thu tiền về, làm giảm cung tiền. Ví dụ minh hoạ: Fed mua 10 tỷ USD tín phiếu kho bạc của các ngân hàng, dự trữ của các ngân hàng tăng thêm 10 tỷ USD. Đây là công cụ thường ngày để đưa lãi suất về mức mục tiêu.
+
+**Không nhất quán theo thời gian (time inconsistency).** Tình huống mà một kế hoạch tối ưu hôm nay trở nên không còn hấp dẫn khi đến lúc phải thực hiện, nên người lập kế hoạch có động cơ thất hứa. Ví dụ minh hoạ: ngân hàng trung ương hứa giữ lạm phát 2% để người lao động chỉ đòi tăng lương 2%; khi hợp đồng lương đã ký, việc bơm tiền đẩy lạm phát lên 5% làm lao động rẻ đi và sản lượng tăng tạm thời. Người dân đoán trước được điều này nên không tin lời hứa. Đây là lý do chính bài đưa ra để giao chính sách tiền tệ cho một ngân hàng trung ương độc lập.
+
+**Kỳ vọng lạm phát (inflation expectations).** Mức lạm phát mà người dân và doanh nghiệp tin là sẽ xảy ra. Vì nhiều hợp đồng lương và giá được thoả thuận trước dựa trên dự báo, kỳ vọng tự biến thành hiện thực. Ví dụ minh hoạ: nếu ai cũng tin giá sẽ tăng 8% năm tới, công nhân đòi tăng lương 8%, doanh nghiệp tăng giá bán 8% để bù, và lạm phát thực tế đúng là gần 8%. Bài gọi kỳ vọng là "thành phần tự ứng nghiệm" của lạm phát.
+
+**Nới lỏng định lượng và nới lỏng tín dụng (quantitative easing, credit easing).** Hai cách nới lỏng khi lãi suất chính sách đã xuống bằng không. Nới lỏng định lượng nhấn vào **quy mô**: ngân hàng trung ương mua thật nhiều tài sản để bơm tiền. Nới lỏng tín dụng nhấn vào **loại tài sản** mua: nhắm thẳng vào thị trường đang tắc nghẽn. Ví dụ trong bài: Fed mua thương phiếu để doanh nghiệp còn vay được vốn lưu động, và mua chứng khoán bảo đảm bằng thế chấp để duy trì tài trợ nhà ở. Hai công cụ này là câu trả lời cho câu hỏi "làm gì khi lãi suất không thể giảm thêm".
+
+## Nội dung chi tiết
 
 ### 1. Mục tiêu kép
 
-- Chính sách tiền tệ đã sống dưới nhiều lớp vỏ. Nhưng dù nó xuất hiện thế nào, nó nhìn chung quy về việc điều chỉnh cung tiền trong nền kinh tế để đạt một kết hợp nào đó giữa ổn định lạm phát và sản lượng.
-- Hầu hết các nhà kinh tế sẽ đồng ý rằng trong dài hạn sản lượng là cố định, nên bất kỳ thay đổi nào ở cung tiền chỉ làm giá thay đổi. Nhưng trong ngắn hạn, vì giá và lương thường không điều chỉnh ngay lập tức, các thay đổi ở cung tiền có thể ảnh hưởng đến việc sản xuất thực tế hàng hoá và dịch vụ. Đây là lý do chính sách tiền tệ, thường do các ngân hàng trung ương như Cục Dự trữ Liên bang Mỹ (Fed) hay Ngân hàng Trung ương châu Âu (ECB) thực hiện, là một công cụ chính sách có ý nghĩa để đạt cả mục tiêu lạm phát lẫn tăng trưởng.
-- Trong một cuộc suy thoái, chẳng hạn, người tiêu dùng ngừng chi tiêu nhiều như trước; sản xuất của doanh nghiệp giảm, khiến các hãng sa thải lao động và ngừng đầu tư vào năng lực mới; và sự thèm muốn của nước ngoài đối với hàng xuất khẩu của nước đó cũng có thể giảm. Tóm lại, có một sự suy giảm của tổng cầu mà chính phủ có thể ứng phó bằng một chính sách ngược chiều với hướng nền kinh tế đang đi. Chính sách tiền tệ thường là công cụ phản chu kỳ được chọn.
-- Một chính sách phản chu kỳ như vậy sẽ dẫn đến sự mở rộng mong muốn của sản lượng (và việc làm). Nhưng, vì nó kéo theo sự tăng cung tiền, nó cũng sẽ dẫn đến sự tăng giá. Khi một nền kinh tế đến gần việc sản xuất hết công suất, cầu tăng sẽ gây áp lực lên chi phí đầu vào, gồm cả lương. Người lao động sau đó dùng thu nhập tăng của mình để mua thêm hàng hoá và dịch vụ, tiếp tục đẩy giá và lương lên và đẩy lạm phát tổng quát lên, một kết quả mà các nhà hoạch định thường muốn tránh.
-- Nhà hoạch định tiền tệ, do đó, phải cân bằng các mục tiêu giá và sản lượng. Thực tế, ngay cả các ngân hàng trung ương như ECB, vốn chỉ nhắm vào lạm phát, cũng nhìn chung thừa nhận rằng họ cũng chú ý đến việc ổn định sản lượng và giữ nền kinh tế gần mức toàn dụng. Và tại Fed, vốn có một nhiệm vụ kép rõ ràng từ Quốc hội Mỹ, mục tiêu việc làm được thừa nhận chính thức và đặt ngang hàng với mục tiêu lạm phát.
-- Chính sách tiền tệ không phải công cụ duy nhất để quản lý tổng cầu đối với hàng hoá và dịch vụ. Chính sách tài khoá, tức thuế và chi tiêu, là một công cụ khác, và các chính phủ đã dùng nó rộng rãi trong cuộc khủng hoảng hiện tại. Tuy nhiên, thường mất thời gian để lập pháp các thay đổi thuế và chi tiêu, và một khi các thay đổi đó đã thành luật, chúng khó đảo ngược về mặt chính trị. Thêm vào đó các lo ngại rằng người tiêu dùng có thể không phản ứng theo cách dự định với kích thích tài khoá (chẳng hạn, họ có thể tiết kiệm thay vì chi một khoản cắt thuế), và dễ hiểu vì sao chính sách tiền tệ nhìn chung được coi là tuyến phòng thủ đầu tiên trong việc ổn định nền kinh tế khi suy giảm. (Ngoại lệ là ở các nước có tỷ giá cố định, nơi chính sách tiền tệ bị gắn hoàn toàn với mục tiêu tỷ giá.)
+Chính sách tiền tệ đã xuất hiện dưới nhiều hình thức khác nhau qua thời gian. Nhưng dù dưới hình thức nào, bài cho rằng nó đều quy về một việc: **điều chỉnh cung tiền trong nền kinh tế để đạt một kết hợp nào đó giữa ổn định lạm phát và ổn định sản lượng**.
+
+Vì sao điều chỉnh lượng tiền lại có thể tác động tới sản lượng? Bài dựa vào một điểm mà hầu hết các nhà kinh tế đồng ý:
+
+- **Trong dài hạn**, sản lượng của nền kinh tế được coi là cố định, do lao động, vốn và công nghệ quyết định. Thêm tiền không làm ra thêm hàng hoá; thay đổi cung tiền khi đó chỉ làm **giá** thay đổi.
+- **Trong ngắn hạn**, giá và lương thường không điều chỉnh ngay lập tức. Vì vậy thay đổi cung tiền có thể ảnh hưởng tới lượng hàng hoá và dịch vụ thực sự được sản xuất ra.
+
+Chính khoảng thời gian giá và lương chưa kịp điều chỉnh này làm cho chính sách tiền tệ, thường do các ngân hàng trung ương như Cục Dự trữ Liên bang Mỹ (Fed) hay Ngân hàng Trung ương châu Âu (ECB) thực hiện, trở thành một công cụ có ý nghĩa để theo đuổi **cả** mục tiêu lạm phát **lẫn** mục tiêu tăng trưởng.
+
+**Ví dụ suy thoái.** Bài mô tả một cuộc suy thoái điển hình qua ba hiện tượng cùng lúc:
+
+1. Người tiêu dùng ngừng chi tiêu nhiều như trước.
+2. Sản xuất của doanh nghiệp giảm, khiến các hãng sa thải lao động và ngừng đầu tư vào năng lực sản xuất mới.
+3. Người nước ngoài cũng có thể mua ít hàng xuất khẩu của nước đó hơn.
+
+Gộp lại, đó là một sự **suy giảm tổng cầu**. Chính phủ có thể ứng phó bằng một chính sách đi ngược với hướng nền kinh tế đang đi, gọi là chính sách phản chu kỳ, và chính sách tiền tệ thường là công cụ phản chu kỳ được chọn.
+
+**Cái giá của việc kích cầu.** Một chính sách phản chu kỳ như vậy sẽ làm sản lượng và việc làm tăng lên như mong muốn. Nhưng vì nó dựa vào việc tăng cung tiền, nó cũng làm giá tăng. Bài mô tả cơ chế tăng giá này theo từng bước:
+
+1. Khi nền kinh tế tiến gần tới mức sản xuất hết công suất, cầu tăng thêm gây áp lực lên chi phí đầu vào, kể cả tiền lương.
+2. Người lao động dùng thu nhập tăng thêm để mua thêm hàng hoá và dịch vụ.
+3. Cầu tăng thêm lại tiếp tục đẩy giá và lương lên cao hơn nữa, và đẩy lạm phát chung lên, một kết quả mà nhà hoạch định chính sách thường muốn tránh.
+
+**Vì thế phải cân bằng hai mục tiêu.** Nhà hoạch định tiền tệ luôn phải cân đối giữa mục tiêu về giá và mục tiêu về sản lượng. Bài đưa ra hai trường hợp để cho thấy điều này đúng cả ở nơi chính thức chỉ có một mục tiêu:
+
+| Ngân hàng trung ương | Nhiệm vụ chính thức | Thực tế theo bài |
+|---|---|---|
+| ECB | Chỉ nhắm vào lạm phát | Nhìn chung thừa nhận rằng cũng chú ý tới ổn định sản lượng và giữ nền kinh tế gần mức toàn dụng lao động |
+| Fed | Nhiệm vụ kép rõ ràng do Quốc hội Mỹ giao | Mục tiêu việc làm được thừa nhận chính thức và đặt ngang hàng với mục tiêu lạm phát |
+
+**Vì sao chính sách tiền tệ là tuyến phòng thủ đầu tiên.** Chính sách tiền tệ không phải công cụ duy nhất để quản lý tổng cầu. Chính sách tài khoá, tức thuế và chi tiêu của nhà nước, là một công cụ khác, và các chính phủ đã dùng nó rộng rãi trong cuộc khủng hoảng đang diễn ra lúc bài được viết (năm 2009). Tuy vậy, chính sách tài khoá có ba nhược điểm mà bài nêu ra:
+
+- **Chậm:** thường phải mất thời gian để thông qua luật thay đổi thuế và chi tiêu.
+- **Khó đảo ngược:** một khi các thay đổi đó đã thành luật, rất khó rút lại về mặt chính trị khi không còn cần nữa.
+- **Phản ứng không chắc chắn:** người tiêu dùng có thể không làm như nhà nước mong muốn. Ví dụ, khi được giảm thuế, họ có thể tiết kiệm khoản tiền đó thay vì chi tiêu.
+
+Do đó dễ hiểu vì sao chính sách tiền tệ thường được coi là **tuyến phòng thủ đầu tiên** để ổn định nền kinh tế khi suy giảm. Ngoại lệ là các nước theo **tỷ giá cố định**: ở đó chính sách tiền tệ bị gắn hoàn toàn vào việc giữ tỷ giá, nên không còn tự do dùng để ổn định sản lượng.
 
 ### 2. Chính sách độc lập
 
-- Dù nó là một trong các công cụ kinh tế quan trọng nhất của chính phủ, hầu hết các nhà kinh tế cho rằng chính sách tiền tệ được thực hiện tốt nhất bởi một ngân hàng trung ương (hoặc một cơ quan tương tự) độc lập với chính phủ được bầu. Niềm tin này bắt nguồn từ nghiên cứu hàn lâm, khoảng 30 năm trước, vốn nhấn mạnh vấn đề không nhất quán theo thời gian.
-- Các nhà hoạch định tiền tệ kém độc lập hơn với chính phủ sẽ thấy có lợi ích khi hứa hẹn lạm phát thấp để giữ kỳ vọng lạm phát của người tiêu dùng và doanh nghiệp ở mức thấp. Nhưng sau đó, để đáp lại các diễn biến tiếp theo, họ có thể thấy khó cưỡng lại việc mở rộng cung tiền, mang lại một bất ngờ lạm phát. Bất ngờ đó thoạt tiên sẽ thúc đẩy sản lượng, bằng cách làm lao động tương đối rẻ (lương thay đổi chậm), và cũng sẽ giảm giá trị thực, hay đã điều chỉnh lạm phát, của nợ chính phủ. Nhưng người dân sẽ sớm nhận ra thiên lệch lạm phát này và nâng kỳ vọng của mình về việc giá sẽ tăng, khiến các nhà hoạch định khó lòng đạt được lạm phát thấp.
-- Để vượt qua vấn đề không nhất quán theo thời gian, một số nhà kinh tế đề xuất rằng các nhà hoạch định nên cam kết với một quy tắc loại bỏ toàn quyền tuỳ nghi trong việc điều chỉnh chính sách tiền tệ. Tuy nhiên, trong thực tế, việc cam kết một cách đáng tin cậy với một quy tắc (có thể phức tạp) tỏ ra khó khăn. Một giải pháp thay thế, vẫn che chắn quá trình khỏi chính trị và củng cố niềm tin của công chúng vào cam kết của nhà chức trách đối với lạm phát thấp, là giao chính sách tiền tệ cho một ngân hàng trung ương độc lập được cách ly khỏi phần lớn quá trình chính trị, như đã là trường hợp ở một số nền kinh tế. Bằng chứng gợi ý rằng tính độc lập của ngân hàng trung ương quả thực gắn với lạm phát thấp hơn và ổn định hơn.
+Dù chính sách tiền tệ là một trong những công cụ kinh tế quan trọng nhất của nhà nước, hầu hết các nhà kinh tế cho rằng nó được thực hiện tốt nhất bởi một ngân hàng trung ương (hoặc một cơ quan tương tự) **độc lập với chính phủ do dân bầu**. Niềm tin này bắt nguồn từ các nghiên cứu học thuật khoảng 30 năm trước thời điểm bài viết, nhấn mạnh vấn đề **không nhất quán theo thời gian**.
+
+Bài trình bày vấn đề này như một chuỗi bốn bước:
+
+1. **Lời hứa.** Một nhà hoạch định tiền tệ kém độc lập với chính phủ vẫn thấy có lợi khi hứa giữ lạm phát thấp, vì lời hứa đó giữ cho kỳ vọng lạm phát của người tiêu dùng và doanh nghiệp ở mức thấp.
+2. **Cám dỗ thất hứa.** Sau đó, trước những diễn biến mới, họ có thể thấy khó cưỡng lại việc mở rộng cung tiền, tạo ra một **bất ngờ lạm phát** (lạm phát cao hơn mức mọi người đã dự tính).
+3. **Lợi ích ngắn hạn của bất ngờ.** Bất ngờ lạm phát lúc đầu đem lại hai lợi ích cho chính phủ. Thứ nhất, nó làm sản lượng tăng, vì lương thay đổi chậm nên khi giá tăng thì lao động tương đối rẻ đi và doanh nghiệp thuê thêm người. Thứ hai, nó làm giảm **giá trị thực** (giá trị đã điều chỉnh theo lạm phát) của nợ chính phủ.
+4. **Kết cục.** Người dân sớm nhận ra **thiên lệch lạm phát** này và nâng kỳ vọng về mức tăng giá. Khi đó nhà hoạch định khó lòng đạt được lạm phát thấp nữa, kể cả khi họ thật lòng muốn.
+
+Ví dụ minh hoạ (số giả định): ngân hàng trung ương hứa lạm phát 2%, công đoàn ký hợp đồng tăng lương 2%. Nếu sau đó lạm phát thực tế là 5%, lương thực tế của công nhân giảm khoảng 3%, doanh nghiệp thuê thêm người, sản lượng tăng. Nhưng lần ký hợp đồng sau, công đoàn sẽ đòi tăng lương 5% hoặc hơn để phòng thân, và lạm phát cao trở thành mặc định mà không còn đem lại thêm sản lượng.
+
+**Hai cách giải quyết.** Bài nêu hai hướng:
+
+| Cách giải | Nội dung | Vấn đề |
+|---|---|---|
+| Cam kết theo quy tắc | Nhà hoạch định cam kết làm theo một quy tắc cố định, bỏ hẳn quyền tuỳ ý điều chỉnh chính sách | Trong thực tế, cam kết một cách đáng tin với một quy tắc (có thể rất phức tạp) tỏ ra khó khăn |
+| Ngân hàng trung ương độc lập | Giao chính sách tiền tệ cho một ngân hàng trung ương được cách ly khỏi phần lớn quá trình chính trị, như một số nền kinh tế đã làm | Là giải pháp thay thế, vẫn che chắn chính sách khỏi chính trị và củng cố niềm tin của công chúng vào cam kết giữ lạm phát thấp |
+
+Bài kết luận phần này bằng nhận định rằng bằng chứng cho thấy tính độc lập của ngân hàng trung ương quả thực **gắn với** lạm phát thấp hơn và ổn định hơn.
 
 ### 3. Thực hiện chính sách tiền tệ
 
-- Một ngân hàng trung ương thay đổi chính sách tiền tệ như thế nào? Cách tiếp cận cơ bản chỉ đơn giản là thay đổi quy mô cung tiền. Điều này thường được thực hiện qua các nghiệp vụ thị trường mở, trong đó nợ chính phủ ngắn hạn được trao đổi với khu vực tư nhân. Nếu Fed, chẳng hạn, mua hay vay tín phiếu kho bạc từ các ngân hàng thương mại, ngân hàng trung ương sẽ cộng tiền mặt vào các tài khoản, gọi là dự trữ, mà các ngân hàng bắt buộc phải giữ tại đó. Điều đó mở rộng cung tiền. Ngược lại, nếu Fed bán hay cho các ngân hàng vay chứng khoán kho bạc, khoản thanh toán nó nhận lại sẽ giảm cung tiền.
-- Dù nhiều ngân hàng trung ương đã thử nghiệm qua các năm với các mục tiêu rõ ràng cho tăng trưởng tiền, các mục tiêu như vậy đã trở nên ít phổ biến hơn nhiều, vì tương quan giữa tiền và giá khó đo hơn trước đây. Nhiều ngân hàng trung ương đã chuyển sang lạm phát làm mục tiêu của mình, hoặc đơn độc hoặc kèm một mục tiêu có thể ngầm cho tăng trưởng và/hoặc việc làm.
-- Khi một ngân hàng trung ương nói công khai về chính sách tiền tệ, nó thường tập trung vào các lãi suất mà nó muốn thấy, thay vì vào bất kỳ lượng tiền cụ thể nào (dù các mức lãi suất mong muốn có thể cần được đạt qua các thay đổi ở cung tiền). Các ngân hàng trung ương có xu hướng tập trung vào một lãi suất chính sách, thường là một lãi suất ngắn hạn, thường là qua đêm, mà các ngân hàng tính cho nhau khi vay vốn. Khi ngân hàng trung ương bơm tiền vào hệ thống bằng cách mua hay vay chứng khoán, thông tục gọi là nới lỏng chính sách, lãi suất giảm. Nó thường tăng khi ngân hàng trung ương thắt chặt bằng cách hút dự trữ. Ngân hàng trung ương kỳ vọng rằng các thay đổi ở lãi suất chính sách sẽ truyền qua đến mọi lãi suất khác có liên quan trong nền kinh tế.
+**Thay đổi quy mô cung tiền.** Cách tiếp cận cơ bản để thay đổi chính sách tiền tệ chỉ đơn giản là thay đổi lượng tiền trong nền kinh tế. Việc này thường được làm qua **nghiệp vụ thị trường mở**, tức mua bán nợ chính phủ ngắn hạn với khu vực tư nhân. Bài lấy Fed làm ví dụ:
+
+| Fed làm gì | Tác động lên dự trữ ngân hàng | Tác động lên cung tiền |
+|---|---|---|
+| Mua hoặc vay tín phiếu kho bạc từ ngân hàng thương mại | Fed cộng tiền vào tài khoản mà các ngân hàng bắt buộc phải giữ tại Fed, gọi là **dự trữ** | Tăng |
+| Bán hoặc cho ngân hàng vay chứng khoán kho bạc | Fed nhận tiền thanh toán từ ngân hàng, dự trữ giảm | Giảm |
+
+**Từ mục tiêu lượng tiền sang mục tiêu lạm phát.** Qua nhiều năm, nhiều ngân hàng trung ương đã thử đặt mục tiêu rõ ràng cho tốc độ tăng của lượng tiền. Các mục tiêu này nay ít phổ biến hơn nhiều, vì mối liên hệ giữa lượng tiền và giá cả trở nên khó đo hơn trước. Nhiều ngân hàng trung ương đã chuyển sang lấy **lạm phát** làm mục tiêu, hoặc chỉ lạm phát, hoặc lạm phát kèm một mục tiêu ngầm về tăng trưởng và/hoặc việc làm.
+
+**Nói bằng lãi suất, làm bằng lượng tiền.** Khi phát biểu công khai, ngân hàng trung ương thường nói về **mức lãi suất** mà nó muốn thấy, chứ không nói về một lượng tiền cụ thể, dù để đạt được mức lãi suất đó nó vẫn phải thay đổi cung tiền. Cụ thể:
+
+- Ngân hàng trung ương thường tập trung vào **một lãi suất chính sách**, thường là lãi suất ngắn hạn, hay gặp nhất là lãi suất qua đêm mà các ngân hàng tính cho nhau khi vay vốn.
+- Khi ngân hàng trung ương bơm tiền vào hệ thống bằng cách mua hoặc vay chứng khoán, gọi thông thường là **nới lỏng** chính sách, lãi suất này giảm.
+- Khi ngân hàng trung ương **thắt chặt** bằng cách hút dự trữ khỏi hệ thống, lãi suất này thường tăng.
+- Ngân hàng trung ương kỳ vọng thay đổi của lãi suất chính sách sẽ **truyền sang** mọi lãi suất liên quan khác trong nền kinh tế, như lãi suất cho vay và lãi suất tiền gửi.
 
 ### 4. Cơ chế truyền dẫn
 
-- Việc thay đổi chính sách tiền tệ có các tác động quan trọng lên tổng cầu, và do đó lên cả sản lượng lẫn giá. Có một số cách mà các hành động chính sách được truyền đến nền kinh tế thực (Ireland, 2008).
-- Cái mà người ta thường tập trung vào là **kênh lãi suất**. Nếu ngân hàng trung ương thắt chặt, chẳng hạn, chi phí vay tăng, người tiêu dùng ít có khả năng mua những thứ họ thường tài trợ bằng vay, như nhà hay xe, và doanh nghiệp ít có khả năng đầu tư vào thiết bị, phần mềm hay nhà xưởng mới. Mức hoạt động kinh tế giảm này sẽ nhất quán với lạm phát thấp hơn vì cầu thấp hơn thường nghĩa là giá thấp hơn.
-- Nhưng đây chưa phải hết chuyện. Việc tăng lãi suất cũng có xu hướng giảm giá trị ròng của doanh nghiệp và cá nhân, còn gọi là **kênh bảng cân đối**, khiến họ khó đủ điều kiện vay ở bất kỳ mức lãi suất nào, qua đó giảm chi tiêu và áp lực giá. Việc tăng lãi cũng làm các ngân hàng nhìn chung kém sinh lời hơn và do đó kém sẵn sàng cho vay hơn: **kênh cho vay ngân hàng**. Lãi suất cao thường dẫn đến việc đồng tiền lên giá, khi các nhà đầu tư nước ngoài tìm kiếm lợi nhuận cao hơn và tăng cầu đối với đồng tiền đó. Qua **kênh tỷ giá**, xuất khẩu giảm vì trở nên đắt hơn, và nhập khẩu tăng vì trở nên rẻ hơn. Đến lượt nó, GDP co lại.
-- Chính sách tiền tệ có một tác động quan trọng thêm lên lạm phát qua **kỳ vọng**, thành phần tự ứng nghiệm của lạm phát. Nhiều hợp đồng lương và giá được thoả thuận trước, dựa trên các dự báo lạm phát. Nếu các nhà hoạch định tăng lãi suất và truyền đạt rằng sẽ còn các đợt tăng nữa, điều này có thể thuyết phục công chúng rằng các nhà hoạch định nghiêm túc về việc giữ lạm phát trong tầm kiểm soát. Các hợp đồng dài hạn khi đó sẽ tính vào các mức tăng lương và giá khiêm tốn hơn theo thời gian, đến lượt nó sẽ giữ lạm phát thực tế ở mức thấp.
+Thay đổi chính sách tiền tệ có tác động quan trọng lên tổng cầu, và qua đó lên cả sản lượng lẫn giá. Dựa theo một tổng kết của Ireland (2008), bài mô tả năm con đường mà hành động chính sách truyền đến nền kinh tế thực. Trong mỗi kênh dưới đây, bài lấy trường hợp ngân hàng trung ương **thắt chặt** (tăng lãi suất); nới lỏng thì tác động theo chiều ngược lại.
+
+1. **Kênh lãi suất.** Đây là kênh người ta thường chú ý nhất. Khi ngân hàng trung ương thắt chặt, chi phí vay tăng. Người tiêu dùng ít mua những thứ thường phải vay để mua, như nhà hay xe. Doanh nghiệp ít đầu tư vào thiết bị, phần mềm hay nhà xưởng mới. Hoạt động kinh tế giảm xuống, và điều đó đi cùng lạm phát thấp hơn, vì cầu thấp hơn thường có nghĩa là giá thấp hơn.
+2. **Kênh bảng cân đối.** Lãi suất tăng cũng có xu hướng làm giảm **giá trị ròng** (tài sản trừ nợ) của doanh nghiệp và cá nhân, chẳng hạn vì giá nhà, giá cổ phiếu mà họ nắm giữ giảm. Giá trị ròng thấp hơn khiến họ khó đủ điều kiện vay ở bất kỳ mức lãi suất nào, nên chi tiêu và áp lực giá giảm thêm.
+3. **Kênh cho vay ngân hàng.** Lãi suất tăng làm các ngân hàng nhìn chung kém sinh lời hơn, nên kém sẵn sàng cho vay hơn. Lượng tín dụng giảm, chi tiêu giảm theo.
+4. **Kênh tỷ giá.** Lãi suất cao thường làm đồng tiền **lên giá**, vì nhà đầu tư nước ngoài tìm kiếm lợi nhuận cao hơn và mua thêm đồng tiền đó. Khi đồng tiền lên giá, hàng xuất khẩu trở nên đắt hơn với người nước ngoài nên xuất khẩu giảm, còn hàng nhập khẩu trở nên rẻ hơn nên nhập khẩu tăng. Kết quả là GDP co lại.
+5. **Kênh kỳ vọng.** Chính sách tiền tệ còn có thêm một tác động quan trọng lên lạm phát qua kỳ vọng, vốn là thành phần tự ứng nghiệm của lạm phát. Nhiều hợp đồng lương và giá được thoả thuận trước, dựa trên dự báo lạm phát. Nếu nhà hoạch định tăng lãi suất và nói rõ rằng sẽ còn tăng tiếp, công chúng có thể tin rằng họ nghiêm túc trong việc kiểm soát lạm phát. Các hợp đồng dài hạn khi đó sẽ ghi mức tăng lương và giá khiêm tốn hơn, và chính điều đó giữ cho lạm phát thực tế ở mức thấp.
+
+Tóm tắt năm kênh:
+
+| Kênh | Lãi suất tăng làm thay đổi gì | Ai giảm chi tiêu |
+|---|---|---|
+| Lãi suất | Chi phí vay tăng | Người mua nhà, mua xe; doanh nghiệp đầu tư |
+| Bảng cân đối | Giá trị ròng giảm, khó đủ điều kiện vay | Doanh nghiệp và cá nhân đi vay |
+| Cho vay ngân hàng | Ngân hàng kém sinh lời, ít muốn cho vay | Người phụ thuộc vào vốn vay ngân hàng |
+| Tỷ giá | Đồng tiền lên giá | Người nước ngoài mua hàng xuất khẩu |
+| Kỳ vọng | Công chúng tin lạm phát sẽ được kiềm chế | Không giảm chi tiêu, mà giảm mức tăng lương và giá trong hợp đồng |
+
+**Ví dụ hôm nay** (minh hoạ chung, số giả định). Một gia đình định vay 1 tỷ đồng mua nhà trả góp 20 năm. Nếu lãi suất vay tăng từ 8% lên 11% một năm, tiền lãi năm đầu tăng từ khoảng 80 triệu lên khoảng 110 triệu đồng. Nhiều gia đình sẽ hoãn mua, đó là kênh lãi suất. Nếu đồng thời giá căn nhà họ đang ở (tài sản thế chấp) giảm, ngân hàng cho vay ít hơn, đó là kênh bảng cân đối.
 
 ### 5. Khi lãi suất không thể xuống thấp hơn
 
-- Trong hai năm qua, các ngân hàng trung ương trên toàn thế giới đã cắt mạnh lãi suất chính sách, trong một số trường hợp xuống bằng không, làm cạn kiệt tiềm năng cắt giảm. Dù vậy, họ đã tìm ra các cách phi truyền thống để tiếp tục nới lỏng chính sách.
-- Một cách tiếp cận là mua số lượng lớn công cụ tài chính từ thị trường. Cái gọi là **nới lỏng định lượng** này làm tăng quy mô bảng cân đối của ngân hàng trung ương và bơm tiền mặt mới vào nền kinh tế. Các ngân hàng nhận thêm dự trữ (các khoản gửi họ duy trì tại ngân hàng trung ương) và cung tiền tăng.
-- Một lựa chọn liên quan chặt, **nới lỏng tín dụng**, cũng có thể mở rộng quy mô bảng cân đối của ngân hàng trung ương, nhưng trọng tâm nghiêng về thành phần của bảng cân đối đó, tức các loại tài sản được mua. Trong cuộc khủng hoảng hiện tại, nhiều thị trường tín dụng cụ thể đã trở nên tắc nghẽn, và kết quả là kênh lãi suất không hoạt động. Các ngân hàng trung ương ứng phó bằng cách nhắm trực tiếp vào các thị trường có vấn đề đó. Chẳng hạn, Fed lập một cơ sở đặc biệt để mua thương phiếu (nợ doanh nghiệp rất ngắn hạn) nhằm bảo đảm các doanh nghiệp tiếp tục tiếp cận được vốn lưu động. Nó cũng mua chứng khoán bảo đảm bằng thế chấp để duy trì tài trợ nhà ở.
-- Một số người lập luận rằng nới lỏng tín dụng đưa chính sách tiền tệ quá gần với chính sách công nghiệp, với ngân hàng trung ương bảo đảm dòng tài chính đến các phần cụ thể của thị trường. Nhưng nới lỏng định lượng cũng không kém tranh cãi. Nó liên quan đến việc mua một tài sản trung lập hơn như nợ chính phủ, nhưng nó đẩy ngân hàng trung ương về phía tài trợ thâm hụt tài khoá của chính phủ, có thể đặt dấu hỏi cho tính độc lập của nó.
-- Nay khi nền kinh tế toàn cầu có vẻ đang phục hồi, mối quan tâm chính đã chuyển sang việc vạch ra một chiến lược rút lui: làm sao các ngân hàng trung ương có thể tháo gỡ các can thiệp phi thường của mình và thắt chặt chính sách, để bảo đảm rằng lạm phát không trở thành vấn đề sau này?
+Trong hai năm trước thời điểm bài viết, các ngân hàng trung ương trên khắp thế giới đã cắt mạnh lãi suất chính sách, có nơi xuống bằng không. Khi lãi suất đã bằng không thì không còn chỗ để cắt tiếp. Dù vậy, họ đã tìm ra những cách **phi truyền thống** để tiếp tục nới lỏng.
+
+**Nới lỏng định lượng.** Ngân hàng trung ương mua một lượng lớn công cụ tài chính trên thị trường. Việc này làm tăng quy mô bảng cân đối của ngân hàng trung ương và bơm tiền mới vào nền kinh tế. Các ngân hàng thương mại nhận thêm dự trữ (các khoản tiền họ gửi tại ngân hàng trung ương), và cung tiền tăng.
+
+**Nới lỏng tín dụng.** Đây là một lựa chọn gần với nới lỏng định lượng và cũng có thể làm bảng cân đối của ngân hàng trung ương phình ra, nhưng trọng tâm là **thành phần** của bảng cân đối, tức ngân hàng trung ương mua **loại tài sản nào**. Lý do cần đến công cụ này: trong cuộc khủng hoảng, nhiều thị trường tín dụng cụ thể bị tắc nghẽn, nên dù lãi suất chính sách giảm, lãi suất ở các thị trường đó không giảm theo; kênh lãi suất không hoạt động. Ngân hàng trung ương vì vậy nhắm thẳng vào các thị trường có vấn đề. Bài nêu hai việc Fed đã làm:
+
+- Lập một cơ chế đặc biệt để mua **thương phiếu** (nợ rất ngắn hạn do doanh nghiệp phát hành) nhằm bảo đảm doanh nghiệp vẫn vay được vốn lưu động để trả lương, mua nguyên liệu.
+- Mua **chứng khoán bảo đảm bằng thế chấp** (giấy tờ nợ được đảm bảo bằng các khoản vay mua nhà) để duy trì nguồn vốn cho thị trường nhà ở.
+
+So sánh hai công cụ:
+
+| | Nới lỏng định lượng | Nới lỏng tín dụng |
+|---|---|---|
+| Nhấn vào | Quy mô mua tài sản | Loại tài sản được mua |
+| Tài sản điển hình | Tài sản trung lập hơn, như nợ chính phủ | Thương phiếu, chứng khoán bảo đảm bằng thế chấp |
+| Mục đích | Bơm thêm tiền, tăng dự trữ và cung tiền | Khơi thông thị trường tín dụng bị tắc nghẽn |
+| Lời phản đối | Đẩy ngân hàng trung ương về phía tài trợ thâm hụt ngân sách của chính phủ, có thể làm người ta nghi ngờ tính độc lập | Đưa chính sách tiền tệ quá gần với chính sách công nghiệp, vì ngân hàng trung ương quyết định dòng vốn chảy vào phần nào của thị trường |
+
+**Tranh cãi.** Bài nêu cả hai phía. Một số người cho rằng nới lỏng tín dụng làm chính sách tiền tệ quá giống chính sách công nghiệp, vì ngân hàng trung ương trực tiếp bảo đảm dòng vốn tới những phần cụ thể của thị trường. Nhưng nới lỏng định lượng cũng gây tranh cãi không kém: dù nó mua một tài sản trung lập hơn như nợ chính phủ, nó lại đẩy ngân hàng trung ương về phía tài trợ cho thâm hụt ngân sách của chính phủ, và điều đó có thể khiến người ta đặt dấu hỏi về tính độc lập của ngân hàng trung ương.
+
+**Chiến lược rút lui.** Lúc bài được viết, kinh tế toàn cầu có vẻ đang phục hồi, nên mối quan tâm chính đã chuyển sang việc vạch ra một **chiến lược rút lui**: ngân hàng trung ương sẽ tháo gỡ các biện pháp can thiệp phi thường và thắt chặt trở lại như thế nào, để bảo đảm lạm phát không trở thành vấn đề về sau.
 
 ## Thuật ngữ
 

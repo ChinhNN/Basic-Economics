@@ -86,35 +86,88 @@
 2. Đo kỳ vọng lạm phát thế nào?
 3. Ngân hàng trung ương neo kỳ vọng ra sao và uy tín đóng vai trò gì?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Lạm phát (inflation).** Tốc độ tăng của mặt bằng giá chung của hàng hoá và dịch vụ mà người dân thường mua. Con số lạm phát được báo chí đưa tin thường so giá tháng này với cùng tháng năm trước. Ví dụ minh hoạ: một giỏ hàng tháng 3 năm ngoái giá 1.000.000 đồng, tháng 3 năm nay giá 1.050.000 đồng, thì lạm phát là 5%. Đây là biến số mà cả bài xoay quanh.
+
+**Kỳ vọng lạm phát (inflation expectations).** Tốc độ mà người dân, doanh nghiệp và chuyên gia **tin rằng** giá sẽ tăng hoặc giảm trong tương lai. Ví dụ trong bài: chiếc xe giá 20.000 USD hôm nay, nếu bạn tin một năm sau nó giá 22.000 USD thì kỳ vọng lạm phát của bạn với chiếc xe là 10%. Khái niệm này quan trọng vì theo bài, kỳ vọng hôm nay có xu hướng trở thành lạm phát thực ngày mai.
+
+**Vòng xoáy lương - giá (wage-price spiral).** Lạm phát khiến người lao động đòi tăng lương, lương tăng khiến doanh nghiệp tăng giá bán, giá tăng lại khiến người lao động đòi tăng lương tiếp. Ví dụ minh hoạ: công đoàn kỳ vọng giá tăng 10% nên đòi tăng lương 10%; doanh nghiệp trả lương cao hơn nên tăng giá sản phẩm thêm 10%. Đây là kênh chính để kỳ vọng tự biến thành hiện thực.
+
+**Thờ ơ hợp lý (rational inattention).** Người ta không dành thời gian theo dõi lạm phát vì chi phí tìm hiểu lớn hơn lợi ích họ thấy được. Thay vào đó họ đoán theo một vài mặt hàng mua thường xuyên. Ví dụ minh hoạ: một người thấy giá xăng tăng 20% trong tháng liền nghĩ mọi thứ đều đang tăng mạnh, dù giá chung chỉ tăng 3%. Khái niệm này giải thích vì sao kỳ vọng của hộ gia đình khác nhau rất nhiều.
+
+**Mục tiêu lạm phát và kỳ vọng được neo (inflation target, anchored expectations).** Mục tiêu lạm phát là mức lạm phát ổn định mà ngân hàng trung ương muốn duy trì. Kỳ vọng được "neo" khi người dân vẫn tin lạm phát sẽ quay về mục tiêu dù hiện tại đang lệch. Ví dụ minh hoạ: mục tiêu là 2%, lạm phát năm nay vọt lên 5% vì hạn hán, nhưng người dân vẫn trả lời khảo sát rằng hai, ba năm nữa lạm phát sẽ khoảng 2%. Neo kỳ vọng là mục tiêu trung tâm của ngân hàng trung ương trong bài.
+
+**Lãi suất chính sách (policy interest rate).** Lãi suất ngắn hạn mà ngân hàng trung ương đặt ra, ảnh hưởng tới lãi suất cho vay trong cả nền kinh tế. Ví dụ minh hoạ: ngân hàng trung ương tăng lãi suất chính sách thêm 1 điểm phần trăm, lãi vay mua nhà có thể tăng từ 8% lên 9%, khiến một số hộ hoãn mua nhà. Đây là công cụ chính để kéo lạm phát và kỳ vọng xuống.
+
+**Định hướng tương lai (forward guidance).** Ngân hàng trung ương thông báo trước về hướng đi của chính sách, ví dụ "lãi suất sẽ giữ thấp ít nhất đến năm sau", để tác động tới kỳ vọng ngay hôm nay. Công cụ này đặc biệt hữu ích khi lãi suất đã ở gần 0 và không thể hạ thêm nhiều.
+
+**Uy tín ngân hàng trung ương (central bank credibility).** Mức độ người dân tin rằng ngân hàng trung ương sẽ làm điều cần thiết để giữ lạm phát ở mục tiêu, kể cả khi việc đó gây khó khăn ngắn hạn. Ví dụ minh hoạ: nếu người dân tin chắc ngân hàng trung ương sẽ tăng lãi suất khi giá tăng, họ không vội đòi tăng lương, nên lạm phát tự hạ nhanh hơn. Bài coi uy tín là thứ giúp ngân hàng trung ương ổn định giá với ít nỗ lực hơn.
+
+## Nội dung chi tiết
 
 ### 1. Kỳ vọng lạm phát là gì
 
-- Giá ở nhiều nơi tăng nhanh nhất 40 năm. Báo chí đưa con số lạm phát mới nhất (thay đổi giá so với cùng tháng năm trước), nhưng nhà hoạch định chính sách tập trung chủ yếu vào kỳ vọng lạm phát.
-- **Định nghĩa:** tốc độ người ta tin giá sẽ tăng hoặc giảm trong tương lai. Xe 20.000 USD hôm nay, tin sẽ 22.000 sau một năm thì kỳ vọng lạm phát xe là 10%; tin 18.000 thì −10%; tin không đổi thì 0. Mở rộng ra mọi hàng hoá dịch vụ tiêu dùng điển hình sẽ có kỳ vọng lạm phát chung.
-- **Vì sao quan trọng:** kỳ vọng hôm nay có xu hướng thành lạm phát thực ngày mai. Kỳ vọng xe rẻ hơn 10% thì chờ mua, tiêu dùng giảm làm tăng trưởng chậm, cầu giảm, giá giảm thêm. Kỳ vọng đắt hơn 10% thì mua ngay để tránh trả cao hơn, cầu tăng, giá tăng.
-- **Đàm phán lương:** công nhân và công đoàn kỳ vọng giá tăng 10% sẽ đòi tăng lương ít nhất bằng vậy để giữ sức mua, có thể đình công gây sức ép. Doanh nghiệp tăng giá để bảo vệ biên lợi nhuận trước chi phí lương. Đây là "vòng xoáy lương - giá": lạm phát dẫn đến lương cao hơn, dẫn đến lạm phát cao hơn nữa.
+Vào thời điểm bài được viết, giá ở nhiều nước đang tăng nhanh nhất trong 40 năm. Báo chí tập trung vào con số lạm phát mới nhất, tức mức thay đổi giá so với cùng tháng năm trước. Nhưng điều mà các nhà hoạch định chính sách theo dõi sát nhất lại là **kỳ vọng lạm phát**.
+
+Kỳ vọng lạm phát là tốc độ người ta tin giá sẽ tăng hoặc giảm trong tương lai. Bài minh hoạ bằng một chiếc xe:
+
+| Giá hôm nay | Giá bạn tin sau 1 năm | Kỳ vọng lạm phát với chiếc xe |
+|---|---|---|
+| 20.000 USD | 22.000 USD | 10% |
+| 20.000 USD | 18.000 USD | −10% |
+| 20.000 USD | 20.000 USD | 0 |
+
+Áp dụng cách nghĩ này cho mọi hàng hoá và dịch vụ trong giỏ tiêu dùng điển hình, ta có kỳ vọng lạm phát chung.
+
+**Vì sao kỳ vọng quan trọng?** Vì kỳ vọng hôm nay có xu hướng trở thành lạm phát thực ngày mai, qua hai kênh.
+
+Kênh thứ nhất là **quyết định mua sắm**. Nếu bạn tin chiếc xe sẽ rẻ đi 10%, bạn sẽ chờ mới mua. Khi nhiều người cùng chờ, tiêu dùng giảm, tăng trưởng kinh tế chậm lại, cầu giảm và giá giảm thêm, đúng như dự đoán. Ngược lại, nếu bạn tin xe sẽ đắt thêm 10%, bạn mua ngay để khỏi trả giá cao hơn. Khi nhiều người cùng làm vậy, cầu tăng và giá tăng thật.
+
+Kênh thứ hai là **đàm phán lương**. Nếu công nhân và công đoàn kỳ vọng giá tăng 10%, họ sẽ đòi tăng lương ít nhất 10% để giữ sức mua, và có thể đình công để gây sức ép. Doanh nghiệp phải trả lương cao hơn nên tăng giá bán để bảo vệ biên lợi nhuận. Đây là **vòng xoáy lương - giá**: lạm phát dẫn tới lương cao hơn, lương cao hơn lại dẫn tới lạm phát cao hơn nữa.
 
 ### 2. Đo lường kỳ vọng
 
-- Truyền thống đo bằng khảo sát của ngân hàng trung ương, đại học, tổ chức tư nhân. Đại học Michigan khảo sát hàng tháng ít nhất 600 hộ gia đình Mỹ về dự báo lạm phát. Một số khảo sát hỏi chuyên gia phân tích ở ngân hàng, công ty tài chính. Khảo sát khác hỏi cửa hàng và doanh nghiệp thực sự đặt giá.
-- Kỳ vọng khác nhau nhiều giữa và trong các nhóm. Chuyên gia dự báo được trả tiền để nghiên cứu mọi thông tin, dự đoán thường chính xác nhất, nhưng vẫn bất đồng, nhất là ở nước giá biến động.
-- Hộ gia đình và doanh nghiệp bất đồng còn lớn hơn. Lý do: hầu hết mọi người không dành thời gian nghĩ về lạm phát nếu không thấy liên quan trực tiếp, hiện tượng gọi là "thờ ơ hợp lý". Họ có thể suy mọi giá đi theo một mặt hàng mua thường xuyên như xăng. Người kỳ vọng tăng, người kỳ vọng giảm. Trung bình đơn giản không nắm được sự phức tạp này.
+Cách truyền thống để đo kỳ vọng là khảo sát, do ngân hàng trung ương, trường đại học hoặc tổ chức tư nhân thực hiện. Có ba nhóm được hỏi:
+
+- **Hộ gia đình.** Ví dụ, Đại học Michigan mỗi tháng khảo sát ít nhất 600 hộ gia đình Mỹ về dự báo lạm phát của họ.
+- **Chuyên gia dự báo**, tức các nhà phân tích ở ngân hàng và công ty tài chính.
+- **Doanh nghiệp**, kể cả cửa hàng, tức những người thực sự đặt giá bán.
+
+Kỳ vọng khác nhau rất nhiều, cả giữa các nhóm lẫn trong cùng một nhóm. Chuyên gia dự báo được trả tiền để nghiên cứu mọi thông tin, nên dự đoán của họ thường chính xác nhất, nhưng họ vẫn bất đồng với nhau, nhất là ở những nước giá cả biến động mạnh.
+
+Hộ gia đình và doanh nghiệp còn bất đồng nhiều hơn. Lý do là hiện tượng **thờ ơ hợp lý**: phần lớn mọi người không bỏ thời gian nghĩ về lạm phát nếu không thấy nó liên quan trực tiếp tới mình. Họ có thể suy ra rằng mọi giá đều đi theo giá của một mặt hàng hay mua, như xăng. Vì vậy có người kỳ vọng giá tăng, có người kỳ vọng giá giảm. Lấy trung bình đơn giản các câu trả lời sẽ không nắm được sự phức tạp này.
 
 ### 3. Duy trì ổn định giá
 
-- Hầu hết ngân hàng trung ương muốn giữ lạm phát ở mức ổn định gọi là "mục tiêu". Vì kỳ vọng có xu hướng thành lạm phát thực, ngân hàng trung ương muốn quản lý kỳ vọng sát mục tiêu nhất, tức giữ kỳ vọng "neo" vào mục tiêu để đạt ổn định giá.
-- Neo kỳ vọng ngắn hạn gần như bất khả vì chúng chủ yếu do sự kiện gần đây như lũ, hạn phá mùa màng đẩy giá thực phẩm. Thay vào đó, họ quản lý kỳ vọng trung hạn, thường 2–3 năm, "chân trời chính sách" nơi công cụ của họ ảnh hưởng được lạm phát.
-- **Lãi suất:** nếu lạm phát trên mục tiêu, tăng lãi suất chính sách ngắn hạn và ảnh hưởng lãi suất dài hạn, làm vay đắt hơn cho hộ và doanh nghiệp. Chi tiêu đắt hơn, cầu giảm, lạm phát chậm lại, kỳ vọng giảm.
-- **Định hướng tương lai (forward guidance):** truyền thông tín hiệu về hướng chính sách tiền tệ. Phổ biến khi lãi suất nhiều ngân hàng trung ương kẹt ở hoặc gần 0 suốt khoảng một thập kỷ sau khủng hoảng 2008–09. Nhiều ngân hàng ngại đẩy lãi suất âm; kể cả khi âm, họ tinh chỉnh truyền thông để kích cầu và đẩy kỳ vọng về mục tiêu.
+Hầu hết ngân hàng trung ương muốn giữ lạm phát ở một mức ổn định gọi là **mục tiêu**. Vì kỳ vọng có xu hướng thành lạm phát thực, ngân hàng trung ương muốn kéo kỳ vọng càng sát mục tiêu càng tốt, tức giữ kỳ vọng được "neo" vào mục tiêu. Đó là cách để đạt ổn định giá.
+
+Tuy nhiên, neo kỳ vọng **ngắn hạn** gần như bất khả thi, vì kỳ vọng ngắn hạn chủ yếu bị chi phối bởi các sự kiện vừa xảy ra, chẳng hạn lũ lụt hay hạn hán phá mùa màng và đẩy giá thực phẩm lên. Vì vậy ngân hàng trung ương tập trung vào kỳ vọng **trung hạn**, thường là 2–3 năm. Đây là "chân trời chính sách", khoảng thời gian mà công cụ của họ đủ sức tác động tới lạm phát.
+
+Ngân hàng trung ương có hai công cụ chính:
+
+**Lãi suất.** Nếu lạm phát cao hơn mục tiêu, ngân hàng trung ương tăng lãi suất chính sách ngắn hạn, và qua đó tác động tới cả lãi suất dài hạn. Chuỗi tác động như sau: vay mượn đắt hơn cho hộ gia đình và doanh nghiệp, nên chi tiêu giảm, cầu giảm, lạm phát chậm lại, và kỳ vọng lạm phát giảm theo.
+
+**Định hướng tương lai.** Ngân hàng trung ương truyền đạt tín hiệu về hướng đi sắp tới của chính sách tiền tệ. Công cụ này trở nên phổ biến khi lãi suất ở nhiều nước kẹt ở mức 0 hoặc gần 0 trong khoảng một thập kỷ sau khủng hoảng tài chính 2008–09. Nhiều ngân hàng trung ương ngại đẩy lãi suất xuống dưới 0. Ngay cả những nơi đã để lãi suất âm cũng tinh chỉnh cách truyền thông để kích thích cầu và kéo kỳ vọng về mục tiêu.
 
 ### 4. Uy tín ngân hàng trung ương
 
-- Neo kỳ vọng không dễ. Giả sử kỳ vọng cao hơn mục tiêu mà ngân hàng trung ương hạ lãi suất thay vì tăng. Tín dụng rẻ, cầu bùng, giá càng xa mục tiêu. Người dân nhận ra ngân hàng trung ương không nghiêm túc với nhiệm vụ ổn định giá, nên khi được hỏi sẽ trả lời kỳ vọng trên mục tiêu. Vì kỳ vọng thành lạm phát thực, lạm phát ở trên mục tiêu lâu hơn nhiều. Đó là chi phí của ngân hàng trung ương thiếu uy tín.
-- Ngược lại, ngân hàng trung ương uy tín cam kết vững với ổn định giá: dù lạm phát lệch mục tiêu, người dân tin họ sẽ làm điều cần thiết, nên có thể không đổi kỳ vọng trong chân trời 2–3 năm.
-- Đạt uy tín mất thời gian và không dễ. Phải hành động nhất quán với nhiệm vụ ổn định giá để người dân tin ngân hàng luôn sẵn sàng thu hẹp mọi chênh lệch giữa kỳ vọng và mục tiêu. Đôi khi phải đánh đổi khó: tăng lãi suất kìm áp lực giá ngay cả khi kinh tế yếu, thất nghiệp tăng.
-- Khi kỳ vọng đã neo chắc, ngân hàng trung ương có thể bớt mạnh tay mà vẫn ổn định giá. Lệch trên hay dưới mục tiêu có xu hướng tự điều chỉnh, các đợt lạm phát tan nhanh hơn. Đó là lợi ích của uy tín, giúp rảnh tay theo đuổi mục tiêu thứ cấp như tăng trưởng và việc làm.
-- Con số lạm phát hàng tháng quan trọng. Nhưng có lẽ quan trọng hơn cho triển vọng kinh tế và hướng lãi suất tương lai là kỳ vọng lạm phát.
+Neo kỳ vọng không dễ. Bài so sánh hai cách phản ứng khi kỳ vọng lạm phát đang cao hơn mục tiêu:
+
+| | Ngân hàng trung ương thiếu uy tín | Ngân hàng trung ương có uy tín |
+|---|---|---|
+| Hành động | Hạ lãi suất thay vì tăng | Cam kết vững chắc với ổn định giá |
+| Diễn biến | Tín dụng rẻ, cầu bùng nổ, giá càng xa mục tiêu | Người dân tin ngân hàng sẽ làm điều cần thiết |
+| Kỳ vọng của dân | Thấy ngân hàng không nghiêm túc, trả lời khảo sát với kỳ vọng trên mục tiêu | Không thay đổi kỳ vọng trong chân trời 2–3 năm |
+| Kết quả | Lạm phát ở trên mục tiêu lâu hơn nhiều | Lệch tự điều chỉnh, lạm phát tan nhanh |
+
+Cột bên trái mô tả **chi phí của việc thiếu uy tín**: vì kỳ vọng biến thành lạm phát thực, một sai lầm chính sách khiến lạm phát kéo dài hơn rất nhiều.
+
+Xây dựng uy tín mất thời gian và không dễ dàng. Ngân hàng trung ương phải hành động nhất quán với nhiệm vụ ổn định giá, để người dân tin rằng họ luôn sẵn sàng thu hẹp mọi khoảng cách giữa kỳ vọng và mục tiêu. Đôi khi điều đó đòi hỏi những đánh đổi khó khăn, chẳng hạn tăng lãi suất để kìm áp lực giá ngay cả khi kinh tế đang yếu và thất nghiệp đang tăng.
+
+Phần thưởng của uy tín là: khi kỳ vọng đã được neo chắc, ngân hàng trung ương có thể **bớt mạnh tay** mà vẫn giữ được ổn định giá. Những lần lạm phát lệch lên trên hay xuống dưới mục tiêu có xu hướng tự điều chỉnh, và các đợt lạm phát qua đi nhanh hơn. Nhờ vậy ngân hàng trung ương có thêm dư địa để theo đuổi các mục tiêu phụ như tăng trưởng và việc làm.
+
+Bài kết luận: con số lạm phát hằng tháng vẫn quan trọng, nhưng đối với triển vọng kinh tế và hướng đi tương lai của lãi suất, kỳ vọng lạm phát có lẽ còn quan trọng hơn.
 
 ## Thuật ngữ
 

@@ -85,42 +85,110 @@
 3. Họ vay bằng cách nào?
 4. Điều gì xảy ra khi không trả được?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Nợ công (sovereign debt).** Tổng số tiền mà chính phủ một nước đang nợ người khác, có thể là người dân, ngân hàng trong nước, nhà đầu tư nước ngoài, chính phủ khác hay tổ chức quốc tế. Nợ phát sinh khi chính phủ chi nhiều hơn số thu từ thuế. Ví dụ minh hoạ: một chính phủ thu thuế 100 tỷ, chi 110 tỷ, thì năm đó phải vay thêm 10 tỷ, và số nợ tích luỹ tăng thêm 10 tỷ. Đây là đối tượng của cả bài.
+
+**San phẳng thuế (tax smoothing).** Khi kinh tế suy thoái, người dân và doanh nghiệp có thu nhập thấp hơn nên đóng ít thuế hơn. Thay vì tăng thuế hay cắt chi đúng lúc kinh tế đang yếu, chính phủ vay để giữ các khoản chi đã cam kết. Ví dụ minh hoạ: thu thuế giảm từ 100 xuống 90 trong một năm suy thoái, chính phủ vay 10 để vẫn trả lương giáo viên, bác sĩ như cũ. Khái niệm này quan trọng vì nó là lý do đầu tiên bài đưa ra cho việc vay nợ.
+
+**Kích thích tài khoá (fiscal stimulus).** Bước đi xa hơn san phẳng thuế: chính phủ chủ động chi thêm hoặc giảm thuế trong suy thoái để kéo nền kinh tế lên, và vay để bù phần thiếu hụt. Ví dụ minh hoạ: chính phủ phát thêm 5 tỷ trợ cấp cho hộ gia đình để họ có tiền chi tiêu, khiến cửa hàng bán được hàng và giữ được nhân viên. Đây là lý do thứ hai.
+
+**Vốn vật chất và vốn con người.** Vốn vật chất là các tài sản hữu hình dùng để sản xuất, như đường cao tốc, nhà máy điện, tàu điện ngầm. Vốn con người là kiến thức, kỹ năng và sức khoẻ của người lao động, được nâng lên nhờ chi cho giáo dục và y tế. Ví dụ minh hoạ: một tuyến metro tốn 2 tỷ USD xây trong 5 năm nhưng phục vụ 50 năm, nên hợp lý khi vay và trả dần thay vì bắt người nộp thuế hôm nay trả hết. Bài coi đây là lý do lớn nhất cho mức nợ cao ở nhiều nước.
+
+**Khoản vay và trái phiếu (loan, bond).** Hai hình thức vay chính. Khoản vay được thu xếp với một bên cho vay (song phương) hay một nhóm bên cho vay (hợp vốn) và thường trả dần qua nhiều năm. Trái phiếu là giấy nợ bán cho hàng trăm, hàng nghìn nhà đầu tư, thường trả lãi định kỳ và trả toàn bộ gốc một lần khi đáo hạn. Ví dụ minh hoạ: trái phiếu 10 năm mệnh giá 1.000 USD, lãi 5%, trả 50 USD mỗi năm và 1.000 USD ở năm thứ 10.
+
+**Rủi ro tiền tệ (currency mismatch).** Khi chính phủ vay bằng ngoại tệ nhưng thu thuế bằng nội tệ, nếu nội tệ mất giá thì số nội tệ cần để trả nợ tăng lên. Ví dụ minh hoạ: nợ 1 tỷ USD khi 1 USD đổi 20 đơn vị nội tệ là 20 tỷ nội tệ; nếu nội tệ mất giá còn 1 USD đổi 25, khoản nợ thành 25 tỷ nội tệ dù không vay thêm đồng nào. Khái niệm này giải thích vì sao vay USD "rẻ" lại có thể đắt.
+
+**Mối liên hệ ngân hàng - chính phủ (bank-sovereign nexus).** Ngân hàng nắm nhiều trái phiếu chính phủ, còn chính phủ là bên phải cứu ngân hàng khi ngân hàng gặp khó, nên rủi ro của bên này lan sang bên kia. Ví dụ trong bài: khủng hoảng nợ khu vực euro 2010–12. Khái niệm này giải thích vì sao một nguồn vay tiện lợi lại có thể tạo vòng xoáy khủng hoảng.
+
+**Vỡ nợ và tái cơ cấu nợ (default, debt restructuring).** Vỡ nợ là khi chính phủ lỡ một khoản thanh toán đến hạn. Tái cơ cấu là đàm phán lại điều khoản nợ: giảm gốc, giảm lãi hoặc kéo dài thời hạn. Ví dụ minh hoạ: chủ nợ đồng ý nhận lại 70 thay vì 100. Khái niệm này quan trọng vì khác với doanh nghiệp, quốc gia không có toà phá sản, nên mọi thứ phụ thuộc vào đàm phán.
+
+## Nội dung chi tiết
 
 ### 1. Từ nợ của vua đến nợ công
 
-- Edward III của Anh hết tiền tài trợ Chiến tranh Trăm năm với Pháp, vay các gia đình ngân hàng Florence với giá rất đắt. Khi không thành vua Pháp, ông không trả nổi toàn bộ. Qua nhiều thế kỷ, "nợ của vua" trở thành nợ công: mạng lưới nghĩa vụ nợ hàng nghìn tỷ, đa quốc gia, đa tiền tệ ngày nay.
+Bài mở đầu bằng một câu chuyện thời Trung cổ. Vua Edward III của Anh hết tiền để tài trợ cho Chiến tranh Trăm năm với Pháp, nên phải vay các gia đình ngân hàng ở Florence (Ý) với lãi rất đắt. Khi ông không giành được ngai vàng nước Pháp như dự tính, ông không trả nổi toàn bộ số nợ, và các ngân hàng cho vay chịu thiệt.
+
+Qua nhiều thế kỷ, "nợ của nhà vua", tức nợ cá nhân của một người cai trị, đã trở thành **nợ công**: nợ của nhà nước, được trả bằng tiền thuế của cả quốc gia. Ngày nay, nợ công là một mạng lưới nghĩa vụ trị giá hàng nghìn tỷ đô la, trải qua nhiều quốc gia và nhiều loại tiền tệ. Câu chuyện Edward III cũng cho thấy ngay từ đầu rằng nợ của người nắm quyền lực vẫn có thể không được trả.
 
 ### 2. Vì sao vay
 
-- Chính phủ vay để chi vượt mức có thể hoặc muốn thu qua thuế.
-- **San phẳng thuế (tax smoothing):** khi thu thuế giảm như trong suy thoái, vay để trả các cam kết chi sẵn có. Giữ liên tục dịch vụ công như trường học, bệnh viện, và không phải cắt chi khi kinh tế đang yếu, điều có thể làm tình hình tệ hơn.
-- **Kích thích tài khoá:** đi xa hơn, tăng chi hoặc giảm thuế trong suy thoái để thúc tăng trưởng, tài trợ bằng phát hành nợ.
-- **Đầu tư tương lai:** hai lý do trên thường không giải thích được mức nợ cao ở nhiều nước. Chính phủ vay lớn để xây cao tốc, nhà máy điện, metro; chi phí ban đầu rất cao nên trả dần nhiều năm, kỳ vọng đầu tư thúc tăng trưởng dài hạn. Ngoài vốn vật chất còn vốn con người như giáo dục, y tế. Lợi ích dài hạn phải vượt chi phí vay.
+Nói gọn, chính phủ vay để chi nhiều hơn mức mà họ có thể hoặc muốn thu qua thuế. Bài nêu ba lý do cụ thể.
+
+**San phẳng thuế.** Khi nguồn thu thuế giảm, như trong suy thoái, chính phủ vay để tiếp tục trả các khoản chi đã cam kết. Nhờ vậy các dịch vụ công như trường học, bệnh viện được duy trì liên tục. Quan trọng hơn, chính phủ không phải cắt chi đúng lúc kinh tế đang yếu, vì cắt chi khi đó sẽ làm người dân và doanh nghiệp có ít tiền hơn và khiến suy thoái tệ thêm.
+
+**Kích thích tài khoá.** Một số chính phủ đi xa hơn: không chỉ giữ chi tiêu cũ mà còn tăng chi hoặc giảm thuế trong suy thoái để thúc đẩy tăng trưởng, và tài trợ phần thiếu hụt bằng cách phát hành nợ.
+
+**Đầu tư cho tương lai.** Hai lý do trên thường không đủ để giải thích vì sao nhiều nước có mức nợ cao. Lý do lớn hơn là đầu tư. Chính phủ vay nhiều để xây đường cao tốc, nhà máy điện, tàu điện ngầm. Những dự án này có chi phí ban đầu rất lớn, nên được trả dần qua nhiều năm, với kỳ vọng rằng chúng sẽ thúc đẩy tăng trưởng trong dài hạn. Ngoài vốn vật chất, chính phủ còn đầu tư vào vốn con người như giáo dục và y tế. Điều kiện để việc vay này hợp lý: lợi ích dài hạn của khoản đầu tư phải lớn hơn chi phí đi vay.
+
+| Lý do vay | Khi nào | Mục đích |
+|---|---|---|
+| San phẳng thuế | Thu thuế giảm (suy thoái) | Giữ chi tiêu đã cam kết, không cắt dịch vụ công |
+| Kích thích tài khoá | Suy thoái | Chủ động tăng chi, giảm thuế để kéo tăng trưởng |
+| Đầu tư tương lai | Bất kỳ lúc nào | Xây hạ tầng, nâng giáo dục và y tế; lợi ích dài hạn phải lớn hơn chi phí vay |
 
 ### 3. Vay từ ai
 
-- Chính phủ rất sáng tạo tìm người cho vay lãi suất thấp nhất, nhưng mỗi lựa chọn có đánh đổi.
-- **Trong nước** (ngân hàng, quỹ quản lý tài sản, hộ gia đình): nguồn ổn định, tin cậy, nhưng lượng tiền hạn chế và kỳ hạn thường ngắn.
-- **Thị trường vốn quốc tế:** lượng lớn hơn, kỳ hạn dài hơn, nhưng thất thường, nhất là với nước thu nhập thấp. Nguy hiểm nếu giả định nguồn này luôn sẵn có.
-- **Khu vực tư nhân đa dạng:** quỹ hưu trí nắm nhiều nợ chính phủ vì cần tài sản an toàn dài hạn khớp với nghĩa vụ dài hạn. Ngân hàng cũng nắm nhiều, nhất là nợ chính phủ nước sở tại. Nhưng "mối liên hệ ngân hàng - chính phủ" từng gây rắc rối: khủng hoảng nợ khu vực euro 2010–12, ngân hàng gặp khó giảm cho chính phủ vay, đẩy chi phí vay lên, tạo vòng xoáy thắt chặt tài chính làm suy thoái và vấn đề ngân hàng nặng thêm. Nay cả hai bên hiểu rủi ro này hơn.
-- **Chính phủ khác và tổ chức quốc tế:** thường không thuần mục tiêu thương mại (dù bên cho vay có thể không nói vậy). Một chính phủ cho chính phủ khác vay để thắt chặt quan hệ song phương. Ngân hàng Thế giới hay Ngân hàng Phát triển châu Phi cho vay xây hệ thống vệ sinh, tiêm chủng, cải cách ngành điện. IMF cấp tài chính khi nước gặp khó cán cân thanh toán.
+Chính phủ rất sáng tạo trong việc tìm người cho vay với lãi suất thấp nhất, nhưng mỗi nguồn vay đều kèm đánh đổi.
+
+**Người cho vay trong nước**, gồm ngân hàng, các quỹ quản lý tài sản và hộ gia đình. Đây là nguồn ổn định và đáng tin cậy, nhưng lượng tiền có hạn và kỳ hạn cho vay thường ngắn.
+
+**Thị trường vốn quốc tế** cho vay được nhiều hơn và với kỳ hạn dài hơn, nhưng thất thường: nhà đầu tư nước ngoài có thể rút đi nhanh chóng, nhất là với các nước thu nhập thấp. Bài cảnh báo rằng sẽ rất nguy hiểm nếu chính phủ giả định nguồn này lúc nào cũng sẵn có.
+
+**Khu vực tư nhân đa dạng.** Các quỹ hưu trí nắm nhiều nợ chính phủ vì họ phải trả lương hưu trong nhiều thập kỷ tới, nên cần những tài sản an toàn, dài hạn để khớp với nghĩa vụ đó. Ngân hàng cũng nắm nhiều nợ chính phủ, nhất là nợ của chính nước mình. Nhưng chính điều này tạo ra "mối liên hệ ngân hàng - chính phủ", từng gây rắc rối lớn trong khủng hoảng nợ khu vực euro 2010–12. Vòng xoáy diễn ra như sau:
+
+1. Ngân hàng gặp khó khăn nên giảm cho chính phủ vay.
+2. Chi phí vay của chính phủ tăng lên.
+3. Điều kiện tài chính thắt chặt, khiến suy thoái sâu hơn.
+4. Suy thoái lại làm vấn đề của ngân hàng nặng thêm, quay lại bước 1.
+
+Theo bài, ngày nay cả ngân hàng lẫn chính phủ đã hiểu rõ hơn về rủi ro này.
+
+**Chính phủ khác và tổ chức quốc tế.** Những bên này thường không cho vay thuần tuý vì mục tiêu thương mại, dù họ có thể không nói ra. Một chính phủ có thể cho chính phủ khác vay để thắt chặt quan hệ song phương. Ngân hàng Thế giới hay Ngân hàng Phát triển châu Phi cho vay để xây hệ thống vệ sinh, tiêm vaccine, hay cải cách ngành điện. IMF cấp tài chính khi một nước gặp khó khăn cán cân thanh toán, tức thiếu ngoại tệ để trả cho thế giới bên ngoài.
+
+| Nguồn vay | Ưu điểm | Nhược điểm |
+|---|---|---|
+| Trong nước (ngân hàng, quỹ, hộ gia đình) | Ổn định, tin cậy | Ít tiền, kỳ hạn ngắn |
+| Thị trường vốn quốc tế | Nhiều tiền, kỳ hạn dài | Thất thường, nhất là với nước thu nhập thấp |
+| Tư nhân (quỹ hưu trí, ngân hàng) | Quỹ hưu trí cần tài sản an toàn dài hạn | Ngân hàng tạo vòng xoáy rủi ro hai chiều |
+| Chính phủ khác, tổ chức quốc tế | Có mục tiêu phát triển hoặc hỗ trợ | Không thuần thương mại, gắn mục tiêu riêng |
 
 ### 4. Vay bằng cách nào
 
-- **Khoản vay:** thu xếp song phương hoặc qua hợp vốn, trả dần nhiều năm.
-- **Trái phiếu:** phát hành cho hàng trăm, hàng nghìn chủ nợ, thường trả toàn bộ một lần khi đáo hạn.
-- Nhiều công cụ "kỳ lạ" khác nhưng quy mô nhỏ hơn nhiều.
-- **Đánh đổi cấu trúc:** chính phủ muốn tối thiểu chi phí vay (lãi suất) mà không để cấu trúc nợ quá rủi ro. Vay bằng USD hay euro thường rẻ hơn nội tệ, nhưng nếu nội tệ mất giá, gánh nặng thực của nợ tăng. Lãi cố định giúp chi phí trả nợ ổn định, nhưng nợ gắn lãi suất thả nổi hoặc lạm phát rẻ hơn (ít nhất lúc đầu), rủi ro nếu các biến này đi hướng bất lợi.
-- Cấu trúc nợ thận trọng giúp chi phí vay thấp dài hạn. Nhưng tín nhiệm còn phụ thuộc trình độ phát triển, quy mô thị trường tài chính, lịch sử trả nợ, độ nhạy với sốc bên ngoài, điều kiện tài chính toàn cầu. Nhiều yếu tố ngoài tầm kiểm soát chính phủ. Các hãng xếp hạng và tổ chức quốc tế như IMF duy trì mô hình phức tạp đánh giá liên tục.
+Có hai hình thức chính. **Khoản vay** được thu xếp song phương hoặc qua một nhóm hợp vốn và thường trả dần trong nhiều năm. **Trái phiếu** được phát hành cho hàng trăm, hàng nghìn chủ nợ và thường trả toàn bộ gốc một lần khi đáo hạn. Ngoài ra còn nhiều công cụ "kỳ lạ" khác, nhưng quy mô nhỏ hơn nhiều.
+
+Khi thiết kế cấu trúc nợ, chính phủ muốn trả lãi suất thấp nhất có thể mà không để cấu trúc nợ quá rủi ro. Hai đánh đổi điển hình:
+
+- **Đồng tiền vay.** Vay bằng USD hay euro thường có lãi suất thấp hơn vay bằng nội tệ. Nhưng nếu nội tệ mất giá, gánh nặng thực của khoản nợ, tính bằng nội tệ, sẽ tăng lên.
+- **Loại lãi suất.** Lãi suất cố định giúp chi phí trả nợ ổn định và dễ dự tính. Nợ có lãi suất thả nổi (thay đổi theo lãi suất thị trường) hoặc gắn với lạm phát thường rẻ hơn, ít nhất là lúc đầu, nhưng sẽ gây rủi ro nếu lãi suất hay lạm phát đi theo hướng bất lợi.
+
+Một cấu trúc nợ thận trọng giúp giữ chi phí vay thấp trong dài hạn. Tuy vậy, mức tín nhiệm của một nước, tức nhà đầu tư tin nước đó trả nợ đến đâu, còn phụ thuộc vào nhiều yếu tố khác:
+
+- trình độ phát triển của nền kinh tế;
+- quy mô thị trường tài chính trong nước;
+- lịch sử trả nợ;
+- mức độ dễ bị tổn thương trước các cú sốc từ bên ngoài;
+- điều kiện tài chính toàn cầu.
+
+Nhiều yếu tố trong số này nằm ngoài tầm kiểm soát của chính phủ. Các hãng xếp hạng tín nhiệm và tổ chức quốc tế như IMF duy trì những mô hình phức tạp để đánh giá liên tục khả năng trả nợ của các nước.
 
 ### 5. Khi không trả được
 
-- Như cá nhân và doanh nghiệp, quốc gia có thể không trả nổi: vay quá nhiều, vay quá rủi ro, hoặc bị sốc bất ngờ như suy thoái sâu, thiên tai.
-- Khi đó phải tái cơ cấu nợ. Nhưng không có toà phá sản cho quốc gia để buộc con nợ và chủ nợ giải quyết. Thay vào đó là đàm phán: chủ nợ muốn thu hồi tối đa, quốc gia muốn lấy lại vị thế "bình thường" trên thị trường tài chính mà không trả quá nhiều.
-- Tái cơ cấu thường tốn kém cho cả hai bên nên tương đối hiếm. Ví dụ nổi tiếng: Nga (1998), Argentina (2005), Hy Lạp (2012), Ukraine (2015).
-- Chi phí nhỏ hơn nhiều nếu đạt thoả thuận trước khi vỡ nợ (lỡ một khoản thanh toán). Tái cơ cấu phòng ngừa thường giải quyết nhanh, lan toả nhỏ sang kinh tế và hệ thống tài chính. Sau khi vỡ nợ, quá trình có thể dài và tốn kém.
-- Nợ công đã lớn hơn, tinh vi hơn, quốc tế hơn từ thời Edward III. Nó giữ vai trò then chốt giúp chính phủ chèo chống qua suy thoái và sốc bất ngờ, tài trợ đầu tư nâng năng suất và tăng trưởng. Nhưng rủi ro vay quá mức và vỡ nợ vẫn còn đến hôm nay.
+Cũng như cá nhân và doanh nghiệp, một quốc gia có thể không trả nổi nợ. Nguyên nhân có thể là vay quá nhiều, vay theo cấu trúc quá rủi ro, hoặc gặp một cú sốc bất ngờ như suy thoái sâu hay thiên tai.
+
+Khi đó, nợ phải được **tái cơ cấu**. Điểm khác biệt lớn với doanh nghiệp: **không có toà phá sản nào cho quốc gia** để buộc con nợ và chủ nợ phải giải quyết. Mọi thứ diễn ra qua đàm phán, trong đó hai bên có mục tiêu ngược nhau. Chủ nợ muốn thu hồi được càng nhiều càng tốt. Quốc gia muốn sớm lấy lại vị thế "bình thường" trên thị trường tài chính, tức lại vay được, mà không phải trả quá nhiều.
+
+Vì tái cơ cấu tốn kém cho cả hai bên, nó tương đối hiếm. Các ví dụ nổi tiếng: Nga (1998), Argentina (2005), Hy Lạp (2012) và Ukraine (2015).
+
+Thời điểm tái cơ cấu tạo khác biệt lớn:
+
+| | Tái cơ cấu phòng ngừa | Tái cơ cấu sau vỡ nợ |
+|---|---|---|
+| Thời điểm | Trước khi lỡ một khoản thanh toán | Sau khi đã lỡ thanh toán |
+| Tốc độ | Thường giải quyết nhanh | Có thể kéo dài |
+| Hậu quả | Lan toả nhỏ sang nền kinh tế và hệ thống tài chính | Tốn kém hơn nhiều |
+
+Bài kết lại rằng từ thời Edward III đến nay, nợ công đã lớn hơn, tinh vi hơn và mang tính quốc tế hơn. Nó giữ vai trò then chốt giúp chính phủ vượt qua suy thoái và các cú sốc bất ngờ, đồng thời tài trợ cho đầu tư nâng năng suất và tăng trưởng. Nhưng hai rủi ro cũ, vay quá mức và vỡ nợ, vẫn còn nguyên đến hôm nay.
 
 ## Thuật ngữ
 

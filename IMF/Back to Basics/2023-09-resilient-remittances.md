@@ -91,46 +91,101 @@
 3. Vì sao gửi tiền vẫn đắt, nhất là ở châu Phi?
 4. Làm sao khai thác tiềm năng của kiều hối?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Kiều hối (remittances).** Tiền mà người lao động đi làm ở nước ngoài gửi về cho gia đình ở quê nhà. Ví dụ minh hoạ: một người làm việc ở nước ngoài mỗi tháng gửi về 300 USD để bố mẹ trả tiền học cho em và mua thực phẩm. Theo bài, năm 2022 kiều hối toàn cầu qua kênh chính thức đạt 647 tỷ USD. Đây là đối tượng của cả bài.
+
+**Viện trợ phát triển chính thức (ODA).** Tiền các chính phủ nước giàu cho hoặc cho vay ưu đãi để giúp nước nghèo phát triển. Bài dùng ODA làm thước đo so sánh: kiều hối năm 2022 gấp khoảng ba lần ODA. Khái niệm này quan trọng vì nó cho thấy tiền do người dân bình thường gửi về lớn hơn nhiều so với tiền viện trợ của các chính phủ.
+
+**Kênh chính thức và phi chính thức.** Kênh chính thức là gửi qua ngân hàng, công ty chuyển tiền hay ví điện tử được cấp phép, nên được ghi vào thống kê. Kênh phi chính thức là nhờ người quen mang tiền mặt hoặc qua các mạng lưới chuyển tiền không đăng ký. Ví dụ minh hoạ: nếu một nửa số người gửi tiền qua người quen, thống kê chỉ thấy được nửa còn lại. Khái niệm này giải thích vì sao con số kiều hối thật còn lớn hơn con số chính thức.
+
+**Chi phí chuyển tiền.** Tổng phí và phần chênh lệch tỷ giá mà người gửi mất khi chuyển tiền, thường tính bằng phần trăm số tiền gửi. Ví dụ trong bài: gửi 200 USD mất trung bình 12,5 USD, tức 6,3%. Mục tiêu Phát triển Bền vững (SDG) của Liên Hợp Quốc muốn hạ con số này xuống còn khoảng một nửa. Chi phí là vấn đề chính sách lớn nhất mà bài nêu.
+
+**Độc quyền nhóm (oligopoly).** Thị trường chỉ có vài nhà cung cấp lớn, nên họ ít phải cạnh tranh về giá. Ví dụ minh hoạ: nếu ở một nước chỉ có một công ty chuyển tiền được ký hợp đồng độc quyền với bưu điện quốc gia, người dân không có lựa chọn rẻ hơn. Bài coi đây là một nguyên nhân khiến chi phí gửi tiền cao.
+
+**Chống rửa tiền và tài trợ khủng bố (AML/CFT) và "de-risking".** AML/CFT là các quy định buộc ngân hàng kiểm tra khách hàng và giao dịch để ngăn tiền bẩn. "De-risking" là khi ngân hàng chọn đóng luôn tài khoản của cả nhóm khách hàng bị xem là rủi ro, như công ty chuyển tiền, thay vì kiểm tra từng trường hợp. Ví dụ minh hoạ: một công ty fintech chuyển tiền bị ngân hàng đóng tài khoản nên không còn cách nhận và trả tiền. Bài cho rằng quy định cồng kềnh kiểu này bóp nghẹt cạnh tranh.
+
+**Cách tiếp cận dựa trên rủi ro (risk-based approach).** Thay vì kiểm tra mọi giao dịch theo cùng một quy tắc, cơ quan quản lý tập trung vào những giao dịch thật sự đáng ngờ và nới lỏng cho khoản nhỏ. Ví dụ trong bài: giảm yêu cầu với khoản gửi dưới 200 USD. Đây là giải pháp chính mà bài đề xuất.
+
+**Trái phiếu bảo đảm bằng kiều hối và trái phiếu kiều bào (remittance-backed bonds, diaspora bonds).** Loại thứ nhất là trái phiếu mà nguồn trả nợ là dòng kiều hối tương lai, nên nhà đầu tư tin tưởng hơn và lãi suất thấp hơn. Loại thứ hai là trái phiếu bán trực tiếp cho người dân của nước đó đang sống ở nước ngoài. Ví dụ trong bài: Nigeria huy động 300 triệu USD trái phiếu kiều bào năm 2017. Khái niệm này cho thấy kiều hối có thể giúp cả quốc gia vay vốn, không chỉ giúp từng hộ gia đình.
+
+## Nội dung chi tiết
 
 ### 1. Quy mô và ý nghĩa
 
-- Chênh lệch thu nhập giữa nước giàu và nghèo, áp lực nhân khẩu và biến đổi khí hậu sẽ làm số người di cư tìm cơ hội kinh tế tăng, kéo theo dòng kiều hối trong nhiều thập kỷ tới.
-- Năm 2022, kiều hối toàn cầu đạt kỷ lục 647 tỷ USD theo thống kê chính thức, gấp ba viện trợ phát triển chính thức. Con số thực còn lớn hơn vì nhiều người gửi qua kênh phi chính thức.
-- **So sánh:** kiều hối Ai Cập lớn hơn doanh thu kênh Suez, Sri Lanka lớn hơn xuất khẩu chè, Morocco lớn hơn thu từ du lịch.
-- Ấn Độ là nước nhận lớn nhất, năm 2022 lần đầu vượt 100 tỷ USD. Mexico, Trung Quốc, Philippines cũng nhận lớn.
-- Với nước nhỏ hoặc trong xung đột, kiều hối vượt 1/5 GDP: Tajikistan, Lebanon, Nepal, Honduras, The Gambia và hơn chục nước khác.
+Bài bắt đầu từ những lực đẩy dài hạn của di cư: chênh lệch thu nhập giữa nước giàu và nước nghèo, áp lực nhân khẩu học (nước nghèo nhiều người trẻ, nước giàu già đi) và biến đổi khí hậu. Cả ba sẽ làm số người di cư tìm cơ hội kinh tế tăng lên, kéo theo dòng kiều hối lớn dần trong nhiều thập kỷ tới.
+
+Năm 2022, theo thống kê chính thức, kiều hối toàn cầu đạt mức kỷ lục 647 tỷ USD, gấp 3 (ba) lần viện trợ phát triển chính thức. Con số thật còn lớn hơn, vì nhiều người gửi qua kênh phi chính thức không được ghi nhận.
+
+Để thấy kiều hối lớn tới mức nào với từng nước, bài đưa ra ba so sánh:
+
+| Nước | Kiều hối lớn hơn |
+|---|---|
+| Ai Cập | Doanh thu từ kênh đào Suez |
+| Sri Lanka | Giá trị xuất khẩu chè |
+| Morocco | Thu nhập từ du lịch |
+
+**Các nước nhận lớn.** Ấn Độ là nước nhận nhiều nhất, và năm 2022 trở thành nước đầu tiên nhận hơn 100 tỷ USD kiều hối trong một năm. Mexico, Trung Quốc và Philippines cũng là những nước nhận lớn.
+
+**Các nước phụ thuộc nhiều.** Với các nước nhỏ hoặc đang có xung đột, kiều hối có thể vượt 1/5 (một phần năm) GDP. Đó là trường hợp của Tajikistan, Lebanon, Nepal, Honduras, The Gambia và hơn chục nước khác. Ở những nước này, kiều hối là một trụ cột của nền kinh tế chứ không chỉ là khoản thu nhập phụ của các gia đình.
 
 ### 2. Dòng tiền ổn định
 
-- Khi khủng hoảng, kiều hối là phao cứu sinh. Sau thiên tai, người di cư thường gửi nhiều hơn để người thân mua thực phẩm, trả tiền chỗ ở.
-- Kiều hối thường ổn định kể cả khi nước gửi rơi vào khủng hoảng. Đầu COVID năm 2020, kiều hối chỉ giảm 1,1% trong khi thu nhập toàn cầu giảm 3%.
-- Lao động di cư đóng vai trò then chốt trong đại dịch: bác sĩ, y tá, và nhân viên giao hàng tuyến đầu. Điểm chuyển tiền đóng cửa nhưng người ta vẫn gửi qua kênh số. Kiều hối phục hồi mạnh, tăng gần 20% giai đoạn 2021–22.
+Điểm nổi bật nhất của kiều hối là nó **bền bỉ khi có khủng hoảng**. Khi nước nhận gặp thiên tai, người di cư thường gửi về nhiều hơn để người thân mua thực phẩm và trả tiền chỗ ở. Khác với vốn đầu tư nước ngoài, vốn thường rút đi khi có biến cố, kiều hối lại tăng lên đúng lúc cần.
+
+Kiều hối thường ổn định ngay cả khi chính nước gửi rơi vào khủng hoảng. Bằng chứng rõ nhất là đại dịch COVID: năm 2020, khi thu nhập toàn cầu giảm 3%, kiều hối chỉ giảm 1,1%.
+
+Có hai lý do. Một là lao động di cư giữ vai trò thiết yếu trong đại dịch: họ là bác sĩ, y tá, nhân viên giao hàng làm việc ở tuyến đầu, nên vẫn có thu nhập. Hai là khi các điểm chuyển tiền đóng cửa, người ta chuyển sang gửi qua kênh số. Sau cú giảm nhẹ đó, kiều hối phục hồi mạnh, tăng gần 20% trong giai đoạn 2021–22.
 
 ### 3. Các nước gửi
 
-- **Mỹ:** nguồn lớn nhất, nhất là cho Mỹ Latinh và Caribe. Kiểm soát biên giới chặt khiến di dân mắc kẹt ở nước quá cảnh như Mexico, Guatemala. Kết quả bất ngờ: kiều hối chảy đến nước quá cảnh khi di dân bị kẹt nhận tiền từ người thân. Chuyện tương tự ở biên giới châu Âu: Morocco, Tunisia, Türkiye.
-- **Vùng Vịnh (GCC):** lớn thứ hai tính bằng USD nhưng lớn nhất tính theo tỷ lệ GDP. Lao động nước ngoài thường vượt 70% dân số. Saudi Arabia và UAE là nguồn lớn cho Nam Á, Bắc Phi, Đông Nam Á. Xu hướng có thể đổi: chính phủ Vùng Vịnh giảm tuyển lao động ngoại để ưu tiên người bản địa, và đa dạng hoá sang châu Phi, Trung Á.
-- **Nga:** sau khi xâm lược Ukraine năm 2022, kiều hối về Trung Á tăng mạnh bất chấp trừng phạt qua SWIFT. Nguyên nhân: giá dầu tăng đẩy đồng rúp lên, nên kiều hối bằng rúp quy ra USD lớn hơn.
+Bài xem xét ba nguồn gửi chính, mỗi nguồn có một câu chuyện riêng.
+
+**Mỹ** là nguồn kiều hối lớn nhất tính bằng USD, chủ yếu gửi về Mỹ Latinh và vùng Caribe. Một hệ quả bất ngờ xuất hiện khi Mỹ siết kiểm soát biên giới: nhiều người di cư bị mắc kẹt ở các nước quá cảnh như Mexico và Guatemala, và người thân của họ ở Mỹ gửi tiền tới đó để họ sống. Kết quả là kiều hối chảy vào cả những nước quá cảnh. Điều tương tự xảy ra ở rìa biên giới châu Âu, với Morocco, Tunisia và Türkiye.
+
+**Vùng Vịnh** (các nước thuộc Hội đồng Hợp tác Vùng Vịnh, GCC) là nguồn lớn thứ hai tính bằng USD nhưng lớn nhất nếu tính theo tỷ lệ GDP. Ở đây, lao động nước ngoài thường chiếm hơn 70% dân số. Saudi Arabia và UAE là nguồn kiều hối lớn cho Nam Á, Bắc Phi và Đông Nam Á. Xu hướng này có thể thay đổi: chính phủ các nước Vùng Vịnh đang giảm tuyển lao động nước ngoài để ưu tiên người bản địa, và đa dạng hoá nguồn lao động sang châu Phi và Trung Á.
+
+**Nga.** Sau khi Nga xâm lược Ukraine năm 2022, kiều hối từ Nga về các nước Trung Á lại **tăng mạnh**, bất chấp các lệnh trừng phạt hạn chế Nga dùng hệ thống thanh toán quốc tế SWIFT. Nguyên nhân là giá dầu tăng làm đồng rúp mạnh lên, nên cùng một khoản lương bằng rúp, khi quy ra USD, thành ra nhiều tiền hơn.
 
 ### 4. Châu Phi đắt đỏ
 
-- Trung bình gửi 200 USD đến nước thu nhập thấp hoặc trung bình mất 12,5 USD, tức 6,3%, hơn gấp đôi mục tiêu Mục tiêu Phát triển Bền vững của Liên Hợp Quốc.
-- Châu Phi đắt nhất, chi phí tới 8%. Hơn 2/3 di cư xuyên biên giới ở châu Phi diễn ra trong nội lục địa. Chi phí đội lên do nhiều lần đổi tiền, kiểm soát ngoại hối, hệ thống thanh toán không liên thông.
-- Hợp đồng đối tác độc quyền giữa công ty chuyển tiền với ngân hàng và bưu điện quốc gia làm giá tăng ở hầu hết các nước. Gửi 200 USD từ Tanzania sang Uganda có thể mất hơn 70 USD, tức 35%.
-- Giảm chi phí 5 điểm phần trăm sẽ tiết kiệm gần 30 tỷ USD mỗi năm, phần lớn về tay di dân nghèo và gia đình họ.
-- Ví điện tử trên smartphone là cách rẻ nhất, tăng nhanh từ COVID, nhưng đa số giao dịch vẫn dùng tiền mặt ở một hoặc hai đầu.
-- Thị trường có tính độc quyền nhóm: ít nhà cung cấp kiểm soát qua mạng lưới độc quyền riêng.
-- Quy định chống rửa tiền và tài trợ khủng bố cồng kềnh bóp nghẹt cạnh tranh. Mọi giao dịch đều bị nghi ngờ theo cách tiếp cận dựa trên quy tắc. Ngân hàng từ chối cung cấp dịch vụ ngân hàng đại lý cho công ty chuyển tiền, nhất là fintech, vì sợ vi phạm. Thực hành "de-risking" này khiến nhiều tài khoản bị đóng, đặc biệt ở nền kinh tế mong manh như Somalia.
+Dù quan trọng như vậy, gửi tiền vẫn rất đắt. Gửi 200 USD tới một nước thu nhập thấp hoặc trung bình mất trung bình 12,5 USD, tức 6,3%. Mức này cao hơn gấp đôi chỉ tiêu trong Mục tiêu Phát triển Bền vững của Liên Hợp Quốc.
+
+Châu Phi là nơi đắt nhất, với chi phí trung bình tới 8%. Điều trớ trêu là hơn 2/3 (hai phần ba) số người di cư qua biên giới ở châu Phi đi tới một nước khác ngay trong châu lục, tức là quãng đường gửi tiền ngắn nhưng chi phí lại cao. Ví dụ cực đoan: gửi 200 USD từ Tanzania sang Uganda có thể mất hơn 70 USD, tức 35%.
+
+Bài chỉ ra ba nhóm nguyên nhân:
+
+| Nguyên nhân | Cơ chế |
+|---|---|
+| Hạ tầng và quy định ngoại hối | Tiền phải đổi qua nhiều lần (ví dụ từ đồng tiền nước gửi sang USD rồi sang đồng tiền nước nhận); kiểm soát ngoại hối; hệ thống thanh toán của các nước không kết nối với nhau |
+| Thị trường độc quyền nhóm | Vài nhà cung cấp kiểm soát thị trường qua mạng lưới riêng; hợp đồng độc quyền giữa công ty chuyển tiền với ngân hàng và bưu điện quốc gia đẩy giá lên ở hầu hết các nước |
+| Quy định chống rửa tiền cồng kềnh | Cách quản lý dựa trên quy tắc coi mọi giao dịch là đáng ngờ; ngân hàng từ chối làm ngân hàng đại lý cho công ty chuyển tiền, nhất là fintech, vì sợ vi phạm |
+
+Hiện tượng ngân hàng đóng tài khoản của công ty chuyển tiền để né rủi ro tuân thủ được gọi là "de-risking". Nó khiến nhiều tài khoản bị đóng, đặc biệt ở các nền kinh tế mong manh như Somalia, nơi kiều hối lại là nguồn sống.
+
+Lợi ích của việc giảm chi phí rất lớn: nếu chi phí giảm 5 điểm phần trăm, người gửi sẽ tiết kiệm được gần 30 tỷ USD mỗi năm, và phần lớn số tiền đó về tay những người di cư nghèo và gia đình họ.
+
+Cách gửi rẻ nhất hiện nay là ví điện tử trên điện thoại thông minh, và hình thức này tăng nhanh từ thời COVID. Nhưng đa số giao dịch vẫn dùng tiền mặt ở một hoặc cả hai đầu, nên lợi ích của ví điện tử chưa lan rộng.
 
 ### 5. Tiềm năng của kiều hối
 
-- Khi không có kênh chính thức, người ta dùng kênh bất hợp pháp, càng khó chống tội phạm tài chính. Cách tiếp cận dựa trên rủi ro, giảm yêu cầu với khoản nhỏ (dưới 200 USD chẳng hạn), có thể mở khoá kiều hối số xuyên biên giới. Nơi nào fintech được tự do dùng công nghệ, chi phí đã giảm mạnh.
-- Kiều hối có thể mở rộng tài chính toàn diện: tài khoản ngân hàng, tiết kiệm, vay, bảo hiểm.
-- Kiều hối giúp quốc gia tiếp cận thị trường trái phiếu quốc tế nhờ cải thiện bền vững nợ và xếp hạng tín nhiệm. Dòng kiều hối tương lai có thể làm tài sản bảo đảm: ngân hàng Brazil huy động hơn 1 tỷ USD lãi suất thấp năm 2002 bằng trái phiếu bảo đảm bằng kiều hối từ Nhật. Nigeria huy động 300 triệu USD trái phiếu kiều bào năm 2017, Ấn Độ gần 10 tỷ USD.
-- **Đánh thuế kiều hối:** chính phủ đôi khi muốn, nhưng khó thực thi vì người gửi sẽ tránh kênh chính thức. Tốt hơn là cải thiện môi trường kinh doanh để người nhận chọn đầu tư.
-- Ở nước thiếu ngoại tệ, chênh lệch tỷ giá chợ đen đẩy kiều hối sang kênh phi chính thức. Phá giá, tăng lãi suất tiền gửi ngoại tệ (và cho phép chuyển ra), bỏ yêu cầu kết hối có thể kéo dòng tiền về kênh chính thức.
-- **Triển vọng:** hơn một tỷ người, chủ yếu ở châu Phi và Nam Á, sẽ bước vào tuổi lao động đến 2050, trong khi nước phát triển già hoá. Mất cân bằng nhân khẩu này tăng cả cung và cầu lao động di cư. Biến đổi khí hậu thêm áp lực. Kiều hối sẽ tiếp tục tăng.
+**Đổi cách quản lý.** Khi không có kênh chính thức tiện lợi, người ta dùng kênh bất hợp pháp, và điều đó càng làm việc chống tội phạm tài chính khó hơn. Vì vậy bài đề xuất cách tiếp cận **dựa trên rủi ro**: giảm yêu cầu kiểm tra với các khoản nhỏ, chẳng hạn dưới 200 USD. Điều này có thể mở đường cho kiều hối số qua biên giới. Kinh nghiệm cho thấy nơi nào fintech được tự do dùng công nghệ, chi phí chuyển tiền đã giảm mạnh.
+
+**Mở rộng tài chính toàn diện.** Kiều hối có thể là cửa vào để người nhận dùng thêm các dịch vụ tài chính khác: mở tài khoản ngân hàng, tiết kiệm, vay và mua bảo hiểm.
+
+**Giúp quốc gia vay vốn.** Kiều hối cải thiện khả năng trả nợ và xếp hạng tín nhiệm của một nước, nhờ đó giúp nước đó tiếp cận thị trường trái phiếu quốc tế. Dòng kiều hối tương lai còn có thể dùng làm tài sản bảo đảm:
+
+| Ví dụ | Công cụ | Quy mô |
+|---|---|---|
+| Ngân hàng Brazil, năm 2002 | Trái phiếu bảo đảm bằng kiều hối từ Nhật, lãi suất thấp | Hơn 1 tỷ USD |
+| Nigeria, năm 2017 | Trái phiếu kiều bào | 300 triệu USD |
+| Ấn Độ | Trái phiếu kiều bào | Gần 10 tỷ USD |
+
+**Không nên đánh thuế kiều hối.** Chính phủ đôi khi muốn đánh thuế dòng tiền này, nhưng rất khó thực thi vì người gửi sẽ chuyển sang kênh phi chính thức. Tốt hơn là cải thiện môi trường kinh doanh để người nhận tự chọn đem tiền đi đầu tư.
+
+**Kéo kiều hối về kênh chính thức.** Ở các nước thiếu ngoại tệ, tỷ giá chợ đen thường cao hơn tỷ giá chính thức, và khoảng chênh đó đẩy kiều hối sang kênh phi chính thức. Bài nêu ba biện pháp để kéo dòng tiền về: phá giá đồng nội tệ cho sát tỷ giá thị trường; tăng lãi suất tiền gửi ngoại tệ (và cho phép rút, chuyển số tiền đó ra); bỏ yêu cầu kết hối, tức không buộc người nhận bán ngoại tệ cho nhà nước.
+
+**Triển vọng.** Đến năm 2050, hơn 1 tỷ người, chủ yếu ở châu Phi và Nam Á, sẽ bước vào độ tuổi lao động, trong khi dân số các nước phát triển già đi. Sự mất cân bằng này làm tăng cả cung lẫn cầu lao động di cư, và biến đổi khí hậu sẽ thêm áp lực. Vì vậy kiều hối sẽ còn tiếp tục tăng.
 
 ## Thuật ngữ
 

@@ -145,36 +145,119 @@
 2. Nên đánh thuế thu nhập vốn và lợi nhuận doanh nghiệp thế nào?
 3. Vì sao thuế tiêu dùng đồng nhất, cơ sở rộng là chuẩn mực tốt?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Thuế suất trung bình và thuế suất biên (average vs marginal tax rate).** Thuế suất trung bình là tổng số thuế chia cho tổng thu nhập. Thuế suất biên là phần thuế phải nộp thêm trên đồng thu nhập cuối cùng kiếm thêm được. Ví dụ minh hoạ: thu nhập 100 triệu, 50 triệu đầu không chịu thuế, 50 triệu sau chịu 20%; tổng thuế là 10 triệu, thuế suất trung bình 10%, nhưng thuế suất biên là 20%. Bài cần phân biệt hai khái niệm này để lập luận rằng thuế suất biên có thể hình chữ U trong khi thuế suất trung bình vẫn tăng theo thu nhập.
+
+**Thuế suất biên hiệu dụng (effective marginal tax rate).** Tổng phần mất đi khi thu nhập tăng thêm 1 đô la, gồm cả thuế phải nộp thêm và phúc lợi bị cắt bớt. Ví dụ minh hoạ: một người lương thấp kiếm thêm 100 đô la, nộp thêm 10 đô la thuế và bị giảm 30 đô la trợ cấp; thuế suất biên hiệu dụng là 40%, dù biểu thuế chỉ ghi 10%. Khái niệm này giải thích vì sao người nghèo nhất có thể đối mặt thuế suất biên rất cao.
+
+**Thuế thu nhập âm (negative income tax).** Nhà nước trả tiền cho người có thu nhập thấp thay vì thu thuế của họ. Ví dụ trong bài: Tín dụng Thuế Thu nhập Kiếm được (EITC) ở Mỹ cho tiền người lao động lương thấp, số tiền giảm dần khi thu nhập tăng. Bài coi mọi khoản hỗ trợ thu nhập là thuế âm, và khi hỗ trợ bị rút dần theo thu nhập thì nó tác động y như một khoản thuế trên phần thu nhập thêm.
+
+**Thu nhập vốn (capital income).** Thu nhập từ tài sản chứ không từ sức lao động: tiền lãi, cổ tức và lãi vốn (phần lời khi bán tài sản cao hơn giá mua). Ví dụ minh hoạ: gửi tiết kiệm 100 triệu với lãi 6% thì thu nhập vốn là 6 triệu mỗi năm. Bài đặt câu hỏi nên đánh thuế loại thu nhập này nặng hay nhẹ hơn thu nhập lao động.
+
+**Gánh nặng thuế (tax incidence).** Ai thực sự chịu thiệt vì thuế, khác với ai nộp tiền theo luật. Ví dụ trong bài: thuế doanh nghiệp ở một nền kinh tế nhỏ do doanh nghiệp nộp, nhưng có thể làm vốn chảy ra nước ngoài, năng suất giảm và lương giảm, nên người lao động mới là người chịu. Đây là chìa khoá cho phần tranh cãi về thuế doanh nghiệp.
+
+**Tô, hay lợi nhuận siêu ngạch (rents).** Phần lợi nhuận vượt mức sinh lời tối thiểu mà nhà đầu tư đòi hỏi để chịu bỏ vốn. Ví dụ minh hoạ: nhà đầu tư chỉ cần 8% để đầu tư vào một mỏ dầu, nhưng mỏ đó sinh lời 30%; 22 điểm phần trăm chênh lệch là tô. Vì nhà đầu tư vẫn làm dù mất bớt phần tô, tô gắn với một nước cụ thể (như tài nguyên thiên nhiên) có thể đánh thuế mà không làm giảm đầu tư.
+
+**Thuế thu nhập kép (dual income tax).** Hệ thống đánh thuế thu nhập vốn tách riêng khỏi thu nhập lao động, thường ở một thuế suất thấp và cố định. Ví dụ minh hoạ: tiền lương chịu biểu luỹ tiến từ 10% đến 40%, còn lãi tiền gửi và cổ tức chịu một mức chung 15%. Bài nêu đây là cách nhiều nước xử lý việc vốn dễ chạy ra nước ngoài hơn lao động.
+
+**Thuế tiêu dùng đồng nhất (uniform consumption tax).** Thuế đánh vào chi tiêu với cùng một thuế suất cho mọi hàng hoá và dịch vụ. Ví dụ minh hoạ: VAT 10% cho cả gạo, quần áo và điện thoại. Bài kết luận đây là chuẩn mực hợp lý, và việc hạ thuế suất cho nhu yếu phẩm là cách đắt đỏ để giúp người nghèo.
+
+## Nội dung chi tiết
 
 ### 1. Thuế thu nhập cá nhân
 
-- Chính sách thuế thường được dẫn dắt bởi các quy tắc ngón tay cái đơn giản. Đôi khi chúng đúng đến ngạc nhiên. Nhưng đôi khi sai lầm nguy hiểm. Có câu ngạn ngữ rằng "một thuế cũ là một thuế tốt". Điều đó có thể đúng với, chẳng hạn, thuế tài sản. Nhưng thuế cửa sổ và thuế râu đã biến mất từ lâu, thuế nhập khẩu đang giảm, và các sắc thuế mới như thuế giá trị gia tăng đã lên ngôi. Thiết kế hệ thống thuế tốt đòi hỏi nhiều hơn một khẩu hiệu hay. Bài này áp dụng các nguyên lý cơ bản (bài tháng 12/2014) vào một số tranh luận chính sách thuế trung tâm và hiện tại.
-- Sức hấp dẫn lớn của thuế thu nhập cá nhân là nó đánh thuế người ta theo một chỉ báo về khả năng chi trả, thu luỹ tiến nhiều hơn từ người có thu nhập cao hơn. Nhưng chỉ báo này không hoàn hảo, vì chính phủ không thể chắc liệu thu nhập cao đến từ tài năng bẩm sinh hay may mắn (những thứ sẽ không bị thuế ảnh hưởng) hay từ làm việc chăm chỉ và sáng tạo (những thứ có thể bị ảnh hưởng). Đánh thuế thu nhập không chỉ có thể làm nản nỗ lực (không chỉ số giờ làm mà còn, ví dụ, hoạt động khởi nghiệp và phấn đấu thăng tiến) mà còn có thể gây ra tránh thuế và trốn thuế.
-- Thiết kế thuế thu nhập cá nhân do đó xoay quanh một đánh đổi nền tảng: thuế luỹ tiến hỗ trợ mục tiêu công bằng nhưng có thể giảm hiệu quả. Chừng nào người ta còn có quan điểm khác nhau về thế nào là công bằng, sẽ không bao giờ có đồng thuận phổ quát về biểu thuế tốt nhất. Nhưng lý thuyết cẩn thận và bằng chứng thực nghiệm đã soi sáng các cân nhắc then chốt.
-- Chẳng hạn, cần xem xét không chỉ thuế thu nhập cá nhân mà tất cả các thuế và mọi biện pháp hỗ trợ thu nhập, như Tín dụng Thuế Thu nhập Kiếm được ở Mỹ, cho tiền người lao động lương thấp với số tiền giảm dần khi thu nhập tăng. Hỗ trợ thu nhập đơn giản là thuế thu nhập âm và, khi bị rút đi lúc thu nhập tăng, hoạt động y hệt một khoản thuế trên phần thu nhập thêm đó.
-- Quả thực có lý do mạnh mẽ để trợ cấp thu nhập của người lao động lương thấp, vì ý muốn làm việc của họ đặc biệt nhạy với thuế, và bảo đảm phúc lợi của họ khi họ đang làm việc thì rẻ hơn. Nhưng trong khi thuế suất trung bình ở đáy do đó thường âm, thuế suất biên hiệu dụng, tức khoản thuế thêm phải trả (hoặc phúc lợi không nhận được) khi thu nhập tăng một đô la, nên dương. Nếu không, trợ cấp sẽ lan đến mọi người nộp thuế, kể cả những người không cần. Nhắm hỗ trợ thu nhập vào người nghèo nhất giới hạn chi phí thu của trợ cấp thu nhập và có thể nhất quán với tái phân phối hiệu quả, dù nó có thể tạo ra thuế suất biên hiệu dụng cao cho người nghèo nhất.
-- Cấu trúc thuế suất phù hợp cho người thu nhập cao luôn gây tranh cãi. Nhiều người kết luận rằng những người khá giả nhất có thể bị đánh thuế ở mức biên 60% hoặc hơn mà không dẫn đến nỗ lực giảm sút, hay tránh thuế, hay trốn thuế đủ lớn để khiến số thuế họ nộp thực sự giảm. Nếu thu ngân sách là mối quan tâm duy nhất, điều đó ổn. Nhưng người nộp thuế khá giả sẽ chịu thiệt, và điều đó chắc hẳn quan trọng với phúc lợi xã hội chung. Hơn nữa, một số nhà phân tích tin rằng các tính toán làm nền cho thuế suất biên tối ưu không nắm bắt được tác động bất lợi lên tinh thần khởi nghiệp.
-- Về mặt định tính rộng, cấu trúc thuế suất biên tối ưu do đó nên có hình chữ U: bắt đầu cao để thu hồi hỗ trợ cho những người nghèo nhất, giảm xuống để giữ động lực cho người ở giữa, và cuối cùng tăng lên để bảo đảm nguồn thu từ người khá giả hơn. Điều này đi ngược ý tưởng rằng thuế suất biên phải luôn tăng theo thu nhập, nhưng nhất quán với khái niệm cơ bản hơn rằng thuế suất trung bình nên tăng theo thu nhập. Tuy nhiên, tất cả điều này vẫn để lại nhiều chỗ cho tranh luận về hình dạng chính xác của chữ U đó.
+**Cảnh giác với quy tắc ngón tay cái.** Chính sách thuế thường được dẫn dắt bởi những quy tắc ngón tay cái đơn giản. Đôi khi chúng đúng đến ngạc nhiên, nhưng đôi khi sai lầm nguy hiểm. Có câu ngạn ngữ "thuế cũ là thuế tốt" (vì người nộp đã quen, nền kinh tế đã điều chỉnh theo). Câu này có thể đúng với thuế tài sản. Nhưng thuế cửa sổ và thuế râu đã biến mất từ lâu, thuế nhập khẩu đang giảm dần, còn các sắc thuế mới như thuế giá trị gia tăng thì đã lên ngôi. Thiết kế một hệ thống thuế tốt cần nhiều hơn một khẩu hiệu hay. Bài này là bài thứ hai trong loạt bài về thuế, áp dụng các nguyên lý cơ bản đã trình bày ở bài tháng 12/2014 vào một số tranh luận chính sách thuế trung tâm hiện nay.
+
+**Sức hấp dẫn và giới hạn của thuế thu nhập.** Thuế thu nhập cá nhân hấp dẫn vì nó đánh thuế mỗi người theo một chỉ báo về **khả năng chi trả**, và có thể thu luỹ tiến, tức thu tỷ lệ lớn hơn từ người thu nhập cao hơn. Nhưng thu nhập là một chỉ báo không hoàn hảo. Chính phủ không thể biết chắc thu nhập cao của một người đến từ đâu:
+
+| Nguồn gốc thu nhập cao | Thuế có làm thay đổi nó không |
+|---|---|
+| Tài năng bẩm sinh, may mắn | Không: người ta không thể "bớt may mắn" vì bị đánh thuế |
+| Làm việc chăm chỉ, sáng tạo | Có thể: thuế làm giảm phần thưởng cho nỗ lực |
+
+Vì vậy thuế thu nhập có thể làm nản nỗ lực. Nỗ lực ở đây không chỉ là số giờ làm việc mà còn là khởi nghiệp, phấn đấu thăng tiến. Thuế thu nhập cũng có thể khiến người ta tìm cách tránh thuế và trốn thuế.
+
+**Đánh đổi nền tảng.** Thiết kế thuế thu nhập cá nhân do đó xoay quanh một đánh đổi: thuế luỹ tiến phục vụ mục tiêu **công bằng**, nhưng có thể làm giảm **hiệu quả**. Chừng nào người ta còn nghĩ khác nhau về thế nào là công bằng, sẽ không bao giờ có đồng thuận phổ quát về một biểu thuế tốt nhất. Tuy vậy, lý thuyết cẩn thận và bằng chứng thực nghiệm đã làm rõ những cân nhắc then chốt.
+
+**Phải xem toàn bộ hệ thống, kể cả hỗ trợ thu nhập.** Cần xét không chỉ thuế thu nhập cá nhân mà tất cả các loại thuế và mọi biện pháp hỗ trợ thu nhập. Ví dụ là Tín dụng Thuế Thu nhập Kiếm được (EITC) ở Mỹ: chương trình cho tiền người lao động lương thấp, với số tiền giảm dần khi thu nhập tăng. Hỗ trợ thu nhập thực chất là một **thuế thu nhập âm**. Và khi nó bị rút dần đi lúc thu nhập tăng lên, nó tác động y hệt một khoản thuế đánh vào phần thu nhập thêm đó.
+
+**Đáy phân phối: trợ cấp, nhưng thuế suất biên vẫn phải dương.** Có lý do mạnh mẽ để trợ cấp thu nhập cho người lao động lương thấp, vì hai lẽ: quyết định có đi làm hay không của họ đặc biệt nhạy cảm với thuế, và bảo đảm phúc lợi cho họ khi họ đang có việc thì rẻ hơn so với khi họ không làm. Vì vậy **thuế suất trung bình** ở đáy thường **âm** (họ nhận từ nhà nước nhiều hơn nộp).
+
+Nhưng **thuế suất biên hiệu dụng** ở đáy, tức khoản thuế thêm phải nộp hoặc phúc lợi bị mất khi thu nhập tăng 1 đô la, nên **dương**. Nếu không, khoản trợ cấp sẽ không bao giờ được rút lại và sẽ lan tới mọi người nộp thuế, kể cả những người không cần. Nhắm hỗ trợ vào người nghèo nhất giúp giới hạn chi phí ngân sách của trợ cấp, và có thể nhất quán với một chính sách tái phân phối hiệu quả. Cái giá phải trả là người nghèo nhất phải đối mặt với thuế suất biên hiệu dụng cao.
+
+**Ví dụ minh hoạ** (con số giả định, không có trong bài). Một chương trình trả 5.000 đô la mỗi năm cho người không có thu nhập và rút bớt 25 xu cho mỗi đô la kiếm thêm. Người kiếm 8.000 đô la nhận 3.000 đô la trợ cấp; người kiếm 20.000 đô la không còn nhận gì. Ở vùng thu nhập từ 0 đến 20.000 đô la, thuế suất biên hiệu dụng là 25% dù không ai nộp thuế; nếu rút 10 xu mỗi đô la thay vì 25 xu, trợ cấp sẽ kéo dài tới thu nhập 50.000 đô la và tốn ngân sách hơn nhiều.
+
+**Đỉnh phân phối: thuế suất biên cao.** Thuế suất phù hợp cho người thu nhập cao luôn gây tranh cãi. Nhiều người kết luận rằng nhóm khá giả nhất có thể bị đánh thuế suất biên từ 60% trở lên mà nỗ lực giảm sút, tránh thuế hay trốn thuế vẫn chưa đủ lớn để làm số thuế họ nộp thực sự giảm. Nếu chỉ quan tâm đến nguồn thu thì điều đó ổn. Nhưng người nộp thuế khá giả cũng chịu thiệt, và thiệt hại của họ cũng là một phần của phúc lợi xã hội chung. Thêm vào đó, một số nhà phân tích cho rằng các tính toán về thuế suất biên tối ưu đã bỏ sót tác động bất lợi lên tinh thần khởi nghiệp.
+
+**Kết luận: chữ U.** Về mặt định tính, cấu trúc thuế suất biên tối ưu nên có hình chữ U:
+
+| Vùng thu nhập | Thuế suất biên | Lý do |
+|---|---|---|
+| Thấp nhất | Cao | Thu hồi dần khoản hỗ trợ cho người nghèo nhất |
+| Giữa | Giảm xuống | Giữ động lực làm việc cho số đông |
+| Cao nhất | Tăng trở lại | Bảo đảm nguồn thu từ người khá giả |
+
+Cấu trúc này đi ngược ý tưởng rằng thuế suất biên phải luôn tăng theo thu nhập, nhưng vẫn nhất quán với nguyên tắc cơ bản hơn là **thuế suất trung bình** nên tăng theo thu nhập. Hình dạng chính xác của chữ U vẫn còn nhiều chỗ để tranh luận.
 
 ### 2. Câu đố thuế thu nhập vốn
 
-- Thu nhập vốn (lãi, cổ tức và lãi vốn) ở hầu hết các nước chủ yếu do người khá giả hơn nhận. Thuế cao lên thu nhập vốn (hoặc lên của cải nền tảng) do đó thường được coi là cách tốt để xử lý bất công. Nhưng lý thuyết đưa ra các góc nhìn khác.
-- Thu nhập vốn cho phép tiêu dùng trong tương lai. Đánh thuế nó làm tăng chi phí dưới dạng tiêu dùng hôm nay phải từ bỏ. Những người thận trọng thích hoãn tiêu dùng (hoặc chuyển nó cho người thừa kế) sẽ bị đánh thuế nhiều hơn người không như vậy. Một số người coi đây là vi phạm công bằng ngang (nguyên tắc rằng những người giống nhau ở mọi khía cạnh liên quan phải được đối xử như nhau), với lý do sở thích thời gian không phải cơ sở chính đáng để phân biệt nghĩa vụ thuế. Hơn nữa, bằng cách làm nản tiết kiệm, thuế thu nhập vốn có thể tạo tổn thất vô ích tương đối lớn (những tổn thất phát sinh từ việc chuyển nguồn lực ra khỏi khu vực tư).
-- Điều tất cả những điều này hàm ý đang được tranh luận gay gắt giữa các nhà kinh tế tài chính công. Ở một cực là quan điểm rằng vì nó bóp méo hành vi quá nhiều, thuế tối ưu lên thu nhập vốn bằng không, với tái phân phối được thực hiện tốt hơn bằng thuế luỹ tiến chỉ trên thu nhập lao động. Ở cực đối lập là quan điểm rằng thu nhập lao động và vốn nên bị đánh thuế giống hệt nhau, trong nhiều năm là quan điểm phổ biến nhất. Không quan điểm nào đứng trên nền tảng lý thuyết hoàn toàn vững chắc. Tuy nhiên, điều đã trở nên rõ ràng là thuế suất mong muốn lên thu nhập vốn, dù không bằng không, rất có thể khác với thuế suất lên thu nhập lao động, không kém phần vì vốn di chuyển quốc tế dễ hơn, khiến khó đánh thuế mà không đẩy cơ sở thuế ra nước ngoài. Nhiều nước nay sử dụng một dạng thuế thu nhập kép, đánh thuế thu nhập vốn tách khỏi thu nhập lao động và ở thuế suất tương đối thấp.
+Thu nhập vốn gồm tiền lãi, cổ tức và lãi vốn. Ở hầu hết các nước, phần lớn thu nhập này rơi vào tay người khá giả. Vì vậy đánh thuế nặng lên thu nhập vốn (hoặc lên chính khối của cải sinh ra nó) thường được coi là một cách tốt để giảm bất bình đẳng. Nhưng lý thuyết đưa ra những góc nhìn khác.
+
+**Lập luận thứ nhất: thuế vốn phạt người tiết kiệm.** Thu nhập vốn là thứ cho phép người ta tiêu dùng trong tương lai. Đánh thuế nó làm tăng cái giá của tiêu dùng tương lai, tính bằng lượng tiêu dùng hôm nay phải từ bỏ. Hệ quả: những người thận trọng, thích hoãn tiêu dùng (hoặc để lại cho người thừa kế), bị đánh thuế nặng hơn những người tiêu hết ngay. Một số người coi đây là vi phạm **công bằng ngang**, tức nguyên tắc rằng những người giống nhau ở mọi khía cạnh liên quan phải được đối xử như nhau, vì họ cho rằng sở thích về thời gian (thích tiêu nay hay tiêu sau) không phải cơ sở chính đáng để bắt người ta nộp thuế khác nhau.
+
+**Ví dụ minh hoạ** (con số giả định). Hai người cùng kiếm 100 triệu và cùng nộp thuế lương như nhau. Người A tiêu hết ngay. Người B gửi tiết kiệm để 10 năm sau mua nhà, và mỗi năm phải nộp thêm thuế trên tiền lãi. Cả đời, B nộp nhiều thuế hơn A chỉ vì chọn tiêu sau.
+
+**Lập luận thứ hai: tổn thất vô ích lớn.** Bằng cách làm nản việc tiết kiệm, thuế thu nhập vốn có thể gây **tổn thất vô ích** tương đối lớn, tức tổn thất vượt quá phần nguồn lực được chuyển từ khu vực tư sang nhà nước.
+
+**Hai cực của cuộc tranh luận.** Hàm ý của những lập luận trên đang được các nhà kinh tế tài chính công tranh luận gay gắt:
+
+1. Ở một cực: vì thuế vốn bóp méo hành vi quá nhiều, thuế tối ưu lên thu nhập vốn bằng 0, và tái phân phối nên làm bằng thuế luỹ tiến chỉ đánh trên thu nhập lao động.
+2. Ở cực kia: thu nhập lao động và thu nhập vốn nên bị đánh thuế giống hệt nhau. Trong nhiều năm, đây là quan điểm phổ biến nhất.
+
+Không quan điểm nào đứng trên nền tảng lý thuyết hoàn toàn vững chắc. Điều đã trở nên rõ ràng là thuế suất mong muốn lên thu nhập vốn, dù không bằng 0, rất có thể **khác** với thuế suất lên thu nhập lao động. Một lý do quan trọng là vốn di chuyển quốc tế dễ hơn lao động, nên khó đánh thuế vốn mà không đẩy cơ sở thuế ra nước ngoài. Vì thế nhiều nước nay dùng một dạng **thuế thu nhập kép**: đánh thuế thu nhập vốn tách riêng khỏi thu nhập lao động, ở mức thuế suất tương đối thấp.
 
 ### 3. Tranh cãi về thuế doanh nghiệp
 
-- Khái niệm gánh nặng thuế, tức ai cuối cùng chịu gánh nặng thực của một khoản thuế, là then chốt khi nói đến thuế doanh nghiệp, và có thể dẫn đến kết luận đáng ngạc nhiên rằng phần lớn gánh nặng có thể rơi vào người lao động. Hãy lấy một nền kinh tế nhỏ trên thị trường vốn thế giới, do đó phải chấp nhận tỷ suất sinh lời sau thuế của đầu tư như cho trước: nhà đầu tư sẽ chuyển vốn ra nước ngoài nếu họ kiếm được ít hơn mức đó. Nếu một nước giờ đánh thuế lợi nhuận mà nhà đầu tư kiếm được ở đó, tỷ suất sinh lời trước thuế sẽ phải tăng đủ để giữ tỷ suất sau thuế không đổi. Khi đó cần có một dòng vốn chảy ra. Nhưng dòng chảy ra đó dẫn đến tỷ lệ vốn trên lao động trong nước thấp hơn, làm giảm năng suất lao động, và đến lượt nó, giảm lương. Vậy là người lao động, không phải cổ đông, chịu gánh nặng thực của thuế thu nhập doanh nghiệp. Vì đánh thuế người lao động trực tiếp hiệu quả hơn đánh gián tiếp qua thuế doanh nghiệp, thuế thu nhập doanh nghiệp tối ưu cho nền kinh tế như vậy bằng không.
-- Nhưng có những điều kiện quan trọng. Thứ nhất, lợi nhuận vốn bình thường (mức sinh lời tối thiểu nhà đầu tư đòi hỏi) nên được phân biệt với lợi nhuận siêu ngạch, gọi là "tô". Khác với lợi nhuận bình thường, tô gắn với một nước cụ thể có thể bị đánh thuế mà không ảnh hưởng đầu tư (hãy nghĩ đến tô tài nguyên thiên nhiên). Tuy nhiên, thuế thu nhập doanh nghiệp truyền thống không phải thuế tô vì nó đánh mọi lợi nhuận trên vốn chủ, cả bình thường lẫn siêu ngạch. Nhưng có thể biến nó thành thuế tô, ví dụ bằng cách cho phép doanh nghiệp giảm thu nhập chịu thuế thông qua khấu trừ cho lợi nhuận vốn chủ bình thường. Một số nước đã đi theo hướng này.
-- Thứ hai, các cân nhắc thực tiễn rất quan trọng. Thuế thu nhập doanh nghiệp, ví dụ, thực tế đánh vào phần lợi nhuận doanh nghiệp giữ lại, thứ khó đánh thuế ở cấp cá nhân. Tương tự, nếu không có thuế doanh nghiệp, các doanh nghiệp nhỏ có thể trốn thuế bằng cách lập công ty và gán nhãn thu nhập của mình là thu nhập vốn. Hơn nữa, ở nhiều nền kinh tế đang phát triển, tương đối dễ thu thuế từ một vài công ty lớn.
+**Kết luận đáng ngạc nhiên: người lao động có thể chịu thuế doanh nghiệp.** Khái niệm gánh nặng thuế, tức ai cuối cùng chịu thiệt thực sự của một khoản thuế, là then chốt khi bàn về thuế doanh nghiệp. Nó dẫn đến một kết luận bất ngờ: phần lớn gánh nặng có thể rơi vào người lao động. Chuỗi lập luận như sau, cho một nền kinh tế nhỏ trên thị trường vốn thế giới:
+
+1. Vì nhỏ, nền kinh tế này phải chấp nhận tỷ suất sinh lời **sau thuế** của đầu tư như một con số cho trước: nếu kiếm được ít hơn mức đó, nhà đầu tư sẽ chuyển vốn ra nước ngoài.
+2. Khi nước này đánh thuế lợi nhuận mà nhà đầu tư kiếm được trong nước, tỷ suất sinh lời **trước thuế** phải tăng lên đủ để giữ tỷ suất sau thuế không đổi.
+3. Muốn tỷ suất trước thuế tăng, phải có ít vốn hơn trong nước, tức phải có một dòng vốn chảy ra.
+4. Vốn chảy ra làm tỷ lệ vốn trên lao động trong nước giảm (mỗi công nhân có ít máy móc hơn để làm việc).
+5. Năng suất lao động giảm, và lương giảm theo.
+
+Vậy người lao động, chứ không phải cổ đông, chịu gánh nặng thực của thuế thu nhập doanh nghiệp. Mà nếu đằng nào người lao động cũng chịu, thì đánh thuế trực tiếp lên họ sẽ hiệu quả hơn là đánh gián tiếp qua doanh nghiệp (vì cách gián tiếp còn gây thêm méo mó ở quyết định đầu tư). Do đó, thuế thu nhập doanh nghiệp tối ưu cho một nền kinh tế như vậy bằng 0.
+
+**Điều kiện thứ nhất: phân biệt lợi nhuận bình thường và tô.** Lợi nhuận vốn bình thường là mức sinh lời tối thiểu nhà đầu tư đòi hỏi. Lợi nhuận siêu ngạch, vượt trên mức đó, gọi là **tô**. Khác với lợi nhuận bình thường, tô gắn với một nước cụ thể có thể bị đánh thuế mà không làm giảm đầu tư, vì nhà đầu tư không thể mang nó đi nơi khác; ví dụ điển hình là tô tài nguyên thiên nhiên. Thuế thu nhập doanh nghiệp truyền thống không phải thuế tô, vì nó đánh vào toàn bộ lợi nhuận trên vốn chủ sở hữu, cả phần bình thường lẫn phần siêu ngạch. Nhưng có thể biến nó thành thuế tô, chẳng hạn bằng cách cho doanh nghiệp được khấu trừ một khoản tương ứng với lợi nhuận bình thường trên vốn chủ khỏi thu nhập chịu thuế. Một số nước đã đi theo hướng này.
+
+**Ví dụ minh hoạ** (con số giả định). Một doanh nghiệp có 1.000 tỷ vốn chủ, lợi nhuận 150 tỷ. Nếu lợi nhuận bình thường được tính là 5% vốn chủ, tức 50 tỷ, thì với khấu trừ này chỉ 100 tỷ còn lại, là phần siêu ngạch, phải chịu thuế. Một dự án chỉ sinh lời đúng mức bình thường sẽ không chịu thuế, nên thuế không làm nản đầu tư.
+
+**Điều kiện thứ hai: cân nhắc thực tiễn.** Có ba lý do thực tế để vẫn giữ thuế doanh nghiệp:
+
+- Thuế doanh nghiệp thực tế đánh vào phần **lợi nhuận giữ lại** trong doanh nghiệp, thứ rất khó đánh thuế ở cấp cá nhân (vì cổ đông chưa nhận được tiền).
+- Nếu không có thuế doanh nghiệp, các doanh nghiệp nhỏ có thể trốn thuế bằng cách lập công ty và gọi thu nhập của mình là thu nhập vốn thay vì thu nhập lao động.
+- Ở nhiều nền kinh tế đang phát triển, thu thuế từ một vài công ty lớn tương đối dễ hơn thu từ hàng triệu cá nhân.
 
 ### 4. Có nên đánh thuế tiêu dùng?
 
-- Một thuế đồng nhất lên tiêu dùng, áp cùng thuế suất cho mọi hàng hoá và dịch vụ, về cơ bản tương đương một thuế đồng nhất lên thu nhập lương và lợi nhuận. Nó chỉ đơn giản hoạt động ở phía kia ngân sách của một cá nhân, nên các méo mó của nó lên thị trường lao động cũng nên tương tự. Vì thuế thu nhập phù hợp hơn với nguyên tắc rằng người ta nên bị đánh thuế theo khả năng chi trả, tại sao chính phủ lại đánh thuế tiêu dùng?
-- Có những lý do thực tiễn: đánh thuế cả thu nhập lẫn tiêu dùng giảm rủi ro tuân thủ bằng cách đa dạng hoá cơ sở thu của chính phủ. Nhưng cũng có những biện minh nền tảng hơn, như đánh thuế các loại tiêu dùng cụ thể để xử lý ngoại ứng, tức tác động, tốt hay xấu, lên những người không tham gia giao dịch nền tảng, ví dụ ô nhiễm. Các thuế như vậy cũng có thể xử lý hành vi có vấn đề khác, như uống rượu và hút thuốc. Một lý do nữa là thuế suất khác nhau có thể giúp giảm các cản trở do thuế gây ra với việc làm việc. Tuy nhiên, về mặt thực nghiệm, khó xác định các yếu tố phân biệt thuế suất được biện minh trên cơ sở hiệu quả như vậy, có lẽ trừ vài ngoại lệ như dịch vụ trông trẻ.
-- Nhiều người cảm thấy các nhu yếu phẩm như thực phẩm nên bị đánh thuế ở mức đặc biệt thấp vì người nghèo chi một tỷ lệ lớn thu nhập cho chúng. Nhưng đây là cách đắt đỏ để theo đuổi công bằng vì trong khi người nghèo chi tỷ lệ lớn hơn thu nhập cho nhu yếu phẩm, người giàu chi số tuyệt đối lớn hơn và do đó hưởng lợi nhiều nhất từ thuế suất thấp. Gần như mọi nền kinh tế tiên tiến, và nhiều nền kinh tế khác nữa, nên có các công cụ phù hợp hơn để theo đuổi mục tiêu công bằng, như chuyển khoản gắn với thu nhập hay các hình thức hỗ trợ tiền mặt khác cho người túng thiếu nhất, hoặc hỗ trợ công cho nhà ở, y tế và giáo dục cơ bản.
-- Có một mức đồng thuận nghề nghiệp khá rõ rằng một thuế tiêu dùng đồng nhất, cơ sở rộng là một chuẩn mực hợp lý cho chính sách tốt, với ít căn cứ thuyết phục (ngoài ngoại ứng) cho việc phân biệt thuế suất. Đây là một quy tắc ngón tay cái đơn giản cho lời khuyên tốt, khả thi, nhưng nó dựa trên lập luận thực nghiệm và lý thuyết khá chi tiết. Nhà hoạch định phải cảnh giác với nhiều quy tắc không được như vậy.
+**Thuế tiêu dùng đồng nhất gần giống thuế thu nhập đồng nhất.** Một thuế đồng nhất trên tiêu dùng, cùng một thuế suất cho mọi hàng hoá và dịch vụ, về cơ bản tương đương một thuế đồng nhất trên thu nhập từ lương và lợi nhuận. Nó chỉ tác động ở phía bên kia của ngân sách cá nhân: thay vì lấy bớt khi tiền vào, nó lấy bớt khi tiền ra. Vì vậy méo mó của nó lên thị trường lao động cũng tương tự: dù bị đánh lúc kiếm hay lúc tiêu, mỗi giờ làm việc vẫn mua được ít hàng hơn. Vậy nếu thuế thu nhập phù hợp hơn với nguyên tắc đánh thuế theo khả năng chi trả, tại sao chính phủ còn đánh thuế tiêu dùng?
+
+**Ví dụ minh hoạ** (con số giả định). Một người kiếm 100 đồng. Nếu bị đánh thuế thu nhập 20%, người đó còn 80 đồng để mua hàng. Nếu không bị thuế thu nhập nhưng mọi hàng hoá chịu thuế tiêu dùng 25%, 100 đồng cũng chỉ mua được lượng hàng đáng giá 80 đồng trước thuế. Kết quả với người làm việc là như nhau.
+
+**Các lý do để đánh thuế tiêu dùng.** Bài nêu ba lý do:
+
+- **Lý do thực tiễn:** đánh thuế cả thu nhập lẫn tiêu dùng giúp giảm rủi ro tuân thủ, bằng cách đa dạng hoá cơ sở thu của chính phủ. Nếu người ta trốn được một loại thuế, họ vẫn phải nộp loại kia.
+- **Lý do nền tảng:** đánh thuế những loại tiêu dùng cụ thể để xử lý ngoại ứng, tức tác động tốt hay xấu lên người không tham gia giao dịch, như ô nhiễm. Những thuế như vậy cũng có thể nhắm vào các hành vi có vấn đề khác, như uống rượu và hút thuốc.
+- **Giảm cản trở làm việc:** về lý thuyết, đặt thuế suất khác nhau cho các hàng hoá có thể giúp giảm tác dụng làm nản việc làm của hệ thống thuế. Nhưng trên thực nghiệm rất khó xác định trường hợp nào thực sự đáng phân biệt thuế suất vì lý do hiệu quả, có lẽ trừ vài ngoại lệ như **dịch vụ trông trẻ** (giảm thuế cho dịch vụ này giúp cha mẹ dễ đi làm hơn).
+
+**Thuế suất thấp cho nhu yếu phẩm là cách đắt đỏ để giúp người nghèo.** Nhiều người cho rằng các nhu yếu phẩm như thực phẩm nên chịu thuế suất đặc biệt thấp, vì người nghèo dành một tỷ lệ lớn thu nhập cho chúng. Bài lập luận đây là cách đắt đỏ để theo đuổi công bằng: người nghèo chi một **tỷ lệ** lớn hơn thu nhập cho nhu yếu phẩm, nhưng người giàu chi một **số tiền tuyệt đối** lớn hơn, nên chính người giàu hưởng lợi nhiều nhất từ thuế suất thấp.
+
+**Ví dụ minh hoạ** (con số giả định). Hộ nghèo thu nhập 10 triệu một tháng, chi 5 triệu cho thực phẩm (50%). Hộ giàu thu nhập 100 triệu, chi 15 triệu cho thực phẩm (15%). Giảm thuế thực phẩm 5 điểm phần trăm giúp hộ nghèo tiết kiệm khoảng 250 nghìn đồng, còn hộ giàu tiết kiệm khoảng 750 nghìn đồng. Ngân sách mất nhiều nhất cho chính hộ không cần giúp.
+
+Gần như mọi nền kinh tế tiên tiến, và nhiều nền kinh tế khác, có những công cụ phù hợp hơn để theo đuổi công bằng: chuyển khoản gắn với mức thu nhập, các hình thức hỗ trợ tiền mặt khác cho người túng thiếu nhất, hoặc hỗ trợ công cho nhà ở, y tế và giáo dục cơ bản.
+
+**Kết luận: một quy tắc ngón tay cái đáng tin.** Giới chuyên môn có mức đồng thuận khá rõ rằng một thuế tiêu dùng đồng nhất, cơ sở rộng là chuẩn mực hợp lý cho chính sách tốt, với ít lý do thuyết phục (ngoài ngoại ứng) để phân biệt thuế suất giữa các hàng hoá. Đây là một quy tắc ngón tay cái đơn giản cho lời khuyên tốt và khả thi. Nhưng khác với câu "thuế cũ là thuế tốt" ở đầu bài, nó đứng trên một nền lập luận lý thuyết và thực nghiệm khá chi tiết. Nhà hoạch định chính sách phải cảnh giác với nhiều quy tắc ngón tay cái khác không có được nền tảng như vậy.
 
 ## Thuật ngữ
 

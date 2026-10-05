@@ -192,31 +192,149 @@
 2. Độc quyền khác cạnh tranh hoàn hảo ra sao và vì sao?
 3. Các cấu trúc thị trường ở giữa hai cực là gì?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Cung và cầu (supply and demand).** Cung là lượng hàng mà người bán sẵn sàng bán ở mỗi mức giá; cầu là lượng hàng mà người mua sẵn sàng mua ở mỗi mức giá. Ví dụ minh hoạ: ở giá 10.000 đồng một ký, nông dân muốn bán 100 tấn cà chua, người mua muốn mua 80 tấn; ở giá 8.000 đồng, nông dân muốn bán 90 tấn, người mua muốn mua 90 tấn. Bài coi "cung, cầu, giá" là ba từ quan trọng nhất của nhà kinh tế, vì giá trong mọi giao dịch được xác định từ hai lực này.
+
+**Giá cân bằng thị trường (market-clearing price).** Mức giá mà tại đó lượng người bán muốn bán đúng bằng lượng người mua muốn mua, không thừa không thiếu. Trên đồ thị, đó là điểm đường cung và đường cầu cắt nhau. Ví dụ minh hoạ ở trên: giá 8.000 đồng một ký là giá cân bằng, vì cả hai bên đều muốn giao dịch 90 tấn. Đây là kết quả trung tâm mà bài so sánh giữa các loại thị trường.
+
+**Chi phí biên và lợi ích biên (marginal cost, marginal utility).** Chi phí biên là chi phí để làm thêm **một** đơn vị nữa; lợi ích biên là mức hài lòng mà người mua có được từ **một** đơn vị tiêu dùng thêm. Ví dụ minh hoạ: nếu làm thêm một chiếc bút tốn 2.000 đồng và bán được 3.000 đồng, người bán sẽ làm thêm; nếu một người thấy chiếc bánh thứ hai chỉ đáng 5.000 đồng mà giá là 7.000 đồng, họ sẽ không mua. Hai khái niệm này giải thích người bán dừng sản xuất và người mua dừng mua ở đâu.
+
+**Cạnh tranh hoàn hảo (perfect competition).** Thị trường có rất nhiều người bán và người mua cùng một sản phẩm giống hệt nhau, tìm thấy nhau không tốn gì, và ai muốn tham gia bán cũng được. Không ai đủ lớn để làm thay đổi giá, nên mọi người coi giá là cho sẵn. Ví dụ trong bài: thị trường bút bi. Đây là mô hình cơ bản nhất, dùng làm mốc để so với các thị trường khác.
+
+**Độ co giãn (elasticity).** Mức độ nhạy của lượng mua (hay lượng bán) khi giá thay đổi. Hàng co giãn: giá tăng một chút thì người ta mua ít đi nhiều. Hàng không co giãn: giá tăng mà người ta vẫn mua gần như cũ. Ví dụ trong bài: năng lượng không co giãn trong ngắn hạn (vẫn phải đổ xăng đi làm), còn bít tết thì co giãn (giá tăng thì đổi sang loại thịt khác). Khái niệm này cho biết giá thay đổi sẽ ảnh hưởng tới lượng tiêu dùng mạnh hay yếu.
+
+**Độc quyền và độc quyền mua (monopoly, monopsony).** Độc quyền là thị trường chỉ có một người bán một mặt hàng không có thứ thay thế dễ dàng; người bán này tự đặt được giá. Độc quyền mua là trường hợp ngược lại: chỉ có một người mua, thường là chính phủ, dù có nhiều người bán. Ví dụ trong bài: công ty cấp nước là độc quyền, vì không hợp lý khi hai công ty cùng lắp hai đường ống tới mỗi nhà. Đây là cực đối lập với cạnh tranh hoàn hảo.
+
+**Quyền lực thị trường (market power).** Khả năng của một người bán (hay người mua) tác động lên giá. Trong cạnh tranh hoàn hảo, không ai có; nhà độc quyền có nhiều nhất; các thị trường sản phẩm khác biệt hoá ở giữa. Ví dụ minh hoạ: một quán phở nổi tiếng có thể bán đắt hơn quán bên cạnh vài nghìn đồng mà vẫn giữ khách, nhưng không thể bán gấp ba. Bài dùng khái niệm này để xếp các loại thị trường thành một dải liên tục.
+
+**Chi phí cố định và độc quyền tạm thời (fixed costs, temporary monopoly).** Chi phí cố định là khoản phải bỏ ra bất kể bán được bao nhiêu, ví dụ công sức viết một cuốn sách. Độc quyền tạm thời là quyền bán độc quyền trong một thời gian mà nhà nước cấp, như bản quyền, để người bỏ ra chi phí cố định thu hồi được vốn. Ví dụ minh hoạ: viết một cuốn sách tốn hai năm công sức, nhưng in thêm một bản chỉ tốn vài chục nghìn đồng; không có bản quyền, người khác sẽ in lại và bán rẻ hơn. Khái niệm này giải thích vì sao có lúc nhà nước cố ý tạo ra độc quyền.
+
+## Nội dung chi tiết
 
 ### 1. Cạnh tranh hoàn hảo
 
-- Ba từ nhỏ. Thường chỉ cần thế để làm tim ai đó đập nhanh hơn. "Tự do, bình đẳng, bác ái" nắm bắt Cách mạng Pháp. "Anh yêu em" là nền tảng của nhiều mối quan hệ thành công. "Sự sống, tự do, hạnh phúc" nằm ở trung tâm Tuyên ngôn Độc lập Mỹ. Với nhiều nhà kinh tế, ba từ kỳ diệu đó là "cung, cầu, giá".
-- Trong bất kỳ giao dịch thị trường nào giữa người bán và người mua, giá của hàng hoá hay dịch vụ được xác định bởi cung và cầu trên một thị trường. Đến lượt mình, cung và cầu được xác định bởi công nghệ và các điều kiện mà người ta hoạt động. Ở một cực, thị trường có thể có vô số người bán và người mua gần như giống hệt nhau (chẳng hạn, thị trường bút bi). Ở cực kia, có thể chỉ có một người bán và một người mua (như trường hợp nếu tôi muốn đổi cái bàn của tôi lấy cái chăn của bạn).
-- Các nhà kinh tế đã xây dựng các mô hình để giải thích nhiều loại thị trường khác nhau. Cơ bản nhất là cạnh tranh hoàn hảo, trong đó có số lượng lớn người cung và người cầu giống hệt của cùng một sản phẩm, người mua và người bán có thể tìm thấy nhau mà không tốn chi phí, và không rào cản nào ngăn người cung mới gia nhập thị trường. Trong cạnh tranh hoàn hảo, không ai có khả năng ảnh hưởng đến giá. Cả hai bên đều coi giá thị trường là cho trước, và giá cân bằng thị trường là mức giá mà tại đó không có dư cung cũng không có dư cầu. Người cung sẽ tiếp tục sản xuất chừng nào họ còn có thể bán hàng hoá ở mức giá vượt quá chi phí làm thêm một đơn vị (chi phí biên của sản xuất). Người mua sẽ tiếp tục mua chừng nào sự hài lòng họ có được từ việc tiêu dùng lớn hơn mức giá họ trả (lợi ích biên của tiêu dùng). Nếu giá tăng, người cung thêm sẽ bị dụ vào thị trường. Cung sẽ tăng cho đến khi đạt lại giá cân bằng thị trường. Nếu giá giảm, những người cung không thể bù chi phí sẽ rời đi.
-- Các nhà kinh tế nhìn chung gộp các lượng mà người cung sẵn sàng sản xuất ở mỗi mức giá vào một phương trình gọi là đường cung. Giá càng cao, người cung càng có khả năng sản xuất nhiều. Ngược lại, người mua có xu hướng mua nhiều hơn một sản phẩm khi giá của nó càng thấp. Phương trình nêu rõ các lượng mà người tiêu dùng sẵn sàng mua ở mỗi mức giá được gọi là đường cầu.
-- Các đường cầu và cung có thể được vẽ trên đồ thị, với giá trên trục tung và lượng trên trục hoành. Cung nhìn chung được coi là dốc lên: khi giá tăng, người cung sẵn sàng sản xuất nhiều hơn. Cầu nhìn chung được coi là dốc xuống: ở các mức giá cao hơn, người tiêu dùng mua ít hơn. Điểm mà hai đường cắt nhau đại diện cho giá cân bằng thị trường, mức giá mà tại đó cầu và cung bằng nhau.
-- Giá có thể thay đổi vì nhiều lý do (công nghệ, sở thích người tiêu dùng, điều kiện thời tiết). Quan hệ giữa cung và cầu của một hàng hoá (hay dịch vụ) và các thay đổi về giá được gọi là độ co giãn. Các hàng hoá không co giãn tương đối không nhạy với thay đổi giá, trong khi hàng hoá co giãn rất nhạy với giá. Một ví dụ điển hình của hàng hoá không co giãn (ít nhất trong ngắn hạn) là năng lượng. Người tiêu dùng cần năng lượng để đi làm và về nhà, và để sưởi ấm nhà. Có thể khó hoặc không thể trong ngắn hạn để họ mua xe hay nhà tiết kiệm năng lượng hơn. Mặt khác, cầu đối với nhiều hàng hoá rất nhạy với giá. Hãy nghĩ đến bít tết. Nếu giá bít tết tăng, người tiêu dùng có thể nhanh chóng mua một miếng bò rẻ hơn hoặc chuyển sang loại thịt khác. Bít tết là hàng co giãn.
+**Ba từ kỳ diệu.** Bài mở đầu bằng nhận xét rằng ba từ thường đủ làm tim người ta đập nhanh hơn:
+
+- "Tự do, bình đẳng, bác ái" tóm lại Cách mạng Pháp.
+- "Anh yêu em" là nền tảng của nhiều mối quan hệ thành công.
+- "Sự sống, tự do, hạnh phúc" nằm ở trung tâm Tuyên ngôn Độc lập của Mỹ.
+
+Với nhiều nhà kinh tế, ba từ kỳ diệu đó là **"cung, cầu, giá"**.
+
+**Giá do cung và cầu quyết định.** Trong bất kỳ giao dịch nào giữa người bán và người mua, giá của hàng hoá hay dịch vụ được xác định bởi cung và cầu trên thị trường đó. Đến lượt mình, cung và cầu lại phụ thuộc vào công nghệ và hoàn cảnh mà người ta hoạt động. Các thị trường rất khác nhau về số người tham gia:
+
+- Ở một cực, có vô số người bán và người mua gần như giống hệt nhau, ví dụ thị trường bút bi.
+- Ở cực kia, chỉ có một người bán và một người mua, ví dụ khi tác giả muốn đổi cái bàn của mình lấy cái chăn của bạn.
+
+**Mô hình cạnh tranh hoàn hảo.** Các nhà kinh tế đã xây nhiều mô hình cho nhiều loại thị trường. Cơ bản nhất là **cạnh tranh hoàn hảo**, với ba điều kiện:
+
+1. Có rất nhiều người bán và người mua giống hệt nhau của cùng một sản phẩm.
+2. Người mua và người bán tìm thấy nhau mà không tốn chi phí.
+3. Không có rào cản nào ngăn người bán mới gia nhập thị trường.
+
+Trong thị trường này, không ai có khả năng tác động tới giá. Cả người mua lẫn người bán đều coi giá thị trường là cho sẵn. **Giá cân bằng thị trường** là mức giá mà tại đó không thừa cung cũng không thừa cầu.
+
+**Người bán và người mua quyết định thế nào.** Bài mô tả hai quy tắc:
+
+- Người bán tiếp tục sản xuất chừng nào còn bán được hàng ở mức giá cao hơn chi phí làm thêm một đơn vị, gọi là **chi phí biên** của sản xuất.
+- Người mua tiếp tục mua chừng nào mức hài lòng từ việc tiêu dùng thêm còn lớn hơn giá phải trả, gọi là **lợi ích biên** của tiêu dùng.
+
+**Thị trường tự điều chỉnh.** Nếu giá tăng lên trên mức cân bằng, có lãi hơn nên thêm người bán bị hút vào thị trường; cung tăng cho tới khi giá về lại mức cân bằng. Nếu giá giảm, những người bán không bù được chi phí sẽ rời thị trường.
+
+**Đường cung và đường cầu.** Các nhà kinh tế gom lượng hàng mà người bán sẵn sàng sản xuất ở mỗi mức giá vào một phương trình gọi là **đường cung**: giá càng cao, người bán càng muốn sản xuất nhiều. Ngược lại, người mua có xu hướng mua nhiều hơn khi giá thấp hơn; phương trình cho biết lượng người mua sẵn sàng mua ở mỗi mức giá gọi là **đường cầu**.
+
+Hai đường này có thể vẽ trên đồ thị, với giá ở trục tung (trục đứng) và lượng ở trục hoành (trục ngang):
+
+| | Hướng của đường | Lý do |
+|---|---|---|
+| Đường cung | Dốc lên | Giá cao hơn thì người bán muốn sản xuất nhiều hơn |
+| Đường cầu | Dốc xuống | Giá cao hơn thì người mua mua ít hơn |
+| Điểm cắt nhau | | Giá cân bằng thị trường: lượng cung bằng lượng cầu |
+
+**Ví dụ hôm nay** (minh hoạ chung, số giả định). Ở một chợ đầu mối rau, sáng nay có rất nhiều người bán cà chua cùng loại và rất nhiều người mua. Nếu giá 12.000 đồng một ký, người bán mang tới nhiều nhưng người mua chỉ lấy ít, hàng ế, nên người bán hạ giá. Nếu giá 6.000 đồng, người mua giành nhau nhưng nhiều người bán thấy không đủ bù chi phí nên không chở hàng tới, hàng thiếu, giá nhích lên. Giá sẽ dừng ở mức mà lượng mang tới vừa đúng lượng người mua muốn lấy, ví dụ 9.000 đồng.
+
+**Độ co giãn.** Giá có thể thay đổi vì nhiều lý do: công nghệ, sở thích của người tiêu dùng, thời tiết. Mối quan hệ giữa lượng cung, lượng cầu của một hàng hoá và các thay đổi về giá gọi là **độ co giãn**. Bài đưa ra hai ví dụ đối lập:
+
+| | Năng lượng | Bít tết |
+|---|---|---|
+| Loại | Không co giãn (ít nhất trong ngắn hạn) | Co giãn |
+| Khi giá tăng | Người ta vẫn phải mua gần như cũ | Người ta mua ít đi rõ rệt |
+| Lý do | Cần năng lượng để đi làm, về nhà, sưởi ấm nhà; trong ngắn hạn khó hoặc không thể đổi sang xe hay nhà tiết kiệm năng lượng hơn | Có thể nhanh chóng mua loại thịt bò rẻ hơn hoặc chuyển sang thịt khác |
 
 ### 2. Rào cản cạnh tranh
 
-- Tất nhiên, hầu hết thị trường là không hoàn hảo; chúng không gồm vô số người mua và người bán các mặt hàng gần như giống hệt có tri thức hoàn hảo. Ở đầu kia của phổ so với cạnh tranh hoàn hảo là độc quyền. Trong một độc quyền, có một người cung một hàng hoá mà không có vật thay thế đơn giản. Người cung không coi giá thị trường là cho trước. Thay vào đó, nhà độc quyền có thể đặt giá. (Anh em song sinh của độc quyền là độc quyền mua, trong đó chỉ có một người mua, thường là chính phủ, dù có thể có nhiều người cung.)
-- Trong các tình huống độc quyền, thường có một rào cản, tự nhiên hay pháp lý, với các đối thủ tiềm năng. Chẳng hạn, các công ty tiện ích thường là độc quyền. Sẽ kém hiệu quả nếu hai công ty nước cùng quản lý lưu vực, đàm phán quyền sử dụng, và lắp đặt ống đến từng hộ gia đình. Nhưng người tiêu dùng không có lựa chọn nào ngoài mua từ nhà độc quyền, và việc tiếp cận có thể không kham nổi với một số người. Kết quả là các chính phủ thường quản lý các độc quyền như vậy để bảo đảm họ không lạm dụng quyền lực thị trường của mình bằng cách đặt giá quá cao. Đổi lại việc cho phép một công ty hoạt động như nhà cung cấp duy nhất, có thể có các yêu cầu về dịch vụ tối thiểu phải được cung cấp cho tất cả mọi người hoặc một trần giá có thể tính. Các trần này nhìn chung cho phép các công ty thu hồi chi phí cố định.
-- Các nhà độc quyền không thể làm ngơ trước cầu, thứ mà, như trong cạnh tranh hoàn hảo, thay đổi tuỳ theo giá. Khác biệt là một nhà sản xuất trong cạnh tranh hoàn hảo chỉ đáp ứng một phần của tổng cầu, trong khi nhà độc quyền hưởng lợi từ đường cầu của toàn bộ thị trường. Vậy nên nhà độc quyền không bị quản lý có thể quyết định sản xuất một lượng tối đa hoá lợi nhuận của mình, hầu như luôn ở mức giá cao hơn và với lượng nhỏ hơn so với trong một thị trường cạnh tranh hoàn hảo.
-- Trong cạnh tranh hoàn hảo, một hãng có chi phí thấp hơn có thể giảm giá của mình và thêm đủ khách hàng để bù cho doanh thu mất đi trên doanh số hiện có. Giả sử một hãng kiếm 5 xu một đơn vị khi bán 1.000 đơn vị, tức 50 đô la, trong một tổng thị trường 100.000 đơn vị. Nếu nó hạ giá 1 xu và có thêm 1.000 đơn vị doanh số, lợi nhuận của nó sẽ là 80 đô la ở mức doanh số mới 2.000 đơn vị.
-- Nhưng một nhà độc quyền kiểm soát toàn bộ doanh số, trong trường hợp này 100.000 đơn vị ở 5 xu một đơn vị, kiếm lợi nhuận 5.000 đô la. Việc hạ giá có thể làm tăng tổng doanh số, nhưng có khả năng không đủ để bù cho doanh thu mất đi trên doanh số hiện có. Giả sử nó hạ giá (và lợi nhuận mỗi lần bán) 1 xu, dẫn đến cầu tăng 1.000 đơn vị. Điều đó sẽ thêm 40 đô la vào doanh thu. Nhưng nhà độc quyền cũng sẽ mất 1 xu lợi nhuận trên mỗi trong số 100.000 đơn vị nó đã bán, tức 1.000 đô la.
-- Kết quả then chốt của một độc quyền là giá và lợi nhuận cao hơn so với cạnh tranh hoàn hảo và cung thường thấp hơn. Có các loại thị trường khác trong đó người mua và người bán có nhiều quyền lực thị trường hơn trong cạnh tranh hoàn hảo nhưng ít hơn dưới một độc quyền. Trong các trường hợp đó, giá cao hơn và sản xuất thấp hơn so với các trường hợp cạnh tranh hoàn hảo.
+**Độc quyền là cực đối lập.** Hầu hết thị trường trong thực tế là không hoàn hảo: không có vô số người mua và người bán những mặt hàng gần như giống hệt nhau, với hiểu biết đầy đủ về thị trường. Ở đầu kia của dải, đối lập với cạnh tranh hoàn hảo, là **độc quyền**: chỉ có một người bán một mặt hàng không có thứ thay thế đơn giản. Nhà độc quyền không coi giá là cho sẵn mà **tự đặt giá**. Bài nhắc thêm "anh em song sinh" của độc quyền là **độc quyền mua**: chỉ có một người mua, thường là chính phủ, dù có thể có nhiều người bán.
+
+**Rào cản gia nhập.** Trong các tình huống độc quyền, thường có một rào cản ngăn đối thủ tiềm năng, rào cản đó có thể tự nhiên hoặc do luật pháp. Ví dụ của bài là các công ty tiện ích (điện, nước): sẽ kém hiệu quả nếu hai công ty nước cùng quản lý một lưu vực, cùng đàm phán quyền sử dụng nguồn nước và cùng lắp ống tới từng hộ gia đình.
+
+**Vì sao nhà nước quản lý độc quyền.** Vấn đề là người tiêu dùng không có lựa chọn nào khác ngoài mua từ nhà độc quyền, và với một số người, giá có thể quá cao. Vì vậy các chính phủ thường quản lý những độc quyền như thế để chúng không lạm dụng quyền lực thị trường bằng cách đặt giá quá cao. Đổi lại việc được làm nhà cung cấp duy nhất, công ty có thể phải:
+
+- cung cấp một mức dịch vụ tối thiểu cho mọi người; hoặc
+- chịu một **trần giá**, tức mức giá tối đa được phép thu.
+
+Các trần giá này nhìn chung được đặt ở mức cho phép công ty thu hồi chi phí cố định.
+
+**Nhà độc quyền vẫn phải tính tới cầu.** Nhà độc quyền không thể làm ngơ trước cầu, vì cũng như trong cạnh tranh hoàn hảo, lượng người mua thay đổi theo giá. Khác biệt nằm ở chỗ: một nhà sản xuất trong cạnh tranh hoàn hảo chỉ phục vụ một phần nhỏ của tổng cầu, còn nhà độc quyền đối mặt với **đường cầu của toàn bộ thị trường**. Vì thế nhà độc quyền không bị quản lý sẽ chọn sản xuất lượng hàng giúp lợi nhuận của mình cao nhất, và lượng đó hầu như luôn đi kèm **giá cao hơn và lượng nhỏ hơn** so với thị trường cạnh tranh hoàn hảo.
+
+**So sánh bằng số.** Bài dùng một ví dụ để giải thích vì sao hai loại người bán phản ứng khác nhau khi cân nhắc giảm giá. Thị trường có tổng cộng 100.000 đơn vị hàng, lợi nhuận ban đầu là 5 xu mỗi đơn vị.
+
+*Hãng nhỏ trong cạnh tranh hoàn hảo.* Một hãng có chi phí thấp hơn có thể giảm giá và kéo thêm đủ khách để bù phần doanh thu mất trên lượng hàng đang bán:
+
+| | Trước khi hạ giá | Sau khi hạ giá 1 xu |
+|---|---|---|
+| Lợi nhuận mỗi đơn vị | 5 xu | 4 xu |
+| Số đơn vị bán | 1.000 | 2.000 (thêm 1.000) |
+| Tổng lợi nhuận | 50 đô la | 80 đô la |
+
+Hạ giá có lợi: lợi nhuận tăng từ 50 lên 80 đô la.
+
+*Nhà độc quyền.* Nhà độc quyền kiểm soát toàn bộ 100.000 đơn vị ở mức 5 xu mỗi đơn vị, kiếm 5.000 đô la. Hạ giá có thể làm tổng lượng bán tăng, nhưng nhiều khả năng không đủ bù phần mất trên lượng đang bán:
+
+| | Con số |
+|---|---|
+| Lợi nhuận ban đầu | 100.000 đơn vị × 5 xu = 5.000 đô la |
+| Hạ giá (và lợi nhuận mỗi đơn vị) 1 xu, cầu tăng 1.000 đơn vị | 1.000 đơn vị thêm × 4 xu = thêm 40 đô la |
+| Mất 1 xu trên mỗi đơn vị trong 100.000 đơn vị đã bán | mất 1.000 đô la |
+| Lợi nhuận sau khi hạ giá | 101.000 đơn vị × 4 xu = 4.040 đô la |
+
+Hạ giá có hại: được thêm 40 đô la nhưng mất 1.000 đô la. Điều khác biệt là hãng nhỏ chỉ mất 1 xu trên phần hàng nhỏ của mình, trong khi nhà độc quyền mất 1 xu trên toàn bộ thị trường. Vì vậy nhà độc quyền không có động cơ hạ giá như hãng nhỏ.
+
+**Kết quả then chốt.** Một thị trường độc quyền cho **giá và lợi nhuận cao hơn** cạnh tranh hoàn hảo, và **lượng cung thường thấp hơn**.
+
+**Giữa hai cực.** Có những loại thị trường mà người mua và người bán có quyền lực thị trường nhiều hơn trong cạnh tranh hoàn hảo nhưng ít hơn nhà độc quyền. Ở đó, giá cũng cao hơn và sản lượng thấp hơn so với cạnh tranh hoàn hảo, nhưng không tới mức độc quyền.
 
 ### 3. Sản phẩm khác biệt hoá và độc quyền tạm thời
 
-- Cung và cầu cũng có thể bị ảnh hưởng bởi chính sản phẩm. Trong cạnh tranh hoàn hảo, mọi nhà sản xuất làm và người mua tìm kiếm cùng một sản phẩm, hoặc các vật thay thế gần. Trong một độc quyền, người mua thiếu các vật thay thế dễ dàng. Sự đa dạng, tuy nhiên, cho phép thay thế giữa các loại. Chẳng hạn, thị trường cà chua liên quan nhiều hơn việc chỉ đơn giản khớp người mua và người bán một quả cà chua lý tưởng. Người tiêu dùng có thể muốn các loại khác nhau, và nhà sản xuất có thể đáp ứng. Những người mới gia nhập thị trường có thể cạnh tranh trực diện với một nhà sản xuất hiện có bằng cách áp dụng cùng công nghệ sản xuất, nhưng thay vào đó họ có thể giới thiệu các giống mới (cà chua bi, cà chua bò, cà chua gia truyền) để phục vụ các khẩu vị khác nhau. Kết quả là các nhà sản xuất có quyền lực thị trường hạn chế để đặt giá khi thị trường có tính cạnh tranh nhưng sản phẩm được khác biệt hoá. Dù vậy, các giống sản phẩm có thể thay thế cho nhau, dù không hoàn hảo, nên giá không thể cao như trong các độc quyền.
-- Các phức tạp nảy sinh khi các đặc điểm chính phân biệt sản phẩm này với sản phẩm khác thì tốn kém để tạo ra nhưng rẻ để bắt chước, chẳng hạn sách, thuốc, phần mềm máy tính. Viết một cuốn sách có thể khó, nhưng in một bản có chi phí biên thấp. Người tiêu dùng có thể mua nhiều sách, nhưng nếu một cuốn trở nên phổ biến, các đối thủ sẽ có động lực hạ giá nhà xuất bản và bán các bản sao của chính họ. Để cho phép tác giả và nhà xuất bản thu hồi chi phí cố định, các chính phủ thường cấp một độc quyền tạm thời cho cuốn sách đó (gọi là bản quyền) cho tác giả và nhà xuất bản. Giá vượt quá chi phí biên của sản xuất, nhưng bản quyền tạo động lực cho các tác giả tiếp tục viết và các nhà xuất bản sản xuất cùng tiếp thị sách, bảo đảm nguồn cung tương lai.
-- Các cấu trúc thị trường bàn ở đây là một vài trong số các cách mà cung và cầu có thể khác nhau tuỳ bối cảnh. Công nghệ sản xuất, sở thích người tiêu dùng, và các khó khăn trong việc khớp người bán với người mua là một số yếu tố ảnh hưởng đến thị trường, và tất cả đều đóng vai trò trong việc xác định giá cân bằng thị trường.
+**Sản phẩm cũng định hình thị trường.** Cung và cầu còn chịu ảnh hưởng của chính bản thân sản phẩm:
+
+- Trong cạnh tranh hoàn hảo, mọi nhà sản xuất làm, và mọi người mua tìm, cùng một sản phẩm hoặc những thứ thay thế rất gần.
+- Trong độc quyền, người mua không có thứ thay thế dễ dàng.
+- Ở giữa, sự **đa dạng** cho phép người mua thay thế loại này bằng loại khác.
+
+**Ví dụ cà chua.** Thị trường cà chua không chỉ là chuyện ghép người mua với người bán một quả cà chua "lý tưởng". Người tiêu dùng có thể muốn nhiều loại khác nhau, và nhà sản xuất có thể đáp ứng. Một người mới vào nghề có thể cạnh tranh trực diện với người trồng cũ bằng cách dùng cùng kỹ thuật trồng, nhưng cũng có thể đưa ra giống mới (cà chua bi, cà chua bò, cà chua gia truyền) để phục vụ những khẩu vị khác nhau.
+
+Kết quả: khi thị trường có cạnh tranh nhưng sản phẩm được **khác biệt hoá**, nhà sản xuất có một chút quyền lực để đặt giá. Tuy vậy, các loại sản phẩm vẫn thay thế được cho nhau, dù không hoàn toàn, nên giá không thể cao như trong độc quyền.
+
+**Độc quyền tạm thời.** Vấn đề phức tạp hơn khi điểm làm nên sự khác biệt của một sản phẩm thì **tốn kém để tạo ra nhưng rẻ để bắt chước**, ví dụ sách, thuốc, phần mềm máy tính. Bài lấy sách làm ví dụ:
+
+1. Viết một cuốn sách có thể rất khó, nhưng in thêm một bản có chi phí biên thấp.
+2. Người tiêu dùng có thể mua nhiều sách; nhưng nếu một cuốn trở nên ăn khách, các đối thủ có động cơ in bản sao của riêng họ và bán rẻ hơn nhà xuất bản gốc.
+3. Nếu điều đó xảy ra, tác giả và nhà xuất bản không thu hồi được chi phí cố định đã bỏ ra.
+4. Để họ thu hồi được, nhà nước thường cấp cho tác giả và nhà xuất bản một **độc quyền tạm thời** đối với cuốn sách đó, gọi là **bản quyền**.
+
+Sự đánh đổi ở đây rõ ràng: giá sách cao hơn chi phí biên để in, tức người mua trả nhiều hơn mức cạnh tranh hoàn hảo; nhưng bản quyền tạo động cơ cho tác giả tiếp tục viết và cho nhà xuất bản tiếp tục in, tiếp thị sách, nhờ đó **bảo đảm nguồn cung sách trong tương lai**.
+
+**Tóm tắt các cấu trúc thị trường trong bài:**
+
+| Cấu trúc | Số người bán | Sản phẩm | Ai đặt giá | Giá và lượng so với cạnh tranh hoàn hảo |
+|---|---|---|---|---|
+| Cạnh tranh hoàn hảo | Rất nhiều | Giống hệt (bút bi) | Không ai, giá cho sẵn | Mốc so sánh |
+| Sản phẩm khác biệt hoá | Nhiều | Khác loại nhưng thay thế được (cà chua bi, cà chua bò) | Người bán có quyền lực hạn chế | Giá cao hơn một chút, lượng thấp hơn một chút |
+| Độc quyền tạm thời | Một, trong thời gian bảo hộ | Sách, thuốc, phần mềm | Người giữ bản quyền | Giá cao hơn chi phí biên, đổi lại có nguồn cung tương lai |
+| Độc quyền | Một | Không có thứ thay thế đơn giản (nước máy) | Nhà độc quyền, thường bị quản lý bằng trần giá | Giá và lợi nhuận cao hơn, lượng thấp hơn |
+
+**Kết luận của bài.** Những cấu trúc thị trường trên chỉ là vài trong nhiều cách mà cung và cầu khác nhau tuỳ bối cảnh. Công nghệ sản xuất, sở thích của người tiêu dùng và những khó khăn trong việc ghép người bán với người mua là một số yếu tố ảnh hưởng tới thị trường, và tất cả đều góp phần quyết định giá cân bằng thị trường.
 
 ## Thuật ngữ
 

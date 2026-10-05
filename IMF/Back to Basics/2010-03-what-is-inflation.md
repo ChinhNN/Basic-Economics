@@ -203,36 +203,141 @@
 2. Lạm phát gây hại và có lợi ở đâu?
 3. Nguyên nhân nào tạo ra lạm phát, và xử lý thế nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Lạm phát (inflation).** Tốc độ tăng giá trong một khoảng thời gian, thường là một năm. Lạm phát thường được đo cho toàn bộ hàng hoá và dịch vụ mà người dân mua, nhưng cũng có thể đo riêng cho một nhóm (ví dụ lạm phát thực phẩm). Ví dụ minh hoạ: một rổ hàng năm ngoái giá 1.000.000 đồng, năm nay giá 1.040.000 đồng, thì lạm phát là 4%. Đây là đối tượng của cả bài.
+
+**Chỉ số giá tiêu dùng (consumer price index, CPI).** Chi phí mua một "rổ" hàng hoá và dịch vụ mà một hộ gia đình trung bình thường mua, tính so với chi phí của cùng rổ đó ở một năm gốc. Rổ và tỷ trọng từng món được xác định qua khảo sát hộ gia đình. Ví dụ trong bài: nếu CPI năm gốc là 100 và CPI hiện tại là 110, giá đã tăng 10% trong giai đoạn đó. Đây là thước đo lạm phát được dùng rộng rãi nhất.
+
+**Lạm phát lõi (core inflation).** Lạm phát tính sau khi bỏ ra những giá do nhà nước đặt và những giá biến động mạnh vì mùa vụ hay cú sốc cung tạm thời, điển hình là thực phẩm và năng lượng. Ví dụ minh hoạ: nếu CPI tăng 6% chủ yếu vì giá xăng vọt lên, còn các giá khác chỉ tăng 2%, thì lạm phát lõi khoảng 2%. Nó giúp nhà hoạch định phân biệt xu hướng lâu dài với biến động nhất thời.
+
+**Chỉ số giảm phát GDP (GDP deflator).** Chỉ số giá tính cho **mọi thứ** được sản xuất trong nền kinh tế, không chỉ hàng người tiêu dùng mua. Ví dụ minh hoạ: nếu GDP tính theo giá hiện hành là 110 và tính theo giá năm gốc là 100, chỉ số giảm phát là 110, tức mặt bằng giá của toàn bộ sản phẩm đã tăng 10%. Nó rộng hơn và cập nhật hơn CPI, nhưng chứa cả hàng không phải để tiêu dùng (như chi tiêu quân sự), nên không đo đúng chi phí sinh hoạt.
+
+**Thu nhập danh nghĩa và thu nhập thực (nominal and real income).** Thu nhập danh nghĩa là số tiền nhận được. Thu nhập thực là lượng hàng hoá mà số tiền đó mua được, tức thu nhập đã trừ đi ảnh hưởng của lạm phát. Ví dụ minh hoạ: lương tăng 5% nhưng giá tăng 8% thì thu nhập thực giảm khoảng 3%. Bài coi thu nhập thực là đại diện cho mức sống, và sự xói mòn của nó là chi phí lớn nhất của lạm phát.
+
+**Lãi suất thực (real interest rate).** Lãi suất danh nghĩa trừ tỷ lệ lạm phát. Ví dụ trong bài: vay thế chấp lãi suất cố định 5% khi lạm phát cũng là 5% thì lãi suất thực bằng không; người vay thực chất không phải trả thêm sức mua nào. Khái niệm này cho thấy lạm phát chuyển sức mua từ người cho vay sang người đi vay.
+
+**Giảm phát (deflation).** Mặt bằng giá **giảm** theo thời gian, tức lạm phát âm. Ví dụ minh hoạ: nếu ai cũng tin chiếc tủ lạnh 10 triệu đồng năm nay sẽ còn 9,5 triệu năm sau, nhiều người sẽ hoãn mua. Bài dùng khái niệm này để giải thích vì sao mục tiêu không phải là lạm phát bằng không.
+
+**Kỳ vọng lạm phát và quán tính lạm phát (inflation expectations, inflation inertia).** Kỳ vọng là mức lạm phát mà người dân và doanh nghiệp tin sẽ xảy ra; họ đưa con số này vào hợp đồng lương và giá, nên kỳ vọng tự biến thành hiện thực. Quán tính xuất hiện khi người ta đoán lạm phát dựa vào lạm phát gần đây. Ví dụ minh hoạ: năm ngoái lạm phát 7%, năm nay chủ nhà tự động tăng tiền thuê 7% và công đoàn đòi tăng lương 7%, nên lạm phát năm nay cũng gần 7%. Đây là lý do ngân hàng trung ương coi việc tác động lên kỳ vọng là một công cụ chính.
+
+## Nội dung chi tiết
 
 ### 1. Đo lường lạm phát
 
-- Lạm phát có thể là một trong những từ quen thuộc nhất trong kinh tế học. Nó đã đẩy các nước vào những giai đoạn bất ổn kéo dài. Các chủ ngân hàng trung ương thường khát khao được biết đến là "diều hâu lạm phát". Các chính trị gia đã thắng cử với lời hứa chống lạm phát, chỉ để mất quyền sau khi không làm được. Lạm phát thậm chí từng được tuyên bố là Kẻ thù Số một ở Mỹ, bởi Tổng thống Gerald Ford năm 1974. Vậy lạm phát là gì, và vì sao nó quan trọng đến thế?
-- Lạm phát là tốc độ tăng giá trong một khoảng thời gian cho trước. Lạm phát thường là một thước đo rộng, như mức tăng chung của giá hay mức tăng chi phí sinh hoạt ở một nước. Nhưng nó cũng có thể được tính hẹp hơn, cho một số hàng hoá, như thực phẩm, hoặc cho dịch vụ, như cắt tóc chẳng hạn. Dù bối cảnh nào, lạm phát đại diện cho mức đắt đỏ hơn mà tập hàng hoá và/hoặc dịch vụ liên quan đã trở thành trong một giai đoạn nhất định, phổ biến nhất là một năm.
-- Chi phí sinh hoạt của người tiêu dùng phụ thuộc vào giá của nhiều hàng hoá và dịch vụ và tỷ trọng của mỗi thứ trong ngân sách hộ gia đình. Để đo chi phí sinh hoạt của người tiêu dùng trung bình, các cơ quan chính phủ tiến hành khảo sát hộ gia đình để xác định một rổ các mặt hàng thường được mua và theo dõi theo thời gian chi phí mua rổ này. (Chi phí nhà ở, gồm tiền thuê và trả nợ thế chấp, là thành phần lớn nhất của rổ tiêu dùng ở Mỹ.) Chi phí của rổ này tại một thời điểm nhất định, diễn đạt so với một năm gốc, là chỉ số giá tiêu dùng (CPI), và thay đổi phần trăm của CPI qua một giai đoạn nhất định là lạm phát giá tiêu dùng, thước đo lạm phát được dùng rộng rãi nhất. (Chẳng hạn, nếu CPI năm gốc là 100 và CPI hiện tại là 110, lạm phát là 10% trong giai đoạn đó.)
-- Lạm phát lõi tập trung vào các xu hướng nền tảng và dai dẳng của lạm phát bằng cách loại trừ các mức giá do chính phủ đặt và các mức giá biến động hơn của các sản phẩm, như thực phẩm và năng lượng, bị ảnh hưởng nhiều nhất bởi các yếu tố mùa vụ hay điều kiện cung tạm thời. Lạm phát lõi cũng được các nhà hoạch định theo dõi sát. Việc tính một tỷ lệ lạm phát tổng thể, cho một nước chẳng hạn chứ không chỉ cho người tiêu dùng, đòi hỏi một chỉ số có phạm vi rộng hơn, như chỉ số giảm phát tổng sản phẩm quốc nội (GDP).
-- Rổ CPI phần lớn được giữ không đổi theo thời gian để bảo đảm nhất quán, nhưng thỉnh thoảng được điều chỉnh để phản ánh các mô hình tiêu dùng đang thay đổi, chẳng hạn để đưa vào các hàng công nghệ cao mới và thay thế các mặt hàng không còn được mua rộng rãi. Vì nó cho thấy giá thay đổi thế nào, trung bình, theo thời gian đối với mọi thứ được sản xuất trong một nền kinh tế, nội dung của chỉ số giảm phát GDP thay đổi mỗi năm và cập nhật hơn so với rổ CPI phần lớn cố định. Mặt khác, chỉ số giảm phát bao gồm các mặt hàng phi tiêu dùng (như chi tiêu quân sự) và do đó không phải là thước đo tốt về chi phí sinh hoạt.
+**Vì sao lạm phát quan trọng.** Bài mở đầu bằng việc nhắc lạm phát có lẽ là một trong những từ quen thuộc nhất của kinh tế học, và nêu vài dấu hiệu cho thấy sức nặng của nó:
+
+- Lạm phát đã đẩy nhiều nước vào những giai đoạn bất ổn kéo dài.
+- Các thống đốc ngân hàng trung ương thường muốn được biết đến là "diều hâu lạm phát", tức người cứng rắn chống lạm phát.
+- Nhiều chính trị gia thắng cử nhờ hứa chống lạm phát, rồi mất ghế vì không làm được.
+- Năm 1974, Tổng thống Mỹ Gerald Ford còn tuyên bố lạm phát là "kẻ thù số một" của nước Mỹ.
+
+Từ đó bài đặt câu hỏi: lạm phát là gì, và vì sao nó quan trọng đến thế?
+
+**Định nghĩa.** Lạm phát là **tốc độ tăng giá trong một khoảng thời gian nhất định**. Thường nó là một thước đo rộng, như mức tăng chung của giá cả hay mức tăng chi phí sinh hoạt của một nước. Nhưng nó cũng có thể tính hẹp hơn, cho một số hàng hoá như thực phẩm, hoặc một dịch vụ như cắt tóc. Dù trong bối cảnh nào, lạm phát cho biết nhóm hàng hoá hay dịch vụ đang xét đã đắt lên bao nhiêu trong một giai đoạn, phổ biến nhất là một năm.
+
+**Chỉ số giá tiêu dùng.** Chi phí sinh hoạt của một người phụ thuộc vào giá của rất nhiều hàng hoá, dịch vụ và vào tỷ trọng của mỗi thứ trong ngân sách gia đình. Để đo chi phí sinh hoạt của người tiêu dùng trung bình, cơ quan thống kê làm như sau:
+
+1. Khảo sát hộ gia đình để xác định một **rổ** những món hàng thường được mua và tỷ trọng của từng món. Ở Mỹ, chi phí nhà ở (gồm tiền thuê nhà và tiền trả nợ mua nhà) là thành phần lớn nhất của rổ.
+2. Theo dõi chi phí mua rổ này theo thời gian.
+3. Biểu diễn chi phí của rổ tại mỗi thời điểm so với một năm gốc. Con số đó là **chỉ số giá tiêu dùng (CPI)**.
+4. Phần trăm thay đổi của CPI qua một giai đoạn là **lạm phát giá tiêu dùng**, thước đo lạm phát được dùng rộng rãi nhất.
+
+Ví dụ của bài: nếu CPI năm gốc là 100 và CPI hiện tại là 110, lạm phát trong giai đoạn đó là 10%.
+
+Rổ CPI phần lớn được giữ cố định để các con số so sánh được với nhau qua thời gian, nhưng thỉnh thoảng được điều chỉnh theo thói quen tiêu dùng mới, ví dụ thêm các sản phẩm công nghệ cao mới và bỏ những món ít người còn mua.
+
+**Lạm phát lõi.** Lạm phát lõi nhằm nắm xu hướng nền tảng và dai dẳng của lạm phát. Nó loại ra hai loại giá: giá do chính phủ quy định, và giá biến động mạnh của những sản phẩm như thực phẩm và năng lượng, vốn chịu ảnh hưởng lớn của mùa vụ hoặc điều kiện cung tạm thời. Các nhà hoạch định chính sách cũng theo dõi sát chỉ số này.
+
+**Chỉ số giảm phát GDP.** Muốn tính lạm phát cho cả nền kinh tế chứ không chỉ cho người tiêu dùng, cần một chỉ số phạm vi rộng hơn, như chỉ số giảm phát tổng sản phẩm quốc nội (GDP). So sánh hai chỉ số:
+
+| | CPI | Chỉ số giảm phát GDP |
+|---|---|---|
+| Phạm vi | Rổ hàng của người tiêu dùng trung bình | Mọi thứ được sản xuất trong nền kinh tế |
+| Thành phần | Phần lớn cố định, thỉnh thoảng điều chỉnh | Thay đổi mỗi năm, nên cập nhật hơn |
+| Có hàng phi tiêu dùng không | Không | Có, ví dụ chi tiêu quân sự |
+| Đo chi phí sinh hoạt | Tốt | Không tốt |
 
 ### 2. Cái tốt và cái xấu
 
-- Trong mức độ mà thu nhập danh nghĩa của hộ gia đình, thứ họ nhận bằng tiền hiện hành, không tăng nhiều bằng giá, họ tệ hơn, vì họ mua được ít hơn. Nói cách khác, sức mua của họ, hay thu nhập thực đã điều chỉnh lạm phát, giảm. Thu nhập thực là đại diện cho mức sống. Khi thu nhập thực đang tăng, mức sống cũng vậy, và ngược lại.
-- Trong thực tế, giá thay đổi với tốc độ khác nhau. Một số, như giá của các hàng hoá được giao dịch, thay đổi mỗi ngày; số khác, như lương do hợp đồng xác lập, mất nhiều thời gian hơn để điều chỉnh (hay "dính", theo cách nói kinh tế). Trong một môi trường lạm phát, giá tăng không đều tất yếu làm giảm sức mua của một số người tiêu dùng, và sự xói mòn thu nhập thực này là chi phí lớn nhất của lạm phát.
-- Lạm phát cũng có thể bóp méo sức mua theo thời gian đối với người nhận và người trả các mức lãi suất cố định. Hãy lấy những người về hưu nhận mức tăng cố định 5% mỗi năm cho lương hưu của họ. Nếu lạm phát cao hơn 5%, sức mua của người về hưu giảm. Mặt khác, một người vay trả khoản thế chấp lãi suất cố định 5% sẽ hưởng lợi từ lạm phát 5%, vì lãi suất thực (lãi suất danh nghĩa trừ tỷ lệ lạm phát) sẽ bằng không; việc trả khoản nợ này thậm chí sẽ còn dễ hơn nếu lạm phát cao hơn, miễn là thu nhập của người vay theo kịp lạm phát. Thu nhập thực của người cho vay, tất nhiên, chịu thiệt. Trong mức độ lạm phát không được tính vào các lãi suất danh nghĩa, một số người được và một số người mất sức mua.
-- Quả thực, nhiều nước đã vật lộn với lạm phát cao, và trong một số trường hợp là siêu lạm phát, 1.000% hoặc hơn một năm. Năm 2008, Zimbabwe trải qua một trong những trường hợp siêu lạm phát tệ nhất từng có, với lạm phát hằng năm ước tính có lúc lên tới 500 tỷ phần trăm. Các mức lạm phát cao như vậy đã là thảm hoạ, và các nước đã phải thực hiện các biện pháp chính sách khó khăn và đau đớn để đưa lạm phát về mức hợp lý, đôi khi bằng cách từ bỏ đồng tiền quốc gia của mình, như Zimbabwe đã làm.
-- Dù lạm phát cao gây hại cho một nền kinh tế, giảm phát, hay giá giảm, cũng không đáng mong muốn. Khi giá đang giảm, người tiêu dùng trì hoãn việc mua sắm nếu có thể, dự đoán giá thấp hơn trong tương lai. Với nền kinh tế, điều này nghĩa là ít hoạt động kinh tế hơn, ít thu nhập được tạo ra bởi nhà sản xuất hơn, và tăng trưởng kinh tế thấp hơn. Nhật Bản là một nước có giai đoạn dài gần như không có tăng trưởng kinh tế, phần lớn vì giảm phát. Việc ngăn giảm phát trong cuộc khủng hoảng tài chính toàn cầu bắt đầu năm 2007 là một trong các lý do Cục Dự trữ Liên bang Mỹ và các ngân hàng trung ương khác trên thế giới đã giữ lãi suất thấp trong một thời gian kéo dài và thiết lập các chính sách tiền tệ khác để bảo đảm hệ thống tài chính có nhiều thanh khoản. Hôm nay lạm phát toàn cầu ở một trong các mức thấp nhất kể từ đầu thập niên 1960, phần nào vì cuộc khủng hoảng tài chính.
-- Hầu hết các nhà kinh tế nay tin rằng lạm phát thấp, ổn định, và quan trọng nhất là dự đoán được là tốt cho một nền kinh tế. Nếu lạm phát thấp và dự đoán được, dễ hơn để nắm bắt nó trong các hợp đồng điều chỉnh giá và lãi suất, giảm tác động gây méo mó của nó. Hơn nữa, biết rằng giá sẽ cao hơn một chút trong tương lai cho người tiêu dùng động lực mua sắm sớm hơn, thúc đẩy hoạt động kinh tế. Nhiều chủ ngân hàng trung ương đã lấy việc duy trì lạm phát thấp và ổn định làm mục tiêu chính sách chính của mình, một chính sách gọi là mục tiêu lạm phát.
+**Lạm phát làm ai nghèo đi.** Nếu thu nhập danh nghĩa của một hộ gia đình (số tiền họ nhận theo giá hiện hành) tăng chậm hơn giá cả, họ mua được ít hơn và trở nên kém khá giả hơn. Nói cách khác, **sức mua**, hay thu nhập thực đã điều chỉnh theo lạm phát, giảm xuống. Thu nhập thực là đại diện cho mức sống: thu nhập thực tăng thì mức sống tăng, và ngược lại.
+
+**Giá tăng không đều.** Trong thực tế, các giá không thay đổi cùng tốc độ:
+
+- Một số giá, như giá các mặt hàng giao dịch trên thị trường hàng hoá, thay đổi mỗi ngày.
+- Một số giá khác, như tiền lương ghi trong hợp đồng, phải lâu mới điều chỉnh. Kinh tế học gọi những giá này là giá "dính".
+
+Vì vậy, trong môi trường lạm phát, việc giá tăng không đều tất yếu làm sức mua của **một số** người giảm. Bài khẳng định **sự xói mòn thu nhập thực này là chi phí lớn nhất của lạm phát**.
+
+**Ai được, ai mất khi lãi suất cố định.** Lạm phát cũng làm méo sức mua của người nhận và người trả các khoản tiền có lãi suất cố định. Bài nêu ba ví dụ:
+
+| Người | Tình huống | Khi lạm phát là 5% hoặc cao hơn |
+|---|---|---|
+| Người về hưu | Lương hưu tăng cố định 5% mỗi năm | Nếu lạm phát cao hơn 5%, sức mua của họ giảm |
+| Người vay mua nhà | Lãi suất cố định 5% | Lạm phát 5% làm lãi suất thực bằng không; lạm phát cao hơn thì trả nợ càng dễ, miễn thu nhập của họ tăng kịp lạm phát |
+| Người cho vay | Nhận lãi cố định | Thu nhập thực bị thiệt |
+
+Kết luận của bài: trong chừng mực lạm phát không được tính trước vào lãi suất danh nghĩa, một số người được thêm sức mua và một số người mất sức mua.
+
+**Siêu lạm phát.** Nhiều nước đã vật lộn với lạm phát cao, có nơi là siêu lạm phát, tức từ 1.000% trở lên mỗi năm. Năm 2008, Zimbabwe trải qua một trong những đợt siêu lạm phát tệ nhất từng có, với lạm phát năm ước tính có lúc lên tới 500 tỷ phần trăm. Những mức lạm phát như vậy là thảm hoạ. Các nước đã phải dùng những biện pháp khó khăn, đau đớn để đưa lạm phát về mức chấp nhận được, có khi phải bỏ hẳn đồng tiền quốc gia, như Zimbabwe đã làm.
+
+**Giảm phát cũng không tốt.** Lạm phát cao có hại, nhưng giá giảm cũng không đáng mong muốn. Bài giải thích theo chuỗi:
+
+1. Khi giá đang giảm, người tiêu dùng hoãn mua nếu có thể, vì chờ giá thấp hơn.
+2. Nền kinh tế vì thế có ít hoạt động hơn, nhà sản xuất tạo ra ít thu nhập hơn.
+3. Tăng trưởng kinh tế thấp hơn.
+
+Nhật Bản là ví dụ: nước này đã có một thời kỳ dài gần như không tăng trưởng, phần lớn vì giảm phát. Ngăn giảm phát cũng là một trong những lý do mà trong cuộc khủng hoảng tài chính toàn cầu bắt đầu năm 2007, Cục Dự trữ Liên bang Mỹ (Fed) và các ngân hàng trung ương khác giữ lãi suất thấp trong thời gian dài và dùng thêm các chính sách tiền tệ khác để hệ thống tài chính có nhiều thanh khoản (đủ tiền mặt để hoạt động). Vào lúc bài được viết, lạm phát toàn cầu ở một trong những mức thấp nhất kể từ đầu thập niên 1960, một phần do chính cuộc khủng hoảng.
+
+**Đồng thuận hiện nay.** Hầu hết các nhà kinh tế nay tin rằng lạm phát **thấp, ổn định và, quan trọng nhất, dự đoán được** là tốt cho nền kinh tế, vì hai lý do:
+
+- Khi lạm phát thấp và dự đoán được, người ta dễ tính nó vào các hợp đồng điều chỉnh giá và lãi suất, nên lạm phát ít gây méo mó hơn.
+- Biết rằng giá tương lai sẽ cao hơn một chút cho người tiêu dùng động cơ mua sớm hơn, điều này thúc đẩy hoạt động kinh tế (ngược với tình huống giảm phát).
+
+Vì vậy nhiều ngân hàng trung ương đã lấy việc giữ lạm phát thấp và ổn định làm mục tiêu chính của chính sách, gọi là **chính sách mục tiêu lạm phát**.
+
+**Ví dụ hôm nay** (minh hoạ chung, số giả định). Một công nhân ký hợp đồng lương 10 triệu đồng mỗi tháng cho cả năm. Nếu lạm phát cả năm là 3% và đã được dự đoán, anh có thể đòi tăng lương 3% ngay khi ký, và sức mua được giữ nguyên. Nếu lạm phát bất ngờ lên 12%, cuối năm 10 triệu đồng của anh chỉ còn mua được lượng hàng mà khoảng 8,9 triệu đồng mua được đầu năm. Cùng mức lạm phát bình quân, lạm phát bất ngờ gây hại hơn nhiều so với lạm phát dự đoán được.
 
 ### 3. Điều gì tạo ra lạm phát?
 
-- Các đợt lạm phát cao kéo dài thường là kết quả của chính sách tiền tệ lỏng lẻo. Nếu cung tiền tăng quá lớn so với quy mô của một nền kinh tế, giá trị đơn vị của đồng tiền giảm; nói cách khác, sức mua của nó giảm và giá tăng. Quan hệ này giữa cung tiền và quy mô nền kinh tế được gọi là lý thuyết số lượng tiền, và là một trong những giả thuyết lâu đời nhất trong kinh tế học.
-- Các áp lực ở phía cung hoặc cầu của nền kinh tế cũng có thể gây lạm phát. Các cú sốc cung làm gián đoạn sản xuất, như thảm hoạ tự nhiên, hoặc nâng chi phí sản xuất, như giá dầu cao, có thể giảm tổng cung và dẫn đến lạm phát "chi phí đẩy", trong đó động lực tăng giá đến từ sự gián đoạn nguồn cung. Lạm phát thực phẩm và nhiên liệu năm 2008 là một trường hợp như vậy đối với nền kinh tế toàn cầu: giá thực phẩm và nhiên liệu tăng mạnh được truyền từ nước này sang nước khác qua thương mại. Ngược lại, các cú sốc cầu, như một đợt tăng mạnh của thị trường chứng khoán, hoặc các chính sách mở rộng, như khi ngân hàng trung ương hạ lãi suất hay chính phủ tăng chi tiêu, có thể tạm thời thúc đẩy tổng cầu và tăng trưởng kinh tế. Tuy nhiên, nếu mức tăng cầu này vượt quá năng lực sản xuất của nền kinh tế, sự căng thẳng nguồn lực kéo theo được phản ánh trong lạm phát "cầu kéo". Các nhà hoạch định phải tìm sự cân bằng đúng giữa việc thúc đẩy cầu và tăng trưởng khi cần mà không kích thích quá mức nền kinh tế và gây lạm phát.
-- Kỳ vọng cũng đóng vai trò then chốt trong việc xác định lạm phát. Nếu người dân hay doanh nghiệp dự đoán giá cao hơn, họ tính các kỳ vọng này vào đàm phán lương và các điều chỉnh giá theo hợp đồng (như tăng tiền thuê tự động). Hành vi này phần nào quyết định lạm phát của kỳ tiếp theo; một khi các hợp đồng được thực hiện và lương hay giá tăng như đã thoả thuận, kỳ vọng đã trở thành tự ứng nghiệm. Và trong mức độ người dân dựa các kỳ vọng của mình vào quá khứ gần, lạm phát sẽ theo các mô hình tương tự theo thời gian, dẫn đến quán tính lạm phát.
+Bài nêu bốn nguồn gốc của lạm phát.
+
+**Thứ nhất, chính sách tiền tệ lỏng lẻo.** Các đợt lạm phát cao kéo dài thường là kết quả của việc này. Nếu lượng tiền tăng quá nhanh so với quy mô nền kinh tế, mỗi đơn vị tiền mất giá trị; nói cách khác, sức mua của đồng tiền giảm và giá tăng. Mối quan hệ giữa cung tiền và quy mô nền kinh tế này gọi là **lý thuyết số lượng tiền**, một trong những giả thuyết lâu đời nhất của kinh tế học.
+
+**Thứ hai, áp lực từ phía cung: lạm phát "chi phí đẩy".** Những cú sốc cung làm gián đoạn sản xuất (như thiên tai) hoặc làm chi phí sản xuất tăng (như giá dầu cao) có thể làm giảm tổng cung và dẫn tới lạm phát chi phí đẩy, tức giá bị đẩy lên vì nguồn cung bị gián đoạn. Đợt lạm phát thực phẩm và nhiên liệu năm 2008 là một ví dụ ở quy mô toàn cầu: giá thực phẩm và nhiên liệu tăng mạnh được truyền từ nước này sang nước khác qua thương mại.
+
+**Thứ ba, áp lực từ phía cầu: lạm phát "cầu kéo".** Ngược lại, những cú sốc cầu (như thị trường chứng khoán tăng mạnh làm người dân thấy giàu hơn và chi tiêu nhiều hơn) hoặc các chính sách mở rộng (ngân hàng trung ương hạ lãi suất, chính phủ tăng chi tiêu) có thể tạm thời đẩy tổng cầu và tăng trưởng lên. Nhưng nếu cầu tăng vượt quá năng lực sản xuất của nền kinh tế, nguồn lực trở nên căng thẳng và điều đó hiện ra thành lạm phát cầu kéo. Nhà hoạch định phải tìm điểm cân bằng: kích cầu và tăng trưởng khi cần, nhưng không kích thích quá mức đến mức gây lạm phát.
+
+| Loại | Nguồn gốc | Ví dụ trong bài |
+|---|---|---|
+| Chi phí đẩy | Tổng cung giảm vì sản xuất bị gián đoạn hoặc chi phí tăng | Thiên tai, giá dầu cao, lạm phát thực phẩm và nhiên liệu năm 2008 |
+| Cầu kéo | Tổng cầu tăng vượt năng lực sản xuất | Thị trường chứng khoán tăng mạnh, hạ lãi suất, tăng chi tiêu chính phủ |
+
+**Thứ tư, kỳ vọng.** Nếu người dân hay doanh nghiệp đoán giá sẽ cao hơn, họ đưa dự đoán đó vào đàm phán lương và vào các điều khoản tự động điều chỉnh giá trong hợp đồng (ví dụ điều khoản tự động tăng tiền thuê nhà). Hành vi này một phần quyết định lạm phát kỳ sau: khi hợp đồng được thực hiện và lương, giá tăng như đã thoả thuận, kỳ vọng đã tự trở thành hiện thực. Nếu người ta dựa kỳ vọng vào lạm phát của thời gian gần đây, lạm phát sẽ lặp lại mô hình cũ qua thời gian, gọi là **quán tính lạm phát**.
 
 ### 4. Nhà hoạch định xử lý lạm phát thế nào
 
-- Tập hợp các chính sách chống lạm phát đúng đắn, tức các chính sách nhằm giảm lạm phát, phụ thuộc vào nguyên nhân của lạm phát. Nếu nền kinh tế quá nóng, các ngân hàng trung ương, nếu họ cam kết bảo đảm ổn định giá, có thể thực hiện các chính sách thắt chặt kìm hãm tổng cầu, thường bằng cách tăng lãi suất. Một số chủ ngân hàng trung ương đã chọn, với mức thành công khác nhau, áp đặt kỷ luật tiền tệ bằng cách cố định tỷ giá: gắn đồng tiền của mình với một đồng tiền khác và, do đó, gắn chính sách tiền tệ của mình với chính sách của nước mà nó liên kết.
-- Tuy nhiên, khi lạm phát được thúc đẩy bởi các diễn biến toàn cầu chứ không phải trong nước, các chính sách như vậy có thể không giúp ích. Năm 2008, khi lạm phát tăng trên toàn cầu do giá thực phẩm và nhiên liệu cao, nhiều nước đã để giá toàn cầu cao truyền qua nền kinh tế trong nước. Trong một số trường hợp chính phủ có thể trực tiếp đặt giá (như một số nước đã làm năm 2008 để ngăn giá thực phẩm và nhiên liệu cao truyền qua). Các biện pháp đặt giá hành chính như vậy thường dẫn đến việc chính phủ tích luỹ các hoá đơn trợ cấp lớn để bồi thường cho nhà sản xuất về thu nhập mất đi.
-- Các chủ ngân hàng trung ương ngày càng dựa vào khả năng ảnh hưởng đến kỳ vọng lạm phát của mình như một công cụ giảm lạm phát. Các nhà hoạch định công bố ý định giữ hoạt động kinh tế thấp tạm thời để kéo lạm phát xuống, hy vọng ảnh hưởng đến kỳ vọng và thành phần lạm phát tích hợp trong các hợp đồng. Ngân hàng trung ương càng có độ tin cậy, ảnh hưởng của các tuyên bố của họ lên kỳ vọng lạm phát càng lớn.
+Bộ chính sách chống lạm phát đúng phụ thuộc vào **nguyên nhân** của lạm phát. Bài nêu các lựa chọn sau.
+
+**Thắt chặt tiền tệ khi kinh tế quá nóng.** Nếu nền kinh tế quá nóng, ngân hàng trung ương, nếu cam kết giữ ổn định giá, có thể dùng chính sách thắt chặt để kìm tổng cầu, thường là tăng lãi suất.
+
+**Cố định tỷ giá.** Một số ngân hàng trung ương đã chọn tạo kỷ luật tiền tệ bằng cách cố định tỷ giá, tức gắn đồng tiền của mình với một đồng tiền khác. Làm vậy đồng nghĩa với việc gắn chính sách tiền tệ của mình vào chính sách của nước kia. Bài ghi nhận mức độ thành công của cách này khác nhau tuỳ nước.
+
+**Khi lạm phát đến từ bên ngoài.** Nếu lạm phát do diễn biến toàn cầu chứ không phải trong nước gây ra, các chính sách trên có thể không giúp được gì. Năm 2008, khi lạm phát tăng khắp thế giới vì giá thực phẩm và nhiên liệu cao, nhiều nước đã để giá thế giới truyền vào giá trong nước.
+
+**Đặt giá hành chính.** Trong một số trường hợp, chính phủ có thể trực tiếp quy định giá, như một số nước đã làm năm 2008 để chặn giá thực phẩm và nhiên liệu cao truyền vào trong nước. Nhưng các biện pháp này thường khiến chính phủ phải gánh những hoá đơn trợ cấp lớn để bù cho nhà sản xuất phần thu nhập bị mất vì bán giá thấp.
+
+**Tác động vào kỳ vọng.** Các ngân hàng trung ương ngày càng dựa vào khả năng định hướng kỳ vọng lạm phát như một công cụ giảm lạm phát. Họ công bố rằng sẽ chấp nhận giữ hoạt động kinh tế ở mức thấp trong một thời gian để kéo lạm phát xuống, với hy vọng thay đổi kỳ vọng và phần lạm phát đã được ghi sẵn trong các hợp đồng. Ngân hàng trung ương càng đáng tin, lời tuyên bố của họ càng tác động mạnh lên kỳ vọng.
+
+Tóm tắt các công cụ:
+
+| Công cụ | Dùng khi | Giới hạn bài nêu |
+|---|---|---|
+| Tăng lãi suất | Kinh tế quá nóng, cầu vượt cung | Cần ngân hàng trung ương cam kết với ổn định giá |
+| Cố định tỷ giá | Muốn nhập khẩu kỷ luật tiền tệ | Thành công khác nhau; mất chính sách tiền tệ riêng |
+| Để giá thế giới truyền vào | Lạm phát do cú sốc toàn cầu | Chính sách trong nước không giúp được nhiều |
+| Đặt giá hành chính | Muốn chặn cú sốc giá | Tích luỹ hoá đơn trợ cấp lớn |
+| Định hướng kỳ vọng | Mọi lúc, nhất là khi ngân hàng trung ương có uy tín | Hiệu quả phụ thuộc độ tin cậy |
 
 ## Thuật ngữ
 

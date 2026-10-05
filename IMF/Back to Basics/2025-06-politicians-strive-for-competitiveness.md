@@ -92,51 +92,107 @@
               HIẾM HƠN GIỚI HOẠCH ĐỊNH NGHĨ, KHÓ NHẬN DIỆN
 ```
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Năng lực cạnh tranh (competitiveness).** Một từ được dùng rất nhiều nhưng không có định nghĩa thống nhất. Với doanh nghiệp, nó là khả năng thắng đối thủ trên thị trường thế giới; với nhiều chính trị gia, nó là việc xuất khẩu nhiều hơn nhập khẩu. Điểm chung của mọi cách hiểu là tính **tương đối**: mình mạnh hay yếu là so với nước khác. Ví dụ minh hoạ: nếu năng suất của mình tăng 2% mà năng suất nước láng giềng tăng 3%, theo cách nhìn "cạnh tranh" thì mình đang tụt hậu, dù người dân của mình vẫn khá lên. Bài đặt câu hỏi chính vì cách nhìn tương đối này có thể dẫn chính sách đi sai hướng.
+
+**Năng suất (productivity).** Lượng sản phẩm làm ra trên mỗi giờ lao động hay mỗi đơn vị đầu vào. Ví dụ minh hoạ: một xưởng trước làm 100 chiếc áo mỗi ngày với 10 công nhân, nay làm 120 chiếc với cùng số người, tức năng suất tăng 20%. Năng suất là thước đo **tuyệt đối**: nó nâng mức sống kể cả khi một nước hoàn toàn không buôn bán với ai. Đây là mục tiêu mà bài khuyên nên thay cho "năng lực cạnh tranh".
+
+**Trò chơi tổng bằng không (zero-sum game).** Tình huống mà tổng lợi ích cố định, bên này được bao nhiêu thì bên kia mất bấy nhiêu. Ví dụ: một giải bóng đá chỉ có một cúp vô địch; đội khác mạnh lên thì cơ hội của đội mình giảm. Bài dùng khái niệm này để chỉ ra rằng thương mại thế giới **không** giống bóng đá: khi mỗi nước chuyên làm thứ mình làm hiệu quả nhất, tổng sản lượng tăng và mọi bên đều có thể được lợi.
+
+**Điều kiện thương mại (terms of trade).** Tỷ lệ giữa giá hàng xuất khẩu và giá hàng nhập khẩu của một nước. Ví dụ minh hoạ: một nước bán một tấn cà phê để mua một chiếc máy; nếu giá cà phê tăng 10% còn giá máy không đổi, thì cùng lượng cà phê đó mua được nhiều máy hơn, tức điều kiện thương mại được cải thiện. Đây là kênh duy nhất qua đó việc nước khác tăng năng suất có thể làm mình thiệt hay lợi.
+
+**Phá giá đồng tiền (exchange rate depreciation).** Đồng nội tệ yếu đi so với ngoại tệ, tức một đơn vị ngoại tệ đổi được nhiều nội tệ hơn. Ví dụ minh hoạ: một chiếc áo giá 100.000 đơn vị nội tệ; nếu tỷ giá từ 20.000 lên 25.000 nội tệ đổi 1 USD, giá áo với người mua nước ngoài giảm từ 5 USD xuống 4 USD. Đây là một trong hai cách hạ giá xuất khẩu mà bài phân tích.
+
+**Toàn dụng lao động (full employment).** Trạng thái gần như mọi người muốn làm việc đều đã có việc, máy móc nhà xưởng cũng đã chạy gần hết công suất. Khi đó nền kinh tế không thể làm ra thêm nhiều hàng chỉ vì có thêm đơn đặt hàng; cầu tăng thêm chủ yếu đẩy giá và lương lên. Đây là giới hạn khiến chiến lược hạ giá xuất khẩu tự mất tác dụng.
+
+**Tổng cầu và thắt chặt tài khoá (aggregate demand, fiscal tightening).** Tổng cầu là tổng chi tiêu của hộ gia đình, doanh nghiệp, nhà nước và người nước ngoài cho hàng hoá trong nước. Thắt chặt tài khoá là nhà nước tăng thuế hoặc cắt chi để giảm tổng cầu. Ví dụ minh hoạ: nhà nước tăng thuế khiến hộ gia đình chi tiêu ít hơn, phần lao động và nhà xưởng được giải phóng có thể chuyển sang làm hàng xuất khẩu. Bài dùng tổ hợp này để giải thích cách phá giá có thể có hiệu lực lâu dài.
+
+**Đồng nhất thức cán cân thương mại = tiết kiệm − đầu tư.** Một quan hệ kế toán luôn đúng: xuất khẩu trừ nhập khẩu của một nước bằng tiết kiệm quốc gia trừ đầu tư trong nước. Ví dụ minh hoạ: một nước tiết kiệm 30 đồng trên mỗi 100 đồng thu nhập nhưng chỉ đầu tư 25 đồng trong nước, thì 5 đồng còn lại phải đi ra nước ngoài, và tương ứng nước đó thặng dư thương mại 5 đồng. Đây là công cụ bài dùng để nói rằng muốn đổi cán cân thương mại thì phải đổi tiết kiệm hoặc đầu tư.
+
+## Nội dung chi tiết
 
 ### 1. Một từ, nhiều nghĩa
 
-- Michael Porter trong *The Competitive Advantage of Nations* (1990) nhận xét năng lực cạnh tranh có nghĩa khác nhau với mỗi người.
-- Là thành viên uỷ ban cạnh tranh của Tổng thống Reagan thập niên 1980, ông gặp lãnh đạo doanh nghiệp coi đó là chiến lược toàn cầu để cạnh tranh trên thị trường thế giới, và nghị sĩ coi đó là cán cân thương mại dương.
-- Đến nay thuật ngữ này vẫn khó định nghĩa và gây chia rẽ.
+Bài mở đầu bằng nhận xét của Michael Porter trong cuốn *The Competitive Advantage of Nations* (1990): năng lực cạnh tranh có nghĩa khác nhau với mỗi người. Porter rút ra điều này từ kinh nghiệm của chính ông khi là thành viên uỷ ban về năng lực cạnh tranh của Tổng thống Reagan trong thập niên 1980. Trong uỷ ban, ông gặp hai nhóm người dùng cùng một từ cho hai việc khác hẳn nhau:
+
+| Nhóm | "Năng lực cạnh tranh" nghĩa là |
+|---|---|
+| Lãnh đạo doanh nghiệp | Chiến lược toàn cầu để cạnh tranh và thắng trên thị trường thế giới |
+| Nghị sĩ | Cán cân thương mại dương, tức xuất khẩu nhiều hơn nhập khẩu |
+
+Hơn ba thập niên sau, thuật ngữ này vẫn khó định nghĩa và vẫn gây chia rẽ. Chính sự mơ hồ đó là điểm xuất phát của bài: trước khi theo đuổi một mục tiêu, cần biết mục tiêu ấy thật ra là gì.
 
 ### 2. Năng suất hay năng lực cạnh tranh
 
-- Nếu tăng cạnh tranh nghĩa là tăng năng suất, các nhà kinh tế đồng ý đó hầu như luôn là mục tiêu đáng theo đuổi. Năng suất cao hơn nâng phúc lợi bất kể tác động lên xuất khẩu, kể cả khi nước đó không giao thương.
-- Nhưng cạnh tranh hàm ý tính tương đối: nhà hoạch định quan tâm mức năng suất so với nước khác hơn là mức tuyệt đối. Nước khác tăng năng suất bị coi là tin xấu.
-- Lo về năng suất đối thủ hợp lý trong trò chơi tổng bằng không như bóng đá: đội khác giỏi hơn thì cơ hội vô địch của đội mình giảm. Nhưng thương mại thế giới không phải tổng bằng không: chuyên môn hoá vào thứ mình làm hiệu quả nhất làm năng suất toàn cầu tăng, mọi bên đều lợi.
+Nếu "tăng năng lực cạnh tranh" chỉ có nghĩa là tăng năng suất, thì các nhà kinh tế gần như đều đồng ý đó là mục tiêu đáng theo đuổi. Năng suất cao hơn nghĩa là cùng một lượng lao động và vốn làm ra nhiều của cải hơn, nên phúc lợi tăng, bất kể việc đó tác động thế nào lên xuất khẩu. Điều này đúng ngay cả với một nước hoàn toàn không giao thương với bên ngoài.
+
+Nhưng từ "cạnh tranh" mang hàm ý **tương đối**. Khi nói về năng lực cạnh tranh, nhà hoạch định chính sách thường quan tâm năng suất của nước mình **so với** nước khác hơn là mức năng suất tuyệt đối. Theo cách nhìn này, việc một nước khác tăng năng suất bị coi là tin xấu.
+
+Nỗi lo về năng suất của đối thủ chỉ hợp lý trong một trò chơi tổng bằng không. Bóng đá là ví dụ: nếu đội khác giỏi lên thì cơ hội vô địch của đội mình giảm, vì chỉ có một chiếc cúp. Bài nhấn mạnh rằng thương mại thế giới không vận hành như vậy. Khi mỗi nước chuyên môn hoá vào thứ mình làm hiệu quả nhất rồi trao đổi với nhau, năng suất toàn cầu tăng lên và mọi bên đều có thể được lợi. Do đó, việc nước khác giỏi lên không tự động là tin xấu cho mình.
 
 ### 3. Điều kiện thương mại
 
-- Nước ngoài tăng năng suất tốt hay xấu cho mình? Câu trả lời quen thuộc: tuỳ.
-- Khi nước ngoài sản xuất một mặt hàng hiệu quả hơn, cung toàn cầu tăng và giá giảm. Nếu mình chủ yếu xuất khẩu mặt hàng đó, giá thế giới thấp hơn làm mình thiệt. Nếu mình chủ yếu nhập khẩu, mình lợi vì trả ít hơn.
-- Tác động phụ thuộc vào **điều kiện thương mại**: giá xuất khẩu của mình so với giá nhập khẩu.
-- **Nước nhỏ** chuyên môn hoá vài mặt hàng chịu tác động lớn. Ví dụ: nước nhỏ chuyên sản xuất một loại robot bị lỗi thời khi đối thủ nước ngoài phát minh robot tốt hơn, hậu quả có thể tàn khốc.
-- **Nước lớn, đa dạng** như Mỹ, Trung Quốc, EU chịu tác động nhỏ, theo Paul Krugman và các nhà kinh tế khác: ít lệ thuộc ngoại thương, thương mại trải rộng nhiều sản phẩm nên năng suất nước khác ảnh hưởng cả giá nhập lẫn giá xuất, hiệu ứng ròng khiêm tốn so với lợi ích từ năng suất của chính mình.
-- Tác động năng suất của mình dễ hơn của nước khác. Vì thế cải cách kinh tế ở hầu hết các nước nên nhắm vào năng suất thay vì cạnh tranh.
+Vậy nước ngoài tăng năng suất là tốt hay xấu cho mình? Câu trả lời quen thuộc của nhà kinh tế là: tuỳ.
+
+Cơ chế như sau. Khi một nước ngoài sản xuất một mặt hàng hiệu quả hơn, cung toàn cầu của mặt hàng đó tăng và giá thế giới giảm. Ai thiệt ai lợi phụ thuộc vào việc mình đứng ở phía nào của mặt hàng ấy:
+
+| Vị trí của nước mình | Tác động khi giá thế giới giảm |
+|---|---|
+| Chủ yếu **xuất khẩu** mặt hàng đó | Thiệt, vì bán được với giá thấp hơn |
+| Chủ yếu **nhập khẩu** mặt hàng đó | Lợi, vì phải trả ít hơn |
+
+Nói gọn, tác động phụ thuộc vào **điều kiện thương mại**, tức giá xuất khẩu của mình so với giá nhập khẩu.
+
+Mức độ tác động lớn hay nhỏ lại tuỳ cấu trúc nền kinh tế:
+
+- **Nước nhỏ chuyên môn hoá vào vài mặt hàng** có thể chịu tác động lớn. Bài lấy ví dụ một nước nhỏ chuyên sản xuất một loại robot. Nếu đối thủ nước ngoài phát minh ra loại robot tốt hơn, sản phẩm của nước này bị lỗi thời, và hậu quả có thể rất nặng nề vì gần như toàn bộ thu nhập xuất khẩu dựa vào mặt hàng đó.
+- **Nước lớn và đa dạng** như Mỹ, Trung Quốc hay Liên minh châu Âu (EU) chịu tác động nhỏ, theo Paul Krugman và các nhà kinh tế khác. Có ba lý do: các nước này ít lệ thuộc vào ngoại thương so với quy mô kinh tế; thương mại của họ trải ra trên rất nhiều sản phẩm; và vì thế năng suất của nước khác tác động lên cả giá nhập khẩu lẫn giá xuất khẩu, hai chiều bù trừ nhau một phần. Hiệu ứng ròng là khiêm tốn so với lợi ích từ việc tăng năng suất của chính mình.
+
+Từ đây bài rút ra kết luận thực tế: một nước tác động được vào năng suất của mình dễ hơn nhiều so với năng suất của nước khác. Vì vậy, cải cách kinh tế ở hầu hết các nước nên nhắm vào tăng năng suất thay vì tăng năng lực cạnh tranh.
 
 ### 4. Chiến lược thứ hai: giảm giá xuất khẩu
 
-- Giảm giá xuất khẩu để tăng khối lượng bán. Ở nước có thương lượng tập thể rộng, có thể kìm tăng lương, với điều kiện doanh nghiệp dùng khoản tiết kiệm để giữ giá đầu ra thấp.
-- Hoặc làm yếu đồng tiền: mỗi đơn vị ngoại tệ mua được nhiều nội tệ hơn, giảm giá xuất khẩu và lương tính bằng ngoại tệ, tạo lợi thế trên thị trường nước ngoài.
-- **Giới hạn:** nếu đã gần toàn dụng lao động, cầu xuất khẩu tăng vượt năng lực sản xuất, đẩy giá và lương lên, lợi thế cạnh tranh biến mất.
-- **Cách tránh:** kết hợp phá giá với biện pháp giảm tổng cầu như tăng thuế hoặc cắt chi. Phá giá tăng cầu xuất khẩu, thắt chặt tài khoá giảm cầu hàng tiêu dùng nội địa. Việc làm và sản xuất dịch chuyển sang khu vực xuất khẩu. Thu nhập quốc dân không đổi, nhưng tiết kiệm quốc gia cao hơn vì chính phủ thặng dư lớn hơn (hoặc thâm hụt nhỏ hơn) và tiêu dùng nội địa thấp hơn.
+Ngoài nâng năng suất, cách thứ hai để "cạnh tranh hơn" là hạ giá hàng xuất khẩu để bán được nhiều hơn. Bài nêu hai con đường:
+
+1. **Kìm tăng lương.** Ở những nước có thương lượng tập thể rộng (lương được thoả thuận chung giữa công đoàn và giới chủ cho cả ngành), có thể thống nhất giữ mức tăng lương thấp. Cách này chỉ hiệu quả nếu doanh nghiệp dùng khoản chi phí tiết kiệm được để giữ giá bán thấp, chứ không giữ làm lợi nhuận.
+2. **Làm yếu đồng tiền.** Khi nội tệ mất giá, mỗi đơn vị ngoại tệ mua được nhiều nội tệ hơn. Giá hàng xuất khẩu và mức lương tính bằng ngoại tệ đều giảm, nên hàng trong nước có lợi thế trên thị trường nước ngoài.
+
+**Giới hạn.** Nếu nền kinh tế đã gần toàn dụng lao động, cầu xuất khẩu tăng lên sẽ vượt năng lực sản xuất. Doanh nghiệp tranh nhau thuê người và mua đầu vào, đẩy giá và lương lên, cho tới khi lợi thế giá do phá giá hay kìm lương tạo ra biến mất.
+
+**Cách tránh giới hạn đó.** Kết hợp phá giá với biện pháp giảm tổng cầu như tăng thuế hoặc cắt chi tiêu công. Hai công cụ làm hai việc khác nhau:
+
+- Phá giá làm tăng cầu đối với hàng xuất khẩu.
+- Thắt chặt tài khoá làm giảm cầu đối với hàng tiêu dùng trong nước.
+
+Kết quả là việc làm và sản xuất dịch chuyển từ khu vực phục vụ thị trường nội địa sang khu vực xuất khẩu, thay vì cộng dồn lên nhau và gây quá tải. Thu nhập quốc dân không đổi, nhưng tiết kiệm quốc gia cao hơn, vì chính phủ có thặng dư lớn hơn (hoặc thâm hụt nhỏ hơn) và hộ gia đình tiêu dùng ít hơn. Điểm "tiết kiệm cao hơn" này dẫn thẳng tới phần tiếp theo.
 
 ### 5. Tiết kiệm và đầu tư
 
-- Sự thật cốt lõi của kinh tế quốc tế, về mặt kế toán: **cán cân thương mại (xuất trừ nhập) bằng tiết kiệm trừ đầu tư**.
-- Đầu tư được tài trợ bằng tiết kiệm. Nếu tiết kiệm vượt đầu tư trong nước, phần dư phải đầu tư ra nước ngoài, và chỉ có dòng tiền dư để làm nhà đầu tư ròng khi thặng dư thương mại. Ngược lại, thâm hụt thương mại chỉ có được khi nước khác cho vay để mua nhiều nhập khẩu hơn xuất khẩu. (Bỏ qua dòng thu nhập vốn cho đơn giản, không đổi kết luận.)
-- Nếu "tăng cạnh tranh" nghĩa là tăng cán cân thương mại, chỉ làm được bằng chính sách tăng tiết kiệm quốc gia hoặc giảm đầu tư quốc gia. Có nên không? Tuỳ tiết kiệm và đầu tư đang ở đúng chỗ hay lệch xa do méo mó chính sách hoặc thất bại thị trường.
+Bài gọi đây là sự thật cốt lõi của kinh tế quốc tế, xét về mặt kế toán: **cán cân thương mại (xuất khẩu trừ nhập khẩu) bằng tiết kiệm trừ đầu tư**.
+
+Lập luận như sau. Đầu tư phải được tài trợ bằng tiết kiệm. Nếu một nước tiết kiệm nhiều hơn mức đầu tư trong nước, phần dư phải được đầu tư ra nước ngoài. Muốn có dòng tiền dư để làm nhà đầu tư ròng ra nước ngoài, nước đó phải bán ra nước ngoài nhiều hơn mua vào, tức phải thặng dư thương mại. Ngược lại, một nước chỉ có thể thâm hụt thương mại, tức mua nhập khẩu nhiều hơn bán xuất khẩu, khi nước khác sẵn sàng cho nước đó vay phần chênh lệch. (Bài bỏ qua dòng thu nhập từ vốn, như lãi và cổ tức trả qua biên giới, cho đơn giản; việc này không làm đổi kết luận.)
+
+Hệ quả: nếu "tăng năng lực cạnh tranh" được hiểu là tăng cán cân thương mại, thì chỉ có thể làm được bằng các chính sách tăng tiết kiệm quốc gia hoặc giảm đầu tư trong nước. Có nên làm vậy không? Câu trả lời tuỳ vào việc tiết kiệm và đầu tư hiện đang ở mức hợp lý, hay đang lệch xa do chính sách méo mó hoặc thất bại thị trường.
 
 ### 6. Khi nào lo là chính đáng
 
-- **Kém cạnh tranh phản ánh vấn đề thật:** giám sát tài chính lỏng lẻo cho vốn ngoại đổ vào, tạo bùng nổ tín dụng không bền vững trong tiêu dùng và đầu tư đầu cơ. Cầu nội địa quá mức đẩy lương và giá lên, xuất khẩu kém cạnh tranh, nhập khẩu tăng. Kết quả là thâm hụt thương mại lớn, mặt trái của bong bóng tín dụng sắp vỡ và gây thiệt hại đáng kể. Đây là mối lo chính đáng.
-- **Đôi khi nước "quá cạnh tranh":** tiết kiệm quá cao, đầu tư quá thấp, hoặc cả hai. Ví dụ đầu tư hạ tầng công quá ít. Chi thêm, chấp nhận thâm hụt cao hơn, có thể nâng năng lực sản xuất. Cầu đầu tư nội địa tăng sẽ đẩy lương và giá lên so với nước khác, làm xuất khẩu kém cạnh tranh hơn, nhưng đó là phần cần thiết của việc dịch chuyển năng lực từ xuất khẩu sang đầu tư trong nước. Nếu lợi suất đầu tư trong nước cao hơn khu vực xuất khẩu, cả nền kinh tế mạnh lên.
+Bài thừa nhận có những trường hợp mức giá tương đối so với nước khác là vấn đề thật. Hai tình huống được nêu:
+
+**Kém cạnh tranh phản ánh một vấn đề thật.** Giám sát tài chính lỏng lẻo cho phép vốn nước ngoài đổ vào, tạo ra một đợt bùng nổ tín dụng không bền vững, chảy vào tiêu dùng và đầu tư đầu cơ. Cầu nội địa quá mức đẩy lương và giá lên, khiến hàng xuất khẩu đắt và kém cạnh tranh, còn nhập khẩu tăng mạnh. Kết quả là thâm hụt thương mại lớn. Trong trường hợp này, thâm hụt là mặt trái của một bong bóng tín dụng sắp vỡ và sẽ gây thiệt hại đáng kể khi vỡ. Lo ngại về năng lực cạnh tranh lúc này là chính đáng.
+
+**Đôi khi một nước "quá cạnh tranh".** Đó là khi tiết kiệm quá cao, đầu tư quá thấp, hoặc cả hai. Ví dụ bài nêu là đầu tư công vào hạ tầng quá ít. Chi thêm cho hạ tầng, chấp nhận thâm hụt ngân sách cao hơn, có thể nâng năng lực sản xuất của nền kinh tế. Cầu đầu tư trong nước tăng sẽ đẩy lương và giá lên so với nước khác, khiến xuất khẩu kém cạnh tranh hơn. Nhưng đó là một phần cần thiết của quá trình chuyển năng lực sản xuất từ phục vụ xuất khẩu sang đầu tư trong nước. Nếu lợi suất của đầu tư trong nước cao hơn lợi suất ở khu vực xuất khẩu, cả nền kinh tế mạnh lên dù chỉ số "cạnh tranh" xấu đi.
+
+| Tình huống | Cán cân thương mại | Nguyên nhân | Đánh giá |
+|---|---|---|---|
+| Kém cạnh tranh thật | Thâm hụt lớn | Bong bóng tín dụng, cầu nội địa quá mức | Mối lo chính đáng |
+| Quá cạnh tranh | Thặng dư lớn | Tiết kiệm quá cao, đầu tư (nhất là đầu tư công) quá thấp | Nên đầu tư thêm, chấp nhận kém cạnh tranh hơn |
 
 ### 7. Kết luận
 
-- Tăng cạnh tranh là mục tiêu phổ biến, nhưng tập trung vào năng suất toàn nền kinh tế, bất kể tác động lên thương mại quốc tế, thường là mục tiêu phù hợp hơn.
-- Có tình huống mức giá tương đối so với đối thủ là vấn đề thật dẫn tới mất cân bằng thương mại. Nhưng chúng hiếm hơn giới hoạch định nghĩ, và khó nhận diện kể cả với các chỉ số chuyên dụng của nhà kinh tế.
+Tăng năng lực cạnh tranh là mục tiêu phổ biến trong chính trị. Nhưng tập trung vào năng suất của toàn nền kinh tế, bất kể tác động lên thương mại quốc tế ra sao, thường là mục tiêu phù hợp hơn: nó nâng phúc lợi trực tiếp và nằm trong tầm tay của chính sách trong nước.
+
+Bài không phủ nhận hoàn toàn mối lo về cạnh tranh. Có những tình huống mức giá của một nước so với đối thủ là vấn đề thật và dẫn tới mất cân bằng thương mại, như hai trường hợp ở mục trên. Nhưng những tình huống đó hiếm hơn giới hoạch định chính sách thường nghĩ, và khó nhận diện, kể cả khi dùng các chỉ số chuyên dụng mà nhà kinh tế xây dựng để đo năng lực cạnh tranh.
 
 ## Thuật ngữ
 

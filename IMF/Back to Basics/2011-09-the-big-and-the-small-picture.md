@@ -74,33 +74,118 @@
 2. Vì sao kinh tế học chia thành hai nhánh?
 3. Hai nhánh quan hệ với nhau thế nào và có thể hợp nhất không?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Kinh tế vĩ mô (macroeconomics).** Nhánh kinh tế học nghiên cứu cả nền kinh tế như một khối: tổng sản lượng, việc làm, lạm phát, tăng trưởng, và vai trò của chính phủ trong việc ổn định chúng. Ví dụ minh hoạ: câu hỏi "vì sao năm nay GDP cả nước chỉ tăng 2% trong khi năm ngoái tăng 6%" là câu hỏi vĩ mô. "Macro" là tiếng Hy Lạp nghĩa là "lớn". Đây là một trong hai "vương quốc" mà bài phân biệt.
+
+**Kinh tế vi mô (microeconomics).** Nhánh kinh tế học nghiên cứu cách cung và cầu tương tác trong **từng** thị trường hàng hoá hay dịch vụ, và cách từng người tiêu dùng, từng doanh nghiệp ra quyết định. Ví dụ trong bài: giá ô tô hay giá dầu tăng là do cung giảm hay cầu tăng. "Micro" là tiếng Hy Lạp nghĩa là "nhỏ". Bài cho biết phần lớn phân tích kinh tế trong thực tế thuộc nhánh này.
+
+**Biến tổng hợp (aggregate variables).** Những con số đo cả nền kinh tế, có được bằng cách cộng dồn hoạt động của mọi thị trường: thất nghiệp, sản lượng, thu nhập quốc dân, tiết kiệm, mức giá chung. Ví dụ minh hoạ: tỷ lệ thất nghiệp 4% là tổng hợp tình trạng việc làm của hàng triệu người ở hàng nghìn ngành nghề. Đây là đối tượng chính của kinh tế vĩ mô.
+
+**Cân bằng thị trường (equilibrium).** Trạng thái giá đã điều chỉnh để lượng cung bằng lượng cầu, không ai muốn mua hay bán thêm ở mức giá đó. Ví dụ minh hoạ: nếu ở giá 20.000 đồng một ký, lượng gạo người bán muốn bán đúng bằng lượng người mua muốn mua, thị trường gạo đang cân bằng. Bài giải thích rằng kinh tế học cổ điển giả định thị trường luôn ở hoặc nhanh chóng quay về trạng thái này.
+
+**Thất bại thị trường (market failure).** Tình huống thị trường không tự trở lại cân bằng, hoặc cho kết quả rất xấu cho xã hội. Ví dụ trong bài: thời Đại Suy thoái thập niên 1930, hàng loạt người muốn làm việc mà không có việc trong nhiều năm, tức thị trường lao động không cân bằng mà vẫn không tự điều chỉnh. Hiện tượng này là lý do kinh tế vĩ mô ra đời.
+
+**Cân bằng tổng thể (general equilibrium).** Cách phân tích xét **đồng thời** nhiều thị trường liên quan với nhau, thay vì từng thị trường riêng lẻ. Ví dụ minh hoạ: lãi suất tăng (thị trường tài chính) làm doanh nghiệp đầu tư ít đi (thị trường hàng hoá) và thuê ít người hơn (thị trường lao động); phân tích cả ba cùng lúc là phân tích cân bằng tổng thể. Keynes dùng cách nhìn này cho ba nhóm thị trường hàng hoá, lao động và tài chính.
+
+**Nền tảng vi mô (microeconomic foundations).** Cách xây mô hình vĩ mô bằng cách bắt đầu từ hành vi của từng hộ gia đình và từng doanh nghiệp, mỗi bên tìm cách làm tốt nhất cho mình, rồi cộng lại thành hành vi của cả nền kinh tế. Ví dụ minh hoạ: thay vì giả định "người dân tiêu 80% thu nhập", mô hình suy ra mức tiêu dùng từ việc mỗi hộ cân nhắc tiêu bây giờ hay để dành cho tương lai. Đây là nỗ lực chính để bắc cầu giữa hai nhánh trong khoảng 25 năm trước khi bài được viết.
+
+**Kinh tế lượng (econometrics).** Việc áp dụng phương pháp thống kê và toán học vào dữ liệu kinh tế để đo lường và kiểm định các quan hệ. Ví dụ minh hoạ: dùng số liệu nhiều năm để ước tính khi thu nhập tăng 1% thì tiêu dùng tăng bao nhiêu phần trăm. Bài coi đây là lĩnh vực cốt lõi thứ ba, nền tảng cho phân tích tinh vi ở cả vi mô lẫn vĩ mô.
+
+## Nội dung chi tiết
 
 ### 1. Hai vương quốc
 
-- Nhà vật lý nhìn thế giới lớn của hành tinh, ngôi sao, thiên hà, và cả thế giới nhỏ của nguyên tử, hạt. Nhà kinh tế cũng nhìn hai vương quốc: kinh tế vĩ mô bức tranh lớn, quan tâm cách toàn bộ nền kinh tế vận hành (việc làm, GDP, lạm phát: chất liệu của tin tức và tranh luận chính sách); kinh tế vi mô bức tranh nhỏ, quan tâm cung cầu tương tác trong từng thị trường hàng hoá và dịch vụ.
-- Trong vĩ mô, đối tượng thường là một quốc gia: cách mọi thị trường tương tác tạo ra các hiện tượng lớn gọi là biến tổng hợp. Trong vi mô, đối tượng là một thị trường, ví dụ giá tăng trong ngành ô tô hay dầu do cung hay cầu. Chính phủ là đối tượng phân tích chính trong vĩ mô (vai trò với tăng trưởng, chống lạm phát). Vĩ mô thường mở rộng ra quốc tế vì thị trường trong nước nối với nước ngoài qua thương mại, đầu tư, dòng vốn. Vi mô cũng có thể có mặt quốc tế: thị trường dầu toàn cầu là ví dụ.
-- Sự chia tách được thể chế hoá từ môn "nguyên lý kinh tế" đến sau đại học. Nhà kinh tế thường tự coi mình là nhà vi mô hoặc vĩ mô. Hiệp hội Kinh tế Mỹ mới ra vài tạp chí, một tên *Microeconomics*, một tên *Macroeconomics*.
+**Phép so sánh với vật lý.** Nhà vật lý nghiên cứu cả thế giới lớn của hành tinh, ngôi sao, thiên hà lẫn thế giới nhỏ của nguyên tử và hạt. Nhà kinh tế cũng nhìn hai "vương quốc":
+
+- **Kinh tế vĩ mô** là bức tranh lớn: cách toàn bộ nền kinh tế vận hành, với các chủ đề như việc làm, tổng sản phẩm quốc nội (GDP), lạm phát. Đây là chất liệu của tin tức hằng ngày và các cuộc tranh luận chính sách.
+- **Kinh tế vi mô** là bức tranh nhỏ: cách cung và cầu tương tác trong từng thị trường hàng hoá và dịch vụ.
+
+**Đối tượng nghiên cứu khác nhau.** Bài so sánh hai nhánh theo nhiều mặt:
+
+| | Kinh tế vĩ mô | Kinh tế vi mô |
+|---|---|---|
+| Đơn vị phân tích | Thường là một quốc gia | Một thị trường |
+| Câu hỏi điển hình | Mọi thị trường tương tác với nhau thế nào để tạo ra các hiện tượng lớn, gọi là biến tổng hợp | Giá trong ngành ô tô hay giá dầu tăng là do cung hay do cầu |
+| Vai trò của chính phủ | Là đối tượng phân tích chính: chính phủ làm gì để thúc đẩy tăng trưởng, chống lạm phát | Không phải trọng tâm |
+| Mặt quốc tế | Thường mở rộng ra quốc tế, vì thị trường trong nước nối với nước ngoài qua thương mại, đầu tư và dòng vốn | Cũng có thể có, ví dụ thị trường dầu toàn cầu |
+
+**Sự chia tách đã thành thể chế.** Ranh giới giữa hai nhánh được duy trì trong toàn bộ hệ thống đào tạo, từ môn "nguyên lý kinh tế học" năm nhất tới chương trình sau đại học. Các nhà kinh tế thường tự nhận mình là nhà kinh tế vi mô hoặc nhà kinh tế vĩ mô. Hiệp hội Kinh tế Mỹ (AEA) vừa ra mắt một số tạp chí mới, trong đó một tờ mang tên *Microeconomics* và một tờ mang tên *Macroeconomics*.
 
 ### 2. Vì sao chia tách
 
-- Không phải lúc nào cũng vậy. Từ cuối thế kỷ 18 đến Đại Suy thoái 1930, kinh tế học là kinh tế học: nghiên cứu cách xã hội tổ chức sản xuất, phân phối, tiêu dùng. Bắt đầu với Adam Smith, triết gia Scotland được coi là cha đẻ kinh tế học (dù nhiều học giả quan sát kinh tế trước *Wealth of Nations* 1776). Ý tưởng "bàn tay vô hình" dẫn người theo đuổi lợi ích riêng đến kết quả tốt nhất cho xã hội là một trong những khái niệm thuyết phục nhất khoa học xã hội. Smith và David Hume khai sinh lĩnh vực này vào đầu Cách mạng Công nghiệp.
-- Lý thuyết phát triển nhiều từ Smith đến Đại Suy thoái nhưng không tách vi mô, vĩ mô. Nhà kinh tế ngầm giả định thị trường luôn cân bằng (giá điều chỉnh để cung bằng cầu) hoặc sau cú sốc tạm thời (khủng hoảng tài chính, nạn đói) sẽ nhanh trở lại cân bằng. Tức nghiên cứu từng thị trường đủ giải thích hành vi biến tổng hợp như thất nghiệp và sản lượng.
-- Sự sụp đổ sâu và kéo dài của hoạt động kinh tế toàn cầu thời Đại Suy thoái thay đổi điều đó. Không phải nhà kinh tế không biết biến tổng hợp có thể bất ổn: họ nghiên cứu chu kỳ kinh doanh, tiền tệ. Nhưng kinh tế học thời đó không giải thích được Đại Suy thoái. Trong mô hình cổ điển thị trường luôn cân bằng, không có lời giải hợp lý cho "thất bại thị trường" cực đoan thập niên 1930.
-- Nếu Smith là cha đẻ kinh tế học, John Maynard Keynes là cha đẻ kinh tế vĩ mô. Dù một số ý tưởng bắt nguồn từ Irving Fisher và Knut Wicksell cuối thế kỷ 19 đầu 20, vĩ mô như ngành riêng bắt đầu với kiệt tác *The General Theory of Employment, Interest and Money* năm 1936. Mối quan tâm chính: bất ổn của biến tổng hợp. Trong khi kinh tế học sớm tập trung cân bằng từng thị trường, Keynes đưa vào xét đồng thời cân bằng ở ba nhóm thị trường liên quan: hàng hoá, lao động, tài chính. Ông cũng đưa vào "kinh tế học mất cân bằng", nghiên cứu rõ ràng sự lệch khỏi cân bằng tổng thể. Cách tiếp cận được các nhà kinh tế hàng đầu tiếp nhận và phát triển thành kinh tế vĩ mô ngày nay.
+**Trước đây kinh tế học chỉ là một.** Sự chia đôi này không phải lúc nào cũng có. Từ cuối thế kỷ 18 đến Đại Suy thoái thập niên 1930, kinh tế học chỉ là kinh tế học: môn nghiên cứu cách xã hội tổ chức sản xuất, phân phối và tiêu dùng.
+
+- Ngành này thường được tính từ Adam Smith, triết gia người Scotland được coi là cha đẻ của kinh tế học, dù nhiều học giả đã quan sát hiện tượng kinh tế trước khi cuốn *Của cải của các dân tộc* (*Wealth of Nations*) ra đời năm 1776.
+- Ý tưởng "bàn tay vô hình" của Smith, rằng mỗi người theo đuổi lợi ích riêng lại dẫn tới kết quả tốt nhất cho xã hội, là một trong những khái niệm thuyết phục nhất của khoa học xã hội.
+- Smith và David Hume khai sinh lĩnh vực này vào thời kỳ đầu của Cách mạng Công nghiệp.
+
+**Giả định ngầm của kinh tế học cổ điển.** Lý thuyết kinh tế phát triển nhiều từ thời Smith đến Đại Suy thoái, nhưng không tách thành vi mô và vĩ mô. Lý do là các nhà kinh tế ngầm giả định:
+
+1. Thị trường luôn cân bằng, tức giá luôn điều chỉnh để cung bằng cầu; hoặc
+2. Nếu có cú sốc tạm thời (một cuộc khủng hoảng tài chính, một nạn đói), thị trường sẽ nhanh chóng trở lại cân bằng.
+
+Từ giả định đó suy ra: chỉ cần nghiên cứu từng thị trường là đủ để giải thích hành vi của các biến tổng hợp như thất nghiệp hay sản lượng. Không cần một môn riêng cho bức tranh lớn.
+
+**Đại Suy thoái phá vỡ giả định.** Hoạt động kinh tế toàn cầu sụp đổ sâu và kéo dài trong Đại Suy thoái đã thay đổi tất cả. Bài lưu ý rằng các nhà kinh tế trước đó không phải không biết biến tổng hợp có thể bất ổn: họ đã nghiên cứu chu kỳ kinh doanh và tiền tệ. Nhưng kinh tế học thời đó không giải thích được Đại Suy thoái. Trong mô hình cổ điển, thị trường luôn cân bằng, nên không có lời giải hợp lý nào cho một "thất bại thị trường" cực đoan như ở thập niên 1930, khi hàng loạt người muốn làm mà không có việc, năm này qua năm khác.
+
+**Keynes và sự ra đời của kinh tế vĩ mô.** Nếu Smith là cha đẻ của kinh tế học thì John Maynard Keynes là cha đẻ của kinh tế vĩ mô. Một số ý tưởng đã có từ Irving Fisher và Knut Wicksell cuối thế kỷ 19, đầu thế kỷ 20, nhưng kinh tế vĩ mô như một ngành riêng bắt đầu với kiệt tác *Lý thuyết tổng quát về việc làm, lãi suất và tiền tệ* (*The General Theory of Employment, Interest and Money*) năm 1936. Bài nêu ba điểm mới mà Keynes đưa vào:
+
+| Điểm mới | Nội dung |
+|---|---|
+| Mối quan tâm chính | Sự bất ổn của các biến tổng hợp, chứ không phải giá của từng mặt hàng |
+| Xét đồng thời nhiều thị trường | Trong khi kinh tế học trước đó tập trung vào cân bằng của từng thị trường, Keynes xét cùng lúc cân bằng ở 3 nhóm thị trường liên quan với nhau: hàng hoá, lao động và tài chính |
+| Kinh tế học mất cân bằng | Nghiên cứu một cách rõ ràng những trạng thái nền kinh tế lệch khỏi cân bằng tổng thể, thay vì giả định chúng không xảy ra |
+
+Cách tiếp cận này được các nhà kinh tế hàng đầu tiếp nhận và phát triển thành kinh tế vĩ mô ngày nay.
 
 ### 3. Cùng tồn tại và bổ sung
 
-- Vi mô dựa trên mô hình người tiêu dùng hay hãng (gọi là tác nhân) quyết định mua, bán, sản xuất gì, với giả định các quyết định dẫn đến thị trường cân bằng hoàn hảo (cầu bằng cung) và các điều kiện lý tưởng khác. Vĩ mô bắt đầu từ các sai lệch quan sát được so với kết quả dự kiến theo truyền thống cổ điển.
-- Ngày nay hai lĩnh vực cùng tồn tại và bổ sung nhau. Vi mô chia thành lý thuyết cầu người tiêu dùng, lý thuyết sản xuất (lý thuyết hãng), và các chủ đề liên quan như bản chất cạnh tranh thị trường, phúc lợi kinh tế, vai trò thông tin không hoàn hảo, và ở mức trừu tượng nhất là cân bằng tổng thể xét đồng thời nhiều thị trường. Phần lớn phân tích kinh tế mang tính vi mô: tác động của lương tối thiểu, thuế, trợ giá, độc quyền lên từng thị trường, với những khái niệm dễ nhận ra trong đời thực. Ứng dụng trong thương mại, tổ chức ngành, kinh tế lao động, tài chính công, kinh tế phúc lợi. Cho cả quyết định kinh doanh lẫn chính sách công.
-- Vĩ mô trừu tượng hơn: mô tả quan hệ giữa các tổng gộp lớn đến khó nắm bắt như thu nhập quốc dân, tiết kiệm, mức giá chung. Thường chia thành nghiên cứu tăng trưởng dài hạn, phân tích lệch khỏi cân bằng ngắn hạn, và xây dựng chính sách ổn định nền kinh tế (giảm dao động tăng trưởng và giá), gồm chi tiêu, thuế của chính phủ hoặc chính sách tiền tệ của ngân hàng trung ương.
+**Hai điểm xuất phát khác nhau.** Kinh tế vi mô dựa trên mô hình người tiêu dùng hay doanh nghiệp (gọi chung là **tác nhân**) quyết định mua gì, bán gì, sản xuất gì, với giả định các quyết định đó dẫn tới thị trường cân bằng hoàn hảo (cầu bằng cung) cùng các điều kiện lý tưởng khác. Kinh tế vĩ mô thì bắt đầu từ những **sai lệch quan sát được** so với kết quả mà truyền thống cổ điển dự đoán.
+
+Ngày nay hai lĩnh vực cùng tồn tại và bổ sung cho nhau.
+
+**Nội dung của kinh tế vi mô.** Bài liệt kê các phần chính:
+
+- Lý thuyết cầu của người tiêu dùng.
+- Lý thuyết sản xuất, còn gọi là lý thuyết về hãng (doanh nghiệp).
+- Các chủ đề liên quan: bản chất của cạnh tranh trên thị trường, phúc lợi kinh tế, vai trò của thông tin không hoàn hảo (khi một bên biết nhiều hơn bên kia).
+- Ở mức trừu tượng nhất: cân bằng tổng thể, tức xét đồng thời nhiều thị trường.
+
+Phần lớn phân tích kinh tế trong thực tế mang tính vi mô: tác động của lương tối thiểu, thuế, trợ giá hay độc quyền lên từng thị trường cụ thể. Các khái niệm này dễ nhận ra trong đời sống. Vi mô được ứng dụng trong thương mại, tổ chức ngành, kinh tế lao động, tài chính công và kinh tế phúc lợi, và phục vụ cả quyết định kinh doanh lẫn chính sách công.
+
+**Ví dụ hôm nay** (minh hoạ chung). Câu hỏi "nếu tăng lương tối thiểu 10%, các quán ăn nhỏ trong thành phố sẽ thuê ít người đi bao nhiêu" là câu hỏi vi mô: nó nhìn vào một thị trường lao động cụ thể. Câu hỏi "nếu tăng lương tối thiểu trên cả nước, lạm phát và tăng trưởng năm tới thay đổi thế nào" là câu hỏi vĩ mô: nó cộng tác động lên mọi thị trường và xét các vòng ảnh hưởng qua lại.
+
+**Nội dung của kinh tế vĩ mô.** Kinh tế vĩ mô trừu tượng hơn: nó mô tả quan hệ giữa những tổng số lớn đến mức khó hình dung, như thu nhập quốc dân, tiết kiệm, mức giá chung. Nó thường được chia thành ba phần:
+
+1. Nghiên cứu tăng trưởng dài hạn.
+2. Phân tích các sai lệch khỏi cân bằng trong ngắn hạn (suy thoái, quá nóng).
+3. Xây dựng chính sách ổn định nền kinh tế, tức giảm dao động của tăng trưởng và giá cả, bằng chi tiêu và thuế của chính phủ (chính sách tài khoá) hoặc bằng chính sách tiền tệ của ngân hàng trung ương.
 
 ### 4. Bắc cầu và khác biệt
 
-- Như nhà khoa học tự nhiên, nhà kinh tế xây lý thuyết để tổ chức và đơn giản hoá tri thức, tạo khung để thêm tri thức mới. Khoa học bắt đầu từ tích luỹ hiểu biết không chính thức, đặc biệt các quan hệ ổn định giữa biến đến mức thành "quy luật", rồi cố định qua thực nghiệm và suy diễn logic gọi là mô hình.
-- Từ cách mạng Keynes, kinh tế học có hai hệ lý thuyết, một cho bức tranh nhỏ, một cho bức tranh lớn (micro và macro là tiếng Hy Lạp nghĩa "nhỏ" và "lớn"). Theo cách của vật lý, khoảng 25 năm qua nhiều nhà kinh tế nỗ lực bền bỉ hợp nhất hai nhánh: xây nền tảng vi mô cho mô hình vĩ mô, với lý lẽ phân tích kinh tế hợp lệ phải bắt đầu từ hành vi của các thành tố vi mô: hộ gia đình và hãng tìm cách tối ưu hoá điều kiện của mình. Cũng có nỗ lực dùng máy tính rất nhanh mô phỏng hành vi tổng gộp bằng cách cộng hành vi của rất nhiều hộ và hãng. Còn quá sớm để nói về kết quả. Nhưng trong vĩ mô vẫn tiếp tục cải thiện mô hình, những khiếm khuyết bị bộc lộ bởi bất ổn thị trường thế giới trong khủng hoảng tài chính toàn cầu bắt đầu 2008.
-- Lý thuyết vi mô đương đại tiến hoá đều đặn không ồn ào từ những lý thuyết sớm nhất về định giá. Vĩ mô ngược lại bắt nguồn từ quan sát thực nghiệm mà lý thuyết hiện có không giải thích được; cách diễn giải những bất thường đó luôn gây tranh cãi. Vi mô không có trường phái đối lập, thống nhất với lõi chung. Vĩ mô thì có và đã có các trường phái cạnh tranh về cách giải thích hành vi tổng gộp, với tên như New Keynesian hay New Classical, nhưng chia rẽ đang thu hẹp vài thập kỷ qua (Blanchard, Dell'Ariccia, Mauro 2010).
-- Vi mô và vĩ mô không phải hai nhánh duy nhất. Kinh tế lượng, áp dụng phương pháp thống kê và toán học vào phân tích kinh tế, được coi là lĩnh vực cốt lõi thứ ba. Không có tiến bộ lớn của kinh tế lượng trong thế kỷ qua, phần lớn phân tích tinh vi trong vi mô và vĩ mô sẽ không thể có.
+**Lý thuyết dùng để làm gì.** Giống nhà khoa học tự nhiên, nhà kinh tế xây lý thuyết để sắp xếp và đơn giản hoá tri thức, tạo một khung để gắn thêm tri thức mới. Bài mô tả con đường chung của khoa học:
+
+1. Bắt đầu bằng việc tích luỹ hiểu biết không chính thức.
+2. Nhận ra những quan hệ giữa các biến ổn định tới mức được gọi là "quy luật".
+3. Cố định các quy luật đó bằng thực nghiệm và suy luận logic, tạo thành cái gọi là **mô hình**.
+
+**Nỗ lực hợp nhất.** Từ cuộc cách mạng Keynes, kinh tế học có hai hệ lý thuyết, một cho bức tranh nhỏ và một cho bức tranh lớn (micro và macro là tiếng Hy Lạp nghĩa là "nhỏ" và "lớn"). Theo cách mà vật lý tìm cách thống nhất các lý thuyết của mình, trong khoảng 25 năm trước khi bài được viết, nhiều nhà kinh tế đã kiên trì hợp nhất hai nhánh theo hai hướng:
+
+- **Xây nền tảng vi mô cho mô hình vĩ mô.** Lý lẽ là một phân tích kinh tế hợp lệ phải bắt đầu từ hành vi của các thành phần nhỏ nhất: hộ gia đình và doanh nghiệp, mỗi bên tìm cách tối ưu hoá điều kiện của mình.
+- **Mô phỏng bằng máy tính.** Dùng máy tính rất nhanh để mô phỏng hành vi của cả nền kinh tế bằng cách cộng hành vi của rất nhiều hộ gia đình và doanh nghiệp.
+
+Bài nhận định còn quá sớm để đánh giá kết quả. Trong khi đó, kinh tế vĩ mô vẫn tiếp tục cải thiện mô hình, nhất là sau khi những khiếm khuyết của các mô hình bị bộc lộ qua bất ổn thị trường thế giới trong cuộc khủng hoảng tài chính toàn cầu bắt đầu năm 2008.
+
+**Hai lịch sử phát triển khác nhau.** Bài so sánh cách hai nhánh lớn lên:
+
+| | Kinh tế vi mô | Kinh tế vĩ mô |
+|---|---|---|
+| Nguồn gốc | Tiến hoá đều đặn, lặng lẽ từ những lý thuyết sớm nhất về định giá | Bắt nguồn từ những quan sát thực tế mà lý thuyết hiện có không giải thích được |
+| Mức đồng thuận | Không có trường phái đối lập; thống nhất quanh một lõi chung | Có các trường phái cạnh tranh về cách giải thích hành vi của cả nền kinh tế, như New Keynesian (Keynes mới) và New Classical (cổ điển mới) |
+| Xu hướng | Ổn định | Cách diễn giải các hiện tượng bất thường luôn gây tranh cãi, nhưng chia rẽ đã thu hẹp trong vài thập kỷ gần đây (Blanchard, Dell'Ariccia và Mauro, 2010) |
+
+**Lĩnh vực cốt lõi thứ ba.** Vi mô và vĩ mô không phải hai nhánh duy nhất. **Kinh tế lượng**, tức việc áp dụng phương pháp thống kê và toán học vào phân tích kinh tế, được coi là lĩnh vực cốt lõi thứ ba. Bài nhận xét rằng nếu không có những tiến bộ lớn của kinh tế lượng trong thế kỷ qua, phần lớn các phân tích tinh vi trong cả vi mô lẫn vĩ mô đã không thể thực hiện được.
 
 ## Thuật ngữ
 

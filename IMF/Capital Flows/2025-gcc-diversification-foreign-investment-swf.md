@@ -246,54 +246,227 @@
 2. Loại đầu tư nào thực sự thúc đẩy tăng trưởng các ngành phi dầu khí?
 3. Quỹ tài sản quốc gia đóng vai trò gì trong quá trình đa dạng hoá?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Hội đồng Hợp tác vùng Vịnh (Gulf Cooperation Council, GCC).** Khối sáu nước ở bán đảo Ả-rập: Bahrain, Kuwait, Oman, Qatar, Ả-rập Xê-út và UAE (Các Tiểu vương quốc Ả-rập Thống nhất). Điểm chung là kinh tế dựa nặng vào dầu mỏ và khí đốt (gọi chung là dầu khí, *hydrocarbons*). Trong mẫu của bài, hai nước Ả-rập Xê-út và UAE chiếm 9.540 trong 13.992 thương vụ. Khái niệm này quan trọng vì mọi kết luận "của GCC" trong bài thực chất là bình quân của sáu nền kinh tế rất khác nhau về quy mô.
+
+**Đa dạng hoá kinh tế (economic diversification) và GDP phi dầu khí.** Đa dạng hoá là quá trình một nền kinh tế bớt phụ thuộc vào một ngành, ở đây là dầu khí, bằng cách phát triển thêm nhiều ngành khác. Thước đo bài dùng là GDP của các ngành ngoài dầu khí (*non-hydrocarbon GDP*). Ví dụ minh hoạ: nếu một nước có GDP 100 đồng, trong đó 50 đồng từ dầu khí, thì GDP phi dầu khí là 50; đa dạng hoá thành công nghĩa là phần 50 này tăng nhanh hơn phần dầu khí. Đây là biến kết quả mà toàn bộ bài muốn giải thích.
+
+**Quỹ tài sản quốc gia (sovereign wealth fund, SWF).** Quỹ đầu tư do nhà nước sở hữu, thường được lập từ nguồn thu tài nguyên, để giữ của cải cho thế hệ sau và làm đệm khi giá dầu biến động. Các quỹ GCC quản lý hơn 4.000 tỷ USD. Ví dụ: Quỹ Đầu tư Công (PIF) của Ả-rập Xê-út, Cơ quan Đầu tư Abu Dhabi (ADIA), Mubadala của UAE. Trong bài, quỹ chiếm hơn 80% vốn ra và khoảng một nửa đầu tư trong nước, nên chúng là nhân vật chính bên cạnh nhà đầu tư nước ngoài.
+
+**Vốn vào, vốn ra và đầu tư trong nước (inward, outward, domestic investment).** Ba loại dòng tiền mà bài so sánh. Vốn vào là tiền của nhà đầu tư nước ngoài mua hoặc góp vào doanh nghiệp, dự án trong GCC. Vốn ra là tiền của nhà đầu tư GCC (chủ yếu là quỹ) mua tài sản ở nước khác. Đầu tư trong nước là thương vụ mà cả bên mua lẫn tài sản đều ở trong nước. Ví dụ từ bài: PIF mua cổ phần Lucid Motors (Mỹ) là vốn ra; PIF rót tiền vào NEOM là đầu tư trong nước. Phân biệt này quan trọng vì kết quả chính của bài là ba loại có tác động rất khác nhau lên tăng trưởng.
+
+**Đầu tư trực tiếp nước ngoài (FDI) và thương vụ sáp nhập, mua lại (M&A).** FDI là khoản đầu tư xuyên biên giới mà nhà đầu tư nắm từ 10% quyền sở hữu trở lên, đủ để có tiếng nói trong điều hành, khác với mua vài cổ phiếu để hưởng lãi. M&A là việc một công ty mua lại hoặc sáp nhập với công ty khác. Bài không dùng số liệu FDI chính thức mà đếm từng thương vụ M&A, liên doanh, góp vốn. Ví dụ minh hoạ: một quỹ nước ngoài mua 30% một hãng logistics ở Dubai là một thương vụ xuyên biên giới, và vì vượt ngưỡng 10% nên nhiều khả năng cũng là FDI. Điều này quan trọng vì dữ liệu cấp thương vụ cho phép biết ai mua, mua gì, ở ngành nào.
+
+**Phép chiếu địa phương (local projections).** Phương pháp hồi quy của Jordà để đo một biến phản ứng thế nào qua nhiều năm sau một cú tác động. Với mỗi khoảng thời gian h (0, 1, …, 5 năm), người ta chạy một hồi quy riêng: thay đổi GDP từ năm trước cú tác động đến năm thứ h, theo lượng đầu tư năm đó. Ví dụ từ bài: hệ số 1,10 ở năm thứ 4 nghĩa là ngành nhận thêm vốn vào bằng 1 điểm phần trăm GDP ngành thì sau bốn năm GDP thực của ngành cao hơn khoảng 1,10%. Đây là công cụ cho ra mọi con số tác động trong bài.
+
+**Ý nghĩa thống kê (dấu sao).** Dấu \*, \*\*, \*\*\* cho biết mức độ chắc chắn rằng một hệ số khác 0 không phải do ngẫu nhiên; càng nhiều sao càng chắc. Một hệ số không có sao, dù dương, có thể chỉ là nhiễu. Ví dụ: vốn ra của quỹ có hệ số 0,03 ở năm thứ 4, không có sao, nên không thể nói nó có tác động. Khái niệm này quan trọng vì kết luận "vốn ra không có tác động" dựa đúng vào việc các hệ số không có sao.
+
+**Kéo đầu tư tư nhân vào (crowding in) và "con voi trắng" (white elephant).** Kéo vào là khi đầu tư của nhà nước làm cho tư nhân muốn đầu tư theo, ví dụ một trung tâm logistics kéo theo nhà máy và hãng vận tải đến đặt cạnh. Con voi trắng là dự án rất tốn kém nhưng ít tạo ra giá trị. Hai khái niệm này là hai kết cục có thể của cùng một khoản đầu tư công, và bài dùng chúng để giải thích vì sao đầu tư trong nước nói chung yếu nhưng phần do quỹ dẫn dắt lại có tác động.
+
+## Nội dung chi tiết
 
 ### 1. Bối cảnh
 
-- Các nước GCC đang đa dạng hoá sản lượng, xuất khẩu và nguồn thu, phù hợp với chiến lược phát triển quốc gia và mục tiêu giảm phát thải toàn cầu. Nhưng vẫn còn thách thức trong việc đa dạng hoá sâu hơn và thu hút FDI vào các ngành phi dầu khí có tiềm năng tăng trưởng.
-- Các quỹ tài sản quốc gia của vùng thuộc loại lớn nhất thế giới. Ban đầu chúng được lập để bảo vệ bền vững dài hạn, công bằng giữa các thế hệ và giảm rủi ro biến động giá dầu. Gần đây chúng đầu tư chủ động hơn vào ngành và dự án chiến lược cả trong và ngoài nước, gắn với chiến lược công nghiệp.
-- Các quỹ đầu tư mạnh vào ngành giá trị gia tăng cao, xanh và công nghệ, thường cùng các nền kinh tế phát triển.
+Các nước GCC đang đa dạng hoá sản lượng, xuất khẩu và nguồn thu ngân sách khỏi dầu khí. Việc này vừa phù hợp với các chiến lược phát triển quốc gia (như Tầm nhìn 2030 của Ả-rập Xê-út), vừa phù hợp với mục tiêu giảm phát thải toàn cầu, vốn sẽ làm giảm nhu cầu dầu trong dài hạn. Tuy vậy, vẫn còn thách thức lớn: đa dạng hoá chưa sâu, và việc thu hút FDI vào các ngành phi dầu khí có tiềm năng tăng trưởng còn hạn chế.
+
+Các quỹ tài sản quốc gia của vùng thuộc loại lớn nhất thế giới. Vai trò của chúng đã thay đổi qua thời gian:
+
+| | Vai trò ban đầu | Vai trò gần đây |
+|---|---|---|
+| Mục tiêu | Giữ gìn bền vững dài hạn, công bằng giữa các thế hệ, chống biến động giá dầu | Làm nhà đầu tư chủ động, gắn với chiến lược công nghiệp quốc gia |
+| Cách làm | Nắm giữ thụ động, chủ yếu cổ phiếu niêm yết | Liên doanh, chuyển giao công nghệ, lan toả tri thức, đầu tư vào ngành và dự án chiến lược cả trong và ngoài nước |
+
+Ví dụ rõ nhất là PIF của Ả-rập Xê-út. Từ khi có Tầm nhìn 2030 năm 2016, PIF chuyển từ chỗ nắm cổ phiếu niêm yết sang đầu tư phát triển trong nước.
+
+Các quỹ đầu tư mạnh vào ngành giá trị gia tăng cao, xanh và công nghệ, thường cùng với các nền kinh tế phát triển. Bài nêu ba hướng chính:
+
+- **Công nghệ:** PIF góp vốn vào SoftBank Vision Fund; UAE lập công ty G42 về trí tuệ nhân tạo và ký thoả thuận với Microsoft; Mubadala đầu tư vào bán dẫn.
+- **Xanh:** dự án thành phố NEOM trị giá 500 tỷ USD; PIF nắm cổ phần ba dự án điện mặt trời của ACWA Power; Masdar (UAE) có dự án ở hơn 40 nước; UAE và Mỹ ký thoả thuận PACE trị giá 100 tỷ USD về năng lượng sạch.
+- **Khu vực:** tài chính khí hậu ở Ai Cập và Maroc.
+
+Câu hỏi bài đặt ra: các khoản đầu tư này có thực sự thúc đẩy tăng trưởng ngoài dầu khí và đa dạng hoá hay không?
 
 ### 2. Vị trí trong tài liệu
 
-- Nhánh thứ nhất nghiên cứu quan hệ giữa FDI, tăng trưởng và đa dạng hoá. Vốn vào có thể thúc đẩy đa dạng hoá qua công nghệ mới, phương pháp sản xuất mới và cơ hội xuất khẩu. FDI gắn với xuất khẩu tinh vi hơn và đa dạng hơn. Đầu tư công nghệ cao có thể có tác động lớn hơn đầu tư khai thác tài nguyên. Thể chế mạnh và thị trường tài chính phát triển là then chốt để tối đa hoá lợi ích.
-- Về lý thuyết, trường phái tân cổ điển nhấn mạnh tích luỹ vốn và tiến bộ công nghệ; tăng trưởng nội sinh nhấn mạnh tri thức và vốn con người qua lan toả tri thức; mô hình chiết trung của Dunning cho rằng FDI kích thích đa dạng hoá khi doanh nghiệp nước ngoài khai thác lợi thế của nước chủ nhà.
-- Nghiên cứu riêng về GCC còn ít và kết quả lẫn lộn: có nghiên cứu thấy quan hệ yếu giữa FDI và GDP; một nghiên cứu của IMF năm 2014 thấy FDI không đi kèm cải thiện theo ngành; nghiên cứu năm 2018 lại cho rằng thu hẹp khoảng cách FDI có thể tăng tăng trưởng phi dầu bình quân đầu người tới một điểm phần trăm. Bài tự nhận là nghiên cứu đầu tiên dùng dữ liệu cấp thương vụ để có bức tranh đầy đủ cả chiều vào lẫn chiều ra.
-- Nhánh thứ hai là quỹ tài sản quốc gia và đa dạng hoá. Nhiệm vụ chính là quản lý tài sản cho thế hệ sau, nhưng đa số cũng nhắm hỗ trợ đa dạng hoá trong nước. Chưa có nghiên cứu định lượng nào về vai trò của quỹ GCC với đa dạng hoá và tăng trưởng.
-- Nhánh thứ ba là đầu tư tri thức và xanh. Đầu tư công nghệ thông tin ở GCC có số nhân một phẩy tám lên tăng trưởng phi dầu, gấp đôi đầu tư khác; hạ tầng xanh có số nhân một phẩy một tới một phẩy năm so với không phẩy năm tới không phẩy sáu của hạ tầng truyền thống; năng lượng xanh cũng tạo nhiều việc làm hơn, khoảng mười tám so với sáu việc làm cho mỗi triệu đô la theo ILO.
+Bài nằm ở chỗ giao nhau của ba nhánh nghiên cứu.
+
+**Nhánh thứ nhất: FDI, tăng trưởng và đa dạng hoá.** Vốn vào có thể thúc đẩy đa dạng hoá qua ba kênh: mang theo công nghệ mới, phương pháp sản xuất mới và mở ra cơ hội xuất khẩu. Các nghiên cứu thấy FDI gắn với hàng xuất khẩu tinh vi hơn và đa dạng hơn. Đầu tư vào công nghệ cao có thể có tác động lớn hơn đầu tư khai thác tài nguyên. Điều kiện để tối đa hoá lợi ích là thể chế mạnh và thị trường tài chính phát triển.
+
+Về lý thuyết, có ba cách nhìn:
+
+| Trường phái | FDI tác động qua đâu |
+|---|---|
+| Tân cổ điển | Tích luỹ vốn và tiến bộ công nghệ |
+| Tăng trưởng nội sinh | Tri thức và vốn con người, qua lan toả tri thức từ doanh nghiệp nước ngoài sang doanh nghiệp trong nước |
+| Mô hình chiết trung của Dunning | FDI kích thích đa dạng hoá khi doanh nghiệp nước ngoài khai thác lợi thế riêng của nước chủ nhà |
+
+Nghiên cứu riêng về GCC còn ít và kết quả lẫn lộn. Có nghiên cứu thấy quan hệ yếu giữa FDI và GDP. Một nghiên cứu của IMF năm 2014 thấy FDI không đi kèm cải thiện theo ngành. Ngược lại, một nghiên cứu năm 2018 cho rằng nếu thu hẹp khoảng cách FDI (so với các nước tương đồng) thì tăng trưởng phi dầu khí bình quân đầu người có thể tăng thêm tới 1 điểm phần trăm. Bài tự nhận là nghiên cứu đầu tiên dùng dữ liệu cấp thương vụ để có bức tranh đầy đủ cả chiều vào lẫn chiều ra.
+
+**Nhánh thứ hai: quỹ tài sản quốc gia và đa dạng hoá.** Nhiệm vụ chính của các quỹ là quản lý tài sản cho thế hệ sau, nhưng đa số cũng đặt mục tiêu hỗ trợ đa dạng hoá trong nước. Chưa có nghiên cứu định lượng nào về vai trò của quỹ GCC với đa dạng hoá và tăng trưởng; đây là khoảng trống bài muốn lấp.
+
+**Nhánh thứ ba: đầu tư tri thức và đầu tư xanh.** Các nghiên cứu trước cho các con số sau:
+
+| Loại đầu tư | Kết quả |
+|---|---|
+| Công nghệ thông tin ở GCC | Số nhân 1,8 lên tăng trưởng phi dầu khí, gấp đôi các loại đầu tư khác |
+| Hạ tầng xanh | Số nhân 1,1 tới 1,5, so với 0,5 tới 0,6 của hạ tầng truyền thống |
+| Năng lượng xanh (theo ILO) | Khoảng 18 việc làm cho mỗi triệu USD, so với khoảng 6 việc làm của năng lượng truyền thống |
+
+Số nhân 1,8 nghĩa là mỗi 1 USD đầu tư đi kèm khoảng 1,8 USD sản lượng tăng thêm.
 
 ### 3. Dữ liệu và phương pháp
 
-- Hai nguồn là BvD Zephyr và SWFI, sau khi làm sạch và bỏ trùng còn gần mười bốn nghìn thương vụ trị giá khoảng ba nghìn tỷ đô la.
-- Bài tách thương vụ thuần trong nước, thuần xuyên biên giới và hỗn hợp, xác định quỹ tham gia qua mã định danh, và phân ngành theo NACE.
-- Bài lưu ý phần lớn thương vụ xuyên biên giới nhiều khả năng vượt ngưỡng mười phần trăm sở hữu để được coi là FDI, nhưng không dùng định nghĩa FDI chính thức vì chưa phân loại đầy đủ.
-- Phương pháp phép chiếu địa phương cấp nước và ngành, loại dầu khí và tài chính. Ngành tài chính bị loại vì chủ yếu tạo điều kiện giao dịch cho ngành khác chứ không trực tiếp sản xuất hàng hoá và dịch vụ, nên có thể tạo ấn tượng sai về độ đa dạng.
+**Hai nguồn dữ liệu.**
+
+1. **BvD Zephyr**, cơ sở dữ liệu về sáp nhập, mua lại, liên doanh, đầu tư cổ phần và tài trợ doanh nghiệp, có từ năm 1997. Bài chỉ giữ thương vụ đã hoàn tất, đã công bố hoặc đang chờ, và bỏ những thương vụ đã công bố hoặc đang chờ quá 10 năm (vì nhiều khả năng sẽ không bao giờ thành). Với thương vụ thiếu giá trị, bài ước lượng bằng tỷ lệ cổ phần nhân với vốn chủ sở hữu của doanh nghiệp. Kết quả là 10.336 thương vụ, trong đó 1.419 thương vụ có quỹ tài sản quốc gia tham gia.
+2. **SWFI** (Viện Quỹ tài sản quốc gia), chỉ giữ thương vụ nêu rõ quỹ GCC là bên mua. Kết quả là 3.656 thương vụ.
+
+Sau khi làm sạch và bỏ trùng, mẫu còn gần 14.000 thương vụ trị giá khoảng 3.000 tỷ USD.
+
+**Phân loại.** Mỗi thương vụ được xếp vào một trong ba nhóm: thuần trong nước, thuần xuyên biên giới, hoặc hỗn hợp. Quỹ tham gia được xác định qua mã định danh của bên mua. Ngành được phân theo hệ thống NACE Rev.2 của châu Âu ở cấp 1 (cấp gộp nhất). Nhóm công nghệ cao và dịch vụ hàm lượng tri thức xác định theo định nghĩa của OECD. Năng lượng tái tạo được nhận diện bằng mã ngành SIC cộng với phân tích văn bản mô tả thương vụ, tìm các từ như mặt trời, gió, địa nhiệt, sinh học.
+
+**Tổng hợp mẫu 2000–2023 (tỷ USD danh nghĩa):**
+
+| Nước | Số thương vụ | Giá trị | Số thương vụ xuyên biên giới | Số thương vụ có quỹ tham gia | Giá trị có quỹ tham gia |
+|---|---|---|---|---|---|
+| Bahrain (BHR) | 720 | 73,4 | 594 | 60 | 3,4 |
+| Ả-rập Xê-út (KSA) | 2.348 | 1.152,5 | 1.698 | 697 | 478,1 |
+| Kuwait (KWT) | 1.858 | 176,6 | 1.543 | 859 | 83,3 |
+| Oman (OMN) | 816 | 57,2 | 629 | 189 | 11,9 |
+| Qatar (QAT) | 1.059 | 341,0 | 936 | 625 | 248,0 |
+| UAE | 7.192 | 1.236,0 | 6.259 | 2.660 | 655,2 |
+| **GCC** | **13.992** | **3.036,7** | **11.659** | **5.090** | **1.479,9** |
+
+Từ bảng này có ba nhận xét. Hơn 70% số thương vụ là xuyên biên giới. Quỹ tài sản quốc gia tham gia khoảng 36% số thương vụ nhưng chiếm khoảng 50% giá trị, tức các thương vụ có quỹ thường lớn hơn bình quân. Ả-rập Xê-út và UAE chiếm phần lớn cả số lượng lẫn giá trị.
+
+Bài đối chiếu dữ liệu thương vụ với thống kê FDI trong cán cân thanh toán. Hai nguồn không khớp đầy đủ, nhưng xu hướng và các bước ngoặt trùng nhau, nên dữ liệu thương vụ đủ tin cậy để mô tả diễn biến. Dữ liệu trước năm 2004 kém hơn.
+
+**Quan hệ với định nghĩa FDI.** Phần lớn thương vụ xuyên biên giới nhiều khả năng vượt ngưỡng 10% sở hữu để được coi là FDI, nhưng bài không dùng định nghĩa FDI chính thức vì chưa phân loại đầy đủ được từng thương vụ.
+
+**Phương pháp ước lượng.** Bài dùng phép chiếu địa phương ở cấp nước nhân ngành, theo năm. Phương trình (1) có dạng:
+
+y(is,t+h) − y(is,t−1) = β·R(is,t) + θ·X(is,t) + α(is) + γ(t) + ε
+
+Trong đó:
+
+- y là log GDP thực của ngành s ở nước i, nên vế trái là tăng trưởng của ngành từ năm trước cú tác động đến h năm sau.
+- R là lượng đầu tư (vốn vào, vốn ra hoặc đầu tư trong nước) chia cho GDP danh nghĩa của ngành.
+- X là các biến kiểm soát: giá trị trễ của y và R, phần trăm thay đổi giá dầu, tăng trưởng toàn cầu.
+- α(is) là hiệu ứng cố định cho từng cặp nước và ngành, γ(t) là hiệu ứng cố định cho từng năm.
+- h chạy từ 0 đến 5 năm; sai số chuẩn được gom theo cụm nước nhân ngành.
+
+Hệ số β là con số cần tìm: GDP ngành thay đổi bao nhiêu phần trăm sau h năm khi đầu tư tăng 1 điểm phần trăm GDP ngành.
+
+Bài chỉ dùng các ngành phi dầu khí và phi tài chính. Ngành tài chính bị loại vì nó chủ yếu tạo điều kiện giao dịch cho các ngành khác chứ không trực tiếp sản xuất hàng hoá và dịch vụ, nên nếu giữ lại có thể tạo ấn tượng sai về độ đa dạng.
+
+Bài chọn phép chiếu địa phương thay vì mô hình tự hồi quy véc-tơ (VAR) vì phép chiếu ước lượng trực tiếp phản ứng ở từng khoảng thời gian mà không cần giả định mạnh về quá trình sinh dữ liệu. Điều này phù hợp với dữ liệu ở đây: bảng không cân bằng (không phải nước, ngành nào cũng có số liệu mọi năm) và chuỗi thời gian ngắn.
 
 ### 4. Bức tranh đầu tư
 
-- Vốn vào bình quân khoảng hai phần trăm GDP, giảm sau khủng hoảng tài chính và cú sụt giá dầu 2014 tới 2016, tăng lại từ 2018. Dù tăng từ sau đại dịch, giúp GCC trở nên trung tâm hơn trong mạng lưới FDI toàn cầu, tổng vốn vào vẫn thấp.
-- Chuỗi cải cách từ 2016 ở cả sáu nước nhằm mở cửa sở hữu nước ngoài, đơn giản hoá thủ tục, lập cơ quan chuyên trách, phát triển đặc khu kinh tế và ký các hiệp định thương mại.
-- Vốn vào vẫn chủ yếu từ các nền kinh tế phát triển; tỷ trọng nội khối GCC ổn định trên hai mươi lăm phần trăm, thể hiện cam kết hội nhập khu vực.
-- Vốn vào trước đây nghiêng về dầu khí, rồi tài chính, bất động sản và sản xuất. Sau đại dịch dịch chuyển mạnh sang dịch vụ: vận tải, logistics, công nghệ thông tin, khách sạn, y tế và dịch vụ chuyên môn.
-- Vốn ra cũng tăng mạnh nhưng rất khác nhau giữa các nước: Ả-rập Xê-út và UAE tăng mạnh, các nước còn lại trầm lắng. Vốn ra cũng nhắm sản xuất và dịch vụ thị trường, kênh có thể mang lại chuyển giao công nghệ.
-- Quỹ tài sản quốc gia chiếm hơn tám mươi phần trăm vốn ra và khoảng năm mươi phần trăm đầu tư trong nước. Các quỹ cân nhắc ưu tiên phát triển của chính phủ, lợi suất dài hạn và quản lý rủi ro.
-- Đầu tư xanh ra nước ngoài tăng vọt giai đoạn 2022 và 2023, chủ yếu do quỹ của UAE và Ả-rập Xê-út.
+**Vốn vào theo thời gian.** Vốn vào GCC bình quân cả kỳ khoảng 2% GDP, một mức vẫn thấp. Diễn biến qua các giai đoạn:
+
+| Giai đoạn | Vốn vào, % GDP | Ghi chú |
+|---|---|---|
+| 2000–2004 | dưới 1% | |
+| 2005–2009 | khoảng 2–3% | |
+| 2010–2013 | dưới 1% | sau khủng hoảng tài chính toàn cầu |
+| 2014–2016 | yếu | giá dầu lao dốc |
+| 2017–2020 | tăng lại | đỉnh khoảng 3,3% năm 2019–2020 |
+| 2021–2023 | khoảng 1,8–2,3% | |
+
+Dù tăng từ sau đại dịch và giúp GCC trở nên trung tâm hơn trong mạng lưới FDI toàn cầu, tổng vốn vào vẫn thấp.
+
+**Vì sao vốn vào tăng từ 2018.** Bài tách thành yếu tố đẩy từ bên ngoài và yếu tố kéo từ GCC:
+
+- *Yếu tố đẩy toàn cầu:* nhà đầu tư tìm lợi suất, tìm nơi trú ẩn an toàn, đa dạng hoá chuỗi cung ứng, và quan tâm nhiều hơn tới bền vững.
+- *Yếu tố kéo của GCC:* phục hồi nhanh sau đại dịch, vùng ít chịu tác động trực tiếp của căng thẳng địa chính trị, và các sự kiện lớn như Expo 2020 Dubai và World Cup Qatar.
+
+**Chuỗi cải cách từ 2016.** Cả sáu nước đều cải cách nhằm mở cửa sở hữu nước ngoài, đơn giản hoá thủ tục, lập cơ quan chuyên trách, phát triển đặc khu kinh tế và ký hiệp định thương mại:
+
+| Nước | Năm | Cải cách |
+|---|---|---|
+| Bahrain | 2016 | Cho phép 100% sở hữu nước ngoài ở nhiều ngành |
+| Kuwait | 2018 | Tự do hoá đầu tư vào ngân hàng |
+| Qatar | 2018 | Luật đầu tư mới, lập khu tự do |
+| UAE | 2018, 2021 | Nâng trần sở hữu nước ngoài, rồi cho 100% ở hầu hết ngành; lập Bộ Đầu tư; cấp thị thực vàng (cư trú dài hạn cho nhà đầu tư) |
+| Oman | 2019 | Luật đầu tư nước ngoài mới |
+| Ả-rập Xê-út | 2020–2024 | Lập Bộ Đầu tư năm 2020, Chiến lược Đầu tư Quốc gia năm 2021, áp dụng phương pháp thống kê FDI chuẩn quốc tế năm 2023, Luật Đầu tư mới năm 2024 |
+
+Ả-rập Xê-út và UAE có mức tăng M&A nhanh nhất giai đoạn 2021–2023, gần 10% mỗi năm.
+
+**Cơ cấu vốn vào theo nguồn.** Giai đoạn 2000–2008, khoảng 50% vốn vào đến từ chính các nước GCC khác (nội khối). Đến 2020–2023, châu Âu và Tây Bán cầu chiếm khoảng 60%. Vốn vào vẫn chủ yếu từ các nền kinh tế phát triển, còn tỷ trọng nội khối GCC ổn định trên 25%, thể hiện cam kết hội nhập khu vực.
+
+**Cơ cấu vốn vào theo ngành.** Trước đây vốn vào nghiêng về dầu khí, rồi tài chính, bất động sản và sản xuất. Giai đoạn 2000–2014, tài chính chiếm phần lớn, khoảng 50–60%. Sau đại dịch có dịch chuyển mạnh sang dịch vụ: vận tải, logistics, công nghệ thông tin, khách sạn, y tế và dịch vụ chuyên môn. Trong giai đoạn 2020–2023, riêng vận tải và viễn thông chiếm khoảng 75% vốn vào. Tính chung, tỷ trọng dịch vụ ngoài tài chính tăng từ khoảng 30% (2000–2019) lên khoảng 70%.
+
+**Vốn ra.** Vốn ra cũng tăng mạnh:
+
+| Mốc | Vốn ra GCC, % GDP |
+|---|---|
+| 2000 | gần 0 |
+| 2007 | khoảng 7,5% |
+| 2010–2013 | khoảng 3% |
+| 2017 | khoảng 9,7% |
+| 2023 | khoảng 9,5% |
+
+Nhưng mức này rất khác nhau giữa các nước. Ả-rập Xê-út và UAE tăng mạnh từ 2018, riêng UAE đạt khoảng 22% GDP năm 2023, trong khi các nước còn lại trầm lắng. Vốn ra cũng nhắm vào sản xuất và dịch vụ thị trường, là kênh có thể mang lại chuyển giao công nghệ.
+
+**Vai trò của quỹ tài sản quốc gia.** Quỹ chiếm ổn định trên 80% vốn ra kể từ năm 2009 và khoảng 50% đầu tư trong nước. Khi ra quyết định, các quỹ cân nhắc ba thứ: ưu tiên phát triển của chính phủ, lợi suất dài hạn và quản lý rủi ro. Ba quỹ dẫn dắt trong 2022–2023 là ADIA, Mubadala (UAE) và PIF:
+
+- **PIF** đầu tư trong nước vào vận tải, logistics, khách sạn, giải trí và xe điện (thương hiệu Ceer), cùng năm siêu dự án: NEOM, ROSHN, Qiddiya, Diriyah và Red Sea Global. Ở nước ngoài, PIF có cổ phần ở Lucid, Uber, Blackstone và SoftBank Vision Fund.
+- **Mubadala** tập trung vào năng lượng sạch, trí tuệ nhân tạo, viễn thông và sản xuất tiên tiến, với các khoản như Tata Power Renewables, Envirotainer, GlobalConnect và Skyborn Renewables.
+
+**Cơ cấu vốn ra của quỹ.** Theo điểm đến, châu Âu áp đảo cho tới năm 2019; giai đoạn 2020–2023, Tây Bán cầu chiếm khoảng 42% và châu Âu khoảng 32%. Theo ngành, giai đoạn 2000–2008 tài chính chiếm khoảng 67%; đến 2020–2023, vận tải và viễn thông chiếm khoảng 65% và sản xuất khoảng 20%.
+
+Bài cảnh báo về **rủi ro tập trung**: nếu các quỹ cùng dồn vào một phân ngành dịch vụ (như tiêu dùng nội địa hay du lịch), hoặc nếu mọi quỹ trên thế giới cùng dồn vào dịch vụ, các khoản đầu tư sẽ lên xuống cùng nhau, tức rủi ro có tương quan, và một cú sốc vào ngành đó sẽ đánh vào tất cả cùng lúc.
+
+**Đầu tư xanh.** Vốn ra mới vào năng lượng tái tạo tăng vọt trong 2022 và 2023, khoảng 50 tỷ USD mỗi năm, chiếm phần lớn giá trị đầu tư xanh mới, chủ yếu do các quỹ của UAE và Ả-rập Xê-út. Ví dụ bài nêu: ADIA đầu tư vào điện mặt trời ở Maroc, PIF đầu tư vào điện gió ở Jordan. Tuy nhiên số thương vụ xanh còn ít, không đủ để ước lượng tác động bằng hồi quy.
 
 ### 5. Kết quả thực nghiệm
 
-- Vốn vào có quan hệ dương rõ với GDP thực ngành phi dầu khí, khoảng một phần trăm sau ba năm và một phẩy hai phần trăm sau bốn năm.
-- Nếu gộp ngành tài chính, tác động giảm hơn một nửa, cho thấy dựa vào tài chính để đa dạng hoá kém hiệu quả hơn so với thúc đẩy nhiều ngành sản xuất giá trị cao.
-- Đầu tư trong nước có quan hệ dương nhưng yếu hơn, khoảng không phẩy ba tới không phẩy bốn phần trăm sau năm năm.
-- Đầu tư trong nước do quỹ dẫn dắt có tác động lớn hơn và tăng dần theo thời gian, có thể nhờ nhiệm vụ chiến lược nhắm vào dự án rủi ro cao giúp giảm rủi ro cho hệ sinh thái và kéo tư nhân vào.
-- Vốn ra, kể cả của quỹ, không có quan hệ có ý nghĩa với tăng trưởng phi dầu trong nước.
-- Chưa thấy khác biệt giữa đầu tư công nghệ cao và thấp, và chưa thấy tác động vững lên độ phức tạp kinh tế và đa dạng hoá, chủ yếu vì hạn chế dữ liệu.
+Bảng dưới cho phản ứng của GDP thực ngành (tính bằng %) khi đầu tư tăng 1 điểm phần trăm GDP ngành, qua từ năm 0 (năm xảy ra) đến năm 5. Mỗi loại đầu tư được ước lượng trong một phương trình riêng. Dấu sao chỉ mức ý nghĩa thống kê.
+
+| Loại đầu tư | Năm 0 | Năm 1 | Năm 2 | Năm 3 | Năm 4 | Năm 5 |
+|---|---|---|---|---|---|---|
+| **Vốn vào** | 0,16 | 0,53\*\*\* | 0,76\*\*\* | 0,96\*\*\* | **1,10\*\*\*** | 0,85\*\*\* |
+| Đầu tư trong nước | −0,08 | 0,16 | 0,17 | 0,15 | 0,45 | 0,43 |
+| Vốn ra | 0,04 | 0,01 | 0,02 | 0,06 | 0,18 | 0,14 |
+| **Đầu tư trong nước của quỹ** | 0,01 | 0,16 | 0,17 | 0,20 | **0,41\*** | **0,51\*** |
+| Vốn ra của quỹ | 0,02 | 0,04 | −0,02 | 0,00 | 0,03 | −0,08 |
+
+Đọc bảng này theo bốn ý:
+
+1. **Vốn vào có quan hệ dương rõ với GDP thực ngành phi dầu khí.** Tác động tăng dần, đạt khoảng 1% sau ba năm và hơn 1% sau bốn năm (hệ số 1,10 trong bảng; phần lời của bài mô tả mức khoảng 1,2% sau bốn năm), rồi còn 0,85 ở năm thứ năm. Đây là bằng chứng cho thấy vốn vào là động lực của tăng trưởng phi dầu khí và đa dạng hoá.
+2. **Vốn vào mạnh gần gấp ba đầu tư trong nước.** So 1,10 của vốn vào với khoảng 0,4 của đầu tư trong nước ở năm thứ tư.
+3. **Đầu tư trong nước nói chung có quan hệ dương nhưng yếu hơn và không có ý nghĩa thống kê**, khoảng 0,3 tới 0,4% sau năm năm (0,43 trong bảng). **Nhưng phần do quỹ dẫn dắt thì có ý nghĩa**: khoảng 0,4% sau bốn năm (0,41) và 0,51 sau năm năm, tức tác động lớn hơn và tăng dần theo thời gian.
+4. **Vốn ra, kể cả của quỹ, không có quan hệ có ý nghĩa với tăng trưởng phi dầu khí trong nước.** Các hệ số đều gần 0 và có lúc âm.
+
+Một lưu ý quan trọng: khi đưa cả ba loại đầu tư vào cùng một phương trình, đỉnh của vốn vào chỉ còn 0,22 (một sao, ở năm thứ 3), còn đầu tư trong nước là 0,31 (hai sao, ở năm thứ 4). Tức là trong phép so sánh trực tiếp này, thứ tự giữa hai loại đổi chiều.
+
+**Nếu gộp ngành tài chính.** Khi đưa ngành tài chính trở lại mẫu, tác động của vốn vào giảm hơn một nửa, từ khoảng 1% xuống khoảng 0,45%. Hai hàm ý: thứ nhất, dựa vào ngành tài chính để đa dạng hoá kém hiệu quả hơn thúc đẩy nhiều ngành sản xuất giá trị cao; thứ hai, cần cẩn trọng với con số FDI tổng, vì nó có thể bị dòng vốn vào tài chính thổi phồng, và cần phân tích theo ngành.
+
+**Vì sao đầu tư trong nước yếu hơn.** Bài đưa ra ba lý do:
+
+- Nhiều dự án có thời gian hoàn vốn rất dài, như nhà máy điện hạt nhân của UAE hay NEOM, nên tác động chưa hiện ra trong năm năm; hoặc đơn giản là dự án kém hiệu quả.
+- Hạ tầng có thể kéo đầu tư tư nhân vào (một trung tâm logistics kéo theo sản xuất và vận tải), nhưng nếu phân bổ tồi thì tạo ra "con voi trắng".
+- Dồn tiền vào siêu dự án có thể khiến bỏ qua các khoản đầu tư nhỏ hơn nhưng đúng mục tiêu hơn.
+
+**Vì sao đầu tư trong nước của quỹ mạnh hơn.** Quỹ có nhiệm vụ chiến lược nhắm vào các ngành năng suất cao và rủi ro cao. Khi một nhà đầu tư lớn của nhà nước đi trước và chịu phần rủi ro ban đầu, rủi ro cho cả hệ sinh thái giảm xuống, và nhà đầu tư tư nhân được kéo vào theo.
+
+**Những gì chưa thấy được.** Bài thử thêm ba phân tích nhưng chưa tìm được kết quả vững, chủ yếu vì hạn chế dữ liệu:
+
+1. **Công nghệ cao và dịch vụ tri thức.** Không có khác biệt có ý nghĩa giữa vốn vào công nghệ cao và công nghệ thấp. Lý do: tỷ trọng công nghệ cao còn nhỏ và chỉ mới tăng gần đây; số liệu GDP theo ngành chưa đủ chi tiết (vận tải với thông tin và truyền thông bị gộp chung). Ví dụ Lucid Motors cho thấy độ trễ: PIF đầu tư 1 tỷ USD năm 2018, đến năm 2024 nắm khoảng 60% cổ phần trị giá khoảng 8 tỷ USD. Nhà máy ô tô đầu tiên của Ả-rập Xê-út, đặt tại Thành phố Kinh tế Vua Abdullah, chỉ bắt đầu chạy từ tháng 9/2023 với công suất 155.000 xe điện mỗi năm, nên tác động của nó chưa vào số liệu.
+2. **Vốn ra công nghệ cao của quỹ.** Tăng 1 điểm phần trăm GDP đi kèm khoảng 0,2% tăng trưởng phi dầu khí. Con số này không có ý nghĩa thống kê, nhưng dấu dương gợi ý có thể có chuyển giao công nghệ; cũng có dấu hiệu vốn ra trước đó kéo theo vốn vào sau.
+3. **Độ phức tạp kinh tế và đa dạng hoá.** Tương quan đơn giản cho thấy vốn vào và vốn ra của quỹ đi cùng mức đa dạng hoá tổng thể và đa dạng hoá thương mại cao hơn, và chỉ số phức tạp kinh tế (ECI) tốt hơn (trong cách xếp hạng bài dùng, ECI thấp hơn nghĩa là phức tạp hơn). Nhưng quan hệ này không có ý nghĩa và không vững. Lý do: vấn đề nội sinh và nhân quả ngược (nước đa dạng hơn có thể thu hút nhiều vốn hơn, chứ không phải ngược lại); dữ liệu chỉ có ở cấp nước nên quá ít quan sát; và tác động có thể đến sau khung thời gian của dữ liệu.
 
 ### 6. Kết luận và hàm ý
 
-- Cần tiếp tục chính sách thu hút đầu tư nước ngoài: cải thiện môi trường kinh doanh, củng cố thể chế, và khuyến khích đầu tư trong nước theo hình thức hợp tác với nhà đầu tư tư nhân quốc tế.
-- Cần tăng liên kết giữa đầu tư nước ngoài với sản xuất trong nước.
-- Quỹ tài sản quốc gia là tác nhân then chốt trong chuyển đổi và hội nhập khu vực, nhưng cần quản lý rủi ro tập trung vào một số phân ngành dịch vụ.
-- Nghiên cứu sau cần chuỗi dài hơn và dữ liệu năng suất cấp doanh nghiệp để phát hiện lợi ích đến chậm như chuyển giao tri thức và lan toả công nghệ.
+Từ các kết quả trên, bài rút ra bốn hàm ý:
+
+- **Tiếp tục thu hút đầu tư nước ngoài**, vì đây là loại đầu tư có quan hệ mạnh nhất với tăng trưởng phi dầu khí. Cách làm là cải thiện môi trường kinh doanh, củng cố thể chế, và khuyến khích đầu tư trong nước theo hình thức hợp tác với nhà đầu tư tư nhân quốc tế.
+- **Tăng liên kết giữa đầu tư nước ngoài với sản xuất trong nước**, để lợi ích của vốn vào lan sang doanh nghiệp nội địa.
+- **Quỹ tài sản quốc gia là tác nhân then chốt** trong chuyển đổi kinh tế và hội nhập khu vực, nhất là qua đầu tư trong nước. Nhưng các quỹ cần quản lý rủi ro tập trung khi cùng dồn vào một số phân ngành dịch vụ.
+- **Nghiên cứu tiếp theo cần chuỗi số liệu dài hơn và dữ liệu năng suất cấp doanh nghiệp**, để phát hiện các lợi ích đến chậm như chuyển giao tri thức và lan toả công nghệ, vốn chưa thể thấy trong khung 2000–2023.
 
 ## Thuật ngữ
 

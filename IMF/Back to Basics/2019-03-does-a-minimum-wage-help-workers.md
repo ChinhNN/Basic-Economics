@@ -42,19 +42,57 @@
 1. Lương tối thiểu được biện minh bằng gì và bị phê phán ra sao?
 2. Tăng lương tối thiểu có thực sự có lợi cho người thu nhập thấp không?
 
-## Dàn ý chi tiết (phần có trong PDF)
+## Khái niệm cần biết
+
+**Lương tối thiểu (minimum wage).** Mức lương thấp nhất mà luật cho phép chủ trả cho người lao động, thường do chính phủ đặt. Ví dụ minh hoạ: nếu lương tối thiểu là 25.000 đồng một giờ, chủ trả 22.000 đồng một giờ là vi phạm luật. Đây là công cụ chính sách mà cả bài xoay quanh: nó có thật sự giúp người ở đáy thang lương hay không.
+
+**Mức chung và mức phân biệt.** Một nước có thể đặt **một mức chung** cho toàn bộ nền kinh tế, hoặc đặt **nhiều mức khác nhau** theo ngành, theo loại lao động (hay theo vùng). Ví dụ trong bài: Pháp dùng một mức chung; New Zealand và Nam Phi phân biệt theo ngành và loại lao động. Khái niệm này quan trọng vì một mức duy nhất có thể quá thấp ở nơi lương cao và quá cao ở nơi lương thấp.
+
+**Tuân thủ (compliance).** Mức độ mà các chủ thực sự trả đúng luật. Ví dụ minh hoạ: nếu trong 100 lao động lương thấp chỉ 60 người được trả ít nhất bằng mức tối thiểu, mức tuân thủ là 60%. Bài coi tuân thủ là điều kiện đầu tiên: nếu luật chỉ nằm trên giấy, nâng lương tối thiểu không thay đổi gì.
+
+**Kinh tế ngầm (shadow economy).** Phần hoạt động kinh tế không khai báo với nhà nước, nên không nộp thuế và không chịu các quy định như lương tối thiểu hay bảo hiểm. Ví dụ minh hoạ: một xưởng thuê 10 thợ nhưng chỉ đăng ký 4 người, 6 người còn lại làm "chui". Khái niệm này quan trọng vì ở nước có kinh tế ngầm lớn, chủ có nhiều cách né luật lương tối thiểu.
+
+**"Tiền phong bì" (envelope payments).** Khoản trả thêm ngoài sổ sách, bằng tiền mặt, để chủ né thuế và các khoản đóng góp phúc lợi tính trên lương chính thức. Ví dụ minh hoạ: một người thực nhận 8 triệu đồng mỗi tháng, trong đó 5 triệu ghi trên hợp đồng và 3 triệu trả "phong bì". Nếu lương tối thiểu tăng lên 6 triệu, chủ có thể ghi 6 triệu trên hợp đồng và giảm phong bì xuống 2 triệu; người lao động vẫn nhận 8 triệu. Đây là cơ chế cụ thể bài dùng để giải thích vì sao tăng lương tối thiểu có thể không làm thu nhập tăng.
+
+**Bóp méo thị trường (distortion).** Khi một quy định đẩy giá (ở đây là tiền lương) lệch khỏi mức mà cung và cầu tự gặp nhau, làm thay đổi hành vi của người mua và người bán theo cách không mong muốn. Ví dụ minh hoạ: nếu lương tối thiểu cao hơn nhiều so với giá trị mà một người tạo ra cho chủ, chủ có thể không thuê người đó nữa. Đây là lõi của lập luận phê phán: lương tối thiểu có thể phá vỡ thị trường lao động và phản tác dụng.
+
+**Hỗ trợ xã hội nhắm mục tiêu (targeted social assistance).** Khoản trợ giúp nhà nước trả trực tiếp cho người hoặc hộ có thu nhập thấp, thay vì ép chủ trả lương cao hơn. Ví dụ minh hoạ: nhà nước trả thêm 1 triệu đồng mỗi tháng cho mọi hộ có thu nhập dưới một ngưỡng. Người phê phán lương tối thiểu cho rằng cách này nhắm đúng đối tượng hơn và ít bóp méo hơn.
+
+## Nội dung chi tiết (phần có trong PDF)
 
 ### 1. Bối cảnh
 
-- Hầu như mọi nước đều có lương tối thiểu. Chi tiết khác nhau: Pháp đặt một mức chung cho cả nền kinh tế; New Zealand và Nam Phi phân biệt theo ngành và loại lao động. Thường chính phủ đặt mức và định kỳ sửa đổi sau khi tham vấn giới chủ và tổ chức lao động.
-- **Biện minh:** lý do đạo đức, xã hội và kinh tế. Mục tiêu bao trùm là tăng thu nhập và cải thiện phúc lợi người ở đáy thang lương, đồng thời giảm bất bình đẳng và thúc đẩy bao trùm xã hội.
-- **Phê phán:** thay vì cải thiện phúc lợi, lương tối thiểu phản tác dụng vì phá vỡ thị trường lao động. Có những cách hỗ trợ xã hội nhắm đúng đối tượng hơn và ít bóp méo hơn.
+Hầu như nước nào cũng có lương tối thiểu, nhưng cách thiết kế rất khác nhau. Có nước đặt **một mức chung** cho cả nền kinh tế, như Pháp. Có nước **phân biệt** mức tối thiểu theo ngành và theo loại lao động, như New Zealand và Nam Phi. Về quy trình, thông thường chính phủ là bên đặt mức lương tối thiểu và định kỳ sửa đổi mức đó, sau khi tham vấn giới chủ và các tổ chức của người lao động. Tức là mức lương tối thiểu không do thị trường quyết định mà là kết quả của một quyết định hành chính có thương lượng.
+
+Bài trình bày hai phía của cuộc tranh luận.
+
+**Phía ủng hộ** đưa ra ba loại lý do: đạo đức, xã hội và kinh tế. Mục tiêu bao trùm là tăng thu nhập và cải thiện phúc lợi của những người ở đáy thang lương. Đi kèm là hai mục tiêu rộng hơn: giảm bất bình đẳng thu nhập, và thúc đẩy bao trùm xã hội, nghĩa là giúp người lao động lương thấp không bị gạt ra ngoài lề xã hội.
+
+**Phía phê phán** cho rằng lương tối thiểu không cải thiện phúc lợi mà còn **phản tác dụng**, vì nó phá vỡ cách thị trường lao động vận hành. Lập luận phổ biến: nếu luật buộc chủ trả cao hơn mức họ sẵn lòng trả cho một số công việc, họ sẽ thuê ít người hơn. Phía phê phán còn cho rằng, nếu mục đích là giúp người thu nhập thấp, có những cách hỗ trợ xã hội **nhắm đúng đối tượng hơn** và **ít bóp méo hơn**, chẳng hạn trợ cấp trực tiếp từ ngân sách cho hộ nghèo.
+
+| | Ủng hộ | Phê phán |
+|---|---|---|
+| Loại lập luận | Đạo đức, xã hội, kinh tế | Kinh tế: hiệu quả của thị trường lao động |
+| Tác động dự kiến | Nâng thu nhập và phúc lợi người lương thấp, giảm bất bình đẳng, thúc đẩy bao trùm xã hội | Phá vỡ thị trường lao động, phản tác dụng |
+| Phương án đề xuất | Đặt và định kỳ nâng mức tối thiểu | Dùng hỗ trợ xã hội nhắm đúng hơn, ít méo mó hơn |
 
 ### 2. Tác động lên phúc lợi
 
-- Tăng lương tối thiểu có thực sự lợi cho người thu nhập thấp không? Còn tuỳ.
-- **Thứ nhất, chủ có thể không tuân thủ.** Nếu không ai thực nhận mức tối thiểu, hoặc luật chủ yếu trên giấy, thì nó vô nghĩa. Ở nước có kinh tế ngầm lớn, chủ thường trả thêm ngoài sổ, gọi là "tiền phong bì", để trốn thuế hoặc chi phí phúc lợi. Khi lương tối thiểu tăng, chủ có thể giảm phong bì, tổng thu nhập không đổi. Chủ cũng có thể khai thiếu giờ làm, hoặc không khai lao động, né hoàn toàn luật.
-- **Thứ hai, kể cả khi tuân thủ đầy đủ,** thu nhập thêm vẫn có thể gặp... (bài bị cắt tại đây trong PDF; theo tiêu đề phụ, phần còn lại bàn về nguy cơ chủ cắt việc làm khi mức lương quá hào phóng).
+Câu hỏi trung tâm của bài là: tăng lương tối thiểu có thực sự có lợi cho người thu nhập thấp không? Câu trả lời của bài là **còn tuỳ**, và bài chỉ ra hai điều kiện cần xét lần lượt.
+
+**Điều kiện thứ nhất: chủ có tuân thủ không.** Một mức lương tối thiểu chỉ có tác dụng nếu nó thực sự được trả. Nếu không ai thực nhận mức tối thiểu, hoặc nếu luật chủ yếu chỉ nằm trên giấy, thì luật đó vô nghĩa: nâng mức tối thiểu lên bao nhiêu cũng không thay đổi thu nhập của ai.
+
+Ở những nước có kinh tế ngầm lớn, chủ còn có những cách tinh vi hơn để vô hiệu hoá việc tăng lương tối thiểu, ngay cả khi trên sổ sách họ vẫn tuân thủ. Bài nêu ba cách:
+
+1. **Giảm "tiền phong bì".** Ở những nước này, chủ thường trả cho người lao động một phần thu nhập ngoài sổ sách, gọi là "tiền phong bì", để trốn thuế hoặc trốn các khoản chi phí phúc lợi tính trên lương chính thức. Khi lương tối thiểu tăng, chủ chỉ cần tăng phần lương ghi trên sổ lên đúng mức mới và giảm phần phong bì tương ứng. Tổng thu nhập người lao động nhận được **không đổi**. Ví dụ minh hoạ: lương trên sổ 5 triệu đồng cộng phong bì 3 triệu đồng; lương tối thiểu tăng lên 6 triệu thì lương trên sổ thành 6 triệu, phong bì còn 2 triệu, tổng vẫn là 8 triệu.
+2. **Khai thiếu giờ làm.** Chủ ghi số giờ làm thấp hơn thực tế, nên mức lương theo giờ trên giấy đạt mức tối thiểu trong khi số tiền thực trả không tăng.
+3. **Không khai báo lao động.** Chủ không đăng ký người lao động với nhà nước, tức là đưa quan hệ lao động ra ngoài hoàn toàn phạm vi của luật.
+
+Điểm chung của ba cách là: luật lương tối thiểu không bị vi phạm một cách công khai, nhưng mục tiêu của nó (nâng thu nhập thực tế) không đạt được.
+
+**Điều kiện thứ hai: kể cả khi tuân thủ đầy đủ**, phần thu nhập tăng thêm vẫn có thể gặp... Bài bị cắt tại đây trong bản PDF. Theo tiêu đề phụ của bài, phần còn lại bàn về nguy cơ chủ cắt việc làm khi mức lương tối thiểu quá hào phóng: nếu chủ buộc phải trả nhiều hơn giá trị mà một số công việc tạo ra, họ có thể cắt bớt những công việc đó, và người lao động lương thấp nhất lại là người mất việc. Chi tiết của lập luận này không có trong tài liệu.
+
+Tóm lại, theo phần có trong PDF, việc tăng lương tối thiểu giúp được người lao động khi hai điều kiện cùng được đáp ứng: (1) luật được thực thi thật, không bị né qua tiền phong bì, khai thiếu giờ hay không khai báo lao động; và (2) mức lương không cao đến mức khiến chủ cắt việc làm.
 
 ## Thuật ngữ
 

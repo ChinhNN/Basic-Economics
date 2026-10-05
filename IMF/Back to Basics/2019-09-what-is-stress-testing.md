@@ -78,32 +78,98 @@
 2. Kịch bản bất lợi được thiết kế thế nào?
 3. Stress test có giới hạn gì và cần dùng ra sao?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Kiểm tra sức chịu đựng (stress test).** Một bài mô phỏng: giả định một tình huống xấu xảy ra (suy thoái, giá nhà sụp, rút tiền hàng loạt), rồi tính xem ngân hàng hay cả hệ thống tài chính có đứng vững được không. Ví dụ trong bài: ngân hàng có sống nổi nếu một nửa số người vay thế chấp mất việc và ngừng trả nợ; công ty bảo hiểm có đủ tiền chi trả nếu xảy ra động đất 8 độ ở Tokyo. Đây là công cụ mà cả bài giải thích.
+
+**Vốn của ngân hàng (bank capital).** Phần tiền thuộc về chủ sở hữu ngân hàng, tức tài sản trừ đi các khoản nợ (tiền gửi, tiền vay). Vốn là "tấm đệm" hấp thụ lỗ: khi ngân hàng lỗ, vốn giảm trước, người gửi tiền chưa bị ảnh hưởng. Ví dụ minh hoạ: ngân hàng có tài sản 100 tỷ USD, nợ 90 tỷ USD thì vốn là 10 tỷ USD. Khái niệm này cần để hiểu phép kiểm tra khả năng thanh toán.
+
+**Khả năng thanh toán (solvency).** Ngân hàng có đủ vốn để hấp thụ lỗ mà vẫn còn giá trị dương hay không. Ví dụ trong bài: giá nhà giảm 50% làm ngân hàng lỗ 1 tỷ USD; nếu vốn là 10 tỷ USD thì ngân hàng còn 9 tỷ và sống; nếu vốn chỉ 1 tỷ USD thì vốn về 0 và ngân hàng mất khả năng thanh toán. Đây là một trong hai câu hỏi chính mà stress test trả lời.
+
+**Thanh khoản (liquidity).** Ngân hàng có đủ tiền mặt, hoặc tài sản đổi ra tiền mặt nhanh, để trả người gửi tiền và các khoản nợ đến hạn hay không. Một ngân hàng có thể có đủ vốn nhưng vẫn sụp vì hết tiền mặt đúng lúc. Ví dụ trong bài: người gửi hoảng loạn rút 50 triệu USD; nếu không vay được, ngân hàng vẫn sống nếu có trái phiếu chính phủ bán nhanh được. Đây là câu hỏi chính thứ hai của stress test.
+
+**Kịch bản "nghiêm trọng nhưng khả dĩ" (severe but plausible).** Tình huống giả định phải đủ xấu để thử sức chịu đựng thật sự (xác suất thấp, hậu quả lớn) nhưng không được phi lý. Ví dụ trong bài: động đất trăm năm mới có một lần, lặp lại khủng hoảng 2008, hay chính phủ vỡ nợ là nghiêm trọng mà khả dĩ; người Sao Hoả xâm lược là phi lý. Đây là thành phần then chốt của mọi stress test.
+
+**Lan truyền (contagion).** Đổ vỡ của một ngân hàng kéo theo ngân hàng khác, vì các ngân hàng cho nhau vay, nắm tài sản giống nhau, hoặc khiến người gửi tiền mất niềm tin cùng lúc. Ví dụ minh hoạ: ngân hàng A nợ ngân hàng B 2 tỷ USD; A sụp thì B mất khoản đó và có thể lung lay theo. Khái niệm này giải thích vì sao bài nhấn mạnh việc nhìn cả hệ thống chứ không chỉ từng ngân hàng.
+
+**Rủi ro khí hậu vật lý và rủi ro chuyển đổi (physical risk, transition risk).** Rủi ro vật lý là thiệt hại trực tiếp từ thiên tai như lũ, hạn. Rủi ro chuyển đổi là thiệt hại khi chính sách chống biến đổi khí hậu (ví dụ thuế carbon) làm các ngành dùng nhiên liệu hoá thạch suy giảm. Ví dụ trong bài: thuế carbon làm công ty than lỗ, vỡ nợ, khiến ngân hàng cho vay bị lỗ và trái phiếu, cổ phiếu của công ty mất giá. Bài coi khí hậu là một trong những rủi ro mới mà stress test phải bao quát.
+
+**FSAP (Chương trình Đánh giá Khu vực Tài chính).** Chương trình do IMF và Ngân hàng Thế giới cùng thực hiện từ 1999 để đánh giá hệ thống tài chính của từng nước, trong đó có stress test. Khác với cơ quan quốc gia, FSAP nhìn toàn hệ thống chứ không tập trung vào từng ngân hàng. Khái niệm này giúp hiểu hai cách dùng stress test mà bài so sánh.
+
+## Nội dung chi tiết
 
 ### 1. Stress test là gì
 
-- Làm sao biết hệ thống tài chính khoẻ? Ngân hàng có sống qua suy thoái nếu nửa khách vay thế chấp mất việc và ngừng trả nợ? Bảo hiểm có đủ tiền chi trả nếu động đất 8 độ ở Tokyo? Câu trả lời nằm ở stress test.
-- Chú ý tăng vọt trong khủng hoảng 2008 khi ngân hàng mất số tiền khổng lồ, Lehman Brothers phá sản, nhiều tổ chức cần cứu trợ hàng tỷ USD từ tiền thuế. Cơ quan quản lý ở nước bị khủng hoảng dùng stress test rộng rãi để giảm bất định về sức khoẻ ngân hàng và quyết định xử lý ngân hàng yếu.
-- **Khả năng thanh toán (solvency):** đủ vốn để hấp thụ lỗ không. Ngân hàng lỗ 1 tỷ USD khi giá nhà giảm 50% sẽ sống nếu vốn 10 tỷ, không sống nếu vốn 1 tỷ.
-- **Thanh khoản (liquidity):** đủ tiền mặt trả tiền gửi và nợ khác không. Người gửi hoảng loạn rút 50 triệu USD: nếu không vay được để bù, ngân hàng vẫn sống nếu có tài sản bán nhanh được như trái phiếu chính phủ.
+Bài mở đầu bằng câu hỏi: làm sao biết hệ thống tài chính có khoẻ hay không? Câu hỏi này được cụ thể hoá thành những tình huống rất rõ. Một ngân hàng có sống qua được một cuộc suy thoái nếu một nửa số khách vay thế chấp mua nhà mất việc và ngừng trả nợ? Một công ty bảo hiểm có đủ tiền chi trả nếu xảy ra một trận động đất 8 độ ở Tokyo? Công cụ để trả lời những câu hỏi đó là kiểm tra sức chịu đựng, hay stress test.
+
+Stress test được chú ý đặc biệt từ khủng hoảng tài chính 2008. Khi đó các ngân hàng mất những khoản tiền khổng lồ, Lehman Brothers phá sản, và nhiều tổ chức tài chính phải được cứu trợ hàng tỷ USD (cộng lại tới hàng nghìn tỷ) từ tiền thuế. Trong lúc thị trường không biết ngân hàng nào còn khoẻ, ngân hàng nào đã yếu, cơ quan quản lý ở các nước bị khủng hoảng dùng stress test rộng rãi với hai mục đích: giảm sự bất định về sức khoẻ của các ngân hàng, và có căn cứ để quyết định xử lý những ngân hàng yếu.
+
+Một stress test trả lời hai câu hỏi khác nhau:
+
+| Câu hỏi | Nội dung | Ví dụ trong bài |
+|---|---|---|
+| **Khả năng thanh toán** (solvency) | Ngân hàng có đủ vốn để hấp thụ lỗ không? | Giá nhà giảm 50% làm ngân hàng lỗ 1 tỷ USD. Ngân hàng có vốn 10 tỷ USD sẽ sống sót; ngân hàng chỉ có vốn 1 tỷ USD thì không. |
+| **Thanh khoản** (liquidity) | Ngân hàng có đủ tiền mặt để trả tiền gửi và các khoản nợ khác khi đến hạn không? | Người gửi hoảng loạn rút đột ngột 50 triệu USD. Nếu không vay được tiền để bù, ngân hàng vẫn sống nếu có tài sản bán nhanh được như trái phiếu chính phủ. |
+
+Hai câu hỏi này khác nhau ở bản chất. Khả năng thanh toán là chuyện "đủ giàu": tổng tài sản có còn lớn hơn tổng nợ sau khi chịu lỗ không. Thanh khoản là chuyện "đủ tiền mặt đúng lúc": một ngân hàng giàu nhưng tài sản nằm hết trong các khoản cho vay dài hạn vẫn có thể sụp nếu không đổi được ra tiền mặt khi người gửi rút.
 
 ### 2. Nghiêm trọng nhưng khả dĩ
 
-- Thành phần then chốt là kịch bản bất lợi vừa nghiêm trọng vừa khả dĩ. Nghiêm trọng: sự kiện xác suất thấp nhưng hậu quả thảm khốc, như động đất trăm năm có một, lặp lại khủng hoảng 2008, vỡ nợ chính phủ. Khả dĩ: loại trừ giả định phi lý như người Sao Hoả xâm lược. Kịch bản lịch sử hữu ích nhưng có thể bỏ sót rủi ro mới: gián đoạn lớn do công nghệ tài chính hay biến đổi khí hậu chưa xảy ra nhưng khả dĩ.
-- **Quy trình:** bắt đầu từ danh sách rủi ro đặc thù từng nước, ví dụ sản xuất suy giảm mạnh ở nền kinh tế dựa vào nhà máy, hay khủng bố ở nước phụ thuộc du lịch. Dựng câu chuyện cho kịch bản và ước lượng GDP, lãi suất phản ứng thế nào. Rồi đánh giá khách hàng ngân hàng hành xử ra sao: bao nhiêu hộ và doanh nghiệp còn trả nợ nếu kinh tế lao dốc, họ rút tiền gửi thế nào. Cuối cùng đo hành vi đó ảnh hưởng thanh khoản và vốn ngân hàng ra sao.
-- Vì liên kết giữa ngân hàng, đổ vỡ của vài ngân hàng có thể lan khắp hệ thống, hại kinh tế rộng hơn. Nếu ngân hàng ngừng cho vay, doanh nghiệp thu hẹp và sa thải; không có thế chấp, gia đình không mua được nhà.
+Thành phần then chốt của mọi stress test là một **kịch bản bất lợi vừa nghiêm trọng vừa khả dĩ**.
+
+- **Nghiêm trọng** nghĩa là sự kiện có xác suất thấp nhưng hậu quả thảm khốc. Ví dụ: một trận động đất trăm năm mới có một lần, một cuộc khủng hoảng lặp lại năm 2008, hay chính phủ vỡ nợ.
+- **Khả dĩ** nghĩa là loại trừ những giả định phi lý. Ví dụ bài đưa ra để minh hoạ cho sự phi lý là người Sao Hoả xâm lược Trái Đất.
+
+Kịch bản dựa trên lịch sử (lấy lại những gì đã xảy ra trong các cuộc khủng hoảng trước) rất hữu ích, vì chúng chắc chắn khả dĩ. Nhưng chúng có thể bỏ sót **rủi ro mới**, những thứ chưa từng xảy ra nhưng hoàn toàn có thể xảy ra, như một gián đoạn lớn do công nghệ tài chính (fintech) hay do biến đổi khí hậu.
+
+Bài mô tả quy trình xây dựng một stress test theo bốn bước:
+
+| Bước | Việc làm | Ví dụ |
+|---|---|---|
+| 1. Liệt kê rủi ro đặc thù | Bắt đầu từ danh sách các rủi ro riêng của từng nước | Sản xuất suy giảm mạnh ở một nền kinh tế dựa vào nhà máy; khủng bố ở một nước phụ thuộc vào du lịch |
+| 2. Dựng câu chuyện | Viết diễn biến của kịch bản và ước lượng các biến vĩ mô phản ứng thế nào | GDP giảm bao nhiêu, lãi suất thay đổi ra sao |
+| 3. Mô phỏng phản ứng của khách hàng | Đánh giá khách hàng của ngân hàng hành xử thế nào | Bao nhiêu hộ gia đình và doanh nghiệp còn trả được nợ nếu kinh tế lao dốc; họ rút tiền gửi ra sao |
+| 4. Đo tác động lên ngân hàng | Tính hành vi của khách hàng ảnh hưởng tới thanh khoản và vốn của ngân hàng như thế nào | Vốn còn lại bao nhiêu, tiền mặt có đủ không |
+
+Bước cuối cùng không dừng ở từng ngân hàng riêng lẻ. Vì các ngân hàng liên kết với nhau (cho nhau vay, giao dịch với nhau), đổ vỡ của vài ngân hàng có thể **lan truyền** khắp hệ thống, rồi lan sang nền kinh tế thực. Bài nêu hai kênh cụ thể: nếu ngân hàng ngừng cho vay, doanh nghiệp phải thu hẹp hoạt động và sa thải người lao động; nếu không vay thế chấp được, các gia đình không mua được nhà. Tức là một cú sốc tài chính có thể biến thành một cuộc suy thoái.
 
 ### 3. Rủi ro mới nổi
 
-- Stress test thường tập trung ngân hàng vì quy mô và tầm quan trọng. Nhưng nhà cung cấp dịch vụ tài chính khác và nguồn tài trợ như phát hành trái phiếu tăng nhanh, nên stress test ngày càng phủ quỹ tương hỗ, bảo hiểm, phi ngân hàng và nguồn rủi ro mới. Stress test IMF gần đây xem xét công nghệ tài chính mới có thể ép biên lợi nhuận của công ty tài chính hiện hữu. Ngân hàng phụ thuộc bên thứ ba như điện toán đám mây tạo thách thức mới.
-- **Khí hậu:** hai loại rủi ro. Rủi ro vật lý đã thấy ở tần suất và cường độ lũ, hạn, thiên tai tăng: bảo hiểm nhà cửa, thảm hoạ có thể lỗ hoặc tăng phí đến mức nhiều hộ không mua nổi. Rủi ro chuyển đổi đến từ suy giảm ngành than khi áp thuế carbon: công ty lỗ, vỡ nợ, giảm lợi nhuận ngân hàng; trái phiếu và cổ phiếu của họ mất giá, gây lỗ cho nhà đầu tư.
-- **IMF** áp dụng stress test từ khủng hoảng tài chính châu Á 1997, thuộc nhóm tổ chức đầu tiên. Stress test nằm trong Chương trình Đánh giá Khu vực Tài chính (FSAP) do IMF và Ngân hàng Thế giới cùng thực hiện từ 1999. Nét riêng: tập trung toàn hệ thống thay vì từng tổ chức. Sau khi nhận diện, đánh giá khuyến nghị cách giảm rủi ro trước khi thành hiện thực và kiểm soát thiệt hại nếu xảy ra.
-- **Cơ quan quốc gia** ở Mỹ, khu vực euro và nơi khác áp dụng stress test từ 2008 và công bố kết quả để củng cố niềm tin. Khác IMF, trọng tâm là tìm điểm yếu từng ngân hàng và cân nhắc biện pháp phục hồi hoặc đóng cửa.
+Stress test thường tập trung vào ngân hàng vì ngân hàng có quy mô lớn và giữ vai trò quan trọng trong hệ thống. Nhưng các nhà cung cấp dịch vụ tài chính khác, và các nguồn tài trợ khác như phát hành trái phiếu, đang tăng nhanh. Vì vậy phạm vi của stress test ngày càng mở rộng sang quỹ tương hỗ, công ty bảo hiểm, các tổ chức tài chính phi ngân hàng, và sang các nguồn rủi ro mới:
+
+- **Công nghệ tài chính.** Một stress test gần đây của IMF xem xét khả năng các công nghệ tài chính mới cạnh tranh và ép biên lợi nhuận của các công ty tài chính hiện hữu.
+- **Phụ thuộc vào bên thứ ba.** Ngân hàng ngày càng dựa vào nhà cung cấp bên ngoài, ví dụ dịch vụ điện toán đám mây; sự cố ở một nhà cung cấp có thể ảnh hưởng nhiều ngân hàng cùng lúc.
+- **Khí hậu**, với hai loại rủi ro:
+
+| Loại rủi ro | Nguồn gốc | Hậu quả với hệ thống tài chính |
+|---|---|---|
+| Rủi ro vật lý | Tần suất và cường độ lũ lụt, hạn hán, thiên tai tăng lên | Công ty bảo hiểm nhà cửa và bảo hiểm thảm hoạ có thể lỗ, hoặc phải tăng phí đến mức nhiều hộ không mua nổi bảo hiểm |
+| Rủi ro chuyển đổi | Chính sách chống biến đổi khí hậu, ví dụ áp thuế carbon làm ngành than suy giảm | Công ty than lỗ và vỡ nợ, làm giảm lợi nhuận của ngân hàng cho vay; trái phiếu và cổ phiếu của các công ty này mất giá, gây lỗ cho nhà đầu tư |
+
+Bài cũng so sánh hai cách sử dụng stress test, của IMF và của các cơ quan quốc gia:
+
+| | IMF | Cơ quan quốc gia |
+|---|---|---|
+| Bắt đầu dùng từ | Khủng hoảng tài chính châu Á 1997; IMF thuộc nhóm tổ chức đầu tiên áp dụng | Khủng hoảng 2008 (Mỹ, khu vực đồng euro và nơi khác) |
+| Khuôn khổ | Chương trình Đánh giá Khu vực Tài chính (FSAP), IMF và Ngân hàng Thế giới cùng thực hiện từ 1999 | Chương trình giám sát của từng nước; kết quả được công bố để củng cố niềm tin |
+| Trọng tâm | Toàn hệ thống thay vì từng tổ chức | Điểm yếu của từng ngân hàng |
+| Sau khi phát hiện rủi ro | Khuyến nghị cách giảm rủi ro trước khi nó thành hiện thực, và cách kiểm soát thiệt hại nếu nó xảy ra | Cân nhắc biện pháp phục hồi hoặc đóng cửa ngân hàng yếu |
+
+Hai cách tiếp cận bổ sung cho nhau: IMF hỏi "hệ thống có chịu được không", cơ quan quốc gia hỏi "ngân hàng nào cần xử lý".
 
 ### 4. Chỉ dùng theo chỉ dẫn
 
-- Stress test phải dùng dữ liệu tin cậy, kịp thời, chi tiết. Dữ liệu lịch sử nên phủ cả thời kỳ biến động lẫn yên bình. Dữ liệu thiếu hoặc sai cho kết quả không đáng tin, có thể tạo cảm giác yên tâm giả.
-- Stress test không phải công cụ đứng một mình. Phân tích rủi ro đầy đủ phải kết hợp stress test với công cụ định lượng và định tính khác. Đánh giá ổn định tài chính cần bổ sung bằng xem xét chính sách ngành tài chính, khung giám sát, lưới an toàn tài chính (ví dụ có bảo hiểm tiền gửi hay không và phạm vi). Khi nằm trong đánh giá toàn diện, sâu như vậy, stress test rất mạnh.
+Bài kết thúc bằng hai điều kiện để stress test thực sự có ích, giống như lời dặn "chỉ dùng theo chỉ dẫn" trên một hộp thuốc.
+
+**Điều kiện thứ nhất: dữ liệu tốt.** Stress test phải dùng dữ liệu tin cậy, kịp thời và chi tiết. Dữ liệu lịch sử nên phủ cả những thời kỳ biến động lẫn những thời kỳ yên bình; nếu chỉ có dữ liệu của thời yên bình, mô hình sẽ không biết khách hàng hành xử ra sao khi khủng hoảng. Dữ liệu thiếu hoặc sai sẽ cho kết quả không đáng tin, và nguy hiểm hơn, có thể tạo ra **cảm giác yên tâm giả**: bài kiểm tra báo "an toàn" trong khi thực tế không phải vậy.
+
+**Điều kiện thứ hai: không dùng đơn lẻ.** Stress test không phải công cụ đứng một mình. Một phân tích rủi ro đầy đủ phải kết hợp stress test với các công cụ định lượng và định tính khác. Đánh giá ổn định tài chính còn cần xem xét thêm:
+
+- chính sách đối với ngành tài chính;
+- khung giám sát (cơ quan quản lý theo dõi ngân hàng ra sao);
+- lưới an toàn tài chính, ví dụ nước đó có bảo hiểm tiền gửi hay không và bảo hiểm tới mức nào.
+
+Khi được đặt trong một đánh giá toàn diện và sâu như vậy, theo bài, stress test là một công cụ rất mạnh.
 
 ## Thuật ngữ
 

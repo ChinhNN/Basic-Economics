@@ -75,33 +75,88 @@
 2. Hộ gia đình, doanh nghiệp, tổ chức tài chính săn lợi suất bằng cách nào?
 3. Rủi ro cho nền kinh tế là gì?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Lợi suất (yield).** Phần lời mà một khoản đầu tư đem lại mỗi năm, tính theo phần trăm số tiền bỏ ra. Ví dụ minh hoạ: mua trái phiếu 100 triệu đồng, mỗi năm nhận 5 triệu đồng tiền lãi, thì lợi suất là 5%. Bài nói về hành vi của nhà đầu tư khi lợi suất của những tài sản an toàn trở nên quá thấp.
+
+**Tài sản an toàn và tín phiếu kho bạc (safe asset, Treasury bill).** Tài sản gần như chắc chắn được trả đủ, điển hình là tín phiếu kho bạc: giấy nợ ngắn hạn (thường dưới một năm) của chính phủ. Lãi suất cân bằng của tín phiếu kho bạc là "mỏ neo": lợi suất của trái phiếu dài hạn, tiền gửi, trái phiếu và cổ phiếu doanh nghiệp đều lên xuống theo nó. Ví dụ minh hoạ: nếu tín phiếu trả 5%, nhà đầu tư chỉ mua trái phiếu doanh nghiệp rủi ro khi được trả, chẳng hạn, 8%; nếu tín phiếu chỉ trả 0%, trái phiếu doanh nghiệp trả 3% đã trông hấp dẫn.
+
+**Săn lợi suất (search for yield).** Khi lợi suất của tài sản an toàn rất thấp trong thời gian dài, nhà đầu tư bị cám dỗ chuyển sang tài sản hoặc chiến lược rủi ro hơn với hy vọng kiếm được nhiều hơn. Ví dụ minh hoạ: một người quen nhận lãi tiết kiệm 6% một năm, nay lãi còn 1%, bèn chuyển tiền sang cổ phiếu hay một sản phẩm hứa trả 9%. Đây là hiện tượng mà cả bài phân tích.
+
+**Rủi ro và lợi nhuận (risk and return).** Nguyên tắc cơ bản của tài chính: muốn lợi nhuận kỳ vọng cao hơn thì phải chấp nhận khả năng thua lỗ lớn hơn. Ví dụ minh hoạ: tiền gửi chắc chắn được 2%; một cổ phiếu có thể lời 15% nhưng cũng có thể lỗ 20%. Bài nhấn mạnh rằng chấp nhận rủi ro không xấu tự thân; vấn đề là khi nó lan rộng và được tài trợ bằng nợ.
+
+**Đòn bẩy, tài trợ bằng nợ (leverage, debt financing).** Dùng tiền vay để đầu tư, thay vì dùng tiền của chính mình. Đòn bẩy phóng đại cả lãi lẫn lỗ. Ví dụ minh hoạ: một doanh nghiệp có 10 tỷ đồng vốn tự có, vay thêm 40 tỷ để mua một công ty 50 tỷ; nếu công ty đó mất 20% giá trị (10 tỷ), toàn bộ vốn tự có bị xoá sạch, trong khi khoản nợ 40 tỷ vẫn phải trả. Đây là lý do bài lo về đầu tư đầu cơ tài trợ bằng nợ.
+
+**Rủi ro tỷ giá và lệch đồng tiền (currency mismatch).** Khi một doanh nghiệp nợ bằng một đồng tiền (thường là USD) nhưng thu nhập bằng đồng tiền khác. Ví dụ minh hoạ: doanh nghiệp vay 1 triệu USD khi 1 USD đổi được 20.000 đơn vị nội tệ, tức nợ 20 tỷ nội tệ; nếu USD tăng giá lên 25.000, khoản nợ thành 25 tỷ nội tệ dù doanh nghiệp không vay thêm đồng nào. Bài coi đây là một rủi ro lớn khi doanh nghiệp săn lợi suất xuyên biên giới.
+
+**Carry trade.** Vay ở nơi lãi suất thấp để đầu tư ở nơi lợi suất cao, hưởng phần chênh lệch. Ví dụ minh hoạ: vay USD với lãi 1% rồi đầu tư vào tài sản nội tệ sinh lời 7%, lời 6 điểm phần trăm nếu tỷ giá đứng yên; nhưng nếu USD tăng giá 10% thì khoản lời đó biến thành lỗ. Bài lấy đợt "taper tantrum" 2013 làm ví dụ cho rủi ro này.
+
+**Chênh lệch lãi suất cho vay và tiền gửi (lending spread).** Khoảng cách giữa lãi ngân hàng thu từ người vay và lãi ngân hàng trả người gửi, nguồn lợi nhuận chính của ngân hàng. Ví dụ minh hoạ: cho vay 6%, trả tiền gửi 3%, chênh lệch 3 điểm phần trăm. Khi lãi suất rất thấp, khoảng này bị ép lại, đẩy ngân hàng vào chỗ phải săn lợi suất.
+
+## Nội dung chi tiết
 
 ### 1. Săn lợi suất
 
-- Khi lãi suất cao và lạm phát thấp, đầu tư dễ: gửi tiền vào tín phiếu kho bạc hoặc tài sản an toàn tương tự là có lợi nhuận. Khó hơn nhiều khi lãi suất thấp, như ở hầu hết nước tiên tiến từ khủng hoảng 2008–09, một số còn lâu hơn. Chán lãi suất 0 hoặc gần 0, người tiết kiệm bị cám dỗ thử tài sản hoặc chiến lược rủi ro hơn với hy vọng lợi nhuận cao hơn. Kinh tế học gọi đây là săn lợi suất.
-- Nhà đầu tư cá nhân chuyển tiền từ tài khoản tiết kiệm sang thị trường cổ phiếu. Doanh nghiệp tìm cách tăng thu nhập qua đầu tư đầu cơ tài trợ bằng nợ vì vay rẻ. Tổ chức tài chính như ngân hàng, bảo hiểm đặt cược rủi ro để giữ lợi nhuận hoặc thậm chí để sống sót. Nhưng danh mục rủi ro hơn tăng khả năng thua lỗ. Nợ cao hơn khiến doanh nghiệp bấp bênh hơn khi gặp cú sốc bất lợi. Kết quả là tổ chức dễ tổn thương hơn và khả năng bất ổn kinh tế tài chính tăng.
+Khi lãi suất cao và lạm phát thấp, việc đầu tư rất dễ: chỉ cần gửi tiền vào tín phiếu kho bạc hoặc những tài sản an toàn tương tự là đã có lợi nhuận thực. Việc này khó hơn nhiều khi lãi suất thấp, như ở hầu hết các nước tiên tiến kể từ khủng hoảng tài chính 2008–09, và ở một số nước còn lâu hơn thế. Khi đã chán cảnh lãi suất bằng 0 hoặc gần 0, người tiết kiệm bị cám dỗ thử những tài sản hoặc chiến lược rủi ro hơn, với hy vọng có lợi nhuận cao hơn. Kinh tế học gọi hành vi này là **săn lợi suất**.
+
+Mỗi nhóm trong nền kinh tế săn lợi suất theo cách riêng:
+
+| Nhóm | Cách săn lợi suất |
+|---|---|
+| Nhà đầu tư cá nhân | Chuyển tiền từ tài khoản tiết kiệm sang thị trường cổ phiếu |
+| Doanh nghiệp | Tìm cách tăng thu nhập bằng đầu tư đầu cơ tài trợ bằng nợ, vì tiền vay đang rẻ |
+| Tổ chức tài chính (ngân hàng, bảo hiểm) | Đặt cược rủi ro để giữ lợi nhuận, thậm chí để sống sót |
+
+Vấn đề là cả ba cách đều có mặt trái. Danh mục đầu tư rủi ro hơn làm tăng khả năng thua lỗ. Nợ cao hơn khiến doanh nghiệp bấp bênh hơn khi gặp một cú sốc bất lợi, vì vẫn phải trả nợ dù doanh thu sụt. Kết quả chung là các tổ chức trong nền kinh tế dễ tổn thương hơn, và khả năng xảy ra bất ổn kinh tế, tài chính tăng lên.
 
 ### 2. Tài sản an toàn và rủi ro
 
-- Khả năng và khẩu vị chấp nhận rủi ro khác nhau giữa hộ gia đình, doanh nghiệp, tổ chức tài chính, nhưng cùng chịu lực chung. Đặc biệt quan trọng là lãi suất cân bằng của tín phiếu kho bạc (mức mà lượng tiền cầu bằng lượng tiền cung). Lợi suất tài sản an toàn này ảnh hưởng lợi suất đầu tư khác: trái phiếu chính phủ dài hạn, tiền gửi ngân hàng, trái phiếu và cổ phiếu doanh nghiệp. Lợi suất tài sản rủi ro lên xuống theo lợi suất an toàn.
-- Cám dỗ săn lợi suất tăng khi lợi suất an toàn rơi xuống rất thấp trong thời gian dài, như Nhật và vài nền kinh tế châu Âu hai thập kỷ qua. Với hộ gia đình, đó là lợi suất tiết kiệm thấp và tích luỹ của cải chậm, khó đạt mục tiêu vòng đời như mua nhà, tiết kiệm hưu trí an toàn, để lại của cải cho con.
-- Hộ gia đình bù bằng cách tiết kiệm nhiều hơn, chi ít hơn. Ngoại lệ đáng chú ý là Nhật: hộ già và giàu, ít cần tăng tiết kiệm phòng ngừa và có năng lực săn lợi suất, đã đầu tư vào trái phiếu và cổ phiếu rủi ro cao ở thị trường mới nổi. Vay và tiêu dùng hộ gia đình giảm làm cầu hàng hoá dịch vụ giảm, doanh số và lợi nhuận doanh nghiệp trượt. Ngành tài chính cũng chịu: cho vay hộ gia đình giảm, lãi suất rất thấp ép chênh lệch giữa lãi cho vay và lãi tiền gửi. Tất cả kéo lợi nhuận xuống.
+Hộ gia đình, doanh nghiệp và tổ chức tài chính khác nhau về khả năng và khẩu vị chấp nhận rủi ro, nhưng cùng chịu tác động của những lực chung. Lực quan trọng nhất là **lãi suất cân bằng của tín phiếu kho bạc**, tức mức lãi suất tại đó lượng cầu tiền bằng lượng cung tiền. Lợi suất của tài sản an toàn này đóng vai trò mỏ neo cho lợi suất của các khoản đầu tư khác: trái phiếu chính phủ dài hạn, tiền gửi ngân hàng, trái phiếu doanh nghiệp, cổ phiếu doanh nghiệp. Lợi suất của tài sản rủi ro lên xuống theo lợi suất an toàn. Vì vậy, khi tài sản an toàn trả gần như bằng 0, tài sản rủi ro cũng trả ít hơn trước, và ai muốn giữ mức lợi nhuận cũ thì phải chấp nhận rủi ro cao hơn hẳn.
+
+Cám dỗ săn lợi suất mạnh lên khi lợi suất an toàn rơi xuống rất thấp trong một thời gian dài, như ở Nhật Bản và một vài nền kinh tế châu Âu trong khoảng 20 năm (hai thập kỷ) qua. Mỗi nhóm chịu ảnh hưởng như sau:
+
+**Hộ gia đình.** Lợi suất tiết kiệm thấp đồng nghĩa với tích luỹ của cải chậm, nên khó đạt các mục tiêu trong vòng đời: mua nhà, có khoản tiết kiệm hưu trí an toàn, để lại của cải cho con cái. Phản ứng phổ biến của hộ gia đình là **tiết kiệm nhiều hơn và chi tiêu ít hơn** để bù lại. Ngoại lệ đáng chú ý là Nhật Bản: các hộ gia đình già và giàu, vốn ít cần tăng tiết kiệm phòng ngừa và có năng lực săn lợi suất, đã đầu tư vào trái phiếu và cổ phiếu rủi ro cao ở các thị trường mới nổi.
+
+**Doanh nghiệp.** Khi hộ gia đình vay ít và tiêu dùng ít đi, cầu về hàng hoá và dịch vụ giảm, nên doanh số và lợi nhuận của doanh nghiệp trượt xuống.
+
+**Tổ chức tài chính.** Ngành tài chính cũng chịu thiệt theo hai đường: cho vay hộ gia đình giảm, và lãi suất rất thấp ép chênh lệch giữa lãi cho vay và lãi tiền gửi.
+
+Tất cả các tác động này cùng kéo lợi nhuận xuống, và chính áp lực lợi nhuận đó đẩy doanh nghiệp và tổ chức tài chính sang các chiến lược săn lợi suất ở phần sau.
 
 ### 3. Chiến lược săn lợi suất
 
-- Doanh nghiệp bù thiếu hụt tiêu dùng do hộ gia đình tiết kiệm nhiều hơn bằng cách tận dụng lãi thấp, vay để tài trợ đầu tư rủi ro cao, lợi nhuận cao. Hai cách: đầu tư vào chứng khoán tài chính lợi suất cao hơn, hoặc mở rộng sang ngành hay nước mới bằng lập công ty con hoặc mua công ty sẵn có. Phần nợ trong giao dịch này thường cao hơn, phần lợi nhuận giữ lại hoặc nguồn lực riêng thấp hơn so với khi mở rộng là kết quả tự nhiên của tăng trưởng mạnh và lợi nhuận doanh nghiệp.
-- Tổ chức tài chính có chiến lược khác nhau. Ngân hàng lớn mở rộng ra nước có tăng trưởng và lợi suất sáng hơn. Ngân hàng vừa mở rộng nội địa qua ngành hoặc vùng, lấy khách của ngân hàng địa phương nhỏ. Ngân hàng nhỏ sáp nhập hoặc hợp tác với ngân hàng vừa, hoặc với nhau, để chống cạnh tranh.
-- Kinh tế học không phản đối chấp nhận rủi ro để tăng lợi nhuận: có người và tổ chức quản lý rủi ro giỏi hơn, và chấp nhận rủi ro không nhất thiết đe doạ tăng trưởng và ổn định. Nhưng chiến lược săn lợi suất có hệ quả toàn hệ thống nếu doanh nghiệp và tổ chức tài chính áp dụng rộng rãi. Đó là điều nhà hoạch định lo.
+**Doanh nghiệp.** Để bù cho phần tiêu dùng bị thiếu do hộ gia đình tiết kiệm nhiều hơn, doanh nghiệp tận dụng lãi suất thấp, vay tiền để tài trợ các khoản đầu tư rủi ro cao, lợi nhuận cao. Có hai cách chính:
+
+- Đầu tư vào các chứng khoán tài chính có lợi suất cao hơn.
+- Mở rộng sang ngành mới hoặc nước mới, bằng cách lập công ty con hoặc mua lại một công ty có sẵn.
+
+Điểm đáng chú ý là cách tài trợ. Khi doanh nghiệp mở rộng như một kết quả tự nhiên của tăng trưởng mạnh và lợi nhuận tốt, họ thường dùng lợi nhuận giữ lại hoặc nguồn lực của chính mình. Còn trong các giao dịch săn lợi suất, **phần nợ thường cao hơn**, và phần lợi nhuận giữ lại hoặc nguồn lực riêng thấp hơn. Tức là doanh nghiệp vừa chấp nhận rủi ro kinh doanh mới, vừa gánh thêm rủi ro tài chính.
+
+**Tổ chức tài chính.** Chiến lược khác nhau theo quy mô ngân hàng:
+
+| Loại ngân hàng | Chiến lược |
+|---|---|
+| Ngân hàng lớn | Mở rộng ra những nước có triển vọng tăng trưởng và lợi suất sáng sủa hơn |
+| Ngân hàng vừa | Mở rộng trong nước sang ngành hoặc vùng mới, lấy khách hàng của các ngân hàng địa phương nhỏ |
+| Ngân hàng nhỏ | Sáp nhập hoặc hợp tác với ngân hàng vừa, hoặc với nhau, để chống đỡ cạnh tranh |
+
+**Khi nào săn lợi suất trở thành vấn đề.** Bài nói rõ: kinh tế học không phản đối việc chấp nhận rủi ro để tăng lợi nhuận. Có những người và tổ chức quản lý rủi ro giỏi hơn người khác, và chấp nhận rủi ro không nhất thiết đe doạ tăng trưởng và ổn định. Điều khiến các nhà hoạch định chính sách lo ngại là khi các chiến lược săn lợi suất được nhiều doanh nghiệp và tổ chức tài chính áp dụng **cùng lúc, trên diện rộng**: khi đó chúng có hệ quả cho toàn hệ thống.
 
 ### 4. Rủi ro cho nền kinh tế
 
-- **Suy thoái sâu và dài hơn:** gặp cú sốc bất lợi, doanh nghiệp nợ nhiều buộc cắt đầu tư lớn hơn và lâu hơn so với không nợ, giảm thu nhập quốc gia và tăng trưởng. Một số vỡ nợ, ép lợi nhuận ngân hàng, hạn chế khả năng cấp tín dụng, hạ tăng trưởng thêm. Một số ngân hàng có thể không sống nổi.
-- **Rủi ro tỷ giá:** doanh nghiệp dùng nợ tài trợ mua lại rủi ro đối mặt rủi ro mới khó quản lý. Doanh nghiệp Mỹ vay trong nước để mở rộng ra ngoài, hoặc doanh nghiệp thị trường mới nổi vay ở Mỹ để mở rộng trong nước, có thể gặp rủi ro lớn từ thay đổi tỷ giá. Vì trả nợ và lãi bằng USD trong khi thu nhập bằng ngoại tệ, USD tăng giá làm gánh nặng trả nợ tăng đáng kể. Doanh nghiệp dùng thị trường tài chính để phòng hộ nhưng thấy quá đắt để phòng hộ toàn bộ. Khi lỗ xảy ra, có thể rất lớn.
-- **Carry trade:** vì USD là đồng tiền tài trợ toàn cầu, động lực săn lợi suất từ lãi suất thấp kéo dài ở Mỹ không chỉ giới hạn ở ngân hàng và doanh nghiệp Mỹ. Doanh nghiệp nước khác vay ở Mỹ để đầu tư lợi suất cao hơn ở nhà. Carry trade này rủi ro vì thắt chặt tiền tệ ở Mỹ (hoặc cú sốc nội địa) có thể làm USD tăng giá gây lỗ. "Taper tantrum" 2013 là ví dụ: doanh nghiệp lớn ở thị trường mới nổi lỗ carry trade do USD tăng, đủ lớn để hạ định giá thị trường đáng kể, một số trường hợp tăng biến động thị trường tài chính trong nước.
-- **Quản trị khi ra nước ngoài:** ngân hàng mở rộng ra ngoài có thể lỗ nếu không thích nghi với thách thức quản lý rủi ro mới. Trụ sở thấy hiệu quả nhất là giao quyết định vận hành cho quản lý địa phương, nhưng khi đó khó thiết kế động lực hiệu quả. Có thể bị cám dỗ gắn lương và thăng tiến với lợi nhuận cao phi thực tế, đẩy quản lý địa phương chấp nhận quá nhiều rủi ro.
-- **Cạnh tranh:** hợp nhất ngành ngân hàng qua sáp nhập ngân hàng nhỏ hoặc bị ngân hàng lớn mua lại có thể bóp nghẹt cạnh tranh, tăng chi phí vay nhất là cho hộ gia đình và doanh nghiệp nhỏ, khiến tiêu dùng và đầu tư đắt hơn, một bước lùi nghiêm trọng cho tăng trưởng bao trùm.
-- **Lợi ích:** khi cược rủi ro thắng, chúng tăng thu nhập từ tiết kiệm và đầu tư lúc lãi thấp và khó sinh lời, và lan vốn tới thị trường mới. Nhưng nhà hoạch định phải cảnh giác với nguy hiểm, nhất là đầu tư đầu cơ tài trợ bằng nợ. Một số cược chắc chắn sẽ thua, và hậu quả cho ổn định kinh tế tài chính có thể nghiêm trọng.
+Bài liệt kê năm loại rủi ro khi săn lợi suất lan rộng.
+
+**Suy thoái sâu và dài hơn.** Khi gặp một cú sốc bất lợi, doanh nghiệp mang nhiều nợ buộc phải cắt giảm đầu tư mạnh hơn và lâu hơn so với khi không có nợ, vì vẫn phải dành tiền trả nợ. Điều đó làm giảm thu nhập quốc gia và tăng trưởng. Một số doanh nghiệp vỡ nợ, làm giảm lợi nhuận của ngân hàng cho vay, khiến ngân hàng hạn chế cấp tín dụng, và tăng trưởng lại giảm thêm. Chuỗi phản ứng này có thể nặng tới mức một số ngân hàng không sống nổi.
+
+**Rủi ro tỷ giá.** Doanh nghiệp dùng nợ để tài trợ các thương vụ mua lại rủi ro phải đối mặt với những rủi ro mới khó quản lý. Hai trường hợp điển hình: doanh nghiệp Mỹ vay trong nước để mở rộng ra nước ngoài, và doanh nghiệp ở thị trường mới nổi vay ở Mỹ để mở rộng trong nước. Cả hai đều có thể gặp rủi ro lớn khi tỷ giá thay đổi, vì phải trả gốc và lãi bằng USD trong khi thu nhập bằng đồng tiền khác. Khi USD tăng giá, gánh nặng trả nợ tính theo đồng tiền thu nhập tăng đáng kể. Doanh nghiệp có thể dùng các công cụ trên thị trường tài chính để phòng hộ, nhưng thường thấy phòng hộ toàn bộ là quá đắt. Vì vậy khi lỗ xảy ra, khoản lỗ có thể rất lớn.
+
+**Carry trade.** Vì USD là đồng tiền tài trợ của toàn cầu, động lực săn lợi suất sinh ra từ lãi suất thấp kéo dài ở Mỹ không chỉ giới hạn trong ngân hàng và doanh nghiệp Mỹ. Doanh nghiệp ở các nước khác cũng vay ở Mỹ (với lãi thấp) để đầu tư vào tài sản có lợi suất cao hơn ở nước mình. Kiểu giao dịch này rủi ro vì nếu Mỹ thắt chặt tiền tệ (hoặc nếu có một cú sốc trong nước), USD có thể tăng giá và gây lỗ. Ví dụ bài đưa ra là đợt "taper tantrum" năm 2013, khi thị trường biến động mạnh lúc Fed báo hiệu giảm mua tài sản: các doanh nghiệp lớn ở thị trường mới nổi lỗ trên các giao dịch carry trade do USD tăng giá. Khoản lỗ đủ lớn để làm định giá thị trường của các doanh nghiệp này giảm đáng kể, và trong một số trường hợp làm tăng biến động trên thị trường tài chính trong nước.
+
+**Quản trị khi ra nước ngoài.** Ngân hàng mở rộng ra nước ngoài có thể chịu lỗ nếu không thích nghi được với những thách thức quản lý rủi ro mới. Trụ sở chính thường thấy cách hiệu quả nhất là giao quyền quyết định vận hành cho ban quản lý địa phương, nhưng khi đó rất khó thiết kế cơ chế khuyến khích phù hợp. Ngân hàng có thể bị cám dỗ gắn lương thưởng và thăng tiến của quản lý địa phương với những mục tiêu lợi nhuận cao phi thực tế, và điều đó đẩy họ chấp nhận quá nhiều rủi ro.
+
+**Cạnh tranh.** Việc hợp nhất ngành ngân hàng, khi các ngân hàng nhỏ sáp nhập với nhau hoặc bị ngân hàng lớn mua lại, có thể bóp nghẹt cạnh tranh. Ít ngân hàng hơn đồng nghĩa với chi phí vay cao hơn, nhất là cho hộ gia đình và doanh nghiệp nhỏ, những người khó tìm nguồn vốn khác. Tiêu dùng và đầu tư vì thế đắt hơn, và bài gọi đây là một bước lùi nghiêm trọng cho tăng trưởng bao trùm.
+
+**Mặt lợi và lời cảnh báo.** Bài không chỉ nói về mặt hại. Khi các vụ đặt cược rủi ro thắng, chúng làm tăng thu nhập từ tiết kiệm và đầu tư trong lúc lãi suất thấp và khó kiếm lời, và giúp vốn lan tới những thị trường mới. Nhưng các nhà hoạch định chính sách phải cảnh giác với các nguy cơ, đặc biệt là đầu tư đầu cơ tài trợ bằng nợ. Một số vụ đặt cược chắc chắn sẽ thua, và khi đó hậu quả cho ổn định kinh tế và tài chính có thể nghiêm trọng.
 
 ## Thuật ngữ
 

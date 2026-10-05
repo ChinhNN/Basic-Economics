@@ -76,32 +76,117 @@
 2. Chính sách cơ cấu nhắm vào những lĩnh vực nào?
 3. Hai loại chính sách quan hệ với nhau thế nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tổng cầu và tổng cung (aggregate demand, aggregate supply).** Tổng cầu là tổng lượng hàng hoá và dịch vụ mà hộ gia đình, doanh nghiệp, chính phủ và nước ngoài muốn mua trong nền kinh tế; tổng cung là lượng mà nền kinh tế có thể sản xuất ra với lao động, vốn và công nghệ hiện có. Ví dụ minh hoạ: nếu nền kinh tế chỉ làm ra được hàng hoá trị giá 100 mà mọi người muốn mua 110, giá sẽ bị đẩy lên. Cả bài dựa trên sự phân biệt này: chính sách ổn định hoá tác động vào cầu, chính sách cơ cấu tác động vào cung.
+
+**Chính sách ổn định hoá (stabilization policy, còn gọi là quản lý cầu).** Các biện pháp điều chỉnh tổng cầu trong ngắn hạn, gồm chính sách tài khoá (thuế, chi tiêu công) và chính sách tiền tệ (lãi suất, cung tiền). Ví dụ minh hoạ: khi kinh tế suy thoái, ngân hàng trung ương hạ lãi suất từ 5% xuống 3% để khuyến khích vay và chi tiêu; khi kinh tế quá nóng, nâng lãi suất để hãm lại. Bài dùng nó làm đối trọng để định nghĩa chính sách cơ cấu.
+
+**Chính sách cơ cấu (structural policy).** Các biện pháp thay đổi "kết cấu" của nền kinh tế, tức các quy tắc, thể chế và cách tổ chức quyết định nền kinh tế sản xuất hiệu quả đến đâu, nhằm cải thiện tổng cung trong dài hạn. Ví dụ minh hoạ: đơn giản hoá thủ tục cấp phép để một doanh nghiệp mở cửa trong 5 ngày thay vì 60 ngày. Đây là chủ đề chính của bài.
+
+**Kiểm soát giá (price controls).** Nhà nước ấn định giá một mặt hàng thay vì để thị trường quyết định, thường đặt dưới chi phí sản xuất. Ví dụ minh hoạ: điện có chi phí sản xuất 10 đơn vị mỗi kWh nhưng bị quy định bán 7, thì mỗi kWh bán ra lỗ 3 và ngân sách phải bù; đồng thời người dùng thấy điện rẻ nên dùng nhiều hơn mức hợp lý. Đây là lĩnh vực cơ cấu đầu tiên bài phân tích.
+
+**Nợ tiềm ẩn (contingent liabilities).** Khoản nợ chưa phải trả ngay nhưng có thể đổ lên ngân sách nếu một sự kiện xảy ra, điển hình là khi chính phủ bảo lãnh khoản vay của doanh nghiệp nhà nước. Ví dụ minh hoạ: chính phủ bảo lãnh khoản vay 1.000 tỷ đồng của một doanh nghiệp nhà nước; nếu doanh nghiệp không trả được, ngân sách phải trả thay 1.000 tỷ đó. Bài dùng khái niệm này để giải thích vì sao doanh nghiệp nhà nước thua lỗ là vấn đề ổn định hoá chứ không chỉ là vấn đề hiệu quả.
+
+**Thị trường thứ cấp (secondary market).** Nơi các chứng khoán đã phát hành được mua bán lại giữa các nhà đầu tư, khác với thị trường sơ cấp nơi chứng khoán được bán lần đầu. Ví dụ minh hoạ: ngân hàng trung ương muốn bơm tiền thì mua lại trái phiếu chính phủ mà các ngân hàng đang nắm; nếu không có thị trường mua bán lại trái phiếu, cách làm này không thực hiện được. Bài coi việc thiếu thị trường thứ cấp là một khiếm khuyết cơ cấu của khu vực tài chính.
+
+**Hưu trí tọa thu tọa chi (pay-as-you-go, PAYG).** Hệ thống hưu trí mà tiền đóng của người đang đi làm hôm nay được dùng ngay để trả lương hưu cho người đã nghỉ hôm nay, không tích luỹ thành quỹ. Ví dụ minh hoạ: nếu có 4 người đi làm cho mỗi người hưu, mỗi người chỉ cần gánh một phần tư lương hưu; khi tỷ lệ còn 2 người đi làm cho mỗi người hưu, mỗi người phải gánh gấp đôi. Bài dùng nó để chỉ ra khoản nợ chưa tài trợ khổng lồ ở các nước phát triển.
+
+**Nhắm đúng đối tượng (targeting).** Thiết kế chương trình hỗ trợ sao cho tiền đến đúng người cần thay vì đến mọi người. Ví dụ minh hoạ: trợ giá xăng giúp người có hai ô tô nhiều hơn người đi bộ, còn chuyển tiền mặt cho hộ nghèo thì đến thẳng người cần. Đây là hướng cải cách lưới an sinh mà bài đề xuất.
+
+## Nội dung chi tiết
 
 ### 1. Hai loại chính sách
 
-- Nền kinh tế lệch lạc vì nhiều lý do. Nhà hoạch định có nhiều cách sửa tuỳ vấn đề. Khi giá tăng quá nhanh và người tiêu dùng, doanh nghiệp mua với tốc độ vượt năng lực sản xuất nền tảng (tổng cầu tăng quá nhanh), có thể giảm cầu. Khi suy thoái, doanh nghiệp và người tiêu dùng đóng ví (tổng cầu co), chính phủ có thể khuyến khích mở ví hoặc thay chi tiêu tư nhân bằng chi tiêu công. Những hành động này gọi là quản lý cầu hay chính sách ổn định hoá.
-- Đôi khi vấn đề sâu và kéo dài hơn cầu quá mức hay thiếu hụt, thường do chính sách chính phủ hay thực hành tư nhân cản trở sản xuất hiệu quả và công bằng, tức cung. Sửa những vấn đề này có thể cần thay đổi kết cấu nền kinh tế, gọi là chính sách cơ cấu.
-- Chính sách ổn định hoá quan trọng trong ngắn hạn vì thay đổi các thành phần tổng cầu trong thời gian ngắn dễ hơn làm nguồn lực quốc gia năng suất hơn. Gồm thuế và chi tiêu (tài khoá) và thay đổi lãi suất, cung tiền (tiền tệ). Khi cần thay đổi cơ cấu dài hạn để cải thiện tổng cung, chính phủ phải xử lý các trở ngại cụ thể: cấu trúc lõi của nền kinh tế như cách định giá, quản lý tài chính công, doanh nghiệp nhà nước, quản lý khu vực tài chính, quy tắc thị trường lao động, lưới an sinh, thể chế.
-- Khủng hoảng tài chính và nợ công gần đây kêu gọi chính sách cơ cấu táo bạo ở nhiều nước euro; tăng trưởng giảm ở nhiều nước phát triển và đang phát triển chỉ ra nhu cầu cải cách tài khoá, tài chính, thể chế, quản lý để tăng năng suất, tăng trưởng, việc làm. Chính sách cơ cấu không chỉ tăng trưởng mà còn tạo điều kiện cho chính sách ổn định hoá thành công.
+Một nền kinh tế có thể đi chệch hướng vì nhiều lý do, và nhà hoạch định chính sách có nhiều cách sửa, tuỳ vào bản chất của vấn đề. Bài chia các cách sửa thành hai nhóm.
+
+**Chính sách ổn định hoá.** Có hai tình huống điển hình về cầu:
+
+- **Cầu tăng quá nhanh.** Giá tăng nhanh vì người tiêu dùng và doanh nghiệp mua với tốc độ vượt quá năng lực sản xuất nền tảng của nền kinh tế, tức tổng cầu tăng quá nhanh. Khi đó chính phủ có thể tìm cách giảm cầu.
+- **Cầu co lại.** Trong suy thoái, doanh nghiệp và người tiêu dùng "đóng ví", tổng cầu co lại. Khi đó chính phủ có thể khuyến khích họ chi tiêu trở lại, hoặc tự chi tiêu công để thay phần chi tiêu tư nhân bị mất.
+
+Những hành động như vậy gọi là **quản lý cầu** hay **chính sách ổn định hoá**. Chúng đặc biệt quan trọng trong ngắn hạn, vì trong một thời gian ngắn, điều chỉnh các thành phần của tổng cầu dễ hơn nhiều so với làm cho nguồn lực của quốc gia trở nên năng suất hơn. Công cụ gồm thuế và chi tiêu công (chính sách tài khoá), và lãi suất, cung tiền (chính sách tiền tệ).
+
+**Chính sách cơ cấu.** Đôi khi vấn đề sâu hơn và kéo dài hơn chuyện cầu quá nhiều hay quá ít. Thường nó bắt nguồn từ chính sách của chính phủ hoặc thói quen của khu vực tư nhân cản trở việc sản xuất một cách hiệu quả và công bằng, tức là vấn đề nằm ở phía **cung**. Sửa những vấn đề này có thể cần thay đổi "kết cấu" của nền kinh tế, và đó là chính sách cơ cấu. Để cải thiện tổng cung trong dài hạn, chính phủ phải xử lý những trở ngại cụ thể nằm trong cấu trúc lõi của nền kinh tế: cách định giá hàng hoá, cách quản lý tài chính công, doanh nghiệp nhà nước, cách quản lý khu vực tài chính, quy tắc của thị trường lao động, lưới an sinh xã hội và các thể chế.
+
+| | Chính sách ổn định hoá | Chính sách cơ cấu |
+|---|---|---|
+| Tác động vào | Tổng cầu | Tổng cung, cấu trúc nền kinh tế |
+| Tầm thời gian | Ngắn hạn | Dài hạn |
+| Công cụ | Thuế, chi tiêu công, lãi suất, cung tiền | Định giá, tài chính công, doanh nghiệp nhà nước, khu vực tài chính, lao động, an sinh, thể chế |
+| Vấn đề xử lý | Cầu quá mức hoặc thiếu hụt | Chính sách hay thực hành cản trở sản xuất hiệu quả, công bằng |
+
+**Vì sao chủ đề này nóng lên.** Các cuộc khủng hoảng tài chính và nợ công gần đây đã dẫn tới lời kêu gọi chính sách cơ cấu táo bạo ở nhiều nước khu vực đồng euro. Tăng trưởng chậm lại ở nhiều nước phát triển và đang phát triển cũng cho thấy cần cải cách tài khoá, tài chính, thể chế và quản lý để nâng năng suất, tăng trưởng và việc làm. Bài nhấn mạnh một điểm: chính sách cơ cấu không chỉ thúc đẩy tăng trưởng mà còn **tạo điều kiện để chính sách ổn định hoá thành công**. Điểm này được phát triển ở mục 4.
 
 ### 2. Các lĩnh vực cơ cấu (phần một)
 
-- **Kiểm soát giá:** giá trên thị trường tự do phản ánh chi phí sản xuất. Nhưng chính phủ một số nước đặt giá điện, khí, viễn thông dưới chi phí, nhất là khi do doanh nghiệp nhà nước sản xuất. Kiểm soát giá gây lỗ chính phủ phải bù, tạo vấn đề ngân sách và ổn định hoá. Còn khuyến khích tiêu dùng cao hơn mức nếu giá phản ánh chi phí thật. Định giá thấp dẫn đến phân bổ nguồn lực xã hội kém. Bỏ kiểm soát, giá tăng đủ bù chi phí, thúc đẩy cạnh tranh và hiệu quả.
-- **Quản lý tài chính công:** chính phủ có thể tạm chi nhiều hơn thu khi suy thoái, hoặc thu thuế nhiều hơn cần khi bùng nổ để hãm chi tiêu, nhưng dài hạn thu chi phải khớp. Luật thuế phức tạp, hệ thống hành thu kém hiệu quả gây khó huy động đủ thu, dẫn đến thâm hụt lớn và tích nợ (vấn đề ổn định hoá), hạn chế tài trợ nhu cầu phát triển như y tế, giáo dục, hạ tầng. Cải cách thuế giúp tuân thủ và tăng thu bằng bỏ miễn trừ, yêu cầu nộp trước ước tính, đơn giản cấu trúc thuế suất. Cải thiện hành thu cũng tăng thu: đào tạo tốt hơn, lương cao hơn cho cán bộ thuế giảm tham nhũng và giữ người giỏi. Quản lý chi tiêu công tốt hơn giúp dùng công quỹ năng suất hơn.
-- **Doanh nghiệp nhà nước:** chiếm phần đáng kể nền kinh tế ở một số nước. Một số hoạt động hiệu quả vì lợi ích người tiêu dùng. Nhưng thường, vì ít cạnh tranh, doanh nghiệp nhà nước cung cấp hàng dịch vụ kém chất lượng. Doanh nghiệp công cạnh tranh với tư nhân thường lỗ vì ảnh hưởng chính trị hoặc chi phí cao (thừa lao động), chính phủ phải bù. Vấn đề ổn định hoá nảy sinh nếu họ phải vay ngân hàng thương mại bù lỗ, khoản vay thường được chính phủ bảo lãnh, tạo nợ tiềm ẩn cho ngân sách. Có thể bán cho tư nhân, hoặc giữ sở hữu công nhưng đóng cửa doanh nghiệp kém hiệu quả hay thua lỗ, thay quản lý, giảm lao động cho khớp nhu cầu, với lưới an sinh phù hợp cho người mất việc.
-- **Khu vực tài chính:** dẫn vốn từ người tiết kiệm sang người vay. Khu vực tài chính lành mạnh giúp vốn được dùng năng suất nhất, tăng trưởng cao hơn. Nhưng hệ thống kém phát triển hay quản lý kém ở một số nước đang phát triển cản trở tăng trưởng và làm khó ổn định hoá. Ngân hàng trung ương thường làm chính sách tiền tệ qua mua bán trên thị trường mở chứng khoán chính phủ đã bán ra công chúng. Không có hay kém phát triển thị trường thứ cấp, ngân hàng trung ương bị hạn chế và phải dùng công cụ kém hiệu quả (hoặc bất công) như hạn mức tín dụng, kiểm soát lãi suất. Ngân hàng quản lý kém có thể hành xử rủi ro dẫn đến khủng hoảng: "rút tiền ồ ạt" khi người gửi lo lắng rút hàng loạt, hay đổ vỡ thường do cho vay xấu. Ngay ngân hàng lành mạnh cũng có thể đổ nếu bị cuốn vào rút tiền toàn hệ thống cạn tiền mặt. Khủng hoảng ngân hàng gián đoạn dòng vốn đến người vay, nản lòng tiết kiệm, tăng thâm hụt nếu nhà nước bảo lãnh tiền gửi hay tái cấp vốn. Sửa bằng lập thị trường thứ cấp, phát triển thị trường chứng khoán, tư nhân hoá ngân hàng nhà nước. Để giảm khủng hoảng phải củng cố hệ thống qua quy định và giám sát hiệu quả.
+Bài đi qua bảy lĩnh vực mà chính sách cơ cấu thường nhắm vào. Mục này trình bày bốn lĩnh vực đầu.
+
+**Thứ nhất: kiểm soát giá.** Trên thị trường tự do, giá phản ánh chi phí sản xuất. Nhưng ở một số nước, chính phủ đặt giá điện, khí đốt, viễn thông thấp hơn chi phí, nhất là khi những dịch vụ này do doanh nghiệp nhà nước cung cấp. Kiểm soát giá gây ra ba hậu quả:
+
+- doanh nghiệp bị lỗ và chính phủ phải bù, tạo ra vấn đề ngân sách và do đó vấn đề ổn định hoá;
+- người dùng tiêu dùng nhiều hơn mức họ sẽ dùng nếu giá phản ánh đúng chi phí;
+- nguồn lực của xã hội bị phân bổ kém, vì quá nhiều nguồn lực chảy vào sản xuất thứ đang bị định giá thấp.
+
+Khi bỏ kiểm soát, giá tăng lên đủ để bù chi phí, và điều đó thúc đẩy cạnh tranh và hiệu quả.
+
+**Thứ hai: quản lý tài chính công.** Chính phủ có thể tạm thời chi nhiều hơn thu khi suy thoái, hoặc thu thuế nhiều hơn mức cần khi kinh tế bùng nổ để hãm chi tiêu; đó là ổn định hoá. Nhưng về dài hạn, thu và chi phải khớp nhau. Luật thuế phức tạp và hệ thống hành thu kém hiệu quả khiến chính phủ khó huy động đủ nguồn thu. Kết quả là thâm hụt lớn và nợ tích tụ, một vấn đề ổn định hoá, đồng thời hạn chế khả năng tài trợ cho các nhu cầu phát triển như y tế, giáo dục và hạ tầng. Bài nêu các hướng cải cách:
+
+| Hướng cải cách | Biện pháp cụ thể |
+|---|---|
+| Cải cách luật thuế để tăng tuân thủ và tăng thu | Bỏ các khoản miễn trừ; yêu cầu nộp trước thuế theo số ước tính; đơn giản hoá cấu trúc thuế suất |
+| Cải thiện hành thu | Đào tạo tốt hơn và trả lương cao hơn cho cán bộ thuế, để giảm tham nhũng và giữ được người giỏi |
+| Quản lý chi tiêu công tốt hơn | Dùng công quỹ vào những việc năng suất hơn |
+
+**Thứ ba: doanh nghiệp nhà nước.** Ở một số nước, doanh nghiệp nhà nước chiếm phần đáng kể nền kinh tế. Một số hoạt động hiệu quả và phục vụ tốt người tiêu dùng. Nhưng thường thì, vì ít chịu cạnh tranh, chúng cung cấp hàng hoá và dịch vụ chất lượng kém. Những doanh nghiệp công phải cạnh tranh với tư nhân thường thua lỗ, vì chịu ảnh hưởng chính trị trong quyết định kinh doanh hoặc vì chi phí cao, chẳng hạn thuê thừa lao động, và chính phủ phải bù lỗ.
+
+Vấn đề ổn định hoá nảy sinh khi các doanh nghiệp này phải vay ngân hàng thương mại để bù lỗ. Những khoản vay đó thường được chính phủ bảo lãnh, nên chúng trở thành **nợ tiềm ẩn** của ngân sách: chưa hiện trên sổ nhưng có thể phải trả. Chuỗi diễn biến là: ít cạnh tranh và chịu ảnh hưởng chính trị, thua lỗ, vay ngân hàng có bảo lãnh, nợ tiềm ẩn của ngân sách.
+
+Cách xử lý có hai hướng: bán doanh nghiệp cho tư nhân; hoặc giữ sở hữu nhà nước nhưng đóng cửa những doanh nghiệp kém hiệu quả hay thua lỗ, thay đổi cách quản lý, giảm lao động cho khớp với nhu cầu thực, đi kèm một lưới an sinh phù hợp cho người mất việc.
+
+**Thứ tư: khu vực tài chính.** Khu vực tài chính dẫn vốn từ người tiết kiệm sang người vay. Một khu vực tài chính lành mạnh giúp vốn được dùng vào nơi năng suất nhất, nhờ đó tăng trưởng cao hơn. Nhưng ở một số nước đang phát triển, hệ thống tài chính kém phát triển hoặc bị quản lý kém, vừa cản trở tăng trưởng vừa làm khó việc ổn định hoá. Bài nêu hai vấn đề:
+
+- **Thiếu thị trường thứ cấp.** Ngân hàng trung ương thường thực hiện chính sách tiền tệ bằng cách mua bán trên thị trường mở các chứng khoán chính phủ đã bán ra công chúng. Nếu thị trường thứ cấp cho các chứng khoán này không có hoặc kém phát triển, ngân hàng trung ương bị hạn chế và phải dùng các công cụ kém hiệu quả, thậm chí bất công, như hạn mức tín dụng (quy định trực tiếp ngân hàng được cho vay bao nhiêu) và kiểm soát lãi suất.
+- **Ngân hàng quản lý kém.** Ngân hàng có thể hành xử rủi ro và dẫn đến khủng hoảng: "rút tiền ồ ạt" khi người gửi lo lắng đồng loạt rút tiền, hoặc đổ vỡ, thường do cho vay xấu. Ngay cả ngân hàng lành mạnh cũng có thể sụp nếu bị cuốn vào một làn sóng rút tiền toàn hệ thống làm cạn tiền mặt. Khủng hoảng ngân hàng làm gián đoạn dòng vốn đến người vay, làm người dân nản lòng tiết kiệm, và làm tăng thâm hụt ngân sách nếu nhà nước phải bảo lãnh tiền gửi hay tái cấp vốn cho ngân hàng.
+
+Hướng sửa gồm: lập thị trường thứ cấp cho chứng khoán chính phủ, phát triển thị trường chứng khoán, tư nhân hoá các ngân hàng nhà nước. Để giảm nguy cơ khủng hoảng, cần củng cố hệ thống bằng quy định và giám sát hiệu quả.
 
 ### 3. Các lĩnh vực cơ cấu (phần hai)
 
-- **Lưới an sinh:** chính phủ thường có chương trình bảo đảm mức sống tối thiểu cho người nghèo và nhóm dễ tổn thương. Nhưng ở nhiều nước đang phát triển, một số chương trình tốn kém như trợ cấp xăng, thực phẩm nhắm sai và lợi người giàu hơn người nghèo. Ở nước phát triển, hưu trí tọa thu tọa chi có nợ chưa tài trợ khổng lồ vì người về hưu nhiều hơn người vào lực lượng lao động. Trợ cấp thất nghiệp hào phóng thường góp phần thất nghiệp cao vì chủ đóng bảo hiểm thất nghiệp ngại thuê. Chính phủ có thể đổi lưới an sinh để nhắm người cần và tiết kiệm đáng kể: phiếu thực phẩm cơ bản cho hộ thu nhập thấp, phát thực phẩm chỉ ở vùng nghèo, thay trợ cấp thực phẩm và xăng bằng chuyển tiền mặt. Hưu trí có thể đổi để phúc lợi khớp thu dự kiến qua nâng tuổi hưu hoặc tài trợ đầy đủ.
-- **Thị trường lao động:** thất nghiệp phổ biến vì nhiều lý do, thường tăng khi kinh tế xấu. Nhưng đôi khi nguyên nhân sâu hơn chu kỳ: đóng góp an sinh quá cao hay lương tối thiểu tương đối cao đẩy chi phí thuê đến mức cầu lao động co và thất nghiệp tăng. Cầu lao động cũng giảm nếu người lao động thiếu kỹ năng do đào tạo, giáo dục kém. Cải cách giáo dục và đào tạo tại chỗ giúp khôi phục cầu lao động.
-- **Thể chế công:** hiệu quả thể chế công ảnh hưởng đáng kể môi trường kinh tế. Lương chính phủ thấp, ví dụ ở cơ quan thuế, khuyến khích tham nhũng. Hệ thống pháp lý kém hiệu quả, thiếu toà án và thẩm phán khiến doanh nghiệp khó giải quyết tranh chấp, tăng chi phí và cản đầu tư, nhất là FDI, hại tăng trưởng. Cải thiện quản trị và thể chế qua đơn giản hoá quy định kinh doanh, cấp phép; củng cố hệ thống pháp lý; tinh gọn hành thu; tăng lương cán bộ cung cấp dịch vụ thiết yếu trong khi giới hạn biên chế công theo nhu cầu.
+Mục này trình bày ba lĩnh vực còn lại.
+
+**Thứ năm: lưới an sinh.** Chính phủ thường có các chương trình bảo đảm mức sống tối thiểu cho người nghèo và các nhóm dễ tổn thương. Nhưng nhiều chương trình được thiết kế kém:
+
+| Vấn đề | Nơi thường gặp | Vì sao có hại |
+|---|---|---|
+| Trợ cấp xăng, trợ cấp thực phẩm tốn kém | Nhiều nước đang phát triển | Nhắm sai đối tượng, người giàu được lợi nhiều hơn người nghèo |
+| Hưu trí tọa thu tọa chi | Nước phát triển | Nợ chưa tài trợ khổng lồ, vì số người về hưu tăng nhanh hơn số người vào lực lượng lao động |
+| Trợ cấp thất nghiệp hào phóng | | Góp phần làm thất nghiệp cao, vì chủ doanh nghiệp phải đóng bảo hiểm thất nghiệp nên ngại thuê thêm |
+
+Chính phủ có thể sửa lưới an sinh để nhắm đúng người cần và tiết kiệm đáng kể: phát phiếu mua thực phẩm cơ bản cho hộ thu nhập thấp; chỉ phát thực phẩm ở các vùng nghèo; thay trợ cấp thực phẩm và xăng bằng chuyển tiền mặt. Với hưu trí, có thể điều chỉnh để phúc lợi khớp với nguồn thu dự kiến, bằng cách nâng tuổi nghỉ hưu hoặc chuyển sang tài trợ đầy đủ (tích luỹ quỹ trước để trả sau).
+
+**Thứ sáu: thị trường lao động.** Thất nghiệp phổ biến vì nhiều lý do, và thường tăng khi kinh tế xấu đi. Nhưng đôi khi nguyên nhân sâu hơn chu kỳ kinh tế. Bài nêu hai nguyên nhân cơ cấu:
+
+- **Chi phí thuê lao động quá cao.** Mức đóng góp an sinh xã hội quá cao, hoặc lương tối thiểu tương đối cao, đẩy chi phí thuê một người lên đến mức doanh nghiệp thuê ít đi, cầu lao động co lại và thất nghiệp tăng.
+- **Thiếu kỹ năng.** Cầu lao động cũng giảm nếu người lao động thiếu kỹ năng vì đào tạo và giáo dục kém.
+
+Cải cách giáo dục và đào tạo tại chỗ giúp khôi phục cầu lao động.
+
+**Thứ bảy: thể chế công.** Hiệu quả của các thể chế công ảnh hưởng đáng kể đến môi trường kinh tế. Lương công chức thấp, chẳng hạn ở cơ quan thuế, khuyến khích tham nhũng. Một hệ thống pháp lý kém hiệu quả, thiếu toà án và thẩm phán, khiến doanh nghiệp khó giải quyết tranh chấp; điều đó làm tăng chi phí kinh doanh, cản trở đầu tư, nhất là đầu tư trực tiếp nước ngoài (FDI), và gây hại cho tăng trưởng. Cách cải thiện quản trị và thể chế:
+
+- đơn giản hoá quy định kinh doanh và thủ tục cấp phép;
+- củng cố hệ thống pháp lý;
+- tinh gọn bộ máy hành thu thuế;
+- tăng lương cho cán bộ cung cấp các dịch vụ thiết yếu, đồng thời giới hạn biên chế công theo đúng nhu cầu.
 
 ### 4. Tay trong tay
 
-- Nâng tiềm năng tăng trưởng đòi hỏi chính sách ổn định hoá và cơ cấu bổ sung nhau. Ổn định hoá đặt nền cho tăng trưởng bằng giúp giảm lạm phát, làm mượt tiêu dùng và đầu tư, giảm thâm hụt. Thực hiện thành công chính sách cơ cấu chỉ có thể sau khi mất cân đối vĩ mô đã được xử lý.
-- Tương tự, chính sách cơ cấu tăng hiệu quả nhiều biện pháp ổn định hoá: thúc đẩy cạnh tranh (chính sách cơ cấu) có thể dẫn đến giá thấp hơn và do đó lạm phát thấp hơn (mục tiêu ổn định hoá).
+Kết luận của bài là hai loại chính sách không thay thế mà **bổ sung** cho nhau: muốn nâng tiềm năng tăng trưởng của nền kinh tế thì cần cả hai. Quan hệ này đi theo hai chiều:
+
+- **Ổn định hoá đặt nền cho cơ cấu.** Chính sách ổn định hoá tạo nền tảng cho tăng trưởng bằng cách giúp giảm lạm phát, làm mượt tiêu dùng và đầu tư, và giảm thâm hụt. Chính sách cơ cấu chỉ có thể được thực hiện thành công sau khi các mất cân đối vĩ mô như vậy đã được xử lý.
+- **Cơ cấu làm ổn định hoá hiệu quả hơn.** Ngược lại, chính sách cơ cấu làm tăng hiệu quả của nhiều biện pháp ổn định hoá. Ví dụ: thúc đẩy cạnh tranh (một chính sách cơ cấu) có thể làm giá thấp hơn, và do đó lạm phát thấp hơn (một mục tiêu ổn định hoá).
+
+Nhìn lại bảy lĩnh vực ở mục 2 và 3, có thể thấy mối liên hệ này lặp lại: kiểm soát giá, doanh nghiệp nhà nước thua lỗ, khủng hoảng ngân hàng hay hệ thống thuế yếu đều là vấn đề cơ cấu, nhưng cuối cùng đều hiện ra dưới dạng thâm hụt và nợ, tức là vấn đề ổn định hoá.
 
 ## Thuật ngữ
 

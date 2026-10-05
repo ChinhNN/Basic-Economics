@@ -104,43 +104,107 @@
 3. Khi nào mất cân bằng đáng lo?
 4. Thế giới nên quản lý mất cân bằng dai dẳng thế nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tài khoản vãng lai (current account).** "Sổ cái" của một nước với phần còn lại của thế giới, ghi giá trị hàng hoá và dịch vụ bán ra nước ngoài, hàng hoá và dịch vụ mua từ nước ngoài, cùng các dòng thu nhập từ giao dịch với nước ngoài (như lãi, cổ tức, kiều hối). Ví dụ minh hoạ: một nước bán ra 500 tỷ USD, mua vào 450 tỷ USD và các dòng thu nhập ròng bằng 0, thì tài khoản vãng lai thặng dư 50 tỷ USD. Đây là thước đo trung tâm của cả bài.
+
+**Thặng dư và thâm hụt (surplus / deficit).** Thặng dư là khi một nước bán cho thế giới nhiều hơn mua; phần dư đó được cho nước ngoài vay hoặc đầu tư ra nước ngoài. Thâm hụt là khi mua nhiều hơn bán, và phần thiếu phải đi vay từ nước khác. Ví dụ minh hoạ: nếu nước A thặng dư 50 tỷ USD với thế giới, thì ở đâu đó trên thế giới phải có các nước thâm hụt tổng cộng 50 tỷ USD. Bài dùng điểm này để nói rằng điều chỉnh luôn liên quan tới cả hai phía.
+
+**Mất cân bằng toàn cầu (global imbalances).** Mô hình thặng dư và thâm hụt lớn, kéo dài giữa các nước. Bài so sánh với một khu phố nhỏ: một hộ tiết kiệm gần hết thu nhập, hộ bên cạnh chi tiêu vượt thu nhập và vay của hộ kia. Một hai năm thì không sao; nhưng nếu kéo dài hàng chục năm, nợ chồng chất và quan hệ giữa hai hộ trở nên căng thẳng.
+
+**Cán cân tiết kiệm - đầu tư (saving-investment balance).** Tài khoản vãng lai của một nước bằng tiết kiệm quốc gia trừ đầu tư trong nước. Ví dụ minh hoạ: nếu một nước tiết kiệm 30% thu nhập nhưng chỉ đầu tư 25%, phần 5% dư phải đi ra nước ngoài, và nước đó thặng dư khoảng 5% thu nhập. Bài nhấn mạnh rằng đây không chỉ là phép tính kế toán, mà phản ánh lựa chọn thật của hộ gia đình, doanh nghiệp và chính phủ.
+
+**Tỷ giá (exchange rate).** Giá của đồng tiền nước này tính bằng đồng tiền nước khác. Nhiều người cho rằng một nước thặng dư vì cố tình giữ đồng tiền yếu. Bài cho rằng thường là ngược lại: tỷ giá tăng giảm để làm cho thương mại khớp với cán cân tiết kiệm - đầu tư, tức tỷ giá phản ánh vị thế vãng lai chứ không gây ra nó.
+
+**Dòng vốn đảo chiều đột ngột (sudden reversal of capital flows).** Khi nhà đầu tư nước ngoài đồng loạt mất niềm tin và rút tiền khỏi một nước đang đi vay, nước đó buộc phải cắt thâm hụt ngay lập tức. Hệ quả thường là đồng tiền mất giá mạnh, căng thẳng tài chính và suy thoái. Ví dụ trong bài: Mexico đầu thập niên 1990 và Đông Á cuối thập niên 1990.
+
+**Điều chỉnh trật tự và hỗn loạn (orderly vs disorderly adjustment).** Điều chỉnh trật tự là khi thặng dư và thâm hụt thu hẹp dần qua nhiều năm, với tỷ giá và cầu nội địa thay đổi từ từ. Điều chỉnh hỗn loạn là khi thị trường bất ngờ đảo chiều và buộc thâm hụt phải sửa gấp, gây co hẹp sản lượng và có thể khủng hoảng. Bài muốn chỉ ra cách để có loại thứ nhất mà tránh loại thứ hai.
+
+**Cổ tức kép (double dividend).** Một cải cách đem lại hai lợi ích cùng lúc. Trong bài, đó là khi một nước sửa các méo mó trong nước, ví dụ một nước thặng dư làm cầu nội địa mạnh lên, vừa tăng trưởng tốt hơn ở trong nước vừa giảm mất cân bằng với bên ngoài.
+
+## Nội dung chi tiết
 
 ### 1. Vấn đề trường kỳ của Keynes
 
-- Hơn 80 năm trước, Keynes đặt trọng tâm vào sự dai dẳng của mất cân bằng toàn cầu, gọi là "vấn đề quốc tế trường kỳ". Ông cố giải quyết tại hội nghị Bretton Woods 1944 bằng một trung tâm thanh toán bù trừ quốc tế, nhưng thoả thuận cuối chỉ có bộ giải pháp yếu hơn.
-- Lo ngại lên xuống qua các thập kỷ, gần đây trở lại tâm điểm. Mất cân bằng nới rộng lại năm 2025, đảo ngược thu hẹp đều đặn trong thập kỷ sau khủng hoảng tài chính toàn cầu, khơi lại câu hỏi về tính bền vững.
-- **Điểm của Keynes:** trong thế giới liên kết, các nước không thể tiết kiệm, chi tiêu, vay độc lập. Hình dung khu phố nhỏ: một hộ tiết kiệm gần hết, hộ khác chi vượt thu và vay bù. Ban đầu ổn: hộ tiết kiệm có người vay tin cậy và kiếm lời, hộ chi tiêu sống thoải mái. Nhưng khi nợ tích tụ và vị thế cố định, thoả thuận tiện lợi có thể trở nên mong manh và gây căng thẳng.
-- **Định nghĩa:** mất cân bằng toàn cầu là phiên bản quốc tế của câu chuyện đó, mô hình thặng dư và thâm hụt giữa các nước. Mỗi nước giữ sổ cái với thế giới gọi là tài khoản vãng lai, ghi giá trị hàng hoá dịch vụ bán và mua ở nước ngoài cùng dòng thu nhập từ giao dịch nước ngoài. Bán nhiều hơn mua là thặng dư và cho thế giới vay. Mua nhiều hơn bán phải vay nước khác, tức thâm hụt.
+Hơn 80 năm trước, nhà kinh tế John Maynard Keynes đã đặt trọng tâm vào sự dai dẳng của mất cân bằng toàn cầu, và gọi nó là "vấn đề quốc tế trường kỳ". Ông cố giải quyết vấn đề này tại hội nghị Bretton Woods năm 1944, nơi lập ra trật tự tiền tệ quốc tế sau Thế chiến thứ hai, bằng đề xuất một trung tâm thanh toán bù trừ quốc tế. Nhưng thoả thuận cuối cùng chỉ chứa một bộ giải pháp yếu hơn so với đề xuất của ông.
+
+Mối lo về mất cân bằng lên xuống qua các thập kỷ và gần đây trở lại tâm điểm. Trong thập kỷ sau khủng hoảng tài chính toàn cầu, thặng dư và thâm hụt giữa các nước thu hẹp đều đặn. Nhưng năm 2025, mất cân bằng nới rộng trở lại, đảo ngược xu hướng đó và khơi lại câu hỏi liệu tình trạng này có bền vững hay không.
+
+**Điểm cốt lõi của Keynes** là trong một thế giới liên kết, các nước không thể tiết kiệm, chi tiêu và vay mượn một cách độc lập với nhau. Bài minh hoạ bằng một khu phố nhỏ. Một hộ tiết kiệm gần hết thu nhập; hộ khác chi tiêu vượt thu nhập và vay để bù. Ban đầu mọi việc ổn: hộ tiết kiệm có một người vay đáng tin cậy để kiếm lời từ tiền dư, còn hộ chi tiêu được sống thoải mái. Nhưng khi nợ tích tụ dần và vị thế của hai hộ trở nên cố định, thoả thuận tiện lợi ban đầu có thể trở nên mong manh và gây căng thẳng.
+
+**Định nghĩa.** Mất cân bằng toàn cầu là phiên bản quốc tế của câu chuyện khu phố đó: một mô hình thặng dư và thâm hụt giữa các nước. Mỗi nước giữ một sổ cái với thế giới, gọi là tài khoản vãng lai. Sổ này ghi giá trị hàng hoá và dịch vụ bán ra và mua từ nước ngoài, cùng các dòng thu nhập từ giao dịch với nước ngoài.
+
+| Tình huống | Gọi là | Quan hệ với thế giới |
+|---|---|---|
+| Bán nhiều hơn mua | Thặng dư | Cho thế giới vay |
+| Mua nhiều hơn bán | Thâm hụt | Vay từ thế giới |
 
 ### 2. Tiết kiệm và đầu tư
 
-- Cốt lõi, cán cân vãng lai phản ánh chênh lệch giữa tiết kiệm và chi tiêu của một nước. Không chỉ là đẳng thức kế toán mà phản ánh lựa chọn hướng tới tương lai của các tác nhân: hộ gia đình tiêu dùng và doanh nghiệp đầu tư khi kỳ vọng thu nhập cao hơn hoặc gặp thiếu hụt tạm thời; tiết kiệm khi thu nhập vượt tiêu dùng mong muốn, cơ hội đầu tư hạn chế, hoặc lo kinh tế yếu.
-- **Tỷ giá** có vai trò nhưng thường bị hiểu sai. Đồng tiền tăng hay giảm để giữ thương mại khớp với cán cân tiết kiệm - đầu tư. Tỷ giá phản ánh vị thế vãng lai chứ không phải nguyên nhân.
-- Nhìn vậy, mất cân bằng không chủ yếu về năng lực cạnh tranh thương mại. Chúng phản ánh khác biệt cấu trúc trong tiết kiệm và đầu tư nội địa giữa các nước, do nhân khẩu học, triển vọng tăng trưởng, phát triển tài chính, khung chính sách.
-- **Gần đây:** chủ yếu do hai nền kinh tế lớn nhất. Thị trường bất động sản Trung Quốc sụp năm năm trước làm đầu tư nội địa giảm khi xây nhà đình trệ; hộ gia đình cắt chi và tiết kiệm nhiều hơn. Ở Mỹ, thâm hụt ngân sách lớn cộng tiêu dùng mạnh làm cạn tiết kiệm quốc gia.
+Về bản chất, cán cân vãng lai phản ánh chênh lệch giữa tiết kiệm và chi tiêu (đầu tư) của một nước: tài khoản vãng lai bằng tiết kiệm trừ đầu tư. Bài nhấn mạnh đây không chỉ là một đẳng thức kế toán, mà phản ánh những lựa chọn hướng tới tương lai của các tác nhân trong nền kinh tế:
+
+- Hộ gia đình tiêu dùng nhiều và doanh nghiệp đầu tư nhiều khi họ kỳ vọng thu nhập sẽ cao hơn, hoặc khi gặp thiếu hụt tạm thời cần bù đắp.
+- Họ tiết kiệm nhiều khi thu nhập vượt mức tiêu dùng mong muốn, khi cơ hội đầu tư hạn chế, hoặc khi lo kinh tế sẽ yếu đi.
+
+**Tỷ giá** có vai trò, nhưng thường bị hiểu sai. Đồng tiền tăng hay giảm giá để giữ cho thương mại khớp với cán cân tiết kiệm - đầu tư. Nói cách khác, tỷ giá phản ánh vị thế vãng lai chứ không phải nguyên nhân gây ra nó. Ví dụ minh hoạ: nếu người dân một nước bỗng tiết kiệm nhiều hơn và mua ít hàng nhập hơn, nhu cầu ngoại tệ giảm, đồng nội tệ có xu hướng yếu đi, hàng xuất khẩu rẻ hơn, và thặng dư xuất hiện; ở đây sự thay đổi tiết kiệm là gốc, tỷ giá là kết quả.
+
+Nhìn theo cách này, mất cân bằng không chủ yếu là chuyện năng lực cạnh tranh thương mại. Chúng phản ánh những khác biệt cấu trúc trong tiết kiệm và đầu tư nội địa giữa các nước, bắt nguồn từ:
+
+- nhân khẩu học (một xã hội già thường tiết kiệm nhiều để chuẩn bị nghỉ hưu);
+- triển vọng tăng trưởng (nơi tăng trưởng nhanh có nhiều cơ hội đầu tư);
+- mức phát triển của hệ thống tài chính;
+- khung chính sách của mỗi nước.
+
+**Gần đây**, sự gia tăng mất cân bằng chủ yếu do hai nền kinh tế lớn nhất thế giới:
+
+| Nền kinh tế | Điều gì xảy ra | Kết quả |
+|---|---|---|
+| Trung Quốc | Thị trường bất động sản sụp đổ từ năm năm (5 năm) trước; xây nhà đình trệ nên đầu tư nội địa giảm; hộ gia đình cắt chi tiêu và tiết kiệm nhiều hơn | Tiết kiệm vượt đầu tư, thặng dư tăng |
+| Mỹ | Thâm hụt ngân sách lớn cộng với tiêu dùng mạnh làm cạn tiết kiệm quốc gia | Đầu tư vượt tiết kiệm, thâm hụt tăng |
 
 ### 3. Khi nào đáng lo
 
-- Không phải mọi thâm hụt hay thặng dư đều là vấn đề. Chúng có thể tự nhiên và đáng mong muốn nếu vốn chảy từ nền kinh tế tiên tiến già hoá sang nền kinh tế đang phát triển trẻ, tăng trưởng nhanh. Đáng lo khi mất cân bằng quá mức và bắt nguồn từ méo mó dai dẳng đe doạ ổn định kinh tế tài chính toàn cầu.
-- **Nước thâm hụt:** càng phụ thuộc vay ngoài càng dễ tổn thương khi điều kiện tài chính toàn cầu đổi đột ngột. Nhà đầu tư mất niềm tin hoặc vốn đắt hơn, dòng vốn có thể đảo chiều bất ngờ, dẫn đến mất giá tiền tệ, căng thẳng tài chính, suy thoái, như Mexico đầu 1990s và Đông Á cuối thập kỷ đó.
-- **Nước thặng dư** không đối mặt rủi ro điều chỉnh tương tự, nhưng chính sách của họ có hệ quả tích tụ dần cho nước khác. Thặng dư phản ánh cầu nội địa yếu, hệ thống tài chính kém phát triển, hay chính sách khuyến khích tiết kiệm có thể cho thấy dùng nguồn lực kém hiệu quả. Tiết kiệm dư chảy ra ngoài đẩy lãi suất và giá toàn cầu xuống. Thặng dư từ chính sách tăng cạnh tranh xuất khẩu: xuất khẩu rẻ giúp đối tác đang chật vật với lạm phát cao, nhưng đè nặng đối tác cầu yếu hoặc ngành cạnh tranh trực diện, kéo tăng trưởng của họ xuống.
-- Thị trường tài chính trừng phạt nước thâm hụt dai dẳng và buộc điều chỉnh bằng cách hạ giá đồng tiền và tăng chi phí vay, nhưng nước thặng dư dai dẳng không gặp lực kỷ luật tương đương.
-- **Toàn cầu:** mất cân bằng khuếch đại chu kỳ tài chính. Dòng vốn lớn nuôi bùng nổ tín dụng và thổi giá tài sản ở nước thâm hụt. Nước thặng dư tích luỹ tài sản nước ngoài lớn nhạy với tỷ giá và lãi suất. Hệ thống mong manh hơn.
+Không phải mọi thâm hụt hay thặng dư đều là vấn đề. Chúng có thể hoàn toàn tự nhiên và đáng mong muốn, ví dụ khi vốn chảy từ những nền kinh tế tiên tiến đang già hoá (nơi người dân tiết kiệm nhiều cho tuổi già nhưng ít cơ hội đầu tư) sang những nền kinh tế đang phát triển có dân số trẻ và tăng trưởng nhanh (nơi cần nhiều vốn để xây dựng). Đó là phân bổ vốn hiệu quả. Mất cân bằng chỉ đáng lo khi nó quá mức và bắt nguồn từ những méo mó dai dẳng đe doạ ổn định kinh tế và tài chính toàn cầu.
+
+**Rủi ro với nước thâm hụt.** Một nước càng phụ thuộc vào vay nước ngoài thì càng dễ tổn thương khi điều kiện tài chính toàn cầu thay đổi đột ngột. Nếu nhà đầu tư mất niềm tin hoặc vốn trở nên đắt hơn, dòng vốn có thể đảo chiều bất ngờ, dẫn tới đồng tiền mất giá, căng thẳng tài chính và suy thoái. Mexico đầu thập niên 1990 và Đông Á cuối thập niên đó (cuối những năm 1990) là những ví dụ.
+
+**Rủi ro do nước thặng dư gây ra.** Nước thặng dư không đối mặt với nguy cơ phải điều chỉnh gấp như vậy, nhưng chính sách của họ có những hệ quả tích tụ dần cho các nước khác:
+
+- Thặng dư phản ánh cầu nội địa yếu, hệ thống tài chính kém phát triển, hay chính sách khuyến khích tiết kiệm có thể cho thấy nước đó đang dùng nguồn lực của mình kém hiệu quả.
+- Tiết kiệm dư chảy ra nước ngoài đẩy lãi suất và giá cả toàn cầu xuống.
+- Khi thặng dư đến từ chính sách tăng sức cạnh tranh của hàng xuất khẩu, hàng xuất khẩu rẻ có thể giúp những đối tác đang chật vật với lạm phát cao. Nhưng nó đè nặng lên những đối tác có cầu yếu, hoặc có các ngành phải cạnh tranh trực diện với hàng nhập đó, và kéo tăng trưởng của họ xuống.
+
+**Sự bất đối xứng về kỷ luật.** Thị trường tài chính trừng phạt nước thâm hụt dai dẳng và buộc họ điều chỉnh, bằng cách hạ giá đồng tiền của họ và làm chi phí vay tăng lên. Nhưng nước thặng dư dai dẳng không chịu một lực kỷ luật tương đương nào từ thị trường.
+
+**Rủi ro cho toàn cầu.** Mất cân bằng khuếch đại các chu kỳ tài chính. Dòng vốn lớn nuôi bùng nổ tín dụng và thổi phồng giá tài sản ở nước thâm hụt. Trong khi đó, nước thặng dư tích luỹ khối tài sản nước ngoài lớn, nhạy cảm với biến động tỷ giá và lãi suất. Cả hệ thống vì thế trở nên mong manh hơn.
 
 ### 4. Hành động cả hai phía
 
-- Không kiểm soát, mất cân bằng còn nuôi căng thẳng địa chính trị. Nhà máy đóng cửa, mất việc ở cộng đồng hay ngành bị hàng nhập tràn vào tạo cảm giác sân chơi bất công, tăng ủng hộ thuế quan và bảo hộ.
-- **Thuế quan đơn phương** là lối tắt hấp dẫn nhưng tác động yếu và không đáng tin lên cán cân bên ngoài vì không đổi động lực tiết kiệm - đầu tư gốc. Chúng có thể kích phản ứng ăn miếng trả miếng làm gián đoạn thêm kinh tế toàn cầu.
-- **Cân bằng hơn cần hành động cả hai phía.** Điều chỉnh không bao giờ là chuyện một nước: thâm hụt nước này là thặng dư nước kia, thay đổi tiết kiệm - đầu tư ở một nền kinh tế ảnh hưởng nơi khác. Nước thâm hụt cần tăng tiết kiệm và bảo đảm vay phục vụ đầu tư sản xuất. Nước thặng dư cần tăng cầu nội địa hoặc giảm tiết kiệm dư. Cùng làm thì mất cân bằng thu hẹp theo cách hỗ trợ tăng trưởng toàn cầu.
-- **Điều chỉnh trật tự:** tiết kiệm và đầu tư dịch chuyển dần, có chính sách và điều kiện tài chính ổn định hỗ trợ; tỷ giá điều chỉnh; cầu nội địa tái cân bằng; chênh lệch bên ngoài thu hẹp không gián đoạn lớn. Cải cách sửa méo mó nội địa có thể cho "cổ tức kép": tăng trưởng trong nước và giảm mất cân bằng bên ngoài.
-- **Điều chỉnh hỗn loạn:** do tâm lý thị trường hay điều kiện tài chính đổi đột ngột. Vốn đảo chiều buộc sửa thâm hụt gấp, sản lượng co mạnh, có thể khủng hoảng tài chính nghiêm trọng với mất mát sản lượng toàn cầu đáng kể.
+Nếu không được kiểm soát, mất cân bằng còn nuôi căng thẳng địa chính trị. Khi nhà máy đóng cửa và người lao động mất việc ở những cộng đồng hay ngành bị hàng nhập khẩu tràn vào, cảm giác về một "sân chơi bất công" lan rộng, và sự ủng hộ dành cho thuế quan và bảo hộ tăng lên.
+
+**Thuế quan đơn phương** là một lối tắt hấp dẫn, nhưng tác động của nó lên cán cân bên ngoài yếu và không đáng tin, vì nó không thay đổi các động lực tiết kiệm - đầu tư ở gốc. Ví dụ minh hoạ: nếu một nước áp thuế quan mà người dân vẫn chi tiêu vượt thu nhập như cũ, phần nhập khẩu giảm từ một đối tác sẽ được bù bằng nhập khẩu từ nơi khác hoặc bằng xuất khẩu giảm, và thâm hụt tổng thể khó thay đổi. Thuế quan còn có thể kích hoạt phản ứng ăn miếng trả miếng, làm kinh tế toàn cầu gián đoạn thêm.
+
+**Cân bằng hơn đòi hỏi hành động từ cả hai phía.** Điều chỉnh không bao giờ là chuyện của một nước: thâm hụt của nước này là thặng dư của nước kia, và thay đổi tiết kiệm - đầu tư ở một nền kinh tế sẽ ảnh hưởng tới nơi khác. Bài nêu việc cần làm:
+
+| Phía | Cần làm |
+|---|---|
+| Nước thâm hụt | Tăng tiết kiệm và bảo đảm tiền vay được dùng cho đầu tư sản xuất |
+| Nước thặng dư | Tăng cầu nội địa hoặc giảm tiết kiệm dư |
+
+Nếu cả hai cùng làm, mất cân bằng sẽ thu hẹp theo cách hỗ trợ tăng trưởng toàn cầu thay vì kìm hãm nó.
+
+Bài phân biệt hai con đường điều chỉnh:
+
+- **Điều chỉnh trật tự:** tiết kiệm và đầu tư dịch chuyển dần dần, được hỗ trợ bởi chính sách hợp lý và điều kiện tài chính ổn định; tỷ giá điều chỉnh; cầu nội địa tái cân bằng; chênh lệch với bên ngoài thu hẹp mà không gây gián đoạn lớn. Những cải cách sửa các méo mó trong nước có thể đem lại "cổ tức kép": tăng trưởng trong nước tốt hơn và mất cân bằng bên ngoài nhỏ đi.
+- **Điều chỉnh hỗn loạn:** xảy ra khi tâm lý thị trường hay điều kiện tài chính thay đổi đột ngột. Dòng vốn rút đi buộc nước thâm hụt phải sửa thâm hụt gấp, sản lượng co lại mạnh, và có thể dẫn tới khủng hoảng tài chính nghiêm trọng kèm mất mát sản lượng đáng kể cho cả thế giới.
 
 ### 5. Quyết định thường ngày
 
-- Mất cân bằng toàn cầu không phải kết quả của lực bí ẩn mà của quyết định kinh tế thường ngày: tiết kiệm bao nhiêu, đầu tư bao nhiêu, lên kế hoạch tương lai thế nào. Các nước, như hộ gia đình, không luôn chi đúng bằng thu.
-- Ở mặt tốt nhất, mất cân bằng cho phép chia sẻ rủi ro, làm mượt tiêu dùng, phân bổ vốn hiệu quả xuyên biên giới. Ở mặt tệ nhất, phản ánh méo mó nội địa, tạo tổn thương, và rủi ro một cuộc thanh toán tốn kém. Hộ tiết kiệm và hàng xóm đi vay rồi sẽ phải đàm phán lại. Câu hỏi là liệu có làm được mà không gây khủng hoảng không ai muốn.
-- Đó là thách thức lâu bền ở trung tâm kinh tế toàn cầu, và lý do "vấn đề quốc tế trường kỳ" của Keynes vẫn còn với chúng ta.
+Bài kết luận rằng mất cân bằng toàn cầu không phải kết quả của một lực bí ẩn nào, mà của những quyết định kinh tế thường ngày: tiết kiệm bao nhiêu, đầu tư bao nhiêu, và lên kế hoạch cho tương lai thế nào. Các nước, cũng như các hộ gia đình, không phải lúc nào cũng chi đúng bằng thu.
+
+Mất cân bằng có hai mặt. Ở mặt tốt nhất, nó cho phép các nước chia sẻ rủi ro, làm mượt tiêu dùng qua các thời kỳ, và phân bổ vốn hiệu quả qua biên giới. Ở mặt tệ nhất, nó phản ánh những méo mó trong nước, tạo ra các điểm dễ tổn thương, và mang rủi ro của một cuộc thanh toán nợ tốn kém. Quay lại với khu phố nhỏ: hộ tiết kiệm và người hàng xóm đi vay rồi sẽ phải đàm phán lại với nhau. Câu hỏi là liệu họ có làm được việc đó mà không gây ra một cuộc khủng hoảng mà không ai mong muốn hay không.
+
+Đó là thách thức lâu bền ở trung tâm của kinh tế toàn cầu, và là lý do "vấn đề quốc tế trường kỳ" của Keynes vẫn còn ở với chúng ta.
 
 ## Thuật ngữ
 

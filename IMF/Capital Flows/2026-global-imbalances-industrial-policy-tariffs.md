@@ -387,60 +387,194 @@
 2. Thuế quan có phải là công cụ hữu hiệu để giảm thâm hụt vãng lai không?
 3. Bao nhiêu phần của mức giãn rộng gần đây có thể quy cho các nguyên nhân vĩ mô truyền thống?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Cán cân vãng lai (current account).** Phần chênh lệch giữa những gì một nước thu được từ nước ngoài (chủ yếu tiền bán hàng xuất khẩu, cộng thu nhập đầu tư và kiều hối) và những gì nước đó trả cho nước ngoài. Về mặt kế toán, nó luôn bằng tiết kiệm quốc gia trừ đầu tư trong nước. Ví dụ minh hoạ: một nước tiết kiệm 30% GDP nhưng chỉ đầu tư 25% GDP trong nước thì 5% GDP còn lại phải được cho nước ngoài vay hoặc đầu tư ra nước ngoài, và nước đó có thặng dư vãng lai 5% GDP. Khái niệm này quan trọng vì toàn bộ bài lập luận rằng muốn hiểu thặng dư hay thâm hụt thay đổi thì phải hỏi vì sao tiết kiệm và đầu tư thay đổi, chứ không chỉ hỏi hàng hoá rẻ hay đắt.
+
+**Mất cân đối toàn cầu (global imbalances).** Tình trạng một số nước có thặng dư vãng lai lớn kéo dài trong khi các nước khác có thâm hụt lớn tương ứng; thường đo bằng tổng giá trị tuyệt đối của các thặng dư và thâm hụt. Trong bài, hai đầu lớn nhất là thặng dư của Trung Quốc và thâm hụt của Hoa Kỳ. Đây là đối tượng mà cả bài tìm cách giải thích.
+
+**Cách tiếp cận liên thời gian (intertemporal approach).** Cách nhìn cán cân vãng lai như kết quả của lựa chọn giữa hiện tại và tương lai: hộ gia đình quyết định tiêu dùng bây giờ hay để dành, doanh nghiệp quyết định đầu tư bây giờ để thu lợi sau. Ví dụ minh hoạ: một người biết chắc năm sau lương tăng gấp đôi sẽ tiêu nhiều hơn ngay từ năm nay, còn người được thưởng một lần sẽ để dành phần lớn khoản thưởng. Bài gọi điều này là "nguyên tắc vàng": cú sốc tạm thời hay vĩnh viễn sẽ đẩy cán cân theo hai hướng ngược nhau.
+
+**Lãi suất tự cung tự cấp (autarky interest rate).** Mức lãi suất mà một nước sẽ có nếu không được vay hay cho vay với nước ngoài, tức lãi suất làm tiết kiệm trong nước đúng bằng đầu tư trong nước. Nước ít tiết kiệm mà nhiều cơ hội đầu tư sẽ có lãi suất tự cung tự cấp cao; nước thích tiết kiệm sẽ có lãi suất thấp. Khi vốn được tự do đi lại, lãi suất thế giới nằm giữa hai mức đó, và chênh lệch này quyết định ai thặng dư, ai thâm hụt.
+
+**Hàng ngoại thương và phi ngoại thương (tradable / nontradable).** Hàng ngoại thương là thứ có thể mua bán qua biên giới như thép, điện thoại, quần áo. Hàng phi ngoại thương là thứ phải sản xuất và tiêu dùng tại chỗ như cắt tóc, nhà ở, dịch vụ ăn uống. Ví dụ minh hoạ: nếu chính sách kéo nhiều lao động sang nhà máy xuất khẩu, số thợ xây và nhân viên dịch vụ giảm, giá dịch vụ trong nước tăng lên. Phân biệt này quan trọng vì nhiều kết quả bất ngờ của bài đi qua đúng kênh này.
+
+**Tỷ giá thực (real exchange rate).** Giá hàng hoá và dịch vụ của một nước so với nước ngoài, sau khi đã tính cả tỷ giá danh nghĩa lẫn mức giá hai bên. Tỷ giá thực "lên giá" nghĩa là hàng trong nước trở nên đắt hơn tương đối, dù tỷ giá danh nghĩa có thể không đổi. Ví dụ minh hoạ: tỷ giá danh nghĩa giữ nguyên, nhưng giá trong nước tăng 10% trong khi giá nước ngoài đứng yên, thì tỷ giá thực đã lên giá khoảng 10% và hàng xuất khẩu kém cạnh tranh hơn. Trong bài, việc tỷ giá thực lên giá là cơ chế khiến chính sách nhắm tăng xuất khẩu lại làm cán cân giảm.
+
+**Đàn áp tài chính và tiết kiệm cưỡng bức (financial repression, forced saving).** Đàn áp tài chính là việc nhà nước giữ lãi suất thấp một cách nhân tạo và chỉ định tín dụng, ví dụ đặt trần lãi suất tiền gửi. Tiết kiệm cưỡng bức là các biện pháp buộc khu vực tư nhân để dành nhiều hơn, như cấm chia cổ tức hay bắt đóng hưu trí bắt buộc. Ví dụ minh hoạ: lạm phát 3% mà trần lãi suất tiền gửi chỉ 1%, người gửi tiền mất 2% sức mua mỗi năm, phần mất đó thực chất chuyển sang người vay rẻ. Bài chỉ ra rằng chính nhóm công cụ "vĩ mô" này, chứ không phải trợ cấp ngành, mới nâng được thặng dư rõ ràng.
+
+**Đối xứng Lerner và hộ gia đình không theo Ricardo.** Đối xứng Lerner là kết quả lý thuyết rằng một mức thuế nhập khẩu đồng loạt có tác động giống một mức thuế xuất khẩu tương đương, và tác động của nó có thể bị triệt tiêu bởi việc đồng tiền lên giá. Hộ gia đình "không theo Ricardo" là hộ không tự tăng tiết kiệm khi chính phủ vay nhiều hơn (và không tự giảm tiết kiệm khi chính phủ trả nợ). Ví dụ minh hoạ: chính phủ thu thêm 10 đồng thuế để trả nợ; nếu hộ gia đình chỉ giảm tiết kiệm 4 đồng chứ không giảm đủ 10, tiết kiệm của cả nước vẫn tăng 6 đồng. Hai khái niệm này giải thích vì sao thuế quan chỉ tác động lên cán cân khi tiền thuế được dùng để trả nợ.
+
+## Nội dung chi tiết
 
 ### 1. Bối cảnh tranh luận
 
-- Sau một thập kỷ thu hẹp kể từ khủng hoảng tài chính toàn cầu năm 2008, cán cân vãng lai toàn cầu đã giãn rộng trở lại từ sau đại dịch, chủ yếu do diễn biến ở hai nền kinh tế lớn nhất là Hoa Kỳ và Trung Quốc. Việc các cán cân trở lại mức từng thấy trước khủng hoảng làm sống lại mối quan ngại và thổi bùng tranh luận về nguyên nhân.
-- Cách nhìn vĩ mô chuẩn nhấn mạnh rằng cán cân vãng lai đồng nhất bằng hiệu giữa tiết kiệm quốc gia và đầu tư trong nước, hai đại lượng hướng về tương lai. Do đó muốn hiểu cán cân thay đổi thì phải hiểu vì sao và bằng cách nào các quyết định tiết kiệm và đầu tư liên thời gian thay đổi. Cách tiếp cận này thường phong phú và sâu sắc hơn cách tiếp cận trong cùng thời kỳ vốn chỉ chú ý hẹp vào sức cạnh tranh và giá tương đối.
-- Cách nhìn thay thế lập luận rằng thặng dư đối ngoại của Trung Quốc là kết quả của các biện pháp chính sách công nghiệp nhằm kích thích xuất khẩu và hỗ trợ tăng trưởng giữa lúc cầu trong nước yếu. Vì thặng dư đó phải được đối tác thương mại hấp thụ, nó góp phần bào mòn nền tảng chế tạo ở phần còn lại của thế giới, với nguy cơ về một cú sốc Trung Quốc thứ hai.
-- Cho tới gần đây, tài liệu chuẩn ít chú ý tới chính sách công nghiệp hay thương mại như yếu tố quyết định mất cân đối. Lý do là các biện pháp chính sách công nghiệp thường nhắm hẹp và quy mô nhỏ nên được cho là khó có tác động đáng kể ở cấp tổng thể. Về chính sách thương mại, tài liệu phân biệt thuế quan tạm thời với thuế quan vĩnh viễn, và kết luận rằng loại sau để tiết kiệm và đầu tư nguyên vẹn nên cán cân cũng không đổi, với đồng tiền của nước đánh thuế phải lên giá thay thế.
-- Việc sử dụng cả chính sách công nghiệp lẫn chính sách thương mại tăng nhanh, với mục đích tuyên bố là nâng sức cạnh tranh, đòi hỏi phải đánh giá lại. Thuế quan nhập khẩu bình quân của Hoa Kỳ vọt lên từ tháng một năm 2025, cao hơn hẳn mức của các nền kinh tế lớn khác. Số biện pháp chính sách công nghiệp phi thuế quan tăng mạnh trong năm năm qua, ở Trung Quốc nhanh hơn các nơi khác nhưng cũng lan rộng khắp các khu vực.
+Sau khủng hoảng tài chính toàn cầu năm 2008, mức chênh lệch cán cân vãng lai giữa các nước thu hẹp trong khoảng một thập kỷ. Từ sau đại dịch, nó giãn rộng trở lại, chủ yếu do diễn biến ở hai nền kinh tế lớn nhất là Hoa Kỳ và Trung Quốc. Khi các cán cân quay về mức từng thấy trước khủng hoảng, mối lo cũ sống lại và cuộc tranh luận về nguyên nhân bùng lên. Có hai cách nhìn chính.
+
+| | Cách nhìn vĩ mô chuẩn (liên thời gian) | Cách nhìn thay thế |
+|---|---|---|
+| Cán cân vãng lai là gì | Đồng nhất bằng tiết kiệm quốc gia trừ đầu tư trong nước; cả hai đều là biến hướng về tương lai | Kết quả của chính sách công nghiệp nhằm kích xuất khẩu và hỗ trợ tăng trưởng giữa lúc cầu trong nước yếu |
+| Muốn hiểu thay đổi thì phải hỏi | Vì sao và bằng cách nào quyết định tiết kiệm và đầu tư liên thời gian thay đổi | Nhà nước đã trợ cấp, bảo hộ ngành nào |
+| Động lực chính được nêu | Thâm hụt tài khoá ở Mỹ; dân số già hoá nhanh và chu kỳ bùng nổ rồi vỡ của bất động sản ở Trung Quốc | Chính sách công nghiệp của Trung Quốc |
+| Hệ quả với thế giới | Mất cân đối phần lớn do điều kiện trong nước | Đối tác thương mại phải hấp thụ thặng dư, nền tảng chế tạo ở phần còn lại thế giới bị bào mòn, nguy cơ "cú sốc Trung Quốc 2.0" |
+| Tác giả tiêu biểu | Obstfeld (1982, 2024); Gourinchas và cộng sự (2024) | Yellen (2024); Uỷ ban châu Âu (2023); Pettis (2024) |
+
+Bài cho rằng cách tiếp cận liên thời gian thường phong phú và sâu sắc hơn cách tiếp cận "trong cùng thời kỳ", vốn chỉ chú ý hẹp vào sức cạnh tranh và giá tương đối.
+
+Vì sao tài liệu chuẩn trước đây ít để ý tới chính sách công nghiệp và thương mại như một nguyên nhân của mất cân đối? Với chính sách công nghiệp, lý do là các biện pháp thường nhắm hẹp vào một ngành và có quy mô nhỏ, nên được cho là khó tác động ở cấp tổng thể. Với thuế quan, lý thuyết chuẩn (Razin và Svensson 1983) phân biệt hai loại. Thuế quan tạm thời làm hàng nhập hôm nay đắt hơn ngày mai, nên khuyến khích tiết kiệm. Thuế quan vĩnh viễn không làm thay đổi lựa chọn giữa hiện tại và tương lai, nên tiết kiệm, đầu tư và cán cân không đổi; thay vào đó, đồng tiền của nước đánh thuế phải lên giá.
+
+Lý do phải đánh giá lại ngay bây giờ là việc dùng cả hai loại chính sách đều tăng nhanh, với mục đích tuyên bố là nâng sức cạnh tranh:
+
+- Thuế quan nhập khẩu bình quân của Hoa Kỳ vọt lên từ tháng 1/2025, cao hơn hẳn mức của các nền kinh tế lớn khác.
+- Số biện pháp chính sách công nghiệp phi thuế quan, theo đếm của Đài quan sát Chính sách Công nghiệp Mới (NIPO), tăng mạnh trong năm năm qua. Ở Trung Quốc tốc độ nhanh hơn, nhưng xu hướng lan rộng khắp các khu vực.
+- Quy mô chi phí đáng kể: ở Trung Quốc, trợ cấp trực tiếp và gián tiếp khoảng 4% GDP mỗi năm (ước 3,9% GDP năm 2023, chưa tính phần đất được trợ giá). Ở các nền kinh tế tiên tiến và mới nổi khác, con số lên tới 1% tổng sản lượng (OECD 2025).
 
 ### 2. Khung phân tích
 
-- Công cụ khái niệm là sơ đồ tiết kiệm và đầu tư kiểu Metzler, suy ra từ lý thuyết liên thời gian về cán cân vãng lai. Thế giới gồm hai khu vực lớn với thị trường vốn hội nhập. Khu vực A có người dân ít tiết kiệm nhưng nhiều cơ hội đầu tư nên lãi suất tự cung tự cấp cao hơn, khu vực B thì ngược lại. Khi hội nhập tài chính, lãi suất thế giới nằm giữa hai mức tự cung tự cấp và cân bằng nhu cầu vay của A với nhu cầu cho vay của B.
-- Nguyên tắc vàng của khung này là tính lâu dài của cú sốc quyết định tất cả. Một cú sốc tạm thời nâng thu nhập hiện tại làm hộ gia đình san đều tiêu dùng nên tiết kiệm tăng và cán cân tăng. Một cú sốc vĩnh viễn nâng thu nhập tương lai làm tiêu dùng và đầu tư tăng ngay nên cán cân giảm. Nói chung, tác động của chính sách lên cán cân sẽ lớn hơn khi nó biến thiên theo thời gian, còn chính sách có tác động được cảm nhận là bất biến theo thời gian thì trung tính với cán cân vì không làm thay đổi sự thay thế liên thời gian.
-- Để bổ trợ cho sơ đồ, bài mô phỏng trong mô hình Keynes mới hai nước theo tần suất quý, có hàng hoá ngoại thương và phi ngoại thương. Mô hình có các ma sát thường gặp trong mô hình quy mô trung bình như cứng nhắc danh nghĩa, chi phí điều chỉnh đầu tư, và hộ gia đình bị ràng buộc tín dụng tiêu hết thu nhập từng kỳ. Đây là những đặc điểm quan trọng làm mô hình gần với động lực vĩ mô thực tế hơn.
+Công cụ khái niệm của bài là **sơ đồ Metzler**, một sơ đồ tiết kiệm và đầu tư suy ra từ lý thuyết liên thời gian về cán cân vãng lai. Thế giới gồm hai khu vực lớn có thị trường vốn hội nhập. Trong mỗi khu vực, tiết kiệm tăng khi lãi suất thực tăng (để dành được trả nhiều hơn), còn đầu tư giảm khi lãi suất thực tăng (vay để đầu tư đắt hơn). Vì cả hai khu vực đều lớn, hành vi của mỗi bên ảnh hưởng tới lãi suất thế giới.
+
+| | Khu vực A | Khu vực B |
+|---|---|---|
+| Đặc điểm | Người dân ít tiết kiệm nhưng nhiều cơ hội đầu tư | Người dân thiên về tiết kiệm |
+| Lãi suất khi tự cung tự cấp | Cao (r^A) | Thấp (r^B) |
+| Khi hội nhập, ở lãi suất thế giới r* | Đầu tư vượt tiết kiệm, phải đi vay: cán cân âm | Tiết kiệm vượt đầu tư, cho vay ra ngoài: cán cân dương |
+
+Lãi suất thế giới r* nằm giữa hai mức tự cung tự cấp, ở đúng chỗ nhu cầu vay của A bằng nhu cầu cho vay của B.
+
+**Nguyên tắc vàng của khung này: tính lâu dài của cú sốc quyết định tất cả.**
+
+- Một cú sốc **tạm thời** nâng thu nhập hiện tại: hộ gia đình muốn san đều tiêu dùng qua các năm, nên để dành phần lớn khoản tăng thêm. Tiết kiệm tăng, cán cân tăng.
+- Một cú sốc **vĩnh viễn** nâng thu nhập tương lai: hộ gia đình tiêu dùng nhiều hơn ngay, doanh nghiệp đầu tư nhiều hơn ngay. Cán cân giảm.
+- Nói chung, chính sách tác động lên cán cân mạnh hơn khi tác động của nó thay đổi theo thời gian. Chính sách có tác động được cảm nhận là bất biến theo thời gian thì trung tính với cán cân, vì nó không làm thay đổi sự đánh đổi giữa tiêu dùng hôm nay và ngày mai.
+
+Để kiểm chứng sơ đồ, bài mô phỏng trong một **mô hình Keynes mới hai nước** theo tần suất quý, có hàng ngoại thương và phi ngoại thương. Mô hình có các ma sát thường gặp trong mô hình vĩ mô quy mô trung bình: giá và lương cứng nhắc danh nghĩa, chi phí điều chỉnh đầu tư (doanh nghiệp không thể tăng vốn quá nhanh mà không tốn kém), và một nhóm hộ gia đình bị ràng buộc tín dụng, tiêu hết thu nhập từng kỳ. Các đặc điểm này làm mô hình gần với động lực vĩ mô thực tế hơn.
 
 ### 3. Chính sách công nghiệp ngành
 
-- Chính sách công nghiệp thường được hiểu là ưu ái ngành hoặc doanh nghiệp cụ thể để hỗ trợ tăng trưởng. Bản chất nhắm trúng đích khiến tác động chính là tái phân bổ nguồn lực giữa các ngành và định hình lợi thế so sánh, mà không nhất thiết có tác động rõ ràng lên cán cân tổng thể.
-- Có thể xác định các trường hợp mà chính sách này đủ lớn để tác động tới tiết kiệm và đầu tư tổng thể: khi ngành được nhắm đủ lớn, chẳng hạn toàn bộ khu vực ngoại thương, hoặc khi có lan toả mạnh do vị trí trung tâm trong mạng đầu vào và đầu ra.
-- Kênh thứ nhất là qua năng suất tổng thể, có thể tăng nếu chính sách sửa được thất bại thị trường đáng kể, hoặc giảm nếu gây phân bổ sai nguồn lực. Kênh thứ hai là qua tác động tài khoá khi chính sách vận hành qua trợ cấp.
-- Bằng chứng thực nghiệm còn thiếu. Đã có nghiên cứu cho thấy chính sách công nghiệp ảnh hưởng tới năng suất ở từng nước và từng ngành, nhưng khó khăn trong việc đo lường nhất quán giữa các nước và theo thời gian đã cản trở việc đánh giá tác động lên cán cân. Các nghiên cứu dạng rút gọn gợi ý rằng trợ cấp và chính sách công nghiệp mở rộng xuất khẩu và giảm nhập khẩu ở các sản phẩm được nhắm tại Trung Quốc và các nền kinh tế mới nổi khác, nhưng không bền vững. Phân tích định lượng lại cho thấy các chính sách nhắm đích này có thể kích hoạt hiệu ứng tái phân bổ quan trọng, làm nổi bật tính mơ hồ của bất kỳ tác động tổng thể nào.
-- Kết quả trung tâm được phát biểu như một nghịch lý: chính sách công nghiệp làm tăng thặng dư vãng lai khi nó không thành công, tức khi chỉ nâng năng suất tạm thời, hoặc khi gây phân bổ sai cơ cấu làm giảm năng suất lâu dài qua đó hạ thu nhập kỳ vọng, giảm đầu tư và tăng tiết kiệm phòng ngừa.
-- Mô hình xác nhận dự đoán của khung khái niệm nhưng làm nổi bật thêm các kênh do hiệu ứng riêng theo ngành và các ma sát. Với cú sốc năng suất tích cực tạm thời ở khu vực ngoại thương, cán cân tăng ban đầu, do tiết kiệm cao. Với cú sốc vĩnh viễn, cán cân giảm, chủ yếu qua đầu tư cao hơn chứ không phải tiết kiệm giảm.
-- Một phát hiện tinh tế là ngành nào được hỗ trợ cũng quan trọng. Khi chính sách hỗ trợ ngành ngoại thương nhưng đồng thời gây phân bổ sai làm giảm năng suất ngành phi ngoại thương, kết cục không phải là hình ảnh phản chiếu của trường hợp năng suất tăng. Hàng phi ngoại thương trở nên khan hiếm, và vì chúng thay thế kém cho hàng ngoại thương, giá tương đối của chúng tăng nhanh, dẫn tới tỷ giá thực lên giá và mất sức cạnh tranh, làm cán cân giảm thêm.
-- Với trợ cấp đầu tư vĩnh viễn cho khu vực ngoại thương, nguồn tiền tài trợ trở nên quan trọng. Trợ cấp làm tăng sản lượng tương lai qua làm sâu vốn, nên hộ gia đình giảm tiết kiệm để đón thu nhập cao hơn trong khi đầu tư được trợ giá mở rộng, cả hai đều hạ cán cân. Nhưng nếu tài trợ bằng thuế, thu nhập khả dụng giảm nên mức giảm tiết kiệm ban đầu bị hạn chế. Hiệu ứng này đặc biệt mạnh khi gánh nặng thuế rơi vào hộ gia đình bị ràng buộc tín dụng, vốn phản ứng rất nhạy với thu nhập hiện tại. Kết quả là cán cân xấu đi ít hơn khi trợ cấp được tài trợ bằng thuế ngay lập tức.
-- Trường hợp chỉ tiêu sản lượng cho thấy rõ nhất sự khác biệt giữa cân bằng từng phần và cân bằng tổng thể. Đầu tư tăng nhanh khi doanh nghiệp nhắm sản lượng cao hơn với biên lợi nhuận thấp hơn. Cùng lúc, đầu vào ở ngành phi ngoại thương khan hiếm tương đối, tạo thêm cầu lao động và đầu tư ở đó, đẩy giá lên. Kết quả là tỷ giá thực lên giá mạnh, đảo ngược mọi mở rộng xuất khẩu ròng. Chính sách nhắm vào sản lượng ngoại thương, nhưng cán cân vãng lai lại giảm.
+**Định nghĩa và bản chất.** Chính sách công nghiệp ngành (còn gọi là vi mô) là các biện pháp ưu ái một ngành hoặc doanh nghiệp cụ thể để hỗ trợ tăng trưởng: bảo hộ ngành non trẻ, trợ cấp sản xuất hoặc xuất khẩu, tín dụng chỉ định hoặc được trợ giá, đầu vào giá rẻ từ doanh nghiệp nhà nước. Vì nhắm trúng đích, tác động chính của nó là tái phân bổ nguồn lực giữa các ngành và định hình lợi thế so sánh, mà không nhất thiết có tác động rõ ràng lên cán cân tổng thể.
+
+Nó chỉ trở nên quan trọng ở cấp vĩ mô khi ngành được nhắm đủ lớn, chẳng hạn cả khu vực ngoại thương, hoặc khi ngành đó có lan toả mạnh vì nằm ở vị trí trung tâm trong mạng đầu vào và đầu ra. Có hai kênh tác động:
+
+- **Kênh năng suất tổng thể:** năng suất có thể tăng nếu chính sách sửa được một thất bại thị trường đáng kể, hoặc giảm nếu chính sách gây phân bổ sai nguồn lực.
+- **Kênh tài khoá:** khi chính sách vận hành qua trợ cấp, phải có người trả tiền cho trợ cấp đó.
+
+**Bằng chứng còn thiếu.** Đã có nghiên cứu cho thấy chính sách công nghiệp ảnh hưởng tới năng suất ở từng nước và từng ngành, nhưng việc đo chính sách một cách nhất quán giữa các nước và theo thời gian rất khó, nên chưa đánh giá được tác động lên cán cân. Các nghiên cứu dạng rút gọn gợi ý rằng trợ cấp và chính sách công nghiệp mở rộng xuất khẩu và giảm nhập khẩu ở đúng các sản phẩm được nhắm tại Trung Quốc và các nền kinh tế mới nổi khác, nhưng tác động này không bền. Phân tích định lượng lại cho thấy các chính sách nhắm đích có thể kích hoạt hiệu ứng tái phân bổ lớn, nên tác động tổng thể là mơ hồ.
+
+**Tình huống 1: chính sách nâng năng suất.** Giả sử chính sách có ngân sách trung tính, chỉ xét kênh năng suất.
+
+| | Năng suất tăng tạm thời | Năng suất tăng lâu dài |
+|---|---|---|
+| Phản ứng của hộ gia đình và doanh nghiệp | Thu nhập hiện tại tăng, hộ gia đình san đều tiêu dùng nên để dành nhiều hơn: đường tiết kiệm dịch ra ngoài | Năng suất kỳ vọng tăng nên đường đầu tư dịch ra ngoài; thu nhập tương lai cao hơn hiện tại nên đường tiết kiệm dịch vào trong |
+| Lãi suất | Lãi suất thế giới giảm, nước A vay thêm | Lãi suất tự cung tự cấp của B và lãi suất thế giới đều tăng |
+| Cán cân của B | Thặng dư giãn rộng | Thặng dư co lại |
+| Kết quả mô hình | Cán cân tăng ban đầu, do tiết kiệm cao | Cán cân giảm, chủ yếu qua đầu tư cao hơn chứ không phải tiết kiệm giảm |
+
+Từ đây bài phát biểu **nghịch lý trung tâm**: chính sách công nghiệp làm tăng thặng dư vãng lai khi nó **không thành công**. "Không thành công" có hai dạng: chỉ nâng năng suất tạm thời, hoặc gây phân bổ sai cơ cấu làm năng suất lâu dài giảm. Trong dạng thứ hai, thu nhập kỳ vọng thấp đi nên doanh nghiệp giảm đầu tư và hộ gia đình tăng tiết kiệm phòng ngừa, cả hai đều đẩy cán cân lên. Ngược lại, khi chính sách thành công và nâng năng suất bền vững, cán cân giảm.
+
+**Tình huống 2: ngành nào được hỗ trợ cũng quan trọng.** Giả sử chính sách nâng năng suất ngành ngoại thương nhưng đồng thời gây phân bổ sai làm năng suất ngành phi ngoại thương giảm. Kết quả không phải là hình ảnh phản chiếu của trường hợp năng suất tăng. Chuỗi diễn biến là:
+
+1. Hàng phi ngoại thương trở nên khan hiếm.
+2. Vì chúng thay thế kém cho hàng ngoại thương (không thể nhập khẩu một bữa ăn hay một lần sửa nhà), giá tương đối của chúng tăng nhanh.
+3. Tỷ giá thực lên giá, nền kinh tế mất sức cạnh tranh.
+4. Cán cân vãng lai giảm. Kết quả cùng chiều với trường hợp thành công, nhưng qua một cơ chế hoàn toàn khác.
+
+**Tình huống 3: trợ cấp đầu tư, nguồn tiền quyết định.** Bài mô phỏng một khoản trợ cấp vĩnh viễn làm giảm giá đầu tư ở ngành ngoại thương, quy mô 0,5% sản lượng mỗi kỳ. Trợ cấp làm vốn tích luỹ nhiều hơn nên sản lượng tương lai cao hơn. Hộ gia đình giảm tiết kiệm để đón thu nhập cao hơn, trong khi đầu tư được trợ giá thì mở rộng; cả hai đều hạ cán cân. Mức hạ phụ thuộc vào cách trả tiền cho trợ cấp:
+
+| Tài trợ bằng thâm hụt ngân sách | Tài trợ bằng thuế |
+|---|---|
+| Hộ gia đình giảm tiết kiệm mạnh để đón thu nhập tương lai | Thuế tiêu dùng theo giá trị tăng lên, thu nhập khả dụng giảm, nên mức giảm tiết kiệm bị hạn chế |
+| | Hiệu ứng này đặc biệt mạnh khi gánh nặng thuế rơi vào hộ gia đình bị ràng buộc tín dụng, vốn phản ứng rất nhạy với thu nhập hiện tại |
+| Cán cân xấu đi nhiều hơn | Cán cân xấu đi ít hơn |
+
+**Tình huống 4: chỉ tiêu sản lượng.** Bài mô hình hoá mệnh lệnh nhà nước "tăng sản lượng bất chấp lợi nhuận ngắn hạn" bằng cách cho doanh nghiệp ngoại thương hạ biên lợi nhuận mong muốn. Đây là trường hợp cho thấy rõ nhất khác biệt giữa cân bằng từng phần và cân bằng tổng thể.
+
+- Cách nhìn cân bằng từng phần (chỉ nhìn một ngành) sẽ nói: sản lượng tăng thì xuất khẩu tăng, nên cán cân tăng. Kết luận đó sai.
+- Trong cân bằng tổng thể, điều thực sự xảy ra là: (1) đầu tư tăng nhanh khi doanh nghiệp nhắm sản lượng cao hơn với biên lợi nhuận thấp hơn; (2) đầu vào ở ngành phi ngoại thương trở nên khan hiếm tương đối, tạo thêm cầu lao động và đầu tư ở đó, đẩy giá lên; (3) tỷ giá thực lên giá mạnh vì chi phí trong nước tăng; (4) việc lên giá này đảo ngược mọi mở rộng xuất khẩu ròng.
+
+Kết cục: chính sách nhắm vào sản lượng ngoại thương, nhưng cán cân vãng lai lại **giảm**.
 
 ### 4. Chính sách công nghiệp vĩ mô
 
-- Về đàn áp tài chính, chính phủ đôi khi áp dụng vì lý do sức cạnh tranh, tức để hạ lãi suất và tăng phân bổ tín dụng nhằm hạ chi phí vốn cho ngành công nghiệp hoặc xuất khẩu một cách nhân tạo. Công cụ gồm giới hạn lãi suất tiền gửi, hạn chế các tài sản tài chính khác để hạ chi phí huy động, và giới hạn lãi suất cho vay doanh nghiệp.
-- Điểm phân tích quan trọng là riêng đàn áp tài chính chỉ làm hộ gia đình trượt xuống dọc theo đường tiết kiệm mong muốn, hạn chế tiết kiệm trong khi tăng đầu tư mong muốn. Trên thực tế nó được kết hợp với chính sách tiết kiệm cưỡng bức để dịch chuyển đường tiết kiệm sang phải: cấm chia cổ tức để khuyến khích giữ lại lợi nhuận, yêu cầu dự trữ với nguồn thu xuất khẩu, yêu cầu tiết kiệm bắt buộc qua hưu trí, hoặc thậm chí chỉ đơn giản là an sinh xã hội yếu buộc tư nhân phải tiết kiệm cao để tự bảo hiểm.
-- Bằng chứng thực nghiệm về tác động của đàn áp tài chính lên cán cân còn ít, do khó áp dụng một định nghĩa chung giữa các nước và theo thời gian. Có một chỉ số gồm bảy chính sách đàn áp tài chính tới năm 2005, được mở rộng tới 2017 nhưng chỉ cho thành phần liên quan tới kiểm soát lãi suất. Dùng chỉ số này, nghiên cứu tìm thấy liên hệ dương giữa cán cân vãng lai và đàn áp tài chính giữa các nước.
-- Vì mục tiêu là hạ chi phí vốn trong nước so với lãi suất toàn cầu, các biện pháp này thường đi kèm hạn chế dòng ra, tạo ra một nêm dương giữa lãi suất nước ngoài và lãi suất trong nước. Việc tăng đồng thời cả tiết kiệm lẫn đầu tư trong nước làm tác động lên cán cân trở nên mơ hồ. Trường hợp không có kiểm soát vốn thì tiết kiệm cưỡng bức làm tăng cán cân rõ ràng vì thị trường vốn toàn cầu là van xả cho tiết kiệm dư thừa, tương tự hình mẫu thừa mứa tiết kiệm của thập niên 2000. Trường hợp có kiểm soát vốn chặt thì cán cân có thể không đổi, và tỷ giá thực lên giá do nén nhập khẩu từ tiêu dùng thấp, ngược với việc xuống giá khi không có kiểm soát vốn.
-- Về chính sách tài khoản vốn, theo đồng nhất thức cán cân thanh toán, thao túng tài khoản vốn phải tạo ra cán cân vãng lai cùng quy mô, và để phần còn lại thế giới hấp thụ thặng dư đó thì tỷ giá thực phải xuống giá. Cần có bất hoàn hảo về di chuyển vốn để hộ gia đình trong nước không triệt tiêu được việc tích luỹ dự trữ của chính phủ bằng cách bán tài sản nước ngoài.
-- Điểm khác biệt quan trọng so với đàn áp tài chính: để tài trợ dự trữ, chính quyền phải tăng thuế hoặc phát hành trái phiếu trong nước, nên tiết kiệm quốc gia phải tăng. Kiểm soát dòng vào đẩy lãi suất trong nước lên trong khi lãi suất nước ngoài giảm do dòng vốn dự trữ chảy ra. Nêm lãi suất do đó có dấu ngược với trường hợp đàn áp tài chính. Thặng dư ở B tăng, nhưng lãi suất cao hơn đè nén đầu tư, còn ở A lãi suất thấp hơn đẩy tiết kiệm xuống nên thâm hụt giãn rộng.
-- Phần kết hợp hai loại chính sách là chìa khoá. Vấn đề cốt lõi của chính sách ngành thành công là nó có thể cải thiện cân đối đối ngoại nhưng lại làm trầm trọng mất cân đối đối nội, khiến nền kinh tế quá nóng. Khi kết hợp với tiết kiệm cưỡng bức, các tác dụng phụ đó bị kiềm chế: cầu tổng giảm ngăn giá phi ngoại thương tăng nhanh. Một mức đàn áp tiêu dùng đủ lớn có thể đảo ngược hoàn toàn việc tỷ giá thực lên giá, làm dịu mức tăng giá tương đối của hàng phi ngoại thương, và lật tác động lên cán cân từ âm sang dương. Cái giá là cân đối đối nội được khôi phục bằng cách đè nén tiêu dùng.
+Chính sách công nghiệp vĩ mô là các chính sách vĩ mô và tài chính triển khai kèm chính sách ngành nhằm thúc đẩy công nghiệp và xuất khẩu trên diện rộng. Bài xét ba nhóm.
+
+**Nhóm 1: đàn áp tài chính và tiết kiệm cưỡng bức.** Chính phủ đôi khi dùng đàn áp tài chính vì lý do sức cạnh tranh: hạ lãi suất và chỉ định phân bổ tín dụng để hạ chi phí vốn cho ngành công nghiệp hoặc xuất khẩu một cách nhân tạo (McKinnon 1973; Shaw 1973; Roubini và Sala-i-Martin 1992). Công cụ gồm trần lãi suất tiền gửi, hạn chế các tài sản tài chính khác để người gửi tiền không có lựa chọn thay thế (qua đó hạ chi phí huy động của ngân hàng), và trần lãi suất cho vay doanh nghiệp.
+
+Điểm phân tích quan trọng: riêng đàn áp tài chính chỉ làm hộ gia đình **trượt xuống dọc theo** đường tiết kiệm, nghĩa là lãi suất thấp làm họ tiết kiệm ít đi, trong khi đầu tư mong muốn tăng. Muốn **dịch chuyển cả đường** tiết kiệm sang phải thì phải kèm tiết kiệm cưỡng bức, với các công cụ như:
+
+- cấm chia cổ tức để buộc doanh nghiệp giữ lại lợi nhuận;
+- yêu cầu dự trữ đối với nguồn thu xuất khẩu;
+- tiết kiệm bắt buộc qua hệ thống hưu trí;
+- hoặc đơn giản là an sinh xã hội yếu, buộc khu vực tư nhân phải tiết kiệm cao để tự bảo hiểm.
+
+Bằng chứng thực nghiệm về tác động của đàn áp tài chính lên cán cân còn ít, vì khó áp một định nghĩa chung cho các nước và các thời kỳ. Có một chỉ số gồm bảy chính sách đàn áp tài chính, xây dựng tới năm 2005, sau đó được mở rộng tới năm 2017 nhưng chỉ cho thành phần kiểm soát lãi suất. Dùng chỉ số này, nghiên cứu tìm thấy quan hệ dương giữa cán cân vãng lai và mức đàn áp tài chính khi so giữa các nước.
+
+**Vì sao kết quả lại mơ hồ.** Mục tiêu là hạ chi phí vốn trong nước so với lãi suất toàn cầu, nên các biện pháp này thường đi kèm hạn chế dòng vốn ra. Điều đó tạo ra một nêm lãi suất Δ = r^A − r^B > 0, tức lãi suất nước ngoài cao hơn lãi suất trong nước. Vì tiết kiệm và đầu tư trong nước cùng tăng, tác động ròng lên cán cân không rõ:
+
+| Không có kiểm soát vốn | Có kiểm soát vốn chặt |
+|---|---|
+| Tiết kiệm cưỡng bức làm cán cân tăng rõ ràng, vì thị trường vốn toàn cầu là van xả cho tiết kiệm dư thừa | Tiết kiệm bị "đóng chai" trong nước, lãi suất trong nước giảm, đầu tư tăng bù lại |
+| Đây chính là hình mẫu "thừa mứa tiết kiệm" của thập niên 2000 (Bernanke 2005) | Cán cân có thể không đổi; đây là trường hợp nằm trên lưỡi dao, trong mô hình cán cân không nhúc nhích |
+| Tỷ giá thực xuống giá | Tỷ giá thực lên giá, vì tiêu dùng thấp nén nhập khẩu |
+
+**Nhóm 2: chính sách tài khoản vốn (tích luỹ dự trữ).** Theo đồng nhất thức cán cân thanh toán, nếu chính phủ dùng tài khoản vốn để đẩy một lượng vốn ra nước ngoài (mua dự trữ ngoại hối), cán cân vãng lai phải có thặng dư cùng quy mô. Để phần còn lại của thế giới chịu hấp thụ thặng dư đó, tỷ giá thực phải xuống giá. Điều kiện cần là vốn không di chuyển hoàn hảo; nếu không, hộ gia đình trong nước sẽ bán tài sản nước ngoài của mình và triệt tiêu việc tích luỹ dự trữ của chính phủ.
+
+Khác biệt quan trọng so với đàn áp tài chính: để có tiền mua dự trữ, chính quyền phải tăng thuế hoặc phát hành trái phiếu trong nước, nên tiết kiệm quốc gia phải tăng. Kiểm soát dòng vốn vào đẩy lãi suất trong nước lên, trong khi lãi suất nước ngoài giảm vì dòng vốn dự trữ chảy ra. Nêm lãi suất lúc này là Δ = r^A − r^B < 0, dấu ngược với trường hợp đàn áp tài chính. Kết quả: thặng dư ở B tăng, nhưng lãi suất cao hơn đè nén đầu tư ở B; còn ở A, lãi suất thấp hơn đẩy tiết kiệm xuống nên thâm hụt giãn rộng. Kết luận này được xác nhận bằng các hồi quy chéo giữa các nước dùng nhiều biến công cụ khác nhau (Bayoumi, Gagnon và Saborowski 2015; Phillips và cộng sự 2013; Choi và Taylor 2022).
+
+**Nhóm 3: kết hợp vĩ mô với vi mô, chìa khoá của cả bài.** Vấn đề cốt lõi của chính sách ngành thành công là nó có thể cải thiện cân đối đối ngoại nhưng lại làm trầm trọng mất cân đối đối nội, khiến nền kinh tế quá nóng (Obstfeld 2026). Khi kết hợp với tiết kiệm cưỡng bức, các tác dụng phụ đó bị kiềm chế: cầu tổng giảm nên giá hàng phi ngoại thương không tăng nhanh nữa. Một mức đàn áp tiêu dùng đủ lớn có thể đảo ngược hoàn toàn việc tỷ giá thực lên giá, làm dịu mức tăng giá tương đối của hàng phi ngoại thương, và lật tác động lên cán cân vãng lai từ âm sang dương. Cái giá là cân đối đối nội được khôi phục bằng cách đè nén tiêu dùng của chính người dân.
+
+**Ví dụ hôm nay** (minh hoạ chung, không phải số liệu của bài). Hãy hình dung một nước trợ cấp mạnh cho nhà máy xuất khẩu. Nếu không làm gì thêm, lao động và đất đai bị kéo về các nhà máy, tiền thuê nhà và giá dịch vụ tăng, lương tăng theo, và lợi thế giá của hàng xuất khẩu dần mất. Nếu cùng lúc nước đó giữ lãi suất tiền gửi thấp và lưới an sinh mỏng để người dân phải để dành nhiều, cầu trong nước yếu đi, giá dịch vụ không tăng, và hàng xuất khẩu giữ được giá rẻ. Thặng dư xuất hiện, nhưng người dân tiêu dùng ít hơn mức họ có thể.
 
 ### 5. Thuế quan
 
-- Trong các mô hình không có đầu tư, tác động phụ thuộc vào tính lâu dài của cú sốc thuế quan. Với thuế quan tạm thời, hộ gia đình trong nước đối mặt lãi suất thực cao hơn vì tiêu dùng hôm nay, gồm cả hàng nhập, đắt hơn ngày mai, nên họ sẵn sàng tăng tiết kiệm và hoãn tiêu dùng, cải thiện cán cân. Với nước không có thâm hụt thương mại ban đầu, thuế quan vĩnh viễn không tạo ra đánh đổi liên thời gian nào nên cán cân không đổi, và phân tích chuẩn kết luận rằng đồng tiền phải lên giá đủ để bù đắp tác động lên giá tương đối và cán cân thương mại.
-- Bài nhấn mạnh rằng đây là một trong những trường hợp rõ nhất cho thấy cách tiếp cận liên thời gian mang lại hiểu biết sâu hơn: việc đồng tiền lên giá là cần thiết chính vì tiết kiệm và đầu tư không đổi. Điều này liên quan tới đối xứng Lerner nhưng không đồng nhất: đối xứng Lerner chỉ nói rằng việc lên giá triệt tiêu tác động của thuế quan và để phân bổ nguyên vẹn, còn việc phân bổ có cần thay đổi hay không thì phải nhìn vào lựa chọn liên thời gian.
-- Khi nước đánh thuế đang thâm hụt sẵn thì phân tích phức tạp hơn và phụ thuộc vào việc thâm hụt là tạm thời hay vĩnh viễn. Với thâm hụt tạm thời, thuế quan vĩnh viễn vẫn giảm được cán cân thâm hụt, vì cơ cấu tiêu dùng thay đổi theo thời gian nên giảm phát tiêu dùng cũng đổi, với trọng số lớn hơn cho hàng nhập bị đánh thuế khi đang thâm hụt và nhỏ hơn khi đang thặng dư, khiến hộ gia đình đối mặt lãi suất thực theo tiêu dùng cao hơn. Với thâm hụt vĩnh viễn được bù bằng vị thế đầu tư quốc tế ròng hoặc giá trị hiện tại của lợi suất vượt trội, câu hỏi chuyển thành điều gì xảy ra với giá thị trường của tài sản xuyên biên giới. Thuế quan có thể tác động nhỏ hơn hoặc thậm chí ngược chiều khi nước đó nắm vị thế tài chính xuyên biên giới lớn, và kết cục do cấu trúc vị thế tài chính quyết định chứ không phải cấu trúc luồng thương mại. Hệ quả là ngay cả thuế quan vô cùng lớn đưa thương mại thực về gần bằng không cũng không nhất thiết xoá được thâm hụt vãng lai.
-- Trong mô hình có đầu tư, chi phí hàng nhập cao hơn có thể hạ lợi suất biên của vốn, vì đầu vào trung gian là hàng nhập hoặc vì đồng tiền lên giá làm giảm cầu hàng xuất, lật ngược kết quả trung tính của mô hình đơn giản. Nếu tiết kiệm mong muốn không giảm tương ứng, cán cân sẽ cải thiện ban đầu khi đầu tư giảm. Nhưng thuế quan đơn phương cũng có thể làm giảm tiết kiệm mong muốn nếu điều kiện thương mại cải thiện và tiền thuế được phát lại cho hộ gia đình, vì sức mua thực với cùng một mức sản lượng nay cao hơn.
-- Mô phỏng thuế quan đơn phương mười phần trăm xác nhận trực giác. Thuế quan tạm thời tạo mức tăng tiết kiệm lớn, bù đắp mức giảm đầu tư và tạo thặng dư. Thuế quan vĩnh viễn làm cán cân cao hơn một chút lúc đầu khi đầu tư giảm, nhưng khi tiết kiệm giảm do điều kiện thương mại cải thiện và chuyển giao từ tiền thuế, cán cân trở nên trung tính.
-- Khi tiền thuế không được phát lại mà dùng để trả nợ công thì kết quả khác hẳn. Vì hộ gia đình trong mô hình không theo lý thuyết Ricardo, mức tăng tiết kiệm của chính phủ không bị bù hết bởi mức giảm tiết kiệm hộ gia đình, nên tiết kiệm tổng vẫn cao hơn, và cán cân tăng bền bỉ. Lãi suất thấp hơn trong trường hợp củng cố tài khoá nên đầu tư cao hơn một chút, nhưng mọi cải thiện cán cân đều đi kèm với mức giảm sản lượng.
-- Kết luận về thuế quan rất dứt khoát: đây là công cụ hạn chế để giảm thâm hụt vãng lai. Thuế quan vĩnh viễn thường không làm thay đổi quyết định tiết kiệm liên thời gian mà chỉ dẫn tới tỷ giá thực lên giá, để cán cân gần như nguyên vẹn. Cải thiện có nhiều khả năng xảy ra nếu thuế quan là tạm thời, qua đó khuyến khích tiết kiệm. Và cách xử lý tài khoá với tiền thuế là quyết định: thuế quan có thể thu hẹp thâm hụt nếu tiền thu được dùng để củng cố nợ công, nhưng tác dụng này tan biến nếu tiền được phát lại cho hộ gia đình.
+**Lý thuyết cơ bản trong mô hình không có đầu tư** (Razin và Svensson 1983). Tác động phụ thuộc vào tính lâu dài của thuế:
+
+| Thuế quan tạm thời | Thuế quan vĩnh viễn (với nước không có thâm hụt thương mại ban đầu) |
+|---|---|
+| Tiêu dùng hôm nay, gồm cả hàng nhập, đắt hơn ngày mai, nên hộ gia đình đối mặt lãi suất thực cao hơn | Thuế cao mãi mãi, không tạo đánh đổi nào giữa hôm nay và ngày mai |
+| Hộ gia đình hoãn tiêu dùng, tăng tiết kiệm | Tiết kiệm không đổi |
+| Cán cân cải thiện | Cán cân không đổi; đồng tiền của nước đánh thuế phải lên giá đủ để bù tác động lên giá tương đối, kìm xuất khẩu và giữ cán cân thương mại như cũ |
+
+Bài nhấn mạnh rằng đây là một trong những ví dụ rõ nhất về ưu thế của cách tiếp cận liên thời gian: đồng tiền lên giá là điều **cần thiết chính vì** tiết kiệm và đầu tư không đổi. Điều này liên quan tới đối xứng Lerner nhưng không giống hệt. Đối xứng Lerner chỉ nói rằng việc lên giá triệt tiêu tác động của thuế quan và để phân bổ nguồn lực nguyên vẹn. Còn việc phân bổ có cần thay đổi hay không thì phải nhìn vào lựa chọn liên thời gian.
+
+**Khi nước đánh thuế đang thâm hụt sẵn**, phân tích phức tạp hơn và phụ thuộc vào việc thâm hụt là tạm thời hay vĩnh viễn:
+
+1. **Thâm hụt tạm thời** (sẽ được bù bằng thặng dư trong tương lai): thuế quan vĩnh viễn vẫn giảm được thâm hụt. Lý do tinh tế: cơ cấu tiêu dùng thay đổi theo thời gian, nên chỉ số giá dùng để tính tiêu dùng thực cũng đổi. Khi đang thâm hụt, hàng nhập (bị đánh thuế) chiếm tỷ trọng lớn hơn trong rổ tiêu dùng; khi chuyển sang thặng dư, tỷ trọng đó nhỏ hơn. Vì vậy giá rổ tiêu dùng hôm nay tăng nhiều hơn giá rổ tương lai, hộ gia đình đối mặt lãi suất thực tính theo tiêu dùng cao hơn, và họ kìm tiêu dùng.
+2. **Thâm hụt vĩnh viễn** (được bù bằng vị thế đầu tư quốc tế ròng, hoặc bằng giá trị hiện tại của lợi suất vượt trội trên tài sản nước ngoài, thường gọi là "đặc quyền cắt cổ"): câu hỏi chuyển thành điều gì xảy ra với giá thị trường của tài sản xuyên biên giới. Thuế quan có thể có tác động nhỏ hơn, thậm chí ngược chiều, khi nước đó nắm vị thế tài chính xuyên biên giới lớn. Kết cục do cấu trúc vị thế tài chính quyết định, không phải cấu trúc luồng thương mại.
+
+Hệ quả là ngay cả một mức thuế quan vô cùng lớn, đủ đưa thương mại thực về gần bằng không, cũng không nhất thiết xoá được thâm hụt vãng lai.
+
+**Trong mô hình có đầu tư**, mọi chuyện còn phức tạp hơn. Hàng nhập đắt hơn có thể hạ lợi suất biên của vốn, vì đầu vào trung gian của sản xuất là hàng nhập, hoặc vì đồng tiền lên giá làm giảm cầu hàng xuất. Điều này lật ngược kết quả "trung tính" của mô hình đơn giản (Sen và Turnovsky 1989). Nếu tiết kiệm mong muốn không giảm tương ứng, cán cân cải thiện lúc đầu khi đầu tư giảm. Nhưng thuế quan đơn phương cũng có thể làm giảm tiết kiệm mong muốn, nếu điều kiện thương mại (giá hàng xuất so với hàng nhập) cải thiện và tiền thuế được phát lại cho hộ gia đình, vì với cùng một mức sản lượng, sức mua thực của họ nay cao hơn.
+
+**Mô phỏng: thuế quan đơn phương 10%, nửa đời sống 10 quý** (nửa đời sống là khoảng thời gian để một cú sốc giảm đi còn một nửa).
+
+| | Tiền thuế phát lại cho dân | Tiền thuế dùng trả nợ công |
+|---|---|---|
+| Thuế quan tạm thời | Tiết kiệm tăng mạnh, bù được mức giảm đầu tư, tạo thặng dư | Cán cân tăng mạnh hơn nữa |
+| Thuế quan vĩnh viễn | Cán cân tăng nhẹ lúc đầu khi đầu tư giảm, rồi trở nên trung tính khi tiết kiệm giảm theo (do điều kiện thương mại cải thiện và chuyển giao từ tiền thuế) | Cán cân tăng bền bỉ, vì hộ gia đình không theo Ricardo nên mức tăng tiết kiệm của chính phủ không bị mức giảm tiết kiệm hộ gia đình bù hết; lãi suất thấp hơn nên đầu tư cao hơn một chút; cái giá là sản lượng giảm |
+
+**Kết luận về thuế quan** rất dứt khoát: đây là công cụ hạn chế để giảm thâm hụt vãng lai.
+
+- Thuế quan vĩnh viễn thường không làm đổi quyết định tiết kiệm liên thời gian mà chỉ làm tỷ giá thực lên giá, để cán cân gần như nguyên vẹn.
+- Cải thiện dễ xảy ra hơn nếu thuế quan là tạm thời, vì nó khuyến khích tiết kiệm.
+- Cách xử lý tiền thuế là yếu tố quyết định: thuế quan có thể thu hẹp thâm hụt nếu tiền thu được dùng để củng cố nợ công, nhưng tác dụng này tan biến nếu tiền được phát lại cho hộ gia đình.
+
+Kết quả này phù hợp với bằng chứng thực nghiệm. Tài liệu nhìn chung thấy tác động của cú sốc thuế quan lên cán cân là nhỏ về mặt kinh tế, cả với dữ liệu Mỹ lẫn dữ liệu chéo giữa các nước (Boer và Rieth 2024; Furceri và cộng sự 2022). Schmitt-Grohé và Uribe (2025), dùng dữ liệu lịch sử của Mỹ, thấy cú sốc thuế quan nhất thời làm tăng cán cân, còn thay đổi vĩnh viễn có tác động mờ nhạt, đúng như khung lý thuyết dự đoán.
 
 ### 6. Cách giải thích truyền thống
 
-- Ở Trung Quốc, một đợt suy giảm lớn của bất động sản bắt đầu cuối năm 2021 với sự sụp đổ của nhà phát triển lớn Evergrande, dẫn tới đầu tư bất động sản lao dốc và niềm tin tiêu dùng giảm. Tỷ lệ tiết kiệm hộ gia đình tăng mạnh sau đó, có thể phản ánh lo ngại về triển vọng tăng trưởng và giá trị tài sản giảm. Tới năm 2025, mức đầu tư tài sản cố định và tiêu dùng tư nhân đều thấp hơn khoảng tám phần trăm so với quỹ đạo dự báo trong Triển vọng Kinh tế Thế giới tháng mười năm 2021, tức ngay trước khi bất động sản xấu đi. Tỷ lệ tiết kiệm hộ gia đình vẫn cao hơn mức trước COVID khoảng hai điểm phần trăm.
-- Ở Hoa Kỳ, các diễn biến đi theo chiều ngược lại và góp phần làm giảm tiết kiệm. Thâm hụt tài khoá đã tăng đáng kể so với giai đoạn trước COVID, ngay cả sau khi chi tiêu liên quan tới đại dịch kết thúc, khiến thâm hụt chính phủ chung nay cao hơn năm 2017 khoảng hai phần trăm GDP. Tỷ lệ tiết kiệm hộ gia đình cũng giảm đáng kể từ năm 2021 và tiêu dùng tăng nhanh hơn dự kiến, một phần phản ánh việc giải toả khoản tiết kiệm dư thừa tích luỹ trong đại dịch khi tiêu dùng bị hạn chế. Gần đây hơn, định giá cổ phiếu cao, có thể phản ánh sự hào hứng về tăng trưởng năng suất tương lai, cũng có khả năng góp phần hạ tiết kiệm hộ gia đình.
-- Nghiên cứu trước chỉ ra rằng các động lực kinh tế truyền thống giải thích một phần đáng kể mức giãn rộng gần đây. Cụ thể, mô hình hoá các cú sốc khớp với việc tiêu dùng và đầu tư của Trung Quốc suy giảm, cùng với thâm hụt tài khoá mở rộng và tiết kiệm hộ gia đình giảm ở Hoa Kỳ, giải thích được chuyển dịch ít nhất một phần trăm GDP ở cả thặng dư của Trung Quốc lẫn thâm hụt của Hoa Kỳ. Điều này gợi ý mất cân đối phần lớn là tự sinh trong nước và bắt nguồn từ điều kiện nội tại.
-- Bài thẳng thắn thừa nhận giới hạn: vì các mô hình này thiếu chính xác và để lại phần dư đáng kể, chúng không loại trừ khả năng chính sách công nghiệp là một yếu tố đóng góp thêm. Hơn nữa, việc định lượng đóng góp của chính sách công nghiệp vốn đã khó vì rất khó quan sát được mức độ mà các chính sách đó đã kém hiệu quả hoặc đã được kết hợp với biện pháp vĩ mô đè nén cầu.
+Cách giải thích truyền thống cho rằng mất cân đối là do điều kiện nội tại của từng nước. Ở Trung Quốc và Hoa Kỳ, các diễn biến đi theo hai chiều ngược nhau.
+
+**Trung Quốc: cú sốc bất động sản.** Cuối năm 2021, nhà phát triển lớn Evergrande sụp đổ, mở đầu một đợt suy giảm lớn của thị trường bất động sản. Đầu tư bất động sản lao dốc, niềm tin tiêu dùng giảm. Tỷ lệ tiết kiệm hộ gia đình sau đó tăng mạnh, có thể phản ánh lo ngại về triển vọng tăng trưởng và về giá trị tài sản đang giảm. Tới năm 2025, đầu tư tài sản cố định và tiêu dùng tư nhân đều thấp hơn khoảng 8% so với quỹ đạo dự báo trong Triển vọng Kinh tế Thế giới tháng 10/2021, tức dự báo làm ngay trước khi bất động sản xấu đi. Tỷ lệ tiết kiệm hộ gia đình vẫn cao hơn mức trước COVID khoảng 2 điểm phần trăm. Tiết kiệm cao và đầu tư thấp cùng đẩy thặng dư lên.
+
+**Hoa Kỳ: tiết kiệm giảm trên cả hai mặt trận.**
+
+1. Thâm hụt tài khoá tăng đáng kể so với trước COVID, ngay cả sau khi chi tiêu liên quan tới đại dịch kết thúc; thâm hụt chính phủ chung nay cao hơn năm 2017 khoảng 2% GDP.
+2. Tỷ lệ tiết kiệm hộ gia đình giảm mạnh từ năm 2021 và tiêu dùng tăng nhanh hơn dự kiến, một phần do hộ gia đình tiêu dần khoản "tiết kiệm dư thừa" tích luỹ trong đại dịch, khi tiêu dùng bị hạn chế.
+3. Gần đây, định giá cổ phiếu cao, có thể phản ánh sự hào hứng về tăng trưởng năng suất tương lai, cũng góp phần hạ tiết kiệm hộ gia đình (người dân thấy tài sản tăng giá nên ít cần để dành).
+
+**Định lượng.** Nghiên cứu trước (Gourinchas và cộng sự 2024) mô hình hoá các cú sốc khớp với việc tiêu dùng và đầu tư của Trung Quốc suy giảm, cùng với thâm hụt tài khoá mở rộng và tiết kiệm hộ gia đình giảm ở Hoa Kỳ. Các cú sốc này giải thích được mức dịch chuyển ít nhất 1% GDP ở cả thặng dư của Trung Quốc lẫn thâm hụt của Hoa Kỳ. Điều đó gợi ý mất cân đối phần lớn là "tự sinh trong nước", bắt nguồn từ điều kiện nội tại.
+
+**Giới hạn được bài thừa nhận thẳng thắn.** Các mô hình này thiếu chính xác và để lại phần dư đáng kể, nên không loại trừ khả năng chính sách công nghiệp là một yếu tố đóng góp thêm. Hơn nữa, việc định lượng đóng góp của chính sách công nghiệp vốn đã khó, vì rất khó quan sát được mức độ mà các chính sách đó đã kém hiệu quả hoặc đã được kết hợp với biện pháp vĩ mô đè nén cầu. Theo chính nghịch lý ở mục 3 và mục 4, đó lại là hai điều kiện quyết định chính sách công nghiệp có làm tăng thặng dư hay không.
 
 ## Thuật ngữ
 

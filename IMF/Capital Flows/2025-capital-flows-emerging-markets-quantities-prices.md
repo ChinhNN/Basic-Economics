@@ -464,79 +464,304 @@
 2. Vì sao chênh lệch lợi suất của các nước mới nổi đồng chuyển động chặt chẽ trong khi dòng vốn thì không?
 3. Một mô hình cân bằng tổng thể tiêu chuẩn có tái tạo được các sự thật đó không?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Chênh lệch lợi suất quốc gia (country spread).** Phần lãi suất mà một nước mới nổi phải trả cao hơn mức lãi suất được coi là phi rủi ro (thường là trái phiếu chính phủ Mỹ cùng kỳ hạn). Ví dụ minh hoạ: trái phiếu chính phủ Mỹ 5 năm có lợi suất 4%, trái phiếu bằng đô la cùng kỳ hạn của nước X có lợi suất 7%, thì chênh lệch là 3 điểm phần trăm, tức 300 điểm cơ bản (1 điểm cơ bản bằng 0,01 điểm phần trăm). Chênh lệch là "giá" của dòng vốn: nó cho biết nhà đầu tư đòi bù bao nhiêu cho rủi ro của nước đó. Bài đo chênh lệch bằng chỉ số EMBI của J.P. Morgan.
+
+**Dòng vốn ròng và dòng vốn gộp.** Dòng vốn vào gộp là tiền người nước ngoài đưa vào mua tài sản trong nước; dòng vốn ra gộp là tiền người trong nước đưa ra mua tài sản nước ngoài; dòng vốn ròng là hiệu của hai dòng đó. Ví dụ minh hoạ: trong một quý, nhà đầu tư nước ngoài mang vào 10 tỷ USD, còn doanh nghiệp và người dân trong nước mang ra 7 tỷ USD, thì dòng vào gộp là 10, dòng ra gộp là 7, dòng ròng là 3 tỷ USD. Dòng vốn là "lượng" trong bài; phần lớn kết quả dùng dòng ròng, và một phần kiểm chứng dùng dòng gộp.
+
+**Cú sốc cung tín dụng và cú sốc cầu tín dụng.** Cú sốc cung là thay đổi về phía người cho vay (nhà đầu tư nước ngoài sẵn lòng cho vay nhiều hay ít); cú sốc cầu là thay đổi về phía người đi vay (nước đó muốn vay nhiều hay ít). Ví dụ: khi lãi suất Mỹ tăng, nhà đầu tư rút bớt tiền khỏi các nước mới nổi, nên lượng vốn vào giảm còn lãi suất các nước này tăng: lượng và giá đi ngược chiều. Khi một nước kỳ vọng thu nhập tương lai tăng (ví dụ giá hàng xuất khẩu tăng), nước đó muốn vay nhiều hơn, nên lượng vốn vào tăng và lãi suất cũng tăng: lượng và giá đi cùng chiều. Đây là nguyên lý nhận diện cốt lõi của bài.
+
+**Cú sốc chung và cú sốc riêng.** Cú sốc chung tác động lên nhiều nước cùng lúc (ví dụ Fed nâng lãi suất); cú sốc riêng chỉ tác động lên một nước (ví dụ bất ổn chính trị ở một nước). Ghép với chiều cung–cầu ở trên, bài tách ra bốn loại cú sốc: cung chung, cầu chung, cung riêng, cầu riêng. Câu hỏi "yếu tố toàn cầu hay yếu tố trong nước quan trọng hơn" chính là câu hỏi về tỷ trọng của cú sốc chung so với cú sốc riêng.
+
+**Chu kỳ Tài chính Toàn cầu (Global Financial Cycle).** Khái niệm do Hélène Rey đưa ra năm 2013: giá tài sản, dòng vốn và đòn bẩy trên thế giới cùng lên cùng xuống theo một nhịp chung, gắn với chính sách tiền tệ Mỹ và khẩu vị rủi ro của nhà đầu tư (thường đo bằng chỉ số biến động VIX). Ví dụ: trong khủng hoảng tài chính 2008 và khi COVID bùng phát năm 2020, chênh lệch lợi suất của hầu hết các nước mới nổi cùng vọt lên. Bài cho thấy chu kỳ này thể hiện chủ yếu ở giá chứ không ở lượng.
+
+**Mô hình nhân tố động và hệ số tải (dynamic factor model, factor loading).** Mô hình giả định nhiều chuỗi số liệu cùng chịu ảnh hưởng của một vài "nhân tố" chung không quan sát được, cộng phần riêng của từng chuỗi. Hệ số tải cho biết mỗi chuỗi phản ứng mạnh đến đâu với nhân tố chung. Ví dụ minh hoạ: nếu chênh lệch lợi suất của 12 nước đều tăng mạnh mỗi khi thị trường thế giới căng thẳng, mô hình sẽ tìm ra một nhân tố chung bám theo các đợt căng thẳng đó, và nước nào phản ứng mạnh có hệ số tải lớn. Bài dùng mô hình này để ước lượng một nhân tố chung cho dòng vốn và một nhân tố chung cho chênh lệch.
+
+**Phân rã phương sai (variance decomposition).** Cách chia tổng mức biến động của một biến thành phần do từng loại cú sốc gây ra, cộng lại bằng 100%. Ví dụ trong bài: biến động chênh lệch lợi suất trong một năm có 41% do cú sốc cung chung, 23% do cầu chung, 18% do cung riêng và 18% do cầu riêng. Đây là con số trung tâm để trả lời câu hỏi cái gì thúc đẩy giá và lượng của dòng vốn.
+
+**Hiệu chuẩn, mô men nhắm và mô men không nhắm (calibration, targeted / untargeted moments).** Hiệu chuẩn là chọn tham số của mô hình lý thuyết sao cho một số thống kê của mô hình (các "mô men", như độ lệch chuẩn hay tương quan) bằng đúng thống kê thực tế. Mô men được dùng để chọn tham số thì mô hình khớp là đương nhiên; mô men không được nhắm mới là bài kiểm tra thực sự. Ví dụ trong bài: tương quan chênh lệch giữa Brazil và Mexico là 0,65 được nhắm nên mô hình cho đúng 0,65; tương quan dòng vốn 0,35 không được nhắm, mà mô hình vẫn cho 0,34, nên đó là bằng chứng mô hình nắm đúng cơ chế.
+
+**Thí nghiệm phản thực (counterfactual).** Tắt một cơ chế trong mô hình rồi xem kết quả thay đổi thế nào, để đo đóng góp của cơ chế đó. Ví dụ trong bài: tắt tương quan cú sốc năng suất giữa Brazil và Mexico thì tương quan dòng vốn giữa hai nước sụt từ 0,34 xuống 0,08, chứng tỏ cú sốc năng suất chung là động lực chính của đồng chuyển động dòng vốn.
+
+## Nội dung chi tiết
 
 ### 1. Vấn đề và cách tiếp cận
 
-- Sự thất thường của dòng vốn ra vào các nền kinh tế mới nổi thường đi kèm biến động vĩ mô lớn. Bài đặt bốn câu hỏi: điều gì thúc đẩy dòng vốn, yếu tố toàn cầu có quan trọng hơn yếu tố trong nước không, cú sốc cầu tín dụng có quan trọng hơn cú sốc cung không, và mức rủi ro gắn với các dòng vốn đó mang thông tin gì khi nhận diện các động lực.
-- Điểm mấu chốt về mặt phương pháp là dữ liệu bao gồm cả lượng dòng vốn lẫn rủi ro gắn với các dòng đó, đo bằng chênh lệch lợi suất. Chính đặc điểm này cùng với chiều liên nước cho phép tách riêng động lực cung và cầu tín dụng, và rồi truy tiếp xem chúng mang bản chất chung hay riêng.
-- Bài thừa nhận đánh đổi của cách tiếp cận nhân tố động: việc áp đặt ít cấu trúc lên dữ liệu cho phép để dữ liệu tự lên tiếng, nhưng khiến mô hình gần như im lặng về các kênh truyền dẫn và bản chất cấu trúc của các cú sốc được nhận diện. Vì vậy phần hai bổ sung bằng cách tiếp cận cấu trúc dựa trên lý thuyết kinh tế.
+Dòng vốn ra vào các nền kinh tế mới nổi rất thất thường, và những đợt vốn đổ vào hay rút ra đột ngột thường đi kèm biến động vĩ mô lớn: bùng nổ tín dụng, khủng hoảng tỷ giá, suy thoái. Bài đặt bốn câu hỏi: điều gì thúc đẩy dòng vốn; yếu tố toàn cầu có quan trọng hơn yếu tố trong nước không; cú sốc cầu tín dụng có quan trọng hơn cú sốc cung không; và mức rủi ro gắn với các dòng vốn đó mang thông tin gì giúp nhận diện các động lực.
+
+Điểm mấu chốt về phương pháp là dữ liệu của bài gồm cả **lượng** dòng vốn lẫn **giá**, tức rủi ro gắn với dòng vốn đó, đo bằng chênh lệch lợi suất. Có cả hai biến, cộng với việc quan sát nhiều nước cùng lúc, bài mới tách được động lực cung khỏi động lực cầu tín dụng, rồi tách tiếp chúng thành loại chung (tác động lên nhiều nước) và loại riêng (của từng nước).
+
+Bài thừa nhận đánh đổi của cách tiếp cận nhân tố động. Vì áp rất ít cấu trúc lên dữ liệu, nó để dữ liệu tự lên tiếng; nhưng cũng vì thế nó gần như không nói được gì về kênh truyền dẫn và bản chất kinh tế của các cú sốc tìm được. Do đó phần hai của bài bổ sung một mô hình cấu trúc dựa trên lý thuyết kinh tế, để kiểm tra xem các sự thật tìm được có giải thích được bằng một mô hình chuẩn hay không.
 
 ### 2. Khung lý thuyết đơn giản
 
-- Mô hình hai kỳ cho nền kinh tế nhỏ mở với một trái phiếu không phụ thuộc trạng thái. Cầu vốn tăng khi thu nhập tăng theo thời gian và giảm khi lãi suất tăng. Cung tín dụng quốc tế có dạng lãi suất thế giới cộng một hàm tăng theo nợ ròng cộng một cú sốc chênh lệch riêng của nước. Phụ lục cho thấy dạng cung này có thể được biện minh trong một mở rộng có khả năng vỡ nợ và bất định về thu nhập kỳ hai, với nhà đầu tư trung lập rủi ro chọn giữa trái phiếu nước ngoài và trái phiếu phi rủi ro.
-- Nguyên lý nhận diện rất trực quan. Một cú sốc cầu, chẳng hạn thu nhập tương lai kỳ vọng tăng, làm đường cầu dịch ra ngoài nên lượng vốn vào tăng đồng thời với lãi suất tăng, tức hai biến cùng chiều. Một cú sốc cung, chẳng hạn lãi suất thế giới tăng, làm đường cung dịch lên nên lượng vốn vào giảm trong khi lãi suất tăng, tức hai biến ngược chiều. Chỉ có thể tách được hai loại khi quan sát cả lượng lẫn giá cùng lúc.
-- Chiều thứ hai là chung hay riêng. Bài minh hoạ bằng hai nền kinh tế chỉ khác nhau ở độ co giãn của cung tín dụng, tức nhà đầu tư coi nước thứ hai là kém cam kết trả nợ hơn hoặc rủi ro thu nhập cao hơn. Khi cú sốc thu nhập tương lai là chung cho cả hai, chẳng hạn do giá hàng hoá cơ bản tăng ở các nước xuất khẩu, cú sốc lan truyền không đồng đều: nước có đường cung kém co giãn hơn nhận ít vốn hơn và chịu lãi suất cao hơn.
+**Mô hình hai kỳ.** Bài dùng một mô hình hai kỳ cho nền kinh tế nhỏ mở, chỉ có một loại trái phiếu với lợi suất không phụ thuộc trạng thái của nền kinh tế. Hai phương trình:
+
+- **Cầu tín dụng:** d₁ = (y₂ − y₁) / (2 + r). Lượng vay ở kỳ một, d₁, tăng khi thu nhập kỳ hai y₂ cao hơn thu nhập kỳ một y₁ (người ta vay trước để san đều tiêu dùng), và giảm khi lãi suất r tăng.
+- **Cung tín dụng quốc tế:** r = r* + φ·(d₁)² + ε. Lãi suất nước đó phải trả bằng lãi suất thế giới r*, cộng một phần tăng theo mức nợ (φ là độ nhạy của lãi suất theo nợ: nợ càng nhiều thì nhà đầu tư đòi lãi càng cao), cộng một cú sốc chênh lệch ε riêng của nước đó.
+
+Phụ lục của bài cho thấy dạng đường cung này có cơ sở: nó xuất hiện trong một mở rộng có khả năng vỡ nợ và bất định về thu nhập kỳ hai, với nhà đầu tư trung lập rủi ro chọn giữa trái phiếu của nước đó và trái phiếu phi rủi ro.
+
+**Nguyên lý nhận diện: chỉ cần nhìn dấu.** Hai loại cú sốc để lại dấu vết khác nhau trên lượng và giá:
+
+| Loại cú sốc | Ví dụ | Đường dịch chuyển | Lượng vốn vào | Lãi suất quốc gia | Quan hệ hai biến |
+|---|---|---|---|---|---|
+| Cầu | Thu nhập tương lai kỳ vọng tăng | Đường cầu dịch ra ngoài | Tăng | Tăng | Cùng chiều |
+| Cung | Lãi suất thế giới tăng | Đường cung dịch lên trên | Giảm | Tăng | Ngược chiều |
+
+Vì cả hai loại cú sốc đều có thể làm lãi suất tăng, nhìn riêng giá thì không biết cú sốc nào đã xảy ra; nhìn riêng lượng cũng vậy. Chỉ khi quan sát cả hai cùng lúc mới tách được. Đây chính là lý do các nghiên cứu trước, vốn thường chỉ nhìn lượng, không tách được cung khỏi cầu.
+
+**Chiều thứ hai: chung hay riêng.** Bài cho ví dụ cho bốn tổ hợp:
+
+| | Cung | Cầu |
+|---|---|---|
+| Chung | Chính sách tiền tệ Mỹ | Bùng nổ giá hàng hoá cơ bản ở nhiều nước xuất khẩu |
+| Riêng | Bất ổn chính trị ở một nước | Chính sách tài khoá mở rộng ở một nước |
+
+Bài minh hoạ thêm bằng hai nền kinh tế chỉ khác nhau ở độ dốc đường cung tín dụng, φ¹ < φ²: nhà đầu tư coi nước thứ hai là kém cam kết trả nợ hơn hoặc có thu nhập rủi ro hơn. Khi một cú sốc thu nhập tương lai là chung cho cả hai, chẳng hạn giá hàng hoá cơ bản tăng ở các nước xuất khẩu, cùng một cú sốc đó lan truyền không đồng đều: nước có đường cung kém co giãn hơn (dốc hơn) nhận ít vốn hơn và phải chịu lãi suất cao hơn.
 
 ### 3. Dữ liệu và hai sự thật cách điệu
 
-- Để phân tích chính xác quan hệ giữa dòng vốn và chênh lệch lợi suất, cần dùng tần suất cao nhất có thể, vì dữ liệu tần suất thấp có thể làm mờ việc nhận diện. Nhưng cán cân thanh toán cho thị trường mới nổi thường chỉ có theo quý hoặc năm. Bài khắc phục bằng cách dùng biến đại diện theo tháng, tính bằng thâm hụt thương mại cộng thay đổi dự trữ ngoại hối. Biến đại diện này không bao gồm thu nhập nhân tố ròng và chuyển giao vãng lai, nhưng các khoản đó chủ yếu là lãi trả cho nợ dài hạn nên không biến động nhiều tới mức đưa nhiễu đáng kể vào thước đo.
-- Về giá, bài dùng chênh lệch lợi suất thay vì lãi suất quốc gia, vì chênh lệch phản ánh vấn đề riêng của các nền kinh tế mới nổi trong khi lãi suất còn chứa cả đặc điểm của nền kinh tế tiên tiến như chính sách tiền tệ hay kỳ vọng tăng trưởng.
-- Sự thật thứ nhất là tương quan trong nội bộ một nước giữa chênh lệch lợi suất và dòng vốn âm nhưng thấp, với trung vị khoảng âm không phẩy một một, và không nước nào có tương quan dương thực sự. Kết quả vững khi loại các giai đoạn dừng đột ngột, và vững cả khi dùng độ trễ và độ dẫn tới sáu tháng mỗi phía.
-- Sự thật thứ hai là mức đồng chuyển động giữa các nước của chênh lệch lợi suất mạnh hơn hẳn của dòng vốn, khoảng không phẩy sáu so với chỉ một nửa mức đó. Thước đo gắn kết cho thấy mức đồng chuyển động này biến thiên theo thời gian, đặc biệt với chênh lệch, và trùng với các giai đoạn căng thẳng trên thị trường vốn thế giới, tăng từ khoảng không phẩy bốn đầu những năm 2000 lên trên không phẩy chín trong khủng hoảng tài chính toàn cầu. Cả hai tương quan đều ổn định qua các tần số chu kỳ kinh doanh, xác nhận rằng đây không phải hiện tượng tần số cao nhất thời.
-- Bài còn tách riêng hai cấu phần của biến đại diện dòng vốn. Thay đổi dự trữ ngoại hối có tương quan chéo cao hơn cán cân thương mại chút ít, nhưng cả hai đều thấp xa chênh lệch lợi suất.
-- Cộng hai sự thật lại, kết luận sơ bộ là cú sốc cung chung tác động lên giá nhiều hơn lên lượng.
+**Mẫu.** 12 nền kinh tế mới nổi, số liệu theo tháng từ 1997:2 (tháng 2/1997) tới 2022:7 (tháng 7/2022): Argentina, Brazil, Trung Quốc, Colombia, Ecuador, Malaysia, Mexico, Panama, Philippines, Ba Lan, Nam Phi, Thổ Nhĩ Kỳ. Nhóm này chiếm 55% dòng vốn vào gộp (tính theo trung vị giai đoạn 2017–2021) của một nhóm rộng hơn gồm 85 nền kinh tế mới nổi.
+
+**Đo lượng.** Muốn phân tích chính xác quan hệ giữa dòng vốn và chênh lệch lợi suất, cần dữ liệu tần suất cao nhất có thể, vì dữ liệu tần suất thấp làm mờ việc nhận diện (nhiều cú sốc bị gộp vào một quan sát). Nhưng cán cân thanh toán của các nước mới nổi thường chỉ có theo quý hoặc năm. Bài theo Calvo và cộng sự (2008) dùng một biến đại diện theo tháng:
+
+KI(t) = M(t) − X(t) + R(t) − R(t−1)
+
+tức nhập khẩu trừ xuất khẩu (thâm hụt thương mại) cộng thay đổi dự trữ ngoại hối so với tháng trước. Lý do: theo cán cân thanh toán, một nước nhập siêu mà dự trữ vẫn tăng thì phải có vốn chảy vào để bù. Biến này bỏ qua thu nhập nhân tố ròng và chuyển giao vãng lai, nhưng các khoản đó chủ yếu là lãi trả cho nợ dài hạn, ít biến động, nên không đưa nhiều nhiễu vào thước đo. Bài lấy tổng luỹ kế 12 tháng rồi lấy sai phân bậc nhất để khử yếu tố mùa vụ, và giảm phát bằng chỉ số giá sản xuất hàng hoá của Mỹ.
+
+**Đo giá.** Bài dùng chỉ số Trái phiếu Thị trường Mới nổi Toàn cầu (EMBI Global) của J.P. Morgan, loại chênh lệch đã bóc tách phần bảo đảm. Bài dùng chênh lệch chứ không dùng lãi suất quốc gia, vì chênh lệch phản ánh vấn đề riêng của nền kinh tế mới nổi, còn lãi suất còn chứa cả đặc điểm của nền kinh tế tiên tiến như chính sách tiền tệ hay kỳ vọng tăng trưởng của Mỹ.
+
+**Sự thật thứ nhất: trong nội bộ một nước, chênh lệch và dòng vốn tương quan âm nhưng yếu.**
+
+| Thống kê | Tương quan giữa chênh lệch và dòng vốn |
+|---|---|
+| Trung vị 12 nước | −0,11 |
+| Trung Quốc (âm nhất) | −0,20 (có ý nghĩa ở mức 1%) |
+| Argentina và Panama (cao nhất) | 0,00 |
+| Trung vị khi loại các giai đoạn dừng đột ngột | −0,05 |
+
+Không nước nào có tương quan dương thực sự. Kết quả vững khi loại các giai đoạn dừng đột ngột (dòng vốn vào sụt giảm bất ngờ và kéo dài), và vững cả khi dịch một biến trước hoặc sau biến kia tới sáu tháng mỗi phía. Đọc qua khung lý thuyết ở mục 2: tương quan âm nghĩa là lượng và giá đi ngược chiều, dấu hiệu của cú sốc cung, nên cung tín dụng chiếm ưu thế.
+
+**Sự thật thứ hai: chênh lệch lợi suất đồng chuyển động giữa các nước mạnh hơn hẳn dòng vốn.** Bài đo bằng thước đo gắn kết của Croux và cộng sự (2001), về cơ bản là tương quan trong cửa sổ trượt 5 năm, tính riêng ở từng tần số dao động.
+
+- **Chênh lệch lợi suất:** tương quan giữa các nước khoảng 0,6. Mức này thay đổi theo thời gian và trùng với các đợt căng thẳng trên thị trường vốn thế giới: tăng từ khoảng 0,4 đầu những năm 2000 lên trên 0,9 trong khủng hoảng tài chính toàn cầu, và tăng vọt tương tự năm 2020 khi COVID bùng phát.
+- **Dòng vốn:** tương quan chỉ khoảng một nửa mức của chênh lệch, và ít biến thiên theo thời gian hơn hẳn.
+- Cả hai mức tương quan đều ổn định qua các tần số của chu kỳ kinh doanh, nên đây không phải hiện tượng nhất thời ở tần số cao.
+- Khi tách riêng hai cấu phần của biến đại diện dòng vốn, thay đổi dự trữ ngoại hối có tương quan chéo cao hơn cán cân thương mại chút ít, nhưng cả hai đều thấp xa chênh lệch lợi suất (tối đa khoảng 0,4).
+
+**Cộng hai sự thật lại**, kết luận sơ bộ là cú sốc cung chung tác động lên giá nhiều hơn lên lượng.
 
 ### 4. Mô hình nhân tố động và phân rã phương sai
 
-- Mô hình ước lượng một nhân tố chung cho dòng vốn và một nhân tố chung cho chênh lệch lợi suất, bằng cách áp ràng buộc rằng hệ số tải của chênh lệch lên nhân tố dòng vốn bằng không và ngược lại. Điều này bảo đảm mỗi nhân tố được nhận diện chỉ từ một loại chuỗi.
-- Nhân tố chung của chênh lệch có năm đỉnh nhọn trùng với các giai đoạn hỗn loạn trên thị trường vốn thế giới, và bám sát chỉ số biến động ngụ ý VIX của Mỹ với tương quan không phẩy năm bảy, củng cố liên hệ với Chu kỳ Tài chính Toàn cầu.
-- Nhân tố chung của dòng vốn có hình dạng khác hẳn, với chu kỳ dài hơn và ít gắn với các đỉnh căng thẳng tài chính. Tương quan giữa hai nhân tố là âm không phẩy năm tám, gợi ý cung chiếm ưu thế trong các yếu tố chung, nhưng vì không hoàn hảo nên cầu và yếu tố riêng cũng có vai trò.
-- Việc nhận diện bốn cú sốc dùng kết hợp ràng buộc dấu và ràng buộc bằng không. Cú sốc cung chung làm hai nhân tố đi ngược chiều, cú sốc cầu chung làm chúng đi cùng chiều, và các cú sốc riêng của một nước không được phép tác động lên nhân tố chung.
-- Bài minh hoạ các ràng buộc này bằng ví dụ cụ thể. Chính sách tiền tệ Mỹ là ví dụ kinh điển của lực cung toàn cầu: khi Fed nâng lãi suất, nhà đầu tư chuyển dòng vốn về Mỹ, và trong giai đoạn giảm rủi ro như vậy hai nhân tố đi ngược chiều. Giá hàng hoá cơ bản tăng là ví dụ của lực cầu toàn cầu: nhiều nước mới nổi là nước xuất khẩu hàng hoá nên bùng nổ giá kéo dài làm tăng cầu vay nước ngoài đồng thời, và rủi ro từ việc vay quá mức có thể làm hai nhân tố đi cùng chiều. Ở cấp riêng, bất ổn chính trị làm giảm động cơ cấp vốn cho một nước cụ thể, đẩy chênh lệch và dòng vốn ngược chiều, còn chính sách tài khoá mở rộng làm tăng cầu vốn, đẩy chênh lệch lên trong khi vốn chảy vào.
-- Kết quả phân rã phương sai là điểm mấu chốt của cả bài. Với chênh lệch lợi suất, yếu tố chung giải thích sáu mươi bốn phần trăm phương sai trung vị, và trong đó khoảng hai phần ba là do cung. Với dòng vốn, yếu tố riêng giải thích chín mươi phần trăm, chia gần đều giữa cung và cầu.
-- Có sự phân tán đáng kể giữa các nước. Argentina và Ecuador có tỷ trọng yếu tố toàn cầu trong chênh lệch tương đối thấp, lần lượt chín và hai mươi tám phần trăm, trong khi Mexico và Colombia ở mức chín mươi và bảy mươi lăm phần trăm. Về dòng vốn, Brazil là ngoại lệ duy nhất có tỷ trọng chung nhỉnh hơn riêng, còn mọi nước còn lại đều dưới hai mươi tám phần trăm.
-- Phân rã lịch sử cho thấy cung là lực chủ đạo của cả hai nhân tố trong các giai đoạn khủng hoảng toàn cầu, gồm khủng hoảng châu Á cuối những năm 1990, những năm quanh khủng hoảng tài chính toàn cầu, và COVID năm 2020. Cầu trở nên quan trọng hơn về cuối mẫu, giữa những năm 2010, khi nó góp phần giữ chênh lệch thấp trong lúc dòng vốn đang rút khỏi các thị trường mới nổi.
+**Cấu trúc mô hình.** Bài dùng mô hình nhân tố động theo Stock và Watson (2016):
+
+- X(t) = β·F(t) + ε(t): mỗi chuỗi số liệu bằng hệ số tải β nhân với các nhân tố chung F, cộng phần riêng ε.
+- F(t) = γ·F(t−1) + η(t): các nhân tố chung tự tương quan theo thời gian, và η là cú sốc lên nhân tố chung.
+
+Véc tơ X gồm 2×N chuỗi: N chuỗi dòng vốn rồi N chuỗi chênh lệch (N là số nước). Bài áp ràng buộc bằng không lên hệ số tải: β(N+1 tới 2N, 1) = 0, nghĩa là các chuỗi chênh lệch không tải lên nhân tố thứ nhất; và β(1 tới N, 2) = 0, nghĩa là các chuỗi dòng vốn không tải lên nhân tố thứ hai. Nhờ vậy nhân tố thứ nhất được nhận diện chỉ từ dòng vốn, nhân tố thứ hai chỉ từ chênh lệch lợi suất.
+
+**Nhân tố chung của chênh lệch có năm đỉnh nhọn**, trùng với các giai đoạn hỗn loạn trên thị trường vốn thế giới:
+
+1. Khủng hoảng Nga cuối những năm 1990.
+2. Cuối 2001, vỡ nợ chính phủ Argentina.
+3. Khủng hoảng tài chính toàn cầu 2008, ngắn nhưng gắt.
+4. Khoảng 2015, khi Fed nâng lãi suất khỏi mức sàn bằng không.
+5. Năm 2020, khi COVID bùng phát.
+
+Nhân tố này tương quan 0,57 với chỉ số biến động ngụ ý VIX của Mỹ, củng cố liên hệ với Chu kỳ Tài chính Toàn cầu.
+
+**Nhân tố chung của dòng vốn có hình dạng khác hẳn**, chu kỳ dài hơn và ít gắn với các đỉnh căng thẳng: giảm sau khủng hoảng cuối những năm 1990; tăng dần suốt thập niên 2000; tăng tốc rõ trong hai năm trước khủng hoảng 2008; rơi đột ngột; hồi phục mạnh, đạt đỉnh năm 2012; giảm sâu giai đoạn 2014–2016 khi Mỹ bình thường hoá chính sách tiền tệ; rồi rơi mạnh năm 2020. Tương quan giữa hai nhân tố là −0,58. Mức âm mạnh gợi ý cung chiếm ưu thế trong các yếu tố chung; nhưng vì không phải −1, cầu và các yếu tố riêng cũng có vai trò.
+
+**Nhận diện bốn cú sốc bằng ràng buộc dấu và ràng buộc bằng không.** Véc tơ các cú sốc quan sát được (cú sốc lên nhân tố chênh lệch η(S), lên nhân tố dòng vốn η(K), và phần riêng của chênh lệch ε(S), của dòng vốn ε(K)) được viết thành tổ hợp của bốn cú sốc cấu trúc:
+
+| | Cung chung | Cầu chung | Cung riêng | Cầu riêng |
+|---|---|---|---|---|
+| Nhân tố chênh lệch η(S) | + | + | 0 | 0 |
+| Nhân tố dòng vốn η(K) | − | + | 0 | 0 |
+| Chênh lệch riêng ε(S) | tự do | tự do | + | + |
+| Dòng vốn riêng ε(K) | tự do | tự do | − | + |
+
+Đọc bảng: cú sốc cung chung làm nhân tố chênh lệch tăng và nhân tố dòng vốn giảm (ngược chiều); cú sốc cầu chung làm hai nhân tố cùng chiều; cùng logic áp cho cú sốc riêng ở hai dòng dưới. Các ô số 0 ở góc trên bên phải nghĩa là cú sốc riêng của một nước không được phép tác động lên các nhân tố chung. Ô "tự do" không bị ràng buộc.
+
+Bài giải thích các ràng buộc bằng ví dụ. Chính sách tiền tệ Mỹ là ví dụ kinh điển của lực cung toàn cầu: khi Fed nâng lãi suất, nhà đầu tư chuyển vốn về Mỹ, và trong giai đoạn giảm rủi ro như vậy chênh lệch tăng còn dòng vốn giảm. Giá hàng hoá cơ bản tăng là ví dụ của lực cầu toàn cầu: nhiều nước mới nổi xuất khẩu hàng hoá, nên một đợt bùng nổ giá kéo dài làm họ cùng muốn vay nước ngoài nhiều hơn, và rủi ro của việc vay quá mức đẩy chênh lệch lên cùng lúc với vốn vào. Ở cấp riêng, bất ổn chính trị làm nhà đầu tư ngại cấp vốn cho một nước cụ thể, đẩy chênh lệch và dòng vốn ngược chiều; còn chính sách tài khoá mở rộng làm tăng cầu vốn, đẩy chênh lệch lên trong khi vốn chảy vào.
+
+**Kết quả phân rã phương sai: điểm mấu chốt của cả bài.** Phân rã phương sai ở tầm một năm, số trung vị qua các nước:
+
+| Cú sốc | Chênh lệch lợi suất | Dòng vốn |
+|---|---|---|
+| Cung chung | 41% | 5% |
+| Cầu chung | 23% | 3% |
+| **Tổng chung** | **64%** | **8%** |
+| Cung riêng | 18% | 46% |
+| Cầu riêng | 18% | 44% |
+| **Tổng riêng** | **36%** | **90%** |
+
+Hai cột kể hai câu chuyện trái ngược. Với chênh lệch lợi suất, yếu tố chung giải thích 64%, và trong đó khoảng hai phần ba là do cung (41 trên 64): đây chính là Chu kỳ Tài chính Toàn cầu. Với dòng vốn, yếu tố riêng của từng nước giải thích tới 90%, chia gần đều giữa cung (46%) và cầu (44%).
+
+**Khác biệt lớn giữa các nước.** Tỷ trọng yếu tố chung trong biến động chênh lệch:
+
+| Nước | Tỷ trọng do yếu tố chung |
+|---|---|
+| Argentina | 9% (thấp nhất) |
+| Ecuador | 28% |
+| Colombia | 75% |
+| Mexico | 90% (cao nhất) |
+
+Về dòng vốn, Brazil là ngoại lệ duy nhất có tỷ trọng chung (51%) nhỉnh hơn riêng (49%); mọi nước còn lại đều có tỷ trọng chung dưới 28%.
+
+**Phân rã lịch sử** (đóng góp của từng loại cú sốc theo thời gian) cho thấy cung là lực chủ đạo của cả hai nhân tố trong các giai đoạn khủng hoảng toàn cầu: khủng hoảng châu Á cuối những năm 1990, những năm quanh khủng hoảng 2008, và COVID năm 2020. Cầu trở nên quan trọng hơn về cuối mẫu, giữa những năm 2010: nó góp phần giữ chênh lệch ở mức thấp trong lúc dòng vốn đang rút khỏi các thị trường mới nổi.
 
 ### 5. Ba mở rộng thực nghiệm
 
-- Mở rộng thứ nhất thêm các nền kinh tế tiên tiến để tách nhân tố toàn cầu khỏi nhân tố riêng của nhóm mới nổi. Mẫu mở rộng phủ bảy mươi phần trăm dòng vốn vào gộp toàn cầu. Kết quả cơ sở vẫn vững: cú sốc bên ngoài quan trọng hơn với giá, còn cú sốc riêng chi phối lượng. Điểm mới là với lợi suất, hai loại cú sốc bên ngoài quan trọng ngang nhau, nhưng với dòng vốn, cú sốc toàn cầu quan trọng hơn hẳn cú sốc chung riêng của nhóm mới nổi.
-- Mở rộng thứ hai là quan trọng nhất về mặt hoà giải tài liệu. Khi tách riêng nhân tố châu Á và nhân tố Mỹ Latin, tỷ trọng phương sai dòng vốn do yếu tố chung giải thích tăng gần gấp bốn, từ mười một lên ba mươi chín phần trăm. Với chênh lệch, mức tăng khiêm tốn hơn, từ sáu mươi lên bảy mươi phần trăm. Điều này cho thấy dòng vốn ròng đúng là ít đồng chuyển động ở cấp toàn cầu, nhưng lại đồng chuyển động đáng kể ở cấp khu vực, phù hợp với kết quả của Kaminsky và cộng sự về việc chu kỳ dòng vốn ở vùng ngoại vi mang tính khu vực. Nhưng kết luận cơ sở vẫn đứng: ngay cả sau khi tính nhân tố khu vực, yếu tố chung vẫn quan trọng với chênh lệch hơn với dòng vốn.
-- Mở rộng thứ ba truy ngược về nguồn của lực cung chung. Thách thức thực tiễn là trong phần lớn mẫu, chính sách tiền tệ quy ước bị chặn bởi mức sàn bằng không, nên bài dùng ba chuỗi cú sốc riêng biệt của Swanson. Cả ba đều làm nhân tố chênh lệch tăng khoảng nửa điểm phần trăm và nhân tố dòng vốn giảm với độ lớn tương đương. Tác động của cú sốc lãi suất quỹ liên bang tức thì hơn, còn phản ứng với mua tài sản quy mô lớn chậm hơn và đáng kể hơn.
+**Mở rộng thứ nhất: thêm các nền kinh tế tiên tiến để tách nhân tố toàn cầu khỏi nhân tố riêng của nhóm mới nổi.** Mẫu mở rộng gồm 23 nền kinh tế: 12 nước mới nổi, nhóm G7 trừ Pháp, cùng Úc, Đan Mạch, Phần Lan, Na Uy, Thuỵ Sĩ. Mẫu này phủ 70% dòng vốn vào gộp toàn cầu (trung vị 2017–2021). Giá được đo bằng lợi suất trái phiếu chính phủ 5 năm; với các nước mới nổi, bằng lợi suất Kho bạc Mỹ 5 năm cộng chênh lệch EMBI.
+
+| Cú sốc | Lợi suất | Dòng vốn |
+|---|---|---|
+| Toàn cầu | 37% | 18% |
+| Chung của nhóm mới nổi | 33% | 2% |
+| Tổng bên ngoài | 70% | 20% |
+| Riêng từng nước | 30% | 80% |
+
+Kết quả cơ sở vẫn vững: cú sốc bên ngoài quan trọng hơn với giá, cú sốc riêng chi phối lượng. Điểm mới: với lợi suất, hai loại cú sốc bên ngoài (toàn cầu và chung của nhóm mới nổi) quan trọng ngang nhau; nhưng với dòng vốn, cú sốc toàn cầu quan trọng hơn hẳn cú sốc chung riêng của nhóm mới nổi (18% so với 2%). Nhân tố trong mô hình cơ sở tương quan với nhân tố mới nổi 0,70 (lợi suất) và 0,62 (dòng vốn), với nhân tố toàn cầu 0,47 và 0,77, tức nhân tố cơ sở chứa cả hai thành phần.
+
+**Mở rộng thứ hai: nhân tố khu vực, mở rộng có sức nặng nhất.** Bài tách riêng nhân tố châu Á (Trung Quốc, Malaysia, Philippines, Thổ Nhĩ Kỳ) và nhân tố Mỹ Latin (Argentina, Brazil, Colombia, Ecuador, Mexico, Panama); Ba Lan và Nam Phi không thuộc khu vực nào.
+
+| Tỷ trọng phương sai do yếu tố chung | Chỉ nhân tố chung | Chung cộng khu vực | Thay đổi |
+|---|---|---|---|
+| Dòng vốn ròng | 0,11 | 0,39 | gấp khoảng 4 lần |
+| Chênh lệch lợi suất | 0,60 | 0,70 | tăng 0,10 |
+
+Kết quả này hoà giải hai luồng kết quả tưởng như mâu thuẫn trong tài liệu: dòng vốn ròng đúng là ít đồng chuyển động ở cấp toàn cầu, nhưng lại đồng chuyển động đáng kể ở cấp khu vực, phù hợp với kết quả của Kaminsky và cộng sự rằng chu kỳ dòng vốn ở các nước ngoại vi mang tính khu vực. Ví dụ cụ thể: nhân tố chênh lệch của châu Á vọt lên năm 1997, đúng lúc khủng hoảng châu Á, khuếch đại thêm mức đồng chuyển động đã thấy ở nhân tố chung. Dù vậy kết luận cơ sở vẫn đứng: ngay cả sau khi tính nhân tố khu vực, yếu tố chung vẫn quan trọng với chênh lệch hơn với dòng vốn (0,70 so với 0,39).
+
+**Mở rộng thứ ba: truy ngược lực cung chung về chính sách tiền tệ Mỹ.** Khó khăn thực tế là trong phần lớn mẫu, lãi suất chính sách của Mỹ nằm ở mức sàn bằng không, nên chính sách tiền tệ quy ước không còn dùng được và Fed phải dùng công cụ phi quy ước. Bài dùng ba chuỗi cú sốc riêng biệt của Swanson (2021), ước lượng bằng phép chiếu cục bộ cho tới 16 tháng, mẫu 1997.3–2019.6 (tháng 3/1997 đến tháng 6/2019). Tác động của một cú sốc thắt chặt cỡ một độ lệch chuẩn:
+
+| Loại cú sốc | Độ lớn cú sốc | Tác động |
+|---|---|---|
+| Lãi suất quỹ liên bang | làm lợi suất Mỹ 1 năm tăng 23 điểm cơ bản | Nhân tố chênh lệch tăng khoảng 0,5 điểm phần trăm, nhân tố dòng vốn giảm tương đương; tác động tức thì |
+| Định hướng chính sách (forward guidance) | 25 điểm cơ bản | Tương tự về độ lớn |
+| Mua tài sản quy mô lớn | làm lợi suất Mỹ 10 năm thay đổi 10 điểm cơ bản | Tương tự về độ lớn, nhưng chậm hơn và đáng kể hơn |
+
+Cả ba công cụ đều tác động, nên chính sách tiền tệ Mỹ là một động lực sâu xa đứng sau lực cung tín dụng chung.
 
 ### 6. Kiểm chứng độ vững
 
-- Bài kiểm chứng trên năm chiều. Về thước đo thay thế, kết quả vững với dữ liệu cán cân thanh toán theo tháng của Brazil, với dữ liệu nợ doanh nghiệp và chỉ số tài chính bên ngoài, với dữ liệu phát hành trái phiếu doanh nghiệp và lợi suất tương ứng, với cán cân thanh toán theo quý của IMF, và với chuỗi dòng vốn của Koepke và Paetzold. Trung vị tương quan dao động từ âm không phẩy một một tới âm không phẩy hai tám, tức đều âm và thấp.
-- Về dòng vốn gộp, tương quan với chênh lệch âm nhất ở dòng vốn vào gộp. Nhân tố chung giải thích dòng vốn vào gộp nhiều hơn hẳn dòng vốn ra gộp. Điều này phù hợp với bằng chứng về Chu kỳ Tài chính Toàn cầu rằng mức đồng chuyển động rõ hơn ở thước đo gộp so với thước đo ròng. Nhưng tầm quan trọng của nhân tố này vẫn thấp hơn hẳn so với nhân tố chung của chênh lệch.
-- Khi tách riêng đầu tư danh mục và đầu tư trực tiếp, kết luận không đổi. Đầu tư trực tiếp đặc biệt cực đoan, gần như hoàn toàn do cú sốc riêng chi phối.
-- Khi chỉ lấy các nước có tài khoản tài chính mở, trung vị tương quan gần như y hệt toàn mẫu, chứng tỏ tương quan thấp không phải do các nước đóng tài khoản gây ra.
-- Khi bỏ giai đoạn COVID, các nhân tố ước lượng gần như không đổi, với tương quan không phẩy chín tám cho cả hai nhân tố.
+Bài kiểm chứng trên năm chiều.
+
+**Thứ nhất, các thước đo dòng vốn thay thế.** Trung vị tương quan giữa chênh lệch và dòng vốn:
+
+| Thước đo | Trung vị tương quan |
+|---|---|
+| Cơ sở (biến đại diện theo tháng) | −0,11 |
+| Cán cân thanh toán theo tháng của Brazil | −0,25 |
+| Dòng nợ doanh nghiệp và chỉ số tài chính bên ngoài (Caballero 2019) | −0,20 |
+| Phát hành trái phiếu doanh nghiệp và lợi suất tương ứng | −0,25 |
+| Cán cân thanh toán theo quý của IMF | −0,28 |
+| Dữ liệu dòng vốn của Koepke và Paetzold (2020) | −0,27 |
+
+Thước đo phát hành trái phiếu có ưu điểm riêng: nó theo dấu được lợi suất của từng trái phiếu khi phát hành trên thị trường sơ cấp, cho cả khu vực công lẫn tư. Mọi thước đo đều cho tương quan âm và thấp, từ −0,11 tới −0,28.
+
+**Thứ hai, dòng vốn gộp thay vì ròng** (dữ liệu quý, 1999Q1–2022Q2, tức quý 1/1999 đến quý 2/2022):
+
+| Dòng vốn | Tương quan với chênh lệch (trung vị) | Tỷ trọng phương sai do nhân tố chung |
+|---|---|---|
+| Dòng ra gộp | −0,25 | 0,06 |
+| Dòng vào gộp | −0,43 (âm nhất) | 0,31 (cao hơn hẳn) |
+| Dòng ròng | −0,33 | |
+
+Kết quả này phù hợp với tài liệu về Chu kỳ Tài chính Toàn cầu (Rey 2013; Kalemli-Özcan 2019): đồng chuyển động rõ hơn ở thước đo gộp so với thước đo ròng, vì dòng vào và dòng ra gộp có thể cùng tăng cùng giảm và triệt tiêu nhau khi tính ròng. Nhưng tầm quan trọng của nhân tố chung đối với dòng vào gộp vẫn thấp hơn hẳn so với nhân tố chung của chênh lệch.
+
+**Thứ ba, tách riêng đầu tư danh mục và đầu tư trực tiếp.** Kết luận không đổi: cả hai loại có tương quan thấp và âm với chênh lệch, và đều do cú sốc cung và cú sốc riêng chi phối. Đầu tư trực tiếp đặc biệt cực đoan: gần như hoàn toàn do cú sốc riêng, với trung vị 93% cho tổng các cú sốc riêng.
+
+**Thứ tư, chỉ lấy các nước có tài khoản tài chính mở** (Brazil, Colombia, Mexico, Malaysia, Philippines, Nam Phi, Thổ Nhĩ Kỳ). Trung vị tương quan là −0,12, gần như y hệt toàn mẫu (−0,11), nên tương quan thấp không phải do có những nước đóng tài khoản vốn.
+
+**Thứ năm, bỏ giai đoạn COVID**, cho mẫu kết thúc ở 2019:12 (tháng 12/2019). Nhân tố ước lượng có và không có giai đoạn COVID tương quan 0,98 với nhau, cho cả hai nhân tố, nên COVID không ảnh hưởng tới kết quả.
 
 ### 7. Mô hình cấu trúc
 
-- Mô hình là phiên bản hai nước mới nổi của mô hình chu kỳ kinh doanh thực cho nền kinh tế nhỏ mở, với một loại hàng hoá có thể giao dịch quốc tế, sở thích kiểu Greenwood, Hercowitz và Huffman vốn không có hiệu ứng thu nhập lên quyết định cung lao động. Mỗi nền kinh tế chịu ba cú sốc, và cú sốc năng suất cùng cú sốc chênh lệch được phép có tương quan chéo giữa hai nước.
-- Cú sốc năng suất chủ yếu đại diện cho phía cầu vốn, còn cú sốc lên chi phí vốn, thể hiện qua lãi suất quốc tế và lãi suất trong nước, đại diện cho phía cung bằng cách làm dịch chuyển điều kiện vay mà các nước mới nổi đối mặt.
-- Mô hình được hiệu chuẩn cho Brazil và Mexico. Hai nước này phù hợp một phần vì thương mại song phương giữa họ tương đối thấp, khoảng một phẩy năm phần trăm tổng xuất khẩu năm 2012, biện minh cho việc bỏ qua liên kết thương mại và tài chính song phương trực tiếp.
-- Chiến lược hiệu chuẩn là điểm then chốt. Bài cố tình nhắm vào biến động và tương quan sản lượng cùng với động lực của chênh lệch, bao gồm mức đồng chuyển động cao của chênh lệch, rồi đánh giá mức độ khớp của mô hình ở hai mô men không được nhắm: tương quan thấp và âm trong nội bộ nước giữa chênh lệch và dòng vốn, và mức đồng chuyển động thấp của dòng vốn giữa các nước.
-- Mô hình khớp được cả hai mô men không nhắm. Theo bài, đây là bằng chứng đầu tiên cho thấy một khung chu kỳ kinh doanh thực tiêu chuẩn cho nền kinh tế nhỏ mở có thể tái tạo những sự thật này cho thị trường mới nổi.
-- Hạn chế được nêu thẳng: mô hình dự báo thiếu độ biến động của dòng vốn và cho quá trình dai dẳng hơn thực tế. Bài phỏng đoán nguyên nhân là thiếu các quyết định danh mục đầu tư phong phú vốn không có trong mô hình tiêu chuẩn.
-- Về phản ứng xung, cú sốc năng suất trong nước làm dòng vốn tăng ngay rồi giảm kéo dài, do bản chất tạm thời của cú sốc: đầu tư tăng vì năng suất biên của vốn tăng, rồi tiết kiệm tăng để san đều tiêu dùng. Cú sốc chênh lệch trong nước làm lãi suất tăng, gây dòng vốn ra và cải thiện cán cân vãng lai, tức làm dốc hơn đường cung tín dụng. Cú sốc lãi suất quốc tế làm dịch đường cung lên trên mà giữ nguyên độ dốc.
+**Cấu trúc.** Mô hình là phiên bản hai nước mới nổi của mô hình chu kỳ kinh doanh thực cho nền kinh tế nhỏ mở (theo Mendoza 1991; Schmitt-Grohé và Uribe 2003): một loại hàng hoá giao dịch quốc tế được, và sở thích kiểu Greenwood, Hercowitz và Huffman (GHH), loại sở thích mà thu nhập không ảnh hưởng tới quyết định cung lao động. Mỗi nền kinh tế chịu ba cú sốc:
+
+1. **Năng suất nhân tố tổng hợp**, đại diện cho phía cầu vốn: năng suất tăng thì doanh nghiệp muốn đầu tư nhiều hơn và cần vay nhiều hơn.
+2. **Lãi suất phi rủi ro quốc tế**, đại diện cho phía cung.
+3. **Chênh lệch lợi suất quốc gia**, cũng đại diện cho phía cung.
+
+Hai cú sốc về chi phí vốn (2 và 3) đại diện cho phía cung vì chúng làm thay đổi điều kiện vay mà các nước mới nổi đối mặt. Cú sốc năng suất (1) và cú sốc chênh lệch (3) được phép có tương quan chéo giữa hai nước.
+
+**Hiệu chuẩn cho Brazil và Mexico**, dữ liệu quý 1997Q1–2019Q4. Hai nước được chọn một phần vì thương mại song phương giữa họ thấp, chỉ khoảng 1,5% tổng xuất khẩu năm 2012, nên có thể bỏ qua liên kết thương mại và tài chính song phương trực tiếp.
+
+**Chiến lược hiệu chuẩn là điểm then chốt của cả phần này.** Bài cố tình chọn tham số để khớp một số mô men, rồi kiểm tra mô hình ở những mô men khác:
+
+| Mô men | Vai trò |
+|---|---|
+| Độ biến động và tương quan sản lượng giữa hai nước | Được nhắm |
+| Độ biến động của chênh lệch và tương quan chéo cao của chênh lệch | Được nhắm |
+| Tương quan trong nội bộ một nước giữa chênh lệch và dòng vốn | Không được nhắm |
+| Tương quan chéo của dòng vốn giữa hai nước | Không được nhắm |
+
+Hai mô men không nhắm là bài kiểm tra thực sự.
+
+**Kết quả.** Các thống kê trong từng nước:
+
+| Thống kê | Brazil: số liệu | Brazil: mô hình | Mexico: số liệu | Mexico: mô hình |
+|---|---|---|---|---|
+| Độ lệch chuẩn sản lượng | 1,73 | 1,73 | 1,68 | 1,68 |
+| Độ lệch chuẩn đầu tư | 5,49 | 5,46 | 4,40 | 4,40 |
+| Độ lệch chuẩn dòng vốn | 3,16 | 0,73 | 1,14 | 0,60 |
+| Độ lệch chuẩn chênh lệch | 0,83 | 0,83 | 0,32 | 0,32 |
+| Tương quan chênh lệch với dòng vốn (không nhắm) | −0,21 | −0,10 | −0,03 | −0,11 |
+
+Tương quan giữa hai nước:
+
+| Biến | Số liệu | Mô hình |
+|---|---|---|
+| Sản lượng | 0,30 | 0,30 |
+| Chênh lệch lợi suất (nhắm) | 0,65 | 0,65 |
+| Dòng vốn (không nhắm) | 0,35 | 0,34 |
+
+Mô hình khớp được cả hai mô men không nhắm: tương quan trong nước âm và thấp, và tương quan chéo của dòng vốn 0,34 so với 0,35 thực tế. Theo bài, đây là bằng chứng đầu tiên cho thấy một khung chu kỳ kinh doanh thực tiêu chuẩn cho nền kinh tế nhỏ mở có thể tái tạo những sự thật này cho các thị trường mới nổi.
+
+**Hạn chế được nêu thẳng.** Mô hình dự báo thiếu độ biến động của dòng vốn (0,73 so với 3,16 ở Brazil; 0,60 so với 1,14 ở Mexico) và cho quá trình dai dẳng hơn thực tế. Bài phỏng đoán nguyên nhân là mô hình tiêu chuẩn thiếu các quyết định danh mục đầu tư phong phú.
+
+**Phản ứng xung.** Cú sốc năng suất trong nước làm dòng vốn tăng ngay rồi giảm kéo dài, vì cú sốc là tạm thời: đầu tư tăng ngay do năng suất biên của vốn tăng, rồi tiết kiệm tăng để san đều tiêu dùng. Cú sốc chênh lệch trong nước làm lãi suất tăng, gây dòng vốn ra và cải thiện cán cân vãng lai, tức làm đường cung tín dụng dốc hơn. Cú sốc lãi suất quốc tế làm đường cung dịch lên trên mà giữ nguyên độ dốc.
 
 ### 8. Thí nghiệm phản thực
 
-- Thí nghiệm thứ nhất tắt tương quan cú sốc năng suất giữa hai nước. Đồng bộ hoá chu kỳ kinh doanh biến mất hoàn toàn, nhưng tương quan chênh lệch không nhúc nhích. Điều này nhấn mạnh rằng Chu kỳ Tài chính Toàn cầu thể hiện ở mức đồng chuyển động mạnh của lợi suất tài sản, gần như tách rời khỏi các yếu tố nền tảng của nền kinh tế mới nổi. Ngược lại, tương quan dòng vốn sụt xuống còn khoảng một phần tư mức cơ sở, cho thấy cú sốc năng suất chung là chìa khoá của đồng chuyển động dòng vốn.
-- Bài lưu ý rằng kết quả tương quan sản lượng về không không mang tính máy móc, vì lãi suất thế giới vẫn đóng vai trò động lực chung thêm. Nhưng trên thực tế động lực này không tạo ra đồng chuyển động thu nhập giữa hai nước.
-- Thí nghiệm thứ hai tắt tương quan cú sốc chênh lệch, tức tắt Chu kỳ Tài chính Toàn cầu trong mô hình. Tương quan chênh lệch về không, tương quan sản lượng không đổi, và tương quan dòng vốn chỉ giảm nhẹ. Kết luận là dòng vốn được quyết định bởi cú sốc cầu nhiều hơn là bởi dịch chuyển của cung tín dụng quốc tế.
-- Thí nghiệm thứ ba đặt tương quan cú sốc chênh lệch bằng tương quan cú sốc năng suất. Tương quan dòng vốn chỉ giảm không đáng kể, xác nhận rằng phần tương quan chênh lệch vượt quá mức đồng bộ hoá chu kỳ kinh doanh hầu như không ảnh hưởng tới đồng chuyển động của dòng vốn.
-- Tổng kết: sự khác biệt về mức đồng bộ hoá giữa chênh lệch và dòng vốn truy nguyên được về bản chất khác nhau của các cú sốc đứng sau chúng. Cú sốc cung tín dụng chung là nguồn quan trọng của biến động chênh lệch, còn cú sốc năng suất chung là chìa khoá để hiểu đồng bộ hoá của dòng vốn ròng.
+Bài chạy ba thí nghiệm, mỗi lần thay đổi một tương quan cú sốc giữa Brazil và Mexico:
+
+- **Thí nghiệm 1 (TN1):** tắt tương quan cú sốc năng suất giữa hai nước.
+- **Thí nghiệm 2 (TN2):** tắt tương quan cú sốc chênh lệch lợi suất, tức tắt Chu kỳ Tài chính Toàn cầu trong mô hình.
+- **Thí nghiệm 3 (TN3):** hạ tương quan cú sốc chênh lệch xuống bằng tương quan cú sốc năng suất.
+
+| Tương quan giữa Brazil và Mexico | Số liệu | Cơ sở | TN1 | TN2 | TN3 |
+|---|---|---|---|---|---|
+| Sản lượng | 0,30 | 0,30 | 0,00 | 0,30 | 0,30 |
+| Chênh lệch lợi suất | 0,65 | 0,65 | 0,65 | 0,00 | 0,30 |
+| Dòng vốn | 0,35 | 0,34 | 0,08 | 0,28 | 0,33 |
+
+**Thí nghiệm 1.** Khi tắt tương quan năng suất, đồng bộ hoá chu kỳ kinh doanh biến mất hoàn toàn (tương quan sản lượng về 0), như dự kiến. Nhưng tương quan chênh lệch không nhúc nhích, vẫn 0,65. Điều này cho thấy Chu kỳ Tài chính Toàn cầu thể hiện ở mức đồng chuyển động mạnh của lợi suất tài sản, gần như tách rời khỏi các yếu tố nền tảng của nền kinh tế mới nổi. Ngược lại, tương quan dòng vốn sụt xuống 0,08, chỉ còn khoảng một phần tư mức cơ sở: cú sốc năng suất chung là chìa khoá của đồng chuyển động dòng vốn. Bài lưu ý rằng tương quan sản lượng về 0 không phải kết quả tất yếu về mặt cơ học, vì lãi suất thế giới vẫn là một động lực chung; nhưng trên thực tế động lực này không tạo ra đồng chuyển động thu nhập giữa hai nước.
+
+**Thí nghiệm 2.** Khi tắt tương quan chênh lệch, tương quan chênh lệch về 0 như dự kiến, tương quan sản lượng không đổi (vẫn 0,30), và tương quan dòng vốn chỉ giảm nhẹ, từ 0,34 xuống 0,28. Kết luận: dòng vốn được quyết định bởi cú sốc cầu nhiều hơn là bởi dịch chuyển của cung tín dụng quốc tế.
+
+**Thí nghiệm 3.** Khi hạ tương quan chênh lệch xuống bằng mức của năng suất, tương quan dòng vốn chỉ giảm từ 0,34 xuống 0,33. Phần tương quan chênh lệch vượt quá mức đồng bộ hoá của chu kỳ kinh doanh hầu như không ảnh hưởng tới đồng chuyển động của dòng vốn.
+
+**Tổng kết.** Sự khác biệt về mức đồng bộ hoá (chênh lệch lợi suất cao, dòng vốn thấp) truy nguyên được về bản chất khác nhau của các cú sốc đứng sau chúng. Cú sốc cung tín dụng chung là nguồn quan trọng của biến động chênh lệch, còn cú sốc năng suất chung là chìa khoá để hiểu sự đồng bộ của dòng vốn ròng.
 
 ### 9. Mở rộng mô hình
 
-- Mở rộng thứ nhất thay quá trình chênh lệch ngoại sinh bằng quá trình lãi suất được ước lượng theo đặc tả của Uribe và Yue, trong đó lãi suất phản ứng với sản lượng, đầu tư và cán cân thương mại. Điều này quan trọng để nối điều kiện tín dụng với chu kỳ kinh doanh. Cải thiện là mô hình nay khớp được tương quan âm giữa chênh lệch và sản lượng. Khác biệt chính là chênh lệch nay đồng chuyển động ngay cả khi tắt cú sốc chung, vì lãi suất phản ứng với điều kiện chu kỳ kinh doanh vốn đã đồng bộ. Các kết luận chính vẫn đứng.
-- Mở rộng thứ hai đưa vào cú sốc rủi ro tín dụng nhằm chữa nhược điểm về độ biến động. Ba thay đổi được thực hiện cùng lúc: chuyển sang lãi suất co giãn theo nợ làm cơ chế đóng mô hình, cho hộ gia đình nội hoá việc quyết định nợ ảnh hưởng tới lãi suất, và cho độ co giãn đó trở thành ngẫu nhiên. Khác biệt cơ bản so với hai cú sốc cung khác là loại này làm thay đổi độ dốc của đường cung chứ không chỉ dịch nó song song, nên khuếch đại tác động lên lượng.
-- Mô hình mở rộng khớp được độ biến động dòng vốn, nhưng cái giá rất đắt: đầu tư trở nên quá biến động, và tương quan chéo của dòng vốn sụp từ ba mươi lăm xuống ba phần trăm. Bài kết luận thẳng rằng đánh đổi này đáng kể.
-- Bài cũng bác một giải pháp quen thuộc khác. Việc đưa nhà giao dịch nhiễu vào, vốn thường được dùng để tạo thêm biến động trong mô hình nền kinh tế nhỏ mở, đặc biệt khi khớp biến động tỷ giá, sẽ không chữa được vấn đề ở đây. Lý do là cơ chế đó giả định nhà giao dịch nhiễu theo chiến lược vốn bằng không, tức mua tài sản nước ngoài và bán khống lượng tương đương trong nước. Do đó cú sốc giao dịch nhiễu có thể làm thay đổi giá tương đối của dòng vốn, tức tỷ giá cân bằng, nhưng không làm thay đổi lượng ròng của dòng vốn.
-- Mở rộng thứ ba giải mô hình bằng phương pháp toàn cục thay vì xấp xỉ tuyến tính bậc nhất. Kết quả là độ biến động dòng vốn tăng gấp đôi ở cả hai nước, và với Mexico nay khớp hẳn với số liệu. Nguyên nhân là mô hình tuyến tính hoá buộc chi phí điều chỉnh danh mục phải gần bằng không để tránh nghiệm đơn vị trong quá trình nợ, từ đó đặt giới hạn tự nhiên cho độ biến động dòng vốn mà mô hình có thể dung nạp. Nhưng cái giá là tương quan chéo của dòng vốn tăng lên sáu mươi ba phần trăm, cao hơn mức thực tế.
+**Mở rộng thứ nhất: quá trình lãi suất được ước lượng.** Thay vì để chênh lệch là một quá trình ngoại sinh, bài dùng đặc tả của Uribe và Yue (2006), trong đó lãi suất phản ứng với sản lượng, đầu tư, cán cân thương mại trên sản lượng, lãi suất thế giới và độ trễ của các biến này. Điều này quan trọng vì nó nối điều kiện tín dụng với chu kỳ kinh doanh. Cải thiện: mô hình nay khớp được tương quan âm giữa chênh lệch và sản lượng (−0,12 trong mô hình so với −0,18 thực tế ở Brazil). Khác biệt chính: chênh lệch nay vẫn đồng chuyển động giữa hai nước ngay cả khi tắt cú sốc chênh lệch chung (tương quan 0,24 thay vì 0), vì lãi suất phản ứng với điều kiện chu kỳ kinh doanh vốn đã đồng bộ. Các kết luận chính vẫn đứng.
+
+**Mở rộng thứ hai: cú sốc rủi ro tín dụng, nhằm chữa nhược điểm về độ biến động dòng vốn.** Ba thay đổi được thực hiện cùng lúc: chuyển cơ chế đóng mô hình từ chi phí điều chỉnh danh mục sang lãi suất co giãn theo nợ; cho hộ gia đình nội hoá việc quyết định nợ của mình ảnh hưởng tới lãi suất; và cho độ co giãn của lãi suất theo nợ trở thành ngẫu nhiên:
+
+R(t) = R*(t) + ψ(t)·[(d(t) − d̄) − 1] + ε(t), với ψ(t) = ψ + cú sốc rủi ro tín dụng.
+
+Ở đây R* là lãi suất thế giới, d là nợ, d̄ là mức nợ dài hạn, và ψ(t) là độ nhạy của lãi suất theo nợ, nay dao động ngẫu nhiên. Khác biệt cơ bản so với hai cú sốc cung còn lại: cú sốc lãi suất thế giới và cú sốc chênh lệch làm đường cung dịch song song, còn cú sốc rủi ro tín dụng làm thay đổi độ dốc của đường cung, nên khuếch đại tác động lên lượng.
+
+Mô hình mở rộng khớp được độ biến động dòng vốn (3,16 ở Brazil và 1,14 ở Mexico), nhưng cái giá rất đắt: đầu tư trở nên quá biến động (độ lệch chuẩn 14,30 so với 5,49 thực tế ở Brazil), và tương quan chéo của dòng vốn sụp từ 0,35 xuống 0,03. Bài kết luận thẳng rằng đánh đổi này đáng kể.
+
+Bài cũng bác một giải pháp quen thuộc khác: đưa "nhà giao dịch nhiễu" vào mô hình, cách thường dùng để tạo thêm biến động trong mô hình nền kinh tế nhỏ mở, nhất là khi muốn khớp biến động tỷ giá. Cách này không chữa được vấn đề ở đây, vì nó giả định nhà giao dịch nhiễu theo chiến lược vốn bằng không: mua tài sản nước ngoài và bán khống lượng tương đương tài sản trong nước. Do đó cú sốc giao dịch nhiễu có thể làm thay đổi giá tương đối của dòng vốn, tức tỷ giá cân bằng, nhưng không làm thay đổi lượng ròng của dòng vốn.
+
+**Mở rộng thứ ba: giải bằng phương pháp toàn cục.** Thay vì xấp xỉ tuyến tính bậc nhất, bài giải mô hình bằng Thuật toán Lặp Điểm Bất Động (FiPIt, Mendoza và Villalvazo 2020), với lưới 350 điểm cho tài sản nước ngoài và 60 điểm cho vốn. Độ biến động dòng vốn tăng gấp đôi ở cả hai nước, và với Mexico nay khớp hẳn với số liệu. Nguyên nhân: trong mô hình tuyến tính hoá, chi phí điều chỉnh danh mục buộc phải gần bằng không để tránh nghiệm đơn vị trong quá trình nợ (nợ trôi dạt không quay về mức dài hạn), và điều đó đặt một giới hạn tự nhiên cho độ biến động dòng vốn mà mô hình dung nạp được. Cái giá: tương quan chéo của dòng vốn tăng lên 0,63, cao hơn mức thực tế 0,35.
 
 ## Thuật ngữ
 

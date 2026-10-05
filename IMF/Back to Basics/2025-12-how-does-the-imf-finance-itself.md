@@ -98,65 +98,122 @@
           (đóng góp tự nguyện + thặng dư cho vay thông thường)
 ```
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Hợp tác xã tín dụng (credit union).** Một tổ chức do các thành viên cùng góp tiền lập ra, rồi cho chính các thành viên vay. Người gửi tiền nhận lãi, người vay trả lãi cao hơn một chút, phần chênh lệch nuôi bộ máy. Ví dụ minh hoạ: 10 hộ trong làng mỗi hộ góp 10 triệu đồng thành quỹ 100 triệu; hộ nào cần vốn thì vay từ quỹ với lãi 6%/năm, còn hộ góp tiền nhận lãi 5%/năm, 1 điểm phần trăm chênh lệch trả công người giữ sổ. Bài dùng hình ảnh này để giải thích toàn bộ cách IMF tự tài trợ.
+
+**Quota.** Phần "cổ phần" của mỗi nước thành viên trong IMF, được định ra chủ yếu theo vị thế của nước đó trong kinh tế thế giới. Quota quyết định ba thứ: nước đó phải ký gửi bao nhiêu tiền vào IMF, được vay tối đa bao nhiêu, và có bao nhiêu phiếu bầu. Ví dụ minh hoạ: một nước có quota 4 tỷ USD thì ký gửi 1 tỷ USD bằng đồng tiền mạnh và 3 tỷ USD bằng nội tệ. Đây là nền tảng nguồn vốn của IMF.
+
+**Đồng tiền tự do sử dụng (freely usable currencies).** Những đồng tiền được dùng phổ biến nhất trong giao dịch quốc tế và mua bán rộng rãi trên thị trường ngoại hối. Hiện có năm đồng: đô la Mỹ (USD), bảng Anh (GBP), euro (EUR), yen Nhật (JPY) và nhân dân tệ (CNY). Một nước đang thiếu ngoại tệ cần đúng những đồng tiền này để trả nợ và nhập khẩu, nên IMF cho vay bằng chúng.
+
+**Vị thế dự trữ (reserve tranche position).** Phần tiền mà một nước đã đưa cho IMF bằng đồng tiền mạnh, được ghi trên sổ sách IMF như một khoản tiền gửi. Nước đó hưởng lãi theo thị trường trên khoản này và có thể rút toàn bộ bất cứ lúc nào cán cân thanh toán cần. Ví dụ minh hoạ: nếu nước A ký gửi 1 tỷ USD rồi IMF dùng thêm 2 tỷ USD tiền của A để cho vay, vị thế dự trữ của A là 3 tỷ USD và A nhận lãi trên cả 3 tỷ. Đây là lý do việc cho IMF vay là khoản đầu tư an toàn có lãi.
+
+**Cán cân thanh toán (balance of payments).** Bảng tổng hợp mọi dòng tiền ra vào một nước với phần còn lại của thế giới. Một nước gặp "khủng hoảng cán cân thanh toán" khi ngoại tệ chảy ra nhiều hơn chảy vào tới mức không đủ ngoại tệ để trả nợ hay nhập khẩu hàng thiết yếu. Đây là tình huống khiến các nước tìm tới IMF để vay.
+
+**Điều kiện vay (conditionality).** Những cam kết chính sách mà nước vay phải thực hiện để được giải ngân, ví dụ giảm thâm hụt ngân sách hay sửa chính sách tỷ giá. Mục đích là giúp nền kinh tế ổn định lại để có tiền trả nợ. Trong bài, đây là một trong hai lớp bảo vệ khiến nợ quá hạn với IMF hiếm xảy ra.
+
+**Cho vay ưu đãi và PRGT (concessional lending).** Cho vay ưu đãi là cho vay với lãi thấp hơn nhiều so với thị trường, có khi bằng 0. IMF làm việc này cho các nước nghèo nhất qua Quỹ Giảm nghèo và Tăng trưởng (PRGT), một quỹ tách riêng khỏi bảng cân đối chính của IMF. Ví dụ minh hoạ: nếu chủ nợ đòi lãi 3% mà nước nghèo chỉ trả 0%, thì 3 điểm phần trăm chênh lệch phải có người bù. Bài giải thích ai bù khoản đó.
+
+**Lây lan khủng hoảng (contagion).** Hiện tượng khủng hoảng ở một nước kéo theo khủng hoảng ở các nước khác, vì nhà đầu tư rút vốn hàng loạt hoặc vì thương mại giữa các nước bị cắt. Đây là một trong những lý do bài cho rằng cả thế giới được lợi khi IMF cho nước khủng hoảng vay.
+
+## Nội dung chi tiết
 
 ### 1. IMF làm gì
 
-- Được biết đến nhiều nhất với vai trò cho nước gặp khủng hoảng vay, nhưng IMF không chỉ là "người chữa cháy tài chính toàn cầu".
-- IMF còn là nguồn tư vấn chính sách thiết yếu, giúp thành viên tạo điều kiện vĩ mô đúng để thúc đẩy tăng trưởng, tạo việc làm, nâng mức sống.
-- Nhiệm vụ đặc thù này đi kèm cấu trúc tài chính đặc thù.
+IMF được biết đến nhiều nhất qua vai trò cho các nước đang gặp khủng hoảng vay tiền. Nhưng bài nhấn mạnh IMF không chỉ là "người chữa cháy tài chính toàn cầu". IMF còn là một nguồn tư vấn chính sách thiết yếu: nó giúp các nước thành viên tạo ra điều kiện kinh tế vĩ mô đúng, như lạm phát thấp, ngân sách bền vững, tỷ giá hợp lý, để thúc đẩy tăng trưởng, tạo việc làm và nâng mức sống.
+
+Theo bài, nhiệm vụ đặc thù này đi kèm một cấu trúc tài chính cũng đặc thù. Phần còn lại của bài giải thích cấu trúc đó.
 
 ### 2. Mô hình hợp tác xã tín dụng của các quốc gia
 
-- IMF gộp nguồn lực của thành viên, thu lãi từ nước đi vay và trả lãi cho nước cho vay.
-- Chênh lệch giữa hai mức lãi trang trải chi phí hành chính cho hoạt động cho vay thông thường, không ưu đãi.
-- Thu nhập từ đầu tư trang trải các chi phí khác như giám sát và phát triển năng lực.
-- Vì thế, khác nhiều tổ chức quốc tế, IMF không yêu cầu thành viên đóng góp hằng năm.
-- Năng lực cho vay gần 1.000 tỷ USD.
+Cách dễ hiểu nhất là coi IMF như một hợp tác xã tín dụng mà thành viên là các quốc gia. IMF gộp nguồn lực của các thành viên, thu lãi từ nước đi vay và trả lãi cho nước cho vay.
+
+Từ mô hình này, IMF có hai nguồn trang trải chi phí:
+
+| Nguồn thu | Dùng để trang trải |
+|---|---|
+| Chênh lệch giữa lãi thu từ nước vay và lãi trả cho nước cho vay | Chi phí hành chính của hoạt động cho vay thông thường (không ưu đãi) |
+| Thu nhập từ các khoản đầu tư của IMF | Các chi phí khác, như giám sát kinh tế các nước và phát triển năng lực |
+
+Nhờ vậy, khác với nhiều tổ chức quốc tế, IMF không yêu cầu các thành viên đóng góp tiền hằng năm để nuôi bộ máy. Năng lực cho vay của IMF hiện vào khoảng gần 1.000 tỷ USD.
 
 ### 3. Quota
 
-- Khi gia nhập, mỗi nước được gán một quota, dựa rộng rãi trên vị thế tương đối trong kinh tế thế giới.
-- Quota quyết định ba thứ: khoản ký gửi tài chính vào IMF, hạn mức được vay, và quyền biểu quyết tại Ban Điều hành.
-- Để bảo đảm đủ nguồn cho vay, IMF đang cùng thành viên thực hiện tăng quota 50% theo đợt rà soát chung gần nhất.
+Khi gia nhập IMF, mỗi nước được gán một quota, dựa rộng rãi trên vị thế tương đối của nước đó trong kinh tế thế giới: nền kinh tế càng lớn và càng mở thì quota càng lớn.
+
+Quota quyết định ba thứ cùng lúc:
+
+1. Khoản tiền nước đó phải ký gửi vào IMF.
+2. Hạn mức nước đó được vay từ IMF.
+3. Quyền biểu quyết của nước đó tại Ban Điều hành IMF.
+
+Để bảo đảm có đủ nguồn cho vay, IMF đang cùng các thành viên thực hiện việc tăng quota thêm 50% theo đợt rà soát chung gần nhất. Quota tăng thì tiền ký gửi tăng, và năng lực cho vay của IMF tăng theo.
 
 ### 4. Ký gửi sinh lãi
 
-- **Một phần tư quota** ký gửi bằng "đồng tiền tự do sử dụng": các đồng tiền dùng phổ biến nhất trong giao dịch quốc tế và được giao dịch rộng rãi trên thị trường ngoại hối. Hiện gồm USD, bảng Anh, euro, yen Nhật và nhân dân tệ.
-- Phần này là **vị thế dự trữ ban đầu** của thành viên trên sổ sách IMF. Thành viên hưởng lãi theo thị trường và có thể rút toàn bộ khi cán cân thanh toán cần.
-- **Ba phần tư còn lại** ký gửi bằng nội tệ, thường dưới dạng giấy nhận nợ không lãi.
-- **Kế hoạch giao dịch tài chính:** khi cho vay, IMF chỉ rút tiền từ những nước có kinh tế đủ mạnh để làm chủ nợ. Nước được gọi sẽ đổi khoản ký gửi sang một trong năm đồng tiền tự do sử dụng, IMF dùng số đó cho vay. Số tiền cho vay được cộng vào vị thế dự trữ của nước đó và hưởng lãi thị trường.
-- **Số liệu:** năm 2024, khoảng 50 nước chủ nợ nhận tổng cộng khoảng 5 tỷ USD tiền lãi từ nguồn lực đã cung cấp cho vay thông thường.
+Khoản ký gửi theo quota được chia làm hai phần với tính chất rất khác nhau.
+
+**Một phần tư quota (1/4)** được ký gửi bằng "đồng tiền tự do sử dụng", tức những đồng tiền dùng phổ biến nhất trong giao dịch quốc tế và được mua bán rộng rãi trên thị trường ngoại hối. Hiện có năm đồng (5 đồng tiền): đô la Mỹ, bảng Anh, euro, yen Nhật và nhân dân tệ. Phần này trở thành **vị thế dự trữ ban đầu** của thành viên trên sổ sách IMF. Thành viên hưởng lãi theo thị trường trên phần này và có thể rút toàn bộ khi cán cân thanh toán cần.
+
+**Ba phần tư còn lại (3/4)** được ký gửi bằng nội tệ của chính nước đó, thường dưới dạng giấy nhận nợ không lãi. Phần này nằm im cho tới khi IMF cần dùng.
+
+| Phần quota | Hình thức | Hưởng lãi? |
+|---|---|---|
+| 1/4 | Đồng tiền tự do sử dụng (USD, GBP, EUR, JPY, CNY) | Có, lãi thị trường; rút được khi cần |
+| 3/4 | Nội tệ, thường là giấy nhận nợ | Không |
+
+**Kế hoạch giao dịch tài chính.** Khi cần cho một nước vay, IMF không rút tiền từ mọi thành viên mà chỉ rút từ những nước có kinh tế đủ mạnh để làm chủ nợ. Các nước này có tên trong kế hoạch giao dịch tài chính. Nước được gọi sẽ đổi khoản ký gửi bằng nội tệ của mình sang một trong năm đồng tiền tự do sử dụng, và IMF dùng số tiền đó để cho vay. Số tiền đã cho vay được cộng vào vị thế dự trữ của nước chủ nợ, nên nước này hưởng lãi thị trường trên đó.
+
+**Số liệu.** Năm 2024, khoảng 50 nước chủ nợ nhận tổng cộng khoảng 5 tỷ USD tiền lãi từ nguồn lực họ đã cung cấp cho hoạt động cho vay thông thường của IMF.
 
 ### 5. Lãi suất và dự trữ
 
-- Lãi suất người vay trả bằng lãi IMF trả cho chủ nợ cộng một biên, hiện khoảng nửa điểm phần trăm mỗi năm.
-- Thu nhập này trang trải chi phí hành chính của hoạt động cho vay. Thặng dư còn lại thường đưa vào dự trữ để xây dựng số dư phòng ngừa, làm nền cho bảng cân đối của IMF.
+Lãi suất mà nước đi vay phải trả được tính bằng lãi IMF trả cho chủ nợ cộng thêm một biên, hiện khoảng nửa điểm phần trăm (0,5 điểm phần trăm) mỗi năm. Ví dụ minh hoạ: nếu IMF trả chủ nợ lãi 3%/năm, nước vay trả khoảng 3,5%/năm.
+
+Khoản thu từ biên này trang trải chi phí hành chính của hoạt động cho vay. Phần thặng dư còn lại thường được đưa vào dự trữ để xây dựng số dư phòng ngừa, làm nền vững cho bảng cân đối của IMF. Dự trữ này lại giúp IMF tiếp tục cho vay. Toàn bộ vòng quay này là lý do IMF không cần thành viên đóng góp hằng năm.
 
 ### 6. Vỡ nợ và nợ quá hạn
 
-- Hiếm xảy ra, vì chương trình do IMF hỗ trợ được thiết kế để nền kinh tế người vay ổn định và cán cân thanh toán cải thiện, đủ sức trả nợ khi đến hạn.
-- **Điều kiện vay** bảo đảm nước vay thực hiện chính sách đã thoả thuận. Ngân hàng trung ương của nước vay phải qua **đánh giá an toàn** để giảm rủi ro lạm dụng vốn.
-- Chưa nước nào vỡ nợ hoàn toàn với IMF, dù đã có trường hợp nợ quá hạn kéo dài, nhất là trong khủng hoảng nợ thập niên 1980. Hiện không có trường hợp nào.
-- **Cơ chế chia sẻ gánh nặng:** khi một nước chậm trả lãi, mọi thành viên chủ nợ và con nợ cùng tài trợ tạm thời với số tiền bằng nhau, bằng cách giảm lãi chủ nợ nhận trên vị thế dự trữ và tăng lãi con nợ trả. Các khoản này được hoàn lại khi nước vay trả xong nợ quá hạn.
+Nợ quá hạn với IMF hiếm xảy ra. Lý do chính là các chương trình do IMF hỗ trợ được thiết kế để nền kinh tế của nước vay ổn định lại và cán cân thanh toán cải thiện, nhờ đó nước vay có đủ sức trả nợ khi đến hạn.
+
+Hai lớp bảo vệ được đặt sẵn:
+
+- **Điều kiện vay** bảo đảm nước vay thực sự thực hiện các chính sách đã thoả thuận.
+- **Đánh giá an toàn**: ngân hàng trung ương của nước vay phải qua một đợt đánh giá để giảm rủi ro tiền vay bị lạm dụng.
+
+Chưa nước nào từng vỡ nợ hoàn toàn với IMF, tức số nước vỡ nợ hoàn toàn là 0. Đã có những trường hợp nợ quá hạn kéo dài, nhất là trong cuộc khủng hoảng nợ thập niên 1980, nhưng hiện không có trường hợp nào.
+
+**Cơ chế chia sẻ gánh nặng.** Khi một nước chậm trả lãi, IMF không chịu lỗ một mình. Mọi thành viên chủ nợ và con nợ cùng tạm thời bù phần thiếu với số tiền bằng nhau: chủ nợ nhận lãi ít đi trên vị thế dự trữ của mình, còn con nợ trả lãi nhiều hơn một chút. Các khoản này được hoàn lại cho họ khi nước vay trả xong nợ quá hạn.
 
 ### 7. Ai được lợi
 
-- **Chủ nợ:** đầu tư an toàn. Hưởng lãi trên quota cho vay trong khi chỉ gánh một phần nhỏ rủi ro.
-- **Người vay:** thiết kế chương trình và điều kiện vay hỗ trợ cải cách trong nước, nhờ đó tiếp cận vốn rẻ. Lãi IMF thấp hơn nhiều so với mức nước khủng hoảng phải trả trên thị trường vốn tư nhân, nếu còn vay được.
-- **Kinh tế thế giới:** giảm rủi ro lan toả. Không có IMF, nước khủng hoảng phải cắt nhập khẩu mạnh, hại cả nhà sản xuất, người tiêu dùng trong nước lẫn đối tác thương mại. Cho vay của IMF cũng giảm nguy cơ lây lan khủng hoảng từ nước này sang nước khác.
+Bài cho rằng mô hình này có lợi cho cả ba bên:
+
+| Bên | Lợi ích |
+|---|---|
+| **Chủ nợ** | Một khoản đầu tư an toàn: hưởng lãi trên phần quota đã cho vay, trong khi chỉ gánh một phần nhỏ rủi ro |
+| **Người vay** | Chương trình và điều kiện vay hỗ trợ cải cách trong nước, nhờ đó được tiếp cận vốn rẻ. Lãi của IMF thấp hơn nhiều so với mức nước khủng hoảng phải trả trên thị trường vốn tư nhân, nếu nước đó còn vay được ở đó |
+| **Kinh tế thế giới** | Giảm rủi ro lan toả. Không có IMF, nước khủng hoảng phải cắt nhập khẩu mạnh để tiết kiệm ngoại tệ, gây hại cho cả nhà sản xuất và người tiêu dùng trong nước lẫn các đối tác thương mại. Cho vay của IMF cũng giảm nguy cơ khủng hoảng lây từ nước này sang nước khác |
 
 ### 8. Cho vay ưu đãi
 
-- Phần lớn cho vay của IMF là thông thường, người vay trả lãi theo thị trường.
-- Với thành viên nghèo nhất, IMF cho vay ưu đãi rẻ hơn, dùng nguồn lực các thành viên giàu tự nguyện đóng góp, gộp trong **Quỹ Giảm nghèo và Tăng trưởng (PRGT)**, tách khỏi bảng cân đối của IMF.
-- Thành viên đóng góp cho PRGT tự chọn tài trợ không hoàn lại hoặc cho vay. Vì người vay trả rất ít hoặc không trả lãi, chênh lệch giữa lãi người vay trả và lãi chủ nợ nhận được bù bằng **tài khoản trợ cấp**, tài trợ từ đóng góp tự nguyện và nguồn lực của IMF.
-- Thành viên gần đây lập khung cho phép chuyển một phần thặng dư từ cho vay thông thường sang trợ cấp cho PRGT.
+Phần lớn khoản vay của IMF là cho vay thông thường, trong đó người vay trả lãi theo thị trường như đã mô tả ở trên.
+
+Với các thành viên nghèo nhất, IMF cho vay ưu đãi, rẻ hơn nhiều, với lãi rất thấp hoặc bằng 0. Nguồn tiền cho hoạt động này không lấy từ quota mà từ các thành viên giàu tự nguyện đóng góp, gộp vào **Quỹ Giảm nghèo và Tăng trưởng (PRGT)**. Quỹ này tách riêng khỏi bảng cân đối của IMF.
+
+Các bước vận hành:
+
+1. Thành viên đóng góp cho PRGT tự chọn hình thức: tài trợ không hoàn lại, hoặc cho quỹ vay.
+2. Nước nghèo nhất vay từ PRGT và trả rất ít hoặc không trả lãi.
+3. Chênh lệch giữa lãi người vay trả và lãi mà các nước cho quỹ vay nhận được bù bằng một **tài khoản trợ cấp**. Tài khoản này được tài trợ từ đóng góp tự nguyện và từ nguồn lực của chính IMF.
+
+Gần đây, các thành viên đã lập một khung cho phép chuyển một phần thặng dư từ hoạt động cho vay thông thường sang trợ cấp cho PRGT. Như vậy, lợi nhuận từ cho vay các nước có thu nhập trung bình và cao giúp nuôi khoản vay ưu đãi cho nước nghèo.
 
 ### 9. Kết
 
-- Tại Hội nghị Bretton Woods lập ra IMF năm 1944, Bộ trưởng Tài chính Mỹ Henry Morgenthau nhận xét chi tiết của thoả thuận tiền tệ và tài chính quốc tế có vẻ "bí ẩn".
-- Nhưng ở cốt lõi, IMF là một hợp tác xã tín dụng đơn giản: tự tài trợ bằng lãi thu từ người vay trừ lãi trả cho chủ nợ, có lợi cho cả hai bên và cho kinh tế thế giới.
+Tại Hội nghị Bretton Woods lập ra IMF năm 1944, Bộ trưởng Tài chính Mỹ Henry Morgenthau nhận xét rằng các chi tiết của thoả thuận tiền tệ và tài chính quốc tế có vẻ "bí ẩn".
+
+Bài kết luận rằng ở cốt lõi, IMF chỉ là một hợp tác xã tín dụng đơn giản: tự tài trợ bằng tiền lãi thu từ người vay trừ đi tiền lãi trả cho chủ nợ. Cách làm này có lợi cho cả người vay lẫn chủ nợ, và cho cả kinh tế thế giới.
 
 ## Thuật ngữ
 

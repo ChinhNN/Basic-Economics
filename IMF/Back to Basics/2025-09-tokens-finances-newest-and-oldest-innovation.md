@@ -86,64 +86,118 @@
                 LAI GIỮA CÔNG NGHỆ VẬT CHẤT VÀ TÀI CHÍNH
 ```
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Token.** Một vật hay một đơn vị đại diện cho giá trị, được người khác chấp nhận khi trao đổi. Vỏ ốc cowrie thời cổ là token vật chất; một đơn vị ghi trên sổ cái số ngày nay là token số. Ví dụ: khi bạn đưa một tờ tiền mặt cho người bán, chính tờ tiền là token, và giao dịch xong ngay lúc tờ tiền đổi tay. Bài dùng khái niệm này để cho thấy token số là phiên bản mới nhất của một ý tưởng rất cũ.
+
+**Trung gian tài chính (intermediary).** Bên đứng giữa người mua và người bán để xác nhận, ghi chép và hoàn tất giao dịch: ngân hàng, mạng thẻ tín dụng, công ty môi giới, trung tâm bù trừ, đơn vị quản lý sổ cổ đông. Ví dụ: khi bạn quẹt thẻ mua hàng, ngân hàng và mạng thẻ phê duyệt ngay nhưng tiền thật chỉ chuyển tới người bán sau đó. Trung gian tạo ra niềm tin nhưng tốn thời gian và phí; token hoá nhắm vào chính chi phí này.
+
+**Rủi ro thanh toán (settlement risk).** Nguy cơ một bên đã giao phần của mình nhưng bên kia không giao phần còn lại. Ví dụ minh hoạ: bạn chuyển 100 triệu đồng mua cổ phiếu, nhưng người bán vỡ nợ trước khi cổ phiếu tới tài khoản của bạn. Trung gian tồn tại phần lớn để gánh rủi ro này, và thời gian chờ thanh toán chính là cái giá phải trả.
+
+**Trung tâm bù trừ (clearinghouse).** Tổ chức gom chứng khoán của người bán và tiền của người mua, kiểm tra cả hai, rồi mới trao đổi. Việc này thường diễn ra một đến hai ngày sau khi khớp lệnh. Ví dụ: bán cổ phiếu hôm thứ Hai thì tiền có thể về thứ Ba hoặc thứ Tư. Trong bài, đây là ví dụ rõ nhất cho việc "giao dịch số chỉ có vẻ tức thời".
+
+**Khả năng lập trình (programmability).** Tiền và tài sản được gắn với một đoạn mã máy tính tự động thực hiện các điều kiện đã đặt sẵn. Ví dụ minh hoạ: đoạn mã khoá 100 đơn vị tiền của người mua và 10 cổ phiếu của người bán, khi cả hai đã sẵn sàng thì đổi chủ cùng một khoảnh khắc; nếu một bên thiếu, không bên nào mất gì. Đây là cách token hoá loại bỏ rủi ro thanh toán mà không cần trung gian chờ đợi.
+
+**Token hoá và sổ cái lập trình được (tokenization, programmable ledger).** Token hoá là tạo ra tài sản trên một sổ cái lập trình được, tức một hệ thống ghi chép giao dịch mà các bên trên thị trường cùng tin tưởng và cùng có quyền truy cập. Tài sản có thể được phát hành thẳng trên sổ cái, hoặc là bản đại diện cho một tài sản nằm bên ngoài, ví dụ một cổ phiếu niêm yết trên Sở giao dịch New York. Đây là khái niệm trung tâm của bài.
+
+**Flash crash.** Một cú sập giá rất đột ngột, thường trong vài phút, do các chương trình giao dịch tự động phản ứng dây chuyền với nhau. Ví dụ trong bài: flash crash ở Wall Street năm 2010 làm bốc hơi ước tính khoảng 1.000 tỷ USD giá trị cổ phiếu trong chốc lát. Bài dùng nó để minh hoạ rủi ro của tốc độ.
+
+**Thế chấp và đòn bẩy nợ (collateral).** Thế chấp là tài sản đem ra bảo đảm cho khoản vay; nếu không trả được nợ, người cho vay giữ tài sản đó. Ví dụ minh hoạ: dùng token trị giá 100 để vay 80, rồi đem 80 đó đầu tư tiếp. Nếu token mất giá còn 60, khoản vay không còn được bảo đảm đủ, và tổn thất truyền sang người cho vay. Đây là rủi ro thứ ba mà bài cho rằng token hoá khuếch đại.
+
+## Nội dung chi tiết
 
 ### 1. Từ vỏ ốc đến tiền mặt
 
-- Hàng nghìn năm trước, trước tiền xu, tiền giấy, thẻ tín dụng và ứng dụng ngân hàng, tổ tiên ta mua bán bằng vỏ ốc cowrie. Những token vật chất này là sáng kiến tài chính đầu tiên của loài người.
-- Điểm hữu ích: dễ xác minh. Nhận một vỏ ốc, bạn thấy nó, chạm nó, tin nó có giá trị. Không cần người trung gian xác nhận giao dịch.
-- Tiền mặt hôm nay vẫn vận hành như vậy: đưa tờ tiền là giao dịch xong, không chậm trễ.
+Hàng nghìn năm trước, trước khi có tiền xu, tiền giấy, thẻ tín dụng hay ứng dụng ngân hàng, tổ tiên chúng ta mua bán bằng vỏ ốc cowrie. Bài coi những token vật chất này là sáng kiến tài chính đầu tiên của loài người.
+
+Điểm hữu ích của vỏ ốc là **dễ xác minh**. Khi nhận một vỏ ốc, người bán nhìn thấy nó, cầm được nó và tin ngay rằng nó có giá trị. Không cần ai đứng giữa để xác nhận rằng giao dịch đã diễn ra.
+
+Tiền mặt ngày nay vẫn vận hành theo đúng cách đó. Đưa tờ tiền cho người bán là giao dịch xong, không có độ trễ và không có trung gian. Tính chất "trao tay là xong" này là thứ mà phần còn lại của bài tìm cách mang vào thế giới số.
 
 ### 2. Giao dịch số chỉ có vẻ tức thời
 
-- Phía sau, ngân hàng và mạng thẻ tín dụng làm trung gian, phê duyệt rồi thanh toán sau. Họ gánh rủi ro thanh toán, tức nguy cơ một bên nuốt lời, và bảo đảm cả hai bên giữ lời hứa.
-- Quản lý rủi ro thanh toán qua trung gian tốn thời gian. Điều này tốn kém nhất khi giao dịch cổ phiếu, trái phiếu và chứng khoán khác: clearinghouse gom tài sản của người bán và tiền của người mua, rồi trao đổi một hai ngày sau.
-- Ở Wall Street, thời gian là tiền. J.P. Morgan ước tính chi phí quản lý tài sản có thể giảm khoảng một phần năm nếu thanh toán giao dịch và tái đầu tư tiền bán được diễn ra tức thì.
+Khi quẹt thẻ hay chuyển khoản, giao dịch trông như hoàn tất ngay, nhưng phía sau thì không. Ngân hàng và mạng thẻ tín dụng làm trung gian: họ phê duyệt giao dịch trước, rồi thanh toán thật sau. Trong khoảng thời gian đó, họ gánh **rủi ro thanh toán**, tức nguy cơ một bên nuốt lời, và họ bảo đảm rằng cả hai bên đều giữ lời hứa.
+
+Quản lý rủi ro thanh toán qua trung gian tốn thời gian, và tốn kém nhất trong giao dịch cổ phiếu, trái phiếu và các loại chứng khoán khác. Ở đó, trung tâm bù trừ (clearinghouse) gom tài sản của người bán và tiền của người mua, rồi mới trao đổi cho nhau sau một đến hai ngày.
+
+Ở Wall Street, thời gian là tiền. Tiền bán chứng khoán bị kẹt trong một, hai ngày là tiền không được đem đi đầu tư tiếp. J.P. Morgan ước tính chi phí quản lý tài sản có thể giảm khoảng một phần năm (1/5) nếu việc thanh toán giao dịch và tái đầu tư tiền bán được diễn ra tức thì.
+
+| Hình thức | Khi nào giao dịch thật sự xong | Ai gánh rủi ro thanh toán |
+|---|---|---|
+| Vỏ ốc, tiền mặt | Ngay lúc trao tay | Không ai, vì không có độ trễ |
+| Thẻ, chuyển khoản | Sau khi trung gian thanh toán | Ngân hàng, mạng thẻ |
+| Chứng khoán | Sau 1–2 ngày | Trung tâm bù trừ |
 
 ### 3. Khả năng lập trình
 
-- Các nhà đổi mới tài chính muốn cắt chi phí trung gian bằng cách đem tính tức thời của việc trao token vật chất vào thế giới số.
-- Thách thức: các bên không gặp mặt nên không thấy tài sản trước khi hoàn tất trao đổi.
-- Giải pháp là khả năng lập trình: một đoạn mã khoá tiền của người mua và tài sản của người bán, rồi trao đổi chúng cùng một khoảnh khắc. Tiền nhận về có thể tự động tái đầu tư, tiết kiệm thời gian và tiền.
+Các nhà đổi mới tài chính muốn cắt chi phí trung gian bằng cách đưa tính tức thời của việc trao token vật chất vào thế giới số.
+
+Khó khăn nằm ở chỗ các bên không gặp mặt nhau. Người mua không thể nhìn thấy tài sản của người bán trước khi hoàn tất trao đổi, như người bán nhìn thấy vỏ ốc. Vì thế mới cần trung gian.
+
+Giải pháp là **khả năng lập trình**. Một đoạn mã khoá tiền của người mua và tài sản của người bán lại, rồi trao đổi cả hai trong cùng một khoảnh khắc. Không bên nào phải giao trước và chờ bên kia, nên rủi ro thanh toán biến mất. Hơn nữa, tiền nhận về có thể được tự động tái đầu tư theo quy tắc đặt sẵn, tiết kiệm cả thời gian lẫn tiền.
 
 ### 4. Token hoá và trung gian số
 
-- **Định nghĩa:** token hoá tạo tài sản trên một sổ cái lập trình được, tức hệ thống ghi chép giao dịch tài chính mà các bên tham gia thị trường tin tưởng và cùng chia sẻ quyền truy cập.
-- Tài sản như cổ phiếu hay trái phiếu có thể phát hành trực tiếp trên sổ cái, hoặc là đại diện cho tài sản tồn tại bên ngoài, ví dụ cổ phiếu trên Sở giao dịch New York. Trường hợp sau vẫn cần một trung gian giữ an toàn tài sản gốc ở hậu trường.
-- **Cạnh tranh giữa môi giới:** quy định thường buộc nhà đầu tư dùng môi giới. Chuyển tài sản giữa các môi giới rất phiền, cần clearinghouse chuyên biệt, hoặc phải bán hết rồi mua lại qua môi giới khác và chịu phí giao dịch. Token hoá cho phép chuyển dữ liệu giữa môi giới bằng một cú bấm, giúp nhà đầu tư dễ so giá và đổi môi giới.
-- **Tái định hình ngành:** token hoá không loại bỏ mọi trung gian nhưng giảm nhu cầu với một số vai trò. Registrar là trung gian quản lý sổ sở hữu tài sản và chuyển cổ tức, lãi từ doanh nghiệp tới chủ sở hữu. Trên sổ cái token, các khoản này trả thẳng cho người giữ token, tự động hoá và xoá bỏ vai trò registrar.
-- **Tương tác giữa các sổ cái:** token hoá hiệu quả nhất khi tiền và tài sản lưu chuyển trơn tru. Nếu mỗi công ty xây sổ cái riêng không nói chuyện được với nhau, hệ thống tài chính có thể phân mảnh thành các ốc đảo. Có thể thiết kế sổ cái tương tác được, nhưng cần hoạch định và phối hợp. Đó là lý do nhà hoạch định chính sách muốn hệ thống token hoá luôn mở, kết nối và ổn định.
+**Định nghĩa.** Token hoá là tạo ra tài sản trên một sổ cái lập trình được, tức một hệ thống ghi chép các giao dịch tài chính mà những người tham gia thị trường cùng tin tưởng và cùng có quyền truy cập.
+
+Có hai cách để một tài sản như cổ phiếu hay trái phiếu xuất hiện trên sổ cái:
+
+- **Phát hành trực tiếp** trên sổ cái, tức tài sản sinh ra ở dạng token ngay từ đầu.
+- **Là bản đại diện** cho một tài sản tồn tại bên ngoài, ví dụ một cổ phiếu niêm yết trên Sở giao dịch New York. Trong trường hợp này vẫn cần một trung gian giữ an toàn tài sản gốc ở hậu trường.
+
+Token hoá thay đổi ngành tài chính theo ba hướng.
+
+**Tăng cạnh tranh giữa các công ty môi giới.** Quy định thường buộc nhà đầu tư phải giao dịch qua môi giới. Hiện nay, chuyển tài sản từ môi giới này sang môi giới khác rất phiền: cần một trung tâm bù trừ chuyên biệt, hoặc nhà đầu tư phải bán hết rồi mua lại qua môi giới mới và chịu phí giao dịch hai lần. Token hoá cho phép chuyển dữ liệu sở hữu giữa các môi giới bằng một cú bấm. Nhà đầu tư vì thế dễ so sánh giá và đổi môi giới hơn, và các môi giới phải cạnh tranh nhiều hơn.
+
+**Tái định hình các vai trò trung gian.** Token hoá không loại bỏ mọi trung gian, nhưng làm giảm nhu cầu đối với một số vai trò. Ví dụ là registrar, đơn vị quản lý sổ đăng ký sở hữu tài sản và chuyển cổ tức, tiền lãi từ doanh nghiệp tới người sở hữu. Trên sổ cái token, cổ tức và tiền lãi được trả thẳng cho người đang giữ token một cách tự động, nên vai trò registrar không còn cần thiết.
+
+**Đòi hỏi tương tác giữa các sổ cái.** Token hoá hiệu quả nhất khi tiền và tài sản lưu chuyển trơn tru giữa các bên. Nếu mỗi công ty tự xây một sổ cái riêng mà các sổ cái không kết nối được với nhau, hệ thống tài chính có thể bị chia thành những ốc đảo tách biệt. Có thể thiết kế các sổ cái tương tác được với nhau, nhưng việc đó cần hoạch định và phối hợp từ đầu. Đó là lý do các nhà hoạch định chính sách muốn hệ thống token hoá luôn mở, kết nối và ổn định.
 
 ### 5. Rủi ro thứ nhất: flash crash
 
-- Hiệu quả cao hơn không miễn phí. Lái xe nhanh tiết kiệm thời gian nhưng khiến tai nạn dễ xảy ra hơn và nghiêm trọng hơn. Thị trường tài chính cũng vậy.
-- Giao dịch tự động nhanh hơn đã gây ra các cú sập đột ngột gọi là flash crash, như flash crash Wall Street năm 2010, khi ước tính 1.000 tỷ USD giá trị cổ phiếu niêm yết bốc hơi trong chốc lát.
-- Bằng cách khiến việc lập trình và thực thi tức thì các quy tắc giao dịch tự động dễ hơn, thị trường token hoá có thể rủi ro và biến động hơn.
+Hiệu quả cao hơn không miễn phí. Bài so sánh với lái xe: đi nhanh tiết kiệm thời gian nhưng khiến tai nạn dễ xảy ra hơn và nghiêm trọng hơn khi xảy ra. Thị trường tài chính cũng vậy.
+
+Giao dịch tự động tốc độ cao đã gây ra những cú sập đột ngột gọi là flash crash. Ví dụ nổi bật là flash crash ở Wall Street năm 2010, khi ước tính khoảng 1.000 tỷ USD giá trị cổ phiếu niêm yết bốc hơi trong chốc lát.
+
+Token hoá làm cho việc lập trình các quy tắc giao dịch tự động, và thực thi chúng ngay tức thì, trở nên dễ hơn. Do đó thị trường token hoá có thể rủi ro và biến động hơn thị trường hiện nay: các chương trình phản ứng với nhau nhanh hơn, trước khi con người kịp can thiệp.
 
 ### 6. Rủi ro thứ hai: domino và độ phức tạp
 
-- Khủng hoảng tài chính thường diễn ra như domino đổ, một thất bại kéo theo thất bại tiếp, như năm 2008–09 khi Bear Stearns, Lehman Brothers và AIG cùng sụp đổ trong vòng sáu tháng.
-- Trên sổ cái token, các chuỗi chương trình có thể viết chồng lên nhau, hoạt động như một bộ domino được lập trình sẵn khi khủng hoảng.
-- Token hoá và khả năng lập trình cũng khiến việc tạo sản phẩm tài chính phức tạp dễ hơn, với rủi ro mà cơ quan quản lý có thể không hiểu đầy đủ cho đến khi quá muộn. Điều này từng đúng với các tài sản không lập trình được đã đổ vỡ năm 2008–09. Báo cáo Điều tra Khủng hoảng Tài chính kết luận một "bong bóng phức tạp" đã vỡ cùng lúc với bong bóng bất động sản: "Những chứng khoán hầu như không ai hiểu, được bảo đảm bằng các khoản thế chấp mà không người cho vay nào ký 20 năm trước, là những quân domino đầu tiên đổ trong khu vực tài chính."
-- Khả năng lập trình làm bức tranh tài chính vốn đã phức tạp càng khó theo dõi rủi ro.
+Khủng hoảng tài chính thường diễn ra như một dãy domino đổ, thất bại này kéo theo thất bại khác. Năm 2008–09, Bear Stearns, Lehman Brothers và AIG cùng sụp đổ trong vòng sáu tháng (6 tháng).
+
+Trên sổ cái token, các chương trình có thể được viết chồng lên nhau, chương trình này lấy kết quả của chương trình kia làm điều kiện. Khi khủng hoảng xảy ra, chuỗi chương trình đó có thể hoạt động như một bộ domino đã được lập trình sẵn để đổ dây chuyền.
+
+Token hoá và khả năng lập trình cũng làm cho việc tạo ra các sản phẩm tài chính phức tạp trở nên dễ hơn, kèm theo những rủi ro mà cơ quan quản lý có thể không hiểu đầy đủ cho tới khi đã quá muộn. Điều này từng xảy ra ngay cả với những tài sản không lập trình được trong cuộc khủng hoảng 2008–09. Báo cáo Điều tra Khủng hoảng Tài chính của Mỹ kết luận rằng một "bong bóng phức tạp" đã vỡ cùng lúc với bong bóng bất động sản, và viết: "Những chứng khoán hầu như không ai hiểu, được bảo đảm bằng các khoản thế chấp mà không người cho vay nào chịu ký 20 năm trước, là những quân domino đầu tiên đổ trong khu vực tài chính."
+
+Khả năng lập trình làm cho bức tranh tài chính vốn đã phức tạp càng khó theo dõi rủi ro hơn.
 
 ### 7. Rủi ro thứ ba: nợ
 
-- Mức nợ giữa các bên tham gia thị trường thường quyết định một gợn sóng hay một cơn sóng thần tài chính.
-- Nợ khuếch đại cú sốc vì nó là lời hứa trả, và không gì làm lung lay niềm tin bằng lời hứa trả nợ bị vỡ.
-- Token hoá có thể khiến tích nợ dễ hơn: nhà đầu tư hoặc tổ chức dùng token làm thế chấp để vay rồi đầu tư tiền đó nơi khác. Nếu một mắt xích hỏng, chẳng hạn một token mất giá, tổn thất có thể lan khắp hệ thống.
+Mức nợ giữa các bên trên thị trường thường quyết định một cú sốc chỉ là gợn sóng hay trở thành một cơn sóng thần tài chính.
+
+Nợ khuếch đại cú sốc vì bản chất của nó là một lời hứa trả tiền, và không gì làm lung lay niềm tin bằng một lời hứa trả nợ bị vỡ. Khi một bên không trả được, những bên đã cho bên đó vay cũng gặp khó, và cứ thế lan ra.
+
+Token hoá có thể khiến việc tích luỹ nợ trở nên dễ dàng hơn. Nhà đầu tư hoặc tổ chức có thể dùng token làm thế chấp để vay tiền, rồi đem tiền đó đầu tư ở nơi khác, có khi lại thành token để thế chấp tiếp. Nếu một mắt xích trong chuỗi bị hỏng, chẳng hạn một token mất giá, tổn thất có thể lan ra khắp hệ thống.
+
+| Rủi ro | Ví dụ trong lịch sử | Token hoá làm nó nặng hơn thế nào |
+|---|---|---|
+| Tốc độ | Flash crash năm 2010, khoảng 1.000 tỷ USD bốc hơi | Dễ lập trình và thực thi tức thì các quy tắc giao dịch tự động |
+| Độ phức tạp | Domino 2008–09, "bong bóng phức tạp" | Chương trình chồng chương trình, sản phẩm phức tạp dễ tạo |
+| Nợ | Các đổ vỡ dây chuyền do vỡ nợ | Token dùng làm thế chấp, một token mất giá kéo cả chuỗi |
 
 ### 8. Công nghệ lai
 
-- Tài sản tài chính khởi đầu là hồ sơ giấy, tiến hoá thành sổ cái số rồi token lập trình được. Xu hướng này đang mở rộng sang tài sản phi tài chính như bất động sản, thậm chí thế chấp nông nghiệp như đất canh tác và gia súc.
-- Nhưng tài sản vật chất không số hoá hoàn toàn được, chúng vẫn cần chăm sóc thực để giữ giá trị, như nông dân chăm đàn bò hay đồng cỏ.
-- Token hoá tài sản phi tài chính vì thế nên được xem là lai giữa công nghệ vật chất và công nghệ tài chính.
+Tài sản tài chính khởi đầu là hồ sơ giấy, rồi tiến hoá thành sổ cái số, và nay là token lập trình được. Xu hướng này đang mở rộng sang tài sản phi tài chính như bất động sản, thậm chí cả tài sản thế chấp nông nghiệp như đất canh tác và gia súc.
+
+Nhưng tài sản vật chất không thể số hoá hoàn toàn. Chúng vẫn cần được chăm sóc trong thế giới thực để giữ giá trị: một token đại diện cho đàn bò chỉ có giá trị khi người nông dân vẫn cho bò ăn, chăm đồng cỏ. Token không thay được công việc đó.
+
+Vì vậy, bài cho rằng token hoá tài sản phi tài chính nên được xem là sự lai ghép giữa công nghệ vật chất và công nghệ tài chính, chứ không phải một sản phẩm thuần tài chính.
 
 ### 9. Kết
 
-- Từ vỏ ốc cổ đại đến token số hôm nay, xã hội loài người đã chấp nhận nhiều phương tiện trao đổi khác nhau.
-- Sáng kiến mới nhất mang lợi ích rõ: giao dịch nhanh hơn, rẻ hơn. Nhưng tốc độ, độ phức tạp và nợ rủi ro đều từng góp phần vào các khủng hoảng trước, và token hoá cộng thêm vào cả ba.
-- Như mọi sáng kiến, token số cần được cầm nắm cẩn thận.
+Từ vỏ ốc thời cổ đại tới token số ngày nay, xã hội loài người đã chấp nhận rất nhiều phương tiện trao đổi khác nhau.
+
+Sáng kiến mới nhất mang lại lợi ích rõ ràng: giao dịch nhanh hơn và rẻ hơn. Nhưng tốc độ, độ phức tạp và nợ rủi ro đều đã từng góp phần gây ra các cuộc khủng hoảng trước đây, và token hoá làm tăng cả ba. Như mọi sáng kiến, token số cần được cầm nắm cẩn thận.
 
 ## Thuật ngữ
 

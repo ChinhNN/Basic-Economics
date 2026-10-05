@@ -93,33 +93,86 @@
 2. Có những biến thể nào và điểm chung của chúng?
 3. Lập luận ủng hộ và phản đối xoay quanh điều gì? (phần này bị cắt)
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Chuyển tiền mặt (cash transfers).** Nhà nước trả thẳng tiền cho người dân hoặc hộ gia đình, thay vì cấp hàng hoá hay dịch vụ. Lương hưu cho người già, trợ cấp thất nghiệp cho người mất việc và trợ cấp trẻ em cho gia đình đều là chuyển tiền mặt. Ví dụ minh hoạ: một gia đình có hai con, mỗi con được trợ cấp 500.000 đồng mỗi tháng, nhận tổng cộng 1 triệu đồng mỗi tháng. Khái niệm này quan trọng vì bài bắt đầu bằng câu hỏi: nếu chuyển tiền mặt đã phổ biến ở hầu hết các nước, thì thu nhập cơ bản phổ quát khác gì?
+
+**Thu nhập cơ bản phổ quát (universal basic income).** Một khoản hỗ trợ thu nhập trả cho tất cả mọi người (hoặc phần rất lớn dân số), với không hoặc rất ít điều kiện. Ví dụ minh hoạ: nếu mọi người trưởng thành trong một nước, giàu hay nghèo, có việc hay không, đều nhận 1 triệu đồng mỗi tháng, đó là thu nhập cơ bản phổ quát. Đây là đối tượng chính của bài, và bài nhấn mạnh rằng chưa có định nghĩa thống nhất cho nó.
+
+**Tính phổ quát (universality).** Chương trình bao phủ tất cả hoặc gần như tất cả các cá nhân trong xã hội, chứ không chỉ một nhóm được chọn. Ví dụ minh hoạ: một nước có 10 triệu người trưởng thành; chương trình phổ quát trả cho cả 10 triệu người, còn chương trình cho người nghèo có thể chỉ trả cho 1 triệu người. Đây là một trong hai đặc điểm mà bài dùng để nhận dạng chương trình kiểu thu nhập cơ bản.
+
+**Tính vô điều kiện (unconditionality).** Người nhận không phải làm gì, không phải chứng minh gì để được nhận tiền, hoặc chỉ phải đáp ứng điều kiện rất rộng. Ví dụ minh hoạ: một chương trình yêu cầu trẻ đi học đủ 80% số buổi mới được nhận tiền là có điều kiện; chương trình trả tiền cho mọi người không cần biết họ làm gì là vô điều kiện. Đây là đặc điểm thứ hai mà bài dùng để phân biệt thu nhập cơ bản với các chương trình khác.
+
+**Chương trình thẩm tra thu nhập (means-tested programs).** Chương trình chỉ trả cho người có thu nhập hoặc tài sản dưới một ngưỡng, nên phải kiểm tra thu nhập hoặc tài sản của từng người, từng hộ. Ví dụ minh hoạ: chỉ hộ có thu nhập dưới 2 triệu đồng mỗi người mỗi tháng mới được trợ cấp; hộ có 2,1 triệu đồng thì không. Khái niệm này quan trọng vì người ủng hộ thu nhập cơ bản lập luận rằng cách thẩm tra này hay bỏ sót chính người nghèo.
+
+**Cơ chế nhắm mục tiêu (targeting) và sai sót nhắm mục tiêu.** Nhắm mục tiêu là cách chọn ra ai được nhận hỗ trợ. Cơ chế hoạt động kém có thể bỏ sót người cần nhận, hoặc trả cho người không cần. Ví dụ minh hoạ: trong 100 hộ thật sự nghèo, danh sách chỉ ghi được 70 hộ; 30 hộ còn lại bị bỏ sót vì thiếu giấy tờ, vì cán bộ không nắm thông tin, hoặc vì ngại bị gọi là "hộ nghèo". Bài nêu đúng các nguyên nhân này: năng lực hành chính, chi phí thông tin và hành chính cao, cơ chế nhắm mục tiêu kém, và kỳ thị xã hội.
+
+**Thuế thu nhập âm (negative income tax).** Ý tưởng của Milton Friedman: người có thu nhập cao nộp thuế cho nhà nước như bình thường, còn người có thu nhập thấp thì nhà nước "nộp thuế ngược", tức trả tiền cho họ. Ví dụ minh hoạ: nếu ngưỡng là 10 triệu đồng và tỷ lệ là 50%, người có thu nhập 4 triệu đồng thấp hơn ngưỡng 6 triệu nên nhận về 3 triệu đồng. Friedman muốn dùng một cơ chế duy nhất như vậy để thay toàn bộ các chương trình phúc lợi riêng lẻ, nhằm giảm kém hiệu quả hành chính.
+
+**Bảo trợ xã hội (social protection).** Tập hợp các chương trình nhà nước giúp người dân chống lại rủi ro như tuổi già, thất nghiệp, ốm đau, nghèo đói. Ví dụ: lương hưu, trợ cấp thất nghiệp, trợ cấp trẻ em. Bài hỏi một câu then chốt: thu nhập cơ bản sẽ **thay thế** các chương trình này hay **bổ sung** cho chúng; hai lựa chọn này dẫn tới những chương trình rất khác nhau.
+
+## Nội dung chi tiết
 
 ### 1. Định nghĩa
 
-- Nhiều chính phủ trả lương hưu cho người già, trợ cấp thất nghiệp cho người mất việc, hoặc trợ cấp trẻ em cho gia đình. Chuyển tiền mặt cho hộ gia đình là phổ biến ở hầu hết các nước. Vậy thu nhập cơ bản phổ quát là gì và khác các chương trình này ra sao?
-- Thu nhập cơ bản phổ quát là một cơ chế hỗ trợ thu nhập thường nhằm đến tất cả (hoặc một phần rất lớn dân số) với không (hoặc rất ít) điều kiện.
-- Các thảo luận quanh thu nhập cơ bản phổ quát có thể rất nóng, cả trong bối cảnh học thuật lẫn diễn ngôn công chúng, và không có cách hiểu chung nào được xác lập. Các chương trình hỗ trợ thu nhập rất khác nhau thường bị dán nhãn "thu nhập cơ bản phổ quát", kể cả khi chúng có ít điểm chung hoặc không nhắm cùng một mục tiêu.
+Bài mở đầu bằng một quan sát quen thuộc: nhiều chính phủ đã trả tiền cho một số nhóm dân cư. Người già nhận lương hưu, người mất việc nhận trợ cấp thất nghiệp, gia đình có con nhận trợ cấp trẻ em. Chuyển tiền mặt cho hộ gia đình vì thế phổ biến ở hầu hết các nước. Câu hỏi đặt ra là: nếu vậy thì thu nhập cơ bản phổ quát là gì, và nó khác các chương trình kể trên ở chỗ nào?
+
+Định nghĩa mà bài đưa ra là: thu nhập cơ bản phổ quát là một cơ chế hỗ trợ thu nhập thường nhằm đến **tất cả** dân số (hoặc một phần rất lớn dân số), với **không** điều kiện hoặc rất ít điều kiện. Điểm khác so với lương hưu hay trợ cấp thất nghiệp nằm ở hai chỗ. Các chương trình kia chỉ trả cho một nhóm có hoàn cảnh cụ thể (đã già, đã mất việc, có con nhỏ). Và người nhận thường phải đáp ứng điều kiện (đã đóng bảo hiểm, đang tìm việc). Thu nhập cơ bản phổ quát, theo nghĩa thuần tuý, bỏ cả hai giới hạn đó.
+
+Tuy vậy, bài lưu ý rằng các thảo luận về thu nhập cơ bản phổ quát có thể rất nóng, cả trong giới học thuật lẫn trong dư luận, và cho tới nay **chưa có cách hiểu chung** nào được xác lập. Hệ quả là các chương trình hỗ trợ thu nhập rất khác nhau đều bị dán chung nhãn "thu nhập cơ bản phổ quát", kể cả khi chúng có ít điểm chung hoặc không nhắm tới cùng một mục tiêu. Khi hai người tranh luận về "thu nhập cơ bản", rất có thể họ đang nói về hai chương trình khác nhau.
 
 ### 2. Các thí nghiệm và đặc điểm
 
-- Nhiều thí nghiệm đang diễn ra và sắp tới về thu nhập cơ bản phổ quát trên khắp thế giới đề cập đến những can thiệp rất khác nhau. Ví dụ gồm chuyển tiền mặt cho một nhóm người thất nghiệp được chọn trong thời gian ngắn ở Phần Lan, cho người lớn trong 12 năm ở Kenya, và cho các hộ gia đình được chọn ngẫu nhiên ở California. Sự đa dạng này phản ánh sự thiếu vắng một định nghĩa và phương pháp đánh giá thống nhất trong cả tài liệu học thuật lẫn diễn ngôn chính sách.
-- Các chương trình thường được xếp dưới chiếc ô thu nhập cơ bản phổ quát có một hỗn hợp các đặc điểm then chốt. Nó thay thế hay bổ sung các chương trình bảo trợ xã hội khác? Người nhận là một cá nhân hay một hộ gia đình? Nhóm thụ hưởng được xác định thế nào? Thời điểm chi trả ra sao? Có điều kiện nào kèm theo không?
+Sự mơ hồ của định nghĩa thể hiện rõ trong các thí nghiệm thực tế. Nhiều thí nghiệm đang diễn ra hoặc sắp diễn ra trên thế giới đều được gọi là thử nghiệm thu nhập cơ bản, nhưng thực chất là những can thiệp rất khác nhau:
+
+| Nơi thử nghiệm | Ai được nhận | Trong bao lâu |
+|---|---|---|
+| Phần Lan | Một nhóm người thất nghiệp được chọn | Thời gian ngắn |
+| Kenya | Người lớn (người trưởng thành) | 12 năm |
+| California (Mỹ) | Các hộ gia đình được chọn ngẫu nhiên | Không nêu trong bài |
+
+Ba thí nghiệm này khác nhau ở cả nhóm người nhận (người thất nghiệp, mọi người lớn trong vùng, hộ gia đình ngẫu nhiên), đơn vị nhận (cá nhân hay hộ) lẫn thời gian. Thí nghiệm ở Phần Lan, chẳng hạn, không phổ quát vì chỉ trả cho người thất nghiệp. Theo bài, sự đa dạng này phản ánh việc thiếu vắng một định nghĩa và một phương pháp đánh giá thống nhất, trong cả tài liệu học thuật lẫn diễn ngôn chính sách. Vì vậy không thể đơn giản cộng kết quả của các thí nghiệm này lại để kết luận thu nhập cơ bản "có hiệu quả" hay không.
+
+Để phân loại, bài chỉ ra rằng các chương trình xếp dưới chiếc ô "thu nhập cơ bản phổ quát" là sự phối hợp của năm đặc điểm then chốt, mỗi đặc điểm là một câu hỏi thiết kế:
+
+1. Chương trình **thay thế** hay **bổ sung** các chương trình bảo trợ xã hội khác?
+2. Người nhận là **cá nhân** hay **hộ gia đình**?
+3. Nhóm thụ hưởng được **xác định** thế nào?
+4. **Thời điểm** chi trả ra sao (một lần, hằng tháng, theo giai đoạn)?
+5. Có **điều kiện** nào kèm theo không?
+
+Mỗi câu trả lời khác nhau cho ra một chương trình khác nhau. Ví dụ minh hoạ: một khoản trả một lần cho mọi thanh niên 18 tuổi và một khoản trả hằng tháng cho mọi người lớn suốt đời đều có thể được gọi là "thu nhập cơ bản", dù chi phí và mục đích khác hẳn nhau.
 
 ### 3. Các biến thể lịch sử
 
-- Tuỳ vào cách các đặc điểm then chốt này được chọn và kết hợp, các học giả đã đề xuất nhiều dạng thu nhập cơ bản phổ quát khác nhau.
-- **Thomas Paine (1797)** với "địa tô" giống một khoản cấp vốn theo nhóm (ví dụ một khoản trao một lần cho một nhóm người cụ thể) nhằm chống lại việc truyền nghèo từ thế hệ này sang thế hệ khác.
-- **Milton Friedman (1968)** coi "thuế thu nhập âm" là cách thay thế toàn bộ nhà nước phúc lợi Mỹ để khắc phục các kém hiệu quả hành chính.
-- **Philippe Van Parijs (1992)** ủng hộ một khoản chuyển tiền mặt đều đặn, phổ quát, vô điều kiện và hào phóng.
-- **Anthony Atkinson (1996)** với "thu nhập tham gia" bổ sung cho các chương trình xã hội hiện có và lương tối thiểu, và có điều kiện là một dạng tham gia "xã hội", tức đóng góp cho xã hội qua việc làm, giáo dục, chăm sóc trẻ em hoặc các hoạt động khác.
-- Tuy nhiên, trên toàn dải rộng này, hai đặc điểm chung đặc trưng và phân biệt các chương trình kiểu thu nhập cơ bản phổ quát với các chương trình khác: **tính phổ quát**, tức phạm vi bao phủ rất lớn các cá nhân trong xã hội; và **tính vô điều kiện**, tức cấp phát với điều kiện rất rộng, như trường hợp "thu nhập tham gia" của Atkinson.
+Tuỳ vào cách chọn và kết hợp năm đặc điểm trên, các học giả qua hơn hai thế kỷ đã đề xuất nhiều dạng thu nhập cơ bản khác nhau. Bài nêu bốn dạng tiêu biểu:
+
+| Người đề xuất | Năm | Tên gọi | Nội dung | Thay thế hay bổ sung |
+|---|---|---|---|---|
+| Thomas Paine | 1797 | "Địa tô" | Giống một khoản cấp vốn theo nhóm, ví dụ một khoản trao một lần cho một nhóm người cụ thể; mục đích là chống việc truyền nghèo từ thế hệ này sang thế hệ khác | Không nêu |
+| Milton Friedman | 1968 | "Thuế thu nhập âm" | Một cơ chế thay thế toàn bộ nhà nước phúc lợi Mỹ, nhằm khắc phục các kém hiệu quả hành chính | Thay thế |
+| Philippe Van Parijs | 1992 | Thu nhập cơ bản | Một khoản chuyển tiền mặt đều đặn, phổ quát, vô điều kiện và hào phóng | Không nêu |
+| Anthony Atkinson | 1996 | "Thu nhập tham gia" | Bổ sung cho các chương trình xã hội hiện có và lương tối thiểu; có điều kiện là người nhận phải "tham gia xã hội" | Bổ sung |
+
+Có thể hiểu sự khác biệt giữa các dạng này như sau. Khoản "địa tô" của Paine nhìn về thế hệ sau: trao cho người trẻ một số vốn ban đầu để họ không phải bắt đầu cuộc đời từ số không như cha mẹ nghèo của mình. Thuế thu nhập âm của Friedman nhìn vào bộ máy hành chính: thay vì nhiều chương trình phúc lợi chồng chéo, mỗi chương trình có hồ sơ và cán bộ riêng, chỉ cần một cơ chế trả tiền qua hệ thống thuế. Đề xuất của Van Parijs gần nhất với hình dung phổ biến về thu nhập cơ bản: trả đều đặn, cho mọi người, không điều kiện và ở mức hào phóng. Thu nhập tham gia của Atkinson có điều kiện, nhưng điều kiện rất rộng: người nhận phải đóng góp cho xã hội qua việc làm, giáo dục, chăm sóc trẻ em hoặc các hoạt động khác.
+
+Dù trải rộng như vậy, bài cho rằng có **hai đặc điểm chung** phân biệt các chương trình kiểu thu nhập cơ bản phổ quát với các chương trình hỗ trợ khác:
+
+1. **Tính phổ quát**, tức phạm vi bao phủ rất lớn các cá nhân trong xã hội.
+2. **Tính vô điều kiện**, tức cấp phát không kèm điều kiện hoặc kèm điều kiện rất rộng, như trường hợp thu nhập tham gia của Atkinson: đòi hỏi "tham gia xã hội" nhưng hầu như ai cũng đáp ứng được bằng một hình thức nào đó.
 
 ### 4. Lập luận ủng hộ (phần bị cắt)
 
-- Người ủng hộ và người phản đối thu nhập cơ bản phổ quát đã nhấn mạnh nhiều khía cạnh, và các lập luận ủng hộ phản chiếu các lập luận phản đối.
-- Một số người ủng hộ chỉ ra rằng nó làm tốt hơn việc tiếp cận người nghèo so với các chương trình thẩm tra thu nhập, tức các chương trình xác định tư cách nhận hỗ trợ của cá nhân hay gia đình dựa trên kiểm tra thu nhập hoặc tài sản. Nhiều yếu tố có thể ngăn các chương trình thẩm tra thu nhập tiếp cận đúng người nhận dự kiến, ví dụ năng lực hành chính, chi phí thông tin và hành chính cao, cơ chế nhắm mục tiêu hoạt động kém, và kỳ thị xã hội.
-- Về nguyên tắc, các chương trình thu nhập cơ bản phổ quát đơn giản có thể tiết kiệm chi phí hành chính và tăng... (bài bị cắt tại đây trong PDF; theo tiêu đề phụ của bài, phần còn lại bàn về lo ngại của người hoài nghi về chi phí ngân sách và động lực).
+Bài nhận xét rằng người ủng hộ và người phản đối thu nhập cơ bản phổ quát nhấn mạnh nhiều khía cạnh khác nhau, và các lập luận của hai bên **phản chiếu nhau**: một đặc điểm mà bên này coi là ưu điểm thường chính là đặc điểm bên kia coi là nhược điểm.
+
+Lập luận ủng hộ đầu tiên mà bài trình bày là: thu nhập cơ bản phổ quát tiếp cận người nghèo **tốt hơn** các chương trình thẩm tra thu nhập. Chương trình thẩm tra thu nhập là chương trình xác định tư cách nhận hỗ trợ của một cá nhân hay gia đình bằng cách kiểm tra thu nhập hoặc tài sản của họ. Về lý thuyết, cách này dồn tiền vào đúng người cần. Trên thực tế, nhiều yếu tố khiến nó không đến được đúng người nhận dự kiến:
+
+- **Năng lực hành chính** hạn chế: bộ máy không đủ người, đủ dữ liệu để kiểm tra thu nhập của từng hộ.
+- **Chi phí thông tin và chi phí hành chính cao**: người nghèo phải biết chương trình tồn tại, phải chuẩn bị giấy tờ, đi lại, chờ đợi; nhà nước phải tốn tiền thẩm định.
+- **Cơ chế nhắm mục tiêu hoạt động kém**: danh sách người được nhận có thể bỏ sót người nghèo thật và đưa vào người không nghèo.
+- **Kỳ thị xã hội**: một số người đủ điều kiện nhưng không đăng ký vì ngại bị coi là nghèo hay sống nhờ trợ cấp.
+
+Một chương trình trả cho tất cả mọi người tránh được cả bốn vấn đề này, vì không cần xác định ai nghèo. Về nguyên tắc, một chương trình thu nhập cơ bản phổ quát đơn giản có thể tiết kiệm chi phí hành chính và tăng... Câu văn bị cắt tại đây trong bản PDF. Theo tiêu đề phụ của bài, phần còn lại bàn về lo ngại của những người hoài nghi, tập trung vào hai vấn đề: **chi phí ngân sách** (trả cho tất cả mọi người thì rất tốn kém) và **động lực làm việc** (người nhận tiền không điều kiện có thể làm việc ít đi). Nội dung cụ thể của phần này không có trong tài liệu.
 
 ## Thuật ngữ
 

@@ -84,31 +84,86 @@
 2. Vì sao ngày càng nhiều ngân hàng trung ương thử lãi suất âm?
 3. Lãi suất âm có rủi ro và giới hạn gì?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Lãi suất danh nghĩa (nominal interest rate).** Mức lãi ghi trên hợp đồng vay hay sổ tiết kiệm, tính bằng phần trăm số tiền gốc mỗi năm. Ví dụ minh hoạ: gửi 100 triệu đồng với lãi 5% một năm, cuối năm nhận 105 triệu đồng. Trong gần hết lịch sử, con số này dương; bài giải thích vì sao gần đây nó có thể âm.
+
+**Lãi suất thực (real interest rate).** Lãi suất danh nghĩa trừ đi lạm phát, tức là sức mua thật sự mà người cho vay thu thêm được. Ví dụ trong bài: lạm phát 3%, lãi vay 2%, thì lãi suất thực là −1%: sau một năm, tiền gốc cộng lãi mua được ít hàng hơn lúc cho vay. Khái niệm này cho thấy lãi suất âm (theo nghĩa thực) không phải chuyện lạ; điều mới là lãi suất **danh nghĩa** âm.
+
+**Lãi suất chính sách (policy rate).** Mức lãi do ngân hàng trung ương đặt cho các khoản vay, gửi ngắn hạn giữa ngân hàng trung ương và các ngân hàng. Nó là chuẩn để các ngân hàng định lãi cho vay và lãi tiền gửi trong cả nền kinh tế. Ví dụ minh hoạ: ngân hàng trung ương hạ lãi suất chính sách từ 4% xuống 3%, các ngân hàng thường cũng hạ lãi cho vay, khiến vay mua nhà, mở xưởng rẻ hơn. Đây là công cụ chính mà ngân hàng trung ương dùng để kích thích hay kìm hãm nền kinh tế.
+
+**Lãi suất trung tính (neutral rate).** Mức lãi suất dài hạn mà tại đó nền kinh tế tăng trưởng đều với lạm phát ổn định, không bị kích thích cũng không bị kìm hãm. Lãi suất chính sách thấp hơn mức này là nới lỏng; cao hơn là thắt chặt. Ví dụ minh hoạ: nếu trung tính là 2%, thì lãi suất chính sách 1% đang kích thích nền kinh tế. Bài lập luận rằng mức trung tính đã giảm suốt nhiều thập kỷ, nên ngân hàng trung ương hay phải hạ lãi suất tới sát 0.
+
+**Ngưỡng dưới 0 (zero lower bound).** Mức 0%, nơi từng được cho là lãi suất không thể xuống thấp hơn, vì người ta có thể giữ tiền mặt với lãi bằng 0 thay vì chịu lãi âm. Sau khủng hoảng 2008, nhiều ngân hàng trung ương cắt lãi suất về 0 và chạm ngưỡng này. Khái niệm này giải thích vì sao một số nơi phải thử lãi suất âm.
+
+**Ngưỡng dưới hiệu dụng (effective lower bound).** Mức lãi suất âm mà khi xuống thấp hơn, người gửi sẽ ồ ạt rút tiền ra giữ tiền mặt. Ví dụ minh hoạ: nếu cất 1 tỷ đồng tiền mặt trong két tốn phí thuê két và bảo hiểm khoảng 0,5% mỗi năm, thì người gửi có thể chịu lãi −0,3% nhưng sẽ rút tiền nếu lãi là −1%. Bài nhấn mạnh rằng chưa ai biết chắc ngưỡng này nằm ở đâu.
+
+**Chênh lệch lãi suất cho vay (lending spread).** Khoảng cách giữa lãi ngân hàng thu từ người vay và lãi ngân hàng trả cho người gửi; đây là nguồn lợi nhuận chính của ngân hàng. Ví dụ minh hoạ: cho vay 7%, trả tiền gửi 4%, chênh lệch 3 điểm phần trăm. Bài lo rằng dưới 0, ngân hàng không dám trả lãi âm cho người gửi nên chênh lệch có thể co lại, thậm chí âm.
+
+**Chính sách phi truyền thống (unconventional policies).** Các công cụ ngân hàng trung ương dùng khi việc hạ lãi suất chính sách thông thường đã hết dư địa, trong đó có lãi suất chính sách âm. Bài kết luận rằng vì lãi suất trung tính thấp, các ngân hàng trung ương sẽ ngày càng phải dùng đến những công cụ này.
+
+## Nội dung chi tiết
 
 ### 1. Lãi suất và lãi suất thực
 
-- Tiền tồn tại từ lâu và ta luôn trả phí để dùng tiền hoặc tiết kiệm của người khác, từ "prayog" tiếng Phạn cổ đến "interest" tiếng Anh. Ví dụ lãi suất hợp pháp, thể chế hoá lâu đời nhất nằm trong Luật Eshnunna của Babylon khoảng 2000 TCN.
-- Hầu hết lịch sử, lãi suất danh nghĩa (mức ghi trên khoản vay) đều dương. Nhưng khi lạm phát vượt lợi suất tiết kiệm hoặc khoản vay, ví dụ lạm phát 3% và lãi vay 2%, lợi nhuận sau lạm phát của người cho vay dưới 0. Khi đó lãi suất thực (danh nghĩa trừ lạm phát) âm.
-- Thời hiện đại, ngân hàng trung ương tính lãi suất danh nghĩa dương khi cho vay ngắn hạn để điều tiết chu kỳ kinh doanh. Gần đây ngày càng nhiều ngân hàng trung ương dùng chính sách lãi suất thấp. Ngân hàng Trung ương châu Âu và ngân hàng trung ương Đan Mạch, Nhật, Thuỵ Điển, Thuỵ Sĩ thử lãi suất âm: buộc ngân hàng trả phí để gửi tiền mặt dư ở ngân hàng trung ương, nhằm khuyến khích cho vay ra, chống tăng trưởng yếu kéo dài sau khủng hoảng 2008. Với nhiều người, thế giới đảo lộn: người tiết kiệm nhận lợi suất âm, người vay được trả tiền để vay? Không đơn giản vậy.
+Tiền đã tồn tại từ rất lâu, và việc trả phí để dùng tiền hay tiết kiệm của người khác cũng lâu đời như vậy. Bài dẫn hai ví dụ: từ "prayog" trong tiếng Phạn cổ và từ "interest" trong tiếng Anh đều chỉ khoản tiền trả thêm này. Ví dụ lâu đời nhất về một mức lãi suất hợp pháp, được thể chế hoá, nằm trong Luật Eshnunna của Babylon, khoảng năm 2000 trước Công nguyên.
+
+Trong gần hết lịch sử, **lãi suất danh nghĩa**, tức mức ghi trên khoản vay, đều dương. Tuy nhiên, khi lạm phát cao hơn lợi suất của khoản tiết kiệm hay khoản cho vay, người cho vay thực chất bị thiệt. Ví dụ của bài: lạm phát 3% và lãi vay 2%. Người cho vay 100 đồng nhận lại 102 đồng sau một năm, nhưng giá cả đã tăng 3%, nên 102 đồng chỉ mua được lượng hàng mà khoảng 99 đồng mua được lúc đầu. Lợi nhuận sau lạm phát dưới 0; nói cách khác, **lãi suất thực** (lãi danh nghĩa trừ lạm phát) bằng −1%. Lãi suất thực âm vì thế không phải hiện tượng lạ.
+
+Thời hiện đại, ngân hàng trung ương tính một mức lãi suất danh nghĩa dương khi cho các ngân hàng vay ngắn hạn, và thay đổi mức này để điều tiết chu kỳ kinh doanh. Gần đây ngày càng nhiều ngân hàng trung ương dùng chính sách lãi suất thấp, và một số đã đi xa hơn: Ngân hàng Trung ương châu Âu (ECB) cùng ngân hàng trung ương của Đan Mạch, Nhật Bản, Thuỵ Điển và Thuỵ Sĩ đã thử **lãi suất âm**. Cụ thể, các ngân hàng thương mại phải **trả phí** để gửi tiền dư thừa ở ngân hàng trung ương. Mục đích là khuyến khích các ngân hàng đem tiền đó cho vay ra nền kinh tế, nhằm chống lại tình trạng tăng trưởng yếu kéo dài sau khủng hoảng 2008.
+
+Với nhiều người, điều này giống như thế giới bị đảo lộn: người tiết kiệm nhận lợi suất âm, còn người đi vay lại được trả tiền để vay? Bài trả lời rằng mọi chuyện không đơn giản như vậy, và phần còn lại của bài giải thích vì sao.
 
 ### 2. Lãi suất phải dương?
 
-- Lãi là chi phí tín dụng hay chi phí tiền: số tiền người vay đồng ý trả để bù cho người cho vay vì dùng tiền của họ và vì rủi ro liên quan. Lý thuyết khác nhau: tương tác giữa cung tiết kiệm và cầu đầu tư, hoặc cân bằng cung cầu tiền. Theo đó lãi suất phải dương để thúc đẩy tiết kiệm, và nhà đầu tư đòi lãi cao dần khi vay dài hơn để bù rủi ro khoá tiền lâu. Bình thường, lãi dương và kỳ hạn càng dài lãi càng cao. Muốn biết đầu tư thực sự sinh lời bao nhiêu hay khoản vay tốn bao nhiêu phải tính lạm phát, nên kỳ vọng lạm phát là động lực chính của lãi suất dài hạn.
-- Trong nhiều loại lãi suất, lãi suất chính sách của ngân hàng trung ương là chuẩn cho chi phí vay trong nền kinh tế. Ngân hàng trung ương thay đổi nó theo chu kỳ kinh tế và điều khiển nền kinh tế qua nhiều lãi suất (chủ yếu ngắn hạn). Lãi cao khuyến khích tiết kiệm, lãi thấp kích tiêu dùng và giảm chi phí đầu tư doanh nghiệp.
-- **Lãi suất trung tính:** kim chỉ nam khi đặt lãi suất chính sách, là mức dài hạn khớp với lạm phát ổn định, không kích thích cũng không kìm hãm tăng trưởng. Lãi dưới trung tính là nới lỏng, trên là thắt chặt.
+**Lãi là gì.** Lãi là chi phí tín dụng, hay chi phí của tiền: số tiền người vay đồng ý trả cho người cho vay để bù cho hai thứ, việc được dùng tiền của họ và rủi ro mà người cho vay gánh. Các lý thuyết kinh tế giải thích mức lãi suất theo những cách khác nhau. Một cách coi lãi suất là kết quả tương tác giữa **cung tiết kiệm** và **cầu đầu tư**; cách khác coi nó là mức làm cân bằng **cung và cầu tiền**.
+
+Theo các lý thuyết này, lãi suất phải dương vì ba lý do:
+
+- Phải có lãi dương thì người ta mới chịu tiết kiệm thay vì tiêu ngay.
+- Nhà đầu tư đòi lãi cao dần khi cho vay dài hạn hơn, để bù cho rủi ro bị khoá tiền lâu. Vì vậy, trong điều kiện bình thường, lãi suất dương và **kỳ hạn càng dài thì lãi càng cao**.
+- Muốn biết một khoản đầu tư thực sự sinh lời bao nhiêu, hay một khoản vay thực sự tốn bao nhiêu, phải tính đến lạm phát. Do đó **kỳ vọng lạm phát** là động lực chính quyết định lãi suất dài hạn: nếu mọi người tin lạm phát sẽ cao, họ đòi lãi cao.
+
+**Lãi suất chính sách.** Trong rất nhiều loại lãi suất, lãi suất chính sách của ngân hàng trung ương là chuẩn cho chi phí vay của cả nền kinh tế. Ngân hàng trung ương thay đổi nó theo chu kỳ kinh tế, và qua đó tác động tới nhiều loại lãi suất khác (chủ yếu là lãi suất ngắn hạn). Cơ chế cơ bản:
+
+| Lãi suất chính sách | Tác động |
+|---|---|
+| Cao | Khuyến khích tiết kiệm, làm nguội nền kinh tế |
+| Thấp | Kích thích tiêu dùng, giảm chi phí đầu tư của doanh nghiệp |
+
+**Lãi suất trung tính** là kim chỉ nam khi đặt lãi suất chính sách. Đó là mức lãi suất dài hạn phù hợp với lạm phát ổn định, không kích thích cũng không kìm hãm tăng trưởng. Nếu lãi suất chính sách thấp hơn mức trung tính, chính sách đang **nới lỏng**; nếu cao hơn, chính sách đang **thắt chặt**.
 
 ### 3. Trung tính giảm
 
-- Đồng thuận rộng: ở nhiều nước, lãi suất trung tính giảm rõ suốt nhiều thập kỷ và có lẽ thấp hơn từng giả định. Nguyên nhân chưa được hiểu rõ. Một số nhấn mạnh xu hướng nhân khẩu dài hạn (nhất là già hoá ở nước tiên tiến), tăng trưởng năng suất yếu, thiếu tài sản an toàn. Riêng lạm phát dai dẳng thấp ở nước tiên tiến, thường dưới mục tiêu hoặc trung bình dài hạn, dường như hạ kỳ vọng lạm phát dài hạn của thị trường. Kết hợp lại giải thích tình thế đáng chú ý trên thị trường trái phiếu: lãi suất dài hạn không chỉ giảm mà ở nhiều nước đã âm.
-- Sau khủng hoảng tài chính toàn cầu, ngân hàng trung ương cắt lãi suất danh nghĩa mạnh, nhiều nơi về 0 hoặc gần 0, gọi là ngưỡng dưới 0, điểm mà một số người tin lãi suất không thể xuống thấp hơn. Nhưng chính sách tiền tệ tác động qua cơ chế tương tự cả trên và dưới 0. Lãi suất âm cũng cho người tiêu dùng và doanh nghiệp động lực chi hoặc đầu tư thay vì để trong tài khoản bị lạm phát ăn mòn. Nhìn chung, lãi suất cực thấp có lẽ giúp phần nào kích thích kinh tế nơi áp dụng, dù còn bất định về tác dụng phụ và rủi ro.
+Có một đồng thuận rộng rằng ở nhiều nước, lãi suất trung tính đã **giảm rõ rệt suốt nhiều thập kỷ**, và có lẽ còn thấp hơn mức người ta từng giả định. Nguyên nhân chưa được hiểu rõ, nhưng bài nêu các giả thuyết chính:
+
+- **Xu hướng nhân khẩu dài hạn**, nhất là già hoá dân số ở các nước tiên tiến: người già hơn tiết kiệm nhiều hơn cho tuổi hưu, trong khi nhu cầu đầu tư giảm.
+- **Tăng trưởng năng suất yếu**: khi đầu tư sinh lời ít hơn, lãi suất cân bằng thấp hơn.
+- **Thiếu tài sản an toàn**: nhu cầu nắm giữ tài sản an toàn lớn đẩy giá chúng lên và lợi suất của chúng xuống.
+- **Lạm phát dai dẳng thấp** ở các nước tiên tiến, thường dưới mục tiêu hoặc dưới trung bình dài hạn. Điều này dường như đã hạ kỳ vọng lạm phát dài hạn của thị trường, và qua đó hạ lãi suất dài hạn.
+
+Kết hợp lại, các yếu tố này giải thích một tình thế đáng chú ý trên thị trường trái phiếu: lãi suất dài hạn không chỉ giảm mà ở nhiều nước **đã xuống dưới 0**.
+
+Sau khủng hoảng tài chính toàn cầu 2008, các ngân hàng trung ương cắt lãi suất danh nghĩa rất mạnh, nhiều nơi về 0 hoặc sát 0. Mức này được gọi là **ngưỡng dưới 0**, điểm mà một số người tin rằng lãi suất không thể xuống thấp hơn. Chính tại đây một số ngân hàng trung ương thử lãi suất âm.
+
+Lập luận ủng hộ của bài là: chính sách tiền tệ tác động qua những cơ chế tương tự nhau, dù lãi suất ở trên hay dưới 0. Lãi suất âm cũng cho người tiêu dùng và doanh nghiệp động lực để chi tiêu hoặc đầu tư, thay vì để tiền nằm trong tài khoản bị lạm phát ăn mòn. Nhìn chung, theo bài, lãi suất cực thấp có lẽ đã giúp phần nào kích thích kinh tế ở những nơi áp dụng, dù vẫn còn nhiều bất định về tác dụng phụ và rủi ro.
 
 ### 4. Hai lo ngại
 
-- **Lợi nhuận ngân hàng:** ngân hàng làm nhiệm vụ then chốt là nối tiết kiệm với dự án sinh lời cao, đổi lại hưởng chênh lệch giữa lãi trả người gửi và lãi thu từ khoản vay. Khi ngân hàng trung ương hạ lãi suất, chênh lệch thường co lại vì lãi cho vay và lãi dài hạn giảm. Dưới 0, ngân hàng ngại chuyển lãi âm cho người gửi bằng cách thu phí tiết kiệm vì sợ họ rút tiền. Nếu không áp lãi âm lên tiền gửi, chênh lệch cho vay về nguyên tắc có thể âm vì lợi nhuận khoản vay không bù chi phí giữ tiền gửi. Điều này hạ lợi nhuận ngân hàng và làm suy yếu ổn định hệ thống tài chính.
-- **Chuyển sang tiền mặt:** lãi âm trên tiền gửi khiến người tiết kiệm có động lực rút ra giữ tiền mặt, vì không thể giảm mệnh giá tiền mặt (dù có người đề xuất bỏ hẳn tiền mặt để lãi âm sâu khả thi khi cần). Lo ngại lãi âm có thể tới điểm bùng phát khiến người gửi ồ ạt rời ngân hàng, giữ tiền ngoài hệ thống. Chưa biết chắc ngưỡng dưới hiệu dụng này ở đâu. Trong một số kịch bản, xuống dưới ngưỡng có thể làm suy yếu thanh khoản và ổn định hệ thống.
-- **Thực tế:** ngân hàng có thể thu phí khác để bù chi phí, và lãi chưa đủ âm để ngân hàng thử chuyển lãi âm cho người gửi nhỏ (người gửi lớn đã chấp nhận phần nào vì tiện giữ tiền ở ngân hàng). Nhưng lo ngại về giới hạn của chính sách lãi âm vẫn còn chừng nào tiền mặt còn là lựa chọn thay thế.
-- **Kết luận:** lãi suất trung tính thấp nghĩa là lãi ngắn hạn có thể chạm ngưỡng 0 thường xuyên hơn và ở đó lâu. Khi đó ngân hàng trung ương ngày càng phải dùng đến những gì trước đây xem là chính sách phi truyền thống, gồm lãi suất chính sách âm.
+Bài nêu hai lo ngại chính về lãi suất âm.
+
+**Lo ngại thứ nhất: lợi nhuận ngân hàng.** Ngân hàng làm nhiệm vụ then chốt là nối tiền tiết kiệm với các dự án sinh lời cao, và đổi lại được hưởng chênh lệch giữa lãi thu từ khoản vay và lãi trả cho người gửi. Lập luận của bài đi theo các bước:
+
+1. Khi ngân hàng trung ương hạ lãi suất, lãi cho vay và lãi dài hạn giảm, nên chênh lệch thường co lại.
+2. Khi lãi suất xuống dưới 0, ngân hàng ngại chuyển lãi âm sang người gửi, tức là thu phí trên tiền tiết kiệm, vì sợ người gửi rút tiền đi.
+3. Nếu không áp lãi âm lên tiền gửi, trong khi lãi cho vay tiếp tục giảm, thì về nguyên tắc chênh lệch có thể **âm**: tiền lãi thu từ khoản vay không đủ bù chi phí giữ tiền gửi.
+4. Lợi nhuận ngân hàng giảm, và điều đó làm suy yếu sự ổn định của hệ thống tài chính.
+
+**Lo ngại thứ hai: chuyển sang tiền mặt.** Không ai giảm được mệnh giá của tờ tiền giấy: tờ 100 đô la vẫn là 100 đô la sau một năm cất trong két. Vì vậy, nếu tiền gửi ngân hàng chịu lãi âm, người tiết kiệm có động lực rút ra giữ tiền mặt. Có người đã đề xuất bỏ hẳn tiền mặt để lãi suất âm sâu trở nên khả thi khi cần. Lo ngại ở đây là lãi suất âm có thể chạm tới một **điểm bùng phát**, khi người gửi ồ ạt rời ngân hàng và giữ tiền bên ngoài hệ thống. Điểm này được gọi là **ngưỡng dưới hiệu dụng**, và chưa ai biết chắc nó nằm ở đâu. Trong một số kịch bản, xuống dưới ngưỡng đó có thể làm suy yếu thanh khoản và sự ổn định của hệ thống tài chính.
+
+**Thực tế đã diễn ra.** Cho tới thời điểm bài viết, hai lo ngại này chưa bùng phát. Ngân hàng có thể thu các loại phí khác để bù chi phí. Lãi suất cũng chưa âm tới mức ngân hàng phải thử chuyển lãi âm cho người gửi nhỏ; còn người gửi lớn đã phần nào chấp nhận lãi âm, vì giữ một khoản tiền rất lớn ở ngân hàng tiện hơn nhiều so với cất tiền mặt. Tuy vậy, lo ngại về giới hạn của chính sách lãi suất âm vẫn còn đó chừng nào tiền mặt còn là một lựa chọn thay thế.
+
+**Kết luận của bài.** Lãi suất trung tính thấp có nghĩa là lãi suất ngắn hạn sẽ chạm ngưỡng 0 thường xuyên hơn và ở đó lâu hơn. Khi đó, các ngân hàng trung ương sẽ ngày càng phải dùng đến những công cụ trước đây được coi là chính sách phi truyền thống, trong đó có lãi suất chính sách âm.
 
 ## Thuật ngữ
 

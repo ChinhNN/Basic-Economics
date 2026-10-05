@@ -153,40 +153,128 @@
 2. Đầu tư dọc, ngang, mới, mua lại khác nhau thế nào?
 3. Nước chủ nhà được và mất gì, và thu hút đầu tư ra sao?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Đầu tư danh mục (portfolio investment).** Mua cổ phiếu hay trái phiếu của một doanh nghiệp nước ngoài để hưởng lợi nhuận tài chính, thường trong ngắn hạn, mà không tham gia điều hành doanh nghiệp. Ví dụ minh hoạ: một quỹ nước ngoài mua 1% cổ phần của một ngân hàng niêm yết, rồi bán đi sau ba tháng khi giá tăng 15%. Bài dùng loại này làm đối chứng: nó dễ rút ra nhanh, nên kém ổn định hơn đầu tư trực tiếp.
+
+**Đầu tư trực tiếp (direct investment).** Đầu tư vào một doanh nghiệp ở nước khác với mục tiêu giành quyền kiểm soát hoặc có ảnh hưởng đáng kể lên việc quản lý, thường tương ứng với sở hữu ít nhất 10% cổ phần. Ví dụ minh hoạ: một hãng điện tử nước ngoài mua 30% cổ phần một nhà máy linh kiện trong nước và cử người vào hội đồng quản trị. Điều bài nhấn mạnh là **ý định gắn bó lâu dài**, chứ không phải chỉ con số 10%, mới là yếu tố quyết định.
+
+**Đầu tư trực tiếp dọc và ngang (vertical and horizontal direct investment).** Đầu tư dọc là đặt một công đoạn của chuỗi sản xuất ở nước khác, ví dụ làm linh kiện rồi chở về nơi lắp ráp. Đầu tư ngang là nhân bản toàn bộ quy trình sản xuất ở nước khác để bán ngay tại thị trường đó. Ví dụ trong bài: một hãng ô tô xây nhà máy hộp số ở nước A để chuyển sang nhà máy lắp ráp ở nước B là đầu tư dọc; một hãng xây nhà máy ô tô hoàn chỉnh ở nước C để bán xe cho người nước C là đầu tư ngang. Phân biệt này giải thích vì sao vốn từ nước giàu vào nước nghèo khác với vốn giữa các nước giàu.
+
+**Thương mại nội bộ hãng (intrafirm trade).** Mua bán giữa các đơn vị thuộc cùng một tập đoàn ở các nước khác nhau. Ví dụ minh hoạ: công ty con ở nước X bán 1 triệu bộ linh kiện mỗi năm cho công ty mẹ ở nước Y. Đây là hệ quả trực tiếp của đầu tư dọc.
+
+**Nhảy qua hàng rào thuế (tariff jumping).** Lập nhà máy ngay trong nước có thuế nhập khẩu cao để khỏi phải chịu thuế đó. Ví dụ minh hoạ: nếu ô tô nhập khẩu chịu thuế 50%, một hãng nước ngoài có thể xây nhà máy lắp ráp trong nước để bán xe mà không phải nộp khoản thuế này. Bài nói cách làm này vẫn phổ biến dù thuế thương mại đã giảm qua các năm.
+
+**Đầu tư mới và đầu tư mua lại (greenfield and brownfield investment).** Đầu tư mới là bỏ vốn xây dựng cơ sở hoàn toàn mới (nhà máy, kho, cửa hàng). Đầu tư mua lại là mua vào hoặc thâu tóm một công ty địa phương đang hoạt động, nhận luôn cơ sở, nhà cung cấp, bộ máy vận hành và thường cả thương hiệu. Ví dụ minh hoạ: xây một nhà máy bia mới trên bãi đất trống là đầu tư mới; mua 51% cổ phần một hãng bia địa phương đang hoạt động là đầu tư mua lại. Bài cho thấy nước đang phát triển thường thích đầu tư mới hơn vì nó tạo thêm cơ sở và việc làm.
+
+**Cán cân thanh toán (balance of payments).** Bản ghi mọi giao dịch kinh tế giữa một nước với phần còn lại của thế giới, gồm cả dòng vốn vào và ra. Ví dụ minh hoạ: nếu nhà đầu tư danh mục đột ngột bán 2 tỷ đô la cổ phiếu và mang tiền về nước, nước đó mất ngoại tệ nhanh và tỷ giá có thể bị áp lực. Bài lập luận đầu tư trực tiếp giúp cán cân thanh toán vì nó khó rút ra đột ngột.
+
+**Lan toả tri thức (knowledge spillover).** Kiến thức và kỹ năng từ doanh nghiệp nước ngoài truyền sang doanh nghiệp trong nước mà không qua mua bán. Ví dụ minh hoạ: một kỹ sư được công ty nước ngoài đào tạo quy trình kiểm soát chất lượng trong 5 năm, sau đó chuyển sang làm cho một công ty trong nước và áp dụng quy trình đó. Đây là một trong những lợi ích chính mà nước chủ nhà mong đợi từ đầu tư trực tiếp.
+
+## Nội dung chi tiết
 
 ### 1. Hai lựa chọn cốt lõi
 
-- Nhà đầu tư nước ngoài có vô số động cơ để tìm kiếm lợi nhuận ở nước khác. Nhưng về cơ bản họ có hai lựa chọn cốt lõi khi quyết định cách triển khai vốn.
-- Họ có thể thực hiện đầu tư danh mục, mua cổ phiếu hay trái phiếu chẳng hạn, thường với ý định kiếm lợi nhuận tài chính đầu cơ ngắn hạn mà không tham gia tích cực vào điều hành hằng ngày của doanh nghiệp họ đầu tư vào.
-- Hoặc họ có thể chọn cách tiếp cận lâu dài, trực tiếp: đầu tư vào một doanh nghiệp ở nền kinh tế khác với mục tiêu giành quyền kiểm soát hoặc gây ảnh hưởng đáng kể lên quản lý của công ty (thường liên quan đến cổ phần ít nhất 10% vốn của công ty). Trong trường hợp cực đoan nhất, nhà đầu tư có thể xây dựng cơ sở hoàn toàn mới, duy trì toàn quyền kiểm soát vận hành.
-- Chính ý định gắn bó lâu dài là thành phần quyết định của đầu tư trực tiếp. Nhà đầu tư danh mục có thể bán một cổ phiếu hay trái phiếu nhanh chóng, dù để chốt lời hay tránh lỗ. Hầu hết tập đoàn vào thị trường nước ngoài qua đầu tư trực tiếp đều kỳ vọng ảnh hưởng đáng kể hoặc kiểm soát quản lý doanh nghiệp trong dài hạn.
+Nhà đầu tư nước ngoài có vô số động cơ để tìm lợi nhuận ở một nước khác. Nhưng khi quyết định triển khai vốn như thế nào, về cơ bản họ chỉ có hai lựa chọn cốt lõi.
+
+| | Đầu tư danh mục | Đầu tư trực tiếp |
+|---|---|---|
+| Cách làm | Mua cổ phiếu, trái phiếu | Đầu tư vào doanh nghiệp ở nền kinh tế khác, hoặc xây mới |
+| Mục tiêu | Lợi nhuận tài chính, thường mang tính đầu cơ ngắn hạn | Giành quyền kiểm soát hoặc ảnh hưởng đáng kể lên quản lý |
+| Tham gia điều hành | Không tham gia điều hành hằng ngày | Có, ở mức đáng kể hoặc toàn bộ |
+| Ngưỡng sở hữu thường gặp | Thấp | Thường ít nhất 10% cổ phần |
+| Thời gian gắn bó | Có thể bán nhanh để chốt lời hay tránh lỗ | Dài hạn |
+
+Với **đầu tư danh mục**, nhà đầu tư mua cổ phiếu hay trái phiếu, thường với ý định kiếm lợi nhuận tài chính đầu cơ trong ngắn hạn, và không tham gia tích cực vào điều hành hằng ngày của doanh nghiệp.
+
+Với **đầu tư trực tiếp**, nhà đầu tư chọn cách tiếp cận lâu dài và trực tiếp: bỏ vốn vào một doanh nghiệp ở nền kinh tế khác nhằm giành quyền kiểm soát hoặc gây ảnh hưởng đáng kể lên việc quản lý công ty. Điều này thường đi kèm sở hữu ít nhất 10% vốn cổ phần. Trường hợp cực đoan nhất là nhà đầu tư xây dựng một cơ sở hoàn toàn mới và giữ toàn quyền kiểm soát việc vận hành.
+
+Yếu tố quyết định để phân biệt hai loại là **ý định gắn bó lâu dài**. Nhà đầu tư danh mục có thể bán cổ phiếu hay trái phiếu rất nhanh, dù để chốt lời hay để tránh lỗ. Ngược lại, hầu hết các tập đoàn vào thị trường nước ngoài bằng đầu tư trực tiếp đều kỳ vọng có ảnh hưởng đáng kể, hoặc kiểm soát được việc quản lý doanh nghiệp, trong dài hạn.
 
 ### 2. Các dạng đầu tư
 
-- Nhiều yếu tố ảnh hưởng quyết định của công ty về việc tham gia đầu tư trực tiếp, gồm phân tích chi phí thương mại với một nước nước ngoài. Nếu các chi phí này, gồm thuế nhập khẩu, hàng rào thương mại như hạn ngạch, và vận chuyển, cao hơn chi phí lập hiện diện ở nước ngoài (kể cả chi phí sản xuất ở đó), doanh nghiệp sẽ tối đa hoá lợi nhuận qua đầu tư trực tiếp.
-- Công ty có thể đầu tư với ý tưởng sản xuất các bộ phận trở thành một phần của sản phẩm lớn hơn. Một hãng ô tô có thể đầu tư vào nhà máy sản xuất hộp số vận chuyển đến nhà máy lắp ráp cuối ở nước khác. Loại đầu tư trực tiếp dọc này chiếm phần lớn đầu tư của các nền kinh tế tiên tiến vào các nền kinh tế đang phát triển. Các lợi thế chi phí gắn với đầu tư ở nước ngoài, và trong nhiều trường hợp chỉ thực hiện một phần của quy trình sản xuất ở nước đó, thúc đẩy loại đầu tư này. Tài nguyên thiên nhiên dồi dào hoặc độc đáo, hoặc chi phí lao động thấp, ảnh hưởng quyết định chuyển sản xuất ra nước ngoài và nhập khẩu sản phẩm trung gian hay cuối cùng từ công ty con ở nước chủ nhà về nước của công ty mẹ (thương mại nội bộ hãng).
-- Một công ty cũng có thể đầu tư vào nước ngoài bằng cách nhân bản ở đó các quy trình sản xuất của nước nhà. Điều này có thể nhằm cung cấp hàng hoá hay dịch vụ cho thị trường nước ngoài. Đó gọi là đầu tư trực tiếp ngang. Ở các nước có thuế nhập khẩu hay hàng rào khác, doanh nghiệp nước ngoài có thể thấy lập vận hành địa phương cho phép họ lách qua các hàng rào. Dù thuế thương mại đã giảm qua các năm, việc "nhảy qua hàng rào thuế" như vậy vẫn là cách phổ biến để vào các thị trường mà lợi ích lớn nhất của đầu tư trực tiếp là tiếp cận thị trường địa phương. Một yếu tố khác thúc đẩy đầu tư trực tiếp ngang, đặc biệt giữa các nền kinh tế tiên tiến, là tiếp cận nguồn nhân lực có kỹ năng và công nghệ. Trái với đầu tư trực tiếp dọc, đầu tư trực tiếp ngang có khả năng cạnh tranh trực tiếp với các doanh nghiệp địa phương giành thị phần địa phương.
-- Tất nhiên đầu tư không nhất thiết thuần tuý ngang hay dọc. Một công ty con nước ngoài có thể cung cấp hàng hoá cho công ty mẹ và nhận dịch vụ từ trụ sở, một ví dụ rõ về đầu tư trực tiếp dọc. Nhưng cùng công ty con đó cũng có thể cung cấp cho thị trường địa phương, như một phần chiến lược đầu tư trực tiếp ngang của công ty mẹ.
-- Đầu tư trực tiếp có nhiều hình dạng và hình thức. Một công ty có thể vào thị trường nước ngoài qua cái gọi là đầu tư trực tiếp mới (greenfield), trong đó nhà đầu tư trực tiếp cung cấp vốn để xây nhà máy, cơ sở phân phối hay cửa hàng mới chẳng hạn, để thiết lập hiện diện ở nước chủ nhà. Nhưng một công ty cũng có thể chọn đầu tư trực tiếp mua lại (brownfield). Thay vì thiết lập hiện diện mới, công ty đầu tư vào hoặc thâu tóm một công ty địa phương hiện có. Đầu tư mua lại nghĩa là giành được cơ sở, nhà cung cấp và vận hành hiện có, và thường cả thương hiệu.
+**Vì sao chọn đầu tư trực tiếp thay vì xuất khẩu.** Nhiều yếu tố ảnh hưởng đến quyết định đầu tư trực tiếp của một công ty, trong đó có phép so sánh chi phí. Một bên là **chi phí thương mại** với nước ngoài: thuế nhập khẩu, các hàng rào thương mại như hạn ngạch, và chi phí vận chuyển. Bên kia là **chi phí lập hiện diện** ở nước ngoài, kể cả chi phí sản xuất ở đó. Nếu chi phí thương mại cao hơn, doanh nghiệp sẽ tối đa hoá lợi nhuận bằng cách đầu tư trực tiếp thay vì sản xuất ở nhà rồi xuất khẩu sang.
+
+**Ví dụ minh hoạ** (con số giả định). Một hãng sản xuất máy lạnh bán sang nước Z. Sản xuất ở nhà rồi chở sang tốn 300 đô la mỗi chiếc, cộng thuế nhập khẩu 30% và cước vận chuyển 40 đô la, tổng cộng 430 đô la. Mở nhà máy ở nước Z tốn 380 đô la mỗi chiếc kể cả khấu hao nhà máy. Đầu tư trực tiếp rẻ hơn 50 đô la mỗi chiếc, nên hãng chọn mở nhà máy.
+
+**Đầu tư trực tiếp dọc.** Công ty có thể đầu tư để sản xuất các bộ phận trở thành một phần của một sản phẩm lớn hơn. Ví dụ của bài: một hãng ô tô đầu tư vào một nhà máy làm hộp số, rồi chở hộp số sang nhà máy lắp ráp cuối cùng ở một nước khác. Loại đầu tư dọc này chiếm phần lớn đầu tư của các nền kinh tế tiên tiến vào các nền kinh tế đang phát triển.
+
+Động lực của đầu tư dọc là lợi thế chi phí khi đặt sản xuất ở nước ngoài, và trong nhiều trường hợp chỉ một phần của quy trình sản xuất được làm ở nước đó. Những yếu tố thường quyết định việc chuyển sản xuất ra nước ngoài là tài nguyên thiên nhiên dồi dào hoặc độc đáo, hoặc chi phí lao động thấp. Sau đó, công ty mẹ nhập khẩu sản phẩm trung gian hoặc sản phẩm cuối cùng từ công ty con ở nước chủ nhà về nước mình. Việc mua bán giữa các đơn vị trong cùng tập đoàn như vậy gọi là **thương mại nội bộ hãng**.
+
+**Đầu tư trực tiếp ngang.** Công ty cũng có thể đầu tư ra nước ngoài bằng cách nhân bản ở đó các quy trình sản xuất mà nó đang làm ở trong nước, nhằm cung cấp hàng hoá hay dịch vụ cho chính thị trường nước ngoài đó. Có hai động lực chính:
+
+- **Nhảy qua hàng rào thuế.** Ở các nước có thuế nhập khẩu hay hàng rào thương mại khác, doanh nghiệp nước ngoài có thể thấy rằng lập cơ sở sản xuất tại chỗ giúp họ lách được các hàng rào đó. Dù thuế thương mại đã giảm qua các năm, cách làm này vẫn phổ biến để vào những thị trường mà lợi ích lớn nhất của đầu tư trực tiếp là được tiếp cận thị trường địa phương.
+- **Tiếp cận nguồn nhân lực có kỹ năng và công nghệ.** Đây là động lực quan trọng, đặc biệt giữa các nền kinh tế tiên tiến với nhau.
+
+Khác với đầu tư dọc, đầu tư ngang có khả năng cạnh tranh trực tiếp với doanh nghiệp địa phương để giành thị phần, vì nó bán đúng loại hàng mà doanh nghiệp địa phương đang bán.
+
+| | Đầu tư dọc | Đầu tư ngang |
+|---|---|---|
+| Làm gì ở nước ngoài | Một công đoạn (ví dụ hộp số) | Nhân bản toàn bộ quy trình |
+| Bán cho ai | Công ty mẹ hoặc nhà máy khác trong tập đoàn | Thị trường nước chủ nhà |
+| Động lực | Lợi thế chi phí: tài nguyên, lao động rẻ | Tiếp cận thị trường, nhảy qua hàng rào thuế, lao động có kỹ năng, công nghệ |
+| Phổ biến ở đâu | Từ nước tiên tiến vào nước đang phát triển | Giữa các nước tiên tiến |
+| Quan hệ với doanh nghiệp địa phương | Ít cạnh tranh trực tiếp | Cạnh tranh trực tiếp giành thị phần |
+
+**Không có loại thuần tuý.** Trên thực tế, một khoản đầu tư không nhất thiết thuần tuý ngang hay dọc. Một công ty con ở nước ngoài có thể cung cấp hàng cho công ty mẹ và nhận dịch vụ từ trụ sở chính, một ví dụ rõ của đầu tư dọc. Nhưng chính công ty con đó cũng có thể bán hàng cho thị trường địa phương, như một phần chiến lược đầu tư ngang của công ty mẹ.
+
+**Đầu tư mới và đầu tư mua lại.** Đầu tư trực tiếp còn khác nhau về hình thức gia nhập:
+
+- **Đầu tư mới (greenfield):** nhà đầu tư cung cấp vốn để xây nhà máy, cơ sở phân phối hay cửa hàng mới, thiết lập sự hiện diện mới ở nước chủ nhà.
+- **Đầu tư mua lại (brownfield):** thay vì xây mới, công ty đầu tư vào hoặc thâu tóm một công ty địa phương đang hoạt động. Qua đó nó có ngay cơ sở, nhà cung cấp, bộ máy vận hành hiện có, và thường cả thương hiệu.
 
 ### 3. Tác động địa phương
 
-- Các nước có thể khuyến khích đầu tư trực tiếp vào để cải thiện tài chính. Các doanh nghiệp lập vận hành ở nước chủ nhà chịu luật thuế địa phương và thường tăng đáng kể thu ngân sách của nước chủ nhà. Đầu tư trực tiếp cũng có thể giúp cán cân thanh toán. Vì đầu tư danh mục có thể biến động, tình hình tài chính của một nước có thể xấu đi nếu nhà đầu tư đột ngột rút vốn. Đầu tư trực tiếp, ngược lại, là một đóng góp ổn định hơn cho cấu trúc tài chính của một nước. Nhà đầu tư trực tiếp không muốn hành động làm suy giảm giá trị hay tính bền vững của khoản đầu tư của họ.
-- Các tác động tích cực khác gắn với đầu tư trực tiếp vào gồm tăng việc làm, cải thiện năng suất, chuyển giao công nghệ và tri thức, và tăng trưởng kinh tế chung. Cạnh tranh gia tăng từ doanh nghiệp nước ngoài, dù mới hay được mua lại, thường buộc đối thủ tăng năng suất để không phá sản. Nhà cung cấp và nhà cung cấp dịch vụ cho doanh nghiệp đầu tư trực tiếp cũng có thể tăng năng suất, thường vì nhà đầu tư yêu cầu đơn hàng khối lượng lớn hơn hoặc chất lượng cao hơn. Sự gia tăng khối lượng và đa dạng của sản phẩm và dịch vụ trong nền kinh tế dẫn đến cải thiện chung về chất lượng và quy mô thị trường.
-- Các nước chủ nhà cũng hưởng lợi từ chuyển giao tri thức và công nghệ, thường bắt nguồn từ luân chuyển nhân sự. Các doanh nghiệp đến thường cung cấp nhiều cơ hội đào tạo hơn chủ lao động địa phương. Tri thức này sau đó được chuyển sang các công ty địa phương khi nhân viên đã được đào tạo rời doanh nghiệp nước ngoài sang doanh nghiệp địa phương. Ngoài ra, có thể có một số lan toả tri thức ngẫu nhiên qua các mạng lưới phi chính thức, khi nhân viên trao đổi ý tưởng và quan điểm về thực hành nơi làm việc của họ.
-- Nhưng đầu tư trực tiếp không phải lúc nào cũng được nhìn tích cực từ góc độ nước chủ nhà. Vì các công ty năng suất cao mới tham gia đầu tư trực tiếp, cạnh tranh gia tăng mà họ mang lại có thể đẩy các công ty địa phương kém năng suất nhất ra khỏi thị trường. Những người phản đối đầu tư trực tiếp lập luận rằng đầu tư nước ngoài, nhất là đầu tư mua lại, là một sự chuyển giao sở hữu đơn thuần không tạo ra việc làm mới. Một số người phê phán còn chỉ ra rủi ro đảo chiều đột ngột của đầu tư trực tiếp và bán tháo tài sản, làm giảm mạnh giá trị của chúng và, trong trường hợp cực đoan, buộc đóng cửa cơ sở và công ty sa thải người lao động. Đầu tư trực tiếp thường bị hạn chế ở một số công ty và ngành, như những ngành liên quan đến sản phẩm công nghệ cao nhạy cảm và công ty liên quan quốc phòng.
-- Vì đầu tư trực tiếp phụ thuộc vào quyết định của nước chủ nhà về việc thu hút và tạo điều kiện cho đầu tư, các công ty nước ngoài thường duy trì quan hệ chặt chẽ với chính quyền địa phương. Sự đan xen giữa kinh doanh và chính trị này có thể có tác động bất lợi cho nước chủ nhà. Có lẽ lập luận phổ biến nhất chống lại đầu tư trực tiếp là quyền lực và ảnh hưởng chính trị tiềm tàng của nhà đầu tư nước ngoài. Đòn bẩy mà nhà đầu tư có với nhà hoạch định trở nên rắc rối khi một công ty nước ngoài giành được quyền kiểm soát đáng kể một ngành của nền kinh tế hoặc trở thành người sử dụng lao động quan trọng, thậm chí lớn nhất, trên thị trường.
+**Lợi ích tài chính.** Các nước có thể khuyến khích đầu tư trực tiếp vào để cải thiện tình hình tài chính của mình theo hai cách:
+
+- **Thu ngân sách.** Doanh nghiệp đặt cơ sở ở nước chủ nhà phải tuân theo luật thuế địa phương, và thường làm tăng đáng kể thu ngân sách của nước đó.
+- **Cán cân thanh toán.** Đầu tư danh mục có thể biến động mạnh: nếu nhà đầu tư đột ngột rút vốn, tình hình tài chính của một nước có thể xấu đi nhanh chóng. Đầu tư trực tiếp, ngược lại, là một đóng góp ổn định hơn cho cấu trúc tài chính của một nước. Lý do đơn giản: nhà đầu tư trực tiếp không muốn làm gì khiến giá trị hay tính bền vững của chính khoản đầu tư của họ bị giảm sút. Một nhà máy không thể bán đi trong một ngày như một lô cổ phiếu.
+
+**Lợi ích cho nền kinh tế thực.** Các tác động tích cực khác gồm tăng việc làm, cải thiện năng suất, chuyển giao công nghệ và tri thức, và tăng trưởng kinh tế chung. Cơ chế diễn ra qua ba kênh:
+
+1. **Cạnh tranh.** Doanh nghiệp nước ngoài, dù mới xây hay mua lại, làm tăng cạnh tranh, thường buộc đối thủ địa phương nâng năng suất để khỏi phá sản.
+2. **Nhà cung cấp.** Nhà cung cấp hàng hoá và dịch vụ cho doanh nghiệp đầu tư trực tiếp cũng có thể tăng năng suất, thường vì nhà đầu tư đòi đơn hàng khối lượng lớn hơn hoặc chất lượng cao hơn. Khối lượng và sự đa dạng của sản phẩm, dịch vụ trong nền kinh tế tăng lên, kéo theo cải thiện chung về chất lượng và quy mô thị trường.
+3. **Chuyển giao tri thức và công nghệ**, thường qua luân chuyển nhân sự. Doanh nghiệp nước ngoài thường đào tạo nhân viên nhiều hơn chủ lao động địa phương. Khi những nhân viên đã được đào tạo này chuyển sang làm cho doanh nghiệp địa phương, tri thức đi theo họ. Ngoài ra còn có những lan toả tri thức ngẫu nhiên qua các mạng lưới không chính thức, khi nhân viên các công ty trao đổi ý tưởng và kinh nghiệm về cách làm việc ở nơi mình làm.
+
+**Mặt trái.** Đầu tư trực tiếp không phải lúc nào cũng được nước chủ nhà nhìn tích cực. Bài nêu các mối lo chính:
+
+- **Đẩy doanh nghiệp yếu ra khỏi thị trường.** Vì những công ty tham gia đầu tư trực tiếp thường là công ty năng suất cao, cạnh tranh tăng lên có thể khiến các công ty địa phương kém năng suất nhất phải rời thị trường.
+- **Không tạo việc làm mới.** Những người phản đối cho rằng đầu tư nước ngoài, nhất là đầu tư mua lại, chỉ là chuyển quyền sở hữu từ chủ này sang chủ khác, không tạo thêm việc làm.
+- **Rủi ro đảo chiều đột ngột.** Một số người phê phán chỉ ra rủi ro nhà đầu tư rút lui đột ngột và bán tháo tài sản, làm giá trị tài sản giảm mạnh; trong trường hợp cực đoan, cơ sở bị đóng cửa và người lao động bị sa thải.
+- **Ngành nhạy cảm.** Đầu tư trực tiếp thường bị hạn chế ở một số công ty và ngành, như những ngành liên quan đến sản phẩm công nghệ cao nhạy cảm và các công ty liên quan quốc phòng.
+- **Đan xen giữa kinh doanh và chính trị.** Vì việc đầu tư phụ thuộc vào quyết định của nước chủ nhà về thu hút và tạo điều kiện, các công ty nước ngoài thường giữ quan hệ chặt chẽ với chính quyền địa phương. Sự đan xen này có thể gây bất lợi cho nước chủ nhà.
+- **Quyền lực chính trị.** Có lẽ lập luận phổ biến nhất chống lại đầu tư trực tiếp là quyền lực và ảnh hưởng chính trị tiềm tàng của nhà đầu tư nước ngoài. Đòn bẩy mà nhà đầu tư có với nhà hoạch định chính sách trở thành vấn đề khi một công ty nước ngoài kiểm soát được một phần đáng kể của một ngành, hoặc trở thành người sử dụng lao động quan trọng, thậm chí lớn nhất, trên thị trường. Khi đó chính phủ khó đưa ra quyết định đi ngược lợi ích của công ty đó.
 
 ### 4. Thu hút đầu tư trực tiếp
 
-- Dù có các vấn đề tiềm tàng của đầu tư trực tiếp không được quản lý, chính phủ của cả các nền kinh tế tiên tiến lẫn đang phát triển đều có xu hướng tích cực tìm kiếm nhà đầu tư nước ngoài và vốn họ mang lại.
-- Các nền kinh tế tiên tiến thu hút đầu tư trực tiếp nhờ chính sách ổn định, nguồn lao động có kỹ năng và thị trường có quy mô lớn. Các nền kinh tế đang phát triển quan tâm nhiều hơn đến đầu tư mới, thứ tạo ra cơ sở và việc làm mới. Chính phủ thường lập các đặc khu kinh tế, cung cấp bất động sản để xây dựng cơ sở, và đưa ra ưu đãi thuế hoặc trợ cấp hào phóng để thu hút vốn. Các đặc khu kinh tế này, nếu được thiết kế đúng, cho phép các ngành tập trung ở một khu vực địa lý, thường đặt nhà cung cấp gần người mua và cung cấp hạ tầng cần thiết để đáp ứng yêu cầu của nhà đầu tư.
-- Các nước có lợi thế so sánh, như chính sách thuận lợi hoặc nguồn lao động có kỹ năng đáng kể, thường phát triển các chương trình xúc tiến đầu tư, có thể gồm chiến dịch tiếp thị, văn phòng thông tin, và thậm chí đàm phán song phương giữa chính phủ và doanh nghiệp nước ngoài. Khác với ưu đãi thuế và ưu đãi tài khoá khác dành cho nhà đầu tư nước ngoài, chiến dịch thông tin không xói mòn nguồn thu thuế từ đầu tư trực tiếp.
-- Theo IMF (2014), 63% đầu tư trực tiếp toàn cầu diễn ra giữa các nền kinh tế tiên tiến và 20% giữa nền kinh tế tiên tiến và nền kinh tế thị trường mới nổi (gồm các nước thu nhập thấp). Sáu phần trăm là giữa các nền kinh tế thị trường mới nổi, và 11% tổng dòng đầu tư trực tiếp chảy từ thị trường mới nổi sang nền kinh tế tiên tiến.
-- Việc phần lớn áp đảo của đầu tư trực tiếp diễn ra giữa các nền kinh tế tiên tiến có vẻ ngược trực giác. Nhưng với quy mô lớn của các nền kinh tế này, hợp lý khi đầu tư trực tiếp ngang, trong đó các nền kinh tế tiên tiến tiếp cận nguồn lao động có kỹ năng, công nghệ tiên tiến và thị trường lớn ở các nền kinh tế tiên tiến khác, chiếm ưu thế trong đầu tư trực tiếp toàn cầu.
-- Dữ liệu về đầu tư trực tiếp có thể khó diễn giải vì các khoản đầu tư vào thiên đường thuế. Mức đầu tư ở các nước này lớn, nhưng nhà đầu tư thường không có hiện diện vật lý ở đó. Với bản chất trung chuyển của các khoản đầu tư này, các chi phí và lợi ích thông thường gắn với đầu tư trực tiếp, ngoài việc thu phí và thuế, không áp dụng.
-- Nhà đầu tư trực tiếp nước ngoài có thể, như những người phê phán họ nói, mua đứt tài sản trong nước, đẩy các công ty địa phương ra khỏi thị trường hay áp đặt chính sách của họ lên chính phủ. Nhưng lợi ích chung cho cả nền kinh tế chủ nhà và nền kinh tế đầu tư từ đầu tư trực tiếp nước ngoài vượt xa chi phí một cách đáng kể. Dòng vốn vào từ nhà đầu tư trực tiếp nước ngoài giúp tài trợ chi tiêu của một nước, ví dụ cho đầu tư, và tăng thu thuế, tạo việc làm, và tạo ra các lan toả tích cực khác cho nền kinh tế chủ nhà.
+**Mọi chính phủ đều muốn thu hút.** Dù đầu tư trực tiếp không được quản lý có thể gây ra những vấn đề nói trên, chính phủ của cả các nền kinh tế tiên tiến lẫn đang phát triển đều có xu hướng tích cực tìm kiếm nhà đầu tư nước ngoài và nguồn vốn họ mang lại.
+
+**Cách thu hút khác nhau theo nhóm nước.**
+
+| Nhóm nước | Điểm hấp dẫn hoặc công cụ | Ghi chú |
+|---|---|---|
+| Nền kinh tế tiên tiến | Chính sách ổn định, nguồn lao động có kỹ năng, thị trường quy mô lớn | Thu hút chủ yếu nhờ điều kiện sẵn có |
+| Nền kinh tế đang phát triển | Đặc khu kinh tế, cấp đất xây dựng cơ sở, ưu đãi thuế hoặc trợ cấp hào phóng | Quan tâm nhiều hơn đến đầu tư mới vì nó tạo cơ sở và việc làm mới |
+| Nước có lợi thế so sánh (chính sách thuận lợi, lao động có kỹ năng) | Chương trình xúc tiến đầu tư: chiến dịch tiếp thị, văn phòng thông tin, đàm phán song phương giữa chính phủ và doanh nghiệp nước ngoài | Không làm xói mòn nguồn thu thuế |
+
+**Đặc khu kinh tế.** Nếu được thiết kế đúng, đặc khu kinh tế cho phép các ngành tập trung ở một khu vực địa lý, thường đặt nhà cung cấp gần người mua, và cung cấp hạ tầng cần thiết để đáp ứng yêu cầu của nhà đầu tư.
+
+**Xúc tiến đầu tư so với ưu đãi thuế.** Khác với ưu đãi thuế và các ưu đãi tài khoá khác dành cho nhà đầu tư nước ngoài, các chiến dịch thông tin không làm xói mòn nguồn thu thuế mà đầu tư trực tiếp mang lại. Một nước miễn thuế để thu hút nhà máy thì phải hy sinh chính khoản thu ngân sách vốn là một lợi ích của đầu tư trực tiếp; một nước chỉ giới thiệu tốt về mình thì không mất khoản đó.
+
+**Đầu tư trực tiếp chảy đi đâu.** Theo IMF (2014), dựa trên Khảo sát Đầu tư Trực tiếp Phối hợp, cơ cấu đầu tư trực tiếp toàn cầu như sau:
+
+| Hướng dòng đầu tư | Tỷ trọng |
+|---|---|
+| Giữa các nền kinh tế tiên tiến | 63% |
+| Giữa nền kinh tế tiên tiến và nền kinh tế thị trường mới nổi (gồm các nước thu nhập thấp) | 20% |
+| Giữa các nền kinh tế thị trường mới nổi | 6% |
+| Từ thị trường mới nổi sang nền kinh tế tiên tiến | 11% |
+
+Việc phần lớn áp đảo đầu tư trực tiếp diễn ra giữa các nền kinh tế tiên tiến có vẻ ngược trực giác, vì ta thường hình dung đầu tư trực tiếp là vốn từ nước giàu chảy sang nước nghèo để tận dụng lao động rẻ. Nhưng vì các nền kinh tế tiên tiến có quy mô rất lớn, sẽ hợp lý khi **đầu tư ngang** chiếm ưu thế trong đầu tư trực tiếp toàn cầu: các nền kinh tế tiên tiến tìm đến nguồn lao động có kỹ năng, công nghệ tiên tiến và thị trường lớn ở các nền kinh tế tiên tiến khác.
+
+**Thiên đường thuế làm nhiễu số liệu.** Số liệu đầu tư trực tiếp có thể khó diễn giải vì các khoản đầu tư vào thiên đường thuế. Mức đầu tư ghi nhận ở những nước này rất lớn, nhưng nhà đầu tư thường không có hiện diện vật lý nào ở đó: không nhà máy, không công nhân. Vì đây chủ yếu là vốn trung chuyển, đi qua rồi chảy tiếp sang nước khác, nên các chi phí và lợi ích thông thường của đầu tư trực tiếp nói ở trên không áp dụng, ngoài khoản phí và thuế mà nước đó thu được.
+
+**Kết luận: lợi ích vượt xa chi phí.** Đúng như những người phê phán nói, nhà đầu tư trực tiếp nước ngoài có thể mua đứt tài sản trong nước, đẩy công ty địa phương ra khỏi thị trường, hay áp đặt chính sách của họ lên chính phủ. Nhưng tổng lợi ích của đầu tư trực tiếp nước ngoài, cho cả nền kinh tế chủ nhà lẫn nền kinh tế đi đầu tư, vượt xa chi phí. Dòng vốn vào từ nhà đầu tư trực tiếp nước ngoài giúp tài trợ chi tiêu của một nước, ví dụ chi cho đầu tư, đồng thời làm tăng thu thuế, tạo việc làm, và tạo ra các lan toả tích cực khác cho nền kinh tế chủ nhà.
 
 ## Thuật ngữ
 

@@ -81,32 +81,100 @@
 2. Vì sao kim loại quý rồi tiền pháp định thay thế các dạng tiền khác?
 3. Điều gì giữ cho tiền có giá trị, và mất đi thế nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Ba chức năng của tiền.** Bài định nghĩa tiền không theo vật liệu mà theo việc nó làm được: (1) **lưu giữ giá trị** (store of value): để dành hôm nay, dùng sau; (2) **đơn vị tính toán** (unit of account): thước đo chung để niêm yết giá; (3) **phương tiện trao đổi** (medium of exchange): thứ người ta nhận khi bán và trả khi mua. Ví dụ minh hoạ: khi bạn thấy một cuốn sách giá 100.000 đồng, đồng đang làm đơn vị tính toán; khi bạn trả tiền, nó là phương tiện trao đổi; khi bạn giữ 100.000 đồng trong ví đến tháng sau, nó là nơi lưu giữ giá trị. Cả bài xoay quanh câu hỏi thứ gì làm tốt cả ba việc này.
+
+**Kinh tế hàng đổi hàng (barter economy).** Nền kinh tế không có tiền, mỗi thứ muốn có phải đổi trực tiếp bằng thứ mình làm ra. Khó khăn là phải tìm được người vừa có thứ mình cần vừa cần thứ mình có, gọi là "trùng hợp nhu cầu kép". Ví dụ trong bài: thợ sửa xe cần thức ăn phải tìm đúng một nông dân có xe hỏng. Khái niệm này giúp thấy giá trị của tiền bằng cách hình dung thế giới thiếu nó.
+
+**Chuyên môn hoá.** Mỗi người tập trung làm một việc và mua những thứ còn lại. Ví dụ minh hoạ: một người chỉ sửa xe cả ngày sẽ sửa nhanh hơn nhiều so với người vừa sửa xe vừa trồng rau. Bài lập luận tiền là điều kiện để chuyên môn hoá, vì không có tiền thì người chuyên một việc có thể chết đói trước khi tìm được người đổi hàng.
+
+**Tiền pháp định (fiat money).** Tiền mà bản thân vật liệu gần như vô giá trị (tờ giấy, con số trong tài khoản), không đổi được ra vàng hay bạc, nhưng có giá trị vì cả quốc gia đồng ý coi nó là tiền. Ví dụ: một tờ 100 USD in trên giấy có chi phí in rất nhỏ nhưng mua được hàng trị giá 100 USD. Đây là dạng tiền hiện nay, và bài dùng nó để rút ra câu then chốt: tiền vận hành vì người ta tin nó vận hành.
+
+**Lạm phát và giảm phát.** Lạm phát là khi mức giá chung tăng, tức cần nhiều tiền hơn để mua cùng một lượng hàng hoá; giảm phát là khi mức giá chung giảm. Ví dụ minh hoạ: lạm phát 10% một năm nghĩa là giỏ hàng giá 100 năm nay sẽ giá 110 năm sau. Bài dùng hai khái niệm này để chỉ ra lượng tiền trong nền kinh tế ảnh hưởng thế nào đến giá.
+
+**Siêu lạm phát (hyperinflation).** Lạm phát cao và tăng tốc đến mức người dân mất niềm tin, đồng tiền gần như mất hết giá trị. Ví dụ minh hoạ: giá tăng gấp đôi mỗi tháng thì sau một năm, giá cao gấp khoảng 4.000 lần. Bài dùng nó để cho thấy điều gì xảy ra khi chính phủ in tiền vô độ.
+
+**Đô la hoá không chính thức (de facto dollarization).** Khi người dân tự bỏ nội tệ, dùng một ngoại tệ ổn định (thường là USD) để tiết kiệm, định giá và thanh toán, dù luật không yêu cầu. Ví dụ trong bài: Argentina và Brazil thập niên 1980. Nó là bằng chứng rõ nhất rằng giá trị tiền dựa trên niềm tin.
+
+**Tiền hẹp và tiền rộng (narrow money, broad money).** Hai cách đo lượng tiền. Tiền hẹp gồm tiền mặt và tiền gửi dùng để chuyển khoản, thanh toán ngay được. Tiền rộng cộng thêm những tài sản dễ đổi ra tiền như tiền gửi tiết kiệm, có kỳ hạn, chứng chỉ tiền gửi. Ví dụ minh hoạ: một người có 5 triệu đồng tiền mặt, 10 triệu trong tài khoản thanh toán và 50 triệu gửi tiết kiệm; tiền hẹp của người đó là 15 triệu, tiền rộng là 65 triệu.
+
+## Nội dung chi tiết
 
 ### 1. Ba chức năng
 
-- Tiền có thể làm thế giới quay, như bài hát nói. Hầu hết mọi người đã cầm tiền, nhiều người hàng ngày. Nhưng dù quen thuộc, ít ai nói được chính xác tiền là gì hay vận hành ra sao.
-- Ngắn gọn, tiền là bất cứ thứ gì làm được: lưu giữ giá trị (để dành và dùng sau, dàn đều chi tiêu theo thời gian); đơn vị tính toán (nền chung cho giá cả); phương tiện trao đổi (dùng để mua bán với nhau).
-- Cách dễ nhất để hiểu vai trò của tiền là xét điều gì thay đổi nếu không có nó. Không tiền, ta về kinh tế hàng đổi hàng. Mỗi thứ muốn mua phải đổi bằng thứ mình cung cấp được. Người sửa xe cần thức ăn phải tìm nông dân có xe hỏng. Nếu nông dân không có gì cần sửa? Nếu nông dân chỉ đưa được nhiều trứng hơn thợ dùng nổi? Phải tìm đúng người để đổi khiến rất khó chuyên môn hoá. Người ta có thể chết đói trước khi tìm được đúng người.
-- Có tiền, không cần tìm người cụ thể, chỉ cần thị trường để bán hàng hoá dịch vụ. Ở đó không đổi từng món mà đổi lấy phương tiện trao đổi chung, rồi dùng nó mua thứ cần từ người khác cũng chấp nhận phương tiện đó. Càng chuyên môn hoá càng dễ sản xuất nhiều, dẫn đến nhiều giao dịch hơn và nhu cầu tiền nhiều hơn.
+Như một bài hát nói, tiền có thể làm thế giới quay. Hầu hết mọi người đã từng cầm tiền, nhiều người cầm hằng ngày. Thế nhưng dù quen thuộc như vậy, ít ai nói được chính xác tiền là gì hay nó vận hành ra sao.
+
+Câu trả lời ngắn của bài: tiền là **bất cứ thứ gì làm được ba việc**:
+
+| Chức năng | Nghĩa |
+|---|---|
+| Lưu giữ giá trị | Để dành hôm nay và dùng sau, giúp dàn đều chi tiêu theo thời gian |
+| Đơn vị tính toán | Cung cấp một nền chung để định giá mọi thứ |
+| Phương tiện trao đổi | Thứ mọi người dùng để mua bán với nhau |
+
+**Hình dung thế giới không có tiền.** Cách dễ nhất để hiểu vai trò của tiền là hỏi điều gì sẽ thay đổi nếu nó biến mất. Khi đó ta quay về kinh tế hàng đổi hàng: mỗi thứ muốn mua phải được đổi bằng một thứ mình có thể cung cấp. Một người thợ sửa xe cần thức ăn sẽ phải đi tìm một nông dân vừa có thức ăn vừa có xe hỏng. Nếu người nông dân đó không có gì cần sửa thì sao? Nếu thứ duy nhất ông ta đưa ra được là trứng, và nhiều trứng đến mức người thợ không ăn hết? Việc phải tìm đúng người để đổi khiến chuyên môn hoá trở nên rất khó. Một người chỉ biết một nghề có thể chết đói trước khi tìm được người chịu đổi.
+
+**Thế giới có tiền.** Khi có tiền, người ta không cần tìm một người cụ thể nữa, chỉ cần một thị trường để bán hàng hoá hay dịch vụ của mình. Ở thị trường đó, mỗi người không đổi từng món lấy từng món, mà đổi hàng của mình lấy một phương tiện trao đổi chung, rồi dùng phương tiện đó mua thứ mình cần từ những người khác cũng chấp nhận nó. Điều này mở ra một vòng tự củng cố: có tiền thì dễ chuyên môn hoá; chuyên môn hoá thì sản xuất được nhiều hơn; sản xuất nhiều hơn thì có nhiều giao dịch hơn; và nhiều giao dịch hơn thì cần nhiều tiền hơn.
 
 ### 2. Nhiều loại tiền
 
-- Nói cách khác, tiền là thứ giữ giá trị theo thời gian, dễ chuyển thành giá cả, và được chấp nhận rộng rãi. Nhiều thứ đã từng là tiền: vỏ ốc, lúa mạch, hạt tiêu, vàng, bạc.
-- Ban đầu giá trị của tiền neo vào công dụng thay thế và chi phí thay thế. Có thể ăn lúa mạch hay dùng hạt tiêu nêm thức ăn. Giá trị của việc tiêu dùng đó tạo sàn cho giá trị. Ai cũng trồng thêm được, nhưng mất thời gian, nên nếu lúa mạch bị ăn thì cung tiền giảm. Mặt khác, nhiều người muốn dâu tây và sẵn sàng đổi, nhưng dâu là tiền tồi vì dễ hỏng: khó để dành đến tháng sau chứ chưa nói năm sau, gần như không thể dùng buôn bán với người ở xa. Còn vấn đề chia nhỏ: không phải thứ có giá trị nào cũng dễ chia, và chuẩn hoá từng đơn vị cũng khó; giá trị một giỏ dâu so với các món khác không dễ xác lập và giữ ổn định. Không chỉ dâu tây, hầu hết mọi thứ đều là tiền tồi.
-- Kim loại quý đáp ứng cả ba nhu cầu: đơn vị tính toán ổn định, lưu giữ giá trị bền, phương tiện trao đổi tiện lợi. Khó kiếm, cung hữu hạn, bền theo thời gian, dễ chia thành đồng xu chuẩn và không mất giá trị khi chia nhỏ. Độ bền, cung hạn chế, chi phí thay thế cao, dễ mang theo khiến kim loại quý hấp dẫn hơn hàng khác.
-- Cho đến gần đây, vàng bạc là tiền chính. Nhưng nặng, nên thay vì mang kim loại đi đổi, người ta gửi ở ngân hàng và mua bán bằng giấy xác nhận quyền sở hữu vàng bạc gửi. Ai muốn có thể đến ngân hàng lấy kim loại bảo đảm cho giấy. Cuối cùng, giấy tách khỏi kim loại. Khi liên kết bị cắt, tiền pháp định ra đời: vật chất vô giá trị, nhưng có giá trị đơn giản vì một quốc gia cùng đồng ý gán giá trị. Tóm lại, tiền vận hành vì người ta tin nó vận hành. Khi phương tiện trao đổi tiến hoá, nguồn của nó cũng vậy: từ cá nhân trong hàng đổi hàng, đến chấp nhận tập thể khi tiền là lúa mạch hay vỏ ốc, đến chính phủ gần đây.
+Nói cách khác, tiền là thứ giữ được giá trị theo thời gian, dễ dùng để biểu thị giá cả, và được chấp nhận rộng rãi. Trong lịch sử, rất nhiều thứ đã từng làm tiền: vỏ ốc, lúa mạch, hạt tiêu, vàng, bạc.
+
+**Giá trị ban đầu neo vào công dụng.** Lúc đầu, giá trị của một thứ tiền gắn với công dụng thay thế của nó và chi phí để làm ra cái thay thế. Lúa mạch có thể ăn, hạt tiêu có thể nêm thức ăn; giá trị của việc tiêu dùng đó tạo một mức sàn cho giá trị của tiền. Ai cũng có thể trồng thêm lúa mạch, nhưng phải mất thời gian. Vì vậy nếu người ta ăn bớt lúa mạch thì lượng tiền trong nền kinh tế giảm xuống.
+
+**Vì sao hầu hết mọi thứ là tiền tồi.** Bài lấy dâu tây làm ví dụ. Nhiều người thích dâu tây và sẵn sàng đổi để có nó, nhưng dâu tây là tiền tồi vì:
+
+- **Dễ hỏng**: khó để dành đến tháng sau, chưa nói tới năm sau, và gần như không thể mang đi buôn bán với người ở xa. Nó hỏng ở chức năng lưu giữ giá trị.
+- **Khó chia nhỏ**: không phải thứ có giá trị nào cũng chia được thành phần nhỏ mà vẫn giữ giá trị.
+- **Khó chuẩn hoá**: mỗi quả dâu mỗi khác, nên rất khó xác lập và giữ ổn định giá trị của một giỏ dâu so với các món hàng khác. Nó hỏng ở chức năng đơn vị tính toán.
+
+Không chỉ dâu tây; theo bài, hầu hết mọi thứ đều là tiền tồi.
+
+**Kim loại quý đáp ứng cả ba yêu cầu.** Vàng và bạc cho một đơn vị tính toán ổn định, một nơi lưu giữ giá trị bền, và một phương tiện trao đổi tiện lợi. Chúng khó kiếm, có lượng cung hữu hạn, bền theo thời gian, và chia được thành những đồng xu chuẩn mà không mất giá trị khi chia nhỏ. Sự kết hợp giữa độ bền, nguồn cung hạn chế, chi phí làm ra cao và dễ mang theo khiến kim loại quý hấp dẫn hơn mọi hàng hoá khác.
+
+**Từ kim loại sang giấy, rồi sang tiền pháp định.** Cho đến gần đây, vàng và bạc là tiền chính. Nhưng kim loại nặng, nên thay vì mang theo để mua bán, người ta gửi vàng bạc ở ngân hàng và mua bán bằng tờ giấy xác nhận quyền sở hữu số vàng bạc đã gửi. Ai muốn đều có thể mang tờ giấy đến ngân hàng để lấy lại kim loại bảo đảm cho nó. Cuối cùng, tờ giấy tách khỏi kim loại. Khi mối liên kết này bị cắt, tiền pháp định ra đời: một vật mà bản thân vô giá trị, nhưng có giá trị đơn giản vì cả một quốc gia cùng đồng ý gán giá trị cho nó. Tóm lại, **tiền vận hành vì người ta tin rằng nó vận hành**.
+
+Bài cũng chỉ ra nguồn gốc của phương tiện trao đổi đã thay đổi cùng với hình thức của nó: trong hàng đổi hàng, nó đến từ từng cá nhân; khi tiền là lúa mạch hay vỏ ốc, nó đến từ sự chấp nhận chung của cả cộng đồng; và gần đây, nó đến từ chính phủ.
 
 ### 3. Lượng tiền và giá cả
 
-- Dù đồng xu, tiền giấy chuẩn hoá giúp dễ xác định giá, lượng tiền trong hệ thống cũng quan trọng với giá. Nông dân trồng lúa mì có ít nhất hai lý do giữ tiền: giao dịch (tiền mặt trước) và đệm cho nhu cầu tương lai (tiết kiệm phòng thân). Mùa đông sắp đến, nông dân muốn thêm tiền dự phòng chi tiêu. Nếu khó tìm người có tiền muốn mua lúa mì, ông có thể phải nhận ít tiền hơn cho ngũ cốc. Kết quả giá lúa mì giảm vì cung tiền quá chặt, có thể vì không đủ vàng đúc tiền mới. Giá cả chung giảm gọi là giảm phát. Ngược lại, nhiều tiền lưu thông hơn với cùng mức cầu hàng thì giá trị tiền giảm: lạm phát, khi cần nhiều tiền hơn để mua cùng lượng hàng hoá dịch vụ. Giữ cân bằng cung cầu tiền có thể rất khó.
-- **Sản xuất tiền:** tiền pháp định hiệu quả hơn kim loại quý; điều chỉnh cung không phụ thuộc lượng kim loại. Nhưng thêm phức tạp: chính vì kim loại quý hữu hạn nên có giới hạn lượng giấy bạc phát hành. Không có vàng bạc bảo đảm, chính phủ biết in bao nhiêu? Đây là tình thế lưỡng nan: một mặt, chính quyền luôn bị cám dỗ phát hành tiền vì có thể mua nhiều hơn, thuê nhiều hơn, trả lương cao hơn, tăng lòng dân. Mặt khác, in quá nhiều đẩy giá lên. Nếu người dân kỳ vọng giá tiếp tục tăng, họ có thể tăng giá của mình nhanh hơn nữa. Không kìm được kỳ vọng, niềm tin vào tiền xói mòn, tiền có thể thành vô giá trị: siêu lạm phát. Để loại cám dỗ in bừa, hầu hết các nước nay giao việc quyết định in bao nhiêu cho ngân hàng trung ương độc lập, dựa trên đánh giá nhu cầu nền kinh tế và không chuyển tiền cho chính phủ chi tiêu. "In tiền" bản thân là cách nói sai: hầu hết tiền nay là tiền gửi ngân hàng chứ không phải tiền giấy.
+Đồng xu và tiền giấy được chuẩn hoá giúp xác định giá dễ dàng hơn, nhưng **lượng** tiền trong hệ thống cũng ảnh hưởng tới giá.
+
+**Ví dụ người nông dân trồng lúa mì.** Người nông dân có ít nhất hai lý do để giữ tiền: để giao dịch (cần tiền mặt trước khi mua) và để làm đệm cho nhu cầu tương lai (tiết kiệm phòng thân). Mùa đông sắp tới, ông muốn có thêm tiền dự phòng. Nếu khó tìm được người có tiền và muốn mua lúa mì, ông có thể phải chấp nhận ít tiền hơn cho số ngũ cốc của mình. Kết quả là giá lúa mì giảm, không phải vì lúa mì kém đi mà vì **cung tiền quá chặt**, chẳng hạn vì không có đủ vàng để đúc thêm tiền. Khi mức giá chung giảm, ta gọi đó là **giảm phát**.
+
+Chiều ngược lại cũng đúng: nếu có nhiều tiền lưu thông hơn trong khi cầu hàng hoá không đổi, giá trị của mỗi đồng tiền giảm xuống. Đó là **lạm phát**, khi cần nhiều tiền hơn để mua cùng một lượng hàng hoá và dịch vụ. Giữ cho cung và cầu tiền cân bằng có thể rất khó.
+
+**Ai quyết định in bao nhiêu tiền.** Tiền pháp định hiệu quả hơn kim loại quý, vì lượng cung có thể điều chỉnh mà không phụ thuộc vào lượng vàng bạc có sẵn. Nhưng chính điều đó tạo ra một khó khăn mới. Khi tiền còn gắn với kim loại, lượng kim loại hữu hạn tự đặt giới hạn cho lượng giấy bạc phát hành. Không còn vàng bạc bảo đảm, chính phủ dựa vào đâu để biết nên in bao nhiêu? Đây là một tình thế lưỡng nan:
+
+- Một mặt, chính quyền luôn bị cám dỗ phát hành thêm tiền, vì có tiền thì mua được nhiều hơn, thuê được nhiều người hơn, trả lương cao hơn và được lòng dân hơn.
+- Mặt khác, in quá nhiều tiền đẩy giá lên.
+
+Vấn đề trở nên nghiêm trọng qua **kỳ vọng**. Nếu người dân tin giá sẽ còn tăng, họ tăng giá hàng của mình nhanh hơn nữa; giá tăng nhanh hơn lại củng cố kỳ vọng. Nếu không kìm được kỳ vọng, niềm tin vào đồng tiền bị xói mòn và tiền có thể trở nên vô giá trị: đó là **siêu lạm phát**. Chuỗi diễn biến là: in quá nhiều, giá tăng, kỳ vọng giá tăng, giá tăng nhanh hơn, niềm tin xói mòn, siêu lạm phát.
+
+Để loại bỏ cám dỗ in tiền bừa bãi, hầu hết các nước ngày nay giao việc quyết định lượng tiền cho một **ngân hàng trung ương độc lập**. Ngân hàng trung ương quyết định dựa trên đánh giá nhu cầu của nền kinh tế, và không chuyển tiền cho chính phủ để chi tiêu. Bài cũng lưu ý cụm từ "in tiền" thực ra là cách nói sai: ngày nay hầu hết tiền là **tiền gửi ngân hàng**, không phải tiền giấy.
 
 ### 4. Niềm tin có thể phai
 
-- Các nước từng qua lạm phát cao biết giá trị tiền phụ thuộc niềm tin. Thập niên 1980, người dân một số nước Mỹ Latinh như Argentina, Brazil dần mất niềm tin vào nội tệ vì lạm phát xói mòn giá trị quá nhanh. Họ chuyển sang đồng ổn định hơn, USD, làm tiền trên thực tế. Hiện tượng này gọi là đô la hoá không chính thức. Chính phủ mất độc quyền phát hành tiền, và đô la hoá rất khó đảo ngược.
-- Một số chính sách khôi phục niềm tin cho thấy rõ phần "niềm tin" của tiền. Thổ Nhĩ Kỳ năm 2005 đổi cơ số đồng lira, bỏ sáu số không: 1.000.000 lira thành 1 lira qua đêm. Brazil năm 1994 ra đồng tiền mới, real. Ở cả hai nước, người dân đi theo, cho thấy chừng nào mọi người chấp nhận mệnh giá khác hay đồng tiền mới là chuẩn, nó sẽ là chuẩn. Giống tiền pháp định: nếu được chấp nhận là tiền, nó là tiền.
-- **Đo lường:** trong thống kê chính thức, lượng tiền thường đo qua tiền rộng, gồm mọi thứ lưu giữ giá trị và có tính lỏng (bán được gần giá thị trường trong thời gian ngắn, dễ đổi sang dạng tiền khác như tiền mặt). Tiền mặt và tiền gửi chuyển khoản (tiền hẹp) mọi nước đều tính; theo IMF (2000), còn có thể tính: tiền quốc gia; tiền gửi chuyển khoản (tiền gửi không kỳ hạn, séc ngân hàng, séc du lịch, tiền gửi ngoại tệ dùng thanh toán); tiền gửi khác (tiết kiệm không chuyển nhượng, có kỳ hạn, repo); chứng khoán ngoài cổ phiếu (chứng chỉ tiền gửi giao dịch được, thương phiếu).
+**Khi niềm tin mất đi.** Những nước từng trải qua lạm phát cao hiểu rằng giá trị của tiền phụ thuộc vào niềm tin. Vào thập niên 1980, người dân ở một số nước Mỹ Latinh như Argentina và Brazil dần mất niềm tin vào đồng nội tệ, vì lạm phát làm giá trị của nó mất đi quá nhanh. Họ chuyển sang dùng một đồng tiền ổn định hơn là đô la Mỹ làm tiền trên thực tế. Hiện tượng này gọi là **đô la hoá không chính thức**. Hệ quả là chính phủ mất độc quyền phát hành tiền, và một khi đã đô la hoá thì rất khó đảo ngược.
+
+**Khi niềm tin được khôi phục.** Một số chính sách khôi phục niềm tin cho thấy rõ phần "niềm tin" trong bản chất của tiền:
+
+| Nước | Năm | Biện pháp |
+|---|---|---|
+| Thổ Nhĩ Kỳ | 2005 | Đổi cơ số đồng lira, bỏ 6 số không (6 chữ số 0): 1.000.000 lira cũ thành 1 lira mới chỉ sau một đêm |
+| Brazil | 1994 | Phát hành đồng tiền mới, đồng real |
+
+Ở cả hai nước, người dân chấp nhận thay đổi. Điều đó cho thấy chừng nào mọi người còn chấp nhận một mệnh giá khác hay một đồng tiền mới làm chuẩn, thì nó là chuẩn. Đây cũng chính là logic của tiền pháp định: nếu được chấp nhận là tiền, nó là tiền.
+
+**Đo lượng tiền.** Trong thống kê chính thức, lượng tiền thường được đo bằng **tiền rộng**, gồm mọi thứ vừa lưu giữ được giá trị vừa có tính lỏng. Tính lỏng nghĩa là bán được ở mức gần giá thị trường trong thời gian ngắn, dễ đổi sang các dạng tiền khác như tiền mặt. Mọi nước đều tính tiền mặt và tiền gửi chuyển khoản, hai thứ này gộp lại gọi là **tiền hẹp**. Theo hướng dẫn của IMF năm 2000, tiền rộng còn có thể gồm các thành phần sau:
+
+| Thành phần | Ví dụ |
+|---|---|
+| Tiền quốc gia | Tiền mặt do nhà nước phát hành |
+| Tiền gửi chuyển khoản | Tiền gửi không kỳ hạn, séc ngân hàng, séc du lịch, tiền gửi ngoại tệ dùng để thanh toán |
+| Tiền gửi khác | Tiền gửi tiết kiệm không chuyển nhượng được, tiền gửi có kỳ hạn, repo |
+| Chứng khoán ngoài cổ phiếu | Chứng chỉ tiền gửi giao dịch được, thương phiếu |
 
 ## Thuật ngữ
 

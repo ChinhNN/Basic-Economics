@@ -80,35 +80,83 @@
 2. Vì sao LIBOR bị gọi là "hư cấu tiện lợi" và bị thao túng ra sao?
 3. Anh đề xuất cải cách gì?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Thị trường liên ngân hàng (interbank market).** Nơi các ngân hàng cho nhau vay tiền ngắn hạn, thường không có tài sản bảo đảm, để bù chỗ thừa thiếu vốn hằng ngày. Ví dụ minh hoạ: cuối ngày ngân hàng A thừa 100 triệu USD, ngân hàng B thiếu, A cho B vay qua đêm. LIBOR là con số tóm tắt mức lãi trên thị trường này ở London.
+
+**Lãi suất chuẩn (benchmark rate).** Một lãi suất được công bố công khai, dùng làm mốc để tính lãi của các hợp đồng khác. Ví dụ minh hoạ: một khoản vay doanh nghiệp có lãi "LIBOR 3 tháng cộng 2%"; nếu LIBOR là 1% thì người vay trả 3%, nếu LIBOR lên 2% thì trả 4%. Khái niệm này giải thích vì sao bài nói LIBOR quan trọng không phải vì ngân hàng giao dịch ở mức đó mà vì hàng trăm nghìn tỷ USD hợp đồng khác tính lãi theo nó.
+
+**Kỳ hạn (tenor).** Thời gian của khoản vay mà một lãi suất áp dụng: qua đêm, một tuần, một tháng, ba tháng… cho tới một năm. LIBOR được công bố cho 15 kỳ hạn mỗi đồng tiền. Khái niệm này quan trọng vì vấn đề "hư cấu tiện lợi" nằm đúng ở chỗ các kỳ hạn dài gần như không có giao dịch thật.
+
+**Lãi suất thả nổi (floating rate).** Lãi suất của một khoản vay được điều chỉnh định kỳ theo một lãi suất chuẩn, thay vì cố định suốt thời hạn. Ví dụ minh hoạ: khoản vay mua nhà điều chỉnh lãi ba tháng một lần theo LIBOR cộng một biên cố định. Hàng chục tỷ USD thế chấp nhà và vay tiêu dùng trên thế giới gắn với LIBOR theo cách này.
+
+**Hợp đồng tương lai, hợp đồng lãi suất kỳ hạn và hoán đổi lãi suất.** Các công cụ phái sinh cho phép hai bên chốt trước hoặc trao đổi dòng tiền lãi để phòng hộ rủi ro lãi suất. Ví dụ minh hoạ về hoán đổi lãi suất: doanh nghiệp đang vay thả nổi theo LIBOR đồng ý trả cho ngân hàng lãi cố định 3% và nhận lại lãi thả nổi theo LIBOR, nhờ vậy chi phí lãi của họ thành cố định. Mọi hợp đồng loại này đều cần một lãi suất chuẩn đáng tin để tính tiền thanh toán, và đó là lý do LIBOR ra đời.
+
+**Báo thấp (lowballing).** Ngân hàng cố ý báo mức lãi mình có thể vay thấp hơn mức thực tin là phải trả, để không lộ ra rằng mình đang khó vay. Ví dụ minh hoạ: một ngân hàng thực ra chỉ vay được ở 3,5% nhưng báo 3,0% để trông giống các ngân hàng khoẻ. Đây là cơ chế làm LIBOR thấp bất thường sau khi Lehman Brothers sụp đổ.
+
+**Điểm cơ bản (basis point).** Một phần trăm của một phần trăm, tức 0,01%. Ví dụ: lãi suất tăng từ 2,00% lên 2,25% là tăng 25 điểm cơ bản. Với 300 nghìn tỷ USD hợp đồng gắn với LIBOR, sai lệch chỉ vài điểm cơ bản cũng tương ứng với số tiền rất lớn.
+
+## Nội dung chi tiết
 
 ### 1. Quy trình và tầm quan trọng
 
-- Mỗi ngày làm việc khoảng 11 giờ sáng, 18 ngân hàng lớn, dưới sự bảo trợ của Hiệp hội Ngân hàng Anh, báo cáo lãi suất họ tin có thể vay "lượng hợp lý" đô la từ nhau trên thị trường liên ngân hàng London. Báo cho 15 kỳ hạn từ qua đêm đến một năm. Thomson Reuters gom, bỏ bốn cao nhất và bốn thấp nhất, lấy trung bình phần còn lại, rồi công bố lãi suất trung bình cho từng kỳ hạn.
-- Quy trình làm cho chín đồng tiền khác nữa. Trung bình này, thường gọi số ít dù có 150 lãi suất, là lãi suất liên ngân hàng London (LIBOR), một trong những lãi suất nổi tiếng và quan trọng nhất thế giới.
-- Không quan trọng vì ngân hàng thực sự giao dịch ở mức công bố, dù có thể. Quan trọng vì được dùng rộng rãi làm chuẩn cho nhiều lãi suất khác mà giao dịch thực sự diễn ra. Theo báo cáo Bộ Tài chính Anh, 300 nghìn tỷ USD hợp đồng tài chính gắn với LIBOR, chưa kể hàng chục tỷ USD thế chấp nhà lãi suất thả nổi và vay tiêu dùng khắp thế giới tham chiếu LIBOR. Vì USD là đồng tiền quan trọng nhất, LIBOR USD dùng và trích dẫn nhiều nhất. Các panel khác từ 6 đến 16 ngân hàng báo hàng ngày chi phí vay đô la Úc, bảng Anh, đô la Canada, krone Đan Mạch, euro, yên, đô la New Zealand, krona Thụy Điển, franc Thụy Sĩ.
-- Nhiều thứ sắp thay đổi vì tranh cãi về cách một số ngân hàng báo lãi suất họ "tin" và vì vấn đề nền tảng của khái niệm LIBOR. Cuối tháng 9, chính phủ Anh công bố đề xuất đưa việc thiết lập và duy trì chuẩn này vào tầm quản lý nhà nước, dựa trên giao dịch thật, và bỏ hầu hết trong 150 lãi suất riêng lẻ.
+**LIBOR được tạo ra thế nào.** Mỗi ngày làm việc, khoảng 11 giờ sáng (11h), 18 ngân hàng lớn, dưới sự bảo trợ của Hiệp hội Ngân hàng Anh (BBA), báo cáo mức lãi suất mà họ **tin** rằng họ có thể vay một "lượng hợp lý" đô la Mỹ từ các ngân hàng khác trên thị trường liên ngân hàng London. Mỗi ngân hàng báo cho 15 kỳ hạn, từ qua đêm đến một năm. Sau đó:
+
+1. Thomson Reuters gom tất cả các báo cáo.
+2. Với mỗi kỳ hạn, bỏ 4 mức cao nhất và 4 mức thấp nhất.
+3. Lấy trung bình các mức còn lại (với panel 18 ngân hàng là 10 mức).
+4. Công bố lãi suất trung bình cho từng kỳ hạn.
+
+Việc bỏ hai đầu nhằm hạn chế ảnh hưởng của một ngân hàng báo quá lệch. Quy trình tương tự được thực hiện cho chín đồng tiền khác nữa, tổng cộng 10 đồng tiền, mỗi đồng có một panel từ 6 đến 16 ngân hàng báo hằng ngày chi phí vay của mình: đô la Úc, bảng Anh, đô la Canada, krone Đan Mạch, euro, yên Nhật, đô la New Zealand, krona Thụy Điển và franc Thụy Sĩ, bên cạnh đô la Mỹ. Với 10 đồng tiền và 15 kỳ hạn, có tất cả 150 lãi suất. Người ta thường gọi chung bằng số ít là "lãi suất liên ngân hàng London" (LIBOR), một trong những lãi suất nổi tiếng và quan trọng nhất thế giới.
+
+**Vì sao LIBOR quan trọng.** Tầm quan trọng của LIBOR không đến từ việc các ngân hàng thực sự vay nhau ở mức công bố, dù họ có thể làm vậy. Nó đến từ việc LIBOR được dùng rộng rãi làm **chuẩn** cho rất nhiều lãi suất khác mà ở đó giao dịch thật sự diễn ra. Theo báo cáo của Bộ Tài chính Anh, khoảng 300 nghìn tỷ USD hợp đồng tài chính gắn với LIBOR, chưa kể hàng chục tỷ USD khoản vay thế chấp nhà có lãi suất thả nổi và các khoản vay tiêu dùng khắp thế giới cũng tham chiếu LIBOR. Vì đô la Mỹ là đồng tiền quan trọng nhất, LIBOR USD là loại được dùng và trích dẫn nhiều nhất.
+
+**Thay đổi sắp đến.** Nhiều thứ sắp thay đổi vì hai lý do: tranh cãi về cách một số ngân hàng báo mức lãi họ "tin", và vấn đề nằm ngay trong khái niệm LIBOR. Cuối tháng 9/2012, chính phủ Anh công bố đề xuất ba hướng: đưa việc thiết lập và duy trì chuẩn này vào tầm quản lý của nhà nước, dựa nó trên giao dịch thật, và bỏ phần lớn trong số 150 lãi suất riêng lẻ.
 
 ### 2. Một phát minh gần đây
 
-- Dù ngân hàng London cho nhau vay hàng thế kỷ, LIBOR là ý tưởng khá mới. Gốc từ tăng trưởng đột ngột đầu thập niên 1980 của hợp đồng tương lai phòng hộ rủi ro lãi suất. Cần lãi suất chuẩn tốt để thanh toán hợp đồng. Thị trường tìm đến hiệp hội ngành ngân hàng và Ngân hàng Anh. Hiệp hội Ngân hàng Anh ra LIBOR năm 1986, ban đầu chỉ ba đồng: USD, yên, bảng.
-- LIBOR được lập làm chuẩn định giá vay doanh nghiệp lãi suất thả nổi. Nhưng ra đời trùng với tăng trưởng công cụ tài chính dựa lãi suất mới như hợp đồng lãi suất kỳ hạn và hoán đổi lãi suất, cũng cần chuẩn lãi suất chuẩn hoá và minh bạch.
-- LIBOR được cho là phản ánh thực tế: trung bình những gì ngân hàng tin phải trả để vay lượng hợp lý tiền trong kỳ ngắn xác định, tức chi phí vốn, dù ngân hàng có thể không thực sự cần vốn ngày đó. Nhưng LIBOR lâu nay bị nghi phương pháp có lỗi, dễ méo trong thời kỳ căng thẳng khi ngân hàng ngừng cho nhau vay ở toàn dải kỳ hạn.
-- Thách thức trực tiếp hơn đến từ nỗ lực thao túng LIBOR (và chuẩn khác) của ngân hàng Anh lớn Barclays, tháng 6/2012 đồng ý nộp phạt tổng khoảng 450 triệu USD cho cơ quan quản lý Anh và Mỹ. Ngân hàng khác cũng đang bị điều tra vì báo sai, nhà phân tích ước tính phạt và kiện có thể gần 50 tỷ USD.
+**Nguồn gốc.** Các ngân hàng ở London đã cho nhau vay hàng thế kỷ, nhưng LIBOR là một ý tưởng khá mới. Nó bắt nguồn từ sự tăng trưởng đột ngột, đầu thập niên 1980, của các hợp đồng tương lai dùng để phòng hộ rủi ro lãi suất. Các hợp đồng này cần một lãi suất chuẩn tốt để làm căn cứ thanh toán khi đáo hạn. Thị trường tìm đến hiệp hội ngành ngân hàng và Ngân hàng Trung ương Anh, và Hiệp hội Ngân hàng Anh cho ra đời LIBOR năm 1986, ban đầu chỉ cho 3 đồng tiền: đô la Mỹ, yên Nhật và bảng Anh.
+
+**Mục đích và sự lan rộng.** LIBOR được lập ra làm chuẩn để định giá các khoản vay doanh nghiệp có lãi suất thả nổi. Nhưng thời điểm nó ra đời lại trùng với sự phát triển của các công cụ tài chính mới dựa trên lãi suất, như hợp đồng lãi suất kỳ hạn (FRA) và hoán đổi lãi suất. Những công cụ này cũng cần một lãi suất chuẩn được chuẩn hoá và minh bạch, nên LIBOR nhanh chóng trở thành chuẩn chung.
+
+**LIBOR đo cái gì, và điểm yếu.** Về nguyên tắc, LIBOR phản ánh thực tế: nó là trung bình của mức mà các ngân hàng tin họ phải trả để vay một lượng tiền hợp lý trong một kỳ hạn ngắn xác định, tức là chi phí vốn của họ, kể cả vào những ngày họ không thực sự cần vay. Tuy vậy, từ lâu LIBOR đã bị nghi là có phương pháp lỗi: nó dễ bị méo trong thời kỳ căng thẳng, khi các ngân hàng ngừng cho nhau vay ở toàn bộ dải kỳ hạn, nên mức báo không còn dựa trên giao dịch nào.
+
+**Bê bối Barclays.** Thách thức trực tiếp hơn đến từ việc Barclays, một ngân hàng lớn của Anh, đã tìm cách thao túng LIBOR và một số chuẩn khác. Tháng 6/2012, Barclays đồng ý nộp phạt tổng cộng khoảng 450 triệu USD cho các cơ quan quản lý của Anh và Mỹ. Nhiều ngân hàng khác cũng đang bị điều tra vì báo sai, và giới phân tích ước tính tổng tiền phạt và bồi thường kiện tụng có thể lên gần 50 tỷ USD.
 
 ### 3. Hư cấu tiện lợi
 
-- Ngay trước tranh cãi thao túng, LIBOR thường bị gọi là "hư cấu tiện lợi" vì lệch pha giữa LIBOR làm chuẩn và vay thực tế trên thị trường liên ngân hàng London. Hầu hết ngân hàng cho nhau vay một tuần hoặc ngắn hơn, nên LIBOR kỳ hạn dài hơn phần lớn dựa ước đoán có căn cứ. Thế nhưng gần 95% giao dịch tham chiếu LIBOR, từ phái sinh lãi suất đến thế chấp nhà, gắn với kỳ hạn ba tháng trở lên. Kỳ hạn ba tháng USD phổ biến nhất theo Bộ Tài chính Anh. Dấu hiệu nữa rằng cho vay không bảo đảm kỳ hạn dài đã thành hư cấu là quyết định của ICAP, môi giới lớn London, ngừng công bố chỉ số NYFR một và ba tháng, lựa chọn thay thế LIBOR, vì thiếu dữ liệu từ ngân hàng ở New York.
-- Dù vậy, LIBOR nhìn chung khá chính xác, phần lớn thời gian bám sát các chuẩn tương tự gắn với chi phí vốn không bảo đảm thật của ngân hàng như thương phiếu. Ngoại lệ rõ ràng là giai đoạn ngay sau Lehman Brothers sụp đổ tháng 9/2008, châm ngòi khủng hoảng toàn cầu. LIBOR ba tháng USD lệch khỏi hai lãi suất ngắn hạn tương tự công khai: NYFR của ICAP và lãi suất tiền gửi Eurodollar ba tháng (tiền gửi USD tại ngân hàng ngoài Mỹ). LIBOR thấp hơn Eurodollar đầu 2008 nhưng thấp hơn hẳn ngay sau Lehman. LIBOR bám NYFR rất sát, trừ ngay sau Lehman khi cũng thấp hơn rõ rệt.
-- Một phần LIBOR thấp sau Lehman do hệ quả ngoài ý muốn của quy tắc Hiệp hội Ngân hàng Anh nhằm buộc ngân hàng báo trung thực: công bố ngay báo cáo từng ngân hàng. Bình thường khuyến khích trung thực, nhưng 2007–08 cơ chế bảo vệ này có thể phản tác dụng. Ngân hàng được cho là không muốn ngụ ý mình khó vay bằng cách báo lãi cao hơn ngân hàng khác. Để che vấn đề thanh khoản, ngân hàng gặp khó có động cơ báo thấp hơn mức thực sự tin. Nhiều nghiên cứu gợi ý ngân hàng báo thấp sau Bear Stearns sụp tháng 3/2008 và sau Lehman sáu tháng sau. Nghiên cứu khác tìm thấy tình huống gợi ý ngân hàng báo không chính xác, nhưng nghiên cứu tìm dấu hiệu thông đồng cụ thể nhìn chung không kết luận được.
+**Vì sao gọi là "hư cấu tiện lợi".** Ngay cả trước tranh cãi về thao túng, LIBOR đã thường bị gọi là "hư cấu tiện lợi" vì có sự lệch pha giữa LIBOR dùng làm chuẩn và việc vay mượn thực tế trên thị trường liên ngân hàng London. Phần lớn các ngân hàng chỉ cho nhau vay kỳ hạn 1 tuần hoặc ngắn hơn, nên LIBOR ở các kỳ hạn dài hơn chủ yếu dựa trên ước đoán có căn cứ chứ không phải giao dịch. Nghịch lý là gần 95% giao dịch tham chiếu LIBOR, từ phái sinh lãi suất đến thế chấp nhà, lại gắn với kỳ hạn từ 3 tháng trở lên. Theo Bộ Tài chính Anh, LIBOR USD kỳ hạn 3 tháng là loại phổ biến nhất. Tức là phần được dùng nhiều nhất của LIBOR cũng là phần ít dựa trên giao dịch thật nhất.
+
+Một dấu hiệu nữa cho thấy cho vay không bảo đảm kỳ hạn dài giữa các ngân hàng gần như đã thành hư cấu: ICAP, một công ty môi giới lớn ở London, quyết định ngừng công bố chỉ số vốn New York (NYFR) kỳ hạn một tháng và ba tháng, vốn là một lựa chọn thay thế LIBOR, vì không có đủ dữ liệu từ các ngân hàng ở New York.
+
+**LIBOR nhìn chung chính xác, trừ một giai đoạn.** Dù vậy, phần lớn thời gian LIBOR khá chính xác: nó bám sát các chuẩn tương tự gắn với chi phí vốn không bảo đảm thật của ngân hàng, như lãi suất thương phiếu. Ngoại lệ rõ ràng là giai đoạn ngay sau khi Lehman Brothers sụp đổ tháng 9/2008, sự kiện châm ngòi cho khủng hoảng toàn cầu. Khi đó LIBOR USD 3 tháng tách khỏi hai lãi suất ngắn hạn tương tự được công bố công khai:
+
+| So với | Diễn biến |
+|---|---|
+| Lãi suất tiền gửi Eurodollar 3 tháng (tiền gửi bằng USD tại ngân hàng ngoài nước Mỹ) | LIBOR đã thấp hơn từ đầu năm 2008, và thấp hơn hẳn ngay sau Lehman |
+| NYFR của ICAP | LIBOR bám rất sát, trừ ngay sau Lehman khi cũng thấp hơn rõ rệt |
+
+**Vì sao LIBOR thấp bất thường.** Một phần nguyên nhân là hệ quả ngoài ý muốn của chính quy tắc mà Hiệp hội Ngân hàng Anh đặt ra để buộc ngân hàng báo trung thực: báo cáo của từng ngân hàng được công bố ngay lập tức. Bình thường, việc công khai này khuyến khích trung thực vì ai báo lệch sẽ bị nhìn thấy. Nhưng trong giai đoạn 2007–08, cơ chế bảo vệ đó có thể đã phản tác dụng. Một ngân hàng báo mức lãi cao hơn các ngân hàng khác sẽ ngầm thừa nhận rằng mình đang khó vay. Vì vậy, để che giấu vấn đề thanh khoản, những ngân hàng đang gặp khó có động cơ báo thấp hơn mức họ thực sự tin.
+
+Nhiều nghiên cứu gợi ý các ngân hàng đã báo thấp sau khi Bear Stearns sụp đổ tháng 3/2008 và một lần nữa sau khi Lehman sụp đổ sáu tháng sau đó. Các nghiên cứu khác tìm thấy những tình huống gợi ý ngân hàng báo không chính xác. Tuy nhiên, các nghiên cứu đi tìm dấu hiệu cụ thể của sự **thông đồng** giữa các ngân hàng nhìn chung không đưa ra được kết luận.
 
 ### 4. Cải cách Wheatley
 
-- Sau bê bối có lời kêu gọi bỏ LIBOR. Nhưng vì quá quan trọng và phổ biến làm chuẩn, chính phủ Anh quyết không thể vứt bỏ mà phải cứu.
-- Thứ nhất, chính phủ đề xuất tiếp quản giám sát LIBOR từ hiệp hội ngân hàng, mà Martin Wheatley, giám đốc điều hành Cơ quan Dịch vụ Tài chính Anh, nói "rõ ràng thất bại trong giám sát đúng đắn quy trình thiết lập LIBOR". Wheatley nêu các thay đổi đề xuất trong báo cáo cuối tháng 9.
-- Theo cải cách, LIBOR vẫn lập hàng ngày dựa trên báo cáo của panel ngân hàng cho cơ quan quản lý Anh. Nhưng ngân hàng phải cung cấp dữ liệu chứng minh lãi suất báo phản ánh chính xác chi phí vay. Chính phủ vẫn công bố lãi suất báo, nhưng trễ ba tháng để ngân hàng không có động cơ nói dối trong thời kỳ căng thẳng. Hơn nữa, chính phủ đề xuất chế tài hình sự với ngân hàng báo sai.
-- Để tập trung vào lãi suất quan trọng và có chi phí vốn kiểm chứng được, các đồng Úc, Canada, Đan Mạch, New Zealand, Thụy Điển sẽ bị loại dần và bốn kỳ hạn bị bỏ. Số LIBOR giảm từ 150 xuống 20 quan trọng nhất với thị trường.
-- Dù vậy, nhiều lãi suất vẫn không có giao dịch liên ngân hàng thật hỗ trợ. Nên báo cáo Wheatley khuyến khích thị trường nghĩ lại việc dùng LIBOR làm chuẩn và cân nhắc kế hoạch dự phòng nếu lãi suất này không còn được sản xuất.
+**Cứu chứ không bỏ.** Sau bê bối, đã có những lời kêu gọi bỏ hẳn LIBOR. Nhưng vì LIBOR quá quan trọng và quá phổ biến làm chuẩn, chính phủ Anh kết luận không thể vứt bỏ mà phải cứu nó.
+
+**Nội dung cải cách.** Martin Wheatley, giám đốc điều hành Cơ quan Dịch vụ Tài chính Anh, nêu các thay đổi đề xuất trong báo cáo cuối tháng 9/2012. Ông nói Hiệp hội Ngân hàng Anh đã "rõ ràng thất bại trong việc giám sát đúng đắn quy trình thiết lập LIBOR". Các đề xuất gồm:
+
+| Đề xuất | Mục đích |
+|---|---|
+| Chính phủ tiếp quản việc giám sát LIBOR từ Hiệp hội Ngân hàng Anh | Thay một cơ chế tự quản đã thất bại |
+| LIBOR vẫn được lập hằng ngày từ báo cáo của panel ngân hàng, nay gửi cho cơ quan quản lý Anh, và ngân hàng phải cung cấp dữ liệu chứng minh mức báo phản ánh chính xác chi phí vay thật | Gắn mức báo với giao dịch có thể kiểm chứng |
+| Vẫn công bố báo cáo của từng ngân hàng, nhưng trễ 3 tháng | Để ngân hàng không còn động cơ nói dối trong thời kỳ căng thẳng, vì khi số liệu được công bố thì căng thẳng đã qua |
+| Chế tài hình sự với ngân hàng báo sai | Tăng cái giá của thao túng |
+| Loại dần 5 đồng tiền (đô la Úc, đô la Canada, krone Đan Mạch, đô la New Zealand, krona Thụy Điển) và bỏ 4 kỳ hạn | Tập trung vào các lãi suất quan trọng và có chi phí vốn kiểm chứng được |
+
+Theo bài, nhờ các cắt giảm trên, số lãi suất LIBOR giảm từ 150 xuống còn 20 lãi suất quan trọng nhất với thị trường.
+
+**Vấn đề còn lại.** Ngay cả sau cải cách, nhiều lãi suất LIBOR vẫn không có giao dịch liên ngân hàng thật đứng sau. Vì vậy báo cáo Wheatley khuyến khích các thành viên thị trường suy nghĩ lại việc dùng LIBOR làm chuẩn, và chuẩn bị kế hoạch dự phòng cho trường hợp lãi suất này không còn được công bố nữa.
 
 ## Thuật ngữ
 

@@ -211,40 +211,147 @@
 2. Lợi ích thương mại ngày nay đến từ đâu?
 3. Vì sao cải cách thương mại khó về mặt chính trị?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Lợi thế tuyệt đối (absolute advantage).** Một nước có lợi thế tuyệt đối ở một mặt hàng khi nó làm ra mặt hàng đó với ít đầu vào hơn (ít giờ lao động, ít vốn hơn) so với nước khác. Ví dụ trong bài: một giờ lao động ở Nước A làm được 3 kg thép, ở Nước B chỉ được 1 kg, nên Nước A có lợi thế tuyệt đối về thép. Khái niệm này quan trọng vì bài muốn chỉ ra rằng nó **không** phải là thứ quyết định ai nên làm gì.
+
+**Chi phí cơ hội (opportunity cost).** Cái phải bỏ đi để làm ra một thứ khác. Nếu một giờ lao động hoặc làm 3 kg thép hoặc làm 2 áo, thì làm 1 áo "tốn" 1,5 kg thép không được sản xuất. Ví dụ trong bài: ở Nước A, 1 áo tốn 1,5 kg thép; ở Nước B, 1 áo chỉ tốn 1 kg thép. Đây là cách đo "chi phí so sánh" mà Ricardo nói tới.
+
+**Lợi thế so sánh (comparative advantage).** Một nước có lợi thế so sánh ở mặt hàng mà chi phí cơ hội của nó thấp hơn nước kia. Trong ví dụ trên, Nước B có lợi thế so sánh về áo (1 áo chỉ tốn 1 kg thép, so với 1,5 kg ở Nước A), dù Nước B kém hơn Nước A ở cả hai mặt hàng. Đây là khái niệm trung tâm của bài: nó giải thích vì sao ngay cả nước kém hiệu quả ở mọi thứ vẫn có thứ để bán.
+
+**Lợi ích từ thương mại (gains from trade).** Phần sản lượng thêm mà cả thế giới có được nhờ mỗi nước chuyển sang làm thứ mình có lợi thế so sánh rồi trao đổi với nhau. Ví dụ trong bài: sau khi trao đổi, tổng số áo không đổi nhưng thế giới có thêm 1 kg thép. Khoản thêm này là lý do kinh tế cho tự do thương mại.
+
+**Trữ lượng yếu tố (factor endowments).** Lượng lao động và vốn (nhà máy, máy móc) mà một nước có, so với các nước khác. Ví dụ minh hoạ: một nước đông dân, ít máy móc là nước "dồi dào lao động"; một nước ít dân, nhiều nhà máy là nước "dồi dào vốn". Mệnh đề Heckscher–Ohlin dùng khái niệm này để giải thích lợi thế so sánh từ đâu mà có.
+
+**Thương mại nội ngành (intra-industry trade).** Việc một nước vừa xuất khẩu vừa nhập khẩu những mặt hàng thuộc cùng một ngành. Ví dụ trong bài: một nước xuất khẩu tủ lạnh gia đình nhưng nhập khẩu máy làm lạnh công nghiệp. Khái niệm này quan trọng vì lý thuyết trữ lượng yếu tố không giải thích được nó; nó đến từ việc người mua muốn có nhiều lựa chọn.
+
+**Thuế nhập khẩu, hạn ngạch và rào cản phi thuế (tariffs, quotas, nontariff barriers).** Thuế nhập khẩu là khoản thuế đánh vào hàng nhập, làm nó đắt lên. Hạn ngạch là giới hạn số lượng được nhập. Rào cản phi thuế là mọi quy định khác làm khó hàng nhập, như thủ tục hay tiêu chuẩn. Ví dụ trong bài: Mỹ thu khoảng 15 xu thuế cho mỗi 1 đô la hàng nhập từ Bangladesh. Đây là những công cụ mà nhóm bị thiệt vì thương mại thường vận động đòi áp dụng.
+
+**Lợi ích phân tán, chi phí tập trung.** Một chính sách có lợi ích chia nhỏ cho rất nhiều người, mỗi người được một ít, nhưng chi phí dồn vào một nhóm nhỏ, mỗi người mất nhiều. Ví dụ minh hoạ: giảm thuế nhập khẩu giày giúp hàng triệu người mua giày rẻ hơn vài nghìn đồng mỗi đôi, nhưng làm vài nghìn công nhân nhà máy giày trong nước mất việc. Nhóm nhỏ có động cơ tổ chức để phản đối, nhóm lớn thì không. Đây là lời giải thích của bài cho câu hỏi vì sao cải cách thương mại khó về chính trị.
+
+## Nội dung chi tiết
 
 ### 1. Thương mại làm thế giới khá hơn
 
-- Nếu có một điểm mà hầu hết các nhà kinh tế đồng ý, đó là thương mại giữa các quốc gia làm thế giới khá hơn. Thế nhưng thương mại quốc tế có thể là một trong những vấn đề chính trị gây tranh cãi nhất, cả trong nước lẫn giữa các chính phủ.
-- Khi một hãng hay cá nhân mua một hàng hoá hay dịch vụ được sản xuất rẻ hơn ở nước ngoài, mức sống ở cả hai nước đều tăng. Có những lý do chính đáng khác để người tiêu dùng và doanh nghiệp mua ở nước ngoài: sản phẩm có thể phù hợp với nhu cầu của họ hơn các mặt hàng nội địa tương tự hoặc có thể không có sẵn trong nước. Các nhà sản xuất nước ngoài cũng hưởng lợi bằng cách bán được nhiều hơn so với chỉ bán trong nước và bằng cách kiếm ngoại tệ có thể dùng để mua các sản phẩm sản xuất ở nước ngoài.
-- Dù vậy, ngay cả khi các xã hội nói chung được lợi khi các nước giao thương, không phải mọi cá nhân hay công ty đều khá hơn. Khi một hãng mua một sản phẩm nước ngoài vì nó rẻ hơn, hãng đó hưởng lợi, nhưng nhà sản xuất trong nước (đắt hơn) mất một đơn hàng. Tuy nhiên, người mua thường được nhiều hơn mức người bán trong nước mất. Nhìn chung, thế giới khá hơn khi các nước nhập khẩu các sản phẩm được sản xuất hiệu quả hơn và rẻ hơn ở nước ngoài. Ngoại lệ là nếu các chi phí sản xuất nước ngoài không bao gồm các chi phí xã hội, như ô nhiễm.
-- Nhưng những người cảm thấy mình bị cạnh tranh nước ngoài ảnh hưởng bất lợi từ lâu đã phản đối thương mại quốc tế. Ngay sau khi các nhà kinh tế như Adam Smith và David Ricardo xác lập cơ sở kinh tế cho tự do thương mại, sử gia Anh Thomas B. Macaulay đã quan sát các vấn đề thực tiễn mà các chính phủ đối mặt khi quyết định có nên đón nhận khái niệm này: "Tự do thương mại, một trong những phúc lành lớn nhất mà một chính phủ có thể ban cho một dân tộc, lại không được lòng dân ở hầu như mọi nước." Hai thế kỷ sau, các tranh luận thương mại vẫn còn vang vọng.
+Bài mở đầu bằng một nghịch lý. Nếu có một điểm mà hầu hết các nhà kinh tế đồng ý, đó là thương mại giữa các nước làm thế giới khá hơn. Vậy mà thương mại quốc tế lại là một trong những vấn đề chính trị gây tranh cãi nhất, cả trong từng nước lẫn giữa các chính phủ.
+
+**Ai được lợi khi mua hàng nước ngoài.** Khi một doanh nghiệp hay một người mua một hàng hoá hay dịch vụ được sản xuất rẻ hơn ở nước ngoài, mức sống ở **cả hai nước** đều tăng. Bài nêu thêm những lý do chính đáng khác để mua hàng nước ngoài:
+
+- Sản phẩm nước ngoài có thể hợp với nhu cầu của người mua hơn hàng nội địa tương tự.
+- Sản phẩm đó có thể không có sẵn trong nước.
+
+Phía bán cũng được lợi theo hai cách: nhà sản xuất nước ngoài bán được nhiều hơn so với khi chỉ bán trong nước, và họ kiếm được ngoại tệ để mua hàng do nước khác sản xuất.
+
+**Không phải ai cũng được lợi.** Dù xã hội nói chung được lợi, không phải mọi người hay mọi công ty đều khá hơn. Khi một hãng mua sản phẩm nước ngoài vì nó rẻ hơn, hãng đó được lợi, còn nhà sản xuất trong nước (bán đắt hơn) mất một đơn hàng. Tuy vậy, người mua thường được nhiều hơn mức người bán trong nước mất. Vì thế, nhìn chung, thế giới khá hơn khi các nước nhập khẩu những sản phẩm được làm hiệu quả hơn và rẻ hơn ở nước ngoài.
+
+Bài nêu một ngoại lệ: khi chi phí sản xuất ở nước ngoài **không tính đủ chi phí xã hội**, ví dụ ô nhiễm. Khi đó hàng nước ngoài rẻ chỉ vì một phần chi phí bị đẩy sang cho môi trường và người dân nơi sản xuất, chứ không phải vì làm hiệu quả hơn.
+
+**Sự phản đối có từ lâu.** Những người thấy mình bị cạnh tranh nước ngoài làm hại đã phản đối thương mại quốc tế từ rất lâu. Ngay sau khi Adam Smith và David Ricardo xây dựng cơ sở kinh tế cho tự do thương mại, sử gia Anh Thomas B. Macaulay đã nhận ra khó khăn thực tế mà các chính phủ gặp khi quyết định có theo ý tưởng này hay không. Ông viết: "Tự do thương mại, một trong những phúc lành lớn nhất mà một chính phủ có thể ban cho một dân tộc, lại không được lòng dân ở hầu như mọi nước." Bài nhận xét rằng hai thế kỷ sau, các tranh luận về thương mại vẫn còn y nguyên.
 
 ### 2. Vì sao các nước giao thương
 
-- Ricardo quan sát rằng thương mại được thúc đẩy bởi chi phí so sánh chứ không phải tuyệt đối (của việc sản xuất một hàng hoá). Một nước có thể năng suất hơn các nước khác ở mọi hàng hoá, theo nghĩa nó có thể sản xuất bất kỳ hàng hoá nào dùng ít đầu vào hơn (như vốn và lao động) so với mức các nước khác cần để sản xuất cùng hàng hoá đó. Hiểu biết sâu sắc của Ricardo là một nước như vậy vẫn sẽ hưởng lợi từ việc giao thương theo lợi thế so sánh của mình: xuất khẩu các sản phẩm mà lợi thế tuyệt đối của nó lớn nhất và nhập khẩu những sản phẩm mà lợi thế tuyệt đối của nó tương đối nhỏ hơn.
-- Dù một nước có thể năng suất gấp đôi các đối tác thương mại của mình trong việc làm quần áo, nếu nó năng suất gấp ba trong việc làm thép hay chế tạo máy bay thì nó sẽ hưởng lợi từ việc làm và xuất khẩu các sản phẩm này và nhập khẩu quần áo. Đối tác của nó sẽ được lợi từ việc xuất khẩu quần áo, nơi nó có lợi thế so sánh nhưng không phải tuyệt đối, để đổi lấy các sản phẩm kia. Khái niệm lợi thế so sánh cũng mở rộng ra ngoài hàng hoá vật chất đến thương mại dịch vụ, như viết mã máy tính hay cung cấp sản phẩm tài chính.
-- **Lợi thế so sánh (hộp bên).** Ngay cả một nước hiệu quả hơn (có lợi thế tuyệt đối) ở mọi thứ nó làm cũng sẽ hưởng lợi từ thương mại. Hãy xem một ví dụ. Nước A: một giờ lao động có thể sản xuất hoặc ba kilôgam thép hoặc hai chiếc áo. Nước B: một giờ lao động có thể sản xuất hoặc một kilôgam thép hoặc một chiếc áo. Nước A hiệu quả hơn ở cả hai sản phẩm. Nay giả sử Nước B đề nghị bán cho Nước A hai chiếc áo để đổi lấy 2,5 kilôgam thép. Để sản xuất hai chiếc áo thêm này, Nước B chuyển hai giờ làm việc khỏi việc sản xuất (hai kilôgam) thép. Nước A chuyển một giờ làm việc khỏi việc sản xuất (hai) chiếc áo. Nó dùng giờ làm việc đó để thay vào đó sản xuất ba kilôgam thép thêm. Tổng thể, cùng số áo được sản xuất: Nước A sản xuất ít hơn hai chiếc áo, nhưng Nước B sản xuất thêm hai chiếc áo. Tuy nhiên, nay nhiều thép hơn được sản xuất so với trước: Nước A sản xuất thêm ba kilôgam thép, trong khi Nước B giảm sản lượng thép của mình hai kilôgam. Một kilôgam thép thêm là thước đo của lợi ích từ thương mại.
-- Nhờ lợi thế so sánh, thương mại nâng mức sống của cả hai nước. Douglas Irwin (2009) gọi lợi thế so sánh là "tin vui" cho phát triển kinh tế. "Ngay cả khi một nước đang phát triển thiếu lợi thế tuyệt đối ở bất kỳ lĩnh vực nào, nó luôn có một lợi thế so sánh trong việc sản xuất một số hàng hoá" và sẽ giao thương có lãi với các nền kinh tế tiên tiến.
+**Phát hiện của Ricardo.** Ricardo quan sát rằng thương mại được quyết định bởi chi phí **so sánh** chứ không phải chi phí **tuyệt đối** để làm ra một hàng hoá. Một nước có thể năng suất hơn các nước khác ở **mọi** hàng hoá, tức là làm bất kỳ hàng hoá nào cũng tốn ít đầu vào (vốn, lao động) hơn các nước khác. Điều Ricardo nhận ra là: ngay cả một nước như vậy vẫn được lợi khi giao thương theo lợi thế so sánh của mình, nghĩa là:
+
+- **xuất khẩu** những sản phẩm mà nó hơn các nước khác **nhiều nhất**;
+- **nhập khẩu** những sản phẩm mà nó hơn các nước khác **ít hơn**.
+
+**Ví dụ quần áo và thép.** Giả sử một nước năng suất gấp đôi các đối tác trong việc may quần áo, nhưng năng suất gấp ba trong việc làm thép hay chế tạo máy bay. Nước đó nên làm và xuất khẩu thép, máy bay, và nhập khẩu quần áo, dù nó may quần áo giỏi hơn. Đối tác của nó được lợi khi xuất khẩu quần áo, mặt hàng mà đối tác có lợi thế so sánh nhưng không có lợi thế tuyệt đối, để đổi lấy thép và máy bay.
+
+Lợi thế so sánh không chỉ áp dụng cho hàng hoá vật chất mà còn cho **thương mại dịch vụ**, như viết mã máy tính hay cung cấp sản phẩm tài chính.
+
+**Ví dụ có số (hộp minh hoạ của bài).** Bài dùng một ví dụ để cho thấy ngay cả nước hiệu quả hơn ở mọi thứ cũng được lợi từ thương mại.
+
+| | Một giờ lao động làm được thép | hoặc làm được áo | Chi phí của 1 áo, tính bằng thép |
+|---|---|---|---|
+| Nước A | 3 kg | 2 áo | 1,5 kg |
+| Nước B | 1 kg | 1 áo | 1 kg |
+
+Nước A hiệu quả hơn ở cả hai sản phẩm. Nhưng tính bằng chi phí cơ hội, áo ở Nước B "rẻ" hơn (chỉ tốn 1 kg thép mỗi chiếc, so với 1,5 kg ở Nước A). Vậy Nước B có lợi thế so sánh về áo, Nước A có lợi thế so sánh về thép.
+
+Giả sử Nước B đề nghị bán cho Nước A 2 áo để đổi lấy 2,5 kg thép. Các bước diễn ra như sau:
+
+1. Để làm thêm 2 áo, Nước B chuyển 2 giờ lao động khỏi việc làm thép, nên làm ít đi 2 kg thép.
+2. Nước A không cần tự may 2 áo đó nữa, nên chuyển 1 giờ lao động khỏi việc may (1 giờ này vốn làm được 2 áo).
+3. Nước A dùng giờ lao động đó để làm thêm 3 kg thép.
+
+Kết quả trên toàn thế giới:
+
+| | Áo | Thép |
+|---|---|---|
+| Nước A | ít đi 2 áo | thêm 3 kg |
+| Nước B | thêm 2 áo | ít đi 2 kg |
+| Tổng | không đổi | **thêm 1 kg** |
+
+Số áo trên thế giới không đổi, nhưng thép thì nhiều hơn trước 1 kg. Khoản 1 kg thép thêm này chính là thước đo **lợi ích từ thương mại**. Với tỷ lệ trao đổi 2 áo lấy 2,5 kg thép, cả hai nước cùng được chia phần: Nước A nhận 2 áo mà chỉ phải đưa 2,5 kg thép, trong khi tự may 2 áo sẽ tốn 3 kg thép; Nước B nhận 2,5 kg thép trong khi chỉ bỏ ra 2 kg thép để may 2 áo đó.
+
+**"Tin vui" cho các nước nghèo.** Nhờ lợi thế so sánh, thương mại nâng mức sống của cả hai nước. Douglas Irwin (2009) gọi lợi thế so sánh là "tin vui" cho phát triển kinh tế: "Ngay cả khi một nước đang phát triển thiếu lợi thế tuyệt đối ở bất kỳ lĩnh vực nào, nó luôn có một lợi thế so sánh trong việc sản xuất một số hàng hoá", và vì vậy vẫn giao thương có lãi với các nền kinh tế tiên tiến.
 
 ### 3. Nguồn gốc lợi thế và lợi ích ngày nay
 
-- Các khác biệt về lợi thế so sánh có thể nảy sinh vì nhiều lý do. Đầu thế kỷ 20, các nhà kinh tế Thuỵ Điển Eli Heckscher và Bertil Ohlin đã xác định vai trò của lao động và vốn, còn gọi là trữ lượng yếu tố, như một yếu tố quyết định lợi thế. Mệnh đề Heckscher–Ohlin cho rằng các nước có xu hướng xuất khẩu các hàng hoá mà việc sản xuất chúng sử dụng thâm dụng các yếu tố sản xuất tương đối dồi dào. Các nước giàu vốn, như nhà máy và máy móc, xuất khẩu các sản phẩm thâm dụng vốn, trong khi các nước giàu lao động xuất khẩu các sản phẩm thâm dụng lao động. Các nhà kinh tế ngày nay cho rằng dù trữ lượng yếu tố có quan trọng, cũng có các ảnh hưởng quan trọng khác lên các mô hình thương mại (Baldwin, 2008).
-- Nghiên cứu gần đây cho thấy khi thương mại mở ra, theo sau là sự điều chỉnh không chỉ giữa các ngành mà cả trong nội bộ chúng. Cạnh tranh gia tăng từ các hãng nước ngoài gây áp lực lên lợi nhuận, buộc các hãng kém hiệu quả hơn phải co lại, nhường chỗ cho các hãng hiệu quả hơn. Việc mở rộng và gia nhập mới đưa vào công nghệ tốt hơn và các chủng loại sản phẩm mới. Có lẽ quan trọng nhất, thương mại cho phép lựa chọn rộng hơn giữa các loại hàng hoá khác nhau (chẳng hạn tủ lạnh). Điều này giải thích sự phổ biến của thương mại nội ngành (ví dụ, các nước xuất khẩu tủ lạnh gia đình có thể nhập khẩu máy làm lạnh công nghiệp), thứ mà cách tiếp cận trữ lượng yếu tố không bao hàm.
-- Có những lợi ích hiệu quả rõ ràng từ thương mại dẫn đến nhiều sản phẩm hơn, không chỉ nhiều hơn của cùng các sản phẩm, mà là đa dạng sản phẩm lớn hơn. Chẳng hạn, Mỹ nhập khẩu gấp bốn lần số chủng loại (ví dụ các loại xe khác nhau) so với thập niên 1970, trong khi số nước cung cấp mỗi hàng hoá đã tăng gấp đôi. Một lợi ích còn lớn hơn có thể là việc chi tiêu đầu tư hiệu quả hơn nhờ các hãng tiếp cận được chủng loại và chất lượng rộng hơn của đầu vào trung gian và vốn (hãy nghĩ đến thấu kính quang học thay vì xe hơi).
-- Các mô hình kinh tế dùng để đánh giá tác động của thương mại thường bỏ qua việc chuyển giao công nghệ và các lực thúc đẩy cạnh tranh như sự mở rộng chủng loại sản phẩm. Điều này là vì các ảnh hưởng này khó mô hình hoá, và các kết quả có tính đến chúng chịu bất định lớn hơn. Tuy nhiên, nơi điều này đã được làm, các nhà nghiên cứu đã kết luận rằng lợi ích của các cải cách thương mại, như giảm thuế nhập khẩu và các rào cản phi thuế khác với thương mại, lớn hơn nhiều so với mức các mô hình thông thường gợi ý.
+**Lợi thế so sánh đến từ đâu.** Khác biệt về lợi thế so sánh có nhiều nguồn gốc. Đầu thế kỷ 20, hai nhà kinh tế Thuỵ Điển Eli Heckscher và Bertil Ohlin chỉ ra vai trò của lao động và vốn, gọi chung là **trữ lượng yếu tố**. Theo **mệnh đề Heckscher–Ohlin**, các nước có xu hướng xuất khẩu những hàng hoá mà việc sản xuất dùng nhiều (thâm dụng) yếu tố mà nước đó tương đối dồi dào:
+
+| Loại nước | Yếu tố dồi dào | Xuất khẩu |
+|---|---|---|
+| Giàu vốn | Nhà máy, máy móc | Sản phẩm thâm dụng vốn |
+| Giàu lao động | Người lao động | Sản phẩm thâm dụng lao động |
+
+Tuy nhiên, các nhà kinh tế ngày nay cho rằng dù trữ lượng yếu tố có quan trọng, còn có những ảnh hưởng quan trọng khác lên dòng thương mại (Baldwin, 2008).
+
+**Điều chỉnh bên trong từng ngành.** Nghiên cứu gần đây cho thấy khi mở cửa thương mại, sự điều chỉnh không chỉ diễn ra **giữa** các ngành (ngành này co lại, ngành kia mở rộng) mà cả **bên trong** từng ngành:
+
+- Cạnh tranh từ các hãng nước ngoài gây sức ép lên lợi nhuận, buộc các hãng kém hiệu quả hơn phải thu hẹp, nhường chỗ cho các hãng hiệu quả hơn.
+- Các hãng mở rộng và các hãng mới gia nhập mang vào công nghệ tốt hơn và những chủng loại sản phẩm mới.
+- Có lẽ quan trọng nhất, thương mại cho người mua **nhiều lựa chọn hơn** giữa các biến thể của cùng một loại hàng (ví dụ tủ lạnh). Điều này giải thích vì sao **thương mại nội ngành** phổ biến: một nước xuất khẩu tủ lạnh gia đình có thể nhập khẩu máy làm lạnh công nghiệp. Cách giải thích bằng trữ lượng yếu tố không bao gồm được hiện tượng này.
+
+**Lợi ích từ đa dạng sản phẩm.** Thương mại đem lại lợi ích hiệu quả rõ ràng qua việc có **nhiều loại** sản phẩm hơn, không chỉ nhiều hơn của cùng loại. Bài nêu số liệu về Mỹ:
+
+- Số chủng loại hàng Mỹ nhập khẩu (ví dụ các mẫu xe khác nhau) đã tăng gấp bốn lần so với thập niên 1970.
+- Số nước cung cấp mỗi mặt hàng đã tăng gấp đôi.
+
+Một lợi ích có thể còn lớn hơn là **đầu tư hiệu quả hơn**: doanh nghiệp tiếp cận được nhiều loại và nhiều mức chất lượng hơn của đầu vào trung gian và máy móc. Bài gợi ý hãy nghĩ tới thấu kính quang học dùng trong sản xuất, chứ không chỉ tới xe hơi bán cho người tiêu dùng.
+
+**Các mô hình thường đánh giá thấp lợi ích.** Các mô hình kinh tế dùng để ước tính tác động của thương mại thường bỏ qua chuyển giao công nghệ và các lực thúc đẩy cạnh tranh như việc mở rộng chủng loại sản phẩm. Lý do là những ảnh hưởng này khó đưa vào mô hình, và kết quả có tính tới chúng kém chắc chắn hơn. Nhưng ở những nghiên cứu đã làm được việc này, các nhà nghiên cứu kết luận rằng lợi ích của cải cách thương mại, như giảm thuế nhập khẩu và các rào cản phi thuế khác, **lớn hơn nhiều** so với mức mà các mô hình thông thường cho thấy.
 
 ### 4. Vì sao cải cách thương mại khó
 
-- Thương mại góp phần vào hiệu quả toàn cầu. Khi một nước mở cửa với thương mại, vốn và lao động chuyển sang các ngành mà chúng được dùng hiệu quả hơn. Các xã hội thu được mức phúc lợi kinh tế cao hơn. Nhưng các tác động này chỉ là một phần của câu chuyện.
-- Thương mại cũng mang đến sự xáo trộn cho các hãng và ngành không thể trụ nổi. Các hãng như vậy thường vận động chống lại thương mại. Người lao động của họ cũng vậy. Họ thường tìm kiếm các rào cản như thuế nhập khẩu và hạn ngạch để nâng giá hay giới hạn sự sẵn có của hàng nhập. Các nhà chế biến có thể cố hạn chế xuất khẩu nguyên liệu thô để làm giảm một cách giả tạo giá đầu vào của chính họ. Ngược lại, các lợi ích của thương mại là diễn ra rộng, và những người hưởng lợi từ nó thường không nhận ra thương mại có lợi cho họ thế nào.
+**Mặt lợi.** Thương mại góp phần làm thế giới sản xuất hiệu quả hơn. Khi một nước mở cửa, vốn và lao động chuyển sang những ngành sử dụng chúng hiệu quả hơn, và xã hội đạt mức phúc lợi kinh tế cao hơn. Nhưng đây mới là một phần câu chuyện.
+
+**Mặt thiệt và ai vận động chống.** Thương mại cũng gây xáo trộn cho những hãng và những ngành không trụ được trước cạnh tranh. Bài nêu ba nhóm hành động:
+
+- Các hãng bị thiệt thường vận động chống lại thương mại, và người lao động của họ cũng vậy.
+- Họ thường đòi dựng rào cản như **thuế nhập khẩu** và **hạn ngạch**, để làm hàng nhập đắt lên hoặc hạn chế lượng hàng nhập.
+- Các nhà chế biến có thể tìm cách **hạn chế xuất khẩu nguyên liệu thô**, để giá nguyên liệu trong nước bị ép xuống thấp một cách giả tạo, làm đầu vào của chính họ rẻ đi.
+
+**Sự bất cân xứng.** Ngược lại, lợi ích của thương mại **phân tán rộng**, và những người được lợi thường không nhận ra thương mại có lợi cho họ thế nào. Đây là lý do cốt lõi khiến cải cách khó: nhóm bị thiệt nhỏ nhưng biết rõ mình mất gì và có động cơ tổ chức; nhóm được lợi lớn nhưng không cảm nhận được.
 
 ### 5. Chính sách thương mại
 
-- Các cải cách từ sau Thế chiến II đã giảm đáng kể các rào cản thương mại do chính phủ áp đặt. Nhưng các chính sách bảo vệ ngành trong nước khác nhau. Thuế nhập khẩu cao hơn nhiều ở một số ngành (như nông nghiệp và sản xuất may mặc) và ở một số nhóm nước (như các nước kém phát triển hơn). Nhiều nước có các rào cản đáng kể với thương mại dịch vụ ở các lĩnh vực như vận tải, truyền thông và khu vực tài chính; các nước khác có chính sách chào đón cạnh tranh nước ngoài.
-- Hơn nữa, các rào cản thương mại ảnh hưởng đến một số nước nhiều hơn các nước khác. Thường bị đánh mạnh nhất là các nước kém phát triển hơn, có hàng xuất khẩu chủ yếu là các sản phẩm kỹ năng thấp, thâm dụng lao động mà các nước công nghiệp hoá thường bảo hộ. Mỹ, chẳng hạn, được báo cáo là thu khoảng 15 xu tiền thuế nhập khẩu cho mỗi 1 đô la hàng nhập từ Bangladesh (Elliott, 2009), so với 1 xu cho mỗi 1 đô la hàng nhập từ một số nước Tây Âu lớn, dù hàng nhập một sản phẩm cụ thể từ Bangladesh chịu thuế bằng hoặc thấp hơn một sản phẩm được phân loại tương tự nhập từ Tây Âu. Các nhà kinh tế Ngân hàng Thế giới tính rằng các nhà xuất khẩu từ các nước thu nhập thấp đối mặt với các rào cản cao hơn trung bình 50% so với các nước công nghiệp hoá lớn (Kee, Nicita và Olarreaga, 2006).
-- Các thành viên của Tổ chức Thương mại Thế giới, cơ quan trọng tài thương mại quốc tế, đang tham gia một nỗ lực phức tạp nhằm giảm và san bằng các trở ngại do chính phủ áp đặt với thương mại trong một vòng đàm phán bắt đầu ở Doha, Qatar năm 2001. Các cuộc đàm phán bao trùm nhiều vấn đề, nhiều trong số đó nhạy cảm về chính trị, gồm việc loại bỏ các khoản trợ cấp xuất khẩu nông nghiệp còn lại, giới hạn trợ cấp nông nghiệp trong nước, và cắt mạnh thuế nhập khẩu của các nền kinh tế tiên tiến đối với sản phẩm nông nghiệp và công nghiệp. Doha cũng tìm cách xử lý các vấn đề then chốt khác như rào cản với thương mại và đầu tư trong dịch vụ, các quy tắc thương mại ở các lĩnh vực như trợ cấp nghề cá và chống bán phá giá, cùng việc tạo thuận lợi hải quan và thương mại.
-- Nếu thành công, Vòng Doha có thể mang lại hàng trăm tỷ đô la lợi ích toàn cầu hằng năm. Nhưng một số nhóm đã tìm cách trì hoãn và pha loãng thoả thuận. Việc tập trung vào lợi ích lớn hơn, cùng với các cách giúp đỡ số tương đối ít những người có thể bị ảnh hưởng bất lợi, có thể giúp mang lại một hệ thống thương mại công bằng hơn và hợp lý hơn về mặt kinh tế.
+**Mức bảo hộ không đều.** Các cải cách từ sau Thế chiến II đã giảm mạnh rào cản thương mại do chính phủ dựng lên. Nhưng mức bảo hộ ngành trong nước vẫn rất khác nhau:
+
+- **Theo ngành:** thuế nhập khẩu cao hơn nhiều ở một số ngành, như nông nghiệp và may mặc.
+- **Theo nhóm nước:** thuế nhập khẩu cao hơn ở một số nhóm nước, như các nước kém phát triển hơn.
+- **Dịch vụ:** nhiều nước có rào cản đáng kể với thương mại dịch vụ trong vận tải, viễn thông và tài chính; một số nước khác lại chào đón cạnh tranh nước ngoài.
+
+**Nước nghèo chịu thiệt nhiều nhất.** Rào cản thương mại không ảnh hưởng đều tới mọi nước. Bị nặng nhất thường là các nước kém phát triển hơn, vì hàng xuất khẩu của họ chủ yếu là sản phẩm kỹ năng thấp, thâm dụng lao động, đúng loại mà các nước công nghiệp thường bảo hộ. Bài nêu hai con số:
+
+| Bằng chứng | Con số | Nguồn |
+|---|---|---|
+| Thuế Mỹ thu trên mỗi 1 đô la hàng nhập từ Bangladesh | khoảng 15 xu | Elliott (2009) |
+| Thuế Mỹ thu trên mỗi 1 đô la hàng nhập từ một số nước Tây Âu lớn | 1 xu | Elliott (2009) |
+| Rào cản mà nhà xuất khẩu từ nước thu nhập thấp phải đối mặt, so với nước công nghiệp lớn | cao hơn trung bình 50% | Kee, Nicita và Olarreaga (2006), các nhà kinh tế Ngân hàng Thế giới |
+
+Điểm đáng chú ý trong con số thứ nhất: khoảng cách 15 xu so với 1 xu **không** phải vì Mỹ đánh thuế hàng Bangladesh nặng hơn cho cùng một sản phẩm. Với cùng một mặt hàng cụ thể, hàng từ Bangladesh chịu thuế bằng hoặc thấp hơn hàng tương tự từ Tây Âu. Như vậy khoảng cách đến từ **cơ cấu** hàng: Bangladesh bán chủ yếu những mặt hàng (như may mặc) mà Mỹ đánh thuế cao, còn Tây Âu bán những mặt hàng chịu thuế thấp.
+
+**Vòng đàm phán Doha.** Các thành viên Tổ chức Thương mại Thế giới (WTO), cơ quan trọng tài thương mại quốc tế, đang tham gia một nỗ lực phức tạp nhằm giảm và san bằng các trở ngại thương mại do chính phủ dựng lên, trong một vòng đàm phán bắt đầu ở Doha, Qatar, năm 2001. Nội dung đàm phán gồm nhiều vấn đề nhạy cảm về chính trị:
+
+- Bỏ các khoản trợ cấp xuất khẩu nông nghiệp còn lại.
+- Giới hạn trợ cấp nông nghiệp trong nước.
+- Cắt mạnh thuế nhập khẩu của các nền kinh tế tiên tiến đối với hàng nông nghiệp và công nghiệp.
+- Rào cản đối với thương mại và đầu tư trong lĩnh vực dịch vụ.
+- Quy tắc thương mại trong các lĩnh vực như trợ cấp nghề cá và chống bán phá giá.
+- Tạo thuận lợi cho thủ tục hải quan và thương mại.
+
+**Kết luận của bài.** Nếu thành công, Vòng Doha có thể đem lại hàng trăm tỷ đô la lợi ích cho thế giới mỗi năm. Nhưng một số nhóm đã tìm cách trì hoãn và làm loãng thoả thuận. Bài kết luận rằng tập trung vào lợi ích lớn hơn, cùng với những cách giúp đỡ số tương đối ít người có thể bị thiệt, có thể đem lại một hệ thống thương mại công bằng hơn và hợp lý hơn về kinh tế.
 
 ## Thuật ngữ
 
