@@ -229,50 +229,167 @@
 2. Củng cố làm nợ giảm qua những kênh nào: cán cân ngân sách, tăng trưởng, lạm phát hay lãi suất?
 3. Khi nào củng cố hiệu quả nhất trong việc giảm rủi ro nợ: khi có quy tắc tài khoá, khi nợ ban đầu cao, hay ở nhóm nước nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Củng cố tài khoá (fiscal consolidation).** Các biện pháp làm giảm thâm hụt ngân sách, bằng cắt chi, tăng thu, hoặc cả hai, thường nhằm kéo nợ công xuống. Bài chỉ xét củng cố bằng **cắt chi**. Ví dụ minh hoạ: một nước có GDP 500 tỷ USD cắt chi 5 tỷ USD trong năm là cắt chi 1% GDP, đúng quy mô cú sốc mà bài dùng để báo cáo kết quả.
+
+**Phân phối nợ và nợ có rủi ro (debt-at-risk).** Vì tương lai bất định, nợ/GDP của một nước sau vài năm không phải một con số chắc chắn mà là một dải các khả năng, có khả năng cao, khả năng thấp; dải này gọi là phân phối dự báo. Nợ có rủi ro là **phân vị thứ 95** của phân phối đó: chỉ có 5% khả năng nợ cao hơn mức này. Ví dụ: với nợ công toàn cầu năm 2027, trung vị dự báo khoảng 97,5% GDP nhưng phân vị 95 khoảng 116,6% GDP. Nợ có rủi ro cho biết kịch bản xấu nghiêm trọng trông như thế nào, và đó là điều quyết định nguy cơ khủng hoảng.
+
+**Phân vị và đuôi phân phối.** Phân vị τ là mức mà τ% các kết cục nằm dưới nó. Phân vị 5 là "đuôi trái" (kết cục nợ rất thấp, tức tình huống thuận lợi), phân vị 95 là "đuôi phải" (kết cục nợ rất cao). Bài quan tâm đuôi phải vì khủng hoảng nợ xảy ra ở đó, không phải ở mức bình quân.
+
+**Vị trí và quy mô (location and scale).** Hai cách một chính sách có thể tác động lên phân phối. Tác động vị trí là **dịch** cả phân phối sang trái hay phải (thay đổi mức bình quân). Tác động quy mô là **co hoặc giãn** độ rộng phân phối (thay đổi độ bất định). Ví dụ minh hoạ: nếu trước cắt chi, nợ năm sau có thể từ 80% đến 120% GDP, thì một tác động vị trí −1 điểm đưa dải thành 79–119%, còn thêm tác động quy mô âm có thể đưa nó thành 80–117%: đầu cao bị kéo xuống mạnh hơn đầu thấp. Bài thấy cắt chi làm cả hai việc.
+
+**Cú sốc chi tiêu và sai số dự báo.** Để đo tác động nhân quả, cần một thay đổi chi tiêu không phải do chính tình hình kinh tế gây ra. Bài lấy phần chi tiêu thực tế khác với dự báo mà IMF công bố tháng 10 cùng năm: phần chênh lệch này là thứ không ai lường trước. Ví dụ minh hoạ: IMF dự báo chi 30% GDP, thực tế 29% GDP, thì cú sốc là −1% GDP. Cách làm này tránh lẫn lộn kiểu "kinh tế suy thoái nên chi tăng".
+
+**Phép chiếu địa phương (local projections).** Kỹ thuật ước lượng tác động của một cú sốc ở từng chân trời riêng: hồi quy nợ năm nay lên cú sốc, rồi nợ năm sau lên cú sốc, và cứ thế đến năm thứ 4. Kết quả là một chuỗi tác động theo thời gian (h = 0…4), ví dụ nợ bình quân giảm khoảng 0,65 điểm ngay năm 0 và khoảng 0,9 điểm ở năm 2.
+
+**Số nhân tài khoá (fiscal multiplier).** Mỗi đồng chi tiêu chính phủ thay đổi làm GDP thay đổi bao nhiêu đồng. Ví dụ: số nhân 0,3 nghĩa là cắt chi 1 tỷ làm GDP giảm 0,3 tỷ. Nếu số nhân lớn hơn 1, cắt chi có thể làm GDP giảm mạnh đến mức nợ/GDP lại tăng; bài thấy số nhân khoảng 0,2–0,4, tức củng cố không tự thất bại.
+
+**Quy tắc tài khoá (fiscal rule).** Giới hạn bằng con số, áp dụng lâu dài, lên các tổng số ngân sách, ví dụ "nợ không vượt 60% GDP" hay "thâm hụt không quá 3% GDP". Quy tắc giúp hạn chế động cơ chính trị muốn chi nhiều và xu hướng thâm hụt kéo dài, qua đó làm lời hứa củng cố đáng tin hơn. Bài thấy cắt chi ở nước có quy tắc giảm nợ có rủi ro khoảng 2 điểm, so với khoảng 0,5 điểm không có ý nghĩa ở nước không có quy tắc.
+
+## Nội dung chi tiết
 
 ### 1. Mở đầu
 
-- Nợ công đã ở mức cao và dự kiến tiến tới 100% GDP vào cuối thập kỷ, với rủi ro nghiêng lên. Nợ và nợ có rủi ro cao thu hẹp dư địa tài khoá và thường báo trước căng thẳng chủ quyền.
-- Nhiều nước cần củng cố để giảm nợ và đáp ứng áp lực chi mới cho khí hậu, quốc phòng và phát triển. Quy mô củng cố cần thiết phụ thuộc vào tác động của nó lên nợ theo thời gian, nhưng quan hệ giữa củng cố và nợ, nhất là rủi ro nợ, chưa được nghiên cứu nhiều.
-- Bài mở rộng mô hình vị trí–quy mô vào khung phép chiếu địa phương để ước lượng phản ứng ở các phân vị khác nhau của phân phối nợ.
+Nợ công đã ở mức cao: bình quân thế giới khoảng 93% GDP cuối 2024 và dự kiến tiến tới gần 100% GDP vào cuối thập kỷ. Rủi ro lại nghiêng về phía tăng. Theo phân phối dự báo cho năm 2027 của Furceri và cộng sự (2025), trung vị khoảng 97,5% GDP, nhưng phân vị 95 khoảng 116,6% GDP (tức khoảng 117% GDP), cao hơn trung vị khoảng 20 điểm phần trăm, một mức chênh chưa thấy kể từ Thế chiến II. Nợ cao và nợ có rủi ro cao làm thu hẹp dư địa tài khoá và thường báo trước căng thẳng nợ chủ quyền.
+
+Nhiều nước cần củng cố tài khoá để giảm nợ, đồng thời phải đáp ứng áp lực chi mới cho khí hậu, quốc phòng và phát triển. Củng cố bao nhiêu là đủ phụ thuộc vào việc củng cố tác động lên nợ thế nào theo thời gian. Thế nhưng quan hệ giữa củng cố và nợ, nhất là **rủi ro** nợ, chưa được nghiên cứu nhiều. Các nghiên cứu trước (Guajardo, Leigh và Pescatori; Alesina, Favero và Giavazzi…) chủ yếu hỏi củng cố tác động thế nào lên **tăng trưởng**. Bài này hỏi củng cố tác động thế nào lên **toàn bộ phân phối nợ tương lai**, nhất là đuôi phải.
+
+Bài chọn xét **cắt chi** vì ba lý do: cú sốc chi tiêu nhận diện được cho nhiều nước; chi tiêu không bị chu kỳ kinh tế chi phối tự động như thu (thu thuế tự giảm khi suy thoái); và các nghiên cứu (Alesina và cộng sự 2019) cho thấy củng cố dựa vào cắt chi giảm nợ hiệu quả hơn củng cố dựa vào tăng thuế.
+
+Về phương pháp, bài đưa mô hình vị trí–quy mô vào khung phép chiếu địa phương để ước lượng phản ứng ở các phân vị khác nhau của phân phối nợ. Mẫu gồm 192 nước, 1991–2021.
 
 ### 2. Vị trí trong tài liệu
 
-- Nhánh thứ nhất là quan hệ giữa hành động tài khoá và nợ. Reinhart, Reinhart và Rogoff bàn các lựa chọn giảm nợ; Kose và cộng sự tập trung vào nước đang phát triển; Ando và cộng sự dùng SVAR với ràng buộc dấu cho 58 nước và thấy bằng chứng lẫn lộn. Bài đóng góp mẫu lớn hơn nhiều và cách nhận diện cú sốc không dự báo được và ngoại sinh.
-- Nhánh thứ hai là tác động của cú sốc chính sách lên rủi ro tăng trưởng và nợ. Các bài trước xét cú sốc tiền tệ hoặc cú sốc tin tức chi tiêu ở Mỹ; bài này tập trung vào tài khoá với mẫu lớn và đa dạng. Bài xây trên Furceri và cộng sự (2025) về nợ có rủi ro, nhưng hướng tới tác động nhân quả.
+Bài nối hai nhánh nghiên cứu.
+
+**Nhánh thứ nhất: quan hệ giữa hành động tài khoá và nợ.** Reinhart, Reinhart và Rogoff bàn các lựa chọn giảm nợ (tăng trưởng, củng cố, lạm phát, vỡ nợ, kìm hãm tài chính). Kose và cộng sự tập trung vào nước đang phát triển. Ando và cộng sự dùng mô hình SVAR với ràng buộc dấu cho 58 nước và thấy bằng chứng lẫn lộn về việc củng cố có giảm được nợ hay không. Đóng góp của bài: mẫu lớn hơn nhiều, và cách nhận diện cú sốc vừa không dự báo được vừa ngoại sinh.
+
+**Nhánh thứ hai: tác động của cú sốc chính sách lên rủi ro tăng trưởng và nợ.** Các bài trước xét cú sốc tiền tệ, hoặc cú sốc tin tức về chi tiêu ở Mỹ. Bài này tập trung vào chính sách tài khoá, với mẫu lớn và đa dạng. Bài xây trên khái niệm nợ có rủi ro của Furceri và cộng sự (2025), nhưng chuyển từ mô tả rủi ro sang đo **tác động nhân quả** của chính sách lên rủi ro.
 
 ### 3. Dữ liệu và phương pháp
 
-- Dữ liệu năm từ bản tháng 10 của Triển vọng Kinh tế Thế giới, gồm nợ, chi, thu, cán cân, lãi suất dài hạn thực, lạm phát, GDP và các dự báo trong năm. Số nước và giai đoạn bị giới hạn bởi dữ liệu dự báo chi tiêu.
-- Tham số vị trí đo tác động bình quân, tham số quy mô cho biết tác động có khác nhau giữa các phân vị không. Bài ước lượng cho các phân vị từ 5 tới 95 và tập trung vào phân vị 95.
-- Bài không dùng cú sốc làm biến công cụ trong hồi quy phân vị vì ước lượng biến công cụ phân vị trên dữ liệu bảng đòi hiệu ứng cố định đồng nhất giữa các phân vị và chỉ xử lý phương sai thay đổi, không xử lý tương quan chuỗi mà phép chiếu địa phương tạo ra.
+**Dữ liệu.** Số liệu năm lấy từ bản tháng 10 của Triển vọng Kinh tế Thế giới (WEO), gồm nợ, chi, thu, cán cân ngân sách, lãi suất dài hạn thực, lạm phát, GDP, và các dự báo trong năm. Số nước và giai đoạn bị giới hạn bởi dữ liệu dự báo chi tiêu.
+
+**Mô hình vị trí–quy mô.** Với mỗi chân trời h = 0…4 năm, phương trình (1) có dạng:
+
+d(t+h) = α(i) + β₁·g(t) + X'β₂ + [δ(i) + γ₁·g(t) + X'γ₂]·ε
+
+trong đó d là nợ/GDP, g là chi tiêu chính phủ/GDP, X là các biến kiểm soát, ε là sai số. Phần đầu (α, β) là phần **vị trí**: nó quyết định mức bình quân. Phần trong ngoặc vuông (δ, γ) là phần **quy mô**: nó nhân với sai số, nên quyết định độ rộng của phân phối.
+
+Tác động của chi tiêu lên phân vị τ bằng β₁ + γ₁·q(τ), với q(τ) là nghịch đảo hàm phân phối của sai số tại τ (âm ở các phân vị thấp, dương ở các phân vị cao). Ba trường hợp:
+
+| Trường hợp | Ý nghĩa |
+|---|---|
+| γ₁ = 0 | Chỉ dịch phân phối, mọi phân vị bị tác động như nhau (giống phép chiếu địa phương tuyến tính thông thường) |
+| β và γ cùng dấu | Vừa dịch vừa giãn hoặc co, nên đuôi phải chịu tác động mạnh nhất |
+| β và γ ngược dấu | Dịch, nhưng đuôi trái chịu tác động nhiều hơn |
+
+Tác động của **cắt** chi bằng cách nhân cả hai hệ số với −1. Bài ước lượng cho các phân vị từ 5 tới 95 và tập trung vào phân vị 95.
+
+**Vì sao không dùng hồi quy phân vị thông thường.** Với dữ liệu bảng, thêm biến giả cho từng nước vào hồi quy phân vị gây ra "vấn đề tham số ngẫu nhiên" (số tham số tăng theo số nước, làm ước lượng sai lệch). Mô hình của Machado và Santos Silva (2019) tránh được điều này và cho phép đặc điểm riêng của từng nước tác động lên **cả** phân phối, không chỉ dịch vị trí. Ước lượng bằng GMM một bước (lệnh MM-QR trong Stata), sai số chuẩn theo cụm nước.
+
+**Nhận diện cú sốc chi tiêu.** Cú sốc là phần chi tiêu **không dự báo được**. Theo định lý Frisch–Waugh–Lovell, đưa các biến dự báo vào X tương đương với dùng g̃ = g − E(g | X), tức chi tiêu trừ đi phần kỳ vọng. Hai nhóm biến kiểm soát:
+- Dự báo chi tiêu của IMF công bố tháng 10 cùng năm. Nhờ đó cú sốc chỉ gồm phần chi không lường trước. Để một phản ứng theo chu kỳ lọt vào cú sốc, nó phải xảy ra trong tháng 10–12, điều khó xảy ra do độ trễ lập pháp (theo lập luận của Blanchard và Perotti).
+- Dự báo tháng 10 về tăng trưởng và lạm phát, cùng các giá trị trễ của nợ, chi tiêu, tăng trưởng và lạm phát (theo Colombo và cộng sự 2024).
+
+**Vì sao không dùng cách nhận diện khác:**
+
+| Cách khác | Vấn đề |
+|---|---|
+| SVAR kiểu Blanchard–Perotti | Cần dữ liệu quý, nhiều nước không có |
+| Phương pháp tường thuật (đọc tài liệu ngân sách để xác định thay đổi có chủ đích) | Thiếu tài liệu ở nước mới nổi |
+| Dùng chi quân sự | Dính vấn đề "tầm nhìn tài khoá": người dân phản ứng ngay từ khi biết trước, trước khi tiền được chi |
+
+**Cú sốc có ngoại sinh không.** Cú sốc đạt cả ba tiêu chí của Ramey (2016): không tương quan với các biến vĩ mô hiện tại và quá khứ, cũng như với sai số dự báo của chúng (tóm bằng thành phần chính thứ nhất); không dự báo được, vì được xây từ chính sai số dự báo; và không tương quan với chỉ số Bất định Thế giới hay với cú sốc tiền tệ. Thống kê mô tả của cú sốc: bình quân xấp xỉ 0, độ lệch chuẩn 3,3, khoảng tứ phân vị từ −1,4% đến +1,1% GDP.
+
+**Vì sao không dùng cú sốc làm biến công cụ trong hồi quy phân vị.** Ước lượng biến công cụ theo phân vị trên dữ liệu bảng đòi hỏi hiệu ứng cố định giống nhau giữa các phân vị, và chỉ xử lý được phương sai thay đổi, không xử lý được tương quan chuỗi mà phép chiếu địa phương tạo ra. Vì vậy bài đưa dự báo vào làm biến kiểm soát thay vì dùng công cụ trong mô hình chính.
 
 ### 4. Kết quả cơ sở
 
-- Cắt chi làm giảm cả mức nợ tương lai lẫn độ bất định xung quanh nó. Cả hai tham số đều âm và có ý nghĩa ở mọi chân trời.
-- Tác động tăng dần theo phân vị: ở đuôi trái nhỏ và mất sau hai năm, ở đuôi phải lớn và bền. Nợ có rủi ro giảm khoảng 1 điểm ngắn hạn và 1,5 điểm trung hạn cho mỗi 1% GDP cắt chi.
-- Các kiểm tra độ vững về số độ trễ, giá trị cực đoan, biến xung động và phương pháp ước lượng đều cho kết quả tương tự; riêng khi dùng cán cân thay chi tiêu, bất đối xứng yếu hơn.
+**Cắt chi giảm cả mức nợ lẫn độ bất định.** Tác động của việc cắt chi 1% GDP lên nợ/GDP (điểm phần trăm, giá trị ước đọc):
+
+| Năm | 0 | 1 | 2 | 3 | 4 |
+|---|---|---|---|---|---|
+| Vị trí (bình quân) | khoảng −0,65 | khoảng −0,8 | khoảng −0,9 | khoảng −0,78 | khoảng −0,55 |
+| Quy mô (độ bất định) | khoảng −0,11 | khoảng −0,1 | khoảng −0,2 | khoảng −0,3 | khoảng −0,2 |
+
+Cả hai tham số đều âm và có ý nghĩa ở mọi chân trời. Nợ bình quân giảm khoảng 0,7 điểm ngay và đạt đỉnh 0,9 điểm sau hai năm. Tính theo độ lớn tương đối, một cú sốc bằng một độ lệch chuẩn làm độ lệch chuẩn của nợ/GDP giảm khoảng 17% ngay lập tức và 23% sau hai năm.
+
+**Tác động tăng dần theo phân vị** (giá trị ước đọc):
+
+| Năm | Phân vị 5 (nợ thấp) | Phân vị 95 (nợ có rủi ro) |
+|---|---|---|
+| 0 | khoảng −0,45 | khoảng −0,95 |
+| 2 | khoảng −0,5 | khoảng −1,35 |
+| 3 | khoảng −0,2 | khoảng −1,5 |
+| 4 | khoảng −0,2 (mất ý nghĩa thống kê từ năm 2) | khoảng −1,0 |
+
+Ở mọi chân trời, đường tác động dốc xuống theo phân vị: càng về đuôi phải, tác động càng lớn. Ở đuôi trái tác động nhỏ và mất ý nghĩa sau hai năm; ở đuôi phải tác động lớn và bền. Tóm lại, cắt chi 1% GDP làm nợ có rủi ro giảm khoảng 1 điểm trong ngắn hạn và 1,5 điểm trong trung hạn. Cách đọc: cắt chi không chỉ đẩy phân phối sang trái mà còn làm nó **hẹp** lại, nên các kết cục nợ rất cao ít xảy ra hơn.
+
+**Đối chiếu với khuyến nghị chính sách.** Báo cáo Fiscal Monitor 2024 của IMF khuyến nghị điều chỉnh tích luỹ 3–4,5% GDP. Theo ước lượng của bài, mức điều chỉnh đó sẽ làm nợ có rủi ro giảm khoảng 4,5–7 điểm.
+
+**Độ vững.** Các kiểm tra đều cho kết quả tương tự:
+- Dùng 1, 3 hoặc 4 độ trễ thay vì 2: gần như không đổi.
+- Bỏ giá trị cực đoan (dưới phân vị 1 và trên phân vị 99) của nợ, của chi tiêu, hoặc cả hai: tương tự.
+- Thay chi tiêu bằng **cán cân** tài khoá làm biến xung động: tác động vị trí tương tự, nhưng tác động quy mô yếu hơn, nên ít bất đối xứng hơn; bất đối xứng vẫn còn ở năm 3–4.
+- Phương pháp Canay (2011), loại hiệu ứng cố định trước rồi chạy hồi quy phân vị: ít bất đối xứng hơn nhưng đường tác động vẫn dốc xuống theo phân vị.
+- Hồi quy phân vị biến công cụ của Chernozhukov và Hansen (2006), với công cụ là sai số dự báo tăng chi thực đã làm sạch: tương tự về định tính.
 
 ### 5. Cơ chế
 
-- Củng cố cải thiện cán cân tương lai và giảm độ bất định của nó, tức giảm rủi ro thâm hụt lớn. Chủ yếu nhờ chi giảm, nhưng thu cũng giảm do sản lượng và lạm phát thấp hơn.
-- Số nhân chi tiêu âm và nhỏ hơn một, phù hợp với tài liệu, nghĩa là củng cố không gây mất sản lượng đủ lớn để tự triệt tiêu nỗ lực giảm nợ. Củng cố cũng giảm độ bất định của sản lượng.
-- Lãi suất dài hạn giảm, phù hợp với lý thuyết tân cổ điển về điều kiện tín dụng tốt hơn và kéo đầu tư tư nhân vào; độ bất định của lãi suất cũng giảm, có thể qua kênh phần bù rủi ro.
-- Khoảng 70% mức giảm nợ bình quân sau một năm đến từ cán cân cải thiện, phần còn lại từ tăng trưởng và lãi suất.
+Theo phương trình động thái nợ, tỷ lệ nợ/GDP thay đổi theo cán cân sơ cấp, lãi suất, tăng trưởng và lạm phát. Bài xét từng kênh.
+
+**Ngân sách** (giá trị ước đọc):
+- **Cán cân**: tác động vị trí +0,7 điểm ngay rồi giảm dần; tác động quy mô âm. Nghĩa là củng cố cải thiện cán cân tương lai và giảm độ bất định của nó, tức giảm rủi ro xảy ra thâm hụt lớn.
+- **Chi**: tác động vị trí −1 điểm ngay (đúng quy mô cú sốc), rồi hồi dần.
+- **Thu**: cũng giảm (khoảng −0,27 điểm ngay) vì sản lượng và lạm phát thấp hơn làm cơ sở thuế co lại. Đây là lý do cán cân chỉ cải thiện khoảng 0,7 chứ không phải trọn 1 điểm.
+
+**Vĩ mô:**
+- **Lạm phát** giảm nhẹ, đỉnh sau hai năm; tác động quy mô không đổi.
+- **GDP**: số nhân chi tiêu âm và nhỏ hơn 1 (khoảng 0,2–0,4), phù hợp với tài liệu. Nghĩa là củng cố không gây mất sản lượng đủ lớn để tự triệt tiêu nỗ lực giảm nợ. Tác động quy mô cũng âm, tức củng cố làm giảm độ bất định của sản lượng.
+- **Lãi suất dài hạn** giảm, rõ từ năm 2 (khoảng −0,35 điểm), phù hợp với lý thuyết tân cổ điển: điều kiện tín dụng tốt hơn kéo đầu tư tư nhân vào. Độ bất định của lãi suất cũng giảm tới năm 3, có thể qua kênh phần bù rủi ro (nhà đầu tư đòi lãi thấp hơn khi thấy nợ an toàn hơn).
+
+**Phân rã sau một năm.** Nợ bình quân giảm 0,8 điểm, trong đó khoảng 0,55 điểm (khoảng 70%) nhờ cán cân cải thiện; phần còn lại đến qua tăng trưởng và lãi suất.
 
 ### 6. Khác biệt theo điều kiện
 
-- Quy tắc tài khoá là giới hạn số lâu dài lên các tổng số ngân sách, giúp giảm méo mó chính trị và xu hướng thâm hụt kéo dài. Chúng có thể tăng uy tín của củng cố và giảm nguy cơ trượt tài khoá.
-- Khi có quy tắc, củng cố giảm nợ bình quân và độ bất định mạnh hơn, và giảm nợ có rủi ro khoảng 2 điểm sau bốn năm, so với 0,5 điểm không có ý nghĩa khi không có quy tắc. Khác biệt có ý nghĩa ở năm 0 và năm 4. Quy tắc càng chặt, tác động càng lớn.
-- Nợ ban đầu là yếu tố quan trọng quyết định mức phơi nhiễm rủi ro nợ. Ở nước nợ cao, củng cố giảm cả vị trí lẫn quy mô mạnh hơn, và tác động lên nợ có rủi ro lớn khoảng bốn lần.
-- Nước phát triển hưởng lợi nhiều hơn chủ yếu nhờ tác động vị trí lớn hơn, nhất quán với việc họ thường có quy tắc mạnh hơn và nợ cao hơn, và với bằng chứng rằng thâm hụt sơ cấp là động lực rủi ro nợ quan trọng hơn ở nhóm này.
+**Quy tắc tài khoá.** Quy tắc tài khoá là giới hạn bằng số, lâu dài, lên các tổng số ngân sách, giúp giảm méo mó chính trị và xu hướng thâm hụt kéo dài. Chúng có thể làm củng cố đáng tin hơn và giảm nguy cơ trượt tài khoá. Dữ liệu lấy từ Acalin và cộng sự (2025): 106 nước từng có quy tắc tài khoá trong 1985–2024; biến giả R = 1 nếu nước đó có quy tắc trong năm. Phương trình (4) cho mọi hệ số tách riêng theo hai trạng thái có và không có quy tắc.
+
+Kết quả với quy tắc nói chung (giá trị ước đọc):
+
+| Chỉ tiêu | Có quy tắc | Không quy tắc |
+|---|---|---|
+| Vị trí, trung hạn | −1,2 | dưới −0,5 |
+| Quy mô, năm 0 | khoảng −0,27 | khoảng 0 |
+| Nợ có rủi ro, năm 4 | khoảng −1,9 (khoảng 2 điểm) | khoảng −0,5, không có ý nghĩa |
+
+Giá trị p của khác biệt về nợ có rủi ro giữa hai trạng thái: với quy tắc chung, 0,029 ở năm 0 và 0,002 ở năm 4; với quy tắc nợ, 0,036 ở năm 0 và 0,003 ở năm 4. Ở năm 1–3, khác biệt không có ý nghĩa thống kê.
+
+Theo loại quy tắc: quy tắc nợ, quy tắc cán cân và quy tắc chi tiêu cho kết quả tương tự; quy tắc thu cho khác biệt yếu với khoảng tin cậy rộng. Theo độ chặt của quy tắc (chỉ số của Acalin, chỉ xét các nước có quy tắc): quy tắc chặt làm nợ có rủi ro giảm khoảng 2 điểm ngay và khoảng 2,5 điểm trong trung hạn; quy tắc lỏng cho tác động gần 0. Cơ chế được đề xuất: ở nước có quy tắc, củng cố làm **mất sản lượng ít hơn**.
+
+**Nợ ban đầu cao hay thấp.** Nợ ban đầu là yếu tố quan trọng quyết định mức phơi nhiễm với rủi ro nợ. Phương trình (5) dùng hàm chuyển trơn F(z) = e^(−γz)/(1 + e^(−γz)), với z là nợ/GDP bình quân của nước đó, chuẩn hoá giữa các nước, và γ = 5. Hàm này cho mỗi quan sát một trọng số từ 0 đến 1 giữa trạng thái "nợ cao" và "nợ thấp" thay vì chia cứng.
+
+| Chỉ tiêu (giá trị ước đọc) | Nợ cao | Nợ thấp |
+|---|---|---|
+| Vị trí, năm 2 | khoảng −1,3 | khoảng −0,5 |
+| Quy mô, năm 3 | khoảng −0,38 | khoảng −0,07 |
+| Nợ có rủi ro, năm 3 | khoảng −2,0 | khoảng −0,6 |
+
+Ở nước nợ cao, củng cố giảm cả vị trí lẫn quy mô mạnh hơn, và theo bài, tác động lên nợ có rủi ro lớn khoảng bốn lần. Khác biệt có ý nghĩa ở mức 5% ở năm 3 (p = 0,014). Kết quả vững khi dùng γ = 2,5 hoặc 7, hoặc khi chia mẫu theo tứ phân vị nợ. Cơ chế: ở nước nợ cao, củng cố làm giảm mạnh hơn độ bất định của sản lượng.
+
+**Các nguồn khác biệt khác** (bài không trình bày chi tiết):
+- **Nước phát triển** hưởng lợi nhiều hơn: nợ có rủi ro giảm khoảng 3 điểm trong trung hạn, so với dưới 1 điểm ở nước mới nổi và đang phát triển. Khác biệt chủ yếu đến từ tác động vị trí lớn hơn, nhất quán với việc nước phát triển thường có quy tắc mạnh hơn và nợ cao hơn, và với bằng chứng rằng thâm hụt sơ cấp là động lực rủi ro nợ quan trọng hơn ở nhóm này.
+- Mức phi chính thức thấp hơn và thể chế tốt hơn: tác động mạnh hơn chút ít.
+- Độ mở thương mại, chế độ tỷ giá, giai đoạn của chu kỳ kinh tế, giai đoạn lãi suất bằng không, căng thẳng tài chính: không tạo khác biệt.
 
 ### 7. Kết luận và hàm ý
 
-- Cắt chi dịch phân phối nợ sang trái và thu hẹp nó, với tác động bất đối xứng: gần như không đáng kể ở đuôi trái nhưng lớn, bền và có ý nghĩa ở đuôi phải.
-- Nước nợ rất cao nên cân nhắc củng cố chi tiêu để giảm rủi ro tăng nợ, vì trong bối cảnh này củng cố càng hiệu quả.
-- Củng cố trong khuôn khổ trung hạn đáng tin cậy, dẫn dắt bởi quy tắc tài khoá, sẽ tăng uy tín và hiệu quả giảm rủi ro nợ.
+Cắt chi tiêu dịch phân phối nợ tương lai sang trái và thu hẹp nó. Tác động bất đối xứng: gần như không đáng kể ở đuôi trái (các kịch bản thuận lợi) nhưng lớn, bền và có ý nghĩa ở đuôi phải (các kịch bản nợ tăng vọt). Nói cách khác, giá trị lớn nhất của củng cố là bảo hiểm trước kịch bản xấu, chứ không chỉ kéo mức bình quân xuống.
+
+Hàm ý chính sách:
+- Nước có nợ rất cao nên cân nhắc củng cố dựa vào chi tiêu để giảm rủi ro nợ tăng vọt, vì chính trong bối cảnh này củng cố hiệu quả nhất (tác động lên nợ có rủi ro lớn khoảng bốn lần so với nước nợ thấp).
+- Củng cố nên được đặt trong một khuôn khổ trung hạn đáng tin cậy, dẫn dắt bởi quy tắc tài khoá. Quy tắc làm tăng uy tín và hiệu quả của củng cố trong việc giảm rủi ro nợ (khoảng 2 điểm so với khoảng 0,5 điểm không có ý nghĩa).
 
 ## Thuật ngữ
 

@@ -385,59 +385,210 @@
 2. Nếu mức nợ không phải vấn đề chính thì vấn đề chính là gì: chi phí vay, khối lượng phải tái tài trợ, hay năng lực thu ngân sách?
 3. Những nước nào chịu sức ép nặng nhất, sức ép đó đến từ chủ nợ nào, và có thể làm gì từ trong nước lẫn từ bên ngoài?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Nền kinh tế mới nổi và đang phát triển (EMDE), nước thu nhập thấp (LIC) và nước mới nổi (EM).** Trong bài, EMDE là mọi nước không được Ngân hàng Thế giới xếp vào nhóm thu nhập cao, trừ Trung Quốc và Ấn Độ (vì quy mô và hoàn cảnh riêng), cộng thêm các nước IMF xếp là Quốc gia Phát triển Nhỏ, tổng cộng 136 nước. Trong đó, "nước thu nhập thấp" là 69 nước đủ điều kiện vay ưu đãi từ Quỹ Tín thác Giảm nghèo và Tăng trưởng (PRGT) của IMF; phần còn lại là "nước mới nổi". Hai nhóm này khác nhau về nguồn vốn: nước thu nhập thấp dựa nhiều vào vốn ưu đãi, nước mới nổi vay nhiều trên thị trường.
+
+**Xếp hạng rủi ro khốn khó nợ (debt distress).** "Khốn khó nợ" là tình trạng một nước đã hoặc sắp không trả nợ đúng hạn, phải xin giãn, giảm hoặc tái cơ cấu. IMF và Ngân hàng Thế giới xếp mỗi nước thu nhập thấp vào bốn mức: thấp, trung bình, cao, hoặc đang khốn khó nợ. Ví dụ: năm 2024 có 39% nước thu nhập thấp ở mức rủi ro cao và 14% đang khốn khó nợ. Bài nhấn mạnh rằng "rủi ro cao" chưa có nghĩa là sắp vỡ nợ, vì nhiều xếp hạng cao đến từ các vi phạm ngưỡng ở xa trong tương lai.
+
+**Ngưỡng thanh khoản và ngưỡng khả năng thanh toán.** Khung đánh giá nợ kiểm tra hai loại chỉ số. Chỉ số thanh khoản đo dòng tiền phải trả trong năm (ví dụ trả nợ so với thu ngân sách): vượt ngưỡng nghĩa là có thể thiếu tiền mặt ngay. Chỉ số khả năng thanh toán đo khối nợ (ví dụ nợ so với GDP): vượt ngưỡng nghĩa là nợ quá lớn so với nền kinh tế về lâu dài. Ví dụ minh hoạ: một nước có nợ bằng 60% GDP nhưng phần lớn là vốn ưu đãi 40 năm có thể vi phạm ngưỡng khả năng thanh toán mà không vi phạm ngưỡng thanh khoản nào.
+
+**Cơ cấu chủ nợ: đa phương, song phương, Câu lạc bộ Paris, tư nhân.** Chủ nợ đa phương là các tổ chức như Ngân hàng Thế giới (qua IDA), IMF, các ngân hàng phát triển khu vực. Chủ nợ song phương là chính phủ nước khác; Câu lạc bộ Paris là nhóm các chủ nợ chính phủ truyền thống (chủ yếu nước phát triển) có quy trình tái cơ cấu chung, còn "ngoài Câu lạc bộ Paris" là các chủ nợ chính phủ mới nổi. Chủ nợ tư nhân gồm trái chủ (người mua trái phiếu) và ngân hàng thương mại. Ví dụ: ở nước thu nhập thấp, phần nợ ngoại của tư nhân và song phương ngoài Câu lạc bộ Paris tăng từ 22% lên 38% trong 2010–2023. Điều này quan trọng vì vốn tư nhân đắt hơn và khó tái cơ cấu hơn.
+
+**Trả gốc, tái tài trợ và rủi ro quay vòng (rollover risk).** Khi một khoản vay đến hạn, nước vay phải trả gốc; nếu không đủ tiền, họ vay khoản mới để trả khoản cũ, gọi là tái tài trợ hay quay vòng nợ. Rủi ro quay vòng là nguy cơ không vay được khoản mới, hoặc chỉ vay được với lãi suất cao hơn. Ví dụ minh hoạ: một trái phiếu 1 tỷ USD lãi 5% phát hành năm 2019, đáo hạn năm 2026, có thể phải thay bằng trái phiếu mới lãi 9%, làm tiền lãi hằng năm tăng từ 50 lên 90 triệu USD dù khối nợ không đổi.
+
+**Chênh lệch lợi suất và điểm cơ bản.** Chênh lệch lợi suất là phần lãi suất mà một nước phải trả cao hơn trái phiếu chính phủ Mỹ cùng kỳ hạn, phản ánh rủi ro nhà đầu tư cảm nhận. Đơn vị là điểm cơ bản: 100 điểm cơ bản bằng 1 điểm phần trăm. Ví dụ: chênh lệch 1.000 điểm cơ bản nghĩa là phải trả lãi cao hơn trái phiếu Mỹ 10 điểm phần trăm; thị trường coi mức trên 1.000 là "khốn đốn" và trên 700 là "căng thẳng".
+
+**Thâm hụt sơ cấp (primary deficit).** Thâm hụt ngân sách chưa tính tiền trả lãi, tức chi tiêu (không kể lãi) vượt thu bao nhiêu. Ví dụ minh hoạ: thu 20% GDP, chi không kể lãi 21% GDP, trả lãi 3% GDP, thì thâm hụt sơ cấp là 1% GDP và thâm hụt tổng là 4% GDP. Thâm hụt sơ cấp cho biết chính sách tài khoá hiện tại đang tự làm nợ tăng bao nhiêu, độc lập với gánh nặng nợ cũ.
+
+**Tỷ lệ thu thuế trên GDP và ngưỡng 15%.** Tổng thuế thu được chia cho GDP, đo năng lực thu ngân sách. Mức 15% GDP thường được coi là mức tối thiểu gắn với việc tăng trưởng và phát triển tăng tốc rõ rệt. Ví dụ: một nước có GDP 50 tỷ USD, thu thuế 6 tỷ USD, tức 12% GDP, nằm dưới ngưỡng. Bài cho thấy chính các nước thu thấp lại là các nước có gánh nặng trả nợ nặng nhất, nên tăng thu vừa là vấn đề vừa là lời giải.
+
+## Nội dung chi tiết
 
 ### 1. Mở đầu
 
-- Sau đợt tăng nợ 2020–21 và việc điều kiện tài chính toàn cầu siết lại, nhiều nền kinh tế mới nổi và đang phát triển đang vật lộn với gánh nặng trả nợ đang chèn ép dư địa chi cho phát triển.
-- Thâm hụt do đại dịch đã giảm và nợ đã ổn định, được dự báo giữ nguyên hoặc giảm nhẹ trong kịch bản cơ sở. Nhưng nhiều nước đối mặt chi phí tài trợ cao, nhu cầu tái tài trợ bên ngoài lớn và dòng vốn ròng suy giảm, giữa lúc nhu cầu đầu tư và chi xã hội đều lớn.
-- Bài không đề xuất mô hình mà cung cấp dữ liệu và góc nhìn để góp vào tranh luận quốc tế.
+Sau đợt tăng nợ năm 2020–21 và việc điều kiện tài chính toàn cầu siết lại, nhiều nền kinh tế mới nổi và đang phát triển đang vật lộn với gánh nặng trả nợ, và gánh nặng đó đang chèn ép dư địa chi cho phát triển.
+
+Bức tranh có hai mặt. Mặt tốt: thâm hụt do đại dịch đã giảm, nợ đã ổn định và được dự báo giữ nguyên hoặc giảm nhẹ trong kịch bản cơ sở. Mặt xấu: nhiều nước đối mặt chi phí tài trợ cao, nhu cầu tái tài trợ bên ngoài lớn và dòng vốn ròng suy giảm, đúng vào lúc nhu cầu đầu tư và chi xã hội đều lớn.
+
+Bài không đề xuất mô hình mới mà cung cấp dữ liệu và góc nhìn để góp vào tranh luận quốc tế về nợ. Số liệu chốt theo các nguồn chuẩn của IMF và Ngân hàng Thế giới đến cuối năm 2024 và đầu năm 2025.
+
+**Phạm vi và cách phân nhóm.** Nhóm nghiên cứu gồm 136 nước: mọi nước không được Ngân hàng Thế giới xếp là thu nhập cao, trừ Trung Quốc và Ấn Độ, cộng mọi nước được IMF xếp là Quốc gia Phát triển Nhỏ. Trong đó 69 nước thu nhập thấp (đủ điều kiện PRGT), phần còn lại là nước mới nổi.
+
+Bài dùng hai khung đánh giá bền vững nợ:
+
+| Khung | Áp dụng cho | Cách xếp hạng |
+|---|---|---|
+| LIC-DSF | Nước thu nhập thấp | Bốn mức: thấp / trung bình / cao / đang khốn khó nợ |
+| SRDSF | Nước tiếp cận thị trường | Điểm z của biểu đồ quạt nợ trung hạn, quy ra xác suất khủng hoảng: xanh dưới 9%; vàng 9–20%; hồng nhạt trên 20%; hồng đậm trên 40% |
+
+Chính bài cảnh báo: mọi đánh giá dựa trên dữ liệu sẵn có, và hạn chế về dữ liệu nợ có thể khiến quy mô thách thức bị đánh giá thấp.
 
 ### 2. Diễn biến của tính dễ tổn thương
 
-- Nợ công còn cao nhưng đã ổn định sau đại dịch. Thâm hụt sơ cấp của trung vị nước thu nhập thấp đã về khoảng 1% GDP, còn trung vị nước mới nổi gần cân bằng.
-- Nợ vẫn thấp hơn nhiều so với đỉnh lịch sử, kể cả đối với nhóm đang bị xếp hạng rủi ro cao. Số nước thực sự khốn khó nợ hoặc đang tái cơ cấu là nhỏ.
-- Tỷ lệ nước ở mức rủi ro thấp và trung bình đã trở lại mức trước đại dịch. Một phần đáng kể xếp hạng rủi ro cao phản ánh vi phạm dài hạn các chỉ số khả năng thanh toán hoặc phán đoán, chứ không phải vi phạm trước mắt.
-- Tuy vậy có bất định lớn quanh kịch bản cơ sở, và hạn chế dữ liệu nợ có thể khiến quy mô thách thức bị đánh giá thấp.
+**Nợ đã ổn định.** Trong thập niên 2010, nợ đã cao và đang tăng từ trước đại dịch. Năm 2020, COVID đẩy tỷ lệ nợ/GDP tăng dốc vì hai lực cùng lúc: chi tăng để ứng phó và GDP giảm. Sau đại dịch, thâm hụt sơ cấp thu hẹp nên nợ ổn định trở lại. Thâm hụt sơ cấp của trung vị nước thu nhập thấp đã về khoảng 1% GDP, quanh mức trước dịch; trung vị nước mới nổi gần cân bằng.
+
+**Nợ còn xa đỉnh lịch sử**, kể cả với nhóm đang bị xếp hạng rủi ro cao:
+
+| Nhóm | Hiện nay (nợ/GDP) | Đỉnh trước Sáng kiến HIPC |
+|---|---|---|
+| Trung vị nước thu nhập thấp | khoảng 55% | khoảng 70% (1994) |
+| Nhóm rủi ro cao hoặc khốn khó nợ (35 nước) | khoảng 57% | khoảng 67% |
+| 39 nước thuộc diện HIPC lúc bấy giờ | — | gần 90% |
+
+Sáng kiến dành cho các nước nghèo mắc nợ trầm trọng (HIPC) khởi động năm 1996 để xoá nợ hàng loạt; so với thời điểm trước đó, gánh nặng nợ hiện nay nhẹ hơn rõ.
+
+**Số nước thực sự gặp nạn là nhỏ.** Trong 136 nước, chỉ 12 nước thu nhập thấp ở tình trạng khốn khó nợ hoặc nợ không bền vững, và 2 nước mới nổi đang tái cơ cấu.
+
+**Phân bố xếp hạng của nước thu nhập thấp (% số nước):**
+
+| Mức rủi ro | 2015 | 2019 | 2021 | 2022 | 2023 | 2024 |
+|---|---|---|---|---|---|---|
+| Thấp | 22 | 19 | 10 | 10 | 10 | 11 |
+| Trung bình | 49 | 29 | 31 | 32 | 36 | 36 |
+| Cao | 24 | 38 | 44 | 43 | 39 | 39 |
+| Khốn khó nợ | 6 | 14 | 15 | 15 | 15 | 14 |
+
+Tỷ lệ nước ở mức thấp và trung bình cộng lại đã trở lại mức trước đại dịch (khoảng 47% năm 2024 so với 48% năm 2019), dù vẫn kém xa năm 2015.
+
+**"Rủi ro cao" không đồng nghĩa với nguy cơ trước mắt.** Theo các đánh giá tới 2023, gần 30% xếp hạng rủi ro cao chủ yếu do vi phạm **dài hạn** các chỉ số khả năng thanh toán (tức còn đủ thời gian điều chỉnh trước khi rủi ro hiện thực hoá), hoặc do vận dụng phán đoán cho các cân nhắc dài hạn, chứ không phải do vi phạm trong ngắn hạn. Phân loại các nước rủi ro cao theo loại vi phạm: 19% không vi phạm ngưỡng nào, 28% vi phạm cả ngưỡng thanh khoản lẫn khả năng thanh toán, 19% chỉ vi phạm ngưỡng thanh khoản, 16% chỉ vi phạm ngưỡng khả năng thanh toán. Theo thời điểm vi phạm, bài chia thành vi phạm trong 1–2 năm, trong 3–5 năm, và sau hơn 10 năm.
+
+**Nhưng bất định quanh kịch bản cơ sở là lớn.** Các nguồn rủi ro: tăng trưởng toàn cầu, điều kiện tài chính quốc tế, biến động tỷ giá, chính sách vĩ mô và cơ cấu yếu hơn dự kiến, và nhất là **tổ hợp** nhiều cú sốc hoặc các cú sốc liên tiếp. Nếu những rủi ro này hiện thực hoá, thách thức tài trợ hiện nay có thể biến thành khủng hoảng nợ diện rộng. Thêm vào đó, hạn chế dữ liệu nợ có thể khiến quy mô thách thức bị đánh giá thấp.
 
 ### 3. Bản chất của rủi ro đã thay đổi
 
-- Cơ cấu chủ nợ nợ ngoại dịch chuyển mạnh sang chủ nợ tư nhân và song phương ngoài Câu lạc bộ Paris, gần như gấp đôi ở nước thu nhập thấp. Điều này mở rộng khả năng tiếp cận vốn nhưng đi kèm nghĩa vụ nặng hơn và đắt hơn, rõ nhất ở thị trường cận biên.
-- Phụ thuộc vào nợ trong nước cũng tăng, đặc biệt tăng tốc sau khi đại dịch bắt đầu, khi nhu cầu vốn đột ngột và cửa quốc tế bị hẹp.
-- Các công cụ nợ mới như nợ bảo lãnh, chứng khoán hoá và có tài sản bảo đảm gắn với dự án hợp tác công tư và doanh nghiệp nhà nước ngày càng phổ biến ở nước thu nhập thấp. Chúng không hiện ngay trong chỉ số nợ nhưng có thể làm nợ tăng đột ngột khi bảo lãnh bị gọi.
+Mức nợ không tăng thêm nhiều, nhưng **thành phần** của nợ đã đổi theo ba hướng.
+
+**Thứ nhất, cơ cấu chủ nợ ngoại dịch sang tư nhân và chủ nợ song phương ngoài Câu lạc bộ Paris** (% dư nợ ngoại của khu vực công và được công bảo lãnh):
+
+| Nước thu nhập thấp | Cuối 2010 | Cuối 2023 |
+|---|---|---|
+| Tư nhân | 6% | 19% |
+| trong đó: trái chủ | 1% | 10% |
+| trong đó: tư nhân khác | 6% | 10% |
+| Đa phương | 58% | 51% |
+| trong đó: Ngân hàng Thế giới – IDA | 28% | 23% |
+| Song phương | 36% | 30% |
+| trong đó: Câu lạc bộ Paris | 20% | 11% |
+| trong đó: ngoài Câu lạc bộ Paris | 16% | 19% |
+
+Tư nhân cộng song phương ngoài Câu lạc bộ Paris tăng từ 22% lên 38%, gần gấp đôi.
+
+| Nước mới nổi | Cuối 2010 | Cuối 2023 |
+|---|---|---|
+| Tư nhân | 49% | 58% |
+| trong đó: trái chủ | 39% | 48% |
+| Đa phương | 31% | 30% |
+| Song phương | 20% | 12% |
+| trong đó: Câu lạc bộ Paris | 16% | 6% |
+
+Ở nước mới nổi, tư nhân cộng ngoài Câu lạc bộ Paris tăng từ 52% lên 64%.
+
+Đây là một đánh đổi: tiếp cận vốn dễ hơn, nhưng nghĩa vụ trả nợ lớn hơn và đắt hơn. Thị trường cận biên (các nước thu nhập thấp đã bắt đầu phát hành trái phiếu quốc tế) chuyển dịch mạnh nhất, đến mức hồ sơ nợ của họ nay gần giống nước mới nổi.
+
+**Thứ hai, nợ trong nước tăng.** Nợ trong nước được ước bằng tổng nợ công trừ nợ công ngoại. Ở trung vị nước thu nhập thấp, tỷ trọng nợ trong nước đã tăng 9 điểm phần trăm kể từ 2010, rồi tăng thêm 9 điểm nữa sau khi đại dịch bắt đầu (tương đương thêm 6,5 điểm phần trăm GDP), do nhu cầu vốn đột ngột trong khi cửa vay quốc tế bị hẹp. Ở trung vị nước mới nổi, năm 2020 nợ công trong nước tăng 8 điểm phần trăm GDP trong khi nợ ngoại chỉ tăng 3,6 điểm: hệ thống tài chính nội địa sâu hơn đã là nguồn vốn quan trọng trong khủng hoảng.
+
+**Thứ ba, các công cụ nợ mới khó tái cơ cấu hơn.** Theo nghiên cứu IMF WP/23/79, ngày càng nhiều nợ được bảo lãnh, được chứng khoán hoá, có tài sản bảo đảm, hoặc gắn với dự án hợp tác công tư (PPP), doanh nghiệp nhà nước, quỹ hưu trí và an sinh xã hội. Ví dụ rõ nhất: đầu tư PPP ở nước thu nhập thấp tăng từ 0,3 tỷ USD (1994) lên 5,9 tỷ USD (2021), khoảng 17 lần; số dự án từ 11 lên 26, phần lớn có bảo lãnh của chính phủ. Nguy hiểm nằm ở chỗ các công cụ này không hiện ngay trong chỉ số gánh nặng nợ, nhưng có thể làm nợ tăng đột ngột đúng lúc bảo lãnh hoặc tài sản bảo đảm bị gọi, thường là lúc kinh tế đang khó.
 
 ### 4. Thách thức phía trước
 
-- Dư địa tài khoá đã thu hẹp vì chi phí lãi cao và nghĩa vụ trả nợ ngoài tăng. Hoá đơn lãi của nhóm thu nhập thấp tăng hơn hai lần rưỡi trong mười năm, với tốc độ tăng cũng tăng dần.
-- Điều kiện tài trợ đã dịu lại một phần trong năm 2024, cho phép một số nước quay lại thị trường quốc tế, nhưng chi phí vẫn cao hơn nhiều so với trước đại dịch, nên gánh nặng lãi sẽ còn tăng khi nợ cũ phải tái tài trợ.
-- Trả gốc ngoài sẽ tăng đáng kể, với nhu cầu tái tài trợ của nhóm thu nhập thấp vượt 30 tỷ đô la mỗi năm trong 2025–27, và cần khoảng 350 tỷ đô la dòng vốn gộp mỗi năm chỉ để giữ nguyên mức phơi nhiễm với toàn nhóm.
-- Dòng vốn ròng suy giảm, trong khi chính các nước phát triển cũng có nhu cầu tài trợ lớn, làm tăng rủi ro không huy động đủ vốn với chi phí chấp nhận được.
+Vấn đề đã chuyển từ **mức nợ** sang **chi phí và dòng tiền**.
+
+**Gánh nặng lãi.** Dư địa tài khoá đã thu hẹp vì chi phí lãi cao và nghĩa vụ trả nợ ngoài tăng. Hoá đơn lãi của nhóm nước thu nhập thấp tăng từ khoảng 13 tỷ USD năm 2014 lên 35 tỷ USD, tức hơn hai lần rưỡi sau một thập kỷ. Tốc độ tăng cũng tăng dần:
+
+| Giai đoạn | Mức tăng hoá đơn lãi mỗi năm |
+|---|---|
+| 2014–16 | khoảng +1 tỷ USD |
+| 2017–20 | khoảng +2 tỷ USD |
+| Từ 2021 | khoảng +3 tỷ USD |
+
+**Trả nợ ngoài so với thu ngân sách** (thu không gồm viện trợ): ở trung vị nước thu nhập thấp, tỷ lệ tăng từ 6% (2014) lên 16% (2024), khoảng 2,5 lần. Ở trung vị nước mới nổi, tỷ lệ đã dịu lại gần đây nhưng vẫn trên 12%, gần gấp đôi một thập kỷ trước. Hệ quả trực tiếp: mỗi đồng thu ngân sách dành cho trả nợ là một đồng không còn cho phát triển và các ưu tiên xã hội.
+
+**Chi phí vay.** Năm 2022, điều kiện tài chính toàn cầu siết lại khi ngân hàng trung ương các nước phát triển thắt chặt tiền tệ, và chênh lệch lợi suất của các nền kinh tế mới nổi và đang phát triển vọt lên (ở phân vị 90 có lúc tới khoảng 5.500 điểm cơ bản). Đến năm 2024, chênh lệch phần lớn đã về mức trước đại dịch, cùng với nới lỏng tiền tệ, nên một số nước thu nhập thấp quay lại được thị trường vốn quốc tế. Số nước giao dịch ở mức khốn đốn (trên 1.000 điểm cơ bản) giảm mạnh nhờ Ghana, Sri Lanka, Ukraine và Zambia tiến triển trong tái cơ cấu; nhưng vẫn còn một số nước ở mức căng thẳng (trên 700 điểm).
+
+Điều quan trọng: chi phí vay vẫn cao hơn nhiều so với trước đại dịch. Vì vậy gánh nặng lãi sẽ còn tăng khi các khoản nợ ký trước đại dịch, với lãi suất thấp, phải được tái tài trợ ở lãi suất mới. Lãi suất bình quân trên các cam kết vay ngoại mới (trung vị):
+
+| Nhóm | Chủ nợ chính thức | Chủ nợ tư nhân |
+|---|---|---|
+| Nước thu nhập thấp | khoảng 1–2% | dao động 2–5% |
+| Nước mới nổi | khoảng 1,5–5% | khoảng 2,5–6,5% |
+
+**Trả gốc và nhu cầu tái tài trợ.** Nước thu nhập thấp trả gốc nợ ngoại hơn 20 tỷ USD năm 2023, hơn ba lần một thập kỷ trước; hơn ba phần tư số đó là trả cho chủ nợ chính thức. Nhu cầu tái tài trợ của nhóm này trong 2025–27 vượt 30 tỷ USD mỗi năm. Nước mới nổi trả gốc ngoại 185 tỷ USD năm 2023, tăng chậm hơn. Tính chung, cần khoảng 350 tỷ USD dòng vốn gộp mỗi năm **chỉ để giữ nguyên** mức phơi nhiễm của chủ nợ với toàn nhóm, ngang mức thời COVID và cao hơn hẳn quá khứ, mà chưa tính phần tài trợ ròng mới cho thâm hụt. Lưu ý phương pháp: phép tính dựa trên nợ đã ký đến cuối 2023, chưa tính vốn huy động năm 2024, và loại các nước đang tái cơ cấu để không thổi phồng nghĩa vụ tương lai.
+
+**Dòng vốn ròng suy giảm.** Ở nước thu nhập thấp, dòng nợ ngoại ròng (vay mới trừ trả nợ) chững lại, thậm chí giảm trong 2021–22; chủ nợ đa phương tăng đóng góp nhưng không bù nổi phần tư nhân và song phương rút đi. Ở nước mới nổi, dòng ròng cũng giảm, chủ yếu do dòng tư nhân co lại và hỗ trợ song phương chính thức vốn đã nhỏ lại teo thêm. Thêm một áp lực cạnh tranh: chính các nước phát triển cũng có nhu cầu tài trợ lớn, làm tăng rủi ro các nước mới nổi và đang phát triển không huy động đủ vốn với chi phí chấp nhận được.
 
 ### 5. Ba hồ sơ thách thức
 
-- Nhóm khối lượng gồm các nền kinh tế nhỏ với trả gốc ngoài cao nhưng gánh nặng lãi không cao.
-- Nhóm chi phí gồm các nước năng lực thu thấp và nợ trong nước lớn với lãi suất cao; nợ ngoài thường thấp nhưng phụ thuộc nợ nội làm tăng rủi ro vĩ mô–tài chính.
-- Nhóm cả hai là nhóm cần vốn nhất với chi phí rẻ hơn, chiếm phần rất lớn trong tổng nghĩa vụ. Phần lớn không có dư nợ đặc biệt lớn mà bị trói bởi tổ hợp thu thấp, lãi cao và dòng vốn giảm, nên đã phải siết tài khoá mạnh hơn.
-- Về địa lý, châu Phi hạ Sahara tập trung nhiều nước nhất. Châu Á – Thái Bình Dương nổi bật ở nhóm thâm hụt lớn, chủ yếu là đảo quốc nhỏ.
+**Cách dựng.** Bài chọn các nước nằm ở tứ phân vị cao nhất (25% cao nhất) của ba chỉ tiêu trong 2024–27:
+1. Chi trả lãi tổng (nội và ngoại) trên thu ngân sách.
+2. Trả gốc nợ ngoại trên thu ngân sách.
+3. Thâm hụt sơ cấp trên GDP.
+
+Các nước đã khốn khó (đang hoặc đang đàm phán tái cơ cấu, hoặc nợ không bền vững) bị loại ra để tập trung vào phòng ngừa. Khi định ngưỡng tứ phân vị, bài kiểm soát các nước đặc biệt dễ tổn thương để tránh làm lệch phân phối.
+
+**Ba hồ sơ:**
+
+| Hồ sơ | Đặc điểm | Quy mô |
+|---|---|---|
+| **Khối lượng** | Trả gốc ngoại cao, lãi không cao; sức ép đến từ tái tài trợ; phần lớn là nền kinh tế nhỏ | Khoảng 12% (15 tỷ USD) trả gốc của nhóm thu nhập thấp; 27 tỷ USD ở nhóm mới nổi |
+| **Chi phí** | Lãi tổng cao, trả gốc ngoại không cao. Chân dung: năng lực thu thấp và nợ trong nước lớn với lãi suất bình quân cao. Nợ ngoại thường thấp, nhưng phụ thuộc nợ nội làm tăng rủi ro vĩ mô–tài chính qua liên kết chính phủ–ngân hàng (ngân hàng giữ nhiều trái phiếu chính phủ, nên khó khăn của bên này lan sang bên kia) và đẩy tổng chi phí trả nợ lên cao | |
+| **Cả hai** | Nhóm cần vốn nhất và cần vốn rẻ hơn. Phần lớn **không** có dư nợ đặc biệt lớn, mà bị trói bởi tổ hợp: năng lực thu thấp, lãi suất cao, dòng vốn ròng giảm. Vì vậy đã buộc phải siết tài khoá mạnh hơn các nước khác | 16% (435 tỷ USD) tổng chi trả lãi 2024–27 và 25% (221 tỷ USD) trả gốc ngoại |
+
+Thông điệp chung: vấn đề không phải mức nợ, mà là khả năng trả nợ.
+
+**Phân bố theo vùng:**
+
+| Vùng | Số nước | Ghi chú |
+|---|---|---|
+| Châu Phi hạ Sahara | 22 | 9 nước thuộc nhóm cả hai, 7 trả gốc cao, 5 lãi cao, 1 thâm hụt cao; chiếm 44% chi trả lãi và 46% trả gốc ngoại của toàn nhóm thu nhập thấp 2024–27 (nhưng chỉ 2% và 7% của nhóm mới nổi) |
+| Châu Á – Thái Bình Dương | 13 | Chủ yếu là đảo quốc nhỏ với thâm hụt sơ cấp lớn (8 nước) |
+| Trung Đông – Trung Á | 8 | Nhiều nước có rủi ro nợ cao |
+| Tây Bán Cầu | 9 | Tập trung ở nhóm lãi cao (4 nước) |
+| Châu Âu | 3 | |
 
 ### 6. Chi phí vay và nợ trong nước
 
-- Các nước có tỷ lệ lãi trên thu cao nhất thường có lãi suất bình quân cao nhất và nhiều nước cũng nằm trong nhóm thu thuế thấp nhất. Chỉ một số ít trong đó thực sự có dư nợ lớn, nghĩa là thủ phạm là lãi suất chứ không phải khối nợ.
-- Ở một số nước thu nhập thấp, nợ trong nước gấp đôi nợ ngoài và có chi phí cao gấp hai tới ba lần rưỡi.
-- Trả nợ trong nước so với thu nhìn chung cao hơn ở nước mới nổi do hệ thống tài chính sâu hơn, nhưng đuôi trên của nhóm thu nhập thấp vượt xa, có nước gần bằng toàn bộ thu ngân sách. Hệ quả là liên kết chính phủ–ngân hàng chặt hơn, chi xã hội bị ép và ở vài nơi phát sinh nợ đọng.
+**Lãi suất và thu thuế.** Các nước có tỷ lệ lãi trên thu cao nhất thường là nước có lãi suất bình quân cao nhất, và nhiều nước trong số đó cũng nằm trong nhóm thu thuế thấp nhất. Ở nước thu nhập thấp, nhóm lãi/thu cao có lãi suất bình quân cao (nhiều nước ở mức 5–9%) đồng thời thu thuế dưới 15% GDP. Lãi suất nợ nội địa có nơi tới 17%, trong khi lãi suất nợ ngoại chỉ khoảng 3–4% ở các nước ít được vay ưu đãi. Ngưỡng 15% GDP là mức thu thuế tối thiểu thường gắn với việc tăng trưởng và phát triển tăng tốc rõ rệt. Ở nước mới nổi, một số nước có lãi/thu cao nhưng nền thu rộng và thị trường tài chính sâu, nên đó là sức ép lên ngân sách chứ chưa phải dễ tổn thương; một số khác thì dính cả hai: chi phí vốn cao và năng lực thu thấp.
+
+**Mức nợ không phải thủ phạm.** Trong nhóm nước thu nhập thấp lãi cao, chỉ có bốn nước có nợ/GDP thuộc tứ phân vị trên. Nghĩa là gánh nặng lãi đến từ **lãi suất** chứ không phải từ khối nợ. Ở một số nước thu nhập thấp, nợ trong nước gấp đôi nợ ngoài, tới 40% GDP, với chi phí cao gấp 2 tới 3,5 lần nợ ngoài. Ở nước mới nổi, nhiều nước lãi cao đồng thời nợ cao, nhưng thường có nền thu rộng và thị trường sâu; chỉ ba nước mới nổi vừa lãi cao, vừa nợ cao, vừa năng lực thu thấp.
+
+**Trả nợ trong nước so với thu ngân sách** (ở đây thu có gồm viện trợ). Trung vị nước mới nổi cao gần gấp đôi trung vị nước thu nhập thấp (khoảng 38% so với khoảng 19%), vì nước mới nổi có hệ thống tài chính sâu hơn và nợ nội nhiều hơn. Nhưng đuôi trên của nhóm thu nhập thấp vượt xa: có nước phải dùng gần 100% thu ngân sách để trả nợ trong nước. Nguyên nhân: sau đại dịch, mất đường vào vốn ngoại và vốn ưu đãi đã đẩy nhiều nước thu nhập thấp sang vay trong nước với giá đắt. Hệ quả kép: liên kết chính phủ–ngân hàng chặt hơn, chi xã hội bị ép, và ở một số nước phát sinh nợ đọng trong nước (Nhà nước chậm trả nhà thầu, nhà cung cấp, lương).
 
 ### 7. Sức ép quay vòng và phản ứng
 
-- Gánh nặng trả gốc ngoài của nhóm sức ép cao tăng nhanh hơn hẳn các nước còn lại, và khoảng cách giữa hai nhóm đang doãng ra.
-- Nhóm thu nhập thấp sức ép cao nợ chủ nợ tư nhân nhiều hơn hẳn, và tỷ trọng lãi trả cho tư nhân còn cao hơn tỷ trọng gốc, cho thấy chi phí của vốn tư nhân. Ngược lại, nhóm mới nổi sức ép cao nợ chủ nợ chính thức là chính, đặc biệt là song phương, nhưng rất tập trung ở một số ít nước.
-- Dòng vốn ròng tới các nhóm này đều suy giảm, và các nước đã phản ứng bằng cách siết tài khoá, với nhóm mới nổi điều chỉnh nhanh hơn.
+**Trả gốc ngoại trên thu ngân sách.** Ở nhóm nước thu nhập thấp chịu sức ép quay vòng cao (tứ phân vị trên), tỷ lệ này đã hơn gấp đôi kể từ 2010, tới khoảng 13% năm 2023, và còn tăng thêm khoảng 5 điểm phần trăm trong 2024–27. Các nước thu nhập thấp còn lại chỉ gấp đôi trong cùng kỳ và tăng thêm khoảng 3 điểm. Khoảng cách giữa hai nhóm vì vậy đang doãng ra. Ở nước mới nổi, hai nhóm tăng tương đồng (hơn 1,5 lần kể từ 2010); nhóm dễ tổn thương có đợt tăng tốc trước đại dịch rồi giảm lại, có thể vì đồng tiền của họ lên giá so với đô la khi họ thắt chặt tiền tệ sớm hơn các nước phát triển.
+
+**Nhóm sức ép cao nợ ai (2024–27):**
+
+| Chỉ tiêu | Nhóm sức ép cao | Các nước khác |
+|---|---|---|
+| Nước thu nhập thấp: tỷ trọng trả gốc cho tư nhân | khoảng 1/3 | 15% |
+| Nước thu nhập thấp: tỷ trọng trả lãi cho tư nhân | khoảng 1/2 | khoảng 20% |
+| Nước mới nổi: gốc và lãi trả cho chủ nợ chính thức | trên 1/2 | khoảng 40% |
+| Nước mới nổi: gốc trả cho chủ nợ song phương chính thức | gần 30% | 15% |
+
+Cách đọc: ở nước thu nhập thấp sức ép cao, chủ nợ tư nhân nhận khoảng một nửa tiền lãi nhưng chỉ khoảng một phần ba tiền gốc, tức vốn tư nhân đắt hơn nhiều so với quy mô của nó. Ngược lại, nhóm mới nổi sức ép cao nợ chủ nợ chính thức là chính, đặc biệt là song phương; nhưng phía nước mới nổi rất tập trung, một số ít nước chiếm phần lớn khối lượng.
+
+**Dòng nợ ngoại ròng 2018–23.** Nhóm nước thu nhập thấp sức ép cao nhận dòng tư nhân ròng khoảng 28 tỷ USD, nhiều hơn cả toàn bộ nhóm thu nhập thấp còn lại (khoảng 13 tỷ), đúng với việc họ vay trái phiếu tư nhân nhiều hơn. Gần đây dòng tư nhân này giảm và chỉ được đa phương bù một phần; dòng song phương cũng giảm và vốn đã thấp hơn nhóm khác. Ở nhóm mới nổi sức ép cao, tổng dòng ròng giảm khoảng 40% kể từ 2021, chủ yếu do tư nhân; chủ nợ chính thức chiếm khoảng 60% dòng ròng dương của nhóm này (so với khoảng 35% ở các nước mới nổi khác).
+
+**Phản ứng tài khoá.** Các nước đã phản ứng bằng cách siết tài khoá. Nhóm thu nhập thấp sức ép cao đã củng cố mạnh hơn nhóm khác, nhưng thâm hụt sơ cấp trung vị năm 2024 vẫn lớn hơn mức trước đại dịch; nhiều nước còn đang điều chỉnh và dự kiến về gần cân bằng trong vài năm tới. Nhóm mới nổi sức ép cao điều chỉnh nhanh hơn: trung vị đã đạt thặng dư sơ cấp từ 2023.
 
 ### 8. Đường phía trước
 
-- Đa số các nước sức ép cao vẫn được xếp ở mức rủi ro trung bình, tức xoay xở được, nhưng bằng cái giá là điều chỉnh tài khoá lớn và nguồn vốn đắt hơn.
-- Còn nhiều dư địa tự làm: hơn một nửa số nước trong mẫu có thu thuế dưới 15% GDP, và gần 40% nhóm thu thấp đó chính là các nước gánh nặng nợ cao.
-- Cải cách cơ cấu thúc tăng trưởng và xuất khẩu là ưu tiên, nhất là với nhóm thu nhập thấp có nghĩa vụ trả nợ ngoài cao, vì xuất khẩu của họ đã tụt dưới trung vị và độ bao phủ dự trữ xuống cấp nhanh hơn.
-- Những nỗ lực đó cần thời gian, nên cần hỗ trợ tài trợ tăng thêm từ chủ nợ và đối tác quốc tế theo phương pháp ba trụ cột, song song với việc hoàn thiện cơ chế tái cơ cấu kịp thời, đáng tin và dự đoán được.
+**Phần lớn vẫn "xoay xở được".** Xếp hạng rủi ro của chính nhóm dễ tổn thương nhất:
+
+| Nhóm | Thấp | Trung bình | Cao | Cao kèm vi phạm kéo dài |
+|---|---|---|---|---|
+| Nước thu nhập thấp (22 nước) | 1 | 11 | 4 | 6 |
+| Nước mới nổi (18 nước) | 1 | 10 | 7 | — |
+
+"Vi phạm kéo dài" nghĩa là ngưỡng bị vượt từ 5 năm trở lên và năm đầu tiên vi phạm nằm trong 3 năm đầu của kỳ dự báo. Nhóm 4 nước "rủi ro cao nhưng không vi phạm kéo dài hay trước mắt" cho thấy gánh nặng trả nợ vẫn trong tầm kiểm soát. Kết luận của bài: đa số vẫn ở mức rủi ro trung bình, tức xoay xở được, nhưng bằng cái giá là điều chỉnh tài khoá lớn và chấp nhận nguồn vốn đắt hơn.
+
+**Thứ nhất, còn nhiều dư địa tự làm: huy động thu trong nước.** 69 trên 136 nước (hơn một nửa) có thu thuế dưới 15% GDP, trong đó 41 nước thu nhập thấp (khoảng 60% nhóm này) và 28 nước mới nổi. Trong nhóm thu thấp đó, gần 40% (27 nước) chính là các nước có gánh nặng lãi cao, gốc cao, hoặc cả hai. Đây là chỗ "vấn đề" và "lời giải" giao nhau: tăng thu ở đúng những nước này sẽ trực tiếp làm nhẹ tỷ lệ trả nợ trên thu.
+
+**Thứ hai, cải thiện nền tảng và khả năng trả nợ.** Với nhóm nước thu nhập thấp có trả gốc ngoại cao, tỷ lệ xuất khẩu/GDP trung vị đã tụt xuống dưới trung vị toàn nhóm thu nhập thấp theo thời gian, và dự trữ ngoại hối tuy cao hơn trung vị nhưng xuống cấp nhanh hơn trong thập kỷ qua. Vì nợ ngoài phải trả bằng ngoại tệ, mà ngoại tệ chủ yếu đến từ xuất khẩu, nên cải cách cơ cấu thúc đẩy tăng trưởng và xuất khẩu là ưu tiên.
+
+**Thứ ba, những việc đó cần thời gian.** Trong lúc chờ, cần hỗ trợ tài trợ tăng thêm từ chủ nợ và đối tác quốc tế. "Phương pháp ba trụ cột" do IMF và Ngân hàng Thế giới đề xuất nhằm giúp các nước đang cải cách nghiêm túc đáp ứng nhu cầu tài trợ, qua đó tạo dư địa tài khoá và ngăn các sự kiện khốn khó nợ. Song song, cần tiếp tục hoàn thiện cơ chế tái cơ cấu nợ để khi cần thì có quy trình kịp thời, đáng tin và dự đoán được.
 
 ## Thuật ngữ
 

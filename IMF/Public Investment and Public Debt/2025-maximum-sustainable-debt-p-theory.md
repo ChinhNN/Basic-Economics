@@ -236,43 +236,195 @@
 2. Mức nợ bền vững tối đa khác nhau thế nào giữa nước phát triển, mới nổi và thu nhập thấp, và bao nhiêu nước đã vượt ngưỡng?
 3. Ngưỡng này thay đổi theo thời gian vì những yếu tố nào, và nhạy tới đâu với lãi suất và chi tiêu?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Mức nợ bền vững tối đa (maximum sustainable debt).** Mức nợ/GDP cao nhất mà tại đó chính phủ vẫn còn muốn và còn có thể trả nợ. Vượt mức này, chi phí đánh thuế để trả nợ lớn hơn chi phí của việc vỡ nợ, nên chính phủ có động cơ vỡ nợ và thị trường biết điều đó. Ví dụ: bài ước tính mức này năm 2024 bình quân khoảng 124% GDP ở nước phát triển nhưng chỉ khoảng 57% GDP ở nước thu nhập thấp. Đây là con số trung tâm của bài, dùng để đo mỗi nước còn bao nhiêu dư địa.
+
+**Thuế gây méo (distortionary tax) và năng lực thuế.** Thuế gây méo là thuế làm thay đổi hành vi theo hướng thu hẹp hoạt động kinh tế: thuế thu nhập cao khiến người ta làm ít hơn, thuế lợi nhuận cao khiến doanh nghiệp đầu tư ít hơn. Thuế suất càng cao, tổn thất (gọi là tổn thất vô ích) tăng càng nhanh. Năng lực thuế là thuế suất tối đa khả thi về mặt chính trị và hành chính. Ví dụ: năng lực thuế bình quân trong bài là 49,0% ở nước phát triển, 39,9% ở nước thu nhập thấp. Năng lực thuế quyết định thặng dư tối đa mà chính phủ có thể dành để trả nợ.
+
+**Thâm hụt sơ cấp và thặng dư sơ cấp.** Chênh lệch giữa thu và chi ngân sách khi chưa tính tiền trả lãi. Thặng dư sơ cấp là phần tiền còn lại để trả lãi và giảm nợ. Ví dụ minh hoạ: thu 40% GDP, chi (không kể lãi) 21% GDP, thì thặng dư sơ cấp tối đa là 19% GDP. Trong công thức của bài, tử số chính là thặng dư sơ cấp tối đa này.
+
+**Chênh lệch lãi suất – tăng trưởng (r − g).** Lãi suất trên nợ trừ tốc độ tăng trưởng kinh tế. Khi r lớn hơn g, nợ/GDP tự tăng nếu không có thặng dư sơ cấp; khi r nhỏ hơn g, nợ/GDP tự giảm dần. Ví dụ minh hoạ: nợ 100% GDP, lãi 5%, tăng trưởng 3%, thì mỗi năm cần thặng dư sơ cấp 2% GDP chỉ để giữ nợ/GDP đứng yên. Bài dùng một phiên bản mở rộng của r − g "ở ngay ngưỡng vỡ nợ", và cho thấy khi chênh lệch này hẹp, ngưỡng nợ trở nên cực kỳ nhạy.
+
+**Lợi suất tiện ích (convenience yield).** Phần lãi suất mà chính phủ được giảm vì trái phiếu của họ được coi là tài sản an toàn và dễ mua bán, nên nhà đầu tư chấp nhận lãi thấp hơn để nắm giữ. Ví dụ: bài đặt lợi suất tiện ích 0,5% cho Mỹ, Nhật, Đức và 0,1% cho các nước khác, tức trái phiếu Mỹ được vay rẻ hơn 0,5 điểm phần trăm nhờ vị thế tài sản an toàn. Lợi suất tiện ích làm vay rẻ hơn, nhưng cũng tạo động cơ "vay trước, đánh thuế sau".
+
+**Cú sốc nợ nhảy vọt (debt jump).** Các lần nợ/GDP tăng vọt bất ngờ, ví dụ khi một khoản nợ ngoài ngân sách của doanh nghiệp nhà nước bị lộ ra, khi ngân hàng phải được cứu, hay khi đồng tiền mất giá mạnh. Bài coi những lần nợ/GDP tăng trên 10% là cú sốc nhảy vọt và đo tần suất của chúng. Ví dụ: tần suất bình quân là 4,3% mỗi năm ở nước phát triển và 8,2% ở nước thu nhập thấp. Tần suất này đi thẳng vào mẫu số của công thức và kéo ngưỡng nợ xuống.
+
+**Chi phí phòng ngừa (precautionary cost).** Khi sản lượng biến động mạnh, một mức nợ nhất định trở nên rủi ro hơn, nên cần một "đệm" an toàn lớn hơn. Bài đo chi phí này bằng độ lệch chuẩn của tăng trưởng. Ví dụ: chi phí phòng ngừa là 1,6% ở nước phát triển so với 3,3% ở nước thu nhập thấp. Đây là một lý do khiến nước tăng trưởng nhanh nhưng bấp bênh lại có ngưỡng nợ thấp hơn.
+
+**Phân rã Shapley.** Cách chia một thay đổi tổng cho nhiều nguyên nhân khi các nguyên nhân tác động phi tuyến (ảnh hưởng của yếu tố này phụ thuộc vào yếu tố kia). Phương pháp lấy trung bình đóng góp biên của mỗi yếu tố qua mọi thứ tự thay đổi có thể. Ví dụ minh hoạ: nếu ngưỡng nợ của một nước giảm 20 điểm vì cả lãi suất lẫn biến động tăng, phân rã Shapley có thể cho biết 12 điểm do biến động, 8 điểm do lãi suất. Bài dùng nó để giải thích vì sao ngưỡng nợ của Mỹ và Brazil thay đổi theo thời gian.
+
+## Nội dung chi tiết
 
 ### 1. Mở đầu
 
-- Nợ công toàn cầu sắp vượt đỉnh đại dịch. Trong kịch bản xấu nghiêm trọng, nợ có thể cao hơn dự báo 20 điểm phần trăm sau ba năm do bất định chính sách, điều kiện tài chính thắt chặt và căng thẳng địa chính trị. Vì vậy cần biết mỗi nước gánh được bao nhiêu nợ mà không rơi vào khủng hoảng.
-- Bài có hai đóng góp: một khung gọn nhưng giải được để tính mức nợ bền vững tối đa, với ánh xạ trực tiếp từ lãi phi rủi ro, lợi suất tiện ích và phần bù rủi ro nhảy vọt sang chênh lệch lợi suất; và hiệu chỉnh đầu tiên trên quy mô lớn cho hơn 170 nước từ 2000 tới 2024.
+Nợ công toàn cầu đã vượt 100 nghìn tỷ USD năm 2024, sắp tới 100% GDP và sắp vượt đỉnh thời đại dịch. Rủi ro nghiêng về phía tăng: trong kịch bản xấu nghiêm trọng, nợ có thể cao hơn dự báo 20 điểm phần trăm sau ba năm, do bất định chính sách, điều kiện tài chính thắt chặt và căng thẳng địa chính trị. Vì vậy cần trả lời câu hỏi: mỗi nước gánh được bao nhiêu nợ mà không rơi vào khủng hoảng?
+
+Bài có hai đóng góp:
+- **Một khung gọn nhưng giải được** để tính mức nợ bền vững tối đa. Khung này ánh xạ trực tiếp từ lãi suất phi rủi ro, lợi suất tiện ích và phần bù rủi ro nhảy vọt sang chênh lệch lợi suất mà một nước phải trả. Nền tảng là lý thuyết p của Jiang, Sargent, Wang và Yang (2024).
+- **Hiệu chỉnh đầu tiên trên quy mô lớn**, cho hơn 170 nước (172 nước) từ 2000 tới 2024.
+
+Bài nói rõ các con số là minh hoạ, để bổ sung chứ không thay thế các phương pháp đánh giá bền vững nợ hiện có.
 
 ### 2. Vị trí trong tài liệu
 
-- Mô hình làm mượt thuế của Barro coi nợ là bộ đệm giảm méo thuế nhưng giả định cam kết trả nợ hoàn hảo. Mô hình vỡ nợ của Arellano và cách tiếp cận giới hạn tài khoá của Bi và Leeper mô hình hoá ngưỡng mà chính phủ không còn tạo đủ thặng dư.
-- Nghiên cứu thực nghiệm ước lượng dư địa tài khoá từ hành vi quá khứ: "mệt mỏi tài khoá" của Ghosh và cộng sự, "không chịu nổi nợ" của Reinhart, Rogoff và Savastano ở nước mới nổi. Các ý tưởng này đi vào khung đánh giá bền vững nợ của IMF và Ngân hàng Thế giới.
-- Bài bổ sung một chỉ báo cho hơn 170 nước, kết hợp với thước đo Nợ có rủi ro của Furceri và cộng sự.
+**Mô hình lý thuyết.** Mô hình làm mượt thuế của Barro coi nợ là bộ đệm: thay vì tăng thuế đột ngột khi chi tăng, chính phủ vay rồi trả dần, nhờ đó giảm tổn thất do thuế gây méo. Nhưng mô hình này giả định chính phủ cam kết trả nợ hoàn hảo. Mô hình vỡ nợ của Arellano (dựa trên Eaton–Gersovitz) và cách tiếp cận "giới hạn tài khoá" của Bi và Leeper bỏ giả định đó, và mô hình hoá ngưỡng mà ở đó chính phủ không còn tạo đủ thặng dư để trả nợ.
+
+**Nghiên cứu thực nghiệm** ước lượng dư địa tài khoá từ hành vi trong quá khứ: khái niệm "mệt mỏi tài khoá" của Ghosh và cộng sự (chính phủ không thể tăng thặng dư mãi khi nợ cao), và "không chịu nổi nợ" của Reinhart, Rogoff và Savastano (nước mới nổi vỡ nợ ở mức nợ thấp hơn nhiều so với nước phát triển). Các ý tưởng này đã đi vào các khung đánh giá bền vững nợ của IMF và Ngân hàng Thế giới.
+
+Bài bổ sung một chỉ báo có cơ sở lý thuyết cho hơn 170 nước, có thể dùng kết hợp với thước đo Nợ có rủi ro của Furceri và cộng sự.
 
 ### 3. Mô hình
 
-- Sản lượng theo quá trình khuếch tán có nhảy; một phần rủi ro phòng ngừa được bằng bảo hiểm theo GDP, phần nhảy thì không. Chính phủ đánh thuế gây méo để tài trợ chi tiêu ngoại sinh, có quyền vỡ nợ và được hưởng lợi suất tiện ích.
-- Ngưỡng được xác định bằng cách so hai hàm giá trị: tiếp tục trả nợ với thuế gây méo, và vỡ nợ. Vỡ nợ gây mất sản lượng và làm thu thuế kém hiệu quả hơn, và chính phủ mất quyền tiếp cận thị trường vĩnh viễn.
-- Thuế tối ưu bị chặn bởi năng lực thuế; theo IMF, cải cách toàn diện có thể tăng thu thêm khoảng 3 tới 5 điểm phần trăm GDP trong trung hạn.
+**Thiết lập.** Sản lượng biến động theo một quá trình khuếch tán (dao động liên tục) có thêm các bước nhảy (cú sốc đột ngột). Một phần rủi ro dao động có thể phòng ngừa được bằng các công cụ kiểu bảo hiểm theo GDP; phần nhảy vọt thì không. Chính phủ đánh thuế gây méo để tài trợ chi tiêu ngoại sinh, có quyền vỡ nợ, và được hưởng lợi suất tiện ích. Khung này tổng hợp nhiều ý tưởng kinh điển: chứng khoán Arrow và bảo hiểm theo GDP của Shiller, làm mượt thuế của Barro, vỡ nợ của Eaton–Gersovitz, lợi suất tiện ích của Krishnamurthy–Vissing-Jorgensen. Mô hình không xét cơ cấu kỳ hạn nợ, cơ cấu tiền tệ của nợ hay kỳ vọng lạm phát.
+
+**Nợ biến động thế nào.** Thay đổi của nợ/GDP theo thời gian:
+
+ḃ = [γ − τ(b)] − g·b + [r − δ + π(b/b̄)]·b + λ·b
+
+Bốn thành phần, từ trái sang phải: thâm hụt sơ cấp, tác động của tăng trưởng, chi phí lãi, và chi phí phòng ngừa.
+
+| Ký hiệu | Ý nghĩa |
+|---|---|
+| γ | Chi tiêu chính phủ / GDP (ngoại sinh) |
+| τ | Thuế suất, có gây méo |
+| g | Tăng trưởng, làm nợ/GDP giảm dần |
+| r | Lãi suất phi rủi ro toàn cầu |
+| δ | Lợi suất tiện ích: phần lãi được giảm nhờ trái phiếu là tài sản an toàn, thanh khoản |
+| π | Phần bù rủi ro tín dụng = ζ̃·(b/b̄)^ω, tăng lên khi nợ tiến gần ngưỡng |
+| ζ̃ | Tần suất cú sốc nợ nhảy vọt (theo quá trình Poisson) |
+| λ | Chi phí phòng ngừa biến động sản lượng |
+
+Một hàm ý quan trọng: khi có lợi suất tiện ích, chính phủ có động cơ **vay trước, đánh thuế sau**, vì vay đang rẻ; và nếu không có giới hạn, có thể vay tới mức vỡ nợ trở nên đáng chọn.
+
+**Ngưỡng được xác định thế nào.** Bài so hai hàm giá trị (tổng phúc lợi kỳ vọng): tiếp tục trả nợ bằng thuế gây méo, và vỡ nợ. Vỡ nợ không miễn phí: sản lượng mất một phần (1 − α), thu thuế sau đó kém hiệu quả hơn (méo thuế tăng thêm κ), và chính phủ mất quyền tiếp cận thị trường vĩnh viễn. Mức nợ bền vững tối đa là điểm mà chính phủ **bàng quan** giữa hai lựa chọn, và tại đó nợ/GDP đứng yên (ḃ = 0).
+
+**Hai phương trình đóng.** Ngưỡng tính được bằng hai công thức:
+
+1. Thuế tối ưu: τN = min{ τ̄ , (1/φ)·[ √(1 + 2φ(1 − α + γ + φκγ²/(2α))) − 1 ] }
+2. Mức nợ bền vững tối đa: b̄ = (τN − γ) / (r + ζ̃ + λ − δ − g)
+
+| Ký hiệu | Ý nghĩa |
+|---|---|
+| φ | Mức méo của thuế (tổn thất vô ích) |
+| τ̄ | Năng lực thuế tối đa khả thi về chính trị |
+| 1 − α | Tổn thất sản lượng khi vỡ nợ |
+| κ | Méo thuế tăng thêm sau khi vỡ nợ |
+
+Cách đọc công thức thứ hai: tử số là **thặng dư sơ cấp tối đa** (thuế tối ưu trừ chi tiêu); mẫu số là một dạng "r − g" đo **ngay tại ngưỡng vỡ nợ**, có thêm tần suất cú sốc, chi phí phòng ngừa và trừ đi lợi suất tiện ích. Nó khác với r − g của một năm bình thường. Logic giống như định giá một dòng tiền vĩnh viễn: giá trị bằng dòng tiền chia cho tỷ suất chiết khấu.
+
+**Ví dụ tính tay** với các tham số của nước thu nhập thấp: r = 0,9; ζ̃ = 8,2; λ = 3,0; δ = 0,1; g = 4,3 (đều tính theo %). Mẫu số = 0,9 + 8,2 + 3,0 − 0,1 − 4,3 = 7,7%. Với năng lực thuế τ̄ = 40% và chi tiêu γ ≈ 21% GDP, b̄ ≈ (40 − 21)/7,7 ≈ 250% GDP. Với τ̄ = 30% và γ ≈ 16% GDP, b̄ ≈ (30 − 16)/7,7 ≈ 180% GDP.
+
+**Chi tiêu tác động lên ngưỡng theo hình chữ V ngược.** Mức nợ bền vững tối đa theo chi tiêu γ (giá trị đọc trên hình, % GDP):
+
+| γ (% GDP) | 10 | khoảng 16 | khoảng 21 | 30 hoặc 40 |
+|---|---|---|---|---|
+| τ̄ = 30% (năng lực thuế thấp) | khoảng 112 | khoảng 182 (đỉnh) | khoảng 120 | về 0 khi γ = 30 |
+| τ̄ = 40% (năng lực thuế cao) | khoảng 112 | khoảng 182 | khoảng 250 (đỉnh) | về 0 khi γ = 40 |
+
+Hai đường trùng nhau cho tới γ ≈ 16. Bên trái đỉnh, thuế tối ưu **chưa chạm trần** τ̄: chi nhiều hơn đi kèm thuế tương lai cao hơn (vì thuế tối ưu tăng theo chi tiêu), nên khả năng trả nợ và b̄ tăng. Bên phải đỉnh, thuế đã **chạm trần**: mỗi đồng chi thêm ăn thẳng vào thặng dư, nên b̄ giảm, và về 0 khi chi tiêu bằng năng lực thuế. Mô hình giả định thuế điều chỉnh linh hoạt; thực tế tăng thuế cần luật pháp, chậm và khó, nhưng điều này không ảnh hưởng đến đánh giá dài hạn.
+
+**Năng lực thuế** chặn thuế tối ưu. Theo IMF, cải cách thuế toàn diện có thể tăng thu thêm khoảng 3 tới 5 điểm phần trăm GDP trong trung hạn.
+
+**Tổng hợp các yếu tố quyết định:**
+
+| Nhóm | Yếu tố | Tác động lên b̄ | Kênh |
+|---|---|---|---|
+| Tài khoá | Méo thuế φ cao | giảm | Thu thuế đắt hơn |
+| | Năng lực thuế τ̄ cao | tăng | Thặng dư tối đa lớn hơn |
+| | Chi tiêu γ | tăng hoặc giảm | Tuỳ thuế đã chạm trần hay chưa |
+| Vĩ mô | Lãi phi rủi ro r | giảm | Vay đắt hơn |
+| | Tần suất nợ nhảy vọt ζ̃ | giảm | Ví dụ nợ ngoài ngân sách lộ ra |
+| | Tăng trưởng g | tăng | Cơ sở thuế rộng ra |
+| | Chi phí phòng ngừa λ | giảm | Sản lượng biến động |
+| | Lợi suất tiện ích δ | tăng | Vay rẻ hơn; nhưng cũng có thể phản ánh áp chế tài chính (ép ngân hàng trong nước mua trái phiếu) |
+| Cam kết hạn chế | Tổn thất sản lượng khi vỡ nợ 1 − α | tăng | Vỡ nợ càng đau, càng ít muốn vỡ |
+| | Méo thuế sau vỡ nợ κ | tăng | Như trên |
 
 ### 4. Hiệu chỉnh
 
-- Méo thuế và méo thuế sau vỡ nợ lấy từ Jiang và cộng sự, giống nhau cho mọi nước. Chi tiêu dùng số liệu chính phủ chung chứ không chỉ trung ương.
-- Lợi suất tiện ích đặt dương nhưng nhỏ cho mọi nước vì lý do kỹ thuật: chính phủ chỉ vay trước khi có lợi suất tiện ích dương.
-- Xác suất nợ nhảy vọt được hiệu chỉnh theo đuôi của phân phối thay đổi nợ, thay vì theo thảm hoạ sản lượng như bài gốc.
-- Tổn thất vỡ nợ được ước lượng từ chênh lệch lãi hiệu dụng thay vì chênh lệch trái phiếu quốc tế, vì phản ánh đầy đủ hơn điều kiện vay, kể cả phát hành bằng nội tệ hay trái phiếu chỉ số hoá lạm phát.
+**Bình quân tham số theo nhóm nước:**
+
+| Tham số | Phát triển | Mới nổi | Thu nhập thấp |
+|---|---|---|---|
+| Năng lực thuế τ̄ (%) | 49,0 | 41,7 | 39,9 |
+| α (1 − tổn thất khi vỡ nợ, %) | 95,4 | 96,2 | 95,7 |
+| Chi tiêu γ (% GDP) | 39,3 | 29,1 | 22,9 |
+| Chi phí phòng ngừa λ (%) | 1,6 | 3,1 | 3,3 |
+| Tăng trưởng g (%) | 2,1 | 3,5 | 4,3 |
+| Tần suất nợ nhảy vọt ζ̃ (%) | 4,3 | 5,9 | 8,2 |
+| Lãi phi rủi ro r (%) | 0,9 | 0,9 | 0,9 |
+| Lợi suất tiện ích δ (%) | 0,5 cho Mỹ, Nhật, Đức; 0,1 cho các nước khác | 0,1 | 0,1 |
+| Méo thuế φ và κ | 3,7 và 1,3 | 3,7 và 1,3 | 3,7 và 1,3 |
+
+**Cách lấy từng tham số:**
+- **Méo thuế φ và méo thuế sau vỡ nợ κ** lấy từ Jiang và cộng sự, giống nhau cho mọi nước.
+- **Chi tiêu γ** dùng số liệu chính phủ chung (gồm cả địa phương), không chỉ trung ương.
+- **Năng lực thuế τ̄**: ở nước phát triển, đặt đủ cao để tạo được thặng dư sơ cấp 5% GDP (mức ở phân vị 95 của nhóm); ở nước đang phát triển, bằng thu thuế lịch sử cộng mức tăng thuế khả thi theo IMF (2023).
+- **Lãi phi rủi ro r**: lãi thực hiệu dụng của Mỹ (lãi đã trả chia nợ kỳ trước, trừ lạm phát), bình quân 2000–2029.
+- **Tăng trưởng g**: bình quân từ 2000 (riêng Nhật dùng dự báo trung hạn).
+- **Chi phí phòng ngừa λ**: độ lệch chuẩn của tăng trưởng.
+- **Lợi suất tiện ích δ** đặt dương nhưng nhỏ cho mọi nước vì một lý do kỹ thuật: trong mô hình, chính phủ chỉ vay trước khi lợi suất tiện ích dương. Mức 0,5% cho Mỹ, Nhật, Đức theo Krishnamurthy–Vissing-Jorgensen.
+- **Tần suất nợ nhảy vọt ζ̃** được hiệu chỉnh theo đuôi của phân phối thay đổi nợ: dùng phân phối Pareto cho các lần nợ/GDP tăng trên 10%. Đây là thay đổi so với bài gốc của lý thuyết p, vốn hiệu chỉnh theo các thảm hoạ sản lượng.
+- **Tổn thất vỡ nợ (qua α)**: ở nước phát triển, chọn để khớp mức nợ và chênh lệch lợi suất; ở nước đang phát triển, ước lượng từ chênh lệch lãi hiệu dụng so với Mỹ tại mức nợ bình quân; thiếu số liệu thì lấy 5%. Bài dùng chênh lệch lãi hiệu dụng thay vì chênh lệch trái phiếu quốc tế vì nó phản ánh đầy đủ hơn điều kiện vay, kể cả phát hành bằng nội tệ hay trái phiếu chỉ số hoá lạm phát.
+
+**Nghịch lý của nước đang phát triển.** Họ tăng trưởng nhanh hơn (g 4,3% ở nước thu nhập thấp so với 2,1% ở nước phát triển), điều lẽ ra làm ngưỡng nợ cao hơn. Nhưng họ cũng biến động mạnh hơn và dễ gặp cú sốc nợ nhảy vọt hơn, và hai yếu tố này lớn hơn lợi thế tăng trưởng. Kết quả là mẫu số lớn hơn, nên b̄ thấp hơn.
 
 ### 5. Kết quả
 
-- Có khác biệt lớn giữa các nước. Nước phát triển có ngưỡng cao nhờ tài chính ổn định, lợi suất tiện ích cao ở các nước quan trọng về hệ thống, biến động thấp và ít cú sốc nợ. Nước mới nổi và thu nhập thấp có ngưỡng thấp dù tăng trưởng cao hơn.
-- Khoảng cách tới ngưỡng giảm đều theo mức rủi ro trong các khung đánh giá của IMF, ở cả dài hạn, trung hạn, ngắn hạn và đánh giá bền vững, cho thấy mô hình nắm được cả rủi ro hệ thống chứ không chỉ mất cân đối nhất thời.
-- Ngưỡng tương đối ổn định theo thời gian, dao động chủ yếu do triển vọng tăng trưởng, phần bù rủi ro, lãi phi rủi ro và thay đổi chi tiêu.
-- Độ nhạy lớn nhất khi chênh lệch lãi suất–tăng trưởng ở ngưỡng hẹp.
+**Khác biệt lớn giữa các nước.** Mức nợ bền vững tối đa bình quân năm 2024 là khoảng 124% GDP ở nước phát triển, khoảng 76% ở nước mới nổi và khoảng 57% ở nước thu nhập thấp. Nước phát triển có ngưỡng cao nhờ tài chính ổn định, lợi suất tiện ích cao ở các nước quan trọng về hệ thống, biến động thấp và ít cú sốc nợ. Nước mới nổi và thu nhập thấp có ngưỡng thấp dù tăng trưởng cao hơn.
+
+54 trên 172 nước đã có nợ vượt ngưỡng năm 2024. Nếu giữ nguyên ngưỡng 2024, con số này giảm còn 49 nước vào 2029, vì 37 trong 54 nước dự kiến có nợ giảm. Nhiều nước mới nổi và thu nhập thấp khác đã sát ngưỡng, nên dư địa rất ít.
+
+**Đối chiếu với các khung đánh giá của IMF.** Khoảng cách tới ngưỡng được tính bằng b̄ trừ nợ hiện tại (% GDP); dương là còn dư địa, âm là đã vượt.
+
+Khung cho nước thu nhập thấp (LIC DSF):
+
+| Xếp hạng rủi ro | Số nước | Khoảng cách bình quân |
+|---|---|---|
+| Thấp | 7 | +28,8 |
+| Trung bình | 24 | +12,6 |
+| Cao | 21 | +3,4 |
+| Đang khó khăn về nợ | 9 | −44,0 |
+
+Khung cho nước tiếp cận thị trường (MAC SRDSF):
+
+| Đánh giá | Rủi ro thấp | Rủi ro vừa | Rủi ro cao |
+|---|---|---|---|
+| Dài hạn | 44,0 | 28,9 | 16,7 |
+| Trung hạn, cuối cùng | 50,2 | 17,3 | 2,4 |
+| Ngắn hạn, cuối cùng | 39,2 | 8,1 | −15,0 |
+| Rủi ro căng thẳng tổng thể | 48,0 | 17,4 | −17,2 |
+
+Với đánh giá bền vững (cơ học): nhóm "bền vững với khả năng cao" có khoảng cách +14,6; nhóm "bền vững nhưng không chắc" −26,6; nhóm "không bền vững" −37,4.
+
+Ở cả hai khung, khoảng cách giảm đều theo mức rủi ro, ở mọi chân trời dài hạn, trung hạn, ngắn hạn và trong đánh giá bền vững. Điều này cho thấy mô hình nắm được cả rủi ro mang tính hệ thống chứ không chỉ các mất cân đối nhất thời, và có thể dùng làm chỉ báo bổ sung.
+
+**Theo thời gian.** Bài tính lại b̄ cho các năm trước bằng các bản Triển vọng Kinh tế Thế giới tháng 10 cũ: thay đổi g, γ, r, λ theo từng năm, giữ nguyên các tham số khác. Ngưỡng tương đối ổn định, dao động chủ yếu do triển vọng tăng trưởng, phần bù rủi ro, lãi phi rủi ro và thay đổi chi tiêu. Hai ví dụ (theo số trong văn bản của bài):
+- **Brazil**: 113,6% (2014), giảm còn 91,3% (2017), dao động qua đại dịch, lên 103,3% (2024). Nợ của Brazil từng vượt ngưỡng năm 2020.
+- **Mỹ**: 160% (2014), đỉnh 213% (2018), xuống 154% (2020), rồi về gần mức trước đại dịch năm 2024.
+
+**Phân rã Shapley** cho biết yếu tố nào gây ra các thay đổi đó. Phương pháp lấy trung bình đóng góp biên của mỗi tham số qua mọi thứ tự thay đổi, nên chính xác kể cả khi quan hệ phi tuyến (nhất là khi trần thuế ràng buộc):
+- **Mỹ**: 2014–19, lãi thấp và biến động thấp làm b̄ tăng; năm 2020, biến động vọt lên, tăng trưởng co lại, chi tăng nên b̄ giảm; 2021–24, tăng trưởng hồi phục và biến động giảm nên b̄ hồi một phần.
+- **Brazil**: tăng trưởng là yếu tố chi phối, nhất là trong đợt suy thoái dài. Đáng chú ý, chi tăng lại **nâng** b̄, vì thuế tối ưu của Brazil chưa chạm trần.
+- Ở cả hai nước, cán cân sơ cấp tối ưu đóng góp ít nhất.
+
+**Độ nhạy.** Đạo hàm của ngưỡng theo lãi suất:
+
+∂b̄/∂r = − b̄ / (r + ζ̃ + λ − δ − g)
+
+Mẫu số càng nhỏ (càng gần 0), b̄ càng nhạy; và b̄ gốc càng lớn thì thay đổi tuyệt đối càng lớn. Tăng trưởng g tác động tương tự nhưng ngược dấu. Bài thử cho G20 và vài nước khác: thay đổi lãi suất ± 0,5 điểm phần trăm (bằng độ lệch chuẩn của lãi hiệu dụng của Mỹ trong 15 năm) và chi tiêu ± 1 điểm phần trăm GDP. Kết quả:
+- Trung Quốc có dải ngưỡng rất rộng (khoảng 150–300% GDP) vì mẫu số hẹp.
+- Ai Cập, Pakistan và Nigeria đã có nợ vượt ngưỡng.
+- Dấu tác động của chi tiêu tuỳ trần thuế: nước còn dư địa thuế thì chi nhiều hơn nâng b̄; nước sát trần thuế thì chi nhiều hơn hạ b̄.
+
+Nói chung, độ nhạy lớn nhất khi chênh lệch lãi suất–tăng trưởng ở ngưỡng hẹp; khi đó một thay đổi nhỏ về lãi suất có thể làm ngưỡng dịch hàng chục điểm phần trăm GDP.
 
 ### 6. Kết luận
 
-- Mức nợ bền vững do tương tác giữa nền tảng tài khoá vĩ mô, định giá tài sản và rủi ro chủ quyền quyết định. Nước phát triển có ngưỡng cao hơn nhưng vẫn dễ tổn thương trước lãi suất toàn cầu; nhiều nước mới nổi và thu nhập thấp đã vượt ngưỡng.
-- Cần đánh giá linh hoạt, theo từng nước, để định hướng chính sách tài khoá và quản lý nợ thận trọng.
+Mức nợ bền vững là kết quả của tương tác giữa nền tảng tài khoá vĩ mô (năng lực thuế, chi tiêu, tăng trưởng), định giá tài sản (lãi phi rủi ro, lợi suất tiện ích) và rủi ro chủ quyền (biến động, cú sốc nợ, chi phí vỡ nợ). Nước phát triển có ngưỡng cao hơn nhưng vẫn dễ tổn thương trước lãi suất toàn cầu, vì ngưỡng lớn đồng nghĩa với thay đổi tuyệt đối lớn khi lãi suất đổi. Nhiều nước mới nổi và thu nhập thấp đã vượt ngưỡng.
+
+Hàm ý: cần đánh giá linh hoạt, theo từng nước, để định hướng chính sách tài khoá và quản lý nợ thận trọng. Mức nợ bền vững tối đa là một chỉ báo bổ sung hữu ích, nhất là khi kết hợp với các khung đánh giá hiện có và thước đo nợ có rủi ro, chứ không phải một ngưỡng cứng để áp dụng máy móc.
 
 ## Thuật ngữ
 

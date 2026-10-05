@@ -180,80 +180,194 @@ Khuyến nghị: điều chỉnh ưu đãi theo hướng trung tính về ngân 
 
 3. **Nên sửa ưu đãi như thế nào?** Không cắt, mà điều chỉnh trung tính về ngân sách để mỗi đồng ưu đãi giảm được nhiều phát thải hơn. Trợ cấp có mục tiêu cho việc phá huỷ xe thường gây ô nhiễm nhất khi thay bằng xe điện — 5% số xe gây 15% phát thải, và thay một xe thuộc nhóm phát thải cao nhất có thể tăng mức giảm hơn ba lần. Nguồn tiền đến từ việc giới hạn mức miễn thuế giá trị gia tăng và/hoặc đánh thuế đường bộ hằng năm lên xe điện sang nhất. Việc này bổ trợ mục tiêu 100% xe mới là xe điện từ 2025.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Xe điện chạy pin và xe động cơ đốt trong (EV và ICEV).** Xe điện chạy pin chỉ dùng điện sạc vào pin, không có ống xả nên không thải khí khi chạy. Xe động cơ đốt trong là xe chạy xăng hoặc dầu diesel thông thường, trong bài gọi tắt là "xe thường". Ở Na Uy, điện gần như hoàn toàn đến từ nguồn tái tạo (chủ yếu thuỷ điện), nên khi một xe điện thay một xe thường, phần phát thải biến mất gần như trọn vẹn. Điều này làm Na Uy thành nơi lý tưởng để đo lợi ích khí hậu của xe điện.
+
+**Ưu đãi thuế (tax expenditure).** Là khoản thu mà Nhà nước chủ động bỏ qua để khuyến khích một hành vi; về ngân sách nó tương đương một khoản chi. Ví dụ: xe điện giá trung bình khoảng 525.000 NOK năm 2019; miễn thuế giá trị gia tăng 25% nghĩa là Nhà nước không thu khoảng 131.000 NOK trên mỗi xe. Tổng các khoản bỏ qua như vậy là chi phí ngân sách của chính sách xe điện.
+
+**Đội xe và thị phần xe mới.** Thị phần xe mới là tỷ lệ xe điện trong số xe bán ra trong năm; đội xe là toàn bộ xe đang lưu hành. Ví dụ ở Na Uy: khoảng 50% xe mới là xe điện, nhưng trong đội xe chỉ khoảng 9% (2019). Lý do là xe cũ dùng được nhiều năm, nên đội xe thay đổi chậm hơn nhiều so với doanh số. Phát thải phụ thuộc vào đội xe, không phải vào doanh số.
+
+**Thay thế và bổ sung.** Xe điện "thay thế" khi hộ bán hoặc bỏ xe xăng để dùng xe điện; "bổ sung" khi hộ giữ xe xăng và mua thêm xe điện. Ví dụ minh hoạ: một hộ có một xe xăng chạy 15.000 km/năm, mua thêm xe điện và chuyển 7.000 km sang xe điện; phát thải chỉ giảm gần một nửa chứ không về 0. Bài thấy khoảng hai phần ba hộ có xe điện vẫn giữ xe thường, nên mức giảm thực tế thấp hơn nhiều so với giả định "một đổi một".
+
+**Hiệu ứng cố định theo hộ (household fixed effects).** Kỹ thuật thống kê so sánh cùng một hộ trước và sau khi có xe điện, thay vì so hộ có xe điện với hộ không có. Ví dụ: hộ giàu vừa hay mua xe điện vừa hay đi nhiều; nếu so hai nhóm hộ khác nhau, ta sẽ lẫn tác động của xe điện với tác động của thu nhập. Nhờ so trong cùng hộ, con số 1,17 tấn CO2/năm phản ánh tác động của chính chiếc xe điện.
+
+**Chi phí giảm phát thải (abatement cost).** Số tiền phải bỏ ra để giảm 1 tấn CO2. Cách tính trong bài: lấy ưu đãi cho mỗi xe chia cho tổng lượng CO2 xe đó giảm được suốt đời. Ví dụ: ưu đãi khoảng 12.500 USD, giảm 1,17 tấn/năm trong 15 năm (17,55 tấn), ra khoảng 710 USD/tấn. Con số này dùng để so sánh với các chính sách khí hậu khác: chính sách nào giảm được một tấn với giá rẻ hơn thì nên ưu tiên.
+
+**Luỹ thoái (regressive).** Một chính sách là luỹ thoái nếu người thu nhập cao hưởng lợi nhiều hơn (hoặc chịu gánh nặng ít hơn, tính theo tỷ lệ thu nhập) so với người thu nhập thấp. Ví dụ: nhóm 20% thu nhập cao nhất ở Na Uy nhận gần 30% giá trị miễn thuế giá trị gia tăng cho xe điện, gần gấp ba nhóm 20% thấp nhất. Bài dùng khái niệm này để chỉ ra đánh đổi giữa mục tiêu khí hậu và mục tiêu công bằng.
+
+**Điều chỉnh trung tính về ngân sách (revenue-neutral recalibration).** Thay đổi cách thiết kế ưu đãi sao cho tổng số tiền Nhà nước bỏ ra không đổi: chỗ nào tăng hỗ trợ thì chỗ khác phải giảm tương ứng. Ví dụ minh hoạ: dùng 1 tỷ NOK thu thêm từ việc giới hạn miễn thuế cho xe điện hạng sang để trả trợ cấp phá huỷ xe xăng cũ. Đây là khung khuyến nghị chính của bài.
+
+## Nội dung chi tiết
 
 ### 1. Vì sao Na Uy là trường hợp đáng học
 
-Tỷ trọng xe điện chạy pin ở Na Uy cao hơn hẳn các nước khác nhờ ưu đãi thuế và phi thuế. Ưu đãi, trợ cấp và phí–thưởng cho xe điện xuất hiện nổi bật trong gói phục hồi Covid của nhiều nước, và xe điện thường được coi là trụ cột giảm phát thải. Na Uy cho thấy chính sách mạnh có thể điện hoá đội xe rất nhanh, và bài học đặc biệt hữu ích cho các nước dùng chủ yếu điện sạch.
+Tỷ trọng xe điện chạy pin ở Na Uy cao hơn hẳn mọi nước khác: khoảng một nửa số xe mới bán ra mỗi năm là xe điện. Kết quả này đến từ một hệ thống ưu đãi thuế và phi thuế rất hào phóng. Câu hỏi của bài có ý nghĩa vượt ra ngoài Na Uy: ưu đãi, trợ cấp và cơ chế phí–thưởng cho xe điện xuất hiện nổi bật trong gói phục hồi sau Covid của nhiều nước, và xe điện thường được coi là trụ cột của chiến lược giảm phát thải. Na Uy cho thấy chính sách mạnh có thể điện hoá đội xe rất nhanh, và bài học đặc biệt hữu ích cho các nước dùng chủ yếu điện sạch.
 
-Nghiên cứu ở Na Uy và nơi khác phần lớn cho thấy giảm giá lúc mua là ưu đãi quan trọng nhất để thúc đẩy xe điện, dù còn tranh luận về tầm quan trọng tương đối của các công cụ. Bài phân tích một công cụ: ưu đãi thuế khi mua.
+Nghiên cứu ở Na Uy và nơi khác phần lớn cho thấy giảm giá lúc mua là ưu đãi quan trọng nhất để thúc đẩy xe điện, dù vẫn còn tranh luận về tầm quan trọng tương đối của từng công cụ. Bài chỉ phân tích một công cụ: ưu đãi thuế khi mua.
 
-Hai lợi thế của Na Uy khi làm nghiên cứu này:
-- Dữ liệu chi tiết chưa từng có về toàn bộ xe con và hộ sở hữu, 2010–2019.
-- Điện gần như hoàn toàn từ nguồn tái tạo, nên chỉ cần đo phát thải ống xả.
+Na Uy có hai lợi thế cho nghiên cứu này:
+- **Dữ liệu chi tiết chưa từng có**: Cục Thống kê Na Uy có số liệu về toàn bộ xe con và hộ sở hữu giai đoạn 2010–2019, gồm cả quãng đường thực tế mỗi xe chạy.
+- **Điện gần như hoàn toàn từ nguồn tái tạo**: nên chỉ cần đo phát thải ống xả; khi xe điện thay xe thường, không có phát thải "dời" sang nhà máy điện than.
 
-Phạm vi được nói rõ: bài bỏ qua khí thải khác (NOx, bụi mịn), phát thải khi sản xuất xe điện (đôi khi cao hơn xe thường), bụi từ mài mòn lốp khi vận hành, và khả năng nhu cầu điện tăng làm giảm tỷ trọng điện tái tạo.
+Phạm vi được nói rõ: bài bỏ qua khí thải khác (NOx, bụi mịn), phát thải khi sản xuất xe điện (đôi khi cao hơn sản xuất xe thường, chủ yếu do pin), bụi từ mài mòn lốp khi vận hành, và khả năng nhu cầu điện tăng làm giảm tỷ trọng điện tái tạo.
 
 ### 2. Văn liệu trước
 
-Có đồng thuận rộng rằng trợ cấp là yếu tố quan trọng thúc đẩy doanh số xe điện ở Na Uy. Holtsmark và Skonhoft (2014) dùng một ví dụ đơn giản để lập luận rằng trợ cấp xe điện ở Na Uy giảm ít phát thải với chi phí tương đối cao. Ciccone (2018) cho thấy một cải cách thuế đăng ký trước đây làm giảm phát thải, nhờ giảm tỷ trọng xe phát thải cao và tăng tỷ trọng xe diesel. Fridstrøm (2021) tính giá các-bon ngầm định trong các ưu đãi. So với các nghiên cứu trước, bài ước lượng được mức giảm phát thải thực nghiệm và khác biệt giữa các hộ.
+Có đồng thuận rộng rằng trợ cấp là yếu tố quan trọng thúc đẩy doanh số xe điện ở Na Uy. Các nghiên cứu được dẫn:
+- **Holtsmark và Skonhoft (2014)** dùng một ví dụ đơn giản để lập luận rằng trợ cấp xe điện ở Na Uy giảm được ít phát thải với chi phí tương đối cao.
+- **Ciccone (2018)** cho thấy một cải cách thuế đăng ký trước đây đã giảm phát thải, nhờ giảm tỷ trọng xe phát thải cao và tăng tỷ trọng xe diesel.
+- **Fridstrøm (2021)** tính giá các-bon ngầm định trong các ưu đãi, tức mỗi tấn CO2 giảm được ngầm "trả" bao nhiêu.
+
+Đóng góp của bài so với các nghiên cứu trước: ước lượng được mức giảm phát thải **thực nghiệm** từ quãng đường thực tế, thay vì giả định, và đo được khác biệt giữa các loại hộ.
 
 ### 3. Sở hữu xe điện và thu nhập
 
-Doanh số xe điện tăng đều từ 2013, khi cải tiến công nghệ làm xe điện hấp dẫn hơn và một hãng xe điện lớn vào thị trường. Nhưng đội xe chuyển đổi chậm: số xe điện tăng nhanh hơn nhiều so với số xe thường giảm, nên tổng số xe tăng. Theo xu hướng hiện tại, điện hoá toàn bộ đội xe sẽ mất vài thập kỷ; mục tiêu 2025 có thể đẩy nhanh.
+**Thị phần.** Doanh số xe điện tăng đều từ 2013, khi cải tiến công nghệ làm xe điện hấp dẫn hơn và một hãng xe điện lớn vào thị trường Na Uy. Thị phần xe mới đạt khoảng 50%, cao hơn hẳn các nước so sánh. Nhưng đội xe chuyển đổi chậm: xe điện chiếm khoảng 9% đội xe năm 2019 (dữ liệu mới nhất trên 10%). Quan trọng hơn, tổng số xe con **tăng** trong 2010–2019, vì số xe điện tăng nhanh hơn nhiều so với số xe thường giảm; nghĩa là xe điện mới chỉ thay thế xe thường ở mức hạn chế. Theo xu hướng hiện tại, điện hoá toàn bộ đội xe sẽ mất vài thập kỷ; mục tiêu 100% xe mới không phát thải ống xả từ 2025 có thể đẩy nhanh quá trình này.
 
-Hộ nghèo ít có xe điện hơn, phù hợp với Fevang và cộng sự (2020). Số liệu cụ thể đã trình bày ở sơ đồ.
+**Cơ cấu hộ có xe điện (2018):**
+
+| Loại hộ | Tỷ lệ trong số hộ có xe điện |
+|---|---|
+| Chỉ có xe điện | 37% |
+| Có thêm xe thường (hai nhóm) | 46% và 17% |
+
+Tức khoảng hai phần ba hộ có xe điện vẫn giữ xe thường.
+
+**Thu nhập.** Thu nhập trung vị giai đoạn 2010–2018 của hộ có ít nhất 1 xe điện là trên 900.000 NOK, cao hơn khoảng 50% so với hộ chỉ có xe thường và gấp đôi trung vị cả nước (413.000 NOK). Hộ nghèo ít có xe điện hơn, phù hợp với kết quả của Fevang và cộng sự (2020).
+
+**Giá xe trung bình (2019):** xe điện khoảng 525.000 NOK, xe động cơ đốt trong khoảng 485.000 NOK. Xe điện đắt hơn trước thuế, nhưng sau ưu đãi thì cạnh tranh được.
 
 ### 4. Ưu đãi thuế và chi phí ngân sách
 
-Thuế đăng ký một lần với xe thường là hàm của phát thải CO2, NOx và trọng lượng. Để minh hoạ, bài tính cho một xe thường có trọng lượng và phát thải trung vị, giá bằng giá xe điện trung bình. Khi đó, miễn thuế giá trị gia tăng cộng thuế đăng ký được bỏ qua gần bằng 42% giá trước thuế, tổng cộng 0,43% GDP lục địa.
+**Ưu đãi khi mua (phần cốt lõi):**
+- **Miễn thuế giá trị gia tăng 25%**, có từ đầu những năm 2000.
+- **Không phải nộp thuế đăng ký một lần**, có từ đầu những năm 1990. Thuế này với xe thường được tính theo phát thải CO2, NOx và trọng lượng xe; xe điện không phát thải ống xả nên không phải nộp.
 
-Phần còn lại của bài bỏ qua thuế đăng ký, vì hai lý do: nó được thiết kế "xanh" nên không hẳn là ưu đãi thuế, và con số nhạy với giả định. Chính quyền Na Uy cho biết đang xem xét thay đổi cơ cấu ưu đãi, trong đó có mục tiêu kiềm chế chi phí ngân sách.
+Để minh hoạ quy mô, bài tính cho một xe thường có trọng lượng và phát thải ở mức trung vị, giá bằng giá xe điện trung bình. Khi đó, miễn thuế giá trị gia tăng cộng thuế đăng ký được bỏ qua bằng khoảng 42% giá trước thuế. Nói cách khác, ưu đãi có thể vượt 40% giá xe.
+
+**Ưu đãi khi sử dụng:**
+- Phí đăng ký xe hằng năm thấp hơn.
+- Giảm một số phí đường và phí gửi xe.
+- Được đi làn đường đặc biệt.
+- Na Uy là một trong những nước có nhiều trạm sạc công cộng nhất tính trên đầu người.
+
+**Chi phí ngân sách năm 2019 (% GDP lục địa, tức không tính dầu khí ngoài khơi):**
+
+| Khoản | Chi phí |
+|---|---|
+| Miễn thuế giá trị gia tăng (= số xe điện mới × giá trung bình × 25%) | 0,26% |
+| Cộng thêm thuế đăng ký bị bỏ qua | tổng 0,43% |
+
+Nếu không cải cách, chi phí sẽ gần gấp đôi khi toàn bộ xe mới là xe điện. Đồng thời, thu thuế xe cơ giới giảm từ khoảng 1,9% xuống 0,9% GDP lục địa trong 2010–2020, chỉ được bù một phần nhỏ vì thu thuế giá trị gia tăng tăng nhẹ.
+
+Phần còn lại của bài bỏ qua thuế đăng ký, vì hai lý do: thuế này được thiết kế "xanh" (đánh theo phát thải) nên không hẳn là ưu đãi dành riêng cho xe điện, và con số nhạy với giả định. Chính quyền Na Uy cho biết đang xem xét thay đổi cơ cấu ưu đãi, trong đó có mục tiêu kiềm chế chi phí ngân sách.
 
 ### 5. Phân phối lợi ích và phát thải
 
-Nội dung đã trình bày ở sơ đồ. Bài nhấn mạnh một đánh đổi: hộ thu nhập cao phát thải nhiều nhất, nên xe điện của họ giảm phát thải nhiều nhất, nhưng việc ưu đãi tập trung ở họ lại luỹ thoái. Bài cho rằng nên nhìn điều này trong bối cảnh chính sách xã hội rộng hơn của Na Uy. Thuế cao lên xe thường — nhất là xe gây ô nhiễm, phần lớn do hộ giàu chịu — bù trừ một phần.
+**Ai hưởng miễn thuế.** Chia hộ thành năm nhóm thu nhập bằng nhau (ngũ phân vị), nhóm 20% thu nhập cao nhất nhận gần 30% tổng giá trị miễn thuế giá trị gia tăng, gần gấp 3 lần nhóm 20% thấp nhất. Có hai lý do: hộ giàu sở hữu nhiều xe điện hơn, và miễn thuế tính trên **toàn bộ** giá xe, kể cả phụ kiện và trang bị cao cấp không có lợi ích môi trường gì. Xe càng đắt, ưu đãi càng lớn.
+
+**Ai phát thải.** Một số sự thật về phát thải từ xe con:
+- Xe con chiếm khoảng 10% tổng phát thải CO2 trong nước, khoảng 15% nếu không tính khai thác dầu khí.
+- Phát thải từ xe con đã giảm hơn 10% từ 2010, nhanh hơn tổng phát thải.
+- Nhóm thu nhập cao nhất phát thải từ xe con nhiều hơn 7 lần nhóm thấp nhất.
+- 5% số xe gây ra 15% phát thải xe con: đó là những xe tốn nhiên liệu và chạy nhiều.
+
+**Đánh đổi khí hậu – công bằng.** Vì hộ giàu phát thải nhiều nhất, xe điện của họ cũng giảm phát thải nhiều nhất; nhưng việc ưu đãi tập trung ở họ lại luỹ thoái. Bài cho rằng nên nhìn điều này trong bối cảnh chính sách xã hội rộng hơn của Na Uy, một trong những xã hội bình đẳng nhất thế giới. Ngoài ra có một yếu tố bù trừ một phần: thuế cao lên xe thường, nhất là xe gây ô nhiễm, chủ yếu do hộ giàu chịu.
 
 ### 6. Phương pháp ước lượng
 
-Phát thải của hộ phụ thuộc vào mức độ xe điện thay thế xe thường, và mức độ đó do hành vi, sở thích của hộ quyết định. Hộ chỉ có xe điện rất khác hộ có cả hai loại, vì khi đó tác động phụ thuộc vào việc xe nào được dùng nhiều hơn.
+Mức giảm phát thải của hộ khi có xe điện phụ thuộc vào việc xe điện thay thế xe thường đến đâu, và điều đó do hành vi, sở thích của hộ quyết định. Hộ chỉ có xe điện rất khác hộ có cả hai loại xe: ở hộ thứ hai, tác động phụ thuộc vào việc xe nào được dùng nhiều hơn.
 
-Mô hình: phát thải của hộ h ở đô thị m năm t = hằng số + β × số xe điện + các biến kiểm soát + hiệu ứng cố định hộ + hiệu ứng cố định đô thị–năm. Hiệu ứng cố định hộ loại bỏ đặc điểm không đổi của từng hộ, tức so sánh cùng một hộ trước và sau khi có xe điện. Hiệu ứng cố định đô thị–năm loại bỏ cú sốc chung tại nơi cư trú trong từng năm.
+**Biến phụ thuộc** là tổng phát thải CO2 (kg/năm) từ mọi xe con của hộ, tính bằng quãng đường hằng năm của từng xe nhân với phát thải trên mỗi km.
+
+**Mô hình:** phát thải của hộ h ở đô thị m năm t = hằng số + β × số xe điện + các biến kiểm soát + hiệu ứng cố định hộ + hiệu ứng cố định đô thị–năm.
+- Hiệu ứng cố định hộ loại bỏ các đặc điểm không đổi của từng hộ, nên mô hình so cùng một hộ trước và sau khi có xe điện.
+- Hiệu ứng cố định đô thị–năm loại bỏ các cú sốc chung tại nơi cư trú trong từng năm (ví dụ giá xăng tăng, một trạm thu phí mới).
+- Biến kiểm soát: tuổi và giới tính chủ hộ, số người lớn, số trẻ em, thu nhập ròng, tài sản ròng.
+
+Mẫu có N = 9.358.297 quan sát hộ–năm (hơn 9,3 triệu), độ khớp R² = 0,65 ở cả bốn đặc tả.
 
 ### 7. Kết quả
 
-Số liệu đầy đủ đã trình bày ở sơ đồ. Diễn giải của bài:
-- Hiệu ứng giảm theo số xe điện hộ sở hữu.
-- Hiệu ứng tăng theo thời gian, có thể do công nghệ làm xe điện đa năng hơn, hoặc do thay đổi hành vi.
-- Hiệu ứng lớn hơn nhiều ở hộ chỉ có xe điện.
+Kết quả hồi quy (đơn vị: kg CO2/năm; \*\*\* là có ý nghĩa ở mức 1%):
 
-Quãng đường hằng năm của xe điện thấp hơn xe thường, ngay cả sau khi kiểm soát các yếu tố gây nhiễu.
+| Đặc tả | Biến | Hệ số |
+|---|---|---|
+| (1) | Mỗi xe điện thêm | −1.172\*\*\* |
+| (2) | Xe điện thứ nhất | −1.188\*\*\* |
+| | Xe điện thứ hai | −1.083\*\*\* |
+| | Xe điện thứ ba trở đi | −288\*\*\* |
+| (3) | Xe điện, trước 2016 | −997\*\*\* |
+| | Xe điện, từ 2016 | −1.209\*\*\* |
+| (4) | Hộ chỉ có xe điện | −2.176\*\*\* |
+| | Hộ có cả xe điện và xe thường | −631\*\*\* |
+
+Để so sánh: một hộ có xe trung bình phát thải 2,3 tấn CO2/năm từ xe con. Vậy mỗi xe điện thêm giảm khoảng 1,17 tấn, tức khoảng một nửa.
+
+Các biến kiểm soát gần như không đổi giữa các đặc tả: mỗi năm tuổi của chủ hộ −15,8 kg\*\*\*; chủ hộ nữ −84 kg\*\*\*; mỗi người lớn thêm +536 kg\*\*\*; mỗi trẻ em thêm +123 kg\*\*\*; thu nhập ròng +0,01\* (có ý nghĩa ở mức 10%); tài sản ròng không có ý nghĩa. Hằng số khoảng 2.550 kg.
+
+**Diễn giải của bài:**
+- **Hiệu ứng giảm theo số xe điện hộ sở hữu.** Xe điện đầu tiên giảm 1,19 tấn, xe thứ hai 1,08 tấn, xe thứ ba trở đi chỉ 0,29 tấn: xe điện thứ ba thường là xe chạy thêm chứ không thay thế gì.
+- **Hiệu ứng tăng theo thời gian.** Xe điện có từ 2016 giảm 1,21 tấn so với 1,00 tấn trước đó, có thể do công nghệ (tầm chạy dài hơn) làm xe điện đa năng hơn, hoặc do hành vi thay đổi.
+- **Hiệu ứng lớn hơn nhiều ở hộ chỉ có xe điện**: 2,18 tấn so với 0,63 tấn ở hộ vẫn giữ xe thường. Hộ chỉ có xe điện gần như loại hẳn phát thải; hộ có cả hai loại vẫn chạy xe thường cho nhiều chuyến.
+
+Quãng đường hằng năm của xe điện thấp hơn xe thường, ngay cả sau khi đã kiểm soát các yếu tố gây nhiễu. Đây là một lý do khác khiến mức giảm phát thải thấp hơn giả định "một xe điện thay một xe thường".
 
 ### 8. Hiệu quả chi phí và tác động tổng thể
 
-Phép tính, các điều kiện làm chi phí rẻ hơn, sai số hai chiều và ước tính tổng thể đã trình bày ở sơ đồ. Bài nói rõ phép tính chỉ mang tính minh hoạ và kèm nhiều điều kiện:
+**Phép tính nhanh chi phí mỗi tấn CO2:**
+
+chi phí/tấn = ưu đãi mỗi xe ÷ (giảm phát thải mỗi năm × tuổi thọ xe)
+
+| Bước | Giá trị |
+|---|---|
+| Ưu đãi mỗi xe: 25% × 525.000 NOK | khoảng 131.000 NOK ≈ 12.500 USD |
+| Giảm phát thải suốt đời: 1,17 tấn/năm × 15 năm | 17,55 tấn |
+| Chi phí mỗi tấn CO2 (2019) | khoảng 710 USD |
+
+Bộ Tài chính Na Uy, trong ngân sách 2021, ước tính khoảng 1.400 USD/tấn khi tính **mọi** ưu đãi khi mua và sử dụng, và gọi con số đó là "nhìn chung nhất quán" với 710 USD/tấn. Theo khảo sát của Gillingham và Stock (2018), mức 710 USD thuộc nhóm cao trong văn liệu, cao hơn nhiều so với chương trình đổi xe cũ lấy tiền, thay đổi sử dụng đất hay tăng hiệu quả năng lượng.
+
+**Chi phí có thể rẻ hơn nhiều nếu ưu đãi được nhắm đúng:**
+- Nếu hộ mua xe điện và không giữ xe thường: mức giảm phát thải gần gấp đôi, nên chi phí mỗi tấn chỉ còn khoảng một nửa.
+- Nếu xe điện thay một xe thuộc nhóm 20% phát thải cao nhất: mức giảm có thể gấp hơn 3 lần. Nhưng điều này chỉ có ích nếu xe bị thay được **phá huỷ**, chứ không bán cho người khác chạy tiếp.
+
+**Sai số hai chiều.** Chi phí thực có thể **thấp hơn** vì các lợi ích không được tính: lợi thế quy mô, học hỏi qua làm (sản xuất nhiều thì giá pin giảm), hiệu ứng mạng lưới (nhiều xe điện thì nhiều trạm sạc), và "hiệu ứng trình diễn" khi nước khác học theo Na Uy. Chi phí thực cũng có thể **cao hơn** nếu xe thường bị thay được bán sang nơi khác dùng tiếp (hiệu ứng cân bằng tổng thể), tức phát thải chỉ dời chỗ.
+
+Bài nói rõ phép tính chỉ mang tính minh hoạ, với nhiều điều kiện:
 - Bỏ qua thuế đăng ký.
-- Bỏ qua khả năng không có miễn thuế thì hộ mua xe thường rẻ hơn.
-- Bỏ qua chi phí méo mó từ hệ thống thuế xe.
+- Bỏ qua khả năng nếu không có miễn thuế thì hộ sẽ mua một xe thường rẻ hơn.
+- Bỏ qua chi phí méo mó do hệ thống thuế xe gây ra.
 - Bỏ qua mọi chi phí và lợi ích gián tiếp.
 
-Tuổi thọ 15 năm là giả định. Tiến bộ công nghệ có thể làm xe điện cũ lỗi thời sớm hơn, và xe điện mới thay thế xe thường tốt hơn.
+Tuổi thọ 15 năm là giả định. Tiến bộ công nghệ có thể làm xe điện cũ lỗi thời sớm hơn (chi phí mỗi tấn cao hơn), và xe điện mới thay thế xe thường tốt hơn (chi phí thấp hơn).
+
+**Tác động tổng thể.** Nhân hệ số từng xe với số xe điện, bài ước tính: nếu 10% xe của hộ là xe điện (hơi cao hơn thực tế năm 2019) thì phát thải từ xe con chỉ thấp hơn khoảng 8% so với khi không có xe điện nào (tỷ lệ 0%). Thị phần xe mới cao không tự động thành mức giảm phát thải lớn.
 
 ### 9. Hàm ý chính sách
 
-Na Uy chứng minh chính sách mạnh có thể đẩy nhanh việc dùng xe điện với chi phí hạn chế tính theo GDP. Mỗi loại ưu đãi — miễn thuế giá trị gia tăng và thuế đăng ký bỏ qua — dưới 0,25% GDP có vẻ vừa phải cho mục tiêu xanh. Nhưng chi phí so với lợi ích môi trường trực tiếp thì cao.
+Na Uy chứng minh chính sách mạnh có thể đẩy nhanh việc dùng xe điện với chi phí hạn chế tính theo GDP. Mỗi loại ưu đãi, miễn thuế giá trị gia tăng và thuế đăng ký bỏ qua, đều dưới 0,25% GDP, có vẻ vừa phải cho một mục tiêu xanh. Nhưng so với lợi ích môi trường trực tiếp thì chi phí cao.
 
-Mức giảm phát thải của từng xe có thể tăng trong tương lai, chẳng hạn khi tầm chạy dài hơn khiến xe điện được dùng nhiều hơn. Khuyến nghị đã trình bày ở sơ đồ.
+Mức giảm phát thải của mỗi xe có thể tăng trong tương lai, chẳng hạn khi tầm chạy dài hơn khiến xe điện được dùng cho cả những chuyến đi xa.
+
+**Khuyến nghị: điều chỉnh trung tính về ngân sách**, không cắt ưu đãi mà làm cho mỗi đồng ưu đãi giảm được nhiều phát thải hơn:
+
+| Mục đích | Biện pháp |
+|---|---|
+| Tăng lợi ích môi trường | Trợ cấp có mục tiêu để phá huỷ xe cũ gây ô nhiễm khi thay bằng xe điện; kết hợp với biện pháp thuế hoặc quy định |
+| Bù nguồn thu (tăng gánh nặng thuế lên xe điện cao cấp) | Giới hạn mức miễn thuế giá trị gia tăng; và/hoặc thu thuế đường bộ hằng năm với xe điện sang nhất |
+
+Logic của gói này: 5% số xe gây 15% phát thải, nên trợ cấp nhắm vào việc loại bỏ chính những xe đó cho mức giảm lớn nhất trên mỗi đồng; còn giới hạn miễn thuế trên xe đắt tiền vừa thu lại tiền vừa giảm tính luỹ thoái. Gói này bổ trợ cho mục tiêu 100% xe mới là xe điện từ 2025. Bài đề nghị nghiên cứu tiếp bằng cùng bộ dữ liệu để xác định các tham số cụ thể.
 
 ### 10. Ý nghĩa với Việt Nam
 
-**Ưu đãi theo phần trăm giá có cùng khuyết điểm.** Việt Nam đang miễn lệ phí trước bạ và áp thuế tiêu thụ đặc biệt thấp cho ô tô điện. Cũng như miễn thuế giá trị gia tăng ở Na Uy, ưu đãi tính theo phần trăm giá cho lợi ích lớn nhất với xe đắt nhất, tức với hộ khá giả. Một mức trần tuyệt đối cho ưu đãi là cách đơn giản để giảm tính luỹ thoái mà vẫn giữ động lực.
+**Ưu đãi theo phần trăm giá có cùng khuyết điểm.** Việt Nam đang miễn lệ phí trước bạ và áp thuế tiêu thụ đặc biệt thấp cho ô tô điện. Cũng như miễn thuế giá trị gia tăng ở Na Uy, ưu đãi tính theo phần trăm giá cho lợi ích lớn nhất với xe đắt nhất, tức với hộ khá giả. Một mức trần tuyệt đối cho ưu đãi là cách đơn giản để giảm tính luỹ thoái mà vẫn giữ động lực mua xe điện.
 
-**Lợi ích khí hậu phụ thuộc vào nguồn điện.** Na Uy chọn làm nghiên cứu chính vì điện gần như hoàn toàn tái tạo — điều kiện giúp xe điện có lợi rõ nhất. Với cơ cấu điện còn nhiều than như ở Việt Nam, mức giảm CO2 trên mỗi xe điện thấp hơn. Cùng mức ưu đãi thì chi phí mỗi tấn CO2 có thể cao hơn Na Uy — dù lợi ích về bụi mịn và ô nhiễm đô thị vẫn đáng kể.
+**Lợi ích khí hậu phụ thuộc vào nguồn điện.** Na Uy được chọn làm nghiên cứu chính vì điện gần như hoàn toàn tái tạo, điều kiện giúp xe điện có lợi rõ nhất. Với cơ cấu điện còn nhiều than như ở Việt Nam, mức giảm CO2 trên mỗi xe điện thấp hơn. Cùng mức ưu đãi thì chi phí mỗi tấn CO2 có thể cao hơn Na Uy, dù lợi ích về bụi mịn và ô nhiễm đô thị vẫn đáng kể.
 
-**Đo đúng thứ cần đo.** Ngay cả ở Na Uy, khoảng hai phần ba hộ có xe điện vẫn giữ xe thường. Với Việt Nam, nơi thu nhập tăng nhanh và nhiều hộ mua ô tô đầu tiên, câu hỏi là xe điện thay cho xe xăng hay đi thêm bên cạnh xe máy. Chính sách xe điện nên gắn với loại bỏ phương tiện cũ gây ô nhiễm — đặc biệt là xe máy cũ ở đô thị — thay vì chỉ đếm số xe điện bán ra.
+**Đo đúng thứ cần đo.** Ngay cả ở Na Uy, khoảng hai phần ba hộ có xe điện vẫn giữ xe thường. Với Việt Nam, nơi thu nhập tăng nhanh và nhiều hộ mua ô tô đầu tiên, câu hỏi là xe điện thay cho xe xăng hay đi thêm bên cạnh xe máy. Chính sách xe điện nên gắn với loại bỏ phương tiện cũ gây ô nhiễm, đặc biệt là xe máy cũ ở đô thị, thay vì chỉ đếm số xe điện bán ra.
 
-**Chuẩn bị nguồn thu thay thế.** Thu thuế xe cơ giới của Na Uy giảm một nửa trong mười năm. Việt Nam dựa đáng kể vào thuế bảo vệ môi trường với xăng dầu và thuế, phí liên quan ô tô. Lộ trình điện hoá cần đi kèm kế hoạch nguồn thu, chẳng hạn phí sử dụng đường bộ theo quãng đường.
+**Chuẩn bị nguồn thu thay thế.** Thu thuế xe cơ giới của Na Uy giảm một nửa trong mười năm. Việt Nam dựa đáng kể vào thuế bảo vệ môi trường với xăng dầu và các loại thuế, phí liên quan ô tô. Lộ trình điện hoá cần đi kèm kế hoạch nguồn thu, chẳng hạn phí sử dụng đường bộ theo quãng đường.
 
 ## Thuật ngữ
 
