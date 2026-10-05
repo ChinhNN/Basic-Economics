@@ -186,61 +186,272 @@
 2. Làm sao quyết định có nên áp dụng một công nghệ mới nổi hay không, khi thông tin còn thiếu và nhiệt tình thị trường đang cao?
 3. Cần những điều kiện nào để việc áp dụng công nghệ là bền vững chứ không phải một dự án một lần?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Quản lý tài chính công (public financial management, PFM).** Toàn bộ các khâu nhà nước dùng để quản lý tiền công: lập ngân sách, thu thuế, chi tiêu, mua sắm, trả lương, quản lý nợ, kế toán, báo cáo và kiểm toán. Mục tiêu của PFM có bốn: kỷ luật tài khoá (không chi quá khả năng), hiệu quả phân bổ (tiền đi đúng ưu tiên), hiệu quả vận hành (làm việc với chi phí thấp) và minh bạch, trách nhiệm giải trình. Bài nói bốn mục tiêu này không đổi; công nghệ chỉ thay đổi cách đạt được chúng.
+
+**Hệ thống thông tin quản lý tài chính (FMIS).** Phần mềm lõi ghi lại và xử lý các giao dịch ngân sách của nhà nước: phân bổ dự toán, cam kết chi, thanh toán, kế toán và báo cáo. Theo khảo sát của Ngân hàng Thế giới tháng 12/2025, 193 nước có FMIS. Khái niệm này quan trọng vì bài xuất phát từ nghịch lý: gần như nước nào cũng có FMIS, đã có 156 dự án FMIS do Ngân hàng Thế giới tài trợ với tổng chi phí hơn 6 tỷ đô la, vậy mà phần lớn hệ thống không đáp ứng được nhu cầu.
+
+**Số hoá theo thiết kế (digital by design).** Thay vì đưa nguyên quy trình giấy tờ cũ lên máy tính, người ta thiết kế lại quy trình từ đầu để tận dụng năng lực của công nghệ mới. Ví dụ minh hoạ: số hoá một tờ trình phải qua năm chữ ký thành năm lần bấm "duyệt" trên phần mềm vẫn là quy trình cũ; số hoá theo thiết kế là hỏi xem năm bước duyệt đó còn cần không khi hệ thống đã tự kiểm tra dữ liệu. Đây là thông điệp trung tâm của bài: cạm bẫy lớn nhất là tự động hoá quy trình thủ công mà không thiết kế lại nó.
+
+**Hình nón tương lai (futures cone).** Một cách sắp xếp các kịch bản tương lai theo mức khả năng xảy ra, do Voros (2017) đề xuất: tương lai khả dĩ nhất (dễ xảy ra nhất nếu không ai làm gì khác), tương lai hợp lý (có cơ sở để xảy ra), tương lai có thể (xảy ra được nếu có nỗ lực lớn). Bài dùng khung này để đặt ba con đường cho PFM số: giữ nguyên như cũ, hiện đại hoá tiệm tiến, và đại tu chuyển đổi.
+
+**Đường cong chữ S và chu kỳ kỳ vọng thổi phồng (S curve, hype cycle).** Đường cong chữ S mô tả hiệu năng của một công nghệ: lúc đầu tăng chậm, sau đó tăng nhanh và vượt công nghệ cũ, rồi chững lại. Chu kỳ kỳ vọng thổi phồng mô tả tâm lý thị trường: sau khi công nghệ xuất hiện, kỳ vọng tăng vọt lên đỉnh, rơi xuống vực vỡ mộng, rồi mới dần đi tới giai đoạn dùng thực tế. Ví dụ minh hoạ: một công nghệ được báo chí ca ngợi năm đầu, bị chê là vô dụng ba năm sau, và chỉ tạo giá trị ổn định sau năm, bảy năm. Hai khái niệm này giúp chính phủ tránh mua công nghệ khi nó đang ở đỉnh kỳ vọng nhưng chưa trưởng thành.
+
+**Tối đa hoá giá trị (value maximization, VM = G × F).** Khung chấm điểm của bài: lấy điểm lợi ích G (từ 1 đến 10) nhân với điểm khả thi F (từ 1 đến 10), ra giá trị VM từ 1 đến 100. Ví dụ trong bài: một chương trình tự thực thi thanh toán xây dựng có G = 7,5 và F = 7,6, nên VM = 57, ở mức cao, nên áp dụng. Phép nhân có một tính chất quan trọng: chỉ cần một trong hai điểm thấp thì VM thấp, nên một công nghệ rất hấp dẫn nhưng không khả thi sẽ không được chọn.
+
+**Trọng số và tổng có trọng số.** Khi gộp nhiều tiêu chí thành một điểm, mỗi tiêu chí được nhân với một trọng số thể hiện mức quan trọng, các trọng số cộng lại bằng 1. Ví dụ trong bài: điểm khả thi gồm bốn yếu tố kỹ thuật 3, kinh tế 6, vận hành 3, tiến độ 4; nếu kinh tế có trọng số 0,4 và ba yếu tố còn lại mỗi yếu tố 0,2 thì F = 3 × 0,2 + 6 × 0,4 + 3 × 0,2 + 4 × 0,2 = 4,4. Bài nhấn mạnh trọng số do chính bộ tài chính đặt theo chiến lược của mình; nước nợ cao đặt trọng số lớn cho yếu tố kinh tế.
+
+**Phụ thuộc nhà cung cấp và bề mặt tấn công (vendor lock-in, attack surface).** Phụ thuộc nhà cung cấp là tình trạng một cơ quan dùng hệ thống độc quyền đến mức rất khó và rất tốn kém để chuyển sang nhà cung cấp khác. Bề mặt tấn công là tổng số điểm mà kẻ tấn công có thể lợi dụng để xâm nhập: mỗi chức năng, mỗi kết nối, mỗi dịch vụ đám mây thêm vào đều mở thêm một cửa. Hai khái niệm này là hai rủi ro dài hạn mà bài đặc biệt nhấn mạnh khi áp dụng công nghệ mới.
+
+## Nội dung chi tiết
 
 ### 1. Tầm nhìn cho PFM số
 
-- Bốn mục tiêu của quản lý tài chính công vẫn không đổi: kỷ luật tài khoá, hiệu quả phân bổ, hiệu quả vận hành, và minh bạch cùng trách nhiệm giải trình. Điều thay đổi là cách đạt được chúng.
-- Khái niệm trung tâm là "số hoá theo thiết kế": thay vì số hoá quy trình cũ, thiết kế lại quy trình để tận dụng năng lực mới. Bài liệt kê bảy ví dụ cụ thể, từ tác tử AI tự động hoá kiểm tra dữ liệu và phê duyệt trong lập ngân sách, tới token hoá và CBDC cho phát hành và quyết toán công cụ nợ công, và AI phân tích để phát hiện bất thường trong kiểm soát nội bộ thay cho lấy mẫu thủ công.
-- Hiện trạng: gần như mọi nước đều có một dạng hệ thống tự động hoá, thường là hệ thống thông tin quản lý tài chính. Nhưng độ phủ chức năng rất khác nhau, và quản lý đầu tư công là mảng tụt xa nhất với chỉ 86 nước có hệ thống.
-- Năm yếu điểm dai dẳng: chất lượng dữ liệu kém, silo và thiếu liên thông, kiến trúc công nghệ lỗi thời, ít dùng phân tích hiện đại, và báo cáo chậm. Bài lưu ý rằng ở một số nơi dữ liệu có sẵn nhưng không được dùng, vì cơ quan thiếu công cụ, giấy phép, năng lực hoặc chuyên môn để quản lý và diễn giải cơ sở dữ liệu lớn.
-- Các nước kém phát triển hơn chịu thêm ràng buộc về nguồn lực tài chính, hạ tầng số và kỹ năng, khiến khoảng cách số giữa nước phát triển và đang phát triển có nguy cơ nới rộng.
+**Mục tiêu không đổi, cách làm thay đổi.** Bốn mục tiêu của quản lý tài chính công vẫn như cũ: kỷ luật tài khoá, hiệu quả phân bổ, hiệu quả vận hành, và minh bạch cùng trách nhiệm giải trình. Điều thay đổi là phương tiện để đạt được chúng.
+
+**Số hoá theo thiết kế.** Khái niệm trung tâm của tầm nhìn là thiết kế lại quy trình để tận dụng năng lực mới, thay vì chỉ số hoá quy trình cũ. Bài đưa ra bảy ví dụ cụ thể về cách làm này; tiêu biểu là: tác tử AI tự động hoá việc kiểm tra dữ liệu và phê duyệt trong khâu lập ngân sách; token hoá và tiền kỹ thuật số của ngân hàng trung ương (CBDC) cho việc phát hành và quyết toán công cụ nợ công; và AI phân tích để phát hiện bất thường trong kiểm soát nội bộ, thay cho cách lấy mẫu kiểm tra thủ công.
+
+**Hiện trạng: hệ thống cũ mắc ở đâu.** Gần như mọi nước đều có một dạng hệ thống tự động hoá, thường là FMIS. Nhưng các hệ thống PFM cũ có những đặc điểm chung: cài đặt tại chỗ (trên máy chủ của cơ quan) và phải cập nhật thủ công; vận hành rời rạc, không liên thông giữa các vụ, cục; hỗ trợ từ nhà cung cấp không nhất quán. Kết quả là chi phí vận hành cao mà hiệu quả thấp.
+
+Độ phủ số hoá rất khác nhau giữa các chức năng. Theo Chỉ số Trưởng thành Công nghệ Chính phủ (GTMI) của Ngân hàng Thế giới, cập nhật tháng 12/2025:
+
+| Chức năng | Số nước có hệ thống |
+|---|---|
+| Hệ thống thông tin quản lý tài chính (FMIS) | 193 |
+| Hải quan | 191 |
+| Thuế | 187 |
+| Hưu trí | 184 |
+| Quản lý nợ | 179 |
+| Tài khoản kho bạc duy nhất (TSA) | 172 |
+| Mua sắm điện tử | 166 |
+| Trả lương | 163 |
+| Quản lý nhân sự | 163 |
+| **Quản lý đầu tư công** | **86** |
+
+Quản lý đầu tư công tụt xa nhất: chưa bằng một nửa số nước có FMIS. Đây là mảng chi tiêu lớn, nhiều rủi ro lãng phí, nhưng lại ít được số hoá nhất.
+
+**Năm yếu điểm dai dẳng:**
+
+1. Dữ liệu kém chất lượng, không đầy đủ, thiếu nhất quán.
+2. Silo: không liên thông giữa các cơ sở dữ liệu, hệ thống và cơ quan.
+3. Kiến trúc công nghệ lỗi thời, ít linh hoạt, kém an toàn.
+4. Rất ít dùng phương pháp phân tích dữ liệu hiện đại.
+5. Báo cáo chậm và cồng kềnh, không giám sát được theo thời gian thực.
+
+Bài lưu ý rằng ở một số nơi dữ liệu có sẵn nhưng không được dùng, vì cơ quan thiếu công cụ, giấy phép phần mềm, năng lực hoặc chuyên môn để quản lý và diễn giải những cơ sở dữ liệu lớn.
+
+Con số đáng suy nghĩ nhất: từ năm 1984, Ngân hàng Thế giới đã tài trợ 156 dự án FMIS với tổng chi phí vượt 6 tỷ đô la, vậy mà phần lớn hệ thống vẫn không đáp ứng được nhu cầu đang thay đổi. Vấn đề vì thế không nằm ở chỗ thiếu tiền đầu tư.
+
+Các nước kém phát triển còn chịu thêm ràng buộc về nguồn lực tài chính, hạ tầng số và kỹ năng. Nếu không có biện pháp riêng, khoảng cách số giữa nước phát triển và nước đang phát triển có nguy cơ nới rộng.
 
 ### 2. Ba kịch bản tương lai và bốn kiểu tổ chức
 
-- Khung hình nón tương lai phân loại kịch bản theo mức khả dĩ: khả dĩ nhất, hợp lý, và có thể. Bài thừa nhận khung gốc còn có kịch bản "phi lý" nhưng bỏ qua để tập trung vào lời khuyên thực tiễn.
-- Về mặt lịch sử, kịch bản giữ nguyên như cũ chiếm ưu thế trong PFM số. Nó mang lại ổn định nhưng hạn chế lợi ích, và bài cảnh báo rằng hệ thống cũ tốn kém để duy trì và dễ bị tấn công mạng vì phải vá phần mềm lỗi thời và thiếu các biện pháp bảo vệ có trong công nghệ mới.
-- Đại tu chuyển đổi có tiềm năng lớn nhất nhưng chỉ khả thi với nước đã có độ trưởng thành số cao và năng lực quản lý thay đổi hiệu quả. Với đa số, hiện đại hoá tiệm tiến là lựa chọn tốt thứ hai và thực tế hơn. Cách tiếp cận lai, đại tu một số chức năng trọng điểm theo ưu tiên và điểm đau lớn nhất, cũng có thể tạo tiến bộ đáng kể.
-- Bốn kiểu tổ chức được xếp trên một phổ song song với đường cong lan toả đổi mới của Rogers. Văn hoá tổ chức, nguồn lực sẵn có và nhận thức rủi ro quyết định vị trí trên phổ này. Điều quan trọng là các kiểu này không loại trừ nhau và không cố định: một cơ quan có thể trở nên cởi mở hơn với đổi mới bằng cách tạo môi trường khuyến khích ý tưởng mới và nhìn rủi ro như cơ hội.
-- Hai ví dụ tiên phong được nêu trong Hộp 2. Kho bạc Brazil hiện đại hoá quanh nền tảng thanh toán tức thời Pix, thăm dò đồng tiền số Drex, và tổ chức một cuộc thi lập trình năm 2023 để phát triển giải pháp dùng chứng khoán chính phủ token hoá, với tinh thần "mắc lỗi, học hỏi và trưởng thành". Kho bạc Philippines bán lô trái phiếu token hoá đầu tiên cho nhà đầu tư tổ chức tháng 11/2023, huy động 270 triệu đô la, và hướng tới việc tận dụng ứng dụng GCash phổ biến để đưa trái phiếu token hoá tới nhà đầu tư nhỏ lẻ vốn trước đây không tiếp cận được chứng khoán chính phủ.
+**Khung hình nón tương lai.** Bài dùng khung hình nón tương lai của Voros (2017), phân loại kịch bản theo mức khả dĩ: khả dĩ nhất, hợp lý và có thể. Khung gốc còn một loại nữa là kịch bản "phi lý", nhưng bài bỏ qua để tập trung vào lời khuyên thực tiễn.
+
+| Kịch bản | Nội dung | Đánh giá |
+|---|---|---|
+| Thứ nhất: Tương lai khả dĩ nhất, "giữ nguyên như cũ" | hệ thống cũ ở nguyên, cải tiến từng chút, chỉ thay đổi khi có sức ép bên ngoài như thay đổi luật | lịch sử cho thấy đây là kịch bản chiếm ưu thế; mang lại ổn định nhưng lợi ích hạn chế |
+| Thứ hai: Tương lai hợp lý, "hiện đại hoá tiệm tiến" | nâng cấp công nghệ sẵn có, xử lý điểm đau cụ thể: an ninh mạng, tự động hoá một số quy trình, mở rộng liên thông, đưa phân tích dữ liệu và trợ lý AI vào | khuyến nghị cho đa số nước: lựa chọn tốt thứ hai nhưng thực tế nhất |
+| Thứ ba: Tương lai có thể, "đại tu chuyển đổi" | AI cho lập và báo cáo ngân sách; token hoá cho quản lý tài sản; hợp đồng thông minh cho trả lương, nợ, mua sắm; Internet vạn vật (IoT) cho kiểm kê và đầu tư công; Web3 cho định danh số; tiền số cho thu chi | tiềm năng lớn nhất, nhưng chỉ khả thi với nước đã có độ trưởng thành số cao và năng lực quản lý thay đổi hiệu quả |
+
+Bài cảnh báo rằng kịch bản giữ nguyên như cũ không an toàn như vẻ ngoài: hệ thống cũ tốn kém để duy trì và dễ bị tấn công mạng, vì phải vá liên tục phần mềm lỗi thời và thiếu các lớp bảo vệ có sẵn trong công nghệ mới.
+
+Ngoài ba con đường thuần, **cách tiếp cận lai** cũng hợp lệ: đại tu một vài chức năng trọng điểm, chọn theo ưu tiên và theo điểm đau lớn nhất, còn phần còn lại đi theo hiện đại hoá tiệm tiến. Cách này có thể tạo tiến bộ đáng kể mà không đòi hỏi mọi điều kiện của một cuộc đại tu toàn diện.
+
+**Khung thời gian cho một cuộc đại tu: 10–20 năm.** Bài ước tính một cuộc đại tu chuyển đổi cần 10–20 năm, vì phải hội đủ bốn điều kiện, mỗi điều kiện có tốc độ riêng:
+
+| Điều kiện | Thời gian cần |
+|---|---|
+| Thứ nhất: Sẵn sàng công nghệ | tiến bộ đáng kể trong 5–10 năm |
+| Thứ hai: Ý chí chính trị | nước chậm có thể mất hơn 15 năm |
+| Thứ ba: Năng lực thể chế | từ 5 đến hơn 20 năm |
+| Thứ tư: Nguồn lực | nước mong manh và xung đột khó đạt được trong 10 năm |
+
+**Bốn kiểu tổ chức.** Phỏng theo đường cong lan toả đổi mới của Rogers (1983), bài xếp các cơ quan trên một phổ:
+
+| Kiểu | Hành vi |
+|---|---|
+| Người tiên phong | chủ động tìm công nghệ mới, chấp nhận rủi ro |
+| Áp dụng chủ động | theo dõi xu hướng, áp dụng cái đã được thử nghiệm |
+| Áp dụng phản ứng | ngại rủi ro, chờ người khác chứng minh trước |
+| Áp dụng thụ động | chỉ thay đổi khi luật bắt buộc |
+| (Không áp dụng) | vẫn làm chủ yếu bằng tay |
+
+Văn hoá tổ chức, nguồn lực sẵn có và nhận thức về rủi ro quyết định vị trí của một cơ quan trên phổ này. Điều quan trọng là các kiểu không loại trừ nhau và không cố định: một cơ quan có thể trở nên cởi mở hơn với đổi mới bằng cách tạo môi trường khuyến khích ý tưởng mới và nhìn rủi ro như cơ hội.
+
+**Hai ví dụ tiên phong.**
+
+- **Kho bạc Brazil** hiện đại hoá quanh nền tảng thanh toán tức thời Pix, thăm dò đồng tiền số Drex, và tổ chức một cuộc thi lập trình năm 2023 để phát triển giải pháp dùng chứng khoán chính phủ token hoá, với tinh thần "mắc lỗi, học hỏi và trưởng thành".
+- **Kho bạc Philippines** bán lô trái phiếu token hoá đầu tiên cho nhà đầu tư tổ chức vào tháng 11/2023, huy động 270 triệu đô la. Kho bạc hướng tới việc dùng ứng dụng GCash, vốn rất phổ biến, để đưa trái phiếu token hoá tới nhà đầu tư nhỏ lẻ, những người trước đây không tiếp cận được chứng khoán chính phủ.
 
 ### 3. Xu hướng áp dụng và bản đồ công nghệ theo nhiệm vụ
 
-- Tính đến 2025, 112 trong 198 nước khảo sát đã có chiến lược quốc gia về công nghệ mới nổi, trải khắp mọi khu vực và mức thu nhập, bao gồm Bangladesh, Benin, Rwanda, Uganda và Việt Nam. Hơn 100 nước đã phê duyệt chiến lược quốc gia về AI, 20 nước nữa dự kiến trong ba năm tới.
-- Trong chính mảng PFM, mức áp dụng còn thấp. Khảo sát OECD năm 2022 cho thấy chưa tới một phần tư các vụ ngân sách và kế toán dùng AI, tự động hoá quy trình bằng robot hay điện toán đám mây, dù đa số đang cân nhắc. Bằng chứng giai thoại cho thấy bộ tài chính chủ yếu thăm dò AI như công cụ hỗ trợ chứ chưa phải thay thế quy trình.
-- Bài trình bày năm bảng ánh xạ công nghệ vào nhiệm vụ cụ thể thay vì liệt kê công nghệ. Các ví dụ thực tế đáng chú ý: Bộ Tài chính UAE tự động hoá 63 quy trình và quy trình con bằng robot; Brazil dùng xử lý ngôn ngữ tự nhiên để phân loại chi tiêu theo chức năng, giảm thời gian từ 1.000 giờ xuống còn 8 giờ; Rwanda thăm dò học máy để phân loại dòng ngân sách chính xác hơn; Paraguay xây hệ thống trên kiến trúc vi dịch vụ; Honduras dùng Kubernetes để triển khai và tích hợp kiểm tra an ninh vào quy trình phát triển; Bộ Tài chính Georgia xây nguyên mẫu AI quản lý rủi ro thanh toán kho bạc với 42 mô hình học máy phân tích dữ liệu lịch sử trong "kênh xanh" tự động và cải thiện chất lượng rà soát trong "kênh đỏ"; Kazakhstan thí điểm CBDC cho một chương trình trợ cấp; Mexico công bố danh mục đầu tư công trên nền tảng định vị địa lý; Nam Phi và Uruguay công bố dữ liệu ngân sách theo chuẩn Open Fiscal Data Package.
-- Bài nhấn mạnh một điểm hạ tầng thường bị bỏ qua: kiến trúc hệ thống. Các thành phần liên kết lỏng và tối ưu hoá đa đám mây cho phép hiện đại hoá liên tục từng phần thay vì thay thế toàn bộ, tránh việc hệ thống trở nên lỗi thời và làm tăng chi phí bảo trì cùng lỗ hổng.
+**Chiến lược quốc gia.** Tính đến 2025, 112 trong số 198 nước được khảo sát đã có chiến lược quốc gia về công nghệ mới nổi, trải khắp mọi khu vực và mọi mức thu nhập, trong đó có Bangladesh, Benin, Rwanda, Uganda và Việt Nam. Hơn 100 nước đã phê duyệt chiến lược quốc gia về AI, và 20 nước nữa dự kiến làm điều đó trong ba năm tới.
+
+**Trong chính mảng PFM, mức áp dụng còn thấp.** Khảo sát OECD năm 2022 cho thấy chưa tới một phần tư các vụ ngân sách và kế toán dùng AI, tự động hoá quy trình bằng robot (RPA) hay điện toán đám mây, dù đa số đang cân nhắc. Bằng chứng giai thoại cho thấy bộ tài chính chủ yếu thăm dò AI như một công cụ hỗ trợ, chưa phải để thay thế quy trình.
+
+**Bản đồ công nghệ theo nhiệm vụ.** Thay vì liệt kê công nghệ, bài trình bày năm bảng ánh xạ từng công nghệ vào nhiệm vụ PFM cụ thể. Các ví dụ thực tế đáng chú ý:
+
+| Nước | Ứng dụng |
+|---|---|
+| UAE | Bộ Tài chính tự động hoá 63 quy trình và quy trình con bằng robot |
+| Brazil | dùng xử lý ngôn ngữ tự nhiên để phân loại chi tiêu theo chức năng, giảm thời gian từ 1.000 giờ xuống 8 giờ |
+| Rwanda | thăm dò học máy để phân loại các dòng ngân sách chính xác hơn |
+| Paraguay | xây hệ thống trên kiến trúc vi dịch vụ (chia hệ thống thành nhiều dịch vụ nhỏ độc lập) |
+| Honduras | dùng Kubernetes để triển khai, và tích hợp kiểm tra an ninh vào quy trình phát triển (DevSecOps) |
+| Georgia | Bộ Tài chính xây nguyên mẫu AI quản lý rủi ro thanh toán kho bạc, với 42 mô hình học máy phân tích dữ liệu lịch sử; khoản thanh toán rủi ro thấp đi "kênh xanh" tự động, còn "kênh đỏ" được rà soát kỹ hơn và chất lượng hơn |
+| Kazakhstan | thí điểm CBDC cho một chương trình trợ cấp |
+| Mexico | công bố danh mục đầu tư công trên nền tảng định vị địa lý |
+| Nam Phi, Uruguay | công bố dữ liệu ngân sách theo chuẩn Open Fiscal Data Package |
+
+Ví dụ của Brazil cho thấy quy mô lợi ích có thể rất lớn: một việc trước đây tốn 1.000 giờ người nay chỉ còn 8 giờ, tức giảm hơn 99%.
+
+**Kiến trúc hệ thống.** Bài nhấn mạnh một điểm hạ tầng thường bị bỏ qua. Nếu hệ thống được xây từ các thành phần liên kết lỏng (mỗi phần độc lập, giao tiếp qua giao diện chuẩn) và tối ưu hoá đa đám mây (dùng nhiều nhà cung cấp đám mây), thì có thể hiện đại hoá liên tục từng phần thay vì phải thay cả hệ thống một lần. Cách này tránh tình trạng hệ thống lỗi thời theo khối, kéo theo chi phí bảo trì tăng và lỗ hổng an ninh.
 
 ### 4. Độ trưởng thành và nhiệt tình đầu cơ
 
-- Thiếu độ trưởng thành là lý do thường gặp nhất khiến tổ chức từ chối công nghệ mới, vì công nghệ non trẻ đi kèm khiếm khuyết vốn có sẽ giảm dần khi trưởng thành.
-- Đường cong chữ S cho thấy hiệu năng của một công nghệ tăng chậm khi mới ra đời, rồi tăng nhanh và vượt công nghệ hiện hành. Thách thức với chính phủ là xác định đúng thời điểm chuyển đổi trong giai đoạn gián đoạn này để thu được giá trị lớn nhất.
-- Chu kỳ kỳ vọng thổi phồng bổ sung một chiều khác: kích hoạt đổi mới, đỉnh kỳ vọng thổi phồng, vực vỡ mộng, dốc khai sáng, cao nguyên năng suất. Bài cảnh báo rằng nhà cung cấp công nghệ có thể đưa ra lời hứa phóng đại và tạo cảm giác cấp bách để thúc đẩy việc mua sắm.
-- Một cảnh báo phương pháp quan trọng: các phân tích tập trung vào xu hướng ngành có thể bỏ sót sắc thái riêng của PFM. Ví dụ thị giác máy tính được xếp ở cao nguyên năng suất theo đánh giá chung, nhưng trong PFM nó vẫn có rất ít tình huống sử dụng và chưa đạt trạng thái đó.
+**Độ trưởng thành.** Lý do thường gặp nhất khiến tổ chức từ chối công nghệ mới là công nghệ chưa trưởng thành. Công nghệ non trẻ có những khiếm khuyết vốn có, chỉ giảm dần khi nó trưởng thành.
+
+**Đường cong chữ S.** Hiệu năng của một công nghệ tăng chậm khi mới ra đời, rồi tăng nhanh và vượt công nghệ đang dùng. Thách thức với chính phủ là chọn đúng thời điểm chuyển đổi trong giai đoạn gián đoạn này: chuyển quá sớm thì gánh khiếm khuyết của công nghệ non, chuyển quá muộn thì bỏ lỡ giá trị và tiếp tục trả chi phí cho công nghệ cũ.
+
+**Chu kỳ kỳ vọng thổi phồng** bổ sung chiều tâm lý thị trường, gồm năm giai đoạn:
+
+1. kích hoạt đổi mới;
+2. đỉnh kỳ vọng thổi phồng;
+3. vực vỡ mộng;
+4. dốc khai sáng;
+5. cao nguyên năng suất.
+
+Bài cảnh báo rằng nhà cung cấp công nghệ có thể đưa ra lời hứa phóng đại và tạo cảm giác cấp bách để thúc đẩy việc mua sắm, đặc biệt khi công nghệ đang ở gần đỉnh kỳ vọng.
+
+**Cảnh báo phương pháp.** Các phân tích dựa trên xu hướng chung của ngành công nghệ có thể bỏ sót đặc thù của PFM. Ví dụ: thị giác máy tính được xếp ở cao nguyên năng suất theo đánh giá chung, nhưng trong PFM nó vẫn có rất ít tình huống sử dụng và chưa đạt trạng thái đó. Một công nghệ trưởng thành ở nơi khác chưa chắc đã trưởng thành cho bộ tài chính.
 
 ### 5. Cách tiếp cận tối đa hoá giá trị
 
-- Công thức là tích của điểm lợi ích và điểm khả thi, mỗi điểm nằm trong khoảng từ một đến mười, cho giá trị cuối từ một đến một trăm. Bài nói rõ rằng công thức không cần áp dụng trong mọi trường hợp; nó là khung khái niệm để cấu trúc và dẫn dắt việc ra quyết định.
-- Điểm lợi ích tổng hợp sáu nhóm: quy trình, đầu ra, kết quả, trách nhiệm giải trình, an ninh, và sẵn sàng tương lai. Điều quan trọng là trọng số phản ánh ưu tiên chiến lược của chính tổ chức. Nước muốn cải thiện minh bạch tài khoá sẽ đặt trọng số cao cho trách nhiệm giải trình; nước vừa bị lộ dữ liệu sẽ ưu tiên an ninh.
-- Điểm khả thi tổng hợp bốn yếu tố: kỹ thuật, kinh tế, vận hành, tiến độ. Bài khuyên chấm điểm khả thi với tầm nhìn dài hạn, tính tới hàm ý bảo trì, để tránh việc vội vàng áp dụng vì nhiệt tình đầu cơ hoặc vì tư duy "giải pháp đi tìm vấn đề".
-- Một cảnh báo được minh hoạ bằng ví dụ thực: hệ thống trả lương Phoenix của Canada, vốn nhằm tiết kiệm chi phí và nâng hiệu quả, cuối cùng bị Tổng Kiểm toán kết luận là "kém hiệu quả hơn và tốn kém hơn hệ thống 40 năm tuổi mà nó thay thế", do quản lý dự án yếu kém, thiếu chức năng quan trọng, kiểm thử không đầy đủ, ít tham vấn người dùng và thiếu giám sát.
-- Bài nhấn mạnh rằng để tối đa hoá giá trị, việc áp dụng công nghệ phải đi kèm với đánh giá lại và thiết kế lại quy trình nghiệp vụ cùng cải cách pháp lý. Cạm bẫy phổ biến là tự động hoá nhiệm vụ thủ công mà không xem xét lại chính quy trình dưới ánh sáng của năng lực công nghệ mới. Một ví dụ cụ thể về rào cản pháp lý là việc chấp nhận hồ sơ số làm chứng từ hợp pháp cho mục đích kiểm toán, khi chưa được chấp nhận thì buộc phải duy trì quy trình thủ công gồm cả trao đổi giấy tờ vật lý.
+**Công thức.** Giá trị VM = G × F, trong đó G là điểm lợi ích và F là điểm khả thi, mỗi điểm từ 1 đến 10, nên VM từ 1 đến 100. Bài nói rõ công thức không bắt buộc áp dụng trong mọi trường hợp; nó là một khung khái niệm để cấu trúc và dẫn dắt việc ra quyết định.
+
+**Điểm lợi ích G** là tổng có trọng số của sáu nhóm lợi ích:
+
+| Nhóm lợi ích | Nội dung |
+|---|---|
+| Thứ nhất: Quy trình | tự động hoá việc lặp lại, tiết kiệm chi phí |
+| Thứ hai: Đầu ra | dữ liệu sẵn có hơn, đáng tin hơn |
+| Thứ ba: Kết quả | ra quyết định dựa trên dữ liệu, dịch vụ công tốt hơn |
+| Thứ tư: Trách nhiệm giải trình | minh bạch hơn, ít khả năng bóp méo dữ liệu |
+| Thứ năm: An ninh | thay công nghệ cũ đã hết hỗ trợ, vốn là lỗ hổng |
+| Thứ sáu: Sẵn sàng tương lai | chuẩn bị cho các thay đổi tiếp theo |
+
+Trọng số do chính bộ tài chính đặt, cộng lại bằng 1, và phải gắn với chiến lược của tổ chức. Nước muốn cải thiện minh bạch tài khoá sẽ đặt trọng số cao cho trách nhiệm giải trình; nước vừa bị lộ dữ liệu sẽ ưu tiên an ninh.
+
+**Điểm khả thi F** là tổng có trọng số của bốn yếu tố:
+
+| Yếu tố | Câu hỏi |
+|---|---|
+| Thứ nhất: Kỹ thuật | công nghệ có phù hợp mục đích không, đã đủ trưởng thành chưa, có tương thích với hệ thống hiện có không |
+| Thứ hai: Kinh tế | chi phí ban đầu và bảo trì so với khoản tiết kiệm; tỷ suất hoàn vốn |
+| Thứ ba: Vận hành | gián đoạn quy trình, nhu cầu đào tạo, thay đổi luật, quản lý thay đổi |
+| Thứ tư: Tiến độ | thời gian triển khai có thực tế không |
+
+Trọng số khả thi cũng do hoàn cảnh quyết định; ví dụ nước nợ cao đặt trọng số lớn cho yếu tố kinh tế. Bài khuyên chấm điểm khả thi với tầm nhìn dài hạn, tính cả hàm ý bảo trì, để tránh vội vàng áp dụng vì nhiệt tình đầu cơ hoặc vì tư duy "giải pháp đi tìm vấn đề" (có công nghệ trước rồi mới đi tìm chỗ dùng).
+
+**Ngưỡng đánh giá:**
+
+- G hoặc F từ 4 trở xuống là thấp; từ 7 trở lên là cao.
+- VM dưới 30 là thấp; trên 50 là cao.
+
+**Ma trận lợi ích – khả thi.** Kết hợp hai điểm cho bốn góc phần tư:
+
+| | Khả thi thấp | Khả thi cao |
+|---|---|---|
+| **Lợi ích cao** | Góc II: cân nhắc, thận trọng; làm thí điểm theo giai đoạn; VM khoảng 5–50 | Góc I: nên áp dụng; VM khoảng 30–100 |
+| **Lợi ích thấp** | Góc III: chờ công nghệ trưởng thành, hoặc cải cách thể chế trước; VM khoảng 1–25 | Góc IV: áp dụng nhưng đừng kỳ vọng quá nhiều; VM khoảng 5–50 |
+
+**Ví dụ tính toán: hợp đồng thông minh cho thanh toán xây dựng.** Bối cảnh giả định là một nước có nợ công cao, vừa công bố chiến lược chuyển đổi số năm 2024; bộ tài chính có Kế hoạch Năm năm hiện đại hoá PFM nhưng không sẵn sàng chấp nhận rủi ro lớn. Vấn đề: thanh toán theo tiến độ công trình đang làm thủ công, cán bộ mua sắm phải xác nhận từng mốc, gây chậm trễ và sai sót. Bài so sánh ba phương án.
+
+*Phương án A: hợp đồng thông minh trên blockchain.* Hợp đồng tự động chi tiền khi điều kiện được ghi nhận trên chuỗi khối.
+
+- Lợi ích: giảm 50% thời gian xử lý, tiết kiệm 15% chi phí hành chính. Điểm thành phần: quy trình 9, đầu ra 8, kết quả 7, trách nhiệm giải trình 7. Kết quả G = 7,75.
+- Khả thi: không hệ thống nào hiện có dùng blockchain và công nghệ chưa trưởng thành (kỹ thuật 3); chi phí ban đầu 100.000 đô la, tiết kiệm 50.000 đô la mỗi năm, nhưng chi phí tích hợp chưa rõ (kinh tế 6); chưa có khung pháp lý cho hợp đồng thông minh (vận hành 3); cần hơn 18 tháng (tiến độ 4). Vì nợ cao, trọng số kinh tế là 0,4. Kết quả F = 4,4.
+- VM: bài ghi VM = 7,75 × 4,4 = 33 (phép nhân chính xác cho khoảng 34,1; cả hai con số đều cho cùng kết luận). Phương án nằm ở góc phần tư II.
+- Quyết định: chưa áp dụng; hợp tác với nhà cung cấp và viện nghiên cứu để lấp khoảng trống khả thi trước.
+
+*Phương án B: chương trình tự thực thi trên nền tảng sẵn có, không dùng blockchain.* Quy trình: nhà thầu báo hoàn thành mốc, hệ thống báo cho cán bộ, cán bộ duyệt, rồi hệ thống kích hoạt thanh toán từ kho bạc.
+
+- G = 7,5: lợi ích quy trình thấp hơn một chút vì vẫn còn bước duyệt thủ công, nhưng có nhật ký kiểm toán, phân quyền và chữ ký số.
+- F = 7,6: dễ tích hợp, công nghệ trưởng thành, không vướng pháp lý, triển khai nhanh.
+- VM = 57, góc phần tư I: áp dụng.
+
+*Phương án B kết hợp AI phát hiện bất thường.* AI so sánh tiến độ báo cáo với lịch trình và lịch sử của nhà thầu, cảnh báo sai lệch, và làm bước kiểm tra lần cuối trước khi tiền được chuyển đi.
+
+- G = 8,75: điểm trách nhiệm giải trình tăng 2 nhờ chống gian lận chủ động.
+- F = 7,2: điểm kỹ thuật và điểm tiến độ mỗi thứ giảm 1.
+- VM = 63, cao nhất trong ba phương án.
+- Quyết định: áp dụng cả hai nhưng theo giai đoạn, làm chương trình tự thực thi trước, tích hợp AI sau.
+
+Bài học của ví dụ: công nghệ "mới nhất" (blockchain) không thắng. Cùng một mục tiêu đạt được tốt hơn bằng công nghệ đã trưởng thành, và AI chỉ thêm giá trị khi đặt lên một nền tảng đã chạy ổn.
+
+**Bài học từ thất bại: hệ thống trả lương Phoenix của Canada.** Hệ thống này được xây để tiết kiệm chi phí và nâng hiệu quả, nhưng cuối cùng bị Tổng Kiểm toán kết luận là "kém hiệu quả hơn và tốn kém hơn hệ thống 40 năm tuổi mà nó thay thế". Nguyên nhân: quản lý dự án yếu kém, thiếu chức năng quan trọng, kiểm thử không đầy đủ, ít tham vấn người dùng và thiếu giám sát.
+
+**Công nghệ phải đi cùng thiết kế lại quy trình và cải cách pháp lý.** Để tối đa hoá giá trị, việc áp dụng công nghệ phải đi kèm đánh giá lại, thiết kế lại quy trình nghiệp vụ và cải cách pháp lý. Cạm bẫy phổ biến là tự động hoá nhiệm vụ thủ công mà không xem xét lại chính quy trình dưới ánh sáng năng lực công nghệ mới. Ví dụ cụ thể về rào cản pháp lý: nếu luật chưa chấp nhận hồ sơ số là chứng từ hợp pháp cho mục đích kiểm toán, cơ quan buộc phải giữ song song quy trình thủ công, kể cả việc trao đổi giấy tờ vật lý, và mất phần lớn lợi ích của hệ thống số.
 
 ### 6. Rủi ro và cây quyết định
 
-- Bảy nhóm rủi ro kèm biện pháp giảm thiểu: an ninh mạng, quyền riêng tư và chủ quyền dữ liệu, pháp lý và quy định, thiếu hụt kỹ năng và tri thức, đạo đức, quản lý thay đổi, phụ thuộc nhà cung cấp, và khả năng liên thông.
-- Rủi ro phụ thuộc nhà cung cấp được nhấn mạnh riêng: phụ thuộc vào hệ thống độc quyền và khó chuyển đổi nhà cung cấp, cộng thêm khả năng nhà cung cấp mất ổn định hoặc bị mua lại, nhất là khi làm việc với công ty khởi nghiệp. Giải pháp gồm chiến lược đa nhà cung cấp, bảo đảm khả năng di chuyển dữ liệu qua chuẩn mở, và đàm phán điều khoản cấp phép linh hoạt cùng điều khoản thoát.
-- Rủi ro đạo đức gồm thiên lệch thuật toán và nguy cơ kết quả phân biệt đối xử trong ra quyết định tự động, xử lý bằng bộ quy tắc đạo đức, uỷ ban đạo đức, kiểm toán đạo đức định kỳ được công bố, và đào tạo.
-- Cây quyết định trong Hình 10 bắt đầu từ hai tác nhân kích hoạt: một mục tiêu PFM cụ thể, hoặc một rủi ro số. Nó dẫn qua các câu hỏi: lợi ích kỳ vọng đã được xác định và đo lường được chưa; lý thuyết thay đổi có trung lập về công nghệ không, nếu có thì cải cách quy trình hoặc pháp lý có thể giải quyết vấn đề mà không cần công nghệ mới; có bằng chứng loại công nghệ này giúp được mục tiêu không; công nghệ đã trưởng thành chưa; tổ chức có hạ tầng và kỹ năng cần thiết không. Mỗi nhánh dẫn tới một khuyến nghị khác nhau, từ áp dụng ngay tới nâng cấp kỹ năng, xây phòng thí nghiệm thử nghiệm, hoặc tìm giải pháp khác.
+**Các nhóm rủi ro.** Bài liệt kê các nhóm rủi ro kèm biện pháp giảm thiểu:
+
+- an ninh mạng;
+- quyền riêng tư và chủ quyền dữ liệu;
+- pháp lý và quy định;
+- thiếu hụt kỹ năng và tri thức;
+- đạo đức;
+- quản lý thay đổi;
+- phụ thuộc nhà cung cấp;
+- khả năng liên thông.
+
+**Phụ thuộc nhà cung cấp** được nhấn mạnh riêng. Rủi ro gồm việc phụ thuộc vào hệ thống độc quyền, khó chuyển sang nhà cung cấp khác, cộng thêm khả năng nhà cung cấp mất ổn định hoặc bị mua lại, nhất là khi làm việc với công ty khởi nghiệp. Biện pháp: chiến lược đa nhà cung cấp; bảo đảm có thể chuyển dữ liệu đi nơi khác nhờ chuẩn mở; đàm phán điều khoản cấp phép linh hoạt và điều khoản thoát hợp đồng.
+
+**Rủi ro đạo đức** gồm thiên lệch thuật toán và nguy cơ kết quả phân biệt đối xử khi máy ra quyết định tự động. Biện pháp: bộ quy tắc đạo đức, uỷ ban đạo đức, kiểm toán đạo đức định kỳ có công bố kết quả, và đào tạo.
+
+**Cây quyết định.** Bài đề xuất một cây quyết định bắt đầu từ một trong hai tác nhân kích hoạt: một mục tiêu PFM cụ thể cần đạt, hoặc một rủi ro số cần xử lý. Từ đó, người ra quyết định đi qua lần lượt các câu hỏi:
+
+1. Lợi ích kỳ vọng đã được xác định và đo lường được chưa?
+2. Lý thuyết thay đổi có trung lập về công nghệ không? Nếu có, tức là vấn đề có thể giải quyết bằng cải cách quy trình hoặc pháp lý mà không cần công nghệ mới.
+3. Có bằng chứng loại công nghệ này giúp đạt được mục tiêu không?
+4. Công nghệ đã trưởng thành chưa?
+5. Tổ chức có hạ tầng và kỹ năng cần thiết không?
+
+Mỗi nhánh dẫn tới một khuyến nghị khác nhau: áp dụng ngay, nâng cấp kỹ năng trước, xây phòng thí nghiệm thử nghiệm, hoặc tìm giải pháp khác không dựa vào công nghệ đó.
 
 ### 7. Áp dụng bền vững
 
-- Mười thực hành được đề xuất: thiết lập tầm nhìn và chiến lược rõ ràng; chú trọng trải nghiệm người dùng qua sự tham gia; bảo đảm nguồn tài trợ bền vững; dự đoán và quản lý sự phản kháng; xây dựng và giữ chân năng lực cùng kỹ năng; tuân thủ khả năng liên thông và chuẩn; áp dụng phương pháp linh hoạt và phát triển lặp; hợp tác và tìm đối tác; giảm thiểu rủi ro an ninh và bảo đảm quyền riêng tư dữ liệu; và theo dõi các công nghệ mới nổi tiếp theo.
-- Về con người, bài nhấn mạnh rằng hiểu biết quy trình nghiệp vụ từ góc nhìn của bộ tài chính không thể thay thế việc tiếp xúc trực tiếp với người dùng thực tế, tức những người vận hành hệ thống để thực hiện giao dịch hoặc lập báo cáo.
-- Một vấn đề phổ biến ở nước đang phát triển được nêu thẳng: nhà cung cấp cài đặt và triển khai hệ thống mới, rồi khi dự án kết thúc, chính nhân viên công nghệ thông tin của cơ quan phải hỗ trợ tuyến đầu dù không được đào tạo riêng về hệ thống đó và hiểu biết hạn chế về chức năng của nó. Hậu quả có thể là mất dữ liệu, đưa dữ liệu sai vào hệ thống, hoặc an ninh bị tổn hại dẫn tới gian lận và trộm cắp.
-- Về an ninh, bài đưa ra một quan sát cấu trúc quan trọng: hệ thống càng nhiều năng lực và càng phức tạp thì "bề mặt tấn công" càng lớn. Mỗi năng lực và cơ chế mới, từ hệ thống dữ liệu lớn tới blockchain tới tài nguyên đám mây, đều làm tăng khả năng bị tấn công, dù do bất cẩn hay thiếu hiểu biết của người triển khai, do lỗi ẩn trong phần mềm thương mại, do cấu hình sai, hay do tấn công phi kỹ thuật.
-- Về môi trường thử nghiệm an toàn, Phụ lục 1 nêu ba hình thức: phòng thí nghiệm đổi mới của chính phủ, với ví dụ 18F Lab của Hoa Kỳ đã hỗ trợ 34 cơ quan hoàn thành 455 dự án trong mười năm; hộp cát quản lý, với ví dụ chương trình Giấy phép Thử nghiệm Đổi mới của Cơ quan Dịch vụ Tài chính Dubai và hộp cát fintech của Cơ quan Tiền tệ Singapore; và bãi thử công nghệ, với ví dụ Trung tâm Dự án Trí tuệ Tiên tiến RIKEN của Nhật Bản.
-- Kết luận nhấn mạnh rằng chuyển đổi số PFM đòi hỏi giám sát và cải tiến liên tục cả công nghệ lẫn quy trình. Trước đây hệ thống được xây để tồn tại nhiều năm chỉ với bảo trì; nay bối cảnh công nghệ thay đổi ngày càng nhanh. Bài đề xuất thiết lập cơ chế thẩm định và hiệu chỉnh sau triển khai, tức vòng phản hồi so sánh kết quả thực tế với điểm số đã dự đoán, và điều chỉnh trọng số cùng điểm số dựa trên bài học cho các dự án sau.
+**Mười thực hành được đề xuất:**
+
+1. thiết lập tầm nhìn và chiến lược rõ ràng;
+2. chú trọng trải nghiệm người dùng thông qua sự tham gia của họ;
+3. bảo đảm nguồn tài trợ bền vững;
+4. dự đoán và quản lý sự phản kháng;
+5. xây dựng và giữ chân năng lực, kỹ năng;
+6. tuân thủ khả năng liên thông và các chuẩn;
+7. áp dụng phương pháp linh hoạt và phát triển lặp;
+8. hợp tác và tìm đối tác;
+9. giảm thiểu rủi ro an ninh và bảo đảm quyền riêng tư dữ liệu;
+10. theo dõi các công nghệ mới nổi tiếp theo.
+
+**Con người.** Hiểu biết về quy trình nghiệp vụ từ góc nhìn của bộ tài chính không thể thay thế việc tiếp xúc trực tiếp với người dùng thực tế, tức những người vận hành hệ thống hằng ngày để thực hiện giao dịch hoặc lập báo cáo.
+
+**Vấn đề sau khi dự án kết thúc.** Bài nêu thẳng một tình trạng phổ biến ở nước đang phát triển: nhà cung cấp cài đặt và triển khai hệ thống mới, rồi khi dự án kết thúc, chính nhân viên công nghệ thông tin của cơ quan phải hỗ trợ tuyến đầu, dù không được đào tạo riêng về hệ thống và hiểu biết hạn chế về chức năng của nó. Hậu quả có thể là mất dữ liệu, nhập dữ liệu sai vào hệ thống, hoặc an ninh bị tổn hại dẫn tới gian lận và trộm cắp.
+
+**An ninh và bề mặt tấn công.** Hệ thống càng nhiều năng lực và càng phức tạp thì bề mặt tấn công càng lớn. Mỗi năng lực và cơ chế mới, từ hệ thống dữ liệu lớn tới blockchain tới tài nguyên đám mây, đều làm tăng khả năng bị tấn công. Nguyên nhân có thể là sự bất cẩn hay thiếu hiểu biết của người triển khai, lỗi ẩn trong phần mềm thương mại, cấu hình sai, hoặc tấn công phi kỹ thuật (lừa người dùng tiết lộ mật khẩu chẳng hạn). Đây là lý do mỗi công nghệ mới phải được tính cả chi phí an ninh đi kèm.
+
+**Môi trường thử nghiệm an toàn.** Bài nêu ba hình thức để thử công nghệ mới mà không đặt cả hệ thống vào rủi ro:
+
+| Hình thức | Ví dụ |
+|---|---|
+| Phòng thí nghiệm đổi mới của chính phủ | 18F Lab của Hoa Kỳ, đã hỗ trợ 34 cơ quan hoàn thành 455 dự án trong mười năm |
+| Hộp cát quản lý (thử nghiệm với yêu cầu pháp lý được nới lỏng) | chương trình Giấy phép Thử nghiệm Đổi mới của Cơ quan Dịch vụ Tài chính Dubai; hộp cát fintech của Cơ quan Tiền tệ Singapore |
+| Bãi thử công nghệ (dành cho một công nghệ cụ thể) | Trung tâm Dự án Trí tuệ Tiên tiến RIKEN của Nhật Bản |
+
+**Kết luận: một quá trình liên tục, không phải cải cách một lần.** Chuyển đổi số PFM đòi hỏi giám sát và cải tiến liên tục cả công nghệ lẫn quy trình. Trước đây, hệ thống được xây để dùng nhiều năm chỉ với bảo trì; nay công nghệ thay đổi ngày càng nhanh. Bài đề xuất thiết lập cơ chế thẩm định và hiệu chỉnh sau triển khai: một vòng phản hồi so sánh kết quả thực tế với điểm G và F đã dự đoán, rồi điều chỉnh trọng số và cách chấm điểm dựa trên bài học đó cho các dự án sau.
 
 ## Thuật ngữ
 

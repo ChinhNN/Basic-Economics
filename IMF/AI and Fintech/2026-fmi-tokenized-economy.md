@@ -155,47 +155,132 @@
 2. Ba kiến trúc sổ cái khả dĩ khác nhau ra sao về lợi ích và rủi ro?
 3. Rủi ro nào lớn nhất trong quá trình chuyển đổi và nên xử lý thế nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Hạ tầng thị trường tài chính (financial market infrastructure, FMI).** Các hệ thống dùng chung mà mọi ngân hàng, nhà môi giới và nhà đầu tư dựa vào để hoàn tất giao dịch: trung tâm lưu ký chứng khoán (CSD), hệ thống quyết toán chứng khoán (SSS), đối tác bù trừ trung tâm (CCP) và kho dữ liệu giao dịch (TR). Chúng giống "đường ray" của thị trường: người dùng ít khi thấy, nhưng nếu một hạ tầng ngừng chạy thì cả thị trường đứng lại. Bài hỏi liệu token hoá có làm các đường ray này trở nên thừa hay không.
+
+**Token hoá và sổ cái chung (tokenization, shared ledger).** Token hoá là biểu diễn một tài sản (cổ phiếu, trái phiếu, tiền) dưới dạng một mục ghi trên sổ cái số dùng chung, thường là công nghệ chuỗi khối. Hiện nay mỗi tổ chức giữ sổ riêng và phải đối chiếu với nhau; trên sổ cái chung, mọi bên nhìn cùng một bản ghi. Ví dụ minh hoạ: khi nhà đầu tư A bán 100 trái phiếu cho B, thay vì ngân hàng của A, ngân hàng của B và trung tâm lưu ký cùng cập nhật ba sổ khác nhau rồi đối chiếu, chỉ có một dòng ghi chuyển 100 token từ ví A sang ví B. Đây là lý do token hoá "tấn công" vào lý do tồn tại của FMI.
+
+**Bù trừ và quyết toán (clearing, settlement).** Bù trừ là bước tính xem sau khi khớp lệnh, ai nợ ai bao nhiêu, và quản lý rủi ro trong khoảng thời gian chờ. Quyết toán là bước thực sự chuyển chứng khoán và tiền để hoàn tất nghĩa vụ. Ví dụ: với chu kỳ T+2, lệnh khớp hôm thứ Hai thì tới thứ Tư mới quyết toán; trong hai ngày đó, các bên còn nợ nhau. Phân biệt hai bước này giúp hiểu bước nào token hoá thay thế được và bước nào không.
+
+**Rủi ro đối tác và rủi ro gốc (counterparty risk, principal risk).** Rủi ro đối tác là khả năng bên kia vỡ nợ trước khi giao dịch hoàn tất; khi đó bạn phải mua hoặc bán lại ở giá khác (rủi ro thay thế). Rủi ro gốc nặng hơn: bạn đã giao tài sản nhưng bên kia không trả tiền, bạn mất toàn bộ giá trị. Ví dụ minh hoạ: bạn bán 1 tỷ đồng cổ phiếu, giao cổ phiếu trước, rồi người mua phá sản trước khi trả tiền; bạn mất 1 tỷ đồng. Hai rủi ro này là lý do có các hạ tầng như CCP và cơ chế giao chứng khoán đồng thời với thanh toán (DvP).
+
+**Quyết toán nguyên tử (atomic settlement).** Hai chân của giao dịch (giao tài sản và trả tiền) cùng xảy ra trong một bước không thể tách rời: hoặc cả hai cùng xong, hoặc không chân nào xảy ra. Từ "nguyên tử" ở đây nghĩa là không chia nhỏ được. Trên sổ cái chung có cả token tài sản và token tiền, điều này làm được tự động. Nó loại bỏ hẳn rủi ro gốc và rủi ro đối tác trong giao dịch giao ngay, nhưng như bài chỉ ra, nó cũng loại bỏ lợi ích của bù trừ đa phương.
+
+**Đối tác bù trừ trung tâm và bù trừ đa phương (central counterparty, multilateral netting).** CCP xen vào giữa mọi giao dịch, trở thành người mua của mọi người bán và người bán của mọi người mua (gọi là thế quyền, novation). Nhờ đứng giữa tất cả, CCP gộp được nghĩa vụ của mọi bên lại và chỉ yêu cầu mỗi bên thanh toán phần ròng. Ví dụ minh hoạ: ngân hàng X mua 100 tỷ đồng trái phiếu từ Y, và bán 90 tỷ đồng trái phiếu cho Z trong cùng ngày; nếu quyết toán từng giao dịch, X phải có sẵn 100 tỷ để trả; qua CCP, X chỉ cần thanh toán phần ròng 10 tỷ. Theo bài, bù trừ đa phương giảm nhu cầu thanh khoản tới 90% ở một số thị trường.
+
+**Cầu nối giữa các chuỗi (cross-chain bridge).** Phần mềm chuyển tài sản từ sổ cái này sang sổ cái khác, thường bằng cách khoá tài sản ở chuỗi gốc và phát hành bản tương ứng ở chuỗi đích. Cầu nối giữ một lượng tài sản lớn nên là mục tiêu tấn công hấp dẫn; bài lưu ý đây là điểm yếu an ninh đã bị khai thác nhiều lần. Khái niệm này quan trọng vì kiến trúc mà bài cho là khả thi nhất, nhiều sổ cái tương thích, phụ thuộc vào cầu nối.
+
+**Hạ tầng lai (hybrid FMI).** Một tổ chức trong đó phần kỹ thuật (ghi sổ, quyết toán) được tự động hoá trên sổ cái, còn phần chịu trách nhiệm (quản trị rủi ro, xử lý vỡ nợ, quản lý khủng hoảng) vẫn thuộc về một pháp nhân được cấp phép và giám sát. Đây là kết luận của bài về hình dạng tương lai của FMI.
+
+## Nội dung chi tiết
 
 ### 1. Vì sao hạ tầng thị trường tài chính tồn tại
 
-- Câu trả lời lịch sử rất đơn giản: vì sổ sách của các bên tách rời nhau. Mỗi ngân hàng, mỗi nhà môi giới, mỗi nhà đầu tư giữ bản ghi riêng, và các bản ghi đó phải được đối chiếu. Hạ tầng thị trường tài chính ra đời để làm việc đối chiếu đó một cách tập trung, đáng tin cậy và có trách nhiệm pháp lý.
-- Từ nhu cầu ban đầu ấy, các hạ tầng tích tụ thêm những chức năng khác không liên quan trực tiếp tới việc ghi sổ: quản lý rủi ro đối tác, xử lý tình huống thành viên vỡ nợ, cung cấp dữ liệu cho cơ quan giám sát, và đóng vai trò điểm can thiệp khi khủng hoảng.
-- Bài lập luận rằng việc phân biệt hai nhóm chức năng này là chìa khoá để trả lời câu hỏi về tương lai. Token hoá tấn công trực diện vào nhóm thứ nhất, nhưng gần như không đụng tới nhóm thứ hai.
+Câu trả lời lịch sử rất đơn giản: vì sổ sách của các bên tách rời nhau. Mỗi ngân hàng, mỗi nhà môi giới, mỗi nhà đầu tư giữ bản ghi riêng, và các bản ghi đó phải được đối chiếu để bảo đảm khớp nhau. Hạ tầng thị trường tài chính ra đời để làm việc đối chiếu đó một cách tập trung, đáng tin cậy và có trách nhiệm pháp lý: khi có sai lệch, có một bên đứng ra chịu trách nhiệm.
+
+Từ nhu cầu ban đầu ấy, các hạ tầng tích tụ thêm những chức năng không liên quan trực tiếp tới việc ghi sổ:
+
+- quản lý rủi ro đối tác;
+- xử lý tình huống một thành viên vỡ nợ;
+- cung cấp dữ liệu cho cơ quan giám sát;
+- đóng vai trò điểm can thiệp khi có khủng hoảng.
+
+Bài lập luận rằng phân biệt hai nhóm chức năng này là chìa khoá để trả lời câu hỏi về tương lai. Nhóm thứ nhất là **ghi sổ và quyết toán**, những việc thuần kỹ thuật. Nhóm thứ hai là **quản trị rủi ro, xử lý vỡ nợ và quản lý khủng hoảng**, những việc đòi hỏi một bên có trách nhiệm, có vốn và có quyền ra quyết định. Token hoá tấn công trực diện vào nhóm thứ nhất, vì khi mọi bên dùng chung một sổ cái thì không còn gì để đối chiếu. Nhưng nó gần như không đụng tới nhóm thứ hai.
 
 ### 2. Vòng đời giao dịch và bản đồ rủi ro
 
-- Bài đi qua sáu giai đoạn của vòng đời một giao dịch: giao dịch, xác nhận, bù trừ, quyết toán, lưu ký và hậu quyết toán, xác định rủi ro đặc trưng ở từng giai đoạn.
-- Rủi ro nghiêm trọng nhất tập trung ở khoảng giữa khớp lệnh và quyết toán, nơi rủi ro đối tác tồn tại. Đây chính là lý do tồn tại của đối tác bù trừ trung tâm và của các yêu cầu ký quỹ.
-- Token hoá với quyết toán nguyên tử loại bỏ hoàn toàn khoảng trống này đối với giao dịch giao ngay. Đó là lợi ích thật và lớn. Nhưng bài lưu ý rằng khoảng trống này chỉ là một trong các nguồn rủi ro, và với hợp đồng phái sinh có thời hạn dài, rủi ro đối tác tồn tại suốt vòng đời hợp đồng chứ không chỉ trong vài ngày quyết toán.
+Bài đi qua sáu giai đoạn của vòng đời một giao dịch và chỉ ra rủi ro đặc trưng ở từng giai đoạn:
+
+| Giai đoạn | Việc diễn ra | Rủi ro chính |
+|---|---|---|
+| Thứ nhất: Giao dịch (trading) | khớp lệnh mua và bán | thao túng giá, truy cập không công bằng, sai lệch thông tin trước giao dịch |
+| Thứ hai: Xác nhận (confirmation) | hai bên thống nhất điều khoản | sai lệch dữ liệu giữa hai sổ sách, tranh chấp về nội dung đã thoả thuận |
+| Thứ ba: Bù trừ (clearing) | tính nghĩa vụ ròng, quản lý rủi ro giữa lúc khớp lệnh và lúc quyết toán | rủi ro đối tác (bên kia có thể vỡ nợ trong khoảng thời gian này), rủi ro thay thế (phải mua lại ở giá khác), rủi ro tài sản bảo đảm không đủ |
+| Thứ tư: Quyết toán (settlement) | chuyển tài sản và tiền | rủi ro gốc (một bên giao mà bên kia không trả), rủi ro thanh khoản trong ngày, rủi ro vận hành |
+| Thứ năm: Lưu ký (custody) | giữ và ghi nhận quyền sở hữu | mất tài sản, tài sản bị lẫn vào khối tài sản phá sản của bên lưu ký, sai sót ghi sổ |
+| Thứ sáu: Hậu quyết toán | sự kiện doanh nghiệp (trả cổ tức, chia tách cổ phiếu), báo cáo, đối soát | xử lý sai sự kiện, thông tin thị trường thiếu |
+
+Rủi ro nghiêm trọng nhất tập trung ở khoảng giữa khớp lệnh và quyết toán, nơi rủi ro đối tác tồn tại. Đây chính là lý do tồn tại của đối tác bù trừ trung tâm và của các yêu cầu ký quỹ: CCP đứng giữa để nếu một bên vỡ nợ thì bên kia vẫn được bảo đảm, và ký quỹ là khoản tiền đặt trước để bù tổn thất khi điều đó xảy ra.
+
+Luận điểm của bài về tác động của token hoá lên sáu giai đoạn:
+
+- Token hoá tấn công mạnh nhất vào giai đoạn xác nhận, bù trừ và quyết toán, bằng cách làm cho sổ sách **chung** (không còn sai lệch giữa hai sổ) và quyết toán **nguyên tử** (không còn khoảng chờ).
+- Nó tác động ít hơn tới giai đoạn giao dịch và hậu quyết toán.
+- Nó gần như không giải quyết được phần **quản trị rủi ro** trong giai đoạn bù trừ.
+
+Quyết toán nguyên tử loại bỏ hoàn toàn khoảng trống giữa khớp lệnh và quyết toán đối với giao dịch **giao ngay**. Đó là lợi ích thật và lớn. Nhưng bài lưu ý khoảng trống này chỉ là một trong các nguồn rủi ro. Với hợp đồng phái sinh có thời hạn dài, ví dụ một hợp đồng hoán đổi lãi suất kéo dài nhiều năm, rủi ro đối tác tồn tại suốt vòng đời hợp đồng, vì hai bên còn nợ nhau các khoản thanh toán trong tương lai, chứ không chỉ trong vài ngày chờ quyết toán. Quyết toán tức thời không làm thay đổi điều đó.
 
 ### 3. Số phận của bốn loại hạ tầng
 
-- **Trung tâm lưu ký chứng khoán.** Chức năng ghi nhận quyền sở hữu có thể chuyển lên sổ cái. Nhưng chức năng bảo đảm tính toàn vẹn của đợt phát hành, tức là bảo đảm số token đang lưu hành khớp đúng với số chứng khoán được phát hành hợp pháp, vẫn cần một bên chịu trách nhiệm pháp lý. Mã lệnh có thể thực thi quy tắc nhưng không thể chịu trách nhiệm.
-- **Hệ thống quyết toán chứng khoán.** Đây là nơi token hoá thay thế rõ nhất. Quyết toán nguyên tử trên sổ cái chung làm đúng việc mà hệ thống quyết toán làm, nhanh hơn và không cần khoảng chờ.
-- **Đối tác bù trừ trung tâm.** Đây là trường hợp khó nhất và bài dành nhiều chỗ nhất cho nó. Quyết toán tức thời loại bỏ rủi ro đối tác trong giao dịch giao ngay nhưng không giúp gì cho hợp đồng phái sinh dài hạn. Quan trọng hơn, bù trừ đa phương của đối tác bù trừ trung tâm giảm nhu cầu thanh khoản tới khoảng 90% ở một số thị trường. Quyết toán nguyên tử từng giao dịch một loại bỏ lợi ích đó, đòi hỏi người tham gia phải có nhiều tiền và tài sản sẵn sàng hơn, và phải có ngay lập tức. Bài gọi đây là nghịch lý thanh khoản của quyết toán nguyên tử.
-- **Kho dữ liệu giao dịch.** Về nguyên tắc trở nên dư thừa nếu cơ quan quản lý đọc trực tiếp sổ cái. Nhưng điều đó đòi hỏi quyền truy cập được bảo đảm về pháp lý và năng lực diễn giải dữ liệu thô, hai điều không tự động có.
+| Hạ tầng | Chức năng hiện nay | Trong thế giới token hoá |
+|---|---|---|
+| CSD, trung tâm lưu ký chứng khoán | ghi nhận quyền sở hữu chứng khoán; bảo đảm tính toàn vẹn của đợt phát hành (không tự sinh ra hoặc mất đi chứng khoán) | chức năng ghi sổ chuyển được lên sổ cái, nhưng vẫn cần một bên chịu trách nhiệm pháp lý bảo đảm token ứng đúng 1:1 với tài sản pháp lý |
+| SSS, hệ thống quyết toán chứng khoán | quyết toán giao dịch chứng khoán, thường theo chu kỳ T+1 hoặc T+2, cần cơ chế DvP | bị thay thế rõ nhất |
+| CCP, đối tác bù trừ trung tâm | xen vào giữa hai bên, trở thành người mua của mọi người bán và ngược lại; bù trừ đa phương; quỹ vỡ nợ; quản lý khủng hoảng | khó thay thế nhất |
+| TR, kho dữ liệu giao dịch | lưu trữ dữ liệu giao dịch cho cơ quan quản lý giám sát | về nguyên tắc dư thừa, nhưng cần điều kiện |
+
+**Trung tâm lưu ký chứng khoán.** Chức năng ghi nhận ai sở hữu bao nhiêu có thể chuyển lên sổ cái. Nhưng chức năng bảo đảm tính toàn vẹn của đợt phát hành, tức là bảo đảm số token đang lưu hành khớp đúng với số chứng khoán được phát hành hợp pháp theo tỷ lệ 1:1, vẫn cần một bên chịu trách nhiệm pháp lý. Ví dụ minh hoạ: nếu một lỗi phần mềm tạo thêm 1.000 token trái phiếu không có trái phiếu thật đứng sau, ai bồi thường cho người đang nắm giữ? Mã lệnh có thể thực thi quy tắc nhưng không thể chịu trách nhiệm khi quy tắc sai.
+
+**Hệ thống quyết toán chứng khoán.** Đây là nơi token hoá thay thế rõ nhất. Hiện nay giao dịch được quyết toán sau một hoặc hai ngày làm việc (T+1, T+2) và cần cơ chế giao chứng khoán đồng thời với thanh toán (DvP) để tránh rủi ro gốc. Quyết toán nguyên tử trên sổ cái chung làm đúng việc đó, nhanh hơn và không cần khoảng chờ.
+
+**Đối tác bù trừ trung tâm.** Đây là trường hợp khó nhất và bài dành nhiều chỗ nhất cho nó, vì hai lý do.
+
+- Quyết toán tức thời loại bỏ rủi ro đối tác trong giao dịch giao ngay, nhưng không giúp gì cho hợp đồng phái sinh dài hạn, vốn là mảng hoạt động lớn của CCP.
+- Quan trọng hơn là **nghịch lý thanh khoản**. Bù trừ đa phương của CCP giảm nhu cầu thanh khoản tới khoảng 90% ở một số thị trường: thay vì mỗi giao dịch phải có đủ tiền, các bên chỉ thanh toán phần chênh lệch ròng sau khi gộp mọi giao dịch. Quyết toán nguyên tử từng giao dịch một làm mất lợi ích đó. Người tham gia phải có nhiều tiền và tài sản sẵn sàng hơn hẳn, và phải có ngay tại thời điểm giao dịch chứ không phải sau một hai ngày.
+
+Ví dụ minh hoạ nghịch lý: một ngân hàng mua và bán xen kẽ trong ngày, tổng giá trị mua 1.000 tỷ đồng, tổng giá trị bán 950 tỷ đồng. Qua CCP, cuối ngày ngân hàng chỉ cần trả phần ròng 50 tỷ. Với quyết toán nguyên tử, mỗi lệnh mua phải có tiền ngay lúc khớp, nên ngân hàng có thể cần sẵn hàng trăm tỷ đồng trong suốt ngày. Công nghệ loại bỏ được rủi ro, nhưng cũng loại bỏ cơ chế đã giúp hệ thống tiết kiệm thanh khoản.
+
+**Kho dữ liệu giao dịch.** Về nguyên tắc, kho này trở nên dư thừa nếu cơ quan quản lý đọc trực tiếp sổ cái. Nhưng điều đó đòi hỏi hai thứ không tự động có: quyền truy cập được bảo đảm về mặt pháp lý, và năng lực diễn giải dữ liệu thô (một sổ cái ghi hàng triệu dòng chuyển token không tự nó cho biết rủi ro tập trung ở đâu).
 
 ### 4. Quản trị blockchain theo bốn chiều
 
-- **Ai được tham gia:** hệ thống có phép hay không phép, và ai quyết định việc cấp phép.
-- **Ai xác thực giao dịch:** cơ chế đồng thuận, và mức độ tập trung của quyền xác thực trong thực tế.
-- **Ai được thay đổi quy tắc:** quy trình nâng cấp giao thức, ngưỡng phê duyệt, và cơ chế xử lý bất đồng.
-- **Ai chịu trách nhiệm khi có sự cố:** đây là chiều mà bài cho là yếu nhất trong các thiết kế hiện có. Trong hệ thống truyền thống, luôn có một pháp nhân được cấp phép, chịu giám sát và có vốn để bù đắp tổn thất. Trong nhiều thiết kế phi tập trung, không có ai như vậy.
-- Bài nhấn mạnh rằng mức độ phi tập trung trong thực tế thường thấp hơn nhiều so với trong thiết kế, và cơ quan quản lý nên đánh giá theo thực tế vận hành chứ không theo mô tả kỹ thuật.
+Vì token hoá chuyển phần ghi sổ lên sổ cái, câu hỏi "ai quản trị sổ cái" trở thành trung tâm. Bài phân tích quản trị theo bốn chiều:
+
+| Chiều | Câu hỏi cụ thể |
+|---|---|
+| Ai được tham gia | hệ thống có phép (chỉ thành viên được duyệt) hay không phép (ai cũng vào được), và ai quyết định việc cấp phép |
+| Ai xác thực giao dịch | cơ chế đồng thuận nào quyết định giao dịch được ghi vào sổ, và trên thực tế quyền xác thực tập trung tới mức nào |
+| Ai được thay đổi quy tắc | quy trình nâng cấp giao thức, ngưỡng phê duyệt, cơ chế xử lý bất đồng |
+| Ai chịu trách nhiệm khi có sự cố | ai bồi thường, ai xử lý, ai bị xử phạt |
+
+Chiều thứ tư là chiều mà bài cho là yếu nhất trong các thiết kế hiện có. Trong hệ thống truyền thống, luôn có một pháp nhân được cấp phép, chịu giám sát và có vốn để bù đắp tổn thất. Trong nhiều thiết kế phi tập trung, không có ai như vậy: khi có lỗi, không có địa chỉ để khiếu nại.
+
+Bài cũng nhấn mạnh rằng mức độ phi tập trung trong thực tế thường thấp hơn nhiều so với trong thiết kế. Ví dụ minh hoạ: một mạng lưới có hàng trăm nút xác thực trên giấy, nhưng nếu ba nhà vận hành kiểm soát phần lớn quyền xác thực thì thực chất nó tập trung. Vì vậy cơ quan quản lý nên đánh giá một hệ thống theo thực tế vận hành chứ không theo mô tả kỹ thuật.
 
 ### 5. Ba kiến trúc sổ cái
 
-- **Sổ cái đơn nhất** cho lợi ích tối đa về nguyên tử và thanh khoản tập trung, nhưng tạo điểm hỏng đơn lẻ, rủi ro độc quyền và câu hỏi khó về việc ai vận hành và quản trị nó. Bài đánh giá phương án này khó đạt được ở quy mô toàn cầu vì lý do chính trị hơn là kỹ thuật.
-- **Sổ cái chung có phân vùng** giữ được phần lớn lợi ích trong từng vùng đồng thời cho phép quy tắc khác nhau giữa các vùng, phù hợp với thực tế là các tài phán có luật khác nhau. Giao dịch liên vùng vẫn cần cơ chế điều phối.
-- **Sổ cái tương thích** là nhiều sổ cái độc lập nối với nhau bằng chuẩn chung. Đây là con đường thực tế nhất về chính trị và cho phép cạnh tranh, nhưng nguyên tử qua các chuỗi rất khó đạt được, cầu nối là điểm yếu an ninh đã bị khai thác nhiều lần, và thanh khoản bị phân mảnh.
-- Đánh giá của bài là sổ cái tương thích là con đường khả thi trước mắt, sổ cái chung có phân vùng là đích đến hợp lý ở cấp khu vực, và sổ cái đơn nhất khó xảy ra ở quy mô toàn cầu.
+Bài so sánh ba cách tổ chức sổ cái cho một nền kinh tế token hoá:
+
+| Kiến trúc | Mô tả | Ưu điểm | Nhược điểm |
+|---|---|---|---|
+| Thứ nhất: Sổ cái đơn nhất (single ledger) | mọi tài sản và mọi loại tiền trên một sổ cái duy nhất | nguyên tử hoàn hảo, không cần cầu nối, thanh khoản tập trung, khả năng kết hợp các tài sản và dịch vụ tối đa | điểm hỏng đơn lẻ; rủi ro độc quyền; câu hỏi ai vận hành và ai quản trị; khó đạt được về chính trị ở cấp quốc tế |
+| Thứ hai: Sổ cái chung có phân vùng (common ledger, partitioned) | một hạ tầng chung nhưng chia vùng theo loại tài sản, nhóm người tham gia hoặc tài phán | giữ được phần lớn lợi ích nguyên tử trong vùng; cho phép quy tắc khác nhau giữa các vùng | giao dịch liên vùng vẫn cần cơ chế điều phối |
+| Thứ ba: Sổ cái tương thích (compatible ledgers) | nhiều sổ cái độc lập nối với nhau bằng chuẩn chung và giao thức liên thông | thực tế nhất về chính trị; cho phép cạnh tranh và đổi mới; không có điểm hỏng đơn lẻ | nguyên tử qua các chuỗi rất khó; cầu nối là điểm yếu an ninh đã bị khai thác nhiều lần; thanh khoản phân mảnh |
+
+**Sổ cái đơn nhất** cho lợi ích tối đa về nguyên tử và thanh khoản tập trung, nhưng tạo điểm hỏng đơn lẻ: nếu sổ cái đó gặp sự cố, mọi thứ dừng lại. Nó cũng đặt ra câu hỏi khó về việc ai vận hành và quản trị nó. Bài đánh giá phương án này khó đạt được ở quy mô toàn cầu vì lý do chính trị hơn là kỹ thuật: các nước khó chấp nhận đặt toàn bộ tài sản tài chính của mình lên một hạ tầng do một bên kiểm soát.
+
+**Sổ cái chung có phân vùng** giữ được phần lớn lợi ích trong từng vùng, đồng thời cho phép quy tắc khác nhau giữa các vùng. Điều này phù hợp với thực tế là các tài phán có luật khác nhau. Giao dịch liên vùng vẫn cần cơ chế điều phối.
+
+**Sổ cái tương thích** là nhiều sổ cái độc lập nối với nhau bằng chuẩn chung. Đây là con đường thực tế nhất về chính trị và cho phép cạnh tranh, nhưng có ba điểm yếu: quyết toán nguyên tử qua các chuỗi rất khó đạt được; cầu nối giữa các chuỗi là điểm yếu an ninh đã bị khai thác nhiều lần; và thanh khoản bị chia nhỏ giữa các sổ cái.
+
+**Đánh giá của bài:** sổ cái tương thích là con đường khả thi trước mắt; sổ cái chung có phân vùng là đích đến hợp lý ở cấp khu vực; sổ cái đơn nhất khó xảy ra ở quy mô toàn cầu.
 
 ### 6. Rủi ro chuyển đổi và khái niệm hạ tầng lai
 
-- Giai đoạn nguy hiểm nhất không phải là điểm khởi đầu hay điểm kết thúc mà là giai đoạn giữa, khi hai hệ thống cùng tồn tại ở quy mô đáng kể. Thanh khoản bị phân mảnh, cầu nối trở thành điểm hỏng có tầm quan trọng hệ thống, chênh lệch quy định tạo cơ hội arbitrage, và chi phí vận hành kép làm suy yếu chính các tổ chức đang chuyển đổi.
-- Ở giai đoạn token hoá chiếm ưu thế, rủi ro chuyển sang tập trung vào ít nhà vận hành sổ cái, rủi ro mã lệnh trở thành rủi ro hệ thống, và tốc độ lan truyền tăng vì mọi thứ diễn ra tức thời và liên tục. Bài đặc biệt lưu ý việc mất khả năng bấm dừng mà các hệ thống hiện tại vẫn có, và đề xuất thiết kế sẵn cơ chế ngắt mạch vào chính giao thức.
-- Kết luận là khái niệm hạ tầng lai: các tổ chức trong đó phần kỹ thuật được tự động hoá trên sổ cái, còn phần chịu trách nhiệm pháp lý, quản trị rủi ro và xử lý khủng hoảng vẫn thuộc về một pháp nhân được cấp phép và giám sát. Nguyên tắc chỉ đạo là cùng hoạt động thì cùng rủi ro và cùng quy định, và các Nguyên tắc dành cho Hạ tầng Thị trường Tài chính vẫn áp dụng được, tuy cần diễn giải lại cho môi trường mới.
+Bài chia quá trình chuyển đổi thành ba giai đoạn, mỗi giai đoạn có rủi ro và biện pháp giảm thiểu riêng:
+
+| Giai đoạn | Rủi ro | Biện pháp giảm thiểu |
+|---|---|---|
+| Giai đoạn 1: Thí điểm song song | quy mô nhỏ nên rủi ro hệ thống thấp, nhưng rủi ro pháp lý cao vì khung pháp lý chưa rõ; thí điểm thành công có thể tạo cảm giác an toàn giả về khả năng mở rộng | hộp cát quản lý có giới hạn rõ ràng, yêu cầu báo cáo |
+| Giai đoạn 2: Song song ở quy mô đáng kể | nguy hiểm nhất: thanh khoản phân mảnh giữa hai hệ thống; cầu nối trở thành điểm hỏng có tầm quan trọng hệ thống; arbitrage giữa hai chế độ quản lý; chi phí vận hành kép làm suy yếu chính các tổ chức đang chuyển đổi | giám sát cầu nối như hạ tầng quan trọng; áp cùng chuẩn quản lý rủi ro cho cả hai bên |
+| Giai đoạn 3: Token hoá chiếm ưu thế | tập trung vào ít nhà vận hành sổ cái; rủi ro mã lệnh trở thành rủi ro hệ thống; tốc độ lan truyền tăng vì mọi thứ tức thời và chạy 24/7; mất khả năng "bấm dừng" mà các hệ thống hiện tại vẫn có | cơ chế ngắt mạch được thiết kế sẵn trong giao thức; kiểm toán mã bắt buộc; kế hoạch xử lý đổ vỡ cho nhà vận hành sổ cái |
+
+**Giai đoạn giữa là nguy hiểm nhất.** Rủi ro lớn nhất không nằm ở điểm khởi đầu hay điểm kết thúc, mà ở giai đoạn hai hệ thống cùng tồn tại ở quy mô đáng kể. Thanh khoản bị chia giữa hệ thống cũ và hệ thống token, nên mỗi bên đều mỏng hơn. Cầu nối giữa hai hệ thống trở thành điểm hỏng có tầm quan trọng hệ thống. Chênh lệch quy định giữa hai chế độ tạo cơ hội arbitrage: hoạt động sẽ dồn sang nơi quy định lỏng hơn. Và các tổ chức phải vận hành cùng lúc hai hệ thống, chịu chi phí kép, nên bị suy yếu đúng lúc cần vững nhất.
+
+**Giai đoạn token hoá chiếm ưu thế** đem lại loại rủi ro khác. Rủi ro tập trung vào số ít nhà vận hành sổ cái. Một lỗi trong mã lệnh, vốn trước đây chỉ ảnh hưởng một tổ chức, nay có thể ảnh hưởng cả hệ thống. Tốc độ lan truyền tăng vì mọi thứ diễn ra tức thời và liên tục 24/7, không còn đêm hay cuối tuần để các bên kịp phản ứng. Bài đặc biệt lưu ý việc mất khả năng "bấm dừng": hệ thống hiện nay có thể tạm ngừng giao dịch hay hoãn quyết toán khi có sự cố, còn hệ thống quyết toán nguyên tử tự động thì không, trừ khi được thiết kế từ đầu. Vì vậy bài đề xuất cài sẵn cơ chế ngắt mạch vào chính giao thức.
+
+**Kết luận: hạ tầng lai.** Kết quả nhiều khả năng của quá trình này là các hạ tầng lai: phần kỹ thuật (ghi sổ, quyết toán) được tự động hoá trên sổ cái, còn phần chịu trách nhiệm pháp lý, quản trị rủi ro và xử lý khủng hoảng vẫn thuộc về một pháp nhân được cấp phép và giám sát. Nguyên tắc chỉ đạo là **cùng hoạt động, cùng rủi ro, cùng quy định**: một hoạt động quyết toán chịu cùng chuẩn mực dù chạy trên hệ thống cũ hay trên sổ cái token. Các Nguyên tắc dành cho Hạ tầng Thị trường Tài chính (PFMI) của CPMI-IOSCO vẫn áp dụng được, tuy cần được diễn giải lại cho môi trường mới.
 
 ## Thuật ngữ
 
