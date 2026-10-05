@@ -485,46 +485,275 @@
 2. Cơ chế nào đứng sau: rủi ro quyết toán có thực sự biến thiên theo phơi nhiễm múi giờ và vị trí của đối tác giao dịch không?
 3. Rủi ro quyết toán có làm yếu các quan hệ không-arbitrage trên thị trường ngoại hối không, và việc giảm nó có làm ngang giá tam giác chặt lại không?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Quyết toán và rủi ro quyết toán (settlement, settlement risk).** Khi hai ngân hàng thoả thuận mua bán ngoại tệ, việc thoả thuận (giao dịch) và việc thật sự chuyển tiền (quyết toán) là hai bước tách rời, thường cách nhau vài ngày. Trong một giao dịch ngoại hối, mỗi bên phải giao một đồng tiền, và hai đồng tiền đó đi qua hai hệ thống thanh toán ở hai nước, mở cửa theo hai múi giờ khác nhau. Rủi ro quyết toán là khả năng một bên đã giao đồng tiền mình bán nhưng bên kia không giao lại. Ví dụ minh hoạ: ngân hàng A ở châu Âu bán 100 triệu euro lấy đô la; A chuyển euro vào buổi sáng giờ châu Âu, nhưng đô la chỉ được chuyển khi hệ thống thanh toán Mỹ mở cửa vài giờ sau. Nếu đối tác phá sản trong khoảng đó, A mất trọn 100 triệu euro, không chỉ mất phần chênh lệch giá. Rủi ro mất toàn bộ số gốc như vậy gọi là rủi ro gốc, và còn được gọi là rủi ro Herstatt theo tên ngân hàng Đức sụp đổ năm 1974.
+
+**Thanh toán đổi thanh toán và hệ thống CLS (payment-versus-payment, PvP; Continuous Linked Settlement).** PvP là cơ chế bảo đảm hai chân của giao dịch được quyết toán đồng thời: hoặc cả hai bên cùng nhận tiền, hoặc không bên nào nhận. Khi đó không ai có thể giao tiền rồi mất trắng. CLS là hệ thống quyết toán đa tiền tệ quốc tế thực hiện PvP cho các đồng tiền thành viên. Một đồng tiền chỉ được quyết toán qua CLS khi nước đó chính thức gia nhập. Bài nghiên cứu sự kiện đồng forint Hungary (HUF) gia nhập CLS ngày 16/11/2015.
+
+**Bù trừ đa phương (multilateral netting).** Thay vì mỗi cặp ngân hàng chuyển trọn từng giao dịch cho nhau, hệ thống cộng gộp mọi giao dịch trong ngày và mỗi bên chỉ chuyển hoặc nhận phần ròng. Ví dụ minh hoạ: A nợ B 100, B nợ C 100, C nợ A 90. Không bù trừ thì cần chuyển tổng cộng 290; bù trừ đa phương thì chỉ cần A chuyển 10 cho C (sau bù trừ, B không phải chuyển gì). Bù trừ giúp tiết kiệm thanh khoản rất lớn. Đây là lý do bài chọn CLS: CLS giảm rủi ro quyết toán nhưng vẫn giữ bù trừ đa phương, nên thay đổi quan sát được không phải do mất lợi ích bù trừ.
+
+**Lợi suất vượt trội và điểm cơ bản (excess return, basis point).** Trong bài, lợi suất vượt trội của một đồng tiền trong một ngày là thay đổi tỷ giá trong ngày trừ đi phần thay đổi mà chênh lệch lãi suất qua đêm giữa hai đồng tiền đã "hàm ý" trước. Phần còn lại là khoản lời mà người nắm đồng tiền được hưởng thêm, tức khoản bù cho các rủi ro mà họ chịu. Một điểm cơ bản bằng 0,01 điểm phần trăm. Ví dụ: lợi suất vượt trội giảm từ khoảng 28 điểm cơ bản xuống còn khoảng 18 điểm cơ bản nghĩa là giảm 0,1 điểm phần trăm. Kết quả chính của bài là lợi suất vượt trội của HUF giảm khoảng 10 điểm cơ bản sau khi gia nhập CLS, tức nhà đầu tư đòi ít bù hơn khi rủi ro quyết toán giảm.
+
+**Biến động hiện thực (realized volatility).** Thước đo mức dao động thực tế của tỷ giá trong một ngày, tính bằng cách lấy lợi suất của từng khoảng 30 phút, bình phương, lấy trung bình rồi khai căn. Ví dụ minh hoạ: nếu tỷ giá mỗi nửa giờ thay đổi khoảng 0,1%, biến động hiện thực trong ngày vào khoảng 0,1%; nếu có nửa giờ nhảy 1%, con số tăng mạnh. Bài dùng nó để kiểm tra rủi ro quyết toán có làm tỷ giá dao động mạnh hơn hay không.
+
+**Thí nghiệm tự nhiên và sai biệt trong sai biệt (natural experiment, difference-in-differences, DiD).** Thí nghiệm tự nhiên là một sự kiện ngoài đời tác động lên một nhóm mà không tác động lên nhóm tương tự khác, giống như chia nhóm trong thí nghiệm khoa học. DiD so sánh thay đổi trước–sau của nhóm bị tác động với thay đổi trước–sau của nhóm đối chứng. Ví dụ minh hoạ: lợi suất của HUF giảm 15 điểm cơ bản sau sự kiện, còn các đồng tiền láng giềng giảm 5 điểm cơ bản trong cùng thời gian vì lý do chung của khu vực; tác động riêng của sự kiện là 15 − 5 = 10 điểm cơ bản. Bài còn dùng sai biệt ba lần (DiDiD), thêm chiều so sánh thứ ba là ngày lễ của Mỹ so với ngày thường.
+
+**Ngang giá tam giác và arbitrage (triangular parity, arbitrage).** Arbitrage là kiếm lời không rủi ro từ chênh lệch giá của cùng một thứ ở hai nơi. Ngang giá tam giác nói rằng tỷ giá trực tiếp giữa hai đồng tiền phải khớp với tỷ giá đi vòng qua đồng tiền thứ ba. Ví dụ minh hoạ: nếu 1 euro = 300 forint và 1 euro = 1,10 đô la, thì 1 đô la phải bằng khoảng 300 / 1,10 ≈ 272,7 forint. Nếu thị trường niêm yết 1 đô la = 274 forint, người mua bán vòng sẽ kiếm lời cho tới khi chênh lệch biến mất. Khi chênh lệch tồn tại dai dẳng, đó là dấu hiệu việc arbitrage tốn kém hơn vẻ ngoài. Bài dùng độ lớn của sai lệch này để đo chi phí thực tế của arbitrage.
+
+**Năng lực chịu rủi ro và chi phí bóng (risk-bearing capacity, shadow cost).** Ngân hàng trung gian chỉ có một lượng vốn và dung lượng bảng cân đối giới hạn, và phải tuân thủ các giới hạn rủi ro nội bộ như giá trị chịu rủi ro (VaR, mức lỗ tối đa ước tính với một xác suất cho trước). Mỗi vị thế chưa quyết toán chiếm một phần dung lượng đó. Chi phí bóng là cái giá của việc dùng dung lượng ấy: không ai phải trả một hoá đơn cụ thể, nhưng dung lượng đã bị chiếm thì không dùng được cho giao dịch khác có lời. Đây là kênh mà bài cho rằng rủi ro quyết toán làm tăng biến động và cản trở arbitrage.
+
+## Nội dung chi tiết
 
 ### 1. Mở đầu
 
-- Rủi ro quyết toán là ma sát nền tảng, đặc biệt quan trọng trong ngoại hối nơi giao dịch trao đổi hai đồng tiền qua các múi giờ và hệ thống thanh toán khác nhau. Từ vụ Bankhaus Herstatt năm 1974 đã có nhiều sáng kiến giảm thiểu, nhưng đổ vỡ vẫn xảy ra, với hai ví dụ gần đây là KfW năm 2008 và Barclays năm 2020.
-- Với doanh số ngoại hối gần mười nghìn tỷ đô la mỗi ngày, ngay cả phần bù vài điểm cơ bản cũng hàm ý chi phí vài tỷ đô mỗi ngày.
-- Ngoài định giá, rủi ro quyết toán còn có thể ảnh hưởng tới ổn định và hiệu quả thị trường, vì nó ràng buộc năng lực chịu rủi ro của trung gian và đòi vốn phòng ngừa, làm tăng biến động và nâng chi phí thực tế của arbitrage.
-- Việc giảm rủi ro quyết toán không miễn phí: các cách khác như rút ngắn chu kỳ quyết toán hay đổi hạ tầng giao dịch lại làm tăng nhu cầu thanh khoản, giảm hiệu quả bù trừ và phát sinh chi phí vận hành, nên rất khó cô lập tác động của riêng rủi ro quyết toán.
-- Việc Hungary gia nhập CLS tháng 11/2015 là thí nghiệm tự nhiên vì CLS đưa thanh toán đổi thanh toán vào mà vẫn giữ nguyên chu kỳ quyết toán và cơ chế bù trừ đa phương.
-- Bài tiến hành ba phân tích bổ trợ về lợi suất vượt trội và biến động, về ngày lễ riêng của Mỹ, và về ngang giá tam giác, qua đó bắc cầu giữa hai nhánh tài liệu về thu xếp quyết toán và về giới hạn arbitrage.
+**Rủi ro quyết toán là gì và vì sao ngoại hối đặc biệt nhạy.** Rủi ro quyết toán hiện thực hoá khi một bên giao đồng tiền mình đã bán trong khi bên kia không giao. Nó là ma sát nền tảng của mọi thị trường tài chính, nhưng đặc biệt quan trọng trong ngoại hối, nơi mỗi giao dịch trao đổi hai đồng tiền qua các múi giờ và các hệ thống thanh toán khác nhau. Rủi ro này bị khuếch đại bởi hai yếu tố: chu kỳ quyết toán dài (khoảng thời gian từ lúc thoả thuận tới lúc chuyển tiền) và chênh lệch múi giờ (khoảng thời gian giữa lúc chân thứ nhất và chân thứ hai được giao).
+
+**Lịch sử: các vụ đổ vỡ.** Năm 1974, ngân hàng Đức Bankhaus Herstatt sụp đổ, gây tổn thất lớn cho các đối tác đã giao tiền cho nó nhưng chưa nhận lại tiền. Sau vụ đó có hàng loạt sáng kiến về quản lý và hạ tầng nhằm giảm rủi ro này, nhưng đổ vỡ quyết toán vẫn tiếp diễn. Hai ví dụ gần đây mà bài nêu:
+
+| Năm | Sự kiện | Tổn thất |
+|---|---|---|
+| 2008 | Ngân hàng nhà nước Đức KfW bị thiệt sau khi Lehman Brothers vỡ nợ | 426 triệu USD |
+| 3/2020 | Barclays bị đối tác UAE Exchange không giao được tiền | 129 triệu USD |
+
+**Vì sao độ lớn quan trọng.** Doanh số ngoại hối toàn cầu khoảng 9,6 nghìn tỷ USD mỗi ngày (BIS, 2025), tức gần mười nghìn tỷ đô la. Theo bài, ngay cả một phần bù vài điểm cơ bản cũng hàm ý tổng chi phí giao dịch vài tỷ đô la mỗi ngày. Phép tính để thấy điều đó: 9,6 nghìn tỷ nhân với 0,03% (3 điểm cơ bản) là khoảng 2,9 tỷ đô la.
+
+**Ba kênh tác động giả thuyết.**
+
+1. **Phần bù rủi ro quyết toán.** Nếu người tham gia thị trường đòi bồi thường cho phơi nhiễm quyết toán, thì tỷ giá phải chứa phần bù đó.
+2. **Biến động.** Phơi nhiễm quyết toán buộc bên trung gian phải giữ lại dung lượng bảng cân đối và vốn phòng ngừa để sống sót nếu đối tác vỡ nợ. Điều này hạn chế khả năng của họ trong việc hấp thụ các cú sốc mất cân đối lệnh (khi bên mua nhiều hơn bên bán hay ngược lại), và vì vậy khuếch đại biến động tỷ giá.
+3. **Giới hạn arbitrage.** Rủi ro quyết toán nâng chi phí thực tế của kinh doanh chênh lệch giá giữa các đồng tiền, nên làm yếu các quan hệ không-arbitrage (các quan hệ giá lẽ ra phải đúng nếu arbitrage không tốn kém).
+
+**Vì sao khó đo: giảm rủi ro quyết toán không miễn phí.** Các cách giảm rủi ro khác, như rút ngắn chu kỳ quyết toán hay đổi hạ tầng giao dịch, tuy hạ phơi nhiễm nhưng có tác dụng phụ:
+
+- tăng nhu cầu thanh khoản, vì phải có tiền sẵn sớm hơn;
+- giảm hiệu quả bù trừ đa phương, vì có ít thời gian gộp giao dịch hơn;
+- phát sinh chi phí vận hành (Rochet và Tirole, 1996; Capponi và Chang, 2025);
+- nén thời gian mà nhà tạo lập thị trường có để tìm nguồn chứng khoán cần giao (Mattille, 2026).
+
+Kết luận của bài: định giá cân bằng của rủi ro quyết toán phụ thuộc không chỉ vào sự tồn tại của nó mà còn vào cách nó được giảm thiểu. Nếu tỷ giá thay đổi sau một cải cách, ta không biết là do rủi ro quyết toán giảm hay do thanh khoản và cấu trúc thị trường thay đổi. Điều này khiến việc cô lập tác động của rủi ro quyết toán lên giá tài sản trở nên khó khăn.
+
+**Vì sao CLS là thí nghiệm tự nhiên sạch.** CLS đưa vào cơ chế thanh toán đổi thanh toán (PvP): cả hai chân của giao dịch được quyết toán đồng thời, xoá bỏ rủi ro gốc phát sinh từ khoảng trống thời gian giữa hai lần giao. Điểm mấu chốt về phương pháp: CLS giảm rủi ro quyết toán trong khi giữ nguyên chu kỳ quyết toán và cơ chế bù trừ đa phương. Nhờ đó có thể tách bạch tác động của rủi ro quyết toán khỏi các thay đổi gây nhiễu về cầu thanh khoản hay cấu trúc thị trường. Việc Hungary gia nhập CLS tháng 11/2015 vì vậy là một thí nghiệm tự nhiên. Chú thích 2 của bài lưu ý rằng việc gia nhập được công bố trước khi triển khai, nhưng hiệu ứng công bố không đáng kể vì lợi ích quyết toán không thể được hưởng trước ngày triển khai.
+
+**Ba phân tích bổ trợ và hai nhánh tài liệu.** Bài tiến hành ba phân tích: về lợi suất vượt trội và biến động (mục 2), về ngày lễ riêng của Mỹ (mục 3), và về ngang giá tam giác (mục 4). Qua đó bài nối hai nhánh tài liệu vốn tách rời:
+
+| Nhánh | Nội dung | Thiếu sót mà bài bổ sung |
+|---|---|---|
+| Thu xếp quyết toán | Bù trừ và bù trừ tập trung ảnh hưởng tới giá và rủi ro (Bernstein và cộng sự, 2019; Mcsherry và cộng sự, 2017; Hattori, 2023) | Chủ yếu nghiên cứu thị trường cổ phiếu và trái phiếu, không phải thị trường tiền tệ |
+| Sai lệch khỏi quan hệ không-arbitrage trong ngoại hối | Quy các sai lệch cho ràng buộc tài trợ và hạn chế bảng cân đối của trung gian (Du và cộng sự, 2018; Huang và cộng sự, 2025) | Không nhận diện rủi ro quyết toán là một nguồn |
+
+Bài bắc cầu hai nhánh bằng cách chỉ ra rủi ro quyết toán vừa được định giá vừa là một nguồn giới hạn arbitrage.
 
 ### 2. Rủi ro quyết toán, lợi suất và biến động
 
-- Nếu người tham gia định giá phơi nhiễm quyết toán thì việc giảm rủi ro này phải làm hạ lợi suất vượt trội; và vì phơi nhiễm ràng buộc khả năng hấp thụ cú sốc dòng lệnh, việc xoá phơi nhiễm qua PvP cũng phải làm giảm biến động.
-- Mẫu gồm sáu đồng tiền Trung và Đông Âu, 2015–2016, dữ liệu Bloomberg ở tần suất ngày và ba mươi phút. Lợi suất vượt trội đo bằng thay đổi log tỷ giá trừ chênh lệch lãi suất qua đêm; biến động đo bằng biến động hiện thực từ lợi suất trong ngày.
-- Ngày sự kiện là 16/11/2015, với bằng chứng từ ngân hàng trung ương Hungary về mức sử dụng CLS thực tế. Việc gia nhập được lập luận là gần ngoại sinh vì đòi hỏi gần hai năm chuẩn bị và kiểm thử.
-- Kết quả cho thấy lợi suất vượt trội giảm khoảng mười điểm cơ bản và biến động giảm khoảng 0,032, có ý nghĩa ở mọi đặc tả, vững với cả hai độ dài cửa sổ và với việc thêm hiệu ứng cố định ngày. Chênh lệch mua-bán không có ý nghĩa, nên kết quả không do thanh khoản.
-- Bốn lớp kiểm chứng gồm kiểm định xu hướng trước, đặc tả donut-hole loại ba ngày quanh sự kiện, hai loại kiểm định giả dược, và suy luận ngẫu nhiên hoá với 528 phép gán để xử lý vấn đề số cụm nhỏ.
+**Giả thuyết.** Nếu người tham gia định giá phơi nhiễm quyết toán, thì việc giảm rủi ro này phải làm hạ lợi suất vượt trội. Và vì phơi nhiễm ràng buộc khả năng hấp thụ cú sốc dòng lệnh của trung gian, việc xoá phơi nhiễm qua PvP cũng phải làm giảm biến động.
+
+**Ngày sự kiện và mức sử dụng thực tế.** Ngày sự kiện là 16/11/2015, ngày đầu tiên HUF đủ điều kiện quyết toán PvP qua CLS. Theo ngân hàng trung ương Hungary (MNB), từ 16/11/2015 tới 31/3/2016, doanh số gộp HUF quyết toán trong CLS bình quân khoảng 336,6 triệu USD mỗi ngày, cao nhất 850,9 triệu USD. So với tổng doanh số giao ngay HUF khoảng 4,3 tỷ USD mỗi ngày (tháng 4/2016), đây chỉ là một phần nhỏ của thị trường (khoảng 8%). Bài lập luận rằng điều đó vẫn đủ: sự tham gia của các ngân hàng lớn nằm ở trung tâm mạng lưới ngân hàng đại lý, cộng với việc quyết toán PvP có sẵn như một lựa chọn, đã giảm được ma sát cho toàn thị trường.
+
+**Nhóm đối chứng.** Năm đồng tiền Trung và Đông Âu (CEE): kuna Croatia (HRK), koruna Séc (CZK), zloty Ba Lan (PLN), leu Romania (RON) và dinar Serbia (RSD). Cùng với HUF, mẫu gồm sáu đồng tiền, giai đoạn 2015–2016, dữ liệu Bloomberg ở tần suất ngày và 30 phút. Lý do chọn: các nước này gần nhau về địa lý và kinh tế, cùng chịu tác động của diễn biến khu vực và điều kiện ngoại hối toàn cầu, nên là đối chứng tự nhiên cho Hungary.
+
+**Vì sao sự kiện có thể coi là gần ngoại sinh.** "Ngoại sinh" ở đây nghĩa là thời điểm gia nhập không được chọn dựa trên diễn biến tỷ giá. MNB và CLS nhấn mạnh mục tiêu là giảm rủi ro quyết toán, và dự án đòi hỏi chuẩn bị và kiểm thử gần hai năm. Theo bài, bối cảnh thể chế này phù hợp với một quy trình triển khai trung hạn gắn với mức sẵn sàng vận hành, chứ không phải một lựa chọn của CLS quanh ngày sự kiện. Động cơ gia nhập là tỷ trọng lớn giao dịch HUF diễn ra ở nước ngoài và mong muốn cải thiện ổn định thị trường; đây đều là cân nhắc mà các nền kinh tế nhỏ mở khác ở CEE cũng có, nên Hungary không khác biệt hệ thống so với nhóm đối chứng.
+
+**Hai biến kết cục.**
+
+1. **Lợi suất vượt trội**: thay đổi log tỷ giá hằng ngày trừ đi phần thay đổi hàm ý bởi chênh lệch lãi suất qua đêm.
+2. **Biến động**: căn bậc hai của biến động hiện thực hằng ngày, tính từ lợi suất 30 phút theo công thức σ² = (1/48) · Σ R²(ti), tức trung bình bình phương lợi suất của 48 khoảng 30 phút trong một ngày 24 giờ.
+
+Chênh lệch giá mua–giá bán (bid–ask spread, BAS) được dùng làm đại diện cho thanh khoản và đưa vào làm biến kiểm soát. Bài không dùng khối lượng giao dịch vì dữ liệu không có ở tần suất phù hợp cho tất cả các đồng tiền trong mẫu, dù bài thừa nhận "tác động của việc giảm rủi ro quyết toán lên hoạt động giao dịch là hợp lý về kinh tế".
+
+**Mô hình ước lượng.** Phương trình (1) của bài:
+
+Y = β·Post + δ·(Treated × Post) + θ·BAS + μ(c,c′) + Γ(c,m,y) + ε
+
+trong đó Post bằng 1 sau ngày sự kiện, Treated bằng 1 với HUF, và δ là hệ số quan tâm: mức thay đổi thêm của HUF so với nhóm đối chứng. Hiệu ứng cố định gồm cặp đồng tiền μ(c,c′) và đồng tiền–tháng–năm Γ(c,m,y); một số đặc tả thêm hiệu ứng cố định ngày. Sai số chuẩn được gộp theo đồng tiền, khớp với cấp phân bổ xử lý (theo Roth và cộng sự, 2023), nên chỉ có 6 cụm, một điểm yếu thống kê sẽ được xử lý ở phần kiểm chứng.
+
+Về độ dài cửa sổ quanh sự kiện có một đánh đổi: cửa sổ ngắn giảm phơi nhiễm với diễn biến vĩ mô gây nhiễu nhưng hạn chế sức mạnh thống kê; cửa sổ dài tăng độ chính xác nhưng dễ bắt phải các cú sốc không liên quan. Chú thích 9 lưu ý rằng hỗn loạn sau khi Thuỵ Sĩ bỏ sàn tỷ giá EUR/CHF tháng 1/2015 đã lắng xuống từ lâu trước cửa sổ sự kiện cuối năm 2015.
+
+**Bức tranh thô.** Đồ thị trung bình (tính bằng phần trăm, đọc trên hình) cho thấy lợi suất vượt trội của HUF từ khoảng 0,30 trước ngày 16/11/2015 xuống khoảng 0,01 sau đó, và biến động từ khoảng 0,17 xuống khoảng 0,13. Bài lưu ý hình chỉ nắm mẫu hình không điều kiện; ý nghĩa kinh tế phải đánh giá bằng ước lượng DiD. (Bài có mâu thuẫn về đơn vị: một chỗ nói lợi suất vượt trội tính bằng điểm cơ bản, chỗ khác nói tính bằng phần trăm; cách diễn giải kết quả dưới đây chỉ đúng nếu biến tính bằng phần trăm.)
+
+**Kết quả cơ sở.** Cửa sổ ±1 tháng và ±3 tháng quanh sự kiện; "date FE" là hiệu ứng cố định ngày.
+
+| | Lợi suất vượt trội, ±1 tháng | Lợi suất vượt trội, ±3 tháng | Biến động, ±1 tháng | Biến động, ±3 tháng |
+|---|---|---|---|---|
+| Treated × Post (không date FE) | −0,0988\*\*\* | −0,1005\*\*\* | −0,0321\*\*\* | −0,0320\*\*\* |
+| Treated × Post (có date FE) | −0,1002\*\*\* | −0,0979\*\*\* | −0,0326\*\*\* | −0,0326\*\*\* |
+| Post | −0,0307\*\* | −0,0323\*\* | −0,0397\*\*\* | −0,0393\*\*\* |
+| Chênh lệch mua–bán | −26,52, không có ý nghĩa | −56,41, không có ý nghĩa | −2,022, không có ý nghĩa | 1,732, không có ý nghĩa |
+| Số quan sát | 258 | 786 | 257 | 780 |
+| Số cụm | 6 | 6 | 6 | 6 |
+
+(\*\* mức 5%, \*\*\* mức 1%.)
+
+Đọc kết quả:
+
+1. Lợi suất vượt trội của HUF giảm khoảng 10 điểm cơ bản, có ý nghĩa ở mức 1% trong mọi đặc tả. So với mức trước sự kiện khoảng 28 điểm cơ bản của HUF, đây là mức giảm có ý nghĩa kinh tế, hơn một phần ba.
+2. Kéo cửa sổ từ 1 lên 3 tháng cho ước lượng gần như giống hệt, nên tác động là bền, không phải do vài quan sát sát ngày sự kiện.
+3. Thêm hiệu ứng cố định ngày hầu như không đổi kết quả, nên nhận dạng không dựa vào biến thiên chuỗi thời gian chung của cả khu vực.
+4. Biến động giảm khoảng 0,032, có ý nghĩa ở mức 1% trong mọi đặc tả. Hệ số Post cũng âm và có ý nghĩa, tức có một mức giảm chung cho mọi đồng tiền trong giai đoạn này, và HUF giảm thêm ngoài mức chung đó.
+5. Chênh lệch mua–bán không có ý nghĩa ở bất kỳ cột nào, nên kết quả không do thay đổi thanh khoản.
+
+Diễn giải của bài: rủi ro quyết toán được định giá, và việc giảm nó hạ mức bồi thường mà nhà đầu tư đòi cho việc gánh rủi ro đó. Đồng thời, nó nâng năng lực chịu rủi ro của trung gian, làm động thái tỷ giá ổn định hơn.
+
+**Bốn lớp kiểm chứng.**
+
+*Lớp 1: kiểm định xu hướng trước.* Nếu HUF đã có xu hướng giảm riêng từ trước sự kiện, DiD sẽ quy nhầm xu hướng đó cho CLS. Bài hồi quy tương tác giữa chỉ báo HUF và xu hướng tuyến tính theo ngày trong cửa sổ ba tháng trước sự kiện. Với lợi suất vượt trội, hệ số −0,0015 (p = 0,140); với biến động, hệ số 0,0000 (p = 0,993). Không có xu hướng khác biệt nào trước sự kiện.
+
+*Lớp 2: donut-hole.* Loại bỏ ±3 ngày giao dịch quanh sự kiện để xử lý lo ngại về hành vi đón đầu quanh ngày gia nhập. Lợi suất vượt trội: −0,0957\*\*\* (±1 tháng) và −0,0878\*\*\* (±3 tháng). Biến động: −0,0395\*\*\* và −0,0390\*\*\*, thậm chí lớn hơn kết quả cơ sở. Kết quả vững.
+
+*Lớp 3: hai loại kiểm định giả dược.* Kiểm định giả dược là gán "xử lý" cho chỗ không có xử lý thật; nếu vẫn ra kết quả giống, kết quả gốc đáng ngờ.
+
+Loại thứ nhất gán xử lý lần lượt cho từng đồng tiền khác (cửa sổ 3 tháng), đồng thời loại HUF khỏi mẫu để nhóm đối chứng giả dược chỉ gồm các đồng tiền chưa được xử lý:
+
+| Đồng tiền được gán xử lý | Lợi suất vượt trội | Biến động |
+|---|---|---|
+| HUF (thật) | −0,0979\*\*\* | −0,0326\*\*\* |
+| CZK | −0,0275, không có ý nghĩa | 0,0042, không có ý nghĩa |
+| PLN | **+0,0449\*\*\*** | **−0,0152\*\*** |
+| HRK | 0,0082, không có ý nghĩa | −0,0073, không có ý nghĩa |
+| RON | −0,0289\* | −0,0036, không có ý nghĩa |
+| RSD | 0,0034, không có ý nghĩa | **+0,0216\*\*\*** |
+
+Cần lưu ý: có ba giả dược có ý nghĩa ở mức 5% trở lên, trong đó PLN mang dấu ngược và mạnh với lợi suất vượt trội. Bài chỉ mô tả các giả dược là "nhìn chung không có ý nghĩa hoặc mang dấu ngược lại".
+
+Loại thứ hai gán ngày sự kiện giả trong giai đoạn trước:
+
+| Ngày sự kiện | Lợi suất vượt trội | Biến động |
+|---|---|---|
+| Thật: 16/11/2015 | −0,0979\*\*\* | −0,0326\*\*\* |
+| Giả: 16/5/2015 | −0,0261, không có ý nghĩa | 0,0135, không có ý nghĩa |
+| Giả: 16/6/2015 | 0,0059, không có ý nghĩa | 0,0701\* (mức 10%) |
+| Giả: 16/7/2015 | 0,0309, không có ý nghĩa | 0,0022, không có ý nghĩa |
+
+Mẫu hình giả dược không tái tạo được kết quả cơ sở.
+
+*Lớp 4: suy luận ngẫu nhiên hoá.* Lý do: chỉ có 6 cụm, nên sai số chuẩn gộp thông thường có thể phóng đại ý nghĩa thống kê. Cách sửa phổ biến là wild cluster bootstrap không dùng được vì chỉ có một đơn vị được xử lý (MacKinnon và Webb, 2020). Bài vì vậy gán lại xử lý cho cả sáu đồng tiền và cho mọi ngày trong 90 ngày trước sự kiện (15/8–15/11/2015), tạo ra 528 phép gán giả dược; mỗi phép dùng cửa sổ trượt khớp độ rộng của mẫu cơ sở (±30 hoặc ±90 ngày). Giá trị p là tỷ lệ phép gán giả cho kết quả mạnh hơn kết quả thật.
+
+| | p tính theo thống kê t (\|t\|) | p tính theo hệ số (\|b\|) |
+|---|---|---|
+| Lợi suất vượt trội | 0,0246–0,0662 (có ý nghĩa) | 0,2665–0,2836 (không có ý nghĩa) |
+| Biến động | 0,0794–0,0945 (mức 10%) | 0,0756–0,0964 (mức 10%) |
+
+Bài chỉ trích dẫn cột theo thống kê t, với lý do là "dựa chủ yếu vào thống kê t đã chuẩn hoá để tính tới khả năng phương sai thay đổi giữa các đồng tiền và giai đoạn". Nhưng với lợi suất vượt trội, hai cột cho hai kết luận ngược nhau, và bài không bàn về điều đó.
+
+Bài cũng giải thích vì sao không dùng sai số chuẩn Driscoll–Kraay: trong mô hình DiD có hiệu ứng cố định, phân phối tiệm cận của chúng phụ thuộc vào các tham số nhiễu như thời điểm xử lý, nên có thể làm méo suy luận (Sun và Yan, 2019; Liu và Sun, 2019).
 
 ### 3. Nhận dạng bằng ngày lễ riêng của Mỹ
 
-- Rủi ro quyết toán phụ thuộc vào vị trí đối tác và mức chồng lấn giờ hoạt động của hệ thống thanh toán, nên có thể thay đổi theo ngày và theo giờ trong ngày.
-- Vào ngày lễ riêng của Mỹ, giao dịch đồng tiền Trung và Đông Âu nhiều khả năng do đối tác châu Âu thực hiện, tức cùng múi giờ hơn. Nhưng hiệu ứng không tự động vì giao dịch có thể chuyển sang đối tác châu Á, và vì thanh khoản cũng thay đổi.
-- Bốn ngày lễ được chọn là những ngày không trùng lễ ở châu Âu. Cửa sổ trong ngày từ 8 giờ tới 13 giờ giờ miền Đông Mỹ được chọn vì đó đúng là lúc sự vắng mặt của đối tác Mỹ làm thay đổi địa lý giao dịch.
-- Mô hình sai biệt ba lần khai thác ba chiều biến thiên, với hiệu ứng cố định theo giờ trong ngày, ngày lễ, thời gian sự kiện và năm.
-- Kết quả cho thấy mức giảm sau CLS lớn hơn vào ngày thường so với chính ngày lễ, với hiệu ứng mạnh nhất ở cửa sổ hẹp và rõ hơn với biến động, ủng hộ cơ chế qua phơi nhiễm múi giờ.
+**Ý tưởng.** Rủi ro quyết toán không chỉ phụ thuộc vào đồng tiền được trao đổi mà còn vào vị trí của đối tác và mức chồng lấn giờ hoạt động giữa các hệ thống thanh toán. Vì vậy rủi ro quyết toán, và phần bù đi kèm, có thể thay đổi theo ngày và theo giờ trong ngày. Nếu tìm được những ngày mà cơ cấu đối tác thay đổi, có thể kiểm tra cơ chế này trực tiếp.
+
+Vào ngày lễ riêng của Mỹ, ngân hàng Mỹ nghỉ, nên giao dịch đồng tiền CEE nhiều khả năng do đối tác ngoài Mỹ thực hiện, nhất là ở châu Âu. Các đối tác này hoạt động ở múi giờ sát nhau hơn (Breedon và Ranaldo, 2013), nên khoảng trống giữa hai chân quyết toán ngắn hơn và rủi ro quyết toán có thể thấp hơn. Nhưng hiệu ứng không tự động:
+
+- nếu các giao dịch vốn diễn ra giữa châu Âu và Mỹ bị thay bằng giao dịch với đối tác châu Á–Thái Bình Dương, chênh lệch múi giờ vẫn lớn và rủi ro quyết toán vẫn cao;
+- ít định chế Mỹ tham gia còn làm thay đổi thanh khoản, có thể tác động tới tỷ giá độc lập với rủi ro quyết toán.
+
+Giả thuyết kiểm định: sau khi có PvP, phần biến thiên của rủi ro quyết toán gắn với ngày lễ phải yếu đi, vì PvP đã xoá rủi ro quyết toán bất kể đối tác ở múi giờ nào. Nói cách khác, khoảng cách giữa ngày thường (có đối tác Mỹ, rủi ro cao) và ngày lễ (ít đối tác Mỹ, rủi ro thấp) phải thu hẹp sau CLS.
+
+**Bốn ngày lễ riêng của Mỹ trong mẫu.**
+
+| Ngày lễ | Năm 2015 | Năm 2016 |
+|---|---|---|
+| Ngày Martin Luther King Jr. | 19/1/2015 | 18/1/2016 |
+| Ngày Tổng thống | 16/2/2015 | 15/2/2016 |
+| Ngày Độc lập | 3/7/2015 | 4/7/2016 |
+| Ngày Lao động | 7/9/2015 | 5/9/2016 |
+
+Memorial Day, Columbus Day và Veterans Day bị loại vì trùng ngày lễ ở châu Âu; Thanksgiving bị loại vì mẫu không có tháng 11/2014.
+
+**Cửa sổ trong ngày.** Bài chỉ xét khung 8:00–13:00 giờ miền Đông Mỹ, tương ứng 12:00–17:00 hoặc 13:00–18:00 GMT tuỳ giờ mùa hè. Lý do: ngày lễ Mỹ bắt đầu vào buổi chiều cùng ngày theo giờ châu Âu và kết thúc vào cuối buổi sáng hôm sau theo giờ châu Âu. Theo bài, đây chính là lúc sự vắng mặt của đối tác Mỹ làm thay đổi địa lý của giao dịch và các phơi nhiễm quyết toán kèm theo.
+
+**Mẫu.** Bốn đồng tiền CZK, HUF, PLN, RON (HRK và RSD bị loại vì thiếu dữ liệu trong ngày), giai đoạn 1/1/2015–15/11/2016. Các ngày không giao dịch ở châu Âu, gồm ngày đóng cửa của hệ thống thanh toán TARGET2 và ngày nghỉ ngân hàng ở Anh, bị loại.
+
+**Mô hình sai biệt ba lần (DiDiD).** Ba chiều biến thiên: (i) đồng tiền được xử lý so với đối chứng; (ii) trước so với sau CLS; (iii) ngày lễ so với ngày thường. Phương trình (2) của bài:
+
+Y = β₁·(Treated × Non-Holiday) + β₂·(Treated × Post × Non-Holiday) + β₃·(Treated × Post × Holiday) + θ·BAS + μ(c,c′) + λ(t) + η(h) + ρ(τ) + κ(y) + ε
+
+β₂ đo thay đổi sau CLS của HUF trong ngày thường, β₃ đo thay đổi đó trong ngày lễ, và DiDiD = β₂ − β₃ đo mức thay đổi trong ngày thường vượt hơn ngày lễ bao nhiêu. Hiệu ứng cố định gồm cặp đồng tiền, giờ trong ngày (khối 30 phút), ngày lễ, thời gian sự kiện (ngày tương đối so với ngày lễ) và năm. Sai số chuẩn được gộp ở cấp sự kiện ngày lễ, cho 8 cụm (4 ngày lễ × 2 năm).
+
+**Kết quả.** Các cửa sổ [−1,1], [−2,2] và [−3,3] là số ngày quanh mỗi ngày lễ.
+
+| | Lợi suất vượt trội [−1,1] / [−2,2] / [−3,3] | Biến động [−1,1] / [−2,2] / [−3,3] |
+|---|---|---|
+| DiDiD (β₂ − β₃) | −0,771\* / −0,850\* / −0,726\* | **−0,134\*\*\* / −0,098\*\*\* / −0,100\*\*\*** |
+| β₁: Treated × ngày thường | 0,366 / 0,355 / 0,322, đều không có ý nghĩa | 0,100\*\* / 0,077\*\* / 0,074\*\* |
+| β₂: Post × Treated × ngày thường | −0,381\*\* / −0,259\* / −0,223\*\* | −0,088\*\* / −0,044\*\* / −0,036\*\* |
+| β₃: Post × Treated × ngày lễ | 0,390, không có ý nghĩa / 0,590\* / 0,504, không có ý nghĩa | 0,046\*\*\* / 0,054\*\*\* / 0,064\*\*\* |
+| Chênh lệch mua–bán | −2,575\*\* / −2,189\*\* / −1,763\*\* | −0,179 / 0,056 / 0,197\*\* |
+| Số quan sát | 960 / 1.600 / 2.240 | như bên trái |
+| Số cụm | 8 | 8 |
+
+Đọc kết quả:
+
+1. DiDiD âm và có ý nghĩa ở mọi đặc tả: mức giảm lợi suất vượt trội sau CLS lớn hơn vào ngày thường so với chính ngày lễ. Điều này đúng như cơ chế: ngày thường là lúc đối tác Mỹ hoạt động và rủi ro quyết toán hiện diện, nên đó là lúc PvP có nhiều thứ để xoá.
+2. β₂ âm và có ý nghĩa ở mọi đặc tả.
+3. Tác động mạnh nhất ở cửa sổ hẹp và yếu dần khi mở rộng, khớp với việc nhiễu tăng lên khi thêm các quan sát xa ngày lễ.
+4. Với biến động, kết quả còn rõ hơn: DiDiD âm và có ý nghĩa ở mức 1% trong cả ba cửa sổ.
+5. β₃ với biến động dương và có ý nghĩa. Bài giải thích điều này "có thể phản ánh thay đổi trong mẫu hình giao dịch giữa giai đoạn ngày lễ Mỹ và không phải ngày lễ Mỹ".
+
+Một lưu ý về độ lớn: β₂ là −0,381 và DiDiD là −0,771, tức gấp khoảng 4–8 lần ước lượng cơ sở khoảng −0,10 ở mục 2; bài không giải thích chênh lệch này. Kết luận của bài: PvP nén các khác biệt về rủi ro quyết toán giữa các môi trường giao dịch, dẫn tới động thái tỷ giá ổn định hơn ngoài giai đoạn ngày lễ. Điều này cũng có nghĩa là phần bù rủi ro quyết toán đã biến thiên theo phơi nhiễm múi giờ ngay từ trước khi Hungary vào CLS.
 
 ### 4. Rủi ro quyết toán và ngang giá tam giác
 
-- Rủi ro quyết toán tạo phơi nhiễm đối tác khác nhau giữa các giao dịch tuỳ theo vị trí, thời điểm và thu xếp quyết toán, khiến các chiến lược lẽ ra tương đương lại có chi phí thực tế khác nhau.
-- Sai lệch tam giác được đo bằng khoảng cách tuyệt đối giữa tỷ giá trực tiếp và tỷ giá tổng hợp qua đồng euro, tính bằng điểm cơ bản, và được diễn giải như chi phí thực tế của arbitrage dưới ràng buộc trung gian, phản ánh chi phí bóng của bảng cân đối và các giới hạn rủi ro.
-- Kết quả cho thấy sai lệch giảm có ý nghĩa trong các đặc tả gọn, tương đương khoảng 27% ở cửa sổ một tháng và 17–20% ở cửa sổ ba tháng. Vì phân phối lệch phải mạnh, bài bổ sung đối chiếu với trung vị và khoảng tứ phân vị.
-- Kiến trúc hiệu ứng cố định cho thấy nhận dạng đến từ chênh lệch giữa các đồng tiền trong cùng một ngày, giúp loại trừ ảnh hưởng của sự kiện toàn cầu, tuy suy luận vẫn cần thận trọng do số cụm nhỏ.
+**Vì sao rủi ro quyết toán giới hạn arbitrage.** Rủi ro quyết toán tạo ra phơi nhiễm đối tác khác nhau giữa các giao dịch, phụ thuộc vào ba yếu tố: vị trí của đối tác, thời điểm quyết toán qua các múi giờ, và thu xếp quyết toán dùng cho từng chân của giao dịch. Khi các chân không được quyết toán đồng thời, trung gian vẫn bị phơi nhiễm suốt cửa sổ quyết toán. Phơi nhiễm này trói dung lượng bảng cân đối và có thể đòi vốn phòng ngừa. Kết quả, theo bài: các chiến lược lẽ ra tương đương lại có chi phí thực tế khác nhau, phản ánh khác biệt về rủi ro, sử dụng vốn và nhu cầu tài trợ.
+
+**Ngang giá tam giác.** Trong điều kiện không ma sát, tỷ giá giữa hai đồng tiền phải nhất quán với tỷ giá hàm ý khi đi vòng qua một đồng tiền thứ ba. Ví dụ, tỷ giá HUF/USD có thể tái tạo bằng HUF/EUR × EUR/USD. Bài định nghĩa sai lệch ở phương trình (4):
+
+D(c,USD,t) = |log S(c,USD,t) − log S̃(c,USD,t)| × 10.000
+
+với S̃ = S(c,EUR) / S(EUR,USD) là tỷ giá tổng hợp qua đồng euro. Phép nhân với 10.000 đổi chênh lệch log sang điểm cơ bản; dấu giá trị tuyệt đối nghĩa là chỉ quan tâm độ lớn của sai lệch, không quan tâm chiều.
+
+**Diễn giải kinh tế.** Sai lệch tam giác là thước đo chi phí thực tế của arbitrage dưới ràng buộc của trung gian. Ngoài chi phí giao dịch, nó còn phản ánh chi phí bóng của việc dùng bảng cân đối, của phơi nhiễm đối tác và của vốn phòng ngừa gắn với các vị thế chưa quyết toán. Khi rủi ro quyết toán làm tăng quy mô hoặc thời lượng của phơi nhiễm, trung gian phải phân bổ vốn và quản lý các giới hạn rủi ro như giá trị chịu rủi ro (VaR), làm nâng chi phí biên của arbitrage. Cách diễn giải này khớp với Huang và cộng sự (2025) về trung gian bị ràng buộc.
+
+**Kết quả** (đơn vị: điểm cơ bản). Cột (1)–(3) dùng cửa sổ ±1 tháng, cột (4)–(6) dùng cửa sổ ±3 tháng; cột (2) và (5) thêm hiệu ứng cố định ngày; cột (3) và (6) thêm hiệu ứng cố định đồng tiền–tháng–năm.
+
+| | (1) | (2) | (3) | (4) | (5) | (6) |
+|---|---|---|---|---|---|---|
+| Treated × Post | −0,01950\*\*\* | −0,01954\*\*\* | −0,00182, không có ý nghĩa | −0,01452\*\* | −0,01227\*\* | −0,00011, không có ý nghĩa |
+| Chênh lệch mua–bán | −4,211\*\* | −4,549\*\* | −4,298\* | 33,843 | 42,313 | 37,877 (cả ba cột ±3 tháng không có ý nghĩa) |
+| Số quan sát | 301 | 301 | 301 | 901 | 901 | 901 |
+| Số cụm | 7 | 7 | 7 | 7 | 7 | 7 |
+| R² | 0,474 | 0,547 | 0,585 | 0,122 | 0,304 | 0,363 |
+
+Hệ số Post là 0,00214 (không có ý nghĩa) ở cửa sổ ±1 tháng và 0,01389\*\* ở cửa sổ ±3 tháng, tức ở cửa sổ dài sai lệch của nhóm đối chứng có tăng chung.
+
+Lưu ý quan trọng: ở cột (3) và (6), khi thêm hiệu ứng cố định đồng tiền–tháng–năm, hệ số sụp từ −0,0195 xuống −0,00182 và từ −0,0145 xuống −0,00011, tức gần như bằng 0 và mất hoàn toàn ý nghĩa. Kết quả giảm sai lệch vì vậy chỉ có ý nghĩa trong các đặc tả gọn hơn.
+
+**Đánh giá độ lớn kinh tế, cách 1: so với bình quân trước sự kiện.**
+
+| Cửa sổ | Nhóm | Trước | Sau | Thay đổi |
+|---|---|---|---|---|
+| ±1 tháng | Đối chứng CEE | 0,0425 | 0,0447 | +0,0022 |
+| | HUF | 0,0714 | 0,0546 | −0,0168 |
+| | DiD không điều kiện | | | −0,0190 |
+| ±3 tháng | Đối chứng CEE | 0,0448 | 0,0603 | +0,0155 |
+| | HUF | 0,0742 | 0,0692 | −0,0050 |
+| | DiD không điều kiện | | | −0,0205 |
+
+Quy ra tỷ lệ so với mức trước sự kiện của HUF: sai lệch giảm khoảng 27% ở cửa sổ một tháng và khoảng 17–20% ở cửa sổ ba tháng. Các tỷ lệ này khớp với việc lấy hệ số hồi quy chia cho mức trước sự kiện của HUF: 0,0195 chia 0,0714 xấp xỉ 27%; 0,01227 đến 0,01452 chia 0,0742 xấp xỉ 17–20%.
+
+**Cách 2: so với các thước đo phân phối bền vững.** Cần cách thứ hai vì sai lệch tam giác lệch phải rất mạnh: phần lớn ngày có sai lệch nhỏ, nhưng thỉnh thoảng có ngày sai lệch rất lớn kéo bình quân lên. Chuẩn đối chiếu theo bình quân vì vậy có thể đánh giá thấp tác động đối với một quan sát điển hình. Trước sự kiện, trung vị khoảng 0,044 điểm cơ bản và khoảng tứ phân vị khoảng 0,036–0,037 điểm cơ bản. Riêng HUF trước sự kiện có bình quân 0,0714 nhưng trung vị chỉ 0,0541, và giá trị tối đa lên tới 0,2959 (cửa sổ ±1 tháng) hoặc 0,5057 (cửa sổ ±3 tháng), cho thấy phân phối cực kỳ lệch. Theo chuẩn này, tác động ước lượng vẫn là một mức siết đáng kể so với phần lõi của phân phối.
+
+**Nhận dạng đến từ đâu.** Cột (2) và (5) hấp thụ hiệu ứng cố định ngày, nên tác động được nhận dạng từ chênh lệch giữa các đồng tiền trong cùng một ngày, giữa HUF và nhóm đối chứng, trước so với sau CLS. Điều này giúp loại trừ lo ngại rằng các sự kiện toàn cầu hay các đợt ngại rủi ro diện rộng gây ra thay đổi trong sai lệch. Tuy vậy, bài tự nhấn mạnh: suy luận vẫn cần được diễn giải thận trọng do số cụm đồng tiền nhỏ.
+
+Cơ chế cuối cùng theo bài: bằng việc giảm các phơi nhiễm này qua quyết toán PvP, CLS nới lỏng ràng buộc của trung gian, hạ chi phí bóng của arbitrage, và dẫn tới các quan hệ không-arbitrage chặt hơn trên thị trường ngoại hối.
 
 ### 5. Kết luận
 
-- Tỷ giá chứa một phần bù biến thiên theo rủi ro quyết toán, và động thái tỷ giá bớt biến động khi rủi ro này giảm. Bằng chứng từ ngày lễ Mỹ xác nhận cơ chế múi giờ.
-- Rủi ro quyết toán hạn chế hoạt động arbitrage qua việc tăng phơi nhiễm đối tác và rủi ro thanh khoản, nâng nhu cầu vốn phòng ngừa và ràng buộc năng lực chịu rủi ro của trung gian.
-- Về chính sách, hạ tầng quyết toán không phải chuyện hậu kiểm mà là yếu tố quyết định cốt lõi của sức chống chịu, định giá và hiệu quả arbitrage của thị trường.
-- Hai hướng nghiên cứu tiếp là kiểm tra các đồng tiền khác đủ điều kiện CLS hoặc các thu xếp PvP thay thế, và nghiên cứu tương tác giữa thiết kế quyết toán với các ma sát trung gian rộng hơn.
+**Ba kết quả, một thông điệp.**
+
+1. Tỷ giá chứa một phần bù biến thiên theo rủi ro quyết toán, và động thái tỷ giá bớt biến động khi rủi ro này giảm.
+2. Bằng chứng từ ngày lễ riêng của Mỹ cho thấy phần bù rủi ro quyết toán đã biến thiên theo phơi nhiễm múi giờ trước khi Hungary vào CLS, xác nhận cơ chế múi giờ.
+3. Sai lệch tam giác giảm đáng kể sau khi gia nhập CLS, tức các quan hệ không-arbitrage chặt hơn.
+
+Câu tóm tắt của bài: rủi ro quyết toán vừa là một ma sát được định giá, vừa là một nguồn giới hạn arbitrage trong thị trường ngoại hối. Nó hạn chế hoạt động arbitrage qua việc tăng phơi nhiễm đối tác và rủi ro thanh khoản, nâng nhu cầu vốn phòng ngừa, và ràng buộc năng lực chịu rủi ro của trung gian.
+
+**Thông điệp chính sách trung tâm.** Hạ tầng quyết toán không chỉ là mối quan tâm của bộ phận hậu kiểm (back office, phần việc xử lý giấy tờ sau giao dịch), mà là một yếu tố quyết định cốt lõi của sức chống chịu thị trường, định giá và hiệu quả arbitrage. Chuỗi cơ chế: PvP giảm phơi nhiễm đối tác → nới lỏng ràng buộc của trung gian → hạ chi phí bóng của arbitrage → cải thiện mức tích hợp và ổn định của thị trường tiền tệ.
+
+**Hai hướng nghiên cứu tiếp.**
+
+1. Các đồng tiền khác đủ điều kiện CLS, hoặc các thu xếp PvP thay thế, có cho hiệu ứng tương tự không.
+2. Thiết kế quyết toán tương tác thế nào với các ma sát trung gian rộng hơn: ràng buộc bảng cân đối, quản lý tồn kho, và bất đối xứng thông tin.
+
+Bài cũng tự định vị là cung cấp một thước chuẩn để đánh giá các cách tiếp cận thay thế về thiết kế quyết toán.
 
 ## Thuật ngữ
 

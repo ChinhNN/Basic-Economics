@@ -409,56 +409,192 @@
 2. Ai thực sự được mạng lưới này bảo vệ, và điều gì phân biệt bảy nền kinh tế có tiếp cận gần như vô hạn với phần còn lại của thế giới?
 3. Trong bốn kịch bản khủng hoảng, mạng lưới có đủ nguồn lực không, và vì sao kịch bản số hoá tài chính lại là kịch bản căng thẳng nhất dù không phải kịch bản có cú sốc lớn nhất?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Mạng lưới an toàn tài chính toàn cầu (global financial safety net, GFSN).** Tập hợp mọi nguồn ngoại tệ mà một nước có thể dựa vào khi bị cú sốc làm thiếu ngoại tệ, ví dụ khi vốn nước ngoài rút ra ồ ạt hoặc giá hàng xuất khẩu sụp đổ. Báo cáo chia mạng lưới làm bốn lớp: dự trữ của chính nước đó, đường hoán đổi với ngân hàng trung ương nước khác, quỹ chung của khu vực, và IMF. Ví dụ trong bài: năm 2024, lớp dự trữ khoảng 14 nghìn tỷ USD, ba lớp kia cộng lại khoảng 4,5 nghìn tỷ USD. Khái niệm này quan trọng vì toàn bộ báo cáo là câu hỏi: bốn lớp này có đủ không, và ai thực sự dùng được chúng.
+
+**Dự trữ ngoại hối và tự bảo hiểm (international reserves, self-insurance).** Dự trữ ngoại hối là ngoại tệ, vàng và tài sản nước ngoài an toàn mà ngân hàng trung ương nắm giữ để dùng khi cần. Gọi là "tự bảo hiểm" vì nước đó tự bỏ tiền ra mua sự an toàn cho mình, không chia rủi ro với ai. Cái giá là chi phí nắm giữ: tiền để trong dự trữ thường đầu tư vào trái phiếu an toàn lợi suất thấp, trong khi nước đó (hoặc chính phủ nước đó) đi vay với lãi suất cao hơn. Ví dụ minh hoạ: nếu một nước vay với lãi 6% một năm còn dự trữ chỉ sinh lời 4,6%, mỗi đồng dự trữ tốn 1,4 điểm phần trăm, tức 140 điểm cơ bản một năm, đúng bằng mức bình quân mà báo cáo ước tính cho thị trường mới nổi.
+
+**Nghĩa vụ đối ngoại và độ bao phủ (external liabilities, coverage).** Nghĩa vụ đối ngoại là tổng số tiền một nước nợ hoặc phải trả cho nước ngoài: nợ vay, cổ phần và trái phiếu do người nước ngoài nắm. Độ bao phủ là tỷ lệ giữa nguồn lực mà mạng lưới có thể cung cấp cho nước đó và nghĩa vụ đối ngoại của nó. Ví dụ minh hoạ: một nước có nghĩa vụ đối ngoại 100 tỷ USD và tiếp cận được 17 tỷ USD từ bốn lớp thì độ bao phủ là 17%, đúng bằng mức trung vị trong báo cáo. Một thước đo đơn giản hơn là số tháng nhập khẩu mà dự trữ đủ trả; ngưỡng tối thiểu thông thường là 3 tháng.
+
+**Thước đo đủ dự trữ ARA (assessing reserve adequacy).** Thước đo của IMF so sánh dự trữ thực có với một mức dự trữ "cần có", tính từ các nguồn có thể làm ngoại tệ chảy ra: xuất khẩu, tiền trong nước có thể đổi ra ngoại tệ, nợ ngắn hạn và các khoản nợ khác. Tỷ số dưới 1,0 là không đủ, từ 1,0 đến 1,5 là vùng khuyến nghị, trên 1,5 là dư. Ví dụ minh hoạ: nước có dự trữ 80 tỷ USD trong khi mức cần có là 100 tỷ thì tỷ số ARA là 0,8, tức thiếu. Báo cáo dùng thước đo này cả để đánh giá các nước lẫn để đặt ngưỡng vỡ nợ trong mô phỏng (80% thước đo ARA).
+
+**Hoán đổi tiền tệ song phương (bilateral swap arrangement, BSA).** Thoả thuận theo đó hai ngân hàng trung ương đổi tiền của nhau trong một thời gian rồi đổi ngược lại theo cùng tỷ giá. Ví dụ minh hoạ: Fed đưa 10 tỷ USD cho một ngân hàng trung ương nước ngoài và nhận lượng nội tệ tương đương; ba tháng sau hai bên đổi lại, bên kia trả thêm lãi bằng lãi suất qua đêm (OIS) cộng 25 điểm cơ bản. Ngân hàng trung ương nước ngoài dùng số đô la đó cho các ngân hàng trong nước đang thiếu đô la vay. Công cụ này quan trọng vì nó nhanh nhất và lớn nhất trong mạng lưới, nhưng chỉ có khi bên cung cấp đồng ý.
+
+**Khủng hoảng thanh khoản và khủng hoảng khả năng thanh toán (liquidity vs solvency).** Thanh khoản là có tiền mặt ngay khi cần; khả năng thanh toán là tổng tài sản đủ trả tổng nợ về lâu dài. Ví dụ minh hoạ: một người có căn nhà 2 tỷ đồng và khoản nợ 500 triệu đến hạn ngày mai nhưng không có tiền mặt là gặp vấn đề thanh khoản, cho vay ngắn hạn là giải quyết xong; còn một người nợ 3 tỷ mà tài sản chỉ có 2 tỷ là mất khả năng thanh toán, cho vay thêm chỉ trì hoãn vấn đề. Phân biệt này quan trọng vì báo cáo cho thấy hoán đổi song phương giỏi xử lý loại thứ nhất nhưng không xử lý được loại thứ hai, vốn cần IMF.
+
+**Dấu vết và tâm lý sợ mất dự trữ (stigma, fear of losing reserves).** Dấu vết là việc một nước ngại xin hỗ trợ vì sợ thị trường coi đó là thừa nhận mình yếu. Sợ mất dự trữ là cùng tâm lý ấy với dự trữ: nước có dự trữ nhưng không dám dùng, vì thấy dự trữ giảm thì nhà đầu tư càng hoảng. Ví dụ trong bài: năm 2020 chỉ 6 trong 87 thị trường mới nổi để dự trữ giảm quá 20%. Khái niệm này quan trọng vì nó làm cho cả lớp dự trữ lẫn các công cụ phòng ngừa dùng được ít hơn nhiều so với con số trên giấy.
+
+**Quyền rút vốn đặc biệt (Special Drawing Rights, SDR).** Tài sản dự trữ do IMF tạo ra và phân bổ cho các nước thành viên theo tỷ lệ hạn ngạch; giá trị của nó tính theo một rổ đồng tiền lớn, và nước nắm SDR có thể đổi sang đồng tiền mạnh qua IMF. Ví dụ trong bài: tổng phân bổ từ trước đến nay là 660,7 tỷ SDR, khoảng 943 tỷ USD. Khái niệm này quan trọng vì cách các nước dùng SDR (giữ làm đệm hay tiêu ngay) cho thấy rõ khác biệt giữa nước giàu và nước nghèo.
+
+## Nội dung chi tiết
 
 ### 1. Cấu trúc và quy mô của mạng lưới
 
-- Mạng lưới gồm bốn lớp: dự trữ quốc gia, hoán đổi song phương giữa ngân hàng trung ương, thoả thuận tài chính khu vực, và IMF. Mỗi lớp có ưu thế và giới hạn riêng về tốc độ, quy mô, điều kiện và tính phổ quát.
-- Từ 2008 đến 2024, dự trữ gần như gấp đôi lên khoảng 14 nghìn tỷ USD trong khi ba lớp còn lại tăng gấp bốn lần nhưng chỉ đạt khoảng 4,5 nghìn tỷ USD. Lớp tự bảo hiểm vì vậy vẫn chiếm áp đảo, và đó là hình thức bảo vệ đắt nhất và bất bình đẳng nhất.
+Báo cáo này là cuộc kiểm kê thứ ba của IMF về mạng lưới an toàn tài chính toàn cầu, sau hai cuộc năm 2011 và 2016. Mạng lưới gồm bốn lớp, mỗi lớp có ưu thế và giới hạn riêng về tốc độ, quy mô, điều kiện và tính phổ quát:
+
+| Lớp | Ưu thế | Giới hạn |
+|---|---|---|
+| ① Dự trữ ngoại hối quốc gia (tự bảo hiểm) | Khả dụng ngay, không điều kiện, không cần ai phê duyệt | Đắt nhất và phân bổ bất bình đẳng nhất |
+| ② Hoán đổi song phương giữa ngân hàng trung ương (BSA) | Nhanh, quy mô lớn, không đi kèm điều kiện chính sách | Tuỳ thuộc quyết định của bên cung cấp: không phải quyền mà là ân huệ |
+| ③ Thoả thuận tài chính khu vực (RFA) | Hiểu bối cảnh khu vực, được các nước trong khu vực coi là của mình | Phụ thuộc vào việc cú sốc có mang tính khu vực hay không: nếu cả khu vực cùng gặp khó thì năng lực gộp nguồn lực giảm đúng lúc cần nhất |
+| ④ IMF | Lớp duy nhất mang tính phổ quát: 191 thành viên, mọi nước đều tiếp cận được; năng lực cho vay khoảng 1 nghìn tỷ USD | Đi kèm điều kiện chính sách và để lại dấu vết chính trị |
+
+**Sự mất cân đối trung tâm.** Từ 2008 đến 2024:
+
+| | Mức tăng | Quy mô năm 2024 |
+|---|---|---|
+| Dự trữ | gần gấp đôi | khoảng 14 nghìn tỷ USD |
+| Ba lớp còn lại cộng lại | gấp bốn lần | chỉ khoảng 4,5 nghìn tỷ USD |
+
+Ba lớp chung (hoán đổi, khu vực, IMF) tăng nhanh hơn nhiều về tỷ lệ, nhưng xuất phát từ một nền rất thấp. Vì vậy lớp tự bảo hiểm vẫn chiếm hơn ba phần tư toàn mạng lưới (14 trên tổng khoảng 18,5 nghìn tỷ USD). Đây chính là vấn đề mà báo cáo nêu: hình thức bảo vệ đắt nhất và bất bình đẳng nhất lại là hình thức lớn nhất.
 
 ### 2. Dự trữ
 
-- Dự trữ đạt đỉnh ở mức 7,7% tổng nghĩa vụ đối ngoại toàn cầu năm 2012 và nay giảm còn khoảng 6%, tức độ bao phủ thực tế đang mỏng đi dù con số danh nghĩa vẫn tăng. Năm 2022 ghi nhận mức sụt giảm theo năm lớn nhất trong hơn hai thập niên.
-- Phân bổ cực kỳ lệch: các nền kinh tế tiên tiến và thị trường mới nổi lớn nắm 86% tổng dự trữ, trong khi các nước thu nhập thấp chỉ nắm 1% dù chiếm 2% kinh tế thế giới, và 24 nước trong nhóm này có dự trữ dưới ba tháng nhập khẩu.
-- Vàng đã vượt euro để thành tài sản dự trữ lớn thứ hai, chiếm gần 18% dự trữ toàn cầu cuối 2024, với ngân hàng trung ương chiếm gần một phần tư lượng mua kể từ 2022 so với 10% giai đoạn trước, phản ánh lo ngại về tịch thu tài sản và phân mảnh địa kinh tế.
-- Chi phí nắm giữ dự trữ khoảng 140 điểm cơ bản hay 0,4% GDP mỗi năm với thị trường mới nổi, và cao hơn 400–600 điểm cơ bản nữa với nước thu nhập thấp. Nghịch lý là những nước nghèo nhất phải trả giá cao nhất để tự bảo hiểm.
-- Khi khủng hoảng thực sự đến, các nước lại không dám dùng dự trữ vì việc dự trữ giảm tự nó là tín hiệu xấu. Chỉ 6 trong 87 thị trường mới nổi giảm dự trữ quá 20% trong năm 2020, nghĩa là giá trị sử dụng thực tế của lớp bảo vệ đắt nhất thấp hơn nhiều so với con số danh nghĩa.
+**Diễn biến lịch sử.** Dự trữ tăng rất mạnh giai đoạn 2005–2012; báo cáo nói là tăng gấp ba. Năm 2012, dự trữ đạt đỉnh bằng 7,7% tổng nghĩa vụ đối ngoại toàn cầu; nay tỷ lệ này giảm còn khoảng 6%. Điểm tinh tế là dự trữ vẫn tăng về giá trị tuyệt đối, nhưng giảm so với quy mô nghĩa vụ đối ngoại mà nó phải che phủ, vì nợ và đầu tư xuyên biên giới tăng nhanh hơn. Nói cách khác, độ bao phủ thực tế đang mỏng đi dù con số danh nghĩa vẫn tăng. Năm 2022 ghi nhận mức sụt giảm dự trữ toàn cầu theo năm lớn nhất trong hơn hai thập niên.
+
+**Phân bổ dự trữ.** Đây là chỗ thấy rõ nhất sự bất bình đẳng:
+
+| Nhóm nước | Dự trữ (nghìn tỷ USD) | % tổng dự trữ thế giới | % GDP của thế giới mà nhóm chiếm |
+|---|---|---|---|
+| Nền kinh tế tiên tiến | 6,4 | 44% | 59% |
+| Thị trường mới nổi lớn | 5,9 | 42% | 31% |
+| Thị trường mới nổi khác | 1,8 | 13% | 8% |
+| Nước thu nhập thấp | 0,2 | 1% | 2% |
+| Thế giới | 14,6 | 100% | 100% |
+
+Các nền kinh tế tiên tiến và thị trường mới nổi lớn cộng lại nắm 86% tổng dự trữ. Nước thu nhập thấp nắm 1% dự trữ toàn cầu dù chiếm 2% kinh tế thế giới, tức chỉ có khoảng một nửa mức dự trữ tương ứng với quy mô của mình. Và đây lại là nhóm dễ tổn thương nhất trước cú sốc: khoảng 40% số nước thu nhập thấp, tức 24 nước, có dự trữ dưới 3 tháng nhập khẩu, ngưỡng tối thiểu thông thường. (Lưu ý: tổng thế giới ở bảng là 14,6 nghìn tỷ, trong khi phần lời của báo cáo làm tròn là 14 nghìn tỷ.)
+
+**Thị trường mới nổi theo thước đo ARA.** Trong mẫu thị trường mới nổi được đánh giá:
+
+| Tỷ số ARA | Đánh giá | Số nước |
+|---|---|---|
+| Dưới 1,0 | Không đủ | 27 |
+| 1,0–1,5 | Vùng khuyến nghị | 11 |
+| Trên 1,5 | Dư | 13 |
+
+Hơn một nửa số thị trường mới nổi trong mẫu này nằm dưới ngưỡng đủ.
+
+**Vàng quay trở lại.** Cuối 2024, vàng chiếm gần 18% dự trữ toàn cầu, vượt đồng euro để trở thành tài sản dự trữ lớn thứ hai (sau đô la Mỹ). Kể từ 2022, ngân hàng trung ương mua gần một phần tư tổng lượng vàng được mua trên thế giới, so với chỉ 10% trong giai đoạn 2010–21. Động lực là lo ngại tài sản dự trữ ở nước ngoài bị tịch thu hoặc đóng băng, và lo ngại về phân mảnh địa kinh tế (thế giới tách thành các khối thương mại và tài chính đối lập). Đánh đổi: vàng không sinh lợi tức, và trong khủng hoảng thì kém thanh khoản hơn trái phiếu chính phủ.
+
+**Cái giá của tự bảo hiểm.** Với thị trường mới nổi, chi phí nắm giữ dự trữ bình quân khoảng 140 điểm cơ bản, tương đương khoảng 0,4% GDP mỗi năm (giai đoạn 2012–2024). Ngoài ra còn có một phần bù thanh khoản ngầm 50–150 điểm cơ bản. Với nước thu nhập thấp, chi phí cao hơn thêm 400–600 điểm cơ bản so với thị trường mới nổi, vì họ vay đắt hơn nhiều. Đây là nghịch lý trung tâm của báo cáo: những nước nghèo nhất, ít dự trữ nhất và ít tiếp cận các lớp khác nhất lại là những nước phải trả giá cao nhất để tự bảo hiểm.
+
+**Khi khủng hoảng đến, các nước không dám dùng dự trữ.** Trong khủng hoảng tài chính toàn cầu (GFC), hầu hết thị trường mới nổi không dùng quá một phần tư dự trữ. Trong cú sốc Covid năm 2020, chỉ 6 trong số 87 thị trường mới nổi để dự trữ giảm quá 20%. Hiện tượng này gọi là "sợ mất dự trữ". Logic của nó: việc dự trữ giảm tự nó là một tín hiệu xấu với thị trường, nên có thể kích hoạt chính cuộc khủng hoảng mà dự trữ lẽ ra để ngăn. Hệ quả nghiêm trọng: giá trị sử dụng thực tế của dự trữ thấp hơn nhiều so với con số danh nghĩa, và một phần lớn của lớp bảo vệ tốn kém nhất thực ra không bao giờ được động đến.
 
 ### 3. Hoán đổi song phương
 
-- Cục Dự trữ Liên bang duy trì năm đường hoán đổi thường trực không giới hạn và đã mở chín đường tạm thời trong đại dịch rồi đóng lại. Ranh giới giữa trong và ngoài câu lạc bộ được vẽ lại mỗi lần khủng hoảng bởi một bên duy nhất.
-- Ngân hàng trung ương Trung Quốc có hơn bốn mươi đường hoán đổi nhưng bằng nhân dân tệ, nên hạn chế khi nhu cầu là thanh khoản đô la. Cơ chế FIMA repo của Fed đạt đỉnh 60 tỷ USD tháng 3/2023.
-- Hoán đổi của Fed đạt đỉnh hơn 500 tỷ USD trong khủng hoảng tài chính toàn cầu và hơn 400 tỷ trong đại dịch, nhưng giảm một nửa trong vài tháng và gần như giải ngân hết vào tháng 10/2020. Đây là công cụ nhanh nhất và rút lui nhanh nhất, giỏi xử lý khủng hoảng thanh khoản nhưng không xử lý được vấn đề khả năng thanh toán.
+**Mạng lưới của Cục Dự trữ Liên bang Mỹ (Fed).** Fed duy trì 5 đường hoán đổi thường trực, không giới hạn, với Ngân hàng Trung ương châu Âu (ECB), Ngân hàng Anh, Ngân hàng Nhật, Ngân hàng Quốc gia Thuỵ Sĩ (SNB) và Ngân hàng Canada. Trong đại dịch, Fed mở thêm 9 đường tạm thời với Úc, Brazil, Đan Mạch, Mexico, Hàn Quốc, New Zealand, Na Uy, Singapore và Thuỵ Điển. Chi phí vay qua các đường này là lãi suất OIS cộng 25 điểm cơ bản.
+
+Điểm quyết định nằm ở chỗ: 5 đường thường trực là vĩnh viễn và không giới hạn; 9 đường kia là tạm thời và tuỳ ý, và đã đóng lại sau đại dịch. Ranh giới giữa "trong câu lạc bộ" và "ngoài câu lạc bộ" vì vậy được vẽ lại mỗi lần khủng hoảng, bởi một bên duy nhất là Fed.
+
+**Các mạng lưới khác.**
+
+- Ngân hàng Trung ương Trung Quốc (PBoC) có hơn 40 đường hoán đổi, nhưng bằng nhân dân tệ. Chúng hữu ích cho thương mại song phương với Trung Quốc, nhưng hạn chế hơn nhiều khi nhu cầu là thanh khoản đô la.
+- ECB có các đường thanh khoản bằng euro cho ngân hàng trung ương khác, mức sử dụng đạt đỉnh khoảng 3,5 tỷ EUR vào tháng 9/2021.
+- Cơ chế FIMA repo của Fed cho phép ngân hàng trung ương nước ngoài đem trái phiếu kho bạc Mỹ mình đang giữ đổi lấy đô la trong thời gian ngắn, thay vì phải bán chúng ra thị trường. Mức sử dụng đạt đỉnh 60 tỷ USD vào tháng 3/2023.
+
+**Quy mô sử dụng trong hai cuộc khủng hoảng.** Trong GFC, hoán đổi của Fed đạt đỉnh hơn 500 tỷ USD. Trong Covid, mức sử dụng đạt đỉnh hơn 400 tỷ USD vào mùa xuân 2020, giảm một nửa ngay trong mùa hè 2020 và gần như được trả hết vào tháng 10/2020. Như vậy hoán đổi là công cụ nhanh nhất và cũng rút lui nhanh nhất trong toàn mạng lưới: nó dập tắt căng thẳng thanh khoản trong vài tháng chứ không phải vài năm. Đó vừa là sức mạnh vừa là giới hạn: hoán đổi giỏi xử lý khủng hoảng thanh khoản nhưng không xử lý được vấn đề khả năng thanh toán hay mất cân đối cán cân thanh toán kéo dài.
 
 ### 4. Thoả thuận tài chính khu vực
 
-- Tám cơ chế có tổng năng lực khoảng 1,3 nghìn tỷ USD, trong đó ESM chiếm hơn một nửa và là cơ chế duy nhất vừa lớn vừa có hồ sơ sử dụng thực tế đáng kể.
-- CMIM và BRICS CRA cộng lại hơn 320 tỷ USD nhưng chưa từng được kích hoạt lần nào, cho thấy khoảng cách giữa năng lực trên giấy và năng lực đã được kiểm chứng.
-- Điểm yếu cơ cấu của mô hình khu vực là năng lực gộp nguồn lực suy giảm đúng lúc cần nhất nếu cú sốc mang tính khu vực, nên RFA không thể thay thế một lớp toàn cầu.
+Có tám cơ chế khu vực, tổng năng lực cho vay khoảng 1,3 nghìn tỷ USD (tỷ USD):
+
+| Cơ chế | Năng lực cho vay | Dư nợ hiện tại | Đỉnh lịch sử |
+|---|---|---|---|
+| ESM (khu vực euro) | 785,1 | 288,5 | 215,5 |
+| CMIM (ASEAN+3) | 240,0 | chưa dùng | chưa từng được sử dụng |
+| BRICS CRA | 84,5 | chưa dùng | chưa từng được sử dụng |
+| EFSM (EU) | 70,3 | 43,6 | 36,2 |
+| EU BoP (hỗ trợ cán cân thanh toán của EU) | 58,6 | 0,0 | 10,4 |
+| FLAR (Mỹ Latinh) | 10,1 | 0,3 | 1,8 |
+| EFSD (Á-Âu) | 10,0 | 1,9 | 1,2 |
+| AMF (Ả Rập) | 4,1 | 2,2 | 0,9 |
+| Tổng | khoảng 1.263 | | |
+
+**ESM chiếm hơn một nửa** tổng năng lực và là cơ chế duy nhất vừa có quy mô lớn vừa có hồ sơ sử dụng thực tế đáng kể. Lãi suất ESM cho Tây Ban Nha và Síp vay năm 2014 chỉ 60–110 điểm cơ bản, rẻ hơn nhiều so với đi vay trên thị trường khi khủng hoảng.
+
+**Phát hiện quan trọng nhất của bảng.** Hai cơ chế lớn nhất sau ESM là CMIM (240 tỷ) và BRICS CRA (84,5 tỷ), cộng lại hơn 320 tỷ USD, nhưng chưa từng được kích hoạt lần nào. "Năng lực trên giấy" khác xa "năng lực đã được kiểm chứng": một cơ chế chưa bao giờ chạy thì trong khủng hoảng thật sẽ mất thời gian vừa để quyết định vừa để học cách vận hành.
+
+**Điểm yếu cơ cấu của mô hình khu vực.** Thoả thuận khu vực gộp nguồn lực của các nước trong cùng một khu vực. Nếu cú sốc mang tính khu vực (thiên tai, khủng hoảng thương mại trong vùng, biến động giá hàng hoá mà cả khu vực cùng xuất khẩu), thì các thành viên cùng lúc cần rút tiền và cùng lúc khó đóng góp. Năng lực gộp nguồn lực vì thế suy giảm đúng vào lúc cần nhất. Đây cũng là lý do thoả thuận khu vực không thể thay thế một lớp toàn cầu.
 
 ### 5. IMF
 
-- IMF là lớp duy nhất mang tính phổ quát với 191 thành viên và năng lực cho vay khoảng một nghìn tỷ USD sau đợt tăng hạn ngạch lần thứ 16, cùng việc nâng giới hạn tiếp cận thêm 38% năm 2024.
-- Giai đoạn 2020–2023, 83 nước nhận tài trợ khẩn cấp và 96 nước có thoả thuận chương trình, cho thấy nhu cầu thực về công cụ giải ngân nhanh và ít điều kiện.
-- Tổng phân bổ SDR đến nay là 660,7 tỷ SDR. Các nước giàu hơn giữ SDR làm đệm dự trữ, trong khi phần lớn nước thu nhập thấp phải dùng một phần ngay cho hỗ trợ ngân sách.
+**Quy mô và phạm vi.** IMF có 191 thành viên và là lớp duy nhất mang tính phổ quát. Đợt rà soát hạn ngạch lần thứ 16 tăng hạn ngạch thêm 50%, đưa năng lực cho vay lên khoảng 1 nghìn tỷ USD. Năm 2024, IMF nâng giới hạn tiếp cận (số tiền tối đa một nước được vay so với hạn ngạch) thêm 38%. Kể từ đại dịch, IMF đã phê duyệt hơn 435 tỷ USD cho 97 nước; cam kết còn hiệu lực cuối 2024 là hơn 250 tỷ USD. (Báo cáo không nhất quán ở đây: ở một chỗ khác, đoạn 41, cam kết tài trợ giai đoạn 2020–24 được ghi là khoảng 386 tỷ USD.)
+
+**Cho vay 2020–2023 ở quy mô chưa từng có.** 83 nước nhận tài trợ khẩn cấp; 96 nước có thoả thuận chương trình, trong đó 35 là chương trình ưu đãi cho nước thu nhập thấp. Giải ngân giai đoạn 2020–24 khoảng 160 tỷ USD. Điểm đáng chú ý: tài trợ khẩn cấp, loại giải ngân nhanh và ít điều kiện, được dùng ở quy mô lớn chưa từng có trong đại dịch, cho thấy nhu cầu về công cụ nhanh và ít điều kiện là có thật.
+
+**Quyền rút vốn đặc biệt.** Tổng phân bổ SDR từ trước đến nay là 660,7 tỷ SDR, khoảng 943 tỷ USD. Khảo sát 142 nước về cách dùng SDR:
+
+| Nhóm | Cách dùng |
+|---|---|
+| 115 trên 142 nước | Dùng để tăng dự trữ |
+| 61 trên 72 thị trường mới nổi | Dùng để tăng dự trữ |
+| 33 trên 53 nước thu nhập thấp | Dùng một phần cho hỗ trợ ngân sách |
+
+Nước giàu hơn giữ SDR làm đệm dự trữ, còn phần lớn nước nghèo hơn phải tiêu ngay một phần cho nhu cầu ngân sách cấp bách. Cùng một công cụ có chức năng khác nhau tuỳ nước đó nghèo đến mức nào.
 
 ### 6. Bất bình đẳng về tiếp cận
 
-- Bảy nền kinh tế có tiếp cận gần như không giới hạn: năm nước phát hành đồng tiền dự trữ cộng Canada và Thuỵ Sĩ nhờ đường hoán đổi không giới hạn với Fed. Năm đồng tiền đó chiếm 93% dự trữ ngoại hối toàn cầu.
-- Với phần còn lại, độ bao phủ trung vị là 17% nghĩa vụ đối ngoại nhưng phân tán rất rộng, nửa số nước nằm dưới 10% hoặc trên 30%.
-- Với nước thu nhập thấp, IMF chiếm 7% độ bao phủ so với 3% ở các nhóm khác, nghĩa là IMF quan trọng nhất đúng với những nước có ít lựa chọn nhất.
+Báo cáo đo độ bao phủ của mạng lưới cho từng nước, tức tổng nguồn lực từ bốn lớp mà nước đó tiếp cận được so với nghĩa vụ đối ngoại của nó (theo số liệu vị thế đầu tư quốc tế, IIP).
+
+**Bảy nền kinh tế có tiếp cận gần như không giới hạn:**
+
+1. Năm nơi phát hành đồng tiền dự trữ: Mỹ, Trung Quốc, Anh, Nhật và khu vực euro.
+2. Cộng 2 nước có đường hoán đổi không giới hạn với Fed: Canada và Thuỵ Sĩ.
+
+Năm đồng tiền dự trữ đó chiếm 93% dự trữ ngoại hối toàn cầu năm 2024. Với 7 nền kinh tế này, mạng lưới an toàn gần như vô hạn và gần như miễn phí: họ có thể tự tạo ra chính đồng tiền mà thế giới cần, hoặc vay không giới hạn từ người tạo ra nó.
+
+**Với phần còn lại của thế giới,** độ bao phủ trung vị chỉ 17% nghĩa vụ đối ngoại, và phân tán rất rộng: một nửa số nước nằm dưới 10% hoặc trên 30%. Không có một "mức bảo vệ điển hình" nào; mỗi nước ở một vị trí rất khác nhau.
+
+**Với nước thu nhập thấp,** IMF đóng góp 7% độ bao phủ (trung vị), so với 3% ở các nhóm khác. Tức là IMF là lớp quan trọng nhất đúng với những nước có ít lựa chọn khác nhất, vì họ có ít dự trữ, không có đường hoán đổi, và thoả thuận khu vực của họ thì nhỏ. Lưu ý về giả định: phép tính độ bao phủ này giả định các nước chỉ dùng được một phần dự trữ theo cách thận trọng (50%), trong khi phần mô phỏng ở mục sau dùng giả định rộng hơn (80%).
 
 ### 7. Mô phỏng
 
-- Thiết kế ba giai đoạn: chọn nước bị ảnh hưởng theo chỉ số tổng hợp ở phân vị 65, áp cú sốc ở phân vị 90 của phân bố lịch sử, rồi cho khó khăn lan truyền qua mạng lưới thương mại và tài chính với ngưỡng vỡ nợ đặt ở 80% thước đo ARA.
-- Bốn kịch bản gồm lịch sử, số hoá tài chính, phân mảnh địa kinh tế và khí hậu. Trong mọi kịch bản tổng nguồn lực vẫn vượt tổng cầu, nhưng biên an toàn hẹp nhất dưới kịch bản số hoá.
-- Điểm đáng suy ngẫm là số hoá không làm cú sốc lớn hơn mà làm cú sốc nhanh hơn. Mạng lưới được thiết kế cho tốc độ ra quyết định của thế kỷ trước, nên nếu dòng tiền chảy đi trong vài giờ thì năng lực trên giấy trở nên vô nghĩa nếu thủ tục kích hoạt không theo kịp.
+**Thiết kế ba giai đoạn.**
+
+| Giai đoạn | Nội dung |
+|---|---|
+| 1. Chọn nước bị ảnh hưởng | Dùng một chỉ số tổng hợp về tính dễ tổn thương; các nước ở phân vị 65 trở lên được coi là bị tác động |
+| 2. Cú sốc ban đầu | Cú sốc ở mức phân vị 90 của phân bố lịch sử: chỉ 10% nợ đến hạn được đảo hạn, dòng vốn danh mục về 0, thắt chặt tài khoá 0,7% GDP |
+| 3. Lan truyền qua mạng lưới | Mô hình mạng lưới với ngưỡng vỡ nợ bằng 80% thước đo ARA; thắt chặt tài khoá thêm 1% GDP, thể hiện qua giảm nhập khẩu; tỷ giá thực mất giá 10% / 5% / +5% tuỳ nhóm nước; độ co giãn của cán cân vãng lai là −0,2% GDP cho mỗi đơn vị thay đổi tỷ giá thực hiệu dụng (REER) |
+
+Điểm thiết kế quan trọng nhất là giai đoạn 3: nó cho phép khó khăn ở một nước lan sang nước khác qua thương mại và tài chính. Khi một nước gặp khủng hoảng và cắt nhập khẩu, các bạn hàng của nó mất xuất khẩu và có thể rơi vào khó khăn tiếp. Mô phỏng vì vậy bắt được hiệu ứng dây chuyền chứ không chỉ cộng các cú sốc độc lập.
+
+**Giả định về phía cung:** ở đường cơ sở, các nước dùng tới 80% dự trữ; ở biến thể thận trọng chỉ dùng 50%; khả năng cho vay của IMF bị giới hạn ở 200% hạn ngạch của mỗi nước.
+
+**Bốn kịch bản:**
+
+1. **Lịch sử**: cú sốc theo mẫu hình quá khứ.
+2. **Số hoá tài chính**: dòng vốn chạy nhanh hơn, tiền gửi bị rút nhanh hơn, tài sản số lan truyền căng thẳng.
+3. **Phân mảnh địa kinh tế**: thương mại và tài chính tách thành các khối.
+4. **Khí hậu**: thiên tai và chi phí chuyển đổi sang kinh tế carbon thấp.
+
+**Kết quả.** Trong mọi kịch bản, tổng nguồn lực của mạng lưới vẫn vượt tổng cầu. Nhưng biên an toàn hẹp nhất dưới kịch bản số hoá tài chính. Cầu từ thị trường mới nổi đạt đỉnh dưới kịch bản phân mảnh địa kinh tế; cầu từ nền kinh tế tiên tiến cao nhất dưới kịch bản số hoá. Tổng cầu ước tính cao hơn khoảng 50% so với mức sử dụng đỉnh điểm hằng năm trong GFC. (Con số 50% này khó đối chiếu với các con số khác trong báo cáo: mức rút vốn đỉnh giai đoạn GFC khoảng 880 tỷ USD, còn tổng cầu mô phỏng khoảng 1.800–2.300 tỷ USD, tức cao hơn nhiều so với 50%.)
+
+**Vì sao kịch bản số hoá lại căng nhất.** Số hoá không làm cú sốc lớn hơn mà làm cú sốc nhanh hơn. Mạng lưới an toàn được thiết kế cho tốc độ của các cuộc khủng hoảng thế kỷ 20: họp hội đồng, đàm phán chương trình, phê duyệt. Nếu dòng tiền chảy đi trong vài giờ chứ không phải vài tuần, thì năng lực trên giấy trở nên vô nghĩa khi thủ tục kích hoạt không theo kịp. Đây là lập luận mạnh nhất cho yêu cầu tăng khả năng dự báo và tự động hoá việc kích hoạt.
 
 ### 8. Điểm yếu và cải cách
 
-- Bốn điểm yếu: tiếp cận không đồng đều, khả năng dự báo hạn chế do BSA là quyết định tuỳ ý và các RFA lớn chưa từng chạy, phòng ngừa khủng hoảng chưa đủ vì các công cụ dự phòng ít được dùng do sợ dấu vết, và cấu trúc nhiều lớp thiếu gắn kết.
-- Bốn hướng cải cách tương ứng là mở rộng và làm đồng đều tiếp cận, tăng khả năng dự báo bằng tiêu chí kích hoạt rõ ràng và diễn tập trước, củng cố công cụ phòng ngừa đồng thời giảm dấu vết, và cải thiện phối hợp giữa các lớp.
-- So sánh ba cuộc kiểm kê 2011, 2016 và 2025 cho thấy mối quan tâm đã chuyển từ câu hỏi có đủ tiền không sang câu hỏi tiền đó có đến đúng người, đúng lúc, một cách có thể dự báo được không.
+**Bốn điểm yếu**, đặt cạnh bốn hướng cải cách tương ứng:
+
+| Điểm yếu | Biểu hiện | Hướng cải cách |
+|---|---|---|
+| ① Tiếp cận không đồng đều | 7 nền kinh tế có tiếp cận gần như vô hạn; phần còn lại rất khác nhau; nước thu nhập thấp gần như chỉ còn IMF | Mở rộng và làm đồng đều tiếp cận, đặc biệt cho nước thu nhập thấp và các nước nằm ngoài mạng lưới hoán đổi |
+| ② Khả năng dự báo hạn chế | Hoán đổi là quyết định tuỳ ý của bên cung cấp; các thoả thuận khu vực lớn chưa từng chạy; không nước nào có thể lập kế hoạch dựa trên các lớp này | Tiêu chí kích hoạt rõ ràng hơn, thủ tục được thử trước; các thoả thuận khu vực lớn nên chạy diễn tập kích hoạt |
+| ③ Phòng ngừa khủng hoảng chưa đủ | Mạng lưới chủ yếu phản ứng sau khi khủng hoảng nổ ra; các công cụ phòng ngừa như hạn mức tín dụng dự phòng ít được dùng vì sợ dấu vết: xin trước bị coi là thừa nhận yếu kém | Củng cố công cụ phòng ngừa và giảm dấu vết, ví dụ làm cho việc tham gia phổ biến hơn để không nước nào bị đánh dấu riêng |
+| ④ Cấu trúc nhiều lớp thiếu gắn kết | Bốn lớp hoạt động theo quy tắc, thời gian và điều kiện khác nhau; phối hợp chủ yếu là ứng biến từng lúc | Cải thiện phối hợp giữa các lớp: quy tắc rõ về ai làm gì trước, chia sẻ thông tin, tránh vừa chồng chéo vừa bỏ trống |
+
+**Tính dễ tổn thương của từng lớp theo loại cú sốc.** Báo cáo lập một bảng đánh giá mỗi lớp yếu đi thế nào trước từng loại cú sốc. Ví dụ, với cú sốc khí hậu, thoả thuận khu vực có "năng lực gộp nguồn lực giảm nếu cú sốc mang tính khu vực", đúng điểm yếu cơ cấu đã nêu ở mục 4.
+
+**Ba cuộc kiểm kê qua thời gian:**
+
+| Năm | Trọng tâm |
+|---|---|
+| 2011 | Quy mô và tính đủ nguồn lực sau GFC |
+| 2016 | Phối hợp giữa các lớp, vai trò của thoả thuận khu vực |
+| 2025 | Tiếp cận, khả năng dự báo, phòng ngừa, và "khuyến khích BSA và RFA mạnh hơn" |
+
+Diễn tiến này cho thấy mối quan tâm đã chuyển từ câu hỏi "có đủ tiền không" sang câu hỏi "tiền đó có đến được đúng người, đúng lúc, một cách có thể dự báo được không".
 
 ## Thuật ngữ
 

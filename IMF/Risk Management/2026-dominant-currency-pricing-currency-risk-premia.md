@@ -524,51 +524,342 @@
 2. Qua cơ chế nào mà định giá xuất khẩu bằng đô la cộng với nợ ngân hàng bằng đô la khiến tài sản nội tệ chi trả kém đúng vào những trạng thái xấu, và vì sao riêng một trong hai lại không đủ?
 3. Vì sao phần bù rủi ro tiền tệ lại biến thành lạm phát bình quân cao hơn dưới một quy tắc Taylor thông thường, và quy tắc nào có thể tránh được điều đó với cái giá nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Lợi suất vượt trội của tiền tệ và phần bù rủi ro tiền tệ (excess currency return, currency risk premium).** Lợi suất vượt trội là khoản lời hay lỗ của một chiến lược cụ thể: vay bằng đô la, đổi sang nội tệ, gửi lấy lãi nội tệ, rồi cuối kỳ đổi lại về đô la để trả nợ. Ví dụ minh hoạ: lãi suất nội tệ 10%/năm, lãi suất đô la 4%/năm. Nếu trong năm nội tệ mất giá 6% so với đô la, khoản chênh lãi suất bị xoá sạch và lợi suất vượt trội bằng khoảng 0. Nếu nội tệ chỉ mất giá 2%, nhà đầu tư lời khoảng 4%. Phần bù rủi ro tiền tệ là mức lợi suất vượt trội *bình quân dài hạn*, tức khoản bù mà nhà đầu tư đòi để chịu nắm đồng tiền đó. Toàn bộ bài xoay quanh câu hỏi vì sao khoản bù này lớn ở một số nước và gần 0 ở nước khác.
+
+**Ngang giá lãi suất không bảo hiểm (uncovered interest parity, UIP) và sai lệch UIP.** UIP là giả thuyết rằng chênh lệch lãi suất giữa hai đồng tiền sẽ bị bù trừ đúng bằng mức mất giá kỳ vọng, nên không ai kiếm được lời bình quân từ việc vay đồng lãi thấp để gửi đồng lãi cao. Trong ví dụ trên, UIP dự đoán nội tệ mất giá 6%. Trên thực tế điều này thường không xảy ra; phần lợi suất bình quân còn lại gọi là sai lệch UIP hay khe hở UIP (đo theo %/năm, ký hiệu %APR). Trong bài, "phần bù UIP" và "phần bù rủi ro tiền tệ" chỉ cùng một đại lượng.
+
+**Carry trade.** Giao dịch vay bằng đồng tiền lãi suất thấp (đồng tiền *tài trợ*, ví dụ yên Nhật) để đầu tư vào đồng tiền lãi suất cao (đồng tiền *mục tiêu*). Chiến lược này thường lời đều trong thời bình nhưng lỗ nặng khi thị trường hoảng loạn, vì lúc đó đồng tiền lãi cao mất giá mạnh. "Phơi nhiễm carry" của một đồng tiền là mức độ đồng tiền đó đi theo nhóm đồng tiền mục tiêu của carry trade. Đây là biến mà bài tìm thấy có quan hệ mạnh nhất với cách ghi hoá đơn xuất khẩu.
+
+**Định giá bằng đồng tiền thống trị (dominant currency pricing, DCP) và chuyển đổi chi tiêu (expenditure switching).** DCP là hiện tượng phần lớn hàng xuất khẩu trên thế giới được ghi giá và hoá đơn bằng đô la, kể cả khi cả người bán lẫn người mua đều không phải người Mỹ. Theo sách giáo khoa, khi nội tệ mất giá, hàng xuất khẩu rẻ đi trong mắt người nước ngoài nên họ mua nhiều hơn; đó là chuyển đổi chi tiêu. Nhưng nếu giá đã ghi cố định bằng đô la, ví dụ một chiếc áo bán 10 đô la, thì nội tệ mất giá 20% cũng không làm giá chiếc áo trong mắt người mua thay đổi, nên cầu ngoài không tăng ngay. Trong bài, độ "dính" của giá xuất khẩu đô la được đo bằng tham số θx: xác suất một nhà xuất khẩu *không* được điều chỉnh giá đô la trong một kỳ.
+
+**Đô la hoá nợ và giá trị ròng ngân hàng (liability dollarization, bank net worth).** Khi ngân hàng trong nước vay một phần bằng đô la nhưng cho vay bằng nội tệ, mất giá làm phần nợ tính ra nội tệ phình lên trong khi tài sản thì không. Ví dụ minh hoạ: ngân hàng có tài sản 100 đơn vị nội tệ, nợ 90 đơn vị, trong đó 25% (22,5 đơn vị) là nợ đô la; vốn chủ là 10. Nội tệ mất giá 20% làm nợ đô la thành 27, tổng nợ thành 94,5, vốn chủ chỉ còn 5,5, mất gần một nửa. Đòn bẩy càng cao thì cú mất giá càng ăn mòn vốn mạnh. Tham số ϕ̄ trong bài là tỷ trọng nợ đô la mục tiêu của ngân hàng.
+
+**Phân tích thành phần chính và hệ số tải nhân tố (principal component analysis, factor loading).** Phân tích thành phần chính là kỹ thuật thống kê tìm ra một vài "xu hướng chung" giải thích phần lớn biến động của nhiều chuỗi số cùng lúc. Với lợi suất của 25 đồng tiền, thành phần thứ nhất là xu hướng mà gần như mọi đồng tiền cùng đi theo, thành phần thứ hai là xu hướng chia các đồng tiền thành hai nhóm đi ngược nhau. Hệ số tải (hay mức phơi nhiễm) của một đồng tiền với một nhân tố cho biết đồng tiền đó nhạy đến đâu với nhân tố đó. Ví dụ: hệ số 0,406 của Thổ Nhĩ Kỳ với nhân tố carry nghĩa là đồng lira đi theo nhân tố này mạnh hơn nhiều so với peso Chile (0,118).
+
+**Hiệp phương sai và "tài sản chi trả kém trong trạng thái xấu" (covariance, pricing kernel).** Một tài sản bị coi là rủi ro không phải vì giá của nó dao động nhiều, mà vì nó *mất giá đúng lúc người nắm nó đang khó khăn nhất*. Ví dụ minh hoạ: hai khoản tiết kiệm cùng lãi bình quân 5%; khoản A mất 20% đúng năm bạn mất việc, khoản B mất 20% vào một năm ngẫu nhiên. Ai cũng thích B hơn, nên A phải trả lãi cao hơn mới có người giữ. Kinh tế học đo "mức khó khăn" bằng hạt nhân định giá (pricing kernel), còn gọi là nhân tố chiết khấu ngẫu nhiên: nó cao trong trạng thái xấu. Một tài sản có hiệp phương sai âm giữa khoản chi trả và hạt nhân định giá là tài sản rủi ro. Đây là cơ chế trung tâm của bài, gọi là kênh hiệp phương sai.
+
+**Quy tắc Taylor và lãi suất trung lập đã điều chỉnh rủi ro (Taylor rule, risk-adjusted neutral rate).** Quy tắc Taylor là công thức ngân hàng trung ương dùng để đặt lãi suất: lãi suất chính sách bằng một mức nền (hệ số chặn, thường gắn với lãi suất trung lập) cộng thêm một phần khi lạm phát vượt mục tiêu và khi sản lượng vượt tiềm năng. Ví dụ minh hoạ: mức nền 5%, hệ số với lạm phát 1,5; lạm phát vượt mục tiêu 2 điểm phần trăm thì lãi suất đặt ở 5% + 1,5 × 2 = 8%. Lãi suất trung lập đã điều chỉnh rủi ro là mức lãi suất cần có để thị trường tiền tệ cân bằng *khi đã tính cả phần bù rủi ro tiền tệ*. Nếu phần bù tăng mà mức nền trong quy tắc không đổi, chính sách tự động quá lỏng. Đây là con đường mà bài dùng để đi từ phần bù rủi ro sang lạm phát.
+
+## Nội dung chi tiết
 
 ### 1. Mở đầu
 
-- Đô la Mỹ thống trị hệ thống tiền tệ quốc tế theo hai cách: là đồng tiền phương tiện trong thương mại và là đồng tiền ghi nợ xuyên biên giới. Hai hiện tượng này thường được nghiên cứu tách rời, một bên về truyền dẫn và chuyển đổi chi tiêu, một bên về bảng cân đối và mong manh tài chính.
-- Giả thuyết của bài là chính tương tác giữa chúng mới là trung tâm của tính chất rủi ro của tỷ giá. Mặt cắt ngang lợi suất tiền tệ là nơi kiểm định tự nhiên, vì khi hệ thống giá quốc tế và bảng cân đối toàn cầu đều lệch về đô la thì tỷ giá không còn chỉ là một giá tương đối.
-- Bài đặt ba câu hỏi về mức phơi nhiễm, về cơ chế, và về hàm ý cho lạm phát và chính sách tiền tệ ở nền kinh tế nhỏ mở.
-- Bài đóng góp vào ba nhánh tài liệu: ghi hoá đơn thương mại, các yếu tố quyết định phần bù rủi ro tiền tệ và câu đố UIP, và biến động tỷ giá với chính sách tiền tệ. Đóng góp trung tâm là nối ba nhánh bằng một cơ chế vĩ mô–tài chính duy nhất.
+**Hai dạng thống trị của đô la.** Bài xuất phát từ một đặc điểm nổi bật của hệ thống tiền tệ quốc tế: việc sử dụng các đồng tiền trong thương mại và tài chính toàn cầu là bất đối xứng (Gopinath và Stein, 2021). Đô la Mỹ thống trị theo hai cách khác nhau:
+
+| Dạng thống trị | Nghĩa | Ảnh hưởng chính | Nhánh tài liệu |
+|---|---|---|---|
+| Dạng 1: đồng tiền phương tiện trong thương mại | Phần lớn hàng hoá được ghi hoá đơn bằng đô la (Goldberg và Tille, 2008; Gopinath và cộng sự, 2020) | Truyền dẫn tỷ giá vào giá và chuyển đổi chi tiêu | Truyền dẫn tỷ giá, thương mại |
+| Dạng 2: đồng tiền ghi nợ xuyên biên giới | Phần lớn nghĩa vụ nợ giữa các nước ghi bằng đô la | Bảng cân đối và mong manh tài chính | Tài chính quốc tế, khủng hoảng |
+
+Hai hiện tượng này xưa nay được nghiên cứu tách rời. Giả thuyết của bài là chính **tương tác** giữa chúng mới là trung tâm của tính chất rủi ro của tỷ giá.
+
+**Vì sao lấy mặt cắt ngang lợi suất tiền tệ làm phòng thí nghiệm.** Mặt cắt ngang ở đây là việc so sánh nhiều đồng tiền với nhau tại cùng một giai đoạn. Lập luận của bài: nếu cả hệ thống giá quốc tế lẫn bảng cân đối toàn cầu đều lệch hẳn về phía đô la, thì tỷ giá không còn chỉ là một giá tương đối giữa hàng trong nước và hàng nước ngoài. Nó còn tác động lên ba thứ:
+
+- khoản chi trả theo trạng thái của các tài sản danh nghĩa, tức tài sản ghi bằng nội tệ trả được bao nhiêu trong từng tình huống tốt hay xấu;
+- độ chặt của ràng buộc tài chính đối với ngân hàng và doanh nghiệp;
+- mức độ nghiêm trọng của suy giảm kinh tế.
+
+Nếu vậy, sự khác biệt giữa các nước về cách ghi hoá đơn và cách ghi nợ phải hiện ra trong sự khác biệt về lợi suất của đồng tiền của họ. Đó là điều có thể kiểm định.
+
+**Ba câu hỏi của bài.**
+
+1. Ghi hoá đơn bằng đô la và nợ bằng đô la có giúp giải thích vì sao một số đồng tiền phơi nhiễm với rủi ro tiền tệ toàn cầu nhiều hơn các đồng tiền khác không?
+2. Qua cơ chế nào mà hai đặc điểm cơ cấu đó khiến tài sản nội tệ chi trả kém trong các trạng thái xấu, và do đó làm phần bù rủi ro tiền tệ tăng?
+3. Hàm ý cho lạm phát và chính sách tiền tệ ở nền kinh tế nhỏ mở là gì?
+
+**Đóng góp.** Bài đóng góp vào ba nhánh tài liệu: (i) ghi hoá đơn trong thương mại; (ii) các yếu tố quyết định phần bù rủi ro tiền tệ và "câu đố UIP", tức việc các đồng tiền lãi cao bình quân không mất giá đủ để xoá chênh lệch lãi suất; (iii) biến động tỷ giá và chính sách tiền tệ. Đóng góp trung tâm là nối ba nhánh đó bằng một cơ chế vĩ mô–tài chính duy nhất.
 
 ### 2. Phân tích thực nghiệm
 
-- Lợi suất vượt trội được xây từ dữ liệu FX4casts theo tháng, đo lợi nhuận hậu nghiệm của chiến lược vay đô la và đầu tư nội tệ. Mẫu được mở rộng cho phân tích mặt cắt ngang bằng lợi suất kỳ hạn cho bảy nước nữa.
-- Phân tích thành phần chính cho hai nhân tố. Nhân tố thứ nhất đi cùng lợi suất cổ phiếu toàn cầu, nhân tố thứ hai đi ngược với VIX, tức đại diện cho ngại rủi ro toàn cầu. Cả hai đều được định giá trong mặt cắt ngang lợi suất bình quân.
-- Hồi quy mức phơi nhiễm lên các đặc điểm quốc gia cho thấy ghi hoá đơn xuất khẩu bằng đô la là biến dự báo mạnh nhất của phơi nhiễm carry, trong khi tỷ số nợ ngoại trên tài sản ngoại của hệ thống ngân hàng và vị thế con nợ ròng cũng giúp giải thích khác biệt giữa các nước.
-- Kênh vĩ mô nằm ở tương quan giữa GDP và tỷ giá thực. Tương quan âm nghĩa là đồng tiền mất giá đúng lúc thu nhập thấp, khiến nội tệ là công cụ phòng hộ tồi và người dân đòi phần bù để nắm nó. Ghi hoá đơn đô la cao và vị thế con nợ ròng đều làm tương quan này âm hơn.
-- Dữ liệu dự báo chuyên nghiệp xác nhận rằng nhà đầu tư định giá trước phần bù gắn với các yếu kém cơ cấu này: phơi nhiễm carry cao đi kèm lợi suất kỳ vọng cao hơn.
+**Xây lợi suất vượt trội.** Bài theo phương pháp của Lustig, Roussanov và Verdelhan (2011): tính lợi suất vượt trội của từng đồng tiền rồi trích các thành phần chính. Lợi suất vượt trội hiện thực được định nghĩa ở phương trình (1) của bài:
+
+RX(t+1) = R^L_t · S_t / S_(t+1) − R^US_t
+
+trong đó R^L_t là lãi suất nội tệ, R^US_t là lãi suất đô la, và S là tỷ giá giao ngay tính bằng số nội tệ trên một đô la. Đọc theo nghĩa kinh tế, đây là lợi nhuận *sau khi đã biết kết quả* của chiến lược vay đô la, đầu tư bằng nội tệ, rồi đổi lại về đô la: nếu S tăng (nội tệ mất giá) trong kỳ, tỷ số S_t / S_(t+1) nhỏ hơn 1 và khoản lãi nội tệ bị ăn mòn. Đại lượng bài thực sự quan tâm là kỳ vọng không điều kiện của lợi suất này, tức mức bình quân dài hạn, chính là phần bù rủi ro tiền tệ.
+
+Dữ liệu tỷ giá lấy từ FX4casts theo tháng. Mẫu cơ bản là 25 nước, giai đoạn từ tháng 2/2003 đến tháng 11/2018. Cho phân tích mặt cắt ngang, mẫu được mở rộng thêm 7 nước mà lợi suất được tính từ hợp đồng kỳ hạn (Romania, Iceland, Kenya, Israel, Tunisia, Morocco, Pakistan), nâng tổng số lên 32 nước.
+
+**Hai nhân tố và ý nghĩa kinh tế của chúng.** Để biết hai thành phần chính đại diện cho cái gì, bài hồi quy từng thành phần lên ba biến tài chính toàn cầu:
+
+| Biến giải thích | Thành phần 1 ("nhân tố rủi ro đô la") | Thành phần 2 ("nhân tố rủi ro carry trade") |
+|---|---|---|
+| Lợi suất chỉ số S&P 500 | **1,533\*\*\*** | −0,080, không có ý nghĩa |
+| Thay đổi log của VIX (chỉ số biến động kỳ vọng của cổ phiếu Mỹ) | −0,070, không có ý nghĩa | **−0,085\*\*\*** |
+| Thay đổi của chu kỳ tài chính toàn cầu (ΔGFC) | −0,013, không có ý nghĩa | 0,001, không có ý nghĩa |
+| R² | 0,306 | 0,045 |
+
+(\*\*\* nghĩa là có ý nghĩa thống kê ở mức 1%.)
+
+Cách đọc:
+
+- **Nhân tố 1 là nhân tố cổ phiếu toàn cầu.** Nó đi cùng chiều với lợi suất S&P 500 và không liên quan tới VIX. Khi cổ phiếu toàn cầu lên, các đồng tiền nói chung lên giá so với đô la.
+- **Nhân tố 2 là nhân tố ngại rủi ro toàn cầu.** Nó đi ngược chiều với VIX và không liên quan tới S&P 500. Khi nhà đầu tư toàn cầu sợ hãi (VIX tăng), các đồng tiền mục tiêu của carry trade mất giá so với các đồng tiền tài trợ.
+- Cần lưu ý: R² của nhân tố 2 chỉ là 0,045, tức hai biến này giải thích rất ít biến thiên của chính nhân tố carry. Tên gọi "ngại rủi ro toàn cầu" dựa trên dấu và ý nghĩa thống kê của hệ số, không dựa trên sức giải thích.
+
+**Cả hai nhân tố đều được định giá.** Một nhân tố được gọi là "được định giá" nếu đồng tiền nào phơi nhiễm với nó nhiều hơn thì có lợi suất bình quân cao hơn. Hồi quy lợi suất vượt trội bình quân của 32 nước lên mức phơi nhiễm cho:
+
+| Mức phơi nhiễm | Hệ số (hai đặc tả) |
+|---|---|
+| Phơi nhiễm rủi ro đô la | 0,133\*\*\* / 0,136\*\*\* |
+| Phơi nhiễm rủi ro carry | 0,075\*\*\* / 0,076\*\*\* |
+
+R² tăng dần từ 0,176 (chỉ nhân tố đô la) lên 0,400 (chỉ nhân tố carry) và 0,585 khi đưa cả hai vào. Kết luận của bài: cả hai nhân tố đều đại diện cho rủi ro được định giá trên thị trường tiền tệ.
+
+**Sức giải thích theo chuỗi thời gian.** Với từng nước, bài hồi quy lợi suất theo thời gian (190 quan sát tháng) lên hai nhân tố. Một số ví dụ:
+
+| Nước | Phơi nhiễm đô la | Phơi nhiễm carry | R² |
+|---|---|---|---|
+| Thổ Nhĩ Kỳ | 0,258\*\*\* | **0,406\*\*\*** | 0,599 |
+| Chile | 0,167\*\*\* | 0,118\*\*\* | 0,460 |
+| Mexico | 0,167\*\*\* | 0,156\*\*\* | 0,553 |
+| Khu vực euro | 0,191\*\*\* | **−0,219\*\*\*** | **0,876** |
+| Nhật Bản | 0,035, không có ý nghĩa | −0,130\*\*\* | **0,097** |
+
+Hai đồng tiền có phơi nhiễm carry âm là euro và yên, đúng với logic rằng đây là các đồng tiền tài trợ cho carry trade: khi thị trường hoảng loạn, nhà đầu tư đóng vị thế, mua lại các đồng này để trả nợ, nên chúng lên giá. Nhật là ngoại lệ nổi bật: R² chỉ 0,097, vì theo bài, đồng yên "nổi tiếng đi theo động thái trú ẩn an toàn riêng" mà hai nhân tố chung không nắm được.
+
+**Phát hiện trung tâm: điều gì quyết định mức phơi nhiễm.** Bài hồi quy mức phơi nhiễm của từng nước lên các đặc điểm vĩ mô quan sát được. Cột (1) và (2) dùng phơi nhiễm với nhân tố đô la, cột (3) và (4) dùng phơi nhiễm với nhân tố carry; cột (2) và (4) đưa thêm biến kiểm soát.
+
+| Biến giải thích | Phơi nhiễm đô la (1) / (2) | Phơi nhiễm carry (3) / (4) |
+|---|---|---|
+| FL/FA: nợ ngoại trên tài sản ngoại của hệ thống ngân hàng | 0,035\* / 0,043\*\* | 0,016 / 0,037, đều không có ý nghĩa |
+| NFA/GDP: tài sản ngoại ròng trên GDP | −0,029 / −0,049, đều không có ý nghĩa | **−0,190\*\*\*** / −0,090 |
+| Dự trữ ngoại hối trên GDP | −0,079 / −0,161, đều không có ý nghĩa | −0,157 / −0,384, đều không có ý nghĩa |
+| **Tỷ trọng xuất khẩu ghi hoá đơn bằng đô la** | **−0,098\*\* / −0,095\*\*** (âm) | **+0,490\*\*\* / +0,457\*\*\*** (dương, mạnh nhất) |
+| Quy mô GDP | 0,006, không có ý nghĩa | 0,018, không có ý nghĩa |
+| Mức trung tâm trong mạng lưới thương mại | −6,345, không có ý nghĩa | −7,729, không có ý nghĩa |
+| Số quan sát | 20 / 14 | 20 / 14 |
+| R² | 0,496 / 0,743 | 0,615 / 0,533 |
+
+(\* mức 10%, \*\* mức 5%, \*\*\* mức 1%.)
+
+Đọc kết quả:
+
+- **Kết quả chính:** tỷ trọng xuất khẩu ghi hoá đơn bằng đô la là biến dự báo mạnh nhất của mức phơi nhiễm với nhân tố carry trade. Nước nào ghi hoá đơn bằng đô la nhiều hơn thì đồng tiền của họ hành xử giống đồng tiền mục tiêu của carry trade hơn, tức mất giá mạnh hơn khi thị trường toàn cầu hoảng loạn.
+- **Vị thế con nợ ròng cũng quan trọng:** hệ số âm của NFA/GDP (−0,190\*\*\*) nghĩa là nước có tài sản ngoại ròng càng thấp, tức càng là con nợ ròng, thì phơi nhiễm carry càng cao.
+- **Tỷ số FL/FA** của hệ thống ngân hàng có ý nghĩa với nhân tố đô la nhưng không có ý nghĩa với nhân tố carry trong bảng này.
+- **Biến ghi hoá đơn đổi dấu giữa hai nhân tố:** âm với nhân tố đô la, dương với nhân tố carry. Diễn giải của bài: khi đã kiểm soát các biến mong manh tài chính, ghi hoá đơn cao đi kèm phơi nhiễm *thấp hơn* với riêng nhân tố cổ phiếu toàn cầu.
+- **Cảnh báo lớn nhất về phương pháp:** chỉ có 20 và 14 quan sát. Ở cột (2) và (4), có tới 6 biến giải thích trên 14 quan sát, tức chỉ còn 8 bậc tự do. Với mẫu nhỏ như vậy, R² cao không nói được nhiều.
+
+**Ba quan hệ nối thành một câu chuyện.** Bài vẽ ba đồ thị phân tán giữa các nước:
+
+| Quan hệ | R² | Độ lớn (đọc trên đồ thị) |
+|---|---|---|
+| (a) Tỷ trọng ghi hoá đơn đô la → phơi nhiễm carry | **0,477** | Phơi nhiễm đi từ khoảng −0,22 ở mức ghi hoá đơn 0,15 lên khoảng +0,19 ở mức ghi hoá đơn 1,0. Thổ Nhĩ Kỳ (TUR) và Brazil (BRA) là ngoại lai nằm cao hơn hẳn đường khớp |
+| (b) Phơi nhiễm carry → lợi suất vượt trội bình quân | 0,235 | Lợi suất đi từ khoảng 0,005 ở mức phơi nhiễm −0,3 lên khoảng 0,057 ở mức +0,4 |
+| (c) Phơi nhiễm carry → lạm phát bình quân | **0,372** | Lạm phát đi từ khoảng 0,01 lên khoảng 0,075 (tức từ 1% lên 7,5%/năm) |
+
+Câu tóm tắt của bài: chính những đặc điểm cơ cấu khiến một đồng tiền rủi ro với nhà đầu tư cũng định hình truyền dẫn tiền tệ, tức cách chính sách tiền tệ tác động lên lạm phát.
+
+**Kênh vĩ mô: đồng tiền mất giá đúng lúc thu nhập thấp.** Để hiểu vì sao đồng tiền của một số nước rủi ro, bài đo tương quan giữa GDP và tỷ giá thực bằng hồi quy các biến đã chuẩn hoá:
+
+Δlog(GDP)/σ = α + ρ · Δlog(S/P)/σ + ε
+
+trong đó S/P là tỷ giá thực (tỷ giá danh nghĩa đã điều chỉnh theo mặt bằng giá) và σ là độ lệch chuẩn của từng biến. Vì cả hai vế đều được chia cho độ lệch chuẩn, hệ số ρ̂ chính là hệ số tương quan. Bài chuẩn hoá vì các nước có biến động GDP và tỷ giá rất khác nhau; hệ số tương quan tự động loại bỏ khác biệt về thang đo. Tương quan còn có tính bất biến theo chiều: đổi vế trái và vế phải không làm thay đổi ước lượng. Bài nói rõ: "chúng tôi không khẳng định nhân quả ở đây".
+
+Vì sao ρ âm là hạt nhân của cơ chế. Với S tính bằng nội tệ trên một đô la, S tăng nghĩa là nội tệ mất giá. ρ âm nghĩa là nội tệ mất giá đúng lúc kinh tế suy thoái, tức đúng lúc thu nhập thấp. Chuỗi hệ quả:
+
+1. Nội tệ là một công cụ phòng hộ tồi, và do đó là tài sản "rủi ro" ngay từ góc nhìn của chính người dân trong nước.
+2. Ở các nước đó, tài sản đô la cung cấp bảo hiểm tốt hơn trước dao động của chu kỳ kinh doanh: khi kinh tế xấu, đô la lên giá, bù cho thu nhập giảm. Điều này hạ cầu tương đối đối với tài sản nội tệ.
+3. Vì vậy người dân trong nước đòi phần bù rủi ro để chịu nắm tài sản nội tệ (Christiano, Dalgic và Nurbekyan, 2021; Dalgic, 2024).
+
+Kiểm chứng trực tiếp: đồ thị giữa tương quan GDP–tỷ giá và lợi suất vượt trội bình quân có R² = 0,172. Các nước có tương quan âm mạnh (ví dụ Brazil, Thổ Nhĩ Kỳ, Chile, Peru) có đồng tiền rủi ro nhất và lợi suất vượt trội cao nhất. Các nước có tương quan dương (Nhật, Thuỵ Sĩ, Đan Mạch) có đồng tiền đóng vai trò phòng hộ, với lợi suất vượt trội gần 0 hoặc âm.
+
+**Điều gì quyết định tương quan đó.** Hồi quy tương quan GDP–tỷ giá lên đặc điểm quốc gia (19 quan sát, R² = 0,430):
+
+| Biến | Hệ số | Ý nghĩa |
+|---|---|---|
+| Tỷ trọng ghi hoá đơn bằng đô la | **−0,396\*\*\*** | Ghi hoá đơn cao làm tỷ giá ngược chu kỳ hơn, tức mất giá trùng với suy thoái nhiều hơn |
+| FL/FA | −0,033 | Không có ý nghĩa |
+| NFA/GDP | +0,203\*\* | Là con nợ ròng (NFA thấp) đi kèm tương quan âm hơn |
+
+Câu kết của bài: cả ghi hoá đơn đô la cao lẫn vị thế con nợ ròng đều làm tỷ giá rủi ro hơn về bản chất.
+
+**Nhà đầu tư có định giá trước không.** Lợi suất hậu nghiệm cao có thể chỉ là may mắn trong mẫu. Để kiểm tra nhà đầu tư có thực sự *đòi* phần bù từ trước hay không, bài dùng dự báo tỷ giá theo quý của giới chuyên nghiệp từ FX4Casts, giai đoạn 2003Q1–2018Q4 (quý 1/2003 đến quý 4/2018), bộ dữ liệu đã được Ince và Molodtsova (2017) và Kalemli-Özcan và Varela (2021) sử dụng. Lợi suất vượt trội *kỳ vọng* (phương trình 2 của bài) được tính như phương trình (1) nhưng thay tỷ giá hiện thực S_(t+1) bằng tỷ giá dự báo E_t(S_(t+1)). Kết quả trên 26 quan sát:
+
+| Mức phơi nhiễm | Hệ số (hai đặc tả) |
+|---|---|
+| Nhân tố rủi ro đô la | 0,008 / −0,007, đều không có ý nghĩa |
+| Nhân tố rủi ro carry | **0,028\*\*\* / +0,031\*\*\*** |
+
+Theo chính các dự báo chuyên nghiệp này, đồng tiền phơi nhiễm carry cao hơn đi kèm lợi suất kỳ vọng cao hơn. Tức nhà đầu tư đòi phần bù cho rủi ro đó ngay từ trước, chứ đây không chỉ là hiện tượng nhìn lại sau. Riêng nhân tố đô la thì không được định giá trong kỳ vọng.
+
+**Các biến quyết định khác (phụ lục A).** Bài hồi quy trực tiếp lợi suất vượt trội bình quân lên đặc điểm quốc gia, qua nhiều đặc tả:
+
+| Biến | Hệ số qua các đặc tả | Ghi chú |
+|---|---|---|
+| FL/FA | 0,010\*\*\* / 0,009\*\* / 0,008\*\* | Dương, vững |
+| NFA/GDP | −0,031\*\*\* / −0,027\*\*\* / −0,028\*\*\* | Âm, vững nhất |
+| GDP (tỷ lệ so với Mỹ) | 0,006 / 0,003 | Không có ý nghĩa |
+| Dự trữ/GDP | 0,060 / 0,003 / 0,015 / 0,033 | Không có ý nghĩa |
+| Ghi hoá đơn xuất khẩu bằng đô la | 0,036\* / 0,018\*\* / 0,017\*\*\* / 0,019\*\* | Dương, vững |
+| Mức trung tâm trong mạng lưới thương mại | −4,304\*\* rồi mất ý nghĩa (−0,983, −2,774) khi thêm GDP | Khớp với Hassan và Zhang (2021) và Richmond (2019): điều quan trọng là quy mô *hoặc* mức kết nối, chứ không phải cả hai |
+
+Câu kết của phụ lục: phơi nhiễm nợ ngoại và ghi hoá đơn xuất khẩu bằng đô la nổi lên là các biến quyết định vững chắc của lợi suất tiền tệ. Hai ghi chú thêm:
+
+- **Dự trữ (phụ lục A.2):** bài không thấy quan hệ có ý nghĩa nào giữa dự trữ và lợi suất vượt trội bình quân, dù về lý thuyết dự trữ phải làm giảm rủi ro khủng hoảng kiểu "quay vòng" (rollover), tức nguy cơ không đảo được nợ đến hạn.
+- **Độ sâu tài chính (phụ lục A.5):** theo Maggiori (2017), nước có hệ thống tài chính sâu trung gian được lượng dòng vốn lớn và đồng tiền mang *phần bù an toàn* thay vì phần bù rủi ro, nên độ sâu tài chính có quan hệ âm với lợi suất.
 
 ### 3. Mô hình
 
-- Mô hình là một nền kinh tế nhỏ mở kiểu Keynes mới với định giá bằng đồng tiền thống trị, nợ ngân hàng bằng đô la và thị trường tài sản quốc tế bị phân mảnh.
-- Hộ gia đình tiết kiệm bằng cả tiền gửi nội tệ và đô la với động cơ môi trường ưa thích. Hàng nhập khẩu được định giá bằng đô la và độ co giãn thay thế nhỏ hơn một khiến mất giá đẩy CPI lên mạnh mà không tạo phản ứng thay thế lớn.
-- Giá xuất khẩu được đặt bằng đô la với độ dính Calvo θx. Ngân hàng vay bằng cả hai đồng tiền với tỷ trọng đô la ϕt, chịu ràng buộc khuyến khích và chi phí bậc hai khi lệch khỏi tỷ trọng mục tiêu.
-- Nhà tài chính ngoại cung vốn nội tệ dốc lên theo lợi suất vượt trội kỳ vọng và dốc xuống theo rủi ro tỷ giá. Ngân hàng trung ương theo quy tắc Taylor có quán tính nhắm vào lạm phát hàng nội địa.
+**Kiến trúc.** Mô hình là một nền kinh tế nhỏ mở kiểu Keynes mới, xây trên Aoki, Benigno và Kiyotaki (2020), Ozhan (2020) và Benhima, Blengini và Merrouche (2025). "Kiểu Keynes mới" nghĩa là giá không điều chỉnh tức thì nên chính sách tiền tệ có tác động thực. Mô hình có ba đặc điểm: định giá bằng đồng tiền thống trị, nợ ngân hàng bằng đô la, và thị trường tài sản quốc tế bị phân mảnh (nhà đầu tư nước ngoài không tự do mua bán mọi tài sản trong nước với chi phí bằng 0).
+
+**Ma sát 1: giá xuất khẩu dính bằng đô la.** Giá xuất khẩu được đặt bằng đô la. θx là xác suất Calvo mà một nhà định giá xuất khẩu *không* điều chỉnh được giá đô la của mình trong một kỳ. θx cao thì giá đô la gần như không nhúc nhích khi tỷ giá thay đổi, nên kênh chuyển đổi chi tiêu yếu đi: mất giá không làm hàng xuất khẩu rẻ hơn trong mắt người mua nước ngoài.
+
+Bài ghi nhận một phản biện ở chú thích 4: McLeay và Tenreyro (2025) chỉ ra DCP không nhất thiết làm yếu kênh này khi giá xuất khẩu linh hoạt. Bài lập luận rằng giả định giá dính phù hợp hơn vì bài tập trung vào hàng chế tạo, chứ không phải hàng hoá cơ bản như dầu hay kim loại, vốn có giá đô la thay đổi liên tục trên sàn.
+
+**Ma sát 2: nợ ngân hàng bằng đô la.** Ngân hàng vay bằng cả hai đồng tiền. ϕt là tỷ trọng nợ phải trả của ngân hàng ghi bằng đô la, ϕ̄ là tỷ trọng mục tiêu. Ngân hàng chịu một ràng buộc khuyến khích (giới hạn số nợ được vay theo giá trị ròng của chính mình) và một chi phí bậc hai khi lệch khỏi tỷ trọng mục tiêu. ϕt cao thì mất giá làm tăng giá trị tính bằng nội tệ của nợ đô la, làm giảm giá trị ròng của trung gian tài chính, và ràng buộc khuyến khích buộc ngân hàng siết tín dụng.
+
+**Tương tác quyết định mất giá là ổn định hoá hay co hẹp.**
+
+| Tổ hợp | Mất giá làm gì |
+|---|---|
+| Giá xuất khẩu linh hoạt + nợ đô la thấp | Mất giá hỗ trợ xuất khẩu và hấp thụ cú sốc bên ngoài, đúng như sách giáo khoa |
+| Giá xuất khẩu dính + nợ đô la cao | Mất giá không kịp kích xuất khẩu mà đồng thời làm suy yếu bảng cân đối ngân hàng |
+
+**Ba bộ phận khác của mô hình.**
+
+1. **Hộ gia đình** tiết kiệm bằng cả tiền gửi nội tệ và tiền gửi đô la, với động cơ "môi trường ưa thích" (preferred habitat): họ chịu một khoản phạt bậc hai (γΘ/2)(Θ − Υ)² khi tỷ trọng đô la Θ trong danh mục lệch khỏi tỷ trọng mục tiêu Υ. Điều này giữ cho danh mục không nhảy hết sang một đồng tiền. Phương trình (7) của bài định giá khoản chi trả bằng đô la: vì tỷ số S(t+1)/S(t) cao đúng khi đồng tiền mất giá, nên nếu mất giá xảy ra trong trạng thái xấu, tài sản đô la là một khoản bảo hiểm quý giá.
+2. **Hàng nhập khẩu** được định giá bằng đô la, tức giá nội tệ của hàng nhập là P^m = S · P^f (tỷ giá nhân giá ngoại). Độ co giãn thay thế giữa hàng nội và hàng nhập ηc = 0,41, nhỏ hơn 1, nghĩa là hai loại hàng là *bổ sung* chứ không phải *thay thế*: khi hàng nhập đắt lên, người ta không dễ chuyển sang hàng nội. Vì vậy mất giá đẩy chỉ số giá tiêu dùng (CPI) lên mạnh mà không tạo phản ứng thay thế lớn. Kênh thu nhập thực (thu nhập tính theo sức mua bị bào mòn) khuếch đại tính co hẹp của mất giá (Auclert và cộng sự, 2021).
+3. **Nhà tài chính nước ngoài** cung vốn bằng nội tệ cho nền kinh tế. Lượng vốn họ cung dốc lên theo lợi suất vượt trội kỳ vọng và dốc xuống theo rủi ro tỷ giá: trong phương trình (43) của bài, lượng cung được chia cho một hàm λf(Var_t(s(t+1))) tăng theo phương sai của tỷ giá. Tỷ giá càng biến động, họ càng ít cho vay ở cùng mức lợi suất.
+
+**Ngân hàng trung ương** theo một quy tắc Taylor có quán tính (có làm mượt lãi suất), nhắm vào lạm phát hàng nội địa và sản lượng, với hệ số chặn cố định (phương trình 48 của bài).
 
 ### 4. Cơ chế giải tích
 
-- Phần bù không điều kiện được phân rã thành khe hở tài trợ có điều kiện của ngân hàng, chênh lệch định giá bình quân, và số hạng hiệp phương sai giữa mất giá với hạt nhân định giá có trọng số của ngân hàng.
-- Nợ đô la quyết định phơi nhiễm trực tiếp của giá trị ròng ngân hàng với mất giá, tỷ lệ thuận với tỷ trọng đô la ở trạng thái dừng và được khuếch đại bởi đòn bẩy.
-- Độ dính giá xuất khẩu không vào trực tiếp bài toán chọn đồng tiền của ngân hàng mà thay đổi môi trường cân bằng tổng thể trong đó phơi nhiễm đó được định giá, bằng cách làm yếu vai trò hấp thụ sốc của tỷ giá.
-- Đạo hàm chéo dương trong vùng hiệu chỉnh, nghĩa là nợ đô la đắt hơn khi độ dính giá xuất khẩu làm biến động tỷ giá tăng. Quan trọng nhất, riêng định giá bằng đồng tiền thống trị không đủ để tạo phần bù lớn nếu tỷ trọng nợ đô la thấp.
+**Phân rã phần bù.** Bài tách phần bù rủi ro tiền tệ không điều kiện p^LC (lợi suất kỳ vọng thêm của tài sản nội tệ so với tài sản đô la) thành ba số hạng, ở phương trình (65):
+
+| Số hạng | Nội dung |
+|---|---|
+| ① | Khe hở tài trợ có điều kiện của ngân hàng: chênh lệch chi phí giữa vay nội tệ và vay đô la mà ngân hàng phải chịu do ràng buộc của mình |
+| ② | Chênh lệch định giá bình quân giữa tài sản nội tệ (LC) và tài sản đô la (FC) |
+| ③ | **Cov_t(M^FC_(t+1), s_(t+1))**: hiệp phương sai giữa mất giá và hạt nhân định giá có trọng số của ngân hàng. Đây là số hạng phần bù rủi ro |
+
+Bài nói thẳng: số hạng hiệp phương sai là cơ chế then chốt. Hạt nhân định giá ở đây có dạng M^FC = βΛ · Ω^FC, tức là tích của biên tế hiệu dụng của hộ gia đình (Λ, mức độ "cần tiền" của hộ gia đình) và giá trị tiếp diễn của vốn ngân hàng (Ω, giá trị của thêm một đồng vốn cho ngân hàng). Phần bù cao khi mất giá đi kèm (i) biên tế hiệu dụng của hộ gia đình cao, (ii) giá trị tiếp diễn của vốn ngân hàng cao, hoặc cả hai. Nói cách khác, nội tệ rủi ro vì nó mất giá đúng lúc hộ gia đình nghèo đi và ngân hàng thiếu vốn.
+
+**Nợ đô la quyết định phơi nhiễm trực tiếp.** Kết quả định cỡ ở phương trình (70):
+
+ζN(θx, ϕ̄) = R̄* · s̄ · [L̄^FC − 1] · ϕ̄ / ḡN
+
+trong đó ζN đo giá trị ròng ngân hàng thay đổi bao nhiêu khi tỷ giá mất giá, các đại lượng có gạch ngang là giá trị ở trạng thái dừng, R̄* là lãi suất ngoài, s̄ là tỷ giá, và thừa số [L̄^FC − 1] gắn với đòn bẩy của ngân hàng. Đọc công thức: phơi nhiễm của giá trị ròng ngân hàng với mất giá tỷ lệ thuận với ϕ̄ và được khuếch đại bởi đòn bẩy. Nếu ϕ̄ bằng 0, phơi nhiễm này bằng 0 bất kể θx là bao nhiêu.
+
+**Độ dính giá xuất khẩu đi vào qua đường gián tiếp.** θx không vào trực tiếp bài toán chọn đồng tiền vay của ngân hàng. Nó thay đổi môi trường cân bằng tổng thể trong đó phơi nhiễm đô la được định giá, bằng cách làm yếu vai trò hấp thụ cú sốc của tỷ giá.
+
+**Đạo hàm chéo dương.** Phương trình (81) cho thấy ∂²p̄^LC/∂ϕ̄∂θx > 0 trong vùng hiệu chỉnh, tức tác động của nợ đô la lên phần bù càng lớn khi giá xuất khẩu càng dính. Có hai số hạng tạo ra điều này:
+
+- Số hạng 1: nợ đô la đắt hơn khi θx làm biến động tỷ giá tăng.
+- Số hạng 2: cùng một mức nợ đô la gây sụt giảm lớn hơn của sản lượng, đầu tư, lợi suất vốn và giá trị ròng ngân hàng khi giá xuất khẩu dính làm yếu vai trò hấp thụ cú sốc của tỷ giá.
+
+**Vì sao riêng DCP là không đủ.** Đây là kết luận quan trọng nhất của phần lý thuyết. Theo bài, giá xuất khẩu dính có thể làm mất giá bớt ổn định hoá, nhưng phơi nhiễm trực tiếp của giá trị ròng ngân hàng với mất giá lại tỷ lệ thuận với tỷ trọng nợ đô la ở trạng thái dừng. Khi tỷ trọng đó thấp, việc định giá lại nợ ngân hàng là nhỏ, hiệp phương sai yếu, và cấu phần giá trị tiếp diễn của hạt nhân định giá gần như không nhúc nhích. Câu chốt: DCP khuếch đại phần bù chủ yếu bằng cách nâng giá của một phơi nhiễm bảng cân đối đô la vốn đã tồn tại.
+
+**Ví dụ minh hoạ** (con số giả định, không có trong bài). Hai nước cùng có 90% xuất khẩu ghi hoá đơn bằng đô la. Nước A để ngân hàng vay 40% bằng đô la, nước B chỉ 5%. Khi Mỹ tăng lãi suất và cả hai đồng tiền mất giá 15%, nước A thấy vốn ngân hàng bị bào mòn, tín dụng bị siết đúng lúc xuất khẩu chưa kịp tăng, nên nhà đầu tư đòi phần bù cao để giữ đồng tiền của A. Nước B cũng không được lợi nhiều từ xuất khẩu, nhưng ngân hàng không bị tổn thương, nên đồng tiền của B không trở thành tài sản rủi ro theo nghĩa của bài.
 
 ### 5. Hiệu chỉnh và mô phỏng
 
-- Hiệu chỉnh gồm ba điểm trọng yếu: phơi nhiễm cao với giá và cầu ngoài, cú sốc ngoại tác động qua cả kênh tài chính lẫn kênh cầu, và phơi nhiễm bảng cân đối vừa phải nhưng đáng kể.
-- Phản ứng xung cho thấy chênh lệch UIP lớn nhất khi cả hai ma sát cùng cao; nợ đô la cao mà ghi hoá đơn thấp vẫn cho chênh lệch đáng kể, còn ghi hoá đơn cao mà nợ thấp gần như không tạo chênh lệch nào.
-- Xuất khẩu vẫn tăng trong nền kinh tế nợ cao, nhưng bài nhấn mạnh đây không phải chuyển đổi chi tiêu lành tính mà là một điều chỉnh bên ngoài tốn kém, đạt được nhờ mất giá lớn hơn và co hẹp mạnh cầu trong nước.
-- Ở trạng thái dừng ngẫu nhiên giải bằng xấp xỉ bậc ba, độ dính giá xuất khẩu cao hơn làm biến động tỷ giá tăng, tương quan sản lượng với tỷ giá chuyển từ dương sang âm, phần bù UIP tăng, và lạm phát trạng thái dừng tăng mạnh.
-- Quy tắc phản ứng theo thay đổi lãi suất neo được lạm phát nhưng buộc nền kinh tế duy trì chênh lệch lãi suất cao hơn nhiều. Đánh đổi này mang tính cơ cấu.
+**Ba điểm trọng yếu của hiệu chỉnh.** "Hiệu chỉnh" là việc chọn giá trị cụ thể cho các tham số để mô hình giống một thị trường mới nổi điển hình.
+
+| Điểm | Tham số | Giá trị | Ý nghĩa |
+|---|---|---|---|
+| ① Phơi nhiễm cao với giá và cầu ngoài | Thiên lệch nội địa trong đầu tư γI | 0,290 | Rất thấp: phần lớn hàng đầu tư là hàng nhập, nên mất giá làm đầu tư đắt lên ngay |
+| | Tỷ trọng đầu vào nội địa trong xuất khẩu γx | 0,500 | Một nửa giá trị hàng xuất khẩu là đầu vào trong nước |
+| | Độ co giãn thay thế ηc | 0,410 | Nhỏ hơn 1: hàng nội và hàng nhập là bổ sung, không phải thay thế |
+| ② Cú sốc ngoài tác động qua cả tài chính lẫn cầu | γR | −20 | Lãi suất ngoài tăng đi kèm cầu xuất khẩu yếu đi |
+| | Độ dính giá xuất khẩu θx (đường cơ sở) | 0,800 | Mỗi kỳ, 80% nhà xuất khẩu không đổi được giá đô la |
+| ③ Phơi nhiễm bảng cân đối | λb | 0,300 | Cho đòn bẩy trạng thái dừng khoảng 8 lần |
+| | Tỷ trọng nợ đô la mục tiêu ϕ̄ | 0,250 | Đô la hoá nợ vừa phải nhưng đáng kể |
+
+Với γR = −20, bài lập luận rằng thắt chặt tiền tệ ở Mỹ không chỉ là cú sốc tài trợ đối với thị trường mới nổi mà còn là cú sốc cầu toàn cầu. Theo bài, khối thương mại và khối tài chính cùng biến tỷ giá thành một "biên điều chỉnh hai lưỡi". Chuẩn đối chiếu cho các phản ứng của mô hình là ước lượng của Camara, Christiano và Dalgic (2024) về phản ứng của một thị trường mới nổi bình quân trước cú sốc chính sách tiền tệ Mỹ.
+
+**Phản ứng của phần bù UIP sau cú sốc lãi suất ngoài.** Bài mô phỏng một lần tăng lãi suất ở nước ngoài trong bốn nền kinh tế (đơn vị: %/năm, đọc trên đồ thị):
+
+| Nền kinh tế | Đỉnh chênh lệch UIP |
+|---|---|
+| Ghi hoá đơn đô la cao + nợ đô la cao | **khoảng 1,30** |
+| Ghi hoá đơn đô la thấp + nợ đô la cao | khoảng 0,80 |
+| Ghi hoá đơn đô la cao + nợ đô la thấp | khoảng 0,00 tới −0,05 |
+| Ghi hoá đơn đô la thấp + nợ đô la thấp | khoảng 0,03 |
+
+Cách đọc: nợ đô la là điều kiện cần. Nợ đô la cao mà ghi hoá đơn thấp vẫn cho chênh lệch đáng kể (0,80), còn ghi hoá đơn cao mà nợ đô la thấp gần như không tạo chênh lệch nào. Khi có cả hai, phần bù lớn nhất. Lý do nằm ở giá xuất khẩu: ở nước ghi hoá đơn thấp, giá xuất khẩu tính bằng đô la giảm ngay và mạnh (khoảng −1,65% ngay lập tức), nên hàng xuất khẩu rẻ đi trong mắt người mua; ở nước ghi hoá đơn cao, giá đô la điều chỉnh chậm và nhẹ (khoảng −0,55%).
+
+**Cảnh báo quan trọng nhất về cách đọc phản ứng của xuất khẩu.** Trong nền kinh tế nợ cao, xuất khẩu vẫn tăng ngay (khoảng +3,2% GDP). Nhưng bài nhấn mạnh đây không phải cơ chế chuyển đổi chi tiêu lành tính của mô hình giáo khoa, mà là một sự điều chỉnh bên ngoài tốn kém, tạo ra bởi một cú mất giá lớn hơn nhiều và một biến động mạnh của tài khoản đối ngoại. Tài khoản vãng lai của nền kinh tế dễ tổn thương xấu đi rất mạnh ngay lập tức (khoảng −5% GDP) rồi đảo sang thặng dư (khoảng +1% GDP). Cán cân thương mại được cải thiện, nhưng đi kèm mất giá lớn, phần bù UIP cao và co hẹp mạnh cầu trong nước.
+
+**Dòng tài chính.** Trong nền kinh tế nợ đô la cao, bảng cân đối ngân hàng bị hư hại, và để sửa chữa, đòn bẩy ngân hàng tăng lên (tới khoảng +19% so với trạng thái dừng) vì vốn giảm nhanh hơn tài sản. Ghi hoá đơn bằng đô la khuếch đại mạnh mức tăng đòn bẩy đó, và chính điều này làm biến động vĩ mô tăng. Hộ gia đình giảm cả tiền gửi nội tệ lẫn tài sản ngoại: họ dùng tài sản ngoại làm tấm đệm, nhưng chủ yếu thanh lý tiền gửi nội tệ vì không muốn nắm tài sản nội tệ. Bài có hai câu liền kề nói ngược nhau về việc ngân hàng muốn vay bằng đồng nào (một câu nói ngân hàng muốn vay bằng nội tệ, câu sau nói phần bù UIP tăng làm ngân hàng mất động lực vay nội tệ và rốt cuộc vay bằng đô la); cách hiểu hợp lý là câu đầu nói về mong muốn, câu sau nói về kết cục cân bằng, nhưng bài không giải thích.
+
+**Trạng thái dừng ngẫu nhiên: từ phản ứng xung sang lạm phát.** Phản ứng xung chỉ cho biết điều gì xảy ra sau một cú sốc. Để biết mức bình quân dài hạn của lạm phát và phần bù khi nền kinh tế liên tục chịu sốc, bài giải mô hình bằng xấp xỉ bậc ba quanh trạng thái dừng phi ngẫu nhiên, theo Benigno, Benigno và Nisticò (2012) và Ghironi và Ozhan (2025). Lý do dùng bậc ba: xấp xỉ bậc một bỏ qua rủi ro hoàn toàn, bậc hai cho rủi ro một tác động không đổi, còn bậc ba cho phép rủi ro tác động lên *giá trị bình quân* của các biến trong mô phỏng và thay đổi theo tham số, chứ không chỉ lên độ biến động. Điểm mà nền kinh tế quay về khi có rủi ro gọi là trạng thái dừng ngẫu nhiên.
+
+Khi độ dính giá xuất khẩu θx tăng từ 0 (mọi nhà xuất khẩu đổi giá mỗi kỳ) lên 0,9 (cứ 10 nhà xuất khẩu thì 9 người không đổi được giá đô la trong kỳ), kết quả như sau (đọc trên đồ thị):
+
+| Biến | θx = 0 | θx = 0,9 |
+|---|---|---|
+| Biến động tỷ giá | 0,0375 | 0,0405 (tăng nhanh dần sau θx khoảng 0,7) |
+| Tương quan sản lượng–tỷ giá | +0,065 (dương) | −0,09 (đáy −0,115 ở θx khoảng 0,75) |
+| Phần bù UIP (%/năm) | khoảng 0,93 | khoảng 1,64 |
+| Lạm phát trạng thái dừng (%/năm) | khoảng 4,9 | khoảng 7,6 |
+
+**Chuỗi logic đầy đủ.** θx tăng → chuyển đổi chi tiêu yếu đi → tỷ giá phải di chuyển nhiều hơn để tạo ra cùng một mức điều chỉnh bên ngoài → với bảng cân đối đã đô la hoá, các cú mất giá lớn hơn đó làm xấu điều kiện tài chính và làm sản lượng giảm đúng lúc đồng tiền mất giá (tương quan chuyển từ dương sang âm) → tỷ giá trở thành một công cụ phòng hộ tồi về mặt cơ cấu → tài sản đô la là bảo hiểm tốt hơn, tài sản nội tệ rủi ro hơn → phần bù UIP tăng → lãi suất trung lập đã điều chỉnh rủi ro tăng theo.
+
+**Vì sao điều đó tạo ra lạm phát cao hơn.** Trong một nền kinh tế mở với thị trường tài sản quốc tế bị phân mảnh, lãi suất danh nghĩa trong nước phải bù cho nhà đầu tư về rủi ro tiền tệ. Nhưng quy tắc Taylor thông thường có hệ số chặn cố định, nên không tự động đưa sự dịch chuyển đó vào. Tại mức lạm phát mục tiêu, lãi suất chính sách theo quy tắc là quá thấp so với lợi suất cần có để thị trường tiền tệ cân bằng. Cân bằng chỉ đạt được khi lạm phát vượt mục tiêu, để chính quy tắc Taylor đẩy lãi suất danh nghĩa và lãi suất thực lên mức cần thiết. Lạm phát cao hơn ở đây không phải do in tiền mà là cách cân bằng "tự sửa" một quy tắc chính sách đặt mức nền sai.
+
+**Quy tắc "bền vững" của Orphanides và Williams (2006).** Phương trình (82) của bài:
+
+R_t − R_(t−1) = r^π · log(π_t / π̄)
+
+Quy tắc này phản ứng bằng *thay đổi* lãi suất chứ không đặt *mức* lãi suất: khi lạm phát π_t còn cao hơn mục tiêu π̄, lãi suất tiếp tục tăng. Nhờ vậy, mức dài hạn của lãi suất danh nghĩa tự điều chỉnh theo phần bù rủi ro mà vẫn neo được lạm phát. So sánh khi θx tăng từ 0 lên 0,9:
+
+| | Quy tắc Taylor | Quy tắc bền vững |
+|---|---|---|
+| Lạm phát trạng thái dừng (%/năm) | 4,9 → 7,6 | khoảng 0 suốt dải |
+| Chênh lệch lãi suất (%/năm) | 1,0 → 1,6 | 3,9 → 4,3 |
+
+Kết luận chính sách của bài: không phải một quy tắc khác sẽ xoá bỏ được ma sát nền tảng; quy tắc chỉ làm thay đổi hình thức mà ma sát đó hiện ra. Dưới quy tắc chuẩn, phần bù hiện ra một phần dưới dạng lạm phát bình quân cao hơn. Dưới quy tắc bền vững, lạm phát được neo, nhưng nền kinh tế hấp thụ phần bù qua lãi suất thực cao hơn và điều kiện tài chính siết chặt hơn. Theo bài, "đánh đổi này mang tính cơ cấu".
+
+**Nhìn từ phía bảng cân đối (phụ lục F.2).** Khi tỷ trọng nợ đô la ϕ̄ tăng từ 0,15 lên 0,5:
+
+| Biến | ϕ̄ = 0,15 | ϕ̄ = 0,5 |
+|---|---|---|
+| Biến động tỷ giá | 0,035 | 0,072 (gấp đôi) |
+| Tương quan sản lượng–tỷ giá | −0,123 | −0,175, nhưng không đơn điệu: lên đỉnh −0,112 ở ϕ̄ khoảng 0,30 rồi mới đi xuống |
+| Phần bù UIP (%/năm) | 0,3 | 5,9 |
+| Lạm phát trạng thái dừng (%/năm) | khoảng 2,5 | khoảng 20 |
+
+Đây là cùng một cơ chế nhìn từ một biên khác, và tác động của nợ đô la mạnh hơn nhiều so với tác động của độ dính giá xuất khẩu.
+
+**Phần bù cổ phiếu lại giảm (phụ lục F.3.1).** Lợi suất vốn trong mô hình được tính là R^k = [r^k_t + (1−δ)P^k_t] / P^k_(t−1), tức tiền thuê vốn cộng giá trị còn lại của vốn sau khấu hao δ, chia cho giá vốn kỳ trước. Khi θx tăng từ 0 lên 0,9:
+
+| Phần bù của lợi suất vốn so với | θx = 0 | θx = 0,9 | Chiều |
+|---|---|---|---|
+| Lợi suất nội tệ | 0,60 | 0,33 | Giảm |
+| Chi phí vốn | 0,62 | 0,23 | Giảm |
+| Lợi suất đô la | 1,78 | 2,24 | Tăng |
+
+Giải thích: cả R^k lẫn lãi suất nội tệ R đều tăng, nhưng R tăng nhiều hơn. Lý do là phần lãi vốn của lợi suất vốn đóng vai trò tấm đệm trước cú sốc toàn cầu: vốn là tài sản thực, giá trị của nó tăng theo lạm phát truyền dẫn từ mất giá tỷ giá, nên lợi suất vốn không cần tăng nhiều như lãi suất nội tệ danh nghĩa. Bài tự thừa nhận định nghĩa "phần bù so với chi phí vốn" ở đây "hơi gây hiểu lầm", vì chi phí vốn thực tế là bình quân gia quyền các nguồn tài trợ, trong đó có cả tài trợ bằng đô la.
 
 ### 6. Kết luận
 
-- Định giá bằng đồng tiền thống trị và nợ ngoại tệ là hai ma sát củng cố lẫn nhau; khi cùng hoạt động, tỷ giá đổi vai trò từ một giá tương đối ổn định hoá thành một biến trạng thái vĩ mô–tài chính.
-- Chính sách tiền tệ một mình không gỡ được nguồn gốc cơ cấu của rủi ro tiền tệ. Chính sách an toàn vĩ mô hạn chế vay ngoại tệ không phòng hộ và chính sách khuyến khích định giá xuất khẩu linh hoạt hơn mới chạm được vào gốc rễ.
-- Mức độ rủi ro của một đồng tiền không phải là đặc điểm ngoại sinh của quốc gia mà là một kết cục cân bằng.
-- Hướng tiếp theo là xem xét vai trò của phân bổ tín dụng trong nước, đặc biệt ở các nền kinh tế mà khu vực phi thương mại phụ thuộc nặng vào tín dụng ngân hàng.
+**Lập luận cốt lõi.** Định giá bằng đồng tiền thống trị và nợ ngoại tệ là hai ma sát củng cố lẫn nhau:
+
+- giá xuất khẩu bằng đô la làm yếu lợi ích chuyển đổi chi tiêu của mất giá;
+- nợ bằng đô la làm mất giá trở nên tốn kém với trung gian tài chính.
+
+Khi hai ma sát cùng hoạt động, tỷ giá không còn hành xử như một giá tương đối ổn định hoá. Mất giá xảy ra trong trạng thái xấu, siết bảng cân đối, co hẹp hấp thụ trong nước (tổng chi tiêu trong nước), và làm tài sản nội tệ rủi ro.
+
+**Tỷ giá đổi vai trò.** Đây là câu then chốt của bài:
+
+| Loại nền kinh tế | Vai trò của tỷ giá |
+|---|---|
+| Nợ đô la thấp hoặc ghi hoá đơn đô la thấp | Vẫn gần với một giá tương đối: tái phân bổ cầu giữa hàng nội và hàng ngoại, hấp thụ cú sốc bên ngoài |
+| Ghi hoá đơn đô la cao + nợ đô la cao | Trở thành một **biến trạng thái vĩ mô–tài chính**: đẩy chi phí nhập khẩu lên, định giá lại nợ đô la, siết bảng cân đối trung gian, và tăng mức bồi thường mà nhà đầu tư đòi để nắm tài sản nội tệ |
+
+**Ba hàm ý chính sách.**
+
+1. Chính sách tiền tệ một mình không thể gỡ được nguồn gốc cơ cấu của rủi ro tiền tệ. Ngân hàng trung ương ở các nền kinh tế có định giá đô la và nợ đô la đối mặt một đánh đổi thực sự giữa ổn định lạm phát và siết chặt tài chính.
+2. Chính sách an toàn vĩ mô hạn chế vay ngoại tệ không phòng hộ có thể giảm mức khuếch đại qua bảng cân đối của các cú mất giá.
+3. Chính sách khuyến khích định giá xuất khẩu linh hoạt hơn hoặc bằng nội tệ có thể khôi phục một phần vai trò chuyển đổi chi tiêu của tỷ giá.
+
+Hai công cụ ở điểm 2 và 3 mới chạm được vào gốc rễ, vì chúng tác động trực tiếp lên hai ma sát. Phát biểu tổng quát nhất của bài: mức độ rủi ro của một đồng tiền không phải là một đặc điểm ngoại sinh của quốc gia. Đó là một kết cục cân bằng, được định hình bởi cách hàng hoá được định giá, cách nợ được ghi bằng đồng tiền nào, và cách nhà đầu tư quốc tế hấp thụ phơi nhiễm tiền tệ.
+
+**Hướng nghiên cứu tiếp.** Bài đề xuất xem rủi ro tỷ giá có phụ thuộc cả vào phân bổ tín dụng trong nước hay không, ngoài đồng tiền ghi nợ và đồng tiền ghi hoá đơn. Ở nền kinh tế mà khu vực phi thương mại (các ngành không xuất nhập khẩu được, như xây dựng, bán lẻ, dịch vụ) đặc biệt phụ thuộc tín dụng ngân hàng, căng thẳng bảng cân đối do mất giá có thể siết cung tín dụng, co hẹp cầu trong nước và khuếch đại biến động tỷ giá qua một vòng phản hồi bổ sung.
 
 ## Thuật ngữ
 

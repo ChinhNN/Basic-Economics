@@ -331,42 +331,182 @@
 2. Vì sao việc hiệu chỉnh lại yêu cầu vốn Trụ cột 1 theo mức độ xanh là quá sớm, và cơ quan giám sát ngân hàng nên dùng công cụ nào trong lúc chờ bằng chứng?
 3. Một cơ quan giám sát ở thị trường mới nổi nên bắt đầu từ đâu, và theo trình tự nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Rủi ro vật chất và rủi ro chuyển đổi (physical risk, transition risk).** Đây là hai kênh qua đó khí hậu gây thiệt hại tài chính. Rủi ro vật chất là thiệt hại trực tiếp từ hiện tượng khí hậu: bão, lũ, hạn hán, nắng nóng phá huỷ tài sản hoặc làm gián đoạn sản xuất. Rủi ro chuyển đổi là thiệt hại phát sinh khi nền kinh tế chuyển sang phát thải thấp: thuế carbon, quy định mới, công nghệ mới hoặc thay đổi thị hiếu làm giảm giá trị các tài sản và ngành phát thải cao. Ví dụ minh hoạ: một nhà máy bị lũ cuốn trôi là rủi ro vật chất; một nhà máy điện than còn tốt nhưng phải đóng cửa sớm 20 năm vì quy định mới, trở thành "tài sản mắc kẹt", là rủi ro chuyển đổi. Tài liệu dùng hai khái niệm này xuyên suốt (dù không định nghĩa), và phân biệt chúng là chìa khoá để đánh giá nước nào, ngành nào phơi nhiễm qua kênh nào.
+
+**Yếu tố dẫn dắt rủi ro (risk driver).** Một nguyên nhân làm các loại rủi ro quen thuộc tăng lên, chứ bản thân nó không phải một loại rủi ro riêng. Ví dụ minh hoạ: một trận lũ làm 5% khách vay của một ngân hàng ở vùng ngập không trả được nợ; thiệt hại đó hiện ra trong sổ sách ngân hàng dưới dạng nợ xấu, tức rủi ro tín dụng, chứ không có dòng nào ghi "rủi ro khí hậu". Đây là nguyên tắc phương pháp luận trung tâm của tài liệu: vì khí hậu chỉ dẫn dắt các rủi ro đã biết, cơ quan giám sát có thể dùng công cụ đã có thay vì dựng khung mới.
+
+**Ba trụ cột của khung Basel và trọng số rủi ro (Pillar 1, 2, 3; risk weight).** Khung vốn ngân hàng quốc tế có ba trụ cột. Trụ cột 1 là yêu cầu vốn tối thiểu tính theo công thức chung: mỗi khoản cho vay được gán một trọng số rủi ro, và ngân hàng phải giữ vốn tối thiểu theo tỷ lệ của tài sản đã nhân trọng số. Trụ cột 2 là rà soát giám sát: cơ quan giám sát xem xét riêng từng ngân hàng và có thể đòi thêm vốn nếu thấy rủi ro chưa được Trụ cột 1 tính hết. Trụ cột 3 là công bố thông tin để thị trường tự kỷ luật ngân hàng. Ví dụ minh hoạ: khoản vay 100 tỷ đồng với trọng số 100% và tỷ lệ vốn tối thiểu 8% đòi hỏi 8 tỷ đồng vốn. Tài liệu kết luận chưa nên sửa Trụ cột 1 vì khí hậu, mà nên dùng Trụ cột 2.
+
+**Hệ số hỗ trợ xanh, hệ số phạt nâu và rủi ro không được vốn che phủ (green supporting factor, brown penalizing factor, uncovered risk).** Hệ số hỗ trợ xanh là đề xuất giảm yêu cầu vốn cho tài sản "xanh"; hệ số phạt nâu là tăng yêu cầu vốn cho tài sản carbon cao. Rủi ro không được vốn che phủ là phần rủi ro thật mà ngân hàng không giữ đủ vốn để chịu. Ví dụ minh hoạ, tiếp ví dụ trên: nếu khoản vay xanh 100 tỷ được giảm trọng số còn 75%, vốn yêu cầu còn 6 tỷ; nếu khoản vay đó thực ra rủi ro không kém khoản vay thường, thì 2 tỷ rủi ro không có vốn đứng sau. Đây là lý do tài liệu phản đối hệ số hỗ trợ xanh.
+
+**Rủi ro im lặng (silent risk).** Phơi nhiễm với một rủi ro mà hợp đồng bảo hiểm không loại trừ rõ ràng, cũng không tính phí rõ ràng, nên công ty bảo hiểm có thể đang gánh nó mà không biết. Ví dụ minh hoạ: một hợp đồng bảo hiểm trách nhiệm viết từ nhiều năm trước, không nhắc gì đến khí hậu, có thể bị toà án buộc chi trả khi khách hàng bị kiện vì góp phần gây thiệt hại khí hậu, dù phí bảo hiểm chưa từng tính cho rủi ro đó. Tiền lệ lịch sử là amiăng. Đây là khái niệm sắc nhất của phần bảo hiểm.
+
+**Hiểm hoạ chính, hiểm hoạ thứ cấp và tái bảo hiểm (primary perils, secondary perils, reinsurance).** Hiểm hoạ chính là thảm hoạ lớn, hiếm và đã được mô hình hoá kỹ như bão nhiệt đới, động đất. Hiểm hoạ thứ cấp là các sự kiện nhỏ hơn nhưng thường xuyên hơn như cháy rừng, lũ quét, mưa đá, giông. Tái bảo hiểm là việc công ty bảo hiểm mua bảo hiểm cho chính mình từ một công ty tái bảo hiểm. Ví dụ minh hoạ: một công ty bảo hiểm nhận 100 đồng rủi ro, chuyển 60 đồng sang tái bảo hiểm và giữ lại 40; nếu tái bảo hiểm đắt lên và họ chỉ chuyển được 40, phần giữ lại tăng lên 60 dù tổng rủi ro không đổi. Tài liệu chỉ ra cả hai xu hướng này đang diễn ra.
+
+**Tẩy xanh (greenwashing).** Việc doanh nghiệp hoặc quỹ đầu tư trình bày mình, hoặc sản phẩm của mình, xanh hơn thực tế. Ví dụ minh hoạ: một quỹ mang tên "Quỹ năng lượng bền vững" nhưng 40% danh mục là cổ phiếu dầu khí. Khái niệm này quan trọng vì tài liệu coi tẩy xanh trước hết là lừa dối nhà đầu tư, tức nằm sẵn trong nhiệm vụ của cơ quan chứng khoán.
+
+**Đánh giá tính trọng yếu (materiality assessment).** Việc xác định xem một rủi ro có đủ lớn để ảnh hưởng đáng kể tới hệ thống tài chính hay không, dựa trên dữ liệu. Ví dụ minh hoạ: nếu chỉ 2% dư nợ của hệ thống ngân hàng nằm ở các vùng thường xuyên ngập, rủi ro lũ có thể chưa trọng yếu với toàn hệ thống; nếu là 30%, nó rõ ràng trọng yếu. Tài liệu đặt đây là điểm khởi đầu bắt buộc cho thị trường mới nổi.
+
+## Nội dung chi tiết
 
 ### 1. Tóm tắt và khung chung
 
-- Ưu tiên của cơ quan quản lý và giám sát tài chính là sức chống chịu của định chế tài chính và tính công bằng, hiệu quả, minh bạch của thị trường. Hai mục tiêu này là nhiệm vụ cốt lõi và cũng là giới hạn.
-- Cơ quan giám sát không nên can thiệp để thúc đẩy đầu tư xanh. Việc định hướng dòng vốn thuộc về chính sách tài khoá và chính sách ngành.
-- Rủi ro khí hậu không phải loại rủi ro mới mà là yếu tố dẫn dắt các rủi ro đã biết: tín dụng, thị trường, thanh khoản, hoạt động, bảo hiểm, pháp lý và danh tiếng. Hệ quả thực hành là tận dụng bộ công cụ đã có thay vì dựng khung song song.
+**Câu hỏi gốc.** Tài liệu trả lời câu hỏi: cơ quan quản lý và giám sát tài chính nên làm gì về khí hậu, và quan trọng không kém, không nên làm gì.
+
+**Hai nhiệm vụ cốt lõi**, cũng là ranh giới không được vượt:
+
+1. Bảo đảm sức chống chịu của định chế tài chính: ngân hàng và công ty bảo hiểm phải an toàn và lành mạnh, để bảo vệ người gửi tiền và người mua bảo hiểm.
+2. Bảo đảm thị trường công bằng, hiệu quả và minh bạch: bảo vệ nhà đầu tư, chống thao túng và lừa dối.
+
+**Điều không thuộc nhiệm vụ** là điểm tài liệu nhấn mạnh nhất. Cơ quan giám sát không nên can thiệp để thúc đẩy đầu tư xanh, không nên dùng công cụ an toàn để phân bổ vốn cho quá trình chuyển đổi, và không nên biến quản lý tài chính thành công cụ chính sách khí hậu. Lý do: việc định hướng dòng vốn thuộc về chính sách tài khoá (thuế carbon, trợ cấp) và chính sách ngành. Dùng công cụ an toàn để làm việc đó vừa kém hiệu quả, vừa làm suy yếu chính mục tiêu an toàn. Ví dụ, nếu một nước muốn thúc đẩy điện mặt trời, thuế carbon đánh vào điện than hay trợ cấp cho điện mặt trời tác động trực tiếp vào lợi nhuận của dự án; còn nới yêu cầu vốn cho khoản vay điện mặt trời thì chỉ làm ngân hàng mỏng vốn hơn.
+
+**Rủi ro khí hậu không phải loại rủi ro mới**, mà là một yếu tố dẫn dắt các loại rủi ro đã được biết đến:
+
+| Loại rủi ro đã biết | Khí hậu dẫn dắt nó như thế nào |
+|---|---|
+| Tín dụng | Người vay bị thiên tai ảnh hưởng, hoặc tài sản của họ mất giá trị vì trở thành tài sản mắc kẹt |
+| Thị trường | Tài sản carbon cao bị định giá lại đột ngột |
+| Thanh khoản | Người dân rút tiền gửi sau một sự kiện thảm hoạ |
+| Hoạt động | Cơ sở vật chất của định chế bị hư hại, hoạt động bị gián đoạn |
+| Bảo hiểm | Tần suất và mức độ nghiêm trọng của tổn thất tăng |
+| Pháp lý | Kiện tụng liên quan đến khí hậu |
+| Danh tiếng | Bị cáo buộc tẩy xanh |
+
+Hệ quả thực hành là tận dụng bộ công cụ đã có, thay vì dựng một khung giám sát song song mới cho khí hậu.
 
 ### 2. Ngân hàng
 
-- Uỷ ban Basel đã xây dựng một kiến trúc bốn phần: mười tám nguyên tắc quản lý và giám sát, tài liệu làm rõ cách xử lý rủi ro khí hậu trong khung vốn và thanh khoản hiện hành, khung công bố Trụ cột 3 tự nguyện tương thích với ISSB, và các nguyên tắc cốt lõi sửa đổi. Cả bốn đều theo hướng tích hợp chứ không tạo trụ cột riêng.
-- Đề xuất hệ số hỗ trợ xanh và hệ số phạt nâu bị bác bỏ vì bằng chứng thực nghiệm phân biệt rủi ro giữa tài sản xanh và không xanh còn không đầy đủ. Giảm vốn cho tài sản chưa được chứng minh là ít rủi ro hơn sẽ làm tăng phần rủi ro không được vốn che phủ.
-- Lập luận kỹ thuật cốt lõi là sự lệch pha về chân trời thời gian: khung vốn hiện hành hiệu chỉnh trên một đến ba năm, còn rủi ro khí hậu hiện thực hoá trên hàng thập niên. Vì vậy việc hiệu chỉnh lại Trụ cột 1 là quá sớm.
-- Trụ cột 2 là công cụ phù hợp trong giai đoạn hiện nay vì cho phép đánh giá theo từng ngân hàng cụ thể mà không cần thay đổi trọng số rủi ro toàn hệ thống.
-- Bốn khối xây dựng cho cơ quan giám sát là quản trị, quản lý rủi ro tích hợp, dữ liệu và phân tích kịch bản, và công bố thông tin. Phân tích kịch bản hiện là công cụ thăm dò chứ chưa phải công cụ định lượng vốn.
+**Kiến trúc của Uỷ ban Basel (BCBS)** gồm bốn cấu phần:
+
+| Cấu phần | Nội dung |
+|---|---|
+| ① 18 nguyên tắc về quản lý và giám sát hiệu quả rủi ro tài chính liên quan đến khí hậu (BCBS 2022b) | Nguyên tắc 1–12 dành cho ngân hàng; nguyên tắc 13–18 dành cho cơ quan giám sát |
+| ② Tài liệu làm rõ (BCBS 2022a) | Giải thích rủi ro khí hậu được xử lý thế nào trong khung vốn và thanh khoản hiện hành, tức không cần khung mới |
+| ③ Khung công bố thông tin Trụ cột 3 tự nguyện (BCBS 2025, tháng 6/2025) | Được thiết kế để tương thích với chuẩn ISSB, tránh gánh nặng báo cáo trùng lặp |
+| ④ Nguyên tắc cốt lõi sửa đổi (BCBS 2024) | Đưa rủi ro khí hậu vào chuẩn mực giám sát ngân hàng nền tảng |
+
+Điểm cần thấy là cả bốn cấu phần đều theo hướng tích hợp khí hậu vào khung hiện hành, không tạo một trụ cột riêng cho khí hậu.
+
+**Có nên điều chỉnh yêu cầu vốn theo mức độ xanh không?** Đây là câu hỏi gây tranh cãi nhất. Có hai đề xuất thường được nêu: "hệ số hỗ trợ xanh" giảm yêu cầu vốn cho tài sản xanh, và "hệ số phạt nâu" tăng yêu cầu vốn cho tài sản carbon cao. Tài liệu phản bác bằng ba lập luận:
+
+1. Bằng chứng thực nghiệm phân biệt mức rủi ro giữa tài sản xanh và tài sản không xanh vẫn không đầy đủ (EBA 2022; RBNZ 2024). Chưa ai chứng minh được rằng một khoản vay cho dự án xanh ít bị vỡ nợ hơn một khoản vay thông thường tương tự.
+2. Hệ quả trực tiếp: nếu giảm vốn cho tài sản xanh mà tài sản đó không thực sự ít rủi ro hơn, phần rủi ro không được vốn che phủ sẽ tăng lên. Tức là chính sách làm suy yếu chính mục tiêu an toàn mà khung vốn được lập ra để phục vụ.
+3. Dùng trọng số rủi ro để theo đuổi mục tiêu phân bổ vốn là dùng sai công cụ.
+
+**Vì sao hiệu chỉnh lại Trụ cột 1 là quá sớm.** Lập luận kỹ thuật cốt lõi là sự lệch pha về chân trời thời gian. Khung vốn hiện hành được hiệu chỉnh trên chân trời 1 đến 3 năm: các tham số như xác suất vỡ nợ được ước lượng để phản ánh tổn thất có thể xảy ra trong vài năm tới. Rủi ro khí hậu thì hiện thực hoá trên chân trời hàng thập niên. Hai chân trời này không khớp nhau về mặt phương pháp, nên các tham số rủi ro ước lượng từ dữ liệu lịch sử ngắn hạn không nắm bắt được rủi ro dài hạn. Kết luận của tài liệu: "việc hiệu chỉnh lại các yêu cầu vốn Trụ cột 1 là quá sớm vào thời điểm này".
+
+**Trong khi chờ thì dùng Trụ cột 2.** Trụ cột 2 cho phép cơ quan giám sát đánh giá rủi ro theo từng ngân hàng cụ thể, không cần một công thức chung. Nếu một ngân hàng có phơi nhiễm tập trung bất thường, chẳng hạn cho vay quá nhiều vào một vùng ven biển hay một ngành phát thải cao, cơ quan giám sát có thể yêu cầu ngân hàng đó giữ vốn bổ sung mà không cần thay đổi trọng số rủi ro cho toàn hệ thống. Đây là cách tôn trọng nguyên tắc dựa trên bằng chứng mà vẫn xử lý được rủi ro cụ thể.
+
+**Bốn khối xây dựng cho cơ quan giám sát ngân hàng:**
+
+1. **Quản trị**: trách nhiệm rõ ràng của hội đồng quản trị và ban điều hành; khẩu vị rủi ro (mức rủi ro ngân hàng chấp nhận gánh) có tính đến khí hậu.
+2. **Quản lý rủi ro**: tích hợp khí hậu vào quy trình nhận diện, đo lường, giám sát và kiểm soát rủi ro đã có, và vào ba tuyến phòng vệ (bộ phận kinh doanh, bộ phận quản lý rủi ro và tuân thủ, kiểm toán nội bộ).
+3. **Dữ liệu và phân tích kịch bản**: đây là điểm yếu lớn nhất hiện nay. Phân tích kịch bản hiện là công cụ thăm dò, giúp hiểu các kênh rủi ro, chứ chưa phải công cụ để định lượng mức vốn cần giữ.
+4. **Công bố thông tin**: tạo kỷ luật thị trường, tương thích với chuẩn ISSB.
+
+Nguyên tắc 8 (được tài liệu dẫn kèm số hiệu [40.18] của Khung Basel) đòi hỏi ngân hàng đánh giá hồ sơ rủi ro của mình theo hướng nhìn về phía trước, chứ không chỉ dựa trên tổn thất đã xảy ra.
 
 ### 3. Bảo hiểm
 
-- IAIS đã cập nhật Application Paper năm 2025 và bổ sung hướng dẫn ICP về đầu tư và quản lý rủi ro doanh nghiệp từ tháng 12/2024. Ngành bảo hiểm phơi nhiễm ở cả hai phía bảng cân đối.
-- Phi nhân thọ phơi nhiễm chủ yếu với rủi ro vật chất nhưng có đệm nhờ hợp đồng ngắn hạn định giá lại được; chính đệm đó lại tạo rủi ro về khả năng chi trả bảo hiểm và khoảng trống bảo vệ. Nhân thọ phơi nhiễm chủ yếu qua danh mục đầu tư dài hạn và không có đệm tương tự.
-- Rủi ro im lặng là phơi nhiễm mà hợp đồng không loại trừ cũng không định giá rõ ràng, tương tự rủi ro mạng im lặng. Bài học amiăng cho thấy các hợp đồng trách nhiệm viết trước khi rủi ro được nhận diện có thể tạo tổn thất khổng lồ kéo dài, và kiện tụng khí hậu có thể đi theo con đường đó.
-- Thị trường tái bảo hiểm siết chặt từ 2022 khiến công ty bảo hiểm gốc giữ lại nhiều rủi ro hơn. Đồng thời các hiểm hoạ thứ cấp như cháy rừng nay gây tổn thất sánh ngang hiểm hoạ chính nhưng lại được mô hình hoá kém hơn hẳn.
+**Khung chuẩn mực quốc tế.** Hiệp hội Quốc tế các Cơ quan Giám sát Bảo hiểm (IAIS) ban hành Application Paper về giám sát rủi ro khí hậu trong ngành bảo hiểm năm 2021 và cập nhật năm 2025. Tháng 12/2024, IAIS cập nhật hướng dẫn của các Nguyên tắc cốt lõi về bảo hiểm (ICP) về đầu tư và về quản lý rủi ro doanh nghiệp (ERM).
+
+Điểm quan trọng là bảo hiểm phơi nhiễm ở cả hai phía bảng cân đối: phía nghĩa vụ (tổn thất phải bồi thường cho khách hàng) và phía tài sản (danh mục đầu tư mà công ty bảo hiểm nắm giữ).
+
+**Nhân thọ khác phi nhân thọ.**
+
+| | Phi nhân thọ (general insurance) | Nhân thọ (life insurance) |
+|---|---|---|
+| Kênh phơi nhiễm chính | Rủi ro vật chất: tần suất và mức độ nghiêm trọng của thảm hoạ | Danh mục đầu tư dài hạn, tức rủi ro chuyển đổi; ngoài ra còn rủi ro tử vong và bệnh tật do sóng nhiệt và bệnh truyền nhiễm |
+| Đệm | Hợp đồng thường ngắn hạn (1 năm), nên có thể định giá lại phí hoặc rút khỏi thị trường khi rủi ro tăng | Nghĩa vụ dài hạn, không định giá lại được, nên không có đệm như phi nhân thọ |
+| Mặt trái | Chính việc tăng phí hoặc rút đi tạo ra rủi ro về khả năng chi trả phí bảo hiểm của người dân và khoảng trống bảo vệ (thiệt hại không được bảo hiểm) | |
+
+Ví dụ minh hoạ về mặt trái của đệm: nếu sau vài năm bão liên tiếp, công ty bảo hiểm tăng phí nhà ở vùng ven biển gấp đôi hoặc ngừng bán, công ty an toàn hơn, nhưng nhiều hộ gia đình không còn được bảo hiểm và thiệt hại lần sau rơi thẳng vào họ.
+
+**Rủi ro im lặng**, khái niệm quan trọng nhất của phần bảo hiểm. Định nghĩa: phơi nhiễm với rủi ro khí hậu mà hợp đồng bảo hiểm không loại trừ rõ ràng, cũng không định giá rõ ràng. Hệ quả là công ty bảo hiểm có thể đang gánh rủi ro mà chính họ không biết mình đang gánh. Khái niệm này tương tự "rủi ro mạng im lặng" (silent cyber risk), với cùng cơ chế: hợp đồng được viết trước khi rủi ro được nhận diện.
+
+Bài học lịch sử là amiăng. Các hợp đồng bảo hiểm trách nhiệm được viết từ nhiều thập niên trước, khi chưa ai biết hậu quả y tế của amiăng. Về sau, khi người bị bệnh kiện các doanh nghiệp đã dùng amiăng, những hợp đồng đó buộc ngành bảo hiểm chịu tổn thất khổng lồ và kéo dài. Kiện tụng khí hậu có thể đi theo đúng con đường đó.
+
+**Hai xu hướng thực tế đang diễn ra.**
+
+1. **Thị trường tái bảo hiểm siết chặt từ 2022**: giá tái bảo hiểm tăng, điều khoản chặt hơn, mức khấu trừ cao hơn. Kết quả là công ty bảo hiểm gốc giữ lại nhiều rủi ro hơn trên bảng cân đối của chính mình, nên phơi nhiễm ròng của họ tăng dù tổng rủi ro không đổi.
+2. **Hiểm hoạ thứ cấp nay sánh ngang hiểm hoạ chính**:
+
+| | Ví dụ | Đặc điểm |
+|---|---|---|
+| Hiểm hoạ chính (primary perils) | Bão nhiệt đới, động đất | Hiếm, lớn, được mô hình hoá kỹ |
+| Hiểm hoạ thứ cấp (secondary perils) | Cháy rừng, lũ quét, mưa đá, giông | Thường xuyên hơn, từng bị coi là nhỏ, nay gây tổn thất tương đương hiểm hoạ chính, nhưng được mô hình hoá kém hơn hẳn |
+
+**Ví dụ lịch sử: lũ lụt Thái Lan 2011.** Trận lũ này minh hoạ cách một rủi ro vật chất "thứ cấp" lan qua chuỗi cung ứng toàn cầu: khi các khu công nghiệp bị ngập ngừng sản xuất linh kiện, các nhà máy ở những nơi rất xa phải dừng theo, và ngành bảo hiểm chịu tổn thất gián đoạn kinh doanh ở những nơi đó. Bài học: rủi ro vật chất không chỉ giới hạn ở nơi thiên tai xảy ra.
 
 ### 4. Chứng khoán
 
-- Nhiệm vụ ở đây là tính toàn vẹn của thông tin, nên công cụ chính là công bố thông tin và chống lừa dối.
-- Kiến trúc chuẩn mực đang hội tụ quanh IFRS S1 và S2 của ISSB, được IOSCO chứng thực, kèm hướng dẫn áp dụng theo quốc gia và hai lớp bổ trợ về bảo đảm và đạo đức nghề nghiệp. Công bố chỉ có giá trị nếu kiểm chứng được.
-- IOSCO bổ sung công việc về kế hoạch chuyển đổi, trái phiếu bền vững và thị trường carbon, trong đó thị trường carbon là mảng non trẻ với rủi ro toàn vẹn cao.
-- Chuỗi công việc về tẩy xanh trải từ xếp hạng ESG và quản lý tài sản đến lời kêu gọi hành động và thực hành giám sát cụ thể. Tẩy xanh là vấn đề lừa dối nhà đầu tư, nằm thẳng trong nhiệm vụ truyền thống.
+**Nhiệm vụ khác với hai khu vực trên.** Cơ quan chứng khoán không lo về khả năng thanh toán của định chế, mà lo về tính toàn vẹn của thông tin trên thị trường. Vì vậy công cụ chính là công bố thông tin và chống lừa dối.
+
+**Kiến trúc chuẩn mực công bố đang hội tụ:**
+
+| Bước | Nội dung | Ý nghĩa |
+|---|---|---|
+| ① ISSB ban hành IFRS S1 và S2 (2023) | S1 là yêu cầu chung về công bố thông tin bền vững; S2 là yêu cầu riêng về khí hậu | Nền tảng chung |
+| ② IOSCO chứng thực hai chuẩn này (2023b) | Tổ chức Quốc tế các Uỷ ban Chứng khoán công nhận | Biến chuẩn tự nguyện thành nền tảng cho quy định bắt buộc ở cấp quốc gia |
+| ③ ISSB Inaugural Jurisdictional Guide (2024) | Hướng dẫn từng nước áp dụng | Áp dụng theo quốc gia |
+| ④ ISSA 5000 (IAASB 2024) | Chuẩn bảo đảm (assurance) cho báo cáo bền vững, tương tự kiểm toán cho báo cáo tài chính | Lớp kiểm chứng |
+| ⑤ IESBA (2025) | Chuẩn đạo đức cho người hành nghề bảo đảm | Lớp đạo đức nghề nghiệp |
+
+Ý nghĩa của bước ④ và ⑤: công bố thông tin chỉ có giá trị nếu có thể kiểm chứng được. Không có khung bảo đảm thì công bố chỉ là lời tự tuyên bố của doanh nghiệp.
+
+**Ba mảng công việc bổ sung của IOSCO:**
+
+1. **Kế hoạch chuyển đổi** (11/2024): cách doanh nghiệp công bố lộ trình chuyển đổi của mình một cách có thể so sánh được.
+2. **Trái phiếu bền vững** (2025): tính toàn vẹn của thị trường trái phiếu xanh và trái phiếu liên kết bền vững.
+3. **Thị trường carbon** (2023a, 2024b): cả thị trường tuân thủ (nơi doanh nghiệp bắt buộc mua hạn ngạch phát thải) lẫn thị trường tự nguyện (nơi doanh nghiệp tự nguyện mua tín chỉ để bù phát thải). Đây là mảng non trẻ với rủi ro toàn vẹn cao.
+
+Ngoài ra, CPMI-IOSCO xem xét tác động của khí hậu đối với hạ tầng thị trường tài chính (FMI), như hệ thống thanh toán và bù trừ.
+
+**Tẩy xanh, chuỗi công việc dài nhất của IOSCO:**
+
+| Năm | Chủ đề | Nội dung |
+|---|---|---|
+| 2021a | Xếp hạng và dữ liệu ESG | Thiếu minh bạch về phương pháp, thiếu nhất quán giữa các nhà cung cấp |
+| 2021b | Quản lý tài sản | Sản phẩm gắn nhãn bền vững nhưng danh mục không tương ứng |
+| 2022 | "Call for Action" | Lời kêu gọi hành động |
+| 2023c | Thực hành giám sát | Các cách giám sát cụ thể để phát hiện và xử lý tẩy xanh |
+
+Điểm cần thấy: tẩy xanh không phải vấn đề khí hậu mà là vấn đề lừa dối nhà đầu tư, tức nằm thẳng trong nhiệm vụ truyền thống của cơ quan chứng khoán. Đây là ví dụ rõ nhất cho luận điểm chung của tài liệu: cơ quan giám sát không cần nhiệm vụ mới, chỉ cần áp dụng nhiệm vụ cũ vào bối cảnh mới.
 
 ### 5. Thị trường mới nổi
 
-- Điểm khởi đầu phải là đánh giá tính trọng yếu dựa trên dữ liệu chứ không dựa trên áp lực chính trị hay xu hướng quốc tế; hồ sơ rủi ro khác nhau căn bản giữa nước phụ thuộc nông nghiệp và nước xuất khẩu nhiên liệu hoá thạch.
-- Làm đúng những thứ cơ bản trước. Vì rủi ro khí hậu hiện ra qua các rủi ro truyền thống, năng lực giám sát truyền thống là điều kiện tiên quyết.
-- Xây dựng năng lực theo trình tự: lập bộ phận chuyên trách trong giai đoạn đầu để tập trung chuyên môn khan hiếm, sau đó phân tán năng lực ra toàn tổ chức để chính giám sát viên tuyến đầu xử lý được.
-- Nhu cầu năng lực gồm hiểu khoa học khí hậu, kỹ năng phân tích kịch bản, hiểu thị trường carbon, đánh giá chất lượng dữ liệu và phân biệt công bố thực chất với tẩy xanh. Hợp tác quốc tế và hỗ trợ kỹ thuật là kênh quan trọng.
+**Nguyên tắc thứ nhất: đánh giá tính trọng yếu trước đã.** Không sao chép khung của các nền kinh tế tiên tiến, và không hành động vì áp lực chính trị hay xu hướng quốc tế. Mọi việc phải dựa trên dữ liệu: rủi ro khí hậu có thực sự trọng yếu với hệ thống tài chính cụ thể này không, và qua kênh nào? Hai nước cùng mức phát triển có thể có hồ sơ rủi ro hoàn toàn khác nhau: một nước phụ thuộc nông nghiệp chủ yếu đối mặt rủi ro vật chất, còn một nước xuất khẩu nhiên liệu hoá thạch chủ yếu đối mặt rủi ro chuyển đổi.
+
+**Nguyên tắc thứ hai: làm đúng những thứ cơ bản trước** ("get the basics right first"). Nếu giám sát rủi ro tín dụng cơ bản còn yếu, chất lượng dữ liệu còn kém, khung quản trị còn lỏng, thì thêm một lớp giám sát khí hậu không giải quyết được gì. Vì rủi ro khí hậu hiện ra qua các loại rủi ro truyền thống, năng lực giám sát truyền thống là điều kiện tiên quyết. Ví dụ minh hoạ: một cơ quan giám sát chưa phân loại nợ xấu chính xác thì cũng không thể biết lũ lụt đã làm nợ xấu ở vùng bị ngập tăng bao nhiêu.
+
+**Nguyên tắc thứ ba: xây dựng năng lực có trình tự.**
+
+1. **Giai đoạn đầu**: lập một bộ phận hoặc nhóm chuyên trách về khí hậu. Cách này tập trung chuyên môn khan hiếm vào một chỗ, tạo một điểm quy chiếu duy nhất cho cả tổ chức, và tránh việc nguồn lực ít ỏi bị rải mỏng.
+2. **Giai đoạn sau**: phân tán năng lực đó ra toàn tổ chức, vì rủi ro khí hậu cuối cùng phải được xử lý bởi chính các giám sát viên phụ trách từng định chế, không phải bởi một nhóm tách biệt.
+
+Logic của trình tự này là tập trung để xây dựng, phân tán để vận hành. Nếu giữ mãi mô hình tập trung, khí hậu sẽ trở thành "việc của người khác" trong mắt giám sát viên tuyến đầu.
+
+**Nhu cầu năng lực cụ thể:**
+
+- Hiểu khoa học khí hậu ở mức đủ để đọc các kịch bản khí hậu.
+- Kỹ năng phân tích kịch bản và mô hình hoá.
+- Hiểu thị trường carbon và các công cụ tài chính bền vững.
+- Năng lực đánh giá chất lượng dữ liệu do các định chế cung cấp.
+- Khả năng phân biệt công bố thực chất với tẩy xanh.
+
+Hợp tác quốc tế và hỗ trợ kỹ thuật là kênh quan trọng để lấp khoảng trống năng lực này.
+
+**Tổng hợp cấu trúc lập luận của toàn tài liệu.** Tài liệu đi theo mô hình một nguyên tắc, ba khu vực, một kết luận. Nguyên tắc: rủi ro khí hậu là yếu tố dẫn dắt các rủi ro đã biết, không phải loại rủi ro mới, nên dùng công cụ đã có và ở trong nhiệm vụ đã có. Áp vào ba khu vực:
+
+| Khu vực | Nhiệm vụ cốt lõi | Hệ quả cụ thể |
+|---|---|---|
+| Ngân hàng | An toàn và lành mạnh | Dùng Trụ cột 2; chưa hiệu chỉnh lại Trụ cột 1; không dùng hệ số hỗ trợ xanh |
+| Bảo hiểm | Bảo vệ người mua bảo hiểm, khả năng thanh toán | Nhận diện rủi ro im lặng; theo dõi hiểm hoạ thứ cấp và việc giữ lại rủi ro khi tái bảo hiểm siết chặt |
+| Chứng khoán | Thị trường công bằng, hiệu quả, minh bạch | Áp dụng chuẩn ISSB kèm khung bảo đảm; chống tẩy xanh như chống lừa dối nhà đầu tư |
+
+Kết luận chung: hành động phải dựa trên bằng chứng về tính trọng yếu, không dựa trên kỳ vọng chính trị; hài hoà với chuẩn mực quốc tế để tránh phân mảnh quy định giữa các nước và gánh nặng báo cáo trùng lặp; tăng cường dữ liệu là điều kiện nền tảng cho mọi việc khác; và quan trọng nhất, cơ quan giám sát phải biết điều gì không thuộc về mình.
 
 ## Thuật ngữ
 

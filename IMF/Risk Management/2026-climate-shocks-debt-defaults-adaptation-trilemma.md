@@ -554,49 +554,332 @@
 2. Năng lực thích ứng có thực sự làm dịu thiệt hại kinh tế của một thiên tai thêm không, và mức độ làm dịu khác nhau ra sao giữa nước mới nổi và nước thu nhập thấp?
 3. Cần bao nhiêu viện trợ ưu đãi để xây đủ năng lực thích ứng nhằm bù lại mức tăng rủi ro vỡ nợ do khí hậu, và con số đó có thể dùng làm thước đo ngân sách được không?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Vỡ nợ chủ quyền (sovereign default).** Một chính phủ không trả đúng hạn tiền gốc hoặc tiền lãi đã cam kết, hoặc buộc chủ nợ chấp nhận điều kiện kém hơn hợp đồng ban đầu (kéo dài kỳ hạn, giảm lãi, xoá một phần gốc). Bộ dữ liệu bài dùng tính cả trường hợp chỉ bỏ lỡ một kỳ trả lãi trái phiếu (coupon) và cả các đợt tái cơ cấu được thương lượng mà không có tuyên bố vỡ nợ chính thức. Ví dụ trong bài: sau bão Ivan năm 2004, Grenada phải tái cơ cấu nợ suốt 2004–2006. Đây là biến mà cả bài muốn giải thích: thiên tai có đẩy một nước tới chỗ không trả được nợ hay không.
+
+**Xác suất và tỷ lệ cược (odds).** Xác suất là khả năng một sự kiện xảy ra, từ 0 đến 1. Tỷ lệ cược là xác suất xảy ra chia cho xác suất không xảy ra. Ví dụ minh hoạ: nếu xác suất vỡ nợ là 4%, tỷ lệ cược là 4/96, khoảng 0,042. Nếu tỷ lệ cược tăng 2,6%, nó thành khoảng 0,043, và xác suất chỉ tăng từ 4% lên khoảng 4,1%. Khái niệm này quan trọng vì kết quả chính của bài nói về tỷ lệ cược ("tăng khoảng 2–3%"), và một lỗi lớn trong bài là đọc con số đó như thể xác suất tăng 2,6 điểm phần trăm.
+
+**Sự kiện hiếm và logit giảm thiên lệch của Firth.** Hồi quy logit là phương pháp ước lượng xem các yếu tố làm thay đổi xác suất một sự kiện có/không (ở đây là vỡ nợ/không vỡ nợ) ra sao. Khi sự kiện rất hiếm, ví dụ vỡ nợ chỉ xuất hiện ở khoảng 4% số quan sát nước–năm, logit thông thường cho hệ số bị lệch, và có thể gặp tình trạng "tách biệt bán phần": một nhóm quan sát gần như luôn vỡ nợ hoặc luôn không, khiến ước lượng phình to vô hạn. Phương pháp của Firth thêm một khoản "phạt" vào hàm ước lượng để kéo hệ số về mức hợp lý. Điều này quan trọng vì nếu không xử lý, kết luận "thiên tai làm tăng rủi ro vỡ nợ" có thể chỉ là sản phẩm của mẫu quá ít sự kiện.
+
+**Thiệt hại kinh tế trên GDP.** Tổng giá trị tài sản và sản xuất bị mất vì thiên tai trong một năm, chia cho GDP danh nghĩa của nước đó. Ví dụ trong bài: bão Maria năm 2017 gây 931 triệu USD thiệt hại cộng 380 triệu USD tổn thất cho Dominica, tương đương 226% GDP năm 2016. Chia cho GDP giúp so sánh được một cơn bão ở nước nhỏ với một trận lũ ở nước lớn. Bài dùng thước đo này thay cho các chỉ số "dễ tổn thương" mang tính cơ cấu, và coi đó là điểm mới chính về phương pháp.
+
+**Năng lực thích ứng (adaptive capacity).** Khả năng của một nước hấp thụ cú sốc khí hậu và phục hồi sau đó: có đủ hồ chứa nước, đường sá, năng lực nông nghiệp để một trận hạn hay lũ không biến thành thảm hoạ kinh tế. Bài đo bằng bình quân các chỉ báo thành phần của chỉ số ND-GAIN (thang điểm càng cao càng thích ứng tốt). Ví dụ minh hoạ theo hệ số của bài: ở mức thích ứng rất thấp, thêm một thiên tai làm thiệt hại tăng khoảng 0,35 điểm phần trăm GDP; mỗi 10 điểm thích ứng thêm làm mức tăng đó nhỏ đi khoảng 0,04 điểm, nên ở mức 50 điểm thì một thiên tai thêm chỉ còn làm thiệt hại tăng khoảng 0,35 − 0,2 = 0,15 điểm. Đây là mắt xích giữa của chuỗi lập luận.
+
+**Số hạng tương tác (interaction term).** Một biến được tạo bằng cách nhân hai biến với nhau, dùng để kiểm tra xem tác động của biến này có phụ thuộc vào mức của biến kia không. Ở đây là năng lực thích ứng nhân với số thiên tai. Hệ số âm (−0,004) nghĩa là nước thích ứng tốt hơn thì mỗi thiên tai thêm gây ít thiệt hại hơn. Đây chính là cách bài chứng minh "thích ứng làm dịu thiệt hại".
+
+**Tài trợ ưu đãi và ODA.** Tài trợ ưu đãi là tiền cấp với điều kiện tốt hơn thị trường: viện trợ không hoàn lại, hoặc khoản vay lãi thấp tới không lãi, kỳ hạn dài, có thời gian ân hạn. Viện trợ Phát triển Chính thức (ODA) là phần tài trợ ưu đãi do chính phủ các nước giàu cung cấp và được OECD thống kê. Ví dụ minh hoạ: một khoản vay 100 triệu USD lãi 1%/năm thay vì lãi thị trường 7%/năm tiết kiệm khoảng 6 triệu USD tiền lãi mỗi năm. Bài coi ODA là nguồn vốn có thể giải bộ ba bất khả thi, vì nó cho phép đầu tư thích ứng mà không làm nợ tăng vọt.
+
+**Nội sinh và liên hệ dạng rút gọn.** Một biến là nội sinh khi chính nó chịu ảnh hưởng của kết quả đang nghiên cứu, nên không thể đọc tương quan thành nhân quả. Ví dụ: nhà tài trợ cho nhiều ODA hơn tới nước đang gặp khó, nên ODA và tình trạng khó khăn đi cùng nhau mà không phải ODA gây ra khó khăn. "Liên hệ dạng rút gọn" là cách bài tự gọi kết quả của mình: các con số mô tả các biến đi cùng nhau thế nào, không chứng minh cái nào gây ra cái nào. Người đọc cần nhớ điều này khi đọc các phép tính "1 tỷ USD ODA làm giảm bao nhiêu xác suất vỡ nợ".
+
+## Nội dung chi tiết
 
 ### 1. Mở đầu
 
-- Thiên tai khí hậu tăng cả về tần suất lẫn mức độ nghiêm trọng. Volz và cộng sự vạch ra năm kênh truyền dẫn từ rủi ro vật lý và rủi ro chuyển đổi sang rủi ro chủ quyền, và vì nợ thường tăng sau thiên tai, bất kỳ tổ hợp nào của các kênh này cũng có thể đẩy nước dễ tổn thương tới vỡ nợ.
-- Thích ứng tốn kém và dồn chi phí vào giai đoạn đầu; tài trợ bằng nợ thị trường làm nợ tăng ngay, còn trì hoãn thì đẩy rủi ro về sau. Đó là bộ ba bất khả thi.
-- Các thảm hoạ gần đây cho thấy độ lớn: bão Ivan ở Grenada tương đương 200% GDP và dẫn tới tái cơ cấu nợ, bão Maria ở Dominica tương đương 226% GDP năm trước đó, và tổn thất khí hậu ở châu Âu cùng Mỹ lên tới hàng trăm tỷ và hàng nghìn tỷ.
-- Bài tiến hành ba bước: xem lại quan hệ cú sốc khí hậu với vỡ nợ bằng phương pháp dành cho sự kiện hiếm, đánh giá vai trò làm dịu của năng lực thích ứng, và kiểm tra xem viện trợ ưu đãi có giúp xây năng lực đó không.
-- Ba đóng góp là thay thước đo dễ tổn thương cơ cấu bằng thiệt hại đã hiện thực hoá, xử lý thiên lệch sự kiện hiếm, và định giá đòn bẩy chính sách bằng độ lớn đô la và tỷ lệ ODA trên GDP.
+Thiên tai khí hậu đang tăng cả về tần suất lẫn mức độ nghiêm trọng. Volz và cộng sự (2020) phân biệt hai loại rủi ro khí hậu: rủi ro vật lý (thiệt hại trực tiếp từ bão, lũ, hạn) và rủi ro chuyển đổi (chi phí khi nền kinh tế chuyển sang mô hình ít phát thải). Họ vạch ra năm kênh truyền dẫn từ hai loại rủi ro đó sang rủi ro chủ quyền:
+
+1. tác động vĩ mô lên tăng trưởng và sản lượng;
+2. tác động tài khoá của thiên tai, cộng với áp lực tài khoá từ chính các chính sách thích ứng và giảm thiểu phát thải;
+3. rủi ro khí hậu đối với ổn định khu vực tài chính;
+4. suy kiệt vốn tự nhiên (đất, nước, rừng, biển bị mất giá trị);
+5. tác động lên thương mại và ổn định chính trị.
+
+Điểm mấu chốt là nợ thường tăng sau thiên tai, vì chính phủ phải vay để tài trợ phục hồi và tái thiết (Mejia 2014). Do đó bất kỳ tổ hợp nào của năm kênh trên cũng có thể khuếch đại rủi ro chủ quyền và đẩy một nước dễ tổn thương tới vỡ nợ.
+
+**Bộ ba bất khả thi.** Các nước dễ tổn thương khí hậu muốn đạt cùng lúc ba mục tiêu nhưng không thể có đủ cả ba:
+
+1. mở rộng đầu tư thích ứng;
+2. giữ nợ bền vững trong lúc chi phí vay đang cao;
+3. tránh rủi ro vỡ nợ cao hơn do trì hoãn thích ứng.
+
+Cơ chế gây xung đột là thích ứng tốn kém và chi phí dồn vào giai đoạn đầu (xây đê, hồ chứa, đường sá phải chi trước, lợi ích đến dần trong nhiều năm). Nếu tài trợ bằng nợ vay theo lãi suất thị trường, tỷ lệ nợ trên GDP tăng ngay. Nếu trì hoãn, tỷ lệ nợ hôm nay được giữ nguyên nhưng đất nước dễ tổn thương hơn trước thiên tai ngày mai, tức rủi ro chỉ bị đẩy về tương lai. Bài tóm lại: các nước không thể tăng sức chống chịu trước cú sốc khí hậu mà không tác động tới tính bền vững nợ.
+
+**Độ lớn của vấn đề qua năm thảm hoạ.** Bài dùng các trường hợp sau để cho thấy cú sốc khí hậu có thể bào mòn bảng cân đối của chính phủ ở cả nền kinh tế phát triển lẫn đang phát triển:
+
+| Sự kiện | Thiệt hại | Hệ quả |
+|---|---|---|
+| Bão Ivan, Grenada (2004) | khoảng 1,1 tỷ USD, tương đương 200% GDP | nợ công vọt từ 80% GDP (2003) lên 95% GDP (2004); Grenada phải tái cơ cấu nợ suốt 2004–2006. Bão Beryl năm 2024 tiếp tục gây thiệt hại khoảng một phần ba GDP Grenada |
+| Bão Maria, Dominica (2017) | 931 triệu USD thiệt hại cộng 380 triệu USD tổn thất, bằng 226% GDP năm 2016 | nợ vọt lên; thâm hụt tài khoản vãng lai dự báo 21% GDP cho năm 2018 |
+| Bão Idai và Kenneth (2019) | hơn 873 triệu USD thiệt hại nhà cửa, thiết bị, hạ tầng, mùa màng ở Mozambique, Malawi, Zimbabwe | Ngân hàng Thế giới lập gói phục hồi 191,7 triệu USD |
+| Châu Âu (1980–2024) | khoảng 822 tỷ EUR tổn thất kinh tế | hơn một phần tư số đó phát sinh chỉ trong 2021–2024 |
+| Mỹ (từ 1980) | hơn 400 sự kiện khí hậu, tổng thiệt hại vượt 2,9 nghìn tỷ USD | cho thấy nước giàu cũng chịu tổn thất lớn |
+
+Về nhu cầu vốn, Uỷ ban Toàn cầu về Kinh tế và Khí hậu (2016) ước tính thế giới cần khoảng 90 nghìn tỷ USD đầu tư hạ tầng bền vững, chống chịu khí hậu tới năm 2030.
+
+**Ba bước của bài.** Bài đi theo ba bước nối tiếp nhau:
+
+1. xem lại quan hệ giữa cú sốc khí hậu và vỡ nợ, bằng phương pháp thống kê dành riêng cho sự kiện hiếm;
+2. đánh giá xem năng lực thích ứng có làm dịu thiệt hại kinh tế của thiên tai không;
+3. kiểm tra xem ODA có giúp xây năng lực thích ứng không, rồi ánh xạ toàn bộ chuỗi thành thay đổi xác suất vỡ nợ.
+
+Ngay từ đầu bài tự cảnh báo: ODA có khả năng nội sinh cao dù đã kiểm soát các yếu tố khác, nên kết quả phải đọc là liên hệ, không phải quan hệ nhân quả.
+
+**Ba đóng góp bài tự nêu.**
+
+1. Thay thước đo dễ tổn thương mang tính cơ cấu (chỉ số dễ tổn thương ND-GAIN, vốn mô tả mức độ phơi nhiễm lâu dài của một nước) bằng thiệt hại kinh tế tính theo từng sự kiện thiên tai. Nhờ vậy liên kết khí hậu–vỡ nợ được gắn với cú sốc đã thực sự xảy ra chứ không chỉ với khả năng xảy ra.
+2. Xử lý thiên lệch sự kiện hiếm trong ước lượng vỡ nợ.
+3. "Định giá đòn bẩy chính sách": quy các hệ số ước lượng thành độ lớn bằng đô la và tỷ lệ ODA trên GDP cần thiết để bù lại mức tăng xác suất vỡ nợ do thiên tai.
 
 ### 2. Tổng quan tài liệu
 
-- Nhánh thứ nhất cho thấy rủi ro khí hậu đã được định giá vào phần bù rủi ro chủ quyền qua chênh lệch trái phiếu và xếp hạng, với các ước lượng từ 15,55 điểm cơ bản cho nước đang phát triển tới hơn 62 tỷ đô la chi phí nợ tăng thêm cho nhóm V20 trong một thập kỷ.
-- Nhánh thứ hai nghiên cứu bền vững nợ trong bối cảnh cú sốc khí hậu và vai trò định hình của thích ứng, với các mô hình đưa vốn thích ứng vào khung vỡ nợ chủ quyền và cho thấy vòng phản hồi giữa rủi ro vỡ nợ, không gian tài khoá và đầu tư thích ứng.
-- Nhánh thứ ba nhấn mạnh vai trò của tài trợ ưu đãi, với cảnh báo của UNEP về bẫy đầu tư thích ứng khi công cụ nợ phi ưu đãi vẫn chiếm ưu thế, và các ước tính nhu cầu tài trợ ưu đãi cho năm 2030.
+Bài đặt mình vào ba nhánh nghiên cứu.
+
+**Nhánh thứ nhất: rủi ro khí hậu đã được định giá vào phần bù rủi ro chủ quyền.** Phần bù rủi ro là mức lãi suất cao hơn mà nhà đầu tư đòi khi cho một chính phủ rủi ro vay, đo qua chênh lệch lợi suất trái phiếu hoặc qua xếp hạng tín nhiệm. Các nghiên cứu của Beirne, của Cevik và Jalles, và của Kling cùng cộng sự (đều dùng chỉ số ND-GAIN) cho thấy rủi ro khí hậu là động lực bậc nhất của điều kiện tín dụng chủ quyền. Các con số cụ thể:
+
+- Cevik–Jalles (2022b): nước đang phát triển dễ tổn thương khí hậu chịu thêm khoảng 15,55 điểm cơ bản chênh lệch lợi suất (một điểm cơ bản bằng 0,01 điểm phần trăm).
+- Kling và cộng sự (2018): nhóm V20, gồm 20 nước dễ tổn thương nhất, chịu chi phí nợ chủ quyền cao hơn khoảng 1,174%, cộng lại thành hơn 62 tỷ USD tiền lãi tăng thêm trong một thập kỷ.
+- Klusak và cộng sự (2023): xếp hạng tín nhiệm chủ quyền sẽ bị hạ vì khí hậu một cách có hệ thống, sớm nhất từ năm 2030.
+- Boehm (2022): một dị thường nhiệt độ 1°C (nhiệt độ cao hơn bình thường 1 độ) làm lợi suất trái phiếu trong chỉ số EMBI của thị trường mới nổi giảm khoảng 0,46 điểm phần trăm.
+
+Bài xây tiếp trên nhánh này bằng cách đổi kết cục được nghiên cứu: thay vì chênh lệch lợi suất hay xếp hạng, bài nhìn thẳng vào chính sự kiện vỡ nợ.
+
+**Nhánh thứ hai: bền vững nợ và vai trò của thích ứng.**
+
+- Cheng–Chang (2025): cú sốc thiên tai nâng rủi ro chủ quyền qua hai đường, trả nợ nước ngoài khó hơn hoặc chi tiêu chính phủ cao hơn.
+- Seghini (2024b): chi phí khí hậu có thể đẩy các nước vốn đã nợ cao sang vùng nợ không bền vững.
+- Calcaterra và cộng sự (2025b): trong kịch bản khí hậu tác động cao, chi phí trả nợ kỳ vọng tăng tới 3% GDP, và quỹ đạo nợ dài hạn của các nước bị tác động nặng trở nên không bền vững. Thích ứng được thiết kế phù hợp có thể hạ áp lực nợ và phần bù rủi ro; nhưng nếu tài trợ theo điều kiện phi ưu đãi (lãi thị trường), nó lại siết cán cân sơ cấp (thu trừ chi chưa tính lãi) và làm tăng mức điều chỉnh tài khoá cần thiết để ổn định nợ.
+- Mallucci (2022): đưa "vốn thích ứng" vào mô hình vỡ nợ chủ quyền cho bảy nước Caribe, và kết luận các nước phơi nhiễm khí hậu có thể cần đổi mới hợp đồng nợ, như điều khoản thiên tai (cho hoãn trả nợ khi thiên tai lớn xảy ra) và tài trợ ưu đãi, để tiếp tục vay được trên thị trường.
+- Duffy (2025): xây mô hình trong đó vốn thích ứng công tích luỹ dần theo thời gian và làm giảm thiệt hại. Mô hình chỉ ra một vòng phản hồi nguy hiểm: rủi ro vỡ nợ siết không gian tài khoá, không gian tài khoá hẹp hạn chế đầu tư thích ứng, và thiếu thích ứng làm tăng chi phí của biến đổi khí hậu, từ đó lại làm rủi ro vỡ nợ tăng. Giải pháp được đề xuất là các công cụ kiểu giảm nợ, khoản vay chi phí thấp, và trái phiếu gắn với thích ứng.
+
+Thông điệp chung của nhánh này: thích ứng không chỉ là chính sách chống chịu, mà là công cụ làm giảm những thiệt hại tương lai vốn đang bóp nghẹt bảng cân đối của chính phủ.
+
+**Nhánh thứ ba: tài trợ ưu đãi.**
+
+- Inger Anderson (Giám đốc UNEP) cho rằng mở rộng tài chính khí hậu phải bắt đầu bằng đầu tư thích ứng và ưu tiên viện trợ không hoàn lại, vốn ưu đãi và các công cụ không tạo nợ, để không chất thêm gánh nợ lên các nước dễ tổn thương.
+- Báo cáo Khoảng cách Thích ứng của UNEP (2025) ghi nhận: dù khoảng 70% tài trợ thích ứng công quốc tế giai đoạn 2022–2023 là ưu đãi, công cụ nợ phi ưu đãi vẫn chiếm ưu thế trong dòng vốn. Điều này gây lo ngại về khả năng chi trả và công bằng, và tạo nguy cơ "bẫy đầu tư thích ứng": đi vay đắt để thích ứng lại làm nước đó dễ tổn thương hơn về tài chính.
+- Bhattacharya và cộng sự (2023): tài trợ ưu đãi tuy khan hiếm nhưng là nguồn lực thiết yếu nhất để xây xã hội chống chịu khí hậu, và cần tăng gấp năm lần tới năm 2030.
+- Ghi chú của chuyên gia IMF về khí hậu (2023): nhu cầu tài trợ thích ứng ưu đãi năm 2030 khoảng 30 tỷ USD cho các nước thu nhập thấp và 10 tỷ USD cho các Quốc gia Phát triển Nhỏ trên đảo; tổng nhu cầu viện trợ không hoàn lại cho cả giảm thiểu và thích ứng khoảng 42 tỷ USD mỗi năm.
+- IMF lập Quỹ Chống chịu và Bền vững (RSF) năm 2022 để cấp tài trợ ưu đãi dài hạn, đồng thời đóng vai trò xúc tác kéo tài chính khí hậu tư nhân vào.
 
 ### 3. Dữ liệu và phương pháp
 
-- Vỡ nợ lấy từ cơ sở dữ liệu Asonuma và Trebesch, quy về tần suất năm, tổng cộng 196 sự kiện; bổ sung bằng cơ sở dữ liệu BoC/BoE với tiêu chí dư nợ quá hạn tăng hơn 100%, cho phép tách theo loại chủ nợ.
-- Thiên tai lấy từ EM-DAT, giới hạn ở các loại khí tượng và thuỷ văn, với biến chính là tổng thiệt hại kinh tế chia cho GDP danh nghĩa. Bài chọn thiệt hại tổng thay vì thiệt hại được bảo hiểm để không mất 97 nước khỏi mẫu, đồng thời thừa nhận tổn thất bị báo cáo thiếu có hệ thống.
-- Năng lực thích ứng được xây từ các chỉ báo thành phần của ND-GAIN thuộc năm lĩnh vực, lấy bình quân. Tài trợ ưu đãi được đại diện bằng giải ngân ODA của OECD-DAC, dưới dạng tích luỹ và tích luỹ trên GDP, với bốn cảnh báo về tính đại diện.
+Bài ghép bốn khối dữ liệu.
+
+**Khối 1: vỡ nợ.** Nguồn chính là cơ sở dữ liệu của Asonuma và Trebesch (2016). Vỡ nợ được định nghĩa là không đáp ứng nghĩa vụ trả nợ và không tôn trọng thoả thuận nợ ban đầu; định nghĩa này gồm cả việc bỏ lỡ trả coupon và các đợt tái cơ cấu kiểu sự kiện mà không có vỡ nợ pháp lý hay vỡ nợ đơn phương. Dữ liệu gốc theo tháng được quy về năm; một nước được đánh dấu "đang vỡ nợ" trong suốt thời gian đợt vỡ nợ kéo dài. Tổng cộng có 196 sự kiện vỡ nợ. Hạn chế: bộ dữ liệu chỉ phủ các đợt tái cơ cấu với chủ nợ tư nhân nước ngoài (ngân hàng quốc tế, người giữ trái phiếu), nên không bắt được các khoản giảm nợ theo Sáng kiến HIPC dành cho nước nghèo mắc nợ trầm trọng.
+
+Thước đo bổ sung lấy từ cơ sở dữ liệu của Ngân hàng Canada và Ngân hàng Anh (BoC/BoE), vốn ước tính giá trị danh nghĩa nợ chính phủ đang vỡ nợ theo loại nợ và loại chủ nợ. Tiêu chí: một nước được coi là vỡ nợ khi dư nợ quá hạn tăng hơn 100% so với năm trước, với điều kiện năm trước dư nợ quá hạn đã dương. Bài thừa nhận không có ngưỡng chuẩn nào, và chọn 100% như một phương án thay thế tương đối nghiêm ngặt. Ưu điểm của bộ này là tách được theo chủ nợ:
+
+| Nhóm chủ nợ | Gồm |
+|---|---|
+| Chính thức | IMF, IBRD, IDA, Câu lạc bộ Paris, Trung Quốc, các chủ nợ chính thức khác |
+| Tư nhân | ngân hàng cho vay ngoại tệ, trái phiếu ngoại tệ, chủ nợ tư nhân khác |
+| Trong nước | nợ nội tệ, nợ quá hạn trong nước |
+
+**Khối 2: thiên tai, từ cơ sở dữ liệu EM-DAT.** Một sự kiện được ghi vào EM-DAT nếu thoả ít nhất một trong bốn tiêu chí: 10 người chết, 100 người bị ảnh hưởng, chính phủ tuyên bố tình trạng khẩn cấp, hoặc kêu gọi trợ giúp quốc tế. Bài chỉ chọn các loại khí tượng và thuỷ văn: hạn hán, nhiệt độ cực đoan, lũ, sạt lở, bão. Thiên tai kéo dài nhiều năm (như hạn hán) được xếp vào năm EM-DAT ghi nhận sự kiện và thiệt hại.
+
+Biến chính là "Tổng Thiệt hại Kinh tế": cộng gộp mọi sự kiện trong một nước–năm rồi chia cho GDP danh nghĩa. Cách làm này tự động chuẩn hoá cú sốc theo quy mô nền kinh tế, bắt được cường độ tác động, và gộp mọi loại thiên tai thành một thước đo mức độ nghiêm trọng duy nhất cho mỗi năm. Số thiên tai dao động từ 0 tới 34 mỗi nước–năm; 44% nước–năm không có thiên tai nào, và chỉ một phần nhỏ có hơn 19 sự kiện.
+
+Bài nêu ba hạn chế của dữ liệu này:
+
+- Chính EM-DAT ghi nhận rằng tổn thất kinh tế bị báo cáo thiếu một cách có hệ thống, nên thiệt hại trên GDP phải được đọc như cận dưới của thiệt hại thật.
+- Vì sao không dùng thiệt hại được bảo hiểm: ở nhiều nơi tỷ lệ người dân và doanh nghiệp mua bảo hiểm rất thấp. Tổng Thiệt hại có cho 183 nước với 1.406 điểm dữ liệu nước–năm, còn Thiệt hại Được Bảo hiểm chỉ có cho 86 nước với 402 điểm (thiếu khoảng 71%). Dùng thiệt hại được bảo hiểm sẽ loại 97 nước khỏi phân tích.
+- Không phải mọi tác động khí hậu đều được bắt bởi ước tính thiệt hại tức thời. Hạn hán có tác động khuếch tán và dai dẳng, nên việc gộp theo nước–năm có thể che khuất khác biệt giữa các thiên tai về thời lượng, độ dai dẳng và kênh truyền dẫn.
+
+**Khối 3: năng lực thích ứng, từ năm thành phần của ND-GAIN.**
+
+| Lĩnh vực | Chỉ báo |
+|---|---|
+| Lương thực | năng lực nông nghiệp |
+| Nước | năng lực hồ đập và mức tiếp cận nước đáng tin cậy |
+| Hệ sinh thái | dấu chân sinh thái và mức tham gia các công ước môi trường quốc tế |
+| Môi trường sống | đường trải nhựa |
+| Hạ tầng | thay đổi dự kiến của công suất thuỷ điện |
+
+Chỉ số năng lực thích ứng là bình quân các chỉ báo này; giá trị cao hơn nghĩa là thích ứng tốt hơn.
+
+**Khối 4: tài trợ ưu đãi, đại diện bằng ODA từ Hệ thống Báo cáo Chủ nợ của OECD-DAC.** Tài trợ ưu đãi được định nghĩa là tài trợ dưới lãi suất thị trường: viện trợ không hoàn lại, hoặc khoản vay lãi thấp tới không lãi với kỳ hạn dài hay thời gian ân hạn. Từ năm 2018, OECD-DAC báo cáo ODA trên cơ sở tương đương viện trợ không hoàn lại (chỉ tính phần "quà tặng" nằm trong một khoản vay ưu đãi), nhờ đó so sánh được viện trợ với khoản vay. Khoảng 85% ODA và 64% tài trợ ưu đãi song phương là viện trợ không hoàn lại, điều này củng cố việc dùng ODA làm đại diện cho tài trợ ưu đãi. Bài dùng số giải ngân chứ không dùng số cam kết, vì cam kết phản ánh kém dòng tiền thực mà các nước nhận được mỗi năm. Có hai biến: (i) dòng ODA tích luỹ tới năm t; (ii) tồn ODA tích luỹ tính theo phần trăm GDP.
+
+Bài nêu bốn cảnh báo về ODA:
+
+1. Không phải mọi ODA đều liên quan đến thích ứng; chỉ một phần gắn trực tiếp với chống chịu khí hậu.
+2. Không dùng ODA gắn nhãn khí hậu làm thước đo chính, vì chỉ báo "thích ứng" trong thống kê ODA chỉ có từ sau 2009; dùng nó sẽ cắt cụt bảng dữ liệu 1995–2020. ODA thích ứng chỉ mở rộng từ 2010, sau hội nghị COP 15 ở Copenhagen.
+3. Không dùng dữ liệu của Quỹ Khí hậu Xanh (GCF), Quỹ Môi trường Toàn cầu (GEF) và Quỹ Thích ứng, vì chuỗi số liệu ngắn, theo từng dự án, và không báo cáo theo chuẩn tương đương viện trợ.
+4. Viện trợ không hoàn lại không làm tăng dư nợ; khoản vay ưu đãi có làm tăng nợ nhưng theo điều kiện dưới thị trường nên chi phí trả nợ thấp hơn vay thương mại. Bài không giả định rằng tự động có xoá nợ hay giảm nợ.
+
+**Biến kiểm soát** (theo Cevik–Jalles 2022a và Manasse–Roubini 2005): tăng trưởng GDP thực, log GDP bình quân đầu người, lạm phát, nợ trên GDP, mức phát triển tài chính (tín dụng trong nước cho khu vực tư trên GDP), điều kiện thương mại, tỷ giá thực hiệu dụng REER (nơi có số liệu), và tần suất thiên tai. Bảng dữ liệu cuối cùng phủ 178 nước, giai đoạn 1995–2020.
 
 ### 4. Sự thật thống kê
 
-- Nước có chỉ số dễ tổn thương cao hơn có xác suất vỡ nợ dự báo cao hơn hẳn, nhưng đây chỉ là tương quan mô tả và chỉ số ND-GAIN có thể đã chứa sẵn biến kinh tế.
-- Vỡ nợ là sự kiện hiếm, chiếm khoảng 4% quan sát, và tập trung ở một nhóm nhỏ nước tái phạm nhiều lần. Theo loại chủ nợ, chủ nợ chính thức tham gia nhiều nhất.
-- Thiệt hại thiên tai phân bố rất lệch, tập trung ở Trung Mỹ và Caribe, Nam và Đông Á, và một phần châu Phi hạ Sahara.
-- ODA khiêm tốn với phần lớn các nước và tập trung nhiều hơn ở nước thu nhập thấp, với phân phối lệch phải rõ rệt.
+**Sự thật 1: dễ tổn thương cao đi kèm xác suất vỡ nợ cao.** Bài ước lượng một logit hiệu ứng cố định có điều kiện (so sánh từng nước với chính nó theo thời gian) của vỡ nợ theo chỉ số dễ tổn thương ND-GAIN. Khi chỉ số dễ tổn thương đi từ 5 lên 40 (trên thang 0–100), xác suất vỡ nợ dự báo đi từ khoảng 0,2 lên trên 0,8 (đọc trên hình: từ khoảng 0,1 lên khoảng 0,9). Vượt mức 45, xác suất vẫn cao; thực ra đường dự báo bị ghim ở 1,0 và dải tin cậy co lại, một dấu hiệu của tách biệt bán phần chứ không phải của độ chính xác cao.
+
+Bài tự giới hạn cách đọc: đây là tương quan mô tả, không phải nhân quả. Logit có điều kiện tuy loại được những khác biệt cố định giữa các nước, vẫn chịu thiên lệch mẫu nhỏ khi sự kiện hiếm. Thêm nữa, chỉ số ND-GAIN có thể đã chứa sẵn các biến kinh tế, gây lo ngại nội sinh (Kling và cộng sự 2021). Kết quả này khớp với dữ liệu của ICE Sustainable Finance: đi từ điểm rủi ro vật lý 0 lên 5 đi kèm xác suất vỡ nợ cao hơn 18,5%, tức khoảng 3,7% cho mỗi điểm.
+
+**Sự thật 2: vỡ nợ hiếm và khác nhau theo loại chủ nợ.** Vỡ nợ xảy ra ở khoảng 4% điểm dữ liệu nước–năm. Hai mươi nước có nhiều đợt vỡ nợ nhất (số đọc trên hình):
+
+| Số đợt | Nước |
+|---|---|
+| 17 | Bờ Biển Ngà |
+| 13 | CHDC Congo |
+| 12 | Iraq |
+| 10 | Tanzania, Serbia |
+| 9 | Cameroon |
+| 7 | Belize, Argentina, Yemen, Honduras |
+| 6 | Ecuador, Nga |
+| 5 | Ukraine, Mozambique, Guyana, Grenada |
+| 4 | Kenya, Chad, Moldova, Guinea |
+
+Một nhóm nhỏ nước tái phạm này chiếm khoảng một nửa toàn bộ các đợt vỡ nợ. Theo loại chủ nợ (dữ liệu BoC/BoE, 1995–2020), chủ nợ chính thức tham gia nhiều nhất, chủ yếu qua nhóm "chính thức khác" (khoảng 59,4%) và Câu lạc bộ Paris (khoảng 9%); IDA, Trung Quốc, IMF và IBRD ít gặp hơn. Phía tư nhân, "tư nhân khác" và ngân hàng cho vay ngoại tệ xuất hiện nhiều hơn. Về vỡ nợ trong nước, mô hình định lượng của D'Erasmo–Mendoza cho tần suất vỡ nợ nội địa dài hạn 1,21%, khớp với mức 1,1% rút từ bộ dữ liệu Reinhart–Rogoff (2008), tức 68 lần trong 250 năm.
+
+**Sự thật 3: thiệt hại tập trung và phân bố rất lệch.** Phần lớn các nước mất dưới 1% GDP vì thiên tai trong một năm điển hình, nhưng một nhóm nhỏ lặp đi lặp lại chịu tổn thất vĩ mô lớn. Thiệt hại tập trung ở Trung Mỹ và Caribe, Nam Á và Đông Á, và một phần châu Phi hạ Sahara. Điều này khớp với các dự báo tương lai: Kahn và cộng sự (2019) và Volz và cộng sự (2020) dự báo GDP bình quân đầu người toàn cầu năm 2100 thấp hơn từ 1,07% tới 7,2% so với kịch bản không có biến đổi khí hậu, với khác biệt vùng rõ rệt và tổn thất dự báo đặc biệt lớn ở một phần Đông Nam Á.
+
+**Sự thật 4: ODA khiêm tốn và tập trung ở nước thu nhập thấp.**
+
+| 1995–2020 | Toàn mẫu | Nước mới nổi (EME) | Nước thu nhập thấp (LIDC) |
+|---|---|---|---|
+| ODA/GDP trung vị (%) | 1,72 | 0,59 | 4,85 |
+| ODA/GDP bình quân (%) | 4,45 | 2,27 | 7,16 |
+| ODA/GDP tối đa (%) | 90,99 | 77,13 | 90,99 |
+| Giải ngân trung vị (triệu USD/năm) | 231 | 158 | 386 |
+| Giải ngân bình quân (triệu USD/năm) | 655 | 543 | 770 |
+| Giải ngân tối đa (triệu USD/năm) | 21.700 | 21.700 | 12.400 |
+
+Ở mọi nhóm, số bình quân lớn hơn số trung vị, nghĩa là phân phối lệch phải: phần lớn nước nhận ít, một số ít nhận rất nhiều. Mức tối đa 90,99% GDP cho thấy có nước gần như sống bằng viện trợ. Với nước thu nhập thấp, ODA trung vị bằng 4,85% GDP, gấp tám lần mức 0,59% của nước mới nổi.
 
 ### 5. Chiến lược thực nghiệm và kết quả
 
-- Bước một dùng logit giảm thiên lệch của Firth với thiệt hại trễ một năm, vì thiên tai đè nén GDP ngay còn căng thẳng tài khoá xuất hiện ở chu kỳ ngân sách sau. Kết quả cho thấy tăng một điểm phần trăm thiệt hại làm tỷ lệ cược vỡ nợ tăng khoảng hai tới ba phần trăm, có ý nghĩa với toàn mẫu và nước mới nổi nhưng không có ý nghĩa với nước thu nhập thấp.
-- Kết quả vững khi bỏ quan sát trước năm 2000, khi tách theo loại chủ nợ, và khi kiểm soát chương trình IMF. Khi thay bằng chỉ số cường độ hiểm hoạ ngoại sinh thì chỉ cường độ bão còn sức dự báo, nên bài giữ thiệt hại trên GDP làm thước đo cơ sở với lập luận rằng vị trí và thiệt hại quan trọng hơn tần suất và cường độ.
-- Bước hai cho thấy hệ số tương tác giữa năng lực thích ứng và tần suất thiên tai âm và có ý nghĩa với toàn mẫu và nước mới nổi, nghĩa là thích ứng cao hơn làm phẳng độ dốc của quan hệ thiên tai với thiệt hại. Với nước thu nhập thấp thì không có ý nghĩa, có thể do mẫu nhỏ và báo cáo thiếu.
-- Bước ba cho thấy ODA tích luỹ đi kèm năng lực thích ứng cao hơn ở cả ba nhóm, trong khi ODA trên GDP chỉ có tác dụng rõ ở nước thu nhập thấp.
-- Ghép ba mắt xích bằng quy tắc dây chuyền, bài ánh xạ ODA sang thay đổi xác suất vỡ nợ và nhấn mạnh đây là tính toán thô, cần đọc như độ lớn có ý nghĩa kinh tế chứ không phải tác động nhân quả.
+**Bước một: cú sốc khí hậu và vỡ nợ.** Mô hình là:
+
+Pr(default(i,t) = 1) = Λ(α + β·damage(i,t−1) + γ'X(i,t−1) + μ(i) + λ(t))
+
+Trong đó xác suất nước i vỡ nợ năm t phụ thuộc thiệt hại thiên tai năm trước (damage), các biến kiểm soát năm trước (X), một hằng số riêng cho từng nước hoặc nhóm nước (μ) và một hằng số riêng cho từng năm (λ); Λ là hàm logistic biến tổng thành xác suất từ 0 đến 1.
+
+Bài dùng thiệt hại trễ một năm vì thiên tai đè nén GDP ngay lập tức (Felbermayr–Gröschl 2014), còn căng thẳng vỡ nợ và sức ép tài khoá thường xuất hiện ở chu kỳ ngân sách tiếp theo. Cấu trúc trễ cũng giúp thấy diễn tiến theo thời gian của tác động thiên tai, trong bối cảnh thiệt hại có thể tương quan với những biến kinh tế bị bỏ sót.
+
+Vì sao dùng logit của Firth: vỡ nợ chỉ chiếm khoảng 4% mẫu, nên logit chuẩn chịu thiên lệch mẫu nhỏ; sự hiếm còn có thể đi kèm tách biệt bán phần. Firth thêm một khoản phạt theo tiên nghiệm Jeffreys vào hàm log-likelihood được tối đa hoá: L*(β) = L(β) + ½·log|I(β)|, trong đó I(β) là ma trận thông tin. Khoản phạt này vừa sửa thiên lệch mẫu nhỏ, vừa giữ ước lượng ổn định khi có nguy cơ tách biệt. Theo bài, cách này hữu ích không chỉ vì sự kiện hiếm mà còn vì có thể có rất ít trường hợp ở kết cục hiếm hơn trong hai kết cục.
+
+Kết quả ước lượng (dấu sao chỉ mức ý nghĩa: \*\*\* 1%, \*\* 5%, \* 10%; "ns" là không có ý nghĩa):
+
+| Biến | (1) logit, toàn mẫu | (2) Firth, toàn mẫu | (3) Firth, nước mới nổi | (4) Firth, thu nhập thấp |
+|---|---|---|---|---|
+| Thiệt hại/GDP | 0,025\*\* | 0,026\*\* | 0,021\* | 0,097 ns (sai số chuẩn 0,120) |
+| Tăng trưởng GDP | −0,119\* | −0,101\*\*\* | −0,125\*\*\* | −0,053 ns |
+| Log GDP/người | 2,830 ns | 0,583\*\*\* | 0,014 ns | 1,413\*\*\* |
+| Lạm phát | 0,079\* | 0,000 ns | 0,046\*\*\* | −0,087\*\*\* |
+| Nợ/GDP | 0,051\*\*\* | 0,006\*\*\* | 0,021\*\*\* | 0,002 ns |
+| Phát triển tài chính | 0,052 ns | −0,005 ns | 0,001 ns | −0,068\*\* |
+| Log điều kiện thương mại | −3,646\* | −1,848\*\*\* | −0,665 ns | −1,952\*\*\* |
+| Số quan sát | 466 | 3.031 | 1.469 | 939 |
+| Hiệu ứng cố định | theo nước | theo nhóm thu nhập | không | không |
+
+Cột 1, logit chuẩn với hiệu ứng cố định theo nước, chỉ giữ được 466 trong 4.628 quan sát, mất hơn 90% mẫu, vì những nước chưa từng vỡ nợ bị loại tự động. Đây chính là vấn đề mà phương pháp Firth được đưa vào để giải quyết.
+
+Kết quả chính: tăng 1 điểm phần trăm thiệt hại trên GDP làm tỷ lệ cược vỡ nợ tăng khoảng 2–3% (hệ số 0,025 và 0,026), và con số này vững giữa logit chuẩn và Firth. Kết quả có ý nghĩa với toàn mẫu và với nước mới nổi. Với nhóm thu nhập thấp, hệ số dương nhưng không có ý nghĩa (0,097 với sai số chuẩn 0,120). Một số hệ số ở nhóm này cũng ngược kỳ vọng: lạm phát cao hơn và tài chính phát triển hơn lại đi kèm tỷ lệ cược vỡ nợ thấp hơn. Bài loại trừ lời giải thích "nhiễu do giảm nợ HIPC": bộ dữ liệu vỡ nợ chỉ phủ tái cơ cấu với chủ nợ tư nhân, nên kết quả không do HIPC gây ra; nhiều khả năng là do mẫu nhỏ hoặc do các yếu tố khác ngoài cú sốc khí hậu.
+
+Để đối chiếu độ lớn, bài dẫn các mốc sau: tỷ lệ vỡ nợ toàn cầu dài hạn khoảng 7% ở nước phát triển và khoảng 17% ở nước đang phát triển (Qian–Roch 2024); theo Fitch (2025), tỷ lệ vỡ nợ của nợ hạng đầu cơ giảm còn 1,9% năm 2024 từ 5,5%, và tỷ lệ vỡ nợ chủ quyền chung giảm còn 0,9% từ 2,6% năm 2023; dữ liệu ICE cho khoảng 3,7% mỗi điểm rủi ro vật lý. Từ đó bài kết luận ước lượng xác suất vỡ nợ từ cú sốc khí hậu của mình là một thước đo hợp lý cho công việc chính sách.
+
+**Bốn phép thử độ vững.**
+
+1. Bỏ các quan sát trước năm 2000, để xử lý thiên lệch thời gian trong dữ liệu EM-DAT cũ (giai đoạn đầu ghi chép kém đầy đủ hơn): kết quả về cơ bản không đổi.
+2. Tách vỡ nợ theo loại chủ nợ. Hệ số thiệt hại (đọc trên hình) ước chừng:
+
+| Loại vỡ nợ | Hệ số ước chừng |
+|---|---|
+| Với IMF | khoảng +0,06 |
+| Với IDA | khoảng +0,065 |
+| Với IBRD | khoảng +0,027 |
+| Với Câu lạc bộ Paris | khoảng +0,021 |
+| Với Trung Quốc | khoảng +0,032 |
+| Với chủ nợ chính thức khác | khoảng 0,003 |
+| Ngân hàng cho vay ngoại tệ | khoảng +0,03 |
+| Trái phiếu ngoại tệ | khoảng +0,026 |
+| Tư nhân khác | khoảng +0,014 |
+| Nợ nội tệ | khoảng +0,022 |
+| Nợ quá hạn trong nước | khoảng −0,10, dải tin cậy rất rộng |
+
+3. Kiểm soát việc nước đó có đang trong chương trình IMF trùng với đợt tái cơ cấu hay không. Hệ số thiệt hại lần lượt là 0,029\*\* (toàn mẫu), 0,023\* (nước mới nổi), 0,091 ns (thu nhập thấp). Biến giả chương trình IMF có hệ số rất lớn: 1,201\*\*\*, 1,041\*\*\* và 1,198\*\*\*. Bài nói rõ đây là kiểm soát mang tính chẩn đoán, không phải kiểm soát nhân quả.
+4. Thay thiệt hại bằng một chỉ số cú sốc khí hậu ngoại sinh theo kiểu Felbermayr–Gröschl, xây từ dữ liệu vật lý của từng hiểm hoạ chứ không từ báo cáo thiệt hại. Mỗi cấu phần là độ lệch của biến khí hậu năm đó so với bình quân dài hạn, và các cấu phần được tổng hợp bằng trọng số nghịch đảo phương sai để không hiểm hoạ nào lấn át. Nguồn cụ thể:
+   - hạn hán: chỉ số SPEI-12 trên lưới 0,5°, đảo dấu để giá trị cao là hạn nặng;
+   - nhiệt: dữ liệu ERA5-Land, dị thường nhiệt độ ở độ cao 2m so với chuẩn 1981–2010;
+   - lũ: tích của tỷ lệ đất ngập dài hạn trên bản đồ JRC RP50 (nguy cơ lũ chu kỳ 50 năm) với dị thường lượng mưa so với chuẩn 2000–2020;
+   - sạt lở: dữ liệu NASA;
+   - bão: Năng lượng Xoáy Tích luỹ (ACE) từ IBTrACS v4.
+   Sạt lở và bão được chuẩn hoá theo diện tích đất (tính trên 100 km²).
+
+   Kết quả: chỉ cường độ bão nâng tỷ lệ cược vỡ nợ (+0,306\*). Hạn hán (−0,296\*\*) và sạt lở (−0,641\*\*) có hệ số âm và có ý nghĩa, tức hiểm hoạ nặng hơn đi kèm tỷ lệ cược vỡ nợ thấp hơn; nhiệt và lũ không có ý nghĩa. Bài giải thích rằng vị trí xảy ra và thiệt hại thực tế quan trọng hơn cho kết cục kinh tế so với tần suất và cường độ vật lý, nên giữ thiệt hại trên GDP làm thước đo cơ sở.
+
+**Bước hai: năng lực thích ứng có làm dịu thiệt hại không.** Mô hình, với hiệu ứng cố định theo nước và theo năm:
+
+damage = α(i) + λ(t) + β·dis + θ·adapt + ϕ·(adapt × dis) + γ'X + ε
+
+Trong đó dis là số thiên tai, adapt là năng lực thích ứng, và adapt × dis là số hạng tương tác. Kỳ vọng ϕ < 0: thích ứng cao hơn làm giảm thiệt hại biên của mỗi thiên tai thêm. Tác động biên của một thiên tai thêm, tại một mức thích ứng cho trước, là β + ϕ·adapt.
+
+| Biến | Toàn mẫu | Nước mới nổi | Thu nhập thấp |
+|---|---|---|---|
+| Năng lực thích ứng | 0,008 ns | 0,033 ns | −0,004 ns |
+| Tần suất thiên tai | 0,346\*\*\* | 0,513\*\*\* | 0,275 ns |
+| Tương tác thích ứng × thiên tai | −0,004\*\*\* | −0,007\*\*\* | −0,005 ns |
+
+Cách đọc: ở mức thích ứng rất thấp, một thiên tai thêm làm thiệt hại tăng khoảng 0,35 điểm phần trăm GDP ở toàn mẫu và khoảng 0,51 điểm ở nước mới nổi. Nhưng tác động đó thu hẹp 0,04 điểm cho mỗi 10 điểm tăng của chỉ số thích ứng ở toàn mẫu, và thu hẹp mạnh hơn, 0,07 điểm, ở nước mới nổi. Nói cách khác, thích ứng cao hơn làm phẳng độ dốc của quan hệ giữa số thiên tai và thiệt hại. Ở nước thu nhập thấp, cả ba hệ số đều không có ý nghĩa; bài nêu hai lý do là mẫu nhỏ và khả năng thiệt hại thiên tai bị báo cáo thiếu ở nhóm này.
+
+Bài minh hoạ bằng đồ thị giá trị dự báo theo hai cách nhìn:
+
+- Giữ cố định mức thích ứng ở 10 (ít thích ứng) và 80 (thích ứng nhiều), cho số thiên tai thay đổi. Đường ứng với mức 10 dốc lên rõ rệt; đường ứng với mức 80 gần như nằm ngang, và ở nước thu nhập thấp thậm chí dốc xuống nhẹ. Khoảng cách giữa hai đường chính là hiệu ứng làm dịu.
+- Giữ cố định số thiên tai ở 5 và 15 (với nước thu nhập thấp là 5 và 10), cho mức thích ứng thay đổi. Thiệt hại giảm đều khi thích ứng tăng, và giảm dốc hơn khi tần suất thiên tai cao hơn: nơi càng hay gặp thiên tai thì thích ứng càng có lợi.
+
+Khoảng tin cậy cho thấy các mẫu hình này phân biệt được về thống kê trên phần lớn dải giá trị ở toàn mẫu và nước mới nổi; ở nước thu nhập thấp thì không phân biệt được, khớp với hệ số tương tác không có ý nghĩa.
+
+**Bước ba: ODA có xây được năng lực thích ứng không.** Hai mô hình, đều có hiệu ứng cố định theo nước và năm:
+
+- adapt = α(i) + λ(t) + β·tot_oda(i,t−1) + γ'X(i,t−1) + ε, với tot_oda là ODA tích luỹ (triệu USD);
+- adapt = α(i) + λ(t) + β·tot_oda_GDP(i,t−1) + γ'X + ε, với tot_oda_GDP là ODA tích luỹ trên GDP (%).
+
+Biến kiểm soát X gồm tần suất thiên tai, log GDP và log GDP bình quân đầu người, đều lấy trễ một năm.
+
+| Hệ số của ODA | Toàn mẫu | Nước mới nổi | Thu nhập thấp |
+|---|---|---|---|
+| ODA tích luỹ (mỗi triệu USD) | 0,00013\*\*\* | 0,00009\*\* | 0,00015\*\* |
+| ODA tích luỹ/GDP (mỗi điểm %) | 0,0066\* | 0,0049 ns | 0,0164\*\* |
+
+Diễn giải: thêm 1 tỷ USD ODA tích luỹ từ năm 1995 đi kèm năng lực thích ứng cao hơn 0,13 điểm (0,00013 × 1.000). Để hình dung, dòng ODA bình quân hằng năm là 632 triệu USD và ODA tích luỹ bình quân từ 1995 là 4,3 tỷ USD. (Phần thống kê mô tả ở mục 4 lại ghi bình quân giải ngân hằng năm là 655 triệu USD; bài có hai con số khác nhau cho cùng đại lượng.) Trong mô hình ODA tích luỹ, tần suất thiên tai chỉ có ý nghĩa ở nước thu nhập thấp (+0,2838\*), hàm ý các nước này nhận thêm viện trợ hoặc chủ động thích ứng hơn sau thiên tai. Log GDP bình quân đầu người có hệ số rất lớn ở nước thu nhập thấp (8,3325\*\*\*), còn ở nước mới nổi là 0,6900 và không có ý nghĩa. Khi đo ODA theo quy mô nền kinh tế (ODA/GDP), tác dụng chỉ rõ ở nước thu nhập thấp; ở nước mới nổi hệ số 0,0049 không có ý nghĩa.
+
+**Bước ghép: từ ODA tới xác suất vỡ nợ.** Bài nối ba mắt xích bằng quy tắc dây chuyền:
+
+Δp(dis) ≈ ψ · Δdam(κ; dis)
+
+| Ký hiệu | Ý nghĩa | Lấy từ |
+|---|---|---|
+| ψ | tác động biên bình quân của thiệt hại lên xác suất vỡ nợ | kết quả bước một |
+| κ | mức tăng năng lực thích ứng cho mỗi 1 tỷ USD ODA, hoặc mỗi 1 điểm phần trăm ODA/GDP | kết quả bước ba |
+| Δdam | mức giảm thiệt hại tương ứng, đánh giá tại một tần suất thiên tai cho trước | kết quả bước hai |
+
+Kết quả bài công bố:
+
+| Kịch bản | κ | Thay đổi xác suất vỡ nợ |
+|---|---|---|
+| 1 tỷ USD ODA, 10 thiên tai | 0,13 | −11 điểm phần trăm |
+| 1 tỷ USD ODA, 5 thiên tai | 0,13 | −5,5 điểm phần trăm |
+| +1 điểm % ODA/GDP, 10 thiên tai | 0,66 | −10 điểm phần trăm |
+| +1 điểm % ODA/GDP, 5 thiên tai | 0,66 | −4,4 điểm phần trăm |
+
+Đây là phần yếu nhất của bài, vì ba con số đầu vào không khớp với chính các hệ số đã ước lượng:
+
+- κ = 0,66 cho ODA/GDP lệch 100 lần: hệ số thật là 0,0066, nên 1 điểm phần trăm ODA/GDP chỉ đi kèm 0,0066 điểm năng lực thích ứng.
+- Mức giảm thiệt hại 4,3 điểm GDP mà bài dùng không ra được từ hệ số tương tác: với κ = 0,13 và hệ số −0,004, ở tần suất 10 thiên tai mức giảm chỉ là 0,004 × 0,13 × 10 = 0,0052 điểm GDP.
+- ψ = 2,6 được dùng như điểm phần trăm xác suất, trong khi hệ số 0,026 là hệ số log-odds, hàm ý tỷ lệ cược tăng khoảng 2,6%, không phải xác suất tăng 2,6 điểm. Kết quả "giảm 11 điểm phần trăm" là bất khả thi khi tỷ lệ vỡ nợ nền chỉ khoảng 4%.
+
+Bản thân bài nhấn mạnh rằng tất cả là tính toán thô, dùng tác động biên bình quân ước lượng từ mẫu, và phải đọc như độ lớn có ý nghĩa kinh tế chứ không phải tác động nhân quả.
 
 ### 6. Kết luận
 
-- Chuỗi ba quan hệ được ước lượng tuần tự vì có tính đệ quy: viện trợ xây năng lực thích ứng, năng lực thích ứng làm dịu thiệt hại, thiệt hại thấp hơn hạ xác suất vỡ nợ.
-- Hai kết luận chính sách: tài trợ ưu đãi có thể làm dịu khốn khó nợ do khí hậu, và viện trợ giúp các nước củng cố năng lực thích ứng, qua đó giảm tỷ lệ cược vỡ nợ.
-- Cảnh báo quan trọng là triển vọng ODA đang suy giảm, và khi ngân sách bị siết thì thích ứng dễ bị xếp sau vì lợi ích của nó chỉ đến dần.
-- Bốn giới hạn được tự nhận: kết quả là liên hệ dạng rút gọn, dữ liệu tổn thất bị báo cáo thiếu, ODA là đại diện không hoàn hảo và nội sinh, và cần thước đo cú sốc khí hậu tốt hơn cùng chiến lược nhận dạng mạnh hơn.
+Chuỗi lập luận gồm ba mắt xích: ODA xây năng lực thích ứng, năng lực thích ứng làm dịu thiệt hại thiên tai, và thiệt hại thấp hơn hạ xác suất vỡ nợ. Bài ước lượng ba quan hệ này lần lượt chứ không ước lượng như một hệ phương trình đồng thời, vì chuỗi có tính đệ quy (mỗi mắt xích chỉ phụ thuộc mắt xích trước, không có vòng ngược lại trong mô hình); trong hệ đệ quy, ước lượng tuần tự cho kết quả minh bạch. Nhiễu được giảm bằng các biến kiểm soát vĩ mô chuẩn và hiệu ứng cố định theo nước và năm xuyên suốt.
+
+Hai kết luận chính sách:
+
+1. Tài trợ ưu đãi có thể làm dịu khốn khó nợ do khí hậu gây ra.
+2. ODA giúp các nước củng cố năng lực thích ứng, và điều đó làm giảm tỷ lệ cược vỡ nợ chủ quyền.
+
+Câu kết của bài: bộ ba bất khả thi có thể giải được nếu tiếp cận được tài trợ ưu đãi, vì nó cho phép các nước đầu tư vào thích ứng mà không làm tỷ lệ nợ xấu đi quá mức, trong khi vẫn hạ được xác suất vỡ nợ do cú sốc khí hậu. Các phép ánh xạ của bài được giới thiệu như một thước đo ngân sách thực dụng, nối mục tiêu giảm xác suất vỡ nợ với nhu cầu ODA hằng năm theo từng nước và từng tần suất thiên tai, để dùng trong khung tài khoá của chính phủ và chương trình của nhà tài trợ. Trong bối cảnh tài trợ ưu đãi bị siết, các công cụ như RSF có vai trò xúc tác kéo tài chính khí hậu tư nhân vào (Diallo và cộng sự, IMF 2026).
+
+**Cảnh báo thời sự.** Triển vọng ODA đang suy giảm và bất định (OECD, tháng 6/2025). Khi dòng vốn ưu đãi co lại và ngân sách công bị siết, nhà hoạch định chính sách có thể hạ ưu tiên đầu tư thích ứng, đặc biệt vì lợi ích của nó tích luỹ dần theo thời gian chứ không đến ngay lập tức.
+
+**Bốn giới hạn bài tự nhận.**
+
+1. Kết quả phải đọc là liên hệ dạng rút gọn và độ lớn ước tính thô, không phải quan hệ nhân quả.
+2. Tổn thất kinh tế trong EM-DAT nhiều khả năng bị báo cáo thiếu.
+3. ODA là đại diện không hoàn hảo cho tài trợ thích ứng: nó có thể được dùng cho mục đích khác, và việc phân bổ của nhà tài trợ không ngẫu nhiên mà phản ứng theo nhu cầu của nước nhận, gây lo ngại nội sinh.
+4. Hướng nghiên cứu tiếp theo: xây thước đo cú sốc kết hợp cường độ, tần suất và mức phơi nhiễm của thiên tai; và tìm biến công cụ từ những thay đổi ngoại sinh trong điều kiện cho vay để nhận dạng nhân quả.
+
+Bài tự nhận là, theo hiểu biết của nhóm tác giả, nghiên cứu đầu tiên định giá bằng thực nghiệm đòn bẩy chính sách cần thiết để cắt đứt liên kết giữa cú sốc khí hậu và vỡ nợ.
 
 ## Thuật ngữ
 

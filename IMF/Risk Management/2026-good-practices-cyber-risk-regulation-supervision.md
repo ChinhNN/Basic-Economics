@@ -378,45 +378,270 @@
 2. Một cơ quan giám sát nên đặt quy định của mình ở đâu trên thang giữa nguyên tắc chung và quy định chi tiết, và phân bổ nguồn lực giám sát theo tiêu chí nào?
 3. Làm sao kiểm chứng được rằng một định chế thực sự có năng lực chống chịu chứ không chỉ có hồ sơ tuân thủ đầy đủ?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Rủi ro mạng và sự cố mạng (cyber risk, cyber incident).** Rủi ro mạng là khả năng một định chế bị thiệt hại vì hệ thống công nghệ thông tin của nó bị tấn công, bị lỗi, hoặc bị truy cập trái phép. Sự cố mạng là một lần rủi ro đó xảy ra thật: mã độc tống tiền khoá dữ liệu, tin tặc rút tiền, hệ thống ngân hàng điện tử bị đánh sập. Theo tài liệu, khoảng 20% số sự cố mạng được báo cáo trong hai thập niên qua nhắm vào khu vực tài chính, với tổn thất trực tiếp khoảng 2,5 tỷ USD riêng giai đoạn 2020–2023. Đây là đối tượng của toàn bộ tài liệu.
+
+**Rủi ro hệ thống (systemic risk).** Rủi ro mà một sự cố ở một nơi lan ra làm hỏng hoạt động của cả hệ thống tài chính, chứ không chỉ gây thiệt hại cho một định chế. Ví dụ minh hoạ: một ngân hàng nhỏ chỉ chiếm 1% tài sản toàn ngành, nhưng nếu nó bị tấn công và người gửi tiền ở mọi ngân hàng khác hoảng sợ rút tiền cùng lúc, thiệt hại toàn hệ thống lớn gấp nhiều lần thiệt hại của chính ngân hàng đó. Tài liệu lập luận rằng rủi ro mạng dễ trở thành rủi ro hệ thống hơn các loại rủi ro khác, qua ba kênh: mất niềm tin, thiếu dịch vụ thay thế, và liên kết chằng chịt.
+
+**Chức năng trọng yếu và điểm hỏng đơn lẻ (critical functions, single point of failure).** Chức năng trọng yếu là những dịch vụ mà nền kinh tế không thể thiếu dù chỉ vài giờ: thanh toán, quyết toán (hoàn tất việc chuyển tiền hay chứng khoán giữa các bên), lưu ký (giữ hộ chứng khoán). Điểm hỏng đơn lẻ là một bộ phận mà nếu nó hỏng thì cả hệ thống dừng vì không có đường vòng. Ví dụ minh hoạ: nếu 10 ngân hàng cùng đặt toàn bộ hệ thống trên một nhà cung cấp đám mây duy nhất, một sự cố ở nhà cung cấp đó làm cả 10 ngân hàng ngừng hoạt động cùng lúc. Khái niệm này giải thích vì sao tài liệu coi thuê ngoài và nhà cung cấp bên thứ ba là điểm phơi nhiễm tăng nhanh nhất.
+
+**Vốn như tấm đệm hấp thụ tổn thất (capital).** Vốn chủ sở hữu của ngân hàng là phần tiền của cổ đông, dùng để gánh lỗ trước khi người gửi tiền bị thiệt. Ví dụ minh hoạ: ngân hàng có 100 đồng tài sản, 10 đồng vốn; nếu khoản vay hỏng làm mất 6 đồng, vốn còn 4 đồng và người gửi tiền vẫn được trả đủ. Quản lý ngân hàng hiện đại (các chuẩn Basel) xoay quanh việc yêu cầu đủ vốn. Tài liệu nhấn mạnh rằng với rủi ro mạng, cách này không đủ: vốn không làm một hệ thống thanh toán đang dừng chạy lại được, nên trọng tâm phải là năng lực phòng ngừa, phát hiện, ứng phó và phục hồi.
+
+**Nguyên tắc tương xứng và mức độ trọng yếu (proportionality, materiality).** Nguyên tắc tương xứng nói rằng cường độ giám sát phải tương xứng với mức rủi ro mà một định chế gây ra: định chế quan trọng bị giám sát kỹ hơn. Câu hỏi là đo "quan trọng" bằng gì. Với rủi ro tín dụng, người ta thường đo bằng quy mô tài sản. Tài liệu nói với rủi ro mạng phải đo bằng mức độ trọng yếu, tức hệ thống sẽ thiệt hại bao nhiêu nếu định chế đó ngừng chạy. Ví dụ minh hoạ: một trung tâm chuyển mạch thanh toán có tài sản rất nhỏ nhưng xử lý giao dịch thẻ của cả nước; nếu nó dừng, hàng triệu giao dịch tắc lại, trong khi một ngân hàng lớn gấp trăm lần nhưng mô hình kinh doanh đơn giản thì ngừng một ngày ít gây hại hơn.
+
+**Quy định dựa trên nguyên tắc và quy định chi tiết (principles-based, prescriptive regulation).** Quy định dựa trên nguyên tắc chỉ nêu kết quả cần đạt, ví dụ "định chế phải có khả năng phục hồi dịch vụ trọng yếu kịp thời", và để định chế tự quyết cách làm. Quy định chi tiết nêu rõ phải làm gì, ví dụ minh hoạ "phải báo cáo sự cố trong vòng 4 giờ" hay "phải sao lưu dữ liệu mỗi ngày". Loại thứ nhất linh hoạt nhưng khó cưỡng chế; loại thứ hai dễ cưỡng chế nhưng nhanh lỗi thời và dễ dẫn tới tư duy "tích ô tuân thủ" (làm đủ thủ tục trên giấy mà không thật sự giảm rủi ro). Tài liệu khuyến nghị coi đây là một thang liên tục chứ không chọn một cực.
+
+**Kiểm thử thâm nhập dựa trên tình báo mối đe doạ (threat-led penetration testing, TLPT).** Kiểm thử thâm nhập là thuê người tấn công thử vào hệ thống của chính mình để tìm lỗ hổng trước khi kẻ xấu tìm ra. TLPT là loại nâng cao: kịch bản tấn công được xây từ thông tin tình báo về những nhóm tấn công thật đang nhắm vào chính ngành và khu vực đó, và đội phòng thủ của định chế không được báo trước. Đây là công cụ tài liệu dùng để chuyển giám sát từ "có chính sách hay không" sang "biện pháp kiểm soát có hoạt động thật hay không".
+
+**Hạ tầng thị trường tài chính, giám sát và giám quản (financial market infrastructure, supervision, oversight).** Hạ tầng thị trường tài chính (FMI) là các hệ thống mà mọi định chế dùng chung: hệ thống thanh toán liên ngân hàng, hệ thống bù trừ, quyết toán chứng khoán, lưu ký. Giám sát (supervision) nhắm vào từng định chế như ngân hàng, công ty bảo hiểm, với công cụ cưỡng chế mạnh như cấp phép và yêu cầu vốn. Giám quản (oversight) nhắm vào bản thân hệ thống, với công cụ chủ yếu là chuẩn mực và thuyết phục. Phân biệt này quan trọng vì FMI là nơi cả ba kênh lan truyền rủi ro mạng hội tụ, nhưng nhiều FMI lại chỉ chịu công cụ giám quản, vốn yếu hơn.
+
+## Nội dung chi tiết
 
 ### 1. Bối cảnh và chương trình công việc
 
-- IMF khởi động chương trình công việc về rủi ro mạng từ năm 2017 và mở rộng dần qua FSAP, hỗ trợ kỹ thuật và công việc phân tích.
-- Khoảng một phần năm số sự cố mạng được báo cáo trong hai thập niên qua nhắm vào khu vực tài chính, với tổn thất trực tiếp khoảng 2,5 tỷ USD trong giai đoạn 2020–2023 và số vụ tấn công gần như gấp đôi so với trước 2019.
-- Các đoàn FSAP có cấu phần rủi ro mạng tăng từ hai lên năm đoàn mỗi năm và tập trung vào các trung tâm tài chính lớn. Hỗ trợ kỹ thuật lại tập trung mạnh nhất ở châu Phi, nơi khoảng trống năng lực lớn nhất.
+**Quy mô vấn đề.** Khu vực tài chính là mục tiêu ưa thích của tấn công mạng vì đó là nơi có tiền và dữ liệu. Các số liệu nền mà tài liệu đưa ra:
+
+| Chỉ tiêu | Số liệu |
+|---|---|
+| Tỷ trọng sự cố mạng được báo cáo nhắm vào khu vực tài chính, trong hai thập niên qua | khoảng 20%, tức khoảng một phần năm |
+| Tổn thất trực tiếp giai đoạn 2020–2023 | khoảng 2,5 tỷ USD |
+| Số vụ tấn công so với mức trước 2019 | gần như gấp đôi |
+| Mức tăng tổn thất | khoảng 25% |
+| Riêng năm 2020 so với 2019 | tăng đột biến khoảng 500% |
+
+Đồ thị gốc về số sự cố được ghi nhãn giai đoạn "2004–25", nhưng dữ liệu thực tế chỉ chạy đến năm 2023.
+
+**Dòng thời gian của IMF.** IMF khởi động chương trình công việc về rủi ro mạng từ năm 2017 và mở rộng dần qua ba kênh: FSAP (Chương trình đánh giá khu vực tài chính, đợt đánh giá toàn diện hệ thống tài chính của một nước), hỗ trợ kỹ thuật, và công việc phân tích. Theo một đoạn trong tài liệu, năm 2019 IMF bắt đầu thí điểm đánh giá rủi ro mạng trong FSAP; nhưng một đoạn khác nói các đánh giá mạng độc lập được thí điểm trong FSAP Na Uy 2020 và Nam Phi 2022, và danh sách các đoàn không có mục nào cho năm 2019. Năm thí điểm vì vậy được ghi mâu thuẫn giữa 2019, 2020 và 2022.
+
+**Các đoàn FSAP có cấu phần rủi ro mạng.**
+
+| Năm | Nước hoặc khu vực |
+|---|---|
+| 2020 | Na Uy, Hoa Kỳ |
+| 2021 | Anh |
+| 2022 | Mexico, Nam Phi |
+| 2023 | Iceland, Thổ Nhĩ Kỳ, Thuỵ Điển |
+| 2024 | Nhật Bản, Luxembourg, Tây Ban Nha |
+| 2025 | Canada, Khu vực đồng euro, Pháp, Ấn Độ, Thuỵ Sĩ |
+
+Hai xu hướng rõ: số đoàn tăng từ 2 đoàn mỗi năm lên 5 đoàn mỗi năm trong sáu năm, và danh sách nghiêng về các trung tâm tài chính lớn. Điều này đúng với logic ưu tiên theo mức trọng yếu hệ thống: FSAP đi đến nơi mà một sự cố có thể gây hại cho hệ thống toàn cầu.
+
+**Nhiệm vụ hỗ trợ kỹ thuật theo khu vực.** Hỗ trợ kỹ thuật đi theo hướng ngược lại, tới nơi năng lực giám sát còn yếu:
+
+| Khu vực | 2022 | 2023 | 2024 | Xu hướng |
+|---|---|---|---|---|
+| Châu Phi | 8 | 14 | 18 | Tăng mạnh nhất |
+| Châu Á–Thái Bình Dương | 3 | 1 | 4 | Dao động |
+| Châu Âu | 1 | 4 | 0 | Về 0 |
+| Trụ sở IMF | 2 | 2 | 3 | Ổn định |
+| Trung Đông–Trung Á | 3 | 3 | 3 | Ổn định |
+| Tây bán cầu | 4 | 7 | 6 | Ổn định ở mức cao |
+| **Tổng** | **21** | **31** | **34** | **86 trong 3 năm** |
+
+Châu Phi chiếm gần một nửa tổng số (40 trên 86), phản ánh nơi khoảng trống năng lực giám sát lớn nhất. Lưu ý về số liệu: lời văn của tài liệu viết rằng trong 4 năm qua IMF đã thực hiện 108 nhiệm vụ hỗ trợ kỹ thuật, nhưng bảng chỉ cho 86 nhiệm vụ trong 3 năm; 22 nhiệm vụ còn lại không được nói rõ thuộc năm nào.
+
+**Sản phẩm của gần một thập niên.** Từ các công việc này, tài liệu chưng cất một bộ công cụ giám sát rủi ro mạng gồm tám cấu phần (trình bày ở mục 3 và 4 dưới đây).
 
 ### 2. Vì sao rủi ro mạng khác biệt
 
-- Rủi ro mạng lan qua ba kênh: mất niềm tin, thiếu dịch vụ thay thế cho các chức năng trọng yếu, và sự liên kết chằng chịt. Vì vậy một sự cố ở định chế nhỏ vẫn có thể thành sự kiện hệ thống.
-- Tổn thất cốt lõi là gián đoạn dịch vụ và mất tính toàn vẹn dữ liệu chứ không phải tổn thất tài chính hấp thụ được bằng vốn. Trọng tâm giám sát vì thế phải là năng lực phòng ngừa, phát hiện, ứng phó và phục hồi.
-- Từ điển rủi ro mạng của FSB là điều kiện tiên quyết cho việc so sánh dữ liệu, phối hợp xuyên biên giới và đặt ngưỡng báo cáo nhất quán.
+**Đặc tính làm rủi ro mạng trở nên hệ thống.** Một sự cố ở một định chế, kể cả một định chế nhỏ, vẫn có thể trở thành sự kiện toàn hệ thống. Tài liệu chỉ ra ba kênh:
+
+1. **Mất niềm tin (loss of confidence).** Người gửi tiền và các đối tác không phân biệt được định chế bị tấn công với định chế lành. Họ rút tiền và cắt hạn mức tín dụng trên diện rộng, ngay cả khi tổn thất thực tế nhỏ. Thông tin mơ hồ trong những giờ đầu của sự cố làm kênh này đặc biệt mạnh.
+2. **Thiếu dịch vụ thay thế (lack of substitutes).** Với các chức năng trọng yếu như thanh toán, quyết toán, lưu ký, không có nhà cung cấp dự phòng nào có thể tiếp nhận ngay. Kết quả là hệ thống dừng chứ không chuyển hướng. Đây là kênh mà tài liệu nhấn mạnh nhất.
+3. **Liên kết chằng chịt (interconnectedness).** Các định chế nối với nhau qua hệ thống thanh toán, qua các nhà cung cấp dịch vụ chung và qua dữ liệu chung. Vì vậy sự cố lây lan theo đường kỹ thuật (mã độc đi từ hệ thống này sang hệ thống khác), chứ không chỉ lây lan tài chính (một bên không trả được nợ cho bên kia).
+
+**Hệ quả then chốt: vốn không phải câu trả lời.** Tài liệu viết: "vốn không bù đắp được cho một hệ thống thanh toán ngừng chạy". So sánh:
+
+| | Rủi ro tín dụng, rủi ro thị trường | Rủi ro mạng |
+|---|---|---|
+| Tổn thất cốt lõi | Một khoản tiền bị mất | Sự gián đoạn dịch vụ và mất tính toàn vẹn dữ liệu |
+| Vốn có giúp được không | Có, vốn hấp thụ tổn thất | Không, vốn không mua lại được hai thứ đó |
+| Trọng tâm giám sát | Đủ vốn | Năng lực phòng ngừa, phát hiện, ứng phó và phục hồi |
+
+**Ví dụ minh hoạ** (không có trong tài liệu). Nếu sổ cái tài khoản của một ngân hàng bị kẻ tấn công sửa, ngân hàng không biết chắc số dư thật của từng khách hàng. Dù ngân hàng có thêm bao nhiêu vốn, khách hàng vẫn không rút được tiền cho đến khi dữ liệu được khôi phục và kiểm chứng. Thứ cứu được ngân hàng lúc đó là bản sao lưu sạch và quy trình khôi phục đã được tập dượt, không phải tiền.
+
+**Nền tảng khái niệm: từ điển rủi ro mạng của FSB.** Hội đồng Ổn định Tài chính (FSB) có một từ điển thuật ngữ rủi ro mạng (FSB, 2023). Tài liệu giải thích vì sao cần nó: nếu mỗi nước định nghĩa "sự cố mạng" một kiểu, thì không thể so sánh dữ liệu giữa các nước, không thể phối hợp xuyên biên giới, và không thể đặt ngưỡng báo cáo nhất quán. Vì vậy chuẩn hoá thuật ngữ là điều kiện tiên quyết chứ không phải việc hình thức.
 
 ### 3. Xây dựng quy định
 
-- Quy trình phát triển quy định gồm sáu giai đoạn, trong đó tham vấn ngành và rà soát định kỳ là hai khâu dễ bị bỏ qua nhất.
-- Lựa chọn giữa cách tiếp cận dựa trên nguyên tắc và quy định chi tiết không phải nhị phân mà là một thang liên tục. Nguyên tắc phù hợp cho quản trị và khẩu vị rủi ro, quy định chi tiết phù hợp cho báo cáo sự cố và các biện pháp kiểm soát tối thiểu; vị trí trên thang nên điều chỉnh theo mức độ trưởng thành của thị trường.
-- Tám nhóm kỳ vọng quy định trải từ quản trị, quản lý rủi ro công nghệ, quản lý dịch vụ ICT, vận hành an ninh mạng, ứng phó và phục hồi, kiểm thử, bảo đảm độc lập, đến thuê ngoài và nhà cung cấp bên thứ ba. Nhóm cuối là điểm phơi nhiễm tăng nhanh nhất vì nhiều định chế cùng phụ thuộc một số ít nhà cung cấp đám mây.
+**Bộ công cụ tám cấu phần.** Đây là khung tổ chức trung tâm của tài liệu:
+
+| Số | Cấu phần | Nội dung |
+|---|---|---|
+| 1 | Khung pháp lý và quy định | Thẩm quyền rõ ràng để đặt yêu cầu và cưỡng chế |
+| 2 | Chiến lược giám sát rủi ro mạng | Xác định ưu tiên, phạm vi và mức độ can thiệp |
+| 3 | Năng lực và nguồn lực chuyên môn | Nút thắt lớn nhất với hầu hết cơ quan giám sát |
+| 4 | Giám sát từ xa (offsite) | Thu thập dữ liệu, phân tích, giám sát liên tục |
+| 5 | Thanh tra tại chỗ (onsite) | Kiểm chứng trực tiếp tại định chế |
+| 6 | Giám sát việc kiểm thử an ninh mạng | Chuyển từ kiểm tra tuân thủ sang kiểm chứng năng lực thực tế |
+| 7 | Báo cáo sự cố | Nắm thông tin kịp thời, làm nền cho việc theo dõi xu hướng |
+| 8 | Hợp tác và chia sẻ thông tin | Trong nước, xuyên biên giới, và với khu vực tư |
+
+**Sáu giai đoạn phát triển quy định.**
+
+1. Xác định nhu cầu và phạm vi.
+2. Phân tích bối cảnh, chuẩn mực quốc tế và thực tiễn thị trường.
+3. Soạn thảo.
+4. Tham vấn công khai với ngành.
+5. Ban hành, kèm thời gian chuyển tiếp để định chế kịp chuẩn bị.
+6. Rà soát và cập nhật, vì công nghệ và mối đe doạ thay đổi nhanh hơn chu kỳ quy định thông thường.
+
+Tài liệu cho rằng tham vấn ngành (giai đoạn 4) và rà soát định kỳ (giai đoạn 6) là hai khâu dễ bị bỏ qua nhất.
+
+**Thang liên tục từ nguyên tắc đến chi tiết.** Lựa chọn giữa quy định dựa trên nguyên tắc và quy định chi tiết không phải là lựa chọn nhị phân mà là một thang liên tục. Ưu và nhược điểm của hai đầu thang:
+
+| | Dựa trên nguyên tắc (principles-based) | Quy định chi tiết (prescriptive) |
+|---|---|---|
+| Ưu điểm | Linh hoạt theo quy mô và mô hình kinh doanh; không lỗi thời khi công nghệ thay đổi | Rõ ràng, dễ cưỡng chế, dễ so sánh giữa các định chế; phù hợp khi năng lực của định chế còn yếu, vì họ cần biết cụ thể phải làm gì |
+| Nhược điểm | Đòi hỏi định chế có năng lực tự diễn giải; khó cưỡng chế, khó chứng minh vi phạm | Nhanh lỗi thời khi công nghệ thay đổi; khuyến khích tư duy tích ô tuân thủ thay vì quản lý rủi ro thực chất; gánh nặng bất tương xứng với định chế nhỏ |
+
+Khuyến nghị của tài liệu là không chọn một cực:
+
+- dùng nguyên tắc cho các yêu cầu về quản trị và khẩu vị rủi ro (mức rủi ro mà hội đồng quản trị chấp nhận), nơi cần phán đoán của định chế;
+- dùng quy định chi tiết cho báo cáo sự cố (ngưỡng nào thì phải báo, báo trong bao lâu) và các biện pháp kiểm soát tối thiểu, nơi cần tính so sánh và khả năng cưỡng chế;
+- điều chỉnh vị trí trên thang theo mức độ trưởng thành của thị trường mà cơ quan đang giám sát.
+
+**Tám nhóm kỳ vọng quy định chính.** Nội dung mà quy định nên bao phủ:
+
+| Nhóm | Kỳ vọng |
+|---|---|
+| 1. Quản trị | Trách nhiệm của hội đồng quản trị, tuyến báo cáo rõ ràng; không được uỷ thác toàn bộ cho bộ phận công nghệ thông tin |
+| 2. Quản lý rủi ro công nghệ và rủi ro mạng | Nhận diện tài sản công nghệ, phân loại theo mức trọng yếu |
+| 3. Quản lý dịch vụ ICT (công nghệ thông tin và truyền thông) | Quản lý vòng đời hệ thống, quản lý thay đổi |
+| 4. Vận hành an ninh mạng | Phát hiện, giám sát liên tục, báo cáo sự cố |
+| 5. Ứng phó và phục hồi | Kế hoạch ứng phó, mục tiêu thời gian phục hồi (khoảng thời gian tối đa được phép để dịch vụ chạy lại), sao lưu không thể sửa đổi (bản sao mà kẻ tấn công không xoá hay mã hoá được) |
+| 6. Kiểm thử | Trình bày riêng ở mục 5 |
+| 7. Bảo đảm độc lập | Kiểm toán nội bộ và kiểm toán bên ngoài |
+| 8. Thuê ngoài và nhà cung cấp dịch vụ bên thứ ba (TSP) | Điểm phơi nhiễm tăng nhanh nhất |
+
+Nhóm 8 được nhấn mạnh vì nhiều định chế cùng dùng một số ít nhà cung cấp đám mây. Một nhà cung cấp như vậy trở thành điểm hỏng đơn lẻ ở cấp hệ thống: nó hỏng thì nhiều định chế cùng hỏng một lúc.
 
 ### 4. Giám sát
 
-- Nguyên tắc tương xứng phải dựa trên mức độ trọng yếu và hồ sơ rủi ro chứ không phải quy mô tài sản, vì một định chế nhỏ vận hành chức năng trọng yếu có thể quan trọng hơn một ngân hàng lớn với mô hình đơn giản.
-- Giám sát từ xa theo dõi xu hướng và chọn đối tượng; thanh tra tại chỗ kiểm chứng rằng thực tế khớp với báo cáo.
-- Rà soát chuyên đề xem xét một chủ đề trên nhiều định chế cùng lúc, phát hiện điểm yếu chung của ngành mà thanh tra riêng lẻ không thấy được.
-- Tiêu chuẩn CPS 234 của APRA minh hoạ cơ chế rà soát ba bên, mở rộng năng lực giám sát mà không cần tuyển thêm chuyên gia.
-- Khảo sát năng lực cho thấy tỷ lệ cơ quan không có kế hoạch xây dựng năng lực giảm từ hơn một nửa xuống gần 45%, nhưng tỷ lệ có kế hoạch chuyên biệt gần như đứng im. Việc gần như mọi cơ quan dựa vào hội thảo trực tuyến miễn phí là tín hiệu rõ về ràng buộc ngân sách.
+**Nguyên tắc tương xứng: điểm tinh tế nhất của chương.**
+
+- Cách làm sai: phân bổ nguồn lực giám sát theo quy mô tài sản, như vẫn làm với rủi ro tín dụng.
+- Cách làm đúng: phân bổ theo mức độ trọng yếu và hồ sơ rủi ro.
+- Lý do: một định chế nhỏ vận hành một chức năng trọng yếu của hệ thống, ví dụ một trung tâm chuyển mạch thanh toán, có thể quan trọng hơn hẳn một ngân hàng lớn có mô hình kinh doanh đơn giản.
+
+Trong rủi ro mạng, khái niệm "quá lớn để sụp đổ" phải được thay bằng "quá trọng yếu để ngừng chạy".
+
+**Các quy trình giám sát cốt lõi.** Chương 4 của tài liệu nói có bốn quy trình cốt lõi, nhưng sơ đồ minh hoạ chỉ vẽ ba hàng, đặt trên một dải nền chung là quy định và hướng dẫn:
+
+| Quy trình | Các bước |
+|---|---|
+| Giám sát từ xa | Lập kế hoạch → Thu thập thông tin → Phân tích → Báo cáo |
+| Thanh tra tại chỗ | Lập kế hoạch → Chuẩn bị → Thực hiện tại chỗ → Báo cáo và theo dõi khắc phục |
+| Diễn tập mạng | (trình bày ở mục 5) |
+
+Lời văn gọi quy trình thứ tư là "giám sát việc kiểm thử an ninh mạng", còn hình vẽ gọi hàng thứ ba là "diễn tập mạng".
+
+**Giám sát từ xa làm gì.** Thu thập báo cáo định kỳ, chỉ số rủi ro và dữ liệu sự cố; theo dõi xu hướng của toàn hệ thống chứ không chỉ từng định chế; và cung cấp đầu vào cho việc chọn định chế nào cần thanh tra tại chỗ.
+
+**Thanh tra tại chỗ làm gì.** Kiểm chứng rằng những gì định chế báo cáo khớp với những gì họ thực sự làm, bằng cách xem xét cấu hình hệ thống, nhật ký hệ thống và quy trình vận hành thực tế.
+
+**Rà soát chuyên đề (thematic reviews).** Đây là việc xem xét một chủ đề cụ thể trên nhiều định chế cùng lúc. Ưu điểm:
+
+- phát hiện điểm yếu chung của cả ngành mà thanh tra từng định chế riêng lẻ không thấy được;
+- tiết kiệm nguồn lực;
+- tạo cơ sở có bằng chứng để ban hành hướng dẫn mới.
+
+Ví dụ chủ đề: quản lý nhà cung cấp đám mây, năng lực phục hồi, quản lý danh tính và quyền truy cập.
+
+**Ví dụ: tiêu chuẩn CPS 234 của APRA (Úc).** Cơ quan quản lý an toàn thận trọng của Úc (APRA) ban hành tiêu chuẩn an ninh thông tin CPS 234, có hiệu lực từ ngày 1/7/2019. Điểm đáng học là cơ chế rà soát ba bên (tripartite review): cơ quan giám sát, định chế được giám sát và một bên đánh giá độc lập cùng tham gia. Cơ chế này hiệu quả vì mở rộng năng lực giám sát mà không cần tuyển thêm chuyên gia, đồng thời đưa được chuyên môn kỹ thuật cao vào quá trình đánh giá. Chương trình rà soát gắn với chiến lược mạng giai đoạn 2020–24 của APRA, và tài liệu tóm tắt sáu phát hiện chính rút ra từ chương trình này.
+
+**Khảo sát về xây dựng năng lực của các cơ quan giám sát.**
+
+| | 2021 | 2023 | Thay đổi (điểm phần trăm) |
+|---|---|---|---|
+| Có kế hoạch riêng cho giám sát rủi ro mạng | 17,0% | 17,6% | +0,6, gần như đứng im |
+| Có kế hoạch chung (rủi ro mạng nằm trong kế hoạch đào tạo chung) | 29,8% | 37,8% | +8,0 |
+| Không có kế hoạch nào | 53,2% | 44,6% | −8,6 |
+
+Tỷ lệ cơ quan không có kế hoạch giảm từ hơn một nửa xuống gần 45%. Nhưng dù có cải thiện, gần một nửa cơ quan giám sát vẫn không có kế hoạch xây dựng năng lực nào vào năm 2023, và tỷ lệ có kế hoạch chuyên biệt gần như không đổi.
+
+Hình thức đào tạo được sử dụng:
+
+| Hình thức | Tỷ lệ cơ quan sử dụng |
+|---|---|
+| Đào tạo học thuật | 40,5% |
+| Chứng chỉ chuyên môn | 60,8% |
+| Hội thảo trực tuyến miễn phí | 97,3% |
+
+Đây là tín hiệu rõ về ràng buộc ngân sách: gần như mọi cơ quan dùng nguồn miễn phí, chỉ hơn một nửa trả tiền cho chứng chỉ. Về tuyển dụng, khoảng hai phần ba cơ quan yêu cầu bằng cấp công nghệ thông tin, và khoảng 20% không yêu cầu chứng chỉ nào.
 
 ### 5. Kiểm thử và diễn tập
 
-- Kiểm tra tuân thủ chỉ cho biết định chế có chính sách hay không; kiểm thử cho biết biện pháp kiểm soát có hoạt động khi bị tấn công hay không.
-- Kiểm thử thâm nhập dựa trên tình báo mối đe doạ dùng kịch bản xây từ mối đe doạ thực đang nhắm vào chính ngành đó, với mô hình ba đội. Điểm cốt lõi là đội phòng thủ không biết đây là diễn tập, nhờ đó đo được năng lực thật. Đánh đổi là chi phí cao và rủi ro vận hành, nên chỉ phù hợp với định chế trọng yếu.
-- Diễn tập mô phỏng sự cố kiểm chứng kế hoạch ứng phó, làm lộ các điểm phụ thuộc chưa được nhận diện, và quan trọng nhất là luyện việc ra quyết định dưới áp lực trong điều kiện thiếu thông tin — đặc trưng của sự cố mạng thật.
+**Vì sao kiểm thử là bước chuyển quan trọng nhất.** Kiểm tra tuân thủ chỉ cho biết định chế có chính sách hay không. Kiểm thử cho biết các biện pháp kiểm soát có thực sự hoạt động khi bị tấn công hay không. Theo cách nói của tài liệu, đây là khác biệt giữa "có bình chữa cháy" và "dập được đám cháy".
+
+**TLPT: kiểm thử thâm nhập dựa trên tình báo mối đe doạ.** Điểm khác với kiểm thử thâm nhập thông thường là kịch bản tấn công được xây từ tình báo về mối đe doạ thực đang nhắm vào chính ngành và khu vực địa lý đó, thay vì một danh sách lỗ hổng chung. TLPT dùng mô hình ba đội:
+
+| Đội | Vai trò |
+|---|---|
+| Đội Trắng (White Team) | Nhóm điều phối bên trong định chế. Chỉ một nhóm rất nhỏ được biết cuộc kiểm thử đang diễn ra. Đội Trắng kiểm soát phạm vi, bảo đảm an toàn, và dừng cuộc kiểm thử nếu có nguy cơ gây hại thật |
+| Đội Đỏ (Red Team) | Bên tấn công, thường là nhà cung cấp chuyên nghiệp bên ngoài, mô phỏng hành vi của nhóm tấn công thật |
+| Đội Xanh (Blue Team) | Bên phòng thủ, chính là đội an ninh của định chế. Họ không biết đây là diễn tập |
+
+Chính việc Đội Xanh không biết mới là điểm cốt lõi: nhờ đó đo được năng lực phát hiện và ứng phó trong điều kiện thật, chứ không phải năng lực biểu diễn khi đã được chuẩn bị. Đánh đổi là TLPT tốn kém, đòi hỏi kỹ năng cao và tiềm ẩn rủi ro vận hành thật (cuộc tấn công thử có thể làm hỏng hệ thống đang chạy), nên chỉ phù hợp với các định chế trọng yếu.
+
+**Diễn tập mô phỏng sự cố mạng.** Chương 5 của tài liệu dành riêng cho chủ đề này. Các bước tổ chức một cuộc diễn tập:
+
+1. Xác định mục tiêu.
+2. Thiết kế kịch bản.
+3. Chọn thành phần tham gia.
+4. Thực hiện.
+5. Rút kinh nghiệm.
+6. Theo dõi khắc phục.
+
+Lợi ích của diễn tập:
+
+- kiểm chứng kế hoạch ứng phó có chạy được trong thực tế không;
+- làm lộ ra các điểm phụ thuộc chưa được nhận diện, ví dụ một hệ thống tưởng độc lập hoá ra dựa vào cùng một nhà cung cấp;
+- luyện việc ra quyết định dưới áp lực và trong điều kiện thiếu thông tin, đặc trưng của sự cố mạng thật;
+- cải thiện phối hợp giữa các cơ quan và với khu vực tư;
+- nâng nhận thức của lãnh đạo cấp cao;
+- tạo đầu vào có bằng chứng cho việc sửa quy định.
+
+Điểm nhấn của tài liệu: trong sự cố mạng thật, người ra quyết định thường không biết phạm vi xâm nhập, không biết dữ liệu nào bị ảnh hưởng, cũng không biết kẻ tấn công còn ở trong hệ thống hay không, mà vẫn phải quyết định. Diễn tập là cách duy nhất để luyện tình huống đó trước khi nó xảy ra.
+
+**Ví dụ minh hoạ** (không có trong tài liệu). Một cuộc diễn tập trên bàn giấy có thể đặt kịch bản: 7 giờ sáng thứ Hai, hệ thống thanh toán của một ngân hàng chậm bất thường, chưa rõ do lỗi hay do tấn công. Người tham gia phải quyết định có ngắt kết nối khỏi hệ thống thanh toán liên ngân hàng hay không, ai có quyền ra lệnh đó, và thông báo gì cho khách hàng, tất cả trong vòng 10 phút đầu, khi mới chỉ có một nửa thông tin.
 
 ### 6. Rủi ro toàn hệ thống và hạ tầng thị trường
 
-- Giám sát nhắm vào định chế, giám quản nhắm vào hệ thống. Phân biệt này quan trọng vì nhiều hạ tầng thị trường không phải định chế được cấp phép theo nghĩa thông thường, nên chỉ có thể tác động bằng công cụ giám quản vốn yếu hơn về cưỡng chế.
-- Hạ tầng thị trường tài chính là điểm tập trung của cả ba kênh lan truyền, nên là trọng tâm của rủi ro mạng hệ thống.
-- Các khuyến nghị được sắp theo khung trách nhiệm của PFMI, trong đó hợp tác giữa các cơ quan đặc biệt quan trọng vì hạ tầng và nhà cung cấp bên thứ ba đều hoạt động xuyên biên giới và phần nào nằm ngoài phạm vi quản lý tài chính.
+**Phân biệt giám sát với giám quản.**
+
+| | Giám sát (supervision) | Giám quản (oversight) |
+|---|---|---|
+| Đối tượng | Định chế (ngân hàng, bảo hiểm) | Hệ thống (thanh toán, bù trừ, quyết toán) |
+| Mục tiêu | An toàn và lành mạnh của từng định chế, bảo vệ người gửi tiền | An toàn và hiệu quả của chính hệ thống |
+| Công cụ | Cấp phép, yêu cầu vốn, chế tài | Chuẩn mực, thuyết phục đạo lý, đôi khi quyền sở hữu |
+
+Khung khái niệm này có gốc từ một tài liệu của CPSS (Uỷ ban về Hệ thống Thanh toán và Quyết toán) năm 2005. Tài liệu gắn nhãn tham khảo này là "CPMI Paper No. 8", trong khi CPSS chỉ được đổi tên thành CPMI vào năm 2014.
+
+Phân biệt này quan trọng với rủi ro mạng vì nhiều hạ tầng thị trường không phải là định chế được cấp phép theo nghĩa thông thường. Cơ quan quản lý chỉ có thể tác động tới chúng qua công cụ giám quản, vốn yếu hơn về mặt cưỡng chế.
+
+**Vì sao FMI là trọng tâm của rủi ro mạng hệ thống.** Hạ tầng thị trường tài chính là điểm tập trung của cả ba kênh lan truyền:
+
+- không có dịch vụ thay thế: không ai thay được hệ thống thanh toán quốc gia;
+- liên kết với toàn bộ định chế trong hệ thống;
+- một sự cố ở đây làm mất niềm tin ngay lập tức.
+
+**Các chuẩn mực quốc tế áp dụng.** Tài liệu dựa vào hai bộ chuẩn: Hướng dẫn về sức chống chịu mạng cho FMI của CPMI-IOSCO (tài liệu trình bày các cấu phần của hướng dẫn này), và khung Nguyên tắc về hạ tầng thị trường tài chính (PFMI). Các khuyến nghị được sắp theo các "trách nhiệm" mà PFMI đặt ra cho cơ quan quản lý:
+
+| Trách nhiệm | Nội dung |
+|---|---|
+| A | Khung pháp lý cho việc giám quản |
+| B | Quyền hạn và nguồn lực của cơ quan giám quản |
+| C | Không có trong bảng của tài liệu, và tài liệu không giải thích vì sao |
+| D | Áp dụng các nguyên tắc PFMI |
+| E | Hợp tác giữa các cơ quan |
+
+**Vì sao trách nhiệm E đặc biệt quan trọng ở đây.**
+
+- FMI thường hoạt động xuyên biên giới.
+- Nhà cung cấp dịch vụ bên thứ ba (đám mây, viễn thông) cũng hoạt động xuyên biên giới và nằm ngoài phạm vi quản lý tài chính.
+- Vì vậy không một cơ quan nào có thể nhìn thấy toàn bộ bức tranh rủi ro một mình; hợp tác và chia sẻ thông tin (cấu phần 8 của bộ công cụ) là điều kiện để giám quản có hiệu quả.
 
 ## Thuật ngữ
 

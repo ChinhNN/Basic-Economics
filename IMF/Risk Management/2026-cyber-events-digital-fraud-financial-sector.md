@@ -646,48 +646,301 @@
 2. Vì sao ngân hàng trung ương ở thị trường mới nổi, ngân hàng không phải G-SIB, và nhà cung cấp dịch vụ bên thứ ba lại là những điểm yếu nổi bật?
 3. Gian lận số tăng nhanh tới mức nào, công cụ thanh toán nào bị lợi dụng nhiều nhất, và các nước đã làm gì để củng cố niềm tin vào tài chính số?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Sự cố mạng (cyber event).** Theo định nghĩa mà bài dùng (Harry và Gallagher 2018), đó là kết quả của một nỗ lực trái phép, hoặc của một chuỗi thao tác kỹ thuật trái phép, dùng máy tính và mạng để gây một tác động chủ đích lên một mục tiêu. Sự cố được chia theo mục tiêu thành hai nhóm: **gây gián đoạn** (làm hệ thống ngừng chạy, làm website không truy cập được) và **khai thác** (đánh cắp thông tin). Ví dụ trong bài: trong 14.055 sự cố giai đoạn 2014–2023, khai thác chiếm 54% và gián đoạn 46%. Khái niệm này là đơn vị đếm của toàn bộ phần đầu bài.
+
+**Từ chối dịch vụ (DoS/DDoS).** Kẻ tấn công gửi một lượng truy cập khổng lồ tới một website hay hệ thống cho tới khi nó quá tải và người dùng thật không vào được. "Phân tán" (DDoS) nghĩa là lượng truy cập đến từ rất nhiều máy cùng lúc. Loại tấn công này không lấy cắp gì, chỉ gây gián đoạn và gây chú ý. Ví dụ trong bài: 58,54% sự cố nhắm vào ngân hàng trung ương là từ chối dịch vụ từ bên ngoài. Điều này giải thích vì sao bài nói kẻ tấn công ngân hàng trung ương muốn "khiêu khích chứ không trục lợi".
+
+**Khai thác máy chủ ứng dụng.** Máy chủ ứng dụng là máy chạy các phần mềm mà khách hàng dùng trực tiếp, như ứng dụng ngân hàng trên điện thoại hay trang web giao dịch. Khai thác nó là lợi dụng lỗi trong phần mềm đó để lọt vào và lấy dữ liệu. Ví dụ trong bài: đây là phương thức lớn nhất, chiếm 40,41% sự cố toàn nền kinh tế và 50,04% ở khu vực tài chính. Năm 2023, một nền tảng tiền mã hoá ở Đông Nam Á mất khoảng 125 triệu USD và 103 triệu USD trong cùng một tuần, đều được cho là do khai thác máy chủ ứng dụng.
+
+**Tội phạm phụ thuộc mạng và tội phạm có yếu tố mạng.** Tội phạm phụ thuộc mạng (cyber-dependent) nhắm vào chính máy tính và chỉ có thể xảy ra qua hạ tầng công nghệ thông tin, ví dụ phát tán mã độc. Tội phạm có yếu tố mạng (cyber-enabled) là tội truyền thống như trộm cắp, lừa đảo, quấy rối, nhưng được máy tính tiếp sức. Ví dụ minh hoạ: lừa một người chuyển tiền qua điện thoại là lừa đảo truyền thống; lừa họ qua một trang web giả mạo ngân hàng là gian lận có yếu tố mạng. Bài dùng loại thứ hai để đo gian lận số, và con số chính là khoảng 2,5 triệu vụ năm 2022.
+
+**Gian lận thanh toán do nạn nhân uỷ quyền (APP fraud) và bồi hoàn bắt buộc.** Đây là kiểu lừa mà chính nạn nhân tự bấm chuyển tiền, vì bị lừa rằng người nhận là ngân hàng, cơ quan nhà nước hay người thân. Vì giao dịch do chủ tài khoản tự uỷ quyền, theo cách làm truyền thống ngân hàng không phải hoàn tiền. Bồi hoàn bắt buộc là quy định buộc ngân hàng hoàn tiền cho nạn nhân trong một số trường hợp. Ví dụ trong bài: ở Anh, nước đầu tiên áp dụng cơ chế này, số vụ APP tăng 12% nhưng tổn thất giảm 12% cùng kỳ. Đây là ví dụ rõ nhất trong bài cho thấy phân bổ trách nhiệm ảnh hưởng tới tổn thất.
+
+**Tài khoản lừa (money mule account).** Tài khoản ngân hàng đứng tên một người (có khi bị thuê, có khi bị lừa hoặc bị đánh cắp danh tính) nhưng do tội phạm dùng để nhận và chuyển tiếp tiền lừa đảo, nhằm xoá dấu vết. Ví dụ minh hoạ: nạn nhân chuyển 50 triệu đồng vào tài khoản A; trong vài phút, tiền được chia sang năm tài khoản khác rồi rút ra hoặc đổi sang tiền mã hoá. Không có tài khoản nhận thì giao dịch lừa không hoàn tất được, nên loại bỏ tài khoản lừa là một trong tám hành động bài nêu, và Ấn Độ dùng học máy để phát hiện chúng.
+
+**G-SIB.** Ngân hàng có tầm quan trọng hệ thống toàn cầu: những ngân hàng lớn và kết nối rộng tới mức nếu một ngân hàng đổ vỡ thì cả hệ thống tài chính thế giới bị ảnh hưởng, nên chịu quy định chặt hơn. Ví dụ trong bài: chỉ 13% sự cố ở nhóm trung gian tín dụng liên quan tới G-SIB, 87% thuộc các ngân hàng khác. Con số này được bài dùng để nói ngân hàng nhỏ, ít nguồn lực, phòng thủ kém hơn.
+
+**Rủi ro bên thứ ba.** Rủi ro phát sinh không từ chính ngân hàng mà từ các công ty cung cấp dịch vụ cho ngân hàng: nhà cung cấp công nghệ thông tin, đơn vị xử lý thanh toán, dịch vụ truyền tệp, công ty tiếp thị. Ví dụ trong bài: Cloudflare, nhà cung cấp tường lửa và phân phối nội dung cho nhiều ngân hàng, công ty bảo hiểm và nền tảng thanh toán, bị gián đoạn nhiều lần năm 2020 và 2022. Khái niệm này giải thích vì sao nhiều vụ rò rỉ dữ liệu ngân hàng không bắt đầu ở ngân hàng.
+
+**Báo cáo thiếu (underreporting).** Tình trạng số vụ được ghi nhận thấp hơn nhiều so với số vụ thật, vì nạn nhân không trình báo hoặc định chế không công bố. Ví dụ trong bài: ở Canada chỉ khoảng 5–10% vụ gian lận và tội phạm mạng được trình báo; ở Singapore 68% nạn nhân chọn không trình báo. Đây là lý do mọi con số trong bài phải được đọc như cận dưới, và so sánh giữa các nước phải rất thận trọng.
+
+## Nội dung chi tiết
 
 ### 1. Mở đầu
 
-- Phân tích bức tranh mối đe doạ là phần then chốt để hiểu bản chất, phạm vi và cường độ rủi ro mạng, nhưng rất khó với nhiều nước do thông tin thiếu và phân mảnh, khung báo cáo chưa đầy đủ và thu xếp chia sẻ thông tin yếu.
-- Nghiên cứu trước của IMF cho thấy gần một phần năm sự cố mạng được báo cáo trong 2004–2023 tác động tới khu vực tài chính, với ngân hàng bị nhắm nhiều nhất, và số vụ đã gần gấp đôi so với trước đại dịch.
-- Thông tin về sự cố thường là tài liệu mật và nhạy cảm thị trường; số liệu lại thiếu nhất quán do khác biệt phân loại, dẫn tới nỗ lực quốc tế xây từ điển mạng chung.
-- Bài dùng dữ liệu công khai để xem xét sự cố mạng nhắm vào tổ chức tài chính và gian lận số nhắm vào công chúng, trong đó tội phạm mạng do nạn nhân trình báo còn gian lận thanh toán do định chế được quản lý báo cáo.
+Phân tích bức tranh mối đe doạ (ai tấn công, nhắm vào đâu, bằng cách nào, nhiều tới mức nào) là phần then chốt để hiểu bản chất, phạm vi và cường độ của rủi ro mạng. Nhưng việc này rất khó với nhiều nước. Bài nêu ngay năm rào cản:
+
+1. thông tin về sự cố tấn công mạng và gian lận số không đầy đủ và bị thiếu;
+2. nguồn thông tin, cách ghi chép và lưu trữ phân mảnh;
+3. khung báo cáo sự cố an ninh mạng chưa đầy đủ;
+4. thu xếp chia sẻ thông tin trong nước và xuyên biên giới còn yếu;
+5. thông tin thường là tài liệu mật và nhạy cảm với thị trường, nên không được công khai hoặc phải mua từ dịch vụ tư nhân.
+
+Hệ quả là số liệu về số vụ tấn công thiếu nhất quán, vì mỗi nơi phân loại khác nhau về việc thế nào mới tính là một sự cố mạng. Vì vậy các cơ quan xây dựng chuẩn quốc tế đang cố lập một từ điển mạng chung và hội tụ cách báo cáo sự cố.
+
+**Bối cảnh từ nghiên cứu trước.** Báo cáo Ổn định Tài chính Toàn cầu của IMF (2024) cho thấy gần một phần năm sự cố mạng được báo cáo giai đoạn 2004–2023 tác động tới khu vực tài chính. Ngân hàng bị nhắm thường xuyên nhất, rồi tới công ty bảo hiểm và công ty quản lý tài sản. Số vụ tấn công mạng đã gần gấp đôi so với trước đại dịch. Tuy vậy rất ít quốc gia có báo cáo về bức tranh mối đe doạ chung, và càng ít nơi có báo cáo riêng cho khu vực tài chính.
+
+**Quan tâm của công chúng.** Bài dùng Google Trends giai đoạn 2014–2024 (kỳ có nhiều lượt tìm nhất được gán giá trị 100, các kỳ khác tính tương đối). Lượt tìm "cyber attack" có các đỉnh nhọn trùng với các sự kiện lớn: Sony, JP Morgan (9/2014), Dyn, WannaCry (đỉnh khoảng 100), SolarWinds, Colonial Pipeline, Expeditors, ICBC (11/2023), và Change Healthcare (đỉnh cuối cũng khoảng 100). Lượt tìm "payment fraud" và "cyber fraud" cùng có xu hướng đi lên.
+
+**Khung phân tích.** Bài xem xét ba loại rủi ro lồng vào nhau:
+
+| Loại | Nhắm vào | Ai báo cáo |
+|---|---|---|
+| Sự cố mạng | tổ chức tài chính | dữ liệu công khai về sự cố |
+| Gian lận có yếu tố mạng | công chúng rộng | nạn nhân trình báo cơ quan thực thi pháp luật |
+| Gian lận liên quan thanh toán | công chúng rộng | định chế được quản lý báo cáo cơ quan quản lý tài chính |
+
+Ghép ba nguồn lại cho ra bức tranh mối đe doạ và xu hướng của một thập kỷ.
 
 ### 2. Dữ liệu và phương pháp
 
-- Ba nguồn: cơ sở dữ liệu CISSM, dữ liệu UNODC về gian lận có yếu tố mạng, và thống kê gian lận thanh toán của một số cơ quan quốc gia.
-- CISSM dựa trên một từ điển phân loại chia sự cố thành hai mục tiêu chính là gây gián đoạn và khai thác thông tin, mỗi loại có năm tiểu loại, với tổ chức được mã hoá theo NAICS. Bài điều chỉnh bằng cách tách các sự cố loại hỗn hợp và bỏ các sự cố không xác định.
-- UNODC phân biệt tội phạm phụ thuộc mạng với tội phạm có yếu tố mạng; bài dùng loại thứ hai. Dù 60 nước đã báo cáo, chỉ 13 nước có đủ dữ liệu mười năm.
-- Bốn hạn chế được nêu rõ: cách dùng thuật ngữ, tính ước lượng của số liệu toàn cầu cùng tình trạng không trình báo, rủi ro khi so sánh giữa các nước, và việc không thể phân tích nhân quả giữa ba nguồn.
+**Nguồn thứ nhất: Cơ sở dữ liệu Sự cố Mạng CISSM (Đại học Maryland).** Cơ sở dữ liệu này dựa trên định nghĩa sự cố mạng nêu ở phần Khái niệm, và chia sự cố theo hai mục tiêu chính, mỗi mục tiêu có năm tiểu loại:
+
+| Gây gián đoạn | Khai thác, đánh cắp thông tin |
+|---|---|
+| thao túng thông điệp (gồm bôi nhọ website) | khai thác cảm biến |
+| từ chối dịch vụ từ bên ngoài | khai thác máy chủ đầu cuối |
+| từ chối dịch vụ từ bên trong | khai thác hạ tầng mạng |
+| tấn công dữ liệu | khai thác máy chủ ứng dụng |
+| tấn công vật lý | khai thác dữ liệu đang truyền |
+
+Đối tượng bị khai thác gồm dữ liệu khách hàng, sở hữu trí tuệ, thông tin an ninh quốc gia mật và các chi tiết nhạy cảm về tổ chức. Mỗi sự cố được mã hoá theo ngày, loại sự cố, loại tổ chức bị tấn công (theo Hệ thống Phân loại Ngành Bắc Mỹ NAICS), mô tả và nguồn tin.
+
+Bài điều chỉnh dữ liệu gốc: cơ sở dữ liệu ghi 13.407 sự cố giai đoạn 2014–2023; bài tách các sự cố thuộc loại hỗn hợp thành từng loại riêng (ví dụ một vụ vừa là "tấn công dữ liệu" vừa là "khai thác máy chủ ứng dụng" được đếm thành hai) và bỏ các sự cố "không xác định", được 14.055 sự cố. Hạn chế: có thể bỏ sót các sự cố chỉ được đưa tin bằng ngôn ngữ bản địa; dữ liệu không kịp thời và thiếu chi tiết kỹ thuật về chiến thuật, kỹ thuật và quy trình mà tội phạm dùng. Về uy tín, bộ dữ liệu đã được ngân hàng trung ương Nhật Bản, Tây Ban Nha, Đức, Ngân hàng Trung ương châu Âu (ECB), Cơ quan Chứng khoán và Thị trường châu Âu (ESMA), Viện Tiêu chuẩn và Công nghệ Quốc gia Mỹ (NIST), Ngân hàng Thế giới và IMF sử dụng.
+
+**Nguồn thứ hai: UNODC, gian lận có yếu tố mạng.** Số liệu được Văn phòng Liên Hợp Quốc về Ma tuý và Tội phạm thu thập từ các cơ quan quốc gia qua Khảo sát Xu hướng Tội phạm hằng năm, theo phương pháp của Phân loại Tội phạm Quốc tế cho Mục đích Thống kê (ICCS). ICCS phân biệt tội phạm phụ thuộc mạng với tội phạm có yếu tố mạng, và bài dùng loại thứ hai. Gian lận được định nghĩa là chiếm đoạt tiền hoặc lợi ích khác, hoặc né tránh nghĩa vụ, bằng lừa dối hoặc hành vi bất lương; nó được tính là "có yếu tố mạng" nếu việc dùng dữ liệu hoặc hệ thống máy tính là một phần không thể tách rời của thủ đoạn. Hạn chế nghiêm trọng: 60 quốc gia đã báo cáo, nhưng tới tháng 4/2025 chỉ 13 nước có đủ dữ liệu mười năm để nghiên cứu xu hướng.
+
+**Nguồn thứ ba: gian lận thanh toán.** Số liệu chính thức từ Canada, Liên minh châu Âu, Ấn Độ, Anh và Mỹ.
+
+**Bốn hạn chế bài tự nêu.**
+
+1. Thuật ngữ "gian lận có yếu tố mạng" của UNODC được dùng thay thế cho "gian lận số" của Uỷ ban Basel về Giám sát Ngân hàng (BCBS).
+2. Số liệu toàn cầu chỉ là ước tính thô; vấn đề chung là người bị hại không trình báo hoặc ít trình báo.
+3. So sánh giữa các nước phải rất thận trọng, vì khác nhau về định nghĩa pháp lý của tội danh, cách đếm và ghi nhận, và tỷ lệ trình báo.
+4. Không thể phân tích quan hệ nhân quả giữa ba nguồn dữ liệu, dù chúng có thể có quan hệ qua lại. Ví dụ bài nêu: ở một số nước, sự cố trong ngành ngân hàng có thể bắt nguồn từ rò rỉ dữ liệu ở một hệ thống đăng ký quốc gia, nơi thông tin cá nhân bị đánh cắp rồi bán trên dark web; việc đó làm tổn hại việc dùng thanh toán số của khách hàng các ngân hàng bị ảnh hưởng.
 
 ### 3. Sự cố mạng
 
-- Trong tổng số sự cố, năm ngành bị nhắm nhiều nhất là hành chính công, y tế, công nghệ thông tin, giáo dục và tài chính. Khai thác chiếm đa số, chủ yếu qua máy chủ ứng dụng.
-- Trong khu vực tài chính, trung gian tín dụng và chứng khoán chiếm phần lớn; tỷ lệ khai thác cao hơn mức chung của nền kinh tế. Ngân hàng trung ương là ngoại lệ với phần lớn là tấn công từ chối dịch vụ.
-- Về địa lý, Mỹ nổi bật, tiếp đến là Bắc Mỹ, Tây Âu, Đông Á và một phần Nam Á; các nước mới nổi và đang phát triển báo cáo ít hơn hẳn.
-- Với ngân hàng trung ương, ba đặc điểm: số vụ thấp nhưng có thể bị báo cáo thiếu với một đỉnh bất thường năm 2016; các nước mới nổi bị nhắm nhiều hơn do khung chính sách và nhân lực yếu; và tấn công vào hệ thống thanh toán liên ngân hàng có thể lan sang kinh tế thực qua ba kênh niềm tin, thanh khoản và sức chịu đựng vận hành.
-- Với trung gian tín dụng, ba phát hiện: khoảng cách giữa G-SIB và ngân hàng còn lại, vai trò của bên thứ ba trong rò rỉ dữ liệu, và ảnh hưởng ngày càng lớn của căng thẳng địa chính trị.
-- Với chứng khoán, ba đặc điểm: khả năng góp phần gây biến động thị trường, việc nhắm vào các đầu mối hệ thống giá trị cao, và làn sóng rủi ro mới từ hệ sinh thái tài sản số.
-- Với bảo hiểm, đặc trưng là rò rỉ dữ liệu nhạy cảm có giá trị cao trên dark web, và khác biệt về nguồn gốc rò rỉ giữa nhân thọ và phi nhân thọ do khác biệt cấu trúc kinh doanh.
-- Với quỹ và tín thác, tỷ trọng thấp phản ánh hạn chế trong công bố và bề mặt tấn công nhỏ, nhưng rủi ro đang mở rộng theo việc quỹ hưu trí tiếp cận thị trường tài sản mã hoá.
-- Với nhà cung cấp dịch vụ công nghệ thông tin, hai đường xu hướng tách nhau từ 2021, và các vụ như Cloudflare cho thấy đường truyền dẫn kỹ thuật từ nhà cung cấp vào hệ thống tài chính.
+**Toàn cảnh.** Trong 14.055 sự cố ở 162 nước và 20 ngành, năm ngành bị nhắm nhiều nhất là:
+
+| Ngành | Số sự cố | Tỷ trọng |
+|---|---|---|
+| Hành chính công | 2.646 | 18,83% |
+| Y tế và trợ giúp xã hội | 1.877 | 13,35% |
+| Thông tin (công nghệ thông tin và truyền thông) | 1.446 | 10,29% |
+| Dịch vụ giáo dục | 1.379 | 9,81% |
+| Tài chính và bảo hiểm | 1.246 | 8,87% |
+
+Tính trên toàn bộ các ngành, khai thác chiếm 54% và gián đoạn 46%. Các phương thức lớn nhất là khai thác máy chủ ứng dụng (40,41%, lớn nhất tuyệt đối), từ chối dịch vụ từ bên ngoài (11,38%), khai thác máy chủ đầu cuối (11,21%) và thao túng thông điệp (8,89%).
+
+**Khu vực tài chính theo tiểu ngành.** Trong 1.115 sự cố tài chính phân loại được vào tiểu ngành:
+
+| Tiểu ngành (mã NAICS) | Số sự cố | Tỷ trọng | Phương thức nổi bật |
+|---|---|---|---|
+| 521 Cơ quan tiền tệ, ngân hàng trung ương | 41 | 3,68% | từ chối dịch vụ từ bên ngoài 58,54% |
+| 522 Trung gian tín dụng | 514 | 46,10% | khai thác máy chủ ứng dụng 43,77% |
+| 523 Chứng khoán, hợp đồng hàng hoá | 367 | 32,91% | khai thác máy chủ ứng dụng 57,22% |
+| 524 Bảo hiểm | 175 | 15,70% | khai thác máy chủ ứng dụng 59,43%; tấn công dữ liệu 25,14% |
+| 525 Quỹ, tín thác | 18 | 1,61% | khai thác máy chủ ứng dụng 66,67% |
+
+Trung gian tín dụng (ngân hàng và các tổ chức nhận tiền gửi, cho vay) và chứng khoán chiếm gần 80% số sự cố. Khu vực tài chính bị khai thác nhiều hơn mức chung của nền kinh tế: khai thác 66% so với 54%, gián đoạn 34% so với 46%, khai thác máy chủ ứng dụng 50,04% so với 40,41%. Nói cách khác, kẻ tấn công nhắm vào tài chính chủ yếu để lấy dữ liệu và tiền. Ngoại lệ rõ rệt là ngân hàng trung ương, nơi phần lớn là tấn công từ chối dịch vụ (58,54%): mục tiêu là gây gián đoạn và gây chú ý, không phải đánh cắp dữ liệu.
+
+**Ngành thông tin.** Bài phân tích riêng ngành này (1.414 sự cố, khoảng 10% tổng số):
+
+| Tiểu ngành | Số sự cố | Tỷ trọng |
+|---|---|---|
+| Hạ tầng điện toán, xử lý dữ liệu, lưu trữ web | 338 | 23,90% |
+| Phát thanh truyền hình | 324 | 22,91% |
+| Xuất bản và nội dung | 307 | 21,71% |
+| Viễn thông | 296 | 20,93% |
+| Cổng tìm kiếm web, thư viện, lưu trữ | 130 | 9,19% |
+| Điện ảnh và ghi âm | 19 | 1,34% |
+
+Bài quan tâm hai tiểu ngành viễn thông và hạ tầng điện toán, gộp lại gọi là "nhà cung cấp dịch vụ công nghệ thông tin".
+
+**Phân bố địa lý.** Mỹ có 6.479 sự cố, vượt xa mọi nước khác. Các con số lớn tiếp theo (đọc trên bản đồ) là khoảng 370, 345, 316, 251, 156, 149, 145, 128, 98, 80. Mục tiêu chính nằm ở Bắc Mỹ, Tây Âu, Đông Á và một phần Nam Á. Bài giải thích đây là các trung tâm tài chính toàn cầu, có thị trường tài chính lớn và tăng nhanh, nhiều sản phẩm tài chính số, và hạ tầng công cộng số ngày càng phức tạp. Thị trường mới nổi và nước đang phát triển báo cáo ít hơn hẳn, nhưng bài lưu ý đây có thể là vấn đề báo cáo chứ không phải mức phơi nhiễm.
+
+**Diễn biến theo thời gian** (số đọc trên hình, xấp xỉ):
+
+| Năm | Tổng toàn cầu | Khu vực tài chính |
+|---|---|---|
+| 2014 | ~600 | ~35 |
+| 2016 | ~1.100 | ~90 |
+| 2017–2018 | chững ở ~800 | ~85 (2018) |
+| 2019 | ~1.000 | |
+| 2020 | ~1.750 | ~135 |
+| 2021 | ~1.450 | ~88 (sụt) |
+| 2022 | ~2.550 | ~312 |
+| 2023 | ~2.350 | ~312 |
+
+Giáo dục và y tế tăng vọt từ khoảng 2017–2018. Khu vực tài chính tăng đặc biệt mạnh trong năm năm cuối, và tỷ trọng của nó trong tổng số tăng liên tục và nhanh từ 2020, từ 6% năm 2014 lên 13% năm 2023.
+
+**Tiểu ngành 1: ngân hàng trung ương, ít sự cố nhưng hệ trọng (khoảng 4%).** Ngân hàng trung ương ít làm trung gian tài chính trực tiếp (không nhận tiền gửi hay cho vay bán lẻ), nhưng giữ vai trò trung tâm trong vận hành và giám sát hạ tầng tài chính then chốt: hệ thống thanh toán, cơ chế quyết toán, công cụ cấp thanh khoản. Khảo sát của Mendez-Barreira và Popowicz (2022) cho thấy rủi ro mạng có mức tăng mạnh nhất về tầm quan trọng cảm nhận trong tất cả các loại rủi ro mà ngân hàng trung ương theo dõi.
+
+Bài nêu ba đặc điểm.
+
+*Đặc điểm 1: ít và ổn định, trừ một đỉnh.* Bình quân khoảng 3 sự cố mỗi năm trong 9/10 năm. Ngoại lệ là năm 2016, khi số sự cố vọt lên 18. Nguyên nhân: tháng 5/2016, trong chiến dịch "Operation Icarus" kéo dài một tháng của nhóm Anonymous, các hacktivist (tin tặc hành động vì mục tiêu chính trị xã hội) tấn công DDoS vào website của nhiều ngân hàng trung ương ở châu Âu, Mỹ Latinh, châu Phi và châu Á, và tuyên bố công khai đây là phản kháng chống bất công kinh tế.
+
+Bài đưa ra hai cách giải thích cho việc số liệu thấp. Thứ nhất, ngân hàng trung ương có quản trị và khung an ninh mạng tương đối mạnh, nhất là so với các định chế nhỏ mà họ giám sát; họ diễn tập mạng nội bộ và tăng đầu tư an ninh mạng, dù khảo sát của BIS (Doerr và cộng sự 2022) vẫn chỉ ra các khoảng trống quan trọng. Thứ hai, ngân hàng trung ương có ít động lực hoặc nghĩa vụ công bố sự cố: rất ít nước có yêu cầu pháp lý về công bố, và ngân hàng trung ương lo ngại tổn hại danh tiếng cùng mất niềm tin công chúng.
+
+*Đặc điểm 2: thị trường mới nổi bị nhắm nhiều hơn.* 58% sự cố (22 vụ) xảy ra ở thị trường mới nổi và nước đang phát triển, so với 42% (16 vụ) ở nước phát triển. Nguyên nhân là khung chính sách an ninh mạng chưa phát triển, thiếu cơ chế pháp lý, quản lý và thể chế toàn diện. Khảo sát của IMF (2024) cho thấy tới 2023, chưa tới một nửa ngân hàng trung ương và cơ quan giám sát ở nhóm này có chiến lược an ninh mạng quốc gia tập trung vào khu vực tài chính, và khung giám sát cùng kiểm tra sức chịu đựng mạng mới chỉ triển khai một phần. Theo Ngân hàng Thế giới (2023), khoảng trống nhân lực an ninh mạng toàn cầu ở mức kỷ lục, và nước đang phát triển thiếu hụt nặng nhất. Điều này tạo ra vòng luẩn quẩn: thiếu khung chính sách và thiếu chuyên gia khiến tội phạm mạng coi các nước này là môi trường "rủi ro thấp, lợi nhuận cao", nơi răn đe pháp lý và kỹ thuật yếu hơn trong khi vẫn thu được nhiều qua mã độc tống tiền, rò rỉ dữ liệu và gian lận tài chính.
+
+*Đặc điểm 3: rủi ro hệ thống qua hệ thống thanh toán.* Năm 2023, một nước ở miền nam châu Phi bị gián đoạn hoạt động thanh toán liên ngân hàng cấp quốc gia hơn một tuần. Ngân hàng trung ương báo cáo không có tổn thất tài chính quan sát được, nhưng việc hệ thống thanh toán ngừng hoạt động có khả năng làm trầm trọng các điểm yếu hệ thống và lan sang kinh tế vĩ mô. Bài vạch ba kênh lan truyền sang kinh tế thực:
+
+1. **Mất niềm tin:** công chúng nghi ngờ năng lực vận hành của ngân hàng trung ương; nhà đầu tư nước ngoài đánh giá lại uy tín của hệ thống tài chính; ở thị trường mới nổi, điều này còn có thể tác động tới cầu tiền (người dân muốn giữ tiền nội tệ đến đâu).
+2. **Căng thẳng thanh khoản:** ngân hàng trung ương không thanh toán bù trừ được với ngân hàng thương mại, chuyển khoản liên ngân hàng bị đình chỉ, dẫn tới chậm trả lương và đổ vỡ quyết toán diện rộng.
+3. **Sức chịu đựng vận hành hạn chế:** rõ nhất ở nước đang phát triển, nơi thiếu hệ thống dự phòng và khung ứng phó.
+
+Ba cơ chế này tương tác với nhau và có thể dẫn tới suy giảm kinh tế diện rộng. Eisenbach và cộng sự (2023) chỉ ra rằng gián đoạn xảy ra khi điều kiện tài chính đang căng thẳng sẽ được khuếch đại mạnh hơn nhiều.
+
+**Tiểu ngành 2: trung gian tín dụng, đông nhất (46%).** Số sự cố tăng suốt thập kỷ và vọt hẳn sau đại dịch: khoảng 18 (2014), 47 (2016), 50 (2020), sụt còn 30 (2021), rồi 120 (2022) và 124 (2023). Nguyên nhân là đại dịch đẩy nhanh việc cá nhân chuyển sang tiếp cận dịch vụ ngân hàng qua kênh số. Bài có ba phát hiện.
+
+*Phát hiện 1: G-SIB chỉ chiếm 13%.* 13% sự cố liên quan tới G-SIB, 87% tới các ngân hàng khác. Bài cẩn trọng rằng khác biệt này có thể phản ánh khác biệt về mức phơi nhiễm, thực hành báo cáo, quy mô và phân bổ nguồn lực, chứ không chỉ khác biệt về sức chống chịu. Nhưng lý giải chính của bài là ngân hàng không phải G-SIB đầu tư ít hơn vào an ninh mạng, có ít dự phòng hơn, cơ chế ứng phó kém vững hơn; thu nhập khiêm tốn hạn chế khả năng đầu tư (S&P Global 2025); khung tuân thủ và quản lý nhẹ hơn; và hệ thống công nghệ cũ kỹ hơn. Ngược lại, G-SIB tuy ít sự cố hơn, nhưng vì tầm quan trọng hệ thống nên chỉ một cuộc tấn công thành công cũng có thể gây hậu quả lan rộng.
+
+*Phát hiện 2: rò rỉ dữ liệu qua bên thứ ba.* Nhiều vụ rò rỉ không bắt nguồn từ chính ngân hàng mà từ các đơn vị bên ngoài cung cấp dịch vụ cho ngân hàng: nhà cung cấp công nghệ thông tin, bộ xử lý thanh toán, nhà cung cấp dịch vụ truyền tệp, công ty tiếp thị. Dữ liệu bị lộ gồm tên khách hàng, số an sinh xã hội, chi tiết tài khoản ngân hàng, dữ liệu thẻ và thanh toán. Nguyên nhân gốc là ngân hàng có năng lực hạn chế trong việc theo dõi và quản lý mức độ an toàn mạng của nhà cung cấp. Trường hợp xấu nhất là khi nhà cung cấp ưu tiên các cam kết hợp đồng (thời gian hoạt động, tính năng) hơn trách nhiệm an ninh mạng. Sự lệch pha ưu tiên này tạo ra một điểm yếu cấu trúc, cho phép kẻ tấn công dùng nhà cung cấp như một cửa vào chi phí thấp và ít được phòng thủ để đi vào hệ sinh thái ngân hàng.
+
+*Phát hiện 3: căng thẳng địa chính trị.* Hệ thống ngân hàng là mục tiêu biểu tượng và chiến lược trong thời xung đột; động cơ không phải lợi nhuận mà là mục tiêu chính trị. Mẫu hình điển hình gồm đánh sập website tạm thời, bôi nhọ website kèm thông điệp chính trị, và chiến dịch từ chối dịch vụ. Theo bài, các vụ này nhằm gây gián đoạn khả năng truy cập của công chúng chứ không nhằm xâm phạm hệ thống lõi, cho thấy ý đồ khiêu khích chứ không phải trục lợi. Chúng tuy không gây tổn thất tài chính tức thì nhưng phơi bày các lỗ hổng an ninh mạng trọng yếu.
+
+**Tiểu ngành 3: chứng khoán (33%).** Số sự cố tăng đều: khoảng 7 (2014), 38 (2018), giảm còn 22 (2019), 50 (2020), 33 (2021), 81 (2022) và 70 (2023). Động lực là công nghệ tài chính phát triển nhanh, hệ sinh thái tài sản mã hoá mở rộng, và dịch vụ chứng khoán được số hoá sâu. Tổ chức Quốc tế các Uỷ ban Chứng khoán IOSCO (2016) nhận định rủi ro trải khắp mọi cấu phần của thị trường: tổ chức phát hành, sàn giao dịch, trung gian thị trường, công ty quản lý tài sản, và hạ tầng thị trường tài chính (FMI). Bài nêu ba đặc điểm.
+
+*Đặc điểm 1: góp phần gây biến động thị trường.* Hệ quả của sự cố gồm gián đoạn giao dịch, chậm báo giá, lỗi khớp lệnh, đổ vỡ bù trừ và quyết toán. Những điều đó xói mòn niềm tin nhà đầu tư và khuếch đại dao động ngắn hạn. Khi được truyền thông rộng rãi, tác động có thể lan sang thị trường khác qua tâm lý ngại rủi ro tăng, thanh khoản giảm và giá tài sản bị định lại đột ngột. Bài thừa nhận nghiên cứu thực nghiệm về liên kết nhân quả giữa sự cố mạng và biến động thị trường vẫn ở giai đoạn sớm.
+
+*Đặc điểm 2: nhắm vào các đầu mối hệ thống giá trị cao.* Đó là sàn giao dịch và trung tâm lưu ký chứng khoán (CSD), các hạ tầng làm đầu mối cho khớp lệnh, bù trừ và quyết toán. Chuỗi lan truyền như sau: tấn công mạng vào CSD hoặc sàn, làm gián đoạn hoạt động lõi (khớp lệnh, bù trừ, quyết toán), ảnh hưởng tới các thành viên thị trường (công ty môi giới, tự doanh, định chế lưu ký), rồi tới thị trường rộng hơn. Ví dụ năm 2022: một CSD hàng đầu ở một nước châu Á bị sự cố mã độc; công bố chính thức không xác nhận rò rỉ dữ liệu quy mô lớn hay tổn thất tài chính trực tiếp, nhưng hoạt động hệ thống lõi bị gián đoạn với khả năng tác động tới các bên phía sau.
+
+*Đặc điểm 3: hệ sinh thái tài sản số.* Tài sản mã hoá và tài chính phi tập trung (DeFi) làm số sự cố liên quan tới tiền mã hoá tăng, một số gây tổn thất rất lớn. Ví dụ năm 2023: một nền tảng tiền mã hoá ở một nước Đông Nam Á mất tiền hai lần trong một tuần, khoảng 125 triệu USD và 103 triệu USD; cả hai được cho là do khai thác lỗ hổng máy chủ ứng dụng.
+
+**Tiểu ngành 4: bảo hiểm (16%).** Số sự cố ổn định giai đoạn 2014–2019 (khoảng 5–8 vụ mỗi năm) rồi vọt lên từ 2020: khoảng 21 (2020), 20 (2021), 40 (2022) và 84 (2023). Nguyên nhân một phần là các vụ trước đây chưa được công bố nay mới lộ ra, cộng với việc số hoá dịch vụ bảo hiểm tăng tốc và nhận thức của công chúng về nhu cầu bảo vệ tăng lên trong đại dịch.
+
+Đặc trưng của ngành là dữ liệu bảo hiểm bán được giá cao hơn dữ liệu thẻ tín dụng trên chợ dark web, vì nó có giá trị dài hạn và không thể thay thế, nhất là hồ sơ y tế của khách hàng (Nadrag 2021). Một số thẻ tín dụng bị lộ có thể huỷ và cấp lại; một hồ sơ bệnh án thì không. Điều này khớp với việc ngành y tế và trợ giúp xã hội, nơi lưu lượng lớn dữ liệu y tế nhạy cảm, nằm trong nhóm bị nhắm nhiều nhất.
+
+Khác biệt giữa bảo hiểm nhân thọ và phi nhân thọ nằm ở nguồn gốc rò rỉ:
+
+| Loại | Nguồn rò rỉ thường gặp | Lý do |
+|---|---|---|
+| Nhân thọ | nhà cung cấp bên thứ ba | hợp đồng kéo dài hàng chục năm hoặc cả đời, khó tự quản lý dữ liệu nhạy cảm dài hạn trong nội bộ, nên thuê ngoài lưu trữ và xử lý; khối lượng lớn thông tin giá trị tập trung vào tay các bên thứ ba "vô hình nhưng thiết yếu" |
+| Phi nhân thọ (tài sản và trách nhiệm, P&C) | chính hệ thống của công ty | sản phẩm ngắn hạn, quy trình chuẩn hoá và tự động hơn, xử lý nội bộ nhiều hơn, nên bề mặt tấn công dịch về phía hệ thống nội bộ |
+
+**Tiểu ngành 5: quỹ và tín thác (1%, gần như toàn bộ ở 2022–2023).** Các định chế này quản lý quỹ hưu trí, lưu ký tài khoản nghỉ hưu và phân bổ tài sản dài hạn; chúng là phương tiện chuyển giao của cải giữa các thế hệ. Bài nêu hai lý do khiến tỷ trọng thấp:
+
+1. Hạn chế trong thực hành công bố: nhiều đơn vị hoạt động theo cấu trúc công hoặc phi lợi nhuận, không chịu cùng yêu cầu báo cáo; một số vụ được công bố bởi bên thứ ba (ví dụ Pension Benefit Information) nên không được quy cho quỹ.
+2. Bề mặt tấn công số nhỏ hơn: chu kỳ giao dịch ổn định, khối lượng thấp, ít giao diện với hệ thống bên ngoài, ít tương tác với khách hàng, nên ít hiển thị và ít hấp dẫn kẻ tấn công.
+
+Và hai đặc điểm: rò rỉ dữ liệu nhạy cảm chiếm ưu thế, thường qua bên thứ ba (bộ xử lý dữ liệu, nền tảng truyền tệp), trong khi ngân sách an ninh mạng hạn chế khiến năng lực phòng thủ không đồng đều; và rủi ro mới từ tiền mã hoá. Các quỹ hưu trí vốn rất thận trọng nay quan tâm hơn tới tài sản mã hoá sau khi quỹ ETF tiền mã hoá ra mắt ở Mỹ và giá bitcoin tăng vọt (McDougall và cộng sự 2025). Dù việc tham gia thường là gián tiếp qua công cụ đầu tư hoặc sản phẩm giao dịch trên sàn, công nghệ nền tảng mở ra một dải lỗ hổng rộng hơn: ví số, nền tảng giao dịch, dịch vụ lưu ký.
+
+**Nhà cung cấp dịch vụ công nghệ thông tin: phụ thuộc lẫn nhau.** Giai đoạn 2014–2020, số sự cố ở khu vực tài chính và ở nhà cung cấp công nghệ thông tin đi song song, dao động vừa phải. Từ 2021, hai đường tách nhau: tài chính vọt lên (khoảng 88, rồi 250, rồi 295) trong khi công nghệ thông tin gần như nằm ngang (khoảng 60, rồi 70, rồi 85). Bài giải thích: số hoá tài chính tăng tốc sau đại dịch (ngân hàng số, làm việc từ xa, dịch vụ tài sản ảo) buộc các định chế tài chính truyền thống áp dụng mô hình dịch vụ số trong thời gian ngắn, thường vượt quá khả năng nâng cấp phòng thủ an ninh. Ngược lại, nhà cung cấp công nghệ thông tin, nhất là đám mây và hạ tầng, nhìn chung có năng lực an ninh mạng mạnh hơn.
+
+Ví dụ Cloudflare: công ty này bị gián đoạn nhiều lần năm 2020 và 2022 và chịu các đợt DDoS lặp lại. Cloudflare cung cấp điện toán biên, tường lửa và phân phối nội dung cho khách hàng là ngân hàng, công ty bảo hiểm và nền tảng thanh toán. Đường truyền dẫn là: định chế tài chính phụ thuộc nặng vào các dịch vụ này cho xác thực danh tính, truy cập từ xa, kết nối API (giao diện để các phần mềm trao đổi dữ liệu) và lưu trữ mã nguồn, nên sự cố ở nhà cung cấp có lối kỹ thuật để lan vào hệ thống tài chính, gây gián đoạn dịch vụ, rò rỉ dữ liệu, thậm chí rủi ro hệ thống. Rộng hơn, gián đoạn quy mô lớn ở nhà cung cấp công nghệ thông tin hoặc logistics có thể hoạt động như một cú sốc cung tiêu cực, với hàm ý gây lạm phát do chi phí đẩy, khi chuỗi cung ứng số và chuỗi cung ứng vật lý gắn chặt với nhau.
 
 ### 4. Gian lận số
 
-- Gian lận có yếu tố mạng tăng gần ba lần trong mười năm, với cú nhảy trong đại dịch, được cho là do các trung tâm lừa đảo quy mô công nghiệp của tội phạm xuyên quốc gia.
-- Nghiên cứu ngành bổ sung cho thống kê chính thức với con số tổn thất toàn cầu khoảng một nghìn tỷ đô la và tỷ lệ tổn thất trên GDP rất cao ở một số nước đang phát triển.
-- Số vụ tăng theo thu nhập quốc gia và theo giá trị tiền gửi ngân hàng, trong khi các nước phát triển chịu thiệt hại cá nhân lớn hơn còn các nước đang phát triển mất tỷ lệ GDP cao hơn.
-- Ba khu vực cho thấy ba nhịp độ khác nhau, với châu Á tăng nhanh nhất, châu Âu tăng vừa phải và Bắc Mỹ tăng mạnh; tình trạng không trình báo rất nghiêm trọng ở cả Singapore và Canada.
-- Về gian lận thanh toán, năm bức tranh quốc gia cho thấy chuyển khoản và thẻ chiếm phần lớn giá trị, tiền mã hoá là loại tăng nhanh nhất, và thanh toán tức thì là nguồn lo ngại mới ở cả châu Âu lẫn Ấn Độ.
-- Anh là nước đầu tiên áp dụng bồi hoàn bắt buộc cho nạn nhân gian lận thanh toán do chính họ uỷ quyền, còn Ấn Độ triển khai đăng ký gian lận trung ương và mô hình học máy phát hiện tài khoản lừa.
+**Xu hướng toàn cầu của gian lận có yếu tố mạng** (số vụ, đọc trên hình):
+
+| Năm | Số vụ |
+|---|---|
+| 2013 | khoảng 950 nghìn |
+| 2016 | khoảng 1.350 nghìn |
+| 2019 | khoảng 1.750 nghìn |
+| 2020 | khoảng 2.450 nghìn (nhảy vọt do COVID) |
+| 2021 | khoảng 2.450 nghìn |
+| 2022 | khoảng 2.500 nghìn |
+
+Tức số vụ tăng gần ba lần trong mười năm, với cú nhảy lớn trong đại dịch. UNODC (2025) giải thích bằng sự sinh sôi của gian lận và của các trung tâm lừa đảo quy mô công nghiệp do tổ chức tội phạm xuyên quốc gia điều hành. Các con số phải được đọc như ước tính: ở nhiều nước nạn nhân không trình báo; một số nơi chỉ báo cáo một phần hoặc không báo cáo cho UNODC, nên không quan sát được xu hướng ở châu Phi và Trung Đông. Khảo sát 12 nước của Houtti và cộng sự (2024) cũng thấy tình trạng không trình báo diện rộng.
+
+**Nghiên cứu ngành bổ sung cho thống kê chính thức.** Theo Liên minh Chống Lừa đảo Toàn cầu (GASA), tổn thất do lừa đảo trên toàn cầu khoảng một nghìn tỷ USD năm 2024. Với một số nước đang phát triển, tổn thất ước khoảng 2,5% tới 4,2% GDP. Để so sánh, một nước có GDP 400 tỷ USD mất 2,5% GDP nghĩa là mất khoảng 10 tỷ USD mỗi năm (phép tính minh hoạ).
+
+**Hai tương quan vĩ mô.**
+
+1. Số vụ tăng theo thu nhập quốc gia. Trên 38 nước, đường khớp giữa số vụ và GDP bình quân đầu người tính theo sức mua (PPP) dốc lên rõ, từ gần 0 tới khoảng 370 vụ trên 100.000 dân khi GDP bình quân đầu người đi từ 0 tới 150.000 USD, với vài giá trị ngoại lai. Kết quả khớp với GASA: nước phát triển chịu thiệt hại tính trên mỗi cá nhân lớn hơn, nhưng thị trường mới nổi và nước đang phát triển mất tỷ lệ GDP cao hơn. Bài cảnh báo khác biệt này có thể do nước đó có hay không có cơ chế báo cáo tập trung.
+2. Số vụ tăng theo giá trị tiền gửi ngân hàng (% GDP). Lý do dùng tiền gửi: tiền gửi là "kho tiền" cho các dịch vụ thanh toán và quyết toán dựa trên tài khoản do tổ chức tín dụng cung cấp; nhiều tiền gửi hơn nghĩa là nhiều thứ để lừa lấy hơn. Các thước đo thay thế có thể dùng là M1, tiền mặt lưu thông, tiền gửi tại ngân hàng trung ương, tiền gửi liên ngân hàng và tín dụng trong ngày.
+
+**Ba khu vực, ba nhịp độ.**
+
+*Châu Á tăng nhanh.* Singapore từ gần 0 lên khoảng 25.000 vụ; Ấn Độ từ khoảng 5.000 lên khoảng 63.000; Macao (vẽ theo trục phải) từ khoảng 180 lên khoảng 600. Báo cáo Lừa đảo châu Á của GASA ước tác động kinh tế ở 13 nước là 688 tỷ USD năm 2024, dựa trên khảo sát 24.731 người ở Trung Quốc, Hong Kong, Ấn Độ, Indonesia, Nhật Bản, Malaysia, Pakistan, Philippines, Singapore, Hàn Quốc, Đài Loan, Thái Lan và Việt Nam.
+
+- Singapore: 28.751 vụ với tổn thất khoảng 385 triệu SGD chỉ trong nửa đầu 2024. 65% người Singapore gặp lừa đảo ít nhất mỗi tháng một lần, và 68% nạn nhân chọn không trình báo. Tới 2025, tổng số vụ và tổn thất đã giảm.
+- Ấn Độ: 65.893 vụ tội phạm mạng, trong đó 26,5% (17.470 vụ) liên quan tới gian lận.
+- Trung Quốc đại lục: không có dữ liệu, nên bài dùng Macao làm xấp xỉ. Theo đưa tin, năm 2023 Bộ Công an Trung Quốc đã phá 437.000 vụ lừa đảo qua mạng viễn thông.
+
+*Châu Âu tăng vừa phải.* Đức từ khoảng 180 lên khoảng 245 nghìn vụ; Ý từ khoảng 25 lên 120 rồi xuống khoảng 100 nghìn; Ba Lan từ khoảng 15 lên khoảng 90 nghìn. Europol (2024) cho biết hàng triệu nạn nhân khắp EU bị tấn công và khai thác mỗi ngày. Cơ quan An ninh mạng EU (ENISA, 2024) phân tích 488 sự cố công khai ảnh hưởng tới khu vực tài chính châu Âu và thấy ngân hàng chiếm 46%.
+
+*Bắc Mỹ tăng mạnh.* Mỹ từ khoảng 280 lên khoảng 900 nghìn vụ; Canada (trục phải) từ khoảng 7 lên khoảng 40 nghìn. Trung tâm Khiếu nại Tội phạm Internet của FBI (IC3), từ khi thành lập năm 2000, đã nhận hơn 9 triệu khiếu nại, bình quân hơn 2.000 khiếu nại mỗi ngày. Khiếu nại liên quan tới tiền mã hoá (bitcoin, ether, tether) tăng trong 2017–2023, và tăng mạnh hơn trong 2021–2023. Ở Canada, Trung tâm Chống Gian lận (CAFC) nhận hơn 91.000 báo cáo năm 2022 nhưng lưu ý chỉ 5–10% vụ gian lận và tội phạm mạng được trình báo, và kêu gọi một cách tiếp cận "toàn xã hội".
+
+**Gian lận thanh toán: hai góc nhìn.** Ở góc bán buôn, gian lận thanh toán gắn với an ninh của các điểm cuối kết nối vào hệ thống thanh toán giữa các ngân hàng, và có hàm ý ổn định tài chính (Uỷ ban Thanh toán và Hạ tầng Thị trường CPMI 2018, 2019). Ở góc bán lẻ, đó là gian lận số qua chuyển khoản, thẻ hoặc công cụ khác, gây tổn thất tài chính cho ngân hàng và rủi ro danh tiếng cho cả ngân hàng lẫn cơ quan giám sát (BCBS 2023). BCBS chia gian lận số thành bốn nhóm: (i) giao dịch thanh toán bán lẻ trái phép; (ii) thao túng để khách hàng tự thực hiện thanh toán; (iii) gian lận liên quan tới các sản phẩm ngân hàng khác; (iv) gian lận qua dữ liệu khách hàng hoặc hệ thống ngân hàng. Theo UNODC (2024), hạ tầng thanh toán và chuyển tiền là đường dẫn quan trọng cho tội phạm có tổ chức xuyên quốc gia, qua mạng lưới tài khoản lừa, các nhà cung cấp dịch vụ tài sản ảo, và ứng dụng thanh toán bên thứ ba do chính tội phạm lập và kiểm soát.
+
+**Năm bức tranh quốc gia.**
+
+*Canada: chuyển khoản điện tử dẫn đầu, tiền mã hoá tăng nhanh nhất.* Tổn thất do gian lận tăng từ khoảng 95 triệu CAD (2018) lên 140 triệu (2020), 350 triệu (2021) và khoảng 500 triệu CAD (2022); lời văn của bài cũng có chỗ ghi 530 triệu cho cùng năm. Tổn thất qua tiền mã hoá tăng nhanh hơn hẳn: 8,2 triệu (2019), 22,5 triệu (2020), gần 126 triệu CAD (2022), tức gấp hơn 15 lần trong ba năm. Chuyển khoản điện tử vẫn là phương thức hàng đầu, và chuyển tiền nhanh qua email (e-transfer) cũng tăng.
+
+*Châu Âu (Khu vực Kinh tế châu Âu EEA): chuyển khoản áp đảo.* Giá trị giao dịch gian lận là 4,3 tỷ EUR năm 2022 và khoảng 2 tỷ EUR trong nửa đầu 2023; cơ quan chức năng đánh giá triển vọng chung là "tạm ổn định". Cơ cấu nửa đầu 2023:
+
+| Phương thức | Tỷ trọng giá trị gian lận |
+|---|---|
+| Chuyển khoản | 57% |
+| Thẻ (phía bên phát hành) | 32% |
+| Ghi nợ trực tiếp | 5% |
+| Rút tiền mặt | 3% |
+| Tiền điện tử | 3% |
+
+Gian lận thẻ đã giảm nhờ xác thực khách hàng mạnh (SCA, yêu cầu hai yếu tố như mật khẩu và mã gửi về điện thoại) và mã bảo mật thẻ; trước đó gian lận thẻ là vấn đề lớn vì công nghệ dải từ dễ bị sao chép. Các biện pháp hiệu quả khác gồm hạn mức thanh toán theo ngày, xác minh tên người nhận trước khi chuyển, và giám sát gian lận tốt hơn. Hiệp hội Ngân hàng Euro đã xây từ điển phân loại gian lận cho các kịch bản chuyển từ tài khoản tới tài khoản và gian lận thẻ. Lo ngại đang lên là gian lận trong thanh toán tức thì có tỷ lệ cao hơn hẳn chuyển khoản truyền thống, kèm các thủ đoạn phức tạp hơn dựa trên kỹ thuật xã hội (thao túng tâm lý nạn nhân). EU đang cân nhắc siết khung pháp lý qua Chỉ thị Dịch vụ Thanh toán 3 và Quy định Hệ thống Thanh toán.
+
+*Ấn Độ: thẻ và internet chiếm phần lớn.* Tỷ trọng số vụ gian lận qua thẻ và internet tăng từ khoảng 5% (2005) lên khoảng 82% (2024). Tổn thất bùng lên khoảng 14.500 triệu INR trong năm tài khoá kết thúc tháng 3/2024, trùng với sự trỗi dậy của thanh toán tức thì. Tới tháng 3/2025, gian lận trực tuyến đã giảm. Ấn Độ áp dụng bốn biện pháp:
+
+1. hướng dẫn của ngân hàng trung ương;
+2. Đăng ký Thông tin Gian lận Thanh toán Trung ương;
+3. mô hình trí tuệ nhân tạo và học máy giúp ngân hàng phát hiện tài khoản lừa;
+4. đề xuất bồi thường cho khách hàng bị gian lận số giá trị nhỏ (tính tới 2/2026).
+
+Bài lưu ý vụ gian lận báo cáo trong một năm có thể đã xảy ra nhiều năm trước, và số tiền là số báo cáo, không phản ánh tổn thất thực.
+
+*Anh: tiên phong về bồi hoàn.* Tổn thất gộp từ gian lận là 1.205 triệu GBP (2020), 1.314 triệu (2021) và 1.212 triệu GBP (2022). Các loại thanh toán bị lợi dụng gồm Faster Payments (chuyển khoản nhanh), CHAPS (chuyển khoản giá trị lớn), BACS (thanh toán theo lô), chuyển khoản nội bộ ngân hàng và chuyển khoản quốc tế. Với gian lận APP, số vụ tăng 12% so với 2022 nhưng tổn thất giảm 12% cùng kỳ. 77% gian lận APP nửa đầu 2023 bắt nguồn trực tuyến, qua website giả và mạng xã hội. Anh là nước đầu tiên trên thế giới áp dụng cơ chế bồi hoàn bắt buộc cho nạn nhân gian lận APP trong một số trường hợp. Đi kèm là các cải cách lập pháp: Dự luật An toàn Trực tuyến (Online Safety Bill), Luật Dịch vụ và Thị trường Tài chính (Financial Services and Markets Act), và Dự luật Tội phạm Kinh tế và Minh bạch Doanh nghiệp (Economic Crime and Corporate Transparency Bill).
+
+*Mỹ: thẻ và thanh toán điện tử.*
+
+| Năm | Tổn thất gian lận thanh toán (triệu USD, xấp xỉ) | Tổn thất tội phạm internet báo cáo cho IC3 (tỷ USD, xấp xỉ) |
+|---|---|---|
+| 2014 | | ~0,8 |
+| 2020 | ~1.500 | ~4 |
+| 2021 | ~3.000 | |
+| 2022 | ~4.600 | ~10,5 |
+| 2023 | ~5.000 | ~12,5 |
+| 2024 | ~5.400 | 16,6 |
+
+Gian lận có yếu tố mạng chiếm khoảng 83% toàn bộ tổn thất báo cáo cho IC3 năm 2024. Loại tội phạm lớn nhất là lừa đảo đầu tư, nhất là đầu tư tiền mã hoá; lừa đảo đầu tư nhắm vào người cao tuổi vẫn là loại tốn kém nhất về tài chính. Nghiên cứu của Cục Dự trữ Liên bang (2018) cho thấy giai đoạn 2012–2015, tỷ lệ gian lận tổng hợp tăng cả về giá trị lẫn số lượng; thẻ tăng tỷ trọng trong tổng giá trị gian lận; gian lận dịch chuyển từ trực tiếp (có mặt thẻ) sang từ xa (mua hàng trực tuyến); và việc dùng thẻ chip cùng thanh toán thẻ có xác thực tăng lên.
+
+Vấn đề còn lại là tỷ lệ tổn thất khi có mặt thẻ vẫn cần xử lý, nhất là trên mạng hai thông điệp so với mạng một thông điệp:
+
+| Loại mạng | Cách vận hành | Xác thực chủ thẻ |
+|---|---|---|
+| Hai thông điệp | gửi hai thông điệp riêng cho cấp phép và cho bù trừ; dùng chung hạ tầng với mạng thẻ tín dụng | chữ ký |
+| Một thông điệp | một thông điệp cho cả hai việc; xuất phát từ mạng ATM | mã PIN |
+
+Chữ ký dễ giả mạo hơn mã PIN, nên mạng hai thông điệp chịu tổn thất cao hơn. Bài cũng lưu ý mối liên hệ với tiền mã hoá: dòng tiền gian lận dịch chuyển giữa tài sản mã hoá và hệ thống tài chính truyền thống, ví dụ qua rút tiền mặt tại sàn hoặc tại máy kiosk tiền mã hoá.
 
 ### 5. Kết luận
 
-- Sự cố mạng trong khu vực tài chính đã tăng rất mạnh và phân bố không đồng đều cả về thể chế lẫn địa lý, với rò rỉ dữ liệu là kết cục phổ biến nhất và căng thẳng địa chính trị ngày càng định hình động cơ tấn công.
-- Về gian lận số, các nước đã triển khai tám nhóm hành động từ củng cố cơ sở pháp lý, xây chiến lược quốc gia và từ điển phân loại, tới loại bỏ tài khoản lừa, lập trung tâm chống lừa đảo và hợp tác liên ngành.
-- Hàm ý ổn định tài chính gồm tổn thất cho ngân hàng và rủi ro danh tiếng cho cả ngân hàng lẫn cơ quan giám sát; với thanh toán số và tài sản mã hoá tăng nhanh cùng dòng tiền xuyên biên giới, diễn biến tương lai cần được theo dõi sát.
+**Hai con số tổng kết thập kỷ.** Theo bài, sự cố mạng ở khu vực tài chính tăng gấp mười lần (theo các số đọc trên hình là từ khoảng 35 lên khoảng 312, tức gần chín lần), còn gian lận có yếu tố mạng tăng gần ba lần.
+
+**Về sự cố mạng, bốn quan sát.**
+
+1. Sự cố tăng rõ rệt, do số hoá tăng tốc và do sự phụ thuộc ngày càng lớn vào các hệ thống kết nối lẫn nhau.
+2. Phân bố rất không đồng đều cả về thể chế lẫn địa lý: ngân hàng không phải G-SIB chiếm đa số sự cố, cho thấy khoảng trống về mức sẵn sàng ở các định chế nhỏ, ít nguồn lực.
+3. Nền kinh tế phát triển và số hoá cao báo cáo nhiều sự cố hơn, phản ánh phơi nhiễm lớn hơn, tích hợp số sâu hơn, và cả cơ chế báo cáo tốt hơn.
+4. Rò rỉ dữ liệu vẫn là kết cục phổ biến nhất, nhất là ở chứng khoán, bảo hiểm và thanh toán. Căng thẳng địa chính trị ngày càng định hình động cơ tấn công, và một số vụ mang đặc điểm của chiến dịch gắn với nhà nước.
+
+**Về gian lận số, tám hành động các nước đã làm.**
+
+1. Củng cố cơ sở pháp lý và khung quản lý bảo vệ người tiêu dùng về quyền riêng tư dữ liệu, về chia sẻ trách nhiệm giữa ngân hàng và khách hàng, và về thu hồi tổn thất tài chính.
+2. Xây cách tiếp cận "toàn xã hội" kèm chiến lược quốc gia chống gian lận số.
+3. Xây từ điển phân loại gian lận.
+4. Thiết lập khung quản lý rủi ro gian lận trong các tổ chức.
+5. Nhận diện và loại bỏ tài khoản lừa.
+6. Tăng cường biện pháp chống gian lận thanh toán.
+7. Lập trung tâm chống lừa đảo và/hoặc đăng ký gian lận trung ương để nạn nhân dễ trình báo.
+8. Tạo điều kiện hợp tác liên ngành giữa cơ quan công quyền và khu vực tư nhân.
+
+**Cảnh báo cuối.** Gian lận số có hàm ý ổn định tài chính: tổn thất tài chính cho ngân hàng, và rủi ro danh tiếng cho cả ngân hàng lẫn cơ quan giám sát. Với thanh toán số và tài sản mã hoá tăng nhanh, cùng dòng tiền dịch chuyển xuyên biên giới và giữa phần truyền thống với phần phi truyền thống của hệ thống tài chính, tác động lên sự cố mạng và gian lận số trong tương lai phải được theo dõi sát sao.
 
 ## Thuật ngữ
 

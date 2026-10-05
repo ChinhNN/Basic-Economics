@@ -397,44 +397,268 @@
 2. Việc vay từ từng nhóm chủ nợ tác động thế nào đến xác suất khủng hoảng nợ và đến chi phí vay trên thị trường, và vì sao chỉ riêng tín dụng IMF mang dấu ngược với tất cả các nhóm còn lại?
 3. Tác động ổn định hoá của tín dụng IMF có bền ở mọi mức nợ không, và điều đó nói gì về ranh giới giữa tài trợ và tái cơ cấu?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Thứ tự ưu tiên của chủ nợ (creditor seniority).** Khi người đi vay không trả đủ cho mọi chủ nợ, thứ tự ưu tiên cho biết ai được trả trước. Với doanh nghiệp, luật phá sản quy định rõ thứ tự này và toà án thực thi. Với một quốc gia thì không có luật hay toà án nào như vậy, nên thứ tự ưu tiên chỉ là **thực tế (de facto)**: nó hình thành vì các nước lặp đi lặp lại cùng một cách hành xử. Ví dụ trong bài: IMF và Ngân hàng Thế giới hầu như luôn được trả trước, dù không văn bản nào bắt buộc. Đây là đối tượng mà cả bài muốn đo.
+
+**Người cho vay cứu cánh cuối cùng (lender of last resort) và vị thế chủ nợ ưu tiên.** Người cho vay cứu cánh cuối cùng là tổ chức vẫn cho vay khi không ai khác chịu cho vay, như IMF khi một nước mất tiếp cận thị trường. Vị thế chủ nợ ưu tiên (preferred creditor status) là việc các tổ chức này được trả trước. Cơ chế giữ vị thế đó không phải luật mà là hậu quả: nước nào nợ quá hạn với IMF sẽ mất tiếp cận tài trợ ưu đãi trong tương lai, và thường bị các chủ nợ chính thức khác ngừng hỗ trợ. Vì vậy cái giá của việc vỡ nợ với IMF vượt xa bản thân khoản nợ. Khái niệm này giải thích vì sao IMF đứng đầu bảng xếp hạng.
+
+**RPID (chênh lệch xác suất trả nợ có điều kiện).** Một chỉ số so sánh hai xác suất cho từng cặp chủ nợ i và j: xác suất nước đó vẫn trả i trong lúc đang vỡ nợ với j, và xác suất nước đó vẫn trả j trong lúc đang vỡ nợ với i. Ví dụ minh hoạ: nếu trong những năm một nước ngừng trả ngân hàng thương mại, nó vẫn trả IMF gần như đều đặn, còn trong những năm nó ngừng trả IMF thì ngân hàng thương mại hầu như cũng không được trả, thì IMF được xếp trên ngân hàng thương mại. RPID âm nghĩa là chủ nợ được ưu tiên, dương nghĩa là bị hạ cấp. Ưu điểm là chỉ số này đọc thứ tự ưu tiên từ hành vi trả nợ quan sát được, không cần giả định gì về luật.
+
+**Chênh lệch lợi suất (sovereign spread) và EMBIG.** Chênh lệch lợi suất là phần lãi suất trái phiếu chính phủ một nước cao hơn lãi suất trái phiếu chính phủ Mỹ cùng kỳ hạn; nó là "giá" của rủi ro mà nhà đầu tư đòi. Ví dụ minh hoạ: nếu trái phiếu Mỹ trả 4%/năm và trái phiếu một nước mới nổi trả 9%/năm, chênh lệch là 5 điểm phần trăm. EMBIG là chỉ số trái phiếu thị trường mới nổi của JP Morgan, nơi lấy số liệu chênh lệch này. Bài dùng nó để đo chi phí vay trên thị trường của từng nước.
+
+**Probit và tác động biên.** Probit là mô hình ước lượng xác suất một sự kiện có/không (ở đây: có khủng hoảng nợ hay không) phụ thuộc thế nào vào các biến giải thích. Tác động biên là mức thay đổi xác suất khi một biến tăng một đơn vị. Ví dụ trong bài: tác động biên của tín dụng IMF là −0,00815; với biến phơi nhiễm đo theo % GNI, điều đó có nghĩa là tín dụng IMF tăng thêm 1% GNI đi kèm xác suất khủng hoảng nợ thấp hơn khoảng 0,8 điểm phần trăm. Đây là công cụ để trả lời câu hỏi "vay từ ai làm tăng hay giảm khả năng khủng hoảng".
+
+**Nội sinh, nhân quả ngược và biến công cụ.** Một biến bị nội sinh khi chính kết quả cũng tác động ngược lại lên nó. Ở đây IMF cho vay chính vì nước đó đang gặp khó, nên số liệu sẽ cho thấy "nhiều tín dụng IMF đi cùng nhiều khủng hoảng" dù IMF có thể đang giúp ích. Biến công cụ là một biến tác động lên lượng tín dụng IMF nhưng không tác động trực tiếp lên khủng hoảng; dùng nó, ta tách được phần tín dụng IMF "không do khủng hoảng gây ra". Khi nhân quả ngược kéo hệ số về phía 0 như vậy, người ta gọi là thiên lệch hướng về 0 (attenuation bias). Điều này giải thích vì sao hệ số IMF lớn lên gần 20 lần sau khi dùng biến công cụ.
+
+**Ngưỡng nợ và biến tương tác.** Biến tương tác là tích của hai biến, ở đây là tín dụng IMF nhân với một biến giả bằng 1 khi nợ vượt một ngưỡng (70%, 90%, 100% hay 120% GNI). Hệ số tương tác cho biết tác động của IMF thay đổi bao nhiêu khi nợ vượt ngưỡng. Ví dụ trong bài: ở ngưỡng 100%, hệ số gốc −0,130 cộng hệ số tương tác +0,110 cho tác động ròng chỉ còn −0,020. Đây là bằng chứng cho kết luận rằng ở mức nợ rất cao, cho vay thêm không thay được tái cơ cấu.
+
+**Nghịch lý thứ tự ưu tiên (seniority conundrum).** Khi một nước vay nhiều từ chủ nợ được ưu tiên, nếu vỡ nợ xảy ra thì phần còn lại cho chủ nợ tư nhân nhỏ đi; vì thế chủ nợ tư nhân đòi lãi cao hơn. Ví dụ minh hoạ: một nước có 100 đồng nợ, trong đó 60 đồng là nợ ưu tiên; nếu khủng hoảng chỉ trả được 70 đồng, trái chủ tư nhân chỉ còn 10 đồng cho 40 đồng nợ, thay vì nhiều hơn nếu nợ ưu tiên ít hơn. Bài tìm thấy đúng hiện tượng này với nợ đa phương và song phương, nhưng không thấy với IMF.
+
+## Nội dung chi tiết
 
 ### 1. Mở đầu và bối cảnh
 
-- Không tồn tại khung phá sản quốc tế cho quốc gia có chủ quyền. Thứ tự ưu tiên giữa các chủ nợ là một quy ước thực tế hình thành từ thực tiễn lặp lại, chứ không từ nghĩa vụ pháp lý.
-- Cơ chế thực thi nằm ở hậu quả: nợ quá hạn với IMF cắt đứt tiếp cận tài trợ ưu đãi và thường kéo theo việc các chủ nợ chính thức khác ngừng hỗ trợ, khiến cái giá của việc vỡ nợ với Quỹ vượt xa bản thân khoản nợ.
-- Cơ cấu chủ nợ của các nền kinh tế mới nổi và đang phát triển đã thay đổi căn bản với sự trỗi dậy của chủ nợ song phương ngoài Câu lạc bộ Paris và việc mở rộng phát hành trái phiếu quốc tế, khiến tập hợp chủ nợ phân mảnh hơn nhiều so với thời kỳ các nghiên cứu trước.
+Điểm xuất phát của bài là một khoảng trống thể chế. Không có khung phá sản quốc tế cho quốc gia có chủ quyền, và không có toà án nào ra lệnh ai được trả trước khi một chính phủ không trả nổi nợ. Vậy thứ tự ưu tiên giữa các chủ nợ từ đâu mà có? Câu trả lời của bài: nó hình thành qua thực tiễn lặp lại, chứ không qua nghĩa vụ pháp lý. Đó là một quy ước thực tế (de facto).
+
+Quy ước này có nguồn gốc như sau:
+
+1. IMF và các ngân hàng phát triển đa phương được đối xử ưu tiên vì họ là người cho vay cứu cánh cuối cùng: họ cấp tài trợ khi không ai khác cho vay.
+2. Cơ chế thực thi không phải là luật mà là hậu quả. Nợ quá hạn với IMF cắt đứt tiếp cận nguồn tài trợ ưu đãi trong tương lai, và thường kích hoạt cả việc các chủ nợ chính thức khác ngừng hỗ trợ. Vì vậy cái giá của việc vỡ nợ với IMF vượt xa bản thân khoản nợ.
+3. Chủ nợ song phương (chính phủ cho chính phủ vay, theo truyền thống là các nước trong Câu lạc bộ Paris) được xem là đứng sau chủ nợ đa phương nhưng trước chủ nợ tư nhân.
+4. Trái chủ và ngân hàng thương mại đứng ở đáy, dù lại là nhóm có quyền kiện tụng mạnh nhất (họ có thể kiện chính phủ ra toà nước ngoài theo hợp đồng).
+
+Câu hỏi này quan trọng hơn bao giờ hết vì cơ cấu chủ nợ của các nền kinh tế mới nổi và đang phát triển (EMDE) đã thay đổi căn bản:
+
+- chủ nợ song phương ngoài Câu lạc bộ Paris trỗi dậy;
+- phát hành trái phiếu quốc tế mở rộng mạnh;
+- nợ trong nước và các dạng nợ phi truyền thống tăng.
+
+Kết quả là tập hợp chủ nợ ngày nay phân mảnh hơn nhiều so với thời kỳ mà Schlegl và cộng sự nghiên cứu (1979–2006). Khi có nhiều loại chủ nợ với lợi ích khác nhau, tái cơ cấu nợ khó phối hợp hơn, và câu hỏi ai thực sự được trả trước trở thành câu hỏi chính sách chứ không chỉ là câu hỏi học thuật.
 
 ### 2. Dữ liệu và thước đo
 
-- Mẫu gồm 119 nền kinh tế mới nổi và đang phát triển giai đoạn 1980–2022, chia chủ nợ thành năm nhóm, trong đó IMF được tách riêng.
-- Tồn nợ lấy từ International Debt Statistics, vỡ nợ lấy từ cơ sở dữ liệu BoC–BoE, khủng hoảng nợ theo Laeven và Valencia, chênh lệch lợi suất từ EMBIG.
-- Chỉ số RPID so sánh xác suất trả nợ có điều kiện chéo giữa từng cặp chủ nợ, nhận giá trị âm khi chủ nợ được ưu tiên. Ưu điểm là không cần giả định về thứ tự pháp lý, nhược điểm là đòi hỏi đủ giai đoạn vỡ nợ chồng lấn.
+**Mẫu.** 119 nền kinh tế mới nổi và đang phát triển, giai đoạn 1980–2022. Chủ nợ được chia thành năm nhóm:
+
+1. song phương;
+2. đa phương, trừ IMF;
+3. trái chủ;
+4. ngân hàng thương mại (khoản vay và tín dụng dài hạn);
+5. IMF, được tách riêng thành nhóm thứ năm.
+
+**Nguồn dữ liệu.**
+
+| Biến | Nguồn |
+|---|---|
+| Tồn nợ theo từng nhóm chủ nợ | International Debt Statistics của Ngân hàng Thế giới |
+| Vỡ nợ | Cơ sở dữ liệu vỡ nợ chủ quyền của Ngân hàng Canada và Ngân hàng Anh (BoC–BoE; Beers và cộng sự 2023) |
+| Khủng hoảng nợ | Laeven và Valencia (2020) |
+| Chênh lệch lợi suất | Chỉ số EMBIG của JP Morgan |
+| Xếp hạng tín nhiệm | chuẩn hoá về thang 21 điểm (Fuchs và Gehring 2017) |
+
+Một khác biệt dữ liệu quan trọng so với Schlegl và cộng sự: bài này dùng dữ liệu vỡ nợ BoC–BoE, thay cho dữ liệu nợ quá hạn trong Hệ thống Báo cáo Nợ (DRS) của Ngân hàng Thế giới mà bài gốc dùng.
+
+**Chỉ số RPID.** Bài dựng lại chỉ số chênh lệch xác suất trả nợ có điều kiện của Schlegl, Trebesch và Wright (2019). Ý tưởng là so sánh hai xác suất cho mỗi cặp chủ nợ:
+
+1. xác suất nước đó vẫn trả chủ nợ i trong khi đang vỡ nợ với chủ nợ j;
+2. xác suất nước đó vẫn trả chủ nợ j trong khi đang vỡ nợ với chủ nợ i.
+
+Theo định nghĩa, RPID nằm trong khoảng từ −1 đến +1. RPID âm nghĩa là chủ nợ được ưu tiên: nước đó ít khi vỡ nợ với họ trong lúc đang vỡ nợ với người khác. RPID dương nghĩa là chủ nợ bị hạ cấp. (Các con số bài báo cáo ở mục 3, như −2,64 hay +4,16, lại nằm ngoài khoảng này, nên nhiều khả năng được trình bày theo một thang khác; điều chắc chắn đọc được là dấu và thứ hạng.)
+
+Ưu điểm của RPID là không cần giả định gì về thứ tự pháp lý, chỉ đọc từ hành vi trả nợ quan sát được. Nhược điểm là phải có đủ các giai đoạn vỡ nợ chồng lấn giữa từng cặp chủ nợ (tức những năm nước đó cùng lúc vỡ nợ với một chủ nợ và còn quan hệ nợ với chủ nợ kia) thì mới tính được.
 
 ### 3. Kết quả xếp hạng
 
-- Trên toàn mẫu, IMF và Ngân hàng Thế giới ưu tiên nhất, kế đến là chủ nợ song phương, rồi trái chủ và ngân hàng thương mại ở đáy.
-- Kết quả về chủ nợ song phương ngược với Schlegl, Trebesch và Wright. Bài quy sự đảo chiều cho thời kỳ mẫu dài hơn, sự trỗi dậy của chủ nợ song phương ngoài Câu lạc bộ Paris, và nguồn dữ liệu khác.
-- Thứ hạng ổn định giữa hai nhóm thu nhập nhưng khoảng cách giữa chủ nợ chính thức và tư nhân rộng hơn hẳn ở nhóm thu nhập trung bình cao.
-- Thứ tự ưu tiên rõ nét nhất đúng vào lúc căng thẳng nhất: ở các nước đang có chương trình IMF và trong thời kỳ khủng hoảng tài chính, RPID của IMF và Ngân hàng Thế giới giãn ra gần gấp đôi.
+**Toàn mẫu.**
+
+| Nhóm chủ nợ | RPID | Diễn giải |
+|---|---|---|
+| IMF và Ngân hàng Thế giới | −2,64 | ưu tiên cao nhất |
+| Song phương | −1,96 | ưu tiên |
+| Trái chủ | +1,42 | bị hạ cấp |
+| Ngân hàng thương mại | +1,89 | hạ cấp nhất |
+
+Phát hiện gây tranh luận nhất: chủ nợ song phương được ưu tiên hơn chủ nợ tư nhân, ngược hẳn với kết luận của Schlegl, Trebesch và Wright (2019). Bài đưa ra ba lý do cho sự đảo chiều:
+
+1. Thời kỳ mẫu: Schlegl dùng 1979–2006, bài này kéo tới 2022.
+2. Sự trỗi dậy của chủ nợ song phương ngoài Câu lạc bộ Paris. Những chủ nợ này đàm phán song phương với từng nước đi vay, thường gắn khoản vay với tài sản thế chấp hoặc với quan hệ chiến lược, nên họ có cách riêng để được trả trước.
+3. Nguồn dữ liệu khác: BoC–BoE thay cho nợ quá hạn trong DRS của Ngân hàng Thế giới.
+
+**Theo nhóm thu nhập.** Thứ hạng giữ ổn định, nhưng độ lớn thì không:
+
+| Nhóm chủ nợ | Thu nhập trung bình thấp (LMIC) | Thu nhập trung bình cao (UMIC) |
+|---|---|---|
+| IMF và Ngân hàng Thế giới | −1,93 | −4,38 |
+| Song phương | −1,20 | −3,50 |
+| Trái chủ | +2,33 | +1,05 |
+| Ngân hàng thương mại | +2,04 | +1,62 |
+
+Ở nước thu nhập trung bình cao, khoảng cách giữa chủ nợ chính thức và chủ nợ tư nhân rộng hơn hẳn: IMF và Ngân hàng Thế giới đạt −4,38 so với −1,93 ở nhóm thu nhập thấp hơn. Cách giải thích của bài: nhóm UMIC tiếp cận thị trường vốn nhiều hơn, nên việc giữ quan hệ tốt với chủ nợ chính thức càng quan trọng để duy trì tín nhiệm.
+
+**Hai lát cắt lúc căng thẳng.** Bài tính lại RPID cho các nước đang có chương trình IMF và cho các thời kỳ khủng hoảng tài chính:
+
+| Nhóm chủ nợ | Nước đang có chương trình IMF | Thời kỳ khủng hoảng tài chính |
+|---|---|---|
+| IMF và Ngân hàng Thế giới | −5,69 | −5,28 |
+| Song phương | −2,09 | −3,74 |
+| Trái chủ | +1,04 | +2,76 |
+| Ngân hàng thương mại | +4,16 | +2,67 |
+
+Đúng vào lúc khó khăn nhất, thứ tự ưu tiên lại rõ nét nhất: RPID của IMF và Ngân hàng Thế giới giãn từ −2,64 xuống gần −5,7, tức hơn gấp đôi. Đây là bằng chứng gián tiếp mạnh cho cơ chế thực thi nêu ở mục 1: khi buộc phải chọn trả ai, nước đi vay chọn giữ quan hệ với người cho vay cứu cánh cuối cùng.
+
+**Các giai đoạn vỡ nợ chồng lấn làm nền cho phép tính.**
+
+| Cặp chủ nợ | Ví dụ |
+|---|---|
+| Song phương và ngân hàng thương mại | Peru 1985–93, Việt Nam 1985–93, Zambia 1986–94 |
+| Song phương và đa phương | Bosnia 1992–2000, Iraq 1990–2005, Liberia 1998–2008 |
+| Chồng lấn cả ba bên | Sudan 1981–2021, Somalia 2005–2020, Zimbabwe 2003–2022 |
+| Có trái chủ | Argentina 2002–03, Côte d'Ivoire 2001 và 2005–08, Zambia 2021–22 |
+
+Số giai đoạn liên quan đến trái chủ rất ít, nên RPID của trái chủ dựa trên một nền quan sát mỏng hơn hẳn các nhóm khác.
 
 ### 4. Phân tích hồi quy
 
-- Trong mô hình probit, chỉ tín dụng IMF có hệ số âm và có ý nghĩa; mọi nhóm chủ nợ khác đều làm tăng xác suất khủng hoảng nợ. VIX và tiền sử tái cơ cấu là hai biến kiểm soát mạnh nhất.
-- Tồn tại nghịch lý bề mặt giữa RPID và probit đối với chủ nợ song phương. Hai thước đo trả lời hai câu hỏi khác nhau: được ưu tiên khi tái cơ cấu không đồng nghĩa với việc khoản vay đó ổn định hoá nền kinh tế.
-- Biến công cụ kết hợp quan hệ vay mượn lịch sử của nước đó với Quỹ và thanh khoản của chính Quỹ. Sau khi xử lý nội sinh, độ lớn của hệ số IMF tăng gần hai mươi lần, đúng như dự đoán về thiên lệch hướng về 0.
-- Phân tích phi tuyến cho thấy tác động ổn định hoá suy yếu rõ rệt khi nợ vượt các ngưỡng từ 70% đến 120% GNI, tới mức gần như triệt tiêu ở ngưỡng 100%.
-- Trên thị trường trái phiếu, tín dụng IMF kéo chênh lệch lợi suất xuống hơn hai điểm phần trăm, trong khi nợ đa phương và song phương lại đẩy chênh lệch lên — chính là nghịch lý thứ tự ưu tiên. Điều kiện chính sách và hiệu ứng tín hiệu là lý do IMF khác biệt.
-- Khi đo bằng tỷ trọng, hệ số của nhóm chủ nợ ưu tiên mất ý nghĩa nếu gộp IMF vào, xác nhận rằng vai trò của Quỹ khác về chất so với các chủ nợ ưu tiên khác.
+**Probit: vay từ ai làm tăng khả năng khủng hoảng.** Biến phụ thuộc là biến giả khủng hoảng nợ theo Laeven–Valencia. Biến giải thích là phơi nhiễm với từng nhóm chủ nợ, tính theo phần trăm GNI. Tác động biên:
+
+| Nhóm chủ nợ | Đặc tả (1) | Đặc tả (2) |
+|---|---|---|
+| IMF | −0,00815\*\*\* | −0,01315\*\*\* |
+| Đa phương | +0,00333\*\*\* | +0,00295\*\*\* |
+| Song phương | +0,00437\*\*\* | +0,00433\*\*\* |
+| Trái phiếu | +0,00239\*\* | +0,00286\*\* |
+| Ngân hàng thương mại | −0,00039 ns | −0,00115 ns |
+
+(\*\*\* có ý nghĩa ở mức 1%, \*\* ở mức 5%, \* ở mức 10%, ns là không có ý nghĩa.)
+
+Kết quả then chốt: chỉ duy nhất IMF có dấu âm và có ý nghĩa; ở đặc tả (2) hệ số còn âm mạnh hơn. Mọi loại chủ nợ khác đều làm tăng xác suất khủng hoảng nợ (riêng ngân hàng thương mại không có ý nghĩa).
+
+Các biến kiểm soát đều đúng dấu kỳ vọng:
+
+| Biến kiểm soát | Hệ số | Ý nghĩa |
+|---|---|---|
+| Log GNI | −0,225\*\*\* | nước lớn hơn ít khủng hoảng hơn |
+| Tăng trưởng GDP | −0,00272\* | tăng trưởng nhanh giảm rủi ro |
+| Chỉ số biến động VIX | +0,23333\*\*\* | điều kiện tài chính toàn cầu căng thẳng là yếu tố lớn |
+| Nợ ngắn hạn | +0,00252\*\* | nợ phải đảo sớm làm tăng rủi ro |
+| Từng tái cơ cấu nợ | +0,13116\*\*\* | hiệu ứng dấu vết: tái cơ cấu một lần để lại rủi ro lâu dài |
+| Khủng hoảng ngân hàng | +0,07495\*\* | khủng hoảng ngân hàng lây sang nợ công |
+| FDI | −0,00349\*\* | đầu tư trực tiếp nước ngoài làm giảm rủi ro |
+
+Số quan sát từ 3.156 tới 3.293. VIX và tiền sử tái cơ cấu là hai biến kiểm soát mạnh nhất.
+
+**Nghịch lý bề mặt với chủ nợ song phương.** Chủ nợ song phương có RPID rất ưu tiên (−1,96), nhưng hệ số probit của họ lại dương (+0,00437). Hai kết quả không mâu thuẫn, vì hai thước đo trả lời hai câu hỏi khác nhau: RPID hỏi "ai được trả khi đã vỡ nợ", còn probit hỏi "vay từ ai làm tăng khả năng vỡ nợ". Được ưu tiên trong tái cơ cấu không đồng nghĩa với việc khoản vay đó giúp ổn định nền kinh tế.
+
+**Vấn đề nội sinh.** IMF cho vay chính vì nước đó đang gặp khó. Chiều nhân quả ngược này có xu hướng đẩy hệ số IMF lên phía dương. Vì vậy hệ số âm tìm được có thể là ước lượng thấp của tác động thật, và cần dùng biến công cụ.
+
+**Chiến lược biến công cụ.** Công cụ là tích của hai cấu phần:
+
+IV = Historical_IMF_Loan × IMF_Liquidity
+
+1. Historical_IMF_Loan: bình quân tỷ lệ vay IMF trên GDP trong 10 năm trước. Cấu phần này nắm bắt quan hệ lâu dài của nước đó với Quỹ.
+2. IMF_Liquidity: tỷ lệ tài sản thanh khoản trên nghĩa vụ thanh khoản của chính Quỹ. Cấu phần này đo năng lực cho vay của Quỹ, hoàn toàn ngoại sinh với bất kỳ nước đi vay đơn lẻ nào. Bài mô tả biến này theo hai cách khác nhau ở hai chỗ: một chỗ là tỷ lệ tại thời điểm t, chỗ khác là bình quân 5 năm trước.
+
+Logic loại trừ: thanh khoản của Quỹ chỉ tác động đến lượng vay của một nước qua kênh cung tín dụng (Quỹ có nhiều tiền thì cho vay nhiều hơn), chứ không qua bất kỳ kênh nào khác tới khủng hoảng nợ của nước đó.
+
+Kết quả IV-probit:
+
+| Nhóm chủ nợ | (1) | (2) | (3) |
+|---|---|---|---|
+| IMF | −0,0654\* | −0,173\*\*\* | −0,147\*\* |
+| Đa phương | +0,0319\*\*\* | +0,0217\*\*\* | |
+| Song phương | +0,0262\*\*\* | +0,0222\*\*\* | |
+| Trái phiếu | +0,00689 ns | +0,0163\*\* | |
+| Ngân hàng thương mại | +0,0166\* | −0,0101 ns | |
+| Số quan sát | 2.873 | 3.451 | 2.869 |
+
+Sau khi xử lý nội sinh, độ lớn hệ số IMF tăng vọt: từ −0,008 trong probit lên −0,147, gấp gần 20 lần. Điều này đúng như dự đoán: ước lượng thông thường bị thiên lệch về phía 0 vì IMF cho vay đúng lúc rủi ro cao. Dấu của các nhóm chủ nợ khác không đổi, nên kết quả được coi là vững.
+
+**Phi tuyến: tác động ổn định hoá suy yếu khi nợ cao.** Câu hỏi đặt ra là tín dụng IMF có luôn ổn định hoá không, hay hiệu lực phụ thuộc mức nợ. Bài thêm biến tương tác giữa tín dụng IMF và các biến giả ngưỡng nợ:
+
+| Đặc tả | Hệ số IMF gốc | Hệ số tương tác IMF × ngưỡng |
+|---|---|---|
+| (1) nợ dưới 70% GNI | −0,0489\*\*\* | −0,0763\*\*\* |
+| (2) nợ trên 70% GNI | −0,135\*\*\* | +0,0914\*\* |
+| (3) nợ trên 90% GNI | −0,125\*\*\* | +0,0919\*\*\* |
+| (4) nợ trên 100% GNI | −0,130\*\*\* | +0,110\*\*\* |
+| (5) nợ trên 120% GNI | −0,0840\*\*\* | +0,0884\*\* |
+
+Cách đọc: ở đặc tả (1), tương tác âm nghĩa là khi nợ dưới 70% GNI, tín dụng IMF còn ổn định hoá mạnh hơn. Ở các đặc tả (2)–(5), tương tác dương nghĩa là vượt ngưỡng thì tác dụng yếu đi. Tác động ròng vẫn âm ở hầu hết các ngưỡng (vì giá trị tuyệt đối của hệ số gốc lớn hơn của hệ số tương tác), nhưng độ lớn giảm dần. Ví dụ ở ngưỡng 100%: −0,130 + 0,110 chỉ còn −0,020, tức tác dụng gần như triệt tiêu. (Ở ngưỡng 120%, hệ số tương tác +0,0884 thậm chí lớn hơn giá trị tuyệt đối của hệ số gốc −0,0840 một chút.)
+
+Diễn giải của bài, cũng là câu then chốt về chính sách: tài trợ của IMF có hiệu lực nhất khi nợ còn trong tầm quản lý được; khi nợ đã rất cao, tài trợ một mình không đủ để phục hồi khả năng trả nợ. Hàm ý là ở mức nợ rất cao cần tái cơ cấu nợ chứ không chỉ cho vay thêm, một lập luận trực tiếp ủng hộ việc dùng khung phân tích bền vững nợ để quyết định khi nào phải tái cơ cấu.
+
+Để đặt các ngưỡng vào bối cảnh, bài trình bày phân bố nợ nước ngoài theo phân vị:
+
+| Phân vị | Nợ nước ngoài |
+|---|---|
+| 10–40 | 18% – 40% |
+| 40–75 | 43% – 68% |
+| 75–100 | 68% – 159% |
+
+Các ngưỡng 70–120% nằm ở phần trên của phân bố, tức chỉ áp dụng cho nhóm nước nợ cao chứ không phải nước điển hình. Bài ghi mẫu số không thống nhất: tiêu đề hình nói theo % GNI, lời văn lại nói % GDP.
+
+**Tác động lên chi phí vay trên thị trường.** Biến phụ thuộc là chênh lệch lợi suất EMBIG (điểm phần trăm):
+
+| Biến | OLS | 2SLS (có biến công cụ) |
+|---|---|---|
+| IMF | −0,995\*\* | −2,317\*\* |
+| Đa phương | +0,514\*\*\* | +0,618\*\*\* |
+| Song phương | −0,0432 ns | +0,581\*\*\* |
+| Trái phiếu | +0,00308 ns | +0,147\* |
+| Ngân hàng thương mại | −0,0586 ns | +0,248\*\* |
+| Log GNI | −0,475 ns | −5,641\*\* |
+| Tăng trưởng GDP | −0,458\*\*\* | −0,00341 ns |
+| Khủng hoảng nợ | +4,383\*\*\* | +4,823\*\*\* |
+| Khủng hoảng tiền tệ | +3,034\*\*\* | +2,346\*\* |
+| Từng tái cơ cấu | −0,525 ns | −2,462\*\*\* |
+| Độ mở thương mại | −0,0388 ns | −0,344\*\*\* |
+| Độ mở tài khoản vốn | −1,019\*\*\* | −1,609\*\*\* |
+| Nợ ngắn hạn | +0,284\*\*\* | +0,407\*\*\* |
+| Số quan sát | 205 | 210 |
+| R² | 0,750 | 0,602 |
+| Thống kê Kleibergen-Paap rk | không áp dụng | 12,829 (p = 0,001) |
+
+Tín dụng IMF kéo chênh lệch lợi suất xuống 2,3 điểm phần trăm trong ước lượng 2SLS, một tác động rất lớn về kinh tế. Thống kê Kleibergen-Paap 12,829 vượt ngưỡng thông thường, cho thấy công cụ không yếu (tức có tương quan đủ mạnh với biến cần thay thế). Hạn chế: chỉ có 205–210 quan sát, vì EMBIG chỉ phủ các nước tiếp cận được thị trường trái phiếu quốc tế. Đây là một mẫu chọn lọc mạnh so với 119 nước trong phần probit. Một số biến kiểm soát cũng đáng chú ý: khủng hoảng nợ đẩy chênh lệch lên khoảng 4,4–4,8 điểm phần trăm, khủng hoảng tiền tệ đẩy lên 2,3–3,0 điểm, còn tài khoản vốn mở hơn kéo chênh lệch xuống.
+
+**Nghịch lý thứ tự ưu tiên.** Nợ đa phương (trừ IMF) và, trong ước lượng 2SLS, nợ song phương làm chênh lệch lợi suất tăng. Logic: chủ nợ chính thức được ưu tiên, nên nếu vỡ nợ xảy ra, phần còn lại cho chủ nợ tư nhân nhỏ hơn. Nợ chính thức càng nhiều thì trái chủ càng bị hạ cấp, và họ đòi phần bù cao hơn. Kết quả này khớp với Dell'Erba, Hausmann và Panizza (2013) và với nghiên cứu của Steinkamp–Westermann về chênh lệch lợi suất ở châu Âu.
+
+Vì sao IMF lại khác? Dù cũng là chủ nợ ưu tiên, tín dụng IMF đi kèm điều kiện chính sách và là tín hiệu rằng nước đó cam kết cải cách. Hiệu ứng tín hiệu này mạnh hơn và đảo ngược hiệu ứng hạ cấp.
+
+**Đo bằng tỷ trọng thay vì tỷ lệ trên GNI.** Bài kiểm tra lại với biến phơi nhiễm là tỷ trọng của từng nhóm trong tổng nợ:
+
+| Biến | Khủng hoảng nợ (999 quan sát) | Chênh lệch lợi suất (102 quan sát, Kleibergen-Paap rk 11,232) |
+|---|---|---|
+| Tỷ trọng nợ IMF | −0,00802\*\*\* / −0,00680\*\*\* | −0,395\* |
+| Tỷ trọng chủ nợ ưu tiên trừ IMF | +0,00269\*\* / +0,00221\*\* | −0,0684\*\*\* |
+| Tỷ trọng chủ nợ ưu tiên gồm cả IMF | +0,0102, không có ý nghĩa | |
+
+Điểm đáng chú ý: khi gộp IMF vào nhóm chủ nợ ưu tiên, hệ số mất ý nghĩa. Điều này xác nhận vai trò của IMF khác về chất so với các chủ nợ ưu tiên khác và không thể gộp chung. (Lời văn của bài dẫn nhầm số hiệu của hai bảng phụ lục chứa các kết quả này.)
 
 ### 5. Kiểm định vững
 
-- Kết quả giữ nguyên khi loại từng giai đoạn đặc biệt khỏi mẫu, khi thêm các biến kiểm soát tài khoá và thể chế, và khi chuyển sang ước lượng GMM hai bước có tính đến tính động của nợ.
+Bài kiểm tra lại kết quả theo ba cách.
+
+**Mẫu thay thế.** Ước lượng lại khi:
+
+- loại giai đoạn Chiến tranh Lạnh vừa kết thúc (1990–1995);
+- loại khủng hoảng tài chính toàn cầu (2008–2009);
+- loại năm Covid (2020);
+- chỉ dùng dữ liệu từ thập niên 1990 trở đi, khi phân bố nợ giữa các loại chủ nợ đã thay đổi.
+
+Dấu và mức ý nghĩa của hệ số IMF giữ nguyên qua mọi mẫu. (Bài mô tả thứ tự các cột theo hai cách mâu thuẫn nhau, và dòng hằng số trong bảng kết quả trùng khít dòng IMF, một lỗi sao chép.)
+
+**Thêm biến kiểm soát.** Thêm cán cân tài khoá, dự trữ ngoại hối, dịch vụ nợ, tỷ giá thương mại, lạm phát và chất lượng thể chế: kết quả không đổi.
+
+**Ước lượng GMM hai bước.** Phương pháp này xử lý cả tính động của nợ (nợ năm nay phụ thuộc nợ năm trước). Kết quả vẫn vững, dù bảng kết quả có một dòng bị lặp giá trị của dòng IMF.
 
 ### 6. Kết luận
 
-- Thứ tự ưu tiên là có thật và đo được dù không có cơ sở pháp lý. Chỉ tín dụng IMF ổn định hoá, và hiệu lực đó có giới hạn rõ ràng theo mức nợ.
-- Ở mức nợ rất cao, tài trợ thêm không thay thế được tái cơ cấu. Cơ cấu chủ nợ ngày càng phân mảnh làm việc phối hợp khó hơn, và vị thế mới của chủ nợ song phương ngoài Câu lạc bộ Paris là một thay đổi cơ cấu mà khung xử lý nợ hiện hành chưa phản ánh đầy đủ.
+Bài rút ra bốn kết luận chính sách:
+
+1. **Thứ tự ưu tiên là có thật và đo được**, dù không có cơ sở pháp lý nào. IMF và Ngân hàng Thế giới đứng đầu, chủ nợ song phương kế tiếp, chủ nợ tư nhân ở đáy.
+2. **Chỉ tín dụng IMF là ổn định hoá.** Mọi loại nợ khác, kể cả nợ từ các chủ nợ ưu tiên khác, đều làm tăng rủi ro khủng hoảng. Điều kiện chính sách và hiệu ứng tín hiệu là điểm phân biệt then chốt.
+3. **Hiệu lực đó có giới hạn.** Khi nợ vượt 70–120% GNI, tác động ổn định hoá suy yếu rõ rệt, tới mức gần như triệt tiêu ở ngưỡng 100%. Ở mức nợ rất cao, tái cơ cấu chứ không phải tài trợ thêm mới là giải pháp.
+4. **Cơ cấu chủ nợ ngày càng phân mảnh** làm việc phối hợp tái cơ cấu khó hơn. Việc chủ nợ song phương ngoài Câu lạc bộ Paris nay tỏ ra ưu tiên hơn chủ nợ tư nhân là một thay đổi cơ cấu mà khung xử lý nợ hiện hành chưa phản ánh đầy đủ.
 
 ## Thuật ngữ
 
