@@ -191,19 +191,54 @@ Kiến trúc mục tiêu — nhiều lớp, không thay thế:
 
 3. **Điều gì thực sự đe dọa vị thế đồng đô la?** Không phải nỗ lực của châu Á, mà là chính nước Mỹ. Bài nêu rất rõ sự bất đối xứng: khi bất định đến từ nơi khác, nhà đầu tư chạy vào tài sản bằng đô la; nhưng khi nghi ngờ nảy sinh về sự ổn định và khả năng dự đoán của chính sách và thể chế Hoa Kỳ, thì nghi ngờ đó nhắm thẳng vào độ tin cậy của cái neo.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Đồng tiền neo và vai trò quốc tế của đồng đô la (anchor currency).** Một đồng tiền được dùng rộng rãi ngoài nước phát hành để ghi giá hàng hoá, thanh toán, vay nợ và giữ dự trữ. Ví dụ trong bài: trong khối ASEAN+3, hơn 80% hoá đơn thương mại và khoảng 2/3 dự trữ ngoại hối chính thức là bằng đô la Mỹ. Khái niệm này là điểm xuất phát của bài: khu vực phụ thuộc vào đô la ở mức áp đảo.
+
+**Lập hoá đơn thương mại (trade invoicing).** Việc chọn đồng tiền ghi trên hợp đồng mua bán, quyết định bên nào chịu rủi ro tỷ giá. Ví dụ minh hoạ: một doanh nghiệp Việt Nam bán hàng cho một doanh nghiệp Thái Lan, hợp đồng ghi 100.000 USD; doanh nghiệp Thái phải đổi baht sang đô la để trả, doanh nghiệp Việt lại đổi đô la sang đồng, mỗi lần đổi mất một khoản chênh lệch mua bán. Bài gọi đây là chi phí thuần tuý khi cả hai đầu giao dịch đều nằm trong khu vực.
+
+**Giá trị gia tăng có đích đến cuối cùng (value-added exports by final destination).** Cách đo xuất khẩu theo phần giá trị một nước tạo ra, gán cho nước tiêu dùng sản phẩm cuối, thay vì theo nước nhận hàng trực tiếp. Ví dụ minh hoạ: một linh kiện trị giá 10 USD làm ở Việt Nam, sang Trung Quốc lắp vào chiếc máy bán ở Mỹ; theo cách đo này, 10 USD đó được tính là giá trị gia tăng có đích đến Mỹ. Bài dùng cách đo này để chỉ ra tỷ trọng đích đến Mỹ giảm từ khoảng 1/3 xuống 1/5.
+
+**Cú sốc cầu (demand shock).** Một thay đổi bất ngờ trong lượng hàng hoá mà người mua muốn mua, ví dụ người tiêu dùng một nước đột ngột cắt chi tiêu. Bài dẫn mô hình của AMRO: cú sốc cầu trong khu vực nay tác động lên các nước láng giềng mạnh hơn cú sốc cầu từ Mỹ. Đây là bằng chứng rằng thương mại của khu vực đã quay vào bên trong.
+
+**Liên minh tiền tệ (monetary union).** Một nhóm nước dùng chung một đồng tiền và một chính sách tiền tệ, như khu vực đồng euro. Ví dụ minh hoạ: khi một nước thành viên rơi vào suy thoái còn các nước khác đang tăng trưởng nóng, ngân hàng trung ương chung chỉ đặt được một mức lãi suất cho tất cả. Bài giải thích vì sao châu Á không chọn con đường này.
+
+**Ngân hàng đại lý và rủi ro thanh toán (correspondent banking, settlement risk).** Ngân hàng đại lý là ngân hàng ở nước khác giữ tài khoản hộ để chuyển tiền xuyên biên giới. Rủi ro thanh toán là khả năng một bên đã giao tiền mà bên kia chưa giao. Ví dụ minh hoạ: ngân hàng A chuyển 1 triệu USD buổi sáng, nhưng ngân hàng B sụp đổ trước khi chuyển phần baht tương ứng buổi chiều; A mất trắng. Đây là vấn đề mà token hoá muốn giải.
+
+**Token hoá và thanh toán nguyên tử (tokenization, atomic settlement).** Token hoá là ghi tiền hay tài sản dưới dạng mã số trên một sổ cái điện tử dùng chung, để có thể chuyển giao theo lập trình. Thanh toán nguyên tử là cơ chế để hai vế của một giao dịch cùng hoàn tất trong một bước, hoặc không vế nào hoàn tất. Trong ví dụ trên, nếu B không giao baht thì đô la của A cũng không rời đi. Bài coi đây là bước ngoặt kỹ thuật cho phép các đồng tiền "nói chuyện" trực tiếp với nhau.
+
+**Tiền kỹ thuật số ngân hàng trung ương bán buôn (wholesale CBDC).** Tiền điện tử do ngân hàng trung ương phát hành, chỉ dùng giữa các ngân hàng và định chế tài chính, không dành cho người dân. Ví dụ trong bài: dự án mBridge của Trung Quốc, Hong Kong, Thái Lan và UAE. Đây là lớp hạ tầng thứ tư mà khu vực đang xây.
+
+## Nội dung chi tiết
 
 ### 1. Quy mô và sự phụ thuộc
 
-Khối ASEAN+3 gồm mười nước ASEAN — Brunei, Campuchia, Indonesia, Lào, Malaysia, Myanmar, Philippines, Singapore, Thái Lan và Việt Nam — cùng Trung Quốc, Nhật Bản và Hàn Quốc. Khối chiếm hơn một phần tư dân số và khoảng một phần tư sản lượng thế giới.
+Khối ASEAN+3 gồm mười nước ASEAN là Brunei, Campuchia, Indonesia, Lào, Malaysia, Myanmar, Philippines, Singapore, Thái Lan và Việt Nam, cùng ba nước Trung Quốc, Nhật Bản và Hàn Quốc. Khối chiếm hơn 1/4 dân số thế giới và khoảng 1/4 sản lượng thế giới.
 
-Mức độ phụ thuộc vào đồng đô la vẫn rất cao: hơn 80% hóa đơn thương mại, gần 85% giao dịch ngoại hối, hơn một nửa tài sản và nợ xuyên biên giới của các ngân hàng trong khu vực, và khoảng hai phần ba dự trữ ngoại hối chính thức.
+Dù lớn như vậy, mức độ phụ thuộc vào đồng đô la vẫn rất cao:
+
+| Lĩnh vực | Tỷ trọng dùng đô la |
+|---|---|
+| Hoá đơn thương mại | hơn 80% |
+| Giao dịch ngoại hối | khoảng 85% |
+| Tài sản và nợ xuyên biên giới của ngân hàng trong khu vực | hơn 50% |
+| Dự trữ ngoại hối chính thức | khoảng 2/3 |
+
+Bài không đưa ra con số nào cho chiều ngược lại, tức thanh toán bằng đồng nội tệ đã tăng lên bao nhiêu. Bài chỉ nói mức này "vẫn còn khiêm tốn về quy mô". Người đọc cần nhớ điểm này khi đánh giá mức độ của "cuộc chuyển hướng".
 
 ### 2. Luận điểm: đây là thực dụng, không phải ý thức hệ
 
-Đây là điểm bài nhấn mạnh nhiều nhất và là điều phân biệt nó với phần lớn các bài viết về "phi đô la hóa": **"Cuộc chuyển hướng tiền tệ đang diễn ra của châu Á không phải là một chiến dịch mang tính ý thức hệ chống lại đồng đô la. Các nhà hoạch định chính sách chỉ đơn giản đang theo đuổi một chiến lược đa dạng hóa thực dụng."**
+Đây là điểm bài nhấn mạnh nhiều nhất và là điều phân biệt nó với phần lớn các bài viết về "phi đô la hoá": **"Cuộc chuyển hướng tiền tệ đang diễn ra của châu Á không phải là một chiến dịch mang tính ý thức hệ chống lại đồng đô la. Các nhà hoạch định chính sách chỉ đơn giản đang theo đuổi một chiến lược đa dạng hoá thực dụng."** Tức là động cơ là giảm chi phí và giảm rủi ro tập trung, không phải đối đầu chính trị.
 
-Bài cũng công nhận thẳng thắn nguồn gốc vị thế của đồng đô la: trật tự hậu chiến, độ tin cậy của các thể chế Hoa Kỳ, niềm tin vào Cục Dự trữ Liên bang, nhà nước pháp quyền, tính minh bạch và khả năng dự đoán. Đây không phải là những thứ có thể sao chép trong một sớm một chiều.
+Bài cũng công nhận thẳng thắn nguồn gốc vị thế của đồng đô la:
+
+- trật tự hậu chiến và quán tính mạng lưới (ai cũng dùng đô la vì người khác dùng đô la);
+- độ tin cậy của các thể chế Hoa Kỳ;
+- niềm tin vào Cục Dự trữ Liên bang;
+- nhà nước pháp quyền;
+- tính minh bạch và khả năng dự đoán.
+
+Đây không phải là những thứ có thể sao chép trong một sớm một chiều, nên bất kỳ đồng tiền nào muốn thay thế đô la cũng sẽ mất rất nhiều thời gian.
 
 ### 3. Điều kiện để đồng đô la giữ vị thế — và mối đe dọa thật sự
 
@@ -213,65 +248,90 @@ Rồi thêm: **"Những căng thẳng gần đây trong các thể chế Hoa K�
 
 Và đưa ra sự phân biệt quan trọng nhất của cả bài: **"Khi bất định bắt nguồn từ nơi khác, nhà đầu tư tìm đến sự an toàn trong các tài sản bằng đô la. Nhưng khi những câu hỏi nảy sinh về sự ổn định hoặc khả năng dự đoán của chính sách và thể chế Hoa Kỳ, thì mối lo ngại về độ tin cậy của đồng đô la với tư cách cái neo là điều không thể tránh khỏi."**
 
-Nói cách khác: đồng đô la là nơi trú ẩn khỏi mọi rủi ro **trừ rủi ro của chính nó**. Đây là lý lẽ mạnh nhất cho việc đa dạng hóa, và nó không đòi hỏi bất kỳ sự thù địch nào với Hoa Kỳ.
+| Nguồn bất định | Phản ứng của nhà đầu tư | Hệ quả với đô la |
+|---|---|---|
+| Từ nơi khác (chiến tranh, khủng hoảng ở nước khác) | Chạy vào tài sản bằng đô la | Đô la là nơi trú ẩn, mạnh lên |
+| Từ chính nước Mỹ (chính sách, thể chế) | Nghi ngờ độ tin cậy của chính cái neo | Đô la yếu đi |
+
+Nói cách khác, đồng đô la là nơi trú ẩn khỏi mọi rủi ro **trừ rủi ro của chính nó**. Đây là lý lẽ mạnh nhất cho việc đa dạng hoá, và nó không đòi hỏi bất kỳ sự thù địch nào với Hoa Kỳ: chỉ cần thừa nhận rằng đặt mọi thứ vào một tài sản là rủi ro tập trung.
 
 ### 4. Động lực kinh tế: thương mại đã đổi hướng
 
-Con số quyết định: hai thập niên trước, khoảng **một phần ba** giá trị gia tăng trong xuất khẩu của ASEAN+3 có đích đến cuối cùng là Hoa Kỳ; ngày nay chỉ còn **một phần năm**. Trung Quốc và ASEAN mỗi bên hiện hấp thụ **một phần mười** sản lượng của khu vực, tăng từ khoảng 6% mỗi bên.
+Con số quyết định, tính theo đích đến cuối cùng của giá trị gia tăng trong xuất khẩu của ASEAN+3:
 
-Cách đo "giá trị gia tăng có đích đến cuối cùng" quan trọng ở chỗ nó nhìn xuyên qua chuỗi giá trị: một linh kiện xuất từ Việt Nam sang Trung Quốc rồi lắp thành sản phẩm bán sang Mỹ vẫn được tính là giá trị gia tăng có đích đến là Mỹ. Nghĩa là sự sụt giảm từ một phần ba xuống một phần năm là sụt giảm thật về mức phụ thuộc, không phải ảo giác thống kê từ việc hàng đi qua nhiều nước hơn.
+| Đích đến cuối cùng | Hai thập niên trước | Ngày nay |
+|---|---|---|
+| Hoa Kỳ | khoảng 1/3 | khoảng 1/5 |
+| Trung Quốc | khoảng 6% | khoảng 1/10 |
+| ASEAN | khoảng 6% | khoảng 1/10 |
+
+Cách đo "giá trị gia tăng có đích đến cuối cùng" quan trọng ở chỗ nó nhìn xuyên qua chuỗi giá trị. Một linh kiện xuất từ Việt Nam sang Trung Quốc rồi lắp thành sản phẩm bán sang Mỹ vẫn được tính là giá trị gia tăng có đích đến Mỹ. Vì vậy sự sụt giảm từ một phần ba xuống một phần năm là sụt giảm thật về mức phụ thuộc vào người tiêu dùng Mỹ, không phải ảo giác thống kê do hàng đi qua nhiều nước hơn.
 
 Mô hình của AMRO đi xa hơn: các cú sốc cầu trong khu vực nay tác động lên các nền kinh tế láng giềng **mạnh hơn** các cú sốc cầu từ Hoa Kỳ.
 
-**Đây chính là lập luận cốt lõi của bài.** Nếu phần lớn giao dịch của một khu vực diễn ra trong nội bộ khu vực đó, thì việc mọi thanh toán đều phải đi vòng qua đồng tiền của một nước thứ ba là chi phí thuần túy: hai lần đổi tiền, hai lần chênh lệch mua bán, hai lần rủi ro tỷ giá, cho một giao dịch mà cả hai đầu đều nằm trong khu vực.
+**Đây chính là lập luận cốt lõi của bài.** Dòng hàng đã đổi hướng về phía khu vực, nhưng dòng tiền vẫn đi vòng qua đồng đô la. Nếu phần lớn giao dịch của một khu vực diễn ra trong nội bộ khu vực đó, thì việc mọi thanh toán đều phải đi qua đồng tiền của một nước thứ ba là chi phí thuần tuý. Ví dụ: doanh nghiệp Việt Nam bán cho doanh nghiệp Thái Lan vẫn phải đổi đồng sang đô la rồi đô la sang baht. Đó là hai lần phí đổi tiền, hai lần chênh lệch mua bán, hai lần rủi ro tỷ giá, cho một giao dịch mà cả hai đầu đều nằm trong khu vực. Sự lệch pha giữa dòng hàng và dòng tiền là thứ cần sửa.
 
 ### 5. Bài học 1997 và con đường không chọn
 
-Bài nhắc lại khủng hoảng tài chính châu Á 1997, khi IMF can thiệp với chương trình 40 tỷ USD để ổn định các đồng tiền đang sụp đổ trong khu vực.
+Bài nhắc lại khủng hoảng tài chính châu Á 1997, khi IMF can thiệp với chương trình 40 tỷ USD để ổn định các đồng tiền đang sụp đổ trong khu vực. Bài học từ đó là sự nguy hiểm của việc vay nợ bằng ngoại tệ và phụ thuộc vào nguồn cứu trợ bên ngoài.
 
-Nhưng châu Á **không** đi theo con đường liên minh tiền tệ kiểu châu Âu. Lý do: khu vực quá đa dạng — về trình độ phát triển, cơ cấu kinh tế, chế độ tỷ giá và mức độ mở tài khoản vốn. Một đồng tiền chung đòi hỏi một chính sách tiền tệ chung, và điều đó không khả thi khi Singapore và Lào có nhu cầu điều hành hoàn toàn khác nhau.
+Nhưng châu Á **không** đi theo con đường liên minh tiền tệ kiểu châu Âu. Lý do: khu vực quá đa dạng về trình độ phát triển, cơ cấu kinh tế, chế độ tỷ giá và mức độ mở tài khoản vốn. Một đồng tiền chung đòi hỏi một chính sách tiền tệ chung, và điều đó không khả thi khi Singapore và Lào có nhu cầu điều hành hoàn toàn khác nhau. Thay vào đó, châu Á chọn xây dựng từng lớp hạ tầng mà không đổi đồng tiền.
 
 ### 6. Bốn lớp hạ tầng đang được xây
 
-Chi tiết đã trình bày ở sơ đồ. Bốn lớp:
+| Lớp | Nội dung | Ví dụ cụ thể |
+|---|---|---|
+| Lớp thứ 1: thanh toán bằng đồng nội tệ | Khuôn khổ song phương, thực hiện qua các tổ chức tài chính được chỉ định | Hai nước thanh toán trực tiếp, bỏ bước trung gian qua đô la |
+| Lớp thứ 2: kết nối thanh toán bán lẻ xuyên biên giới | Hệ thống thanh toán nhanh dựa trên mã QR, có khả năng liên thông | PayNow (Singapore) với PromptPay (Thái Lan); dự án Nexus |
+| Lớp thứ 3: hạ tầng cho đồng nhân dân tệ | Mở rộng CIPS, nhân dân tệ số, mở thị trường trái phiếu chính phủ | Trung Quốc |
+| Lớp thứ 4: tiền kỹ thuật số ngân hàng trung ương bán buôn | Sổ cái phân tán dùng chung, tài sản token hoá | mBridge, Guardian |
 
-**Khuôn khổ thanh toán bằng đồng nội tệ.** Các thỏa thuận song phương, thực hiện qua các tổ chức tài chính được chỉ định, cho phép hai nước thanh toán trực tiếp bằng đồng tiền của nhau thay vì qua đô la.
+**Khuôn khổ thanh toán bằng đồng nội tệ.** Các thoả thuận song phương, thực hiện qua các tổ chức tài chính được chỉ định, cho phép hai nước thanh toán trực tiếp bằng đồng tiền của nhau thay vì qua đô la.
 
-**Kết nối thanh toán bán lẻ xuyên biên giới.** Các hệ thống thanh toán nhanh dựa trên mã QR được làm cho liên thông với nhau. Ví dụ cụ thể nhất là kết nối giữa hệ thống PayNow của Singapore và PromptPay của Thái Lan. Dự án Nexus nhắm tới việc kết nối nhiều hệ thống cùng lúc thay vì từng cặp một — điều này quan trọng vì kết nối song phương có chi phí tăng theo bình phương số nước, còn kết nối đa phương thì không.
+**Kết nối thanh toán bán lẻ xuyên biên giới.** Các hệ thống thanh toán nhanh dựa trên mã QR được làm cho liên thông với nhau, để người dân quét mã ở nước khác như ở nhà. Ví dụ cụ thể nhất là kết nối giữa PayNow của Singapore và PromptPay của Thái Lan. Dự án Nexus nhắm tới việc kết nối nhiều hệ thống cùng lúc thay vì từng cặp một. Điều này quan trọng vì kết nối song phương có chi phí tăng theo bình phương số nước, còn kết nối đa phương thì không. Ví dụ minh hoạ: 10 nước kết nối từng cặp cần 45 đường nối riêng; kết nối qua một trung tâm chung chỉ cần 10.
 
-**Hạ tầng cho đồng nhân dân tệ.** Mở rộng hệ thống thanh toán liên ngân hàng xuyên biên giới, triển khai nhân dân tệ số, và mở rộng khả năng tiếp cận thị trường trái phiếu chính phủ cho nhà đầu tư nước ngoài. Điểm cuối này đáng chú ý: một đồng tiền chỉ trở thành đồng tiền dự trữ khi có một thị trường trái phiếu đủ sâu và đủ mở để người nắm giữ có chỗ cất tiền.
+**Hạ tầng cho đồng nhân dân tệ.** Gồm mở rộng hệ thống thanh toán liên ngân hàng xuyên biên giới (CIPS), triển khai nhân dân tệ số, và mở rộng khả năng tiếp cận thị trường trái phiếu chính phủ cho nhà đầu tư nước ngoài. Điểm cuối đáng chú ý: một đồng tiền chỉ trở thành đồng tiền dự trữ khi có một thị trường trái phiếu đủ sâu và đủ mở để người nắm giữ có chỗ cất tiền sinh lời.
 
-**Tiền kỹ thuật số ngân hàng trung ương bán buôn.** Dự án mBridge, với sự tham gia của Trung Quốc, Hong Kong, Thái Lan và Các Tiểu vương quốc Ả Rập Thống nhất, xây dựng một sổ cái phân tán dùng chung cho các giao dịch bán buôn. Dự án Guardian của Cơ quan Tiền tệ Singapore tập trung vào tài sản được token hóa.
+**Tiền kỹ thuật số ngân hàng trung ương bán buôn.** Dự án mBridge, với sự tham gia của Trung Quốc, Hong Kong, Thái Lan và Các Tiểu vương quốc Ả Rập Thống nhất (UAE), xây dựng một sổ cái phân tán dùng chung cho các giao dịch bán buôn. Dự án Guardian của Cơ quan Tiền tệ Singapore tập trung vào tài sản được token hoá.
 
 ### 7. Vì sao token hóa là bước ngoặt
 
-Vấn đề cũ của thanh toán xuyên biên giới là hệ thống ngân hàng đại lý: tiền phải đi qua nhiều khâu trung gian, mỗi khâu một khoản phí, quá trình mất nhiều ngày làm việc, và luôn tồn tại rủi ro thanh toán khi một bên đã giao còn bên kia chưa.
+Vấn đề cũ của thanh toán xuyên biên giới là hệ thống ngân hàng đại lý. Tiền đi theo đường: đồng tiền A, qua ngân hàng đại lý, đổi sang đô la, qua ngân hàng đại lý khác, rồi mới thành đồng tiền B. Đường đi này có ba nhược điểm:
 
-Phép ẩn dụ của bài rất gọn: **"Cũng như Google Dịch cho phép mọi người giao tiếp trực tiếp mà không cần một ngôn ngữ chung, hạ tầng tài chính được token hóa có thể cho phép các đồng tiền khác nhau tương tác trực tiếp với nhau."**
+- nhiều khâu trung gian, mỗi khâu một khoản phí;
+- chậm, mất nhiều ngày làm việc;
+- luôn tồn tại rủi ro thanh toán khi một bên đã giao còn bên kia chưa.
 
-Đây chính là lý do châu Á không cần liên minh tiền tệ: **cần một giao thức chung, không cần một đồng tiền chung**.
+Phép ẩn dụ của bài rất gọn: **"Cũng như Google Dịch cho phép mọi người giao tiếp trực tiếp mà không cần một ngôn ngữ chung, hạ tầng tài chính được token hoá có thể cho phép các đồng tiền khác nhau tương tác trực tiếp với nhau."**
+
+Đây chính là lý do châu Á không cần liên minh tiền tệ: **cần một giao thức chung, không cần một đồng tiền chung** như euro.
 
 **Thanh toán nguyên tử** là khái niệm kỹ thuật then chốt: hai vế của một giao dịch hoặc cùng hoàn tất hoặc không vế nào hoàn tất, nhờ đó rủi ro thanh toán bị triệt tiêu chứ không chỉ được giảm bớt.
 
-Cơ chế này không mới — Hệ thống Thanh toán Liên kết Liên tục đã vận hành 24 năm và làm đúng việc này. **Nhưng nó chỉ phục vụ các đồng tiền lớn, và phần lớn đồng tiền của các nền kinh tế mới nổi và đang phát triển bị loại ra ngoài** — trong đó có hầu hết đồng tiền ASEAN. Đây chính là khoảng trống mà các dự án mới nhắm tới.
+Cơ chế này không mới: Hệ thống Thanh toán Liên kết Liên tục (CLS) đã vận hành 24 năm và làm đúng việc này. **Nhưng nó chỉ phục vụ các đồng tiền lớn, và phần lớn đồng tiền của các nền kinh tế mới nổi và đang phát triển bị loại ra ngoài**, trong đó có hầu hết đồng tiền ASEAN. Đây chính là khoảng trống mà mBridge và Guardian đang nhắm tới.
 
 ### 8. Kiến trúc mục tiêu
 
-Bài không kêu gọi thay thế đồng đô la mà mô tả một **kiến trúc nhiều lớp**: đồng đô la vẫn neo một tuyến — giao dịch liên châu lục, dự trữ, tài trợ thương mại với ngoài khu vực — trong khi các nền tảng khu vực đảm nhận vai trò lớn hơn cho các giao dịch trong nội bộ khu vực.
+Bài không kêu gọi thay thế đồng đô la mà mô tả một **kiến trúc nhiều lớp**, hai lớp cùng tồn tại:
 
-Đây là chỗ bài khác hẳn các lập luận "phi đô la hóa" thường gặp: mục tiêu không phải hạ bệ ai, mà là không để mọi trứng trong một giỏ.
+| Lớp | Đồng tiền, hạ tầng | Dùng cho |
+|---|---|---|
+| Lớp toàn cầu | Đồng đô la | Giao dịch liên châu lục, dự trữ, tài trợ thương mại với ngoài khu vực |
+| Lớp khu vực | Đồng nội tệ, thanh toán trực tiếp, QR xuyên biên giới, CBDC bán buôn | Giao dịch trong nội bộ khu vực |
+
+Đây là chỗ bài khác hẳn các lập luận "phi đô la hoá" thường gặp: mục tiêu không phải hạ bệ đồng đô la, mà là bổ sung, để không đặt mọi quả trứng vào một giỏ.
 
 ### 9. Ý nghĩa với Việt Nam
 
 Bốn điểm:
 
-**Việt Nam là một trong mười thành viên ASEAN của khối**, và là nước có độ mở thương mại cao nhất — nghĩa là cũng là nước chịu chi phí đổi tiền và rủi ro tỷ giá nhiều nhất tính trên quy mô nền kinh tế. Lợi ích tiềm năng từ việc thanh toán trực tiếp bằng đồng nội tệ trong khu vực vì thế lớn hơn mức trung bình.
+**Việt Nam là một trong mười thành viên ASEAN của khối**, và là một trong những nước có độ mở thương mại cao nhất khối, nên cũng thuộc nhóm chịu chi phí đổi tiền và rủi ro tỷ giá nhiều nhất tính trên quy mô nền kinh tế. Lợi ích tiềm năng từ việc thanh toán trực tiếp bằng đồng nội tệ trong khu vực vì thế lớn hơn mức trung bình.
 
-**Sự lệch pha giữa dòng hàng và dòng tiền đặc biệt rõ với Việt Nam.** Thương mại của Việt Nam với Trung Quốc, Hàn Quốc, Nhật Bản và các nước ASEAN chiếm tỷ trọng rất lớn, nhưng thanh toán vẫn chủ yếu qua đô la. Mỗi giao dịch với một đối tác trong khu vực phải trả hai lần chênh lệch mua bán ngoại tệ cho một đồng tiền mà không bên nào sử dụng.
+**Sự lệch pha giữa dòng hàng và dòng tiền đặc biệt rõ với Việt Nam.** Thương mại của Việt Nam với Trung Quốc, Hàn Quốc, Nhật Bản và các nước ASEAN chiếm tỷ trọng rất lớn, nhưng thanh toán vẫn chủ yếu qua đô la. Mỗi giao dịch với một đối tác trong khu vực phải trả hai lần chênh lệch mua bán ngoại tệ cho một đồng tiền mà không bên nào thực sự cần dùng.
 
 **Hạ tầng thanh toán bán lẻ là chỗ Việt Nam có thể tham gia sớm nhất.** Kết nối mã QR xuyên biên giới không đòi hỏi mở tài khoản vốn, không đòi hỏi thay đổi chế độ tỷ giá, và có lợi ích trực tiếp đo được cho du lịch, kiều hối và thương mại nhỏ lẻ.
 
-**Nhưng cần đọc bài này với sự dè dặt đã nêu trong phần Lưu ý:** bài mô tả một xu hướng bằng các thông báo thể chế và dự án thí điểm chứ không bằng dòng tiền đo được, và tự thừa nhận quy mô thực tế "vẫn còn khiêm tốn". Khoảng cách giữa hạ tầng được xây và hạ tầng được dùng thường rất lớn, vì quán tính mạng lưới trong tiền tệ là một trong những lực mạnh nhất trong kinh tế học: người ta dùng đồng đô la vì người khác dùng đồng đô la.
+**Nhưng cần đọc bài này với sự dè dặt.** Bài mô tả một xu hướng bằng các thông báo thể chế và dự án thí điểm chứ không bằng dòng tiền đo được, và tự thừa nhận quy mô thực tế "vẫn còn khiêm tốn". Khoảng cách giữa hạ tầng được xây và hạ tầng được dùng thường rất lớn, vì quán tính mạng lưới trong tiền tệ là một trong những lực mạnh nhất trong kinh tế học: người ta dùng đồng đô la vì người khác dùng đồng đô la.
 
 ## Thuật ngữ
 

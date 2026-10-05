@@ -136,59 +136,125 @@ Các con số nền của khối:
 
 3. **Sửa được thì được gì?** IMF ước tính tháo bỏ các hàng rào phi thuế quan có thể nâng sản lượng ASEAN thêm 4,3% trong dài hạn, tương đương thêm vào hơn một phần ba quy mô nền kinh tế Malaysia. Đây là mức lợi ích lớn nhất trong các nhóm nước châu Á được so sánh — gấp hơn hai lần mức của toàn khu vực châu Á – Thái Bình Dương.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Thương mại nội khối và tỷ trọng xuất khẩu nội khối (intra-bloc trade).** Thương mại nội khối là phần buôn bán giữa các nước trong cùng một khối, ví dụ Việt Nam bán hàng cho Thái Lan. Tỷ trọng xuất khẩu nội khối là phần xuất khẩu đi tới các nước thành viên chia cho tổng xuất khẩu. Ví dụ trong bài: ASEAN chỉ có khoảng 22% xuất khẩu đi tới chính các thành viên, EU có 61%. Đây là con số trung tâm mà bài dùng để nói ASEAN hội nhập nông.
+
+**Độ mở thương mại (trade openness).** Tổng xuất khẩu cộng nhập khẩu chia cho GDP. Con số có thể vượt 100% vì xuất nhập khẩu tính theo tổng giá trị hàng hoá, còn GDP chỉ tính phần giá trị tạo thêm trong nước. Ví dụ minh hoạ: một nước nhập linh kiện 80 đồng, lắp ráp thêm 20 đồng giá trị rồi xuất khẩu 100 đồng; xuất nhập khẩu là 180 đồng trong khi phần đóng góp vào GDP chỉ 20 đồng. Trong bài, Việt Nam có độ mở khoảng 165% GDP. Khái niệm này cần để thấy nghịch lý: nước rất mở với thế giới vẫn có thể ít buôn bán với láng giềng.
+
+**Hàng trung gian và hàng hoá cuối cùng.** Hàng trung gian là linh kiện, bán thành phẩm, những thứ còn được đưa vào sản xuất tiếp. Hàng hoá cuối cùng là thứ người tiêu dùng hay doanh nghiệp dùng hẳn, như chiếc điện thoại hoàn chỉnh. Ví dụ minh hoạ: một con chip làm ở Malaysia, gắn vào bo mạch ở Việt Nam, rồi chiếc điện thoại bán ở Mỹ; con chip và bo mạch là hàng trung gian, chiếc điện thoại là hàng cuối cùng. Bài nói thương mại nội khối ASEAN chủ yếu là loại hàng trung gian này.
+
+**Cầu cuối cùng (final demand).** Khoản chi của người mua cuối cùng: hộ gia đình, doanh nghiệp đầu tư, nhà nước, người mua nước ngoài. Đây là nguồn tiền thực sự trả cho toàn bộ chuỗi sản xuất. Trong ví dụ trên, cầu cuối cùng là người Mỹ mua chiếc điện thoại. Bài nhấn mạnh cầu cuối cùng của chuỗi ASEAN nằm ngoài khối, nên khi cầu bên ngoài giảm, mọi khâu trong khối cùng giảm.
+
+**Hàng rào phi thuế quan (nontariff barriers).** Mọi trở ngại thương mại không phải là thuế nhập khẩu: tiêu chuẩn kỹ thuật khác nhau, thủ tục hải quan, giấy phép, chứng nhận, hạn chế với dịch vụ và di chuyển lao động. Ví dụ minh hoạ: một lô hàng thực phẩm không mất đồng thuế nào khi sang nước láng giềng, nhưng phải xin chứng nhận vệ sinh riêng mất vài tuần. Bài ước tính gỡ các hàng rào này nâng sản lượng ASEAN thêm 4,3% trong dài hạn.
+
+**Đầu tư trực tiếp nước ngoài (FDI).** Tiền nhà đầu tư nước ngoài bỏ vào để xây nhà máy, mở doanh nghiệp, nắm quyền điều hành, khác với mua cổ phiếu hay trái phiếu để kiếm lời ngắn hạn. Ví dụ trong bài: FDI vào ASEAN năm 2025 đạt 244 tỷ USD, trong đó FDI vào chế tạo tăng gần 50%. Bài dùng con số này để nói ASEAN đang nhận năng lực sản xuất thật.
+
+**Thị trường chung (single market).** Một khu vực mà hàng hoá, dịch vụ, vốn và lao động đi lại giữa các nước gần như trong một nước, với quy định thống nhất. EU là ví dụ. Khái niệm này giúp hiểu câu tổng kết của bài: ASEAN có dây chuyền sản xuất chung nhưng chưa có thị trường chung.
+
+## Nội dung chi tiết
 
 ### 1. ASEAN đã trở thành công xưởng được lựa chọn
 
-Bài mở bằng một nhận định thẳng: ASEAN đã trở thành công xưởng được lựa chọn của thế giới. Bằng chứng không phải ở lời tuyên bố mà ở dòng vốn: các hãng ô tô, hãng bán dẫn và các tập đoàn điện tử lớn đều đang mở rộng năng lực ở khu vực này.
+Bài mở bằng một nhận định thẳng: ASEAN đã trở thành công xưởng được lựa chọn của thế giới. Các con số nền của khối:
 
-Con số đáng chú ý nhất không phải là tổng FDI 244 tỷ USD hay mức tăng 10% của năm 2025, mà là **FDI vào chế tạo tăng gần 50% trong cùng năm**. Chênh lệch giữa hai tốc độ này có ý nghĩa: nó cho thấy dòng vốn không phải là vốn tài chính đi tìm lợi suất mà là vốn xây nhà máy — tức dịch chuyển năng lực sản xuất thật.
+| Chỉ tiêu | Giá trị |
+|---|---|
+| Quy mô kinh tế | 4.500 tỷ USD |
+| Xếp hạng thế giới | thứ tư |
+| Dân số | khoảng 700 triệu |
+| Tăng trưởng | trên 4,5%/năm |
+| FDI năm 2025 | 244 tỷ USD, tăng 10% |
+| Trong đó FDI vào chế tạo | tăng gần 50% |
+| Xuất khẩu nội khối | 22% (EU: 61%) |
+| Lợi ích nếu bỏ hàng rào phi thuế quan | thêm 4,3% sản lượng dài hạn, khoảng hơn 1/3 quy mô kinh tế Malaysia |
+
+Bằng chứng cho nhận định "công xưởng" không nằm ở lời tuyên bố mà ở dòng vốn: các hãng ô tô, hãng bán dẫn và các tập đoàn điện tử lớn đều đang mở rộng năng lực ở khu vực này.
+
+Con số đáng chú ý nhất không phải là tổng FDI 244 tỷ USD hay mức tăng 10% của năm 2025, mà là **FDI vào chế tạo tăng gần 50% trong cùng năm**, nhanh hơn hẳn FDI nói chung. Chênh lệch giữa hai tốc độ này có ý nghĩa: dòng vốn đang chảy vào xây nhà máy chứ không phải vốn tài chính đi tìm lợi suất ngắn hạn. Nói cách khác, năng lực sản xuất thật đang dịch chuyển về khu vực, và loại vốn này khó rút đi nhanh như vốn tài chính.
 
 ### 2. Vị thế đã thay đổi bao nhiêu
 
-Về xuất khẩu hàng hóa, ASEAN đi từ khoảng 6% thị phần toàn cầu lên khoảng 8% và **đã gần bắt kịp Hoa Kỳ**, trong khi Hoa Kỳ đi xuống từ khoảng 10%. Trung Quốc trong cùng thời kỳ tăng mạnh nhất, từ khoảng 7% lên khoảng 15%.
+**Về xuất khẩu hàng hoá.** Tỷ trọng trong xuất khẩu hàng hoá toàn cầu thay đổi như sau:
 
-Về thu hút FDI, ASEAN đi từ khoảng 4,5% tổng dòng vốn toàn cầu năm 2005 lên đỉnh khoảng 16,5% vào năm 2022 và hiện ở quanh 15% — tức gấp hơn ba lần trong hai thập niên.
+| Nền kinh tế | Trước | Nay | Xu hướng |
+|---|---|---|---|
+| Trung Quốc | khoảng 7% | khoảng 15% | hơn gấp đôi |
+| ASEAN | khoảng 6% | khoảng 8% | tăng |
+| Hoa Kỳ | khoảng 10% | khoảng 8% | giảm |
+
+ASEAN đã gần bắt kịp Hoa Kỳ: cả hai cùng ở khoảng 8% xuất khẩu hàng hoá thế giới. Trung Quốc là bên tăng mạnh nhất trong cùng thời kỳ.
+
+**Về thu hút FDI.** Tỷ trọng của ASEAN trong dòng FDI toàn cầu chảy vào đi từ khoảng 4,5% năm 2005 lên đỉnh khoảng 16,5% năm 2022, và hiện ở quanh 15%. Tức là gấp hơn ba lần trong khoảng hai thập niên. Ví dụ để hình dung: năm 2005, cứ 100 đô la FDI trên thế giới thì khoảng 4,5 đô la vào ASEAN; nay con số đó là khoảng 15 đô la.
 
 ### 3. Nghịch lý: mở với thế giới, đóng với nhau
 
 Đây là nội dung trung tâm của bài.
 
-**Chỉ khoảng 22% hàng xuất khẩu của ASEAN đi tới chính các nước thành viên, so với 61% ở Liên minh châu Âu.** Chênh lệch gần ba lần này cho thấy hai khối tuy đều gọi là "khối kinh tế" nhưng khác nhau về bản chất: EU là một thị trường chung nơi các nước bán hàng cho nhau; ASEAN là một tập hợp các nền kinh tế cùng bán ra bên ngoài.
+**Chỉ khoảng 22% hàng xuất khẩu của ASEAN (tính 11 nước, gồm cả Timor-Leste) đi tới chính các nước thành viên, so với 61% ở Liên minh châu Âu (27 nước).** Tỷ lệ của ASEAN chưa bằng một nửa EU; chênh lệch gần ba lần. Điều này cho thấy hai khối tuy đều gọi là "khối kinh tế" nhưng khác nhau về bản chất: EU là một thị trường chung nơi các nước chủ yếu bán hàng cho nhau, còn ASEAN là một tập hợp các nền kinh tế cùng bán ra bên ngoài.
 
-**Và mô thức này rõ nhất ở hai nước mở nhất.** Singapore có độ mở thương mại khoảng 175% GDP nhưng chỉ khoảng 28% xuất khẩu đi trong khối. Việt Nam có độ mở khoảng 165% GDP nhưng tỷ trọng nội khối chỉ khoảng 13% — **thấp nhất trong toàn khối**. Malaysia ở khoảng 150% độ mở với 28% nội khối.
+**Mô thức này rõ nhất ở chính những nước mở nhất.** Bài đặt từng nước lên hai trục: độ mở thương mại (tổng xuất nhập khẩu chia GDP) và tỷ trọng xuất khẩu đi tới các thành viên ASEAN.
 
-Ở chiều ngược lại, Lào có tỷ trọng nội khối cao bất thường, khoảng 62%, nhưng đó là do quy mô nhỏ và vị trí không giáp biển khiến nước này phụ thuộc vào các nước láng giềng để tiếp cận thế giới — không phải dấu hiệu hội nhập sâu mà là dấu hiệu phụ thuộc.
+| Nước | Độ mở thương mại (% GDP) | Tỷ trọng xuất khẩu nội khối |
+|---|---|---|
+| Singapore | khoảng 175% | khoảng 28% |
+| Việt Nam | khoảng 165% | khoảng 13%, thấp nhất khối |
+| Malaysia | khoảng 150% | khoảng 28% |
+| Timor-Leste | khoảng 75% | |
+| Lào | thấp | khoảng 62%, cao nhất khối |
+| Trung bình ASEAN | | 22% |
+| Trung bình EU | | 61% |
+
+Ba nền kinh tế lớn nhất về thương mại là Singapore, Việt Nam và Malaysia đều rơi vào cùng một nhóm: rất mở với thế giới, nhưng tỷ trọng nội khối thấp. Việt Nam là trường hợp nổi bật nhất: rất mở với thế giới nhưng tỷ trọng nội khối thấp nhất trong toàn khối. Trong khi đó trung bình EU nằm ở 61%, xa hẳn tất cả các nước này.
+
+**Lào là ngoại lệ theo chiều ngược lại.** Lào ít mở nhưng có tỷ trọng nội khối khoảng 62%, cao hơn cả trung bình EU. Lý do là Lào nhỏ và không giáp biển, nên phải dựa vào các nước láng giềng để buôn bán và để tiếp cận thế giới. Đó không phải dấu hiệu hội nhập sâu mà là dấu hiệu phụ thuộc.
 
 ### 4. Vì sao đây là vấn đề chứ không chỉ là một con số
 
-Phần hàng hóa thực sự qua lại giữa các nước ASEAN **chủ yếu là hàng trung gian**: linh kiện, bán thành phẩm, những thứ chưa phải sản phẩm cuối cùng. Điều này có hai mặt.
+Phần hàng hoá thực sự qua lại giữa các nước ASEAN **chủ yếu là hàng trung gian**: linh kiện, bán thành phẩm, những thứ chưa phải sản phẩm cuối cùng. Điều này có hai mặt.
 
-Mặt tích cực: nó chứng minh chuỗi sản xuất chung là có thật. Các nước đang phân công theo công đoạn chứ không cạnh tranh trực diện. Một con chip có thể được thiết kế ở nơi này, chế tạo ở nơi khác, đóng gói ở nơi thứ ba, tất cả trong nội khối.
+**Mặt tích cực:** nó chứng minh chuỗi sản xuất chung là có thật. Các nước đang phân công theo công đoạn chứ không cạnh tranh trực diện với nhau. Một con chip có thể được thiết kế ở nơi này, chế tạo ở nơi khác, đóng gói ở nơi thứ ba, tất cả trong nội khối.
 
-Mặt hạn chế, và đây là điểm bài nhấn mạnh: **đích đến cuối cùng vẫn nằm ngoài khối**. Hàng đi lòng vòng trong ASEAN rồi cuối cùng vẫn bán sang Mỹ, Trung Quốc hoặc châu Âu. Cầu cuối cùng — nguồn tiền thực sự trả cho toàn bộ chuỗi — không nằm trong khối.
+**Mặt hạn chế, và đây là điểm bài nhấn mạnh:** **đích đến cuối cùng vẫn nằm ngoài khối**. Hàng đi qua lại trong ASEAN rồi cuối cùng vẫn bán sang Mỹ, Trung Quốc hoặc châu Âu. Cầu cuối cùng, tức nguồn tiền thực sự trả cho toàn bộ chuỗi, không nằm trong khối.
 
 Câu tổng kết của bài: **"ASEAN đã dựng được một dây chuyền sản xuất chung, nhưng chưa dựng được một thị trường chung."**
 
-Hệ quả về mặt rủi ro rất rõ: một dây chuyền sản xuất chung bán ra bên ngoài thì khi cầu bên ngoài sụp, cả khối cùng sụp một lúc và không có đệm nội khối nào để hấp thụ. Đây chính là mặt trái của việc chuyên môn hóa sâu mà không đa dạng hóa thị trường đầu ra.
+Hệ quả về rủi ro rất rõ. Một dây chuyền sản xuất chung mà bán ra bên ngoài thì khi cầu bên ngoài sụp, cả khối cùng sụp một lúc, và không có thị trường nội khối nào làm đệm để hấp thụ. Ví dụ minh hoạ: nếu người tiêu dùng Mỹ giảm mua điện thoại, nhà máy lắp ráp ở Việt Nam giảm đơn, nhà máy chip ở Malaysia giảm đơn theo, và nhà cung cấp linh kiện ở Thái Lan cũng vậy, tất cả trong cùng một quý. Đây là mặt trái của việc chuyên môn hoá sâu mà không đa dạng hoá thị trường đầu ra.
 
 ### 5. Rào cản nằm ở đâu và phần thưởng là bao nhiêu
 
-Vấn đề không nằm ở thuế quan — thuế quan trong ASEAN đã gần như bằng không sau nhiều thập niên đàm phán. Vấn đề nằm ở **hàng rào phi thuế quan**: tiêu chuẩn kỹ thuật khác nhau, thủ tục hải quan, quy định về giấy phép, yêu cầu chứng nhận, hạn chế đối với dịch vụ và di chuyển lao động. Đây là loại rào cản khó tháo hơn nhiều vì chúng nằm rải rác trong hàng nghìn quy định trong nước của từng nước, và mỗi quy định đều có một lý do chính đáng bề ngoài.
+Vấn đề không nằm ở thuế quan: thuế quan trong ASEAN đã gần như bằng không sau nhiều thập niên đàm phán. Vấn đề nằm ở **hàng rào phi thuế quan**:
 
-**IMF ước tính tháo bỏ các hàng rào này có thể nâng sản lượng ASEAN thêm 4,3% trong dài hạn — tương đương thêm vào hơn một phần ba quy mô nền kinh tế Malaysia.**
+- tiêu chuẩn kỹ thuật khác nhau giữa các nước;
+- thủ tục hải quan;
+- quy định về giấy phép;
+- yêu cầu chứng nhận;
+- hạn chế đối với dịch vụ và di chuyển lao động.
 
-Để so sánh, lợi ích tương tự từ hội nhập sâu hơn được ước tính cho các nhóm khác thấp hơn đáng kể: toàn khu vực châu Á – Thái Bình Dương khoảng 1,8%, Đông Á khoảng 1,3%, Nam Á khoảng 1,7%. **Lợi ích của ASEAN lớn nhất chính vì xuất phát điểm hội nhập của khối thấp nhất** — càng nhiều rào cản còn lại thì càng nhiều thứ để gỡ.
+Loại rào cản này khó tháo hơn thuế quan nhiều, vì chúng nằm rải rác trong hàng nghìn quy định trong nước của từng nước, và mỗi quy định đều có một lý do chính đáng bề ngoài.
+
+**IMF ước tính tháo bỏ các hàng rào này có thể nâng sản lượng ASEAN thêm 4,3% trong dài hạn, tương đương thêm vào hơn một phần ba (1/3) quy mô nền kinh tế Malaysia.**
+
+Để so sánh, lợi ích tương tự từ hội nhập sâu hơn được ước tính cho các nhóm khác thấp hơn đáng kể:
+
+| Nhóm nước | Mức tăng sản lượng dài hạn |
+|---|---|
+| ASEAN | 4,3% |
+| Toàn châu Á – Thái Bình Dương | khoảng 1,8% |
+| Nam Á | khoảng 1,7% |
+| Đông Á | khoảng 1,3% |
+
+**Lợi ích của ASEAN lớn nhất chính vì xuất phát điểm hội nhập của khối thấp nhất**: càng nhiều rào cản còn lại thì càng nhiều thứ để gỡ. Mức của ASEAN gấp hơn hai lần mức của toàn khu vực châu Á – Thái Bình Dương.
 
 ### 6. Ý nghĩa với Việt Nam
 
 Ba điểm rút ra:
 
-**Việt Nam là ví dụ cực đoan nhất của nghịch lý.** Độ mở thương mại vào loại cao nhất thế giới (khoảng 165% GDP) nhưng tỷ trọng xuất khẩu nội khối thấp nhất ASEAN (khoảng 13%). Nghĩa là Việt Nam đã hội nhập rất sâu vào kinh tế toàn cầu nhưng gần như chưa hội nhập vào khu vực của mình.
+**Việt Nam là ví dụ cực đoan nhất của nghịch lý.** Độ mở thương mại vào loại cao nhất thế giới (khoảng 165% GDP) nhưng tỷ trọng xuất khẩu nội khối thấp nhất ASEAN (khoảng 13%). Nghĩa là Việt Nam đã hội nhập rất sâu vào kinh tế toàn cầu nhưng gần như chưa hội nhập vào khu vực của mình. Ví dụ để hình dung: cứ 100 đồng hàng Việt Nam xuất khẩu thì chỉ khoảng 13 đồng đi tới các nước ASEAN, so với khoảng 28 đồng của Singapore hay Malaysia.
 
-**Điều đó vừa là thành tích vừa là rủi ro.** Thành tích vì nó phản ánh năng lực cạnh tranh thật trên thị trường khó tính. Rủi ro vì nó có nghĩa là Việt Nam gần như không có đệm khu vực: khi cầu từ Mỹ, Trung Quốc hoặc châu Âu suy yếu, không có thị trường láng giềng nào đủ lớn để bù đắp.
+**Điều đó vừa là thành tích vừa là rủi ro.** Thành tích vì nó phản ánh năng lực cạnh tranh thật trên những thị trường khó tính như Mỹ, EU. Rủi ro vì Việt Nam gần như không có đệm khu vực: khi cầu từ Mỹ, Trung Quốc hoặc châu Âu suy yếu, không có thị trường láng giềng nào đủ lớn để bù đắp.
 
-**Lợi ích tiềm năng từ hội nhập nội khối là lớn nhất đối với những nước có tỷ trọng nội khối thấp nhất** — tức là lớn nhất đối với Việt Nam. Con số 4,3% cho cả khối là trung bình; phần được phân bổ về các nước hiện ít giao thương nội khối nhất sẽ cao hơn mức đó.
+**Lợi ích tiềm năng từ hội nhập nội khối lớn nhất đối với những nước có tỷ trọng nội khối thấp nhất**, tức là lớn nhất đối với Việt Nam. Con số 4,3% cho cả khối là trung bình; phần phân bổ về các nước hiện ít giao thương nội khối nhất sẽ cao hơn mức đó.
 
 ## Thuật ngữ
 

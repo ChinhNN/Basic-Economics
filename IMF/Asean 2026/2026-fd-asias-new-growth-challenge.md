@@ -171,93 +171,178 @@ Phép tính của "thập niên quyết định":
 
 3. **Còn những dư địa nào?** Bốn hướng: **hội nhập khu vực sâu hơn** (lợi ích lớn nhất thuộc về ASEAN ở mức 4,3% GDP, và phần lớn lợi ích đến từ việc tự mình gỡ rào cản chứ không phải từ việc nước khác mở cửa); **trí tuệ nhân tạo** (có thể nâng tăng trưởng tới 1 điểm phần trăm mỗi năm ở những nước có nền tảng vững); **dịch vụ hiện đại** (mô hình dịch vụ hiện đại của Ấn Độ, mô hình gia công quy trình kinh doanh của Philippines); và **thu ngân sách** (thu thuế ở nhiều nước châu Á, đặc biệt nhiều nước ASEAN, còn thấp so với các nước cùng nhóm).
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Đóng góp vào tăng trưởng toàn cầu (contribution to global growth).** Phần tăng thêm của sản lượng thế giới trong một giai đoạn đến từ một khu vực, tính bằng phần trăm của tổng phần tăng thêm. Ví dụ minh hoạ: nếu GDP thế giới tăng thêm 100 đơn vị trong một thập niên và châu Á tạo ra 58 đơn vị trong số đó, đóng góp của châu Á là 58%. Đây là thước đo bài dùng để kể câu chuyện ba giai đoạn vươn lên của châu Á.
+
+**Lợi suất trên vốn (returns to capital) và năng suất biên.** Lợi suất trên vốn là phần sản lượng hay lợi nhuận thu được trên mỗi đồng vốn đầu tư. Năng suất biên là sản lượng tăng thêm khi bỏ thêm một đồng vốn vào một chỗ cụ thể. Ví dụ minh hoạ: thêm 1 tỷ đồng vào một doanh nghiệp lớn đã thừa máy móc chỉ tạo thêm 50 triệu sản lượng mỗi năm, còn cùng số tiền đó vào một doanh nghiệp trẻ đang thiếu vốn có thể tạo thêm 300 triệu. Bài lập luận châu Á đầu tư nhiều nhưng lợi suất giảm, vì vốn chảy vào nơi năng suất biên thấp.
+
+**Hệ thống tài chính thiên về ngân hàng (bank-centric financial system).** Nền kinh tế mà doanh nghiệp chủ yếu vay ngân hàng, ít huy động qua trái phiếu, cổ phiếu hay quỹ đầu tư mạo hiểm. Ngân hàng cho vay dựa trên **tài sản thế chấp** (nhà, đất, máy móc mà ngân hàng giữ quyền thu nếu không trả nợ) và **lịch sử tín dụng** (hồ sơ vay trả trước đây). Ví dụ minh hoạ: một công ty phần mềm 2 năm tuổi, không có nhà xưởng, khó vay được 10 tỷ đồng dù có khách hàng tốt, trong khi một doanh nghiệp nhà nước có đất đai vay dễ dàng. Đây là nguyên nhân bài đưa ra cho việc "vốn đi sai chỗ".
+
+**Lợi tức dân số (demographic dividend).** Giai đoạn mà tỷ lệ người trong độ tuổi lao động trên tổng dân số cao và đang tăng, nên mỗi người đi làm phải nuôi ít người phụ thuộc (trẻ em, người già) hơn, giúp tăng tiết kiệm và tăng trưởng. Khi dân số già đi, lợi tức này mất dần. Ví dụ trong bài: tỷ lệ người từ 65 tuổi trở lên ở châu Á sẽ tăng từ khoảng 1 trên 10 hiện nay lên 1 trên 5 vào năm 2050. Bài chia các nước thành ba nhóm theo giai đoạn của lợi tức này.
+
+**Tỷ suất sinh (fertility rate).** Số con trung bình một phụ nữ sinh ra trong đời. Mức khoảng 2,1 con là mức giữ dân số ổn định lâu dài. Ví dụ trong bài: châu Á giảm từ khoảng 6 con mỗi phụ nữ trong thập niên 1960 xuống khoảng 1,6 hiện nay, tức thấp hơn mức thay thế. Đây là động lực chính của cú đảo chiều nhân khẩu học.
+
+**Hàng hoá cuối cùng giao dịch nội khu vực.** Phần hàng hoá cuối cùng (sản phẩm người dùng mua hẳn, như ô tô, quần áo, khác với linh kiện) mà các nước trong một khu vực bán cho nhau, chia cho tổng hàng hoá cuối cùng họ xuất khẩu. Ví dụ trong bài: châu Á chưa tới 30%, châu Âu và Bắc Mỹ khoảng 60%. Thước đo này cho thấy châu Á có chuỗi sản xuất chung nhưng vẫn bán sản phẩm cuối ra ngoài.
+
+**Được tiếp cận thị trường và mở cửa thị trường của mình (gaining và giving market access).** "Được tiếp cận" là lợi ích khi nước khác gỡ rào cản cho hàng của mình. "Mở cửa" là lợi ích khi chính mình gỡ rào cản cho hàng nước khác, nhờ người tiêu dùng và doanh nghiệp trong nước mua được đầu vào rẻ hơn, tốt hơn. Ví dụ trong bài: với ASEAN, phần "mở cửa" là khoảng 2,6% GDP, lớn hơn phần "được tiếp cận" khoảng 1,7%. Điểm này cho thấy phần lớn lợi ích nằm trong tầm quyết định của từng nước.
+
+**Điểm phần trăm (percentage point).** Chênh lệch giữa hai tỷ lệ phần trăm. Ví dụ minh hoạ: tăng trưởng từ 5% xuống 4,7% là giảm 0,3 điểm phần trăm (không phải giảm 0,3%). Bài dùng đơn vị này cho phép tính kết luận: dân số trừ 0,3 điểm phần trăm, AI cộng 0,2 đến 1,0 điểm phần trăm.
+
+## Nội dung chi tiết
 
 ### 1. Mở đầu: một nhà máy ở Thành phố Hồ Chí Minh
 
-Bài mở bằng hình ảnh các nhà máy lắp ráp bán dẫn và điện tử ở Thành phố Hồ Chí Minh, rồi rút ra nhận định: **"Ở Việt Nam, cũng như Hàn Quốc một thế hệ trước, sự ổn định kinh tế cùng với việc mở cửa cho thương mại và đầu tư nước ngoài đang chuyển hóa nền kinh tế và nâng mức sống lên một cách rõ rệt."**
+Bài mở bằng hình ảnh các nhà máy lắp ráp bán dẫn và điện tử ở Thành phố Hồ Chí Minh, rồi rút ra nhận định: **"Ở Việt Nam, cũng như Hàn Quốc một thế hệ trước, sự ổn định kinh tế cùng với việc mở cửa cho thương mại và đầu tư nước ngoài đang chuyển hoá nền kinh tế và nâng mức sống lên một cách rõ rệt."**
 
-Phép so sánh này không ngẫu nhiên: nó đặt Việt Nam vào đúng quỹ đạo mà Hàn Quốc đã đi, đồng thời ngầm nhắc rằng Hàn Quốc hiện đã nằm trong nhóm "đã hết lợi tức dân số" — tức là quỹ đạo đó có điểm cuối.
+Phép so sánh này không ngẫu nhiên. Nó đặt Việt Nam vào đúng quỹ đạo mà Hàn Quốc đã đi: ổn định vĩ mô, mở cửa, thu hút đầu tư, công nghiệp hoá dựa vào xuất khẩu. Đồng thời nó ngầm nhắc rằng Hàn Quốc hiện đã nằm trong nhóm "đã hết lợi tức dân số", tức là quỹ đạo đó có điểm cuối, và nước đi sau phải tính đến điểm cuối ấy ngay từ bây giờ.
 
 ### 2. Ba giai đoạn vươn lên
 
-Đóng góp của châu Á vào tăng trưởng GDP thực toàn cầu đi từ khoảng 11% trong thập niên 1950 lên khoảng 58% trong thập niên 2010 và 2020, qua ba giai đoạn được bài đặt tên: cất cánh, tăng tốc, và thống trị.
+Hiện nay châu Á chiếm gần 40% sản lượng toàn cầu. Bài kể quá trình đi tới vị trí này qua đóng góp của châu Á vào tăng trưởng GDP thực toàn cầu theo từng thập niên:
 
-Hiện nay châu Á chiếm gần 40% sản lượng toàn cầu.
+| Thập niên | Đóng góp của châu Á | Giai đoạn |
+|---|---|---|
+| 1950 | khoảng 11% | Cất cánh |
+| 1960 | khoảng 22% | Cất cánh |
+| 1970 | khoảng 22% | Cất cánh |
+| 1980 | khoảng 39% | Tăng tốc |
+| 1990 | khoảng 43% | Tăng tốc |
+| 2000 | khoảng 47% | Tăng tốc |
+| 2010 | khoảng 58% | Thống trị |
+| 2020 (chỉ gồm 2020–2025) | khoảng 58% | Thống trị |
+
+Thân bài nói châu Á đóng góp "hai phần ba" tăng trưởng thế giới, tăng từ khoảng một phần tư trong thập niên 1990. Nhưng biểu đồ của chính bài cho 58%, thấp hơn hai phần ba (66,7%). Thêm nữa, cột thập niên 2020 chỉ gồm 6 năm, không so sánh trực tiếp được với các thập niên đầy đủ 10 năm. Người đọc nên lấy con số 58% làm mốc, và hiểu rằng giai đoạn "thống trị" đã kéo dài khoảng một thập niên rưỡi.
 
 ### 3. Nút thắt thứ nhất: vốn nhiều nhưng đi sai chỗ
 
-Năng suất chậm lại kể từ khủng hoảng tài chính toàn cầu. Đầu tư vẫn ở mức cao nhưng **lợi suất trên vốn đã giảm** — nghĩa là vấn đề không phải thiếu vốn.
+Năng suất ở châu Á chậm lại kể từ khủng hoảng tài chính toàn cầu. Đầu tư vẫn ở mức cao nhưng **lợi suất trên vốn đã giảm**. Điều này cho thấy vấn đề không phải là thiếu vốn, mà là vốn đi sai chỗ.
 
-Nguyên nhân được chỉ rõ: tín dụng dồi dào nhưng hệ thống tài chính **quá thiên về ngân hàng**. Ngân hàng cho vay dựa trên tài sản thế chấp và lịch sử tín dụng, nên cấu trúc này tự nhiên ưu ái các doanh nghiệp lớn đã có chỗ đứng — bao gồm doanh nghiệp nhà nước — hơn là những doanh nghiệp trẻ, tăng trưởng nhanh và sáng tạo. Nhưng chính nhóm sau mới là nơi năng suất biên cao nhất.
+Bài chỉ rõ nguyên nhân bằng một chuỗi lập luận:
+
+1. Tín dụng dồi dào, nhưng hệ thống tài chính **quá thiên về ngân hàng**.
+2. Ngân hàng cho vay dựa trên tài sản thế chấp và lịch sử tín dụng.
+3. Hai tiêu chí đó tự nhiên ưu ái các doanh nghiệp lớn đã có chỗ đứng, bao gồm doanh nghiệp nhà nước.
+4. Những doanh nghiệp trẻ, tăng trưởng nhanh và sáng tạo thì khó vay, dù chính nhóm này mới là nơi năng suất biên cao nhất.
+
+So sánh hai nhóm doanh nghiệp:
+
+| | Doanh nghiệp lớn, đã có chỗ đứng (gồm doanh nghiệp nhà nước) | Doanh nghiệp trẻ, tăng trưởng nhanh, sáng tạo |
+|---|---|---|
+| Tiếp cận vốn ngân hàng | Dễ vay | Khó vay |
+| Năng suất biên của đồng vốn thêm | Thấp | Cao |
 
 Kết quả, theo đúng chữ của bài: **"nguồn lực thường mắc kẹt trong những doanh nghiệp kém hiệu quả hơn"**.
 
-Từ đó là khẩu hiệu trung tâm: **chuyển từ "đầu tư nhiều hơn" sang "đầu tư tốt hơn"**.
-
-Hàm ý chính sách không phải là giảm đầu tư mà là **phát triển thị trường vốn** — trái phiếu doanh nghiệp, vốn cổ phần, quỹ đầu tư mạo hiểm — những kênh tài trợ được cho các doanh nghiệp không có tài sản thế chấp nhưng có triển vọng tăng trưởng.
+Từ đó là khẩu hiệu trung tâm: **chuyển từ "đầu tư nhiều hơn" (more investment) sang "đầu tư tốt hơn" (better investment)**. Hàm ý chính sách không phải là giảm đầu tư, mà là **phát triển thị trường vốn**: trái phiếu doanh nghiệp, vốn cổ phần, quỹ đầu tư mạo hiểm. Đây là những kênh cấp vốn được cho doanh nghiệp không có tài sản thế chấp nhưng có triển vọng tăng trưởng, vì người bỏ vốn chia sẻ rủi ro và lợi nhuận thay vì đòi tài sản đảm bảo.
 
 ### 4. Nút thắt thứ hai: nhân khẩu học
 
-Quy mô của cú đảo chiều: tỷ suất sinh từ khoảng 6 con mỗi phụ nữ trong thập niên 1960 xuống khoảng 1,6 hiện nay; tuổi thọ từ khoảng 50 lên giữa tuổi 70. **Đến năm 2050, cứ năm người châu Á sẽ có một người từ 65 tuổi trở lên — gấp đôi tỷ lệ hiện nay.**
+Quy mô của cú đảo chiều:
 
-Ba nhóm nước với ba bài toán khác nhau, đã trình bày ở sơ đồ trên. Điểm đáng chú ý nhất là nhóm giữa — gồm Ấn Độ, Malaysia và **Việt Nam** — nơi lợi tức dân số **đang phai dần**. Đây là nhóm chịu áp lực thời gian lớn nhất, vì nguy cơ "chưa giàu đã già": cửa sổ dân số vàng đang hẹp lại trong khi thu nhập đầu người vẫn còn xa mức các nước phát triển.
+| Chỉ tiêu | Thập niên 1960 | Hiện nay | Năm 2050 |
+|---|---|---|---|
+| Tỷ suất sinh | khoảng 6,0 con mỗi phụ nữ | khoảng 1,6 | |
+| Tuổi thọ | khoảng 50 tuổi | giữa tuổi 70 | |
+| Tỷ lệ người từ 65 tuổi trở lên | | khoảng 1 trên 10 | 1 trên 5 |
+
+**Đến năm 2050, cứ năm người châu Á sẽ có một người từ 65 tuổi trở lên, gấp đôi tỷ lệ hiện nay.** Ít trẻ em sinh ra hơn và người già sống lâu hơn cùng lúc đẩy tỷ lệ người già lên.
+
+Bài chia các nước châu Á thành ba nhóm theo giai đoạn của lợi tức dân số:
+
+| Nhóm | Các nước | Tình trạng |
+|---|---|---|
+| Đã hết lợi tức dân số (post-dividend) | Nhật Bản, Hàn Quốc, Trung Quốc, Thái Lan, Singapore, Hong Kong, Macao, Maldives | Dân số trong tuổi lao động đang giảm |
+| Lợi tức muộn, đang phai dần (late dividend) | Ấn Độ, Malaysia, Việt Nam, Indonesia, Bangladesh, Campuchia, Brunei, Myanmar, Bhutan, Sri Lanka; biểu đồ còn xếp cả Úc và New Zealand vào đây | Cửa sổ dân số vàng đang đóng lại |
+| Lợi tức sớm, còn dư địa dài (early dividend) | Nepal, Philippines, Timor-Leste, Vanuatu, Solomon, Papua New Guinea, Lào, Samoa, Mông Cổ, Tonga, Fiji | Dân số trẻ, còn thời gian |
+
+Việc xếp Úc và New Zealand, hai nền kinh tế phát triển có dân số đã già, vào nhóm giữa là điểm lạ, và phần lời văn của bài không nhắc tới hai nước này.
+
+Điểm đáng chú ý nhất là nhóm giữa, gồm Ấn Độ, Malaysia và **Việt Nam**, nơi lợi tức dân số **đang phai dần**. Đây là nhóm chịu áp lực thời gian lớn nhất vì nguy cơ "chưa giàu đã già": cửa sổ dân số vàng chưa đóng nhưng đang hẹp lại, trong khi thu nhập đầu người còn xa mức các nước phát triển. Nhóm đã hết lợi tức phần lớn đã kịp giàu; nhóm lợi tức sớm còn hàng thập niên; nhóm giữa thì không còn nhiều thời gian.
 
 ### 5. Nút thắt thứ ba: hội nhập khu vực quá nông
 
-Châu Á chiếm khoảng một phần ba thương mại toàn cầu, nhưng **chưa tới 30% hàng hóa cuối cùng xuất khẩu được giao dịch trong nội bộ khu vực — bằng một nửa tỷ lệ của châu Âu và Bắc Mỹ**.
+Châu Á chiếm khoảng một phần ba thương mại toàn cầu, nhưng **chưa tới 30% hàng hoá cuối cùng xuất khẩu được giao dịch trong nội bộ khu vực, bằng một nửa tỷ lệ khoảng 60% của châu Âu và Bắc Mỹ**. Tức là châu Á làm hàng cùng nhau nhưng chủ yếu bán sản phẩm cuối cho bên ngoài.
 
-ASEAN là ví dụ rõ nhất: khối này rất mở với thương mại toàn cầu, với tổng kim ngạch vượt quá quy mô nền kinh tế, nhưng **thương mại trong nội bộ ASEAN chưa tới một phần tư tổng thương mại**.
+ASEAN là ví dụ rõ nhất: khối này rất mở với thương mại toàn cầu, tổng kim ngạch vượt quá quy mô nền kinh tế, nhưng **thương mại trong nội bộ ASEAN chưa tới một phần tư tổng thương mại**.
 
-Ba rào cản được nêu: hạ tầng logistics còn hạn chế, phát triển vốn con người không đồng đều, và hàng rào phi thuế quan.
+Ba rào cản được nêu:
 
-Về lợi ích nếu gỡ được, bảng số liệu đã trình bày ở sơ đồ. **Điểm quan trọng nhất là phần lợi ích đến từ việc "mở cửa thị trường của chính mình" lớn hơn phần đến từ "được tiếp cận thị trường nước khác" ở mọi nhóm nước.** Đây là một kết luận có giá trị thực tiễn cao: nó có nghĩa là phần lớn lợi ích nằm trong tầm quyết định của từng nước, không phụ thuộc vào việc đàm phán được gì với nước khác.
+1. hạ tầng logistics còn hạn chế;
+2. phát triển vốn con người không đồng đều giữa các nước;
+3. hàng rào phi thuế quan (tiêu chuẩn, thủ tục, giấy phép, không phải thuế).
+
+Lợi ích nếu hội nhập sâu hơn, tính bằng mức tăng GDP thực dài hạn:
+
+| Nhóm nước | Tổng | Từ việc được tiếp cận thị trường nước khác | Từ việc mở cửa thị trường của mình |
+|---|---|---|---|
+| ASEAN | khoảng 4,3% (cao nhất) | khoảng 1,7% | khoảng 2,6% |
+| Châu Á – Thái Bình Dương (tổng) | khoảng 1,8% | khoảng 0,8% | khoảng 1,0% |
+| Nam Á | khoảng 1,7% | khoảng 0,6% | khoảng 1,1% |
+| Đông Á | khoảng 1,3% | khoảng 0,5% | khoảng 0,8% |
+
+Hai lưu ý khi đọc bảng. Thứ nhất, thân bài chỉ trích dẫn con số 1,8% ("hội nhập sâu hơn có thể nâng GDP thực của khu vực khoảng 1,8%"); con số đó là cho toàn châu Á – Thái Bình Dương, còn 4,3% là riêng ASEAN, và bài không nói rõ phạm vi. Thứ hai, và quan trọng hơn: **ở mọi nhóm nước, phần lợi ích đến từ việc "mở cửa thị trường của chính mình" lớn hơn phần đến từ "được tiếp cận thị trường nước khác".** Với ASEAN là 2,6% so với 1,7%. Đây là kết luận có giá trị thực tiễn cao: phần lớn lợi ích nằm trong tầm quyết định của từng nước, không phụ thuộc vào việc đàm phán được gì với nước khác. Mỗi nước tự gỡ rào cản của mình là đã thu được phần lớn lợi ích.
 
 ### 6. Thu ngân sách
 
-Một điểm ngắn nhưng đáng chú ý: **thu thuế ở phần lớn châu Á, đặc biệt ở nhiều nền kinh tế ASEAN, còn thấp so với các nước cùng trình độ**. Điều này ràng buộc trực tiếp khả năng chi cho hạ tầng, giáo dục và an sinh — tức là ràng buộc chính những khoản đầu tư mà phần còn lại của bài kêu gọi.
+Một điểm ngắn nhưng đáng chú ý: **thu thuế ở phần lớn châu Á, đặc biệt ở nhiều nền kinh tế ASEAN, còn thấp so với các nước cùng trình độ phát triển**. Điều này ràng buộc trực tiếp khả năng chi cho hạ tầng, giáo dục và an sinh, tức là ràng buộc chính những khoản đầu tư mà phần còn lại của bài kêu gọi. Với các nước đang già hoá, nó còn ràng buộc khả năng chi cho hưu trí và y tế trong tương lai.
 
 ### 7. Dịch vụ như động lực mới
 
-Hai mô hình được nêu: **Ấn Độ**, nơi dịch vụ hiện đại chiếm khoảng một phần tư kim ngạch xuất khẩu; và **Philippines**, với ngành gia công quy trình kinh doanh.
+Bài nêu hai mô hình dịch vụ làm động lực tăng trưởng:
 
-Điểm chung: đây là những dịch vụ **có thể giao dịch xuyên biên giới**, khác hẳn với dịch vụ bán lẻ hay dịch vụ cá nhân vốn bị giới hạn bởi sức mua trong nước.
+- **Ấn Độ**: dịch vụ hiện đại (phần mềm, tư vấn, dịch vụ kỹ thuật) chiếm khoảng một phần tư kim ngạch xuất khẩu.
+- **Philippines**: ngành gia công quy trình kinh doanh, ví dụ trung tâm chăm sóc khách hàng, kế toán, xử lý hồ sơ cho công ty nước ngoài.
+
+Điểm chung là đây là những dịch vụ **có thể giao dịch xuyên biên giới**, khác hẳn với dịch vụ bán lẻ hay dịch vụ cá nhân (cắt tóc, nhà hàng), vốn bị giới hạn bởi sức mua trong nước. Vì bán được ra thế giới, các dịch vụ này có thể đóng vai trò mà công nghiệp chế tạo xuất khẩu từng đóng.
 
 ### 8. Công nghệ và trí tuệ nhân tạo
 
 Châu Á có khoảng 90% dân số đã kết nối internet và chiếm hơn hai phần ba hoạt động đổi mới sáng tạo toàn cầu trong lĩnh vực công nghệ số.
 
-**Trí tuệ nhân tạo có thể nâng tăng trưởng tới 1 điểm phần trăm mỗi năm** ở những nước có nền tảng vững — nhưng vế điều kiện này quan trọng, vì bài cũng thừa nhận khoảng cách số đáng kể, đặc biệt ở các nước thu nhập thấp.
+**Trí tuệ nhân tạo có thể nâng tăng trưởng tới 1 điểm phần trăm mỗi năm** ở những nước có nền tảng vững. Vế điều kiện này quan trọng, vì bài cũng thừa nhận khoảng cách số đáng kể, đặc biệt ở các nước thu nhập thấp. Hai nhận định "90% đã kết nối" và "khoảng cách số đáng kể" có phần căng với nhau; cách hiểu hợp lý là kết nối cơ bản đã phổ biến, nhưng năng lực dùng công nghệ để tăng năng suất thì chưa.
 
 ### 9. An ninh năng lượng
 
-Một đoạn có giọng điệu khẩn thiết khác hẳn phần còn lại: **"an ninh năng lượng không còn là mối quan tâm dài hạn — nó là một thách thức vĩ mô trước mắt, và không ở đâu rõ hơn Đông Nam Á."**
+Một đoạn có giọng điệu khẩn thiết khác hẳn phần còn lại: **"an ninh năng lượng không còn là mối quan tâm dài hạn, nó là một thách thức vĩ mô trước mắt, và không ở đâu rõ hơn Đông Nam Á."**
 
-Ba nguồn áp lực cầu được nêu cụ thể: **sự mở rộng công nghiệp của Việt Nam**, các trung tâm dữ liệu của Singapore, và quá trình đô thị hóa của Indonesia.
+Ba nguồn áp lực cầu năng lượng được nêu cụ thể:
 
-Bốn phản ứng chính sách đang diễn ra: Việt Nam đang mở rộng mạnh năng lượng tái tạo; Indonesia đang tìm cách dịch chuyển khỏi than; Philippines đang đa dạng hóa nguồn; và Thái Lan đã đưa chuyển đổi năng lượng thành ưu tiên chính sách.
+- **sự mở rộng công nghiệp của Việt Nam**;
+- các trung tâm dữ liệu của Singapore;
+- quá trình đô thị hoá của Indonesia.
+
+Bốn phản ứng chính sách đang diễn ra: Việt Nam đang mở rộng mạnh năng lượng tái tạo; Indonesia đang tìm cách dịch chuyển khỏi than; Philippines đang đa dạng hoá nguồn năng lượng; và Thái Lan đã đưa chuyển đổi năng lượng thành ưu tiên chính sách.
 
 ### 10. Phép tính của thập niên quyết định
 
-Ba con số, đã trình bày ở sơ đồ cuối: dân số thu hẹp trừ 0,3 điểm phần trăm mỗi năm tới 2050; trí tuệ nhân tạo cộng 0,2 đến 1,0; hội nhập thương mại cộng 0,1 đến 0,3.
+Bài kết bằng ba con số, mỗi con số là tác động lên tăng trưởng hằng năm của châu Á:
 
-Kết luận của bài: tăng trưởng ở châu Á có thể duy trì gần mức trung bình lịch sử gần đây hoặc thậm chí vượt lên — **nếu** lợi ích năng suất được hiện thực hóa đầy đủ.
+| Yếu tố | Tác động |
+|---|---|
+| Dân số thu hẹp (tới 2050) | −0,3 điểm phần trăm mỗi năm |
+| Trí tuệ nhân tạo | +0,2 đến +1,0 điểm phần trăm mỗi năm |
+| Hội nhập thương mại | +0,1 đến +0,3 điểm phần trăm mỗi năm |
+| Kịch bản cận trên | −0,3 + 1,0 + 0,3 = +1,0 |
+| Kịch bản cận dưới | −0,3 + 0,2 + 0,1 = 0,0 |
 
-Như đã nêu trong phần Lưu ý, chữ "nếu" gánh gần như toàn bộ sức nặng của kết luận này. Ở kịch bản cận dưới, ba con số cộng lại bằng đúng 0.
+Kết luận của bài: tăng trưởng ở châu Á có thể duy trì gần mức trung bình lịch sử gần đây hoặc thậm chí vượt lên, **nếu** lợi ích năng suất được hiện thực hoá đầy đủ.
+
+Chữ "nếu" gánh gần như toàn bộ sức nặng của kết luận này. Bài chỉ trình bày cách đọc thuận lợi. Ở kịch bản cận dưới, ba con số cộng lại bằng đúng 0: lợi ích từ AI và thương mại chỉ vừa đủ bù cho tác động của già hoá. Thêm nữa, tác động của dân số gần như chắc chắn xảy ra (những người sẽ 65 tuổi vào 2050 đã sinh ra rồi), còn hai phần cộng vào đều có điều kiện.
 
 ### 11. Ý nghĩa với Việt Nam
 
 Việt Nam xuất hiện ở bốn chỗ trong bài, và ghép lại cho một bức tranh khá đầy đủ:
 
-**Là hình ảnh mở đầu** — nhà máy bán dẫn ở Thành phố Hồ Chí Minh, được so sánh trực tiếp với Hàn Quốc một thế hệ trước. Đây là sự ghi nhận rõ ràng nhất mà một nền kinh tế đang phát triển có thể nhận được từ một bài viết loại này.
+**Là hình ảnh mở đầu.** Nhà máy bán dẫn ở Thành phố Hồ Chí Minh được so sánh trực tiếp với Hàn Quốc một thế hệ trước. Đây là sự ghi nhận rõ ràng nhất mà một nền kinh tế đang phát triển có thể nhận được từ một bài viết loại này.
 
-**Nằm trong nhóm lợi tức dân số đang phai dần** — cùng Ấn Độ và Malaysia. Đây là cảnh báo quan trọng nhất của bài đối với Việt Nam: cửa sổ dân số vàng đang hẹp lại, và nhóm này đối mặt trực tiếp với nguy cơ chưa giàu đã già.
+**Nằm trong nhóm lợi tức dân số đang phai dần**, cùng Ấn Độ và Malaysia. Đây là cảnh báo quan trọng nhất của bài đối với Việt Nam: cửa sổ dân số vàng đang hẹp lại, và nhóm này đối mặt trực tiếp với nguy cơ chưa giàu đã già.
 
-**Là một trong ba nguồn áp lực năng lượng của khu vực** — sự mở rộng công nghiệp của Việt Nam được nêu đích danh. Đồng thời Việt Nam cũng được ghi nhận là đang mở rộng mạnh năng lượng tái tạo.
+**Là một trong ba nguồn áp lực năng lượng của khu vực.** Sự mở rộng công nghiệp của Việt Nam được nêu đích danh. Đồng thời Việt Nam cũng được ghi nhận là đang mở rộng mạnh năng lượng tái tạo.
 
-**Thuộc nhóm hưởng lợi nhiều nhất từ hội nhập khu vực** — ASEAN có mức lợi ích 4,3% GDP, cao nhất trong các nhóm châu Á. Và phần lớn lợi ích đó đến từ việc tự gỡ rào cản của mình, tức là nằm trong tầm quyết định của chính Việt Nam.
+**Thuộc nhóm hưởng lợi nhiều nhất từ hội nhập khu vực.** ASEAN có mức lợi ích 4,3% GDP, cao nhất trong các nhóm châu Á, và phần lớn lợi ích đó (2,6 trong 4,3 điểm) đến từ việc tự gỡ rào cản của mình, tức là nằm trong tầm quyết định của chính Việt Nam.
 
-Hai thách thức từ phần chẩn đoán chung cũng áp dụng trực tiếp: hệ thống tài chính thiên về ngân hàng khiến vốn chảy về doanh nghiệp lớn và doanh nghiệp nhà nước thay vì doanh nghiệp trẻ; và thu ngân sách thấp so với nước cùng trình độ, ràng buộc khả năng chi cho giáo dục, hạ tầng và an sinh.
+Hai thách thức từ phần chẩn đoán chung cũng áp dụng trực tiếp. Một là hệ thống tài chính thiên về ngân hàng khiến vốn chảy về doanh nghiệp lớn và doanh nghiệp nhà nước thay vì doanh nghiệp trẻ. Hai là thu ngân sách thấp so với các nước cùng trình độ, ràng buộc khả năng chi cho giáo dục, hạ tầng và an sinh, đúng lúc dân số bắt đầu già đi.
 
 ## Thuật ngữ
 

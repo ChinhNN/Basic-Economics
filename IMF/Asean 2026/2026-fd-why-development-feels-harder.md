@@ -253,139 +253,190 @@ Ba nguyên tắc chính trị kinh tế của cải cách:
 
 3. **Vậy phải làm gì?** Bốn hướng. **Đền bù trước, cải cách sau** — và bài đưa ra cách làm rất cụ thể bằng dữ liệu đã có sẵn. **Chính sách công nghiệp tinh gọn**, tập trung vào năng lực và kỷ luật tài khóa, với đòn bẩy mạnh nhất không phải là đào tạo do nhà nước tổ chức mà là **tạo động lực để doanh nghiệp tự đào tạo người của mình**, vì họ hiểu nhu cầu của chính họ. **Hướng vào các ngành hấp thụ lao động tay nghề trung bình** — lắp ráp điện tử và linh kiện, may mặc và giày dép, chế biến thực phẩm, công việc số hóa. Và **viết cải cách vào luật và thể chế** để nó sống lâu hơn người khởi xướng.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Nhóm đang vươn lên tầng lớp trung lưu và tầng lớp bấp bênh (aspiring middle class, precariat).** Nhóm đang vươn lên là những hộ đã thoát nghèo nhưng chưa vững vàng ở tầng lớp trung lưu; trong bài, đó là hộ chi tiêu từ 1,5 đến 3,5 lần ngưỡng nghèo quốc gia. Tầng lớp bấp bênh là những người có thu nhập nhưng không có việc làm ổn định, bảo hiểm hay đường thăng tiến. Ví dụ trong bài: ở Indonesia nhóm đang vươn lên có khoảng 137 triệu người, gần một nửa dân số. Đây là nhóm nhân vật chính của bài: không nghèo, nhưng bất an.
+
+**Việc làm phi chính thức (informal employment).** Công việc không có hợp đồng lao động chính thức, không đóng bảo hiểm xã hội, thường không được hưởng lương tối thiểu: bán hàng rong, làm thuê theo ngày, chạy xe công nghệ. Ví dụ trong bài: 80% việc làm mới ở Indonesia giai đoạn 2019–24 là phi chính thức, trả khoảng 114 USD/tháng, thấp hơn lương tối thiểu 181 USD. Khái niệm này cần để hiểu vì sao tăng trưởng không làm người ta thấy an toàn hơn.
+
+**Phân vị (percentile).** Cách xếp toàn bộ dân số theo thu nhập hay chi tiêu từ thấp đến cao rồi chia thành 100 phần bằng nhau. Phân vị 50 là người đứng giữa; phân vị 80 là người có mức cao hơn 80% dân số. Ví dụ trong bài: các hộ nằm giữa phân vị 50 và 80 ở Indonesia có tiêu dùng thực giảm từ 2019 đến 2022. Đây là bằng chứng rằng nhóm giữa đang bị bỏ lại dù cả nền kinh tế tăng trưởng.
+
+**Phi công nghiệp hoá sớm (premature deindustrialization).** Khái niệm của nhà kinh tế Dani Rodrik: tỷ trọng công nghiệp chế tạo trong nền kinh tế đạt đỉnh rồi giảm khi nước đó vẫn còn nghèo, sớm hơn nhiều so với các nước đi trước. Ví dụ minh hoạ: nếu các nước đi trước đạt đỉnh công nghiệp khi thu nhập đầu người khoảng 10.000 USD, còn một nước đi sau đạt đỉnh khi mới 3.000 USD, đó là phi công nghiệp hoá sớm. Bài dùng khái niệm này để giải thích vì sao "băng chuyền" tạo việc làm tốt đã hỏng.
+
+**Thâm dụng vốn và hấp thụ lao động (capital-intensive, labor-absorbing).** Ngành thâm dụng vốn dùng nhiều máy móc và ít người trên mỗi đồng sản lượng; ngành hấp thụ lao động dùng nhiều người. Ví dụ minh hoạ: một nhà máy luyện nickel trị giá hàng tỷ USD có thể chỉ cần vài nghìn công nhân, trong khi một nhà máy may cùng doanh thu cần hàng chục nghìn người. Bài chỉ ra tăng trưởng Indonesia đang chảy vào loại ngành thứ nhất.
+
+**Bệnh chi phí Baumol (Baumol's cost disease).** Hiện tượng các dịch vụ khó tăng năng suất (chăm sóc, giáo dục, biểu diễn) ngày càng đắt tương đối, vì chúng vẫn phải trả lương tăng theo mặt bằng chung của nền kinh tế dù mỗi người không làm được nhiều hơn. Ví dụ trong bài: một y tá năm 2026 vẫn chỉ chăm được chừng ấy bệnh nhân như một y tá năm 1970, nhưng lương y tá phải tăng theo lương các ngành khác. Hệ quả là giá y tế, giáo dục, chăm sóc tăng, đúng những thứ tầng lớp trung lưu cần nhất.
+
+**Hàng hoá, dịch vụ có thể giao dịch và không thể giao dịch (tradable, nontradable).** Có thể giao dịch là bán được sang nước khác (quần áo, phần mềm); không thể giao dịch là chỉ bán được tại chỗ (cắt tóc, bữa ăn ở quán). Ví dụ minh hoạ: một xưởng may có thể bán cho cả thế giới nên tăng trưởng không bị giới hạn bởi sức mua trong nước, còn một quán phở chỉ bán được cho người quanh đó. Bài cho rằng ranh giới quan trọng ngày nay nằm ở đây, chứ không nằm giữa chế tạo và dịch vụ.
+
+**Trợ giá có mục tiêu (targeted subsidy).** Trợ giá chỉ dành cho nhóm được xác định trước là cần hỗ trợ, thay vì giữ giá thấp cho tất cả mọi người. Ví dụ minh hoạ: thay vì bán xăng rẻ hơn 2.000 đồng/lít cho mọi người, nhà nước bán theo giá thị trường và chuyển tiền trực tiếp cho các hộ nghèo. Đây là nội dung của công thức "đền bù trước, cải cách sau" mà bài đề xuất.
+
+## Nội dung chi tiết
 
 ### 1. Một cái chết và một phong trào
 
-Affan Kurniawan, 21 tuổi, tài xế giao đồ ăn, bị một xe bọc thép của cảnh sát cán chết tại Jakarta ngày 28/8/2025 trong cuộc biểu tình bên ngoài tòa nhà Quốc hội. Đoạn video lan truyền và biến sự phẫn nộ thành một phong trào quần chúng.
+Affan Kurniawan, 21 tuổi, tài xế giao đồ ăn, bị một xe bọc thép của cảnh sát cán chết tại Jakarta ngày 28/8/2025 trong cuộc biểu tình bên ngoài toà nhà Quốc hội. Đoạn video về cái chết lan truyền và biến sự phẫn nộ thành một phong trào quần chúng.
 
 Bối cảnh châm ngòi: các nghị sĩ vừa bỏ phiếu cấp cho chính mình một khoản phụ cấp nhà ở hậu hĩnh, và những đoạn video quay cảnh họ nhảy múa khi dự luật được thông qua đã lan khắp mạng xã hội. Sự tương phản giữa hình ảnh đó và đời sống của người biểu tình là chất liệu của cơn giận.
 
-Chi tiết quyết định về mặt phân tích: **Kurniawan không nghèo**. Theo một nghiên cứu của Đại học Indonesia, tài xế của các siêu ứng dụng ở Jakarta kiếm khoảng 272 USD mỗi tháng — gấp chín lần ngưỡng nghèo 30 USD và gấp rưỡi mức lương tối thiểu 181 USD.
+Chi tiết quyết định về mặt phân tích: **Kurniawan không nghèo**. Theo một nghiên cứu của Đại học Indonesia, tài xế của các siêu ứng dụng ở Jakarta kiếm khoảng 272 USD mỗi tháng. So sánh con số này với ba mốc:
 
-Bài gọi nhóm này bằng thuật ngữ của xã hội học lao động: **một "tầng lớp bấp bênh" lo lắng về công việc và công lý, chứ không phải về bữa ăn kế tiếp**.
+| Mốc so sánh | Mức | Thu nhập tài xế (272 USD) gấp |
+|---|---|---|
+| Ngưỡng nghèo | 30 USD | khoảng 9 lần |
+| Lương tối thiểu | 181 USD | khoảng 1,5 lần |
+| Lương việc làm phi chính thức | 114 USD | khoảng 2,4 lần |
+
+Bài gọi nhóm này bằng thuật ngữ của xã hội học lao động: **một "tầng lớp bấp bênh" lo lắng về công việc và công lý, chứ không phải về bữa ăn kế tiếp**. Điểm rút ra: bất an không phải là hàm của mức thu nhập, mà là hàm của độ ổn định và cảm nhận về công bằng. Một người kiếm gấp chín lần ngưỡng nghèo vẫn có thể giận dữ nếu công việc của anh không có bảo hiểm, không có tương lai, và anh thấy người có quyền tự thưởng cho mình.
 
 ### 2. Luận điểm trung tâm
 
-Được phát biểu gọn trong một đoạn: **"Tăng trưởng làm thay đổi cơ cấu việc làm. Khi tăng trưởng thôi tạo ra việc làm ổn định và cơ hội thăng tiến, sự bất an lan ra khỏi nhóm người nghèo và thấm vào tầng lớp trung lưu đang vươn lên. Kỳ vọng vượt lên trên cơ hội, và chính trị trở thành nút thắt ràng buộc."**
+Bài phát biểu luận điểm gọn trong một đoạn: **"Tăng trưởng làm thay đổi cơ cấu việc làm. Khi tăng trưởng thôi tạo ra việc làm ổn định và cơ hội thăng tiến, sự bất an lan ra khỏi nhóm người nghèo và thấm vào tầng lớp trung lưu đang vươn lên. Kỳ vọng vượt lên trên cơ hội, và chính trị trở thành nút thắt ràng buộc."**
 
 Ba mệnh đề trong đó đáng tách ra:
 
-- **Tăng trưởng làm thay đổi cơ cấu việc làm** — nghĩa là không thể đánh giá tăng trưởng chỉ bằng tốc độ.
-- **Bất an lan ra khỏi nhóm nghèo** — nghĩa là các chương trình giảm nghèo, dù thành công, không giải quyết được vấn đề này.
-- **Chính trị trở thành nút thắt ràng buộc** — nghĩa là điểm nghẽn không còn nằm ở việc biết phải làm gì về mặt kinh tế.
+- **Tăng trưởng làm thay đổi cơ cấu việc làm.** Nghĩa là không thể đánh giá tăng trưởng chỉ bằng tốc độ; phải hỏi tăng trưởng tạo ra loại việc làm nào.
+- **Bất an lan ra khỏi nhóm nghèo.** Nghĩa là các chương trình giảm nghèo, dù thành công, không giải quyết được vấn đề này, vì người bất an không còn nằm trong diện nghèo.
+- **Chính trị trở thành nút thắt ràng buộc.** Nghĩa là điểm nghẽn không còn nằm ở việc biết phải làm gì về mặt kinh tế, mà ở việc có làm được về mặt chính trị hay không.
 
 ### 3. Bằng chứng: bảng điều khiển đẹp, đường phố giận dữ
 
-Indonesia có hai thập niên tăng trưởng khoảng 5%, lạm phát thấp và thâm hụt ngân sách dưới 3% GDP. Nhưng:
+Indonesia có hai thập niên tăng trưởng khoảng 5% mỗi năm, lạm phát thấp và thâm hụt ngân sách dưới 3% GDP. Nhìn trên "bảng điều khiển" vĩ mô, đây là một câu chuyện thành công. Nhưng ở phía đời sống:
 
-- **Tầng lớp trung lưu co lại từ 21% dân số năm 2019 xuống 16,6% vào năm 2025.**
-- **Nhóm "đang vươn lên tầng lớp trung lưu"** — được định nghĩa là hộ chi tiêu từ 1,5 đến 3,5 lần ngưỡng nghèo quốc gia — **nở ra tới gần một nửa dân số, khoảng 137 triệu người năm 2024**.
-- Các hộ nằm giữa **phân vị 50 và 80** chứng kiến tiêu dùng thực **giảm** từ 2019 đến 2022.
-- **80% việc làm mới trong giai đoạn 2019–24 là phi chính thức, trả khoảng 114 USD/tháng — thấp hơn mức lương tối thiểu 181 USD.**
+| Chỉ báo | Số liệu |
+|---|---|
+| Tầng lớp trung lưu | co lại từ 21% dân số năm 2019 xuống 16,6% năm 2025 |
+| Nhóm "đang vươn lên tầng lớp trung lưu" (chi tiêu 1,5 đến 3,5 lần ngưỡng nghèo quốc gia) | nở ra tới gần một nửa dân số, khoảng 137 triệu người năm 2024 |
+| Hộ giữa phân vị 50 và 80 | tiêu dùng thực giảm từ 2019 đến 2022 |
+| Việc làm mới giai đoạn 2019–24 | 80% là phi chính thức, trả khoảng 114 USD/tháng, thấp hơn lương tối thiểu 181 USD |
 
-Bài dẫn lời một nhà nhân khẩu học Indonesia để mô tả vì sao thất nghiệp không xuất hiện trong số liệu: **"thất nghiệp công khai là một thứ xa xỉ dành riêng cho những ai có tiết kiệm hoặc có gia đình đỡ đần. Số còn lại rơi vào kinh tế ngầm."** Đây là lý do tỷ lệ thất nghiệp thấp ở các nước đang phát triển không phải là tin tốt — nó chỉ có nghĩa là người ta buộc phải làm gì đó, bất kể việc đó tệ đến đâu.
+Bài tóm lại: **"Sự thịnh vượng trên bảng điều khiển cùng tồn tại với sự giận dữ trên đường phố."** Lý do là các chỉ số vĩ mô chuẩn đo **mức độ** (tăng bao nhiêu, giá lên bao nhiêu) chứ không đo **cơ cấu và độ ổn định** của việc làm.
 
-Một quan sát khu vực bổ sung: **"Khắp châu Á mới nổi, tiêu dùng thấp hơn so với thu nhập nếu so với các nền kinh tế cùng trình độ — một cách phòng thân trước mạng lưới an sinh mỏng, mà bản thân nó lại làm giảm phúc lợi và nuôi thêm sự bất mãn."**
+**Vì sao thất nghiệp không hiện ra trong số liệu.** Bài dẫn lời một nhà nhân khẩu học Indonesia: **"thất nghiệp công khai là một thứ xa xỉ dành riêng cho những ai có tiết kiệm hoặc có gia đình đỡ đần. Số còn lại rơi vào kinh tế ngầm."** Vì vậy tỷ lệ thất nghiệp thấp ở các nước đang phát triển không hẳn là tin tốt: nó chỉ có nghĩa là người ta buộc phải làm việc gì đó để sống, bất kể việc đó tệ đến đâu.
 
-Và bài khẳng định hiện tượng này không riêng Indonesia: **tầng lớp trung lưu cũng đang co lại ở Ấn Độ, Thái Lan, Việt Nam và Brazil.**
+**Một quan sát khu vực bổ sung:** **"Khắp châu Á mới nổi, tiêu dùng thấp hơn so với thu nhập nếu so với các nền kinh tế cùng trình độ, một cách phòng thân trước mạng lưới an sinh mỏng, mà bản thân nó lại làm giảm phúc lợi và nuôi thêm sự bất mãn."** Tức là người dân phải tự tiết kiệm phòng khi ốm đau, mất việc, vì nhà nước không che chắn đủ; việc phải nhịn tiêu dùng đó lại làm cuộc sống khó hơn.
+
+Và bài khẳng định hiện tượng này không riêng Indonesia: **tầng lớp trung lưu cũng đang co lại ở Ấn Độ, Thái Lan, Việt Nam và Brazil** (bài ghi là theo nghiên cứu của IMF, không nêu nghiên cứu cụ thể).
 
 ### 4. Chẩn đoán cấu trúc: băng chuyền đã hỏng
 
 **"Ba mươi năm trước, tăng trưởng 5% gần như tự động chuyển thành việc làm chế tạo chính thức. Băng chuyền đó đã ngừng chạy."**
 
-Nay tăng trưởng chảy qua hai kênh, và cả hai đều không tạo ra loại việc làm cũ:
+Mô hình cũ vận hành như sau: tăng trưởng kéo theo nhà máy, nhà máy tạo việc làm chế tạo chính thức, và việc làm đó mang lại lương ổn định, bảo hiểm, khả năng thăng tiến, khả năng cho con cái học lên. Đó là "băng chuyền" đưa người ta từ nông thôn lên tầng lớp trung lưu.
 
-**Kênh thứ nhất — các ngành thâm dụng vốn.** Luyện nickel, chế biến khoáng sản. Chúng thúc đẩy sản lượng và xuất khẩu nhưng sử dụng rất ít lao động. Về mặt số liệu vĩ mô, đây là thành công; về mặt việc làm, nó gần như vô hình.
+Nay tăng trưởng 5% vẫn còn, nhưng chảy qua hai kênh, và cả hai đều không tạo ra loại việc làm cũ:
 
-**Kênh thứ hai — dịch vụ.** Hút được nhiều người, nhưng vướng hai giới hạn nghiêm trọng sẽ bàn ở mục sau.
+**Kênh thứ nhất: các ngành thâm dụng vốn**, như luyện nickel và chế biến khoáng sản. Chúng làm tăng sản lượng và xuất khẩu nhưng dùng rất ít lao động. Về mặt số liệu vĩ mô, đây là thành công; về mặt việc làm, nó gần như vô hình.
+
+**Kênh thứ hai: dịch vụ.** Dịch vụ hút được nhiều người, nhưng vướng hai giới hạn nghiêm trọng sẽ bàn ở mục 5.
 
 Hai ví dụ khu vực được nêu:
 
 - **Thái Lan** đạt mức thu nhập trung bình nhưng bất ổn chính trị làm đình trệ chuyển dịch cơ cấu.
 - **Philippines** là ví dụ cực đoan: nhảy thẳng từ nông nghiệp sang dịch vụ mà không xây được nền công nghiệp, khiến **tỷ trọng sản lượng công nghiệp đạt đỉnh ở mức thu nhập thấp hơn hẳn các nước láng giềng**.
 
-Đây chính là hiện tượng mà Dani Rodrik gọi là **phi công nghiệp hóa sớm**: các nước đang phát triển ngày nay đạt đỉnh công nghiệp ở mức thu nhập thấp hơn nhiều so với các nước đi trước, rồi bắt đầu giảm tỷ trọng công nghiệp khi vẫn còn nghèo.
+Đây chính là hiện tượng mà Dani Rodrik gọi là **phi công nghiệp hoá sớm**: các nước đang phát triển ngày nay đạt đỉnh công nghiệp ở mức thu nhập thấp hơn nhiều so với các nước đi trước, rồi bắt đầu giảm tỷ trọng công nghiệp khi vẫn còn nghèo.
 
 ### 5. Hai giới hạn của mô hình dịch vụ
 
 **Giới hạn thứ nhất: phân cực và bệnh chi phí Baumol.**
 
-Dịch vụ chia làm hai nhóm rất khác nhau. Nhóm kỹ năng cao và có thể giao dịch xuyên biên giới (thiết kế, phần mềm, nghiên cứu phát triển, logistics) có năng suất cao nhưng hút rất ít lao động. Nhóm hấp thụ lao động (chăm sóc, giáo dục, nhà hàng khách sạn) hút nhiều người nhưng năng suất gần như không tăng theo thời gian — một y tá năm 2026 vẫn chỉ chăm được chừng ấy bệnh nhân như một y tá năm 1970.
+Dịch vụ chia làm hai nhóm rất khác nhau:
 
-Vấn đề nằm ở chỗ: nhóm thứ hai **vẫn phải trả lương tăng theo mặt bằng chung của nền kinh tế**, nếu không sẽ không ai làm. Kết quả là chi phí tương đối của những dịch vụ này leo thang trong khi sản lượng trên mỗi lao động đứng yên. Hệ quả cuối cùng, và đây là chỗ nó chạm vào đời sống: **giá tăng cho đúng những dịch vụ mà tầng lớp trung lưu phụ thuộc vào nhất** — y tế, giáo dục, chăm sóc.
+| | Dịch vụ kỹ năng cao, có thể giao dịch | Dịch vụ hấp thụ lao động |
+|---|---|---|
+| Ví dụ | thiết kế, phần mềm, nghiên cứu phát triển, logistics | chăm sóc, giáo dục, nhà hàng khách sạn |
+| Năng suất | cao | gần như không tăng theo thời gian |
+| Số lao động hút được | ít | nhiều |
+
+Với nhóm thứ hai, một y tá năm 2026 vẫn chỉ chăm được chừng ấy bệnh nhân như một y tá năm 1970. Vấn đề nằm ở chỗ: nhóm này **vẫn phải trả lương tăng theo mặt bằng chung của nền kinh tế**, nếu không sẽ không ai làm. Kết quả là chi phí tương đối của những dịch vụ này leo thang trong khi sản lượng trên mỗi lao động đứng yên. Hệ quả cuối cùng, và đây là chỗ nó chạm vào đời sống: **giá tăng cho đúng những dịch vụ mà tầng lớp trung lưu phụ thuộc vào nhất**: y tế, giáo dục, chăm sóc. Thêm vào đó là sự phân cực: việc làm tốt tập trung ở nhóm nhỏ kỹ năng cao, còn số đông dồn vào nhóm năng suất thấp.
 
 **Giới hạn thứ hai: phần lớn dịch vụ không giao dịch được xuyên biên giới.**
 
-Đây là giới hạn nghiêm trọng hơn về mặt chiến lược phát triển. Bài phát biểu nó rất gọn: **"Chế tạo có thể vượt ra ngoài thị trường nội địa bằng cách bán cho thế giới; dịch vụ thì không. Đó là lý do phi công nghiệp hóa ở mức thu nhập thấp có sức ăn mòn: nó lấy đi ngành duy nhất có thể nâng sàn lương cho tất cả những người còn lại."**
+Đây là giới hạn nghiêm trọng hơn về mặt chiến lược phát triển. Bài phát biểu rất gọn: **"Chế tạo có thể vượt ra ngoài thị trường nội địa bằng cách bán cho thế giới; dịch vụ thì không. Đó là lý do phi công nghiệp hoá ở mức thu nhập thấp có sức ăn mòn: nó lấy đi ngành duy nhất có thể nâng sàn lương cho tất cả những người còn lại."**
 
-Logic ở đây là một vòng lặp khép kín: tăng trưởng dựa vào dịch vụ bị chặn bởi sức mua trong nước, mà sức mua trong nước lại phụ thuộc vào thu nhập từ chính những việc làm đó.
+Logic ở đây là một vòng lặp khép kín. Tăng trưởng dựa vào dịch vụ bị chặn bởi sức mua trong nước. Mà sức mua trong nước lại phụ thuộc vào thu nhập từ chính những việc làm dịch vụ đó. Không có nguồn cầu bên ngoài nào kéo vòng lặp đi lên, khác với chế tạo xuất khẩu.
 
-Nhưng bài cũng đưa ra một điều chỉnh quan trọng cho khung phân tích, qua khái niệm **"dịch vụ hóa"**: trong một sản phẩm chế tạo hiện đại, thiết kế, phần mềm, logistics và nghiên cứu phát triển đóng góp giá trị nhiều hơn cả linh kiện và công lắp ráp. Từ đó: **"Ranh giới thật không còn nằm giữa việc làm ra đồ vật và cung cấp dịch vụ, mà nằm giữa cái có thể giao dịch xuyên biên giới và cái không thể."**
+**Một điều chỉnh quan trọng cho khung phân tích: "dịch vụ hoá" (servicification).** Trong một sản phẩm chế tạo hiện đại, thiết kế, phần mềm, logistics và nghiên cứu phát triển đóng góp giá trị nhiều hơn cả linh kiện và công lắp ráp. Từ đó bài kết luận: **"Ranh giới thật không còn nằm giữa việc làm ra đồ vật và cung cấp dịch vụ, mà nằm giữa cái có thể giao dịch xuyên biên giới và cái không thể."** Dịch vụ bán được ra thế giới có thể đóng vai trò của chế tạo; dịch vụ chỉ bán tại chỗ thì không.
 
 ### 6. Vì sao cải cách ngày càng khó — và đây là phần độc đáo nhất
 
-Bài dùng chính trợ giá nhiên liệu, lĩnh vực tác giả từng trực tiếp xử lý với tư cách bộ trưởng tài chính, làm ví dụ.
+Bài dùng chính trợ giá nhiên liệu, lĩnh vực tác giả từng trực tiếp xử lý với tư cách bộ trưởng tài chính, làm ví dụ. So sánh hai thời điểm:
 
-Mười năm trước, trợ giá nhiên liệu chủ yếu có lợi cho các hộ thu nhập cao — vì chỉ họ mới có ô tô và xe máy. Cắt trợ giá khi đó là lấy của người giàu, và chỉ cần đền bù người nghèo bằng tiền mặt là đủ. Cải cách khả thi về mặt chính trị, và các đợt cắt giảm quan trọng đã diễn ra.
+| | Mười năm trước (đợt cắt 2013) | Ngày nay |
+|---|---|---|
+| Ai hưởng trợ giá nhiên liệu | Chủ yếu hộ thu nhập cao, vì chỉ họ mới có ô tô, xe máy | Cả nhóm đang vươn lên tầng lớp trung lưu, vì sở hữu phương tiện đã lan xuống dưới |
+| Cắt trợ giá nghĩa là | Lấy của người giàu | Đánh thẳng vào khoảng 137 triệu người đang lo lắng nhất |
+| Đền bù cần thiết | Tiền mặt cho người nghèo là đủ | Nhóm bị thiệt không đủ nghèo để nhận trợ cấp, không đủ giàu để chịu cú sốc |
+| Khả thi chính trị | Có, và các đợt cắt giảm quan trọng đã diễn ra | Rất khó |
 
-Nhưng khi thu nhập tăng lên, **sở hữu phương tiện lan xuống các tầng dưới của phân phối thu nhập**. Nay cắt trợ giá cũng đánh thẳng vào nhóm đang vươn lên tầng lớp trung lưu — khoảng 137 triệu người, tức nhóm đang lo lắng nhất và có tiếng nói chính trị mạnh nhất. Nhóm này không đủ nghèo để nhận trợ cấp, cũng không đủ giàu để chịu được cú sốc.
+Cơ chế nằm ở chỗ: khi thu nhập tăng lên, **sở hữu phương tiện lan xuống các tầng dưới của phân phối thu nhập**. Nhóm hưởng trợ giá mở rộng, và nhóm đó lại là nhóm có tiếng nói chính trị mạnh nhất.
 
 **Đây là một nghịch lý sâu sắc: chính thành công của phát triển làm cho cải cách trở nên khó hơn.**
 
-Bài dẫn thêm một ví dụ ngoài khu vực: ở Chile năm 2019, một đợt tăng giá vé tàu điện ngầm 30 peso — tương đương 4 xu Mỹ — đã châm ngòi cho đợt bất ổn tồi tệ nhất trong một thế hệ. Con số tuyệt đối không quan trọng; điều quan trọng là nó rơi vào ai và trong bối cảnh nào.
+Bài dẫn thêm một ví dụ ngoài khu vực: ở Chile năm 2019, một đợt tăng giá vé tàu điện ngầm 30 peso, tương đương 4 xu Mỹ, đã châm ngòi cho đợt bất ổn tồi tệ nhất trong một thế hệ. Con số tuyệt đối không quan trọng; điều quan trọng là nó rơi vào ai và trong bối cảnh nào.
 
 ### 7. Giải pháp: đền bù trước, cải cách sau
 
-Công thức: **"Đền bù trước, rồi mới cải cách."**
+Công thức: **"Đền bù trước, rồi mới cải cách"** (compensate first, then reform).
 
-Và cách làm rất cụ thể, không phải khẩu hiệu. Công ty điện lực nhà nước đã nắm dữ liệu từng hộ gia đình theo tên và địa chỉ, **bao gồm cả mức tiêu thụ điện**. Ghép dữ liệu này với dữ liệu bảo trợ xã hội là đủ để nhận diện người nghèo và nhóm đang vươn lên, rồi hướng trợ giá đúng vào họ trong khi những người còn lại trả giá đầy đủ.
+Cách làm rất cụ thể, không phải khẩu hiệu, gồm bốn bước:
+
+1. Công ty điện lực nhà nước đã nắm dữ liệu từng hộ gia đình theo tên và địa chỉ, **bao gồm cả mức tiêu thụ điện**.
+2. Ghép dữ liệu này với dữ liệu bảo trợ xã hội.
+3. Từ đó nhận diện được người nghèo và nhóm đang vươn lên.
+4. Hướng trợ giá đúng vào họ, trong khi những người còn lại trả giá đầy đủ.
 
 Bài học ngầm rất quan trọng: **nút thắt không phải là thiếu dữ liệu mà là thiếu ý chí ghép dữ liệu lại với nhau**. Ở phần lớn các nước đang phát triển, thông tin cần thiết để làm chính sách có mục tiêu đã nằm sẵn trong các cơ sở dữ liệu hành chính của chính nhà nước.
 
-**Nhưng bài kết lại bằng một sự thừa nhận rất thành thực và đó là câu đáng nhớ nhất của cả bài:** *"Các đợt cắt trợ giá nhiên liệu năm 2013 của Indonesia là đúng đắn: người nghèo đã được đền bù, lý lẽ đã được trình bày công khai — vậy mà người ta vẫn phản đối. Đúng không đồng nghĩa với được chấp nhận."*
+**Nhưng bài kết lại bằng một sự thừa nhận rất thành thực, và đó là câu đáng nhớ nhất của cả bài:** *"Các đợt cắt trợ giá nhiên liệu năm 2013 của Indonesia là đúng đắn: người nghèo đã được đền bù, lý lẽ đã được trình bày công khai, vậy mà người ta vẫn phản đối. Đúng không đồng nghĩa với được chấp nhận."* Ngay cả khi làm đúng mọi bước, cải cách vẫn có thể bị phản đối.
 
 ### 8. Ba nguyên tắc chính trị kinh tế
 
-**Thời điểm quyết định.** *"Cải cách chỉ có tác dụng khi nó phù hợp với chính trị của thời điểm đó… Dư địa xoay xở luôn luôn ít hơn những gì kế hoạch đòi hỏi."* Đây là lời của một người từng ngồi ghế bộ trưởng nói với những người viết khuyến nghị chính sách.
+**Nguyên tắc thứ nhất: thời điểm quyết định.** *"Cải cách chỉ có tác dụng khi nó phù hợp với chính trị của thời điểm đó… Dư địa xoay xở luôn luôn ít hơn những gì kế hoạch đòi hỏi."* Đây là lời của một người từng ngồi ghế bộ trưởng nói với những người viết khuyến nghị chính sách: bản kế hoạch tốt trên giấy chưa chắc làm được trong thực tế chính trị.
 
-**Lợi ích nhóm nằm ở chỗ không ai ngờ tới.** *"Theo thời gian, thủ tục hành chính rườm rà tạo ra thu nhập cho chính những người thực thi nó. Cắt giảm nó không chỉ là đơn giản hóa quy trình; nó lấy đi một phần thu nhập của một số công chức, và họ sẽ chống lại. Lý lẽ hay không thuyết phục được họ; khu vực tư nhân phải gánh phần lớn công việc này."*
+**Nguyên tắc thứ hai: lợi ích nhóm nằm ở chỗ không ai ngờ tới.** *"Theo thời gian, thủ tục hành chính rườm rà tạo ra thu nhập cho chính những người thực thi nó. Cắt giảm nó không chỉ là đơn giản hoá quy trình; nó lấy đi một phần thu nhập của một số công chức, và họ sẽ chống lại. Lý lẽ hay không thuyết phục được họ; khu vực tư nhân phải gánh phần lớn công việc này."* Tức là mỗi thủ tục có một nhóm người sống nhờ nó, và nhóm đó sẽ giữ nó lại.
 
-**Cải cách phải sống lâu hơn người khởi xướng.** *"Một chính sách chỉ dựa trên niềm tin của một vị bộ trưởng có thể bị người kế nhiệm xóa bỏ. Nhiệm vụ là viết cải cách vào luật và thể chế để nó sống lâu hơn người đã khởi xướng nó."*
+**Nguyên tắc thứ ba: cải cách phải sống lâu hơn người khởi xướng.** *"Một chính sách chỉ dựa trên niềm tin của một vị bộ trưởng có thể bị người kế nhiệm xoá bỏ. Nhiệm vụ là viết cải cách vào luật và thể chế để nó sống lâu hơn người đã khởi xướng nó."*
 
 ### 9. Con đường phía trước
 
-**Đa dạng hóa xuất khẩu.** Đợt bùng nổ hàng hóa cơ bản thập niên 2000 gây ra một dạng bệnh Hà Lan nhẹ. Hiện nay **chưa tới 10% tăng trưởng xuất khẩu đến từ sản phẩm mới ở thị trường mới** — một chỉ số rất đáng chú ý, vì nó cho thấy tăng trưởng xuất khẩu chủ yếu là bán nhiều hơn những thứ cũ cho những khách hàng cũ.
+**Đa dạng hoá xuất khẩu.** Đợt bùng nổ hàng hoá cơ bản thập niên 2000 gây ra một dạng bệnh Hà Lan nhẹ ở Indonesia: tiền từ xuất khẩu tài nguyên làm các ngành khác kém cạnh tranh. Hiện nay **chưa tới 10% tăng trưởng xuất khẩu đến từ sản phẩm mới ở thị trường mới**. Chỉ số này rất đáng chú ý, vì nó cho thấy tăng trưởng xuất khẩu chủ yếu là bán nhiều hơn những thứ cũ cho những khách hàng cũ.
 
 Bài cũng nhận xét thẳng: **"Indonesia đã tương đối khép kín trong thương mại, dựa vào thị trường nội địa của mình cho tới khi chạm tới giới hạn của thị trường đó."**
 
-**Hướng vào các ngành hấp thụ lao động tay nghề trung bình** đồng thời nâng năng lực ngay trong quá trình làm việc: lắp ráp điện tử và linh kiện, may mặc và giày dép, chế biến thực phẩm, và các công việc được số hóa như logistics và dịch vụ hậu kỳ văn phòng.
+**Hướng vào các ngành hấp thụ lao động tay nghề trung bình**, đồng thời nâng năng lực ngay trong quá trình làm việc:
 
-**Nhưng có một cảnh báo:** *"Trí tuệ nhân tạo đang đe dọa giới hạn mức độ hấp thụ lao động của ngay cả những hoạt động này."* Nghĩa là con đường mà các nước đi trước đã dùng có thể đang hẹp lại ngay khi các nước đi sau bước vào.
+- lắp ráp điện tử và linh kiện;
+- may mặc và giày dép;
+- chế biến thực phẩm;
+- các công việc được số hoá như logistics và dịch vụ hậu kỳ văn phòng.
 
-**Chính sách công nghiệp tinh gọn.** *"Chính sách công nghiệp tinh gọn, tập trung vào năng lực và có kỷ luật tài khóa, mà đòn bẩy mạnh nhất không phải là đào tạo do nhà nước tổ chức mà là tạo động lực để doanh nghiệp tự đào tạo người lao động của mình, vì họ hiểu nhu cầu của chính họ."*
+**Nhưng có một cảnh báo:** *"Trí tuệ nhân tạo đang đe doạ giới hạn mức độ hấp thụ lao động của ngay cả những hoạt động này."* Nghĩa là con đường mà các nước đi trước đã dùng có thể đang hẹp lại đúng lúc các nước đi sau bước vào.
+
+**Chính sách công nghiệp tinh gọn.** *"Chính sách công nghiệp tinh gọn, tập trung vào năng lực và có kỷ luật tài khoá, mà đòn bẩy mạnh nhất không phải là đào tạo do nhà nước tổ chức mà là tạo động lực để doanh nghiệp tự đào tạo người lao động của mình, vì họ hiểu nhu cầu của chính họ."* Ví dụ minh hoạ: thay vì nhà nước mở lớp dạy hàn chung chung, nhà nước khấu trừ thuế cho chi phí đào tạo mà doanh nghiệp tự bỏ ra cho công nhân của mình.
 
 ### 10. Kết: từ hàng hóa công tồn tại sang hàng hóa công hoạt động
 
 Bài khép bằng hai câu.
 
-Câu thứ nhất mô tả sự dịch chuyển của kỳ vọng: **"Khi thu nhập tăng lên, đòi hỏi của tầng lớp trung lưu chuyển từ chỗ mong có hàng hóa công sang chỗ mong hàng hóa công phải hoạt động được, từ công bằng như một khẩu hiệu sang công bằng như một thói quen."**
+Câu thứ nhất mô tả sự dịch chuyển của kỳ vọng: **"Khi thu nhập tăng lên, đòi hỏi của tầng lớp trung lưu chuyển từ chỗ mong có hàng hoá công sang chỗ mong hàng hoá công phải hoạt động được, từ công bằng như một khẩu hiệu sang công bằng như một thói quen."** Ví dụ: người nghèo vui vì có trường học; người trung lưu đòi trường học phải dạy tốt, bệnh viện phải khám được, toà án phải xử công bằng.
 
 Câu thứ hai quay về nơi bài bắt đầu: **"Kurniawan đã không được lắng nghe khi còn sống, chỉ được lắng nghe khi đã chết."**
 
 ### 11. Ý nghĩa với Việt Nam
 
-Việt Nam được nêu đích danh một lần — trong danh sách các nước có tầng lớp trung lưu đang co lại, cùng Ấn Độ, Thái Lan và Brazil. Nhưng toàn bộ khung phân tích của bài áp dụng trực tiếp:
+Việt Nam được nêu đích danh một lần, trong danh sách các nước có tầng lớp trung lưu đang co lại, cùng Ấn Độ, Thái Lan và Brazil. Nhưng toàn bộ khung phân tích của bài áp dụng trực tiếp:
 
 **Việt Nam đang ở đúng điểm mà bài mô tả là nguy hiểm.** Tăng trưởng cao và ổn định vĩ mô tốt, nhưng câu hỏi quyết định là tăng trưởng đó tạo ra loại việc làm nào. Tỷ trọng lao động phi chính thức và chất lượng việc làm mới là chỉ số cần theo dõi song song với tốc độ tăng trưởng, chứ không phải sau nó.
 
-**Cảnh báo về phi công nghiệp hóa sớm rất đáng lưu tâm.** Việt Nam hiện vẫn đang trong giai đoạn công nghiệp hóa, nhưng bài chỉ ra rằng các nước đi sau đạt đỉnh công nghiệp ở mức thu nhập ngày càng thấp. Nếu tỷ trọng công nghiệp bắt đầu giảm trước khi mức lương đủ cao, ngành duy nhất có thể nâng sàn lương cho toàn bộ nền kinh tế sẽ biến mất.
+**Cảnh báo về phi công nghiệp hoá sớm rất đáng lưu tâm.** Việt Nam hiện vẫn đang trong giai đoạn công nghiệp hoá, nhưng bài chỉ ra rằng các nước đi sau đạt đỉnh công nghiệp ở mức thu nhập ngày càng thấp. Nếu tỷ trọng công nghiệp bắt đầu giảm trước khi mức lương đủ cao, ngành duy nhất có thể nâng sàn lương cho toàn bộ nền kinh tế sẽ biến mất.
 
-**Kênh tăng trưởng thâm dụng vốn cần được nhìn kỹ.** Bài dùng ví dụ luyện nickel của Indonesia — các dự án làm đẹp số liệu sản lượng và xuất khẩu nhưng gần như không tạo việc làm. Bất kỳ chiến lược nào dựa vào chế biến sâu tài nguyên đều cần được đánh giá bằng số việc làm tạo ra, không chỉ bằng giá trị xuất khẩu.
+**Kênh tăng trưởng thâm dụng vốn cần được nhìn kỹ.** Bài dùng ví dụ luyện nickel của Indonesia: các dự án làm đẹp số liệu sản lượng và xuất khẩu nhưng gần như không tạo việc làm. Bất kỳ chiến lược nào dựa vào chế biến sâu tài nguyên đều cần được đánh giá bằng số việc làm tạo ra, không chỉ bằng giá trị xuất khẩu.
 
-**Bài học về thứ tự đền bù và cải cách áp dụng cho mọi cải cách giá.** Giá điện, giá xăng dầu, viện phí, học phí — mọi cải cách trong nhóm này đều rơi vào đúng cái bẫy mà bài mô tả: nhóm bị ảnh hưởng nặng nhất là nhóm không đủ nghèo để nhận trợ cấp và không đủ giàu để chịu được. Và như chính tác giả thừa nhận, ngay cả khi làm đúng mọi thứ thì đúng vẫn không đồng nghĩa với được chấp nhận.
+**Bài học về thứ tự đền bù và cải cách áp dụng cho mọi cải cách giá.** Giá điện, giá xăng dầu, viện phí, học phí: mọi cải cách trong nhóm này đều rơi vào đúng cái bẫy mà bài mô tả, khi nhóm bị ảnh hưởng nặng nhất là nhóm không đủ nghèo để nhận trợ cấp và không đủ giàu để chịu được. Và như chính tác giả thừa nhận, ngay cả khi làm đúng mọi thứ thì đúng vẫn không đồng nghĩa với được chấp nhận.
 
-**Và nhận xét về thủ tục hành chính có tính phổ quát:** thủ tục rườm rà tạo ra thu nhập cho người thực thi nó, nên nó chống lại việc bị cắt bỏ bằng những lực lượng không xuất hiện trong bất kỳ bản kế hoạch cải cách nào.
+**Nhận xét về thủ tục hành chính có tính phổ quát.** Thủ tục rườm rà tạo ra thu nhập cho người thực thi nó, nên nó chống lại việc bị cắt bỏ bằng những lực lượng không xuất hiện trong bất kỳ bản kế hoạch cải cách nào.
 
 ## Thuật ngữ
 
