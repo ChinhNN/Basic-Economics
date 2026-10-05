@@ -41,63 +41,103 @@
 2. Hai loại rủi ro khác nhau ra sao về phạm vi, nguyên nhân, khả năng giảm thiểu?
 3. Nhà đầu tư dùng những chiến lược nào để giảm từng loại rủi ro, và kết hợp chúng như thế nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Rủi ro hệ thống (systematic risk).** Rủi ro đến từ các biến động lớn của cả nền kinh tế, như khủng hoảng, chiến tranh, lãi suất tăng hay đại dịch, nên tác động lên gần như mọi tài sản cùng lúc. Ví dụ trong bài: năm 2022 Fed tăng lãi suất để kiềm chế lạm phát, và không chỉ cổ phiếu công nghệ mà cả ngân hàng lẫn bất động sản đều bị ảnh hưởng nặng. Bài gọi đây là "cơn bão lớn" và nhấn mạnh rằng không thể loại bỏ nó bằng cách mua nhiều mã.
+
+**Rủi ro phi hệ thống (unsystematic risk).** Rủi ro gắn với vấn đề riêng của một công ty hay một ngành, như quản lý yếu kém, sản phẩm thất bại, kiện tụng. Ví dụ trong bài: điện thoại Nokia mất vị thế trước iPhone, ảnh hưởng tới Nokia chứ không kéo cả thị trường đi xuống. Bài gọi đây là "ngôi nhà cháy giữa khu phố": không sở hữu căn nhà đó thì tài sản của bạn vẫn an toàn.
+
+**Đa dạng hoá (diversification).** Chia vốn cho nhiều công ty, nhiều ngành, nhiều loại tài sản. Ví dụ trong bài: thay vì dồn tiền vào một công ty công nghệ, chia vốn cho 5 công ty ở 5 ngành; nếu một công ty thất bại, bạn chỉ mất một phần năm số tiền, chưa kể phần lãi của bốn công ty còn lại. Đây là công cụ chính để giảm rủi ro phi hệ thống, nhưng không có tác dụng với rủi ro hệ thống.
+
+**Tương quan và tài sản ít tương quan (correlation, uncorrelated assets).** Tương quan cho biết hai tài sản có hay lên xuống cùng nhau không. Tài sản ít tương quan với cổ phiếu là tài sản không nhất thiết giảm khi cổ phiếu giảm. Ví dụ trong bài: trong khủng hoảng, giá vàng thường tăng trong khi cổ phiếu lao dốc. Đây là cách bài đề xuất để giảm tác động của rủi ro hệ thống.
+
+**Quyền chọn bán (put option) và hợp đồng tương lai (futures).** Quyền chọn bán cho người mua quyền bán tài sản ở một mức giá cố định, dù giá thị trường rơi thấp hơn; hợp đồng tương lai là cam kết mua bán ở giá định trước tại một thời điểm trong tương lai. Ví dụ minh hoạ: mua quyền bán một cổ phiếu ở giá 50.000 đồng; nếu thị trường sụp đổ và giá xuống 35.000 đồng, bạn vẫn bán được ở 50.000 đồng. Đây là công cụ "bảo hiểm" danh mục trước rủi ro hệ thống.
+
+**Đòn bẩy (leverage).** Vay tiền để đầu tư thêm, làm cả lãi lẫn lỗ lớn hơn. Ví dụ minh hoạ: có 100 triệu, vay thêm 100 triệu; thị trường giảm 20% thì danh mục 200 triệu mất 40 triệu, tức 40% vốn tự có thay vì 20%. Bài khuyên giới hạn đòn bẩy vì nó khuếch đại rủi ro hệ thống.
+
+**Tái cân bằng (rebalancing).** Định kỳ điều chỉnh danh mục về tỷ trọng mong muốn: bán bớt phần đã tăng quá mức, loại khoản yếu, bổ sung lựa chọn tiềm năng. Ví dụ minh hoạ: kế hoạch 60% cổ phiếu, 40% trái phiếu; sau một năm cổ phiếu tăng mạnh thành 75%, thì bán bớt cổ phiếu để về lại 60%. Bài coi đây là một bước để kiểm soát rủi ro phi hệ thống liên tục chứ không chỉ một lần.
+
+## Nội dung chi tiết
 
 ### 1. Mở đầu
-- Rủi ro là "người bạn đồng hành không mời mà đến", nhưng không phải rủi ro nào cũng giống nhau: có loại tác động cả thị trường không né được, có loại chỉ ảnh hưởng một góc danh mục và kiểm soát được.
-- Phân biệt hai loại giúp bảo vệ vốn và ra quyết định bền vững.
+
+Bài mở đầu bằng hình ảnh rủi ro là "người bạn đồng hành không mời mà đến" của mọi nhà đầu tư. Nhưng không phải rủi ro nào cũng giống nhau. Có loại tác động đến cả thị trường mà không ai né được; có loại chỉ ảnh hưởng một góc nhỏ của danh mục và hoàn toàn có thể kiểm soát. Phân biệt được hai loại này giúp nhà đầu tư chọn đúng công cụ để bảo vệ vốn và ra quyết định bền vững hơn, thay vì dùng một cách chung cho mọi rủi ro.
 
 ### 2. Rủi ro hệ thống (systematic risk)
-- **Định nghĩa:** rủi ro ảnh hưởng toàn bộ thị trường tài chính hoặc phần lớn của nó; biến động vĩ mô tác động hầu hết tài sản, từ cổ phiếu, trái phiếu, bất động sản đến vàng. Ẩn dụ "cơn bão lớn": cuốn theo mọi thứ, không phân biệt tài sản mạnh yếu.
-- **Nguyên nhân phổ biến** (yếu tố bên ngoài, khó kiểm soát):
-  - Khủng hoảng kinh tế: khủng hoảng tài chính toàn cầu 2008, chứng khoán toàn cầu lao dốc.
-  - Bất ổn chính trị, chiến tranh: xung đột địa chính trị gây hoảng loạn, gián đoạn kinh tế.
-  - Thay đổi chính sách vĩ mô: Fed tăng lãi suất thì cổ phiếu, trái phiếu, bất động sản đều chịu áp lực giảm.
-  - Thiên tai, đại dịch: COVID-19 năm 2020 làm đứt gãy chuỗi cung ứng, nhiều ngành đình trệ.
-- **Đặc điểm:**
-  - Không thể loại bỏ hoàn toàn dù đa dạng hoá đến đâu.
-  - Khó dự đoán: suy thoái, thiên tai thường đột ngột.
-  - Tác động rộng tới mọi loại tài sản.
-- **Ví dụ:** Fed tăng lãi suất năm 2022 để kiềm chế lạm phát, không chỉ cổ phiếu công nghệ mà cả ngân hàng và bất động sản bị ảnh hưởng nặng.
+
+**Định nghĩa.** Rủi ro hệ thống là loại rủi ro ảnh hưởng tới toàn bộ thị trường tài chính, hoặc phần lớn của nó. Nó đến từ biến động vĩ mô, nên tác động lên hầu hết tài sản, từ cổ phiếu, trái phiếu, bất động sản cho đến vàng. Bài ví nó như một "cơn bão lớn": cuốn theo mọi thứ, không phân biệt tài sản mạnh hay yếu.
+
+**Nguyên nhân phổ biến** đều là yếu tố bên ngoài doanh nghiệp, khó kiểm soát:
+
+| Nguyên nhân | Ví dụ trong bài |
+|---|---|
+| Khủng hoảng kinh tế | Khủng hoảng tài chính toàn cầu 2008 làm chứng khoán toàn cầu lao dốc |
+| Bất ổn chính trị, chiến tranh | Xung đột địa chính trị gây hoảng loạn và gián đoạn kinh tế |
+| Thay đổi chính sách vĩ mô | Fed tăng lãi suất thì cổ phiếu, trái phiếu, bất động sản đều chịu áp lực giảm |
+| Thiên tai, đại dịch | COVID-19 năm 2020 làm đứt gãy chuỗi cung ứng, nhiều ngành đình trệ |
+
+**Đặc điểm.** Có ba điểm chính. Thứ nhất, rủi ro hệ thống không thể loại bỏ hoàn toàn, dù đa dạng hoá đến đâu, vì mọi tài sản trong danh mục đều chịu chung cú sốc. Thứ hai, nó khó dự đoán: suy thoái hay thiên tai thường đến đột ngột. Thứ ba, nó tác động rộng tới mọi loại tài sản.
+
+**Ví dụ.** Năm 2022, Fed tăng lãi suất để kiềm chế lạm phát. Không chỉ cổ phiếu công nghệ mà cả cổ phiếu ngân hàng và bất động sản đều bị ảnh hưởng nặng. Người nắm nhiều ngành khác nhau vẫn bị lỗ, vì nguyên nhân nằm ở lãi suất chung chứ không ở một công ty nào.
 
 ### 3. Rủi ro phi hệ thống (unsystematic risk)
-- **Định nghĩa:** chỉ ảnh hưởng một công ty, một ngành hoặc nhóm nhỏ tài sản; gắn với vấn đề nội tại, đặc thù. Ẩn dụ "ngôi nhà bị cháy giữa khu phố": không sở hữu căn đó thì tài sản của bạn vẫn an toàn.
-- **Nguyên nhân phổ biến** (yếu tố bên trong):
-  - Quản lý yếu kém: quyết định sai, bê bối khiến công ty thua lỗ.
-  - Sản phẩm thất bại: ví dụ điện thoại Nokia mất vị thế trước iPhone.
-  - Tranh chấp nội bộ: đình công, bất ổn gây gián đoạn.
-  - Vấn đề pháp lý: kiện tụng, vi phạm quy định dẫn đến phạt hoặc đình chỉ kinh doanh.
-- **Đặc điểm:** có thể giảm thiểu bằng chiến lược thông minh; cục bộ, không lan ra thị trường chung; dễ nhận diện hơn nhờ nghiên cứu doanh nghiệp, ngành.
-- **Ví dụ:** dồn toàn bộ vốn vào một công ty ô tô gặp sự cố chất lượng nghiêm trọng → cổ phiếu lao dốc, trong khi thị trường chung và các ngành công nghệ, y tế vẫn bình thường.
+
+**Định nghĩa.** Rủi ro phi hệ thống chỉ ảnh hưởng tới một công ty, một ngành hoặc một nhóm nhỏ tài sản. Nó gắn với vấn đề nội tại, đặc thù của doanh nghiệp hay ngành đó. Bài ví nó như "ngôi nhà bị cháy giữa khu phố": nếu bạn không sở hữu căn nhà đó thì tài sản của bạn vẫn an toàn.
+
+**Nguyên nhân phổ biến** là yếu tố bên trong:
+
+- Quản lý yếu kém: quyết định sai lầm hoặc bê bối khiến công ty thua lỗ.
+- Sản phẩm thất bại: ví dụ điện thoại Nokia mất vị thế trước iPhone.
+- Tranh chấp nội bộ: đình công, bất ổn trong công ty gây gián đoạn sản xuất kinh doanh.
+- Vấn đề pháp lý: kiện tụng, vi phạm quy định dẫn đến bị phạt hoặc bị đình chỉ kinh doanh.
+
+**Đặc điểm.** Rủi ro phi hệ thống có thể giảm thiểu bằng chiến lược hợp lý. Nó mang tính cục bộ, không lan ra thị trường chung. Nó cũng dễ nhận diện hơn rủi ro hệ thống, nhờ việc nghiên cứu doanh nghiệp và ngành.
+
+**Ví dụ.** Một người dồn toàn bộ vốn vào cổ phiếu của một công ty ô tô. Công ty gặp sự cố chất lượng nghiêm trọng và cổ phiếu lao dốc, trong khi thị trường chung cùng các ngành công nghệ, y tế vẫn hoạt động bình thường. Thiệt hại của người này hoàn toàn đến từ việc tập trung vốn, không phải từ thị trường.
 
 ### 4. Bảng so sánh
+
+Bài tóm tắt khác biệt giữa hai loại rủi ro theo bốn tiêu chí:
 
 | Tiêu chí | Rủi ro hệ thống | Rủi ro phi hệ thống |
 |---|---|---|
 | Phạm vi ảnh hưởng | Toàn thị trường hoặc phần lớn thị trường | Một công ty, ngành hoặc nhóm tài sản |
 | Nguyên nhân chính | Yếu tố vĩ mô (kinh tế, chính trị) | Yếu tố nội tại của công ty hoặc ngành |
-| Khả năng giảm thiểu | Không thể loại bỏ, nhưng có thể giảm | Có thể giảm đáng kể qua đa dạng hoá |
+| Khả năng giảm thiểu | Không thể loại bỏ, nhưng có thể giảm tác động | Có thể giảm đáng kể qua đa dạng hoá |
 | Ví dụ | Suy thoái kinh tế, đại dịch | Quản lý kém, sản phẩm lỗi |
 
+Điểm mấu chốt của bảng là cột "khả năng giảm thiểu": vì hai loại rủi ro khác nhau về nguồn gốc nên cần hai bộ công cụ khác nhau, trình bày ở hai mục tiếp theo.
+
 ### 5. Giảm thiểu rủi ro phi hệ thống: kiểm soát những gì có thể
-- Đa dạng hoá: nhiều công ty thuộc các ngành khác nhau (công nghệ, y tế, tiêu dùng, năng lượng); một công ty gặp vấn đề thì các khoản khác bù đắp.
-- Quỹ chỉ số hoặc ETF: chứa hàng trăm công ty, giảm rủi ro từ một doanh nghiệp.
-- Nghiên cứu kỹ: báo cáo tài chính, đội ngũ quản lý, tình hình cạnh tranh.
-- Theo dõi và tái cân bằng: định kỳ loại khoản yếu, bổ sung lựa chọn tiềm năng.
-- Ví dụ: thay vì dồn tiền vào một công ty công nghệ, chia vốn cho 5 công ty ở 5 ngành; một công ty thất bại vẫn còn "lá chắn".
+
+Với rủi ro phi hệ thống, mục tiêu là giảm mạnh hoặc loại bỏ phần lớn. Bài nêu bốn cách:
+
+- **Đa dạng hoá:** đầu tư vào nhiều công ty thuộc các ngành khác nhau, như công nghệ, y tế, tiêu dùng, năng lượng. Khi một công ty gặp vấn đề, các khoản khác bù đắp.
+- **Quỹ chỉ số hoặc ETF:** một quỹ chứa cổ phiếu của hàng trăm công ty, nên rủi ro từ bất kỳ một doanh nghiệp nào cũng trở nên rất nhỏ.
+- **Nghiên cứu kỹ:** đọc báo cáo tài chính, tìm hiểu đội ngũ lãnh đạo và tình hình cạnh tranh của doanh nghiệp trước khi mua.
+- **Theo dõi và tái cân bằng:** định kỳ loại bỏ khoản yếu, bổ sung lựa chọn tiềm năng.
+
+Ví dụ của bài: thay vì dồn hết tiền vào một công ty công nghệ, hãy chia vốn cho 5 công ty ở 5 ngành khác nhau. Khi một công ty thất bại, bạn vẫn còn "lá chắn" là bốn khoản còn lại.
 
 ### 6. Giảm thiểu rủi ro hệ thống: trụ vững khi bão đến
-- Tài sản không tương quan: vàng, trái phiếu chính phủ, bất động sản thường ít chịu ảnh hưởng khi chứng khoán lao dốc; trong khủng hoảng giá vàng thường tăng.
-- Phái sinh: quyền chọn (options), hợp đồng tương lai (futures); ví dụ mua put option để bán cổ phiếu ở giá cố định nếu thị trường sụp đổ.
-- Phân bổ linh hoạt: tăng tỷ trọng trái phiếu trong suy thoái, ưu tiên cổ phiếu khi phục hồi.
-- Dự trữ tiền mặt: vượt qua giai đoạn khó và mua tài sản giá rẻ khi thị trường hồi phục.
-- Giới hạn đòn bẩy: đòn bẩy khuếch đại rủi ro hệ thống.
-- Ví dụ: trong COVID-19, nhiều nhà đầu tư chuyển sang vàng và trái phiếu để giảm thiệt hại, đồng thời giữ tiền mặt chờ cơ hội mua.
+
+Rủi ro hệ thống không loại bỏ được, nên mục tiêu là giảm tác động để danh mục đứng vững qua cơn bão. Bài nêu năm cách:
+
+| Cách làm | Nội dung |
+|---|---|
+| Tài sản không tương quan | Vàng, trái phiếu chính phủ, bất động sản thường ít chịu ảnh hưởng khi chứng khoán lao dốc; trong khủng hoảng giá vàng thường tăng |
+| Sản phẩm phái sinh | Quyền chọn (options), hợp đồng tương lai (futures); ví dụ mua put option để được bán cổ phiếu ở giá cố định nếu thị trường sụp đổ |
+| Phân bổ linh hoạt | Tăng tỷ trọng trái phiếu trong suy thoái, ưu tiên cổ phiếu khi kinh tế phục hồi |
+| Dự trữ tiền mặt | Có tiền để vượt qua giai đoạn khó và mua tài sản giá rẻ khi thị trường hồi phục |
+| Giới hạn đòn bẩy | Đòn bẩy khuếch đại rủi ro hệ thống, nên càng ít vay càng an toàn khi bão đến |
+
+Ví dụ của bài: trong đại dịch COVID-19, nhiều nhà đầu tư chuyển một phần vốn sang vàng và trái phiếu để giảm thiệt hại, đồng thời giữ tiền mặt chờ cơ hội mua vào khi giá xuống thấp.
 
 ### 7. Kết hợp chiến lược và kết luận
-- Danh mục lý tưởng vừa giảm rủi ro phi hệ thống (đa dạng hoá) vừa ứng phó rủi ro hệ thống (phân bổ linh hoạt, tầm nhìn dài hạn).
-- Rủi ro hệ thống phải chấp nhận và sống chung; rủi ro phi hệ thống chủ động kiểm soát được.
-- Câu hỏi tự kiểm tra: danh mục đã được bảo vệ trước rủi ro phi hệ thống chưa? Đã sẵn sàng khi rủi ro hệ thống ập đến chưa?
+
+Theo bài, danh mục lý tưởng làm được cả hai việc: giảm rủi ro phi hệ thống bằng đa dạng hoá, và ứng phó rủi ro hệ thống bằng phân bổ linh hoạt cùng tầm nhìn dài hạn. Đó là "phòng thủ toàn diện".
+
+Thái độ với hai loại rủi ro cũng khác nhau: rủi ro hệ thống là điều phải chấp nhận và sống chung, còn rủi ro phi hệ thống là thứ có thể chủ động kiểm soát. Bài kết thúc bằng hai câu hỏi để người đọc tự kiểm tra: danh mục của mình đã được bảo vệ trước rủi ro phi hệ thống chưa, và mình đã sẵn sàng khi rủi ro hệ thống ập đến chưa? Theo bài, đáp án nằm ở hành động ngay hôm nay chứ không ở lời nói.
 
 ## Thuật ngữ
 

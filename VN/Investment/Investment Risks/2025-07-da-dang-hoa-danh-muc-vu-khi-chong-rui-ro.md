@@ -49,17 +49,47 @@
 2. Có những cách đa dạng hoá nào (theo tài sản, ngành, thời gian, địa lý, quỹ, quy mô)?
 3. Một danh mục đa dạng mẫu trông thế nào, và cần lưu ý gì khi áp dụng?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Danh mục đầu tư (portfolio).** Toàn bộ các khoản đầu tư mà một người đang nắm giữ, nhìn như một khối chung chứ không xét từng khoản riêng. Ví dụ trong bài: danh mục 500 triệu của chị Mai gồm cổ phiếu, tiết kiệm, vàng, trái phiếu và chứng chỉ quỹ. Khái niệm này quan trọng vì đa dạng hoá chỉ có nghĩa khi ta đánh giá lãi lỗ của cả danh mục, không phải của một mã đơn lẻ.
+
+**Đa dạng hoá (diversification).** Chia vốn ra nhiều tài sản, nhiều ngành, nhiều thời điểm và khu vực, để khi một khoản thua lỗ thì các khoản khác bù lại. Ví dụ trong bài: nếu cổ phiếu công nghệ mất 50% nhưng chỉ chiếm 40 triệu trong 500 triệu, cả danh mục chỉ giảm khoảng 2% sau khi tính phần vàng tăng giá. Đây là chủ đề của cả bài.
+
+**Tương quan (correlation).** Mức độ hai tài sản lên xuống cùng nhau. Hai tài sản tương quan cao thì thường cùng tăng, cùng giảm; tương quan thấp thì lúc tài sản này giảm, tài sản kia có thể đứng yên hoặc tăng. Ví dụ minh hoạ: cổ phiếu công nghệ và trái phiếu chính phủ thường ít liên quan đến nhau, nên năm cổ phiếu giảm 20% thì trái phiếu có thể vẫn giữ giá. Khái niệm này giải thích vì sao đa dạng hoá có tác dụng: chỉ khi các tài sản không biến động cùng lúc, cùng hướng thì khoản này mới bù được cho khoản kia.
+
+**Loại tài sản (asset class).** Nhóm tài sản có đặc điểm chung về rủi ro và lợi nhuận: cổ phiếu, trái phiếu, vàng, bất động sản, tiền gửi. Ví dụ trong bài: người trẻ có thể chia 70% cổ phiếu, 30% trái phiếu. Bài coi chia theo loại tài sản là tầng đa dạng hoá đầu tiên và quan trọng nhất.
+
+**DCA (Dollar Cost Averaging).** Đầu tư một số tiền cố định theo định kỳ, bất kể giá lúc đó cao hay thấp, để giá mua trung bình được làm mềm theo thời gian. Ví dụ minh hoạ: mỗi tháng mua 5 triệu chứng chỉ quỹ; tháng giá cao thì mua được ít đơn vị, tháng giá thấp thì mua được nhiều đơn vị hơn. Bài dùng DCA làm cách "đa dạng hoá theo thời gian", tránh dồn hết tiền vào đúng đỉnh.
+
+**Quỹ chỉ số và ETF (index fund, exchange-traded fund).** Quỹ mua theo một rổ cổ phiếu mô phỏng một chỉ số, nên một chứng chỉ quỹ đã chứa phần nhỏ của nhiều công ty; ETF được mua bán trên sàn như cổ phiếu. Ví dụ trong bài: VFMVN30 và VNDiamond ở Việt Nam, SPY mô phỏng chỉ số S&P 500 của Mỹ. Đây là cách đơn giản nhất để có đa dạng hoá rộng mà không phải tự chọn và theo dõi từng mã.
+
+**Tái cân bằng (rebalancing).** Định kỳ đưa tỷ trọng các tài sản về lại mức kế hoạch sau khi giá thay đổi làm lệch đi. Ví dụ trong bài: kế hoạch cổ phiếu chiếm 40%, nhưng sau một đợt tăng giá cổ phiếu chiếm tới 80%; khi đó cần bán bớt cổ phiếu, mua thêm tài sản khác. Nếu không tái cân bằng, danh mục đa dạng ban đầu sẽ dần biến thành danh mục tập trung.
+
+## Nội dung chi tiết
 
 ### 1. Đa dạng hoá là gì và vì sao quan trọng
-- **Khái niệm:** đa dạng hoá (diversification) là phân bổ tiền vào nhiều loại tài sản thay vì đặt toàn bộ vốn một chỗ; ví dụ thay vì chỉ mua cổ phiếu một công ty, đầu tư vào cổ phiếu, trái phiếu, bất động sản, vàng, tiền gửi. Mục tiêu: giảm rủi ro khi một khoản gặp vấn đề và tận dụng cơ hội từ tài sản khác.
-- Hình ảnh: "không đặt tất cả trứng vào một giỏ"; một giỏ rơi vẫn còn trứng ở giỏ khác.
-- **Cơ chế:** không phải tài sản nào cũng biến động cùng lúc, cùng hướng. Đầu tư vào tài sản ít liên quan (ví dụ cổ phiếu công nghệ và trái phiếu chính phủ) làm giảm rủi ro tổng thể; cổ phiếu giảm do thị trường lao dốc thì trái phiếu hoặc vàng có thể tăng hay giữ giá.
-  - Ví dụ: một năm công nghệ tăng mạnh nhưng năng lượng suy giảm; chỉ đầu tư công nghệ thì "được ăn cả, ngã về không".
-- **Lợi ích:** giảm thiểu tổn thất; tận dụng cơ hội ở nhiều lĩnh vực; danh mục ít biến động hơn; ổn định tâm lý, tránh hoảng loạn; lợi nhuận ổn định theo thời gian dù không "khủng" ngắn hạn.
+
+Đa dạng hoá danh mục (diversification) là cách phân bổ tiền vào nhiều loại tài sản thay vì đặt toàn bộ vốn vào một chỗ. Thay vì chỉ mua cổ phiếu của một công ty, người đầu tư chia tiền ra cổ phiếu, trái phiếu, bất động sản, vàng và tiền gửi. Mục tiêu có hai mặt: giảm rủi ro khi một khoản đầu tư gặp vấn đề, và đồng thời tận dụng được cơ hội sinh lời từ các tài sản khác.
+
+Bài dùng hình ảnh quen thuộc "đừng bỏ tất cả trứng vào một giỏ". Nếu chỉ có một giỏ mà giỏ đó rơi, ta mất hết; nếu chia trứng ra nhiều giỏ, một giỏ gặp sự cố thì vẫn còn trứng ở các giỏ khác.
+
+Cơ chế đứng sau là: không phải tài sản nào cũng biến động cùng lúc và cùng hướng. Khi đầu tư vào những tài sản ít liên quan đến nhau, ví dụ cổ phiếu công nghệ và trái phiếu chính phủ, rủi ro tổng thể của danh mục giảm xuống. Khi thị trường lao dốc làm cổ phiếu giảm, trái phiếu hoặc vàng có thể tăng hoặc ít nhất giữ giá. Bài đưa một tình huống: có năm ngành công nghệ tăng mạnh nhưng ngành năng lượng suy giảm. Ai chỉ đầu tư vào một ngành thì kết quả là "được ăn cả, ngã về không": hoặc thắng lớn, hoặc thua nặng.
+
+Lợi ích của đa dạng hoá theo bài gồm:
+
+- giảm thiểu tổn thất khi một khoản gặp sự cố;
+- tận dụng cơ hội ở nhiều lĩnh vực khác nhau;
+- danh mục ít biến động hơn;
+- tâm lý ổn định hơn, tránh hoảng loạn bán tháo;
+- lợi nhuận ổn định theo thời gian, dù không "khủng" trong ngắn hạn.
+
+Cái giá phải trả là bỏ qua khả năng thắng đậm nhờ dồn hết vào một khoản tình cờ tăng mạnh. Bài cho rằng với người đầu tư cá nhân, đổi khả năng đó lấy sự ổn định là có lợi.
 
 ### 2. Các cách đa dạng hoá
-- **Theo loại tài sản (asset classes):**
+
+Bài trình bày bốn chiều đa dạng hoá: theo loại tài sản, trong cùng một loại tài sản, theo thời gian và địa lý, và một số phương pháp khác.
+
+**Theo loại tài sản (asset classes).** Mỗi loại tài sản có vai trò riêng:
 
 | Loại tài sản | Đặc điểm trong bài |
 |---|---|
@@ -69,37 +99,60 @@
 | Bất động sản | Dòng tiền dài hạn và tài sản vật chất |
 | Tiền mặt, tiền gửi | Thanh khoản và dự phòng |
 
-  - Tỷ lệ tuỳ tuổi, mục tiêu, khả năng chịu rủi ro: người trẻ có thể 70% cổ phiếu, 30% trái phiếu; người lớn tuổi ưu tiên vàng, trái phiếu, tiền mặt.
-- **Trong cùng một loại tài sản:** nếu tập trung cổ phiếu, chia nhiều mã ở các ngành, ví dụ 20% ngân hàng, 20% bán lẻ, 20% công nghệ, 20% dầu khí, 20% y tế hoặc tiêu dùng; một ngành suy thoái thì các ngành khác "gồng gánh".
-- **Theo thời gian:** không dồn tiền vào một thời điểm; DCA (Dollar Cost Averaging), đầu tư định kỳ để trung bình hoá giá mua, tránh mua đỉnh, giảm áp lực tâm lý.
-- **Theo địa lý:** một phần vốn vào quỹ toàn cầu hoặc ETF quốc tế để tránh tập trung vào thị trường Việt Nam, ví dụ quỹ S&P 500 hoặc thị trường mới nổi.
-- **Phương pháp khác:**
-  - Quỹ chỉ số, ETF chứa hàng trăm công ty: VFMVN30, VNDiamond tại Việt Nam, SPY tại Mỹ.
-  - Theo quy mô: kết hợp blue-chip với công ty vừa và nhỏ.
+Tỷ lệ giữa các loại tuỳ vào tuổi, mục tiêu và khả năng chịu rủi ro. Người trẻ có thời gian để chờ thị trường hồi phục nên có thể chia 70% cổ phiếu và 30% trái phiếu. Người lớn tuổi nên ưu tiên vàng, trái phiếu và tiền mặt.
+
+**Trong cùng một loại tài sản.** Ngay cả khi chủ yếu đầu tư cổ phiếu, vẫn nên chia ra nhiều mã ở các ngành khác nhau thay vì dồn vào một ngành. Bài gợi ý chia đều năm ngành, mỗi ngành 20%: ngân hàng, bán lẻ, công nghệ, dầu khí, và y tế hoặc tiêu dùng. Khi một ngành suy thoái, các ngành còn lại "gồng gánh" cho danh mục. Đây là cách chống rủi ro ngành, tức rủi ro một ngành gặp khó kéo theo mọi cổ phiếu trong ngành đó.
+
+**Theo thời gian.** Không nên dồn toàn bộ tiền vào một thời điểm. Phương pháp DCA (Dollar Cost Averaging) là đầu tư định kỳ một số tiền cố định, nhờ đó giá mua được trung bình hoá, tránh trường hợp mua trúng đỉnh, và giảm áp lực tâm lý phải "canh" thời điểm.
+
+**Theo địa lý.** Một phần vốn nên đặt vào quỹ toàn cầu hoặc ETF quốc tế để không tập trung toàn bộ vào thị trường Việt Nam. Bài lấy ví dụ quỹ mô phỏng chỉ số S&P 500 của Mỹ hoặc quỹ đầu tư vào các thị trường mới nổi.
+
+**Phương pháp khác.** Có hai cách nữa:
+
+- Quỹ chỉ số và ETF, mỗi quỹ chứa cổ phiếu của hàng trăm công ty: VFMVN30 và VNDiamond tại Việt Nam, SPY tại Mỹ. Mua một chứng chỉ quỹ là đã đa dạng hoá ngay.
+- Đa dạng theo quy mô công ty: kết hợp cổ phiếu blue-chip (công ty lớn, nền tảng vững) với cổ phiếu công ty vừa và nhỏ, vốn có tiềm năng tăng trưởng cao hơn nhưng rủi ro hơn.
 
 ### 3. Ví dụ danh mục: chị Mai
-- Chị Mai 35 tuổi, làm văn phòng, có 500 triệu nhàn rỗi không cần trong 3–5 năm; mục tiêu tăng trưởng ổn định, không quá mạo hiểm.
+
+Chị Mai 35 tuổi, làm văn phòng, có 500 triệu đồng nhàn rỗi và không cần dùng đến trong 3–5 năm. Mục tiêu của chị là tăng trưởng ổn định, không quá mạo hiểm. Bài đề xuất danh mục sau:
 
 | Khoản | Số tiền | Tỷ trọng | Vai trò |
 |---|---|---|---|
-| Cổ phiếu niêm yết, chia đều 5 mã (ngân hàng, công nghệ, tiêu dùng, dầu khí, y tế) | 200 triệu | 40% | Tăng trưởng |
+| Cổ phiếu niêm yết, chia đều 5 mã (ngân hàng, công nghệ, tiêu dùng, dầu khí, y tế), mỗi mã 40 triệu | 200 triệu | 40% | Tăng trưởng |
 | Tiết kiệm kỳ hạn 6 tháng | 100 triệu | 20% | Dự phòng, chờ cơ hội |
 | Vàng vật chất hoặc quỹ ETF vàng | 100 triệu | 20% | Bảo toàn giá trị khi bất ổn |
 | Trái phiếu doanh nghiệp uy tín hoặc quỹ trái phiếu | 50 triệu | 10% | Thu nhập ổn định |
 | Quỹ mở cổ phiếu hoặc ETF (VFMVN30, VNDiamond, SPY) | 50 triệu | 10% | Đa dạng thêm |
 
-- **Kết quả kỳ vọng:** chứng khoán giảm thì vàng và trái phiếu ổn định; tiền mặt cho phép xoay xở không phải bán giá thấp; nếu ngành công nghệ mất 50%, vàng tăng 10%, các ngành khác giữ giá, tổng danh mục chỉ giảm nhẹ.
-- Kiểm tra kịch bản: mã công nghệ chiếm 40 triệu (một phần năm của 200 triệu), giảm 50% mất 20 triệu; vàng 100 triệu tăng 10% được 10 triệu; ròng −10 triệu, tức khoảng −2% của 500 triệu. Kết luận "giảm nhẹ" của bài khớp với số.
+Kết quả kỳ vọng theo bài: khi chứng khoán giảm, vàng và trái phiếu vẫn ổn định; khoản tiền gửi cho phép chị xoay xở mà không phải bán tài sản lúc giá thấp. Bài nêu kịch bản: ngành công nghệ mất 50%, vàng tăng 10%, các khoản khác giữ giá, và kết luận tổng danh mục "chỉ giảm nhẹ".
+
+Có thể kiểm tra kết luận này bằng phép tính:
+
+| Bước | Tính toán | Kết quả |
+|---|---|---|
+| Mã công nghệ | 200 triệu chia 5 mã | 40 triệu |
+| Công nghệ giảm 50% | 40 triệu × 50% | mất 20 triệu |
+| Vàng tăng 10% | 100 triệu × 10% | được 10 triệu |
+| Ròng | −20 triệu + 10 triệu | −10 triệu |
+| So với cả danh mục | 10 triệu chia 500 triệu | khoảng −2% |
+
+Như vậy chữ "giảm nhẹ" của bài khớp với số: một cú sốc làm một ngành mất một nửa giá trị chỉ làm cả danh mục giảm khoảng 2%. Nếu chị Mai dồn cả 500 triệu vào cổ phiếu công nghệ, cùng cú sốc đó sẽ làm chị mất 250 triệu.
 
 ### 4. Lưu ý khi áp dụng
-- **Không đa dạng hoá quá mức:** 50 cổ phiếu khó theo dõi; với nhà đầu tư cá nhân, 5–15 mã là lý tưởng.
-- **Rà soát và tái cân bằng** hàng quý hoặc năm: tỷ trọng có lệch không (ví dụ cổ phiếu tăng chiếm 80% thay vì 40%); loại khoản kém; bổ sung ngành tiềm năng.
-- **Tuỳ chỉnh theo khẩu vị và mục tiêu:** tuổi tác, tình trạng tài chính, mức chịu rủi ro, mục tiêu tăng trưởng hay bảo toàn. Ví dụ người 25 tuổi ưu tiên cổ phiếu, người 55 tuổi tập trung trái phiếu và vàng.
-- **Hiểu rõ tài sản:** đa dạng hoá không phải đầu tư mù quáng; nghiên cứu từng loại tài sản, từ cổ phiếu, trái phiếu đến ETF.
+
+Bài nêu bốn lưu ý để đa dạng hoá không phản tác dụng.
+
+**Không đa dạng hoá quá mức.** Nắm 50 cổ phiếu thì khó theo dõi, và thêm mã quá nhiều không giảm rủi ro thêm bao nhiêu. Với nhà đầu tư cá nhân, 5–15 mã là lý tưởng.
+
+**Rà soát và tái cân bằng định kỳ**, hàng quý hoặc hàng năm. Cần xem tỷ trọng có bị lệch không; ví dụ cổ phiếu tăng giá mạnh đến mức chiếm 80% danh mục thay vì 40% như kế hoạch. Khi đó nên bán bớt phần đã tăng để đưa tỷ trọng về đúng mức. Đồng thời loại bỏ những khoản kém hiệu quả và bổ sung các ngành có tiềm năng.
+
+**Tuỳ chỉnh theo khẩu vị và mục tiêu.** Cách chia phụ thuộc vào tuổi tác, tình trạng tài chính, mức chịu rủi ro, và mục tiêu là tăng trưởng hay bảo toàn vốn. Ví dụ người 25 tuổi nên ưu tiên cổ phiếu, còn người 55 tuổi nên tập trung vào trái phiếu và vàng.
+
+**Hiểu rõ tài sản mình nắm.** Đa dạng hoá không có nghĩa là đầu tư mù quáng vào thật nhiều thứ. Cần tìm hiểu từng loại tài sản, từ cổ phiếu, trái phiếu đến ETF, trước khi bỏ tiền vào.
 
 ### 5. Kết luận
-- Đa dạng hoá không phải mẹo cao siêu mà là nguyên tắc cốt lõi; không tránh mọi rủi ro nhưng giúp sống sót và duy trì lợi nhuận ổn định qua giai đoạn khó.
-- Chia vốn theo tài sản, ngành, khu vực, thời điểm để giảm tổn thất và tăng cơ hội sinh lời bền vững.
+
+Bài kết luận rằng đa dạng hoá không phải mẹo cao siêu mà là nguyên tắc cốt lõi của đầu tư. Nó không giúp tránh được mọi rủi ro, nhưng giúp người đầu tư sống sót và duy trì lợi nhuận ổn định qua những giai đoạn thị trường khó khăn. Cách làm là chia vốn theo bốn chiều: loại tài sản, ngành, khu vực địa lý và thời điểm, nhằm giảm tổn thất và tăng cơ hội sinh lời bền vững.
 
 ## Thuật ngữ
 

@@ -58,62 +58,124 @@
 2. Nhà đầu tư nên yêu cầu doanh nghiệp giải trình bài toán lợi nhuận gồm những khoản doanh thu và chi phí nào?
 3. Về mặt pháp lý, người góp vốn trong mô hình này có quyền gì, và những rủi ro mất vốn, không đạt lợi nhuận, mất thanh khoản thể hiện ra sao?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tỷ suất sinh lời (TSSL).** Số tiền lãi thu được so với số vốn bỏ ra, tính theo phần trăm cho một khoảng thời gian. Ví dụ trong bài: góp 40 triệu, mỗi tháng nhận 1,2 triệu, tức 3%/tháng. Bài dùng con số này làm thước đo để so lời chào mời với các kênh đầu tư thông thường.
+
+**IRR (tỷ suất hoàn vốn nội bộ, internal rate of return).** Mức lãi suất làm cho tổng giá trị hiện tại của mọi khoản tiền bỏ ra và thu về bằng 0; nói đơn giản là mức lãi thực sự mà một dòng tiền mang lại. Ví dụ trong bài: dòng tiền −40 triệu ở tháng 0, +1,2 triệu mỗi tháng trong 29 tháng, rồi +41,2 triệu ở tháng 30 có IRR đúng bằng 3%/tháng, vì gốc được hoàn nguyên vẹn. Excel có sẵn hàm IRR, và bài dùng nó để biến một lời chào mời thành một con số so sánh được.
+
+**Lãi kép và lãi suất năm tương đương.** Lãi kép là lãi của kỳ trước được cộng vào vốn để sinh lãi ở kỳ sau. Quy lãi tháng ra lãi năm có tính lãi kép theo công thức (1 + lãi tháng)^12 − 1. Ví dụ trong bài: (1 + 3%)^12 − 1 = 42,58%/năm, cao hơn mức 36% nếu chỉ nhân 3% với 12. Con số 42,58% là cốt lõi của lập luận "bữa trưa miễn phí".
+
+**Chi phí vốn (cost of capital).** Mức sinh lời mà doanh nghiệp phải trả cho người cấp vốn, dù đó là tiền vay hay tiền tự có. Ví dụ trong bài: vốn từ nhà đầu tư cá nhân có chi phí 42,58%/năm, còn vốn của doanh nghiệp tạm tính 10%. Bài dùng khái niệm này để chỉ ra dự án phải lãi rất cao mới đủ trả cho người góp vốn.
+
+**Khấu hao (depreciation).** Chia chi phí xây dựng hay mua tài sản cho số năm sử dụng, để mỗi năm gánh một phần. Ví dụ minh hoạ: xây dãy phòng hết 1 tỷ đồng, dùng được 10 năm, thì mỗi năm có chi phí khấu hao 100 triệu đồng dù không phải chi tiền mặt năm đó. Đây là một dòng chi phí trong bài toán lợi nhuận mà tác giả yêu cầu doanh nghiệp giải trình.
+
+**Công suất cho thuê (occupancy).** Tỷ lệ phòng có người thuê trên tổng số phòng. Ví dụ minh hoạ: 100 phòng, có 80 phòng có khách thì công suất là 80%. Đây là một trong ba yếu tố tạo nên doanh số của dự án nhà trọ.
+
+**Thanh khoản (liquidity).** Khả năng chuyển một khoản đầu tư thành tiền mặt khi cần. Ví dụ trong bài: nhà đầu tư mua 3 suất, tổng 120 triệu, sau 3 tháng muốn rút; nếu không ai tin doanh nghiệp nữa thì không bán lại được cho ai. Đây là một trong ba rủi ro tác giả phân tích.
+
+**Cổ đông, người cho vay và người "hợp tác đầu tư".** Ba vị trí khác nhau của người bỏ tiền vào doanh nghiệp. Cổ đông sở hữu một phần công ty và, nếu là công ty đại chúng, được báo cáo chi tiết; người cho vay có quyền đòi nợ được pháp luật bảo vệ; người "hợp tác đầu tư" trong dự án này không sở hữu gì và không có quyền đòi nợ ưu tiên. Ví dụ trong bài: khi có chuyện, người góp 40 triệu chỉ có thể kiện ra toà dân sự. Phân biệt này là nền của phần "rủi ro mất vốn".
+
+## Nội dung chi tiết
 
 ### 1. Lời chào mời của doanh nghiệp
-- Doanh nghiệp TP (gọi tắt DN) chào suất hợp tác đầu tư mô hình "nhà trọ tiền chế, thuê – xây dựng – cho thuê" trên truyền thông và mạng xã hội:
-  - Góp 40 triệu đồng sở hữu 1 phòng trọ trong 2,5 năm.
-  - Không phải vận hành, quản lý.
-  - Kết thúc 30 tháng hoàn vốn 40 triệu.
-  - Lợi nhuận từ cho thuê: 1,2 triệu đồng/tháng/phòng.
-  - Không giới hạn số phòng đầu tư.
-- Nhiều nhà đầu tư hỏi tác giả có nên tham gia; tác giả xét theo ba nguyên tắc.
+
+Một doanh nghiệp, tác giả gọi tắt là doanh nghiệp TP (DN), chào bán các "suất hợp tác đầu tư" theo mô hình "nhà trọ tiền chế, thuê – xây dựng – cho thuê" trên truyền thông và mạng xã hội. Nội dung lời chào:
+
+- Góp 40 triệu đồng là "sở hữu" 1 phòng trọ trong 2,5 năm.
+- Nhà đầu tư không phải vận hành hay quản lý gì.
+- Kết thúc 30 tháng, nhà đầu tư được hoàn lại đủ 40 triệu.
+- Lợi nhuận từ cho thuê là 1,2 triệu đồng mỗi tháng cho mỗi phòng.
+- Không giới hạn số phòng mỗi người được đầu tư.
+
+Nhiều nhà đầu tư hỏi tác giả có nên tham gia không. Tác giả trả lời bằng cách xét dự án theo ba nguyên tắc, trình bày ở ba mục tiếp theo.
 
 ### 2. Nguyên tắc 1: "Không có một bữa trưa miễn phí nào cả!"
-- Dòng tiền theo tháng (dùng Excel):
-  - Tháng 0: −40 triệu.
-  - 29 tháng kế tiếp: +1,2 triệu mỗi tháng.
-  - Tháng cuối (tháng 30): +41,2 triệu (1,2 triệu lãi + 40 triệu gốc).
-- Áp dụng hàm IRR: tỷ suất sinh lời (TSSL) = 3%/tháng (kiểm tra: 1,2/40 = 3%, vì gốc được hoàn nguyên vẹn nên IRR đúng bằng lãi tháng).
-- Quy ra năm: (1 + 3%)^12 − 1 = 42,58%/năm (kiểm tra: 1,03^12 ≈ 1,4258, đúng).
-- So sánh:
-  - Lãi tiền gửi ngân hàng: 6,5–8,0%/năm.
-  - Tỷ suất sinh lời trung bình thị trường chứng khoán: 9–10%/năm; số cổ phiếu sinh lời đều đặn trên 20%/năm: rất ít.
-- Câu hỏi cần đặt cho DN: sao không mời ngân hàng cho vay, mời "đại gia", quỹ tài trợ vốn? Chỉ cần thấy TSSL trên 20%/năm họ đã tham gia ngay, huống chi 42,58%. Sao phải đi mời từng nhà đầu tư nhỏ lẻ cho cực?
-- Phép thử chênh lệch:
-  - Vay 12%/năm rồi đầu tư: hưởng chênh lệch 42,58% − 12% = 30,58%/năm.
-  - Vay nặng lãi 24%/năm: vẫn hưởng 42,58% − 24% = 18,58%/năm, mà theo lời chào "không có bất cứ rủi ro nào".
-- Nghĩa là nhà đầu tư được mời một bữa trưa thịnh soạn hoàn toàn miễn phí, điều không thể xảy ra → nói KHÔNG.
+
+Bước đầu tiên là tính lời chào mời ra một con số so sánh được. Tác giả lập dòng tiền theo tháng trên Excel:
+
+| Thời điểm | Dòng tiền của nhà đầu tư |
+|---|---|
+| Tháng 0 | −40 triệu (góp vốn) |
+| 29 tháng kế tiếp | +1,2 triệu mỗi tháng |
+| Tháng cuối (tháng 30) | +41,2 triệu (1,2 triệu lãi cộng 40 triệu gốc) |
+
+Áp dụng hàm IRR cho dòng tiền này, tỷ suất sinh lời (TSSL) là 3%/tháng. Có thể kiểm tra nhanh: 1,2 chia 40 bằng 3%, và vì gốc được hoàn nguyên vẹn nên IRR đúng bằng lãi tháng. Quy ra năm có tính lãi kép: (1 + 3%)^12 − 1 = 42,58%/năm. Kiểm tra: 1,03^12 xấp xỉ 1,4258, trừ 1 ra 42,58%.
+
+Đặt con số đó cạnh các kênh đầu tư thông thường:
+
+| Kênh | Tỷ suất sinh lời |
+|---|---|
+| Tiền gửi ngân hàng | 6,5–8,0%/năm |
+| Bình quân thị trường chứng khoán | 9–10%/năm |
+| Cổ phiếu sinh lời đều đặn trên 20%/năm | Rất ít |
+| Lời chào của DN | 42,58%/năm |
+
+Lời chào mời cao gấp khoảng năm đến gần bảy lần lãi tiền gửi 6,5–8% và gấp hơn bốn lần lợi nhuận bình quân của chứng khoán. Từ đó tác giả đặt câu hỏi cho DN: sao không mời ngân hàng cho vay, không mời các "đại gia" hay quỹ đầu tư góp vốn? Những người này chỉ cần thấy TSSL trên 20%/năm là đã tham gia ngay, huống chi 42,58%. Vậy tại sao DN phải đi mời từng nhà đầu tư nhỏ lẻ cho cực?
+
+Tác giả thêm một phép thử chênh lệch. Nếu dự án thật sự an toàn như lời chào, một người có thể đi vay để đầu tư:
+
+| Lãi vay | Chênh lệch nhà đầu tư hưởng |
+|---|---|
+| Vay ngân hàng 12%/năm | 42,58% − 12% = 30,58%/năm |
+| Vay nặng lãi 24%/năm | 42,58% − 24% = 18,58%/năm |
+
+Ngay cả khi vay nặng lãi, người đó vẫn hưởng 18,58%/năm, mà theo lời chào thì "không có bất cứ rủi ro nào". Nghĩa là nhà đầu tư được mời một bữa trưa rất thịnh soạn và hoàn toàn miễn phí. Điều đó không thể xảy ra, nên theo nguyên tắc này câu trả lời là "không".
 
 ### 3. Nguyên tắc 2: Hiểu rõ cách dự án tạo ra lợi nhuận
-- Yêu cầu DN giải trình bài toán lợi nhuận theo năm.
-- **Doanh số** = Tổng số phòng × công suất cho thuê × giá thuê.
-- **Tổng chi phí** gồm:
-  - Chi phí thuê đất: rẻ mấy cũng phải có; gồm chi phí chính thức trong quyết định và chi phí không chính thức; chia cho số năm thuê.
-  - Khấu hao xây dựng: tổng chi phí xây dựng chia số năm sử dụng.
-  - Khấu hao tài sản: tổng chi phí tài sản chia số năm sử dụng.
-  - Chi phí bán, marketing suất đầu tư (marketing, nhân viên bán suất).
-  - Chi phí bán, marketing phòng thuê (marketing, nhân viên tìm khách thuê).
-  - Chi phí vận hành, quản lý dự án và phòng thuê: "không nhỏ đâu!".
-  - Chi phí vốn từ nhà đầu tư cá nhân: 42,58% số vốn góp.
-  - Chi phí vốn của DN (vốn vay hay tự có đều có chi phí): tạm tính 10%. Chỉ bằng 0 nếu DN "tay không bắt giặc".
-- Doanh số trừ chi phí ra số dương → có thể cân nhắc; ra số âm → nói KHÔNG.
-- Tác giả không làm trong ngành nhà tiền chế cho thuê nhưng dự đoán với xác suất 99% kết quả là âm.
+
+Nguyên tắc thứ hai là yêu cầu DN giải trình bài toán lợi nhuận theo năm: tiền đến từ đâu và đi về đâu.
+
+**Doanh số** = tổng số phòng × công suất cho thuê × giá thuê.
+
+**Tổng chi phí** gồm các khoản:
+
+| Khoản chi phí | Ghi chú của tác giả |
+|---|---|
+| Thuê đất | Rẻ mấy cũng phải có; gồm chi phí chính thức trong quyết định và chi phí không chính thức; chia cho số năm thuê |
+| Khấu hao xây dựng | Tổng chi phí xây dựng chia số năm sử dụng |
+| Khấu hao tài sản | Tổng chi phí tài sản chia số năm sử dụng |
+| Bán hàng, marketing suất đầu tư | Quảng cáo và nhân viên bán suất cho nhà đầu tư |
+| Bán hàng, marketing phòng thuê | Quảng cáo và nhân viên tìm khách thuê phòng |
+| Vận hành, quản lý dự án và phòng thuê | "Không nhỏ đâu!" |
+| Chi phí vốn từ nhà đầu tư cá nhân | 42,58% số vốn góp |
+| Chi phí vốn của DN | Vốn vay hay vốn tự có đều có chi phí; tạm tính 10%; chỉ bằng 0 nếu DN "tay không bắt giặc" |
+
+Như vậy dự án phải trả chi phí marketing 2 lần: một lần để bán suất đầu tư, một lần để tìm khách thuê. Quy tắc quyết định rất đơn giản: doanh số trừ chi phí ra số dương thì có thể cân nhắc; ra số âm thì nói "không". Tác giả thừa nhận mình không làm trong ngành nhà tiền chế cho thuê, nhưng dự đoán với xác suất 99% là kết quả sẽ âm, vì chỉ riêng chi phí vốn 42,58%/năm đã quá lớn.
 
 ### 4. Nguyên tắc 3: Xem xét kỹ ba rủi ro
-- **4.1 Rủi ro mất vốn:**
-  - DN và cổ đông sáng lập có uy tín không? DN có bao nhiêu vốn để cân bằng với vốn góp của nhà đầu tư?
-  - Nhận diện đúng hình thức đầu tư: DN nói nhà đầu tư "sở hữu" phòng trọ 2,5 năm, nhưng không có hành lang pháp lý nào xác nhận quyền sở hữu này; nhà đầu tư không có quyền gì với phòng, cũng không có trách nhiệm vận hành, tìm khách. Tóm lại không sở hữu gì cả.
-  - Thực chất là gọi vốn hùn đầu tư dự án, hình thức rủi ro rất cao.
-  - So sánh: cổ đông công ty đại chúng được công ty báo cáo chi tiết và nhà nước quản lý chặt để bảo vệ cổ đông nhỏ. Người cho vay tín chấp phải hiểu người vay, chỉ số tín nhiệm, khả năng trả nợ, và được pháp luật bảo vệ; DN phá sản phải trả cho bên cho vay trước các đối tác khác (theo cách diễn đạt của bài).
-  - Ở đây nhà đầu tư không là cổ đông, không là người cho vay, chỉ là "người hợp tác đầu tư"; rủi ro xảy ra chỉ có thể kiện ra toà dân sự, tốn thời gian, chưa chắc đòi được tiền.
-- **4.2 Rủi ro không đạt tỷ suất lợi nhuận, giảm vốn:** muốn trả đúng mức hứa, DN phải kinh doanh tốt và đủ lãi trả chi phí vốn cho nhà đầu tư, điều đã phân tích là khó.
-- **4.3 Rủi ro thanh khoản:** khả năng chuyển suất đầu tư thành tiền. Ví dụ nhà đầu tư mua 3 suất, tổng 120 triệu, sau 3 tháng muốn rút. Nếu DN marketing tốt, nhiều người tin, có thể sang nhượng; nếu ít người tin, nhất là khi DN đuối sức trả lãi và gốc, không bán được cho ai.
+
+**4.1 Rủi ro mất vốn.** Trước hết cần hỏi DN và các cổ đông sáng lập có uy tín không, và DN có bao nhiêu vốn của chính mình để cân bằng với vốn góp của nhà đầu tư.
+
+Quan trọng hơn là nhận diện đúng hình thức đầu tư. DN nói nhà đầu tư "sở hữu" phòng trọ trong 2,5 năm, nhưng không có hành lang pháp lý nào xác nhận quyền sở hữu này. Nhà đầu tư không có quyền gì với căn phòng, cũng không có trách nhiệm vận hành hay tìm khách. Tóm lại, họ không thật sự sở hữu gì cả. Thực chất đây là gọi vốn hùn đầu tư dự án, một hình thức rủi ro rất cao.
+
+Tác giả so sánh ba vị trí của người bỏ tiền vào doanh nghiệp:
+
+| Vị trí | Được bảo vệ thế nào |
+|---|---|
+| Cổ đông công ty đại chúng | Công ty phải báo cáo chi tiết; nhà nước quản lý chặt để bảo vệ cổ đông nhỏ |
+| Người cho vay tín chấp | Phải tìm hiểu người vay, chỉ số tín nhiệm, khả năng trả nợ; được pháp luật bảo vệ; theo cách diễn đạt của bài, DN phá sản phải trả cho bên cho vay trước các đối tác khác |
+| Người "hợp tác đầu tư" (dự án này) | Không sở hữu phòng, không có quyền, không có trách nhiệm; khi có chuyện chỉ có thể kiện ra toà dân sự |
+
+Ở đây nhà đầu tư không phải cổ đông, cũng không phải người cho vay, mà chỉ là "người hợp tác đầu tư". Nếu rủi ro xảy ra, con đường duy nhất là kiện ra toà dân sự, vừa tốn thời gian vừa chưa chắc đòi được tiền.
+
+**4.2 Rủi ro không đạt tỷ suất lợi nhuận, giảm vốn.** Muốn trả đúng mức đã hứa, DN phải kinh doanh tốt và có đủ lãi để trả chi phí vốn cho nhà đầu tư. Như đã phân tích ở nguyên tắc 2, điều đó rất khó.
+
+**4.3 Rủi ro thanh khoản.** Đây là khả năng chuyển suất đầu tư thành tiền khi cần. Ví dụ: một nhà đầu tư mua 3 suất, tổng 120 triệu, và sau 3 tháng muốn rút. Nếu DN marketing tốt và nhiều người còn tin, có thể sang nhượng suất cho người khác. Nếu ít người tin, nhất là khi DN đã đuối sức trả lãi và gốc, thì không bán được cho ai.
 
 ### 5. Kết luận và diễn biến thực tế
-- Theo các nguyên tắc trên, dự án "quá rủi ro" với nhà đầu tư.
-- Chú thích của tác giả: bài viết lần đầu trên CafeBiz ngày 29/02/2020. Ngày 20/10/2023, Giám đốc Công ty TNHH Kinh doanh giải pháp nhà Tiến Phát bị Công an TP.HCM khởi tố, bắt giam về tội lừa đảo chiếm đoạt tài sản.
-- Ngày 24/4/2025, VKSND TP.HCM hoàn tất cáo trạng truy tố Ngô Sĩ Linh (sinh 1994, Giám đốc Công ty Nhà Tiến Phát) và Nguyễn Hoài Nghĩa (sinh 1989, cố vấn công ty) về tội "Lừa đảo chiếm đoạt tài sản", chiếm đoạt 125,7 tỷ đồng của 261 bị hại.
+
+Xét theo cả ba nguyên tắc, tác giả kết luận dự án "quá rủi ro" với nhà đầu tư và khuyên nói "không".
+
+Chú thích của tác giả cho biết bài được viết lần đầu trên CafeBiz ngày 29/02/2020. Diễn biến sau đó xác nhận cảnh báo:
+
+| Thời điểm | Sự kiện |
+|---|---|
+| 29/02/2020 | Bài cảnh báo đăng lần đầu trên CafeBiz |
+| 20/10/2023 | Giám đốc Công ty TNHH Kinh doanh giải pháp nhà Tiến Phát bị Công an TP.HCM khởi tố, bắt giam về tội lừa đảo chiếm đoạt tài sản |
+| 24/4/2025 | VKSND TP.HCM hoàn tất cáo trạng truy tố Ngô Sĩ Linh (sinh 1994, Giám đốc Công ty Nhà Tiến Phát) và Nguyễn Hoài Nghĩa (sinh 1989, cố vấn công ty) về tội "Lừa đảo chiếm đoạt tài sản", chiếm đoạt 125,7 tỷ đồng của 261 bị hại |
+
+Khoảng cách hơn ba năm giữa bài cảnh báo và quyết định khởi tố cho thấy một mô hình như vậy có thể tồn tại khá lâu, miễn là vẫn còn người mới góp tiền.
 
 ## Thuật ngữ
 

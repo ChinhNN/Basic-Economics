@@ -60,48 +60,97 @@
 2. Rủi ro hệ thống và rủi ro phi hệ thống khác nhau thế nào, và rủi ro sự kiện, rủi ro danh tiếng nằm ở đâu?
 3. Nhà đầu tư dùng những nguyên tắc nào để giới hạn thiệt hại từ rủi ro phi hệ thống?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Rủi ro phi hệ thống (unsystematic risk).** Rủi ro chỉ xảy ra với một doanh nghiệp hoặc một ngành, như lãnh đạo vướng pháp lý, nhà máy cháy, sản phẩm lỗi, mất hợp đồng lớn. Ví dụ trong bài: vụ P-Lab làm PNJ giảm sàn ba phiên, nhưng Hoà Phát hay Vinamilk không bị ảnh hưởng. Đây là chủ đề chính của bài, và điểm then chốt là loại rủi ro này giảm được bằng đa dạng hoá.
+
+**Rủi ro hệ thống (systematic risk).** Rủi ro chung của toàn thị trường mà không cổ phiếu nào tránh được, như lãi suất tăng, tỷ giá biến động mạnh, suy thoái, chiến tranh, dịch bệnh. Ví dụ minh hoạ: khi VN-Index giảm 10% vì lãi suất tăng, hầu hết các mã đều giảm, dù bạn nắm 5 hay 50 mã. Bài đặt khái niệm này cạnh rủi ro phi hệ thống để người đọc thấy vì sao đa dạng hoá chỉ chống được một loại.
+
+**Rủi ro sự kiện (event risk).** Biến cố bất ngờ như khởi tố, tai nạn, kiện tụng, khiến giá cổ phiếu lao dốc trong ngắn hạn. Ví dụ trong bài: cựu Giám đốc Công ty Giám định PNJ bị khởi tố, và trong phiên 3/7 cổ phiếu PNJ giảm sàn xuống 58.700 đồng. Bài coi đây là một trong hai dạng nguy hiểm nhất của rủi ro phi hệ thống.
+
+**Rủi ro danh tiếng (reputational risk).** Rủi ro khách hàng và nhà đầu tư mất niềm tin vào một thương hiệu. Ví dụ trong bài: kim cương chiếm khoảng 33% doanh thu mảng trang sức của PNJ, nên nghi vấn về khâu giám định kim cương đánh đúng vào chỗ nhạy cảm nhất. Đây là dạng nguy hiểm thứ hai, vì niềm tin mất đi có thể kéo dài lâu hơn bản thân sự kiện.
+
+**Giảm sàn và dư bán giá sàn.** Giảm sàn là giá giảm hết biên độ cho phép trong một phiên (7% trên HOSE). Dư bán giá sàn là khối lượng đặt bán ở giá sàn mà không có người mua khớp. Ví dụ trong bài: phiên 3/7, PNJ dư bán giá sàn hơn 11 triệu cổ phiếu. Khi dư bán lớn, người muốn thoát hàng cũng không bán được, nên khoản lỗ tiếp tục kéo sang phiên sau.
+
+**Tỷ trọng, quy mô vị thế (position sizing).** Phần trăm danh mục dành cho một mã hay một ngành. Ví dụ trong bài: với danh mục 300 triệu, nếu PNJ chiếm 100% thì lỗ khoảng 45 triệu, nếu chỉ chiếm 10% thì lỗ khoảng 4,5 triệu. Bài kết luận đây là thứ duy nhất nhà đầu tư thật sự kiểm soát được.
+
+**Giá mục tiêu (target price).** Mức giá mà công ty chứng khoán dự báo cho một cổ phiếu, kèm khuyến nghị mua, giữ hay bán. Ví dụ trong bài: sau vụ P-Lab, SSI Research tạm đưa khuyến nghị và giá mục tiêu PNJ vào diện xem xét. Chi tiết này cho thấy mức độ bất định: ngay cả chuyên gia phân tích cũng chưa đủ cơ sở để định giá lại.
+
+**Bắt dao rơi.** Mua vào quá sớm khi giá còn đang lao dốc, với hy vọng mua được ở đáy. Ví dụ minh hoạ: thấy PNJ giảm sàn phiên đầu liền mua thêm, rồi phiên sau giá lại giảm sàn tiếp. Bài nhắc khái niệm này để cảnh báo rằng phản ứng sai với tin xấu có thể theo cả hai hướng: bán tháo hoảng loạn hoặc mua quá sớm.
+
+## Nội dung chi tiết
 
 ### 1. Tình huống mở đầu
-- Một nhà đầu tư mua PNJ với lý lẽ hợp lý: doanh nghiệp trang sức đầu ngành, năm 2025 lãi kỷ lục, quý I/2026 lợi nhuận tăng hơn gấp đôi, "cổ phiếu tốt, mua để dành".
-- Đầu tháng 7, chỉ trong ba phiên mã này giảm sàn liên tiếp, danh mục "bốc hơi gần 15%".
-- Người này không sai ở khâu phân tích doanh nghiệp nhưng vẫn lỗ nặng; lời giải là rủi ro phi hệ thống.
+
+Bài mở đầu bằng một nhà đầu tư giả định mua cổ phiếu PNJ với lý lẽ rất hợp lý: đây là doanh nghiệp trang sức đầu ngành, năm 2025 lãi kỷ lục, quý I/2026 lợi nhuận tăng hơn gấp đôi. Người này nghĩ đây là "cổ phiếu tốt, mua để dành". Đầu tháng 7, chỉ trong ba phiên, mã này giảm sàn liên tiếp và danh mục của người đó "bốc hơi gần 15%".
+
+Điều đáng chú ý là người này không sai ở khâu phân tích doanh nghiệp: số liệu kinh doanh của PNJ đúng là rất tốt. Vậy mà họ vẫn lỗ nặng. Theo bài, lời giải nằm ở một khái niệm: rủi ro phi hệ thống.
 
 ### 2. Chuyện gì đã xảy ra với PNJ
-- Đầu tháng 7/2026, cổ phiếu PNJ (CTCP Vàng bạc Đá quý Phú Nhuận) giảm sàn ba phiên liên tiếp. Ngòi nổ: cựu Giám đốc Công ty Giám định PNJ (thương hiệu P-Lab) bị khởi tố trong một đường dây buôn lậu kim cương xuyên quốc gia (nguồn bài dẫn: Tuổi Trẻ, Vietstock, 7/2026).
-- Phiên 3/7: PNJ giảm hết biên độ xuống 58.700 đồng/cổ phiếu, dư bán giá sàn hơn 11 triệu đơn vị (Investing.com, 3/7/2026).
-- Kinh doanh vẫn rất khoẻ:
-  - Năm 2025: doanh thu trên 33.000 tỷ đồng, lợi nhuận sau thuế gần 2.830 tỷ đồng, cao nhất lịch sử.
-  - Quý I/2026: lợi nhuận sau thuế 1.467 tỷ đồng, tăng hơn 116% so với cùng kỳ.
-  - Doanh nghiệp khẳng định hoạt động ổn định, đã lập tổ giám sát đặc biệt đối với P-Lab (Investing.com, Vietstock).
-- Câu hỏi cốt lõi: vì sao doanh nghiệp lãi kỷ lục lại mất gần 15% giá trị trong ba phiên?
+
+Đầu tháng 7/2026, cổ phiếu PNJ của CTCP Vàng bạc Đá quý Phú Nhuận giảm sàn ba phiên liên tiếp. Ngòi nổ là việc cựu Giám đốc Công ty Giám định PNJ (thương hiệu P-Lab) bị khởi tố trong một đường dây buôn lậu kim cương xuyên quốc gia (bài dẫn nguồn Tuổi Trẻ, Vietstock, 7/2026). Trong phiên 3/7, PNJ giảm hết biên độ xuống 58.700 đồng/cổ phiếu, với dư bán giá sàn hơn 11 triệu đơn vị (Investing.com, 3/7/2026).
+
+Trong khi đó, tình hình kinh doanh vẫn rất khoẻ:
+
+| Chỉ tiêu | Số liệu trong bài |
+|---|---|
+| Doanh thu năm 2025 | Trên 33.000 tỷ đồng |
+| Lợi nhuận sau thuế năm 2025 | Gần 2.830 tỷ đồng, cao nhất lịch sử |
+| Lợi nhuận sau thuế quý I/2026 | 1.467 tỷ đồng, tăng hơn 116% so với cùng kỳ |
+
+Doanh nghiệp khẳng định hoạt động vẫn ổn định và đã lập tổ giám sát đặc biệt đối với P-Lab (Investing.com, Vietstock). Từ đó bài đặt câu hỏi cốt lõi: vì sao một doanh nghiệp lãi kỷ lục lại mất gần 15% giá trị trong ba phiên?
 
 ### 3. Rủi ro hệ thống và phi hệ thống
-- **Rủi ro hệ thống:** rủi ro của toàn thị trường, không cổ phiếu nào tránh được: lãi suất tăng, tỷ giá biến động mạnh, suy thoái, chiến tranh, dịch bệnh. Khi VN-Index giảm sâu vì vĩ mô, gần như toàn bộ thị trường giảm; mua thêm nhiều cổ phiếu không loại bỏ được vì tất cả chịu chung cú sốc.
-- **Rủi ro phi hệ thống:** chỉ xảy ra với một doanh nghiệp hoặc ngành: lãnh đạo vướng pháp lý, nhà máy cháy, sản phẩm lỗi, mất hợp đồng lớn, tin đồn tiêu cực. Vụ P-Lab không ảnh hưởng Hoà Phát hay Vinamilk mà tác động trực tiếp PNJ.
-- Hai "người anh em" nguy hiểm trong nhóm này:
-  - Rủi ro sự kiện: biến cố bất ngờ (khởi tố, tai nạn, kiện tụng) khiến giá lao dốc ngắn hạn.
-  - Rủi ro danh tiếng: niềm tin khách hàng và nhà đầu tư bị lung lay.
-- Với PNJ, SSI Research ước tính kim cương chiếm khoảng 33% doanh thu mảng trang sức, nên nghi vấn về giám định kim cương đánh đúng vào khu vực nhạy cảm nhất (CafeF, SSI Research, 7/2026).
-- Tin tốt: rủi ro phi hệ thống giảm được bằng đa dạng hoá.
+
+Để trả lời, bài phân biệt hai loại rủi ro.
+
+| | Rủi ro hệ thống | Rủi ro phi hệ thống |
+|---|---|---|
+| Phạm vi | Toàn thị trường, không cổ phiếu nào tránh được | Một doanh nghiệp hoặc một ngành |
+| Ví dụ nguồn gốc | Lãi suất tăng, tỷ giá biến động mạnh, suy thoái, chiến tranh, dịch bệnh | Lãnh đạo vướng pháp lý, nhà máy cháy, sản phẩm lỗi, mất hợp đồng lớn, tin đồn tiêu cực |
+| Biểu hiện | VN-Index giảm sâu vì vĩ mô, gần như toàn bộ thị trường cùng giảm | Vụ P-Lab tác động trực tiếp PNJ, không ảnh hưởng Hoà Phát hay Vinamilk |
+| Đa dạng hoá có giúp không | Không: mua thêm nhiều cổ phiếu vẫn chịu chung cú sốc | Có: giảm được bằng đa dạng hoá |
+
+Trong nhóm rủi ro phi hệ thống, bài nêu hai "người anh em" nguy hiểm. **Rủi ro sự kiện** là các biến cố bất ngờ như khởi tố, tai nạn, kiện tụng, khiến giá lao dốc trong ngắn hạn. **Rủi ro danh tiếng** là khi niềm tin của khách hàng và nhà đầu tư bị lung lay. Vụ PNJ có cả hai: một sự kiện pháp lý bất ngờ, và một cú đánh vào niềm tin. Theo ước tính của SSI Research, kim cương chiếm khoảng 33% doanh thu mảng trang sức của PNJ, nên nghi vấn về giám định kim cương đánh đúng vào khu vực nhạy cảm nhất (CafeF, SSI Research, 7/2026).
+
+Tin tốt mà bài nhấn mạnh: rủi ro phi hệ thống có thể giảm được bằng đa dạng hoá.
 
 ### 4. Vì sao cổ phiếu tốt vẫn giảm mạnh
-- Chọn được doanh nghiệp tốt chưa đủ an toàn: công ty có thể có báo cáo tài chính đẹp, lãnh đạo giỏi, thị phần số một nhưng vẫn gặp biến cố mà không bảng cân đối nào dự báo trước.
-- Thị trường phản ứng không vì lợi nhuận xấu đi mà vì hai câu hỏi mới: uy tín thương hiệu bị ảnh hưởng đến mức nào? Còn vấn đề nào chưa công bố?
-- Sự bất định, không phải khoản lỗ hiện tại, kéo giá xuống; đến mức SSI Research tạm đưa khuyến nghị và giá mục tiêu PNJ vào diện xem xét vì chưa đủ cơ sở đánh giá tác động cuối cùng.
-- Bài học: giá cổ phiếu phản ánh cả niềm tin về tương lai, và niềm tin có thể mất rất nhanh.
+
+Bài rút ra rằng chọn được doanh nghiệp tốt chưa đủ để an toàn. Một công ty có thể có báo cáo tài chính đẹp, lãnh đạo giỏi, thị phần số một, nhưng vẫn gặp biến cố mà không bảng cân đối kế toán nào dự báo trước được.
+
+Thị trường không phản ứng vì lợi nhuận của PNJ xấu đi, mà vì xuất hiện hai câu hỏi mới chưa ai trả lời được: uy tín thương hiệu bị ảnh hưởng đến mức nào, và còn vấn đề nào chưa được công bố? Theo bài, chính sự bất định, chứ không phải khoản lỗ hiện tại, là yếu tố kéo giá cổ phiếu xuống. Mức bất định lớn đến nỗi SSI Research tạm đưa khuyến nghị và giá mục tiêu của PNJ vào diện xem xét, vì chưa đủ cơ sở đánh giá tác động cuối cùng.
+
+Bài học rút ra: giá cổ phiếu không chỉ phản ánh doanh nghiệp của hôm nay mà còn phản ánh niềm tin về tương lai, và niềm tin có thể mất đi rất nhanh.
 
 ### 5. Bốn nguyên tắc phòng tránh
-- **1. Đừng bỏ tất cả trứng vào một giỏ:** danh mục 300 triệu chỉ có PNJ → mất gần 45 triệu (300 × 15%). PNJ chiếm 10% (30 triệu) → lỗ khoảng 4,5 triệu (30 × 15%), khó chịu nhưng không nghiêm trọng.
-- **2. Giới hạn tỷ trọng:** nhiều nhà đầu tư đặt 5–10% cho một cổ phiếu, 20–25% cho một ngành; con số tuỳ khẩu vị rủi ro nhưng "không một cổ phiếu nào được phép giết cả danh mục".
-- **3. Phân biệt tin ngắn hạn và dài hạn:** hỏi biến cố có ảnh hưởng năng lực tạo lợi nhuận cốt lõi 3–5 năm tới hay chỉ là cú sốc tâm lý; giúp tránh cả bán tháo hoảng loạn lẫn "bắt dao rơi" quá sớm.
-- **4. Chuẩn bị tâm lý trước khi mua:** nếu ngày mai cổ phiếu giảm sàn ba phiên liên tiếp, mình có ngủ ngon không? Nếu không, quy mô vị thế đang quá lớn.
-- **Hành động ngay:** kiểm tra cổ phiếu tỷ trọng lớn nhất chiếm bao nhiêu phần trăm tổng tài sản; vượt 15–20% là đang gánh quá nhiều rủi ro phi hệ thống. Điều kiểm soát được không phải biến cố mà là tỷ trọng.
+
+Bài đưa ra bốn nguyên tắc để giới hạn thiệt hại.
+
+**1. Đừng bỏ tất cả trứng vào một giỏ.** Bài so sánh hai cách chia một danh mục 300 triệu đồng, với giả định PNJ giảm khoảng 15%:
+
+| Cách chia | Số tiền vào PNJ | Khoản lỗ | Đánh giá |
+|---|---|---|---|
+| 100% PNJ | 300 triệu | khoảng 45 triệu (300 × 15%) | Nghiêm trọng |
+| PNJ chiếm 10% | 30 triệu | khoảng 4,5 triệu (30 × 15%) | Khó chịu nhưng chịu được |
+
+Cùng một biến cố, khoản lỗ chênh nhau mười lần chỉ vì tỷ trọng khác nhau.
+
+**2. Giới hạn tỷ trọng.** Nhiều nhà đầu tư đặt giới hạn 5–10% danh mục cho một cổ phiếu và 20–25% cho một ngành. Con số cụ thể tuỳ khẩu vị rủi ro của mỗi người, nhưng nguyên tắc chung là "không một cổ phiếu nào được phép giết cả danh mục".
+
+**3. Phân biệt tin ngắn hạn và dài hạn.** Khi có tin xấu, hãy hỏi: biến cố này có ảnh hưởng tới năng lực tạo lợi nhuận cốt lõi của doanh nghiệp trong 3–5 năm tới không, hay chỉ là một cú sốc tâm lý? Câu hỏi này giúp tránh cả hai sai lầm: bán tháo trong hoảng loạn và "bắt dao rơi" quá sớm.
+
+**4. Chuẩn bị tâm lý trước khi mua.** Trước khi mua một cổ phiếu, hãy tự hỏi: nếu ngày mai mã này giảm sàn ba phiên liên tiếp, mình có ngủ ngon không? Nếu câu trả lời là không, thì quy mô vị thế đang quá lớn.
+
+**Hành động ngay.** Bài đề nghị người đọc kiểm tra cổ phiếu có tỷ trọng lớn nhất trong danh mục chiếm bao nhiêu phần trăm tổng tài sản. Nếu vượt 15–20%, danh mục đang gánh quá nhiều rủi ro phi hệ thống. Thông điệp cuối của phần này: điều nhà đầu tư kiểm soát được không phải là biến cố, mà là tỷ trọng đầu tư.
 
 ### 6. Câu hỏi thường gặp
-- Đa dạng hoá bao nhiêu mã là đủ? Không có con số tuyệt đối; nhiều nghiên cứu cho rằng khoảng 15–20 cổ phiếu thuộc các ngành khác nhau loại bỏ phần lớn rủi ro phi hệ thống. Quan trọng là đa dạng ngành, không chỉ nhiều mã cùng ngành.
-- Giảm sàn vì tin xấu nên bán hay giữ? Không có câu trả lời chung; đánh giá tin có ảnh hưởng lâu dài đến kinh doanh cốt lõi hay chỉ là cú sốc ngắn hạn. Bài không phải khuyến nghị mua bán.
-- Vụ P-Lab có khiến PNJ phá sản không? Hiện không có thông tin như vậy; PNJ khẳng định kinh doanh ổn định; bài dùng sự kiện làm ví dụ minh hoạ, không nhận định triển vọng đầu tư.
+
+**Đa dạng hoá bao nhiêu mã là đủ?** Không có con số tuyệt đối. Nhiều nghiên cứu cho rằng khoảng 15–20 cổ phiếu thuộc các ngành khác nhau đủ để loại bỏ phần lớn rủi ro phi hệ thống. Điều quan trọng là đa dạng về ngành, chứ không chỉ có nhiều mã trong cùng một ngành.
+
+**Cổ phiếu giảm sàn vì tin xấu thì nên bán hay giữ?** Không có câu trả lời chung. Cần đánh giá tin đó có ảnh hưởng lâu dài đến hoạt động kinh doanh cốt lõi hay chỉ là cú sốc ngắn hạn. Bài nói rõ mình không đưa ra khuyến nghị mua bán.
+
+**Vụ P-Lab có khiến PNJ phá sản không?** Hiện không có thông tin như vậy, và PNJ khẳng định kinh doanh vẫn ổn định. Bài chỉ dùng sự kiện này làm ví dụ minh hoạ cho rủi ro phi hệ thống, không nhận định về triển vọng đầu tư của PNJ.
 
 ## Thuật ngữ
 

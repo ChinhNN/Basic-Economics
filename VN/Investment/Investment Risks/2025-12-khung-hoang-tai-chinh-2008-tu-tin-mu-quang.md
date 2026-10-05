@@ -70,72 +70,137 @@
 2. MBS, CDO và CDS là gì, và vì sao chúng biến một cú giảm giá nhà nhỏ thành khủng hoảng toàn cầu?
 3. Những dấu hiệu nào cho thấy một thị trường đang tích tụ rủi ro khủng hoảng, và vì sao một số người lại kiếm lời được từ đó?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Cho vay dưới chuẩn (subprime lending).** Cho vay những người có thu nhập yếu, lịch sử trả nợ kém, tức là nhóm có khả năng không trả được nợ cao. Ví dụ trong bài: một nhân viên thu ngân được vay 300.000 USD để mua nhà. Đây là "nguyên liệu" đầu tiên của cuộc khủng hoảng: những khoản vay mà ngay từ đầu đã khó được trả.
+
+**NINJA loan.** Viết tắt của No Income, No Job, No Asset: khoản vay cấp cho người không có thu nhập, không có việc làm, không có tài sản. Ví dụ trong bài: một nhân viên bán thời gian ở tiệm pizza thu nhập 1.200 USD/tháng được duyệt vay 450.000 USD, gấp 375 lần thu nhập một tháng. Bài dùng loại khoản vay này để minh hoạ mức độ buông lỏng khi mọi người tin "nhà luôn tăng giá".
+
+**MBS (Mortgage-Backed Securities, chứng khoán bảo đảm bằng khoản vay thế chấp).** Ngân hàng gom nhiều khoản vay mua nhà thành một "giỏ", rồi bán cho nhà đầu tư quyền nhận tiền trả nợ của giỏ đó. Ví dụ minh hoạ: gom 1.000 khoản vay nhà, mỗi tháng người vay trả gốc và lãi, số tiền đó được chuyển cho người mua MBS. Khi người vay không trả được, MBS sụt giá mạnh; đây là kênh đưa rủi ro từ người vay nhà sang nhà đầu tư toàn cầu.
+
+**CDO (Collateralized Debt Obligation) và phân tầng (tranche).** CDO gom nhiều MBS cùng các khoản nợ khác, rồi chia thành nhiều tầng: tầng trên được nhận tiền trước nên được coi là an toàn, tầng dưới chịu lỗ trước. Ví dụ minh hoạ: nếu gói nợ 100 triệu USD bị mất 10 triệu USD, tầng dưới cùng chịu toàn bộ phần mất đó trước, tầng trên chưa bị ảnh hưởng. Bài gọi CDO là nơi Phố Wall che giấu rủi ro tinh vi nhất, vì tầng trên được dán nhãn AAA dù bên trong là nợ xấu.
+
+**Xếp hạng AAA.** Mức tín nhiệm cao nhất mà tổ chức xếp hạng cấp cho một khoản nợ, nghĩa là khả năng vỡ nợ được coi là gần như bằng không. Ví dụ trong bài: các tầng trên của CDO chứa nợ dưới chuẩn vẫn được dán nhãn AAA. Nhãn này khiến nhà đầu tư toàn cầu yên tâm mua mà không kiểm tra bên trong.
+
+**CDS (Credit Default Swap).** Hợp đồng bảo hiểm rủi ro vỡ nợ: người mua trả phí đều đặn, và được bên bán trả tiền nếu tài sản tham chiếu vỡ nợ. Ví dụ trong bài: Michael Burry mua CDS trên các gói MBS; khi nợ xấu tăng, giá CDS tăng hàng trăm lần. Đây là công cụ giúp số ít người kiếm lời lớn khi bong bóng vỡ.
+
+**Đòn bẩy (leverage).** Dùng tiền vay để đầu tư nhiều hơn vốn thật của mình. Ví dụ trong bài: Lehman Brothers dùng đòn bẩy 30:1, tức mỗi 1 USD vốn thật vay thêm 30 USD; tổng tài sản 31 USD thì chỉ cần giảm khoảng 3,2% là mất hết 1 USD vốn. Bài coi đòn bẩy là lý do một cú giảm giá nhà nhỏ biến thành thảm hoạ.
+
+**Lãi suất điều chỉnh (adjustable rate).** Lãi suất của khoản vay nhà không cố định mà thay đổi theo thị trường, thường thấp trong vài năm đầu rồi tăng lên. Ví dụ minh hoạ: lãi 3%/năm trong hai năm đầu, sau đó điều chỉnh lên 7%/năm, làm số tiền trả hằng tháng tăng mạnh. Đây là điều Burry nhận ra: khi lãi điều chỉnh tăng, hàng triệu người vay sẽ không trả nổi.
+
+## Nội dung chi tiết
 
 ### 1. Bối cảnh: nước Mỹ trong cơn mê bất động sản (2003–2006)
-- Sau cú sốc 11/9, kinh tế cần vực dậy, FED "bơm oxy" bằng cách hạ lãi suất xuống mức thấp nhất lịch sử (theo cách nói của bài).
-- Tiền rẻ đến mức các gia đình chỉ cần ký vài tờ giấy là nhận chìa khoá nhà.
-- Niềm tin gần như tuyệt đối: "Nhà là tài sản an toàn nhất. Nhà sẽ luôn tăng giá." Đã là niềm tin tuyệt đối thì không ai kiểm tra rủi ro.
-- Biểu hiện của thời kỳ:
-  - Tài xế taxi sở hữu 2 căn hộ đầu tư.
-  - Nhân viên thu ngân được vay 300.000 USD.
-  - Người vay dưới chuẩn (subprime): thu nhập yếu, lịch sử tín dụng kém, rủi ro vỡ nợ cao vẫn được vay mua nhà.
-  - Môi giới nhà đất lái xe thể thao, sống như triệu phú; giá nhà tăng mỗi tuần, mỗi tháng.
-- Không ai hỏi: thu nhập có tăng tương ứng không, người vay có trả nổi không, khi nào giá xoay chiều, rủi ro nằm ở đâu. Khi đa số tin giá tăng, rủi ro "không còn hiện hữu".
+
+Sau cú sốc khủng bố 11/9, nền kinh tế Mỹ cần được vực dậy. Cục Dự trữ Liên bang Mỹ (FED) "bơm oxy" cho nền kinh tế bằng cách hạ lãi suất xuống mức mà bài gọi là thấp nhất lịch sử. Tiền rẻ đến mức các gia đình chỉ cần ký vài tờ giấy là nhận được chìa khoá nhà.
+
+Cùng với tiền rẻ là một niềm tin gần như tuyệt đối: "Nhà là tài sản an toàn nhất. Nhà sẽ luôn tăng giá." Theo bài, đã là niềm tin tuyệt đối thì không ai còn kiểm tra rủi ro nữa. Biểu hiện của thời kỳ này:
+
+- Tài xế taxi sở hữu 2 căn hộ để đầu tư.
+- Nhân viên thu ngân được vay 300.000 USD.
+- Người vay dưới chuẩn (subprime), tức thu nhập yếu, lịch sử tín dụng kém, rủi ro vỡ nợ cao, vẫn được vay mua nhà.
+- Môi giới nhà đất lái xe thể thao, sống như triệu phú; giá nhà tăng theo từng tuần, từng tháng.
+
+Không ai đặt những câu hỏi cơ bản: thu nhập có tăng tương ứng với giá nhà không, người vay có trả nổi không, khi nào giá xoay chiều, và rủi ro nằm ở đâu. Khi đa số tin rằng giá chỉ có tăng, rủi ro dường như "không còn hiện hữu".
 
 ### 2. NINJA loan: cho vay và vay bằng niềm tin
-- NINJA = No Income, No Job, No Asset: không thu nhập, không việc làm, không tài sản vẫn được vay.
-- Lời kể của một môi giới: một nhân viên bán thời gian ở tiệm pizza, thu nhập 1.200 USD/tháng, được làm hồ sơ vay 450.000 USD mua nhà, hệ thống duyệt ngay. (Khoản vay gấp 375 lần thu nhập tháng, khoảng 31 năm thu nhập.)
-- Nỗi sợ bị che phủ bởi hoa hồng: môi giới chốt hồ sơ là nhận tiền; trả được hay không là chuyện của người vay và ngân hàng, mà họ đều tin giá nhà tăng sẽ cứu tất cả.
+
+NINJA là viết tắt của No Income, No Job, No Asset: người không thu nhập, không việc làm, không tài sản vẫn được vay tiền.
+
+Bài dẫn lời kể của một môi giới: một nhân viên bán thời gian ở tiệm pizza, thu nhập 1.200 USD/tháng, được làm hồ sơ vay 450.000 USD để mua nhà, và hệ thống duyệt ngay. Có thể tính: khoản vay gấp 375 lần thu nhập một tháng, tương đương khoảng 31 năm thu nhập, chưa tính lãi. Người này gần như không có cách nào trả được nếu giá nhà không tăng.
+
+Vì sao môi giới vẫn làm hồ sơ như vậy? Vì nỗi sợ rủi ro bị che phủ bởi hoa hồng. Môi giới chốt được hồ sơ là nhận tiền ngay; người vay có trả được hay không là chuyện của người vay và ngân hàng. Còn người vay và ngân hàng thì đều tin rằng giá nhà tăng sẽ cứu tất cả: nếu không trả được, chỉ cần bán nhà đi với giá cao hơn.
 
 ### 3. Cỗ máy tạo sản phẩm tài chính từ "ảo giác an toàn"
-- Nguy hiểm nhất không phải người vay liều mà là ngân hàng còn liều hơn: gom mọi khoản vay tốt xấu lẫn lộn, đóng gói thành MBS và CDO.
-- **MBS (Mortgage-Backed Securities):** chứng khoán bảo đảm bằng các khoản vay thế chấp nhà ở; gom nhiều khoản vay mua nhà thành một "giỏ" rồi phát hành thành sản phẩm đầu tư; người mua nhận dòng tiền trả nợ. Khi người vay không trả được, MBS sụt giá mạnh.
-- **CDO (Collateralized Debt Obligation):** nghĩa vụ nợ được thế chấp; "phiên bản nâng cấp" của MBS: gom nhiều MBS, thêm nợ xấu, nợ doanh nghiệp, rồi chia thành nhiều tầng rủi ro; tầng trên cùng dán mác AAA dù bên trong toàn nợ xấu. Là nơi Phố Wall che giấu rủi ro tinh vi nhất.
-- MBS, CDO được bán cho nhà đầu tư toàn cầu; sản phẩm càng phức tạp người ta càng tin là an toàn. Tổ chức xếp hạng tín nhiệm dán nhãn AAA lên "một đống tài sản độc hại", tất cả dựa trên niềm tin "nhà không thể giảm giá".
+
+Theo bài, nguy hiểm nhất không phải là người vay liều lĩnh mà là ngân hàng còn liều hơn. Ngân hàng gom mọi khoản vay, tốt xấu lẫn lộn, và đóng gói thành hai loại sản phẩm.
+
+**MBS (Mortgage-Backed Securities)** là chứng khoán bảo đảm bằng các khoản vay thế chấp nhà ở. Ngân hàng gom nhiều khoản vay mua nhà thành một "giỏ" rồi phát hành thành sản phẩm đầu tư; người mua MBS nhận dòng tiền trả nợ của người vay. Khi người vay không trả được, MBS sụt giá mạnh.
+
+**CDO (Collateralized Debt Obligation)**, nghĩa vụ nợ được thế chấp, là "phiên bản nâng cấp" của MBS. Ngân hàng gom nhiều MBS, thêm nợ xấu và nợ doanh nghiệp, rồi chia thành nhiều tầng rủi ro. Tầng trên cùng được dán mác AAA, dù theo bài bên trong toàn là nợ xấu. Đây là nơi Phố Wall che giấu rủi ro tinh vi nhất.
+
+| Bước | Sản phẩm | Nội dung |
+|---|---|---|
+| 1 | Khoản vay mua nhà | Cấp cho cả người vay dưới chuẩn và NINJA |
+| 2 | MBS | Gom nhiều khoản vay thành một giỏ, bán quyền nhận tiền trả nợ |
+| 3 | CDO | Gom nhiều MBS và nợ khác, chia tầng, tầng trên dán nhãn AAA |
+| 4 | Bán ra toàn cầu | Nhà đầu tư khắp thế giới mua vì tin nhãn AAA |
+
+MBS và CDO được bán cho nhà đầu tư toàn cầu. Một nghịch lý của thời kỳ này là sản phẩm càng phức tạp thì người ta càng tin là an toàn. Các tổ chức xếp hạng tín nhiệm dán nhãn AAA lên "một đống tài sản độc hại", và tất cả đều dựa trên một niềm tin duy nhất: "nhà không thể giảm giá".
 
 ### 4. Toà nhà hào nhoáng trên nền cát: đòn bẩy
-- Lehman Brothers, biểu tượng Phố Wall, dùng đòn bẩy tới 30:1: mỗi 1 USD vốn thật vay thêm 30 USD để đầu tư.
-- Chỉ cần giá tài sản giảm 3–4% là hệ thống mất thanh khoản (kiểm tra: với vốn 1 trên tổng tài sản 31, tài sản giảm khoảng 3,2% là mất toàn bộ vốn chủ).
-- Cả hệ thống như vậy, nhưng không ai lo vì tin "cả hệ thống không thể sập". Trong tài chính, câu "không thể" là điểm bắt đầu của bi kịch.
+
+Lehman Brothers, một biểu tượng của Phố Wall, dùng đòn bẩy tới 30:1: mỗi 1 USD vốn thật được dùng để vay thêm 30 USD đầu tư. Với cấu trúc này, chỉ cần giá tài sản giảm 3–4% là hệ thống mất thanh khoản. Có thể kiểm tra: vốn chủ là 1 trên tổng tài sản 31, nên tài sản giảm khoảng 3,2% là mất toàn bộ vốn chủ.
+
+| Đại lượng | Giá trị |
+|---|---|
+| Vốn thật | 1 USD |
+| Tiền vay thêm | 30 USD |
+| Tổng tài sản | 31 USD |
+| Mức giảm giá tài sản đủ xoá sạch vốn | khoảng 1/31, tức 3,2% |
+
+Không chỉ Lehman mà cả hệ thống đều vận hành như vậy. Nhưng không ai lo, vì mọi người tin rằng "cả hệ thống không thể sập". Bài nhận xét: trong tài chính, câu "không thể" luôn là điểm bắt đầu của bi kịch.
 
 ### 5. Những người nhìn thấy bản chất vấn đề
-- Michael Burry, bác sĩ tự học đầu tư, đọc từng hồ sơ vay mua nhà của hàng chục ngàn người Mỹ: từng dòng thu nhập, khoản nợ, mức lãi suất điều chỉnh.
-- Kết luận của ông: nếu lãi suất điều chỉnh, hàng triệu người vay không trả nổi; khi họ vỡ nợ, các gói MBS nhãn AAA sẽ "nổ tung".
-- Burry mua CDS, hợp đồng bảo hiểm rủi ro vỡ nợ. Ngân hàng cười nhạo ("Gã bác sĩ tưởng giỏi hơn Phố Wall?", "Cứ bán cho hắn, chúng ta thu phí đều đều"), không biết mình đang bán bảo hiểm trên quả bom do chính mình tạo ra.
-- Nợ xấu tăng vọt → MBS và CDO sụt giá → CDS tăng giá hàng trăm lần. Burry và các nhóm như Steve Eisman, Cornwall Capital thu lợi nhuận khổng lồ.
+
+Trong khi đám đông tin "nhà không thể giảm giá", một số ít người nhìn ra vấn đề. Nổi bật nhất là Michael Burry, một bác sĩ tự học đầu tư. Theo bài, ông đọc từng hồ sơ vay mua nhà của hàng chục ngàn người Mỹ: từng dòng thu nhập, từng khoản nợ, từng mức lãi suất điều chỉnh.
+
+Kết luận của Burry: khi lãi suất điều chỉnh tăng lên, hàng triệu người vay sẽ không trả nổi; khi họ vỡ nợ, các gói MBS mang nhãn AAA sẽ "nổ tung".
+
+Burry mua CDS, tức hợp đồng bảo hiểm rủi ro vỡ nợ trên các gói này. Các ngân hàng bán CDS cho ông và cười nhạo: "Gã bác sĩ tưởng mình giỏi hơn Phố Wall?", "Cứ bán cho hắn, chúng ta thu phí đều đều". Theo bài, họ không biết rằng mình đang bán bảo hiểm trên quả bom do chính mình tạo ra.
+
+Diễn biến sau đó: nợ xấu tăng vọt, MBS và CDO sụt giá, CDS tăng giá hàng trăm lần. Burry cùng các nhóm khác như Steve Eisman và Cornwall Capital thu lợi nhuận khổng lồ.
 
 ### 6. Điểm bùng nổ
-- 2006–2007 giá nhà bắt đầu giảm, ban đầu 1–2%, tưởng không đáng lo, nhưng với đòn bẩy khổng lồ đủ thổi bay thị trường.
-- Chuỗi phản ứng theo bài: người vay dưới chuẩn vỡ nợ → lãi suất tăng → MBS sụt giá → ngân hàng mất thanh khoản → bán tháo tài sản → vòng xoáy tử thần.
-- Bài liệt kê: Bear Stearns → phá sản; Washington Mutual → phá sản; cuối cùng Lehman Brothers sụp đổ ngày 15/9/2008, kéo theo hệ thống tài chính toàn cầu (xem khối Lưu ý về độ chính xác).
+
+Giai đoạn 2006–2007, giá nhà bắt đầu giảm, ban đầu chỉ 1–2%. Mức giảm này tưởng không đáng lo, nhưng với đòn bẩy khổng lồ của hệ thống thì đủ để thổi bay thị trường.
+
+Chuỗi phản ứng theo bài: người vay dưới chuẩn vỡ nợ, lãi suất tăng, MBS sụt giá, ngân hàng mất thanh khoản, ngân hàng bán tháo tài sản, giá tài sản giảm tiếp, và vòng lặp đó tự khuếch đại thành "vòng xoáy tử thần".
+
+Bài liệt kê các tổ chức sụp đổ theo thứ tự: Bear Stearns phá sản, Washington Mutual phá sản, và cuối cùng Lehman Brothers sụp đổ ngày 15/9/2008, kéo theo cả hệ thống tài chính toàn cầu. Khối Lưu ý ở đầu bản tổng hợp đã ghi rõ những chỗ bài kể chưa chính xác về thứ tự và số phận của Bear Stearns và Washington Mutual.
 
 ### 7. Hậu quả với nước Mỹ
-- Hàng triệu người mất nhà; nhiều khu phố thành dãy nhà hoang.
-- Doanh nghiệp phá sản hàng loạt.
-- Thị trường chứng khoán giảm hơn 50%; hàng nghìn tỷ USD "bốc hơi".
+
+Hậu quả trong nước Mỹ rất nặng nề:
+
+- hàng triệu người mất nhà, nhiều khu phố biến thành dãy nhà hoang;
+- doanh nghiệp phá sản hàng loạt;
+- thị trường chứng khoán giảm hơn 50%, hàng nghìn tỷ USD giá trị tài sản "bốc hơi".
 
 ### 8. Lan rộng toàn cầu
-- Châu Âu: UBS, RBS, Iceland rơi vào khủng hoảng ngân hàng.
-- Các nền kinh tế mới nổi: chứng khoán lao dốc, dòng vốn rút sạch.
-- Kinh tế thế giới: GDP toàn cầu giảm lần đầu kể từ Thế chiến II.
+
+Vì MBS và CDO đã được bán cho nhà đầu tư khắp thế giới, khủng hoảng nhanh chóng lan ra ngoài nước Mỹ:
+
+| Khu vực | Hậu quả |
+|---|---|
+| Châu Âu | UBS, RBS và hệ thống ngân hàng Iceland rơi vào khủng hoảng |
+| Các nền kinh tế mới nổi | Chứng khoán lao dốc, dòng vốn nước ngoài rút sạch |
+| Kinh tế thế giới | GDP toàn cầu giảm lần đầu tiên kể từ Thế chiến thứ hai |
 
 ### 9. Khủng hoảng là quy luật, không phải tai nạn
-- Tiền lệ: bong bóng hoa tulip, bong bóng South Sea, Đại khủng hoảng 1929, bong bóng Dotcom.
-- Mô hình chung: tham lam → ảo tưởng → FOMO → đòn bẩy → sụp đổ.
+
+Bài đặt 2008 vào một chuỗi tiền lệ: bong bóng hoa tulip, bong bóng South Sea, Đại khủng hoảng 1929, bong bóng Dotcom. Các cuộc khủng hoảng này khác nhau về tài sản nhưng có chung một mô hình gồm năm bước: tham lam, rồi ảo tưởng, rồi FOMO (sợ bỏ lỡ cơ hội), rồi đòn bẩy, và cuối cùng là sụp đổ. Vì vậy, theo bài, khủng hoảng là quy luật lặp lại chứ không phải tai nạn.
 
 ### 10. Tám dấu hiệu nhận diện rủi ro khủng hoảng
-1. Giá tài sản tăng nhanh hơn giá trị thật.
-2. Nợ tăng nhanh hơn thu nhập.
-3. Sản phẩm tài chính "phức tạp bất thường".
-4. Tâm lý FOMO.
-5. Niềm tin phi lý "không thể giảm".
-6. Vĩ mô bắt đầu lệch.
-7. Người bình thường kiếm tiền quá dễ.
-8. Niềm tin "Chính phủ sẽ cứu".
+
+Từ câu chuyện 2008 và các tiền lệ, bài rút ra tám dấu hiệu cho thấy một thị trường đang tích tụ rủi ro:
+
+| Số | Dấu hiệu | Biểu hiện năm 2008 trong bài |
+|---|---|---|
+| 1 | Giá tài sản tăng nhanh hơn giá trị thật | Giá nhà tăng mỗi tuần, mỗi tháng |
+| 2 | Nợ tăng nhanh hơn thu nhập | Người thu nhập 1.200 USD/tháng vay 450.000 USD |
+| 3 | Sản phẩm tài chính "phức tạp bất thường" | MBS, CDO nhiều tầng |
+| 4 | Tâm lý FOMO | Tài xế taxi, thu ngân cùng mua nhà đầu tư |
+| 5 | Niềm tin phi lý "không thể giảm" | "Nhà sẽ luôn tăng giá" |
+| 6 | Vĩ mô bắt đầu lệch | Tiền rẻ kéo dài, giá nhà bắt đầu giảm |
+| 7 | Người bình thường kiếm tiền quá dễ | Môi giới sống như triệu phú |
+| 8 | Niềm tin "Chính phủ sẽ cứu" | "Cả hệ thống không thể sập" |
+
+Cột thứ ba ghép mỗi dấu hiệu với một chi tiết trong chính câu chuyện của bài; bài chỉ nêu tên tám dấu hiệu mà không giải thích riêng từng cái.
 
 ### 11. Lời kết
-- Không có khủng hoảng nào bất ngờ, chỉ có người không nhìn thấy tín hiệu. Ai hiểu quy luật thì thoát nạn; ai xuất sắc hơn thì tận dụng được cơ hội trong hỗn loạn.
+
+Bài kết luận rằng không có cuộc khủng hoảng nào bất ngờ, chỉ có người không nhìn thấy tín hiệu. Người hiểu quy luật thì thoát nạn; người xuất sắc hơn nữa, như Burry, thì còn tận dụng được cơ hội trong hỗn loạn.
 
 ## Thuật ngữ
 
