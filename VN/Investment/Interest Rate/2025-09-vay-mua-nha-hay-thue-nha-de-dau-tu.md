@@ -46,26 +46,59 @@
 2. Với các mức lợi suất đầu tư khác nhau, giá nhà phải tăng bao nhiêu mỗi năm thì mua nhà mới có lợi hơn?
 3. Ngoài con số, những điều kiện nào quyết định phương án nào phù hợp với một gia đình?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Trả góp đều (annuity payment).** Khoản tiền cố định trả mỗi tháng cho ngân hàng, gồm tiền lãi và một phần tiền gốc, sao cho hết kỳ hạn thì trả xong nợ. Ví dụ trong bài: vay 3 tỷ, lãi 1%/tháng, 240 tháng (20 năm) thì mỗi tháng trả 33.032.584 đồng. Con số này là "dòng tiền chi ra" chung để so hai phương án.
+
+**Thế chấp (mortgage).** Dùng tài sản, ở đây là giấy tờ căn nhà, làm vật bảo đảm cho khoản vay; nếu không trả được nợ, ngân hàng có quyền xử lý tài sản. Ví dụ trong bài: suốt 20 năm, giấy tờ nhà của gia đình X nằm ở ngân hàng, đến cuối tháng 3/2040 mới sở hữu hoàn toàn.
+
+**Chi phí cơ hội (opportunity cost).** Lợi ích bị bỏ lỡ khi dùng tiền vào việc này thay vì việc khác. Ví dụ trong bài: dùng 1,5 tỷ trả trước tiền nhà nghĩa là bỏ lỡ khoản 1,5 tỷ đầu tư ở 8%/năm, vốn sẽ thành khoảng 6,99 tỷ sau 20 năm. Cả bài là một phép so chi phí cơ hội giữa mua và thuê.
+
+**Giá trị tương lai (future value).** Giá trị ở một thời điểm sau này của một khoản tiền đầu tư hôm nay: khoản tiền × (1 + lợi suất)^số năm. Ví dụ trong bài: 1.500.000.000 × 1,08^20 = 6.991.435.716 đồng. Bài quy mọi khoản đầu tư về giá trị tại năm 2040 để cộng lại và so với giá căn nhà.
+
+**Lợi suất đầu tư (investment return).** Mức sinh lời bình quân mỗi năm mà gia đình đạt được với số tiền đem đầu tư. Ví dụ trong bài: các kịch bản 6%, 8%, 10%, 12%, 15%/năm. Đây là một trong hai con số quyết định đáp án.
+
+**Tốc độ tăng giá nhà hoà vốn (break-even growth).** Mức tăng giá nhà mỗi năm làm cho hai phương án cho kết quả bằng nhau. Nhà tăng nhanh hơn mức này thì mua có lợi hơn; chậm hơn thì thuê có lợi hơn. Ví dụ trong bài: với lợi suất đầu tư 8%, mức hoà vốn là 5,37%/năm (4,5 tỷ × 1,0537^20 ≈ 12,8 tỷ).
+
+**Kỷ luật để dành.** Đều đặn đem phần tiền chênh lệch đi đầu tư thay vì tiêu. Ví dụ trong bài: gia đình chọn thuê phải để dành đúng 33.032.584 đồng mỗi tháng như thể đang trả ngân hàng. Không có kỷ luật này, ưu thế của phương án thuê chỉ tồn tại trên giấy.
+
+## Nội dung chi tiết
 
 ### 1. Vấn đề
-- Hầu hết bài viết về "có nên vay mua nhà" chỉ phân tích định tính (an cư lập nghiệp, hay trả nợ vất vả), hầu như không định lượng.
-- Bài toán sát thực tế, áp dụng tỷ lệ thuận cho thu nhập khác: thu nhập 40 triệu/tháng ứng với nhà khoảng 2,25 tỷ; 160 triệu/tháng ứng với nhà khoảng 9 tỷ; các con số khác theo tỷ lệ.
+
+Bài mở đầu bằng nhận xét: hầu hết bài viết về câu hỏi "có nên vay mua nhà" chỉ phân tích định tính, chẳng hạn "an cư mới lạc nghiệp" hay "trả nợ rất vất vả", và hầu như không ai định lượng. Bài đặt mục tiêu so sánh hai lựa chọn bằng con số.
+
+Bài toán được xây sát với thực tế và có thể áp dụng theo tỷ lệ thuận cho các mức thu nhập khác. Ví dụ: gia đình có thu nhập 40 triệu/tháng tương ứng với căn nhà khoảng 2,25 tỷ; thu nhập 160 triệu/tháng tương ứng với căn nhà khoảng 9 tỷ; các con số khác trong bài nhân hoặc chia theo cùng tỷ lệ.
 
 ### 2. Dữ kiện
-- Năm 2020, gia đình X ở Sài Gòn, tổng thu nhập hai vợ chồng 80 triệu/tháng, dự kiến tăng 5%/năm.
-- Cuối tháng 3/2020 có 1,5 tỷ (tự dành dụm cộng cha mẹ hỗ trợ).
-- **Phương án 1, vay mua nhà:** căn nhà mơ ước giá 4,5 tỷ; trả trước 1,5 tỷ, vay ngân hàng 3 tỷ trong 20 năm, lãi 12%/năm (1%/tháng). Trả góp gốc và lãi mỗi tháng 33.032.584 đồng; sau 20 năm hết nợ. Gia đình tự tin trả được vì thu nhập tăng 5%/năm. Trong 20 năm giấy tờ nhà thế chấp tại ngân hàng; cuối tháng 3/2040 sở hữu hoàn toàn.
-- **Phương án 2, thuê nhà và đầu tư:** thuê đúng căn đó (hoặc tương đương) 18 triệu/tháng năm 2020, tăng 3%/năm. Dùng 1,5 tỷ và khoản 33.032.584 đồng/tháng (lẽ ra trả góp) để trả tiền thuê, phần dư đem đầu tư.
-- Giả định chi phí hành chính, thuế, sửa nhà ở cả hai phương án không đáng kể.
-- Lợi suất đầu tư giả định: a) 8%, b) 6,5%, c) 10%, d) 12%, e) 15%/năm. Lời giải chi tiết chọn 8%, "mức hầu hết ai cũng thực hiện được".
+
+**Gia đình X.** Năm 2020, gia đình X sống ở Sài Gòn, tổng thu nhập của hai vợ chồng là 80 triệu/tháng và dự kiến tăng 5%/năm. Đến cuối tháng 3/2020, họ có 1,5 tỷ đồng, gồm tiền tự dành dụm và tiền cha mẹ hỗ trợ.
+
+**Phương án 1: vay mua nhà.** Căn nhà mơ ước có giá 4,5 tỷ. Gia đình trả trước 1,5 tỷ và vay ngân hàng 3 tỷ trong 20 năm, lãi 12%/năm (tức 1%/tháng). Mỗi tháng trả góp cả gốc và lãi 33.032.584 đồng; sau 20 năm thì hết nợ. Gia đình tự tin trả được vì thu nhập tăng 5%/năm. Trong 20 năm, giấy tờ nhà thế chấp tại ngân hàng; đến cuối tháng 3/2040 thì sở hữu hoàn toàn căn nhà.
+
+**Phương án 2: thuê nhà và đầu tư.** Gia đình thuê đúng căn nhà đó (hoặc căn tương đương) với giá 18 triệu/tháng năm 2020, tiền thuê tăng 3%/năm. Họ đem 1,5 tỷ đi đầu tư ngay, và mỗi tháng vẫn dành ra 33.032.584 đồng (khoản lẽ ra trả góp): dùng để trả tiền thuê, phần còn dư đem đầu tư.
+
+Bằng cách này, hai phương án có cùng một dòng tiền chi ra (1,5 tỷ ban đầu cộng 33.032.584 đồng mỗi tháng), nên so sánh kết quả cuối cùng là công bằng.
+
+**Giả định khác.** Chi phí hành chính, thuế và sửa nhà ở cả hai phương án được coi là không đáng kể. Lợi suất đầu tư được xét ở các mức a) 8%, b) 6,5%, c) 10%, d) 12%, e) 15%/năm. Lời giải chi tiết chọn mức 8%, mà bài gọi là "mức hầu hết ai cũng thực hiện được".
+
+| | Phương án 1: vay mua nhà | Phương án 2: thuê và đầu tư |
+|---|---|---|
+| Tiền ban đầu 1,5 tỷ | Trả trước tiền nhà | Đầu tư ngay |
+| Mỗi tháng 33.032.584 đồng | Trả góp khoản vay 3 tỷ, 12%/năm, 20 năm | Trả tiền thuê 18 triệu/tháng (tăng 3%/năm), dư đem đầu tư |
+| Tài sản cuối tháng 3/2040 | Căn nhà, giá = 4,5 tỷ × (1 + g)^20, với g là tốc độ tăng giá nhà | Danh mục đầu tư |
 
 ### 3. Lời giải chi tiết với lợi suất 8%/năm
-- Giả định đầu tư theo năm, không theo tháng.
-- 1,5 tỷ đầu tư 20 năm: 1.500.000.000 × 1,08^20 = 6.991.435.716 đồng.
-- Năm 4/2020–3/2021: có 12 × 33.032.584 = 396.391.008; trả thuê 12 × 18.000.000 = 216.000.000; dư 180.391.008; đầu tư 19 năm → 180.391.008 × 1,08^19 = 778.513.664.
-- Năm 4/2021–3/2022: có 396.391.008; thuê 12 × 18.540.000 = 222.480.000; dư 173.911.008; đầu tư 18 năm → 694.951.779.
-- Tính tương tự các năm sau (tiền thuê tăng 3%/năm, phần dư giảm dần, số năm sinh lời giảm dần). Bảng tính lại theo đúng phương pháp của bài:
+
+Để đơn giản, bài giả định việc đầu tư diễn ra theo năm, không theo tháng: tiền dư của cả năm được gom lại và đầu tư vào cuối năm đó. Mỗi năm, số tiền đem đầu tư bằng 12 × 33,03 triệu trừ đi tiền thuê cả năm.
+
+**Khoản 1,5 tỷ ban đầu** được đầu tư trọn 20 năm: 1.500.000.000 × 1,08^20 = 6.991.435.716 đồng.
+
+**Năm 4/2020–3/2021.** Trong năm, gia đình có 12 × 33.032.584 = 396.391.008 đồng. Tiền thuê cả năm là 12 × 18.000.000 = 216.000.000 đồng. Phần dư 180.391.008 đồng được đầu tư 19 năm còn lại, thành 180.391.008 × 1,08^19 = 778.513.664 đồng (bảng dưới ghi 778.513.665 do làm tròn).
+
+**Năm 4/2021–3/2022.** Vẫn có 396.391.008 đồng. Tiền thuê đã tăng 3%, thành 18.540.000 đồng/tháng, cả năm 12 × 18.540.000 = 222.480.000 đồng. Phần dư 173.911.008 đồng được đầu tư 18 năm, thành 694.951.779 đồng.
+
+Các năm sau tính tương tự: tiền thuê tăng 3% mỗi năm nên phần dư giảm dần, và khoản đầu tư càng muộn thì càng ít năm sinh lời. Bảng dưới đây tính lại toàn bộ theo đúng phương pháp của bài:
 
 | Năm kết thúc (cuối tháng 3) | Tiền thuê cả năm (đồng) | Phần dư đầu tư (đồng) | Giá trị năm 2040 ở 8% (đồng) |
 |---|---|---|---|
@@ -92,21 +125,32 @@
 | 2040 | 378.757.307 | 17.633.701 | 17.633.701 |
 | **Tổng** | | | **12.798.132.544** |
 
-- Tổng giá trị cuối tháng 3/2040 = 12.798.132.544 đồng.
-- So sánh: nếu căn nhà lúc đó ≥ 12.798.132.544 đồng, tức giá nhà tăng trung bình ≥ 5,37%/năm (4,5 tỷ × 1,0537^20 ≈ 12,8 tỷ), nên mua. Nếu thấp hơn, nên thuê và đầu tư.
-- Hai điều kiện để phương án thuê có hiệu quả: (1) kỷ luật cao, phải để dành đúng 33.032.584 đồng/tháng như đang trả ngân hàng; (2) không quá coi trọng sở hữu, miễn được sống trong căn nhà mơ ước. Người coi trọng chữ sở hữu vẫn có thể chọn phương án hiệu quả kinh tế thấp hơn.
+Bảng cho thấy hơn một nửa giá trị cuối cùng (khoảng 6,99 tỷ trên 12,80 tỷ) đến từ khoản 1,5 tỷ ban đầu, nhờ được sinh lời lâu nhất. Đến năm cuối, tiền thuê đã lên 378.757.307 đồng/năm, phần dư chỉ còn 17.633.701 đồng.
+
+**Kết quả so sánh.** Tổng giá trị danh mục của phương án thuê vào cuối tháng 3/2040 là 12.798.132.544 đồng, khoảng 12,80 tỷ. Nếu lúc đó căn nhà có giá từ 12.798.132.544 đồng trở lên, tức giá nhà tăng trung bình ít nhất 5,37%/năm (4,5 tỷ × 1,0537^20 ≈ 12,8 tỷ), thì nên mua. Nếu giá nhà tăng chậm hơn, nên thuê và đầu tư.
+
+**Hai điều kiện để phương án thuê thực sự hiệu quả:**
+
+1. Gia đình phải có kỷ luật cao, để dành đúng 33.032.584 đồng mỗi tháng như số tiền đang lẽ ra trả ngân hàng, và đem phần dư đi đầu tư chứ không tiêu.
+2. Gia đình không quá coi trọng chữ "sở hữu", miễn là được sống trong căn nhà mơ ước. Người coi trọng việc sở hữu vẫn có thể chọn mua, dù đó là phương án có hiệu quả kinh tế thấp hơn.
 
 ### 4. Kết quả cho 5 mức lợi suất (theo bài)
 
+Bài lặp lại phép tính cho các mức lợi suất đầu tư khác:
+
 | Lợi suất đầu tư | Giá trị PA2 năm 2040 (đồng) | Giá nhà phải tăng tối thiểu để nên mua |
 |---|---|---|
-| 6%/năm | 9.304.806.275 | 3,70%/năm |
-| 8%/năm | 12.798.132.544 | 5,37%/năm |
-| 10%/năm | 17.608.545.243 | 7,06%/năm |
-| 12%/năm | 24.213.943.468 | 8,78%/năm |
-| 15%/năm | 38.948.753.982 | 11,39%/năm |
+| 6%/năm | 9.304.806.275 (khoảng 9,30 tỷ) | 3,70%/năm |
+| 8%/năm | 12.798.132.544 (khoảng 12,80 tỷ) | 5,37%/năm |
+| 10%/năm | 17.608.545.243 (khoảng 17,61 tỷ) | 7,06%/năm |
+| 12%/năm | 24.213.943.468 (khoảng 24,21 tỷ) | 8,78%/năm |
+| 15%/năm | 38.948.753.982 (khoảng 38,95 tỷ) | 11,39%/năm |
 
-- Kết luận: mua hay thuê phụ thuộc vào tỷ suất sinh lợi của việc đầu tư và giá nhà kỳ vọng; có hai con số này thì định lượng được phương án tốt hơn.
+Bài đề ra mức 6,5% nhưng phần kết quả lại tính cho 6%; tính lại theo đúng phương pháp của bài, mức 6,5%/năm cho khoảng 10,08 tỷ, tương ứng giá nhà hoà vốn tăng 4,11%/năm.
+
+Quy luật rút ra: lợi suất đầu tư càng cao thì giá nhà càng phải tăng nhanh mới đáng mua. Người đầu tư giỏi, đạt 15%/năm, chỉ nên mua nếu tin giá nhà tăng hơn 11,39% mỗi năm trong suốt 20 năm.
+
+Kết luận của bài: quyết định mua hay thuê phụ thuộc vào hai con số, là tỷ suất sinh lợi mà gia đình đạt được khi đầu tư và tốc độ tăng giá nhà kỳ vọng. Khi đã có hai con số này, có thể định lượng được phương án nào tốt hơn, thay vì chỉ dựa vào cảm tính.
 
 ## Thuật ngữ
 

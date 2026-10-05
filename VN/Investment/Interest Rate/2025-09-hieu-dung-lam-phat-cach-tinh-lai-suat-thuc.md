@@ -42,25 +42,56 @@
 2. Lạm phát làm giảm sức mua của tiền bao nhiêu, và tính lạm phát bình quân nhiều năm như thế nào?
 3. Lãi suất thực được tính ra sao, và gia đình nên làm gì để bảo vệ tài sản trong lạm phát?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Lạm phát (inflation).** Mức giá chung của hàng hoá và dịch vụ tăng lên theo thời gian, nên cùng một lượng tiền mua được ít hàng hơn. Ví dụ trong bài: lạm phát 4% trong một năm thì 100 triệu đồng cuối năm chỉ mua được lượng hàng mà đầu năm cần 96,15 triệu. Đây là "kẻ làm tiền bốc hơi" mà cả bài nói tới.
+
+**Sức mua.** Lượng hàng hoá, dịch vụ mà một số tiền mua được, thường đo bằng cách quy về giá của một thời điểm gốc. Ví dụ trong bài: 100 triệu để không trong 5 năm, sau đó chỉ còn sức mua tương đương 81,72 triệu tính theo giá năm đầu. Số tiền trên giấy không đổi, nhưng sức mua giảm.
+
+**Lạm phát bình quân.** Mức lạm phát đều mỗi năm cho cùng kết quả cuối cùng với chuỗi lạm phát thực tế, tính bằng bình quân hình học chứ không phải trung bình cộng. Ví dụ trong bài: chuỗi 4%; 4,5%; 4,2%; 3,8%; 4,1% cho lạm phát bình quân 4,12%/năm. Con số này cần để tính lãi suất thực trong nhiều năm.
+
+**Lãi suất danh nghĩa.** Mức lãi hay tỷ suất lợi nhuận tính bằng tiền, chưa trừ ảnh hưởng của lạm phát; đây là con số ngân hàng niêm yết hay quỹ công bố. Ví dụ trong bài: đầu tư với tỷ suất 9%/năm. Nó cho biết số tiền tăng bao nhiêu, nhưng không cho biết sức mua tăng bao nhiêu.
+
+**Lãi suất thực.** Tỷ suất lợi nhuận sau khi đã loại bỏ tác động của lạm phát, tức mức tăng thật sự của sức mua. Ví dụ trong bài: danh nghĩa 9%/năm, lạm phát 4,12%/năm thì lãi thực chỉ 4,69%/năm. Nếu lãi danh nghĩa không vượt lạm phát, lãi thực âm và tài sản thực chất bị hao mòn.
+
+**Công thức Fisher.** Quan hệ (1 + lãi danh nghĩa) = (1 + lạm phát) × (1 + lãi thực). Ví dụ trong bài: lãi thực = 1,09/1,0412 − 1 = 4,69%. Cách tính xấp xỉ "9% − 4,12% = 4,88%" cho kết quả hơi cao hơn; công thức Fisher là cách tính chính xác.
+
+**Lạm phát cầu kéo và chi phí đẩy.** Cầu kéo là giá tăng vì người mua muốn mua nhiều hơn lượng hàng có thể cung ứng; chi phí đẩy là giá tăng vì chi phí sản xuất (nguyên liệu, lương, năng lượng) tăng và doanh nghiệp chuyển phần tăng đó vào giá bán. Ví dụ minh hoạ: giá dầu tăng làm chi phí vận chuyển tăng, kéo giá rau ở chợ tăng theo; đó là chi phí đẩy.
+
+**Lãi suất cố định và lãi suất thả nổi.** Lãi cố định giữ nguyên trong suốt thời hạn vay; lãi thả nổi được điều chỉnh định kỳ theo lãi suất thị trường. Ví dụ trong bài: năm 2008, 2012 lãi vay từng lên tới 24–26%/năm, người vay thả nổi khi đó khó trả nợ. Đây là lý do bài khuyên cố định lãi vay dài hạn khi lo lạm phát.
+
+## Nội dung chi tiết
 
 ### 1. Lạm phát là gì
-- Là sự gia tăng tổng thể của mức giá hàng hóa, dịch vụ theo thời gian; cùng một lượng tiền mua được ít hơn.
-- Ví dụ: 100 triệu, lạm phát năm 4% → vẫn là 100 triệu nhưng sức mua chỉ tương đương 100/(1 + 4%) = 96,15 triệu.
+
+Theo bài, lạm phát là sự gia tăng tổng thể của mức giá hàng hoá và dịch vụ theo thời gian. Hệ quả trực tiếp: cùng một lượng tiền thì mua được ít hàng hơn trước.
+
+Ví dụ: bạn có 100 triệu đồng và lạm phát năm đó là 4%. Cuối năm, trong ví vẫn là 100 triệu, nhưng vì giá cả đã tăng 4%, số tiền đó chỉ mua được lượng hàng tương đương 100/(1 + 4%) = 96,15 triệu đồng tính theo giá đầu năm. Bạn không mất đồng nào trên giấy, nhưng đã mất gần 3,85 triệu sức mua.
 
 ### 2. Các loại lạm phát
-- Do cầu kéo: nhu cầu tiêu dùng vượt khả năng cung ứng.
-- Do chi phí đẩy: chi phí sản xuất (nguyên liệu, lương) tăng, doanh nghiệp tăng giá để giữ lợi nhuận.
-- Do cơ cấu: thay đổi cơ cấu sản xuất gây mất cân đối cung cầu.
+
+Bài phân biệt ba loại lạm phát theo nguồn gốc:
+
+| Loại | Cơ chế |
+|---|---|
+| Do cầu kéo | Nhu cầu tiêu dùng vượt quá khả năng cung ứng của nền kinh tế, người mua tranh nhau nên giá tăng |
+| Do chi phí đẩy | Chi phí sản xuất như nguyên liệu, tiền lương tăng; doanh nghiệp tăng giá bán để giữ lợi nhuận |
+| Do cơ cấu | Cơ cấu sản xuất thay đổi gây mất cân đối cung cầu giữa các ngành |
 
 ### 3. Nguyên nhân chính
-- Cung tiền tăng: ngân hàng nhà nước tăng cung tiền mà không đi kèm tăng sản lượng.
-- Nhu cầu tiêu dùng tăng vượt nguồn cung.
-- Chi phí sản xuất tăng: nguyên liệu, lương, năng lượng.
-- Yếu tố bên ngoài: giá dầu thô, khủng hoảng tài chính, xung đột quân sự, khủng hoảng chính trị làm tăng chi phí nhập khẩu hoặc giảm cung.
+
+Bài nêu bốn nguyên nhân chính khiến giá cả tăng:
+
+- **Cung tiền tăng:** ngân hàng nhà nước tăng lượng tiền trong nền kinh tế mà sản lượng hàng hoá không tăng tương ứng. Nhiều tiền hơn đuổi theo cùng một lượng hàng thì giá phải tăng.
+- **Nhu cầu tiêu dùng tăng vượt nguồn cung.**
+- **Chi phí sản xuất tăng:** nguyên liệu, tiền lương, năng lượng đắt lên.
+- **Yếu tố bên ngoài:** giá dầu thô tăng, khủng hoảng tài chính, xung đột quân sự hay khủng hoảng chính trị làm tăng chi phí nhập khẩu hoặc làm giảm nguồn cung.
+
+Các nguyên nhân này khớp với ba loại ở mục 2: cung tiền và cầu tiêu dùng gây lạm phát cầu kéo; chi phí sản xuất và cú sốc bên ngoài gây lạm phát chi phí đẩy.
 
 ### 4. Hậu quả: sức mua giảm dần
-- 100 triệu không gửi tiết kiệm, không đầu tư; lạm phát 5 năm lần lượt 4%; 4,5%; 4,2%; 3,8%; 4,1%.
+
+Để thấy lạm phát tích luỹ qua nhiều năm, bài giả định 100 triệu đồng không gửi tiết kiệm, không đầu tư, chỉ để không. Lạm phát 5 năm lần lượt là 4%; 4,5%; 4,2%; 3,8%; 4,1%. Mỗi năm, sức mua của năm trước bị chia cho (1 + lạm phát năm đó):
 
 | Thời điểm | Phép tính | Sức mua (triệu đồng) |
 |---|---|---|
@@ -70,28 +101,47 @@
 | Cuối năm 4 | 88,30 / 1,038 | 85,07 |
 | Cuối năm 5 | 85,07 / 1,041 | 81,72 |
 
-- Sau 5 năm, 100 triệu để không chỉ còn sức mua tương đương 81,72 triệu.
+Sau 5 năm, 100 triệu để không chỉ còn sức mua tương đương 81,72 triệu, tức mất khoảng 18% sức mua dù lạm phát mỗi năm chỉ quanh 4%. Đây là lý do bài khuyên không nên để tiền "nằm im".
 
 ### 5. Tỷ lệ lạm phát bình quân
-- Cách 1: [(1,04) × (1,045) × (1,042) × (1,038) × (1,041)]^(1/5) − 1 = 4,12%.
-- Cách 2: (100/81,72)^(1/5) − 1 = 4,12%.
+
+Vì lạm phát mỗi năm khác nhau, muốn có một con số đại diện cho cả giai đoạn phải dùng bình quân hình học. Bài đưa hai cách tính cho cùng kết quả:
+
+- **Cách 1:** nhân các hệ số (1 + lạm phát) của từng năm rồi lấy căn bậc 5: [(1,04) × (1,045) × (1,042) × (1,038) × (1,041)]^(1/5) − 1 = 4,12%.
+- **Cách 2:** chỉ dùng điểm đầu và điểm cuối của sức mua: (100/81,72)^(1/5) − 1 = 4,12%.
+
+Nghĩa là 5 năm lạm phát thực tế có tác động giống hệt 5 năm lạm phát đều 4,12% mỗi năm.
 
 ### 6. Tính lãi suất thực
-- Lãi suất thực là lợi suất sau khi trừ tác động lạm phát; nếu lợi suất không vượt lạm phát thì giá trị thực của tài sản giảm.
-- Ví dụ: đầu tư 100 triệu với tỷ suất bình quân 9%/năm trong 10 năm, lạm phát bình quân 4,12%.
-  - Giá trị danh nghĩa: 100.000.000 × 1,09^10 = 236.740.000 đồng.
-  - Giá trị thực: 236.740.000/1,0412^10 = 158.100.000 đồng.
-  - Tỷ suất thực bình quân: (158.100.000/100.000.000)^(1/10) − 1 = 4,69%.
-- Công thức Fisher: (1 + lãi danh nghĩa) = (1 + lạm phát) × (1 + lãi thực) → Lãi thực = (1 + danh nghĩa)/(1 + lạm phát) − 1 = 1,09/1,0412 − 1 = 4,69%.
+
+Lãi suất thực là lợi suất còn lại sau khi trừ tác động của lạm phát. Nếu lợi suất không vượt được lạm phát, giá trị thực của tài sản sẽ giảm, dù số tiền trên giấy vẫn tăng.
+
+**Ví dụ của bài.** Đầu tư 100 triệu đồng với tỷ suất bình quân 9%/năm trong 10 năm, trong bối cảnh lạm phát bình quân 4,12%/năm.
+
+| Bước | Phép tính | Kết quả |
+|---|---|---|
+| Giá trị danh nghĩa sau 10 năm | 100.000.000 × 1,09^10 | 236.740.000 đồng (236,74 triệu) |
+| Giá trị thực (quy về sức mua ban đầu) | 236.740.000 / 1,0412^10 | 158.100.000 đồng (158,1 triệu) |
+| Tỷ suất thực bình quân | (158.100.000/100.000.000)^(1/10) − 1 | 4,69%/năm |
+
+Như vậy, số tiền trên giấy tăng gần 2,4 lần, nhưng sức mua chỉ tăng khoảng 1,58 lần.
+
+**Công thức Fisher** cho cách tính nhanh hơn: (1 + lãi danh nghĩa) = (1 + lạm phát) × (1 + lãi thực), suy ra Lãi thực = (1 + danh nghĩa)/(1 + lạm phát) − 1 = 1,09/1,0412 − 1 = 4,69%. Kết quả khớp với cách tính qua từng bước ở trên.
 
 ### 7. Quản lý tài chính cá nhân, gia đình trong lạm phát
-- **Cố định lãi suất vay:** khoản vay dài hạn nên ký lãi cố định; có thể cao hơn một chút nhưng an toàn hơn thả nổi. Khi lạm phát tăng, lãi thả nổi có thể tăng rất cao (năm 2008, 2012 lãi vay lên tới 24–26%/năm), gây khó trả nợ.
-- **Đa dạng hóa đầu tư:** không chỉ cổ phiếu, chứng chỉ quỹ, bất động sản mà cả tài sản có khả năng giữ giá trước lạm phát như vàng.
-- **Tăng thêm thu nhập:** tận dụng thời gian làm thêm.
-- **Quản lý chi tiêu chặt:** ưu tiên nhu cầu thiết yếu, giảm chi cho mong muốn, tìm khuyến mãi, nguồn hàng rẻ.
+
+Bài đề xuất bốn đối sách cho cá nhân và gia đình:
+
+- **Cố định lãi suất vay.** Với khoản vay dài hạn, nên ký lãi suất cố định. Lãi cố định có thể cao hơn lãi thả nổi một chút lúc đầu, nhưng an toàn hơn. Khi lạm phát tăng, lãi thả nổi có thể tăng rất cao; bài dẫn năm 2008 và 2012, khi lãi vay lên tới 24–26%/năm, khiến nhiều người khó trả nợ.
+- **Đa dạng hoá đầu tư.** Không chỉ đầu tư vào cổ phiếu, chứng chỉ quỹ, bất động sản, mà nên có cả những tài sản có khả năng giữ giá trước lạm phát như vàng.
+- **Tăng thêm thu nhập.** Tận dụng thời gian để làm thêm, để thu nhập theo kịp giá cả.
+- **Quản lý chi tiêu chặt.** Ưu tiên các nhu cầu thiết yếu, giảm chi cho những mong muốn không cần thiết, tìm khuyến mãi và nguồn hàng rẻ hơn.
+
+Bốn đối sách này đối ứng với các nguyên nhân ở mục 3: lạm phát là điều cá nhân không kiểm soát được, nên gia đình chỉ có thể bảo vệ mình bằng cách khoá chi phí vay, giữ tài sản giữ giá, tăng thu và bớt chi.
 
 ### 8. Kết luận
-- Hiểu bản chất lạm phát và cách tính lãi suất thực giúp ra quyết định thông minh; đầu tư với tỷ suất cao hơn lạm phát và quản lý chi tiêu để bảo vệ tài sản.
+
+Bài kết luận rằng hiểu bản chất lạm phát và biết cách tính lãi suất thực giúp mỗi người ra quyết định tài chính sáng suốt hơn. Nguyên tắc rút ra: đầu tư vào những kênh có tỷ suất cao hơn lạm phát, tức lãi suất thực dương, và quản lý chi tiêu cẩn thận để bảo vệ tài sản. Ví dụ minh hoạ: gửi tiết kiệm 4%/năm khi lạm phát 4,12%/năm cho lãi thực xấp xỉ 0, tức chỉ giữ được sức mua chứ không làm giàu thêm.
 
 ## Thuật ngữ
 

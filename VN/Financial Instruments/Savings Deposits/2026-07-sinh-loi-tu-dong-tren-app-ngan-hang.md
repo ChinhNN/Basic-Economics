@@ -47,18 +47,43 @@
 2. So với gửi tiết kiệm thì tính năng này hơn, kém ở đâu, và bản chất pháp lý của nó có gì khác?
 3. Khi nào nên bật, khi nào không, và cần kiểm tra gì trước khi bật?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tài khoản thanh toán.** Tài khoản ngân hàng dùng để nhận lương, chuyển khoản, quẹt thẻ hằng ngày. Tiền trong đó rút lúc nào cũng được nhưng lãi gần như không đáng kể. Ví dụ trong bài: lãi tài khoản thanh toán chỉ 0,05–0,5%/năm. Đây là điểm xuất phát mà tính năng "sinh lời tự động" muốn cải thiện.
+
+**Sinh lời tự động (auto-earning / sweep account).** Tính năng mỗi ngày tự chuyển phần số dư vượt một ngưỡng do người dùng đặt sang một "ngăn sinh lời" hưởng lãi theo ngày, và tự rút về khi cần chi tiêu. Ví dụ trong bài: lợi suất phổ biến 2,5–4,3%/năm. Đây là đối tượng của cả bài.
+
+**Ngưỡng số dư.** Mức tiền người dùng muốn luôn giữ lại trong tài khoản thanh toán để chi tiêu; chỉ phần vượt ngưỡng mới được chuyển đi sinh lời. Ví dụ trong bài: đặt ngưỡng 10 triệu đồng, số dư 50 triệu thì 40 triệu được chuyển sang ngăn sinh lời.
+
+**Lãi tính theo ngày.** Lãi suất năm được chia đều cho 365 ngày và cộng cho từng ngày tiền nằm trong ngăn sinh lời. Ví dụ trong bài: 40 triệu đồng × 4%/năm ÷ 365 ≈ 4.384 đồng/ngày. Nhờ cách tính này, tiền nằm vài ngày cũng có lãi, khác với sổ tiết kiệm phải chờ hết kỳ hạn.
+
+**Uỷ thác đầu tư.** Hợp đồng trong đó khách giao tiền cho một tổ chức đem đi đầu tư thay mình, và nhận lại lợi nhuận theo thoả thuận. Khác với tiền gửi, tiền uỷ thác không phải khoản ngân hàng nợ khách. Ví dụ minh hoạ: 40 triệu trong ngăn sinh lời có thể là khoản mua công cụ do một công ty cùng hệ sinh thái với ngân hàng phát hành. Đây là "điểm mấu chốt" của bài.
+
+**Bảo hiểm tiền gửi.** Cơ chế nhà nước chi trả cho người gửi, đến một hạn mức, khi ngân hàng mất khả năng chi trả. Nó chỉ áp dụng cho tiền gửi, không áp dụng cho khoản uỷ thác đầu tư. Vì vậy cùng là tiền "nằm trong app ngân hàng", nhưng mức an toàn có thể khác nhau tuỳ bản chất pháp lý.
+
+**Đánh đổi giữa lãi suất và tính linh hoạt.** Sản phẩm cho rút tiền càng dễ thì lãi càng thấp. Ví dụ trong bài: sinh lời tự động 2,5–4,3%/năm, rút lúc nào cũng được; tiết kiệm 12 tháng quanh 6–7%/năm nhưng phải khoá tiền. Hiểu điều này giúp đặt sinh lời tự động đúng chỗ: dành cho tiền ngắn ngày, không thay thế sổ tiết kiệm.
+
+## Nội dung chi tiết
 
 ### 1. Tình huống mở đầu
-- Anh Nam để 50 triệu đồng trong tài khoản thanh toán cả tháng chờ đóng học phí cho con, gần như không có lãi. Thấy nút "Sinh lời tự động" trên app, bật thử; hôm sau tài khoản báo thêm vài nghìn đồng tiền lãi, mà tiền vẫn dùng được.
-- (Kiểm tra: 50 triệu × 4%/năm ÷ 365 ≈ 5.479 đồng/ngày; nếu ngưỡng 10 triệu thì phần sinh lời 40 triệu cho khoảng 4.384 đồng/ngày, khớp với "vài nghìn đồng".)
+
+Bài kể chuyện anh Nam để 50 triệu đồng trong tài khoản thanh toán suốt một tháng để chờ đóng học phí cho con. Số tiền này gần như không sinh lãi. Một hôm anh thấy nút "Sinh lời tự động" trên ứng dụng ngân hàng và bật thử. Hôm sau, tài khoản báo thêm vài nghìn đồng tiền lãi, trong khi tiền vẫn dùng được bình thường.
+
+Con số "vài nghìn đồng" có thể kiểm tra lại. Nếu cả 50 triệu đồng sinh lời ở mức 4%/năm, lãi mỗi ngày là 50 triệu × 4% ÷ 365 ≈ 5.479 đồng. Nếu anh Nam đặt ngưỡng giữ lại 10 triệu đồng, phần sinh lời chỉ còn 40 triệu, cho khoảng 4.384 đồng mỗi ngày. Cả hai đều khớp với "vài nghìn đồng". Cộng lại cả tháng, phần lãi khoảng 130–165 nghìn đồng (tính minh hoạ), không lớn nhưng hơn hẳn gần như bằng 0.
 
 ### 2. Cơ chế hoạt động
-- Số dư nhàn rỗi trong tài khoản thanh toán tự sinh lời theo ngày trong khi vẫn chi tiêu bình thường.
-- Mỗi ngày hệ thống quét số dư; phần vượt ngưỡng tự đặt (ví dụ 10 triệu đồng) chuyển vào "ngăn sinh lời", hưởng lãi theo ngày. Khi chi tiêu vượt ngưỡng, hệ thống tự rút phần thiếu về, không cần thao tác.
-- Thị trường:
-  - Techcombank tiên phong từ tháng 1/2024, đến nay hơn 5 triệu khách hàng dùng.
-  - SHB có "Sinh lời nhàn tênh"; VPBank, LPBank, VIB, MSB… có phiên bản tương tự.
+
+Ý tưởng của tính năng là để số dư nhàn rỗi trong tài khoản thanh toán tự sinh lời theo ngày, trong khi người dùng vẫn chi tiêu bình thường.
+
+Cơ chế vận hành gồm ba bước:
+
+1. Người dùng đặt một ngưỡng, ví dụ 10 triệu đồng. Phần số dư dưới ngưỡng luôn được giữ lại trong tài khoản thanh toán để chi tiêu.
+2. Mỗi ngày, hệ thống quét số dư. Phần vượt ngưỡng được tự động chuyển vào "ngăn sinh lời" và hưởng lãi theo ngày.
+3. Khi người dùng chi tiêu vượt quá số tiền đang có ở phần dưới ngưỡng, hệ thống tự rút phần còn thiếu từ ngăn sinh lời về, không cần thao tác.
+
+Về thị trường, Techcombank là ngân hàng tiên phong, ra mắt tính năng từ tháng 1/2024 và đến nay có hơn 5 triệu khách hàng sử dụng. SHB có sản phẩm "Sinh lời nhàn tênh"; VPBank, LPBank, VIB, MSB và một số ngân hàng khác có phiên bản tương tự.
+
+So sánh lợi suất theo bài (nguồn bài dẫn: Techcombank, VietnamNet và thông tin sản phẩm của các ngân hàng năm 2026):
 
 | Kênh | Lợi suất (theo bài) |
 |---|---|
@@ -67,31 +92,54 @@
 | Sinh lời tự động, một số nơi công bố | 5,5–6,5%/năm tuỳ chương trình, thời kỳ |
 | Tiết kiệm kỳ hạn 12 tháng | Quanh 6–7%/năm |
 
-- Nguồn bài dẫn: Techcombank, VietnamNet và thông tin sản phẩm các ngân hàng năm 2026.
+Bảng cho thấy sinh lời tự động nằm ở giữa: cao hơn tài khoản thanh toán nhiều lần, nhưng thường thấp hơn tiết kiệm có kỳ hạn.
 
 ### 3. So với gửi tiết kiệm
-- Lấp khoảng trống tiết kiệm truyền thống không giải được: vừa có lãi, vừa dùng tiền bất cứ lúc nào.
-- Ưu điểm: cực kỳ linh hoạt, chi tiêu hay rút lúc nào cũng không mất lãi đã tính; lãi cao hơn hẳn tài khoản thanh toán.
-- Nhược điểm: lợi suất thường thấp hơn tiết kiệm 12 tháng; đổi lấy sự linh hoạt là mức lãi thấp hơn (bài ghi "một chút").
+
+Theo bài, sinh lời tự động lấp đúng khoảng trống mà tiết kiệm truyền thống không giải quyết được: vừa có lãi, vừa dùng được tiền bất cứ lúc nào. Với sổ tiết kiệm, muốn lãi cao thì phải khoá tiền; rút sớm thì mất lãi.
+
+- **Ưu điểm:** cực kỳ linh hoạt. Chi tiêu hay rút tiền lúc nào cũng không mất phần lãi đã tính cho những ngày trước đó. Lãi cao hơn hẳn tài khoản thanh toán.
+- **Nhược điểm:** lợi suất thường thấp hơn tiết kiệm 12 tháng. Bài ghi là thấp hơn "một chút", nhưng theo chính bảng số liệu, mức phổ biến 2,5–4,3% thấp hơn mức 6–7% của tiết kiệm 12 tháng khá rõ. Đó là cái giá của sự linh hoạt.
+
+Ví dụ minh hoạ: với 40 triệu đồng để nguyên một năm, sinh lời tự động ở mức 4% cho khoảng 1,6 triệu đồng, còn sổ 12 tháng ở mức 6,5% cho khoảng 2,6 triệu đồng.
 
 ### 4. Điểm mấu chốt: không hẳn là tiền gửi tiết kiệm
-- Nhiều sản phẩm sinh lời tự động không phải tiền gửi tiết kiệm thông thường. Ở một số ngân hàng, phần tiền trong ngăn sinh lời vận hành dưới dạng hợp đồng uỷ thác đầu tư hoặc mua công cụ do một công ty cùng hệ sinh thái phát hành, không phải khoản tiền ký gửi cho ngân hàng.
-- Hệ quả:
-  - Tiền gửi tiết kiệm được bảo hiểm tiền gửi tới hạn mức; phần uỷ thác đầu tư thì không.
-  - Điều khoản một số sản phẩm ghi: nếu có sự cố hoặc chấm dứt dịch vụ, khách có thể chỉ được lãi không kỳ hạn thay vì lợi suất quảng cáo.
-- Kết luận: lãi là có thật, nhưng mức an toàn không hoàn toàn như sổ tiết kiệm; đọc kỹ điều khoản trước khi bật.
-- Nguồn bài dẫn: điều kiện, điều khoản sản phẩm "Sinh lời tự động" của Techcombank và phân tích của các chuyên trang tài chính năm 2026.
+
+Đây là phần quan trọng nhất của bài. Nhiều sản phẩm sinh lời tự động không phải là tiền gửi tiết kiệm thông thường. Ở một số ngân hàng, tiền trong ngăn sinh lời vận hành dưới dạng hợp đồng uỷ thác đầu tư, hoặc là khoản mua công cụ do một công ty cùng hệ sinh thái với ngân hàng phát hành. Nói cách khác, nó không phải khoản tiền khách ký gửi cho ngân hàng.
+
+Khác biệt pháp lý này dẫn tới hai hệ quả:
+
+| | Tiền gửi | Uỷ thác đầu tư / mua công cụ của công ty cùng hệ sinh thái |
+|---|---|---|
+| Bảo hiểm tiền gửi | Có, tới hạn mức | Không |
+| Khi có sự cố hoặc chấm dứt dịch vụ | Theo quy định về tiền gửi | Theo điều khoản sản phẩm; có thể chỉ được lãi không kỳ hạn thay vì lợi suất quảng cáo |
+
+Điều khoản của một số sản phẩm ghi rõ: nếu có sự cố hoặc dịch vụ chấm dứt, khách có thể chỉ được trả lãi không kỳ hạn thay vì mức lợi suất đã quảng cáo (nguồn bài dẫn: điều kiện, điều khoản sản phẩm "Sinh lời tự động" của Techcombank và phân tích của các chuyên trang tài chính năm 2026).
+
+Kết luận của bài: lãi là có thật, không phải chiêu marketing, nhưng mức an toàn không hoàn toàn như sổ tiết kiệm. Người dùng cần đọc kỹ điều khoản trước khi bật.
 
 ### 5. Khi nào nên bật
-- Hợp lý: tiền "chờ tiêu" ngắn ngày (lương chưa tiêu hết, tiền để đóng học phí, tiền dự phòng cần rút nhanh).
-- Không nên: coi đây là nơi cất tài sản dài hạn hoặc khoản tiền lớn cả đời; tiền dài hạn nên vào tiết kiệm kỳ hạn, chứng chỉ quỹ hoặc kênh hợp mục tiêu.
-- Luôn kiểm tra: là tiền gửi hay uỷ thác đầu tư, lợi suất thực tế, điều kiện áp dụng.
+
+Bài phân định rõ khi nào dùng và khi nào không:
+
+- **Hợp lý:** cho tiền "chờ tiêu" trong thời gian ngắn, như lương chưa tiêu hết, tiền để đóng học phí sắp tới, hay tiền dự phòng cần rút nhanh. Với những khoản này, khoá vào sổ tiết kiệm là không phù hợp, còn để trong tài khoản thanh toán thì lãi gần như bằng 0.
+- **Không nên:** coi đây là nơi cất tài sản dài hạn hoặc khoản tiền lớn để dành cả đời. Tiền dài hạn nên vào tiết kiệm có kỳ hạn, chứng chỉ quỹ hoặc kênh phù hợp với mục tiêu.
+
+Dù dùng cho mục đích nào, người dùng luôn cần kiểm tra ba điều: sản phẩm là tiền gửi hay uỷ thác đầu tư; lợi suất thực tế hiện tại là bao nhiêu; và điều kiện áp dụng là gì.
 
 ### 6. Hành động và hỏi đáp
-- Ba việc: mở app xem có tính năng và lợi suất hiện tại; đọc điều khoản (tiền gửi hay uỷ thác, có bảo hiểm tiền gửi không); nếu phù hợp thì bật cho tiền chờ tiêu ngắn ngày.
-- Có phải gửi tiết kiệm không? Không hẳn; một số sản phẩm là uỷ thác đầu tư, không được bảo hiểm tiền gửi.
-- Rút tiêu được ngay không? Được; hệ thống tự điều chuyển.
-- Có nên để hết tiền vào đây? Không; chỉ cho tiền nhàn rỗi ngắn ngày.
+
+Bài đề xuất ba việc:
+
+1. Mở ứng dụng ngân hàng, xem có tính năng này không và lợi suất hiện tại là bao nhiêu.
+2. Đọc điều khoản để biết đây là tiền gửi hay uỷ thác đầu tư, có được bảo hiểm tiền gửi hay không.
+3. Nếu phù hợp, bật tính năng cho phần tiền chờ tiêu ngắn ngày.
+
+Ba câu hỏi thường gặp:
+
+- **Đây có phải là gửi tiết kiệm không?** Không hẳn. Một số sản phẩm là uỷ thác đầu tư và không được bảo hiểm tiền gửi.
+- **Có rút ra tiêu ngay được không?** Được. Hệ thống tự điều chuyển tiền về tài khoản thanh toán khi cần.
+- **Có nên để hết tiền vào đây không?** Không. Chỉ nên dùng cho tiền nhàn rỗi ngắn ngày.
 
 ## Thuật ngữ
 

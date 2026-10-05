@@ -64,22 +64,55 @@
 2. Nếu ngân hàng phá sản, người gửi được chi trả tối đa bao nhiêu, và làm thế nào để phần lớn tài sản nằm trong hạn mức?
 3. Loại tiền nào được bảo hiểm, loại nào không, và quy định sắp thay đổi ra sao?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Bảo hiểm tiền gửi (deposit insurance).** Cơ chế bảo đảm trả lại tiền cho người gửi cá nhân, đến một hạn mức, khi ngân hàng mất khả năng chi trả hoặc phá sản. Các ngân hàng đóng phí cho một tổ chức bảo hiểm; người gửi không phải đăng ký, không phải đóng phí, mà được bảo vệ tự động. Ví dụ trong bài: hạn mức hiện hành là 125 triệu đồng. Đây là "tấm lưới an toàn" mà cả bài giải thích.
+
+**Mất khả năng chi trả.** Tình trạng ngân hàng không còn đủ tiền để trả cho người gửi khi họ đến rút, kể cả khi ngân hàng chưa chính thức phá sản. Ví dụ minh hoạ: một ngân hàng có 1.000 tỷ đồng tiền gửi nhưng phần lớn đã cho vay và khó thu hồi, khi nhiều người cùng rút thì ngân hàng không đủ tiền mặt để trả. Đây là sự kiện kích hoạt việc chi trả bảo hiểm.
+
+**Hạn mức chi trả.** Số tiền tối đa mà bảo hiểm trả cho một người, tính cả gốc và lãi. Theo bài, hạn mức là 125 triệu đồng mỗi cá nhân tại mỗi tổ chức tín dụng. Ví dụ: người có 200 triệu đồng (gốc cộng lãi) ở một ngân hàng phá sản được chi trả chắc chắn 125 triệu; 75 triệu còn lại phải chờ quá trình thanh lý.
+
+**Tổ chức tín dụng.** Tên gọi pháp lý chung cho ngân hàng và các tổ chức được phép nhận tiền gửi, cho vay. Bài dùng từ này khi trích quy định, và dùng "ngân hàng" trong cách nói thường ngày. Hạn mức bảo hiểm được tính theo từng tổ chức tín dụng.
+
+**Thanh lý tài sản.** Quá trình bán các tài sản còn lại của ngân hàng đã phá sản để trả cho các chủ nợ, trong đó có người gửi. Phần tiền gửi vượt hạn mức bảo hiểm chỉ được xem xét trả trong quá trình này. Ví dụ trong bài: với 500 triệu đồng ở một ngân hàng, 375 triệu đồng phải chờ thanh lý, không được bảo đảm và thường phải chờ lâu.
+
+**Chia tiền ra nhiều ngân hàng.** Vì hạn mức tính riêng cho từng ngân hàng, người có số dư lớn có thể chia tiền sao cho mỗi nơi không vượt hạn mức. Ví dụ trong bài: 500 triệu đồng chia đều 4 ngân hàng, mỗi nơi 125 triệu, thì về nguyên tắc cả 500 triệu đều được bảo hiểm. Đây là hành động thực tế chính mà bài khuyên.
+
+**Chứng chỉ tiền gửi.** Giấy tờ có giá do ngân hàng phát hành để huy động vốn, người mua được trả lãi và nhận lại gốc khi đáo hạn, về bản chất giống một khoản tiền gửi có kỳ hạn. Theo bài, chứng chỉ tiền gửi bằng đồng Việt Nam của cá nhân thuộc phạm vi được bảo hiểm, khác với trái phiếu hay chứng khoán mua qua ngân hàng.
+
+## Nội dung chi tiết
 
 ### 1. Tình huống mở đầu
-- Một người dành dụm được 500 triệu đồng, gửi tiết kiệm ở một ngân hàng. Khi đọc tin một ngân hàng bị kiểm soát đặc biệt, câu hỏi bật ra: nếu ngân hàng mình gặp chuyện, tiền tích cóp có mất trắng không?
-- Câu trả lời nằm ở "tấm lưới an toàn" ít người để ý: bảo hiểm tiền gửi.
+
+Bài mở đầu bằng một tình huống quen thuộc. Một người dành dụm được 500 triệu đồng và gửi tiết kiệm toàn bộ ở một ngân hàng. Một ngày, người đó đọc tin có một ngân hàng bị đặt vào diện kiểm soát đặc biệt, và câu hỏi lập tức bật ra: nếu ngân hàng của mình gặp chuyện, số tiền tích cóp bao năm có mất trắng không?
+
+Theo bài, câu trả lời nằm ở một "tấm lưới an toàn" mà ít người để ý: bảo hiểm tiền gửi. Phần còn lại của bài giải thích tấm lưới này bảo vệ đến đâu, và người gửi cần làm gì để tận dụng nó.
 
 ### 2. Bảo hiểm tiền gửi là gì
-- Là cơ chế bảo vệ người gửi tiền cá nhân khi ngân hàng mất khả năng chi trả hoặc phá sản.
-- Tại Việt Nam do Bảo hiểm tiền gửi Việt Nam thực hiện, một tổ chức tài chính nhà nước hoạt động không vì mục tiêu lợi nhuận.
-- Các ngân hàng nhận tiền gửi của cá nhân bắt buộc phải tham gia và đóng phí bảo hiểm.
-- Người gửi không trả thêm phí, không cần đăng ký; khoản tiền gửi đủ điều kiện được bảo vệ tự động.
+
+Bảo hiểm tiền gửi là cơ chế bảo vệ người gửi tiền cá nhân trong trường hợp ngân hàng mất khả năng chi trả hoặc phá sản.
+
+Tại Việt Nam, việc này do Bảo hiểm tiền gửi Việt Nam đảm nhận. Đây là một tổ chức tài chính nhà nước, hoạt động không vì mục tiêu lợi nhuận.
+
+Cơ chế vận hành có hai phía:
+
+- **Phía ngân hàng:** mọi ngân hàng nhận tiền gửi của cá nhân bắt buộc phải tham gia và đóng phí bảo hiểm cho Bảo hiểm tiền gửi Việt Nam.
+- **Phía người gửi:** không trả thêm phí, không cần đăng ký. Khi gửi tiền đồng Việt Nam vào ngân hàng, khoản tiền gửi đủ điều kiện được bảo vệ tự động.
+
+Như vậy, người gửi không phải làm gì để có bảo hiểm; điều họ cần làm là hiểu hạn mức và phạm vi của nó.
 
 ### 3. Hạn mức chi trả: 125 triệu đồng
-- Theo Quyết định số 32/2021/QĐ-TTg: khi tổ chức tín dụng mất khả năng chi trả hoặc phá sản, người gửi được chi trả tối đa 125 triệu đồng cho mỗi cá nhân tại mỗi tổ chức tham gia bảo hiểm tiền gửi, bao gồm cả gốc và lãi.
-- Phần vượt 125 triệu đồng được xem xét trong quá trình thanh lý tài sản của tổ chức tín dụng: có thể nhận thêm, nhưng không được bảo đảm và thường phải chờ lâu (nguồn bài dẫn: Báo Chính phủ).
-- Lịch sử điều chỉnh hạn mức (nguồn bài dẫn: VnEconomy):
+
+Theo Quyết định số 32/2021/QĐ-TTg, khi một tổ chức tín dụng mất khả năng chi trả hoặc phá sản, người gửi được chi trả tối đa 125 triệu đồng cho mỗi cá nhân tại mỗi tổ chức tham gia bảo hiểm tiền gửi. Con số này bao gồm cả gốc và lãi.
+
+Phần vượt quá 125 triệu đồng không mất hẳn, nhưng cũng không được bảo đảm. Nó được xem xét trong quá trình thanh lý tài sản của tổ chức tín dụng: người gửi có thể nhận thêm một phần, nhưng không chắc chắn và thường phải chờ lâu (bài dẫn nguồn Báo Chính phủ).
+
+| Số tiền gửi tại một ngân hàng | Khi ngân hàng mất khả năng chi trả hoặc phá sản |
+|---|---|
+| Đến 125 triệu đồng (gồm gốc và lãi) | Được chi trả, có bảo đảm |
+| Phần vượt 125 triệu đồng | Xem xét khi thanh lý tài sản; không bảo đảm, thường phải chờ lâu |
+
+Hạn mức đã được nâng nhiều lần (bài dẫn nguồn VnEconomy):
 
 | Giai đoạn | Hạn mức |
 |---|---|
@@ -88,15 +121,26 @@
 | Năm 2017 | 75 triệu đồng |
 | Từ cuối năm 2021 | 125 triệu đồng |
 
+Như vậy, từ năm 1999 đến cuối năm 2021, hạn mức đã tăng hơn bốn lần, từ 30 triệu lên 125 triệu đồng.
+
 ### 4. Điểm mấu chốt: tính riêng cho từng ngân hàng
-- 125 triệu đồng là hạn mức tối đa cho mỗi người tại mỗi ngân hàng; không cộng dồn giữa các ngân hàng (tức là không gộp các khoản ở nhiều ngân hàng lại rồi áp một hạn mức chung).
-- Ví dụ 500 triệu đồng:
-  - Gửi toàn bộ tại một ngân hàng: nếu ngân hàng phá sản, khoản được chi trả ngay tối đa vẫn chỉ 125 triệu đồng.
-  - Chia đều bốn ngân hàng, mỗi nơi 125 triệu đồng: về nguyên tắc cả bốn khoản đều nằm trong hạn mức.
-- Vì vậy người có số dư lớn thường chia tiền ra nhiều ngân hàng.
-- Bài nhấn mạnh phần lớn ngân hàng Việt Nam hoạt động ổn định, ngân hàng phá sản là trường hợp rất hiếm; hiểu cơ chế giúp chủ động hơn.
+
+Điểm quan trọng nhất của bài là: 125 triệu đồng là hạn mức tối đa cho mỗi người tại mỗi ngân hàng. Các khoản gửi ở nhiều ngân hàng không bị gộp lại để áp một hạn mức chung; mỗi ngân hàng có một hạn mức riêng.
+
+Ví dụ 500 triệu đồng trong tình huống mở đầu cho thấy khác biệt rõ rệt:
+
+| Cách gửi | Phần được bảo hiểm | Phần không bảo đảm |
+|---|---|---|
+| Cách A: cả 500 triệu ở 1 ngân hàng | 125 triệu | 375 triệu |
+| Cách B: 4 ngân hàng × 125 triệu | Về nguyên tắc cả 500 triệu (mỗi ngân hàng 125 triệu) | 0 |
+
+Với cách A, nếu ngân hàng phá sản, khoản được chi trả ngay tối đa vẫn chỉ là 125 triệu đồng, còn 375 triệu đồng phải chờ thanh lý. Với cách B, cả bốn khoản ở ngân hàng 1, 2, 3 và 4 đều nằm trong hạn mức. Vì lý do này, người có số dư lớn thường chia tiền ra nhiều ngân hàng.
+
+Bài cũng nhấn mạnh để tránh gây hoảng: phần lớn ngân hàng Việt Nam hoạt động ổn định, ngân hàng phá sản là trường hợp rất hiếm. Hiểu cơ chế không phải để lo lắng, mà để chủ động sắp xếp tiền của mình.
 
 ### 5. Phạm vi bảo hiểm (theo Luật Bảo hiểm tiền gửi năm 2025)
+
+Không phải tài sản nào để ở ngân hàng cũng được bảo hiểm. Theo bài:
 
 | Được bảo hiểm | Thông thường không được bảo hiểm |
 |---|---|
@@ -106,22 +150,36 @@
 | Tiền gửi không kỳ hạn | |
 | Chứng chỉ tiền gửi | |
 
-- Ngân hàng chính sách không thuộc đối tượng tham gia bảo hiểm tiền gửi.
-- Tấm lưới này chủ yếu dành cho các khoản tiết kiệm bằng đồng Việt Nam của người dân, đúng nhóm cần bảo vệ nhất.
+Ngoài ra, ngân hàng chính sách không thuộc đối tượng tham gia bảo hiểm tiền gửi.
+
+Ý nghĩa của danh sách này là: tấm lưới chủ yếu dành cho các khoản tiết kiệm bằng đồng Việt Nam của người dân, đúng nhóm cần bảo vệ nhất. Người mua trái phiếu hay chứng khoán tại quầy ngân hàng cần hiểu đó là sản phẩm đầu tư, không phải tiền gửi, nên không có lưới này.
 
 ### 6. Thay đổi sắp tới
-- Luật Bảo hiểm tiền gửi năm 2025 có hiệu lực từ 1/5/2026.
-- Ngân hàng Nhà nước đề xuất nâng hạn mức từ 125 triệu lên 350 triệu đồng, tăng khoảng 2,8 lần (nguồn bài dẫn: VnExpress, 2/2026).
-- Lý do: với 125 triệu đồng, khoảng 87,6% người gửi được bảo vệ toàn bộ; ở 350 triệu đồng tỷ lệ này lên khoảng 93,7%, gần hơn thông lệ quốc tế (trung bình khoảng 98%).
-- Luật mới cho phép chi trả bảo hiểm trong nhiều trường hợp hơn, không nhất thiết chờ ngân hàng hoàn tất thủ tục phá sản.
-- Lưu ý của bài: đề xuất 350 triệu đồng vẫn đang lấy ý kiến, cần cập nhật từ Ngân hàng Nhà nước hoặc Bảo hiểm tiền gửi Việt Nam.
+
+Bài nêu một số thay đổi:
+
+- **Luật Bảo hiểm tiền gửi năm 2025** có hiệu lực từ 1/5/2026.
+- **Đề xuất nâng hạn mức:** Ngân hàng Nhà nước đề xuất nâng hạn mức từ 125 triệu lên 350 triệu đồng, tức tăng khoảng 2,8 lần (bài dẫn nguồn VnExpress, 2/2026).
+- **Lý do nâng:** với hạn mức 125 triệu đồng, khoảng 87,6% người gửi được bảo vệ toàn bộ số tiền của mình. Ở mức 350 triệu đồng, tỷ lệ này lên khoảng 93,7%, gần hơn với thông lệ quốc tế, nơi tỷ lệ trung bình khoảng 98%.
+- **Chi trả trong nhiều trường hợp hơn:** luật mới cho phép chi trả bảo hiểm mà không nhất thiết phải chờ ngân hàng hoàn tất thủ tục phá sản.
+
+| Hạn mức | Tỷ lệ người gửi được bảo vệ toàn bộ |
+|---|---|
+| 125 triệu đồng (hiện hành) | Khoảng 87,6% |
+| 350 triệu đồng (đề xuất) | Khoảng 93,7% |
+| Thông lệ quốc tế | Khoảng 98% |
+
+Bài lưu ý đề xuất 350 triệu đồng vẫn đang lấy ý kiến, người đọc cần cập nhật thông tin chính thức từ Ngân hàng Nhà nước hoặc Bảo hiểm tiền gửi Việt Nam.
 
 ### 7. Hành động và câu hỏi thường gặp
-- Liệt kê số tiền đang gửi tại từng ngân hàng; nếu một khoản vượt xa hạn mức và muốn an toàn hơn, cân nhắc phân bổ sang nhiều ngân hàng uy tín.
-- Hỏi đáp:
-  - Có phải đăng ký hoặc đóng phí không? Không; tổ chức tín dụng là bên đóng phí.
-  - Gửi nhiều ngân hàng có được bảo hiểm nhiều hơn không? Có, vì hạn mức tính riêng cho từng ngân hàng.
-  - Tiền gửi ngoại tệ, vàng có được bảo hiểm không? Không; chỉ áp dụng cho tiền gửi đồng Việt Nam của cá nhân.
+
+Việc bài khuyên làm ngay: liệt kê số tiền mình đang gửi tại từng ngân hàng. Nếu có khoản vượt xa hạn mức và muốn an toàn hơn, hãy cân nhắc phân bổ sang nhiều ngân hàng uy tín.
+
+Ba câu hỏi thường gặp:
+
+- **Có phải đăng ký hoặc đóng phí không?** Không. Tổ chức tín dụng là bên đóng phí; người gửi được bảo vệ tự động.
+- **Gửi nhiều ngân hàng có được bảo hiểm nhiều hơn không?** Có, vì hạn mức tính riêng cho từng ngân hàng. Ví dụ: gửi ở 2 ngân hàng thì tổng mức được bảo hiểm tối đa là 2 × 125 = 250 triệu đồng.
+- **Tiền gửi ngoại tệ, vàng có được bảo hiểm không?** Không. Bảo hiểm chỉ áp dụng cho tiền gửi bằng đồng Việt Nam của cá nhân.
 
 ## Thuật ngữ
 

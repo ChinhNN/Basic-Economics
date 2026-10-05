@@ -39,32 +39,63 @@
 2. Vì sao lấy tiền lời chia vốn bỏ ra (5/11) vẫn là cách tính sai tỷ suất sinh lợi?
 3. Tính tỷ suất sinh lợi tháng và năm bằng IRR như thế nào, và kiểm chứng ra sao?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Phi vụ, mở vị thế và đóng vị thế (open / close position).** Một phi vụ bắt đầu khi bạn trả tiền mua tài sản (mở vị thế) và kết thúc khi bạn bán tài sản thu tiền về (đóng vị thế). Lời hay lỗ của phi vụ chỉ biết được khi đã đóng vị thế. Ví dụ trong bài: mua bò 7 triệu rồi bán 10 triệu là một phi vụ trọn vẹn, lời 3 triệu. Cách nhìn này là chìa khoá để giải đúng câu 1.
+
+**Giá vốn (cost basis).** Số tiền thực sự bỏ ra để mua tài sản trong một phi vụ. Ví dụ trong bài: ở phi vụ thứ hai, giá vốn là 14 triệu (giá mua lại), chứ không phải 10 triệu (giá vừa bán ở phi vụ trước). Nhầm giá vốn là nguồn gốc của đáp án sai "lời 1 triệu".
+
+**Bán khống (short selling).** Bán một tài sản trước (thường là tài sản đi mượn) rồi mua lại sau. Khi đó bán là mở vị thế, mua là đóng vị thế. Ví dụ minh hoạ: mượn một con bò bán 10 triệu, sau đó mua lại 8 triệu để trả, lời 2 triệu. Bài nêu khái niệm này để cho thấy thứ tự mở/đóng phụ thuộc vào cách phi vụ bắt đầu.
+
+**Dòng tiền (cash flow).** Danh sách các khoản tiền ra (dấu âm) và vào (dấu dương) theo thời gian. Ví dụ trong bài: dòng tiền theo tháng của B là −7; +10; 0; −14; 0; 0; 0; +16 (triệu). Cộng thẳng các con số này cho tổng lời 5 triệu.
+
+**Giá trị thời gian của tiền (time value of money).** Một đồng nhận hôm nay đáng giá hơn một đồng nhận sau này, vì có thể đem đi sinh lời trong khoảng thời gian đó. Vì vậy không được cộng trừ nhân chia trực tiếp tiền của các tháng khác nhau khi tính tỷ suất. Đây là lý do cách tính 5/11 = 45,45% bị coi là sai.
+
+**IRR (tỷ suất hoàn vốn nội bộ).** Mức lãi suất mỗi kỳ làm cho tổng giá trị hiện tại của mọi dòng tiền bằng 0. Ví dụ trong bài: dòng tiền của B có IRR 9,34%/tháng. Đây là cách đúng để đo tỷ suất sinh lợi khi tiền ra vào ở nhiều thời điểm.
+
+**Quy đổi lãi tháng ra lãi năm.** Theo lãi đơn thì nhân lãi tháng với 12; theo lãi kép thì tính (1 + lãi tháng)^12 − 1. Ví dụ trong bài: 9,34%/tháng quy ra 112,08%/năm (lãi đơn) hoặc 191,93%/năm (lãi kép). Cách lãi kép phản ánh đúng việc lợi nhuận mỗi tháng được tái đầu tư.
+
+## Nội dung chi tiết
 
 ### 1. Đề bài
-- Cuối tháng 3/2019: B mua bò X giá 7 triệu.
-- Cuối tháng 4: B bán bò X giá 10 triệu.
-- Cuối tháng 6: B mua lại bò X giá 14 triệu.
-- Cuối tháng 10: B bán lại bò X giá 16 triệu.
-- Hỏi: (1) B lời/lỗ bao nhiêu? (2) Tỷ suất sinh lợi tính theo năm là bao nhiêu?
+
+Bài toán quen thuộc như sau. B mua bán một con bò X bốn lần:
+
+| Thời điểm | Giao dịch | Số tiền |
+|---|---|---|
+| Cuối tháng 3/2019 | Mua bò X | 7 triệu |
+| Cuối tháng 4 | Bán bò X | 10 triệu |
+| Cuối tháng 6 | Mua lại bò X | 14 triệu |
+| Cuối tháng 10 | Bán lại bò X | 16 triệu |
+
+Đề hỏi hai câu: (1) B lời hay lỗ bao nhiêu? (2) Tỷ suất sinh lợi tính theo năm là bao nhiêu?
 
 ### 2. Câu 1: tính lời/lỗ
-- **Cách sai phổ biến:** mua 7 bán 10 → lời 3; mua lại 14 → "lỗ 4" (vì tự coi giá vốn là 10); mua 14 bán 16 → lời 2; tổng 3 − 4 + 2 = 1 triệu.
-- Chỗ sai: B vừa bán 10 triệu nên người giải mặc nhiên coi giá vốn của con bò là 10 triệu. Giả định này sai.
-- **Tư duy đúng theo từng phi vụ:**
-  - Một phi vụ bắt đầu khi trả tiền mua (mở trạng thái, open position) và kết thúc khi thu tiền bán (đóng trạng thái, close position).
-  - Nếu bán khống (bán trước, mua sau) thì ngược lại: bán là mở, mua là đóng.
-  - Cuối tháng 3: mở vị thế, bỏ ra 7 triệu, có 1 con bò.
-  - Cuối tháng 4: đóng vị thế, không còn bò; phi vụ 1 lời −7 + 10 = +3 triệu.
-  - Cuối tháng 6: mở vị thế mới, không liên quan phi vụ trước; chưa thể nói lời/lỗ cho đến khi bán.
-  - Cuối tháng 10: đóng vị thế; phi vụ 2 lời −14 + 16 = +2 triệu.
-- Tổng: 3 + 2 = 5 triệu (đúng).
-- Cách nhanh: cộng các dòng tiền −7 + 10 − 14 + 16 = 5 triệu.
+
+**Cách sai phổ biến.** Nhiều người giải như sau: mua 7 bán 10 thì lời 3; mua lại với giá 14 thì "lỗ 4" (vì tự coi giá vốn của con bò là 10); mua 14 bán 16 thì lời 2. Tổng cộng 3 − 4 + 2 = 1 triệu.
+
+Chỗ sai nằm ở bước giữa. Vì B vừa bán con bò với giá 10 triệu, người giải mặc nhiên coi 10 triệu là giá vốn của con bò, nên khi mua lại 14 triệu thì thấy như "mất" 4 triệu. Giả định này sai: lúc mua lại, B bỏ ra 14 triệu tiền thật, và đó mới là giá vốn của phi vụ mới. Việc trả giá cao hơn giá vừa bán chỉ có nghĩa là B bỏ lỡ một phần lợi nhuận nếu giữ con bò, chứ không phải một khoản lỗ.
+
+**Tư duy đúng: tách theo từng phi vụ.** Một phi vụ bắt đầu khi trả tiền mua (mở trạng thái, open position) và kết thúc khi thu tiền bán (đóng trạng thái, close position). Nếu bán khống, tức bán trước mua sau, thì ngược lại: bán là mở, mua là đóng. Áp dụng vào bài:
+
+| Thời điểm | Sự kiện | Kết quả |
+|---|---|---|
+| Cuối tháng 3 | Mở vị thế: bỏ ra 7 triệu, có 1 con bò | Chưa biết lời lỗ |
+| Cuối tháng 4 | Đóng vị thế: bán bò, không còn bò | Phi vụ 1 lời −7 + 10 = +3 triệu |
+| Cuối tháng 6 | Mở vị thế mới, không liên quan phi vụ trước | Chưa thể nói lời lỗ cho đến khi bán |
+| Cuối tháng 10 | Đóng vị thế | Phi vụ 2 lời −14 + 16 = +2 triệu |
+
+Tổng lời: 3 + 2 = 5 triệu. Đây là đáp án đúng.
+
+**Cách nhanh.** Chỉ cần cộng mọi khoản tiền ra (âm) và vào (dương): −7 + 10 − 14 + 16 = 5 triệu. Cách này tự động tránh được lỗi coi giá bán là giá vốn, vì nó chỉ quan tâm tiền thật đi ra và đi vào.
 
 ### 3. Câu 2: tỷ suất sinh lợi
-- Phần lớn người giải sai vì bỏ qua giá trị thời gian của tiền: không được cộng trừ nhân chia trực tiếp tiền của tháng X và tháng Y.
-- **Cách "có logic" nhưng vẫn sai:** lời 5 triệu; vốn bỏ ra 7 triệu ban đầu + 4 triệu thêm ở phi vụ 2 (14 − 10) = 11 triệu; tỷ suất = 5/11 = 45,45%. Cách này ít sai hơn nhưng vẫn sai.
-- **Cách đúng: IRR trên dòng tiền theo tháng:**
+
+Theo bài, phần lớn người giải sai câu này vì bỏ qua giá trị thời gian của tiền. Tiền ở tháng X và tiền ở tháng Y không thể đem cộng trừ nhân chia trực tiếp với nhau.
+
+**Cách "có logic" nhưng vẫn sai.** Lời 5 triệu. Vốn bỏ ra gồm 7 triệu ban đầu cộng 4 triệu phải bỏ thêm ở phi vụ 2 (vì mua lại 14 triệu trong khi chỉ có 10 triệu từ lần bán trước: 14 − 10 = 4), tổng 11 triệu. Tỷ suất = 5/11 = 45,45%. Cách này ít sai hơn cách tính lời 1 triệu, nhưng vẫn sai, vì nó không tính đến việc mỗi đồng vốn nằm trong phi vụ bao lâu.
+
+**Cách đúng: IRR trên dòng tiền theo tháng.** Ghi dòng tiền của B cho từng tháng từ cuối tháng 3 đến cuối tháng 10, kể cả những tháng không có giao dịch (dòng tiền bằng 0), rồi tìm lãi suất tháng làm tổng giá trị hiện tại bằng 0:
 
 | Thời điểm | Dòng tiền (triệu) | Giá trị hiện tại ở 9,34%/tháng |
 |---|---|---|
@@ -78,17 +109,34 @@
 | Cuối T10 | +16 | 16 / 1,0934^7 ≈ 8,56 |
 | **Tổng** | | **≈ 0** |
 
-- IRR = 9,34%/tháng; tổng giá trị hiện tại bằng 0 xác nhận kết quả.
+Kết quả IRR = 9,34%/tháng. Việc tổng giá trị hiện tại các dòng tiền bằng 0 (−7,00 + 9,15 − 10,71 + 8,56 ≈ 0) xác nhận con số này đúng.
 
 ### 4. Quy ra tỷ suất năm
-- Theo lãi đơn: 9,34% × 12 = 112,08%/năm.
-- Theo lãi kép: (1 + 9,34%)^12 − 1 = 191,93%/năm.
-- Kiểm tra: 100 đồng với 9,34%/tháng sau 12 tháng = 100 × 1,0934^12 = 291,93 đồng; 100 đồng với 191,93%/năm sau 1 năm = 291,93 đồng. Hai kết quả bằng nhau.
-- Tóm lại: lời 5 triệu; tỷ suất tháng 9,34%; tỷ suất năm 191,93% (giả sử B lặp lại được chu kỳ đầu tư này).
+
+Có hai cách quy 9,34%/tháng ra năm:
+
+| Cách quy đổi | Phép tính | Kết quả |
+|---|---|---|
+| Lãi đơn | 9,34% × 12 | 112,08%/năm |
+| Lãi kép | (1 + 9,34%)^12 − 1 = (1,0934)^12 − 1 | 191,93%/năm |
+
+Cách lãi kép đúng hơn vì giả định lợi nhuận mỗi tháng được đem đi tái đầu tư. Kiểm tra: 100 đồng sinh lời 9,34%/tháng trong 12 tháng thành 100 × 1,0934^12 = 291,93 đồng; 100 đồng sinh lời 191,93%/năm trong 1 năm cũng thành 291,93 đồng. Hai kết quả bằng nhau, chứng tỏ hai con số tương đương.
+
+Tóm lại đáp án của bài: B lời 5 triệu; tỷ suất sinh lợi 9,34%/tháng; tỷ suất năm 191,93%, với giả định B lặp lại được chu kỳ đầu tư này suốt cả năm.
+
+Ba cách tính tỷ suất xếp từ sai đến đúng:
+
+| Cách | Kết quả | Đánh giá |
+|---|---|---|
+| Lời chia vốn, bỏ qua thời gian | 5/11 = 45,45% | Ít sai hơn nhưng vẫn sai |
+| IRR trên dòng tiền tháng | 9,34%/tháng | Đúng |
+| Quy năm từ IRR | 112,08% (lãi đơn) hoặc 191,93% (lãi kép) | Lãi kép là cách quy đúng |
 
 ### 5. Ghi chú của tác giả
-- Bài chỉ nhằm dạy cách tính lời lỗ và tỷ suất sinh lợi, không minh họa một hình thức đầu tư thực tế.
-- Thực tế, đạt 10–15%/năm trong thời gian dài đã là rất xuất sắc.
+
+Tác giả nói rõ bài toán chỉ nhằm dạy cách tính lời lỗ và tỷ suất sinh lợi, không minh hoạ một hình thức đầu tư thực tế. Con số 191,93%/năm là kết quả của một bài toán số học, không phải mức lợi nhuận có thể kỳ vọng.
+
+Theo tác giả, trong thực tế, đạt tỷ suất sinh lợi 10–15%/năm trong thời gian dài đã là rất xuất sắc. Ví dụ minh hoạ: 100 triệu đồng tăng đều 12%/năm trong 10 năm thành khoảng 310 triệu đồng, một kết quả rất tốt dù kém xa con số gần 192% mỗi năm của bài toán con bò.
 
 ## Thuật ngữ
 

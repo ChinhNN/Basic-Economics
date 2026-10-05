@@ -41,25 +41,70 @@
 2. Có những cách nào để giải thích trực quan lãi suất thực tế cao hơn của vay trả góp?
 3. Tính lãi suất thực tế của khoản trả góp như thế nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Vay trả cuối kỳ (bullet loan).** Người vay nhận đủ tiền, dùng trọn số tiền đó suốt thời hạn vay, rồi trả cả gốc lẫn lãi một lần vào cuối kỳ. Ví dụ trong bài: vay 100 triệu, lãi 20%/năm, cuối năm trả 120 triệu. Với cách vay này, lãi quảng cáo 20% đúng bằng lãi thực tế.
+
+**Vay trả góp (installment loan).** Người vay trả đều mỗi tháng một khoản gồm cả gốc và lãi. Ví dụ trong bài: vay 100 triệu, trả 10 triệu mỗi tháng trong 12 tháng, tổng 120 triệu. Bài chứng minh cách vay này đắt hơn nhiều dù tổng tiền trả giống hệt.
+
+**Lãi suất quảng cáo.** Mức lãi người cho vay nêu ra, tính bằng tổng tiền lãi chia cho số tiền vay ban đầu. Ví dụ trong bài: 20 triệu lãi trên 100 triệu vay là "20%/năm". Con số này bỏ qua việc người vay đã trả dần gốc.
+
+**Lãi phẳng (flat rate) và dư nợ giảm dần (declining balance).** Lãi phẳng tính lãi trên toàn bộ số tiền vay ban đầu suốt kỳ, dù gốc đã được trả bớt; lãi theo dư nợ giảm dần chỉ tính trên phần gốc còn nợ. Ví dụ trong bài, ở dạng ẩn: 20% tính trên cả 100 triệu trong khi dư nợ thực tế giảm dần về 0. Đây là cơ chế khiến lãi thực tế cao gần gấp đôi.
+
+**Lãi suất thực tế (effective rate).** Mức lãi tính theo dòng tiền thật mà người vay nhận và trả, có tính đến thời điểm của từng khoản. Ví dụ trong bài: 41,30%/năm, so với 20%/năm quảng cáo. Đây là con số người vay cần biết trước khi ký.
+
+**Giá trị thời gian của tiền.** Một khoản tiền hôm nay có giá trị hơn cùng khoản đó ở tương lai, vì có thể đem đi sinh lời và vì lạm phát. Ví dụ trong bài: 10 triệu trả ở tháng 1 đáng giá hơn 10 triệu trả ở tháng 12. Đây là cách giải thích thứ hai của bài.
+
+**IRR (tỷ suất hoàn vốn nội bộ).** Mức lãi suất mỗi kỳ làm cho tổng giá trị hiện tại của các khoản nhận và trả bằng 0. Ví dụ trong bài: dòng tiền +100 triệu ở tháng 0 và −10 triệu mỗi tháng từ tháng 1 đến tháng 12 có IRR 2,92%/tháng. Đây là cách tính chính xác lãi thực tế.
+
+## Nội dung chi tiết
 
 ### 1. Ví dụ minh họa
-- **Vay thông thường (trả gốc và lãi cuối kỳ):** vay 100 triệu, lãi 20%/năm, nhận đủ 100 triệu và dùng trọn 12 tháng; cuối năm trả một lần 100 triệu gốc + 20 triệu lãi = 120 triệu.
-- **Vay trả góp (trả đều hằng tháng):** người cho vay đề nghị trả 10 triệu/tháng trong 12 tháng, tổng vẫn 120 triệu. Nghe tiện vì khớp thu nhập tháng và trả nợ nhanh, nhưng lãi thực tế cao hơn.
+
+Bài so sánh hai cách vay cùng số tiền và cùng tổng tiền trả:
+
+**Vay thông thường (trả gốc và lãi cuối kỳ).** Bạn vay 100 triệu với lãi 20%/năm. Bạn nhận đủ 100 triệu và dùng trọn trong 12 tháng. Cuối năm, bạn trả một lần 100 triệu gốc cộng 20 triệu lãi, tổng 120 triệu.
+
+**Vay trả góp (trả đều hằng tháng).** Người cho vay đề nghị bạn trả 10 triệu mỗi tháng trong 12 tháng. Tổng số tiền trả vẫn là 10 × 12 = 120 triệu. Cách này nghe tiện lợi, vì khoản trả khớp với thu nhập hằng tháng và nợ được trả dần nhanh chóng. Nhưng theo bài, lãi thực tế của nó cao hơn hẳn.
+
+| | Trả cuối kỳ | Trả góp đều |
+|---|---|---|
+| Số tiền vay | 100 triệu | 100 triệu |
+| Cách trả | Tháng 12 trả một lần 120 triệu | Mỗi tháng 10 triệu × 12 tháng |
+| Tổng tiền trả | 120 triệu | 120 triệu |
+| Vốn được dùng | Đủ 100 triệu suốt 12 tháng | Giảm dần: 100, 90, 80 triệu... |
+| Lãi thực tế | 20%/năm | 2,92%/tháng, tức 41,30%/năm |
+
+Bài đưa ra hai cách giải thích trực quan cho khoảng chênh này, rồi tính chính xác bằng IRR.
 
 ### 2. Cách giải thích 1: khác biệt về việc sử dụng vốn
-- Vay thông thường: dùng toàn bộ 100 triệu suốt 12 tháng, trả cuối kỳ; tối ưu lợi ích từ vốn vay.
-- Vay trả góp: nhận 100 triệu nhưng ngay sau tháng đầu đã trả 10 triệu (gồm cả gốc và lãi), nên chỉ còn dùng khoảng 90 triệu; các tháng sau còn 80 triệu, 70 triệu... Không được dùng đủ 100 triệu suốt kỳ → lãi thực tế cao hơn 20% quảng cáo.
+
+Với vay thông thường, bạn dùng toàn bộ 100 triệu suốt 12 tháng và chỉ trả vào cuối kỳ. Bạn tận dụng được tối đa lợi ích từ số vốn vay.
+
+Với vay trả góp, bạn nhận 100 triệu, nhưng ngay sau tháng đầu tiên đã phải trả 10 triệu (gồm cả gốc và lãi). Như vậy, từ tháng thứ hai bạn chỉ còn dùng khoảng 90 triệu; các tháng sau còn 80 triệu, 70 triệu, và cứ thế giảm dần. Bạn không được dùng đủ 100 triệu trong toàn bộ thời gian, nhưng vẫn trả 20 triệu tiền lãi như thể đã dùng đủ. Tính trung bình, số vốn bạn thực sự được dùng chỉ khoảng một nửa số tiền vay. Trả cùng 20 triệu lãi cho số vốn dùng ít hơn nhiều thì lãi suất thực tế phải cao hơn mức 20% quảng cáo.
 
 ### 3. Cách giải thích 2: giá trị thời gian của tiền
-- Tiền hôm nay giá trị hơn tiền tương lai vì lạm phát và cơ hội đầu tư. Ví dụ: cho vay 10 triệu và chỉ nhận lại đúng 10 triệu sau 12 tháng thì ít ai chấp nhận, trừ người thân.
-- Mỗi khoản 10 triệu trả góp có giá trị khác nhau khi quy về cùng thời điểm (ví dụ tháng 12): 10 triệu ở tháng 1 đáng giá hơn 10 triệu ở tháng 12 vì có thể đầu tư sinh lời ngay. Do đó tổng giá trị các khoản trả quy về cuối kỳ lớn hơn 120 triệu → lãi thực tế cao hơn.
+
+Tiền hôm nay có giá trị hơn tiền trong tương lai, vì hai lý do: lạm phát làm tiền mất sức mua, và tiền có sẵn hôm nay có thể đem đầu tư. Bài lấy ví dụ: nếu bạn cho ai vay 10 triệu và chỉ nhận lại đúng 10 triệu sau 12 tháng, ít ai chấp nhận, trừ khi đó là người thân.
+
+Áp vào khoản trả góp: mỗi khoản 10 triệu được trả vào những thời điểm khác nhau nên có giá trị khác nhau khi quy về cùng một thời điểm, ví dụ tháng 12. Khoản 10 triệu trả ở tháng 1 đáng giá hơn khoản 10 triệu trả ở tháng 12, vì người cho vay nhận được nó sớm và có thể đem đầu tư sinh lời ngay. Do đó, nếu quy tất cả các khoản trả về cuối kỳ, tổng giá trị của chúng lớn hơn 120 triệu. Nói cách khác, người vay trả góp thực chất đã trả nhiều hơn người vay trả cuối kỳ, nên lãi thực tế cao hơn.
+
+Hai cách giải thích dẫn tới cùng một kết luận: lãi suất thực tế của khoản trả góp xấp xỉ gấp đôi lãi quảng cáo.
 
 ### 4. Tính lãi suất thực tế bằng IRR
-- Dòng tiền theo tháng: tháng 0 nhận +100 triệu; tháng 1 đến tháng 12 mỗi tháng trả −10 triệu.
-- IRR (hàm Excel hoặc công cụ tài chính) → lãi suất tháng = 2,92%.
-- Lãi suất năm = (1 + 2,92%)^12 − 1 = 41,30%.
-- Kết luận: lãi vay trả góp cao hơn ta tưởng; cần thận trọng, tính kỹ lãi thực tế, đánh giá khả năng trả nợ, chỉ vay khi thực sự cần.
+
+Để có con số chính xác, bài viết khoản vay thành dòng tiền theo tháng, nhìn từ phía người vay:
+
+| Tháng | Dòng tiền |
+|---|---|
+| 0 | +100 triệu (nhận tiền vay) |
+| 1 đến 12 | −10 triệu mỗi tháng (trả góp) |
+
+Dùng hàm IRR trong Excel hoặc công cụ tài chính, lãi suất tháng tìm được là 2,92%. Quy ra năm theo lãi kép: (1 + 2,92%)^12 − 1 = 41,30%/năm, gấp đôi con số 20% quảng cáo.
+
+Ví dụ minh hoạ để kiểm chứng cách giải thích 1: nếu chỉ nhân lãi tháng với 12, ta được 2,92% × 12 ≈ 35%/năm; con số này xấp xỉ 20 triệu lãi chia cho dư nợ bình quân khoảng 57 triệu. Khi tính thêm lãi kép theo tháng, con số lên 41,30%.
+
+Kết luận của bài: lãi suất vay trả góp cao hơn nhiều so với ta tưởng. Người vay cần thận trọng, tính kỹ lãi suất thực tế, đánh giá khả năng trả nợ của mình, và chỉ vay trả góp khi thực sự cần.
 
 ## Thuật ngữ
 
