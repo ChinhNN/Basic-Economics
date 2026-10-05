@@ -248,89 +248,240 @@
 2. **Vốn tăng bằng cách nào, và vì sao tiết kiệm không làm giảm chi tiêu?** Vốn chỉ tăng bằng tiết kiệm. Phần tiết kiệm vẫn được tiêu dùng gần như ngay lập tức, nhưng bởi lao động sản xuất thay vì đầy tớ, nên nó vừa duy trì tiêu dùng vừa tái tạo giá trị.
 3. **Ai có thể làm nghèo một nước?** Hiếm khi là tư nhân, vì động cơ cải thiện hoàn cảnh khiến đa số tiết kiệm và thận trọng. Mối nguy là chi tiêu công nuôi một khối lượng lớn người phi sản xuất, đặc biệt là chiến tranh; nhưng ở Anh, tiết kiệm tư nhân dưới sự bảo hộ của luật và tự do đã thắng được nó.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Lao động sản xuất và lao động phi sản xuất (productive / unproductive labour).** Theo Smith, lao động sản xuất là lao động làm tăng giá trị của một vật và để lại một hàng hoá còn tồn tại, bán được; lao động phi sản xuất là lao động mà kết quả biến mất ngay lúc làm xong. Ví dụ trong chương: người thợ trong xưởng biến nguyên liệu thành sản phẩm, và giá bán sản phẩm hoàn lại tiền công của anh ta cùng lợi nhuận cho chủ; còn người đầy tớ phục vụ bữa ăn thì sau bữa ăn không còn gì để bán. Ví dụ minh hoạ: chủ xưởng ứng 10 bảng tiền công, sản phẩm bán được 12 bảng, ông lấy lại 10 bảng và lời 2 bảng; tiền trả cho đầy tớ thì mất hẳn. Cần nhớ "phi sản xuất" trong chương này không có nghĩa là vô ích: vua, quân đội, bác sĩ, nhạc sĩ đều thuộc nhóm này. Khái niệm này quan trọng vì cả chương xoay quanh câu hỏi phần sản phẩm của một nước được dùng nuôi nhóm nào.
+
+**Vốn (capital) như một quỹ nuôi lao động.** Với Smith, vốn trước hết không phải là tiền mà là lương thực, vải vóc, nguyên liệu, công cụ được ứng trước để nuôi và trang bị người lao động trong thời gian họ làm ra sản phẩm. Tiền chỉ là phương tiện chuyển quỹ ấy. Ví dụ minh hoạ: một chủ trại có số lương thực đủ nuôi 10 người làm thuê trong một mùa thì "vốn" của ông là khả năng nuôi 10 người ấy cho đến khi thu hoạch. Khái niệm này giải thích vì sao Smith nói số lao động sản xuất chỉ tăng khi vốn tăng.
+
+**Phần hoàn vốn và phần thu nhập.** Mỗi năm, sản phẩm vừa làm ra lập tức chia làm hai: một phần (thường là phần lớn nhất) dùng để thay thế số vốn đã tiêu trong năm, phần còn lại là thu nhập của chủ, dưới dạng địa tô hoặc lợi nhuận. Ví dụ trong chương: ở các nước giàu châu Âu, phần của địa chủ ít khi quá 1/3 sản phẩm của đất, đôi khi chưa đến 1/4; phần còn lại hoàn vốn và trả lợi nhuận cho chủ trại. Khái niệm này quan trọng vì phần hoàn vốn chỉ nuôi lao động sản xuất, còn phần thu nhập có thể nuôi bất kỳ ai, nên tỷ lệ giữa hai phần quyết định một xã hội cần cù hay lười nhác.
+
+**Tiết kiệm (parsimony) và tích luỹ vốn (accumulation).** Tiết kiệm là không tiêu hết thu nhập cho tiêu dùng của mình; tích luỹ là đưa phần dành dụm ấy vào vốn, tự mình thuê thêm người làm hoặc cho người khác vay. Ví dụ minh hoạ: một thương gia có thu nhập 1.000 bảng một năm, tiêu 800 bảng và đưa 200 bảng vào kinh doanh, thì năm sau quỹ nuôi lao động sản xuất của ông lớn thêm 200 bảng. Smith nhấn rằng tiết kiệm, chứ không phải cần cù, là nguyên nhân trực tiếp của tăng vốn: cần cù tạo ra thứ để tích luỹ, nhưng không dành dụm thì vốn không lớn lên.
+
+**"Tiêu dùng vẫn thế, người tiêu dùng thì khác".** Đây là ý then chốt của chương: tiền tiết kiệm không nằm im mà được tiêu gần như ngay, chỉ là bởi người khác. Ví dụ minh hoạ: 200 bảng nếu chi cho tiệc tùng thì mua lương thực cho khách và đầy tớ; nếu tiết kiệm và đầu tư thì cũng mua lương thực ấy, nhưng cho thợ xây hay thợ dệt, những người làm ra một thứ bán lại được. Ý này quan trọng vì nó trả lời nỗi lo rằng tiết kiệm làm giảm chi tiêu; nó cũng là chỗ kinh tế học hiện đại tranh luận nhiều nhất, vì Smith giả định phần tiết kiệm luôn được đầu tư ngay.
+
+**Hoang phí và quản lý kém (prodigality, misconduct).** Hoang phí là tiêu vượt thu nhập, tức ăn vào vốn; quản lý kém là đem vốn vào những dự án không thu hồi được chi phí. Cả hai đều làm quỹ nuôi lao động sản xuất nhỏ đi. Ví dụ trong chương: kẻ hoang phí "nuôi kẻ lười bằng bánh mì của người cần cù"; còn quản lý kém là các dự án thiếu cân nhắc trong nông nghiệp, mỏ, đánh cá, thương mại, chế tạo. Khái niệm này dẫn tới kết luận của Smith về ai có thể làm nghèo một nước: hiếm khi là tư nhân, đôi khi là nhà nước.
+
+**Hàng lâu bền và hàng tiêu ngay (durable / immediately consumed goods).** Hàng tiêu ngay là thứ dùng một lần là hết (bữa tiệc, công đầy tớ); hàng lâu bền là thứ dùng được nhiều năm và tích lại được (nhà, đồ đạc, sách, tranh). Ví dụ trong chương: sau 10 hay 20 năm, người tiêu tiền vào tiệc tùng không còn dấu vết gì, còn người tiêu cùng số tiền vào nhà và đồ đạc có một kho đồ vẫn còn giá trị. Khái niệm này giúp hiểu phần cuối chương, nơi Smith cho rằng ngay cả người không tiết kiệm cũng có thể chi tiêu theo cách làm nước giàu hơn.
+
+## Nội dung chi tiết
 
 ### 1. Định nghĩa: lao động sản xuất và phi sản xuất
 
-- Có một loại lao động làm tăng giá trị của vật mà nó tác động vào, loại kia thì không. Loại thứ nhất được gọi là lao động sản xuất, loại thứ hai là phi sản xuất. Smith ghi chú rằng một số tác giả Pháp (phái trọng nông) dùng hai từ này theo nghĩa khác, chỉ coi lao động nông nghiệp là sản xuất, và ông hẹn sẽ bàn ở chương cuối Quyển IV.
-- Người thợ trong xưởng thêm vào giá trị nguyên liệu giá trị tiền công của mình và lợi nhuận của chủ. Tiền công được ứng trước, nhưng chủ không mất gì vì được hoàn lại cùng lợi nhuận trong giá trị sản phẩm. Tiền nuôi đầy tớ thì không bao giờ lấy lại được. "Một người làm giàu bằng cách thuê nhiều thợ, trở nên nghèo nếu nuôi nhiều đầy tớ."
-- Lao động của đầy tớ vẫn có giá trị và xứng đáng được trả công. Khác biệt là lao động của người thợ được cố định vào một vật bán được, còn tồn tại sau khi làm xong. Hàng hoá giống như một lượng lao động được cất trữ, sau này có thể đổi lấy một lượng lao động tương đương. Dịch vụ của đầy tớ biến mất ngay lúc thực hiện.
-- Cùng loại với đầy tớ là nhiều tầng lớp đáng kính nhất: vua và quan lại phụ trách công lý và quốc phòng, toàn bộ lục quân và hải quân. Họ là công bộc của dân, sống bằng một phần sản phẩm của người khác. Việc bảo vệ an ninh năm nay không thể để dành cho năm sau. Cùng nhóm còn có thầy tu, luật sư, bác sĩ, văn sĩ, diễn viên, hề, nhạc sĩ, ca sĩ, vũ nữ. Giá trị lao động của họ được điều tiết bằng cùng các nguyên tắc như mọi loại lao động khác, nhưng sản phẩm của họ, như lời diễn viên hay giai điệu nhạc sĩ, mất đi ngay khi được tạo ra.
+Smith mở chương bằng một phân loại. Có một loại lao động làm tăng giá trị của vật mà nó tác động vào, và một loại thì không. Loại thứ nhất ông gọi là **lao động sản xuất**, loại thứ hai là **lao động phi sản xuất**. Ông ghi chú rằng một số tác giả Pháp, tức phái trọng nông, dùng hai chữ này theo nghĩa khác: họ chỉ coi lao động nông nghiệp là sản xuất. Ông hẹn sẽ bàn về quan điểm đó ở chương cuối Quyển IV.
+
+**Ví dụ người thợ và người đầy tớ.** Người thợ trong một xưởng chế tạo thêm vào giá trị của nguyên liệu mà anh ta gia công hai thứ: giá trị tiền công của chính anh ta, và lợi nhuận của chủ xưởng. Tiền công ấy được chủ **ứng trước**, nhưng thực ra chủ không mất gì, vì giá trị ấy được hoàn lại cùng lợi nhuận trong giá bán sản phẩm. Ngược lại, tiền chủ nhà bỏ ra nuôi đầy tớ thì không bao giờ lấy lại được. Smith tóm lại bằng một câu: một người làm giàu bằng cách thuê nhiều thợ, và trở nên nghèo nếu nuôi nhiều đầy tớ.
+
+| | Người thợ trong xưởng | Người đầy tớ |
+|---|---|---|
+| Tác động lên giá trị | Làm tăng giá trị nguyên liệu bằng tiền công của mình cộng lợi nhuận của chủ | Không thêm giá trị vào vật nào |
+| Tiền công có quay về chủ không | Có, trong giá bán sản phẩm, kèm lợi nhuận | Không |
+| Kết quả sau khi làm xong | Một hàng hoá còn tồn tại, bán được | Dịch vụ biến mất ngay lúc làm xong |
+| Tác động lên tài sản của chủ | Thuê nhiều thì giàu thêm | Nuôi nhiều thì nghèo đi |
+
+**Lao động được "cố định" vào hàng hoá.** Smith nhấn rằng lao động của người đầy tớ vẫn có giá trị và xứng đáng được trả công. Khác biệt không nằm ở chỗ ai làm việc vất vả hơn, mà ở chỗ lao động của người thợ được **cố định và hiện thực hoá** vào một vật cụ thể, bán được, còn tồn tại sau khi làm xong. Hàng hoá ấy giống như một lượng lao động được **cất giữ**, để sau này có thể đem đổi lấy một lượng lao động tương đương. Dịch vụ của người đầy tớ thì biến mất ngay lúc được thực hiện, không để lại thứ gì có thể đổi lấy lao động khác.
+
+**Những người cùng loại với đầy tớ.** Theo định nghĩa ấy, nhiều tầng lớp đáng kính nhất trong xã hội cũng là lao động phi sản xuất:
+
+- **Vua và quan lại** phụ trách công lý và quốc phòng, cùng toàn bộ **lục quân và hải quân**. Họ là công bộc của dân, sống bằng một phần sản phẩm do người khác làm ra. Công việc của họ rất cần, nhưng an ninh mà họ đem lại trong năm nay không thể để dành cho năm sau: năm sau muốn có an ninh thì lại phải nuôi họ thêm một năm.
+- **Thầy tu, luật sư, bác sĩ, văn sĩ** các loại.
+- **Diễn viên, hề, nhạc sĩ, ca sĩ, vũ nữ.**
+
+Giá trị lao động của tất cả những người này được điều tiết theo cùng các nguyên tắc như mọi loại lao động khác (Quyển I). Nhưng sản phẩm của họ, như lời đọc của diễn viên hay giai điệu của nhạc sĩ, mất đi ngay khi được tạo ra. Vì vậy chữ "phi sản xuất" trong chương này không có nghĩa là vô ích hay đáng khinh; nó chỉ nói rằng lao động ấy không để lại một hàng hoá có thể hoàn lại quỹ đã nuôi nó.
 
 ### 2. Sản phẩm hàng năm chia làm phần hoàn vốn và phần thu nhập
 
-- Lao động sản xuất, phi sản xuất và người không làm gì đều sống bằng sản phẩm hàng năm, vốn có hạn. Phần dành cho người phi sản xuất càng nhiều thì phần cho người sản xuất càng ít và sản lượng năm sau càng nhỏ. Toàn bộ sản phẩm hàng năm, trừ sản vật tự nhiên của đất, là kết quả của lao động sản xuất.
-- Ngay khi ra khỏi đất hoặc khỏi tay người lao động sản xuất, sản phẩm chia làm hai phần: một phần, thường là lớn nhất, hoàn lại vốn; phần kia là thu nhập dưới dạng lợi nhuận của vốn hoặc địa tô. Ở nông trại, một phần hoàn lại vốn của chủ trại, phần còn lại trả lợi nhuận cho chủ trại và địa tô cho địa chủ. Ở xưởng chế tạo, phần lớn hoàn vốn, phần kia là lợi nhuận.
-- Phần hoàn vốn chỉ được dùng để nuôi lao động sản xuất. Phần thu nhập có thể nuôi bất kỳ ai. Khi người chủ dùng một phần vốn nuôi người phi sản xuất, phần đó ngay lập tức rời khỏi vốn và chuyển sang phần tiêu dùng ngay.
-- Người làm công có tiền công cao cũng có thể thuê đầy tớ, đi xem hát, xem múa rối, hoặc nộp thuế nuôi những người có chức vụ đáng kính, tức là góp phần nuôi lao động phi sản xuất. Nhưng anh ta phải kiếm được tiền công trước bằng lao động đã làm. Mỗi người góp ít, nhưng đông người nên đáng kể.
-- Nguồn chính nuôi lao động phi sản xuất vẫn là địa tô và lợi nhuận, hai loại thu nhập mà chủ sở hữu thường có dư. Họ có thể nuôi cả hai loại lao động nhưng "có vẻ thích" loại phi sản xuất hơn. Một lãnh chúa nuôi nhiều người ăn không ngồi rồi hơn người làm việc; một thương gia giàu dùng vốn nuôi lao động sản xuất, nhưng dùng thu nhập nuôi đúng loại người như lãnh chúa.
-- Do đó tỷ lệ giữa lao động sản xuất và phi sản xuất phụ thuộc vào tỷ lệ giữa phần hoàn vốn và phần thu nhập, và tỷ lệ này khác nhau rất xa giữa nước giàu và nước nghèo.
+**Ba nhóm cùng sống bằng một sản phẩm có hạn.** Lao động sản xuất, lao động phi sản xuất, và những người hoàn toàn không làm gì đều sống bằng sản phẩm hàng năm của đất đai và lao động của một nước. Sản phẩm ấy có hạn, dù lớn đến đâu. Vì vậy phần dành cho người phi sản xuất càng nhiều thì phần còn lại cho người sản xuất càng ít, và sản lượng năm sau càng nhỏ. Smith nhấn thêm rằng toàn bộ sản phẩm hàng năm, trừ những sản vật tự nhiên của đất, là kết quả của lao động sản xuất.
+
+**Sản phẩm tách làm hai ngay khi vừa làm ra.** Ngay khi ra khỏi đất hoặc khỏi tay người lao động sản xuất, sản phẩm hàng năm chia thành hai phần:
+
+| | Phần hoàn lại vốn | Phần thu nhập |
+|---|---|---|
+| Quy mô | Thường là phần lớn nhất | Phần còn lại |
+| Dạng | Thay thế lương thực, nguyên liệu, công cụ đã dùng | Địa tô (cho chủ đất) và lợi nhuận (cho chủ vốn) |
+| Ví dụ ở nông trại | Hoàn lại vốn của chủ trại | Lợi nhuận cho chủ trại và địa tô cho địa chủ |
+| Ví dụ ở xưởng | Phần lớn giá bán, thay thế vốn đã ứng | Lợi nhuận của chủ xưởng |
+| Nuôi ai | **Chỉ** nuôi lao động sản xuất | Có thể nuôi **bất kỳ ai**, sản xuất hay phi sản xuất |
+
+Phần hoàn vốn chỉ được dùng để nuôi lao động sản xuất, vì chủ vốn muốn lấy lại vốn của mình cùng lợi nhuận, và chỉ lao động sản xuất làm được điều đó. Khi một người chủ đem một phần vốn ra nuôi người phi sản xuất, phần đó **ngay lúc đó** rời khỏi vốn của ông và chuyển sang "phần để tiêu dùng ngay" của ông.
+
+**Người làm công cũng góp phần nuôi lao động phi sản xuất.** Một người làm công có tiền công cao cũng có thể thuê đầy tớ, đi xem hát, xem múa rối, hoặc nộp thuế để nuôi những người có chức vụ đáng kính; tức là họ cũng góp phần nuôi lao động phi sản xuất. Nhưng họ chỉ làm được vậy bằng tiền công đã kiếm được trước đó bằng lao động của mình. Mỗi người góp một phần nhỏ, nhưng vì đông người nên tổng cộng cũng đáng kể.
+
+**Nguồn chính vẫn là địa tô và lợi nhuận.** Nguồn chính nuôi lao động phi sản xuất vẫn là địa tô và lợi nhuận, hai loại thu nhập mà chủ sở hữu thường có dư so với nhu cầu sinh sống. Những người có hai loại thu nhập này có thể nuôi cả hai loại lao động, nhưng "có vẻ thích" nuôi loại phi sản xuất hơn. Một lãnh chúa thường nuôi nhiều người ăn không ngồi rồi hơn người làm việc. Một thương gia giàu dùng **vốn** của mình để nuôi lao động sản xuất, nhưng dùng **thu nhập** của mình để nuôi đúng loại người mà lãnh chúa nuôi: đầy tớ, khách khứa, người giải trí.
+
+**Hệ quả.** Do đó tỷ lệ giữa lao động sản xuất và phi sản xuất trong một nước phụ thuộc vào tỷ lệ giữa phần sản phẩm hoàn lại vốn và phần trở thành thu nhập dưới dạng địa tô và lợi nhuận. Và tỷ lệ này khác nhau rất xa giữa nước giàu và nước nghèo, như mục tiếp theo cho thấy.
 
 ### 3. So sánh lịch sử: thời phong kiến và châu Âu hiện đại
 
-- Ở các nước giàu châu Âu hiện nay, phần lớn nhất sản phẩm đất đai hoàn lại vốn của chủ trại độc lập. Thời phong kiến, một phần rất nhỏ đã đủ hoàn vốn, vì vốn chỉ gồm vài con gia súc ăn cỏ hoang, thường thuộc về chính lãnh chúa và được ứng cho người thuê đất. Phần còn lại thuộc về lãnh chúa dưới dạng địa tô hoặc lợi nhuận trên số vốn nhỏ ấy. Người canh tác là nông nô hoặc tá điền; tô danh nghĩa không cao nhưng thực tế gần bằng toàn bộ sản phẩm; lãnh chúa có thể bắt họ làm việc thời bình và đi lính thời chiến.
-- Hiện nay phần của địa chủ ít khi vượt quá 1/3, đôi khi chưa đến 1/4 sản phẩm. Nhưng địa tô ở vùng đất tốt đã tăng gấp ba hoặc bốn lần, nên 1/3 hay 1/4 hiện nay lớn gấp 3–4 lần trước. Trong quá trình cải tạo đất, địa tô tăng về mức tuyệt đối nhưng giảm về tỷ lệ so với sản phẩm.
-- Thời xưa buôn bán nhỏ và thủ công gia đình ít, không cần vốn lớn, nhưng mang lại lợi nhuận lớn: lãi suất không dưới 10% ở bất cứ đâu, và lợi nhuận phải đủ trả lãi. Nay ở những nơi phát triển của châu Âu, lãi suất không quá 6%, nơi sầm uất nhất chỉ 4, 3, 2%. Thu nhập từ lợi nhuận ở nước giàu lớn hơn nhiều vì vốn lớn hơn, dù tỷ suất lợi nhuận thấp hơn.
-- Vì vậy quỹ trả công lao động sản xuất ở nước giàu không chỉ lớn hơn mà còn chiếm tỷ lệ lớn hơn so với quỹ có thể nuôi cả hai loại lao động.
+Smith so sánh cách chia sản phẩm của đất đai ở hai thời kỳ:
+
+| | Thời phong kiến | Châu Âu giàu thời Smith |
+|---|---|---|
+| Vốn nông nghiệp | Vài con gia súc ăn cỏ hoang, thường của chính lãnh chúa, ứng cho người thuê đất | Vốn lớn của các chủ trại độc lập |
+| Phần hoàn vốn | Rất nhỏ | Phần lớn nhất của sản phẩm |
+| Phần của lãnh chúa, địa chủ | Gần toàn bộ phần còn lại, dưới dạng địa tô hoặc lợi nhuận trên số vốn nhỏ ấy | Ít khi quá 1/3, đôi khi chưa đến 1/4 sản phẩm |
+| Người canh tác | Nông nô hoặc tá điền phụ thuộc như nô bộc | Chủ trại độc lập |
+| Lãi suất | Không dưới 10% ở bất cứ đâu | Không quá 6% ở nơi phát triển; 4, 3, 2% ở nơi sầm uất nhất |
+
+**Nông nghiệp.** Thời phong kiến, người canh tác là nông nô hoặc tá điền. Tô danh nghĩa họ phải nộp không cao, nhưng thực tế gần bằng toàn bộ sản phẩm, vì lãnh chúa có thể bắt họ làm việc cho mình trong thời bình và đi lính trong thời chiến. Ngày nay, phần của địa chủ ít khi vượt 1/3 sản phẩm, đôi khi chưa đến 1/4. Nhưng điều đó không có nghĩa địa chủ nghèo đi: địa tô ở vùng đất tốt đã tăng **gấp ba hoặc bốn lần**, nên 1/3 hay 1/4 của sản phẩm ngày nay lớn gấp 3–4 lần phần trước kia. Smith khái quát: trong quá trình cải tạo đất, địa tô **tăng** về mức tuyệt đối nhưng **giảm** về tỷ lệ so với sản phẩm.
+
+**Thương mại và chế tạo.** Thời xưa, buôn bán nhỏ và thủ công gia đình còn ít, không cần vốn lớn, nhưng mang lại lợi nhuận cao: lãi suất không dưới 10% ở bất cứ đâu, và lợi nhuận phải đủ để trả lãi đó. Ngày nay ở những nơi phát triển của châu Âu, lãi suất không quá 6%, và ở những nơi sầm uất nhất chỉ còn 4, 3, thậm chí 2%. Thu nhập từ lợi nhuận ở nước giàu lớn hơn nhiều về số tuyệt đối, vì vốn lớn hơn nhiều, dù **tỷ suất** lợi nhuận thấp hơn.
+
+**Kết luận.** Vì vậy quỹ dùng để trả công lao động sản xuất ở nước giàu không chỉ **lớn hơn** về số tuyệt đối, mà còn chiếm **tỷ lệ lớn hơn** so với quỹ có thể dùng nuôi cả hai loại lao động (quỹ thu nhập). Ví dụ minh hoạ (con số của người tổng hợp): nếu ở thời phong kiến 10 phần sản phẩm thì 2 phần hoàn vốn và 8 phần là thu nhập của lãnh chúa, còn ở nước giàu 10 phần thì 7 phần hoàn vốn và 3 phần là thu nhập, thì ở nước giàu ít nhất 7 phần chắc chắn đi nuôi lao động sản xuất, so với 2 phần thời phong kiến.
 
 ### 4. Tỷ lệ vốn/thu nhập quyết định cần cù hay lười nhác
 
-- Tỷ lệ giữa các quỹ này quyết định tính cách chung của dân chúng. Chúng ta cần cù hơn tổ tiên vì quỹ nuôi sự cần cù nay lớn hơn nhiều so với quỹ nuôi sự ăn không ngồi rồi, so với hai, ba thế kỷ trước. Tổ tiên lười vì thiếu khuyến khích; câu châm ngôn cũ nói "chơi không công còn hơn làm không công".
-- Ở các thành phố buôn bán và chế tạo, nơi tầng lớp dưới có việc làm nhờ vốn, họ cần cù, điềm đạm, cầu tiến, như ở nhiều thành phố Anh và hầu hết thành phố Hà Lan. Ở các thành phố có triều đình, nơi dân chủ yếu sống nhờ thu nhập của vua quan và người giàu, họ lười nhác, phóng đãng và nghèo, như ở Rome, Versailles, Compiègne, Fontainebleau.
-- Ở Pháp, trừ Rouen và Bordeaux, rất ít thương mại và chế tạo; dân ở các thành phố có toà án sống chủ yếu nhờ chi tiêu của quan toà và người đi kiện, và họ lười, nghèo. Rouen là đầu mối nhận và phân phối hàng nhập khẩu cho Paris; Bordeaux phân phối rượu vang của vùng sông Garonne, loại rượu hợp khẩu vị nước ngoài nhất. Địa thế đòi hỏi vốn lớn, và chính việc dùng vốn lớn tạo ra công nghiệp ở hai nơi này.
-- Paris, Madrid, Vienna chỉ dùng lượng vốn hơi lớn hơn mức cần để phục vụ tiêu dùng của chính dân thành phố. London, Lisbon, Copenhagen có lẽ là ba thành phố duy nhất ở châu Âu vừa có triều đình vừa là trung tâm buôn bán phục vụ cả nơi khác, nhờ địa thế. Ở nơi phần lớn thu nhập được tiêu dùng tại chỗ, khó dùng vốn có lợi vào việc gì khác ngoài phục vụ tiêu dùng; dân quen sống nhờ chi tiêu của tầng lớp trên nên mất tính cần cù.
-- Edinburgh trước khi Scotland hợp nhất với Anh có rất ít công thương nghiệp; khi nghị viện Scotland thôi họp ở đó và quý tộc rời đi, công thương phát triển. Nhưng thành phố vẫn còn các toà án lớn, cơ quan thuế quan, nên vẫn kém xa Glasgow, nơi dân sống chủ yếu bằng việc làm do vốn tạo ra. Có làng đã phát triển nghề chế tạo lại trở nên lười và nghèo khi một lãnh chúa đến dựng dinh cơ gần đó.
-- Kết luận phần này: tỷ lệ giữa vốn và thu nhập điều chỉnh tỷ lệ giữa cần cù và lười nhác. Tăng hay giảm vốn sẽ tăng hay giảm giá trị trao đổi của sản phẩm hàng năm, tức của cải và thu nhập của toàn dân.
+**Tính cách chung của dân chúng.** Smith cho rằng tỷ lệ giữa hai quỹ này quyết định tính cách chung của dân chúng, cần cù hay lười nhác. Chúng ta cần cù hơn tổ tiên vì quỹ nuôi sự cần cù ngày nay lớn hơn nhiều so với quỹ nuôi sự ăn không ngồi rồi, nếu so với hai, ba thế kỷ trước. Tổ tiên không lười vì bản tính, mà vì **thiếu khuyến khích** cho sự cần cù. Câu châm ngôn cũ nói đúng điều đó: "chơi không công còn hơn làm không công". Khi làm việc không đem lại gì cho mình, người ta chọn nghỉ.
+
+**Bằng chứng từ các thành phố.** Smith đối chiếu hai loại thành phố:
+
+| Loại thành phố | Dân sống bằng gì | Tính cách | Ví dụ |
+|---|---|---|---|
+| Thành phố buôn bán và chế tạo | Việc làm do **vốn** tạo ra | Cần cù, điềm đạm, cầu tiến | Nhiều thành phố Anh, hầu hết thành phố Hà Lan, Glasgow |
+| Thành phố có triều đình | **Thu nhập** của vua quan và người giàu | Lười nhác, phóng đãng, nghèo | Rome, Versailles, Compiègne, Fontainebleau |
+| Thành phố có toà án ở Pháp | Chi tiêu của quan toà và người đi kiện | Lười, nghèo | Phần lớn các thành phố có toà án ở Pháp |
+
+**Ngoại lệ do địa thế.** Ở Pháp, trừ **Rouen** và **Bordeaux**, rất ít thương mại và chế tạo. Hai thành phố này là ngoại lệ vì địa thế. Rouen là đầu mối nhận và phân phối hàng nhập khẩu cho Paris. Bordeaux phân phối rượu vang của vùng sông **Garonne**, loại rượu hợp khẩu vị nước ngoài nhất. Địa thế như vậy đòi hỏi phải dùng vốn lớn, và chính việc dùng vốn lớn đã tạo ra công nghiệp ở hai nơi này.
+
+**Các thủ đô.** Paris, Madrid, Vienna chỉ dùng một lượng vốn hơi lớn hơn mức cần để phục vụ tiêu dùng của chính dân thành phố. **London, Lisbon, Copenhagen** có lẽ là ba thành phố duy nhất ở châu Âu vừa là nơi có triều đình vừa là trung tâm buôn bán phục vụ cả những nơi khác, cũng nhờ địa thế. Ở nơi phần lớn thu nhập được tiêu dùng ngay tại chỗ, khó dùng vốn có lợi vào việc gì khác ngoài phục vụ tiêu dùng tại chỗ; dân quen sống nhờ chi tiêu của tầng lớp trên nên dần mất tính cần cù.
+
+**Edinburgh và Glasgow.** Edinburgh trước khi Scotland hợp nhất với Anh có rất ít công thương nghiệp. Khi nghị viện Scotland thôi họp ở đó và giới quý tộc rời đi, công thương nghiệp bắt đầu phát triển. Nhưng thành phố vẫn còn các toà án lớn và cơ quan thuế quan, nơi một khối thu nhập lớn được tiêu, nên vẫn kém xa **Glasgow**, nơi dân sống chủ yếu bằng việc làm do vốn tạo ra. Smith còn nêu một quan sát nhỏ: có những làng đã phát triển được nghề chế tạo, rồi trở nên lười và nghèo khi một lãnh chúa đến dựng dinh cơ gần đó, vì dân chuyển sang sống nhờ chi tiêu của lãnh chúa.
+
+**Kết luận phần này.** Tỷ lệ giữa vốn và thu nhập ở bất cứ nơi đâu điều chỉnh tỷ lệ giữa cần cù và lười nhác. Ở đâu vốn chiếm ưu thế thì cần cù chiếm ưu thế; ở đâu thu nhập chiếm ưu thế thì lười nhác chiếm ưu thế. Vì vậy mỗi sự tăng hay giảm vốn đều làm tăng hay giảm khối lượng lao động sản xuất, do đó tăng hay giảm giá trị trao đổi của sản phẩm hàng năm, tức của cải và thu nhập thực của toàn dân.
 
 ### 5. Tiết kiệm là nguồn duy nhất của vốn
 
-- Vốn tăng nhờ tiết kiệm và giảm vì hoang phí và quản lý kém. Người tiết kiệm thêm phần dành dụm vào vốn, hoặc tự thuê thêm lao động sản xuất, hoặc cho người khác vay lấy lãi, tức nhận một phần lợi nhuận của người vay. Vốn cá nhân chỉ tăng bằng tiết kiệm thu nhập; vốn xã hội, là tổng vốn cá nhân, cũng chỉ tăng bằng cách đó.
-- Tiết kiệm, chứ không phải cần cù, là nguyên nhân trực tiếp của tăng vốn. Cần cù tạo ra thứ để tích luỹ, nhưng cần cù đến đâu mà không tiết kiệm thì vốn không lớn hơn.
-- Tiết kiệm tăng quỹ nuôi lao động sản xuất, đưa thêm lao động làm tăng giá trị vào hoạt động, làm tăng giá trị trao đổi của sản phẩm hàng năm.
-- Phần tiết kiệm hàng năm cũng được tiêu dùng đều đặn như phần chi tiêu, và gần như cùng lúc, nhưng bởi một nhóm người khác. Phần thu nhập người giàu chi tiêu nuôi khách khứa và đầy tớ, những người không để lại gì. Phần tiết kiệm thành vốn nuôi người lao công, thợ, thợ thủ công, những người tái sản xuất giá trị kèm lợi nhuận. Nếu thu nhập là tiền, người giàu chi tiêu sẽ dùng nó mua lương thực, vải vóc, nhà ở cho khách và đầy tớ; nếu tiết kiệm, cũng chính các thứ ấy được mua, nhưng cho người lao động sản xuất. "Tiêu dùng thì vẫn thế, nhưng người tiêu dùng thì khác."
-- Người tiết kiệm như người sáng lập một trại tế bần: ông lập một quỹ lâu dài nuôi một số lao động sản xuất mãi về sau. Smith tin rằng quỹ này không thể bị dùng sai mục đích, vì lợi ích của chính người tiết kiệm buộc nó phải được dùng nuôi lao động sản xuất.
+**Vốn tăng và giảm thế nào.** Vốn tăng nhờ **tiết kiệm** và giảm vì **hoang phí** và **quản lý kém**. Người tiết kiệm đưa phần dành dụm vào vốn theo một trong hai cách: tự mình thuê thêm lao động sản xuất, hoặc cho người khác vay lấy lãi, tức nhận một phần lợi nhuận của người vay. Vốn của một cá nhân chỉ tăng bằng cách tiết kiệm từ thu nhập hằng năm hay lợi nhuận của mình. Vốn của xã hội, vốn là tổng vốn của mọi cá nhân, cũng chỉ tăng bằng đúng cách đó.
+
+**Tiết kiệm, chứ không phải cần cù.** Smith viết một câu then chốt: tiết kiệm, **chứ không phải cần cù**, là nguyên nhân trực tiếp của việc tăng vốn. Cần cù tạo ra thứ để tích luỹ, nhưng dù cần cù đến đâu, nếu không tiết kiệm và tích trữ thì vốn không bao giờ lớn hơn. (Bản dịch bỏ vế "chứ không phải cần cù", nên làm mất điểm đối lập này.)
+
+**Cơ chế.** Tiết kiệm làm tăng quỹ dành nuôi lao động sản xuất, do đó đưa thêm lao động làm tăng giá trị vào hoạt động, và làm tăng giá trị trao đổi của sản phẩm hàng năm. Nói cách khác: tiết kiệm năm nay là thêm người làm và thêm sản phẩm năm sau.
+
+**Tiền tiết kiệm vẫn được tiêu, nhưng bởi người khác.** Đây là điểm quan trọng nhất của chương. Phần thu nhập tiết kiệm mỗi năm cũng được tiêu dùng đều đặn như phần chi tiêu, và gần như cùng một lúc, chỉ là bởi một nhóm người khác:
+
+| | Phần thu nhập chi tiêu | Phần thu nhập tiết kiệm |
+|---|---|---|
+| Ai tiêu dùng | Khách khứa và đầy tớ của người giàu | Người lao công, thợ, thợ thủ công |
+| Mua gì (nếu thu nhập là tiền) | Lương thực, vải vóc, nhà ở cho khách và đầy tớ | Cũng chính lương thực, vải vóc, nhà ở ấy |
+| Kết quả | Người tiêu dùng không để lại gì | Người tiêu dùng tái sản xuất giá trị đã tiêu kèm lợi nhuận |
+
+Smith tóm lại: **tiêu dùng thì vẫn thế, nhưng người tiêu dùng thì khác**. Tổng lượng lương thực và vải vóc được dùng trong năm không đổi; điều thay đổi là chúng nuôi ai, và người được nuôi có làm ra một thứ thay thế chúng hay không.
+
+**Người tiết kiệm như người lập quỹ trại tế bần.** Smith ví người tiết kiệm với người sáng lập một trại tế bần (nhà nuôi người nghèo): bằng khoản dành dụm của mình, ông lập ra một quỹ **lâu dài** nuôi một số lao động sản xuất, không chỉ năm nay mà mãi về sau. Smith tin rằng quỹ này không thể bị dùng sai mục đích như quỹ của nhiều trại tế bần thật, vì không có luật hay người quản lý nào cần canh giữ nó: chính lợi ích của người tiết kiệm buộc nó phải được dùng nuôi lao động sản xuất, vì chỉ như vậy ông mới lấy lại được vốn cùng lợi nhuận.
+
+**Ví dụ hôm nay** (minh hoạ chung). Khi một hộ gia đình gửi tiết kiệm vào ngân hàng và ngân hàng cho một doanh nghiệp vay để xây xưởng, số tiền ấy vẫn được tiêu, nhưng vào tiền công của thợ xây và tiền mua máy, chứ không vào bữa ăn nhà hàng của hộ gia đình. Lập luận của Smith đúng khi kênh này thông suốt; kinh tế học hiện đại sẽ hỏi điều gì xảy ra khi tiền tiết kiệm không được ai vay để đầu tư.
 
 ### 6. Hoang phí: tiêu vào vốn
 
-- Kẻ hoang phí không giới hạn chi tiêu trong thu nhập nên ăn vào vốn. Anh ta dùng quỹ mà cha ông tích luỹ để nuôi lao động sản xuất vào việc nuôi sự lười biếng. Giảm vốn nuôi lao động sản xuất thì giảm lượng lao động tạo giá trị, giảm sản phẩm hàng năm, giảm của cải và thu nhập của mọi người. Nếu không được bù bằng tiết kiệm của người khác, kẻ hoang phí "nuôi kẻ lười bằng bánh mì của người cần cù", làm nghèo cả mình lẫn đất nước.
-- Smith bác lập luận trọng thương cho rằng chi tiêu vào hàng nội địa thì vô hại. Dù kẻ hoang phí chỉ mua hàng trong nước, mỗi năm vẫn có một lượng lương thực, vải vóc lẽ ra nuôi người sản xuất lại nuôi người phi sản xuất, nên sản phẩm hàng năm vẫn giảm.
-- Đúng là tiền không chảy ra nước ngoài. Nhưng nếu số hàng đó nuôi lao động sản xuất, họ sẽ tái sản xuất toàn bộ giá trị đã tiêu kèm lợi nhuận, tiền vẫn ở trong nước, và có hai giá trị thay vì một.
-- Hơn nữa, tiền không thể ở lâu trong một nước có sản phẩm hàng năm giảm. Lượng tiền cần dùng phụ thuộc vào giá trị hàng tiêu dùng lưu thông hàng năm. Khi sản phẩm giảm, lượng tiền cần cho lưu thông giảm; số tiền thừa không thể nằm im, chủ của nó sẽ gửi ra nước ngoài, bất chấp luật cấm, để mua hàng ngoại bán trong nước. Việc này tạm thời bổ sung hàng ngoại cho tiêu dùng, như dùng vàng bạc dành dụm thời thịnh vượng để chống đỡ lúc thiếu thốn. Xuất khẩu vàng bạc khi đó là hậu quả chứ không phải nguyên nhân của suy sụp, và còn tạm thời làm giảm nhẹ thiếu thốn.
-- Ngược lại, lượng tiền tăng cùng với giá trị sản phẩm hàng năm, vì cần thêm tiền để lưu thông nhiều hàng hơn; một phần sản phẩm tăng thêm sẽ được dùng mua vàng bạc. Vàng bạc tăng là hậu quả, không phải nguyên nhân của thịnh vượng. Cái giá của vàng bạc ở Peru cũng như ở Anh là lương thực, vải vóc, nhà ở, tiền công và lợi nhuận của những người khai thác và đưa chúng ra thị trường. Nước nào trả được giá ấy sẽ sớm có lượng kim loại cần dùng, và không nước nào giữ lâu một lượng không cần dùng.
-- Vậy dù coi của cải thực sự là sản phẩm hàng năm hay là lượng kim loại quý, mỗi kẻ hoang phí là kẻ thù của công chúng và mỗi người tiết kiệm là ân nhân của công chúng.
+**Kẻ hoang phí làm gì.** Kẻ hoang phí không giới hạn chi tiêu trong thu nhập, nên ăn vào vốn. Anh ta dùng quỹ mà sự tiết kiệm của cha ông đã dành để nuôi lao động sản xuất vào việc nuôi sự lười biếng. Giảm quỹ nuôi lao động sản xuất thì giảm lượng lao động làm tăng giá trị, do đó giảm giá trị sản phẩm hàng năm, giảm của cải và thu nhập thực của mọi người. Nếu không được bù bằng tiết kiệm của người khác, kẻ hoang phí, bằng cách **"nuôi kẻ lười bằng bánh mì của người cần cù"**, không chỉ làm nghèo chính mình mà còn làm nghèo đất nước.
+
+**Bác lập luận "mua hàng nội thì vô hại".** Phái trọng thương cho rằng chi tiêu hoang phí chỉ có hại khi mua hàng ngoại, vì tiền chảy ra nước ngoài; còn mua hàng nội thì tiền vẫn ở trong nước. Smith bác lại theo ba bước.
+
+1. **Sản lượng vẫn giảm.** Dù kẻ hoang phí chỉ mua hàng sản xuất trong nước, mỗi năm vẫn có một lượng lương thực và vải vóc lẽ ra nuôi người sản xuất lại đi nuôi người phi sản xuất. Vì vậy giá trị sản phẩm năm sau vẫn giảm.
+2. **Hai giá trị thay vì một.** Đúng là tiền không chảy ra nước ngoài. Nhưng nếu số hàng ấy được dùng nuôi lao động sản xuất, người lao động sẽ tái sản xuất toàn bộ giá trị đã tiêu kèm lợi nhuận, trong khi tiền vẫn ở trong nước. Như vậy đất nước có **hai** giá trị (số tiền và số hàng được tái sản xuất), thay vì chỉ **một** (số tiền).
+3. **Tiền cũng không ở lại lâu.** Tiền không thể ở lâu trong một nước mà sản phẩm hàng năm giảm. Lượng tiền một nước cần phụ thuộc vào giá trị hàng tiêu dùng được lưu thông mỗi năm. Khi sản phẩm giảm, lượng tiền cần cho lưu thông giảm theo; số tiền thừa không thể nằm im, chủ của nó sẽ gửi ra nước ngoài, **bất chấp luật cấm**, để mua hàng ngoại về bán trong nước. Việc này tạm thời bổ sung hàng ngoại cho tiêu dùng trong nước, giống như dùng số vàng bạc dành dụm thời thịnh vượng để chống đỡ lúc thiếu thốn.
+
+Từ bước 3, Smith rút ra một kết luận đảo ngược quan điểm trọng thương: **xuất khẩu vàng bạc là hậu quả, không phải nguyên nhân** của sự suy sụp, và thậm chí còn tạm thời làm nhẹ bớt sự thiếu thốn.
+
+**Chiều ngược lại.** Tương tự, lượng tiền trong một nước tăng cùng với giá trị sản phẩm hàng năm, vì cần thêm tiền để lưu thông nhiều hàng hơn; một phần sản phẩm tăng thêm sẽ được dùng để mua thêm vàng bạc. Vậy vàng bạc tăng là **hậu quả, không phải nguyên nhân** của thịnh vượng. Smith giải thích bằng giá của vàng bạc: ở Peru cũng như ở Anh, cái giá phải trả để có vàng bạc là lương thực, vải vóc, nhà ở, tiền công và lợi nhuận của những người khai thác và đưa kim loại ra thị trường. Nước nào trả được giá ấy sẽ sớm có lượng kim loại mình cần dùng, và không nước nào giữ lâu được một lượng kim loại không cần dùng.
+
+**Kết luận.** Vì vậy, dù ta coi của cải thực sự của một nước là sản phẩm hàng năm của đất đai và lao động (như Smith) hay là lượng kim loại quý (như phái trọng thương), thì kết luận vẫn như nhau: **mỗi kẻ hoang phí là kẻ thù của công chúng, và mỗi người tiết kiệm là ân nhân của công chúng**.
 
 ### 7. Quản lý kém, và vì sao tư nhân hiếm khi làm nghèo một nước lớn
 
-- Quản lý kém có tác dụng như hoang phí. Mỗi dự án thiếu suy xét trong nông nghiệp, khai mỏ, đánh cá, thương mại hay chế tạo đều làm giảm quỹ nuôi lao động sản xuất, vì dù vốn được trả cho lao động sản xuất, dự án không tái sản xuất đủ giá trị đã tiêu.
-- Nhưng ở một nước lớn, hoang phí và dại dột của vài cá nhân luôn được bù dư thừa bởi tiết kiệm và quản lý tốt của người khác.
-- Động cơ của hoang phí là đam mê hưởng thụ, đôi khi mãnh liệt nhưng thường nhất thời. Động cơ của tiết kiệm là ý muốn cải thiện hoàn cảnh của mình, điềm tĩnh nhưng có từ khi lọt lòng đến khi chết; hiếm có lúc nào người ta hoàn toàn hài lòng với vị trí của mình. Tăng tài sản là cách thông thường và rõ ràng nhất để cải thiện hoàn cảnh, và cách tăng tài sản là tiết kiệm. Đa số người, trong phần lớn cuộc đời, là người tiết kiệm.
-- Về quản lý kém: số dự án thận trọng và thành công ở đâu cũng nhiều hơn nhiều so với dự án thất bại. Dù người ta hay than về phá sản, số người phá sản chỉ chiếm phần rất nhỏ, có lẽ không hơn một trên một nghìn người kinh doanh. Phá sản là tai hoạ lớn và nhục nhã nhất có thể xảy đến với một người lương thiện, nên đa số đủ cẩn thận để tránh; một số không tránh được, "như một số người không tránh được giá treo cổ".
+**Quản lý kém có tác dụng như hoang phí.** Mỗi dự án thiếu suy xét, trong nông nghiệp, khai mỏ, đánh cá, thương mại hay chế tạo, đều làm giảm quỹ nuôi lao động sản xuất. Lý do hơi khác với hoang phí: ở đây vốn vẫn được trả cho lao động sản xuất, nhưng vì cách dùng sai, dự án không tái sản xuất được đủ giá trị đã tiêu, nên quỹ năm sau vẫn nhỏ hơn.
+
+**Nhưng ở một nước lớn, tư nhân hiếm khi làm hại.** Ở một nước lớn, hoang phí và dại dột của vài cá nhân luôn được bù dư thừa bởi tiết kiệm và quản lý tốt của người khác. Smith giải thích bằng tâm lý con người:
+
+| | Động cơ của hoang phí | Động cơ của tiết kiệm |
+|---|---|---|
+| Là gì | Đam mê hưởng thụ ngay | Ý muốn cải thiện hoàn cảnh của mình |
+| Cường độ | Đôi khi mãnh liệt, khó cưỡng | Điềm tĩnh, không ồn ào |
+| Độ bền | Thường nhất thời | Có từ khi lọt lòng đến khi chết |
+
+Trong suốt khoảng thời gian giữa hai thời điểm ấy, hiếm có lúc nào một người hoàn toàn hài lòng với vị trí của mình đến mức không muốn thay đổi hay cải thiện nó. Tăng tài sản là cách thông thường và rõ ràng nhất để cải thiện hoàn cảnh, và cách chắc chắn nhất để tăng tài sản là tiết kiệm. Vì vậy, xét trên toàn bộ cuộc đời, nguyên tắc tiết kiệm không chỉ thắng mà thắng rất xa. Đa số người, trong phần lớn cuộc đời, là người tiết kiệm.
+
+**Về quản lý kém cũng vậy.** Số dự án thận trọng và thành công ở đâu cũng nhiều hơn nhiều so với số dự án thiếu suy xét và thất bại. Dù người ta hay than phiền về số vụ phá sản, số người phá sản chỉ chiếm một phần rất nhỏ, có lẽ không hơn **1 trên 1.000** người kinh doanh. Phá sản là tai hoạ lớn nhất và nhục nhã nhất có thể xảy đến với một người lương thiện, nên đa số người đủ cẩn thận để tránh. Một số không tránh được, Smith viết, "như một số người không tránh được giá treo cổ".
 
 ### 8. Hoang phí công: mối nguy thật sự
 
-- Các nước lớn không bao giờ bị nghèo vì hoang phí tư nhân, nhưng đôi khi bị nghèo vì hoang phí và quản lý kém của nhà nước. Toàn bộ hoặc gần như toàn bộ thu nhập công ở hầu hết các nước được dùng nuôi người phi sản xuất: một triều đình đông đảo, lộng lẫy, một giáo hội lớn, các hạm đội và quân đội lớn, những người thời bình không sản xuất gì và thời chiến không kiếm được gì bù lại chi phí cho họ.
-- Khi số người này tăng quá mức, họ có thể ăn vào phần sản phẩm lẽ ra nuôi lao động sản xuất của năm sau, làm sản phẩm năm sau ít hơn năm trước, và cứ thế. Họ buộc nhiều người phải ăn vào vốn, và khi đó tiết kiệm cá nhân không bù nổi.
-- Tuy vậy, trong nhiều trường hợp tiết kiệm và quản lý tốt của tư nhân đủ bù không chỉ hoang phí tư mà cả hoang phí công. Nỗ lực đều đặn của mỗi người để cải thiện hoàn cảnh thường đủ mạnh để duy trì tiến bộ bất chấp sai lầm lớn nhất của chính quyền, như sức sống của cơ thể phục hồi sức khoẻ "bất chấp bệnh tật và những đơn thuốc vô lý của thầy thuốc".
+**Nhà nước mới là bên có thể làm nghèo một nước lớn.** Các nước lớn không bao giờ bị nghèo đi vì hoang phí và quản lý kém của tư nhân, nhưng đôi khi bị nghèo đi vì hoang phí và quản lý kém của nhà nước. Ở hầu hết các nước, toàn bộ hoặc gần như toàn bộ thu nhập công được dùng nuôi người phi sản xuất:
+
+- một **triều đình** đông đảo và lộng lẫy;
+- một **giáo hội** lớn;
+- các **hạm đội** và **quân đội** lớn, những người trong thời bình không sản xuất ra gì, và trong thời chiến cũng không giành được gì để bù lại chi phí nuôi họ.
+
+Những người này không tự sản xuất gì, nên sống hoàn toàn bằng sản phẩm lao động của người khác.
+
+**Cơ chế suy giảm.** Khi số người này tăng lên quá mức cần thiết, trong một năm họ có thể ăn vào phần sản phẩm lẽ ra nuôi lao động sản xuất của năm sau. Khi đó sản phẩm năm sau ít hơn năm trước; nếu tình trạng tiếp diễn, năm thứ ba lại ít hơn năm thứ hai, và cứ thế. Những người phi sản xuất này, lẽ ra chỉ nên được nuôi bằng một phần thu nhập dư của dân, lại tiêu một phần lớn đến mức buộc nhiều người phải ăn vào vốn của mình, tức vào quỹ nuôi lao động sản xuất. Khi đó toàn bộ tiết kiệm và quản lý tốt của tư nhân cũng không bù nổi.
+
+**Nhưng thường thì tư nhân thắng.** Tuy vậy, kinh nghiệm cho thấy trong phần lớn trường hợp, tiết kiệm và quản lý tốt của tư nhân đủ bù không chỉ hoang phí tư mà cả hoang phí công. Nỗ lực đều đặn, liên tục, không gián đoạn của mỗi người để cải thiện hoàn cảnh của mình, nguyên tắc từ đó sinh ra của cải chung, thường đủ mạnh để duy trì tiến bộ tự nhiên bất chấp cả sự hoang phí của chính quyền lẫn những sai lầm lớn nhất của nó. Smith so sánh với cơ thể con người: sức sống bên trong của cơ thể thường phục hồi được sức khoẻ **"bất chấp bệnh tật và những đơn thuốc vô lý của thầy thuốc"**.
 
 ### 9. Sản lượng chỉ tăng khi vốn tăng: bằng chứng lịch sử Anh
 
-- Sản phẩm hàng năm chỉ tăng bằng cách tăng số lao động sản xuất hoặc tăng năng suất của lao động đã có. Số lao động sản xuất chỉ tăng nhiều khi vốn, tức quỹ nuôi họ, tăng. Năng suất chỉ tăng nhờ thêm và cải tiến máy móc, công cụ, hoặc nhờ phân công hợp lý hơn; cả hai đều cần thêm vốn. Công việc càng chia thành nhiều phần thì càng cần nhiều vốn để duy trì người làm ở mỗi khâu.
-- Nếu so sánh hai thời kỳ và thấy sản phẩm thời sau lớn hơn, đất canh tác tốt hơn, chế tạo nhiều hơn, thương mại rộng hơn, ta có thể chắc rằng vốn đã tăng, tức quản lý tốt của người này đã hơn quản lý kém của người khác và chi tiêu quá đáng của chính phủ. Đây là trường hợp chung của hầu hết các nước trong thời bình, kể cả nước không có chính phủ thận trọng.
-- Phải so sánh các thời kỳ cách xa nhau, vì tiến bộ chậm; ở hai thời điểm gần nhau, sự suy thoái của một vài ngành hay một vài vùng dễ khiến người ta nghi rằng cả nước đang đi xuống. Từ thời Phục hồi (Charles II) đến nay, hiếm khi 5 năm trôi qua mà không có một cuốn sách, viết bởi người tài năng và thành thật, chứng minh rằng của cải đang giảm nhanh, dân số giảm, nông nghiệp bị bỏ bê, thương mại suy tàn.
-- Thực tế: sản phẩm của Anh hiện nay lớn hơn nhiều so với thời Phục hồi; thời Phục hồi lớn hơn thời Elizabeth lên ngôi khoảng 100 năm trước; thời Elizabeth hơn thời kết thúc chiến tranh giữa nhà York và nhà Lancaster; thời đó hơn thời Norman chinh phục; thời Norman hơn thời hỗn loạn của bảy vương quốc Saxon; thời Saxon hơn thời Julius Caesar xâm lược, khi dân sống như người bản địa Bắc Mỹ.
-- Trong mỗi thời kỳ đều có hoang phí công tư, chiến tranh tốn kém và vô ích. Ngay trong giai đoạn may mắn nhất, từ thời Phục hồi, đã có hoả hoạn và dịch hạch ở London, hai cuộc chiến với Hà Lan, rối loạn của cách mạng, chiến tranh ở Ireland, bốn cuộc chiến tốn kém với Pháp (1688, 1702, 1742, 1756) và hai cuộc nổi loạn (1715, 1745). Bốn cuộc chiến với Pháp làm nước Anh nợ hơn 145 triệu bảng, cộng các chi phí bất thường khác thì tổn thất không dưới 200 triệu bảng.
-- Từ cách mạng 1688, một phần lớn sản phẩm đã dùng nuôi số đông binh lính, những người không tái tạo được gì. Nếu không có chiến tranh, phần lớn số đó đã nuôi lao động sản xuất, sản phẩm mỗi năm sẽ tăng và thúc đẩy năm sau; nhà cửa, ruộng đất cải tạo, xưởng mới và xưởng cũ mở rộng sẽ nhiều đến mức khó hình dung.
-- Dù vậy, hoang phí của chính phủ chỉ làm chậm chứ không chặn được tiến bộ tự nhiên. Vốn đã được tích luỹ âm thầm và dần dần nhờ tiết kiệm và quản lý tốt của tư nhân, nhờ nỗ lực không ngừng của họ để cải thiện hoàn cảnh, nỗ lực được luật pháp bảo vệ và được tự do hành động theo cách có lợi nhất.
-- Nước Anh chưa bao giờ có chính phủ tiết kiệm, và tiết kiệm chưa bao giờ là đức tính đặc trưng của người Anh. Vì vậy, việc vua và bộ trưởng muốn giám sát chi tiêu của dân bằng luật hạn chế xa xỉ hay cấm nhập hàng xa xỉ là hỗn xược và tự phụ, vì chính họ là những kẻ hoang phí lớn nhất. Họ nên lo chi tiêu của mình; nếu hoang phí của họ không làm sụp đổ quốc gia thì hoang phí của dân sẽ không bao giờ làm được.
+**Hai cách tăng sản lượng, cả hai đều cần vốn.** Giá trị sản phẩm hàng năm của một nước chỉ tăng được bằng hai cách: tăng **số** lao động sản xuất, hoặc tăng **năng suất** của số lao động đã có.
+
+- Số lao động sản xuất chỉ tăng đáng kể khi vốn, tức quỹ nuôi họ, tăng.
+- Năng suất chỉ tăng nhờ thêm và cải tiến máy móc, công cụ giúp lao động nhẹ nhàng và rút ngắn thời gian, hoặc nhờ phân công lao động hợp lý hơn. Cả hai đều cần thêm vốn: máy móc phải được mua, và công việc càng chia thành nhiều khâu thì càng cần nhiều vốn để duy trì người làm ở mỗi khâu.
+
+(Bản dịch gộp sai đoạn này, viết như thể số lao động tăng nhờ máy móc; nguyên văn tách rõ hai đường như trên.)
+
+**Suy luận ngược từ sản lượng ra vốn.** Vì vậy, nếu so sánh tình trạng của một nước ở hai thời kỳ và thấy sản phẩm hàng năm thời sau lớn hơn rõ rệt, đất được canh tác tốt hơn, chế tạo nhiều và phát triển hơn, thương mại rộng hơn, ta có thể chắc rằng vốn đã tăng trong khoảng giữa. Tức là quản lý tốt của người này đã thắng quản lý kém của người khác, và thắng cả sự chi tiêu quá đáng của chính phủ. Smith cho rằng đây là trường hợp chung của hầu hết các nước trong thời bình yên, kể cả những nước không có một chính phủ thận trọng và tiết kiệm.
+
+**Phải so sánh những thời kỳ cách xa nhau.** Tiến bộ diễn ra rất chậm, nên ở hai thời điểm gần nhau thường khó thấy; trong khi sự suy thoái của một vài ngành hay một vài vùng thì dễ thấy, và dễ khiến người ta nghi rằng cả nước đang đi xuống. Smith nhận xét rằng từ thời **Phục hồi** (thời Charles II) đến nay, hiếm khi **5 năm** trôi qua mà không có một cuốn sách hay tập sách mỏng, viết bởi người tài năng và thành thật, chứng minh rằng của cải quốc gia đang giảm nhanh, dân số giảm, nông nghiệp bị bỏ bê, chế tạo sa sút, thương mại suy tàn.
+
+**Nước Anh tiến lên qua từng thế kỷ.** Thực tế ngược hẳn những lời than ấy. Smith lần ngược lịch sử, mỗi thời sau giàu hơn thời trước:
+
+| Thời kỳ | So với thời trước đó |
+|---|---|
+| Hiện nay (thời Smith) | Sản phẩm lớn hơn nhiều so với thời Phục hồi |
+| Thời Phục hồi (Charles II) | Lớn hơn thời Elizabeth lên ngôi, khoảng 100 năm trước |
+| Thời Elizabeth | Lớn hơn thời kết thúc chiến tranh giữa nhà York và nhà Lancaster |
+| Cuối chiến tranh York – Lancaster | Lớn hơn thời Norman chinh phục |
+| Thời Norman | Lớn hơn thời hỗn loạn của Thất quốc Saxon (bảy vương quốc Saxon) |
+| Thời Saxon | Lớn hơn thời Julius Caesar xâm lược, khi dân sống gần như người bản địa Bắc Mỹ |
+
+**Dù có biết bao tai hoạ.** Trong mỗi thời kỳ ấy đều có hoang phí công và tư, nhiều cuộc chiến tranh tốn kém và vô ích, và nhiều điều khác làm chệch sản phẩm khỏi việc nuôi lao động sản xuất. Ngay trong giai đoạn may mắn nhất, từ thời Phục hồi đến nay, nước Anh đã trải qua:
+
+- hoả hoạn và dịch hạch ở London;
+- **2** cuộc chiến tranh với Hà Lan;
+- những rối loạn của cách mạng;
+- chiến tranh ở Ireland;
+- **4** cuộc chiến tranh tốn kém với Pháp, các năm **1688, 1702, 1742, 1756** (bản dịch in nhầm 1742 thành 1724);
+- **2** cuộc nổi loạn, năm **1715** và **1745**.
+
+Riêng bốn cuộc chiến với Pháp đã làm nước Anh nợ thêm hơn **145 triệu bảng**; cộng các chi phí bất thường khác của các cuộc chiến ấy, tổng tổn thất không dưới **200 triệu bảng**.
+
+**Cái giá của chiến tranh tính bằng lao động sản xuất.** Từ cách mạng năm **1688**, trong nhiều dịp khác nhau, một phần lớn sản phẩm hàng năm đã được dùng để nuôi một số đông binh lính, những người không tái tạo được gì. Nếu không có các cuộc chiến ấy, phần lớn số đó lẽ ra đã được dùng nuôi lao động sản xuất. Lao động ấy sẽ tái sản xuất toàn bộ giá trị đã tiêu kèm lợi nhuận; giá trị sản phẩm mỗi năm sẽ tăng lên, và mỗi năm tăng lại thúc đẩy năm sau tăng hơn nữa. Smith viết rằng khi đó số nhà cửa được xây thêm, số ruộng đất được cải tạo, số xưởng mới được lập và xưởng cũ được mở rộng sẽ nhiều đến mức khó hình dung.
+
+**Tư nhân vẫn thắng.** Dù vậy, hoang phí của chính phủ chỉ làm chậm, chứ không chặn được tiến bộ tự nhiên của nước Anh tới giàu có. Vốn đã được tích luỹ **âm thầm và dần dần** nhờ tiết kiệm và quản lý tốt của tư nhân, nhờ nỗ lực phổ biến, liên tục và không gián đoạn của họ để cải thiện hoàn cảnh của mình. Chính nỗ lực ấy, được **pháp luật bảo vệ** và được **tự do hành động** theo cách có lợi nhất, đã duy trì tiến bộ của nước Anh qua gần như mọi thời kỳ, và hy vọng sẽ tiếp tục như vậy.
+
+**Lời trách các nhà cầm quyền.** Nước Anh chưa bao giờ có một chính phủ tiết kiệm, và tiết kiệm cũng chưa bao giờ là đức tính đặc trưng của người dân Anh. Vì vậy, Smith viết với giọng gay gắt hiếm thấy, việc vua và các bộ trưởng muốn giám sát chi tiêu của dân, bằng luật hạn chế xa xỉ hay bằng lệnh cấm nhập hàng xa xỉ, là **sự hỗn xược và tự phụ tột bậc**, vì chính họ, không có ngoại lệ, là những kẻ hoang phí lớn nhất trong xã hội. Họ nên lo chi tiêu của chính mình, và cứ để dân lo chi tiêu của dân. Nếu sự hoang phí của chính họ không làm sụp đổ quốc gia, thì sự hoang phí của dân sẽ không bao giờ làm được.
 
 ### 10. Cách chi tiêu nào làm tăng của cải
 
-- Người chi tiêu đúng bằng thu nhập không làm tăng, không làm giảm vốn chung. Nhưng một số cách chi tiêu giúp tăng sự giàu có chung hơn cách khác.
-- Thu nhập có thể chi cho thứ tiêu ngay, nên chi hôm nay không giúp được hôm sau; hoặc cho thứ lâu bền, tích luỹ được, nên chi hôm trước làm tăng hiệu quả chi hôm sau. Một người giàu có thể tiệc tùng xa hoa, nuôi nhiều đầy tớ, nhiều chó ngựa; hoặc ăn uống dè sẻn, ít đầy tớ, dồn tiền vào trang trí nhà, mua dinh thự, sưu tầm sách, tượng, tranh, đồ trang sức, một tủ áo lớn. Với cùng thu nhập, người thứ hai ngày càng giàu thêm, vì có một kho đồ vật dù bán lại không bằng giá mua vẫn còn giá trị; người thứ nhất sau 10 hay 20 năm không còn dấu vết nào.
-- Trên quy mô quốc gia cũng thế. Nhà cửa, đồ đạc, quần áo của người giàu về sau có ích cho tầng lớp trung lưu và dưới, những người mua lại khi chủ chán. Ở các nước giàu lâu đời, tầng lớp dưới thường sở hữu nhà và đồ đạc tốt không được làm ra cho họ. Dinh thự nhà Seymour nay là quán trọ trên đường Bath; giường cưới của vua James I mà hoàng hậu mang từ Đan Mạch về, vài năm trước được thấy bày trong một quán bia ở Dunfermline. Lâu đài, bộ sưu tập sách, tranh, tượng là vinh dự của cả vùng và cả nước: Versailles cho Pháp, Stowe và Wilton cho Anh; Ý vẫn được ngưỡng mộ nhờ các công trình cổ dù của cải và thiên tài tạo ra chúng đã tàn lụi.
-- Chi cho hàng lâu bền thuận lợi cho cả tích luỹ lẫn tiết kiệm. Người chi quá tay theo cách này dễ tự điều chỉnh mà không bị chê trách, vì dừng mua nhà, sách, tranh được hiểu là "đã đủ". Còn cắt bớt đầy tớ, tiệc tùng, xe ngựa thì láng giềng thấy ngay và coi như thú nhận sai lầm, nên ít người dám sửa trừ khi sắp phá sản.
-- Chi cho hàng lâu bền còn nuôi nhiều người hơn. Trong hai, ba tạ (1 tạ Anh, hundredweight, khoảng 50,8 kg) thức ăn cho một bữa tiệc, thường quá nửa bị bỏ đi. Cùng số tiền ấy dùng thuê thợ xây, thợ mộc, thợ đóng đồ, thợ cơ khí thì nuôi được nhiều người hơn, những người ăn tiêu dè sẻn không lãng phí. Hơn nữa, cách này nuôi lao động sản xuất, cách kia nuôi lao động phi sản xuất, nên cách này làm tăng, cách kia làm giảm giá trị trao đổi của sản phẩm hàng năm.
-- Smith nói rõ ông không cho rằng cách chi thứ hai luôn thể hiện tinh thần hào phóng hơn. Người đãi khách chia sẻ thu nhập với bạn bè; người mua đồ lâu bền, nhất là đồ trang sức, đồ trang trí vặt, chỉ chi cho mình và thể hiện khuynh hướng ích kỷ, ti tiện. Ông chỉ muốn nói cách chi thứ hai tích luỹ được thứ có giá trị, khuyến khích tiết kiệm, làm tăng vốn chung và nuôi lao động sản xuất, nên làm nước giàu hơn.
+**Ngay cả khi không tiết kiệm, cách chi vẫn quan trọng.** Người chi tiêu đúng bằng thu nhập của mình không làm tăng, cũng không làm giảm vốn chung của xã hội. Nhưng Smith cho rằng trong số những cách chi tiêu như vậy, có cách góp vào sự giàu có chung nhiều hơn cách khác.
+
+**Hàng tiêu ngay và hàng lâu bền.** Thu nhập có thể được chi cho những thứ tiêu ngay, khiến khoản chi hôm nay không giúp được gì cho hôm sau; hoặc cho những thứ lâu bền, tích luỹ được, khiến khoản chi hôm trước làm tăng hay nâng hiệu quả của khoản chi hôm sau. Smith so sánh hai người giàu có cùng thu nhập:
+
+| | Người chi cho thứ tiêu ngay | Người chi cho thứ lâu bền |
+|---|---|---|
+| Chi vào | Tiệc tùng xa hoa, nhiều đầy tớ, nhiều chó ngựa | Ăn uống dè sẻn, ít đầy tớ; dồn tiền trang trí nhà, mua dinh thự, sưu tầm sách, tượng, tranh, đồ trang sức, một tủ áo lớn |
+| Sau 10 hay 20 năm | Không còn dấu vết gì | Ngày càng giàu thêm: có một kho đồ vật, dù bán lại không bằng giá mua, vẫn còn giá trị |
+| Khi muốn bớt chi | Khó: cắt bớt đầy tớ, tiệc tùng, xe ngựa thì láng giềng thấy ngay và coi như thú nhận sai lầm, nên ít người dám sửa trừ khi sắp phá sản | Dễ: dừng mua nhà, sách, tranh được hiểu là "đã đủ" chứ không phải "hết tiền", nên không bị chê trách |
+| Nuôi ai | Phần lớn là lao động phi sản xuất (đầy tớ, khách khứa) | Lao động sản xuất (thợ xây, thợ mộc, thợ đóng đồ, thợ cơ khí) |
+
+**Trên quy mô quốc gia.** Điều đúng với một người cũng đúng với cả nước. Nhà cửa, đồ đạc, quần áo của người giàu về sau trở nên có ích cho tầng lớp trung lưu và tầng lớp dưới, những người mua lại khi chủ cũ đã chán. Ở các nước giàu lâu đời, tầng lớp dưới thường sở hữu những ngôi nhà và đồ đạc tốt vốn không được làm ra cho họ. Smith kể vài ví dụ:
+
+- Dinh thự cũ của **nhà Seymour** nay là một quán trọ trên đường đi **Bath**.
+- Chiếc giường cưới của **vua James I**, do hoàng hậu mang từ **Đan Mạch** về làm tặng phẩm nhân lễ cưới, vài năm trước được thấy bày trong một quán bia ở **Dunfermline**.
+- Các lâu đài, bộ sưu tập sách, tranh, tượng là vinh dự của cả vùng và cả nước: **Versailles** cho nước Pháp, **Stowe** và **Wilton** cho nước Anh. Ý vẫn được ngưỡng mộ nhờ các công trình cổ, dù của cải và thiên tài tạo ra chúng đã tàn lụi.
+
+**Chi cho hàng lâu bền thuận lợi cho tiết kiệm.** Cách chi này thuận lợi cho cả tích luỹ lẫn tiết kiệm. Người lỡ chi quá tay theo cách này dễ tự điều chỉnh mà không bị chê trách, như bảng trên đã nêu. Ngược lại, người chi quá tay cho tiệc tùng và đầy tớ thường chỉ dừng lại khi đã sắp phá sản.
+
+**Chi cho hàng lâu bền nuôi nhiều người hơn.** Smith đưa ra một phép so sánh cụ thể. Trong **2–3 tạ** thức ăn (1 tạ Anh, tức hundredweight, khoảng **50,8 kg**) dọn cho một bữa tiệc lớn, thường quá nửa bị bỏ đi. Cùng số tiền ấy nếu dùng thuê thợ xây, thợ mộc, thợ đóng đồ, thợ cơ khí thì nuôi được nhiều người hơn, những người ăn tiêu dè sẻn từng đồng, không lãng phí gì. Hơn nữa, cách chi thứ hai nuôi lao động sản xuất, cách thứ nhất nuôi lao động phi sản xuất; vì vậy cách thứ hai làm tăng, còn cách thứ nhất không làm tăng giá trị trao đổi của sản phẩm hàng năm.
+
+**Smith không nói cách chi thứ hai cao thượng hơn.** Ông nói rõ ông không cho rằng cách chi cho hàng lâu bền luôn thể hiện tinh thần hào phóng hơn. Người đãi khách xa hoa ít ra cũng chia sẻ thu nhập với bạn bè; còn người dồn tiền mua đồ lâu bền, nhất là đồ trang sức và đồ trang trí vặt, chỉ chi cho bản thân, và điều đó thường thể hiện một khuynh hướng ích kỷ, ti tiện. Điều ông muốn nói chỉ là: cách chi thứ hai tích luỹ được những thứ có giá trị, khuyến khích thói quen tiết kiệm, góp vào vốn chung, và nuôi lao động sản xuất thay vì phi sản xuất, nên làm cho đất nước **giàu hơn**. Đó là một nhận định về của cải, không phải về đạo đức.
 
 ## Luận điểm kinh tế cốt lõi
 

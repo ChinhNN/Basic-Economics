@@ -195,105 +195,244 @@
 2. **Vì sao người trực tiếp canh tác không cải tạo đất?** Vì ở từng nấc thể chế, họ không giữ được phần thành quả của việc cải tạo: nô lệ không có tài sản; tá điền chia đôi mất nửa phần tăng thêm; nông dân thuê đất không chắc thời hạn, bị lao dịch, trưng mua và thuế đánh vào chính vốn của họ.
 3. **Chính sách nhà nước làm điều đó tệ hơn thế nào?** Bằng lệnh cấm xuất khẩu và hạn chế buôn bán ngũ cốc trong nước, vốn thu hẹp thị trường và hạ giá nông sản, làm mất động cơ sản xuất ngay cả khi các trở ngại khác đã được gỡ.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Quyền con trưởng (primogeniture).** Quy tắc thừa kế theo đó toàn bộ điền sản của người cha được truyền cho một người con duy nhất, thường là con trai trưởng, thay vì chia cho các con. Ví dụ minh hoạ: một gia đình có 1.000 mẫu Anh đất và 4 người con. Nếu chia đều, mỗi người được 250 mẫu; theo quyền con trưởng, người con trai cả nhận đủ 1.000 mẫu, ba người còn lại không được mảnh đất nào. Khái niệm này quan trọng vì theo Smith, nó là thể chế đầu tiên giữ cho đất đai châu Âu nằm mãi trong tay một số ít gia đình, không chia nhỏ ra được qua các đời.
+
+**Chế độ thừa kế cố định (entails).** Một ràng buộc pháp lý đặt lên điền sản, quy định trước dòng người sẽ thừa kế và cấm bất kỳ ai trong dòng đó đem cho, bán hay chuyển nhượng đất ra ngoài dòng họ. Người đang giữ đất chỉ được hưởng hoa lợi, không được bán đất. Ví dụ trong chương: ở Scotland thời Smith, hơn một phần năm, có lẽ tới một phần ba diện tích đất đai bị ràng buộc theo cách này. Khái niệm này quan trọng vì nó chặn con đường thứ hai để đất đổi chủ: ngay cả khi người giữ đất không muốn hay không có khả năng cải tạo, đất cũng không thể bán cho người làm được việc đó.
+
+**Quyền tài sản và động cơ (property rights and incentives).** Quyền tài sản là quyền được giữ, sử dụng và hưởng thành quả của một thứ mình làm ra hay sở hữu. Khi người lao động được giữ phần mình làm thêm, họ có lý do để làm nhiều hơn; khi không được giữ, họ chỉ làm vừa đủ để khỏi bị phạt. Ví dụ minh hoạ: nếu một người làm thêm một giờ và tạo ra thêm 10 giạ thóc, người được giữ cả 10 giạ sẽ sẵn sàng làm giờ đó, còn người không được giữ giạ nào thì không. Đây là sợi chỉ xuyên suốt chương: Smith đi qua từng tầng người (đại điền chủ, nô lệ, tá điền chia đôi, nông dân thuê đất) và ở mỗi tầng hỏi người ấy giữ được bao nhiêu phần thành quả của việc cải tạo đất.
+
+**Nông nô (villains) và lao động nô lệ.** Nông nô là người canh tác bị gắn với mảnh đất của lãnh chúa, không được có tài sản riêng: mọi thứ họ làm ra hay tích được thuộc về chủ, họ chỉ được nuôi ăn. Ví dụ trong chương: chủ cấp hạt giống, gia súc, công cụ và hưởng toàn bộ sản phẩm. Khái niệm này quan trọng vì Smith dùng nó để chứng minh một kết luận nghe có vẻ ngược đời: lao động nô lệ, dù tưởng chỉ tốn tiền nuôi, lại là lao động đắt nhất, vì người không có tài sản thì không có lý do gì để làm nhiều.
+
+**Tá điền chia đôi (metayer, tiếng Latin: coloni partiarii).** Người canh tác tự do, dùng vốn do chủ đất cấp (hạt giống, gia súc, công cụ), và chia đôi sản phẩm với chủ sau khi trừ phần cần để giữ nguyên vốn. Ví dụ minh hoạ: nếu tá điền tự bỏ tiền đào mương làm thu hoạch tăng thêm 100 giạ, tá điền chỉ giữ được 50 giạ, còn chủ không bỏ ra gì vẫn lấy 50 giạ. Khái niệm này quan trọng vì nó giải thích vì sao một người đã tự do, có tài sản, vẫn không bỏ vốn riêng cải tạo đất: phần chia cho chủ hoạt động như một khoản thuế 50% trên mọi phần tăng thêm.
+
+**Nông dân thuê đất (farmer) và an toàn quyền thuê.** Nông dân thuê đất đúng nghĩa canh tác bằng vốn của chính mình và trả cho chủ một khoản tô cố định. Vì tô cố định, mọi phần tăng thêm nhờ cải tạo thuộc về người thuê, nhưng chỉ trong thời hạn hợp đồng và chỉ khi không bị đuổi trước hạn. Ví dụ minh hoạ: một khoản cải tạo cần 15 năm mới thu hồi được vốn và lãi thì người thuê có hợp đồng 9 năm sẽ không làm, người thuê có hợp đồng 27 năm hay thuê suốt đời mới làm. Khái niệm này quan trọng vì Smith cho rằng chính luật bảo vệ quyền thuê của tiểu nông là điều làm nước Anh khác phần còn lại của châu Âu.
+
+**Thuế đánh vào vốn nhìn thấy được (taille).** Thuế taille ở Pháp đánh vào lợi nhuận ước tính của người canh tác, mà lợi nhuận ấy lại được ước tính theo số vốn (gia súc, công cụ) họ có trên trang trại. Ví dụ minh hoạ: nếu thêm 2 con bò làm khoản thuế phải nộp tăng lên, người nông dân sẽ cố tỏ ra chỉ có 1 con bò. Khái niệm này quan trọng vì nó cho thấy một loại thuế có thể không chỉ lấy đi một phần thu nhập mà còn khiến người ta giấu vốn, dùng ít vốn, và đẩy người có vốn ra khỏi nghề nông.
+
+**Hạn chế buôn bán ngũ cốc.** Gồm lệnh cấm xuất khẩu ngũ cốc nếu không có giấy phép đặc biệt, và các luật hạn chế buôn bán trong nước như luật cấm người mua tích trữ (engrossers) và người mua chặn trước khi hàng ra chợ (forestallers). Ví dụ minh hoạ: nếu nông dân chỉ được bán lúa ở chợ địa phương và không được bán ra nước ngoài, một vụ được mùa sẽ làm giá trong vùng sụt mạnh, và phần thu hoạch tăng thêm gần như không đem lại thêm tiền. Khái niệm này quan trọng vì nó là trở ngại cuối cùng Smith nêu: ngay cả khi các vấn đề về quyền đất đã được gỡ, chính sách này vẫn làm hẹp thị trường và hạ giá nông sản, nên làm giảm lợi nhuận của việc cải tạo đất.
+
+## Nội dung chi tiết
 
 ### 1. Sự sụp đổ của La Mã và việc chiếm đất
 
-- Khi các dân tộc German và Scythe tràn vào các tỉnh phía tây của Đế quốc La Mã, những rối loạn kéo dài nhiều thế kỷ. Cướp bóc và bạo lực làm đứt thương mại giữa thành thị và nông thôn; thành thị bị bỏ, nông thôn bỏ hoang; những tỉnh từng giàu dưới thời La Mã rơi vào nghèo khổ.
-- Trong lúc loạn, thủ lĩnh các bộ tộc chiếm làm của riêng phần lớn đất đai. Phần lớn còn hoang, nhưng không mảnh đất nào không có chủ, và phần lớn nằm trong tay một số ít người.
-- Việc chiếm đất ban đầu này lẽ ra chỉ là tạm thời: qua thừa kế và chuyển nhượng, đất đai sẽ dần bị chia nhỏ. Hai thể chế đã chặn quá trình đó: quyền con trưởng chặn việc chia do thừa kế, chế độ thừa kế cố định chặn việc chia do chuyển nhượng.
+Chương mở đầu bằng bối cảnh lịch sử. Khi các dân tộc German và Scythe tràn vào các tỉnh phía tây của Đế quốc La Mã, châu Âu rơi vào những rối loạn kéo dài nhiều thế kỷ. Cướp bóc và bạo lực làm đứt mối buôn bán giữa thành thị và nông thôn. Thành thị bị bỏ, đất nông thôn bỏ hoang, và những tỉnh từng giàu có dưới thời La Mã rơi vào cảnh nghèo khổ cùng cực.
+
+Trong lúc loạn lạc, thủ lĩnh và những người đứng đầu các bộ tộc chiếm làm của riêng phần lớn đất đai. Kết quả là một tình trạng đặc biệt: phần lớn đất còn hoang, chưa ai khai phá, nhưng không có mảnh đất nào không có chủ, và phần lớn đất nằm trong tay một số rất ít người.
+
+Smith nhận xét rằng việc chiếm đất ban đầu này lẽ ra chỉ là một tình trạng tạm thời. Bình thường, qua nhiều đời, đất đai sẽ bị chia nhỏ bằng hai con đường: chia cho các con khi thừa kế, và bán hoặc chuyển nhượng cho người khác. Nhưng ở châu Âu, hai thể chế đã chặn cả hai con đường đó:
+
+| Con đường đất được chia nhỏ | Thể chế chặn lại |
+|---|---|
+| Chia cho các con khi thừa kế | Quyền con trưởng (primogeniture) |
+| Bán, cho, chuyển nhượng | Chế độ thừa kế cố định (entails) |
+
+Hai mục tiếp theo giải thích lần lượt hai thể chế này: chúng sinh ra từ đâu, vì sao từng có lý, và vì sao vẫn còn khi lý do ấy đã mất.
 
 ### 2. Quyền con trưởng: hợp lý thời loạn, phi lý thời bình
 
-- Khi đất, như động sản, chỉ được coi là phương tiện sinh sống và hưởng thụ, luật thừa kế tự nhiên chia đều cho các con, vì người cha quan tâm như nhau tới sinh kế của mỗi đứa. Người La Mã theo luật này: không phân biệt trưởng thứ, trai gái, coi đất không khác gì động sản.
-- Nhưng khi đất là phương tiện của quyền lực và che chở, tốt hơn là để nó trọn cho một người. Trong thời loạn, mỗi đại điền chủ là một ông hoàng nhỏ: tá điền là thần dân của ông; ông là thẩm phán, là người làm luật thời bình, là người mộ quân và cầm quân thời chiến; ông gây chiến theo ý mình, chống điền chủ láng giềng và đôi khi chống cả vua.
-- An ninh của điền sản, và do đó sự che chở cho những người sống trên đó, phụ thuộc vào độ lớn của nó. Chia nhỏ là làm nó đổ nát, dễ bị láng giềng nuốt.
-- Quyền con trưởng hình thành dần dần, với cùng lý do như quyền nối ngôi trong chế độ quân chủ: để quyền lực không bị chia mà yếu đi, phải truyền cho một người; người đó phải được chọn theo một quy tắc chung không xét đến phẩm hạnh mà dựa vào một khác biệt rõ ràng không thể tranh cãi. Giữa các con, khác biệt không thể tranh cãi chỉ có giới tính và tuổi: nam được ưu tiên hơn nữ, lớn hơn nhỏ.
-- Luật thường tồn tại lâu sau khi hoàn cảnh sinh ra nó đã mất. Ở châu Âu hiện nay, chủ một mẫu Anh (khoảng 0,4 ha) được bảo đảm an ninh không kém gì chủ 100.000 mẫu. Vậy mà quyền con trưởng vẫn được tôn trọng, vì nó hợp nhất với niềm kiêu hãnh về tước hiệu dòng họ, và có lẽ sẽ còn tồn tại nhiều thế kỷ nữa.
-- Đối với lợi ích thật của một gia đình đông con, không gì đi ngược hơn một quyền làm giàu cho một đứa và làm nghèo tất cả những đứa khác.
+Smith bắt đầu từ trường hợp đất chỉ là phương tiện sinh sống. Khi đất, cũng như động sản (đồ đạc, gia súc, tiền), chỉ được coi là phương tiện để sinh sống và hưởng thụ, luật thừa kế tự nhiên là chia đều cho các con, vì người cha quan tâm như nhau đến sinh kế của mỗi đứa. Người La Mã theo đúng luật này: họ không phân biệt con trưởng hay con thứ, con trai hay con gái, và coi đất không khác gì động sản.
+
+Nhưng khi đất trở thành nguồn quyền lực và sự che chở, tình hình khác hẳn. Trong thời loạn sau La Mã, mỗi đại điền chủ thực chất là một ông hoàng nhỏ. Tá điền là thần dân của ông. Ông là thẩm phán xử án, là người làm luật trong thời bình, là người mộ quân và cầm quân trong thời chiến. Ông gây chiến theo ý mình, chống lại các điền chủ láng giềng và đôi khi chống cả nhà vua.
+
+Trong hoàn cảnh ấy, an ninh của điền sản, và do đó sự che chở cho mọi người sống trên đó, phụ thuộc vào độ lớn của nó. Một điền sản lớn tự vệ được; chia nó ra làm nhiều phần là làm nó đổ nát và để từng phần nhỏ bị láng giềng nuốt mất. Vì vậy, tốt hơn là để điền sản trọn vẹn cho một người.
+
+Quyền con trưởng hình thành dần dần, với cùng lý do như quyền nối ngôi trong chế độ quân chủ. Để quyền lực không bị chia mà yếu đi, nó phải truyền cho một người. Người đó phải được chọn theo một quy tắc chung, không dựa vào việc ai giỏi hơn ai (điều gây tranh cãi), mà dựa vào một khác biệt rõ ràng, không ai cãi được. Giữa các con trong một nhà, khác biệt không thể tranh cãi chỉ có hai: giới tính và tuổi. Vì vậy con trai được ưu tiên hơn con gái, con lớn được ưu tiên hơn con nhỏ, và người thừa kế là con trai trưởng.
+
+Smith rút ra một nhận xét chung: luật thường tồn tại lâu sau khi hoàn cảnh sinh ra nó đã mất. Ở châu Âu thời Smith, nhà nước đã đủ mạnh để bảo vệ mọi điền sản, nên chủ một mẫu Anh (khoảng 0,4 ha) được luật pháp bảo đảm an ninh không kém gì chủ 100.000 mẫu. Lý do an ninh để giữ đất trọn vẹn đã hết. Vậy mà quyền con trưởng vẫn được tôn trọng, vì nó hợp với lòng kiêu hãnh về tước hiệu và dòng họ, và theo Smith có lẽ sẽ còn tồn tại nhiều thế kỷ nữa.
+
+Smith kết luận mục này bằng một nhận định thẳng: đối với lợi ích thật của một gia đình đông con, không có gì đi ngược hơn một quyền làm giàu cho một đứa và làm nghèo tất cả những đứa còn lại.
 
 ### 3. Chế độ thừa kế cố định
 
-- Thừa kế cố định là hệ quả tự nhiên của quyền con trưởng: nó được đưa ra để giữ một dòng kế thừa nhất định, ngăn bất kỳ phần nào của điền sản ra khỏi dòng đó bằng cho, bán, nhượng hay bất kỳ cách nào. Người La Mã hoàn toàn không biết đến nó.
-- Khi điền sản là những "công quốc" nhỏ, thừa kế cố định có thể không vô lý: như các "luật cơ bản" của một số chế độ quân chủ, nó ngăn an ninh của hàng nghìn người bị nguy hại bởi sự thất thường hay ngông cuồng của một người.
-- Nhưng khi mọi điền sản lớn nhỏ đều được luật pháp quốc gia bảo vệ, không gì phi lý hơn. Nó dựa trên giả định phi lý nhất: rằng các thế hệ sau không có quyền ngang nhau đối với đất và mọi thứ đất có, mà tài sản của thế hệ đang sống phải bị hạn chế theo ý muốn của những người đã chết có lẽ từ 500 năm trước.
-- Thừa kế cố định vẫn được tôn trọng ở phần lớn châu Âu, đặc biệt nơi dòng dõi quý tộc là điều kiện để giữ chức vụ dân sự hay quân sự; nó được coi là cần thiết để duy trì độc quyền của giới quý tộc đối với các chức vị cao. Luật Anh ghét các quyền vĩnh viễn hơn mọi chế độ quân chủ châu Âu khác, nhưng cũng chưa xoá hẳn. Ở Scotland, hơn một phần năm, có lẽ một phần ba diện tích đất đang bị ràng buộc bởi thừa kế cố định.
+Chế độ thừa kế cố định là hệ quả tự nhiên của quyền con trưởng. Quyền con trưởng chỉ định ai thừa kế; thừa kế cố định đi xa hơn: nó được đưa ra để giữ nguyên một dòng kế thừa đã định trước, và ngăn bất kỳ phần nào của điền sản ra khỏi dòng đó bằng cách cho, bán, nhượng hay bất cứ cách nào khác. Người La Mã hoàn toàn không biết đến chế độ này.
+
+Smith thừa nhận rằng trong một hoàn cảnh nhất định, nó có thể không vô lý. Khi các điền sản lớn là những "công quốc" nhỏ, thừa kế cố định giống như các "luật cơ bản" của một số chế độ quân chủ: nó ngăn không cho an ninh của hàng nghìn người bị đe doạ chỉ vì một người thừa kế thất thường hay ngông cuồng đem bán hay chia nhỏ điền sản.
+
+Nhưng khi mọi điền sản, lớn hay nhỏ, đều đã được luật pháp quốc gia bảo vệ, thì không gì phi lý hơn. Theo Smith, chế độ này dựa trên một giả định phi lý nhất: rằng các thế hệ sau không có quyền ngang nhau đối với đất và mọi thứ đất có, mà tài sản của thế hệ đang sống phải bị hạn chế và điều tiết theo ý muốn của những người đã chết, có khi từ 500 năm trước.
+
+Dù vậy, thừa kế cố định vẫn được tôn trọng ở phần lớn châu Âu, đặc biệt ở những nước mà dòng dõi quý tộc là điều kiện để giữ các chức vụ dân sự hay quân sự. Ở đó, nó được coi là cần thiết để giới quý tộc giữ độc quyền đối với các chức vị cao. Luật Anh ghét các quyền vĩnh viễn ràng buộc tài sản qua nhiều đời hơn bất kỳ chế độ quân chủ nào khác ở châu Âu, nhưng cũng chưa xoá hẳn chúng. Ở Scotland, mức độ ràng buộc rất lớn: hơn một phần năm (1/5), có lẽ tới một phần ba (1/3) diện tích đất đai của cả nước đang bị ràng buộc bởi thừa kế cố định.
 
 ### 4. Đại điền chủ không phải người cải tạo
 
-- Hậu quả: những vùng đất rộng lớn chưa khai phá bị vài gia đình nắm giữ, và khả năng chia nhỏ chúng gần như bị loại trừ.
-- Hiếm khi một đại điền chủ là người cải tạo lớn. Trong thời loạn, ông chỉ lo bảo vệ đất mình và mở rộng quyền lực sang đất láng giềng, không có thì giờ cho canh tác. Khi trật tự được lập và ông có thì giờ, ông thường thiếu khuynh hướng và khả năng.
-- Nếu chi tiêu gia đình ngang hoặc vượt thu nhập, như thường xảy ra, ông không có vốn. Nếu ông là người biết tính toán, ông thường thấy có lợi hơn khi dùng tiền tiết kiệm hằng năm để mua thêm đất hơn là cải tạo đất cũ.
-- Cải tạo đất có lợi nhuận, như mọi việc buôn bán, đòi hỏi chú ý sát đến những khoản tiết kiệm nhỏ và những khoản lời nhỏ, điều mà người sinh ra trong cơ ngơi lớn, dù tằn tiện, hiếm khi làm được. Hoàn cảnh của ông tự nhiên hướng ông tới việc trang trí làm vui mắt hơn là tìm lợi nhuận mà ông không cần. Từ bé ông đã quen với sự sang trọng trong y phục, xe ngựa, nhà cửa, đồ đạc, và thói quen đó theo ông vào cả việc cải tạo đất.
-- Bằng chứng: hãy so các đại điền sản ở Anh còn liên tục nằm trong tay cùng gia đình từ thời phong kiến với đất của các tiểu chủ bên cạnh; không cần lý lẽ nào khác để thấy đại điền sản bất lợi thế nào cho cải tạo.
+Hậu quả trực tiếp của hai thể chế trên là những vùng đất rộng lớn chưa khai phá bị vài gia đình nắm giữ, và khả năng chia nhỏ chúng ra gần như bị loại trừ. Câu hỏi tiếp theo là: nếu đất nằm trong tay đại điền chủ, liệu họ có tự cải tạo đất không? Smith trả lời là hiếm khi, và nêu bốn lý do.
+
+- **Thời gian và khả năng.** Trong thời loạn, đại điền chủ chỉ lo bảo vệ đất của mình và mở rộng quyền lực sang đất láng giềng, không có thì giờ cho việc canh tác. Khi trật tự đã được lập lại và ông có thì giờ, ông thường không có khuynh hướng và không có khả năng làm việc đó.
+- **Vốn.** Chi tiêu của gia đình ông thường ngang hoặc vượt thu nhập, nên ông không có vốn để bỏ vào đất.
+- **Lựa chọn đầu tư.** Nếu ông là người biết tính toán, tằn tiện trong quản lý gia sản, ông thường thấy dùng tiền tiết kiệm hằng năm để mua thêm đất mới có lợi hơn là cải tạo đất cũ.
+- **Thói quen và sở thích.** Cải tạo đất có lợi nhuận, cũng như mọi việc buôn bán, đòi hỏi chú ý sát sao đến những khoản tiết kiệm nhỏ và những khoản lời nhỏ. Người sinh ra trong một cơ ngơi lớn, dù có tằn tiện, hiếm khi làm được điều đó. Hoàn cảnh tự nhiên hướng ông tới việc trang trí làm vui mắt hơn là tìm lợi nhuận mà ông không cần đến. Từ nhỏ ông đã quen với sự sang trọng trong y phục, xe ngựa, nhà cửa, đồ đạc, và thói quen ấy theo ông vào cả việc cải tạo đất: ông chi tiền để đất đẹp hơn chứ không phải để đất sinh lời hơn.
+
+Bằng chứng Smith đưa ra là một phép so sánh mà ai cũng có thể tự làm: hãy nhìn các đại điền sản ở Anh còn nằm liên tục trong tay cùng một gia đình từ thời phong kiến, rồi nhìn đất của các tiểu chủ ngay bên cạnh. Theo Smith, không cần lý lẽ nào khác để thấy đại điền sản bất lợi cho việc cải tạo đất đến mức nào. Ở đây Smith ngầm đặt tiểu chủ, người sở hữu và tự canh tác một mảnh đất nhỏ, làm chuẩn so sánh: đó là người cải tạo đất giỏi nhất.
 
 ### 5. Nô lệ và nông nô: lao động đắt nhất
 
-- Nếu khó trông vào đại điền chủ, càng khó trông vào người canh tác dưới quyền ông. Thời xưa, người canh tác đều là người thuê đất tuỳ ý chủ, và đều hoặc gần như đều là nô lệ.
-- Chế độ nô lệ của họ nhẹ hơn nô lệ Hy Lạp, La Mã cổ: họ thuộc về đất hơn là về chủ, chỉ bị bán kèm đất; được lấy vợ chồng nếu chủ đồng ý và sau đó chủ không được bán tách vợ chồng; chủ gây thương tật hay giết họ thì bị phạt, dù thường nhẹ.
-- Nhưng họ không được có tài sản: mọi thứ họ tích được thuộc về chủ, chủ có thể lấy đi. Mọi việc cải tạo do họ làm thực chất là việc của chủ, bằng vốn của chủ (hạt giống, gia súc, công cụ); sản phẩm thuộc về chủ; nô lệ chỉ được nuôi.
-- Loại nô lệ này còn ở Nga, Ba Lan, Hungary, Bohemia, Moravia và nhiều vùng Đức. Chỉ ở các vùng phía tây và tây nam châu Âu nó mới dần bị xoá.
-- Kinh nghiệm mọi thời đại và dân tộc cho thấy lao động nô lệ, dù tưởng chỉ tốn tiền nuôi, cuối cùng là đắt nhất. Người không được có tài sản thì không có lợi ích nào ngoài ăn càng nhiều càng tốt và làm càng ít càng tốt. Phần việc vượt quá sinh kế của họ chỉ có thể bị ép bằng bạo lực.
-- Bằng chứng cổ đại: Pliny và Columella ghi nhận nông nghiệp Ý cổ suy đồi và không có lời cho chủ khi giao cho nô lệ. Aristotle nhận định tương tự về Hy Lạp, khi bình luận nhà nước lý tưởng trong *Luật* của Plato: để nuôi 5.000 người không làm (số chiến binh cần thiết để bảo vệ nhà nước), cùng vợ con và người hầu của họ, sẽ cần một vùng đất mênh mông và phì nhiêu như đồng bằng Babylon.
+Nếu khó trông vào đại điền chủ, càng khó trông vào những người canh tác dưới quyền ông. Thời xưa, người canh tác đều là người thuê đất tuỳ ý chủ, tức có thể bị đuổi bất cứ lúc nào, và đều hoặc gần như đều là nô lệ.
+
+Chế độ nô lệ của họ nhẹ hơn chế độ nô lệ ở Hy Lạp và La Mã cổ ở mấy điểm:
+
+- Họ thuộc về đất hơn là thuộc về người chủ, nên chỉ có thể bị bán kèm theo đất, không bán riêng.
+- Họ được lấy vợ lấy chồng nếu chủ đồng ý, và sau đó chủ không được bán tách vợ chồng họ.
+- Chủ gây thương tật hay giết họ thì bị phạt, dù hình phạt thường nhẹ.
+
+Nhưng điểm quyết định là họ không được có tài sản. Mọi thứ họ tích được đều thuộc về chủ, và chủ có thể lấy đi bất cứ lúc nào. Vì vậy, mọi việc cải tạo đất do họ làm thực chất là việc của chủ, bằng vốn của chủ: chủ ứng trước hạt giống, gia súc, công cụ; chủ hưởng toàn bộ sản phẩm; người nô lệ chỉ được nuôi ăn hằng ngày.
+
+Loại nô lệ này thời Smith vẫn còn ở Nga, Ba Lan, Hungary, Bohemia, Moravia và nhiều vùng của Đức. Chỉ ở các vùng phía tây và tây nam châu Âu nó mới dần bị xoá bỏ.
+
+Từ đó Smith đưa ra một kết luận ngược với cảm nhận thông thường. Người ta tưởng lao động nô lệ rẻ vì chỉ tốn tiền nuôi. Nhưng kinh nghiệm của mọi thời đại và mọi dân tộc cho thấy, tính cho cùng, đó là lao động đắt nhất. Lý do nằm ở động cơ: người không được có tài sản thì không có lợi ích nào khác ngoài ăn càng nhiều càng tốt và làm càng ít càng tốt. Phần việc vượt quá mức cần để nuôi sống họ chỉ có thể bị ép ra bằng bạo lực, chứ không thể trông vào ý muốn của chính họ. Vì vậy, tính trên mỗi đơn vị sản phẩm, chi phí thật (bao gồm cả chi phí giám sát và cưỡng ép) là cao nhất.
+
+Smith dẫn bằng chứng từ thời cổ đại:
+
+- Pliny và Columella ghi nhận rằng nông nghiệp Ý cổ đã suy đồi và không đem lại lời cho chủ khi bị giao hết cho nô lệ.
+- Aristotle nhận định tương tự về Hy Lạp khi bình luận nhà nước lý tưởng mà Plato mô tả trong cuốn *Luật*. Để nuôi 5.000 người không làm việc sản xuất (số chiến binh cần thiết để bảo vệ nhà nước), cùng vợ con và người hầu của họ, bằng lao động nô lệ, sẽ cần một vùng đất mênh mông và phì nhiêu như đồng bằng Babylon. Ý của Smith: nông nghiệp bằng nô lệ năng suất thấp đến mức chỉ một vùng đất cực kỳ màu mỡ mới gánh nổi.
 
 ### 6. Vì sao nô lệ vẫn tồn tại: kiêu hãnh và lợi nhuận cây trồng
 
-- Lòng kiêu hãnh khiến con người thích thống trị, và không gì làm họ khó chịu hơn phải hạ mình thuyết phục người dưới. Vì vậy, nơi luật cho phép và tính chất công việc chịu được, người ta thích dùng nô lệ hơn người làm thuê tự do.
-- Trồng mía và thuốc lá chịu được chi phí của lao động nô lệ; trồng ngũ cốc thời nay thì không. Ở các thuộc địa Anh chủ yếu trồng ngũ cốc, phần lớn công việc do người tự do làm. Việc giáo hữu Quakers ở Pennsylvania gần đây quyết định trả tự do cho toàn bộ nô lệ da đen của họ đủ cho thấy số nô lệ đó không thể nhiều; nếu nô lệ là phần đáng kể tài sản của họ, nghị quyết ấy đã không bao giờ được thông qua.
-- Ở các thuộc địa trồng mía, toàn bộ công việc do nô lệ làm; ở thuộc địa trồng thuốc lá, phần rất lớn. Lợi nhuận của đồn điền mía ở Tây Ấn thường lớn hơn bất kỳ cây trồng nào khác được biết ở châu Âu hay châu Mỹ; thuốc lá kém mía nhưng hơn ngũ cốc. Cả hai chịu được chi phí lao động nô lệ, mía chịu được tốt hơn. Vì vậy số người da đen luôn đông hơn người da trắng ở các thuộc địa mía, và ở thuộc địa thuốc lá cũng tương đối nhiều.
+Nếu lao động nô lệ đắt nhất, vì sao người ta vẫn dùng nó? Smith đưa ra hai câu trả lời, một về tâm lý và một về kinh tế.
+
+Câu trả lời tâm lý là lòng kiêu hãnh. Con người thích được thống trị, và không gì làm họ khó chịu hơn việc phải hạ mình thuyết phục người dưới. Với người làm thuê tự do, chủ phải thương lượng, phải trả công đủ để giữ người; với nô lệ, chủ chỉ cần ra lệnh. Vì vậy, ở nơi luật cho phép và tính chất công việc chịu được, người ta thích dùng nô lệ hơn người làm thuê tự do.
+
+Câu trả lời kinh tế là chỉ những cây trồng có lợi nhuận rất cao mới "gánh nổi" chi phí của lao động nô lệ. Smith xếp hạng lợi nhuận: mía cao nhất, rồi đến thuốc lá, rồi đến ngũ cốc. Lợi nhuận của đồn điền mía ở Tây Ấn thường lớn hơn bất kỳ cây trồng nào khác được biết ở châu Âu hay châu Mỹ; thuốc lá kém mía nhưng hơn ngũ cốc. Tỷ lệ nô lệ ở các thuộc địa Anh khớp với thứ hạng ấy:
+
+| Loại thuộc địa | Lợi nhuận cây trồng | Lao động |
+|---|---|---|
+| Trồng mía | Cao nhất | Toàn bộ công việc do nô lệ làm; người da đen đông hơn người da trắng |
+| Trồng thuốc lá | Thấp hơn mía, cao hơn ngũ cốc | Phần rất lớn công việc do nô lệ làm; người da đen cũng tương đối nhiều |
+| Trồng ngũ cốc | Thấp nhất | Phần lớn công việc do người tự do làm |
+
+Một bằng chứng cụ thể cho dòng cuối: các giáo hữu Quakers ở Pennsylvania (một thuộc địa trồng ngũ cốc) gần đây đã quyết định trả tự do cho toàn bộ nô lệ da đen của họ. Smith lập luận rằng chính quyết định ấy đủ cho thấy chắc chắn số nô lệ của họ không thể nhiều: nếu nô lệ là một phần đáng kể tài sản của họ, nghị quyết ấy đã không bao giờ được thông qua. Nói cách khác, ở nơi trồng ngũ cốc, nô lệ không đáng giá đến mức người ta phải giữ lại bằng mọi giá.
+
+Kết luận của mục: cả mía lẫn thuốc lá đều chịu được chi phí của lao động nô lệ, mía chịu được tốt hơn; còn ngũ cốc thời Smith thì không.
 
 ### 7. Tá điền chia đôi: tự do nhưng không bỏ vốn
 
-- Thay cho nô lệ thời xưa là loại người canh tác mà ở Pháp hiện gọi là metayer, tiếng Latin là coloni partiarii. Ở Anh đã lâu không dùng nên không có từ tiếng Anh tương ứng.
-- Chủ đất cung cấp cho metayer hạt giống, gia súc, công cụ, tức toàn bộ vốn canh tác. Sản phẩm, sau khi trừ phần cần để duy trì vốn, chia đều giữa chủ và người canh tác. Vốn trả lại chủ khi metayer thôi làm hay bị đuổi.
-- Đất do metayer canh tác, cũng như đất do nô lệ canh tác, được cải tạo bằng vốn của chủ. Nhưng khác biệt cơ bản: metayer là người tự do, có thể có tài sản, có phần trong sản phẩm, nên có lợi ích trực tiếp trong việc tăng sản lượng để phần của mình lớn lên. Nô lệ chỉ được nuôi, không có lợi ích nào ngoài việc làm ra vừa đủ hơn phần nuôi mình.
-- Có lẽ một phần vì lợi thế này, một phần vì nhà vua, luôn ghen với các lãnh chúa, dần khuyến khích nông nô lấn quyền lãnh chúa, đến mức chế độ nông nô cuối cùng trở nên bất tiện, mà nông nô dần biến mất ở phần lớn châu Âu. Thời gian và cách thức của bước ngoặt này vẫn là một trong những điểm mù mờ nhất của lịch sử cận đại.
-- Giáo hội La Mã nhận nhiều công lao; ngay từ thế kỷ 12, Giáo hoàng Alexander III đã ra sắc lệnh giải phóng nô lệ. Nhưng đó là lời khuyên răn đạo đức hơn là luật buộc phải theo. Chế độ nô lệ còn tồn tại phổ biến nhiều thế kỷ, cho đến khi bị xoá dần bởi tác động kết hợp của hai lợi ích nói trên: lợi ích của chủ đất và lợi ích của nhà vua.
-- Một nông nô được giải phóng và tiếp tục canh tác đất cũ, không có vốn, chỉ có thể làm bằng vốn chủ ứng trước, và do đó trở thành metayer.
+Thay thế cho nô lệ thời xưa, dần dần xuất hiện một loại người canh tác mà ở Pháp thời Smith gọi là metayer, tiếng Latin là coloni partiarii. Ở Anh loại này đã không được dùng từ lâu, nên tiếng Anh không có từ tương ứng; tiếng Việt thường gọi là tá điền chia đôi.
+
+Cách hoạt động như sau:
+
+| Yếu tố | Ai cung cấp, ai hưởng |
+|---|---|
+| Hạt giống, gia súc, công cụ (toàn bộ vốn canh tác) | Chủ đất cung cấp |
+| Sức lao động | Tá điền |
+| Phần sản phẩm cần để giữ nguyên vốn | Trừ ra trước |
+| Phần sản phẩm còn lại | Chia đều 1/2 cho chủ, 1/2 cho tá điền |
+| Vốn khi tá điền thôi làm hoặc bị đuổi | Trả lại cho chủ |
+
+Đất do metayer canh tác, cũng như đất do nô lệ canh tác, được cải tạo bằng vốn của chủ. Nhưng giữa hai loại có một khác biệt cơ bản. Metayer là người tự do, có thể có tài sản riêng, và có một phần trong sản phẩm, nên họ có lợi ích trực tiếp trong việc làm cho tổng sản lượng tăng lên để phần của mình lớn hơn. Nô lệ chỉ được nuôi, nên không có lợi ích nào ngoài việc làm ra vừa đủ hơn phần nuôi mình.
+
+Vì sao chế độ nông nô dần biến mất ở phần lớn châu Âu? Smith nêu hai nguyên nhân có lẽ kết hợp với nhau:
+
+1. Lợi thế vừa nói của metayer so với nô lệ, khiến chủ đất có lợi khi chuyển sang hình thức này.
+2. Nhà vua, vốn luôn ghen với quyền lực của các lãnh chúa, dần khuyến khích nông nô lấn quyền lãnh chúa, cho đến khi chế độ nông nô trở nên bất tiện cho chính lãnh chúa.
+
+Smith thừa nhận rằng thời điểm và cách thức của bước ngoặt này vẫn là một trong những điểm mù mờ nhất của lịch sử cận đại.
+
+Giáo hội La Mã nhận nhiều công lao trong việc này. Ngay từ thế kỷ 12, Giáo hoàng Alexander III đã ra sắc lệnh giải phóng nô lệ. Nhưng Smith nhận xét đó là một lời khuyên răn đạo đức hơn là một luật mà mọi người buộc phải theo. Chế độ nô lệ vẫn tồn tại phổ biến thêm nhiều thế kỷ, cho đến khi bị xoá dần bởi tác động kết hợp của hai lợi ích nói trên: lợi ích của chủ đất và lợi ích của nhà vua.
+
+Con đường từ nông nô sang metayer rất tự nhiên. Một nông nô được giải phóng nhưng tiếp tục canh tác mảnh đất cũ thì không có vốn của riêng mình. Anh ta chỉ có thể canh tác bằng vốn mà chủ đất ứng trước, và do đó trở thành metayer.
 
 ### 8. Giới hạn của metayer: "thuế" 50% trên mọi cải tạo
 
-- Metayer không bao giờ có lợi khi bỏ phần vốn nhỏ tiết kiệm được của mình vào cải tạo đất, vì chủ không bỏ ra gì mà vẫn lấy một nửa phần sản phẩm tăng thêm.
-- So sánh: thuế thập phân, chỉ lấy 1/10 sản phẩm, đã được coi là trở ngại rất lớn cho cải tạo. Một khoản lấy đi 1/2 hẳn là trở ngại hữu hiệu. Metayer có lợi khi làm cho đất sinh nhiều nhất có thể bằng vốn của chủ, nhưng không có lợi khi trộn vốn của mình vào.
-- Ở Pháp, nơi 5/6 đất do metayer canh tác, chủ đất phàn nàn rằng metayer tận dụng mọi dịp để dùng gia súc của chủ đi chở hàng thuê thay vì cày, vì tiền chở hàng họ giữ trọn, còn lợi nhuận canh tác thì phải chia đôi.
-- Loại tá điền này còn ở vài vùng Scotland, gọi là tá điền steel-bow. Các tá điền Anh thời xưa mà Chánh án Gilbert và Tiến sĩ Blackstone cho là quản gia của chủ đất hơn là nông dân thuê đất đúng nghĩa có lẽ cũng thuộc loại này.
+Metayer tốt hơn nô lệ, nhưng vẫn có một giới hạn lớn. Họ không bao giờ có lợi khi bỏ phần vốn nhỏ tiết kiệm được của mình vào việc cải tạo đất, vì chủ đất không bỏ ra gì mà vẫn lấy một nửa phần sản phẩm tăng thêm.
+
+Smith so sánh với thuế thập phân nộp cho Giáo hội. Thuế thập phân chỉ lấy 1/10 sản phẩm mà đã được coi là một trở ngại rất lớn cho việc cải tạo đất. Một khoản lấy đi 1/2 sản phẩm tăng thêm hẳn là một trở ngại còn hữu hiệu hơn nhiều, đủ để chặn đứng việc cải tạo.
+
+**Ví dụ minh hoạ** (con số do người tổng hợp đặt ra để làm rõ lập luận). Một metayer có thể bỏ 40 đồng tiền tiết kiệm của mình để đào mương, và việc đó làm thu hoạch mỗi năm tăng thêm giá trị 60 đồng trong một năm. Nếu là chủ tự canh tác, người đó lời 20 đồng. Nhưng là metayer, anh ta chỉ giữ 30 đồng, ít hơn 40 đồng đã bỏ ra, nên lỗ 10 đồng. Còn chủ đất không bỏ đồng nào vẫn nhận 30 đồng. Một khoản đầu tư có lời cho xã hội trở thành khoản lỗ cho người phải bỏ tiền.
+
+Vì vậy, metayer có lợi khi làm cho đất sinh ra nhiều nhất có thể bằng vốn của chủ, nhưng không có lợi khi trộn vốn của mình vào.
+
+Smith thêm một bằng chứng từ nước Pháp, nơi 5/6 đất đai do metayer canh tác. Chủ đất ở đó phàn nàn rằng metayer tận dụng mọi dịp để dùng gia súc của chủ đi chở hàng thuê thay vì cày ruộng. Lý do: tiền công chở hàng thì metayer giữ trọn, còn lợi nhuận từ cày cấy thì phải chia đôi với chủ. Như vậy, cấu trúc chia đôi không chỉ làm metayer không bỏ vốn riêng, mà còn khiến họ kéo vốn của chủ ra khỏi nông nghiệp sang những việc không bị chia.
+
+Loại tá điền này vẫn còn ở vài vùng Scotland, gọi là tá điền steel-bow (canh tác bằng vốn, gia súc mượn của chủ). Smith cho rằng các tá điền Anh thời xưa mà Chánh án Gilbert và Tiến sĩ Blackstone mô tả là quản gia của chủ đất hơn là nông dân thuê đất đúng nghĩa có lẽ cũng thuộc loại này.
 
 ### 9. Nông dân thuê đất đúng nghĩa và vấn đề an toàn quyền thuê
 
-- Kế tiếp metayer, dù chậm, là nông dân thuê đất đúng nghĩa: canh tác bằng vốn riêng, trả tô cho chủ. Khi có hợp đồng nhiều năm, họ có thể thấy có lợi khi bỏ vốn cải tạo, vì kỳ vọng thu hồi vốn và lãi lớn trước khi hết hạn.
-- Nhưng quyền thuê của họ lâu nay rất bấp bênh, và ở nhiều nơi vẫn vậy. Họ có thể bị đuổi trước hạn khi đất được bán cho người mua mới; ở Anh, thậm chí bằng một vụ kiện giả. Nếu bị chủ đuổi trái phép bằng bạo lực, vụ kiện để đòi lại chỉ cho họ tiền bồi thường, không bao giờ cho lấy lại đất, và bồi thường không bao giờ bằng thiệt hại thật.
-- Ngay ở Anh, nước mà tầng lớp tiểu nông được tôn trọng nhất, mãi đến khoảng năm thứ 14 triều Henry VII mới có tố quyền đòi lại đất (action of ejectment), qua đó tá điền được nhận lại cả đất lẫn bồi thường, và yêu cầu của họ không nhất thiết bị phán quyết dứt điểm bởi một phiên toà duy nhất. Tố quyền này hiệu quả đến mức ngày nay, khi chủ đất muốn kiện đòi đất, ông ít khi dùng các tố quyền vốn có của chủ đất (writ of right, writ of entry) mà nhân danh tá điền của mình kiện bằng tố quyền đòi lại đất. Ở Anh, vì vậy, an toàn của tá điền ngang với an toàn của chủ.
-- Hơn nữa, ở Anh, một hợp đồng thuê suốt đời trị giá 40 shilling một năm được coi là đất tự do (freehold) và cho người thuê quyền bầu nghị sĩ. (1 bảng = 20 shilling.) Vì phần lớn tiểu nông có loại quyền thuê này, cả tầng lớp được chủ đất nể vì ảnh hưởng chính trị.
-- Smith tin rằng không nơi nào ở châu Âu ngoài Anh có chuyện tá điền xây nhà trên đất mà mình không có hợp đồng thuê, tin rằng danh dự của chủ đất sẽ ngăn ông lợi dụng một cải tạo quan trọng như vậy.
-- Kết luận nổi tiếng: những luật và tập quán có lợi cho tầng lớp tiểu nông có lẽ đã góp vào sự vĩ đại hiện nay của nước Anh nhiều hơn tất cả các quy định thương mại được ca ngợi gộp lại.
+Kế tiếp metayer, dù xuất hiện chậm, là nông dân thuê đất đúng nghĩa: họ canh tác bằng vốn riêng và trả cho chủ một khoản tô. Vì tô cố định, phần tăng thêm nhờ cải tạo thuộc về họ. Khi có hợp đồng thuê nhiều năm, họ có thể thấy có lợi khi bỏ một phần vốn vào cải tạo đất, vì kỳ vọng thu hồi được vốn cùng một khoản lãi lớn trước khi hợp đồng hết hạn.
+
+Nhưng quyền thuê của họ lâu nay rất bấp bênh, và ở nhiều nơi vẫn vậy. Smith nêu ba nguồn bất an:
+
+- Họ có thể bị lấy lại đất trước hạn khi đất được bán cho một người chủ mới. Ở Anh xưa, đất thậm chí có thể bị lấy lại bằng một vụ kiện giả dựng lên cho có thủ tục.
+- Nếu bị chủ đuổi trái phép bằng bạo lực, vụ kiện để đòi quyền lợi chỉ cho họ tiền bồi thường, không bao giờ cho họ lấy lại đất.
+- Tiền bồi thường ấy không bao giờ bằng thiệt hại thật, nhất là thiệt hại của khoản vốn đã bỏ vào đất.
+
+Nước Anh là nơi thay đổi điều này sớm nhất, dù cũng muộn. Ngay ở Anh, nước mà tầng lớp tiểu nông được tôn trọng nhất, phải đến khoảng năm thứ 14 triều vua Henry VII mới xuất hiện tố quyền đòi lại đất (action of ejectment). Với tố quyền này, tá điền bị đuổi trái phép được nhận lại cả đất lẫn tiền bồi thường, và yêu cầu của họ không nhất thiết bị phán quyết dứt điểm chỉ bởi một phiên toà. Tố quyền này hiệu quả đến mức thời Smith, khi chủ đất muốn kiện đòi đất, ông ít khi dùng các tố quyền vốn dành cho chủ đất (writ of right, writ of entry), mà mượn danh nghĩa tá điền của mình để kiện bằng tố quyền đòi lại đất. Vì vậy, ở Anh, an toàn của người thuê đất ngang với an toàn của chủ đất.
+
+Hơn nữa, ở Anh, một hợp đồng thuê suốt đời có giá trị 40 shilling mỗi năm được coi là đất tự do (freehold), và cho người thuê quyền bầu nghị sĩ (1 bảng Anh = 20 shilling, nên 40 shilling tương đương 2 bảng). Vì phần lớn tiểu nông có loại quyền thuê này, cả tầng lớp của họ trở nên đáng nể đối với chủ đất, nhờ ảnh hưởng chính trị mà lá phiếu đem lại. Ở đây quyền chính trị và quyền kinh tế củng cố nhau: chủ đất phải đối xử tử tế với người có phiếu bầu.
+
+Smith tin rằng không nơi nào ở châu Âu ngoài Anh có chuyện tá điền dám xây nhà trên đất mà mình không có hợp đồng thuê, tin rằng danh dự của chủ đất sẽ ngăn ông lợi dụng một cải tạo quan trọng như vậy để lấy về cho mình.
+
+Mục này kết bằng một nhận định nổi tiếng của Smith: những luật lệ và tập quán có lợi cho tầng lớp tiểu nông có lẽ đã góp vào sự vĩ đại hiện nay của nước Anh nhiều hơn tất cả các quy định thương mại được ca ngợi gộp lại.
 
 ### 10. Ngoài nước Anh: hợp đồng ngắn và luật do chủ đất làm
 
-- Luật bảo vệ hợp đồng thuê dài hạn trước người kế thừa là đặc thù của Anh. Ở Scotland nó được đưa vào từ năm 1449 bằng luật của James II, nhưng tác dụng bị chế độ thừa kế cố định cản: người thừa kế đất cố định thường bị cấm cho thuê dài hạn, nhiều khi không quá một năm. Một đạo luật nghị viện gần đây nới bớt, nhưng vẫn còn quá chặt. Ở Scotland, quyền thuê không cho quyền bầu cử, nên tiểu nông không được chủ đất nể như ở Anh.
-- Ở các nước khác, sau khi người thuê được bảo vệ trước người kế thừa và người mua, thời hạn bảo vệ vẫn ngắn: ở Pháp là 9 năm, sau kéo dài thành 27 năm, vẫn quá ngắn để khuyến khích các cải tạo quan trọng.
-- Nguyên nhân: ở mọi nước châu Âu, chủ đất từ xưa là người làm luật, nên luật về đất được tính để có lợi cho chủ đất. Họ cho rằng hợp đồng do bậc tiền bối ký không được cản họ hưởng trọn giá trị đất trong thời gian dài. Nhưng tham lam và bất công luôn thiển cận: họ không thấy rằng luật đó cản trở cải tạo và về lâu dài làm hại chính lợi ích thật của họ.
+Luật bảo vệ hợp đồng thuê dài hạn trước người thừa kế của chủ đất là đặc thù của Anh. Smith so sánh với các nơi khác:
+
+| Nơi | Mức bảo vệ người thuê | Hạn chế |
+|---|---|---|
+| Anh | Hợp đồng được bảo vệ trước người thừa kế và người mua; có tố quyền đòi lại đất; thuê suốt đời 40 shilling cho quyền bầu cử | Đã gần như đầy đủ |
+| Scotland | Luật năm 1449 của vua James II bảo vệ hợp đồng dài hạn trước người kế thừa | Người thừa kế đất theo chế độ thừa kế cố định thường bị cấm cho thuê dài hạn, nhiều khi không quá 1 năm; một đạo luật nghị viện gần đây nới bớt nhưng vẫn quá chặt; quyền thuê không cho quyền bầu cử |
+| Pháp | Thời hạn được bảo vệ lúc đầu là 9 năm, sau kéo dài thành 27 năm | Vẫn quá ngắn để khuyến khích các cải tạo quan trọng |
+
+Trường hợp Scotland cho thấy các thể chế đan vào nhau ra sao: một luật tốt (bảo vệ hợp đồng dài hạn) bị một thể chế khác (thừa kế cố định) vô hiệu hoá, vì người giữ đất không được phép ký hợp đồng dài. Và vì quyền thuê ở Scotland không đi kèm quyền bầu cử, tiểu nông ở đó không được chủ đất nể như ở Anh.
+
+Vì sao ở mọi nơi luật lại bất lợi cho người thuê? Smith trả lời: ở mọi nước châu Âu, chủ đất từ xưa là người làm luật, nên luật về đất được tính toán để có lợi cho chủ đất. Họ cho rằng một hợp đồng do bậc tiền bối ký không được cản họ hưởng trọn giá trị đất trong thời gian dài. Nhưng, theo câu nói nổi tiếng của Smith, tham lam và bất công luôn thiển cận: họ không thấy rằng luật như vậy cản trở việc cải tạo đất, và về lâu dài làm hại chính lợi ích thật của họ, vì đất được cải tạo thì tô mới tăng.
 
 ### 11. Lao dịch, trưng mua và thuế
 
-- Ngoài tô, người thuê còn phải làm một số dịch vụ cho chủ, hiếm khi ghi trong hợp đồng, tuỳ ý thích và thói quen của chủ thái ấp. Các dịch vụ này hoàn toàn tuỳ tiện và rất phiền nhiễu. Ở Scotland, mọi dịch vụ không ghi rõ trong hợp đồng mới bị bãi bỏ vài năm nay, làm tình cảnh tá điền ở đó tốt lên nhiều.
-- Lao dịch công cũng tuỳ tiện không kém: sửa đường xá; khi quân đội, cung đình hay quan chức nhà vua đi qua, tá điền phải cung cấp ngựa, xe, lương thực theo giá do người thu mua quy định (purveyance). Anh là nước quân chủ duy nhất ở châu Âu đã bãi bỏ hoàn toàn sự áp bức của trưng mua; Pháp và Đức vẫn còn.
-- Thuế: lãnh chúa xưa không muốn tự nộp gì cho vua nhưng sẵn lòng để vua đánh thuế tá điền của họ, không thấy rằng thuế đó cuối cùng ảnh hưởng đến thu nhập của chính họ.
-- Taille ở Pháp là ví dụ: một thứ thuế đánh vào lợi nhuận ước tính của người canh tác, dựa trên vốn họ có trên trang trại. Hệ quả: người canh tác phải tỏ ra nghèo, dùng càng ít vốn càng tốt, và càng ít vốn hơn cho cải tạo. Nếu một nông dân Pháp tích luỹ được chút vốn, thuế gần như cấm anh dùng vốn đó vào đất. Thuế còn bị coi là làm mất thể diện, hạ người nộp xuống dưới không chỉ quý ông mà cả thị dân; không quý ông hay thị dân nào chịu nộp. Vì vậy nó không chỉ chặn vốn tích luỹ trên đất mà đuổi mọi vốn khác khỏi đất.
-- Thuế một phần mười và một phần mười lăm, rất phổ biến ở Anh xưa, cũng là thuế cùng loại.
-- Tổng hợp: với chừng ấy trở ngại, người canh tác dù đã được luật bảo vệ tự do vẫn phải cải tạo đất trong những điều kiện rất bất lợi.
+Ngoài tô, người canh tác còn chịu nhiều gánh nặng khác.
+
+**Lao dịch tư.** Người thuê đất phải làm một số dịch vụ cho chủ, hiếm khi được ghi trong hợp đồng, mà tuỳ vào ý thích và thói quen của chủ thái ấp. Vì không ghi rõ, các dịch vụ này hoàn toàn tuỳ tiện và gây phiền nhiễu lớn. Ở Scotland, mọi dịch vụ không ghi rõ trong hợp đồng mới bị bãi bỏ vài năm nay, và việc đó đã làm tình cảnh tá điền ở đó tốt lên nhiều.
+
+**Lao dịch công và trưng mua.** Các nghĩa vụ đối với nhà nước cũng tuỳ tiện không kém. Tá điền phải đi sửa đường xá. Khi quân đội, cung đình hay quan chức của nhà vua đi qua, tá điền phải cung cấp ngựa, xe và lương thực theo giá do chính người thu mua quy định (purveyance, trưng mua). Anh là nước quân chủ duy nhất ở châu Âu đã bãi bỏ hoàn toàn sự áp bức của trưng mua; ở Pháp và Đức nó vẫn còn.
+
+**Thuế.** Các lãnh chúa xưa không muốn tự mình nộp gì cho nhà vua, nhưng lại sẵn lòng để vua đánh thuế tá điền của họ. Họ không thấy rằng thuế đánh vào tá điền cuối cùng sẽ làm giảm thu nhập của chính họ, vì tá điền nghèo đi thì trả tô ít đi.
+
+Thuế taille ở Pháp là ví dụ rõ nhất. Đây là thuế đánh vào lợi nhuận ước tính của người canh tác, mà lợi nhuận được ước tính dựa trên số vốn họ có trên trang trại. Hậu quả nối tiếp nhau như sau:
+
+1. Người canh tác có lợi khi tỏ ra nghèo, nên dùng càng ít vốn càng tốt vào canh tác, và càng ít hơn nữa vào cải tạo đất.
+2. Nếu một nông dân Pháp tích luỹ được chút vốn, thuế này gần như cấm anh ta dùng vốn đó vào đất của mình.
+3. Thuế còn bị coi là làm mất thể diện: người nộp bị xếp dưới không chỉ quý ông mà cả thị dân. Không quý ông hay thị dân nào chịu nộp nó.
+4. Vì vậy, taille không chỉ chặn vốn đã tích luỹ trên đất ở lại với đất, mà còn đuổi mọi vốn khác (của quý ông, thị dân) ra khỏi nghề nông.
+
+Thuế một phần mười và một phần mười lăm (1/10 và 1/15), rất phổ biến ở Anh xưa, cũng là thuế cùng loại, đánh theo tài sản nhìn thấy được.
+
+Smith tổng hợp: với chừng ấy trở ngại, người canh tác, dù đã được luật bảo vệ quyền tự do của mình, vẫn phải cải tạo đất trong những điều kiện rất bất lợi.
 
 ### 12. Tá điền so với chủ tự canh tác, và vì sao vốn không vào nông nghiệp
 
-- Tá điền so với chủ tự canh tác giống như nhà buôn bằng vốn vay so với nhà buôn bằng vốn mình: cả hai vốn đều sinh lời, nhưng vốn của người thứ nhất, với cùng năng lực, luôn tăng chậm hơn vì phần lớn lợi nhuận phải trả lãi. Tương tự, đất do tá điền canh tác được cải tạo chậm hơn đất do chủ tự canh tác.
-- Hơn nữa, địa vị tá điền thấp kém: ở phần lớn châu Âu, tiểu nông bị coi là tầng lớp thấp, thậm chí dưới những thợ thủ công và người buôn khá giả, và không thể so với nhà buôn lớn và chủ xưởng ở bất cứ đâu. Người có vốn đáng kể hiếm khi bỏ địa vị cao hơn để xuống địa vị thấp hơn.
-- Vì vậy, ngay trong tình hình hiện nay của châu Âu, ít vốn có khả năng chảy từ các nghề khác sang cải tạo đất bằng con đường làm tá điền. Có lẽ ở Anh nhiều hơn nơi khác, nhưng ngay ở Anh, các khoản vốn lớn trong nông nghiệp thường được tích luỹ từ chính nông nghiệp, ngành có lẽ tích luỹ vốn chậm nhất trong mọi ngành.
-- Sau các tiểu chủ, các chủ trại lớn giàu có ở mọi nước là người cải tạo chính. Anh có nhiều người loại này hơn bất kỳ nước quân chủ nào khác ở châu Âu. Ở các nhà nước cộng hoà Hà Lan và Berne (Thuỵ Sĩ), nông dân được cho là không kém nông dân Anh.
+Ngay cả khi mọi trở ngại trên được gỡ, tá điền vẫn kém chủ tự canh tác. Smith so sánh: tá điền so với chủ tự canh tác giống như nhà buôn kinh doanh bằng vốn vay so với nhà buôn kinh doanh bằng vốn của mình. Cả hai khoản vốn đều sinh lời, nhưng với cùng năng lực, vốn của người thứ nhất luôn tăng chậm hơn, vì phần lớn lợi nhuận phải dùng để trả lãi. Tô mà tá điền trả cho chủ đóng vai trò như khoản lãi ấy. Tương tự, đất do tá điền canh tác được cải tạo chậm hơn đất do chủ tự canh tác.
+
+Thêm vào đó là địa vị xã hội. Ở phần lớn châu Âu, tiểu nông thuê đất bị coi là một tầng lớp thấp, thậm chí dưới cả những thợ thủ công và người buôn khá giả, và không thể so với các nhà buôn lớn và chủ xưởng ở bất cứ đâu. Người có vốn đáng kể hiếm khi chịu rời một địa vị cao hơn để xuống một địa vị thấp hơn.
+
+Kết hợp hai điều trên, Smith kết luận rằng ngay trong tình hình hiện nay của châu Âu, ít vốn có khả năng chảy từ các nghề khác sang cải tạo đất bằng con đường làm tá điền. Ở Anh có lẽ nhiều hơn các nơi khác, nhưng ngay ở Anh, các khoản vốn lớn trong nông nghiệp thường được tích luỹ từ chính nông nghiệp, mà nông nghiệp có lẽ là ngành tích luỹ vốn chậm nhất trong mọi ngành. Như vậy, nông nghiệp vừa không hút được vốn từ ngoài, vừa tự tích luỹ chậm.
+
+Smith xếp thứ tự những người cải tạo đất: đứng đầu là các tiểu chủ; sau tiểu chủ, ở mọi nước, các chủ trại lớn giàu có là người cải tạo chính. Anh có nhiều người loại này hơn bất kỳ nước quân chủ nào khác ở châu Âu. Ở các nhà nước cộng hoà Hà Lan và Berne (Thuỵ Sĩ), nông dân được cho là không kém nông dân Anh.
 
 ### 13. Chính sách ngũ cốc
 
-- Trên tất cả, chính sách cổ của châu Âu bất lợi cho cải tạo đất, dù do chủ hay tá điền làm: thứ nhất, lệnh cấm chung xuất khẩu ngũ cốc nếu không có giấy phép đặc biệt, gần như phổ biến khắp nơi; thứ hai, những hạn chế đối với buôn bán nội địa, không chỉ ngũ cốc mà gần như mọi nông sản, qua các luật phi lý chống người mua tích trữ và đầu cơ, và qua đặc quyền của các hội chợ, chợ phiên.
-- Smith nhắc lại rằng việc cấm xuất khẩu ngũ cốc cùng với khuyến khích nhập khẩu ngũ cốc đã cản trở nông nghiệp Ý cổ, vùng đất màu mỡ nhất châu Âu và lúc đó là trung tâm của đế quốc mạnh nhất thế giới.
-- Kết luận: những hạn chế buôn bán nội địa cùng lệnh cấm xuất khẩu hẳn đã làm nản lòng nông nghiệp ở những nước đất kém màu mỡ hơn và hoàn cảnh kém thuận lợi hơn còn nhiều hơn thế.
+Trên tất cả các trở ngại kể trên, chính sách cổ của châu Âu còn bất lợi cho việc cải tạo đất, dù do chủ hay tá điền làm, ở hai điểm:
+
+- **Cấm xuất khẩu ngũ cốc.** Lệnh cấm chung xuất khẩu ngũ cốc nếu không có giấy phép đặc biệt, gần như phổ biến khắp nơi.
+- **Hạn chế buôn bán nội địa.** Không chỉ ngũ cốc mà gần như mọi nông sản đều bị hạn chế khi buôn bán trong nước, qua các luật phi lý chống người mua tích trữ (engrossers) và người mua chặn trước khi hàng ra chợ (forestallers), và qua các đặc quyền của hội chợ và chợ phiên.
+
+Cơ chế tác hại là: khi người canh tác chỉ được bán ở một thị trường hẹp, phần sản phẩm làm ra thêm khó bán được với giá tốt, nên lợi nhuận của việc làm ra thêm, tức lợi nhuận của việc cải tạo đất, bị hạ xuống.
+
+Smith nhắc lại một ví dụ lịch sử: việc cấm xuất khẩu ngũ cốc, cộng với khuyến khích nhập khẩu ngũ cốc, đã cản trở nông nghiệp của Ý cổ, dù đó là vùng đất màu mỡ nhất châu Âu và lúc ấy là thủ phủ của đế quốc mạnh nhất thế giới.
+
+Kết luận của chương: nếu chính sách ấy đã kìm hãm được nông nghiệp ở một vùng đất thuận lợi như Ý cổ, thì những hạn chế buôn bán nội địa cùng lệnh cấm xuất khẩu hẳn đã làm nản lòng nông nghiệp còn nhiều hơn ở những nước đất kém màu mỡ hơn và hoàn cảnh kém thuận lợi hơn.
+
+Tóm lại, toàn bộ chương đi qua một chuỗi tầng người và tầng thể chế, và ở mỗi tầng đều chỉ ra cùng một vấn đề: người có thể cải tạo đất không giữ được phần thành quả của việc cải tạo.
+
+| Tầng | Trở ngại chính | Hậu quả với việc cải tạo đất |
+|---|---|---|
+| Quyền sở hữu | Quyền con trưởng, thừa kế cố định | Đất không chia nhỏ, không bán được cho người cải tạo giỏi |
+| Đại điền chủ | Thiếu thì giờ, khả năng, vốn; thích mua thêm đất và trang trí | Ít đầu tư vào chất lượng đất |
+| Nô lệ, nông nô | Không có tài sản | Làm ít nhất có thể; lao động đắt nhất |
+| Metayer | Chủ lấy 1/2 phần tăng thêm | Không bỏ vốn riêng; dùng gia súc của chủ chở hàng thuê |
+| Nông dân thuê đất | Quyền thuê bấp bênh, hợp đồng ngắn | Không kịp thu hồi vốn nên không đầu tư |
+| Gánh nặng ngoài tô | Lao dịch, trưng mua, taille | Giấu vốn, dùng ít vốn, người có vốn tránh nghề nông |
+| Địa vị và chi phí vốn | Tá điền như người buôn bằng vốn vay; bị coi thấp | Vốn ngoài không vào; vốn nông nghiệp tự tích luỹ chậm |
+| Chính sách nhà nước | Cấm xuất khẩu, hạn chế buôn bán ngũ cốc | Thị trường hẹp, giá thấp, lợi nhuận cải tạo thấp |
 
 ## Luận điểm kinh tế cốt lõi
 
