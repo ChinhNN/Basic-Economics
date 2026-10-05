@@ -170,69 +170,146 @@
 2. **Vốn của một quốc gia gồm những bộ phận nào?** Ba phần: vốn tiêu dùng trước mắt (không sinh lợi, kể cả nhà ở), vốn cố định (máy móc, nhà xưởng, đất đã cải tạo, tài năng con người) và vốn luân chuyển (tiền, lương thực, nguyên liệu, thành phẩm chưa bán).
 3. **Ba phần đó quan hệ với nhau thế nào?** Vốn cố định sinh ra từ vốn luân chuyển và chỉ sinh lợi nhờ nó; mục đích duy nhất của cả hai là nuôi vốn tiêu dùng; vốn luân chuyển được bổ sung liên tục bằng sản phẩm của đất đai, mỏ và nghề cá.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Vốn (stock).** Toàn bộ của cải mà một người hay một nước đang nắm trong tay tại một thời điểm: lương thực trong kho, quần áo, đồ đạc, nhà cửa, máy móc, hàng hoá chưa bán, tiền. Chữ "vốn" ở đây rộng hơn nhiều so với "tiền vốn" trong cách nói hằng ngày; phần lớn vốn là hàng hoá, không phải tiền mặt. Ví dụ minh hoạ: một người thợ có 10 bao gạo, một khung cửi và một ít tiền thì cả ba thứ đều là vốn của anh ta. Khái niệm này quan trọng vì cả chương là một bảng phân loại vốn, và bản dịch dùng lẫn "vốn", "tiền vốn", "tư bản" cho cùng một chữ *stock*.
+
+**Tư bản (capital).** Phần vốn được dùng để đem lại lợi tức, tức thu nhập trong tương lai, chứ không để tiêu dùng ngay. Ví dụ minh hoạ: một người có lương thực đủ ăn 12 tháng giữ lại phần đủ ăn 3 tháng, còn phần 9 tháng dùng để thuê thợ hay mua hàng về bán; phần 9 tháng ấy là tư bản. Theo Smith, chỉ người có vốn đủ sống nhiều tháng, nhiều năm mới có tư bản; người chỉ có vốn đủ sống vài ngày hay một tuần sống hoàn toàn bằng lao động. Đây là ranh giới đầu tiên của chương: vốn chỉ thành tư bản khi vượt quá nhu cầu tiêu dùng trước mắt.
+
+**Vốn tiêu dùng trước mắt (stock reserved for immediate consumption).** Phần vốn để dùng cho đời sống và không đem lại lợi tức: lương thực, quần áo, đồ đạc đã mua mà chưa dùng hết, và nhà ở. Ví dụ: một chiếc áo dùng vài năm, một bộ bàn ghế dùng nửa thế kỷ hay một thế kỷ, một ngôi nhà xây chắc dùng nhiều thế kỷ; cả ba đều thuộc loại này, chỉ khác tốc độ hao mòn. Khái niệm này quan trọng vì Smith nói đây là mục đích cuối cùng của mọi loại vốn khác.
+
+**Vốn cố định (fixed capital).** Tư bản sinh lợi mà không đổi chủ: chủ giữ nó lại và dùng nó để làm ra sản phẩm. Ví dụ: chiếc khung cửi của thợ dệt, lò nấu quặng của xưởng luyện sắt, máy bơm nước của mỏ than, đàn bò nuôi lấy sữa. Tiêu chí của Smith là **cách** tài sản sinh lợi chứ không phải hình dạng vật lý của nó, nên cùng một con bò có thể là vốn cố định hoặc không, tuỳ mục đích nuôi.
+
+**Vốn luân chuyển (circulating capital).** Tư bản chỉ sinh lợi khi rời khỏi chủ, tức khi được bán đi, rồi quay lại dưới dạng khác. Ví dụ minh hoạ: nhà buôn bỏ 100 đồng mua vải, bán được 110 đồng, lại dùng tiền đó mua vải mới; chừng nào vải còn nằm trong kho thì nó chưa sinh lợi. Bốn khoản của vốn luân chuyển là tiền, lương thực, nguyên liệu và thành phẩm chưa bán. Khái niệm này quan trọng vì Smith chứng minh mọi vốn cố định đều sinh ra từ vốn luân chuyển và chỉ sinh lợi nhờ nó.
+
+**Tài năng hữu ích đã học được (acquired and useful abilities).** Kỹ năng, tay nghề, hiểu biết mà một người có được nhờ học hành, học nghề. Smith xếp nó vào vốn cố định vì học tốn chi phí thực (phải nuôi người học trong thời gian học), và tay nghề sau đó hoạt động như một cỗ máy làm nhẹ lao động, hoàn lại chi phí cộng lợi nhuận. Ví dụ minh hoạ: nếu nuôi một người học nghề mấy năm tốn một khoản nhất định, thì tiền công cao hơn của người thợ lành nghề sau này phải đủ bù khoản đó cộng một khoản lãi. Kinh tế học hiện đại gọi đây là **vốn con người** (*human capital*).
+
+**Lợi tức và chuyển giao thu nhập.** Lợi tức (*revenue*) là thu nhập một người nhận được. Smith phân biệt thu nhập do sản xuất tạo ra với thu nhập chỉ chuyển từ người này sang người khác. Ví dụ: tiền thuê nhà ở là thu nhập của chủ nhà, nhưng người thuê trả bằng tiền lấy từ lao động, vốn hay đất đai của họ ở nơi khác, nên cả xã hội không giàu thêm. Phân biệt này là lý do Smith xếp nhà ở vào vốn tiêu dùng, và là tiền đề cho khái niệm thu nhập ròng ở Chương II.
+
+**An ninh tài sản.** Tình trạng người có của không sợ bị bề trên dùng bạo lực tước đoạt. Ví dụ trong chương: ở nơi có an ninh, ai bình thường cũng đem mọi vốn ra dùng; ở nơi bạo lực đe doạ thường xuyên, người ta chôn giấu của cải, đến mức kho báu vô chủ đào được từng là nguồn thu đáng kể của các vua châu Âu. Khái niệm này quan trọng vì nó là điều kiện để vốn được đem vào sản xuất thay vì nằm yên.
+
+## Nội dung chi tiết
 
 ### 1. Vốn của cá nhân: tư bản và phần tiêu dùng
 
-- Người có vốn ít ỏi, chỉ đủ sống vài ngày hay một tuần, hiếm khi nghĩ đến việc dùng nó để kiếm lợi tức. Anh ta tiêu dè sẻn và cố dùng lao động kiếm thêm trước khi vốn cạn. Thu nhập của anh ta hoàn toàn đến từ lao động. Đây là tình trạng của đại đa số người lao động nghèo ở mọi nước.
-- Người có vốn đủ sống nhiều tháng hay nhiều năm thì tự nhiên tìm cách thu lợi tức từ phần lớn số vốn, chỉ giữ lại phần đủ tiêu dùng cho tới khi lợi tức về. Vốn của anh ta chia thành hai phần.
-- Phần thứ nhất là **tư bản**: phần được dùng để đem lại lợi tức.
-- Phần thứ hai là phần cung cấp cho tiêu dùng trước mắt, gồm ba thứ: (a) phần vốn ban đầu dành cho việc sống, (b) lợi tức thu dần từ mọi nguồn, (c) những đồ đã mua bằng hai khoản trên trong các năm trước nhưng chưa dùng hết, như quần áo, đồ đạc. Cả ba đều là thứ người ta để dành cho tiêu dùng trước mắt.
+Smith bắt đầu từ một người, rồi mới đi lên cả quốc gia. Điểm xuất phát là quy mô vốn so với nhu cầu sống.
+
+Người chỉ có một ít vốn, đủ sống vài ngày hay một tuần, hiếm khi nghĩ tới việc dùng nó để kiếm lợi tức. Anh ta tiêu thật dè sẻn và cố dùng sức lao động của mình kiếm thêm trước khi chỗ vốn ấy cạn. Thu nhập của anh ta hoàn toàn đến từ lao động. Smith nói đây là tình trạng của đại đa số người lao động nghèo ở mọi nước. Ý ngầm ở đây là: người nghèo không thiếu ý muốn làm giàu, mà vốn của họ quá nhỏ để có thể tách ra một phần không tiêu.
+
+Người có vốn đủ sống nhiều tháng hay nhiều năm thì khác. Anh ta tự nhiên tìm cách thu lợi tức từ phần lớn số vốn, và chỉ giữ lại phần đủ tiêu dùng cho tới khi lợi tức bắt đầu về. Toàn bộ vốn của anh ta vì thế chia thành hai phần:
+
+| Phần | Chức năng | Gồm những gì |
+|---|---|---|
+| Phần thứ nhất: **tư bản** | Dùng để đem lại lợi tức | Phần vốn được đem đi sản xuất, buôn bán |
+| Phần thứ hai: **tiêu dùng trước mắt** | Dùng cho việc sống, không sinh lợi | (a) phần vốn ban đầu dành cho việc sống; (b) lợi tức thu dần từ mọi nguồn; (c) những đồ đã mua bằng hai khoản trên trong các năm trước mà chưa dùng hết, như quần áo, đồ đạc trong nhà |
+
+Cả ba thứ trong phần thứ hai đều là thứ người ta để dành cho tiêu dùng trước mắt. Lưu ý rằng lợi tức, khi đã về tay, cũng chuyển sang phần tiêu dùng: tư bản đẻ ra lợi tức, lợi tức nuôi đời sống.
 
 ### 2. Hai cách dùng tư bản
 
-- **Vốn luân chuyển:** tư bản có thể dùng để trồng trọt, chế tạo hoặc mua hàng rồi bán lại với lãi. Vốn dùng theo cách này không đem lại lợi nhuận chừng nào nó còn ở trong tay chủ hoặc giữ nguyên hình thái. Hàng của nhà buôn chỉ sinh lợi khi được bán lấy tiền, và tiền lại đổi thành hàng. Vốn liên tục rời khỏi chủ dưới một dạng và quay lại dưới dạng khác; lợi nhuận đến từ sự lưu thông đó.
-- **Vốn cố định:** tư bản có thể dùng để cải tạo đất, mua máy móc và công cụ có ích, tức những thứ đem lại lợi tức mà không đổi chủ, không phải lưu thông.
-- Các nghề khác nhau cần tỷ lệ khác nhau giữa hai loại:
-  - Vốn của nhà buôn gần như hoàn toàn là vốn luân chuyển; ông ta không cần máy móc hay công cụ, trừ khi cửa hàng hay kho được coi là công cụ.
-  - Chủ xưởng thủ công cần một phần vốn cho công cụ nghề. Thợ may chỉ cần một bọc kim; thợ giày đắt hơn một chút; công cụ của thợ dệt đắt hơn nhiều so với thợ giày. Nhưng phần lớn vốn của những người này vẫn luân chuyển, nằm trong tiền công thợ và giá nguyên liệu, và được hoàn lại cùng lợi nhuận qua giá sản phẩm.
-  - Nhiều nghề cần vốn cố định lớn hơn nhiều: xưởng luyện sắt cần lò nấu quặng, lò rèn, máy cắt rất đắt; mỏ than cần máy bơm nước và máy cho các việc khác còn đắt hơn nữa.
-  - Chủ trại: nông cụ là vốn cố định; tiền công và chi phí nuôi người làm là vốn luân chuyển. Giá mua súc vật kéo là vốn cố định như nông cụ, còn chi phí nuôi chúng là vốn luân chuyển như nuôi người làm. Súc vật mua về vỗ béo để bán là vốn luân chuyển. Đàn cừu, đàn bò mua để lấy lông, sữa và cho sinh sản là vốn cố định; lợi nhuận từ việc nuôi tốt chúng, còn chi phí nuôi thì là vốn luân chuyển, và được hoàn lại cùng lợi nhuận qua giá lông, sữa và con non.
-  - Toàn bộ giá trị hạt giống cũng là vốn cố định: dù đi ra đồng rồi trở về kho, nó không đổi chủ và không thực sự lưu thông. Chủ trại có lợi nhuận không nhờ bán hạt giống mà nhờ nó nảy nở.
+Phần tư bản lại có hai cách sử dụng, và Smith phân biệt chúng theo **cách sinh lợi**, không theo hình dạng.
+
+**Vốn luân chuyển.** Tư bản có thể dùng để trồng trọt, chế tạo hoặc mua hàng rồi bán lại với lãi. Dùng theo cách này, vốn không đem lại lợi nhuận chừng nào nó còn ở trong tay chủ hoặc còn giữ nguyên hình thái. Hàng của nhà buôn chỉ sinh lợi khi được bán để lấy tiền, và tiền ấy lại được đổi thành hàng. Như vậy vốn liên tục rời khỏi chủ dưới một dạng và quay lại dưới dạng khác; lợi nhuận đến từ chuỗi trao đổi liên tiếp đó. Chữ "luân chuyển" nói đúng điều này: vốn phải chạy vòng thì mới sinh lời.
+
+**Vốn cố định.** Tư bản cũng có thể dùng để cải tạo đất, mua máy móc và công cụ có ích, tức những thứ đem lại lợi tức mà không đổi chủ và không cần lưu thông. Chủ giữ chúng lại và dùng chúng để làm ra sản phẩm.
+
+Mỗi nghề cần một tỷ lệ khác nhau giữa hai loại vốn:
+
+| Nghề | Vốn cố định | Vốn luân chuyển |
+|---|---|---|
+| Nhà buôn | Gần như không có; ông ta không cần máy móc hay công cụ, trừ khi coi cửa hàng hay kho là công cụ | Gần như toàn bộ vốn |
+| Thợ thủ công (thợ cả, chủ xưởng) | Một phần cho công cụ nghề: thợ may chỉ cần một bọc kim; công cụ của thợ giày đắt hơn một chút; công cụ của thợ dệt đắt hơn thợ giày nhiều | Phần lớn vốn: tiền công thợ và giá nguyên liệu, được hoàn lại cùng lợi nhuận qua giá sản phẩm |
+| Xưởng luyện sắt | Lớn: lò nấu quặng, lò rèn, máy cắt, đều rất đắt | Phần còn lại |
+| Mỏ than | Còn lớn hơn: máy bơm nước và máy cho các việc khác, đắt hơn nữa | Phần còn lại |
+
+Nông nghiệp là chỗ Smith cho thấy rõ nhất rằng tiêu chí là cách sinh lợi chứ không phải bản thân vật:
+
+| Khoản chi của chủ trại | Loại vốn | Lý do |
+|---|---|---|
+| Nông cụ | Cố định | Giữ lại và dùng |
+| Giá mua súc vật kéo | Cố định | Giống như nông cụ |
+| Tiền công và chi phí nuôi người làm | Luân chuyển | Chi ra rồi được hoàn lại qua giá nông sản |
+| Chi phí nuôi súc vật kéo | Luân chuyển | Giống như nuôi người làm |
+| Súc vật mua về vỗ béo để bán | Luân chuyển | Sinh lợi khi bán đi |
+| Đàn cừu, đàn bò mua để lấy lông, sữa và cho sinh sản | Cố định | Lợi nhuận đến từ việc giữ và nuôi tốt chúng; còn chi phí nuôi thì là vốn luân chuyển, được hoàn lại cùng lợi nhuận qua giá lông, sữa và con non |
+| Hạt giống | Cố định | Đi ra đồng rồi trở về kho, không đổi chủ, không thực sự lưu thông; lợi nhuận đến từ việc nó nảy nở, không phải từ việc bán nó |
+
+Cùng là con bò, nếu mua về vỗ béo để bán thì là vốn luân chuyển; nếu mua về để vắt sữa thì là vốn cố định. Đây là bước trừu tượng quan trọng nhất của chương.
 
 ### 3. Vốn của quốc gia, phần thứ nhất: vốn tiêu dùng trước mắt
 
-- Tổng vốn của một nước là tổng vốn của mọi cư dân, nên cũng tự chia thành ba phần với chức năng riêng.
-- Phần thứ nhất dành cho tiêu dùng trước mắt; đặc điểm của nó là không đem lại lợi tức. Gồm lương thực, quần áo, đồ đạc người tiêu dùng đã mua mà chưa dùng hết, và nhà ở.
-- Nhà ở dùng để ở, từ lúc xây xong, không còn là vốn với chủ nhà và không đem lại lợi tức. Nó có ích như quần áo, đồ đạc, nhưng là một phần chi tiêu chứ không phải thu nhập.
-- Nếu nhà được cho thuê thì nó đem lại thu nhập cho chủ nhà và đóng vai trò tư bản đối với ông ta. Nhưng vì bản thân ngôi nhà không sản xuất gì, người thuê luôn phải trả tiền thuê từ một nguồn thu nhập khác: lao động, vốn hay đất đai của họ. Vì vậy nhà cho thuê không làm tăng thu nhập của cả xã hội chút nào.
-- Quần áo, đồ đạc đôi khi cũng đem lại thu nhập: cho thuê quần áo hoá trang một đêm, thợ bọc nệm cho thuê đồ đạc theo tháng, theo năm, người làm đám ma cho thuê kiệu và cờ phướn, cho thuê nhà kèm đồ đạc. Nhưng lợi tức đó thực ra đều lấy từ nguồn thu nhập khác của người thuê.
-- Trong mọi phần của vốn tiêu dùng, nhà ở hao mòn chậm nhất: quần áo dùng vài năm, đồ đạc nửa thế kỷ hay một thế kỷ, nhà xây chắc và giữ gìn tốt dùng nhiều thế kỷ. Nhưng nó vẫn là vốn tiêu dùng trước mắt.
+Tổng vốn của một nước bằng tổng vốn của mọi cư dân nước đó, nên nó cũng tự chia thành ba phần, mỗi phần có chức năng riêng: vốn tiêu dùng trước mắt, vốn cố định, vốn luân chuyển.
+
+Phần thứ nhất dành cho tiêu dùng trước mắt. Đặc điểm của nó là **không đem lại lợi tức**. Nó gồm lương thực, quần áo, đồ đạc mà người tiêu dùng đã mua nhưng chưa dùng hết, và nhà ở.
+
+Smith dành nhiều chỗ cho trường hợp nhà ở, vì đây là chỗ dễ nhầm. Một ngôi nhà dùng để ở, kể từ lúc xây xong, không còn là vốn đối với chủ nhà và không đem lại lợi tức cho ông ta. Nó có ích như quần áo, đồ đạc, nhưng là một khoản chi tiêu chứ không phải nguồn thu nhập.
+
+Nếu nhà được cho thuê thì nó đem lại thu nhập cho chủ nhà và đóng vai trò tư bản đối với ông ta. Nhưng bản thân ngôi nhà không sản xuất ra gì. Người thuê luôn phải trả tiền thuê bằng thu nhập lấy từ một nguồn khác: lao động, vốn hay đất đai của họ. Vì vậy nhà cho thuê không thêm gì vào thu nhập của cả xã hội; nó chỉ chuyển một phần thu nhập từ người thuê sang chủ nhà. Ví dụ minh hoạ: một thợ thủ công làm ra hàng trị giá 100 đồng mỗi năm và trả 10 đồng tiền thuê nhà; thu nhập của cả xã hội từ hai người vẫn là 100 đồng, chỉ là chủ nhà cầm 10 và người thợ cầm 90.
+
+Quần áo và đồ đạc đôi khi cũng đem lại thu nhập theo cách đó: người cho thuê quần áo hoá trang một đêm, thợ bọc nệm cho thuê đồ đạc theo tháng hay theo năm, người làm dịch vụ tang lễ cho thuê kiệu và cờ phướn, người cho thuê nhà kèm đồ đạc. Lợi tức của họ cũng đều lấy từ nguồn thu nhập khác của người thuê.
+
+Trong mọi phần của vốn tiêu dùng, nhà ở hao mòn chậm nhất. Quần áo dùng được vài năm, đồ đạc dùng nửa thế kỷ hay một thế kỷ, nhà xây chắc và giữ gìn tốt dùng được nhiều thế kỷ. Dù hao mòn chậm như vậy, nó vẫn là vốn tiêu dùng trước mắt (bản dịch viết câu này theo nghĩa phủ định, ngược với nguyên văn).
 
 ### 4. Phần thứ hai: vốn cố định, bốn khoản
 
-- Đặc điểm: đem lại lợi tức hay lợi nhuận mà không luân chuyển, không đổi chủ.
-- (1) Máy móc và công cụ hữu ích làm nhẹ và rút ngắn lao động.
-- (2) Nhà cửa sinh lợi, đem lại thu nhập không chỉ cho chủ cho thuê mà cho cả người thuê: cửa hàng, kho, xưởng, nhà ở trang trại, chuồng gia súc, vựa thóc. Chúng cũng là một loại công cụ.
-- (3) Đất đã được cải tạo: phát quang, tiêu nước, rào, bón phân, đưa vào trạng thái thuận tiện nhất để cày cấy. Một trang trại được cải tạo tốt giống như một cỗ máy làm nhẹ lao động, nhờ đó cùng một vốn luân chuyển đem lại thu nhập lớn hơn nhiều cho chủ; nó cũng có lợi và bền hơn máy móc, thường chỉ cần chủ trại dùng vốn đúng cách vào việc trồng trọt.
-- (4) Tài năng hữu ích đã học được của mọi thành viên xã hội. Có được tài năng phải tốn chi phí nuôi người đó trong thời gian học, học nghề; đó là một khoản vốn cố định nằm ngay trong chính con người. Tài năng ấy là tài sản của người đó và cũng là tài sản của xã hội. Tay nghề của một người thợ có thể coi như một cỗ máy hay công cụ làm nhẹ lao động: tốn chi phí, nhưng hoàn lại chi phí cùng lợi nhuận.
+Đặc điểm của vốn cố định là đem lại lợi tức hay lợi nhuận **mà không luân chuyển, không đổi chủ**. Nó gồm bốn khoản:
+
+1. **Máy móc và công cụ hữu ích** làm nhẹ và rút ngắn lao động.
+2. **Nhà cửa sinh lợi**, đem lại thu nhập không chỉ cho chủ cho thuê mà cho cả người thuê: cửa hàng, kho, xưởng, nhà ở trang trại, chuồng gia súc, vựa thóc. Khác với nhà ở, những công trình này dùng vào sản xuất, nên chúng cũng là một loại công cụ.
+3. **Đất đã được cải tạo**: đã phát quang, tiêu nước, rào, bón phân, đưa vào trạng thái thuận tiện nhất để cày cấy. Một trang trại được cải tạo tốt giống như một cỗ máy làm nhẹ lao động: nhờ nó, cùng một lượng vốn luân chuyển đem lại thu nhập lớn hơn nhiều cho chủ. Nó cũng có lợi và bền hơn máy móc, thường chỉ cần chủ trại dùng vốn đúng cách vào việc trồng trọt là duy trì được.
+4. **Tài năng hữu ích đã học được** của mọi thành viên trong xã hội. Muốn có tài năng phải tốn chi phí nuôi người đó trong thời gian học hành, học nghề. Khoản chi phí ấy là một khoản vốn cố định nằm ngay trong chính con người. Tài năng là tài sản riêng của người đó và cũng là tài sản chung của xã hội. Tay nghề của một người thợ có thể coi như một cỗ máy hay công cụ làm nhẹ lao động: tốn chi phí để có, nhưng hoàn lại chi phí ấy cùng lợi nhuận.
+
+Khoản thứ tư là ý tưởng mà ngày nay gọi là vốn con người. Smith đặt nó ngang hàng với máy móc và đất đai trong bảng cân đối của cả quốc gia.
 
 ### 5. Phần thứ ba: vốn luân chuyển, bốn khoản
 
-- Đặc điểm: chỉ đem lại lợi tức qua việc luân chuyển hay đổi chủ.
-- (1) Tiền, nhờ đó ba khoản kia được lưu thông và phân phối tới người tiêu dùng.
-- (2) Kho lương thực trong tay người bán thịt, người chăn nuôi, chủ trại, người buôn ngũ cốc, người nấu bia, những người mong lãi từ việc bán chúng.
-- (3) Nguyên liệu, thô hay đã chế biến một phần, để làm quần áo, đồ đạc, nhà cửa, chưa thành hình một trong ba thứ đó mà còn trong tay người trồng, nhà sản xuất, người buôn vải, buôn gỗ, thợ mộc, thợ gạch.
-- (4) Thành phẩm đã làm xong nhưng còn trong tay nhà buôn hay nhà sản xuất, chưa đến tay người tiêu dùng: hàng có sẵn trong cửa hàng của thợ rèn, thợ đồ gỗ, thợ kim hoàn, người buôn đồ sứ.
+Đặc điểm của vốn luân chuyển là **chỉ đem lại lợi tức qua việc luân chuyển hay đổi chủ**. Nó gồm bốn khoản:
+
+| Khoản | Nội dung | Đang nằm trong tay ai |
+|---|---|---|
+| (1) Tiền | Nhờ tiền mà ba khoản kia được lưu thông và phân phối tới người tiêu dùng | Mọi người |
+| (2) Lương thực | Kho lương thực chờ bán | Người bán thịt, người chăn nuôi, chủ trại, người buôn ngũ cốc, người nấu bia, những người mong lãi từ việc bán chúng |
+| (3) Nguyên liệu | Thô hay đã chế biến một phần, để làm quần áo, đồ đạc, nhà cửa, nhưng chưa thành hình một trong ba thứ đó | Người trồng, nhà sản xuất, người buôn vải, người buôn gỗ, thợ mộc, thợ gạch |
+| (4) Thành phẩm | Đã làm xong nhưng chưa đến tay người tiêu dùng | Nhà buôn hay nhà sản xuất: hàng có sẵn trong cửa hàng của thợ rèn, thợ đồ gỗ, thợ kim hoàn, người buôn đồ sứ |
+
+Điểm chung của cả bốn khoản: chúng đang "trên đường" tới người tiêu dùng. Khi một bao gạo rời kho người buôn vào bếp một gia đình, nó rời vốn luân chuyển và sang vốn tiêu dùng.
 
 ### 6. Quan hệ giữa ba phần
 
-- Ba trong bốn khoản luân chuyển (lương thực, nguyên liệu, thành phẩm) thường xuyên, hằng năm hoặc lâu hơn, được rút ra khỏi vốn luân chuyển và đưa vào vốn cố định hoặc vốn tiêu dùng.
-- Mọi vốn cố định ban đầu đều sinh ra từ vốn luân chuyển và phải được nó liên tục bảo dưỡng. Máy móc, công cụ được làm từ nguyên liệu và tiền công thợ, cả hai do vốn luân chuyển cung cấp, và cũng cần vốn luân chuyển để sửa chữa.
-- Vốn cố định chỉ đem lại thu nhập nhờ vốn luân chuyển. Máy móc tốt nhất không làm ra gì nếu thiếu nguyên liệu và thợ vận hành, cả hai do vốn luân chuyển nuôi. Đất màu mỡ đến mấy cũng không cho gì nếu không có vốn luân chuyển trả công người cày, cấy, gặt.
-- Mục đích duy nhất của vốn cố định và vốn luân chuyển là duy trì và tăng vốn tiêu dùng, phần cung cấp thức ăn, quần áo, nhà ở cho dân chúng. Dân giàu hay nghèo tuỳ vào mức hai loại vốn kia cung cấp dư dật hay dè sẻn cho vốn tiêu dùng.
-- Vì vốn luân chuyển bị rút liên tục, nó phải được bổ sung liên tục, nếu không sẽ sớm cạn. Nguồn bổ sung là sản phẩm của đất đai, mỏ và nghề cá, cung cấp lương thực và nguyên liệu, một phần sau đó chế biến thành thành phẩm.
-- Mỏ còn cung cấp kim loại để duy trì và tăng phần tiền. Trong tiến trình kinh doanh bình thường, tiền không nhất thiết bị rút sang hai loại vốn kia như ba khoản khác, nhưng nó cũng hao mòn, đôi khi mất mát hay bị đưa ra nước ngoài, nên cũng cần được bổ sung liên tục, dù với lượng nhỏ hơn nhiều.
-- Đất đai, mỏ, nghề cá cần cả vốn cố định lẫn luân chuyển; sản phẩm của chúng không chỉ hoàn lại hai loại vốn đó cùng lợi nhuận mà còn hoàn lại mọi vốn khác trong xã hội.
-- Trao đổi thực giữa nông thôn và thành thị: chủ trại hằng năm thay thế cho nhà sản xuất phần lương thực đã ăn và nguyên liệu đã dùng năm trước; nhà sản xuất thay thế cho chủ trại phần thành phẩm đã hao mòn trong cùng thời gian. Hai bên ít khi trao đổi trực tiếp: chủ trại bán nông sản lấy tiền rồi mua hàng công nghiệp ở bất cứ đâu.
-- Đất đai còn thay thế ít nhất một phần vốn của mỏ và nghề cá: chính sản phẩm của đất giúp kéo cá lên từ dưới nước và khoáng sản lên từ lòng đất.
-- Quy luật về sản lượng: khi độ màu mỡ tự nhiên của đất, mỏ, nghề cá ngang nhau thì sản lượng tỷ lệ với quy mô và cách dùng vốn đúng đắn; khi vốn ngang nhau và được dùng tốt như nhau thì sản lượng tỷ lệ với độ màu mỡ tự nhiên.
+Sau khi phân loại, Smith chỉ ra ba phần vốn nối với nhau thành một vòng.
+
+Ba trong bốn khoản của vốn luân chuyển, là lương thực, nguyên liệu và thành phẩm, thường xuyên được rút ra khỏi vốn luân chuyển (hằng năm hoặc lâu hơn) để đưa vào vốn cố định hoặc vốn tiêu dùng. Từ đó Smith rút ra ba mệnh đề:
+
+1. **Mọi vốn cố định ban đầu đều sinh ra từ vốn luân chuyển, và phải được nó liên tục bảo dưỡng.** Máy móc và công cụ được làm từ nguyên liệu và tiền công thợ, cả hai đều do vốn luân chuyển cung cấp; khi máy hỏng, việc sửa chữa cũng cần vốn luân chuyển.
+2. **Vốn cố định chỉ đem lại thu nhập nhờ vốn luân chuyển.** Cỗ máy tốt nhất không làm ra gì nếu thiếu nguyên liệu để chế biến và thợ để vận hành, mà cả hai đều do vốn luân chuyển nuôi. Đất màu mỡ đến mấy cũng không cho gì nếu không có vốn luân chuyển trả công người cày, cấy, gặt.
+3. **Mục đích duy nhất của vốn cố định và vốn luân chuyển là duy trì và tăng vốn tiêu dùng**, tức phần cung cấp thức ăn, quần áo, nhà ở cho dân chúng. Dân giàu hay nghèo tuỳ vào việc hai loại vốn kia cung cấp cho vốn tiêu dùng dư dật hay dè sẻn.
+
+Vì vốn luân chuyển bị rút ra liên tục, nó phải được bổ sung liên tục, nếu không sẽ sớm cạn. Nguồn bổ sung là sản phẩm của **đất đai, mỏ và nghề cá**: chúng cung cấp lương thực và nguyên liệu, một phần sau đó được chế biến thành thành phẩm.
+
+Mỏ còn cung cấp kim loại để duy trì và tăng phần tiền. Trong tiến trình kinh doanh bình thường, tiền không nhất thiết bị rút sang vốn cố định hay vốn tiêu dùng như ba khoản kia. Nhưng tiền cũng hao mòn, đôi khi bị mất hay bị đưa ra nước ngoài, nên cũng cần được bổ sung liên tục, dù với lượng nhỏ hơn nhiều.
+
+Đất đai, mỏ và nghề cá đều cần cả vốn cố định lẫn vốn luân chuyển. Sản phẩm của chúng không chỉ hoàn lại hai loại vốn đó cùng lợi nhuận, mà còn hoàn lại mọi vốn khác trong xã hội.
+
+Smith minh hoạ bằng **trao đổi giữa nông thôn và thành thị**. Hằng năm, chủ trại thay thế cho nhà sản xuất ở thành thị phần lương thực họ đã ăn và nguyên liệu họ đã dùng trong năm trước; ngược lại, nhà sản xuất thay thế cho chủ trại phần thành phẩm đã hao mòn trong cùng thời gian. Hai bên ít khi đổi hàng trực tiếp với nhau: chủ trại bán nông sản lấy tiền, rồi mua hàng công nghiệp ở bất cứ đâu anh ta muốn. Tiền làm trung gian, nhưng thực chất là hàng đổi hàng.
+
+Đất đai còn thay thế ít nhất một phần vốn của mỏ và nghề cá, vì chính sản phẩm của mặt đất (lương thực, gỗ, súc vật) giúp kéo cá lên từ dưới nước và khoáng sản lên từ lòng đất.
+
+Cuối cùng là một quy luật về sản lượng của đất, mỏ và nghề cá:
+
+| Điều kiện | Sản lượng tỷ lệ với |
+|---|---|
+| Độ màu mỡ tự nhiên ngang nhau | Quy mô vốn và cách dùng vốn đúng đắn |
+| Vốn ngang nhau và được dùng tốt như nhau | Độ màu mỡ tự nhiên |
 
 ### 7. An ninh, chôn giấu của cải và kho báu vô chủ
 
-- Ở mọi nước có an ninh tương đối, người có hiểu biết bình thường sẽ dùng mọi vốn mình nắm, của mình hay đi vay, để hoặc hưởng thụ hiện tại, hoặc thu lợi nhuận tương lai. Nếu để hưởng thụ hiện tại thì đó là vốn tiêu dùng. Nếu để thu lợi tương lai thì vốn hoặc ở lại với chủ (vốn cố định) hoặc rời khỏi chủ (vốn luân chuyển). Người có an ninh mà không dùng vốn theo một trong ba cách đó thì "thật sự là điên dại".
-- Ở những nước bất hạnh mà con người thường xuyên bị bạo lực của bề trên đe doạ, người ta thường chôn giấu phần lớn vốn, hoặc giữ nó ở dạng sẵn sàng mang đi nơi an toàn khi có tai hoạ. Theo Smith, đây là thói quen phổ biến ở Thổ Nhĩ Kỳ, Ấn Độ và hầu hết các nước châu Á, và cũng là thói quen của tổ tiên người Anh trong thời bạo lực của chính quyền phong kiến.
-- Vì vậy kho báu chôn giấu tìm được mà không ai chứng minh được quyền sở hữu từng là một nguồn thu không nhỏ của các vua lớn nhất châu Âu. Kho báu thuộc về nhà vua; người tìm thấy và chủ đất không được gì trừ khi quyền đó được vua ban riêng. Mỏ vàng, mỏ bạc cũng vậy, không thuộc chủ đất nếu không có điều khoản riêng; còn mỏ chì, đồng, thiếc, than, vì ít quan trọng hơn, thì được coi là nằm trong quyền của chủ đất.
+Chương kết bằng một nhận xét về điều kiện để vốn thực sự được dùng.
+
+Ở mọi nước có an ninh tương đối, một người có hiểu biết bình thường sẽ dùng mọi vốn mình nắm, dù là của mình hay đi vay, để hoặc hưởng thụ hiện tại, hoặc thu lợi nhuận tương lai. Nếu để hưởng thụ hiện tại thì đó là vốn tiêu dùng. Nếu để thu lợi tương lai thì vốn hoặc ở lại với chủ (vốn cố định), hoặc rời khỏi chủ (vốn luân chuyển). Smith nói người được bảo đảm an ninh mà không dùng vốn theo một trong ba cách đó thì "thật sự là điên dại".
+
+Ở những nước bất hạnh, nơi con người thường xuyên bị bạo lực của bề trên đe doạ, người ta thường chôn giấu phần lớn vốn, hoặc giữ nó ở dạng có thể mang ngay tới nơi an toàn khi có tai hoạ. Theo Smith, đây là thói quen phổ biến ở Thổ Nhĩ Kỳ, Ấn Độ (Indostan) và hầu hết các nước châu Á. Ông nhấn mạnh rằng đó cũng là thói quen của chính tổ tiên người Anh trong thời bạo lực của chính quyền phong kiến. Nghĩa là việc chôn của không phải bản tính của một dân tộc, mà là phản ứng hợp lý trước nguy cơ bị tước đoạt.
+
+Hệ quả là kho báu chôn giấu tìm được mà không ai chứng minh được quyền sở hữu từng là một nguồn thu không nhỏ của các vua lớn nhất châu Âu. Kho báu như vậy thuộc về nhà vua; người tìm thấy và chủ đất không được gì, trừ khi quyền đó được vua ban riêng. Mỏ vàng và mỏ bạc cũng được đối xử như kho báu: không thuộc chủ đất nếu không có điều khoản riêng. Còn mỏ chì, đồng, thiếc và than, vì ít quan trọng hơn, thì được coi là nằm trong quyền của chủ đất (bản dịch viết ngược ý này).
 
 ## Luận điểm kinh tế cốt lõi
 

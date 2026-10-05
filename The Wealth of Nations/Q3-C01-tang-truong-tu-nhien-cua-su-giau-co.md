@@ -120,57 +120,117 @@
 2. **Vì sao vốn "tự nhiên" chảy vào nông nghiệp trước, chế tạo sau, ngoại thương cuối cùng?** Vì sinh kế đi trước tiện nghi, vì thành thị chỉ lớn theo thặng dư nông thôn, và vì với lợi nhuận ngang nhau người có vốn thích đồng vốn gần, giám sát được, an toàn và cho mình sự độc lập.
 3. **Nếu trật tự đó là tự nhiên, sao châu Âu lại đi ngược?** Vì tập quán và thể chế do các chính quyền đầu tiên (sau khi La Mã sụp đổ) đặt ra đã chặn đường vốn vào đất; ba chương sau của Quyển III phân tích chi tiết các thể chế ấy.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Sản phẩm thô và hàng chế tạo (rude produce, manufactured produce).** Sản phẩm thô là thứ lấy trực tiếp từ đất, chưa qua chế biến: ngũ cốc, len, gỗ, quặng. Hàng chế tạo là thứ làm ra bằng cách chế biến sản phẩm thô: vải, giày, dao, cày. Ví dụ minh hoạ: người nông dân bán lúa (sản phẩm thô) ở thị trấn để mua một lưỡi cày (hàng chế tạo) của thợ rèn. Cả chương xoay quanh việc trao đổi hai loại sản phẩm này giữa nông thôn và thành thị.
+
+**Thặng dư nông nghiệp (surplus produce).** Phần nông sản còn lại sau khi đã nuôi những người làm ra nó. Ví dụ minh hoạ: một gia đình nông dân thu 100 bao lúa, cả nhà ăn và giữ giống hết 70 bao; 30 bao còn lại là thặng dư, có thể đem bán để nuôi thợ thủ công và dân thành thị. Smith dùng khái niệm này để nói thành thị chỉ có thể lớn tương ứng với thặng dư của nông thôn xung quanh.
+
+**Sinh kế, tiện nghi và xa xỉ (subsistence, conveniency, luxury).** Sinh kế là những thứ cần để sống (lương thực trước hết); tiện nghi và xa xỉ là những thứ làm cuộc sống dễ chịu hơn nhưng không bắt buộc. Ví dụ: bánh mì thuộc sinh kế, một bộ áo đẹp hay đồ trang sức thuộc tiện nghi và xa xỉ. Vì sinh kế phải có trước, Smith suy ra ngành làm ra nó (nông nghiệp) phải có trước ngành làm ra tiện nghi (chế tạo).
+
+**Lợi ích của trao đổi dựa trên phân công lao động.** Khi mỗi bên chuyên làm việc mình làm tốt rồi đổi cho nhau, cả hai đều được lợi so với tự làm mọi thứ. Ví dụ minh hoạ: một nông dân tự rèn lấy một con dao có thể mất ba ngày công; nếu mua của thợ rèn, anh chỉ cần đưa một lượng lúa mà anh làm ra trong một ngày. Đây là lý do Smith khẳng định thương mại thành thị – nông thôn là cùng có lợi, không phải thành thị lấy của nông thôn.
+
+**Lợi thế vị trí (mầm của địa tô theo vị trí).** Khi mọi người bán cùng giá ở chợ thành phố, người sản xuất gần chợ tốn ít chi phí chở hơn nên được lợi thêm. Ví dụ trong chương: ngũ cốc trồng trong vòng 1 dặm quanh thành thị bán cùng giá với ngũ cốc chở từ 20 dặm tới, nên người trồng ở gần hưởng trọn khoản tiết kiệm tiền chở. Ví dụ này cho thấy thành thị càng lớn thì nông dân quanh nó càng có lợi.
+
+**Trật tự tự nhiên của sự giàu có (natural progress of opulence).** Trình tự mà Smith cho rằng vốn của một xã hội sẽ tự đi theo nếu không bị thể chế cản trở: nông nghiệp trước, rồi công nghiệp chế tạo (từ hàng thô đến hàng tinh), rồi ngoại thương. Ví dụ trong chương: các thuộc địa Anh ở Bắc Mỹ, nơi vốn dư vẫn đổ vào khai phá đất. Đây là "kịch bản chuẩn" để Smith đo xem châu Âu đã đi lệch bao xa trong ba chương sau.
+
+**Trật tự đảo ngược (inverted order).** Trình tự ngược lại: ngoại thương đi trước, sinh ra công nghiệp tinh xảo, rồi cả hai mới kéo nông nghiệp đi lên. Ví dụ trong chương: một số thành phố buôn bán ở châu Âu hiện đại. Smith gọi nó là "không tự nhiên" và quy nguyên nhân cho tập quán, thể chế từ thời các chính quyền đầu tiên.
+
+**Vốn nước ngoài trong xuất khẩu.** Vốn của thương nhân nước khác dùng để mua thặng dư của một nước và chở đi bán. Ví dụ trong chương: Ai Cập cổ, Trung Hoa và Ấn Độ giàu có dù phần lớn xuất khẩu do người nước ngoài làm. Khái niệm này quan trọng vì Smith dùng nó để bác quan niệm trọng thương rằng một nước phải tự có thương nhân và đội tàu mới giàu được.
+
+## Nội dung chi tiết
 
 ### 1. Thương mại thành thị – nông thôn là trao đổi cùng có lợi
 
-- Thương mại lớn nhất của mọi xã hội văn minh diễn ra giữa dân thành thị và dân nông thôn: sản phẩm thô đổi lấy hàng chế tạo, trực tiếp hoặc qua tiền, hoặc qua một loại giấy tờ thay tiền.
-- Nông thôn cung cấp phương tiện sinh sống và nguyên liệu; thành thị trả lại một phần hàng chế tạo. Vì thành thị không tự làm ra lương thực, có thể nói toàn bộ của cải và sinh kế của thành thị là nhờ nông thôn.
-- Smith bác bỏ ngay suy luận tưởng như tự nhiên từ đó: không phải thành thị giàu lên bằng cách lấy của nông thôn. Lợi ích của hai bên là qua lại, và phân công lao động ở đây, như mọi nơi khác, có lợi cho tất cả những người tham gia.
-- Cơ chế cụ thể: dân quê mua hàng chế tạo bằng một lượng sản phẩm của mình chứa ít lao động hơn lượng lao động họ phải bỏ ra nếu tự làm hàng đó. Đây là lập luận về lợi ích của trao đổi, áp dụng cho trao đổi nội địa.
-- Thành thị là thị trường cho phần thặng dư của nông thôn, tức phần còn lại sau khi đã nuôi người làm ra nó. Thành thị càng đông và giàu, thị trường càng rộng, càng có lợi cho nông dân.
-- Ví dụ vận tải: ngũ cốc trồng trong vòng một dặm quanh thành thị bán cùng giá với ngũ cốc chở từ hai mươi dặm tới. Giá đó phải đủ bù chi phí trồng, chi phí chở và lợi nhuận thông thường cho người trồng ở xa. Vậy người trồng ở gần, bán cùng giá mà tốn ít chi phí chở, được thêm một khoản lợi. Smith kết luận: nông thôn không thiệt khi buôn bán với thành thị, thành thị cũng không thiệt khi buôn bán với nông thôn.
+Smith mở chương bằng nhận xét rằng hoạt động thương mại lớn nhất của mọi xã hội văn minh diễn ra giữa dân thành thị và dân nông thôn. Nội dung của nó là đổi sản phẩm thô lấy hàng chế tạo, có khi đổi trực tiếp, có khi qua trung gian là tiền, hoặc một loại giấy tờ thay cho tiền.
+
+Hai bên trao đổi như sau. Nông thôn cung cấp cho thành thị phương tiện sinh sống (lương thực) và nguyên liệu để chế biến. Thành thị trả lại bằng một phần hàng chế tạo của mình. Vì thành thị không tự làm ra lương thực, có thể nói toàn bộ của cải và sinh kế của thành thị là nhờ nông thôn.
+
+Từ đó người ta dễ suy ra rằng thành thị giàu lên bằng cách lấy của nông thôn. Smith bác bỏ ngay suy luận này. Lợi ích của hai bên là qua lại, và ở đây, cũng như ở mọi nơi khác, phân công lao động có lợi cho tất cả những người tham gia. Cơ chế cụ thể: dân quê mua hàng chế tạo bằng một lượng sản phẩm của mình chứa ít lao động hơn so với lượng lao động họ sẽ phải bỏ ra nếu tự làm lấy hàng đó. Đây là lập luận về lợi ích của trao đổi mà Smith đã dùng ở Quyển I, nay áp dụng cho trao đổi trong nước giữa hai vùng.
+
+Mặt thứ hai: thành thị là thị trường cho thặng dư của nông thôn, tức phần sản phẩm còn lại sau khi đã nuôi những người làm ra nó. Thành thị càng đông dân và càng giàu thì thị trường ấy càng rộng, và càng có lợi cho nông dân.
+
+Smith minh hoạ bằng chi phí vận tải:
+
+| | Ngũ cốc trồng gần thành thị | Ngũ cốc trồng xa thành thị |
+|---|---|---|
+| Khoảng cách | trong vòng 1 dặm | khoảng 20 dặm |
+| Giá bán ở chợ thành thị | như nhau | như nhau |
+| Giá ấy phải bù | chi phí trồng, chi phí chở (rất ít), lợi nhuận | chi phí trồng, chi phí chở (nhiều), lợi nhuận thông thường |
+| Kết quả | người trồng được thêm phần tiết kiệm tiền chở | người trồng chỉ nhận lợi nhuận thông thường |
+
+Vì giá ở chợ phải đủ cao để người trồng ở xa 20 dặm vẫn chịu chở tới, người trồng ở gần, bán cùng giá mà tốn ít tiền chở hơn, được hưởng thêm một khoản lợi. Đây là mầm của lý thuyết địa tô theo vị trí. Smith kết luận: nông thôn không thiệt khi buôn bán với thành thị, và thành thị cũng không thiệt khi buôn bán với nông thôn.
+
+**Ví dụ hôm nay** (minh hoạ chung). Rau trồng ở vùng ven một thành phố lớn và rau chở từ một tỉnh xa đều bán ở chợ đầu mối với giá gần như nhau. Người trồng rau ven đô không tốn nhiều tiền xe, nên lời hơn; vì thế đất trồng rau ven đô thường được thuê với giá cao hơn đất cùng loại ở xa.
 
 ### 2. Sinh kế đi trước tiện nghi, nên nông nghiệp đi trước thành thị
 
-- Phương tiện sinh sống luôn quan trọng hơn tiện nghi và xa xỉ, nên ngành làm ra cái cần thiết (nông nghiệp) tất yếu phải có trước ngành làm ra tiện nghi và xa xỉ.
-- Thặng dư nông thôn là nguồn sinh sống của thành thị, nên thành thị chỉ có thể lớn lên khi thặng dư ấy tăng.
-- Smith thừa nhận một ngoại lệ bề ngoài: thành thị có thể lấy lương thực không chỉ từ vùng quanh mình mà từ những nước rất xa. Điều này không phá quy luật chung, nhưng nó tạo ra những khác biệt đáng kể về mức giàu có giữa các thời đại và dân tộc. Đây là mầm của Chương III, nơi các thành phố ven biển giàu lên nhờ buôn xa trong khi nông thôn quanh chúng vẫn nghèo.
+Lập luận thứ hai dựa trên thứ bậc của nhu cầu. Phương tiện sinh sống luôn quan trọng hơn tiện nghi và xa xỉ. Vì vậy ngành làm ra cái cần thiết, tức nông nghiệp, tất yếu phải có trước ngành làm ra tiện nghi và xa xỉ, tức chế tạo ở thành thị.
+
+Từ đó suy ra một giới hạn: vì thặng dư của nông thôn là nguồn sống của thành thị, thành thị chỉ có thể lớn lên khi thặng dư ấy tăng lên. Không có thêm lương thực dư thừa thì không có thêm người để làm thợ, buôn bán, phục vụ ở thành thị.
+
+Smith thừa nhận một ngoại lệ bề ngoài: thành thị có thể lấy lương thực không chỉ từ vùng quanh mình mà từ những nước rất xa. Điều này không phá quy luật chung, vì lương thực ấy vẫn là thặng dư nông nghiệp của một nơi nào đó. Nhưng nó tạo ra những khác biệt đáng kể về mức giàu có giữa các thời đại và giữa các dân tộc. Đây là mầm của Chương III, nơi các thành phố ven biển giàu lên nhờ buôn bán xa trong khi nông thôn quanh chúng vẫn nghèo.
 
 ### 3. Khuynh hướng tự nhiên của người có vốn
 
-- Trật tự nói trên, dù nhu cầu chỉ áp đặt nó "nói chung" chứ không ở mọi nước cụ thể, lại được khuynh hướng tự nhiên của con người thúc đẩy ở mỗi nước. Nếu thể chế không bao giờ cản trở khuynh hướng ấy, thành thị ở bất cứ đâu cũng không thể lớn vượt quá mức mà vùng đất xung quanh đã được khai phá, cho tới khi toàn bộ vùng đó đã được khai phá hết.
-- Giả định then chốt: với lợi nhuận bằng hoặc gần bằng nhau, đa số người có vốn sẽ đầu tư vào khai phá và cải tạo đất hơn là vào chế tạo hay ngoại thương. Ba lý do:
-  - Người cải tạo đất có vốn nằm dưới mắt mình, giám sát và chỉ đạo được.
-  - Vốn ấy ít rủi ro hơn vốn của nhà buôn, người phải đối mặt không chỉ với gió to sóng cả mà với cả sự ngông cuồng và bất công của con người ở những nước xa lạ, có tính cách và hành vi mà nhà buôn không hiểu thấu. Vốn của điền chủ đặt vào cải tạo đất thì "khá bảo đảm".
-  - Vẻ đẹp đồng quê, thú vui thôn dã, sự thanh thản và đặc biệt là sự độc lập hấp dẫn mọi người. Cày cấy là "chức phận nguyên thuỷ" của con người, và ở mọi giai đoạn con người dường như vẫn giữ sự ưa thích dành cho nghề nguyên thuỷ này.
+Trật tự trên, theo Smith, không chỉ do nhu cầu áp đặt. Nhu cầu chỉ áp đặt nó "nói chung", chứ không ở từng nước cụ thể. Nhưng ở mỗi nước, trật tự ấy còn được khuynh hướng tự nhiên của con người thúc đẩy. Nếu thể chế không bao giờ cản trở khuynh hướng ấy, thì ở bất cứ đâu, thành thị cũng không thể lớn vượt quá mức mà vùng đất xung quanh đã được khai phá và canh tác, cho tới khi toàn bộ vùng đó đã được khai phá hết.
+
+Giả định then chốt: với lợi nhuận bằng hoặc gần bằng nhau, đa số người có vốn sẽ chọn đầu tư vào khai phá và cải tạo đất hơn là vào chế tạo hay ngoại thương. Smith đưa ra ba lý do:
+
+1. **Giám sát được.** Người cải tạo đất có vốn nằm ngay trước mắt mình, có thể theo dõi và chỉ đạo nó.
+2. **Ít rủi ro.** Vốn của nhà buôn phải đối mặt không chỉ với gió to sóng cả, mà còn với sự ngông cuồng và bất công của con người ở những nước xa lạ, những người mà nhà buôn không hiểu tính nết và cách hành xử. Vốn của điền chủ đặt vào cải tạo đất thì "khá bảo đảm", trong chừng mực công việc của con người có thể bảo đảm.
+3. **Lợi ích không tính bằng tiền.** Vẻ đẹp đồng quê, thú vui thôn dã, sự thanh thản của đầu óc, và nhất là sự độc lập mà đời sống ấy mang lại hấp dẫn mọi người. Cày cấy là "chức phận nguyên thuỷ" của con người, và ở mọi giai đoạn của xã hội, con người dường như vẫn giữ sự ưa thích dành cho nghề đầu tiên này.
+
+Ví dụ minh hoạ: nếu một người có 1.000 bảng và cả việc cải tạo đất lẫn việc buôn hàng sang một nước xa đều hứa hẹn lợi nhuận khoảng 10% một năm, theo Smith đa số sẽ chọn đất, vì đất nằm trong tầm mắt, ít rủi ro hơn và cho thêm sự độc lập. Chỉ khi buôn bán xa hứa hẹn lợi nhuận cao hơn hẳn thì vốn mới chuyển sang đó.
 
 ### 4. Nông nghiệp sinh ra thị trấn
 
-- Nông nghiệp không thể tiến hành suôn sẻ nếu thiếu thợ thủ công: thợ rèn, thợ mộc, thợ sửa xe bò, thợ đúc, thợ xây, thợ nung gạch, thợ thuộc da, thợ đóng giày, thợ may. Nông dân thường xuyên cần họ, và họ cũng cần nhau.
-- Thợ thủ công không bị buộc vào một chỗ như nông dân, nhưng họ tự nhiên ở gần nhau, tạo thành một thị trấn hay làng nhỏ. Rồi người bán thịt, người nấu rượu, người làm bánh mì và các nghề khác đến ở cùng, thị trấn đông thêm.
-- Thị trấn là "một hội chợ hay một thị trường không bao giờ đóng cửa", nơi dân quê đến đổi sản phẩm thô lấy hàng chế tạo.
-- Hệ quả định lượng: lượng thành phẩm thợ bán cho nông thôn quyết định lượng nguyên liệu và lương thực thợ mua được. Vì vậy nghề nghiệp và mức sống của thợ không thể tăng nếu cầu của nông thôn đối với hàng chế tạo không tăng tương ứng, và cầu ấy chỉ tăng theo mức cải tạo và canh tác đất. Kết luận: nếu thể chế không can thiệp, sự giàu có và tăng trưởng của thành thị ở mọi xã hội sẽ tỷ lệ với mức khai phá và canh tác của lãnh thổ xung quanh.
+Nông nghiệp không thể tiến hành suôn sẻ nếu thiếu thợ thủ công: thợ rèn, thợ mộc, thợ sửa xe bò, thợ đúc, thợ xây, thợ nung gạch, thợ thuộc da, thợ đóng giày, thợ may. Nông dân thường xuyên cần đến họ, và các thợ cũng cần đến nhau.
+
+Khác với nông dân, thợ thủ công không bị buộc vào một mảnh đất cố định. Nhưng họ tự nhiên ở gần nhau, vì cần dịch vụ của nhau, và tạo thành một làng nhỏ hay một thị trấn. Rồi người bán thịt, người nấu rượu, người làm bánh mì và nhiều nghề khác đến ở cùng để phục vụ họ, và thị trấn đông thêm. Smith gọi thị trấn là "một hội chợ hay một thị trường không bao giờ đóng cửa", nơi dân quê lui tới để đổi sản phẩm thô lấy hàng chế tạo.
+
+Từ đó Smith rút ra một hệ quả có tính định lượng. Lượng thành phẩm mà thợ bán được cho nông thôn quyết định lượng nguyên liệu và lương thực mà thợ mua được. Vì vậy nghề nghiệp và mức sống của thợ không thể tăng nếu cầu của nông thôn đối với hàng chế tạo không tăng tương ứng; và cầu ấy chỉ tăng theo mức khai phá và cải tạo đất. Kết luận của mục: nếu thể chế không can thiệp, sự giàu có và tăng trưởng của thành thị ở mọi xã hội sẽ tỷ lệ với mức khai phá và canh tác của vùng đất xung quanh.
 
 ### 5. Bằng chứng đối chiếu: Bắc Mỹ và nước không còn đất rẻ
 
-- Ở các thuộc địa Anh tại Bắc Mỹ, đất chưa khai phá còn rẻ, nên các thành phố chưa có ngành chế tạo làm hàng bán đi xa.
-- Một thợ thủ công Bắc Mỹ dư vốn không lập xưởng để bán nhiều hàng hơn cho vùng lân cận, mà dùng vốn mua và khai phá đất chưa canh tác, trở thành chủ đồn điền. Tiền công cao và đời sống dễ chịu mà xứ đó dành cho thợ thủ công không mua chuộc được anh ta quay lại làm cho người khác thay vì làm cho mình.
-- Lý do tâm lý mà Smith nêu: thợ thủ công là "đầy tớ" của khách hàng mà anh ta sống nhờ; còn chủ đất cày cấy đất của mình bằng sức của gia đình mình thì thực sự là người chủ và độc lập với mọi người.
-- Ngược lại, ở những nước đất chưa canh tác không còn mua rẻ được, thợ có vốn dư sẽ mở rộng nghề và tìm cách bán xa hơn: thợ rèn lập xưởng rèn đúc sắt, thợ dệt mở rộng sang vải lanh, vải len. Hàng ngày càng tinh xảo, đẹp, nhiều mẫu mã hơn.
+Smith đưa ra hai tình huống đối chiếu để kiểm chứng khuynh hướng của vốn.
+
+**Tình huống thứ nhất: các thuộc địa Anh ở Bắc Mỹ, nơi đất chưa khai phá còn rẻ.** Ở đó, các thành phố chưa có ngành chế tạo nào làm hàng để bán đi xa. Khi một thợ thủ công Bắc Mỹ có vốn dư, anh ta không lập xưởng để bán nhiều hàng hơn cho vùng lân cận, mà dùng vốn ấy mua và khai phá đất chưa canh tác, rồi trở thành chủ đồn điền. Tiền công cao và đời sống dễ chịu mà xứ đó dành cho thợ thủ công cũng không mua chuộc được anh ta quay lại làm cho người khác thay vì làm cho mình.
+
+Smith giải thích bằng một lý do tâm lý: thợ thủ công là "đầy tớ" của những khách hàng mà anh ta sống nhờ; còn người chủ đất cày cấy đất của mình, nuôi gia đình bằng sức lao động của gia đình mình, thì thật sự là người chủ và độc lập với mọi người.
+
+**Tình huống thứ hai: những nước không còn đất rẻ để mua.** Ở đó, thợ có vốn dư sẽ dùng nó để mở rộng nghề và tìm cách bán hàng đi xa hơn. Thợ rèn lập xưởng rèn đúc sắt; thợ dệt mở rộng sang dệt vải lanh, vải len. Theo thời gian, hàng làm ra ngày càng tinh xảo, đẹp và nhiều mẫu mã hơn.
+
+| | Nơi đất còn rẻ (Bắc Mỹ thuộc địa) | Nơi đất không còn rẻ |
+|---|---|---|
+| Thợ có vốn dư làm gì | Mua và khai phá đất, thành chủ đồn điền | Mở rộng xưởng, bán hàng đi xa |
+| Chế tạo bán đi xa | Chưa có | Phát triển, ngày càng tinh xảo |
+| Động cơ chính | Sự độc lập của người chủ đất | Lợi nhuận từ mở rộng nghề |
+
+Hai tình huống cho thấy cùng một khuynh hướng: chừng nào còn đất để khai phá, vốn dư đổ vào đất; chỉ khi đất hết rẻ, vốn mới chuyển sang chế tạo.
 
 ### 6. Ngoại thương đến sau cùng, và việc ai làm ngoại thương không quan trọng
 
-- Ở mọi xã hội, phần thặng dư thô và thặng dư chế tạo không tiêu thụ hết trong nước phải xuất ra nước ngoài đổi lấy thứ trong nước cần. Vốn của các xưởng chế tạo muốn được dùng hết thì phải tìm đến ngoại thương, dù chỉ với lợi nhuận bằng hoặc gần bằng trước.
-- Smith khẳng định: vốn đưa hàng ra nước ngoài là vốn nước ngoài hay vốn trong nước "không quan trọng gì lắm".
-- Ông còn đi xa hơn: khi xã hội chưa có đủ vốn để vừa canh tác hết đất đai vừa chế biến trọn vẹn toàn bộ sản phẩm thô, thì để vốn nước ngoài làm việc xuất khẩu sản phẩm thô còn có lợi đáng kể, để toàn bộ vốn trong nước được dùng vào những việc hữu ích hơn.
-- Bằng chứng: sự giàu có của Ai Cập cổ đại, của Trung Hoa và Ấn Độ cho thấy một dân tộc có thể rất giàu dù phần lớn xuất khẩu do người nước ngoài thực hiện. Các thuộc địa Anh ở Bắc Mỹ và Tây Ấn sẽ tiến chậm hơn nhiều nếu không dùng thêm vốn nước ngoài để xuất khẩu thặng dư.
+Ở mọi xã hội, phần thặng dư thô và thặng dư chế tạo không tiêu thụ hết trong nước phải được gửi ra nước ngoài để đổi lấy thứ trong nước cần. Khi các xưởng chế tạo đã lớn đến mức thị trường trong nước không tiêu hết hàng của họ, vốn của họ muốn được dùng hết thì phải tìm đến ngoại thương, dù chỉ với lợi nhuận bằng hoặc gần bằng trước. Ngoại thương vì thế xuất hiện sau cùng, như một lối thoát cho thặng dư.
+
+Smith đưa ra một khẳng định đi ngược quan niệm phổ biến thời ông: việc xuất khẩu ấy được làm bằng vốn nước ngoài hay vốn trong nước "không quan trọng gì lắm". Ông còn đi xa hơn. Khi xã hội chưa có đủ vốn để vừa canh tác hết đất đai, vừa chế biến trọn vẹn toàn bộ sản phẩm thô, thì để vốn nước ngoài làm việc xuất khẩu thặng dư còn có lợi đáng kể. Khi đó toàn bộ vốn trong nước được dồn vào những việc hữu ích hơn là khai phá đất và chế biến.
+
+Bằng chứng Smith đưa ra:
+
+- **Ai Cập cổ đại, Trung Hoa và Ấn Độ** rất giàu có, dù phần lớn hoạt động xuất khẩu của họ do người nước ngoài thực hiện. Điều đó cho thấy một dân tộc có thể đạt mức giàu có rất cao mà không tự làm ngoại thương.
+- **Các thuộc địa Anh ở Bắc Mỹ và Tây Ấn** sẽ tiến chậm hơn nhiều nếu không có thêm vốn nước ngoài (vốn của nhà buôn ở mẫu quốc) để xuất khẩu thặng dư của họ.
 
 ### 7. Kết luận và nghịch lý
 
-- Theo tiến trình tự nhiên, phần lớn vốn của một xã hội đang lớn lên trước hết hướng vào nông nghiệp, sau đó vào chế tạo, cuối cùng vào ngoại thương. Ở mọi nước có đất đai, đất phải được khai phá trước khi thành thị được lập; công nghiệp đi từ thô đến tinh; sau đó mới đến ngoại thương.
-- Nhưng ở các nước châu Âu hiện đại, trật tự đó đã bị đảo ngược về nhiều mặt. Ngoại thương của một số thành phố đã du nhập các ngành chế tạo tinh xảo, và chế tạo cùng ngoại thương đã sinh ra những cải tiến chủ yếu của nông nghiệp.
-- Nguyên nhân: tập quán và phong tục do bản chất của các chính quyền đầu tiên đưa vào, và vẫn tồn tại sau khi các chính quyền ấy đã thay đổi nhiều. Smith gọi đây là trật tự "không tự nhiên và ngược" và hứa sẽ giải thích ở các chương sau.
+Smith tổng kết trật tự tự nhiên: theo tiến trình tự nhiên của sự vật, phần lớn vốn của một xã hội đang lớn lên trước hết hướng vào nông nghiệp, sau đó vào chế tạo, cuối cùng vào ngoại thương. Trật tự ba bước này là:
+
+1. Nông nghiệp: đất phải được khai phá trước khi thành thị được lập.
+2. Công nghiệp chế tạo: đi từ hàng thô cho thị trường địa phương đến hàng tinh xảo bán đi xa.
+3. Ngoại thương: đến sau cùng, để xả thặng dư.
+
+Trật tự này được tôn trọng "ở một chừng mực nhất định" ở mọi nước có đất đai.
+
+Nhưng chương kết thúc bằng một nghịch lý. Ở các nước châu Âu hiện đại, trật tự đó đã bị đảo ngược về nhiều mặt. Ngoại thương của một số thành phố đã du nhập các ngành chế tạo tinh xảo, tức những ngành làm hàng bán đi xa; rồi chế tạo cùng ngoại thương mới sinh ra những cải tiến chủ yếu của nông nghiệp. Nguyên nhân, theo Smith, là tập quán và phong tục do bản chất của các chính quyền đầu tiên (sau khi La Mã sụp đổ) đưa vào, và vẫn tồn tại sau khi các chính quyền ấy đã thay đổi rất nhiều. Smith gọi đây là trật tự "không tự nhiên và ngược", và dành ba chương tiếp theo của Quyển III để giải thích nó.
 
 ## Luận điểm kinh tế cốt lõi
 

@@ -53,24 +53,50 @@
 2. Các ngưỡng doanh thu nào quyết định nghĩa vụ thuế và hóa đơn của hộ kinh doanh theo Nghị định 68/2026/NĐ-CP?
 3. Thông báo bằng cách nào, chậm trễ thì sao, và các trường hợp đặc biệt (hộ cũ, chi phí, bán online) xử lý thế nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Hộ kinh doanh.** Một cá nhân hoặc một gia đình buôn bán, làm dịch vụ dưới tên mình, không lập công ty. Đó là quán ăn, tiệm tạp hoá, quán trà sữa, sạp chợ. Ví dụ trong bài: chị Mai, 31 tuổi, mở một quán trà sữa nhỏ ở quận Gò Vấp tháng 3/2026. Cả nước có hơn 5 triệu hộ như vậy, nên một thay đổi về cách thu thuế với họ ảnh hưởng đến rất nhiều người.
+
+**Thuế khoán.** Cách thu thuế cũ: cơ quan thuế ước định một mức doanh thu cho hộ rồi ấn định một số tiền thuế cố định phải đóng, dù thực tế bán được nhiều hay ít. Ví dụ minh hoạ: một tiệm tạp hoá được khoán đóng 1 triệu đồng mỗi tháng, tháng đắt hàng hay ế hàng đều đóng chừng đó. Bài viết bắt đầu từ việc bỏ cách thu này.
+
+**Kê khai theo doanh thu thực tế.** Cách thu mới: hộ tự ghi lại và báo cho cơ quan thuế số tiền bán hàng thật sự thu được, rồi nghĩa vụ thuế được tính trên con số đó. Ví dụ minh hoạ: tháng nào bán được 40 triệu thì khai 40 triệu, tháng nào bán được 25 triệu thì khai 25 triệu. Mọi quy định về hạn chót và ngưỡng trong bài đều xuất phát từ việc chuyển sang cách này.
+
+**Doanh thu và lợi nhuận.** Doanh thu là tổng tiền bán hàng thu về; lợi nhuận là phần còn lại sau khi trừ chi phí như nguyên liệu, mặt bằng, nhân công. Ví dụ minh hoạ: quán bán được 60 triệu đồng một tháng (doanh thu), chi phí hết 55 triệu, thì lợi nhuận là 5 triệu. Phân biệt này quan trọng vì mọi ngưỡng 500 triệu và 1 tỷ đồng trong bài đều tính theo doanh thu, không phải lợi nhuận.
+
+**Doanh thu lũy kế.** Tổng doanh thu cộng dồn từ đầu năm (hoặc từ khi mở) tới một thời điểm. Ví dụ minh hoạ: quý 1 bán 150 triệu, quý 2 bán 200 triệu, quý 3 bán 200 triệu thì lũy kế đến hết quý 3 là 550 triệu, tức đã vượt ngưỡng 500 triệu trong quý 3. Bài nhấn mạnh khái niệm này vì vượt ngưỡng giữa năm làm thay đổi nghĩa vụ ngay lập tức.
+
+**Hóa đơn điện tử.** Hóa đơn bán hàng được lập và lưu bằng phần mềm, có thể gắn mã của cơ quan thuế hoặc được khởi tạo từ máy tính tiền nối dữ liệu với cơ quan thuế, nên cơ quan thuế thấy được từng giao dịch. Ví dụ minh hoạ: khách thanh toán 50.000 đồng, máy tính tiền in hóa đơn và gửi ngay dữ liệu đó lên hệ thống thuế. Bài dùng hóa đơn điện tử làm một trong những thứ phân biệt ba nhóm doanh thu.
+
+**Miễn thuế và miễn khai báo.** Miễn thuế là không phải nộp tiền thuế; miễn khai báo là không phải báo số liệu. Hai việc này khác nhau. Ví dụ trong bài: hộ có doanh thu dưới 500 triệu đồng một năm được miễn thuế giá trị gia tăng và thuế thu nhập cá nhân, nhưng vẫn phải thông báo doanh thu. Đây là thông điệp chính của bài.
+
+**Khấu trừ thuế thay.** Một bên thứ ba giữ lại phần thuế từ tiền trả cho người bán và nộp hộ vào ngân sách. Ví dụ minh hoạ: người bán có đơn hàng 1 triệu đồng trên sàn thương mại điện tử, sàn giữ lại phần thuế theo tỷ lệ rồi chuyển phần còn lại cho người bán. Bài nhắc khái niệm này khi trả lời câu hỏi về bán hàng online.
+
+## Nội dung chi tiết
 
 ### 1. Tin nhanh và tình huống mở đầu
-- Việc cần làm trước 31/7/2026: hộ, cá nhân kinh doanh mới bắt đầu hoạt động trong 6 tháng đầu năm 2026, doanh thu từ khi bắt đầu đến hết 30/6 dưới hoặc bằng 500 triệu đồng, phải thông báo doanh thu thực tế phát sinh cho cơ quan thuế. Hạn chót 31/7/2026 (theo Nghị định 68/2026/NĐ-CP).
-- Bài ghi cập nhật 30/7/2026 và mang tính tham khảo; người đọc nên đối chiếu với cơ quan thuế địa phương.
-- Tình huống: chị Mai, 31 tuổi, mở quán trà sữa nhỏ ở quận Gò Vấp tháng 3/2026; quán đông, mỗi tháng lời vài triệu; chị không để ý giấy tờ thuế cho tới khi bạn nhắc "hộ mới phải báo doanh thu trước 31/7". Câu hỏi: mình có phải làm không, làm thế nào?
+
+Bài mở bằng một việc cần làm có hạn chót rõ ràng. Hộ hoặc cá nhân kinh doanh mới bắt đầu hoạt động trong 6 tháng đầu năm 2026, có doanh thu từ khi bắt đầu đến hết 30/6 dưới hoặc bằng 500 triệu đồng, phải thông báo doanh thu thực tế phát sinh cho cơ quan thuế. Hạn chót là ngày 31/7/2026, theo Nghị định 68/2026/NĐ-CP. Bài ghi cập nhật ngày 30/7/2026, tức chỉ một ngày trước hạn, và tự nói rằng thông tin chỉ mang tính tham khảo; người đọc nên đối chiếu với cơ quan thuế địa phương.
+
+Để đưa người đọc vào vấn đề, bài kể tình huống của chị Mai, 31 tuổi, mở một quán trà sữa nhỏ ở quận Gò Vấp vào tháng 3/2026. Quán đông khách, mỗi tháng lời vài triệu đồng. Chị không để ý giấy tờ thuế cho tới khi một người bạn nhắc: "hộ mới phải báo doanh thu trước 31/7". Câu hỏi của chị cũng là câu hỏi của bài: mình có phải làm không, và làm thế nào? Lưu ý rằng "lời vài triệu" là lợi nhuận, còn việc chị có thuộc diện hay không lại phụ thuộc vào doanh thu, tức tổng tiền bán trà sữa thu về.
 
 ### 2. Bối cảnh: bỏ thuế khoán, chuyển sang kê khai
-- Từ 1/1/2026, theo Nghị định 68/2026/NĐ-CP, hơn 5 triệu hộ kinh doanh cả nước chuyển từ thuế khoán (đóng một mức cố định) sang kê khai (khai theo doanh thu thực tế).
-- Thay đổi kéo theo hàng loạt nghĩa vụ mới về khai thuế, hóa đơn, sổ sách.
-- Hộ mới thành lập có quy định riêng để tránh áp dụng cứng nhắc, và nhóm này có mốc hạn 31/7.
+
+Từ ngày 1/1/2026, theo Nghị định 68/2026/NĐ-CP, hơn 5 triệu hộ kinh doanh trên cả nước chuyển từ thuế khoán sang kê khai. Với thuế khoán, hộ đóng một mức cố định đã được ấn định trước. Với kê khai, hộ khai theo doanh thu thực tế. Thay đổi này kéo theo hàng loạt nghĩa vụ mới về khai thuế, hóa đơn và sổ sách, vì giờ đây cơ quan thuế cần số liệu thật thay vì một con số ước định.
+
+Riêng hộ mới thành lập có quy định riêng, để tránh áp dụng cứng nhắc cho những người vừa mới bắt đầu và chưa có số liệu cả năm. Nhóm này chính là nhóm có mốc hạn 31/7.
 
 ### 3. Điều kiện phải thông báo trước 31/7/2026
-- Phải đáp ứng cả hai điều kiện:
-  - Bắt đầu hoạt động trong 6 tháng đầu năm 2026 (tháng 1 đến tháng 6).
-  - Doanh thu từ khi bắt đầu đến hết 30/6/2026 không vượt quá 500 triệu đồng.
-- Khi đó phải thông báo doanh thu thực tế phát sinh trong khoảng thời gian này, chậm nhất 31/7.
-- Hộ bắt đầu hoạt động trong 6 tháng cuối năm, doanh thu dưới 500 triệu đồng: chỉ thông báo một lần, hạn chót 31/1 năm sau.
+
+Một hộ phải thông báo trước ngày 31/7/2026 khi đáp ứng **cả hai** điều kiện sau:
+
+- Bắt đầu hoạt động trong 6 tháng đầu năm 2026, tức từ tháng 1 đến tháng 6 (T1–T6).
+- Doanh thu từ khi bắt đầu đến hết ngày 30/6/2026 không vượt quá 500 triệu đồng.
+
+Khi đó, hộ thông báo doanh thu thực tế phát sinh trong khoảng thời gian này, chậm nhất ngày 31/7.
+
+Hộ bắt đầu hoạt động trong 6 tháng cuối năm, tức từ tháng 7 đến tháng 12 (T7–T12), có doanh thu dưới 500 triệu đồng thì chưa vướng mốc 31/7. Nhóm này chỉ thông báo một lần, hạn chót ngày 31/1 năm sau.
+
+Còn bất kể hộ mở khi nào, nếu doanh thu lũy kế trong năm vượt 500 triệu đồng thì hộ phải khai thuế theo quý, bắt đầu từ quý phát sinh doanh thu vượt ngưỡng. Ba trường hợp tóm lại như sau:
 
 | Nhóm hộ mới | Kỳ tính doanh thu | Hạn thông báo |
 |---|---|---|
@@ -78,35 +104,55 @@
 | Mở tháng 7–12/2026, doanh thu < 500 triệu | Cả thời gian hoạt động trong năm | 31/1/2027 (một lần) |
 | Bất kỳ hộ nào có doanh thu lũy kế vượt 500 triệu trong năm | Theo quý | Khai thuế theo quý từ quý vượt ngưỡng |
 
+Áp vào chị Mai: quán mở tháng 3/2026, thuộc nửa đầu năm. Nếu tổng tiền bán từ tháng 3 đến hết 30/6 không vượt 500 triệu đồng, chị thuộc diện phải thông báo trước 31/7/2026.
+
 ### 4. Các ngưỡng doanh thu cần nhớ
-- **Dưới 500 triệu đồng/năm:** được miễn thuế giá trị gia tăng và thuế thu nhập cá nhân; chưa bắt buộc dùng hóa đơn điện tử; vẫn phải thông báo doanh thu để cơ quan thuế nắm dữ liệu.
-- **Từ 500 triệu đến 1 tỷ đồng/năm:** chưa bắt buộc nhưng được khuyến khích dùng hóa đơn điện tử; phát sinh nghĩa vụ khai, nộp thuế theo tỷ lệ quy định.
-- **Từ 1 tỷ đồng/năm trở lên:** bắt buộc dùng hóa đơn điện tử có mã của cơ quan thuế hoặc hóa đơn khởi tạo từ máy tính tiền kết nối dữ liệu với cơ quan thuế.
-- **Vượt mốc giữa chừng:** doanh thu lũy kế vượt 500 triệu đồng trong năm, bất kể mở hộ khi nào, thì phải chuyển sang khai thuế theo quý kể từ quý phát sinh doanh thu vượt ngưỡng. Bài nhấn mạnh đây là điểm dễ bỏ sót: "đang được miễn, bán tốt lên một chút là nghĩa vụ thay đổi ngay".
+
+Nghị định 68 chia hộ kinh doanh thành ba nhóm theo doanh thu năm. Mỗi nhóm có nghĩa vụ thuế và hóa đơn khác nhau:
+
+| Doanh thu năm | Thuế | Hóa đơn điện tử | Thông báo doanh thu |
+|---|---|---|---|
+| Dưới 500 triệu đồng | Miễn thuế giá trị gia tăng (VAT) và thuế thu nhập cá nhân (TNCN) | Chưa bắt buộc | Vẫn phải thông báo, để cơ quan thuế nắm dữ liệu |
+| Từ 500 triệu đến 1 tỷ đồng | Phát sinh nghĩa vụ khai, nộp thuế theo tỷ lệ quy định | Chưa bắt buộc nhưng được khuyến khích | Khai thuế |
+| Từ 1 tỷ đồng trở lên | Khai, nộp thuế | Bắt buộc: hóa đơn điện tử có mã của cơ quan thuế, hoặc hóa đơn khởi tạo từ máy tính tiền kết nối dữ liệu với cơ quan thuế | Khai thuế |
+
+Điểm bài nhấn mạnh là trường hợp **vượt mốc giữa chừng**. Nếu doanh thu lũy kế vượt 500 triệu đồng trong năm, bất kể hộ mở khi nào, thì hộ phải chuyển sang khai thuế theo quý kể từ quý phát sinh doanh thu vượt ngưỡng. Bài gọi đây là điểm dễ bỏ sót: "đang được miễn, bán tốt lên một chút là nghĩa vụ thay đổi ngay". Ví dụ minh hoạ: một hộ bán đều khoảng 45 triệu đồng mỗi tháng sẽ có lũy kế khoảng 495 triệu sau 11 tháng và vượt 500 triệu trong tháng 12, tức trong quý 4; từ quý đó hộ phải khai thuế theo quý.
 
 ### 5. Cách thông báo
-- Việc thông báo doanh thu và các nghĩa vụ thuế của hộ kinh doanh thực hiện theo phương thức điện tử:
-  1. Đăng nhập ứng dụng thuế điện tử cho cá nhân/hộ kinh doanh (như eTax Mobile) hoặc Cổng thông tin điện tử của cơ quan thuế.
-  2. Chuẩn bị số liệu doanh thu thực tế từ khi bắt đầu hoạt động đến 30/6/2026.
-  3. Thông báo tất cả tài khoản ngân hàng, ví điện tử dùng cho kinh doanh theo yêu cầu của quy định mới.
-  4. Nếu không rành, liên hệ chi cục thuế nơi đăng ký hoặc dùng dịch vụ đại lý thuế.
+
+Việc thông báo doanh thu và các nghĩa vụ thuế khác của hộ kinh doanh được làm theo phương thức điện tử. Bài nêu bốn bước:
+
+1. Đăng nhập ứng dụng thuế điện tử dành cho cá nhân, hộ kinh doanh (như eTax Mobile) hoặc Cổng thông tin điện tử của cơ quan thuế.
+2. Chuẩn bị số liệu doanh thu thực tế từ khi bắt đầu hoạt động đến ngày 30/6/2026.
+3. Thông báo tất cả tài khoản ngân hàng và ví điện tử dùng cho kinh doanh, theo yêu cầu của quy định mới.
+4. Nếu không rành thủ tục, liên hệ chi cục thuế nơi đăng ký hoặc dùng dịch vụ đại lý thuế.
+
+Bước 3 cho thấy logic của quy định mới: khi khách trả tiền qua chuyển khoản hay ví điện tử, dòng tiền đó để lại dấu vết, nên khai báo tài khoản giúp cơ quan thuế đối chiếu với doanh thu được thông báo.
 
 ### 6. Chậm hoặc bỏ qua có thể bị xử lý
-- Thông báo doanh thu giúp cơ quan thuế xây dựng dữ liệu và tránh nghi ngờ khai thấp để trục lợi miễn thuế.
-- Chậm trễ hoặc bỏ qua có thể bị nhắc nhở, xử phạt hành chính.
+
+Theo bài, việc thông báo doanh thu có hai mục đích: giúp cơ quan thuế xây dựng dữ liệu về hộ kinh doanh, và tránh tình trạng khai doanh thu thấp hơn thực tế để được hưởng miễn thuế. Vì vậy, hộ thông báo chậm hoặc bỏ qua có thể bị nhắc nhở hoặc xử phạt hành chính, kể cả khi hộ thực sự thuộc diện được miễn thuế.
 
 ### 7. Hành động ngay
-1. Xác định hộ có thuộc diện (mở nửa đầu năm 2026, doanh thu ≤ 500 triệu đồng) không.
-2. Tổng hợp doanh thu từ khi mở tới 30/6/2026.
-3. Vào eTax Mobile hoặc liên hệ chi cục thuế để hoàn tất trước hạn.
-4. Lưu lại xác nhận đã nộp để đối chiếu.
+
+Bài tóm tắt thành bốn việc cần làm ngay:
+
+1. Xác định hộ có thuộc diện hay không: mở trong nửa đầu năm 2026 và doanh thu đến 30/6 không quá 500 triệu đồng.
+2. Tổng hợp doanh thu từ khi mở đến hết 30/6/2026.
+3. Vào eTax Mobile hoặc liên hệ chi cục thuế để hoàn tất trước hạn 31/7.
+4. Lưu lại xác nhận đã nộp để đối chiếu về sau.
 
 ### 8. Câu hỏi thường gặp
-- **Doanh thu dưới 500 triệu đã được miễn thuế, sao vẫn phải thông báo?** Miễn thuế không có nghĩa miễn khai báo; cơ quan thuế cần dữ liệu doanh thu để quản lý và phát hiện trường hợp cố tình khai thấp.
-- **Mở quán từ năm 2025 có phải theo mốc 31/7?** Không; mốc này áp dụng cho hộ mới bắt đầu trong 6 tháng đầu năm 2026. Hộ đã hoạt động từ trước áp dụng nguyên tắc khai chung theo Nghị định 68; nên hỏi cơ quan thuế để xác định đúng nhóm.
-- **Không có hóa đơn đầu vào thì tính chi phí thế nào?** Nghị định 68 cho phép ghi nhận giá trị hàng tồn kho, máy móc, thiết bị tại thời điểm 31/12/2025 làm căn cứ tính chi phí được trừ từ kỳ tính thuế 2026; chi tiết nên trao đổi với cơ quan thuế hoặc đại lý thuế.
-- **Bán hàng trên sàn thương mại điện tử?** Với sàn có chức năng đặt hàng và thanh toán, sàn có trách nhiệm khấu trừ và nộp thuế thay người bán; người bán vẫn nên nắm nghĩa vụ để đối chiếu.
-- Bài nhấn mạnh đây là thông tin tổng hợp, không phải tư vấn thuế, và kết thúc bằng lời mời tham gia AI WikiMoney.
+
+**Doanh thu dưới 500 triệu đã được miễn thuế, sao vẫn phải thông báo?** Vì miễn thuế không có nghĩa là miễn khai báo. Cơ quan thuế cần dữ liệu doanh thu để quản lý và để phát hiện những trường hợp cố tình khai thấp nhằm rơi vào nhóm được miễn.
+
+**Mở quán từ năm 2025 có phải theo mốc 31/7 không?** Không. Mốc này chỉ áp dụng cho hộ mới bắt đầu hoạt động trong 6 tháng đầu năm 2026. Hộ đã hoạt động từ trước áp dụng nguyên tắc khai chung theo Nghị định 68; bài khuyên hỏi cơ quan thuế để xác định đúng nhóm của mình.
+
+**Không có hóa đơn đầu vào thì tính chi phí thế nào?** Nghị định 68 cho phép ghi nhận giá trị hàng tồn kho, máy móc, thiết bị tại thời điểm 31/12/2025 làm căn cứ tính chi phí được trừ, bắt đầu từ kỳ tính thuế 2026. Nói cách khác, những thứ hộ đã mua và đang có trước khi chuyển sang kê khai vẫn được tính là chi phí dù không còn hóa đơn mua vào. Chi tiết nên trao đổi với cơ quan thuế hoặc đại lý thuế.
+
+**Bán hàng trên sàn thương mại điện tử thì sao?** Với sàn có chức năng đặt hàng và thanh toán, sàn có trách nhiệm khấu trừ và nộp thuế thay người bán. Dù vậy, người bán vẫn nên nắm nghĩa vụ của mình để đối chiếu số liệu.
+
+Bài kết thúc bằng lời nhấn mạnh đây là thông tin tổng hợp, không phải tư vấn thuế, và lời mời tham gia AI WikiMoney.
 
 ## Thuật ngữ
 

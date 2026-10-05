@@ -373,103 +373,287 @@
 2. **Có trường hợp nào nên đánh thuế hàng ngoại không?** Có hai: khi ngành ấy cần cho quốc phòng (Đạo luật Hàng hải, vì quốc phòng quan trọng hơn giàu có), và khi hàng nội cùng loại đã chịu thuế trong nước (đánh thuế ngang bằng để giữ mặt bằng cạnh tranh, nhưng không mở rộng sang mọi hàng với lý do thuế nhu yếu phẩm làm đắt tiền công).
 3. **Nên trả đũa thế nào, và nên gỡ bảo hộ ra sao?** Trả đũa chỉ đáng làm khi có triển vọng thật buộc bên kia gỡ thuế; nếu không, nó là một thứ thuế đánh lên cả nước. Gỡ bảo hộ nên làm từ từ, báo trước, vì vốn cố định của chủ xưởng khó chuyển, nhưng xáo trộn nhỏ hơn người ta tưởng nếu đồng thời trả lại cho người lao động quyền tự do chọn nghề và nơi ở. Còn tự do thương mại hoàn toàn thì không bao giờ đến, vì độc quyền tạo ra lực lượng chính trị bảo vệ chính nó.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Độc quyền thị trường trong nước (monopoly of the home market).** Tình trạng hàng sản xuất trong nước gần như không phải cạnh tranh với hàng ngoại cùng loại, vì nhà nước đánh thuế nhập khẩu rất cao hoặc cấm nhập hẳn. Không cần chỉ có một người bán: cả ngành len của Anh được gọi là "độc quyền" vì len ngoại bị cấm vào. Ví dụ minh hoạ: nếu một tấm vải ngoại giá 10 shilling mà phải chịu thuế 10 shilling, nó về tới tay người mua với giá 20, và thợ dệt trong nước có thể bán tới gần 20 mà vẫn không mất khách. Đây là công cụ đầu tiên và quan trọng nhất của hệ thống trọng thương mà cả chương phân tích.
+
+**Vốn giới hạn công việc.** Ý tưởng của Smith rằng số người được thuê trong một xã hội tuỳ thuộc vào số vốn dùng để trả tiền công và mua nguyên liệu (thường gọi là quỹ nuôi lao động). Ví dụ minh hoạ: một chủ xưởng có vốn đủ trả tiền công cho 10 thợ trong một năm thì chỉ thuê được 10 thợ, dù luật pháp khuyến khích thế nào; muốn thuê 12 thợ, ông phải có thêm vốn, và vốn chỉ tăng khi có người tiết kiệm từ thu nhập. Khái niệm này quan trọng vì nó là nền của kết luận rằng bảo hộ chỉ dời công việc từ ngành này sang ngành khác chứ không làm tổng công việc tăng lên.
+
+**Nội thương, ngoại thương tiêu dùng, vận tải trung chuyển.** Ba cách dùng vốn thương mại mà Smith đã phân biệt ở Quyển II. *Nội thương* (home trade) là mua hàng trong nước để bán trong nước. *Ngoại thương tiêu dùng* (foreign trade of consumption) là mua hàng ngoại về cho người trong nước dùng, trả bằng hàng trong nước. *Vận tải trung chuyển* (carrying trade) là chở hàng giữa hai nước ngoài, như nhà buôn Amsterdam chở ngũ cốc từ Königsberg sang Lisbon. Theo Smith, cùng một lượng vốn đặt ở nội thương nuôi được nhiều lao động trong nước nhất, ở vận tải trung chuyển nuôi được ít nhất. Điều này quan trọng vì chương dùng nó để chứng minh rằng chủ vốn, tự mình, đã nghiêng về phía có lợi nhất cho lao động trong nước.
+
+**Bàn tay vô hình (invisible hand).** Hình ảnh Smith dùng để nói rằng một người chỉ lo cho lợi ích riêng của mình có thể, ngoài ý định, làm lợi cho cả xã hội. Ví dụ trong chương: một nhà buôn giữ vốn ở trong nước chỉ vì thấy an toàn hơn, và chọn sản xuất thứ có giá trị cao nhất chỉ vì muốn lãi nhiều hơn; nhưng chính hai việc ấy làm việc làm trong nước và thu nhập của xã hội lớn nhất. Khái niệm này quan trọng vì đây là lần duy nhất cụm từ xuất hiện trong bộ sách, và nó được dùng cho một lập luận hẹp: không cần luật bảo hộ để khuyến khích đầu tư trong nước.
+
+**Lợi thế tự nhiên và lợi thế tự tạo (natural and acquired advantages).** Lợi thế tự nhiên đến từ đất đai, khí hậu, vị trí, như khí hậu Pháp hợp với trồng nho. Lợi thế tự tạo đến từ kỹ năng, kinh nghiệm, vốn tích luỹ, như tay nghề của người thợ giày. Ví dụ trong chương: Scotland có thể trồng nho trong nhà kính và làm rượu ngon, nhưng tốn gấp khoảng 30 lần chi phí mua rượu ngoại cùng chất lượng. Khái niệm này quan trọng vì Smith nói nguồn gốc lợi thế không quan trọng: chừng nào nước khác có lợi thế, mua của họ vẫn lợi hơn tự làm.
+
+**Chi phí cơ hội.** Cái phải bỏ đi khi dùng nguồn lực vào việc này thay vì việc khác. Smith không dùng chữ này, nhưng lập luận của ông dựa vào nó. Ví dụ minh hoạ: một nước dùng 100 đơn vị vốn để tự làm rượu, trong khi chỉ cần dùng 20 đơn vị vốn làm len rồi đổi len lấy cùng lượng rượu ấy; 80 đơn vị còn lại lẽ ra làm được thêm hàng hoá khác. Khái niệm này quan trọng vì nó giải thích vì sao Smith nói bảo hộ làm *giảm* giá trị sản phẩm hàng năm chứ không chỉ "không tăng".
+
+**Công nghiệp non trẻ (infant industry).** Một ngành mới ra đời trong nước, lúc đầu chưa làm được rẻ như nước ngoài, mà người ta cho rằng nếu được bảo hộ một thời gian thì sẽ học được nghề, lớn lên và cạnh tranh được. Ví dụ minh hoạ: một ngành dệt lụa mới, năm đầu giá thành cao hơn lụa nhập 50%, sau mười năm được bảo hộ thì rẻ bằng lụa nhập. Khái niệm này quan trọng vì đây là lập luận mạnh nhất ủng hộ bảo hộ, và Smith thừa nhận nó có thể đúng một phần, rồi chỉ ra cái giá phải trả trong thời gian chờ.
+
+**Vốn cố định và vốn lưu động (fixed and circulating capital).** Vốn cố định là nhà xưởng, máy móc, công cụ, những thứ dùng lâu và gắn với một nghề. Vốn lưu động là tiền mua nguyên liệu và trả tiền công, quay vòng nhanh và chuyển sang nghề khác được. Ví dụ minh hoạ: một chủ xưởng dệt lụa có xưởng và khung cửi trị giá 1.000 bảng cùng 500 bảng tiền nguyên liệu và tiền công; nếu lụa ngoại tràn vào, ông chuyển được 500 bảng sang việc khác, nhưng xưởng và khung cửi chỉ bán được với giá rẻ. Khái niệm này quan trọng vì nó là lý do Smith đòi gỡ bảo hộ phải chậm, từ từ, báo trước.
+
+## Nội dung chi tiết
 
 ### 1. Thực trạng bảo hộ ở Anh và câu hỏi đặt ra
 
-- Thuế cao hoặc lệnh cấm nhập hàng ngoại mà trong nước làm được bảo đảm, ở mức độ nào đó, độc quyền thị trường trong nước cho công nghiệp nội địa.
-- Ví dụ ở Anh: cấm nhập gia súc sống và thịt muối cho người chăn nuôi độc quyền thịt; thuế cao lên ngũ cốc nhập, trong những năm sản xuất chỉ vừa đủ, tương đương lệnh cấm; cấm hàng len ngoại cho nhà sản xuất len; tơ lụa, dù hoàn toàn dùng nguyên liệu nhập, mới được hưởng; vải lanh đang trên đường được hưởng. Số mặt hàng được bảo hộ vượt xa điều người không quen luật thuế quan có thể đoán.
-- Độc quyền chắc chắn khuyến khích ngành được bảo hộ và kéo thêm vốn và lao động vào đó. Câu hỏi là nó có làm tăng tổng công nghiệp của xã hội, hay hướng nó vào chỗ có lợi nhất, không.
+Chương mở đầu bằng một mô tả. Khi nhà nước đánh thuế cao hoặc cấm hẳn việc nhập những hàng ngoại mà trong nước cũng làm được, người sản xuất trong nước được bảo đảm, ở mức độ nào đó, độc quyền thị trường trong nước. Nước Anh thời Smith dùng công cụ này rất rộng:
+
+| Mặt hàng | Biện pháp | Ai được hưởng |
+|---|---|---|
+| Gia súc sống và thịt muối | Cấm nhập | Người chăn nuôi Anh có độc quyền thịt bò, thịt lợn trên thị trường trong nước |
+| Ngũ cốc | Thuế nhập cao; trong những năm sản xuất trong nước chỉ vừa đủ, mức thuế này tương đương lệnh cấm | Nông dân trồng ngũ cốc |
+| Hàng len dạ | Cấm nhập len dạ ngoại | Nhà sản xuất len |
+| Tơ lụa | Mới được bảo hộ gần đây, dù nguyên liệu (tơ sống) phải nhập hoàn toàn | Chủ xưởng lụa |
+| Vải lanh | Đang trên đường được bảo hộ | Chủ xưởng vải lanh |
+
+Smith nhận xét rằng số mặt hàng được bảo hộ như vậy vượt xa điều mà một người không quen luật thuế quan có thể phỏng đoán.
+
+Ông tách hai câu hỏi. Điều đã rõ: độc quyền chắc chắn khuyến khích ngành được bảo hộ, và kéo thêm vốn và lao động vào ngành đó. Điều chưa rõ, và là câu hỏi của cả chương: độc quyền ấy có làm **tăng tổng** hoạt động sản xuất của xã hội không, hay ít nhất có hướng hoạt động ấy vào chỗ **có lợi nhất** không? Một ngành lớn lên chưa chắc cả nền kinh tế lớn lên; có thể nó chỉ lớn lên bằng cách lấy bớt của ngành khác.
 
 ### 2. Vốn giới hạn công việc
 
-- Tổng công nghiệp của xã hội không vượt quá những gì tổng vốn có thể sử dụng. Số thợ một người chủ thuê phải tương xứng với vốn của ông ta; số thợ của cả xã hội phải tương xứng với vốn của cả xã hội.
-- Không quy định thương mại nào làm tăng số công việc vượt quá số vốn nuôi được. Nó chỉ có thể lái một phần công việc sang hướng mà lẽ ra nó không đi, và không có gì chắc rằng hướng nhân tạo ấy có lợi cho xã hội hơn hướng vốn tự đi.
+Bước đầu tiên của lập luận dựa vào một kết quả của Quyển II. Tổng hoạt động sản xuất của một xã hội không thể vượt quá những gì tổng vốn của xã hội đó nuôi được. Lý do rất đơn giản nếu nhìn ở cấp một doanh nghiệp: số thợ mà một người chủ thuê phải tương xứng với vốn của ông ta, vì ông phải ứng trước tiền công và tiền nguyên liệu trước khi bán được hàng. Cộng tất cả các chủ lại, số thợ của cả xã hội phải tương xứng với vốn của cả xã hội.
+
+Từ đó Smith rút ra: không một quy định thương mại nào có thể làm tăng số công việc của xã hội lên quá mức mà vốn của xã hội nuôi được. Điều duy nhất một quy định làm được là lái một phần công việc sang một hướng mà lẽ ra nó không đi. Và không có gì bảo đảm rằng hướng nhân tạo ấy có lợi cho xã hội hơn hướng mà vốn tự chọn.
+
+**Ví dụ minh hoạ** (số giả định để dễ theo dõi). Một nước có tổng vốn đủ nuôi 1 triệu thợ. Trước khi có lệnh cấm lụa ngoại, 50.000 người làm lụa và 950.000 người làm các nghề khác. Sau lệnh cấm, ngành lụa lớn lên, thuê 80.000 người. Theo Smith, 30.000 người thêm ấy không phải việc làm mới: vốn để trả họ đã bị rút khỏi các nghề khác, nên các nghề khác chỉ còn 920.000 người. Tổng vẫn là 1 triệu. Câu hỏi duy nhất còn lại là 30.000 người ấy làm ra nhiều giá trị hơn ở ngành lụa hay ở ngành cũ.
 
 ### 3. Người chủ vốn tự chọn đúng: hai kênh và bàn tay vô hình
 
-- Mỗi cá nhân cố tìm chỗ dùng vốn có lợi nhất cho mình, không phải cho xã hội. Nhưng việc tìm lợi cho mình tự nhiên, hay đúng hơn là tất yếu, dẫn anh ta đến chỗ có lợi nhất cho xã hội.
-- Kênh thứ nhất: mỗi người cố dùng vốn càng gần nhà càng tốt, do đó hỗ trợ công nghiệp trong nước nhiều nhất, miễn là lợi nhuận bằng hoặc không kém nhiều so với mức thông thường. Với lợi nhuận ngang nhau, nhà buôn thích nội thương hơn ngoại thương tiêu dùng, và thích ngoại thương tiêu dùng hơn vận tải trung chuyển. Ở nội thương, vốn không bao giờ rời mắt ông, ông biết tính tình và hoàn cảnh người mình tin, và nếu bị lừa thì biết dùng luật trong nước để đòi.
-- Ví dụ: một nhà buôn Amsterdam chở ngũ cốc từ Königsberg đến Lisbon, và hoa quả, rượu vang từ Lisbon về Königsberg. Vốn của ông nửa ở Königsberg, nửa ở Lisbon, không phần nào về Amsterdam. Sự bứt rứt khi xa vốn khiến ông thường đưa một phần hàng về Amsterdam, dù phải chịu bốc dỡ hai lần và vài khoản thuế. Chính vì thế mà mọi nước có phần đáng kể trong vận tải trung chuyển trở thành chợ tổng hợp cho hàng của các nước khác.
-- Để tránh bốc dỡ lần nữa, nhà buôn cố bán càng nhiều càng tốt ở thị trường trong nước, nên vô tình biến vận tải trung chuyển thành ngoại thương tiêu dùng. Tương tự, nhà buôn ngoại thương tiêu dùng sẽ vui mừng bán ngay trong nước nếu lợi nhuận ngang bằng, và khi có thể thì chuyển hẳn thành nội thương. Thị trường trong nước là trung tâm mà mọi vốn của một nước quay quanh và luôn hướng về.
-- Như Smith đã chứng minh trong Quyển II, Chương V, cùng một lượng vốn đặt ở nội thương huy động nhiều lao động trong nước hơn và tạo nhiều thu nhập trong nước hơn so với khi đặt ở ngoại thương tiêu dùng (vì nội thương thay thế hai vốn trong nước mỗi vòng, ngoại thương chỉ thay một) và hơn hẳn vận tải trung chuyển (không thay vốn trong nước nào). Vậy, lợi nhuận ngang nhau thì mỗi người tự hướng vốn vào chỗ hỗ trợ lao động trong nước nhiều nhất.
-- Kênh thứ hai: người dùng vốn để duy trì công nghiệp tất yếu cố cho sản phẩm có giá trị lớn nhất. Sản phẩm công nghiệp là phần lao động thêm vào nguyên liệu; lợi nhuận của chủ vốn tuỳ thuộc giá trị ấy. Nhưng thu nhập hàng năm của xã hội luôn đúng bằng giá trị trao đổi của toàn bộ sản phẩm hàng năm. Vậy khi mỗi người cố làm sản phẩm của mình có giá trị cao nhất, mỗi người tất yếu góp phần làm thu nhập hàng năm của xã hội lớn nhất.
-- Anh ta không định thúc đẩy lợi ích công cộng, cũng không biết mình thúc đẩy bao nhiêu. Ưa công nghiệp trong nước hơn nước ngoài, anh ta chỉ nghĩ đến sự an toàn của mình; hướng sản xuất vào giá trị cao nhất, chỉ nghĩ đến lợi nhuận của mình. Trong trường hợp này, như nhiều trường hợp khác, anh ta được một bàn tay vô hình dẫn dắt để thực hiện một mục đích không nằm trong ý định của mình. Việc đó không nằm trong ý định cũng không phải lúc nào cũng tệ cho xã hội. Theo đuổi lợi ích riêng, anh ta thường thúc đẩy lợi ích xã hội hiệu quả hơn so với khi cố ý làm vậy.
-- Smith thêm một câu châm biếm: ông chưa thấy mấy điều tốt do những người làm ra vẻ buôn bán vì lợi ích công cộng; may là kiểu làm ra vẻ ấy không phổ biến ở nhà buôn, và chỉ cần vài lời là khuyên họ thôi.
-- Ai biết loại công việc nào cho vốn của mình sản phẩm giá trị nhất? Rõ ràng là chính người tại chỗ, giỏi hơn mọi chính khách hay nhà lập pháp. Nhà chính khách cố chỉ đạo tư nhân dùng vốn không chỉ tự gánh một việc hoàn toàn không cần, mà còn nắm một quyền lực không thể giao an toàn cho bất kỳ một người, hội đồng hay thượng viện nào, và quyền lực ấy không ở đâu nguy hiểm bằng trong tay một người đủ dại dột và tự phụ để tưởng mình đủ sức dùng nó.
+Bước thứ hai là chứng minh rằng hướng vốn tự chọn đã là hướng tốt nhất. Mỗi cá nhân luôn cố tìm chỗ dùng vốn có lợi nhất cho mình, chứ không phải cho xã hội. Nhưng, theo Smith, việc tìm lợi cho mình "một cách tự nhiên, hay đúng hơn là tất yếu" dẫn anh ta đến chỗ dùng vốn có lợi nhất cho xã hội. Có hai kênh dẫn từ lợi ích riêng tới lợi ích chung.
+
+**Kênh thứ nhất: vì an toàn, vốn tìm về gần nhà.** Mỗi người cố dùng vốn càng gần nhà càng tốt, do đó hỗ trợ hoạt động sản xuất trong nước nhiều nhất có thể, miễn là lợi nhuận bằng hoặc không kém nhiều so với mức thông thường. Khi lợi nhuận ngang nhau, nhà buôn có một thứ tự ưu tiên rõ ràng:
+
+| Thứ tự ưa thích | Loại hình | Lý do |
+|---|---|---|
+| Thứ nhất | Nội thương | Vốn không bao giờ rời khỏi tầm mắt; biết rõ tính tình và hoàn cảnh của người mình giao tin; nếu bị lừa thì biết luật trong nước để đòi bồi thường |
+| Thứ hai | Ngoại thương tiêu dùng | Một nửa vốn ở nước ngoài, khó giám sát hơn |
+| Thứ ba | Vận tải trung chuyển | Toàn bộ vốn nằm ở hai nước lạ, không phần nào ở nhà |
+
+Smith minh hoạ bằng một nhà buôn Amsterdam làm vận tải trung chuyển: ông chở ngũ cốc từ Königsberg (trên bờ biển Baltic) sang Lisbon, rồi chở hoa quả và rượu vang từ Lisbon về Königsberg. Vốn của ông nửa nằm ở Königsberg, nửa ở Lisbon, không phần nào về Amsterdam. Cảm giác bứt rứt khi vốn ở xa khiến ông thường đưa một phần hàng về Amsterdam trước, dù phải chịu bốc dỡ hai lần và đóng thêm vài khoản thuế. Chính vì vậy mà mọi nước có phần lớn trong vận tải trung chuyển đều trở thành chợ tổng hợp cho hàng của các nước khác.
+
+Lập luận đi tiếp một bước. Khi hàng đã về Amsterdam, để tránh phải bốc dỡ thêm lần nữa, nhà buôn cố bán được càng nhiều càng tốt ngay tại chỗ. Thế là ông vô tình biến một phần vận tải trung chuyển thành ngoại thương tiêu dùng. Tương tự, một nhà buôn ngoại thương tiêu dùng sẽ vui lòng bán hàng ngay trong nước nếu lãi ngang nhau, và khi có thể thì chuyển hẳn sang nội thương. Smith kết luận rằng thị trường trong nước là cái tâm mà mọi vốn của một nước quay quanh và luôn hướng về.
+
+Lập luận này nối với Quyển II, Chương V. Ở đó Smith đã chứng minh rằng cùng một lượng vốn đặt ở nội thương huy động nhiều lao động trong nước hơn và tạo nhiều thu nhập trong nước hơn so với khi đặt ở ngoại thương tiêu dùng, vì mỗi vòng quay nội thương thay thế hai vốn trong nước (của người bán và người mua, đều là người trong nước), còn ngoại thương tiêu dùng chỉ thay thế một. Vốn ở vận tải trung chuyển thì không thay thế vốn trong nước nào. Vậy khi lợi nhuận ngang nhau, mỗi người, chỉ vì muốn an toàn, đã tự hướng vốn vào chỗ hỗ trợ nhiều lao động trong nước nhất. Đó đúng là điều mà người ủng hộ bảo hộ muốn đạt bằng luật.
+
+**Kênh thứ hai: vì lợi nhuận, vốn tìm giá trị cao nhất.** Người dùng vốn để duy trì hoạt động sản xuất tất yếu cố làm cho sản phẩm có giá trị lớn nhất. Sản phẩm của hoạt động sản xuất là phần mà lao động thêm vào nguyên liệu, và lợi nhuận của chủ vốn lớn hay nhỏ tuỳ thuộc vào giá trị ấy. Nhưng thu nhập hàng năm của một xã hội luôn đúng bằng giá trị trao đổi của toàn bộ sản phẩm hàng năm của xã hội đó. Vậy khi mỗi người cố làm sản phẩm của mình có giá trị cao nhất, mỗi người tất yếu góp phần làm thu nhập hàng năm của xã hội lớn nhất có thể.
+
+**Bàn tay vô hình.** Hai kênh trên dẫn tới đoạn văn nổi tiếng nhất của bộ sách. Người chủ vốn không định thúc đẩy lợi ích công cộng, và cũng không biết mình đang thúc đẩy nó đến đâu. Khi ưa hoạt động sản xuất trong nước hơn nước ngoài, anh ta chỉ nghĩ đến sự an toàn của mình. Khi hướng sản xuất vào chỗ có giá trị cao nhất, anh ta chỉ nghĩ đến lợi nhuận của mình. Trong trường hợp này, cũng như nhiều trường hợp khác, anh ta "được một bàn tay vô hình dẫn dắt để thực hiện một mục đích không hề nằm trong ý định của mình". Smith thêm rằng việc mục đích ấy không nằm trong ý định cũng không phải lúc nào cũng tệ cho xã hội: theo đuổi lợi ích riêng, anh ta **thường** thúc đẩy lợi ích xã hội hiệu quả hơn so với khi cố ý làm vậy. Chữ "thường" cho thấy đây là một nhận định có giới hạn, không phải một quy luật tuyệt đối.
+
+Smith kèm một câu châm biếm: ông chưa thấy mấy điều tốt được làm ra bởi những người làm ra vẻ buôn bán vì lợi ích công cộng. May là kiểu làm ra vẻ ấy không phổ biến ở giới nhà buôn, và chỉ cần vài lời là đủ khuyên họ thôi.
+
+**Ai biết rõ nhất nên dùng vốn vào đâu?** Bước thứ ba của lập luận là về thông tin. Loại hoạt động nào trong nước mà vốn của một người có thể dùng vào, và loại nào cho sản phẩm có giá trị lớn nhất, thì rõ ràng chính người tại chỗ biết rõ hơn bất kỳ chính khách hay nhà lập pháp nào. Một chính khách định chỉ đạo tư nhân nên dùng vốn ra sao làm hai điều sai cùng lúc:
+
+- Ông tự gánh một việc hoàn toàn không cần thiết, vì tư nhân đã tự làm tốt việc đó.
+- Ông nắm một quyền lực không thể giao an toàn cho bất kỳ một người, một hội đồng hay một thượng viện nào, và quyền lực ấy không ở đâu nguy hiểm bằng khi nằm trong tay một người đủ dại dột và tự phụ để tưởng mình đủ sức sử dụng nó.
 
 ### 4. Bảo hộ vô ích hoặc có hại: phép loại suy gia đình và rượu vang Scotland
 
-- Dành độc quyền thị trường trong nước cho sản phẩm nội trong một ngành là, ở mức nào đó, chỉ đạo tư nhân dùng vốn, và trong hầu hết trường hợp là vô ích hoặc có hại. Nếu hàng nội rẻ bằng hàng ngoại, quy định vô ích. Nếu không, quy định có hại.
-- Châm ngôn của mọi chủ gia đình khôn ngoan: không bao giờ làm ở nhà thứ gì làm tốn hơn mua. Thợ may không tự đóng giày mà mua của thợ giày. Thợ giày không tự may quần áo mà thuê thợ may. Nông dân không làm cả hai mà thuê cả hai. Ai cũng thấy có lợi khi dồn toàn bộ công sức vào nghề mình có lợi thế hơn láng giềng, và mua mọi thứ khác bằng một phần sản phẩm của mình, hay đúng hơn là bằng giá của phần ấy.
-- Điều khôn ngoan với mỗi gia đình khó có thể là dại dột với cả một vương quốc lớn. Nếu nước ngoài cung cấp một hàng hoá rẻ hơn ta tự làm, tốt hơn là mua của họ bằng một phần sản phẩm của công nghiệp ta, dùng vào việc mà ta có lợi thế.
-- Tổng công nghiệp, tương xứng với vốn, không vì thế mà giảm, giống như công việc của các thợ thủ công ở trên. Nó chỉ cần được để tự tìm cách dùng có lợi nhất. Nó chắc chắn không được dùng có lợi nhất khi bị hướng vào làm thứ có thể mua rẻ hơn. Giá trị sản phẩm hàng năm ít nhiều giảm khi công nghiệp bị dời khỏi việc làm ra hàng có giá trị cao hơn. Hàng hoá ấy, theo giả thiết, có thể mua từ nước ngoài rẻ hơn tự làm, tức là chỉ cần một phần sản phẩm (hay giá của một phần ấy) mà cùng lượng vốn đã có thể làm ra nếu để tự nhiên. Công nghiệp trong nước bị dời từ việc lợi hơn sang việc kém lợi hơn, và giá trị trao đổi của sản phẩm hàng năm, thay vì tăng như nhà làm luật muốn, tất yếu giảm qua mỗi quy định như vậy.
-- Lợi thế tự nhiên của một nước đôi khi lớn đến mức cả thế giới công nhận cạnh tranh là vô ích. Ở Scotland, bằng kính, đất ủ nóng và tường sưởi, người ta có thể trồng nho rất tốt và làm rượu rất ngon, với chi phí gấp khoảng 30 lần rượu ngoại ngon tương đương. Có hợp lý không khi cấm nhập mọi rượu ngoại chỉ để khuyến khích làm vang đỏ và vang Burgundy ở Scotland? Nếu dồn vào một việc gấp 30 lần vốn và lao động so với khi mua là phi lý rõ ràng, thì dồn thêm 1/30 hay thậm chí 1/300 cũng phi lý y như vậy, chỉ là không lộ liễu bằng.
-- Lợi thế tự nhiên hay tự tạo không quan trọng. Chừng nào nước này có lợi thế mà nước kia không có, nước kia luôn có lợi hơn khi mua của nước này. Lợi thế của người thợ này so với người hàng xóm làm nghề khác chỉ là lợi thế tự tạo, vậy mà cả hai vẫn thấy mua của nhau có lợi hơn làm lấy thứ không thuộc nghề mình.
+Từ ba bước trên, Smith đi tới kết luận chính. Dành độc quyền thị trường trong nước cho sản phẩm nội của một ngành, ở mức nào đó, là chỉ đạo tư nhân nên dùng vốn ra sao. Trong hầu hết trường hợp, việc ấy hoặc vô ích hoặc có hại:
+
+- Nếu hàng nội đã rẻ bằng hàng ngoại, quy định là **vô ích**: người mua vẫn mua hàng nội, có luật hay không cũng vậy.
+- Nếu hàng nội không rẻ bằng, quy định là **có hại**: nó buộc vốn rời khỏi chỗ có lợi hơn.
+
+**Phép loại suy gia đình.** Smith nêu một châm ngôn mà mọi chủ gia đình khôn ngoan đều theo: không bao giờ tự làm ở nhà thứ gì mà tự làm tốn hơn đi mua. Thợ may không tự đóng giày mà mua giày của thợ giày. Thợ giày không tự may quần áo mà thuê thợ may. Nông dân không làm cả hai mà thuê cả hai. Mỗi người thấy có lợi khi dồn toàn bộ công sức vào nghề mà mình có lợi thế hơn láng giềng, rồi mua mọi thứ khác bằng một phần sản phẩm của mình, hay đúng hơn là bằng giá bán của phần sản phẩm ấy.
+
+Câu then chốt là: "điều khôn ngoan với mỗi gia đình khó có thể là dại dột với cả một vương quốc lớn". Nếu một nước ngoài cung cấp được một hàng hoá rẻ hơn ta tự làm, tốt hơn là mua của họ bằng một phần sản phẩm của hoạt động sản xuất của ta, dùng vào việc mà ta có lợi thế.
+
+**Vì sao không mất gì mà còn được.** Người ta lo rằng mua hàng ngoại thì công việc trong nước giảm. Smith trả lời: tổng hoạt động sản xuất, vì tương xứng với vốn, không giảm, giống như công việc của người thợ may không giảm khi anh ta mua giày thay vì tự đóng. Hoạt động sản xuất chỉ cần được để tự tìm cách dùng có lợi nhất. Nó chắc chắn không được dùng có lợi nhất khi bị buộc làm ra một thứ có thể mua rẻ hơn tự làm.
+
+Lý do giá trị sản phẩm hàng năm giảm như sau. Theo giả thiết, hàng hoá ấy mua từ nước ngoài rẻ hơn tự làm. Nghĩa là để có nó, ta chỉ cần một phần sản phẩm (hay giá của một phần ấy) mà cùng lượng vốn và lao động lẽ ra làm ra được nếu để tự nhiên. Khi luật buộc ta tự làm, ta dùng **toàn bộ** lượng vốn ấy để có đúng thứ mà lẽ ra chỉ cần một phần là đủ. Phần chênh lệch là sản phẩm bị mất. Hoạt động sản xuất trong nước bị dời từ việc lợi hơn sang việc kém lợi hơn, và giá trị trao đổi của sản phẩm hàng năm, thay vì tăng như nhà làm luật mong muốn, tất yếu giảm đi qua mỗi quy định như vậy.
+
+**Ví dụ cực đoan: rượu vang Scotland.** Lợi thế tự nhiên của một nước so với nước khác trong việc làm một số hàng đôi khi lớn đến mức cả thế giới đều thừa nhận rằng cạnh tranh với họ là vô ích. Ở Scotland, bằng nhà kính, luống đất ủ nóng và tường được sưởi ấm, người ta có thể trồng được nho rất tốt và làm ra rượu vang rất ngon, nhưng với chi phí gấp khoảng 30 lần chi phí mua rượu ngoại ngon tương đương. Có hợp lý không nếu ra luật cấm nhập mọi rượu ngoại, chỉ để khuyến khích làm vang đỏ và vang Burgundy ở Scotland?
+
+Ai cũng thấy là không. Smith dùng chính sự hiển nhiên ấy để đi tiếp: nếu dồn vào một việc lượng vốn và lao động gấp 30 lần lượng cần để mua thứ đó từ nước ngoài là phi lý rõ ràng, thì dồn thêm 1/30, hay thậm chí chỉ 1/300, cũng phi lý y như vậy, chỉ là không lộ liễu bằng. Sự khác nhau giữa trường hợp Scotland và các trường hợp bảo hộ thông thường chỉ là mức độ, không phải bản chất.
+
+| Mức chi phí tự làm so với mua | Có phi lý không | Có dễ thấy không |
+|---|---|---|
+| Gấp 30 lần (rượu Scotland) | Có | Rất dễ thấy |
+| Đắt hơn 1/30 | Có | Khó thấy |
+| Đắt hơn 1/300 | Có | Gần như không ai thấy |
+
+**Lợi thế tự nhiên hay tự tạo đều như nhau.** Smith thêm rằng không quan trọng lợi thế của một nước là tự nhiên (đất, khí hậu) hay tự tạo (kỹ năng, kinh nghiệm). Chừng nào nước này có lợi thế mà nước kia không có, nước kia luôn có lợi hơn khi mua của nước này thay vì tự làm. Lợi thế của người thợ thủ công này so với người hàng xóm làm nghề khác chỉ là lợi thế tự tạo, vậy mà cả hai vẫn thấy mua của nhau có lợi hơn tự làm thứ không thuộc nghề mình.
+
+**Ví dụ hôm nay** (minh hoạ chung). Một văn phòng nhỏ có thể tự in tài liệu bằng một máy in thuê, hoặc gửi ra tiệm in. Nếu tự in tốn 1.000 đồng một trang mà tiệm in lấy 800 đồng, thì việc "ủng hộ máy in của mình" bằng quy định nội bộ chỉ làm văn phòng mất 200 đồng mỗi trang, dù chênh lệch nhỏ đến mức khó thấy. Đó là lập luận "1/300 cũng phi lý" ở quy mô một doanh nghiệp.
 
 ### 5. Công nghiệp non trẻ
 
-- Smith thừa nhận: nhờ các quy định như vậy, một ngành chế tạo có thể được có sớm hơn so với khi không có quy định, và sau một thời gian có thể làm trong nước rẻ bằng hoặc rẻ hơn nước ngoài.
-- Nhưng dù công nghiệp xã hội có thể được hướng có lợi vào một ngành sớm hơn, không vì thế mà tổng công nghiệp hay tổng thu nhập tăng. Công nghiệp chỉ tăng theo tỷ lệ tăng của vốn, và vốn chỉ tăng theo những gì tiết kiệm dần được từ thu nhập. Tác động trực tiếp của mỗi quy định như vậy là giảm thu nhập, và cái gì làm giảm thu nhập thì không thể làm vốn tăng nhanh hơn khi để tự nhiên.
-- Không có những quy định ấy, xã hội có thể không bao giờ có ngành dự tính, nhưng cũng không vì thế mà nghèo hơn ở bất kỳ giai đoạn nào. Ở mọi giai đoạn, toàn bộ vốn và công nghiệp vẫn được dùng, dù vào việc khác, theo cách có lợi nhất lúc đó; thu nhập lớn nhất mà vốn cho phép; và cả vốn lẫn thu nhập tăng nhanh nhất có thể.
+Smith không bỏ qua lập luận mạnh nhất của phía bảo hộ. Ông thừa nhận: nhờ các quy định như vậy, một ngành chế tạo có thể được có sớm hơn so với khi không có quy định, và sau một thời gian, ngành ấy có thể làm ra hàng trong nước rẻ bằng hoặc thậm chí rẻ hơn nước ngoài.
+
+Nhưng ông chỉ ra rằng điều đó không làm tổng hoạt động sản xuất hay tổng thu nhập của xã hội tăng lên. Chuỗi lập luận gồm ba mắt xích:
+
+1. Hoạt động sản xuất của xã hội chỉ tăng theo tỷ lệ tăng của vốn.
+2. Vốn chỉ tăng theo những gì tiết kiệm dần được từ thu nhập.
+3. Tác động trực tiếp của mỗi quy định bảo hộ là làm giảm thu nhập (vì người dân phải mua đắt hơn, và vốn bị dời vào chỗ kém lợi hơn). Cái gì làm giảm thu nhập thì không thể làm vốn tăng nhanh hơn so với khi để vốn và thu nhập tự tìm chỗ dùng.
+
+Smith thừa nhận hệ quả ngược lại: không có những quy định ấy, xã hội có thể không bao giờ có được ngành mà nhà làm luật mong muốn. Nhưng xã hội cũng không vì thế mà nghèo hơn ở bất kỳ giai đoạn nào. Ở mọi giai đoạn, toàn bộ vốn và lao động vẫn được dùng, dù vào việc khác, theo cách có lợi nhất lúc đó. Ở mọi giai đoạn, thu nhập là lớn nhất mà vốn cho phép, và cả vốn lẫn thu nhập tăng nhanh nhất có thể.
+
+**Ví dụ minh hoạ** (số giả định). Một nước có hai lựa chọn trong mười năm. Lựa chọn A: bảo hộ ngành lụa, người dân trả giá lụa cao hơn, thu nhập mỗi năm thấp hơn 2%, đến năm thứ mười ngành lụa rẻ bằng nước ngoài. Lựa chọn B: không bảo hộ, mua lụa nhập, thu nhập cao hơn, tiết kiệm nhiều hơn, vốn tích luỹ nhanh hơn. Smith nói đến năm thứ mười, nước theo lựa chọn B có thể không có ngành lụa, nhưng có nhiều vốn hơn và thu nhập cao hơn. Lập luận của ông đúng khi tổn thất trong mười năm lớn hơn lợi ích về sau của việc có ngành lụa; ông không làm phép so sánh ấy bằng số.
 
 ### 6. Ai được lợi từ độc quyền thị trường trong nước
 
-- Nhà buôn và chủ xưởng được lợi nhiều nhất. Cấm nhập gia súc, thịt muối và thuế cao lên ngũ cốc không có lợi cho người chăn nuôi và nông dân bằng các quy định cùng loại có lợi cho nhà buôn và chủ xưởng. Hàng công nghiệp, nhất là loại tinh xảo, dễ chở hơn ngũ cốc hay gia súc, nên là đối tượng chính của ngoại thương. Người nước ngoài có thể bán rẻ hơn thợ ta ngay trên thị trường ta dù lãi rất mỏng. Nhập tự do thì một số xưởng phá sản, một phần vốn và lao động phải chuyển nghề. Sản phẩm thô nhập tự do đến mấy cũng không gây tác động như vậy cho nông nghiệp.
-- Gia súc sống: chở bằng đường biển rất tốn và phiền vì phải mang theo cỏ khô và nước; đi bộ thì chính nó tự mang mình ra chợ. Chỉ Ai Len, cách Anh một quãng biển ngắn, chở được. Việc nhập bò Ai Len, thoạt đầu cho phép có thời hạn rồi vĩnh viễn, không ảnh hưởng đáng kể đến người chăn nuôi Anh. Vùng đất Anh giáp biển Ai Len đều là đất chăn nuôi; bò Ai Len phải đi xa qua đó mới tới chợ, tốn kém, phiền phức.
-- Bò béo không đi xa được; chỉ bò gầy nhập được. Việc ấy không đụng đến vùng vỗ béo, vốn được lợi vì mua bò gầy rẻ hơn, mà chỉ đụng vùng nuôi giống. Số bò Ai Len nhập ít và giá bò gầy vẫn tốt cho thấy ngay vùng nuôi giống cũng ít bị ảnh hưởng. Dân thường Ai Len được cho là đôi khi chống việc xuất bò bằng bạo lực; nhưng nếu việc xuất ấy có lợi lớn thì người xuất khẩu, có luật đứng về phía mình, đã dễ dàng dẹp sự chống đối đó.
-- Vùng vỗ béo là đất đã cải tạo, vùng nuôi giống thường là đất hoang. Giá bò gầy cao làm tăng giá trị đất hoang, tức là một phần thưởng chống lại việc cải tạo. Vùng nào đã cải tạo hoàn toàn thì nhập bò gầy để vỗ béo lợi hơn tự nuôi giống; Hà Lan đang làm đúng như vậy. Núi Scotland, Wales, Northumberland không cải tạo được nhiều, tự nhiên định họ làm vùng nuôi giống. Nhập bò tự do chỉ có tác dụng ngăn các vùng ấy tận dụng sự tăng dân số và cải tạo của phần còn lại để đẩy giá lên quá cao và đánh một thứ thuế thực lên các vùng đã cải tạo.
-- Thịt muối nhập tự do cũng đụng rất ít đến người chăn nuôi Anh: cồng kềnh, kém ngon, tốn công và chi phí, không cạnh tranh được với thịt tươi, chỉ dùng cho tàu viễn dương. Từ khi cho nhập tự do, chỉ một lượng nhỏ thịt muối từ Ai Len vào Anh; giá thịt ở Anh không giảm.
-- Ngũ cốc còn cồng kềnh hơn thịt: 1 pound lúa mì giá 1 penny cũng đắt (về chi phí chở) như 1 pound thịt giá 4 penny. Lượng ngũ cốc nhập nhỏ ngay trong năm mất mùa nhất đủ cho nông dân thấy họ không có gì phải sợ. Theo một tác giả hiểu biết về buôn bán ngũ cốc, lượng nhập trung bình mỗi năm chỉ 23.728 quarter (1 quarter khoảng 8 giạ, tức khoảng 290 lít), không vượt quá 1/571 tiêu dùng hàng năm.
-- Tiền thưởng xuất khẩu ngũ cốc làm xuất nhiều hơn trong năm được mùa, nên phải nhập nhiều hơn trong năm mất mùa; dư thừa năm này không bù được cho thiếu hụt năm kia. Không có tiền thưởng thì xuất ít hơn và có lẽ nhập cũng ít hơn hiện nay. Người thiệt nếu bỏ tiền thưởng là các nhà buôn ngũ cốc, người vận chuyển; điền chủ và nông dân chỉ thiệt rất ít. Smith thấy sự nôn nóng muốn gia hạn tiền thưởng nơi nhà buôn ngũ cốc hơn là nơi điền chủ.
-- Điền chủ và nông dân, điều đáng khen cho họ, là những người ít bị tinh thần độc quyền chi phối nhất trong mọi tầng lớp. Chủ xưởng có khi hoảng hốt khi có xưởng cùng loại mở trong vòng 20 dặm; chủ xưởng len Hà Lan ở Abbeville đòi không ai được mở xưởng tương tự trong vòng 30 league (1 league khoảng 3 dặm Anh, gần 5 km). Ngược lại, nông dân thường giúp hơn là cản việc canh tác của hàng xóm, không có bí mật, thích truyền cho nhau cách làm tốt. Cato nói nghề nông là cách kiếm lời ngay thẳng nhất, bền vững nhất, ít bị ghen ghét nhất, và người làm nghề này ít có ý nghĩ xấu nhất.
-- Điền chủ, nông dân sống rải rác, khó liên kết; nhà buôn và chủ xưởng sống tập trung trong thành phố, quen tinh thần phường hội, tự nhiên tìm cách giành đặc quyền bán cho đồng bào. Chính họ nghĩ ra các hạn chế nhập khẩu để giữ độc quyền thị trường trong nước. Có lẽ vì bắt chước họ, và tưởng mình đang bị họ áp bức, điền chủ và nông dân Anh mới quên tính rộng lượng tự nhiên mà đòi độc quyền cung cấp ngũ cốc và thịt.
-- Cấm vĩnh viễn nhập ngũ cốc và gia súc ngoại, trên thực tế, là quy định rằng dân số và công nghiệp đất nước không bao giờ được vượt quá những gì sản phẩm thô của đất nước nuôi nổi.
+**Nhà buôn và chủ xưởng được lợi nhiều nhất.** Cấm nhập gia súc sống, thịt muối và thuế cao lên ngũ cốc không có lợi cho người chăn nuôi và nông dân nhiều bằng các quy định cùng loại có lợi cho nhà buôn và chủ xưởng. Lý do nằm ở chi phí vận chuyển. Hàng công nghiệp, nhất là loại tinh xảo, nhẹ và dễ chở hơn ngũ cốc hay gia súc nhiều, nên là đối tượng chính của ngoại thương. Người nước ngoài có thể bán rẻ hơn thợ của ta ngay trên thị trường của ta, dù chỉ lãi rất mỏng. Nếu cho nhập tự do, một số xưởng sẽ phá sản, và một phần vốn và lao động đang dùng ở đó phải chuyển sang nghề khác. Còn sản phẩm thô của đất đai, nhập tự do đến mấy cũng không gây tác động như vậy cho nông nghiệp. Smith chứng minh điều này bằng ba mặt hàng.
+
+**Gia súc sống.** Chở gia súc bằng đường biển rất tốn kém và phiền phức, vì phải mang theo cỏ khô và nước cho chúng ăn uống suốt hành trình; trong khi đi đường bộ thì con vật tự đi ra chợ. Chỉ có Ai Len, cách Anh một quãng biển ngắn, chở bò sang Anh được. Việc nhập bò Ai Len, thoạt đầu được cho phép có thời hạn, rồi được cho phép vĩnh viễn, đã không ảnh hưởng đáng kể đến người chăn nuôi Anh. Vùng đất Anh giáp biển Ai Len đều là vùng chăn nuôi, nên bò Ai Len phải đi bộ một quãng xa qua các vùng ấy mới tới được chợ tiêu thụ lớn, rất tốn kém.
+
+Hơn nữa, bò béo không đi xa được, nên chỉ bò gầy là nhập được. Điều này phân biệt hai loại vùng chăn nuôi:
+
+| Loại vùng | Đặc điểm đất | Tác động của việc nhập bò gầy Ai Len |
+|---|---|---|
+| Vùng vỗ béo (feeding countries) | Đất đã được cải tạo | Được lợi, vì mua được bò gầy rẻ hơn để vỗ béo |
+| Vùng nuôi giống (breeding countries) | Thường là đất hoang | Bị ảnh hưởng, vì có thêm người bán bò gầy |
+
+Ngay vùng nuôi giống cũng ít bị ảnh hưởng: số bò Ai Len nhập vào ít, và giá bò gầy ở Anh vẫn giữ mức tốt. Người ta kể rằng dân thường Ai Len đôi khi dùng bạo lực để chống việc xuất bò. Smith lập luận ngược lại: nếu việc xuất bò sang Anh thật sự có lợi lớn, thì những người xuất khẩu, vốn có luật đứng về phía mình, đã dễ dàng dẹp được sự chống đối đó. Việc họ không dẹp được cho thấy lợi nhuận xuất bò không lớn, tức là nhập khẩu bò không đe doạ ai nhiều.
+
+Smith còn đi xa hơn: giá bò gầy cao làm tăng giá trị của đất hoang, nghĩa là nó giống như một phần thưởng **chống lại** việc cải tạo đất. Một vùng đã cải tạo hoàn toàn thì nhập bò gầy về vỗ béo có lợi hơn tự nuôi giống; Hà Lan đang làm đúng như thế. Các vùng núi ở Scotland, Wales và Northumberland không cải tạo được nhiều, nên tự nhiên được định làm vùng nuôi giống. Cho nhập bò tự do chỉ có tác dụng ngăn các vùng ấy tận dụng việc dân số tăng và đất đai ở phần còn lại của nước được cải tạo để đẩy giá bò lên quá cao, tức là để đánh một thứ thuế thực lên những vùng đã cải tạo.
+
+**Thịt muối.** Nhập thịt muối tự do cũng đụng rất ít đến người chăn nuôi Anh. Thịt muối cồng kềnh, kém ngon hơn thịt tươi, tốn nhiều công và chi phí để làm, nên không cạnh tranh được với thịt tươi; nó chỉ được dùng để tiếp tế cho tàu đi biển xa. Từ khi cho nhập tự do, chỉ một lượng nhỏ thịt muối từ Ai Len vào Anh, và giá thịt ở Anh không hề giảm.
+
+**Ngũ cốc.** Ngũ cốc còn cồng kềnh hơn thịt so với giá trị của nó. Smith so sánh: chở 1 pound lúa mì giá 1 penny tốn kém ngang chở 1 pound thịt giá 4 penny. Nói cách khác, so với giá trị hàng, chi phí chở ngũ cốc nặng gấp khoảng bốn lần chi phí chở thịt. Vì thế, lượng ngũ cốc nhập vào luôn nhỏ, ngay trong những năm mất mùa nhất, và điều đó đủ để nông dân thấy họ không có gì phải sợ khi cho nhập tự do. Theo một tác giả am hiểu về buôn bán ngũ cốc, lượng nhập trung bình mỗi năm chỉ là 23.728 quarter (1 quarter khoảng 8 giạ, tức khoảng 290 lít), không vượt quá 1/571 lượng tiêu dùng hàng năm của nước Anh.
+
+Smith giải thích thêm vì sao ngay con số nhỏ ấy cũng bị phóng đại bởi chính sách. Tiền thưởng xuất khẩu ngũ cốc khiến nước Anh xuất nhiều hơn trong năm được mùa, nên phải nhập nhiều hơn trong năm mất mùa; phần dư thừa của năm này không được giữ lại để bù cho phần thiếu hụt của năm kia. Nếu bỏ tiền thưởng, nước Anh sẽ xuất ít hơn, và có lẽ cũng nhập ít hơn hiện nay. Người thiệt nếu bỏ tiền thưởng là các nhà buôn ngũ cốc và người vận chuyển ngũ cốc; điền chủ và nông dân chỉ thiệt rất ít. Vì thế Smith thấy sự nôn nóng muốn gia hạn tiền thưởng ở các nhà buôn ngũ cốc nhiều hơn ở điền chủ.
+
+**Điền chủ và nông dân ít tinh thần độc quyền nhất.** Smith khen điền chủ và nông dân là những người, trong mọi tầng lớp, ít bị tinh thần độc quyền chi phối nhất. Ông so sánh:
+
+| Nhóm | Hành vi với đối thủ | Ví dụ |
+|---|---|---|
+| Chủ xưởng | Sợ và chống đối thủ, kể cả đối thủ trong nước | Có chủ xưởng hoảng hốt khi một xưởng cùng loại mở ra trong vòng 20 dặm; chủ xưởng len người Hà Lan ở Abbeville (Pháp) đòi đặc quyền không ai được mở xưởng tương tự trong vòng 30 league (1 league khoảng 3 dặm Anh, gần 5 km, tức khoảng 140–150 km) |
+| Nông dân | Giúp hơn là cản việc canh tác của hàng xóm | Không có bí mật nghề nghiệp, thích truyền cho nhau cách làm mới tốt hơn |
+
+Smith dẫn Cato, nhà chính trị La Mã cổ đại: nghề nông là cách kiếm lời ngay thẳng nhất, bền vững nhất và ít bị ghen ghét nhất, và người làm nghề này ít có ý nghĩ xấu nhất.
+
+**Vì sao chủ xưởng đòi được độc quyền.** Sự khác biệt không nằm ở đạo đức mà ở cách sống. Điền chủ và nông dân sống rải rác khắp vùng nông thôn, khó liên kết với nhau. Nhà buôn và chủ xưởng sống tập trung trong thành phố, quen với tinh thần phường hội, nên tự nhiên tìm cách giành cho mình đặc quyền bán hàng cho đồng bào. Chính họ là người nghĩ ra các hạn chế nhập hàng ngoại để giữ độc quyền thị trường trong nước. Có lẽ vì bắt chước họ, và vì tưởng mình đang bị những người ấy chèn ép, điền chủ và nông dân Anh mới quên đi tính rộng lượng tự nhiên của mình mà đòi độc quyền cung cấp ngũ cốc và thịt cho đồng bào.
+
+Smith chỉ ra hệ quả dài hạn của việc cấm nhập ngũ cốc và gia súc vĩnh viễn: trên thực tế, đó là quy định rằng dân số và hoạt động sản xuất của đất nước không bao giờ được vượt quá những gì sản phẩm thô của đất đai trong nước nuôi nổi.
 
 ### 7. Trường hợp thứ nhất nên đánh thuế hàng ngoại: quốc phòng và Đạo luật Hàng hải
 
-- Khi một ngành cần cho quốc phòng. Phòng thủ nước Anh dựa nhiều vào số thuỷ thủ và tàu biển. Đạo luật Hàng hải, vì thế, cố dành cho thuỷ thủ và tàu Anh độc quyền vận tải của nước mình, bằng lệnh cấm tuyệt đối trong một số trường hợp và thuế nặng trong các trường hợp khác.
-- Điều khoản thứ nhất: mọi tàu mà chủ, thuyền trưởng và 3/4 thuỷ thủ không phải thần dân Anh bị cấm buôn bán với các khu định cư, đồn điền Anh và cấm chở hàng ven biển Anh, nếu vi phạm thì bị tịch thu tàu và hàng.
-- Điều khoản thứ hai: nhiều mặt hàng nhập cồng kềnh nhất chỉ được đưa vào Anh bằng tàu như trên, hoặc bằng tàu của chính nước nơi hàng được mua mà chủ, thuyền trưởng và 3/4 thuỷ thủ là người nước đó, và khi ấy phải chịu thuế người nước ngoài gấp đôi. Nếu chở bằng tàu nước khác, tàu và hàng bị tịch thu. Khi luật ban hành, người Hà Lan là nhà vận tải lớn của châu Âu; điều khoản này loại họ khỏi việc chở hàng của nước khác vào Anh.
-- Điều khoản thứ ba: nhiều mặt hàng cồng kềnh nhất bị cấm nhập, kể cả trên tàu Anh, từ bất kỳ nước nào ngoài nước sản xuất. Điều này có lẽ cũng nhắm vào Hà Lan, vốn là chợ tổng hợp hàng châu Âu; tàu Anh bị cấm nhận hàng của nước châu Âu khác ở Hà Lan.
-- Điều khoản thứ tư: cá muối, sừng hàm và xương cá voi, dầu cá voi không do tàu Anh đánh bắt và chế biến phải chịu thuế người nước ngoài gấp đôi. Người Hà Lan khi ấy, và đến nay, là ngư dân chính của châu Âu cung cấp cá cho nước ngoài; điều này đánh một khoản thuế rất nặng lên việc họ cung cấp cá cho Anh.
-- Khi Đạo luật ra đời, Anh và Hà Lan chưa có chiến tranh nhưng thù địch gay gắt, bắt đầu dưới chính phủ Nghị viện Dài (nơi soạn khung đạo luật) và bùng nổ ngay sau đó trong các cuộc chiến thời Bảo quốc công Cromwell và thời Charles II. Có thể một số điều khoản xuất phát từ hận thù dân tộc, nhưng chúng khôn ngoan như thể do trí tuệ chín chắn nhất đặt ra. Hận thù lúc ấy nhắm đúng mục đích mà trí tuệ chín chắn nhất sẽ đề xuất: làm suy yếu hải quân Hà Lan, mối đe doạ duy nhất đến an ninh nước Anh.
-- Đạo luật không có lợi cho ngoại thương hay cho sự giàu có sinh ra từ ngoại thương. Lợi ích của một nước trong buôn bán với nước ngoài, như lợi ích của nhà buôn với những người ông giao dịch, là mua rẻ và bán đắt. Nước ấy có lẽ mua rẻ nhất khi tự do hoàn toàn khuyến khích mọi dân tộc mang hàng đến, và vì cùng lý do, bán đắt nhất khi chợ đầy người mua. Đạo luật không đánh gánh nặng lên tàu nước ngoài đến chở hàng Anh đi; ngay thuế người nước ngoài cũ đánh vào hàng xuất cũng đã được bỏ cho phần lớn mặt hàng. Nhưng người nước ngoài bị chặn không mang hàng đến bán thì cũng không thể đến mua, vì đến tay không thì phải mang tiền từ nước mình. Giảm người bán thì giảm cả người mua; ta phải mua hàng ngoại đắt hơn và bán hàng mình rẻ hơn.
-- Vì quốc phòng quan trọng hơn nhiều so với giàu có, Đạo luật Hàng hải có lẽ là khôn ngoan nhất trong mọi quy định thương mại của nước Anh.
+Sau khi bác bỏ bảo hộ nói chung, Smith thừa nhận hai trường hợp mà đánh thuế lên hàng ngoại để khuyến khích hàng nội nói chung là có lợi. Trường hợp thứ nhất là khi một ngành cần thiết cho quốc phòng.
+
+Phòng thủ nước Anh dựa rất nhiều vào số thuỷ thủ và tàu biển của nước này, vì thuỷ thủ và tàu buôn là lực lượng hải quân dự bị khi có chiến tranh. Đạo luật Hàng hải (Act of Navigation, ban hành năm 1651 và tái ban hành năm 1660), vì thế, cố dành cho thuỷ thủ và tàu Anh độc quyền vận tải của nước mình, bằng lệnh cấm tuyệt đối trong một số trường hợp và thuế nặng trong các trường hợp khác. Smith tóm tắt bốn điều khoản chính:
+
+| Điều khoản | Nội dung | Nhắm vào ai |
+|---|---|---|
+| Thứ nhất | Mọi tàu mà chủ tàu, thuyền trưởng và 3/4 thuỷ thủ không phải thần dân Anh bị cấm buôn bán với các khu định cư và đồn điền của Anh, và bị cấm chở hàng ven biển nước Anh. Vi phạm thì bị tịch thu cả tàu lẫn hàng | Mọi tàu nước ngoài |
+| Thứ hai | Nhiều mặt hàng nhập cồng kềnh nhất chỉ được đưa vào Anh bằng tàu Anh như trên, hoặc bằng tàu của chính nước nơi hàng được mua mà chủ, thuyền trưởng và 3/4 thuỷ thủ là người nước đó; trong trường hợp sau phải chịu thuế người nước ngoài gấp đôi. Chở bằng tàu của nước thứ ba thì tàu và hàng bị tịch thu | Người Hà Lan, khi ấy là nhà vận tải lớn của châu Âu, bị loại khỏi việc chở hàng của nước khác vào Anh |
+| Thứ ba | Nhiều mặt hàng cồng kềnh nhất bị cấm nhập, kể cả trên tàu Anh, nếu không chở thẳng từ nước sản xuất. Tàu Anh bị cấm nhận hàng của nước châu Âu khác tại Hà Lan | Hà Lan với vai trò chợ tổng hợp hàng hoá châu Âu |
+| Thứ tư | Cá muối, sừng hàm cá voi, xương cá voi, dầu cá voi không do tàu Anh đánh bắt và chế biến phải chịu thuế người nước ngoài gấp đôi khi nhập vào Anh | Ngư dân Hà Lan, khi ấy và đến thời Smith vẫn là những người chính cung cấp cá cho các nước châu Âu |
+
+**Bối cảnh.** Khi Đạo luật ra đời, Anh và Hà Lan chưa đánh nhau nhưng thù địch gay gắt. Sự thù địch bắt đầu dưới chính phủ của Nghị viện Dài (Long Parliament), nơi soạn ra khung của đạo luật, và bùng nổ ngay sau đó thành các cuộc chiến thời Bảo quốc công Cromwell và thời vua Charles II. Smith thừa nhận rằng một số điều khoản có thể xuất phát từ hận thù dân tộc. Nhưng chúng khôn ngoan như thể do trí tuệ chín chắn nhất đặt ra, vì hận thù lúc ấy nhắm đúng vào mục tiêu mà trí tuệ chín chắn nhất cũng sẽ đề xuất: làm suy yếu hải quân Hà Lan, lực lượng hải quân duy nhất khi đó có thể đe doạ an ninh nước Anh.
+
+**Cái giá phải trả.** Smith không che giấu chi phí. Đạo luật Hàng hải không có lợi cho ngoại thương, và không có lợi cho sự giàu có sinh ra từ ngoại thương. Lý lẽ của ông:
+
+1. Lợi ích của một nước khi buôn bán với nước ngoài, cũng như lợi ích của một nhà buôn với những người ông giao dịch, là mua rẻ và bán đắt.
+2. Một nước có lẽ mua được rẻ nhất khi tự do thương mại hoàn toàn khuyến khích mọi dân tộc mang hàng đến bán; vì cùng lý do, nó bán được đắt nhất khi chợ của nó đầy người mua.
+3. Đạo luật Hàng hải không đánh gánh nặng nào lên tàu nước ngoài đến chở hàng Anh đi; ngay cả thuế người nước ngoài cũ đánh vào hàng xuất khẩu cũng đã được bãi bỏ cho phần lớn mặt hàng.
+4. Nhưng người nước ngoài bị chặn không được mang hàng đến bán thì cũng không thể đến mua, vì đến tay không thì họ phải mang tiền từ nước mình sang để mua, rất bất tiện. Giảm số người bán thì cũng giảm số người mua.
+5. Kết quả: nước Anh phải mua hàng ngoại đắt hơn và bán hàng mình rẻ hơn so với khi tự do thương mại hoàn toàn.
+
+Dù vậy, Smith kết luận: vì quốc phòng quan trọng hơn nhiều so với sự giàu có, Đạo luật Hàng hải có lẽ là khôn ngoan nhất trong mọi quy định thương mại của nước Anh. Đây là một sự đánh đổi được nói thẳng: chấp nhận nghèo đi một chút để an toàn hơn.
 
 ### 8. Trường hợp thứ hai: thuế tương đương thuế nội địa
 
-- Khi một thứ thuế đánh lên sản phẩm trong nước, hợp lý là đánh thuế ngang bằng lên sản phẩm ngoại cùng loại. Điều đó không tạo độc quyền thị trường cho công nghiệp nội, không dồn thêm vốn và lao động vào một ngành; nó chỉ ngăn thuế đẩy một phần vốn khỏi hướng tự nhiên và để cạnh tranh giữa hàng nội và ngoại, sau thuế, diễn ra trên cùng mặt bằng như trước.
-- Ở Anh, mỗi khi đánh thuế lên hàng nội, để dập lời kêu ca ầm ĩ của nhà buôn và chủ xưởng rằng họ sẽ bị bán rẻ hơn ngay tại nhà, người ta thường đánh thuế nặng hơn nhiều lên hàng ngoại cùng loại.
-- Một số người muốn mở rộng giới hạn thứ hai này: khi nhu yếu phẩm bị đánh thuế, nên đánh thuế không chỉ nhu yếu phẩm nhập, mà mọi hàng ngoại cạnh tranh với bất kỳ hàng nội nào. Lý lẽ: thuế nhu yếu phẩm làm đắt sinh hoạt, đắt tiền công, nên mọi hàng nội đều đắt lên như thể chính nó bị đánh thuế.
-- Smith để việc xét xem thuế lên nhu yếu phẩm ở Anh (xà phòng, muối, da, nến) có nhất thiết nâng tiền công hay không sang phần bàn về thuế. Nhưng giả sử có, ông chỉ ra hai khác biệt. Thứ nhất, với thuế trực tiếp lên một hàng, luôn biết khá chính xác giá tăng bao nhiêu; còn tác động của việc tiền công tăng lên giá mọi hàng dùng lao động thì không thể biết với độ chính xác chấp nhận được, nên không thể đặt thuế hàng ngoại tương xứng.
-- Thứ hai, thuế nhu yếu phẩm tác động lên hoàn cảnh của dân như đất xấu và khí hậu khắc nghiệt: lương thực đắt như thể cần thêm lao động và chi phí để làm ra. Trong khan hiếm tự nhiên do đất và khí hậu, chỉ đạo người ta dùng vốn và công sức là phi lý; trong khan hiếm giả tạo do thuế cũng vậy. Hãy để họ tự điều chỉnh công nghiệp theo hoàn cảnh và tìm những việc mà, dù bất lợi, họ vẫn có lợi thế ở thị trường trong hay ngoài nước. Đánh thêm thuế mới lên họ, vì họ đã quá nặng thuế nhu yếu phẩm, và bắt họ trả đắt hơn cho mọi hàng khác, là cách chữa vô lý nhất.
-- Thuế như vậy, khi đến mức nào đó, là tai hoạ ngang đất cằn trời khắc; thế mà chúng thường được đánh ở các nước giàu và chăm chỉ nhất. Không nước nào khác chịu nổi sự rối loạn lớn như vậy. Như chỉ cơ thể khoẻ nhất mới sống khoẻ dưới chế độ ăn độc hại, chỉ những nước có lợi thế tự nhiên và tự tạo lớn nhất mới tồn tại và thịnh vượng dưới các thứ thuế ấy. Hà Lan là nước có nhiều thuế như thế nhất ở châu Âu, và vẫn thịnh vượng nhờ những hoàn cảnh riêng, không phải nhờ các thứ thuế ấy mà bất chấp chúng.
+Trường hợp thứ hai là khi một mặt hàng sản xuất trong nước đã phải chịu thuế. Khi ấy, hợp lý là đánh một khoản thuế ngang bằng lên hàng ngoại cùng loại. Thuế ngang bằng này:
+
+- không tạo ra độc quyền thị trường trong nước cho ngành nội địa;
+- không dồn thêm vốn và lao động vào ngành ấy so với mức tự nhiên;
+- chỉ ngăn khoản thuế nội địa đẩy một phần vốn và lao động khỏi hướng tự nhiên, để sau khi có thuế, cạnh tranh giữa hàng nội và hàng ngoại vẫn diễn ra trên cùng mặt bằng như trước.
+
+**Ví dụ minh hoạ** (số giả định). Bia trong nước chịu thuế 2 penny mỗi thùng. Nếu bia nhập không chịu thuế, bia nhập được lợi thế 2 penny mà không do nó làm rẻ hơn, và vốn bị đẩy khỏi ngành bia trong nước một cách giả tạo. Đánh thuế 2 penny lên bia nhập thì hai bên trở lại thế cân bằng như khi chưa có thuế. Đánh 5 penny lên bia nhập thì lại thành bảo hộ.
+
+Smith chỉ ra rằng thực tế ở Anh thường đi quá giới hạn này. Mỗi khi một thứ thuế được đánh lên hàng nội, để dập lời kêu ca ầm ĩ của nhà buôn và chủ xưởng rằng họ sẽ bị hàng ngoại bán rẻ hơn ngay tại nhà, người ta thường đánh thuế nặng hơn nhiều lên hàng ngoại cùng loại.
+
+**Đề xuất mở rộng, và vì sao Smith bác bỏ.** Một số người muốn mở rộng trường hợp thứ hai này. Lý lẽ của họ: khi nhu yếu phẩm (như xà phòng, muối, da, nến ở Anh) bị đánh thuế, chi phí sinh hoạt tăng, nên tiền công tăng, nên mọi hàng nội dùng lao động đều đắt lên như thể chính chúng bị đánh thuế. Vậy nên đánh thuế không chỉ lên nhu yếu phẩm nhập mà lên **mọi** hàng ngoại cạnh tranh với bất kỳ hàng nội nào.
+
+Smith để việc xét xem thuế nhu yếu phẩm ở Anh có nhất thiết làm tiền công tăng hay không sang phần bàn về thuế ở Quyển V. Nhưng giả sử nó có, ông vẫn chỉ ra hai khác biệt khiến đề xuất này sai:
+
+1. **Không đo được.** Với thuế đánh trực tiếp lên một mặt hàng, ta luôn biết khá chính xác giá của mặt hàng ấy tăng bao nhiêu. Còn tác động lan toả của việc tiền công tăng lên giá của mọi hàng dùng lao động thì không thể biết với độ chính xác chấp nhận được. Vì vậy không thể đặt một mức thuế hàng ngoại tương xứng với nó.
+
+2. **Giống như khan hiếm tự nhiên.** Thuế nhu yếu phẩm tác động lên hoàn cảnh của người dân giống như đất xấu và khí hậu khắc nghiệt: lương thực đắt lên như thể phải tốn thêm lao động và chi phí mới làm ra được. Khi khan hiếm do đất và khí hậu, chỉ đạo người dân nên dùng vốn và công sức ra sao là phi lý; khi khan hiếm giả tạo do thuế cũng vậy. Hãy để họ tự điều chỉnh hoạt động sản xuất theo hoàn cảnh, tự tìm những việc mà, dù gặp bất lợi, họ vẫn có lợi thế ở thị trường trong hay ngoài nước. Đánh thêm thuế mới lên họ chỉ vì họ đã phải chịu quá nhiều thuế nhu yếu phẩm, và bắt họ trả đắt hơn cho mọi hàng khác, là cách chữa vô lý nhất.
+
+Smith nói thêm rằng những thứ thuế như vậy, khi lên tới một mức nào đó, là tai hoạ ngang với đất cằn và khí hậu khắc nghiệt; thế mà chúng thường được đánh ở các nước giàu và chăm chỉ nhất, vì không nước nào khác chịu nổi sự rối loạn lớn đến thế. Ông so sánh: chỉ cơ thể khoẻ nhất mới sống khoẻ được dưới một chế độ ăn độc hại; tương tự, chỉ những nước có lợi thế tự nhiên và tự tạo lớn nhất mới tồn tại và thịnh vượng được dưới các thứ thuế ấy. Hà Lan là nước có nhiều thuế như thế nhất ở châu Âu, và vẫn thịnh vượng nhờ những hoàn cảnh riêng, nhưng không phải **nhờ** các thứ thuế ấy, như người ta vô lý cho là vậy, mà là **bất chấp** chúng.
 
 ### 9. Trường hợp thứ ba cần cân nhắc: trả đũa
 
-- Khi một nước ngoài hạn chế bằng thuế cao hay lệnh cấm việc nhập một số hàng công nghiệp của ta, lòng trả đũa tự nhiên đòi ta làm tương tự với một số hay mọi hàng của họ. Các nước hiếm khi bỏ qua.
-- Người Pháp đặc biệt ưa bảo hộ hàng công nghiệp của mình. Phần lớn chính sách ấy do Colbert, một người có nhiều tài năng nhưng ở việc này dường như đã bị nhà buôn và chủ xưởng thuyết phục bằng những lý lẽ ngụy biện để họ được độc quyền trên đồng bào. Nay những người hiểu biết nhất ở Pháp cho rằng chính sách ấy không có lợi cho nước họ. Biểu thuế năm 1667 đánh thuế rất nặng nhiều hàng ngoại. Colbert từ chối giảm thuế cho Hà Lan, nên năm 1671 Hà Lan cấm nhập rượu vang, brandy và hàng công nghiệp Pháp. Cuộc chiến năm 1672 một phần do tranh chấp thương mại này. Hoà ước Nimeguen năm 1678 kết thúc chiến tranh bằng việc Pháp giảm một số thuế cho Hà Lan và Hà Lan bỏ lệnh cấm.
-- Cùng thời gian, Pháp và Anh đàn áp công nghiệp của nhau bằng thuế và lệnh cấm tương tự, Pháp đi bước trước. Thù địch lâu đời ngăn cả hai giảm bớt. Năm 1697, Anh cấm ren xương của Flanders; chính quyền Flanders, khi đó thuộc Tây Ban Nha, trả đũa bằng cách cấm len Anh. Năm 1700, lệnh cấm ren được bỏ với điều kiện len Anh được nhập vào Flanders như trước.
-- Trả đũa có thể là chính sách tốt khi có khả năng buộc bên kia gỡ thuế cao hay lệnh cấm. Lấy lại một thị trường nước ngoài lớn thường bù dư sự bất tiện tạm thời của việc mua đắt một số hàng trong thời gian ngắn. Nhưng phán đoán xem trả đũa có đạt được điều ấy không thuộc về tài khéo của "con vật xảo quyệt, thâm hiểm mà người ta thường gọi là chính khách hay nhà chính trị", người bị chi phối bởi những dao động nhất thời, hơn là thuộc về khoa học của nhà lập pháp, người lẽ ra phải theo những nguyên tắc chung bất biến.
-- Khi không có khả năng gỡ thuế, trả đũa là cách tồi: không bù cho nhóm bị thiệt, lại gây thiệt cho hầu hết mọi nhóm khác. Khi láng giềng cấm một hàng của ta, ta thường cấm không chỉ hàng cùng loại của họ (vì cấm thế ít ảnh hưởng đến họ) mà cả hàng khác. Việc ấy có thể khuyến khích một nhóm thợ nào đó của ta, loại bớt đối thủ và cho họ nâng giá. Nhưng nhóm thợ bị láng giềng cấm hàng không được gì; ngược lại, họ và hầu hết mọi nhóm khác phải trả đắt hơn. Mỗi luật như vậy vì thế là một thứ thuế thực đánh lên cả nước, không có lợi cho nhóm thợ bị lệnh cấm của láng giềng làm thiệt, mà cho một nhóm khác.
+Ngoài hai trường hợp nên đánh thuế, Smith xét hai trường hợp mà việc có nên hạn chế nhập khẩu hay không là vấn đề cân nhắc. Trường hợp thứ nhất là trả đũa. Khi một nước ngoài hạn chế bằng thuế cao hay lệnh cấm việc nhập một số hàng công nghiệp của ta, lòng muốn trả đũa tự nhiên đòi ta đánh thuế hay cấm tương tự với một số hay mọi hàng của họ. Các nước hiếm khi bỏ qua mà không trả đũa.
+
+**Bằng chứng lịch sử.** Smith kể ba chuỗi sự kiện:
+
+| Năm | Sự kiện |
+|---|---|
+| 1667 | Colbert, bộ trưởng tài chính của Pháp, đặt biểu thuế đánh rất nặng lên nhiều hàng công nghiệp nước ngoài |
+| (sau 1667) | Colbert từ chối giảm thuế cho Hà Lan |
+| 1671 | Hà Lan trả đũa bằng cách cấm nhập rượu vang, brandy và hàng công nghiệp Pháp |
+| 1672 | Chiến tranh Pháp – Hà Lan nổ ra, một phần do tranh chấp thương mại này |
+| 1678 | Hoà ước Nimeguen kết thúc chiến tranh: Pháp giảm một số thuế cho Hà Lan, Hà Lan bỏ lệnh cấm |
+| 1697 | Anh cấm nhập ren xương (ren dệt bằng suốt xương) của Flanders |
+| (sau 1697) | Chính quyền Flanders, khi đó thuộc Tây Ban Nha, trả đũa bằng cách cấm hàng len của Anh |
+| 1700 | Anh bỏ lệnh cấm ren Flanders, với điều kiện len Anh được nhập vào Flanders như trước |
+
+Về Colbert, Smith nhận xét đây là một người có nhiều tài năng, nhưng trong việc này dường như đã bị nhà buôn và chủ xưởng thuyết phục bằng những lý lẽ ngụy biện, để họ được độc quyền bán cho đồng bào. Người Pháp nói chung đặc biệt ưa bảo hộ hàng công nghiệp, và phần lớn chính sách ấy là của Colbert. Đến thời Smith, những người hiểu biết nhất ở Pháp cho rằng chính sách ấy không có lợi cho nước họ. Cùng thời gian đó, Pháp và Anh cũng đàn áp hàng công nghiệp của nhau bằng thuế và lệnh cấm, phía Pháp đi bước trước; sự thù địch lâu đời giữa hai nước ngăn cả hai bên giảm bớt.
+
+**Khi nào trả đũa là đúng.** Smith phân biệt hai tình huống:
+
+- **Có triển vọng buộc bên kia gỡ thuế.** Trả đũa có thể là chính sách tốt, vì lấy lại được một thị trường nước ngoài lớn thường bù dư sự bất tiện tạm thời của việc phải mua đắt một số hàng trong một thời gian ngắn. Trường hợp Hà Lan năm 1678 và Flanders năm 1700 là ví dụ trả đũa đạt được mục đích.
+- **Không có triển vọng gỡ thuế.** Trả đũa là cách tồi để bù đắp thiệt hại cho một nhóm người dân của ta, vì nó gây thêm thiệt hại cho chính ta, không chỉ cho nhóm ấy mà cho hầu hết mọi nhóm khác.
+
+Nhưng việc phán đoán xem trả đũa có đạt được mục đích hay không, Smith nói, thuộc về tài khéo của "con vật xảo quyệt, thâm hiểm mà người ta thường gọi là chính khách hay nhà chính trị", người có ý kiến dao động theo những biến cố nhất thời, hơn là thuộc về khoa học của nhà lập pháp, người lẽ ra phải dựa vào những nguyên tắc chung không thay đổi.
+
+**Vì sao trả đũa không có triển vọng lại gây hại.** Khi láng giềng cấm một hàng của ta, ta thường cấm không chỉ hàng cùng loại của họ (vì cấm như thế ít ảnh hưởng đến họ) mà cả các hàng khác của họ. Việc ấy có thể khuyến khích một nhóm thợ nào đó của ta, vì loại bớt đối thủ và cho họ nâng giá trên thị trường trong nước. Nhưng nhóm thợ đã bị láng giềng cấm hàng thì không được gì. Ngược lại, họ cùng hầu hết mọi nhóm khác trong nước phải trả giá cao hơn cho một số hàng. Mỗi luật trả đũa như vậy vì thế là một thứ thuế thực đánh lên cả nước, không đem lợi cho nhóm thợ bị lệnh cấm của láng giềng làm thiệt, mà cho một nhóm khác.
+
+**Ví dụ minh hoạ** (giả định). Nước X cấm vải của nước ta. Ta trả đũa bằng cách cấm rượu của nước X. Thợ dệt của ta vẫn không bán được vải sang X; người làm rượu trong nước được lợi vì bớt cạnh tranh; còn mọi người uống rượu, kể cả thợ dệt, phải mua rượu đắt hơn. Người bị thiệt ban đầu không được bù, và có thêm người bị thiệt.
 
 ### 10. Trường hợp thứ tư cần cân nhắc: khôi phục tự do nhập khẩu
 
-- Khi một ngành, nhờ thuế cao hay lệnh cấm, đã lớn đến mức dùng rất nhiều thợ, thì nhân đạo đòi khôi phục tự do thương mại từ từ, dè dặt, thận trọng. Bỏ đột ngột thì hàng ngoại rẻ cùng loại có thể tràn vào, làm hàng nghìn người mất kế sinh nhai.
-- Tuy nhiên xáo trộn có lẽ nhỏ hơn người ta thường tưởng, vì hai lý do. Thứ nhất, mọi hàng công nghiệp mà một phần được xuất sang các nước châu Âu khác không cần tiền thưởng thì gần như không bị ảnh hưởng bởi nhập tự do nhất. Chúng phải bán ở nước ngoài rẻ bằng hàng ngoại cùng loại và chất lượng, nên ở trong nước càng phải rẻ hơn; chúng vẫn giữ thị trường trong nước, và dù vài người ưa hàng ngoại theo ý thích, số ấy không đủ ảnh hưởng đến việc làm của thợ. Phần lớn len, da thuộc và ngũ kim của Anh được xuất hằng năm sang châu Âu không cần tiền thưởng, và đây là những ngành dùng nhiều thợ nhất. Tơ lụa có lẽ chịu thiệt nhiều nhất, rồi đến vải lanh, nhưng vải lanh ít hơn nhiều.
-- Thứ hai, dù nhiều thợ có thể mất việc ngay, không vì thế mà họ hết kế sinh nhai. Cuối cuộc chiến tranh vừa qua, hơn 100.000 lính và thuỷ thủ được giải ngũ, ngang số thợ của các ngành lớn nhất. Họ chịu khó khăn ban đầu nhưng không bị mất mọi kế sinh nhai; họ dần tìm được việc và được hấp thụ vào nhiều nghề sản xuất và dịch vụ trong nước. Không có chấn động lớn, thậm chí không có xáo trộn đáng kể từ một thay đổi lớn đến thế đối với hơn 100.000 người quen cầm vũ khí, nhiều người quen cướp bóc. Số kẻ lang thang không tăng rõ rệt; tiền công không giảm ở nghề nào, theo Smith biết, trừ thuỷ thủ tàu buôn.
-- So thói quen của người lính và người thợ thì thấy người thợ không bị thói quen ngăn cản tìm nghề mới bằng người lính. Người thợ quen tự nuôi mình bằng lao động; người lính quen ăn lương. Người thợ chăm chỉ; người lính quen nhàn rỗi và tiêu xài. Chuyển công sức từ việc này sang việc khác dễ hơn chuyển từ nhàn rỗi sang bất kỳ việc gì. Hơn nữa, nhiều ngành có tính chất gần nhau, thợ dễ chuyển ngành; nhiều thợ còn thỉnh thoảng làm việc đồng áng. Vốn trước kia thuê họ trong một ngành vẫn ở trong nước để thuê số người tương đương trong ngành khác. Vốn không đổi thì cầu lao động cũng không đổi hoặc gần như không đổi, dù được dùng ở nơi khác, vào việc khác.
-- Lính và thuỷ thủ giải ngũ được tự do làm bất kỳ nghề gì, ở bất kỳ đâu trong Anh hay Ai Len. Hãy trả cho mọi thần dân cùng sự tự do ấy: phá bỏ đặc quyền của phường hội, bãi bỏ luật học nghề (cả hai đều là xâm phạm thực sự quyền tự do tự nhiên), và bãi bỏ luật định cư, để người thợ nghèo mất việc ở một nghề hay một nơi có thể tìm việc ở nghề khác, nơi khác mà không sợ bị truy tố hay trục xuất. Khi ấy cả xã hội lẫn cá nhân đều sẽ ít bị thiệt khi đôi lúc một ngành bị giải thể, cũng như khi giải ngũ quân đội. Người thợ có công với đất nước, nhưng không thể sánh với những người đổ máu bảo vệ đất nước, và không đáng được đối xử ưu ái hơn họ.
+Trường hợp cân nhắc thứ hai là: nên khôi phục tự do nhập khẩu thế nào sau khi đã bảo hộ lâu. Khi một ngành, nhờ thuế cao hay lệnh cấm, đã lớn đến mức dùng rất nhiều thợ, thì lòng nhân đạo đòi rằng tự do thương mại chỉ nên được khôi phục từ từ, dè dặt và thận trọng. Nếu bỏ thuế và lệnh cấm đột ngột, hàng ngoại rẻ hơn cùng loại có thể tràn vào thị trường trong nước nhanh đến mức hàng nghìn người mất kế sinh nhai cùng lúc.
+
+Tuy vậy, Smith cho rằng xáo trộn có lẽ nhỏ hơn nhiều so với điều người ta thường tưởng, vì hai lý do.
+
+**Lý do thứ nhất: nhiều ngành vốn đã cạnh tranh được.** Mọi hàng công nghiệp mà một phần được xuất khẩu sang các nước châu Âu khác **mà không cần tiền thưởng xuất khẩu** thì gần như không bị ảnh hưởng bởi việc nhập tự do. Lý lẽ: những hàng ấy phải bán ở nước ngoài với giá rẻ bằng hàng ngoại cùng loại và cùng chất lượng, nên ở trong nước (không tốn chi phí chở ra nước ngoài) chúng càng phải rẻ hơn. Chúng vẫn giữ được thị trường trong nước; dù vài người có thể ưa hàng ngoại chỉ vì thích của lạ, số ấy không đủ ảnh hưởng đến việc làm của thợ. Theo Smith:
+
+| Ngành | Mức bị ảnh hưởng nếu cho nhập tự do |
+|---|---|
+| Len, da thuộc, đồ ngũ kim | Gần như không; phần lớn được xuất hằng năm sang châu Âu không cần tiền thưởng, và đây là những ngành dùng nhiều thợ nhất |
+| Tơ lụa | Có lẽ chịu thiệt nhiều nhất |
+| Vải lanh | Chịu thiệt, nhưng ít hơn tơ lụa nhiều |
+
+**Lý do thứ hai: người mất việc tìm được việc khác.** Dù nhiều thợ có thể mất việc ngay khi tự do thương mại được khôi phục, không vì thế mà họ mất mọi kế sinh nhai. Smith đưa bằng chứng: cuối cuộc chiến tranh vừa qua (Chiến tranh Bảy năm), hơn 100.000 lính và thuỷ thủ được giải ngũ cùng lúc, ngang với số thợ của các ngành công nghiệp lớn nhất. Họ chịu khó khăn ban đầu, nhưng không mất mọi kế sinh nhai; phần lớn dần tìm được việc và được hấp thụ vào nhiều nghề sản xuất và dịch vụ trong nước. Không có chấn động lớn, thậm chí không có xáo trộn đáng kể nào, từ một thay đổi lớn đến thế đối với hơn 100.000 người vốn quen cầm vũ khí, nhiều người còn quen cướp bóc. Số kẻ lang thang không tăng rõ rệt. Theo những gì Smith biết, tiền công không giảm ở nghề nào, trừ thuỷ thủ tàu buôn.
+
+Smith còn lập luận rằng người thợ chuyển nghề dễ hơn người lính:
+
+| | Người lính | Người thợ |
+|---|---|---|
+| Nguồn sống quen thuộc | Ăn lương | Tự nuôi mình bằng lao động |
+| Thói quen làm việc | Quen nhàn rỗi và tiêu xài | Quen chăm chỉ |
+| Việc phải chuyển | Từ nhàn rỗi sang bất kỳ việc gì (khó) | Từ một việc này sang một việc khác (dễ hơn) |
+
+Thêm vào đó, nhiều ngành có tính chất gần nhau nên thợ dễ chuyển từ ngành này sang ngành kia, và nhiều thợ còn thỉnh thoảng làm việc đồng áng. Quan trọng nhất, vốn trước kia thuê họ ở ngành cũ vẫn còn ở trong nước để thuê một số người tương đương ở ngành khác. Vốn không đổi thì cầu lao động cũng không đổi, hoặc gần như không đổi, dù được dùng ở nơi khác và vào việc khác. Đây lại là lập luận "vốn giới hạn công việc" ở mục 2, nhưng dùng theo chiều ngược lại: bảo hộ không tạo thêm việc làm, thì gỡ bảo hộ cũng không làm mất tổng việc làm.
+
+**Điều kiện: tự do chọn nghề và nơi ở.** Lính và thuỷ thủ giải ngũ được tự do làm bất kỳ nghề gì, ở bất kỳ đâu trong Anh hay Ai Len. Smith đề nghị trả lại cho mọi thần dân cùng sự tự do ấy, bằng ba việc:
+
+1. Phá bỏ đặc quyền của các phường hội (vốn giới hạn ai được hành nghề trong thành phố).
+2. Bãi bỏ luật học nghề (bắt học nghề nhiều năm mới được hành nghề).
+3. Bãi bỏ luật định cư (cho phép trục xuất người nghèo về giáo xứ gốc), để người thợ nghèo mất việc ở một nghề hay một nơi có thể đi tìm việc ở nghề khác, nơi khác mà không sợ bị truy tố hay trục xuất.
+
+Smith coi hai thứ đầu là xâm phạm thực sự quyền tự do tự nhiên. Khi đã có sự tự do ấy, cả xã hội lẫn từng cá nhân sẽ ít bị thiệt khi đôi lúc một ngành công nghiệp bị giải thể, cũng như khi giải ngũ quân đội. Ông kết bằng một nhận xét: người thợ chắc chắn có công với đất nước, nhưng không thể sánh với những người đã đổ máu bảo vệ đất nước, và không đáng được đối xử ưu ái hơn họ. Nếu lính giải ngũ được để tự lo mà không cần bảo hộ, thợ cũng có thể.
 
 ### 11. Vì sao tự do thương mại sẽ không bao giờ trở lại hoàn toàn
 
-- Mong tự do thương mại được khôi phục hoàn toàn ở Anh phi lý như mong lập được một Oceana hay Utopia ở đó. Không chỉ định kiến của công chúng, mà những lợi ích tư không gì lay chuyển nổi chống lại nó.
-- Nếu sĩ quan quân đội chống mọi việc cắt giảm quân số với cùng sự hăng hái và đồng lòng như chủ xưởng chống mọi luật làm tăng đối thủ trên thị trường trong nước; nếu sĩ quan kích lính tấn công những người đề xuất cắt quân như chủ xưởng kích thợ tấn công những người đề xuất cắt độc quyền, thì cắt quân cũng nguy hiểm như cắt độc quyền hiện nay. Độc quyền đã làm tăng số người ủng hộ nó đến mức, như một đạo quân thường trực quá lớn, nó trở nên đáng sợ với chính phủ và nhiều lần đe doạ cả cơ quan lập pháp.
-- Nghị sĩ ủng hộ mọi đề xuất củng cố độc quyền được tiếng hiểu thương mại và được lòng một tầng lớp đông, giàu. Nghị sĩ chống, nhất là khi đủ sức cản, thì không gì bảo vệ được khỏi lăng mạ, vu khống, có khi cả nguy hiểm thực sự từ những kẻ độc quyền thất vọng và giận dữ.
-- Chủ một xưởng lớn có thể chịu thiệt nặng nếu thị trường trong nước đột ngột mở cửa. Phần vốn dùng mua nguyên liệu và trả tiền công có thể chuyển sang việc khác không khó. Nhưng phần cố định trong nhà xưởng và công cụ thì khó bán mà không lỗ nhiều. Sự cân nhắc công bằng với lợi ích của họ đòi hỏi thay đổi không bao giờ đột ngột, mà chậm, từ từ, sau khi báo trước rất lâu.
-- Cơ quan lập pháp, nếu cân nhắc được mà không bị tiếng kêu của lợi ích riêng chi phối, mà nhìn rộng đến lợi ích chung, thì nên đặc biệt cẩn trọng không lập độc quyền mới, không mở rộng độc quyền cũ. Mỗi quy định như vậy đưa vào thể chế nhà nước một mức rối loạn thực, mà sau này khó chữa mà không gây ra một rối loạn khác.
-- Việc đánh thuế hàng nhập để lấy thu ngân sách chứ không để ngăn nhập sẽ được xét ở phần thuế. Thuế đánh để ngăn hay giảm nhập rõ ràng phá hoại cả thu hải quan lẫn tự do thương mại.
+Chương kết thúc bằng một nhận định bi quan. Mong tự do thương mại được khôi phục hoàn toàn ở Anh cũng phi lý như mong lập được một Oceana hay một Utopia ở đó (hai nhà nước lý tưởng trong văn chương của Harrington và More). Không chỉ định kiến của công chúng, mà còn những lợi ích tư không gì lay chuyển nổi, chống lại điều đó.
+
+**Độc quyền như một đạo quân thường trực.** Smith dùng một phép so sánh với quân đội. Giả sử sĩ quan quân đội chống mọi việc cắt giảm quân số với cùng sự hăng hái và đồng lòng như chủ xưởng chống mọi luật làm tăng số đối thủ của họ trên thị trường trong nước; giả sử sĩ quan kích động lính tấn công những người đề xuất cắt quân như chủ xưởng kích động thợ tấn công những người đề xuất cắt độc quyền. Khi ấy cắt giảm quân đội sẽ nguy hiểm đúng như việc cắt giảm độc quyền hiện nay. Độc quyền đã làm tăng số người ủng hộ nó đến mức, giống một đạo quân thường trực quá lớn, nó trở nên đáng sợ với chính phủ, và nhiều lần đe doạ cả cơ quan lập pháp.
+
+Hệ quả trong nghị viện là một bất đối xứng rõ ràng:
+
+| Nghị sĩ | Được gì, mất gì |
+|---|---|
+| Ủng hộ mọi đề xuất củng cố độc quyền | Được tiếng là hiểu thương mại, được lòng một tầng lớp đông người và giàu có |
+| Chống các đề xuất ấy, nhất là khi đủ sức ngăn cản | Không có gì bảo vệ khỏi lăng mạ, vu khống, có khi cả nguy hiểm thực sự đến tính mạng từ những kẻ độc quyền thất vọng và giận dữ |
+
+**Công bằng với chủ xưởng.** Smith không chỉ trách chủ xưởng. Ông thừa nhận rằng chủ một xưởng lớn có thể chịu thiệt nặng nếu thị trường trong nước đột ngột mở cửa cho đối thủ nước ngoài. Phần vốn dùng mua nguyên liệu và trả tiền công (vốn lưu động) có thể chuyển sang việc khác không khó lắm. Nhưng phần vốn cố định trong nhà xưởng và công cụ thì khó bán đi mà không lỗ nhiều. Sự cân nhắc công bằng với lợi ích của họ đòi hỏi những thay đổi như vậy không bao giờ được làm đột ngột, mà phải chậm, từ từ, và sau khi đã báo trước rất lâu.
+
+**Lời khuyên cho nhà lập pháp.** Nếu cơ quan lập pháp có thể cân nhắc mà không bị tiếng kêu ầm ĩ của lợi ích riêng chi phối, mà nhìn rộng tới lợi ích chung, thì nên đặc biệt cẩn trọng để không lập thêm độc quyền mới, và không mở rộng thêm các độc quyền cũ. Mỗi quy định như vậy đưa vào thể chế nhà nước một mức độ rối loạn thực sự, mà sau này khó chữa nếu không gây ra một rối loạn khác. Lời khuyên này hợp lý với phân tích ở trên: vì gỡ một độc quyền đã có rất tốn kém về chính trị và kinh tế, cách rẻ nhất là đừng tạo ra nó.
+
+**Thuế để lấy thu và thuế để chặn nhập.** Cuối cùng, Smith tách riêng một câu hỏi để bàn ở phần thuế (Quyển V): đánh thuế lên hàng nhập để lấy thu cho ngân sách, chứ không để ngăn nhập, thì nên làm đến đâu. Còn thuế đánh ra để ngăn hay giảm nhập khẩu thì rõ ràng phá hoại cả hai thứ cùng lúc: phá hoại thu hải quan (vì hàng không vào thì không có thuế để thu) và phá hoại tự do thương mại.
 
 ## Luận điểm kinh tế cốt lõi
 

@@ -329,87 +329,237 @@
 2. **Vì sao các chính sách ưu ái nông nghiệp lại hại nông nghiệp?** Vì thị trường lớn nhất của nông sản là thành thị trong nước. Hạn chế công nghiệp và ngoại thương làm hàng công nghiệp đắt lên và số người mua nông sản ít đi, nên giá trị trao đổi của nông sản giảm, động cơ cải tạo đất giảm, và vốn rút khỏi nông nghiệp sang các ngành được độc quyền. Trung Hoa, Ai Cập và Hindustan giàu có nhờ thị trường nội địa lớn và thuỷ lợi, nhưng lẽ ra giàu hơn nếu mở ngoại thương.
 3. **Nếu không ưu ái ngành nào, nhà nước làm gì?** Gỡ mọi ưu đãi và hạn chế thì hệ thống tự do tự nhiên tự thiết lập. Nhà nước còn ba nhiệm vụ: quốc phòng, tư pháp, và xây dựng, duy trì các công trình và thiết chế công cộng mà lợi ích xã hội vượt chi phí nhưng không cá nhân nào thu đủ để tự làm.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Hệ thống trọng thương (mercantile system).** Học thuyết và chính sách chi phối châu Âu thế kỷ 17–18, coi của cải của một nước là lượng vàng bạc nó tích được, và vì thế ưu ái công nghiệp thành thị và xuất khẩu, hạn chế nhập khẩu. Ví dụ điển hình trong chương: Colbert, bộ trưởng của Louis XIV, cấm hẳn xuất khẩu ngũ cốc để giữ lương thực thành thị rẻ cho thợ. Khái niệm này quan trọng vì phái trọng nông ra đời chính là để phản ứng lại hệ thống này, và Smith xét hai hệ thống như hai thái cực.
+
+**Phái trọng nông (physiocrats, "các nhà kinh tế" Pháp).** Nhóm học giả Pháp quanh Quesnay cho rằng chỉ đất đai sinh ra giá trị ròng, còn công nghiệp và thương mại chỉ chuyển giá trị từ dạng này sang dạng khác. Ví dụ minh hoạ theo cách nghĩ của họ: một mảnh ruộng gieo 10 bao thóc giống và nuôi người làm hết 40 bao, thu về 60 bao; 10 bao dư ra sau khi hoàn đủ chi phí là "sản phẩm ròng", còn một xưởng dệt chỉ thu về đúng bằng những gì nó tiêu. Đây là đối tượng chính của chương, và Smith vừa bác cái nền lý thuyết của họ vừa tán thành kết luận tự do thương mại của họ.
+
+**Sản phẩm ròng và địa tô (net produce, rent).** Sản phẩm ròng là phần sản phẩm còn lại sau khi đã hoàn lại mọi chi phí sản xuất; theo trọng nông, phần này chỉ có trong nông nghiệp và chính là địa tô, tức tiền thuê đất mà chủ trại trả cho chủ đất. Ví dụ minh hoạ: chủ trại thu 1.000 đồng tiền nông sản, chi 800 đồng cho giống, công và hao mòn nông cụ, trả 200 đồng địa tô; 200 đồng đó là "sản phẩm ròng". Khái niệm này là thước đo mà trọng nông dùng để xếp ngành nào "sản xuất", ngành nào không.
+
+**Vốn ứng trước, hay ba loại "chi phí sản xuất".** Các khoản phải bỏ ra trước khi có thu hoạch: chi phí đất đai của chủ đất (cải tạo đất, thuỷ lợi, nhà xưởng), chi phí ban đầu của chủ trại (nông cụ, gia súc kéo, hạt giống, tiền nuôi người làm năm đầu) và chi phí hàng năm (hạt giống, hao mòn nông cụ, tiền công, nuôi gia súc). Ví dụ minh hoạ: chủ đất bỏ tiền đào mương, nhờ đó cùng số vốn chủ trại thu thêm được 50 đồng mỗi năm và chịu trả địa tô cao hơn 50 đồng; khoản tăng đó là lợi tức của việc đào mương. Trọng nông gọi ba khoản này là "sản xuất" vì chúng vừa hoàn lại chính mình vừa sinh địa tô.
+
+**Lao động sản xuất và phi sản xuất (productive / unproductive labour).** Theo định nghĩa của Smith ở Quyển II, Chương III, lao động sản xuất là lao động làm tăng giá trị của vật nó tác động vào và đọng lại trong một hàng hoá bán được; lao động phi sản xuất là dịch vụ mất đi ngay lúc làm, như của đầy tớ. Ví dụ: người thợ dệt biến sợi thành tấm vải bán được, còn người đầy tớ dọn phòng xong thì không để lại món hàng nào. Trọng nông dùng chữ "phi sản xuất" cho cả thợ và thương nhân; Smith dùng nó cho đầy tớ. Toàn bộ phần bác bỏ trong chương xoay quanh việc vạch đúng ranh giới này.
+
+**Giá trị trao đổi (exchangeable value).** Lượng hàng khác mà một món hàng đổi được. Ví dụ minh hoạ: nếu 1 bao lúa mì đổi được 2 tấm vải, sau đó thuế nhập khẩu làm vải đắt gấp đôi, thì 1 bao lúa mì chỉ còn đổi được 1 tấm vải: giá trị trao đổi của lúa mì đã giảm một nửa dù sản lượng không đổi. Đây là cơ chế then chốt của chương: mọi thứ làm hàng công nghiệp đắt lên đều làm nông sản "rẻ đi" và làm nản lòng nông dân.
+
+**Quy mô thị trường và phân công lao động (extent of the market).** Luận điểm của Quyển I, Chương III: phân công lao động làm tăng năng suất, nhưng mức phân công bị giới hạn bởi số người mua. Ví dụ minh hoạ: một làng 200 dân không nuôi nổi một người chỉ chuyên làm đinh, nhưng một thành phố 200.000 dân thì nuôi được cả một xưởng chia việc làm đinh thành nhiều khâu. Smith dùng luận điểm này để giải thích vì sao Trung Hoa, Ai Cập và Hindustan bị thiệt khi đóng ngoại thương.
+
+**Hệ thống tự do tự nhiên (system of natural liberty).** Trạng thái tự thiết lập khi nhà nước gỡ bỏ mọi ưu đãi và hạn chế cho ngành nào đó: mỗi người, chừng nào không vi phạm luật công lý, được tự do dùng lao động và vốn của mình theo cách mình muốn. Nhà nước khi đó còn ba nhiệm vụ: quốc phòng, tư pháp, và các công trình, thiết chế công cộng mà tư nhân không có lợi để làm. Ví dụ minh hoạ cho nhiệm vụ thứ ba: một cây cầu tốn 100 đồng, đem lại cho cả vùng lợi ích 300 đồng, nhưng người xây chỉ thu được 60 đồng phí qua cầu; không ai tự bỏ vốn xây, dù xã hội có lợi. Đây là kết luận của chương và của cả ấn bản.
+
+## Nội dung chi tiết
 
 ### 1. Mở đầu: một học thuyết chưa từng được áp dụng
-- Hệ thống trọng nông không cần giải thích dài như hệ thống trọng thương. Theo Smith biết, chưa nước nào áp dụng nó; nó chỉ tồn tại trong suy tưởng của một số ít người uyên bác ở Pháp. Một hệ thống chưa và chắc sẽ không gây hại ở đâu thì không cần xét dài các nhược điểm; Smith chỉ phác nét đại cương.
-- Nguồn gốc là phản ứng chống Colbert. Colbert, bộ trưởng của Louis XIV, là người trung thực, cần mẫn, uyên bác, giỏi đưa phương pháp và nền nếp vào thu chi ngân quỹ. Nhưng ông mang mọi định kiến trọng thương, điều tiết công thương của một nước lớn như điều tiết các phòng ban của một cơ quan.
-- Như các bộ trưởng châu Âu khác, Colbert ưu tiên công nghiệp thành thị hơn nông nghiệp. Để lương thực thành thị rẻ, nhằm khuyến khích công nghiệp và ngoại thương, ông cấm hẳn xuất khẩu ngũ cốc, khiến nông dân mất thị trường nước ngoài cho một phần lớn sản phẩm.
-- Phái trọng nông phản ứng bằng cực ngược lại. Nếu Colbert đánh giá quá cao công nghiệp thành thị, thì họ đánh giá quá thấp nó.
+
+Smith mở chương bằng việc nói rằng hệ thống trọng nông không cần được giải thích dài như hệ thống trọng thương, vốn đã chiếm tám chương trước. Lý do rất thực tế: theo hiểu biết của ông, chưa nước nào áp dụng hệ thống này. Nó chỉ tồn tại trong suy tưởng của một số ít người uyên bác ở Pháp. Một học thuyết "chưa hề và chắc sẽ không làm thiệt hại cho nơi nào" thì không cần xét kỹ từng nhược điểm. Vì vậy Smith chỉ phác nét đại cương của nó.
+
+Để hiểu phái trọng nông, phải bắt đầu từ người mà họ phản đối: Colbert, bộ trưởng của Louis XIV. Smith đánh giá Colbert khá công bằng. Ông là người trung thực, cần mẫn, uyên bác, có kinh nghiệm và giỏi đưa phương pháp, nền nếp vào việc hạch toán thu chi ngân quỹ. Nhưng Colbert mang đầy đủ các định kiến của hệ thống trọng thương. Ông muốn điều tiết công nghiệp và thương mại của cả một nước lớn giống như người ta điều tiết các phòng ban, các bộ phận của một cơ quan: chỗ nào cũng có quy định, chỗ nào cũng có ưu đãi hay cấm đoán.
+
+Giống phần lớn các bộ trưởng châu Âu cùng thời, Colbert ưu tiên công nghiệp thành thị hơn nông nghiệp nông thôn. Công cụ nổi bật nhất là lệnh cấm hẳn xuất khẩu ngũ cốc. Mục đích là giữ lương thực ở thành thị rẻ, để tiền công thợ thấp và hàng công nghiệp Pháp cạnh tranh được trên thị trường nước ngoài. Hậu quả là nông dân Pháp mất thị trường nước ngoài cho một phần lớn sản phẩm của mình, nên ít có động cơ canh tác và cải tạo đất.
+
+Phái trọng nông ra đời như một phản ứng. Nếu Colbert đánh giá quá cao công nghiệp thành thị, thì họ đánh giá quá thấp nó: họ coi nông nghiệp là nguồn duy nhất của thu nhập và của cải. Smith ví việc này như người muốn uốn thẳng một cây gậy bị cong thì bẻ nó cong hẳn sang phía bên kia. Như vậy chương mở ra với hai thái cực cùng ở Pháp, một bên ưu ái công nghiệp, một bên tôn vinh nông nghiệp, và Smith sẽ lần lượt chỉ ra chỗ sai của cả hai.
 
 ### 2. Ba tầng lớp và ba loại chi phí sản xuất
-- Dân cư tham gia làm ra sản phẩm của đất đai và lao động được chia thành ba tầng lớp: chủ đất; dân cày, chủ trại và lao động nông thôn, được tôn vinh là "tầng lớp sản xuất"; thợ thủ công, nhà chế tạo và thương nhân, bị gọi bằng cái tên khinh bỉ "tầng lớp vô tích sự hoặc phi sản xuất" (*barren or unproductive*, dịch sát là "vô sinh").
-- Chủ đất góp phần bằng chi phí đất đai: chi tiền cải tạo đất, làm thuỷ lợi, xây dựng, nhờ đó người trồng trọt với cùng số vốn thu được nhiều hơn và trả địa tô cao hơn. Phần địa tô tăng thêm được coi là lợi tức của khoản đầu tư này.
-- Chủ trại góp phần bằng chi phí ban đầu (nông cụ, gia súc kéo, hạt giống, tiền nuôi người làm trong năm đầu) và chi phí hàng năm (hạt giống, hao mòn nông cụ, tiền công, nuôi gia súc).
-- Ba loại này được gọi là chi phí sản xuất vì ngoài hoàn lại toàn bộ giá trị của chính chúng, hàng năm chúng còn tái sản xuất một sản phẩm ròng. Mọi chi phí khác là phi sản xuất.
+
+Phái trọng nông chia những người tham gia làm ra sản phẩm hàng năm của đất đai và lao động thành ba tầng lớp:
+
+| Tầng lớp | Gồm ai | Tên gọi của trọng nông |
+|---|---|---|
+| Thứ nhất | Chủ đất | Tầng lớp chủ đất |
+| Thứ hai | Dân cày, chủ trại, lao động nông thôn | "Tầng lớp sản xuất", được tôn vinh |
+| Thứ ba | Thợ thủ công, nhà chế tạo, thương nhân | "Tầng lớp vô tích sự hoặc phi sản xuất" |
+
+Tên gọi của tầng lớp thứ ba mang ý khinh bỉ. Chữ gốc là *barren or unproductive*; dịch sát thì *barren* là "vô sinh", như đất cằn không mọc được gì.
+
+Mỗi tầng lớp đóng góp vào sản phẩm theo một cách khác nhau. Chủ đất góp phần bằng **chi phí đất đai**: tiền bỏ ra cải tạo đất, làm thuỷ lợi, xây nhà xưởng, chuồng trại. Nhờ những khoản này, người trồng trọt với cùng số vốn thu được nhiều sản phẩm hơn và vì thế có thể trả địa tô cao hơn. Phần địa tô tăng thêm được coi là lợi tức mà chủ đất nhận về cho khoản đầu tư của mình.
+
+Chủ trại góp phần bằng hai loại chi phí. **Chi phí ban đầu** gồm nông cụ, gia súc kéo, hạt giống và tiền nuôi gia đình, người làm trong năm đầu, tức là trước khi có vụ thu hoạch đầu tiên. **Chi phí hàng năm** gồm hạt giống, hao mòn nông cụ, tiền công trả cho người làm và tiền nuôi gia súc trong năm.
+
+Ba loại chi phí này (đất đai, ban đầu, hàng năm) được trọng nông gọi là **chi phí sản xuất**. Lý do: ngoài việc hoàn lại toàn bộ giá trị của chính chúng, mỗi năm chúng còn tái sản xuất thêm một **sản phẩm ròng**, chính là địa tô trả cho chủ đất. Mọi chi phí khác, dùng vào bất kỳ việc gì ngoài canh tác, đều bị xếp là phi sản xuất. (Bản dịch in nhầm câu này thành "các chi phí khác gọi là chi phí sản xuất"; nghĩa đúng là phi sản xuất.)
 
 ### 3. Vì sao thợ và thương nhân bị coi là phi sản xuất
-- Lao động của thợ thủ công và nhà chế tạo, dù làm tăng đáng kể giá trị sản phẩm thô, chỉ hoàn lại vốn thuê họ cộng lợi nhuận thông thường. Vốn đó gồm nguyên liệu, công cụ và tiền công ứng trước.
-- Lợi nhuận của chủ xưởng cũng chỉ là khoản ông ta ứng trước cho chính mình để sinh sống, tương ứng với lợi nhuận ông dự kiến thu từ giá bán sản phẩm của thợ. Nếu giá đó không hoàn lại khoản này cùng nguyên liệu, công cụ và tiền công, thì ông ta chưa thu đủ chi phí. Vậy lợi nhuận không phải sản phẩm ròng còn lại sau khi trả mọi chi phí.
-- Vốn của chủ trại còn sinh địa tô cho một người khác (chủ đất); vốn của chủ xưởng thì không. Vì vậy chi phí thuê thợ thủ công chỉ duy trì giá trị của chính nó mà không tạo giá trị mới; chi phí thuê chủ trại và nhân công còn tạo thêm giá trị mới là địa tô, nên được gọi là chi phí sản xuất.
-- Vốn thương mại cũng phi sản xuất như vốn chế biến: lợi nhuận của nó chỉ hoàn trả tiền sinh hoạt mà chủ đã ứng cho mình trong thời gian dùng vốn.
-- Lao động của thợ không thêm gì vào giá trị tổng sản phẩm thô hàng năm. Nó có thể làm tăng mạnh giá trị một phần sản phẩm, nhưng phần sản phẩm khác mà nó tiêu hao có giá trị đúng bằng phần tăng đó.
-- Ví dụ đăng ten: người thợ làm đôi cổ tay áo ren có thể nâng giá trị một lượng lanh đáng một penny lên 30 bảng (7.200 penny). Có vẻ anh ta nhân giá trị lên 7.200 lần, nhưng thực ra không thêm gì vào tổng sản phẩm, vì anh ta mất hai năm để làm và tiêu hết 30 bảng tiền công trong hai năm đó. Giá trị anh ta thêm vào chỉ bù giá trị anh ta đã tiêu. (Đơn vị tiền: 1 bảng = 20 shilling, 1 shilling = 12 penny, nên 1 bảng = 240 penny.)
-- Lao động nông thôn thì khác: địa tô là giá trị mà nó tạo ra sau khi đã hoàn lại toàn bộ giá trị tiêu dùng, toàn bộ chi phí thuê người làm và nuôi chủ trại.
+
+Lập luận của trọng nông đi qua mấy bước.
+
+Bước một: lao động của thợ thủ công và nhà chế tạo có làm tăng đáng kể giá trị của sản phẩm thô, ví dụ biến sợi lanh thành vải. Nhưng phần giá trị tăng thêm đó chỉ đủ hoàn lại số vốn đã dùng để thuê họ, cộng với lợi nhuận thông thường của người chủ. Số vốn ấy gồm nguyên liệu, công cụ và tiền công ứng trước cho thợ.
+
+Bước hai: lợi nhuận của chủ xưởng cũng không phải phần dư thật sự. Nó chỉ là khoản ông ta ứng trước cho chính mình để sinh sống trong thời gian dùng vốn, và tương ứng với lợi nhuận ông dự kiến thu được từ giá bán sản phẩm của thợ. Nếu giá bán không hoàn lại được khoản này cùng với nguyên liệu, công cụ và tiền công, thì ông ta chưa thu đủ chi phí. Vậy lợi nhuận, theo cách nhìn này, cũng chỉ là hoàn lại một khoản chi phí, không phải sản phẩm ròng còn lại sau khi trả mọi chi phí.
+
+Bước ba: so sánh với nông nghiệp. Vốn của chủ trại, ngoài việc hoàn lại chính nó và nuôi chủ trại, còn sinh ra địa tô cho một người khác là chủ đất. Vốn của chủ xưởng thì không sinh địa tô cho ai. Vì vậy chi phí thuê thợ thủ công "chỉ duy trì giá trị của chính mình, không tạo giá trị mới", còn chi phí thuê chủ trại và nhân công nông thôn tạo thêm một giá trị mới là địa tô, nên mới đáng gọi là chi phí sản xuất.
+
+Bước bốn: vốn dùng trong thương mại cũng phi sản xuất như vốn dùng trong chế biến. Lợi nhuận của thương nhân chỉ hoàn trả tiền sinh hoạt mà ông ta đã ứng cho mình trong thời gian dùng vốn. (Bản dịch lại in nhầm "phí sản xuất" ở chỗ này; nghĩa đúng là phi sản xuất.)
+
+Kết luận của bước này: lao động của thợ không thêm gì vào giá trị của tổng sản phẩm thô hàng năm. Nó có thể làm tăng rất mạnh giá trị của một phần sản phẩm, nhưng phần sản phẩm khác mà nó tiêu hao trong lúc làm có giá trị đúng bằng phần tăng đó.
+
+Trọng nông minh hoạ bằng **ví dụ đăng ten**. Một người thợ làm đôi cổ tay áo ren có thể biến một lượng sợi lanh chỉ đáng 1 penny thành món hàng giá 30 bảng. Vì 1 bảng bằng 20 shilling và 1 shilling bằng 12 penny, nên 1 bảng bằng 240 penny, và 30 bảng bằng 7.200 penny. Nhìn bề ngoài, người thợ đã nhân giá trị của sợi lanh lên 7.200 lần. Nhưng theo trọng nông, anh ta không thêm gì vào tổng sản phẩm của xã hội: anh ta mất 2 năm để làm đôi cổ tay áo, và trong 2 năm đó anh ta tiêu hết 30 bảng tiền công để sống. Giá trị anh ta thêm vào chỉ bù lại đúng giá trị anh ta đã tiêu, nên tổng sản phẩm không tăng.
+
+Lao động nông thôn thì khác. Sau khi đã hoàn lại toàn bộ giá trị tiêu dùng, toàn bộ chi phí thuê người làm và chi phí nuôi chủ trại, nó vẫn còn để lại một giá trị nữa là địa tô. Đó là lý do duy nhất trọng nông gọi nó là "sản xuất".
 
 ### 4. Hệ quả: tiết kiệm và tính cách dân tộc
-- Theo trọng nông, thợ thủ công, nhà chế tạo và thương nhân chỉ làm tăng thu nhập xã hội bằng tiết kiệm, tức thắt lưng buộc bụng.
-- Nước có nhiều chủ đất và người canh tác như Pháp và Anh có thể giàu lên bằng lao động và hưởng thụ. Nước chủ yếu là thương nhân và thợ như Hà Lan và Hamburg chỉ giàu lên bằng tiết kiệm.
-- Hoàn cảnh hình thành tính cách: ở Pháp và Anh, người ta hào phóng, thẳng thắn, thân thiện; ở các nước thương mại, người ta hẹp hòi, ti tiện, vị kỷ, không thích chan hoà. (Smith thuật lại quan điểm của trọng nông, không phải nhận định của ông.)
+
+Từ cách phân loại trên, trọng nông rút ra một hệ quả: thợ thủ công, nhà chế tạo và thương nhân chỉ có thể làm tăng thu nhập của xã hội bằng **tiết kiệm**, tức thắt lưng buộc bụng, tiêu ít hơn phần mình được nhận. Họ không tạo giá trị mới, nên muốn có thêm của cải chỉ còn cách nhịn bớt.
+
+Hệ quả này được áp dụng cho các nước:
+
+| Loại nước | Ví dụ | Cách giàu lên | Tính cách (theo trọng nông) |
+|---|---|---|---|
+| Nước của chủ đất và người canh tác | Pháp, Anh | Bằng lao động và hưởng thụ | Hào phóng, thẳng thắn, thân thiện |
+| Nước của thương nhân và thợ | Hà Lan, Hamburg | Chỉ bằng tiết kiệm, tằn tiện | Hẹp hòi, ti tiện, vị kỷ, không thích chan hoà |
+
+Lập luận ở đây là hoàn cảnh kinh tế hình thành tính cách: người sống nhờ đất có phần dư để tiêu rộng rãi, còn người sống nhờ buôn bán và chế biến phải dè sẻn từng đồng. Cần lưu ý đây là Smith thuật lại quan điểm của trọng nông, không phải nhận định của chính ông. (Bản dịch ghi "Hà Lan và Đức", nhưng nguyên bản là Holland and Hamburg, tức thành bang thương mại Hamburg, không phải cả nước Đức.)
 
 ### 5. Tầng lớp "phi sản xuất" vẫn có ích, và kết luận tự do
-- Chủ đất và dân cày cung cấp nguyên liệu và lương thực cho tầng lớp phi sản xuất. Đổi lại, nhờ thương nhân và thợ, chủ đất và dân cày mua được hàng ngoại và hàng nội với ít lao động hơn là tự nhập hay tự làm. Người canh tác được giải phóng khỏi các việc phụ, chuyên tâm vào ruộng đất, và phần sản phẩm làm thêm đủ nuôi tầng lớp phi sản xuất. Vì vậy công thương nghiệp gián tiếp làm tăng sản phẩm đất đai.
-- Chủ đất và dân cày không có lợi gì khi hạn chế công thương: tầng lớp phi sản xuất càng được tự do cạnh tranh, hàng hoá cho hai tầng lớp kia càng rẻ.
-- Tầng lớp phi sản xuất cũng không có lợi khi chèn ép hai tầng lớp kia: họ sống bằng sản phẩm dư thừa của đất sau khi nuôi dân cày và chủ đất; dư thừa càng lớn, họ càng được nuôi nhiều.
-- Công lý hoàn hảo, tự do hoàn hảo và bình đẳng hoàn hảo là bí quyết đơn giản nhất để cả ba tầng lớp đạt thịnh vượng cao nhất.
+
+Dù gọi thợ và thương nhân là phi sản xuất, trọng nông không cho rằng họ vô dụng. Ngược lại, họ thừa nhận tầng lớp này rất có ích cho hai tầng lớp kia, và lập luận của họ ở đây gần với Smith.
+
+Quan hệ giữa các tầng lớp là một cuộc trao đổi. Chủ đất và dân cày cung cấp nguyên liệu và lương thực cho tầng lớp phi sản xuất. Đổi lại, nhờ có thương nhân và thợ, chủ đất và dân cày mua được hàng ngoại và hàng nội với **ít lao động hơn** so với việc tự đi nhập hay tự làm lấy. Người canh tác được giải phóng khỏi những việc phụ như dệt vải, rèn nông cụ, đi buôn xa, nên có thể chuyên tâm vào ruộng đất. Năng suất của họ nhờ đó tăng, và phần sản phẩm làm thêm được đủ để nuôi chính tầng lớp phi sản xuất. Vì vậy công thương nghiệp, tuy không trực tiếp tạo ra sản phẩm ròng, lại **gián tiếp** làm tăng sản phẩm của đất đai.
+
+Từ đó trọng nông kết luận rằng không bên nào có lợi khi chèn ép bên kia:
+
+- **Chủ đất và dân cày** không có lợi khi hạn chế công thương. Tầng lớp phi sản xuất càng được tự do cạnh tranh với nhau, hàng hoá mà họ bán cho chủ đất và dân cày càng rẻ.
+- **Tầng lớp phi sản xuất** cũng không có lợi khi chèn ép hai tầng lớp kia. Họ sống bằng phần sản phẩm dư thừa của đất, tức phần còn lại sau khi đã nuôi dân cày và chủ đất. Dư thừa càng lớn, họ càng được nuôi nhiều.
+
+Kết luận chính sách là: **công lý hoàn hảo, tự do hoàn hảo và bình đẳng hoàn hảo** (sơ đồ ghi "công lý tuyệt đối, tự do tuyệt đối và công bằng tuyệt đối") là bí quyết đơn giản nhất để cả ba tầng lớp cùng đạt mức thịnh vượng cao nhất.
 
 ### 6. Áp dụng vào thương mại quốc tế
-- Thương nhân và thợ ở các nước thương mại như Hà Lan và Hamburg cũng được nuôi bởi chủ đất và dân cày, chỉ khác là những người này ở xa, thuộc nước khác. Các nước thương mại rất có ích cho các nước khác: họ lấp một khoảng trống quan trọng, làm khách hàng cho tầng lớp sản xuất của các nước khác.
-- Nước nông nghiệp không có lợi khi chèn ép công nghiệp của nước thương mại bằng thuế cao. Thuế làm hàng của họ đắt lên, tức làm giảm giá trị thực của sản phẩm dư thừa của chính nước nông nghiệp (dùng để mua hàng đó), làm giảm động cơ gia tăng dư thừa, canh tác và cải tạo đất.
-- Cách hiệu quả nhất để nâng giá trị sản phẩm dư thừa và khuyến khích canh tác là cho thương nhân các nước thương mại hoàn toàn tự do buôn bán. Đây cũng là cách tốt nhất để có thợ và thương nhân khi cần.
-- Cơ chế công nghiệp hoá qua tự do: dư thừa tăng tạo thêm vốn; vốn này thuê thợ trong nước; hàng của thợ trong nước rẻ hơn hàng chở từ xa; khi tay nghề được hoàn thiện, thợ nước ngoài bị cạnh tranh và đẩy ra khỏi thị trường nội địa; rồi hàng rẻ và tốt của nước nông nghiệp vươn ra thị trường nước ngoài và dần đẩy lùi hàng của các nước thương mại.
-- Ngược lại, nước nông nghiệp đánh thuế cao hoặc cấm hàng nước ngoài tự hại vì hai lẽ: (1) hạ giá trị trao đổi của sản phẩm dư thừa của chính mình; (2) cho thợ và thương nhân trong nước một kiểu độc quyền, nâng tỷ suất lợi nhuận công thương lên trên tỷ suất lợi nhuận nông nghiệp, kéo một phần vốn ra khỏi nông nghiệp hoặc chặn vốn mới vào nông nghiệp.
-- Smith gọi đây là hệ thống trọng nông "hào phóng". Lập luận này gần như trùng với lập luận của chính Smith ở Quyển III về trật tự tự nhiên: nông nghiệp tạo vốn, vốn tạo công nghiệp trong nước, rồi đến ngoại thương.
+
+Trọng nông mở rộng lập luận trên từ quan hệ giữa các tầng lớp trong một nước sang quan hệ giữa các nước. Thương nhân và thợ ở các nước thương mại như Hà Lan và Hamburg cũng được nuôi bởi chủ đất và dân cày, chỉ khác là những người này ở xa, thuộc nước khác. Nói cách khác, nước thương mại là "tầng lớp phi sản xuất" của các nước khác. Các nước thương mại rất có ích: họ lấp một khoảng trống quan trọng, làm khách hàng cho tầng lớp sản xuất của các nước nông nghiệp và cung cấp cho họ hàng công nghiệp.
+
+Vì vậy một nước nông nghiệp không có lợi khi chèn ép công nghiệp và thương mại của nước thương mại bằng thuế cao. Cơ chế như sau: thuế làm hàng của nước thương mại đắt lên; nước nông nghiệp trả cho hàng đó bằng sản phẩm dư thừa của mình; hàng mua về đắt hơn có nghĩa là mỗi đơn vị dư thừa đổi được ít hàng hơn, tức **giá trị thực của sản phẩm dư thừa của chính nước nông nghiệp giảm đi**. Khi phần dư thừa đổi được ít thứ hơn, động cơ để gia tăng dư thừa, mở rộng canh tác và cải tạo đất cũng giảm. (Bản dịch ghi nhầm là làm giảm giá trị sản phẩm dư thừa "của nước công nghiệp"; đúng ra là của chính nước nông nghiệp.)
+
+Ngược lại, cách hiệu quả nhất để nâng giá trị sản phẩm dư thừa và khuyến khích canh tác là cho thương nhân các nước thương mại **hoàn toàn tự do** buôn bán. Trọng nông còn đi xa hơn: đây cũng là cách tốt nhất để một nước nông nghiệp có được thợ và thương nhân của riêng mình khi cần.
+
+Cơ chế "công nghiệp hoá qua tự do" gồm các bước:
+
+1. Tự do thương mại làm giá trị của sản phẩm dư thừa tăng lên.
+2. Dư thừa tăng tạo ra thêm vốn trong nước.
+3. Phần vốn mới này dần được dùng để thuê thợ trong nước.
+4. Hàng của thợ trong nước không phải chở từ xa nên rẻ hơn hàng nhập; khi tay nghề được hoàn thiện, thợ nước ngoài bị cạnh tranh và bị đẩy ra khỏi thị trường nội địa.
+5. Cuối cùng, hàng rẻ và tốt của nước nông nghiệp vươn ra cả thị trường nước ngoài và dần đẩy lùi hàng của các nước thương mại ở đó.
+
+Ngược lại, nếu nước nông nghiệp đánh thuế cao hoặc cấm hàng nước ngoài, nó tự hại mình vì **hai lẽ**:
+
+1. Nó **hạ** giá trị trao đổi của sản phẩm dư thừa của chính mình, vì hàng mua bằng phần dư thừa đó đắt lên. (Bản dịch ghi "nâng"; nguyên bản là *degrade*, tức hạ.)
+2. Nó trao cho thợ và thương nhân trong nước một kiểu độc quyền trên thị trường nội địa. Độc quyền nâng tỷ suất lợi nhuận công thương lên trên tỷ suất lợi nhuận nông nghiệp, nên kéo một phần vốn đang ở nông nghiệp ra ngoài, hoặc chặn vốn mới không vào nông nghiệp nữa.
+
+Smith gọi đây là hệ thống trọng nông "hào phóng", vì nó chủ trương mở cửa cho nước khác thay vì chèn ép họ. Đáng chú ý là lập luận này gần như trùng với lập luận của chính Smith ở Quyển III về trật tự tự nhiên của sự giàu có: nông nghiệp tạo ra vốn trước, vốn tạo ra công nghiệp trong nước, rồi mới đến ngoại thương.
 
 ### 7. Quesnay và Biểu bảng kinh tế
-- Cách tổng sản phẩm phân phối cho ba tầng lớp, và vì sao lao động phi sản xuất chỉ hoàn lại giá trị đã tiêu, được Quesnay trình bày bằng các công thức số học. Smith gọi ông là "tác giả tài giỏi và thâm thuý" của hệ thống.
-- Công thức đầu tiên, Biểu bảng kinh tế, mô tả phân phối trong trạng thái tự do hoàn hảo nhất và vì thế thịnh vượng nhất: sản phẩm ròng lớn nhất, mỗi tầng lớp hưởng phần hợp lý của mình. Các công thức khác mô tả phân phối dưới các mức độ hạn chế và điều tiết khác nhau, ví dụ khi chủ đất hoặc tầng lớp phi sản xuất được ưu tiên hơn dân cày; mỗi công thức là một mức độ lệch khỏi phân phối tự nhiên.
-- Phê phán của Smith bằng phép so sánh y học. Có thầy thuốc cho rằng sức khoẻ chỉ giữ được nhờ một chế độ ăn uống và tập luyện chính xác, mọi vi phạm dù nhỏ đều gây bệnh tỷ lệ với mức vi phạm. Nhưng kinh nghiệm cho thấy cơ thể giữ được sức khoẻ tốt dưới rất nhiều chế độ khác nhau.
-- Quesnay, bản thân là thầy thuốc, nghĩ cơ thể chính trị cũng chỉ phồn thịnh dưới một chế độ chuẩn xác, chế độ của tự do hoàn hảo và công lý hoàn hảo. Ông dường như không thấy rằng nỗ lực tự nhiên của mỗi người để cải thiện hoàn cảnh của mình là một nguyên tắc bảo toàn, có thể ngăn chặn và sửa chữa về nhiều mặt các tác hại của một chính sách kinh tế thiên vị và chèn ép. Chính sách như vậy có thể làm chậm, nhưng không phải lúc nào cũng chặn được, và càng không đảo ngược được tiến trình tự nhiên của một dân tộc tới giàu có.
-- Kết luận: nếu một nước không thể phồn vinh khi không có tự do hoàn hảo và công lý hoàn hảo, thì trên thế giới không có quốc gia nào từng phồn vinh.
+
+Người hệ thống hoá học thuyết trọng nông là Quesnay (bản dịch phiên là "Quesnai", theo cách Smith viết), người mà Smith gọi là "tác giả tài giỏi và thâm thuý" của hệ thống. Quesnay trình bày bằng các **công thức số học** hai điều: tổng sản phẩm của đất đai được phân phối cho ba tầng lớp như thế nào, và vì sao lao động của tầng lớp phi sản xuất chỉ hoàn lại đúng giá trị mà nó đã tiêu.
+
+Công thức đầu tiên và quan trọng nhất là **Biểu bảng kinh tế** (*Tableau économique*). Nó mô tả cách phân phối diễn ra trong trạng thái tự do hoàn hảo nhất, và vì thế thịnh vượng nhất: sản phẩm ròng đạt mức lớn nhất có thể, và mỗi tầng lớp hưởng phần hợp lý của mình. Các công thức tiếp theo mô tả phân phối dưới những mức độ hạn chế và điều tiết khác nhau, chẳng hạn khi chủ đất hoặc tầng lớp phi sản xuất được ưu tiên hơn dân cày. Mỗi công thức như vậy thể hiện một mức độ lệch khỏi cách phân phối tự nhiên, và mức lệch càng lớn thì sản phẩm ròng càng giảm.
+
+Smith phê phán cách nghĩ này bằng một phép so sánh với y học. Có những thầy thuốc cho rằng sức khoẻ con người chỉ giữ được nhờ một chế độ ăn uống và tập luyện chính xác, và mọi sai lệch khỏi chế độ đó, dù nhỏ, đều gây ra bệnh với mức độ tỷ lệ với mức sai lệch. Nhưng kinh nghiệm thực tế cho thấy cơ thể con người giữ được sức khoẻ tốt dưới rất nhiều chế độ khác nhau, kể cả những chế độ bị coi là không lành mạnh.
+
+Quesnay, bản thân là một thầy thuốc, đã nghĩ về **cơ thể chính trị** (tức xã hội, nhà nước) theo đúng cách đó: nó chỉ phồn thịnh dưới một chế độ chuẩn xác, chế độ của tự do hoàn hảo và công lý hoàn hảo. (Bản dịch ghi nhầm "một thực tế chính trị"; nguyên bản là *political body*, khớp với phép so sánh cơ thể người.) Điều Quesnay dường như không thấy là: nỗ lực tự nhiên của mỗi người để cải thiện hoàn cảnh của mình là một **nguyên tắc bảo toàn**. Giống như sức đề kháng của cơ thể, nó có thể ngăn chặn và sửa chữa về nhiều mặt các tác hại của một chính sách kinh tế thiên vị và chèn ép. Chính sách xấu có thể làm chậm tiến trình tự nhiên của một dân tộc tới giàu có, nhưng không phải lúc nào cũng chặn đứng được, và càng không đảo ngược được nó.
+
+Smith kết luận bằng một câu sắc: nếu một nước chỉ có thể phồn vinh khi được hưởng tự do hoàn hảo và công lý hoàn hảo, thì trên thế giới chưa có quốc gia nào từng phồn vinh, vì chưa nước nào có hai điều đó ở mức hoàn hảo.
 
 ### 8. Sai lầm chính và năm lập luận bác bỏ
-- Sai lầm chính của hệ thống là coi thợ thủ công, nhà chế tạo và thương nhân là hoàn toàn vô sinh và phi sản xuất.
-- **Thứ nhất.** Chính trọng nông thừa nhận tầng lớp này tái sản xuất giá trị tiêu dùng hàng năm của họ và ít nhất duy trì được vốn đã dùng. Chỉ riêng điều đó đã làm cái tên "phi sản xuất" vô lý. Ta không gọi một cuộc hôn nhân là vô sinh chỉ vì nó sinh một trai một gái thay thế bố mẹ, dù dân số không tăng. Chủ trại và dân cày, ngoài hoàn vốn, còn tái tạo sản phẩm ròng là địa tô; như hôn nhân sinh ba con "hữu sinh" hơn hôn nhân sinh hai con, lao động của họ năng suất hơn. Nhưng sản phẩm phụ trội của tầng lớp này không làm tầng lớp kia thành phi sản xuất.
-- **Thứ hai.** Vì cùng lẽ đó, không thể xếp thợ thủ công, công nhân và thương nhân cùng loại với đầy tớ. Lao động của đầy tớ không duy trì được vốn dùng để thuê và nuôi họ; chi phí đó hoàn toàn do chủ nhân gánh, và công việc của họ là những dịch vụ mất đi ngay lúc thực hiện, không đọng lại trong hàng hoá nào có thể hoàn lại tiền công. Lao động của thợ, công nhân, thương nhân thì vật chất hoá trong hàng hoá. Vì vậy ở chương về lao động sản xuất và phi sản xuất (Quyển II, Chương III, nơi Smith định nghĩa lao động sản xuất là lao động làm tăng giá trị của vật nó tác động vào và đọng lại trong một hàng hoá có thể bán), ông xếp họ là lao động sản xuất, còn đầy tớ là phi sản xuất.
-- **Thứ ba.** Nói rằng lao động của thợ và thương nhân không làm tăng thu nhập thực của xã hội là vô lý. Giả sử giá trị tiêu dùng của họ đúng bằng giá trị họ làm ra, vẫn không suy ra được điều đó. Ví dụ: người thợ trong 6 tháng sau vụ gặt làm được công việc trị giá 10 bảng, đồng thời tiêu 10 bảng ngũ cốc và hàng thiết yếu; vậy anh ta thực sự thêm 10 bảng vào sản phẩm của xã hội, và giá trị đã tiêu cộng đã làm ra trong 6 tháng là 20 bảng chứ không phải 10. Có thể nói ở bất kỳ thời điểm nào cũng chỉ tồn tại 10 bảng giá trị này; nhưng nếu 10 bảng ngũ cốc kia do một người lính hay đầy tớ tiêu, thì giá trị sản phẩm còn lại cuối 6 tháng sẽ ít hơn 10 bảng so với khi có lao động của người thợ. Vậy dù giá trị anh ta làm ra không bao giờ lớn hơn giá trị anh ta tiêu, giá trị hàng hoá thực có trên thị trường luôn lớn hơn khi có lao động của anh ta.
-- Phân tích tiếp ngôn ngữ của trọng nông: khi họ nói tiêu dùng của thợ bằng giá trị họ làm ra, có lẽ họ chỉ muốn nói **thu nhập** của thợ (quỹ dành cho tiêu dùng) bằng giá trị đó. Nhưng nếu nói chính xác như vậy, người đọc sẽ thấy ngay phần tiết kiệm được từ thu nhập đó tất yếu làm tăng của cải thực của xã hội. Để giữ được dáng vẻ của một lập luận, họ phải nói mập mờ như đã nói, và lập luận ấy rốt cuộc không có sức thuyết phục.
-- **Thứ tư.** Không tằn tiện thì chủ trại và dân cày cũng không thể làm tăng thu nhập thực của xã hội hơn thợ và thương nhân. Sản phẩm hàng năm chỉ tăng bằng hai cách: nâng năng suất lao động hữu ích hiện có, hoặc tăng số lao động hữu ích. Năng suất phụ thuộc vào kỹ năng người lao động và cải tiến máy móc; lao động của thợ chia nhỏ được nhiều hơn, mỗi khâu đơn giản hơn so với lao động của dân cày, nên cải tiến được ở mức cao hơn nhiều; về mặt này tầng lớp dân cày không có lợi thế nào. Số lao động hữu ích phụ thuộc hoàn toàn vào vốn, và vốn tăng nhờ tiết kiệm của người dùng vốn hoặc người cho họ vay. Nếu như trọng nông giả định, thương nhân và thợ tằn tiện hơn chủ đất và dân cày, thì họ có nhiều khả năng hơn để tăng số lao động hữu ích và thu nhập thực của xã hội.
-- **Thứ năm và cuối cùng.** Kể cả theo giả thiết trọng nông rằng thu nhập của một nước chỉ gồm lượng lương thực mà lao động của dân có thể kiếm được, thì với các điều kiện khác như nhau, thu nhập của nước có công thương nghiệp vẫn luôn lớn hơn nước không có. Nhờ công thương, một nước có thể nhập hàng năm lượng lương thực lớn hơn đất của mình sinh ra. Dân thành thị không có đất vẫn kiếm được bằng lao động của mình sản phẩm thô của nông dân, cả nguyên liệu lẫn lương thực. Thành phố với vùng quê quanh nó thế nào thì một nước độc lập với các nước khác cũng thế. Hà Lan lấy phần lớn lương thực từ nước khác: gia súc từ Holstein và Jutland, ngũ cốc từ hầu hết các nước châu Âu. Một lượng nhỏ hàng công nghiệp đổi được một lượng lớn sản phẩm thô. Vì vậy dân nước công thương luôn hưởng nhiều hơn dân nước không có công thương nghiệp.
+
+Sai lầm chính của hệ thống trọng nông, theo Smith, là coi thợ thủ công, nhà chế tạo và thương nhân là **hoàn toàn vô sinh và phi sản xuất**. Ông bác điều này bằng năm lập luận.
+
+**Thứ nhất: tái sản xuất giá trị tự nó đã là sản xuất.** Chính trọng nông thừa nhận tầng lớp này tái sản xuất được giá trị tiêu dùng hàng năm của họ, và ít nhất duy trì được số vốn đã dùng để thuê và nuôi họ. Chỉ riêng điều đó đã làm cái tên "phi sản xuất" trở nên vô lý. Smith so sánh với hôn nhân: ta không gọi một cuộc hôn nhân là vô sinh chỉ vì nó sinh ra một trai một gái để thay thế bố mẹ, dù nhờ nó dân số không tăng thêm. Chủ trại và dân cày, ngoài việc hoàn lại vốn, còn tái tạo thêm một sản phẩm ròng là địa tô. Cũng như hôn nhân sinh ba con "hữu sinh" hơn hôn nhân sinh hai con, lao động của họ năng suất hơn. Nhưng việc một tầng lớp làm ra nhiều hơn không biến tầng lớp kia thành vô sinh.
+
+**Thứ hai: thợ không phải đầy tớ.** Vì cùng lẽ đó, không thể xếp thợ thủ công, công nhân và thương nhân chung một loại với đầy tớ. Hai nhóm khác nhau ở chỗ:
+
+| | Đầy tớ | Thợ, công nhân, thương nhân |
+|---|---|---|
+| Có duy trì được vốn thuê và nuôi mình không | Không; chi phí do chủ nhân gánh hoàn toàn | Có; giá trị hàng hoá họ làm ra hoàn lại tiền công |
+| Kết quả lao động | Dịch vụ mất đi ngay lúc thực hiện | Vật chất hoá, đọng lại trong một hàng hoá |
+| Xếp loại của Smith | Phi sản xuất | Sản xuất |
+
+Đây chính là định nghĩa Smith đã đưa ra ở chương về lao động sản xuất và phi sản xuất (Quyển II, Chương III): lao động sản xuất là lao động làm tăng giá trị của vật nó tác động vào và đọng lại trong một hàng hoá có thể bán. (Bản dịch ghi chi phí nuôi đầy tớ do "người chủ trang trại" gánh; đúng ra là do chủ nhân của họ. Bản dịch cũng gọi chương đó là chương về "chi phí sản xuất"; đúng ra là về lao động phi sản xuất.)
+
+**Thứ ba: giá trị họ tạo ra được cộng thêm vào sản phẩm xã hội.** Nói rằng lao động của thợ và thương nhân không làm tăng thu nhập thực của xã hội là vô lý. Kể cả khi giả sử giá trị tiêu dùng của họ đúng bằng giá trị họ làm ra, điều đó vẫn không suy ra được. Smith đưa ví dụ:
+
+- Một người thợ, trong 6 tháng sau vụ gặt, làm ra công việc trị giá 10 bảng.
+- Cũng trong 6 tháng đó, anh ta tiêu 10 bảng ngũ cốc và các thứ thiết yếu khác.
+- Vậy giá trị đã tiêu cộng giá trị đã làm ra trong 6 tháng là 20 bảng, không phải 10 bảng. Anh ta thực sự thêm 10 bảng vào sản phẩm của xã hội.
+
+Có thể có người phản bác rằng ở bất kỳ thời điểm nào cũng chỉ tồn tại 10 bảng giá trị ấy. Nhưng hãy so sánh: nếu 10 bảng ngũ cốc kia do một người lính hay một đầy tớ ăn, thì đến cuối 6 tháng, giá trị sản phẩm còn lại trong xã hội sẽ ít hơn 10 bảng so với trường hợp người thợ ăn và làm việc. Như vậy, dù giá trị người thợ làm ra không bao giờ lớn hơn giá trị anh ta tiêu, lượng giá trị hàng hoá thực có trên thị trường ở bất kỳ thời điểm nào vẫn luôn lớn hơn khi có lao động của anh ta.
+
+Smith phân tích tiếp ngôn ngữ của trọng nông. Khi họ nói tiêu dùng của thợ bằng giá trị họ làm ra, có lẽ họ chỉ muốn nói **thu nhập** của thợ, tức quỹ dành cho tiêu dùng, bằng giá trị đó. Nhưng nếu nói chính xác như vậy, người đọc sẽ thấy ngay rằng phần thợ tiết kiệm được từ thu nhập ấy tất yếu làm tăng của cải thực của xã hội. Để giữ được dáng vẻ của một lập luận, họ buộc phải diễn đạt mập mờ, và rốt cuộc lập luận không có sức thuyết phục.
+
+**Thứ tư: tăng trưởng chỉ có hai nguồn, và công nghiệp có lợi thế ở cả hai.** Nếu không tằn tiện, chủ trại và dân cày cũng không thể làm tăng thu nhập thực của xã hội hơn thợ và thương nhân. Sản phẩm hàng năm của một nước chỉ tăng được bằng hai cách:
+
+- **(a) Nâng năng suất** của số lao động hữu ích hiện có. Năng suất phụ thuộc vào kỹ năng của người lao động và vào cải tiến máy móc. Lao động của thợ chia nhỏ được thành nhiều khâu hơn, và mỗi khâu đơn giản hơn so với công việc của dân cày, nên cải tiến được ở mức cao hơn nhiều. Ở điểm này tầng lớp dân cày không có lợi thế nào.
+- **(b) Tăng số lao động hữu ích.** Số lao động được thuê phụ thuộc hoàn toàn vào vốn, và vốn chỉ tăng nhờ tiết kiệm của người dùng vốn hoặc người cho họ vay. Chính trọng nông giả định rằng thương nhân và thợ tằn tiện hơn chủ đất và dân cày. Nếu đúng thế, thì thợ và thương nhân tích luỹ vốn nhanh hơn, nên có nhiều khả năng hơn để tăng số lao động hữu ích và thu nhập thực của xã hội.
+
+Lập luận này dùng chính tiền đề của trọng nông (thợ tằn tiện hơn) để đi tới kết luận ngược với họ.
+
+**Thứ năm và cuối cùng: nước công thương nuôi được nhiều người hơn đất của nó.** Kể cả chấp nhận đúng giả thiết của trọng nông rằng thu nhập của một nước chỉ gồm lượng lương thực mà lao động của dân nước đó kiếm được, thì với các điều kiện khác như nhau, thu nhập của nước có công thương nghiệp vẫn luôn lớn hơn nước không có. Nhờ công thương, một nước có thể nhập mỗi năm một lượng lương thực lớn hơn lượng đất của nó sinh ra.
+
+Smith dẫn từ quan hệ trong nước ra quan hệ giữa các nước. Dân thành thị không có ruộng đất, nhưng bằng lao động của mình họ vẫn kiếm được sản phẩm thô của nông dân, cả nguyên liệu lẫn lương thực. Một thành phố đứng trong quan hệ với vùng quê quanh nó thế nào, thì một nước độc lập cũng đứng trong quan hệ với các nước khác như thế. Hà Lan là ví dụ: nước này lấy phần lớn lương thực từ nước khác, gia súc từ Holstein và Jutland, ngũ cốc từ hầu hết các nước châu Âu. (Bản dịch ghi nhầm "Châu Phi".) Một lượng nhỏ hàng công nghiệp đổi được một lượng lớn sản phẩm thô. Vì vậy dân của nước có công thương nghiệp luôn được hưởng nhiều hơn dân của một nước không có công thương nghiệp. (Bản dịch ghi nhầm vế sau thành "một nước công nghiệp".)
 
 ### 9. Các nước ưu ái nông nghiệp trong thực tế
-- Chính sách các nước châu Âu hiện đại ưu ái công thương thành thị hơn nông nghiệp; một số nước khác theo kế hoạch ngược lại.
-- **Trung Hoa.** Chính sách khuyến khích nông nghiệp hơn các ngành khác. Địa vị nông dân tốt hơn thợ thủ công, ngược với phần lớn châu Âu. Tham vọng lớn của mọi người là có một mảnh đất nhỏ, tự có hoặc lĩnh canh; hợp đồng thuê đất dễ chịu và bảo đảm đầy đủ cho người lĩnh canh. Người Trung Hoa ít coi trọng ngoại thương; ngoài Nhật Bản họ gần như không buôn với nước nào; tàu nước ngoài chỉ được vào một hai cảng.
-- Vì sao ngoại thương quan trọng: hàng công nghiệp nhỏ gọn mà giá trị lớn, vận chuyển xa rẻ hơn sản phẩm thô. Nếu thị trường trong nước hạn chế, công nghiệp phải có thị trường rộng ở nước ngoài mới thịnh vượng được. Sự hoàn thiện của công nghiệp hoàn toàn phụ thuộc vào phân công lao động, và mức phân công bị điều tiết bởi quy mô thị trường (luận điểm của Quyển I, Chương III).
-- Trung Hoa có dân đông, khí hậu đa dạng, giao thông thuỷ thuận lợi giữa các tỉnh, nên thị trường nội địa đủ nuôi một nền công nghiệp lớn; có lẽ không kém nhiều thị trường của toàn châu Âu gộp lại. Nhưng nếu cộng thêm thị trường của phần còn lại của thế giới, nhất là nếu phần lớn hàng được chở bằng tàu Trung Hoa, ngoại thương sẽ làm tăng đáng kể khối lượng hàng công nghiệp và năng lực sản xuất của Trung Hoa.
-- **Ai Cập cổ đại và Hindustan.** Chính sách cũng ưu tiên nông nghiệp. Dân chia thành các đẳng cấp cha truyền con nối, mỗi đẳng cấp chỉ được làm một nghề: con thầy tu là thầy tu, con lính là lính, con nông dân là nông dân, con thợ dệt là thợ dệt, con thợ may là thợ may. Đẳng cấp thầy tu cao nhất, kế đến đẳng cấp lính; nông dân và chủ trại được ưu đãi hơn thương nhân và thợ thủ công.
-- Chính quyền đặc biệt chăm lo nông nghiệp: các công trình điều tiết và cấp nước trên sông Nile nổi tiếng thời cổ, tàn tích còn làm du khách khâm phục; công trình tương tự trên sông Hằng tuy ít nổi tiếng hơn nhưng có lẽ cũng đồ sộ. Dân số cực đông mà năm được mùa vẫn xuất khẩu nhiều ngũ cốc sang nước láng giềng.
-- Hạn chế ngoại thương được bù phần nào bằng giao thông thuỷ nội địa. Hindustan rộng lớn nên thị trường nội địa đủ nuôi nhiều ngành công nghiệp; vì vậy Bengal, tuy xuất nhiều gạo, nổi tiếng hơn về xuất khẩu nhiều loại hàng công nghiệp. Ai Cập cổ nhỏ (không bằng nước Anh) nên thị trường nội địa quá hẹp; dù xuất được vải lanh mịn, nó luôn nổi tiếng nhờ xuất khẩu ngũ cốc và lâu dài là kho thóc của đế chế La Mã.
+
+Sau khi bác nền lý thuyết của trọng nông, Smith chuyển sang những nước thật sự theo chính sách ưu ái nông nghiệp. Chính sách của các nước châu Âu hiện đại ưu ái công thương thành thị hơn nông nghiệp nông thôn; nhưng một số nước khác theo kế hoạch ngược lại, thuận lợi hơn cho **nông nghiệp**. (Bản dịch ghi nhầm "thuận lợi hơn đối với nền công nghiệp".)
+
+**Trung Hoa.** Chính sách của Trung Hoa khuyến khích nông nghiệp hơn mọi ngành khác. Địa vị của nông dân cao hơn của thợ thủ công, ngược với tình trạng ở phần lớn châu Âu. Tham vọng lớn của mọi người là có một mảnh đất nhỏ, tự sở hữu hoặc thuê để lĩnh canh. Hợp đồng thuê đất dễ chịu và bảo đảm đầy đủ quyền lợi cho người lĩnh canh. Ngược lại, người Trung Hoa ít coi trọng ngoại thương: ngoài Nhật Bản, họ gần như không buôn bán với nước nào, và tàu nước ngoài chỉ được vào một hai cảng.
+
+Để thấy điều đó thiệt hại ra sao, Smith giải thích vì sao ngoại thương quan trọng với công nghiệp:
+
+- Hàng công nghiệp nhỏ gọn mà giá trị lớn, nên chở đi xa rẻ hơn nhiều so với sản phẩm thô cùng giá trị.
+- Sự hoàn thiện của công nghiệp hoàn toàn phụ thuộc vào phân công lao động, và mức phân công lao động trong mỗi ngành bị điều tiết bởi quy mô thị trường (luận điểm của Quyển I, Chương III).
+- Vì vậy nếu thị trường trong nước nhỏ, công nghiệp phải có thị trường rộng ở nước ngoài mới thịnh vượng được.
+
+Trung Hoa là trường hợp đặc biệt: dân rất đông, khí hậu đa dạng nên sản vật đa dạng, giao thông đường thuỷ thuận lợi giữa phần lớn các tỉnh. Nhờ đó thị trường nội địa đủ lớn để nuôi nhiều ngành công nghiệp, có lẽ không kém nhiều so với thị trường của toàn châu Âu gộp lại. Nhưng nếu cộng thêm thị trường của phần còn lại của thế giới, nhất là nếu phần lớn hàng được chở bằng tàu của chính Trung Hoa, thì ngoại thương sẽ làm tăng đáng kể khối lượng hàng công nghiệp và năng lực sản xuất của nước này.
+
+**Ai Cập cổ đại và Hindustan.** Chính sách của hai nơi này cũng ưu tiên nông nghiệp. Dân cư được chia thành các đẳng cấp cha truyền con nối, mỗi đẳng cấp chỉ được làm một nghề: con thầy tu là thầy tu, con lính là lính, con nông dân là nông dân, con thợ dệt là thợ dệt, con thợ may là thợ may. Đẳng cấp thầy tu đứng cao nhất, kế đến là đẳng cấp lính; nông dân và chủ trại được ưu đãi hơn thương nhân và thợ thủ công.
+
+Chính quyền đặc biệt chăm lo cho nông nghiệp, nhất là thuỷ lợi. Các công trình điều tiết và cấp nước trên sông Nile nổi tiếng từ thời cổ, và tàn tích của chúng đến nay vẫn khiến du khách khâm phục. Các công trình tương tự trên sông Hằng tuy ít nổi tiếng hơn nhưng có lẽ cũng đồ sộ không kém. Kết quả là dù dân số cực đông, trong năm được mùa hai nơi này vẫn xuất khẩu nhiều ngũ cốc sang các nước láng giềng.
+
+Ngoại thương bị hạn chế, nhưng phần nào được bù lại bằng giao thông thuỷ nội địa. Điểm Smith muốn nhấn mạnh là kết quả khác nhau tuỳ quy mô thị trường trong nước:
+
+| | Hindustan (Bengal) | Ai Cập cổ đại |
+|---|---|---|
+| Diện tích | Rộng lớn | Nhỏ, không bằng nước Anh |
+| Thị trường nội địa | Đủ lớn để nuôi nhiều ngành công nghiệp | Quá hẹp |
+| Hàng xuất khẩu nổi tiếng | Bengal tuy xuất nhiều gạo nhưng nổi tiếng hơn về xuất khẩu nhiều loại hàng công nghiệp | Dù có vải lanh mịn, vẫn luôn nổi tiếng về xuất khẩu ngũ cốc (lúa mì) |
+| Vai trò | Trung tâm hàng công nghiệp | Lâu dài là kho thóc của đế chế La Mã |
+
+(Bản dịch ghi Ai Cập nổi tiếng nhờ xuất khẩu "gạo"; đúng ra là ngũ cốc, còn gạo là hàng của Bengal.) Hai nơi có chính sách giống nhau nhưng kết quả khác nhau, và biến quyết định là quy mô thị trường nội địa.
 
 ### 10. Phán quyết về các hệ thống trọng nông
-- Thương mại quan trọng nhất và lớn nhất của mọi nước là trao đổi giữa thành thị và nông thôn (luận điểm của Quyển III, Chương I): sản phẩm thô đổi lấy hàng công nghiệp. Hàng công nghiệp càng đắt thì sản phẩm thô càng rẻ (về giá trị trao đổi). Bất cứ gì làm tăng giá hàng công nghiệp đều hạ giá sản phẩm thô và làm nản lòng nông nghiệp: lượng hàng công nghiệp mà một lượng sản phẩm thô đổi được càng nhỏ, động cơ để chủ đất cải tạo đất và chủ trại thâm canh càng yếu.
-- Bất cứ gì làm giảm số thợ thủ công và nhà chế tạo đều thu hẹp thị trường trong nước, thị trường quan trọng nhất của sản phẩm thô, nên lại càng hại nông nghiệp.
-- Vì vậy các hệ thống ưu ái nông nghiệp mà hạn chế công nghiệp và ngoại thương (nguyên bản: "those systems which, preferring agriculture to all other employments, … impose restraints upon manufactures and foreign trade"; bản dịch rút thành "các hệ thống trọng nông") đi ngược chính mục tiêu của mình và gián tiếp làm nản chính ngành chúng muốn thúc đẩy. Về mặt này chúng còn mâu thuẫn hơn cả hệ thống trọng thương: trọng thương, khi ưu ái công nghiệp và ngoại thương, kéo vốn khỏi nông nghiệp sang ngành nó ưu ái và rốt cuộc vẫn khuyến khích được ngành đó; còn chính sách ưu ái nông nghiệp bằng hạn chế thì rốt cuộc làm nản chính ngành nó ưu ái. Bản thân phái trọng nông Pháp lại chủ trương tự do thương mại, nên phê phán này nhắm vào các chính sách kiểu Trung Hoa, Ai Cập, Hindustan chứ không vào học thuyết Quesnay.
-- Nguyên lý chung: mọi hệ thống tìm cách, bằng ưu đãi bất thường, kéo vào một ngành phần vốn lớn hơn mức tự nhiên (hoặc, theo nguyên bản, bằng hạn chế bất thường, đẩy vốn khỏi một ngành), trên thực tế phá hoại mục đích lớn mà nó muốn thúc đẩy: nó làm chậm thay vì đẩy nhanh tiến bộ của xã hội tới giàu có, làm giảm thay vì tăng giá trị thực của sản phẩm hàng năm của đất đai và lao động.
+
+Phán quyết của Smith dựa trên một luận điểm của Quyển III, Chương I: thương mại quan trọng nhất và lớn nhất của mọi nước là trao đổi giữa thành thị và nông thôn. Trong cuộc trao đổi này, sản phẩm thô của nông thôn đổi lấy hàng công nghiệp của thành thị. Vì là hai vế của cùng một phép đổi, hàng công nghiệp càng đắt thì sản phẩm thô càng rẻ, xét theo giá trị trao đổi.
+
+Từ đó có hai cơ chế:
+
+1. **Qua giá.** Bất cứ thứ gì làm tăng giá hàng công nghiệp trong nước đều hạ giá trị trao đổi của sản phẩm thô và làm nản lòng nông nghiệp. Lượng hàng công nghiệp mà một lượng sản phẩm thô đổi được càng nhỏ, thì động cơ để chủ đất cải tạo đất và để chủ trại thâm canh càng yếu.
+2. **Qua số người mua.** Bất cứ thứ gì làm giảm số thợ thủ công và nhà chế tạo trong nước đều thu hẹp thị trường trong nước, mà đó lại là thị trường quan trọng nhất của sản phẩm thô. Vì vậy nó càng hại nông nghiệp.
+
+Do đó các hệ thống ưu ái nông nghiệp hơn mọi ngành khác mà áp đặt hạn chế lên công nghiệp và ngoại thương (nguyên bản: "those systems which, preferring agriculture to all other employments, … impose restraints upon manufactures and foreign trade"; bản dịch rút gọn thành "các hệ thống trọng nông") đi ngược chính mục tiêu của mình. Chúng gián tiếp làm nản lòng chính ngành mà chúng muốn thúc đẩy.
+
+Ở điểm này, Smith cho rằng chúng còn mâu thuẫn với chính mình hơn cả hệ thống trọng thương. So sánh:
+
+| | Hệ thống trọng thương | Hệ thống ưu ái nông nghiệp bằng hạn chế |
+|---|---|---|
+| Ngành được ưu ái | Công nghiệp và ngoại thương | Nông nghiệp |
+| Tác động lên vốn | Kéo vốn khỏi nông nghiệp sang ngành được ưu ái | Hạn chế công nghiệp và ngoại thương |
+| Kết quả với ngành được ưu ái | Rốt cuộc vẫn khuyến khích được ngành đó | Rốt cuộc làm nản chính ngành được ưu ái |
+
+Cần lưu ý: phái trọng nông Pháp lại chủ trương tự do thương mại, nên phê phán này nhắm vào các chính sách kiểu Trung Hoa, Ai Cập, Hindustan, chứ không nhắm vào học thuyết của Quesnay.
+
+Smith rút ra một nguyên lý chung cho mọi hệ thống. Mọi hệ thống tìm cách, bằng ưu đãi bất thường, kéo vào một ngành một phần vốn lớn hơn mức tự nhiên nó sẽ có, hoặc, theo nguyên bản, bằng hạn chế bất thường, đẩy vốn ra khỏi một ngành, trên thực tế đều phá hoại chính mục đích lớn mà nó muốn thúc đẩy. Nó làm chậm thay vì đẩy nhanh tiến bộ của xã hội tới giàu có, và làm giảm thay vì tăng giá trị thực của sản phẩm hàng năm của đất đai và lao động.
 
 ### 11. Hệ thống tự do tự nhiên và ba nhiệm vụ của nhà nước
-- Khi mọi hệ thống ưu tiên hay hạn chế bị gạt bỏ, hệ thống tự do tự nhiên rõ ràng và giản dị tự thiết lập. Mỗi người, chừng nào không vi phạm luật công lý, được hoàn toàn tự do mưu cầu lợi ích của mình theo cách của mình, và đưa lao động lẫn vốn của mình vào cạnh tranh với bất kỳ người hay nhóm người nào.
-- Nguyên bản có thêm một câu then chốt bị lược trong bản dịch: nhà vua được giải phóng hoàn toàn khỏi một nhiệm vụ mà khi cố làm thì luôn mắc vô số ảo tưởng, và để làm đúng thì không trí tuệ hay hiểu biết nào của con người đủ: nhiệm vụ giám sát công nghiệp của tư nhân và hướng nó vào những việc có lợi nhất cho xã hội.
-- Theo hệ thống này, nhà vua chỉ có ba nhiệm vụ, rất quan trọng nhưng dễ hiểu với mọi người:
-  - Thứ nhất, bảo vệ xã hội khỏi bạo lực và sự xâm lăng của các xã hội độc lập khác (quốc phòng).
-  - Thứ hai, bảo vệ, trong chừng mực có thể, mỗi thành viên xã hội khỏi sự bất công và áp bức của mọi thành viên khác, tức thiết lập một nền tư pháp nghiêm minh.
-  - Thứ ba, xây dựng và duy trì những công trình công cộng và thiết chế công cộng mà không bao giờ có lợi cho một cá nhân hay một nhóm nhỏ cá nhân xây dựng và duy trì, vì lợi nhuận không bao giờ hoàn đủ chi phí cho họ, dù với cả xã hội nó thường mang lại nhiều hơn chi phí.
-- Trong nguyên bản, chương kết thúc bằng việc nói rằng thực hiện ba nhiệm vụ này đòi hỏi chi tiêu, chi tiêu đòi hỏi nguồn thu, và Quyển V sẽ bàn ba vấn đề: các khoản chi cần thiết của nhà nước, các cách tạo nguồn thu, và nguyên nhân cùng hậu quả của nợ công. Ấn bản này không in Quyển V.
+
+Khi mọi hệ thống ưu tiên hay hạn chế đều bị gạt bỏ, cái còn lại là **hệ thống tự do tự nhiên**, "rõ ràng và giản dị", tự nó thiết lập mà không cần ai dựng lên. Trong hệ thống đó, mỗi người, chừng nào không vi phạm luật công lý, được hoàn toàn tự do mưu cầu lợi ích của mình theo cách của mình, và được đưa cả lao động lẫn vốn của mình vào cạnh tranh với bất kỳ người hay nhóm người nào khác.
+
+Nguyên bản có thêm một câu then chốt mà bản dịch lược mất. Theo câu này, trong hệ thống tự do tự nhiên nhà vua được giải phóng hoàn toàn khỏi một nhiệm vụ mà khi cố thực hiện thì luôn mắc vô số ảo tưởng, và để làm đúng thì không trí tuệ hay hiểu biết nào của con người đủ: đó là nhiệm vụ giám sát công nghiệp của tư nhân và hướng nó vào những việc có lợi nhất cho xã hội. Câu này giải thích vì sao Smith không chỉ nói tự do là hiệu quả, mà còn nói việc điều khiển nền kinh tế từ trên xuống là việc vượt quá khả năng hiểu biết của bất kỳ ai.
+
+Theo hệ thống này, nhà vua chỉ còn ba nhiệm vụ. Chúng rất quan trọng nhưng rõ ràng và dễ hiểu với mọi người:
+
+1. **Quốc phòng.** Bảo vệ xã hội khỏi bạo lực và sự xâm lăng của các xã hội độc lập khác.
+2. **Tư pháp.** Bảo vệ, trong chừng mực có thể, mỗi thành viên của xã hội khỏi sự bất công và áp bức của mọi thành viên khác, tức là thiết lập một nền tư pháp nghiêm minh.
+3. **Công trình và thiết chế công cộng.** Xây dựng và duy trì những công trình công cộng và thiết chế công cộng mà không bao giờ có lợi cho một cá nhân hay một nhóm nhỏ cá nhân tự xây dựng và duy trì, vì lợi nhuận thu về không bao giờ hoàn đủ chi phí cho họ, dù với cả xã hội, lợi ích của chúng thường lớn hơn nhiều so với chi phí.
+
+Nhiệm vụ thứ ba đáng chú ý vì nó không phải một danh sách cố định mà là một tiêu chí: bất kỳ công trình nào có lợi ích xã hội vượt chi phí, nhưng người làm không thu được đủ lợi ích để tự bỏ vốn, đều thuộc về nhà nước.
+
+Trong nguyên bản, chương kết thúc bằng việc nói rằng thực hiện ba nhiệm vụ này đòi hỏi chi tiêu, chi tiêu đòi hỏi nguồn thu, và Quyển V sẽ bàn ba vấn đề: các khoản chi cần thiết của nhà nước, các cách tạo ra nguồn thu để trang trải những khoản chi đó, và nguyên nhân cùng hậu quả của nợ công. Ấn bản tiếng Việt này không in Quyển V, nên chương IX trở thành chương kết của sách.
 
 ## Luận điểm kinh tế cốt lõi
 

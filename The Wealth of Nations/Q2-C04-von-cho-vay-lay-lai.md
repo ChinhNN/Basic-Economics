@@ -197,52 +197,143 @@
 2. **Cái gì quyết định lãi suất?** Tỷ suất lợi nhuận từ việc dùng vốn, mà tỷ suất này giảm khi vốn tích luỹ vì cạnh tranh giữa các vốn và vì tiền công tăng. Lượng vàng bạc chỉ ảnh hưởng đến giá danh nghĩa, không ảnh hưởng lãi suất.
 3. **Nhà nước nên làm gì với lãi suất?** Không cấm cho vay lấy lãi, vì cấm chỉ làm lãi nặng hơn; không thể hạ lãi bằng sắc lệnh; nếu đặt trần thì trần nên chỉ hơi cao hơn lãi suất thị trường thấp nhất, để vốn chảy về người vay thận trọng thay vì kẻ hoang phí và người làm dự án mạo hiểm.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Vốn cho vay lấy lãi (stock lent at interest).** Phần của cải mà người chủ không tự đem đi kinh doanh, mà giao cho người khác dùng trong một thời gian, đổi lại một khoản trả hàng năm và việc hoàn lại khi đáo hạn. Ví dụ trong chương: A cho W vay 1.000 bảng. Với A, khoản đó vẫn là vốn, vì A chờ nhận lại đủ 1.000 bảng cộng tiền lãi mỗi năm. Khái niệm này quan trọng vì cả chương xoay quanh câu hỏi: cái gì quyết định lượng vốn loại này và giá của nó.
+
+**Tiền lãi và lãi suất (interest, rate of interest).** Tiền lãi là khoản người vay trả mỗi năm cho việc được dùng vốn của người khác; lãi suất là khoản đó tính theo phần trăm của số gốc. Ví dụ: vay 100 bảng, mỗi năm trả 5 bảng, thì lãi suất là 5%. Smith coi lãi suất là "giá" của việc dùng vốn, nên nó chịu cùng quy luật cung cầu như giá mọi thứ khác, và nó đi theo lợi nhuận mà vốn kiếm được.
+
+**Tiền là "chứng thư chuyển nhượng" (deed of assignment).** Chứng thư là tờ giấy ghi nhận việc chuyển một tài sản từ người này sang người khác; tờ giấy không phải là tài sản. Smith nói tiền trong khoản vay cũng vậy: thứ thật sự được chuyển là quyền mua hàng hoá. Ví dụ trong chương: cùng một lượng tiền 1.000 bảng, đi qua tay nhiều người trong vài ngày, làm phương tiện cho 3 khoản vay, nên tổng vốn cho vay gấp 3 lần lượng tiền. Đây là chìa khoá để hiểu vì sao lượng vàng bạc không quyết định lãi suất.
+
+**Tỷ suất lợi nhuận và cạnh tranh giữa các vốn.** Tỷ suất lợi nhuận là lợi nhuận tính theo phần trăm vốn bỏ ra. Khi có nhiều vốn hơn cùng tìm chỗ sinh lời, các chủ vốn phải giành khách của nhau bằng cách bán rẻ hơn, mua nguyên liệu đắt hơn, và trả công cao hơn để thuê được người; cả ba làm tỷ suất lợi nhuận giảm. Ví dụ minh hoạ: một chủ xưởng bỏ 1.000 bảng, lãi 100 bảng một năm, tức 10%; nếu đối thủ mới buộc ông hạ giá đến mức chỉ còn lãi 60 bảng, tỷ suất còn 6%. Smith cần khái niệm này vì lãi suất là một phần của lợi nhuận: lợi nhuận giảm thì lãi suất giảm theo.
+
+**Giá danh nghĩa và giá thực.** Giá danh nghĩa là giá tính bằng số đồng tiền; giá thực là lượng hàng hoá hay lao động mà số tiền ấy đổi được. Ví dụ trong chương: nếu bạc mất giá đến mức 100 bảng nay chỉ mua được lượng hàng mà 50 bảng mua được trước kia, thì giá danh nghĩa mọi thứ tăng gấp đôi trong khi giá thực không đổi. Nhờ phân biệt này Smith bác bỏ được Locke, Law và Montesquieu.
+
+**Lãi suất pháp định và cho vay nặng lãi (legal rate, usury).** Lãi suất pháp định là mức lãi cao nhất luật cho phép mà không bị phạt; cho vay nặng lãi, thời Smith, là cho vay vượt mức đó. Ví dụ trong chương: ở Anh trần pháp định là 5%, trong khi chính phủ vay được 3% và tư nhân có bảo đảm tốt vay được 4–4,5%. Khái niệm này cần cho phần chính sách: Smith hỏi trần nên đặt ở đâu so với lãi suất thị trường.
+
+**Kẻ hoang phí và người làm dự án mạo hiểm (prodigals and projectors).** Kẻ hoang phí là người vay để tiêu xài; người làm dự án mạo hiểm là người đề xướng những kế hoạch kinh doanh nhiều rủi ro, hứa hẹn lời lớn. Họ là những người duy nhất sẵn lòng trả lãi rất cao, chẳng hạn 8% hay 10% ở nước Anh thời Smith. Smith dùng nhóm này để giải thích vì sao trần lãi suất đặt quá cao sẽ đưa vốn vào nhầm tay.
+
+**Số năm địa tô (years' purchase).** Cách tính giá đất bằng bội số của địa tô hàng năm. Ví dụ: một mảnh đất cho địa tô 10 bảng mỗi năm, bán giá 300 bảng, là bán bằng 30 năm địa tô. Bội số này gần bằng nghịch đảo của lãi suất: lãi 10% thì đất bán khoảng 10–12 năm địa tô, lãi 4% thì khoảng 30 năm. Khái niệm này cho thấy lãi suất giảm có thể làm giá đất tăng mà đất không sinh lời hơn chút nào.
+
+## Nội dung chi tiết
 
 ### 1. Hai cách dùng vốn vay
 
-- Người cho vay coi khoản cho vay là vốn: mong được hoàn gốc đúng hạn và nhận một khoản lãi hàng năm. Người vay có thể dùng nó làm vốn hoặc để tiêu ngay.
-- Nếu dùng làm vốn, người vay thuê lao động sản xuất, những người tái tạo giá trị kèm lợi nhuận; khi đó hoàn gốc và trả lãi không xâm phạm nguồn thu nhập nào khác.
-- Nếu dùng để tiêu, người vay đóng vai kẻ hoang phí, nuôi người ăn không ngồi rồi bằng thứ lẽ ra nuôi người cần cù; khi đó không hoàn được gốc, không trả được lãi nếu không lấy từ nguồn khác như đất đai hay tiền thuê nhà.
-- Cách thứ nhất phổ biến hơn nhiều. Vay để tiêu sẽ sớm phá sản và người cho vay sẽ hối hận về sự điên rồ của mình; vay và cho vay như thế trái lợi ích cả hai bên. Vì mọi người quan tâm đến lợi ích riêng, việc này không phổ biến như người ta tưởng. Hỏi một người giàu thận trọng muốn cho ai vay, ông ta sẽ cười vì câu hỏi ngớ ngẩn. Ngay trong số người vay, người tiết kiệm và cần cù nhiều hơn kẻ lười biếng hoang phí.
-- Trường hợp gần với vay để tiêu nhất là quý tộc nông thôn vay có thế chấp. Ngay cả họ hiếm khi vay chỉ để tiêu: họ đã mua chịu nhiều hàng của các chủ hiệu, đến hạn thì địa tô không đủ trả, nên vay có lãi để thanh toán. Tiền vay hoàn lại vốn mà các chủ hiệu đã ứng trước, chứ không phải để tiêu thêm.
+Với người cho vay, khoản tiền đem cho vay luôn là vốn: ông ta mong được hoàn gốc đúng hạn và trong thời gian đó nhận một khoản lãi hàng năm. Còn người vay có hai cách dùng khoản đó.
+
+| | Dùng làm vốn | Dùng để tiêu ngay |
+|---|---|---|
+| Người vay làm gì | Thuê lao động sản xuất, tức những người làm ra sản phẩm | Đóng vai kẻ hoang phí, nuôi người ăn không ngồi rồi bằng thứ lẽ ra nuôi người cần cù |
+| Kết quả | Lao động sản xuất tái tạo lại giá trị đã bỏ ra kèm một khoản lợi nhuận | Giá trị bị tiêu mất, không sinh ra gì để trả lại |
+| Trả gốc và lãi | Trả được mà không xâm phạm nguồn thu nhập nào khác | Không hoàn được gốc, không trả được lãi nếu không lấy từ nguồn khác, như địa tô của đất đai hay tiền cho thuê nhà |
+
+Smith khẳng định cách thứ nhất phổ biến hơn nhiều. Lý do nằm ở lợi ích riêng của cả hai bên. Người vay để tiêu sẽ sớm phá sản, còn người cho vay sẽ mất cả gốc lẫn lãi và hối hận về sự dại dột của mình. Vay và cho vay theo kiểu đó trái với lợi ích của cả hai, mà ai cũng quan tâm đến lợi ích của mình, nên chuyện này không phổ biến như người ta tưởng. Smith viết rằng nếu hỏi một người giàu thận trọng xem ông muốn cho loại người nào vay, người tiêu xài hay người làm ăn, ông ta sẽ cười vì câu hỏi ngớ ngẩn. Ngay trong số những người đi vay, người tiết kiệm và cần cù đông hơn kẻ lười biếng hoang phí.
+
+Trường hợp gần nhất với vay để tiêu là quý tộc nông thôn vay có thế chấp bằng đất. Nhưng Smith cho rằng ngay cả họ cũng hiếm khi vay chỉ để tiêu. Họ đã mua chịu nhiều hàng của các chủ hiệu từ trước; đến hạn trả thì địa tô không đủ, nên họ vay có lãi để thanh toán nợ cũ. Tiền vay ấy thực chất hoàn lại khoản vốn mà các chủ hiệu đã ứng trước cho họ, chứ không phải để tiêu thêm.
 
 ### 2. Thứ được cho vay là sản phẩm, không phải tiền
 
-- Hầu hết khoản vay bằng tiền, giấy hay vàng bạc. Nhưng người vay thực sự cần giá trị của tiền, tức hàng hoá tiền mua được. Vay để tiêu thì đó là hàng vào quỹ tiêu dùng; vay làm vốn thì đó là công cụ, nguyên liệu, lương thực cho thợ. Qua khoản vay, người cho vay chuyển cho người vay quyền đối với một phần sản phẩm hàng năm của đất đai và lao động.
-- Lượng vốn có thể cho vay ở một nước không do giá trị của tiền quyết định mà do giá trị của phần sản phẩm hàng năm, ngay khi rời khỏi đất hay tay người lao động sản xuất, được dành để hoàn lại một khoản vốn mà người chủ không muốn tự mình sử dụng. Vì vốn loại này thường được cho vay và hoàn trả bằng tiền, nó hợp thành cái gọi là "giới chủ tiền" (monied interest), khác với giới địa chủ và giới thương nhân, chủ xưởng, những người tự dùng vốn của mình.
-- Tiền chỉ là chứng thư chuyển nhượng vốn từ người không muốn dùng sang người muốn dùng. Vốn cho vay có thể lớn hơn lượng tiền làm phương tiện theo bất kỳ tỷ lệ nào, vì cùng một lượng tiền có thể dùng cho nhiều khoản vay liên tiếp, như cho nhiều lần mua liên tiếp.
-- Ví dụ: A cho W vay 1.000 bảng; W lập tức mua hàng của B trị giá 1.000 bảng. B không cần tiền, cho X vay; X mua hàng của C trị giá 1.000 bảng. C cũng không cần, cho Y vay; Y mua hàng của D. Trong vài ngày, cùng những đồng tiền ấy làm phương tiện cho ba khoản vay và ba lần mua, mỗi lần bằng toàn bộ lượng tiền. Thứ A, B, C chuyển cho W, X, Y là sức mua; giá trị và công dụng của khoản vay nằm ở đó. Vốn mà A, B, C cho vay bằng giá trị hàng mua được và gấp ba lần lượng tiền. Các khoản vay an toàn vì hàng mua được dùng để tạo lại giá trị tương đương kèm lợi nhuận. Cùng lượng tiền có thể làm phương tiện cho 30 khoản vay chứ không chỉ 3, và cũng có thể liên tiếp làm phương tiện trả nợ.
-- Vậy một khoản vay có lãi là việc chuyển cho người vay một phần đáng kể sản phẩm hàng năm, với điều kiện mỗi năm người vay chuyển lại một phần nhỏ hơn gọi là tiền lãi, và khi đáo hạn chuyển lại một phần bằng phần ban đầu gọi là hoàn gốc. Tiền là chứng thư cho cả hai lần chuyển giao, nhưng hoàn toàn khác với thứ được chuyển giao.
+Hầu hết các khoản vay đều được thực hiện bằng tiền, tiền giấy hay vàng bạc. Nhưng người vay không cần bản thân đồng tiền; họ cần giá trị của nó, tức những hàng hoá mà tiền mua được. Nếu vay để tiêu, đó là hàng hoá đi vào quỹ tiêu dùng ngay. Nếu vay làm vốn, đó là công cụ, nguyên liệu, và lương thực để nuôi thợ trong lúc họ làm việc. Vì vậy, qua khoản vay, người cho vay thực chất chuyển cho người vay **quyền đối với một phần sản phẩm hàng năm** của đất đai và lao động trong nước, để người vay dùng tuỳ ý.
+
+Từ đó Smith suy ra điều gì quyết định lượng vốn có thể cho vay ở một nước. Không phải giá trị của lượng tiền trong nước, mà là giá trị của phần sản phẩm hàng năm, ngay khi nó vừa rời khỏi đất hay tay người lao động sản xuất, được dành để hoàn lại một khoản vốn mà người chủ **không muốn tự mình sử dụng**. Vì loại vốn này thường được cho vay và hoàn trả bằng tiền, những người nắm nó hợp thành một nhóm riêng, gọi là **"giới chủ tiền"** (monied interest). Nhóm này khác với giới địa chủ (landed interest) và với giới thương nhân, chủ xưởng (trading and manufacturing interests), là những người tự dùng vốn của mình.
+
+Tiền, trong quan hệ cho vay, chỉ là **"chứng thư chuyển nhượng"**: tờ giấy chuyển vốn từ người không muốn dùng sang người muốn dùng. Vì cùng một lượng tiền có thể dùng cho nhiều khoản vay liên tiếp, giống như dùng cho nhiều lần mua liên tiếp, nên vốn cho vay có thể lớn hơn lượng tiền làm phương tiện theo bất kỳ tỷ lệ nào.
+
+Smith minh hoạ bằng một chuỗi giao dịch:
+
+| Bước | Người cho vay | Người vay | Người vay dùng tiền để |
+|---|---|---|---|
+| 1 | A | W, vay 1.000 bảng | mua hàng của B trị giá 1.000 bảng |
+| 2 | B (không cần dùng số tiền vừa nhận) | X | mua hàng của C trị giá 1.000 bảng |
+| 3 | C (cũng không cần dùng) | Y | mua hàng của D |
+
+Chỉ trong vài ngày, cùng những đồng tiền ấy làm phương tiện cho 3 khoản vay và 3 lần mua, mỗi lần bằng toàn bộ lượng tiền. Thứ mà A, B, C thật sự chuyển cho W, X, Y là sức mua, và giá trị cũng như công dụng của khoản vay nằm ở đó. Vốn mà A, B, C cho vay bằng giá trị hàng hoá mua được, tức gấp 3 lần lượng tiền. Các khoản vay này vẫn an toàn, vì hàng mua được được người vay dùng để tạo lại một giá trị tương đương kèm lợi nhuận. Chuỗi có thể dài hơn nhiều: cùng lượng tiền có thể làm phương tiện cho 30 khoản vay chứ không chỉ 3. Và cũng lượng tiền ấy có thể lần lượt làm phương tiện trả nợ khi các khoản vay đáo hạn.
+
+Từ đây Smith đưa ra định nghĩa: một khoản vay có lãi là việc người cho vay chuyển cho người vay một phần **đáng kể** sản phẩm hàng năm, với điều kiện mỗi năm người vay chuyển lại một phần **nhỏ hơn**, gọi là tiền lãi, và khi đáo hạn chuyển lại một phần **bằng** phần ban đầu, gọi là hoàn gốc. Tiền là chứng thư cho cả hai lần chuyển giao, nhưng hoàn toàn khác với thứ được chuyển giao.
+
+**Ví dụ hôm nay** (minh hoạ chung). Một người gửi tiết kiệm 100 triệu đồng vào ngân hàng; ngân hàng cho một doanh nghiệp vay, doanh nghiệp trả tiền cho nhà cung cấp; nhà cung cấp lại gửi số tiền ấy vào ngân hàng, và ngân hàng lại cho người khác vay. Tổng dư nợ cho vay trong nền kinh tế vì vậy lớn hơn nhiều lần lượng tiền mặt đang lưu hành, đúng như chuỗi A–W–B–X–C–Y của Smith.
 
 ### 3. Vốn cho vay tăng thì lãi suất giảm
 
-- Phần sản phẩm hàng năm dùng để hoàn vốn càng tăng thì phần vốn mà chủ muốn thu lãi mà không phải tự dùng cũng tăng theo; tức là khi vốn nói chung tăng, vốn cho vay cũng tăng dần.
-- Khi vốn cho vay tăng, lãi suất, tức giá trả cho việc dùng vốn, tất yếu giảm, không chỉ vì lý do chung làm giá thị trường của mọi hàng hoá giảm khi lượng tăng, mà còn vì những lý do riêng.
-- Khi vốn tăng, lợi nhuận từ việc dùng vốn giảm. Càng ngày càng khó tìm cách dùng vốn mới có lời. Nảy sinh cạnh tranh giữa các vốn: chủ vốn này muốn chiếm chỗ của chủ vốn khác, và cách duy nhất là giao dịch với điều kiện tốt hơn, tức bán rẻ hơn, và để có hàng bán, đôi khi mua đắt hơn.
-- Quỹ trả công tăng nên cầu lao động sản xuất tăng; người lao động dễ tìm việc, chủ vốn khó thuê người; cạnh tranh giành nhân công đẩy tiền công lên và làm giảm lợi nhuận. Lợi nhuận giảm thì lãi suất, giá có thể trả cho việc dùng vốn, cũng giảm theo.
+Khi một nước giàu lên, phần sản phẩm hàng năm dùng để hoàn vốn tăng lên. Trong phần đó, phần thuộc về những người muốn thu lãi mà không muốn tự kinh doanh cũng tăng theo. Nói cách khác, khi vốn nói chung tăng, vốn cho vay cũng tăng dần.
+
+Khi vốn cho vay tăng, lãi suất, tức giá trả cho việc dùng vốn, tất yếu giảm. Smith đưa ra hai lý do:
+
+1. **Lý do chung**, đúng với mọi hàng hoá: lượng cung tăng thì giá thị trường giảm.
+2. **Lý do riêng của vốn**: khi vốn tăng, lợi nhuận từ việc dùng vốn giảm, và lãi suất là một phần của lợi nhuận đó.
+
+Lợi nhuận giảm qua ba kênh. Thứ nhất, càng có nhiều vốn thì càng khó tìm cách dùng vốn mới mà vẫn có lời, vì những cơ hội tốt nhất đã được dùng trước. Thứ hai, nảy sinh cạnh tranh giữa các vốn: một chủ vốn muốn chiếm chỗ làm ăn của chủ vốn khác thì chỉ có một cách là giao dịch với điều kiện tốt hơn, tức là bán rẻ hơn, và để có hàng mà bán, đôi khi phải mua đắt hơn. Thứ ba, quỹ dùng để trả công tăng nên cầu về lao động sản xuất tăng; người lao động dễ tìm việc, còn chủ vốn khó thuê người; các chủ vốn phải tranh nhau thuê nhân công, đẩy tiền công lên và làm lợi nhuận giảm thêm.
+
+Kết quả: lợi nhuận giảm thì cái giá mà người ta có thể trả cho việc dùng vốn, tức lãi suất, cũng giảm theo. Chuỗi nhân quả là: vốn tích luỹ, vốn cho vay tăng, cạnh tranh giữa các vốn và tiền công tăng, tỷ suất lợi nhuận giảm, lãi suất giảm.
 
 ### 4. Bác bỏ thuyết "vàng bạc châu Mỹ làm lãi suất giảm"
 
-- Locke, Law, Montesquieu và nhiều tác giả khác cho rằng lượng vàng bạc tăng sau khi phát hiện Tây Ấn thuộc Tây Ban Nha là nguyên nhân chính khiến lãi suất ở phần lớn châu Âu giảm: kim loại quý mất giá thì tiền mất giá, và lãi suất phải giảm. Hume đã bác bỏ quan điểm này; Smith thêm một lập luận ngắn.
-- Trước khi phát hiện châu Mỹ, lãi suất thông thường ở phần lớn châu Âu là 10%; sau đó giảm dần còn 6, 5, 4, 3%. Giả định, thuận lợi nhất cho đối thủ, rằng ở mỗi nước giá trị bạc giảm đúng theo tỷ lệ lãi suất: nơi lãi giảm từ 10% xuống 5% thì cùng lượng bạc nay chỉ mua được một nửa hàng hoá như trước. Smith tin giả định này không đúng ở bất cứ đâu, nhưng dùng nó để lập luận.
-- Ngay cả với giả định đó, bạc mất giá cũng không giải thích được lãi suất giảm. Nếu 100 bảng nay chỉ đáng 50 bảng xưa thì 10 bảng nay chỉ đáng 5 bảng xưa. Nguyên nhân nào làm giảm giá trị của gốc cũng làm giảm giá trị của lãi đúng theo cùng tỷ lệ, nên nếu tỷ suất giữ nguyên thì tỷ lệ giữa giá trị gốc và giá trị lãi vẫn giữ nguyên. Chỉ khi tỷ suất thay đổi thì tỷ lệ đó mới đổi. Nếu 100 bảng nay đáng 50 bảng xưa, thì 5 bảng nay chỉ đáng 2 bảng 10 shilling xưa. Hạ lãi suất từ 10% xuống 5% nghĩa là trả cho việc dùng một khoản vốn được giả định chỉ bằng nửa giá trị cũ một khoản lãi chỉ bằng một phần tư giá trị lãi cũ.
-- Tăng lượng bạc trong khi lượng hàng lưu thông giữ nguyên chỉ có một tác động là làm giảm giá trị của bạc. Giá danh nghĩa của hàng hoá cao hơn, giá trị thực như cũ; hàng hoá đổi được nhiều đồng bạc hơn nhưng thuê được đúng lượng lao động như trước. Vốn của đất nước như cũ, chỉ cần nhiều đồng tiền hơn để chuyển một phần tương đương từ tay này sang tay khác. Chứng thư nhiều hơn và cồng kềnh hơn, vật được chuyển giao như cũ.
-- Vì quỹ trả công không đổi, tiền công thực như cũ dù danh nghĩa cao hơn; người lao động nhận nhiều đồng bạc hơn nhưng mua được không nhiều hàng hơn. Lợi nhuận thì không đổi cả về danh nghĩa lẫn thực tế, vì lợi nhuận không tính bằng số đồng bạc mà bằng tỷ lệ của số đồng bạc ấy trên vốn bỏ ra. Ví dụ ở một nước tiền công thông thường là 5 shilling một tuần và lợi nhuận thông thường 10%: vì tổng vốn như cũ, cạnh tranh giữa các vốn như cũ, tỷ lệ lợi nhuận trên vốn như cũ, nên lãi suất thông thường cũng như cũ. "Cái thường được trả cho việc sử dụng tiền tất yếu bị chi phối bởi kết quả của việc sử dụng tiền."
-- Ngược lại, khi lượng hàng hoá lưu thông hàng năm tăng mà lượng tiền giữ nguyên, ngoài việc làm tăng giá trị của tiền còn có các tác động quan trọng khác. Vốn của đất nước, danh nghĩa như cũ, thực tế tăng: cùng con số nhưng thuê được nhiều lao động hơn. Cầu lao động sản xuất tăng, tiền công thực tăng dù danh nghĩa có thể giảm. Lợi nhuận giảm cả thực lẫn danh nghĩa, vì tổng vốn tăng làm cạnh tranh giữa các vốn tăng, và chủ vốn phải chấp nhận phần nhỏ hơn trong sản phẩm do lao động họ thuê tạo ra. Lãi suất, luôn đi theo lợi nhuận, có thể giảm nhiều, dù giá trị của tiền đã tăng đáng kể.
+**Quan điểm bị bác.** Locke, Law, Montesquieu và nhiều tác giả khác cho rằng lượng vàng bạc tăng mạnh sau khi phát hiện ra Tây Ấn thuộc Tây Ban Nha (các thuộc địa châu Mỹ) là nguyên nhân chính khiến lãi suất ở phần lớn châu Âu giảm. Lập luận của họ: kim loại quý mất giá thì việc dùng một lượng tiền nhất định cũng mất giá, nên giá trả cho việc dùng tiền, tức lãi suất, phải giảm. Hume đã bác bỏ quan điểm này; Smith thêm một lập luận ngắn.
+
+**Dữ kiện và giả định.** Trước khi phát hiện châu Mỹ, lãi suất thông thường ở phần lớn châu Âu là khoảng 10%; sau đó giảm dần xuống 6, 5, 4, rồi 3%. Smith chấp nhận, để lập luận, một giả định thuận lợi nhất cho đối thủ: ở mỗi nước, giá trị của bạc giảm đúng theo tỷ lệ lãi suất giảm. Tức là ở nơi lãi suất giảm từ 10% xuống 5%, cùng một lượng bạc nay chỉ mua được một nửa lượng hàng hoá như trước. Smith tin rằng giả định này không đúng ở bất cứ đâu, nhưng ngay cả khi chấp nhận nó, kết luận của đối thủ vẫn sai.
+
+**Phép tính.** Nếu 100 bảng nay chỉ đáng bằng 50 bảng xưa, thì 10 bảng nay cũng chỉ đáng bằng 5 bảng xưa. Bất kỳ nguyên nhân nào làm giảm giá trị của số gốc cũng làm giảm giá trị của tiền lãi đúng theo cùng tỷ lệ. Vì vậy, nếu tỷ suất lãi không đổi thì tỷ lệ giữa giá trị gốc và giá trị lãi cũng không đổi; bạc mất giá tự nó không làm lãi suất thay đổi. Nhưng thực tế lãi suất đã giảm từ 10% xuống 5%:
+
+| | Trước (lãi 10%) | Sau (lãi 5%), tính theo giá trị xưa |
+|---|---|---|
+| Gốc 100 bảng | đáng 100 bảng | đáng 50 bảng xưa (bằng một nửa) |
+| Lãi mỗi năm | 10 bảng | 5 bảng nay, đáng 2 bảng 10 shilling xưa (bằng một phần tư) |
+
+Tức là người cho vay nay nhận, cho việc dùng một khoản vốn được giả định chỉ còn bằng một nửa giá trị cũ, một khoản lãi chỉ còn bằng 1/4 giá trị lãi cũ. Sự mất giá của bạc không thể giải thích được mức giảm ấy; phải có một nguyên nhân khác làm tỷ suất lãi giảm.
+
+**Trường hợp 1: lượng bạc tăng, lượng hàng giữ nguyên.** Tác động duy nhất là bạc mất giá. Giá danh nghĩa của mọi hàng hoá cao hơn, nhưng giá trị thực như cũ: hàng hoá đổi được nhiều đồng bạc hơn, nhưng vẫn thuê được đúng lượng lao động như trước. Vốn của đất nước không đổi, chỉ cần nhiều đồng tiền hơn để chuyển một phần vốn như nhau từ tay này sang tay khác. Các "chứng thư chuyển nhượng" nhiều hơn và cồng kềnh hơn, nhưng thứ được chuyển giao vẫn thế. Vì quỹ trả công không đổi, tiền công thực cũng không đổi dù tiền công danh nghĩa cao hơn: người lao động nhận nhiều đồng bạc hơn nhưng không mua được nhiều hàng hơn. Lợi nhuận thì không đổi cả về danh nghĩa lẫn thực tế, vì lợi nhuận không tính bằng số đồng bạc mà bằng tỷ lệ của số đồng bạc ấy trên vốn bỏ ra. Smith lấy ví dụ một nước có tiền công thông thường 5 shilling một tuần và lợi nhuận thông thường 10%. Khi lượng bạc tăng, tiền công danh nghĩa tăng, nhưng tổng vốn như cũ, cạnh tranh giữa các vốn như cũ, nên tỷ lệ lợi nhuận vẫn 10%, và lãi suất thông thường cũng như cũ. Smith tóm lại: "cái thường được trả cho việc sử dụng tiền tất yếu bị chi phối bởi kết quả của việc sử dụng tiền".
+
+**Trường hợp 2: lượng hàng tăng, lượng tiền giữ nguyên.** Trường hợp này khác hẳn. Ngoài việc làm giá trị của tiền tăng (mỗi đồng mua được nhiều hàng hơn), nó còn có những tác động quan trọng khác. Vốn của đất nước, dù con số danh nghĩa như cũ, thực tế đã tăng: cùng số tiền ấy nay thuê được nhiều lao động hơn. Cầu về lao động sản xuất tăng, nên tiền công thực tăng, dù tiền công danh nghĩa có thể giảm. Lợi nhuận giảm cả về thực tế lẫn danh nghĩa, vì tổng vốn tăng làm cạnh tranh giữa các vốn tăng, và chủ vốn phải chấp nhận phần nhỏ hơn trong sản phẩm do lao động họ thuê làm ra. Lãi suất, luôn đi theo lợi nhuận, vì vậy có thể giảm nhiều, ngay cả khi giá trị của tiền đã tăng đáng kể.
+
+Hai trường hợp đặt cạnh nhau cho thấy kết luận của Smith: lãi suất giảm không phải vì có nhiều tiền hơn, mà vì có nhiều vốn thật hơn.
+
+| | Bạc tăng, hàng giữ nguyên | Hàng tăng, tiền giữ nguyên |
+|---|---|---|
+| Giá trị của tiền | giảm | tăng |
+| Vốn thật | không đổi | tăng |
+| Tiền công thực | không đổi (danh nghĩa tăng) | tăng (danh nghĩa có thể giảm) |
+| Tỷ suất lợi nhuận | không đổi | giảm |
+| Lãi suất | không đổi | giảm |
 
 ### 5. Cấm cho vay lấy lãi và trần lãi suất
 
-- Ở một số nước, luật cấm cho vay lấy lãi. Nhưng dùng tiền ở đâu cũng sinh lời, nên ở đâu cũng phải trả cho việc dùng tiền. Lệnh cấm không ngăn được mà còn làm tệ nạn nặng lãi trầm trọng hơn: người vay phải trả không chỉ cho việc dùng tiền mà cả cho rủi ro người cho vay chịu khi chấp nhận khoản đền bù đó, tức phải bảo hiểm chủ nợ khỏi án phạt về cho vay nặng lãi.
-- Ở các nước cho phép lấy lãi, để chống nặng lãi, luật thường quy định mức lãi cao nhất được phép mà không bị phạt. Mức này luôn phải hơi cao hơn lãi suất thị trường thấp nhất, tức lãi suất trả bởi người vay có bảo đảm chắc chắn nhất. Nếu đặt dưới mức đó, tác dụng như cấm hẳn. Nếu đặt đúng bằng mức đó, người làm ăn lương thiện tôn trọng luật sẽ bị thiệt: ai không có bảo đảm tốt nhất buộc phải tìm đến người cho vay nặng lãi. Ở Anh, nơi chính phủ vay được 3% và tư nhân có bảo đảm tốt vay được 4% hay 4,5%, trần pháp định hiện hành 5% có lẽ là hợp lý.
-- Trần pháp định phải hơi cao hơn, nhưng không được cao hơn nhiều so với lãi suất thị trường thấp nhất. Nếu ở Anh trần được đặt ở 8% hay 10%, phần lớn tiền cho vay sẽ đến tay kẻ hoang phí và người làm dự án mạo hiểm, những người duy nhất sẵn lòng trả lãi cao như thế. Người thận trọng chỉ chịu trả cho việc dùng tiền một phần lợi nhuận họ có thể kiếm được, nên sẽ không cạnh tranh vay. Phần lớn vốn của đất nước sẽ rời khỏi tay người dùng nó có lợi nhất và rơi vào tay người dễ làm tiêu tan nó nhất. Ngược lại, khi trần chỉ hơi cao hơn lãi suất thấp nhất, người vay thận trọng được ưu tiên hơn kẻ hoang phí và người làm dự án; người cho vay chắc chắn thu được lãi vì tiền nằm trong tay người có trách nhiệm hoàn trả cả gốc lẫn lãi; nên phần lớn vốn được đặt vào tay những người có khả năng dùng nó có lợi.
-- Không luật nào hạ được lãi suất thông thường xuống dưới mức thị trường thấp nhất tại thời điểm ban hành. Bất chấp sắc lệnh năm 1766 của vua Pháp hạ lãi suất từ 5% xuống 4%, tiền vẫn được cho vay ở mức 5% và luật bị lách bằng nhiều cách.
+**Lệnh cấm.** Ở một số nước, luật cấm hẳn việc cho vay lấy lãi. Nhưng ở đâu dùng tiền cũng sinh lời, nên ở đâu cũng phải trả cho việc dùng tiền. Lệnh cấm không ngăn được việc đó, mà còn làm tệ nạn cho vay nặng lãi trầm trọng hơn. Lý do: người vay nay phải trả không chỉ cho việc dùng tiền, mà cả cho rủi ro mà người cho vay chịu khi nhận khoản đền bù trái luật, tức là phải "bảo hiểm" cho chủ nợ khỏi án phạt về tội cho vay nặng lãi.
+
+**Trần lãi suất pháp định.** Ở các nước cho phép lấy lãi, luật thường đặt một mức lãi cao nhất được phép để chống nặng lãi. Smith xét ba khả năng, so với lãi suất thị trường thấp nhất, tức mức lãi mà người vay có bảo đảm chắc chắn nhất phải trả:
+
+| Trần đặt ở đâu | Hệ quả |
+|---|---|
+| Dưới lãi suất thị trường thấp nhất | Tác dụng như cấm hẳn cho vay lấy lãi |
+| Đúng bằng lãi suất thị trường thấp nhất | Chỉ người có bảo đảm tốt nhất vay được hợp pháp; những người khác buộc phải tìm đến người cho vay nặng lãi; người làm ăn lương thiện tôn trọng luật chịu thiệt |
+| Hơi cao hơn mức thấp nhất | Hợp lý: người vay thận trọng được ưu tiên, vốn vào tay người dùng có lợi |
+| Cao hơn nhiều (8% hay 10% ở Anh) | Phần lớn vốn rơi vào tay kẻ hoang phí và người làm dự án mạo hiểm |
+
+Ví dụ của Smith là nước Anh: chính phủ vay được với lãi 3%, tư nhân có bảo đảm tốt vay được 4% hay 4,5%, và trần pháp định hiện hành là 5%. Mức 5% này, theo Smith, có lẽ là hợp lý.
+
+Vì sao trần không được quá cao? Nếu ở Anh trần được đặt ở 8% hay 10%, những người duy nhất sẵn lòng trả lãi cao như thế là kẻ hoang phí và người làm dự án mạo hiểm. Người vay thận trọng chỉ chịu trả cho việc dùng tiền một phần lợi nhuận họ dự tính kiếm được, nên sẽ không tranh vay ở mức đó. Kết quả là phần lớn vốn của đất nước rời khỏi tay những người có thể dùng nó có lợi nhất và rơi vào tay những người dễ làm tiêu tan nó nhất. Ngược lại, khi trần chỉ hơi cao hơn lãi suất thị trường thấp nhất, người vay thận trọng được người cho vay ưu tiên hơn kẻ hoang phí và người làm dự án. Người cho vay thu được lãi gần bằng mức họ có thể đòi từ kẻ hoang phí, nhưng chắc chắn hơn nhiều, vì tiền nằm trong tay người có trách nhiệm hoàn trả cả gốc lẫn lãi. Nhờ vậy phần lớn vốn được đặt vào tay những người có khả năng dùng nó có lợi.
+
+**Giới hạn của luật.** Không luật nào hạ được lãi suất thông thường xuống dưới mức thị trường thấp nhất tại thời điểm ban hành. Smith dẫn sắc lệnh năm 1766 của vua Pháp hạ lãi suất từ 5% xuống 4%: tiền vẫn tiếp tục được cho vay ở mức 5%, và luật bị lách bằng nhiều cách.
+
+**Ví dụ hôm nay** (minh hoạ chung). Khi luật đặt trần lãi suất cho vay tiêu dùng quá thấp so với rủi ro của người vay thu nhập thấp, ngân hàng không cho nhóm này vay; họ không thôi vay mà chuyển sang người cho vay ngoài hệ thống, nơi lãi suất còn cao hơn vì gồm cả phần bù cho rủi ro pháp lý. Đó đúng là hệ quả Smith mô tả cho lệnh cấm và cho trần đặt quá thấp.
 
 ### 6. Giá đất và lãi suất
 
-- Giá đất thông thường phụ thuộc vào lãi suất thị trường thông thường. Người có vốn muốn thu nhập mà không phải tự kinh doanh sẽ cân nhắc mua đất hay cho vay. Sự an toàn của đất đai cùng các lợi thế khác của loại tài sản này thường khiến người ta chấp nhận thu nhập từ đất thấp hơn lãi từ cho vay. Các lợi thế ấy đủ bù một mức chênh lệch nhất định, nhưng chỉ đến một mức.
-- Nếu địa tô thấp hơn lãi quá nhiều, không ai muốn mua đất, giá đất giảm dưới giá thông thường. Nếu lợi thế của đất bù quá mức chênh lệch, ai cũng muốn mua, và giá đất sớm vượt mức thông thường.
-- Khi lãi suất là 10%, đất thường bán với giá bằng 10 đến 12 năm địa tô. Khi lãi giảm xuống 6, 5, 4%, giá đất tăng lên 20, 25, 30 năm địa tô. Lãi suất thị trường ở Pháp cao hơn ở Anh, nên giá đất thấp hơn: ở Anh đất thường bán bằng 30 năm địa tô, ở Pháp chỉ 20 năm.
+Giá đất thông thường phụ thuộc vào lãi suất thị trường thông thường. Lý do: người có vốn muốn có thu nhập mà không phải tự kinh doanh đứng trước hai lựa chọn, mua đất để thu địa tô, hoặc cho vay để thu lãi. Đất đai an toàn hơn và có những lợi thế khác của loại tài sản này, nên người ta thường chấp nhận thu nhập từ đất thấp hơn lãi cho vay một chút. Nhưng các lợi thế ấy chỉ bù được một mức chênh lệch nhất định.
+
+Cơ chế điều chỉnh là cung cầu về đất. Nếu địa tô thấp hơn lãi quá nhiều, không ai muốn mua đất, và giá đất giảm xuống dưới mức thông thường. Nếu lợi thế của đất bù dư thừa cho chênh lệch, ai cũng muốn mua đất, và giá đất sớm vượt mức thông thường. Kết quả là giá đất, tính bằng số năm địa tô, đi ngược với lãi suất:
+
+| Lãi suất thị trường | Giá đất (số năm địa tô) |
+|---|---|
+| 10% | 10–12 năm |
+| 6% | 20 năm |
+| 5% | 25 năm |
+| 4% | 30 năm |
+| Anh | khoảng 30 năm |
+| Pháp (lãi suất thị trường cao hơn Anh) | khoảng 20 năm |
+
+Ví dụ minh hoạ: một mảnh đất cho địa tô 10 bảng mỗi năm. Khi lãi suất 10%, nó bán được khoảng 100–120 bảng; khi lãi suất giảm còn 4%, nó bán được khoảng 300 bảng. Địa tô không đổi, nhưng giá đất tăng gần gấp ba, chỉ vì lãi suất giảm.
+
+**Ví dụ hôm nay** (minh hoạ chung). Người mua căn hộ để cho thuê thường so lợi suất cho thuê (tiền thuê một năm chia giá nhà) với lãi tiền gửi ngân hàng. Khi lãi tiền gửi giảm, nhiều người chuyển sang mua nhà, đẩy giá nhà lên đến khi lợi suất cho thuê chỉ còn hơi thấp hơn lãi tiền gửi; đó chính là cơ chế Smith mô tả cho đất đai.
 
 ## Luận điểm kinh tế cốt lõi
 

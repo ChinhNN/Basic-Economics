@@ -236,111 +236,262 @@
 2. **Hàng xa xỉ phá quyền lực phong kiến như thế nào?** Khi không có gì để mua, đại điền chủ chỉ tiêu được thặng dư bằng nuôi người phụ thuộc, và đó là nguồn quyền lực của họ. Khi có hàng xa xỉ, họ đổi thặng dư lấy đồ dùng cho bản thân, sa thải người hầu, gộp trang trại, tăng tô đổi lấy hợp đồng dài hạn, và tá điền thành độc lập. Thợ và nhà buôn sống nhờ hàng nghìn khách hàng nên không phụ thuộc ai.
 3. **Con đường ngược này có tốt bằng trật tự tự nhiên không?** Không: nó chậm (so dân số châu Âu và Bắc Mỹ), bị kìm bởi các thể chế đất đai còn sót (quyền con trưởng, giá đất độc quyền), và bấp bênh, vì vốn thương mại dễ chạy và dễ bị phá, trừ phần đã hoá thành đất được cải tạo.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Trật tự tự nhiên và trật tự ngược.** Ở Chương I của Quyển III, Smith nói rằng nếu để tự nhiên, vốn của một nước sẽ đi vào nông nghiệp trước, rồi chế tạo, rồi ngoại thương; thành thị lớn lên theo thặng dư của nông thôn. Ở châu Âu sau La Mã, thứ tự bị đảo: ngoại thương và chế tạo thành thị đến trước, rồi mới kéo nông thôn đi lên. Chương này giải thích cơ chế của trật tự ngược đó, và kết luận rằng nó chậm và bấp bênh hơn trật tự tự nhiên.
+
+**Thặng dư của đất (surplus produce).** Phần sản phẩm của đất còn lại sau khi đã nuôi những người trực tiếp canh tác. Ví dụ minh hoạ: một điền sản sản xuất lương thực đủ nuôi 1.100 người, trong đó 100 người là nông dân canh tác; thặng dư là phần đủ nuôi 1.000 người còn lại. Câu hỏi then chốt của chương là đại điền chủ dùng thặng dư này vào việc gì, vì cách dùng nó quyết định ai phụ thuộc vào ai.
+
+**Người phụ thuộc (retainers, dependants).** Người sống nhờ hoàn toàn vào một người khác và vì thế phải vâng lệnh người đó. Thời phong kiến, đó là người hầu trong nhà lãnh chúa và tá điền trên đất của ông. Ví dụ trong chương: Cameron xứ Lochaber, với tô chưa đến 500 bảng một năm, đưa được 800 người theo mình vào cuộc nổi dậy năm 1745. Khái niệm này quan trọng vì Smith cho rằng quyền lực của lãnh chúa đến từ số người phụ thuộc, không đến từ luật.
+
+**Nuôi trực tiếp và nuôi gián tiếp.** Nuôi trực tiếp là trả toàn bộ sinh kế cho một người (người hầu, tá điền). Nuôi gián tiếp là trả tiền mua hàng, trong giá hàng có tiền công của nhiều người thợ, nhưng mỗi người thợ chỉ nhận từ mình một phần nhỏ sinh kế. Ví dụ trong chương: người có 10.000 bảng một năm thời phong kiến nuôi trực tiếp có lẽ 1.000 gia đình; ở thời Smith, ông tiêu hết số đó mà nuôi trực tiếp không đến 20 người, dù gián tiếp có thể nuôi bằng hoặc hơn. Người thợ sống nhờ 100 hay 1.000 khách hàng thì không phụ thuộc vào ai.
+
+**Người thuê tuỳ ý chủ và hợp đồng thuê dài hạn (tenant at will, lease).** Người thuê tuỳ ý chủ có thể bị đuổi bất cứ lúc nào, nên phải chiều mọi đòi hỏi của chủ. Người có hợp đồng thuê dài hạn được giữ đất trong một thời hạn ghi rõ, chủ không đòi được gì ngoài hợp đồng và luật. Ví dụ minh hoạ: một tá điền bỏ tiền đào mương thoát nước, cần mười năm mới thu hồi được; anh ta chỉ dám làm nếu hợp đồng cho giữ đất ít nhất từng ấy năm. Hợp đồng dài hạn vừa làm tá điền độc lập, vừa là điều kiện để họ đầu tư cải tạo đất.
+
+**Quyền con trưởng và quyền vĩnh viễn (primogeniture, entails).** Quyền con trưởng là luật để toàn bộ đất đai cho con trai cả. Quyền vĩnh viễn là ràng buộc pháp lý cấm người thừa kế bán hay chia điền sản, buộc nó truyền nguyên vẹn qua các đời. Ví dụ minh hoạ: một điền sản 10.000 mẫu, nếu chia đều cho năm người con thì thành năm điền sản 2.000 mẫu và có thể được bán từng phần; với hai luật này, nó vẫn nguyên một khối qua nhiều thế hệ. Smith cho rằng chúng giữ đất ngoài thị trường, làm ít người được làm tiểu chủ, và vì thế làm chậm cải tạo nông thôn.
+
+**Giá độc quyền (monopoly price) của đất.** Giá cao hơn mức cạnh tranh, xảy ra khi người bán quá ít so với người muốn mua. Ở châu Âu, vì ít đất được đem bán mà nhiều vốn muốn mua, đất bán với giá cao đến mức tô thu được không đủ trả lãi của số tiền mua. Ví dụ minh hoạ: mua một mảnh đất 1.000 bảng, nếu gửi số tiền đó cho vay được 40 bảng lãi mỗi năm, mà đất chỉ cho 30 bảng tô, thì mua đất thiệt hơn cho vay. Khái niệm này giải thích vì sao vốn nhỏ không chảy vào nông nghiệp ở châu Âu, trái với Bắc Mỹ.
+
+**Hệ quả không chủ đích (unintended consequences).** Kết quả xã hội không ai trong những người hành động nhắm tới. Trong chương: đại điền chủ chỉ muốn đồ xa xỉ, nhà buôn chỉ muốn kiếm lời, nhưng hành động của họ cộng lại đã phá chế độ phong kiến và đem trật tự đến nông thôn. Đây là cùng một ý với "bàn tay vô hình", nhưng áp dụng cho sự thay đổi chính trị chứ không chỉ cho giá cả.
+
+## Nội dung chi tiết
 
 ### 1. Kênh thứ nhất: thị trường
 
-- Thành phố công thương cung cấp thị trường lớn và sẵn cho sản phẩm thô của nông thôn, khuyến khích canh tác và cải tạo. Lợi ích này không chỉ cho nước có thành phố mà, ở mức độ nào đó, cho mọi nước thành phố có buôn bán. Với tất cả, thành phố là thị trường cho một phần sản phẩm thô hoặc chế tạo, và do đó khuyến khích cần cù và cải tạo.
-- Vùng nông thôn ngay quanh thành phố được lợi nhiều nhất: sản phẩm ít tốn chi phí chở, nên nhà buôn có thể trả giá tốt hơn cho người trồng mà vẫn bán cho người tiêu dùng rẻ như hàng từ nơi xa.
+Smith mở chương bằng nhận xét rằng sự tăng lên và giàu có của các thành phố công thương góp vào cải tạo và canh tác nông thôn theo ba cách. Cách thứ nhất là cung cấp thị trường.
+
+Thành phố công thương là một thị trường lớn và luôn sẵn cho sản phẩm thô của nông thôn. Có chỗ bán, người nông dân có lý do để canh tác nhiều hơn và cải tạo đất. Lợi ích này không chỉ dành cho nước có thành phố đó: ở một mức nào đó, mọi nước mà thành phố buôn bán cùng đều được hưởng. Với tất cả các nước đó, thành phố là nơi tiêu thụ một phần sản phẩm thô hoặc hàng chế tạo của họ, và do đó khuyến khích sự cần cù và cải tạo ở họ.
+
+Nhưng vùng nông thôn ngay quanh thành phố được lợi nhiều nhất. Lý do là chi phí vận chuyển: sản phẩm của vùng gần ít tốn tiền chở, nên nhà buôn có thể trả cho người trồng giá cao hơn mà vẫn bán cho người tiêu dùng rẻ như hàng chở từ nơi xa đến. Phần tiền chở tiết kiệm được chuyển thành thu nhập cao hơn cho nông dân ven đô.
 
 ### 2. Kênh thứ hai: nhà buôn mua đất
 
-- Của cải tích luỹ của thị dân thường được dùng để mua đất bán ra, phần lớn thường còn chưa canh tác. Nhà buôn thường mong trở thành quý ông nông thôn, và khi thành rồi thì thường là người cải tạo giỏi nhất.
-- Lý do là thói quen: nhà buôn quen tiêu tiền chủ yếu vào dự án sinh lời; quý ông quen tiêu tiền chủ yếu vào chi tiêu. Nhà buôn thường thấy tiền mình đi ra rồi quay về kèm lợi nhuận; quý ông khi đã tiêu thì hiếm khi mong thấy lại đồng nào.
-- Thói quen khác nhau ảnh hưởng đến tính khí: nhà buôn thường là người kinh doanh bạo dạn; quý ông thường rụt rè. Nhà buôn không ngại bỏ một lần một khoản vốn lớn để cải tạo đất khi có triển vọng hợp lý giá trị đất tăng tương xứng với chi phí. Quý ông, nếu có vốn (điều không phải lúc nào cũng có), hiếm khi dám dùng như thế; nếu có cải tạo, thường không bằng vốn mà bằng phần tiết kiệm được từ thu nhập hằng năm.
-- Ai từng sống trong một thành phố thương mại giữa một vùng chưa cải tạo đều thấy nhà buôn hăng hái hơn quý ông nông thôn bao nhiêu. Thói quen trật tự, tiết kiệm và chú ý mà nghề buôn rèn cho nhà buôn làm ông hợp hơn nhiều với việc thực hiện mọi dự án cải tạo có lãi và thành công.
+Cách thứ hai: của cải mà thị dân tích luỹ được thường được dùng để mua những mảnh đất đem bán, mà phần lớn trong số đó còn chưa được canh tác. Nhà buôn thường mong trở thành quý ông nông thôn, và khi đã thành thì thường là người cải tạo đất giỏi nhất.
+
+Smith giải thích điều này bằng **thói quen tiêu tiền** khác nhau của hai tầng lớp:
+
+| | Nhà buôn | Quý ông nông thôn |
+|---|---|---|
+| Thói quen | Tiêu tiền chủ yếu vào dự án sinh lời | Tiêu tiền chủ yếu vào chi tiêu |
+| Kinh nghiệm | Thường thấy tiền đi ra rồi quay về kèm lợi nhuận | Tiền đã tiêu thì hiếm khi mong thấy lại đồng nào |
+| Tính khí | Bạo dạn | Rụt rè |
+| Cách cải tạo đất | Không ngại bỏ một lần một khoản vốn lớn, nếu có triển vọng hợp lý rằng giá trị đất sẽ tăng tương xứng với chi phí | Nếu có vốn (điều không phải lúc nào cũng có) thì hiếm khi dám dùng như thế; nếu có cải tạo thì thường chỉ bằng phần tiết kiệm được từ thu nhập hằng năm |
+
+Smith viện dẫn kinh nghiệm chung: ai từng sống trong một thành phố thương mại nằm giữa một vùng chưa được cải tạo đều thấy nhà buôn hăng hái trong việc cải tạo đất hơn quý ông nông thôn bao nhiêu. Ngoài ra, những thói quen trật tự, tiết kiệm và chú ý mà nghề buôn rèn luyện cho nhà buôn làm ông hợp hơn nhiều với việc thực hiện bất kỳ dự án cải tạo nào cho có lãi và thành công.
 
 ### 3. Kênh thứ ba: trật tự, chính quyền tốt và tự do
 
-- Thứ ba và cuối cùng, thương mại và chế tạo dần đưa vào trật tự và chính quyền tốt, và cùng với đó là tự do và an ninh của cá nhân, cho dân quê, những người trước đó sống trong tình trạng gần như chiến tranh liên miên với láng giềng và phụ thuộc như nô lệ vào bề trên.
-- Đây là kênh ít được nhận ra nhất nhưng quan trọng nhất. Ông Hume là tác giả duy nhất Smith biết đã nhận xét về nó.
+Cách thứ ba, và cuối cùng: thương mại và chế tạo dần đưa trật tự, chính quyền tốt, và cùng với chúng là tự do và an ninh cá nhân, đến cho dân quê. Trước đó, dân quê sống trong tình trạng gần như chiến tranh liên miên với láng giềng, và phụ thuộc như nô lệ vào bề trên của họ.
+
+Smith nói đây là kênh ít được nhận ra nhất, nhưng là quan trọng nhất trong ba kênh. Theo hiểu biết của ông, David Hume là tác giả duy nhất từng nhận xét về nó. Phần lớn chương (các mục từ 4 đến 11) dành để giải thích kênh này vận hành thế nào.
 
 ### 4. Đại điền chủ không có gì để mua thì chỉ có thể nuôi người
 
-- Ở một nước không có ngoại thương và không có chế tạo tinh, đại điền chủ không có gì để đổi phần lớn sản phẩm của đất vượt quá phần nuôi người canh tác, nên tiêu hết nó bằng lòng hiếu khách mộc mạc tại nhà. Nếu thặng dư đủ nuôi 100 hay 1.000 người, ông không làm gì khác được ngoài nuôi 100 hay 1.000 người.
-- Ông luôn có quanh mình đám đông người hầu và người phụ thuộc. Họ không có gì để đền đáp sự nuôi dưỡng, nên phải vâng lệnh ông như lính vâng lệnh ông hoàng trả lương cho họ.
-- Trước khi thương mại và chế tạo mở rộng ở châu Âu, lòng hiếu khách của người giàu và người lớn, từ vua đến nam tước nhỏ nhất, vượt quá mọi điều ta tưởng tượng ngày nay. Đại sảnh Westminster là phòng ăn của William Rufus và có khi chưa chắc đủ rộng cho khách của ông. Thomas Becket nổi tiếng hiếu khách vì cho rải cỏ khô sạch hay bấc theo mùa lên sàn đại sảnh, để các hiệp sĩ và cận vệ không có ghế ngồi không làm bẩn áo đẹp khi ngồi sàn ăn tiệc. Đại bá tước Warwick được nói đã tiếp đãi mỗi ngày 30.000 người tại các thái ấp của ông; dù có thể phóng đại, con số vẫn cho thấy quy mô rất lớn.
-- Lòng hiếu khách tương tự còn thấy ở nhiều vùng cao Scotland chỉ vài năm trước, và dường như phổ biến ở mọi dân tộc ít biết đến thương mại và chế tạo. Tiến sĩ Pocock kể đã thấy một tù trưởng Ả Rập ăn giữa phố một thị trấn nơi ông vừa bán gia súc, và mời mọi người qua đường, kể cả người ăn mày, ngồi cùng ăn.
+Điểm xuất phát của lập luận là một câu hỏi về chi tiêu. Ở một nước không có ngoại thương và không có chế tạo tinh, đại điền chủ không có gì để đổi lấy phần lớn sản phẩm của đất, tức phần vượt quá mức cần để nuôi người canh tác. Ông chỉ có một cách tiêu nó: dùng vào lòng hiếu khách mộc mạc tại nhà. Nếu thặng dư đủ nuôi 100 hay 1.000 người, ông không làm gì khác được với nó ngoài việc nuôi 100 hay 1.000 người.
+
+Kết quả là ông luôn có quanh mình một đám đông người hầu và người phụ thuộc. Họ không có gì để đền đáp việc được nuôi, nên phải vâng lệnh ông, như lính vâng lệnh ông hoàng trả lương cho họ. Nói cách khác, của ăn biến thành quyền lực.
+
+Smith đưa ra nhiều bằng chứng cho thấy lòng hiếu khách thời đó, từ vua đến nam tước nhỏ nhất, vượt quá mọi điều người thời ông có thể tưởng tượng:
+
+- Đại sảnh Westminster là phòng ăn của vua William Rufus, và có khi vẫn chưa chắc đủ rộng cho khách của ông.
+- Tổng giám mục Thomas Becket nổi tiếng hiếu khách vì cho rải cỏ khô sạch hay bấc (tuỳ mùa) lên sàn đại sảnh, để các hiệp sĩ và cận vệ không có ghế ngồi khỏi làm bẩn quần áo đẹp khi ngồi sàn ăn tiệc.
+- Đại bá tước Warwick được nói đã tiếp đãi mỗi ngày 30.000 người tại các thái ấp của ông. Dù con số có thể phóng đại, nó vẫn cho thấy quy mô rất lớn.
+- Lòng hiếu khách tương tự còn thấy ở nhiều vùng cao Scotland chỉ vài năm trước khi Smith viết, và dường như phổ biến ở mọi dân tộc ít biết đến thương mại và chế tạo.
+- Tiến sĩ Pocock kể đã thấy một tù trưởng Ả Rập ngồi ăn giữa phố của một thị trấn nơi ông vừa bán gia súc, và mời mọi người qua đường, kể cả người ăn mày, ngồi xuống ăn cùng.
 
 ### 5. Tá điền cũng phụ thuộc như người hầu
 
-- Người chiếm hữu đất về mọi mặt phụ thuộc vào đại điền chủ như người hầu của ông. Ngay cả những người không phải nông nô cũng là người thuê tuỳ ý chủ, trả một khoản tô không hề tương xứng với phần sinh kế mà đất cho họ.
-- Một crown (đồng tiền Anh bằng 5 shilling; 1 bảng = 20 shilling, 1 shilling = 12 penny), nửa crown, một con cừu, một con cừu non, vài năm trước là mức tô thông thường ở vùng cao Scotland cho mảnh đất nuôi được một gia đình. Ở vài nơi vẫn vậy đến nay, dù số tiền đó ở đó không mua được nhiều hơn nơi khác.
-- Ở nơi thặng dư của điền sản lớn phải tiêu ngay trên điền sản, chủ thường thấy tiện hơn khi một phần được tiêu ở xa nhà mình, miễn là người tiêu nó phụ thuộc ông như người hầu, để tránh phiền vì khách quá đông hay gia đình quá lớn. Một người thuê tuỳ ý chủ, có đất đủ nuôi gia đình mà chỉ trả nhỉnh hơn một khoản tô danh nghĩa (quit-rent), phụ thuộc ông chẳng kém người hầu nào, và phải vâng lệnh không điều kiện. Chủ nuôi người hầu trong nhà mình và nuôi tá điền ở nhà của họ; sinh kế của cả hai đều nhờ lòng tốt của ông, và tiếp tục hay không tuỳ ý ông.
+Không chỉ người hầu trong nhà mà cả người canh tác đất cũng phụ thuộc vào đại điền chủ về mọi mặt. Ngay cả những người không phải nông nô cũng là người thuê tuỳ ý chủ: chủ có thể lấy lại đất bất cứ lúc nào, và họ trả một khoản tô không hề tương xứng với phần sinh kế mà đất đem lại cho họ.
+
+Ví dụ của Smith về mức tô ở vùng cao Scotland vài năm trước: mức tô thông thường cho một mảnh đất nuôi được cả một gia đình chỉ là một crown, nửa crown, một con cừu hay một con cừu non. Để hình dung, hệ thống tiền Anh thời đó như sau:
+
+| Đơn vị | Giá trị |
+|---|---|
+| 1 bảng (pound) | 20 shilling |
+| 1 shilling | 12 penny |
+| 1 crown | 5 shilling, tức một phần tư bảng |
+
+Ở vài nơi mức tô này vẫn còn đến thời Smith, dù số tiền đó ở đó không mua được nhiều hơn ở nơi khác. Tức là tô gần như chỉ mang tính tượng trưng.
+
+Vì sao chủ đất chấp nhận mức tô thấp như vậy? Smith giải thích: khi thặng dư của một điền sản lớn buộc phải được tiêu ngay trên điền sản, chủ thường thấy tiện hơn nếu một phần được tiêu ở xa nhà mình, để khỏi phiền vì khách quá đông hay gia đình quá lớn, miễn là người tiêu nó vẫn phụ thuộc ông như người hầu. Một người thuê tuỳ ý chủ, có đất đủ nuôi gia đình mà chỉ trả nhỉnh hơn một khoản tô danh nghĩa (quit-rent), phụ thuộc chủ không kém người hầu nào, và phải vâng lệnh ông không điều kiện. Khác biệt duy nhất: chủ nuôi người hầu trong nhà mình, còn nuôi tá điền ở nhà của tá điền. Sinh kế của cả hai đều nhờ lòng tốt của ông, và còn tiếp tục hay không là tuỳ ý ông.
 
 ### 6. Quyền lực của lãnh chúa không bắt nguồn từ luật phong kiến
 
-- Quyền lực mà đại điền chủ tất yếu có đối với tá điền và người hầu trong tình trạng đó là nền tảng quyền lực của nam tước thời xưa. Họ tất yếu thành thẩm phán thời bình và chủ tướng thời chiến của mọi người sống trên đất mình. Họ giữ được trật tự và thi hành luật trong lãnh địa, vì mỗi người có thể dồn toàn bộ sức mạnh dân cư chống lại bất công của bất kỳ ai. Không ai khác có đủ quyền để làm thế. Nhà vua càng không.
-- Thời xưa vua chỉ là đại điền chủ lớn nhất trong lãnh thổ, được các đại điền chủ khác tôn kính vì phòng thủ chung chống kẻ thù bên ngoài. Để buộc trả một món nợ nhỏ trên đất của một đại điền chủ, nơi mọi cư dân đều có vũ khí và quen đoàn kết, vua phải tốn công sức gần như dập một cuộc nội chiến. Vì vậy vua phải giao quyền tư pháp ở phần lớn đất nước cho những người có khả năng thực thi, và giao quyền chỉ huy dân quân cho những người mà dân quân chịu vâng lệnh.
-- Smith bác bỏ quan niệm cho rằng quyền tài phán lãnh thổ bắt nguồn từ luật phong kiến. Quyền tài phán cao nhất về dân sự và hình sự, quyền mộ quân, đúc tiền, và ra luật lệ cho dân trong lãnh địa đều là những quyền mà đại điền chủ có nhiều thế kỷ trước khi tên gọi luật phong kiến được biết ở châu Âu. Lãnh chúa Saxon ở Anh có quyền lực và tài phán lớn trước Cuộc chinh phục (1066) không kém lãnh chúa Norman sau đó, nhưng luật phong kiến chỉ thành thông luật Anh sau Cuộc chinh phục. Ở Pháp, các đại lãnh chúa đã có quyền tài phán rộng nhất từ lâu trước khi luật phong kiến du nhập. Những quyền đó tất yếu xuất phát từ tình trạng sở hữu và tập quán.
-- Bằng chứng gần: chưa đến 30 năm trước, ông Cameron xứ Lochaber ở Scotland, không có giấy uỷ quyền pháp lý nào, không phải nghị sĩ quý tộc, thậm chí không phải người nhận đất trực tiếp từ vua mà chỉ là chư hầu của Công tước Argyle, cũng không phải thẩm phán hoà giải, vẫn thực thi quyền tài phán hình sự cao nhất đối với dân của mình. Người ta nói ông làm việc đó rất công bằng, dù không có thủ tục nào, và có lẽ hoàn cảnh vùng đó buộc ông làm vậy để giữ trật tự. Nhà quý tộc ấy, với tô chưa bao giờ vượt quá 500 bảng một năm, năm 1745 đã đưa 800 người của mình theo ông vào cuộc nổi dậy.
+Từ đó, Smith giải thích nguồn gốc quyền lực của các nam tước thời xưa. Quyền đối với tá điền và người hầu mà đại điền chủ tất yếu có trong tình trạng trên chính là nền tảng quyền lực của họ. Họ tất yếu trở thành thẩm phán thời bình và chủ tướng thời chiến của mọi người sống trên đất mình. Họ giữ được trật tự và thi hành được luật trong lãnh địa, vì mỗi người có thể dồn toàn bộ sức mạnh của dân cư để chống lại sự bất công của bất kỳ ai. Không ai khác có đủ quyền để làm như vậy, nhà vua càng không.
+
+Lý do là thời xưa vua chỉ là đại điền chủ lớn nhất trong lãnh thổ, được các đại điền chủ khác tôn kính vì nhu cầu cùng phòng thủ chống kẻ thù bên ngoài. Muốn buộc ai đó trả một món nợ nhỏ trên đất của một đại điền chủ, nơi mọi cư dân đều có vũ khí và quen đứng cùng nhau, vua phải bỏ công sức gần như để dập một cuộc nội chiến. Vì thế vua buộc phải giao quyền tư pháp ở phần lớn đất nước cho những người có khả năng thực thi nó, và giao quyền chỉ huy dân quân cho những người mà dân quân chịu vâng lệnh.
+
+Smith bác bỏ quan niệm phổ biến rằng quyền tài phán của lãnh chúa trên lãnh thổ của mình bắt nguồn từ luật phong kiến. Quyền tài phán cao nhất về dân sự và hình sự, quyền mộ quân, quyền đúc tiền, quyền ra luật lệ cho dân trong lãnh địa: đại điền chủ đã có những quyền này nhiều thế kỷ trước khi cái tên "luật phong kiến" được biết đến ở châu Âu.
+
+- Ở Anh, các lãnh chúa Saxon trước Cuộc chinh phục năm 1066 có quyền lực và quyền tài phán không kém các lãnh chúa Norman sau đó, trong khi luật phong kiến chỉ trở thành thông luật Anh sau Cuộc chinh phục.
+- Ở Pháp, các đại lãnh chúa đã có quyền tài phán rộng nhất từ lâu trước khi luật phong kiến du nhập.
+
+Kết luận của Smith: những quyền đó tất yếu xuất phát từ **tình trạng sở hữu và tập quán**, không phải từ văn bản luật.
+
+Bằng chứng gần với thời Smith nhất là ông Cameron xứ Lochaber ở Scotland. Chưa đến 30 năm trước khi Smith viết, ông này không có giấy uỷ quyền pháp lý nào, không phải quý tộc có ghế trong nghị viện, thậm chí không phải người nhận đất trực tiếp từ vua mà chỉ là chư hầu của Công tước Argyle, cũng không phải thẩm phán hoà giải, vậy mà vẫn thực thi quyền tài phán hình sự cao nhất đối với dân của mình. Người ta nói ông xử rất công bằng, dù không theo thủ tục nào, và có lẽ hoàn cảnh vùng đó buộc ông phải làm vậy để giữ trật tự. Với khoản tô chưa bao giờ vượt quá 500 bảng một năm, năm 1745 ông đã đưa 800 người của mình theo ông vào cuộc nổi dậy. Con số này cho thấy rõ: quyền lực đến từ số người phụ thuộc, không đến từ thu nhập bằng tiền hay từ tước vị.
 
 ### 7. Luật phong kiến là mưu toan kiềm chế, và nó thất bại
 
-- Luật phong kiến, khác với cách hiểu thông thường, có thể coi là một mưu toan làm giảm quyền lực của các đại lãnh chúa tự chủ (allodial). Nó lập một thứ bậc phục tùng có quy củ, kèm một loạt nghĩa vụ và dịch vụ, từ vua xuống điền chủ nhỏ nhất. Khi chủ đất còn vị thành niên, tô và quản lý đất rơi vào tay bề trên trực tiếp; với đại điền chủ thì vào tay vua, người phải nuôi dưỡng, giáo dục người thừa kế, và với tư cách giám hộ được quyền quyết định hôn nhân của họ, miễn là không làm điều không xứng với địa vị.
-- Nhưng dù thể chế này tất yếu củng cố quyền vua và làm yếu đại điền chủ, nó không thiết lập được trật tự và chính quyền tốt, vì không thay đổi được tình trạng sở hữu và tập quán, gốc rễ của sự rối loạn. Chính quyền vẫn quá yếu ở đầu và quá mạnh ở các chi, và sự mạnh quá mức ở các chi là nguyên nhân yếu ở đầu. Sau khi lập chế độ thứ bậc phong kiến, vua vẫn không ngăn được bạo lực của lãnh chúa; họ vẫn gây chiến theo ý mình, với nhau và rất thường với vua, và nông thôn vẫn là cảnh bạo lực, cướp bóc, hỗn loạn.
+Ngược với cách hiểu thông thường, Smith cho rằng luật phong kiến có thể được coi là một **mưu toan làm giảm** quyền lực của các đại lãnh chúa tự chủ (allodial, tức người sở hữu đất không phải chịu bề trên nào). Nó làm điều đó bằng hai cách:
+
+- Lập một thứ bậc phục tùng có quy củ, kèm một loạt nghĩa vụ và dịch vụ, từ vua xuống tới điền chủ nhỏ nhất.
+- Lập quyền giám hộ: khi chủ đất còn vị thành niên, tô và việc quản lý đất rơi vào tay bề trên trực tiếp của họ. Với các đại điền chủ thì bề trên đó là vua; vua phải nuôi dưỡng và giáo dục người thừa kế, và với tư cách người giám hộ được quyền quyết định hôn nhân của họ, miễn là không gả họ vào chỗ không xứng với địa vị.
+
+Thể chế này tất yếu củng cố quyền vua và làm yếu đại điền chủ. Nhưng nó không lập được trật tự và chính quyền tốt, vì nó không thay đổi được tình trạng sở hữu và tập quán, vốn là gốc rễ của sự rối loạn. Chính quyền vẫn quá yếu ở đầu và quá mạnh ở các chi, và chính sự quá mạnh của các chi là nguyên nhân khiến đầu yếu. Sau khi lập chế độ thứ bậc phong kiến, vua vẫn không ngăn được bạo lực của lãnh chúa. Họ vẫn gây chiến theo ý mình, với nhau và rất thường là với chính vua, và nông thôn vẫn là cảnh bạo lực, cướp bóc và hỗn loạn.
 
 ### 8. Khoá kim cương: thương mại làm điều bạo lực thể chế không làm được
 
-- Điều mà mọi bạo lực của thể chế phong kiến không làm được, hoạt động lặng lẽ và khó nhận ra của ngoại thương và chế tạo dần làm được. Chúng dần cho đại điền chủ thứ để đổi toàn bộ thặng dư của đất, thứ mà họ có thể tự tiêu mà không chia với tá điền hay người hầu.
-- "Tất cả cho mình, không gì cho người khác" dường như ở mọi thời đại là châm ngôn đê tiện của những kẻ làm chủ nhân loại. Vì vậy, ngay khi tìm được cách tự tiêu toàn bộ giá trị tô, họ không còn muốn chia với ai. Họ sẵn sàng đổi phần nuôi, hay đúng hơn là giá trị phần nuôi, một nghìn người trong một năm lấy một đôi khoá kim cương, hay một thứ phù phiếm vô dụng nào đó. Khoá kim cương là của riêng ông, không ai khác có phần; còn theo cách tiêu cũ, ít nhất một nghìn người được chia. Với người phải quyết định chọn cái nào, khác biệt đó là quyết định.
-- Vì vậy, để thoả mãn thứ hư danh trẻ con nhất, tầm thường nhất và đê tiện nhất, họ dần đổi toàn bộ quyền lực và uy thế của mình.
+Điều mà mọi sự cưỡng ép của thể chế phong kiến không làm được, thì hoạt động lặng lẽ và khó nhận ra của ngoại thương và chế tạo dần làm được. Chúng đem đến cho đại điền chủ những thứ để đổi lấy toàn bộ thặng dư của đất, những thứ mà ông có thể tự mình tiêu dùng, không phải chia với tá điền hay người hầu.
+
+Smith giải thích động cơ bằng một nhận xét gay gắt về bản chất người có quyền: "Tất cả cho mình, không gì cho người khác" dường như ở mọi thời đại là châm ngôn đê tiện của những kẻ làm chủ nhân loại. Vì thế, ngay khi tìm được cách tự tiêu toàn bộ giá trị tô của mình, họ không còn muốn chia nó với ai.
+
+Hình ảnh nổi tiếng nhất của chương: họ sẵn sàng đổi phần nuôi một nghìn người trong một năm (hay đúng hơn là giá trị của phần nuôi đó) lấy **một đôi khoá kim cương**, hay một thứ phù phiếm vô dụng tương tự. Khoá kim cương là của riêng ông, không ai khác có phần; còn theo cách tiêu cũ, ít nhất một nghìn người được chia. Với người phải chọn giữa hai cách tiêu, chính khác biệt đó là yếu tố quyết định.
+
+Như vậy, để thoả mãn thứ hư danh trẻ con nhất, tầm thường nhất và đê tiện nhất, các đại điền chủ dần đổi đi toàn bộ quyền lực và uy thế của mình, mà không nhận ra mình đang đổi.
 
 ### 9. Nuôi trực tiếp và nuôi gián tiếp: vì sao thợ thủ công độc lập
 
-- Ở một nước không có ngoại thương và chế tạo tinh, một người có 10.000 bảng một năm không có cách dùng nào khác ngoài nuôi, có lẽ, một nghìn gia đình, tất cả theo lệnh ông. Ở châu Âu hiện nay, một người có 10.000 bảng có thể tiêu hết, và thường tiêu hết, mà không trực tiếp nuôi đến 20 người, hay sai khiến được quá 10 người hầu không đáng để sai khiến.
-- Gián tiếp, có lẽ ông nuôi bằng hoặc hơn số người như theo cách cũ. Vì dù lượng hàng quý mà ông đổi bằng toàn bộ thu nhập rất nhỏ, số thợ làm ra nó hẳn rất lớn. Giá cao của nó thường do tiền công của tất cả thợ và lợi nhuận của tất cả chủ trực tiếp của họ. Trả giá đó, ông gián tiếp trả tất cả tiền công và lợi nhuận đó, và do đó gián tiếp góp vào sinh kế của tất cả thợ và chủ.
-- Nhưng ông chỉ góp một phần rất nhỏ vào sinh kế của mỗi người: với rất ít người là 1/10, với nhiều người không đến 1/100, với một số không đến 1/1.000 hay 1/10.000 sinh kế hằng năm. Dù góp vào sinh kế của tất cả, họ đều ít nhiều độc lập với ông, vì nói chung họ đều sống được không cần ông.
-- Khi đại điền chủ tiêu tô vào nuôi tá điền và người hầu, mỗi người nuôi trọn vẹn tất cả những người mình nuôi. Khi họ tiêu vào nuôi thợ và nhà buôn, gộp lại có thể nuôi bằng hoặc hơn số người trước, nhưng mỗi người chỉ góp một phần rất nhỏ vào sinh kế của từng người. Mỗi nhà buôn hay thợ sống nhờ việc làm không phải cho một mà cho một trăm hay một nghìn khách hàng khác nhau. Dù nói cách nào đó họ mang ơn tất cả, họ không tuyệt đối phụ thuộc vào ai trong số đó.
+Để thấy vì sao việc mua hàng xa xỉ lại làm tan quyền lực, Smith so sánh hai cách tiêu cùng một khoản thu nhập:
+
+| | Nước không có ngoại thương và chế tạo tinh | Châu Âu thời Smith |
+|---|---|---|
+| Thu nhập | 10.000 bảng một năm | 10.000 bảng một năm |
+| Cách tiêu | Không có cách nào khác ngoài nuôi người | Mua hàng chế tạo tinh và đồ xa xỉ |
+| Số người nuôi trực tiếp | có lẽ 1.000 gia đình, tất cả theo lệnh ông | không đến 20 người |
+| Số người sai khiến được | cả 1.000 gia đình | không quá 10 người hầu, mà cũng "không đáng để sai khiến" |
+
+Smith thừa nhận rằng, xét gián tiếp, người giàu thời ông có lẽ vẫn nuôi bằng hoặc hơn số người theo cách cũ. Lượng hàng quý mà ông đổi bằng toàn bộ thu nhập có thể rất nhỏ, nhưng số thợ làm ra nó hẳn rất lớn. Giá cao của món hàng thường là tổng tiền công của tất cả những người thợ và lợi nhuận của tất cả những người chủ trực tiếp của họ. Khi trả giá đó, ông gián tiếp trả toàn bộ tiền công và lợi nhuận ấy, và do đó gián tiếp góp vào sinh kế của tất cả họ.
+
+Điểm mấu chốt là phần đóng góp của ông vào sinh kế **từng người** rất nhỏ:
+
+- với rất ít người là 1/10 sinh kế hằng năm;
+- với nhiều người không đến 1/100;
+- với một số người không đến 1/1.000, hay thậm chí 1/10.000.
+
+Vì thế, dù ông góp vào sinh kế của tất cả, họ đều ít nhiều độc lập với ông, vì nói chung họ đều sống được mà không cần ông.
+
+Smith tóm lại sự khác biệt như sau. Khi đại điền chủ tiêu tô vào nuôi tá điền và người hầu, mỗi người nuôi **trọn vẹn** tất cả những người mình nuôi. Khi họ tiêu tô vào mua hàng của thợ và nhà buôn, gộp lại họ có thể nuôi bằng hoặc hơn số người trước, nhưng mỗi người chỉ góp một phần rất nhỏ vào sinh kế của từng người. Mỗi nhà buôn hay thợ thủ công sống nhờ việc làm không phải cho một mà cho một trăm hay một nghìn khách hàng khác nhau. Theo một nghĩa nào đó họ mang ơn tất cả các khách hàng ấy, nhưng họ không tuyệt đối phụ thuộc vào ai.
+
+**Ví dụ hôm nay** (minh hoạ chung). Một người làm nghề tự do có 200 khách hàng, mỗi khách chiếm chưa đến 1% thu nhập, có thể từ chối một khách khó chịu mà không lo mất kế sinh nhai. Một người làm cho đúng một ông chủ duy nhất, nhận từ ông chủ toàn bộ thu nhập, thì khó làm vậy. Smith dùng đúng logic này để giải thích sự độc lập của thợ thủ công so với người hầu phong kiến.
 
 ### 10. Chuỗi hệ quả ở nông thôn: từ sa thải người hầu đến hợp đồng dài hạn
 
-- Khi chi tiêu cá nhân của đại điền chủ tăng dần, số người hầu tất yếu giảm dần, đến khi hết hẳn.
-- Cùng nguyên nhân dần khiến họ bỏ bớt phần tá điền không cần thiết. Trang trại được gộp lớn, người chiếm hữu đất giảm xuống số cần thiết để canh tác theo kỹ thuật canh tác và cải tạo chưa hoàn thiện thời đó, bất chấp những lời than phiền về giảm dân cư. Bằng cách bỏ những miệng ăn không cần thiết và đòi ở người nông dân trọn giá trị trang trại, chủ đất có được thặng dư lớn hơn, hay đúng hơn là giá của thặng dư lớn hơn, và thương nhân, chủ xưởng sớm cung cấp cho họ cách để tiêu nó cho bản thân như phần còn lại.
-- Cùng nguyên nhân tiếp tục tác động, họ muốn nâng tô vượt mức đất có thể mang lại ở tình trạng cải tạo lúc đó. Tá điền chỉ có thể đồng ý với một điều kiện: được bảo đảm quyền chiếm hữu trong một thời hạn đủ để thu hồi với lợi nhuận bất cứ khoản nào họ bỏ thêm vào cải tạo đất. Hư danh tốn kém của chủ đất khiến ông chấp nhận điều kiện này; đó là nguồn gốc của hợp đồng thuê dài hạn.
+Khi đại điền chủ có thứ để tiêu cho bản thân, một chuỗi thay đổi diễn ra ở nông thôn, mỗi bước đều do cùng một động cơ (muốn có thêm tiền để tiêu cho mình):
+
+1. **Giảm người hầu.** Chi tiêu cá nhân của chủ đất tăng dần, nên số người hầu tất yếu giảm dần, cho đến khi hết hẳn.
+2. **Gộp trang trại.** Cũng vì lý do đó, họ dần bỏ bớt phần tá điền không cần thiết. Trang trại được gộp lại cho lớn hơn, và số người chiếm hữu đất giảm xuống mức vừa đủ để canh tác theo kỹ thuật canh tác và cải tạo còn chưa hoàn thiện của thời đó, bất chấp những lời than phiền về việc nông thôn mất dân. Bằng cách bỏ những miệng ăn không cần thiết và đòi người nông dân trả trọn giá trị của trang trại, chủ đất có được một thặng dư lớn hơn (hay đúng hơn là giá của một thặng dư lớn hơn). Thương nhân và chủ xưởng nhanh chóng cung cấp cho họ cách để tiêu nốt phần này cho bản thân như phần còn lại.
+3. **Tăng tô.** Cùng nguyên nhân tiếp tục tác động, họ muốn nâng tô vượt mức mà đất có thể đem lại ở tình trạng cải tạo lúc đó.
+4. **Hợp đồng dài hạn.** Tá điền chỉ có thể đồng ý trả tô cao hơn với một điều kiện: được bảo đảm quyền giữ đất trong một thời hạn đủ dài để thu hồi, kèm lợi nhuận, mọi khoản họ bỏ thêm vào cải tạo đất. Hư danh tốn kém của chủ đất khiến ông chấp nhận điều kiện này. Smith cho rằng đó là nguồn gốc của hợp đồng thuê dài hạn.
+
+Kết quả của chuỗi này là một thoả thuận có lợi cho cả hai: chủ được tô cao hơn để tiêu xài, tá điền được thời hạn để đầu tư; và đất được cải tạo.
 
 ### 11. Tá điền độc lập, lãnh chúa thành thị dân
 
-- Ngay cả người thuê tuỳ ý chủ nhưng trả trọn giá trị đất cũng không hoàn toàn phụ thuộc chủ. Lợi ích kinh tế giữa hai bên là qua lại và ngang nhau, và người thuê đó sẽ không đem mạng sống hay tài sản ra phục vụ chủ. Nếu có hợp đồng dài hạn, anh ta hoàn toàn độc lập; và chủ không thể đòi ở anh ta dù một dịch vụ nhỏ nhất ngoài những gì ghi rõ trong hợp đồng hay luật chung và đã biết của đất nước áp đặt.
-- Tá điền thành độc lập và người hầu bị sa thải, đại điền chủ không còn khả năng cản trở việc thực thi công lý hay gây rối trật tự. Đã bán quyền trưởng nam, không như Esau vì bát cháo lúc đói và túng quẫn, mà trong sự phóng đãng của dư thừa, vì những thứ đồ chơi và đồ nữ trang hợp với trẻ con hơn là việc nghiêm túc của người lớn, họ trở nên tầm thường như bất kỳ thị dân hay nhà buôn khá giả nào. Một chính quyền thường trực được lập ở nông thôn cũng như ở thành thị, không ai đủ sức cản trở hoạt động của nó ở nơi này cũng như nơi kia.
+Khi quan hệ giữa chủ đất và tá điền trở thành quan hệ kinh tế, tính chất của nó thay đổi hẳn. Ngay cả người thuê tuỳ ý chủ, nhưng trả trọn giá trị của đất, cũng không hoàn toàn phụ thuộc chủ: lợi ích kinh tế giữa hai bên là qua lại và ngang nhau, và người thuê đó sẽ không đem mạng sống hay tài sản ra phục vụ chủ. Nếu có hợp đồng dài hạn, anh ta hoàn toàn độc lập; chủ không thể đòi ở anh ta dù một dịch vụ nhỏ nhất ngoài những gì ghi rõ trong hợp đồng hay những gì luật chung, đã biết, của đất nước áp đặt.
+
+Khi tá điền thành độc lập và người hầu bị sa thải, đại điền chủ không còn khả năng cản trở việc thực thi công lý hay gây rối trật tự ở nông thôn. Smith so sánh họ với Esau trong Kinh Thánh, người bán quyền trưởng nam cho em mình lấy một bát cháo đậu. Nhưng khác với Esau, người bán vì đói và túng quẫn, các lãnh chúa bán quyền trưởng nam của mình trong sự phóng đãng của dư thừa, để lấy những thứ đồ chơi và đồ nữ trang hợp với trẻ con hơn là với việc nghiêm túc của người lớn. Họ trở nên tầm thường như bất kỳ thị dân hay nhà buôn khá giả nào.
+
+Hệ quả chính trị là một chính quyền thường trực được lập ở nông thôn cũng như ở thành thị. Không còn ai đủ sức cản trở hoạt động của nó, ở nơi này cũng như nơi kia. Kênh thứ ba nêu ở mục 3 đã hoàn tất: trật tự và chính quyền tốt đến được với dân quê.
 
 ### 12. Lạc đề: vì sao nước thương mại hiếm dòng họ cổ
 
-- Smith nhận xét, dù hơi ngoài chủ đề, rằng các gia đình rất cổ, giữ một điền sản đáng kể từ cha truyền con qua nhiều đời, rất hiếm ở các nước thương mại. Ngược lại, chúng rất phổ biến ở các nước ít thương mại như Wales hay vùng cao Scotland. Lịch sử Ả Rập đầy những gia phả, và một bộ sử do một Khan Tartar viết, đã được dịch ra nhiều thứ tiếng châu Âu, gần như chỉ toàn gia phả, bằng chứng rằng các dòng họ cổ rất phổ biến ở các dân tộc đó.
-- Ở những nước người giàu chỉ có thể tiêu thu nhập bằng cách nuôi nhiều người nhất có thể, ông không có xu hướng tiêu vượt thu nhập, và lòng rộng lượng của ông hiếm khi mạnh đến mức muốn nuôi nhiều hơn mức có thể. Nhưng ở nơi ông có thể tiêu phần lớn thu nhập cho bản thân, chi tiêu của ông thường không có giới hạn, vì hư danh, hay tình yêu với bản thân, của ông không có giới hạn.
-- Vì vậy, ở các nước thương mại, của cải, dù có những luật nghiêm ngặt nhất để ngăn phung phí, hiếm khi ở lâu trong một gia đình. Ở các dân tộc giản dị thì ngược lại, chúng thường ở lại mà không cần luật nào; vì ở các dân tộc chăn nuôi như Tartar và Ả Rập, tính chất dễ tiêu hao của tài sản tất yếu khiến mọi luật như vậy là không thể.
+Smith dừng lại ở một nhận xét bên lề nhưng cùng logic. Những gia đình rất lâu đời, giữ một điền sản đáng kể truyền từ cha sang con qua nhiều đời, rất hiếm ở các nước thương mại. Ngược lại, chúng rất phổ biến ở các nước ít thương mại như xứ Wales hay vùng cao Scotland. Lịch sử Ả Rập đầy những gia phả; một bộ sử do một Khan Tartar viết, đã được dịch ra nhiều thứ tiếng châu Âu, gần như chỉ toàn gia phả. Đó là bằng chứng rằng các dòng họ cổ rất phổ biến ở các dân tộc này.
+
+Lời giải thích của Smith dựa vào giới hạn của chi tiêu:
+
+- Ở nơi người giàu chỉ có thể tiêu thu nhập bằng cách nuôi nhiều người nhất có thể, ông không có xu hướng tiêu vượt thu nhập, và lòng rộng lượng của ông hiếm khi mạnh đến mức muốn nuôi nhiều người hơn khả năng. Chi tiêu tự có giới hạn.
+- Ở nơi ông có thể tiêu phần lớn thu nhập cho bản thân, chi tiêu thường không có giới hạn, vì hư danh, hay tình yêu với bản thân, của ông không có giới hạn. Ông dễ tiêu vượt thu nhập và mất dần tài sản.
+
+Vì vậy, ở các nước thương mại, của cải hiếm khi ở lâu trong một gia đình, dù có những luật nghiêm ngặt nhất để ngăn phung phí. Ở các dân tộc giản dị thì ngược lại: của cải thường ở lại trong gia đình mà không cần luật nào. Hơn nữa, ở các dân tộc chăn nuôi như người Tartar và người Ả Rập, tài sản chủ yếu là gia súc, loại tài sản dễ tiêu hao, nên mọi luật kiểu đó (cấm bán, cấm chia) là không thể có. Dòng họ của họ tồn tại lâu không nhờ luật mà nhờ không có gì để phung phí.
 
 ### 13. Cuộc cách mạng không ai chủ đích
 
-- Một cuộc cách mạng có tầm quan trọng lớn nhất đối với hạnh phúc công chúng được hai tầng lớp gây ra, mà không ai có chút ý định phục vụ công chúng. Thoả mãn hư danh trẻ con nhất là động cơ duy nhất của đại điền chủ. Nhà buôn và thợ, ít lố bịch hơn nhiều, chỉ hành động vì lợi ích riêng, theo nguyên tắc người bán rong của họ là kiếm một xu ở bất cứ nơi nào có một xu để kiếm. Không ai trong họ biết hay thấy trước cuộc cách mạng lớn mà sự điên rồ của bên này và sự cần cù của bên kia đang dần mang lại.
-- Như vậy, ở phần lớn châu Âu, thương mại và chế tạo của thành thị, thay vì là kết quả, lại là nguyên nhân và dịp của cải tạo và canh tác nông thôn.
+Smith tổng kết kênh thứ ba bằng một trong những đoạn nổi tiếng nhất của sách. Một cuộc cách mạng có tầm quan trọng lớn nhất đối với hạnh phúc công chúng đã được gây ra bởi hai tầng lớp, mà không ai trong họ có chút ý định nào phục vụ công chúng:
+
+| Tầng lớp | Động cơ |
+|---|---|
+| Đại điền chủ | Động cơ duy nhất là thoả mãn hư danh trẻ con nhất |
+| Nhà buôn và thợ | Ít lố bịch hơn nhiều, nhưng cũng chỉ hành động vì lợi ích riêng, theo "nguyên tắc người bán rong" của họ: kiếm một xu ở bất cứ nơi nào có một xu để kiếm |
+
+Không ai trong hai tầng lớp ấy biết hay thấy trước cuộc cách mạng lớn mà sự điên rồ của bên này và sự cần cù của bên kia đang dần mang lại.
+
+Từ đó Smith rút ra kết luận về trật tự lịch sử: ở phần lớn châu Âu, thương mại và chế tạo của thành thị, đáng lẽ là **kết quả** của cải tạo và canh tác nông thôn (theo trật tự tự nhiên), lại trở thành **nguyên nhân và dịp** của nó.
 
 ### 14. Trật tự ngược thì chậm: châu Âu so với Bắc Mỹ
 
-- Trật tự này, vì trái với tiến trình tự nhiên, tất yếu vừa chậm vừa bấp bênh. So sánh tiến bộ chậm của các nước châu Âu, nơi của cải phụ thuộc rất nhiều vào thương mại và chế tạo, với tiến bộ nhanh của các thuộc địa Bắc Mỹ, nơi của cải dựa hoàn toàn trên nông nghiệp. Ở phần lớn châu Âu, dân số không được cho là gấp đôi trong ít hơn 500 năm. Ở nhiều thuộc địa Bắc Mỹ, dân số gấp đôi trong 20 hay 25 năm.
-- Ở châu Âu, quyền con trưởng và các loại quyền vĩnh viễn ngăn chia điền sản lớn, do đó ngăn tiểu chủ tăng lên. Mà tiểu chủ, người biết từng phần đất nhỏ của mình, nhìn nó với tình cảm mà tài sản, nhất là tài sản nhỏ, tự nhiên gợi lên, và vì thế không chỉ thích canh tác mà còn thích tô điểm nó, nói chung là người cải tạo cần cù, thông minh và thành công nhất trong mọi người cải tạo.
-- Các luật đó còn giữ quá nhiều đất ngoài thị trường, nên luôn có nhiều vốn muốn mua hơn đất được bán, và đất được bán luôn bán với giá độc quyền. Tô không bao giờ trả nổi lãi của tiền mua, lại còn phải sửa chữa và chịu các khoản phí khác mà tiền lãi không phải chịu.
-- Mua đất ở mọi nơi ở châu Âu là cách dùng vốn nhỏ ít lời nhất. Vì sự an toàn tốt hơn, một người có vốn vừa phải khi rút khỏi kinh doanh đôi khi chọn đặt vốn nhỏ vào đất. Người có nghề mà thu nhập đến từ nguồn khác cũng thường thích giữ tiền tiết kiệm của mình theo cách an toàn tương tự. Nhưng một thanh niên, thay vì theo nghề buôn hay một nghề nghiệp, lại dùng vốn 2 hoặc 3 nghìn bảng để mua và canh tác một mảnh đất nhỏ, có thể mong sống rất hạnh phúc và độc lập, nhưng phải từ bỏ mãi mãi mọi hy vọng giàu lớn hay nổi danh, điều mà dùng vốn cách khác có thể cho anh cơ hội như người khác. Người như vậy cũng vậy, dù không thể mong thành chủ đất lớn, thường không muốn làm tá điền.
-- Lượng đất nhỏ đưa ra chợ và giá cao của nó ngăn một lượng lớn vốn đi vào canh tác và cải tạo, mà nếu không thì đã đi vào đó. Ở Bắc Mỹ, ngược lại, 50 hay 60 bảng thường đủ để lập một đồn điền. Mua và cải tạo đất hoang ở đó là cách dùng vốn có lợi nhất cho cả vốn nhỏ lẫn vốn lớn, và là con đường thẳng nhất tới mọi giàu có và danh tiếng có thể có ở xứ đó. Đất ở đó gần như cho không, hay với giá thấp hơn nhiều giá trị sản phẩm tự nhiên, điều không thể có ở châu Âu hay ở bất cứ nước nào mọi đất đai đã là tài sản tư từ lâu.
-- Nếu điền sản được chia đều giữa các con khi chủ chết, đất sẽ thường được bán. Nhiều đất ra chợ đến mức không còn bán được giá độc quyền; tô tự do của đất sẽ gần hơn với lãi của tiền mua, và một vốn nhỏ có thể dùng vào mua đất có lời như cách khác.
+Nhưng vì trái với tiến trình tự nhiên, trật tự này tất yếu vừa chậm vừa bấp bênh. Smith chứng minh "chậm" bằng một phép so sánh về tốc độ tăng dân số, thước đo của sự thịnh vượng thời đó:
+
+| | Phần lớn châu Âu | Nhiều thuộc địa Bắc Mỹ |
+|---|---|---|
+| Của cải dựa vào | chủ yếu thương mại và chế tạo | hoàn toàn nông nghiệp |
+| Thời gian để dân số gấp đôi | không ít hơn 500 năm | 20 hay 25 năm |
+
+Vì sao nông nghiệp châu Âu chậm như vậy? Smith chỉ ra các thể chế đất đai còn sót lại từ thời phong kiến:
+
+**Quyền con trưởng và các quyền vĩnh viễn** ngăn chia nhỏ các điền sản lớn, do đó ngăn số tiểu chủ tăng lên. Mà tiểu chủ là người cải tạo giỏi nhất: họ biết từng góc đất nhỏ của mình, nhìn nó với tình cảm mà tài sản, nhất là tài sản nhỏ, tự nhiên gợi lên, nên không chỉ thích canh tác mà còn thích tô điểm nó. Nói chung họ là người cải tạo cần cù, thông minh và thành công nhất.
+
+**Giá độc quyền của đất.** Các luật đó còn giữ quá nhiều đất ngoài thị trường. Vì thế luôn có nhiều vốn muốn mua hơn số đất được đem bán, và đất được bán luôn bán với giá độc quyền. Tô thu được không bao giờ trả nổi lãi của số tiền mua, lại còn phải chịu chi phí sửa chữa và các khoản phí khác mà tiền cho vay lấy lãi không phải chịu.
+
+Hệ quả là ở mọi nơi ở châu Âu, mua đất là cách dùng vốn nhỏ **ít lời nhất**:
+
+- Người có vốn vừa phải khi rút khỏi kinh doanh đôi khi chọn đặt vốn vào đất, vì an toàn hơn.
+- Người có nghề, sống bằng thu nhập từ nguồn khác, cũng thường thích giữ tiền tiết kiệm theo cách an toàn đó.
+- Nhưng một thanh niên, thay vì theo nghề buôn hay một nghề chuyên môn, lại dùng vốn 2 hoặc 3 nghìn bảng để mua và tự canh tác một mảnh đất nhỏ, thì có thể mong sống rất hạnh phúc và độc lập, nhưng phải từ bỏ mãi mãi mọi hy vọng giàu lớn hay nổi danh, những điều mà dùng vốn cách khác có thể cho anh cơ hội như người khác. Người như vậy, dù không thể mong thành chủ đất lớn, cũng thường không muốn làm tá điền.
+
+Lượng đất ít ỏi được đưa ra chợ và giá cao của nó đã ngăn một lượng lớn vốn đi vào canh tác và cải tạo, vốn mà nếu không thì đã đi vào đó.
+
+Ở Bắc Mỹ thì ngược lại. 50 hay 60 bảng thường đủ để lập một đồn điền. Mua và khai phá đất hoang ở đó là cách dùng vốn có lợi nhất cho cả vốn nhỏ lẫn vốn lớn, và là con đường thẳng nhất tới mọi sự giàu có và danh tiếng có thể có ở xứ đó. Đất ở đó gần như cho không, hay có giá thấp hơn nhiều so với giá trị sản phẩm tự nhiên của nó, điều không thể có ở châu Âu hay ở bất cứ nước nào mà mọi đất đai đã là tài sản tư từ lâu.
+
+Smith chỉ ra cách sửa: nếu điền sản được chia đều cho các con khi chủ chết, đất sẽ thường xuyên được bán. Khi đó nhiều đất ra chợ đến mức không còn bán được giá độc quyền; tô tự do của đất sẽ tiến gần hơn tới lãi của số tiền mua, và một vốn nhỏ có thể dùng vào mua đất mà có lời như mọi cách dùng khác.
 
 ### 15. Đối chiếu Anh, Pháp, Tây Ban Nha – Bồ Đào Nha, Ý
 
-- Anh, nhờ đất màu mỡ, bờ biển dài so với diện tích và nhiều sông có thuyền đi được xuyên nội địa, thuận lợi như bất cứ nước lớn nào ở châu Âu để thành trung tâm ngoại thương, chế tạo bán xa và mọi cải tạo đi kèm. Từ đầu triều Elizabeth, pháp luật Anh đặc biệt chú trọng lợi ích thương mại và chế tạo, và không nước nào ở châu Âu, kể cả Hà Lan, có luật thuận lợi hơn cho loại hoạt động này. Thương mại và chế tạo vì thế tiến liên tục suốt thời kỳ đó.
-- Canh tác và cải tạo nông thôn cũng tiến dần, nhưng chậm hơn và ở khoảng cách xa so với thương mại và chế tạo. Phần lớn đất có lẽ đã được canh tác trước triều Elizabeth; một phần rất lớn vẫn còn hoang, và phần lớn đất đã canh tác vẫn chưa ở mức đáng lẽ phải có.
-- Luật Anh còn ưu ái nông nghiệp trực tiếp: trừ lúc khan hiếm, xuất khẩu ngũ cốc được tự do và còn được trợ cấp; khi lương thực dồi dào vừa phải, ngũ cốc nhập bị đánh thuế nặng tương đương cấm; gia súc sống bị cấm nhập mọi lúc trừ từ Ireland, và từ Ireland cũng chỉ mới được phép gần đây. Người canh tác vì thế có độc quyền đối với hai sản phẩm lớn nhất và quan trọng nhất của đất là bánh mì và thịt, so với đồng bào mình. Những khuyến khích này, dù Smith sẽ chứng minh ở sau rằng phần lớn là ảo, ít nhất cho thấy ý tốt của pháp luật đối với nông nghiệp.
-- Nhưng quan trọng hơn hết là tầng lớp tiểu nông ở Anh được làm cho an toàn, độc lập và được kính trọng nhất mà luật có thể làm. Vì vậy, không nước nào có quyền con trưởng, phải nộp thuế thập phân, và chấp nhận các quyền vĩnh viễn trong một số trường hợp dù trái tinh thần luật, lại có thể khuyến khích nông nghiệp hơn Anh. Thế mà tình trạng canh tác của Anh vẫn như vậy. Smith hỏi: sẽ ra sao nếu luật không khuyến khích trực tiếp nông nghiệp ngoài những gì gián tiếp từ thương mại, và để tiểu nông ở tình trạng như ở phần lớn các nước khác châu Âu? Đã hơn 200 năm từ đầu triều Elizabeth, khoảng thời gian dài bằng quãng thịnh vượng của con người thường kéo dài.
-- Pháp dường như có phần đáng kể trong ngoại thương gần một thế kỷ trước khi Anh nổi tiếng là nước thương mại. Đội tàu Pháp đáng kể theo quan niệm thời đó trước cuộc viễn chinh của Charles VIII đến Naples. Nhưng canh tác và cải tạo của Pháp nói chung kém Anh, vì luật Pháp chưa bao giờ khuyến khích nông nghiệp trực tiếp như Anh.
-- Ngoại thương của Tây Ban Nha và Bồ Đào Nha với phần còn lại châu Âu, dù chủ yếu bằng tàu nước ngoài, rất đáng kể; với thuộc địa thì bằng tàu của họ và lớn hơn nhiều nhờ sự giàu có và rộng lớn của thuộc địa. Nhưng nó chưa bao giờ đưa vào đáng kể các ngành chế tạo bán xa, và phần lớn đất của cả hai nước vẫn chưa canh tác. Ngoại thương Bồ Đào Nha lâu đời hơn mọi nước lớn ở châu Âu, trừ Ý.
-- Ý là nước lớn duy nhất ở châu Âu dường như được canh tác và cải tạo khắp mọi phần nhờ ngoại thương và chế tạo bán xa. Theo Guicciardini, trước cuộc xâm lược của Charles VIII, Ý được canh tác ở các vùng núi cằn nhất không kém các đồng bằng màu mỡ nhất. Vị trí thuận lợi và số lượng lớn các tiểu quốc độc lập lúc đó có lẽ góp phần không nhỏ. Tuy vậy, dù nhà sử học cận đại sáng suốt và dè dặt bậc nhất này nói vậy, cũng không phải không có khả năng Ý lúc đó không được canh tác tốt hơn Anh hiện nay.
+Smith so sánh bốn trường hợp để cho thấy thương mại không tự động kéo nông nghiệp đi lên, và luật pháp về đất đai đóng vai trò lớn.
+
+**Anh.** Nhờ đất màu mỡ, bờ biển dài so với diện tích, và nhiều sông có thuyền đi được xuyên nội địa, Anh thuận lợi như bất cứ nước lớn nào ở châu Âu để trở thành trung tâm của ngoại thương, của chế tạo bán xa và mọi cải tạo đi kèm. Từ đầu triều Elizabeth, pháp luật Anh đặc biệt chú trọng lợi ích của thương mại và chế tạo; không nước nào ở châu Âu, kể cả Hà Lan, có luật thuận lợi hơn cho loại hoạt động này. Thương mại và chế tạo vì thế tiến liên tục suốt thời kỳ đó.
+
+Canh tác và cải tạo nông thôn cũng tiến dần, nhưng chậm hơn và tụt xa phía sau thương mại và chế tạo. Phần lớn đất có lẽ đã được canh tác từ trước triều Elizabeth; một phần rất lớn vẫn còn hoang, và phần lớn đất đã canh tác vẫn chưa đạt mức đáng lẽ phải có.
+
+Luật Anh còn ưu ái nông nghiệp trực tiếp:
+
+- trừ lúc khan hiếm, xuất khẩu ngũ cốc được tự do, và còn được trợ cấp;
+- khi lương thực dồi dào ở mức vừa phải, ngũ cốc nhập khẩu bị đánh thuế nặng tương đương lệnh cấm;
+- gia súc sống bị cấm nhập mọi lúc, trừ từ Ireland, và ngay cả từ Ireland cũng chỉ mới được phép gần đây.
+
+Nhờ đó người canh tác có độc quyền, so với đồng bào mình, đối với hai sản phẩm lớn nhất và quan trọng nhất của đất là bánh mì và thịt. Smith báo trước rằng ở Quyển IV ông sẽ chứng minh những khuyến khích này phần lớn là ảo, nhưng ít nhất chúng cho thấy pháp luật có ý tốt với nông nghiệp.
+
+Quan trọng hơn tất cả những khuyến khích đó: tầng lớp tiểu nông ở Anh được làm cho an toàn, độc lập và được kính trọng nhất mà luật pháp có thể làm. Smith kết luận rằng không nước nào có quyền con trưởng, phải nộp thuế thập phân cho nhà thờ, và chấp nhận các quyền vĩnh viễn trong một số trường hợp (dù trái tinh thần luật), lại có thể khuyến khích nông nghiệp hơn Anh. Thế mà tình trạng canh tác của Anh vẫn chỉ như vậy. Ông hỏi: sẽ ra sao nếu luật không khuyến khích trực tiếp nông nghiệp ngoài những gì gián tiếp đến từ thương mại, và để tiểu nông ở tình trạng như ở phần lớn các nước khác ở châu Âu? Đã hơn 200 năm kể từ đầu triều Elizabeth, một khoảng thời gian dài bằng quãng mà sự thịnh vượng của con người thường kéo dài, mà công việc cải tạo vẫn chưa xong.
+
+**Pháp.** Pháp dường như đã có phần đáng kể trong ngoại thương gần một thế kỷ trước khi Anh nổi tiếng là nước thương mại. Đội tàu của Pháp đã đáng kể, theo quan niệm thời đó, trước cuộc viễn chinh của vua Charles VIII đến Naples. Nhưng canh tác và cải tạo của Pháp nói chung kém Anh, vì luật Pháp chưa bao giờ khuyến khích nông nghiệp trực tiếp như luật Anh.
+
+**Tây Ban Nha và Bồ Đào Nha.** Ngoại thương của hai nước với phần còn lại của châu Âu rất đáng kể, dù chủ yếu bằng tàu nước ngoài; ngoại thương với thuộc địa thì bằng tàu của chính họ, và lớn hơn nhiều nhờ sự giàu có và rộng lớn của các thuộc địa. Ngoại thương của Bồ Đào Nha còn lâu đời hơn mọi nước lớn ở châu Âu, trừ Ý. Nhưng ngoại thương ấy chưa bao giờ đưa vào được những ngành chế tạo bán xa đáng kể, và phần lớn đất của cả hai nước vẫn chưa được canh tác.
+
+**Ý.** Ý là nước lớn duy nhất ở châu Âu dường như được canh tác và cải tạo khắp mọi phần nhờ ngoại thương và chế tạo bán xa. Theo sử gia Guicciardini, trước cuộc xâm lược của Charles VIII, Ý được canh tác ở các vùng núi cằn nhất không kém các đồng bằng màu mỡ nhất. Vị trí thuận lợi của Ý và số lượng lớn các tiểu quốc độc lập lúc đó có lẽ góp phần không nhỏ. Dù vậy, Smith dè dặt rằng, mặc dù nhà sử học sáng suốt và thận trọng bậc nhất này nói như vậy, cũng không phải không có khả năng Ý lúc đó không được canh tác tốt hơn nước Anh hiện nay.
+
+Bảng tóm tắt:
+
+| Nước | Ngoại thương | Chế tạo bán xa | Nông nghiệp | Lý do theo Smith |
+|---|---|---|---|---|
+| Anh | lớn, luật ưu ái nhất châu Âu từ thời Elizabeth | phát triển | tiến nhưng chậm hơn nhiều, còn nhiều đất hoang, chưa xong sau hơn 200 năm | luật khuyến khích nông nghiệp trực tiếp, tiểu nông an toàn và độc lập |
+| Pháp | lớn gần một thế kỷ trước Anh | có | kém Anh | luật không khuyến khích nông nghiệp trực tiếp |
+| Tây Ban Nha, Bồ Đào Nha | lớn, nhất là với thuộc địa; Bồ Đào Nha lâu đời nhất trừ Ý | không đáng kể | phần lớn đất còn hoang | thương mại không sinh ra chế tạo |
+| Ý | lớn, sớm nhất | có | canh tác khắp nơi, kể cả núi cằn | vị trí và nhiều tiểu quốc; nhưng có thể không hơn Anh hiện nay |
 
 ### 16. Vốn thương mại bấp bênh; đất được cải tạo bền vững
 
-- Vốn mà một nước có được nhờ thương mại và chế tạo là tài sản rất bấp bênh và không chắc chắn, cho đến khi một phần của nó được giữ chắc và hiện thực hoá vào việc canh tác và cải tạo đất.
-- Người ta nói rất đúng rằng một nhà buôn không nhất thiết là công dân của nước nào. Nơi ông kinh doanh phần lớn không quan trọng với ông, và một chuyện khó chịu rất nhỏ cũng đủ khiến ông chuyển vốn, và cùng với nó là toàn bộ ngành nghề mà vốn đó nuôi, từ nước này sang nước khác. Không phần nào của vốn đó có thể nói là thuộc về một nước cụ thể cho đến khi nó được rải, như cách nói, trên mặt đất nước đó dưới dạng nhà cửa hay cải tạo lâu bền của đất.
-- Không còn dấu vết nào của sự giàu có lớn được nói là của phần lớn các thành phố Hanse, trừ trong sử sách mù mờ thế kỷ 13 và 14. Thậm chí không chắc một số thành phố đó ở đâu, hay tên Latin của vài thành phố ứng với thị trấn nào ở châu Âu.
-- Nhưng dù những bất hạnh của Ý cuối thế kỷ 15 và đầu thế kỷ 16 làm suy giảm rất nhiều thương mại và chế tạo của các thành phố Lombardy và Tuscany, các vùng này vẫn là những vùng đông dân và được canh tác tốt nhất châu Âu. Nội chiến ở Flanders và chính quyền Tây Ban Nha sau đó đã xua đuổi thương mại lớn của Antwerp, Ghent và Bruges, nhưng Flanders vẫn là một trong những tỉnh giàu, canh tác tốt và đông dân nhất châu Âu.
-- Những biến động thông thường của chiến tranh và chính quyền dễ dàng làm cạn nguồn giàu có chỉ đến từ thương mại. Nguồn đến từ cải tạo vững chắc hơn của nông nghiệp thì bền hơn nhiều, và không thể bị phá huỷ trừ bởi những biến động dữ dội hơn do sự cướp phá của các dân tộc thù địch và man rợ kéo dài một hai thế kỷ, như những biến động trước và sau sự sụp đổ của Đế quốc La Mã ở các tỉnh phía tây châu Âu.
+Chương kết thúc bằng luận điểm về "bấp bênh". Vốn mà một nước có được nhờ thương mại và chế tạo là một tài sản rất bấp bênh và không chắc chắn, cho đến khi một phần của nó được giữ chắc và hiện thực hoá vào việc canh tác và cải tạo đất.
+
+Lý do: người ta nói rất đúng rằng một nhà buôn không nhất thiết là công dân của nước nào. Nơi ông kinh doanh phần lớn không quan trọng với ông, và một chuyện khó chịu rất nhỏ cũng đủ khiến ông chuyển vốn, cùng với toàn bộ ngành nghề mà vốn đó nuôi, từ nước này sang nước khác. Không phần nào của vốn đó có thể nói là thuộc về một nước cụ thể cho đến khi nó được "rải" trên mặt đất nước đó dưới dạng nhà cửa hay những cải tạo lâu bền của đất.
+
+Smith đưa ra ba bằng chứng lịch sử:
+
+| Nơi | Chuyện gì xảy ra với thương mại | Còn lại gì |
+|---|---|---|
+| Các thành phố Liên minh Hanse | Sự giàu có lớn được nói tới trong sử sách mù mờ thế kỷ 13 và 14 | Không còn dấu vết nào; thậm chí không chắc một số thành phố đó ở đâu, hay tên Latin của vài thành phố ứng với thị trấn nào ở châu Âu |
+| Lombardy và Tuscany (Ý) | Thương mại và chế tạo suy giảm rất nhiều vì những bất hạnh của Ý cuối thế kỷ 15 và đầu thế kỷ 16 | Vẫn là những vùng đông dân và được canh tác tốt nhất châu Âu |
+| Flanders | Nội chiến và chính quyền Tây Ban Nha sau đó xua đuổi thương mại lớn khỏi Antwerp, Ghent và Bruges | Vẫn là một trong những tỉnh giàu, canh tác tốt và đông dân nhất châu Âu |
+
+Kết luận: những biến động thông thường của chiến tranh và chính quyền dễ dàng làm cạn nguồn giàu có chỉ đến từ thương mại. Nguồn giàu có đến từ những cải tạo vững chắc của nông nghiệp thì bền hơn nhiều; nó chỉ bị phá huỷ bởi những biến động dữ dội hơn nhiều, như sự cướp phá của các dân tộc thù địch và man rợ kéo dài một hai thế kỷ, giống những biến động trước và sau khi Đế quốc La Mã sụp đổ ở các tỉnh phía tây châu Âu. Đây cũng là lý do Smith cho rằng thương mại thành thị chỉ thực sự làm giàu bền vững cho một nước khi nó đã hoá thành đất đai được cải tạo, và là cầu nối sang Quyển IV, nơi ông phê phán hệ thống trọng thương.
 
 ## Luận điểm kinh tế cốt lõi
 

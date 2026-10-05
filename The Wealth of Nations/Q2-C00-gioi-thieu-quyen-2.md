@@ -96,35 +96,98 @@
 2. **Quan hệ giữa vốn và độ sâu của phân công là gì?** Tỷ lệ thuận: phân công chỉ chia nhỏ được theo tỷ lệ vốn đã tích luỹ, vì phân công sâu hơn đòi hỏi nhiều nguyên liệu và máy móc hơn cho mỗi người thợ.
 3. **Vì sao tích luỹ vốn lại tự dẫn đến năng suất cao hơn?** Vì người nắm vốn muốn tối đa hoá sản phẩm của vốn mình, nên tự tìm cách phân công hợp lý và trang bị máy móc tốt; vốn càng lớn thì khả năng làm điều đó càng lớn.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Vốn (stock).** Với Smith, vốn là một kho hàng hoá thật đã được để dành: lương thực để người lao động ăn, nguyên liệu để chế biến, dụng cụ và máy móc để làm việc. Vốn không phải là tiền; tiền chỉ là phương tiện để chuyển kho hàng ấy từ người này sang người khác. Ví dụ trong chương: người thợ dệt cần sẵn lương thực, sợi và khung cửi để sống và làm việc cho tới khi tấm vải dệt xong và bán xong. Khái niệm này quan trọng vì toàn bộ Quyển II là về vốn: nó gồm những phần nào, tăng lên hay giảm đi vì sao, và nên dùng vào đâu.
+
+**Tích luỹ vốn (accumulation of stock).** Việc không tiêu dùng hết sản phẩm làm ra trong kỳ này mà để dành một phần làm kho ứng trước cho sản xuất kỳ sau. Ví dụ minh hoạ: một nông hộ thu 10 tạ thóc, ăn 7 tạ và giữ lại 3 tạ để nuôi một người con đi học nghề dệt trong một năm; 3 tạ đó là vốn tích luỹ. Chương này khẳng định tích luỹ phải có **trước** phân công lao động, nên tích luỹ là điều kiện để năng suất tăng.
+
+**Phân công lao động (division of labour).** Chia quá trình sản xuất thành nhiều thao tác và nhiều nghề, mỗi người chuyên làm một phần. Ở Quyển I, Smith dùng ví dụ xưởng ghim: 10 người chia nhau khoảng 18 thao tác làm được khoảng 48.000 chiếc ghim mỗi ngày. Lời giới thiệu này bổ sung một điều kiện mà Quyển I chưa nói rõ: phân công chỉ sâu được đến mức vốn tích luỹ cho phép.
+
+**Tự cung tự cấp.** Trạng thái mỗi người tự làm ra gần như mọi thứ mình cần, vào lúc cần, và chỉ thỉnh thoảng mới trao đổi. Ví dụ minh hoạ: một gia đình tự trồng lúa, tự dệt vải, tự làm nhà; không ai phải chờ bán hàng mới có cái ăn. Khái niệm này là điểm xuất phát của lập luận: trong xã hội như vậy không cần vốn ứng trước, còn khi đã chuyên môn hoá thì bắt buộc phải có.
+
+**Khoảng trễ sản xuất.** Thời gian từ lúc bắt tay làm một sản phẩm đến lúc sản phẩm làm xong và bán được. Ví dụ minh hoạ: nếu dệt một tấm vải mất 3 tuần và bán mất thêm 1 tuần, người thợ phải sống bốn tuần mà chưa có thu nhập từ tấm vải đó. Khoảng trễ này là lý do kinh tế khiến vốn ứng trước trở nên cần thiết; không có nó thì mệnh đề "vốn đi trước" không có cơ sở.
+
+**Người dùng vốn.** Người nắm một khối vốn và dùng nó để thuê thợ, mua nguyên liệu và máy móc nhằm thu lợi nhuận. Ví dụ minh hoạ: một chủ xưởng có đủ vốn thuê 10 thợ sẽ chia việc giữa 10 người và mua máy, điều mà một người thợ đơn lẻ không làm được. Khái niệm này quan trọng vì Smith lập luận rằng chính động cơ lợi nhuận của người dùng vốn khiến tích luỹ tự nó dẫn đến phân công hợp lý hơn và máy móc tốt hơn.
+
+**Năng suất lao động.** Lượng sản phẩm một người lao động làm ra trong một đơn vị thời gian. Ví dụ ở Quyển I: trong xưởng ghim, khoảng 4.800 chiếc mỗi người mỗi ngày, so với chưa tới 20 chiếc khi làm một mình. Kết luận của chương là vốn tăng không chỉ làm tăng số người được thuê mà còn làm tăng năng suất của từng người.
+
+## Nội dung chi tiết
 
 ### 1. Xã hội không cần vốn và xã hội cần vốn
 
-- Trong trạng thái hoang sơ, chưa có phân công lao động và trao đổi chỉ thỉnh thoảng diễn ra, mỗi người tự lo lấy thứ mình cần vào lúc cần. Không ai phải tích luỹ hay dự trữ vốn trước để tiến hành công việc của xã hội.
-- Khi phân công lao động đã hình thành, sản phẩm lao động của một người chỉ đáp ứng một phần rất nhỏ nhu cầu của chính người đó. Phần lớn còn lại phải mua bằng sản phẩm của mình, hay đúng hơn, bằng giá của sản phẩm đó.
-- Nhưng việc mua chỉ làm được khi sản phẩm của anh ta không những đã làm xong mà còn đã bán được. Vì vậy phải có sẵn một kho hàng hoá các loại đủ để nuôi sống anh ta và cung cấp nguyên liệu, dụng cụ cho công việc, ít nhất cho đến khi cả hai điều kiện đó xảy ra.
-- Ví dụ người thợ dệt: anh ta không thể chuyên tâm vào nghề dệt nếu không có sẵn, hoặc trong tay mình hoặc trong tay người khác (vay mượn), một khối vốn đủ để nuôi mình và cung cấp nguyên liệu, dụng cụ cho tới khi tấm vải dệt xong và bán xong. Việc tích luỹ phải đi trước việc hành nghề, và lặp lại liên tục chừng nào còn sản xuất.
+Smith bắt đầu bằng một so sánh giữa hai kiểu xã hội. Trong trạng thái hoang sơ, chưa có phân công lao động và trao đổi chỉ thỉnh thoảng mới diễn ra, mỗi người tự cung tự cấp: cần gì thì tự làm lấy, vào đúng lúc cần. Một người đói thì đi săn, lạnh thì tự lấy da thú làm áo, cần chỗ ở thì tự dựng lều. Trong xã hội như vậy không ai phải tích luỹ hay dự trữ vốn từ trước để tiến hành công việc của xã hội, vì không ai phải chờ người khác mới có thứ mình cần.
+
+Khi phân công lao động đã hình thành, tình hình đổi hẳn. Sản phẩm lao động của một người chỉ đáp ứng được một phần rất nhỏ nhu cầu của chính người đó. Người thợ dệt không ăn được vải, người thợ rèn không mặc được đinh. Phần lớn những gì anh ta cần phải mua bằng sản phẩm của mình, hay nói chính xác hơn, bằng **giá** của sản phẩm đó, tức số tiền hay hàng hoá anh ta nhận được khi bán nó.
+
+Vấn đề nằm ở thời điểm. Anh ta chỉ mua được những thứ mình cần khi sản phẩm của mình không những đã làm xong mà còn đã bán được. Giữa lúc bắt đầu làm và lúc bán xong có một khoảng thời gian, và trong khoảng đó anh ta vẫn phải ăn, vẫn phải có nguyên liệu và dụng cụ để làm việc. Vì vậy, ở đâu đó phải có sẵn một kho dự trữ hàng hoá các loại: lương thực để sống, nguyên liệu và dụng cụ để làm việc, ít nhất cho đến khi cả hai điều kiện (làm xong và bán xong) xảy ra.
+
+Smith minh hoạ bằng người thợ dệt. Anh ta không thể chuyên tâm vào nghề dệt nếu không có sẵn một khối vốn, hoặc nằm trong tay mình, hoặc nằm trong tay người khác mà anh ta vay mượn. Khối vốn đó phải đủ để nuôi anh ta và cung cấp sợi, khung cửi cho tới khi tấm vải không chỉ dệt xong mà còn bán xong. Từ đó Smith rút ra một quy tắc: việc tích luỹ phải làm **trước** khi bắt tay vào hành nghề, và phải lặp lại liên tục chừng nào còn sản xuất, vì mỗi tấm vải mới lại mở ra một khoảng chờ mới.
+
+Có thể tóm lại sự khác biệt giữa hai kiểu xã hội như sau:
+
+| | Xã hội hoang sơ | Xã hội có phân công |
+|---|---|---|
+| Ai làm ra thứ một người cần | Chính người đó | Phần lớn là người khác |
+| Trao đổi | Thỉnh thoảng | Thường xuyên, là cách sống |
+| Có khoảng chờ giữa làm và tiêu dùng không | Gần như không | Có: phải chờ làm xong và bán xong |
+| Có cần vốn tích luỹ trước không | Không | Có: lương thực, nguyên liệu, dụng cụ |
+
+**Ví dụ hôm nay** (minh hoạ chung). Một xưởng may nhận đơn hàng áo: phải mua vải, trả lương công nhân hằng tháng, trả tiền điện, trong khi người mua chỉ thanh toán sau khi nhận hàng, có khi hai ba tháng sau. Khoản tiền xưởng phải có sẵn để chạy qua khoảng thời gian đó, mà kế toán ngày nay gọi là vốn lưu động, chính là "kho dự trữ" Smith nói tới, chỉ khác là được giữ dưới dạng tiền thay vì dưới dạng bánh mì và sợi.
 
 ### 2. Tích luỹ vốn đi trước và quy định độ sâu của phân công
 
-- Vì tích luỹ theo bản chất phải đi trước phân công, nên lao động chỉ được chia nhỏ hơn theo tỷ lệ vốn tích luỹ trước ngày càng lớn hơn.
-- Phân công càng sâu thì lượng nguyên liệu mà cùng một số người chế biến được tăng theo tỷ lệ lớn. Thao tác của mỗi người thợ trở nên đơn giản dần, và nhiều máy móc mới được sáng chế để rút ngắn, làm nhẹ những thao tác đó (đây là cơ chế thứ ba trong ba cơ chế ở Quyển I, Chương I, nơi Smith giải thích phân công nâng năng suất nhờ tăng độ khéo léo, tiết kiệm thời gian chuyển việc và khuyến khích phát minh máy móc).
-- Hệ quả: khi phân công càng tinh vi, để có việc làm ổn định cho cùng một số thợ cần phải tích luỹ trước một kho lương thực như cũ nhưng một kho nguyên liệu và dụng cụ lớn hơn nhiều so với lúc xã hội còn thô sơ.
-- Số thợ trong mỗi ngành thường tăng cùng với độ phân công của ngành; hay nói đúng hơn, chính việc số thợ tăng mới cho phép họ tự sắp xếp và chia nhỏ công việc theo cách mới hiệu quả hơn.
+Từ quy tắc ở mục trên, Smith đi thêm một bước. Nếu tích luỹ, theo bản chất sự việc, phải đi trước phân công, thì lao động chỉ có thể được chia nhỏ hơn theo tỷ lệ vốn tích luỹ trước ngày càng lớn hơn. Nói cách khác, vốn không chỉ là điều kiện để có phân công, mà lượng vốn còn quyết định phân công đi sâu được đến đâu.
+
+Lý do là phân công càng sâu thì mỗi người thợ cần càng nhiều thứ được ứng trước. Có hai cơ chế:
+
+- **Nguyên liệu tăng.** Khi công việc được chia nhỏ, cùng một số người chế biến được lượng nguyên liệu tăng theo tỷ lệ lớn. Ở xưởng ghim trong Quyển I, 10 người làm được khoảng 48.000 chiếc ghim mỗi ngày thay vì vài chục chiếc, nên xưởng cần lượng dây kim loại lớn hơn hàng trăm lần cho cùng số thợ.
+- **Máy móc tăng.** Khi thao tác của mỗi người thợ trở nên đơn giản, người ta dễ nghĩ ra máy móc mới để rút ngắn và làm nhẹ thao tác đó. Đây chính là cơ chế thứ ba trong ba cơ chế ở Quyển I, Chương I: phân công nâng năng suất nhờ tăng độ khéo léo, nhờ tiết kiệm thời gian chuyển từ việc này sang việc khác, và nhờ khuyến khích phát minh máy móc. Máy móc phải được làm ra và mua trước khi dùng, nên cũng là một phần vốn ứng trước.
+
+Hệ quả là khi phân công càng tinh vi, để giữ cho cùng một số thợ có việc làm ổn định thì kho lương thực cần ứng trước vẫn như cũ (mỗi người vẫn ăn chừng ấy), nhưng kho nguyên liệu và dụng cụ phải lớn hơn nhiều so với lúc xã hội còn thô sơ.
+
+| Thành phần vốn ứng trước cho cùng một số thợ | Xã hội thô sơ | Xã hội phân công sâu |
+|---|---|---|
+| Lương thực nuôi thợ | Như nhau | Như nhau |
+| Nguyên liệu | Ít | Lớn hơn nhiều, vì mỗi thợ chế biến nhiều hơn |
+| Dụng cụ, máy móc | Đơn giản | Lớn hơn nhiều, vì có máy chuyên dụng cho từng thao tác |
+
+Smith thêm một nhận xét về số thợ. Số thợ trong mỗi ngành thường tăng cùng với độ phân công của ngành đó. Nhưng ông sửa lại cho đúng hơn: không phải phân công kéo theo số thợ, mà chính việc số thợ tăng lên mới cho phép họ tự sắp xếp và chia nhỏ công việc theo cách mới hiệu quả hơn. Một xưởng có 2 người không thể chia 18 thao tác cho 18 người; một xưởng có 10 người thì chia được nhiều hơn. Và muốn có nhiều thợ hơn trong một xưởng thì lại cần nhiều vốn hơn để nuôi họ. Như vậy cả hai con đường (nhiều nguyên liệu và máy móc hơn cho mỗi người, và nhiều người hơn trong một ngành) đều quy về cùng một điều kiện là vốn.
 
 ### 3. Tích luỹ tự nó dẫn đến cải tiến
 
-- Vì tích luỹ là điều kiện tiên quyết để cải tiến năng suất, nên tích luỹ tự nhiên dẫn đến cải tiến. Người dùng vốn thuê nhân công tất nhiên muốn dùng vốn sao cho làm ra nhiều sản phẩm nhất.
-- Muốn vậy, anh ta cố gắng phân công công việc giữa các thợ một cách thích hợp nhất, và cung cấp cho họ máy móc tốt nhất mà anh ta tự nghĩ ra hoặc mua được. Khả năng làm được hai việc này tỷ lệ với quy mô vốn của anh ta, hay với số người mà vốn đó thuê được.
-- Kết luận: số lượng lao động ở mỗi nước không chỉ tăng theo sự gia tăng của vốn dùng để thuê lao động, mà nhờ vốn tăng, cùng một số lao động làm ra được lượng sản phẩm lớn hơn nhiều. Đó là tác động của việc tăng vốn lên lao động và năng suất lao động.
+Mục 2 nói vốn là điều kiện cần của phân công. Mục này nói thêm chiều ngược lại: khi đã có vốn thì cải tiến tự nhiên xảy ra, không cần ai ra lệnh. Vì tích luỹ là điều kiện tiên quyết để cải tiến năng suất, nên tích luỹ tự nhiên dẫn đến cải tiến.
+
+Cơ chế nằm ở động cơ của người dùng vốn. Người dùng vốn của mình để thuê nhân công tất nhiên muốn vốn đó làm ra càng nhiều sản phẩm càng tốt, vì sản phẩm nhiều hơn nghĩa là lợi nhuận nhiều hơn. Để đạt được điều đó, anh ta làm hai việc:
+
+1. Phân công công việc giữa các thợ một cách thích hợp nhất.
+2. Cung cấp cho họ máy móc tốt nhất mà anh ta tự nghĩ ra được hoặc mua được.
+
+Khả năng làm được hai việc này tỷ lệ với quy mô vốn của anh ta, hay tương đương, với số người mà vốn đó thuê được. Người có vốn nuôi 2 thợ chỉ chia việc được giữa 2 người và khó mua máy đắt tiền; người có vốn nuôi 100 thợ có thể chia việc rất chi tiết và mua những máy mà chỉ quy mô lớn mới dùng hết công suất.
+
+Từ đó Smith rút ra kết luận của toàn Lời giới thiệu. Khi vốn ở một nước tăng lên, có hai tác động cùng lúc:
+
+| Tác động | Nội dung |
+|---|---|
+| (a) Số lao động tăng | Vốn dùng để thuê lao động lớn hơn thì nuôi được nhiều người lao động hơn |
+| (b) Năng suất tăng | Nhờ vốn tăng, cùng một số lao động đó làm ra lượng sản phẩm lớn hơn nhiều, vì được chia việc hợp lý hơn và có máy móc tốt hơn |
+
+Tác động (b) là điểm quan trọng nhất: tăng vốn không chỉ là thêm người, mà là nâng cao năng suất lao động. Đây là cầu nối giữa Quyển I (năng suất đến từ phân công) và Quyển II (phân công đến từ vốn).
+
+**Ví dụ hôm nay** (minh hoạ chung, số liệu giả định). Hai cơ sở làm bánh cùng có 5 thợ. Cơ sở thứ nhất không có vốn mua máy, mỗi thợ tự nhào, tạo hình và nướng, làm được 200 chiếc mỗi ngày. Cơ sở thứ hai có vốn mua máy trộn bột và lò nướng băng chuyền, chia 5 người thành các khâu riêng, làm được 1.000 chiếc mỗi ngày. Cùng 5 người, sản lượng gấp 5 lần: đó là tác động (b) của Smith.
 
 ### 4. Bố cục Quyển II
 
-- Smith báo trước rằng quyển này sẽ giải thích bản chất của vốn, tác động của việc tích luỹ vốn thành các loại tư bản khác nhau, và các cách sử dụng những loại tư bản đó. Quyển gồm năm chương.
-- Chương I: các bộ phận mà vốn của một cá nhân hay của cả xã hội tự nhiên chia ra.
-- Chương II: bản chất và hoạt động của tiền, được xem như một bộ phận đặc biệt của tổng vốn xã hội.
-- Chương III và IV: vốn đã tích luỹ thành tư bản có thể do chính chủ sở hữu sử dụng, hoặc cho người khác vay để lấy lãi; hai chương xét vốn vận hành thế nào trong mỗi trường hợp.
-- Chương V, chương cuối: các cách dùng vốn khác nhau có tác động khác nhau đến lượng hoạt động sản xuất trong nước và đến sản phẩm hàng năm của đất đai và lao động.
+Cuối Lời giới thiệu, Smith báo trước rằng Quyển II sẽ giải thích ba điều: bản chất của vốn, tác động của việc tích luỹ vốn thành các loại tư bản khác nhau, và các cách sử dụng những loại tư bản đó. Quyển gồm năm chương:
+
+| Chương | Nội dung |
+|---|---|
+| Chương I | Các bộ phận mà vốn của một cá nhân hay của cả một xã hội lớn tự nhiên chia ra (sẽ là vốn dành cho tiêu dùng, vốn cố định và vốn luân chuyển) |
+| Chương II | Bản chất và hoạt động của tiền, được xem như một bộ phận đặc biệt của tổng vốn xã hội; kèm theo đó là ngân hàng và tiền giấy |
+| Chương III và IV | Vốn đã tích luỹ thành tư bản có thể do chính chủ sở hữu sử dụng, hoặc được cho người khác vay để lấy lãi; hai chương xét vốn vận hành thế nào trong mỗi trường hợp |
+| Chương V, chương cuối | Các cách dùng vốn khác nhau có tác động khác nhau đến lượng hoạt động sản xuất trong nước và đến sản phẩm hằng năm của đất đai và lao động |
+
+Thứ tự này đi theo đúng logic của Lời giới thiệu: trước hết xác định vốn là gì và gồm những phần nào, rồi xét riêng tiền (vì người ta hay nhầm tiền với vốn), rồi xét vốn được dùng trực tiếp hay cho vay, và cuối cùng hỏi dùng vốn vào đâu thì đem lại nhiều lao động và sản phẩm nhất cho cả nước.
 
 ## Luận điểm kinh tế cốt lõi
 
