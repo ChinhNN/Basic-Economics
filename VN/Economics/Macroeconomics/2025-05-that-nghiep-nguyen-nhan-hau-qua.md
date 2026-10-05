@@ -46,61 +46,114 @@
 2. Những nguyên nhân nào gây thất nghiệp ở Việt Nam, và thất nghiệp gây hậu quả gì cho cá nhân, kinh tế, xã hội?
 3. Tỷ lệ thất nghiệp của Việt Nam những năm gần đây ra sao, nhóm nào chịu ảnh hưởng nhiều nhất, và cần làm gì?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Thất nghiệp (unemployment).** Tình trạng một người trong độ tuổi lao động, có khả năng làm việc và đang tích cực tìm việc nhưng chưa tìm được. Ba điều kiện phải cùng đúng: một sinh viên đang đi học không tìm việc, hay một người về hưu, không bị tính là thất nghiệp. Ví dụ trong bài: một người mới tốt nghiệp đại học đang đi tìm việc mà chưa có. Đây là đối tượng của toàn bài.
+
+**Lực lượng lao động và tỷ lệ thất nghiệp (unemployment rate).** Lực lượng lao động gồm người đang có việc cộng người thất nghiệp. Tỷ lệ thất nghiệp là số người thất nghiệp chia cho lực lượng lao động. Ví dụ minh hoạ: trong một xã có 1.000 người thuộc lực lượng lao động, 22 người đang tìm việc mà chưa có thì tỷ lệ thất nghiệp là 2,2%. Bài dùng chỉ số này để theo dõi Việt Nam từ năm 2020 đến 2025.
+
+**Thất nghiệp cơ cấu (structural).** Thất nghiệp do nền kinh tế đổi cấu trúc: ngành cũ thu hẹp, ngành mới cần kỹ năng khác, người lao động không chuyển kịp. Ví dụ trong bài: công nhân may mất việc khi nhà máy dùng máy thay người. Loại này kéo dài nhất vì phải học lại kỹ năng mới hết.
+
+**Thất nghiệp chu kỳ (cyclical).** Thất nghiệp do kinh tế suy thoái, doanh nghiệp ít đơn hàng nên cắt giảm nhân sự. Ví dụ trong bài: COVID-19 năm 2020–2021 khiến du lịch, nhà hàng, bán lẻ sa thải lao động, đẩy tỷ lệ thất nghiệp lên 3,98% vào quý III/2021. Loại này giảm dần khi kinh tế phục hồi.
+
+**Thất nghiệp ma sát (frictional).** Thất nghiệp tạm thời trong lúc người lao động chuyển việc hoặc tìm việc phù hợp hơn. Ví dụ trong bài: nghỉ ở quán cà phê này để tìm quán khác tốt hơn. Loại này luôn tồn tại kể cả khi kinh tế tốt, nên tỷ lệ thất nghiệp không bao giờ về 0.
+
+**Thất nghiệp mùa vụ (seasonal).** Không có việc tạm thời theo mùa. Ví dụ trong bài: sau mùa gặt lúa, nhiều nông dân tạm thời không có việc; nông nghiệp, du lịch, xây dựng đều có thời gian làm việc không đều. Đây là một trong bảy nguyên nhân bài nêu ở Việt Nam.
+
+**Thất nghiệp thanh niên (youth unemployment).** Tỷ lệ thất nghiệp của nhóm 15–24 tuổi. Ví dụ trong bài: 8% trong 6 tháng đầu năm 2024, khoảng 3,5 lần tỷ lệ chung 2,27%. Bài dùng con số này để cho thấy tỷ lệ chung thấp có thể che giấu vấn đề của người trẻ.
+
+**Tổng cầu (aggregate demand).** Tổng chi tiêu của hộ gia đình, doanh nghiệp, nhà nước và nước ngoài cho hàng hoá, dịch vụ của một nền kinh tế. Ví dụ minh hoạ: một người mất việc cắt chi tiêu từ 8 triệu xuống 4 triệu đồng mỗi tháng, thì quán ăn, cửa hàng quanh đó mất 4 triệu đồng doanh thu. Khái niệm này giải thích cách thất nghiệp lan từ cá nhân sang cả nền kinh tế.
+
+## Nội dung chi tiết
 
 ### 1. Thất nghiệp là gì
-- Người trong độ tuổi lao động (bài nêu thường 15–65 tuổi), có khả năng làm việc, đang tích cực tìm việc nhưng không thành công. Ví von: như chiếc xe hỏng trong đoàn xe, làm chậm cả hành trình.
-- Ví dụ bài nêu: người mới tốt nghiệp đại học không tìm được việc trong ngành học của mình.
-- Ở Việt Nam, thất nghiệp là thách thức lớn, nhất là sau COVID-19.
+
+Theo bài, thất nghiệp là tình trạng người trong độ tuổi lao động (bài nêu thường là 15–65 tuổi), có khả năng làm việc và đang tích cực tìm việc nhưng không thành công. Bài ví thất nghiệp như một chiếc xe hỏng trong đoàn xe: không chỉ chiếc xe đó đứng lại mà cả đoàn bị chậm hành trình.
+
+Ví dụ bài nêu: một người mới tốt nghiệp đại học không tìm được việc trong ngành học của mình. (Theo định nghĩa chuẩn, người này chỉ được tính là thất nghiệp nếu thực sự chưa có việc gì và vẫn đang tìm việc.)
+
+Ở Việt Nam, bài coi thất nghiệp là thách thức lớn, nhất là sau đại dịch COVID-19.
 
 ### 2. Các loại thất nghiệp
-- Cơ cấu: nền kinh tế thay đổi, một số ngành (dệt may, nông nghiệp) suy giảm trong khi công nghệ phát triển; không học kịp kỹ năng mới thì thất nghiệp.
-- Chu kỳ: kinh tế suy thoái, doanh nghiệp cắt giảm nhân sự, như trong khủng hoảng.
-- Ma sát: khi chuyển việc hoặc chờ cơ hội phù hợp, như nghỉ ở quán cà phê này để tìm quán khác tốt hơn.
-- Ẩn (theo cách bài định nghĩa): có việc nhưng không dùng hết kỹ năng, như kỹ sư phải làm bán hàng.
+
+Bài chia thất nghiệp thành bốn loại, theo nguyên nhân gây ra:
+
+| Loại | Nguyên nhân | Ví dụ của bài |
+|---|---|---|
+| Cơ cấu | Nền kinh tế thay đổi: một số ngành (dệt may, nông nghiệp) suy giảm trong khi công nghệ phát triển; ai không học kịp kỹ năng mới thì mất việc | Công nhân may mất việc khi nhà máy dùng máy |
+| Chu kỳ | Kinh tế suy thoái, doanh nghiệp cắt giảm nhân sự | Sa thải trong các đợt khủng hoảng |
+| Ma sát | Khoảng thời gian chuyển việc hoặc chờ cơ hội phù hợp | Nghỉ ở quán cà phê này để tìm quán khác tốt hơn |
+| Ẩn (theo cách bài định nghĩa) | Có việc nhưng không dùng hết kỹ năng, làm sai chuyên môn | Kỹ sư phải làm bán hàng |
+
+Hai loại đầu là vấn đề thật sự cần chính sách xử lý: thất nghiệp cơ cấu cần đào tạo lại, thất nghiệp chu kỳ cần kinh tế phục hồi. Thất nghiệp ma sát thì luôn tồn tại ở mức nào đó. Về loại thứ tư, cách bài gọi "thất nghiệp ẩn" khác với nghĩa thông thường trong kinh tế học; theo chuẩn thống kê, kỹ sư làm bán hàng vẫn là người có việc làm, chỉ là làm việc không đúng trình độ.
 
 ### 3. Nguyên nhân ở Việt Nam
-- Suy thoái kinh tế: ít đơn hàng, phải sa thải; COVID-19 (2020–2021) khiến du lịch, nhà hàng, bán lẻ cắt giảm lao động.
-- Chuyển đổi cơ cấu: dệt may, da giày không còn phát triển mạnh trong khi điện tử, IT cần lao động có kỹ năng; công nhân may có thể mất việc khi nhà máy dùng máy thay người.
-- Dân số và lực lượng lao động tăng nhanh: nhiều người trẻ vào tuổi lao động hơn số việc làm, như lớp học quá nhiều học sinh mà ít ghế.
-- Giáo dục, đào tạo không phù hợp: nhiều sinh viên kinh tế, quản trị không tìm được việc trong khi cơ khí, điện tử thiếu lao động.
-- Chuyển đổi công nghệ: tự động hóa và AI thay thế việc làm thủ công, như nhà máy may dùng máy móc.
-- Mùa vụ: nông nghiệp, du lịch, xây dựng có thời gian làm việc không đều; sau mùa gặt nhiều nông dân tạm thời không có việc.
-- Chính sách thị trường lao động: lương tối thiểu hoặc chi phí sa thải cao có thể khiến doanh nghiệp ngần ngại tuyển dụng, mở rộng.
+
+Bài nêu bảy nguyên nhân gây thất nghiệp ở Việt Nam:
+
+1. **Suy thoái kinh tế.** Doanh nghiệp ít đơn hàng thì phải sa thải. Ví dụ: COVID-19 (2020–2021) khiến du lịch, nhà hàng, bán lẻ cắt giảm lao động.
+2. **Chuyển đổi cơ cấu.** Theo bài, dệt may, da giày không còn phát triển mạnh, trong khi điện tử, công nghệ thông tin cần lao động có kỹ năng. Công nhân may có thể mất việc khi nhà máy dùng máy thay người.
+3. **Dân số và lực lượng lao động tăng nhanh.** Số người trẻ bước vào tuổi lao động nhiều hơn số việc làm mới được tạo ra; bài ví như một lớp học quá nhiều học sinh mà ít ghế.
+4. **Giáo dục, đào tạo không khớp với nhu cầu.** Nhiều sinh viên kinh tế, quản trị không tìm được việc, trong khi ngành cơ khí, điện tử lại thiếu lao động.
+5. **Chuyển đổi công nghệ.** Tự động hoá và AI thay thế các việc làm thủ công, như nhà máy may dùng máy móc.
+6. **Mùa vụ.** Nông nghiệp, du lịch, xây dựng có thời gian làm việc không đều; sau mùa gặt lúa, nhiều nông dân tạm thời không có việc.
+7. **Chính sách thị trường lao động.** Lương tối thiểu cao hoặc chi phí sa thải cao có thể khiến doanh nghiệp ngần ngại tuyển thêm người hay mở rộng sản xuất, vì một khi đã tuyển thì khó và tốn kém nếu muốn cắt giảm.
 
 ### 4. Hậu quả
-- Cá nhân:
-  - Giảm thu nhập, nghèo đói: phải bán tài sản hoặc vay mượn; ví dụ tài xế Grab mất việc có thể phải bán xe trả nợ.
-  - Áp lực tâm lý: lo lắng, mất tự tin, trầm cảm; một số có thể sa vào tội phạm, nghiện ngập.
-  - Suy giảm kỹ năng: công nhân may nghỉ 2 năm có thể không theo kịp máy móc mới.
-- Kinh tế:
-  - Giảm tổng cầu: người thất nghiệp tiêu ít, doanh thu doanh nghiệp giảm, tăng trưởng chậm lại.
-  - Tăng chi tiêu công: phải chi nhiều hơn cho trợ cấp thất nghiệp, an sinh, có thể thiếu tiền xây trường.
-  - Lãng phí nguồn lực: lao động không được sử dụng như chiếc xe để không trong khi đường cần xe chạy.
-- Xã hội:
-  - Bất ổn: thất nghiệp cao, nhất là ở giới trẻ, có thể làm tăng tội phạm, bạo lực.
-  - Bất bình đẳng: tác động nặng hơn tới lao động phổ thông, người nông thôn, thanh niên.
-  - Chất lượng sống giảm: cộng đồng thất nghiệp cao thường thiếu dịch vụ công, có thể mất niềm tin vào chính phủ.
+
+Bài trình bày hậu quả của thất nghiệp theo ba tầng, tầng trước lan sang tầng sau.
+
+**Với cá nhân:**
+- **Giảm thu nhập, nghèo đói.** Người mất việc có thể phải bán tài sản hoặc vay mượn. Ví dụ: một tài xế Grab mất việc có thể phải bán xe để trả nợ.
+- **Áp lực tâm lý.** Lo lắng, mất tự tin, trầm cảm; theo bài, một số người có thể sa vào tội phạm, nghiện ngập.
+- **Suy giảm kỹ năng.** Một công nhân may nghỉ việc 2 năm có thể không còn theo kịp máy móc mới.
+
+**Với nền kinh tế:**
+- **Giảm tổng cầu.** Người thất nghiệp chi tiêu ít đi, nên doanh thu của doanh nghiệp giảm, kéo tăng trưởng chậm lại. Doanh nghiệp doanh thu giảm lại có thể cắt thêm người, tạo thành vòng lặp.
+- **Tăng chi tiêu công.** Nhà nước phải chi nhiều hơn cho trợ cấp thất nghiệp và an sinh, tạo áp lực lên ngân sách; bài ví dụ có thể thiếu tiền xây trường.
+- **Lãng phí nguồn lực.** Bài ví người lao động không được sử dụng như chiếc xe để không trong khi đường đang cần xe chạy: sức lao động hôm nay không dùng thì mất luôn, không để dành được.
+
+**Với xã hội:**
+- **Bất ổn.** Thất nghiệp cao, nhất là ở giới trẻ, có thể làm tăng tội phạm, bạo lực.
+- **Bất bình đẳng.** Tác động nặng hơn tới lao động phổ thông, người nông thôn và thanh niên.
+- **Chất lượng sống giảm.** Những cộng đồng có nhiều người thất nghiệp thường thiếu dịch vụ công, và người dân có thể mất niềm tin vào chính phủ.
+
+Mối nối giữa các tầng: mất thu nhập ở cá nhân dẫn tới tổng cầu và doanh thu giảm ở nền kinh tế, rồi tới bất ổn ở xã hội; lo âu, trầm cảm ở cá nhân làm tăng chi trợ cấp và áp lực ngân sách, rồi tới bất bình đẳng; kỹ năng mai một ở cá nhân là lãng phí nguồn lực của nền kinh tế, rồi làm chất lượng sống giảm và mất niềm tin.
 
 ### 5. Tỷ lệ thất nghiệp tại Việt Nam (theo Tổng cục Thống kê và Trading Economics)
 
-| Năm | Tỷ lệ thất nghiệp trong độ tuổi lao động | Ghi chú của bài |
+Bài tổng hợp tỷ lệ thất nghiệp trong độ tuổi lao động qua các năm:
+
+| Năm | Tỷ lệ thất nghiệp | Ghi chú của bài |
 |---|---|---|
-| 2020 | 2,48% | Tăng do COVID-19, nhiều ngành gián đoạn |
+| 2020 | 2,48% | Tăng do COVID-19, nhiều ngành bị gián đoạn |
 | 2021 | 3,98% (quý III) | Cao nhất thập kỷ, do giãn cách xã hội kéo dài |
 | 2022 | 2,32% | Giảm khi kinh tế phục hồi, đặc biệt ở đô thị |
 | 2023 | 2,28% (9 tháng đầu năm) | Tiếp tục giảm, khoảng 1,07 triệu người thất nghiệp |
-| 2024 | 2,27% (6 tháng đầu năm) | Không đổi so với 2023, thanh niên 15–24 tuổi 8% |
+| 2024 | 2,27% (6 tháng đầu năm) | Gần như không đổi so với 2023; thanh niên 15–24 tuổi 8% |
 | 2025 | 2,20% (quý I) | Giảm nhẹ từ 2,22% quý IV/2024 |
 
-- Thanh niên 15–24 tuổi: 8% trong 6 tháng đầu 2024, tăng 0,49 điểm phần trăm so với cùng kỳ.
-- Thành thị (2,68%) cao hơn nông thôn (2%) trong 6 tháng đầu 2024.
-- Vùng cao nhất quý III/2023: Đông Nam Bộ (3,08%), Đồng bằng sông Cửu Long (2,87%).
+Đọc bảng: tỷ lệ thất nghiệp chung của Việt Nam thấp và đã trở lại quanh 2,2–2,3% sau cú sốc COVID-19. Tuy nhiên bài chỉ ra ba điểm chênh lệch đáng chú ý:
+
+- **Thanh niên 15–24 tuổi**: tỷ lệ thất nghiệp 8% trong 6 tháng đầu năm 2024, tăng 0,49 điểm phần trăm so với cùng kỳ năm trước, gấp khoảng 3,5 lần tỷ lệ chung.
+- **Thành thị và nông thôn**: thành thị 2,68%, cao hơn nông thôn 2% (6 tháng đầu năm 2024).
+- **Theo vùng**: cao nhất quý III/2023 là Đông Nam Bộ (3,08%) và Đồng bằng sông Cửu Long (2,87%).
+
+**Ví dụ minh hoạ về quy mô** (phép tính của người tổng hợp). Khoảng 1,07 triệu người thất nghiệp ứng với tỷ lệ 2,28% nghĩa là lực lượng lao động vào khoảng 47 triệu người. Mỗi 0,1 điểm phần trăm thất nghiệp vì thế tương ứng khoảng 47.000 người.
 
 ### 6. Kết luận
-- Thất nghiệp như căn bệnh có thể lan rộng nếu không điều trị; dù giảm sau đại dịch, thách thức vẫn lớn với thanh niên và lao động ngành truyền thống.
-- Giải pháp ba bên: Chính phủ hỗ trợ đào tạo kỹ năng mới; doanh nghiệp tạo việc làm và cơ hội phát triển; người lao động chủ động học hỏi, thích nghi.
-- Nguồn bài nêu: Topi.vn, VnEconomy, Nhandan.vn, Trading Economics, Tạp chí Công Thương, Vietnam Briefing, Tổng cục Thống kê, World Bank, Statista, MacroTrends, Moody's Analytics, ILO.
+
+Bài ví thất nghiệp như một căn bệnh có thể lan rộng nếu không được điều trị. Dù tỷ lệ thất nghiệp đã giảm sau đại dịch, thách thức vẫn lớn với thanh niên và với lao động trong các ngành truyền thống.
+
+Giải pháp bài đề xuất cần cả ba bên cùng hành động:
+
+| Bên | Vai trò |
+|---|---|
+| Chính phủ | Hỗ trợ đào tạo kỹ năng mới |
+| Doanh nghiệp | Tạo việc làm và cơ hội phát triển cho người lao động |
+| Người lao động | Chủ động học hỏi, thích nghi với thay đổi |
+
+Các nguồn bài nêu: Topi.vn, VnEconomy, Nhandan.vn, Trading Economics, Tạp chí Công Thương, Vietnam Briefing, Tổng cục Thống kê, World Bank, Statista, MacroTrends, Moody's Analytics, ILO.
 
 ## Thuật ngữ
 

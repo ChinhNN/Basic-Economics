@@ -52,56 +52,103 @@ Mô hình Hàn Quốc: leo lên chuỗi giá trị
 2. Nước nhỏ như Việt Nam được lợi gì và gặp thách thức gì khi mở cửa?
 3. Tự do thương mại có thực sự công bằng với nước nhỏ, và nước nhỏ nên làm gì?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tự do thương mại (free trade).** Tình trạng các nước cam kết giảm hoặc xoá rào cản (thuế, hạn ngạch, rào cản phi thuế quan) để hàng hoá, dịch vụ và vốn đi lại giữa các nước dễ dàng. Ví dụ trong bài: theo EVFTA, Việt Nam giảm thuế ô tô nhập từ EU xuống 0% trong 7–10 năm. Đây là đối tượng mà bài đặt câu hỏi "có công bằng không".
+
+**Hiệp định thương mại tự do (FTA).** Thoả thuận giữa hai hay nhiều nước cắt giảm thuế và rào cản cho hàng của nhau. Ví dụ trong bài: CPTPP, EVFTA, RCEP. Bài dùng các FTA làm bằng chứng cho cả lợi ích lẫn thách thức với Việt Nam.
+
+**Đầu tư trực tiếp nước ngoài (FDI).** Doanh nghiệp nước ngoài bỏ vốn xây nhà máy, mở công ty ở một nước khác và trực tiếp điều hành. Ví dụ trong bài: Intel xây nhà máy chip ở Costa Rica, theo bài đóng góp 5% GDP năm 2023. FDI là lợi ích thứ ba mà bài nêu, kèm theo kỳ vọng về chuyển giao công nghệ.
+
+**Chi phí tuân thủ (compliance cost).** Tiền và thời gian doanh nghiệp bỏ ra để đáp ứng tiêu chuẩn kỹ thuật, kiểm dịch của thị trường nhập khẩu. Ví dụ trong bài: doanh nghiệp thuỷ sản Việt Nam bỏ ra 10–15% chi phí xuất khẩu để đáp ứng yêu cầu SPS của EU. Khái niệm này giải thích vì sao thuế về 0% chưa có nghĩa là hàng vào được dễ dàng.
+
+**Giá trị gia tăng (value added).** Phần giá trị mà một nước thực sự tạo ra trong một sản phẩm, bằng giá bán trừ đi giá trị các đầu vào mua từ nơi khác. Ví dụ minh hoạ: một chiếc áo xuất khẩu giá 10 USD nhưng vải và phụ liệu nhập hết 7 USD thì giá trị gia tăng trong nước chỉ 3 USD. Đây là chìa khoá để hiểu "bẫy giá trị gia tăng thấp" mà bài nêu.
+
+**Cạnh tranh bất cân xứng.** Hai bên cạnh tranh trên cùng một thị trường nhưng chênh lệch lớn về quy mô, công nghệ và vốn. Ví dụ trong bài: sữa, thịt bò EU vào Việt Nam theo EVFTA đe doạ nông dân Việt Nam thiếu quy mô và công nghệ. Đây là thách thức đầu tiên mà bài nêu với nước nhỏ.
+
+**Đa dạng hoá thị trường.** Mở rộng xuất khẩu sang nhiều nước để không phụ thuộc quá nhiều vào một khách hàng. Ví dụ trong bài: Campuchia phụ thuộc 70% vào xuất khẩu dệt may sang EU, Mỹ, nên một cú sốc ở hai thị trường này ảnh hưởng ngay tới cả ngành. Đây là một trong ba bài học bài đề xuất.
+
+**CBAM (Carbon Border Adjustment Mechanism).** Cơ chế điều chỉnh carbon biên giới của EU, thu phí trên hàng nhập khẩu theo lượng khí thải phát ra khi sản xuất. Ví dụ minh hoạ: một tấn thép làm bằng công nghệ phát thải cao sẽ phải trả nhiều hơn một tấn thép phát thải thấp khi vào EU. Bài dùng CBAM làm ví dụ cho việc nước lớn định luật chơi, dù gắn nhầm với nông sản.
+
+## Nội dung chi tiết
 
 ### 1. Tự do thương mại là gì
-- Hệ thống trong đó các nước cam kết giảm, loại bỏ rào cản để hàng hóa, dịch vụ, vốn lưu chuyển tự do; nền tảng là các FTA và quy định WTO.
-- Ba đặc điểm:
-  - Giảm thuế quan: theo EVFTA, Việt Nam giảm thuế ô tô nhập từ EU xuống 0% trong 7–10 năm.
-  - Xóa hạn ngạch: bài nêu CPTPP đã xóa quota với đường từ Việt Nam sang Canada.
-  - Nới NTBs nhưng vẫn bảo đảm an toàn: EU công nhận tiêu chuẩn Global G.A.P cho nông sản Việt Nam.
-- Mục tiêu: thúc đẩy tăng trưởng toàn cầu qua trao đổi không hạn chế; tăng cạnh tranh, đổi mới, giảm giá; hỗ trợ hội nhập, giảm bất bình đẳng giữa các nước.
-- Số liệu bài dẫn: thương mại toàn cầu 2024 đạt 31 nghìn tỷ USD, tăng 8,8% so với 2023.
+
+Theo bài, tự do thương mại là một hệ thống trong đó các nước cam kết giảm hoặc loại bỏ rào cản để hàng hoá, dịch vụ và vốn lưu chuyển tự do. Nền tảng của hệ thống là các hiệp định thương mại tự do (FTA) và quy định của WTO.
+
+Bài nêu ba đặc điểm, mỗi đặc điểm kèm một ví dụ:
+
+| Đặc điểm | Ví dụ của bài |
+|---|---|
+| Giảm thuế quan | Theo EVFTA, Việt Nam giảm thuế ô tô nhập từ EU xuống 0% trong 7–10 năm |
+| Xoá hạn ngạch | Bài nêu CPTPP đã xoá quota với đường từ Việt Nam sang Canada |
+| Nới rào cản phi thuế quan (NTBs) nhưng vẫn bảo đảm an toàn | EU công nhận tiêu chuẩn Global G.A.P cho nông sản Việt Nam |
+
+Mục tiêu của tự do thương mại theo bài gồm: thúc đẩy tăng trưởng toàn cầu qua trao đổi không hạn chế; tăng cạnh tranh, đổi mới và giảm giá; hỗ trợ hội nhập và giảm bất bình đẳng giữa các nước. Bài dẫn số liệu thương mại toàn cầu năm 2024 đạt 31 nghìn tỷ USD, tăng 8,8% so với 2023 (số liệu năm 2024 lại được dẫn từ báo cáo năm 2023, xem phần lưu ý đầu file).
 
 ### 2. Lợi ích với nước nhỏ
-- **Tiếp cận thị trường lớn** (Mỹ, EU, Nhật Bản):
-  - Việt Nam nhờ EVFTA tăng xuất khẩu thủy sản sang EU 20% giai đoạn 2019–2023, đạt 2 tỷ USD năm 2023, dự kiến 2,5 tỷ USD năm 2024 (giả định).
-  - Chile qua FTA với Trung Quốc tăng xuất khẩu đồng, rượu vang, đạt 25 tỷ USD năm 2023.
-- **Tăng trưởng và việc làm**:
-  - Dệt may Việt Nam xuất khẩu 46 tỷ USD năm 2024, tạo việc làm cho 2,7 triệu lao động nhờ CPTPP, RCEP (giả định).
-  - Malaysia tăng xuất khẩu dầu cọ, điện tử sang EU, Mỹ thêm 15% sau FTA, góp 10% GDP năm 2023.
-- **Thu hút đầu tư nước ngoài**:
-  - Bài nêu Việt Nam thu hút Samsung, LG mở rộng nhà máy nhờ CPTPP, mang lại hàng chục nghìn việc làm và chuyển giao công nghệ.
-  - Costa Rica, với FTA cùng Mỹ, thu hút Intel xây nhà máy chip, đóng góp 5% GDP năm 2023.
-  - Nước nhỏ học hỏi công nghệ, quản lý từ tập đoàn quốc tế.
+
+Bài nêu ba lợi ích, mỗi lợi ích có ví dụ từ Việt Nam và một nước nhỏ khác.
+
+**Tiếp cận thị trường lớn** như Mỹ, EU, Nhật Bản. Một nước nhỏ có thị trường trong nước hạn chế; FTA mở cho họ những thị trường lớn hơn nhiều lần.
+- Nhờ EVFTA, xuất khẩu thuỷ sản Việt Nam sang EU tăng 20% giai đoạn 2019–2023, đạt 2 tỷ USD năm 2023, dự kiến 2,5 tỷ USD năm 2024 (bài ghi là giả định).
+- Chile, qua FTA với Trung Quốc, tăng xuất khẩu đồng và rượu vang, đạt 25 tỷ USD năm 2023.
+
+**Tăng trưởng và việc làm.**
+- Dệt may Việt Nam xuất khẩu 46 tỷ USD năm 2024, tạo việc làm cho 2,7 triệu lao động nhờ CPTPP, RCEP (bài ghi là giả định).
+- Malaysia tăng xuất khẩu dầu cọ, điện tử sang EU, Mỹ thêm 15% sau FTA, góp 10% GDP năm 2023.
+
+**Thu hút đầu tư nước ngoài (FDI)** và học hỏi công nghệ, cách quản lý từ các tập đoàn quốc tế.
+- Bài nêu Việt Nam thu hút Samsung, LG mở rộng nhà máy nhờ CPTPP, mang lại hàng chục nghìn việc làm và chuyển giao công nghệ. Phần lưu ý đầu file chỉ ra Samsung đầu tư lớn từ trước CPTPP.
+- Costa Rica, nhờ FTA với Mỹ, thu hút Intel xây nhà máy chip, đóng góp 5% GDP năm 2023.
 
 ### 3. Thách thức với nước nhỏ
-- **Cạnh tranh bất bình đẳng**:
-  - Hàng nhập giá rẻ: sữa, thịt bò EU vào Việt Nam theo EVFTA đe dọa nông dân thiếu quy mô, công nghệ.
-  - Thiếu năng lực: dệt may Campuchia mất 10% thị phần trong RCEP 2020–2023 vì không cạnh tranh nổi Trung Quốc, Ấn Độ.
-  - Chi phí nâng chất lượng lớn với doanh nghiệp nhỏ.
-- **Phụ thuộc thị trường lớn**:
-  - Việt Nam có 30% kim ngạch xuất khẩu điện tử sang Mỹ năm 2024 (giả định); suy thoái ở Mỹ có thể ảnh hưởng lớn tới việc làm.
-  - Campuchia phụ thuộc 70% vào xuất khẩu dệt may sang EU, Mỹ.
-- **Chi phí tuân thủ tiêu chuẩn**:
-  - Doanh nghiệp thủy sản Việt Nam chi hàng triệu USD đáp ứng SPS của EU, chiếm 10–15% chi phí xuất khẩu.
-  - Peru tăng 20% chi phí sản xuất nông sản để đạt chuẩn USDA.
+
+Mặt còn lại của mở cửa là ba nhóm thách thức.
+
+**Cạnh tranh bất bình đẳng.** Khi thuế giảm, doanh nghiệp nhỏ trong nước phải cạnh tranh trực tiếp với doanh nghiệp lớn nước ngoài.
+- Hàng nhập giá rẻ: sữa, thịt bò EU vào Việt Nam theo EVFTA đe doạ nông dân thiếu quy mô và công nghệ.
+- Thiếu năng lực: dệt may Campuchia mất 10% thị phần trong khối RCEP giai đoạn 2020–2023 vì không cạnh tranh nổi Trung Quốc, Ấn Độ.
+- Chi phí nâng chất lượng là gánh nặng lớn với doanh nghiệp nhỏ.
+
+**Phụ thuộc thị trường lớn.** Khi phần lớn hàng xuất khẩu đi về một hai nước, suy thoái ở các nước đó lan ngay sang nước nhỏ.
+- Việt Nam có 30% kim ngạch xuất khẩu điện tử sang Mỹ năm 2024 (giả định); suy thoái ở Mỹ có thể ảnh hưởng lớn tới việc làm ở Việt Nam.
+- Campuchia phụ thuộc 70% vào xuất khẩu dệt may sang EU, Mỹ.
+
+**Chi phí tuân thủ tiêu chuẩn.**
+- Doanh nghiệp thuỷ sản Việt Nam chi hàng triệu USD để đáp ứng yêu cầu kiểm dịch (SPS) của EU, chiếm 10–15% chi phí xuất khẩu.
+- Peru tăng 20% chi phí sản xuất nông sản để đạt chuẩn của Bộ Nông nghiệp Mỹ (USDA).
 
 ### 4. Tính công bằng nhìn từ nước nhỏ
-- **Lợi thế nghiêng về nước lớn**: Mỹ, EU, Trung Quốc áp đặt tiêu chuẩn, đàm phán có lợi, bảo vệ ngành nội.
-  - Bài nêu CBAM của EU (2023) làm tăng chi phí xuất khẩu nông sản Việt Nam.
-  - Mỹ áp thuế chống bán phá giá cá tra Việt Nam 2003–2023, gây thiệt hại dù Việt Nam tuân thủ WTO.
-- **Cơ hội không đồng đều**: nước nhỏ xuất nguyên liệu thô, hàng giá trị thấp, nhập công nghệ cao.
-  - Việt Nam xuất gạo và tôm 10 tỷ USD năm 2024 nhưng nhập máy móc, chip từ Mỹ, Nhật 50 tỷ USD (giả định).
-  - Ethiopia xuất cà phê thô sang EU, nhập thiết bị công nghiệp giá cao.
-- **Bài học**:
-  - Nâng năng lực cạnh tranh: đầu tư công nghệ, đào tạo lao động, mở rộng quy mô, lấy Hàn Quốc làm hình mẫu.
-  - Đàm phán thông minh: như Việt Nam yêu cầu EU công nhận tiêu chuẩn nông sản trong EVFTA.
-  - Đa dạng hóa thị trường: mở rộng sang ASEAN, Nhật Bản, Ấn Độ.
+
+Phần này trả lời trực tiếp câu hỏi ở tiêu đề. Bài đưa ra hai lý do khiến tự do thương mại không hoàn toàn công bằng.
+
+**Lợi thế nghiêng về nước lớn.** Mỹ, EU, Trung Quốc có sức nặng để áp đặt tiêu chuẩn, đàm phán điều khoản có lợi và bảo vệ ngành trong nước.
+- Bài nêu CBAM của EU (2023) làm tăng chi phí xuất khẩu nông sản Việt Nam. Phần lưu ý đầu file chỉ ra CBAM không áp cho nông sản và giai đoạn 2023–2025 mới chỉ là báo cáo.
+- Mỹ áp thuế chống bán phá giá lên cá tra Việt Nam suốt 2003–2023, gây thiệt hại dù Việt Nam tuân thủ quy định WTO.
+
+**Cơ hội không đồng đều: bẫy giá trị gia tăng thấp.** Lập luận đi theo chuỗi:
+
+1. Nước nhỏ xuất khẩu nguyên liệu thô và hàng giá trị thấp (gạo, tôm, cà phê thô).
+2. Đồng thời nhập máy móc, chip, thiết bị công nghiệp giá cao.
+3. Phần chênh lệch về giá trị gia tăng khiến lợi ích từ trao đổi nghiêng về nước lớn.
+4. Lối ra là đầu tư công nghệ, đào tạo và mở rộng quy mô để leo lên chuỗi giá trị, theo mô hình Hàn Quốc.
+
+Hai ví dụ của bài: Việt Nam xuất gạo và tôm 10 tỷ USD năm 2024 nhưng nhập máy móc, chip từ Mỹ, Nhật 50 tỷ USD (giả định); Ethiopia xuất cà phê thô sang EU và nhập thiết bị công nghiệp giá cao. Cần lưu ý phép so sánh 10 tỷ với 50 tỷ USD đặt hai rổ hàng không tương ứng cạnh nhau, nên chỉ có giá trị minh hoạ.
+
+**Bài học bài rút ra cho nước nhỏ:**
+
+| Hướng đi | Nội dung | Ví dụ |
+|---|---|---|
+| Nâng năng lực cạnh tranh | Đầu tư công nghệ, đào tạo lao động, mở rộng quy mô | Hàn Quốc |
+| Đàm phán thông minh | Đưa yêu cầu cụ thể vào hiệp định | Việt Nam yêu cầu EU công nhận tiêu chuẩn nông sản trong EVFTA |
+| Đa dạng hoá thị trường | Giảm phụ thuộc vào một hai khách hàng lớn | Mở rộng sang ASEAN, Nhật Bản, Ấn Độ |
 
 ### 5. Kết luận của bài
-- Tự do thương mại mang lại cơ hội (thị trường, tăng trưởng, FDI) nhưng không hoàn toàn công bằng do chênh lệch năng lực, phụ thuộc thị trường lớn, chi phí tuân thủ; nước lớn nắm lợi thế định hình luật chơi.
-- Nước nhỏ cần nâng năng lực, đàm phán khéo, đa dạng hóa để xây chiến lược bền vững.
+
+Bài kết luận rằng tự do thương mại mang lại cơ hội thật cho nước nhỏ (thị trường, tăng trưởng, FDI), nhưng "có cơ hội, nhưng không hoàn toàn công bằng". Ba nguồn gốc của sự thiếu công bằng là chênh lệch năng lực, phụ thuộc thị trường lớn và chi phí tuân thủ; trên hết, nước lớn nắm lợi thế định hình luật chơi.
+
+Vì vậy, nước nhỏ cần nâng năng lực, đàm phán khéo léo và đa dạng hoá thị trường để xây một chiến lược bền vững, thay vì đóng cửa.
 
 ## Thuật ngữ
 

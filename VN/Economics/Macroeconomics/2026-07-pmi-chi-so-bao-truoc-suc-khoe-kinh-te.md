@@ -54,46 +54,105 @@
 2. Đọc PMI thế nào: ý nghĩa của mốc 50, khoảng cách tới 50 và sự thay đổi so với tháng trước?
 3. Vì sao PMI quan trọng với người đi làm, nhà đầu tư, người kinh doanh, và PMI Việt Nam hiện nói gì?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**PMI, Chỉ số Nhà quản trị Mua hàng (Purchasing Managers' Index).** Chỉ số tổng hợp từ khảo sát hằng tháng các giám đốc mua hàng của hàng trăm doanh nghiệp sản xuất, hỏi họ tháng này đơn hàng, sản lượng, nhân sự nhiều hơn hay ít hơn tháng trước. Ví dụ trong bài: PMI sản xuất Việt Nam tháng 6/2026 đạt 51,8 điểm. Đây là đối tượng của toàn bài.
+
+**Ngưỡng 50.** Mốc chia đôi: trên 50 là sản xuất mở rộng so với tháng trước, dưới 50 là thu hẹp, bằng 50 là gần như không đổi. Ví dụ minh hoạ: nếu trong 100 doanh nghiệp được hỏi, số báo "tăng" nhiều hơn số báo "giảm" thì chỉ số nằm trên 50. Đây là quy tắc đầu tiên bài dạy để đọc PMI.
+
+**Đơn hàng mới (new orders).** Lượng đơn đặt hàng doanh nghiệp nhận thêm trong tháng. Ví dụ minh hoạ: một nhà máy may nhận đơn 50.000 áo trong tháng 6 thì phải sản xuất, tuyển người trong tháng 7 và tháng 8. Bài coi đây là thành phần quan trọng nhất vì đơn hàng hôm nay quyết định sản xuất và việc làm những tháng sau.
+
+**Thời gian giao hàng của nhà cung cấp (suppliers' delivery times).** Nhà cung cấp nguyên vật liệu giao hàng nhanh hay chậm. Ví dụ minh hoạ: nếu thường mất 2 tuần mà nay mất 4 tuần, thường là vì nhà cung cấp đang quá nhiều đơn. Bài lưu ý giao hàng chậm thường phản ánh nhu cầu cao, ngược với cảm nhận thông thường.
+
+**Tồn kho hàng mua (stocks of purchases).** Lượng nguyên vật liệu doanh nghiệp tích trữ. Ví dụ minh hoạ: doanh nghiệp kỳ vọng đơn hàng tăng sẽ mua trữ thêm vải, linh kiện. Đây là thành phần thứ năm của PMI.
+
+**Chỉ báo sớm (leading indicator).** Chỉ số cho tín hiệu trước khi số liệu chính thức như GDP được công bố. Ví dụ trong bài: PMI tháng 6 được công bố ngay đầu tháng 7, trong khi GDP quý II phải đợi tới cuối quý. Bài gọi PMI là "đèn báo phía trước" và GDP là "gương chiếu hậu", và đây là lý do chính khiến PMI đáng theo dõi.
+
+**GDP (tổng sản phẩm trong nước).** Tổng giá trị hàng hoá, dịch vụ được tạo ra trong nền kinh tế, công bố theo quý. Ví dụ minh hoạ: GDP quý I cho biết nền kinh tế đã làm ra bao nhiêu trong ba tháng đã qua. Bài dùng GDP làm đối chiếu để thấy PMI khác ở chỗ nhanh hơn và hướng về phía trước.
+
+**Chu kỳ kinh tế (business cycle).** Các giai đoạn lên xuống của nền kinh tế: phục hồi, tăng trưởng, suy giảm, đáy. Ví dụ trong bài: PMI trên 50 nhiều tháng liền là dấu hiệu nền kinh tế đang trong giai đoạn mở rộng. Bài coi PMI là một mảnh ghép quan trọng để nhận diện đang ở giai đoạn nào.
+
+## Nội dung chi tiết
 
 ### 1. Mở đầu
-- Mỗi đầu tháng báo chí đưa tin kiểu "PMI sản xuất Việt Nam tháng 6 đạt 51,8 điểm". Nhiều người bỏ qua vì thấy khô khan, nhưng con số này giúp đoán kinh tế đang tăng tốc hay chững lại trước cả khi GDP được công bố.
+
+Mỗi đầu tháng, báo chí đưa tin kiểu "PMI sản xuất Việt Nam tháng 6 đạt 51,8 điểm". Nhiều người bỏ qua vì thấy con số khô khan. Bài cho rằng con số này đáng chú ý, vì nó giúp đoán nền kinh tế đang tăng tốc hay chững lại trước cả khi GDP được công bố.
 
 ### 2. PMI là gì
-- Viết tắt của Purchasing Managers' Index, Chỉ số Nhà quản trị Mua hàng.
-- Mỗi tháng, đơn vị khảo sát hỏi giám đốc mua hàng của hàng trăm doanh nghiệp sản xuất: đơn hàng tháng này nhiều hơn hay ít hơn tháng trước, sản xuất tăng hay giảm, có tuyển thêm nhân sự không.
-- Người được hỏi nắm rõ "nhịp thở" doanh nghiệp vì trực tiếp đặt mua nguyên vật liệu; tổng hợp câu trả lời tạo thành PMI. Nói cách khác, PMI là khảo sát tâm trạng của những người ở tuyến đầu sản xuất.
-- Tại Việt Nam, PMI ngành sản xuất do S&P Global khảo sát và công bố hằng tháng.
+
+PMI là viết tắt của *Purchasing Managers' Index*, tiếng Việt là Chỉ số Nhà quản trị Mua hàng.
+
+Cách tạo ra chỉ số: mỗi tháng, đơn vị khảo sát hỏi giám đốc mua hàng của hàng trăm doanh nghiệp sản xuất những câu hỏi đơn giản. Đơn hàng tháng này nhiều hơn hay ít hơn tháng trước? Sản xuất tăng hay giảm? Có tuyển thêm nhân sự không? Câu trả lời của tất cả doanh nghiệp được tổng hợp thành một con số, là PMI.
+
+Vì sao hỏi giám đốc mua hàng? Họ là người trực tiếp đặt mua nguyên vật liệu, nên nắm rõ "nhịp thở" của doanh nghiệp: khi đơn hàng về nhiều, họ là người đầu tiên phải mua thêm đầu vào. Bài tóm lại: PMI là bản khảo sát tâm trạng của những người đứng ở tuyến đầu sản xuất.
+
+Tại Việt Nam, PMI ngành sản xuất do S&P Global khảo sát và công bố hằng tháng.
 
 ### 3. Quy tắc số 50
-- PMI trên 50: sản xuất mở rộng so với tháng trước; dưới 50: thu hẹp; bằng 50: gần như không đổi.
-- Càng xa 50 thì tốc độ thay đổi càng mạnh: PMI 55 là mở rộng nhanh; PMI 47 là thu hẹp rõ rệt.
-- Áp dụng: PMI tháng 6/2026 đạt 51,8 điểm nghĩa là sản xuất vẫn mở rộng, ở mức vừa phải (nguồn bài: S&P Global, Vietstock, 7/2026).
-- Mẹo đọc nhanh: đừng chỉ nhìn con số tuyệt đối mà so với tháng trước. PMI giảm từ 54 xuống 51 vẫn trên 50, tức sản xuất vẫn mở rộng nhưng tốc độ đã chậm lại, tín hiệu nhà đầu tư đặc biệt quan tâm.
+
+Quy tắc cơ bản để đọc PMI:
+
+| PMI | Ý nghĩa | Ví dụ của bài |
+|---|---|---|
+| Trên 50 | Sản xuất mở rộng so với tháng trước | 55: mở rộng nhanh |
+| Bằng 50 | Gần như không đổi | |
+| Dưới 50 | Sản xuất thu hẹp | 47: thu hẹp rõ rệt |
+
+Con số càng xa 50 thì tốc độ thay đổi càng mạnh. (Nói chính xác, PMI đo tỷ lệ doanh nghiệp báo cải thiện so với báo xấu đi, tức mức độ lan rộng của thay đổi, chứ không đo trực tiếp sản lượng tăng bao nhiêu phần trăm.)
+
+**Áp dụng:** PMI tháng 6/2026 đạt 51,8 điểm. Vì 51,8 lớn hơn 50, sản xuất vẫn mở rộng; vì chỉ cao hơn 50 chưa tới 2 điểm, mức mở rộng là vừa phải (nguồn bài: S&P Global, Vietstock, 7/2026).
+
+**Mẹo đọc nhanh:** đừng chỉ nhìn con số tuyệt đối mà phải so với tháng trước. Ví dụ PMI giảm từ 54 xuống 51: cả hai đều trên 50, tức sản xuất vẫn mở rộng, nhưng tốc độ mở rộng đã chậm lại. Đây là loại tín hiệu nhà đầu tư đặc biệt quan tâm, vì nó có thể báo trước một bước ngoặt.
 
 ### 4. Năm thành phần của PMI
-- Đơn hàng mới: doanh nghiệp có nhận thêm đơn không.
-- Sản lượng: mức sản xuất thực tế trong tháng.
-- Việc làm: tuyển thêm hay cắt giảm lao động.
-- Thời gian giao hàng của nhà cung cấp: nhanh hay chậm; chậm thường phản ánh nhu cầu cao.
-- Tồn kho hàng mua: tích trữ nhiều hay ít nguyên vật liệu.
-- Đơn hàng mới thường được coi là chỉ báo quan trọng nhất vì đơn hàng hôm nay quyết định sản xuất và việc làm những tháng tiếp theo.
+
+PMI tổng hợp được xây từ năm thành phần, mỗi thành phần ứng với một câu hỏi trong khảo sát:
+
+| Thành phần | Đo điều gì |
+|---|---|
+| Đơn hàng mới | Doanh nghiệp có nhận thêm đơn hàng không |
+| Sản lượng | Mức sản xuất thực tế trong tháng |
+| Việc làm | Doanh nghiệp tuyển thêm hay cắt giảm lao động |
+| Thời gian giao hàng của nhà cung cấp | Nhà cung cấp giao nhanh hay chậm; giao chậm thường phản ánh nhu cầu cao |
+| Tồn kho hàng mua | Doanh nghiệp tích trữ nhiều hay ít nguyên vật liệu |
+
+Đơn hàng mới thường được coi là chỉ báo quan trọng nhất, vì đơn hàng hôm nay quyết định sản xuất và việc làm của những tháng tiếp theo. Thành phần thời gian giao hàng cần đọc ngược: khi nhà máy khắp nơi đều bận, nhà cung cấp quá tải nên giao chậm, nên giao chậm lại là dấu hiệu nhu cầu mạnh.
 
 ### 5. Vì sao PMI quan trọng
-- Tính báo sớm: GDP công bố theo quý, phản ánh điều đã xảy ra; PMI công bố hằng tháng, ngay đầu tháng kế tiếp, như đèn báo phía trước.
-- Người đi làm: PMI trên 50 nhiều tháng liền cho thấy nhiều đơn hàng, nhu cầu tuyển dụng tốt hơn, thuận lợi để đàm phán lương hoặc chuyển việc; dưới 50 kéo dài là tín hiệu cần thận trọng.
-- Nhà đầu tư: mảnh ghép quan trọng để đọc chu kỳ kinh tế, đánh giá triển vọng lợi nhuận doanh nghiệp và tâm lý thị trường.
-- Người kinh doanh: giúp dự báo sức cầu, hỗ trợ quyết định nhập hàng, mở rộng hoặc tuyển thêm nhân sự.
+
+**Tính báo sớm.** GDP được công bố theo quý và phản ánh những gì đã xảy ra. PMI được công bố hằng tháng, ngay đầu tháng kế tiếp, nên cho tín hiệu sớm hơn nhiều. Bài ví PMI như đèn báo phía trước, còn GDP như gương chiếu hậu. Ví dụ minh hoạ: PMI tháng 4, 5, 6 đã có trong tay vào đầu tháng 5, 6, 7, trước khi số GDP quý II được công bố.
+
+Bài chỉ ra PMI có ích cho ba nhóm người:
+
+- **Người đi làm:** PMI trên 50 nhiều tháng liền cho thấy doanh nghiệp có nhiều đơn hàng, nhu cầu tuyển dụng tốt hơn, nên thuận lợi để đàm phán lương hoặc chuyển việc. PMI dưới 50 kéo dài là tín hiệu cần thận trọng.
+- **Nhà đầu tư:** PMI là mảnh ghép quan trọng để đọc chu kỳ kinh tế, đánh giá triển vọng lợi nhuận của doanh nghiệp và tâm lý thị trường.
+- **Người kinh doanh:** PMI giúp dự báo sức cầu, hỗ trợ quyết định nhập hàng, mở rộng hay tuyển thêm nhân sự.
 
 ### 6. PMI Việt Nam đang nói gì
-- Việt Nam là nền kinh tế định hướng xuất khẩu nên PMI sản xuất đặc biệt đáng theo dõi; nó phản ánh lượng đơn hàng từ thế giới chảy vào các nhà máy trong nước.
-- PMI tháng 6/2026 đạt 51,8 điểm, tiếp tục trên 50, khu vực sản xuất vẫn mở rộng (nguồn bài: Vietstock, 7/2026).
-- Một tháng chưa nói lên xu hướng; điều chuyên gia quan tâm là PMI duy trì trên hay dưới 50 trong nhiều tháng liên tiếp.
+
+Việt Nam là nền kinh tế định hướng xuất khẩu, nên PMI sản xuất đặc biệt đáng theo dõi: nó phản ánh lượng đơn hàng từ thế giới chảy vào các nhà máy trong nước.
+
+PMI tháng 6/2026 đạt 51,8 điểm, tiếp tục nằm trên 50, cho thấy khu vực sản xuất vẫn mở rộng (nguồn bài: Vietstock, 7/2026).
+
+Tuy vậy, bài lưu ý một tháng chưa nói lên xu hướng. Điều chuyên gia quan tâm là PMI duy trì trên hay dưới 50 trong nhiều tháng liên tiếp; xu hướng nhiều tháng mới phản ánh đúng sức khoẻ nền kinh tế.
 
 ### 7. Hành động và câu hỏi thường gặp
-- Khi đọc tin PMI, chỉ cần nhìn ba điều: trên hay dưới 50; tăng hay giảm so với tháng trước; đơn hàng mới cải thiện hay suy yếu. Đủ để hình dung nền kinh tế đang ở giai đoạn nào của chu kỳ.
-- PMI khác GDP: PMI hằng tháng, báo sớm, dựa trên khảo sát; GDP theo quý, phản ánh giá trị đã tạo ra. PMI như đèn báo phía trước, GDP như gương chiếu hậu.
-- Ai công bố: S&P Global, hằng tháng. Con số mới nhất (theo bài): 51,8 điểm tháng 6/2026.
+
+**Ba điều cần nhìn khi đọc tin PMI**, áp dụng cho tin "PMI sản xuất Việt Nam tháng 6/2026 đạt 51,8 điểm":
+
+1. **Trên hay dưới 50?** 51,8 lớn hơn 50, nên sản xuất mở rộng, ở mức vừa phải.
+2. **Tăng hay giảm so với tháng trước?** Nếu tháng trước là 54 mà nay còn 51, sản xuất vẫn mở rộng nhưng đang chậm lại.
+3. **Đơn hàng mới cải thiện hay suy yếu?** Thành phần này quyết định sản xuất và việc làm của tháng tới.
+
+Theo bài, ba điều này đủ để hình dung nền kinh tế đang ở giai đoạn nào của chu kỳ.
+
+**Các câu hỏi thường gặp:**
+
+| Câu hỏi | Trả lời của bài |
+|---|---|
+| PMI khác GDP thế nào? | PMI ra hằng tháng, báo sớm, dựa trên khảo sát; GDP ra theo quý, phản ánh giá trị đã tạo ra. PMI như đèn báo phía trước, GDP như gương chiếu hậu |
+| Ai công bố PMI Việt Nam? | S&P Global, hằng tháng |
+| Con số mới nhất là bao nhiêu? | Theo bài, 51,8 điểm trong tháng 6/2026 |
 
 ## Thuật ngữ
 

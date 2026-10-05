@@ -48,27 +48,70 @@
 2. Việt Nam đứng ở đâu so với các nước ASEAN và thế giới về tốc độ tăng trưởng, quy mô và thu nhập bình quân?
 3. Đâu là động lực, thách thức và triển vọng tăng trưởng của Việt Nam đến 2030, 2045?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tăng trưởng kinh tế (economic growth).** Mức tăng giá trị hàng hoá, dịch vụ mà một nước sản xuất ra, thường tính theo năm. Bài ví như kiểm tra xem doanh nghiệp của mình có kiếm được nhiều tiền hơn mỗi năm không. Ví dụ trong bài: năm 2024 GDP Việt Nam tăng 7,09%, nghĩa là nền kinh tế làm ra nhiều hơn năm trước khoảng 7%. Đây là chỉ số mà cả bài dùng để so Việt Nam với khu vực và thế giới.
+
+**GDP (tổng sản phẩm trong nước).** Tổng giá trị hàng hoá, dịch vụ cuối cùng được sản xuất trong một nước trong một năm. Ví dụ trong bài: GDP Việt Nam năm 2024 khoảng 476 tỷ USD, lớn thứ 4 ASEAN. GDP đo quy mô nền kinh tế; tốc độ tăng của nó là tăng trưởng.
+
+**GDP thực và GDP danh nghĩa (real / nominal GDP).** GDP danh nghĩa tính theo giá hiện hành; GDP thực đã loại bỏ phần tăng do giá cả (lạm phát). Ví dụ minh hoạ: nếu năm nay nền kinh tế làm ra đúng lượng hàng như năm ngoái nhưng giá mọi thứ tăng 4%, GDP danh nghĩa tăng 4% còn GDP thực tăng 0%. Các tốc độ tăng trưởng trong bài (như 7,09%) là theo GDP thực, còn quy mô tính bằng USD (như 476 tỷ USD) là danh nghĩa.
+
+**GDP bình quân đầu người (GDP per capita).** GDP chia cho dân số, dùng làm thước đo thu nhập trung bình. Ví dụ trong bài: Việt Nam khoảng 4.620 USD/người năm 2024, so với Singapore 88.000 USD. Đây là chỉ số cho thấy Việt Nam có quy mô lớn thứ 4 ASEAN nhưng thu nhập mỗi người chỉ đứng thứ 6.
+
+**Ngang giá sức mua (PPP).** Cách quy đổi GDP các nước theo những gì tiền mua được tại chỗ, thay vì theo tỷ giá thị trường. Ở nước giá cả thấp, cùng một đô la mua được nhiều hơn, nên GDP theo PPP lớn hơn GDP theo tỷ giá. Ví dụ trong bài: GDP theo PPP của Việt Nam khoảng 1.531 tỷ USD (năm 2025), lớn hơn nhiều so với khoảng 476 tỷ USD tính theo tỷ giá. Bài dùng cả hai thước đo, nên người đọc cần biết chúng khác nhau.
+
+**FDI giải ngân (disbursed FDI).** Vốn đầu tư trực tiếp nước ngoài thực sự đã được rót vào nền kinh tế, khác với vốn đăng ký (mới hứa sẽ đầu tư). Ví dụ trong bài: FDI giải ngân năm 2023 đạt 23,2 tỷ USD. FDI là động lực tăng trưởng đầu tiên mà bài nêu.
+
+**Giải ngân đầu tư công (public investment disbursement).** Tỷ lệ vốn ngân sách dành cho các dự án đã thực sự được chi, so với kế hoạch. Ví dụ trong bài: năm 2024 chỉ đạt 73% kế hoạch; với kế hoạch minh hoạ 100 nghìn tỷ đồng thì 27 nghìn tỷ đồng chưa được dùng. Bài coi đây là một thách thức, vì tiền đã có nhưng chưa biến thành đường sá, cầu cảng.
+
+**Nước thu nhập trung bình thấp (lower-middle income).** Nhóm thu nhập theo phân loại của Ngân hàng Thế giới, dựa trên thu nhập bình quân đầu người. Ví dụ trong bài: Việt Nam đi từ một trong những nước nghèo nhất (khoảng 600 USD/người năm 1986) lên nhóm này, và đặt mục tiêu thành nước thu nhập cao vào năm 2045. Khái niệm này giúp đặt các con số tăng trưởng vào đích đến dài hạn.
+
+## Nội dung chi tiết
 
 ### 1. Tăng trưởng kinh tế là gì
-- Ví von: như kiểm tra doanh nghiệp của mình có kiếm nhiều tiền hơn mỗi năm không; với quốc gia, đo bằng GDP (tổng giá trị hàng hóa, dịch vụ sản xuất trong một năm).
-- Định nghĩa: sự gia tăng giá trị hàng hóa, dịch vụ sản xuất trong một nước, đo bằng GDP hoặc GDP bình quân đầu người; GDP có thể tính theo giá thực (đã điều chỉnh lạm phát) hoặc danh nghĩa.
-- Năm yếu tố thúc đẩy:
-  - Nguồn nhân lực: số lượng và chất lượng lao động, như dân số trẻ ở Việt Nam.
-  - Tư bản: đầu tư máy móc, nhà xưởng, như dự án FDI.
-  - Công nghệ: máy móc hiện đại, tự động hóa.
-  - Tài nguyên thiên nhiên: dầu mỏ, đất đai, như nông nghiệp Đồng bằng sông Cửu Long.
-  - Chính sách kinh tế: quy định của chính phủ, như giảm thuế khuyến khích kinh doanh.
+
+Bài mở đầu bằng một so sánh: đo tăng trưởng kinh tế giống như kiểm tra xem doanh nghiệp của mình có kiếm được nhiều tiền hơn mỗi năm không. Với một quốc gia, thước đo là GDP, tổng giá trị hàng hoá, dịch vụ sản xuất ra trong một năm.
+
+Định nghĩa chính xác hơn: tăng trưởng kinh tế là sự gia tăng giá trị hàng hoá, dịch vụ sản xuất trong một nước, đo bằng GDP hoặc GDP bình quân đầu người. GDP có thể tính theo giá thực (đã điều chỉnh lạm phát) hoặc theo giá danh nghĩa (chưa điều chỉnh). Khi nói tốc độ tăng trưởng, người ta dùng GDP thực để biết nền kinh tế thực sự làm ra nhiều hơn bao nhiêu, chứ không chỉ là giá cả tăng.
+
+Bài nêu năm yếu tố thúc đẩy tăng trưởng:
+
+| Yếu tố | Nội dung | Ví dụ của bài |
+|---|---|---|
+| Nguồn nhân lực | Số lượng và chất lượng lao động | Dân số trẻ ở Việt Nam |
+| Tư bản | Đầu tư máy móc, nhà xưởng | Các dự án FDI |
+| Công nghệ | Máy móc hiện đại, tự động hoá | |
+| Tài nguyên thiên nhiên | Dầu mỏ, đất đai | Nông nghiệp Đồng bằng sông Cửu Long |
+| Chính sách kinh tế | Quy định của chính phủ | Giảm thuế để khuyến khích kinh doanh |
 
 ### 2. Tăng trưởng của Việt Nam qua các giai đoạn
-- 1986–2000: GDP bình quân tăng 6,51%/năm; công nghiệp và xây dựng 9,06%, dịch vụ 6,66%, nông nghiệp 3,72%; vượt trội so với sự suy giảm của các nền kinh tế kế hoạch hóa ở Đông Âu, Liên Xô.
-- 2001–2011: bình quân 7,34%/năm, thuộc nhóm cao nhất Đông Nam Á và châu Á; năm 2010 GDP đạt 101,6 tỷ USD, gấp 3,26 lần năm 2000 (tức năm 2000 khoảng 31,2 tỷ USD).
-- 2012–2019: ổn định khoảng 6–7%/năm; năm 2019 đứng thứ 8 thế giới và thứ 2 ASEAN về tốc độ tăng trưởng, xuất khẩu xếp thứ 22 toàn cầu.
-- 2020–2023: năm 2020 tăng 2,91% (thuộc nhóm cao nhất thế giới), 2021 tăng 2,58%, 2022 tăng 8,02% (cao nhất khu vực), 2023 tăng 5,05% với quy mô khoảng 430 tỷ USD.
-- 2024 (Tổng cục Thống kê): tăng 7,09%, vượt mục tiêu Quốc hội 6–6,5%. Quý IV/2024 tăng 7,13%: công nghiệp và xây dựng 8,83%, dịch vụ 7,87%, nông nghiệp 2,75%. Quy mô khoảng 476 tỷ USD, vượt Philippines thành nền kinh tế lớn thứ 4 ASEAN sau Indonesia, Thái Lan, Singapore; GDP bình quân đầu người khoảng 4.620 USD.
-- Quý I/2025: tăng 6,93%, bài coi là chậm lại một phần do chính sách thương mại, thuế quan của các đối tác lớn như Mỹ, nhưng vẫn cao so với khu vực và thế giới.
+
+Theo bài, kể từ Đổi mới năm 1986, Việt Nam đã chuyển từ một trong những nước nghèo nhất thế giới thành nước thu nhập trung bình thấp. Bài chia hành trình thành sáu chặng:
+
+**1986–2000.** GDP tăng bình quân 6,51% mỗi năm. Theo ngành: công nghiệp và xây dựng tăng 9,06%, dịch vụ 6,66%, nông nghiệp 3,72%. Kết quả này vượt trội so với sự suy giảm của các nền kinh tế kế hoạch hoá ở Đông Âu và Liên Xô cùng thời kỳ.
+
+**2001–2011.** Bình quân 7,34% mỗi năm, thuộc nhóm cao nhất Đông Nam Á và châu Á. Năm 2010 GDP đạt 101,6 tỷ USD, gấp 3,26 lần năm 2000 (suy ra năm 2000 khoảng 31,2 tỷ USD).
+
+**2012–2019.** Ổn định khoảng 6–7% mỗi năm. Năm 2019 Việt Nam đứng thứ 8 thế giới và thứ 2 ASEAN về tốc độ tăng trưởng; xuất khẩu xếp thứ 22 toàn cầu.
+
+**2020–2023.** Giai đoạn chịu tác động của đại dịch:
+
+| Năm | Tăng trưởng | Ghi chú của bài |
+|---|---|---|
+| 2020 | 2,91% | Thuộc nhóm cao nhất thế giới trong năm đại dịch |
+| 2021 | 2,58% | |
+| 2022 | 8,02% | Cao nhất khu vực |
+| 2023 | 5,05% | Quy mô GDP khoảng 430 tỷ USD |
+
+**2024.** Theo Tổng cục Thống kê, GDP tăng 7,09%, vượt mục tiêu Quốc hội đặt ra là 6–6,5%. Riêng quý IV/2024 tăng 7,13%, trong đó công nghiệp và xây dựng 8,83%, dịch vụ 7,87%, nông nghiệp 2,75%. Quy mô GDP khoảng 476 tỷ USD, vượt Philippines (451 tỷ USD) để thành nền kinh tế lớn thứ 4 ASEAN, sau Indonesia, Thái Lan, Singapore. GDP bình quân đầu người khoảng 4.620 USD.
+
+**Quý I/2025.** Tăng 6,93%. Bài coi đây là mức chậm lại, một phần do chính sách thương mại và thuế quan của các đối tác lớn như Mỹ, nhưng vẫn cao so với khu vực và thế giới. Phần lưu ý đầu file chỉ ra thuế quan đối ứng của Mỹ được công bố sau khi quý I kết thúc, và 6,93% thực ra là mức tăng quý I cao.
+
+Mục tiêu phía trước: đến năm 2030 GDP bình quân đầu người 7.500 USD, đến năm 2045 thành nước thu nhập cao.
 
 ### 3. So sánh với các nước Đông Nam Á
+
+Bảng so sánh của bài:
 
 | Quốc gia | GDP/người 2024 (USD) | Tăng trưởng 2023 (%) | Tăng trưởng 2024 (%) | Dự báo 2025 (%) |
 |---|---|---|---|---|
@@ -84,54 +127,98 @@
 | Myanmar | 1.250 | 1,0 | 1,5 | 2,0 |
 | Đông Timor | 1.190 | 2,0 | 2,5 | 2,3 |
 
-- Việt Nam được xếp vào nhóm tăng trưởng cao và ổn định nhất ASEAN cùng Philippines và Campuchia.
-- GDP bình quân đầu người (2024, IMF): Việt Nam đứng thứ 6 ASEAN, sau Singapore, Brunei, Malaysia, Thái Lan, Indonesia; trên Philippines, Lào, Campuchia, Myanmar, Đông Timor.
-- Tốc độ tăng: năm 2023 Việt Nam (5,05%) đứng thứ 3 sau Philippines (5,6%) và Campuchia (5,3%). Năm 2024 bài viết Việt Nam (7,09%) "đứng thứ 2 sau Philippines (6,3%)" (xem Lưu ý), vượt Campuchia 6,2%, Indonesia 5,2%, Malaysia 5,0%, Thái Lan 3,3%, Singapore 2,6%, Brunei 2,4%.
-- Dự báo 2025 (ADB, IMF): Việt Nam 5,2–6,3%, bài xếp thứ 2 sau Philippines (5,5–6,0%), trên Indonesia 4,7%, Malaysia 4,1%, Singapore 2%, Thái Lan 1,8%.
-- Quy mô 2024: Indonesia 1.475 tỷ USD, Thái Lan 548 tỷ, Singapore 533 tỷ, Việt Nam 476 tỷ, Philippines 451 tỷ.
-- Dẫn chứng sức bật: xuất khẩu tăng 11,1% trong tháng 1/2024 so với tháng trước; FDI giải ngân 1,5 tỷ USD tháng 1/2024.
+Bài rút ra các nhận xét:
+
+- **Nhóm tăng trưởng:** Việt Nam thuộc nhóm tăng trưởng cao và ổn định nhất ASEAN, cùng Philippines và Campuchia.
+- **Thu nhập bình quân (2024, theo IMF):** Việt Nam đứng thứ 6 ASEAN, sau Singapore, Brunei, Malaysia, Thái Lan, Indonesia và trên Philippines, Lào, Campuchia, Myanmar, Đông Timor. Khoảng cách với nước đầu bảng rất lớn: thu nhập bình quân của Singapore gấp khoảng 19 lần Việt Nam.
+- **Tốc độ tăng năm 2023:** Việt Nam (5,05%) đứng thứ 3, sau Philippines (5,6%) và Campuchia (5,3%).
+- **Tốc độ tăng năm 2024:** bài viết Việt Nam (7,09%) "đứng thứ 2 sau Philippines (6,3%)". Theo chính số liệu của bài thì 7,09% cao hơn 6,3%, tức Việt Nam đứng đầu; đây là lỗi mâu thuẫn đã nêu ở phần lưu ý đầu file. Việt Nam vượt Campuchia 6,2%, Indonesia 5,2%, Malaysia 5,0%, Thái Lan 3,3%, Singapore 2,6%, Brunei 2,4%.
+- **Dự báo 2025 (ADB, IMF):** Việt Nam 5,2–6,3%, bài xếp thứ 2 sau Philippines (5,5–6,0%), trên Indonesia 4,7%, Malaysia 4,1%, Singapore 2%, Thái Lan 1,8%.
+- **Quy mô GDP 2024:** Indonesia 1.475 tỷ USD, Thái Lan 548 tỷ, Singapore 533 tỷ, Việt Nam 476 tỷ, Philippines 451 tỷ.
+- **Dẫn chứng sức bật:** xuất khẩu tăng 11,1% trong tháng 1/2024 so với tháng trước; FDI giải ngân 1,5 tỷ USD trong tháng 1/2024.
 
 ### 4. Vị trí trên thế giới
-- Được đánh giá trong nhóm 20 nền kinh tế tăng trưởng nhanh nhất, đặc biệt trong nhóm đang phát triển và mới nổi.
-- Tăng trưởng qua các năm:
-  - 2020: thế giới suy thoái gần −4%, Việt Nam +2,91%.
-  - 2022: Việt Nam 8,02% so với thế giới 3,4%, Mỹ 2,1%, Trung Quốc 3,0%, Nhật Bản 1,0%, Đức 1,8%.
-  - 2023: Việt Nam 5,05% so với thế giới 3,2%, Mỹ 2,5%, khu vực euro 0,5%, Nhật Bản 1,9%.
-  - 2024: 7,09% đưa Việt Nam vào top 10 tăng trưởng nhanh nhất thế giới; IMF dự báo 6,4% bình quân giai đoạn 2024–2029, cùng Ấn Độ (7,0%), Philippines (6,3%), Bangladesh (6,0%).
-  - Quý I/2025: 6,93%, vẫn trong nhóm năng động dù chịu áp lực thương mại.
-- Quy mô và thu nhập:
-  - GDP danh nghĩa 2024: 476 tỷ USD, thứ 45 thế giới, thứ 4 ASEAN. Theo PPP: khoảng 1.531 tỷ USD cuối năm 2025, thứ 12 châu Á, thứ 26 thế giới.
-  - GDP bình quân đầu người: từ 600 USD năm 1986 lên 4.620 USD năm 2024, gấp 7,7 lần trong gần 40 năm (4.620 / 600 = 7,7). Theo PPP: 10.755 USD năm 2020, thứ 6 ASEAN.
-- Xếp hạng quốc tế: năm 2019 IMF đánh giá Việt Nam là một trong 20 nền kinh tế đóng góp lớn nhất vào tăng trưởng toàn cầu; Chỉ số Năng lực cạnh tranh toàn cầu (GCI) 2019 xếp thứ 67/141, tăng 10 bậc; năm 2025 là nền kinh tế lớn thứ 12 châu Á theo các báo cáo quốc tế.
-- So với các nền kinh tế lớn: Mỹ (25,5 nghìn tỷ USD, tăng 2,5% năm 2023), Trung Quốc (18,3 nghìn tỷ USD, 5,2%), Ấn Độ (3,4 nghìn tỷ USD, 7,2%); Việt Nam nhỏ hơn nhưng tăng nhanh hơn trong nhóm đang phát triển.
+
+Theo bài, Việt Nam được đánh giá thuộc nhóm 20 nền kinh tế tăng trưởng nhanh nhất thế giới, nhất là trong nhóm đang phát triển và mới nổi.
+
+**Tăng trưởng so với thế giới qua các năm:**
+
+| Năm | Việt Nam | So sánh |
+|---|---|---|
+| 2020 | +2,91% | Thế giới suy thoái gần −4% |
+| 2022 | 8,02% | Thế giới 3,4%, Mỹ 2,1%, Trung Quốc 3,0%, Nhật Bản 1,0%, Đức 1,8% |
+| 2023 | 5,05% | Thế giới 3,2%, Mỹ 2,5%, khu vực euro 0,5%, Nhật Bản 1,9% |
+| 2024 | 7,09% | Đưa Việt Nam vào top 10 tăng trưởng nhanh nhất thế giới |
+| Quý I/2025 | 6,93% | Vẫn trong nhóm năng động dù chịu áp lực thương mại |
+
+IMF dự báo Việt Nam tăng bình quân 6,4% giai đoạn 2024–2029, cùng nhóm với Ấn Độ (7,0%), Philippines (6,3%), Bangladesh (6,0%).
+
+**Quy mô và thu nhập:**
+- GDP danh nghĩa năm 2024 là 476 tỷ USD, thứ 45 thế giới, thứ 4 ASEAN. Theo ngang giá sức mua (PPP), khoảng 1.531 tỷ USD vào cuối năm 2025, thứ 12 châu Á, thứ 26 thế giới.
+- GDP bình quân đầu người tăng từ 600 USD năm 1986 lên 4.620 USD năm 2024, gấp 7,7 lần trong gần 40 năm (4.620 / 600 = 7,7). Phép so này dùng đô la danh nghĩa, chưa tính việc đô la năm 2024 mua được ít hơn đô la năm 1986. Theo PPP, GDP bình quân đầu người là 10.755 USD năm 2020, thứ 6 ASEAN.
+
+**Xếp hạng quốc tế:**
+- Năm 2019, IMF đánh giá Việt Nam là một trong 20 nền kinh tế đóng góp lớn nhất vào tăng trưởng toàn cầu.
+- Chỉ số Năng lực cạnh tranh toàn cầu (GCI) năm 2019 xếp Việt Nam thứ 67/141, tăng 10 bậc.
+- Năm 2025, Việt Nam là nền kinh tế lớn thứ 12 châu Á theo các báo cáo quốc tế.
+
+**So với các nền kinh tế lớn:** Mỹ có quy mô 25,5 nghìn tỷ USD và tăng 2,5% năm 2023; Trung Quốc 18,3 nghìn tỷ USD, tăng 5,2%; Ấn Độ 3,4 nghìn tỷ USD, tăng 7,2%. Việt Nam nhỏ hơn rất nhiều (quy mô bằng chưa tới 2% của Mỹ) nhưng tăng nhanh hơn, thuộc nhóm nhanh trong các nước đang phát triển. Phần lưu ý đầu file chỉ ra các quy mô này là số năm 2022 ghép với tăng trưởng năm 2023.
 
 ### 5. Động lực tăng trưởng
-- FDI dồi dào nhờ môi trường kinh doanh thuận lợi, chính sách hỗ trợ, chi phí lao động cạnh tranh: FDI giải ngân năm 2023 đạt 23,2 tỷ USD; tháng 1/2024 đạt 1,5 tỷ USD.
-- Xuất khẩu mạnh: trung tâm sản xuất điện tử, dệt may, nông sản; kim ngạch xuất nhập khẩu 2023 đạt 681 tỷ USD.
-- Hội nhập: thành viên WTO, ASEAN, APEC, CPTPP, EVFTA và hơn 15 FTA.
-- Nhân lực: dân số 97,3 triệu (2020), lao động trẻ; năng suất lao động tăng 64% giai đoạn 2010–2020, cao hơn nhiều nước trong khu vực.
-- Tích lũy vốn: đầu tư công và FDI ổn định; dự án trọng điểm như cao tốc Bắc–Nam, sân bay Long Thành, cảng biển Hải Phòng, Đà Nẵng.
-- Kinh tế số: tăng nhanh nhất Đông Nam Á, đạt 19% năm 2023, tỷ trọng 16,5% GDP; hơn 1.500 doanh nghiệp công nghệ số có doanh thu 7,5 tỷ USD từ thị trường nước ngoài.
-- Chính sách linh hoạt: tiền tệ thận trọng, tài khóa mở rộng, thu hút FDI có chọn lọc (năng lượng tái tạo, chip bán dẫn).
+
+Bài nêu bảy động lực:
+
+1. **FDI dồi dào**, nhờ môi trường kinh doanh thuận lợi, chính sách hỗ trợ và chi phí lao động cạnh tranh. FDI giải ngân năm 2023 đạt 23,2 tỷ USD; riêng tháng 1/2024 đạt 1,5 tỷ USD.
+2. **Xuất khẩu mạnh**: Việt Nam là trung tâm sản xuất điện tử, dệt may, nông sản. Kim ngạch xuất nhập khẩu năm 2023 đạt 681 tỷ USD.
+3. **Hội nhập**: thành viên WTO, ASEAN, APEC, CPTPP, EVFTA và hơn 15 hiệp định thương mại tự do.
+4. **Nhân lực**: dân số 97,3 triệu người (2020), lao động trẻ. Năng suất lao động tăng 64% trong giai đoạn 2010–2020, cao hơn nhiều nước trong khu vực.
+5. **Tích luỹ vốn**: đầu tư công và FDI ổn định; các dự án trọng điểm như cao tốc Bắc – Nam, sân bay Long Thành, cảng biển Hải Phòng, Đà Nẵng.
+6. **Kinh tế số**: tăng nhanh nhất Đông Nam Á, đạt 19% năm 2023, chiếm 16,5% GDP. Hơn 1.500 doanh nghiệp công nghệ số có doanh thu 7,5 tỷ USD từ thị trường nước ngoài.
+7. **Chính sách linh hoạt**: tiền tệ thận trọng, tài khoá mở rộng, thu hút FDI có chọn lọc vào các lĩnh vực như năng lượng tái tạo, chip bán dẫn.
 
 ### 6. Thách thức
-- Rủi ro thương mại: thuế quan, bảo hộ của các nền kinh tế lớn như Mỹ; bài nêu quý I/2025 giảm nhẹ xuống 6,93% do các chính sách này.
-- Biến động quốc tế: lạm phát ở nền kinh tế lớn, xung đột Nga–Ukraine, Trung Đông, giá nhiên liệu, nguyên liệu ảnh hưởng xuất khẩu và FDI.
-- Giải ngân đầu tư công chậm: năm 2024 chỉ đạt 73% kế hoạch.
-- Phụ thuộc xuất khẩu: xuất khẩu chiếm 90% GDP, dễ bị ảnh hưởng khi tổng cầu toàn cầu giảm.
-- Chất lượng lao động: kỹ năng chưa đáp ứng ngành công nghệ cao; thất nghiệp thanh niên 8% năm 2024.
-- Biến đổi khí hậu, thiên tai: gây thiệt hại cho nông nghiệp (14% GDP, 38% việc làm) và hạ tầng.
+
+Đối trọng với các động lực, bài nêu sáu thách thức:
+
+| Thách thức | Nội dung và số liệu của bài |
+|---|---|
+| Rủi ro thương mại | Thuế quan, bảo hộ của các nền kinh tế lớn như Mỹ; bài cho rằng quý I/2025 giảm nhẹ xuống 6,93% do các chính sách này |
+| Biến động quốc tế | Lạm phát ở các nền kinh tế lớn, xung đột Nga – Ukraine, Trung Đông, giá nhiên liệu, nguyên liệu; ảnh hưởng xuất khẩu và FDI |
+| Giải ngân đầu tư công chậm | Năm 2024 chỉ đạt 73% kế hoạch |
+| Phụ thuộc xuất khẩu | Xuất khẩu chiếm khoảng 90% GDP, dễ bị ảnh hưởng khi tổng cầu toàn cầu giảm |
+| Chất lượng lao động | Kỹ năng chưa đáp ứng ngành công nghệ cao; thất nghiệp thanh niên 8% năm 2024 |
+| Biến đổi khí hậu, thiên tai | Gây thiệt hại cho nông nghiệp (14% GDP, 38% việc làm) và hạ tầng |
+
+Lý do "phụ thuộc xuất khẩu" là rủi ro: khi các nước mua hàng của Việt Nam gặp khó, đơn hàng giảm và tác động lan nhanh sang sản xuất, việc làm trong nước.
 
 ### 7. Dự báo và triển vọng
-- Năm 2025: IMF dự báo 5,2%, WB 6,1%, HSBC 6,3%, Standard Chartered 6,7%; ADB dự báo Đông Nam Á bình quân 4,7%, Việt Nam dẫn đầu với 5,2–6,3%.
-- Đến 2030: mục tiêu GDP bình quân đầu người 7.500 USD, tăng trưởng bình quân 6%/năm (theo bài).
-- Đến 2045: hướng tới thu nhập cao; bài nêu GDP PPP "dự kiến vượt 850 tỷ USD vào năm 2025" và đạt 70% quy mô kinh tế Anh vào năm 2050.
-- Điều kiện: đổi mới mô hình tăng trưởng, tập trung khoa học công nghệ, chuyển đổi xanh, nâng chất lượng nhân lực.
+
+**Năm 2025**, các tổ chức đưa ra dự báo khác nhau:
+
+| Tổ chức | Dự báo tăng trưởng Việt Nam 2025 |
+|---|---|
+| IMF | 5,2% |
+| Ngân hàng Thế giới (WB) | 6,1% |
+| HSBC | 6,3% |
+| Standard Chartered | 6,7% |
+
+ADB dự báo Đông Nam Á tăng bình quân 4,7%, với Việt Nam dẫn đầu ở mức 5,2–6,3%.
+
+**Đến 2030**: mục tiêu GDP bình quân đầu người 7.500 USD, tăng trưởng bình quân 6% mỗi năm (theo bài).
+
+**Đến 2045**: hướng tới thu nhập cao. Bài nêu GDP theo PPP "dự kiến vượt 850 tỷ USD vào năm 2025" và đạt 70% quy mô kinh tế Anh vào năm 2050. Con số 850 tỷ USD mâu thuẫn với con số 1.531 tỷ USD bài nêu ở chỗ khác cho cùng năm 2025.
+
+**Điều kiện** để đạt các mục tiêu này: đổi mới mô hình tăng trưởng, tập trung vào khoa học công nghệ, chuyển đổi xanh và nâng chất lượng nguồn nhân lực.
+
+**Ví dụ minh hoạ về khoảng cách tới mục tiêu** (phép tính của người tổng hợp). Từ 4.620 USD năm 2024 lên 7.500 USD năm 2030 là tăng khoảng 62% trong sáu năm, tức thu nhập bình quân tính bằng USD phải tăng khoảng 8% mỗi năm. Con số này cao hơn mức tăng trưởng thực 6% mà bài nêu, nên phần còn lại phải đến từ lạm phát và tỷ giá ổn định hoặc từ tăng trưởng nhanh hơn.
 
 ### 8. Kết luận
-- GDP tăng 7,09% năm 2024, bài xếp thứ 2 Đông Nam Á và top 10 toàn cầu; lớn thứ 4 khu vực với 476 tỷ USD; GDP PPP dự kiến 1.531 tỷ USD năm 2025, thứ 12 châu Á.
-- Dù có thách thức, Việt Nam đủ tiềm năng duy trì đà tăng nhờ FDI, xuất khẩu và chính sách linh hoạt.
-- Nguồn bài nêu: Tổng cục Thống kê, World Bank, Wikipedia, Tạp chí Cộng sản, Báo Chính phủ, Đài PT-TH Ninh Bình, Nhịp sống kinh tế, Tạp chí Kinh tế và Dự báo, Viện Nghiên cứu Phát triển, ADB Outlook 2024, IMF WEO 2025.
+
+Bài tóm tắt: GDP năm 2024 tăng 7,09%, bài xếp thứ 2 Đông Nam Á và trong top 10 toàn cầu; quy mô lớn thứ 4 khu vực với 476 tỷ USD; GDP theo PPP dự kiến 1.531 tỷ USD năm 2025, thứ 12 châu Á.
+
+Dù có thách thức, bài cho rằng Việt Nam đủ tiềm năng duy trì đà tăng trưởng nhờ FDI, xuất khẩu và chính sách linh hoạt, với điều kiện đổi mới mô hình tăng trưởng.
+
+Các nguồn bài nêu: Tổng cục Thống kê, World Bank, Wikipedia, Tạp chí Cộng sản, Báo Chính phủ, Đài PT-TH Ninh Bình, Nhịp sống kinh tế, Tạp chí Kinh tế và Dự báo, Viện Nghiên cứu Phát triển, ADB Outlook 2024, IMF WEO 2025.
 
 ## Thuật ngữ
 

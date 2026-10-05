@@ -51,54 +51,101 @@ Căng thẳng Trung Đông, nguy cơ gián đoạn eo biển
 2. Vì sao một biến động trên thị trường dầu lại kết thúc ở chi tiêu hằng ngày của mỗi gia đình?
 3. Vì sao giá dầu là rủi ro lạm phát lớn nhất cuối năm 2026, và người tiêu dùng nên chuẩn bị gì?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Dầu WTI và dầu Brent.** Hai loại dầu thô chuẩn mà thị trường dùng để báo giá. WTI (West Texas Intermediate) là dầu chuẩn của Mỹ; Brent khai thác ở Biển Bắc và là giá tham chiếu cho phần lớn giao dịch dầu trên thế giới. Ví dụ trong bài: ngày 4/8/2026, WTI quanh 80 USD/thùng, Brent khoảng 83,7 USD/thùng. Khi nói "giá dầu thế giới", bài muốn nói tới hai mức giá này.
+
+**USD/thùng.** Đơn vị báo giá dầu thô; một thùng khoảng 159 lít. Ví dụ minh hoạ: với giá 80 USD/thùng, một lít dầu thô có giá khoảng 0,5 USD, chưa tính chi phí lọc, vận chuyển, thuế và phí. Đơn vị này giúp hiểu vì sao giá dầu thô và giá xăng ở cây xăng cách nhau nhiều.
+
+**Kỳ điều hành giá xăng dầu.** Các mốc định kỳ cơ quan quản lý điều chỉnh giá bán lẻ xăng dầu trong nước, dựa trên giá thế giới bình quân giữa hai kỳ, cộng tỷ giá, thuế và phí. Ví dụ trong bài: đầu tháng 8/2026, xăng E5 RON 92 khoảng 22.400 đồng/lít. Khái niệm này giải thích vì sao giá xăng trong nước không nhảy ngay khi giá dầu thế giới đổi.
+
+**Lạm phát bình quân.** Mức tăng giá tiêu dùng trung bình của các tháng trong một giai đoạn, so với cùng kỳ năm trước. Ví dụ trong bài: lạm phát bình quân 7 tháng đầu năm 2026 khoảng 4,4%, nghĩa là một giỏ hàng tốn 100.000 đồng năm trước nay tốn khoảng 104.400 đồng. Đây là "thế cân bằng" mà bài lo giá dầu sẽ phá vỡ.
+
+**Lạm phát chi phí đẩy (cost-push inflation).** Giá tăng vì chi phí đầu vào như năng lượng, vận tải tăng, chứ không phải vì người mua muốn mua nhiều hơn. Ví dụ minh hoạ: cước chở một xe rau từ Đà Lạt về thành phố tăng vì dầu diesel đắt hơn, nên giá rau ở chợ nhích lên. Đây là cơ chế chính của cả bài.
+
+**Rủi ro địa chính trị.** Nguy cơ xung đột, căng thẳng giữa các nước làm gián đoạn sản xuất hoặc vận chuyển hàng hoá. Ví dụ trong bài: căng thẳng Trung Đông và nguy cơ gián đoạn vận tải qua các eo biển chiến lược đẩy giá dầu lên vùng 90–100 USD/thùng trong tháng 7/2026. Đây là nguồn gốc của mọi biến động mà bài phân tích.
+
+**Quỹ dự phòng.** Khoản tiền mặt gia đình để riêng để ứng phó biến cố hoặc chi phí tăng đột ngột. Ví dụ minh hoạ: một gia đình chi 15 triệu đồng mỗi tháng giữ quỹ bằng 3–6 tháng chi tiêu, tức 45–90 triệu đồng. Bài coi đây là công cụ phòng thủ chính trước rủi ro lạm phát.
+
+**Tích trữ hoảng loạn.** Mua dồn hàng vì sợ giá tăng. Ví dụ minh hoạ: nếu nhiều người cùng đổ xô mua thêm vài can xăng, nhu cầu tăng vọt trong vài ngày và chính điều đó đẩy giá lên. Bài khuyên tránh hành vi này.
+
+## Nội dung chi tiết
 
 ### 1. Mở bài: câu hỏi của chị Lan
-- Mỗi lần đổ xăng, chị Lan thấy giá nhích lên và thắc mắc vì sao giá xăng lên xuống thất thường, ảnh hưởng gì tới tiền chợ. Câu trả lời bắt đầu từ giá dầu thế giới.
+
+Bài mở đầu bằng một tình huống đời thường. Mỗi lần đổ xăng, chị Lan thấy giá nhích lên và thắc mắc: vì sao giá xăng lên xuống thất thường như vậy, và điều đó ảnh hưởng gì tới tiền đi chợ của gia đình? Theo bài, câu trả lời bắt đầu từ giá dầu thế giới, một thị trường tưởng như rất xa nhưng nối thẳng tới bữa cơm hằng ngày.
 
 ### 2. Diễn biến giá dầu
-- Tháng 7/2026: giá dầu WTI có lúc bật lên vùng 90–100 USD/thùng do căng thẳng địa chính trị.
-- Ngày 4/8/2026: WTI về quanh 80 USD/thùng, Brent lùi về khoảng 83,7 USD/thùng.
-- Giá bán lẻ trong nước đầu tháng 8:
+
+Trong tháng 7/2026, giá dầu WTI có lúc bật lên vùng 90–100 USD/thùng do căng thẳng địa chính trị. Sang đầu tháng 8, giá hạ nhiệt: ngày 4/8/2026, WTI về quanh 80 USD/thùng, Brent lùi về khoảng 83,7 USD/thùng.
+
+Giá bán lẻ trong nước đầu tháng 8/2026:
 
 | Mặt hàng | Giá đầu tháng 8/2026 |
 |---|---|
-| Xăng E5 RON 92 | khoảng 22.400 đồng/lít |
-| Xăng E10 RON 95 | khoảng 24.250 đồng/lít |
-| Dầu diesel | trên 29.000 đồng/lít |
+| Xăng E5 RON 92 | Khoảng 22.400 đồng/lít |
+| Xăng E10 RON 95 | Khoảng 24.250 đồng/lít |
+| Dầu diesel | Trên 29.000 đồng/lít |
 
-- Giá dầu thế giới là chỉ báo quan trọng cho các kỳ điều hành tiếp theo.
-- Điều khiến giới phân tích chưa yên tâm: căng thẳng Trung Đông và nguy cơ gián đoạn vận tải qua các eo biển chiến lược vẫn hiện hữu; giá có thể quay lại vùng cao bất cứ lúc nào.
+Giá dầu thế giới là chỉ báo quan trọng cho các kỳ điều hành giá trong nước tiếp theo, vì giá bán lẻ được tính dựa trên giá thế giới.
+
+Điều khiến giới phân tích chưa yên tâm là các nguyên nhân gốc vẫn còn: căng thẳng ở Trung Đông và nguy cơ gián đoạn vận tải qua các eo biển chiến lược. Vì vậy giá có thể quay lại vùng cao bất cứ lúc nào.
 
 ### 3. Vì sao giá dầu chạm vào túi tiền mọi người
-- Dầu không chỉ là xăng đổ vào xe mà là đầu vào của gần như mọi thứ. Chuỗi lan truyền ba bước:
-  - Giá xăng dầu tăng → chi phí đi lại của mỗi gia đình tăng.
-  - Cước vận tải tăng → chi phí đưa hàng từ nơi sản xuất đến chợ, siêu thị tăng.
-  - Giá hàng tiêu dùng tăng → từ rau, thịt, cá đến đồ gia dụng đều có thể nhích giá.
-- Chi phí năng lượng nằm trong giá thành của hầu hết hàng hóa, dịch vụ nên tác động không dừng ở cây xăng.
-- ACBS cảnh báo áp lực lạm phát có thể lan từ nhóm năng lượng sang nhóm lương thực, thực phẩm, nhóm chiếm tỷ trọng lớn trong chi tiêu của gia đình Việt.
+
+Ý chính của bài: dầu không chỉ là xăng đổ vào xe mà là đầu vào của gần như mọi thứ. Toàn bộ chuỗi lan truyền như sau:
+
+1. Căng thẳng Trung Đông và nguy cơ gián đoạn vận tải qua eo biển đẩy giá dầu thế giới (WTI, Brent) lên.
+2. Sau mỗi kỳ điều chỉnh, cộng thêm tác động của tỷ giá, thuế và phí, giá xăng dầu bán lẻ trong nước tăng.
+3. Giá xăng tăng tác động theo hai nhánh:
+   - **Trực tiếp**: chi phí đi lại của mỗi gia đình tăng.
+   - **Gián tiếp**: cước vận tải hàng hoá tăng, tức chi phí đưa hàng từ nơi sản xuất tới chợ, siêu thị tăng.
+4. Giá hàng tiêu dùng nhích lên, từ rau, thịt, cá tới đồ gia dụng.
+5. Lạm phát lan sang nhóm lương thực, thực phẩm.
+6. Cuối cùng, áp lực dồn lên lãi suất, tỷ giá và sức mua của đồng tiền.
+
+Lý do tác động không dừng ở cây xăng là chi phí năng lượng nằm trong giá thành của hầu hết hàng hoá, dịch vụ: máy móc chạy bằng điện hoặc dầu, hàng hoá đi bằng xe tải, tàu thuyền, và nhiều nguyên liệu như nhựa, phân bón làm từ dầu khí.
+
+Công ty chứng khoán ACBS, được bài trích dẫn, cảnh báo áp lực lạm phát có thể lan từ nhóm năng lượng sang nhóm lương thực, thực phẩm. Đây là nhóm chiếm tỷ trọng lớn trong chi tiêu của gia đình Việt, nên tác động tới đời sống lớn hơn nhiều so với riêng giá xăng.
+
+**Ví dụ minh hoạ** (số giả định của người tổng hợp). Một gia đình mỗi tháng đổ 40 lít xăng. Nếu giá xăng tăng 2.000 đồng/lít, chi phí đi lại trực tiếp tăng 80.000 đồng. Nhưng nếu cước vận tải tăng làm giá rau, thịt, cá nhích thêm 2–3%, thì với khoản tiền chợ 6 triệu đồng mỗi tháng, gia đình phải chi thêm 120.000–180.000 đồng, nhiều hơn phần tăng ở cây xăng.
 
 ### 4. Vì sao đây là rủi ro lớn nhất cuối năm
-- Lạm phát bình quân 7 tháng đầu năm 2026 đang được kiểm soát ở khoảng 4,4%.
-- Giá dầu là ẩn số lớn nhất có thể phá vỡ thế cân bằng: nếu địa chính trị leo thang và dầu quay lại 90–100 USD, lạm phát tăng, kéo theo hệ quả lên lãi suất, tỷ giá và sức mua của đồng tiền.
-- Kết luận: giá dầu hạ nhiệt là tin tốt nhưng chưa phải lúc chủ quan.
+
+Lạm phát bình quân 7 tháng đầu năm 2026 đang được kiểm soát ở khoảng 4,4%. Theo bài, giá dầu là ẩn số lớn nhất có thể phá vỡ thế cân bằng này. Bài phác hai kịch bản cho cuối năm 2026, xuất phát từ mức giá đầu tháng 8 (WTI khoảng 80 USD, Brent khoảng 83,7 USD):
+
+| Kịch bản | Giá dầu | Hệ quả |
+|---|---|---|
+| Địa chính trị lắng dịu | Ổn định quanh 80 USD/thùng | Lạm phát giữ quanh mức kiểm soát (bình quân 7 tháng khoảng 4,4%) |
+| Địa chính trị leo thang | Quay lại 90–100 USD/thùng | Lạm phát tăng, khó hạ lãi suất, tỷ giá chịu áp lực, sức mua của đồng tiền giảm |
+
+Kết luận của bài: giá dầu hạ nhiệt lúc này là tin tốt, nhưng chưa phải lúc để chủ quan.
 
 ### 5. Người tiêu dùng nên chuẩn bị gì
-- Ba nguyên tắc:
-  - Rà soát chi tiêu: biết tiền đi đâu để dễ điều chỉnh khi giá tăng.
-  - Ưu tiên quỹ dự phòng: tấm đệm tiền mặt giúp vững vàng khi chi phí sinh hoạt biến động.
-  - Không hoảng loạn tích trữ: giá dầu lên xuống theo chu kỳ, phản ứng thái quá thường gây hại nhiều hơn lợi.
-- Ba việc làm ngay:
-  1. Ghi lại chi tiêu một tháng để biết nhóm nào nhạy nhất với giá xăng dầu (đi lại, đi chợ) và có phương án điều chỉnh.
-  2. Kiểm tra quỹ dự phòng; nếu chưa có hoặc còn mỏng, củng cố trước mùa giá cả biến động cuối năm.
-  3. Theo dõi các kỳ điều hành giá xăng dầu để chủ động ngân sách gia đình.
+
+Bài đưa ra ba nguyên tắc:
+
+- **Rà soát chi tiêu**: biết tiền đi đâu thì dễ điều chỉnh khi giá tăng.
+- **Ưu tiên quỹ dự phòng**: một tấm đệm tiền mặt giúp gia đình vững vàng khi chi phí sinh hoạt biến động.
+- **Không hoảng loạn tích trữ**: giá dầu lên xuống theo chu kỳ, và phản ứng thái quá thường gây hại nhiều hơn lợi, kể cả vì việc nhiều người cùng tích trữ đẩy giá lên thêm.
+
+Và ba việc làm ngay:
+
+1. Ghi lại chi tiêu trong một tháng để biết nhóm nào nhạy nhất với giá xăng dầu (thường là đi lại và đi chợ), rồi chuẩn bị phương án điều chỉnh.
+2. Kiểm tra quỹ dự phòng; nếu chưa có hoặc còn mỏng thì củng cố trước mùa giá cả biến động cuối năm.
+3. Theo dõi các kỳ điều hành giá xăng dầu để chủ động ngân sách gia đình.
 
 ### 6. Hỏi đáp của bài
-- Giá dầu hiện nay: đầu tháng 8/2026, WTI quanh 80 USD/thùng, Brent khoảng 83,7 USD/thùng, hạ so với vùng 90–100 USD tháng 7.
-- Vì sao dầu ảnh hưởng lạm phát: dầu là đầu vào của xăng, vận tải, sản xuất; chi phí lan qua cước vận tải và giá hàng hóa.
-- Giá dầu tăng thì xăng trong nước có tăng ngay không: không tức thì; giá bán lẻ điều chỉnh theo kỳ, dựa trên bình quân giá thế giới giữa hai kỳ điều hành, cùng tỷ giá, thuế và phí.
-- Rủi ro lạm phát cuối 2026 đến từ đâu: lớn nhất là giá dầu nếu địa chính trị đẩy dầu quay lại vùng cao; áp lực có thể lan sang lương thực, thực phẩm.
-- Người dân nên làm gì: rà soát chi tiêu, củng cố quỹ dự phòng, tránh tích trữ hoảng loạn, giữ tài chính linh hoạt.
+
+Bài kết thúc bằng năm câu hỏi đáp:
+
+| Câu hỏi | Trả lời của bài |
+|---|---|
+| Giá dầu hiện nay thế nào? | Đầu tháng 8/2026, WTI quanh 80 USD/thùng, Brent khoảng 83,7 USD/thùng, hạ so với vùng 90–100 USD trong tháng 7 |
+| Vì sao dầu ảnh hưởng tới lạm phát? | Dầu là đầu vào của xăng, vận tải, sản xuất; chi phí lan qua cước vận tải và giá hàng hoá |
+| Giá dầu tăng thì xăng trong nước có tăng ngay không? | Không tức thì. Giá bán lẻ điều chỉnh theo kỳ, dựa trên bình quân giá thế giới giữa hai kỳ điều hành, cùng tỷ giá, thuế và phí |
+| Rủi ro lạm phát cuối 2026 đến từ đâu? | Lớn nhất là giá dầu, nếu địa chính trị đẩy dầu quay lại vùng cao; áp lực có thể lan sang lương thực, thực phẩm |
+| Người dân nên làm gì? | Rà soát chi tiêu, củng cố quỹ dự phòng, tránh tích trữ hoảng loạn, giữ tài chính linh hoạt |
 
 ## Thuật ngữ
 
