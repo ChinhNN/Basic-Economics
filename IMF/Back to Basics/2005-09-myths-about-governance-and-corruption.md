@@ -220,38 +220,161 @@
 2. Quản trị tốt mang lại lợi ích kinh tế bao nhiêu?
 3. Điều gì thực sự hiệu quả trong cải thiện quản trị?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Quản trị (governance).** Theo bài, là các truyền thống và thể chế mà qua đó thẩm quyền ở một nước được thực thi vì lợi ích chung. Nó có ba chiều: cách người cầm quyền được chọn, giám sát và thay thế (chiều chính trị); năng lực chính phủ quản lý nguồn lực và thực hiện chính sách tốt (chiều kinh tế); và mức độ công dân cùng nhà nước tôn trọng các thể chế của nước mình (chiều tôn trọng thể chế). Ví dụ minh hoạ: một nước có bầu cử định kỳ, bộ máy thu thuế chạy tốt và toà án được dân tin là một nước có quản trị tốt ở cả ba chiều. Khái niệm này quan trọng vì lầm tưởng đầu tiên mà bài bác bỏ chính là việc đánh đồng quản trị với chống tham nhũng.
+
+**Tham nhũng (corruption).** Bài dùng định nghĩa hẹp: "lạm dụng chức vụ công vì lợi ích tư". Ví dụ minh hoạ: một cán bộ đòi 50 USD mới cấp giấy phép mà lẽ ra phải cấp miễn phí. Tham nhũng chỉ là một phần của quản trị; một nước có thể ít tham nhũng vặt nhưng vẫn quản trị kém nếu, chẳng hạn, chính sách bị một nhóm lợi ích chi phối.
+
+**Chỉ số quản trị tổng hợp (aggregate governance indicators).** Bộ chỉ số do Ngân hàng Thế giới xây dựng, gộp nhiều nguồn đánh giá khác nhau thành một điểm số cho mỗi chiều quản trị. Bộ chỉ số trong bài phủ hơn 200 nước, dựa trên hơn 350 biến, đo sáu chiều. Gộp nhiều nguồn giúp giảm sai số so với dựa vào một khảo sát duy nhất. Đây là bằng chứng chính để bài bác bỏ lầm tưởng "quản trị không đo được".
+
+**Biên sai số (margin of error).** Khoảng không chắc chắn quanh một con số ước lượng. Ví dụ minh hoạ: nếu nước A có điểm 0,3 và nước B có điểm 0,2, nhưng biên sai số mỗi bên là ±0,2, thì ta không thể khẳng định A quản trị tốt hơn B. Vì vậy bài khuyên không nên dùng chỉ số để xếp hạng chính xác từng bậc giữa các nước.
+
+**Độ lệch chuẩn (standard deviation).** Thước đo mức độ phân tán của một tập số quanh giá trị trung bình. Trong bài, "cải thiện một độ lệch chuẩn" là một bước nhảy lớn, ví dụ đưa Uganda lên mức của Lithuania về kiểm soát tham nhũng. Bài dùng đơn vị này để nói rằng bước nhảy đó có thể gần như gấp ba thu nhập đầu người trong dài hạn.
+
+**Cổ tức phát triển (development dividend).** Lợi ích kinh tế và xã hội mà một nước thu được khi cải thiện quản trị: thu nhập cao hơn, tử vong trẻ sơ sinh thấp hơn, mù chữ ít hơn. Chữ "cổ tức" nhấn rằng đây là khoản lợi thu về từ một khoản "đầu tư" vào thể chế. Đây là luận điểm chính của bài để bác bỏ lầm tưởng rằng tầm quan trọng của quản trị bị thổi phồng.
+
+**Thuế luỹ thoái (regressive tax).** Một khoản thuế mà người thu nhập thấp phải trả với tỷ lệ trên thu nhập cao hơn người thu nhập cao. Ví dụ minh hoạ: một khoản hối lộ 10 USD để được khám bệnh là 10% thu nhập tháng của người kiếm 100 USD, nhưng chỉ 0,5% của người kiếm 2.000 USD. Bài gọi tham nhũng là "thuế luỹ thoái" lên hộ gia đình vì đúng cơ chế này.
+
+**Chiếm giữ nhà nước (state capture).** Tình trạng các lợi ích tư nhân quyền lực (trường hợp cực đoan là "tài phiệt") chi phối việc làm luật, chính sách và thể chế nhà nước để phục vụ mình. Khác với hối lộ vặt (mua một quyết định), chiếm giữ nhà nước là mua chính các quy tắc. Khái niệm này cho thấy vì sao bài cho rằng thủ phạm không chỉ là khu vực công.
+
+## Nội dung chi tiết
 
 ### 1. Bối cảnh và định nghĩa (lầm tưởng 1–2)
 
-- Quản trị, một chủ đề vẫn nhạy cảm và bị hiểu sai, nay đang được ưu tiên cao hơn trong giới phát triển. Một vài nhà tài trợ và định chế tài chính quốc tế đã bắt đầu làm việc với một số nền kinh tế mới nổi để giúp giảm tham nhũng, khuyến khích tiếng nói của công dân, bình đẳng giới và trách nhiệm giải trình. Khi các nước G8 công bố tháng 7 quyết định tăng gấp đôi viện trợ và xoá nợ cho các nước nghèo nhất châu Phi, các quan ngại về quản trị nổi bật. Và tháng 5, báo cáo chung của Uỷ ban châu Phi nói rõ: "Quản trị tốt là chìa khoá... Trừ khi có cải thiện về năng lực, trách nhiệm giải trình và giảm tham nhũng... các cải cách khác sẽ chỉ có tác động hạn chế."
-- **Lầm tưởng 1: Quản trị và chống tham nhũng là một.** Quản trị được định nghĩa là các truyền thống và thể chế mà qua đó thẩm quyền ở một nước được thực thi vì lợi ích chung. Điều này gồm quá trình những người có thẩm quyền được chọn, giám sát và thay thế (chiều chính trị); năng lực của chính phủ quản lý hiệu quả nguồn lực và thực hiện chính sách lành mạnh (chiều kinh tế); và sự tôn trọng của công dân và nhà nước đối với các thể chế của nước đó (chiều tôn trọng thể chế). Ngược lại, tham nhũng được định nghĩa hẹp hơn là "lạm dụng chức vụ công vì lợi ích tư".
-- **Lầm tưởng 2: Quản trị và tham nhũng không đo được.** Đúng là chưa đầy một chục năm trước hầu như không có thước đo so sánh quốc tế nào về quản trị hay tham nhũng. Nhưng trong những năm gần đây, Ngân hàng Thế giới và các tổ chức khác đã tìm cách khắc phục. Tại Ngân hàng Thế giới, chúng tôi đã xây dựng các chỉ số quản trị tổng hợp phủ hơn 200 nước, dựa trên hơn 350 biến thu được từ hàng chục định chế trên toàn thế giới. Các chỉ số của chúng tôi phủ sáu chiều quản trị: tiếng nói và trách nhiệm giải trình; ổn định chính trị và sự vắng mặt của bạo lực và khủng bố lớn; hiệu quả chính phủ; chất lượng quy định; pháp quyền; và kiểm soát tham nhũng. Dù các chỉ số đại diện cho một bước tiến lớn, vẫn có những thách thức đo lường. Biên sai số không hề nhỏ, và cần thận trọng khi diễn giải kết quả: không nên xếp hạng chính xác các nước. Nhưng các biên sai số này đã giảm và nay thấp hơn đáng kể so với bất kỳ thước đo đơn lẻ nào về tham nhũng, quản trị hay môi trường đầu tư. Kết quả là các chỉ số quản trị của Ngân hàng Thế giới được dùng trên toàn thế giới để theo dõi hiệu quả, cho các đánh giá quốc gia và cho nghiên cứu.
+**Bối cảnh.** Quản trị vẫn là một chủ đề nhạy cảm và bị hiểu sai, nhưng nay được ưu tiên cao hơn trong giới làm phát triển. Một số nhà tài trợ và định chế tài chính quốc tế đã bắt đầu làm việc với một số nền kinh tế mới nổi để giúp giảm tham nhũng, khuyến khích tiếng nói của công dân, bình đẳng giới và trách nhiệm giải trình. Bài nêu hai sự kiện cho thấy chủ đề này đang được chú ý:
+
+- Tháng 7, khi nhóm G8 (tám nền kinh tế công nghiệp lớn) công bố quyết định tăng gấp đôi viện trợ và xoá nợ cho các nước nghèo nhất châu Phi, các quan ngại về quản trị nổi bật trong thảo luận.
+- Tháng 5, báo cáo chung của Uỷ ban châu Phi viết rõ: "Quản trị tốt là chìa khoá... Trừ khi có cải thiện về năng lực, trách nhiệm giải trình và giảm tham nhũng... các cải cách khác sẽ chỉ có tác động hạn chế."
+
+Trên nền đó, tác giả lần lượt bác bỏ mười lầm tưởng phổ biến.
+
+**Lầm tưởng 1: "Quản trị và chống tham nhũng là một."** Hai khái niệm này khác nhau về phạm vi. Quản trị được định nghĩa là các truyền thống và thể chế mà qua đó thẩm quyền ở một nước được thực thi vì lợi ích chung. Nó gồm ba chiều:
+
+| Chiều | Nội dung |
+|---|---|
+| Chính trị | Quá trình những người có thẩm quyền được chọn, được giám sát và bị thay thế |
+| Kinh tế | Năng lực của chính phủ trong việc quản lý hiệu quả nguồn lực và thực hiện chính sách lành mạnh |
+| Tôn trọng thể chế | Sự tôn trọng của công dân và của nhà nước đối với các thể chế của nước đó |
+
+Tham nhũng thì được định nghĩa hẹp hơn nhiều: "lạm dụng chức vụ công vì lợi ích tư". Tức là chống tham nhũng chỉ là một phần trong việc cải thiện quản trị; một nước có thể giảm được hối lộ nhưng vẫn quản trị kém nếu người cầm quyền không bị giám sát hay toà án không được tôn trọng.
+
+**Lầm tưởng 2: "Quản trị và tham nhũng không đo được."** Tác giả thừa nhận rằng chưa đầy một chục năm trước, hầu như không có thước đo nào cho phép so sánh quản trị hay tham nhũng giữa các nước. Nhưng trong những năm gần đây, Ngân hàng Thế giới và các tổ chức khác đã khắc phục điều này. Ngân hàng Thế giới đã xây dựng các chỉ số quản trị tổng hợp phủ hơn 200 nước, dựa trên hơn 350 biến lấy từ hàng chục định chế trên toàn thế giới. Các chỉ số này đo sáu chiều quản trị:
+
+1. Tiếng nói và trách nhiệm giải trình.
+2. Ổn định chính trị và vắng mặt bạo lực, khủng bố lớn.
+3. Hiệu quả chính phủ.
+4. Chất lượng quy định.
+5. Pháp quyền.
+6. Kiểm soát tham nhũng.
+
+Các chỉ số này là một bước tiến lớn, nhưng thách thức đo lường vẫn còn. Biên sai số không hề nhỏ, nên cần thận trọng khi diễn giải: không nên dùng chúng để xếp hạng chính xác các nước theo từng bậc. Dù vậy, biên sai số đã giảm và nay thấp hơn đáng kể so với bất kỳ thước đo đơn lẻ nào về tham nhũng, quản trị hay môi trường đầu tư, vì chỉ số tổng hợp gộp nhiều nguồn độc lập lại với nhau. Kết quả là các chỉ số quản trị của Ngân hàng Thế giới được dùng trên toàn thế giới để theo dõi hiệu quả, để đánh giá từng quốc gia và để nghiên cứu.
 
 ### 2. Lợi ích của quản trị tốt (lầm tưởng 3–5)
 
-- **Lầm tưởng 3: Tầm quan trọng của quản trị và chống tham nhũng bị thổi phồng.** Nhờ các tiến bộ này và các tiến bộ khác trong đo lường thực nghiệm, một số nhà nghiên cứu đã xem xét tác động của quản trị lên phát triển. Nghiên cứu nhìn chung cho thấy các nước có thể thu được "cổ tức phát triển" rất lớn từ quản trị tốt hơn. Chúng tôi ước tính rằng một nước cải thiện quản trị từ mức tương đối thấp lên mức trung bình có thể gần như gấp ba thu nhập đầu người của dân số trong dài hạn, và giảm tương tự tử vong trẻ sơ sinh và mù chữ. Một cải thiện tương đối như vậy (một độ lệch chuẩn) sẽ tương ứng, chẳng hạn, với việc đi lên trong xếp hạng của chúng tôi cho chiều "kiểm soát tham nhũng": đưa Guinea Xích Đạo lên mức Uganda, Uganda lên Lithuania, Lithuania lên Bồ Đào Nha, và Bồ Đào Nha lên Phần Lan.
-- Quản trị cũng quan trọng với sức cạnh tranh và phân phối thu nhập của một nước. Trong trường hợp tham nhũng, nghiên cứu gợi ý nó tương đương một khoản thuế lớn lên nhà đầu tư nước ngoài. Ở nhiều nước đang phát triển, tham nhũng đại diện cho một "thuế luỹ thoái" lên khu vực hộ gia đình: các gia đình thu nhập thấp hơn trả một tỷ lệ không tương xứng của thu nhập dưới dạng hối lộ để tiếp cận dịch vụ công (so với nhóm thu nhập cao hơn), và thường rốt cuộc tiếp cận ít hơn các dịch vụ đó vì tham nhũng. Một ước tính thô về quy mô các giao dịch hằng năm trên toàn thế giới bị tham nhũng làm vấy bẩn đặt nó gần 1 nghìn tỷ đô la.
-- Tệ hơn nữa, các dự án dùng viện trợ có xu hướng thất bại trong môi trường tham nhũng. Và tham nhũng làm suy yếu các nền dân chủ non trẻ. Tất nhiên quản trị không phải điều duy nhất quan trọng với phát triển. Chính sách vĩ mô, thương mại và ngành cũng quan trọng. Nhưng khi quản trị kém, việc hoạch định chính sách ở các lĩnh vực khác cũng bị tổn hại.
-- **Lầm tưởng 4: Quản trị là thứ xa xỉ chỉ nước giàu mới có được.** Một số người cho rằng mối liên hệ giữa quản trị và thu nhập không có nghĩa là quản trị tốt hơn thúc đẩy thu nhập, mà ngược lại: thu nhập cao hơn tự động chuyển thành quản trị tốt hơn. Tuy nhiên, nghiên cứu của chúng tôi không ủng hộ tuyên bố này. Do đó gây hiểu lầm khi gợi ý rằng tham nhũng là do thu nhập thấp, và bịa ra một lý lẽ để bỏ qua quản trị kém ở các nước nghèo. Thực tế, bằng chứng chỉ ra rằng nhân quả đi theo chiều quản trị tốt hơn dẫn đến tăng trưởng kinh tế cao hơn. Một số nền kinh tế mới nổi, gồm các nước Baltic, Botswana, Chile và Slovenia, đã cho thấy có thể đạt chuẩn quản trị cao mà chưa gia nhập hàng ngũ các quốc gia giàu có.
-- **Lầm tưởng 5: Phải mất nhiều thế hệ để quản trị cải thiện.** Dù đúng là các thể chế thường chỉ thay đổi dần dần, ở một số nước đã có cải thiện mạnh trong ngắn hạn. Điều này thách thức quan điểm rằng dù quản trị có thể xấu đi nhanh chóng, các cải thiện luôn chậm chạp và từng bước. Chẳng hạn, đã có cải thiện đáng kể từ năm 1996 ở chỉ số "tiếng nói và trách nhiệm giải trình" ở các nước từ Bosnia, Croatia và Ghana đến Indonesia, Serbia và Sierra Leone. Và các cải thiện của một số nước châu Phi trong thời gian ngắn thách thức phe "bi quan về châu Phi". Dù vậy, đáng tỉnh táo khi trung bình đã không có cải thiện toàn cầu nào về quản trị chung trong giai đoạn này, và ở một số nước, gồm Bờ Biển Ngà, Nepal và Zimbabwe, đã có sự suy thoái mạnh.
+**Lầm tưởng 3: "Tầm quan trọng của quản trị và chống tham nhũng bị thổi phồng."** Nhờ có thước đo, các nhà nghiên cứu đã có thể ước lượng tác động của quản trị lên phát triển. Kết quả chung là các nước có thể thu được một "cổ tức phát triển" rất lớn từ quản trị tốt hơn. Ước tính của tác giả: một nước cải thiện quản trị từ mức tương đối thấp lên mức trung bình có thể **gần như gấp ba** thu nhập đầu người trong dài hạn, đồng thời giảm tương tự tỷ lệ tử vong trẻ sơ sinh và tỷ lệ mù chữ.
+
+Mức cải thiện "từ tương đối thấp lên trung bình" tương ứng với khoảng một độ lệch chuẩn. Để hình dung, bài đưa ra chuỗi so sánh trên chiều "kiểm soát tham nhũng": cải thiện một độ lệch chuẩn nghĩa là
+
+| Từ | Lên mức của |
+|---|---|
+| Guinea Xích Đạo | Uganda |
+| Uganda | Lithuania |
+| Lithuania | Bồ Đào Nha |
+| Bồ Đào Nha | Phần Lan |
+
+Ngoài thu nhập, quản trị còn ảnh hưởng đến sức cạnh tranh và phân phối thu nhập của một nước:
+
+- **Với nhà đầu tư nước ngoài**, nghiên cứu gợi ý tham nhũng tương đương một khoản thuế lớn đánh lên họ, làm giảm sức hấp dẫn đầu tư của nước đó.
+- **Với hộ gia đình**, ở nhiều nước đang phát triển, tham nhũng là một "thuế luỹ thoái". Các gia đình thu nhập thấp phải trả một phần thu nhập lớn hơn một cách không tương xứng (so với nhóm thu nhập cao) dưới dạng hối lộ để tiếp cận dịch vụ công, và thường rốt cuộc lại được tiếp cận ít hơn các dịch vụ đó chính vì tham nhũng.
+- **Về quy mô**, một ước tính thô cho thấy các giao dịch hằng năm trên toàn thế giới bị tham nhũng làm vấy bẩn lên tới gần 1 nghìn tỷ USD.
+
+Tệ hơn nữa, các dự án dùng viện trợ có xu hướng thất bại trong môi trường tham nhũng, và tham nhũng làm suy yếu các nền dân chủ non trẻ. Tác giả thừa nhận quản trị không phải điều duy nhất quan trọng cho phát triển: chính sách vĩ mô, chính sách thương mại và chính sách ngành cũng quan trọng. Nhưng khi quản trị kém, chính việc hoạch định chính sách ở các lĩnh vực khác đó cũng bị tổn hại, vì chính sách tốt trên giấy vẫn có thể bị thực thi sai hoặc bị bẻ cong.
+
+**Lầm tưởng 4: "Quản trị là thứ xa xỉ chỉ nước giàu mới có được."** Một số người cho rằng mối tương quan giữa quản trị và thu nhập không có nghĩa là quản trị tốt làm tăng thu nhập, mà ngược lại: thu nhập cao hơn tự động dẫn đến quản trị tốt hơn. Nếu đúng vậy, nước nghèo chỉ cần lo tăng trưởng, quản trị sẽ tự đến. Tác giả nói nghiên cứu không ủng hộ điều này. Cho rằng tham nhũng là do thu nhập thấp là gây hiểu lầm, và chỉ tạo ra một cái cớ để bỏ qua quản trị kém ở các nước nghèo. Bằng chứng chỉ ra rằng chiều nhân quả là: quản trị tốt hơn dẫn đến tăng trưởng kinh tế cao hơn. Một số nền kinh tế mới nổi đã đạt chuẩn quản trị cao trước khi trở thành nước giàu: các nước Baltic, Botswana, Chile và Slovenia.
+
+**Lầm tưởng 5: "Phải mất nhiều thế hệ để quản trị cải thiện."** Đúng là thể chế thường chỉ thay đổi dần dần. Nhưng ở một số nước, quản trị đã cải thiện mạnh trong thời gian ngắn, điều này thách thức quan điểm cho rằng quản trị có thể xấu đi rất nhanh nhưng cải thiện thì luôn chậm và từng bước. Bằng chứng:
+
+- Từ năm 1996, chỉ số "tiếng nói và trách nhiệm giải trình" đã cải thiện đáng kể ở các nước như Bosnia, Croatia, Ghana, Indonesia, Serbia và Sierra Leone.
+- Cải thiện nhanh ở một số nước châu Phi thách thức phe "bi quan về châu Phi", tức những người cho rằng châu lục này khó thay đổi.
+
+Nhưng bài cũng đưa ra một ghi chú tỉnh táo: tính trung bình, quản trị trên toàn cầu không cải thiện trong giai đoạn này, và ở một số nước như Bờ Biển Ngà, Nepal và Zimbabwe, quản trị đã suy thoái mạnh. Tức là thay đổi nhanh có thể xảy ra theo cả hai chiều.
 
 ### 3. Điều gì không hiệu quả (lầm tưởng 6–8)
 
-- **Lầm tưởng 6: Nhà tài trợ có thể "quây rào" dự án ở các nước và ngành tham nhũng cao.** Với ngoại lệ có thể là một số dự án viện trợ nhân đạo, quan niệm rằng cộng đồng viện trợ có thể cách ly các dự án khỏi môi trường tham nhũng chung ở một nước không được bằng chứng ủng hộ. Dữ liệu gợi ý rằng khi thiếu một cách tiếp cận hệ thống với quản trị, tự do dân sự, pháp quyền và kiểm soát tham nhũng, khả năng một dự án dùng viện trợ thành công giảm mạnh.
-- **Lầm tưởng 7: Chống tham nhũng bằng cách chống tham nhũng.** Một nguỵ biện được một số người trong lĩnh vực chống tham nhũng cổ vũ, và đôi khi cả cộng đồng quốc tế, là người ta "chống tham nhũng bằng cách chống tham nhũng": qua một chiến dịch chống tham nhũng nữa, việc lập thêm các "uỷ ban" và cơ quan đạo đức, và việc soạn liên tục các luật, nghị định và quy tắc ứng xử mới. Nhìn chung, các sáng kiến như vậy có vẻ ít tác động, và thường là các cách phản ứng tiện lợi về mặt chính trị trước áp lực phải làm gì đó về tham nhũng, thay thế cho nhu cầu cải cách quản trị nền tảng và hệ thống.
-- **Lầm tưởng 8: Thủ phạm là khu vực công ở các nước đang phát triển.** Một nguỵ biện phổ biến là chỉ tập trung vào các thất bại của khu vực công. Thực tế phức tạp hơn nhiều, vì các lợi ích tư nhân quyền lực thường gây ảnh hưởng không chính đáng lên việc định hình chính sách công, thể chế và lập pháp nhà nước. Trong các trường hợp cực đoan, các "tài phiệt" chiếm giữ các thể chế nhà nước. Và nhiều tập đoàn đa quốc gia vẫn hối lộ ở nước ngoài, làm suy yếu quản trị công ở các nền kinh tế mới nổi. Cũng có những điểm yếu ở khu vực phi chính phủ. Hơn nữa, các can thiệp quản lý khu vực công truyền thống đã không hiệu quả vì chúng tập trung vào các "giải pháp" kỹ trị, thường được thực hiện qua hỗ trợ kỹ thuật nhập khẩu phần cứng, khuôn mẫu tổ chức và chuyên gia từ các nước giàu.
+**Lầm tưởng 6: "Nhà tài trợ có thể 'quây rào' dự án ở các nước và ngành tham nhũng cao."** "Quây rào" nghĩa là cách ly một dự án viện trợ khỏi môi trường chung, bằng các quy trình giám sát riêng, để tiền không bị thất thoát dù xung quanh tham nhũng. Ngoại trừ có thể một số dự án viện trợ nhân đạo, ý tưởng này không được bằng chứng ủng hộ. Dữ liệu gợi ý rằng khi thiếu một cách tiếp cận có hệ thống đối với quản trị, tự do dân sự, pháp quyền và kiểm soát tham nhũng, khả năng thành công của một dự án dùng viện trợ giảm mạnh. Nói cách khác, một dự án không thể tốt hơn nhiều so với môi trường mà nó nằm trong.
+
+**Lầm tưởng 7: "Chống tham nhũng bằng cách chống tham nhũng."** Đây là một nguỵ biện được một số người làm công tác chống tham nhũng cổ vũ, và đôi khi cả cộng đồng quốc tế. Nó thể hiện qua ba kiểu hành động:
+
+- mở thêm một chiến dịch chống tham nhũng nữa;
+- lập thêm các "uỷ ban" và cơ quan đạo đức;
+- liên tục soạn luật, nghị định và quy tắc ứng xử mới.
+
+Nhìn chung, các sáng kiến này có vẻ ít tác động. Chúng thường là cách phản ứng tiện lợi về mặt chính trị trước áp lực "phải làm gì đó" về tham nhũng, và được dùng thay cho việc cải cách quản trị một cách nền tảng và có hệ thống. Tức là chúng tạo cảm giác hành động mà không thay đổi các động cơ và thể chế sinh ra tham nhũng.
+
+**Lầm tưởng 8: "Thủ phạm là khu vực công ở các nước đang phát triển."** Một nguỵ biện phổ biến là chỉ nhìn vào thất bại của khu vực công. Thực tế phức tạp hơn nhiều, vì ba lý do:
+
+1. **Lợi ích tư nhân quyền lực** thường gây ảnh hưởng không chính đáng lên việc định hình chính sách công, thể chế và luật pháp. Trường hợp cực đoan là các "tài phiệt" chiếm giữ chính các thể chế nhà nước.
+2. **Tập đoàn đa quốc gia** vẫn nhiều nơi hối lộ ở nước ngoài, góp phần làm suy yếu quản trị công ở các nền kinh tế mới nổi. Khu vực phi chính phủ cũng có những điểm yếu riêng.
+3. **Cách can thiệp truyền thống** vào quản lý khu vực công đã không hiệu quả, vì nó tập trung vào các "giải pháp" kỹ trị, thường dưới dạng hỗ trợ kỹ thuật nhập khẩu phần cứng, khuôn mẫu tổ chức và chuyên gia từ các nước giàu, mà không chạm tới quan hệ quyền lực bên trong.
 
 ### 4. Điều gì hiệu quả (lầm tưởng 9–10) và lời kêu gọi
 
-- **Lầm tưởng 9: Các nước chẳng làm được gì nhiều để cải thiện quản trị.** Với danh sách dài các can thiệp không hiệu quả, cũng như vai trò thường được gán cho các yếu tố lịch sử và văn hoá trong việc giải thích quản trị, dễ rơi vào phe bi quan. Đó sẽ là một sai lầm. Thứ nhất, các yếu tố lịch sử và văn hoá không hề mang tính quyết định: hãy xem, chẳng hạn, các con đường phân kỳ về mặt quản trị của các nước láng giềng ở Nam Mỹ (Southern Cone), bán đảo Triều Tiên, các nền kinh tế chuyển đổi Đông Âu, và ở Nam Phi. Thứ hai, có những chiến lược đặc biệt hứa hẹn. Việc kết hợp tiến bộ trong cải thiện tiếng nói và sự tham gia, gồm qua tự do biểu đạt và quyền phụ nữ, với các cải cách minh bạch có thể đặc biệt hiệu quả.
-- **Lầm tưởng 10: Các định chế tài chính quốc tế chẳng làm được gì nhiều.** Một số chuyên gia phát triển hoài nghi về khả năng của IFI và nhà tài trợ trong việc giúp các nước cải thiện quản trị, hoặc vì một niềm tin rằng "'vĩ mô' quan trọng hơn", một niềm tin sai lầm vào "thuyết định mệnh" lịch sử, hoặc một quan điểm rằng các can thiệp cần thiết để cải thiện quản trị quá nhạy cảm về chính trị và do đó khó cho người ngoài khuyến khích. Chắc chắn có những lĩnh vực nằm ngoài nhiệm vụ của IFI, như thúc đẩy bầu cử đa đảng công bằng. Nhưng các sáng kiến khuyến khích minh bạch, tự do thông tin và báo chí độc lập, các chương trình chống tham nhũng có sự tham gia do chính nước dẫn dắt, và bình đẳng giới, tất cả đều bị coi nhẹ đến nay trong cuộc chiến chống tham nhũng, rất có thể nằm trong khả năng của IFI và nhà tài trợ. Các sáng kiến như vậy, được bổ trợ bằng việc hỗ trợ cải cách có mục tiêu các thể chế dễ tổn thương cao (thường gồm mua sắm, thuế, hải quan hay tư pháp), rất hứa hẹn.
-- Thách thức về quản trị và chống tham nhũng mà thế giới đối mặt hôm nay mạnh mẽ phản đối lối làm việc "như thường lệ". Cần một cách tiếp cận táo bạo hơn, và một trách nhiệm tập thể ở cấp toàn cầu được kêu gọi. Thế giới giàu không chỉ phải thực hiện các cam kết viện trợ và tự do hoá thương mại, mà còn phải làm gương. Các nước OECD nên phê chuẩn và thực hiện hiệu quả Công ước Liên hợp quốc năm 2003 chống tham nhũng, và có các bước đi (như Thuỵ Sĩ đang bắt đầu làm) để hồi hương các tài sản bị quan chức tham nhũng cướp bóc và cất giấu ở nước ngoài. Và các tập đoàn xuyên quốc gia nên kiềm chế hối lộ và hỗ trợ cải thiện các thực hành quản trị ở các nước chủ nhà. Còn với IFI và nhà tài trợ, cần vật lộn với các câu hỏi về tính chọn lọc và hiệu quả trong các chương trình viện trợ, neo các quyết định viện trợ trong một lăng kính quản trị và giúp các nước xây dựng năng lực hấp thụ viện trợ hiệu quả. Cải thiện minh bạch sẽ là then chốt. Cuối cùng, chính các nước phải dẫn đầu trong việc cải thiện quản trị.
+**Lầm tưởng 9: "Các nước chẳng làm được gì nhiều để cải thiện quản trị."** Với danh sách dài những can thiệp không hiệu quả ở trên, cộng với việc người ta thường gán quản trị cho yếu tố lịch sử và văn hoá, rất dễ rơi vào bi quan. Tác giả nói đó sẽ là sai lầm, vì hai lý do:
+
+- **Lịch sử và văn hoá không quyết định tất cả.** Các nước láng giềng có chung lịch sử và văn hoá vẫn đi theo những con đường quản trị rất khác nhau: các nước Nam Mỹ (vùng Southern Cone), hai miền của bán đảo Triều Tiên, các nền kinh tế chuyển đổi ở Đông Âu, và Nam Phi.
+- **Có những chiến lược đặc biệt hứa hẹn.** Kết hợp tiến bộ về tiếng nói và sự tham gia của người dân (bao gồm qua tự do biểu đạt và quyền của phụ nữ) với các cải cách minh bạch có thể đặc biệt hiệu quả. Lý do: minh bạch đưa thông tin ra công khai, còn tiếng nói của người dân là lực để thông tin đó dẫn đến hành động.
+
+**Lầm tưởng 10: "Các định chế tài chính quốc tế chẳng làm được gì nhiều."** Một số chuyên gia phát triển hoài nghi khả năng của các định chế tài chính quốc tế (IFI) và nhà tài trợ trong việc giúp cải thiện quản trị, vì ba niềm tin: rằng "vĩ mô quan trọng hơn"; một niềm tin sai vào "thuyết định mệnh" lịch sử; hoặc rằng các can thiệp cần thiết quá nhạy cảm chính trị nên người ngoài khó thúc đẩy. Tác giả thừa nhận có những việc nằm ngoài nhiệm vụ của IFI, ví dụ thúc đẩy bầu cử đa đảng công bằng. Nhưng có nhiều việc nằm trong tầm tay mà đến nay bị coi nhẹ:
+
+- khuyến khích minh bạch, tự do thông tin và báo chí độc lập;
+- các chương trình chống tham nhũng có sự tham gia, do chính nước đó dẫn dắt;
+- bình đẳng giới.
+
+Những sáng kiến này, cộng với hỗ trợ cải cách có mục tiêu ở các thể chế dễ tổn thương cao (thường là mua sắm công, thuế, hải quan và tư pháp), được bài đánh giá là rất hứa hẹn.
+
+**Lời kêu gọi.** Thách thức về quản trị và tham nhũng hôm nay đòi hỏi từ bỏ lối làm việc "như thường lệ". Cần một cách tiếp cận táo bạo hơn và một trách nhiệm tập thể ở cấp toàn cầu. Bài phân chia việc cho từng bên:
+
+| Bên | Việc cần làm |
+|---|---|
+| Thế giới giàu | Thực hiện cam kết viện trợ và tự do hoá thương mại, và làm gương. Các nước OECD nên phê chuẩn và thực hiện hiệu quả Công ước Liên hợp quốc năm 2003 chống tham nhũng, và có bước đi (như Thuỵ Sĩ đang bắt đầu làm) để hồi hương tài sản bị quan chức tham nhũng cướp bóc rồi cất giấu ở nước ngoài |
+| Tập đoàn xuyên quốc gia | Kiềm chế hối lộ và hỗ trợ cải thiện thực hành quản trị ở nước chủ nhà |
+| IFI và nhà tài trợ | Giải quyết câu hỏi về tính chọn lọc và hiệu quả của viện trợ, neo quyết định viện trợ vào lăng kính quản trị, và giúp các nước xây năng lực hấp thụ viện trợ hiệu quả; cải thiện minh bạch là then chốt |
+| Chính các nước | Phải dẫn đầu trong cải thiện quản trị của mình |
 
 ### 5. Bảng điểm cải cách minh bạch
 
-- Dữ liệu gợi ý rằng minh bạch giúp cải thiện quản trị và giảm tham nhũng, những thành phần thiết yếu cho phát triển tốt hơn và tăng trưởng kinh tế nhanh hơn. Nhưng cộng đồng viện trợ phát triển cần chú ý hơn đến vấn đề này. Vì lý do đó, tại Viện Ngân hàng Thế giới chúng tôi đã bắt đầu xây dựng một chỉ số để giúp minh bạch trở nên minh bạch hơn. Một danh mục cơ bản mà các nước có thể dùng để tự đánh giá gồm:
-- Công khai tài sản và thu nhập của ứng viên tranh cử chức vụ công, quan chức, chính trị gia, nghị sĩ, thẩm phán và người phụ thuộc của họ; công khai đóng góp tranh cử chính trị của cá nhân và doanh nghiệp, và chi tiêu tranh cử; công khai mọi phiếu bầu nghị viện, dự luật và tranh luận nghị viện; thực hiện hiệu quả luật xung đột lợi ích, tách kinh doanh, chính trị, lập pháp và công vụ, cùng việc thông qua luật điều chỉnh vận động hành lang; công khai danh sách đen các doanh nghiệp bị chứng minh hối lộ trong mua sắm công (như Ngân hàng Thế giới làm) và "công bố những gì bạn trả" của các đa quốc gia làm việc trong ngành khai khoáng; thực hiện hiệu quả luật tự do thông tin với việc tiếp cận dễ dàng cho tất cả; tự do báo chí (kể cả Internet); minh bạch tài khoá và tài chính công của ngân sách trung ương và địa phương, áp dụng khung Báo cáo về Tiêu chuẩn và Quy tắc của IMF về minh bạch tài khoá, báo cáo chi tiết của chính phủ về các khoản chi trả từ đa quốc gia ngành khai khoáng, và các cuộc họp mở có sự tham gia của công dân; công khai cơ cấu sở hữu thực và tình trạng tài chính của ngân hàng trong nước; mua sắm cạnh tranh minh bạch (dựa trên web); chẩn đoán quản trị và chống tham nhũng cấp quốc gia cùng khảo sát theo dấu chi tiêu công; và các chương trình minh bạch ở cấp thành phố (và địa phương), gồm công khai ngân sách và họp mở.
+Dữ liệu gợi ý rằng minh bạch giúp cải thiện quản trị và giảm tham nhũng, hai thành phần thiết yếu cho phát triển tốt hơn và tăng trưởng nhanh hơn. Nhưng cộng đồng viện trợ phát triển chưa chú ý đủ đến vấn đề này. Vì vậy Viện Ngân hàng Thế giới bắt đầu xây dựng một chỉ số để "làm cho minh bạch trở nên minh bạch hơn", tức là đo được một nước minh bạch đến đâu. Bài đưa ra một danh mục cơ bản mà các nước có thể dùng để tự đánh giá, chia theo nhóm:
+
+**Minh bạch về người nắm quyền và tiền chính trị**
+
+- Công khai tài sản và thu nhập của ứng viên tranh cử chức vụ công, quan chức, chính trị gia, nghị sĩ, thẩm phán và cả người phụ thuộc của họ.
+- Công khai các khoản đóng góp tranh cử của cá nhân và doanh nghiệp, cùng chi tiêu tranh cử.
+- Công khai mọi phiếu bầu ở nghị viện, các dự luật và các cuộc tranh luận nghị viện.
+- Thực hiện hiệu quả luật xung đột lợi ích, tách bạch kinh doanh, chính trị, lập pháp và công vụ; thông qua luật điều chỉnh vận động hành lang.
+
+**Minh bạch với doanh nghiệp**
+
+- Công khai danh sách đen các doanh nghiệp bị chứng minh đã hối lộ trong mua sắm công, như Ngân hàng Thế giới đang làm.
+- Áp dụng nguyên tắc "công bố những gì bạn trả" cho các tập đoàn đa quốc gia trong ngành khai khoáng, tức họ phải công khai số tiền đã trả cho chính phủ.
+
+**Tự do thông tin**
+
+- Thực hiện hiệu quả luật tự do thông tin, với việc tiếp cận dễ dàng cho mọi người.
+- Tự do báo chí, kể cả trên Internet.
+
+**Minh bạch tài chính công**
+
+- Minh bạch tài khoá và tài chính công ở cả ngân sách trung ương lẫn địa phương: áp dụng khung Báo cáo về Tiêu chuẩn và Quy tắc (ROSC) của IMF về minh bạch tài khoá; chính phủ báo cáo chi tiết các khoản tiền nhận từ các tập đoàn đa quốc gia ngành khai khoáng; tổ chức các cuộc họp mở có sự tham gia của công dân.
+- Công khai cơ cấu sở hữu thực (ai thật sự là chủ) và tình trạng tài chính của các ngân hàng trong nước.
+- Mua sắm công cạnh tranh và minh bạch, thực hiện qua mạng.
+
+**Công cụ chẩn đoán và cấp địa phương**
+
+- Chẩn đoán quản trị và chống tham nhũng ở cấp quốc gia, cùng các khảo sát theo dấu chi tiêu công (đi theo đồng tiền ngân sách từ trung ương xuống tới nơi sử dụng để xem bao nhiêu bị thất thoát dọc đường).
+- Các chương trình minh bạch ở cấp thành phố và địa phương, gồm công khai ngân sách và họp mở.
+
+Điểm chung của danh mục là nó tập trung vào **công khai thông tin** hơn là thêm luật cấm hay thêm cơ quan kiểm tra, đúng với kết luận của lầm tưởng 7 và lầm tưởng 9: điều hiệu quả là thay đổi môi trường thông tin và tiếng nói, không phải thêm chiến dịch.
 
 ## Thuật ngữ
 

@@ -172,38 +172,132 @@
 2. Kiều hối giúp gì và có mặt trái nào?
 3. Làm sao giảm chi phí chuyển tiền, và chính phủ có nên can thiệp?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Kiều hối (remittances).** Phần thu nhập mà người di cư gửi về cho gia đình ở quê nhà, bằng tiền mặt hoặc hàng hoá. Ví dụ minh hoạ: một người làm việc ở nước ngoài kiếm 1.500 USD mỗi tháng và gửi về 300 USD cho bố mẹ; 300 USD đó là kiều hối. Bài cho biết kiều hối đã trở thành nguồn thu ngoại tệ lớn nhất của nhiều nước đang phát triển, nên đây là khái niệm trung tâm.
+
+**Cán cân thanh toán (balance of payments).** Bảng ghi chép tất cả giao dịch kinh tế giữa một nước và phần còn lại của thế giới trong một khoảng thời gian: xuất nhập khẩu, thu nhập, chuyển tiền, dòng vốn. Kiều hối chính thức được ghi trong bảng này. Ví dụ minh hoạ: nếu một nước nhận 10 tỷ USD kiều hối trong năm, khoản đó xuất hiện như một dòng tiền vào trong cán cân thanh toán. Bài lưu ý rằng con số ghi nhận chỉ là một phần, vì nhiều khoản đi qua kênh không chính thức.
+
+**Kênh không chính thức (informal channels).** Những cách chuyển tiền không qua ngân hàng hay công ty chuyển tiền có giấy phép, ví dụ nhờ người quen mang tiền mặt, hoặc qua mạng lưới người môi giới tin cậy lẫn nhau (như hệ thống hawala). Những khoản này không được thống kê. Bài cho biết dòng không ghi nhận được tin là lớn hơn ít nhất 50% dòng ghi nhận, tức nếu thống kê thấy 100 đồng thì thực tế có thể còn ít nhất 50 đồng nữa đi qua kênh không chính thức.
+
+**Đại lý gửi và đại lý chi trả (sending agent, paying agent).** Hai đầu của một giao dịch kiều hối: đại lý gửi nhận tiền từ người di cư ở nước sở tại, đại lý chi trả giao tiền cho người nhận ở quê nhà. Hai bên không chuyển tiền thật cho nhau theo từng giao dịch mà cộng dồn rồi thanh toán định kỳ. Hiểu cấu trúc này giúp thấy vì sao có phí và chỗ nào có thể giảm phí.
+
+**Float.** Khoản lãi mà đại lý kiếm được bằng cách giữ và đầu tư tiền của khách trong khoảng thời gian từ lúc nhận đến lúc giao cho người thụ hưởng. Ví dụ minh hoạ: một ngân hàng giữ 1 triệu USD tiền kiều hối trong 3 ngày ở lãi suất qua đêm 20%/năm thì thu được khoảng 1.600 USD tiền lãi mà khách không thấy. Bài gọi đây là phí gián tiếp, đáng kể ở các nước có lãi suất qua đêm cao.
+
+**Phản chu kỳ (counter-cyclical).** Một dòng tiền tăng khi kinh tế đi xuống và giảm khi kinh tế đi lên, tức là đi ngược chu kỳ kinh tế. Ví dụ minh hoạ: sau một trận bão tàn phá quê nhà, người di cư gửi về nhiều hơn để gia đình sửa nhà, đúng lúc nhà đầu tư nước ngoài rút vốn. Đây là lý do bài coi kiều hối là "phao cứu sinh" và ổn định hơn dòng vốn tư nhân.
+
+**Tỷ giá thực lên giá (real exchange rate appreciation).** Khi giá hàng hoá trong nước tăng so với giá hàng nước ngoài, sau khi tính cả tỷ giá danh nghĩa. Ví dụ minh hoạ: một dòng kiều hối lớn làm cầu hàng hoá trong nước tăng, đẩy giá nội địa lên 10% trong khi tỷ giá danh nghĩa đứng yên; hàng xuất khẩu của nước đó đắt hơn với người mua nước ngoài. Đây là một mặt trái mà bài nêu khi kiều hối quá lớn.
+
+**Ngân hàng đại lý (correspondent bank).** Ngân hàng giữ tài khoản và thực hiện thanh toán thay cho một ngân hàng hoặc doanh nghiệp khác, nhất là thanh toán xuyên biên giới. Công ty chuyển tiền cần tài khoản ở ngân hàng đại lý để thanh toán bù trừ. Bài cho thấy khi ngân hàng đại lý đóng tài khoản của các công ty này vì lo rủi ro rửa tiền, nhiều công ty phải đóng cửa, cạnh tranh giảm và phí tăng.
+
+## Nội dung chi tiết
 
 ### 1. Quy mô và cách chuyển tiền
 
-- Khi người di cư gửi về nhà một phần thu nhập của mình dưới dạng tiền mặt hoặc hàng hoá để hỗ trợ gia đình, các khoản chuyển này được gọi là kiều hối của người lao động hay người di cư. Chúng đã tăng nhanh trong vài năm qua và nay đại diện cho nguồn thu ngoại tệ lớn nhất của nhiều nước đang phát triển.
-- Khó ước tính chính xác quy mô dòng kiều hối vì nhiều khoản chuyển diễn ra qua các kênh không chính thức. Trên toàn thế giới, kiều hối người di cư quốc tế được ghi nhận chính thức dự kiến vượt 232 tỷ đô la năm 2005, với 167 tỷ chảy vào các nước đang phát triển. Các dòng này được ghi trong cán cân thanh toán; cách ghi chính xác đang được một nhóm kỹ thuật quốc tế rà soát. Các dòng không được ghi nhận qua kênh phi chính thức được tin là lớn hơn ít nhất 50% so với dòng được ghi nhận. Kiều hối không chỉ lớn mà còn được phân bố đều hơn giữa các nước đang phát triển so với dòng vốn, gồm cả đầu tư trực tiếp nước ngoài, mà phần lớn chảy vào một vài thị trường mới nổi lớn. Thực tế, kiều hối đặc biệt quan trọng với các nước thu nhập thấp.
-- Một giao dịch kiều hối điển hình diễn ra trong ba bước. Bước một, người di cư gửi tiền trả khoản kiều hối cho đại lý gửi bằng tiền mặt, séc, lệnh chuyển tiền, thẻ tín dụng, thẻ ghi nợ, hoặc một lệnh ghi nợ gửi qua email, điện thoại hay Internet. Bước hai, cơ quan gửi chỉ thị đại lý của mình ở nước người nhận giao khoản kiều hối. Bước ba, đại lý chi trả thực hiện thanh toán cho người thụ hưởng. Để thanh toán bù trừ giữa các đại lý, trong hầu hết trường hợp không có chuyển tiền thời gian thực; thay vào đó, số dư mà đại lý gửi nợ đại lý chi trả được thanh toán định kỳ theo lịch đã thoả thuận, qua một ngân hàng thương mại. Kiều hối phi chính thức đôi khi được thanh toán bù trừ qua thương mại hàng hoá.
-- Chi phí của một giao dịch kiều hối gồm một khoản phí do đại lý gửi thu, thường do người gửi trả, và một khoản phí chuyển đổi tiền tệ để giao nội tệ cho người thụ hưởng ở nước khác. Một số công ty chuyển tiền nhỏ hơn yêu cầu người thụ hưởng trả phí để nhận kiều hối, có lẽ để tính đến các biến động tỷ giá không lường trước. Ngoài ra, các đại lý kiều hối (đặc biệt là ngân hàng) có thể kiếm một khoản phí gián tiếp dưới dạng lãi (hay "float") bằng cách đầu tư khoản tiền trước khi giao cho người thụ hưởng. Float có thể đáng kể ở các nước có lãi suất qua đêm cao.
+**Kiều hối là gì.** Khi người di cư gửi về nhà một phần thu nhập của mình, dưới dạng tiền mặt hoặc hàng hoá, để hỗ trợ gia đình, các khoản đó được gọi là kiều hối của người lao động hay của người di cư. Kiều hối đã tăng nhanh trong vài năm qua và nay là nguồn thu ngoại tệ lớn nhất của nhiều nước đang phát triển, lớn hơn cả xuất khẩu hàng hoá chính hay viện trợ ở một số nước.
+
+**Quy mô.** Rất khó ước tính chính xác dòng kiều hối, vì nhiều khoản đi qua các kênh không chính thức. Các con số chính của bài:
+
+| Chỉ tiêu | Con số |
+|---|---|
+| Kiều hối quốc tế ghi nhận chính thức trên toàn thế giới, dự kiến năm 2005 | Vượt 232 tỷ USD |
+| Trong đó chảy vào các nước đang phát triển | 167 tỷ USD |
+| Dòng không ghi nhận qua kênh phi chính thức | Được tin là lớn hơn dòng ghi nhận ít nhất 50% |
+
+Các dòng chính thức được ghi trong cán cân thanh toán; cách ghi chính xác hiện đang được một nhóm kỹ thuật quốc tế rà soát. Nếu tính cả kênh không chính thức, quy mô thật lớn hơn đáng kể so với con số 232 tỷ USD.
+
+**Phân bố đều hơn dòng vốn.** Kiều hối không chỉ lớn mà còn phân bố đều hơn giữa các nước đang phát triển so với các dòng vốn tư nhân, kể cả đầu tư trực tiếp nước ngoài (FDI). Phần lớn FDI chảy vào một vài thị trường mới nổi lớn, còn kiều hối đến được cả những nước nhỏ và nghèo, nơi có nhiều người đi làm ở nước ngoài. Vì vậy kiều hối đặc biệt quan trọng với các nước thu nhập thấp.
+
+**Một giao dịch kiều hối điển hình gồm ba bước:**
+
+1. **Người di cư trả tiền cho đại lý gửi.** Có thể trả bằng tiền mặt, séc, lệnh chuyển tiền, thẻ tín dụng, thẻ ghi nợ, hoặc lệnh ghi nợ gửi qua email, điện thoại hay Internet.
+2. **Đại lý gửi chỉ thị cho đại lý của mình ở nước người nhận** giao khoản tiền đó.
+3. **Đại lý chi trả trả tiền cho người thụ hưởng.**
+
+**Thanh toán bù trừ giữa các đại lý.** Trong hầu hết trường hợp, tiền không được chuyển thật giữa hai đại lý ngay lúc giao dịch. Thay vào đó, đại lý chi trả ứng tiền ra trước; số dư mà đại lý gửi nợ đại lý chi trả được cộng dồn và thanh toán định kỳ theo lịch đã thoả thuận, thông qua một ngân hàng thương mại. Với kiều hối không chính thức, việc bù trừ đôi khi được thực hiện qua thương mại hàng hoá: ví dụ minh hoạ, người môi giới ở nước gửi dùng số tiền nhận được để mua hàng gửi về cho đối tác ở nước nhận, và đối tác dùng tiền bán hàng để chi trả cho người thụ hưởng.
+
+**Chi phí của một giao dịch kiều hối** gồm nhiều lớp:
+
+| Loại chi phí | Ai trả, như thế nào |
+|---|---|
+| Phí gửi | Do đại lý gửi thu, thường người gửi trả |
+| Phí chuyển đổi tiền tệ | Để đổi sang nội tệ giao cho người thụ hưởng ở nước khác |
+| Phí nhận | Một số công ty chuyển tiền (MTO) nhỏ hơn bắt người thụ hưởng trả phí để nhận, có lẽ để bù rủi ro tỷ giá biến động không lường trước |
+| Phí gián tiếp ("float") | Đại lý, nhất là ngân hàng, đầu tư khoản tiền trước khi giao cho người thụ hưởng và hưởng lãi; khoản này có thể đáng kể ở các nước có lãi suất qua đêm cao |
 
 ### 2. Vì sao kiều hối hữu ích
 
-- Kiều hối thường là các khoản chuyển từ một cá nhân hay thành viên gia đình có thiện chí sang một cá nhân hay hộ gia đình khác. Chúng nhắm vào việc đáp ứng các nhu cầu cụ thể của người nhận và do đó có xu hướng giảm nghèo. Thực tế, các nghiên cứu của Ngân hàng Thế giới dựa trên khảo sát hộ gia đình tiến hành trong thập niên 1990 gợi ý rằng các khoản kiều hối quốc tế nhận được đã giúp giảm nghèo (đo bằng tỷ lệ dân số dưới chuẩn nghèo) gần 11 điểm phần trăm ở Uganda, 6 điểm phần trăm ở Bangladesh, và 5 điểm phần trăm ở Ghana.
-- Kiều hối được dùng thế nào? Ở các hộ nghèo hơn, chúng có thể tài trợ việc mua hàng tiêu dùng cơ bản, nhà ở, cùng giáo dục và chăm sóc y tế cho con cái. Ở các hộ giàu hơn, chúng có thể cung cấp vốn cho doanh nghiệp nhỏ và hoạt động khởi nghiệp. Chúng cũng giúp trả cho nhập khẩu và trả nợ nước ngoài, và ở một số nước, các ngân hàng đã có thể huy động tài trợ nước ngoài bằng cách dùng kiều hối tương lai làm tài sản bảo đảm.
-- Dòng kiều hối có xu hướng ổn định hơn dòng vốn, và chúng cũng có xu hướng phản chu kỳ: tăng trong các đợt suy thoái kinh tế hoặc sau một thảm hoạ tự nhiên ở nước quê hương của người di cư, khi dòng vốn tư nhân có xu hướng giảm. Ở các nước bị ảnh hưởng bởi xung đột chính trị, chúng thường cung cấp một phao cứu sinh kinh tế cho người nghèo. Ngân hàng Thế giới ước tính rằng ở Haiti chúng đại diện khoảng 17% GDP năm 2001, trong khi ở một số vùng của Somalia chúng chiếm tới 40% GDP vào cuối thập niên 1990.
+**Nhắm đúng nhu cầu, nên giảm nghèo.** Kiều hối thường là khoản chuyển từ một cá nhân hay thành viên gia đình có thiện chí sang một cá nhân hay hộ gia đình khác. Người gửi biết rõ người nhận cần gì, nên tiền đi thẳng vào nhu cầu cụ thể của họ, và do đó có xu hướng giảm nghèo. Các nghiên cứu của Ngân hàng Thế giới dựa trên khảo sát hộ gia đình trong thập niên 1990 cho thấy kiều hối quốc tế đã giúp giảm tỷ lệ dân số sống dưới chuẩn nghèo:
+
+| Nước | Mức giảm tỷ lệ nghèo nhờ kiều hối |
+|---|---|
+| Uganda | Gần 11 điểm phần trăm |
+| Bangladesh | 6 điểm phần trăm |
+| Ghana | 5 điểm phần trăm |
+
+"Điểm phần trăm" ở đây nghĩa là, ví dụ ở Uganda, nếu không có kiều hối thì tỷ lệ nghèo cao hơn gần 11 điểm, chẳng hạn 46% thay vì 35% (minh hoạ cách đọc, không phải số liệu của bài).
+
+**Kiều hối được dùng vào đâu.**
+
+- **Hộ nghèo hơn** dùng để mua hàng tiêu dùng cơ bản, lo nhà ở, và trả tiền học hành, chăm sóc y tế cho con cái.
+- **Hộ khá hơn** dùng làm vốn cho doanh nghiệp nhỏ và các hoạt động khởi nghiệp.
+- **Ở cấp quốc gia**, kiều hối mang lại ngoại tệ để trả tiền nhập khẩu và trả nợ nước ngoài. Ở một số nước, các ngân hàng còn huy động được tài trợ từ nước ngoài bằng cách dùng dòng kiều hối tương lai làm tài sản bảo đảm, tức là vay trước dựa trên kiều hối sẽ nhận được.
+
+**Ổn định và phản chu kỳ.** Dòng kiều hối ổn định hơn dòng vốn. Hơn nữa, nó có xu hướng phản chu kỳ: tăng lên trong các đợt suy thoái kinh tế hoặc sau thảm hoạ tự nhiên ở quê nhà người di cư, đúng lúc dòng vốn tư nhân có xu hướng rút đi. Lý do dễ hiểu: nhà đầu tư rút vốn khi thấy rủi ro, còn người di cư gửi thêm khi gia đình gặp khó.
+
+**Phao cứu sinh ở nơi xung đột.** Ở các nước bị xung đột chính trị, kiều hối thường là phao cứu sinh kinh tế cho người nghèo. Ngân hàng Thế giới ước tính kiều hối chiếm khoảng 17% GDP của Haiti năm 2001, và ở một số vùng của Somalia lên tới 40% GDP vào cuối thập niên 1990.
 
 ### 3. Có mặt trái không?
 
-- Có một số chi phí tiềm tàng gắn với kiều hối. Các nước nhận kiều hối của người di cư chịu chi phí nếu người lao động di cư có tay nghề cao, hoặc nếu việc họ ra đi gây thiếu hụt lao động. Ngoài ra, nếu kiều hối lớn, nước nhận có thể đối mặt với việc tỷ giá thực lên giá, có thể làm nền kinh tế kém cạnh tranh hơn về mặt quốc tế. Một số người lập luận rằng kiều hối cũng có thể tạo ra sự phụ thuộc, làm suy yếu động lực làm việc của người nhận, và qua đó làm chậm tăng trưởng kinh tế. Nhưng những người khác lập luận rằng quan hệ âm giữa kiều hối và tăng trưởng quan sát được trong một số nghiên cứu thực nghiệm có thể chỉ đơn giản phản ánh tính phản chu kỳ của kiều hối, tức ảnh hưởng của tăng trưởng lên kiều hối chứ không phải ngược lại.
-- Kiều hối cũng có thể có chi phí con người. Người di cư đôi khi hy sinh đáng kể, thường gồm việc xa cách gia đình, và chịu rủi ro để tìm việc ở một nước khác. Và họ có thể phải làm việc cực kỳ vất vả để tiết kiệm đủ tiền gửi kiều hối.
+Bài nêu bốn loại chi phí tiềm tàng:
+
+1. **Mất người giỏi và thiếu lao động.** Nước nhận kiều hối chịu thiệt nếu người đi làm ở nước ngoài là lao động tay nghề cao (ví dụ bác sĩ, kỹ sư), hoặc nếu việc họ ra đi gây thiếu hụt lao động trong nước.
+2. **Tỷ giá thực lên giá.** Nếu kiều hối rất lớn, nước nhận có thể bị tỷ giá thực lên giá, làm hàng hoá của mình đắt hơn và kém cạnh tranh hơn trên thị trường quốc tế.
+3. **Phụ thuộc và giảm động lực làm việc.** Một số người cho rằng kiều hối tạo ra sự phụ thuộc, làm người nhận ít muốn làm việc hơn, và qua đó làm chậm tăng trưởng. Nhưng những người khác phản bác: mối tương quan âm giữa kiều hối và tăng trưởng trong một số nghiên cứu thực nghiệm có thể chỉ phản ánh tính phản chu kỳ của kiều hối. Tức là không phải kiều hối làm tăng trưởng chậm lại, mà khi tăng trưởng chậm (kinh tế khó khăn) thì người di cư gửi về nhiều hơn. Chiều nhân quả có thể ngược với cách người ta tưởng.
+4. **Chi phí con người.** Người di cư thường hy sinh nhiều: xa cách gia đình, chịu rủi ro để tìm việc ở một nước khác, và có thể phải làm việc cực kỳ vất vả để dành dụm đủ tiền gửi về.
 
 ### 4. Giảm chi phí giao dịch
 
-- Chi phí giao dịch thường không phải vấn đề với các khoản kiều hối lớn (thực hiện vì mục đích thương mại, đầu tư hay viện trợ), vì theo tỷ lệ phần trăm số tiền gốc, chúng có xu hướng nhỏ, và các ngân hàng quốc tế lớn háo hức cung cấp dịch vụ cạnh tranh cho kiều hối giá trị lớn. Nhưng trong trường hợp các khoản kiều hối nhỏ hơn, dưới 200 đô la chẳng hạn, thường là điển hình cho người di cư nghèo, phí kiều hối có thể cao tới 10–15% số tiền gốc.
-- Cắt giảm chi phí giao dịch sẽ giúp các gia đình người nhận đáng kể. Làm thế nào? **Thứ nhất,** phí kiều hối nên là một khoản cố định thấp, không phải phần trăm của số tiền gốc, vì chi phí của dịch vụ kiều hối không thực sự phụ thuộc vào số tiền gốc. Thực tế, chi phí thật của một giao dịch kiều hối, gồm lao động, công nghệ, mạng lưới và tiền thuê, được ước tính thấp hơn đáng kể mức phí hiện tại.
-- **Thứ hai,** cạnh tranh lớn hơn sẽ kéo giá xuống. Việc gia nhập của những người chơi mới trên thị trường có thể được tạo thuận lợi bằng cách hài hoà hoá và hạ các yêu cầu về bảo lãnh và vốn, và tránh quá mức quy định (như đòi hỏi giấy phép ngân hàng đầy đủ cho các công ty chuyển tiền). Việc giám sát gắt gao các doanh nghiệp dịch vụ tiền tệ về rửa tiền hay tài trợ khủng bố kể từ các vụ tấn công 11/9 đã khiến họ khó vận hành tài khoản với các ngân hàng đại lý, buộc nhiều doanh nghiệp ở Mỹ phải đóng cửa. Dù các quy định là cần thiết để kiềm chế rửa tiền và tài trợ khủng bố, chúng không nên làm khó cho các doanh nghiệp dịch vụ tiền tệ hợp pháp trong việc vận hành tài khoản với ngân hàng đại lý. Một ví dụ về nơi cạnh tranh đã thúc đẩy giảm phí là hành lang Mỹ–Mexico, nơi phí kiều hối đã giảm 56% từ hơn 26 đô la (để gửi 300 đô la) năm 1999 xuống khoảng 11,50 đô la hiện nay. Ngoài ra, một số ngân hàng thương mại gần đây đã bắt đầu cung cấp dịch vụ kiều hối miễn phí, hy vọng điều đó sẽ thu hút khách hàng cho các sản phẩm tiền gửi và cho vay của họ. Và ở một số nước, các công cụ kiều hối mới dựa trên điện thoại di động, thẻ thông minh hay Internet đã xuất hiện.
-- **Thứ ba,** việc thiết lập quan hệ đối tác giữa các nhà cung cấp dịch vụ kiều hối và mạng lưới bưu điện cùng mạng bán lẻ hiện có sẽ giúp mở rộng dịch vụ kiều hối mà không cần đầu tư cố định lớn để phát triển mạng thanh toán. Tuy nhiên, quan hệ đối tác nên không độc quyền. Quan hệ đối tác độc quyền giữa mạng bưu điện và công ty chuyển tiền thường dẫn đến phí kiều hối cao hơn.
-- **Thứ tư,** người di cư nghèo cần tiếp cận ngân hàng nhiều hơn. Ngân hàng có xu hướng cung cấp dịch vụ kiều hối rẻ hơn các công ty chuyển tiền. Cả nước gửi và nước nhận đều có thể tăng khả năng tiếp cận ngân hàng cho người di cư bằng cách cho phép các ngân hàng nước xuất xứ hoạt động ở nước ngoài; bằng cách cung cấp thẻ căn cước (như matricula consular của Mexico) được các ngân hàng chấp nhận để mở tài khoản; và bằng cách tạo thuận lợi cho sự tham gia của các định chế tài chính vi mô và hợp tác xã tín dụng vào thị trường kiều hối.
+**Ai chịu thiệt nhất vì phí.** Với các khoản chuyển lớn (vì mục đích thương mại, đầu tư hay viện trợ), chi phí giao dịch không phải là vấn đề: tính theo phần trăm số tiền gốc thì phí nhỏ, và các ngân hàng quốc tế lớn sẵn sàng cạnh tranh để phục vụ các khoản giá trị lớn. Nhưng với các khoản nhỏ, ví dụ dưới 200 USD, vốn điển hình cho người di cư nghèo, phí có thể lên tới 10–15% số tiền gốc. Ví dụ minh hoạ: gửi 150 USD mà mất 15–22 USD phí. Giảm khoản phí này sẽ giúp gia đình người nhận đáng kể. Bài đề xuất bốn cách.
+
+**Thứ nhất: phí nên là một khoản cố định thấp, không phải phần trăm số tiền gốc.** Lý do là chi phí thực hiện dịch vụ kiều hối không thực sự phụ thuộc vào số tiền chuyển: chuyển 100 USD hay 1.000 USD thì công sức xử lý gần như như nhau. Thực tế, chi phí thật của một giao dịch, gồm lao động, công nghệ, mạng lưới và tiền thuê mặt bằng, được ước tính thấp hơn đáng kể so với mức phí đang thu.
+
+**Thứ hai: tăng cạnh tranh để kéo giá xuống.** Có thể giúp người chơi mới gia nhập thị trường bằng cách:
+
+- hài hoà hoá và hạ các yêu cầu về vốn và bảo lãnh;
+- tránh quy định quá mức, ví dụ đòi công ty chuyển tiền phải có giấy phép ngân hàng đầy đủ.
+
+Bài nêu một vấn đề cụ thể: từ sau vụ tấn công 11/9, các doanh nghiệp dịch vụ tiền tệ bị giám sát gắt gao về rửa tiền và tài trợ khủng bố. Điều này khiến họ khó giữ tài khoản ở ngân hàng đại lý, và nhiều doanh nghiệp ở Mỹ đã phải đóng cửa. Quy định để ngăn rửa tiền và tài trợ khủng bố là cần thiết, nhưng không nên làm khó các doanh nghiệp hợp pháp trong việc duy trì tài khoản với ngân hàng đại lý, vì mỗi doanh nghiệp bị loại là bớt một đối thủ cạnh tranh.
+
+Bằng chứng cạnh tranh làm giảm phí là hành lang Mỹ–Mexico:
+
+| Thời điểm | Phí để gửi 300 USD |
+|---|---|
+| Năm 1999 | Hơn 26 USD (khoảng 9% số tiền gửi) |
+| Hiện nay (2005) | Khoảng 11,50 USD (khoảng 4%) |
+| Mức giảm | 56% |
+
+Ngoài ra, một số ngân hàng thương mại gần đây đã bắt đầu chuyển kiều hối miễn phí, với hy vọng thu hút người di cư thành khách hàng cho các sản phẩm tiền gửi và cho vay. Ở một số nước, các công cụ kiều hối mới dựa trên điện thoại di động, thẻ thông minh hoặc Internet đã xuất hiện, làm giảm chi phí vận hành.
+
+**Thứ ba: hợp tác với mạng lưới bưu điện và bán lẻ sẵn có.** Thiết lập quan hệ đối tác giữa nhà cung cấp dịch vụ kiều hối với mạng lưới bưu điện và cửa hàng bán lẻ hiện có giúp mở rộng dịch vụ tới nhiều nơi mà không cần đầu tư cố định lớn để xây mạng thanh toán riêng. Tuy nhiên, các quan hệ đối tác này nên không độc quyền: khi một mạng bưu điện ký hợp đồng độc quyền với một công ty chuyển tiền, phí kiều hối thường cao hơn, vì người dân không còn lựa chọn khác.
+
+**Thứ tư: giúp người di cư nghèo tiếp cận ngân hàng.** Ngân hàng thường chuyển kiều hối rẻ hơn công ty chuyển tiền. Cả nước gửi và nước nhận đều có thể giúp người di cư mở tài khoản ngân hàng bằng ba cách:
+
+- cho phép ngân hàng của nước xuất xứ người di cư hoạt động ở nước sở tại;
+- cấp thẻ căn cước được ngân hàng chấp nhận để mở tài khoản, như thẻ matricula consular mà lãnh sự quán Mexico cấp cho công dân ở Mỹ;
+- tạo điều kiện cho các định chế tài chính vi mô và hợp tác xã tín dụng tham gia thị trường kiều hối.
 
 ### 5. Chính phủ có thể thúc đẩy dòng kiều hối không?
 
-- Các chính phủ thường đưa ra ưu đãi để tăng dòng kiều hối và hướng chúng vào các mục đích sử dụng sản xuất. Nhưng các chính sách như vậy có nhiều vấn đề hơn so với các nỗ lực mở rộng tiếp cận dịch vụ tài chính hay giảm chi phí giao dịch. Ưu đãi thuế có thể thu hút kiều hối, nhưng chúng cũng có thể khuyến khích trốn thuế. Các chương trình quỹ đối ứng để thu hút kiều hối từ các hiệp hội người di cư có thể chuyển hướng vốn khỏi các ưu tiên tài trợ địa phương khác, trong khi các nỗ lực hướng kiều hối vào đầu tư đã gặp rất ít thành công.
-- Về cơ bản, kiều hối là vốn tư nhân nên được đối xử như các nguồn thu nhập hộ gia đình khác. Các nỗ lực tăng tiết kiệm và cải thiện việc phân bổ chi tiêu nên được thực hiện qua các cải thiện trong môi trường đầu tư tổng thể, thay vì nhắm vào kiều hối. Tương tự, vì kiều hối là vốn tư nhân, chúng không nên được coi là vật thay thế cho viện trợ phát triển chính thức.
+Chính phủ các nước nhận thường đưa ra ưu đãi để tăng dòng kiều hối và hướng nó vào các mục đích sản xuất. Bài đánh giá các chính sách kiểu này có nhiều vấn đề hơn so với việc mở rộng tiếp cận dịch vụ tài chính hay giảm chi phí giao dịch:
+
+| Chính sách | Vấn đề |
+|---|---|
+| Ưu đãi thuế cho kiều hối | Có thể thu hút thêm kiều hối, nhưng cũng có thể khuyến khích trốn thuế (người ta khai các khoản thu nhập khác thành kiều hối để hưởng ưu đãi) |
+| Quỹ đối ứng (nhà nước góp thêm một khoản tương ứng với số tiền hiệp hội người di cư gửi về cho dự án địa phương) | Có thể kéo vốn ngân sách khỏi các ưu tiên tài trợ địa phương khác |
+| Hướng kiều hối vào đầu tư | Đã gặp rất ít thành công |
+
+**Kết luận của bài.** Về cơ bản, kiều hối là tiền tư nhân và nên được đối xử như các nguồn thu nhập khác của hộ gia đình. Gia đình có quyền quyết định tiêu tiền của mình vào đâu. Nếu muốn tăng tiết kiệm và cải thiện cách phân bổ chi tiêu, nhà nước nên cải thiện môi trường đầu tư nói chung, thay vì nhắm riêng vào kiều hối. Cũng vì kiều hối là tiền tư nhân, nó không nên được coi là thứ thay thế cho viện trợ phát triển chính thức: các nước tài trợ không thể lấy lý do "đã có kiều hối" để cắt viện trợ.
 
 ## Thuật ngữ
 

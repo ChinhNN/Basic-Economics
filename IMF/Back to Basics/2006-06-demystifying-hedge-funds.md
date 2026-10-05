@@ -201,42 +201,160 @@
 2. Phòng hộ, chênh lệch giá và đòn bẩy hoạt động thế nào?
 3. Quỹ đầu cơ có gây bất ổn thị trường và có bị quản lý không?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Quỹ đầu cơ (hedge fund).** Một quỹ đầu tư tư nhân, chỉ dành cho nhà đầu tư lớn, theo đuổi lợi nhuận dương mỗi năm, hạn chế biến động và trên hết là bảo toàn vốn, bằng cách dùng phòng hộ, kinh doanh chênh lệch giá và đòn bẩy. Chữ "hedge" trong tên tiếng Anh nghĩa là "phòng hộ", nên bài nhấn rằng bản chất của loại quỹ này là giảm rủi ro chứ không phải đánh bạc. Ví dụ quy mô trong bài: khoảng 8.500 quỹ trên toàn thế giới quản lý hơn 1 nghìn tỷ USD.
+
+**Lợi nhuận tuyệt đối và lợi nhuận tương đối (absolute vs relative returns).** Lợi nhuận tương đối là kết quả so với một chỉ số chuẩn; lợi nhuận tuyệt đối là mức tăng thật của tiền đầu tư. Ví dụ minh hoạ: thị trường giảm 20%, một quỹ thông thường giảm 15%; tính tương đối thì quỹ "thắng" 5 điểm, nhưng tính tuyệt đối thì nhà đầu tư vẫn mất 15%. Quỹ đầu cơ được đánh giá theo lợi nhuận tuyệt đối, và đây là đặc điểm phân biệt đầu tiên mà bài nêu.
+
+**Mức nước cao nhất (high-water mark).** Quy tắc tính phí: nếu quỹ đã lỗ, nhà quản lý phải đưa giá trị quỹ trở lại đỉnh cũ rồi mới được thu phí hiệu suất trên phần lãi mới. Ví dụ minh hoạ: quỹ từ 100 triệu xuống 90 triệu rồi lên 105 triệu; phí hiệu suất chỉ được tính trên 5 triệu (từ 100 lên 105), không phải 15 triệu. Quy tắc này khiến nhà quản lý rất ngại thua lỗ, tức tạo động lực bảo toàn vốn.
+
+**Phòng hộ và bán khống (hedging, short selling).** Phòng hộ là bảo vệ danh mục khỏi các biến động mạnh của thị trường, thường bằng cách vừa mua tài sản có triển vọng tốt vừa bán tài sản có triển vọng xấu. Bán khống là mượn cổ phiếu của người khác để bán, rồi mua lại sau đó để trả. Ví dụ minh hoạ: mượn và bán một cổ phiếu giá 50 USD, sau đó giá rơi còn 40 USD thì mua lại để trả, lãi 10 USD. Nếu giá tăng lên 60 USD thì lỗ 10 USD. Hai kỹ thuật này là công cụ chính giúp quỹ đầu cơ ít phụ thuộc vào chiều đi chung của thị trường.
+
+**Kinh doanh chênh lệch giá (arbitrage).** Kiếm lời khi cùng một tài sản (hoặc hai tài sản gắn chặt với nhau) có giá khác nhau ở hai nơi cùng lúc: bán ở nơi giá cao, mua ở nơi giá thấp, chờ giá hội tụ. Ví dụ minh hoạ: một cổ phiếu giá 100 ở sàn A và 101 ở sàn B; bán ở B, mua ở A, lãi 1 trên mỗi cổ phiếu khi giá hai nơi về bằng nhau. Biên lãi mỗi lần thường rất nhỏ, nên mới cần đòn bẩy.
+
+**Đòn bẩy (leverage).** Dùng tiền vay để làm tăng quy mô vị thế so với vốn tự có. Ví dụ minh hoạ: vốn 10 triệu, vay thêm 90 triệu để đầu tư 100 triệu; nếu tài sản tăng 1%, lãi 1 triệu, tức 10% trên vốn tự có; nếu giảm 1%, mất 10% vốn tự có. Đòn bẩy biến biên lãi nhỏ thành lợi nhuận đáng kể, nhưng cũng là nguyên nhân chính trong vụ sụp đổ LTCM mà bài kể.
+
+**Alpha, beta và tỷ số Sharpe.** Beta là phần lợi nhuận đến từ việc thị trường chung đi lên hay đi xuống; alpha là phần lợi nhuận không tương quan với thị trường, đến từ kỹ năng nhận ra cơ hội. Tỷ số Sharpe là lợi nhuận trung bình chia cho độ lệch chuẩn của lợi nhuận, tức "mỗi đơn vị rủi ro mang lại bao nhiêu lợi nhuận". Ví dụ minh hoạ: quỹ A lãi trung bình 10%/năm với độ lệch chuẩn 20% (Sharpe 0,5); quỹ B lãi 8% với độ lệch chuẩn 4% (Sharpe 2); theo thước đo điều chỉnh rủi ro thì B tốt hơn.
+
+**Giả thuyết thị trường hiệu quả (efficient markets hypothesis).** Quan điểm cho rằng giá tài sản đã phản ánh mọi thông tin có sẵn, nên tính trung bình không mô hình nào dự báo hướng đi của giá tốt hơn đáng kể so với tung đồng xu. Bài dùng khái niệm này để chỉ ra một nghịch lý: muốn tin quỹ đầu cơ kiếm được tiền thì phải nới lỏng giả thuyết này, nhưng chính hoạt động của quỹ đầu cơ lại làm thị trường hiệu quả hơn.
+
+## Nội dung chi tiết
 
 ### 1. Quỹ đầu cơ là gì
 
-- Quỹ đầu cơ có thể mang vẻ ngoại lai và hiện đại, nhưng mục tiêu của chúng cổ xưa như chính nghệ thuật đầu tư. Chúng tìm kiếm lợi nhuận hằng năm dương (càng cao càng tốt), biến động giá trị hạn chế, và trên hết là bảo toàn vốn. Chúng làm vậy bằng cách dùng những gì tốt nhất mà khoa học tài chính hiện đại có thể cung cấp: phát hiện giá nhanh; xử lý toán học và thống kê ồ ạt; kỹ thuật đo lường và kiểm soát rủi ro; và đòn bẩy cùng giao dịch chủ động cổ phiếu, trái phiếu, ngoại hối, hợp đồng tương lai, quyền chọn, hoán đổi, kỳ hạn và các phái sinh khác.
-- Do bản chất của mình, quỹ đầu cơ bị hạn chế với các nhà đầu tư quy mô lớn. Về mặt lịch sử, chúng đã thu hút các cá nhân giàu có và nhà đầu tư tổ chức, và mảng sau đã mở rộng đáng kể trong những năm gần đây để bao gồm quỹ hưu trí, tổ chức từ thiện, đại học, quỹ hiến tặng và quỹ tài trợ. Các "quỹ của các quỹ" đang bắt đầu đưa quỹ đầu cơ vào thị trường bán lẻ, nhưng ở quy mô khá hạn chế. Hiện có khoảng 8.500 quỹ đầu cơ hoạt động trên toàn thế giới, quản lý hơn 1 nghìn tỷ đô la tài sản. Một bước nhảy đáng kể so với 2.800 quỹ đầu cơ quản lý 2,8 tỷ đô la tài sản năm 1995, chưa kể các số tiền liên quan đến các khoản đầu tư kiểu quỹ đầu cơ sớm nhất từ thời Aristotle.
-- **Khởi đầu với ô liu (hộp bên).** Khoản đầu tư kiểu quỹ đầu cơ đầu tiên được ghi lại là một giao dịch "quyền chọn mua" và có vẻ đã xảy ra khoảng 2.500 năm trước. Aristotle kể câu chuyện về một triết gia nghèo, Thales, người đã chứng minh với những kẻ hoài nghi rằng ông đã phát triển một "thiết bị tài chính, liên quan đến một nguyên lý có tính ứng dụng phổ quát", bằng cách kiếm lời từ việc đàm phán với chủ các máy ép ô liu để có độc quyền sử dụng thiết bị của họ trong vụ thu hoạch sắp tới. Chủ máy ép ô liu vui vẻ chuyển giao rủi ro về giá ô liu tương lai và chấp nhận khoản thanh toán ngay như một biện pháp phòng hộ chống lại một vụ mùa kém sau đó. Hoá ra Thales đã dự đoán đúng một vụ mùa bội thu, và nhu cầu máy ép ô liu tăng lên. Ông bán quyền sử dụng máy ép và kiếm lời. "Quyền chọn mua" của Thales chỉ mạo hiểm khoản trả trước của ông. Dù ông không đầu tư vào ruộng, công nhân hay máy ép ô liu, ông đã tham gia tích cực vào việc sản xuất ô liu bằng cách gánh một loại rủi ro mà người trồng và chủ máy ép không thể hoặc không sẵn sàng gánh, qua đó tạo điều kiện cho họ tập trung vào việc trồng và chế biến ô liu. Họ kiếm lời từ công việc của mình, còn ông kiếm lời từ công việc của ông.
-- Lịch sử quỹ đầu cơ hiện đại bắt đầu với Alfred Winslow Jones, một nhà xã hội học và nhà báo viết về hành vi thị trường trong thập niên 1930 và 1940, người đã sáng lập một trong những quỹ đầu cơ đầu tiên năm 1949. Quỹ của Jones dùng đòn bẩy và bán khống để "phòng hộ" danh mục cổ phiếu của mình chống lại sự sụt giá cổ phiếu. Không có mấy quan tâm rộng rãi cho đến năm 1966, khi một bài trên tạp chí *Fortune* tạo ra sự quan tâm đáng kể bằng cách chỉ ra rằng Jones đang kiếm lợi nhuận cao hơn 44% so với quỹ tài sản cổ phiếu có hiệu suất tốt nhất, dù ông thu phí bằng 20% mức tăng của quỹ. Đến năm 1968, có khoảng 200 quỹ đầu cơ, dù nhiều quỹ đã thất bại trong các đợt suy giảm thị trường 1969–70 và 1973–74. Kinh doanh quỹ đầu cơ thực sự khởi sắc trong thập niên 1990, chủ yếu được thúc đẩy bởi của cải mới tạo ra trong thị trường bò cổ phiếu thập niên 1990.
+**Mục tiêu cũ, công cụ mới.** Quỹ đầu cơ có vẻ ngoại lai và hiện đại, nhưng mục tiêu của chúng cổ xưa như chính nghề đầu tư: lợi nhuận hằng năm dương (càng cao càng tốt), biến động giá trị hạn chế, và trên hết là bảo toàn vốn. Cái mới là công cụ. Quỹ đầu cơ dùng những gì tốt nhất mà khoa học tài chính hiện đại cung cấp:
+
+- phát hiện giá nhanh;
+- xử lý toán học và thống kê với khối lượng lớn;
+- kỹ thuật đo lường và kiểm soát rủi ro;
+- đòn bẩy, cùng việc giao dịch chủ động cổ phiếu, trái phiếu, ngoại hối, hợp đồng tương lai, quyền chọn, hợp đồng hoán đổi, hợp đồng kỳ hạn và các công cụ phái sinh khác.
+
+**Ai đầu tư vào quỹ đầu cơ.** Do bản chất của mình, quỹ đầu cơ chỉ dành cho nhà đầu tư quy mô lớn. Trong lịch sử, chúng thu hút các cá nhân giàu có và nhà đầu tư tổ chức. Nhóm nhà đầu tư tổ chức đã mở rộng đáng kể trong những năm gần đây, gồm quỹ hưu trí, tổ chức từ thiện, trường đại học, quỹ hiến tặng và quỹ tài trợ. Các "quỹ của các quỹ" (quỹ gom tiền nhỏ rồi đầu tư vào nhiều quỹ đầu cơ) đang bắt đầu đưa quỹ đầu cơ đến nhà đầu tư cá nhân thông thường, nhưng quy mô còn khá hạn chế.
+
+**Quy mô.** Hiện có khoảng 8.500 quỹ đầu cơ hoạt động trên toàn thế giới, quản lý hơn 1 nghìn tỷ USD tài sản. Theo số liệu của bản tổng hợp, đây là một bước nhảy lớn so với năm 1995, khi có 2.800 quỹ quản lý 2,8 tỷ USD. Bài còn đùa rằng phải cộng thêm số tiền của những khoản đầu tư kiểu quỹ đầu cơ sớm nhất, từ thời Aristotle.
+
+**Khởi đầu với ô liu.** Khoản đầu tư kiểu quỹ đầu cơ đầu tiên được ghi lại là một giao dịch "quyền chọn mua", diễn ra khoảng 2.500 năm trước. Aristotle kể chuyện Thales, một triết gia nghèo, muốn chứng minh với những người hoài nghi rằng ông đã nghĩ ra một "thiết bị tài chính, dựa trên một nguyên lý có thể áp dụng phổ quát". Câu chuyện diễn ra theo các bước:
+
+1. Thales thương lượng với chủ các máy ép ô liu để có quyền độc quyền dùng máy của họ trong vụ thu hoạch sắp tới, và trả trước một khoản tiền.
+2. Chủ máy ép vui vẻ nhận tiền ngay, vì như vậy họ chuyển rủi ro giá ô liu tương lai sang cho Thales; khoản tiền trả trước là cách họ phòng hộ phòng khi vụ mùa sau đó kém.
+3. Thales dự đoán đúng một vụ mùa bội thu. Nhu cầu dùng máy ép tăng vọt.
+4. Ông bán lại quyền dùng máy ép với giá cao và kiếm lời.
+
+"Quyền chọn mua" của Thales chỉ khiến ông mất tối đa khoản trả trước. Ông không đầu tư vào ruộng, công nhân hay máy ép, nhưng vẫn tham gia tích cực vào việc sản xuất ô liu: ông gánh một loại rủi ro mà người trồng và chủ máy ép không thể hoặc không muốn gánh, nhờ đó họ tập trung vào việc trồng và ép ô liu. Họ kiếm lời từ công việc của họ, ông kiếm lời từ công việc của ông. Đây cũng là lập luận của bài về vai trò kinh tế của quỹ đầu cơ ngày nay: chúng nhận rủi ro mà người khác muốn chuyển đi.
+
+**Quỹ đầu cơ hiện đại.** Lịch sử quỹ đầu cơ hiện đại bắt đầu với Alfred Winslow Jones, một nhà xã hội học và nhà báo viết về hành vi thị trường trong thập niên 1930 và 1940. Năm 1949, ông lập một trong những quỹ đầu cơ đầu tiên. Quỹ của Jones dùng đòn bẩy và bán khống để "phòng hộ" danh mục cổ phiếu trước nguy cơ giá cổ phiếu giảm. Các mốc tiếp theo:
+
+| Năm | Sự kiện |
+|---|---|
+| 1949 | Jones lập quỹ, dùng đòn bẩy và bán khống để phòng hộ |
+| 1966 | Một bài trên tạp chí *Fortune* cho thấy quỹ của Jones có lợi nhuận cao hơn 44% so với quỹ cổ phiếu tốt nhất, dù ông thu phí bằng 20% mức tăng của quỹ; giới đầu tư bắt đầu chú ý |
+| 1968 | Có khoảng 200 quỹ đầu cơ |
+| 1969–70 và 1973–74 | Nhiều quỹ thất bại trong các đợt thị trường suy giảm |
+| Thập niên 1990 | Ngành thật sự khởi sắc, chủ yếu nhờ của cải mới tạo ra trong đợt thị trường cổ phiếu tăng mạnh kéo dài thập niên 1990 |
 
 ### 2. Lợi nhuận tuyệt đối so với tương đối
 
-- Một vài đặc điểm then chốt phân biệt quỹ đầu cơ với các phương tiện đầu tư khác: tập trung vào lợi nhuận tuyệt đối, và việc dùng phòng hộ, kinh doanh chênh lệch giá và đòn bẩy.
-- Trong các kỳ rất dài, các chiến lược mua-và-giữ gần như luôn làm tốt. Vấn đề là độ dài thời gian và điểm xuất phát: thời điểm bạn mua có thể quan trọng khủng khiếp. Chẳng hạn, qua hàng trăm năm, lợi nhuận cổ phiếu trung bình khoảng 8% một năm, nhưng có thể có vài thập kỷ mà giá cổ phiếu không tăng giá trị chút nào. Chỉ số Standard & Poor's, vốn rơi mạnh sau khi đạt đỉnh năm 1968, đã không trở lại mức năm 1968 tính theo giá đã điều chỉnh lạm phát mãi đến năm 1992!
-- Trong thập niên 1970, các biến động giá trị này thúc đẩy các nhà quản lý đầu tư tập trung vào lợi nhuận so với các chỉ số chuẩn, như chỉ số cổ phiếu S&P 500. Theo cách đó, hiệu suất tốt được diễn đạt bằng hiệu suất của nhà quản lý tài sản so với các chỉ số ngành tài sản chuẩn, và hiệu suất tương đối càng tốt thì càng thu hút nhà đầu tư. Nói cách khác, nhà quản lý thu hút nhiều nhà đầu tư hơn và được trả nhiều tiền hơn ngay cả khi quỹ giảm giá trị, miễn là nó không giảm nhiều bằng chỉ số chuẩn.
-- Ngược lại, các nhà quản lý quỹ đầu cơ tập trung vào lợi nhuận tuyệt đối đã điều chỉnh rủi ro, tức mục tiêu của họ là tối đa hoá mức tăng giá trị đầu tư mỗi năm thay vì chỉ đơn giản làm tốt hơn mức trung bình. Do đó, hầu hết nhà quản lý quỹ đầu cơ được trả dựa trên mức họ làm tăng của cải của nhà đầu tư, một phần trăm của lợi nhuận, chứ không dựa trên việc họ làm tốt đến đâu so với một chỉ số chuẩn, qua đó tập trung hiệu suất của họ hoàn toàn vào lợi nhuận dương. Dù các nhà quản lý cũng được trả hoa hồng 1 hoặc 2% một năm cho tài sản đang quản lý, phần lớn thù lao của họ phụ thuộc vào việc mang lại lợi nhuận tuyệt đối dương. Ngoài ra, các nhà quản lý thường đầu tư một số vốn đáng kể của chính mình vào quỹ, điều này gắn lợi ích của họ với nhà đầu tư và ngăn việc chấp nhận rủi ro liều lĩnh. Và, khi được dùng, một "mức nước cao nhất", theo đó các khoản lỗ vốn phải được bù đắp trước khi phí hiệu suất được trả, tạo động lực mạnh mẽ hướng tới bảo toàn vốn. Trong bối cảnh này, việc giảm thiểu biến động giá trị và miễn nhiễm danh mục của quỹ đầu cơ khỏi các biến động chung của giá trị thị trường, qua phòng hộ, trở thành then chốt để tối đa hoá lợi nhuận dài hạn.
+Bài nêu vài đặc điểm then chốt phân biệt quỹ đầu cơ với các loại hình đầu tư khác: tập trung vào **lợi nhuận tuyệt đối**, và dùng **phòng hộ**, **kinh doanh chênh lệch giá** và **đòn bẩy**. Mục này giải thích đặc điểm thứ nhất.
+
+**Vấn đề của chiến lược mua-và-giữ.** Nếu giữ đủ lâu, chiến lược mua rồi giữ gần như luôn có kết quả tốt. Vấn đề nằm ở độ dài thời gian và điểm xuất phát: thời điểm mua có thể quan trọng khủng khiếp. Qua hàng trăm năm, lợi nhuận cổ phiếu trung bình khoảng 8% một năm, nhưng có những giai đoạn kéo dài vài thập kỷ mà giá cổ phiếu không tăng chút nào. Ví dụ: chỉ số Standard & Poor's rơi mạnh sau khi đạt đỉnh năm 1968, và tính theo giá đã điều chỉnh lạm phát thì mãi đến năm 1992 mới trở lại mức năm 1968. Tức là người mua ở đỉnh năm 1968 phải chờ 24 năm mới hoà vốn về sức mua.
+
+**Phản ứng của ngành quản lý quỹ truyền thống: lợi nhuận tương đối.** Trong thập niên 1970, những biến động lớn này khiến các nhà quản lý đầu tư chuyển sang đo kết quả so với một chỉ số chuẩn, như chỉ số cổ phiếu S&P 500. Kết quả tốt được hiểu là làm tốt hơn chỉ số chuẩn của loại tài sản tương ứng, và kết quả tương đối càng tốt thì càng thu hút nhà đầu tư. Hệ quả: nhà quản lý vẫn thu hút thêm nhà đầu tư và được trả nhiều hơn **ngay cả khi quỹ mất giá trị**, miễn là quỹ giảm ít hơn chỉ số chuẩn.
+
+**Cách của quỹ đầu cơ: lợi nhuận tuyệt đối đã điều chỉnh rủi ro.** Nhà quản lý quỹ đầu cơ đặt mục tiêu tối đa hoá mức tăng giá trị khoản đầu tư mỗi năm, chứ không chỉ làm tốt hơn mức trung bình. Mục tiêu này được gắn chặt bằng cách trả công:
+
+| Cơ chế | Nội dung | Tác dụng |
+|---|---|---|
+| Phí hiệu suất | Nhà quản lý được trả một phần trăm của lợi nhuận, tức theo mức họ làm tăng của cải nhà đầu tư, không theo kết quả so với chỉ số chuẩn | Tập trung hoàn toàn vào lợi nhuận dương |
+| Phí quản lý | Hoa hồng 1 hoặc 2% một năm trên tài sản đang quản lý | Chỉ là phần nhỏ; phần lớn thù lao phụ thuộc lợi nhuận tuyệt đối dương |
+| Vốn của chính nhà quản lý | Nhà quản lý thường bỏ một khoản tiền đáng kể của mình vào quỹ | Gắn lợi ích của họ với nhà đầu tư, ngăn chấp nhận rủi ro liều lĩnh |
+| Mức nước cao nhất | Khi được áp dụng, các khoản lỗ vốn phải được bù đắp trước khi phí hiệu suất được trả | Tạo động lực mạnh để bảo toàn vốn |
+
+Ví dụ minh hoạ về khác biệt: năm thị trường giảm 10%, một quỹ thông thường giảm 8% vẫn được coi là thành công; một quỹ đầu cơ giảm 8% thì không thu được phí hiệu suất, và còn phải bù lại 8% đó trước khi được thu phí năm sau.
+
+Trong bối cảnh đó, việc giảm biến động giá trị và làm danh mục không bị cuốn theo các biến động chung của thị trường, thông qua phòng hộ, trở thành then chốt để tối đa hoá lợi nhuận dài hạn. Một năm lỗ lớn sẽ xoá sạch phí của nhiều năm sau, nên tránh lỗ quan trọng ngang với kiếm lãi.
 
 ### 3. Phòng hộ, chênh lệch giá và đòn bẩy
 
-- Phòng hộ là gì? Đó là một kỹ thuật nhằm bảo vệ một danh mục khỏi các biến động mạnh của giá trị thị trường. Về cơ bản nó hàm ý việc mua và giữ các tài sản có triển vọng dài hạn tốt trong khi đồng thời bán các tài sản có triển vọng đáng ngờ. Kỹ thuật sau, bán khống, liên quan đến việc mượn cổ phiếu của người khác và bán chúng, với ý định mua lại cổ phiếu ở giá thấp hơn và trả lại cho người cho mượn ban đầu. Chênh lệch giữa số tiền cổ phiếu được bán và số tiền cần trả để mua lại chúng là lợi nhuận. Sự phát triển của hợp đồng tương lai, quyền chọn và các phái sinh liên quan về cổ phiếu và chỉ số cổ phiếu giao dịch trên thị trường trong nửa thế kỷ qua đã tạo ra gần như vô hạn cách để tham gia bán khống và phòng hộ.
-- Kỹ thuật kinh doanh chênh lệch giá cố kiếm lời từ việc đôi khi một tài sản giao dịch ở giá khác nhau trên các thị trường khác nhau cùng một lúc. Vì một tài sản nên có cùng giá ở mọi thị trường cùng một lúc, một cách để thu lợi nhuận rủi ro thấp là bán tài sản giá cao hơn ở một thị trường (bán khống nó) và mua tài sản giá thấp hơn (mua dài) ở thị trường kia. Khi giá hội tụ, một khoản lợi nhuận chênh lệch có thể được thu bằng cách bán tài sản trước đây giá thấp và mua lại tài sản trước đây giá cao. Một ví dụ điển hình về cơ hội chênh lệch giá tiềm năng là trái phiếu doanh nghiệp có thể chuyển đổi thành cổ phiếu của công ty.
-- Một nhà quản lý quỹ đầu cơ tập trung vào việc đạt lợi nhuận tuyệt đối bằng cách tìm càng nhiều càng tốt các cơ hội lợi nhuận miễn nhiễm với biến động thị trường. Theo thuật ngữ ngành, đó là tạo ra alpha (lợi nhuận không tương quan với hiệu suất thị trường) thay vì beta. Vì các cơ hội này thường liên quan đến biên giao dịch nhỏ, việc dùng đòn bẩy và quản lý rủi ro thận trọng tìm cách đạt lợi nhuận tốt với biến động thấp hơn. Biến hiệu suất then chốt là lợi nhuận đã điều chỉnh rủi ro. Thước đo được dùng rộng rãi nhất là tỷ số Sharpe, tỷ lệ giữa trung bình của lợi nhuận và độ lệch chuẩn của nó. Giá trị cao hơn nghĩa là lợi nhuận đã điều chỉnh rủi ro cao hơn, với một thước đo rủi ro cho trước.
-- Kết luận cốt lõi là lợi nhuận quỹ đầu cơ nảy sinh không phải từ việc dự đoán chính xác hướng đi của giá mà từ việc có thể nhận diện các cơ hội định giá thoáng qua. Để tin vào khả năng thành công của quỹ đầu cơ, người ta phải không tin, hoặc ít nhất nới lỏng, giả thuyết thị trường hiệu quả nổi tiếng, vốn nói rằng trung bình không mô hình nào dự báo các chuyển động hướng của giá tài sản sẽ tốt hơn đáng kể việc tung đồng xu. Tuy nhiên, trên thực tế, các hoạt động của quỹ đầu cơ có thể được coi là thúc đẩy các thị trường hiệu quả: bằng cách chủ động tìm cách loại bỏ định giá sai trên thị trường, quỹ đầu cơ góp phần vào sự hội tụ nhanh và hiệu quả hơn của giá về cân bằng thị trường, giảm lỗi định giá thị trường, giảm các mức giá cực đoan, và có thể giúp ổn định thị trường, "mua thấp và bán cao".
-- **Các chiến lược chênh lệch giá cơ bản (hộp bên).** *Chênh lệch giá chuyển đổi:* nhà quản lý mua một danh mục chứng khoán có thể chuyển đổi thành các loại chứng khoán khác; giá trái phiếu và cổ phiếu thường giao dịch trong một quan hệ chặt chẽ, và khi điều kiện thị trường khiến giá lệch khỏi nhau, quỹ mua bán đồng thời, đẩy giá trở lại và kiếm lời từ định giá sai. *Chứng khoán khó khăn:* dùng vốn vay để đầu tư vào nợ và cổ phiếu của các công ty đang hoặc vừa trong quá trình tái tổ chức phá sản. *Theo sự kiện/sáp nhập:* đầu tư vào các cơ hội do các sự kiện giao dịch lớn tạo ra như chia tách, mua bán sáp nhập, tái cấu trúc vốn, mua lại cổ phiếu. *Vĩ mô toàn cầu:* cách tiếp cận toàn cầu "từ trên xuống", đầu tư vào bất kỳ thị trường nào dùng bất kỳ công cụ nào để kiếm lời từ các chuyển động thị trường bị định giá sai do thay đổi trong nền kinh tế thế giới, điều kiện địa chính trị, cân bằng cung cầu toàn cầu. *Mua dài/bán khống:* mua dài chứng khoán dự kiến tăng giá và bán khống chứng khoán dự kiến giảm giá để cách ly danh mục khỏi biến động thị trường. *Trung lập thị trường:* đầu tư cùng lượng vốn vào các vị thế mua dài và bán khống bù trừ nhau, duy trì phơi nhiễm thị trường ròng bằng hoặc gần bằng không. *Chênh lệch giá biến động:* bán khống quyền chọn mua và bán ngắn hạn để kiếm lời từ sự suy giảm phí quyền chọn và xu hướng hồi quy về trung bình của biến động.
+**Phòng hộ.** Là kỹ thuật bảo vệ danh mục khỏi các biến động mạnh của giá trị thị trường. Về cơ bản, nó nghĩa là mua và giữ các tài sản có triển vọng dài hạn tốt, đồng thời bán các tài sản có triển vọng đáng ngờ. Việc "bán" ở đây thường là **bán khống**: mượn cổ phiếu của người khác và bán đi, với ý định sau đó mua lại ở giá thấp hơn để trả cho người cho mượn. Chênh lệch giữa giá bán và giá mua lại là lợi nhuận. Khi thị trường chung giảm, phần mua thua lỗ nhưng phần bán khống có lãi, nên danh mục ít bị ảnh hưởng. Trong nửa thế kỷ qua, sự phát triển của hợp đồng tương lai, quyền chọn và các công cụ phái sinh trên cổ phiếu và chỉ số cổ phiếu đã tạo ra gần như vô hạn cách để bán khống và phòng hộ.
+
+**Kinh doanh chênh lệch giá.** Kỹ thuật này kiếm lời từ việc đôi khi cùng một tài sản lại có giá khác nhau ở các thị trường khác nhau cùng một lúc. Vì về nguyên tắc một tài sản phải có cùng giá ở mọi nơi tại cùng thời điểm, có thể thu lợi nhuận với rủi ro thấp bằng cách:
+
+1. bán tài sản ở thị trường có giá cao hơn (bán khống);
+2. mua tài sản ở thị trường có giá thấp hơn (mua dài);
+3. khi giá hai nơi hội tụ, bán phần đã mua giá thấp và mua lại phần đã bán giá cao, thu phần chênh lệch.
+
+Một ví dụ điển hình là trái phiếu doanh nghiệp có thể chuyển đổi thành cổ phiếu của chính công ty đó: giá trái phiếu và giá cổ phiếu phải đi theo một quan hệ nhất định, nên khi chúng lệch nhau là có cơ hội chênh lệch giá.
+
+**Alpha, đòn bẩy và tỷ số Sharpe.** Nhà quản lý quỹ đầu cơ tìm lợi nhuận tuyệt đối bằng cách tìm càng nhiều càng tốt các cơ hội sinh lời không phụ thuộc vào biến động của thị trường. Trong ngôn ngữ của ngành, đó là tạo ra **alpha** (lợi nhuận không tương quan với kết quả chung của thị trường) thay vì **beta** (lợi nhuận đi theo thị trường). Vì các cơ hội này thường có biên lãi mỗi giao dịch rất nhỏ, quỹ dùng **đòn bẩy** kết hợp với quản lý rủi ro thận trọng để đạt lợi nhuận tốt với biến động thấp hơn. Thước đo kết quả then chốt là lợi nhuận đã điều chỉnh rủi ro, và thước đo được dùng rộng rãi nhất là **tỷ số Sharpe**: lợi nhuận trung bình chia cho độ lệch chuẩn của lợi nhuận. Với cùng một cách đo rủi ro, tỷ số này càng cao thì lợi nhuận điều chỉnh rủi ro càng cao.
+
+**Kết luận cốt lõi.** Lợi nhuận của quỹ đầu cơ không đến từ việc đoán đúng giá sẽ lên hay xuống, mà từ việc nhận ra các cơ hội định giá sai chỉ tồn tại trong thời gian ngắn. Điều này dẫn tới một nghịch lý:
+
+- Để tin quỹ đầu cơ có thể thành công, phải không tin, hoặc ít nhất nới lỏng, **giả thuyết thị trường hiệu quả**, theo đó tính trung bình không mô hình nào dự báo hướng đi của giá tài sản tốt hơn đáng kể so với tung đồng xu.
+- Nhưng trên thực tế, chính hoạt động của quỹ đầu cơ lại làm thị trường hiệu quả hơn. Khi chủ động tìm và khai thác các chỗ định giá sai, quỹ đầu cơ giúp giá hội tụ nhanh hơn về mức cân bằng, giảm sai lệch giá, giảm các mức giá cực đoan, và có thể giúp ổn định thị trường, vì chúng "mua khi thấp và bán khi cao".
+
+**Các chiến lược cơ bản của quỹ đầu cơ.** Bài liệt kê bảy chiến lược:
+
+| Chiến lược | Cách làm |
+|---|---|
+| Chênh lệch giá chuyển đổi | Mua một danh mục chứng khoán có thể chuyển đổi sang loại chứng khoán khác. Giá trái phiếu và cổ phiếu thường đi trong một quan hệ chặt; khi điều kiện thị trường làm giá lệch nhau, quỹ mua và bán đồng thời, đẩy giá trở lại và kiếm lời từ phần định giá sai |
+| Chứng khoán khó khăn | Dùng vốn vay để đầu tư vào nợ và cổ phiếu của các công ty đang hoặc vừa trải qua tái tổ chức phá sản |
+| Theo sự kiện, sáp nhập | Đầu tư vào các cơ hội do các sự kiện giao dịch lớn tạo ra: chia tách công ty, mua bán sáp nhập, tái cấu trúc vốn, mua lại cổ phiếu |
+| Vĩ mô toàn cầu | Cách tiếp cận "từ trên xuống", đầu tư vào bất kỳ thị trường nào bằng bất kỳ công cụ nào để kiếm lời từ các chuyển động bị định giá sai do thay đổi của kinh tế thế giới, tình hình địa chính trị hay cân bằng cung cầu toàn cầu |
+| Mua dài, bán khống | Mua chứng khoán dự kiến tăng giá và bán khống chứng khoán dự kiến giảm giá, để danh mục ít chịu ảnh hưởng của biến động thị trường chung |
+| Trung lập thị trường | Đặt lượng vốn bằng nhau vào các vị thế mua và bán bù trừ nhau, giữ mức phơi nhiễm ròng với thị trường bằng hoặc gần bằng không |
+| Chênh lệch giá biến động | Bán quyền chọn mua và quyền chọn bán ngắn hạn để kiếm lời từ việc giá trị quyền chọn giảm dần theo thời gian và từ xu hướng mức biến động quay về mức trung bình |
 
 ### 4. Phá bỏ các lầm tưởng
 
-- Trong những năm gần đây đã có nhiều tranh luận và lo lắng về quỹ đầu cơ, tác động của chúng lên ổn định tài chính toàn cầu (đặc biệt từ khi một quỹ đầu cơ lớn của Mỹ phải được cứu trợ năm 1998) và mức độ quản lý hay giám sát mà chúng phải chịu. Thực tế là những lo lắng này bị thổi phồng. Hãy xem hai lầm tưởng lớn nhất.
-- **Lầm tưởng 1: Quỹ đầu cơ có thể làm dịch chuyển thị trường tài chính vì lợi ích riêng hoặc gây hỗn loạn thị trường.** Sau phân tích kỹ lưỡng, Uỷ ban Chứng khoán và Giao dịch Mỹ gần đây xác định rằng có rất ít bằng chứng cho thấy quỹ đầu cơ có thể làm dịch chuyển thị trường, và vài nghiên cứu đã không tìm thấy bằng chứng rằng quỹ đầu cơ là nguyên nhân của khủng hoảng châu Á hay các hỗn loạn kinh tế thế giới khác (Eichengreen và cộng sự, 1998). Việc tháo gỡ các "giao dịch chênh lệch lãi suất" (vay ở lãi suất thấp và cho vay ở lãi suất cao hơn) có góp phần vào khủng hoảng cơ chế tỷ giá châu Âu năm 1993, khủng hoảng peso 1994–95 và khủng hoảng châu Á 1997–98. Nhưng vấn đề cốt lõi làm nền cho các sự kiện này là sự lệch lạc của tỷ giá so với các yếu tố nền tảng, chứ không phải sự can thiệp của những người tham gia thị trường tài chính. Thực tế, nghiên cứu của IMF do Eichengreen dẫn đầu phát hiện rằng quỹ đầu cơ, bằng cách sẵn sàng chấp nhận rủi ro mua một số tài sản đã rớt giá đáng kể, đã góp phần hạn chế đà giảm trong khủng hoảng châu Á và thúc đẩy phục hồi.
-- Thực tế là hoạt động quỹ đầu cơ làm các thị trường tài chính hiệu quả hơn và, trong nhiều trường hợp, lỏng hơn, như đã được Cục Dự trữ Liên bang Mỹ, SEC và IMF thừa nhận rộng rãi. Quỹ đầu cơ không chỉ góp phần vào việc điều chỉnh thị trường khi chúng vượt ngưỡng, chúng còn giúp ngân hàng và các chủ nợ khác gỡ bó các rủi ro liên quan đến hoạt động kinh tế thực bằng cách tham gia tích cực vào thị trường công cụ tài chính chứng khoán hoá. Và vì lợi nhuận quỹ đầu cơ trong nhiều trường hợp ít tương quan hơn với thị trường nợ và cổ phiếu rộng hơn, quỹ đầu cơ cho các định chế đầu tư truyền thống hơn một cách để giảm rủi ro bằng cách cung cấp đa dạng hoá danh mục.
-- **Lầm tưởng 2: Quỹ đầu cơ không được quản lý và không bị giám sát.** Sự thật là quỹ đầu cơ ở Mỹ được quản lý và giám sát trực tiếp hoặc gián tiếp bởi bảy cơ quan chính phủ Mỹ (Cục Dự trữ Liên bang, Bộ Tài chính, SEC, Uỷ ban Giao dịch Hàng hoá Tương lai, Hiệp hội Tương lai Quốc gia, Cơ quan Kiểm soát Tiền tệ, và Tổng công ty Bảo hiểm Tiền gửi Liên bang) và bởi nhiều cơ quan quốc tế.
+Những năm gần đây có nhiều tranh luận và lo ngại về quỹ đầu cơ: về tác động của chúng lên ổn định tài chính toàn cầu (nhất là từ khi một quỹ đầu cơ lớn của Mỹ phải được giải cứu năm 1998) và về mức độ chúng bị quản lý, giám sát. Tác giả cho rằng những lo ngại này bị thổi phồng và bác bỏ hai lầm tưởng lớn nhất.
+
+**Lầm tưởng 1: "Quỹ đầu cơ có thể làm dịch chuyển thị trường tài chính vì lợi ích riêng hoặc gây hỗn loạn thị trường."** Bài đưa ra các bằng chứng sau:
+
+- Sau khi phân tích kỹ, Uỷ ban Chứng khoán và Giao dịch Mỹ (SEC) gần đây kết luận có rất ít bằng chứng rằng quỹ đầu cơ có thể làm dịch chuyển thị trường.
+- Một số nghiên cứu không tìm thấy bằng chứng rằng quỹ đầu cơ gây ra khủng hoảng châu Á hay các cơn hỗn loạn kinh tế thế giới khác (Eichengreen và cộng sự, 1998).
+- Việc tháo gỡ hàng loạt các "giao dịch chênh lệch lãi suất" (vay ở nơi lãi suất thấp để cho vay hoặc đầu tư ở nơi lãi suất cao) **có** góp phần vào khủng hoảng cơ chế tỷ giá châu Âu năm 1993, khủng hoảng đồng peso Mexico 1994–95 và khủng hoảng châu Á 1997–98. Nhưng gốc rễ của các sự kiện này là tỷ giá đã lệch xa khỏi các yếu tố kinh tế nền tảng, chứ không phải sự can thiệp của các nhà đầu tư tài chính.
+- Nghiên cứu của IMF do Eichengreen dẫn đầu còn phát hiện rằng trong khủng hoảng châu Á, quỹ đầu cơ, nhờ sẵn sàng chấp nhận rủi ro mua vào một số tài sản đã rớt giá mạnh, đã góp phần hạn chế đà giảm và thúc đẩy phục hồi.
+
+Ngược với lầm tưởng, hoạt động của quỹ đầu cơ làm thị trường tài chính hiệu quả hơn và trong nhiều trường hợp có tính thanh khoản cao hơn, điều được Cục Dự trữ Liên bang Mỹ (Fed), SEC và IMF thừa nhận rộng rãi. Bài nêu ba đóng góp:
+
+1. Góp phần điều chỉnh thị trường khi giá đã đi quá xa.
+2. Giúp ngân hàng và các chủ nợ khác chuyển bớt các rủi ro gắn với hoạt động kinh tế thực, bằng cách tham gia tích cực vào thị trường các công cụ tài chính chứng khoán hoá (các khoản vay được gom lại và bán dưới dạng chứng khoán).
+3. Vì lợi nhuận của quỹ đầu cơ trong nhiều trường hợp ít tương quan với thị trường trái phiếu và cổ phiếu nói chung, chúng cho các định chế đầu tư truyền thống một cách để giảm rủi ro qua đa dạng hoá danh mục.
+
+**Lầm tưởng 2: "Quỹ đầu cơ không được quản lý và không bị giám sát."** Sự thật là ở Mỹ, quỹ đầu cơ được quản lý và giám sát trực tiếp hoặc gián tiếp bởi bảy cơ quan chính phủ, cùng nhiều cơ quan quốc tế:
+
+1. Cục Dự trữ Liên bang (Fed).
+2. Bộ Tài chính.
+3. Uỷ ban Chứng khoán và Giao dịch (SEC).
+4. Uỷ ban Giao dịch Hàng hoá Tương lai.
+5. Hiệp hội Tương lai Quốc gia.
+6. Cơ quan Kiểm soát Tiền tệ.
+7. Tổng công ty Bảo hiểm Tiền gửi Liên bang.
 
 ### 5. Thảm hoạ LTCM và kết luận
 
-- Ở mọi thị trường đều có những thất bại, và quỹ đầu cơ không miễn nhiễm với chúng. Trường hợp nổi tiếng nhất là Long-Term Capital Management (LTCM), một quỹ đầu cơ nổi tiếng đã mất toàn bộ vốn vào mùa thu năm 1998. Một cú tăng vọt đột ngột của biến động thị trường vào mùa hè 1998 dẫn đến mức tăng rất nhanh của các khoản lỗ của LTCM, buộc phải thanh lý. Ngoài tính lành mạnh đáng ngờ của một số chiến lược, thất bại của LTCM xảy ra vì hai lý do chính: hệ thống quản lý rủi ro ở LTCM và các ngân hàng của nó đều yếu; và các vị thế đầu tư của LTCM đã trở nên quá lớn so với tổng khối lượng thị trường ở các tài sản đó. Khi giá quay lưng lại với nó, LTCM không thể bán các khoản nắm giữ đủ nhanh. Và khi lao vào bán tháo để điều chỉnh danh mục, các khoản lỗ của nó tích tụ như quả cầu tuyết. Vì các vị thế của nó quá lớn và gắn với rất nhiều định chế tài chính khác, LTCM trở thành một rủi ro hệ thống tiềm tàng, thuyết phục nhà chức trách can thiệp.
-- Kết quả của một cuộc rà soát kỹ lưỡng ngành quỹ đầu cơ sau thất bại LTCM, các công ty tương tác với quỹ đầu cơ đã siết chặt quản lý rủi ro đối tác. Và các định chế quản lý tài chính trong và ngoài nước đã nâng cấp việc giám sát quỹ đầu cơ. Nhưng có lẽ quan trọng hơn nữa, đã có một sự suy nghĩ lại trong chính ngành quỹ đầu cơ, với các công ty quỹ đầu cơ hàng đầu thiết lập các hướng dẫn thực hành tốt nhất cho ngành. Và các đánh giá tiếp theo, như của Diễn đàn Ổn định Tài chính năm 2002, cho thấy kỷ luật quản lý rủi ro đã tăng và đòn bẩy đã giảm.
-- Tóm lại, quỹ đầu cơ được gọi là quỹ đầu cơ vì chúng dùng đầy đủ các kỹ thuật phòng hộ để giảm biến động danh mục. Chúng ngày càng phổ biến khi quyền sở hữu tư nhân về vốn mở rộng trên toàn thế giới và các chủ sở hữu vốn quy mô lớn tìm cách bảo toàn của cải trong các thị trường biến động. Trong nỗ lực xoa dịu lo lắng về minh bạch và giám sát, nhà chức trách công đang cố phát triển các cách tiếp cận mới đáp ứng nhu cầu của công chúng về ổn định hệ thống tài chính và bảo vệ nhà đầu tư, đồng thời cho phép nhà đầu tư hưởng các lợi ích mà quỹ đầu cơ mang lại cho thị trường tài chính.
+**Vụ sụp đổ.** Thị trường nào cũng có thất bại, và quỹ đầu cơ không phải ngoại lệ. Trường hợp nổi tiếng nhất là Long-Term Capital Management (LTCM), một quỹ đầu cơ danh tiếng đã mất toàn bộ vốn vào mùa thu năm 1998. Diễn biến:
+
+1. Mùa hè 1998, biến động thị trường đột ngột tăng vọt.
+2. Các khoản lỗ của LTCM tăng rất nhanh, buộc quỹ phải thanh lý tài sản.
+3. Khi giá đi ngược với các vị thế của mình, LTCM không bán được tài sản đủ nhanh.
+4. Khi quỹ lao vào bán tháo để điều chỉnh danh mục, việc bán tháo lại đẩy giá đi xấu hơn, và lỗ tích tụ như quả cầu tuyết.
+5. Vì các vị thế của LTCM quá lớn và gắn với quá nhiều định chế tài chính khác, quỹ trở thành một rủi ro hệ thống tiềm tàng, tức sự sụp đổ của nó có thể kéo theo các định chế khác. Điều này thuyết phục nhà chức trách can thiệp.
+
+**Nguyên nhân.** Ngoài việc một số chiến lược của quỹ có tính lành mạnh đáng ngờ, thất bại của LTCM xảy ra vì hai lý do chính:
+
+- Hệ thống quản lý rủi ro của LTCM và của các ngân hàng cho LTCM vay đều yếu.
+- Các vị thế đầu tư của LTCM đã trở nên quá lớn so với tổng khối lượng giao dịch của thị trường các tài sản đó, nên không thể thoát ra mà không làm giá sụp.
+
+**Bài học và thay đổi sau LTCM.** Sau khi ngành quỹ đầu cơ được rà soát kỹ lưỡng:
+
+- Các công ty có giao dịch với quỹ đầu cơ đã siết chặt quản lý rủi ro đối tác, tức kiểm soát chặt hơn mức độ họ có thể mất nếu quỹ đối tác vỡ.
+- Các cơ quan quản lý tài chính trong và ngoài nước đã nâng cấp việc giám sát quỹ đầu cơ.
+- Quan trọng hơn nữa, bản thân ngành quỹ đầu cơ đã suy nghĩ lại; các công ty hàng đầu đặt ra những hướng dẫn thực hành tốt nhất cho cả ngành.
+- Các đánh giá sau đó, như của Diễn đàn Ổn định Tài chính năm 2002, cho thấy kỷ luật quản lý rủi ro đã tăng và mức đòn bẩy đã giảm.
+
+**Kết luận của bài.** Trong tiếng Anh, quỹ đầu cơ được gọi là *hedge fund* (quỹ phòng hộ) chính vì chúng dùng đầy đủ các kỹ thuật phòng hộ để giảm biến động của danh mục. Chúng ngày càng phổ biến khi quyền sở hữu vốn tư nhân mở rộng khắp thế giới và những người nắm giữ vốn lớn tìm cách bảo toàn của cải trong các thị trường nhiều biến động. Để giải toả lo ngại về minh bạch và giám sát, các cơ quan công quyền đang tìm cách tiếp cận mới: vừa đáp ứng đòi hỏi của công chúng về ổn định hệ thống tài chính và bảo vệ nhà đầu tư, vừa để nhà đầu tư tiếp tục hưởng những lợi ích mà quỹ đầu cơ mang lại cho thị trường tài chính.
 
 ## Thuật ngữ
 

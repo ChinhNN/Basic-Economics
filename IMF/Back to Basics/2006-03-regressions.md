@@ -167,38 +167,131 @@
 2. Hồi quy được chạy thế nào, và thêm biến thay đổi kết quả ra sao?
 3. Bốn cạm bẫy chính của hồi quy là gì?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tương quan (correlation).** Hai biến có tương quan khi chúng có xu hướng thay đổi cùng nhau: cùng tăng, cùng giảm (tương quan dương), hoặc cái này tăng thì cái kia giảm (tương quan âm). Ví dụ trong bài: cỡ giày và khả năng đọc của học sinh tiểu học cùng tăng, tức tương quan dương. Tương quan chỉ mô tả việc hai thứ đi cùng nhau, không nói cái nào gây ra cái nào; đây là điểm xuất phát của cả bài.
+
+**Quan hệ nhân quả (causal relationship).** Một biến thật sự gây ra thay đổi ở biến kia: nếu ta chủ động thay đổi biến thứ nhất thì biến thứ hai sẽ thay đổi theo. Ví dụ trong bài: làm chân trẻ to ra sẽ không làm trẻ đọc giỏi hơn, nên giữa cỡ giày và khả năng đọc không có quan hệ nhân quả. Chính sách chỉ có tác dụng khi dựa trên quan hệ nhân quả, nên phân biệt tương quan với nhân quả là câu hỏi quan trọng nhất của bài.
+
+**Phân tích hồi quy (regression analysis).** Công cụ thống kê dùng để lượng hoá quan hệ giữa một biến và các biến khác được cho là giải thích nó, và cho biết quan hệ đó chặt chẽ đến đâu. Ví dụ trong bài: hồi quy lương giờ theo số năm đi học cho ra kết quả "mỗi năm học thêm gắn với 1,06 USD lương giờ". Hồi quy có mặt trong gần như mọi nghiên cứu kinh tế thực nghiệm.
+
+**Biến phụ thuộc và biến giải thích (dependent và explanatory variable).** Biến phụ thuộc (Y) là thứ ta muốn giải thích, ví dụ thu nhập. Biến giải thích, còn gọi là biến độc lập (X), là thứ ta dùng để giải thích nó, ví dụ số năm đi học. Việc chọn biến nào làm Y, biến nào làm X phải dựa trên một mô hình lý thuyết, không phải tuỳ ý.
+
+**Hằng số và hệ số (intercept và coefficient).** Trong phương trình Y = a + bX, hằng số a (hệ số chặn) là giá trị của Y khi X bằng 0; hệ số b (độ dốc) cho biết Y thay đổi bao nhiêu khi X tăng thêm 1 đơn vị. Ví dụ trong bài: Y = 5,40 + 1,06 EDU nghĩa là người không đi học có lương trung bình 5,40 USD/giờ, và mỗi năm học thêm gắn với 1,06 USD/giờ. Với một người học 12 năm, phương trình dự đoán lương là 5,40 + 1,06 × 12 = 18,12 USD/giờ (phép tính minh hoạ).
+
+**Hồi quy nhiều biến và "giữ các yếu tố khác không đổi".** Khi đưa nhiều biến giải thích vào cùng lúc (Y = a + b₁X₁ + b₂X₂ + ...), mỗi hệ số đo tác động của một biến khi các biến kia được giữ nguyên. Ví dụ trong bài: khi thêm IQ vào, hệ số của giáo dục giảm từ 1,06 xuống 0,83, vì một phần cái trước đó tưởng là tác động của giáo dục thật ra là tác động của IQ. Đây là cách hồi quy tách các yếu tố đan xen nhau.
+
+**Thiên lệch do bỏ sót biến (omitted variable bias).** Khi một yếu tố quan trọng vừa ảnh hưởng đến Y vừa tương quan với X nhưng không được đưa vào phương trình, hệ số của X sẽ "gánh" luôn tác động của yếu tố đó và bị sai một cách hệ thống. Ví dụ trong bài: không đưa IQ vào thì tác động của giáo dục bị đánh giá quá cao. Đây là cạm bẫy đầu tiên và phổ biến nhất mà bài cảnh báo.
+
+**Nhân quả ngược (reverse causality).** Khi biến được coi là kết quả lại tác động ngược lên biến được coi là nguyên nhân. Ví dụ trong bài: thu nhập cao hơn giúp người ta có tiền đi học thêm, chứ không chỉ đi học làm tăng thu nhập. Khi nhân quả chạy hai chiều, hệ số hồi quy thông thường không còn đo đúng tác động một chiều mà ta cần, và phải dùng kỹ thuật đặc biệt.
+
+## Nội dung chi tiết
 
 ### 1. Tương quan và nhân quả
 
-- Đọc là một kỹ năng quan trọng, và các giáo viên tiểu học đã quan sát rằng khả năng đọc của học sinh có xu hướng tăng theo cỡ giày của các em. Để giúp tăng kỹ năng đọc, các nhà hoạch định có nên trao giải thưởng cho các nhà khoa học để nghĩ ra phương pháp làm tăng cỡ giày của trẻ em tiểu học không? Rõ ràng, xu hướng cỡ giày và khả năng đọc cùng tăng không có nghĩa là chân to gây ra sự cải thiện kỹ năng đọc. Trẻ lớn hơn có chân to hơn, nhưng chúng cũng có não phát triển hơn. Sự phát triển tự nhiên này của trẻ em giải thích quan sát đơn giản rằng cỡ giày và khả năng đọc có xu hướng cùng tăng, tức chúng tương quan dương. Nhưng rõ ràng không có quan hệ nào: cỡ giày to hơn không gây ra khả năng đọc tốt hơn.
-- Trong kinh tế học, các tương quan là phổ biến. Nhưng việc xác định xem tương quan giữa hai hay nhiều biến có đại diện cho một quan hệ nhân quả hay không thì hiếm khi dễ đến vậy. Các nước giao thương nhiều hơn với phần còn lại của thế giới cũng có mức thu nhập cao hơn, nhưng điều này có nghĩa thương mại nâng mức thu nhập không? Những người có học vấn cao hơn có xu hướng thu nhập cao hơn, nhưng điều này có hàm ý giáo dục tạo ra thu nhập cao hơn không? Biết câu trả lời chính xác cho những câu hỏi này rất quan trọng. Nếu các năm học thêm gây ra thu nhập cao hơn, thì nhà hoạch định có thể giảm nghèo bằng cách cấp thêm kinh phí cho giáo dục. Nếu thêm một năm giáo dục tạo ra mức tăng 20.000 đô la một năm trong thu nhập, thì lợi ích của việc chi cho giáo dục sẽ lớn hơn nhiều so với nếu thêm một năm giáo dục chỉ tạo ra mức tăng 2 đô la một năm.
-- Để giúp trả lời những loại câu hỏi này, các nhà kinh tế dùng một công cụ thống kê gọi là phân tích hồi quy. Hồi quy được dùng để lượng hoá quan hệ giữa một biến và các biến khác được cho là giải thích nó; hồi quy cũng có thể xác định quan hệ đó chặt chẽ và được xác định rõ đến mức nào. Ngày nay, việc chạy hàng nghìn hồi quy đã trở thành chuyện thường và dễ dàng, dù điều đó không phải lúc nào cũng vậy, và thực tế khó tìm được một nghiên cứu kinh tế thực nghiệm nào mà không có hồi quy trong đó. Các lĩnh vực khác, gồm xã hội học, thống kê và tâm lý học, cũng dựa nhiều vào hồi quy.
+**Ví dụ cỡ giày.** Đọc là một kỹ năng quan trọng. Các giáo viên tiểu học quan sát thấy khả năng đọc của học sinh có xu hướng tăng theo cỡ giày của các em. Vậy để nâng kỹ năng đọc, nhà hoạch định có nên trao giải cho nhà khoa học nào nghĩ ra cách làm chân trẻ em to ra không? Rõ ràng là không. Trẻ lớn tuổi hơn có chân to hơn, nhưng cũng có bộ não phát triển hơn. Chính sự lớn lên tự nhiên của trẻ giải thích vì sao cỡ giày và khả năng đọc cùng tăng, tức là chúng tương quan dương. Nhưng giữa chúng không có quan hệ nhân quả: chân to hơn không làm trẻ đọc tốt hơn. Ở đây tuổi là yếu tố thứ ba đứng sau cả hai.
+
+**Trong kinh tế học, chuyện không dễ như vậy.** Tương quan có ở khắp nơi, nhưng biết được một tương quan có phản ánh quan hệ nhân quả hay không thì hiếm khi rõ ràng như ví dụ cỡ giày. Bài đưa hai câu hỏi:
+
+- Các nước giao thương nhiều hơn với thế giới cũng có mức thu nhập cao hơn. Nhưng điều đó có nghĩa thương mại làm tăng thu nhập không, hay các nước giàu hơn thì giao thương nhiều hơn?
+- Người học nhiều hơn có xu hướng thu nhập cao hơn. Nhưng điều đó có nghĩa giáo dục tạo ra thu nhập cao hơn không?
+
+**Vì sao câu trả lời quan trọng.** Nếu thêm năm học thật sự gây ra thu nhập cao hơn, nhà hoạch định có thể giảm nghèo bằng cách chi thêm cho giáo dục. Hơn nữa, độ lớn của tác động cũng quan trọng: nếu thêm một năm học làm thu nhập tăng 20.000 USD mỗi năm, thì chi cho giáo dục đáng giá hơn rất nhiều so với trường hợp nó chỉ làm thu nhập tăng 2 USD mỗi năm. Tức là ta cần biết không chỉ có tác động hay không, mà tác động bao nhiêu.
+
+**Công cụ: phân tích hồi quy.** Để trả lời những câu hỏi như vậy, nhà kinh tế dùng phân tích hồi quy. Hồi quy làm hai việc:
+
+1. Lượng hoá quan hệ giữa một biến và các biến khác được cho là giải thích nó.
+2. Cho biết quan hệ đó chặt chẽ và được xác định rõ đến mức nào.
+
+Ngày nay chạy hàng nghìn hồi quy là chuyện thường và dễ dàng (dù không phải lúc nào cũng vậy, xem mục 5 về lịch sử tính toán), và thực tế khó tìm được một nghiên cứu kinh tế thực nghiệm nào không có hồi quy. Các ngành khác như xã hội học, thống kê và tâm lý học cũng dựa nhiều vào hồi quy.
 
 ### 2. Cách chạy một hồi quy
 
-- Để minh hoạ cách hồi quy hoạt động, hãy xem kỹ hơn vấn đề xác định lợi tức từ giáo dục. Chính phủ thu thập dữ liệu về trình độ học vấn của người dân và thu nhập sau đó của họ. Nhưng người ta đi học vì nhiều lý do: một số thấy học dễ hơn người khác hoặc chỉ đơn giản có động lực hơn để ở lại trường lâu hơn. Những người khác có thể thành công khi theo đuổi các nghề phi học thuật và vẫn có thể đạt thu nhập cao. Các lý do đa dạng này cho việc đi học có thể ảnh hưởng đến thu nhập, khiến khó biết được liệu tương quan giữa học vấn và thu nhập có đại diện cho một quan hệ nhân quả hay bị dẫn dắt bởi một yếu tố khác. Những người thấy việc học ở trường dễ hơn cũng có thể thấy việc học trong công việc dễ hơn, dẫn đến thu nhập cao hơn. Do đó, tương quan dương giữa thu nhập cao hơn và trình độ học vấn có thể phản ánh năng khiếu bẩm sinh, thay vì tác động của giáo dục.
-- Trước khi chạy một hồi quy, một mô hình lý thuyết có thể giúp giải thích cách và vì sao một biến "phụ thuộc" được xác định bởi một hay nhiều biến "độc lập" hay "giải thích". Việc đặt giả thuyết rằng thu nhập của một cá nhân phụ thuộc vào trình độ học vấn của người đó là một ví dụ về mô hình đơn giản với một biến giải thích. Một phương trình hồi quy tương ứng, được giả định là tuyến tính, sẽ trông như: Y = a + bX. Ở vế trái là Y, biến phụ thuộc của ta, thu nhập. Ở vế phải là a, hằng số (hay hệ số chặn) của ta, và b, hệ số (hay độ dốc) của ta nhân với X, biến độc lập (hay giải thích) của ta, giáo dục. Hồi quy nói bằng đại số rằng "thu nhập chỉ phụ thuộc vào giáo dục và theo cách tuyến tính"; các yếu tố giải thích khác, nếu có, bị bỏ qua.
-- Nhưng nếu ta nghĩ rằng thế giới phức tạp hơn nhiều và nhiều yếu tố có thể giải thích tác động của giáo dục lên thu nhập thì sao? Trong trường hợp đó, ta sẽ chạy một hồi quy nhiều biến, trông như: Y = a + b₁X₁ + b₂X₂ + ... Nay ta có nhiều biến X để giúp giải thích Y, thu nhập, như năng lực, trí thông minh, tuổi, giáo dục, tình trạng hôn nhân, và giáo dục của cha mẹ. Các hệ số b đơn giản đo tác động của từng biến này lên thu nhập, giả định các biến khác không đổi.
+**Ví dụ lợi tức từ giáo dục.** Giả sử chính phủ thu thập dữ liệu về trình độ học vấn của người dân và thu nhập của họ về sau. Vấn đề là người ta đi học nhiều hay ít vì nhiều lý do khác nhau:
+
+- Một số người thấy việc học dễ hơn người khác, hoặc đơn giản là có động lực ở lại trường lâu hơn.
+- Một số người khác đi theo các nghề không cần học thuật và vẫn có thu nhập cao.
+
+Chính những lý do này cũng có thể ảnh hưởng đến thu nhập. Vì vậy khó biết tương quan giữa học vấn và thu nhập phản ánh tác động thật của giáo dục, hay bị một yếu tố khác dẫn dắt. Ví dụ: người thấy học ở trường dễ dàng có lẽ cũng thấy học trong công việc dễ dàng, nên thăng tiến nhanh và kiếm nhiều hơn. Khi đó, tương quan dương giữa học vấn và thu nhập có thể phản ánh **năng khiếu bẩm sinh** chứ không phải tác động của giáo dục. Đây là cùng một cấu trúc với ví dụ cỡ giày: năng khiếu đóng vai trò của tuổi.
+
+**Bắt đầu từ một mô hình lý thuyết.** Trước khi chạy hồi quy, cần một mô hình lý thuyết giải thích cách thức và lý do một biến "phụ thuộc" được quyết định bởi một hay nhiều biến "độc lập" hay "giải thích". Giả thuyết "thu nhập của một người phụ thuộc vào trình độ học vấn của người đó" là một mô hình đơn giản với một biến giải thích. Phương trình hồi quy tương ứng, giả định quan hệ là tuyến tính (đường thẳng), có dạng:
+
+**Y = a + bX**
+
+| Ký hiệu | Tên gọi | Trong ví dụ |
+|---|---|---|
+| Y | Biến phụ thuộc | Thu nhập |
+| a | Hằng số, hay hệ số chặn | Thu nhập khi không đi học năm nào |
+| b | Hệ số, hay độ dốc | Thu nhập tăng thêm cho mỗi năm học |
+| X | Biến độc lập, hay biến giải thích | Số năm đi học |
+
+Viết phương trình này tức là nói bằng đại số rằng "thu nhập chỉ phụ thuộc vào giáo dục, và theo đường thẳng". Mọi yếu tố giải thích khác, nếu có, đều bị bỏ qua.
+
+**Hồi quy nhiều biến.** Nếu ta tin thế giới phức tạp hơn nhiều, và nhiều yếu tố có thể giải thích thu nhập bên cạnh giáo dục, ta chạy hồi quy nhiều biến:
+
+**Y = a + b₁X₁ + b₂X₂ + ...**
+
+Lúc này có nhiều biến X cùng giải thích Y (thu nhập), ví dụ năng lực, trí thông minh, tuổi, giáo dục, tình trạng hôn nhân và trình độ giáo dục của cha mẹ. Mỗi hệ số b đo tác động của một biến lên thu nhập, với giả định các biến còn lại giữ nguyên. Ví dụ minh hoạ: hệ số của giáo dục lúc này trả lời câu hỏi "hai người cùng tuổi, cùng trí thông minh, cùng tình trạng hôn nhân, cha mẹ cùng trình độ, nhưng một người học nhiều hơn một năm, thì thu nhập chênh nhau bao nhiêu?".
 
 ### 3. Thông minh hơn thì giàu hơn?
 
-- Hãy thử chạy một hồi quy dựa trên lý thuyết rằng lương giờ (biến phụ thuộc của ta) phụ thuộc vào trình độ học vấn (biến giải thích của ta). Ta sẽ giả định rằng một biến giải thích khả dĩ khác, năng khiếu, đo bằng các bài kiểm tra chỉ số thông minh (IQ), không có tác động lên lương tách rời khỏi bất kỳ tác động nào nó có thể có qua giáo dục. Ta nhập toàn bộ dữ liệu về thu nhập và trình độ học vấn. Ta chạy hồi quy và thấy: Y = 5,40 + 1,06 EDU.
-- Hệ số b cho ta biết rằng thêm một năm giáo dục gắn với mức tăng 1,06 đô la trong lương giờ. Và với những người không có giáo dục (EDU = 0), hằng số chỉ ra rằng lương trung bình là 5,40 đô la một giờ.
-- Nhưng nếu ta đưa IQ vào phương trình, tức giả định rằng thu nhập phụ thuộc vào cả trình độ học vấn lẫn IQ? Ta nhập dữ liệu về kết quả kiểm tra IQ và thấy: Y = 5,40 + 0,83 EDU + 0,001 IQ.
-- Ta học được rằng những cá nhân làm bài kiểm tra IQ tốt hơn cũng có lương giờ cao hơn. Hơn nữa, trong khi tác động của giáo dục lên lương vẫn dương, nó nhỏ hơn khoảng 27% so với nếu ta không đưa kết quả IQ vào (27% đến từ chênh lệch trong các hệ số: 100(1,06−0,83)/0,83). Hàm ý là trước đó ta đã đánh giá quá cao tác động của giáo dục lên lương vì ta đã không tính đến ảnh hưởng của IQ, thứ tương quan với giáo dục.
+**Hồi quy thứ nhất: chỉ có giáo dục.** Bài chạy thử một hồi quy dựa trên lý thuyết rằng lương giờ (biến phụ thuộc) phụ thuộc vào trình độ học vấn (biến giải thích). Ở bước này, ta giả định rằng năng khiếu, đo bằng bài kiểm tra chỉ số thông minh (IQ), không có tác động nào lên lương ngoài tác động thông qua giáo dục, nên không đưa nó vào. Nhập toàn bộ dữ liệu về thu nhập và học vấn, kết quả là:
+
+**Y = 5,40 + 1,06 EDU**
+
+- Hệ số b = 1,06: thêm một năm học gắn với lương giờ cao hơn 1,06 USD.
+- Hằng số a = 5,40: với người không đi học năm nào (EDU = 0), lương trung bình là 5,40 USD/giờ.
+
+**Hồi quy thứ hai: thêm IQ.** Bây giờ giả định thu nhập phụ thuộc cả vào học vấn lẫn IQ. Nhập thêm dữ liệu điểm IQ, kết quả là:
+
+**Y = 5,40 + 0,83 EDU + 0,001 IQ**
+
+So sánh hai kết quả:
+
+| | Hồi quy chỉ có giáo dục | Hồi quy có thêm IQ |
+|---|---|---|
+| Hằng số | 5,40 | 5,40 |
+| Hệ số giáo dục (USD lương giờ mỗi năm học) | 1,06 | 0,83 |
+| Hệ số IQ (USD lương giờ mỗi điểm IQ) | không có | 0,001 |
+
+Hai điều rút ra:
+
+1. Người làm bài kiểm tra IQ tốt hơn cũng có lương giờ cao hơn (hệ số IQ dương).
+2. Tác động của giáo dục lên lương vẫn dương, nhưng nhỏ hơn. Bài tính mức chênh là khoảng 27%, theo công thức 100 × (1,06 − 0,83) / 0,83. Cần đọc con số này cẩn thận: công thức này cho biết 1,06 lớn hơn 0,83 khoảng 27–28%; nếu tính theo chiều ngược lại, tức 0,83 nhỏ hơn 1,06 bao nhiêu phần trăm, thì kết quả là khoảng 22% (0,23 chia 1,06). Dù tính theo chiều nào, kết luận vẫn như nhau.
+
+**Hàm ý.** Ở hồi quy thứ nhất, ta đã đánh giá quá cao tác động của giáo dục lên lương, vì không tính đến IQ, một yếu tố tương quan với giáo dục (người IQ cao thường học lâu hơn) và cũng ảnh hưởng đến lương. Hệ số 1,06 đã "gánh" luôn một phần tác động của IQ. Khi IQ được đưa vào, phần đó được tách ra và hệ số giáo dục giảm xuống 0,83.
 
 ### 4. Các cạm bẫy tiềm tàng
 
-- Dù có những lợi ích, hồi quy dễ mắc cạm bẫy và thường bị lạm dụng. Hãy xem bốn khó khăn hàng đầu sau.
-- **Bỏ sót biến.** Cần có một mô hình lý thuyết tốt để gợi ý các biến giải thích biến phụ thuộc. Trong trường hợp một hồi quy hai biến đơn giản, ta phải nghĩ đến các yếu tố khác có thể giải thích biến phụ thuộc. Trong ví dụ của ta, ngay cả khi IQ được đưa vào, tương quan giữa giáo dục và thu nhập vẫn có thể phản ánh một yếu tố nào đó khác chưa được đưa vào. Tức là, các cá nhân trong mẫu vẫn có thể khác nhau theo một cách "không quan sát được" nào đó giải thích thu nhập sau này của họ, có thể qua các lựa chọn giáo dục của họ. Các cá nhân từ gia đình giàu có thường tiếp cận giáo dục tốt hơn, nhưng của cải gia đình cũng có thể tạo ra nhiều quan hệ hơn trên thị trường lao động, dẫn đến thu nhập cao hơn. Do đó, của cải của cha mẹ có thể là một biến nữa nên được đưa vào.
-- **Nhân quả ngược.** Nhiều mô hình lý thuyết dự đoán nhân quả hai chiều, tức một biến phụ thuộc có thể gây ra thay đổi ở một hay nhiều biến giải thích. Chẳng hạn, thu nhập cao hơn có thể cho phép người ta đầu tư nhiều hơn vào giáo dục của chính mình, đến lượt nó lại nâng thu nhập của họ. Điều này làm phức tạp cách các hồi quy nên được ước lượng, đòi hỏi các kỹ thuật đặc biệt.
-- **Đo sai.** Các yếu tố có thể bị đo không chính xác. Ví dụ, năng khiếu khó đo, và có những vấn đề đã biết rõ với các bài kiểm tra IQ. Kết quả là hồi quy dùng IQ có thể không kiểm soát đúng cho năng khiếu, dẫn đến các tương quan không chính xác hay thiên lệch giữa giáo dục và thu nhập.
-- **Tầm nhìn quá hẹp.** Một hệ số hồi quy chỉ cung cấp thông tin về cách các thay đổi nhỏ, không phải các thay đổi lớn, ở một biến liên quan đến các thay đổi ở biến khác. Nó sẽ cho thấy một thay đổi nhỏ về giáo dục có khả năng ảnh hưởng đến thu nhập thế nào nhưng sẽ không cho phép nhà nghiên cứu khái quát về tác động của các thay đổi lớn. Nếu mọi người cùng lúc có bằng đại học, một cử nhân mới ra lò khó có khả năng kiếm được nhiều hơn đáng kể vì tổng cung cử nhân sẽ đã tăng vọt.
+Hồi quy có ích, nhưng dễ mắc cạm bẫy và thường bị lạm dụng. Bài nêu bốn khó khăn hàng đầu:
+
+| Cạm bẫy | Bản chất | Ví dụ trong bài |
+|---|---|---|
+| Bỏ sót biến | Thiếu một yếu tố vừa ảnh hưởng thu nhập vừa tương quan với giáo dục | Của cải cha mẹ |
+| Nhân quả ngược | Biến phụ thuộc tác động ngược lên biến giải thích | Thu nhập cao giúp đi học thêm |
+| Đo sai | Biến được đo không chính xác | IQ là thước đo không hoàn hảo của năng khiếu |
+| Tầm nhìn quá hẹp | Hệ số chỉ đúng cho thay đổi nhỏ | Nếu ai cũng có bằng đại học |
+
+**Thứ nhất: bỏ sót biến.** Cần một mô hình lý thuyết tốt để biết những biến nào giải thích biến phụ thuộc. Ngay cả với một hồi quy hai biến đơn giản, ta cũng phải nghĩ đến các yếu tố khác có thể giải thích biến phụ thuộc. Trong ví dụ, kể cả khi đã đưa IQ vào, tương quan giữa giáo dục và thu nhập vẫn có thể phản ánh một yếu tố khác chưa được đưa vào. Tức là các cá nhân trong mẫu vẫn có thể khác nhau theo một cách "không quan sát được" nào đó, giải thích thu nhập sau này của họ, có thể thông qua chính các lựa chọn học tập của họ. Ví dụ cụ thể: người xuất thân từ gia đình giàu thường được học ở trường tốt hơn, nhưng của cải gia đình cũng có thể mang lại cho họ nhiều mối quan hệ hơn trên thị trường lao động, và từ đó thu nhập cao hơn. Vì vậy của cải của cha mẹ có thể là một biến nữa nên được đưa vào. Nếu bỏ sót, hệ số giáo dục sẽ lại bị đánh giá quá cao, giống như trường hợp IQ.
+
+**Thứ hai: nhân quả ngược.** Nhiều mô hình lý thuyết dự đoán quan hệ nhân quả hai chiều: biến phụ thuộc có thể gây ra thay đổi ở một hay nhiều biến giải thích. Ví dụ: thu nhập cao hơn cho phép người ta đầu tư nhiều hơn vào việc học của chính mình, và việc học đó lại nâng thu nhập lên. Khi đó, tương quan giữa học vấn và thu nhập là kết quả của cả hai chiều, và hồi quy thông thường không tách được chiều nào lớn bao nhiêu. Điều này làm phức tạp cách ước lượng và đòi hỏi các kỹ thuật đặc biệt.
+
+**Thứ ba: đo sai.** Các yếu tố có thể bị đo không chính xác. Năng khiếu là thứ khó đo, và các bài kiểm tra IQ có những vấn đề đã được biết rõ. Hệ quả là một hồi quy dùng IQ có thể không kiểm soát đúng cho năng khiếu, và tương quan ước lượng được giữa giáo dục và thu nhập có thể vẫn không chính xác hoặc bị thiên lệch. Tức là việc thêm IQ vào phương trình chỉ sửa được một phần vấn đề bỏ sót năng khiếu, không phải toàn bộ.
+
+**Thứ tư: tầm nhìn quá hẹp.** Một hệ số hồi quy chỉ cho biết các thay đổi **nhỏ** ở một biến liên quan thế nào đến thay đổi ở biến khác, chứ không cho biết về các thay đổi **lớn**. Nó cho thấy một thay đổi nhỏ về giáo dục có thể ảnh hưởng đến thu nhập ra sao, nhưng không cho phép khái quát sang những thay đổi lớn. Ví dụ: nếu mọi người cùng lúc có bằng đại học, một cử nhân mới ra trường khó có thể kiếm nhiều hơn đáng kể, vì tổng cung cử nhân đã tăng vọt. Hệ số được ước lượng trong một thế giới mà bằng đại học còn tương đối hiếm, nên không còn đúng khi chính sách làm thay đổi cả thị trường lao động.
 
 ### 5. Phép màu của máy tính
 
-- Các khái niệm ban đầu về hồi quy có từ thế kỷ 19, nhưng chính cuộc cách mạng công nghệ trong thế kỷ 20, biến máy tính để bàn thành thứ phổ biến, đã đưa phân tích hồi quy lên tầng bình lưu. Trong thập niên 1950 và 1960, các nhà kinh tế phải tính toán hồi quy bằng máy tính cơ điện để bàn. Mới đến tận năm 1970, có thể mất tới 24 giờ chỉ để nhận được kết quả của một hồi quy từ phòng máy tính trung tâm, và đó là sau khi đã dành hàng giờ hoặc hàng ngày đục các phiếu máy tính. Một lỗ đục sai (một từ điều khiển viết sai hay giá trị dữ liệu không đúng) sẽ làm hỏng toàn bộ nỗ lực.
+Bài kèm một phần riêng về lịch sử tính toán hồi quy, để giải thích vì sao hồi quy trở nên phổ biến như ngày nay. Các khái niệm đầu tiên về hồi quy đã có từ thế kỷ 19, nhưng chính cuộc cách mạng công nghệ thế kỷ 20, khi máy tính để bàn trở thành vật dụng phổ biến, mới đưa phân tích hồi quy lên một tầm cao mới.
+
+| Giai đoạn | Cách tính hồi quy |
+|---|---|
+| Thế kỷ 19 | Ra đời các khái niệm ban đầu về hồi quy |
+| Thập niên 1950 và 1960 | Nhà kinh tế tính hồi quy bằng máy tính cơ điện để bàn |
+| Đến tận năm 1970 | Có thể mất tới 24 giờ chỉ để nhận được kết quả của một hồi quy từ phòng máy tính trung tâm, sau khi đã mất hàng giờ hoặc hàng ngày đục lỗ phiếu máy tính |
+| Hiện nay | Chạy hàng nghìn hồi quy là chuyện thường và dễ dàng |
+
+Thời đục phiếu, chỉ một lỗ đục sai (một từ lệnh viết sai, hay một giá trị dữ liệu không đúng) là làm hỏng toàn bộ công sức, và phải chờ thêm một lượt nữa. Điều này cho thấy một mặt trái ngầm của sự dễ dàng hiện nay: khi mỗi hồi quy tốn cả ngày, nhà nghiên cứu buộc phải nghĩ kỹ mô hình lý thuyết trước khi chạy; khi chạy được hàng nghìn hồi quy trong vài phút, nguy cơ rơi vào bốn cạm bẫy ở mục 4 càng lớn nếu thiếu mô hình lý thuyết dẫn đường.
 
 ## Thuật ngữ
 

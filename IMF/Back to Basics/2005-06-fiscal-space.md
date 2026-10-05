@@ -185,35 +185,150 @@
 2. IMF đánh giá dư địa tài khoá tiềm năng ra sao?
 3. Sáu con đường tạo dư địa tài khoá có ưu nhược điểm gì?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Dư địa tài khoá (fiscal space).** Khoảng trống trong ngân sách cho phép chính phủ chi thêm cho một mục đích mong muốn mà không đe doạ khả năng trả nợ của mình hay sự ổn định của nền kinh tế. Ví dụ minh hoạ: một chính phủ thu 100 đồng, chi 100 đồng và đã có nợ ở mức an toàn; nếu muốn chi thêm 5 đồng cho y tế, nó phải tìm ra 5 đồng đó ở đâu đó (thu thêm, cắt chỗ khác, vay hay xin viện trợ) mà không làm nợ vượt mức an toàn. Đây là khái niệm trung tâm của bài, và toàn bộ bài là danh sách các cách tìm ra 5 đồng ấy.
+
+**Bền vững tài khoá (fiscal sustainability).** Tình trạng chính phủ có đủ năng lực, cả trong ngắn hạn lẫn dài hạn, để vừa tài trợ các chương trình chi tiêu vừa trả được nợ đúng hạn mà không phải điều chỉnh đột ngột. Ví dụ minh hoạ: nếu nợ tăng 10% mỗi năm trong khi nguồn thu chỉ tăng 3%, thì sớm muộn tiền trả lãi sẽ ăn hết ngân sách, tức là không bền vững. Bài dùng bền vững tài khoá làm điều kiện ràng buộc: mọi cách tạo dư địa đều phải giữ được điều kiện này.
+
+**Chi thường xuyên cho vận hành và bảo trì (recurrent spending).** Khoản chi lặp lại hằng năm để một tài sản đã xây tiếp tục hoạt động: lương, thuốc, điện nước, sửa chữa. Ví dụ minh hoạ: xây một bệnh viện tốn một lần 50 tỷ, nhưng mỗi năm sau đó cần thêm, giả sử, 5 tỷ để vận hành; sau 10 năm, tiền vận hành đã bằng tiền xây. Bài nhấn rằng khi tính dư địa phải tính cả những khoản chi tương lai này, không chỉ khoản đầu tư ban đầu.
+
+**Chèn lấn (crowding out).** Khi chi tiêu tăng ở một chỗ làm giảm chi tiêu hay đầu tư hữu ích ở chỗ khác, vì nguồn lực có hạn. Ví dụ minh hoạ: ngân sách có 100 đồng, tăng chi y tế từ 10 lên 15 đồng mà không có nguồn mới thì phải bớt 5 đồng ở đường sá hay trường học. Bài cảnh báo chính phủ phải chắc rằng tăng chi ở một lĩnh vực đáng giá không rốt cuộc chèn lấn chi tiêu sản xuất ở nơi khác.
+
+**Tỷ giá thực (real exchange rate).** Giá hàng hoá của một nước so với giá hàng hoá nước ngoài, sau khi đã tính cả tỷ giá danh nghĩa và chênh lệch lạm phát. Ví dụ minh hoạ: khi một dòng viện trợ lớn đổ vào và được tiêu trong nước, giá hàng trong nước có thể tăng 10% trong khi tỷ giá danh nghĩa đứng yên; hàng xuất khẩu của nước đó trở nên đắt hơn 10% với người mua nước ngoài. Đó là cách viện trợ có thể làm giảm sức cạnh tranh quốc tế, một rủi ro bài nhắc nhiều lần.
+
+**Viện trợ không hoàn lại và vay ưu đãi (grants và concessional borrowing).** Viện trợ không hoàn lại là tiền cho, không phải trả. Vay ưu đãi là vay với lãi suất thấp hơn và kỳ hạn dài hơn thị trường, nhưng vẫn phải trả. Ví dụ minh hoạ: nhận 100 triệu USD viện trợ thì nợ không tăng; vay ưu đãi 100 triệu USD lãi 1% thì nợ vẫn tăng 100 triệu USD. Vì vậy bài coi viện trợ tạo nhiều dư địa hơn vay nợ, kể cả vay rất ưu đãi.
+
+**Tỷ lệ thuế trên GDP (tax ratio).** Tổng số thuế chính phủ thu được chia cho tổng sản phẩm của nền kinh tế. Bài đưa ra con số cụ thể: với nước thu nhập thấp, tỷ lệ thuế 15% GDP nên được coi là mục tiêu tối thiểu. Tức là một nền kinh tế làm ra 100 đồng thì nhà nước nên thu được ít nhất 15 đồng thuế; dưới mức đó, nhà nước khó có đủ nguồn lực cho các việc cơ bản.
+
+**Tín dụng ngân hàng trung ương (central bank credit).** Chính phủ vay từ hệ thống ngân hàng, đặc biệt từ ngân hàng trung ương, tức là về bản chất in thêm tiền để chi. Ví dụ minh hoạ: nếu lượng tiền tăng 20% trong khi lượng hàng hoá chỉ tăng 5%, giá cả có xu hướng tăng mạnh. Đây là con đường bài nói thẳng là "không đáng mong muốn" vì nguy cơ lạm phát.
+
+## Nội dung chi tiết
 
 ### 1. Định nghĩa dư địa tài khoá
 
-- "Dư địa tài khoá" là một thuật ngữ gần đây trở nên thời thượng trong giới viện trợ. Nhưng ý nghĩa của nó mơ hồ. Đôi khi khái niệm này xuất hiện khi các chính phủ lập luận rằng các ràng buộc tài khoá nên được nới lỏng để chấp nhận việc vay thêm nhằm tài trợ các dự án hạ tầng. Lý lẽ là các dự án này tạo ra tài sản sản xuất tự trả cho chính mình trong dài hạn, qua đó tạo ra dư địa tài khoá mà chúng cần. Nhưng gần đây thuật ngữ này cũng được những người ủng hộ chi tiêu y tế và giáo dục cao hơn dùng, lập luận rằng các khoản chi này rốt cuộc sẽ tự trả cho mình qua lợi tức cao hơn từ vốn con người. Dù thuật ngữ là mới, khái niệm thì không. Nó từ lâu đã là một yếu tố của phân tích tài khoá lành mạnh. Và thách thức tạo dư địa tài khoá là điều luôn đối mặt các chính phủ và cố vấn của họ, gồm cả các định chế tài chính quốc tế như IMF.
-- Dư địa tài khoá là gì? Nó có thể được định nghĩa là khoảng trống trong ngân sách của một chính phủ cho phép nó cung cấp nguồn lực cho một mục đích mong muốn mà không đe doạ tính bền vững của vị thế tài chính hay sự ổn định của nền kinh tế. Ý tưởng là dư địa tài khoá phải tồn tại hoặc được tạo ra nếu muốn có thêm nguồn lực cho chi tiêu chính phủ đáng giá. Một chính phủ có thể tạo dư địa tài khoá bằng cách tăng thuế, bảo đảm viện trợ không hoàn lại từ bên ngoài, cắt giảm chi tiêu ưu tiên thấp, vay nguồn lực (từ công dân hoặc người cho vay nước ngoài), hoặc vay từ hệ thống ngân hàng (và qua đó mở rộng cung tiền). Nhưng nó phải làm điều này mà không làm tổn hại ổn định kinh tế vĩ mô và bền vững tài khoá, bảo đảm rằng nó có năng lực trong ngắn hạn và dài hạn để tài trợ các chương trình chi tiêu mong muốn cũng như trả nợ.
-- Làm thế nào? Chính phủ phải bảo đảm rằng chi tiêu cao hơn trong ngắn hạn, và mọi chi tiêu tương lai liên quan, gồm mọi chi thường xuyên cho vận hành và bảo trì mà một khoản đầu tư hạ tầng, hay việc lập một trường học hay bệnh viện, đòi hỏi, có thể được tài trợ từ nguồn thu hiện tại và tương lai. Nếu tài trợ bằng nợ, chi tiêu nên được đánh giá theo tác động của nó lên tốc độ tăng trưởng nền tảng và năng lực tạo nguồn thu của nước đó. Chính phủ cần chắc chắn, cụ thể là, rằng chi tiêu tăng ở một lĩnh vực đáng giá, ví dụ y tế, sẽ không rốt cuộc chèn lấn chi tiêu sản xuất ở nơi khác.
-- Với các nước đang phát triển và thị trường mới nổi, dư địa tài khoá có thể có vẻ là vấn đề cấp bách hơn so với ở các nền kinh tế tiên tiến vì có những nhu cầu chi tiêu khẩn thiết hơn ở hiện tại. Nhưng các vấn đề dài hạn cũng liên quan, ngay cả với các nước thu nhập thấp hơn, vì cần bảo đảm rằng sẽ có khoảng trống để ứng phó các thách thức tài khoá không lường trước. Ví dụ: các nước nhận dòng nguồn lực nước ngoài đáng kể cho một ngành cụ thể (như chăm sóc y tế) có thể, do sự mở rộng của ngành đó, đối mặt với nhu cầu chi tiêu tương lai thêm về cơ bản chiếm trước một phần tăng trưởng của nguồn lực ngân sách trong nước trong tương lai. Dòng nguồn lực nước ngoài, như viện trợ, có thể làm hại tình hình vĩ mô của một nước (ví dụ bằng cách đẩy tỷ giá thực lên và qua đó giảm sức cạnh tranh quốc tế) hoặc gây phụ thuộc viện trợ quá mức, nên các dòng vào như vậy có thể cần được giới hạn. Việc mở rộng một ngành cụ thể (ví dụ giáo dục) bằng vốn nước ngoài khi đó có thể hàm ý giới hạn về quy mô nguồn lực nước ngoài dành cho các ngành khác. Dòng nguồn lực có thể tài trợ một hoạt động của chính phủ, như cải cách hưu trí, tạo ra một khoản nợ dưới dạng các khoản chi trả tương lai rất không chắc chắn về quy mô và thời điểm.
+"Dư địa tài khoá" là một thuật ngữ gần đây trở nên thời thượng trong giới viện trợ, nhưng ý nghĩa của nó mơ hồ. Bài chỉ ra hai bối cảnh mà người ta hay dùng nó:
+
+- **Hạ tầng.** Các chính phủ lập luận rằng các ràng buộc tài khoá nên được nới lỏng để cho phép vay thêm nhằm tài trợ các dự án hạ tầng. Lý lẽ của họ: những dự án này tạo ra tài sản sản xuất, sẽ tự trả cho chính mình trong dài hạn, và qua đó tạo ra dư địa tài khoá mà chúng cần.
+- **Y tế và giáo dục.** Gần đây, những người ủng hộ chi tiêu y tế và giáo dục cao hơn cũng dùng thuật ngữ này. Họ lập luận rằng các khoản chi này rốt cuộc sẽ tự trả cho mình qua lợi tức cao hơn từ vốn con người: người khoẻ hơn và học cao hơn sẽ làm ra nhiều hơn và nộp nhiều thuế hơn.
+
+Bài nhấn mạnh rằng thuật ngữ thì mới, nhưng khái niệm thì không. Nó từ lâu đã là một yếu tố của phân tích tài khoá lành mạnh, và thách thức tạo dư địa tài khoá là điều mà các chính phủ cùng các cố vấn của họ, kể cả các định chế tài chính quốc tế như IMF, luôn phải đối mặt.
+
+**Định nghĩa.** Dư địa tài khoá là khoảng trống trong ngân sách của một chính phủ cho phép nó cung cấp nguồn lực cho một mục đích mong muốn mà không đe doạ tính bền vững của vị thế tài chính hay sự ổn định của nền kinh tế. Ý tưởng là: nếu muốn có thêm nguồn lực cho những khoản chi tiêu chính phủ đáng giá, thì dư địa tài khoá phải hoặc đã tồn tại sẵn, hoặc phải được tạo ra.
+
+**Năm nguồn có thể tạo ra dư địa.** Một chính phủ có thể tạo dư địa tài khoá bằng một trong các cách sau:
+
+| Cách | Bản chất |
+|---|---|
+| Tăng thuế | Thu thêm từ người dân và doanh nghiệp trong nước |
+| Bảo đảm viện trợ không hoàn lại từ bên ngoài | Nhận tiền cho, không phải trả |
+| Cắt giảm chi tiêu ưu tiên thấp | Chuyển tiền từ việc kém quan trọng sang việc quan trọng hơn |
+| Vay nợ | Vay từ công dân trong nước hoặc từ người cho vay nước ngoài |
+| Vay từ hệ thống ngân hàng | Qua đó mở rộng cung tiền, tức là về bản chất tạo thêm tiền |
+
+Nhưng dù dùng cách nào, chính phủ phải làm mà không làm tổn hại ổn định kinh tế vĩ mô và bền vững tài khoá. Nghĩa là phải bảo đảm rằng mình có năng lực, cả trong ngắn hạn lẫn dài hạn, để vừa tài trợ các chương trình chi tiêu mong muốn, vừa trả được nợ.
+
+**Làm thế nào để bảo đảm điều đó?** Chính phủ phải chắc rằng không chỉ khoản chi cao hơn trong ngắn hạn, mà mọi khoản chi tương lai đi kèm với nó, đều có thể được tài trợ từ nguồn thu hiện tại và tương lai. "Mọi khoản chi tương lai" ở đây gồm cả chi thường xuyên cho vận hành và bảo trì mà một khoản đầu tư hạ tầng, hay việc mở một trường học hay một bệnh viện, đòi hỏi. Ví dụ minh hoạ: một bệnh viện mới cần lương bác sĩ, thuốc và điện nước mỗi năm trong hàng chục năm sau khi xây xong; dư địa tài khoá chỉ thật sự tồn tại nếu những khoản đó cũng có nguồn.
+
+Bài nêu thêm hai điều kiện:
+
+- Nếu khoản chi được tài trợ bằng nợ, nó phải được đánh giá theo tác động lên tốc độ tăng trưởng nền tảng của nền kinh tế và lên năng lực tạo nguồn thu của nước đó. Một khoản vay làm tăng trưởng nhanh hơn và thu thuế nhiều hơn thì có thể tự trả được; một khoản vay không làm được điều đó thì chỉ để lại gánh nợ.
+- Chính phủ đặc biệt phải chắc chắn rằng tăng chi ở một lĩnh vực đáng giá, ví dụ y tế, sẽ không rốt cuộc chèn lấn chi tiêu sản xuất ở nơi khác.
+
+**Vì sao vấn đề này cấp bách hơn ở nước đang phát triển và mới nổi.** Với các nước đang phát triển và thị trường mới nổi, dư địa tài khoá có vẻ là vấn đề cấp bách hơn so với các nền kinh tế tiên tiến, vì nhu cầu chi tiêu ngay hôm nay khẩn thiết hơn. Nhưng các vấn đề dài hạn cũng liên quan, kể cả với các nước thu nhập thấp, vì cần bảo đảm luôn còn khoảng trống để ứng phó các thách thức tài khoá không lường trước. Bài đưa ba ví dụ:
+
+1. **Một ngành mở rộng nhờ tiền nước ngoài sẽ đòi tiền trong nước về sau.** Một nước nhận dòng nguồn lực nước ngoài lớn cho một ngành cụ thể (như y tế) có thể, do chính sự mở rộng của ngành đó, phải đối mặt với nhu cầu chi tiêu thêm trong tương lai. Về cơ bản, nhu cầu này chiếm trước một phần tăng trưởng của nguồn lực ngân sách trong nước tương lai. Ví dụ minh hoạ: nhà tài trợ xây 100 trạm y tế, nhưng sau đó ngân sách trong nước phải trả lương nhân viên cho cả 100 trạm.
+2. **Dòng viện trợ lớn có thể làm hại kinh tế vĩ mô.** Dòng nguồn lực nước ngoài như viện trợ có thể đẩy tỷ giá thực lên, qua đó giảm sức cạnh tranh quốc tế của hàng xuất khẩu, hoặc gây phụ thuộc viện trợ quá mức. Vì vậy có thể cần giới hạn các dòng vào. Khi đó, nếu một ngành (ví dụ giáo dục) được mở rộng bằng vốn nước ngoài, thì phần nguồn lực nước ngoài còn lại cho các ngành khác sẽ bị giới hạn tương ứng.
+3. **Một số hoạt động tạo ra nghĩa vụ tương lai khó lường.** Dòng nguồn lực có thể tài trợ một hoạt động của chính phủ như cải cách hưu trí, và hoạt động này tạo ra một khoản nợ dưới dạng các khoản chi trả trong tương lai rất không chắc chắn cả về quy mô lẫn thời điểm.
 
 ### 2. Cách tiếp cận của IMF
 
-- Lập trường của IMF là gì? Khi IMF đánh giá tình hình vĩ mô của một nước, nó cởi mở với việc tạo dư địa tài khoá qua dòng viện trợ không hoàn lại nước ngoài cao hơn để chi cho hạ tầng hay các chương trình xã hội. Nhưng IMF sẽ nêu quan ngại nếu chi tiêu cao hơn đe doạ ổn định vĩ mô hay bền vững nợ. Sự thận trọng như vậy đặc biệt mở rộng đến việc sử dụng tín dụng ngân hàng trung ương, do IMF quan tâm đến lạm phát và các tác động tai hại của nó lên tăng trưởng và nghèo đói. Hơn nữa, chi tiêu cao hơn ở một ngành, ngay cả khi được tài trợ từ dòng viện trợ bên ngoài, có thể có hàm ý cho các ngành khác cần được tính đến.
-- Dư địa tài khoá tiềm năng được xác định thế nào? IMF xem xét cả phạm vi tăng tiết kiệm công qua hợp lý hoá chi tiêu và cải cách thuế, lẫn các nguồn lực thêm có thể huy động từ vay nợ và viện trợ không hoàn lại. Nó cũng đánh giá các yếu tố nền tảng ảnh hưởng đến kết quả của chính sách chính phủ.
+**Lập trường.** Khi đánh giá tình hình kinh tế vĩ mô của một nước, IMF cởi mở với việc tạo dư địa tài khoá qua dòng viện trợ không hoàn lại nước ngoài cao hơn để chi cho hạ tầng hoặc cho các chương trình xã hội. Nhưng IMF sẽ nêu quan ngại nếu chi tiêu cao hơn đe doạ ổn định vĩ mô hoặc bền vững nợ. Có hai điểm IMF đặc biệt lưu ý:
+
+- **Thận trọng đặc biệt với tín dụng ngân hàng trung ương.** Lý do là IMF quan tâm đến lạm phát và các tác động tai hại của lạm phát lên tăng trưởng và nghèo đói. Người nghèo thường chịu thiệt nhiều nhất khi giá cả tăng nhanh, vì họ ít có cách bảo vệ thu nhập và tiền tiết kiệm của mình.
+- **Chi cho một ngành có hàm ý cho các ngành khác.** Chi tiêu cao hơn ở một ngành, ngay cả khi được tài trợ hoàn toàn từ viện trợ bên ngoài, vẫn có thể có hệ quả cho các ngành khác cần được tính đến (như các ví dụ về tỷ giá thực và về chi phí vận hành ở phần trên).
+
+**Cách IMF xác định dư địa tài khoá tiềm năng.** IMF xem xét hai phía cùng lúc:
+
+- Phạm vi tăng **tiết kiệm công**, tức tăng phần chênh lệch giữa thu và chi thường xuyên của nhà nước, thông qua hợp lý hoá chi tiêu và cải cách thuế.
+- Các **nguồn lực bổ sung** có thể huy động được từ vay nợ và từ viện trợ không hoàn lại.
+
+Ngoài ra, IMF còn đánh giá các yếu tố nền tảng ảnh hưởng đến kết quả của chính sách chính phủ, ví dụ chất lượng quản lý chi tiêu, năng lực hành thu hay độ ổn định của chính sách.
 
 ### 3. Sáu con đường
 
-- **Tái ưu tiên chi tiêu.** Kìm hãm chi tiêu không sản xuất nên là một mục tiêu quan trọng. Điều này có thể đòi hỏi cắt giảm trợ cấp hay chi tiêu quân sự, kìm hãm lương, hay hợp lý hoá các bộ phận của bộ máy công (kể cả bằng cách xử lý vấn đề phổ biến về "công chức ma"). Nhưng đồng thời, chi tiêu sản xuất cần được bảo vệ: không chi đủ cho một ngành (ví dụ y tế) có thể có tác động xã hội tai hại và hoá ra là một khoản tiết kiệm giả, nâng các nhu cầu chi tiêu tương lai bằng cách làm suy yếu ngành đó đến mức việc "xây lại" sẽ tốn kém và mất thời gian.
-- **Tăng hiệu quả.** Các mục tiêu khác nên là tinh gọn việc thực hiện các chương trình, giảm tham nhũng, và cải thiện quản trị. Các nhà tài trợ có thể giúp bằng cách giảm bớt điều kiện kèm theo, bỏ ràng buộc viện trợ, giảm chi phí hành chính, phối hợp chi tiêu trong một ngành tốt hơn, và giảm gánh nặng hành chính áp đặt lên số ít người quản lý chương trình ở nước nhận.
-- **Tăng nguồn thu.** Với các nước có tỷ lệ thu ngân sách trên GDP thấp, mở rộng cơ sở thuế và cải thiện hành thu có khả năng là những mục tiêu quan trọng. Với các nước thu nhập thấp, một tỷ lệ thuế 15% GDP nên được coi là mục tiêu tối thiểu.
-- **Tăng vay nợ.** Do vay nợ trong nước và nước ngoài đều phải trả lãi và trả gốc, nhà hoạch định cần đánh giá xem lợi tức xã hội từ các mục đích sử dụng khoản vay có biện minh cho chi phí không. Các chính phủ có thể chọn vay mà không tính riêng đến lợi tức trực tiếp, nhưng khi đó phải làm vậy khi đánh giá tính bền vững tổng thể của một chương trình. Các đánh giá như vậy thường cân nhắc tốc độ tăng trưởng triển vọng của nền kinh tế, tiềm năng xuất khẩu và kiều hối, môi trường lãi suất triển vọng, độ co giãn nguồn thu, thành phần nợ hiện có (về lãi suất, kỳ hạn, và đồng tiền vay), và điều kiện của khoản nợ mới đang được xem xét.
-- **Mở rộng tiền tệ.** Đây không phải lựa chọn đáng mong muốn! Việc chính phủ vay từ hệ thống ngân hàng nên được dẫn dắt bởi các mục tiêu chính sách tiền tệ, cụ thể là tạo đủ thanh khoản để hỗ trợ tăng trưởng thực của nền kinh tế, với lạm phát không quá thấp. Ngay cả khi một chính phủ rõ ràng dựa vào việc tạo tiền để tạo thuận lợi cho chi tiêu chính phủ cao hơn phần nào, vẫn có những giới hạn rõ ràng, do tác động lạm phát tiềm tàng.
-- **Bảo đảm nhiều viện trợ không hoàn lại từ bên ngoài hơn.** Với nhiều nước đang phát triển, điều này ngày càng khả thi nhờ cam kết toàn cầu giúp các nước đạt Mục tiêu Phát triển Thiên niên kỷ. Viện trợ không hoàn lại rõ ràng có thể cung cấp nhiều dư địa tài khoá hơn vay nợ, nơi các cân nhắc về bền vững nợ phải được tính đến ngay cả khi khoản vay rất ưu đãi. Nhưng chỉ một dòng viện trợ bền vững và dự đoán được mới có thể tạo ra tiềm năng mở rộng chi tiêu có thể duy trì, và giảm sự bất định về việc liệu một khoản viện trợ có chỉ là một lần. Và các nước sẽ cần tính đến các hệ quả vĩ mô tiềm tàng về sức cạnh tranh quốc tế có thể nảy sinh từ việc hấp thụ tăng mạnh dòng nguồn lực bên ngoài.
-- **Theo đuổi chính sách vĩ mô lành mạnh.** Chậm trễ trong hoàn thành các đợt rà soát chương trình IMF hoặc việc chấm dứt các chương trình có IMF hỗ trợ, thường là hậu quả của việc một nước không thực hiện các chính sách vĩ mô đã thoả thuận, có thể ảnh hưởng đến hỗ trợ từ các nhà cho vay và nhà tài trợ khác, và dẫn đến các dòng vốn biến động. Các nước quản lý chính sách tốt có khả năng có tiềm năng lớn hơn để tạo dư địa tài khoá thêm. Các chính phủ cần làm rõ với nhà tài trợ về khả năng có được hỗ trợ nước ngoài trong trung đến dài hạn và cấu trúc các chương trình chi tiêu của mình cho phù hợp.
+Bài liệt kê sáu con đường tạo dư địa tài khoá, cộng thêm một điều kiện chung thứ bảy là theo đuổi chính sách vĩ mô lành mạnh. Bảng dưới tóm tắt trước khi đi vào từng con đường:
+
+| Thứ tự | Con đường | Ý chính |
+|---|---|---|
+| 1 | Tái ưu tiên chi tiêu | Cắt chi không sản xuất, nhưng bảo vệ chi sản xuất |
+| 2 | Tăng hiệu quả | Làm cùng việc với ít tiền hơn; nhà tài trợ cũng phải góp phần |
+| 3 | Tăng nguồn thu | Mở rộng cơ sở thuế; mục tiêu tối thiểu 15% GDP với nước thu nhập thấp |
+| 4 | Tăng vay nợ | Chỉ khi lợi tức xã hội biện minh cho chi phí trả lãi và gốc |
+| 5 | Mở rộng tiền tệ | Không đáng mong muốn, vì nguy cơ lạm phát |
+| 6 | Viện trợ không hoàn lại nhiều hơn | Tạo nhiều dư địa nhất, nhưng phải bền vững và dự đoán được |
+| 7 | Chính sách vĩ mô lành mạnh | Điều kiện để giữ được các nguồn hỗ trợ bên ngoài |
+
+**Thứ nhất: tái ưu tiên chi tiêu.** Kìm hãm chi tiêu không sản xuất nên là một mục tiêu quan trọng. Việc này có thể đòi hỏi:
+
+- cắt trợ cấp hoặc cắt chi quân sự;
+- kìm hãm tăng lương khu vực công;
+- hợp lý hoá các bộ phận của bộ máy công, kể cả xử lý vấn đề phổ biến về "công chức ma", tức những người có tên trong bảng lương nhưng không thật sự làm việc hoặc không tồn tại.
+
+Nhưng đồng thời, chi tiêu sản xuất phải được bảo vệ. Không chi đủ cho một ngành, ví dụ y tế, có thể gây hại cho xã hội và hoá ra là một khoản **tiết kiệm giả**. Lý do: cắt chi quá tay làm ngành đó suy yếu đến mức việc "xây lại" sau này sẽ tốn kém và mất nhiều thời gian, tức là nhu cầu chi tiêu tương lai còn tăng lên. Ví dụ minh hoạ: cắt ngân sách đào tạo bác sĩ trong vài năm có thể tiết kiệm được một khoản nhỏ, nhưng để đào tạo lại một thế hệ bác sĩ sau đó cần nhiều năm và nhiều tiền hơn.
+
+**Thứ hai: tăng hiệu quả.** Các mục tiêu khác nên là tinh gọn việc thực hiện các chương trình, giảm tham nhũng và cải thiện quản trị. Làm cùng một việc với ít tiền hơn thì phần tiền tiết kiệm được chính là dư địa tài khoá. Bài nhấn rằng các nhà tài trợ cũng có thể giúp, bằng năm cách:
+
+- giảm bớt các điều kiện kèm theo viện trợ;
+- bỏ ràng buộc viện trợ, tức yêu cầu nước nhận phải dùng tiền viện trợ để mua hàng hoặc thuê nhà thầu của chính nước tài trợ;
+- giảm chi phí hành chính;
+- phối hợp chi tiêu trong cùng một ngành tốt hơn giữa các nhà tài trợ;
+- giảm gánh nặng hành chính áp lên số ít người quản lý chương trình ở nước nhận, những người thường phải đáp ứng thủ tục báo cáo riêng của từng nhà tài trợ.
+
+**Thứ ba: tăng nguồn thu.** Với các nước có tỷ lệ thu ngân sách trên GDP thấp, mở rộng cơ sở thuế (đưa thêm người, thêm hoạt động vào diện chịu thuế) và cải thiện hành thu (thu đúng, thu đủ những gì luật đã quy định) có khả năng là những mục tiêu quan trọng. Với các nước thu nhập thấp, bài đưa ra một con số cụ thể: tỷ lệ thuế 15% GDP nên được coi là mục tiêu tối thiểu.
+
+**Thứ tư: tăng vay nợ.** Vay trong nước hay vay nước ngoài thì đều phải trả lãi và trả gốc. Vì vậy nhà hoạch định chính sách cần đánh giá xem lợi tức xã hội từ mục đích sử dụng khoản vay có biện minh được cho chi phí đó không. Chính phủ có thể chọn vay mà không tính riêng lợi tức trực tiếp của từng khoản, nhưng khi đó phải tính đến nó khi đánh giá tính bền vững tổng thể của cả chương trình. Những đánh giá như vậy thường cân nhắc sáu yếu tố:
+
+| Yếu tố | Vì sao quan trọng |
+|---|---|
+| Tốc độ tăng trưởng triển vọng của nền kinh tế | Kinh tế tăng nhanh thì gánh nợ so với quy mô nền kinh tế nhẹ dần |
+| Tiềm năng xuất khẩu và kiều hối | Là nguồn ngoại tệ để trả nợ nước ngoài |
+| Môi trường lãi suất triển vọng | Lãi suất tăng thì chi phí vay mới và vay đảo nợ tăng |
+| Độ co giãn của nguồn thu | Cho biết nguồn thu tăng bao nhiêu khi kinh tế tăng trưởng |
+| Thành phần nợ hiện có | Lãi suất, kỳ hạn và đồng tiền vay của các khoản nợ đang có |
+| Điều kiện của khoản nợ mới | Lãi suất, kỳ hạn, mức ưu đãi của khoản vay đang được xem xét |
+
+**Thứ năm: mở rộng tiền tệ.** Bài viết thẳng: "Đây không phải lựa chọn đáng mong muốn!" Việc chính phủ vay từ hệ thống ngân hàng nên được dẫn dắt bởi các mục tiêu của chính sách tiền tệ, cụ thể là tạo đủ thanh khoản để hỗ trợ tăng trưởng thực của nền kinh tế, với mức lạm phát không quá thấp. Nói cách khác, lượng tiền nên tăng theo nhu cầu của nền kinh tế, chứ không theo nhu cầu chi của ngân sách. Ngay cả khi một chính phủ rõ ràng dựa phần nào vào việc tạo tiền để có thể chi nhiều hơn, việc này vẫn có giới hạn rõ ràng, vì tác động lạm phát tiềm tàng của nó.
+
+**Thứ sáu: bảo đảm nhiều viện trợ không hoàn lại hơn.** Với nhiều nước đang phát triển, con đường này ngày càng khả thi nhờ cam kết toàn cầu giúp các nước đạt Mục tiêu Phát triển Thiên niên kỷ (MDGs). Viện trợ không hoàn lại rõ ràng tạo ra nhiều dư địa tài khoá hơn vay nợ, vì với vay nợ thì luôn phải tính đến bền vững nợ, kể cả khi khoản vay rất ưu đãi. Nhưng bài đặt hai điều kiện:
+
+- Chỉ một dòng viện trợ **bền vững và dự đoán được** mới tạo ra tiềm năng mở rộng chi tiêu có thể duy trì lâu dài, và giảm sự bất định về việc liệu một khoản viện trợ có chỉ là một lần hay không. Một chính phủ không thể tuyển thêm giáo viên dựa trên một khoản viện trợ có thể biến mất sang năm.
+- Các nước cần tính đến hệ quả vĩ mô tiềm tàng đối với sức cạnh tranh quốc tế khi phải hấp thụ một dòng nguồn lực bên ngoài tăng mạnh, chủ yếu qua kênh tỷ giá thực lên giá.
+
+**Điều kiện chung: theo đuổi chính sách vĩ mô lành mạnh.** Đây được coi là con đường thứ bảy, bao trùm các con đường trên. Khi việc hoàn thành các đợt rà soát chương trình IMF bị chậm trễ, hoặc một chương trình có IMF hỗ trợ bị chấm dứt, thường là do nước đó không thực hiện các chính sách vĩ mô đã thoả thuận, thì hỗ trợ từ các nhà cho vay và nhà tài trợ khác cũng có thể bị ảnh hưởng, dẫn đến các dòng vốn biến động. Ngược lại, các nước quản lý chính sách tốt có tiềm năng lớn hơn để tạo thêm dư địa tài khoá. Bài khuyến nghị các chính phủ làm rõ với nhà tài trợ về khả năng có được hỗ trợ nước ngoài trong trung và dài hạn, rồi cấu trúc chương trình chi tiêu của mình cho tương ứng.
 
 ### 4. Trường hợp Malawi, Tanzania và Zambia
 
-- Có bao nhiêu dư địa tài khoá thêm ở Malawi, Tanzania và Zambia? Câu hỏi này được xem xét trong một đợt rà soát gần đây của IMF.
-- Về mặt thuế, chỉ Tanzania còn dư địa tăng thuế, vì tỷ lệ thuế trên GDP ở Malawi và Zambia đã cao theo chuẩn khu vực. Tanzania cũng có thể tái ưu tiên chi tiêu, nhưng Malawi và Zambia sẽ bị ràng buộc bởi tỷ trọng cao của lương và các khoản trả lãi trong tổng chi tiêu.
-- Còn vay ưu đãi cao hơn thì sao? Tanzania có thể theo đuổi con đường này, nhưng Malawi và Zambia sẽ bị cản trở bởi mức nợ trong nước cao, và cho đến khi nợ nước ngoài được kéo xuống mức bền vững qua xoá nợ, việc gánh thêm nợ sẽ là đáng ngờ. Do đó, con đường tốt nhất cho cả ba nước sẽ là nhiều viện trợ không hoàn lại từ nước ngoài hơn. Nhưng để điều này hiệu quả, Malawi và Zambia nói riêng sẽ cần củng cố quản lý chi tiêu công. Và tất cả đều sẽ cần theo đuổi chính sách vĩ mô lành mạnh để hạn chế mọi tác động bất lợi tiềm tàng lên tỷ giá thực hay lãi suất.
+Câu hỏi "ba nước này còn bao nhiêu dư địa tài khoá" được xem xét trong một đợt rà soát gần đây của IMF. Bài áp dụng lần lượt từng con đường cho từng nước:
+
+| Con đường | Tanzania | Malawi và Zambia |
+|---|---|---|
+| Tăng thuế | Còn dư địa | Không còn: tỷ lệ thuế trên GDP đã cao theo chuẩn khu vực |
+| Tái ưu tiên chi tiêu | Làm được | Bị ràng buộc: lương và trả lãi chiếm tỷ trọng cao trong tổng chi |
+| Vay ưu đãi cao hơn | Có thể theo đuổi | Bị cản trở bởi mức nợ trong nước cao; gánh thêm nợ là đáng ngờ cho đến khi nợ nước ngoài được kéo xuống mức bền vững qua xoá nợ |
+
+Giải thích từng dòng:
+
+- **Thuế.** Chỉ Tanzania còn chỗ để tăng thuế. Malawi và Zambia đã thu thuế ở mức cao so với các nước trong khu vực, nên ép thêm sẽ khó và có thể gây hại cho hoạt động kinh tế.
+- **Tái ưu tiên chi.** Tanzania có thể chuyển chi từ chỗ kém ưu tiên sang chỗ ưu tiên. Ở Malawi và Zambia, phần lớn chi tiêu là lương và trả lãi, hai khoản rất khó cắt trong ngắn hạn, nên phần "có thể dịch chuyển" của ngân sách rất nhỏ.
+- **Vay ưu đãi.** Tanzania có thể vay thêm với điều kiện ưu đãi. Malawi và Zambia đã có nợ trong nước cao, và nợ nước ngoài của họ chỉ trở về mức bền vững khi được xoá nợ; trước đó, vay thêm là một bước đi đáng ngờ.
+
+**Kết luận của bài.** Con đường tốt nhất cho cả ba nước là nhiều viện trợ không hoàn lại từ nước ngoài hơn. Nhưng bài kèm hai điều kiện để con đường này có hiệu quả:
+
+1. Malawi và Zambia nói riêng cần củng cố quản lý chi tiêu công, để tiền viện trợ được dùng đúng chỗ và có kết quả.
+2. Cả ba nước đều cần theo đuổi chính sách vĩ mô lành mạnh, để hạn chế các tác động bất lợi tiềm tàng của dòng viện trợ lên tỷ giá thực hoặc lên lãi suất.
+
+Trường hợp này cho thấy cách dùng danh sách sáu con đường trong thực tế: không phải chọn con đường "tốt nhất" về lý thuyết, mà loại dần những con đường đã bị đóng với từng nước, rồi xem con đường nào còn lại.
 
 ## Thuật ngữ
 
