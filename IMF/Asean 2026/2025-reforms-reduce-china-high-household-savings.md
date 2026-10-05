@@ -292,105 +292,257 @@ Hàm ý: tăng chi xã hội **có nhắm đích vào nông thôn**, tiếp tụ
 
 3. **Khủng hoảng bất động sản có làm tiết kiệm tăng không?** Có, qua **kênh của cải**: chủ nhà thấy tài sản mất giá thì chi tiêu ít đi, và kênh này không suy yếu sau 2021. Trong khi đó kênh ngược chiều lẽ ra có thể bù lại — người chưa có nhà cần ít tiền trả trước hơn nên tiết kiệm ít đi — **đã yếu hẳn**, vì người chưa có nhà hoãn kế hoạch mua. Nghĩa là khi thị trường nhà sụt, chỉ còn lực đẩy tiết kiệm lên, không còn lực kéo xuống.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tỷ lệ tiết kiệm hộ gia đình (household savings rate).** Phần thu nhập khả dụng (thu nhập sau thuế) mà hộ không tiêu dùng. Công thức bài dùng: tỷ lệ tiết kiệm = (thu nhập khả dụng − chi tiêu tiêu dùng) / thu nhập khả dụng. Ví dụ minh hoạ: một hộ có thu nhập khả dụng 100.000 NDT một năm và chi tiêu 65.000 NDT thì tỷ lệ tiết kiệm là 35%. Bài cũng dùng cách đo theo phần trăm GDP: hộ gia đình Trung Quốc tiết kiệm khoảng 22% GDP, so với khoảng 5–10% ở trung vị OECD và nước mới nổi. Tiết kiệm cao nghĩa là tiêu dùng thấp, và đó là lý do chủ đề này gắn với chuyện kích cầu.
+
+**Tiết kiệm phòng thân (precautionary savings).** Tiền hộ gia đình để dành không phải vì một mục tiêu cụ thể mà để phòng rủi ro: ốm đau, mất việc, tuổi già không có lương hưu đủ sống. Lưới an sinh càng mỏng, hộ càng phải tự bảo hiểm bằng tiết kiệm. Ví dụ từ bài: tăng 10% chi y tế của thành phố đi kèm tỷ lệ tiết kiệm nông thôn giảm khoảng 0,75 điểm phần trăm sau năm năm. Đây là cơ chế trung tâm của phần chi xã hội.
+
+**Điểm phần trăm.** Nếu tỷ lệ tiết kiệm giảm từ 24,2% xuống 23,4%, nó giảm 0,8 điểm phần trăm (không phải 0,8%). Mọi tác động trong bài đều tính bằng điểm phần trăm của thu nhập khả dụng.
+
+**Hộ khẩu (Hukou).** Hệ thống đăng ký cư trú của Trung Quốc, lập năm 1958, gắn mỗi người với một nơi đăng ký và một loại hộ khẩu (nông thôn hoặc thành thị). Nhiều phúc lợi như trường công cho con, lương hưu, điều kiện mua nhà phụ thuộc vào hộ khẩu chứ không phụ thuộc nơi người đó thực sự sống. Ví dụ từ bài: khoảng 200 triệu người sống ở thành phố nhưng mang hộ khẩu nông thôn, bằng 27% dân đô thị. Người thuộc nhóm này phải tự lo nhiều rủi ro hơn nên tiết kiệm nhiều hơn khoảng 7 điểm phần trăm.
+
+**Phép chiếu cục bộ (local projection).** Cách ước lượng tác động của một cú sốc qua nhiều năm: chạy một hồi quy riêng cho từng tầm chiếu h = 0, 1, …, 5, mỗi hồi quy hỏi "nếu năm nay chi tiêu tăng, thì từ năm trước đến h năm sau tỷ lệ tiết kiệm thay đổi tích luỹ bao nhiêu". Kết quả là một chuỗi hệ số theo thời gian. Ví dụ: chi y tế tăng 10% đi kèm tiết kiệm nông thôn giảm 0,290 điểm ngay năm đó (T+0) và 0,753 điểm sau năm năm (T+5). Cách này cho thấy tác động lớn dần hay tắt dần.
+
+**Sai khác kép và thí nghiệm tự nhiên.** Khi một chính sách được áp dụng ở một số nơi trước, nơi khác sau hoặc không áp dụng, ta có thể so sánh thay đổi ở nơi được áp dụng với thay đổi ở nơi không được áp dụng. Phần chênh của hai thay đổi đó là ước lượng tác động của chính sách. Ví dụ từ bài: Kế hoạch Đô thị hoá kiểu mới năm 2014 thí điểm ở 236 thành phố; ở các thành phố này, tỷ lệ tiết kiệm đô thị giảm khoảng 2,5 điểm so với nơi khác. Cách so sánh này gần với thí nghiệm hơn tương quan thông thường.
+
+**Kênh của cải và kênh tiền trả trước.** Hai cách giá nhà tác động lên tiết kiệm, theo hai chiều ngược nhau. Kênh của cải: giá nhà giảm làm tài sản của chủ nhà giảm, họ thấy mình nghèo đi nên chi tiêu ít hơn, tiết kiệm nhiều hơn. Kênh tiền trả trước: người chưa có nhà phải tích luỹ một khoản trả trước; giá nhà giảm thì khoản đó nhỏ hơn, nên họ cần tiết kiệm ít hơn. Ví dụ minh hoạ: căn hộ giá 2 triệu NDT, trả trước 30% thì cần 600.000 NDT; giá giảm 20% thì chỉ cần 480.000 NDT. Bình thường hai kênh bù trừ nhau một phần; phát hiện của bài là sau 2021 kênh thứ hai đã yếu hẳn.
+
+**Biên mở rộng và biên chiều sâu (extensive / intensive margin).** Biên mở rộng hỏi "có hay không": người chưa có nhà có tiết kiệm nhiều hơn chủ nhà không. Biên chiều sâu hỏi "bao nhiêu": trong nhóm chưa có nhà, người có ít tiền gửi hơn có tiết kiệm nhiều hơn không. Ví dụ từ bài: người chưa có nhà tiết kiệm nhiều hơn chủ nhà 2,78 điểm (biên mở rộng); và mỗi khi tiền gửi thấp hơn một năm thu nhập, họ tiết kiệm thêm 1,28 điểm so với chủ nhà (biên chiều sâu).
+
+## Nội dung chi tiết
 
 ### 1. Bối cảnh và câu hỏi
 
-Tiết kiệm hộ gia đình cao là đặc điểm cấu trúc của kinh tế Trung Quốc, và nó đã giúp nuôi sự phụ thuộc quá mức vào đầu tư vay nợ — nguồn gốc của nhiều điểm dễ tổn thương hiện nay. Văn liệu đã chỉ ra nhiều nguyên nhân: lưới an sinh mỏng, biến đổi nhân khẩu học (chính sách một con), giá nhà và sở hữu nhà, bất bình đẳng thu nhập.
+Tiết kiệm hộ gia đình cao là đặc điểm cấu trúc của kinh tế Trung Quốc. Khoản tiết kiệm này được gửi vào ngân hàng và cho vay lại để đầu tư, nên nó đã nuôi sự phụ thuộc quá mức vào tăng trưởng dựa trên đầu tư vay nợ, nguồn gốc của nhiều điểm dễ tổn thương hiện nay. Văn liệu đã chỉ ra nhiều nguyên nhân: lưới an sinh mỏng, biến đổi nhân khẩu học (chính sách một con), giá nhà và sở hữu nhà, bất bình đẳng thu nhập.
 
-Chủ đề này nóng trở lại vì cầu trong nước yếu và áp lực giảm giá — một phần do thị trường nhà đảo chiều và niềm tin người tiêu dùng thấp. Hội nghị Công tác Kinh tế Trung ương tháng 12/2024 và Báo cáo Công tác Chính phủ 2025 đều đặt **kích cầu tiêu dùng tư nhân làm ưu tiên số một**. Chính quyền đã tung ra chương trình đổi cũ lấy mới cho thiết bị và hàng tiêu dùng lâu bền (ô tô, đồ gia dụng, điện tử, máy móc công nghiệp): 150 tỷ NDT năm 2024, cộng 81 tỷ NDT phân bổ trước vào tháng 1/2025, tài trợ bằng trái phiếu đặc biệt siêu dài hạn (150 tỷ NDT năm 2024 và 300 tỷ NDT năm 2025). Song song là nâng nhẹ phần đóng góp của nhà nước vào lương hưu cơ bản và bảo hiểm y tế.
+**Trung Quốc tiết kiệm nhiều đến mức nào.** Tiết kiệm hộ gia đình tính theo phần trăm GDP trong giai đoạn 2000–2022:
 
-Bài muốn trả lời: những cải cách cơ cấu nào — không phải kích thích ngắn hạn — thực sự kéo tiết kiệm xuống.
+| Nhóm | Mức tiết kiệm hộ gia đình (% GDP) |
+|---|---|
+| Trung Quốc | 17–18% đầu thập niên 2000, khoảng 21% từ 2010, khoảng 22–23% trong 2020–22 |
+| Trung vị OECD | khoảng 5–7%, vọt lên khoảng 10% năm 2020 |
+| Trung vị nước mới nổi | khoảng 4–8% |
+| Nước OECD cao nhất | khoảng 13–16%, đỉnh khoảng 18% năm 2020 |
+
+Gần như trong mọi năm, Trung Quốc cao hơn cả nước OECD tiết kiệm nhiều nhất.
+
+**Tiết kiệm cao ở mọi nhóm thu nhập.** Bài so sánh tỷ lệ tiết kiệm trung vị (theo phần trăm thu nhập) trong từng nhóm thập phân vị thu nhập (chia dân số thành 10 nhóm bằng nhau theo thu nhập, nhóm 1 nghèo nhất, nhóm 10 giàu nhất):
+
+| Nhóm thu nhập | Trung Quốc 2018 | Các nước khác (Pháp, Úc, Mexico, Israel, Peru...) |
+|---|---|---|
+| Nhóm 1 (nghèo nhất) | khoảng −12% | −20% đến −45% |
+| Nhóm 5 | khoảng +27% | −20% đến −5% |
+| Nhóm 10 (giàu nhất) | khoảng +46% | +17% đến +36% |
+
+Trung Quốc cao hơn ở mọi thập phân vị. Nghĩa là không chỉ người nghèo tiết kiệm phòng thân; người giàu Trung Quốc cũng tiết kiệm nhiều hơn người giàu nước khác. Vì vậy cần một gói chính sách đánh vào cả hai đầu của phân phối thu nhập, không chỉ một nhóm.
+
+**Vì sao chủ đề này nóng trở lại.** Cầu trong nước yếu và giá cả chịu áp lực giảm, một phần do thị trường nhà đảo chiều và niềm tin người tiêu dùng thấp. Hội nghị Công tác Kinh tế Trung ương tháng 12/2024 và Báo cáo Công tác Chính phủ 2025 đều đặt **kích cầu tiêu dùng tư nhân làm ưu tiên số một**. Chính quyền đã tung ra chương trình đổi cũ lấy mới cho thiết bị và hàng tiêu dùng lâu bền (ô tô, đồ gia dụng, điện tử, máy móc công nghiệp): 150 tỷ NDT năm 2024, cộng 81 tỷ NDT phân bổ trước vào tháng 1/2025. Chương trình được tài trợ bằng trái phiếu đặc biệt siêu dài hạn: 150 tỷ NDT năm 2024 và 300 tỷ NDT năm 2025. Song song, nhà nước nâng nhẹ phần đóng góp của mình vào lương hưu cơ bản và bảo hiểm y tế.
+
+**Câu hỏi của bài.** Những cải cách cơ cấu nào, không phải kích thích ngắn hạn, thực sự kéo tiết kiệm xuống? Bài kiểm tra ba giả thuyết bằng ba bộ dữ liệu:
+
+| Giả thuyết | Cơ chế | Dữ liệu và phương pháp | Kết quả chính |
+|---|---|---|---|
+| Lưới an sinh mỏng | Hộ tiết kiệm phòng thân vì y tế, hưu trí yếu | Dữ liệu cấp thành phố, khoảng 240 nơi, 2012–2022; phép chiếu cục bộ | +10% chi y tế → tiết kiệm nông thôn −0,8 điểm sau 5 năm; thành thị khoảng 0 |
+| Hộ khẩu | Người nhập cư không được hưởng phúc lợi đô thị | Khảo sát hộ gia đình CFPS 2012–2022, cộng nghiên cứu sự kiện cấp thành phố | Hộ khẩu nông thôn tiết kiệm nhiều hơn khoảng 7 điểm; khoảng cách từ 11,8 (2014) xuống 3,2 (2022) |
+| Bất động sản | Giá nhà tác động qua của cải và nhu cầu trả trước | Khảo sát CFPS 2012–2022, khoảng 32.000 quan sát | Kênh của cải còn mạnh; kênh trả trước yếu hẳn sau 2021 |
+
+Ba kết quả dẫn tới ba khuyến nghị: chi xã hội nhắm đích vào nông thôn, cải cách hộ khẩu ở thành phố lớn, và giúp thị trường nhà điều chỉnh hiệu quả.
 
 ### 2. Chi xã hội: dữ liệu và bức tranh mô tả
 
-**Chi xã hội thấp so với mọi nhóm so sánh**: y tế 3,5% GDP và an sinh xã hội 3,1% GDP, so với 7,2% và 8,2% ở OECD, 5,0% và 6,1% ở các nước mới nổi — dù đã gấp đôi kể từ đầu thập niên 2000. Theo định nghĩa rộng gồm cả chi của quỹ bảo hiểm xã hội, chi an sinh đạt 7,6 nghìn tỷ NDT, tức 5,6% GDP, vẫn dưới cả hai nhóm.
+**Chi xã hội thấp so với mọi nhóm so sánh** (phần trăm GDP):
 
-**Lệch nặng giữa các vùng.** Năm 2022, bốn thành phố cấp 1 (chiếm 5,8% dân số) chi xã hội đầu người gấp hơn hai lần phần còn lại. Nhưng tính theo phần trăm GDP thì ngược lại — thành phố cấp thấp chi nhiều hơn — vì khoảng cách GDP đầu người còn lớn hơn khoảng cách chi. Hơn 90% chi xã hội do chính quyền địa phương gánh, nên gánh nặng tài khoá rơi đúng vào nơi nghèo.
+| Hạng mục | Trung Quốc | Trung bình OECD | Trung bình nước mới nổi |
+|---|---|---|---|
+| Y tế | 3,5 | 7,2 | 5,0 |
+| An sinh xã hội | 3,1 | 8,2 | 6,1 |
 
-**Và đang bị bóp.** Những địa phương nợ cao đã tăng chi xã hội rất nhanh trong thập niên 2010, nhưng từ Covid và khủng hoảng nhà đất (thu từ đất giảm mạnh), chi xã hội trên GDP của chính những nơi này giảm. Họ vẫn chi nhiều hơn nơi khác vì phần lớn là khoản bắt buộc do trung ương đặt ra — lương hưu cơ bản, bảo hiểm y tế, giáo dục bắt buộc chín năm, trợ cấp mức sống tối thiểu Dibao — nhưng phần linh hoạt thì đã bị cắt. Kết quả: lưới an sinh bị thủng đúng ở nơi đông dân nông thôn nhất.
+Mức này đã gấp đôi kể từ đầu thập niên 2000 nhưng vẫn thấp. Theo định nghĩa rộng gồm cả chi của quỹ bảo hiểm xã hội, chi an sinh đạt 7,6 nghìn tỷ NDT, tức 5,6% GDP, vẫn dưới cả hai nhóm so sánh.
 
-**Dữ liệu**: số liệu năm cấp thành phố từ CEIC (nguồn gốc là Cục Thống kê quốc gia và cục thống kê địa phương), 2012–2022, khoảng 240 trên tổng số 293 thành phố cấp địa khu, phân tích tách riêng mẫu thành thị và nông thôn. Tỷ lệ tiết kiệm = (thu nhập khả dụng − chi tiêu tiêu dùng) / thu nhập khả dụng. Trung bình: thành thị **35,2%**, nông thôn **24,2%** — thành thị cao hơn ở mọi tứ phân vị, chủ yếu do thu nhập cao hơn. Khoảng tứ phân vị của chi xã hội đầu người rộng 500–800 NDT mỗi năm cho từng hạng mục.
+**Lệch nặng giữa các vùng.** Năm 2022, bốn thành phố cấp 1 (Bắc Kinh, Thượng Hải, Thâm Quyến, Quảng Châu, chiếm 5,8% dân số) chi xã hội đầu người khoảng 11.500 NDT, gấp hơn hai lần phần còn lại (khoảng 5.500 NDT). Nhưng tính theo phần trăm GDP thì ngược lại: thành phố cấp 3 trở xuống chi khoảng 8,8% GDP, cấp 1 khoảng 6,5%, cấp 2 khoảng 5,2%. Nghịch lý này có vì khoảng cách GDP đầu người giữa các thành phố còn lớn hơn khoảng cách chi đầu người. Thêm vào đó, hơn 90% chi xã hội do chính quyền địa phương gánh, nên gánh nặng tài khoá rơi đúng vào nơi nghèo nhất.
+
+**Và đang bị bóp.** Những địa phương nợ cao đã tăng chi xã hội rất nhanh trong thập niên 2010, nhưng từ Covid và khủng hoảng nhà đất (khi thu từ bán quyền sử dụng đất giảm mạnh), chi xã hội trên GDP của chính những nơi này giảm. Chi xã hội theo phần trăm GDP:
+
+| Nhóm địa phương | 2014 | 2018 | 2022 | Xu hướng gần đây |
+|---|---|---|---|---|
+| Địa phương nợ cao | ~4,7 | ~11,4 | ~9,3 | giảm |
+| Địa phương nợ thấp | ~4,5 | ~6,1 | ~6,3 | tăng nhẹ |
+| Vùng đô thị hoá thấp (mốc 2013, 2019, 2022) | ~9,8 | ~11,4 | ~10,1 | giảm |
+| Vùng đô thị hoá cao | ~4,9 | ~6,0 | ~6,2 | tăng nhẹ |
+
+Với nhóm vùng đô thị hoá thấp, ba mốc là 2013, 2019 và 2022 thay vì 2014, 2018, 2022. Những nơi này vẫn chi nhiều hơn nơi khác vì phần lớn là khoản bắt buộc do trung ương đặt ra: lương hưu cơ bản, bảo hiểm y tế, giáo dục bắt buộc 9 năm, trợ cấp mức sống tối thiểu Dibao. Phần chi linh hoạt thì đã bị cắt. Kết quả: lưới an sinh bị thủng đúng ở nơi dễ tổn thương và đông dân nông thôn nhất.
+
+**Dữ liệu.** Số liệu năm cấp thành phố từ CEIC (nguồn gốc là Cục Thống kê quốc gia và cục thống kê địa phương), giai đoạn 2012–2022, cho khoảng 240 trên tổng số 293 thành phố cấp địa khu. Phân tích tách riêng mẫu thành thị và mẫu nông thôn. Tỷ lệ tiết kiệm trung bình: thành thị **35,2%**, nông thôn **24,2%**. Thành thị cao hơn ở mọi tứ phân vị, chủ yếu vì thu nhập cao hơn. Khoảng tứ phân vị (chênh giữa mức của thành phố ở vị trí 75% và vị trí 25%) của chi xã hội đầu người rộng 500–800 NDT mỗi năm cho từng hạng mục, đủ biến động để ước lượng.
 
 ### 3. Phương pháp: phép chiếu cục bộ với hiệu ứng cố định
 
-Biến phụ thuộc là **thay đổi tích luỹ** của tỷ lệ tiết kiệm từ năm t−1 đến t+h, với h từ 0 đến 5. Biến giải thích chính là lô-ga-rít chi an sinh xã hội, chi y tế và chi giáo dục ở năm t. Kiểm soát: tỷ lệ giá nhà trên thu nhập (tính riêng cho thành thị và nông thôn), tăng trưởng giá nhà, GDP đầu người và độ trễ của tỷ lệ tiết kiệm; cộng hiệu ứng cố định thành phố và năm. Sai số chuẩn phân cụm theo thành phố. Mọi biến trừ tỷ lệ tiết kiệm được cắt đuôi ở mức 0,5%.
+Biến phụ thuộc là **thay đổi tích luỹ** của tỷ lệ tiết kiệm từ năm t−1 đến năm t+h, với h chạy từ 0 đến 5. Biến giải thích chính là lô-ga-rít chi an sinh xã hội, chi y tế và chi giáo dục ở năm t. Vì dùng lô-ga-rít, hệ số nhân với 0,1 cho tác động của việc tăng chi 10%. Các biến kiểm soát gồm: tỷ lệ giá nhà trên thu nhập (tính riêng cho thành thị và nông thôn), tăng trưởng giá nhà, GDP đầu người và độ trễ của tỷ lệ tiết kiệm. Mô hình có hiệu ứng cố định thành phố (để so sánh mỗi thành phố với chính nó qua thời gian) và hiệu ứng cố định năm (để loại các cú sốc chung cả nước). Sai số chuẩn phân cụm theo thành phố. Mọi biến trừ tỷ lệ tiết kiệm được cắt đuôi ở mức 0,5% để giảm ảnh hưởng của giá trị cực đoan.
 
-Để đo khác biệt giữa các vùng, bài thêm tương tác giữa chi tiêu và một biến giả "dễ tổn thương" không đổi theo thời gian: bằng 1 nếu tỷ lệ đô thị hoá trung bình lịch sử dưới trung vị, hoặc nếu thành phố không thuộc cấp 1 hay cấp 2.
+Để đo khác biệt giữa các vùng, bài thêm tương tác giữa chi tiêu và một biến giả "dễ tổn thương" không đổi theo thời gian. Biến này bằng 1 nếu tỷ lệ dân đô thị trung bình lịch sử của thành phố dưới trung vị (đô thị hoá thấp), hoặc nếu thành phố không thuộc cấp 1 hay cấp 2 (cấp thấp). Thành phố cấp 2 gồm Thiên Tân, Trùng Khánh, mọi thủ phủ tỉnh, cùng Đại Liên, Ninh Ba, Thanh Đảo, Hạ Môn.
 
 ### 4. Kết quả về chi xã hội
 
-Toàn bộ hệ số đã trình bày ở sơ đồ. Ba điều cần nhớ:
+Tác động tích luỹ của việc tăng 10% chi tiêu lên tỷ lệ tiết kiệm, tính bằng điểm phần trăm (ký hiệu \* p<0,1, \*\* p<0,05, \*\*\* p<0,01; p càng nhỏ thì bằng chứng càng chắc):
 
-- **Chi y tế là công cụ mạnh nhất**: có ý nghĩa ở mọi tầm chiếu, lớn dần từ −0,29 lên −0,75. Chi an sinh xã hội chỉ có ý nghĩa từ năm thứ hai đến năm thứ tư, đỉnh −0,455 ở năm thứ tư rồi mất ý nghĩa ở năm thứ năm.
-- **Chi giáo dục có tác động ngắn**: ở nông thôn có ý nghĩa trong ba năm đầu rồi tắt. Bài giải thích rằng y tế và an sinh mới là bảo hiểm trước cú sốc tương lai, nên chúng tác động bền hơn lên động cơ tiết kiệm phòng thân.
-- **Hộ thành thị không phản ứng với y tế và an sinh** — có lẽ vì họ đã được hưởng phúc lợi tốt hơn từ đầu. Kết quả này khớp với văn liệu trước (Han và Zhang 2022) về tương quan ngắn hạn giữa chi y tế và tiết kiệm nông thôn.
+**Nông thôn**
 
-Ở thành phố kém đô thị hoá, tác động của chi y tế lên tiết kiệm nông thôn sâu tới **−1,27 điểm ở năm thứ tư**, cao hơn khoảng một điểm so với thành phố đô thị hoá cao. Phân theo cấp thành phố cho kết quả cùng chiều.
+| Hạng mục | T+0 | T+1 | T+2 | T+3 | T+4 | T+5 |
+|---|---|---|---|---|---|---|
+| An sinh xã hội | −0,004 | −0,035 | −0,172\* | −0,327\*\*\* | −0,455\*\*\* | −0,213 |
+| Y tế | −0,290\*\*\* | −0,549\*\*\* | −0,677\*\*\* | −0,540\*\*\* | −0,706\*\*\* | −0,753\*\*\* |
+| Giáo dục | −0,206\* | −0,346\*\* | −0,381\*\* | −0,194 | −0,093 | −0,172 |
 
-**Hai giới hạn bài tự nêu.** Thứ nhất, chi xã hội chỉ có số liệu cho cả thành phố, không tách được phần chi cho nông thôn và thành thị; nên kết quả phải đọc là "tiết kiệm nông thôn phản ứng thế nào khi chi của cả thành phố tăng". Thứ hai, chi xã hội của địa phương là **nội sinh** — phụ thuộc vào những đặc điểm không quan sát được cũng ảnh hưởng tiết kiệm — nên kết quả là tương quan chứ không phải quan hệ nhân quả chắc chắn.
+**Thành thị**
 
-**Kiểm định độ vững**: bảng dữ liệu cân bằng tuyệt đối (795 quan sát) cho kết quả tương tự; dùng tốc độ tăng chi thay cho mức chi cũng vậy (chi y tế vẫn có ý nghĩa ở mọi tầm chiếu). Bài còn nói đã kiểm tra bằng biến công cụ kiểu Bartik: tăng trưởng chi y tế toàn quốc nhân với mức phơi nhiễm của từng tỉnh (đại diện bằng tỷ lệ dân trên 65 tuổi) — cú sốc chi tiêu toàn quốc là ngoại sinh với đặc điểm riêng của từng tỉnh. Kết quả của phép kiểm tra này không được trình bày.
+| Hạng mục | T+0 | T+1 | T+2 | T+3 | T+4 | T+5 |
+|---|---|---|---|---|---|---|
+| An sinh xã hội | +0,082\* | +0,126\*\* | +0,096 | −0,010 | −0,039 | −0,115 |
+| Y tế | +0,003 | +0,005 | +0,028 | +0,020 | +0,002 | +0,069 |
+| Giáo dục | −0,049 | −0,070 | −0,127 | −0,250\*\* | −0,263\*\* | −0,274\*\* |
+
+Ba điều cần nhớ:
+
+- **Chi y tế là công cụ mạnh nhất.** Ở nông thôn, nó có ý nghĩa ở mọi tầm chiếu và tác động lớn dần từ −0,29 lên −0,75. Cách giải thích: với người nông thôn, bệnh tật là cú sốc lớn nhất trong đời, nên chi y tế là bảo hiểm trực tiếp chống lại nỗi lo lớn nhất. Chi an sinh xã hội chỉ có ý nghĩa từ năm thứ hai đến năm thứ tư, đạt đỉnh −0,455 ở năm thứ tư rồi mất ý nghĩa ở năm thứ năm.
+- **Chi giáo dục có tác động ngắn.** Ở nông thôn, nó có ý nghĩa trong ba năm đầu (T+0 đến T+2) rồi tắt. Bài giải thích rằng y tế và an sinh mới là bảo hiểm trước cú sốc tương lai, nên chúng tác động bền hơn lên động cơ tiết kiệm phòng thân; chi giáo dục thì không bảo hiểm trước rủi ro nào.
+- **Hộ thành thị không phản ứng với y tế và an sinh**, có lẽ vì họ đã được hưởng phúc lợi tốt hơn từ đầu. Kết quả này khớp với văn liệu trước (Han và Zhang 2022) về tương quan ngắn hạn giữa chi y tế và tiết kiệm nông thôn. Có một điểm lạ mà bài không bình luận: ở thành thị, chi giáo dục lại có tác động âm có ý nghĩa từ năm thứ ba.
+
+**Thành phố dễ tổn thương phản ứng mạnh hơn.** Tác động của việc tăng 10% chi y tế lên tiết kiệm nông thôn, theo nhóm thành phố (điểm phần trăm):
+
+| Nhóm | T+0 | T+1 | T+2 | T+3 | T+4 | T+5 |
+|---|---|---|---|---|---|---|
+| Đô thị hoá cao | −0,36 | −0,54 | −0,49 | −0,26 | −0,32 | −0,22 |
+| Đô thị hoá thấp | −0,10 | −0,51 | −1,06 | −1,16 | −1,27 | −1,14 |
+| Thành phố cấp cao | −0,29 | −0,24 | +0,08 | +0,32 | +0,05 | −0,02 |
+| Thành phố cấp thấp | −0,27 | −0,57 | −0,71 | −0,65 | −0,70 | −0,59 |
+
+Ở thành phố đô thị hoá cao, tác động chỉ có ý nghĩa đến T+2 rồi mất. Ở thành phố kém đô thị hoá, tác động sâu hơn và dai dẳng, tới **−1,27 điểm ở năm thứ tư**, cao hơn khoảng một điểm so với nhóm đô thị hoá cao. Phân theo cấp thành phố cho kết quả cùng chiều. Thông điệp: ở nơi lưới an sinh mỏng nhất, mỗi đồng chi thêm kéo tiết kiệm phòng thân xuống mạnh nhất.
+
+**Hai giới hạn bài tự nêu.** Thứ nhất, chi xã hội chỉ có số liệu cho cả thành phố, không tách được phần chi cho nông thôn và thành thị; nên kết quả phải đọc là "tiết kiệm nông thôn phản ứng thế nào khi chi của cả thành phố tăng". Thứ hai, chi xã hội của địa phương là **nội sinh**: nó phụ thuộc vào những đặc điểm không quan sát được cũng ảnh hưởng tới tiết kiệm (ví dụ một thành phố đang khá lên thì vừa chi nhiều hơn vừa có hộ thay đổi hành vi). Vì vậy kết quả là tương quan có kiểm soát, chưa phải quan hệ nhân quả chắc chắn.
+
+**Kiểm định độ vững.** Bảng dữ liệu cân bằng tuyệt đối (chỉ giữ thành phố có đủ số liệu mọi năm, 795 quan sát) cho kết quả tương tự. Dùng tốc độ tăng chi thay cho mức chi cũng vậy, và chi y tế vẫn có ý nghĩa ở mọi tầm chiếu. Bài còn nói đã kiểm tra bằng biến công cụ kiểu Bartik: lấy tăng trưởng chi y tế toàn quốc nhân với mức phơi nhiễm của từng tỉnh (đại diện bằng tỷ lệ dân trên 65 tuổi). Ý tưởng là cú sốc chi tiêu toàn quốc không phụ thuộc đặc điểm riêng của từng tỉnh, nên phần chi tăng thêm do cú sốc đó gần với ngoại sinh. Tuy nhiên kết quả của phép kiểm tra này không được trình bày.
 
 ### 5. Định lượng tác động tổng hợp
 
-Hai kịch bản, giả định mức tăng chi là vĩnh viễn và cộng dồn tác động qua năm năm (số liệu đã trình bày ở sơ đồ): gấp đôi chi ở mọi nơi tốn 3,0% GDP mỗi năm, đổi lấy tiêu dùng tăng 2,4% GDP; gấp đôi chỉ ở nơi có tỷ lệ dân nông thôn trên trung vị tốn 1,0% GDP, đổi lấy tiêu dùng tăng 1,8% GDP. Kịch bản nhắm đích hiệu quả hơn vì mức chi hiện tại ở đó thấp hơn hẳn và hộ nông thôn phản ứng mạnh hơn.
+Bài so sánh hai kịch bản ngân sách, giả định mức tăng chi là vĩnh viễn và cộng dồn tác động qua năm năm:
+
+| | ① Gấp đôi chi an sinh và y tế ở mọi thành phố | ② Gấp đôi chi chỉ ở thành phố có tỷ lệ dân nông thôn trên trung vị |
+|---|---|---|
+| Chi phí mỗi năm | 3,0% GDP | 1,0% GDP |
+| Tiêu dùng tăng tích luỹ sau 5 năm | +2,4% GDP | +1,8% GDP |
+| Tiết kiệm giảm | −1,5 điểm GDP | −1,1 điểm GDP |
+| Tiêu dùng tăng trên chi phí | 0,8 | 1,8 |
+
+Kịch bản ② đạt 75% hiệu quả tiêu dùng của kịch bản ① (1,8 so với 2,4) với chỉ 1/3 chi phí (1,0 so với 3,0). Tính trên mỗi đồng ngân sách, hiệu quả gấp khoảng 2,25 lần (tỷ số 1,8 so với 0,8). Lý do: mức chi hiện tại ở vùng đông dân nông thôn thấp hơn hẳn, nên gấp đôi tốn ít tiền hơn, và hộ nông thôn phản ứng mạnh hơn với mỗi đồng chi thêm. Khi ngân sách địa phương đã căng, đây là lập luận mạnh cho việc nhắm đích.
 
 ### 6. Hộ khẩu: bối cảnh thể chế
 
-Hệ thống hộ khẩu được lập năm 1958 để quản lý phân bổ dân số thành thị và nông thôn, kết quả là hạn chế dịch chuyển lao động và phân chia không đều dịch vụ công. Bốn mươi năm tăng trưởng nhanh đã đưa tỷ lệ dân đô thị lên gần 70% năm 2023, nhưng khoảng **200 triệu cư dân đô thị vẫn mang hộ khẩu nông thôn** (27% dân đô thị, 17,8% dân số cả nước).
+Hệ thống hộ khẩu được lập năm 1958 để quản lý phân bổ dân số giữa thành thị và nông thôn. Hệ quả là hạn chế dịch chuyển lao động và phân chia không đều dịch vụ công. Bốn mươi năm tăng trưởng nhanh đã đưa tỷ lệ dân sống ở đô thị lên gần 70% năm 2023, nhưng tỷ lệ có hộ khẩu đô thị tăng chậm hơn nhiều:
 
-**Người mang hộ khẩu nông thôn ở thành phố thiệt ở đâu:** lương hưu kém hơn (thời gian đóng dài hơn, mức hưởng thấp hơn — họ không được vào quỹ hưu trí cho người lao động đô thị); con em khó tiếp cận giáo dục bắt buộc và đại học (học sinh cấp ba phải về nơi đăng ký hộ khẩu thi đại học, nơi tỷ lệ đỗ thấp hơn nhiều so với Bắc Kinh hay Thượng Hải); ít cơ hội việc làm hơn; điều kiện mua nhà ở siêu đô thị khắt khe hơn (phải có hộ khẩu và đóng bảo hiểm xã hội hoặc thuế thu nhập nhất định số năm). Đội ngũ lao động nhập cư còn **đang già đi** — tuổi trung bình từ khoảng 34 năm 2008 lên khoảng 43 năm 2023 — nên thêm động cơ tiết kiệm cho hưu trí và bệnh tật.
+| Phần trăm tổng dân số | 2010 | 2014 | 2016 | 2020 | 2023 |
+|---|---|---|---|---|---|
+| Sống ở đô thị | ~50 | ~55 | ~57 | ~64 | ~66 |
+| Có hộ khẩu đô thị | ~34 | ~36 | ~41 | ~45 | ~48 |
 
-**Cải cách hai hướng từ đầu thập niên 2000:** nới điều kiện đăng ký hộ khẩu ở thành phố vừa và nhỏ, nhất là sau khi Quốc vụ viện chủ trương xoá phân biệt thành thị – nông thôn năm 2014; hiện **thành phố dưới 3 triệu dân đã bỏ hẳn hạn chế**, còn thành phố lớn dùng hệ thống tính điểm dựa trên học vấn, việc làm và đóng góp xã hội. Hướng thứ hai là cân bằng phúc lợi cho mọi cư dân đô thị bất kể hộ khẩu ở một số vùng. Ví dụ năm 2023 tỉnh Chiết Giang cho phép hưởng đầy đủ phúc lợi trong toàn tỉnh cho mọi thành viên gia đình đã đăng ký, kể cả con cái và cha mẹ phụ thuộc — trừ thủ phủ Hàng Châu.
+Khoảng cách giữa hai dòng là khoảng 18% dân số (chính xác hơn là 17,8%), tức **hơn 200 triệu người sống ở thành phố nhưng mang hộ khẩu nông thôn**, bằng 27% dân đô thị.
+
+**Người mang hộ khẩu nông thôn ở thành phố thiệt ở đâu:**
+
+- **Lương hưu kém hơn:** thời gian đóng dài hơn, mức hưởng thấp hơn, vì họ không được vào quỹ hưu trí cho người lao động đô thị.
+- **Giáo dục:** con em khó tiếp cận giáo dục bắt buộc và đại học. Học sinh cấp ba phải về nơi đăng ký hộ khẩu để thi đại học, nơi tỷ lệ đỗ thấp hơn nhiều so với Bắc Kinh hay Thượng Hải.
+- **Việc làm:** ít cơ hội hơn.
+- **Nhà ở:** điều kiện mua nhà ở siêu đô thị khắt khe hơn, phải có hộ khẩu và đã đóng bảo hiểm xã hội hoặc thuế thu nhập một số năm nhất định.
+
+Đội ngũ lao động nhập cư còn **đang lớn lên và già đi**. Số lao động nhập cư tăng từ khoảng 225 triệu năm 2008 lên khoảng 300 triệu năm 2023. Tuổi trung bình tăng từ khoảng 34 lên khoảng 43; nhóm trên 40 tuổi tăng từ khoảng 70 triệu lên khoảng 165 triệu người. Người nhập cư lớn tuổi hơn mà không có lương hưu và y tế tốt thì càng có động cơ tiết kiệm cho hưu trí và bệnh tật.
+
+**Cải cách đi theo hai hướng từ đầu thập niên 2000.** Hướng thứ nhất là nới điều kiện đăng ký hộ khẩu ở thành phố vừa và nhỏ, nhất là sau khi Quốc vụ viện chủ trương xoá phân biệt thành thị – nông thôn năm 2014. Hiện **thành phố dưới 3 triệu dân đã bỏ hẳn hạn chế**, còn thành phố lớn dùng hệ thống tính điểm dựa trên học vấn, việc làm và đóng góp xã hội. Hướng thứ hai là cân bằng phúc lợi cho mọi cư dân đô thị bất kể hộ khẩu ở một số vùng. Ví dụ năm 2023, tỉnh Chiết Giang cho phép hưởng đầy đủ phúc lợi trong toàn tỉnh cho mọi thành viên gia đình đã đăng ký, kể cả con cái và cha mẹ phụ thuộc, trừ thủ phủ Hàng Châu.
 
 ### 7. Hộ khẩu: bằng chứng cấp hộ gia đình
 
-**Dữ liệu**: Khảo sát Gia đình Trung Quốc (CFPS) của Viện Khảo sát Khoa học Xã hội, Đại học Bắc Kinh — khảo sát theo dõi, đại diện toàn quốc, hai năm một lần từ 2010 đến 2022, 31 tỉnh, mỗi đợt 13.000–17.000 cá nhân từ hơn 6.000 hộ đô thị. Tỷ lệ tiết kiệm được cắt đuôi ở mức 10% và loại quan sát dưới −200%. Biến giả hộ khẩu đô thị bằng 1 nếu hộ có đăng ký phi nông nghiệp hoặc cư trú. "Hộ khẩu mới" là người đã đổi nơi đăng ký kể từ khi sinh và hiện mang hộ khẩu đô thị. Khoảng 74% chủ hộ có lương hưu (tỷ lệ thực có thể cao hơn do người trả lời khai nhầm).
+**Dữ liệu.** Khảo sát Gia đình Trung Quốc (CFPS) của Viện Khảo sát Khoa học Xã hội, Đại học Bắc Kinh. Đây là khảo sát theo dõi, đại diện toàn quốc, thực hiện hai năm một lần từ 2010 đến 2022 ở 31 tỉnh, mỗi đợt 13.000–17.000 cá nhân từ hơn 6.000 hộ đô thị; mẫu hồi quy có khoảng 30.000 quan sát trong 2012–2022. Tỷ lệ tiết kiệm được cắt đuôi ở mức 10% và loại các quan sát dưới −200% (hộ chi tiêu gấp ba lần thu nhập). Biến giả hộ khẩu đô thị bằng 1 nếu hộ có đăng ký phi nông nghiệp hoặc cư trú. "Hộ khẩu mới" là người đã đổi nơi đăng ký kể từ khi sinh và hiện mang hộ khẩu đô thị. Khoảng 74% chủ hộ có lương hưu (tỷ lệ thực có thể cao hơn do người trả lời khai nhầm).
 
-**Đặc tả**: hồi quy tỷ lệ tiết kiệm trên biến giả hộ khẩu đô thị, biến giả lương hưu và các đặc điểm hộ (học vấn chủ hộ, thu nhập, nợ trên thu nhập, quy mô hộ, tuổi chủ hộ), với hiệu ứng cố định tỉnh × năm và ngành nghề của chủ hộ. Hệ số vì vậy đọc là chênh lệch giữa hai hộ cùng tỉnh, cùng năm, chủ hộ cùng ngành.
+**Đặc tả.** Bài hồi quy tỷ lệ tiết kiệm trên biến giả hộ khẩu đô thị, biến giả có lương hưu và các đặc điểm hộ (học vấn chủ hộ, thu nhập, nợ trên thu nhập, quy mô hộ, tuổi chủ hộ), với hiệu ứng cố định tỉnh × năm và ngành nghề của chủ hộ. Nhờ vậy hệ số được đọc là chênh lệch giữa hai hộ sống cùng tỉnh, cùng năm, chủ hộ làm cùng ngành.
 
-**Ba kết quả**: hộ khẩu đô thị tiết kiệm ít hơn khoảng 7 điểm; hộ khẩu đô thị **mới** tiết kiệm ít hơn tới 10,1 điểm — vì họ đã tích luỹ sẵn trước khi đổi hộ khẩu và nay kỳ vọng phúc lợi đô thị; và chủ hộ có lương hưu thì hộ tiết kiệm ít hơn khoảng 2 điểm. Thêm hiệu ứng cố định hộ gia đình (hệ số hộ khẩu khi đó chỉ được nhận diện từ những hộ đổi hộ khẩu trong mẫu) cho **−1,71** (có ý nghĩa ở 10%); mẫu cân bằng tuyệt đối 8.808 quan sát cho **−6,67**.
+**Kết quả hồi quy** (biến phụ thuộc: tiết kiệm trên thu nhập khả dụng, điểm phần trăm):
 
-**Xu hướng**: hồi quy cắt ngang từng năm cho thấy chênh lệch đạt đỉnh 11,8 điểm năm 2014 rồi thu hẹp dần xuống 3,2 điểm năm 2022, chủ yếu do tiết kiệm của hộ nông thôn giảm đều.
+| Biến | (1) Cơ sở | (2) Hộ khẩu mới so với cũ | (3) Kế hoạch NUP |
+|---|---|---|---|
+| Hộ khẩu thành thị | −7,03\*\*\* | | −7,88\*\*\* |
+| Hộ khẩu thành thị mới | | −10,09\*\*\* | |
+| Hộ khẩu thành thị cũ | | −6,80\*\*\* | |
+| Thành phố thí điểm NUP | | | −3,69\* |
+| Hộ khẩu thành thị × NUP | | | +6,07\*\* |
+| Có lương hưu | −2,06\*\*\* | −2,06\*\*\* | −1,82\*\*\* |
+| Số năm đi học | −1,39\*\*\* | −1,38\*\*\* | −1,32\*\*\* |
+| Lô-ga-rít thu nhập | +32,51\*\*\* | +32,53\*\*\* | +32,49\*\*\* |
+| Nợ trên thu nhập | −11,36\*\*\* | −11,34\*\*\* | −11,36\*\*\* |
+| Quy mô hộ | −3,54\*\*\* | −3,54\*\*\* | −3,54\*\*\* |
+
+Ba kết quả chính. Một, hộ có hộ khẩu đô thị tiết kiệm ít hơn hộ có hộ khẩu nông thôn khoảng 7 điểm phần trăm thu nhập khả dụng. Hai, hộ khẩu đô thị **mới** tiết kiệm ít hơn tới 10,1 điểm, còn nhiều hơn cả hộ khẩu đô thị cũ (6,8 điểm). Lý do: họ đã tích luỹ sẵn tiền trước khi đổi hộ khẩu, và nay kỳ vọng được hưởng phúc lợi đô thị trong tương lai nên không cần để dành thêm. Ba, chủ hộ có lương hưu thì hộ tiết kiệm ít hơn khoảng 2 điểm, khớp với giả thuyết tiết kiệm phòng thân. Các biến khác cho thấy hộ có thu nhập cao hơn tiết kiệm nhiều hơn rõ rệt, còn hộ nợ nhiều hơn và đông người hơn tiết kiệm ít hơn.
+
+Hai kiểm định thêm: khi đưa hiệu ứng cố định hộ gia đình vào (lúc đó hệ số hộ khẩu chỉ được nhận diện từ những hộ đổi hộ khẩu trong thời gian khảo sát), hệ số còn **−1,71** và chỉ có ý nghĩa ở mức 10%; với mẫu cân bằng tuyệt đối 8.808 quan sát, hệ số là **−6,67**.
+
+**Xu hướng theo thời gian.** Chạy hồi quy cắt ngang riêng cho từng năm, chênh lệch tiết kiệm giữa hộ khẩu thành thị và nông thôn (cùng tỉnh, cùng ngành, sau khi kiểm soát đặc điểm hộ) như sau:
+
+| Năm | 2012 | 2014 | 2016 | 2018 | 2020 | 2022 |
+|---|---|---|---|---|---|---|
+| Chênh lệch (điểm %) | −7,69\*\*\* | −11,83\*\*\* | −7,60\*\*\* | −7,50\*\*\* | −2,64\* | −3,20\*\* |
+
+Chênh lệch đạt đỉnh 11,8 điểm năm 2014 rồi thu hẹp dần xuống 3,2 điểm năm 2022, nhưng vẫn có ý nghĩa thống kê. Điều quan trọng là khoảng cách khép lại vì đâu. Tỷ lệ tiết kiệm trung vị sau kiểm soát của hộ khẩu nông thôn giảm mạnh, từ khoảng 18% năm 2012 xuống khoảng 9,5% trong 2020–2022; của hộ khẩu thành thị thì dao động trong khoảng 1–9%, không có xu hướng. Tức là khoảng cách khép lại vì hộ nông thôn tiết kiệm ít đi khi cải cách mở rộng phúc lợi, không phải vì hộ thành thị tiết kiệm nhiều lên.
 
 ### 8. Hộ khẩu: thí nghiệm tự nhiên từ Kế hoạch Đô thị hoá kiểu mới
 
-Kế hoạch Đô thị hoá kiểu mới (NUP) khởi động năm 2014 với mục tiêu cấp **100 triệu hộ khẩu đô thị mới** cho người nhập cư nông thôn và nâng tỷ lệ dân có hộ khẩu đô thị từ 35% (2014) lên 45% (2020). Kế hoạch có ba đợt thí điểm gồm **236 thành phố** (cả cấp địa khu và cấp huyện) công bố trong 2014–2016. Vì được triển khai lệch thời điểm giữa các nơi, nó cho phép so sánh gần như thí nghiệm.
+Kế hoạch Đô thị hoá kiểu mới (NUP) khởi động năm 2014 với mục tiêu cấp **100 triệu hộ khẩu đô thị mới** cho người nhập cư nông thôn và nâng tỷ lệ dân có hộ khẩu đô thị từ 35% (2014) lên 45% (2020). Kế hoạch có ba đợt thí điểm gồm **236 thành phố** (cả cấp địa khu và cấp huyện) được công bố trong 2014–2016. Vì các nơi được chọn vào những thời điểm khác nhau, có thể so sánh nơi đã thí điểm với nơi chưa thí điểm, gần như một thí nghiệm.
 
-**Cấp thành phố**: phép chiếu cục bộ với biến giả bằng 1 từ năm thành phố được chọn thí điểm, cùng mọi biến kiểm soát như phần chi xã hội. Tỷ lệ tiết kiệm đô thị giảm khoảng 1,3 điểm ngay năm đầu, dao động rồi xuống khoảng **−2,5 điểm ở năm thứ tư**, có ý nghĩa ở hầu hết tầm chiếu.
+**Cấp thành phố.** Bài dùng phép chiếu cục bộ với biến giả bằng 1 kể từ năm thành phố được chọn thí điểm, cùng mọi biến kiểm soát như phần chi xã hội. Tỷ lệ tiết kiệm đô thị giảm khoảng 1,3 điểm ngay năm đầu, dao động rồi xuống khoảng **−2,5 điểm ở năm thứ tư**, có ý nghĩa ở hầu hết tầm chiếu.
 
-**Cấp hộ gia đình**: hồi quy sai khác kép với biến giả bằng 1 nếu năm khảo sát cách năm thành phố đăng ký được chọn thí điểm ít nhất hai năm. Tiết kiệm của hộ ở thành phố thí điểm giảm 3,7 điểm (có ý nghĩa ở 10%), và tương tác hộ khẩu đô thị × thí điểm là **+6,07**, tức chênh lệch hộ khẩu gần như bị xoá. Bài giải thích: kế hoạch đã dỡ bỏ phần lớn rào cản chuyển đổi hộ khẩu ở thành phố thí điểm, nên ngay cả người vẫn mang hộ khẩu nông thôn cũng tiết kiệm ít đi vì kỳ vọng sớm được hưởng dịch vụ như người đô thị.
+**Cấp hộ gia đình.** Bài dùng hồi quy sai khác kép, với biến giả bằng 1 nếu năm khảo sát cách năm thành phố đăng ký của hộ được chọn thí điểm ít nhất hai năm (cột 3 của bảng ở mục 7). Hai hệ số đáng chú ý:
+
+- Hộ ở thành phố thí điểm tiết kiệm ít đi 3,7 điểm (hệ số −3,69, có ý nghĩa ở mức 10%). Vì biến hộ khẩu đô thị đã có trong mô hình, con số này đo phản ứng của chính hộ mang hộ khẩu nông thôn.
+- Tương tác hộ khẩu đô thị × thí điểm là **+6,07**. Cộng với hệ số hộ khẩu đô thị, chênh lệch hộ khẩu ở thành phố thí điểm chỉ còn −7,88 + 6,07 = −1,81 điểm, tức gần như biến mất.
+
+Bài giải thích: kế hoạch đã dỡ bỏ phần lớn rào cản chuyển đổi hộ khẩu ở thành phố thí điểm, nên ngay cả người vẫn mang hộ khẩu nông thôn cũng tiết kiệm ít đi vì kỳ vọng sớm được chuyển đổi và được hưởng dịch vụ như người đô thị.
 
 ### 9. Bất động sản: cơ chế và giả thuyết
 
-Văn liệu trước tập trung vào hai thập niên bùng nổ nhà đất đến 2021: Wang và Wen (2012) thấy giá nhà tăng không giải thích được tiết kiệm cao với dữ liệu đến 2010; các nghiên cứu sau thấy giá nhà tăng có hiệu ứng của cải dương trong những điều kiện nhất định — mức phát triển của tài chính nhà ở, tỷ lệ giá trên thu nhập, loại hình sở hữu, mức vay thế chấp. Bài này là nghiên cứu đầu tiên dùng dữ liệu hộ gia đình cho **giai đoạn suy thoái từ 2021** và tách riêng hai kênh.
+**Bối cảnh.** Bất động sản chiếm khoảng 20% GDP nếu tính cả các ngành liên kết (xây dựng, vật liệu, nội thất). Hơn 90% hộ gia đình sở hữu nhà. Từ đỉnh năm 2021 đến 2024, diện tích nhà bán ra giảm hơn 40% (−40%+) và giá nhà thứ cấp giảm hơn 10% (−10%+).
 
-Hai giả thuyết: (1) chủ nhà có tài sản nhà ròng giảm sẽ tiêu ít, tiết kiệm nhiều — bằng chứng cho kênh của cải; (2) người chưa có nhà tiết kiệm nhiều hơn chủ nhà (biên mở rộng), và người chưa có nhà mà ít tiền gửi thì tiết kiệm càng nhiều (biên chiều sâu) — bằng chứng cho kênh tiền trả trước.
+**Văn liệu trước** tập trung vào hai thập niên bùng nổ nhà đất đến 2021. Wang và Wen (2012) thấy giá nhà tăng không giải thích được tiết kiệm cao với dữ liệu đến 2010. Các nghiên cứu sau thấy giá nhà tăng có hiệu ứng của cải dương trong những điều kiện nhất định: mức phát triển của tài chính nhà ở, tỷ lệ giá trên thu nhập, loại hình sở hữu, mức vay thế chấp. Bài này là nghiên cứu đầu tiên dùng dữ liệu hộ gia đình cho **giai đoạn suy thoái từ 2021** và tách riêng hai kênh.
+
+**Hai kênh, hai giả thuyết:**
+
+| | Kênh của cải (chủ nhà) | Kênh tiền trả trước (người chưa có nhà) |
+|---|---|---|
+| Cơ chế | Giá nhà giảm → tài sản ròng giảm → chi tiêu giảm, tiết kiệm tăng | Giá nhà giảm → cần ít tiền trả trước hơn → tiết kiệm giảm. Nhưng nếu hoãn mua nhà thì động cơ tiết kiệm này biến mất |
+| Giả thuyết kiểm định | Chủ nhà có tài sản nhà ròng giảm thì tiêu ít, tiết kiệm nhiều | Người chưa có nhà tiết kiệm nhiều hơn chủ nhà (biên mở rộng); người chưa có nhà mà ít tiền gửi thì tiết kiệm càng nhiều (biên chiều sâu) |
 
 ### 10. Bất động sản: đặc tả và kết quả
 
-Hồi quy tỷ lệ tiết kiệm trên lô-ga-rít thu nhập, **tỷ lệ tài sản nhà ròng trên thu nhập** (giá trị nhà đang sở hữu trừ dư nợ thế chấp, chia cho thu nhập, cắt đuôi ở 500), tỷ lệ tiền gửi trên thu nhập, biến giả chưa có nhà và tương tác tiền gửi × chưa có nhà; cộng hiệu ứng cố định hộ và năm. Khoảng 32.000 quan sát. Cột thứ hai thêm tương tác của từng biến chính với biến giả đợt khảo sát 2022.
+**Đặc tả.** Bài hồi quy tỷ lệ tiết kiệm trên lô-ga-rít thu nhập, **tỷ lệ tài sản nhà ròng trên thu nhập** (giá trị nhà đang sở hữu trừ dư nợ thế chấp, chia cho thu nhập, cắt đuôi ở mức 500 lần), tỷ lệ tiền gửi trên thu nhập, biến giả chưa có nhà và tương tác tiền gửi × chưa có nhà; cộng hiệu ứng cố định hộ và năm. Mẫu có khoảng 32.000 quan sát. Cột thứ hai thêm tương tác của từng biến chính với biến giả đợt khảo sát 2022 (sau khi thị trường đảo chiều năm 2021), để xem các kênh có thay đổi không.
 
-Tài sản nhà ròng trên thu nhập có trung vị 3,3 lần và độ lệch chuẩn 22,7; tiền gửi trên thu nhập có trung vị 0,3 lần; 70% hộ sở hữu nhà.
+**Thống kê mô tả.** Tài sản nhà ròng trên thu nhập có trung vị 3,3 lần và độ lệch chuẩn 22,7; tiền gửi trên thu nhập có trung vị 0,3 lần; 70% hộ trong mẫu sở hữu nhà.
 
-Kết quả đã trình bày ở sơ đồ. Tóm lại: giảm nửa độ lệch chuẩn tài sản nhà ròng trên thu nhập (tương đương giá nhà giảm khoảng 20%) đi kèm tiết kiệm tăng khoảng 0,35 điểm, và kênh này không đổi sau 2021. Người chưa có nhà tiết kiệm hơn chủ nhà 2,8 điểm; với họ, mỗi khi tiền gửi thấp hơn một năm thu nhập thì tiết kiệm cao hơn thêm 1,3 điểm so với chủ nhà. Sau 2021, phần lớn độ nhạy này biến mất — phù hợp với việc người chưa có nhà hoãn mua.
+**Kết quả kênh của cải.** Hệ số của tài sản nhà ròng trên thu nhập là −0,020\*\*\*: tài sản nhà càng lớn so với thu nhập thì tiết kiệm càng thấp. Bài quy đổi: giảm nửa độ lệch chuẩn tài sản nhà ròng trên thu nhập, tương đương giá nhà giảm khoảng 20% (−20%), đi kèm tiết kiệm tăng khoảng 0,35 điểm. Tương tác với giai đoạn sau 2021 là +0,010 và không có ý nghĩa, tức kênh này **không đổi**: vẫn nguyên sức mạnh.
+
+**Kết quả kênh tiền trả trước.** Người chưa có nhà tiết kiệm nhiều hơn chủ nhà 2,78 điểm\*\*\* (khoảng 2,8 điểm, biên mở rộng). Với họ, mỗi khi tỷ lệ tiền gửi trên thu nhập thấp hơn 1 đơn vị (tức tiền gửi ít hơn một năm thu nhập), tiết kiệm cao hơn thêm 1,28 điểm\*\*\* (khoảng 1,3 điểm) so với chủ nhà (biên chiều sâu). Sau 2021, hệ số tương tác +1,06\* bù phần lớn hệ số −1,44 của độ nhạy theo tiền gửi, nên kênh này **đã yếu hẳn**.
+
+**Đọc chung.** Khi nhà mất giá, chủ nhà thắt lưng buộc bụng vì kênh của cải vẫn chạy. Còn người chưa có nhà không nới chi tiêu ra như lẽ ra họ có thể làm khi khoản trả trước nhỏ đi, vì họ không còn định mua nhà nữa. Hai kênh không còn bù nhau: khi thị trường nhà sụt, chỉ còn lực đẩy tiết kiệm lên.
 
 ### 11. Kết luận và khuyến nghị
 
-Bài đặt kết luận trong khuôn khổ Báo cáo tham vấn Điều IV năm 2024 về Trung Quốc, với ba ưu tiên:
+Bài đặt kết luận trong khuôn khổ Báo cáo tham vấn Điều IV năm 2024 về Trung Quốc (đợt đánh giá kinh tế định kỳ của IMF với từng nước thành viên), với ba ưu tiên:
 
-- **Tăng chi xã hội tiến dần tới mức các nước cùng nhóm, ưu tiên nhắm vào hộ nông thôn** — vì ngân sách địa phương đã căng, mỗi đồng phải đặt vào nơi phản ứng mạnh nhất.
-- **Tiếp tục cải cách hộ khẩu ở các thành phố trên 3 triệu dân**: nới đăng ký và cung cấp phúc lợi công bằng bất kể hộ khẩu. Bài thừa nhận cải cách sẽ vấp phản đối vì lo ngại năng lực cung cấp dịch vụ của thành phố lớn và vì người nhập cư có thể mất quyền lợi gắn với hộ khẩu nông thôn (quyền sử dụng đất, cổ tức tập thể).
-- **Giúp thị trường nhà ở chuyển đổi hiệu quả và ít tốn kém hơn**, vì kênh của cải vẫn mạnh và đó là cách chạm tới tiết kiệm của nhóm thu nhập cao.
+- **Tăng chi xã hội tiến dần tới mức các nước cùng nhóm, ưu tiên nhắm vào hộ nông thôn.** Ngân sách địa phương đã căng, nên mỗi đồng phải đặt vào nơi hộ gia đình phản ứng mạnh nhất. Kịch bản nhắm đích ở mục 5 cho thấy hiệu quả trên mỗi đồng cao gấp khoảng 2,25 lần.
+- **Tiếp tục cải cách hộ khẩu ở các thành phố trên 3 triệu dân**, nơi khoảng một nửa dân số sống: nới đăng ký và cung cấp phúc lợi công bằng bất kể hộ khẩu. Bài thừa nhận cải cách sẽ vấp phản đối, vì lo ngại năng lực cung cấp dịch vụ của thành phố lớn, và vì người nhập cư có thể mất quyền lợi gắn với hộ khẩu nông thôn (quyền sử dụng đất, cổ tức tập thể).
+- **Giúp thị trường nhà ở chuyển đổi hiệu quả và ít tốn kém hơn**, vì kênh của cải vẫn mạnh, và đó là cách chạm tới tiết kiệm của nhóm thu nhập cao vốn sở hữu nhiều nhà.
 
 ### 12. Ý nghĩa với Việt Nam
 
-**Việt Nam từng có chế độ hộ khẩu cùng nguồn gốc**, và đã bỏ sổ hộ khẩu giấy từ đầu năm 2023 theo Luật Cư trú 2020, chuyển sang quản lý cư trú bằng cơ sở dữ liệu. Bài học từ Trung Quốc là **bỏ tờ giấy chưa đủ**: cái tạo ra tiết kiệm phòng thân là khoảng cách trong **quyền tiếp cận phúc lợi** — trường công cho con, bảo hiểm y tế đúng tuyến, lương hưu — giữa người đăng ký thường trú và người tạm trú. Chỉ số cần theo dõi không phải là còn sổ hay không mà là người lao động nhập cư ở Hà Nội và TP.HCM có được hưởng dịch vụ công như người sở tại hay chưa.
+**Việt Nam từng có chế độ hộ khẩu cùng nguồn gốc**, và đã bỏ sổ hộ khẩu giấy từ đầu năm 2023 theo Luật Cư trú 2020, chuyển sang quản lý cư trú bằng cơ sở dữ liệu. Bài học từ Trung Quốc là **bỏ tờ giấy chưa đủ**. Cái tạo ra tiết kiệm phòng thân là khoảng cách trong **quyền tiếp cận phúc lợi** giữa người đăng ký thường trú và người tạm trú: trường công cho con, bảo hiểm y tế đúng tuyến, lương hưu. Chỉ số cần theo dõi không phải là còn sổ hay không, mà là người lao động nhập cư ở Hà Nội và TP.HCM có được hưởng dịch vụ công như người sở tại hay chưa.
 
-**Chi y tế cho nông thôn có hiệu quả kinh tế vĩ mô, không chỉ là chính sách xã hội.** Nếu cơ chế ở Việt Nam tương tự, mỗi đồng chi thêm cho bảo hiểm y tế và y tế cơ sở ở vùng nông thôn vừa giảm rủi ro cho hộ gia đình vừa giải phóng một phần tiết kiệm phòng thân thành tiêu dùng.
+**Chi y tế cho nông thôn có hiệu quả kinh tế vĩ mô, không chỉ là chính sách xã hội.** Nếu cơ chế ở Việt Nam tương tự Trung Quốc, mỗi đồng chi thêm cho bảo hiểm y tế và y tế cơ sở ở vùng nông thôn vừa giảm rủi ro cho hộ gia đình, vừa giải phóng một phần tiết kiệm phòng thân thành tiêu dùng.
 
-**Bài học về kênh của cải của nhà đất** áp dụng thẳng cho một nền kinh tế có tỷ lệ sở hữu nhà cao và tài sản hộ gia đình tập trung vào bất động sản: khi giá nhà điều chỉnh, lực kéo tiêu dùng xuống từ chủ nhà có thể không được bù lại bởi người chưa có nhà, vì họ phản ứng bằng cách chờ đợi chứ không phải bằng cách chi tiêu.
+**Bài học về kênh của cải của nhà đất** áp dụng thẳng cho một nền kinh tế có tỷ lệ sở hữu nhà cao và tài sản hộ gia đình tập trung vào bất động sản. Khi giá nhà điều chỉnh, lực kéo tiêu dùng xuống từ chủ nhà có thể không được bù lại bởi người chưa có nhà, vì họ phản ứng bằng cách chờ đợi chứ không phải bằng cách chi tiêu.
 
 ## Thuật ngữ
 

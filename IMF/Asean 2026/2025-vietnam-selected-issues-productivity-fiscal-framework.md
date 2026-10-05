@@ -535,76 +535,308 @@
 
 3. **Việt Nam có đủ dư địa tài khoá cho kế hoạch hạ tầng không?** Có, đến 2030, nếu đặt một trần nợ thận trọng khoảng 50% GDP thay cho 60%. Nợ khi đó vẫn có 75% khả năng nằm dưới trần. Nhưng từ sau 2030, muốn duy trì đầu tư cao thì phải cắt thâm hụt cơ bản đi một nửa, hoặc tăng thu, hoặc tăng trưởng tiềm năng phải cao hơn. Trần thấp hơn là cần thiết vì thị trường trái phiếu Chính phủ còn nhỏ, Việt Nam ít kinh nghiệm vay bằng ngoại tệ, và chênh lệch lợi suất từng tăng vọt trong đại dịch dù nợ thấp.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Năng suất các nhân tố tổng hợp (total factor productivity, TFP).** Phần sản lượng không giải thích được bằng việc dùng thêm lao động và vốn, tức phần đến từ việc dùng chúng hiệu quả hơn: công nghệ tốt hơn, tổ chức tốt hơn, nguồn lực chảy vào doanh nghiệp giỏi hơn. Phép hạch toán tăng trưởng chia tăng trưởng GDP thành ba phần: đóng góp của lao động, của vốn và của TFP. Ví dụ minh hoạ: nếu GDP tăng 6%, trong đó tăng lao động đóng góp 2 điểm và tăng vốn đóng góp 4,5 điểm, thì TFP đóng góp −0,5 điểm. Điều này quan trọng vì theo bài, trung bình hai thập kỷ qua TFP của Việt Nam đóng góp âm: toàn bộ tăng trưởng đến từ việc đổ thêm lao động và vốn, mà lao động sắp thành lực cản khi dân số già đi.
+
+**Năng suất lao động.** Sản lượng (hoặc giá trị gia tăng) trên mỗi lao động hay mỗi giờ làm. Nó khác TFP: năng suất lao động có thể tăng chỉ vì mỗi lao động được trang bị nhiều máy móc hơn, dù cách dùng tổng nguồn lực không hiệu quả hơn. Ví dụ từ bài: sản lượng mỗi giờ làm của Việt Nam tăng từ khoảng 5 lên khoảng 12 USD (sức mua tương đương năm 2021) trong 2005–2023, nhưng TFP của doanh nghiệp lại giảm từ 2015. Hai chỉ số đi ngược nhau là dấu hiệu tăng trưởng dựa vào tích luỹ vốn.
+
+**Làm việc dưới trình độ và thiếu trình độ (vertical mismatch).** So bằng cấp của người lao động với cấp bằng điển hình mà nghề của họ đòi hỏi. Bằng cấp cao hơn yêu cầu là làm dưới trình độ; thấp hơn là thiếu trình độ. Ví dụ: một người có bằng đại học làm nhân viên văn phòng (nghề thuộc nhóm trung bình, thường chỉ cần trung học) là làm dưới trình độ. Năm 2022, 18% người lao động Việt Nam làm dưới trình độ. Cách đo này chỉ dựa trên bằng cấp, không đo kỹ năng thực tế.
+
+**Điểm log và phần trăm.** Nhiều hồi quy trong bài lấy lô-ga-rít của biến phụ thuộc. Khi đó hệ số b là chênh lệch theo "điểm log", và phần trăm tương ứng là (e^b − 1). Với hệ số nhỏ hai cách gần bằng nhau, với hệ số lớn thì khác xa. Ví dụ từ bài: hệ số lương của bằng đại học là 0,430, tương ứng khoảng +54%, không phải +43%; hệ số 0,232 tương ứng khoảng +26%.
+
+**Năng suất doanh thu (TFPR) và phân bổ sai nguồn lực (misallocation).** Năng suất doanh thu là năng suất tính theo doanh thu chứ không theo số lượng sản phẩm. Theo lập luận của Hsieh và Klenow (2009), nếu thị trường không có sai lệch thì vốn và lao động chảy tới doanh nghiệp nào sinh lời cao hơn cho đến khi năng suất doanh thu của mọi doanh nghiệp bằng nhau. Vì vậy, độ phân tán của năng suất doanh thu giữa các doanh nghiệp đo mức độ nguồn lực bị phân bổ sai. Ví dụ minh hoạ: doanh nghiệp A sinh lời 30 đồng trên mỗi 100 đồng vốn nhưng không vay được, doanh nghiệp B chỉ sinh lời 10 đồng nhưng được vay rẻ; chuyển vốn từ B sang A làm tổng sản lượng tăng mà không cần thêm vốn. Ở Việt Nam, độ lệch chuẩn của log năng suất doanh thu tăng từ 0,70 (2015) lên 0,80 (2021–2022), và sai lệch chủ yếu nằm ở vốn.
+
+**Phần bù chi phí vay và chèn lấn (crowding out).** Phần bù chi phí vay là chi phí vay hiệu dụng của doanh nghiệp trừ lợi suất trái phiếu Chính phủ cùng kỳ hạn (bài dùng kỳ hạn 5 năm). Nó cho biết doanh nghiệp phải trả thêm bao nhiêu so với nhà nước. Chèn lấn xảy ra khi nhà nước vay nhiều làm tín dụng cho tư nhân khan hiếm và đắt hơn. Ví dụ từ bài: sau khi kiểm soát đặc điểm doanh nghiệp, phần bù của Việt Nam cao hơn Indonesia khoảng 9 điểm phần trăm.
+
+**Thâm hụt cơ bản (primary deficit).** Bội chi ngân sách không tính tiền trả lãi. Đây là phần thâm hụt do chính sách thu chi hiện tại tạo ra. Ví dụ minh hoạ: nếu tổng chi là 20% GDP, trong đó trả lãi 1,5% GDP, và thu là 17% GDP, thì bội chi tổng thể là 3% GDP còn thâm hụt cơ bản là 1,5% GDP. Bài dùng chỉ tiêu này để nói sau 2030 phải cắt thâm hụt cơ bản từ 5% xuống 2,5% GDP.
+
+**Trần nợ và mô phỏng ngẫu nhiên (stochastic simulation).** Trần nợ là mức nợ công tối đa mà quy tắc tài khoá cho phép. Cách hiệu chỉnh của IMF: chọn một ngưỡng nợ tối đa mà vượt qua thì dễ khủng hoảng, rồi mô phỏng hàng nghìn quỹ đạo nợ tương lai với các cú sốc ngẫu nhiên về tăng trưởng, lãi suất, tỷ giá, ngân sách. Trần là mức nợ khởi đầu sao cho 95% các quỹ đạo không vượt ngưỡng tối đa trong trung hạn. Khoảng cách giữa ngưỡng tối đa và trần là vùng đệm an toàn. Ví dụ từ bài: ngưỡng tối đa 60% GDP, cú sốc theo dự báo cơ sở cho trần khoảng 50% GDP, tức vùng đệm gần 10 điểm.
+
+## Nội dung chi tiết
 
 ### 1. Bối cảnh và chương trình nghiên cứu
 
-Việt Nam đạt thành tích tăng trưởng đáng kể trong hai thập kỷ, nhưng TFP đóng góp âm trung bình, và xu hướng nhân khẩu học sẽ đảo chiều. So với ASEAN-5, nhóm mới nổi G20 và OECD, Việt Nam có khoảng cách về quản trị, phát triển con người, quy định kinh doanh, khu vực đối ngoại và quy định thị trường lao động. Những khoảng cách này phản ánh sự kém hiệu quả của thị trường lao động, sản phẩm và vốn: thủ tục hành chính, phi chính thức hoá, và các điểm nghẽn quan liêu.
+Việt Nam đạt thành tích tăng trưởng đáng kể trong hai thập kỷ, nhờ mô hình dựa vào xuất khẩu. Nhưng nhìn vào nguồn tăng trưởng thì thấy vấn đề. Lao động đóng góp dương, vốn đóng góp dương, còn TFP đóng góp **âm** tính trung bình. Nghĩa là tăng trưởng đến hoàn toàn từ tích luỹ, không từ hiệu quả. Và xu hướng nhân khẩu học sẽ đảo chiều: khi dân số già đi, đóng góp của lao động cũng sẽ thành lực cản.
 
-Chính phủ đặt mục tiêu tăng trưởng hai con số trong 5 năm tới và thu nhập cao vào 2045, dựa vào ba trụ cột: tái cấu trúc bộ máy, coi kinh tế tư nhân là trung tâm, và đầu tư hạ tầng lớn. Tài liệu phân tích bốn mảng: năng suất lao động, TFP và phân bổ sai nguồn lực, tác động của đầu tư công và gói cải cách, và AI.
+So với ASEAN-5, nhóm mới nổi G20 và OECD, Việt Nam có khoảng cách cấu trúc về quản trị, phát triển con người, quy định kinh doanh, khu vực đối ngoại và quy định thị trường lao động. Những khoảng cách này phản ánh sự kém hiệu quả của thị trường lao động, sản phẩm và vốn: thủ tục hành chính, phi chính thức hoá và các điểm nghẽn quan liêu.
+
+Chính phủ đặt mục tiêu tăng trưởng hai con số trong 5 năm tới và thu nhập cao vào 2045. Chương trình cải cách đang triển khai dựa vào ba trụ cột: (1) tái cấu trúc bộ máy, tinh gọn và phân cấp quyết định; (2) coi kinh tế tư nhân là động lực trung tâm, theo Nghị quyết 68; (3) đầu tư hạ tầng quy mô lớn trong 2025–2035. Tài liệu phân tích bốn mảng: năng suất lao động, TFP và phân bổ sai nguồn lực, tác động của đầu tư công và gói cải cách, và AI. Chương 2 riêng về khuôn khổ tài khoá.
 
 ### 2. Năng suất lao động: sự thật cách điệu
 
-Năng suất lao động tăng nhanh nhưng Việt Nam chỉ hội tụ dần với khu vực. Lực lượng lao động trẻ và chi phí thấp từng là lợi thế, nhưng già hoá, chảy máu chất xám và cạnh tranh khu vực đang thu hẹp lợi thế này. Theo điều tra doanh nghiệp, năng suất lao động (giá trị gia tăng thực trên mỗi lao động) tăng nhanh hơn ở FDI và tư nhân trong 2014–2022. FDI ở khu vực không xuất khẩu, ít thâm dụng vốn hơn, dẫn đầu. Theo ngành, dịch vụ có năng suất lao động cao nhất; năng suất chế tạo giảm năm 2022.
+Năng suất lao động của Việt Nam tăng nhanh nhưng mới hội tụ dần với khu vực. Sản lượng mỗi giờ làm (USD theo sức mua tương đương năm 2021, xấp xỉ):
 
-Lương thực mỗi giờ tăng theo năng suất, phân phối dịch hẳn sang phải năm 2022. Bài giải thích bằng lý thuyết: khi không có sai lệch, doanh nghiệp trả lương bằng sản phẩm biên của lao động, nên lương cao phản ánh năng suất cao và cũng khuyến khích làm việc năng suất hơn. Số liệu đã trình bày ở sơ đồ.
+| Nước | 2005 | 2023 |
+|---|---|---|
+| Việt Nam | ~5 | ~12 |
+| Philippines | ~8 | ~12 |
+| Indonesia | ~9 | ~15 |
+| Thái Lan | ~11 | ~17 |
+| Malaysia | ~22 | ~29 |
+| Singapore | ~60 | ~100 |
+
+Việt Nam tăng hơn gấp đôi, nhanh nhất nhóm, nhưng đến 2023 mới bắt kịp Philippines. Lực lượng lao động trẻ và chi phí thấp từng là lợi thế, nhưng già hoá, chảy máu chất xám và cạnh tranh khu vực đang thu hẹp lợi thế này.
+
+Theo điều tra doanh nghiệp, năng suất lao động (giá trị gia tăng thực trên mỗi lao động) tăng nhanh hơn ở FDI và tư nhân trong 2014–2022. FDI ở khu vực không xuất khẩu, ít thâm dụng vốn hơn, dẫn đầu: năng suất tăng từ khoảng 0,85 lên khoảng 1,4 đơn vị, trong khi tư nhân và doanh nghiệp nhà nước nằm trong khoảng 0,55–1,0. Theo ngành, dịch vụ có năng suất lao động cao nhất; năng suất chế tạo giảm năm 2022.
+
+**Tiền lương đi theo năng suất.** Phân phối lương thực mỗi giờ dịch sang phải từ 2018, rõ nhất năm 2022, tức người lao động được trả cao hơn khi năng suất cao hơn. Bài giải thích bằng lý thuyết: khi không có sai lệch, doanh nghiệp trả lương bằng sản phẩm biên của lao động (phần sản lượng một lao động thêm vào làm ra), nên lương cao phản ánh năng suất cao và cũng khuyến khích làm việc năng suất hơn. Có một điểm lệch: năm 2022, **doanh nghiệp nhà nước trả lương mỗi giờ cao nhất**, dù năng suất thấp hơn FDI.
+
+**Lợi ích của học vấn.** Người có bằng đại học được trả lương mỗi giờ cao hơn người tốt nghiệp trung học phổ thông khoảng 70%. Nhưng người tốt nghiệp trung học phổ thông chỉ được trả cao hơn người chưa hết tiểu học khoảng 18%. Nghĩa là học xong phổ thông gần như không được trả thêm; chỉ bằng đại học mới tạo khác biệt lớn.
+
+**Khác biệt vùng miền.** Học vấn trung bình cao nhất ở miền Bắc, nhưng lương mỗi giờ cao nhất ở miền Nam, nơi tập trung khu công nghiệp và FDI. Đây là lệch kỹ năng theo địa lý: người có kỹ năng không ở nơi trả công cao cho kỹ năng.
 
 ### 3. Lệch trình độ và lệch kỹ năng
 
 Thị trường lao động gặp hai vấn đề cùng lúc.
 
-- **Thiếu người kỹ năng cao và kỹ năng nghề.** Dữ liệu vị trí tuyển dụng của Bộ Nội vụ (mẫu hạn chế) cho thấy vị trí cao đẳng, đại học thiếu người phù hợp, còn vị trí không cần bằng hay chỉ cần trung cấp thì thừa người.
-- **Lợi ích từ việc học lên thấp.** Người có trình độ cao làm trong khu vực xuất khẩu có xác suất làm việc dưới trình độ cao hơn hẳn.
+- **Thiếu người kỹ năng cao và kỹ năng nghề.** Dữ liệu vị trí tuyển dụng của Bộ Nội vụ (mẫu hạn chế) cho thấy vị trí cần bằng cao đẳng, đại học thiếu người phù hợp, còn vị trí không cần bằng hay chỉ cần trung cấp thì thừa người.
+- **Lợi ích từ việc học lên thấp**, và nhiều người có bằng lại làm việc không cần bằng đó. Người có trình độ cao làm trong khu vực xuất khẩu có xác suất làm việc dưới trình độ cao hơn hẳn.
 
-Bài đo lệch trình độ theo chiều dọc (theo Estevao và Tsounta 2011): so cấp học vấn với cấp yêu cầu điển hình của nghề. Bài thừa nhận cách đo này không bắt được lệch **kỹ năng thực tế**, tức kỹ năng người lao động có so với kỹ năng doanh nghiệp cần. Kết quả đã trình bày ở sơ đồ.
+**Cách đo.** Bài đo lệch trình độ theo chiều dọc (theo Estevao và Tsounta 2011): so cấp học vấn của người lao động với cấp yêu cầu điển hình của nghề họ làm. Cả nghề và học vấn được xếp vào ba cấp:
 
-Về khu vực: khu vực xuất khẩu chủ yếu là việc kỹ năng thấp nhưng trả lương cao hơn cho người kỹ năng cao; khu vực không xuất khẩu có nhiều việc kỹ năng cao nhưng trả thấp hơn. Điều này khớp với bằng chứng quốc tế: nền kinh tế càng mở thì phần thưởng cho kỹ năng trong khu vực xuất khẩu càng lớn (Burstein và Vogel 2017).
+| Cấp | Nghề nghiệp | Học vấn |
+|---|---|---|
+| Cao | Quản lý, chuyên môn, kỹ thuật viên | Cao đẳng, đại học |
+| Trung bình | Văn phòng, dịch vụ – bán hàng, thợ thủ công, vận hành máy | Trung học cơ sở, trung học phổ thông |
+| Thấp | Lao động giản đơn, nông lâm ngư nghiệp | Chưa đi học, chưa hết tiểu học, tiểu học |
 
-**Hồi quy xác suất làm dưới trình độ**: người trình độ cao có xác suất làm dưới trình độ cao hơn 21 điểm so với người trình độ thấp, và cao hơn thêm 27 điểm nếu làm trong khu vực xuất khẩu. Kết luận của bài: khu vực xuất khẩu không tạo đủ việc làm tương xứng với người có trình độ cao.
+Trình độ cao hơn yêu cầu công việc là làm dưới trình độ; thấp hơn là thiếu trình độ. Bài thừa nhận cách đo này chỉ dựa trên bằng cấp, không bắt được lệch **kỹ năng thực tế**, tức kỹ năng người lao động có so với kỹ năng doanh nghiệp cần.
 
-**Hồi quy tiền lương**: lợi ích của học vấn tăng dần theo cấp học, nhưng giảm ở mọi cấp khi thêm biến lệch trình độ. Làm dưới trình độ đi kèm mức lương cao hơn khoảng 9% (có lẽ vì năng suất cao hơn người đúng trình độ); thiếu trình độ bị trả thấp hơn khoảng 15%. Người trình độ trung bình và cao được lợi nhiều hơn khi làm trong khu vực xuất khẩu. Bài diễn giải: tăng trưởng dựa vào thương mại định hình thị trường lao động, và năng suất thấp ở khu vực không xuất khẩu khiến khu vực xuất khẩu hấp dẫn hơn, dù phải chấp nhận làm dưới trình độ.
+**Kết quả năm 2022.** 18% người lao động làm dưới trình độ, ở cả nhóm cao và trung bình, và tỷ lệ này đang tăng. 12% thiếu trình độ, chủ yếu ở nhóm thấp, và tỷ lệ này ổn định. Trong từng nhóm học vấn (trung bình 2018–2022):
+
+| Nhóm học vấn | Thiếu trình độ | Đúng trình độ | Dưới trình độ |
+|---|---|---|---|
+| Thấp | 47% | 53% | — |
+| Trung bình | 4% | 72% | 24% |
+| Cao | — | 73% | 26% |
+
+Trong 2018–2022, lệch trình độ giảm ở nghề kỹ thuật (y tế, công nghệ thông tin, khoa học), nhưng tăng ở nhân viên văn phòng (nhiều người có bằng đại học) và ở lao động giản đơn (nhiều người có bằng trung học phổ thông).
+
+**Cơ cấu theo khu vực (2018–2022).** Khu vực xuất khẩu chủ yếu dùng lao động giản đơn (khoảng 33%) và vận hành máy (khoảng 27%); chuyên môn cao chỉ khoảng 6%. Khu vực không xuất khẩu có chuyên môn cao khoảng 25% và dịch vụ – bán hàng khoảng 20%. Nhưng lương mỗi giờ của người có bằng đại học ở khu vực xuất khẩu lại cao hơn: khoảng 225 nghìn đồng so với khoảng 215 nghìn đồng. Tóm lại, khu vực xuất khẩu chủ yếu là việc kỹ năng thấp nhưng trả cao hơn cho người kỹ năng cao; khu vực không xuất khẩu có nhiều việc kỹ năng cao nhưng trả thấp hơn. Điều này khớp với bằng chứng quốc tế: nền kinh tế càng mở thì phần thưởng cho kỹ năng trong khu vực xuất khẩu càng lớn (Burstein và Vogel 2017).
+
+**Hồi quy xác suất làm dưới trình độ.** Bài dùng mô hình xác suất tuyến tính (hệ số đọc trực tiếp là thay đổi xác suất) với 49.253 quan sát, kiểm soát tuổi, giới, tỉnh, năm:
+
+| Biến | Cơ sở | Kiểm định độ vững |
+|---|---|---|
+| Trình độ cao | +0,213\*\*\* | +0,162\*\*\* |
+| Trình độ trung bình | +0,241\*\*\* | +0,200\*\*\* |
+| Khu vực xuất khẩu | +0,004 | +0,003\*\* |
+| Cao × xuất khẩu | +0,273\*\*\* | +0,132\*\*\* (giảm một nửa) |
+| Trung bình × xuất khẩu | +0,037 | +0,059\*\*\* (trở nên có ý nghĩa) |
+| Nữ | −0,037\*\*\* | −0,020\*\*\* |
+
+Theo đặc tả cơ sở, người trình độ cao có xác suất làm dưới trình độ cao hơn khoảng 21 điểm phần trăm so với người trình độ thấp, và cao hơn thêm 27 điểm nếu làm trong khu vực xuất khẩu. Kết luận của bài: khu vực xuất khẩu không tạo đủ việc làm tương xứng với người có trình độ cao. Cần lưu ý rằng ở kiểm định độ vững, hệ số tương tác của nhóm cao giảm còn một nửa, và nhóm trung bình cũng trở nên có ý nghĩa.
+
+**Hồi quy tiền lương** (biến phụ thuộc là log lương thực mỗi giờ; phần trăm quy đổi xấp xỉ):
+
+| Biến | Không kiểm soát lệch trình độ | Có kiểm soát lệch trình độ |
+|---|---|---|
+| Đại học | 0,430 (~+54%) | 0,232 (~+26%) |
+| Cao đẳng | 0,323 | 0,126 |
+| Trung học phổ thông | 0,302 | 0,191 |
+| Làm dưới trình độ | | +0,088 (~+9%) |
+| Thiếu trình độ | | −0,166 (~−15%) |
+| Nữ | −0,230 (~−21%) | −0,230 |
+
+Lợi ích của học vấn tăng dần theo cấp học, nhưng giảm ở mọi cấp khi đưa biến lệch trình độ vào. Với bằng đại học, hệ số giảm gần một nửa: gần một nửa lợi ích của bằng đại học đến từ việc người có bằng làm ở vị trí dưới trình độ nhưng vẫn được trả cao hơn đồng nghiệp. Làm dưới trình độ đi kèm lương cao hơn khoảng 9% (có lẽ vì năng suất cao hơn người đúng trình độ); thiếu trình độ bị trả thấp hơn khoảng 15%. Phụ nữ bị trả thấp hơn khoảng 21% ở cả hai đặc tả.
+
+**Khu vực xuất khẩu trả cho ai.** Hồi quy theo nhóm kỹ năng cho hệ số khu vực xuất khẩu −0,073, tương tác trung bình × xuất khẩu +0,100 và cao × xuất khẩu +0,070. Cộng lại, tác động ròng của việc làm ở khu vực xuất khẩu: nhóm trung bình được trả cao hơn khoảng 2,7%, nhóm cao gần như bằng 0, nhóm thấp bị trả thấp hơn khoảng 7%. Bài diễn giải: tăng trưởng dựa vào thương mại định hình thị trường lao động, và năng suất thấp ở khu vực không xuất khẩu khiến khu vực xuất khẩu hấp dẫn hơn với người có trình độ, dù phải chấp nhận làm dưới trình độ.
 
 ### 4. Cơ hội và rủi ro từ AI cho người lao động
 
-Bài dùng chỉ số mức độ tiếp xúc với AI của IMF (2024), gắn cho 424 nghề trong điều tra lao động. Chỉ số này phân biệt nghề mà AI **bổ trợ**, giúp con người làm tốt hơn, với nghề mà AI có thể **thay thế**. Nghề được AI bổ trợ nhiều nhất tập trung ở nhóm chuyên môn cao và thợ thủ công – thương mại. Nghề dễ bị thay thế nhất là dịch vụ – bán hàng và nhân viên văn phòng, nơi phụ nữ và lao động phi chính thức chiếm tỷ trọng lớn. Vì khu vực phi chính thức đang đóng vai trò lưới an sinh ngầm, AI có thể làm thủng lưới này. Bài vì vậy khuyến nghị chính sách khuyến khích chính thức hoá, phát triển kỹ năng và củng cố lưới an sinh.
+Bài dùng chỉ số mức độ tiếp xúc với AI của IMF (2024), gắn cho 424 nghề trong điều tra lao động. Chỉ số này đo hai thứ: mức độ công việc tiếp xúc với AI, và trong số nghề tiếp xúc nhiều thì AI **bổ trợ** (giúp con người làm tốt hơn) hay có thể **thay thế** con người. Kết quả chia nghề thành ba nhóm:
+
+| Nhóm | Nghề tiêu biểu | Ý nghĩa |
+|---|---|---|
+| Tiếp xúc cao, bổ trợ cao | Chuyên môn cao, thợ thủ công – thương mại | AI giúp người làm tốt hơn |
+| Tiếp xúc cao, bổ trợ thấp | Dịch vụ – bán hàng, nhân viên văn phòng | AI có thể thay người; nhóm này tập trung phụ nữ và lao động phi chính thức |
+| Tiếp xúc thấp | Lao động giản đơn, nông nghiệp, vận hành máy | Ít bị ảnh hưởng trực tiếp |
+
+Điểm đáng lo là khu vực phi chính thức đang đóng vai trò "lưới an sinh ngầm": nơi người lao động bám vào khi cần thêm thu nhập. AI đe doạ đúng lưới này. Ngay cả tiếng Anh cũng là một rào cản để người lao động Việt Nam tận dụng công cụ AI. Bài vì vậy khuyến nghị chính sách khuyến khích chính thức hoá, phát triển kỹ năng và củng cố lưới an sinh.
 
 ### 5. Kinh nghiệm quốc tế về nâng năng suất lao động
 
-Toàn bộ các biện pháp đã trình bày ở sơ đồ. Bài nhấn mạnh chiến lược phải **đúng thứ tự**: bắt đầu từ dữ liệu, rồi mới đến đào tạo và chất lượng đại học. Muốn lên cao trong chuỗi giá trị toàn cầu, Việt Nam phải chuyển từ lắp ráp thâm dụng lao động sang hoạt động giá trị cao dựa trên kỹ năng và công nghệ. Bổ sung một số điểm:
+Bài nhấn mạnh chiến lược phải **đúng thứ tự**: (1) dữ liệu, (2) kỹ năng chuyển đổi và đào tạo tại chỗ, (3) học tập suốt đời, (4) liên kết doanh nghiệp – trường, (5) dần nâng chất lượng đại học. Bắt đầu từ dữ liệu vì không biết thị trường thiếu kỹ năng gì thì không đào tạo đúng được. Muốn lên cao trong chuỗi giá trị toàn cầu, Việt Nam phải chuyển từ lắp ráp thâm dụng lao động sang hoạt động giá trị cao dựa trên kỹ năng và công nghệ.
 
-- **Giáo dục nghề** hiện cho lợi ích thấp, một phần do lệch kỹ năng; lương thấp ở trường công khiến khó tuyển giảng viên giỏi, nhất là khoa học – công nghệ.
-- **Học phí đại học chiếm tỷ trọng cao** làm giảm tỷ lệ theo học. Nên tăng chi công, chia sẻ chi phí với tư nhân và dùng học bổng có mục tiêu, như Hàn Quốc, Đức, Singapore, Đài Loan (Trung Quốc), Nhật Bản.
-- **Hạ tầng và chuỗi cung ứng trong nước**: việc làm kỹ năng tập trung ở đô thị và khu công nghiệp, nơi chi phí cao và cạnh tranh gay gắt khiến khó giữ người. Đầu tư hạ tầng và ưu đãi cho vùng kém phát triển có thể đưa sản xuất công nghệ cao ra khỏi các đô thị lớn và tạo sân chơi bình đẳng giữa FDI và doanh nghiệp trong nước trong tuyển nhân tài. Bài cũng cảnh báo công cụ giảm chênh lệch vùng phải dùng thận trọng để tránh méo thị trường.
+Mười ba biện pháp lấy từ kinh nghiệm quốc tế:
+
+| Biện pháp | Ví dụ |
+|---|---|
+| Dữ liệu thị trường lao động công khai, liên tục | Malaysia (Upskill Malaysia) |
+| Tư vấn nghề, giới thiệu việc làm tại trường | Hàn Quốc (University Job Plus Center) |
+| Cơ sở dữ liệu quốc gia về kỹ năng, khoá đào tạo, nguồn tài trợ | Malaysia |
+| Kênh phối hợp nhà nước – trường – doanh nghiệp | Hàn Quốc |
+| Chẩn đoán kỹ năng, đặt mục tiêu | OECD; đánh giá của ILO và Ngân hàng Thế giới |
+| Chiến lược nâng kỹ năng dài hạn (già hoá, chuyển dịch xanh) | Singapore (SkillsFuture) |
+| Doanh nghiệp cùng thiết kế chương trình, thực tập | Hàn Quốc (Job Training Program) |
+| Đào tạo kép trường – doanh nghiệp | Đức |
+| Chính sách thị trường lao động chủ động: ưu đãi thuế, đồng tài trợ đào tạo | Singapore, Đức, Malaysia (Quỹ Phát triển Nhân lực) |
+| Tài khoản học tập cá nhân | Pháp, Singapore, Hàn Quốc |
+| Trợ cấp đào tạo cho người thu nhập thấp, phụ nữ, người khuyết tật | Indonesia (Kartu Prakerja), Singapore (Workfare) |
+| Kỹ năng số, AI, kinh tế xanh qua nền tảng học trực tuyến | Malaysia (hợp tác Coursera), Indonesia (Digital Talent) |
+| Tiếng Anh từ sớm, tuyển giáo viên song ngữ qua nền tảng trực tuyến | Đài Loan (Trung Quốc) |
+
+Ngoài ra, bài đề xuất tập trung vào bán dẫn và khoa học – công nghệ – đổi mới sáng tạo, và bổ sung một số điểm:
+
+- **Giáo dục nghề** hiện cho lợi ích thấp, một phần do lệch kỹ năng. Lương thấp ở trường công khiến khó tuyển giảng viên giỏi, nhất là khoa học – công nghệ; vì vậy nên nâng lương giáo viên dạy nghề.
+- **Học phí đại học chiếm tỷ trọng cao** trong nguồn thu của trường, làm giảm tỷ lệ theo học. Nên giảm phụ thuộc học phí bằng cách tăng chi công, chia sẻ chi phí với tư nhân và dùng học bổng có mục tiêu, như Hàn Quốc, Đức, Singapore, Đài Loan (Trung Quốc), Nhật Bản.
+- **Chính sách FDI** nên đưa đào tạo và tuyển người địa phương vào điều kiện ưu đãi; ví dụ Hàn Quốc trợ cấp việc làm và đào tạo cho FDI công nghệ cao.
+- **Hạ tầng và chuỗi cung ứng trong nước.** Việc làm kỹ năng tập trung ở đô thị và khu công nghiệp, nơi chi phí cao và cạnh tranh gay gắt khiến khó giữ người. Đầu tư hạ tầng và ưu đãi cho vùng kém phát triển có thể đưa sản xuất công nghệ cao ra khỏi các đô thị lớn và tạo sân chơi bình đẳng giữa FDI và doanh nghiệp trong nước trong tuyển nhân tài. Bài cũng cảnh báo công cụ giảm chênh lệch vùng phải dùng thận trọng để tránh méo thị trường.
 
 ### 6. TFP: xu hướng và phân rã
 
-Bài ước lượng TFP theo doanh thu ở cấp doanh nghiệp theo phương pháp của Ackerberg, Caves và Frazer, từ hai nguồn dữ liệu. Điều tra doanh nghiệp của Cục Thống kê gần như bao trùm toàn bộ doanh nghiệp. Dữ liệu Orbis có khoảng 220.000 doanh nghiệp Việt Nam nhưng so sánh được với các nước khác. Cả hai cho cùng kết luận: TFP tổng giảm trong 2015–2022 dù năng suất lao động tăng, và chậm hơn các nước trong khu vực. Hàm ý: thâm dụng vốn giúp lao động năng suất hơn, nhưng không đủ để nâng TFP khi còn các điểm nghẽn khác — hiệu quả phân bổ, sai lệch tín dụng, thủ tục hành chính. Nếu gỡ được các điểm nghẽn này, năng suất lao động còn có thể cao hơn nữa.
+Bài ước lượng TFP theo doanh thu ở cấp doanh nghiệp theo phương pháp của Ackerberg, Caves và Frazer, từ hai nguồn dữ liệu. Điều tra doanh nghiệp của Cục Thống kê gần như bao trùm toàn bộ doanh nghiệp. Dữ liệu Orbis có khoảng 220.000 doanh nghiệp Việt Nam, ít hơn nhưng so sánh được với các nước khác.
 
-**Khu vực FDI** ngày càng chiếm ưu thế và năng suất cao hơn trong hầu hết các ngành, nhưng lan toả sang doanh nghiệp trong nước còn hạn chế. Hệ quả là khoảng cách về ứng dụng công nghệ, đổi mới và năng động kinh doanh, phân cực kỹ năng giữa các khu vực, và một nền kinh tế hai tầng. Một rào cản là doanh nghiệp nhỏ và vừa trong nước khó tiếp cận tín dụng và vay đắt hơn.
+**So sánh khu vực** (TFP trung vị của doanh nghiệp, chỉ số log, 2014 = 100, dữ liệu Orbis):
 
-**Phân rã theo Melitz và Polanec** tách thay đổi TFP thành bốn phần: công nghệ trong doanh nghiệp, phân bổ lại thị phần giữa doanh nghiệp hiện hữu, doanh nghiệp mới vào và doanh nghiệp rút ra. Kết quả đã trình bày ở sơ đồ.
+| Nước | 2016 | 2018 | 2020 | 2022 |
+|---|---|---|---|---|
+| Việt Nam | ~97 | ~96 | ~95 | ~96 |
+| Trung Quốc | ~96 | ~103 | ~110 | ~118 |
+| Ấn Độ | ~101 | ~103 | ~107 | ~106 |
+| Malaysia | ~101 | ~102 | ~106 | ~106 |
+| Thái Lan | ~101 | ~102 | ~100 | ~101 |
+
+Việt Nam là nước duy nhất trong nhóm có TFP đi xuống so với 2014.
+
+**Điều tra doanh nghiệp** cho cùng kết luận: TFP tính theo doanh thu giảm từ khoảng 0,22 (2015) xuống khoảng 0,19 (2020), rồi khoảng 0,20 (2022), trong khi năng suất lao động tăng liên tục. Hàm ý: vốn giúp mỗi lao động làm ra nhiều hơn, nhưng doanh nghiệp không dùng tổng nguồn lực hiệu quả hơn. Thâm dụng vốn không đủ để nâng TFP khi còn các điểm nghẽn khác: hiệu quả phân bổ, sai lệch tín dụng, thủ tục hành chính. Nếu gỡ được các điểm nghẽn này, năng suất lao động còn có thể cao hơn nữa.
+
+**Phân phối TFP** giữa các doanh nghiệp dịch sang trái từ 2017, chạm đáy năm 2020, đã hồi lại nhưng chưa về mức 2016–2017. Đuôi trái (doanh nghiệp kém) dày, còn đuôi phải (doanh nghiệp giỏi) mỏng đi năm 2022.
+
+**Khu vực FDI ngày càng chiếm ưu thế** (tỷ trọng trong toàn bộ doanh nghiệp):
+
+| Chỉ tiêu | 2014 | 2022 |
+|---|---|---|
+| Giá trị gia tăng thực | ~38% | ~53% (vượt khu vực trong nước từ 2021) |
+| Việc làm | ~28% | ~36% |
+| Quỹ lương | ~32% | ~53% |
+| Xuất khẩu | | >70% |
+
+FDI có năng suất cao hơn trong hầu hết các ngành, rõ nhất ở vận tải – kho bãi, xây dựng, khoa học – công nghệ; ở chế tạo thì ngang nhau. FDI cũng trả lương mỗi giờ cao hơn. Nhưng lan toả sang doanh nghiệp trong nước còn hạn chế. Hệ quả là khoảng cách về ứng dụng công nghệ, đổi mới và năng động kinh doanh, phân cực kỹ năng giữa các khu vực, và một nền kinh tế hai tầng. Một rào cản là doanh nghiệp nhỏ và vừa trong nước khó tiếp cận tín dụng và vay đắt hơn.
+
+**Phân rã sự thay đổi TFP 2016–2022.** Bài dùng phương pháp Olley–Pakes động của Melitz và Polanec, tách tổng thay đổi TFP thành bốn phần: (1) công nghệ trong doanh nghiệp, tức TFP của chính các doanh nghiệp hiện hữu thay đổi; (2) phân bổ lại thị phần giữa các doanh nghiệp hiện hữu; (3) doanh nghiệp mới vào; (4) doanh nghiệp rút ra. Kết quả (phần trăm thay đổi, xấp xỉ):
+
+| Nhóm | Tổng | Công nghệ | Phân bổ | Vào | Ra |
+|---|---|---|---|---|---|
+| Tất cả | −1,5 | −6 | +2,5 | +1 | ~0 |
+| FDI | ~0 | ~0 | +1 | ~0 | ~0 |
+| Trong nước | −2 | −7 | +2,5 | +1,5 | ~0 |
+| Nhà nước | +2,5 | −9 | +20 | −3,5 | −4 |
+| Tư nhân | −2 | −6 | +2 | +1,5 | ~0 |
+| Xuất khẩu | −2 | −4 | +2,5 | +1 | ~0 |
+| Không xuất khẩu | −2,5 | −8 | +2,5 | +3 | ~0 |
+
+Ba kết luận. Một, suy giảm TFP do **công nghệ của chính các doanh nghiệp hiện hữu** kém đi, rõ nhất ở doanh nghiệp trong nước, nhà nước và khu vực không xuất khẩu. Hai, doanh nghiệp vào và ra gần như không đóng vai trò: thiếu quá trình "phá huỷ sáng tạo", nơi doanh nghiệp kém bị thay bằng doanh nghiệp tốt hơn. Ba, khối doanh nghiệp nhà nước là trường hợp đặc biệt: công nghệ giảm mạnh nhất (−9%), nhưng thị phần dồn về những doanh nghiệp nhà nước có TFP cao (+20%), nên tổng TFP của khối vẫn tăng 2,5%.
 
 ### 7. Phân bổ sai nguồn lực và tín dụng
 
-Phép phân rã chỉ mô tả dữ liệu, không cho biết Việt Nam cách **biên hiệu quả** bao xa. Ví dụ: một doanh nghiệp năng suất cao nhưng nhỏ, bị giới hạn tiếp cận vốn, lớn dần. Phép phân rã ghi nhận một phần lợi ích từ phân bổ lại, nhưng bỏ qua phần lẽ ra đạt được nếu doanh nghiệp đó có đủ vốn để lớn nhanh hơn.
+Phép phân rã ở mục 6 chỉ mô tả dữ liệu, không cho biết Việt Nam cách **biên hiệu quả** bao xa. Ví dụ: một doanh nghiệp năng suất cao nhưng nhỏ, bị giới hạn tiếp cận vốn, lớn dần. Phép phân rã ghi nhận một phần lợi ích từ phân bổ lại, nhưng bỏ qua phần lẽ ra đạt được nếu doanh nghiệp đó có đủ vốn để lớn nhanh hơn.
 
-Bài dùng khung Hsieh–Klenow (có điều chỉnh của Chen và Irarrazabal). Trong một thị trường cạnh tranh hoàn hảo không có sai lệch, doanh nghiệp phân bổ vốn và lao động cho đến khi sản phẩm biên bằng nhau, nên năng suất doanh thu của mọi doanh nghiệp bằng nhau. Độ phân tán của năng suất doanh thu vì vậy đo mức sai lệch. Kết quả và các con số so sánh đã trình bày ở sơ đồ.
+**Khung phân tích.** Bài dùng khung Hsieh–Klenow (Hsieh và Klenow 2009, có điều chỉnh của Chen và Irarrazabal). Trong một thị trường cạnh tranh hoàn hảo không có sai lệch, doanh nghiệp phân bổ vốn và lao động cho đến khi sản phẩm biên bằng nhau, nên năng suất doanh thu (TFPR) của mọi doanh nghiệp bằng nhau. Sai lệch làm năng suất doanh thu khác nhau, và có hai loại:
 
-Sai lệch **vốn** chi phối: phương sai của nó cao hơn hẳn sai lệch sản lượng trong mọi năm. Văn liệu liên hệ loại sai lệch này với thiếu tài sản thế chấp, thị trường tài chính kém phát triển và chính sách tín dụng ưu đãi. Tín dụng có thể phân bổ sai theo nhiều cách: nhà nước vay nhiều chèn lấn tư nhân, hoặc một số ngành và loại doanh nghiệp dễ vay hơn. Nghiên cứu của IMF năm 2017 trên doanh nghiệp niêm yết đã thấy phân bổ tín dụng sai lệch giữa doanh nghiệp nhà nước và phần còn lại. Le (2022) thấy ưu đãi cho doanh nghiệp nhà nước, kể cả tín dụng ưu đãi, là nguồn chính của phân bổ sai vốn ở Việt Nam. Số liệu về chi phí vay đã trình bày ở sơ đồ.
+- **Sai lệch sản lượng (τʸ):** tác động lên vốn và lao động như nhau, ví dụ thuế hay trợ cấp phụ thuộc quy mô, chi phí vận chuyển.
+- **Sai lệch vốn (τᴷ):** làm méo lựa chọn giữa vốn và lao động, ví dụ ma sát tài chính khiến có doanh nghiệp vay đắt hơn doanh nghiệp khác.
+
+Năng suất doanh thu của doanh nghiệp i tỷ lệ với (1 + τᴷᵢ)^α / (1 − τʸᵢ), trong đó α là tỷ trọng vốn. Tổn thất TFP (tính bằng log) xấp xỉ bằng (σ/2) nhân với phương sai của log TFPR, với σ = 3 là độ co giãn thay thế giữa các sản phẩm. Như vậy độ phân tán năng suất doanh thu càng lớn thì tổn thất càng lớn.
+
+**Độ phân tán ở Việt Nam đang tăng.** Độ lệch chuẩn của log năng suất doanh thu là 0,70 năm 2015, khoảng 0,73 trong 2016–2019, và 0,80 trong 2021–2022. So sánh: Colombia khoảng 0,70 (2015–19), Ấn Độ 0,67, Trung Quốc 0,63 (2005), Mỹ 0,49 (2005, được dùng làm mốc "phân bổ tốt"). Việt Nam phân bổ kém hơn cả ba nền kinh tế mới nổi này.
+
+Theo ngành (độ lệch chuẩn năm 2015 → 2019 → 2022):
+
+| Ngành | 2015 | 2019 | 2022 |
+|---|---|---|---|
+| Nông nghiệp | 0,52 | 0,41 | 0,41 |
+| Chế tạo | 0,56 | 0,57 | 0,66 |
+| Thông tin – truyền thông | 0,77 | 0,68 | 0,67 |
+| Dịch vụ khác | 0,63 | 0,70 | 0,70 |
+| Xây dựng | 0,63 | 0,63 | 0,80 |
+| Thương mại – vận tải | 0,66 | 0,70 | 0,80 |
+| Bất động sản | 1,27 | 1,17 | 0,93 |
+
+Sai lệch tăng mạnh ở chế tạo, xây dựng và thương mại – vận tải; bất động sản giảm nhưng vẫn cao nhất.
+
+**Lợi ích nếu giảm sai lệch** (mức tăng TFP):
+
+- Kéo về mức Mỹ 2005: +61% TFP (theo cách tính của bài).
+- Kéo về mức Trung Quốc 2005: +37%.
+- Kéo về mức của chính Việt Nam năm 2015: hơn +20% (>+20%).
+- Xoá hết sai lệch trong từng ngành: hơn +50% (>+50%) với mẫu đã cắt đuôi phân phối; 100–145% nếu không cắt đuôi.
+
+**Sai lệch vốn chi phối.** Phương sai của sai lệch vốn khoảng 6–7, trong khi của sai lệch sản lượng dưới 1 (<1), và điều này đúng trong mọi năm. Vấn đề vì vậy chủ yếu nằm ở vốn và tín dụng. Văn liệu liên hệ loại sai lệch này với thiếu tài sản thế chấp, thị trường tài chính kém phát triển và chính sách tín dụng ưu đãi. Tín dụng có thể phân bổ sai theo nhiều cách: nhà nước vay nhiều chèn lấn tư nhân, hoặc một số ngành và loại doanh nghiệp dễ vay hơn. Nghiên cứu của IMF năm 2017 trên doanh nghiệp niêm yết đã thấy phân bổ tín dụng sai lệch giữa doanh nghiệp nhà nước và phần còn lại. Le (2022) thấy ưu đãi cho doanh nghiệp nhà nước, kể cả tín dụng ưu đãi, là nguồn chính của phân bổ sai vốn ở Việt Nam.
+
+**Phần bù chi phí vay so với khu vực** (chi phí vay hiệu dụng trừ lợi suất trái phiếu Chính phủ 5 năm, điểm phần trăm, dữ liệu Orbis):
+
+| Nước | 2017 | 2019 | 2020 | 2021 | 2022 |
+|---|---|---|---|---|---|
+| Việt Nam | ~0,7 | ~3,7 | ~5,2 | ~5,5 | ~4,5 |
+| Indonesia | ~2,7 | ~3,0 | ~3,1 | ~3,8 | ~1,1 |
+| Thái Lan | ~3,8 | ~3,9 | ~3,3 | ~2,6 | ~1,7 |
+| Philippines | ~0,6 | ~1,6 | ~2,9 | ~1,6 | ~−1,1 |
+| Malaysia | ~1,5 | ~1,8 | ~2,3 | ~1,7 | ~0 |
+
+Từ 2020, Việt Nam có phần bù cao nhất nhóm. Sau khi kiểm soát quy mô, thanh khoản, lợi nhuận và đòn bẩy của doanh nghiệp, phần bù của Việt Nam cao hơn Indonesia khoảng 9 điểm, Philippines khoảng 6, Malaysia khoảng 4 (đều có ý nghĩa thống kê); so với Thái Lan thì chênh khoảng 0 và không có ý nghĩa. Bài đọc đây là dấu hiệu nợ công chèn lấn tín dụng tư nhân.
+
+**Chi phí vay trong nước theo loại doanh nghiệp** (chi phí vay trung vị, tính bằng tiền lãi chia nợ phải trả năm trước):
+
+| Loại | 2019 | 2020 | 2021 | 2022 |
+|---|---|---|---|---|
+| Tư nhân | ~2,5% | ~2,8% | ~2,7% | ~2,8% |
+| Doanh nghiệp nhà nước | ~1,9% | ~2,0% | ~2,0% | ~1,75% |
+| FDI | ~1,5% | ~1,5% | ~1,5% | ~1,6% |
+
+Doanh nghiệp nhà nước vay rẻ hơn tư nhân hơn 50 điểm cơ bản (>50, tức hơn 0,5 điểm phần trăm). FDI vay rẻ nhất, nhờ vốn từ công ty mẹ và ưu đãi cho công nghệ cao. Lưu ý: mẫu số gồm cả nợ không chịu lãi (như khoản phải trả nhà cung cấp), nên mức tuyệt đối thấp và chỉ nên so sánh tương đối giữa các nhóm.
+
+**Nợ trên doanh thu theo ngành (2014 → 2022).** Xây dựng – bất động sản khoảng 63%, giảm xuống khoảng 42% năm 2018 rồi tăng lại khoảng 61%. Toàn ngành giảm từ khoảng 32% xuống khoảng 20%; chế tạo từ khoảng 27% xuống khoảng 17%; thương mại từ khoảng 25% xuống khoảng 10%. Tức là trong khi các ngành khác giảm đòn bẩy, tín dụng tiếp tục dồn vào xây dựng và bất động sản.
 
 Chú thích của bài thừa nhận: phân bổ sai tín dụng không nhất thiết là yếu tố duy nhất hay quan trọng nhất. Thuế, khuyến khích lệch lạc, độ cứng thị trường lao động, thủ tục hành chính, bất định chính sách đều có thể góp phần, và cần nghiên cứu thêm.
 
 ### 8. Đầu tư công và gói cải cách
 
-Kế hoạch sáu dự án lớn cần 185 tỷ USD, khoảng 40% GDP năm 2024, trong giai đoạn 2025–2035, tức chi thêm trung bình khoảng 4% GDP mỗi năm. Hai thách thức: bảo đảm đầu tư có chất lượng và nâng được tăng trưởng, và tài trợ mà không làm hỏng tài chính công.
+**Sáu dự án lớn 2025–2035** (tỷ USD):
 
-Bài dùng mô hình DIGNAR (Nợ, Đầu tư, Tăng trưởng và Tài nguyên, Melina và cộng sự 2016), một mô hình cân bằng tổng thể động có hai loại hộ gia đình (nghèo hơn và giàu hơn), hiệu chỉnh theo dự báo trung hạn của IMF. Các kịch bản và kết quả đã trình bày ở sơ đồ.
+| Dự án | Giai đoạn | Vốn |
+|---|---|---|
+| Đường sắt tốc độ cao Bắc – Nam | 2025–35 | 67 |
+| Metro TP.HCM, 7 tuyến | 2025–35 | 40 |
+| Metro Hà Nội, 300 km | 2025–35 | 37 |
+| Điện hạt nhân Ninh Thuận, 2 nhà máy | 2025–30 | 22 |
+| Sân bay Long Thành | 2025–35 | 11 |
+| Đường sắt Lào Cai – Hà Nội – Hải Phòng | 2025–30 | 8 |
+| **Tổng** | | **185** |
 
-Về bất bình đẳng: đầu tư hạ tầng có lợi hơn cho hộ nghèo vì cải thiện tiếp cận dịch vụ thiết yếu và cơ hội kinh tế, nên số nhân tiêu dùng của hộ nghèo lớn hơn. Cải cách tín dụng có lợi hơn cho doanh nghiệp nhỏ và vừa, gián tiếp có lợi cho hộ nghèo. Thu thuế hiệu quả hơn tác động nhiều hơn tới hộ giàu (chịu thuế suất biên cao hơn), trong khi hộ nghèo nhận chuyển giao xã hội nhiều hơn.
+Tổng 185 tỷ USD, khoảng 40% GDP năm 2024, tức chi thêm trung bình khoảng 4% GDP mỗi năm. Nhu cầu là có thật: chất lượng hạ tầng giao thông của Việt Nam dưới trung vị nước phát triển và gần trung vị nước mới nổi. Có hai thách thức: bảo đảm đầu tư có chất lượng và thực sự nâng được tăng trưởng, và tài trợ mà không làm hỏng tài chính công.
 
-**Cảnh báo của bài**: số nhân tăng trưởng lấy từ bằng chứng xuyên quốc gia, không phân biệt từng dự án. Kinh nghiệm quốc tế cho thấy đầu tư công ồ ạt thiếu chuẩn bị có thể không mang lại tăng trưởng mà chỉ gây sức ép lên tài chính công, và năng lực triển khai là thách thức với khối lượng dự án lớn như vậy. Năm khuyến nghị:
+**Mô hình.** Bài dùng mô hình DIGNAR (Nợ, Đầu tư, Tăng trưởng và Tài nguyên, Melina và cộng sự 2016), một mô hình cân bằng tổng thể động có hai loại hộ gia đình (nghèo hơn và giàu hơn), hiệu chỉnh theo dự báo trung hạn của IMF.
+
+**Sáu cải cách được mô phỏng:**
+
+| Cải cách | Giả định |
+|---|---|
+| Đẩy đầu tư công | Cao hơn cơ sở tổng cộng 11,5% GDP trong 2025–30; đỉnh 10,6% GDP năm 2028 so với mức cơ sở khoảng 8% |
+| Nâng hiệu quả đầu tư công | Từ 69% lên 84% (trung bình ASEAN-5) vào 2030 |
+| Đẩy nhanh cổ phần hoá doanh nghiệp nhà nước | Thu 0,5% GDP mỗi năm |
+| Tăng tham gia lao động | +0,5% mỗi năm |
+| Thu thuế hiệu quả hơn | Hiệu suất thu VAT từ 70% lên 85%; thuế thu nhập cá nhân từ 3,5% lên 5% |
+| Giảm sai lệch tín dụng | Đầu tư tư nhân lên 24% GDP (phân vị 75 của nước mới nổi châu Á) |
+
+**Tác động tăng trưởng** (điểm phần trăm so với cơ sở):
+
+- Đẩy đầu tư công: 0,2 năm 2025, lên đỉnh khoảng 0,8 trong 2027–28, rồi giảm còn khoảng 0,4 năm 2030.
+- Nâng hiệu quả đầu tư công: thêm tới khoảng 0,4.
+- Tăng tham gia lao động: khoảng 0,3 mỗi năm.
+- Cổ phần hoá và thu thuế: gần 0 (riêng thuế hơi âm).
+- **Cải cách tín dụng: tới khoảng 1, lớn nhất**, nhiều hơn cả đẩy đầu tư công.
+- **Cả gói:** 0,6 năm 2025, 1,5 năm 2027, 1,8 năm 2028, và hơn 2 (>2) trong 2029–30. Sản lượng thực năm 2030 cao hơn cơ sở 9%, tương đương khoảng 1,5% mỗi năm.
+
+**Nợ công năm 2030** (điểm phần trăm GDP so với cơ sở): nếu chỉ vay để đầu tư thì khoảng +9; thêm cổ phần hoá thì khoảng +7,5; thêm thu thuế tốt hơn thì khoảng +3,3; cả gói thì khoảng +2,8. Như vậy, các cải cách đi kèm giúp nợ chỉ tăng khoảng 3% GDP thay vì 9%.
+
+**Bất bình đẳng tiêu dùng** giảm 0,8% vào 2030, chủ yếu nhờ đầu tư công, cải cách tín dụng và thuế. Cơ chế: đầu tư hạ tầng có lợi hơn cho hộ nghèo vì cải thiện tiếp cận dịch vụ thiết yếu và cơ hội kinh tế, nên số nhân tiêu dùng của hộ nghèo lớn hơn. Cải cách tín dụng có lợi hơn cho doanh nghiệp nhỏ và vừa, gián tiếp có lợi cho hộ nghèo. Thu thuế hiệu quả hơn tác động nhiều hơn tới hộ giàu (chịu thuế suất biên cao hơn), trong khi hộ nghèo nhận chuyển giao xã hội nhiều hơn.
+
+**Cảnh báo của bài.** Số nhân tăng trưởng lấy từ bằng chứng xuyên quốc gia, không phân biệt từng dự án. Kinh nghiệm quốc tế cho thấy đầu tư công ồ ạt thiếu chuẩn bị có thể không mang lại tăng trưởng mà chỉ gây sức ép lên tài chính công, và năng lực triển khai là thách thức với khối lượng dự án lớn như vậy. Năm khuyến nghị:
+
 - Cải thiện quản lý đầu tư công: sàng lọc dự án minh bạch theo tiêu chí, thẩm định kinh tế – xã hội, phân tích chi phí – lợi ích, giám sát trong năm và đánh giá sau.
-- Ưu tiên dự án có ngoại ứng dương mạnh, như hành lang giao thông nối vùng tụt hậu vào chuỗi giá trị, năng lượng tái tạo và lưới điện.
+- Ưu tiên dự án có ngoại ứng dương mạnh (lợi ích lan sang bên ngoài dự án), như hành lang giao thông nối vùng tụt hậu vào chuỗi giá trị, năng lượng tái tạo và lưới điện.
 - Có kế hoạch hành động cụ thể, được truyền thông rõ ràng và dựa trên khung pháp lý khuyến khích tư nhân cùng đầu tư.
 - Tài trợ cân đối, gồm tăng thu trung hạn và quản lý nợ tốt hơn.
 - Quản lý rủi ro nợ tiềm tàng từ hợp tác công – tư và doanh nghiệp nhà nước: hợp đồng chuẩn hoá, đấu thầu cạnh tranh, chia sẻ rủi ro hợp lý.
@@ -613,11 +845,35 @@ Về bất bình đẳng: đầu tư hạ tầng có lợi hơn cho hộ nghèo 
 
 AI có thể thay đổi năng suất, đổi mới và bản chất công việc, và lịch sử các cuộc cách mạng công nghiệp cho thấy nước đi trước được lợi lớn. Nhưng việc ứng dụng AI đang không đều: nước có vốn nhiều, năng suất cao, lao động học vấn cao và hạ tầng công nghệ mạnh được lợi trước, và điều này có thể làm các nền kinh tế phân kỳ.
 
-Bài đặt mình giữa hai cực của văn liệu. Nhóm mô hình theo nhiệm vụ chỉ tập trung vào năng suất, với ước lượng từ thận trọng (Acemoglu 2025: tổng cộng +0,7% TFP trong 10 năm) đến lạc quan (Aghion và Bunel 2024: trung vị +0,68 điểm tăng trưởng TFP **mỗi năm** trong 10 năm). Nhóm mô hình tân cổ điển tính thêm thay đổi hàm sản xuất và dòng vốn; ví dụ Alonso và cộng sự (2022) ước lượng GDP đầu người dài hạn có thể tăng tới 40%. Mô hình của bài thuộc nhóm thứ hai và cho kết quả tương tự Alonso và cộng sự.
+**Vị trí trong văn liệu.** Bài đặt mình giữa hai nhóm mô hình. Nhóm mô hình theo nhiệm vụ chỉ tập trung vào năng suất, với ước lượng từ thận trọng (Acemoglu 2025: tổng cộng +0,7% TFP trong 10 năm) đến lạc quan (Aghion và Bunel 2024: trung vị +0,68 điểm tăng trưởng TFP **mỗi năm** trong 10 năm). Nhóm mô hình tân cổ điển tính thêm thay đổi hàm sản xuất và dòng vốn giữa các nước; ví dụ Alonso và cộng sự (2022) ước lượng GDP đầu người dài hạn có thể tăng tới 40%. Mô hình của bài thuộc nhóm thứ hai và cho kết quả tương tự Alonso và cộng sự.
 
-Kết quả đã trình bày ở sơ đồ. Bài lưu ý quyết định dùng AI trong mô hình là nhị phân ở cấp quốc gia; thực tế sẽ là quá trình dần dần, và một nước "chưa ứng dụng" trong mô hình vẫn có thể có những doanh nghiệp đã dùng AI ở quy mô nhỏ.
+**Mô hình.** Kinh tế mở nhỏ, các thế hệ gối nhau, và doanh nghiệp tự quyết định có dùng AI hay không (theo Benzell và cộng sự 2021). Doanh nghiệp dùng AI khi thay lao động bằng vốn và công nghệ có lời, điều này phụ thuộc chi phí vốn, năng suất, cơ cấu kỹ năng và thuế. Có ba kịch bản, theo đó tỷ trọng vốn trong sản xuất ở các nước dẫn đầu công nghệ tăng nhanh gấp 2, 5 hoặc 10 lần tốc độ lịch sử của Mỹ. Đến năm 2050, tỷ trọng vốn của Mỹ khi đó là 40%, 48% hoặc 62%, so với 37% nếu không có AI.
+
+**Chuỗi nhân quả khiến Việt Nam đến muộn:**
+
+1. Nước giàu ứng dụng AI ngay (Nhật Bản, Singapore; giả định từ 2025), làm cầu vốn thế giới tăng.
+2. Lãi suất thế giới tăng (kịch bản nhanh: từ khoảng 5% lên khoảng 7,5% vào 2045), thay vì giảm dần về khoảng 2% như kịch bản cơ sở.
+3. Vốn trở nên đắt hơn với nước đi sau.
+4. Việt Nam năng suất thấp, dựa vào lao động rẻ, ít lao động kỹ năng cao, nên chưa có lời khi dùng AI, và trì hoãn.
+
+Thời điểm Việt Nam ứng dụng AI theo mô hình: kịch bản chậm khoảng 2027, kịch bản vừa khoảng 2037, kịch bản nhanh khoảng 2039. Kịch bản nhanh đến muộn nhất, phù hợp với chuỗi nhân quả trên: AI lan nhanh ở nước giàu thì vốn càng đắt với nước đi sau.
+
+**Diễn biến trong kịch bản nhanh:**
+
+| Giai đoạn | Diễn biến |
+|---|---|
+| Trước khi ứng dụng | Tăng trưởng thấp hơn cơ sở tới 1 điểm (vốn đắt, tích luỹ chậm) |
+| Ngay sau khi ứng dụng | Tăng trưởng cao hơn tới 5 điểm (kịch bản vừa: 2 điểm); đầu tư vọt lên khoảng 55% GDP, vì "nhảy cóc" dùng ngay công nghệ tiên tiến nhất |
+| Dài hạn | Tăng trưởng cao hơn khoảng 2,8 điểm mỗi năm (kịch bản vừa: 1,5) |
+| GDP | Cao hơn cơ sở 50% vào 2050; gần 5 lần vào 2100 |
+| Tiền lương | Lao động kỹ năng cao vượt cơ sở ngay; trung bình và thấp thấp hơn cơ sở nhiều năm. Đến năm 2100, lương kỹ năng cao gấp khoảng 5,2 lần, trung bình khoảng 3,7, thấp khoảng 3,1 lần, nên bất bình đẳng tăng |
+
+**Kịch bản cải cách.** Nếu trong 10 năm Việt Nam nâng năng suất vốn thêm 50%, năng suất lao động kỹ năng cao thêm 50% và lao động trung bình – thấp thêm 25%, và tăng gấp đôi tỷ lệ lao động kỹ năng cao, thì AI được ứng dụng từ đầu thập niên 2030, sớm hơn trên 5 năm (>5). Tăng trưởng cao hơn thêm hơn 2 điểm (>2) trung bình trong 2025–2040, và khoảng 0,8 điểm trong dài hạn.
+
+Bài lưu ý quyết định dùng AI trong mô hình là nhị phân ở cấp quốc gia; thực tế sẽ là quá trình dần dần, và một nước "chưa ứng dụng" trong mô hình vẫn có thể có những doanh nghiệp đã dùng AI ở quy mô nhỏ.
 
 Rủi ro khác nằm ngoài phạm vi mô hình:
+
 - Thị trường tập trung theo kiểu "kẻ thắng lấy gần hết", làm giảm cạnh tranh.
 - Lỗ hổng vận hành và an ninh mạng khi phụ thuộc vào thuật toán.
 - Mô hình "hộp đen" gây khó cho giám sát an toàn, có thể mang thiên lệch ẩn vào phân bổ tín dụng và định giá rủi ro.
@@ -626,32 +882,67 @@ Rủi ro khác nằm ngoài phạm vi mô hình:
 ### 10. Kết luận chương 1
 
 Bài đưa ra bốn ưu tiên:
-- **Thị trường lao động**: làm theo chiến lược có thứ tự đã nêu.
-- **Năng động doanh nghiệp**: gỡ rào cản gia nhập, đổi mới và chính thức hoá; tạo thuận lợi cho doanh nghiệp kém rút lui.
-- **Phân bổ vốn**: tạo sân chơi bình đẳng, cải thiện tiếp cận tín dụng cho doanh nghiệp năng suất và doanh nghiệp trong nước, và bỏ dần chính sách tín dụng gây méo. Cụ thể là khuyến khích FDI xây chương trình chuỗi cung ứng địa phương và chuyển giao công nghệ, phát triển thị trường vốn, và **công bố định kỳ dữ liệu phân bổ tín dụng** theo ngành và loại doanh nghiệp để giám sát.
-- **AI**: đẩy nhanh cải cách vốn con người, kèm đào tạo lại cho lao động trung bình và thấp, củng cố lưới an sinh và chính sách thị trường lao động chủ động.
+
+- **Thị trường lao động:** làm theo chiến lược có thứ tự đã nêu ở mục 5, bắt đầu từ dữ liệu.
+- **Năng động doanh nghiệp:** gỡ rào cản gia nhập, đổi mới và chính thức hoá; tạo thuận lợi cho doanh nghiệp kém rút lui, để có lại quá trình phá huỷ sáng tạo đang thiếu.
+- **Phân bổ vốn:** tạo sân chơi bình đẳng, cải thiện tiếp cận tín dụng cho doanh nghiệp năng suất và doanh nghiệp trong nước, và bỏ dần chính sách tín dụng gây méo. Cụ thể là khuyến khích FDI xây chương trình chuỗi cung ứng địa phương và chuyển giao công nghệ, phát triển thị trường vốn, và **công bố định kỳ dữ liệu phân bổ tín dụng** theo ngành và loại doanh nghiệp để giám sát.
+- **AI:** đẩy nhanh cải cách vốn con người, kèm đào tạo lại cho lao động trung bình và thấp, củng cố lưới an sinh và chính sách thị trường lao động chủ động.
 
 ### 11. Chương 2: khuôn khổ tài khoá hiện hành
 
-Việt Nam có quy tắc tài khoá trong khuôn khổ tài khoá trung hạn từ 2016. Các quy tắc về thu và bội chi đặt năm 2021 cho giai đoạn 2021–2025; quy tắc nợ gắn với Luật Quản lý nợ công 2017. Về hình thức, các quy tắc đều được tuân thủ, nhưng chủ yếu vì dự toán thu rất thận trọng, và các quy tắc không thực sự ràng buộc khi lập ngân sách.
+Việt Nam có quy tắc tài khoá trong khuôn khổ tài khoá trung hạn từ 2016. Các quy tắc về thu và bội chi đặt năm 2021 cho giai đoạn 2021–2025; quy tắc nợ gắn với Luật Quản lý nợ công 2017. Cụ thể:
 
-Chú thích của bài giải thích vì sao bội chi theo cách tính của Việt Nam lớn hơn đáng kể so với chuẩn GFS: phần thu vượt dự toán được đưa vào chi chuyển nguồn sang năm sau. Ba điểm cần cải thiện đã trình bày ở sơ đồ.
+- Thu ngân sách ít nhất 16% GDP (2021–25).
+- Bội chi bình quân không quá 3,7% GDP (2021–25).
+- Nợ công không quá 60% GDP, với ngưỡng cảnh báo 55%; nợ Chính phủ không quá 50%.
+
+**Thực tế: đều tuân thủ, nhưng nhờ dự toán thu rất thận trọng.** Bội chi theo quyết toán là khoảng 2,5% GDP (2021), 3,1% (2022), 3,5% (2023). Theo chuẩn thống kê tài chính chính phủ quốc tế (GFS) thì còn thấp hơn: khoảng 1,4%, khoảng −0,7% (tức thặng dư) và khoảng 2,4%. Chú thích của bài giải thích vì sao bội chi theo cách tính của Việt Nam lớn hơn đáng kể so với chuẩn GFS: phần thu vượt dự toán được đưa vào chi chuyển nguồn sang năm sau. Nợ công giảm từ khoảng 48% GDP (2017) xuống khoảng 37% (2023); nợ Chính phủ từ khoảng 41% xuống khoảng 34%. Vì thực tế xa dưới trần, các quy tắc không thực sự ràng buộc khi lập ngân sách.
+
+**Ba điểm yếu:**
+
+1. **Trần nợ không còn là "mỏ neo".** Với nợ thực tế khoảng 37% GDP, trần 60% ngầm cho phép bội chi lớn hơn nhiều so với trần bội chi thực, nên nó không định hướng được ngân sách hằng năm.
+2. **Không theo dõi được theo thời gian thực:** dự toán thu thận trọng, không tính chi chuyển nguồn, dữ liệu yếu.
+3. **Sắp có áp lực chi lớn:** hạ tầng, già hoá, biến đổi khí hậu, cú sốc bên ngoài.
 
 ### 12. Hiệu chỉnh trần nợ
 
-Trần nợ là quy tắc phổ biến nhất ở châu Á. Nó cho một thước đo bền vững trung hạn và vẫn để chính sách linh hoạt trước chu kỳ kinh tế; các quy tắc vận hành về bội chi hoặc chi tiêu nên được đặt nhất quán với trần nợ. Phương pháp ba bước đã trình bày ở sơ đồ.
+Trần nợ là quy tắc tài khoá phổ biến nhất ở châu Á. Nó cho một thước đo bền vững trung hạn mà vẫn để chính sách linh hoạt trước chu kỳ kinh tế; các quy tắc vận hành về bội chi hoặc chi tiêu nên được đặt nhất quán với trần nợ.
 
-Hai khó khăn riêng của Việt Nam:
-- **Ngưỡng nợ tối đa khó xác định.** Việt Nam mới thành nước thu nhập trung bình thấp và vẫn đang hình thành thể chế của một nền kinh tế mới nổi. Chuẩn 70% của IMF không phù hợp vì thị trường trái phiếu Chính phủ kém phát triển và Việt Nam ít kinh nghiệm với nợ ngoại tệ, nhà đầu tư nước ngoài. Năm 2016, khi nợ đạt đỉnh 47,5% GDP, chênh lệch lợi suất cũng cao nhất; đó là trước khi Bảo hiểm Xã hội Việt Nam trở thành người mua trái phiếu Chính phủ chủ yếu. Chênh lệch lợi suất cũng vọt lên trong đại dịch, dù nợ vẫn được kiểm soát.
+**Phương pháp ba bước** (theo hướng dẫn của IMF năm 2018):
+
+1. **Xác định ngưỡng nợ tối đa**, mức mà vượt qua thì dễ khủng hoảng. Chuẩn IMF cho nước tiếp cận thị trường là 70%. Lịch sử Việt Nam chưa từng vượt 50%: đỉnh là 47,5% năm 2016, cũng là lúc chênh lệch lợi suất cao nhất. Bài chọn điểm giữa: 60%.
+2. **Ước lượng phân phối cú sốc** và mô phỏng hàng loạt quỹ đạo nợ.
+3. **Đặt trần** bằng mức nợ khởi đầu sao cho 95% quỹ đạo không vượt ngưỡng tối đa trong trung hạn.
+
+**Hai khó khăn riêng của Việt Nam:**
+
+- **Ngưỡng nợ tối đa khó xác định.** Việt Nam mới thành nước thu nhập trung bình thấp và vẫn đang hình thành thể chế của một nền kinh tế mới nổi. Chuẩn 70% của IMF không phù hợp vì thị trường trái phiếu Chính phủ kém phát triển, và Việt Nam ít kinh nghiệm với nợ ngoại tệ và nhà đầu tư nước ngoài. Năm 2016, khi nợ đạt đỉnh 47,5% GDP, chênh lệch lợi suất cũng cao nhất; đó là trước khi Bảo hiểm Xã hội Việt Nam trở thành người mua trái phiếu Chính phủ chủ yếu. Chênh lệch lợi suất cũng vọt lên trong đại dịch, dù nợ vẫn được kiểm soát.
 - **Cú sốc tương lai có thể khác quá khứ.** Hai thập kỷ qua là giai đoạn tăng trưởng cao, thâm hụt thấp, biến động thấp. Nhưng từ đại dịch, kinh tế trong nước biến động hơn; kế hoạch đầu tư công lớn chưa từng có; môi trường bên ngoài biến động hơn; và khi thị trường trái phiếu phát triển, lợi suất sẽ do thị trường quyết định và dao động nhiều hơn. Chi phí hỗ trợ doanh nghiệp nhà nước khi gặp cú sốc lớn cũng có thể cao. Tất cả đòi hỏi vùng đệm lớn hơn lịch sử gợi ý.
 
-Kết quả đã trình bày ở sơ đồ.
+**Kết quả hiệu chỉnh** (với ngưỡng tối đa 60%):
+
+| Cú sốc dựa trên | Trần nợ | Vùng đệm an toàn |
+|---|---|---|
+| Lịch sử (tăng trưởng cao, biến động thấp) | ~60% | ~0 |
+| Dự báo cơ sở (tăng trưởng chậm hơn, thâm hụt cơ bản lớn hơn) | ~50% | dưới 10 điểm (<10) |
+| Tăng trưởng lệch từ −1,5 đến +1,5 điểm so với cơ sở | từ 45% đến 54% | |
+| Lãi suất lệch từ −1,3 đến +1,3 điểm so với cơ sở | từ 53% đến 47% | |
+
+Nếu dùng cú sốc lịch sử, trần gần như bằng ngưỡng tối đa và không còn vùng đệm. Nếu dùng cú sốc theo dự báo cơ sở, phù hợp hơn với tương lai biến động hơn, trần là khoảng 50%. Trần nhạy với giả định: tăng trưởng thấp hơn 1,5 điểm kéo trần xuống 45%, lãi suất cao hơn 1,3 điểm kéo trần xuống 47%.
+
+**Kịch bản đẩy đầu tư công** (thêm 11,5% GDP trong 2025–30, thu giữ nguyên):
+
+- Thâm hụt cơ bản lên khoảng 5% GDP năm 2030; lãi suất vay tăng 15 điểm cơ bản cho mỗi 1% GDP thâm hụt thêm.
+- Nợ trung vị tăng từ khoảng 34% lên khoảng 48% GDP vào 2030.
+- Xác suất nợ nằm dưới trần 50% trong suốt 2025–30 là 75%.
+- Sau 2030, muốn giữ nợ dưới 50% với tăng trưởng khoảng 5%, thâm hụt cơ bản phải giảm từ 5% xuống 2,5% GDP. Điều đó đòi hỏi cải cách để tăng trưởng nhanh hơn hoặc tăng thu.
 
 ### 13. Kết luận chương 2
 
-Đặt trần nợ đáng tin cậy và thận trọng, ví dụ khoảng 50% GDP, giúp giữ niềm tin vào bền vững nợ khi đầu tư và vay nợ tăng. Trần nợ nên đi kèm **điều khoản miễn trừ** được thiết kế tốt, truyền thông rõ ràng, chỉ áp dụng cho tình huống nằm ngoài kiểm soát của chính phủ. Như vậy vừa có linh hoạt trước cú sốc lớn, vừa tránh việc thay đổi hay tạm dừng quy tắc thường xuyên, làm mất uy tín. Khi năng lực quản lý nợ và thị trường trái phiếu phát triển, trần có thể được nâng dần.
+Đặt một trần nợ đáng tin cậy và thận trọng, ví dụ khoảng 50% GDP, giúp giữ niềm tin vào bền vững nợ khi đầu tư và vay nợ tăng. Trần này vẫn đủ chỗ cho kế hoạch đầu tư công lớn đến 2030. Trần nợ nên đi kèm **điều khoản miễn trừ** được thiết kế tốt, truyền thông rõ ràng, chỉ áp dụng cho tình huống nằm ngoài kiểm soát của chính phủ. Như vậy vừa có linh hoạt trước cú sốc lớn, vừa tránh việc thay đổi hay tạm dừng quy tắc thường xuyên, làm mất uy tín. Khi năng lực quản lý nợ và thị trường trái phiếu phát triển, trần có thể được nâng dần.
 
 Trần nợ cần nằm trong một khuôn khổ tài khoá trung hạn mạnh hơn:
+
 - Dự toán và khuôn khổ trung hạn đáng tin cậy hơn, khớp nhau hơn.
 - Chiến lược tăng thu trung hạn và cải thiện lưới an sinh, để có thể chống chu kỳ.
 - Bao quát khu vực công đầy đủ hơn và đánh giá rủi ro tốt hơn.

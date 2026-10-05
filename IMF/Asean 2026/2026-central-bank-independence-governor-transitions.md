@@ -259,69 +259,246 @@
 
 3. **Kiểu người được bổ nhiệm có quan trọng không?** Rất quan trọng. Với người phi chính thống, mọi tác động mạnh hơn, và chỉ ở nhóm này kỳ vọng lạm phát **dài hạn** mới tăng — dấu hiệu mất uy tín thực sự. Với người chính thống được bổ nhiệm vì chính trị, vẫn có đánh đổi ngắn hạn nhưng kỳ vọng dài hạn không bị lỏng neo. Kỳ vọng tăng trưởng dài hạn không tăng ở bất kỳ trường hợp nào, nên bổ nhiệm người phi chính thống là một cú sốc uy tín làm tăng lạm phát kỳ vọng mà không mua được gì cho tăng trưởng dài hạn.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Độc lập ngân hàng trung ương theo luật và trên thực tế (de jure / de facto).** Độc lập theo luật là những gì văn bản quy định: thống đốc có nhiệm kỳ cố định, không bị cách chức tuỳ tiện, ngân hàng trung ương bị cấm cho chính phủ vay. Độc lập trên thực tế là việc ngân hàng trung ương có thật sự tự quyết lãi suất mà không bị chính phủ ép hay không. Hai thứ có thể rất khác nhau, vì luật có thể bị lách, ví dụ bằng cách thay người. Ví dụ từ bài: nhóm nước chưa từng thay thống đốc vì chính trị có chỉ số độc lập theo luật 0,64, còn nhóm nước mà 76–100% số lần thay là vì chính trị vẫn có chỉ số 0,48, nhưng kỳ vọng lạm phát ở hai nhóm là 2,6% và 7,3%. Bài lấy các lần thay thống đốc vì chính trị làm thước đo độc lập trên thực tế.
+
+**Thiên lệch lạm phát (inflation bias, Barro và Gordon).** Một chính phủ muốn tăng trưởng trước mắt có động cơ hứa lạm phát thấp rồi nuốt lời, in tiền để đẩy sản lượng lên. Người dân đoán trước điều đó và đòi tăng lương, tăng giá từ đầu. Kết quả: lạm phát cao hơn mà sản lượng không cao hơn. Ví dụ minh hoạ: chính phủ tuyên bố lạm phát 3%, nhưng công đoàn biết chính phủ thích tăng trưởng nên đàm phán tăng lương 6%; nếu ngân hàng trung ương giữ 3% thì thất nghiệp tăng, nên rốt cuộc nó chấp nhận lạm phát 6%. Lời giải của Rogoff là giao chính sách tiền tệ cho một người "bảo thủ", coi trọng ổn định giá hơn xã hội nói chung. Đây là lý thuyết giải thích vì sao thay thống đốc vì chính trị lại đáng lo.
+
+**Kỳ vọng lạm phát và "neo" kỳ vọng.** Kỳ vọng lạm phát là mức lạm phát mà doanh nghiệp, người lao động và giới dự báo nghĩ sẽ xảy ra. Kỳ vọng được "neo" khi nó bám sát mục tiêu của ngân hàng trung ương dù lạm phát hiện tại dao động. Ví dụ từ bài: ở nhóm nước không có lần thay nào vì chính trị, kỳ vọng lạm phát 5 năm tới là 2,6% so với mục tiêu 2,7%, tức neo rất tốt. Kỳ vọng dài hạn quan trọng vì nếu nó bị lỏng neo, ngân hàng trung ương phải tăng lãi suất mạnh hơn nhiều mới kéo được lạm phát về.
+
+**Quy tắc Taylor và hệ số phản ứng φ.** Quy tắc Taylor mô tả cách ngân hàng trung ương đặt lãi suất: lãi suất chính sách bằng lãi suất tự nhiên cộng mục tiêu lạm phát cộng φ nhân với độ lệch của lạm phát so với mục tiêu. Hệ số φ đo mức phản ứng: lạm phát cao hơn 1 điểm thì lãi suất cao hơn φ điểm. Ví dụ từ bài: theo cách giới dự báo nhìn, dưới thống đốc thông thường φ là 0,734; dưới thống đốc được bổ nhiệm vì chính trị, φ thấp hơn khoảng 0,24, tức lạm phát kỳ vọng tăng 1 điểm thì lãi suất kỳ vọng chỉ tăng khoảng 0,5 điểm thay vì 0,73.
+
+**Thống đốc chính thống và phi chính thống.** Thống đốc chính thống hiểu nhiệm vụ chủ yếu là ổn định giá, dùng công cụ quen thuộc như lãi suất ngắn hạn, không tài trợ cho chính phủ, truyền thông minh bạch. Thống đốc phi chính thống hiểu nhiệm vụ rộng (tăng trưởng, việc làm), sẵn sàng dùng tín dụng chỉ định hay tài trợ ngân sách trực tiếp. Ví dụ từ bài: trong 28 lần bổ nhiệm người phi chính thống, 18 lần (64%) là lần thay vì chính trị. Phân biệt này quan trọng vì theo bài, chỉ khi người mới là phi chính thống thì kỳ vọng lạm phát dài hạn mới tăng.
+
+**Lãi suất danh nghĩa và lãi suất thực.** Lãi suất danh nghĩa là con số ghi trên hợp đồng; lãi suất thực xấp xỉ bằng lãi suất danh nghĩa trừ lạm phát. Ví dụ minh hoạ: lãi suất 10% khi lạm phát 4% cho lãi suất thực khoảng 6%; nếu lãi suất giảm còn 8% và lạm phát tăng lên 7% thì lãi suất thực chỉ còn 1%. Vì vậy sau khi thay thống đốc vì chính trị, lãi suất thực giảm mạnh hơn lãi suất danh nghĩa: lãi suất bị hạ đúng lúc lạm phát tăng.
+
+**Chiếu cục bộ sai khác kép và phương pháp kiểm soát tổng hợp.** Chiếu cục bộ ước lượng một biến thay đổi bao nhiêu sau h tháng kể từ sự kiện, với mỗi h một hồi quy riêng. Kết hợp với sai khác kép, phép so sánh là giữa nước có sự kiện và nước không có sự kiện trong cùng giai đoạn. Phương pháp kiểm soát tổng hợp dựng cho mỗi nước có sự kiện một "nước tổng hợp", là tổ hợp có trọng số của các nước không có sự kiện, sao cho diễn biến trước sự kiện khớp nhau. Ví dụ minh hoạ: nước tổng hợp có thể là 40% nước X, 35% nước Y, 25% nước Z. Sau sự kiện, chênh lệch giữa nước thật và nước tổng hợp là ước lượng tác động.
+
+**Đường Phillips dài hạn thẳng đứng.** Đường Phillips mô tả đánh đổi giữa lạm phát và sản lượng (hay thất nghiệp). Trong ngắn hạn, nới lỏng tiền tệ có thể đẩy sản lượng lên với cái giá là lạm phát cao hơn. Trong dài hạn, khi kỳ vọng đã điều chỉnh theo, sản lượng quay về mức tiềm năng và chỉ còn lại lạm phát cao hơn: đường Phillips dài hạn thẳng đứng. Ví dụ từ bài: sau khi bổ nhiệm người phi chính thống, kỳ vọng lạm phát dài hạn tăng 0,5–1 điểm trong khi kỳ vọng tăng trưởng dài hạn không đổi.
+
+## Nội dung chi tiết
 
 ### 1. Vấn đề và cách tiếp cận
 
-Độc lập ngân hàng trung ương là một trụ cột của khuôn khổ chính sách vĩ mô hiện đại. Lập luận lý thuyết: chính phủ có tầm nhìn ngắn và động cơ bầu cử sẽ hứa lạm phát thấp nhưng rồi nuốt lời để đẩy sản lượng lên; người dân biết trước điều đó nên lạm phát cân bằng cao mà sản lượng không cao hơn — "thiên lệch lạm phát" của Barro và Gordon. Giải pháp của Rogoff là giao chính sách tiền tệ cho một người "bảo thủ", coi trọng ổn định giá hơn xã hội.
+Độc lập ngân hàng trung ương là một trụ cột của khuôn khổ chính sách vĩ mô hiện đại. Lập luận lý thuyết đi như sau. Một chính phủ có tầm nhìn ngắn và động cơ bầu cử sẽ hứa lạm phát thấp nhưng rồi nuốt lời để đẩy sản lượng lên. Người dân biết trước điều đó, nên đặt giá và đòi lương theo mức lạm phát cao ngay từ đầu. Kết quả cân bằng là lạm phát cao mà sản lượng không cao hơn: đây là "thiên lệch lạm phát" của Barro và Gordon. Giải pháp của Rogoff là giao chính sách tiền tệ cho một người "bảo thủ", coi trọng ổn định giá hơn xã hội; người như vậy được tin là sẽ không nuốt lời, nên kỳ vọng lạm phát thấp ngay từ đầu.
 
-Khó khăn thực nghiệm: các chỉ số theo luật gần như bất biến trong từng nước, nên chỉ so sánh được giữa các nước — mà khác biệt giữa các nước lẫn lộn thiết kế thể chế với văn hoá, chính trị và kinh tế. Bài lấy **những lần thay thống đốc có động cơ chính trị** làm cú sốc đối với độc lập trên thực tế.
+**Khó khăn thực nghiệm.** Các chỉ số độc lập thường đo theo luật: quy định về nhiệm kỳ, cấm cho chính phủ vay và các điều khoản tương tự. Nhưng luật gần như bất biến trong từng nước, nên chỉ so sánh được giữa các nước; mà khác biệt giữa các nước lẫn lộn thiết kế thể chế với văn hoá, chính trị và kinh tế. Hơn nữa, luật có thể bị lách trong thực tế. Vì vậy bài lấy **những lần thay thống đốc có động cơ chính trị** làm cú sốc đối với độc lập trên thực tế: một sự kiện có ngày tháng cụ thể, xảy ra trong từng nước, nên có thể so sánh trước và sau.
 
-Hai thách thức nhận diện: (i) xác định lần thay nào đe doạ độc lập — giải bằng quy trình ba bước và đọc báo độc lập của cả ba tác giả; (ii) tách **uy tín** khỏi **sở thích** của chính phủ về chính sách mềm hơn — giải bằng cách xem kỳ vọng dài hạn, độ nhạy của lãi suất kỳ vọng với lạm phát, và phân loại chính thống / phi chính thống. Bài lưu ý rằng nếu thị trường đoán trước được lần thay, ước lượng sẽ bị kéo về 0.
+**Hai thách thức nhận diện.**
+
+1. Xác định lần thay nào đe doạ độc lập. Bài giải bằng quy trình phân loại ba bước (mục 2) và việc cả ba tác giả đọc báo độc lập với nhau.
+2. Tách **uy tín** khỏi **sở thích**. Lãi suất giảm sau khi thay thống đốc có thể chỉ phản ánh việc chính phủ thích chính sách mềm hơn, chứ chưa chắc là ngân hàng trung ương mất uy tín. Bài giải bằng ba cách: xem kỳ vọng dài hạn (mất uy tín thì kỳ vọng dài hạn mới tăng), đo độ nhạy của lãi suất kỳ vọng với lạm phát, và phân loại người mới là chính thống hay phi chính thống.
+
+Bài lưu ý rằng nếu thị trường đoán trước được lần thay, phản ứng đã xảy ra từ trước ngày công bố, và ước lượng sẽ bị kéo về 0. Tức là kết quả có thể đánh giá thấp tác động thật.
 
 ### 2. Dữ liệu
 
-28 ngân hàng trung ương: Argentina, Úc, Brazil, Canada, Chile, Colombia, Cộng hoà Séc, khu vực đồng euro, Hungary, Ấn Độ, Indonesia, Nhật Bản, Hàn Quốc, Malaysia, Mexico, New Zealand, Na Uy, Peru, Philippines, Ba Lan, Nga, Thuỵ Sĩ, Thái Lan, Thổ Nhĩ Kỳ, Ukraine, Anh, Mỹ và Venezuela.
+**Mẫu.** 132 lần thay thống đốc ở 28 ngân hàng trung ương (11 nền kinh tế phát triển, 17 mới nổi) trong giai đoạn 2000–2024, chiếm 70% GDP và 47% dân số thế giới. Danh sách: Argentina, Úc, Brazil, Canada, Chile, Colombia, Cộng hoà Séc, khu vực đồng euro, Hungary, Ấn Độ, Indonesia, Nhật Bản, Hàn Quốc, Malaysia, Mexico, New Zealand, Na Uy, Peru, Philippines, Ba Lan, Nga, Thuỵ Sĩ, Thái Lan, Thổ Nhĩ Kỳ, Ukraine, Anh, Mỹ và Venezuela.
 
-Bộ dữ liệu có bốn phần: phân loại lần thay; thời điểm (ngày công bố sớm nhất trên báo quốc tế hoặc trong nước, và ngày làm việc cuối/đầu tiên); hồ sơ thống đốc (tuổi, giới, quốc tịch, học vấn, nền tảng nghề nghiệp, quan hệ đảng phái, từng làm bộ trưởng hay ở tổ chức tài chính quốc tế); và phân loại chính thống / phi chính thống.
+Bộ dữ liệu có bốn phần: (1) phân loại lần thay; (2) thời điểm, gồm ngày công bố sớm nhất trên báo quốc tế hoặc trong nước, và ngày làm việc cuối của người cũ, đầu tiên của người mới; (3) hồ sơ thống đốc: tuổi, giới, quốc tịch, học vấn, nền tảng nghề nghiệp, quan hệ đảng phái, từng làm bộ trưởng hay ở tổ chức tài chính quốc tế; (4) phân loại chính thống / phi chính thống.
 
-Định nghĩa của bài khác văn liệu trước ở chỗ xét **cả hai đầu** của lần thay: động cơ loại người cũ và động cơ chọn người mới. Người cũ có thể bị ép đi nhưng người mới được kính trọng và không có dấu hiệu chính trị; ngược lại người cũ có thể hết nhiệm kỳ bình thường nhưng người mới được chọn vì lý do chính trị.
+**Quy trình phân loại một lần thay.** Nguồn tin chính là centralbanking.com, bổ sung bằng Bloomberg và Financial Times. Mỗi lần thay đi qua ba câu hỏi:
 
-Dữ liệu tháng: lạm phát, lãi suất 3 tháng và 10 năm, tăng trưởng GDP, tỷ giá với USD; kỳ vọng từ Consensus Economics (khảo sát hằng tháng). Kỳ vọng "năm hiện tại" và "năm sau" được ghép thành kỳ vọng 12 tháng tới bằng trung bình hình học — bài chọn hình học thay vì trung bình trọng số vì mẫu có những nước lạm phát rất cao, nơi xấp xỉ tuyến tính kém chính xác. Kỳ vọng dài hạn (5 và 10 năm) chỉ có nửa năm một lần đến 2014 và hằng quý sau đó.
+1. Lần thay có theo quy trình luật định rõ ràng **và** báo chí không nhắc tới sự bất mãn của chính phủ hay sự ưu ái chính trị không? Nếu có, đó là lần thay **thông thường**.
+2. Nếu không: thống đốc có bị cho thôi trước khi hết nhiệm kỳ, **hoặc** hết nhiệm kỳ nhưng báo chí nói có va chạm với chính phủ, **hoặc** người kế nhiệm được chọn vì lý do chính trị không? Nếu không có điều nào, đó vẫn là lần thay thông thường. Ở bước này cả ba tác giả đọc báo độc lập.
+3. Nếu có: người cũ rời đi vì bê bối cá nhân không? Nếu có, đó là lần thay thông thường; nếu không, đó là lần thay **có động cơ chính trị**.
+
+**Ví dụ phân loại:**
+
+| Trường hợp | Diễn biến | Phân loại |
+|---|---|---|
+| Argentina 2015 | Tổng thống mới nói thống đốc đương nhiệm "không đủ năng lực" và đề cử người khác | Chính trị |
+| Argentina 2023 | Tổng thống đắc cử chọn đồng minh của bộ trưởng kinh tế tương lai | Chính trị |
+| Ấn Độ 2016 | Mọi thống đốc hai thập kỷ trước đều được gia hạn 2 năm sau nhiệm kỳ 3 năm; thống đốc Rajan bị công kích công khai và không được gia hạn | Chính trị |
+| Thuỵ Sĩ 2012 | Thống đốc từ chức vì vợ mua 504.000 USD ngoại tệ vài tuần trước khi ngân hàng trung ương áp trần tỷ giá | Thông thường (bê bối) |
+| Thổ Nhĩ Kỳ 2024 | Thống đốc từ chức sau tin đồn cha can thiệp vào ngân hàng; phó thống đốc lên thay | Thông thường (bê bối) |
+
+Định nghĩa của bài khác văn liệu trước ở chỗ xét **cả hai đầu** của lần thay: động cơ loại người cũ và động cơ chọn người mới. Người cũ có thể bị ép đi nhưng người mới được kính trọng và không có dấu hiệu chính trị; ngược lại, người cũ có thể hết nhiệm kỳ bình thường nhưng người mới được chọn vì lý do chính trị. Ví dụ Argentina 2023 thuộc loại thứ hai.
+
+**Chính thống và phi chính thống.** Bài dùng công cụ AI thu thập các bài báo mô tả từng thống đốc, rồi đối chiếu với năm tiêu chí:
+
+| Tiêu chí | Chính thống | Phi chính thống |
+|---|---|---|
+| Nhiệm vụ | Ổn định giá (và có khi việc làm), hàm phản ứng rõ ràng | Hiểu rộng: tăng trưởng, việc làm, ổn định tài chính vĩ mô |
+| Công cụ | Lãi suất ngắn hạn, dự trữ bắt buộc, cho vay cuối cùng chuẩn mực | Nới lỏng định lượng, lãi suất âm, kiểm soát đường cong lợi suất, tín dụng chỉ định, tài trợ ngân sách trực tiếp |
+| Độc lập | Không tài trợ chính phủ | Sẵn sàng phối hợp hoặc chấp nhận tài trợ ngân sách |
+| Truyền thông | Theo quy tắc, minh bạch | Thử nghiệm, hứa hẹn có điều kiện, tuỳ nghi |
+| Rủi ro | Thận trọng với bảng cân đối | Chấp nhận bảng cân đối lớn và tác dụng phụ |
+
+**Dữ liệu kinh tế theo tháng:** lạm phát, lãi suất 3 tháng và 10 năm, tăng trưởng GDP, tỷ giá với USD. Kỳ vọng lấy từ Consensus Economics, một khảo sát giới dự báo hằng tháng. Khảo sát hỏi kỳ vọng cho "năm hiện tại" và "năm sau"; bài ghép hai con số này thành kỳ vọng 12 tháng tới bằng trung bình hình học. Bài chọn trung bình hình học thay vì trung bình trọng số vì mẫu có những nước lạm phát rất cao, nơi xấp xỉ tuyến tính kém chính xác. Kỳ vọng dài hạn (5 và 10 năm) chỉ có nửa năm một lần đến 2014 và hằng quý sau đó.
 
 ### 3. Sự thật cách điệu
 
-Số liệu đã trình bày ở sơ đồ. Bổ sung: các lần thay trải khá đều theo thời gian. Thay vì chính trị tương quan dương rõ nhất (trên 0,2) với việc là đảng viên (trước đây 0,33, hiện tại 0,35), phi chính thống (0,28), xuất thân khu vực tư (0,24) và chính trị (0,23), học luật (0,23); tương quan âm rõ nhất với xuất thân ngân hàng trung ương (−0,24), thăng tiến nội bộ (−0,24), có tiến sĩ (−0,23), học kinh tế (−0,21).
+**Số lần thay thống đốc, 2000–2024:**
 
-Văn liệu trước đã thấy tốc độ thay thống đốc cao gắn với bất ổn chính trị và lạm phát cao, và ở Mỹ Latinh số lần thay bất thường còn nhiều hơn thay đúng hạn. Một nghiên cứu cho thấy cải cách tăng độc lập theo luật lại đi kèm nhiều lần bổ nhiệm vì chính trị hơn — nghĩa là chính phủ bù cho việc mất công cụ bằng cách chọn người.
+| Nhóm | Chính trị | Thông thường | Tổng | Tỷ lệ chính trị |
+|---|---|---|---|---|
+| Toàn mẫu | 50 | 82 | 132 | 38% |
+| Nước mới nổi | 45 | 48 | 93 | 48% |
+| Nước phát triển | 5 | 34 | 39 | 13% |
+| Người mới chính thống | 32 | 72 | 104 | 31% |
+| Người mới phi chính thống | 18 | 10 | 28 | 64% |
+
+Các lần thay trải khá đều theo thời gian. Người phi chính thống được đưa vào chủ yếu qua các lần thay vì chính trị (64%).
+
+**Sự thật thứ nhất: thay vì chính trị tập trung ở vài nước.** 17/28 nước có ít nhất một lần thay vì chính trị (13/17 nước mới nổi và 4/11 nước phát triển); 11 nước chưa từng có (7 nước phát triển, 4 nước mới nổi). Có 4 nước mới nổi mà ít nhất 75% số lần thay là vì chính trị.
+
+**Sự thật thứ hai: người được bổ nhiệm vì chính trị ít kỹ trị hơn.** So sánh hồ sơ người mới:
+
+| Đặc điểm | Vì chính trị (n=50) | Thông thường (82) |
+|---|---|---|
+| Xuất thân: ngân hàng trung ương | 32% | 56% |
+| Xuất thân: hoạch định chính sách | 32% | 30% |
+| Xuất thân: chính trị | 12% | 1% |
+| Xuất thân: khu vực tư | 24% | 4% |
+| Xuất thân: học thuật | 0% | 7% |
+| Có bằng tiến sĩ | 34% | 60% |
+| Học ở nước ngoài | 54% | 73% |
+| Chuyên ngành kinh tế | 70% | 84% |
+| Chuyên ngành luật | 12% | 1% |
+| Thăng tiến từ trong ngân hàng trung ương | 30% | 52% |
+| Từng làm ở tổ chức tài chính quốc tế | 22% | 31% |
+| Từng là bộ trưởng | 22% | 18% |
+| Là đảng viên khi nhậm chức | 30% | 4% |
+| Từng là đảng viên | 50% | 18% |
+| Phi chính thống | 36% | 12% |
+
+Hệ số tương quan cho cùng bức tranh. Thay vì chính trị tương quan dương rõ nhất (trên 0,2) với việc là đảng viên (từng là: 0,33; đang là: 0,35), phi chính thống (0,28), xuất thân khu vực tư (0,24) và chính trị (0,23), học luật (0,23). Tương quan âm rõ nhất với xuất thân ngân hàng trung ương (−0,24), thăng tiến nội bộ (−0,24), có tiến sĩ (−0,23), học kinh tế (−0,21).
+
+**Nhiệm kỳ của người ra đi.** Người bị thay vì chính trị đã tại vị trung bình 3,4 năm, so với 6,1 năm ở lần thay thông thường. Thống đốc phi chính thống tại vị 4,3 năm, chính thống 5,3 năm; nhưng khi tách theo loại lần thay thì chênh lệch này biến mất. Nghĩa là áp lực chính trị, chứ không phải kiểu thống đốc, quyết định nhiệm kỳ dài hay ngắn.
+
+**Sự thật thứ ba: độc lập trên thực tế khác độc lập trên luật.** Chia các nước theo tỷ lệ lần thay vì chính trị (số liệu xấp xỉ):
+
+| Tỷ lệ lần thay vì chính trị | Kỳ vọng lạm phát 5 năm tới | Mục tiêu lạm phát | Chỉ số độc lập theo luật (thang 0–1) |
+|---|---|---|---|
+| 0% | 2,6% | 2,7% | 0,64 |
+| 1–25% | 2,9% | 2,9% | 0,62 |
+| 26–50% | 2,7% | 2,55% | 0,60 |
+| 51–75% | 4,8% | 4,0% | 0,66 |
+| 76–100% | 7,3% | 5,3% | 0,48 |
+
+Ở nước không có hoặc ít lần thay vì chính trị, kỳ vọng dài hạn bám sát mục tiêu. Nơi thay vì chính trị là số đông (51–75%), kỳ vọng vượt mục tiêu khoảng 1 điểm. Nơi thay vì chính trị là chuẩn mực (76–100%), kỳ vọng vượt mục tiêu hơn 2 điểm. Trong khi đó, chỉ số độc lập theo luật gần như không phân biệt được các nhóm: nhóm 51–75% thậm chí có chỉ số cao nhất (0,66).
+
+**Văn liệu trước** đã thấy tốc độ thay thống đốc cao gắn với bất ổn chính trị và lạm phát cao, và ở Mỹ Latinh số lần thay bất thường còn nhiều hơn số lần thay đúng hạn. Một nghiên cứu còn cho thấy cải cách tăng độc lập theo luật lại đi kèm nhiều lần bổ nhiệm vì chính trị hơn. Nghĩa là khi mất công cụ chỉ đạo trực tiếp, chính phủ bù lại bằng cách chọn người.
 
 ### 4. Khoảng chênh kết quả
 
-Phương trình đơn giản: kết quả của nước i, thống đốc g, tháng t hồi quy trên biến giả "thống đốc được bổ nhiệm vì chính trị", có hoặc không có hiệu ứng cố định thời gian và nước. Kết quả đã trình bày ở sơ đồ: lạm phát và kỳ vọng ở mọi kỳ hạn cao hơn và biến động hơn, rõ nhất ở thống đốc phi chính thống. Khi so thống đốc với chính người tiền nhiệm, kết quả tệ hơn nói chung, nhưng một phần đến từ việc thống đốc chính trị nối tiếp thống đốc chính trị; khi chỉ xét người tiền nhiệm thông thường, chênh lệch không còn ý nghĩa thống kê.
+**Phương trình.** Kết quả kinh tế của nước i, dưới thống đốc g, tại tháng t được hồi quy trên biến giả "thống đốc được bổ nhiệm vì chính trị", có hoặc không có hiệu ứng cố định thời gian và nước. Hiệu ứng cố định thời gian loại bỏ các cú sốc chung toàn cầu; hiệu ứng cố định nước so sánh mỗi nước với chính nó.
+
+**Kết quả** (khoảng chênh so với thống đốc thông thường, điểm phần trăm, xấp xỉ; mỗi ô ghi: tất cả thống đốc chính trị | phi chính thống | chính thống):
+
+| Biến | Không hiệu ứng cố định | Hiệu ứng cố định thời gian | Hiệu ứng cố định thời gian và nước |
+|---|---|---|---|
+| Lạm phát thực tế | 4,7 \| 8,0 \| 3,1 | 4,8 \| 7,4 \| 3,4 | 0,8 \| 3,8 \| 2,1 |
+| Kỳ vọng lạm phát 1 năm | 4,7 \| 8,1 \| 2,8 | 4,6 \| 7,7 \| 2,8 | 0,8 \| 3,8 \| 2,0 |
+| Kỳ vọng lạm phát 3 năm | 2,7 \| 4,1 \| 1,4 | 2,7 \| 4,1 \| 1,3 | 0,4 \| 2,3 \| 0,5 |
+| Kỳ vọng lạm phát 5 năm | 1,7 \| 2,3 \| 1,0 | 1,7 \| 2,3 \| 1,0 | 0,25 \| 1,3 \| 0,35 |
+
+Lạm phát và kỳ vọng lạm phát ở mọi kỳ hạn đều cao hơn dưới thống đốc chính trị, rõ nhất ở thống đốc phi chính thống. Khi thêm hiệu ứng cố định nước, chênh lệch nhỏ đi nhiều (phần lớn khác biệt là giữa các nước), nhưng nhóm phi chính thống vẫn cao hơn rõ rệt: lạm phát cao hơn 3,8 điểm.
+
+Chúng cũng **biến động hơn**. Độ biến động của lạm phát thực tế (căn bậc hai của phương sai quanh trung bình của nhiệm kỳ), không có hiệu ứng cố định, cao hơn 7,0 điểm với mọi thống đốc chính trị, 10,1 điểm với người phi chính thống và 4,7 điểm với người chính thống.
+
+**So với chính người tiền nhiệm.** Lạm phát thực tế tăng khoảng 2,8 điểm với mọi thống đốc chính trị, khoảng 5,3 với người phi chính thống, khoảng 0,8 (không có ý nghĩa) với người chính thống. Nhưng một phần kết quả này đến từ việc thống đốc chính trị nối tiếp thống đốc chính trị. Nếu chỉ xét những trường hợp người tiền nhiệm được bổ nhiệm thông thường, chênh lệch là 1,5 | 3,6 | 0,6 và không còn ý nghĩa thống kê.
 
 ### 5. Quy tắc Taylor được cảm nhận
 
-Xuất phát từ quy tắc: lãi suất chính sách = lãi suất tự nhiên + mục tiêu lạm phát + φ × (lạm phát − mục tiêu) + cú sốc. Vì không quan sát được lãi suất tự nhiên và mục tiêu, bài dùng kỳ vọng của giới dự báo và để hiệu ứng cố định thống đốc hấp thụ chúng. Như vậy phép thử đo **độ dốc** (phản ứng với lạm phát), không đo mức.
+**Ý tưởng.** Xuất phát từ quy tắc: lãi suất chính sách = lãi suất tự nhiên + mục tiêu lạm phát + φ × (lạm phát − mục tiêu) + cú sốc. Vì không quan sát được lãi suất tự nhiên và mục tiêu lạm phát ngầm, bài dùng kỳ vọng của giới dự báo và để hiệu ứng cố định thống đốc hấp thụ hai đại lượng này (mỗi thống đốc có mục tiêu ngầm và lãi suất tự nhiên riêng). Phương trình ước lượng:
 
-Kết quả đã trình bày ở sơ đồ. Kết quả vững khi dùng lãi suất thực, kiểm soát quán tính lãi suất, tăng trưởng kỳ vọng, và mức mất giá kỳ vọng của tỷ giá danh nghĩa hoặc thực.
+lãi suất chính sách kỳ vọng = hiệu ứng cố định thống đốc + φ × lạm phát kỳ vọng + φᶜᵗ × (thống đốc chính trị × lạm phát kỳ vọng)
 
-Lo ngại: cú sốc chính sách kỳ vọng có thể tương quan với lạm phát kỳ vọng theo những cách khác nhau giữa hai loại thống đốc — ví dụ lãi suất tự nhiên dao động trong nhiệm kỳ, hoặc ngân hàng trung ương có uy tín có thể "nhìn qua" các đợt lạm phát tạm thời. Bài xử lý bằng dữ liệu **từng nhà dự báo** với hiệu ứng cố định nước × thời gian: chỉ so sánh các nhà dự báo khác nhau trong cùng tháng, cùng nước. Câu hỏi khi đó là: dưới thống đốc chính trị, lãi suất dự báo của các nhà dự báo có bị "nén" hơn so với sự phân tán của lạm phát dự báo không? Câu trả lời là có, và gần như trọn vẹn: nhà dự báo kỳ vọng lạm phát cao hơn không hề kỳ vọng lãi suất cao hơn.
+Như vậy phép thử đo **độ dốc**, tức phản ứng của lãi suất với lạm phát, không đo mức lãi suất. Hệ số φᶜᵗ âm nghĩa là giới dự báo tin thống đốc chính trị phản ứng yếu hơn.
+
+**Kết quả cấp quốc gia** (5.357 quan sát, dùng dự báo đồng thuận, tức trung bình của các nhà dự báo):
+
+| Hệ số | Cơ bản | Thêm quán tính lãi suất | Thêm tăng trưởng, tỷ giá kỳ vọng |
+|---|---|---|---|
+| φ (thống đốc thông thường) | 0,734\*\*\* | 0,328\*\*\* | 0,34–0,37\*\*\* |
+| Chênh lệch: chính trị | −0,239\*\*\* | −0,211\*\*\* | từ −0,22 đến −0,23 |
+| Chênh lệch: phi chính thống | −0,241\*\*\* | −0,214\*\*\* | từ −0,22 đến −0,23 |
+| Chênh lệch: chính thống | −0,141\*\* | −0,098\*\*\* | −0,12\*\*\* |
+
+Dưới thống đốc thông thường, lạm phát kỳ vọng cao hơn 1 điểm đi kèm lãi suất kỳ vọng cao hơn khoảng 0,73 điểm. Dưới thống đốc chính trị, phản ứng này yếu hơn khoảng 0,24 điểm. Kết quả vững khi dùng lãi suất thực, khi kiểm soát quán tính lãi suất (lãi suất kỳ trước), tăng trưởng kỳ vọng, và mức mất giá kỳ vọng của tỷ giá danh nghĩa hoặc thực.
+
+**Lo ngại và cách xử lý.** Cú sốc chính sách kỳ vọng có thể tương quan với lạm phát kỳ vọng theo những cách khác nhau giữa hai loại thống đốc. Ví dụ, lãi suất tự nhiên có thể dao động trong nhiệm kỳ, hoặc ngân hàng trung ương có uy tín có thể "nhìn qua" các đợt lạm phát tạm thời mà không tăng lãi suất. Khi đó φ thấp không nhất thiết là dấu hiệu mất uy tín. Bài xử lý bằng dữ liệu **từng nhà dự báo** (khoảng 68.000 quan sát), thêm hiệu ứng cố định nước × thời gian: chỉ so sánh các nhà dự báo khác nhau trong cùng tháng, cùng nước. Câu hỏi khi đó là: dưới thống đốc chính trị, lãi suất dự báo của các nhà dự báo có bị "nén" hơn so với sự phân tán của lạm phát dự báo không?
+
+| Hệ số | Giá trị | Ghi chú |
+|---|---|---|
+| φ (thống đốc thông thường) | 0,219\*\*\* | |
+| Chênh lệch: chính trị | −0,209\*\*\* | φ của thống đốc chính trị ≈ 0,01, gần bằng 0 |
+| Chênh lệch: phi chính thống | −0,213\*\*\* | |
+| Chênh lệch: chính thống | −0,025 | không có ý nghĩa |
+
+Câu trả lời là có, và gần như trọn vẹn. Dưới thống đốc phi chính thống được bổ nhiệm vì chính trị, nhà dự báo nào kỳ vọng lạm phát cao hơn cũng không hề kỳ vọng lãi suất cao hơn: họ tin ngân hàng trung ương sẽ không phản ứng. Với thống đốc chính thống, chênh lệch không có ý nghĩa.
 
 ### 6. Tác động động học: chiếu cục bộ sai khác kép
 
-Phương pháp chiếu cục bộ sai khác kép của Dube và cộng sự (2025) giải ba vấn đề: sự kiện không "hấp thụ" (nước ra vào trạng thái bị tác động), sự kiện xảy ra lệch thời điểm (rủi ro dùng nước đã bị tác động làm đối chứng), và tự chọn vào sự kiện (chính phủ thay thống đốc để phản ứng với rủi ro vĩ mô). Nhóm đối chứng chỉ gồm các nước không có lần thay nào trong cửa sổ trước và sau; giả định tác động ổn định sau 12 tháng. Để giữ đủ mẫu, nhóm bị tác động vẫn được phép có lần thay khác trong cửa sổ, và bài kiểm soát 3 độ trễ của biến kết quả, lạm phát, tăng trưởng, tỷ giá và lãi suất. Khoảng tin cậy tính bằng bootstrap hoang dã phân cụm theo nước.
+**Phương pháp.** Bài dùng phương pháp chiếu cục bộ sai khác kép của Dube và cộng sự (2025), giải ba vấn đề của bộ dữ liệu này:
 
-Kết quả đã trình bày ở sơ đồ. Bài nhấn mạnh rằng chính trị can thiệp không chỉ tác động lãi suất mà cả hoạt động kinh tế thực. Với thống đốc phi chính thống, tăng trưởng GDP tăng nhưng kém chắc chắn về thống kê hơn so với người chính thống; bài giải thích bằng lập luận của Friedman: khi người dân mất niềm tin vào mục tiêu lạm phát, kỳ vọng điều chỉnh nhanh và đánh đổi sản lượng – lạm phát biến mất.
+- Sự kiện không "hấp thụ": một nước có thể ra vào trạng thái bị tác động nhiều lần.
+- Sự kiện xảy ra lệch thời điểm, nên có rủi ro dùng nước đã bị tác động trước đó làm đối chứng.
+- Tự chọn vào sự kiện: chính phủ có thể thay thống đốc chính vì đang phản ứng với rủi ro vĩ mô.
+
+Nhóm đối chứng chỉ gồm các nước không có lần thay nào trong cửa sổ trước và sau sự kiện; bài giả định tác động ổn định sau 12 tháng. Để giữ đủ mẫu, nhóm bị tác động vẫn được phép có lần thay khác trong cửa sổ. Bài kiểm soát 3 độ trễ của biến kết quả, lạm phát, tăng trưởng, tỷ giá và lãi suất. Khoảng tin cậy tính bằng bootstrap hoang dã phân cụm theo nước (một cách lấy mẫu lại để đo độ không chắc chắn khi số nước ít). Mẫu gồm 26 nước (bỏ Venezuela và Ukraine) và bỏ các giai đoạn neo tỷ giá, chiến tranh và chương trình vay khẩn cấp của IMF.
+
+**Kết quả** (chênh lệch so với những tháng không có lần thay, điểm phần trăm, đọc từ hình nên là xấp xỉ):
+
+| Biến | Trung bình năm 1 | Trung bình năm 2 | Trung bình hai năm |
+|---|---|---|---|
+| **Tất cả lần thay vì chính trị** | | | |
+| Lãi suất ngắn hạn | −0,8 | −3,4 | −2,0 |
+| Lãi suất thực | −2,0 | −5,7 | −3,8 |
+| Lạm phát | +2,0 | +4,7 | +3,4 |
+| Kỳ vọng lạm phát | +1,6 | +3,3 | +2,4 |
+| Tăng trưởng GDP | +1,2 | +2,1 | +1,6 |
+| Kỳ vọng tăng trưởng | +0,5 | +1,2 | +0,8 |
+| **Người mới phi chính thống** | | | |
+| Lãi suất ngắn hạn | −1,8 | −3,9 | −2,8 |
+| Lãi suất thực | −3,7 | −8,2 | −6,0 |
+| Lạm phát | +1,8 | +6,8 | +4,2 |
+| Kỳ vọng lạm phát | +2,5 | +6,0 | +4,1 |
+| Tăng trưởng GDP | +2,0 | +2,4 | +2,2 |
+| **Người mới chính thống** | | | |
+| Lãi suất ngắn hạn | ~0 | −2,9 | −1,4 |
+| Lãi suất thực | −0,8 | −3,8 | −2,3 |
+| Lạm phát | +2,3 | +3,2 | +2,6 |
+| Kỳ vọng lạm phát | +1,1 | +1,3 | +1,2 |
+| Tăng trưởng GDP | +0,6 | +1,8 | +1,2 |
+
+Với lần thay thông thường, mọi biến gần 0. Sau lần thay vì chính trị, lãi suất danh nghĩa và thực giảm, lạm phát và kỳ vọng lạm phát tăng, và tăng trưởng GDP cũng tăng: một sự đánh đổi tăng trưởng lấy lạm phát trong ngắn hạn. Lãi suất thực giảm mạnh hơn lãi suất danh nghĩa vì lạm phát tăng cùng lúc lãi suất bị hạ. Bài nhấn mạnh rằng can thiệp chính trị không chỉ tác động lãi suất mà cả hoạt động kinh tế thực.
+
+Với thống đốc phi chính thống, mọi tác động lên lãi suất và lạm phát đều mạnh hơn. Tăng trưởng GDP cũng tăng, nhưng kém chắc chắn về thống kê hơn so với người chính thống. Bài giải thích bằng lập luận của Friedman: khi người dân mất niềm tin vào mục tiêu lạm phát, kỳ vọng điều chỉnh nhanh, và đánh đổi giữa sản lượng và lạm phát biến mất.
+
+Tỷ giá không phân biệt được hai loại lần thay và có xu hướng trước sự kiện, nên kết quả về tỷ giá không đáng tin.
 
 ### 7. Kỳ vọng dài hạn: phương pháp kiểm soát tổng hợp
 
-Kỳ vọng dài hạn quá thưa để dùng chiếu cục bộ. Với mỗi lần thay, bài dựng một "nước tổng hợp" là tổ hợp có trọng số của các nước không thay thống đốc cùng kỳ, chọn trọng số để khớp diễn biến lạm phát hai năm trước sự kiện. Kết quả đã trình bày ở sơ đồ.
+Kỳ vọng dài hạn (5 năm tới) chỉ có nửa năm hoặc một quý một lần, quá thưa để dùng chiếu cục bộ. Với mỗi lần thay, bài dựng một "nước tổng hợp" là tổ hợp có trọng số của các nước không thay thống đốc cùng kỳ, với trọng số được chọn để khớp diễn biến lạm phát hai năm trước sự kiện. Sau sự kiện, chênh lệch giữa nước thật và nước tổng hợp là tác động.
 
-Diễn giải của bài: kỳ vọng lạm phát dài hạn tăng mà kỳ vọng tăng trưởng dài hạn không đổi là phù hợp với đường Phillips dài hạn thẳng đứng. Tác động lâu dài duy nhất là neo kỳ vọng lạm phát bị lỏng, phù hợp với việc giới dự báo cập nhật "mô hình" của họ về hàm phản ứng của ngân hàng trung ương.
+**Kết quả:**
+
+- Tính chung tất cả lần thay chính trị, hay tất cả lần thay thông thường: kỳ vọng lạm phát dài hạn không khác nhóm đối chứng.
+- Người mới phi chính thống: kỳ vọng lạm phát dài hạn **tăng 0,5–1 điểm** trong 2 năm.
+- Người mới chính thống được bổ nhiệm vì chính trị: bài nói "gần như không đổi", tuy hình cho thấy kỳ vọng của nhóm này giảm.
+- Kỳ vọng tăng trưởng dài hạn: không đổi ở mọi nhóm.
+
+**Diễn giải của bài.** Kỳ vọng lạm phát dài hạn tăng mà kỳ vọng tăng trưởng dài hạn không đổi là phù hợp với đường Phillips dài hạn thẳng đứng: nới lỏng không nâng được sản lượng tiềm năng, chỉ làm lỏng neo kỳ vọng lạm phát. Tác động lâu dài duy nhất là neo kỳ vọng bị lỏng, phù hợp với việc giới dự báo cập nhật "mô hình" của họ về hàm phản ứng của ngân hàng trung ương. Kết hợp với mục 6: can thiệp chính trị đơn thuần mua được tăng trưởng tạm thời; bổ nhiệm người phi chính thống thì làm mất uy tín.
 
 ### 8. Mô hình minh hoạ
 
-Phụ lục dựng khuôn khổ Barro–Gordon trong mô hình Keynes mới: ngân hàng trung ương tối thiểu hoá tổn thất ½[π² + α(x − θ)²], với θ > 0 là mong muốn đẩy sản lượng lên trên tiềm năng (có thể do áp lực chính trị) và α là mức "bồ câu". Khi không cam kết, lạm phát trạng thái dừng π* = κθ / (1 − β + κ²/α) > 0: θ càng lớn, kỳ vọng lạm phát dài hạn càng cao. Khoảng cách sản lượng trạng thái dừng x* = θ / [1 + κ²/(α(1 − β))] > 0.
+Phụ lục dựng khuôn khổ Barro–Gordon trong mô hình Keynes mới. Ngân hàng trung ương tối thiểu hoá hàm tổn thất ½[π² + α(x − θ)²], trong đó π là lạm phát, x là khoảng cách sản lượng (sản lượng thực tế so với tiềm năng), θ > 0 là mong muốn đẩy sản lượng lên trên tiềm năng (có thể do áp lực chính trị), và α là mức "bồ câu", tức trọng số dành cho sản lượng so với lạm phát.
+
+Khi ngân hàng trung ương không cam kết được, lạm phát ở trạng thái dừng là π* = κθ / (1 − β + κ²/α) > 0, với κ là độ dốc của đường Phillips và β là hệ số chiết khấu. Công thức cho thấy θ càng lớn, tức áp lực chính trị càng mạnh, kỳ vọng lạm phát dài hạn càng cao. Khoảng cách sản lượng ở trạng thái dừng là x* = θ / [1 + κ²/(α(1 − β))] > 0. Mô hình vì vậy diễn đạt bằng toán điều mà dữ liệu cho thấy: một thống đốc mang mong muốn chính trị θ lớn hơn dẫn tới lạm phát dài hạn cao hơn.
 
 ### 9. Kết luận
 
-Can thiệp chính trị tự nó tạo ra một sự đánh đổi tạm thời giữa tăng trưởng cao hơn và lạm phát cao hơn. Chính việc bổ nhiệm người phi chính thống vì chính trị mới làm suy yếu uy tín trung và dài hạn của ngân hàng trung ương.
+Can thiệp chính trị tự nó tạo ra một sự đánh đổi tạm thời giữa tăng trưởng cao hơn và lạm phát cao hơn: trong hai năm sau khi công bố, lãi suất thực giảm khoảng 3,8 điểm, lạm phát tăng khoảng 3,4 điểm và tăng trưởng GDP tăng khoảng 1,6 điểm. Chính việc bổ nhiệm người phi chính thống vì chính trị mới làm suy yếu uy tín trung và dài hạn của ngân hàng trung ương: giới dự báo tin nó gần như không phản ứng với lạm phát, và kỳ vọng lạm phát dài hạn bị lỏng neo mà không mua được gì cho tăng trưởng dài hạn.
 
 ### 10. Ý nghĩa với Việt Nam
 
 **Khuôn khổ của bài không áp dụng trực tiếp được cho Việt Nam.** Ở Việt Nam, Ngân hàng Nhà nước là cơ quan thuộc Chính phủ và Thống đốc là thành viên Chính phủ; việc bổ nhiệm theo quy trình nhân sự của hệ thống chính trị. Theo định nghĩa của bài, câu hỏi "lần thay này có động cơ chính trị không" gần như không phân biệt được gì.
 
-Nhưng **bài học cốt lõi thì áp dụng được**: điều thị trường theo dõi không phải là văn bản luật mà là **hàm phản ứng của ngân hàng trung ương** — khi lạm phát tăng, lãi suất có tăng không. Phép đo của bài (độ nhạy của lãi suất kỳ vọng với lạm phát kỳ vọng) có thể dùng để đánh giá uy tín của bất kỳ ngân hàng trung ương nào, kể cả khi không có độc lập theo luật. Với một nền kinh tế đặt mục tiêu tăng trưởng cao hằng năm, rủi ro mà bài mô tả — nới lỏng mua được tăng trưởng hai năm nhưng làm lỏng neo kỳ vọng — là rủi ro trực tiếp.
+Nhưng **bài học cốt lõi thì áp dụng được**. Điều thị trường theo dõi không phải là văn bản luật mà là **hàm phản ứng của ngân hàng trung ương**: khi lạm phát tăng, lãi suất có tăng không. Phép đo của bài, tức độ nhạy của lãi suất kỳ vọng với lạm phát kỳ vọng, có thể dùng để đánh giá uy tín của bất kỳ ngân hàng trung ương nào, kể cả khi không có độc lập theo luật. Với một nền kinh tế đặt mục tiêu tăng trưởng cao hằng năm, rủi ro mà bài mô tả (nới lỏng mua được tăng trưởng hai năm nhưng làm lỏng neo kỳ vọng) là rủi ro trực tiếp.
 
 **Hồ sơ của thống đốc có ý nghĩa.** Người xuất thân ngân hàng trung ương, có đào tạo kinh tế chuyên sâu, trưởng thành từ bên trong gắn với kết quả lạm phát tốt hơn. Đây là tiêu chí nhân sự có thể áp dụng trong bất kỳ hệ thống nào.
 

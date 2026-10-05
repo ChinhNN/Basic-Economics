@@ -103,61 +103,113 @@ Hai loại "lợi ích" hoàn toàn khác nhau về bản chất:
 
 3. **Tái phân bổ thương mại có phải là chiến lược tốt trong dài hạn không?** Không. Khoản lời ngắn và trung hạn **có thể bị bù trừ theo thời gian bởi tổn thất tổng hợp dài hạn lớn hơn** gắn với phân mảnh thương mại. Tái phân bổ chỉ là chia lại chiếc bánh giữa các nước; phân mảnh làm chiếc bánh nhỏ đi.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Thuế quan và cuộc chiến thuế quan Mỹ – Trung.** Thuế quan là thuế đánh vào hàng nhập khẩu, làm hàng đó đắt hơn ở nước nhập khẩu. Trong 2018–19, Mỹ và Trung Quốc lần lượt áp thuế quan bổ sung lên những danh mục hàng hoá cụ thể của nhau. Ví dụ minh hoạ: một linh kiện điện tử Trung Quốc giá 100 USD, nếu bị Mỹ đánh thêm thuế 25%, thì nhà nhập khẩu Mỹ phải trả 125 USD; cùng linh kiện đó sản xuất ở một nước không bị đánh thuế với giá 110 USD trở nên rẻ hơn. Đây là cú sốc mà toàn bộ bài nghiên cứu đo tác động.
+
+**Chuyển hướng thương mại và hiệu ứng thế chỗ (trade diversion).** Khi hàng của nước A bị đánh thuế ở nước B, người mua ở B chuyển sang mua của nước thứ ba C. Nước C "thế chỗ" A trên thị trường B. Ví dụ minh hoạ theo con số trên: nhà nhập khẩu Mỹ chuyển đơn hàng từ Trung Quốc sang nhà máy ở một nước ASEAN. Bài kiểm tra xem các nước ASEAN có thật sự là nước C trong câu chuyện này hay không.
+
+**Trung chuyển và dán nhãn lại xuất xứ (transshipment).** Hàng vẫn được sản xuất ở nước bị đánh thuế, chỉ đi vòng qua một nước thứ ba, có thể lắp ráp khâu cuối hoặc đổi nhãn xuất xứ, rồi mới sang nước nhập khẩu. Trên số liệu hải quan, xuất khẩu của nước thứ ba tăng, nhưng giá trị gia tăng mà nước đó giữ lại rất mỏng. Ví dụ minh hoạ: một sản phẩm giá 100 USD đi qua nước trung chuyển, nơi chỉ đóng gói và dán nhãn với giá trị thêm 3 USD; xuất khẩu của nước đó ghi tăng 103 USD nhưng nền kinh tế chỉ thật sự tạo ra 3 USD. Phân biệt trung chuyển với chuyển hướng thật là logic then chốt của bài.
+
+**Đầu tư trực tiếp nước ngoài: dự án mới và mua bán sáp nhập.** Đầu tư trực tiếp nước ngoài (FDI) là khi nhà đầu tư nước ngoài bỏ vốn để sở hữu và điều hành doanh nghiệp ở nước nhận. Dự án mới (greenfield) là xây nhà máy chưa từng có; mua bán sáp nhập (M&A) là mua lại doanh nghiệp đã tồn tại. Ví dụ minh hoạ: 500 triệu USD xây một nhà máy lắp ráp điện thoại mới tạo thêm năng lực sản xuất; 500 triệu USD mua lại một nhà máy sẵn có chỉ đổi chủ sở hữu. Bài coi chỉ loại thứ nhất mới mở rộng khả năng xuất khẩu.
+
+**Nhà đầu tư trực tiếp và nhà đầu tư cuối cùng.** Nhà đầu tư trực tiếp là pháp nhân trực tiếp rót vốn vào nước nhận; nhà đầu tư cuối cùng là công ty mẹ thực sự kiểm soát dòng vốn đó. Ví dụ minh hoạ: một tập đoàn Hàn Quốc lập công ty con ở Singapore rồi từ đó đầu tư vào một nước ASEAN khác; số liệu thông thường ghi vốn đến từ Singapore, nhưng nhà đầu tư cuối cùng là Hàn Quốc. Phân biệt này quan trọng với ASEAN vì nhiều dòng vốn đi qua trung tâm trung gian như Singapore hay Hong Kong.
+
+**Sai biệt kép (difference-in-differences).** Phương pháp so sánh thay đổi của nhóm chịu tác động với thay đổi của nhóm không chịu tác động, trước và sau sự kiện. Ví dụ minh hoạ: nếu xuất khẩu nhóm hàng bị đánh thuế tăng 30% sau 2018 còn nhóm không bị đánh thuế tăng 10%, thì phần chênh 20 điểm là ước lượng của hiệu ứng thế chỗ. Điều kiện để phép so sánh đáng tin là trước cú sốc, hai nhóm phải diễn biến song song.
+
+**Tái phân bổ và phân mảnh thương mại.** Tái phân bổ là chia lại thị phần giữa các nước: nước này được thì nước kia mất, tổng thương mại thế giới không tăng. Phân mảnh là khi thế giới chia thành các khối giao thương ít với nhau hơn: chuỗi giá trị bị cắt khúc, thị trường nhỏ lại, chi phí tăng, nên tổng sản lượng thế giới giảm. Ví dụ minh hoạ: nếu chiếc bánh thương mại thế giới là 100 phần, tái phân bổ chuyển 2 phần từ Trung Quốc sang Việt Nam; phân mảnh làm cả chiếc bánh còn 95 phần, và phần của mọi nước đều co lại. Đây là cơ sở cho cảnh báo dài hạn của bài.
+
+**Giá trị gia tăng trong nước trong xuất khẩu.** Phần giá trị của hàng xuất khẩu thật sự được tạo ra trong nước (tiền lương, lợi nhuận, linh kiện nội địa), sau khi trừ giá trị đầu vào nhập khẩu. Ví dụ minh hoạ: một chiếc điện thoại xuất khẩu giá 300 USD dùng 250 USD linh kiện nhập khẩu thì giá trị gia tăng trong nước chỉ là 50 USD. Bài coi chỉ tiêu này, chứ không phải kim ngạch, là thước đo lợi ích thật.
+
+## Nội dung chi tiết
 
 ### 1. Vì sao câu hỏi này quan trọng
 
-Đợt tăng thuế quan Mỹ – Trung 2018–19 là cú sốc chính sách thương mại lớn nhất giữa hai nền kinh tế lớn nhất thế giới kể từ khi WTO ra đời. Giả thuyết phổ biến khi đó — và vẫn còn phổ biến đến nay — là ASEAN sẽ là bên hưởng lợi chính: nằm ngay cạnh Trung Quốc, đã hội nhập sâu vào chuỗi giá trị điện tử khu vực, chi phí lao động thấp hơn, và không bị Mỹ đánh thuế. Giả thuyết này đã trở thành cơ sở cho rất nhiều quyết định đầu tư và rất nhiều kỳ vọng chính sách trong khu vực.
+Đợt tăng thuế quan Mỹ – Trung 2018–19 là cú sốc chính sách thương mại lớn nhất giữa hai nền kinh tế lớn nhất thế giới kể từ khi Tổ chức Thương mại Thế giới (WTO) ra đời. Mỹ và Trung Quốc đánh thuế lẫn nhau lên những danh mục hàng hoá cụ thể, nên giá hàng của nước này trên thị trường nước kia tăng lên.
 
-Bài nghiên cứu đặt ba câu hỏi kiểm chứng giả thuyết đó: hưởng lợi có thật không, ai hưởng, và hưởng được bao lâu.
+Giả thuyết phổ biến khi đó, và vẫn còn phổ biến đến nay, là ASEAN sẽ là bên hưởng lợi chính. Lý do nghe rất thuyết phục: khu vực này nằm ngay cạnh Trung Quốc, đã hội nhập sâu vào chuỗi giá trị điện tử khu vực, có chi phí lao động thấp hơn, và không bị Mỹ đánh thuế. Nếu nhà nhập khẩu Mỹ không muốn trả thuế cho hàng Trung Quốc, ASEAN là nơi thay thế tự nhiên. Giả thuyết này đã trở thành cơ sở cho rất nhiều quyết định đầu tư và rất nhiều kỳ vọng chính sách trong khu vực.
+
+Bài nghiên cứu không mặc định giả thuyết đó đúng, mà đặt ba câu hỏi để kiểm chứng:
+
+1. **Hưởng lợi có thật không?** Tức xuất khẩu của ASEAN có tăng nhanh hơn ở đúng những nhóm hàng bị đánh thuế hay không.
+2. **Ai hưởng?** Lợi ích có chia đều cho cả khối hay tập trung ở một vài nước.
+3. **Hưởng được bao lâu?** Lợi ích có kéo dài sang trung hạn, và có bị tổn thất dài hạn của phân mảnh thương mại bù trừ hay không.
+
+Bài đo cả tác động ngắn hạn lẫn trung hạn của cú sốc lên thương mại và đầu tư của các nước ASEAN.
 
 ### 2. Cách tiếp cận
 
-Bài kết hợp hai loại dữ liệu mà trước đây ít khi được dùng chung:
+Bài kết hợp hai loại dữ liệu mà trước đây ít khi được dùng chung, để theo dõi hai kênh tác động của thuế quan: kênh thương mại và kênh đầu tư.
 
-**Dữ liệu thương mại chi tiết theo dòng sản phẩm.** Điều này cho phép tách riêng những nhóm hàng thực sự nằm trong danh mục bị Mỹ hoặc Trung Quốc đánh thuế, khỏi những nhóm hàng không bị. Nếu ASEAN chỉ đơn thuần tăng trưởng xuất khẩu nói chung, cả hai nhóm sẽ tăng như nhau. Nếu có hiệu ứng thế chỗ thật, nhóm bị đánh thuế phải tăng nhanh hơn.
+**Dữ liệu thương mại chi tiết theo dòng sản phẩm.** Mỗi danh mục thuế quan của Mỹ và Trung Quốc liệt kê những dòng sản phẩm cụ thể. Dữ liệu ở cấp dòng sản phẩm cho phép tách riêng những nhóm hàng thực sự nằm trong danh mục bị Mỹ hoặc Trung Quốc đánh thuế, khỏi những nhóm hàng không bị. Logic kiểm định đơn giản: nếu ASEAN chỉ đơn thuần tăng trưởng xuất khẩu nói chung (vì kinh tế thế giới tốt lên hay vì năng lực tăng sẵn), thì cả hai nhóm sẽ tăng như nhau. Nếu có hiệu ứng thế chỗ thật, nhóm bị đánh thuế phải tăng nhanh hơn nhóm không bị.
 
-**Cơ sở dữ liệu FDI cấp doanh nghiệp.** Dữ liệu FDI tổng hợp theo quốc gia không trả lời được câu hỏi quan trọng nhất: vốn chảy vào **ngành nào**. Dữ liệu cấp doanh nghiệp cho phép ghép từng khoản đầu tư với ngành cụ thể, từ đó kiểm tra xem vốn có chảy vào đúng những ngành hưởng lợi từ thuế quan hay không.
+**Cơ sở dữ liệu FDI cấp doanh nghiệp.** Dữ liệu FDI tổng hợp theo quốc gia chỉ cho biết một nước nhận bao nhiêu vốn, không trả lời được câu hỏi quan trọng nhất: vốn chảy vào **ngành nào**. Dữ liệu cấp doanh nghiệp cho phép ghép từng khoản đầu tư với ngành cụ thể, từ đó tách được các đợt bùng nổ vốn theo từng ngành và kiểm tra xem vốn có chảy vào đúng những ngành hưởng lợi từ thuế quan hay không.
 
-**Thiết kế nhận dạng: sai biệt kép (difference-in-difference).** So sánh diễn biến của nhóm sản phẩm–ngành *bị đánh thuế* với nhóm *không bị*, trước và sau 2018, giữa các nước ASEAN. Bài lấy năm 2017 làm năm gốc và ước lượng hệ số riêng cho từng năm, cho phép kiểm tra xem trước cú sốc hai nhóm có diễn biến song song với nhau hay không — chuẩn mực bắt buộc của thiết kế này.
+**Thiết kế nhận dạng: sai biệt kép (difference-in-difference).** Bài so sánh diễn biến của nhóm sản phẩm – ngành *bị đánh thuế* với nhóm *không bị*, trước và sau 2018, giữa các nước ASEAN. Năm 2017, năm cuối cùng trước cú sốc, được lấy làm năm gốc. Thay vì một hệ số chung cho cả giai đoạn sau, bài ước lượng hệ số riêng cho từng năm. Cách làm này có hai lợi ích. Một là thấy được tác động diễn biến thế nào theo thời gian, ngắn hạn hay kéo dài. Hai là kiểm tra được giả định then chốt của thiết kế: trước cú sốc, hai nhóm có diễn biến song song với nhau hay không. Nếu các hệ số của những năm trước 2018 khác 0, tức là hai nhóm đã khác nhau từ trước, thì phần chênh sau 2018 không thể quy hết cho thuế quan. Kiểm tra này là chuẩn mực bắt buộc của thiết kế sai biệt kép.
 
-Bài cũng phân biệt **nhà đầu tư trực tiếp** với **nhà đầu tư cuối cùng**. Đây là phân biệt thiết yếu với ASEAN vì rất nhiều dòng vốn đi qua các trung tâm trung gian như Singapore hay Hong Kong; nếu chỉ nhìn nhà đầu tư trực tiếp sẽ hiểu sai nguồn gốc thực của vốn.
+**Nhà đầu tư trực tiếp so với nhà đầu tư cuối cùng.** Đây là phân biệt thiết yếu với ASEAN, vì rất nhiều dòng vốn đi qua các trung tâm trung gian như Singapore hay Hong Kong. Nếu chỉ nhìn nhà đầu tư trực tiếp, ta sẽ hiểu sai nguồn gốc thực của vốn: một khoản vốn ghi là "từ Singapore" có thể thực chất do một công ty mẹ ở nơi khác kiểm soát.
 
-Một phân biệt quan trọng khác: **dự án đầu tư mới (greenfield)** so với **thương vụ mua bán sáp nhập**. Dự án mới tạo ra năng lực sản xuất chưa từng tồn tại; mua bán sáp nhập chỉ chuyển quyền sở hữu tài sản đã có. Chỉ loại thứ nhất mới thực sự mở rộng khả năng xuất khẩu của nước nhận.
+**Dự án đầu tư mới (greenfield) so với thương vụ mua bán sáp nhập.** Dự án mới tạo ra năng lực sản xuất chưa từng tồn tại: nhà máy mới, dây chuyền mới, việc làm mới. Mua bán sáp nhập chỉ chuyển quyền sở hữu tài sản đã có. Chỉ loại thứ nhất mới thực sự mở rộng khả năng xuất khẩu của nước nhận. Vì vậy, khi hỏi FDI có tạo ra năng lực sản xuất mới hay không, phân biệt này là bắt buộc.
 
 ### 3. Kết quả về thương mại
 
-Có hiệu ứng thế chỗ thật: nhiều nước ASEAN tăng xuất khẩu mạnh hơn ở đúng những nhóm hàng bị đánh thuế. Ngành trung tâm là **máy móc điện và điện tử** — vừa là tâm điểm của cuộc chiến thuế quan, vừa là ngành ASEAN chuyên môn hóa sâu nhất.
+Có hiệu ứng thế chỗ thật. Một số nước ASEAN tăng xuất khẩu sang Mỹ và Trung Quốc mạnh hơn ở đúng những nhóm hàng mà hai nước này đánh thuế lẫn nhau. Vì phép so sánh được làm giữa nhóm bị đánh thuế và nhóm không bị trong cùng một nước, kết quả này không phải ảo giác thống kê do tăng trưởng chung. Ngành trung tâm là **máy móc điện và điện tử**: vừa là tâm điểm của cuộc chiến thuế quan, vừa là ngành ASEAN chuyên môn hoá sâu nhất.
 
-Nhưng bài nghiên cứu không dừng ở đó mà đặt tiếp câu hỏi khó hơn: lợi ích đó có chuyển thành kết quả xuất khẩu tổng thể tốt hơn không? Câu trả lời trong phần tóm tắt là **không, không phổ quát**. Một nước có thể tăng xuất khẩu điện tử sang Mỹ mà tổng kim ngạch vẫn đi ngang, nếu các dòng hàng khác suy giảm hoặc nếu phần tăng chỉ là hàng trung chuyển với giá trị gia tăng trong nước rất mỏng.
+Nhưng phạm vi của lợi ích hẹp. Tăng trưởng vượt trội nằm ở đúng những nhóm sản phẩm bị đánh thuế, chứ không phải trên toàn bộ rổ hàng hoá, và cũng không phổ quát cho cả khối.
 
-Bài cũng đi tìm **yếu tố nào giải thích nước nào hưởng lợi nhiều hơn nước nào** — tức không coi việc hưởng lợi là ngẫu nhiên mà là kết quả của những điều kiện có thể nhận diện được.
+Bài không dừng ở đó mà đặt tiếp câu hỏi khó hơn: lợi ích ở các nhóm hàng bị đánh thuế có chuyển thành kết quả xuất khẩu tổng thể tốt hơn không? Câu trả lời trong phần tóm tắt là **không, không phổ quát**. Không phải nước ASEAN nào hưởng lợi ở vài dòng sản phẩm cũng xuất khẩu tốt hơn về tổng thể. Có hai cách điều này xảy ra:
+
+- Các dòng hàng khác suy giảm, bù trừ phần tăng ở nhóm bị đánh thuế, nên tổng kim ngạch vẫn đi ngang.
+- Phần tăng chỉ là hàng trung chuyển với giá trị gia tăng trong nước rất mỏng, nên dù kim ngạch tăng, nền kinh tế không thu về được bao nhiêu.
+
+Bài cũng đi tìm **yếu tố nào giải thích nước nào hưởng lợi nhiều hơn nước nào**. Tức là không coi việc hưởng lợi là ngẫu nhiên, mà là kết quả của những điều kiện có thể nhận diện được.
 
 ### 4. Kết quả về đầu tư — và trường hợp Việt Nam
 
-Đây là đóng góp trung tâm. Khi tách dòng FDI theo ngành và theo loại (dự án mới so với mua bán sáp nhập), bức tranh trở nên rất khác so với khi chỉ nhìn tổng vốn quốc gia.
+Đây là đóng góp trung tâm của bài. Khi tách dòng FDI theo ngành và theo loại (dự án mới so với mua bán sáp nhập), bức tranh trở nên rất khác so với khi chỉ nhìn tổng vốn quốc gia.
 
-**Trong toàn khối ASEAN, Việt Nam nổi bật là nước duy nhất mà FDI vào các ngành bị đánh thuế tăng nhanh rõ rệt trong giai đoạn 2018–19.** Nghĩa là các nhà đầu tư không chỉ chuyển đơn hàng mà chuyển cả nhà máy.
+**Trong toàn khối ASEAN, Việt Nam nổi bật là nước duy nhất mà FDI vào các ngành bị đánh thuế tăng nhanh rõ rệt ngay trong giai đoạn 2018–19.** Nghĩa là các nhà đầu tư không chỉ chuyển đơn hàng mà chuyển cả nhà máy.
 
-Đây chính là mối liên kết nhân quả mà bài muốn thiết lập: **đầu tư đi trước, thương mại theo sau**. Khi có nhà máy mới thì lợi thế xuất khẩu có nền tảng vật chất và tồn tại được qua trung hạn. Khi không có, phần tăng xuất khẩu chỉ là hiện tượng nhất thời của chuỗi cung ứng đang tìm đường vòng, và sẽ biến mất khi dòng chuyển hướng dừng lại.
+Đây chính là mối liên kết mà bài muốn thiết lập: **đầu tư đi trước, thương mại theo sau**. Cơ chế có thể mô tả theo từng bước:
+
+1. Thuế quan Mỹ – Trung 2018–19 tác động qua hai kênh cùng lúc.
+2. Kênh thương mại: xuất khẩu ASEAN sang Mỹ và Trung Quốc tăng ở đúng nhóm hàng bị đánh thuế.
+3. Kênh đầu tư: FDI chảy vào ASEAN, tập trung vào đúng các ngành bị đánh thuế. Ở Việt Nam, dòng vốn này tăng nhanh rõ rệt ngay 2018–19, là trường hợp duy nhất trong khối.
+4. Hai kênh gặp nhau ở chỗ năng lực sản xuất mới được tạo ra.
+5. Nhờ đó, lợi thế xuất khẩu kéo dài sang trung hạn thay vì tắt ngay sau cú sốc.
+
+**Phân biệt chuyển hướng thật với trung chuyển.** Khi xuất khẩu của một nước ASEAN tăng, có hai khả năng rất khác nhau:
+
+| | Không có FDI mới đi kèm | Có FDI mới vào đúng ngành đó |
+|---|---|---|
+| Bản chất | Chỉ dán nhãn lại xuất xứ, lắp ráp khâu cuối; hàng vẫn là của chuỗi cũ đi vòng | Nhà máy mới, việc làm mới, năng lực mới |
+| Giá trị gia tăng thu về | Rất mỏng | Giá trị gia tăng trong nước tăng thật |
+| Độ bền | Tắt ngay khi dòng chuyển hướng dừng | Bền trong trung hạn |
+| Trường hợp | | Việt Nam |
+
+Khi có nhà máy mới, lợi thế xuất khẩu có nền tảng vật chất và tồn tại được qua trung hạn. Khi không có, phần tăng xuất khẩu chỉ là hiện tượng nhất thời của chuỗi cung ứng đang tìm đường vòng, và sẽ biến mất khi dòng chuyển hướng dừng lại.
 
 ### 5. Hàm ý tổng hợp: vì sao thắng ngắn hạn không đồng nghĩa với thắng
 
-Phần cuối của bài đặt kết quả vi mô vào khung vĩ mô, và đây là chỗ giọng điệu thay đổi hẳn.
+Phần cuối của bài đặt kết quả vi mô vào khung vĩ mô, và đây là chỗ giọng điệu thay đổi hẳn. Bài phân biệt hai loại "lợi ích" hoàn toàn khác nhau về bản chất:
 
-Tái phân bổ thương mại là **trò chơi phân phối lại**: Việt Nam giành được thị phần mà Trung Quốc mất, tổng lượng thương mại thế giới không tăng thêm. Phân mảnh thương mại thì khác hẳn — đó là **mất mát tuyệt đối** cho tất cả: chuỗi giá trị bị cắt khúc, quy mô thị trường hiệu dụng thu hẹp, chi phí sản xuất tăng, chuyên môn hóa theo lợi thế so sánh bị đảo ngược.
+| | Tái phân bổ (reallocation) | Phân mảnh (fragmentation) |
+|---|---|---|
+| Bản chất | Trò chơi tổng bằng không giữa các nước: Việt Nam được thì Trung Quốc mất | Mất mát tuyệt đối cho tất cả |
+| Cơ chế | Thị phần đổi chủ; tổng lượng thương mại thế giới không tăng thêm, thế giới không giàu thêm | Chuỗi giá trị bị cắt khúc, quy mô thị trường hiệu dụng thu hẹp, chi phí sản xuất tăng, chuyên môn hoá theo lợi thế so sánh bị đảo ngược |
+| Thời hạn | Ngắn và trung hạn: có lời cho nước thế chỗ | Dài hạn: tất cả đều thiệt |
 
-Với một nền kinh tế nhỏ và rất mở, hai hiệu ứng này có độ lớn rất khác nhau. Phần được từ việc thế chỗ Trung Quốc ở thị trường Mỹ là hữu hạn và có thể đo đếm. Phần mất từ việc thế giới nói chung giao thương ít đi thì áp lên toàn bộ nền kinh tế. Kết luận của bài: **phần mất có thể lớn hơn phần được**, và khoảng thời gian để điều đó lộ ra chính là "trung hạn" trong tiêu đề.
+Với một nền kinh tế nhỏ và rất mở như Việt Nam, hai hiệu ứng này có độ lớn rất khác nhau. Phần được từ việc thế chỗ Trung Quốc ở thị trường Mỹ là hữu hạn và có thể đo đếm: nó giới hạn ở những nhóm hàng bị đánh thuế. Phần mất từ việc thế giới nói chung giao thương ít đi thì áp lên toàn bộ nền kinh tế, vì mọi ngành xuất khẩu và mọi chuỗi cung ứng đều dựa vào một thế giới mở. Kết luận của bài: khoản lời từ tái phân bổ trong ngắn và trung hạn **có thể bị xoá sạch theo thời gian** bởi tổn thất tổng hợp dài hạn mà phân mảnh gây ra, tức **phần mất có thể lớn hơn phần được**. Khoảng thời gian để điều đó lộ ra chính là "trung hạn" trong tiêu đề. Nói cách khác, làm "nước thứ ba hưởng lợi" là một vị thế mong manh, không phải một mô hình tăng trưởng.
 
 ### 6. Ý nghĩa với Việt Nam
 
-Ba thông điệp rút ra được, kể cả khi chỉ đọc phần tóm tắt:
+Ba thông điệp rút ra được, kể cả khi chỉ đọc phần tóm tắt.
 
-**Việt Nam thắng thật, và thắng vì lý do đúng.** Không phải nhờ dán nhãn lại xuất xứ mà nhờ thu hút được dòng vốn tạo năng lực sản xuất mới. Đây là sự khác biệt về chất so với vai trò trung chuyển thuần túy, và là lý do Việt Nam được nêu tên riêng trong một bài nghiên cứu về cả khối.
+**Việt Nam thắng thật, và thắng vì lý do đúng.** Không phải nhờ dán nhãn lại xuất xứ mà nhờ thu hút được dòng vốn tạo năng lực sản xuất mới. Đây là sự khác biệt về chất so với vai trò trung chuyển thuần tuý, và là lý do Việt Nam được nêu tên riêng trong một bài nghiên cứu về cả khối.
 
-**Nhưng lợi thế đó phụ thuộc vào việc thế giới tiếp tục phân mảnh theo đúng hướng cũ.** Mô hình "hưởng lợi từ căng thẳng Mỹ – Trung" chỉ hoạt động khi căng thẳng là song phương và có chọn lọc. Nếu rào cản trở nên phổ quát, áp lên cả nước thứ ba, thì Việt Nam mất cả phần lời lẫn phần gốc — vì nền kinh tế đã được xây dựng quanh giả định về một thế giới mở.
+**Nhưng lợi thế đó phụ thuộc vào việc thế giới tiếp tục phân mảnh theo đúng hướng cũ.** Mô hình "hưởng lợi từ căng thẳng Mỹ – Trung" chỉ hoạt động khi căng thẳng là song phương và có chọn lọc: Mỹ và Trung Quốc đánh thuế nhau, còn nước thứ ba được để yên. Nếu rào cản trở nên phổ quát, áp lên cả nước thứ ba, thì Việt Nam mất cả phần lời lẫn phần gốc, vì nền kinh tế đã được xây dựng quanh giả định về một thế giới mở.
 
-**Bài toán chính sách vì thế không phải là "làm sao hưởng lợi nhiều hơn từ chuyển hướng thương mại", mà là nâng tỷ trọng giá trị gia tăng trong nước.** Chỉ khi phần giá trị tạo ra và giữ lại trong nước đủ lớn, lợi thế mới không biến mất cùng lúc với dòng chuyển hướng. Đây cũng là lý do bài nghiên cứu dành hẳn một phần để phân tách giá trị gia tăng trong nước và nước ngoài trong xuất khẩu của ASEAN — chỉ tiêu này, chứ không phải kim ngạch, mới là thước đo lợi ích thật.
+**Bài toán chính sách vì thế không phải là "làm sao hưởng lợi nhiều hơn từ chuyển hướng thương mại", mà là nâng tỷ trọng giá trị gia tăng trong nước.** Chỉ khi phần giá trị tạo ra và giữ lại trong nước đủ lớn, lợi thế mới không biến mất cùng lúc với dòng chuyển hướng. Đây cũng là lý do bài nghiên cứu dành hẳn một phần để phân tách giá trị gia tăng trong nước và nước ngoài trong xuất khẩu của ASEAN. Chỉ tiêu này, chứ không phải kim ngạch, mới là thước đo lợi ích thật.
 
 ## Thuật ngữ
 
