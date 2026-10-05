@@ -49,40 +49,94 @@
 2. Vì sao doanh nghiệp vàng ở Việt Nam có thể khống chế nhịp giá và độ chênh lệch?
 3. Vì sao đa số người lướt sóng vàng thua lỗ, và nên đầu tư vàng theo tỷ lệ nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Giá mua vào và giá bán ra.** Doanh nghiệp vàng niêm yết hai giá. Giá mua vào là giá doanh nghiệp mua lại vàng của khách; giá bán ra là giá doanh nghiệp bán vàng cho khách. Giá bán ra luôn cao hơn. Ví dụ trong bài: lúc 17h ngày 12/8/2020, SJC mua vào 52,56 triệu đồng/lượng và bán ra 56,38 triệu đồng/lượng. Người mua vàng trả giá bán ra, nhưng khi bán lại chỉ nhận giá mua vào.
+
+**Chênh lệch mua – bán (bid–ask spread).** Hiệu số giữa giá bán ra và giá mua vào. Đây là khoản khách "trả trước" ngay khi mua, trước cả khi giá thị trường đổi. Ví dụ trong bài: chênh lệch của SJC ngày 12/8/2020 là 3,82 triệu đồng/lượng, hơn 7%. Đây là khái niệm trung tâm của bài, mà tác giả gọi là chênh lệch "hỗn".
+
+**Điểm hòa vốn (break-even).** Mức giá mà khi bán lại, người mua không lời không lỗ. Với vàng vật chất, giá mua vào của doanh nghiệp phải tăng lên bằng giá bán ra lúc mình mua. Ví dụ trong bài: với chênh lệch khoảng 10%, giá phải tăng khoảng 10% thì khách mới hòa vốn. Khái niệm này cho thấy chênh lệch lớn làm việc mua bán ngắn hạn gần như chắc chắn thua.
+
+**"Tiền tệ hóa" vàng (gold monetization).** Hiện tượng vàng được dùng như tiền trong nền kinh tế: định giá, thanh toán, cất trữ thay cho tiền đồng. Nhà nước có chủ trương chống hiện tượng này, nên chỉ cho một số ít doanh nghiệp kinh doanh vàng miếng. Theo bài, đây là gốc của thế gần như độc quyền và của chênh lệch lớn.
+
+**Thế độc quyền (quasi-monopoly).** Khi chỉ vài doanh nghiệp được bán một mặt hàng, họ có quyền tự định giá mà ít sợ bị đối thủ cạnh tranh làm giảm giá. Ví dụ minh hoạ: nếu chỉ có một cửa hàng được bán vàng miếng trong cả thành phố, cửa hàng đó có thể giữ chênh lệch rộng mà khách vẫn phải mua. Bài dùng khái niệm này để giải thích câu "doanh nghiệp vàng nắm cán".
+
+**Lướt sóng, đầu cơ (speculation) và sóng ngược.** Lướt sóng là mua bán ngắn hạn để ăn chênh lệch giá. Sóng ngược (counter-trend wave) là đợt giá đi ngược xu hướng chính trong một thời gian ngắn. Ví dụ minh hoạ: giá vàng đang trong xu hướng tăng nhưng có một tuần giảm 3%; người lướt sóng hoảng sợ bán ra rồi lỡ đợt tăng sau đó. Bài lập luận rằng sóng ngược là lý do đa số người lướt sóng thua.
+
+**"Thắng nhỏ, thua lớn" (disposition effect).** Thói quen tâm lý: chốt lời sớm khi có lãi nhỏ, nhưng giữ lâu khoản đang lỗ vì không chịu nhận thua. Kết quả là các khoản lời thì nhỏ, các khoản lỗ thì lớn. Đây là lý do thứ hai bài nêu.
+
+**Đòn bẩy (leverage).** Giao dịch bằng tiền vay hoặc tiền ký quỹ, nên lời và lỗ đều bị khuếch đại. Ví dụ minh hoạ: ký quỹ 10 triệu đồng để giao dịch lượng vàng trị giá 100 triệu đồng; giá giảm 5% là mất 5 triệu, tức một nửa số tiền bỏ ra. Bài nói người đầu tư trên sàn vàng thua nặng vì đòn bẩy cao.
+
+## Nội dung chi tiết
 
 ### Chênh giá mua – bán quá lớn
-- Ngày 12/8/2020 giá vàng "rơi thẳng đứng", chênh lệch mua vào – bán ra doãng rất rộng, là đứt gãy lớn đầu tiên trong chuỗi leo thang giá vàng trước đó.
-- Nhiều người giải thích giá giảm "do Nga công bố có vắc xin Covid-19". Ông Chánh cho rằng nghe thì hợp lý, nhưng có thể chỉ là "cái cớ" để giải thích điều đã xảy ra.
-- Kinh nghiệm 15 năm đầu tư vàng và 1 năm làm chủ sàn "Vàng thế giới": trong đợt tăng mạnh luôn có sóng giảm xen kẽ, và ngược lại. Vì vậy dù đoán được sóng chính, hầu như không ai ăn trọn con sóng lớn; người đầu cơ may mắn thắng vài giá đã vội chốt lời, người kém may thì thua nặng vì vướng sóng ngược.
-- Giá trong nước tăng giảm theo thế giới nhưng thời gian không đồng bộ: có khi gần tức thời, có khi chậm vài nhịp; theo ông Chánh, nhằm bảo vệ trạng thái của chủ doanh nghiệp vàng.
-- Chênh lệch mua – bán: thế giới 0,05–0,2%; Việt Nam thường 1–3%, lúc biến động 4–5%, thậm chí 6–7%.
-- Số liệu ngày 12/8/2020:
+
+**Bối cảnh ngày 12/8/2020.** Bài là cuộc phỏng vấn ông Lâm Minh Chánh sau ngày 12/8/2020, khi giá vàng "rơi thẳng đứng" và chênh lệch giữa giá mua vào và giá bán ra doãng ra rất rộng. Đây là đứt gãy lớn đầu tiên trong chuỗi leo thang của giá vàng trước đó.
+
+**Tin tức thường chỉ là "cái cớ".** Nhiều người giải thích rằng giá giảm "do Nga công bố có vắc xin Covid-19". Ông Chánh cho rằng lời giải thích này nghe thì hợp lý, nhưng có thể chỉ là "cái cớ" được tìm ra sau để giải thích điều đã xảy ra.
+
+**Bài học từ kinh nghiệm.** Ông Chánh dựa vào 15 năm đầu tư vàng và 1 năm làm chủ sàn "Vàng thế giới". Theo ông, trong một đợt tăng mạnh luôn có những sóng giảm xen kẽ, và trong đợt giảm cũng có sóng tăng xen kẽ. Vì vậy, dù đoán được xu hướng chính, hầu như không ai ăn trọn được con sóng lớn: người đầu cơ may mắn thì thắng được vài giá đã vội chốt lời, người kém may thì thua nặng vì vướng phải những con sóng ngược.
+
+**Giá trong nước đi theo thế giới nhưng lệch nhịp.** Giá vàng trong nước tăng giảm theo giá thế giới, nhưng không đồng bộ về thời gian: có lúc gần như tức thời, có lúc chậm vài nhịp. Theo ông Chánh, sự lệch nhịp này nhằm bảo vệ trạng thái (vị thế mua bán) của chủ doanh nghiệp vàng.
+
+**So sánh chênh lệch mua – bán:**
+
+| Thị trường | Chênh lệch mua – bán |
+|---|---|
+| Thế giới | 0,05–0,2% |
+| Việt Nam, thường ngày | 1–3% |
+| Việt Nam, lúc biến động | 4–5%, thậm chí 6–7% |
+
+Tức là chênh lệch ở Việt Nam ngày thường đã gấp hàng chục lần thế giới.
+
+**Số liệu ngày 12/8/2020:**
 
 | Thời điểm, nguồn giá | Giá mua vào | Giá bán ra | Chênh lệch | Tỷ lệ bài nêu | Tính lại |
 |---|---|---|---|---|---|
 | 17h, SJC | 52,56 triệu/lượng | 56,38 triệu/lượng | 3,82 triệu | hơn 7% | 7,27% trên giá mua vào (6,78% trên giá bán ra) |
 | 13h38, app Giá vàng lấy giá Vietcombank (website SJC không truy cập được) | 47,52 triệu/lượng | 52,20 triệu/lượng | 4,68 triệu | gần 10% | 9,85% trên giá mua vào (8,97% trên giá bán ra) |
 
-- Hệ quả cho khách (theo ông Chánh, với chênh lệch khoảng 10%):
-  - Mua xong, giá phải tăng 10% mới hòa vốn.
-  - Giá tăng 15% thì chỉ lời 5% trên giá vốn (tính lại: 47,52 × 1,15 = 54,65 triệu, lời khoảng 4,7% so với 52,20 triệu, khớp).
-  - Giá giảm 5% thì lỗ 15% trên giá vốn (tính lại: khoảng 13,5%, xem Lưu ý).
-- "Khách hàng nắm lưỡi, doanh nghiệp vàng nắm cán. Vì thế tôi gọi đây là sự chênh lệch giá rất 'hỗn' của vàng trong nước."
-- Lý giải: do chủ trương cấm "tiền tệ hóa" vàng của Nhà nước, chỉ một số ít doanh nghiệp có quyền mua bán vàng; với thế gần như độc quyền, họ khống chế nhịp tăng và độ chênh lệch để có lợi nhất, đẩy phần thiệt sang khách.
+**Hệ quả cho khách.** Ông Chánh tính với chênh lệch khoảng 10%, theo giá Vietcombank:
+
+| Diễn biến giá sau khi mua | Theo ông Chánh | Tính lại |
+|---|---|---|
+| Giá tăng 10% | Mới hòa vốn | 47,52 × 1,1 ≈ 52,27 triệu, xấp xỉ giá vốn |
+| Giá tăng 15% | Chỉ lời 5% trên giá vốn | 47,52 × 1,15 = 54,65 triệu, lời khoảng 4,7% so với 52,20 triệu, khớp |
+| Giá giảm 5% | Lỗ 15% trên giá vốn | Giá mua vào còn khoảng 45,14 triệu, lỗ khoảng 13,5% so với 52,20 triệu; con số 15% là phép cộng gần đúng (10% chênh lệch cộng 5% giảm giá) |
+
+Từ đó ông Chánh đúc kết: "Khách hàng nắm lưỡi, doanh nghiệp vàng nắm cán. Vì thế tôi gọi đây là sự chênh lệch giá rất 'hỗn' của vàng trong nước." Hình ảnh con dao ở đây: người cầm cán điều khiển được, người nắm lưỡi thì bị đứt tay.
+
+**Nguyên nhân theo ông Chánh.** Chuỗi lập luận gồm bốn bước:
+
+1. Nhà nước có chủ trương chống "tiền tệ hóa" vàng.
+2. Vì vậy chỉ một số ít doanh nghiệp có quyền mua bán vàng miếng.
+3. Với thế gần như độc quyền đó, doanh nghiệp "nắm cán": khống chế nhịp tăng giảm và độ rộng của chênh lệch mua – bán theo hướng có lợi nhất cho mình.
+4. Phần thiệt bị đẩy sang khách, người "nắm lưỡi": mua xong phải chờ giá tăng khoảng 10% mới hòa vốn.
 
 ### Đa số người lướt sóng vàng sẽ thua lỗ
-- Hầu như không ai dự đoán đúng giá vàng. Khi giá tăng, nhiều chuyên gia trong và ngoài nước dự báo 2.000, thậm chí 2.500 USD/ounce; khi giá giảm lại tìm lý lẽ giải thích. Họ đoán sai làm nhiều người tin theo nhưng không chịu trách nhiệm.
-- Nhắc lại: "Giá vàng như có mắt vậy..." (câu nói quen thuộc của ông Chánh).
-- Ba kịch bản ông Chánh đưa ra (lúc đó):
-  1. Sau vài cơn giảm khiến hầu hết mọi người nghĩ vàng sẽ giảm hoặc lình xình, vàng tăng trở lại nhanh và mạnh.
-  2. Vàng rớt xuống dưới vùng 1.800 USD/ounce, thậm chí sâu hơn.
-  3. Vàng dao động sóng nhỏ trong vùng 1.800–2.000 USD/ounce.
-  - "Còn kịch bản nào sẽ diễn ra, thì tôi chịu. Nếu tôi đoán đúng thì tôi đã siêu giàu rồi."
-- Khuyến cáo: rất thận trọng, không dồn hết tiền để lướt sóng, kinh doanh ngắn hạn vàng.
-- Hai lý do đa số người lướt sóng thua: (1) không thật sự đoán đúng giá, mà nếu đoán đúng thì bị sóng nhỏ "hù dọa" thành đoán sai; (2) bệnh "thắng nhỏ, thua lớn", tâm lý hành vi phổ biến và lặp đi lặp lại.
-- Đầu tư trên sàn thì thua nặng vì đòn bẩy cao; vàng vật chất thì thiệt vì chênh lệch "hỗn".
-- Khuyến nghị (dẫn từ sách của ông): đầu tư dài hạn vàng 5–10% tài sản, tối đa 10%, vì có tài sản lợi nhuận tốt và ít rủi ro hơn vàng, như cổ phiếu tốt trên sàn chứng khoán.
+
+**Không ai đoán đúng giá vàng.** Theo ông Chánh, hầu như không ai dự đoán đúng giá vàng. Khi giá tăng, nhiều chuyên gia trong và ngoài nước dự báo giá sẽ lên 2.000, thậm chí 2.500 USD/ounce; khi giá giảm, họ lại tìm lý lẽ để giải thích. Họ đoán sai, khiến nhiều người tin theo, nhưng không chịu trách nhiệm. Ông nhắc lại câu nói quen thuộc của mình: "Giá vàng như có mắt vậy...", ý nói giá thường đi ngược điều số đông chờ đợi.
+
+**Ba kịch bản ông đưa ra (tại thời điểm tháng 8/2020):**
+
+1. Sau vài cơn giảm khiến hầu hết mọi người nghĩ vàng sẽ giảm hoặc lình xình, vàng tăng trở lại nhanh và mạnh.
+2. Vàng rớt xuống dưới vùng 1.800 USD/ounce, thậm chí sâu hơn.
+3. Vàng dao động sóng nhỏ trong vùng 1.800–2.000 USD/ounce.
+
+Và ông tự nhận: "Còn kịch bản nào sẽ diễn ra, thì tôi chịu. Nếu tôi đoán đúng thì tôi đã siêu giàu rồi."
+
+**Khuyến cáo.** Ông khuyên rất thận trọng, không dồn hết tiền để lướt sóng hay kinh doanh vàng ngắn hạn.
+
+**Hai lý do đa số người lướt sóng thua:**
+
+- (1) Họ không thật sự đoán đúng giá; và ngay cả khi đoán đúng xu hướng, họ bị các sóng nhỏ ngược chiều "hù dọa" đến mức bán sớm, biến dự đoán đúng thành kết quả sai.
+- (2) Bệnh "thắng nhỏ, thua lớn": chốt lời vội khi có lãi nhỏ, nhưng giữ lỗ khi thua. Đây là tâm lý hành vi phổ biến và lặp đi lặp lại.
+
+Hậu quả khác nhau tùy kênh. Người đầu tư trên sàn vàng thua nặng vì dùng đòn bẩy cao, nên một đợt sóng ngược có thể xoá sạch tiền ký quỹ. Người mua bán vàng vật chất thì chịu thiệt vì chênh lệch "hỗn": mỗi lần mua bán là một lần mất khoản chênh lệch.
+
+**Khuyến nghị tỷ trọng.** Dẫn từ sách của mình, ông Chánh khuyên chỉ đầu tư dài hạn vào vàng 5–10% tài sản, tối đa 10%. Lý do: có những tài sản cho lợi nhuận tốt và ít rủi ro hơn vàng, như cổ phiếu tốt trên sàn chứng khoán.
+
+**Ví dụ minh hoạ** (số giả định). Người có tổng tài sản 500 triệu đồng theo khuyến nghị này sẽ giữ vàng ở mức 25–50 triệu đồng, và giữ dài hạn thay vì mua bán theo từng đợt sóng.
 
 ## Thuật ngữ
 

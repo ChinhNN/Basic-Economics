@@ -42,64 +42,127 @@
 2. Các quỹ cụ thể nào ở Việt Nam là ví dụ cho từng loại, với kết quả gần đây ra sao?
 3. Làm thế nào chọn loại quỹ phù hợp với khẩu vị rủi ro và mục tiêu của mình?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Cổ phiếu và trái phiếu.** Cổ phiếu là một phần quyền sở hữu doanh nghiệp: người nắm cổ phiếu hưởng lợi khi công ty làm ăn tốt và chịu thiệt khi công ty sa sút. Trái phiếu là một khoản cho vay: người mua trái phiếu cho chính phủ hoặc doanh nghiệp vay tiền và được trả lãi định kỳ theo cam kết, rồi nhận lại gốc khi đáo hạn. Ví dụ minh hoạ: mua trái phiếu mệnh giá 100 triệu đồng, lãi 7%/năm thì mỗi năm nhận 7 triệu đồng tiền lãi, dù công ty lãi nhiều hay ít. Sự khác nhau giữa "chủ sở hữu" và "chủ nợ" giải thích vì sao quỹ cổ phiếu biến động mạnh còn quỹ trái phiếu ổn định hơn.
+
+**Chứng chỉ quỹ và cơ cấu tài sản.** Quỹ là một "chiếc giỏ" gom tiền nhiều nhà đầu tư, do chuyên gia đầu tư thay. Loại quỹ được xác định bởi tỷ lệ tài sản trong giỏ: quỹ cổ phiếu dùng ít nhất 80–90% vốn vào cổ phiếu, quỹ trái phiếu ít nhất 80% vào trái phiếu, quỹ cân bằng 40–60% vào cổ phiếu. Đây là tiêu chí phân loại xuyên suốt bài.
+
+**NAV (net asset value, giá trị tài sản ròng).** Giá trị tài sản của quỹ sau khi trừ nợ, tính cho mỗi chứng chỉ quỹ. Khi các cổ phiếu hay trái phiếu trong giỏ tăng giá, NAV tăng; nhà đầu tư lãi hay lỗ theo NAV. Khái niệm này cần để hiểu vì sao lãi suất thay đổi làm NAV quỹ trái phiếu thay đổi.
+
+**Quan hệ ngược chiều giữa lãi suất và giá trái phiếu.** Khi lãi suất thị trường giảm, trái phiếu cũ đang trả lãi cao trở nên hấp dẫn hơn, nên giá của nó tăng; khi lãi suất tăng thì ngược lại. Ví dụ minh hoạ: một trái phiếu trả 8%/năm; nếu trái phiếu mới phát hành chỉ còn trả 6%, người ta sẵn sàng trả giá cao hơn mệnh giá để mua trái phiếu cũ 8%. Đây là nguồn sinh lời và cũng là rủi ro chính (rủi ro lãi suất) của quỹ trái phiếu trong bài.
+
+**Khẩu vị rủi ro (risk appetite).** Mức biến động mà nhà đầu tư chấp nhận được. Bài dùng nó làm căn cứ chọn loại quỹ: khẩu vị cao thì quỹ cổ phiếu, trung bình thì quỹ cân bằng, thấp thì quỹ trái phiếu.
+
+**Quỹ chủ động và quỹ thụ động (active/passive fund).** Quỹ chủ động để chuyên gia tự chọn cổ phiếu với mục tiêu vượt thị trường. Quỹ thụ động mua theo đúng một chỉ số có sẵn như VN30 (rổ 30 cổ phiếu lớn trên sàn TP.HCM), không cố vượt chỉ số. Ví dụ trong bài: SSI-SCA là quỹ chủ động, ETF VFMVN30 là quỹ thụ động.
+
+**Lợi nhuận kép và lợi nhuận thực.** Lợi nhuận kép là khi tiền lãi kỳ trước được tính lãi tiếp ở kỳ sau. Ví dụ trong bài: tăng 0,5% mỗi tháng trong 12 tháng theo lãi kép tương đương khoảng 6,2%/năm, cao hơn 6% nếu cộng đơn. Lợi nhuận thực là lợi nhuận sau khi trừ lạm phát; ví dụ minh hoạ: lãi 6% trong năm lạm phát 4% thì sức mua chỉ tăng khoảng 2%.
+
+**Phí quản lý.** Khoản phí hằng năm mà công ty quản lý quỹ thu, tính theo phần trăm tài sản, theo bài khoảng 1–2%/năm. Ví dụ minh hoạ: khoản đầu tư 100 triệu đồng chịu phí 1,5% thì mỗi năm trả khoảng 1,5 triệu đồng, bất kể quỹ lãi hay lỗ. Phí là một tiêu chí khi chọn quỹ.
+
+## Nội dung chi tiết
+
+Bài so sánh ba loại chứng chỉ quỹ phổ biến nhất, được mô tả như ba "tính cách": quỹ cổ phiếu mạo hiểm, quỹ trái phiếu an toàn, quỹ cân bằng trung dung. Tổng quan trước khi đi vào từng loại:
+
+| | Quỹ cổ phiếu | Quỹ cân bằng | Quỹ trái phiếu |
+|---|---|---|---|
+| Hợp với khẩu vị rủi ro | Cao | Trung bình | Thấp |
+| Cơ cấu tài sản | Ít nhất 80–90% cổ phiếu | 40–60% cổ phiếu, còn lại trái phiếu và tiền mặt | Ít nhất 80% trái phiếu, còn lại tiền mặt |
+| Lợi nhuận | Sinh lời cao, biến động mạnh | Khoảng 6–10%/năm, đa dạng hóa tự động | Khoảng 4–8%/năm, ổn định, ít biến động |
+| Hợp với ai | Người đầu tư dài hạn, chấp nhận biến động | Người mới, người đầu tư trung hạn | Người về hưu, người muốn bảo toàn vốn |
 
 ### 1. Quỹ cổ phiếu: lợi nhuận cao, rủi ro cao
-- **Định nghĩa:** quỹ cổ phiếu (equity fund) đầu tư chủ yếu vào cổ phiếu niêm yết; là "chiếc giỏ" gom vốn nhiều nhà đầu tư, do chuyên gia mua bán cổ phiếu để tối đa hóa lợi nhuận. Hợp người thích mạo hiểm để đổi lấy lợi nhuận cao.
-- Dùng ít nhất 80–90% vốn vào cổ phiếu, phần còn lại là tiền mặt hoặc tài sản khác để linh hoạt.
-- Công ty quản lý quỹ như Dragon Capital, VinaCapital phân tích thị trường, chọn cổ phiếu dựa trên báo cáo tài chính, xu hướng ngành, kinh tế vĩ mô. Ở Việt Nam quỹ được Ủy ban Chứng khoán Nhà nước (SSC) giám sát.
-- Ví dụ của bài: VINACAPITAL-VESAF đầu tư vào blue-chip như VCB, VNM; đến tháng 7/2025 đạt lợi nhuận trung bình 22,9%/năm trong 5 năm.
-- **Lợi ích:**
-  - Tiềm năng sinh lời cao, thường vượt lãi suất ngân hàng.
-  - Không cần vốn lớn: vài triệu đồng đã sở hữu danh mục hàng chục cổ phiếu.
-  - Giảm rủi ro cá nhân nhờ chuyên gia quản lý; thanh khoản cao.
-  - Theo VAFI (Hiệp hội Quỹ đầu tư Việt Nam), năm 2024 có 41/66 quỹ cổ phiếu vượt VN-Index, mức tăng trung bình 12,1%.
-  - Nửa đầu 2025, dù thị trường biến động, quỹ VMEEF vẫn đạt 10,3% từ đầu năm.
-- **Các loại quỹ cổ phiếu:**
-  - Quỹ chủ động: chọn cổ phiếu để vượt thị trường, như SSI-SCA với 19,9%/năm trong 5 năm.
-  - Quỹ thụ động: theo dõi chỉ số như VN30, ví dụ ETF VFMVN30.
-  - Quỹ tăng trưởng: tập trung công ty trẻ, tiềm năng.
-  - Quỹ giá trị: chọn cổ phiếu bị định giá thấp.
-  - Quỹ phổ biến khác: DCDS (Dragon Capital), BVFED (Bảo Việt), hợp nhà đầu tư dài hạn chấp nhận biến động.
+
+**Định nghĩa.** Quỹ cổ phiếu (equity fund) đầu tư chủ yếu vào cổ phiếu niêm yết. Nó là một "chiếc giỏ" gom vốn của nhiều nhà đầu tư, để chuyên gia mua bán cổ phiếu nhằm tối đa hóa lợi nhuận. Loại quỹ này hợp với người thích mạo hiểm để đổi lấy lợi nhuận cao.
+
+**Cách vận hành.** Quỹ dùng ít nhất 80–90% vốn mua cổ phiếu; phần còn lại giữ bằng tiền mặt hoặc tài sản khác để linh hoạt, chẳng hạn để trả tiền cho người bán lại chứng chỉ quỹ. Các công ty quản lý quỹ như Dragon Capital hay VinaCapital phân tích thị trường và chọn cổ phiếu dựa trên báo cáo tài chính của doanh nghiệp, xu hướng ngành và tình hình kinh tế vĩ mô. Ở Việt Nam, các quỹ chịu sự giám sát của Ủy ban Chứng khoán Nhà nước (SSC).
+
+Ví dụ bài nêu: quỹ VINACAPITAL-VESAF, theo bài là đầu tư vào các cổ phiếu blue-chip (doanh nghiệp lớn, uy tín) như VCB và VNM, đến tháng 7/2025 đạt lợi nhuận trung bình 22,9%/năm trong 5 năm.
+
+**Lợi ích bài liệt kê:**
+
+- Tiềm năng sinh lời cao, thường vượt lãi suất ngân hàng.
+- Không cần vốn lớn: chỉ vài triệu đồng đã sở hữu gián tiếp một danh mục hàng chục cổ phiếu, điều mà người tự mua lẻ khó làm với số vốn nhỏ.
+- Giảm rủi ro do quyết định cá nhân nhờ có chuyên gia quản lý; thanh khoản cao, tức là bán lại tương đối dễ.
+- Theo VAFI (Hiệp hội Quỹ đầu tư Việt Nam), năm 2024 có 41 trên 66 quỹ cổ phiếu vượt VN-Index, với mức tăng trung bình 12,1%.
+- Nửa đầu năm 2025, dù thị trường biến động, quỹ VMEEF vẫn đạt 10,3% tính từ đầu năm.
+
+**Các loại quỹ cổ phiếu:**
+
+| Loại | Cách làm | Ví dụ trong bài |
+|---|---|---|
+| Quỹ chủ động | Tự chọn cổ phiếu để vượt thị trường | SSI-SCA, 19,9%/năm trong 5 năm |
+| Quỹ thụ động | Mua theo một chỉ số như VN30 | ETF VFMVN30 |
+| Quỹ tăng trưởng | Tập trung vào công ty trẻ, nhiều tiềm năng | |
+| Quỹ giá trị | Chọn cổ phiếu đang bị định giá thấp hơn giá trị thật | |
+
+Bài kể thêm vài quỹ phổ biến khác là DCDS (Dragon Capital) và BVFED (Bảo Việt), hợp với nhà đầu tư dài hạn chấp nhận biến động.
 
 ### 2. Quỹ trái phiếu: an toàn hơn, lợi nhuận ổn định
-- **Định nghĩa:** quỹ trái phiếu (bond fund) đầu tư chủ yếu vào trái phiếu chính phủ, trái phiếu doanh nghiệp hoặc chứng chỉ tiền gửi, nhằm bảo vệ vốn và mang lợi tức đều đặn. Trái phiếu là khoản vay nợ của chính phủ hoặc công ty với cam kết trả lãi định kỳ.
-- Ít nhất 80% danh mục là trái phiếu, còn lại tiền mặt. Công ty quản lý như VCBF, Techcom Capital đánh giá tín dụng để tránh rủi ro vỡ nợ; được SSC quy định chặt chẽ.
-- Ví dụ: VCBF-TBF đầu tư trái phiếu chính phủ, lợi nhuận khoảng 4–8%/năm. Năm 2024, 19/23 quỹ trái phiếu vượt lãi suất tiết kiệm.
-- **Cách hoạt động:** huy động vốn, phân tích lãi suất và rủi ro để chọn trái phiếu; khi lãi suất giảm thì giá trái phiếu tăng, giúp quỹ sinh lời; theo dõi liên tục để điều chỉnh, ví dụ bán trái phiếu doanh nghiệp rủi ro cao.
-- Nửa đầu 2025, quỹ trái phiếu tăng trung bình 0,5%/tháng (tương đương khoảng 6,2%/năm nếu duy trì đủ 12 tháng, theo lãi kép). VNDBF kỳ vọng 8–8,5%/năm với chiến lược "ăn chắc mặc bền".
-- **Lợi ích và rủi ro:**
-  - An toàn cao, hợp người về hưu hoặc muốn bảo toàn vốn.
-  - Lợi nhuận ổn định từ lãi trái phiếu, ít biến động hơn cổ phiếu.
-  - Rủi ro: lãi suất tăng làm giá trái phiếu giảm; lạm phát ăn mòn lợi nhuận thực.
-  - Theo Morningstar, quỹ trái phiếu thường vượt lãi suất tiết kiệm 1–2% mỗi năm.
+
+**Định nghĩa.** Quỹ trái phiếu (bond fund) đầu tư chủ yếu vào trái phiếu chính phủ, trái phiếu doanh nghiệp hoặc chứng chỉ tiền gửi, nhằm bảo vệ vốn và mang lại lợi tức đều đặn. Trái phiếu là một khoản vay nợ của chính phủ hoặc công ty, kèm cam kết trả lãi định kỳ.
+
+**Cơ cấu và giám sát.** Ít nhất 80% danh mục là trái phiếu, phần còn lại là tiền mặt. Các công ty quản lý như VCBF hay Techcom Capital đánh giá mức tín nhiệm của bên phát hành để tránh rủi ro vỡ nợ, tức rủi ro bên đi vay không trả được lãi hoặc gốc. Loại quỹ này cũng được SSC quy định chặt chẽ.
+
+Ví dụ: quỹ VCBF-TBF đầu tư vào trái phiếu chính phủ, lợi nhuận khoảng 4–8%/năm. Năm 2024, 19 trên 23 quỹ trái phiếu có lợi nhuận vượt lãi suất tiết kiệm.
+
+**Cách hoạt động.** Quỹ huy động vốn, phân tích lãi suất và rủi ro để chọn trái phiếu, rồi theo dõi liên tục để điều chỉnh, chẳng hạn bán bớt trái phiếu doanh nghiệp có rủi ro cao. Nguồn lời của quỹ có hai phần: tiền lãi trái phiếu trả đều, và phần thay đổi giá của trái phiếu. Phần thứ hai đi ngược chiều lãi suất:
+
+| Diễn biến | Giá trái phiếu quỹ đang nắm | NAV quỹ |
+|---|---|---|
+| Lãi suất thị trường giảm | Tăng | Tăng |
+| Lãi suất thị trường tăng | Giảm | Giảm |
+
+Bài tóm gọn: "khi lãi suất giảm, giá trái phiếu tăng, giúp quỹ sinh lời".
+
+**Số liệu gần đây.** Nửa đầu năm 2025, quỹ trái phiếu tăng trung bình 0,5% mỗi tháng. Nếu duy trì đủ 12 tháng theo lãi kép, mức này tương đương khoảng 6,2%/năm. Quỹ VNDBF kỳ vọng 8–8,5%/năm với chiến lược mà bài gọi là "ăn chắc mặc bền".
+
+**Lợi ích và rủi ro:**
+
+- An toàn cao, hợp người về hưu hoặc người muốn bảo toàn vốn.
+- Lợi nhuận ổn định từ tiền lãi trái phiếu, ít biến động hơn cổ phiếu.
+- Rủi ro thứ nhất: lãi suất tăng làm giá trái phiếu giảm, kéo NAV xuống.
+- Rủi ro thứ hai: lạm phát ăn mòn lợi nhuận thực. Một quỹ lãi 5% trong năm lạm phát cao thì sức mua thực tăng ít hơn nhiều.
+- Theo Morningstar (bài trích dẫn), quỹ trái phiếu thường vượt lãi suất tiết kiệm 1–2% mỗi năm.
 
 ### 3. Quỹ cân bằng: trung hòa rủi ro và lợi nhuận
-- **Định nghĩa:** quỹ cân bằng (balanced fund) kết hợp cổ phiếu và trái phiếu; được bài gọi là lựa chọn "vàng" cho người mới hoặc đầu tư trung hạn.
-- Phân bổ 40–60% vào cổ phiếu, còn lại trái phiếu và tiền mặt; mục tiêu tăng trưởng vốn đồng thời bảo vệ trước biến động.
-- Lợi ích: đa dạng hóa tự động, rủi ro thấp hơn quỹ cổ phiếu thuần, lợi nhuận trung bình 6–10%/năm.
-- Quản lý quỹ điều chỉnh tỷ lệ theo thị trường: tăng cổ phiếu khi kinh tế tốt, tăng trái phiếu khi biến động.
-- Số liệu ví dụ: VINACAPITAL-VIBF dẫn đầu với 9,4% từ đầu năm 2025; VIBF đạt 3,38% trong 6 tháng đầu 2025; VCBF-BCF đạt 11,28% lợi nhuận kép 3 năm.
+
+**Định nghĩa.** Quỹ cân bằng (balanced fund) kết hợp cổ phiếu và trái phiếu trong cùng một quỹ. Bài gọi đây là lựa chọn "vàng" cho người mới hoặc người đầu tư trung hạn.
+
+**Cơ cấu.** Quỹ phân bổ 40–60% vào cổ phiếu, phần còn lại vào trái phiếu và tiền mặt. Mục tiêu kép: tăng trưởng vốn nhờ phần cổ phiếu, đồng thời được phần trái phiếu bảo vệ trước biến động.
+
+**Lợi ích.** Người mua một quỹ cân bằng được đa dạng hóa tự động, không phải tự chia tiền giữa hai loại tài sản. Rủi ro thấp hơn quỹ cổ phiếu thuần, và lợi nhuận trung bình khoảng 6–10%/năm. Người quản lý quỹ còn điều chỉnh tỷ lệ theo thị trường: tăng tỷ trọng cổ phiếu khi kinh tế tốt, tăng tỷ trọng trái phiếu khi thị trường biến động.
+
+**Số liệu bài nêu.** Quỹ VINACAPITAL-VIBF dẫn đầu nhóm với 9,4% tính từ đầu năm 2025; cũng quỹ VIBF được ghi đạt 3,38% trong 6 tháng đầu năm 2025 (bài không nói mốc cuối của con số 9,4%). Quỹ VCBF-BCF đạt 11,28% lợi nhuận kép trong 3 năm.
 
 ### 4. Cách chọn loại quỹ
-- Đánh giá khẩu vị rủi ro: cao chọn quỹ cổ phiếu, thấp chọn quỹ trái phiếu, trung bình chọn quỹ cân bằng.
-- Xem lịch sử quỹ 3–5 năm, phí quản lý (1–2%/năm) và mục tiêu cá nhân.
-- Bắt đầu với số tiền nhỏ qua nền tảng như VNDIRECT hoặc Fmarket.
-- Luôn đọc bản cáo bạch và theo dõi thị trường.
+
+Bài đưa ra bốn bước:
+
+1. **Đánh giá khẩu vị rủi ro:** khẩu vị cao chọn quỹ cổ phiếu, khẩu vị thấp chọn quỹ trái phiếu, khẩu vị trung bình chọn quỹ cân bằng.
+2. **Xem lịch sử quỹ 3–5 năm, mức phí quản lý và mục tiêu cá nhân.** Phí quản lý thường khoảng 1–2%/năm và được trừ vào tài sản quỹ mỗi năm, nên ảnh hưởng trực tiếp đến lợi nhuận thực nhận.
+3. **Bắt đầu với số tiền nhỏ** qua các nền tảng như VNDIRECT hoặc Fmarket.
+4. **Luôn đọc bản cáo bạch** (tài liệu công bố chiến lược, phí và rủi ro của quỹ) và theo dõi thị trường.
+
+Kết luận của bài: quỹ cổ phiếu phù hợp cho mục tiêu tăng trưởng cao, quỹ trái phiếu cho sự an toàn, quỹ cân bằng cho sự hài hòa giữa hai bên.
 
 ### 5. Bảng tổng hợp ví dụ quỹ trong bài
+
+Toàn bộ các quỹ cụ thể và con số bài nêu, theo đúng cách bài ghi (một số con số không rõ mốc thời gian hoặc cách tính):
 
 | Loại | Quỹ | Số liệu bài nêu |
 |---|---|---|
 | Cổ phiếu | VINACAPITAL-VESAF | 22,9%/năm trung bình 5 năm (đến 7/2025) |
 | Cổ phiếu | VMEEF | 10,3% từ đầu năm (nửa đầu 2025) |
 | Cổ phiếu chủ động | SSI-SCA | 19,9%/năm trong 5 năm |
-| Cổ phiếu thụ động | ETF VFMVN30 | Theo dõi VN30 |
+| Cổ phiếu thụ động | ETF VFMVN30 | Theo dõi chỉ số VN30 |
 | Cổ phiếu | DCDS, BVFED | Hợp đầu tư dài hạn |
 | Trái phiếu | VCBF-TBF | Khoảng 4–8%/năm |
 | Trái phiếu | VNDBF | Kỳ vọng 8–8,5%/năm |
 | Cân bằng | VINACAPITAL-VIBF | 9,4% từ đầu năm 2025; 3,38% trong 6 tháng đầu 2025 |
 | Cân bằng | VCBF-BCF | 11,28% lợi nhuận kép 3 năm |
+
+Ở cấp toàn ngành, bài dẫn hai số liệu năm 2024: 41/66 quỹ cổ phiếu vượt VN-Index (mức tăng trung bình 12,1%) và 19/23 quỹ trái phiếu vượt lãi suất tiết kiệm.
 
 ## Thuật ngữ
 

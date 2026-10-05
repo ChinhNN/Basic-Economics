@@ -48,32 +48,85 @@
 2. Vì sao ông Lâm Minh Chánh cho rằng mua vàng trong những phiên biến động như vậy là rủi ro?
 3. Nếu vẫn muốn đầu tư vàng thì nên phân bổ bao nhiêu và mua theo cách nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Giá mua vào và giá bán ra.** Doanh nghiệp vàng niêm yết hai giá: giá mua vào là giá doanh nghiệp mua lại vàng của khách, giá bán ra là giá doanh nghiệp bán cho khách. Giá bán ra luôn cao hơn. Ví dụ trong bài: ngày 17/7/2022, SJC niêm yết 67,35 triệu đồng/lượng (mua vào) và 67,97 triệu đồng/lượng (bán ra). Người mua trả giá bán ra, khi bán lại chỉ nhận giá mua vào.
+
+**Chênh lệch mua – bán (bid–ask spread).** Khoảng cách giữa giá bán ra và giá mua vào; đây là chi phí người mua chịu ngay khi giao dịch. Ví dụ trong bài: chênh lệch của SJC là 0,62 triệu đồng/lượng ngày 17/7, giãn lên 2,12 triệu đồng/lượng chiều 19/7. Khái niệm này giải thích vì sao mua vàng trong phiên biến động là đắt nhất.
+
+**Vàng miếng SJC và vàng 9999.** Vàng 9999 là vàng có độ tinh khiết 99,99%. Vàng miếng SJC là vàng 9999 mang thương hiệu của Công ty Vàng bạc đá quý Sài Gòn. Về chất liệu, một lượng vàng SJC và một lượng vàng 9999 của thương hiệu khác là như nhau, nhưng giá SJC cao hơn.
+
+**Phần bù thương hiệu (brand premium).** Phần giá SJC cao hơn vàng 9999 thương hiệu khác cùng khối lượng. Ví dụ minh hoạ: nếu một lượng nhẫn 9999 giá 55 triệu đồng mà một lượng SJC giá 65 triệu đồng thì phần bù thương hiệu là 10 triệu đồng. Ông Chánh cho rằng người dân đang trả quá nhiều cho phần bù này.
+
+**Chênh lệch trong nước – thế giới (domestic premium).** Mức giá vàng Việt Nam cao hơn giá thế giới sau khi quy đổi ra đồng. Bài nói dù đã giảm mạnh, giá SJC vẫn cao hơn thế giới "rất nhiều". Đây là một nguyên nhân khiến giá SJC có thể giảm sâu khi tâm lý thay đổi.
+
+**Ounce (troy ounce).** Đơn vị dùng để báo giá vàng thế giới, khoảng 31,1 gam. Giá thế giới tính theo USD/ounce; ví dụ trong bài, doanh nghiệp Phú Quý dự báo giá thế giới có thể giảm về 1.650 USD/ounce.
+
+**Mua tích trữ và mua đều theo thời gian.** Mua tích trữ là mua vàng để giữ lâu, thường khi giá giảm. Mua đều theo thời gian (dollar-cost averaging) là chia tiền ra mua nhiều kỳ để bình quân giá. Ví dụ minh hoạ: thay vì mua 5 lượng một lần, mỗi quý mua 1 lượng. Bài đối lập hai cách này: người dân đổ đi mua lúc giá đáy, còn ông Chánh khuyên mua đều.
+
+**Trung tâm lưu ký (securities depository).** Tổ chức giữ hộ và ghi nhận quyền sở hữu chứng khoán. Bài dùng nó để so sánh: cổ phiếu có nơi giữ hộ, còn vàng vật chất phải tự giữ.
+
+## Nội dung chi tiết
 
 ### Diễn biến giá ngày 19/7/2022
-- Sáng 19/7, cùng đà giảm của giá thế giới, giá trong nước biến động mạnh: có lúc SJC giảm từ 61,5–64 triệu đồng/lượng về 60–62,5 triệu đồng/lượng (mua vào – bán ra), mức giảm sâu nhất trong thời gian dài.
-- Nhiều nhà đầu tư tranh thủ mua tích trữ. Bà Hoàng Hạnh (Bảo Tín Minh Châu): sáng 19/7 khách mua chiếm 60%, khách bán 40%.
-- Cầu tăng nhanh đẩy giá quay đầu tăng mạnh: 17h ngày 19/7, SJC Hà Nội và Bảo Tín Minh Châu niêm yết 63,2–65,32 triệu đồng/lượng.
-- So với giá đóng cửa ngày 17/7 do Công ty Vàng bạc đá quý Sài Gòn niêm yết (67,35–67,97 triệu đồng/lượng), sau hai ngày 18 và 19/7, SJC giảm hơn 4,15 triệu ở chiều mua vào và 2,65 triệu ở chiều bán ra (67,35 − 63,20 = 4,15; 67,97 − 65,32 = 2,65, đúng).
-- Hệ quả tính thêm từ số liệu bài: chênh lệch mua – bán từ 0,62 triệu (khoảng 0,9%) ngày 17/7 giãn lên 2,12 triệu (khoảng 3,4% trên giá mua vào) chiều 19/7, tức chiều mua vào giảm mạnh hơn chiều bán ra.
+
+**Giá rơi trong buổi sáng.** Sáng 19/7/2022, theo đà giảm của giá vàng thế giới, giá vàng trong nước biến động mạnh. Có lúc giá SJC giảm từ 61,5–64 triệu đồng/lượng xuống 60–62,5 triệu đồng/lượng (mua vào – bán ra), mức giảm sâu nhất trong một thời gian dài.
+
+**Người dân đổ đi mua.** Nhiều nhà đầu tư tranh thủ lúc giá xuống để mua tích trữ. Theo bà Hoàng Hạnh (Phòng Kinh doanh Bảo Tín Minh Châu), sáng 19/7 khách mua chiếm 60%, khách bán chỉ 40%.
+
+**Giá bật lại buổi chiều.** Cầu tăng nhanh đẩy giá quay đầu tăng mạnh. Đến 17h ngày 19/7, SJC Hà Nội và Bảo Tín Minh Châu niêm yết 63,2–65,32 triệu đồng/lượng.
+
+Toàn bộ diễn biến (triệu đồng/lượng):
+
+| Thời điểm | Mua vào | Bán ra | Chênh lệch mua – bán |
+|---|---|---|---|
+| 17/7, đóng cửa (SJC TP.HCM) | 67,35 | 67,97 | 0,62 |
+| 19/7 sáng, trước khi giảm | 61,50 | 64,00 | 2,50 |
+| 19/7 sáng, đáy (người dân đổ đi mua) | 60,00 | 62,50 | 2,50 |
+| 19/7, 17h (SJC Hà Nội, Bảo Tín Minh Châu) | 63,20 | 65,32 | 2,12 |
+
+**So với ngày 17/7.** Giá đóng cửa ngày 17/7 do Công ty Vàng bạc đá quý Sài Gòn niêm yết là 67,35–67,97 triệu đồng/lượng. Sau hai ngày giảm (18 và 19/7), giá SJC giảm hơn 4,15 triệu ở chiều mua vào và 2,65 triệu ở chiều bán ra. Kiểm tra lại: 67,35 − 63,20 = 4,15 và 67,97 − 65,32 = 2,65, khớp.
+
+**Chênh lệch giãn rộng.** Tính thêm từ số liệu của bài: chênh lệch mua – bán từ 0,62 triệu đồng (khoảng 0,9%) ngày 17/7 giãn lên 2,12 triệu đồng (khoảng 3,4% trên giá mua vào) chiều 19/7. Nguyên nhân là chiều mua vào giảm mạnh hơn chiều bán ra: doanh nghiệp hạ giá mua lại của khách nhiều hơn giá bán cho khách.
+
+**Ví dụ minh hoạ** (tính từ số liệu của bài). Một người mua ở "đáy" sáng 19/7 với giá bán ra 62,5 triệu đồng, nếu bán lại lúc 17h ở giá mua vào 63,2 triệu đồng thì chỉ lời khoảng 0,7 triệu đồng/lượng, dù giá đã bật lên hơn 3 triệu. Người mua trước đó ở mức 64 triệu đồng thì bán lại lúc 17h vẫn lỗ.
 
 ### Đánh giá rủi ro của ông Lâm Minh Chánh
-- Đầu tư, mua bán vàng trong phiên biến động "ẩn chứa rất nhiều rủi ro".
-- Dù giảm mạnh, giá SJC trong nước vẫn cao hơn thế giới rất nhiều.
-- Cùng một lượng vàng vật chất, vàng thế giới rẻ hơn; cùng một lượng 9999, vàng thương hiệu khác rẻ hơn SJC. Người dân lâu nay chấp nhận, nhưng "có lẽ đã đến lúc người dân nhận ra họ đang trả giá quá cao cho các thương hiệu gắn lên miếng vàng, đặc biệt là thương hiệu SJC".
-- Nguyên nhân có thể của đợt lao dốc: chênh lệch trong nước – thế giới quá cao, tâm lý bớt sùng bái vàng, doanh nghiệp không giữ được giá cao khi giá thế giới giảm mạnh.
-- Chênh lệch mua – bán: thế giới 0,05–0,2%; Việt Nam thường 1–2%, lúc biến động 3–4% hoặc hơn.
-- Không ai dự đoán đúng giá: "Giá vàng diễn biến rất khó lường. Giá vàng như có mắt vậy... Giá vàng không cho ai 'ăn dày', thắng đủ cơn sóng. Nhưng lại làm cho rất nhiều người thua lớn."
+
+**Phiên biến động là lúc rủi ro nhất.** Ông Chánh cho rằng đầu tư, mua bán vàng trong những phiên biến động như vậy "ẩn chứa rất nhiều rủi ro".
+
+**Giá SJC vẫn quá cao.** Lập luận của ông gồm các bước:
+
+1. Dù đã giảm mạnh, giá SJC trong nước vẫn cao hơn giá thế giới rất nhiều.
+2. Cùng một lượng vàng vật chất, vàng thế giới rẻ hơn; cùng một lượng vàng 9999, vàng của thương hiệu khác cũng rẻ hơn SJC.
+3. Người dân lâu nay chấp nhận điều này, nhưng theo ông, "có lẽ đã đến lúc người dân nhận ra họ đang trả giá quá cao cho các thương hiệu gắn lên miếng vàng, đặc biệt là thương hiệu SJC".
+
+**Nguyên nhân có thể của đợt lao dốc.** Ông nêu ba yếu tố:
+
+- Chênh lệch giữa giá trong nước và thế giới đã quá cao.
+- Tâm lý sùng bái vàng của người dân giảm bớt.
+- Doanh nghiệp không giữ được giá cao khi giá thế giới giảm mạnh.
+
+**Chênh lệch mua – bán.** Trên thế giới chỉ 0,05–0,2%; ở Việt Nam thường 1–2%, lúc biến động giãn ra 3–4% hoặc hơn. Diễn biến ngày 19/7 là minh chứng: chênh lệch lên khoảng 3,4%.
+
+**Không ai đoán đúng giá.** Ông nhắc lại câu nói quen thuộc: "Giá vàng diễn biến rất khó lường. Giá vàng như có mắt vậy... Giá vàng không cho ai 'ăn dày', thắng đủ cơn sóng. Nhưng lại làm cho rất nhiều người thua lớn." Ý ông là người cố mua ở đáy, bán ở đỉnh hiếm khi thành công, mà dễ thua khi giá đổi chiều.
 
 ### Lời khuyên đầu tư
-- Người đam mê vàng vẫn có thể đầu tư, nhưng chỉ 5–10% tài sản.
-- Hai lý do cân nhắc:
-  1. Tỷ suất lợi nhuận của vàng quá kém so với tài sản khác.
-  2. Rủi ro cất giữ: cổ phiếu có trung tâm lưu ký, tiền gửi có ngân hàng giữ, vàng vật chất phải tự giữ.
-- Tránh mua một lần số tiền lớn (giá rớt sau khi mua, "yếu tim" bán ra thì lỗ); mua đều theo thời gian; theo ông, dài hạn giá vàng sẽ lên và nhà đầu tư đạt lợi nhuận dương.
+
+Người đam mê vàng vẫn có thể đầu tư, nhưng theo ông Chánh chỉ nên dành 5–10% tài sản cho vàng. Ông đưa hai lý do để cân nhắc:
+
+1. **Tỷ suất lợi nhuận của vàng quá kém** so với các tài sản khác.
+2. **Rủi ro cất giữ.** Cổ phiếu có trung tâm lưu ký, tiền gửi có ngân hàng giữ hộ, còn "chúng ta đầu tư vàng vật chất thì phải tự giữ. Rất rủi ro."
+
+**Cách mua.** Tránh mua một lần với số tiền lớn: nếu giá rớt ngay sau khi mua, người "yếu tim" bán ra sẽ lỗ. Thay vào đó, mua đều theo thời gian. Theo ông, về dài hạn giá vàng sẽ lên và nhà đầu tư sẽ đạt lợi nhuận dương.
+
+Tóm lại chuỗi lập luận: giá SJC giảm mạnh nhưng vẫn cao hơn thế giới nhiều; người dân đang trả giá quá cao cho thương hiệu SJC; trong phiên biến động, chênh lệch mua – bán giãn từ 1–2% lên 3–4% và không ai đoán được giá; vì vậy chỉ nên giữ 5–10% tài sản bằng vàng, không mua một lần số lớn, và mua đều.
+
+**Ví dụ minh hoạ** (số giả định). Người có tổng tài sản 600 triệu đồng theo khuyến nghị này giữ vàng ở mức 30–60 triệu đồng, chia ra mua nhiều lần thay vì mua hết vào một ngày giá biến động.
 
 ### Dự báo của doanh nghiệp vàng
-- Ông Trần Xuân Dũng (Phú Quý): giá thế giới có thể giảm về 1.650 USD/ounce; giá trong nước có thể tiếp tục giảm theo, nhưng các đơn vị kinh doanh có thể điều chỉnh tăng – giảm theo nhu cầu thị trường.
+
+Ông Trần Xuân Dũng (Trưởng phòng kinh doanh khối vàng miếng, Phú Quý) dự báo giá vàng thế giới có thể giảm về 1.650 USD/ounce. Giá trong nước có thể tiếp tục giảm theo, nhưng các đơn vị kinh doanh vàng có thể điều chỉnh tăng hoặc giảm tùy theo nhu cầu thị trường. Dự báo này đặt cạnh nhận định của ông Chánh rằng không ai đoán đúng được giá vàng.
 
 ## Thuật ngữ
 

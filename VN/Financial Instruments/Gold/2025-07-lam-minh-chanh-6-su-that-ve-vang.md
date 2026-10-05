@@ -50,19 +50,43 @@
 2. Những đặc điểm nào của thị trường vàng trong nước (chênh giá với thế giới, chênh mua – bán, khó dự đoán) gây bất lợi cho nhà đầu tư?
 3. Nên phân bổ bao nhiêu tài sản vào vàng, mua thế nào, và có nên mua ngày vía Thần Tài?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Bản vị vàng (gold standard).** Chế độ tiền tệ trong đó nhà nước in tiền theo một tỷ lệ cố định với lượng vàng dự trữ trong ngân khố, và về nguyên tắc tiền giấy đổi được ra vàng. Ví dụ minh hoạ: nếu quy định 1 đơn vị tiền bằng 1 gam vàng thì muốn in thêm tiền phải có thêm vàng. Bài dùng khái niệm này để giải thích vì sao vàng từng là tiền và vẫn được coi là tài sản giữ giá.
+
+**Lạm phát phi mã.** Tình trạng giá cả tăng rất nhanh, khiến tiền mất giá hàng trăm phần trăm mỗi năm. Ví dụ trong bài: những năm 1985–1986 ở Việt Nam, tiền mất giá 400–500% mỗi năm. Đây là nguyên nhân chính khiến người Việt "mê vàng" hơn thế giới.
+
+**Tỷ suất lợi nhuận (rate of return) và lợi nhuận danh nghĩa.** Tỷ suất lợi nhuận là mức sinh lời bình quân mỗi năm của một kênh đầu tư. Lợi nhuận danh nghĩa là con số chưa trừ lạm phát; lợi nhuận thực là con số sau khi trừ lạm phát. Ví dụ minh hoạ: lãi 7% trong năm lạm phát 4% thì sức mua chỉ tăng khoảng 3%. Toàn bộ bảng số liệu trong bài là danh nghĩa.
+
+**Lãi kép (compound interest).** Tiền lãi được nhập vào gốc để kỳ sau tiếp tục sinh lãi. Ví dụ trong bài: 100 triệu đồng với 7,3%/năm trong 10 năm thành khoảng 202 triệu đồng, còn với 1,7%/năm chỉ thành khoảng 118 triệu đồng. Lãi kép làm chênh lệch nhỏ mỗi năm thành khoảng cách lớn theo thời gian.
+
+**Chênh lệch mua – bán (bid–ask spread).** Khoảng cách giữa giá doanh nghiệp bán vàng ra và giá doanh nghiệp mua vàng vào. Người mua chịu khoản này ngay khi giao dịch. Ví dụ minh hoạ: vàng bán ra 63 triệu đồng/lượng, mua vào 62 triệu đồng/lượng thì mua xong bán lại ngay là mất 1 triệu đồng, khoảng 1,6%. Theo bài, chênh lệch này ở Việt Nam thường 1–2%, so với 0,05–0,2% trên thế giới.
+
+**Chênh lệch giá trong nước – thế giới (domestic premium).** Phần giá vàng Việt Nam cao hơn giá thế giới sau khi đã quy đổi ra đồng và cộng chi phí vận chuyển, bảo hiểm, thuế nhập khẩu. Theo bài, khoản này dao động khoảng 1,2–3,4 triệu đồng/lượng, có lúc hơn. Đây là chi phí ẩn thứ nhất của người mua vàng trong nước.
+
+**Lượng và ounce.** Hai đơn vị khối lượng vàng: 1 lượng bằng 37,5 gam, xấp xỉ 1,2057 ounce troy. Giá thế giới tính theo USD/ounce, giá Việt Nam tính theo đồng/lượng, nên muốn so sánh phải quy đổi.
+
+**Trung tâm lưu ký (securities depository).** Tổ chức giữ hộ và ghi sổ quyền sở hữu chứng khoán. Bài dùng khái niệm này để so sánh: cổ phiếu được lưu ký, tiền gửi được ngân hàng giữ, còn vàng vật chất phải tự cất giữ, nên có thêm rủi ro.
+
+## Nội dung chi tiết
 
 ### Bối cảnh
-- Bài viết trong lúc giá vàng "tăng shock, giảm sâu" trước ngày vía Thần Tài (mùng 10 tháng Giêng âm lịch) năm 2022; tác giả là người từng đầu tư, làm chủ sàn vàng.
+
+Bài được viết đầu năm 2022, trong lúc giá vàng "tăng shock, giảm sâu" ngay trước ngày vía Thần Tài (mùng 10 tháng Giêng âm lịch), ngày nhiều người Việt mua vàng lấy may. Tác giả là người từng đầu tư vàng và từng làm chủ một sàn vàng (VTG). Bài trình bày sáu "sự thật" theo trình tự: vì sao vàng được tôn sùng, vàng sinh lời ra sao, giá vàng trong nước có những chi phí ẩn nào, có đoán được giá không, nên giữ bao nhiêu, và có nên mua ngày vía Thần Tài.
 
 ### 1. Tài sản nhiều người mê
-- Vàng từng là tiền tệ của nhiều nước; khi có tiền giấy, các nước dùng bản vị vàng, tức in tiền theo tỷ lệ nhất định với lượng vàng trong ngân khố. Bài ghi bản vị vàng của Mỹ bị bãi bỏ năm 1975 (xem khối Lưu ý).
-- Vàng vẫn là tài sản, công cụ đầu tư có giá trị; khi có nguy cơ chiến tranh, kinh tế bất ổn, suy thoái, nhà đầu tư lại quay về vàng.
-- Ở Việt Nam "mê vàng" cao hơn thế giới nhiều bậc, nguyên nhân chính là lạm phát phi mã: những năm 1985–1986 tiền mất giá 400–500%/năm. Tiền mất giá, chưa có chứng khoán, vàng thành "ông vua". Thế hệ 4X–6X tôn sùng vàng, 7X–9X bị ảnh hưởng theo: "cứ dư tiền lại mua vàng".
+
+**Vàng từng là tiền.** Vàng từng là tiền tệ của nhiều nước. Khi tiền giấy ra đời, các nước dùng bản vị vàng, tức in tiền theo một tỷ lệ nhất định với lượng vàng trong ngân khố. Bài ghi rằng bản vị vàng của Mỹ bị bãi bỏ năm 1975; mốc được ghi nhận rộng rãi thực ra là tháng 8/1971, khi Mỹ ngừng cho đổi đô la ra vàng.
+
+**Vàng vẫn là tài sản trú ẩn.** Dù không còn là tiền, vàng vẫn là tài sản và công cụ đầu tư có giá trị. Mỗi khi có nguy cơ chiến tranh, kinh tế bất ổn hay suy thoái, nhà đầu tư lại quay về vàng.
+
+**Vì sao người Việt mê vàng hơn.** Ở Việt Nam, mức độ "mê vàng" cao hơn thế giới nhiều bậc. Nguyên nhân chính là lạm phát phi mã: những năm 1985–1986, tiền mất giá 400–500% mỗi năm. Khi tiền mất giá nhanh như vậy và chưa có thị trường chứng khoán, vàng trở thành "ông vua" giữ của. Thế hệ sinh những năm 4X–6X tôn sùng vàng, và thế hệ 7X–9X bị ảnh hưởng theo, với thói quen "cứ dư tiền lại mua vàng".
 
 ### 2. Tỷ suất lợi nhuận thua cả tiền gửi ngân hàng
-- Trong sách của tác giả: tỷ suất lợi nhuận trung bình dài hạn của vàng khoảng 7–12%/năm, tùy thời điểm đầu tư.
-- Thống kê Dragon Capital do TS Lê Anh Tuấn (Phó Tổng giám đốc Đầu tư) trình bày tháng 8/2021, tỷ suất lợi nhuận bình quân năm, danh nghĩa (chưa trừ lạm phát):
+
+Trong sách của mình, tác giả ước tỷ suất lợi nhuận trung bình dài hạn của vàng khoảng 7–12%/năm, tùy thời điểm bắt đầu đầu tư.
+
+Để so sánh, bài dẫn thống kê của Dragon Capital do TS Lê Anh Tuấn (Phó Tổng giám đốc Đầu tư) trình bày tháng 8/2021. Đây là tỷ suất lợi nhuận bình quân năm, danh nghĩa (chưa trừ lạm phát):
 
 | Kênh | 21 năm (2000–2021) | 10 năm (2011–2021) | 5 năm (2016–2021) |
 |---|---|---|---|
@@ -73,28 +97,53 @@
 | Vàng | 9,0% | 1,7% | 6,1% |
 | USD | 2,2% | 0,9% | 0,2% |
 
-- Kết luận của tác giả: người mê vàng sẽ "shock" khi biết sự lên giá của vàng thấp hơn lãi kép tiền gửi trong 5–10 năm trở lại đây. (Đối chiếu bảng: đúng rõ rệt với 10 năm, gần như ngang ở 5 năm, và ngược lại ở 21 năm.)
-- Minh họa lãi kép từ bảng (tính thêm để thấy độ lớn): 100 triệu đồng trong 10 năm với 7,3%/năm thành khoảng 202 triệu; với 1,7%/năm chỉ thành khoảng 118 triệu.
+**Kết luận của tác giả.** Người mê vàng sẽ "shock" khi biết rằng trong 5–10 năm trở lại đây, mức lên giá của vàng còn thấp hơn lãi kép của tiền gửi ngân hàng.
+
+**Đối chiếu với chính bảng số liệu.** Kết luận này đúng rõ rệt với giai đoạn 10 năm (vàng 1,7% so với tiền gửi 7,3%), gần như ngang ở giai đoạn 5 năm (6,1% so với 6,2%), và ngược lại ở giai đoạn 21 năm (vàng 9,0% cao hơn tiền gửi 8,0%). Điều nhất quán ở cả ba giai đoạn là vàng thua cổ phiếu, bất động sản và trái phiếu, chỉ thắng USD.
+
+**Minh hoạ lãi kép từ bảng** (tính thêm để thấy độ lớn). 100 triệu đồng gửi ngân hàng 10 năm với 7,3%/năm thành khoảng 202 triệu đồng; cùng số tiền giữ vàng với 1,7%/năm chỉ thành khoảng 118 triệu đồng.
 
 ### 3. Giá vàng Việt Nam cao hơn thế giới, chênh lệch mua – bán quá cao
-- Quy đổi giá thế giới (giá + vận chuyển + bảo hiểm + thuế nhập khẩu, đổi ra VND) thì giá vàng Việt Nam luôn cao hơn, khi 1,2 triệu, khi 3,4 triệu đồng/lượng, có lúc hơn.
-- Thời điểm viết: thế giới 1.800–1.820 USD/ounce, bài quy đổi "40–51 triệu đồng/lượng" (biên dưới sai, xem Lưu ý), trong khi giá trong nước 62–63 triệu đồng/lượng.
-- Giá trong nước theo giá thế giới nhưng không đồng bộ thời gian: có khi gần như tức thời, có khi chậm hoặc nhanh vài nhịp; theo tác giả, tốc độ nhanh chậm này "nhằm bảo vệ quyền lợi của các chủ doanh nghiệp vàng tại Việt Nam".
-- Chênh lệch mua – bán: thế giới chỉ 0,05–0,2%; Việt Nam thường 1–2%, lúc biến động giãn ra 3–4% hoặc hơn. Đây là "rủi ro cực lớn" cho người đầu tư, lướt sóng vàng vật chất.
+
+Người mua vàng vật chất trong nước chịu hai lớp chi phí ẩn:
+
+| Lớp chi phí | Cách hình thành | Mức theo bài |
+|---|---|---|
+| Chênh giá trong nước so với thế giới | Giá thế giới cộng vận chuyển, bảo hiểm, thuế nhập khẩu, quy đổi ra đồng; giá Việt Nam vẫn cao hơn | Khi 1,2 triệu, khi 3,4 triệu đồng/lượng, có lúc hơn |
+| Chênh lệch mua – bán | Mua ở giá bán ra của doanh nghiệp, bán lại ở giá mua vào | Thường 1–2%, lúc biến động 3–4% hoặc hơn (thế giới chỉ 0,05–0,2%) |
+
+**Số liệu lúc viết bài.** Giá thế giới khoảng 1.800–1.820 USD/ounce. Bài quy đổi thành "40–51 triệu đồng/lượng", nhưng biên dưới này sai: với 1 lượng xấp xỉ 1,2057 ounce và tỷ giá khoảng 22.700–22.800 đồng/USD đầu năm 2022, giá quy đổi chỉ khoảng 49–50 triệu đồng/lượng (chưa tính phí, thuế), không thể xuống 40 triệu. Trong khi đó giá trong nước là 62–63 triệu đồng/lượng.
+
+**Giá trong nước lệch nhịp với thế giới.** Giá vàng trong nước đi theo giá thế giới nhưng không đồng bộ về thời gian: có khi gần như tức thời, có khi chậm hoặc nhanh vài nhịp. Theo tác giả, tốc độ nhanh chậm này "nhằm bảo vệ quyền lợi của các chủ doanh nghiệp vàng tại Việt Nam".
+
+**Hệ quả.** Tác giả gọi chênh lệch mua – bán là "rủi ro cực lớn" cho người đầu tư và người lướt sóng vàng vật chất, vì mỗi lần mua bán đều mất ngay vài phần trăm.
 
 ### 4. Có đoán được giá vàng?
-- Theo kinh nghiệm đầu tư và làm chủ sàn vàng VTG: rất hiếm ai đoán đúng. Câu tác giả đã nói nhiều năm: "Giá vàng diễn biến rất khó lường. Giá vàng như có mắt vậy. Khi mà không ai ngờ nhất, nó sẽ lên mạnh. Khi mà không ai ngờ nhất, nó sẽ xuống mạnh. Giá vàng không cho ai 'ăn dày', thắng đủ cơn sóng. Nhưng lại cho rất nhiều người thua lớn."
+
+Dựa trên kinh nghiệm đầu tư và làm chủ sàn vàng VTG, tác giả cho rằng rất hiếm ai đoán đúng giá vàng. Ông nhắc lại câu đã nói nhiều năm: "Giá vàng diễn biến rất khó lường. Giá vàng như có mắt vậy. Khi mà không ai ngờ nhất, nó sẽ lên mạnh. Khi mà không ai ngờ nhất, nó sẽ xuống mạnh. Giá vàng không cho ai 'ăn dày', thắng đủ cơn sóng. Nhưng lại cho rất nhiều người thua lớn."
+
+Ý của câu này: giá thường đi ngược kỳ vọng của số đông, nên người cố bắt sóng hiếm khi thắng trọn một đợt tăng, nhưng dễ thua đậm khi giá quay đầu.
 
 ### 5. Có nên đầu tư vàng? Bao nhiêu % tài sản?
-- Mê vàng vẫn có thể đầu tư, nhưng chỉ 5–10% tài sản.
-- Lý do 1: tỷ suất lợi nhuận quá kém so với tài sản khác.
-- Lý do 2: rủi ro cất giữ. Cổ phiếu có trung tâm lưu ký; tiền gửi có ngân hàng và hệ thống quản lý giữ hộ; vàng vật chất phải tự giữ, "rất rủi ro".
-- Cách mua: tránh mua một lần số tiền lớn (giá có thể rớt ngay sau khi mua, "yếu tim" bán ra thì lỗ); mua đều theo thời gian. Tác giả cho rằng trong dài hạn giá vàng sẽ lên và sẽ đạt tỷ suất lợi nhuận dương.
+
+Người mê vàng vẫn có thể đầu tư, nhưng theo tác giả chỉ nên giữ 5–10% tài sản bằng vàng, vì hai lý do:
+
+- **Lý do 1: tỷ suất lợi nhuận quá kém** so với các tài sản khác, như bảng ở mục 2 cho thấy.
+- **Lý do 2: rủi ro cất giữ.** Cổ phiếu có trung tâm lưu ký giữ hộ; tiền gửi có ngân hàng và hệ thống quản lý giữ hộ; còn vàng vật chất phải tự cất giữ, mà theo tác giả là "rất rủi ro" (mất cắp, thất lạc).
+
+**Cách mua.** Tránh dùng một số tiền lớn mua một lần, vì giá có thể rớt ngay sau khi mua, và người "yếu tim" bán ra lúc đó sẽ lỗ. Thay vào đó, mua đều theo thời gian. Tác giả cho rằng trong dài hạn giá vàng sẽ lên và sẽ đạt tỷ suất lợi nhuận dương.
+
+**Ví dụ minh hoạ** (số giả định). Người có tổng tài sản 1 tỷ đồng theo khuyến nghị này giữ vàng 50–100 triệu đồng, chia ra mua dần nhiều lần thay vì mua một lần.
 
 ### 6. Có nên mua vàng ngày vía Thần Tài?
-- Nếu tin mua vài lượng, vài chỉ hay vài chiếc nhẫn giúp may mắn cả năm thì nên mua: "Không có đầu tư nào tốt hơn là đầu tư vào tinh thần, cảm xúc, (và kiến thức) của bản thân."
-- Nếu mua số tiền lớn so với tài sản để kiếm lời thì KHÔNG NÊN: giá được đẩy lên quá cao những ngày này, chênh mua – bán cũng quá cao, tỷ lệ thua lỗ quá lớn.
-- Bán vàng ngày vía Thần Tài rồi mua lại trước/sau đó: "về lý thuyết thì OK", nhưng khoảng cách mua – bán làm giảm lợi nhuận và đôi khi có sóng ngược.
+
+Tác giả chia thành hai trường hợp, cộng một trường hợp phụ:
+
+| Mục đích | Lời khuyên | Lý do |
+|---|---|---|
+| Mua vài lượng, vài chỉ hay vài chiếc nhẫn để lấy may cả năm | Nên mua, nếu mình tin | "Không có đầu tư nào tốt hơn là đầu tư vào tinh thần, cảm xúc, (và kiến thức) của bản thân." |
+| Mua số tiền lớn so với tài sản để kiếm lời | KHÔNG NÊN | Giá bị đẩy lên quá cao những ngày này, chênh lệch mua – bán cũng quá cao, tỷ lệ thua lỗ quá lớn |
+| Bán vàng đúng ngày vía Thần Tài rồi mua lại trước hoặc sau đó | "Về lý thuyết thì OK" | Nhưng khoảng cách mua – bán làm giảm lợi nhuận, và đôi khi gặp sóng ngược |
 
 ## Thuật ngữ
 

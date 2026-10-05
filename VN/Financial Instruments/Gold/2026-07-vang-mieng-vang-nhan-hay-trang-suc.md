@@ -46,17 +46,42 @@
 2. Vì sao bán vàng trang sức thường bị lỗ, và nên chọn vàng miếng SJC hay nhẫn trơn để tích lũy?
 3. Nên giữ bao nhiêu phần trăm tài sản bằng vàng và mua như thế nào cho an toàn?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Kara (K) và vàng 9999.** Kara là đơn vị đo hàm lượng vàng theo thang 24 phần. Vàng 24K gần như nguyên chất, khoảng 99,99% vàng, nên còn gọi là vàng 9999. Vàng 18K chỉ có 18 trên 24 phần là vàng, tức khoảng 75%; phần còn lại là kim loại khác pha vào cho cứng và đẹp. Ví dụ minh hoạ: một chiếc nhẫn 18K nặng 1 chỉ chỉ chứa khoảng 0,75 chỉ vàng nguyên chất. Hàm lượng là điểm khác nhau đầu tiên giữa các loại vàng trong bài.
+
+**Chỉ và lượng.** Đơn vị khối lượng vàng ở Việt Nam: 1 chỉ bằng 3,75 gam; 1 lượng (còn gọi là cây) bằng 10 chỉ, tức 37,5 gam. Giá vàng trong nước niêm yết theo lượng hoặc theo chỉ.
+
+**Tiền công chế tác (making charge).** Chi phí gia công để làm ra một món trang sức như nhẫn, dây chuyền, lắc. Khoản này cộng vào giá khi mua nhưng thường không được tính khi bán lại. Ví dụ minh hoạ: một chiếc lắc giá 40 triệu đồng gồm 37 triệu tiền vàng và 3 triệu tiền công; khi bán lại, tiệm chỉ trả theo phần vàng, nên người bán mất ngay 3 triệu. Đây là lý do bài khuyên không dùng trang sức để tích lũy.
+
+**Giá bán ra, giá mua vào và chênh lệch mua – bán (bid–ask spread).** Giá bán ra là giá tiệm bán cho khách; giá mua vào là giá tiệm mua lại của khách. Giá bán ra luôn cao hơn, và khoảng chênh lệch là chi phí người mua chịu ngay khi giao dịch. Ví dụ minh hoạ: nhẫn trơn bán ra 10 triệu đồng/chỉ, mua vào 9,8 triệu đồng/chỉ thì mua xong bán lại ngay là mất 200 nghìn đồng mỗi chỉ.
+
+**Phần bù giá trong nước (domestic premium).** Mức giá vàng miếng trong nước cao hơn giá thế giới sau khi quy đổi ra đồng. Theo bài, vàng miếng SJC có lúc cao hơn 15–20 triệu đồng/lượng. Người mua vàng miếng đang trả thêm khoản này ngoài giá trị vàng theo thế giới.
+
+**Rủi ro chính sách (policy risk).** Rủi ro do quy định thay đổi, ví dụ về nguồn cung vàng miếng hay về cấp phép kinh doanh, làm phần bù trong nước thu hẹp. Ví dụ minh hoạ: mua một lượng vàng miếng khi phần bù là 18 triệu đồng; nếu chính sách mới làm phần bù về 3 triệu đồng thì người mua mất 15 triệu đồng dù giá vàng thế giới đứng yên. Đây là rủi ro riêng của vàng miếng mà bài cảnh báo.
+
+**Tài sản phòng thủ (defensive asset).** Tài sản dùng để giữ giá trị khi lạm phát cao hoặc kinh tế bất ổn, không nhằm sinh lời cao. Bài xếp vàng vào loại này, vì thế khuyên chỉ giữ 5–10% tổng tài sản bằng vàng.
+
+**Mua đuổi.** Mua vào khi giá đang tăng nóng, vì sợ lỡ cơ hội. Ví dụ minh hoạ: giá tăng liên tục một tuần, nhiều người đổ đi mua ở vùng đỉnh rồi chịu lỗ khi giá điều chỉnh. Bài khuyên không mua đuổi và thay vào đó tích lũy đều đặn.
+
+## Nội dung chi tiết
 
 ### Tình huống mở đầu
-- Bạn mua một chiếc lắc vàng 5 chỉ để dành; vài hôm sau kẹt tiền mang bán lại đúng tiệm đó và bị trừ mất mấy triệu đồng dù giá vàng không giảm. Chọn sai loại vàng có thể mất tiền ngay khi bước ra khỏi tiệm.
+
+Bài mở đầu bằng một tình huống quen thuộc. Bạn mua một chiếc lắc vàng 5 chỉ để dành. Vài hôm sau kẹt tiền, bạn mang bán lại đúng tiệm đó và bị trừ mất mấy triệu đồng, dù giá vàng không hề giảm.
+
+Lý do không nằm ở giá vàng mà ở loại vàng đã chọn. Theo bài, "không phải loại vàng nào cũng giống nhau, và chọn sai loại có thể khiến bạn mất tiền ngay từ lúc bước ra khỏi cửa tiệm".
 
 ### 1. Các loại vàng ở Việt Nam
-- **Vàng miếng** (phổ biến nhất là SJC): hàm lượng 9999 (24K), dập thành miếng có thương hiệu, thường mua để tích trữ, đầu tư.
-- **Vàng nhẫn trơn 9999:** cũng là vàng 24K nhưng ở dạng nhẫn trơn, ít chịu chênh lệch do thương hiệu.
-- **Vàng trang sức:** nhẫn, dây chuyền, lắc có chế tác, thường 18K hoặc 24K, cộng thêm tiền công chế tác.
-- **Vàng tây, vàng 18K:** pha thêm kim loại khác cho cứng và đẹp hơn, hàm lượng vàng thấp hơn.
-- Chỉ số K (kara) càng cao thì hàm lượng vàng càng lớn: 24K tương đương khoảng 99,99% vàng nguyên chất; 18K chỉ khoảng 75% (18/24 = 75%).
+
+Bài phân biệt bốn loại:
+
+- **Vàng miếng**, phổ biến nhất là SJC: hàm lượng 9999 (24K), được dập thành miếng có thương hiệu, thường mua để tích trữ và đầu tư.
+- **Vàng nhẫn trơn 9999:** cũng là vàng 24K nhưng ở dạng nhẫn trơn không hoa văn, nên ít chịu chênh lệch do thương hiệu.
+- **Vàng trang sức:** nhẫn, dây chuyền, lắc có chế tác, thường là 18K hoặc 24K, giá cộng thêm tiền công chế tác.
+- **Vàng tây, vàng 18K:** vàng đã pha thêm kim loại khác để cứng và đẹp hơn, nên hàm lượng vàng thấp hơn.
+
+Chỉ số K (kara) càng cao thì hàm lượng vàng càng lớn. Vàng 24K tương đương khoảng 99,99% vàng nguyên chất; vàng 18K chỉ khoảng 75% (vì 18/24 = 75%).
 
 | Loại | Hàm lượng | Tiền công | Chênh lệch mua – bán | Mục đích phù hợp |
 |---|---|---|---|---|
@@ -66,40 +91,73 @@
 | Vàng tây, 18K | Khoảng 75% vàng | Có | Lớn | Trang sức |
 
 ### 2. Chênh lệch mua và bán: chi phí ẩn
-- Luôn có hai giá: giá bán ra (bạn mua) và giá mua vào (bạn bán lại); giá bán ra luôn cao hơn. Khoảng chênh lệch là chi phí bạn chịu ngay khi giao dịch.
-- Vàng trang sức có chênh lệch lớn nhất vì giá mua đã gồm tiền công, nhưng khi bán thường không được tính khoản công này; đó là lý do chiếc lắc "bốc hơi" vài triệu dù giá vàng không giảm.
-- Vàng miếng và nhẫn trơn có chênh lệch thấp hơn nhiều nên hợp tích lũy.
-- Kết luận đơn giản: mua để đeo thì chọn trang sức; mua để tích lũy, đầu tư thì tránh trang sức.
+
+Khi mua bán vàng luôn có hai giá: giá bán ra (giá bạn trả khi mua) và giá mua vào (giá bạn nhận khi bán lại). Giá bán ra luôn cao hơn, và khoảng chênh lệch là chi phí bạn chịu ngay khi giao dịch, trước cả khi giá thị trường thay đổi.
+
+Bài mô tả ba lớp chi phí chồng lên nhau khi mua vàng:
+
+1. Bắt đầu từ giá thế giới quy đổi ra đồng.
+2. Cộng phần bù trong nước để ra giá niêm yết; với vàng miếng SJC, phần bù này có lúc 15–20 triệu đồng/lượng.
+3. Cộng tiền công chế tác (chỉ với trang sức) để ra giá bạn trả.
+
+Khi bán lại, bạn mất tiền công cộng với chênh lệch mua – bán.
+
+Vàng trang sức có chênh lệch lớn nhất, vì giá mua đã gồm tiền công nhưng khi bán thường không được tính khoản này. Đó chính là lý do chiếc lắc trong tình huống mở đầu "bốc hơi" vài triệu đồng dù giá vàng không giảm. Ngược lại, vàng miếng và nhẫn trơn có chênh lệch thấp hơn nhiều, nên phù hợp để tích lũy.
+
+Kết luận đơn giản của bài: "Mua vàng để đeo thì chọn vàng trang sức. Mua vàng để tích lũy hoặc đầu tư thì nên tránh vàng trang sức."
 
 ### 3. Vàng miếng SJC hay vàng nhẫn để tích lũy?
-- Cả hai đều 9999; khác biệt chủ yếu ở giá và rủi ro chính sách.
-- Nhiều thời điểm vàng miếng SJC giao dịch cao hơn giá thế giới quy đổi 15–20 triệu đồng/lượng do đặc thù nguồn cung trong nước (bài dẫn nguồn Hiệp hội Kinh doanh Vàng Việt Nam).
-- Mua khi chênh lệch quá cao là rủi ro: nếu chính sách thay đổi, nguồn cung cải thiện, khoảng chênh lệch thu hẹp và người mua ở vùng giá cao chịu thiệt.
-- Nhẫn trơn thường bám sát giá thế giới hơn, chênh lệch mua – bán thấp hơn, phù hợp người tích lũy từng chỉ, từng lượng.
+
+Cả vàng miếng SJC và nhẫn trơn đều là vàng 9999. Khác biệt chủ yếu nằm ở giá và ở rủi ro chính sách.
+
+**Vàng miếng SJC.** Theo bài (dẫn nguồn Hiệp hội Kinh doanh Vàng Việt Nam), nhiều thời điểm vàng miếng SJC giao dịch cao hơn giá thế giới quy đổi 15–20 triệu đồng/lượng, do đặc thù nguồn cung trong nước. Mua vào khi phần chênh này quá cao là rủi ro: nếu chính sách thay đổi hoặc nguồn cung được cải thiện, khoảng chênh sẽ thu hẹp, và người mua ở vùng giá cao chịu thiệt, kể cả khi giá vàng thế giới không giảm.
+
+**Nhẫn trơn 9999.** Nhẫn trơn thường bám sát giá thế giới hơn và có chênh lệch mua – bán thấp hơn, nên phù hợp với người tích lũy dần từng chỉ, từng lượng.
+
+| | Vàng miếng SJC | Nhẫn trơn 9999 |
+|---|---|---|
+| Hàm lượng | 9999 | 9999 |
+| Thương hiệu | Có, giá đôi khi cao hơn | Ít chịu phần bù thương hiệu |
+| So với giá thế giới | Có lúc cao hơn 15–20 triệu đồng/lượng | Bám sát hơn |
+| Chênh lệch mua – bán | Thấp hơn trang sức | Thấp |
+| Rủi ro riêng | Rủi ro chính sách nếu phần bù thu hẹp | |
 
 ### 4. Nên giữ bao nhiêu phần trăm tài sản bằng vàng?
-- Vàng là tài sản phòng thủ, bảo toàn giá trị khi lạm phát hoặc kinh tế bất ổn, "không phải là cỗ máy làm giàu".
-- Nguyên tắc nhiều chuyên gia áp dụng: vàng chỉ khoảng 5–10% tổng tài sản. Ví dụ: tài sản tích lũy 500 triệu đồng → phần vàng hợp lý 25–50 triệu đồng (5% và 10% của 500 triệu, đúng).
-- Dồn toàn bộ vào vàng khiến bỏ lỡ cơ hội sinh lời ở kênh khác và vẫn chịu rủi ro khi giá đi ngang hoặc giảm nhiều năm.
-- Ví dụ thực tế nửa đầu năm 2026: sau khi lập đỉnh đầu năm, giá vàng thế giới điều chỉnh, hiệu suất tính từ đầu năm giảm khoảng 7% (bài ghi nguồn "tổng hợp thị trường"). Vàng không phải lúc nào cũng tăng.
+
+Bài xác định vai trò của vàng: "Vàng là tài sản phòng thủ, giúp bảo toàn giá trị khi lạm phát hoặc kinh tế bất ổn, chứ không phải là cỗ máy làm giàu."
+
+Từ đó, nguyên tắc mà nhiều chuyên gia áp dụng là vàng chỉ nên chiếm khoảng 5–10% tổng tài sản. Ví dụ trong bài: tài sản tích lũy 500 triệu đồng thì phần vàng hợp lý là 25–50 triệu đồng (5% và 10% của 500 triệu).
+
+Dồn toàn bộ tiền vào vàng có hai bất lợi: bỏ lỡ cơ hội sinh lời ở các kênh khác, và vẫn chịu rủi ro khi giá vàng đi ngang hoặc giảm trong nhiều năm.
+
+Bài dẫn một ví dụ thực tế nửa đầu năm 2026: sau khi lập đỉnh đầu năm, giá vàng thế giới điều chỉnh, và hiệu suất tính từ đầu năm giảm khoảng 7% (bài ghi nguồn là "tổng hợp thị trường"). Ví dụ này cho thấy vàng không phải lúc nào cũng tăng.
 
 ### 5. Mua vàng an toàn
-- Mua tại đơn vị uy tín, giữ đầy đủ hóa đơn; theo quy định mới, giao dịch vàng miếng phải thực hiện tại các đơn vị được cấp phép (bài dẫn nguồn Ngân hàng Nhà nước Việt Nam).
-- Không mua đuổi khi giá tăng nóng và chênh lệch với thế giới quá cao.
-- Tích lũy đều đặn hằng tháng thay vì dồn tiền vào một thời điểm khi giá ở vùng đỉnh.
-- Bảo quản cẩn thận, giữ hóa đơn để thuận tiện khi bán lại.
+
+Bài đưa ra bốn nguyên tắc:
+
+- **Mua tại đơn vị uy tín và giữ đầy đủ hóa đơn.** Theo quy định mới (bài dẫn nguồn Ngân hàng Nhà nước Việt Nam), giao dịch vàng miếng phải thực hiện tại các đơn vị được cấp phép.
+- **Không mua đuổi** khi giá đang tăng nóng và chênh lệch với thế giới quá cao.
+- **Tích lũy đều đặn hằng tháng** thay vì dồn tiền vào một thời điểm khi giá đang ở vùng đỉnh.
+- **Bảo quản cẩn thận** và giữ hóa đơn để thuận tiện khi bán lại.
 
 ### 6. Hành động ngay
-- Xác định mục tiêu: đeo hay đầu tư.
-- Tích lũy thì ưu tiên vàng miếng hoặc nhẫn trơn 9999; kiểm tra chênh lệch giá trong nước – thế giới trước khi mua.
-- Đặt tỷ lệ vàng tối đa trong tài sản (ví dụ 10%) và không vượt kể cả khi giá đang "nóng".
+
+1. Xác định mục tiêu: mua để đeo hay để đầu tư.
+2. Nếu để tích lũy, ưu tiên vàng miếng hoặc nhẫn trơn 9999, và kiểm tra chênh lệch giữa giá trong nước và giá thế giới trước khi mua.
+3. Đặt tỷ lệ vàng tối đa trong tài sản (ví dụ 10%) và không vượt quá, kể cả khi giá đang "nóng".
 
 ### 7. Câu hỏi thường gặp
-- **Vàng miếng và vàng nhẫn khác nhau thế nào?** Đều 9999; vàng miếng có thương hiệu và đôi khi giá cao hơn; nhẫn trơn bám giá thế giới, chênh lệch mua – bán thấp hơn.
-- **Nên mua loại nào để tích lũy?** Vàng miếng hoặc nhẫn trơn 9999; không chọn trang sức vì trả tiền công khi mua mà thường không được hoàn khi bán.
-- **Vì sao bán trang sức thường lỗ?** Mất tiền công cộng chênh lệch mua – bán cao.
-- **Nên giữ bao nhiêu vàng?** Khoảng 5–10% tổng tài sản.
-- **Vàng 18K là gì?** Hàm lượng khoảng 75%, phần còn lại là kim loại pha để tăng độ cứng, thẩm mỹ, dùng chế tác trang sức.
+
+**Vàng miếng và vàng nhẫn khác nhau thế nào?** Cả hai đều là vàng 9999. Vàng miếng có thương hiệu và đôi khi giá cao hơn; nhẫn trơn bám giá thế giới hơn và có chênh lệch mua – bán thấp hơn.
+
+**Nên mua loại nào để tích lũy?** Vàng miếng hoặc nhẫn trơn 9999. Không nên chọn trang sức, vì phải trả tiền công khi mua mà thường không được hoàn lại khi bán.
+
+**Vì sao bán trang sức thường lỗ?** Vì mất tiền công cộng với chênh lệch mua – bán cao.
+
+**Nên giữ bao nhiêu vàng?** Khoảng 5–10% tổng tài sản.
+
+**Vàng 18K là gì?** Vàng có hàm lượng khoảng 75%, phần còn lại là kim loại pha vào để tăng độ cứng và tính thẩm mỹ, dùng để chế tác trang sức.
 
 ## Thuật ngữ
 

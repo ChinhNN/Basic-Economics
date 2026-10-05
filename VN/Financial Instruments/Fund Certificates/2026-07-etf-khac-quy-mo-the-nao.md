@@ -44,17 +44,39 @@
 2. ETF khác quỹ mở ở những điểm nào, và mỗi loại có ưu nhược điểm gì?
 3. Người mới nên chọn ETF hay quỹ mở, và bắt đầu ra sao?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Chỉ số chứng khoán (stock index) và chỉ số tham chiếu.** Một con số đại diện cho giá của một rổ cổ phiếu được chọn theo quy tắc. Ví dụ trong bài: VN30 là rổ 30 cổ phiếu lớn trên sàn HOSE; VN Diamond là nhóm cổ phiếu đã hết room ngoại; VNFIN LEAD là nhóm tài chính, ngân hàng. Chỉ số mà một ETF bám theo gọi là chỉ số tham chiếu (benchmark index). Hiểu chỉ số là bước đầu để hiểu ETF, vì phần lớn ETF chỉ làm một việc là sao chép chỉ số.
+
+**ETF, quỹ hoán đổi danh mục (Exchange Traded Fund).** Quỹ nắm giữ sẵn một rổ tài sản, thường mô phỏng một chỉ số, và chứng chỉ quỹ được niêm yết, mua bán trên sàn như một cổ phiếu. Ví dụ trong bài: ETF mô phỏng VN30 nắm đúng 30 cổ phiếu theo tỷ trọng của chỉ số, nên chỉ số tăng bao nhiêu thì quỹ tăng gần bấy nhiêu. Đây là sản phẩm trung tâm của bài.
+
+**Quỹ mở, quỹ tương hỗ (open-end/mutual fund).** Quỹ mà nhà đầu tư mua và bán chứng chỉ trực tiếp với công ty quản lý quỹ hoặc qua đại lý phân phối, không qua sàn. Lệnh được khớp một lần mỗi ngày theo NAV. Đây là sản phẩm bài đem ra so với ETF.
+
+**NAV và chênh lệch giá so với NAV (premium/discount).** NAV (net asset value) là giá trị tài sản của quỹ trừ nợ, tính trên mỗi chứng chỉ. Quỹ mở giao dịch đúng ở NAV; còn giá ETF trên sàn do cung cầu quyết định nên có thể cao hơn hoặc thấp hơn NAV. Ví dụ minh hoạ: NAV của một ETF là 20.000 đồng nhưng giá khớp trên sàn là 20.400 đồng, tức người mua đang trả cao hơn giá trị tài sản thực 2%. Bài coi đây là một rủi ro của ETF.
+
+**Đầu tư thụ động và chủ động (passive/active investing).** Đầu tư thụ động là bám sát chỉ số, không cố vượt thị trường. Đầu tư chủ động là đội ngũ quản lý tự chọn cổ phiếu, kỳ vọng sinh lời cao hơn chỉ số, nhưng phải trả lương đội phân tích nên phí cao hơn. ETF chủ yếu thụ động, quỹ mở đa số chủ động; đây là một trong bốn điểm khác nhau bài nêu.
+
+**Phí quản lý (management fee).** Phí tính theo phần trăm NAV mỗi năm. Theo bài, ETF khoảng 0,5–1%, quỹ mở chủ động khoảng 1–2%. Ví dụ minh hoạ: với 100 triệu đồng, phí 0,7% là 700 nghìn đồng mỗi năm, phí 1,7% là 1,7 triệu đồng; chênh 1 triệu đồng mỗi năm, và chênh lệch này cộng dồn theo thời gian.
+
+**Room ngoại (foreign ownership limit).** Giới hạn tỷ lệ cổ phần mà nhà đầu tư nước ngoài được sở hữu trong một công ty. "Hết room" nghĩa là khối ngoại đã mua đủ mức tối đa. Chỉ số VN Diamond gồm các cổ phiếu đã kín room, nên ETF bám chỉ số này là cách để nhà đầu tư gián tiếp sở hữu nhóm cổ phiếu đó.
+
+**DCA (dollar-cost averaging).** Đầu tư định kỳ một khoản cố định, ví dụ 1 triệu đồng mỗi tháng. Bài nói việc này thường làm tự động được qua quỹ mở, và là lý do để người ngại thao tác chọn quỹ mở.
+
+## Nội dung chi tiết
 
 ### 1. Tình huống mở đầu
-- Chị Mai muốn đầu tư chứng khoán nhưng "ngộp" trước cả trăm mã cổ phiếu, mã nào cũng có người khen kẻ chê.
-- Một người bạn khuyên: không cần chọn từng mã, mua ETF là gián tiếp sở hữu cả rổ cổ phiếu tốt nhất thị trường.
+
+Bài mở đầu bằng trường hợp chị Mai. Chị muốn đầu tư chứng khoán nhưng thấy "ngộp" trước cả trăm mã cổ phiếu, mã nào cũng có người khen, có người chê, nên không biết bắt đầu từ đâu.
+
+Một người bạn khuyên chị: "Không cần chọn từng mã. Mua ETF là gián tiếp sở hữu cả rổ cổ phiếu tốt nhất thị trường luôn." Lời khuyên này dẫn vào câu hỏi của bài: ETF là gì, khác quỹ mở ra sao, và người mới nên chọn loại nào.
 
 ### 2. ETF là gì
-- ETF là viết tắt của Exchange Traded Fund, tạm dịch là quỹ hoán đổi danh mục.
-- Là quỹ đầu tư nắm giữ sẵn một rổ tài sản (thường là cổ phiếu); điểm đặc biệt là chứng chỉ quỹ ETF được niêm yết và mua bán trên sàn chứng khoán như một cổ phiếu.
-- Phần lớn ETF mô phỏng một chỉ số. Ví dụ: ETF mô phỏng VN30 nắm giữ đúng 30 cổ phiếu lớn nhất sàn HOSE theo tỷ trọng của chỉ số; chỉ số tăng bao nhiêu, quỹ tăng gần bấy nhiêu. Mua một chứng chỉ quỹ là gián tiếp sở hữu cả 30 doanh nghiệp.
-- Tại Việt Nam có khoảng 11 quỹ ETF nội đang hoạt động (theo tổng hợp từ Dragon Capital, SSIAM, HOSE, Stag, Vietstock, tháng 7/2026). Một số tên phổ biến:
+
+ETF là viết tắt của Exchange Traded Fund, tạm dịch là quỹ hoán đổi danh mục. Đây là một quỹ đầu tư nắm giữ sẵn một rổ tài sản, thường là cổ phiếu. Điểm đặc biệt là chứng chỉ quỹ ETF được niêm yết và mua bán trên sàn chứng khoán, giống hệt như một cổ phiếu.
+
+Phần lớn ETF mô phỏng một chỉ số. Lấy ví dụ ETF mô phỏng VN30: quỹ nắm giữ đúng 30 cổ phiếu lớn nhất sàn HOSE theo đúng tỷ trọng của chỉ số. Vì danh mục giống chỉ số, chỉ số tăng bao nhiêu thì quỹ tăng gần bấy nhiêu. Người mua một chứng chỉ quỹ là gián tiếp sở hữu một phần của cả 30 doanh nghiệp, chứ không phải tự chọn và mua từng mã.
+
+Tại Việt Nam, theo tổng hợp từ Dragon Capital, SSIAM, HOSE, Stag và Vietstock (tháng 7/2026), có khoảng 11 quỹ ETF nội đang hoạt động. Một số tên phổ biến:
 
 | Mã ETF | Chỉ số mô phỏng | Ghi chú |
 |---|---|---|
@@ -62,49 +84,69 @@
 | FUEVFVND | VN Diamond | Nhóm cổ phiếu hết room ngoại |
 | FUESSVFL | VNFIN LEAD | Nhóm tài chính, ngân hàng; do SSIAM quản lý |
 
+Ba quỹ này cho thấy ba hướng khác nhau: bám cả nhóm doanh nghiệp lớn nhất thị trường, bám nhóm cổ phiếu khối ngoại ưa chuộng đã kín room, hoặc bám riêng một ngành.
+
 ### 3. Bốn điểm khác nhau giữa ETF và quỹ mở (quỹ tương hỗ)
-- Nhiều người nhầm vì cả hai đều là "mua chứng chỉ quỹ".
+
+Nhiều người nhầm lẫn hai loại này vì cả hai đều là "mua chứng chỉ quỹ". Bài chỉ ra bốn điểm khác nhau:
 
 | Tiêu chí | ETF | Quỹ mở |
 |---|---|---|
 | Cách mua bán | Trên sàn qua tài khoản chứng khoán, khớp lệnh trong phiên như cổ phiếu | Qua công ty quản lý quỹ hoặc đại lý phân phối (ví dụ Fmarket), khớp một lần trong ngày |
 | Chiến lược | Chủ yếu thụ động, bám chỉ số, không cố "đánh bại" thị trường | Đa số chủ động, đội ngũ quản lý tự chọn cổ phiếu, kỳ vọng sinh lời cao hơn chỉ số |
 | Chi phí | Phí quản lý thường khoảng 0,5–1%/năm trên giá trị tài sản ròng | Thường cao hơn, khoảng 1–2%/năm do phải trả lương đội phân tích |
-| Cách xác định giá | Giá biến động liên tục trong phiên theo cung cầu | Chỉ một mức giá NAV tính cuối ngày |
+| Cách xác định giá | Giá biến động liên tục trong phiên theo cung cầu, có thể lệch NAV | Chỉ một mức giá NAV tính cuối ngày |
 
-- Mức phí tham khảo theo tổng hợp của Tititada và tài liệu công bố của các quỹ năm 2026; phí cụ thể xem tại bản cáo bạch từng quỹ.
-- Chênh lệch phí "tưởng nhỏ nhưng cộng dồn nhiều năm là con số đáng kể".
-- Người thích mua bán linh hoạt hợp với ETF hơn.
+Mức phí tham khảo lấy theo tổng hợp của Tititada và tài liệu công bố của các quỹ năm 2026; phí cụ thể của từng quỹ cần xem trong bản cáo bạch.
+
+Về chi phí, bài nhấn mạnh rằng chênh lệch phí "tưởng nhỏ nhưng cộng dồn nhiều năm là con số đáng kể". Lý do là phí bị trừ mỗi năm trên toàn bộ tài sản, kể cả phần lợi nhuận đã tích lũy.
+
+Về cách mua bán và xác định giá, hai điểm khác biệt này đi cùng nhau: vì ETF khớp liên tục trên sàn nên người mua biết ngay giá mình mua, và có thể mua bán nhiều lần trong ngày; còn người đặt lệnh quỹ mở chỉ biết giá khi NAV cuối ngày được tính. Vì vậy người thích mua bán linh hoạt hợp với ETF hơn.
 
 ### 4. Ưu điểm của ETF
-- Đa dạng hóa tức thì: một lệnh mua là gián tiếp sở hữu hàng chục cổ phiếu, giảm rủi ro so với "bỏ trứng vào một giỏ".
-- Phí thấp nhờ chiến lược thụ động, tiết kiệm chi phí dài hạn.
-- Minh bạch: danh mục được công bố công khai.
-- Thanh khoản và linh hoạt: mua bán dễ dàng trong phiên.
+
+- **Đa dạng hóa tức thì.** Chỉ một lệnh mua là gián tiếp sở hữu hàng chục cổ phiếu, giảm rủi ro so với "bỏ trứng vào một giỏ".
+- **Phí thấp** nhờ chiến lược thụ động, không phải trả cho đội ngũ chọn cổ phiếu; về dài hạn tiết kiệm đáng kể chi phí.
+- **Minh bạch.** Danh mục quỹ được công bố công khai, nhà đầu tư biết mình đang sở hữu gì.
+- **Thanh khoản và linh hoạt.** Mua bán dễ dàng trong phiên giao dịch.
 
 ### 5. Nhược điểm và rủi ro
-- Không đánh bại thị trường: thị trường giảm thì quỹ cũng giảm theo, không phòng thủ.
-- Chênh lệch giá và NAV: giá trên sàn có thể cao hơn hoặc thấp hơn giá trị tài sản thực; mua lúc giá cao hơn NAV là mua đắt.
-- Rủi ro thanh khoản: một số ETF ít giao dịch, bán số lượng lớn có thể phải chịu giá không tốt.
-- Không có quyền cổ đông: không nhận cổ tức trực tiếp hay quyền biểu quyết như sở hữu cổ phiếu riêng lẻ.
-- Nguồn tổng hợp rủi ro: tài liệu nhà đầu tư của VFS, DSC và Tititada năm 2026.
+
+Bài tổng hợp các rủi ro từ tài liệu dành cho nhà đầu tư của VFS, DSC và Tititada năm 2026:
+
+- **Không đánh bại thị trường.** ETF đi theo chỉ số, nên khi thị trường giảm thì quỹ cũng giảm theo; nó không có cơ chế phòng thủ.
+- **Chênh lệch giữa giá và NAV.** Giá trên sàn có thể cao hơn hoặc thấp hơn giá trị tài sản thực của quỹ. Mua vào lúc giá cao hơn NAV là mua đắt.
+- **Rủi ro thanh khoản.** Một số ETF ít người giao dịch; khi cần bán số lượng lớn, nhà đầu tư có thể phải chấp nhận giá không tốt.
+- **Không có quyền cổ đông.** Người giữ ETF không nhận cổ tức trực tiếp từ các doanh nghiệp, và không có quyền biểu quyết như khi sở hữu cổ phiếu riêng lẻ.
 
 ### 6. Người mới nên chọn ETF hay quỹ mở
-- Không có đáp án chung; phụ thuộc mức độ muốn tự chủ và việc đã có tài khoản chứng khoán hay chưa.
-- Chọn ETF nếu: đã có tài khoản chứng khoán, thích tự mua bán linh hoạt, muốn phí thấp, chấp nhận "đi cùng thị trường".
-- Chọn quỹ mở nếu: muốn giao hẳn việc chọn cổ phiếu cho chuyên gia, thích đầu tư định kỳ tự động (DCA) qua đại lý, ngại thao tác trên sàn.
-- Cả hai đều phù hợp với người mới hơn là tự "ôm" vài cổ phiếu riêng lẻ.
+
+Bài nói không có đáp án chung. Lựa chọn phụ thuộc vào hai điều: người đó muốn tự chủ đến mức nào, và đã có tài khoản chứng khoán hay chưa.
+
+| Chọn ETF nếu | Chọn quỹ mở nếu |
+|---|---|
+| Đã có tài khoản chứng khoán | Muốn giao hẳn việc chọn cổ phiếu cho chuyên gia |
+| Thích tự mua bán linh hoạt | Thích đầu tư định kỳ tự động (DCA) qua đại lý |
+| Muốn phí thấp | Ngại thao tác trên sàn |
+| Chấp nhận "đi cùng thị trường" | |
+
+Kết luận của phần này: cả hai lựa chọn đều phù hợp với người mới hơn là tự "ôm" vài cổ phiếu riêng lẻ, vì cả hai đều cho đa dạng hóa ngay từ số vốn nhỏ.
 
 ### 7. Ba bước hành động
-1. Xác định nhóm muốn bám theo: cả thị trường lớn (VN30), nhóm hết room ngoại (VN Diamond) hay ngành ngân hàng, tài chính.
-2. Chọn ETF thì mở tài khoản chứng khoán, tra mã quỹ tương ứng; chọn quỹ mở thì tìm hiểu qua đại lý phân phối uy tín.
-3. Bắt đầu với số tiền nhỏ, đầu tư đều đặn thay vì dồn một lần, kiên trì theo kế hoạch dài hạn.
+
+1. **Xác định nhóm muốn bám theo:** cả nhóm doanh nghiệp lớn của thị trường (VN30), nhóm cổ phiếu hết room ngoại (VN Diamond), hay ngành ngân hàng, tài chính (VNFIN LEAD).
+2. **Chọn kênh:** nếu chọn ETF thì mở tài khoản chứng khoán và tra mã quỹ tương ứng; nếu chọn quỹ mở thì tìm hiểu qua một đại lý phân phối uy tín.
+3. **Bắt đầu nhỏ:** đầu tư với số tiền nhỏ, đều đặn thay vì dồn một lần, và kiên trì theo kế hoạch dài hạn.
 
 ### 8. Câu hỏi thường gặp
-- ETF hay quỹ mở an toàn hơn? Cả hai đều được quản lý chuyên nghiệp và giám sát bởi cơ quan chức năng, an toàn hơn nhiều so với tự mua vài cổ phiếu; rủi ro chính vẫn là biến động thị trường chung, cả hai đều chịu tác động.
-- Mua ETF cần bao nhiêu tiền? Vì giao dịch theo lô như cổ phiếu, có thể bắt đầu với vài trăm nghìn đến vài triệu đồng tùy giá chứng chỉ quỹ lúc mua.
-- ETF có trả cổ tức không? Tùy quỹ: một số trả cổ tức, một số tái đầu tư; xem chính sách trong bản cáo bạch.
-- ETF có hợp đầu tư dài hạn không? Có; phí thấp và đa dạng hóa khiến ETF là công cụ phổ biến để tích lũy dài hạn theo chiến lược thụ động, kết hợp tốt với đầu tư định kỳ.
+
+**ETF hay quỹ mở an toàn hơn?** Cả hai đều được quản lý chuyên nghiệp và chịu giám sát của cơ quan chức năng, nên an toàn hơn nhiều so với tự mua vài cổ phiếu. Tuy vậy, rủi ro chính vẫn là biến động của thị trường chung, và cả hai loại đều chịu tác động như nhau.
+
+**Mua ETF cần bao nhiêu tiền?** Vì ETF giao dịch theo lô như cổ phiếu, có thể bắt đầu với vài trăm nghìn đến vài triệu đồng, tùy giá chứng chỉ quỹ lúc mua. Ví dụ minh hoạ: nếu giá một chứng chỉ là 20.000 đồng và lô nhỏ nhất là 100 chứng chỉ, khoản mua tối thiểu là 2 triệu đồng.
+
+**ETF có trả cổ tức không?** Tùy quỹ: một số quỹ trả cổ tức cho nhà đầu tư, một số quỹ giữ lại để tái đầu tư. Chính sách cụ thể nằm trong bản cáo bạch.
+
+**ETF có hợp với đầu tư dài hạn không?** Có. Phí thấp và đa dạng hóa khiến ETF trở thành công cụ phổ biến để tích lũy dài hạn theo chiến lược thụ động, và kết hợp tốt với đầu tư định kỳ.
 
 ## Thuật ngữ
 
