@@ -150,57 +150,167 @@
 2. **Các biện pháp đó có hiệu quả và công bằng không?** Không hiệu quả, vì chênh lệch giá lớn tạo ra buôn lậu mà luật hà khắc nhất cũng không chặn được. Không công bằng, vì chúng hy sinh người nuôi cừu và tự do đi lại của người thợ cho lợi ích của chủ xưởng. Nếu cần can thiệp, một thứ thuế xuất khẩu vừa phải tốt hơn lệnh cấm ở mọi phương diện.
 3. **Tiêu chuẩn đúng để đánh giá chính sách thương mại là gì, và ai đã thiết kế hệ thống sai?** Tiêu chuẩn là lợi ích người tiêu dùng, vì tiêu dùng là mục đích duy nhất của sản xuất. Người thiết kế hệ thống là giới công thương nghiệp, nhóm có lợi ích được chăm chút nhất.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Hệ thống trọng thương và cán cân thương mại (mercantile system, balance of trade).** Hệ thống trọng thương là cách nghĩ và cách làm chính sách phổ biến ở châu Âu thế kỷ 16–18: một nước giàu lên khi bán ra nước ngoài nhiều hơn mua vào, để phần chênh lệch chảy về dưới dạng vàng bạc. Phần chênh lệch đó gọi là cán cân thương mại; bán nhiều hơn mua là cán cân "thuận lợi". Ví dụ minh hoạ: một năm nước Anh xuất khẩu hàng trị giá 10 triệu bảng và nhập khẩu 8 triệu bảng thì cán cân thuận lợi 2 triệu bảng. Khái niệm này quan trọng vì mọi đạo luật trong chương, kể cả những đạo luật trông có vẻ ngược đời, đều được biện minh bằng mục tiêu cải thiện con số này.
+
+**Nguyên liệu và công cụ lao động (materials of manufacture, instruments of trade).** Nguyên liệu là thứ được biến đổi thành sản phẩm (lông cừu thành vải len, sợi lanh thành vải lanh). Công cụ lao động là thứ dùng để biến đổi nó mà không trở thành một phần của sản phẩm (máy dệt tất, bàn chải chải len). Cả hai là **đầu vào** của nhà sản xuất. Ví dụ: một xưởng len mua lông cừu (nguyên liệu) và bàn chải chải len (công cụ) để làm ra tấm vải. Khái niệm này quan trọng vì chương này nói về một nhóm hàng đặc biệt: với đầu vào, hệ thống trọng thương làm ngược hai nguyên tắc thường ngày của nó.
+
+**Trợ cấp và miễn thuế (bounty, exemption from duties).** Trợ cấp là khoản tiền nhà nước trả thêm cho người làm một việc mà nhà nước muốn khuyến khích, ở đây là nhập khẩu hoặc xuất khẩu một mặt hàng. Miễn thuế là không thu khoản thuế lẽ ra phải nộp. Ví dụ minh hoạ: nếu nhà nước trả 1 bảng cho mỗi tấn gỗ đóng tàu nhập từ thuộc địa, nhà buôn có thể bán gỗ đó rẻ hơn tối đa 1 bảng một tấn mà vẫn giữ được lãi như cũ. Khái niệm này quan trọng vì Smith chỉ ra rằng tiền trợ cấp lấy từ thuế, tức là do người tiêu dùng trả.
+
+**Lệnh cấm và thuế xuất khẩu.** Hai cách hạn chế một mặt hàng đi ra nước ngoài. Lệnh cấm chặn hẳn việc bán ra ngoài, nên giá trong nước có thể rơi rất sâu so với giá nước ngoài. Thuế xuất khẩu vẫn cho bán, nhưng mỗi đơn vị phải nộp một khoản cho nhà nước, nên giá trong nước chỉ thấp hơn giá nước ngoài khoảng bằng mức thuế cộng chi phí chở hàng. Ví dụ minh hoạ (con số tự đặt): lông cừu bán ở lục địa giá 40 shilling một *tod*, chi phí chở và bảo hiểm 2 shilling. Với thuế 8 shilling, người nuôi cừu bán cho nhà xuất khẩu được khoảng 30 shilling, nên chủ xưởng trong nước chỉ cần trả quanh mức đó, rẻ hơn người mua nước ngoài 10 shilling. Với lệnh cấm, giá trong nước có thể xuống 22 shilling, người nuôi cừu mất thêm 8 shilling mỗi *tod* và nhà nước không thu được đồng nào. Đây là trục của đề xuất chính sách duy nhất trong chương.
+
+**Buôn lậu như hệ quả của chênh lệch giá.** Khi cùng một món hàng có giá trong nước và giá nước ngoài chênh nhau nhiều, người ta có động cơ chở lén hàng qua biên giới để ăn phần chênh. Chênh lệch càng lớn, lợi nhuận buôn lậu càng cao và hình phạt càng khó răn đe. Ví dụ tiếp theo ví dụ trên: dưới lệnh cấm, mỗi *tod* chở lậu sang lục địa lãi khoảng 16 shilling (40 trừ 22 trừ 2); dưới mức thuế 8 shilling, trốn thuế chỉ lãi 8 shilling, nên ít người liều. Khái niệm này giải thích vì sao Smith nói lệnh cấm vừa bất công vừa vô hiệu.
+
+**Độc quyền (monopoly).** Tình trạng một người hay một nhóm là người bán (hoặc người mua) duy nhất, nên định được giá cao hơn (hoặc thấp hơn) mức có cạnh tranh. Trong chương này độc quyền có ba dạng: độc quyền thị trường trong nước nhờ hạn chế nhập khẩu; độc quyền mua lông cừu trong nước nhờ cấm xuất khẩu; và độc quyền về tri thức nghề nhờ cấm thợ ra nước ngoài. Ví dụ minh hoạ: nếu hàng len ngoại bị chặn và giá vải len trong nước lên từ 10 lên 12 shilling một yard, 2 shilling chênh lệch là phần người mua trả thêm cho độc quyền. Smith dùng khái niệm này để chỉ ra ai được lợi trong mọi đạo luật.
+
+**Tiêu dùng là mục đích duy nhất của sản xuất (consumer sovereignty).** Ý tưởng rằng người ta sản xuất là để có thứ mà tiêu dùng; vì vậy chính sách phải được đánh giá theo lượng hàng hoá dân chúng được dùng và giá họ phải trả, chứ không theo sản lượng hay lợi nhuận của nhà sản xuất. Lợi ích nhà sản xuất chỉ đáng quan tâm trong chừng mực nó giúp người tiêu dùng. Ví dụ minh hoạ: một chính sách làm lãi của các xưởng len tăng 1 triệu bảng nhưng làm người mua vải len trả thêm 1,5 triệu bảng là chính sách xấu theo tiêu chuẩn này, dù ngành len "phát triển". Đây là tiêu chuẩn Smith dùng để kết án toàn bộ hệ thống trọng thương ở cuối chương.
+
+**Bảng, shilling, penny.** Đơn vị tiền Anh thời Smith: 1 bảng = 20 shilling, 1 shilling = 12 penny. Ví dụ: mức phạt 200 bảng bằng 4.000 shilling, tức gấp khoảng 400 đến 800 lần mức thuế 5 đến 10 shilling trên một đơn vị lông cừu. Biết quy đổi này mới thấy các hình phạt trong chương nặng đến mức nào.
+
+## Nội dung chi tiết
 
 ### 1. Hai động cơ và ngoại lệ của chúng
-- Hệ thống trọng thương làm giàu đất nước bằng hai công cụ: khuyến khích xuất khẩu và hạn chế nhập khẩu. Với một số hàng cụ thể, nó làm ngược lại: hạn chế xuất khẩu và khuyến khích nhập khẩu. Mục đích cuối cùng vẫn là cán cân thương mại thuận lợi.
-- Logic: cấm xuất khẩu nguyên liệu và công cụ để thợ trong nước có lợi thế, làm hàng rẻ hơn ở thị trường nước ngoài. Hy sinh xuất khẩu một lượng nhỏ hàng giá rẻ (nguyên liệu) để xuất khẩu một lượng lớn hàng giá trị cao hơn (thành phẩm). Tương tự, khuyến khích nhập nguyên liệu để làm hàng rẻ và nhờ đó bớt nhập thành phẩm.
-- Ngoại lệ: Smith không thấy trong sách luật có khoản nào khuyến khích nhập công cụ lao động. Lý do: khi công nghiệp phát triển đến mức nhất định, chế tạo công cụ tự nó trở thành nhiều ngành quan trọng; khuyến khích nhập công cụ là hại chính những nhà sản xuất ấy. Vì vậy nhập công cụ thường bị cấm; thời Edward IV, nhập bàn chải chải len (*wool cards*) đã bị cấm.
-- Giả định ngầm cần thấy ở đây: hệ thống không có nguyên tắc nhất quán nào về hàng hoá (khi thì cấm xuất, khi thì cấm nhập), mà chỉ có một nguyên tắc nhất quán về **ai được lợi**. Đây là chuẩn bị cho kết luận cuối chương.
+
+Hệ thống trọng thương có hai động cơ lớn để làm giàu đất nước: khuyến khích xuất khẩu và hạn chế nhập khẩu. Thế nhưng với một số mặt hàng cụ thể, nó lại làm ngược lại: hạn chế xuất khẩu và khuyến khích nhập khẩu. Smith nhấn mạnh rằng sự đảo ngược này không thay đổi mục đích cuối cùng. Mục đích vẫn là làm giàu đất nước nhờ một cán cân thương mại thuận lợi.
+
+Logic của sự đảo ngược như sau. Các mặt hàng bị làm ngược là **nguyên liệu** và **công cụ lao động**, tức đầu vào của sản xuất.
+
+- **Cấm xuất khẩu nguyên liệu và công cụ** để thợ trong nước có đầu vào rẻ hơn thợ nước ngoài, nhờ đó làm hàng rẻ hơn và bán rẻ hơn trên thị trường nước ngoài. Nói cách khác, đất nước hy sinh việc xuất khẩu một ít hàng giá rẻ (nguyên liệu) để xuất khẩu được nhiều hàng có giá trị cao hơn (thành phẩm).
+- **Khuyến khích nhập nguyên liệu** để thợ trong nước làm hàng rẻ hơn, và nhờ vậy nước nhà bớt phải nhập hàng công nghiệp có giá trị cao.
+
+Có một ngoại lệ. Smith không thấy trong sách luật của nước Anh khoản nào khuyến khích nhập **công cụ lao động**. Lý do: khi công nghiệp đã phát triển đến một mức nào đó, việc chế tạo công cụ tự nó trở thành nhiều ngành công nghiệp quan trọng. Khuyến khích nhập công cụ sẽ làm hại chính những nhà sản xuất công cụ ấy. Vì vậy, nhập công cụ thường bị cấm. Từ thời vua Edward IV, nước Anh đã cấm nhập bàn chải chải len (*wool cards*).
+
+Điều cần thấy ở đây là một giả định ngầm. Hệ thống không có nguyên tắc nhất quán nào về **hàng hoá**: khi thì cấm xuất, khi thì cấm nhập, khi thì trợ cấp nhập. Nó chỉ có một nguyên tắc nhất quán về **ai được lợi**: lần nào cũng là nhà sản xuất công nghiệp trong nước. Smith chuẩn bị nhận xét này từ đầu chương để dùng làm kết luận ở cuối chương.
 
 ### 2. Khuyến khích nhập khẩu nguyên liệu
-- Hai công cụ: miễn hoặc giảm thuế nhập khẩu, và trợ cấp nhập khẩu.
-- Được miễn giảm thuế: lông cừu, bông xơ, lanh chưa chế biến, thuốc nhuộm, da sống, da hải cẩu và nhiều thứ khác.
-- Trợ cấp nhập khẩu gần như chỉ dành cho nguyên liệu từ thuộc địa Anh ở Mỹ. Bản dịch liệt kê bảy khoản: (1) gỗ và vật tư đóng tàu, đầu thế kỷ 18; (2) chàm từ thuộc địa; (3) sợi gai và lanh thô từ thuộc địa; (4) lông cừu từ châu Mỹ; (5) tơ sống từ thuộc địa; (6) ván cong làm thùng; (7) sợi gai từ Ireland.
-- Cùng loại nguyên liệu đó, nếu nhập từ nước khác, bị đánh thuế nặng. Lý lẽ chính thức: lợi ích thuộc địa là lợi ích của nước mẹ; tiền chi cho thuộc địa sẽ quay về qua cán cân thương mại nên "không mất một đồng xu nào". Smith thuật lại lý lẽ này với giọng mỉa mai; ở Chương VII ông đã chứng minh độc quyền thương mại thuộc địa làm méo phân bổ vốn của chính nước Anh.
+
+Nhập khẩu nguyên liệu được khuyến khích bằng hai công cụ: **miễn hoặc giảm thuế nhập khẩu**, và **trợ cấp nhập khẩu**.
+
+Nhóm được miễn giảm thuế gồm lông cừu, bông xơ, lanh chưa chế biến, thuốc nhuộm, da sống, da hải cẩu và nhiều thứ khác.
+
+Trợ cấp nhập khẩu thì hẹp hơn: gần như chỉ dành cho nguyên liệu đến từ các thuộc địa của Anh ở châu Mỹ. Bản dịch liệt kê bảy khoản trợ cấp:
+
+| Thứ tự | Mặt hàng được trợ cấp nhập khẩu | Nguồn |
+|---|---|---|
+| 1 | Gỗ và các vật tư đóng tàu (khoản trợ cấp đầu tiên, đầu thế kỷ 18) | Thuộc địa Mỹ |
+| 2 | Chàm (thuốc nhuộm xanh) | Thuộc địa Anh |
+| 3 | Sợi gai và lanh thô | Thuộc địa Anh |
+| 4 | Lông cừu | Châu Mỹ |
+| 5 | Tơ sống | Thuộc địa Anh |
+| 6 | Ván cong để đóng thùng chứa hàng | Thuộc địa |
+| 7 | Sợi gai | Ireland |
+
+Điểm then chốt: cùng những nguyên liệu đó, nếu nhập từ một nước khác, lại bị đánh thuế nặng. Như vậy đây không phải chính sách "nguyên liệu rẻ" thuần tuý mà là chính sách ưu đãi thuộc địa. Lý lẽ chính thức được đưa ra là: lợi ích của thuộc địa là lợi ích của nước mẹ; tiền chi cho thuộc địa sẽ quay về nước mẹ qua cán cân thương mại, nên nước Anh "không mất một đồng xu nào". Smith thuật lại lý lẽ này với giọng mỉa mai. Ở Chương VII ngay trước đó, ông đã chứng minh rằng độc quyền thương mại thuộc địa làm méo việc phân bổ vốn của chính nước Anh, nên lời khẳng định "không mất gì" là sai.
 
 ### 3. Hạn chế xuất khẩu nguyên liệu: lông cừu
-- Công cụ: cấm hẳn hoặc đánh thuế cao. Smith nhận xét các luật này đặt ra hình phạt nặng cho những hành vi mà nhiều người coi là vô tội, chỉ để bảo đảm lợi nhuận cho một số người.
-- Ví dụ: năm thứ tám đời nữ hoàng Elizabeth, người xuất khẩu cừu bị tịch thu toàn bộ tài sản, bị tù một năm, rồi bị chặt tay trái giữa một phiên chợ.
-- Lông cừu bị cấm xuất khẩu, với lý thuyết: lông cừu Anh tốt nhất thế giới; nước khác không pha thêm lông Anh thì không làm được hàng tốt; vậy cấm xuất khẩu sẽ cho Anh độc quyền hàng len thế giới, bán giá cao, thu về của cải nhờ cán cân thuận lợi.
-- Smith bác về thực tế: lông cừu Anh không những không cần thiết mà còn không thích hợp để dệt vải tinh; vải tinh làm hoàn toàn bằng lông cừu Tây Ban Nha (bản dịch làm nhẹ ý này).
-- Smith bác về nguyên tắc, kể cả khi lý thuyết đúng: nó chỉ biện minh cho một khoản thuế nặng, không cho lệnh cấm. Làm hại một tầng lớp dân chúng chỉ để nâng đỡ một tầng lớp khác là trái công lý và trái sự đối xử bình đẳng mà nhà vua nợ mọi tầng lớp thần dân. Lệnh cấm hại người nuôi cừu chỉ vì lợi ích riêng của nhà sản xuất len.
+
+Xuất khẩu nguyên liệu bị hạn chế bằng hai cách: cấm hẳn, hoặc đánh thuế cao. Smith nhận xét rằng các luật này đặt ra những hình phạt rất nặng cho những hành vi mà nhiều người coi là vô tội, chỉ để bảo đảm lợi nhuận cho một số người.
+
+Ví dụ hà khắc nhất: theo luật năm thứ 8 (năm thứ tám) đời nữ hoàng Elizabeth, người xuất khẩu cừu sống bị tịch thu toàn bộ tài sản, bị tù một năm, rồi bị chặt tay trái giữa một phiên chợ.
+
+**Lý thuyết đứng sau lệnh cấm xuất khẩu lông cừu** gồm một chuỗi bốn bước:
+
+1. Lông cừu Anh là tốt nhất thế giới.
+2. Nước khác nếu không pha thêm lông cừu Anh thì không làm được hàng len ra hồn.
+3. Vậy nếu cấm xuất khẩu lông cừu, nước Anh sẽ độc quyền gần như toàn bộ việc buôn bán hàng len trên thế giới.
+4. Không có đối thủ, Anh bán được giá cao và nhanh chóng thu về của cải nhờ cán cân thương mại thuận lợi.
+
+Smith bác lý thuyết này ở hai tầng.
+
+**Tầng thứ nhất, về thực tế.** Bước 1 và bước 2 sai. Lông cừu Anh không những không cần thiết mà còn **hoàn toàn không thích hợp** để dệt vải tinh; vải tinh được làm hoàn toàn bằng lông cừu Tây Ban Nha. Bản dịch tiếng Việt làm nhẹ ý này thành "không nhất thiết phải có lông cừu Anh", nhưng nguyên bản mạnh hơn nhiều: chính loại hàng len đắt giá nhất không dùng đến lông Anh.
+
+**Tầng thứ hai, về nguyên tắc.** Kể cả nếu lý thuyết đúng, nó chỉ biện minh được cho một khoản **thuế** xuất khẩu nặng, không biện minh được cho **lệnh cấm**. Lý do là công bằng: làm hại một tầng lớp dân chúng chỉ để nâng đỡ một tầng lớp khác là trái với công lý và trái với sự đối xử bình đẳng mà nhà vua phải dành cho mọi tầng lớp thần dân. Lệnh cấm đẩy giá lông cừu trong nước xuống, tức là lấy thu nhập của **người nuôi cừu** để chuyển sang **nhà sản xuất len**. Người nuôi cừu cũng là người sản xuất, nhưng lợi ích của họ bị hy sinh.
 
 ### 4. Phương án thay thế: thuế xuất khẩu
-- Mọi tầng lớp đều phải đóng góp cho nhà vua. Một khoản thuế 5 đến 10 shilling trên mỗi đơn vị lông cừu xuất khẩu (nguyên bản là mỗi *tod*, khoảng 28 pound) là nguồn thu đáng kể. (Đơn vị tiền: 1 bảng = 20 shilling, 1 shilling = 12 penny.)
-- So với lệnh cấm, thuế: (a) hại người nuôi cừu ít hơn, vì không ép giá lông cừu xuống quá thấp; (b) vẫn có lợi cho nhà sản xuất trong nước, vì họ mua rẻ hơn người nước ngoài ít nhất 5 đến 10 shilling, lại tiết kiệm được cước vận chuyển và bảo hiểm mà nhà buôn nước ngoài phải trả; (c) đem lại thu cho nhà vua, nên tránh được những thứ thuế khác nặng nề hơn.
-- Kết luận: hiếm khi nghĩ ra được một thứ thuế đem lại thu lớn mà hầu như không làm thiệt ai.
-- Lệnh cấm còn vô hiệu: lông cừu vẫn được xuất khẩu với khối lượng lớn. Chênh lệch giá trong và ngoài nước là cám dỗ quá mạnh, mọi sự hà khắc của luật pháp cũng không chặn được buôn lậu. Xuất khẩu trái phép chỉ có lợi cho kẻ buôn lậu; xuất khẩu hợp pháp chịu thuế có lợi cho mọi thần dân.
+
+Smith bắt đầu từ một nguyên tắc tài chính công: mọi tầng lớp dân cư đều phải đóng góp cho nhà vua, tức cho ngân sách chung. Vậy thay vì cấm, hãy đánh một khoản thuế 5 đến 10 shilling trên mỗi đơn vị lông cừu xuất khẩu. Bản dịch ghi đơn vị là "một tấn", nhưng nguyên bản là mỗi *tod*, một đơn vị cân lông cừu cũ khoảng 28 pound (chừng 12,7 kg). Với đơn vị *tod*, đây là một mức thuế rất nặng, và là nguồn thu đáng kể cho nhà vua. (Để quy đổi: 1 bảng = 20 shilling, 1 shilling = 12 penny.)
+
+So với lệnh cấm, thuế xuất khẩu tốt hơn cho cả ba bên:
+
+| Bên liên quan | Dưới lệnh cấm | Dưới thuế xuất khẩu 5–10 shilling |
+|---|---|---|
+| Người nuôi cừu | Giá lông cừu bị ép xuống rất thấp vì không được bán ra ngoài | Thiệt ít hơn, vì giá lông chỉ thấp hơn giá nước ngoài khoảng bằng mức thuế |
+| Nhà sản xuất len trong nước | Mua lông rất rẻ | Vẫn mua rẻ hơn người nước ngoài ít nhất 5 đến 10 shilling, cộng thêm khoản cước vận chuyển và bảo hiểm mà nhà buôn nước ngoài phải trả |
+| Nhà vua (ngân sách) | Không thu được gì | Có một khoản thu lớn, nhờ đó tránh được những thứ thuế khác có lẽ nặng nề hơn |
+
+Kết luận của Smith: hiếm khi người ta nghĩ ra được một thứ thuế vừa đem lại khoản thu lớn cho nhà vua vừa hầu như không làm thiệt ai.
+
+Lập luận cuối cùng là lệnh cấm **vô hiệu**. Dù luật hà khắc đến đâu, ai cũng biết lông cừu vẫn được xuất khẩu với khối lượng lớn. Chênh lệch giữa giá trong nước và giá nước ngoài là một cám dỗ quá mạnh, mọi sự hà khắc của pháp luật cũng không chặn được buôn lậu. Kết quả so sánh:
+
+- **Xuất khẩu trái phép** (dưới lệnh cấm) chỉ có lợi cho kẻ buôn lậu; họ bỏ túi toàn bộ phần chênh lệch giá.
+- **Xuất khẩu hợp pháp chịu thuế** đem lại thu cho nhà vua, giúp tránh các thứ thuế khác, nên có lợi cho mọi thần dân.
+
+(Bản dịch viết câu này thành "xuất khẩu hợp pháp không đóng thuế", tự mâu thuẫn; ý của Smith là xuất khẩu hợp pháp **có chịu thuế**.)
+
+**Ví dụ hôm nay** (minh hoạ chung, không phải số liệu thực tế). Một nước muốn giữ một loại khoáng sản thô để phát triển ngành chế biến. Nếu cấm xuất khẩu, giá trong nước có thể chỉ bằng một nửa giá thế giới; người khai thác thiệt nặng, và hàng sẽ đi lậu qua biên giới. Nếu đánh thuế xuất khẩu, chẳng hạn 20% giá trị, nhà chế biến trong nước vẫn mua rẻ hơn người mua nước ngoài khoảng 20% cộng cước chở, ngân sách có thu, và động cơ buôn lậu nhỏ hơn nhiều vì phần chênh lệch nhỏ.
 
 ### 5. Kim loại, than và công cụ lao động
-- Chì và thiếc: Anh có nhiều nên được xuất khẩu. Các kim loại khác bị cấm; về sau sắt và đồng được phép xuất để khuyến khích khai mỏ. Đồng thau chưa gia công, gồm kim loại đúc súng, đúc chuông và đồng thau vụn (*shroff-metal*; bản dịch ghi nhầm là "đúc tiền"), vẫn bị cấm xuất.
-- Nguyên liệu không bị cấm hẳn thì thường bị đánh thuế nặng. Than được coi vừa là nguyên liệu vừa là công cụ, nên bị đánh thuế xuất khẩu hơn 5 shilling một tấn (năm 1783), nhiều trường hợp vượt cả giá trị gốc của than tại mỏ.
-- Công cụ lao động đúng nghĩa thì bị cấm hẳn. Máy dệt găng tay và tất dài: tịch thu và phạt 40 bảng, một nửa cho nhà vua, một nửa cho người tố giác. Công cụ ngành len, lanh, lụa: tịch thu và phạt 200 bảng.
+
+Smith tiếp tục liệt kê, từ nguyên liệu sang những thứ nằm giữa nguyên liệu và công cụ, rồi tới công cụ đúng nghĩa. Mức độ hà khắc tăng dần theo thứ tự đó.
+
+**Kim loại.** Chì và thiếc được xuất khẩu vì nước Anh có nhiều. Các kim loại khác bị cấm xuất. Về sau, sắt và đồng được phép xuất khẩu để khuyến khích ngành khai mỏ. Riêng đồng thau chưa gia công, gồm hợp kim đúc súng, hợp kim đúc chuông và đồng thau vụn (*shroff-metal*), vẫn bị cấm xuất. Bản dịch ghi nhầm loại thứ ba là hợp kim "đúc tiền"; thật ra đó là đồng thau phế liệu.
+
+**Than.** Nguyên liệu nào không bị cấm hẳn thì thường bị đánh thuế nặng. Than được coi vừa là nguyên liệu vừa là công cụ (nó là nhiên liệu cho lò của mọi xưởng), nên bị đánh thuế xuất khẩu hơn 5 shilling một tấn vào năm 1783, lúc Smith viết. Trong nhiều trường hợp, khoản thuế này vượt cả giá trị gốc của than tại mỏ, tức là người mua nước ngoài phải trả hơn gấp đôi giá gốc.
+
+**Công cụ lao động đúng nghĩa** thì không bị đánh thuế mà bị cấm hẳn:
+
+| Công cụ | Hình phạt khi xuất khẩu |
+|---|---|
+| Máy dệt găng tay và tất dài | Tịch thu máy, và phạt 40 bảng: một nửa cho nhà vua, một nửa cho người tố giác hoặc người khởi kiện |
+| Công cụ của ngành len, lanh, lụa | Tịch thu công cụ, và phạt 200 bảng |
+
+Việc chia nửa tiền phạt cho người tố giác cho thấy nhà nước khuyến khích dân chúng theo dõi và tố cáo nhau để giữ công cụ ở lại trong nước.
 
 ### 6. Cấm xuất khẩu "công cụ sống": người thợ
-- Khi công cụ "chết" đã bị phạt nặng như vậy, thì "công cụ sống" là người thợ càng không được tự do đi lại.
-- Luật thời George I: người dụ dỗ thợ Anh ra nước ngoài hành nghề hoặc dạy nghề bị phạt tối đa 100 bảng và 3 tháng tù cho lần đầu; lần thứ hai bị phạt tuỳ toà và 12 tháng tù. Thời George II: tăng lên 500 bảng và 12 tháng tù lần đầu, 1.000 bảng và 2 năm tù lần thứ hai.
-- Người thợ bị nghi là đã hứa đi nước ngoài có thể bị buộc cam kết không xuất dương và bị giam cho đến khi cam kết.
-- Người thợ đã ở nước ngoài hành nghề, sau khi được đại sứ, lãnh sự hoặc quốc vụ khanh cảnh báo mà không về trong 6 tháng, thì mất quyền thừa kế ở Anh, bị tịch thu đất đai, hàng hoá, động sản, bị tuyên bố mất quốc tịch và đặt ngoài sự bảo hộ của nhà vua.
-- Smith: các luật này đi ngược quyền tự do của thần dân, thứ tự do mà người Anh vẫn tự hào bảo vệ, và ở đây đã bị hy sinh cho "quyền lợi phù phiếm" của giới công thương nghiệp.
-- Động cơ thật: mở rộng xí nghiệp Anh bằng cách chèn ép xí nghiệp nước ngoài và chấm dứt cạnh tranh. Các chủ xưởng muốn nắm độc quyền về sáng chế của đồng bào mình, hạn chế số người học nghề và số người nắm kiến thức chuyên môn, không để ai ra nước ngoài truyền nghề.
+
+Smith viết: khi những "công cụ chết" đã bị phạt nặng như vậy, thì "công cụ sống" là người thợ thủ công lại càng không được tự do đi lại. Cách gọi người thợ là "công cụ sống" là lời mỉa mai: luật pháp đối xử với con người giống như với cái máy dệt.
+
+Các mức phạt cho người dụ dỗ thợ Anh ra nước ngoài hành nghề hoặc dạy nghề:
+
+| Triều đại | Vi phạm lần đầu | Vi phạm lần thứ hai |
+|---|---|---|
+| George I | Phạt tối đa 100 bảng và 3 tháng tù | Phạt mức tuỳ toà quyết định và 12 tháng tù |
+| George II | Phạt 500 bảng và 12 tháng tù | Phạt 1.000 bảng và 2 năm tù |
+
+Luật còn nhắm thẳng vào bản thân người thợ:
+
+- Người thợ bị nghi là đã bị dụ dỗ, hoặc đã hứa đi nước ngoài, có thể bị toà buộc cam kết không xuất dương, và bị giam cho đến khi chịu cam kết.
+- Người thợ đã ra nước ngoài hành nghề hoặc dạy nghề, nếu được đại sứ, lãnh sự hoặc quốc vụ khanh của nhà vua cảnh báo mà không về nước trong vòng 6 tháng, thì mất quyền thừa kế tài sản ở Anh, bị tịch thu toàn bộ đất đai, hàng hoá và động sản, bị tuyên bố mất quốc tịch và đặt ngoài sự bảo hộ của nhà vua.
+
+Smith nói ông không cần bình luận nhiều: các luật này đi ngược "quyền tự do từng được ngợi ca của thần dân", thứ tự do mà người Anh vẫn tự hào bảo vệ, và ở đây nó đã bị hy sinh cho "quyền lợi phù phiếm" của giới công thương nghiệp.
+
+**Động cơ thật** của toàn bộ nhóm luật này, theo Smith, là mở rộng các xí nghiệp của Anh bằng cách chèn ép xí nghiệp nước ngoài và chấm dứt càng nhanh càng tốt sự cạnh tranh của họ. Các chủ xưởng muốn nắm độc quyền về sáng chế của đồng bào mình; muốn hạn chế số người học nghề và số người nắm kiến thức chuyên môn; và không muốn ai trong số đó ra nước ngoài truyền nghề cho người nước ngoài. Đây là độc quyền về **tri thức**, khác với độc quyền về hàng hoá ở các mục trên, nhưng cùng một mục đích.
 
 ### 7. Tiên đề: tiêu dùng là mục đích duy nhất của sản xuất
-- Tiêu dùng là mục đích duy nhất của sản xuất; lợi ích người sản xuất chỉ đáng được quan tâm trong chừng mực cần thiết để thúc đẩy lợi ích người tiêu dùng. Smith coi nguyên tắc này hiển nhiên đến mức không cần chứng minh.
-- Hệ thống trọng thương làm ngược: lợi ích người tiêu dùng thường bị hy sinh cho lợi ích người sản xuất; sản xuất, chứ không phải tiêu dùng, được coi là mục tiêu cuối cùng của công nghiệp và thương mại.
-- Bằng chứng thứ nhất, hạn chế nhập khẩu: người tiêu dùng phải trả phần tăng giá do độc quyền gây ra, hoàn toàn vì lợi ích người sản xuất.
-- Bằng chứng thứ hai, trợ cấp xuất khẩu: người tiêu dùng trả hai lần. Trước hết nộp thuế để chi trả trợ cấp; sau đó trả giá cao hơn trong nước cho chính hàng đó, vì một phần sản lượng đã bị đẩy ra nước ngoài.
-- Bằng chứng thứ ba, hiệp ước thương mại với Bồ Đào Nha: người Anh không được mua hàng (rượu vang) của nước láng giềng (Pháp), mà phải mua của nước xa, dù ai cũng thừa nhận hàng nước xa kém hơn. Người tiêu dùng chịu thiệt để nhà sản xuất được xuất khẩu với điều kiện ưu đãi, và trong nước còn phải trả giá cao hơn cho những hàng đã bị xuất đi một phần.
-- Bằng chứng thứ tư và nặng nhất: hệ thống luật quản lý thuộc địa ở Mỹ và Tây Ấn, nơi lợi ích người tiêu dùng trong nước bị hy sinh nhiều hơn bất cứ luật thương mại nào khác.
+
+Sau khi liệt kê xong các đạo luật, Smith nêu tiêu chuẩn để đánh giá tất cả: **tiêu dùng là mục đích duy nhất của sản xuất**; lợi ích của người sản xuất chỉ đáng được quan tâm trong chừng mực cần thiết để thúc đẩy lợi ích của người tiêu dùng. Ông coi nguyên tắc này hiển nhiên đến mức không cần chứng minh.
+
+Hệ thống trọng thương làm ngược hẳn: lợi ích người tiêu dùng thường bị hy sinh cho lợi ích người sản xuất, và hệ thống hành xử như thể sản xuất, chứ không phải tiêu dùng, mới là mục tiêu cuối cùng của công nghiệp và thương mại.
+
+Smith đưa ra bốn bằng chứng, tóm tắt toàn bộ Quyển IV:
+
+| Bằng chứng | Chính sách | Người tiêu dùng bị thiệt thế nào |
+|---|---|---|
+| Thứ nhất | Hạn chế nhập khẩu hàng ngoại có thể cạnh tranh với hàng nội | Phải trả phần tăng giá do độc quyền gây ra, hoàn toàn vì lợi ích người sản xuất |
+| Thứ hai | Trợ cấp xuất khẩu | Trả **hai lần**: trước hết nộp thuế để nhà nước chi trợ cấp; sau đó trả giá cao hơn trong nước cho chính mặt hàng đó, vì một phần sản lượng đã bị đẩy ra nước ngoài nên hàng trong nước khan hơn |
+| Thứ ba | Hiệp ước thương mại với Bồ Đào Nha (hiệp ước Methuen) | Không được mua hàng (rượu vang) của nước láng giềng là Pháp, mà phải mua của nước xa hơn, dù ai cũng thừa nhận hàng nước xa kém chất lượng hơn. Thiệt hại này là để nhà sản xuất Anh được xuất hàng sang Bồ Đào Nha với điều kiện ưu đãi; và trong nước, người tiêu dùng còn trả giá cao hơn cho những hàng đã bị xuất đi một phần |
+| Thứ tư, nặng nhất | Hệ thống luật quản lý thuộc địa ở châu Mỹ và Tây Ấn (bản dịch ghi nhầm là "Tây Âu") | Lợi ích người tiêu dùng trong nước bị hy sinh nhiều hơn dưới bất cứ luật thương mại nào khác |
+
+Ở bằng chứng thứ tư, nguyên bản của Smith còn có một phép tính mà bản dịch rút gọn đã bỏ: để duy trì độc quyền thương mại thuộc địa, nước Anh đã chi hơn 200 triệu bảng cho hai cuộc chiến gần nhất (chiến tranh Bảy năm và chiến tranh với các thuộc địa Mỹ), và toàn bộ khoản đó do người tiêu dùng trong nước gánh.
+
+**Ví dụ minh hoạ cho bằng chứng thứ hai** (con số tự đặt). Nhà nước trợ cấp 5 shilling cho mỗi quarter lúa mì xuất khẩu. Nếu xuất 1 triệu quarter, ngân sách chi 5 triệu shilling (250.000 bảng), lấy từ thuế dân nộp. Đồng thời, vì 1 triệu quarter đó rời khỏi thị trường trong nước, giá lúa mì trong nước tăng, chẳng hạn thêm 2 shilling mỗi quarter, và người mua bánh mì trả thêm khoản đó. Người tiêu dùng trả cả hai khoản.
 
 ### 8. Ai là kiến trúc sư của hệ thống
-- Không khó xác định: không phải người tiêu dùng, vì lợi ích của họ hoàn toàn bị coi nhẹ, mà là người sản xuất, vì lợi ích của họ được chăm chút chu đáo.
-- Trong tầng lớp người sản xuất, giới công thương nghiệp rõ ràng là kiến trúc sư chính. Trong các luật thương mại của chương này, lợi ích nhà công nghiệp được chú ý đặc biệt nhất, và bị hy sinh không chỉ là người tiêu dùng mà cả một số tầng lớp sản xuất khác (chẳng hạn người nuôi cừu và người thợ thủ công bị cấm ra nước ngoài, theo các ví dụ trong chương).
+
+Câu hỏi cuối chương là: ai đã nghĩ ra toàn bộ hệ thống này? Smith nói không khó trả lời. Không phải người tiêu dùng, vì lợi ích của họ hoàn toàn bị coi nhẹ. Đó là người sản xuất, vì lợi ích của họ được chăm chút chu đáo.
+
+Trong tầng lớp người sản xuất, **giới công thương nghiệp** rõ ràng là kiến trúc sư chính. Trong các luật thương mại được nói đến ở chương này, lợi ích của nhà công nghiệp được chú ý đặc biệt nhất. Bị hy sinh cho họ không chỉ có người tiêu dùng mà cả một số tầng lớp sản xuất khác. Các ví dụ trong chính chương này cho thấy hai nhóm như vậy:
+
+- **Người nuôi cừu**, bị cấm bán lông cừu ra nước ngoài để chủ xưởng len mua rẻ.
+- **Người thợ thủ công**, bị cấm ra nước ngoài hành nghề để chủ xưởng giữ độc quyền tri thức.
+
+Đến đây, nhận xét ở mục 1 được hoàn tất: các đạo luật trông có vẻ mâu thuẫn nhau về hàng hoá (khi khuyến khích xuất, khi cấm xuất; khi hạn chế nhập, khi trợ cấp nhập) thật ra nhất quán hoàn toàn về người hưởng lợi. Từ tiên đề "tiêu dùng là mục đích duy nhất", Chương IX tiếp theo sẽ quay sang phê phán phe đối lập là phái trọng nông, rồi kết thúc bằng "hệ thống tự do tự nhiên".
 
 ## Luận điểm kinh tế cốt lõi
 
