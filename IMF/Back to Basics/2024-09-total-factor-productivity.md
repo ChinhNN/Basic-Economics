@@ -91,41 +91,102 @@
 2. Vì sao TFP là thống kê vĩ mô quan trọng?
 3. Điều gì làm TFP cao hơn, và nước đang phát triển lẫn nước tiên tiến nên làm gì?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Yếu tố sản xuất (factors of production).** Những đầu vào mà nền kinh tế dùng để tạo ra hàng hoá, dịch vụ và thu nhập. Bài chia thành hai nhóm: **lao động** (số người làm việc và số giờ họ làm) và **vốn** (đất đai, máy móc, hạ tầng). Ví dụ minh hoạ: một xưởng may có 50 công nhân (lao động) và 50 máy may cùng nhà xưởng (vốn). Muốn hiểu TFP, trước hết phải biết đầu vào là gì.
+
+**Năng suất các nhân tố tổng hợp (total factor productivity, TFP).** Thước đo khả năng của cả nền kinh tế "làm nhiều hơn với ít hơn": lượng thu nhập tạo ra trên mỗi đơn vị đầu vào lao động và vốn gộp lại. Ví dụ minh hoạ: năm nay xưởng may vẫn 50 người, 50 máy nhưng nhờ sắp xếp dây chuyền tốt hơn mà làm được 1.100 áo thay vì 1.000 áo; khoảng tăng 10% đó không đến từ thêm người hay thêm máy, nên được tính là tăng TFP. Đây là khái niệm trung tâm của bài.
+
+**Phần dư (residual) và "thước đo sự thiếu hiểu biết".** TFP không đo trực tiếp được. Người ta đo tổng thu nhập, trừ đi phần giải thích được bằng tăng lao động và vốn, phần còn lại là TFP. Ví dụ minh hoạ: thu nhập tăng 5%, trong đó tăng lao động và vốn giải thích được 3 điểm phần trăm, thì 2 điểm còn lại được gán cho TFP. Vì TFP là phần ta chưa giải thích được, các nhà kinh tế gọi nó là "thước đo sự thiếu hiểu biết".
+
+**Lợi suất giảm dần (diminishing returns).** Khi cứ thêm mãi một đầu vào mà giữ nguyên các đầu vào khác, mỗi đơn vị thêm vào đem lại ít kết quả hơn đơn vị trước. Ví dụ minh hoạ: chiếc máy cày đầu tiên giúp một trang trại tăng sản lượng gấp đôi, chiếc thứ hai tăng thêm một ít, chiếc thứ mười gần như không tăng thêm gì vì không đủ người lái và ruộng để cày. Khái niệm này giải thích vì sao chỉ đầu tư thêm vốn không thể nâng mức sống mãi được.
+
+**Mức sống và thu nhập đầu người.** Mức sống được đo bằng thu nhập bình quân mỗi người, tức tổng thu nhập chia cho dân số. Ví dụ minh hoạ: nếu tổng thu nhập tăng 10% nhưng dân số cũng tăng 10%, thu nhập đầu người không đổi. Vì thế thêm người vào lực lượng lao động không phải là cách nâng mức sống bền vững.
+
+**Hiệu quả phân bổ (allocative efficiency).** Một nền kinh tế hiệu quả về phân bổ khi lao động và vốn chảy về những doanh nghiệp làm ăn năng suất nhất. Ví dụ minh hoạ: hai doanh nghiệp cùng ngành, một doanh nghiệp làm ra 100 sản phẩm với 10 người, doanh nghiệp kia chỉ làm ra 50; chuyển bớt lao động từ doanh nghiệp kém sang doanh nghiệp giỏi sẽ tăng tổng sản lượng mà không cần thêm người. Đây là một trong ba biến giải thích TFP.
+
+**Lợi thế so sánh và kinh tế quy mô (comparative advantage, economies of scale).** Lợi thế so sánh nghĩa là mỗi nước nên chuyên làm thứ mà mình làm tương đối giỏi hơn so với các thứ khác, rồi trao đổi. Kinh tế quy mô là khi sản xuất càng nhiều thì chi phí cho mỗi đơn vị càng thấp. Ví dụ minh hoạ: một nhà máy làm 1 triệu chiếc điện thoại có chi phí mỗi chiếc thấp hơn nhiều so với nhà máy chỉ làm 10.000 chiếc, nhưng chỉ bán được 1 triệu chiếc nếu tiếp cận được thị trường thế giới. Hai khái niệm này giải thích vì sao thương mại nâng TFP.
+
+**Đổi mới sáng tạo (innovation).** Việc tạo ra công nghệ, quy trình sản xuất hay sản phẩm mới. Với các nước đã ở gần "biên giới" năng suất, đây là nguồn tăng TFP bền vững nhất còn lại. Ví dụ minh hoạ: phần mềm kế toán tự động giúp một nhân viên làm việc mà trước đây cần ba người.
+
+## Nội dung chi tiết
 
 ### 1. Năng suất từ cá nhân đến nền kinh tế
 
-- Ai cũng nghĩ về năng suất: nhận thêm dự án mà không mất cuối tuần? Làm từ nhà để tiết kiệm thời gian đi lại? Sách self-help về năng suất luôn bán chạy.
-- Nhà kinh tế vĩ mô nghĩ giống vậy nhưng cho cả nền kinh tế: năng suất các nhân tố tổng hợp (TFP).
-- **Định nghĩa:** thước đo khả năng của nền kinh tế tạo thu nhập từ đầu vào, tức "làm nhiều hơn với ít hơn". Đầu vào là các yếu tố sản xuất: lao động và vốn (đất, máy móc, hạ tầng). Tăng tổng thu nhập mà không dùng thêm đầu vào, hoặc giữ thu nhập với ít đầu vào hơn, nghĩa là TFP cao hơn.
-- Theo Penn World Tables, các nước TFP cao nhất như Hà Lan, Na Uy, Thuỵ Sĩ, Mỹ cũng thuộc nhóm giàu nhất.
-- **Xu hướng đáng lo:** nghiên cứu IMF cho thấy tăng trưởng TFP chậm lại khắp thế giới từ khủng hoảng tài chính toàn cầu. Ở nước thu nhập thấp, gần như đứng yên.
+Ai cũng từng nghĩ về năng suất của chính mình: làm sao nhận thêm một dự án mà không mất ngày cuối tuần? Làm việc ở nhà có giúp tiết kiệm thời gian đi lại không? Sách tự lực (*self-help*) về năng suất lúc nào cũng bán chạy.
+
+Các nhà kinh tế vĩ mô cũng nghĩ về câu hỏi đó, nhưng cho cả một nền kinh tế. Khái niệm họ dùng là **năng suất các nhân tố tổng hợp** (TFP).
+
+TFP đo khả năng của nền kinh tế tạo ra thu nhập từ các đầu vào, tức là "làm nhiều hơn với ít hơn". Đầu vào là các yếu tố sản xuất, gồm:
+
+- **lao động**: số người làm việc;
+- **vốn**: đất đai, máy móc, hạ tầng.
+
+Nếu nền kinh tế tăng được tổng thu nhập mà không dùng thêm đầu vào, hoặc giữ được mức thu nhập cũ với ít đầu vào hơn, thì TFP của nó đã tăng.
+
+Theo bộ dữ liệu Penn World Tables (bộ số liệu so sánh thu nhập và năng suất giữa các nước), những nước có TFP cao nhất, như Hà Lan, Na Uy, Thuỵ Sĩ và Mỹ, cũng thuộc nhóm nước giàu nhất thế giới.
+
+**Một xu hướng đáng lo.** Nghiên cứu của IMF cho thấy tăng trưởng TFP đã chậm lại trên khắp thế giới kể từ khủng hoảng tài chính toàn cầu. Ở các nước thu nhập thấp, TFP gần như đứng yên.
 
 ### 2. Mức sống
 
-- **Lý do thứ nhất:** cải thiện mức sống dài hạn phải đến từ tăng TFP. Mức sống đo bằng thu nhập đầu người, nên không thể tăng bằng cách thêm người vào lực lượng lao động. Đầu tư vốn có lợi suất giảm dần. Còn lại TFP là nguồn duy nhất của tăng trưởng thu nhập đầu người bền vững, như Robert Solow chỉ ra trong bài báo năm 1957.
-- TFP cũng là câu trả lời cho ai nói tăng trưởng sẽ cạn kiệt tài nguyên hữu hạn: TFP tăng cho phép giữ hoặc nâng mức sống mà tiết kiệm tài nguyên, kể cả khí hậu và sinh quyển.
-- **Lý do thứ hai:** chênh lệch mức sống lớn giữa các nước dai dẳng. Điều chỉnh theo giá, thu nhập bình quân ở Nam Sudan ước dưới 1% của Mỹ năm 2023. Khác biệt giờ làm hay vốn chỉ giải thích một phần. Phần lớn, hơn 66% theo một ước tính gần đây, do chênh lệch TFP.
-- Với nước mới nổi và đang phát triển: câu hỏi trung tâm là thu hẹp khoảng cách TFP với nước giàu, để có việc làm tốt hơn và mức sống cao hơn, cấp thiết nhất ở châu Phi nơi dân số sẽ tăng mạnh.
-- Với nước tiên tiến: khơi TFP là mở biên giới năng suất mới, cần để tăng trưởng bền vững trước lo ngại môi trường và già hoá. Tỷ lệ người trong tuổi lao động thu hẹp, nhập cư chỉ bù một phần, nên TFP giữ vai trò sống còn.
+Bài đưa ra hai lý do khiến TFP là con số kinh tế vĩ mô quan trọng bậc nhất.
+
+**Lý do thứ nhất: mức sống dài hạn chỉ có thể tăng nhờ TFP.** Mức sống được đo bằng thu nhập trên đầu người. Lập luận đi theo phép loại trừ:
+
+| Cách tăng thu nhập | Có nâng được mức sống lâu dài không? | Vì sao |
+|---|---|---|
+| Thêm người vào lực lượng lao động | Không | Thu nhập tăng nhưng số người chia cũng tăng |
+| Đầu tư thêm vốn | Không mãi được | Vốn có lợi suất giảm dần: mỗi đồng vốn thêm vào đem lại ít hơn đồng trước |
+| Tăng TFP | Có | Làm ra nhiều hơn từ cùng lượng người và vốn |
+
+Như vậy TFP là nguồn duy nhất của tăng trưởng thu nhập đầu người bền vững. Robert Solow, nhà kinh tế đoạt giải Nobel, là người đầu tiên chỉ ra điều này trong bài báo năm 1957.
+
+TFP cũng là câu trả lời cho những ai cho rằng tăng trưởng sẽ làm cạn kiệt tài nguyên hữu hạn của Trái đất. Khi TFP tăng, ta có thể giữ hoặc nâng mức sống mà vẫn tiết kiệm tài nguyên, kể cả bầu khí quyển và sinh quyển.
+
+**Lý do thứ hai: TFP giải thích phần lớn chênh lệch giàu nghèo giữa các nước.** Chênh lệch mức sống giữa các nước rất lớn và dai dẳng. Sau khi điều chỉnh theo mặt bằng giá, thu nhập bình quân ở Nam Sudan năm 2023 ước tính chưa bằng 1% thu nhập bình quân ở Mỹ. Khác biệt về số giờ làm việc hay lượng vốn chỉ giải thích được một phần khoảng cách đó. Phần lớn, hơn 66% theo một ước tính gần đây, là do chênh lệch TFP.
+
+Điều này có ý nghĩa khác nhau với hai nhóm nước:
+
+- **Nước mới nổi và đang phát triển**: câu hỏi trung tâm là làm sao thu hẹp khoảng cách TFP với nước giàu, để tạo ra việc làm tốt hơn và mức sống cao hơn. Việc này cấp thiết nhất ở châu Phi, nơi dân số sẽ tăng mạnh trong những thập kỷ tới.
+- **Nước tiên tiến**: khơi thêm TFP nghĩa là mở rộng biên giới năng suất, điều cần thiết để tăng trưởng bền vững trong bối cảnh lo ngại về môi trường và dân số già đi. Tỷ lệ người trong độ tuổi lao động đang thu hẹp, nhập cư chỉ bù được một phần, nên TFP giữ vai trò sống còn.
 
 ### 3. Thước đo sự thiếu hiểu biết
 
-- Làm sao tăng trưởng nhiều hơn với ít đầu vào hơn? Không có câu trả lời đơn giản cho câu hỏi nghìn tỷ đô này.
-- Về thống kê, TFP đo như phần dư: phần thu nhập không quy được cho đầu vào như lao động và vốn (dễ đo hơn). Vì thế nó là "thước đo sự thiếu hiểu biết" về điều gì làm nước này giàu nước kia nghèo.
-- Các nhà kinh tế đã bóc dần phần dư này bằng ít nhất ba biến liên quan chặt với TFP cao:
-  - **Năng suất lao động:** TFP cao hơn ở nước người lao động trung bình học nhiều năm hơn, chất lượng giáo dục và đào tạo tốt hơn, lực lượng lao động khoẻ hơn. Mỗi giờ làm tạo nhiều giá trị gia tăng hơn, đồng thời nâng chất lượng sống.
-  - **Phân bổ nguồn lực:** ngay trong một hoạt động kinh tế hẹp, có doanh nghiệp năng suất hơn hẳn. Nếu doanh nghiệp năng suất nhất hút được phần lớn lao động và vốn, nền kinh tế "hiệu quả về phân bổ". Nếu nhiều lao động, vốn kẹt ở doanh nghiệp kém, nền kinh tế "kém hiệu quả về phân bổ", kéo TFP xuống.
-  - **Thương mại quốc tế:** thương mại khuyến khích chuyên môn hoá theo lợi thế so sánh, dùng nguồn lực hiệu quả hơn. Tiếp cận thị trường toàn cầu cho phép khai thác kinh tế quy mô, cạnh tranh quốc tế thúc đẩy doanh nghiệp năng suất thắng doanh nghiệp kém.
-- Ba biến gợi ý bản thiết kế một phần cho nước đang phát triển, nơi lao động thiếu giáo dục và y tế, phân bổ sai phổ biến hơn, rào cản thương mại cao hơn: huy động tài chính cho dịch vụ công, bỏ thuế và trợ cấp méo mó thị trường, hạ rào cản cạnh tranh công bằng, mở cửa thương mại.
-- Nghiên cứu cho thấy điều này có thể thu hẹp một phần khoảng cách TFP. Nhưng phần lớn khoảng cách vẫn chưa giải thích được.
+Làm thế nào để tăng trưởng nhiều hơn với ít đầu vào hơn? Tác giả gọi đây là "câu hỏi nghìn tỷ đô", và nó không có câu trả lời đơn giản.
+
+Về mặt thống kê, TFP được đo như một **phần dư**: phần thu nhập không quy được cho các đầu vào dễ đo như lao động và vốn. Vì thế TFP còn được gọi là "**thước đo sự thiếu hiểu biết**" của chúng ta về việc vì sao nước này giàu còn nước kia nghèo.
+
+Các nhà kinh tế đã từng bước bóc tách phần dư này, và tìm ra ít nhất ba biến có liên hệ chặt với TFP cao.
+
+**Biến thứ nhất: năng suất lao động.** TFP cao hơn ở những nước mà người lao động trung bình đi học nhiều năm hơn, được giáo dục và đào tạo với chất lượng tốt hơn, và có sức khoẻ tốt hơn. Khi đó mỗi giờ làm việc tạo ra nhiều giá trị gia tăng hơn, đồng thời chất lượng cuộc sống cũng được nâng lên.
+
+**Biến thứ hai: phân bổ nguồn lực.** Ngay trong cùng một lĩnh vực hẹp, có những doanh nghiệp năng suất hơn hẳn các doanh nghiệp khác. Nếu những doanh nghiệp năng suất nhất hút được phần lớn lao động và vốn, nền kinh tế được gọi là "**hiệu quả về phân bổ**". Ngược lại, nếu nhiều lao động và vốn bị kẹt ở các doanh nghiệp kém năng suất, nền kinh tế "kém hiệu quả về phân bổ", và điều đó kéo TFP xuống.
+
+**Biến thứ ba: thương mại quốc tế.** Thương mại thúc đẩy mỗi nước chuyên môn hoá theo **lợi thế so sánh**, nhờ đó dùng nguồn lực hiệu quả hơn. Tiếp cận thị trường toàn cầu cho phép doanh nghiệp khai thác **kinh tế quy mô** (sản xuất nhiều thì chi phí mỗi đơn vị thấp hơn). Cạnh tranh quốc tế giúp doanh nghiệp năng suất thắng thế và loại dần doanh nghiệp kém.
+
+**Một bản thiết kế, nhưng chỉ một phần, cho nước đang phát triển.** Ở các nước này, người lao động thiếu giáo dục và chăm sóc y tế, phân bổ nguồn lực sai phổ biến hơn, và rào cản thương mại cao hơn. Ba biến trên gợi ý bốn hướng chính sách:
+
+| Biến | Chính sách gợi ý |
+|---|---|
+| Năng suất lao động | Huy động tài chính cho dịch vụ công như giáo dục và y tế |
+| Phân bổ nguồn lực | Bỏ các loại thuế và trợ cấp làm méo mó thị trường; hạ rào cản cạnh tranh công bằng |
+| Thương mại | Mở cửa thương mại |
+
+Nghiên cứu cho thấy những chính sách này có thể thu hẹp **một phần** khoảng cách TFP. Nhưng phần lớn khoảng cách vẫn chưa được giải thích, đúng với cái tên "thước đo sự thiếu hiểu biết".
 
 ### 4. Sức mạnh đổi mới
 
-- Các biện pháp trên khó tạo thêm nhiều TFP cho nước tiên tiến vì họ đã gần biên giới về năng suất lao động, hiệu quả phân bổ, mở cửa thương mại.
-- Nguồn TFP bền vững nhất ở đó là đổi mới công nghệ, quy trình sản xuất, đa dạng sản phẩm, nhưng ngày càng nhiều bằng chứng tác động của đổi mới đã chậm lại trong nhiều thập kỷ.
-- **Nên làm gì:** trước hết "không gây hại", tránh sai lầm chính sách như để cạnh tranh suy giảm khi doanh nghiệp mạnh dùng vị thế độc quyền chặn gia nhập và đổi mới, hoặc quay lại bảo hộ thương mại tốn kém. Sau đó, thiết kế quy định khai thác lợi ích năng suất từ công nghệ xanh, công nghệ thông tin và truyền thông, trí tuệ nhân tạo. Gỡ rào cản còn lại để phụ nữ và thiểu số mang tài năng và tiềm năng đổi mới vào mọi ngành.
-- Nếu hàng chục năm nữa nhân loại bớt căng thẳng và có cuối tuần dài hơn, công đầu thuộc về tăng trưởng TFP, không phải sách self-help.
+Các biện pháp vừa nêu khó tạo thêm nhiều TFP cho nước tiên tiến, vì những nước này đã ở gần biên giới về năng suất lao động, hiệu quả phân bổ và độ mở thương mại. Họ không còn nhiều dư địa để cải thiện theo ba hướng đó.
+
+Nguồn TFP bền vững nhất còn lại với họ là **đổi mới sáng tạo**: công nghệ mới, quy trình sản xuất mới, sản phẩm đa dạng hơn. Nhưng ngày càng có nhiều bằng chứng rằng tác động của đổi mới lên năng suất đã chậm lại trong nhiều thập kỷ.
+
+Bài đề xuất hai bước:
+
+1. **Trước hết, "không gây hại".** Tránh các sai lầm chính sách như để cạnh tranh suy yếu, khi những doanh nghiệp lớn dùng vị thế độc quyền để ngăn đối thủ mới gia nhập và kìm hãm đổi mới; hoặc quay lại bảo hộ thương mại, vốn rất tốn kém.
+2. **Sau đó, chủ động.** Thiết kế quy định để khai thác lợi ích năng suất từ công nghệ xanh, công nghệ thông tin và truyền thông, và trí tuệ nhân tạo. Đồng thời gỡ bỏ các rào cản còn lại để phụ nữ và các nhóm thiểu số đem tài năng và tiềm năng đổi mới của mình vào mọi ngành.
+
+Bài kết bằng một câu quay lại hình ảnh mở đầu: nếu nhiều thập kỷ nữa nhân loại bớt căng thẳng và có những ngày cuối tuần dài hơn, công lớn nhất sẽ thuộc về tăng trưởng TFP, chứ không phải sách tự lực.
 
 ## Thuật ngữ
 

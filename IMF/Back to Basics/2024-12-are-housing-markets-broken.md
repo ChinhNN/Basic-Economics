@@ -94,39 +94,95 @@
 3. Điều gì kìm hãm cung?
 4. Chính sách nào giúp thị trường vận hành tốt hơn?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Cung và cầu nhà ở.** Cầu là số nhà mà người dân muốn và có khả năng mua hoặc thuê; cung là số nhà có sẵn để bán hoặc cho thuê. Khi cầu tăng nhanh hơn cung, giá tăng. Ví dụ trong bài: ở Canada, thu nhập và dân số tăng đều, trong khi theo ước tính cả nước thiếu khoảng 3,5 triệu căn nhà cho khoảng 41 triệu dân, nên giá nhà thực tăng khoảng 5% mỗi năm từ 2016. Đây là khung phân tích xuất phát của bài.
+
+**Giá thực (real price).** Giá đã trừ đi phần tăng do lạm phát chung. Ví dụ minh hoạ: giá nhà tăng 8% trong một năm, còn giá cả chung tăng 3%, thì giá nhà thực tăng khoảng 5%. Khái niệm này giúp hiểu rằng nhà đắt lên thật, không chỉ vì đồng tiền mất giá.
+
+**Khuếch đại cầu (demand amplification).** Những yếu tố làm cầu nhà ở tăng vượt mức mà thu nhập và dân số giải thích được: kỳ vọng giá tăng, tín dụng dễ dãi và dòng vốn từ nước ngoài. Ví dụ minh hoạ: một gia đình đủ tiền mua nhà 2 tỷ, nhưng vì tin năm sau nhà sẽ lên 2,4 tỷ và ngân hàng sẵn sàng cho vay nhiều, họ mua căn 3 tỷ ngay. Đây là luận điểm thứ hai của bài.
+
+**Bong bóng nhà ở (housing bubble).** Khi giá nhà tăng xa khỏi mức mà thu nhập của người mua và tiền thuê nhà biện minh được, chủ yếu vì mọi người tin giá sẽ còn tăng. Ví dụ minh hoạ: một căn hộ cho thuê được 10 triệu đồng mỗi tháng nhưng giá bán lên tới 6 tỷ, tức tiền thuê một năm chỉ bằng 2% giá nhà, thấp hơn nhiều lãi tiết kiệm; người mua chỉ có lời nếu giá tiếp tục tăng. Robert Shiller dùng khái niệm này để phân tích giá nhà Mỹ năm 2003.
+
+**Tài sản thế chấp và vòng khuếch đại tín dụng (collateral).** Tài sản thế chấp là tài sản người vay giao cho ngân hàng làm bảo đảm, thường chính là căn nhà. Khi giá nhà tăng, giá trị tài sản thế chấp tăng, ngân hàng sẵn lòng cho vay thêm, và tiền vay thêm lại đẩy giá nhà lên. Ví dụ minh hoạ: căn nhà thế chấp tăng giá từ 2 tỷ lên 2,5 tỷ, chủ nhà vay thêm được 400 triệu dựa trên phần tăng đó để mua căn thứ hai. Đây là kênh chính khiến tín dụng làm giá nhà tăng mạnh.
+
+**Quy hoạch sử dụng đất (zoning).** Quy định của chính quyền về việc mỗi khu đất được xây gì, cao bao nhiêu tầng, mật độ thế nào. Ví dụ minh hoạ: nếu một khu chỉ được xây nhà một tầng cho một hộ, mảnh đất đó chỉ chứa 1 gia đình thay vì 20 gia đình nếu được xây chung cư. Bài nêu đây là một ràng buộc lớn với nguồn cung.
+
+**Chính sách vi mô thận trọng và vĩ mô thận trọng (microprudential, macroprudential).** Vi mô thận trọng là quy định giữ cho từng ngân hàng an toàn, ví dụ buộc ngân hàng giữ thêm vốn khi cho vay rủi ro. Vĩ mô thận trọng là quy định bảo vệ cả hệ thống, ví dụ giới hạn mức vay của hộ gia đình. Hai tỷ lệ thường dùng: **DSTI** (số tiền trả nợ hằng tháng so với thu nhập) và **LTV** (khoản vay so với giá trị căn nhà). Ví dụ minh hoạ: với giới hạn LTV 80%, mua nhà 3 tỷ chỉ được vay tối đa 2,4 tỷ, phải tự trả trước ít nhất 600 triệu. Đây là các công cụ phía cầu bài phân tích.
+
+**Nơi trú ẩn an toàn (safe haven).** Nơi mà nhà đầu tư đem tiền tới cất giữ khi thế giới bất ổn, vì tin tài sản ở đó an toàn. Ví dụ trong bài: giá nhà cao cấp ở London tăng theo rủi ro địa chính trị. Khái niệm này giải thích vì sao giá nhà ở một số thành phố chịu ảnh hưởng của các sự kiện ở nơi khác.
+
+## Nội dung chi tiết
 
 ### 1. Cung và cầu là điểm xuất phát
 
-- Nhà ở là vấn đề gây tranh cãi bậc nhất. Khả năng chi trả là mối lo hàng đầu, nhất là người trẻ, khi giấc mơ sở hữu nhà ngày càng xa.
-- Thomas Carlyle từng chê nhà kinh tế cứ lặp "cung và cầu" cho mọi câu hỏi. Nhưng đó phải là điểm xuất phát: thu nhập và dân số tăng đẩy cầu, cung không kịp thì giá tăng.
-- **Canada:** giá nhà thực tăng khoảng 5%/năm từ 2016, do thu nhập và dân số tăng đều, gồm nhập cư mạnh. Cung tụt lại: Canada Mortgage and Housing Corporation ước thiếu 3,5 triệu nhà cho dân số khoảng 41 triệu. Mất cân đối tương tự đang thổi giá nhà nơi khác.
+Nhà ở là một trong những vấn đề gây tranh cãi nhất. Khả năng chi trả nhà ở là mối lo hàng đầu của nhiều người, nhất là người trẻ, khi giấc mơ sở hữu một căn nhà ngày càng xa.
+
+Nhà văn Thomas Carlyle từng chế giễu các nhà kinh tế vì họ trả lời mọi câu hỏi bằng hai chữ "cung và cầu". Nhưng tác giả cho rằng với nhà ở, đó vẫn phải là điểm xuất phát. Cơ chế cơ bản rất đơn giản: thu nhập và dân số tăng thì cầu về nhà ở tăng; nếu cung không theo kịp thì giá tăng.
+
+**Ví dụ Canada.** Từ năm 2016, giá nhà thực (đã trừ lạm phát) ở Canada tăng khoảng 5% mỗi năm. Phía cầu tăng đều nhờ thu nhập tăng và dân số tăng, trong đó có làn sóng nhập cư mạnh. Phía cung thì tụt lại: Tổng công ty Thế chấp và Nhà ở Canada (*Canada Mortgage and Housing Corporation*) ước tính nước này thiếu 3,5 triệu căn nhà, so với dân số khoảng 41 triệu người. Sự mất cân đối tương tự đang đẩy giá nhà lên ở nhiều nước khác.
 
 ### 2. Khuếch đại cầu
 
-- Nhà ở khác hàng hoá khác: là khoản mua và đầu tư lớn, lâu dài nhất đời với hầu hết mọi người, thường tài trợ bằng vay. Hai hệ quả:
-- **Nhạy với kỳ vọng và câu chuyện xã hội:** sợ bỏ lỡ có thể khiến người ta mua giá cao nếu tin ngày mai còn đắt hơn. Robert Shiller năm 2003 chỉ ra giá nhà Mỹ lệch xa thu nhập và tiền thuê, tức không được nền tảng kinh tế hỗ trợ. Bong bóng hình thành từ câu chuyện và niềm tin xã hội, lan truyền miệng, tạo kỳ vọng tập thể giá tăng mãi.
-- **Nhạy với tín dụng:** nới chuẩn cho vay đẩy giá mạnh, như trước khủng hoảng tài chính 2008–09. Kể cả không đổi chuẩn, có hiệu ứng khuếch đại: giá tăng làm tài sản thế chấp tăng giá trị, ngân hàng cho vay thêm, giá lại tăng. Shiller lưu ý ngộ nhận giá nhà luôn tăng dẫn đến cho vay và đầu tư rủi ro; cộng với bán khoản vay rủi ro thành chứng khoán, tác động càng nặng khi thị trường bất ổn lộ ra.
+Nhà ở khác các hàng hoá khác. Với hầu hết mọi người, đó là khoản mua sắm và đầu tư lớn nhất, dài hạn nhất trong đời, và thường được mua bằng tiền vay. Điều này dẫn tới hai hệ quả khiến cầu về nhà ở có thể tăng vượt nền tảng kinh tế.
+
+**Hệ quả thứ nhất: cầu nhạy với kỳ vọng và câu chuyện xã hội.** Nỗi sợ bỏ lỡ cơ hội có thể khiến người ta chấp nhận mua với giá cao, nếu họ tin rằng ngày mai giá còn cao hơn. Năm 2003, Robert Shiller chỉ ra rằng giá nhà ở Mỹ đã lệch xa thu nhập của người dân và tiền thuê nhà, tức là không còn được nền tảng kinh tế hỗ trợ. Theo ông, bong bóng hình thành từ những câu chuyện và niềm tin xã hội, được truyền miệng từ người này sang người khác, cho tới khi cả xã hội cùng kỳ vọng rằng giá sẽ tăng mãi.
+
+**Hệ quả thứ hai: cầu nhạy với tín dụng.** Khi ngân hàng nới lỏng tiêu chuẩn cho vay, giá nhà có thể tăng mạnh, như đã xảy ra trước khủng hoảng tài chính toàn cầu 2008–09. Ngay cả khi tiêu chuẩn cho vay không đổi, vẫn có một vòng khuếch đại:
+
+1. Giá nhà tăng.
+2. Giá trị tài sản thế chấp (chính căn nhà) tăng theo.
+3. Ngân hàng sẵn lòng cho vay nhiều hơn.
+4. Tiền vay thêm đổ vào thị trường, đẩy giá nhà tăng nữa.
+
+Shiller còn lưu ý rằng niềm tin sai lầm "giá nhà lúc nào cũng tăng" đã dẫn tới cho vay và đầu tư rủi ro. Cộng thêm việc các khoản vay rủi ro được gom lại và bán thành chứng khoán cho nhà đầu tư khác, thiệt hại càng lớn khi sự bất ổn của thị trường lộ ra.
 
 ### 3. Ràng buộc cung
 
-- Xây nhà cần vốn, giấy phép, phê duyệt, rồi thời gian xây dài. Ngay trong điều kiện tốt nhất, cung cũng mất thời gian đuổi kịp cầu.
-- Canada cần xây 500.000 nhà/năm để theo kịp cầu (đánh giá của IMF), nhưng hai thập kỷ qua chỉ xây 150.000–250.000/năm. Chính phủ đang rút ngắn thời gian cấp phép, giải phóng đất công chưa dùng, giải quyết thiếu thợ xây. Nhưng cần thời gian mới có kết quả.
-- **Quy định và zoning:** Edward Glaeser và Joseph Gyourko cho thấy hạn chế sử dụng đất giới hạn mật độ, kìm cung, đẩy giá. Ở thành phố quản lý chặt như New York, giá nhà vọt xa chi phí xây. Houston ngược lại có nhiều nhà giá phải chăng nhờ quy định nhẹ và đất dồi dào.
+Ở phía cung, có ba loại ràng buộc.
+
+**Độ trễ tự nhiên.** Xây một căn nhà cần vốn, giấy phép, các bước phê duyệt, rồi thời gian thi công dài. Vì vậy, ngay cả trong điều kiện tốt nhất, cung cũng cần thời gian mới đuổi kịp cầu.
+
+**Ví dụ Canada về phía cung.** Theo đánh giá của IMF, Canada cần xây khoảng 500 nghìn (500.000) căn nhà mỗi năm để theo kịp cầu. Nhưng trong hai thập kỷ qua (khoảng 20 năm), nước này chỉ xây được 150–250 nghìn (150.000–250.000) căn mỗi năm. Chính phủ đang rút ngắn thời gian cấp phép, giải phóng đất công chưa sử dụng và giải quyết tình trạng thiếu thợ xây. Nhưng những biện pháp này cần thời gian mới cho kết quả.
+
+| | Số nhà mỗi năm |
+|---|---|
+| Cần xây để theo kịp cầu (IMF) | khoảng 500.000 |
+| Thực tế xây trong hai thập kỷ qua | 150.000–250.000 |
+
+**Quy định và quy hoạch sử dụng đất.** Hai nhà kinh tế Edward Glaeser và Joseph Gyourko cho thấy các hạn chế về sử dụng đất giới hạn mật độ xây dựng, kìm hãm nguồn cung và đẩy giá lên. So sánh hai thành phố Mỹ:
+
+| Thành phố | Quy định | Kết quả |
+|---|---|---|
+| New York | Quản lý chặt | Giá nhà vọt xa chi phí xây dựng |
+| Houston | Quy định nhẹ, đất dồi dào | Nhiều nhà ở giá phải chăng |
+
+Khoảng cách giữa giá nhà và chi phí xây là dấu hiệu cho thấy cái hiếm không phải gạch, vữa mà là quyền được xây.
 
 ### 4. Lực toàn cầu
 
-- Thị trường nhà ở ngày càng do lực xuyên biên giới định hình. Dòng vốn từ người mua nước ngoài đẩy cầu ở nhiều nước, do: của cải tăng nhất là ở thị trường mới nổi; lãi suất thấp lịch sử 2008–2021 khiến nhà đầu tư tìm lợi suất ở bất động sản; vốn chạy đến thị trường nhà ở trú ẩn an toàn. Nghiên cứu cho thấy giá nhà cao cấp London tăng theo rủi ro địa chính trị.
-- Xu hướng này lợi cho chủ nhà giàu nhưng khó cho dân địa phương bước lên nấc thang nhà ở, nên chính phủ hạn chế người nước ngoài mua và quản lý cho thuê ngắn hạn cho khách du lịch. New Zealand cấm người nước ngoài mua một số nhà ở từ 2018. Canada theo sau năm năm sau với lệnh cấm tương tự và phạt nặng.
+Thị trường nhà ở ngày càng bị chi phối bởi những lực vượt qua biên giới. Dòng vốn từ người mua nước ngoài làm tăng cầu ở nhiều nước, vì ba lý do:
+
+- **Của cải tăng**, nhất là ở các thị trường mới nổi, tạo ra một lớp người mua giàu có trên toàn cầu.
+- **Lãi suất thấp kỷ lục** trong giai đoạn 2008–2021 khiến nhà đầu tư đi tìm lợi suất cao hơn ở bất động sản.
+- **Vốn tìm nơi trú ẩn an toàn.** Nghiên cứu cho thấy giá nhà cao cấp ở London tăng theo mức rủi ro địa chính trị trên thế giới.
+
+Xu hướng này có lợi cho những chủ nhà giàu có, nhưng khiến người dân địa phương khó bước lên nấc thang sở hữu nhà. Vì vậy nhiều chính phủ đã hạn chế người nước ngoài mua nhà và quản lý việc cho khách du lịch thuê ngắn hạn. New Zealand cấm người nước ngoài mua một số loại nhà ở từ năm 2018. Năm năm sau, năm 2023, Canada áp dụng lệnh cấm tương tự, kèm mức phạt nặng.
 
 ### 5. Quản lý thị trường
 
-- Không rời khung cung cầu, nhưng nhà kinh tế thừa nhận khuếch đại cầu (kỳ vọng giá, tín dụng, dòng vốn) cộng ràng buộc cung nghiêm ngặt dẫn đến mất cân đối lớn. Chính sách vì thế phải đa diện.
-- **Vi mô thận trọng:** trọng số rủi ro tài sản thế chấp, buộc ngân hàng giữ vốn đối ứng với khoản vay rủi ro.
-- **Vĩ mô thận trọng:** giới hạn tỷ lệ trả nợ trên thu nhập (DSTI), tránh hộ gia đình vay quá lớn so với thu nhập; giới hạn tỷ lệ vay trên giá trị (LTV), giới hạn khoản vay so với giá nhà, tức yêu cầu trả trước tối thiểu.
-- **Tiền tệ:** ngân hàng trung ương tăng lãi suất chính sách làm lãi vay mua nhà đắt hơn. Nhưng vì ảnh hưởng mọi ngành, tiền tệ là công cụ cùn cho thị trường nhà ở.
-- **Người mua nước ngoài:** nhiều người mua bằng tiền mặt, né mọi quy định của cơ quan quản lý ngân hàng trong nước. Phụ thu với người mua không cư trú có thể giảm cầu từ người nước ngoài giàu tiền mặt. Singapore năm 2013 tăng gấp đôi thuế trước bạ với người nước ngoài lên 60%.
-- **Kết luận:** nguyên tắc cung cầu vẫn đúng. Giá nhà cao phần lớn vì quá ít nhà để bán. Khi đó, chỉ giúp người mua bằng chính sách phía cầu (tỷ lệ nợ trên thu nhập, vay trên giá trị, lãi suất) sẽ không hiệu quả. Giải pháp phải từ phía cung: xây thêm nhà.
+Các nhà kinh tế không rời bỏ khung cung cầu, nhưng thừa nhận rằng khi cầu bị khuếch đại (bởi kỳ vọng giá, tín dụng, dòng vốn) và cung bị ràng buộc chặt, thị trường có thể mất cân đối rất lớn. Vì thế chính sách phải tác động trên nhiều mặt. Bài điểm qua bốn nhóm công cụ:
+
+| Nhóm công cụ | Cách làm | Hạn chế hoặc lưu ý |
+|---|---|---|
+| Vi mô thận trọng | Đặt trọng số rủi ro cho khoản vay thế chấp, buộc ngân hàng giữ vốn tương ứng với khoản vay rủi ro | Tác động qua từng ngân hàng |
+| Vĩ mô thận trọng | Giới hạn tỷ lệ trả nợ trên thu nhập (DSTI) để hộ gia đình không vay quá sức; giới hạn tỷ lệ vay trên giá trị nhà (LTV), tức yêu cầu một mức trả trước tối thiểu | Chỉ tác động tới người mua bằng tiền vay |
+| Tiền tệ | Ngân hàng trung ương tăng lãi suất chính sách, làm lãi vay mua nhà đắt hơn | Là "công cụ cùn": ảnh hưởng tới mọi ngành, không chỉ nhà ở |
+| Nhắm vào người mua nước ngoài | Phụ thu với người mua không cư trú | Cần thiết vì nhiều người nước ngoài mua bằng tiền mặt, né mọi quy định của cơ quan quản lý ngân hàng trong nước |
+
+Ví dụ về công cụ cuối: năm 2013, Singapore tăng gấp đôi thuế trước bạ đối với người mua nước ngoài, lên 60%. Mục đích là giảm cầu từ những người nước ngoài giàu tiền mặt.
+
+**Kết luận.** Nguyên tắc cung cầu vẫn đúng. Giá nhà cao phần lớn đơn giản là vì có quá ít nhà để bán. Trong hoàn cảnh đó, nếu chỉ dùng chính sách phía cầu, như giới hạn tỷ lệ nợ trên thu nhập, tỷ lệ vay trên giá trị hay tăng giảm lãi suất, thì sẽ không giải quyết được vấn đề, vì những công cụ này chỉ thay đổi ai mua được nhà chứ không tạo thêm nhà. Giải pháp phải đến từ phía cung: trên hết, phải xây thêm nhà.
 
 ## Thuật ngữ
 

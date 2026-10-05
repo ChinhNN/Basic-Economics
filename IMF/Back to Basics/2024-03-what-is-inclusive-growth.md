@@ -84,45 +84,115 @@
 2. Bạn hy sinh bao nhiêu hôm nay cho thế hệ tương lai và hành tinh?
 3. Bạn tin chính phủ hay thị trường trong cung cấp hàng hoá công?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tăng trưởng bao trùm (inclusive growth).** Theo định nghĩa của tác giả, là kiểu tăng trưởng vừa làm tăng của cải và phúc lợi của quốc gia, vừa giảm nghèo, bảo đảm công bằng giữa các thế hệ, và vẫn giữ được tự do kinh tế. Ví dụ minh hoạ: hai nước cùng tăng trưởng 6% mỗi năm, nhưng ở nước thứ nhất số người nghèo giảm một nửa sau mười năm, còn ở nước thứ hai gần như không đổi; nước thứ nhất tăng trưởng bao trùm hơn. Đây là khái niệm trung tâm của bài.
+
+**Cơ hội bình đẳng và kết quả bình đẳng.** Cơ hội bình đẳng nghĩa là mọi người xuất phát từ một sân chơi công bằng, ai thành công là nhờ tài năng và nỗ lực. Kết quả bình đẳng nghĩa là thu nhập hay của cải cuối cùng của mọi người gần bằng nhau. Ví dụ minh hoạ: cấp học bổng cho trẻ nhà nghèo là tạo cơ hội bình đẳng; chia đều thu nhập cho mọi người là hướng tới kết quả bình đẳng. Bài cho rằng tăng trưởng bao trùm nhắm vào cơ hội bình đẳng.
+
+**Hai cách hiểu tự do: tự do cá nhân và cách tiếp cận năng lực.** Người theo chủ nghĩa tự do cá nhân (*libertarian*) hiểu tự do là không bị nhà nước can thiệp vào đời tư và thị trường. Cách tiếp cận năng lực (*capabilities*) của Amartya Sen hiểu tự do là **có cơ hội thực sự** để sống khoẻ, được học, được an toàn. Ví dụ minh hoạ: một người không bị cấm đi học nhưng không có trường nào gần nhà thì vẫn tự do theo cách hiểu thứ nhất, nhưng không tự do theo cách hiểu thứ hai. Hai cách hiểu này dẫn tới hai quan niệm khác nhau về vai trò của chính phủ.
+
+**Tái phân phối (redistribution).** Việc nhà nước dùng thuế và chi tiêu để chuyển bớt thu nhập hay của cải từ nhóm này sang nhóm khác. Ví dụ trong bài: tăng thuế với người giàu nhất từ 30% lên 50%. Đây là phép thử thứ nhất bài dùng để xác định người đọc đứng ở đâu.
+
+**Thuế carbon (carbon tax).** Thuế đánh vào mỗi tấn khí CO2 thải ra khi đốt than, dầu, khí, để người gây ô nhiễm phải trả cho thiệt hại khí hậu. Ví dụ trong bài: thuế 35 USD mỗi tấn, làm chi phí điện, xăng và sưởi tăng khoảng 20%. Khái niệm này là phép thử về việc hy sinh hôm nay cho thế hệ tương lai.
+
+**Hàng hoá công (public goods).** Những thứ có lợi cho mọi người mà thị trường tự nó thường cung cấp không đủ, như giáo dục, y tế, không khí sạch. Ví dụ minh hoạ: không khí sạch ở một thành phố có lợi cho mọi người dân, nhưng không ai có động cơ tự bỏ tiền ra làm sạch không khí cho cả thành phố. Đây là phép thử thứ ba.
+
+**Ngoại ứng và thất bại thị trường (externality, market failure).** Ngoại ứng là tác động của một hoạt động lên người ngoài cuộc mà không được tính vào giá. Khi có ngoại ứng, thị trường tự do cho kết quả không tốt cho xã hội, gọi là thất bại thị trường. Ví dụ minh hoạ: nhà máy xả khói làm dân xung quanh tốn tiền chữa bệnh, nhưng nhà máy không phải trả khoản đó. Đây là lý do cổ điển để chính phủ can thiệp.
+
+**Thất bại chính phủ và định lý Coase (government failure, Coase theorem).** Thất bại chính phủ là khi can thiệp của nhà nước kém hiệu quả, bị tham nhũng hoặc phản tác dụng. Định lý Coase nói rằng nếu quyền tài sản được xác định rõ và chi phí thương lượng thấp, các bên có thể tự thoả thuận ra kết quả hiệu quả mà không cần chính phủ. Ví dụ minh hoạ: nếu dân làng có quyền rõ ràng với dòng sông, nhà máy phải trả tiền cho họ mới được xả thải, và hai bên tự đi đến mức xả thải hợp lý. Đây là lập luận của phía tin vào thị trường.
+
+## Nội dung chi tiết
 
 ### 1. Định nghĩa
 
-- Vai trò của chính phủ trong kinh tế hiện đại là gì? Có thể tạo xã hội bình đẳng hơn mà không hy sinh tự do kinh tế hay của cải? Nên nhấn mạnh cơ hội bình đẳng hay kết quả bình đẳng? Ý tưởng "tăng trưởng bao trùm" tìm cách cân bằng.
-- **Định nghĩa của tác giả:** tăng trưởng bao trùm tìm cách tăng của cải và phúc lợi quốc gia đồng thời giảm nghèo, bảo đảm công bằng giữa các thế hệ, và giữ gìn tự do kinh tế.
-- **Hai cách hiểu tự do:** người theo chủ nghĩa tự do cá nhân (libertarian) muốn nhà nước can thiệp tối thiểu vào đời tư và thị trường. Cách tiếp cận năng lực (capabilities) của Amartya Sen chú trọng không chỉ vắng ràng buộc mà còn hiện diện cơ hội được khoẻ mạnh, học hành, an toàn. Mỗi cách đặt tiêu chuẩn khác nhau cho "xã hội tốt" và vai trò chính phủ.
-- Ngay cả những người cổ vũ tự do nổi tiếng, từ Locke đến Smith và Mill, đều thừa nhận cần can thiệp nào đó. Hãy tưởng tượng bạn thiết kế một xã hội: mọi lựa chọn chính sách đều là đánh đổi.
+Bài mở đầu bằng một loạt câu hỏi lớn. Chính phủ nên đóng vai trò gì trong một nền kinh tế hiện đại? Có thể xây dựng một xã hội bình đẳng hơn mà không phải hy sinh tự do kinh tế hay của cải không? Nên nhấn mạnh **cơ hội bình đẳng** (mọi người xuất phát công bằng) hay **kết quả bình đẳng** (mọi người có thu nhập gần nhau)? Ý tưởng "tăng trưởng bao trùm" là một nỗ lực để cân bằng các câu hỏi đó.
+
+Tác giả định nghĩa: tăng trưởng bao trùm tìm cách làm bốn việc cùng lúc:
+
+1. tăng của cải và phúc lợi của quốc gia;
+2. giảm nghèo;
+3. bảo đảm công bằng giữa các thế hệ;
+4. giữ gìn tự do kinh tế.
+
+**Hai cách hiểu về tự do.** Mục tiêu thứ tư phụ thuộc vào việc ta hiểu "tự do" là gì.
+
+| | Chủ nghĩa tự do cá nhân (libertarian) | Cách tiếp cận năng lực (capabilities) của Amartya Sen |
+|---|---|---|
+| Tự do là | Vắng mặt sự ràng buộc | Vắng ràng buộc **và** có cơ hội thực sự: được khoẻ mạnh, học hành, an toàn |
+| Vai trò nhà nước | Can thiệp tối thiểu vào đời tư và thị trường | Tạo điều kiện để mọi người có những cơ hội đó |
+
+Mỗi cách hiểu đặt ra một tiêu chuẩn khác cho thế nào là "xã hội tốt" và chính phủ nên làm gì. Tuy nhiên, ngay cả những người cổ vũ tự do nổi tiếng nhất, từ John Locke đến Adam Smith và John Stuart Mill, đều thừa nhận cần có một mức can thiệp nào đó của nhà nước.
+
+Tác giả mời người đọc tưởng tượng mình là người thiết kế một xã hội. Điều đầu tiên cần nhận ra: **mọi lựa chọn chính sách đều là đánh đổi**. Ba phép thử dưới đây giúp người đọc tự xác định mình đứng ở đâu.
 
 ### 2. Tái phân phối của cải
 
-- Kịch bản: thuế thu nhập đồng đều 30%. Đề xuất tăng lên 50% cho người giàu nhất. Bạn có ủng hộ?
-- **Phản đối** vì người giàu đã đóng đủ và thuế cao có thể hãm tăng trưởng: cách tiếp cận bảo thủ với tăng trưởng bao trùm, ưu tiên tự do kinh tế và tăng trưởng, thuế đồng đều.
-- **Đồng ý nếu** tiền thêm nhắm giảm nghèo: cách nhìn rộng hơn, sẵn sàng đổi chút tự do kinh tế lấy sáng kiến chống nghèo có mục tiêu.
-- **Đồng ý để** giảm bất bình đẳng bất kể tiền dùng vào đâu: lập trường tiến bộ, vượt ranh giới truyền thống của tăng trưởng bao trùm.
-- Một số nhà kinh tế tiến bộ như Dani Rodrik chú ý tập trung của cải và đổi mới ở một số doanh nghiệp và thành phố, không chỉ cá nhân, dẫn đến loại trừ kinh tế. Giải pháp: quyền lao động, luật chống độc quyền, lương tối thiểu cao hơn, trợ cấp, chính sách công nghiệp, đầu tư công tạo việc ở vùng bị bỏ quên. Tác giả và người khác lo ngại tác động của chính sách công nghiệp đến tăng trưởng, năng lực thực thi của chính phủ, và nguy cơ chuyển sang bảo hộ thương mại toàn cầu.
+**Phép thử thứ nhất.** Giả sử hiện tại mọi người đóng thuế thu nhập đồng đều 30%. Có đề xuất tăng thuế lên 50% đối với nhóm giàu nhất. Bạn có ủng hộ không? Câu trả lời xếp người đọc vào ba lập trường:
+
+| Câu trả lời | Lý do | Lập trường |
+|---|---|---|
+| Phản đối | Người giàu đã đóng đủ; thuế cao có thể kìm hãm tăng trưởng | Cách tiếp cận **bảo thủ** với tăng trưởng bao trùm: ưu tiên tự do kinh tế và tăng trưởng, chuộng thuế đồng đều |
+| Đồng ý, nếu tiền thu thêm dùng để giảm nghèo | Chấp nhận nhường một chút tự do kinh tế để có các chương trình chống nghèo có mục tiêu | Cách nhìn **bao trùm rộng hơn** |
+| Đồng ý, để giảm bất bình đẳng, bất kể tiền dùng vào đâu | Giảm khoảng cách giàu nghèo là mục tiêu tự thân | Lập trường **tiến bộ**, vượt ra ngoài ranh giới truyền thống của tăng trưởng bao trùm |
+
+**Quan điểm tiến bộ và lo ngại của tác giả.** Một số nhà kinh tế tiến bộ như Dani Rodrik chú ý rằng của cải và đổi mới không chỉ tập trung vào một số cá nhân, mà còn vào một số doanh nghiệp và thành phố, và điều này dẫn tới việc nhiều người, nhiều vùng bị loại khỏi nền kinh tế. Giải pháp họ đề xuất gồm: tăng quyền của người lao động, luật chống độc quyền, lương tối thiểu cao hơn, trợ cấp, chính sách công nghiệp (nhà nước định hướng phát triển ngành, vùng), và đầu tư công để tạo việc làm ở những vùng bị bỏ quên.
+
+Tác giả và một số người khác lo ngại về hướng đi này ở ba điểm: chính sách công nghiệp có thể làm chậm tăng trưởng; chính phủ chưa chắc có đủ năng lực thực thi; và nó có nguy cơ đẩy thế giới sang bảo hộ thương mại.
 
 ### 3. Thế hệ tương lai
 
-- Hành động hôm nay ảnh hưởng thế hệ tương lai, kể cả chưa sinh, và loài khác. Chính phủ nên can thiệp đến đâu, có mở rộng sang bảo tồn môi trường và động vật hoang dã dù không mang lợi trực tiếp cho con người?
-- Kịch bản: thuế carbon 35 USD/tấn, làm chi phí điện, xăng, sưởi tăng khoảng 20% cho mọi người.
-- **Phản đối:** ưu tiên tăng trưởng và tự do hiện tại, hoài nghi hy sinh nguồn lực hôm nay cho lợi ích tương lai bất định, chú ý tác động lên hộ nghèo. Giống lập trường của một số nước đang phát triển ngần ngại áp thuế carbon cao.
-- **Ủng hộ:** ưu tiên phúc lợi thế hệ tương lai, khớp với chính sách định giá carbon nhiều nước tiên tiến cân nhắc.
-- **Ủng hộ vì hành tinh:** coi trọng giá trị nội tại của thiên nhiên và đa dạng sinh học, thường gắn với phong trào xanh, vượt lợi ích lấy con người làm trung tâm.
-- Ngay cả người thường phản đối thuế cao cũng có thể đổi quan điểm vì lo ngại mối đe doạ tồn vong và bền vững dài hạn.
+Hành động hôm nay ảnh hưởng tới các thế hệ tương lai, kể cả những người chưa sinh ra, và tới cả các loài khác. Câu hỏi là chính phủ nên can thiệp tới đâu, và có nên mở rộng sang bảo tồn môi trường và động vật hoang dã ngay cả khi điều đó không mang lại lợi ích trực tiếp cho con người.
+
+**Phép thử thứ hai.** Giả sử có đề xuất đánh thuế carbon 35 USD mỗi tấn, làm chi phí điện, xăng và sưởi của mọi người tăng khoảng 20%. Bạn có ủng hộ không?
+
+| Câu trả lời | Lý do | Gần với |
+|---|---|---|
+| Phản đối | Ưu tiên tăng trưởng và tự do hiện tại; nghi ngờ việc hy sinh nguồn lực hôm nay cho lợi ích tương lai không chắc chắn; lo cho tác động lên hộ nghèo | Lập trường của một số nước đang phát triển, vốn ngần ngại áp thuế carbon cao |
+| Ủng hộ | Ưu tiên phúc lợi của thế hệ tương lai | Các chính sách định giá carbon mà nhiều nước tiên tiến đang cân nhắc |
+| Ủng hộ vì hành tinh | Coi thiên nhiên và đa dạng sinh học có giá trị tự thân, không chỉ vì lợi ích con người | Phong trào xanh, vượt ra ngoài cách nhìn lấy con người làm trung tâm |
+
+Tác giả lưu ý rằng ngay cả những người thường phản đối thuế cao cũng có thể đổi ý khi đứng trước mối đe doạ tồn vong và yêu cầu bền vững dài hạn.
 
 ### 4. Hàng hoá công
 
-- Chính phủ cung cấp giáo dục, y tế, và phúc lợi phi thị trường như không khí sạch, không đo bằng GDP.
-- Các nhà kinh tế cổ điển hiểu thất bại thị trường: lựa chọn cá nhân không luôn dẫn đến kết quả tốt nhất, do ngoại ứng (người gây ô nhiễm không trả cho thiệt hại) hoặc thiếu đầu tư vào giáo dục, y tế. Ở nước đang phát triển, nhu cầu can thiệp có thể rõ hơn vì hạ tầng yếu và nhiều người thiếu tiếp cận giáo dục, y tế chất lượng.
-- **Tin chính phủ:** một số người tin chính phủ giỏi hơn thị trường trong xử lý một số vấn đề.
-- **Hoài nghi:** người khác lo thất bại chính phủ và tham nhũng. Chính sách tài khoá tốt cần nhà hoạch định lý trí, không thiên vị, điều không luôn đúng. Nỗ lực chính phủ có thể phản tác dụng. Một số đề xuất giải pháp thị trường như ý tưởng của Ronald Coase: quyền tài sản rõ ràng và chi phí giao dịch thấp dẫn đến kết quả hiệu quả mà không cần chính phủ.
-- Lựa chọn phản ánh mức độ tin vào chính phủ so với niềm tin vào giải pháp thị trường.
+Chính phủ cung cấp giáo dục, y tế, và cả những lợi ích không qua thị trường như không khí sạch, thứ mà GDP không đo được.
+
+Các nhà kinh tế cổ điển đã hiểu rằng thị trường có thể thất bại: lựa chọn của từng cá nhân không phải lúc nào cũng dẫn tới kết quả tốt nhất cho xã hội. Hai lý do điển hình:
+
+- **Ngoại ứng**: người gây ô nhiễm không phải trả cho thiệt hại họ gây ra cho người khác.
+- **Thiếu đầu tư** vào giáo dục và y tế, vì cá nhân không tính hết lợi ích mà những khoản này đem lại cho cả xã hội.
+
+Ở các nước đang phát triển, nhu cầu can thiệp có thể còn rõ hơn, vì hạ tầng yếu và nhiều người không được tiếp cận giáo dục, y tế có chất lượng.
+
+**Phép thử thứ ba** là bạn tin ai hơn để giải quyết những vấn đề này:
+
+- **Tin chính phủ.** Một số người tin rằng với một số vấn đề, chính phủ xử lý tốt hơn thị trường, nên chính phủ cần can thiệp nhiều hơn để sửa thất bại thị trường.
+- **Hoài nghi chính phủ.** Những người khác lo về **thất bại chính phủ** và tham nhũng. Một chính sách tài khoá tốt cần những nhà hoạch định lý trí và không thiên vị, điều không phải lúc nào cũng có. Nỗ lực của chính phủ có thể phản tác dụng. Một số người đề xuất giải pháp thị trường, như ý tưởng của Ronald Coase: nếu quyền tài sản được xác định rõ ràng và chi phí giao dịch thấp, các bên sẽ tự đạt được kết quả hiệu quả mà không cần chính phủ.
+
+Lựa chọn của mỗi người ở phép thử này phản ánh mức độ họ tin vào chính phủ so với niềm tin vào giải pháp thị trường.
+
+**Bản đồ giá trị kinh tế.** Ghép ba phép thử lại, bài vẽ một bản đồ với hai trục, và tăng trưởng bao trùm nằm ở chính giữa:
+
+- **Trục dọc** là vai trò của chính phủ: phía trên là vai trò lớn (tin chính phủ cung cấp hàng hoá công), phía dưới là vai trò nhỏ.
+- **Trục ngang** là ưu tiên: phía trái là ưu tiên bình đẳng của cải, phía phải là ưu tiên thế hệ tương lai và các loài khác.
+
+Các nhóm quan điểm được đặt quanh trung tâm như sau:
+
+| Nhóm | Vị trí trên bản đồ | Đặc điểm |
+|---|---|---|
+| Progressives (người tiến bộ) | Phía trên, bên trái | Chính phủ lớn, ưu tiên bình đẳng của cải (chống tập trung của cải, chống nghèo) |
+| Green Progressives (tiến bộ xanh) | Phía trên, gần trung tâm | Chính phủ lớn, quan tâm môi trường |
+| Green Conservatives (bảo thủ xanh) | Phía trên, bên phải | Ưu tiên thế hệ tương lai và mọi loài |
+| Strict Libertarians (tự do cá nhân triệt để) | Phía dưới | Chính phủ nhỏ, ủng hộ tự do, tập trung vào hiện tại |
 
 ### 5. Tăng trưởng bao trùm
 
-- Khác với chính sách giảm trực tiếp bất bình đẳng của cải giữa cá nhân hay vùng (thường gắn ý thức hệ tiến bộ), tăng trưởng bao trùm tập trung tạo sân chơi bình đẳng: tương lai mỗi người do tài năng và nỗ lực quyết định, không định trước bởi xuất thân. Thành công dựa trên năng lực, không phải hoàn cảnh sinh ra.
-- Tăng trưởng bao trùm thể hiện nguyên tắc: tạo của cải, tự do kinh tế và cơ hội bình đẳng có thể cùng tồn tại. Xã hội có thể vừa tự do vừa bình đẳng, đồng thời theo đuổi tăng trưởng và phúc lợi dài hạn.
-- Vai trò chính phủ trong cân bằng này phụ thuộc giá trị cá nhân, niềm tin vào các tác nhân chính trị, và thực tế địa phương.
+Tác giả phân biệt tăng trưởng bao trùm với các chính sách nhằm **trực tiếp** giảm bất bình đẳng về của cải giữa cá nhân hay giữa các vùng, vốn thường gắn với hệ tư tưởng tiến bộ. Tăng trưởng bao trùm tập trung vào việc tạo **sân chơi bình đẳng**: tương lai của mỗi người do tài năng và nỗ lực của họ quyết định, không bị định sẵn bởi xuất thân. Thành công dựa trên năng lực, không phải hoàn cảnh sinh ra.
+
+Theo tác giả, tăng trưởng bao trùm thể hiện một nguyên tắc: tạo ra của cải, tự do kinh tế và cơ hội bình đẳng có thể cùng tồn tại. Một xã hội có thể vừa tự do vừa bình đẳng, đồng thời theo đuổi cả tăng trưởng lẫn phúc lợi dài hạn.
+
+Còn chính phủ nên đóng vai trò lớn hay nhỏ trong việc giữ cân bằng đó thì không có đáp án chung. Nó phụ thuộc vào ba thứ: giá trị của mỗi cá nhân, mức độ tin tưởng vào các tác nhân chính trị, và thực tế của từng địa phương.
 
 ## Thuật ngữ
 

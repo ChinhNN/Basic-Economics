@@ -91,39 +91,102 @@
 2. Điều gì quyết định nhà đầu tư trả bao nhiêu cho trái phiếu?
 3. Đường cong lợi suất cho biết gì về nền kinh tế?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Trái phiếu chính phủ (government bond).** Giấy nợ mà chính phủ bán cho nhà đầu tư để vay tiền, kèm lời hứa trả lại số tiền gốc vào một ngày xác định trong tương lai và trả lãi định kỳ trong thời gian đó. Ví dụ trong bài: chính phủ chi vượt thu 100 USD, phát hành một trái phiếu hứa trả lại 100 USD sau một năm cộng tiền lãi. Đây là đối tượng của cả bài.
+
+**Mệnh giá và lãi coupon (par value, coupon).** Mệnh giá là số tiền gốc ghi trên trái phiếu mà chính phủ sẽ trả khi đáo hạn. Coupon là tiền lãi trả hằng năm, tính theo phần trăm mệnh giá. Ví dụ trong bài: trái phiếu mệnh giá 100 USD, coupon 5%, nghĩa là sau một năm người giữ nhận 105 USD.
+
+**Chi phí cơ hội (opportunity cost).** Lợi ích mà nhà đầu tư bỏ lỡ khi bỏ tiền vào trái phiếu thay vì vào khoản đầu tư tốt nhất khác. Theo bài, nó gồm hai phần: phần bù lạm phát (để giữ sức mua) và phần lợi suất thực mà khoản đầu tư thay thế mang lại. Ví dụ minh hoạ: lạm phát kỳ vọng 2% và một khoản đầu tư khác cho thêm 3% trên lạm phát, thì chi phí cơ hội là khoảng 5%. Khái niệm này quyết định nhà đầu tư chịu trả bao nhiêu cho trái phiếu.
+
+**Lợi suất đến đáo hạn (yield to maturity).** Tỷ suất lợi nhuận mà nhà đầu tư thực sự nhận được nếu mua trái phiếu ở giá hiện tại và giữ tới khi đáo hạn. Ví dụ trong bài: mua trái phiếu với giá 98 USD rồi nhận 105 USD sau một năm, lợi suất là 105 chia 98, trừ 1, bằng khoảng 7,1%. Điểm then chốt: **giá trái phiếu tăng thì lợi suất giảm, và ngược lại**, vì tiền nhận về cố định.
+
+**Thị trường sơ cấp và thứ cấp (primary, secondary market).** Thị trường sơ cấp là nơi chính phủ bán trái phiếu mới phát hành trực tiếp cho nhà đầu tư. Thị trường thứ cấp là nơi các nhà đầu tư mua bán lại trái phiếu với nhau, giống mua bán cổ phiếu. Ví dụ trong bài: trái phiếu bán lần đầu ở 98 USD, sau đó được mua bán lại ở 101,95 USD. Khái niệm này giải thích vì sao lợi suất lúc phát hành có thể khác lợi suất thị trường.
+
+**Đường cong lợi suất và phần bù kỳ hạn (yield curve, term premium).** Đường cong lợi suất là đồ thị nối lợi suất của trái phiếu chính phủ ở các kỳ hạn khác nhau (từ 1 đến 30 năm) tại cùng một thời điểm. Bình thường trái phiếu dài hạn có lợi suất cao hơn, phần chênh đó gọi là phần bù kỳ hạn, để bù cho việc khoá tiền lâu và chịu nhiều bất định hơn. Ví dụ minh hoạ: trái phiếu 1 năm lợi suất 3%, trái phiếu 10 năm lợi suất 4,5%. Đây là công cụ chính bài dùng để đọc kỳ vọng của thị trường.
+
+**Đường cong đảo ngược (inverted yield curve).** Khi lợi suất ngắn hạn cao hơn lợi suất dài hạn. Ví dụ minh hoạ: trái phiếu 2 năm lợi suất 4,5%, trái phiếu 10 năm chỉ 3,8%. Nó cho thấy thị trường kỳ vọng kinh tế sẽ yếu đi và lãi suất sẽ giảm, và theo bài, cho tới gần đây nó đã đi trước mọi lần suy thoái ở Mỹ trong nửa thế kỷ.
+
+**Phần bù rủi ro quốc gia và chênh lệch lợi suất (country risk premium, spread).** Phần lợi suất thêm mà nhà đầu tư đòi khi cho một nước có rủi ro vỡ nợ vay. Chênh lệch lợi suất là khoảng cách giữa lợi suất trái phiếu nước đó và lợi suất trái phiếu của nước được coi là an toàn. Ví dụ minh hoạ: trái phiếu 10 năm của một nước an toàn lợi suất 4%, của một nước đang phát triển lợi suất 9%, chênh lệch là 5 điểm phần trăm. Khái niệm này giải thích vì sao đường cong lợi suất ở nước đang phát triển mang thêm thông tin về rủi ro vỡ nợ.
+
+## Nội dung chi tiết
 
 ### 1. Trái phiếu, coupon và lợi suất
 
-- Chính phủ vay nhà đầu tư từ nhiều thế kỷ, chủ yếu bằng phát hành trái phiếu. Thị trường nợ công toàn cầu khoảng 100 nghìn tỷ USD, gần bằng kinh tế thế giới.
-- Chính phủ chi vượt thu 100 USD, phát hành trái phiếu: lời hứa trả gốc 100 USD vào ngày tương lai cộng lãi hàng năm gọi là coupon, bù chi phí cơ hội của nhà đầu tư khi gửi tiền vào trái phiếu thay vì đầu tư khác.
-- **Chi phí cơ hội** gồm phần lạm phát (giữ sức mua) và phần thực (lợi suất thêm trên lạm phát mà đầu tư thay thế mang lại). Lạm phát kỳ vọng và lợi suất thay thế càng cao, chính phủ phải trả càng nhiều.
-- **Ví dụ:** trái phiếu 1 năm, 100 USD, coupon 5%: cam kết trả 105 USD sau một năm. Nếu coupon bằng chi phí cơ hội, nhà đầu tư mua bằng mệnh giá (par). Nếu chi phí cơ hội vượt 5%, họ chỉ mua dưới mệnh giá, ví dụ 98 USD, cho lợi suất 7,1% [(105÷98)−1]. Lợi suất (yield to maturity) theo định nghĩa bằng chi phí cơ hội.
+Các chính phủ đã vay tiền của nhà đầu tư từ nhiều thế kỷ nay, và cách vay chủ yếu là phát hành trái phiếu. Thị trường nợ công toàn cầu hiện có quy mô khoảng 100 nghìn tỷ USD, gần bằng quy mô của cả nền kinh tế thế giới.
+
+**Trái phiếu hoạt động thế nào.** Giả sử chính phủ chi nhiều hơn thu 100 USD. Để bù khoản thiếu, chính phủ phát hành một trái phiếu, tức một lời hứa: trả lại 100 USD tiền gốc vào một ngày trong tương lai, cộng với tiền lãi hằng năm gọi là **coupon**. Coupon để bù cho **chi phí cơ hội** của nhà đầu tư, tức phần lợi ích họ bỏ lỡ khi để tiền vào trái phiếu thay vì đầu tư vào chỗ khác.
+
+Chi phí cơ hội gồm hai phần:
+
+- **phần lạm phát**: bù cho việc giá cả tăng, để nhà đầu tư giữ được sức mua;
+- **phần thực**: lợi suất thêm, cao hơn lạm phát, mà một khoản đầu tư thay thế có thể đem lại.
+
+Vì vậy, lạm phát kỳ vọng càng cao, và các khoản đầu tư thay thế càng hấp dẫn, thì chính phủ càng phải trả nhiều để vay được.
+
+**Ví dụ con số.** Một trái phiếu kỳ hạn 1 năm, mệnh giá 100 USD, coupon 5%: chính phủ cam kết trả 105 USD sau một năm.
+
+| Tình huống | Nhà đầu tư trả | Lợi suất |
+|---|---|---|
+| Chi phí cơ hội đúng bằng 5% | Bằng mệnh giá: 100 USD | 5% |
+| Chi phí cơ hội cao hơn 5% | Dưới mệnh giá, ví dụ 98 USD | (105 ÷ 98) − 1 ≈ 7,1% |
+
+Trong tình huống thứ hai, nhà đầu tư chỉ chịu mua nếu được giảm giá. Trả 98 USD hôm nay để nhận 105 USD sau một năm cho lợi nhuận khoảng 7,1%. Con số này gọi là **lợi suất đến đáo hạn**, và theo định nghĩa nó bằng chi phí cơ hội của nhà đầu tư. Từ ví dụ này rút ra một quy luật cơ bản: số tiền nhận về đã cố định, nên **giá trái phiếu càng cao thì lợi suất càng thấp, và ngược lại**.
 
 ### 2. Thị trường sơ cấp và thứ cấp
 
-- Chính phủ bán trực tiếp cho nhà đầu tư là giao dịch sơ cấp. Trái phiếu là chứng khoán giao dịch được như cổ phiếu, nên còn đổi chủ giữa nhà đầu tư ở thị trường thứ cấp. Hệ quả: lợi suất phát hành có thể khác lợi suất thị trường.
-- **Ví dụ:** ngân hàng thương mại lớn sụp ngay sau phát hành, gây sợ khủng hoảng và suy thoái. Nhà đầu tư kỳ vọng lợi nhuận và lạm phát thấp hơn, chi phí cơ hội giảm từ 7,1% xuống 3%. Trái phiếu phát hành ở 98 USD nay giao dịch trên mệnh giá, 101,95 USD, phản ánh lợi suất thị trường 3%.
+Khi chính phủ bán trái phiếu trực tiếp cho nhà đầu tư, đó là giao dịch trên **thị trường sơ cấp**. Nhưng trái phiếu là chứng khoán có thể mua bán lại, giống cổ phiếu, nên sau đó nó tiếp tục đổi chủ giữa các nhà đầu tư trên **thị trường thứ cấp**. Hệ quả là lợi suất lúc phát hành có thể khác lợi suất thị trường sau đó.
+
+**Ví dụ tiếp theo.** Giả sử ngay sau khi trái phiếu trên được phát hành ở giá 98 USD (lợi suất 7,1%), một ngân hàng thương mại lớn sụp đổ, gây lo sợ về khủng hoảng và suy thoái. Nhà đầu tư giờ kỳ vọng lợi nhuận và lạm phát sẽ thấp hơn, nên chi phí cơ hội của họ giảm từ 7,1% xuống 3%. Khi đó trái phiếu được mua bán ở giá **trên mệnh giá**, khoảng 101,95 USD, vì 105 chia 101,95 trừ 1 bằng khoảng 3%. Giá 101,95 USD phản ánh lợi suất thị trường 3%.
+
+| | Thị trường sơ cấp | Thị trường thứ cấp |
+|---|---|---|
+| Ai bán | Chính phủ | Nhà đầu tư bán cho nhau |
+| Giá trong ví dụ | 98 USD (dưới mệnh giá) | 101,95 USD (trên mệnh giá) |
+| Lợi suất | 7,1% (lợi suất phát hành) | 3% (lợi suất thị trường) |
 
 ### 3. Đường cong lợi suất
 
-- Chính phủ phát hành nhiều kỳ hạn, thường 1 đến 30 năm, mỗi kỳ hạn có coupon và lợi suất riêng. Dài hạn thường lợi suất cao hơn: phần bù kỳ hạn, bù cho bất định về lạm phát, điều kiện kinh tế tương lai, và bỏ lỡ đầu tư khác lâu hơn.
-- Chart 1 vẽ kỳ hạn trên trục ngang và lợi suất thị trường tại một thời điểm trên trục dọc. Đường cong lợi suất cho biết nhiều thứ, quan trọng nhất là thị trường kỳ vọng kinh tế mạnh lên hay yếu đi.
-- **Dốc lên:** thị trường kỳ vọng tăng trưởng nhanh hơn, lạm phát tương lai cao hơn hiện tại (kinh tế nóng, cầu tăng, dội vào giá). Đầu tư thay thế như hàng hoá, bất động sản hấp dẫn hơn. Nhà đầu tư đòi lợi suất dài hạn cao hơn ngắn hạn. Mỹ ngày 16/12/2024 (đường đỏ).
-- **Đảo ngược:** khi lạm phát Mỹ vọt sau COVID, Fed tăng lãi suất. Lãi suất cao thường hãm tiêu dùng và đầu tư, nuôi kỳ vọng giảm tốc, lạm phát yếu, lợi suất thấp. Đường cong bắt đầu đảo ngược, dốc xuống (đường xanh, 30/12/2022). Đường cong đảo ngược thường được xem là dự báo suy thoái; cho đến gần đây, mọi lần suy thoái Mỹ trong nửa thế kỷ đều có đảo ngược đi trước.
+Chính phủ phát hành trái phiếu ở nhiều kỳ hạn, thường từ 1 đến 30 năm, mỗi kỳ hạn có coupon và lợi suất riêng. Trái phiếu dài hạn thường có lợi suất cao hơn. Phần cao hơn đó là **phần bù kỳ hạn**, bù cho ba thứ: bất định về lạm phát, bất định về điều kiện kinh tế tương lai, và việc nhà đầu tư phải bỏ lỡ các cơ hội đầu tư khác trong thời gian lâu hơn.
+
+Nếu đặt kỳ hạn trên trục ngang và lợi suất thị trường tại một thời điểm trên trục dọc, rồi nối các điểm lại, ta có **đường cong lợi suất**. Đường cong này cho biết nhiều điều, quan trọng nhất là thị trường đang kỳ vọng nền kinh tế mạnh lên hay yếu đi.
+
+**Đường cong dốc lên.** Khi thị trường kỳ vọng kinh tế tăng trưởng nhanh hơn, họ cũng kỳ vọng lạm phát tương lai cao hơn hiện tại, vì kinh tế nóng lên làm cầu tăng và đẩy giá lên. Các khoản đầu tư thay thế như hàng hoá hay bất động sản cũng trở nên hấp dẫn hơn. Vì thế nhà đầu tư đòi lợi suất dài hạn cao hơn lợi suất ngắn hạn, và đường cong dốc lên. Đường cong lợi suất của Mỹ ngày 16/12/2024 có hình dạng này.
+
+**Đường cong đảo ngược.** Khi lạm phát ở Mỹ tăng vọt sau đại dịch COVID, Cục Dự trữ Liên bang (Fed) tăng lãi suất. Lãi suất cao thường kìm tiêu dùng và đầu tư, khiến thị trường kỳ vọng kinh tế giảm tốc, lạm phát yếu đi và lợi suất sau này thấp hơn. Khi đó lợi suất dài hạn thấp hơn lợi suất ngắn hạn, và đường cong đảo ngược, dốc xuống. Đường cong của Mỹ ngày 30/12/2022 có hình dạng này.
+
+Đường cong đảo ngược thường được coi là tín hiệu báo trước suy thoái. Cho đến gần đây, mọi lần suy thoái của Mỹ trong 50 năm (nửa thế kỷ) qua đều có một lần đường cong đảo ngược đi trước.
+
+| Hình dạng | Thị trường kỳ vọng | Ví dụ ở Mỹ |
+|---|---|---|
+| Dốc lên | Tăng trưởng nhanh hơn, lạm phát cao hơn | Ngày 16/12/2024 |
+| Đảo ngược | Kinh tế giảm tốc, lạm phát và lợi suất thấp hơn; thường báo trước suy thoái | Ngày 30/12/2022, sau khi Fed tăng lãi suất |
 
 ### 4. Phần bù rủi ro quốc gia
 
-- Đường cong ở thị trường mới nổi và nước thu nhập thấp có mang cùng thông tin? Có, nhưng tập trung hơn vào phần bù rủi ro quốc gia.
-- Nước tiên tiến lớn đa dạng, thể chế mạnh, trái phiếu được xem an toàn vì nhà đầu tư gần như chắc được trả. Nước đang phát triển thể chế yếu hơn, dễ gặp cú sốc gây mất giá tiền tệ, lạm phát nhanh, mất tiếp cận vốn thị trường.
-- Một số chính phủ, nhất là nợ ngoại tệ nhiều, đôi khi phải tái cơ cấu nợ (đổi lịch trả, lợi suất, hoặc cả hai). Rủi ro vỡ nợ này, tức phần bù rủi ro quốc gia, làm lợi suất cao hơn nước tiên tiến ở mọi kỳ hạn. Chênh lệch lợi suất (spread) là chỉ báo quan trọng về rủi ro tín dụng chính phủ (đường xám đậm, trái phiếu nội tệ xếp hạng BBB−).
-- Khi rủi ro tới mức thị trường thấy tái cơ cấu sắp xảy ra, lợi suất trái phiếu kỳ hạn còn lại ngắn thường vọt, tạo đường cong đảo ngược sắc nét. Đầu 2014 chưa ai biết Ukraine sẽ tái cơ cấu trong vòng một năm, nhưng đường cong đảo ngược tháng 3/2014 cho thấy nhà đầu tư đã định giá sự kiện nợ. Vì tái cơ cấu kéo dài kỳ hạn của nợ đến hạn sớm (2015) nhiều hơn nợ đến hạn muộn (2018), nhà đầu tư đòi lợi suất cao hơn cho loại trước (đường vàng).
+Đường cong lợi suất ở các thị trường mới nổi và nước thu nhập thấp có mang cùng loại thông tin không? Có, nhưng ở đó nó chủ yếu phản ánh **phần bù rủi ro quốc gia**.
+
+Lý do nằm ở khác biệt giữa hai nhóm nước:
+
+- **Nước tiên tiến lớn** có nền kinh tế đa dạng và thể chế mạnh. Trái phiếu của họ được coi là an toàn, vì nhà đầu tư gần như chắc chắn được trả.
+- **Nước đang phát triển** có thể chế yếu hơn và dễ gặp cú sốc gây mất giá tiền tệ, lạm phát nhanh, hoặc mất khả năng vay trên thị trường.
+
+Một số chính phủ, nhất là những nước nợ nhiều bằng ngoại tệ, đôi khi phải **tái cơ cấu nợ**, tức thay đổi lịch trả, lợi suất, hoặc cả hai. Rủi ro vỡ nợ này, gọi là phần bù rủi ro quốc gia, khiến lợi suất của họ cao hơn nước tiên tiến ở **mọi kỳ hạn**. Khoảng chênh lợi suất (*spread*) so với trái phiếu an toàn là một chỉ báo quan trọng về rủi ro tín dụng của chính phủ đó. Bài minh hoạ bằng đường cong lợi suất của nhóm trái phiếu nội tệ có xếp hạng tín nhiệm BBB−, nằm cao hơn đường cong của Mỹ.
+
+**Khi tái cơ cấu tới gần.** Khi rủi ro tăng tới mức thị trường thấy tái cơ cấu sắp xảy ra, lợi suất của các trái phiếu sắp đáo hạn thường vọt lên, tạo ra một đường cong đảo ngược rất rõ. Ví dụ Ukraine: đầu năm 2014, chưa ai biết Ukraine sẽ tái cơ cấu nợ trong vòng một năm, nhưng đường cong lợi suất đảo ngược của Ukraine vào tháng 3/2014 cho thấy nhà đầu tư đã tính trước khả năng xảy ra một sự kiện nợ. Lý do lợi suất ngắn hạn cao hơn: tái cơ cấu thường kéo dài thời hạn của khoản nợ sắp đến hạn (đến hạn năm 2015) nhiều hơn so với khoản nợ đến hạn muộn (năm 2018). Người giữ trái phiếu ngắn hạn chịu thiệt nhiều hơn, nên họ đòi lợi suất cao hơn.
 
 ### 5. Phát triển thị trường trái phiếu
 
-- Nhiều nước đang phát triển xây thị trường trái phiếu chính phủ nội tệ để giảm phụ thuộc vay ngoại tệ vốn mang rủi ro tỷ giá. Điều kiện gồm quản lý nợ vững, luật, quy định và hạ tầng thị trường chắc chắn, cơ sở nhà đầu tư trong nước đa dạng. Mất thời gian nhưng phần thưởng đáng kể.
-- IMF cùng Ngân hàng Thế giới hướng dẫn tích cực. Nhiều nước, nhất là châu Á và Mỹ Latinh, đã tiến bộ trong những thập kỷ gần đây.
-- Đường cong lợi suất ở thị trường trái phiếu vận hành tốt không chỉ nói về triển vọng kinh tế mà còn là chuẩn định giá tài sản khác: vay ngân hàng dài hạn, trái phiếu doanh nghiệp, thế chấp. Nó giúp phân bổ nguồn lực hiệu quả hơn, hỗ trợ tăng trưởng dài hạn.
+Nhiều nước đang phát triển đang xây dựng thị trường trái phiếu chính phủ bằng **nội tệ**, để bớt phụ thuộc vào vay bằng ngoại tệ, vốn kéo theo rủi ro tỷ giá (nội tệ mất giá thì nợ ngoại tệ tính ra nội tệ tăng lên). Để làm được, cần bốn điều kiện:
+
+1. quản lý nợ vững vàng;
+2. luật pháp và quy định chắc chắn;
+3. hạ tầng thị trường tốt;
+4. một cơ sở nhà đầu tư trong nước đa dạng.
+
+Việc này mất thời gian nhưng phần thưởng đáng kể. IMF và Ngân hàng Thế giới đang tích cực hướng dẫn các nước, và nhiều nước, nhất là ở châu Á và Mỹ Latinh, đã tiến bộ trong những thập kỷ gần đây.
+
+Lợi ích lớn nhất: ở một thị trường trái phiếu chính phủ vận hành tốt, đường cong lợi suất không chỉ cho biết triển vọng kinh tế, mà còn trở thành **chuẩn để định giá** các tài sản tài chính khác, như khoản vay ngân hàng dài hạn, trái phiếu doanh nghiệp và khoản vay thế chấp mua nhà. Ví dụ, một ngân hàng có thể định lãi vay 10 năm cho doanh nghiệp bằng lợi suất trái phiếu chính phủ 10 năm cộng thêm một khoản bù rủi ro. Nhờ đó nguồn lực được phân bổ hiệu quả hơn, hỗ trợ tăng trưởng dài hạn.
 
 ## Thuật ngữ
 
