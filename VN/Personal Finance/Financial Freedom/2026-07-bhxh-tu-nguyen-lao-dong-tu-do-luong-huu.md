@@ -47,53 +47,108 @@
 2. Phải đóng bao nhiêu, Nhà nước hỗ trợ bao nhiêu, và khi về già được hưởng những gì?
 3. Đóng BHXH tự nguyện có tốt hơn tự để dành không, và đăng ký ở đâu?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**BHXH bắt buộc và BHXH tự nguyện.** BHXH bắt buộc áp dụng cho người lao động có hợp đồng: người lao động và chủ sử dụng cùng đóng. BHXH tự nguyện là hình thức do Nhà nước tổ chức để người không thuộc diện bắt buộc tự đóng hằng tháng và sau này nhận lương hưu. Ví dụ trong bài: cô Bảy bán bún ngoài chợ không có công ty nào đóng bảo hiểm, nên chỉ có thể tham gia loại tự nguyện. Phân biệt hai loại này giải thích vì sao hàng chục triệu lao động tự do về già không có lương hưu.
+
+**Mức thu nhập làm căn cứ đóng.** Mức thu nhập tháng mà người tham gia tự chọn để tính tiền đóng; nhân với 22% ra số tiền phải đóng. Ví dụ trong bài: chọn mức thấp nhất 1.500.000 đồng thì đóng 22% × 1.500.000 = 330.000 đồng/tháng. Mức chọn càng cao thì đóng càng nhiều và lương hưu sau này càng lớn.
+
+**Chuẩn hộ nghèo nông thôn.** Mức thu nhập dùng để xác định hộ nghèo ở nông thôn, bài nêu là 1.500.000 đồng/tháng. Trong BHXH tự nguyện, đây là sàn của mức thu nhập làm căn cứ đóng. Ví dụ: không ai được chọn mức căn cứ thấp hơn 1,5 triệu, nên mức đóng thấp nhất là 330.000 đồng.
+
+**Hỗ trợ tiền đóng.** Phần Nhà nước trả thay cho người tham gia, bằng 20-50% của mức đóng tối thiểu, trong tối đa 10 năm, theo Nghị định 159/2025/NĐ-CP. Ví dụ trong bài: người bình thường được hỗ trợ 20% × 330.000 = 66.000 đồng, nên chỉ tự trả 264.000 đồng/tháng. Đây là một trong những lý do bài cho rằng BHXH tự nguyện tốt hơn tự để dành.
+
+**Tỷ lệ hưởng lương hưu (replacement rate).** Phần trăm của bình quân thu nhập tháng đã đóng mà người về hưu được nhận mỗi tháng; tăng theo số năm đóng, tối đa 75%. Ví dụ minh hoạ: nếu bình quân thu nhập đã đóng là 4 triệu và tỷ lệ hưởng đạt 75% thì lương hưu là 3 triệu/tháng. Khái niệm này cho biết vì sao đóng lâu và chọn mức cao thì lương hưu lớn hơn.
+
+**Chế độ tử tuất (survivor benefits).** Khoản trợ cấp cho thân nhân khi người tham gia qua đời. Ví dụ minh hoạ: người đang đóng hoặc đang hưởng lương hưu mất đi thì gia đình được nhận trợ cấp. Đây là một trong bốn quyền lợi bài liệt kê.
+
+**Chế độ thai sản (maternity benefit).** Từ Luật BHXH 2024, người tham gia BHXH tự nguyện đủ điều kiện được hỗ trợ 2 triệu đồng cho mỗi con khi sinh. Ví dụ minh hoạ: sinh hai con thì được 4 triệu đồng. Đây là quyền lợi mới mà trước đây BHXH tự nguyện không có.
+
+**Luật BHXH 2024.** Luật có hiệu lực từ 1/7/2025, giảm số năm đóng tối thiểu để được lương hưu từ 20 xuống 15 năm. Ví dụ minh hoạ: người bắt đầu đóng ở tuổi 45 vẫn có thể đủ 15 năm trước tuổi nghỉ hưu, điều khó hơn nhiều khi phải đủ 20 năm. Đây là thay đổi khiến BHXH tự nguyện hấp dẫn hơn với người tham gia muộn.
+
+## Nội dung chi tiết
 
 ### 1. Vấn đề: lao động tự do về già không có lương hưu
-- **Câu chuyện cô Bảy:** bán bún ngoài chợ hơn 20 năm, nuôi hai con ăn học, dựng căn nhà nhỏ; năm 60 tuổi tay yếu không bán nổi, nhận ra cả đời đi làm không có đồng lương hưu nào, mỗi tháng phải xin con.
-- Hàng chục triệu người (tài xế công nghệ, buôn bán nhỏ, thợ hồ, nghề tự do, nội trợ) không thuộc diện BHXH bắt buộc nên về già không có lương hưu. Cách tự lo: BHXH tự nguyện.
+
+Bài mở đầu bằng câu chuyện cô Bảy. Cô bán bún ngoài chợ hơn 20 năm, nuôi hai con ăn học và dựng được một căn nhà nhỏ. Đến năm 60 tuổi, tay yếu không bán nổi nữa, cô mới nhận ra cả đời đi làm mà không có đồng lương hưu nào, mỗi tháng phải xin tiền con.
+
+Trường hợp của cô Bảy không hiếm. Hàng chục triệu người như tài xế công nghệ, người buôn bán nhỏ, thợ hồ, người làm nghề tự do, nội trợ không thuộc diện BHXH bắt buộc, vì không có công ty nào ký hợp đồng và đóng bảo hiểm cho họ. Kết quả là về già họ không có lương hưu. Theo bài, cách để những người này tự lo là tham gia BHXH tự nguyện.
 
 ### 2. BHXH tự nguyện là gì, ai tham gia
-- Hình thức do Nhà nước tổ chức: tự đóng hằng tháng để sau này nhận lương hưu.
-- Điều kiện: công dân Việt Nam từ đủ 15 tuổi, không thuộc diện BHXH bắt buộc, chưa hưởng lương hưu.
-- Nhóm nên quan tâm nhất: người bán hàng, tài xế xe ôm/công nghệ, thợ thủ công, nông dân, nội trợ, freelancer, chủ hộ kinh doanh nhỏ; là "quỹ hưu trí" tự mở khi không có công ty đóng bảo hiểm.
+
+BHXH tự nguyện là hình thức bảo hiểm do Nhà nước tổ chức. Người tham gia tự đóng tiền hằng tháng để sau này nhận lương hưu.
+
+Điều kiện tham gia gồm ba ý: là công dân Việt Nam từ đủ 15 tuổi, không thuộc diện BHXH bắt buộc, và chưa hưởng lương hưu.
+
+Nhóm nên quan tâm nhất là người bán hàng, tài xế xe ôm hoặc xe công nghệ, thợ thủ công, nông dân, nội trợ, freelancer và chủ hộ kinh doanh nhỏ. Bài diễn đạt: nếu bạn tự kiếm sống mà không có công ty nào đóng bảo hiểm cho mình, đây là "quỹ hưu trí" bạn có thể tự mở.
 
 ### 3. Mức đóng
-- Mức đóng = 22% × mức thu nhập tự chọn.
-- Thấp nhất: tính trên chuẩn hộ nghèo nông thôn 1.500.000 đồng/tháng → 22% × 1.500.000 = 330.000 đồng/tháng.
-- Cao nhất: bài nêu "lên tới hơn 10 triệu đồng/tháng" nếu chọn mức thu nhập cao để có lương hưu lớn hơn.
-- **Hỗ trợ của Nhà nước** (Nghị định 159/2025/NĐ-CP), tính trên mức đóng tối thiểu, tối đa 10 năm:
-  - 50%: hộ nghèo và người ở xã đảo, đặc khu.
-  - 40%: hộ cận nghèo.
-  - 30%: người dân tộc thiểu số.
-  - 20%: đối tượng còn lại.
-- Người lao động tự do bình thường: hỗ trợ 20% × 330.000 = 66.000 đồng; tự trả 330.000 − 66.000 = 264.000 đồng/tháng, "tương đương vài ly cà phê".
-- **Đóng linh hoạt:** hằng tháng, 3, 6, 12 tháng một lần, hoặc một lần cho nhiều năm về sau hay cho những năm còn thiếu; tháng buôn bán khá đóng mức cao, tháng ế đóng mức thấp.
+
+Công thức: **Mức đóng = 22% × mức thu nhập tự chọn.**
+
+- **Thấp nhất:** mức thu nhập làm căn cứ không được thấp hơn chuẩn hộ nghèo nông thôn 1.500.000 đồng/tháng, nên mức đóng tối thiểu là 22% × 1.500.000 = 330.000 đồng/tháng.
+- **Cao nhất:** bài nêu có thể "lên tới hơn 10 triệu đồng/tháng" nếu chọn mức thu nhập cao để có lương hưu lớn hơn.
+
+**Hỗ trợ của Nhà nước.** Theo Nghị định 159/2025/NĐ-CP, Nhà nước hỗ trợ một phần tiền đóng, tính trên mức đóng tối thiểu 330.000 đồng, trong tối đa 10 năm. Mức hỗ trợ tuỳ nhóm:
+
+| Nhóm đối tượng | Tỷ lệ hỗ trợ | Số tiền hỗ trợ/tháng | Người tham gia tự trả (nếu đóng mức tối thiểu) |
+|---|---|---|---|
+| Hộ nghèo, người ở xã đảo, đặc khu | 50% | 165.000 đồng | 165.000 đồng |
+| Hộ cận nghèo | 40% | 132.000 đồng | 198.000 đồng |
+| Người dân tộc thiểu số | 30% | 99.000 đồng | 231.000 đồng |
+| Đối tượng còn lại | 20% | 66.000 đồng | 264.000 đồng |
+
+Với một người lao động tự do bình thường, khoản tự trả là 330.000 − 66.000 = 264.000 đồng/tháng, mà bài ví "tương đương vài ly cà phê".
+
+**Đóng linh hoạt.** Người tham gia có thể đóng hằng tháng, 3 tháng, 6 tháng hoặc 12 tháng một lần, hoặc đóng một lần cho nhiều năm về sau, hay đóng bù cho những năm còn thiếu. Mức đóng cũng có thể thay đổi: tháng buôn bán khá thì chọn mức cao, tháng ế thì đóng mức thấp. Sự linh hoạt này phù hợp với thu nhập thất thường của lao động tự do.
 
 ### 4. Quyền lợi khi về già (Luật BHXH 2024, hiệu lực 1/7/2025)
-1. **Lương hưu hằng tháng:** chỉ cần đóng đủ 15 năm (trước đây 20 năm) và đủ tuổi nghỉ hưu; giúp người tham gia muộn vẫn kịp có lương hưu.
-2. **BHYT miễn phí** khi đang hưởng lương hưu.
+
+Khi đã đóng đủ 15 năm và đủ tuổi nghỉ hưu, người tham gia được hưởng bốn quyền lợi:
+
+1. **Lương hưu hằng tháng.** Điều kiện chỉ còn đủ 15 năm đóng (trước đây là 20 năm) và đủ tuổi nghỉ hưu. Thay đổi này giúp cả người tham gia muộn vẫn kịp có lương hưu.
+2. **Thẻ BHYT miễn phí** trong thời gian hưởng lương hưu.
 3. **Chế độ tử tuất:** thân nhân được trợ cấp nếu người tham gia qua đời.
 4. **Chế độ thai sản (mới):** người tham gia BHXH tự nguyện đủ điều kiện được hỗ trợ 2 triệu đồng cho mỗi con khi sinh.
-- **Cách tính lương hưu:** Lương hưu = Tỷ lệ hưởng × Bình quân thu nhập tháng đã đóng. Tỷ lệ hưởng tăng theo số năm đóng, tối đa 75%; đóng càng lâu, mức thu nhập chọn càng cao thì lương hưu càng lớn.
+
+**Cách tính lương hưu:**
+
+Lương hưu = Tỷ lệ hưởng × Bình quân thu nhập tháng đã đóng
+
+Tỷ lệ hưởng tăng theo số năm đóng và tối đa là 75%. Vì vậy có hai cách để lương hưu lớn hơn: đóng lâu hơn (tăng tỷ lệ hưởng) và chọn mức thu nhập làm căn cứ cao hơn (tăng bình quân thu nhập đã đóng).
+
+Toàn bộ chuỗi có thể tóm lại như sau: chọn mức thu nhập làm căn cứ (thấp nhất 1.500.000 đồng) → nhân 22% ra mức đóng (ít nhất 330.000 đồng) → trừ phần Nhà nước hỗ trợ (50%, 40%, 30% hoặc 20% của mức tối thiểu, tối đa 10 năm) → người thường tự trả khoảng 264.000 đồng/tháng → đóng đủ 15 năm và đủ tuổi → nhận lương hưu, thẻ BHYT, quyền tử tuất cho thân nhân, và trợ cấp thai sản 2 triệu mỗi con.
 
 ### 5. So với tự để dành ("heo đất")
-- **Kỷ luật:** tiền để trong nhà dễ bị "mượn tạm"; đóng bảo hiểm là cam kết dài hạn.
-- **Được Nhà nước hỗ trợ tiền đóng;** heo đất thì không ai cho thêm.
-- **Nhận đều đặn suốt đời kèm BHYT miễn phí;** tiền tiết kiệm tiêu hết là hết.
-- Lưu ý của bài: BHXH tự nguyện là công cụ an sinh dài hạn, không phải kênh sinh lời nhanh; bảo vệ khỏi rủi ro lớn nhất của tuổi già là không có thu nhập. Người có điều kiện có thể vừa đóng vừa tích luỹ thêm qua tiết kiệm hoặc chứng chỉ quỹ.
+
+Bài so sánh BHXH tự nguyện với việc tự để dành tiền trong nhà:
+
+| Tiêu chí | BHXH tự nguyện | Tự để dành ("heo đất") |
+|---|---|---|
+| Kỷ luật | Là cam kết dài hạn, khó rút ra tiêu | Tiền trong nhà dễ bị "mượn tạm" |
+| Hỗ trợ | Nhà nước hỗ trợ một phần tiền đóng | Không ai cho thêm |
+| Khi về già | Nhận đều đặn suốt đời, kèm BHYT miễn phí | Tiêu hết là hết |
+
+Ý cuối cùng là điểm mạnh nhất: tiền tiết kiệm thì tiêu hết là hết, còn lương hưu thì tháng nào cũng có, dù người đó sống đến bao nhiêu tuổi.
+
+Bài cũng lưu ý: BHXH tự nguyện là công cụ an sinh dài hạn, không phải kênh "sinh lời nhanh". Nó bảo vệ người tham gia khỏi rủi ro lớn nhất của tuổi già là không có thu nhập. Người có điều kiện có thể vừa đóng BHXH tự nguyện vừa tích luỹ thêm qua tiết kiệm hoặc chứng chỉ quỹ.
 
 ### 6. Đăng ký ở đâu
-- Cơ quan BHXH, UBND xã/phường, điểm thu như bưu điện, Cổng Dịch vụ công BHXH Việt Nam, ứng dụng VssID.
-- Hồ sơ: chủ yếu tờ khai và căn cước công dân đã định danh điện tử.
-- Hành động: dành 15 phút gọi cơ quan BHXH địa phương hoặc mở VssID để hỏi mức đóng tối thiểu và cách đăng ký, cho mình hoặc cha mẹ, người thân làm nghề tự do.
+
+Người muốn tham gia có thể đăng ký tại nhiều nơi: cơ quan BHXH, UBND xã hoặc phường, các điểm thu như bưu điện, Cổng Dịch vụ công BHXH Việt Nam, hoặc ứng dụng VssID (ứng dụng BHXH số dùng để tra cứu, đăng ký và đóng tiền). Hồ sơ chủ yếu chỉ gồm tờ khai và căn cước công dân đã định danh điện tử.
+
+Lời kêu gọi hành động của bài: dành 15 phút gọi cơ quan BHXH địa phương hoặc mở VssID để hỏi mức đóng tối thiểu và cách đăng ký, cho chính mình hoặc cho cha mẹ, người thân đang làm nghề tự do.
 
 ### 7. Hỏi đáp của bài
-- Tối thiểu: 22% × 1.500.000 = 330.000 đồng; người thường còn khoảng 264.000 đồng sau hỗ trợ 20%.
-- Số năm: đủ 15 năm và đủ tuổi nghỉ hưu (thay vì 20 năm).
-- Lao động tự do: được tham gia nếu từ đủ 15 tuổi, không thuộc diện bắt buộc, chưa hưởng lương hưu.
-- BHYT: người đang hưởng lương hưu được cấp thẻ miễn phí.
-- Đóng gộp: được đóng một lần cho nhiều năm về sau hoặc những năm còn thiếu.
+
+**Mức đóng tối thiểu là bao nhiêu?** 22% × 1.500.000 = 330.000 đồng/tháng; người thường còn khoảng 264.000 đồng sau khi được hỗ trợ 20%.
+
+**Phải đóng bao nhiêu năm?** Đủ 15 năm và đủ tuổi nghỉ hưu, thay vì 20 năm như trước.
+
+**Lao động tự do có được tham gia không?** Được, nếu từ đủ 15 tuổi, không thuộc diện bắt buộc và chưa hưởng lương hưu.
+
+**Có được BHYT không?** Người đang hưởng lương hưu được cấp thẻ BHYT miễn phí.
+
+**Có được đóng gộp không?** Được đóng một lần cho nhiều năm về sau, hoặc đóng bù cho những năm còn thiếu.
 
 ## Thuật ngữ
 

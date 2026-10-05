@@ -49,30 +49,75 @@
 2. Cần tích luỹ bao nhiêu, đầu tư với lợi suất nào và trong bao lâu để quỹ cá nhân thay thế được thu nhập từ công việc?
 3. Tỷ lệ tích luỹ, lợi suất và số năm đầu tư khác nhau dẫn đến kết quả khác nhau ra sao, kể cả theo trào lưu FIRE?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Độc lập tài chính (financial independence).** Theo bài, đó là khi quỹ tài chính cá nhân đủ lớn để chi trả một cuộc sống tương đương hiện tại mà không lệ thuộc vào thu nhập từ công việc hằng ngày. Ví dụ trong bài: lợi nhuận hằng tháng của quỹ bạn A, quy về sức mua hôm nay, là khoảng 85,7 triệu, vừa đủ thay mức chi 85 triệu. Đây là mục tiêu trung tâm của bài.
+
+**Tự do tài chính (financial freedom).** Bài định nghĩa bằng đúng câu dùng cho độc lập tài chính, nên về chữ thì hai khái niệm trùng nhau. Tuy vậy trong bảng minh hoạ, "tự do" được dùng cho những trường hợp lợi nhuận quỹ vượt xa chi tiêu, ví dụ tỷ lệ 4,28 của bạn D. Cần biết điểm này để không nhầm khi đọc bảng.
+
+**Quỹ tài chính cá nhân.** Tổng tài sản đầu tư mà một người tích luỹ được qua các năm. Ví dụ trong bài: sau 20 năm, quỹ của bạn A đạt khoảng 18,79 tỷ đồng. Độ lớn của quỹ quyết định lợi nhuận hằng năm có đủ thay thu nhập từ công việc hay không.
+
+**Tỷ suất lợi nhuận bình quân (TSLN).** Mức sinh lời trung bình mỗi năm của danh mục đầu tư, dù từng năm có thể cao thấp khác nhau. Bài giả định các mức 12%, 15%, 18%. Ví dụ trong bài: năm đầu bạn A đưa vào 180 triệu, lãi 12% là 21,6 triệu. Đây là một trong ba đòn bẩy quyết định thời gian đạt độc lập.
+
+**Lạm phát và sức mua tương đương hiện tại (inflation, real value).** Lạm phát là giá cả tăng theo thời gian; bài giả định 4%/năm. Sức mua tương đương hiện tại là giá trị tương lai chia cho (1 + lạm phát) mũ số năm, cho biết số tiền tương lai đó mua được bao nhiêu theo giá hôm nay. Ví dụ trong bài: 187.870.283 đồng/tháng sau 20 năm chia 1,04^20 còn 85.741.545 đồng. Không quy đổi thì con số tương lai trông lớn hơn thực tế rất nhiều.
+
+**Tỷ lệ (độc lập).** Thước đo bài dùng: lợi nhuận tháng quy về sức mua hôm nay chia cho chi tiêu tháng hiện tại. Từ 1 trở lên là đạt độc lập tài chính. Ví dụ trong bài: bạn A có tỷ lệ 85.741.545 ÷ 85.000.000 ≈ 1,01. Con số này cho phép so sánh năm trường hợp trong bảng.
+
+**Lãi kép (compound interest).** Lợi nhuận được giữ lại trong quỹ và tiếp tục sinh lời ở các năm sau. Ví dụ trong bài: năm 2 bạn A có lãi 46,656 triệu, hơn gấp đôi năm 1, vì cả quỹ cũ lẫn khoản góp mới đều sinh lời. Bài gọi đây là hiệu ứng lãi kép "trên nhiều dòng tiền", nguồn gốc của khoản quỹ lớn sau 15-20 năm.
+
+**FIRE (Financial Independence, Retire Early).** Trào lưu "độc lập tài chính, nghỉ hưu sớm": tích luỹ tỷ lệ rất lớn của thu nhập và đầu tư để đạt độc lập sớm hơn tuổi hưu thông thường. Ví dụ trong bài: bạn E tích luỹ 40% và chỉ cần đầu tư 10 năm. Bài dùng FIRE để minh hoạ tác dụng của việc tăng tỷ lệ tích luỹ.
+
+## Nội dung chi tiết
 
 ### 1. Định nghĩa
-- Độc lập tài chính: quỹ tài chính cá nhân đủ lớn để chi trả cuộc sống tương đương hiện tại mà không lệ thuộc thu nhập từ công việc hằng ngày.
-- Tự do tài chính: bài dùng nguyên văn cùng câu định nghĩa trên (xem khối Lưu ý); trong bảng, "tự do" được dùng cho trường hợp tỷ lệ cao hơn nhiều so với 1.
+
+Bài định nghĩa **độc lập tài chính** là trạng thái khi quỹ tài chính cá nhân đủ lớn để chi trả một cuộc sống tương đương hiện tại mà không lệ thuộc vào thu nhập từ công việc hằng ngày.
+
+Với **tự do tài chính**, bài dùng nguyên văn cùng câu định nghĩa đó, nên hai khái niệm không được phân biệt bằng lời. Tuy nhiên, khi trình bày bảng minh hoạ ở mục 4, bài dùng chữ "tự do" cho các trường hợp có tỷ lệ cao hơn 1 rất nhiều, tức lợi nhuận quỹ vượt xa mức chi tiêu hiện tại. Có thể hiểu theo cách bài dùng thực tế: tỷ lệ từ 1 trở lên là độc lập; cao hơn nhiều là tự do.
 
 ### 2. Cách đạt được
-- Lập kế hoạch xây quỹ tài chính cá nhân: tích luỹ từ thu nhập tháng/năm, đầu tư đều đặn vào danh mục tài sản tăng trưởng.
-- Sau 15-20 năm, nhờ lãi kép trên nhiều dòng tiền, quỹ lớn; lợi nhuận hoặc giá trị tăng thêm mỗi năm giúp đạt độc lập hoặc tự do tài chính.
+
+Con đường bài đề xuất gồm hai phần:
+
+- **Lập kế hoạch xây quỹ tài chính cá nhân**: mỗi tháng hoặc mỗi năm tích luỹ một phần thu nhập, và đầu tư đều đặn vào một danh mục tài sản tăng trưởng.
+- **Kiên trì trong 15-20 năm**: nhờ hiệu ứng lãi kép trên nhiều dòng tiền (mỗi khoản góp mới lại bắt đầu sinh lãi riêng), quỹ sẽ trở nên lớn. Khi đó, lợi nhuận hoặc phần giá trị tăng thêm mỗi năm của quỹ đủ để đạt độc lập hoặc tự do tài chính.
+
+Thời gian cần thiết phụ thuộc vào ba đòn bẩy: tỷ lệ tích luỹ (trong bài từ 15% đến 40%), lợi suất bình quân (từ 12% đến 18%), và số năm đầu tư (từ 10 đến 20 năm).
 
 ### 3. Minh hoạ bạn A
-- Giả định: thu nhập 100 triệu/tháng (để dễ quy đổi theo tỷ lệ); chưa làm đúng công thức 50-30-20 (20% tích luỹ, 50% thiết yếu, 30% mong muốn), chỉ tích luỹ 15% = 15 triệu/tháng, chi 85 triệu/tháng.
-- Năm đầu tích luỹ 180 triệu, đầu tư vào danh mục lợi suất bình quân 12%/năm (dao động từng năm).
-- Lạm phát bình quân 4%/năm; để giữ sức mua, thu nhập (và khoản tích luỹ) tăng 4%/năm.
-- **Năm 1:** đưa vào 180.000.000; lãi 180.000.000 × 12% = 21.600.000; cuối năm 201.600.000.
-- **Năm 2:** tích luỹ 180.000.000 × 1,04 = 187.200.000; đưa vào 201.600.000 + 187.200.000 = 388.800.000; lãi 46.656.000; cuối năm 435.456.000.
-- **Năm 20:** tài sản 18.787.028.275 đồng (đã kiểm tra lại, đúng).
-- **Từ năm 21**, ngừng tích luỹ, sống bằng lợi nhuận:
-  - Lợi nhuận năm: 18.787.028.275 × 12% = 2.254.443.393.
-  - Lợi nhuận tháng: 2.254.443.393 ÷ 12 = 187.870.283.
-  - Sức mua tương đương hiện tại: 187.870.283 ÷ 1,04^20 = 85.741.545.
-  - So với chi tiêu 85.000.000/tháng: tỷ lệ 1,01 → đạt độc lập tài chính.
+
+Các giả định của ví dụ:
+
+- Bạn A có thu nhập 100 triệu/tháng. Bài chọn con số tròn để dễ quy đổi theo tỷ lệ cho các mức thu nhập khác.
+- Bạn A chưa làm đúng công thức 50-30-20 (theo cách tác giả diễn đạt: 20% tích luỹ, 50% thiết yếu, 30% mong muốn), mà chỉ tích luỹ 15%, tức 15 triệu/tháng, và chi 85 triệu/tháng.
+- Năm đầu tích luỹ được 15 × 12 = 180 triệu, đầu tư vào danh mục có lợi suất bình quân 12%/năm (từng năm có thể dao động).
+- Lạm phát bình quân 4%/năm. Để giữ sức mua, thu nhập và khoản tích luỹ cũng tăng 4% mỗi năm.
+
+Quy tắc mỗi năm: (quỹ đầu năm + khoản tích luỹ của năm) × (1 + 12%).
+
+| Năm | Tích luỹ trong năm | Đưa vào đầu tư | Lãi 12% | Quỹ cuối năm |
+|---|---|---|---|---|
+| 1 | 180.000.000 | 180.000.000 | 21.600.000 | 201.600.000 |
+| 2 | 180.000.000 × 1,04 = 187.200.000 | 201.600.000 + 187.200.000 = 388.800.000 | 46.656.000 | 435.456.000 |
+| ... | tăng 4% mỗi năm | | | |
+| 20 | | | | 18.787.028.275 |
+
+Viết gọn theo triệu đồng: năm 1 là 180 × 1,12 = 201,6 triệu; năm 2 là (201,6 + 187,2) × 1,12 = 435,456 triệu. Con số năm 20, 18.787.028.275 đồng, đã được kiểm tra lại và đúng.
+
+**Từ năm 21**, bạn A ngừng tích luỹ và sống bằng lợi nhuận của quỹ:
+
+| Bước | Phép tính | Kết quả |
+|---|---|---|
+| Lợi nhuận năm | 18.787.028.275 × 12% | 2.254.443.393 đồng |
+| Lợi nhuận tháng | 2.254.443.393 ÷ 12 | 187.870.283 đồng |
+| Quy về sức mua hôm nay | 187.870.283 ÷ 1,04^20 | 85.741.545 đồng |
+| So với chi tiêu hiện tại | 85.741.545 ÷ 85.000.000 | Tỷ lệ 1,01 |
+
+Tỷ lệ 1,01 nghĩa là lợi nhuận hằng tháng của quỹ, tính theo sức mua hôm nay, vừa đủ thay thế mức chi 85 triệu. Bạn A đạt độc lập tài chính sau 20 năm.
 
 ### 4. Bảng minh hoạ năm trường hợp (thu nhập 100 triệu/tháng)
+
+Bài so sánh năm người cùng thu nhập 100 triệu/tháng nhưng khác tỷ lệ tích luỹ, lợi suất và số năm đầu tư:
 
 | Trường hợp | Tích luỹ | Tiêu dùng | Lợi suất/năm | Số năm | Lợi nhuận tháng cuối kỳ | Quy về sức mua hôm nay | Tỷ lệ |
 |---|---|---|---|---|---|---|---|
@@ -82,14 +127,25 @@
 | Bạn D | 30% (30 triệu) | 60% (60 triệu) | 18% | 15 | 463.007.925 | 257.091.865 | 4,28 |
 | Bạn E | 40% (40 triệu) | 60% (60 triệu) | 18% | 10 | 227.789.367 | 126.483.350 | 2,11 |
 
-- Giá trị quỹ cuối kỳ tính lại theo cùng phương pháp (bảng gốc không ghi): B ≈ 35,57 tỷ; C ≈ 50,98 tỷ; D ≈ 30,87 tỷ; E ≈ 15,19 tỷ.
-- Hiệu chỉnh: D nếu tiêu dùng 70 triệu thì tỷ lệ ≈ 3,67; E quy đổi đúng 10 năm lạm phát là ≈ 153.886.335 đồng, tỷ lệ ≈ 2,56.
-- **FIRE** (Financial Independence, Retire Early: độc lập tài chính, nghỉ hưu sớm): tích luỹ tỷ lệ lớn, đầu tư thông minh để độc lập sớm hơn tuổi hưu truyền thống. Bài xếp D (30%, 15 năm, "đạt tự do tài chính", tỷ lệ 4,28) và E (40%, 10 năm, "đạt độc lập tài chính", tỷ lệ 2,11) vào nhóm này.
+Bảng gốc không ghi giá trị quỹ cuối kỳ. Tính lại theo cùng phương pháp như bạn A: B khoảng 35,57 tỷ; C khoảng 50,98 tỷ; D khoảng 30,87 tỷ; E khoảng 15,19 tỷ.
+
+Bảng có hai chỗ cần hiệu chỉnh:
+
+- **Dòng bạn D** ghi tích luỹ 30% và tiêu dùng 60%, cộng lại chỉ 90%. Nếu tiêu dùng thực là 70 triệu (70%), tỷ lệ đúng là 257.091.865 ÷ 70.000.000 ≈ 3,67, không phải 4,28.
+- **Dòng bạn E** chỉ đầu tư 10 năm, nhưng con số "quy về sức mua hôm nay" lại chia cho lạm phát của 15 năm (126.483.350 = 227.789.367 ÷ 1,04^15). Quy đổi đúng theo 10 năm là 227.789.367 ÷ 1,04^10 ≈ 153.886.335 đồng, tỷ lệ khoảng 2,56 thay vì 2,11. Tiêu đề cột "Lãi hàng tháng sau 20 năm" của bảng gốc cũng không đúng với D (15 năm) và E (10 năm).
+
+Dù có hai lỗi này, bảng vẫn cho thấy rõ quy luật: tỷ lệ tích luỹ càng cao và lợi suất càng cao thì đạt độc lập càng sớm, hoặc với cùng số năm thì tỷ lệ càng lớn. So sánh B và C: cùng tích luỹ 20% trong 20 năm, chỉ riêng lợi suất tăng từ 15% lên 18% đã nâng tỷ lệ từ 2,54 lên 4,36.
+
+Bài nhắc đến trào lưu **FIRE** (Financial Independence, Retire Early: độc lập tài chính, nghỉ hưu sớm), chủ trương tích luỹ một tỷ lệ lớn của thu nhập và đầu tư thông minh để độc lập sớm hơn tuổi hưu truyền thống. Bài xếp hai trường hợp vào nhóm này: bạn D (tích luỹ 30%, 15 năm, được bài gọi là "đạt tự do tài chính" với tỷ lệ 4,28) và bạn E (tích luỹ 40%, 10 năm, "đạt độc lập tài chính" với tỷ lệ 2,11).
 
 ### 5. Hai việc cần làm
-- Tích luỹ đều đặn mỗi tháng một khoản cố định từ thu nhập, tốt nhất 20%.
-- Đầu tư định kỳ (tháng/năm) vào công cụ rủi ro vừa phải, lợi nhuận bình quân 12-18%/năm: chứng chỉ quỹ đầu tư, vàng, hoặc danh mục cổ phiếu giá trị.
-- Với đa số người, chứng chỉ quỹ đầu tư hiệu quả là lựa chọn phù hợp (mời đọc phần Chứng chỉ quỹ đầu tư trên WikiMoney).
+
+Tác giả kết thúc bằng hai lời khuyên:
+
+1. **Tích luỹ đều đặn mỗi tháng một khoản cố định từ thu nhập**, tốt nhất là 20%.
+2. **Đầu tư định kỳ** (hằng tháng hoặc hằng năm) vào các công cụ mà tác giả gọi là rủi ro vừa phải, có lợi nhuận bình quân 12-18%/năm: chứng chỉ quỹ đầu tư, vàng, hoặc danh mục cổ phiếu giá trị.
+
+Với đa số người, tác giả cho rằng chứng chỉ quỹ đầu tư hiệu quả là lựa chọn phù hợp nhất, và mời người đọc tìm hiểu thêm ở phần Chứng chỉ quỹ đầu tư trên WikiMoney.
 
 ## Thuật ngữ
 

@@ -46,14 +46,35 @@
 2. Avalanche và Snowball hoạt động thế nào, áp dụng cho một người có ba khoản nợ ra sao?
 3. Nên chọn phương pháp nào, và những nguyên tắc nào không được bỏ qua?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Dư nợ (outstanding balance).** Số tiền gốc còn phải trả của một khoản vay tại một thời điểm. Ví dụ trong bài: chị Hương có tổng dư nợ 155 triệu đồng ở ba khoản. Tiền lãi mỗi tháng được tính trên dư nợ, nên giảm dư nợ ở khoản lãi cao sẽ giảm tiền lãi nhanh nhất.
+
+**Thanh toán tối thiểu (minimum payment).** Số tiền bắt buộc phải trả mỗi kỳ cho một khoản nợ để không bị phạt. Ví dụ trong bài: thẻ tín dụng của chị Hương có mức tối thiểu 1,5 triệu/tháng, vay tiêu dùng 1 triệu, vay xe 2 triệu, tổng 4,5 triệu. Cả hai phương pháp trong bài đều bắt đầu bằng việc trả đủ tối thiểu mọi khoản.
+
+**Phí phạt trả chậm, lãi phạt.** Chi phí phát sinh khi trả dưới mức tối thiểu hoặc trả trễ hạn. Ví dụ minh hoạ: trễ hạn một kỳ thẻ tín dụng có thể bị tính thêm phí và lãi phạt, lấy mất phần tiền lãi tiết kiệm được nhờ chọn đúng phương pháp. Đây là lý do bài đặt quy tắc "không bao giờ trả dưới mức tối thiểu".
+
+**Lãi suất năm và lãi suất tháng.** Lãi suất thường được công bố theo năm, nhưng tiền lãi tính hằng tháng; lãi tháng xấp xỉ bằng lãi năm chia 12. Ví dụ trong bài: thẻ tín dụng 24%/năm tương đương khoảng 2%/tháng, nên dư nợ thẻ 45 triệu sinh khoảng 900 nghìn tiền lãi trong tháng đầu. Hiểu điều này giúp thấy vì sao khoản lãi cao "đắt" nhất.
+
+**Phương pháp Avalanche (debt avalanche, "tuyết lở").** Trả tối thiểu mọi khoản, rồi dồn toàn bộ tiền dư vào khoản có lãi suất cao nhất; xong khoản đó thì chuyển sang khoản lãi cao thứ hai. Ví dụ trong bài: chị Hương dồn 3 triệu dư vào thẻ tín dụng 24% trước. Đây là phương pháp tối ưu về toán học, trả ít lãi nhất.
+
+**Phương pháp Snowball (debt snowball, "quả cầu tuyết lăn").** Trả tối thiểu mọi khoản, rồi dồn toàn bộ tiền dư vào khoản có số dư nhỏ nhất, bất kể lãi suất. Ví dụ trong bài: chị Hương dồn 3 triệu vào khoản vay tiêu dùng 30 triệu trước, vì đó là khoản nhỏ nhất. Phương pháp này tốn thêm một chút lãi nhưng cho thấy kết quả sớm, tạo động lực.
+
+**Dòng tiền giải phóng.** Khi một khoản nợ đã trả hết, số tiền trước đây dùng để trả khoản đó được chuyển sang khoản tiếp theo. Ví dụ trong bài: hết thẻ tín dụng, 4,5 triệu từng trả thẻ được chuyển hết sang vay tiêu dùng. Cơ chế này khiến tiền trả cho các khoản sau ngày càng lớn, như quả cầu tuyết lăn.
+
+**Thẻ tín dụng và vay tiêu dùng (credit card, consumer loan).** Thẻ tín dụng là hạn mức cho chi trước trả sau, lãi cao nếu không trả hết dư nợ; vay tiêu dùng là khoản vay cho chi tiêu cá nhân, trong bài dùng để sửa nhà. Ví dụ trong bài: thẻ 45 triệu lãi 24%, vay tiêu dùng 30 triệu lãi 18%. Đây là hai trong ba khoản nợ của chị Hương.
+
+## Nội dung chi tiết
 
 ### 1. Vấn đề: trả đều mà dư nợ giảm chậm
-- Nhiều người trả nợ đều đặn nhưng tổng dư nợ giảm rất chậm; nguyên nhân thường không ở thu nhập mà ở cách phân bổ dòng tiền.
-- Avalanche và Snowball là hai phương pháp trả nợ nổi tiếng nhất, đều có hiệu quả, mỗi cách hợp với một kiểu người.
+
+Nhiều người trả nợ đều đặn mỗi tháng nhưng tổng dư nợ vẫn giảm rất chậm. Theo bài, nguyên nhân thường không nằm ở thu nhập mà ở cách phân bổ dòng tiền: khi có nhiều khoản nợ, việc trả thêm vào khoản nào trước quyết định tổng tiền lãi phải trả và tốc độ thoát nợ.
+
+Bài giới thiệu hai phương pháp trả nợ nổi tiếng nhất là Avalanche và Snowball. Cả hai đều hiệu quả; mỗi cách hợp với một kiểu người.
 
 ### 2. Tình huống chị Hương
-- 32 tuổi, nhân viên marketing ở Hà Nội, lương 22 triệu/tháng; nợ ở ba nơi: thẻ tín dụng, vay mua xe, vay tiêu dùng (từ lúc sửa nhà). Luôn trả đúng hạn nhưng dư nợ giảm chậm, vì chưa có chiến lược.
+
+Chị Hương 32 tuổi, nhân viên marketing ở Hà Nội, lương 22 triệu đồng/tháng. Chị nợ ở ba nơi: thẻ tín dụng, vay mua xe, và một khoản vay tiêu dùng từ lúc sửa nhà. Chị luôn trả đúng hạn nhưng dư nợ giảm chậm. Bài nhận xét: vấn đề không phải chị không chịu trả, mà là chị chưa có chiến lược.
 
 | Khoản nợ | Dư nợ | Lãi suất | Trả tối thiểu/tháng |
 |---|---|---|---|
@@ -62,25 +83,38 @@
 | 3. Vay mua xe | 80.000.000 đ | 12%/năm | 2.000.000 đ |
 | **Tổng** | **155.000.000 đ** | | **4.500.000 đ** |
 
-- Mỗi tháng chị dành 7.500.000 đồng trả nợ: 4.500.000 trả tối thiểu, còn dư 3.000.000 đồng. Câu hỏi: 3 triệu này nên ưu tiên vào khoản nào?
+Mỗi tháng chị dành 7.500.000 đồng để trả nợ. Trả tối thiểu cả ba khoản hết 1,5 + 1,0 + 2,0 = 4,5 triệu (4.500.000 đồng), còn dư 3,0 triệu (3.000.000 đồng). Câu hỏi của bài: 3 triệu dư này nên dồn vào khoản nào trước? Hai phương pháp trả lời khác nhau:
+
+| | Avalanche (lãi cao → thấp) | Snowball (số dư nhỏ → lớn) |
+|---|---|---|
+| Ưu tiên 1 | Thẻ tín dụng 24% | Vay tiêu dùng 30 triệu |
+| Ưu tiên 2 | Vay tiêu dùng 18% | Thẻ tín dụng 45 triệu |
+| Ưu tiên 3 | Vay xe 12% | Vay xe 80 triệu |
+| Ưu điểm | Ít lãi nhất (tối ưu toán học) | Xóa được khoản đầu tiên sớm hơn (động lực tâm lý) |
 
 ### 3. Phương pháp Avalanche ("tuyết lở")
-- Trả theo thứ tự lãi suất từ cao xuống thấp: trả tối thiểu mọi khoản, dồn toàn bộ tiền dư vào khoản lãi cao nhất; trả xong thì chuyển toàn bộ số tiền vừa giải phóng sang khoản lãi cao thứ hai, cứ thế đến hết.
-- Áp dụng:
-  - Bước 1: dồn 3.000.000 vào thẻ tín dụng (24%) → trả thẻ 1.500.000 + 3.000.000 = 4.500.000 đồng/tháng.
-  - Bước 2: hết thẻ, chuyển toàn bộ 4.500.000 sang vay tiêu dùng (18%).
-  - Bước 3: hết vay tiêu dùng, dồn toàn bộ dòng tiền vào vay mua xe (12%).
-- Kết quả theo bài: tổng lãi khoảng 28.500.000 đồng; thoát nợ khoảng 24 tháng.
-- Kiểm tra lại (mô phỏng hằng tháng, cùng giả định): thẻ hết ở tháng 12, vay tiêu dùng tháng 16, vay xe tháng 25; tổng lãi khoảng 25,2 triệu đồng.
+
+Avalanche trả theo thứ tự lãi suất từ cao xuống thấp. Mỗi tháng, trả tối thiểu mọi khoản, rồi dồn toàn bộ tiền dư vào khoản lãi cao nhất. Khi khoản đó trả xong, chuyển toàn bộ số tiền vừa được giải phóng sang khoản lãi cao thứ hai, và cứ thế cho đến hết. Logic là: mỗi đồng trả thêm vào khoản lãi 24% "tiết kiệm" được nhiều lãi hơn một đồng trả vào khoản 12%.
+
+Áp dụng cho chị Hương:
+
+1. **Bước 1:** dồn 3.000.000 đồng dư vào thẻ tín dụng (24%). Mỗi tháng chị trả thẻ 1.500.000 + 3.000.000 = 4.500.000 đồng, vẫn trả tối thiểu hai khoản còn lại.
+2. **Bước 2:** khi hết nợ thẻ, chuyển toàn bộ 4.500.000 đồng đó sang khoản vay tiêu dùng (18%), cộng thêm vào mức tối thiểu đang trả.
+3. **Bước 3:** khi hết vay tiêu dùng, dồn toàn bộ dòng tiền vào khoản vay mua xe (12%).
+
+Kết quả theo bài: tổng lãi khoảng 28.500.000 đồng, thoát nợ sau khoảng 24 tháng. Khi mô phỏng lại hằng tháng với đúng dữ kiện của bài (lãi tính hằng tháng trên dư nợ, tổng trả 7,5 triệu/tháng): thẻ hết ở tháng 12, vay tiêu dùng hết ở tháng 16, vay xe hết ở tháng 25; tổng lãi khoảng 25,2 triệu đồng.
 
 ### 4. Phương pháp Snowball ("quả cầu tuyết lăn")
-- Trả theo số dư từ nhỏ đến lớn, bất kể lãi suất: trả tối thiểu mọi khoản, dồn tiền dư trả dứt điểm khoản nhỏ nhất; mỗi khoản biến mất tạo thêm động lực, tiền giải phóng "lăn" sang khoản tiếp theo.
-- Áp dụng:
-  - Bước 1: dồn 3.000.000 vào vay tiêu dùng (30 triệu) → 1.000.000 + 3.000.000 = 4.000.000 đồng/tháng.
-  - Bước 2: hết vay tiêu dùng, chuyển 4.000.000 sang thẻ → trả thẻ 1.500.000 + 4.000.000 = 5.500.000 đồng/tháng.
-  - Bước 3: hết thẻ, dồn toàn bộ vào vay mua xe.
-- Kết quả theo bài: tổng lãi khoảng 34.200.000 đồng; thoát nợ khoảng 26 tháng.
-- Kiểm tra lại: vay tiêu dùng hết ở tháng 9, thẻ tháng 16, vay xe tháng 25; tổng lãi khoảng 26,6 triệu đồng.
+
+Snowball trả theo số dư từ nhỏ đến lớn, bất kể lãi suất. Mỗi tháng, trả tối thiểu mọi khoản, rồi dồn tiền dư để trả dứt điểm khoản nhỏ nhất. Mỗi khoản nợ biến mất tạo thêm động lực, và số tiền được giải phóng "lăn" sang khoản tiếp theo, làm quả cầu ngày càng lớn.
+
+Áp dụng cho chị Hương:
+
+1. **Bước 1:** dồn 3.000.000 đồng vào khoản vay tiêu dùng (30 triệu, nhỏ nhất). Mỗi tháng trả khoản này 1.000.000 + 3.000.000 = 4.000.000 đồng.
+2. **Bước 2:** hết vay tiêu dùng, chuyển 4.000.000 đồng sang thẻ tín dụng. Mỗi tháng trả thẻ 1.500.000 + 4.000.000 = 5.500.000 đồng.
+3. **Bước 3:** hết thẻ, dồn toàn bộ vào khoản vay mua xe.
+
+Kết quả theo bài: tổng lãi khoảng 34.200.000 đồng, thoát nợ sau khoảng 26 tháng. Mô phỏng lại với cùng giả định: vay tiêu dùng hết ở tháng 9, thẻ hết ở tháng 16, vay xe hết ở tháng 25; tổng lãi khoảng 26,6 triệu đồng.
 
 ### 5. So sánh
 
@@ -90,19 +124,40 @@
 | Lãi Snowball | ~34,2 triệu, ~26 tháng | ~26,6 triệu, ~25 tháng |
 | Avalanche tiết kiệm | ~5,7 triệu, sớm ~2 tháng | ~1,4 triệu, cùng thời gian |
 
-- Avalanche tiết kiệm tiền hơn, là phương pháp tối ưu nhất về toán học.
-- Snowball mạnh hơn về tâm lý: thấy kết quả sớm khi một khoản được xóa hoàn toàn (trong ví dụ, sau 9 tháng so với 12 tháng), cảm giác "đã trả xong một khoản" tạo động lực, nên nhiều người kiên trì với Snowball lâu hơn.
+Bài không nêu cách tính, và các con số của bài phóng đại khoảng cách giữa hai phương pháp. Tính lại cho thấy Avalanche chỉ tiết kiệm khoảng 1,4 triệu đồng tiền lãi, và cả hai cách đều hết nợ vào khoảng tháng 25. Điều này hợp lý: khi tổng số tiền trả mỗi tháng cố định, thứ tự trả chủ yếu ảnh hưởng đến tổng lãi chứ không ảnh hưởng nhiều đến thời gian.
+
+Dù vậy, kết luận định tính của bài vẫn đúng:
+
+- **Avalanche tiết kiệm tiền hơn**, là phương pháp tối ưu nhất về mặt toán học, vì loại bỏ khoản vay lãi cao trước.
+- **Snowball mạnh hơn về tâm lý.** Người dùng thấy kết quả sớm hơn khi một khoản được xóa hoàn toàn: trong ví dụ, khoản đầu tiên biến mất sau 9 tháng với Snowball, so với 12 tháng với Avalanche. Cảm giác "đã trả xong một khoản" tạo động lực, nên nhiều người kiên trì với Snowball lâu hơn.
 
 ### 6. Nên chọn phương pháp nào
-- Chọn Avalanche nếu: có tư duy phân tích; không mất động lực khi chưa thấy kết quả ngay; các khoản vay chênh lệch lãi suất lớn (ví dụ thẻ 24% và vay xe 12%).
-- Chọn Snowball nếu: từng bỏ cuộc giữa chừng; cần động lực; lãi suất các khoản gần nhau (chênh dưới 3–4%).
-- Kết hợp: trả hết khoản nhỏ nhất trước để tạo động lực, sau đó chuyển sang ưu tiên khoản lãi cao nhất; cách này khá hiệu quả trong thực tế.
+
+Bài gợi ý cách chọn:
+
+| Chọn | Khi nào |
+|---|---|
+| Avalanche | Có tư duy phân tích; không mất động lực dù chưa thấy kết quả ngay; các khoản vay chênh lệch lãi suất lớn (ví dụ thẻ 24% và vay xe 12%) |
+| Snowball | Từng bỏ cuộc giữa chừng; cần động lực; lãi suất các khoản gần nhau (chênh dưới 3–4 điểm phần trăm) |
+| Kết hợp | Trả hết khoản nhỏ nhất trước để tạo động lực, sau đó chuyển sang ưu tiên khoản lãi cao nhất |
+
+Có thể hình dung như một chuỗi câu hỏi. Đầu tiên: chênh lệch lãi suất giữa các khoản có lớn không (ví dụ 24% so với 12%)? Nếu không, tức dưới khoảng 3–4 điểm phần trăm, chọn Snowball vì phần lãi tiết kiệm được không đáng kể. Nếu có, hỏi tiếp: bạn có kỷ luật và không cần thấy kết quả sớm không? Nếu có thì chọn Avalanche; nếu không thì chọn cách kết hợp: xóa một khoản nhỏ trước, rồi chuyển sang khoản lãi cao nhất. Bài cho rằng cách kết hợp khá hiệu quả trong thực tế.
 
 ### 7. Nguyên tắc không được bỏ qua và việc cần làm
-- Không bao giờ trả thấp hơn mức tối thiểu của bất kỳ khoản nào: phí phạt trả chậm và lãi phạt có thể xóa sạch nỗ lực tiết kiệm.
-- Hạn chế phát sinh nợ mới, đặc biệt nợ thẻ tín dụng.
-- Hành động: (1) liệt kê mọi khoản nợ với số dư, lãi suất, mức tối thiểu; (2) tính số tiền còn dư sau các khoản bắt buộc; (3) chọn Avalanche hoặc Snowball; (4) xem lại kế hoạch mỗi 3 tháng.
-- FAQ: Avalanche về toán học luôn tiết kiệm lãi hơn; Snowball tốn thêm một phần lãi nhưng giúp duy trì kế hoạch; khi chênh lệch lãi suất dưới khoảng 3–4%, khoản lãi tiết kiệm giữa hai cách không đáng kể và Snowball thường phù hợp hơn.
+
+Hai nguyên tắc áp dụng cho cả hai phương pháp:
+
+- **Không bao giờ trả thấp hơn mức tối thiểu của bất kỳ khoản nợ nào.** Phí phạt trả chậm và lãi phạt có thể xóa sạch mọi nỗ lực tiết kiệm lãi.
+- **Hạn chế phát sinh nợ mới**, đặc biệt là nợ thẻ tín dụng. Vừa trả vừa vay thêm thì không phương pháp nào có tác dụng.
+
+Bốn việc cần làm:
+
+1. Liệt kê mọi khoản nợ với số dư, lãi suất và mức trả tối thiểu.
+2. Tính số tiền còn dư sau các khoản bắt buộc.
+3. Chọn Avalanche hoặc Snowball (hoặc kết hợp).
+4. Xem lại kế hoạch mỗi 3 tháng.
+
+Phần hỏi đáp của bài tóm lại: về mặt toán học, Avalanche luôn tiết kiệm lãi hơn; Snowball tốn thêm một phần lãi nhưng giúp người ta duy trì kế hoạch; và khi chênh lệch lãi suất giữa các khoản dưới khoảng 3–4%, khoản lãi tiết kiệm giữa hai cách không đáng kể, nên Snowball thường phù hợp hơn.
 
 ## Thuật ngữ
 
