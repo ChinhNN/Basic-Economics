@@ -83,34 +83,104 @@
 2. VAT lý tưởng khác VAT thực tế ra sao?
 3. VAT sẽ đi về đâu?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Thuế giá trị gia tăng (value-added tax, VAT).** Thuế đánh vào tiêu dùng, được thu ở mọi khâu của chuỗi sản xuất và phân phối, nhưng nhờ cơ chế khấu trừ, gánh nặng cuối cùng chỉ rơi vào người tiêu dùng cuối. Ví dụ trong bài: một hộp sữa chua giá 1,50 USD đã gồm VAT 20% thì người mua trả 0,25 USD tiền thuế. Đây là sắc thuế mà cả bài giải thích.
+
+**Thuế doanh thu và thuế chồng thuế (turnover tax, cascading).** Thuế doanh thu đánh trên toàn bộ giá trị mỗi lần hàng được bán, ở mọi khâu, không cho trừ phần thuế đã trả ở khâu trước. Kết quả là thuế bị tính trên cả phần thuế cũ, gọi là thuế chồng thuế. Ví dụ minh hoạ: thuế doanh thu 10% ở ba khâu; khâu một bán 100, thuế 10, khâu hai bán 210 (gồm 110 mua vào), thuế 21, trong đó có phần thuế tính trên 10 đồng thuế của khâu một. Hàng đi qua càng nhiều khâu thì càng bị đánh thuế nặng, nên doanh nghiệp bị đẩy tới việc gộp các khâu lại chỉ để né thuế. VAT ra đời để sửa méo mó này.
+
+**VAT đầu vào, VAT đầu ra và cơ chế khấu trừ (input VAT, output VAT, crediting).** VAT đầu ra là VAT doanh nghiệp thu của người mua khi bán hàng; VAT đầu vào là VAT doanh nghiệp đã trả khi mua nguyên liệu, hàng hoá. Doanh nghiệp chỉ nộp phần chênh lệch: đầu ra trừ đầu vào. Ví dụ trong bài: cửa hàng thu 0,25 USD VAT đầu ra, đã trả 0,20 USD VAT đầu vào, nên chỉ nộp 0,05 USD. Đây là cơ chế làm VAT khác hẳn thuế doanh thu.
+
+**Tự thực thi (self-enforcement).** Vì muốn được khấu trừ VAT đầu vào, mỗi doanh nghiệp có động cơ đòi hoá đơn của người bán cho mình; hoá đơn đó lại là bằng chứng để cơ quan thuế thu VAT đầu ra của người bán. Ví dụ minh hoạ: cửa hàng sữa chua sẽ đòi nhà máy xuất hoá đơn ghi 0,20 USD VAT, vì không có hoá đơn thì cửa hàng phải nộp đủ 0,25 USD thay vì 0,05 USD. Bài coi đây là điểm hấp dẫn then chốt của VAT.
+
+**Nguyên tắc điểm đến và thuế suất 0 cho xuất khẩu (destination basis, zero-rating).** VAT được đánh ở nơi hàng hoá được tiêu dùng, không phải nơi sản xuất. Vì vậy hàng nhập khẩu phải chịu VAT, còn hàng xuất khẩu chịu thuế suất 0. Ví dụ minh hoạ: một doanh nghiệp xuất khẩu áo đã trả 50 triệu đồng VAT đầu vào khi mua vải, nhưng bán ra nước ngoài với thuế suất 0 nên không có VAT đầu ra; nhà nước phải hoàn lại 50 triệu đồng. Khái niệm này giải thích vì sao hoàn thuế là một phần không thể thiếu của VAT.
+
+**Cơ sở thuế rộng và một thuế suất (broad base, single rate).** Cơ sở thuế là tập hợp những thứ bị đánh thuế. Một VAT "lý tưởng" đánh trên mọi tiêu dùng cuối với cùng một thuế suất, thường 15–20%. Ví dụ minh hoạ: nếu sữa chịu 5% còn nước ngọt chịu 20%, một số người sẽ mua sữa thay nước ngọt chỉ vì thuế; khi cả hai cùng chịu 20%, lựa chọn của người mua không bị thuế làm lệch. Bài so sánh thiết kế lý tưởng này với thực tế đầy miễn giảm.
+
+**Ngưỡng đăng ký (registration threshold).** Mức doanh thu mà dưới đó doanh nghiệp không phải đăng ký và nộp VAT. Ví dụ minh hoạ: nếu ngưỡng là 100 triệu đồng một năm, một quán nước nhỏ doanh thu 60 triệu đồng không phải kê khai VAT. Bài coi đây là một miễn trừ hợp lý vì chi phí tuân thủ của doanh nghiệp siêu nhỏ cao so với số thuế thu được.
+
+**Thuế tiêu thụ đặc biệt (excise).** Thuế đánh riêng vào một số mặt hàng cụ thể như rượu, thuốc lá, nhiên liệu, thường nhằm hạn chế việc tiêu dùng chúng. Ví dụ minh hoạ: một bao thuốc lá chịu VAT như hàng hoá khác, cộng thêm thuế tiêu thụ đặc biệt riêng. Bài khuyên dùng loại thuế này, không dùng thuế suất VAT khác nhau, khi muốn điều chỉnh hành vi.
+
+## Nội dung chi tiết
 
 ### 1. Lịch sử và quy mô
 
-- Hai nghìn năm trước, hoàng đế Trung Quốc xây Vạn Lý Trường Thành một phần bằng thuế muối, có từ thế kỷ 3 TCN, một trong những ví dụ sớm nhất về thuế lên hàng tiêu dùng. Lịch sử đi qua thuế tiêu thụ đặc biệt lên chè, thuốc lá đến thuế doanh thu thế kỷ 20. Tương đương hiện đại là VAT.
-- VAT là nguồn thu chính của hơn 160 nước áp dụng, trung bình hơn 30% tổng thuế (ngoại lệ đáng chú ý: Mỹ không có VAT). Theo GDP, thu từ 4% ở nước thu nhập thấp đến hơn 7% ở nước tiên tiến. Là nguồn thu dễ thấy, VAT hứng nhiều phê phán, đôi khi công bằng đôi khi không, vì thường bị hiểu sai.
+Thuế đánh vào hàng tiêu dùng có lịch sử rất lâu. Hai nghìn năm trước, các hoàng đế Trung Quốc xây Vạn Lý Trường Thành một phần bằng tiền thu từ thuế muối, loại thuế có từ thế kỷ 3 trước Công nguyên và là một trong những ví dụ sớm nhất về thuế lên hàng tiêu dùng. Lịch sử sau đó đi qua các loại thuế tiêu thụ đặc biệt đánh vào chè, thuốc lá, rồi tới thuế doanh thu ở thế kỷ 20. Phiên bản hiện đại của dòng thuế này là thuế giá trị gia tăng (VAT).
+
+Quy mô của VAT ngày nay:
+
+| Chỉ tiêu | Con số |
+|---|---|
+| Số nước áp dụng | hơn 160 nước |
+| Tỷ trọng trong tổng thu thuế (trung bình) | hơn 30% |
+| Số thu theo GDP | từ 4% GDP ở nước thu nhập thấp đến hơn 7% GDP ở nước tiên tiến |
+| Ngoại lệ đáng chú ý | Mỹ không có VAT |
+
+Vì là nguồn thu lớn và dễ thấy (in ngay trên hoá đơn), VAT hứng nhiều phê phán. Theo bài, có khi phê phán công bằng, có khi không, vì VAT thường bị hiểu sai.
 
 ### 2. Cách vận hành
 
-- Mua hàng ở cửa hàng, hoá đơn cho thấy VAT cộng vào giá bán net. Nhưng VAT không chỉ thu ở bán cho người tiêu dùng cuối: áp lên mọi giao dịch trước đó giữa doanh nghiệp trong chuỗi cung ứng, giống thuế doanh thu. Không điều chỉnh sẽ gây thuế chồng thuế, méo mó kinh tế lớn.
-- **Cơ chế khấu trừ:** doanh nghiệp được trừ VAT trả trên đầu vào (VAT đầu vào) khỏi VAT thu trên doanh số (VAT đầu ra). VAT vì thế chỉ "dính" ở người tiêu dùng cuối.
-- **Ví dụ VAT 20%:** cửa hàng bán sữa chua 1,50 USD gồm VAT. Giá net 1,25 USD, VAT 0,25 USD. Cửa hàng mua từ nhà máy giá net 1,00 USD, trả 1,20 USD gồm 0,20 USD VAT. Khi nộp VAT thu từ khách, cửa hàng dùng 0,20 USD VAT đầu vào trên hoá đơn mua làm khấu trừ, chỉ nộp 0,05 USD. Nhà máy nộp 0,20 USD, trừ khi mua sữa từ nông dân có tính VAT thì cũng được khấu trừ tương tự.
-- Nguyên tắc tính và khấu trừ trải dài toàn chuỗi. Nhà nước cuối cùng nhận 0,25 USD từ sữa chua, nhưng từng phần nhỏ được nộp lần lượt ở mỗi khâu. Mọi doanh nghiệp là đại lý thu thuế cho nhà nước.
-- Có vẻ cồng kềnh, nhưng thu thuế dọc chuỗi là điểm hấp dẫn then chốt: thúc đẩy tuân thủ tự nguyện vì mỗi doanh nghiệp có động lực nhận hoá đơn từ người bán để khấu trừ VAT trên mua hàng. Cơ chế tự thực thi này giảm rủi ro trốn thuế.
-- **Nguyên tắc điểm đến:** VAT đánh nơi người tiêu dùng cư trú, qua cơ chế điều chỉnh biên giới đưa nhập khẩu vào và loại xuất khẩu khỏi cơ sở thuế (thuế suất 0 cho xuất khẩu). Bảo đảm tất cả và chỉ tiêu dùng nội địa bị đánh, dù mua trong nước hay nước ngoài.
-- Cơ chế hoá đơn khấu trừ tạo nhu cầu hoàn thuế, nhất là cho doanh nghiệp xuất khẩu có khấu trừ đầu vào lớn. Hoàn thuế thường khó quản lý ở nước đang phát triển, nhưng không hoàn gây khó dòng tiền doanh nghiệp và ngăn đầu tư.
+**VAT thu ở mọi khâu.** Khi mua hàng ở cửa hàng, hoá đơn cho thấy VAT được cộng vào giá bán chưa thuế (giá net). Nhưng VAT không chỉ được thu ở lần bán cuối cùng cho người tiêu dùng. Nó được áp lên mọi giao dịch trước đó giữa các doanh nghiệp trong chuỗi cung ứng, giống như thuế doanh thu. Nếu không có điều chỉnh gì, cách thu này sẽ gây ra **thuế chồng thuế**: mỗi khâu lại bị đánh thuế trên cả phần thuế đã trả ở khâu trước, gây méo mó kinh tế lớn.
+
+**Cơ chế khấu trừ.** Điều chỉnh đó là: doanh nghiệp được trừ phần VAT đã trả khi mua đầu vào (**VAT đầu vào**) khỏi phần VAT thu được khi bán hàng (**VAT đầu ra**), và chỉ nộp phần chênh lệch. Nhờ vậy VAT chỉ "dính" lại ở người tiêu dùng cuối, người không được khấu trừ gì.
+
+**Ví dụ hộp sữa chua, VAT 20%.**
+
+| Khâu | Giá chưa VAT | VAT trong giá | Giá gồm VAT | Khấu trừ đầu vào | Số VAT phải nộp |
+|---|---|---|---|---|---|
+| Nhà máy bán cho cửa hàng | 1,00 USD | 0,20 USD | 1,20 USD | VAT trả nông dân khi mua sữa, nếu có | 0,20 USD (trừ phần đầu vào nếu có) |
+| Cửa hàng bán cho người tiêu dùng | 1,25 USD | 0,25 USD | 1,50 USD | 0,20 USD | 0,25 − 0,20 = 0,05 USD |
+| **Tổng nhà nước nhận** | | | | | **0,25 USD** |
+
+Diễn giải: cửa hàng bán sữa chua giá 1,50 USD đã gồm VAT, tức giá net 1,25 USD và VAT 0,25 USD. Cửa hàng đã mua sữa chua từ nhà máy với giá net 1,00 USD, trả tổng cộng 1,20 USD, trong đó 0,20 USD là VAT. Khi nộp số VAT thu từ khách, cửa hàng dùng 0,20 USD VAT đầu vào ghi trên hoá đơn mua hàng để khấu trừ, nên chỉ nộp 0,05 USD. Nhà máy nộp 0,20 USD, trừ khi nhà máy mua sữa từ nông dân có tính VAT, khi đó nhà máy cũng được khấu trừ tương tự.
+
+Nguyên tắc tính và khấu trừ này trải dài suốt chuỗi. Cuối cùng nhà nước nhận đủ 0,25 USD từ hộp sữa chua, đúng bằng 20% giá net bán cho người tiêu dùng, nhưng số tiền đó được nộp thành từng phần nhỏ, lần lượt ở mỗi khâu. Nói cách khác, **mọi doanh nghiệp đều là đại lý thu thuế cho nhà nước**.
+
+**Tự thực thi.** Cách thu dọc chuỗi trông có vẻ cồng kềnh, nhưng đó lại là điểm hấp dẫn then chốt của VAT. Nó thúc đẩy tuân thủ tự nguyện, vì mỗi doanh nghiệp có động lực đòi hoá đơn từ người bán để được khấu trừ VAT trên hàng mua vào. Hoá đơn đó đồng thời là bằng chứng cho cơ quan thuế biết người bán đã thu bao nhiêu VAT. Cơ chế tự thực thi này làm giảm rủi ro trốn thuế.
+
+**Nguyên tắc điểm đến.** VAT được đánh ở nơi người tiêu dùng cư trú. Điều này được thực hiện qua cơ chế điều chỉnh biên giới:
+
+- hàng **nhập khẩu** được đưa vào cơ sở thuế, tức phải chịu VAT;
+- hàng **xuất khẩu** được loại khỏi cơ sở thuế, bằng cách áp thuế suất 0.
+
+Nhờ vậy, tất cả và chỉ tiêu dùng trong nước bị đánh VAT, dù hàng được mua trong nước hay từ nước ngoài.
+
+**Hoàn thuế.** Hệ quả của cơ chế khấu trừ và thuế suất 0 cho xuất khẩu là phát sinh nhu cầu **hoàn thuế**: doanh nghiệp xuất khẩu có VAT đầu vào lớn nhưng VAT đầu ra bằng 0, nên nhà nước phải trả lại tiền cho họ. Ở các nước đang phát triển, việc hoàn thuế thường khó quản lý. Nhưng nếu không hoàn, doanh nghiệp bị kẹt dòng tiền và không dám đầu tư.
 
 ### 3. VAT lý tưởng và thực tế
 
-- VAT lý tưởng có cơ sở rộng gồm mọi tiêu dùng cuối và một thuế suất, thường 15–20%. Người tiêu dùng không có động lực chuyển sang hàng hoá dịch vụ thuế nhẹ hơn mà họ ít thích hơn. Méo mó duy nhất là giữa hàng mua trên thị trường chính thức và hàng tự sản xuất tại nhà, nhưng thiết kế lại VAT không làm gì được nhiều.
-- Mục tiêu ngoài thu ngân sách không phù hợp với ưu đãi VAT. Miễn VAT thực phẩm để hỗ trợ hộ nghèo tốn thu lớn vì người giàu cũng mua thực phẩm, thường mua nhiều hơn. Hỗ trợ người nghèo hiệu quả hơn bằng kết hợp thuế thu nhập luỹ tiến và chuyển tiền mặt. Tương tự, điều chỉnh hành vi uống rượu, hút thuốc, gây ô nhiễm không nên qua phân biệt thuế suất VAT; tốt hơn là thuế tiêu thụ đặc biệt riêng cho rượu, thuốc lá, phát thải.
-- Hầu hết VAT xa thiết kế sách giáo khoa. Các nước dùng nhiều thuế suất giảm, miễn thuế, chương trình đặc biệt. Một số để quản lý đơn giản hơn, ví dụ ngưỡng đăng ký theo doanh thu để miễn doanh nghiệp siêu nhỏ khỏi VAT và chi phí tuân thủ. Đa số miễn giảm nhằm cải thiện tác động phân phối, nhưng xói mòn mục tiêu cốt lõi là thu ngân sách, cả trực tiếp lẫn gián tiếp qua tăng chi phí thu và thường mở đường gian lận. Cải cách bỏ ưu đãi thường gặp phản đối dữ dội từ nhóm vận động hành lang có lợi ích.
+**Thiết kế lý tưởng.** Một VAT lý tưởng có hai đặc điểm: cơ sở thuế rộng, bao gồm mọi tiêu dùng cuối, và một thuế suất duy nhất, thường trong khoảng 15–20%. Khi đó người tiêu dùng không có động lực chuyển sang những hàng hoá, dịch vụ chịu thuế nhẹ hơn mà họ vốn ít thích hơn. Méo mó duy nhất còn lại là giữa hàng mua trên thị trường chính thức và hàng tự làm ở nhà (ví dụ tự nấu ăn thay vì ăn nhà hàng), và việc thiết kế lại VAT cũng không làm gì được nhiều với méo mó này.
+
+**VAT không hợp cho các mục tiêu khác ngoài thu ngân sách.** Bài phân tích hai trường hợp:
+
+| Mục tiêu | Cách hay dùng | Vấn đề | Cách tốt hơn theo bài |
+|---|---|---|---|
+| Hỗ trợ hộ nghèo | Miễn VAT cho thực phẩm | Tốn rất nhiều tiền thuế, vì người giàu cũng mua thực phẩm, thường còn mua nhiều hơn người nghèo; phần lớn lợi ích của việc miễn thuế rơi vào người không cần | Kết hợp thuế thu nhập luỹ tiến và chuyển tiền mặt cho người nghèo |
+| Điều chỉnh hành vi (uống rượu, hút thuốc, gây ô nhiễm) | Đặt thuế suất VAT khác nhau | VAT không phải công cụ được thiết kế cho việc này | Thuế tiêu thụ đặc biệt riêng cho rượu, thuốc lá, phát thải |
+
+**Thực tế khác xa sách giáo khoa.** Hầu hết các hệ thống VAT trên thế giới xa rời thiết kế lý tưởng. Các nước dùng nhiều thuế suất ưu đãi, nhiều khoản miễn thuế và các chương trình đặc biệt. Bài phân biệt hai loại:
+
+- **Miễn giảm vì quản lý:** một số khoản nhằm làm việc quản lý đơn giản hơn, ví dụ ngưỡng đăng ký theo doanh thu để miễn cho doanh nghiệp siêu nhỏ khỏi VAT và khỏi chi phí tuân thủ. Loại này hợp lý.
+- **Miễn giảm vì phân phối:** đa số các khoản miễn giảm nhằm cải thiện tác động phân phối (giúp người thu nhập thấp). Nhưng chúng làm xói mòn mục tiêu cốt lõi là thu ngân sách, theo cả hai cách: **trực tiếp** (mất số thu) và **gián tiếp** (tăng chi phí thu thuế, và thường mở đường cho gian lận, vì càng nhiều thuế suất thì càng có chỗ để khai sai mặt hàng).
+
+Cải cách để bỏ các ưu đãi này thường gặp phản đối dữ dội từ những nhóm vận động hành lang đang được hưởng lợi.
 
 ### 4. VAT tiếp theo
 
-- Các nước nhìn chung ứng phó tốt với thách thức mới. Với thương mại điện tử xuyên biên giới, đã có hình thức đăng ký VAT đơn giản cho người bán không cư trú. Để đánh thuế dịch vụ số, nền tảng trực tuyến trở thành người thu VAT.
-- Công nghệ số mới cũng mang cơ hội. Blockchain và tiền số trong tương lai có thể cho cơ quan thuế thông tin về giao dịch dọc toàn chuỗi, khiến VAT nhiều giai đoạn không còn cần thiết. Nếu giao dịch gắn được với thông tin cá nhân, thuế tiêu dùng có thể cá nhân hoá và cạnh tranh với thuế thu nhập cá nhân như công cụ tái phân phối hiệu quả.
-- VAT chịu được toàn cầu hoá và tỷ trọng thu tăng trong những thập kỷ gần đây. Mới áp dụng: Angola, Bahrain, Bangladesh, Oman, Saudi Arabia, Suriname, UAE. Sắp áp dụng: Bhutan, Kuwait, Liberia, Qatar, Timor-Leste. Dù hình thức hiện tại hay sửa đổi, tương lai của VAT như công cụ thu ngân sách quan trọng được bảo đảm.
+**Thách thức mới đã được ứng phó.** Theo bài, các nước nhìn chung đã ứng phó tốt với những thách thức mới:
+
+- Với **thương mại điện tử xuyên biên giới**, đã có hình thức đăng ký VAT đơn giản cho người bán không cư trú ở nước đó.
+- Với **dịch vụ số**, các nền tảng trực tuyến được giao vai trò thu VAT thay cho từng người bán.
+
+**Cơ hội từ công nghệ số.** Công nghệ mới còn mang lại cơ hội. Trong tương lai, blockchain và tiền số có thể cho cơ quan thuế thông tin về giao dịch dọc toàn bộ chuỗi cung ứng. Khi đó việc thu VAT qua nhiều giai đoạn (vốn tồn tại chủ yếu để tạo dấu vết hoá đơn) có thể không còn cần thiết. Xa hơn, nếu giao dịch gắn được với thông tin của từng cá nhân, thuế tiêu dùng có thể được **cá nhân hoá** (ví dụ người thu nhập thấp chịu thuế suất thấp hơn), và khi đó nó có thể cạnh tranh với thuế thu nhập cá nhân như một công cụ tái phân phối hiệu quả.
+
+**VAT vẫn mở rộng.** VAT đã chịu được toàn cầu hoá, và tỷ trọng của nó trong tổng thu ngân sách đã tăng trong những thập kỷ gần đây. Các nước mới áp dụng và sắp áp dụng:
+
+| Đã áp dụng gần đây | Sắp áp dụng |
+|---|---|
+| Angola, Bahrain, Bangladesh, Oman, Saudi Arabia, Suriname, UAE | Bhutan, Kuwait, Liberia, Qatar, Timor-Leste |
+
+Bài kết luận rằng dù ở hình thức hiện tại hay một hình thức được sửa đổi, tương lai của VAT như một công cụ thu ngân sách quan trọng là chắc chắn.
 
 ## Thuật ngữ
 

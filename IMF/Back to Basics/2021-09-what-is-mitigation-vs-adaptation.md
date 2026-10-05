@@ -91,35 +91,113 @@
 2. Định giá carbon vận hành ra sao và cần mức nào?
 3. Vì sao thích ứng đáng đầu tư nhưng thiếu tiền?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Giảm nhẹ (mitigation).** Các biện pháp xử lý gốc của biến đổi khí hậu: làm chậm hoặc dừng việc thải khí nhà kính từ than, dầu, khí. Ví dụ minh hoạ: thay một nhà máy điện than bằng một trang trại điện gió cùng công suất, lượng CO2 thải ra mỗi năm giảm mạnh. Trong ẩn dụ chiếc thuyền thủng của bài, giảm nhẹ là **bịt lỗ thủng**.
+
+**Thích ứng (adaptation).** Các biện pháp giúp người dân và chính phủ chịu đựng và giảm bớt thiệt hại do biến đổi khí hậu đã xảy ra: đê biển, hệ thống nước, giống cây chịu hạn, an sinh sau thiên tai. Ví dụ minh hoạ: nâng cao một tuyến đê để một trận triều cường không còn làm ngập khu dân cư. Trong ẩn dụ của bài, thích ứng là **tát nước** ra khỏi thuyền.
+
+**Thất bại thị trường và trợ cấp ngầm (market failure, implicit subsidy).** Thất bại thị trường xảy ra khi giá không phản ánh đủ mọi chi phí. Người đốt than, dầu không phải trả tiền cho thiệt hại mà khói thải gây ra cho môi trường và cho người khác; phần chi phí không phải trả ấy giống như một khoản trợ cấp ngầm. Ví dụ minh hoạ: nếu điện than tốn 5 xu mỗi kWh để sản xuất nhưng gây thêm 3 xu thiệt hại môi trường mà không ai trả, thì điện than trông rẻ hơn thực tế 3 xu. Đây là lý do bài cho rằng việc giảm phát thải không tự xảy ra.
+
+**Định giá carbon (carbon pricing).** Buộc người gây phát thải trả tiền cho mỗi tấn CO2 họ thải thêm vào không khí, để giá của nhiên liệu hoá thạch phản ánh cả chi phí ô nhiễm. Ví dụ minh hoạ: với giá carbon 75 USD/tấn, một công ty thải 1.000 tấn CO2 mỗi năm phải trả 75.000 USD. Đây là công cụ chính của mặt trận giảm nhẹ trong bài.
+
+**Thuế carbon và cap-and-trade.** Hai cách định giá carbon. Thuế carbon đánh trực tiếp lên nhiên liệu theo lượng carbon chứa trong đó: nhà nước ấn định **giá**, lượng phát thải tự điều chỉnh. Cap-and-trade đặt một **trần** cho tổng lượng phát thải mỗi năm và chia thành hạn ngạch có thể mua bán: nhà nước ấn định **lượng**, giá do thị trường quyết định. Ví dụ minh hoạ: trần là 100 triệu tấn; doanh nghiệp giảm được phát thải thì bán hạn ngạch thừa cho doanh nghiệp khó giảm. Bài cho rằng thuế carbon là cách hiệu quả nhất để thay đổi hành vi.
+
+**Chuyển đổi công bằng (just transition).** Dùng một phần nguồn thu từ thuế carbon để bù cho hộ thu nhập thấp phải trả giá năng lượng cao hơn, và hỗ trợ những người đang sống nhờ than, dầu. Ví dụ minh hoạ: nếu giá điện tăng làm một hộ nghèo tốn thêm 50.000 đồng mỗi tháng, nhà nước trả lại khoản đó bằng tiền mặt. Khái niệm này quan trọng vì không có nó, định giá carbon rất khó được chấp nhận về chính trị.
+
+**Không gian tài khoá (fiscal space).** Dư địa ngân sách mà chính phủ có thể dùng để chi thêm mà không đẩy nợ lên mức nguy hiểm. Ví dụ minh hoạ: một nước đã dành phần lớn nguồn thu để trả lãi nợ thì gần như không còn tiền để xây đê. Bài dùng khái niệm này để giải thích vì sao nước nghèo khó đầu tư cho thích ứng.
+
+**Phần bù rủi ro (risk premium).** Phần lãi suất cộng thêm mà người cho vay đòi khi thấy khoản vay rủi ro hơn. Ví dụ minh hoạ: nếu một nước an toàn vay được với lãi 3%, một nước hay bị bão lũ tàn phá có thể phải trả 7%; 4 điểm phần trăm chênh lệch là phần bù rủi ro. Đây là mắt xích trong "vòng luẩn quẩn" của bài: sốc khí hậu làm vay đắt hơn, vay đắt làm khó thích ứng hơn.
+
+## Nội dung chi tiết
 
 ### 1. Thuyền thủng
 
-- Thuyền thủng: để không chìm phải xử lý nguồn gốc, tức bịt lỗ. Nhưng nước đã tràn vào thì phải lấy xô tát. Để nổi và tránh hư thuyền, phải làm cả hai cùng lúc.
-- Với biến đổi khí hậu, nhân loại cũng phải hành động trên hai mặt trận. Giảm nhẹ là xử lý vấn đề gốc bằng làm chậm hoặc dừng tăng phát thải hoá thạch, thứ có thể làm nhiệt độ Trái Đất tăng không đảo ngược và thảm khốc. Thích ứng giúp người dân và chính phủ chịu đựng và giảm thiểu tàn phá của biến đổi khí hậu đã hiện diện.
+Bài mở đầu bằng một hình ảnh. Một chiếc thuyền bị thủng: để không chìm, phải xử lý nguồn gốc của vấn đề, tức là bịt lỗ thủng. Nhưng nước đã tràn vào thuyền rồi, nên đồng thời phải lấy xô tát nước ra. Muốn thuyền nổi và không bị hư hại, phải làm **cả hai việc cùng lúc**: bịt lỗ mà không tát thì thuyền vẫn chìm vì nước đã vào; tát mà không bịt thì nước cứ tiếp tục tràn vào.
+
+Với biến đổi khí hậu, nhân loại cũng phải hành động trên hai mặt trận như vậy:
+
+| | Giảm nhẹ (mitigation) | Thích ứng (adaptation) |
+|---|---|---|
+| Tương ứng với | Bịt lỗ thủng | Tát nước |
+| Xử lý | Nguồn gốc của vấn đề | Hậu quả đã xảy ra |
+| Nội dung | Làm chậm hoặc dừng tăng phát thải từ nhiên liệu hoá thạch | Giúp người dân và chính phủ chịu đựng và giảm thiểu tàn phá của biến đổi khí hậu đã hiện diện |
+| Nếu không làm | Nhiệt độ Trái Đất có thể tăng tới mức không đảo ngược được và gây thảm hoạ | Thiệt hại từ thời tiết cực đoan ngày càng lớn |
 
 ### 2. Giảm nhẹ
 
-- Nhà khoa học và kinh tế phần lớn đồng thuận về việc phải làm trong 30 năm tới. Thách thức của nhà hoạch định là khuyến khích và lan toả công nghệ sạch cho xe cộ, sản xuất điện, và cuối cùng làm dùng hoá thạch kém lợi về kinh tế. Đây là chỗ của định giá carbon.
-- Giảm phát thải từ đốt than, dầu, khí không tự xảy ra. Như khi mua sắm chọn món rẻ hơn trong hai món tương tự, người ta ít chọn hoá thạch có thêm chi phí môi trường nếu lựa chọn sạch rẻ hơn.
-- Định giá carbon là tính chi phí thải thêm một tấn CO2 vào không khí. Hoá thạch tạo việc làm và thương mại hiện tại nhưng hưởng trợ cấp ngầm: người dùng không phải trả cho thiệt hại môi trường. Kinh tế học gọi là thất bại thị trường, khi giá không phản ánh đủ mọi chi phí. Công ty điện chọn giữa trang trại gió và nhà máy than phải tính chi phí ô nhiễm bên cạnh chi phí hai công nghệ.
-- **Thuế carbon:** thuế trực tiếp lên than, sản phẩm dầu, khí và hoá thạch khác theo hàm lượng carbon. Chuyển từ nhà cung cấp sang người tiêu dùng qua giá điện, xăng, dầu sưởi và sản phẩm dịch vụ dựa vào hoá thạch cao hơn.
-- **Cap-and-trade:** đặt hạn ngạch cho tổng phát thải mỗi năm, tạo thị trường để hạn ngạch được mua bán từ ngành ít carbon sang ngành nhiều carbon.
-- Hình thức tốt nhất tuỳ hoàn cảnh từng nước, nhưng thuế carbon được xác định là cách hiệu quả nhất để thay đổi hành vi. Thuế carbon hấp dẫn vì gắn được vào thuế xăng và nhiên liệu sẵn có, giúp nước đạt cam kết giảm phát thải theo Thoả thuận Paris 2015, và thêm nguồn thu cho chính phủ để cắt thuế nặng nề hoặc tài trợ phát triển.
-- Ngoài định giá carbon trực tiếp, biện pháp quy định có thể giảm phát thải, như tiêu chuẩn danh mục tái tạo bắt buộc sản xuất một lượng năng lượng từ gió, mặt trời. Nhưng định giá carbon có lợi thế hơn vì ép thay đổi hành vi nhanh và rộng hơn về cả loại và lượng năng lượng: để tiết kiệm tiền, nhà cung cấp điện, nhà sản xuất, người tiêu dùng sẽ tìm nguồn sạch rẻ hơn, áp dụng công nghệ hiệu quả hơn, giảm cầu năng lượng.
-- **Mục tiêu:** giảm phát thải đủ để giữ ấm lên toàn cầu ở 1,5–2°C so với tiền công nghiệp, ngưỡng của thay đổi có thể không đảo ngược về mực nước biển, thời tiết cực đoan, nguồn nước. Sàn giá carbon quốc tế ngày càng được xem là cách để các nước thải CO2 lớn nhất giảm đủ để dưới 2°C. Hành động phối hợp giảm lo ngại ngành thâm dụng năng lượng hay xuất khẩu của một nước mất cạnh tranh, hoặc doanh nghiệp bỏ sang nước giá carbon thấp hoặc không có.
-- IMF thấy cần giá 75 USD/tấn CO2 toàn cầu đến 2030 để giữ 2°C. Còn xa: 4/5 phát thải toàn cầu chưa được định giá, giá trung bình chỉ 3 USD/tấn. Hành động chậm có lý do: chi phí thực và chi phí chính trị. Ở 75 USD/tấn, trong 10 năm giá điện tăng trung bình 45%, xăng 15%.
-- **Chuyển đổi công bằng:** thu từ thuế carbon cần để bù hộ thu nhập thấp chật vật với chi phí năng lượng cao hơn, và hỗ trợ người đang sống nhờ than, dầu và hoá thạch khác.
+**Vì sao cần định giá carbon.** Theo bài, các nhà khoa học và kinh tế phần lớn đã đồng thuận về những việc phải làm trong 30 năm tới. Thách thức của nhà hoạch định chính sách là khuyến khích và lan toả công nghệ sạch cho xe cộ và cho sản xuất điện, và cuối cùng làm cho việc dùng nhiên liệu hoá thạch trở nên kém lợi về kinh tế. Đây là chỗ của định giá carbon.
+
+Việc giảm phát thải từ đốt than, dầu, khí không tự xảy ra. Bài so sánh với việc đi mua sắm: giữa hai món hàng tương tự, người ta thường chọn món rẻ hơn. Tương tự, người ta sẽ ít chọn nhiên liệu hoá thạch (vốn có thêm chi phí môi trường) nếu lựa chọn sạch rẻ hơn. Vấn đề là hiện nay nhiên liệu hoá thạch trông rẻ hơn thực tế.
+
+Lý do là nhiên liệu hoá thạch, dù đang tạo ra việc làm và thương mại, được hưởng một **trợ cấp ngầm**: người dùng không phải trả tiền cho thiệt hại môi trường mà họ gây ra. Kinh tế học gọi đây là **thất bại thị trường**, khi giá không phản ánh đủ mọi chi phí. **Định giá carbon** sửa thất bại này bằng cách tính chi phí của việc thải thêm một tấn CO2 vào không khí. Ví dụ của bài: một công ty điện khi chọn giữa xây trang trại điện gió hay nhà máy điện than phải tính chi phí ô nhiễm, bên cạnh chi phí của bản thân hai công nghệ đó.
+
+**Hai cách định giá carbon:**
+
+| Cách | Cơ chế | Tác động |
+|---|---|---|
+| **Thuế carbon** | Thuế trực tiếp lên than, các sản phẩm dầu, khí và các nhiên liệu hoá thạch khác, tính theo hàm lượng carbon | Chi phí được chuyển từ nhà cung cấp sang người tiêu dùng qua giá điện, xăng, dầu sưởi và giá các sản phẩm, dịch vụ dựa nhiều vào nhiên liệu hoá thạch |
+| **Cap-and-trade** (hạn ngạch và mua bán) | Đặt trần cho tổng lượng phát thải mỗi năm; tạo thị trường để hạn ngạch phát thải được mua bán | Hạn ngạch chảy từ ngành ít carbon sang ngành nhiều carbon |
+
+Hình thức tốt nhất tuỳ vào hoàn cảnh từng nước, nhưng bài xác định **thuế carbon là cách hiệu quả nhất** để thay đổi hành vi, với ba lý do:
+
+1. Nó gắn được vào các loại thuế xăng và thuế nhiên liệu đã có sẵn, nên dễ quản lý.
+2. Nó giúp các nước đạt cam kết giảm phát thải theo Thoả thuận Paris 2015.
+3. Nó tạo thêm nguồn thu cho chính phủ, có thể dùng để cắt giảm các loại thuế gây nặng nề cho nền kinh tế hoặc để tài trợ phát triển.
+
+**So với biện pháp quy định.** Ngoài định giá carbon trực tiếp, chính phủ còn có thể dùng quy định để giảm phát thải, chẳng hạn tiêu chuẩn danh mục tái tạo, bắt buộc phải sản xuất một lượng năng lượng nhất định từ gió, mặt trời. Nhưng bài cho rằng định giá carbon có lợi thế hơn, vì nó ép thay đổi hành vi **nhanh hơn và rộng hơn**, cả về **loại** lẫn **lượng** năng lượng được dùng. Để tiết kiệm tiền, nhà cung cấp điện, nhà sản xuất và người tiêu dùng đều sẽ tự tìm nguồn năng lượng sạch rẻ hơn, áp dụng công nghệ hiệu quả hơn, và giảm nhu cầu năng lượng. Một quy định chỉ tác động vào đúng chỗ nó nhắm tới; một mức giá tác động lên mọi quyết định có dùng năng lượng.
+
+**Mục tiêu và mức giá cần thiết.** Mục tiêu là giảm phát thải đủ để giữ mức ấm lên toàn cầu ở 1,5–2°C so với thời tiền công nghiệp. Đây là ngưỡng mà vượt qua thì có thể xảy ra những thay đổi không đảo ngược được về mực nước biển, thời tiết cực đoan và nguồn nước. Một **sàn giá carbon quốc tế**, tức mức giá tối thiểu chung, ngày càng được xem là cách để các nước thải nhiều CO2 nhất giảm đủ để giữ dưới 2°C. Hành động phối hợp như vậy còn giải toả một lo ngại lớn: nếu một nước đơn phương đánh thuế carbon cao, các ngành thâm dụng năng lượng hay ngành xuất khẩu của nước đó có thể mất sức cạnh tranh, hoặc doanh nghiệp bỏ sang nước có giá carbon thấp hoặc không có giá carbon.
+
+Bài đưa ra các con số của IMF:
+
+| Chỉ tiêu | Con số |
+|---|---|
+| Giá carbon toàn cầu cần thiết đến 2030 để giữ mức ấm lên 2°C | 75 USD/tấn CO2 |
+| Tỷ lệ phát thải toàn cầu hiện chưa được định giá | 4/5 |
+| Giá carbon trung bình toàn cầu hiện nay | chỉ 3 USD/tấn |
+| Tác động của mức 75 USD/tấn trong 10 năm | giá điện tăng trung bình 45%, giá xăng tăng 15% |
+
+Khoảng cách giữa 3 USD và 75 USD cho thấy thế giới còn rất xa mục tiêu. Bài nói việc hành động chậm có lý do: có chi phí thực (giá điện, xăng tăng mạnh) và chi phí chính trị (người dân phản đối).
+
+**Chuyển đổi công bằng.** Vì vậy nguồn thu từ thuế carbon cần được dùng để bù đắp cho các hộ thu nhập thấp đang chật vật với chi phí năng lượng cao hơn, và để hỗ trợ những người đang sống nhờ than, dầu và các nhiên liệu hoá thạch khác.
 
 ### 3. Thích ứng
 
-- Thế giới đã đối mặt thời tiết ngày càng khắc nghiệt, hại ngân sách chính phủ khắp nơi, nhất là nước nghèo vốn khó cung cấp dịch vụ cơ bản.
-- Thích ứng bằng hạ tầng chống chịu hơn, bảo đảm nguồn nước, cải thiện sản xuất cây trồng cho vùng khô hạn, bảo vệ bờ biển và biện pháp khác cho cổ tức ba lần: ít thiệt hại từ sốc khí hậu tương lai, năng suất và tăng trưởng cao hơn, lợi ích xã hội và môi trường.
-- Thích ứng không chỉ là chính phủ tài trợ hạ tầng. Còn khuyến khích khu vực tư thích ứng, an sinh xã hội sau thiên tai, chiến lược ngân sách và kế hoạch toàn diện tính đến biến đổi khí hậu.
-- Thích ứng khôn ngoan: mỗi 1 USD đầu tư có thể cho tới 10 USD lợi ích kinh tế ròng tuỳ hoạt động, theo báo cáo của Global Commission on Adaptation. Lợi ích rõ ràng và tiết kiệm dài hạn, nhưng cần chi phí trước mà nhiều nền kinh tế đang phát triển chật vật.
-- **Vòng luẩn quẩn:** không gian tài khoá hạn chế cản khả năng thích ứng, sốc khí hậu nặng hơn làm tăng phần bù rủi ro, tăng chi phí vay trên thị trường tài chính toàn cầu. Chi phí nợ cao hơn, thích ứng càng kém khả thi.
-- Giúp nước tài trợ bền vững đầu tư này là then chốt và sẽ giúp tài chính công dài hạn. Giảm tổn thương khí hậu bằng đầu tư chống chịu có thể kìm phần bù rủi ro khí hậu. Nhưng tài chính khí hậu còn quá ít: tài trợ thích ứng trung bình 30 tỷ USD/năm trong 2017 và 2018, trong khi chi phí thích ứng hàng năm riêng ở nước đang phát triển ước gần 70 tỷ USD và dự kiến tăng lên 140–300 tỷ USD đến 2030.
-- Thế giới có thể đạt mục tiêu khí hậu nhưng còn nhiều việc trên cả giảm nhẹ và thích ứng. Khác chiếc thuyền ẩn dụ, chỉ có một Trái Đất: nỗ lực giữ nó nổi là nhiệm vụ tầm vóc tồn vong.
+**Vì sao cần thích ứng.** Thế giới đã và đang đối mặt với thời tiết ngày càng khắc nghiệt, gây hại cho ngân sách chính phủ ở khắp nơi, nhất là ở các nước nghèo vốn đã khó cung cấp đủ dịch vụ cơ bản.
+
+**Thích ứng gồm những gì.** Các biện pháp thích ứng bao gồm xây hạ tầng chống chịu tốt hơn, bảo đảm nguồn nước, cải thiện sản xuất cây trồng cho vùng khô hạn, bảo vệ bờ biển và nhiều biện pháp khác. Bài nhấn mạnh rằng thích ứng không chỉ là chính phủ bỏ tiền xây hạ tầng. Nó còn gồm:
+
+- khuyến khích khu vực tư nhân tự thích ứng;
+- an sinh xã hội cho người dân sau thiên tai;
+- chiến lược ngân sách và kế hoạch phát triển toàn diện có tính đến biến đổi khí hậu.
+
+**Cổ tức ba lần.** Đầu tư thích ứng đem lại ba loại lợi ích cùng lúc:
+
+1. Ít thiệt hại hơn khi xảy ra các cú sốc khí hậu trong tương lai.
+2. Năng suất và tăng trưởng cao hơn (ví dụ cây trồng chịu hạn cho năng suất ổn định hơn).
+3. Các lợi ích xã hội và môi trường.
+
+**Thích ứng là khoản đầu tư khôn ngoan.** Theo báo cáo của Global Commission on Adaptation (Uỷ ban Toàn cầu về Thích ứng), mỗi 1 USD đầu tư vào thích ứng có thể đem lại tới 10 USD lợi ích kinh tế ròng, tuỳ loại hoạt động. Lợi ích rõ ràng và tiết kiệm được nhiều về dài hạn. Nhưng nó đòi hỏi phải chi tiền **trước**, và nhiều nền kinh tế đang phát triển chật vật với khoản chi trước đó.
+
+**Vòng luẩn quẩn.** Bài mô tả một vòng xoáy mà các nước nghèo dễ rơi vào:
+
+1. Không gian tài khoá hạn chế, nên không có tiền để thích ứng.
+2. Không thích ứng được, nên các cú sốc khí hậu gây thiệt hại nặng hơn.
+3. Thiệt hại nặng hơn làm phần bù rủi ro tăng, tức chi phí vay trên thị trường tài chính toàn cầu tăng.
+4. Chi phí nợ cao hơn khiến thích ứng càng kém khả thi, và vòng lặp lại từ đầu.
+
+**Tài chính là then chốt.** Giúp các nước tài trợ bền vững cho đầu tư thích ứng là then chốt, và sẽ có lợi cho tài chính công về dài hạn. Giảm mức độ tổn thương trước khí hậu bằng đầu tư chống chịu có thể kìm phần bù rủi ro khí hậu, tức là phá được vòng luẩn quẩn ở bước 3. Nhưng tài chính khí hậu cho thích ứng hiện còn quá ít:
+
+| Chỉ tiêu | Con số |
+|---|---|
+| Tài trợ cho thích ứng, trung bình mỗi năm trong 2017–18 (năm 2017 và 2018) | 30 tỷ USD |
+| Chi phí thích ứng hằng năm ước tính hiện nay, riêng ở các nước đang phát triển | gần 70 tỷ USD |
+| Chi phí thích ứng hằng năm dự kiến đến 2030 | 140–300 tỷ USD |
+
+Tức là ngay hiện nay, số tiền thực có chưa bằng một nửa nhu cầu, và nhu cầu còn sẽ tăng gấp hai đến bốn lần.
+
+**Kết luận.** Thế giới vẫn có thể đạt các mục tiêu khí hậu, nhưng còn nhiều việc phải làm trên cả hai mặt trận giảm nhẹ và thích ứng. Bài kết thúc bằng việc quay lại hình ảnh ban đầu: khác với chiếc thuyền trong ẩn dụ, chúng ta chỉ có **một** Trái Đất, nên nỗ lực giữ nó nổi là một nhiệm vụ mang tầm vóc tồn vong.
 
 ## Thuật ngữ
 

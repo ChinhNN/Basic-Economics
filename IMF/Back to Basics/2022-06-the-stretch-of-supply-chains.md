@@ -90,32 +90,98 @@
 2. Đại dịch tác động thế nào?
 3. Tương lai chuỗi cung ứng ra sao?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Chuỗi cung ứng (supply chain).** Toàn bộ các bước để một sản phẩm đến tay người mua: phát triển sản phẩm, tìm nguyên liệu, lắp ráp, thử nghiệm, vận chuyển. Bài ví nó như một **dây chuyền lắp ráp** làm ra hàng tiêu dùng cuối. Ví dụ trong bài: một chiếc điện thoại có thể dùng nhôm khai thác ở châu Phi, silicon từ Nam Mỹ, chip làm ở châu Á, thiết kế ở Bắc Mỹ, lắp ráp ở châu Á và được chở bằng tàu của một hãng châu Âu. Đây là đối tượng của cả bài.
+
+**Hàng trung gian (intermediate goods).** Hàng hoá không bán cho người tiêu dùng cuối mà dùng làm đầu vào để sản xuất hàng khác: linh kiện, nguyên liệu, bán thành phẩm. Ví dụ minh hoạ: con chip là hàng trung gian; chiếc điện thoại chứa con chip là hàng tiêu dùng cuối. Bài cho biết thương mại hàng trung gian bùng nổ khi sản xuất được chia ra nhiều nước.
+
+**Phân mảnh sản xuất (fragmentation of production).** Chia quy trình làm ra một sản phẩm thành nhiều công đoạn, đặt ở nhiều nước khác nhau, mỗi nơi làm khâu mà nó làm tốt hoặc rẻ nhất. Ví dụ minh hoạ: một nước làm thiết kế, một nước làm chip, một nước lắp ráp. Bài nêu ba động lực của quá trình này: công nghệ, hiệp định quốc tế và cải cách cơ cấu.
+
+**Rào cản phi thuế quan (nontariff barriers).** Những trở ngại cho thương mại không phải là thuế nhập khẩu: hạn ngạch, thủ tục, tiêu chuẩn kỹ thuật khác biệt, giấy phép. Ví dụ minh hoạ: một lô hàng không bị đánh thuế nhưng phải chờ kiểm tra giấy tờ ba tuần ở cửa khẩu. Bài nói các hiệp định quốc tế đã làm giảm cả thuế quan lẫn rào cản loại này.
+
+**Khả năng chống chịu (resilience).** Khả năng chuỗi cung ứng tiếp tục vận hành khi bị một cú sốc. Ví dụ minh hoạ: một nhà máy ô tô có hai nhà cung cấp chip ở hai nước; khi một nước phong toả, nhà máy vẫn chạy được một phần nhờ nhà cung cấp còn lại. Bài coi đây là bài học chính rút ra từ đại dịch.
+
+**Điểm nghẽn (choke point).** Một mắt xích mà rất nhiều hàng hoá phải đi qua, nên khi nó tắc thì cả chuỗi bị chậm lại. Ví dụ trong bài: các cảng lớn trong đại dịch, với hàng dài tàu container nằm chờ ngoài cảng.
+
+**Đưa sản xuất về nước (reshoring).** Rút khỏi chuỗi cung ứng toàn cầu bằng cách chuyển các nhà máy ở nước ngoài về lại trong nước. Ví dụ minh hoạ: một hãng điện tử đóng nhà máy ở nước ngoài và tự sản xuất linh kiện tại chỗ, dù chi phí cao hơn. Bài kết luận bằng chứng kinh tế không ủng hộ lựa chọn này.
+
+**Đa dạng hoá, tồn kho dư và phí bảo hiểm (diversification, excess inventory, insurance premium).** Đa dạng hoá là mua cùng một đầu vào từ nhiều nhà cung cấp ở nhiều nước; tồn kho dư là giữ nhiều hàng trong kho hơn mức cần cho sản xuất thường ngày. Cả hai đều tốn tiền, giống như đóng phí bảo hiểm để được bảo vệ khi có sự cố. Ví dụ minh hoạ: một doanh nghiệp giữ thêm linh kiện đủ dùng hai tháng phải trả tiền kho và chôn vốn, nhưng nhờ đó vẫn sản xuất được khi nguồn cung gián đoạn một tháng. Bài đặt câu hỏi: mỗi nước, mỗi doanh nghiệp sẵn sàng trả phí bảo hiểm cao đến đâu.
+
+## Nội dung chi tiết
 
 ### 1. Chuỗi cung ứng là gì
 
-- Từng đến cửa hàng thấy kệ trống thay vì món muốn mua? Có thể do chuỗi cung ứng gián đoạn. Bình thường chuỗi vận hành liền mạch phía sau để mang hàng đến bạn; khi hỏng, ai cũng thấy.
-- Chuỗi cung ứng là dây chuyền lắp ráp cung cấp hàng tiêu dùng cuối. Laptop, tablet hay điện thoại bạn đang đọc bài này ra đời nhờ vô số đầu vào đi qua chuỗi phức tạp: phát triển sản phẩm, tìm nguyên liệu, lắp ráp, thử nghiệm, vận chuyển. Có thể xem chuỗi cung ứng là dây chuyền lắp ráp làm ra sản phẩm người tiêu dùng muốn mua.
+Bài bắt đầu bằng một trải nghiệm quen thuộc: bạn đến cửa hàng và thấy kệ trống thay vì món hàng mình muốn mua. Nguyên nhân có thể là chuỗi cung ứng bị gián đoạn. Bình thường chuỗi cung ứng vận hành liền mạch ở phía sau để đưa hàng tới tay người mua, nên ít ai để ý đến nó; chỉ khi nó hỏng thì ai cũng thấy.
+
+Chuỗi cung ứng là một **dây chuyền lắp ráp** cung cấp hàng tiêu dùng cuối. Chiếc laptop, máy tính bảng hay điện thoại mà bạn đang dùng để đọc bài này ra đời nhờ vô số đầu vào đi qua một chuỗi phức tạp gồm nhiều bước:
+
+1. phát triển sản phẩm;
+2. tìm nguồn nguyên liệu;
+3. lắp ráp;
+4. thử nghiệm;
+5. vận chuyển đến tay người mua.
+
+Nói cách khác, có thể hình dung chuỗi cung ứng như một dây chuyền lắp ráp làm ra sản phẩm mà người tiêu dùng muốn mua, chỉ khác là các trạm của dây chuyền có thể nằm ở nhiều nơi trên thế giới.
 
 ### 2. Đầu vào từ khắp thế giới
 
-- Xưa, chuỗi cung ứng đơn giản và trong phạm vi địa lý hẹp. Nhà sản xuất trong nước làm sản phẩm đơn giản như rượu vang, vải, bánh mì; linh kiện đều tìm được gần nơi tiêu dùng. Nay chuỗi rất phức tạp với nhiều nhà sản xuất khắp thế giới. Điện thoại có thể gồm nhôm khai thác ở châu Phi, silicon sản xuất ở Nam Mỹ, chip làm ở châu Á, thiết kế ở Bắc Mỹ, lắp ráp ở nhà máy châu Á, giao qua hãng tàu châu Âu.
-- Doanh nghiệp lấy đầu vào từ khắp nơi để chọn linh kiện phù hợp nhất. Ba yếu tố góp phần: bước nhảy công nghệ cho phép liên lạc liền mạch với doanh nghiệp bên kia địa cầu và giảm chi phí vận tải; hiệp định quốc tế làm thương mại dễ đoán hơn nhờ thực thi hợp đồng dễ hơn và rẻ hơn nhờ giảm thuế quan và rào cản phi thuế; cải cách cơ cấu cho doanh nghiệp đầu tư nhà máy nước ngoài dễ hơn.
-- Tiến bộ công nghệ, thể chế, chính sách cho phép phân mảnh quy trình sản xuất, gây bùng nổ thương mại quốc tế đầu vào sản xuất (hàng trung gian). Thay đổi sâu sắc này ảnh hưởng gần như mọi nước; cả nước tiên tiến lẫn mới nổi hội nhập sâu hơn vào chuỗi toàn cầu. Thay đổi mạnh mẽ trong 1990s và 2000s, rồi chững lại phần nào trong 2010s.
+**Xưa và nay.** Trước đây, chuỗi cung ứng đơn giản và nằm trong một phạm vi địa lý hẹp. Nhà sản xuất trong nước làm những sản phẩm đơn giản như rượu vang, vải, bánh mì, và mọi thành phần đều tìm được ở gần nơi tiêu dùng. Ngày nay, chuỗi cung ứng rất phức tạp, với nhiều nhà sản xuất ở khắp thế giới. Ví dụ của bài về một chiếc điện thoại:
+
+| Công đoạn | Nơi thực hiện |
+|---|---|
+| Khai thác nhôm | châu Phi |
+| Sản xuất silicon | Nam Mỹ |
+| Làm chip | châu Á |
+| Thiết kế | Bắc Mỹ |
+| Lắp ráp | nhà máy ở châu Á |
+| Vận chuyển | hãng tàu châu Âu |
+
+**Vì sao chuỗi trở nên toàn cầu.** Doanh nghiệp lấy đầu vào từ khắp nơi để chọn được linh kiện phù hợp nhất (tốt nhất hoặc rẻ nhất cho từng khâu). Bài nêu ba động lực làm việc này trở nên khả thi:
+
+1. **Công nghệ.** Những bước nhảy công nghệ cho phép doanh nghiệp liên lạc liền mạch với đối tác ở bên kia địa cầu, và làm chi phí vận tải giảm.
+2. **Hiệp định quốc tế.** Các hiệp định làm thương mại **dễ đoán hơn**, vì việc thực thi hợp đồng giữa các nước dễ hơn, và **rẻ hơn**, vì thuế quan và các rào cản phi thuế quan được cắt giảm.
+3. **Cải cách cơ cấu.** Các cải cách trong nhiều nước giúp doanh nghiệp đầu tư xây nhà máy ở nước ngoài dễ hơn.
+
+**Kết quả: phân mảnh sản xuất.** Những tiến bộ về công nghệ, thể chế và chính sách nói trên cho phép chia nhỏ quy trình sản xuất ra nhiều nước, dẫn tới bùng nổ thương mại quốc tế về đầu vào sản xuất, tức **hàng trung gian**. Thay đổi sâu sắc này ảnh hưởng tới gần như mọi nước: cả nước tiên tiến lẫn thị trường mới nổi đều hội nhập sâu hơn vào chuỗi cung ứng toàn cầu. Theo bài, quá trình này diễn ra mạnh mẽ trong thập niên 1990s và 2000s, rồi chững lại phần nào trong thập niên 2010s.
 
 ### 3. Áp lực từ đại dịch
 
-- Giai đoạn cấp tính, đại dịch gây đóng cửa nhà máy diện rộng, lan qua chuỗi cung ứng khi đầu vào trung gian từ nhà máy đóng cửa trở nên khan hiếm ở nơi khác trên dây chuyền toàn cầu. Trong khi cung bị hạn chế, cầu hàng hoá tăng vượt xu hướng trước đại dịch vì người tiêu dùng ở nhà chuyển chi tiêu từ dịch vụ tiếp xúc nhiều (ăn ngoài, du lịch) sang hàng hoá để làm việc, học, chơi tại nhà. Đại dịch gây cầu hàng hoá cực cao đúng lúc khả năng cung của thế giới gặp thách thức chưa từng có. Ít mắt xích nào thoát; một số thành đề tài thường xuyên trên báo như thiếu chip bán dẫn. Cảng cũng thành điểm nghẽn với hàng dài tàu container chờ ngoài cảng lớn.
-- Với các nước, tham gia chuỗi toàn cầu trong đại dịch có chi phí và lợi ích. Một mặt phơi nhiễm với phong toả và nhà máy đóng cửa ở nước khác. Mặt khác có nguồn hàng nước ngoài khi kinh tế trong nước bị đánh nặng. Cân lại, bằng chứng cho thấy chuỗi toàn cầu thích nghi tốt trong đại dịch, nước ít bị ảnh hưởng bù cho nước bị nặng hơn.
+Đại dịch tác động lên chuỗi cung ứng từ cả hai phía, cung và cầu, cùng một lúc.
+
+**Phía cung.** Trong giai đoạn cấp tính, đại dịch khiến nhà máy đóng cửa trên diện rộng. Tác động lan dọc chuỗi cung ứng: khi một nhà máy đóng cửa, hàng trung gian mà nó làm ra trở nên khan hiếm ở các khâu khác trên dây chuyền toàn cầu, dù những khâu đó không bị phong toả.
+
+**Phía cầu.** Trong khi nguồn cung bị hạn chế, cầu về hàng hoá lại tăng vượt xu hướng trước đại dịch. Lý do: người tiêu dùng phải ở nhà nên chuyển chi tiêu từ các dịch vụ cần tiếp xúc nhiều (ăn ngoài, du lịch) sang hàng hoá để làm việc, học tập và giải trí tại nhà, như máy tính, đồ nội thất, thiết bị điện tử.
+
+**Hệ quả.** Đại dịch tạo ra cầu hàng hoá cực cao đúng vào lúc khả năng cung của thế giới gặp thách thức chưa từng có. Rất ít mắt xích trong chuỗi thoát khỏi ảnh hưởng. Một số trở thành đề tài thường xuyên trên báo chí, như tình trạng thiếu chip bán dẫn. Các cảng cũng trở thành điểm nghẽn, với hàng dài tàu container nằm chờ ngoài những cảng lớn.
+
+**Tham gia chuỗi toàn cầu: được hay mất?** Với mỗi nước, việc tham gia chuỗi cung ứng toàn cầu trong đại dịch vừa có chi phí vừa có lợi ích:
+
+| Chi phí | Lợi ích |
+|---|---|
+| Nước đó bị phơi nhiễm với các lệnh phong toả và việc nhà máy đóng cửa ở nước khác: dù trong nước không phong toả, vẫn có thể thiếu linh kiện | Nước đó vẫn có nguồn hàng từ nước ngoài khi kinh tế trong nước bị đại dịch đánh nặng |
+
+Cân nhắc cả hai mặt, bằng chứng mà bài dẫn cho thấy chuỗi cung ứng toàn cầu đã **thích nghi tốt** trong đại dịch: những nước ít bị ảnh hưởng đã bù đắp cho những nước bị ảnh hưởng nặng hơn.
 
 ### 4. Tương lai
 
-- Gián đoạn sau đại dịch làm nổi bật tầm quan trọng của khả năng chống chịu: chuỗi tiếp tục vận hành khi bị sốc. Gần đây, biến thể Omicron và chiến tranh ở Ukraine thêm bất định. Nhà hoạch định và doanh nghiệp bàn vài lựa chọn có thể định hình lại chuỗi:
-  - **Reshoring:** rút khỏi chuỗi toàn cầu bằng đưa sản xuất nước ngoài về nước.
-  - **Đa dạng hoá:** tăng số nhà cung cấp nước ngoài cho mỗi đầu vào, dù chi phí cao hơn. Trừ khi mọi nước cung cấp bị sốc cùng lúc, cách này giúp chịu đựng sốc cung tốt hơn.
-  - **Tồn kho dư:** mức tồn kho cao hơn giúp doanh nghiệp vượt sốc cung tạm thời.
-- Sóng chấn từ đại dịch chưa lắng, nhưng bằng chứng kinh tế đến nay không ủng hộ reshoring. Theo đuổi tự chủ cho sản xuất kém hiệu quả hơn, và bằng chứng không cho thấy nó cải thiện chống chịu. Chiến lược này như bỏ mọi trứng chuỗi cung ứng vào cùng một giỏ nội địa. Đa dạng hoá và tồn kho dư về bản chất là chiến lược bảo hiểm. Nước và doanh nghiệp phải quyết định sẵn sàng trả phí bảo hiểm cao đến đâu: có nhà cung cấp dự phòng hay tồn kho dư không miễn phí.
-- Nhà hoạch định và doanh nghiệp đối mặt nhiệm vụ khó là cân nhu cầu chống chịu với sẵn sàng trả cho bảo hiểm. Lựa chọn tối ưu tuỳ hoàn cảnh và khẩu vị rủi ro từng nước. Tranh luận hội nhập vào chuỗi toàn cầu nhiều hay ít sẽ còn tiếp diễn, và cuối cùng có thể quyết định bạn gặp sản phẩm hay kệ trống lần tới đi cửa hàng.
+**Bài học về chống chịu.** Những gián đoạn sau đại dịch làm nổi bật tầm quan trọng của **khả năng chống chịu**, tức khả năng chuỗi cung ứng tiếp tục vận hành khi bị sốc. Gần đây, biến thể Omicron và chiến tranh ở Ukraine còn làm tăng thêm bất định. Các nhà hoạch định chính sách và doanh nghiệp đang bàn ba lựa chọn có thể định hình lại chuỗi cung ứng:
+
+1. **Đưa sản xuất về nước (reshoring):** rút khỏi chuỗi toàn cầu bằng cách chuyển sản xuất từ nước ngoài về trong nước.
+2. **Đa dạng hoá:** tăng số nhà cung cấp nước ngoài cho mỗi đầu vào, dù chi phí cao hơn. Trừ khi mọi nước cung cấp cùng bị sốc một lúc, cách này giúp chịu đựng các cú sốc cung tốt hơn: một nhà cung cấp gặp sự cố thì còn nhà cung cấp khác.
+3. **Tồn kho dư:** giữ mức tồn kho cao hơn để doanh nghiệp vượt qua được các cú sốc cung tạm thời.
+
+**Đánh giá của bài.** Sóng chấn từ đại dịch chưa lắng, nhưng bằng chứng kinh tế đến nay **không ủng hộ** việc đưa sản xuất về nước, vì hai lý do. Thứ nhất, theo đuổi tự chủ khiến sản xuất kém hiệu quả hơn (mất lợi thế của việc mua đầu vào tốt và rẻ nhất trên thế giới). Thứ hai, bằng chứng không cho thấy nó cải thiện được khả năng chống chịu. Bài ví chiến lược này như **bỏ tất cả trứng của chuỗi cung ứng vào cùng một giỏ nội địa**: nếu chính trong nước gặp sốc (dịch bệnh, thiên tai), không còn nguồn nào khác để bù.
+
+Ngược lại, đa dạng hoá và tồn kho dư về bản chất là **chiến lược bảo hiểm**. Chúng có ích, nhưng không miễn phí: có nhà cung cấp dự phòng thì phải chấp nhận giá cao hơn, giữ tồn kho dư thì phải trả tiền kho và chôn vốn. Vì vậy mỗi nước và mỗi doanh nghiệp phải quyết định mình sẵn sàng trả **phí bảo hiểm** cao đến đâu.
+
+| Lựa chọn | Bản chất | Đánh giá của bài |
+|---|---|---|
+| Đưa sản xuất về nước | Bỏ hết trứng vào một giỏ nội địa | Kém hiệu quả, không thấy cải thiện chống chịu; bằng chứng không ủng hộ |
+| Đa dạng hoá nhà cung cấp | Bảo hiểm | Có ích, trừ khi mọi nước cung cấp bị sốc cùng lúc; tốn chi phí |
+| Tồn kho dư | Bảo hiểm | Giúp vượt sốc cung tạm thời; tốn chi phí |
+
+**Kết luận.** Nhà hoạch định chính sách và doanh nghiệp đối mặt với một nhiệm vụ khó: cân giữa nhu cầu chống chịu và mức sẵn sàng trả tiền cho bảo hiểm. Lựa chọn tối ưu tuỳ thuộc vào hoàn cảnh và khẩu vị rủi ro của từng nước. Cuộc tranh luận về việc nên hội nhập vào chuỗi toàn cầu nhiều hay ít sẽ còn tiếp diễn, và theo bài, cuối cùng nó có thể quyết định lần tới bạn đến cửa hàng sẽ thấy kệ hàng đầy hay kệ trống.
 
 ## Thuật ngữ
 
