@@ -371,71 +371,239 @@
 2. Nước nào đã nghiêng về khối nào, và làm sao biết được mà không cần giả định trước?
 3. Các nước có chọn khối theo lợi ích kinh tế không?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tách rời và phi toàn cầu hoá (decoupling, deglobalization).** Phi toàn cầu hoá là khi tổng thương mại thế giới co lại so với quy mô nền kinh tế. Tách rời là khi tổng thương mại không giảm nhưng **đổi hướng**: hai nước hay hai khối buôn bán với nhau ít đi và buôn bán với nước khác nhiều hơn. Ví dụ từ bài: từ 2015 đến 2023, xuất khẩu của Mỹ sang Trung Quốc tính trên GDP giảm 27,5%, nhưng tỷ lệ thương mại trên GDP thế giới vẫn tăng từ 21,8% lên 22,6%. Phân biệt này là kết luận trung tâm của bài.
+
+**Phương trình lực hấp dẫn (gravity equation).** Quy luật thực nghiệm rằng thương mại giữa hai nước tỷ lệ thuận với quy mô kinh tế của hai nước và tỷ lệ nghịch với rào cản giữa chúng, như khoảng cách, thuế quan hay khác biệt ngôn ngữ, giống lực hút giữa hai vật. Ví dụ minh hoạ: hai nước lớn gấp đôi thì buôn bán với nhau nhiều hơn, còn hai nước xa gấp đôi thì buôn bán ít hơn. Bài dùng phương trình này để tách phần thay đổi thương mại do chính quan hệ của từng cặp nước.
+
+**Hiệu ứng cố định và phần dư.** Hiệu ứng cố định là một biến riêng cho từng nước, hấp thụ mọi thứ xảy ra với nước đó nói chung (kinh tế tăng trưởng, giá cả thay đổi, thuế quan áp cho mọi đối tác). Phần dư là phần thay đổi thương mại còn lại sau khi đã trừ hết những thứ đó, tức phần chỉ riêng cặp nước ấy mới có. Ví dụ minh hoạ: nếu xuất khẩu của Việt Nam đi mọi nơi đều tăng 10%, nhưng riêng sang Mỹ tăng 30%, thì phần dư của cặp Việt Nam–Mỹ phản ánh 20% chênh thêm. Bài coi phần dư này là thay đổi rào cản thương mại song phương và dùng nó để phát hiện khối.
+
+**Chi phí thương mại và chi phí tảng băng (iceberg cost).** Chi phí thương mại gồm mọi thứ làm hàng hoá đắt hơn khi bán ra nước ngoài: thuế quan, vận tải, thủ tục, rủi ro chính trị. "Tảng băng" là cách mô hình hoá: gửi đi 1 đơn vị hàng thì chỉ một phần tới nơi, như tảng băng tan dọc đường. Ví dụ từ bài: chi phí từ khối Trung Quốc sang khối Mỹ tăng 11,4%, nghĩa là bán cùng một lượng hàng sang đó đắt hơn khoảng 11,4%. Đây là đại lượng mà bài đo rồi đưa vào mô hình.
+
+**Độ co giãn thay thế Armington và độ co giãn thương mại (trade elasticity).** Độ co giãn thay thế (ký hiệu γ) đo mức người mua dễ chuyển từ hàng nước này sang hàng nước khác khi giá tương đối thay đổi; bài dùng γ = 4 (Broda và Weinstein 2006). Từ đó suy ra độ co giãn thương mại, tức thương mại giảm bao nhiêu phần trăm khi chi phí tăng 1%, bằng γ − 1 = 3 về độ lớn. Ví dụ minh hoạ: chi phí thương mại của một cặp nước tăng 1% thì thương mại giữa họ giảm khoảng 3%; ngược lại, thấy thương mại giảm thêm 3% thì suy ra chi phí đã tăng khoảng 1%. Đây là cách bài chuyển phần dư (thay đổi thương mại) thành thay đổi chi phí, qua công thức Δln τ = ŵ / (1 − γ).
+
+**GDP thực và thu nhập thực.** GDP thực đo sản lượng theo giá cố định của năm gốc. Thu nhập thực đo tiền lương chia cho chỉ số giá tiêu dùng, nên nó tính cả việc hàng nhập khẩu rẻ đi hay đắt lên. Ví dụ minh hoạ: nếu chi phí nhập khẩu giảm làm hàng tiêu dùng rẻ đi 1% trong khi lương không đổi, GDP thực có thể không đổi nhưng thu nhập thực tăng khoảng 1%. Bài báo cáo cả hai, và kết luận chính dùng thu nhập thực.
+
+**Phản thực (counterfactual).** Phép thử "nếu như" trong mô hình: giữ mọi thứ khác như thực tế, chỉ thay một điều để xem kết quả khác đi bao nhiêu. Ví dụ từ bài: nếu một nước khối Trung Quốc có cấu trúc chi phí của khối Mỹ thì GDP thực trung vị cao hơn 0,658 điểm phần trăm. Đây là cách bài đưa ra kết luận "các nước đang ở nhầm khối".
+
+**Phép thử giả dược (placebo test).** Lặp lại đúng phân tích cho một giai đoạn mà ta biết chắc không có hiện tượng cần tìm. Nếu phương pháp vẫn "phát hiện" ra hiện tượng thì nó đáng ngờ. Ví dụ từ bài: áp dụng cho 2002–2007, trước căng thẳng Mỹ–Trung, chỉ 3 nước bị xếp vào khối Trung Quốc kể cả chính Trung Quốc. Đây là bằng chứng phương pháp không tự tạo ra khối.
+
+## Nội dung chi tiết
 
 ### 1. Nghịch lý mở đầu
 
-- Sau một kỷ nguyên dài hội nhập ngày càng sâu, thập kỷ qua chứng kiến nhiều lực cản mạnh với hội nhập kinh tế, đánh dấu bằng Brexit, chiến tranh thương mại Mỹ và Trung Quốc, cùng việc quan hệ kinh tế giữa phương Tây với Nga bị cắt đứt. Người ta thường tự hỏi liệu đây có phải khởi đầu của phi toàn cầu hoá.
-- Nhưng thương mại thế giới so với hoạt động kinh tế không hề giảm kể từ khi các cú sốc này bắt đầu. Tỷ lệ thương mại trên GDP thậm chí đảo ngược một phần xu hướng giảm bắt đầu từ năm 2009. Đáng chú ý hơn, tỷ lệ này cũng không giảm ở chính các nền kinh tế lớn nằm ở tâm điểm của các gián đoạn do chính sách gây ra.
-- Lời giải thích gần nhất là ngay cả khi các nước trong xung đột thương mại rút khỏi nhau, họ lại tăng thương mại với các nước khác. Nền kinh tế thế giới đang trải qua tách rời chứ không phải phi toàn cầu hoá.
+Sau một kỷ nguyên dài hội nhập ngày càng sâu, thập kỷ qua chứng kiến nhiều lực cản mạnh với hội nhập kinh tế: Brexit, chiến tranh thương mại giữa Mỹ và Trung Quốc, và việc quan hệ kinh tế giữa phương Tây với Nga bị cắt đứt. Người ta thường tự hỏi liệu đây có phải khởi đầu của phi toàn cầu hoá.
+
+Nhưng nhìn vào tỷ lệ thương mại hàng hoá trên GDP trong giai đoạn 1985–2023, lấy năm 2015 làm mốc (trước trưng cầu Brexit và trước bầu cử Mỹ năm 2016), thì thấy:
+
+- **Thế giới:** tỷ lệ này vẫn kiên cường; thực ra còn đảo ngược một phần xu hướng giảm bắt đầu từ năm 2009.
+- **Hoa Kỳ, Trung Quốc, Liên minh châu Âu:** không có sụt giảm rõ rệt nào.
+
+Tức là ngay cả các bên chính trong xung đột thương mại cũng không thấy tổng thương mại của mình giảm.
+
+Lời giải nằm ở việc nhìn thương mại theo từng cặp. Bảng dưới cho thay đổi tỷ lệ nhập khẩu trên GDP giữa 2015 và 2023 (hàng là nước xuất khẩu, cột là nước nhập khẩu; số liệu là thay đổi tỷ lệ, ví dụ −0,275 nghĩa là giảm 27,5%):
+
+| Xuất khẩu từ \ Nhập khẩu vào | Hoa Kỳ | Trung Quốc | EU | Phần còn lại |
+|---|---|---|---|---|
+| Hoa Kỳ | — | −0,275 | +0,262 | +0,015 |
+| Trung Quốc | −0,401 | — | +0,237 | +0,137 |
+| EU | +0,050 | −0,066 | +0,148 | −0,014 |
+| Phần còn lại | +0,012 | +0,047 | +0,035 | +0,105 |
+| **Tổng nhập khẩu/GDP** | **−0,070** | **+0,005** | **+0,128** | **+0,076** |
+
+Thương mại Mỹ–Trung sụp mạnh: nhập khẩu của Trung Quốc từ Mỹ giảm 27,5%, nhập khẩu của Mỹ từ Trung Quốc giảm 40,1%. Nhưng thương mại của cả hai với EU và phần còn lại của thế giới đều tăng. Nói cách khác, ngay cả khi các nước trong xung đột thương mại rút khỏi nhau, họ lại tăng thương mại với các nước khác. Kết luận của bài: "Nền kinh tế thế giới đang trải qua tách rời, chứ không phải phi toàn cầu hoá."
 
 ### 2. Phương pháp phát hiện khối
 
-- Bài dùng cách tiếp cận hoàn toàn dựa trên dữ liệu để phát hiện đường đứt gãy phân mảnh trong dòng thương mại quốc tế. Dựa vào truyền thống lực hấp dẫn về đo chi phí thương mại, bài chiếu thay đổi logarit của thương mại hàng hoá song phương giai đoạn 2015 tới 2023 lên sức cản đa phương, thể hiện qua hiệu ứng cố định nước xuất khẩu và nước nhập khẩu.
-- Các hiệu ứng cố định hấp thụ toàn bộ cú sốc cung và cầu riêng của từng nước, thay đổi chỉ số giá, và mọi thay đổi rào cản thương mại xảy ra ở cấp nước chứ không phải cấp cặp nước. Phần dư do đó phản ánh thay đổi của toàn bộ rào cản thương mại song phương, cả quan sát được lẫn không quan sát được.
-- Bài nói rõ rằng theo thông lệ, họ không tách các nguồn gốc của những thay đổi này. Chúng có thể phản ánh thay đổi chính sách thương mại, dịch chuyển sở thích, thay đổi biên lợi nhuận song phương, hoặc các cú sốc song phương khác ảnh hưởng tới rào cản.
-- Quy tắc phân loại rất đơn giản. Một nước thuộc khối Mỹ nếu chi phí thương mại bình quân với Mỹ giảm và với Trung Quốc tăng. Ngược lại cho khối Trung Quốc. Mọi nước còn lại là không liên kết.
-- Bài nhấn mạnh một điểm quan trọng: phân loại dựa trên thay đổi chi phí thương mại tương đối, không dựa trên mức thương mại song phương ban đầu. Do đó một nước có dòng thương mại ban đầu rất lớn với Mỹ vẫn có thể bị xếp vào nhóm nghiêng về Trung Quốc nếu chi phí tương đối của nó với Trung Quốc giảm còn với Mỹ tăng trong giai đoạn này.
-- Kết quả là trong 187 nước có dữ liệu, 43 nghiêng về Mỹ, 46 nghiêng về Trung Quốc, và 98 nước còn lại không liên kết. Trong mẫu mô hình, Nga, Ả-rập Xê-út, Israel và Hong Kong rõ ràng nghiêng về Trung Quốc, còn các nước nghiêng về Mỹ chủ yếu là châu Âu nhưng cũng gồm Ấn Độ, Hàn Quốc, Nhật Bản và Singapore.
+Bài dùng cách tiếp cận hoàn toàn dựa trên dữ liệu để phát hiện đường đứt gãy phân mảnh trong dòng thương mại quốc tế, thay vì giả định trước nước nào thuộc phe nào. Có hai bước.
+
+**Bước 1: phương trình lực hấp dẫn lấy sai phân logarit.** Dựa vào truyền thống lực hấp dẫn trong đo chi phí thương mại, bài hồi quy thay đổi logarit của thương mại hàng hoá song phương giai đoạn 2015–2023 lên sức cản đa phương, thể hiện qua hiệu ứng cố định nước xuất khẩu và nước nhập khẩu:
+
+Δln X(m,n) = δ(m) + δ(n) + w(m,n)
+
+Vế trái là thay đổi log xuất khẩu từ nước m sang nước n; δ(m) và δ(n) là hiệu ứng cố định của nước xuất khẩu và nước nhập khẩu; w(m,n) là phần dư.
+
+Các hiệu ứng cố định hấp thụ toàn bộ: cú sốc cung và cầu riêng của từng nước, thay đổi chỉ số giá, và mọi thay đổi rào cản thương mại xảy ra ở cấp nước (áp cho mọi đối tác) chứ không phải cấp cặp nước. Phần dư do đó phản ánh thay đổi của toàn bộ rào cản thương mại song phương giữa m và n, cả quan sát được lẫn không quan sát được.
+
+Bài nói rõ rằng theo thông lệ, họ không tách được nguồn gốc của những thay đổi này. Chúng có thể phản ánh thay đổi chính sách thương mại, dịch chuyển sở thích của người mua, thay đổi biên lợi nhuận song phương, hoặc các cú sốc song phương khác ảnh hưởng tới rào cản.
+
+Phần dư được chuyển thành thay đổi chi phí thương mại bằng công thức Δln τ = ŵ / (1 − γ), trong đó γ là độ co giãn thay thế giữa các nguồn hàng (bằng 4 trong mô hình). Ví dụ minh hoạ: phần dư −0,3 (thương mại giảm thêm khoảng 30% so với dự đoán) tương ứng chi phí tăng khoảng 0,3/3 = 0,1, tức khoảng 10%.
+
+Bài chọn 2015 làm năm gốc vì trưng cầu Brexit và bầu cử Trump năm 2016 là hai sự kiện lớn đầu tiên của kỷ nguyên tách rời; kết thúc ở 2023 để bao gồm hậu quả của việc Nga xâm lược Ukraine năm 2022.
+
+**Bước 2: quy tắc phân loại khối.** Quy tắc rất đơn giản, dựa trên thay đổi chi phí thương mại bình quân của mỗi nước với Mỹ và với Trung Quốc:
+
+| | Chi phí với Trung Quốc giảm | Chi phí với Trung Quốc tăng |
+|---|---|---|
+| **Chi phí với Mỹ giảm** | Không liên kết | **Khối Hoa Kỳ** |
+| **Chi phí với Mỹ tăng** | **Khối Trung Quốc** | Không liên kết |
+
+Mọi nước có chi phí với hai bên cùng tăng hoặc cùng giảm đều là không liên kết.
+
+Bài nhấn mạnh một điểm quan trọng: phân loại dựa trên **thay đổi** chi phí thương mại tương đối, không dựa trên **mức** thương mại song phương ban đầu. Do đó một nước có dòng thương mại ban đầu rất lớn với Mỹ vẫn có thể bị xếp vào khối Trung Quốc nếu chi phí tương đối của nó với Trung Quốc giảm còn với Mỹ tăng trong giai đoạn này. Bài cũng nói rõ chỉ xét liên kết thương mại, không xét đầu tư trực tiếp nước ngoài, kiều hối, chuyển giao công nghệ hay chính sách di cư.
+
+**Kết quả phân loại.** Trong 187 nước có dữ liệu (theo Thống kê Hướng Thương mại DOTS của IMF):
+
+| Nhóm | Số nước |
+|---|---|
+| Khối Hoa Kỳ | 43 |
+| Khối Trung Quốc | 46 |
+| Không liên kết | 98 (đa số) |
+
+Một số trường hợp trong mẫu mô hình gây bất ngờ:
+
+- **Rõ ràng nghiêng về Trung Quốc:** Nga, Ả-rập Xê-út, Israel, Hong Kong, Brazil, Colombia, Indonesia, Malaysia, Campuchia, Slovenia.
+- **Nghiêng về Hoa Kỳ:** chủ yếu là các nước châu Âu, nhưng cũng có Ấn Độ, Hàn Quốc, Nhật Bản, Singapore và Myanmar.
+- **Không liên kết:** Canada, Thuỵ Sĩ, Bỉ, Hà Lan, Pháp, Ý, Tây Ban Nha, Mexico, Việt Nam, Nam Phi, Thái Lan.
+
+Những trường hợp như Israel trong khối Trung Quốc hay Myanmar trong khối Mỹ cho thấy rõ phân loại này đo hướng thay đổi của chi phí thương mại, không đo quan hệ chính trị hay mức thương mại.
 
 ### 3. Định cỡ mức chi phí
 
-- Thách thức kỹ thuật là hồi quy lực hấp dẫn chỉ nhận diện được thay đổi chi phí tương đối so với một cặp nước bị bỏ ra, không cho biết mức tuyệt đối. Đồng thời không thể dùng kỹ thuật đảo mô hình thông thường để khôi phục thay đổi chi phí thương mại, vì không có dữ liệu hấp thụ nội địa cho năm 2023.
-- Giải pháp là nhân thang toàn bộ ma trận thay đổi chi phí suy ra từ hồi quy với một hệ số chung, sao cho mô hình khớp với thay đổi của tỷ lệ thương mại trên GDP thế giới trong dữ liệu, từ 21,8 phần trăm năm 2015 lên 22,6 phần trăm năm 2023. Cách này giữ nguyên toàn bộ tính không đồng nhất ở cấp cặp nước.
-- Kết quả là hệ số chung bằng âm không phẩy không không ba, hàm ý rằng nếu có gì thì chi phí thương mại bình quân đã giảm khoảng không phẩy ba phần trăm chứ không tăng.
-- Bài nêu rõ giả định: mọi thay đổi trong dòng thương mại song phương sau khi trừ hiệu ứng cố định nước đều được quy cho thay đổi chi phí thương mại. Mô hình có thể chứa các cú sốc chuẩn như năng suất hay cầu, nhưng chúng đã bị hiệu ứng cố định nước hấp thụ. Bài cũng không xét riêng các cú sốc song phương khác như thay đổi biên lợi nhuận mà nhà xuất khẩu áp cho một nước nhập khẩu cụ thể, thay đổi hình mẫu sản xuất năng lượng toàn cầu, hay thay đổi dòng di cư, kiều hối và đầu tư.
-- Bảng chi phí giữa các khối cho ba kết quả. Chi phí từ khối Trung Quốc sang khối Mỹ tăng mười một phẩy bốn phần trăm và chiều ngược lại tăng bốn phần trăm. Nhưng các mức tăng này bị bù đắp bởi mức giảm chi phí trong nội bộ khối cũng như chi phí nhập khẩu từ các nước không liên kết. Chỉ khối Trung Quốc chịu mức tăng chi phí xuất khẩu tổng thể, và không khối nào chứng kiến chi phí nhập khẩu tổng thể tăng đáng kể.
+**Thách thức kỹ thuật.** Hồi quy lực hấp dẫn chỉ nhận diện được thay đổi chi phí tương đối, so với một cặp nước bị bỏ ra làm mốc, chứ không cho biết mức tuyệt đối. Tức là ta biết chi phí Mỹ–Trung tăng nhiều hơn chi phí Mỹ–EU bao nhiêu, nhưng không biết cả hai cùng tăng hay cùng giảm. Đồng thời không thể dùng kỹ thuật đảo mô hình thông thường (suy ngược chi phí từ dữ liệu thương mại) vì cách đó cần dữ liệu hấp thụ nội địa (phần sản lượng một nước tự tiêu dùng), mà dữ liệu này chưa có cho năm 2023.
+
+**Giải pháp: dùng chính mô hình để định cỡ.** Bài nhân thang toàn bộ ma trận thay đổi chi phí suy ra từ hồi quy với một hệ số chung:
+
+τ̂ = exp[Δln τ(m,n) + Δln τ^cơ_sở], với mọi m ≠ n
+
+Phần đầu là thay đổi tương đối của từng cặp; phần sau là một dịch chuyển chung cho mọi cặp. Bài tìm giá trị dịch chuyển chung sao cho tỷ lệ thương mại trên GDP thế giới trong mô hình khớp với dữ liệu: từ 21,8% năm 2015 lên 22,6% năm 2023, tức tăng 0,8 điểm phần trăm. Cách này giữ nguyên toàn bộ tính không đồng nhất ở cấp cặp nước, đồng thời khớp với xu hướng thương mại thế giới.
+
+**Kết quả:** dịch chuyển chung bằng −0,003. Nghĩa là nếu có gì thì chi phí thương mại bình quân đã giảm khoảng 0,3%, chứ không tăng.
+
+**Giả định đi kèm.** Mọi thay đổi trong dòng thương mại song phương sau khi trừ hiệu ứng cố định nước đều được quy cho thay đổi chi phí thương mại. Mô hình có thể chứa các cú sốc chuẩn như năng suất hay cầu, nhưng chúng đã bị hiệu ứng cố định nước hấp thụ. Bài cũng không xét riêng các cú sốc song phương khác như thay đổi biên lợi nhuận mà nhà xuất khẩu áp cho một nước nhập khẩu cụ thể, thay đổi hình mẫu sản xuất năng lượng toàn cầu, hay thay đổi dòng di cư, kiều hối và đầu tư.
+
+**Chi phí thương mại giữa các khối** (đã gồm dịch chuyển chung; hàng là bên xuất khẩu, cột là bên nhập khẩu; số liệu là thay đổi log, xấp xỉ phần trăm khi nhân 100):
+
+| Xuất khẩu từ \ Nhập khẩu vào | Khối Hoa Kỳ | Khối Trung Quốc | Không liên kết | Tổng |
+|---|---|---|---|---|
+| Khối Hoa Kỳ | −0,046 | +0,040 | +0,004 | −0,003 |
+| Khối Trung Quốc | +0,114 | −0,072 | +0,023 | +0,050 |
+| Không liên kết | −0,033 | −0,035 | −0,008 | −0,024 |
+| **Tổng** | **+0,002** | **−0,012** | **+0,003** | **0,000** |
+
+Ba điều cần đọc trong bảng này:
+
+1. **Chi phí giữa hai khối đúng là tăng:** từ khối Trung Quốc sang khối Mỹ tăng 11,4%, chiều ngược lại tăng 4,0%.
+2. **Nhưng chi phí trong nội bộ mỗi khối giảm**, −4,6% trong khối Mỹ và −7,2% trong khối Trung Quốc, và chi phí nhập khẩu từ nhóm không liên kết cũng giảm. Các mức giảm này bù đắp cho mức tăng giữa hai khối.
+3. **Ô góc dưới bên phải bằng đúng 0,000.** Chỉ khối Trung Quốc chịu mức tăng chi phí xuất khẩu tổng thể (+0,050); không khối nào chịu mức tăng chi phí nhập khẩu tổng thể đáng kể.
+
+Kết luận của bài: "dù tách rời đã xảy ra, chi phí thương mại tổng thể không tăng".
 
 ### 4. Mô hình định lượng
 
-- Mô hình là mạng sản xuất toàn cầu đa quốc gia đa ngành theo Huo, Levchenko và Pandalai-Nayar cùng Bonadio và cộng sự, với 66 nước và 22 ngành, dùng bảng đầu vào và đầu ra liên quốc gia của OECD bản 2021.
-- Hộ gia đình có sở thích kiểu Greenwood, Hercowitz và Huffman ở cấp tổng, nhưng cung lao động theo từng ngành lại co giãn đẳng trị theo lương tương đối của ngành đó, theo cách xây dựng kiểu Roy và Fréchet. Cả tiêu dùng cuối lẫn đầu vào trung gian đều có hai tầng: tầng trên gộp các ngành rộng, tầng dưới là tổng hợp Armington các mặt hàng từ các nước nguồn khác nhau.
-- Bài báo cáo hai kết quả tổng hợp. GDP thực là đại lượng quen thuộc được hệ thống tài khoản quốc gia theo dõi, nhưng vì giữ giá ở mức trước cú sốc nên không tính tới việc thay đổi chi phí thương mại ảnh hưởng tới giá nhập khẩu vốn nằm trong chỉ số giá tiêu dùng. Vì vậy bài cũng báo cáo thu nhập thực.
+Để biết các thay đổi chi phí trên tác động tới GDP và thu nhập của từng nước ra sao, bài đưa chúng vào một mô hình mạng sản xuất toàn cầu đa quốc gia đa ngành, theo Huo, Levchenko và Pandalai-Nayar (2025) và Bonadio và cộng sự. Mô hình có 66 nước và 22 ngành, dùng bảng đầu vào và đầu ra liên quốc gia (ICIO) của OECD bản 2021, và được giải bằng đại số mũ chính xác (*exact-hat algebra*), tức giải trực tiếp theo tỷ lệ thay đổi so với năm gốc mà không cần biết mọi tham số mức.
+
+**Các thành phần:**
+
+- **Hộ gia đình** có sở thích kiểu Greenwood, Hercowitz và Huffman (GHH) ở cấp tổng, nghĩa là cung lao động tổng không bị hiệu ứng thu nhập kéo xuống. Nhưng cung lao động theo từng ngành co giãn đẳng trị theo lương tương đối của ngành đó, theo cách xây dựng kiểu Roy và Fréchet: người lao động chọn ngành trả lương tốt hơn, nhưng không chuyển hết ngay vì mỗi người hợp với mỗi ngành khác nhau.
+- **Doanh nghiệp** có lợi suất không đổi theo quy mô.
+- **Thương mại** chịu chi phí tảng băng.
+- **Tiêu dùng cuối và đầu vào trung gian** đều có hai tầng: tầng trên gộp các ngành rộng, tầng dưới là tổng hợp Armington các mặt hàng từ các nước nguồn khác nhau (hàng cùng loại nhưng sản xuất ở nước khác được coi là khác nhau).
+
+**Tham số:**
+
+| Tham số | Ý nghĩa | Giá trị và nguồn |
+|---|---|---|
+| ρ, ε | Độ thay thế giữa các ngành | 1 |
+| γ, ν | Độ thay thế giữa các nguồn gốc (Armington) | 4 (Broda–Weinstein 2006) |
+| ψ | Độ co giãn Frisch của cung lao động | 1 (Chetty và cộng sự 2011) |
+| μ | Độ co giãn cung lao động theo ngành | 1,5 (Galle và cộng sự 2023) |
+
+**Hai thước đo kết quả.** GDP thực là đại lượng quen thuộc được hệ thống tài khoản quốc gia theo dõi. Nhưng vì giữ giá ở mức trước cú sốc, nó không tính tới việc thay đổi chi phí thương mại làm thay đổi giá hàng nhập khẩu, vốn nằm trong chỉ số giá tiêu dùng. Vì vậy bài cũng báo cáo thu nhập thực.
 
 ### 5. Kết quả cơ sở
 
-- Nước trung vị được lợi khoảng không phẩy sáu phần trăm về cả GDP thực lẫn thu nhập thực, và ba phần tư số nước tăng ở cả hai chỉ tiêu. Trung vị dương ở mọi khối. Hoa Kỳ và Trung Quốc tự thân gần như không thay đổi.
-- Nhóm không liên kết được lợi nhiều nhất, điều mà bài giải thích bằng việc họ không tăng chi phí thương mại với bất kỳ khối nào một cách hệ thống. Chỉ khối Trung Quốc có phân vị hai mươi lăm âm.
-- Phân rã cho thấy khoảng chín mươi phần trăm mức thay đổi thu nhập thực đến từ thay đổi chi phí tương đối song phương, chỉ một phần nhỏ đến từ mức giảm chung. Điều này quan trọng vì nó cho thấy kết luận không phụ thuộc vào bước định cỡ mức chi phí bằng mô hình.
-- Hai cực của phân bố rất cách biệt. Việt Nam và Lào được lợi mạnh nhất, lần lượt sáu phẩy chín và ba phẩy năm phần trăm, do chi phí thương mại giảm với cả Mỹ lẫn Trung Quốc. Dù phân loại xếp hai nước này là không liên kết, mô hình cho thấy thương mại song phương với họ tăng mạnh, nhất quán với các tường thuật về chuỗi cung ứng dịch chuyển khỏi Trung Quốc. Ở cực ngược lại là các nước Baltic, có quan hệ thương mại chặt chẽ với Nga bị đứt gãy mà không có mức giảm chi phí bù đắp ở nơi khác, dẫn tới thiệt hại ba tới năm phần trăm.
-- Bài nêu rõ giới hạn của mô phỏng: chúng bỏ qua nhiều kênh mà thay đổi chi phí thương mại có thể ảnh hưởng tới thu nhập thực, như hiệu ứng năng suất động và chuyển giao tri thức, lợi suất tăng theo quy mô, hay ma sát trong tái phân bổ và đa dạng hoá chuỗi cung ứng phát sinh từ hợp đồng không hoàn chỉnh, chi phí chìm và chi phí tìm kiếm.
-- Một cảnh báo khác cũng được nêu: trong giai đoạn 2020 tới 2021 thế giới đối mặt nhiều gián đoạn liên quan đại dịch, còn năm 2022 Nga xâm lược Ukraine. Hậu quả kinh tế và chính sách của các cú sốc này, gồm phong toả, kích thích tài khoá, lạm phát cao và căng thẳng địa chính trị, không được mô hình hoá trong các phản thực và có thể phản ánh một phần trong chi phí thương mại suy ra từ dữ liệu.
+Thay đổi GDP thực và thu nhập thực (điểm phần trăm), theo phân vị 25, trung vị và phân vị 75 trong mỗi nhóm:
+
+| Nhóm | GDP thực: p25 | GDP thực: trung vị | GDP thực: p75 | Thu nhập thực: p25 | Thu nhập thực: trung vị | Thu nhập thực: p75 |
+|---|---|---|---|---|---|---|
+| **Tổng thể** | 0,061 | 0,588 | 1,297 | 0,059 | 0,619 | 1,322 |
+| Khối Hoa Kỳ | 0,125 | 0,532 | 0,712 | 0,147 | 0,536 | 0,699 |
+| Khối Trung Quốc | −0,263 | 0,299 | 0,773 | −0,261 | 0,372 | 0,780 |
+| Không liên kết | 0,034 | 0,787 | 1,397 | 0,066 | 0,755 | 1,432 |
+
+**Đọc bảng này.**
+
+- Nước trung vị được lợi khoảng 0,6% về cả GDP thực lẫn thu nhập thực, trái với trực giác thông thường rằng tách rời làm giảm GDP thế giới. 51 trong 66 nước có thu nhập thực tăng, và ba phần tư số nước tăng ở cả hai chỉ tiêu. Trung vị dương ở mọi khối.
+- Nhóm không liên kết được lợi nhiều nhất (GDP thực trung vị 0,787), điều bài giải thích bằng việc họ không tăng chi phí thương mại với bất kỳ khối nào một cách hệ thống.
+- Chỉ khối Trung Quốc có phân vị 25 âm, tức ít nhất một phần tư số nước trong khối bị thiệt.
+- Hoa Kỳ và Trung Quốc tự thân gần như không thay đổi.
+
+**Phân rã.** Khoảng 90% mức thay đổi thu nhập thực đến từ thay đổi chi phí tương đối song phương (0,574 trên tổng 0,637), chỉ 0,074 đến từ mức giảm chung 0,3%. Điều này quan trọng vì nó cho thấy kết luận không phụ thuộc vào bước định cỡ mức chi phí bằng mô hình.
+
+**Hai cực của phân bố.**
+
+- **Được lợi nhất:** Việt Nam (+6,9%) và Lào (+3,5%). Cả hai đều chứng kiến chi phí thương mại giảm với cả Mỹ lẫn Trung Quốc, nên bị xếp là không liên kết, nhưng mô hình cho thấy thương mại song phương với họ tăng mạnh. Điều này khớp với các tường thuật về chuỗi cung ứng dịch chuyển khỏi Trung Quốc sang các nước như Việt Nam.
+- **Thiệt hại nhất:** các nước Baltic, mất từ 3% tới 5%. Quan hệ thương mại chặt chẽ của họ với Nga bị đứt gãy mà không có mức giảm chi phí bù đắp ở nơi khác.
+
+**Giới hạn của mô phỏng.** Bài nêu rõ mô phỏng bỏ qua nhiều kênh mà thay đổi chi phí thương mại có thể ảnh hưởng tới thu nhập thực: hiệu ứng năng suất động và chuyển giao tri thức; lợi suất tăng theo quy mô; và ma sát trong tái phân bổ và đa dạng hoá chuỗi cung ứng phát sinh từ hợp đồng không hoàn chỉnh, chi phí chìm và chi phí tìm kiếm đối tác.
+
+Một cảnh báo khác: trong giai đoạn 2020–2021 thế giới đối mặt nhiều gián đoạn liên quan đại dịch, còn năm 2022 Nga xâm lược Ukraine. Hậu quả kinh tế và chính sách của các cú sốc này, gồm phong toả, kích thích tài khoá, lạm phát cao và căng thẳng địa chính trị, không được mô hình hoá trong các phản thực, và có thể phản ánh một phần trong chi phí thương mại suy ra từ dữ liệu.
 
 ### 6. Phản thực về lựa chọn khối
 
-- Với mỗi nước, bài tính xem GDP và thu nhập sẽ thay đổi thế nào nếu nó thuộc một khối khác. Kỹ thuật quan trọng là thay chi phí thực tế của nước đó bằng chi phí bình quân của khối đích với mọi đối tác, rồi chuẩn hoá lại sao cho mức thay đổi chi phí bình quân gia quyền theo thương mại bằng đúng mức thực tế, nhằm tránh hiệu ứng mức mang tính cơ học. Phép thử được thực hiện từng nước một, giữ nguyên chi phí của mọi nước khác.
-- Kết quả trung tâm là sáu trong mười nước khối Trung Quốc sẽ có lợi nếu chuyển sang khối Mỹ, và tám trong mười bốn nước khối Mỹ sẽ có lợi nếu chuyển sang khối Trung Quốc. Nói cách khác, trung bình mà nói các nước trong hai khối đang ở sai khối.
-- Nhưng nước trong cả hai khối cũng sẽ thiệt nếu trở thành không liên kết, nên không phải cứ trung lập là tốt. Vài ngoại lệ đáng chú ý là Ả-rập Xê-út, Latvia và Lithuania sẽ thấy GDP tăng hơn hai phần trăm nếu trở thành không liên kết.
-- Bài cũng nhấn mạnh rằng đằng sau các số trung vị là độ phân tán hoàn toàn: trong mọi loại di chuyển đều có cả kẻ thắng lẫn kẻ thua.
-- Hàm ý được nêu thẳng: việc phân loại khối quan sát được trong dữ liệu khớp rất kém với lợi ích kinh tế liên quan tới thương mại, nên các động cơ khác, phỏng đoán là địa chính trị, nhiều khả năng đang chi phối việc sắp xếp lại dòng thương mại những năm gần đây.
+**Ý tưởng.** Với mỗi nước, bài tính xem GDP và thu nhập sẽ thay đổi thế nào nếu nó thuộc một khối khác.
+
+**Kỹ thuật.** Thay chi phí thực tế của nước đó bằng chi phí bình quân của khối đích với mọi đối tác, rồi chuẩn hoá lại sao cho mức thay đổi chi phí bình quân gia quyền theo thương mại bằng đúng mức thực tế. Bước chuẩn hoá này nhằm tránh hiệu ứng mức mang tính cơ học: nếu khối đích có chi phí bình quân giảm nhiều hơn, nước đó sẽ "được lợi" chỉ vì chi phí chung thấp hơn, chứ không phải vì cấu trúc đối tác tốt hơn. Phép thử được thực hiện từng nước một, giữ nguyên chi phí của mọi nước khác ở giá trị thực tế.
+
+**Kết quả** (thay đổi so với thực tế, trung vị, điểm phần trăm):
+
+| Di chuyển | Nước xuất phát | GDP thực | Thu nhập thực |
+|---|---|---|---|
+| Sang khối Hoa Kỳ | Nước khối Trung Quốc | +0,658 (6/10 nước được lợi) | +0,661 |
+| Sang khối Hoa Kỳ | Nước không liên kết | −0,710 | −0,762 |
+| Sang khối Trung Quốc | Nước khối Hoa Kỳ | +0,211 (8/14 nước được lợi) | +0,238 |
+| Sang khối Trung Quốc | Nước không liên kết | −0,501 | −0,476 |
+| Sang nhóm không liên kết | Nước khối Hoa Kỳ | −0,622 | −0,629 |
+| Sang nhóm không liên kết | Nước khối Trung Quốc | −0,324 | −0,328 |
+
+**Đọc cùng nhau dòng đầu của mỗi khối.** Nước đang nghiêng về Trung Quốc sẽ có lợi hơn nếu sang khối Mỹ: sáu trong mười nước khối Trung Quốc được lợi. Nước đang nghiêng về Mỹ sẽ có lợi hơn nếu sang khối Trung Quốc: tám trong mười bốn nước khối Mỹ được lợi. Nói cách khác, "trung bình mà nói, các nước trong khối Mỹ và khối Trung Quốc đang ở 'sai' khối".
+
+**Nhưng không phải cứ trung lập là tốt.** Nước trong cả hai khối cũng sẽ thiệt nếu trở thành không liên kết (−0,622 và −0,324). Vài ngoại lệ đáng chú ý là Ả-rập Xê-út, Latvia và Lithuania sẽ thấy GDP tăng hơn 2% nếu trở thành không liên kết.
+
+Bài cũng nhấn mạnh rằng đằng sau các số trung vị là độ phân tán hoàn toàn: trong mọi loại di chuyển đều có cả kẻ thắng lẫn kẻ thua.
+
+**Hàm ý được nêu thẳng.** "Việc phân loại khối quan sát được trong dữ liệu khớp rất kém với lợi ích kinh tế liên quan tới thương mại." Vì vậy các động cơ khác, mà bài phỏng đoán là địa chính trị, nhiều khả năng đang chi phối việc sắp xếp lại dòng thương mại những năm gần đây.
 
 ### 7. Kiểm chứng độ vững
 
-- Về thuế quan, vì mức tuyệt đối của thay đổi chi phí do mô hình định cỡ, có thể lo ngại kết quả phụ thuộc mô hình. Bài kiểm bằng cấu phần chi phí quan sát được trực tiếp là thuế quan, và thấy mức thay đổi bình quân gần bằng không với ba mươi chín phẩy năm phần trăm số cặp nước chứng kiến thuế quan giảm. Điều này khớp với ghi nhận rằng trong chiến tranh thương mại Mỹ và Trung Quốc, Trung Quốc hạ thuế tối huệ quốc với phần còn lại thế giới trong khi nâng thuế với Mỹ.
-- Về phân loại khối, bài dùng thuật toán Leiden, một phương pháp học máy phát hiện cộng đồng không chồng lấn trong mạng lớn, chạy một trăm lượt. Với bảy mươi ba nước được cả hai phương pháp xếp vào khối Mỹ hoặc khối Trung Quốc, năm mươi hai nước tức bảy mươi mốt phần trăm được xếp vào cùng khối. Phương pháp cơ sở bảo thủ hơn ở chỗ xếp nhiều nước hơn vào nhóm không liên kết.
-- Khi dùng 2016 làm năm gốc, phân loại tương tự và không nước nào trong mẫu mô hình bị xếp vào khối ngược lại.
-- Kết quả cho giai đoạn trước COVID từ 2015 tới 2019 khác hẳn và rất đáng chú ý. Chi phí giữa khối Mỹ và khối Trung Quốc đã tăng trong mẫu này, nhưng mức giảm chi phí trong nội bộ khối kém rõ rệt hơn và gần như bằng không với khối Mỹ, khiến tổng chi phí tăng nhẹ. Kết quả là thu nhập thực của nước trung vị giảm không phẩy không sáu phần trăm thay vì tăng không phẩy sáu phần trăm.
-- Điều này tiết lộ một trình tự thời gian thú vị: mức tăng chi phí giữa các khối đến trước, còn mức giảm trong nội bộ khối đến sau. Rõ ràng các nước cần một thời gian để giảm rào cản thương mại trong nội bộ khối sau cú sốc tách rời ban đầu. Bài cũng nêu cách diễn giải thay thế liên quan tới vai trò của COVID và cuộc xâm lược Ukraine.
-- Bài thực hiện một phép thử giả dược với dữ liệu giai đoạn 2002 tới 2007, trước khi có căng thẳng Mỹ và Trung Quốc. Trong trường hợp đó không tìm thấy bằng chứng tách rời nào: chỉ ba nước được xếp vào khối Trung Quốc kể cả chính Trung Quốc, bảy mươi phần trăm số nước không liên kết, và mọi cặp khối kể cả từ khối Trung Quốc sang khối Mỹ đều chứng kiến chi phí thương mại giảm.
-- Cuối cùng, để chứng minh phương pháp định cỡ bằng tỷ lệ thương mại trên GDP là đáng tin, bài áp dụng nó cho các năm có dữ liệu hấp thụ nội địa và so với phương pháp Head và Ries. Chênh lệch là âm không phẩy chín phần trăm ở trung bình và âm không phẩy không ba phần trăm ở trung vị, với tương quan không phẩy bảy chín.
+**Thuế quan: bằng chứng quan sát được trực tiếp.** Vì mức tuyệt đối của thay đổi chi phí do mô hình định cỡ, có thể lo ngại kết quả phụ thuộc mô hình. Bài kiểm bằng cấu phần chi phí thương mại quan sát được trực tiếp là thuế quan, theo nguồn UN-TRAINS giai đoạn 2015–2021. Mức thay đổi bình quân gần bằng 0, và 39,5% số cặp nước chứng kiến thuế quan giảm. Điều này khớp với Bown, Jung và Zhang (2019): trong chiến tranh thương mại Mỹ–Trung, Trung Quốc hạ thuế tối huệ quốc (mức thuế áp chung cho mọi thành viên WTO) với phần còn lại thế giới trong khi nâng thuế với Mỹ.
+
+**Thuật toán Leiden: một cách phân khối hoàn toàn khác.** Đây là phương pháp học máy phát hiện cộng đồng không chồng lấn trong mạng lớn, tức tìm các nhóm nước buôn bán với nhau nhiều hơn với bên ngoài. Vì thuật toán có thành phần ngẫu nhiên, bài chạy 100 lượt rồi xếp nước theo tỷ lệ số lần nước đó nằm cùng cộng đồng với Mỹ hoặc Trung Quốc. Với 73 nước được cả hai phương pháp xếp vào khối Mỹ hoặc khối Trung Quốc, 52 nước, tức 71%, được xếp vào cùng khối. Phương pháp cơ sở bảo thủ hơn ở chỗ xếp nhiều nước hơn vào nhóm không liên kết.
+
+**Năm gốc và năm cuối thay thế.**
+
+- Dùng 2016 làm năm gốc (thuế quan trong chiến tranh thương mại Mỹ–Trung có hiệu lực từ 2017): phân loại tương tự, và không nước nào trong mẫu mô hình bị xếp vào khối ngược lại so với cơ sở.
+- Giai đoạn trước COVID, 2015–2019: kết quả khác hẳn và rất đáng chú ý. Chi phí giữa khối Mỹ và khối Trung Quốc đã tăng trong giai đoạn này, nhưng mức giảm chi phí trong nội bộ khối kém rõ rệt hơn và gần như bằng không với khối Mỹ, khiến tổng chi phí thương mại tăng nhẹ. Thu nhập thực của nước trung vị giảm 0,06%, thay vì tăng 0,6% như ở giai đoạn 2015–2023.
+
+Điều này tiết lộ một trình tự thời gian: mức tăng chi phí giữa các khối đến trước, còn mức giảm trong nội bộ khối đến sau. Theo bài, "rõ ràng các nước cần một thời gian để giảm rào cản thương mại trong nội bộ khối sau cú sốc tách rời Mỹ–Trung ban đầu". Bài cũng nêu cách diễn giải thay thế: COVID và cuộc xâm lược Ukraine năm 2022, cùng những thay đổi kinh tế và chính sách mà các cú sốc lớn này gây ra, cũng có thể ảnh hưởng tới rào cản song phương.
+
+**Phép thử giả dược 2002–2007**, trước khi có căng thẳng Mỹ–Trung. Không tìm thấy bằng chứng tách rời nào: chỉ 3 nước được xếp vào khối Trung Quốc, kể cả chính Trung Quốc; 70% số nước không liên kết (so với khoảng 60% ở kết quả cơ sở); và mọi cặp khối, kể cả từ khối Trung Quốc sang khối Mỹ, đều chứng kiến chi phí thương mại giảm.
+
+**Kiểm chứng phương pháp định cỡ.** Để chứng minh cách định cỡ bằng tỷ lệ thương mại trên GDP là đáng tin, bài áp dụng nó cho các năm có dữ liệu hấp thụ nội địa (chỉ có tới 2010), trên các cửa sổ 8 năm bắt đầu từ 2000, rồi so với phương pháp Head và Ries (tính chi phí thương mại song phương trực tiếp từ dữ liệu thương mại và hấp thụ nội địa). Chênh lệch là −0,9% ở trung bình và −0,03% ở trung vị, với hệ số tương quan 0,79.
 
 ### 8. Điều gì thực sự dẫn dắt
 
-- Vì kết quả phản thực hàm ý rằng một số nước không nhất thiết chọn khối tối ưu về kinh tế, bài tìm hiểu các động lực khác của thay đổi hình mẫu thương mại sau 2015.
-- Hồi quy thay đổi dòng thương mại song phương giữa 2015 và 2023 lên mức đồng thuận bỏ phiếu tại Đại hội đồng Liên Hợp Quốc năm 2015 cho hệ số dương và có ý nghĩa cao, trong khi hồi quy giả dược dùng giai đoạn 2010 tới 2015 không cho tương quan nào.
-- Hai kết quả bổ sung cũng quan trọng. Dòng thương mại năm gốc có hệ số âm, trong khi dòng thương mại năm 2000 có hệ số dương. Điều này cho thấy thương mại tăng nhiều hơn với các cặp gần gũi về địa chính trị, và các nước rời xa đối tác năm 2015 để quay về với đối tác lịch sử năm 2000.
-- Hồi quy kiểu nghiên cứu sự kiện với hiệu ứng cố định nước nhập khẩu theo năm, nước xuất khẩu theo năm và cặp nước xác nhận thêm. Trước năm 2015, mức đồng thuận bỏ phiếu không có tác động nào lên thương mại so với năm tham chiếu. Sau 2015, tương quan bắt đầu tăng và mạnh dần theo thời gian.
-- Kết luận là giai đoạn 2015 tới 2017 đánh dấu khởi đầu của việc gia tăng vai trò các lực địa chính trị trong thương mại quốc tế. Sau 2015, các nước tăng thương mại với đồng minh trước 2015 của mình, đánh đổi bằng thương mại với các nước không phải đồng minh.
+Vì kết quả phản thực hàm ý một số nước không nhất thiết chọn khối tối ưu về kinh tế, bài tìm hiểu các động lực khác của thay đổi hình mẫu thương mại sau 2015. Biến được thử là mức đồng thuận bỏ phiếu tại Đại hội đồng Liên Hợp Quốc năm 2015, một thước đo mức gần gũi địa chính trị giữa hai nước.
+
+Hồi quy thay đổi dòng thương mại song phương giữa 2015 và 2023 lên các biến sau, so với một hồi quy giả dược cho giai đoạn 2010–2015:
+
+| Biến | 2015–2023 | Giả dược 2010–2015 |
+|---|---|---|
+| Đồng thuận bỏ phiếu Liên Hợp Quốc | 0,672\*\*\* | 0,184 (không có ý nghĩa) |
+| Log dòng thương mại năm gốc | −0,423\*\*\* | −0,354\*\*\* |
+| Log dòng thương mại năm 2000 | +0,148\*\*\* | +0,0957\*\*\* |
+| Log khoảng cách địa lý | −0,288\*\*\* | −0,291\*\*\* |
+
+Hai cách đọc quan trọng:
+
+1. Các cặp nước bỏ phiếu giống nhau tại Đại hội đồng năm 2015 chứng kiến thương mại song phương tăng tương đối sau đó (hệ số 0,672, có ý nghĩa cao). Ở giai đoạn giả dược thì không có tương quan nào. Tức là gần gũi địa chính trị chỉ bắt đầu quan trọng với thương mại từ sau 2015.
+2. Dòng thương mại năm gốc có hệ số âm, còn dòng thương mại năm 2000 có hệ số dương. Theo bài, điều này cho thấy "thương mại tăng nhiều hơn với các cặp gần gũi về địa chính trị, và các nước rời xa đối tác năm 2015 để quay về với đối tác lịch sử năm 2000".
+
+**Nghiên cứu sự kiện.** Hồi quy với hiệu ứng cố định nước nhập khẩu theo năm, nước xuất khẩu theo năm và cặp nước xác nhận thêm: trước năm 2015, hệ số của đồng thuận bỏ phiếu gần như bằng 0 và không có xu hướng so với năm tham chiếu; sau 2015, tương quan bắt đầu tăng và mạnh dần theo thời gian.
+
+**Kết luận.** Giai đoạn 2015–2017 đánh dấu khởi đầu của việc gia tăng vai trò các lực địa chính trị trong thương mại quốc tế. Sau 2015, các nước tăng thương mại với đồng minh trước 2015 của mình, đánh đổi bằng thương mại với các nước không phải đồng minh.
 
 ## Thuật ngữ
 

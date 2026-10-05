@@ -315,72 +315,228 @@
 2. Trong hoàn cảnh nào hai khu vực này được lợi, và trong hoàn cảnh nào họ chịu thiệt?
 3. Chính sách trong nước có thể bù đắp được bao nhiêu phần thiệt hại đó?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Phân mảnh địa kinh tế (geoeconomic fragmentation).** Xu hướng các nước dựng rào cản thương mại, đầu tư và tài chính với nhau vì lý do địa chính trị, khiến kinh tế thế giới chia thành các khối ít giao thương với nhau. Ví dụ từ bài: số biện pháp can thiệp thương mại trên toàn cầu tăng vọt 70% kể từ 2019. Đây là cú sốc bên ngoài mà bài muốn đo tác động lên hai khu vực.
+
+**Các nhóm nước trong bài: MENA, CCA, GCC.** MENA là Trung Đông và Bắc Phi (trong bài thường đi kèm Pakistan); CCA là Kavkaz và Trung Á (như Kazakhstan, Gruzia, Azerbaijan), nơi mọi nước đều không giáp biển; GCC là Hội đồng Hợp tác Vùng Vịnh, nhóm sáu nước giàu dầu như Ả-rập Xê-út. Bài thường tách "MENA trừ GCC" vì nhóm này có rào cản cao hơn hẳn. Ví dụ từ bài: thuế quan bình quân của nhóm MENA và Pakistan trừ GCC khoảng 11,0%, của GCC khoảng 5,2%. Phân biệt này cần để đọc mọi bảng kết quả.
+
+**Chuyển hướng thương mại và nước kết nối (trade diversion, connector country).** Chuyển hướng thương mại là khi rào cản giữa hai nước khiến hàng hoá đi qua hoặc đến một nước thứ ba thay vì đi thẳng. Nước kết nối là nước trung lập đứng giữa hai khối đã cắt quan hệ và hưởng phần thương mại bị chuyển hướng. Ví dụ từ bài: sau chiến tranh năm 2022, tỷ trọng của Kavkaz và Trung Á trong nhập khẩu phi hydrocarbon của Nga tăng 114%. Đây là lý do phân mảnh có thể là cơ hội cho hai khu vực.
+
+**Mô hình lực hấp dẫn cấu trúc (structural gravity).** Mô hình dự đoán thương mại giữa hai nước tăng theo quy mô sản xuất của nước bán và chi tiêu của nước mua, và giảm theo chi phí thương mại giữa họ, nhưng chi phí đó được so với chi phí của mỗi nước với **mọi** đối tác khác. Ví dụ minh hoạ: nếu chi phí giữa EU và Nga tăng vọt, hàng từ Kazakhstan sang EU trở nên tương đối rẻ hơn dù chi phí Kazakhstan–EU không đổi. Phần "so với mọi đối tác" gọi là sức cản đa phương. Đây là công cụ mô phỏng các kịch bản của bài.
+
+**Chi phí tảng băng (iceberg cost).** Cách mô hình hoá chi phí thương mại: gửi đi 1 đơn vị hàng thì chỉ một phần tới nơi, phần còn lại "tan" trên đường, như tảng băng (theo Samuelson 1952). Ví dụ minh hoạ: chi phí tảng băng 1,2 nghĩa là phải gửi 1,2 tấn để 1 tấn tới đích. Cách này cho phép gộp mọi rào cản ngoài thuế quan (vận tải, bảo hiểm, hậu cần kém, thủ tục) vào một con số.
+
+**Rào cản phi thuế quan (nontariff barrier).** Mọi biện pháp cản trở thương mại không phải thuế nhập khẩu: hạn ngạch, giấy phép, tiêu chuẩn kỹ thuật, quy định vệ sinh, thủ tục hải quan. Ví dụ từ bài: rào cản phi thuế quan của nhóm MENA và Pakistan trừ GCC khoảng 11,2, so với khoảng 4,5 ở nước tiên tiến. Bài thấy phần lớn lợi ích thương mại đến từ giảm nhóm rào cản này chứ không phải thuế quan.
+
+**Độ lệch chuẩn (standard deviation).** Mức chênh điển hình giữa các nước so với bình quân. Bài dùng nó để quy hệ số hồi quy ra con số dễ hình dung: "giảm rào cản một độ lệch chuẩn" nghĩa là một nước chuyển từ mức rào cản bình quân sang mức thấp hơn rõ rệt, ngang khoảng cách điển hình giữa các nước. Ví dụ từ bài: giảm rào cản một độ lệch chuẩn đi kèm thương mại song phương tăng bình quân 104%.
+
+**Cân bằng từng phần và cân bằng tổng thể; "có điều kiện" và "trang bị đầy đủ".** Cân bằng từng phần chỉ tính tác động trực tiếp lên cặp nước bị ảnh hưởng. Cân bằng tổng thể tính cả phản ứng dây chuyền của mọi nước. Trong cân bằng tổng thể, phiên bản "có điều kiện" giữ sản lượng và giá sản xuất cố định; phiên bản "trang bị đầy đủ" cho giá tại cổng nhà máy điều chỉnh, nên thu nhập và chi tiêu thay đổi theo. Ví dụ minh hoạ: EU cấm hàng Nga thì tác động từng phần chỉ ở cặp EU–Nga; tác động tổng thể gồm cả việc EU mua thêm của nước khác và giá hàng Nga giảm. Các kết quả chính của bài là cân bằng tổng thể.
+
+## Nội dung chi tiết
 
 ### 1. Bối cảnh
 
-- Bức tranh kinh tế toàn cầu ngày càng mang đặc trưng phân mảnh địa kinh tế, làm thay đổi căn bản các liên kết kinh tế giữa các nền kinh tế, với hàm ý rộng cho thị trường tài chính, lan toả công nghệ, giá hàng hoá cơ bản và thương mại.
-- Hai khu vực này trở thành tâm điểm nơi xung đột, mối đe doạ an ninh và can thiệp thương mại đang định hình lại các mô hình kinh tế đã thiết lập. Chiến tranh của Nga ở Ukraine tạo ra dịch chuyển đáng kể trong chính sách thương mại toàn cầu, dẫn tới làn sóng hoạt động thương mại cho các nước Kavkaz và Trung Á, chủ yếu do thương mại quá cảnh và chuyển hướng thương mại tăng, đồng thời khiến khu vực này phơi nhiễm nhiều hơn trước rủi ro địa chính trị.
-- Ngược lại, Trung Đông, Bắc Phi và Pakistan với bối cảnh kinh tế đa dạng đối mặt một loạt thách thức rộng hơn từ bất định và cú sốc địa kinh tế, gồm cả các xung đột khu vực đang diễn ra. Những thách thức này thể hiện qua hạn chế thương mại gia tăng và các mối đe doạ an ninh thương mại mới nổi, như các vụ tấn công tàu hàng đi qua eo biển Bab el-Mandeb.
-- Bài nêu rõ ngay từ đầu rằng dù tập trung vào chi phí kinh tế và lan toả ngoài ý muốn của xung đột cùng các diễn biến địa chính trị, các cuộc khủng hoảng nhân đạo đi kèm có thể rất nghiêm trọng.
+Bức tranh kinh tế toàn cầu ngày càng mang đặc trưng phân mảnh địa kinh tế. Xu hướng này làm thay đổi căn bản các liên kết giữa các nền kinh tế, với hàm ý rộng cho thị trường tài chính, lan toả công nghệ, giá hàng hoá cơ bản và thương mại.
+
+Trung Đông, Bắc Phi (MENA), Kavkaz và Trung Á (CCA) trở thành tâm điểm, nơi xung đột, mối đe doạ an ninh và can thiệp thương mại đang định hình lại các mô hình kinh tế đã thiết lập. Hai khu vực chịu tác động theo hai cách khác nhau:
+
+- **Kavkaz và Trung Á:** chiến tranh của Nga ở Ukraine tạo ra dịch chuyển lớn trong chính sách thương mại toàn cầu, dẫn tới một làn sóng hoạt động thương mại cho các nước này, chủ yếu do thương mại quá cảnh (hàng đi qua lãnh thổ họ) và chuyển hướng thương mại tăng. Nhưng điều đó cũng khiến khu vực phơi nhiễm nhiều hơn trước rủi ro địa chính trị.
+- **Trung Đông, Bắc Phi và Pakistan:** với bối cảnh kinh tế đa dạng hơn, nhóm này đối mặt một loạt thách thức rộng hơn từ bất định và cú sốc địa kinh tế, gồm cả các xung đột khu vực đang diễn ra. Những thách thức đó thể hiện qua hạn chế thương mại gia tăng và các mối đe doạ an ninh thương mại mới, như các vụ tấn công tàu hàng đi qua eo biển Bab el-Mandeb (nối Biển Đỏ với vịnh Aden).
+
+Bài nêu rõ ngay từ đầu rằng dù tập trung vào chi phí kinh tế và lan toả ngoài ý muốn của xung đột cùng các diễn biến địa chính trị, các cuộc khủng hoảng nhân đạo đi kèm có thể rất nghiêm trọng.
 
 ### 2. Ba sự thật cách điệu
 
-- Sự thật thứ nhất là số biện pháp can thiệp thương mại đã tăng. Trên toàn cầu, can thiệp thương mại tăng vọt bảy mươi phần trăm kể từ 2019. Số biện pháp bình quân ảnh hưởng tới các nền kinh tế trong hai khu vực gần như gấp đôi kể từ 2018, với mức tăng đặc biệt rõ ở Trung Đông, Bắc Phi và Pakistan. Các biện pháp mới rất đa dạng, với cấm xuất khẩu, hạn ngạch, yêu cầu cấp phép và trợ cấp xuất khẩu là phổ biến nhất.
-- Sự thật thứ hai là hình mẫu thương mại đang dịch chuyển. Sau khi chiến tranh nổ ra năm 2022, tỷ trọng của Kavkaz và Trung Á trong xuất khẩu phi hydrocarbon của Liên minh châu Âu, Nga và Hoa Kỳ tăng lần lượt bảy mươi bốn, bốn mươi lăm và một trăm mười tám phần trăm. Tỷ trọng trong nhập khẩu phi hydrocarbon của ba đối tác này tăng mười bảy, một trăm mười bốn và chín phần trăm. Ngược lại, tỷ trọng của Nga trong xuất và nhập khẩu phi hydrocarbon của Liên minh châu Âu và Hoa Kỳ giảm mạnh.
-- Khu vực Kavkaz và Trung Á cũng mở rộng tỷ trọng trong xuất khẩu phi hydrocarbon của Trung Quốc, phản ánh việc định hướng lại thương mại với lưu lượng tăng qua Hành lang Giữa, nơi khối lượng vận chuyển tăng vọt. Chuyển hướng thương mại về khu vực này kéo theo mức tăng rõ rệt của nhập khẩu và xuất khẩu với các đối tác lớn trên dải rộng nhóm sản phẩm, đặc biệt trong công nghiệp khai khoáng và chế tạo như sắt thép, máy điện, hoá chất và xe cộ.
-- Ở Trung Đông và Bắc Phi, dịch chuyển chủ yếu diễn ra ở các nước xuất khẩu dầu và với hàng hydrocarbon, khi Liên minh châu Âu thay thế một phần dầu khí nhập từ Nga. Tỷ trọng của khu vực trong nhập khẩu hydrocarbon của Liên minh châu Âu, Nga và Hoa Kỳ tăng lần lượt ba mươi, bốn trăm sáu mươi ba và mười bảy phần trăm.
-- Sự thật thứ ba là hai khu vực này đối mặt rào cản thương mại lớn. Các nền kinh tế trong hai khu vực, đặc biệt là ngoài Hội đồng Hợp tác Vùng Vịnh, có khoảng cách lớn so với biên giới toàn cầu cả về rào cản thương mại lẫn hạ tầng và môi trường quản lý. Bài lập luận rằng những khoảng cách này có thể gắn với tiềm năng thương mại bị ràng buộc, và việc gỡ bỏ chúng có thể mang lại lợi ích thương mại đáng kể.
+**Sự thật thứ nhất: số biện pháp can thiệp thương mại đã tăng.** Trên toàn cầu, can thiệp thương mại tăng vọt 70% kể từ 2019. Số biện pháp bình quân ảnh hưởng tới các nền kinh tế MENA, CCA và Pakistan gần như gấp đôi kể từ 2018, với mức tăng đặc biệt rõ ở MENA và Pakistan.
+
+Các biện pháp mới rất đa dạng:
+
+| Nhóm | Biện pháp |
+|---|---|
+| Về xuất khẩu (chiếm tỷ trọng lớn nhất) | Cấm xuất khẩu, hạn ngạch xuất khẩu, yêu cầu cấp phép xuất khẩu, trợ cấp xuất khẩu |
+| Về nhập khẩu | Thuế quan, trợ cấp, các hạn chế nhập khẩu khác (hạn ngạch, tiêu chuẩn kỹ thuật, quy định vệ sinh, thủ tục hải quan) |
+| Khác | Chống lẩn tránh, chống bán phá giá, chống trợ cấp, hạn chế mua sắm công, tự vệ đặc biệt |
+
+Các nước dùng nhiều biện pháp nhất là Ả-rập Xê-út, Ai Cập, Maroc, Pakistan và Oman ở MENA; Kazakhstan, Gruzia và Azerbaijan ở CCA.
+
+**Sự thật thứ hai: hình mẫu thương mại đang dịch chuyển** (so sánh 2021–2023, tức trước và sau khi chiến tranh nổ ra năm 2022).
+
+*Với CCA, thương mại phi hydrocarbon* (hydrocarbon là dầu mỏ, khí đốt và sản phẩm của chúng):
+
+| Đối tác | Thay đổi tỷ trọng CCA trong xuất khẩu của đối tác | Thay đổi tỷ trọng CCA trong nhập khẩu của đối tác |
+|---|---|---|
+| Hoa Kỳ | +118% | +9% |
+| EU | +74% | +17% |
+| Nga | +45% | +114% |
+
+Đồng thời, tỷ trọng của Nga trong xuất và nhập khẩu phi hydrocarbon của EU và Hoa Kỳ giảm mạnh. Cách đọc: hàng của Mỹ và EU đi sang CCA nhiều hơn hẳn, còn Nga mua của CCA nhiều hơn hẳn, đúng hình mẫu của thương mại chuyển hướng qua một nước trung gian.
+
+CCA cũng mở rộng tỷ trọng trong xuất khẩu phi hydrocarbon của Trung Quốc, phản ánh việc định hướng lại thương mại qua Hành lang Giữa (tuyến vận tải từ Trung Quốc qua Kazakhstan, biển Caspi, Kavkaz sang châu Âu, tránh lãnh thổ Nga), nơi khối lượng vận chuyển tăng vọt. Chuyển hướng thương mại kéo theo nhập khẩu và xuất khẩu với các đối tác lớn tăng rõ trên dải rộng nhóm sản phẩm, đặc biệt trong khai khoáng và chế tạo: sắt thép, máy điện, hoá chất và xe cộ.
+
+*Với MENA*, dịch chuyển chủ yếu diễn ra ở các nước xuất khẩu dầu và với hàng hydrocarbon, khi EU thay thế một phần dầu khí nhập từ Nga. Tỷ trọng của MENA trong nhập khẩu hydrocarbon của EU tăng 30%, của Nga tăng 463%, và của Hoa Kỳ tăng 17%.
+
+**Sự thật thứ ba: hai khu vực đối mặt rào cản thương mại lớn.** Các nền kinh tế trong hai khu vực, đặc biệt là ngoài GCC, có khoảng cách lớn so với biên giới toàn cầu (mức của các nước làm tốt nhất) cả về rào cản thương mại lẫn hạ tầng và môi trường quản lý:
+
+| Chỉ tiêu | MENA và Pakistan trừ GCC | CCA | GCC | Nước tiên tiến | Thị trường mới nổi |
+|---|---|---|---|---|---|
+| Thuế quan (%) | khoảng 11,0 | khoảng 5,7 | khoảng 5,2 | khoảng 4,8 | khoảng 9,4 |
+| Rào cản phi thuế quan | khoảng 11,2 | khoảng 8,6 | khoảng 6,2 | khoảng 4,5 | khoảng 9,5 |
+| Chỉ số hiệu quả hậu cần (LPI, thang 1–5, cao là tốt) | khoảng 2,3 | khoảng 2,5 | khoảng 3,5 | khoảng 3,75 | khoảng 2,7 |
+| Chất lượng quản lý (cao là tốt) | khoảng 1,4 (thấp nhất) | khoảng 2,05 | khoảng 3,15 | khoảng 3,85 | khoảng 2,1 |
+
+Đọc bảng này: nhóm MENA và Pakistan trừ GCC có thuế quan gấp hơn hai lần nước tiên tiến, rào cản phi thuế quan gấp hơn hai lần rưỡi, và chất lượng quản lý chỉ bằng khoảng một phần ba. GCC là ngoại lệ, đã khá gần biên giới toàn cầu. Bài lập luận rằng "những khoảng cách này có thể gắn với tiềm năng thương mại bị ràng buộc, và việc gỡ bỏ chúng có thể mang lại lợi ích thương mại đáng kể".
 
 ### 3. Mô hình
 
-- Mô hình tích hợp hai chiều. Thứ nhất, nó đánh giá tác động của các kịch bản phân mảnh khác nhau, xét tới rào cản thương mại cùng các liên minh kinh tế khu vực và toàn cầu. Thứ hai, nó xét phân tích phản thực để đánh giá hiệu quả của các chính sách nhằm giảm nhẹ tác động đó.
-- Bài dùng mô hình cân bằng tổng thể đa quốc gia một đầu ra vì phân tích cân bằng tổng thể của mô hình lực hấp dẫn cấu trúc cho phép mô phỏng nhiều kịch bản, xét các thay đổi chính sách, hành vi kinh tế và phản ứng ở cả cấp quốc gia lẫn toàn cầu. Nó làm nổi bật cách thay đổi ở một nơi có thể ảnh hưởng tới xuất khẩu, nhập khẩu, giá cả và phân phối thu nhập toàn cầu.
-- Mô hình chuẩn dựa trên Armington, với thế giới gồm N nước, mỗi nước sản xuất một hàng hoá duy nhất được phân biệt theo nơi xuất xứ. Sở thích giống nhau giữa các nước và được biểu diễn bằng hàm hữu dụng có độ co giãn thay thế không đổi.
-- Hai số hạng sức cản đa phương, hướng vào và hướng ra, là phương tiện chuyển tác động cân bằng từng phần của chính sách thương mại ở cấp song phương thành tác động riêng từng nước lên giá tiêu dùng và giá sản xuất.
-- Chi phí thương mại được mô hình hoá theo kiểu tảng băng, tức chỉ một phần hàng hoá được giao dịch tới nơi. Cách này cho phép mô hình hoá dải rộng rào cản ngoài thuế quan, gồm chi phí vận tải, bảo hiểm, kém hiệu quả hậu cần và gánh nặng quản lý, tất cả đều có thể hình dung như phần hàng hoá tan chảy trên đường vận chuyển.
-- Ước lượng dùng phương pháp Poisson giả hợp lý cực đại với hiệu ứng cố định nước xuất khẩu, nước nhập khẩu và cặp nước xuất nhập. Hiệu ứng cố định cặp nước được dùng để tính tới mất cân bằng thương mại và chi phí thương mại bất đối xứng. Bài cũng đưa cả dòng thương mại nội địa vào ước lượng khi nước xuất trùng nước nhập.
-- Độ co giãn thay thế được hiệu chuẩn bằng bảy, tương ứng độ co giãn thương mại bằng sáu, là giá trị trung bình của các độ co giãn thương mại dài hạn được khảo sát trong tài liệu. Bài lưu ý rằng trong ngắn hạn, độ co giãn thay thế nhiều khả năng thấp hơn, hàm ý thiệt hại thương mại và GDP có thể lớn hơn.
+**Hai chiều phân tích.** Mô hình làm hai việc: đánh giá tác động của các kịch bản phân mảnh khác nhau, có xét rào cản thương mại cùng các liên minh kinh tế khu vực và toàn cầu; và chạy phân tích phản thực để đánh giá hiệu quả của các chính sách nhằm giảm nhẹ tác động đó.
+
+**Vì sao dùng cân bằng tổng thể.** Bài dùng mô hình cân bằng tổng thể đa quốc gia một đầu ra (mỗi nước sản xuất một loại hàng), dựa trên Armington (1969) và Anderson–van Wincoop (2003), theo đặc tả của Larch và Yotov (2016) và Yotov và cộng sự (2016). Phân tích cân bằng tổng thể của mô hình lực hấp dẫn cấu trúc cho phép mô phỏng nhiều kịch bản, xét thay đổi chính sách, hành vi kinh tế và phản ứng ở cả cấp quốc gia lẫn toàn cầu, và làm nổi bật cách một thay đổi ở một nơi có thể ảnh hưởng tới xuất khẩu, nhập khẩu, giá cả và phân phối thu nhập toàn cầu.
+
+**Giả định cơ bản.** Thế giới gồm N nước, mỗi nước sản xuất một hàng hoá duy nhất được phân biệt theo nơi xuất xứ (giả định Armington). Sở thích giống nhau giữa các nước và được biểu diễn bằng hàm hữu dụng có độ co giãn thay thế không đổi (CES).
+
+**Phương trình lực hấp dẫn cấu trúc:**
+
+X(i,j) = [Y(i)·E(j)/Y] · [t(i,j)/(Π(i)·P(j))]^(1−σ)
+
+| Ký hiệu | Ý nghĩa |
+|---|---|
+| X(i,j) | Dòng thương mại từ nước i sang nước j |
+| Y(i) | Tổng sản xuất ở nước xuất khẩu i |
+| E(j) | Tổng chi tiêu ở nước nhập khẩu j |
+| Y | Tổng sản lượng thế giới |
+| t(i,j) | Ma sát thương mại song phương |
+| Π(i) | Sức cản đa phương hướng ra của nước xuất khẩu |
+| P(j) | Sức cản đa phương hướng vào của nước nhập khẩu |
+| σ | Độ co giãn thay thế |
+
+Diễn đạt bằng lời: thương mại giữa hai nước tỷ lệ với quy mô của họ, và giảm khi chi phí song phương cao so với chi phí bình quân của mỗi bên với mọi đối tác. Hai số hạng sức cản đa phương là phương tiện chuyển tác động cân bằng từng phần của chính sách ở cấp song phương thành tác động riêng từng nước lên giá tiêu dùng và giá sản xuất.
+
+**Chi phí tảng băng.** Chi phí thương mại được mô hình hoá theo kiểu tảng băng (Samuelson 1952): chỉ một phần hàng hoá tới được đích, phần còn lại "tan chảy" trên đường. Cách này cho phép mô hình hoá dải rộng rào cản ngoài thuế quan, gồm chi phí vận tải, bảo hiểm, kém hiệu quả hậu cần và gánh nặng quản lý.
+
+**Ước lượng.** Bài dùng phương pháp Poisson giả hợp lý cực đại (PPML, Santos Silva và Tenreyro 2006), phương pháp xử lý được các cặp nước có thương mại bằng không. Hồi quy có hiệu ứng cố định nước xuất khẩu, nước nhập khẩu và cặp nước xuất–nhập; hiệu ứng cố định cặp nước dùng để tính tới mất cân bằng thương mại và chi phí thương mại bất đối xứng (theo Waugh 2010). Bài cũng đưa cả dòng thương mại nội địa vào ước lượng, khi nước xuất trùng nước nhập (i = j), theo Yotov (2022).
+
+**Tham số.** Độ co giãn thay thế σ được hiệu chuẩn bằng 7, tương ứng độ co giãn thương mại bằng σ − 1 = 6, là giá trị trung bình của các độ co giãn thương mại dài hạn được Bolhuis và cộng sự (2023) khảo sát. Bài tự nhận rằng trong ngắn hạn độ co giãn nhiều khả năng thấp hơn, hàm ý thiệt hại thương mại và GDP có thể lớn hơn kết quả mô hình.
+
+**Dữ liệu.** Cơ sở dữ liệu CEPII Gravity (Conte và cộng sự 2023), giai đoạn 2000–2019, với 32 nước MENA và CCA.
 
 ### 4. Ba kịch bản
 
-- Bài nhấn mạnh rõ rằng các kịch bản chỉ mang tính minh hoạ và giả định, phục vụ mục đích phân tích, không phản ánh hiện trạng hay dự báo diễn biến trong tương lai gần, và kết quả được trình bày cho nhóm nước nên có thể không áp dụng cho từng nước riêng lẻ trong nhóm.
-- Kịch bản một hình dung Liên minh châu Âu và Hoa Kỳ ngừng toàn bộ thương mại với Nga trong khi thương mại giữa các nước khác diễn ra bình thường, tương đồng với kịch bản tách rời chiến lược trong tài liệu trước.
-- Kịch bản hai và ba mô tả thế giới chia thành ba khối: khối phía đông quanh Trung Quốc và Nga, khối phía tây quanh Liên minh châu Âu và Hoa Kỳ, cùng một khối trung lập không liên kết. Thương mại giữa hai khối đông và tây ngừng lại, trong khi khối trung lập tiếp tục giao thương với bất kỳ đối tác nào.
-- Ở kịch bản hai, mọi nước khác gồm cả Kavkaz, Trung Á, Trung Đông, Bắc Phi và Pakistan đều thuộc khối trung lập. Kịch bản này tương tự kịch bản một về mặt ý tưởng nhưng tạo ra chuyển hướng thương mại mạnh hơn cho hai khu vực.
-- Kịch bản ba xác định các khối dựa trên hình mẫu bỏ phiếu tại Đại hội đồng Liên Hợp Quốc trong Khoá 77 bắt đầu từ tháng chín năm 2022. Khác với công trình trước vốn chỉ dùng một nghị quyết về việc đình chỉ tư cách thành viên Hội đồng Nhân quyền của Nga, bài xét toàn bộ số phiếu trong khoá đó và tính thước đo khoảng cách điểm lý tưởng theo phương pháp đo sự gần gũi địa chính trị một cách nhất quán theo thời gian, đồng thời có ưu điểm là không phụ thuộc vào các vấn đề cụ thể được đưa ra bỏ phiếu.
+Bài nhấn mạnh rằng các kịch bản chỉ mang tính minh hoạ và giả định, phục vụ mục đích phân tích, không phản ánh hiện trạng và không phải dự báo diễn biến trong tương lai gần. Kết quả được trình bày cho nhóm nước nên có thể không áp dụng cho từng nước riêng lẻ trong nhóm.
+
+| Kịch bản | Mô tả | Vị trí của MENA và CCA |
+|---|---|---|
+| 1 | EU và Hoa Kỳ ngừng toàn bộ thương mại với Nga; các nước khác giao thương bình thường. Tương đồng với kịch bản "tách rời chiến lược" của Bolhuis, Chen và Kett (2023) | Bên ngoài cuộc cắt đứt |
+| 2 | Ba khối: Đông (Trung Quốc và Nga), Tây (EU và Hoa Kỳ), Trung lập. Thương mại Đông–Tây ngừng; khối trung lập giao thương với bất kỳ ai | Tất cả nước MENA, CCA và Pakistan thuộc khối trung lập |
+| 3 | Ba khối xác định bằng bỏ phiếu tại Liên Hợp Quốc | Tuỳ từng nước; đây là kịch bản nghiêm trọng nhất |
+
+Kịch bản 2 giống kịch bản 1 về ý tưởng nhưng tạo ra chuyển hướng thương mại mạnh hơn cho hai khu vực, vì không chỉ Nga mà cả Trung Quốc bị cắt khỏi phương Tây.
+
+**Cách xác định khối ở kịch bản 3.** Bài dùng toàn bộ phiếu bầu trong Khoá 77 của Đại hội đồng Liên Hợp Quốc (bắt đầu từ tháng 9/2022), rồi tính khoảng cách điểm lý tưởng theo Bailey và cộng sự (2017). Nước nằm trong nhóm 25% xa G7 nhất được xếp vào khối Đông. Cách này khác công trình trước, vốn chỉ dùng một nghị quyết: đình chỉ tư cách thành viên Hội đồng Nhân quyền của Nga ngày 7/4/2022. Ưu điểm của khoảng cách điểm lý tưởng là đo sự gần gũi địa chính trị một cách nhất quán theo thời gian và không phụ thuộc vào các vấn đề cụ thể được đưa ra bỏ phiếu. Vì một số nước MENA và CCA bị xếp vào khối Đông, họ mất quyền giao thương với phương Tây, nên đây là kịch bản nghiêm trọng nhất.
 
 ### 5. Kết quả giai đoạn một
 
-- Ba tham số cấu trúc đều có ý nghĩa ở mức một phần trăm. Rào cản thương mại cao hơn làm giảm thương mại, với mức giảm một độ lệch chuẩn dẫn tới mức tăng bình quân một trăm linh bốn phần trăm thương mại song phương.
-- Một điểm quan trọng được nêu: tác động hạn chế của rào cản phi thuế quan là đáng kể, với phần lớn lợi ích thương mại được quy cho thay đổi ở nhóm này chứ không phải thuế quan.
-- Hạ tầng tốt hơn và môi trường quản lý tốt hơn đều đi kèm dòng thương mại cao hơn. Cải thiện một độ lệch chuẩn về hạ tầng của nước xuất khẩu tương quan với mức tăng bình quân tám phẩy bảy phần trăm thương mại song phương, và lợi ích được nhân lên nếu cả nước nhập lẫn nước xuất cùng cải thiện đồng thời. Cải thiện một độ lệch chuẩn về môi trường quản lý đi kèm mức tăng bình quân mười hai phần trăm.
-- Bài đưa ra một cảnh báo quan trọng về thứ tự ưu tiên: dù cải thiện hạ tầng là thiết yếu, tác động của chúng lên xuất khẩu có thể bị hạn chế trừ khi đi kèm các biện pháp rộng hơn xử lý rào cản thương mại mang tính hệ thống.
-- Các biến lực hấp dẫn truyền thống cũng có vai trò rõ, gồm thu nhập, khoảng cách, chung biên giới, chung ngôn ngữ và tình trạng không giáp biển. Đáng chú ý là tình trạng không giáp biển của nước nhập khẩu có tác động âm có ý nghĩa, trong khi của nước xuất khẩu thì không, một kết quả đặc biệt liên quan tới Kavkaz và Trung Á nơi mọi nước đều không giáp biển.
+Giai đoạn một ước lượng mức độ các rào cản ảnh hưởng tới thương mại, dùng PPML với hiệu ứng cố định nước xuất và nước nhập:
+
+| Tham số | Giá trị (sai số chuẩn) | Quy ra một độ lệch chuẩn |
+|---|---|---|
+| Chỉ số hạn chế thương mại tổng hợp (MATR) | −0,2274\*\*\* (0,0159) | Giảm rào cản một độ lệch chuẩn → thương mại song phương tăng bình quân 104% |
+| Hạ tầng | +0,1533\*\*\* (0,0300) | Cải thiện một độ lệch chuẩn ở nước xuất khẩu → thương mại song phương tăng bình quân 8,7% |
+| Môi trường quản lý | +0,1223\*\*\* (0,0443) | Cải thiện một độ lệch chuẩn → thương mại song phương tăng bình quân 12% |
+
+Cả ba tham số đều có ý nghĩa ở mức 1%. Hai điểm quan trọng:
+
+1. Tác động hạn chế của rào cản phi thuế quan là đáng kể: "phần lớn lợi ích thương mại được quy cho thay đổi ở rào cản phi thuế quan", chứ không phải thuế quan.
+2. Lợi ích của hạ tầng được nhân lên nếu cả nước nhập lẫn nước xuất cùng cải thiện đồng thời.
+
+Bài đưa ra một cảnh báo về thứ tự ưu tiên: "dù cải thiện hạ tầng là thiết yếu, tác động của chúng lên xuất khẩu có thể bị hạn chế trừ khi đi kèm các biện pháp rộng hơn xử lý rào cản thương mại mang tính hệ thống".
+
+**Chỉ số MATR là gì.** Thước đo Hạn chế Thương mại Tổng hợp của Estefania-Flores và cộng sự (2022) là tổng không gia quyền các biến nhị phân (có/không) trong Báo cáo thường niên về Thu xếp và Hạn chế Ngoại hối (AREAER) của IMF, liên quan tới năm nhóm: (1) biện pháp hối đoái; (2) thu xếp thanh toán và thu tiền; (3) nhập khẩu và thanh toán nhập khẩu; (4) xuất khẩu và nguồn thu xuất khẩu; (5) thanh toán và thu nhập từ các giao dịch vô hình và chuyển giao vãng lai. Tức là MATR cũng bắt nguồn từ AREAER, giống họ chỉ số kiểm soát vốn, nhưng nhắm vào thương mại.
+
+**Các biến lực hấp dẫn truyền thống** (mô hình đầy đủ) cũng có vai trò rõ:
+
+| Biến | Hệ số |
+|---|---|
+| Log GDP nước xuất khẩu | 0,850\*\*\* |
+| Log GDP nước nhập khẩu | 0,815\*\*\* |
+| Log khoảng cách | −0,753\*\*\* |
+| Chung biên giới | +0,520\*\*\* |
+| Chung ngôn ngữ | +0,231\*\* |
+| Nước nhập khẩu không giáp biển | −0,223\*\*\* |
+| Nước xuất khẩu không giáp biển | −0,130 (không có ý nghĩa) |
+
+Đáng chú ý là tình trạng không giáp biển của nước nhập khẩu có tác động âm có ý nghĩa, trong khi của nước xuất khẩu thì không. Nói cách khác, không giáp biển gây thiệt hại khi nhập khẩu nhiều hơn khi xuất khẩu. Kết quả này đặc biệt liên quan tới CCA, nơi mọi nước đều không giáp biển.
 
 ### 6. Kết quả cân bằng tổng thể
 
-- Ở kịch bản một, các nước trong hai khu vực trung bình nhận được lan toả ngoài ý muốn từ dòng thương mại tăng, dẫn tới lợi ích khiêm tốn về tỷ trọng xuất khẩu, khoảng một phần trăm cho Kavkaz và Trung Á và khoảng nửa điểm phần trăm cho Trung Đông, Bắc Phi và Pakistan.
-- Ở kịch bản hai, hai khu vực có thể đóng vai trò người kết nối trung lập cho thương mại giữa các khối đã cắt quan hệ, dẫn tới lợi ích thương mại và sản lượng vượt kịch bản một. Xuất khẩu tăng hai tới ba phần trăm, với sản lượng tăng trung bình không phẩy hai lăm tới không phẩy bốn phần trăm.
-- Ở kịch bản ba, nghiêm trọng hơn, nhiều nước chịu thiệt hại về thương mại và GDP. Thiệt hại đặc biệt lớn với các nước Trung Đông và Bắc Phi ngoài Hội đồng Hợp tác Vùng Vịnh, với mức giảm bảy phẩy bốn phần trăm xuất khẩu và không phẩy tám phần trăm GDP, trong khi Kavkaz và Trung Á giảm một phẩy một phần trăm xuất khẩu.
-- Bài giải thích vì sao tác động lên GDP nhỏ hơn tác động lên xuất khẩu khoảng một bậc độ lớn, bằng hai lý do. Thứ nhất, xuất khẩu chiếm tỷ trọng tương đối nhỏ trong GDP của nhiều nước trong hai khu vực, phản ánh chính các rào cản thương mại cao và yếu tố địa lý. Thứ hai, có hiệu ứng thay thế: khi rào cản cao làm hàng nhập đắt tương đối hơn, tiêu dùng trong nước có xu hướng tăng. Điều này bù đắp phần nào mức giảm xuất khẩu, nhưng cũng làm giảm phúc lợi người tiêu dùng vì họ ưa một rổ tiêu dùng đa dạng.
-- Một giới hạn quan trọng được nêu thẳng: mô hình lực hấp dẫn cấu trúc chỉ tính thương mại trực tiếp giữa nước xuất và nước nhập, không tính thương mại được trung gian qua nước thứ ba trong kịch bản phân mảnh. Do đó kết quả có thể là giới hạn dưới với các nước có thể nổi lên làm trung gian thương mại. Bài cũng dẫn cảnh báo rằng việc trở thành nước kết nối không nhất thiết làm tăng đa dạng hoá, củng cố chuỗi cung ứng hay giảm phụ thuộc chiến lược.
+**Quy trình bốn bước** (theo Yotov và cộng sự 2016, mở rộng để xét đồng thời kịch bản phân mảnh và phản ứng chính sách):
+
+1. Giải mô hình cơ sở bằng PPML và dựng các số hạng sức cản đa phương.
+2. Định nghĩa phản thực: nâng chi phí thương mại giữa các khối đối lập, rồi mô phỏng hành động chính sách.
+3. Giải mô hình phản thực ở cả điều kiện "có điều kiện" (giữ sản lượng cố định) lẫn "trang bị đầy đủ" (cho giá tại cổng nhà máy điều chỉnh).
+4. Biểu thị kết quả dưới dạng phần trăm thay đổi so với cơ sở.
+
+**Tác động cơ sở khi không có hành động chính sách** (% thay đổi):
+
+| Kịch bản | Xuất khẩu CCA | Xuất khẩu GCC | Xuất khẩu MENA trừ GCC | GDP CCA | GDP GCC | GDP MENA trừ GCC |
+|---|---|---|---|---|---|---|
+| 1 | +1,0 | +0,5 | +0,5 | +0,03 | +0,05 | +0,05 |
+| 2 | +3,2 | +2,0 | +3,4 | +0,38 | +0,24 | +0,39 |
+| 3 | −1,1 | +0,4 | −7,4 | −0,17 | −0,08 | −0,8 |
+
+Ba cách đọc:
+
+1. **Kịch bản 1:** các nước trong hai khu vực trung bình nhận được "lan toả ngoài ý muốn" từ chuyển hướng thương mại do các hạn chế nhắm vào những nền kinh tế lớn. Lợi ích khiêm tốn: xuất khẩu tăng khoảng 1% cho CCA và khoảng nửa điểm phần trăm cho MENA và Pakistan.
+2. **Kịch bản 2:** lợi ích mạnh nhất, vì MENA và CCA đóng vai trò "người kết nối trung lập" cho thương mại giữa các khối đã cắt quan hệ (Gopinath và cộng sự 2024). Xuất khẩu tăng khoảng 2 tới 3,4%, sản lượng tăng trung bình khoảng 0,25 tới 0,4%.
+3. **Kịch bản 3:** nhiều nước chịu thiệt về thương mại và GDP. Thiệt hại tập trung nặng ở nhóm MENA ngoài GCC: xuất khẩu giảm 7,4%, GDP giảm 0,8%; CCA giảm 1,1% xuất khẩu.
+
+**Vì sao tác động lên GDP nhỏ hơn tác động lên xuất khẩu khoảng một bậc độ lớn** (khoảng mười lần). Hai lý do:
+
+1. Xuất khẩu chiếm tỷ trọng tương đối nhỏ trong GDP của nhiều nước MENA và CCA, phản ánh chính các rào cản thương mại cao và yếu tố địa lý.
+2. Hiệu ứng thay thế: khi rào cản cao làm hàng nhập đắt tương đối hơn, tiêu dùng hàng trong nước có xu hướng tăng. Điều này bù đắp phần nào mức giảm xuất khẩu trong GDP, nhưng cũng làm giảm phúc lợi người tiêu dùng, vì họ ưa một rổ tiêu dùng đa dạng.
+
+**Giới hạn quan trọng bài tự nêu.** "Mô hình lực hấp dẫn cấu trúc chỉ tính thương mại trực tiếp giữa nước xuất và nước nhập, không tính thương mại được trung gian qua nước thứ ba trong kịch bản phân mảnh." Do đó kết quả có thể là giới hạn dưới với các nước có thể nổi lên làm trung gian thương mại. Đồng thời bài dẫn Gopinath và cộng sự để cảnh báo rằng việc trở thành "nước kết nối" "không nhất thiết làm tăng đa dạng hoá, củng cố chuỗi cung ứng hay giảm phụ thuộc chiến lược".
 
 ### 7. Tác động của hành động chính sách
 
-- Mọi hành động chính sách đều được hiệu chuẩn ở mức thu hẹp hai mươi phần trăm khoảng cách so với các nền kinh tế tiên tiến. Bài nói rõ đây là lựa chọn giả định, và mức thu hẹp cao hơn sẽ tốn kém và bất khả thi với hầu hết nước trong khu vực.
-- Ở kịch bản một, hạ rào cản thương mại có thể đẩy xuất khẩu tăng mười bốn phần trăm cho Kavkaz và Trung Á và hơn mười lăm phần trăm cho Trung Đông, Bắc Phi và Pakistan ngoài Vùng Vịnh. Nâng cấp hạ tầng cho mức tăng khoảng bảy và tám phần trăm, nhờ cải thiện dòng thương mại trong nội bộ khu vực và liên khu vực. Cải thiện môi trường quản lý cho hơn ba và khoảng sáu phần trăm. Các lợi ích này chuyển thành sản lượng cao hơn từ một tới hai phần trăm ở Kavkaz và Trung Á, và từ một tới ba phần trăm ở nhóm ngoài Vùng Vịnh.
-- Ở kịch bản hai, lợi ích lớn hơn nhiều. Giảm rào cản thương mại cho mức tăng hơn mười bảy phần trăm ở Kavkaz và Trung Á, hơn hai mươi phần trăm ở nhóm Trung Đông ngoài Vùng Vịnh, và sáu phần trăm ở Vùng Vịnh. Nâng cấp hạ tầng cho hai mươi hai và hai mươi bốn phần trăm cho hai nhóm đầu. Lợi ích sản lượng bổ sung trải từ không phẩy bốn tới sáu phẩy ba phần trăm.
-- Ở kịch bản ba, hành động chính sách có thể ngăn thiệt hại kinh tế trong trung hạn và cải thiện kết quả thương mại cùng sản lượng, dù mức cải thiện nhìn chung kém rõ rệt hơn hai kịch bản đầu. Điểm quan trọng nhất là việc giảm hạn chế thương mại có thể đẩy xuất khẩu tăng hơn mười một phần trăm ở Kavkaz và Trung Á và khoảng tám phần trăm ở nhóm Trung Đông ngoài Vùng Vịnh, xoá bỏ hoàn toàn mọi thiệt hại sản lượng do phân mảnh gây ra trong kết quả cơ sở.
-- Tác động bình quân lên xuất khẩu và GDP ở Vùng Vịnh nhỏ hơn, vì các nước này đã gần biên giới toàn cầu hơn về hạn chế thương mại, chất lượng hạ tầng và môi trường quản lý. Điều này đúng logic: nước càng xa biên giới thì càng có nhiều dư địa để cải thiện.
-- Một điểm tinh tế về thứ tự ưu tiên xuất hiện khi đọc kỹ các con số. Ở kịch bản một, giảm rào cản là đòn bẩy mạnh nhất, nhưng ở kịch bản hai và ba thì nâng cấp hạ tầng vượt lên. Điều này gợi ý rằng khi thương mại phải định tuyến lại qua các hành lang mới, năng lực vật lý trở thành ràng buộc chặt hơn so với rào cản chính sách.
+**Hiệu chuẩn.** Mọi hành động chính sách đều được mô phỏng ở mức thu hẹp 20% khoảng cách so với các nền kinh tế tiên tiến. Ví dụ minh hoạ cách hiểu con số 20% (phép tính của người tổng hợp, không phải của bài), dùng bảng rào cản ở trên: thuế quan của nhóm MENA và Pakistan trừ GCC khoảng 11,0% so với 4,8% ở nước tiên tiến, khoảng cách 6,2 điểm; thu hẹp 20% nghĩa là hạ khoảng 1,2 điểm, xuống khoảng 9,8%. Bài nói rõ 20% là lựa chọn giả định, và mức thu hẹp cao hơn sẽ tốn kém và bất khả thi với hầu hết nước trong khu vực.
+
+**Lợi ích xuất khẩu từ ba hành động chính sách** (% thay đổi; cột cuối là tác động của kịch bản khi không có chính sách, để so sánh):
+
+| Kịch bản / nhóm nước | Giảm rào cản | Nâng cấp hạ tầng | Cải thiện quản lý | Tác động kịch bản (không chính sách) |
+|---|---|---|---|---|
+| **Kịch bản 1** | | | | |
+| CCA | +14% | +7% | +3% | +1,0% |
+| MENA trừ GCC | +15% | +8% | +6% | +0,5% |
+| **Kịch bản 2** | | | | |
+| CCA | +17,7% | +22,1% | +3% | +3,2% |
+| MENA trừ GCC | +20,4% | +24,1% | +11% | +3,4% |
+| GCC | +6% | +6% | +6% | +2,0% |
+| **Kịch bản 3** | | | | |
+| CCA | hơn +11% | +15,4% | +4% | −1,1% |
+| MENA trừ GCC | khoảng +8% | +11% | +3% | −7,4% |
+
+**Kịch bản 1.** Hạ rào cản thương mại có thể đẩy xuất khẩu tăng 14% cho CCA và hơn 15% cho MENA và Pakistan ngoài GCC. Nâng cấp hạ tầng cho mức tăng khoảng 7% và 8%, nhờ cải thiện dòng thương mại trong nội bộ khu vực và liên khu vực. Cải thiện môi trường quản lý cho hơn 3% và khoảng 6%. Các lợi ích này chuyển thành sản lượng cao hơn từ 1 tới 2% ở CCA, và từ 1 tới 3% ở nhóm MENA ngoài GCC.
+
+**Kịch bản 2.** Lợi ích lớn hơn nhiều. Giảm rào cản cho mức tăng 17,7% ở CCA, 20,4% ở nhóm MENA ngoài GCC và 6% ở GCC. Nâng cấp hạ tầng cho 22,1% và 24,1% ở hai nhóm đầu. Lợi ích sản lượng bổ sung trải từ +0,4% tới +6,3%.
+
+**Kịch bản 3.** Hành động chính sách có thể ngăn thiệt hại kinh tế trong trung hạn và cải thiện kết quả thương mại cùng sản lượng, dù mức cải thiện nhìn chung kém rõ rệt hơn hai kịch bản đầu. Giảm hạn chế thương mại có thể đẩy xuất khẩu tăng hơn 11% ở CCA và khoảng 8% ở nhóm MENA ngoài GCC, đủ xoá bỏ hoàn toàn mọi thiệt hại sản lượng do phân mảnh gây ra trong kết quả cơ sở.
+
+**So sánh quyết định: đọc cột cuối cùng với cột đầu.** Kịch bản nghiêm trọng nhất làm xuất khẩu MENA ngoài GCC giảm 7,4%. Nhưng chỉ cần thu hẹp 20% khoảng cách rào cản đã làm xuất khẩu của chính nhóm này, trong chính kịch bản đó, tăng khoảng 8%, đủ để xoá hết thiệt hại. Ở kịch bản thuận lợi, cùng hành động đó mang lại hơn 20% (20,4%), tức gần gấp ba lần thiệt hại tồi tệ nhất. Kết luận của bài: "hành động chính sách có thể ngăn thiệt hại kinh tế trong trung hạn và cải thiện kết quả thương mại và sản lượng".
+
+**GCC luôn có tác động nhỏ hơn**, vì các nước này đã gần biên giới toàn cầu hơn về hạn chế thương mại, chất lượng hạ tầng và môi trường quản lý. Điều này đúng logic: nước càng xa biên giới thì càng có nhiều dư địa để cải thiện, nên cùng mức thu hẹp 20% khoảng cách sẽ là một thay đổi lớn hơn về tuyệt đối.
+
+**Điểm tinh tế về thứ tự ưu tiên.** Ở kịch bản 1, giảm rào cản là đòn bẩy mạnh nhất (14–15%). Nhưng ở kịch bản 2 và 3, nâng cấp hạ tầng vượt lên (22,1% và 24,1% ở kịch bản 2; 15,4% và 11% ở kịch bản 3). Điều này gợi ý rằng khi thương mại phải định tuyến lại qua các hành lang mới, năng lực vật lý (cảng, đường sắt, cửa khẩu) trở thành ràng buộc chặt hơn so với rào cản chính sách. Dù vậy, cả ba đòn bẩy đều cần thiết, và bài nhấn mạnh rằng cải thiện hạ tầng đơn lẻ có thể không đủ nếu rào cản hệ thống vẫn còn.
 
 ### 8. Kết luận
 
-- Phát hiện tổng quát là phân mảnh địa kinh tế mang bản chất hai mặt, vừa tạo rủi ro vừa tạo lan toả cho hai khu vực, và tác động kinh tế phụ thuộc vào đặc thù của kịch bản.
-- Bài cũng nêu một kết luận về hợp tác: chính sách phối hợp ở hai khu vực, đặc biệt khi các nước duy trì trung lập trong căng thẳng địa chính trị, mang lại lợi ích kinh tế mạnh hơn và bền hơn nhờ tạo dựng ổn định và niềm tin, những điều mà các nỗ lực hội nhập khu vực trước đây chưa đạt được.
-- Bằng chứng thực nghiệm nhấn mạnh tầm quan trọng của các biện pháp chính sách chủ động. Chiến lược như giảm rào cản thương mại, nới lỏng ràng buộc quản lý và tăng đầu tư hạ tầng đều thiết yếu để thúc đẩy dòng thương mại và khả năng chống chịu kinh tế.
-- Kết luận cuối nhấn mạnh nhu cầu về phản ứng chính sách linh hoạt và hướng tới tương lai trước bất định địa kinh tế gia tăng. Bằng cách hiệu chỉnh lại chính sách thương mại, đa dạng hoá tiếp cận thị trường và củng cố khung hạ tầng, các nền kinh tế trong hai khu vực có thể xử lý tốt hơn các thách thức do phân mảnh địa kinh tế đặt ra.
+Phát hiện tổng quát là phân mảnh địa kinh tế mang bản chất hai mặt: nó vừa tạo rủi ro vừa tạo lan toả tích cực cho hai khu vực, và tác động kinh tế phụ thuộc vào đặc thù của từng kịch bản. Khi hai khu vực đứng trung lập giữa các khối (kịch bản 2), họ được lợi; khi một phần trong số họ bị kéo vào một khối (kịch bản 3), nhóm MENA ngoài GCC chịu thiệt nặng nhất.
+
+Bài cũng nêu một kết luận về hợp tác: chính sách phối hợp giữa các nước trong hai khu vực, đặc biệt khi các nước duy trì trung lập trong căng thẳng địa chính trị, mang lại lợi ích kinh tế mạnh hơn và bền hơn nhờ tạo dựng ổn định và niềm tin, những điều mà các nỗ lực hội nhập khu vực trước đây chưa đạt được.
+
+Bằng chứng thực nghiệm nhấn mạnh tầm quan trọng của các biện pháp chính sách chủ động. Giảm rào cản thương mại, nới lỏng ràng buộc quản lý và tăng đầu tư hạ tầng đều thiết yếu để thúc đẩy dòng thương mại và khả năng chống chịu kinh tế; và theo các con số ở trên, tác động của những chính sách trong tầm tay này lớn hơn tác động của cú sốc địa chính trị mà hai khu vực không kiểm soát được.
+
+Cuối cùng, bài nhấn mạnh nhu cầu về phản ứng chính sách linh hoạt và hướng tới tương lai trước bất định địa kinh tế gia tăng. Bằng cách hiệu chỉnh lại chính sách thương mại, đa dạng hoá tiếp cận thị trường và củng cố khung hạ tầng, các nền kinh tế trong hai khu vực có thể xử lý tốt hơn các thách thức do phân mảnh địa kinh tế đặt ra.
 
 ## Thuật ngữ
 
