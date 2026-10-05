@@ -223,57 +223,186 @@
 2. Hoạt động chính sách thương mại đã diễn biến thế nào từ sau khủng hoảng tài chính toàn cầu, và biện pháp tạo thuận lợi với biện pháp hạn chế có đi cùng nhau không?
 3. Sự gia tăng có phải chỉ do vài nền kinh tế lớn, hay diễn ra rộng khắp?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Biện pháp chính sách thương mại.** Mọi quyết định của nhà nước làm thay đổi điều kiện mua bán hàng hoá qua biên giới. Có hai hướng: biện pháp **hạn chế** (tăng thuế nhập khẩu, cấm, hạn ngạch, cấp phép, yêu cầu nội địa hoá, hạn chế xuất khẩu) và biện pháp **tạo thuận lợi** (giảm thủ tục hải quan, hạ thuế, mở cửa). Ngoài ra còn nhóm **trợ cấp** và **phòng vệ thương mại** (chống bán phá giá, chống trợ cấp, tự vệ). Ví dụ minh hoạ: trong cùng một tháng, một nước có thể vừa cấm xuất khẩu gạo vừa bỏ thuế nhập khẩu khẩu trang. Bài đếm tất cả các loại này, không chỉ thuế quan.
+
+**Cơ sở dữ liệu giám sát thương mại: TMDB và GTA.** Đây là hai nguồn mà bài dùng. TMDB (Trade Monitoring Database) là cơ sở dữ liệu của WTO, ghi biện pháp đã thực hiện qua kênh chính thức và được các thành viên xác minh. GTA (Global Trade Alert) là cơ sở dữ liệu độc lập của Đại học St. Gallen, thu cả biện pháp mới công bố từ nhiều nguồn công khai, kể cả báo chí, với phạm vi rộng hơn. Hai nguồn bổ sung nhau vì mỗi nguồn có điểm mù riêng.
+
+**Mã HS6.** Hệ thống hài hoà (Harmonized System) là bộ mã mà hải quan mọi nước dùng để phân loại hàng hoá; cấp 6 chữ số là mức chi tiết chung cho mọi nước. Ví dụ minh hoạ: một biện pháp áp lên "thép cán nóng" có thể chạm tới vài mã HS6, còn một biện pháp áp lên "mọi hàng điện tử" chạm tới hàng trăm mã. Bài dùng số mã HS6 bị ảnh hưởng để đo độ rộng của mỗi biện pháp, bên cạnh việc đếm số biện pháp.
+
+**Cửa sổ phát hiện (discovery window).** Biện pháp thường được phát hiện và nhập vào cơ sở dữ liệu muộn hơn ngày công bố. Nếu cứ đếm hết, những tháng gần đây sẽ trông như ít biện pháp hơn chỉ vì chưa kịp phát hiện. Cửa sổ phát hiện 12 tháng nghĩa là chỉ tính những biện pháp được phát hiện trong vòng 12 tháng kể từ khi công bố, để mọi tháng được đối xử như nhau. Ví dụ minh hoạ: một biện pháp công bố tháng 3/2015 nhưng tới tháng 6/2016 mới được ghi nhận thì không được tính.
+
+**Mô hình nhân tố động (dynamic factor model).** Phương pháp thống kê giả định rằng nhiều chuỗi số liệu cùng chịu tác động của một vài "nhân tố" chung không quan sát được, và nhân tố đó thay đổi theo thời gian. Mỗi chuỗi có một **hệ số tải** cho biết nó nhạy với nhân tố tới đâu. Ví dụ minh hoạ: doanh số bán ô tô, xi măng và điện đều tăng giảm theo "sức khoẻ nền kinh tế"; mô hình tìm ra đường chung đó và tự quyết định chuỗi nào đáng tin hơn. Ưu điểm là trọng số của mỗi chuỗi do dữ liệu quyết định, không áp đặt trước.
+
+**Nhân tố toàn cầu và nhân tố cục bộ.** Trong mô hình của bài, nhân tố toàn cầu là phần chuyển động chung của mọi chuỗi; nhân tố cục bộ là phần chuyển động riêng của một nhóm biện pháp (nhóm tạo thuận lợi hoặc nhóm khác). Khi nhân tố cục bộ gần 0, hai nhóm biện pháp cùng lên cùng xuống; khi nhân tố cục bộ của hai nhóm trái dấu, chúng đang tách ra. Nhờ đó bài phân biệt được giai đoạn các nước vừa siết vừa mở (khủng hoảng) với giai đoạn chỉ siết (căng thẳng thương mại).
+
+**Xu hướng và dừng (trend, stationarity).** Một chuỗi "dừng" là chuỗi dao động quanh một mức trung bình cố định và không trôi đi xa mãi. Nhiều chuỗi kinh tế có xu hướng đi lên nên không dừng. Bài tách xu hướng ra trước, ước lượng mô hình trên phần dao động (đã dừng), rồi cộng xu hướng trở lại. Ví dụ minh hoạ: số biện pháp mỗi tháng tăng dần từ 100 lên 200 trong mười năm; phần "100 lên 200" là xu hướng, còn các đợt vọt lên rồi hạ xuống quanh đường đó là dao động.
+
+**Đồng liên kết (cointegration).** Hai chuỗi không dừng được gọi là đồng liên kết nếu về dài hạn chúng đi cùng nhau, khoảng cách giữa chúng không trôi đi mãi. Bài dùng kiểm định này để hỏi chỉ số mới có đi cùng các chỉ số cũ không, và dùng R bình phương để đo phần biến động chung.
+
+## Nội dung chi tiết
 
 ### 1. Động cơ
 
-- Hoạt động chính sách thương mại có vẻ dày lên trong những năm gần đây, với chính phủ dùng nhiều công cụ cùng lúc, thường vừa hạn chế vừa tạo thuận lợi. Tổng giám đốc WTO nhận xét mức bao phủ thương mại của thuế quan tăng mạnh phản ánh bảo hộ gia tăng, nhưng đồng thời các thành viên cũng hành động để tạo thuận lợi cho thương mại.
-- Chính sách thương mại quan trọng với phúc lợi, phân phối và kết quả vĩ mô, nhưng môi trường nhiều công cụ và tần suất cao này là thách thức đo lường. Các chỉ số hiện có nắm được những khía cạnh quan trọng nhưng không đầy đủ.
+Hoạt động chính sách thương mại có vẻ dày lên trong những năm gần đây. Chính phủ dùng nhiều công cụ cùng lúc, gồm thuế quan, biện pháp phi thuế quan và trợ cấp, với tần suất ngày càng cao, và thường vừa hạn chế vừa tạo thuận lợi cho thương mại. Tổng giám đốc WTO nhận xét rằng mức bao phủ thương mại của thuế quan tăng mạnh phản ánh bảo hộ gia tăng, nhưng đồng thời các thành viên cũng hành động để tạo thuận lợi cho thương mại.
+
+Chính sách thương mại quan trọng với phúc lợi, phân phối thu nhập và kết quả vĩ mô, nhưng môi trường nhiều công cụ và tần suất cao này rất khó đo. Các thước đo hiện có nắm được những khía cạnh quan trọng nhưng không đầy đủ:
+
+| Loại thước đo hiện có | Ví dụ | Chỉ đo được |
+|---|---|---|
+| Chỉ số hạn chế thương mại | Anderson và Neary; Kee và cộng sự | Mức hạn chế tại một thời điểm, theo năm, theo nước |
+| Chỉ số từ tin tức | Bất định chính sách thương mại, rủi ro địa chính trị, bất định thế giới | Các sự kiện nổi bật trên báo chí |
+| Chỉ số phân mảnh địa chính trị | Fernández-Villaverde và cộng sự (2024) | Căng thẳng rộng, suy ra từ hành vi bỏ phiếu và liên kết kinh tế |
+
+Chỉ số Hoạt động Chính sách Thương mại (TPA) lấp khoảng trống này: nó đo **thay đổi chính sách thực tế**, theo **tháng**, phạm vi **toàn cầu** (197 nền kinh tế), gồm cả biện pháp tạo thuận lợi lẫn hạn chế, và kể cả những thay đổi không được báo chí chú ý.
 
 ### 2. Ba đóng góp
 
-- Thứ nhất, chỉ số cho bằng chứng mới về sự gia tăng can thiệp thương mại nằm sau các tranh luận về phân mảnh địa kinh tế, căng thẳng thương mại và chính sách công nghiệp, và cho thấy đồng chuyển động đáng kể giữa biện pháp tạo thuận lợi và hạn chế.
-- Thứ hai, về đo lường: các chỉ số hạn chế dựa trên phúc lợi đo mức ở cấp nước và theo năm, đồng thời đo tác động bộc lộ lên dòng thương mại chứ không đo trực tiếp thay đổi chính sách; các chỉ số từ tin tức nắm sự kiện nổi bật. TPA đo động thái, theo tháng, phạm vi toàn cầu, và gồm cả hai chiều.
-- Thứ ba, về phương pháp: mô hình nhân tố động vốn phổ biến trong dự báo và dự báo tức thời vĩ mô được đưa vào phân tích chính sách thương mại. Mô hình tự xác định trọng số từ dữ liệu, thay vì xem từng biến riêng rẽ hay cộng đơn giản. Cấu trúc khối được sửa để phân biệt biện pháp tạo thuận lợi với biện pháp khác.
+1. **Bằng chứng mới.** Chỉ số cho thấy sự gia tăng can thiệp thương mại nằm sau các tranh luận về phân mảnh địa kinh tế, căng thẳng thương mại và chính sách công nghiệp. Nó cũng cho thấy biện pháp tạo thuận lợi và biện pháp hạn chế có đồng chuyển động đáng kể, tức thường tăng giảm cùng lúc.
+2. **Đo lường.** Các chỉ số hạn chế dựa trên phúc lợi đo mức ở cấp nước và theo năm, và đo tác động bộc lộ lên dòng thương mại chứ không đo trực tiếp thay đổi chính sách. Các chỉ số từ tin tức chỉ nắm sự kiện nổi bật. TPA đo động thái, theo tháng, toàn cầu, và gồm cả hai chiều.
+3. **Phương pháp.** Mô hình nhân tố động, vốn phổ biến trong dự báo và dự báo tức thời kinh tế vĩ mô, được đưa vào phân tích chính sách thương mại. Mô hình tự xác định trọng số từ dữ liệu thay vì xem từng biến riêng rẽ hay cộng đơn giản. Cấu trúc khối của mô hình được sửa để phân biệt biện pháp tạo thuận lợi với các biện pháp khác.
 
 ### 3. Dữ liệu
 
-- Hai cơ sở dữ liệu đều ra đời sau khủng hoảng tài chính toàn cầu khi G20 yêu cầu các tổ chức quốc tế giám sát các biện pháp có tác động tiêu cực tới thương mại và đầu tư.
-- TMDB theo dõi biện pháp đã thực hiện của thành viên và quan sát viên WTO qua kênh chính thức và được thành viên xác minh, nhưng việc xác minh có thể trở thành ràng buộc khi thành viên diễn giải cam kết minh bạch một cách chọn lọc. GTA thu thập cả biện pháp đã công bố từ nhiều nguồn công khai, kể cả báo chí, phạm vi rộng hơn nhưng có xu hướng đếm dư mỗi lần sửa đổi.
-- Hai nguồn khác nhau ở phạm vi biện pháp, nguồn tin, thời điểm ghi nhận và tần suất cập nhật, nên kết hợp chúng giúp bao quát nhiều chính sách hơn và giảm thiên lệch riêng của mỗi nguồn.
-- Đầu vào gồm số biện pháp mới mỗi tháng, đo biên mở rộng, và số sản phẩm bình quân bị ảnh hưởng, đo mức độ áp dụng.
-- Cửa sổ phát hiện mười hai tháng đảm bảo mọi tháng được đối xử như nhau về thời gian phát hiện.
-- Mẫu từ tháng 1 năm 2010, năm đầy đủ đầu tiên của GTA, tới tháng 10 năm 2025, lần cập nhật TMDB gần nhất.
+Cả hai cơ sở dữ liệu đều ra đời sau khủng hoảng tài chính toàn cầu, khi G20 yêu cầu các tổ chức quốc tế giám sát những biện pháp có tác động tiêu cực tới thương mại và đầu tư.
+
+| | WTO TMDB (từ 10/2008) | Global Trade Alert (từ 2009) |
+|---|---|---|
+| Nguồn tin | Kênh chính thức; được thành viên xác minh (90–95%) | Nhiều nguồn công khai, kể cả nguồn không chính thức và báo chí |
+| Phạm vi | Biện pháp cấp quốc gia truyền thống của thành viên và quan sát viên WTO | Rộng hơn: cả trợ cấp, biện pháp cấp địa phương, biện pháp nhắm vào từng doanh nghiệp |
+| Thời điểm ghi nhận | Khi biện pháp đã thực hiện | Cả khi mới công bố |
+| Cập nhật | Hai lần mỗi năm | Liên tục, có bổ sung hồi tố |
+| Điểm yếu | Việc xác minh có thể thành ràng buộc khi thành viên diễn giải cam kết minh bạch một cách chọn lọc | Có xu hướng đếm dư, vì mỗi lần sửa đổi biện pháp lại được ghi |
+
+Cả hai nguồn đều không đầy đủ về rào cản kỹ thuật (TBT) và biện pháp vệ sinh dịch tễ (SPS), và chủ yếu bao phủ hàng hoá. Vì hai nguồn khác nhau ở phạm vi biện pháp, nguồn tin, thời điểm ghi nhận và tần suất cập nhật, kết hợp chúng giúp bao quát nhiều chính sách hơn và giảm thiên lệch riêng của mỗi nguồn.
+
+**Xử lý vấn đề hồi tố của GTA.** Biện pháp được thêm dần vào GTA khi được phát hiện, nên những tháng gần đây trông như có ít biện pháp hơn một cách giả tạo. Bài dùng cửa sổ phát hiện 12 tháng (Evenett và Fritz 2018): chỉ tính biện pháp được phát hiện trong vòng 12 tháng kể từ khi công bố. Cách này đảm bảo mọi tháng được đối xử như nhau về thời gian phát hiện. Bình quân 77,9% biện pháp được phát hiện trong cửa sổ; ở G20 là 77,3%, ngoài G20 là 80,0%; tỷ lệ này không có xu hướng rõ theo thời gian.
+
+**Tám chuỗi đầu vào theo tháng.** Bài lấy hai thước đo: số biện pháp mới mỗi tháng (đo biên mở rộng, tức có bao nhiêu hành động mới) và số sản phẩm HS6 bình quân bị ảnh hưởng (đo mức độ áp dụng, tức mỗi hành động rộng tới đâu). Mỗi thước đo tính riêng cho hai nhóm biện pháp và hai nguồn, nên có 2 × 2 × 2 = 8 chuỗi.
+
+- **Nhóm tạo thuận lợi:** biện pháp được gắn nhãn "facilitating" trong TMDB và "green" trong GTA.
+- **Nhóm khác:** gồm biện pháp hạn chế (thuế, cấm, hạn ngạch, cấp phép, yêu cầu nội địa hoá, hạn chế xuất khẩu… theo phân loại của Deardorff 2014) và các biện pháp còn lại, chủ yếu là trợ cấp và phòng vệ thương mại.
+
+Chỉ số cơ sở bỏ các biện pháp ngoài thương mại của GTA như kiểm soát vốn, đầu tư trực tiếp nước ngoài, di cư và phá giá tiền tệ.
+
+**Mẫu** chạy từ tháng 1/2010, năm đầy đủ đầu tiên của GTA, tới tháng 10/2025, lần cập nhật TMDB gần nhất.
 
 ### 4. Phương pháp
 
-- Mô hình tách chuỗi thành xu hướng phi tuyến tất định, một nhân tố toàn cầu, hai nhân tố cục bộ và nhiễu riêng. Nhân tố tuân theo quá trình tự hồi quy bậc một dừng.
-- Vì hoạt động chính sách có cả thay đổi dài hạn lẫn dao động ngắn hạn, mô hình có thể xem như một phép phân rã xu hướng và chu kỳ của một nhân tố có thể không dừng: ước lượng hệ số tải từ phần chu kỳ rồi cộng xu hướng trở lại.
-- Xu hướng được ước bằng hồi quy bậc hai cục bộ, linh hoạt hơn cách tham số toàn cục; mô phỏng cho thấy xu hướng ước lượng phản ứng sau khoảng sáu tháng khi dữ liệu thay đổi.
-- Ước lượng hai bước kém hiệu quả hơn một chút so với ước lượng một bước nhưng cho kết quả nhất quán dưới các giả định của bài.
-- Một phiên bản tổng quát hơn cho phép hệ số tải thay đổi theo thời gian; ước lượng trên cửa sổ trượt cho kết quả nằm trong khoảng tin cậy, nên lựa chọn này không ảnh hưởng đáng kể.
+**Cấu trúc mô hình.** Mỗi chuỗi đầu vào y*(t) được tách thành bốn phần: một xu hướng phi tuyến tất định φ(t); phần do nhân tố toàn cầu f^g(t) nhân với hệ số tải Λg; phần do nhân tố cục bộ f^l(t) nhân với hệ số tải Λl; và một nhiễu riêng ε(t). Các nhân tố tuân theo quá trình tự hồi quy bậc một dừng, f(t) = A·f(t−1) + Q·u(t), nghĩa là giá trị của nhân tố tháng này phụ thuộc vào tháng trước cộng một cú sốc mới.
+
+**Cấu trúc khối** quyết định chuỗi nào được phép tải lên nhân tố nào:
+
+| | Nhân tố toàn cầu | Nhân tố cục bộ thuận lợi | Nhân tố cục bộ khác |
+|---|---|---|---|
+| Chuỗi thuận lợi | Có | Có | 0 |
+| Chuỗi khác | Có | 0 | Có |
+
+Nhờ vậy mô hình tách được phần chung của mọi biện pháp khỏi phần riêng của từng nhóm.
+
+Vì hoạt động chính sách có cả thay đổi dài hạn lẫn dao động ngắn hạn, mô hình có thể xem như một phép phân rã xu hướng và chu kỳ của một nhân tố có thể không dừng: ước lượng hệ số tải từ phần chu kỳ rồi cộng xu hướng trở lại.
+
+**Ước lượng theo các bước:**
+
+1. **Làm sạch từng chuỗi:** bỏ yếu tố mùa vụ bằng X-13ARIMA-SEATS, rồi bỏ xu hướng bằng hồi quy bậc hai cục bộ có trọng số theo khoảng cách (mỗi điểm được làm khớp bằng một đường cong bậc hai dựa trên các quan sát gần nó, quan sát càng gần càng nặng ký). Cách này linh hoạt hơn một dạng hàm toàn cục. Mô phỏng cho thấy xu hướng ước lượng phản ứng sau khoảng 6 tháng khi dữ liệu thay đổi. Kiểm định KPSS và ADF xác nhận chuỗi sau khi bỏ xu hướng là dừng.
+2. **Ước lượng mô hình:** hợp lý cực đại bằng thuật toán EM kết hợp bộ làm mượt Kalman (Bańbura và Modugno 2014). Cách này chịu được dữ liệu thiếu, ở đây khoảng 0,2%.
+3. **Cộng xu hướng trở lại vào nhân tố:** xu hướng của nhân tố được tính từ xu hướng của các chuỗi theo công thức Φf = (Λ'Λ)⁻¹ Λ'Φ, tức là một phép hồi quy xu hướng của các chuỗi lên hệ số tải.
+4. **Chuẩn hoá:** bình quân giai đoạn 1/2010–12/2011 được đặt bằng 0; giá trị dương nghĩa là hoạt động cao hơn mức nền.
+
+Ước lượng hai bước (bỏ xu hướng trước, ước lượng sau) kém hiệu quả hơn một chút so với ước lượng một bước, nhưng cho kết quả nhất quán dưới các giả định của bài.
+
+**Kết quả về hệ số tải.** Mọi chuỗi đều tải dương lên nhân tố toàn cầu. Chuỗi của GTA tải lớn hơn, lớn nhất là chuỗi số biện pháp nhóm khác của GTA.
+
+Một phiên bản tổng quát hơn cho phép hệ số tải thay đổi theo thời gian. Ước lượng trên cửa sổ trượt cho kết quả nằm trong khoảng tin cậy, nên giả định hệ số tải cố định không ảnh hưởng đáng kể.
 
 ### 5. Kết quả chính
 
-- Chỉ số có các đỉnh rõ trùng với các sự kiện lớn, cùng hai đỉnh ít được biết là năm 2013 và 2016.
-- Xu hướng đi lên tăng tốc từ 2020, trùng với việc dùng chính sách thương mại nhiều hơn cho cả mục tiêu thương mại lẫn phi thương mại, căng thẳng thương mại và phân mảnh địa kinh tế.
-- Chỉ số đi cùng các thước đo khác về dài hạn nhưng chứa nhiều thông tin riêng, kể cả so với thước đo phân mảnh gần gũi nhất. Chỉ số cũng có tần suất cao hơn, phù hợp với môi trường chính sách biến đổi nhanh.
+**Các đỉnh của chỉ số** (so với xu hướng) trùng với các sự kiện lớn, cùng hai đỉnh ít được biết là 2013 và 2016:
+
+| Năm | Sự kiện |
+|---|---|
+| 2013 | Kết thúc đàm phán Hiệp định Thuận lợi hoá Thương mại của WTO tại Bali, hiệp định đa phương lớn đầu tiên kể từ Vòng Uruguay, kéo theo làn sóng cải cách hải quan |
+| 2016 | Phản ứng với việc phá giá nhân dân tệ năm 2015, bùng nổ điều tra phòng vệ thương mại, trưng cầu Brexit |
+| 2018–2019 | Căng thẳng thuế quan Mỹ–Trung |
+| 2020 | Đại dịch COVID-19 |
+| 2022 | Chiến tranh Ukraine |
+| 2025 | Căng thẳng thương mại mới; mức cao nhất của toàn mẫu |
+
+**Xu hướng** đi lên và tăng tốc mạnh từ 2020, khi độ dốc vượt mức bình quân. Khoảng tin cậy 90% của chỉ số nằm trên 0 từ năm 2022. Sự tăng tốc trùng với việc dùng chính sách thương mại nhiều hơn cho cả mục tiêu thương mại lẫn phi thương mại, căng thẳng thương mại và phân mảnh địa kinh tế.
+
+**Độ bền của cú sốc.** Hệ số tự hồi quy khoảng 0,6, nghĩa là khoảng 60% phần vượt xu hướng của một tháng còn lại sang tháng sau. Ví dụ minh hoạ: nếu một tháng chỉ số vượt xu hướng 10 điểm, tháng sau trung bình còn khoảng 6 điểm, tháng sau nữa khoảng 3,6 điểm.
+
+**So với các chỉ số khác.** Kiểm định đồng liên kết Engle–Granger cho thấy TPA đồng liên kết với tất cả các chỉ số so sánh ở mức ý nghĩa 10%, tức có quan hệ dài hạn. Nhưng R bình phương của hồi quy đồng liên kết cho thấy phần chung không lớn:
+
+| Chỉ số so sánh | R bình phương |
+|---|---|
+| Phân mảnh địa chính trị (Fernández-Villaverde) | 0,51 |
+| Rủi ro địa chính trị (Caldara–Iacoviello) | 0,18 |
+| Bất định chính sách thương mại | 0,14 |
+| Bất định thương mại thế giới | 0,03 |
+
+Ngay cả với thước đo gần nhất, khoảng một nửa biến động của TPA là thông tin riêng. Các chỉ số từ tin tức thường nhọn quanh sự kiện, còn TPA bắt được cả các đỉnh lẫn thay đổi dần dần của môi trường chính sách. TPA cũng có tần suất cao hơn, phù hợp với môi trường chính sách biến đổi nhanh.
 
 ### 6. Theo nhóm biện pháp và nhóm nước
 
-- Biện pháp khác ngày càng chi phối nhân tố toàn cầu, nhưng biện pháp tạo thuận lợi đi cùng ở cấp toàn cầu, nhất là trong khủng hoảng khi các nước tìm cách dễ nhập hàng thiết yếu trong lúc hạn chế xuất khẩu.
-- Cấu trúc khối cho thấy tính chất đồng chuyển động khác nhau giữa các giai đoạn: đồng thuận trong khủng hoảng, tách rời trong căng thẳng thương mại.
-- Trợ cấp tăng diện rộng, hạn chế giải thích đỉnh năm 2025, còn tạo thuận lợi tăng riêng sau Hiệp định Thuận lợi hoá có hiệu lực.
-- G20 có xu hướng tăng sớm và bền hơn; ngoài G20 có đỉnh COVID lớn hơn. Trọng số theo GDP làm nổi bật đỉnh 2018–2019 và 2025.
-- Bỏ Mỹ và Trung Quốc vẫn thấy biện pháp hạn chế tăng tốc diện rộng từ 2022.
-- Bài lưu ý một phần khác biệt giữa G20 và ngoài G20 có thể do khác biệt về độ phủ dữ liệu, dù tỷ lệ phát hiện của GTA tương đương giữa hai nhóm và TMDB dựa trên nguồn chính thức.
+**Phương pháp phản thực.** Để xem mỗi nhóm biện pháp đóng góp gì, bài ước lại nhân tố toàn cầu chỉ với hệ số tải của một nhóm, đặt hệ số tải của các nhóm khác bằng 0, rồi chuẩn hoá.
+
+**Nhóm tạo thuận lợi và nhóm khác.** Cả hai đều đi lên. Nhóm khác ngày càng chi phối nhân tố toàn cầu, với khoảng cách giữa hai nhóm nới rộng nhất giai đoạn 2022–2025. Nhưng hai nhóm đồng chuyển động mạnh ở cấp toàn cầu, phù hợp với các nghiên cứu về:
+
+- gói chính sách trong khủng hoảng: hạn chế xuất khẩu kèm tạo thuận lợi nhập khẩu hàng thiết yếu;
+- tương tác chiến lược giữa các đối tác;
+- thay thế công cụ: tự do hoá chỗ này, bù bằng hạn chế chỗ khác;
+- tính chu kỳ của chính sách thương mại.
+
+**Nhân tố cục bộ tiết lộ khác biệt giữa các giai đoạn:**
+
+| Giai đoạn | Nhân tố cục bộ | Ý nghĩa |
+|---|---|---|
+| COVID, chiến tranh Ukraine | Gần 0 | Hai nhóm cùng phản ứng; nhân tố toàn cầu nắm hết |
+| 2018–2019, 2025 | Cục bộ nhóm khác dương, cục bộ nhóm thuận lợi âm | Hai nhóm tách ra: siết mà không mở |
+
+Nói gọn: đồng thuận trong khủng hoảng, tách rời trong căng thẳng thương mại. Nếu bỏ cấu trúc khối, chỉ số cao hơn sau 2019, vì mô hình trộn lẫn đồng chuyển động trong nhóm và giữa nhóm, làm lệch hệ số tải.
+
+**Tách tiếp nhóm khác:**
+
+| Nhóm | Diễn biến |
+|---|---|
+| Còn lại (chủ yếu trợ cấp) | Tăng diện rộng suốt kỳ, phù hợp với sự trở lại của chính sách công nghiệp |
+| Hạn chế | Giải thích phần lớn đỉnh 2025 (thuế quan, kiểm soát xuất khẩu) |
+| Thuận lợi | Tăng riêng sau khi Hiệp định Thuận lợi hoá Thương mại có hiệu lực năm 2017 |
+
+**G20 so với ngoài G20.** Cả hai nhóm đều có xu hướng dương; G20 tăng sớm hơn và bền hơn. Ngoài G20 có đỉnh COVID lớn hơn; G20 có đỉnh 2017–2018 và đỉnh 2025 rõ hơn. Phân theo nhóm biện pháp:
+
+- Trợ cấp tăng rõ nhất và diện rộng ở cả hai nhóm nước.
+- Ở G20, biện pháp hạn chế tách hẳn khỏi các nhóm khác năm 2018–2019 và đặc biệt năm 2025.
+- Ở ngoài G20, trợ cấp nhọn trong COVID; hạn chế năm 2025 kém rõ hơn; biện pháp thuận lợi trầm lắng từ 2022.
+
+Bài lưu ý một phần khác biệt giữa G20 và ngoài G20 có thể do khác biệt về độ phủ dữ liệu, dù tỷ lệ phát hiện của GTA tương đương giữa hai nhóm và TMDB dựa trên nguồn chính thức.
+
+**Trọng số theo GDP.** Khi gán trọng số cho mỗi nước theo tỷ trọng trong GDP thế giới bình quân 2005–2009, đỉnh COVID yếu đi, còn đỉnh 2018–2019 và 2025 nổi bật hơn, với cả ba nhóm biện pháp đều góp phần. Điều này hợp lý vì các nền kinh tế lớn là bên chính trong hai đợt căng thẳng thương mại.
+
+**Bỏ Mỹ và Trung Quốc.** Hai nước đóng góp quan trọng, nhất là năm 2025. Nhưng khi bỏ cả hai khỏi mẫu, biện pháp hạn chế vẫn tăng tốc diện rộng từ 2022. Sự gia tăng bảo hộ không chỉ do hai nền kinh tế lớn nhất, hay theo lời bài, không chỉ do các nước chiếm tiêu đề báo chí.
+
+**Kiểm tra độ vững:**
+
+| Kiểm tra | Kết quả |
+|---|---|
+| Bỏ cấu trúc khối | Động thái tương tự, nhưng chỉ số cao hơn sau 2019 |
+| Đổi cách tách xu hướng | Hồi quy cục bộ dùng 1/3 số quan sát, hoặc lọc xu hướng Tibshirani: hình dạng giữ nguyên. Xu hướng bậc hai toàn cục: khác hẳn, cho thấy cần cách tách linh hoạt |
+| Cửa sổ trượt 72 tháng | Kết quả nằm trong khoảng tin cậy 90% |
+| Thêm số nước thực hiện biện pháp; chỉ dùng số biện pháp; thêm biện pháp ngoài thương mại | Động thái nhất quán; độ lớn các đỉnh thay đổi như dự kiến (đỉnh 2025 cao hơn ở chỉ số cơ sở vì giai đoạn này chủ yếu dùng công cụ thương mại truyền thống) |
+| Cắt mẫu ở 10/2020 và 10/2022 | Hệ số tải không đổi |
+| Tách đóng góp xu hướng theo nguồn | Chỉ dùng xu hướng của TMDB vẫn giữ quỹ đạo đi lên, nên xu hướng không phải do thay đổi độ phủ của GTA |
 
 ### 7. Ứng dụng
 
-- Làm biến kiểm soát cho điều kiện chính sách thương mại toàn cầu trong các nghiên cứu về tác động của từng chính sách cụ thể, giúp giảm thiên lệch do bỏ sót biến.
-- Tần suất tháng phù hợp cho nghiên cứu sự kiện và phép chiếu địa phương về tác động động của cú sốc chính sách thương mại.
-- Nghiên cứu môi trường chính sách tổng thể điều tiết truyền dẫn cú sốc quốc tế thế nào, kể cả tái phân bổ thương mại và đầu tư, hoặc xem lại các yếu tố quyết định chính sách thương mại như tính chu kỳ.
-- Khung cho phép cập nhật định kỳ, thêm chỉ báo tần suất cao, và dùng cho dự báo tức thời.
+Bài nêu bốn cách dùng chỉ số:
+
+1. **Biến kiểm soát.** Trong các nghiên cứu về tác động của một chính sách cụ thể, TPA đại diện cho điều kiện chính sách thương mại toàn cầu, giúp giảm thiên lệch do bỏ sót biến. Ví dụ minh hoạ: khi đo tác động của một hiệp định thương mại ký năm 2018 lên xuất khẩu của một nước, nếu không kiểm soát việc cả thế giới đang dựng rào cùng lúc thì có thể đánh giá thấp tác dụng của hiệp định.
+2. **Nghiên cứu sự kiện và phép chiếu địa phương.** Tần suất tháng cho phép theo dõi tác động động của cú sốc chính sách thương mại qua từng tháng sau sự kiện.
+3. **Môi trường chính sách và truyền dẫn cú sốc.** Nghiên cứu cách môi trường chính sách tổng thể điều tiết việc truyền dẫn cú sốc quốc tế, kể cả tái phân bổ thương mại và đầu tư, hoặc xem lại các yếu tố quyết định chính sách thương mại như tính chu kỳ.
+4. **Cập nhật định kỳ và dự báo tức thời.** Khung cho phép cập nhật thường xuyên và thêm chỉ báo tần suất cao. Bài đã mở rộng chỉ số tới tháng 1/2026 bằng cửa sổ trượt khoảng 144 quan sát, kèm điều chỉnh tỷ lệ phát hiện cho các tháng chưa đủ 12 tháng. Kết quả: giá trị lịch sử gần như giữ nguyên, và chỉ số bắt được mức tăng mạnh đầu năm 2025. Vì vậy nó dùng được để cập nhật định kỳ và cho dự báo tức thời.
 
 ## Thuật ngữ
 

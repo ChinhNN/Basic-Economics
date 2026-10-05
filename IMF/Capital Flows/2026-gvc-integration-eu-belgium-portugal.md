@@ -376,92 +376,241 @@
 2. Yếu tố nào quyết định mức độ và kiểu hội nhập?
 3. Vì sao hai nước quy mô tương đương như Bỉ và Bồ Đào Nha lại ở hai thái cực?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Chuỗi giá trị toàn cầu (global value chain, GVC).** Cách sản xuất trong đó một sản phẩm đi qua nhiều nước, mỗi nước làm một công đoạn: nước này làm linh kiện, nước kia lắp ráp, nước thứ ba thiết kế và bán. Ví dụ minh hoạ: một chiếc ô tô bán ra từ Đức có thể chứa hộp số làm ở Séc, dây điện làm ở Romania và phần mềm viết ở Ireland. Khái niệm này quan trọng vì bài không hỏi một nước xuất khẩu bao nhiêu, mà hỏi nước đó đứng ở khâu nào của chuỗi và khâu đó mang lại lợi ích và rủi ro gì.
+
+**Liên kết xuôi (forward linkage).** Phần giá trị gia tăng trong nước nằm trong hàng xuất khẩu của nước khác, tính theo phần trăm xuất khẩu của mình. Liên kết xuôi cao nghĩa là nước đó là nhà cung ứng thượng nguồn: nó bán đầu vào để nước khác chế biến rồi xuất khẩu tiếp. Ví dụ trong bài: Romania, Hà Lan, Đức, Thuỵ Điển có liên kết xuôi cao nhất EU, khoảng 25% xuất khẩu.
+
+**Liên kết ngược (backward linkage).** Phần giá trị gia tăng nước ngoài nằm trong hàng xuất khẩu của chính mình. Ví dụ minh hoạ: một nhà máy xuất một chiếc máy tính giá 100 đô la, trong đó 65 đô la là giá trị của linh kiện nhập khẩu; liên kết ngược của sản phẩm này là 65%. Trong bài, Luxembourg có liên kết ngược khoảng 65%. Liên kết ngược cao nghĩa là hội nhập sâu nhưng dễ tổn thương khi nguồn cung đầu vào bị đứt gãy. Đọc hai chiều liên kết cùng nhau cho biết một nước là nhà cung ứng thượng nguồn hay người lắp ráp hạ nguồn.
+
+**Độ phức tạp kinh tế (economic complexity).** Thước đo của Hausmann và cộng sự, xét đồng thời hai điều: rổ xuất khẩu đa dạng tới đâu, và các sản phẩm trong rổ hiếm tới đâu (có ít hay nhiều nước khác cũng làm được). Một nước được coi là phức tạp hơn khi xuất khẩu nhiều loại hàng mà ít nước khác sản xuất được. Ví dụ trong bài: Ireland và Malta có tỷ trọng hàng công nghệ cao trên 50% nhưng không đứng đầu về độ phức tạp, vị trí đó thuộc về Đức và Séc. Khái niệm này cho thấy "xuất khẩu nhiều hàng công nghệ cao" chưa chắc là "có năng lực sản xuất phức tạp".
+
+**Chi phí lao động đơn vị (unit labor cost).** Tiền lương phải trả để làm ra một đơn vị sản phẩm, bằng tiền lương chia cho năng suất. Ví dụ minh hoạ: công nhân A lương 20 đô la một giờ, làm 10 sản phẩm mỗi giờ, chi phí lao động đơn vị là 2 đô la; công nhân B lương 10 đô la, làm 4 sản phẩm, chi phí là 2,5 đô la. Lương thấp không đồng nghĩa với rẻ. Bài dùng biến này để đo sức cạnh tranh chi phí, và chính ý "lương thấp bị năng suất thấp bào mòn" giải thích hoàn cảnh của nhóm nước thứ hai.
+
+**Học máy và giá trị SHAP.** Học máy là các thuật toán tìm quy luật từ dữ liệu mà không cần giả định trước dạng quan hệ (ví dụ không cần giả định quan hệ là đường thẳng). Nhược điểm là khó biết vì sao mô hình cho ra kết quả. Giá trị SHAP, dựa trên khái niệm Shapley trong lý thuyết trò chơi hợp tác, chia dự báo của mô hình thành phần đóng góp của từng biến. Ví dụ minh hoạ: mô hình dự báo trung bình một nước có mức hội nhập 50; với nước X nó dự báo 58, trong đó năng suất cao đẩy lên 10, chi phí lao động cao kéo xuống 2; thì SHAP của năng suất là +10 và của chi phí lao động là −2. Mọi con số "+0,38", "−1,50" trong bài đều là SHAP đã chuẩn hoá theo cách này.
+
+**Hiệu ứng cơ cấu ngành và hiệu ứng trong ngành.** Khi hai nước khác nhau ở một chỉ tiêu tổng, khoảng cách có thể đến từ hai nguồn: các ngành giống nhau nhưng làm kém hơn (hiệu ứng trong ngành), hoặc nước đó có nhiều ngành "loại khác" hơn (hiệu ứng cơ cấu ngành). Ví dụ minh hoạ: hai trường có điểm trung bình khác nhau; có thể vì học sinh cùng lớp ở trường A học kém hơn, hoặc vì trường A có nhiều lớp năng khiếu thể thao, vốn điểm văn hoá thấp hơn. Với Bồ Đào Nha, bài tìm ra hiệu ứng cơ cấu ngành chiếm 90% khoảng cách liên kết xuôi.
+
+**Phụ thuộc đường mòn (path dependency).** Tình trạng lựa chọn trong quá khứ khoá chặt lựa chọn hiện tại: một nước đã chuyên sâu vào vài ngành, có mạng lưới nhà cung ứng, lao động và hạ tầng phục vụ các ngành đó, nên rất khó chuyển sang hoạt động mới. Đây là một trong những rủi ro mà bài nêu cho các nước đã hội nhập sâu.
+
+## Nội dung chi tiết
 
 ### 1. Bối cảnh và lập luận trung tâm
 
-- Chuỗi giá trị toàn cầu đã định hình lại sản xuất quốc tế, mang lại cơ hội lớn nhưng tạo ra các điểm dễ tổn thương mới. Châu Âu nằm trong số các khu vực hội nhập sâu nhất vào mạng lưới thương mại, đầu tư và tri thức xuyên biên giới, nhưng các nước tham gia theo những cách rất khác nhau và ở những giai đoạn khác nhau.
-- Tài liệu nhận diện bốn hồ sơ hội nhập, và điểm quan trọng là các vị thế khác nhau này định hình cả quy mô lẫn thành phần của lợi ích từ thương mại, cũng như loại rủi ro mà mỗi nước đối mặt.
-- Lập luận trung tâm mang tính hai mặt. Với nước xuất khẩu hàng hoá cơ bản và nước chế tạo hạn chế, hội nhập từng là con đường quan trọng để tăng tốc năng suất và hội tụ thu nhập. Với nước ở khâu chế tạo tiên tiến, dịch vụ và đổi mới, hội nhập hỗ trợ nâng cấp công nghệ, tăng độ tinh vi xuất khẩu và cho phép thu tô từ nghiên cứu và thương hiệu. Nhưng càng hội nhập sâu thì việc tham gia càng phức tạp và trong nhiều trường hợp càng mong manh.
-- Bài nhấn mạnh một điều kiện quan trọng từ tài liệu: lợi ích từ hội nhập không tự động mà phụ thuộc vào các động lực năng suất trong nước như vốn con người, hạ tầng, ổn định vĩ mô và chất lượng thể chế, chứ không phải chỉ cần tham gia là đủ.
-- Với nước đi sau, các rào cản mới gồm điều kiện tài chính toàn cầu thắt chặt, xu hướng phi toàn cầu hoá, và chi phí cố định để đạt chuẩn ngày càng cao, bao gồm hạ tầng chất lượng, chứng nhận bền vững, quy tắc dữ liệu và an ninh mạng. Phân mảnh địa kinh tế và bất định chính sách càng khiến doanh nghiệp đầu chuỗi nghiêng về mạng lưới nhà cung ứng đã có.
-- Với nước đã hội nhập sâu, rủi ro là tập trung và lan truyền. Ngoài ra, chuyên môn hoá dày đặc trong mạng lưới sẵn có củng cố tính phụ thuộc đường mòn, và phụ thuộc nặng vào vài ngành neo có thể chèn lấn nguồn lực cùng sự chú ý chính sách khỏi các hoạt động mới nổi.
+Chuỗi giá trị toàn cầu đã định hình lại sản xuất quốc tế. Nó mở ra cơ hội lớn nhưng cũng tạo ra những điểm dễ tổn thương mới. Châu Âu nằm trong số các khu vực hội nhập sâu nhất vào mạng lưới thương mại, đầu tư và tri thức xuyên biên giới. Tuy vậy, các nước thành viên tham gia theo những cách rất khác nhau và ở những giai đoạn khác nhau.
+
+Bài dựa vào bốn hồ sơ hội nhập do Báo cáo Phát triển Thế giới 2020 đưa ra:
+
+| Hồ sơ | Đặc điểm | Lợi ích chính từ hội nhập |
+|---|---|---|
+| 1. Nước xuất khẩu hàng hoá cơ bản | Bán nguyên liệu thô, nông sản, khoáng sản | Bước nhảy từ hồ sơ 1 sang 2 cho mức tăng tốc tăng trưởng và tạo việc làm lớn nhất |
+| 2. Chế tạo hạn chế | Tham gia một số khâu chế tạo đơn giản | |
+| 3. Chế tạo tiên tiến và dịch vụ | Làm các khâu chế tạo phức tạp và dịch vụ đi kèm | Từ hồ sơ 3 trở đi, hội nhập củng cố nâng cấp năng suất, làm rổ hàng xuất khẩu phức tạp hơn, tăng lan toả tri thức |
+| 4. Nền kinh tế thâm dụng đổi mới | Dựa trên tác vụ phức tạp và tài sản vô hình (nghiên cứu, thương hiệu) | Cho phép thu lợi từ nghiên cứu và thương hiệu |
+
+Điểm quan trọng là vị thế khác nhau định hình cả quy mô lẫn thành phần của lợi ích từ thương mại, và cả loại rủi ro mà mỗi nước đối mặt.
+
+**Nghịch lý trung tâm: càng lên cao, lợi ích càng lớn nhưng rủi ro càng phức tạp.** Với nước xuất khẩu hàng hoá cơ bản và nước chế tạo hạn chế, hội nhập từng là con đường quan trọng để tăng tốc năng suất và đuổi kịp thu nhập. Với nước ở khâu chế tạo tiên tiến, dịch vụ và đổi mới, hội nhập hỗ trợ nâng cấp công nghệ và làm hàng xuất khẩu tinh vi hơn. Nhưng hội nhập càng sâu thì việc tham gia càng phức tạp, và trong nhiều trường hợp càng mong manh. Hai nhóm nước gặp hai loại rào cản khác nhau:
+
+| Với nước đi sau | Với nước đã hội nhập sâu |
+|---|---|
+| Điều kiện tài chính toàn cầu thắt chặt | Rủi ro tập trung và lan truyền: cú sốc chạy nhanh dọc các liên kết đầu vào và đầu ra |
+| Xu hướng phi toàn cầu hoá làm giảm lợi ích của chiến lược hướng về xuất khẩu | Kháng cự việc đa dạng hoá: chuyên môn hoá dày đặc trong mạng lưới sẵn có củng cố tính phụ thuộc đường mòn |
+| Chi phí cố định để đạt chuẩn ngày càng cao: hạ tầng chất lượng, chứng nhận bền vững, quy tắc dữ liệu, an ninh mạng | Phụ thuộc nặng vào vài ngành neo có thể chèn lấn nguồn lực và sự chú ý chính sách khỏi các hoạt động mới nổi |
+| Phân mảnh địa kinh tế và bất định chính sách khiến doanh nghiệp đầu chuỗi nghiêng về các nhà cung ứng cũ | Dễ tổn thương trước đứt gãy công nghệ và dịch chuyển của cầu |
+
+**Điều kiện then chốt.** Bài nhấn mạnh một kết luận từ các nghiên cứu trước: lợi ích từ hội nhập không tự động có. Nó phụ thuộc vào các động lực năng suất trong nước như vốn con người, hạ tầng, ổn định vĩ mô và chất lượng thể chế. Chỉ tham gia vào chuỗi thì chưa đủ.
 
 ### 2. Dữ liệu
 
-- Nguồn chính là cơ sở dữ liệu Thương mại theo Giá trị Gia tăng của OECD, dựng từ bảng đầu vào và đầu ra liên quốc gia phủ bảy mươi sáu nước và bốn mươi lăm ngành giai đoạn 1995 tới 2022. Điểm mạnh là nó phân rã luồng thương mại gộp thành cấu phần giá trị gia tăng trong nước và nước ngoài, và phủ cả dịch vụ chứ không chỉ chế tạo. Hạn chế là độ trễ thu thập, không có dữ liệu sau 2022.
-- Bổ sung bằng Eurostat, Ngân hàng Thế giới và dữ liệu độ phức tạp kinh tế của Hausmann và cộng sự. Độ phức tạp đo cả tính đa dạng của rổ xuất khẩu lẫn tính độc đáo của các sản phẩm, với nền kinh tế được coi là phức tạp hơn khi xuất khẩu nhiều loại hàng mà ít nước khác sản xuất được.
+Nguồn chính là cơ sở dữ liệu Thương mại theo Giá trị Gia tăng (TiVA) của OECD, dựng từ bảng đầu vào và đầu ra liên quốc gia, phủ 76 nước và 45 ngành giai đoạn 1995–2022.
+
+- **Điểm mạnh:** nó tách luồng thương mại gộp thành phần giá trị gia tăng trong nước và phần giá trị gia tăng nước ngoài, và phủ cả dịch vụ chứ không chỉ chế tạo. Nhờ vậy tính được hai chiều liên kết.
+- **Hạn chế:** dữ liệu thu thập có độ trễ, không có số liệu sau năm 2022.
+
+Bài bổ sung bằng dữ liệu của Eurostat, Ngân hàng Thế giới và dữ liệu độ phức tạp kinh tế của Hausmann và cộng sự. Độ phức tạp đo cả tính đa dạng của rổ xuất khẩu lẫn tính độc đáo của sản phẩm: nền kinh tế được coi là phức tạp hơn khi xuất khẩu nhiều loại hàng mà ít nước khác sản xuất được.
 
 ### 3. Bức tranh hội nhập ở châu Âu
 
-- Cơ cấu xuất khẩu EU27 vẫn tập trung mạnh vào chế tạo, dù dịch vụ kinh doanh đã mở rộng đều. Trong chế tạo, xe có động cơ, máy móc và điện tử vẫn chiếm tỷ trọng lớn nhất, còn dược phẩm tăng rõ trong những năm gần đây. Ở dịch vụ, thương mại và dịch vụ ăn uống vẫn lớn nhất nhưng tỷ trọng giảm dần, trong khi thông tin, tài chính và dịch vụ chuyên nghiệp tăng.
-- Vai trò của từng nước trong chuỗi khác nhau rất lớn, đo được qua hai chiều liên kết. Luxembourg và Malta hoạt động nhiều hơn với tư cách người lắp ráp hạ nguồn phụ thuộc đầu vào nước ngoài, còn Romania và Đức chủ yếu ở vị thế nhà cung ứng thượng nguồn. Khoảng một nửa cả hai chiều liên kết là với đối tác trong Liên minh, cho thấy còn nhiều dư địa để làm sâu hội nhập nội khối.
-- Về độ phức tạp và tỷ trọng công nghệ cao, cả hai chỉ tiêu đều rất không đồng đều. Điểm đáng chú ý là chuyên môn hoá vào hàng công nghệ cao không tự động dẫn tới độ phức tạp cao hơn, gợi ý rằng cơ cấu xuất khẩu của một số nước vẫn tập trung ở phạm vi hẹp sản phẩm, hoặc chính các sản phẩm đó cũng được nhiều nước khác sản xuất dù công nghệ tinh vi.
-- Mức độ liên kết dày đặc cũng trở thành nguồn dễ tổn thương. Các nền kinh tế châu Âu gắn kết qua cả mạng lưới nội vùng lẫn ngoại vùng, nên chịu phơi nhiễm trước cú sốc từ nhiều đối tác. Phơi nhiễm với Hoa Kỳ vẫn đáng kể cả trực tiếp qua xuất khẩu lẫn gián tiếp qua giá trị gia tăng nằm trong thương mại của nước thứ ba, nhưng đó chỉ là một kênh. Sự trở lại của thuế quan, việc dùng chính sách công nghiệp nhiều hơn và rủi ro quanh các phụ thuộc chiến lược như năng lượng và vật liệu thiết yếu càng làm nổi bật tính dễ tổn thương. Vì mật độ liên kết cao, đứt gãy chỉ ở một ngành hay một đối tác cũng lan nhanh qua mạng lưới và khuếch đại tác động chung.
+**Cơ cấu xuất khẩu EU27 đang dịch chuyển.** Xuất khẩu vẫn tập trung mạnh vào chế tạo, dù dịch vụ kinh doanh đã mở rộng đều.
+
+- Trong chế tạo, xe có động cơ, máy móc và điện tử vẫn chiếm tỷ trọng lớn nhất; dược phẩm tăng rõ trong những năm gần đây.
+- Trong dịch vụ, thương mại và dịch vụ ăn uống vẫn lớn nhất nhưng tỷ trọng giảm dần, còn thông tin, tài chính và dịch vụ chuyên nghiệp tăng. Đây là sự chuyển dịch sang các hoạt động thâm dụng tri thức.
+
+**Vai trò của từng nước khác nhau rất lớn**, thấy rõ khi đặt hai chiều liên kết cạnh nhau:
+
+| Chỉ tiêu (% xuất khẩu) | Cao nhất | Thấp nhất |
+|---|---|---|
+| Liên kết xuôi | Romania, Hà Lan, Đức, Thuỵ Điển (khoảng 25%) | Luxembourg, Malta, Síp (khoảng 10%) |
+| Liên kết ngược | Luxembourg (khoảng 65%), Slovakia, Malta, Hungary | Đức, Thuỵ Điển, Romania, Tây Ban Nha (khoảng 20%) |
+
+Đọc hai danh sách cùng nhau: Luxembourg và Malta có liên kết ngược cao và liên kết xuôi thấp, tức là người lắp ráp hạ nguồn phụ thuộc đầu vào nước ngoài. Romania và Đức có liên kết xuôi cao và liên kết ngược thấp, tức là nhà cung ứng thượng nguồn. Khoảng một nửa cả hai chiều liên kết là với đối tác trong Liên minh, cho thấy còn nhiều dư địa để làm sâu hội nhập nội khối.
+
+**Phát hiện tinh tế về độ phức tạp.** Cả độ phức tạp kinh tế lẫn tỷ trọng hàng công nghệ cao đều phân bố rất không đồng đều. Điều đáng chú ý là chuyên môn hoá vào hàng công nghệ cao không tự động dẫn tới độ phức tạp cao hơn. Ireland và Malta đứng đầu về tỷ trọng công nghệ cao (trên 50%) nhưng không đứng đầu về độ phức tạp; Đức và Séc mới đứng đầu. Nguyên nhân có thể là rổ xuất khẩu của một số nước vẫn tập trung ở phạm vi hẹp sản phẩm, hoặc chính các sản phẩm đó cũng được nhiều nước khác sản xuất, dù công nghệ tinh vi.
+
+**Mật độ liên kết cũng là nguồn dễ tổn thương.** Các nền kinh tế châu Âu gắn với nhau qua cả mạng lưới nội vùng lẫn ngoại vùng, nên chịu cú sốc từ nhiều đối tác. Phơi nhiễm với Hoa Kỳ vẫn đáng kể, cả trực tiếp qua xuất khẩu lẫn gián tiếp qua giá trị gia tăng nằm trong thương mại của nước thứ ba, nhưng đó chỉ là một kênh. Sự trở lại của thuế quan, việc dùng chính sách công nghiệp nhiều hơn, và rủi ro quanh các phụ thuộc chiến lược như năng lượng và vật liệu thiết yếu càng làm tính dễ tổn thương nổi rõ. Vì mạng lưới dày đặc, đứt gãy chỉ ở một ngành hay một đối tác cũng lan nhanh và khuếch đại tác động chung.
 
 ### 4. Phương pháp
 
-- Bài dùng học máy vì các phương pháp này nắm bắt được mẫu hình phức tạp và nới lỏng một số giả định của kinh tế lượng truyền thống. Khác hồi quy bảng, chúng không áp đặt ràng buộc tham số lên dạng hàm và sai số, nên bắt được tương tác phi tuyến.
-- Nhược điểm là khó diễn giải, và bài khắc phục bằng giá trị SHAP. Dự báo biến kết quả bằng đường cơ sở cộng tổng các giá trị SHAP của mọi biến dự báo. Vì thang giá trị SHAP khác nhau giữa các mô hình, chúng được chuẩn hoá theo phần trăm của tổng giá trị tuyệt đối.
-- Sáu thuật toán được áp dụng, với chia mẫu bảy mươi lăm và hai mươi lăm phần trăm, tìm kiếm lưới có kiểm định chéo, và đánh giá bằng R bình phương, sai số bình phương trung bình cùng kiểm định Diebold và Mariano có hiệu chỉnh của Harvey, Leybourne và Newbold.
-- Hiệu năng tốt và khá đồng đều, với R bình phương từ 0,92 tới 0,98. Ba mô hình phi tuyến nhỉnh hơn. Bài lưu ý rằng hai mô hình tuyến tính có thống kê kém hơn chút ít, nhưng tính lại giá trị SHAP khi loại chúng không cho kết quả khác về bản chất, nên vẫn giữ để đầy đủ.
-- Các biến giải thích được nhóm thành ba loại. Yếu tố kỹ thuật đo mức độ dễ dàng giao hàng và cung cấp dịch vụ. Động lực cơ cấu gồm đặc điểm nội tại của nền kinh tế. Yếu tố chính sách gồm độ mở thương mại và đầu tư cùng chất lượng thể chế.
-- Bài tự nhận rõ rằng vì không dùng phương pháp học máy nhân quả nên kết quả phản ánh liên hệ chứ không nhất thiết là quan hệ nhân quả.
+**Vì sao dùng học máy thay cho hồi quy bảng truyền thống.** Các phương pháp học máy nắm bắt được mẫu hình phức tạp và nới lỏng một số giả định của kinh tế lượng truyền thống:
+
+- không áp đặt ràng buộc tham số lên dạng hàm và phân phối sai số;
+- bắt được tương tác phi tuyến phức tạp giữa các biến;
+- xử lý tốt hơn hiện tượng đa cộng tuyến (các biến giải thích tương quan chặt với nhau) và quá khớp (mô hình học thuộc dữ liệu mẫu) khi dữ liệu có nhiều chiều.
+
+Nhược điểm là khó diễn giải, vì mô hình không có cấu trúc rõ ràng. Bài khắc phục bằng **giá trị SHAP**, dựa trên khái niệm Shapley trong lý thuyết trò chơi hợp tác. Công thức là: dự báo của biến kết quả bằng đường cơ sở (dự báo trung bình của mô hình) cộng tổng giá trị SHAP của mọi biến dự báo. Đường cơ sở cho biết mô hình dự báo gì ở mức trung bình; SHAP của mỗi biến cho biết biến đó đẩy dự báo lên hay xuống bao nhiêu. Vì thang giá trị SHAP khác nhau giữa các mô hình, mỗi giá trị được chuẩn hoá thành phần trăm của tổng giá trị tuyệt đối các SHAP trong mô hình đó, nhờ vậy so sánh được giữa các mô hình dù thang đo biến kết quả khác nhau. SHAP thoả mãn bốn tính chất: hiệu quả (tổng các đóng góp đúng bằng chênh lệch so với đường cơ sở), đối xứng (hai biến đóng góp như nhau nhận SHAP như nhau), biến vô dụng có SHAP bằng 0, và tính cộng.
+
+**Sáu thuật toán** được áp dụng: hồi quy tuyến tính, lưới đàn hồi, hồi quy véc-tơ hỗ trợ, rừng ngẫu nhiên, tăng cường độ dốc cực trị (XGBoost), và k láng giềng gần nhất. Mẫu được chia 75% để huấn luyện và 25% để kiểm định. Tham số được chọn bằng tìm kiếm lưới có kiểm định chéo. Mô hình được đánh giá bằng R bình phương, sai số bình phương trung bình và kiểm định Diebold–Mariano có hiệu chỉnh của Harvey, Leybourne và Newbold (kiểm định xem độ chính xác dự báo của hai mô hình có khác nhau thật không).
+
+Hiệu năng tốt và khá đồng đều, R bình phương từ 0,92 tới 0,98 ở mọi mô hình. Ba mô hình phi tuyến (k láng giềng, véc-tơ hỗ trợ, rừng ngẫu nhiên) nhỉnh hơn. Hai mô hình tuyến tính kém hơn chút ít, nhưng khi tính lại SHAP mà loại hai mô hình này ra thì kết quả không khác về bản chất, nên bài vẫn giữ chúng để đầy đủ.
+
+**Bốn biến kết quả và tám biến giải thích.** Biến kết quả gồm: hội nhập chuỗi toàn cầu (cộng liên kết xuôi và ngược), chuỗi nội khối EU, chuỗi hàng hoá, chuỗi dịch vụ; ngoài ra bài ước lượng thêm riêng cho liên kết xuôi và liên kết ngược. Các biến giải thích chia ba nhóm (trong bảng kết quả còn có thêm biến giả khủng hoảng, nêu ở đoạn sau):
+
+| Nhóm | Ý nghĩa | Biến |
+|---|---|---|
+| Kỹ thuật | Mức độ dễ dàng giao hàng và cung cấp dịch vụ | Hạ tầng vận tải đường bộ và đường sắt tính trên mỗi mét vuông lãnh thổ (trong bảng kết quả gọi tắt là "vận tải đường bộ"); chỉ số INDIGO của OECD về hội nhập và độ mở thương mại số |
+| Cơ cấu | Đặc điểm nội tại của nền kinh tế | Chi phí lao động đơn vị; năng suất lao động; tỷ lệ lao động có trình độ dưới trung học phổ thông (đại diện cho vốn con người thấp); tỷ trọng chế tạo trong GDP |
+| Chính sách | Độ mở thương mại, đầu tư và chất lượng thể chế | Chỉ số Tự do Kinh tế của Viện Fraser |
+
+**Biến đổi dữ liệu.** Mỗi biến được biểu thị theo phần trăm mức bình quân EU, rồi căn giữa và chuẩn hoá. Chi phí lao động đơn vị và năng suất lấy trễ một năm để giảm vấn đề hai bên cùng lúc tác động lẫn nhau. Mô hình có hiệu ứng cố định cho từng nước và biến giả cho khủng hoảng tài chính toàn cầu và COVID.
+
+Bài tự nhận rõ: vì không dùng học máy nhân quả, kết quả phản ánh liên hệ, không nhất thiết là quan hệ nhân quả.
 
 ### 5. Kết quả cho chuỗi toàn cầu và nội khối
 
-- Ở cấp toàn cầu, cơ cấu kinh tế đo bằng tỷ trọng chế tạo, chi phí lao động đơn vị và chất lượng vốn con người nổi lên là các biến tương quan chính, hàm ý tầm quan trọng của năng lực công nghiệp, sức cạnh tranh chi phí và mức độ phù hợp của kỹ năng.
-- Chất lượng hạ tầng và năng suất lao động cũng có liên hệ dương mạnh. Mạng lưới vận tải hiệu quả giảm chi phí giao dịch và bảo đảm giao hàng đúng hạn, còn năng suất cao thường gắn với tiến bộ công nghệ, thực hành quản lý tốt và hiệu quả quy trình.
-- Chất lượng thể chế và độ mở đóng góp ở mức vừa phải nhưng dương. Giá trị SHAP dương của chỉ số INDIGO và chỉ số Tự do Kinh tế gợi ý rằng quản trị tốt và khung quản lý hợp lý giảm bất định và khuyến khích đầu tư, còn việc dùng giải pháp số hỗ trợ phối hợp xuyên biên giới.
-- Ở cấp nội khối EU, có sự hoán đổi thứ hạng đáng chú ý: năng suất lao động vượt lên thành yếu tố chi phối, vượt qua tỷ trọng chế tạo. Bài giải thích rằng điều này phản ánh cơ cấu kinh tế tiên tiến của EU, nơi sức cạnh tranh ngày càng dựa vào hiệu quả và tinh vi công nghệ hơn là quy mô công nghiệp thuần tuý.
+Giá trị SHAP chuẩn hoá cho hai biến kết quả đầu tiên:
+
+| Biến | Chuỗi toàn cầu (xuôi + ngược) | Chuỗi nội khối EU |
+|---|---|---|
+| Tỷ trọng chế tạo (% GDP) | +0,38 (cao nhất) | +0,20 |
+| Năng suất lao động | +0,22 | +0,35 (cao nhất) |
+| Vận tải đường bộ | +0,22 | +0,12 |
+| Chỉ số INDIGO | +0,17 | +0,18 |
+| Chỉ số Tự do Kinh tế Fraser | +0,17 | +0,12 |
+| Biến giả khủng hoảng | −0,02 | |
+| Chi phí lao động đơn vị | −0,15 | −0,07 |
+| Lao động trình độ thấp | −0,35 (âm nhất) | −0,13 |
+
+**Ở cấp toàn cầu**, cơ cấu kinh tế, đo bằng tỷ trọng chế tạo, chi phí lao động đơn vị và chất lượng vốn con người, nổi lên là nhóm biến tương quan chính. Điều đó hàm ý năng lực công nghiệp, sức cạnh tranh chi phí và kỹ năng phù hợp là quan trọng nhất. Hạ tầng và năng suất lao động cũng có liên hệ dương mạnh: mạng lưới vận tải hiệu quả giảm chi phí giao dịch và bảo đảm giao hàng đúng hạn, còn năng suất cao thường đi cùng tiến bộ công nghệ, thực hành quản lý tốt và quy trình hiệu quả. Chất lượng thể chế và độ mở đóng góp vừa phải nhưng dương: SHAP dương của INDIGO và chỉ số Tự do Kinh tế gợi ý rằng quản trị tốt và khung quản lý hợp lý giảm bất định, khuyến khích đầu tư, còn giải pháp số giúp phối hợp xuyên biên giới.
+
+**Ở cấp nội khối EU**, thứ hạng hoán đổi: năng suất lao động vượt lên thành yếu tố chi phối, vượt cả tỷ trọng chế tạo. Bài giải thích điều này phản ánh cơ cấu kinh tế tiên tiến của EU, nơi sức cạnh tranh ngày càng dựa vào hiệu quả và độ tinh vi công nghệ hơn là quy mô công nghiệp thuần tuý. Nói gọn: ở cấp toàn cầu, quy mô công nghiệp dẫn đầu; ở cấp nội khối, năng suất dẫn đầu.
 
 ### 6. Hàng hoá so với dịch vụ
 
-- Hai bức tranh gần như đảo ngược nhau. Tỷ trọng chế tạo tương quan mạnh với cả hai loại nhưng theo chiều ngược nhau: dương với hàng hoá và âm với dịch vụ.
-- Năng suất có vai trò quan trọng ở cả hai, là biến dương mạnh nhất với dịch vụ và đứng thứ hai với hàng hoá, phản ánh tầm quan trọng của hiệu quả, việc ứng dụng công nghệ và cường độ tri thức.
-- Chi phí lao động cao trở nên ít liên quan hơn với hội nhập hàng hoá trong khi vẫn giữ tác động âm đáng kể với dịch vụ. Bài giải thích rằng tác động dương ước lượng được của chi phí lao động đơn vị lên hội nhập hàng hoá có thể phản ánh tự động hoá hoặc nâng cấp công nghệ ở một số ngành hoặc một số nền kinh tế EU.
-- Điểm chung duy nhất là cả hai loại chuỗi đều phụ thuộc vào năng lực thể chế cao.
+Hai bức tranh gần như đảo ngược nhau:
+
+| Biến | Chuỗi hàng hoá | Chuỗi dịch vụ |
+|---|---|---|
+| Tỷ trọng chế tạo (% GDP) | +0,75 (cao nhất) | −0,90 (thấp nhất) |
+| Năng suất lao động | +0,45 | +1,10 (cao nhất) |
+| Chỉ số INDIGO | +0,45 | −0,30 (đổi dấu) |
+| Chỉ số Tự do Kinh tế Fraser | +0,27 | +0,50 |
+| Chi phí lao động đơn vị | +0,17 (dương) | −0,30 |
+| Lao động trình độ thấp | −0,30 | +0,20 (đổi dấu) |
+| Vận tải đường bộ | −0,20 | +0,20 |
+
+Các biến đổi dấu giữa hai loại chuỗi:
+
+1. **Tỷ trọng chế tạo**: dĩ nhiên dương với hàng hoá, nhưng âm mạnh nhất với dịch vụ. Nước công nghiệp hoá cao thì chuỗi dịch vụ chiếm phần nhỏ hơn trong cơ cấu.
+2. **Chi phí lao động đơn vị**: dương với hàng hoá nhưng âm với dịch vụ. Chi phí lao động cao trở nên ít liên quan với hội nhập hàng hoá, trong khi vẫn là gánh nặng rõ ràng với dịch vụ. Bài giải thích rằng dấu dương ở hàng hoá có thể phản ánh tự động hoá hoặc nâng cấp công nghệ ở một số ngành hoặc một số nền kinh tế EU, tức lương cao đi kèm công nghệ cao.
+3. **Chỉ số INDIGO và lao động trình độ thấp** cũng đổi dấu, dù độ lớn không quá nổi bật.
+
+Năng suất quan trọng ở cả hai: là biến dương mạnh nhất với dịch vụ và đứng thứ hai với hàng hoá, phản ánh vai trò của hiệu quả, ứng dụng công nghệ và cường độ tri thức. Điểm chung duy nhất về dấu và độ lớn đáng kể là cả hai loại chuỗi đều cần năng lực thể chế cao: chỉ số Fraser dương ở cả hai. Thông điệp: mạng lưới hàng hoá hưởng lợi từ nền công nghiệp vững, còn chuỗi dịch vụ tưởng thưởng cho năng suất.
 
 ### 7. Liên kết xuôi so với liên kết ngược
 
-- Liên kết xuôi ưu ái các nền kinh tế có năng suất cao, nền chế tạo mạnh và thể chế tốt, trong khi chi phí và thiếu hụt kỹ năng vẫn là rào cản. Các chỉ số INDIGO và Tự do Kinh tế có ảnh hưởng dương vừa phải, gợi ý rằng quản trị và độ mở tạo thuận lợi cho việc hội nhập vào các khâu thượng nguồn. Đáng chú ý là vận tải đường bộ có tác động âm, mà bài giải thích bằng việc liên kết xuôi dựa nhiều vào vận tải hàng không và đường biển hơn.
-- Liên kết ngược có tương quan cao với vận tải đường bộ và chất lượng thể chế. Đóng góp dương nổi bật của vận tải đường bộ gợi ý rằng các nền kinh tế EU nhập đầu vào trung gian chủ yếu qua mạng lưới đường bộ hoặc đường sắt, khiến kết nối vật lý trở thành yếu tố then chốt cho hội nhập hạ nguồn.
-- Kết quả đáng chú ý nhất của cả bài là dấu âm của năng suất lao động và tỷ trọng chế tạo trong liên kết ngược, với biên độ lớn nhất trong toàn bộ phân tích. Bài giải thích rằng các nền kinh tế có năng suất cao và công nghiệp hoá cao có xu hướng phụ thuộc ít hơn vào đầu vào nước ngoài, có thể do năng lực cung ứng trong nước.
-- Hàm ý chính sách ngầm nhưng rõ: không thể tối đa hoá cả hai chiều liên kết cùng lúc bằng cùng một bộ chính sách, vì chúng đòi hỏi những thứ khác nhau và đôi khi đối nghịch.
+| Biến | Liên kết xuôi (làm nhà cung ứng thượng nguồn) | Liên kết ngược (phụ thuộc đầu vào nước ngoài) |
+|---|---|---|
+| Năng suất lao động | +1,05 (cao nhất) | −1,50 (âm nhất) |
+| Tỷ trọng chế tạo (% GDP) | +0,70 | −1,15 |
+| Chỉ số INDIGO | +0,50 | +0,50 |
+| Chỉ số Tự do Kinh tế Fraser | +0,25 | +0,55 |
+| Biến giả khủng hoảng | −0,05 | |
+| Vận tải đường bộ | −0,30 (âm) | +0,80 (cao nhất) |
+| Chi phí lao động đơn vị | −0,30 | −0,35 |
+| Lao động trình độ thấp | −0,35 | −0,80 |
+
+**Liên kết xuôi** ưu ái nền kinh tế có năng suất cao, chế tạo mạnh và thể chế tốt; chi phí lao động và thiếu hụt kỹ năng là rào cản. INDIGO và chỉ số Tự do Kinh tế có ảnh hưởng dương vừa phải, gợi ý rằng quản trị và độ mở giúp hội nhập vào các khâu thượng nguồn. Điều bất ngờ là vận tải đường bộ có SHAP âm. Bài giải thích rằng liên kết xuôi dựa nhiều vào vận tải hàng không và đường biển hơn là đường bộ và đường sắt.
+
+**Liên kết ngược** tương quan cao với vận tải đường bộ và chất lượng thể chế. Đóng góp dương nổi bật của vận tải đường bộ gợi ý rằng các nước EU nhập đầu vào trung gian chủ yếu qua mạng lưới đường bộ và đường sắt, nên kết nối vật lý là yếu tố then chốt cho hội nhập hạ nguồn.
+
+**Kết quả đáng chú ý nhất của cả bài** là việc năng suất lao động có SHAP +1,05 ở liên kết xuôi nhưng −1,50 ở liên kết ngược: đổi dấu và có biên độ lớn nhất trong toàn bộ phân tích. Tỷ trọng chế tạo cũng vậy (+0,70 rồi −1,15), và vận tải đường bộ đổi theo chiều ngược lại (−0,30 rồi +0,80). Cách đọc của bài: nước năng suất cao với nền công nghiệp phát triển ở vị thế tốt để cung cấp đầu vào cho mạng lưới toàn cầu, nên liên kết xuôi mạnh. Nhưng chính vì có năng lực cung ứng trong nước, họ phụ thuộc ít hơn vào đầu vào nước ngoài, nên liên kết ngược yếu.
+
+**Hàm ý chính sách**, ngầm nhưng rõ: không thể tối đa hoá cả hai chiều liên kết cùng lúc bằng cùng một bộ chính sách, vì chúng đòi hỏi những thứ khác nhau, đôi khi đối nghịch. Ví dụ, đầu tư mạnh vào đường bộ xuyên biên giới giúp nhập đầu vào dễ hơn (tăng liên kết ngược), nhưng không giúp, thậm chí đi cùng mức thấp hơn, ở liên kết xuôi.
 
 ### 8. Ba cụm nước
 
-- Phân tích phân cụm phân cấp theo phương pháp Ward cho ra ba cụm rõ rệt. Cụm thứ nhất gồm các nước tiên tiến cùng Estonia và Latvia, hội nhập chủ yếu qua hiệu quả và chất lượng thể chế chứ không qua cường độ chế tạo.
-- Cụm thứ hai gồm các nền kinh tế chuyển đổi ở Đông Nam Âu với động lực cân bằng nhưng khiêm tốn. Điểm quan trọng là dù lương thấp cho lợi thế chi phí, lợi thế này bị năng suất thấp bào mòn, nên các nước này phụ thuộc vào cải thiện từng bước về năng suất và quản trị để đi sâu hơn.
-- Cụm thứ ba tận dụng cường độ chế tạo, giáo dục và hạ tầng cùng chi phí lao động thuận lợi, nhưng bị hạn chế bởi quản trị và năng suất yếu hơn.
+Bài phân cụm phân cấp các nước EU theo phương pháp Ward (gộp dần các nước sao cho phương sai trong mỗi cụm tăng ít nhất), dùng khoảng cách Euclid và giá trị bình quân giai đoạn 2010–2022 của các biến giải thích. Kết quả là ba cụm rõ rệt:
+
+| Cụm | Thành viên | Thế mạnh | Điểm yếu | Cách hội nhập |
+|---|---|---|---|---|
+| 1 | Các nước tiên tiến, cùng Estonia và Latvia | Năng suất lao động cao, hạ tầng tốt, quản trị vững | Sức cạnh tranh chi phí, trình độ học vấn; cơ cấu ít hướng chế tạo | Qua hiệu quả và thể chế, không qua cường độ chế tạo |
+| 2 | Bulgaria, Romania, Croatia, Síp | Lương thấp cho lợi thế chi phí | Lợi thế chi phí bị năng suất thấp bào mòn, nên sức cạnh tranh tổng thể giảm; chuyên môn hoá hạn chế | Nền kinh tế chuyển đổi ở Đông Nam Âu, động lực cân bằng nhưng khiêm tốn; phụ thuộc vào cải thiện từng bước về năng suất và quản trị để đi sâu hơn |
+| 3 | Trung và Đông Âu, cùng Lithuania, Ý, Hy Lạp | Cường độ chế tạo, giáo dục và hạ tầng, chi phí lao động thuận lợi | Quản trị và năng suất lao động yếu hơn | Bị hạn chế khả năng đi lên các khâu giá trị cao hơn |
 
 ### 9. Bồ Đào Nha
 
-- Cơ cấu xuất khẩu chuyển đổi dần theo xu hướng chung của EU, với dịch vụ kinh doanh tăng và chế tạo giảm. Trong chế tạo, tỷ trọng dược phẩm tăng còn dệt may giảm mạnh. Trong dịch vụ, thương mại và dịch vụ ăn uống vẫn lớn nhất do tầm quan trọng của du lịch, dù tỷ trọng giảm.
-- EU vẫn là thị trường chính với khoảng một nửa xuất khẩu gộp năm 2022, Hoa Kỳ khoảng mười phần trăm và Anh khoảng bảy phần trăm.
-- Cường độ công nghệ thấp hơn các nước châu Âu khác, với tỷ trọng công nghệ cao dai dẳng thấp hơn bình quân EU và ít hội tụ theo thời gian. Điều này cũng phản ánh trong độ phức tạp kinh tế thấp, thuộc nhóm thấp nhất châu Âu cùng Hy Lạp và Síp.
-- Hình mẫu ở dịch vụ tương tự hàng hoá: tỷ trọng du lịch cao hơn bình quân EU còn dịch vụ thâm dụng tri thức thấp hơn, và đáng chú ý là tỷ trọng dịch vụ thâm dụng tri thức đã giảm từ năm 2009 rồi trì trệ.
-- Về hội nhập, liên kết xuôi hội tụ với bình quân EU tới năm 2007 rồi trì trệ, trong khi liên kết ngược ngang bằng hoặc nhỉnh hơn. Hình mẫu này cho thấy Bồ Đào Nha hội nhập chủ yếu với tư cách người nhập đầu vào hạ nguồn.
-- Phân rã khoảng cách liên kết xuôi cho kết quả sắc nét nhất: hiệu ứng cơ cấu ngành chiếm chín mươi phần trăm. Vấn đề không phải là các ngành của Bồ Đào Nha kém hiệu quả hơn ngành cùng loại ở EU, mà là rổ xuất khẩu có tỷ trọng nhỏ ở ngành liên kết xuôi cao và tỷ trọng lớn ở ngành liên kết xuôi thấp.
-- Về rủi ro, có hai mặt. Giá trị gia tăng nước ngoài chiếm khoảng ba mươi phần trăm xuất khẩu gộp nên đứt gãy đầu vào nhập khẩu có thể gây thiệt hại. Nhưng liên kết xuôi yếu lại làm giảm phơi nhiễm trước cú sốc cầu bên ngoài, và ví dụ được nêu là căng thẳng thương mại giữa Hoa Kỳ và EU có tác động tới Bồ Đào Nha nhẹ hơn các nước cùng khu vực.
-- Về vị thế so với các động lực, Bồ Đào Nha có chỉ số Tự do Kinh tế cao hơn bình quân nhưng năng suất lao động thấp hơn nhiều và tỷ lệ lao động trình độ thấp cao hơn. Điều này có thể hạn chế khả năng chuyển sang các khâu thâm dụng tri thức và tạo rủi ro mắc kẹt ở các khâu giá trị thấp nơi cạnh tranh gay gắt và biên lợi nhuận mỏng.
+**Cơ cấu xuất khẩu.** Bồ Đào Nha chuyển đổi dần theo xu hướng chung của EU: dịch vụ kinh doanh tăng, chế tạo giảm. Trong chế tạo, tỷ trọng dược phẩm tăng còn dệt may giảm mạnh. Trong dịch vụ, thương mại và dịch vụ ăn uống vẫn lớn nhất do du lịch quan trọng, dù tỷ trọng giảm. Về thị trường, năm 2022 EU chiếm khoảng một nửa xuất khẩu gộp, Hoa Kỳ khoảng 10%, Anh khoảng 7%; Trung Quốc còn nhỏ nhưng đang tăng.
+
+**Công nghệ và độ phức tạp.** Xuất khẩu chủ yếu thuộc nhóm công nghệ thấp và trung bình thấp. Tỷ trọng công nghệ cao dai dẳng thấp hơn bình quân EU và ít hội tụ theo thời gian. Độ phức tạp kinh tế thuộc nhóm thấp nhất châu Âu, cùng Hy Lạp và Síp. Ở dịch vụ, hình mẫu tương tự: tỷ trọng du lịch cao hơn bình quân EU, dịch vụ thâm dụng tri thức thấp hơn, và tỷ trọng dịch vụ thâm dụng tri thức đã giảm từ năm 2009 rồi trì trệ.
+
+**Vị trí trong chuỗi.** Liên kết xuôi hội tụ với bình quân EU tới năm 2007 rồi trì trệ hẳn, nghĩa là hàng của Bồ Đào Nha không được dùng nhiều hơn làm đầu vào cho xuất khẩu nước khác. Liên kết ngược ngang bằng hoặc nhỉnh hơn bình quân EU. Như vậy Bồ Đào Nha hội nhập chủ yếu với tư cách người nhập đầu vào ở hạ nguồn, không phải nhà cung ứng thượng nguồn.
+
+**Phân rã khoảng cách liên kết xuôi**, kết quả sắc nét nhất của phần này. Bài tách khoảng cách giữa liên kết xuôi bình quân EU và của Bồ Đào Nha thành tổng theo các ngành s của hai thành phần:
+
+- **Thành phần trong ngành**: tỷ trọng ngành s trong xuất khẩu EU nhân với chênh lệch liên kết xuôi của ngành s giữa EU và Bồ Đào Nha. Phần này đo việc cùng một ngành nhưng Bồ Đào Nha làm kém hơn.
+- **Thành phần cơ cấu ngành**: chênh lệch tỷ trọng ngành s giữa EU và Bồ Đào Nha nhân với liên kết xuôi của ngành s ở Bồ Đào Nha. Phần này đo việc Bồ Đào Nha có rổ ngành khác.
+
+Kết quả: **cơ cấu ngành giải thích 90% khoảng cách**. Vấn đề không phải các ngành của Bồ Đào Nha kém hiệu quả hơn ngành cùng loại ở EU, mà là rổ xuất khẩu lệch: tỷ trọng nhỏ ở ngành có liên kết xuôi cao (như dịch vụ công nghệ thông tin) và tỷ trọng lớn ở ngành có liên kết xuôi thấp (như dịch vụ liên quan du lịch).
+
+**Ví dụ hôm nay** (minh hoạ chung). Một khách du lịch ăn tối ở Lisbon là xuất khẩu dịch vụ, nhưng bữa ăn ấy không trở thành đầu vào cho hàng xuất khẩu của nước nào khác. Ngược lại, một công ty phần mềm Bồ Đào Nha viết hệ thống quản lý cho nhà máy ô tô Đức thì giá trị đó đi tiếp vào chiếc xe Đức bán ra thế giới. Một nước có nhiều nhà hàng hơn công ty phần mềm sẽ có liên kết xuôi thấp, dù nhà hàng của nó phục vụ tốt không kém nhà hàng nước khác.
+
+**Rủi ro có hai mặt.** Giá trị gia tăng nước ngoài chiếm khoảng 30% xuất khẩu gộp, nên đứt gãy đầu vào nhập khẩu có thể gây thiệt hại. Nhưng liên kết xuôi yếu lại làm giảm phơi nhiễm trước cú sốc cầu bên ngoài: căng thẳng thương mại Mỹ–EU tác động tới Bồ Đào Nha nhẹ hơn các nước cùng khu vực.
+
+**Vị thế so với các động lực.** Chỉ số Tự do Kinh tế của Bồ Đào Nha cao hơn bình quân, nhưng năng suất lao động thấp hơn nhiều và tỷ lệ lao động trình độ thấp cao hơn. Điều này có thể cản trở việc chuyển sang các khâu thâm dụng tri thức và tạo nguy cơ mắc kẹt ở các khâu giá trị thấp, nơi cạnh tranh gay gắt và biên lợi nhuận mỏng.
 
 ### 10. Bỉ
 
-- Cơ cấu xuất khẩu chuyển đổi rõ rệt theo hướng chế tạo giá trị cao và dịch vụ thâm dụng tri thức. Trong chế tạo, tỷ trọng dược phẩm tăng mạnh trở thành một trong các mặt hàng xuất khẩu lớn nhất, trong khi xe có động cơ giảm. Trong dịch vụ, dịch vụ chuyên nghiệp và khoa học nổi lên là cấu phần lớn nhất và đang tăng.
-- Với thị trường Hoa Kỳ, cơ cấu nghiêng hơn nữa về dược phẩm và dịch vụ chuyên nghiệp so với xuất khẩu ra toàn thế giới, phản ánh vai trò đặc biệt quan trọng của Bỉ với Hoa Kỳ trong dịch vụ kinh doanh thâm dụng tri thức.
-- Cả hai chiều liên kết đều trên bình quân EU, nhưng có hai diễn biến trái chiều trong COVID: liên kết xuôi đảo chiều giảm trong khi liên kết ngược tăng mạnh năm 2021 và 2022.
-- Phân tích đảo chiều cho thấy mức giảm liên kết xuôi chủ yếu do dịch vụ kinh doanh, còn mức tăng liên kết ngược chủ yếu do chế tạo, đặc biệt là dược phẩm, hoá chất và dầu khí. Bài dùng chính hai chiều này để minh hoạ cơ chế: đại dịch vừa làm giảm cầu với giá trị gia tăng của Bỉ ở nước ngoài, vừa làm tăng nhập khẩu đầu vào cho vắc-xin, dẫn tới dao động đột ngột và mạnh trong hoạt động kinh tế.
-- Về ngành dược phẩm, vai trò của dịch vụ kinh doanh trong nguồn giá trị gia tăng tăng đều, cho thấy tầm quan trọng ngày càng lớn của nghiên cứu, tiếp thị và các hoạt động thâm dụng tri thức nhập từ nước ngoài. Tỷ trọng giá trị gia tăng của Bỉ trong xuất khẩu dược phẩm của các nước khác cũng tăng nhanh hơn tỷ trọng trong tổng xuất khẩu, cho thấy chuyên môn hoá và sức cạnh tranh của ngành này đang tăng so với các ngành khác.
-- Sáu nhóm rủi ro được liệt kê, và bài nhấn mạnh rằng rủi ro liên quan tới dược phẩm không chỉ nằm ở chuỗi cung ứng vật lý mà còn ở sở hữu trí tuệ, quản trị dữ liệu và yêu cầu tuân thủ nghiêm ngặt có thể gây ngừng sản xuất đột ngột.
-- Về vị thế so với các động lực, thế mạnh của Bỉ là năng suất cao, lao động có học vấn và hạ tầng đường bộ dày đặc nhất EU cùng vị trí địa lý chiến lược, khiến nước này trở thành trung tâm hậu cần và phân phối. Điểm yếu là chi phí lao động đơn vị cao hạn chế cạnh tranh ở chế tạo truyền thống, và tỷ trọng chế tạo trong GDP thấp có thể cản trở việc tận dụng hết lợi ích từ hội nhập.
+**Cơ cấu xuất khẩu** chuyển rõ rệt sang chế tạo giá trị cao và dịch vụ thâm dụng tri thức. Trong chế tạo, dược phẩm tăng mạnh thành một trong các mặt hàng xuất khẩu lớn nhất; xe có động cơ giảm tỷ trọng; hoá chất ổn định. Trong dịch vụ, dịch vụ chuyên nghiệp và khoa học nổi lên là cấu phần lớn nhất và đang tăng. Với thị trường Hoa Kỳ, cơ cấu còn nghiêng hơn về dược phẩm và dịch vụ chuyên nghiệp so với xuất khẩu ra toàn thế giới, phản ánh vai trò đặc biệt của Bỉ với Hoa Kỳ trong dịch vụ kinh doanh thâm dụng tri thức.
+
+**Vị trí trong chuỗi.** Cả hai chiều liên kết đều trên bình quân EU và tăng đều. Nhưng trong COVID có hai diễn biến trái chiều: liên kết xuôi đảo chiều giảm, còn liên kết ngược tăng mạnh năm 2021 và 2022.
+
+**Phân tích đảo chiều COVID:**
+
+- Liên kết xuôi giảm chủ yếu do dịch vụ kinh doanh: hoạt động chuyên nghiệp, khoa học và ngành thông tin. Bài nêu ba cách giải thích: hệ thống thuế và ảnh hưởng của nó tới các thực thể có mục đích đặc biệt (công ty được lập chủ yếu để nắm giữ tài sản hay xử lý dòng tiền, vốn làm số liệu của Bỉ biến động); cầu từ các ngành hạ nguồn ở nước ngoài giảm; và các ngành dịch vụ này gắn rất sâu vào xuất khẩu chế tạo của nước khác.
+- Liên kết ngược tăng chủ yếu do chế tạo: dược phẩm, hoá chất, dầu khí.
+
+Bài dùng đúng hai chiều này để minh hoạ cơ chế: đại dịch vừa làm giảm cầu với giá trị gia tăng của Bỉ ở nước ngoài, vừa làm tăng nhập khẩu đầu vào cho sản xuất vắc-xin. Kết quả là dao động đột ngột và mạnh trong hoạt động kinh tế, với hai chiều ngược nhau xảy ra cùng lúc.
+
+**Ngành dược phẩm.** Vai trò của dịch vụ kinh doanh trong nguồn giá trị gia tăng của ngành tăng đều, cho thấy nghiên cứu, tiếp thị và các hoạt động thâm dụng tri thức nhập từ nước ngoài ngày càng quan trọng. Tỷ trọng giá trị gia tăng của Bỉ trong xuất khẩu dược phẩm của các nước khác cũng tăng nhanh hơn tỷ trọng trong tổng xuất khẩu, tức chuyên môn hoá và sức cạnh tranh của ngành này đang tăng so với các ngành khác.
+
+**Sáu nhóm rủi ro:**
+
+1. Liên kết ngược mạnh làm Bỉ phụ thuộc đầu vào nước ngoài, dễ tổn thương trước đứt gãy và hạn chế thương mại với đầu vào then chốt như hoạt chất dược phẩm.
+2. Liên kết xuôi mạnh gắn chặt Bỉ với cầu bên ngoài.
+3. Xuất khẩu tập trung vào vài ngành (dược phẩm, hoá chất), khuếch đại tác động của cú sốc riêng ngành.
+4. Phụ thuộc ngày càng tăng vào thị trường Mỹ, nhất là với dược phẩm, kéo theo rủi ro từ thay đổi chính sách quản lý và định giá thuốc, chu kỳ bằng sáng chế, và chiến lược công nghiệp.
+5. Hội nhập vào mạng lưới nghiên cứu và cấp phép toàn cầu đem lại rủi ro về sở hữu trí tuệ và quản trị dữ liệu; yêu cầu tuân thủ nghiêm ngặt có thể gây ngừng sản xuất đột ngột.
+6. Căng thẳng địa chính trị và phân mảnh địa kinh tế.
+
+Bài nhấn mạnh rằng rủi ro của ngành dược không chỉ nằm ở chuỗi cung ứng vật lý mà còn ở sở hữu trí tuệ, quản trị dữ liệu và tuân thủ.
+
+**Vị thế so với các động lực.** Thế mạnh của Bỉ là năng suất cao, lao động có học vấn, hạ tầng đường bộ dày đặc nhất EU và vị trí địa lý chiến lược, khiến nước này trở thành trung tâm hậu cần và phân phối. Điểm yếu là chi phí lao động đơn vị cao hạn chế cạnh tranh ở chế tạo truyền thống, và tỷ trọng chế tạo trong GDP thấp có thể cản trở việc tận dụng hết lợi ích từ hội nhập.
 
 ### 11. Kết luận
 
-- Hội nhập ở cả cấp toàn cầu lẫn nội khối chủ yếu được dẫn dắt bởi năng suất lao động, chi phí lao động, cơ cấu kinh tế và chất lượng vốn con người, với hạ tầng, quản trị và mức sẵn sàng số đóng vai trò hỗ trợ.
-- Bài nêu khả năng có một vòng xoáy tích cực: việc tham gia chuỗi giá trị bản thân nó có thể góp phần nâng năng suất, đa dạng hoá và lan toả tri thức, những thứ lại hỗ trợ hội nhập sâu hơn.
-- Về hàm ý, các yếu tố nền tảng định hình cả mức độ lẫn kiểu hội nhập khả thi với mỗi nền kinh tế, nhưng cải cách nâng cao giáo dục, đổi mới và hiệu quả quản lý vẫn là trọng tâm và có thể giúp làm sâu hội nhập đồng thời thúc đẩy tăng trưởng năng suất.
-- Thách thức phía trước được đặt ra rõ: giữ lại lợi ích từ độ mở trong khi quản lý các điểm dễ tổn thương mới. Các hướng được nêu gồm đa dạng hoá sản phẩm và thị trường đích, tăng cường đổi mới và vốn con người, cùng làm sâu thị trường chung EU và liên minh tiết kiệm và đầu tư.
+Hội nhập ở cả cấp toàn cầu lẫn nội khối chủ yếu được dẫn dắt bởi năng suất lao động, chi phí lao động, cơ cấu kinh tế và chất lượng vốn con người. Hạ tầng, quản trị và mức sẵn sàng số đóng vai trò hỗ trợ.
+
+Bài nêu khả năng có một vòng tự củng cố tích cực: tham gia chuỗi giá trị có thể tự nó góp phần nâng năng suất, đa dạng hoá và lan toả tri thức, và những thứ này lại giúp hội nhập sâu hơn.
+
+Về hàm ý, các yếu tố nền tảng quyết định cả mức độ lẫn kiểu hội nhập khả thi với mỗi nền kinh tế. Dù vậy, cải cách nâng cao giáo dục, đổi mới và hiệu quả quản lý vẫn là trọng tâm, vì có thể vừa làm sâu hội nhập vừa thúc đẩy tăng năng suất.
+
+Thách thức phía trước là giữ được lợi ích của độ mở trong khi quản lý các điểm dễ tổn thương mới. Các hướng được nêu gồm:
+
+- đa dạng hoá sản phẩm và thị trường đích;
+- tăng cường đổi mới và vốn con người;
+- làm sâu thị trường chung EU và liên minh tiết kiệm và đầu tư.
 
 ## Thuật ngữ
 
