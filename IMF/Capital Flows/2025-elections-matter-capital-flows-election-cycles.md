@@ -442,88 +442,283 @@
 2. Loại dòng vốn nào nhạy cảm nhất, và vì sao?
 3. Điều gì làm dịu hoặc khuếch đại tác động đó?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Bất định chính trị và giá trị của việc chờ (political uncertainty, option value of waiting).** Bất định chính trị là việc nhà đầu tư không biết chính sách sẽ đi về đâu sau một sự kiện chính trị. Theo Bernanke (1983), khi một khoản đầu tư khó rút lại và tương lai chưa rõ, việc chờ thêm thông tin có giá trị, nên người ta hoãn đầu tư. Ví dụ minh hoạ: một công ty định xây nhà máy 100 triệu USD ở một nước sắp bầu cử, nếu ứng viên đối lập có thể đổi luật thuế, công ty sẽ chờ qua bầu cử rồi mới quyết, dù cuối cùng luật không đổi. Đây là cơ chế giải thích vì sao dòng vốn giảm quanh bầu cử ngay cả khi chính sách không thay đổi.
+
+**Yếu tố đẩy và yếu tố kéo (push / pull factors).** Yếu tố đẩy là điều kiện bên ngoài đẩy vốn vào hay ra khỏi các nước mới nổi, như mức ngại rủi ro toàn cầu (đo bằng chỉ số VIX) hay thanh khoản toàn cầu. Yếu tố kéo là đặc điểm của chính nước nhận vốn, như tăng trưởng, độ sâu tài chính, chất lượng thể chế. Ví dụ trong bài: VIX tăng làm dòng vốn vào giảm (yếu tố đẩy); chênh lệch tăng trưởng so với nước phát triển cao hơn làm dòng vốn vào tăng (yếu tố kéo). Bài đặt bất định bầu cử vào khung này như một yếu tố kéo mới.
+
+**Dòng vốn tư nhân vào gộp (gross private inflows).** Tiền mà nhà đầu tư nước ngoài (không phải chính phủ hay ngân hàng trung ương) đưa vào một nước, chưa trừ đi tiền người trong nước đưa ra. Ví dụ minh hoạ: trong một quý, nhà đầu tư nước ngoài mua 5 tỷ USD tài sản trong nước, người trong nước mua 2 tỷ USD tài sản nước ngoài, thì dòng vào gộp là 5, dòng ra gộp là 2, dòng ròng là 3 tỷ USD. Đây là biến kết quả chính của bài, vì bất định chính trị tác động mạnh nhất lên nhà đầu tư nước ngoài, và dòng ròng có thể che mất các biến động lớn của hai chiều.
+
+**GDP xu hướng (trend GDP).** Mức GDP "bình thường" sau khi đã loại các dao động ngắn hạn, thường tính bằng bộ lọc Hodrick–Prescott (lọc HP). Ví dụ minh hoạ: nếu GDP xu hướng của một nước là 100 tỷ USD mỗi quý mà dòng vốn vào là 5 tỷ thì dòng vốn bằng 5% GDP xu hướng. Bài chia dòng vốn cho GDP xu hướng chứ không cho GDP thực tế, để mẫu số không nhảy theo chính chu kỳ kinh tế quanh bầu cử.
+
+**Biến giả và số hạng tương tác (dummy variable, interaction term).** Biến giả bằng 1 khi một sự kiện xảy ra (ở đây là quý có bầu cử) và bằng 0 khi không. Số hạng tương tác là tích của hai biến, cho phép tác động của biến này thay đổi theo mức của biến kia. Ví dụ minh hoạ từ hệ số của bài: tác động của bầu cử bằng −11,5 cộng 0,18 nhân điểm ổn định chính trị; ở nước có điểm 50, tác động là −11,5 + 9 = −2,5 điểm phần trăm GDP xu hướng; ở nước có điểm 70, tác động là −11,5 + 12,6 = +1,1. Toàn bộ kết quả trọng tâm của bài nằm ở số hạng tương tác này.
+
+**Chỉ số ICRG.** Hướng dẫn Rủi ro Quốc gia Quốc tế (International Country Risk Guide), chấm điểm rủi ro chính trị của mỗi nước trên thang 0–100 từ 12 biến, nhóm thành năm trụ cột: chính trị, điều kiện kinh tế xã hội, rủi ro đầu tư, thể chế, căng thẳng và xung đột. Điểm càng cao thì càng ổn định. Bài dùng ICRG làm thước đo ổn định chính trị chính vì nó có tần suất cao hơn các bộ chỉ số theo năm, nên khớp được với số liệu dòng vốn theo quý.
+
+**Nội sinh và biến công cụ (endogeneity, instrumental variable).** Một biến là nội sinh khi chính nó chịu ảnh hưởng của kết quả hoặc cùng chịu một nguyên nhân ẩn với kết quả, khiến ước lượng bị chệch. Biến công cụ là một biến ảnh hưởng tới biến cần nghiên cứu nhưng không ảnh hưởng trực tiếp tới kết quả. Ví dụ trong bài: thời gian kể từ lần bầu cử trước dự báo được khả năng sắp có bầu cử (nhiệm kỳ khoảng 4 năm thì sau 15–16 quý gần như chắc có bầu cử), nhưng tự nó không làm dòng vốn thay đổi. Bài dùng công cụ này để kiểm tra rằng thời điểm bầu cử không bị chính điều kiện kinh tế quyết định.
+
+**Phần tư (tứ phân vị, quartile).** Chia các nước thành bốn nhóm bằng nhau theo một tiêu chí. Ví dụ: xếp các nước theo điểm ổn định chính trị, một phần tư nước có điểm thấp nhất là "nhóm phần tư thấp nhất". Kết quả định lượng chính của bài (dòng vốn vào giảm 28% trong quý bầu cử) là của nhóm này, còn nhóm trên mức trung bình không chịu tác động có ý nghĩa.
+
+## Nội dung chi tiết
 
 ### 1. Vấn đề và cách tiếp cận
 
-- Quan hệ giữa dòng vốn quốc tế và bất định chính trị ở các nền kinh tế mới nổi cho tới nay nhận được rất ít chú ý, dù tài liệu về dòng vốn nói chung rất phong phú. Bầu cử là ví dụ điển hình của giai đoạn mà bất định gia tăng có thể làm mờ triển vọng. Ngay cả khi không có khủng hoảng hay đảo lộn chính trị lớn, bầu cử vẫn định kỳ mở ra khả năng thay đổi chưa biết trước trong môi trường kinh tế, thể chế và quản lý.
-- Lập luận trung tâm là không chỉ các thay đổi chính sách cuối cùng mới quan trọng, mà chính sự bất định quanh những thay đổi có thể xảy ra, bất kể chúng có thành hiện thực hay không, cũng đủ ảnh hưởng tới hành vi nhà đầu tư. Điều này có thể khiến nhà đầu tư ít nhất tạm thời rút khỏi hoặc giảm phơi nhiễm với thị trường nội địa trước, trong và ngay sau khi bỏ phiếu.
-- Về mặt lý thuyết, bài dựa trên Bernanke năm 1983 về đầu tư dưới bất định: bất định về hàm ý dài hạn của một sự kiện có thể làm trì hoãn quyết định đầu tư, vì chủ thể kinh tế định giá cho việc chờ thêm thông tin. Khung này áp dụng được cho cả doanh nghiệp lẫn nhà đầu tư phân bổ vốn.
-- Bầu cử tạo ra một môi trường thí nghiệm tự nhiên gần đúng, giúp tách tác động của bất định chính trị khỏi các động lực vĩ mô rộng hơn, vì thời điểm bầu cử thường được ấn định trước bởi quy tắc hiến pháp và không chịu ảnh hưởng của nhà đầu tư cụ thể hay môi trường kinh tế hiện hành.
-- Bài thẳng thắn nêu mối lo về nội sinh và xử lý bằng năm cách. Quan ngại bắt nguồn từ tài liệu chu kỳ kinh doanh chính trị kinh điển từ Nordhaus năm 1975, theo đó người đương nhiệm cơ hội có thể triển khai kích thích tài khoá và tiền tệ trước bầu cử để đẩy tăng trưởng ngắn hạn và tăng khả năng tái đắc cử. Cơ chế này hàm ý bầu cử có thể tác động tới kết quả vĩ mô một cách trực tiếp, độc lập với bất định.
-- Năm cách xử lý gồm: dùng thời gian kể từ lần bầu cử trước làm biến công cụ, với kiểm định Durbin, Wu và Hausman không bác bỏ giả thuyết ngoại sinh; kiểm định nhân quả Granger cho thấy bầu cử Granger-gây ra dòng vốn nhưng không có chiều ngược lại; hồi quy giả dược dùng biến dẫn; mô hình logit về thời điểm bầu cử; và mẫu con chỉ gồm bầu cử theo lịch định sẵn.
+Tài liệu về dòng vốn nói chung rất phong phú, nhưng quan hệ giữa dòng vốn quốc tế và bất định chính trị ở các nền kinh tế mới nổi cho tới nay nhận được rất ít chú ý. Bầu cử là ví dụ điển hình của một giai đoạn bất định gia tăng làm mờ triển vọng. Ngay cả khi không có khủng hoảng hay đảo lộn chính trị lớn, bầu cử vẫn định kỳ mở ra khả năng thay đổi chưa biết trước trong môi trường kinh tế, thể chế và quản lý.
+
+**Lập luận trung tâm.** Không chỉ những thay đổi chính sách cuối cùng mới quan trọng; chính sự bất định quanh những thay đổi có thể xảy ra, bất kể chúng có thành hiện thực hay không, đã đủ ảnh hưởng tới hành vi nhà đầu tư (Ahir và cộng sự 2022). Điều này có thể khiến nhà đầu tư, ít nhất tạm thời, rút khỏi hoặc giảm phơi nhiễm với thị trường nội địa trước, trong và ngay sau khi bỏ phiếu (Julio và Yook 2016).
+
+**Nền tảng lý thuyết.** Bài dựa trên Bernanke (1983) về đầu tư dưới bất định: bất định về hàm ý dài hạn của một sự kiện có thể làm trì hoãn quyết định đầu tư, vì chủ thể kinh tế định giá cho việc chờ thêm thông tin. Khung này áp dụng được cho cả doanh nghiệp quyết định xây nhà máy lẫn nhà đầu tư quyết định phân bổ vốn giữa các nước.
+
+**Vì sao bầu cử là "thí nghiệm tự nhiên gần đúng".** Thời điểm bầu cử thường được ấn định trước bởi hiến pháp, không chịu ảnh hưởng của một nhà đầu tư cụ thể hay của môi trường kinh tế lúc đó, và lặp lại theo chu kỳ đều đặn. Vì vậy so sánh dòng vốn trong quý bầu cử với các quý khác giúp tách tác động của bất định chính trị khỏi các động lực vĩ mô rộng hơn.
+
+**Mối lo về nội sinh.** Bài thẳng thắn thừa nhận vấn đề. Theo tài liệu chu kỳ kinh doanh chính trị kinh điển từ Nordhaus (1975), người đương nhiệm cơ hội có thể tung kích thích tài khoá và tiền tệ trước bầu cử để đẩy tăng trưởng ngắn hạn và tăng khả năng tái đắc cử. Nếu vậy, bầu cử có thể tác động tới kết quả vĩ mô một cách trực tiếp, độc lập với bất định, và hệ số đo được không còn là tác động của bất định thuần tuý. Bài xử lý bằng năm cách:
+
+1. **Biến công cụ:** dùng thời gian kể từ lần bầu cử trước làm công cụ, vì đây là một biến dự báo mang tính cơ học cho xác suất sắp có bầu cử. Kiểm định Durbin–Wu–Hausman không bác bỏ giả thuyết rằng biến bầu cử là ngoại sinh, nên coi bầu cử là ngoại sinh là phù hợp về mặt thống kê.
+2. **Nhân quả Granger:** bầu cử giúp dự báo dòng vốn (bầu cử "Granger-gây ra" dòng vốn), nhưng dòng vốn không giúp dự báo bầu cử.
+3. **Hồi quy giả dược với biến dẫn:** đưa biến bầu cử của các quý tương lai vào hồi quy; nếu chúng có "tác động" thì có vấn đề.
+4. **Mô hình logit về thời điểm bầu cử:** kiểm tra xem điều kiện kinh tế có dự báo được thời điểm bầu cử hay không.
+5. **Mẫu con chỉ gồm bầu cử theo lịch định sẵn**, chiếm 80% mẫu.
 
 ### 2. Dữ liệu
 
-- Bộ dữ liệu theo quý cho 38 nền kinh tế mới nổi ở mọi khu vực, giai đoạn 1990 tới 2020. Điểm cuối bị ràng buộc bởi độ trễ đáng kể trong việc cập nhật các cơ sở dữ liệu biến chính trị. Trung Quốc, một nước nhận vốn quan trọng, không nằm trong mẫu do thiếu dữ liệu ngày bầu cử trong cả DPI lẫn NELDA.
-- Dòng vốn lấy từ cơ sở dữ liệu Thống kê Cán cân Thanh toán của IMF, chuẩn hoá theo GDP xu hướng bằng cách áp lọc HP lên GDP quý ước tính từ số liệu năm của Triển vọng Kinh tế Thế giới, với hai năm dữ liệu bổ sung sau điểm cuối để giảm chệch đầu mút.
-- Bước điều chỉnh quan trọng nhất là tách dòng vốn chính thức khỏi dòng vốn tư nhân. Ở phía dòng vào, bài trừ nợ của ngân hàng trung ương và chính phủ với người không cư trú cùng phân bổ quyền rút vốn đặc biệt. Ở phía dòng ra, trừ tài sản tài chính do ngân hàng trung ương và chính phủ mua. Lý do được nêu rất rõ: chủ nợ chính thức có thể được huy động để ngăn khủng hoảng bằng cách bù đắp dòng vốn tư nhân chảy ra, điều đó sẽ triệt tiêu chính tác động bất định mà bài muốn đo.
-- Bài tập trung vào dòng vào gộp vì dòng ròng che giấu biến động cao trong giao dịch của người cư trú và không cư trú, và vì bất định chính trị cảm nhận được có khả năng lớn hơn với nhà đầu tư nước ngoài so với trong nước.
-- Dữ liệu bầu cử lấy chủ yếu từ Cơ sở dữ liệu Thể chế Chính trị, bổ sung bằng Bộ dữ liệu Bầu cử Quốc gia trong Chế độ Dân chủ và Chuyên chế. Với nước theo chế độ nghị viện thì dùng bầu cử lập pháp, với nước theo chế độ tổng thống thì dùng bầu cử cơ quan hành pháp, và loại bầu cử được xác định theo hệ thống chính trị của nước đó trong từng quý cụ thể.
-- Về diễn biến dòng vốn, đỉnh trước khủng hoảng tài chính toàn cầu đạt trên mười phần trăm GDP quý xu hướng. Dòng vào không trở lại mức trước khủng hoảng, trong khi dòng ra tăng từ dưới một phần trăm trong thập niên 1990 lên trên ba phần trăm trong thập kỷ gần đây, phản ánh sự nổi lên của nhà đầu tư tổ chức ở thị trường mới nổi và quá trình tự do hoá tài khoản vốn từng bước.
-- Về cơ cấu, FDI chiếm tỷ trọng lớn nhất và ổn định ở hai phần trăm GDP suốt hai mươi lăm năm, kể cả trong COVID. Năm 2007, dòng vốn khu vực ngân hàng chiếm gần một nửa tổng dòng vào rồi sụp đổ khi thanh khoản toàn cầu thắt chặt, chủ yếu do đảo chiều của hoạt động cho vay ngân hàng ngắn hạn.
+**Mẫu.** Dữ liệu theo quý cho 38 nền kinh tế mới nổi ở mọi khu vực, giai đoạn 1990–2020. Mẫu dừng ở 2020 vì các cơ sở dữ liệu biến chính trị cập nhật rất chậm. Trung Quốc, một nước nhận vốn quan trọng, không có trong mẫu vì thiếu dữ liệu ngày bầu cử trong cả hai nguồn DPI và NELDA.
+
+**Xử lý dữ liệu dòng vốn.** Dòng vốn lấy từ cơ sở dữ liệu Thống kê Cán cân Thanh toán của IMF và được xử lý qua ba bước:
+
+1. **Chuẩn hoá theo GDP xu hướng.** Bài ước GDP theo quý từ số liệu năm của Triển vọng Kinh tế Thế giới, rồi áp lọc HP để lấy xu hướng. Bài thêm hai năm dữ liệu sau điểm cuối mẫu để giảm chệch đầu mút (bộ lọc HP thường ước lượng kém ở hai đầu chuỗi).
+2. **Tách dòng vốn chính thức khỏi dòng vốn tư nhân.** Đây là bước quan trọng nhất. Ở phía dòng vào, bài trừ đi nợ của ngân hàng trung ương và chính phủ với người không cư trú, cùng các khoản phân bổ quyền rút vốn đặc biệt (SDR) của IMF. Ở phía dòng ra, bài trừ đi tài sản tài chính do ngân hàng trung ương và chính phủ mua. Lý do: chủ nợ chính thức (như IMF hay các ngân hàng trung ương khác) có thể được huy động để ngăn khủng hoảng bằng cách bù đắp đúng phần vốn tư nhân chảy ra; nếu để chung, điều đó sẽ triệt tiêu chính tác động bất định mà bài muốn đo.
+3. **Tập trung vào dòng vào gộp**, vì dòng ròng che giấu biến động lớn trong giao dịch của người cư trú và người không cư trú, và vì bất định chính trị nhiều khả năng được cảm nhận mạnh hơn bởi nhà đầu tư nước ngoài so với nhà đầu tư trong nước.
+
+**Dữ liệu bầu cử.** Lấy chủ yếu từ Cơ sở dữ liệu Thể chế Chính trị (DPI), bổ sung bằng Bộ dữ liệu Bầu cử Quốc gia trong Chế độ Dân chủ và Chuyên chế (NELDA). Với nước theo chế độ nghị viện, bài dùng bầu cử lập pháp; với nước theo chế độ tổng thống, dùng bầu cử người đứng đầu hành pháp. Loại bầu cử được xác định theo hệ thống chính trị của nước đó trong từng quý.
+
+**Diễn biến dòng vốn trong mẫu.**
+
+- Dòng vào đạt đỉnh trước khủng hoảng tài chính toàn cầu, trên 10% GDP quý xu hướng, và sau đó không trở lại mức này.
+- Dòng ra tăng từ dưới 1% GDP trong thập niên 1990 lên trên 3% trong thập kỷ gần đây, nên khoảng cách giữa dòng vào và dòng ra thu hẹp dần. Điều này phản ánh sự nổi lên của nhà đầu tư tổ chức (quỹ hưu trí, bảo hiểm) ở các thị trường mới nổi và quá trình tự do hoá tài khoản vốn từng bước.
+- Về cơ cấu, FDI là cấu phần lớn nhất và ổn định ở khoảng 2% GDP suốt 25 năm, kể cả trong COVID.
+- Năm 2007, dòng vốn qua khu vực ngân hàng chiếm gần một nửa tổng dòng vào, rồi sụp đổ khi thanh khoản toàn cầu thắt chặt, chủ yếu do các khoản cho vay ngân hàng ngắn hạn bị rút về.
+
+**Đặc điểm của 261 cuộc bầu cử trong mẫu:**
+
+| Đặc điểm | Giá trị bình quân | Độ lệch chuẩn |
+|---|---|---|
+| Độ dài nhiệm kỳ | 15,6 quý (khoảng 4 năm) | 4,6 |
+| Biên độ đa số (tỷ lệ ghế phe chính phủ nắm) | 57,3% | 16,5 |
+| Tỷ lệ chủ thể phủ quyết rời bỏ vị trí | 14,3% | 28,5 |
+| Phân cực (thang 0–2) | 0,6 | 0,8 |
+
+| Tỷ lệ các cuộc bầu cử có đặc điểm | |
+|---|---|
+| Có thăm dò đáng tin và thuận lợi cho đương nhiệm | 34,5% |
+| Có bạo lực gây chết người dân thường | 25,7% |
+| Không theo lịch định sẵn | 19,9% |
+| Đương nhiệm thua | 58,2% |
 
 ### 3. Phương pháp
 
-- Bài dùng khung đẩy và kéo chuẩn, mở rộng để tính tới bất định chính trị. Mô hình cho phép hệ số chặn khác nhau theo nước và xu hướng thời gian khác nhau theo nước.
-- Về sai số chuẩn, bài lập luận rằng do bản chất của các yếu tố ảnh hưởng tới dòng vốn, hiệu ứng lây lan và các yếu tố chung không quan sát được có khả năng đóng vai trò, làm tăng nguy cơ tương quan không gian trong sai số. Kiểm định phụ thuộc chéo của Pesaran xác nhận suy đoán này, nên bài dùng hiệu chỉnh Driscoll và Kraay.
+Bài dùng khung yếu tố đẩy và kéo chuẩn của tài liệu dòng vốn, mở rộng để đưa thêm bất định chính trị. Biến phụ thuộc là dòng vốn tư nhân vào gộp tính theo phần trăm GDP xu hướng. Mô hình cho phép mỗi nước có hệ số chặn riêng và xu hướng thời gian riêng.
+
+Về sai số chuẩn, bài lập luận rằng dòng vốn chịu nhiều yếu tố chung không quan sát được và có hiệu ứng lây lan giữa các nước, nên sai số của các nước trong cùng một quý nhiều khả năng tương quan với nhau. Kiểm định phụ thuộc chéo của Pesaran xác nhận điều này, nên bài dùng sai số chuẩn hiệu chỉnh theo Driscoll và Kraay, vốn tính tới cả phụ thuộc chéo lẫn tự tương quan.
 
 ### 4. Kết quả cơ sở
 
-- Về yếu tố đẩy, mức ngại rủi ro toàn cầu tăng cản trở đáng kể dòng vốn tư nhân vào các nền kinh tế mới nổi, trong khi nới lỏng thanh khoản toàn cầu đẩy vốn vào các nước này.
-- Về yếu tố kéo, chênh lệch tăng trưởng so với nước phát triển là động lực vững, còn chênh lệch lãi suất thực không có ý nghĩa thống kê. Bài lưu ý rằng kết quả thực nghiệm trong tài liệu cũng khá thiếu kết luận về vai trò của yếu tố này. Phát triển thị trường tài chính có tác động dương, còn độ mở tài khoản vốn đo bằng chỉ số Chinn và Ito không có ý nghĩa.
-- Phần quan trọng nhất là cấu trúc kết quả về bầu cử. Khi đứng một mình, biến giả quý bầu cử không có ý nghĩa. Nhưng khi ước lượng đồng thời cùng chỉ số ổn định chính trị và số hạng tương tác, cả ba đều trở nên có ý nghĩa thống kê. Điều này hàm ý rằng bầu cử trung bình đúng là đi kèm tác động tiêu cực lên dòng vốn trong quý diễn ra, ổn định chính trị tác động độc lập, và tác động tiêu cực liên quan bầu cử được làm dịu trong môi trường chính trị ổn định hơn.
-- Về thời điểm, không có sụt giảm có ý nghĩa trong giai đoạn chạy đà trước bầu cử. Cú sốc rơi vào quý bầu cử và một tới hai quý sau đó.
-- Bài cũng thừa nhận rằng dù các biến giải thích có ý nghĩa thống kê và có hiệu ứng cố định, phần lớn biến thiên của dòng vốn vẫn không giải thích được, thể hiện qua R bình phương thấp, và đây là đặc điểm chung của mọi nghiên cứu về dòng vốn.
+Kết quả cho dòng vốn tư nhân vào gộp (% GDP xu hướng):
+
+| Biến | Đặc tả cơ sở | Đặc tả đầy đủ (có tương tác) |
+|---|---|---|
+| VIX (log) | −4,24 (\*\*\*) | −4,47 (\*\*\*) |
+| Thanh khoản toàn cầu | +0,23 (\*\*) | +0,24 (\*\*) |
+| Chênh lệch lãi suất thực | −0,043 (không có ý nghĩa) | −0,055 (không có ý nghĩa) |
+| Chênh lệch tăng trưởng | +0,38 (\*\*\*) | +0,42 (\*\*\*) |
+| Phát triển thị trường tài chính | +7,70 (\*\*) | +10,4 (\*\*) |
+| Chỉ số Chinn–Ito (độ mở tài khoản vốn) | +0,33 (không có ý nghĩa) | +0,44 (không có ý nghĩa) |
+| Ổn định chính trị ICRG | +0,20 (\*\*\*) | +0,19 (\*\*\*) |
+| Bầu cử (đứng một mình) | +0,64 (không có ý nghĩa) | |
+| Bầu cử (khi có tương tác) | | −11,5 (\*\*) |
+| Bầu cử × Ổn định chính trị ICRG | | +0,18 (\*\*) |
+| Trước bầu cử 3–4 quý | | +0,61 |
+| Trước bầu cử 1–2 quý | | −0,53 |
+| Sau bầu cử 1–2 quý | | −0,96 (\*\*) |
+| Sau bầu cử 3–4 quý | | +0,043 |
+
+**Yếu tố đẩy.** Mức ngại rủi ro toàn cầu tăng (VIX cao) cản trở mạnh dòng vốn tư nhân vào các nền kinh tế mới nổi, còn thanh khoản toàn cầu dồi dào đẩy vốn vào.
+
+**Yếu tố kéo.** Chênh lệch tăng trưởng so với nước phát triển là động lực vững. Chênh lệch lãi suất thực không có ý nghĩa thống kê; bài lưu ý rằng các nghiên cứu trước cũng chưa thống nhất về vai trò của yếu tố này. Phát triển thị trường tài chính có tác động dương. Độ mở tài khoản vốn đo bằng chỉ số Chinn–Ito không có ý nghĩa.
+
+**Cấu trúc kết quả về bầu cử, phần quan trọng nhất của bài.** Khi đứng một mình, biến giả quý bầu cử không có ý nghĩa (+0,64). Nhưng khi đưa vào cùng lúc chỉ số ổn định chính trị và số hạng tương tác giữa hai biến, cả ba đều có ý nghĩa thống kê. Cách đọc:
+
+- Bầu cử đúng là đi kèm tác động tiêu cực lên dòng vốn trong quý diễn ra (−11,5 là tác động tính tại mức ổn định bằng 0).
+- Ổn định chính trị có tác động dương độc lập (+0,19).
+- Tác động tiêu cực của bầu cử được làm dịu ở nước ổn định hơn: mỗi điểm ổn định thêm giảm tác động âm đi 0,18.
+
+Vì tác động âm ở nước kém ổn định và tác động gần bằng không ở nước ổn định cộng lại, hiệu ứng trung bình bị triệt tiêu và không nhìn thấy được nếu không tách ra theo mức ổn định.
+
+**Thời điểm.** Không có sụt giảm có ý nghĩa trong giai đoạn chạy đà trước bầu cử (hệ số của 3–4 quý và 1–2 quý trước đều không có ý nghĩa). Cú sốc rơi vào quý bầu cử và một đến hai quý sau đó (−0,96).
+
+**Mức giải thích hạn chế.** R bình phương trong nhóm chỉ 0,19–0,23. Bài nói thẳng rằng dù các biến có ý nghĩa và mô hình có hiệu ứng cố định, phần lớn biến thiên của dòng vốn vẫn không giải thích được, và đây là đặc điểm chung của mọi nghiên cứu về dòng vốn.
 
 ### 5. Phân tách theo loại dòng vốn
 
-- Việc tách dòng vào thành nợ và phi nợ không làm thay đổi hình mẫu chung về chiều hay ý nghĩa của các yếu tố đẩy và kéo, nhưng tầm quan trọng tương đối khác nhau. Mức ngại rủi ro toàn cầu tăng đi kèm mức giảm lớn hơn nhiều ở dòng nợ, phản ánh độ nhạy của chúng với thay đổi niềm tin thị trường và chênh lệch lợi suất cùng khả năng dễ bị lây lan. Thanh khoản toàn cầu chỉ có ý nghĩa với dòng nợ, điều không đáng ngạc nhiên vì chúng thường kỳ hạn ngắn, dựa vào huy động bán buôn nên chịu rủi ro đảo nợ.
-- Về bầu cử, tác động tiêu cực được xác nhận cho cả dòng nợ lẫn phi nợ, với cú đánh lớn hơn và có ý nghĩa cao hơn với dòng nợ. Theo loại công cụ, tác động có ý nghĩa được xác nhận cho FDI và đầu tư khác, nhưng không cho dòng danh mục. Bài giải thích rằng dòng danh mục có thể đảo ngược nhanh nên dường như miễn nhiễm với bất định bầu cử, còn tài liệu cũng tìm thấy tác động đặc biệt mạnh lên các hình thức dòng vốn khó đảo ngược như FDI.
-- Với đầu tư khác, mức giảm trong quý bầu cử nhiều khả năng gắn với hoạt động đầu tư tư nhân thấp hơn quanh thời điểm bầu cử và nhu cầu tài trợ tương ứng thấp hơn.
-- Về độ dai dẳng, mức giảm dường như bền hơn với dòng phi nợ mà FDI là cấu phần chính, có thể vì nhà đầu tư trực tiếp đối mặt rủi ro cao hơn nên thận trọng hơn về việc quay lại cho tới khi có rõ ràng hơn về các thay đổi chính sách khả dĩ sau bầu cử.
-- Với dòng ra, kết quả đáng chú ý là cả ổn định chính trị, bầu cử lẫn tương tác của chúng đều không có liên hệ có ý nghĩa. Bài nêu hai cách giải thích khả dĩ: nhà đầu tư trong nước đã quen với rủi ro chính trị nội địa hoặc đọc được chúng tốt hơn; hoặc nhà đầu tư nước ngoài có thông tin hạn chế về nước chủ nhà và được bảo vệ yếu hơn dưới thể chế pháp lý và chính trị của nước đó, khiến họ dễ tổn thương hơn trước bất định chính sách. Dù vậy, nhà đầu tư trong nước có vẻ điều chỉnh danh mục một tới hai quý sau bầu cử.
-- Đáng chú ý là hạn chế tài khoản vốn chỉ là động lực có ý nghĩa với dòng ra chứ không với dòng vào.
-- Với dòng ròng, hình mẫu khá sát dòng vào gộp, phản ánh việc dòng ròng ở thị trường mới nổi chủ yếu do dòng vào chi phối. Nhưng ý nghĩa của các biến chính trị yếu hơn, có lẽ vì tác động bị pha loãng bởi dòng ra.
+Hệ số của biến giả bầu cử khi tách theo loại dòng vốn:
+
+| Loại dòng vốn | Quý bầu cử | Sau bầu cử 1–2 quý |
+|---|---|---|
+| Nợ | −6,08 (\*\*) | −0,48 (không có ý nghĩa) |
+| Phi nợ | −3,84 (\*) | −0,37 (\*\*) |
+| FDI | −3,60 (\*) | −0,35 (\*\*) |
+| Danh mục | −1,27 (không có ý nghĩa) | −0,13 (không có ý nghĩa) |
+| Đầu tư khác | −4,83 (\*) | −0,40 (\*) |
+| Dòng vào gộp | −11,5 (\*\*) | −0,96 (\*\*) |
+| Dòng ra | −2,08 (không có ý nghĩa) | −0,85 (\*\*\*) |
+| Dòng ròng | −8,22 (\*) | −0,00093 (không có ý nghĩa) |
+
+**Yếu tố đẩy khác nhau theo loại dòng vốn.** Việc tách dòng vào thành nợ và phi nợ không đổi chiều hay ý nghĩa của các yếu tố đẩy và kéo, nhưng đổi tầm quan trọng tương đối. Hệ số của VIX với dòng nợ là −3,37 (\*\*\*), so với −1,14 (\*\*\*) với dòng phi nợ: dòng nợ nhạy gấp ba, phản ánh việc chúng nhạy với thay đổi niềm tin thị trường và chênh lệch lợi suất, và dễ bị lây lan. FDI chỉ có hệ số −0,58 (\*), ít phản ứng nhất với biến động thị trường ngắn hạn vì mang tính dài hạn và chiến lược. Thanh khoản toàn cầu chỉ có ý nghĩa với dòng nợ (0,19, \*\*), điều không lạ vì dòng nợ thường kỳ hạn ngắn và dựa vào huy động vốn bán buôn, nên chịu rủi ro đảo nợ.
+
+**Tác động của bầu cử: hai cách đọc đối lập.**
+
+- **Về cú sốc tức thời,** dòng nợ chịu đòn nặng nhất trong quý bầu cử (−6,08), với mức ý nghĩa cao hơn dòng phi nợ.
+- **Về độ dai dẳng,** dòng phi nợ, mà FDI là cấu phần chính, mới là loại kéo dài sang hai quý sau (FDI −0,35 sau 1–2 quý). Bài giải thích rằng nhà đầu tư trực tiếp đối mặt rủi ro cao hơn nên thận trọng hơn về việc quay lại cho tới khi hướng chính sách sau bầu cử rõ ràng hơn.
+
+**Dòng danh mục gần như miễn nhiễm với bất định bầu cử** (−1,27, không có ý nghĩa). Vì dòng danh mục có thể đảo ngược nhanh (bán cổ phiếu, trái phiếu trong vài ngày), nhà đầu tư không cần "chờ xem" như với khoản đầu tư khó rút. Kết quả này khớp với tài liệu rằng tác động mạnh nhất rơi vào các hình thức dòng vốn khó đảo ngược như FDI (Honig 2020; Julio và Yook 2016). Với đầu tư khác (chủ yếu là vay ngân hàng), mức giảm trong quý bầu cử nhiều khả năng gắn với việc doanh nghiệp tư nhân đầu tư ít hơn quanh bầu cử nên cần vay ít hơn.
+
+**Dòng ra: không phản ứng cùng thời với bầu cử.** Cả ổn định chính trị, bầu cử lẫn tương tác của chúng đều không có ý nghĩa với dòng ra. Bài nêu hai cách giải thích:
+
+- Nhà đầu tư trong nước đã quen với rủi ro chính trị nội địa, hoặc đọc được chúng tốt hơn.
+- Nhà đầu tư nước ngoài có thông tin hạn chế về nước chủ nhà và được bảo vệ yếu hơn dưới thể chế pháp lý và chính trị của nước đó (Dixit 2011), nên dễ tổn thương hơn trước bất định chính sách và phản ứng mạnh hơn.
+
+Dù vậy, nhà đầu tư trong nước có điều chỉnh danh mục một đến hai quý sau bầu cử (−0,85, \*\*\*). Đáng chú ý là chỉ số Chinn–Ito chỉ có ý nghĩa với dòng ra (0,55, \*\*), không với dòng vào: kiểm soát vốn ràng buộc người cư trú muốn đưa tiền ra nhiều hơn là người nước ngoài muốn đưa tiền vào.
+
+**Dòng ròng** có hình mẫu khá sát dòng vào gộp, vì ở các thị trường mới nổi dòng ròng chủ yếu do dòng vào chi phối. Nhưng ý nghĩa thống kê của các biến chính trị yếu hơn, có lẽ vì tác động bị pha loãng bởi dòng ra.
 
 ### 6. Đặc điểm bầu cử
 
-- Nhóm biến trước bầu cử cho kết quả phần lớn là âm tính. Biên độ đa số có hệ số dương yếu nhưng không có tác động khác biệt trong giai đoạn bầu cử, kết quả mà bài cho là ủng hộ phát hiện trong tài liệu rằng chính phủ thiểu số có thể ổn định ngang chính phủ đa số. Kiểm soát và cân bằng, phân cực, cùng thăm dò thuận lợi đều không có ý nghĩa. Với thăm dò, một cách giải thích được nêu là thăm dò đáng tin chỉ có ở khoảng một phần ba số cuộc bầu cử được phân tích.
-- Kết luận của phần này được nêu thẳng thắn: bằng chứng chỉ ở mức thăm dò và các tác động ước lượng nhìn chung khiêm tốn.
-- Ba đặc điểm thực sự quan trọng nằm ở chỗ bất định có kéo dài sau bầu cử hay không. Với bạo lực bầu cử, cả hai loại đều đi kèm dòng vốn thấp hơn trong quý bầu cử, nhưng bầu cử có bạo lực thể hiện tác động tiêu cực dai dẳng kéo dài một tới hai quý sau, trong khi với bầu cử hoà bình thì tác động ngắn ngủi và giới hạn trong quý bầu cử.
-- Với thời điểm bầu cử, khoảng tám mươi phần trăm diễn ra theo ngày định sẵn. Hệ số của bầu cử ngoài lịch nhỉnh hơn một chút so với bầu cử theo lịch, gợi ý nhà đầu tư thận trọng hơn. Quan trọng hơn, với bầu cử ngoài lịch, tác động tiêu cực có ý nghĩa kéo dài tới bốn quý sau, trong khi với bầu cử theo lịch thì giới hạn trong quý bầu cử.
-- Với kết quả bầu cử, khi đương nhiệm thua, tác động âm và có ý nghĩa cả trong quý bầu cử lẫn tới hai quý sau. Khi đương nhiệm giữ được quyền lực, tác động nhỏ hơn về độ lớn và ngắn ngủi. Hình mẫu này nhất quán với giả thuyết rằng tính liên tục chính sách làm giảm bất định và ổn định dòng vốn.
+**Bốn biến về bối cảnh trước bầu cử cho kết quả phần lớn là âm tính**, tức không biến nào có tương tác đáng kể với bầu cử:
+
+| Biến | Hệ số độc lập | Tương tác với bầu cử |
+|---|---|---|
+| Biên độ đa số | 2,77 (\*) | 0,63 (không có ý nghĩa) |
+| Kiểm soát và cân bằng | 0,23 (không có ý nghĩa) | −0,33 (không có ý nghĩa) |
+| Phân cực | 0,21 (không có ý nghĩa) | −0,44 (không có ý nghĩa) |
+| Thăm dò thuận lợi cho đương nhiệm | | −0,32 (không có ý nghĩa) |
+
+Biên độ đa số có hệ số dương yếu nhưng không có tác động khác biệt trong giai đoạn bầu cử; bài cho rằng điều này khớp với tài liệu cho thấy chính phủ thiểu số có thể ổn định ngang chính phủ đa số (Thürk và Krauss 2023). Với thăm dò, một cách giải thích là thăm dò đáng tin chỉ có ở khoảng một phần ba số cuộc bầu cử trong mẫu các thị trường mới nổi. Trụ cột chính trị của ICRG có tương tác 0,37 (\*), gợi ý rằng sức mạnh lập pháp, kiểm soát và cân bằng, trách nhiệm giải trình dân chủ có tác dụng đệm nhất định. Bài kết luận thẳng thắn: bằng chứng ở phần này chỉ ở mức thăm dò, và các tác động ước lượng nhìn chung khiêm tốn.
+
+**Ba đặc điểm thực sự quan trọng.** Nguyên tắc chung: điều quyết định không phải cú sốc trong quý bầu cử, mà là bất định có kéo dài sau đó hay không.
+
+| Tình huống | Quý bầu cử | Sau 1–2 quý | Sau 3–4 quý |
+|---|---|---|---|
+| Có bạo lực | −11,6 (\*\*) | −2,20 (\*\*\*) | −0,47 (không có ý nghĩa) |
+| Không bạo lực | −11,5 (\*\*) | −0,66 (không có ý nghĩa) | +0,19 (không có ý nghĩa) |
+| Ngoài lịch | −12,4 (\*\*) | −3,50 (\*\*\*) | −1,91 (\*\*) |
+| Theo lịch | −10,5 (\*\*) | −0,42 (không có ý nghĩa) | +0,44 (không có ý nghĩa) |
+| Đương nhiệm thua | −10,5 (\*\*) | −1,53 (\*\*) | −0,0022 (không có ý nghĩa) |
+| Đương nhiệm thắng | −7,64 (\*) | −0,12 (không có ý nghĩa) | +0,25 (không có ý nghĩa) |
+
+Bảng này nên đọc theo cột chứ không theo hàng. Trong quý bầu cử, các cặp gần như không khác nhau: mọi tình huống đều nằm trong khoảng −10 tới −12 (riêng đương nhiệm thắng nhỏ hơn, −7,64). Khác biệt nằm hoàn toàn ở các quý sau:
+
+- **Bạo lực bầu cử:** cả hai loại đều đi kèm dòng vốn thấp hơn trong quý bầu cử, nhưng bầu cử có bạo lực để lại tác động âm kéo dài một đến hai quý sau, còn bầu cử hoà bình thì tác động ngắn ngủi, giới hạn trong quý bầu cử.
+- **Thời điểm bầu cử:** khoảng 80% bầu cử diễn ra theo ngày định sẵn. Hệ số của bầu cử ngoài lịch nhỉnh hơn một chút so với theo lịch, gợi ý nhà đầu tư thận trọng hơn. Quan trọng hơn, với bầu cử ngoài lịch, tác động âm có ý nghĩa kéo dài tới bốn quý sau. Lưu ý: trong mẫu này, bầu cử ngoài lịch thường được kích hoạt bởi bất ổn chính trị hoặc khủng hoảng: chính phủ sụp đổ, bỏ phiếu bất tín nhiệm, biểu tình.
+- **Kết quả bầu cử:** khi đương nhiệm thua, tác động âm và có ý nghĩa cả trong quý bầu cử lẫn một đến hai quý sau. Khi đương nhiệm giữ được quyền lực, tác động nhỏ hơn và ngắn ngủi. Điều này nhất quán với giả thuyết rằng tính liên tục chính sách làm giảm bất định và ổn định dòng vốn.
+
+Tóm lại, bầu cử "bình thường" (hoà bình, đúng lịch, đương nhiệm thắng) chỉ có tác động ngắn ngủi trong quý bầu cử; bầu cử "bất thường" (bạo lực, ngoài lịch, đổi lãnh đạo) có tác động kéo dài ít nhất hai quý, và với bầu cử ngoài lịch thì tới bốn quý. Đây chính là lời giải cho mức sụt dai dẳng một đến hai quý sau bầu cử thấy ở kết quả cơ sở.
 
 ### 7. Định lượng
 
-- Với các nước thuộc phần tư thấp nhất về ổn định chính trị, tác động trung bình là âm một phẩy hai lăm phần trăm GDP xu hướng trong quý bầu cử, tương ứng với mức giảm hai mươi tám phần trăm so với mức trong hai quý trước bầu cử.
-- Tác động tiêu cực rõ rệt nhất xảy ra khi đương nhiệm thua hoặc khi bầu cử không theo lịch định sẵn, những tình huống thường gắn với bất định cao. Trong các trường hợp đó, dòng vốn vào gộp của các nước kém ổn định nhất giảm khoảng năm mươi phần trăm.
-- Điểm đáng chú ý nhất là khi đương nhiệm thắng, dòng vốn thậm chí tăng nhẹ, tạo ra chênh lệch khoảng sáu mươi lăm điểm phần trăm chỉ do kết quả bầu cử.
-- Với một số loại dòng vốn gồm dòng vào gộp, dòng phi nợ và FDI, tác động tiêu cực chỉ xuất hiện ở nhóm phần tư thấp nhất. Nhưng với dòng ròng và dòng nợ, tác động lan sang cả nhóm phần tư thứ hai. Khi đương nhiệm thua hoặc bầu cử ngoài lịch, ngay cả nhóm phần tư thứ ba cũng chứng kiến dòng vào giảm.
-- Kết luận quan trọng nhất về phân hoá: các nước có điểm ổn định chính trị trên mức trung bình không chịu sụt giảm có ý nghĩa thống kê nào quanh bầu cử.
+Bài quy các hệ số ra tác động cụ thể cho nhóm phần tư thấp nhất về ổn định chính trị ICRG. Thay đổi tương đối được tính so với mức dòng vốn trong 6 tháng (hai quý) trước bầu cử.
+
+| Loại dòng vốn hoặc tình huống | Thay đổi tuyệt đối (% GDP xu hướng) | Thay đổi tương đối |
+|---|---|---|
+| Dòng vào gộp | −1,25 | −28,3% |
+| Dòng vào ròng | −1,39 | −62,2% |
+| Dòng vào phi nợ | −0,25 | −11,0% |
+| Dòng vào nợ | −0,95 | −44,8% |
+| Dòng vào FDI | −0,35 | −16,4% |
+| Đầu tư khác | −0,39 | −30,5% |
+| Bầu cử theo lịch | −0,25 | −5,6% |
+| Bầu cử ngoài lịch | −2,15 | −48,7% |
+| Đương nhiệm thua | −2,53 | −57,3% |
+| Đương nhiệm thắng | +0,33 | +7,6% |
+
+**Đọc bảng.**
+
+- Ở nhóm kém ổn định nhất, dòng vào gộp giảm 1,25% GDP xu hướng trong quý bầu cử, tức khoảng 28% so với mức của hai quý trước.
+- Tác động mạnh nhất khi đương nhiệm thua hoặc bầu cử ngoài lịch, những tình huống thường gắn với bất định cao: dòng vào giảm khoảng một nửa (−57,3% và −48,7%).
+- Hai dòng cuối cần đọc cùng nhau. Cùng một nhóm nước, cùng mức ổn định chính trị thấp, nhưng kết quả bầu cử quyết định chênh lệch từ khoảng −57% tới khoảng +8%, tức chênh lệch khoảng 65 điểm phần trăm chỉ do việc đương nhiệm thắng hay thua. Khi đương nhiệm thắng, dòng vốn thậm chí tăng nhẹ, phù hợp với giả thuyết tính liên tục chính sách.
+
+**Phạm vi lan sang các nhóm khác.** Với dòng vào gộp, dòng phi nợ và FDI, tác động tiêu cực chỉ xuất hiện ở nhóm phần tư thấp nhất. Với dòng ròng và dòng nợ, tác động lan sang cả nhóm phần tư thứ hai. Khi đương nhiệm thua hoặc bầu cử ngoài lịch, ngay cả nhóm phần tư thứ ba cũng chứng kiến dòng vào giảm.
+
+**Kết luận quan trọng nhất về phân hoá:** các nước có điểm ổn định chính trị trên mức trung bình không chịu sụt giảm có ý nghĩa thống kê nào quanh bầu cử. Bất định bầu cử không phải vấn đề chung của mọi nước mới nổi; nó là vấn đề của các nước vốn đã mong manh.
 
 ### 8. Vai trò của năng lực thể chế
 
-- Khi phân rã chỉ số ICRG thành năm trụ cột, điều kiện kinh tế xã hội, rủi ro đầu tư, cùng căng thẳng và xung đột đều có ý nghĩa độc lập trong việc giải thích dòng vốn. Điểm cao hơn đi kèm dòng vào lớn hơn, nhất quán với độ nhạy của nhà đầu tư với rủi ro cơ cấu và vận hành.
-- Số hạng tương tác với biến giả bầu cử dương và có ý nghĩa với gần như mọi trụ cột, gợi ý rằng thể chế mạnh, rủi ro đầu tư thấp, ổn định chính trị và hiệu quả kinh tế tốt đều đóng vai trò đệm cho dòng vốn trong giai đoạn bầu cử.
-- Hai trường hợp đối lập đáng chú ý. Trụ cột thể chế, gồm tham nhũng, pháp quyền và bộ máy hành chính, không có tác động độc lập nhưng có tác dụng đệm rõ, tức chất lượng thể chế chỉ lộ ra khi có bất định. Ngược lại, căng thẳng và xung đột có ý nghĩa với tư cách biến độc lập nhưng không có tương tác đáng kể với giai đoạn bầu cử, hàm ý rằng đây là yếu tố cản trở dai dẳng với dòng vốn chứ không phụ thuộc vào chu kỳ bầu cử.
-- Khi dùng bộ chỉ số quản trị của Ngân hàng Thế giới để kiểm chứng, bốn chiều nổi bật là kiểm soát tham nhũng, hiệu quả chính phủ, pháp quyền và chất lượng quản lý. Bài lưu ý rằng chỉ số của Ngân hàng Thế giới chỉ có ở tần suất năm nên kém khớp với thời điểm của các biến vĩ mô khác, và đó là lý do chính khiến ICRG được dùng làm bộ chính.
-- Tính toán tác động biên cho thấy ở nước có quản trị trung bình hoặc trên trung bình, ảnh hưởng ổn định của thể chế mạnh bù đắp hoàn toàn tác động tiêu cực của bất định bầu cử. Chỉ nhóm phần tư thấp nhất về xếp hạng quản trị còn dễ tổn thương trước biến động dòng vốn trong chu kỳ bầu cử.
-- Phát hiện tinh tế nhất là về độ sâu tài chính. Trong đặc tả của bài, độ sâu tài chính là yếu tố quyết định dương có ý nghĩa của dòng vốn vào. Nhưng khi tương tác với biến giả bầu cử để đánh giá tác dụng điều tiết, số hạng tương tác không có ý nghĩa. Bài đối chiếu trực tiếp với Carrière-Swallow và Céspedes năm 2013, vốn nhấn mạnh rằng khi thanh khoản toàn cầu thắt chặt, các nước có hệ thống tài chính nông gặp ràng buộc tín dụng làm khuếch đại mức co hẹp đầu tư. Kết luận là khác với cú sốc toàn cầu, một hệ thống tài chính sâu hơn có thể không đủ để chống đỡ bất định chính trị. Cách giải thích được đưa ra là bầu cử tạo bất định về hướng chính sách dài hạn, làm xói mòn niềm tin nhà đầu tư, và trong bối cảnh đó khung thể chế mạnh có thể mang lại sự trấn an bù đắp phần nào cho việc thiếu rõ ràng về chính sách.
+**Phân rã ICRG thành năm trụ cột.**
+
+| Trụ cột | Nội dung | Tác động độc lập | Tương tác với bầu cử (hiệu ứng đệm) |
+|---|---|---|---|
+| Chính trị | Ổn định chính phủ, vai trò quân đội trong chính trị, trách nhiệm giải trình dân chủ | 0,11 (không có ý nghĩa) | 0,37 (\*) |
+| Điều kiện kinh tế xã hội | | 0,99 (\*\*\*) | 1,01 (\*\*) |
+| Rủi ro đầu tư | Thực thi hợp đồng, chậm thanh toán, hồi hương lợi nhuận | 0,68 (\*\*\*) | 0,83 (\*) |
+| Thể chế | Tham nhũng, pháp quyền, chất lượng bộ máy hành chính | 0,085 (không có ý nghĩa) | 0,62 (\*\*) |
+| Căng thẳng và xung đột | | 0,23 (\*\*) | 0,14 (không có ý nghĩa) |
+
+Điều kiện kinh tế xã hội, rủi ro đầu tư, căng thẳng và xung đột đều có ý nghĩa độc lập: điểm cao hơn đi kèm dòng vào lớn hơn, nhất quán với việc nhà đầu tư nhạy với rủi ro cơ cấu và vận hành. Số hạng tương tác dương và có ý nghĩa với gần như mọi trụ cột, nghĩa là thể chế mạnh, rủi ro đầu tư thấp, ổn định chính trị và hiệu quả kinh tế tốt đều đệm cho dòng vốn trong giai đoạn bầu cử.
+
+Hai trụ cột cuối là hai trường hợp ngược nhau:
+
+- **Thể chế** không có tác động độc lập nhưng có tác dụng đệm rõ: chất lượng thể chế chỉ "lộ ra" khi có bất định.
+- **Căng thẳng và xung đột** có tác động độc lập nhưng không có tác dụng đệm trong giai đoạn bầu cử: đây là yếu tố cản trở dòng vốn thường trực, không phụ thuộc chu kỳ bầu cử.
+
+**Đối chiếu với bộ chỉ số quản trị của Ngân hàng Thế giới.** Bộ chỉ số này chỉ có theo năm, kém khớp với các biến vĩ mô theo quý, nên ICRG là bộ chính và bộ của Ngân hàng Thế giới chỉ dùng để kiểm chứng.
+
+| Chiều quản trị | Tác động độc lập | Tương tác với bầu cử |
+|---|---|---|
+| Điểm tổng hợp | 0,20 (\*\*\*) | 0,088 (\*\*) |
+| Kiểm soát tham nhũng | 0,093 (\*\*\*) | 0,064 (\*\*) |
+| Hiệu quả chính phủ | 0,071 (\*\*) | 0,094 (\*\*) |
+| Pháp quyền | 0,18 (\*\*\*) | 0,078 (\*\*) |
+| Chất lượng quản lý | 0,12 (\*\*\*) | 0,092 (\*\*) |
+| Tiếng nói và trách nhiệm giải trình | −0,034 (không có ý nghĩa) | 0,058 (\*) |
+| Ổn định chính trị và vắng bạo lực | 0,021 (không có ý nghĩa) | 0,049 (không có ý nghĩa) |
+
+Bốn chiều nổi bật là kiểm soát tham nhũng, hiệu quả chính phủ, pháp quyền và chất lượng quản lý. Tính toán tác động biên cho thấy ở nước có quản trị trung bình hoặc trên trung bình, ảnh hưởng ổn định của thể chế mạnh bù đắp hoàn toàn tác động tiêu cực của bất định bầu cử. Chỉ nhóm phần tư thấp nhất về quản trị còn dễ tổn thương trước biến động dòng vốn trong chu kỳ bầu cử.
+
+**Phát hiện tinh tế nhất: độ sâu tài chính không đệm được bất định chính trị.** Trong đặc tả của bài, độ sâu tài chính có tác động độc lập dương rõ rệt lên dòng vốn vào. Nhưng khi cho nó tương tác với biến giả bầu cử, số hạng tương tác không có ý nghĩa. So sánh hai loại cú sốc:
+
+| Loại cú sốc | Điều gì giúp chống chịu |
+|---|---|
+| Bất định toàn cầu (đo bằng VIX) | Độ sâu tài chính trong nước và khả năng hấp thụ cú sốc từ thị trường vốn quốc tế. Carrière-Swallow và Céspedes (2013) cho thấy khi thanh khoản toàn cầu thắt chặt, nước có hệ thống tài chính nông gặp ràng buộc tín dụng làm khuếch đại mức co hẹp đầu tư |
+| Bất định chính trị trong nước | Độ sâu tài chính không đủ; chỉ khung thể chế mạnh mới trấn an được nhà đầu tư |
+
+Lý do khác nhau: bầu cử tạo bất định về hướng chính sách dài hạn, làm xói mòn niềm tin nhà đầu tư. Thị trường tài chính sâu giúp vay mượn dễ hơn nhưng không trả lời được câu hỏi chính sách sẽ đi về đâu; trong bối cảnh đó, khung thể chế mạnh mang lại sự trấn an bù đắp phần nào cho việc thiếu rõ ràng về chính sách.
 
 ### 9. Kiểm chứng độ vững
 
-- Bài thử hai thước đo bất định thay thế. Qua bảy đặc tả kiểm soát Chỉ số Bất định Thế giới, cả hệ số của chỉ số này lẫn tương tác của nó với biến giả bầu cử đều không có ý nghĩa, trong khi các phát hiện về ý nghĩa của các biến liên quan bầu cử vẫn vững. Với Chỉ số Bất định Chính sách Kinh tế, hạn chế là chỉ có cho tám trong ba mươi tám nước nên phải dùng chỉ số toàn cầu, và biến này cũng không có ý nghĩa trong khi các biến giả bầu cử vẫn vững.
-- Bài không tìm thấy bằng chứng nào về phần thưởng dân chủ. Cả bốn thước đo phát triển dân chủ đều không có ý nghĩa, trong khi bất định bầu cử vẫn là yếu tố tiêu cực với dòng vốn.
-- Trong mười một đặc tả thay thế, khác biệt duy nhất đáng chú ý là khi chia theo GDP quý thay vì GDP xu hướng thì tác động tiêu cực cũng xuất hiện ở hai quý trước bầu cử.
-- Kiểm chứng về bầu cử Hoa Kỳ cho kết quả không có ý nghĩa, trong khi hệ số bầu cử trong nước vẫn âm và có ý nghĩa. Bài diễn giải rằng bất định chính trị trong nước tác động mạnh hơn bất định chính trị ở Hoa Kỳ, có thể vì nhà đầu tư nhạy cảm hơn với bất định ở các nước mới nổi nơi khung thể chế yếu hơn. Nhưng bài cũng dẫn Julio và Yook năm 2016 để đối chiếu: nếu chỉ nhìn riêng nhà đầu tư Mỹ thì FDI của họ ra nước ngoài giảm mạnh trong quý trước bầu cử Mỹ.
-- Cuối cùng, khi ước lượng lại trên mẫu con chỉ gồm bầu cử có ngày định sẵn theo hiến pháp, các kết luận chính về sụt giảm trong quý bầu cử và tác dụng đệm của ổn định chính trị đều được xác nhận, nhất quán với giả định rằng thời điểm bầu cử là ngoại sinh.
+**Thứ nhất, thước đo bất định thay thế.** Bài thử hai chỉ số:
+
+- **Chỉ số Bất định Thế giới (WUI):** đếm tần suất từ "bất định" trong báo cáo quốc gia của Economist Intelligence Unit. Qua bảy đặc tả, cả hệ số của WUI lẫn tương tác của nó với bầu cử đều không có ý nghĩa, trong khi các biến liên quan bầu cử vẫn vững.
+- **Chỉ số Bất định Chính sách Kinh tế (EPU):** tỷ lệ bài báo đồng thời nhắc tới kinh tế, chính sách và bất định. Hạn chế là chỉ có cho 8 trong 38 nước, nên bài phải dùng chỉ số toàn cầu (bình quân gia quyền theo GDP của 18 nước). Biến này cũng không có ý nghĩa, còn các biến giả bầu cử vẫn vững.
+
+Kết luận: bất định liên quan bầu cử, nhất là khi xét theo mức ổn định chính trị, đóng vai trò riêng biệt và vững, vượt ra ngoài những gì các thước đo bất định cấp quốc gia rộng hơn nắm bắt được.
+
+**Thứ hai, không có "phần thưởng dân chủ".** Bài thử bốn thước đo phát triển dân chủ: điểm Polity (thang −10 tới +10), thay đổi điểm Polity hằng năm, chỉ số cạnh tranh bầu cử liên tục của DPI (thang 1 tới 7), và một biến nhị phân lập từ chỉ số đó. Tất cả đều không có ý nghĩa, trong khi bất định bầu cử vẫn là yếu tố tiêu cực. Nước dân chủ hơn không thu hút nhiều vốn hơn, và cũng không ít nhạy cảm hơn với bất định bầu cử.
+
+**Thứ ba, mười một đặc tả thay thế:**
+
+- **Đặc tả 1:** chia dòng vốn theo GDP quý thực tế thay vì GDP xu hướng. Đây là khác biệt duy nhất đáng chú ý: tác động tiêu cực nay xuất hiện cả ở hai quý trước bầu cử.
+- **Đặc tả 2 đến 4:** bỏ xu hướng thời gian theo nước; thêm xu hướng chung; dùng hiệu ứng cố định năm. Kết luận không đổi.
+- **Đặc tả 5:** loại năm 2020 (COVID).
+- **Đặc tả 6:** thêm biến giả khủng hoảng tài chính toàn cầu. Biến này không có ý nghĩa, có lẽ vì căng thẳng giai đoạn đó đã được VIX nắm bắt.
+- **Đặc tả 7 và 8:** thêm biến giả bầu cử Hoa Kỳ như một yếu tố đẩy. Không có quan hệ có ý nghĩa nào, trong khi hệ số bầu cử trong nước vẫn âm và có ý nghĩa. Bài diễn giải rằng bất định chính trị trong nước tác động mạnh hơn bất định chính trị ở Hoa Kỳ, có thể vì nhà đầu tư nhạy cảm hơn với bất định ở các nước mới nổi nơi khung thể chế yếu hơn. Để đối chiếu, bài dẫn Julio và Yook (2016): nếu chỉ nhìn riêng nhà đầu tư Mỹ thì FDI của họ ra nước ngoài giảm mạnh trong quý trước bầu cử Mỹ.
+- **Đặc tả 9:** thêm bình quân chéo theo quý của dòng vốn các nước, làm đại diện cho các yếu tố toàn cầu không quan sát được.
+- **Đặc tả 10:** dùng hiệu ứng cố định năm–vùng (bốn vùng).
+- **Đặc tả 11:** mẫu con chỉ gồm bầu cử có ngày định sẵn theo hiến pháp. Các kết luận về sụt giảm trong quý bầu cử và tác dụng đệm của ổn định chính trị đều được xác nhận, nhất quán với giả định rằng thời điểm bầu cử là ngoại sinh.
 
 ### 10. Hàm ý chính sách
 
-- Bài nhấn mạnh rằng biến động dòng vốn quanh thời điểm bầu cử đặc biệt gây vấn đề cho các thị trường mới nổi, vốn thường phụ thuộc nhiều vào dòng vốn vào không gián đoạn. Bất kỳ đình trệ tạm thời nào cũng có thể gây hậu quả tiêu cực cho ổn định đồng tiền, nguồn cung tín dụng liên tục, khả năng đảo nợ và ổn định tài chính tổng thể.
-- Hàm ý chính là nhấn mạnh lợi ích ổn định vĩ mô của cải cách cơ cấu. Tăng cường chất lượng thể chế không chỉ hỗ trợ mục tiêu phát triển dài hạn mà còn hoạt động như tấm đệm chống lại các cú sốc từng đợt như cú sốc do chu kỳ bầu cử gây ra. Bằng cách giảm bất định, cải cách như vậy có thể củng cố niềm tin nhà đầu tư và tăng khả năng chống chịu tài chính.
-- Bài cũng chỉ ra rằng điều kiện kinh tế xã hội thuận lợi và hồ sơ rủi ro đầu tư tốt hơn giúp giảm nhẹ tác động tiêu cực của bất định chính trị, nên việc duy trì sức hấp dẫn của nền kinh tế với dòng vốn vào qua các giai đoạn khác nhau của chu kỳ bầu cử đòi hỏi củng cố nền tảng vĩ mô và bảo vệ quyền lợi nhà đầu tư.
+- **Biến động dòng vốn quanh bầu cử đặc biệt gây hại cho các thị trường mới nổi**, vốn thường phụ thuộc nhiều vào dòng vốn vào liên tục. Bất kỳ đợt đình trệ tạm thời nào cũng có thể ảnh hưởng xấu tới ổn định đồng tiền, nguồn cung tín dụng, khả năng đảo nợ và ổn định tài chính nói chung.
+- **Cải cách cơ cấu có lợi ích ổn định vĩ mô.** Tăng cường chất lượng thể chế không chỉ phục vụ mục tiêu phát triển dài hạn mà còn hoạt động như tấm đệm chống các cú sốc từng đợt như cú sốc của chu kỳ bầu cử. Bằng cách giảm bất định, cải cách như vậy củng cố niềm tin nhà đầu tư và tăng khả năng chống chịu tài chính.
+- **Nền tảng vĩ mô và bảo vệ nhà đầu tư.** Điều kiện kinh tế xã hội thuận lợi và hồ sơ rủi ro đầu tư tốt hơn giúp giảm nhẹ tác động của bất định chính trị. Muốn giữ sức hấp dẫn với dòng vốn qua mọi giai đoạn của chu kỳ bầu cử, cần củng cố nền tảng vĩ mô và bảo vệ quyền lợi nhà đầu tư (thực thi hợp đồng, thanh toán đúng hạn, cho phép hồi hương lợi nhuận).
 
 ## Thuật ngữ
 

@@ -320,72 +320,272 @@
 2. Chính sách tín dụng xanh cần được thiết kế thế nào để vừa nâng sản lượng vừa giảm phát thải?
 3. Vì sao cấp phát hạn ngạch miễn phí lại quan trọng khi có ràng buộc tài chính?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Ràng buộc tài chính và hạn mức đòn bẩy (financial constraint, leverage limit).** Doanh nghiệp bị ràng buộc tài chính khi muốn đầu tư thêm (vì dự án có lời) nhưng không vay được đủ tiền. Trong bài, ràng buộc có dạng hạn mức đòn bẩy: giá trị vốn doanh nghiệp được mua không vượt quá χ lần giá trị ròng của nó. Ví dụ từ hiệu chuẩn của bài: χ = 2,15, nên doanh nghiệp có giá trị ròng 100 triệu euro chỉ mua được tối đa 215 triệu euro máy móc, dù quy mô tối ưu của nó có thể là 400 triệu. Đây là xuất phát điểm của toàn bộ bài: ràng buộc này không chỉ làm doanh nghiệp nhỏ hơn mà còn làm nó chọn máy khác.
+
+**Giá trị ròng (net worth).** Tài sản cố định hữu hình cộng tài sản ngắn hạn, trừ tổng nợ. Ví dụ minh hoạ: doanh nghiệp có nhà xưởng, máy móc 60 tỷ, hàng tồn kho và tiền 40 tỷ, nợ 70 tỷ thì giá trị ròng là 30 tỷ. Con số này đo năng lực vay chưa dùng: phần tài sản còn có thể đem thế chấp. Bài dùng nó làm thước đo mức độ bị ràng buộc: giá trị ròng càng thấp, doanh nghiệp càng sát hạn mức vay.
+
+**Đời máy (capital vintage) và đời máy tiên phong (frontier vintage).** Mỗi thế hệ công nghệ của máy móc là một "đời". Đời mới hơn có năng suất cao hơn, dùng ít năng lượng hơn, phát thải ít hơn trên mỗi đơn vị năng lượng, nhưng đắt hơn. Đời máy tiên phong là đời tốt nhất đang được dùng. Ví dụ bài nêu: chuyển từ nồi hơi chạy nhiên liệu hoá thạch sang bơm nhiệt công nghiệp vừa cắt phát thải vừa giảm năng lượng tiêu thụ trên mỗi đơn vị nhiệt. Khái niệm này cần để hiểu cơ chế trung tâm: doanh nghiệp không chỉ chọn mua bao nhiêu máy mà còn chọn đời máy nào.
+
+**Đánh đổi giữa chất lượng và số lượng máy.** Với một hạn mức vay cố định, mua máy tốt hơn nghĩa là mua được ít máy hơn. Ví dụ minh hoạ: doanh nghiệp được vay tối đa 3 triệu euro; máy đời cũ giá 1 triệu, làm ra 1 đơn vị sản phẩm; máy đời mới giá 1,5 triệu, làm ra 1,2 đơn vị. Mua 3 máy cũ được 3 đơn vị, mua 2 máy mới chỉ được 2,4 đơn vị. Doanh nghiệp đang thiếu vốn sẽ chọn máy cũ, bẩn hơn. Đây chính là "thứ tự ưu tiên công nghệ" của bài.
+
+**Cường độ phát thải (emission intensity).** Lượng phát thải trên một đơn vị sản lượng (giá trị gia tăng hay doanh thu). Ví dụ minh hoạ: nhà máy A làm ra 10 triệu euro giá trị gia tăng và thải 5.000 tấn CO2, cường độ là 500 tấn trên mỗi triệu euro; nhà máy B làm ra 20 triệu và thải 6.000 tấn, cường độ chỉ 300. Tổng phát thải bằng cường độ phát thải nhân sản lượng, nên cường độ có thể giảm mà tổng phát thải vẫn tăng nếu sản lượng tăng nhanh hơn. Đây là lý do gỡ ràng buộc tài chính lại làm tăng phát thải.
+
+**Hệ thống Mua bán Phát thải của EU và giá carbon (EU ETS, cap and trade).** Nhà nước đặt tổng mức phát thải tối đa (giới hạn), chia thành các hạn ngạch, mỗi hạn ngạch cho phép thải một tấn CO2 tương đương. Doanh nghiệp phải nộp đủ hạn ngạch cho lượng mình thải; hạn ngạch được đấu giá, cấp miễn phí, hoặc mua bán giữa các doanh nghiệp, và giá mua bán đó là giá carbon. Ví dụ minh hoạ: với giá carbon 30 euro, một nhà máy thải 10.000 tấn phải trả 300.000 euro. Bài dùng cả dữ liệu phát thải đã kiểm chứng của hệ thống này lẫn giá carbon trong các thí nghiệm chính sách.
+
+**Hạn ngạch miễn phí (free permits).** Một phần hạn ngạch được cấp không mất tiền cho doanh nghiệp, thường dựa trên phát thải quá khứ. Doanh nghiệp vẫn chịu giá carbon ở biên (thải thêm một tấn vẫn tốn một hạn ngạch có thể bán đi), nhưng tổng số tiền phải trả giảm. Ví dụ minh hoạ: nhà máy thải 10.000 tấn, giá 60 euro, nếu được cấp miễn phí một nửa thì chỉ phải chi 300.000 thay vì 600.000 euro. Trong bài, khoản tiền được giữ lại này giúp doanh nghiệp thoát khỏi ràng buộc tài chính nhanh hơn.
+
+**Tính bổ sung giữa vốn và năng lượng (capital-energy complementarity).** Vốn và năng lượng phải đi cùng nhau: máy móc cần điện, nhiên liệu để chạy, và khó thay thế cái này bằng cái kia. Bài đặt độ co giãn thay thế chỉ 0,2, gần như cố định tỷ lệ. Ví dụ minh hoạ: thêm một lò nung là thêm lượng khí đốt cho lò đó. Vì vậy khi doanh nghiệp có thêm vốn, tiêu thụ năng lượng tăng theo, và đây là một trong ba kênh khiến gỡ ràng buộc tài chính làm tăng phát thải.
+
+## Nội dung chi tiết
 
 ### 1. Bối cảnh và ba đóng góp
 
-- Nhiều chính phủ đã đưa ra các can thiệp khu vực tài chính nhằm hướng tín dụng và đầu tư về công nghệ sạch hơn, và giảm bớt khó khăn cho doanh nghiệp trong quá trình chuyển đổi. Các chính sách này nổi lên vì hai lý do: khó khăn chính trị trong việc nâng thuế carbon, và ràng buộc tài chính ngăn doanh nghiệp đầu tư vào công nghệ sạch hơn. Dù được dùng ngày càng nhiều, tài liệu học thuật có rất ít bằng chứng về hiệu quả của chúng.
-- Đóng góp thứ nhất là về lý thuyết: bài xem xét cách ràng buộc tài chính định hình việc áp dụng công nghệ nội sinh trong một mô hình vĩ mô cân bằng tổng thể về động thái doanh nghiệp. Mô hình kết hợp khung Hopenhayn với ràng buộc tài chính theo kiểu Khan và Thomas cùng Ottonello và Winberry, và điểm mới về lý thuyết là nhúng lựa chọn đời máy vào khung này.
-- Đóng góp thứ hai là về chính sách: theo hiểu biết của tác giả, đây là bài đầu tiên đánh giá tác động cân bằng tổng thể của chính sách tài chính xanh lên tổng phát thải.
-- Đóng góp thứ ba là về thực nghiệm: bài đưa ra bằng chứng vi mô mới rằng doanh nghiệp ít bị ràng buộc tài chính hơn có khả năng thích ứng với giá carbon tốt hơn. Tài liệu trước đã có bằng chứng riêng về vai trò của ràng buộc tài chính và riêng về tác động của giá carbon, nhưng có rất ít nghiên cứu xét cả hai cùng lúc.
-- Bài cũng phân biệt mình với các nghiên cứu gần nhất. Berthold và cộng sự xét phản ứng giá cổ phiếu nên không thể bao gồm doanh nghiệp chưa niêm yết. Carradori và cộng sự cho thấy doanh nghiệp có đòn bẩy cao hơn cắt phát thải ít hơn nhưng không dùng biến thiên ngoại sinh của giá carbon. Kaldorf và Shi dùng dữ liệu tự báo cáo có thể đã được ước tính thay thế và cũng không dùng cú sốc ngoại sinh.
+**Chính sách tài chính xanh là gì.** Nhiều chính phủ đã đưa ra các can thiệp vào khu vực tài chính nhằm hướng tín dụng và đầu tư về công nghệ sạch hơn, và giảm bớt khó khăn cho doanh nghiệp trong quá trình chuyển đổi. Các công cụ gồm: tăng cung tín dụng ưu đãi cho đầu tư xanh; điều chỉnh quy tắc về tài sản bảo đảm và trọng số rủi ro (mức vốn ngân hàng phải giữ cho mỗi khoản vay); và cách phân bổ hạn ngạch trong hệ thống mua bán phát thải. Một số ví dụ:
+
+- Ngân hàng Đầu tư châu Âu cam kết tài trợ 550 tỷ euro đầu tư mới cho chuyển đổi xanh từ năm 2021.
+- Ngân hàng Trung ương châu Âu dự kiến đưa một "hệ số khí hậu" vào cách định giá tài sản bảo đảm năm 2026.
+- Trung Quốc và Nhật Bản có cơ chế cho vay đặc biệt để ngân hàng tài trợ đầu tư xanh.
+
+Các chính sách này nổi lên vì hai lý do: nâng thuế carbon rất khó về mặt chính trị, và ràng buộc tài chính được cho là ngăn doanh nghiệp đầu tư vào công nghệ sạch hơn. Dù được dùng ngày càng nhiều, tài liệu học thuật có rất ít bằng chứng về hiệu quả của chúng.
+
+**Ba đóng góp của bài.**
+
+1. **Lý thuyết:** bài xem ràng buộc tài chính định hình việc chọn công nghệ ra sao, trong một mô hình vĩ mô cân bằng tổng thể về động thái doanh nghiệp. Mô hình ghép khung Hopenhayn (doanh nghiệp gia nhập và rời thị trường) với ràng buộc tài chính theo kiểu Khan và Thomas cùng Ottonello và Winberry. Điểm mới là đưa lựa chọn đời máy vào khung này.
+2. **Chính sách:** theo hiểu biết của tác giả, đây là bài đầu tiên đánh giá tác động cân bằng tổng thể của chính sách tài chính xanh lên tổng phát thải.
+3. **Thực nghiệm:** bài đưa ra bằng chứng vi mô mới rằng doanh nghiệp ít bị ràng buộc tài chính thích ứng với giá carbon tốt hơn. Các nghiên cứu trước có bằng chứng riêng về vai trò của ràng buộc tài chính và riêng về tác động của giá carbon, nhưng rất ít nghiên cứu xét cả hai cùng lúc.
+
+**Khác biệt với các nghiên cứu gần nhất.** Berthold và cộng sự xét phản ứng của giá cổ phiếu, nên không bao gồm được doanh nghiệp chưa niêm yết. Carradori và cộng sự cho thấy doanh nghiệp có đòn bẩy cao hơn cắt phát thải ít hơn, nhưng không dùng biến thiên ngoại sinh của giá carbon. Kaldorf và Shi dùng dữ liệu phát thải tự báo cáo, có thể đã được ước tính thay thế, và cũng không dùng cú sốc ngoại sinh.
 
 ### 2. Dữ liệu và hai sự thật
 
-- Dữ liệu phát thải đã được kiểm chứng lấy từ Hệ thống Mua bán Phát thải của EU, vốn áp dụng cách tiếp cận giới hạn và mua bán. Mỗi hạn ngạch cho phép phát thải một tấn CO2 tương đương, và doanh nghiệp phải mua qua đấu giá, nhận miễn phí, hoặc mua lại từ doanh nghiệp khác.
-- Việc đưa cơ sở vào hệ thống chủ yếu do ngưỡng công suất theo ngành quyết định. Ví dụ được nêu: cơ sở sản xuất thuỷ tinh kể cả sợi thuỷ tinh nằm trong hệ thống nếu công suất trên hai mươi tấn mỗi ngày. Doanh nghiệp có thể sở hữu nhiều cơ sở và chỉ một phần trong đó thuộc hệ thống.
-- Độ tin cậy của dữ liệu đến từ Chu trình Tuân thủ hàng năm, với yêu cầu kiểm chứng bởi kiểm định viên được công nhận trong tháng ba năm sau, và mức phạt một trăm euro cho mỗi tấn vượt mà không làm mất nghĩa vụ nộp hạn ngạch.
-- Dữ liệu tài chính lấy từ Orbis, và việc phủ cả doanh nghiệp tư nhân là đặc biệt quan trọng vì nhóm này nhỏ hơn và dễ bị ràng buộc tài chính hơn.
-- Giá trị ròng được định nghĩa là tổng tài sản cố định hữu hình và tài sản ngắn hạn trừ tổng nợ, nắm bắt chênh lệch giữa tài sản có thể dùng làm bảo đảm và lượng nợ hiện có, tức năng lực vay chưa dùng. Năng suất được ước lượng từ dữ liệu doanh thu theo phương pháp của Asker và cộng sự, dùng tỷ trọng chi phí đầu vào.
-- Hai sự thật được kiểm tra trong cùng ngành bốn chữ số, cùng nước và cùng năm, cho phép so sánh rất chi tiết. Bài nêu ví dụ minh hoạ mức chi tiết: việc rèn thép thô được coi là một ngành riêng biệt so với việc chế biến thép thành sản phẩm cụ thể.
+**Nguồn dữ liệu.** Mẫu gồm 3.200 doanh nghiệp chế tạo ở 30 nước châu Âu, giai đoạn 2005–2021. Dữ liệu phát thải đã được kiểm chứng lấy từ Hệ thống Mua bán Phát thải của EU, ghép với dữ liệu tài chính Orbis qua bảng đối chiếu của Trung tâm Nghiên cứu Chung của EU.
+
+**Cách hệ thống mua bán phát thải vận hành.** Hệ thống áp dụng cách tiếp cận giới hạn và mua bán: mỗi hạn ngạch cho phép thải một tấn CO2 tương đương, và doanh nghiệp có hạn ngạch bằng cách mua qua đấu giá, nhận miễn phí hoặc mua lại từ doanh nghiệp khác. Việc một cơ sở có thuộc hệ thống hay không chủ yếu do ngưỡng công suất theo ngành quyết định. Ví dụ bài nêu: cơ sở sản xuất thuỷ tinh, kể cả sợi thuỷ tinh, nằm trong hệ thống nếu công suất trên 20 tấn mỗi ngày. Một doanh nghiệp có thể sở hữu nhiều cơ sở và chỉ một phần trong đó thuộc hệ thống.
+
+**Vì sao dữ liệu này đáng tin.**
+
+- Phát thải được kiểm chứng theo Chu trình Tuân thủ hằng năm: kiểm định viên được công nhận phải xác nhận số liệu vào tháng ba năm sau. Doanh nghiệp không nộp đủ hạn ngạch bị phạt 100 euro cho mỗi tấn vượt, và vẫn phải nộp bù số hạn ngạch còn thiếu.
+- Orbis phủ cả doanh nghiệp niêm yết lẫn doanh nghiệp tư nhân. Điều này đặc biệt quan trọng vì doanh nghiệp tư nhân nhỏ hơn và dễ bị ràng buộc tài chính hơn.
+
+**Quy mô.** Năm 2021, các doanh nghiệp trong mẫu thải 315 triệu tấn CO2 tương đương, khoảng 40% phát thải của ngành chế tạo châu Âu. Bộ dữ liệu phủ 85% phát thải của ngành chế tạo thuộc hệ thống.
+
+**Thước đo ràng buộc và năng suất.** Giá trị ròng bằng tài sản cố định hữu hình cộng tài sản ngắn hạn trừ tổng nợ, tức chênh lệch giữa tài sản có thể dùng làm bảo đảm và nợ hiện có, đo năng lực vay chưa dùng (theo Ottonello và Winberry 2024). Năng suất được ước lượng từ dữ liệu doanh thu theo phương pháp của Asker và cộng sự, dùng tỷ trọng chi phí đầu vào.
+
+**Hai sự thật cách điệu.** Bài so sánh các doanh nghiệp trong cùng ngành chi tiết ở mức 4 chữ số, cùng nước, cùng năm. Mức chi tiết này rất cao; ví dụ bài nêu: rèn thép thô là một ngành riêng so với chế biến thép thành sản phẩm cụ thể.
+
+1. Doanh nghiệp có giá trị ròng cao hơn thì năng suất cao hơn.
+2. Doanh nghiệp năng suất cao hơn thì cường độ phát thải thấp hơn.
+
+Ghép lại: doanh nghiệp phải hoạt động sát hạn mức vay vừa kém năng suất vừa bẩn hơn. Hai quan hệ vững khi thay bằng hiệu ứng cố định doanh nghiệp và năm, và khi đo cường độ phát thải bằng phát thải trên doanh thu.
 
 ### 3. Mô hình
 
-- Mô hình là cân bằng tổng thể liên tục theo thời gian cho nền kinh tế nhỏ mở, với hộ gia đình đại diện có sở thích kiểu Greenwood, Hercowitz và Huffman.
-- Doanh nghiệp khác nhau ở hai chiều: năng suất ngoại sinh theo quá trình ngẫu nhiên và giá trị ròng tích luỹ qua lợi nhuận giữ lại. Hai ràng buộc tài chính là hạn mức đòn bẩy phụ thuộc giá trị ròng và việc không huy động được vốn cổ phần bên ngoài.
-- Hàm sản xuất có lợi suất giảm dần theo quy mô nên mỗi doanh nghiệp có quy mô tối ưu, và có tính bổ sung mạnh giữa vốn và năng lượng với độ co giãn thay thế chỉ 0,2.
-- Hàm phát thải tuyến tính theo năng lượng tiêu thụ và giảm theo chất lượng đời máy. Bài dẫn bằng chứng của Capelle và cộng sự rằng hàm này mô tả chính xác dữ liệu trong mặt cắt ngang doanh nghiệp.
-- Về đời máy, bài nêu một ví dụ cụ thể để minh hoạ khái niệm: chuyển từ nồi hơi chạy nhiên liệu hoá thạch sang bơm nhiệt công nghiệp vừa cắt phát thải vừa giảm tiêu thụ năng lượng trên mỗi đơn vị nhiệt sản xuất.
-- Đóng góp lý thuyết trung tâm là thứ tự ưu tiên đời máy. Doanh nghiệp bị ràng buộc nhỏ hơn quy mô tối ưu, và họ chọn đời máy kém hiệu quả hơn vì như vậy mới vận hành được ở quy mô vốn lớn hơn. Khi tích luỹ giá trị ròng và ràng buộc nới ra, họ dần nâng cấp lên đời máy tốt hơn cho tới khi đạt đời máy tối ưu.
-- Điều kiện cần cho kết quả này là Giả định 3: giá của đời máy mới tăng nhanh hơn năng suất của nó. Nếu ngược lại thì đời máy tốt nhất sẽ luôn được ưa chuộng bất kể mức giá trị ròng.
-- Quy tắc quyết định trong mô hình hiệu chuẩn cho thấy đánh đổi một cách trực quan: khi doanh nghiệp nâng cấp lên đời máy tốt hơn, quy mô vốn và sản lượng tụt xuống một nấc rồi mới tiếp tục tăng, tạo ra đường vốn hình răng cưa.
-- Ngưỡng nâng cấp phụ thuộc vào năng suất: doanh nghiệp có năng suất thấp có ngưỡng thấp hơn, vì họ có quy mô vốn tối ưu nhỏ hơn nên ít động cơ bóp méo quyết định công nghệ để tăng quy mô vốn. Ngưỡng cũng phụ thuộc vào tiền lương: lương tăng làm mọi ngưỡng hạ xuống, vì quy mô tối ưu của doanh nghiệp giảm nên chi phí của ràng buộc vay được làm dịu.
-- Phân bố đời máy trong cân bằng lệch trái, với khoảng sáu mươi phần trăm doanh nghiệp không bị ràng buộc dùng cùng một đời máy và một đuôi dài các doanh nghiệp bị ràng buộc dùng đời máy kém hơn. Không doanh nghiệp nào dùng đời máy tốt hơn mức tối ưu.
+**Cấu trúc.** Mô hình cân bằng tổng thể liên tục theo thời gian cho một nền kinh tế nhỏ mở, có hộ gia đình đại diện với sở thích kiểu Greenwood, Hercowitz và Huffman (GHH), và nhiều doanh nghiệp khác nhau. Mỗi doanh nghiệp được mô tả bằng hai biến trạng thái:
+
+- **Năng suất z**, ngoại sinh, thay đổi ngẫu nhiên theo quá trình Ornstein–Uhlenbeck (dạng liên tục của một quá trình tự hồi quy bậc một: năng suất bị đẩy lệch rồi dần quay về mức trung bình).
+- **Giá trị ròng a**, tích luỹ qua lợi nhuận giữ lại.
+
+**Hai ràng buộc tài chính.**
+
+1. **Hạn mức đòn bẩy:** q_v·k_v ≤ χ·a, tức giá trị máy đời v (giá q_v nhân lượng k_v) không vượt quá χ lần giá trị ròng. χ = 1 nghĩa là doanh nghiệp phải tự tài trợ hoàn toàn; χ tiến tới vô cùng nghĩa là thị trường vốn hoàn hảo.
+2. **Không được huy động vốn cổ phần bên ngoài**, nên giá trị ròng a chỉ tăng được qua lợi nhuận giữ lại.
+
+**Sản xuất.** y = z·(v·k̃_v)^κ·ℓ^λ, với κ + λ < 1. Vì tổng các số mũ nhỏ hơn 1, lợi suất giảm dần theo quy mô, nên mỗi doanh nghiệp có một quy mô tối ưu. k̃_v là tổ hợp CES (độ co giãn thay thế không đổi) của vốn và năng lượng, với độ co giãn thay thế ε = 0,2: vốn và năng lượng bổ sung rất mạnh cho nhau, gần như kiểu Leontief (tỷ lệ cố định).
+
+**Phát thải.** e = φ·v^(−γ)·n: phát thải tuyến tính theo năng lượng tiêu thụ n và giảm theo chất lượng đời máy v. Bài dẫn bằng chứng của Capelle và cộng sự rằng dạng hàm này mô tả chính xác dữ liệu giữa các doanh nghiệp.
+
+**Đánh đổi mà doanh nghiệp phải đối mặt.**
+
+| Chọn đời máy tốt hơn | Chọn mua nhiều vốn hơn |
+|---|---|
+| Năng suất cao hơn | Vận hành gần quy mô tối ưu hơn |
+| Tiêu thụ ít năng lượng hơn | |
+| Phát thải ít hơn trên mỗi đơn vị năng lượng | |
+| Nhưng đắt hơn, nên với hạn mức vay cố định thì mua được ít vốn hơn | Nhưng phải chấp nhận đời máy cũ và bẩn hơn |
+
+Đánh đổi này chỉ có thật nhờ **Giả định 3**: ι_v·v > ι_v'·v' (với v' là đời tốt hơn v), tức giá của đời máy mới tăng nhanh hơn năng suất của nó, nên tỷ lệ năng suất trên giá giảm dần theo đời máy. Nếu ngược lại, đời máy tốt nhất cũng là đời "rẻ nhất trên mỗi đơn vị năng suất", và doanh nghiệp sẽ luôn chọn nó bất kể giá trị ròng.
+
+**Mệnh đề 1: thứ tự ưu tiên công nghệ, đóng góp lý thuyết trung tâm.** Tồn tại một dãy ngưỡng giá trị ròng tăng dần ā(z,v₀) < ā(z,v₁) < … < ā(z,v*) sao cho doanh nghiệp dùng đời máy v khi và chỉ khi giá trị ròng a nằm giữa hai ngưỡng tương ứng. Quỹ đạo của một doanh nghiệp, đi từ giá trị ròng thấp lên cao:
+
+| Giá trị ròng | Đời máy | Đặc điểm |
+|---|---|---|
+| Thấp | v₀ | Rẻ, bẩn, năng suất thấp, nhưng mua được nhiều máy |
+| Tăng dần | v₁, v₂, … | Nâng cấp dần |
+| Đủ cao | v* (tối ưu) | Đắt, sạch, năng suất cao, và vận hành ở quy mô tối ưu |
+
+Doanh nghiệp bị ràng buộc nhỏ hơn quy mô tối ưu, và cố tình chọn đời máy kém hơn vì như vậy mới vận hành được ở quy mô vốn lớn hơn. Khi tích luỹ giá trị ròng và ràng buộc nới ra, họ dần nâng cấp cho tới khi đạt đời máy tối ưu.
+
+**Đường vốn hình răng cưa.** Quy tắc quyết định trong mô hình hiệu chuẩn cho thấy đánh đổi một cách trực quan: mỗi lần doanh nghiệp nâng cấp lên đời máy tốt hơn, quy mô vốn và sản lượng tụt xuống một nấc (vì máy tốt đắt hơn, cùng hạn mức vay mua được ít máy hơn), rồi mới tiếp tục tăng.
+
+**Ngưỡng nâng cấp phụ thuộc năng suất và tiền lương.**
+
+- Doanh nghiệp có năng suất z thấp có ngưỡng thấp hơn: quy mô vốn tối ưu của họ nhỏ hơn, nên họ ít động cơ bóp méo quyết định công nghệ để mua thêm vốn.
+- Lương tăng làm mọi ngưỡng hạ xuống: quy mô tối ưu của doanh nghiệp giảm (thuê lao động đắt hơn), nên chi phí của ràng buộc vay được làm dịu, và doanh nghiệp nâng cấp ở mức giá trị ròng thấp hơn.
+
+**Phân bố đời máy trong cân bằng.** Khoảng 60% doanh nghiệp không bị ràng buộc và dùng cùng một đời máy tối ưu, tạo một đỉnh nhọn trong phân bố quanh v ≈ 1,15. Các doanh nghiệp bị ràng buộc tạo thành một đuôi dài bên trái, dùng đời máy kém hơn. Không doanh nghiệp nào dùng đời máy tốt hơn mức tối ưu, nên phân bố lệch trái, không đối xứng.
 
 ### 4. Hiệu chuẩn và kiểm chứng
 
-- Một số tham số đặt ngoại sinh theo tài liệu, một số hiệu chuẩn nội sinh để khớp mô men. Độ co giãn phát thải theo đời máy được lấy từ Capelle và cộng sự rồi điều chỉnh theo tỷ lệ độ phân tán đời máy giữa dữ liệu của họ và mô hình này.
-- Mô hình khớp tốt các mô men được nhắm, từ chi phí gia nhập tới đòn bẩy bình quân.
-- Phần kiểm chứng có hai lớp. Lớp thứ nhất là tái tạo hai sự thật cách điệu, với cả dấu lẫn độ lớn đều khớp.
-- Lớp thứ hai mạnh hơn: kiểm chứng phản ứng khác biệt của doanh nghiệp trước thay đổi ngoại sinh của giá carbon theo mức giá trị ròng. Công cụ là chuỗi cú sốc của Känzig, dựng từ thay đổi giá hợp đồng tương lai hạn ngạch trong những ngày mà quy định làm dịch chuyển kỳ vọng về nguồn cung hạn ngạch, theo đúng tinh thần của tài liệu dùng thay đổi lãi suất trong cửa sổ hẹp quanh thông báo chính sách tiền tệ.
-- Kết quả cho thấy doanh nghiệp có giá trị ròng cao cắt phát thải thêm một phẩy năm điểm phần trăm so với nhóm thấp sau ba năm, ứng với mức tăng giá carbon mười ba phần trăm. Mô hình cho kết quả tương tự về định lượng, và ở chân trời hai mươi năm thì hội tụ về trên ba điểm phần trăm. Vì đây là mô men không được nhắm khi hiệu chuẩn, sự khớp này là xác nhận mạnh cho cơ chế cốt lõi.
-- Ba kiểm tra rò rỉ carbon được thực hiện. Nếu kết quả chỉ do chuyển sản xuất giữa các doanh nghiệp thì các đầu vào khác cũng phải giảm, nhưng không có mức giảm khác biệt nào ở số lao động hay chi phí nguyên vật liệu. Với rò rỉ trong nội bộ doanh nghiệp, kết quả vững khi chỉ giữ các doanh nghiệp có số cơ sở ghi trong Orbis không vượt số cơ sở ghi trong hệ thống ETS. Kết quả cũng vững khi thêm biến kiểm soát cấp doanh nghiệp.
+**Tham số.** Một số tham số đặt ngoại sinh theo tài liệu, số khác được hiệu chuẩn nội sinh để khớp các mô men trong dữ liệu.
+
+| Tham số đặt ngoại sinh | Giá trị |
+|---|---|
+| ρ, tỷ lệ chiết khấu | 0,04 |
+| δ, khấu hao | 0,05 |
+| r*, lãi suất thế giới | 4% |
+| g_v, tăng năng suất giữa hai đời máy | 11,9% |
+| u, tỷ lệ năng suất trên giá giảm 10% mỗi đời | 0,9 |
+| γ, co giãn phát thải theo đời máy | 0,27 |
+| ε, độ co giãn thay thế vốn–năng lượng | 0,2 |
+| λ, co giãn sản lượng theo lao động | 0,64 |
+| τ, giá carbon (mức trước 2020) | 30 euro |
+
+| Tham số hiệu chuẩn nội sinh | Giá trị |
+|---|---|
+| κe, chi phí gia nhập | 0,145 |
+| ζ, tỷ lệ rời thị trường | 0,025 |
+| α, cường độ năng lượng | 0,06 |
+| φ, phát thải trên năng lượng | 0,06 |
+| σz, độ phân tán năng suất | 0,2 |
+| κ, co giãn sản lượng theo vốn | 0,145 |
+| χ, hạn mức đòn bẩy | 2,15 |
+| ψ2, mức ưa thích lao động | 2,7056 |
+
+Độ co giãn phát thải theo đời máy γ được lấy từ Capelle và cộng sự, rồi điều chỉnh theo tỷ lệ độ phân tán đời máy giữa dữ liệu của họ và mô hình này.
+
+**Mô men được nhắm.** Mô hình khớp tốt, từ chi phí gia nhập tới đòn bẩy bình quân:
+
+| Mô men | Dữ liệu | Mô hình |
+|---|---|---|
+| Chi phí gia nhập trên GDP | 3,4% | 3,4% |
+| Tỷ lệ rời thị trường | 2,5% | 2,5% |
+| Chi phí năng lượng trên tổng chi phí | 3,1% | 2,9% |
+| Phát thải trên đơn vị năng lượng | 0,06 | 0,06 |
+| Phương sai quy mô doanh nghiệp | 2,66 | 2,55 |
+| Hiệp phương sai sản lượng và năng suất (TFP) | 0,57 | 0,55 |
+| Đòn bẩy bình quân | 35% | 35% |
+
+**Kiểm chứng lớp thứ nhất: hai sự thật cách điệu.** Phân bố dừng của mô hình tái tạo được quan hệ dương giữa giá trị ròng và năng suất, và quan hệ âm giữa cường độ phát thải và năng suất, khớp cả về dấu lẫn độ lớn. Trong mô hình, quan hệ thứ nhất phản ánh hai lực: thứ tự ưu tiên công nghệ, và việc doanh nghiệp có z cao có quy mô tối ưu lớn nên tích luỹ nhiều giá trị ròng hơn để đạt quy mô đó.
+
+**Kiểm chứng lớp thứ hai, mạnh hơn: phản ứng với cú sốc giá carbon, một mô men không được nhắm.** Câu hỏi: khi giá carbon tăng ngoại sinh, doanh nghiệp giá trị ròng cao có cắt phát thải nhiều hơn doanh nghiệp giá trị ròng thấp không, đúng như mô hình dự đoán?
+
+- **Công cụ:** chuỗi cú sốc giá carbon ngoại sinh của Känzig (2023), dựng từ thay đổi giá hợp đồng tương lai hạn ngạch EU trong những ngày có quyết định quản lý làm dịch chuyển kỳ vọng về nguồn cung hạn ngạch. Cách làm này theo đúng truyền thống của tài liệu chính sách tiền tệ tần suất cao, vốn đo thay đổi lãi suất trong cửa sổ hẹp quanh thông báo chính sách (Gurkaynak, Sack và Swanson 2005; Nakamura và Steinsson 2018).
+- **Phương pháp:** phép chiếu cục bộ có biến công cụ. Doanh nghiệp được xếp là "giá trị ròng cao" nếu vượt phân vị 75 trong cùng ngành, nước và năm. Sai số chuẩn được gom theo năm.
+- **Kết quả:** với mức tăng giá carbon 13% (mức tăng bình quân hằng năm của giá carbon EU từ 2010 tới 2023), doanh nghiệp giá trị ròng cao cắt phát thải thêm 1,5 điểm phần trăm so với nhóm thấp sau ba năm. Mô hình cho kết quả tương tự về định lượng, và ở chân trời 20 năm thì hội tụ về trên 3 điểm phần trăm.
+
+Vì phản ứng này không được dùng khi hiệu chuẩn, sự khớp giữa dữ liệu và mô hình là xác nhận mạnh cho cơ chế cốt lõi.
+
+**Ba kiểm tra rò rỉ carbon.** Rò rỉ carbon là khi phát thải không thật sự giảm mà chỉ chuyển sang nơi không bị đo.
+
+1. **Rò rỉ giữa các doanh nghiệp:** nếu doanh nghiệp giá trị ròng cao chỉ chuyển sản xuất sang doanh nghiệp khác, thì các đầu vào khác của họ cũng phải giảm. Không có mức giảm khác biệt nào ở số lao động hay chi phí nguyên vật liệu.
+2. **Rò rỉ trong nội bộ doanh nghiệp:** bài chỉ quan sát được phát thải của các cơ sở thuộc hệ thống ETS. Nếu doanh nghiệp chuyển sản xuất sang cơ sở ngoài hệ thống, ta vẫn thấy phát thải giảm dù tổng phát thải không đổi. Kiểm tra: chỉ giữ các doanh nghiệp có số cơ sở ghi trong Orbis không vượt số cơ sở ghi trong ETS (tức mọi cơ sở đều được đo). Kết quả vững.
+3. **Thêm biến kiểm soát cấp doanh nghiệp** (chi phí lao động, dòng tiền, lợi nhuận trước lãi và thuế). Kết quả vững.
 
 ### 5. Kết quả phản thực thứ nhất
 
-- Bài bắt đầu bằng một thí nghiệm cực đoan nhưng hữu ích làm chuẩn: đặt hạn mức đòn bẩy bằng vô cùng. Về mặt định tính, tác động lên phát thải là mơ hồ vì có ba kênh đối nghịch.
-- Kênh thứ nhất là ràng buộc lỏng cho phép một số doanh nghiệp nâng cấp lên đời máy hiệu quả hơn và giảm phát thải so với quy mô. Kênh thứ hai là ràng buộc lỏng cho phép tăng cường độ vốn, mà vốn bổ sung với năng lượng nên tiêu thụ năng lượng tăng. Kênh thứ ba là doanh nghiệp và nền kinh tế lớn lên, làm tăng phát thải ngay cả khi cường độ phát thải không đổi.
-- Về định lượng, kênh thứ ba chi phối. Phát thải trên đơn vị năng lượng giảm hai phẩy năm phần trăm, năng lượng trên sản lượng tăng bốn phẩy tám phần trăm, nhưng sản lượng tăng ba mươi mốt phẩy năm phần trăm, khiến tổng phát thải tăng ba mươi bốn phẩy bốn phần trăm.
-- Kết quả về tăng trưởng và năng suất nhất quán với tài liệu trước về chi phí của phân bổ sai nguồn lực. Bài đối chiếu cụ thể với bốn nghiên cứu và cho thấy con số của mình nằm trong khoảng hợp lý, đồng thời lưu ý rằng kết quả của Ottonello và Winberry không so sánh trực tiếp được vì trong mô hình của họ ràng buộc tài chính còn cản trở phân bổ hiệu quả nguồn lực cho đổi mới.
+**Thí nghiệm chuẩn: gỡ bỏ hoàn toàn ràng buộc tài chính** (χ tiến tới vô cùng). Đây là thí nghiệm cực đoan nhưng hữu ích làm mốc so sánh. Về định tính, tác động lên phát thải không rõ chiều, vì có ba kênh ngược nhau:
+
+1. Ràng buộc lỏng cho phép một số doanh nghiệp nâng cấp lên đời máy hiệu quả hơn, giảm phát thải trên mỗi đơn vị năng lượng.
+2. Ràng buộc lỏng cho phép doanh nghiệp dùng nhiều vốn hơn, mà vốn bổ sung với năng lượng, nên tiêu thụ năng lượng tăng.
+3. Doanh nghiệp và cả nền kinh tế lớn lên, làm tăng phát thải ngay cả khi cường độ phát thải không đổi.
+
+**Phân rã định lượng.** Tổng phát thải được viết thành tích ba thừa số: E = (E/N) × (N/Y) × Y, tức phát thải trên năng lượng, nhân năng lượng trên sản lượng, nhân sản lượng.
+
+| Thành phần | Thay đổi |
+|---|---|
+| Phát thải trên năng lượng (E/N) | −2,5%, nhờ nâng cấp lên đời máy xanh hơn |
+| Năng lượng trên sản lượng (N/Y) | +4,8%, vì vốn tăng mà vốn bổ sung với năng lượng |
+| Sản lượng (Y) | +31,5%, lực chi phối |
+| **Tổng phát thải** | **+34,4%** |
+
+Kênh thứ ba chi phối hoàn toàn. Các thay đổi khác khi gỡ ràng buộc:
+
+| Biến | Thay đổi |
+|---|---|
+| Phúc lợi | +39,1% |
+| Năng lượng | +37,6% |
+| Lao động | +7,0% |
+| Vốn | +32,1% |
+| Năng suất tổng thể (TFP) | +20,7% |
+| Phương sai log sản lượng | +20,4% |
+| Số doanh nghiệp mới gia nhập | +252,2% |
+
+Thông điệp: ràng buộc tài chính đúng là rào cản với việc áp dụng công nghệ xanh, nhưng gỡ chúng không giúp giảm tổng phát thải.
+
+**Đối chiếu với tài liệu về phân bổ sai nguồn lực.** Các ước lượng trước về lợi ích của việc nới ràng buộc tài chính:
+
+| Nghiên cứu | Kết quả |
+|---|---|
+| Buera và cộng sự (2015), tổng kết | TFP tăng 20–30% |
+| Midrigan và Xu (2014), Hàn Quốc | 25% |
+| Buera và cộng sự (2011) | GDP tăng 40% |
+| Ottonello và Winberry (2024), Mỹ | 23% sau 50 năm |
+
+Kết quả TFP +20,7% và sản lượng +31,5% của bài nằm trong khoảng hợp lý. Bài lưu ý kết quả của Ottonello và Winberry không so sánh trực tiếp được, vì trong mô hình của họ ràng buộc tài chính còn cản trở việc phân bổ nguồn lực cho đổi mới.
 
 ### 6. Kết quả phản thực thứ hai
 
-- Bài mô hình hoá chính sách tín dụng xanh bằng cách cho hạn mức đòn bẩy phụ thuộc vào đời máy mà doanh nghiệp đang dùng, với hai tham số: mức độ hào phóng và ngưỡng xanh.
-- Chính sách không thiên lệch, tức phủ mọi đời máy, không làm giảm tổng phát thải. Dù hiệu suất vốn có cải thiện, mức cải thiện đó bị lấn át bởi tăng cường độ vốn và tăng trưởng sản lượng.
-- Chính sách thiên lệch xanh nhắm đúng đời máy tiên phong thì vừa nâng sản lượng bốn phần trăm vừa giảm phát thải hai phần trăm, ở mức nới hạn mức vay hai mươi phần trăm.
-- Nhưng kết quả rất nhạy với việc nhắm đích. Chỉ cần mở rộng phạm vi xuống đời máy xanh thứ hai là phát thải đã tăng trở lại, dù chính sách vẫn cải thiện cả hiệu suất vốn lẫn năng suất. Kết luận là để chính sách tín dụng đạt cả hai mục tiêu, nó phải được nhắm rất chính xác, điều có thể rất khó trong thực tế.
-- Cái bẫy thứ hai là tương tác với giá carbon. Khi giá carbon tăng, doanh nghiệp không bị ràng buộc tự nâng cấp lên đời máy sạch hơn, làm mức tối ưu dịch lên. Ngưỡng xanh vốn đúng ở mức giá cũ sẽ không còn hiệu quả, và phải được siết lên đời máy tiên phong mới. Nói cách khác, mục tiêu của chính sách tín dụng xanh không cố định mà phải được hiệu chỉnh lại theo giá carbon.
-- Bài nêu rõ ở phần mở đầu chương rằng chính sách tài chính xanh không nằm trong tổ hợp chính sách tốt nhất. Phân bổ tốt nhất đòi hỏi chính sách khu vực tài chính xử lý ràng buộc tài chính và giá carbon căn chỉnh chi phí giảm phát thải tư nhân với chi phí xã hội của carbon, với sự tách bạch hoàn toàn giữa các mục tiêu. Nhưng vì giá carbon thường bị ràng buộc bởi cân nhắc kinh tế chính trị, có thể có dư địa để chính sách tín dụng xanh bổ trợ.
-- Bài cũng liệt kê các chi phí triển khai mà việc phân tích chính sách tối ưu sẽ phải tính tới: rủi ro đạo đức, chi phí tài khoá có thể đòi hỏi thuế bóp méo, các méo mó tiềm tàng từ việc trợ cấp cho khoản đầu tư cụ thể, và rủi ro tẩy xanh khi chưa có phân loại rõ ràng và có thể thực thi.
+**Mô hình hoá chính sách tín dụng xanh.** Hạn mức đòn bẩy được cho phụ thuộc vào đời máy doanh nghiệp đang dùng:
+
+χ(v) = χ + ω_χ × 1(v ≥ ω̲_χ)
+
+trong đó 1(·) bằng 1 nếu điều kiện đúng và bằng 0 nếu sai. Có hai tham số: ω_χ là mức độ hào phóng (hạn mức vay được nới thêm bao nhiêu), và ω̲_χ là ngưỡng xanh, tức đời máy tối thiểu được hỗ trợ. Doanh nghiệp dùng máy từ ngưỡng xanh trở lên được vay nhiều hơn.
+
+**Kết quả ba thiết kế** (nới hạn mức vay 20–25%, giá carbon giữ ở 30 euro):
+
+| Thiết kế | Ngưỡng xanh | GDP | Phát thải |
+|---|---|---|---|
+| Không thiên lệch (mọi đời máy) | ω̲ = 0 | +5,5% | +5,0% (tăng) |
+| Nhắm đúng đời máy tiên phong | ω̲ = 1,1 | +4,0% | −2,0% (giảm) |
+| Lùi xuống một đời | ω̲ = 0,99 | +5,2% | +2,7% (lại tăng) |
+
+- **Chính sách không thiên lệch** không giảm được tổng phát thải: dù hiệu suất vốn được cải thiện, mức cải thiện bị lấn át bởi việc tăng cường độ vốn và tăng sản lượng.
+- **Chính sách thiên lệch xanh nhắm đúng đời máy tiên phong** vừa nâng sản lượng khoảng 4% vừa giảm phát thải khoảng 2%, ở mức nới hạn mức vay khoảng 20%.
+- **Kết quả rất nhạy với việc nhắm đích.** Chỉ cần mở rộng phạm vi xuống đời máy xanh thứ hai, vẫn là đời máy khá sạch, là phát thải đã tăng trở lại, dù chính sách vẫn cải thiện cả hiệu suất vốn lẫn năng suất: các cải thiện đó không đủ bù mức tăng sản lượng. Muốn chính sách tín dụng vừa nâng sản lượng vừa giảm phát thải, nó phải được nhắm rất chính xác, điều có thể rất khó trong thực tế.
+
+**Cái bẫy thứ hai: tương tác với giá carbon.** Khi giá carbon tăng từ 30 lên 60 euro, doanh nghiệp không bị ràng buộc tự nâng cấp lên đời máy sạch hơn, nên mức tối ưu dịch lên. Nếu ở giá 60 euro vẫn giữ ngưỡng ω̲ = 1,1 (vốn đúng khi giá là 30 euro), chính sách không còn giảm được phát thải: dù cả cường độ phát thải lẫn cường độ năng lượng đều giảm, mức tăng sản lượng vẫn lấn át. Phải siết ngưỡng lên ω̲ = 1,4, tức đời máy tiên phong mới ở mức giá carbon mới, thì chính sách mới vừa nâng sản lượng vừa giảm phát thải. Mục tiêu của chính sách tín dụng xanh vì vậy không cố định mà phải được hiệu chỉnh lại mỗi khi giá carbon thay đổi.
+
+**Vị trí của chính sách tín dụng xanh.** Bài nói rõ chính sách tài chính xanh không nằm trong tổ hợp chính sách tốt nhất. Phân bổ tốt nhất đòi hỏi tách bạch hoàn toàn hai mục tiêu: chính sách khu vực tài chính xử lý ràng buộc tài chính, còn giá carbon làm cho chi phí giảm phát thải mà doanh nghiệp tự tính bằng chi phí xã hội của carbon. Nhưng vì giá carbon thường bị giới hạn bởi cân nhắc kinh tế chính trị, có thể có dư địa để chính sách tín dụng xanh bổ trợ.
+
+Một phân tích chính sách tối ưu đầy đủ còn phải tính các chi phí triển khai: rủi ro đạo đức; chi phí tài khoá có thể đòi hỏi các loại thuế gây méo mó; méo mó từ việc trợ cấp cho những khoản đầu tư cụ thể; và rủi ro tẩy xanh (khai khống tính chất xanh) khi chưa có bộ phân loại rõ ràng và thực thi được.
 
 ### 7. Kết quả phản thực thứ ba
 
-- Tăng giá carbon từ ba mươi lên sáu mươi euro cắt hơn bốn mươi lăm phần trăm phát thải nhưng làm sản lượng giảm sáu phẩy bảy phần trăm. Con số này nằm trong khoảng ước lượng thực nghiệm cho châu Âu, và bài lưu ý rằng Känzig tìm ra chi phí lớn nhất với mức giảm sản lượng mười tám phần trăm cho cùng mức cắt giảm phát thải.
-- Một so sánh đáng chú ý được nêu: ước lượng của bài cao hơn các mô hình chỉ tập trung vào ma sát đầu tư thực. Điều này cho thấy ma sát đầu tư thực có thể biện minh cho tác động không đáng kể của giá carbon lên GDP, nhưng ràng buộc tài chính thì không.
-- Cấp phát hạn ngạch miễn phí đã là một phần của hệ thống châu Âu từ khi thành lập, với doanh nghiệp hiện hữu nhận hạn ngạch dựa trên phát thải quá khứ.
-- Cơ chế hoạt động trong mô hình gồm ba bước: hạn ngạch miễn phí là khoản chuyển giao đưa nguồn thu từ giá carbon trở lại doanh nghiệp, giúp họ giữ lại nhiều lợi nhuận hơn và thoát khỏi hạn mức vay nhanh hơn, tức gián tiếp nới ràng buộc tài chính. Ngoài ra, kỳ vọng nhận hạn ngạch còn nâng giá trị của việc khởi nghiệp nên làm tăng tỷ lệ gia nhập.
-- So sánh quyết định nhất: giá carbon sáu mươi euro kết hợp hoàn năm mươi phần trăm cắt được hơn bốn mươi mốt phần trăm phát thải mà không mất sản lượng nào so với kịch bản giá ba mươi euro. Để đạt cùng mức cắt giảm chỉ bằng giá carbon thì phải nâng lên năm mươi ba euro, làm GDP giảm hơn sáu phần trăm.
-- Hàm ý lý thuyết sâu hơn được nêu ở cuối: trong môi trường không ma sát, việc phân bổ hạn ngạch miễn phí là trung tính với phân bổ nguồn lực. Nhưng khi có ràng buộc tài chính và gia nhập nội sinh thì cách phân phối hạn ngạch trở nên quan trọng với trạng thái cân bằng.
+**Trước hết, tăng giá carbon đơn độc từ 30 lên 60 euro:**
+
+| Biến | Thay đổi |
+|---|---|
+| Sản lượng | −6,73% |
+| Năng lượng trên sản lượng | −37,09% |
+| Phát thải trên năng lượng | −6,59% |
+| **Tổng phát thải** | **−45,19%** |
+
+Giá carbon rất hiệu quả trong việc cắt phát thải (hơn 45%), nhưng chi phí kinh tế đáng kể (sản lượng giảm khoảng 6,7%). Con số này nằm trong khoảng ước lượng thực nghiệm cho châu Âu; Känzig (2023) tìm ra chi phí lớn nhất, với mức cắt 45% phát thải làm sản lượng giảm 18%. Ước lượng của bài cao hơn các mô hình chỉ có ma sát đầu tư thực (chi phí điều chỉnh vốn). Điều này cho thấy ma sát đầu tư thực có thể biện minh cho kết luận rằng giá carbon gần như không ảnh hưởng tới GDP, nhưng khi có ràng buộc tài chính thì kết luận đó không còn đứng được.
+
+**Hạn ngạch miễn phí.** Cấp phát hạn ngạch miễn phí đã là một phần của hệ thống châu Âu từ khi thành lập, với doanh nghiệp hiện hữu nhận hạn ngạch dựa trên phát thải quá khứ. Bài mô hình hoá như sau:
+
+s_t = α·(1 − τ̲/τ_t)·e
+
+trong đó s_t là lượng hạn ngạch miễn phí, α là mức độ hào phóng, τ_t là giá carbon hiện hành, τ̲ là mức giá gốc, và e là phát thải. Khi giá carbon bằng mức gốc thì không có hạn ngạch miễn phí; giá càng cao trên mức gốc thì phần được cấp lại càng lớn.
+
+**Cơ chế gồm ba bước:**
+
+1. Hạn ngạch miễn phí là một khoản chuyển giao, đưa nguồn thu từ giá carbon trở lại doanh nghiệp.
+2. Nhờ đó doanh nghiệp giữ lại được nhiều lợi nhuận hơn, tích luỹ giá trị ròng nhanh hơn và thoát khỏi hạn mức vay sớm hơn, tức là gián tiếp nới ràng buộc tài chính và giúp họ nâng cấp đời máy.
+3. Kỳ vọng được nhận hạn ngạch còn nâng giá trị của việc khởi nghiệp, nên tỷ lệ doanh nghiệp gia nhập tăng.
+
+**So sánh quyết định.**
+
+| Cách làm | Phát thải | Sản lượng |
+|---|---|---|
+| A: giá carbon 60 euro, hoàn 50% dưới dạng hạn ngạch miễn phí | −41% | không giảm chút nào so với kịch bản giá 30 euro |
+| B: giá carbon 53 euro, không hoàn | −41% | GDP giảm hơn 6% |
+
+Cùng kết quả môi trường, chi phí kinh tế hoàn toàn khác nhau.
+
+**Hàm ý lý thuyết sâu hơn.** Trong một thế giới không có ma sát, việc phân bổ hạn ngạch miễn phí là trung tính với phân bổ nguồn lực: nó chỉ chuyển tiền qua lại, không đổi quyết định sản xuất, vì doanh nghiệp vẫn chịu giá carbon ở biên. Nhưng khi có ràng buộc tài chính và doanh nghiệp được tự do gia nhập, cách phân phối hạn ngạch trở nên quan trọng với trạng thái cân bằng, vì tiền được giữ lại thay đổi được ai đầu tư bao nhiêu và vào loại máy nào.
 
 ## Thuật ngữ
 
