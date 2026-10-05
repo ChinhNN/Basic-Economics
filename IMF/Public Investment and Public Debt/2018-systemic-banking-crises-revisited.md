@@ -495,57 +495,241 @@
 2. Ba loại khủng hoảng — ngân hàng, tiền tệ và nợ chính phủ — xảy ra theo trình tự nào so với nhau?
 3. Nước thu nhập cao và nước thu nhập thấp–trung bình xử lý khủng hoảng ngân hàng khác nhau ra sao, và kết cục về chi phí tài khoá, nợ công, độ dài và mất sản lượng khác nhau thế nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Khủng hoảng ngân hàng hệ thống (systemic banking crisis).** Không phải một ngân hàng đổ vỡ, mà là khi cả hệ thống ngân hàng của một nước gặp trục trặc nghiêm trọng (rút tiền hàng loạt, thua lỗ lớn, nhiều ngân hàng bị thanh lý) và nhà nước phải can thiệp ở quy mô lớn. Ví dụ trong bài: Latvia năm 1995, khi các ngân hàng bị đóng cửa chiếm tới 40% tài sản của hệ thống tài chính. Bài đếm được 151 đợt như vậy trên thế giới trong giai đoạn 1970–2017, và mọi phân tích khác của bài dựa trên danh sách này.
+
+**Định ngày khủng hoảng (crisis dating).** Việc xác định một cuộc khủng hoảng bắt đầu năm nào và kết thúc năm nào. Nghe đơn giản nhưng quyết định kết quả nghiên cứu. Ví dụ minh hoạ: nếu một nghiên cứu ghi khủng hoảng bắt đầu năm 2009 thay vì 2008, thì cú sụt tín dụng năm 2008 sẽ bị xếp thành "trước khủng hoảng" và trông như nguyên nhân, trong khi thật ra nó là hậu quả. Bài định ngày theo cường độ phản ứng chính sách để giảm phán đoán chủ quan.
+
+**Nợ xấu (nonperforming loans, NPL).** Khoản vay mà người vay đã ngừng trả lãi hoặc gốc trong một thời gian dài (thường từ 90 ngày trở lên), nên ngân hàng khó thu hồi. Ví dụ minh hoạ: ngân hàng cho vay 1.000 tỷ, trong đó 200 tỷ quá hạn lâu ngày, thì tỷ lệ nợ xấu là 20%. Bài dùng ngưỡng 20% này: khi nợ xấu vượt 20% tổng dư nợ, chỉ riêng mức thua lỗ đó đã đủ để gọi là khủng hoảng hệ thống.
+
+**Hỗ trợ thanh khoản và tái cấp vốn (liquidity support, recapitalization).** Hai loại cứu trợ khác nhau. Hỗ trợ thanh khoản là ngân hàng trung ương cho ngân hàng vay tiền ngắn hạn để trả người gửi tiền, giải quyết tình trạng thiếu tiền mặt tạm thời. Tái cấp vốn là bơm vốn chủ sở hữu (thường bằng tiền ngân sách) để bù thua lỗ, giải quyết tình trạng ngân hàng đã mất khả năng thanh toán (tài sản nhỏ hơn nợ). Ví dụ minh hoạ: ngân hàng có tài sản 100, nợ 95, bị lỗ 10 thì tài sản còn 90, nhỏ hơn nợ 95; cho vay thêm thanh khoản không làm khoảng âm 5 này biến mất, chỉ có bơm vốn mới lấp được. Bài cho thấy nước nghèo dựa vào hỗ trợ thanh khoản lâu hơn, tức là chậm thừa nhận vấn đề khả năng thanh toán.
+
+**Bảo lãnh nợ ngân hàng (bank guarantee).** Nhà nước cam kết trả thay nếu ngân hàng không trả được cho người gửi tiền hoặc chủ nợ. Bảo lãnh "toàn diện" là bảo vệ toàn bộ nợ của ngân hàng, khác với bảo hiểm tiền gửi chỉ bảo vệ tới một hạn mức. Ví dụ trong bài: EU năm 2009 có tới 835 tỷ euro bảo lãnh cho hệ thống tài chính. Đây là công cụ duy nhất mà nước thu nhập cao và nước thu nhập thấp–trung bình dùng khác nhau rõ rệt.
+
+**Chi phí tài khoá trực tiếp (gộp, ròng) và chi phí tài khoá theo nghĩa rộng.** Chi phí trực tiếp là tiền ngân sách chi ra để cứu ngân hàng (bơm vốn, công ty quản lý tài sản, bảo lãnh bị gọi trả). "Gộp" là tổng số chi, "ròng" là sau khi trừ phần thu hồi lại (bán tài sản, cổ tức, phí). Chi phí theo nghĩa rộng là mức tăng nợ công, bao gồm cả thâm hụt do kích thích kinh tế và do thu thuế giảm. Ví dụ minh hoạ: chính phủ bơm 6 tỷ cứu ngân hàng, sau đó bán lại cổ phần thu về 3 tỷ: chi phí gộp 6, ròng 3; nhưng nếu nợ công cùng lúc tăng 20 tỷ vì suy thoái thì chi phí rộng là 20. Hai thước đo này cho kết quả ngược nhau giữa nước giàu và nước nghèo.
+
+**Chính sách ngược chu kỳ và thuận chu kỳ (countercyclical / procyclical).** Ngược chu kỳ là đi ngược chiều suy thoái: khi kinh tế xấu thì hạ lãi suất, tăng chi tiêu để đỡ nền kinh tế. Thuận chu kỳ là đi cùng chiều: kinh tế xấu mà vẫn phải tăng lãi suất hoặc cắt chi, làm suy thoái nặng thêm. Ví dụ trong bài: nước thu nhập cao hạ lãi suất ngắn hạn từ khoảng 5% về gần 0, còn nước thu nhập thấp–trung bình giữ lãi suất quanh 12–14%. Khác biệt này giải thích phần lớn các kết cục khác nhau giữa hai nhóm.
+
+**Mất sản lượng (output loss).** Tổng phần GDP bị hụt so với mức mà nền kinh tế lẽ ra đạt được nếu tiếp tục đi theo xu thế cũ. Ví dụ minh hoạ: nếu xu thế là GDP 100 mỗi năm, nhưng bốn năm sau khủng hoảng GDP thực tế là 95, 92, 93, 95, thì mất sản lượng cộng dồn là 5 + 8 + 7 + 5 = 25, tức 25% GDP xu thế một năm. Bài tìm thấy trung vị mất sản lượng ở nước thu nhập cao là 34,95%, cao hơn hẳn mức 13,83% ở nước thu nhập thấp–trung bình.
+
+## Nội dung chi tiết
 
 ### 1. Mở đầu
 
-- Khủng hoảng ngân hàng hệ thống gây suy giảm bền vững của hoạt động kinh tế, trung gian tài chính và phúc lợi, nên được nghiên cứu rất nhiều; nhưng mọi nghiên cứu đó phụ thuộc vào việc xác định đúng thời điểm khủng hoảng.
-- Bài cập nhật cơ sở dữ liệu Laeven–Valencia cho giai đoạn 1970–2017, định ngày theo cường độ phản ứng chính sách, và bổ sung ngày của khủng hoảng tiền tệ và nợ chính phủ.
-- Khi so sánh theo mức thu nhập, bài tìm thấy khác biệt lớn: công cụ can thiệp tài chính nhìn chung giống nhau trừ bảo lãnh nợ ngân hàng; nước thu nhập cao dùng chính sách tiền tệ và tài khoá mở rộng nhiều hơn.
-- Chi phí tài khoá trực tiếp lớn hơn ở nước thu nhập thấp và trung bình, nhưng theo thước đo rộng là mức tăng nợ công thì kết quả đảo ngược, do nước giàu vừa kích thích tài khoá nhiều hơn vừa mất sản lượng nhiều hơn.
-- So với các bộ dữ liệu khác, lợi thế chính là mẫu nước toàn diện và việc ghi chép phản ứng chính sách.
+Khủng hoảng ngân hàng hệ thống là loại sự kiện gây gián đoạn rất mạnh. Nó dẫn tới suy giảm kéo dài của hoạt động kinh tế, của trung gian tài chính (việc ngân hàng nhận tiền gửi và cho vay), và cuối cùng là của phúc lợi người dân. Vì thế giới học thuật và giới hoạch định chính sách đã dồn rất nhiều công sức vào việc xây mô hình dự báo khủng hoảng và thiết kế chính sách xử lý.
+
+Nhưng mọi nỗ lực đó phụ thuộc vào một bước nền tảng: xác định đúng thời điểm khủng hoảng. Dùng một thước đo định ngày không phù hợp có thể gây ra hai loại sai lầm: thứ nhất, **che mất** một quan hệ thật giữa khủng hoảng và các biến kinh tế khác; thứ hai, **tạo ra vẻ ngoài** của một quan hệ nhân quả ở nơi không có quan hệ nào.
+
+Bài cập nhật cơ sở dữ liệu của Laeven và Valencia (các phiên bản 2008 và 2013), vốn đã thành chuẩn tham chiếu, cho toàn bộ giai đoạn 1970–2017. Khủng hoảng được định ngày theo cường độ phản ứng chính sách, và bài bổ sung ngày của khủng hoảng tiền tệ và khủng hoảng nợ chính phủ. Tổng số trong cơ sở dữ liệu:
+
+| Loại khủng hoảng | Số đợt, 1970–2017 |
+|---|---|
+| Ngân hàng hệ thống | 151 |
+| Tiền tệ | 236 |
+| Nợ chính phủ | 74 (ở một chỗ khác trong bài lại ghi 75) |
+
+**So với các bộ dữ liệu khác**, bài nêu các điểm khác biệt sau:
+
+| Bộ dữ liệu | Đặc điểm |
+|---|---|
+| Caprio và Klingebiel (1996); Reinhart và Rogoff (2009) | Dùng nhiều tiêu chí chủ quan hơn |
+| Romer và Romer (2017) | Phương pháp tường thuật (đọc tài liệu đương thời để đánh giá mức căng thẳng), chỉ gồm 24 nước OECD |
+| Baron và cộng sự (2018) | 46 nước, nhận diện khủng hoảng qua sụt giảm giá cổ phiếu ngân hàng |
+| Chaudron và de Haan (2014) | Dùng số lượng và quy mô ngân hàng đổ vỡ; với 4 đợt mà thời điểm khác nhau nhiều giữa các bộ dữ liệu, thời điểm của họ rất khớp với bài này |
+| Schularick và Taylor (2012) | Số nước tương đối nhỏ |
+
+Bài có hai ưu thế cốt lõi: (1) mẫu nước toàn diện, và (2) ghi chép chi tiết phản ứng chính sách trong từng đợt. Điều này đặc biệt quan trọng khi muốn rút ra hàm ý vượt ra ngoài nhóm nước phát triển và các thị trường mới nổi lớn.
+
+**Kết quả chính khi so sánh theo mức thu nhập.** Bộ công cụ can thiệp vào khu vực tài chính nhìn chung giống nhau giữa các nước, trừ bảo lãnh nợ ngân hàng, được dùng nhiều hơn ở nước thu nhập cao. Nước thu nhập cao cũng dùng chính sách tiền tệ và tài khoá mở rộng nhiều hơn. Chi phí tài khoá trực tiếp lớn hơn ở nước thu nhập thấp và trung bình; nhưng nếu đo theo nghĩa rộng là mức tăng nợ công thì kết quả đảo ngược, vì nước giàu vừa kích thích tài khoá nhiều hơn vừa mất sản lượng nhiều hơn.
 
 ### 2. Định nghĩa khủng hoảng ngân hàng
 
-- Hai điều kiện: dấu hiệu kiệt quệ tài chính đáng kể và biện pháp can thiệp chính sách đáng kể; năm khủng hoảng là năm đầu tiên cả hai cùng được thoả.
-- Khi thua lỗ quá nặng, điều kiện thứ nhất là đủ, với ngưỡng định lượng về nợ xấu, quy mô ngân hàng đóng cửa và chi phí tái cơ cấu.
-- Can thiệp được coi là đáng kể khi có ít nhất ba trong sáu biện pháp, với ngưỡng định lượng cho những biện pháp dễ lượng hoá. Ngưỡng cao có chủ đích nhằm loại các sự kiện phi hệ thống và các biện pháp dùng phủ đầu.
-- Cách tiếp cận này giảm chủ quan, dễ áp dụng nhất quán qua thời gian và qua các mức thu nhập, và cho kết quả gần với các nghiên cứu định ngày khác ở phần mẫu chồng lấn.
+**Hai điều kiện.** Một sự kiện được coi là khủng hoảng ngân hàng hệ thống khi thoả cả hai điều kiện:
+
+1. Có dấu hiệu kiệt quệ tài chính đáng kể trong hệ thống ngân hàng, thể hiện qua rút tiền gửi hàng loạt, thua lỗ lớn trong hệ thống, hoặc thanh lý ngân hàng.
+2. Có biện pháp can thiệp chính sách đáng kể để phản ứng với các thua lỗ đáng kể đó.
+
+Năm khủng hoảng là năm **đầu tiên** cả hai tiêu chí cùng được thoả. Cách làm này bảo đảm khủng hoảng được định ngày ngay từ dấu hiệu đầu tiên của trục trặc lớn.
+
+**Khi thua lỗ quá nặng, điều kiện thứ nhất là đủ.** "Quá nặng" được lượng hoá thành một trong hai ngưỡng: (i) nợ xấu trên 20% tổng dư nợ, hoặc các ngân hàng bị đóng cửa chiếm ít nhất 20% tài sản của hệ thống ngân hàng; hoặc (ii) chi phí tài khoá để tái cơ cấu khu vực ngân hàng vượt 5% GDP. Ví dụ là Latvia năm 1995 (các ngân hàng bị đóng cửa chiếm 40% tài sản hệ thống tài chính), Moldova năm 2014 và Ukraine năm 2014.
+
+Bài không dựa hẳn vào điều kiện thứ nhất vì hai lẽ. Mức kiệt quệ không phải lúc nào cũng lượng hoá được, nhất là ở nước thu nhập thấp và trung bình, nơi số liệu nợ xấu thường thiếu hoặc kém tin cậy. Và chính phản ứng chính sách có thể làm giảm thua lỗ quan sát được: nếu nhà nước cứu kịp, con số thua lỗ trông nhỏ hơn mức khủng hoảng thật.
+
+**Can thiệp "đáng kể" là có ít nhất 3 trong 6 biện pháp sau:**
+
+| Số | Biện pháp | Ngưỡng hoặc cách hiểu |
+|---|---|---|
+| 1 | Đóng băng tiền gửi, hoặc ngày nghỉ ngân hàng | Ngày nghỉ ngân hàng là tạm đóng cửa toàn bộ ngân hàng |
+| 2 | Quốc hữu hoá đáng kể | Nhà nước tiếp quản các định chế quan trọng với hệ thống, gồm cả việc nhà nước nắm cổ phần đa số |
+| 3 | Chi phí tái cơ cấu ngân hàng | Ít nhất 3% GDP, không tính hỗ trợ thanh khoản trực tiếp từ kho bạc |
+| 4 | Hỗ trợ thanh khoản rộng khắp | Vượt 5% tổng tiền gửi và nợ với người không cư trú, **và** tăng hơn gấp đôi so với trước khủng hoảng |
+| 5 | Bảo lãnh đáng kể | Bảo vệ toàn bộ nợ, hoặc mở rộng bảo lãnh sang nợ không phải tiền gửi. Chỉ nâng hạn mức bảo hiểm tiền gửi thì không tính |
+| 6 | Mua tài sản đáng kể | Vượt 5% GDP |
+
+Các ngưỡng được đặt cao có chủ đích: để tránh dán nhãn khủng hoảng hệ thống cho một sự kiện không mang tính hệ thống, hoặc cho việc dùng các biện pháp này một cách phủ đầu (dùng sớm để ngăn khủng hoảng). Đối chiếu với Demirgüç-Kunt và Detragiache (1998), vốn dùng ngưỡng nhẹ hơn: bộ dữ liệu của họ có nhiều đợt hơn nhưng tỷ lệ sự kiện phi hệ thống cũng cao hơn. Chi phí tài khoá trong định nghĩa được tính theo số **gộp** chứ không phải số ròng, vì việc ghi nhận các khoản thu hồi cần nhiều năm.
+
+Cách tiếp cận này giảm phán đoán chủ quan, dễ áp dụng nhất quán qua thời gian và qua các mức thu nhập, và cho kết quả gần với các nghiên cứu định ngày khác ở phần mẫu chồng lấn.
 
 ### 3. Các đợt khủng hoảng ngân hàng 1970–2017
 
-- Bài nhận diện 151 đợt, trong đó 4 đợt bắt đầu từ 2011: Síp, Guinea-Bissau, Moldova và Ukraine. Chỉ Argentina, CHDC Congo và Ukraine có hơn hai đợt.
-- Khủng hoảng đi thành từng đợt sóng gắn với các sự kiện khu vực và toàn cầu, với giai đoạn yên ả bất thường giữa thập niên 2000 và một giai đoạn yên ả mới hiện nay.
-- Trước 2008, khủng hoảng ngân hàng chủ yếu là hiện tượng của nước thu nhập thấp và trung bình; khủng hoảng toàn cầu cho thấy đó là mối hoạ bình đẳng cơ hội.
+Bài nhận diện 151 đợt. Có 4 đợt bắt đầu từ năm 2011 trở đi: Síp (2011), Guinea-Bissau (2014), Moldova (2014) và Ukraine (2014). Trong suốt 48 năm, chỉ ba nước có hơn hai đợt: Argentina (4 đợt), Cộng hoà Dân chủ Congo (3 đợt) và Ukraine (3 đợt). Danh sách cũng bao gồm các đợt "biên giới hệ thống", tức những ca mà định nghĩa gần như được thoả, ví dụ Pháp 2008, Thuỵ Sĩ 2008, Mỹ 1988, Nga 2008, Thuỵ Điển 2008, Hungary 2008, Kazakhstan 2008, Brazil 1990, Argentina 1995 và Séc 1996.
+
+**Khủng hoảng đi thành từng đợt sóng.** Bài nhận xét rằng khủng hoảng ngân hàng hiếm khi là sự kiện của chỉ một nước. Năm làn sóng chính:
+
+| Làn sóng | Sự kiện |
+|---|---|
+| 1 | Mỹ Latinh đầu thập niên 1980 |
+| 2 | Hậu quả của sự tan rã Liên Xô |
+| 3 | Khủng hoảng Tequila (Mexico 1994) |
+| 4 | Khủng hoảng châu Á (1997) |
+| 5 | Khủng hoảng tài chính toàn cầu 2007–08, đỉnh cao nhất toàn mẫu với gần 20 đợt bắt đầu trong một năm |
+
+Giai đoạn giữa thập niên 2000 là bất thường vì tỷ lệ khủng hoảng rất thấp, rồi bị khủng hoảng toàn cầu cắt ngang. Ở thời điểm viết bài, thế giới lại đang ở một giai đoạn tương đối yên ả.
+
+**Trước 2008, khủng hoảng ngân hàng chủ yếu là hiện tượng của nước thu nhập thấp và trung bình.** Ngoại lệ trong khoảng cuối thập niên 1980–1990 là khủng hoảng các hiệp hội tiết kiệm và cho vay ở Mỹ, khủng hoảng Bắc Âu đầu thập niên 1990 và khủng hoảng Nhật cuối thập niên 1990. Như Reinhart và Rogoff (2009) nhận xét, khủng hoảng năm 2008 cho thấy khủng hoảng ngân hàng là "một mối hoạ bình đẳng cơ hội", xảy ra ở mọi mức thu nhập.
 
 ### 4. Trình tự khủng hoảng
 
-- Khủng hoảng tiền tệ được định nghĩa theo hai ngưỡng mất giá so với đô la Mỹ; khủng hoảng nợ theo vỡ nợ với chủ nợ tư nhân hoặc tái cơ cấu.
-- Khủng hoảng tiền tệ hiếm ở nước thu nhập cao, còn khủng hoảng toàn cầu mang khủng hoảng nợ tới nhóm này qua Hy Lạp và Síp.
-- Ngân hàng và nợ chính phủ có thể trùng nhau do cùng một cú sốc lớn hoặc do lan toả hai chiều; ngân hàng và tiền tệ nối nhau qua trạng thái ngoại hối mở và qua việc người gửi tiền chạy sang tài sản ngoại tệ.
-- Cả ba loại đều đi thành sóng. Đặt trên trục thời gian quanh khủng hoảng ngân hàng, khủng hoảng tiền tệ và nợ có xu hướng trùng hoặc theo sau, với tiền tệ đạt đỉnh một năm sau. Đây là lý do bài đặt trọng tâm vào khủng hoảng ngân hàng.
+**Định nghĩa hai loại khủng hoảng bổ trợ.**
+
+- **Khủng hoảng tiền tệ** (theo cách của Frankel và Rose 1996, nhưng với ngưỡng khác): đồng tiền mất giá danh nghĩa "mạnh" so với đô la Mỹ, tức thoả cả hai điều kiện: (i) mất giá so với cùng kỳ năm trước ít nhất 30%; và (ii) tỷ lệ mất giá cao hơn ít nhất 10 điểm phần trăm so với tỷ lệ mất giá năm trước. Ví dụ minh hoạ: năm trước đồng tiền đã mất 25%, năm nay mất 32% thì chưa đủ điều kiện (ii); nhưng nếu năm trước chỉ mất 5% và năm nay mất 32% thì đủ cả hai. Bài chọn tỷ giá song phương vì quan tâm tới mức mất giá so với một đồng tiền dự trữ. Nếu điều kiện được thoả nhiều năm liên tiếp, bài chỉ lấy năm đầu tiên trong mỗi cửa sổ năm năm. Các nước đang ở giai đoạn đầu chuyển đổi sang kinh tế thị trường bị loại.
+- **Khủng hoảng nợ chính phủ:** chính phủ vỡ nợ với chủ nợ tư nhân và/hoặc tái cơ cấu nợ. Nếu tái cơ cấu mà không đình chỉ thanh toán thì lấy năm tái cơ cấu. Nguồn gồm Beim và Calomiris (2001), Ngân hàng Thế giới (2002), Sturzenegger và Zettelmeyer (2006), báo cáo của IMF, các tổ chức xếp hạng tín nhiệm và báo chí.
+
+**Diễn biến hai loại khủng hoảng này.** Khủng hoảng tiền tệ gần như vắng bóng ở nước thu nhập cao, kể cả trong khủng hoảng toàn cầu, một phần nhờ vị thế đồng tiền dự trữ của một số nước. Ngược lại, khủng hoảng toàn cầu đã mang khủng hoảng nợ tới nhóm thu nhập cao: Hy Lạp (tái cơ cấu năm 2012 và vỡ nợ với IMF năm 2015) và Síp (hoán đổi nợ năm 2013). Khủng hoảng nợ đạt đỉnh vào giữa thập niên 1980, chủ yếu ở Mỹ Latinh. Khủng hoảng tiền tệ đạt đỉnh vào giữa thập niên 1990, và tăng vọt năm 2015 khi nhiều nước xuất khẩu hàng hoá cơ bản bị mất giá mạnh do giá hàng hoá lao dốc (Kohlscheen và cộng sự 2017).
+
+**Ba loại khủng hoảng chồng lên nhau.** Số đợt theo từng tổ hợp:
+
+| Tổ hợp | Số đợt |
+|---|---|
+| Chỉ ngân hàng | 107 |
+| Chỉ nợ | 42 |
+| Chỉ tiền tệ | 177 |
+| Ngân hàng và nợ | Chỉ 2 |
+| Ngân hàng và tiền tệ | 31 |
+| Nợ và tiền tệ | 20 |
+| Cả ba ("khủng hoảng ba") | 11 |
+
+Cộng lại: khủng hoảng ngân hàng 107 + 2 + 31 + 11 = 151, khớp. Nhưng khủng hoảng nợ cộng được 42 + 2 + 20 + 11 = 75 (lời văn đầu bài ghi 74), và khủng hoảng tiền tệ cộng được 177 + 31 + 20 + 11 = 239 (lời văn ghi 236).
+
+Cách đếm dựa trên hai định nghĩa. "Khủng hoảng sinh đôi" là khủng hoảng ngân hàng năm T kèm khủng hoảng tiền tệ (hoặc nợ) trong khoảng từ năm T−1 tới T+1. "Khủng hoảng ba" là khủng hoảng ngân hàng năm T, cộng khủng hoảng tiền tệ trong khoảng [T−1, T+1], cộng khủng hoảng nợ trong khoảng [T−1, T+1]. Các cặp tiền tệ–ngân hàng và tiền tệ–nợ phổ biến hơn hẳn cặp ngân hàng–nợ.
+
+**Cơ chế nối các loại khủng hoảng.** Ngân hàng và nợ chính phủ có thể đi cùng nhau qua hai cơ chế: (1) cả nền kinh tế bị một cú sốc lớn đánh vào cùng lúc; hoặc (2) lan toả theo hai chiều, từ khu vực công sang ngân hàng (vì ngân hàng nắm nhiều trái phiếu chính phủ, chính phủ gặp khó thì ngân hàng lỗ) hoặc từ ngân hàng sang khu vực công (vì chính phủ phải chi tiền cứu ngân hàng). Ngân hàng và tiền tệ nối nhau qua hai cơ chế: (1) đồng tiền mất giá mạnh xoá sạch vốn ngân hàng do trạng thái ngoại hối mở lớn của chính ngân hàng hoặc của người vay (nợ bằng ngoại tệ nhưng tài sản hoặc thu nhập bằng nội tệ); (2) ngân hàng đổ vỡ khiến người gửi tiền tìm nơi trú ẩn ở tài sản ngoại tệ, đồng thời châm ngòi cho một cuộc tháo chạy khỏi đồng nội tệ.
+
+**Trình tự thời gian.** Đặt các cuộc khủng hoảng tiền tệ và nợ lên trục thời gian quanh năm T khi khủng hoảng ngân hàng bắt đầu, tỷ lệ phần trăm số đợt khủng hoảng ngân hàng có kèm từng loại (giá trị đọc ước lượng):
+
+| Thời điểm | T−3 | T−2 | T−1 | T | T+1 | T+2 | T+3 |
+|---|---|---|---|---|---|---|---|
+| Khủng hoảng tiền tệ (%) | khoảng 5 | khoảng 6,5 | khoảng 4 | khoảng 12 | khoảng 12,5 (đỉnh) | khoảng 9 | khoảng 2,5 |
+| Khủng hoảng nợ (%) | khoảng 5 | khoảng 6,5 | khoảng 4 | khoảng 19 (đỉnh) | khoảng 12,5 | khoảng 11 | khoảng 2,5 |
+
+Mẫu hình rõ: khủng hoảng tiền tệ và nợ có xu hướng trùng hoặc theo sau khủng hoảng ngân hàng, với khủng hoảng tiền tệ đạt đỉnh một năm sau khi khủng hoảng ngân hàng bắt đầu. Kết quả khớp với Kaminsky và Reinhart (1999), Fratzscher và cộng sự (2011), Reinhart và Rogoff (2011), Gourinchas và Obstfeld (2012), dù các nghiên cứu này dùng giai đoạn mẫu và định nghĩa khác. Cả ba loại đều đi thành sóng. Vì khủng hoảng ngân hàng thường đến trước, bài đặt trọng tâm vào khủng hoảng ngân hàng.
 
 ### 5. Phản ứng chính sách
 
-- Hỗ trợ thanh khoản là phản ứng đầu tiên và phổ biến, nhưng nước thu nhập thấp và trung bình dùng nhiều gấp đôi và trong thời gian dài hơn, phản ánh thể chế yếu hơn và việc chậm thừa nhận vấn đề khả năng thanh toán.
-- Bảo lãnh nợ ngân hàng là khác biệt duy nhất giữa hai nhóm trong bộ công cụ tài chính, phổ biến hơn ở nước thu nhập cao vì thể chế và dư địa tài khoá làm bảo lãnh đáng tin hơn. Bảo lãnh rất khó gỡ và thường kéo dài nhiều năm.
-- Đóng băng tiền gửi và ngày nghỉ ngân hàng rất hiếm, nhưng khi áp dụng thì việc gỡ bỏ mất rất lâu, như Síp, Ukraine và Hy Lạp cho thấy.
-- Tái cấp vốn ngân hàng được dùng ở hầu hết mọi đợt và là cấu phần lớn nhất của chi phí tài khoá trực tiếp, có cơ sở cả lý thuyết lẫn thực nghiệm.
-- Về vĩ mô, nước thu nhập cao hạ lãi suất ngắn hạn về gần không và để cán cân sơ cấp xấu đi mạnh; nước thu nhập thấp và trung bình nâng lãi suất và cải thiện cán cân, tức hành động thuận chu kỳ do ràng buộc tài trợ.
+**Trình tự điển hình.** Bài mô tả một chuỗi phản ứng thường gặp:
+
+1. **Hỗ trợ thanh khoản**, thường để đối phó với rút tiền hàng loạt.
+2. **Bảo lãnh nợ ngân hàng**, chủ yếu để mua thời gian cho việc soạn kế hoạch xử lý và tái cơ cấu toàn diện.
+3. Nếu sức ép thanh khoản rất lớn: **đóng băng tiền gửi**, thường đi kèm **ngày nghỉ ngân hàng**, vì ngân hàng cần thời gian chỉnh hệ thống công nghệ và quy trình cho chế độ mới.
+4. Khi thanh khoản cạn, vốn ngân hàng cũng xấu đi do phải bán tháo tài sản và chất lượng tài sản xuống cấp. Lúc đó cần khôi phục khả năng thanh toán: tái cấp vốn, xử lý các định chế mất khả năng thanh toán, và quốc hữu hoá.
+
+**Hỗ trợ thanh khoản: nước nghèo dùng nhiều gấp đôi.**
+
+| Chỉ tiêu (trung vị) | Toàn mẫu | Thu nhập cao | Thu nhập thấp–trung bình |
+|---|---|---|---|
+| Mức đỉnh của hỗ trợ thanh khoản (100/151 đợt có giá trị dương) | 20,2% | 12% | 23% |
+| Mức tăng hỗ trợ so với trước khủng hoảng (95/151 đợt có giá trị dương) | 10,8% | 6,4% | 14,8% |
+
+Nước nghèo dùng nhiều hơn vì họ dựa vào cung thanh khoản làm công cụ kiềm chế khủng hoảng trong thời gian dài hơn nhiều trước khi đưa ra biện pháp tái cấp vốn và tái cơ cấu. Nguyên nhân là thể chế yếu hơn, gồm ngân hàng trung ương và cơ quan quản lý không độc lập, đặc biệt trong thập niên 1980 và 1990, dẫn tới việc chậm thừa nhận rằng vấn đề của ngân hàng là khả năng thanh toán chứ không chỉ là thiếu tiền mặt tạm thời. Đối chiếu: chương trình TARP (Chương trình Cứu trợ Tài sản Xấu) ở Mỹ được triển khai nhanh hơn nhiều trong khủng hoảng toàn cầu. Nước thu nhập cao còn có dải công cụ rộng hơn, gồm các thoả thuận hoán đổi tiền tệ phối hợp giữa các ngân hàng trung ương.
+
+**Bảo lãnh: khác biệt duy nhất giữa hai nhóm.** Trong toàn mẫu có 34 đợt có bảo lãnh toàn diện, trong đó 19 đợt ở nước thu nhập cao, phần lớn trong khủng hoảng 2008. Lý do: thể chế nhìn chung tốt hơn và/hoặc dư địa tài khoá lớn hơn làm cho lời bảo lãnh đáng tin hơn. Có một nghịch lý về phạm vi: trong khủng hoảng toàn cầu, bảo lãnh của nước thu nhập cao lại nhắm mục tiêu hơn (ít toàn diện hơn) so với nước nghèo, nơi chính phủ thường tuyên bố bảo lãnh toàn bộ nợ ngân hàng, có thể vì chưa có sẵn cơ chế bảo hiểm tiền gửi.
+
+Bảo lãnh rất khó gỡ, thường để nhiều năm và gỡ dần dần:
+
+| Trường hợp | Công bố | Gỡ hết |
+|---|---|---|
+| Mexico | 1993 | 2003 (sau 10 năm) |
+| Malaysia | 1998 | 2005 (sau 7 năm) |
+| EU | Đỉnh 835 tỷ euro năm 2009 | Cuối 2016 vẫn còn 120 tỷ euro, giảm mạnh nhưng vẫn không hề nhỏ |
+
+**Đóng băng tiền gửi và ngày nghỉ ngân hàng: rất hiếm dùng.** Trong toàn bộ 151 đợt, chỉ có 8 đợt đóng băng tiền gửi (bảng liệt kê chi tiết của bài lại có 9) và 6 ngày nghỉ ngân hàng. 5/6 lần ngày nghỉ kéo dài 4–8 ngày; ngoại lệ là Hy Lạp với 21 ngày. Khi đã áp dụng, việc gỡ bỏ mất rất lâu:
+
+| Trường hợp | Diễn biến gỡ bỏ |
+|---|---|
+| Síp (2013) | Hạn chế thanh toán trong nước được gỡ tháng 5/2014; hạn chế thanh toán ra nước ngoài mãi tới tháng 4/2015 |
+| Ukraine (2014) | Hạn chế rút tiền tài khoản nội tệ gỡ tháng 9/2016; tài khoản ngoại tệ tháng 8/2017; một số hạn chế giao dịch ngoại hối vẫn còn đầu 2018 |
+| Hy Lạp (2015) | Nới dần từ tháng 7/2015, nhưng tới đầu 2018 vẫn còn hạn mức rút tiền theo tháng và giới hạn chuyển tiền xuyên biên giới |
+
+**Tái cấp vốn: công cụ dùng ở hầu hết mọi đợt.** Đây cũng là cấu phần lớn nhất của chi phí tài khoá trực tiếp. Tái cấp vốn thường kết hợp cổ phiếu ưu đãi và cổ phiếu thường, kèm điều kiện như ghế trong hội đồng quản trị cho đại diện nhà nước, hạn chế hoặc cấm chia cổ tức. Nếu tái cấp vốn dẫn tới việc nhà nước nắm cổ phần đa số, bài xếp là quốc hữu hoá. Về lý thuyết, tái cấp vốn bằng tiền công có thể làm tăng phúc lợi (Philippon và Schnabl 2013; Sandri và Valencia 2013); về thực nghiệm, nó giảm nhẹ tác động thực của khủng hoảng (Homar và cộng sự 2017; Giannetti và Simonov 2013).
+
+**Chính sách vĩ mô: ngược chu kỳ hay thuận chu kỳ.** Lãi suất ngắn hạn (trung vị, giá trị đọc ước lượng):
+
+| | Thu nhập cao | Thu nhập thấp–trung bình |
+|---|---|---|
+| Năm T−1 | khoảng 5% | khoảng 14% |
+| Năm T+1 | Gần bằng 0 | Lên khoảng 12–13% |
+| Hướng chính sách | Nới lỏng | Thắt chặt |
+
+Nước thu nhập thấp–trung bình phải tăng lãi suất giữa khủng hoảng vì lo đồng tiền mất giá mạnh và tác động của mất giá lên bảng cân đối khu vực tư nhân vốn có phơi nhiễm rủi ro tỷ giá. Điều này tạo một vòng luẩn quẩn: chính việc buộc phải nâng lãi suất làm người vay khó trả nợ hơn, nên chất lượng tài sản ngân hàng xuống cấp mạnh hơn.
+
+Cán cân tài khoá sơ cấp của chính phủ chung (thu trừ chi, không tính lãi vay; trung vị, giá trị đọc ước lượng):
+
+- **Thu nhập cao:** từ thặng dư khoảng +1,5% GDP ở năm T−1 rơi xuống thâm hụt khoảng −4% ở năm T+1, rồi hồi dần về khoảng −0,5% ở năm T+5.
+- **Thu nhập thấp–trung bình:** từ thâm hụt khoảng −1,5% lại cải thiện lên quanh 0.
+
+Nhóm thứ hai buộc phải áp dụng chính sách tài khoá thuận chu kỳ vì các lựa chọn tài trợ hạn chế. Thông điệp chung: dư địa tài khoá và tiền tệ, cùng khả năng tài trợ thâm hụt lớn, cho phép nước thu nhập cao hành động ngược chu kỳ để giảm cú sốc lên kinh tế thực; còn nước thu nhập thấp và trung bình gặp ràng buộc vay mượn bó buộc, nên phải làm ngược lại.
 
 ### 6. Kết cục khủng hoảng
 
-- Chi phí tài khoá trực tiếp gồm bơm vốn, chi phí vận hành công ty quản lý tài sản và bảo lãnh bị gọi; không tính bảo lãnh chưa bị gọi. Chi phí này cao hơn ở nước thu nhập thấp và trung bình, chênh lệch càng rõ khi đo theo quy mô hệ thống tài chính.
-- Theo thước đo rộng là mức tăng nợ công, kết quả đảo ngược, do chính sách tài khoá chủ động và bộ ổn định tự động ở nước giàu.
-- Nợ xấu đỉnh cao hơn hẳn ở nước thu nhập thấp và trung bình, và khoảng cách khó có thể hoàn toàn do khác biệt định nghĩa.
-- Độ dài khủng hoảng được xác định qua sự đảo chiều đồng thời của tăng trưởng GDP thực và tín dụng thực, cắt ngọn ở năm năm. Quá nửa số đợt ở nước thu nhập cao kéo dài từ năm năm trở lên, một phần vì mức độ nghiêm trọng, quy mô hệ thống tài chính, và cả vì khả năng dựa vào chính sách vĩ mô có thể làm nản việc tái cơ cấu quyết liệt.
-- Mất sản lượng lớn hơn nhiều ở nước thu nhập cao và rất dai dẳng, với diễn biến xuất khẩu lờ đờ là một lời giải bổ sung.
+Bài đánh giá kết cục bằng năm thước đo.
+
+**Thước đo thứ nhất: chi phí tài khoá trực tiếp.** Đây là tổng mọi khoản chi tài khoá gắn trực tiếp với can thiệp ổn định hệ thống ngân hàng: bơm vốn, chi phí vận hành các công ty quản lý tài sản (nơi chuyển nợ xấu ra khỏi ngân hàng), bảo lãnh bị gọi trả, và mọi chi phí khác quy trực tiếp cho việc cứu định chế tài chính. Không tính bảo lãnh chưa bị gọi, vì đó không phải khoản chi thực, dù đó mới là thước đo tổng rủi ro mà khu vực công gánh ngay từ đầu. Cũng không tính tài sản thuế hoãn lại (khoản ngân hàng được trừ thuế trong tương lai; riêng Tây Ban Nha là 70 tỷ euro cuối 2016).
+
+| Chỉ tiêu (trung vị) | Thu nhập cao | Thu nhập thấp–trung bình |
+|---|---|---|
+| Chi phí gộp (% GDP) | 6,7 | 10 |
+| Chi phí ròng (% GDP) | 3,3 | 9,6 (chênh hơn 6 điểm) |
+| Chi phí ròng (% tài sản hệ thống tài chính) | 3,01 | 21,97 (gấp khoảng 7 lần) |
+
+"Thu hồi" gồm tiền bán các tài sản tài chính đã mua để xử lý khủng hoảng, phí bảo lãnh, cổ tức, lãi, và mọi dòng tiền vào khác quy trực tiếp cho việc gỡ bỏ can thiệp. Bài không tính lãi vốn chưa thực hiện trên tài sản nhà nước vẫn còn nắm, nên về dài hạn thu hồi thực tế có thể cao hơn con số được báo cáo. Ví dụ Iceland: bài ghi chi phí ròng 3,3% GDP, không tính phần vốn ngân hàng nhà nước còn nắm trị giá khoảng 12% GDP năm 2016; đó là phần lớn khoảng cách so với con số −9% GDP (tức nhà nước có lãi ròng) trong Báo cáo Điều IV năm 2016 của IMF. Một số ít đợt có chi phí vượt 100% tài sản hệ thống tài chính; đó là hệ quả của siêu lạm phát, vì tài sản được lấy ở năm trước khủng hoảng còn chi phí được lấy ở năm phát sinh. Bài cũng cảnh báo rằng chênh lệch chi phí trực tiếp có thể chỉ phản ánh việc nước giàu dựa nhiều hơn vào công cụ vĩ mô, làm giảm gánh nặng lên các chính sách nhắm vào khu vực tài chính.
+
+**Thước đo thứ hai: chi phí tài khoá theo nghĩa rộng, kết quả đảo ngược.** Đo bằng mức tăng nợ công trên GDP trong khoảng [T−1, T+3]. Trung vị ở nước thu nhập cao là 21,1% GDP, ở nước thu nhập thấp–trung bình là 16,4%. Nguyên nhân là chính sách tài khoá chủ động (kích thích) và các bộ ổn định tự động (thu thuế tự giảm, chi trợ cấp thất nghiệp tự tăng khi suy thoái) tác động trực tiếp lên thước đo này, mà hai yếu tố đó đóng vai trò nhỏ hơn nhiều ở nước nghèo. Về phương pháp: với các đợt từ 2007 trở đi, bài lấy chênh lệch giữa mức tăng nợ thực tế (theo Triển vọng Kinh tế Thế giới, WEO, mùa thu 2017) và mức tăng nợ đã dự báo trước khủng hoảng (WEO mùa thu năm T−1); với các đợt cũ hơn thì lấy thay đổi thực tế.
+
+**Thước đo thứ ba: nợ xấu đỉnh.** Khoảng 70% số đợt ở nước thu nhập cao có nợ xấu không bao giờ vượt 20% tổng dư nợ. Lời văn của bài ghi trung vị nợ xấu đỉnh ở nhóm thu nhập cao "nhỉnh hơn 11%" và nhóm thu nhập thấp–trung bình "đạt 30%"; còn giá trị trung vị ghi trên hình của bài là 5,96 và 14,46. Dù số nào đúng, nợ xấu đỉnh cao hơn hẳn ở nước thu nhập thấp và trung bình. Bài thừa nhận định nghĩa nợ xấu khác nhau giữa các nước làm khó so sánh mức, nhưng khoảng cách có hệ thống và lớn như vậy khó có thể hoàn toàn do khác biệt định nghĩa.
+
+**Thước đo thứ tư: độ dài khủng hoảng.** Năm kết thúc là năm **trước** năm mà cả tăng trưởng GDP thực lẫn tăng trưởng tín dụng thực đều dương trong ít nhất hai năm liên tiếp. Nếu thiếu dữ liệu tín dụng thì chỉ dùng GDP; nếu điều kiện được thoả ngay từ năm đầu thì năm kết thúc trùng năm bắt đầu. Lý lẽ: khả năng thanh toán của ngân hàng suy giảm làm gián đoạn cung tín dụng, và gián đoạn đó có tác động thực, nên khủng hoảng kết thúc khi thấy bằng chứng các tác động tiêu cực đã đảo chiều.
+
+Độ dài bị cắt ngọn ở năm năm, vì hai lý do: (1) thước đo dựa trên dư nợ chứ không phải dòng cho vay mới, mà dư nợ chịu ảnh hưởng của xoá nợ và tái cơ cấu, nên sai số có thể làm độ dài bị thổi phồng; (2) càng kéo dài, thước đo đơn giản này càng dễ bắt nhầm tác động của các cú sốc khác. Vì vậy "5 năm" phải được đọc là "năm năm trở lên".
+
+| Nhóm | Phân bố độ dài |
+|---|---|
+| Toàn mẫu | Khoảng 2/3 số đợt kết thúc trong dưới năm năm: 1 năm khoảng 38 đợt, 2 năm khoảng 26, 3 năm khoảng 23, 4 năm khoảng 12, và 5 năm (trở lên) khoảng 53 đợt |
+| Thu nhập cao | Quá nửa số đợt kéo dài từ năm năm trở lên |
+| Thu nhập thấp–trung bình | Phần lớn kéo dài bốn năm trở xuống |
+
+Ba lời giải thích cho độ dài ở nước giàu: (1) mức độ nghiêm trọng, vì nhiều đợt thuộc khủng hoảng toàn cầu; (2) hệ thống và định chế tài chính lớn hơn nên việc xử lý phức tạp hơn; và (3) một nghịch lý: chính khả năng dùng chính sách tiền tệ và tài khoá để giảm nhẹ tác động thực có thể làm nản việc tái cơ cấu ngân hàng quyết liệt, và rốt cuộc kéo dài khủng hoảng.
+
+**Thước đo thứ năm: mất sản lượng.** Bài tính tổng cộng dồn chênh lệch giữa GDP thực thực tế và GDP thực xu thế trong khoảng [T, T+3], tính theo phần trăm GDP xu thế một năm. Xu thế được ước lượng bằng bộ lọc Hodrick-Prescott (λ=100) trên logarit GDP thực trong khoảng [T−20, T−1], cần ít nhất 4 quan sát trước khủng hoảng, rồi ngoại suy theo tốc độ tăng xu thế cùng kỳ.
+
+Bài cảnh báo: không được hiểu mất sản lượng này là hoàn toàn do khủng hoảng ngân hàng gây ra, vì nó có thể bao gồm tác động của các cú sốc khác xảy ra cùng lúc. Phải đọc là "điều gì đã xảy ra với sản lượng sau một cuộc khủng hoảng ngân hàng". Con số tuyệt đối nhạy với cách tính xu thế, nhưng thứ hạng giữa các cuộc khủng hoảng thì vững, nên thước đo phù hợp để so sánh quy mô tương đối và mức dị biệt giữa các đợt.
+
+Kết quả: trung vị mất sản lượng ở nước thu nhập cao là 34,95% GDP xu thế, ở nước thu nhập thấp–trung bình là 13,83%. Lời giải: hệ thống tài chính ở nước giàu lớn và sâu hơn, nên khi bị gián đoạn thì tác động lên kinh tế thực mạnh hơn.
+
+**Sản lượng và xuất khẩu sau khủng hoảng.** Khủng hoảng ngân hàng đi kèm suy giảm rất dai dẳng của **mức** sản lượng thực, tức nền kinh tế không quay lại đường xu thế cũ. Kết quả này khớp với Cerra và Saxena (2008, 2017), Abiad và cộng sự (2014), Jorda và cộng sự (2015), Romer và Romer (2017, 2018). Cerra và Saxena (2017) còn cho rằng mọi loại suy thoái, không chỉ loại gắn với khủng hoảng, đều gây mất sản lượng vĩnh viễn. Nhưng độ dai dẳng rõ rệt hơn nhiều ở nước thu nhập cao.
+
+Một lời giải bổ sung là khối lượng xuất khẩu. Ở nước thu nhập cao, xuất khẩu phục hồi lờ đờ, khớp với sự chậm lại của thương mại toàn cầu (IMF 2016), vì phần lớn các đợt ở nhóm này rơi vào thời khủng hoảng toàn cầu. Ở nước thu nhập thấp–trung bình, xuất khẩu không hề chậm lại: nhóm này gồm chủ yếu các đợt trước khủng hoảng toàn cầu, thường được cầu bên ngoài kéo lên, nên phục hồi nhanh hơn. Kết luận này khác với Mishkin (1996), người viết trước khủng hoảng toàn cầu, tức trước cuộc khủng hoảng đánh chủ yếu vào nước phát triển với cường độ và quy mô chưa từng thấy kể từ Đại Suy thoái những năm 1930.
 
 ### 7. Kết luận
 
-- Một thập kỷ sau khủng hoảng toàn cầu, nhiều nước vẫn gánh di sản nặng: mất sản lượng vĩnh viễn, nợ công cao, hỗ trợ chính sách chưa gỡ hết và sở hữu nhà nước đáng kể với tài sản tài chính.
-- Còn rất nhiều điều phải học về dự báo, phòng ngừa và xử lý khủng hoảng, và điều kiện tiên quyết là dữ liệu chất lượng cao.
-- Dù chỉ vài nước trải qua khủng hoảng trong những năm gần đây, giai đoạn này có thể chỉ là sự yên ả trước cơn bão.
+Một thập kỷ sau khủng hoảng toàn cầu, đã đủ thời gian để một số đợt khủng hoảng kết thúc, nhưng nhiều nước vẫn gánh di sản nặng, gồm bốn phần:
+
+1. Mất sản lượng vĩnh viễn.
+2. Mức nợ công cao.
+3. Các biện pháp hỗ trợ chính sách chưa được gỡ hết.
+4. Nhà nước vẫn sở hữu một lượng đáng kể tài sản tài chính.
+
+Theo bài, còn rất nhiều điều phải học về cách dự báo, phòng ngừa và xử lý khủng hoảng ngân hàng, và điều kiện tiên quyết để tiến bộ là có dữ liệu chất lượng cao. Bài kết thúc (viết năm 2018) bằng lời nhắc: dù chỉ vài nước trải qua khủng hoảng trong những năm gần đây, giai đoạn này có thể chỉ là sự yên ả trước cơn bão.
 
 ## Thuật ngữ
 

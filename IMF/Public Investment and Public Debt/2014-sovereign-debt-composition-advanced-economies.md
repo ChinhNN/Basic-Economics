@@ -644,52 +644,310 @@
 2. Khi nợ tăng vọt trong chiến tranh và khủng hoảng, ai hấp thụ nguồn cung nợ đó và với điều kiện nào; và vì sao đợt tích luỹ nợ từ thập niên 1980–1990 lại đi ngược mọi mẫu hình trước đó?
 3. Các nước đã giảm nợ bằng cách nào trong quá khứ, và những cách đó còn khả thi cho các nước phát triển hôm nay không?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Cơ cấu nợ chính phủ (sovereign debt composition).** Không chỉ hỏi chính phủ nợ bao nhiêu, mà hỏi khoản nợ đó được tạo thành từ những loại giấy nợ nào. Bài nhìn theo bốn chiều: nợ ghi bằng đồng tiền nào, kỳ hạn dài hay ngắn, ai đang nắm giữ, và có mua bán được trên thị trường hay không. Ví dụ minh hoạ: hai nước cùng nợ 100% GDP, nhưng nước A nợ toàn trái phiếu nội tệ 10 năm do quỹ hưu trí nắm, còn nước B nợ phần lớn tín phiếu 3 tháng bằng đô la do ngân hàng trong nước nắm; cùng một mức nợ nhưng rủi ro hoàn toàn khác. Đây là đối tượng nghiên cứu của cả bài: mức nợ thế kỷ 20 đã được biết rõ, còn cơ cấu thì chưa.
+
+**Nợ ngắn hạn và nợ trung–dài hạn (ST và MLT).** Nợ ngắn hạn (ST) là giấy nợ phải trả lại trong vòng khoảng một năm; nợ trung–dài hạn (MLT) là phần còn lại. Nợ ngắn hạn phải vay lại liên tục, nên khi lãi suất thị trường tăng thì chi phí lãi tăng gần như ngay lập tức. Ví dụ minh hoạ: một chính phủ có 100 tỷ nợ ngắn hạn; nếu lãi suất thị trường tăng thêm 2 điểm phần trăm, trong vòng một năm hoá đơn lãi tăng thêm khoảng 2 tỷ mỗi năm, trong khi trái phiếu 10 năm lãi cố định vẫn giữ lãi cũ cho tới khi đáo hạn. Trong bài, tỷ trọng nợ nội tệ trung–dài hạn là thước đo chính về độ an toàn của cơ cấu nợ.
+
+**Nợ giao dịch được và không giao dịch được (marketable / non-marketable).** Nợ giao dịch được là trái phiếu, tín phiếu mua bán tự do trên thị trường, giá do người mua và người bán quyết định. Nợ không giao dịch được là khoản vay mà người nắm giữ không bán lại được, thường phát hành cho một nhóm nhà đầu tư chỉ định (ví dụ quỹ của nhà nước, ngân hàng bị yêu cầu mua). Ví dụ trong bài: tỷ trọng nợ giao dịch được rơi xuống khoảng 55% trong và sau Thế chiến II rồi hồi lên khoảng 80% ngày nay. Bài dùng tỷ trọng này như thước đo mức độ chính phủ dùng biện pháp "bất quy tắc" để tài trợ nợ.
+
+**Áp chế tài chính (financial repression).** Tập hợp các biện pháp nhà nước dùng để buộc tiền tiết kiệm trong nước chảy vào nợ chính phủ với lãi suất thấp: trần lãi suất, kiểm soát vốn để tiền không ra nước ngoài được, quy định buộc ngân hàng nắm trái phiếu chính phủ. Ví dụ minh hoạ: nếu lãi suất trái phiếu bị giữ ở 2% trong khi lạm phát là 6%, người nắm giữ mất khoảng 4% giá trị thực mỗi năm, còn gánh nợ thực của chính phủ giảm tương ứng. Bài tìm thấy bằng chứng rằng kênh này, cộng với lạm phát, đã giúp giảm nợ sau Thế chiến II, nhưng cho rằng khó lặp lại ngày nay.
+
+**Lạm phát bất ngờ và "thổi bay nợ bằng lạm phát" (surprise inflation, inflate away).** Nợ ghi bằng nội tệ có giá trị danh nghĩa cố định; nếu giá cả tăng nhanh hơn dự kiến, giá trị thực của khoản nợ giảm. Ví dụ minh hoạ: nợ 100 đơn vị nội tệ, giá cả tăng 50% ngoài dự kiến, thì khoản nợ đó chỉ còn tương đương khoảng 67 đơn vị theo giá cũ. Cách này chỉ hiệu quả với nợ nội tệ dài hạn lãi cố định; nợ ngoại tệ không bị ảnh hưởng, còn nợ ngắn hạn được định giá lại nhanh theo lạm phát mới. Đây là lý do cơ cấu nợ quyết định lối thoát nào còn mở cho một nước nợ cao.
+
+**Tội tổ tông (original sin).** Tình trạng một nước không phát hành được nợ dài hạn bằng chính đồng tiền của mình, nên phải vay ngắn hạn hoặc vay bằng ngoại tệ. Khi đồng nội tệ mất giá, nợ ngoại tệ tính ra nội tệ phình lên. Ví dụ minh hoạ: nợ 10 tỷ đô la, nội tệ mất giá 30% thì gánh nợ tính bằng nội tệ tăng khoảng 43%. Khái niệm này vốn viết cho các nước mới nổi; bài cho thấy nước phát triển nhìn chung không mắc "tội tổ tông nội địa", vì tỷ trọng nợ nội tệ trung–dài hạn chưa bao giờ xuống dưới 50% suốt 111 năm.
+
+**Khung cân bằng danh mục, cú sốc cung và cú sốc cầu (portfolio balance framework).** Cách nhìn thị trường nợ chính phủ như mọi thị trường khác: chính phủ là bên cung nợ, nhà đầu tư là bên cầu, và lợi suất điều chỉnh để mọi giấy nợ phát hành ra đều có người cầm. "Cú sốc cung" là khi chính phủ phải phát hành nhiều hơn hẳn (ví dụ chiến tranh); "cú sốc cầu" là khi nhà đầu tư muốn cầm nhiều hơn (ví dụ quỹ hưu trí lớn mạnh). Ví dụ trong bài: thế chiến là cú sốc cung, làm cơ cấu xấu đi; giai đoạn 1975–2005 là cú sốc cầu thuận lợi, nên nợ tăng mà kỳ hạn vẫn dài ra. Mọi diễn giải trong bài đều dùng ngôn ngữ này.
+
+**Khu vực tiết kiệm theo hợp đồng (contractual saving sector).** Các định chế nhận tiền theo hợp đồng dài hạn và phải trả tiền sau nhiều năm, chủ yếu là quỹ hưu trí và công ty bảo hiểm. Vì nghĩa vụ của họ kéo dài 20–30 năm, họ thích nắm trái phiếu dài hạn để khớp kỳ hạn. Ví dụ minh hoạ: một công ty bảo hiểm nhân thọ phải chi trả cho khách hàng sau 25 năm sẽ ưa trái phiếu chính phủ 25–30 năm hơn tín phiếu 3 tháng. Bài coi sự trỗi dậy của khu vực này là một động lực chính giúp các nước phát triển vừa tăng nợ vừa kéo dài kỳ hạn trong giai đoạn 1975–2005.
+
+## Nội dung chi tiết
 
 ### 1. Mở đầu
 
-- Diễn biến mức nợ công trong thế kỷ 20 đã quen thuộc với ba đỉnh lớn và ba đợt giảm, rồi một xu hướng tăng liên tục từ thập niên 1970 mà khủng hoảng 2008 làm trầm trọng thêm.
-- Ngược lại, gần như chưa có hiểu biết về thay đổi dài hạn của cơ cấu nợ, dù ai cũng thừa nhận cơ cấu quyết định chi phí trả nợ và rủi ro, và chưa có khung lý thuyết nào diễn giải thống nhất các mẫu hình lịch sử.
-- Cơ cấu đặc biệt quan trọng lúc này khi nhiều nước phát triển chịu sức ép giảm nợ từ đỉnh sáu mươi năm, vì một số cấu trúc nợ dễ bị xoá bằng lạm phát hơn các cấu trúc khác.
-- Bài dựng bộ dữ liệu 13 nước từ 1900, rút ra mẫu hình chung, đưa nghiên cứu trường hợp và nêu cân nhắc chính sách cho quản lý nợ hiện nay.
+Diễn biến **mức** nợ công ở các nước phát triển trong thế kỷ 20 đã được ghi chép kỹ. Có ba đỉnh lớn: Thế chiến I, Đại Suy thoái những năm 1930 và Thế chiến II. Mỗi đỉnh đều được theo sau bởi một giai đoạn giảm nợ. Sau Thế chiến II, nợ giảm liên tục trong nhiều thập kỷ, rồi từ thập niên 1970 bắt đầu tăng liên tục, và cuộc khủng hoảng tài chính 2008 (Đại Suy thoái 2008) làm xu hướng này trầm trọng thêm.
+
+Ngược lại, gần như chưa ai biết **cơ cấu** nợ đã thay đổi thế nào trong cùng thời gian, dù ai cũng thừa nhận cơ cấu quyết định chi phí trả nợ và mức rủi ro của chính phủ. Bài thừa nhận thẳng rằng không có khung lý thuyết nào cho phép diễn giải và giải thích một cách thống nhất các mẫu hình lịch sử về cơ cấu nợ mà bài ghi nhận. Hiểu biết về một cơ cấu nợ "tối ưu" nhìn từ góc độ vĩ mô, nếu nó tồn tại, vẫn còn rất hạn chế.
+
+Theo các tác giả, câu hỏi này đặc biệt cấp bách vào thời điểm viết bài (năm 2014), khi nhiều nước phát triển đang chịu sức ép phải giảm nợ từ mức cao nhất trong khoảng 60 năm. Hai lý do khiến cơ cấu quan trọng:
+
+- **Một số loại nợ dễ bị xoá bằng lạm phát hơn các loại khác.** Giả thuyết dẫn dắt của bài là: nợ nội tệ dài hạn do khu vực phi ngân hàng nắm giữ, nhất là do người không cư trú (nhà đầu tư nước ngoài) nắm, thì ít nhất về lý thuyết dễ và ít tốn kém hơn để "thổi bay bằng lạm phát" so với nợ ngoại tệ hoặc nợ do hệ thống ngân hàng trong nước nắm. Nợ ngoại tệ không mất giá khi nội tệ lạm phát; còn nợ trong bảng cân đối ngân hàng trong nước bị lạm phát bào mòn thì làm yếu chính các ngân hàng đó.
+- **Nợ ngắn hạn được định giá lại rất nhanh khi lợi suất tăng**, làm hoá đơn lãi đội lên. Điều này đặc biệt nguy hiểm khi tổng nợ đã ở mức cao.
+
+Bài dựng một bộ dữ liệu cho 13 nước phát triển từ năm 1900 tới 2011, rút ra các mẫu hình chung, đưa vào các nghiên cứu trường hợp và nêu cân nhắc chính sách cho hoạt động quản lý nợ hiện nay.
 
 ### 2. Vì sao cơ cấu nợ quan trọng
 
-- Trong thực hành, người quản lý nợ tối thiểu hoá chi phí vay dài hạn ở mức rủi ro chấp nhận được, dẫn tới ưa thích kỳ hạn dài, nội tệ, giao dịch được và cơ sở nhà đầu tư đa dạng.
-- Cơ cấu thận trọng còn giảm dễ tổn thương tài khoá và rủi ro khủng hoảng, theo tài liệu về "tội tổ tông" vốn viết cho nước mới nổi nhưng nay cũng liên quan tới nước phát triển.
-- Cách tiếp cận thuế tối ưu cho thấy cơ cấu nên làm mượt thuế bằng cách gắn chi phí trả nợ thấp với các trạng thái kinh tế xấu; từ góc nhìn này, tối thiểu hoá chi phí và rủi ro lãi vay nói chung không cho ra cơ cấu tối đa hoá phúc lợi.
-- Một nhánh khác nhìn từ động cơ xoá nợ và tính nhất quán theo thời gian, với hai kết luận trái ngược về kỳ hạn dài hay ngắn là tốt hơn.
-- Bài diễn giải mọi thay đổi lớn qua khung cân bằng danh mục, trong đó chính phủ cung nợ và nhà đầu tư cầm nợ, và khung này vẫn dùng được cả khi thị trường không cân bằng.
+Bài tổng hợp bốn nhánh lý thuyết giải thích vì sao cơ cấu nợ có ý nghĩa.
+
+**Nhánh thứ nhất: tối thiểu hoá chi phí trả nợ (cách làm thực tế).** Mục tiêu của người quản lý nợ là đạt chi phí vay dài hạn thấp nhất ở một mức rủi ro tái tài trợ và rủi ro quay vòng nợ chấp nhận được. Họ dùng lý thuyết danh mục chuẩn và xét đường cong lợi suất hiện hành. Đánh đổi giữa chi phí và rủi ro dẫn tới bốn thói quen: phát hành trải khắp các kỳ hạn, ưa kỳ hạn bình quân tương đối dài, ưa nợ giao dịch được bằng nội tệ, và nhắm tới một cơ sở nhà đầu tư đa dạng. Giới hạn của việc chuyển rủi ro sang nhà đầu tư (ví dụ phát hành thêm nợ dài hạn để chính phủ khỏi lo tái tài trợ) là điểm mà lợi ích đó bị bù trừ bởi chi phí trả lãi cao hơn, vì nhà đầu tư đòi lãi cao hơn cho kỳ hạn dài. Người quản lý nợ ở nước phát triển coi chính sách tài khoá và tiền tệ là cho trước, không tìm cách tác động lên mức lãi suất hay độ dốc của đường cong lợi suất.
+
+**Nhánh thứ hai: giảm dễ tổn thương tài khoá và rủi ro khủng hoảng.** Tài liệu về "tội tổ tông" (Eichengreen và Hausmann 2002; Borensztein và cộng sự 2004) chỉ ra rằng việc không phát hành được nợ dài hạn bằng nội tệ là nguồn dễ tổn thương lớn ở các nước mới nổi. Nhánh này vốn viết cho nước mới nổi, nhưng khủng hoảng tài chính toàn cầu cho thấy nước phát triển cũng không miễn nhiễm.
+
+**Nhánh thứ ba: thuế tối ưu và làm mượt thuế.** Ý tưởng là thiết kế nợ sao cho chi phí trả nợ thấp đúng vào những lúc kinh tế xấu, khi sản lượng thấp hoặc chi tiêu cao hơn dự kiến, để chính phủ không phải tăng thuế đột ngột đúng lúc khó khăn. Kết quả phụ thuộc mạnh vào lập trường tiền tệ: nếu ngân hàng trung ương cắt lãi suất khi có cú sốc tăng trưởng âm, chi phí trả nợ ngắn hạn tự động giảm. Loại chứng khoán "ngẫu nhiên" lý tưởng, có khoản trả thay đổi theo tình trạng nền kinh tế, không tồn tại trong thực tế (Missale 1999; Faraglia và cộng sự 2010). Hệ quả quan trọng: tối thiểu hoá chi phí và rủi ro lãi vay nói chung **không** cho ra cơ cấu nợ tối đa hoá phúc lợi (Missale 2012). Nói cách khác, điều người quản lý nợ làm hằng ngày chưa chắc là điều tốt nhất cho xã hội.
+
+**Nhánh thứ tư: động cơ xoá nợ và tính nhất quán theo thời gian.** Một khi nhà đầu tư đã mua và "khoá" vị thế, chính phủ có động cơ đánh thuế ngầm vào khoản nợ đó qua lạm phát, áp chế tài chính hoặc vỡ nợ thẳng. Vì vậy nên thiết kế nợ ngay từ đầu sao cho việc đánh thuế ngầm về sau trở nên rất đắt. Nhánh này cho hai kết luận trái ngược về kỳ hạn:
+
+| Tác giả | Kết luận | Lý do |
+|---|---|---|
+| Alesina và cộng sự (1992) | Kỳ hạn **dài** tốt hơn | Ít nợ đáo hạn cùng lúc, giảm rủi ro khủng hoảng niềm tin |
+| Blanchard và Missale (1994) | Kỳ hạn **ngắn** có thể tốt hơn | Nợ ngắn hạn định giá lại nhanh, nên chính phủ ít động cơ xoá nợ bằng lạm phát bất ngờ |
+
+Cùng nhánh này còn có nghiên cứu về sở hữu trong nước so với ngoài nước (Drazen 1997) và về nợ do khu vực tài chính nắm giữ (De Broeck 1997).
+
+**Công cụ diễn giải của bài: khung cân bằng danh mục.** Trong khung này, người quản lý nợ **cung** nợ để đáp ứng nhu cầu tài trợ do các cân nhắc chính sách rộng hơn quyết định, và chọn cơ cấu theo chi phí, rủi ro và các mục tiêu khác. Nhà đầu tư **cầm** nợ theo đánh đổi lợi suất–rủi ro, cộng thêm ba yếu tố: yêu cầu của quy định quản lý, sở thích "môi trường ưa thích" (preferred habitat, tức một số nhà đầu tư chỉ muốn nắm loại nợ có đặc điểm nhất định, ví dụ quỹ hưu trí thích kỳ hạn dài), và mong muốn đa dạng hoá theo địa lý. Chính phủ còn phải cạnh tranh nguồn vốn với doanh nghiệp.
+
+Khi thị trường cân bằng, lợi suất kỳ vọng điều chỉnh sao cho lượng nợ cung ra được nắm giữ một cách tự nguyện tại mọi thời điểm (Roley 1979; Agell 1992). Nếu người quản lý nợ muốn một cơ cấu khác với cơ cấu cân bằng, ví dụ phát hành thêm nợ nội tệ dài hạn để giảm rủi ro cho chính phủ, thì phải trả lãi cao hơn để kéo được cầu tương ứng.
+
+Khung này vẫn dùng được khi thị trường **không** cân bằng. Chính phủ có thể không chịu trả lãi rất cao và áp trần lãi suất; hoặc nhà đầu tư tư nhân có thể đặt trần khối lượng (phân bổ tín dụng). Dù thế nào, lượng nợ đang lưu hành vẫn phải có ai đó cầm. Lối thoát khi đó là can thiệp phi thị trường để tạo ra cầu tư nhân, hoặc đổi cơ cấu sở hữu bằng cách đẩy nợ sang ngân hàng trung ương trong nước hay vay chủ nợ chính thức nước ngoài. Nợ không giao dịch được thường được dùng để vay chỉ định từ một nhóm nhà đầu tư nhất định. Bài không phân biệt hai chế độ này, và diễn giải thống nhất mọi biến động lớn theo ngôn ngữ "cung tăng mạnh" hay "cầu tăng".
+
+Theo khung này, không có một cơ cấu "tối ưu" đồng nhất. Thời bình thường, cơ cấu chỉ thay đổi nhỏ, chủ yếu gắn với biến động lợi suất tương đối giữa các loại nợ. Còn trong khủng hoảng chính trị–quân sự, hỗn loạn tài chính, hoặc đổi mới tài chính quy mô lớn (như sau khi hệ thống Bretton Woods sụp đổ năm 1971), cơ cấu thay đổi lớn và đột ngột. Bài cũng tự nêu giới hạn: không phân tích các thay đổi cơ cấu **giữa** các giai đoạn tích luỹ và củng cố nợ, và không nối chúng với đường cong lợi suất.
 
 ### 3. Toàn cảnh cơ cấu nợ thế kỷ 20
 
-- Dữ liệu cơ cấu nợ rất khó tìm; bài ghép từ nguồn quốc gia, Hội Quốc Liên, Liên Hợp Quốc, OECD, IMF và bảng cân đối ngân hàng, và tự khuyến nghị thận trọng khi diễn giải.
-- Nợ bằng ngoại tệ luôn là thiểu số, bình quân khoảng 5%, dù sáu nước từng vượt 50% và Pháp từng gần 100% GDP giữa thập niên 1930.
-- Tỷ trọng nợ nội tệ trung và dài hạn chưa bao giờ xuống dưới 50%, tăng thời bình và giảm thời loạn, với cú sụt 1923 do siêu lạm phát Đức.
-- Tỷ trọng nợ giao dịch được phản ánh mức độ dùng biện pháp bất quy tắc, rơi xuống khoảng 55% trong và sau Thế chiến II rồi hồi lên khoảng 80% ngày nay.
-- Về sở hữu, ngân hàng thương mại thường gánh hộ khu vực phi ngân hàng trong nước thời khủng hoảng, quan hệ nghịch này đứt gãy từ Đại Ổn định; sở hữu của ngân hàng trung ương tăng thời hoạn nạn; và sở hữu của người không cư trú tăng mạnh từ giữa thập niên 1970.
+**Dữ liệu.** Bài nhận xét số liệu cơ cấu nợ chính phủ "khó tìm đến kinh ngạc". Về nguyên tắc, kho bạc phải có sổ chi tiết từng chứng khoán, nhưng dữ liệu tổng hợp lịch sử rất khó tiếp cận. Nguồn thực tế gồm niên giám thống kê và báo cáo quản lý nợ từng nước; Hội Quốc Liên và Liên Hợp Quốc cho giai đoạn 1914–1980; OECD cho giai đoạn 1980–2010; IMF; và bảng cân đối của ngân hàng trung ương và hệ thống ngân hàng, là nguồn chính về sở hữu nợ ở giai đoạn đầu. Bài tự nhận một mục tiêu là truyền cảm hứng cho các nỗ lực khai thác thêm nguồn số liệu quốc gia.
+
+Mẫu gồm nhóm G-7 (7 nước) cộng sáu nước khác có số liệu dễ tiếp cận hơn, tổng cộng 13 nước: Úc, Bỉ, Canada, Pháp, Đức, Ireland, Ý, Nhật, Hà Lan, Tây Ban Nha, Thuỵ Điển, Anh và Mỹ. Bài dùng nợ **chính phủ trung ương** chứ không phải chính phủ chung, vì các biến về cơ cấu hầu như chỉ có cho cấp trung ương. Có hai ngoại lệ: Ý có chuỗi số liệu chính phủ chung liên tục từ năm 1861, còn Úc chỉ có số liệu gộp Liên bang và các Bang.
+
+Bốn chiều phân rã, mỗi chiều cộng lại bằng 100% tổng nợ:
+
+| Chiều | Cách chia | Lưu ý |
+|---|---|---|
+| Đồng tiền | Ngoại tệ (FCY) và nội tệ (LCY), xét tại lúc phát hành | Bài không xét luật áp dụng cho chứng khoán vì thiếu dữ liệu |
+| Kỳ hạn | Nợ nội tệ chia thành ngắn hạn (ST: dưới 1 năm, hoặc kỳ hạn ngắn nhất trên 1 năm có số liệu) và trung–dài hạn (MLT: phần còn lại). Do đó FCY + MLT nội + ST nội = 100 | Dùng kỳ hạn lúc phát hành làm đại diện cho kỳ hạn nợ nói chung; không chia nhỏ MLT theo công cụ (lãi cố định hay thả nổi, danh nghĩa hay gắn chỉ số) |
+| Người nắm giữ | Ngân hàng trung ương; ngân hàng thương mại trong nước; người không cư trú; khu vực phi ngân hàng trong nước (là phần dư) | Số liệu ngân hàng trung ương có ở đa số nước từ thập niên 1920, ngân hàng thương mại từ thập niên 1950; số liệu người không cư trú thường không có trước giữa thế kỷ (trừ Ý, Anh, Mỹ). Nơi thiếu số liệu, và cho tới 1970, bài giả định nhà đầu tư nước ngoài nắm toàn bộ nợ ngoại tệ và không nắm nợ nội tệ |
+| Tính giao dịch được | Giao dịch được và không giao dịch được | Chỉ 6 nước có chuỗi dài từ 1936 trở về trước: Canada, Đức, Ý, Tây Ban Nha, Anh, Mỹ |
+
+Chính bài cảnh báo rằng không thể bảo đảm tính nhất quán về định nghĩa giữa các nước, thậm chí trong cùng một chuỗi thời gian, nên khuyến nghị thận trọng khi diễn giải. Các số bình quân dùng trọng số là GDP theo sức mua tương đương (PPP) của Maddison (2010). Mẫu cũng không cố định: một phần dao động năm này qua năm khác là do có nước mới gia nhập mẫu.
+
+**Đồng tiền: nội tệ áp đảo.** Nợ ngoại tệ luôn là thiểu số. Diễn biến theo thời gian:
+
+| Giai đoạn | Tỷ trọng nợ ngoại tệ (bình quân trọng số) |
+|---|---|
+| Trước Thế chiến I | Dưới 5% |
+| Cuối giai đoạn củng cố sau Thế chiến I | Đỉnh 17%, do Mỹ cho các đồng minh châu Âu vay để cứu trợ và tái thiết |
+| Đại Suy thoái 1930 | Giảm, một phần do khoản miễn giảm năm 1934 với các khoản vay của Mỹ |
+| Thế chiến II | Giảm tiếp, khớp với sự kết thúc của kỷ nguyên toàn cầu hoá thứ nhất |
+| Ngay sau Thế chiến II | Đỉnh cuối cùng, chủ yếu do Đức: Hiệp định London 1953 về nợ nước ngoài của Đức đẩy tỷ trọng nợ ngoại tệ của chính phủ liên bang Đức vượt 40% năm 1953, lên đỉnh trên 45% năm 1956 rồi lao dốc |
+| Cuối thập niên 1950 tới nay | Từ khoảng 8% giảm xuống mức không đáng kể |
+
+Có 6/13 nước từng có tỷ trọng nợ ngoại tệ vượt 50% vào một lúc nào đó, nhưng bình quân trọng số cả mẫu chỉ khoảng 5%. Điều này khớp với tài liệu về "tội tổ tông": rủi ro ngoại tệ là vấn đề nhỏ ở nước phát triển. Tuy nhiên, tính theo GDP thì nợ ngoại tệ đã vượt 10% GDP ở gần như mọi nước tại một thời điểm nào đó, và Pháp tiến sát 100% GDP vào giữa thập niên 1930. Mỹ là ngoại lệ nổi bật, vì nợ rất thấp trước Thế chiến I và về sau đô la đóng vai trò đồng tiền dự trữ. Thuỵ Điển là ngoại lệ theo chiều ngược lại: vay ngoại tệ là đặc điểm thường trực, gắn với hoạt động quản lý dự trữ quốc tế.
+
+**Kỳ hạn: tăng thời bình, giảm thời loạn.** Phát hiện quan trọng nhất là tỷ trọng nợ nội tệ trung–dài hạn (MLT) **chưa bao giờ** xuống dưới 50% suốt 111 năm. Nghĩa là các nước phát triển nhìn chung không mắc "tội tổ tông nội địa". Mức phân tán giữa các nước khá lớn: độ lệch chuẩn trung vị giữa 13 nước là 17 điểm phần trăm.
+
+| Giai đoạn | Tỷ trọng MLT nội tệ |
+|---|---|
+| Trước Thế chiến I | Trên 90%, thường là trái phiếu vĩnh viễn (consols, loại trái phiếu chỉ trả lãi, không bao giờ trả gốc), thời kỳ chính thống tài khoá |
+| Thế chiến I | Giảm mạnh |
+| Cuối thập niên 1930 | Hồi về khoảng 80% |
+| Thế chiến II | Rơi xuống khoảng 64% |
+| Sau Thế chiến II | Khác với sau Thế chiến I, tiếp tục giảm tới tận 1960 |
+| Từ 1960 tới giữa thập niên 1990 | Hồi dần về mức đỉnh trước Thế chiến II |
+| Đại Suy thoái 2008 | Chỉ làm gián đoạn tạm thời |
+
+Năm 1923 có một cú sụt riêng: siêu lạm phát ở Đức xoá sạch nợ trung–dài hạn của nước này. Mức gần 100% ở những năm đầu thế kỷ phần lớn nhờ hai nước có đồng tiền dự trữ là Anh và Mỹ; tỷ trọng MLT nội tệ của hai nước này chưa bao giờ dưới 50%. Hà Lan nằm sát mức trung vị 74%, và chỉ xuống dưới 40% trong sáu năm 1945–50.
+
+Nhìn theo GDP, nợ nội tệ ngắn hạn bình quân là 12% GDP, và từng vượt 40% GDP ở bảy nước vào một lúc nào đó. Phần lớn các đợt tăng nằm trong Thế chiến II. Nhưng có một đợt tăng bền từ giữa thập niên 1970 tới giữa thập niên 1990, giai đoạn lạm phát tương đối cao: nợ ngắn hạn nội tệ đi từ 9% lên 15% GDP. Khi lạm phát cao và khó đoán, nhà đầu tư ngại cầm giấy dài hạn.
+
+**Tính giao dịch được: thước đo của các biện pháp bất quy tắc.** Trước Thế chiến I, gần như toàn bộ nợ là chứng khoán giao dịch được. Trong giai đoạn củng cố sau Thế chiến I, tỷ trọng này giảm do Mỹ mở rộng các chương trình chính phủ (phát hành giấy nợ riêng cho các chương trình đó). Trong và sau Thế chiến II, tỷ trọng rơi thẳng xuống khoảng 55%, tương ứng với kỷ nguyên áp chế tài chính và thị trường bị trói. Reinhart và Sbrancia (2011) cho rằng việc kết hợp quản lý nợ phi chính thống (phát hành nợ không giao dịch được) với một liều lạm phát đều đặn là then chốt để thanh lý gánh nợ chiến tranh. Từ giữa thập niên 1970, tỷ trọng nợ giao dịch được hồi phục, nay khoảng 80%, và Đại Suy thoái 2008 không đảo ngược xu hướng này. Cần lưu ý ranh giới giữa nợ giao dịch được và không giao dịch được khác nhau giữa các nước; cú sụt ở nửa sau thập niên 1990 chủ yếu do Mỹ, với các chứng khoán phát hành cho nhà đầu tư chỉ định để tài trợ chương trình của chính phủ.
+
+**Người nắm giữ.** Ngân hàng thương mại thường "gánh hộ" khu vực phi ngân hàng trong nước vào thời khủng hoảng: trong hai cuộc thế chiến và trong thập niên 1970 đầy khó khăn, tỷ trọng của ngân hàng tăng khi tỷ trọng của khu vực phi ngân hàng giảm. Quan hệ nghịch này đứt gãy từ thời Đại Ổn định (giữa thập niên 1980 tới 2007), khi cả hai tỷ trọng cùng giảm, có thể do khung quản lý thay đổi, kể cả từ Hiệp ước Vốn Basel 1988. Bài tự cảnh báo về phương pháp: vì bốn nhóm người nắm giữ phải cộng lại bằng 100%, tỷ trọng một nhóm tăng bắt buộc đi kèm tỷ trọng nhóm khác giảm, nên không được diễn giải các tương quan này là quan hệ nhân quả.
+
+- **Ngân hàng trung ương:** tỷ trọng tăng mạnh từ đầu thập niên 1930 (do nhu cầu tài trợ cấp bách sau Đại Suy thoái), tiếp tục tăng qua Thế chiến II tới ngay sau chiến tranh, đạt 17% tổng nợ và giữ mức đó tới giữa thập niên 1970, rồi xuống khoảng 6% trước Đại Suy thoái 2008. Tính theo GDP, nợ do ngân hàng trung ương nắm bình quân khoảng 5% GDP, đỉnh 19% GDP trong Thế chiến II, với mức tăng mạnh nhất ở Bỉ, Pháp, Ý, Anh và Mỹ. Mức vượt 10% GDP hầu như chỉ xuất hiện trong xung đột quân sự. Hiện nay, mức nắm giữ của ngân hàng trung ương Anh và Mỹ đã cao bất thường so với chuẩn lịch sử.
+- **Người không cư trú:** nắm giữ của nhà đầu tư nước ngoài tăng từ 2% GDP giữa thập niên 1970 lên 29% GDP năm 2011. Nguyên nhân gồm: đổi mới và toàn cầu hoá tài chính thập niên 1970–80; giảm kiểm soát vốn; quản lý nợ tốt hơn; ngân hàng trung ương độc lập cam kết giữ lạm phát thấp; đồng euro ra đời, xoá rủi ro tỷ giá trong khu vực nhưng cũng khiến rủi ro chủ quyền ở các nước ngoại vi bị định giá sai; và các nước châu Á mới nổi tích luỹ nợ chính phủ Mỹ, nhất là Trung Quốc. Trung Quốc nắm 10% tổng nợ kho bạc Mỹ do nước ngoài giữ năm 2003, và 26% năm 2010.
 
 ### 4. Thay đổi cơ cấu trong các đợt tăng và giảm nợ lớn
 
-- Hai cuộc chiến làm cung nợ tăng vọt, phải được đáp ứng bằng điều kiện lợi suất–rủi ro tốt hơn cho nhà đầu tư tự nguyện hoặc bằng nắm giữ cưỡng bức. Thế chiến I bù bằng ngoại tệ và ngắn hạn; Thế chiến II không còn kênh ngoại tệ nên phải dùng cầu cưỡng bức, tức ngân hàng trung ương và nợ không giao dịch được.
-- Đại Suy thoái cho mẫu hình rõ về sở hữu nhưng không rõ về kỳ hạn, có lẽ do tương tác giữa cung tăng và cầu tăng với tài sản an toàn.
-- Mất giá tỷ giá và hiệu ứng định giá giải thích một phần đáng kể các đợt nợ tăng giai đoạn 1914–1945, rõ nhất ở Ý và Pháp.
-- Đại Tích luỹ đi ngược mọi mẫu hình: kỳ hạn dài ra, tính giao dịch tăng, người không cư trú tham gia mạnh, trong khi nợ vẫn tăng. Lý do nằm ở cả phía cung lẫn phía cầu, và Bỉ với Pháp minh hoạ vai trò của đổi mới tài chính.
-- Đại Suy thoái 2008 gần như không đụng tới kỳ hạn, đồng tiền hay tính giao dịch, chỉ dịch chuyển sở hữu về phía hệ thống ngân hàng và ngân hàng trung ương.
-- Trong các đợt giảm nợ, sau Thế chiến I là quay về chính thống, sau Đại Suy thoái là lần đầu áp chế tài chính xuất hiện, còn sau Thế chiến II chia làm hai nhóm rõ rệt tuỳ theo mức dung thứ lạm phát. Đại Ổn định cũng dị biệt nhưng vì hiệu ứng niềm tin chứ không phải lạm phát.
+**Logic chung.** Một đợt tăng nợ lớn về bản chất là cú sốc cung: chính phủ phải bán nhiều giấy nợ hơn hẳn. Lượng cung thêm này chỉ được hấp thụ theo hai cách: hoặc chính phủ chấp nhận điều kiện lợi suất–rủi ro tốt hơn cho nhà đầu tư tự nguyện (trả lãi cao hơn, hoặc nhận thêm rủi ro về mình bằng cách vay ngắn hạn, vay ngoại tệ), hoặc dùng nắm giữ cưỡng bức. Khi tỷ trọng MLT giảm, có nghĩa là rủi ro được chuyển từ nhà đầu tư tự nguyện sang chính phủ phát hành, và nợ ngoại tệ hoặc nợ ngắn hạn nội tệ bù vào chỗ trống.
+
+**Thế chiến I** (giá trị trung vị, nợ/GDP tính theo % GDP, các dòng còn lại theo % tổng nợ; cột thay đổi là trung vị của thay đổi từng nước nên không nhất thiết bằng hiệu hai cột):
+
+| Chỉ tiêu | Đầu | Cuối | Thay đổi |
+|---|---|---|---|
+| Nợ/GDP | 33 | 118 | +94 |
+| MLT nội tệ | 92 | 59 | −30 |
+| ST nội tệ | 8 | 22 | +11 |
+| Ngoại tệ | 0 | 16 | +8 |
+
+Pháp giảm mạnh nhất: tỷ trọng MLT đi từ 94% năm 1913 xuống 41% năm 1919. Ở Pháp và Anh, cả nợ ngoại tệ lẫn nợ ngắn hạn nội tệ đều tăng, phản ánh các khoản vay từ Mỹ cho đồng minh và nhu cầu tài trợ cấp bách.
+
+**Thế chiến II** (trung vị):
+
+| Chỉ tiêu | Đầu | Cuối | Thay đổi |
+|---|---|---|---|
+| Nợ/GDP | 70 | 182 | +108 |
+| MLT nội tệ | 72 | 63 | −16 |
+| ST nội tệ | 9 | 35 | +22 |
+| Ngoại tệ | 11 | 0 | −9 |
+| Giao dịch được | 78 | 79 | −4 |
+
+Khác biệt then chốt so với Thế chiến I: lần này mức giảm của MLT **không** được bù bằng nợ ngoại tệ, vì thương mại và dòng vốn quốc tế đã co lại từ thời Đại Suy thoái. Không còn người cho vay nước ngoài, nên **cầu cưỡng bức** phải lấp chỗ trống. Tỷ trọng nợ do ngân hàng trung ương nắm và tỷ trọng nợ không giao dịch được tăng lên, đúng là triệu chứng của áp chế tài chính theo mô tả của Reinhart và Sbrancia. Ví dụ: ngân hàng trung ương Bỉ nắm 3% nợ chính phủ năm 1938 và 48% năm 1945; ở Ý con số này đi từ 5% lên 45%. Nhật có mức tăng nợ lớn nhất toàn mẫu: nợ/GDP từ 67% lên 484%, tức tăng 417 điểm phần trăm.
+
+**Đại Suy thoái 1929–34: sở hữu rõ, kỳ hạn không rõ.** Về sở hữu, mẫu hình rõ ràng: tỷ trọng của ngân hàng trung ương và ngân hàng thương mại tăng ở Ý, Nhật, Hà Lan, Anh và Mỹ, trong khi tỷ trọng người không cư trú giảm ở tất cả các nước trừ một nước, khớp với sự sụp đổ của dòng vốn và thương mại. Về kỳ hạn thì không có mẫu hình: MLT giảm ở Canada, Hà Lan, Thuỵ Điển, Anh, Mỹ nhưng lại tăng ở Bỉ, Pháp, Ý, Nhật, Tây Ban Nha. Bài cho rằng có lẽ đó là do tương tác phức tạp giữa cung nợ tăng và thay đổi phía cầu, khi nhà đầu tư thèm tài sản chính phủ an toàn hơn trong thời bất định, và thừa nhận cần phân tích sâu hơn, ngoài phạm vi bài.
+
+**Hiệu ứng định giá từ tỷ giá, 1914–1945.** Khi nội tệ mất giá, nợ ngoại tệ tính theo nội tệ (và theo GDP) tự động phình lên dù chính phủ không vay thêm đồng nào. Giai đoạn 1914–1945, hiệu ứng này giải thích một phần đáng kể các đợt tăng nợ ngoại tệ:
+
+| Trường hợp | Tăng nợ ngoại tệ | Phần do hiệu ứng định giá |
+|---|---|---|
+| Pháp, năm 1925 | +16% GDP | Khoảng ba phần tư, do một đợt mất giá thực 20% |
+| Ý, 1913–20 | +88% GDP | Khoảng hai phần ba, phản ánh mất giá thực tích luỹ 130% |
+| Pháp, 1933–35 | +55% GDP | Chỉ 6%, vì mất giá tích luỹ chỉ 5% |
+| Pháp 1916–22 (+57% GDP), Úc 1927–32 (+40%), Bỉ 1918–26 (+57%) | | Không phân rã được vì thiếu dữ liệu tỷ giá hữu hiệu thực (REER) |
+
+Ngoài giai đoạn này, tỷ giá không đóng vai trò lớn. Trước Thế chiến I có bản vị vàng với cam kết đáng tin. Sau Thế chiến II có hệ thống Bretton Woods (trừ Canada), và các đợt phá giá chỉ đi trước hoặc làm nhanh thêm các đợt giảm nợ: Anh (1949, 1967, 1973), Hà Lan (1949), Pháp (1957), Tây Ban Nha (1955–59).
+
+**Ngoại lệ lớn: Đại Tích luỹ 1975–2005.** Đây là đợt tăng nợ đi ngược mọi mẫu hình trước đó (trung vị):
+
+| Chỉ tiêu | Đầu | Cuối | Thay đổi |
+|---|---|---|---|
+| Nợ/GDP | 19 | 61 | +48 |
+| MLT nội tệ | 68 | 68 | +3 (không giảm) |
+| Ngân hàng trung ương nắm giữ | 15 | 6 | −11 |
+| Người không cư trú nắm giữ | 3 | 21 | +16 |
+| Giao dịch được | 55 | 86 | +45 |
+
+Nghịch lý là kỳ hạn **dài ra** đúng lúc chính phủ đang mở rộng phát hành. Điều này thường không xảy ra, vì nếu mọi thứ khác không đổi, kỳ hạn dài làm giảm rủi ro cho chính phủ và chuyển rủi ro sang nhà đầu tư, nên nhà đầu tư phải được bù. Cũng cần lưu ý đây là đợt tích luỹ chậm nhất trong mẫu: bình quân trọng số chỉ 3 điểm phần trăm GDP mỗi năm.
+
+Lời giải của bài là một **cú sốc cầu cơ cấu thuận lợi**, đi cùng một số thay đổi phía cung:
+
+- Phía cung, thứ nhất: chính phủ nỗ lực nâng tính giao dịch và thanh khoản của công cụ nợ, ví dụ phát hành công cụ gắn chỉ số và chứng khoán "chuẩn" có thanh khoản cao.
+- Phía cung, thứ hai: củng cố khung thể chế cho quản lý nợ và quản lý lạm phát, cái sau qua sự ra đời của các ngân hàng trung ương độc lập.
+- Phía cung, thứ ba: chính phủ chấp nhận vay ở lãi suất thực tương đối cao. Điều này khác hẳn hai cuộc thế chiến, khi lạm phát bốc lên làm lãi suất thực dài hạn âm và tự động làm dịu động thái nợ.
+- Phía cầu, thứ tư: tự do hoá tài chính và lưu chuyển vốn toàn cầu, kèm nhu cầu đa dạng hoá danh mục của nhà đầu tư.
+- Phía cầu, thứ năm: sự lớn mạnh của khu vực tiết kiệm theo hợp đồng (quỹ hưu trí, công ty bảo hiểm), có nghĩa vụ dài hạn nên có khẩu vị lớn với giấy tờ dài hạn.
+
+Kết quả: các chính phủ tài trợ được nợ tăng bằng nợ nội tệ trung–dài hạn và bằng tiền của người không cư trú, đồng thời giảm lệ thuộc vào ngân hàng trung ương và áp chế tài chính.
+
+**Bỉ và Pháp, 1976–1998 (năm cuối trước khi có euro): vai trò của đổi mới tài chính.** Ở Bỉ, trong thập kỷ đầu của Đại Tích luỹ, nợ tăng nhanh kèm kỳ hạn ngắn lại, nợ ngoại tệ tăng và tỷ trọng ngân hàng trung ương nhích lên; sức ép tài trợ làm chậm việc đưa đổi mới tài chính vào thị trường nợ trong nước. Ở Pháp, nợ tăng từ tốn hơn, và các lực đổi mới tài chính đầu–giữa thập niên 1980 phát huy trọn vẹn. Cả hai nước (Bỉ muộn hơn Pháp hơn nửa thập kỷ) đều chuyển sang: tín phiếu và trái phiếu chuẩn hoá; đấu giá cạnh tranh theo lịch công bố trước; và cơ chế nhà tạo lập thị trường sơ cấp, thay cho các công cụ may đo cho từng nhóm nhà đầu tư. Một cải cách tiêu biểu là "dòng trái phiếu tuyến tính": mỗi dòng gồm nhiều đợt phát hành kế tiếp của cùng một loại trái phiếu trả gốc một lần, với đặc điểm giống hệt nhau (cùng lãi coupon, cùng ngày đáo hạn), nên khối lượng mỗi dòng lớn và dễ mua bán. Cải cách này có hai hệ quả: thanh khoản và hiệu quả thị trường thứ cấp tăng vọt, thu hút nhà đầu tư nước ngoài (một cú sốc cầu dương); và cơ cấu sở hữu nợ nằm ngoài tầm lựa chọn của chính phủ, vì ai mua trên thị trường là do thị trường quyết. Trong Đại Suy thoái 2008, nợ của cả hai nước tăng mạnh mà cơ cấu không đổi nhiều, gợi ý rằng đổi mới tài chính đã làm cơ cấu nợ bền bỉ hơn.
+
+**Đại Suy thoái 2008** (trung vị):
+
+| Chỉ tiêu | Đầu | Cuối | Thay đổi |
+|---|---|---|---|
+| Nợ/GDP | 41 | 70 | +18 |
+| Ngân hàng trung ương | 1 | 4 | +1 |
+| Ngân hàng thương mại | 10 | 16 | +3 |
+| Người không cư trú | 45 | 49 | +4 |
+| Phi ngân hàng trong nước | 33 | 28 | |
+
+Không có thay đổi rõ về kỳ hạn, đồng tiền hay tính giao dịch được; chỉ có sở hữu dịch chuyển về phía hệ thống ngân hàng và ngân hàng trung ương. Cung nợ tăng do thâm hụt ngân sách phình ra và chi phí hỗ trợ ngân hàng, và được đáp ứng một phần bởi cầu từ các ngân hàng trung ương mua nợ chính phủ nước mình trên thị trường thứ cấp, nhằm khôi phục truyền dẫn chính sách tiền tệ và thực hiện nới lỏng định lượng. Bài gọi đây là "sự trùng hợp lợi ích bất thường" giữa chính phủ và ngân hàng trung ương, giải thích bằng điều kiện thị trường tài chính khác thường. Hiện tượng "chạy về nơi an toàn" giữ cho cầu của ngân hàng thương mại và người không cư trú ở mức cao dù lợi suất rất thấp. Anh là nước có tỷ trọng khu vực phi ngân hàng trong nước giảm mạnh nhất, 33 điểm phần trăm.
+
+Có ba lưu ý. Ở các nước khủng hoảng trong khu vực euro (Síp, Hy Lạp, Ireland, Bồ Đào Nha), số liệu về dòng phát hành mới cho thấy dịch chuyển rõ sang kỳ hạn ngắn và phát hành bằng ngoại tệ, tức đúng mẫu hình cũ. Nợ mà Ngân hàng Trung ương châu Âu (ECB) mua theo Chương trình Thị trường Chứng khoán bị xếp vào nhóm do người không cư trú nắm, dù bản chất gần với nợ do ngân hàng trung ương nắm hơn. Và Nhật có tỷ trọng người cư trú nắm giữ rất cao, nhưng kết luận rằng nhà đầu tư Nhật thiên lệch về trong nước là vội vàng, vì khu vực tư nhân Nhật nắm tài sản ròng rất lớn và chỉ một phần trong đó được đầu tư trong nước.
+
+**Các đợt giảm nợ.** Bài tìm thấy hai chiến lược khác nhau qua các thời kỳ.
+
+*Củng cố sau Thế chiến I: trở về chính thống* (trung vị, không tính Đức):
+
+| Chỉ tiêu | Đầu | Cuối | Thay đổi |
+|---|---|---|---|
+| Nợ/GDP | 104 | 52 | |
+| MLT nội tệ | 55 | 58 | +7 |
+| ST nội tệ | 22 | 10 | −8 |
+| Ngoại tệ | 18 | 31 | +2 |
+
+Tỷ trọng MLT tăng đổi lấy ST giảm, tức các nước kéo dài lại kỳ hạn. Nợ ngoại tệ vẫn nhích lên do các khoản vay từ Mỹ để tài trợ cứu trợ và tái thiết. Các trường hợp riêng:
+
+- **Đức** là ngoại lệ cực đoan: trong giai đoạn 1919–23, nợ/GDP đi từ 100 xuống 0, tỷ trọng MLT nội tệ từ 52 xuống 1, ST nội tệ từ 48 lên 99. Siêu lạm phát đã xoá sạch nợ.
+- **Anh** đi ngược dòng: nợ/GDP tiếp tục tăng đầu thập niên 1920 do lãi suất thực rất cao trong giai đoạn giảm phát giá cả, và ở quanh mức đỉnh suốt thập niên 1930.
+- **Ý** thực hiện hai lần "chuyển đổi cưỡng bức" (conversione forzosa) vào năm 1926 và 1934, buộc người nắm nợ ngắn hạn đổi sang nợ dài hạn. Việc này kéo dài được kỳ hạn nhưng với cái giá uy tín rất lớn: trong 10–15 năm sau đó, chính phủ vay ngắn hạn cực khó và cực đắt.
+- **Pháp** thoát siêu lạm phát năm 1926 nhờ chương trình ổn định Poincaré: các biện pháp thuế, bổ nhiệm thống đốc ngân hàng trung ương độc lập, và lập "Caisse d'Amortissement", cơ quan quản lý nợ công với trọng tâm là kéo dài hồ sơ kỳ hạn.
+
+*Sau Đại Suy thoái 1930: áp chế tài chính xuất hiện lần đầu.* Nợ ngoại tệ giảm khi nợ chiến tranh cũ đáo hạn hoặc được xoá, và phần lớn được thay bằng nợ ngắn hạn nội tệ (ngân hàng nổi lên làm nguồn tài trợ) chứ không phải bằng MLT. Tỷ trọng nợ giao dịch được, loại nợ khó bị thổi bay bằng lạm phát hoặc khó bị vỡ nợ kỹ thuật bằng cách đổi điều khoản hợp đồng, giảm xuống: ở Ý giảm 16 điểm, ở Anh giảm 4 điểm. Tỷ trọng người không cư trú cũng giảm.
+
+*Sau Thế chiến II: hai nhóm, hai con đường.* Bối cảnh chung là lãi suất thực thấp, thường âm, và tăng trưởng mạnh. Lãi suất thực âm là kết quả của lạm phát cao đều đặn cộng với áp chế tài chính. Lãi thực âm tác động theo hai chiều: phía cung, nó giúp kéo giá trị thực của nợ xuống; phía cầu, nó làm nhà đầu tư tự nguyện ngại cầm nợ chính phủ, và càng ngại với kỳ hạn càng dài.
+
+| Chỉ tiêu (trung vị) | Nhóm 1: Canada, Pháp, Ý, Nhật, Mỹ | Nhóm 2: Úc, Bỉ, Tây Ban Nha, Anh, Hà Lan, Thuỵ Điển |
+|---|---|---|
+| Lạm phát bình quân | 62% (Ý 118%, Nhật 158%) | 10% |
+| Nợ/GDP | 235 → 26 (−152) | 177 → 32 (−145) |
+| MLT nội tệ | 61 → 42 (−19) | 58 → 79 (+20) |
+| Ngân hàng trung ương nắm giữ | 21 → 31 (+9) | 18 → 14 (−2) |
+| Giao dịch được | 69 → 44 (−24) | 84 → 62 (−26) |
+
+Nhóm 1 giảm nợ nhiều hơn nhưng dùng lạm phát đậm hơn, và cái giá không nhỏ: lệ thuộc nhiều hơn vào các can thiệp phi thị trường gây méo mó để tạo ra cầu (cưỡng bức) cho nợ; kỳ hạn ngắn lại, phản ánh cầu tự nguyện với giấy dài hạn giảm đi; và thêm chi phí phúc lợi của lạm phát (Fischer 1981, 1994; Lucas), làm cho phép tính lợi ích ròng càng phức tạp. Tuy nhiên bài kết luận rằng mức dung thứ lạm phát cao hơn ở Nhóm 1 phản ánh sắp xếp thể chế về phối hợp tài khoá–tiền tệ và các lựa chọn tiền tệ rộng hơn, **không** chủ yếu do mục tiêu giảm nợ một cách minh thị.
+
+*Đại Ổn định (giữa thập niên 1980 tới 2007): cũng dị biệt, nhưng vì lý do khác.* Bình quân: nợ/GDP từ 74 xuống 43 (−31); MLT nội tệ từ 69 lên 82 (+12); ngân hàng trung ương từ 6 xuống 3 (−3); ngân hàng thương mại từ 18 xuống 12 (−5); người không cư trú từ 22 lên 45. Nợ giảm chậm hơn so với sau Thế chiến II vì các nước nhìn chung tránh áp chế tài chính, và chênh lệch giữa lãi suất và tăng trưởng kém thuận lợi hơn. Các nước chia thành ba nhóm:
+
+| Nước | Diễn biến |
+|---|---|
+| Úc, Bỉ, Ireland, Ý, Tây Ban Nha, Thuỵ Điển | Nỗ lực củng cố tài khoá tạo hiệu ứng niềm tin tích cực trên thị trường, nên MLT nội tệ tăng mạnh, ngày càng do người không cư trú nắm |
+| Canada, Mỹ | MLT gần như không đổi; Canada là nước duy nhất có tỷ trọng người không cư trú giảm |
+| Hà Lan, Anh | MLT nội tệ giảm. Hồ sơ kỳ hạn vốn đã rất dài và hiệu ứng niềm tin kém rõ hơn, nên việc rút ngắn chủ yếu đến từ phía cung, có thể do nghiệp vụ quản lý nợ chủ động |
+
+Ở cả hai giai đoạn giảm nợ gần đây, tỷ trọng ngân hàng trung ương nắm giữ đều giảm, khớp với các cải cách tiền tệ. Tóm lại, sau Thế chiến II các nhóm khác nhau vì mức dung thứ lạm phát; trong Đại Ổn định chúng khác nhau vì hiệu ứng niềm tin chứ không phải vì lạm phát.
 
 ### 5. Hàm ý cho triển vọng giảm nợ hôm nay
 
-- Áp chế tài chính khó lặp lại vì cơ cấu nợ hiện nay đã khác hẳn: nhiều người không cư trú, phần lớn giao dịch được, và việc ép ngân hàng ôm nợ chính phủ tạo vòng xoáy phản hồi âm cùng vấn đề arbitrage quy định xuyên biên giới.
-- Lạm phát bất ngờ vướng ba vấn đề: gần như bất khả thi trong chế độ chính sách hiện hành, có chi phí kinh tế thực đáng kể dù chọn lạm phát cao lâu dài hay giảm phát về sau, và để lại chi phí ẩn dưới dạng cơ cấu nợ rủi ro hơn kéo dài nhiều năm.
-- Nhìn rộng hơn, mọi chính sách khiến ngân hàng trung ương nắm nhiều nợ chính phủ đều có thể gây tổn hại cho cơ cấu nợ, như Ý và Mỹ sau thập niên 1970 minh hoạ.
+Cơ cấu nợ hiện nay khác hẳn thời điểm cuối Thế chiến II (theo % tổng nợ, trừ dòng nợ/GDP):
+
+| Chỉ tiêu | Cuối Thế chiến II | Cuối Đại Suy thoái 2008 |
+|---|---|---|
+| Nợ/GDP | 172 | 98 |
+| Giao dịch được | 71 | 81 |
+| MLT nội tệ | 69 | 83 |
+| ST nội tệ | 30 | 17 |
+| Ngân hàng trung ương | 12 | 9 |
+| Ngân hàng thương mại | 34 | 12 |
+| Người không cư trú | 3 | 36 |
+| Phi ngân hàng trong nước | 51 | 44 |
+
+**Lối tắt thứ nhất, áp chế tài chính, không còn khả thi.** Chiến lược thanh lý nợ ngày xưa dựa vào ba điều kiện: người nắm giữ trong nước bị trói, cầm công cụ không giao dịch được; có kiểm soát vốn; và thiếu cơ hội đầu tư thay thế (điều vẫn thấy ở một số nước mới nổi). Các điều kiện đó không còn: 36% nợ do người không cư trú nắm (so với 3% cuối Thế chiến II) và 81% nợ là giao dịch được. Nhà đầu tư nước ngoài và nhà đầu tư cầm giấy giao dịch được có thể bán ra và đi nơi khác. Còn việc dùng quy định để ép ngân hàng ôm nợ chính phủ cũng không ổn, vì ba lẽ:
+
+- Nó không giảm được gánh nợ trừ khi kéo được lãi suất thực xuống, mà điều đó lại cần lạm phát bất ngờ.
+- Như đã thấy trong khủng hoảng khu vực euro, nếu nợ chính phủ mang phần bù rủi ro thì ngân hàng ôm nhiều nợ chính phủ nước mình sẽ tăng phơi nhiễm với vòng xoáy phản hồi âm giữa chính phủ và ngân hàng: chính phủ gặp khó làm trái phiếu mất giá, ngân hàng thua lỗ, chính phủ phải cứu ngân hàng và nợ càng tăng.
+- Các định chế tài chính hiện đại mang tính toàn cầu và có dư địa arbitrage quy định (chuyển hoạt động sang nơi quy định lỏng hơn), nên muốn ép thì phải phối hợp quản lý xuyên biên giới.
+
+**Lối tắt thứ hai, lạm phát bất ngờ, vướng ba vấn đề không nhỏ.** Tiền đề là phần lớn nợ hiện nay là nợ nội tệ trung–dài hạn và kỳ vọng lạm phát được neo tốt, nên về kỹ thuật một cú lạm phát bất ngờ **sẽ** làm giảm giá trị thực của nợ. Nhưng:
+
+1. Điều này gần như bất khả thi trong chế độ chính sách được chấp nhận toàn cầu hiện nay, với tài khoản vốn mở và ổn định giá cả làm neo tiền tệ. Dù có những đợt đảo chiều ngắn của toàn cầu hoá tài chính và dù vài nước đang lo giảm phát, các chế độ nền tảng này vẫn ổn định.
+2. Lạm phát không phải bữa trưa miễn phí: hoặc chấp nhận lạm phát cao vĩnh viễn với chi phí trực tiếp lên hiệu quả kinh tế và đầu tư, hoặc muốn quay về lạm phát thấp thì phải chịu một quá trình giảm phát đau đớn không tránh khỏi (Fischer 1994; Bordo và Orphanides 2013).
+3. Có một chi phí ẩn kéo dài: nước đó rời bỏ một cơ cấu nợ ít rủi ro. Nhìn lại giai đoạn sau Thế chiến II, các nước có tỷ trọng MLT nội tệ giảm đều có lạm phát bình quân cao hơn, Ý và Nhật thậm chí rơi vào siêu lạm phát. Hiện tượng tương tự lặp lại trong biến động kinh tế thập niên 1970. Một khi đã rơi lại vào tình trạng "tội tổ tông", việc quay về cơ cấu ít rủi ro (dài hạn, nội tệ, lãi cố định) có thể mất nhiều năm sau khi lạm phát đã hạ. Bài nhấn mạnh bằng chứng này là sơ bộ và không hàm ý quan hệ nhân quả.
+
+**Quan hệ giữa kỳ hạn và sở hữu của ngân hàng trung ương qua ba thời kỳ.** Nhìn rộng hơn, mọi chính sách khiến ngân hàng trung ương nắm nhiều nợ chính phủ đều có thể gây hại cho cơ cấu nợ:
+
+| Thời kỳ | Quan hệ giữa tỷ trọng MLT nội tệ và tỷ trọng ngân hàng trung ương nắm giữ |
+|---|---|
+| Tới Đại Suy thoái 1930 | Đi cùng chiều, vì ngân hàng trung ương gần như đứng ngoài thị trường nợ chính phủ |
+| Cuối thập niên 1930 tới 1990 | Quan hệ nghịch mạnh, khi ngân hàng trung ương bắt đầu ôm nhiều nợ chính phủ: ngân hàng trung ương nắm càng nhiều thì kỳ hạn càng ngắn |
+| Từ 1990 | Sở hữu của ngân hàng trung ương xuống mức thấp nhất (theo tỷ trọng tổng nợ) kể từ 1938, nhờ cải cách thể chế: cấm tài trợ tiền tệ cho thâm hụt ngân sách và củng cố độc lập của ngân hàng trung ương. Quan hệ dương quay trở lại |
+
+Kết luận của bài: cú vọt sở hữu của ngân hàng trung ương gần đây chưa gây tác hại vĩnh viễn lên hồ sơ kỳ hạn của nợ chính phủ, nhưng sẽ là liều lĩnh nếu cho rằng điều đó sẽ tiếp diễn trong tương lai.
+
+**Ý và Mỹ, 1964–2000: chuyện hai nước.**
+
+- **Ý:** đầu thập niên 1970, lạm phát vọt lên, đi cùng với tỷ trọng ngân hàng trung ương nắm nợ tăng. Năm 1976, tỷ trọng này đạt đỉnh sau Thế chiến II, và cũng chính năm này diễn ra cuộc "ly hôn" giữa ngân hàng trung ương và kho bạc (ngân hàng trung ương thôi bị buộc mua phần trái phiếu không bán được). Dù tỷ trọng ngân hàng trung ương sau đó giảm, quá trình điều chỉnh để lạm phát hạ kéo dài và khá đau đớn. Tỷ trọng gộp của nợ ngắn hạn nội tệ và nợ dài hạn lãi thả nổi, hai công cụ bảo vệ nhà đầu tư trước cú sốc lạm phát, còn mất nhiều thời gian hơn nữa mới giảm. Lạm phát chỉ xuống dưới 5% vào cuối thập niên 1980, và cơ cấu nợ chỉ thay đổi rõ vào giữa thập niên 1990.
+- **Mỹ:** câu chuyện tương tự, dù Mỹ có lịch sử quản lý nợ thận trọng hơn và môi trường vĩ mô ít biến động hơn. Sở hữu của ngân hàng trung ương tăng chậm hơn và đỉnh thấp hơn, 16,3% năm 1973, nhưng vẫn gần gấp đôi bình quân lịch sử 8,4%. Tỷ trọng này giảm từ 1974, nhưng lạm phát chỉ xuống mức một con số thấp vào năm 1983, và nợ ngắn hạn nội tệ chỉ giảm bền từ giữa thập niên 1980.
+
+Cả hai trường hợp cho thấy chi phí của lạm phát và tài trợ bằng ngân hàng trung ương kéo dài hơn nhiều so với chính đợt lạm phát.
 
 ### 6. Kết luận
 
-- Chính phủ từng dùng hai bộ chiến lược khi giảm nợ; bộ thứ hai có thể hạ khối nợ nhưng áp thêm chi phí dưới dạng cơ cấu nợ rủi ro hơn.
-- Thay đổi cơ cấu trong Đại Suy thoái 2008 là nhỏ so với các đợt trước, nhưng còn quá sớm để kết luận cơ cấu nợ đã bền bỉ hơn.
-- Việc ngân hàng trung ương nắm nhiều nợ hơn là sản phẩm phụ của chống giảm phát, không phải công cụ bền vững tài khoá. Thách thức tài khoá hiện nay mang tính cơ cấu, nên chỉ có năng lực xử lý các yếu tố đó một cách bền vững mới neo được độ bền của các đợt giảm nợ đang diễn ra.
-- Hướng nghiên cứu tiếp gồm mở rộng mẫu, phân tích kinh tế lượng có hệ thống, nghiên cứu trường hợp, và đặc biệt là mối liên hệ giữa cơ cấu nợ và khủng hoảng tài chính sau đó.
+Lịch sử cho thấy các chính phủ đã dùng hai bộ chiến lược khi giảm nợ:
+
+| Bộ 1: chính thống | Bộ 2: phi chính thống |
+|---|---|
+| Tăng tỷ trọng công cụ giao dịch được | Tăng tỷ trọng nợ không giao dịch được |
+| Tăng tỷ trọng người không cư trú (và/hoặc nợ ngoại tệ) | Tăng sở hữu của cơ sở nhà đầu tư trong nước bị trói buộc |
+| Kéo dài kỳ hạn | Rút ngắn kỳ hạn |
+| | Lạm phát cao hơn, vai trò ngân hàng trung ương đậm hơn |
+
+Phán quyết của bài: Bộ 2 có thể thành công trong việc hạ khối nợ, nhưng áp thêm chi phí, gồm một cơ cấu nợ rủi ro hơn và các rủi ro tài khoá đi kèm.
+
+Thay đổi cơ cấu trong Đại Suy thoái 2008 là nhỏ so với các đợt trước, nhưng còn quá sớm để kết luận rằng cơ cấu nợ đã "bền bỉ hơn", vì ba ẩn số:
+
+1. Bất định về hệ quả của việc bình thường hoá lãi suất dài hạn.
+2. Môi trường quản lý ngân hàng còn đang thay đổi, có thể theo hướng ít hỗ trợ cầu lớn của ngân hàng với nợ chính phủ.
+3. Nhìn chung không còn mấy khẩu vị để đẩy tiếp quá trình đổi mới và toàn cầu hoá tài chính, chính là những thứ đã tạo ra cú sốc cầu thuận lợi thời Đại Ổn định. Vì vậy không nên trông chờ một cú sốc cầu như thập niên 1980–1990 lặp lại.
+
+**Cảnh báo trung tâm về sở hữu của ngân hàng trung ương.** Cú tăng gần đây ở Nhật, Anh và Mỹ là sản phẩm phụ của việc các ngân hàng trung ương độc lập chống giảm phát nghiêm trọng, không phải để giúp bảo đảm bền vững tài khoá. Do đó chính phủ sẽ rất dại nếu trông cậy vào khẩu vị tiếp tục của ngân hàng trung ương với giấy tờ chính phủ, một khi kinh tế cải thiện và ngân hàng trung ương cần xả bớt chứng khoán khỏi bảng cân đối đã phình to. Lý do sâu xa: thách thức tài khoá hôm nay không đến từ các yếu tố tạm thời tự tan (như chi tiêu quân sự thời chiến hay suy giảm chu kỳ), mà từ chi tiêu cơ cấu tăng, bảng cân đối căng thẳng và triển vọng tăng trưởng dài hạn bất lợi. Trông cậy vào thay đổi cơ cấu nợ thuận lợi hoặc vào chính sách phi chính thống sẽ thu lại ít, thậm chí phản tác dụng. Chỉ có năng lực xử lý các yếu tố cơ cấu đó một cách bền vững mới neo được độ bền của các đợt giảm nợ đang diễn ra.
+
+**Hướng nghiên cứu tiếp:**
+
+- Mở rộng sang các nước đang phát triển và các nước phát triển bị ảnh hưởng nặng mà bài phải loại vì thiếu dữ liệu dài.
+- Phân tích thống kê và kinh tế lượng có hệ thống về liên hệ giữa cơ cấu nợ và các yếu tố cung–cầu, gồm cả lợi suất.
+- Nghiên cứu trường hợp từng nước và từng đợt.
+- Hứa hẹn nhất: mối liên hệ giữa cơ cấu nợ và khủng hoảng tài chính sau đó. Phân tích ban đầu trên chính dữ liệu của bài gợi ý rằng các thay đổi làm tăng phơi nhiễm với rủi ro khủng hoảng, như rút ngắn kỳ hạn, quả thật có thể dẫn tới khủng hoảng.
 
 ## Thuật ngữ
 
