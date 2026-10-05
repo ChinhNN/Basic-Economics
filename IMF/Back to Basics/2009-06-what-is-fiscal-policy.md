@@ -212,33 +212,161 @@
 2. Chính phủ ứng phó khủng hoảng bằng những kênh nào?
 3. Làm sao tinh chỉnh kích thích và quản lý nợ công tăng?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Chính sách tài khoá (fiscal policy).** Cách nhà nước dùng chi tiêu và thuế để tác động tới nền kinh tế. Chính sách tài khoá mở rộng ("nới lỏng") là tăng chi tiêu hoặc giảm thuế để tăng tổng cầu; thắt chặt ("siết") là làm ngược lại. Ví dụ minh hoạ: nhà nước chi thêm 10 tỷ USD xây đường trong năm suy thoái là một biện pháp mở rộng. Đây là khái niệm trung tâm của bài.
+
+**Phương trình GDP = C + I + G + NX.** GDP (giá trị mọi hàng hoá, dịch vụ cuối cùng một nước sản xuất) bằng tổng các nguồn chi tiêu mua số hàng đó: tiêu dùng tư nhân (C), đầu tư tư nhân (I), mua sắm của chính phủ (G) và xuất khẩu ròng, tức xuất khẩu trừ nhập khẩu (NX). Ví dụ minh hoạ: C = 600, I = 200, G = 150, NX = 50 thì GDP = 1.000 (đơn vị tuỳ chọn). Phương trình cho thấy nhà nước điều khiển trực tiếp G và tác động gián tiếp tới C, I, NX qua thuế, chuyển khoản và chi tiêu.
+
+**Bộ ổn định tự động (automatic stabilizers).** Những khoản thu và chi của nhà nước tự động thay đổi theo tình hình kinh tế mà không cần ra quyết định mới. Ví dụ: khi suy thoái, thu nhập và lợi nhuận giảm nên số thuế thu được tự giảm, còn số người nhận trợ cấp thất nghiệp tự tăng; cả hai đều để lại nhiều tiền hơn trong tay dân. Minh hoạ bằng số: nếu thuế thu nhập là 20% và thu nhập của một người giảm 1.000 USD, số thuế người đó nộp tự giảm 200 USD. Đây là kênh thứ nhất trong hai kênh ứng phó khủng hoảng.
+
+**Kích thích tài khoá và biện pháp tuỳ nghi (fiscal stimulus, discretionary measures).** Kích thích tài khoá là các quyết định chủ động mới của nhà nước, như chi thêm tiền hoặc cắt thuế, để thúc đẩy kinh tế. "Tuỳ nghi" nghĩa là phải có người quyết định và có thể điều chỉnh, khác với bộ ổn định tự động. Nhược điểm chính là độ trễ thực hiện: thiết kế, phê duyệt, rồi mới thực hiện, ví dụ một dự án đường mới có thể mất nhiều tháng tới vài năm trước khi tiền thật sự được chi. Đây là kênh thứ hai.
+
+**Dư địa tài khoá (fiscal space) và chèn lấn (crowding out).** Dư địa tài khoá là khả năng của nhà nước để chi thêm hoặc giảm thuế: vay thêm được với chi phí hợp lý, hoặc cắt bớt khoản chi khác để dồn sang. Chèn lấn là khi nhà nước vay và chi quá nhiều, lấy mất nguồn vốn mà khu vực tư nhân lẽ ra dùng, ví dụ đẩy lãi suất lên khiến doanh nghiệp vay ít đi. Bài cho rằng mức ứng phó rốt cuộc phụ thuộc vào dư địa tài khoá.
+
+**Chênh lệch sản lượng (output gap).** Khoảng cách giữa sản lượng thực tế dự kiến và sản lượng mà nền kinh tế làm ra được nếu dùng hết công suất (hết lao động, máy móc sẵn có). Ví dụ minh hoạ: nếu hết công suất nền kinh tế làm được 1.000 nhưng năm nay dự kiến chỉ làm 960, chênh lệch sản lượng là 40, tức 4%. Nhà hoạch định dùng con số này để quyết định gói kích thích lớn bao nhiêu.
+
+**Số nhân tài khoá (multiplier) và rò rỉ (leakage).** Số nhân cho biết mỗi đồng kích thích tạo ra bao nhiêu đồng sản lượng. Rò rỉ là phần tiền kích thích không quay lại thành cầu trong nước, vì bị để dành hoặc chi cho hàng nhập khẩu. Ví dụ minh hoạ: nhà nước chi 100; nếu GDP tăng 150 thì số nhân là 1,5; nếu một nửa số tiền người dân nhận được dùng mua hàng nhập khẩu thì số nhân sẽ nhỏ hơn. Bài dùng số nhân để giải thích vì sao thiết kế gói kích thích quan trọng.
+
+**Thuế luỹ tiến (progressive tax).** Hệ thống thuế mà người thu nhập cao nộp theo tỷ lệ cao hơn người thu nhập thấp. Ví dụ minh hoạ: thu nhập dưới 10.000 USD chịu 5%, phần trên 10.000 USD chịu 25%. Khi thu nhập giảm trong suy thoái, số thuế giảm nhanh hơn thu nhập, nên thuế luỹ tiến làm bộ ổn định tự động mạnh hơn. Bài nêu đây là một cách tăng cường bộ ổn định.
+
+## Nội dung chi tiết
 
 ### 1. Bối cảnh và cơ chế
 
-- Chính sách tài khoá là việc dùng chi tiêu chính phủ và thuế để tác động đến nền kinh tế. Các chính phủ thường dùng chính sách tài khoá để thúc đẩy tăng trưởng mạnh và bền vững cùng giảm nghèo. Vai trò và mục tiêu của chính sách tài khoá đã nổi bật lên trong cuộc khủng hoảng hiện tại khi các chính phủ vào cuộc để hỗ trợ hệ thống tài chính, khởi động tăng trưởng, và giảm nhẹ tác động của khủng hoảng lên các nhóm dễ tổn thương. Trong thông cáo sau hội nghị thượng đỉnh London tháng Tư, các lãnh đạo của Nhóm Hai mươi nước công nghiệp và thị trường mới nổi tuyên bố rằng họ đang thực hiện "sự mở rộng tài khoá chưa từng có và phối hợp". Họ có ý gì khi nói mở rộng tài khoá? Và, tổng quát hơn, các công cụ tài khoá có thể thúc đẩy nền kinh tế thế giới như thế nào?
-- Về mặt lịch sử, sự nổi bật của chính sách tài khoá như một công cụ chính sách đã thăng trầm. Trước năm 1930, một cách tiếp cận chính phủ hạn chế, hay laissez-faire, thịnh hành. Với vụ sụp đổ thị trường chứng khoán và Đại Khủng hoảng, các nhà hoạch định thúc đẩy các chính phủ đóng một vai trò chủ động hơn. Gần đây hơn, các nước đã thu hẹp quy mô và chức năng của chính phủ, với thị trường đảm nhận một vai trò lớn hơn trong việc phân bổ hàng hoá và dịch vụ. Nay, với cuộc khủng hoảng tài chính đang ở đỉnh, một chính sách tài khoá chủ động hơn lại được ưa chuộng.
-- Khi các nhà hoạch định tìm cách tác động đến nền kinh tế, họ có hai công cụ chính trong tay: chính sách tiền tệ và chính sách tài khoá. Các ngân hàng trung ương gián tiếp nhắm vào hoạt động bằng cách tác động đến cung tiền qua điều chỉnh lãi suất, dự trữ bắt buộc của ngân hàng, và việc mua bán chứng khoán chính phủ cùng ngoại hối; các chính phủ tác động đến nền kinh tế bằng cách thay đổi mức và loại thuế, phạm vi và thành phần chi tiêu, và mức độ cùng hình thức vay nợ.
-- Các chính phủ tác động trực tiếp và gián tiếp đến cách các nguồn lực được sử dụng trong nền kinh tế. Phương trình cơ bản của hạch toán thu nhập quốc dân giúp cho thấy điều này diễn ra thế nào: GDP = C + I + G + NX. Ở vế trái là tổng sản phẩm quốc nội (GDP), giá trị của mọi hàng hoá và dịch vụ cuối cùng được sản xuất trong nền kinh tế. Ở vế phải là các nguồn của chi tiêu hay cầu tổng hợp: tiêu dùng tư nhân (C), đầu tư tư nhân (I), mua sắm hàng hoá và dịch vụ của chính phủ (G), và xuất khẩu trừ nhập khẩu (xuất khẩu ròng, NX). Phương trình này làm rõ rằng các chính phủ tác động đến hoạt động kinh tế (GDP), kiểm soát G trực tiếp và tác động đến C, I và NX gián tiếp, qua các thay đổi về thuế, chuyển khoản và chi tiêu. Chính sách tài khoá làm tăng tổng cầu trực tiếp qua việc tăng chi tiêu chính phủ thường được gọi là mở rộng hay "nới lỏng". Ngược lại, chính sách tài khoá thường được coi là thắt chặt hay "siết" nếu nó giảm cầu qua chi tiêu thấp hơn.
-- Ngoài việc cung cấp hàng hoá và dịch vụ, các mục tiêu của chính sách tài khoá khác nhau. Trong ngắn hạn, các chính phủ có thể tập trung vào ổn định hoá vĩ mô, chẳng hạn kích thích một nền kinh tế ốm yếu, chống lạm phát đang tăng, hay giúp giảm các điểm yếu bên ngoài. Trong dài hạn, mục tiêu có thể là nuôi dưỡng tăng trưởng bền vững hay giảm nghèo với các hành động ở phía cung nhằm cải thiện hạ tầng hay giáo dục. Dù các mục tiêu này được chia sẻ rộng rãi giữa các nước, tầm quan trọng tương đối của chúng khác nhau tuỳ hoàn cảnh nước đó. Trong ngắn hạn, các ưu tiên có thể phản ánh chu kỳ kinh doanh hay việc ứng phó một thảm hoạ tự nhiên; trong dài hạn, các động lực có thể là mức phát triển, nhân khẩu học, hay tài nguyên thiên nhiên. Mong muốn giảm nghèo có thể khiến một nước thu nhập thấp nghiêng chi tiêu về y tế cơ sở, trong khi ở một nền kinh tế tiên tiến, cải cách hưu trí có thể nhắm vào các chi phí dài hạn sắp tới liên quan đến dân số già hoá. Ở một nước sản xuất dầu, chính sách tài khoá có thể nhằm điều tiết chi tiêu thuận chu kỳ, kìm hãm cả các đợt bùng nổ khi giá dầu tăng lẫn các đợt cắt giảm đau đớn khi chúng rơi.
+**Định nghĩa và vì sao nó nổi bật lúc này.** Chính sách tài khoá là việc nhà nước dùng chi tiêu và thuế để tác động tới nền kinh tế. Thông thường, các chính phủ dùng nó để thúc đẩy tăng trưởng mạnh, bền vững và để giảm nghèo. Trong cuộc khủng hoảng tài chính đang diễn ra khi bài được viết (giữa năm 2009), vai trò của nó nổi bật hẳn lên, vì các chính phủ phải cùng lúc làm ba việc:
+
+- hỗ trợ hệ thống tài chính;
+- khởi động lại tăng trưởng;
+- giảm tác động của khủng hoảng lên các nhóm dễ tổn thương.
+
+Sau hội nghị thượng đỉnh London tháng 4, lãnh đạo G20 (Nhóm Hai mươi nước công nghiệp và thị trường mới nổi) tuyên bố họ đang thực hiện "sự mở rộng tài khoá chưa từng có và phối hợp". Bài đặt hai câu hỏi: mở rộng tài khoá nghĩa là gì, và nói rộng hơn, các công cụ tài khoá có thể thúc đẩy kinh tế thế giới như thế nào?
+
+**Lịch sử thăng trầm.** Vai trò của chính sách tài khoá như một công cụ chính sách đã lên xuống theo thời gian:
+
+| Giai đoạn | Quan điểm chủ đạo |
+|---|---|
+| Trước năm 1930 | Nhà nước hạn chế can thiệp, để thị trường tự vận hành (laissez-faire) |
+| Sau sụp đổ thị trường chứng khoán và Đại Khủng hoảng | Nhà hoạch định thúc đẩy nhà nước đóng vai trò chủ động hơn |
+| Gần đây hơn | Các nước thu hẹp quy mô và chức năng của nhà nước, thị trường đảm nhận phần lớn hơn trong việc phân bổ hàng hoá, dịch vụ |
+| Hiện nay, khi khủng hoảng tài chính ở đỉnh | Chính sách tài khoá chủ động lại được ưa chuộng |
+
+**Hai công cụ của nhà hoạch định.** Muốn tác động tới nền kinh tế, nhà hoạch định có hai công cụ chính:
+
+| Công cụ | Ai điều hành | Cách tác động |
+|---|---|---|
+| Chính sách tiền tệ | Ngân hàng trung ương | Gián tiếp, qua cung tiền: điều chỉnh lãi suất, dự trữ bắt buộc của ngân hàng, mua bán chứng khoán chính phủ và ngoại tệ |
+| Chính sách tài khoá | Chính phủ | Thay đổi mức và loại thuế, phạm vi và thành phần chi tiêu, mức độ và hình thức vay nợ |
+
+**Phương trình hạch toán thu nhập quốc dân.** Nhà nước tác động cả trực tiếp lẫn gián tiếp tới cách nguồn lực được sử dụng. Phương trình cơ bản giúp thấy rõ điều đó:
+
+GDP = C + I + G + NX
+
+- Vế trái là GDP, giá trị mọi hàng hoá và dịch vụ cuối cùng được sản xuất trong nền kinh tế.
+- Vế phải là các nguồn chi tiêu, hay tổng cầu: tiêu dùng tư nhân (C), đầu tư tư nhân (I), mua sắm hàng hoá, dịch vụ của chính phủ (G), và xuất khẩu trừ nhập khẩu, tức xuất khẩu ròng (NX).
+
+Phương trình cho thấy nhà nước kiểm soát trực tiếp G, và tác động gián tiếp tới C, I và NX qua thuế, chuyển khoản (những khoản nhà nước trả cho dân mà không đổi lấy hàng hoá, như trợ cấp) và chi tiêu. Ví dụ minh hoạ: giảm thuế thu nhập để lại nhiều tiền hơn cho hộ gia đình, có thể làm C tăng; ưu đãi thuế cho doanh nghiệp đầu tư có thể làm I tăng.
+
+Chính sách tài khoá làm tăng tổng cầu trực tiếp bằng cách tăng chi tiêu nhà nước được gọi là mở rộng hay "nới lỏng". Ngược lại, chính sách làm giảm cầu bằng cách chi tiêu ít hơn được gọi là thắt chặt hay "siết".
+
+**Mục tiêu tuỳ hoàn cảnh.** Ngoài việc cung cấp hàng hoá, dịch vụ công, chính sách tài khoá có các mục tiêu khác nhau theo thời hạn:
+
+- **Ngắn hạn:** ổn định kinh tế vĩ mô, ví dụ kích thích một nền kinh tế đang yếu, chống lạm phát đang tăng, hoặc giảm các điểm yếu trong quan hệ với bên ngoài.
+- **Dài hạn:** nuôi dưỡng tăng trưởng bền vững hoặc giảm nghèo bằng các biện pháp ở phía cung, tức nâng năng lực sản xuất, như cải thiện hạ tầng hay giáo dục.
+
+Các nước đều chia sẻ những mục tiêu này, nhưng tầm quan trọng của từng mục tiêu khác nhau. Trong ngắn hạn, ưu tiên phụ thuộc vào chu kỳ kinh doanh hoặc nhu cầu ứng phó thiên tai. Trong dài hạn, động lực là mức phát triển, nhân khẩu học hay tài nguyên thiên nhiên. Ba ví dụ của bài:
+
+| Loại nước | Ưu tiên tài khoá có thể có |
+|---|---|
+| Nước thu nhập thấp muốn giảm nghèo | Dồn chi tiêu vào y tế cơ sở |
+| Nền kinh tế tiên tiến | Cải cách hưu trí để đối phó chi phí dài hạn sắp tới do dân số già đi |
+| Nước sản xuất dầu | Điều tiết chi tiêu thuận chu kỳ (chi tiêu tăng giảm theo giá dầu): kìm bớt chi tiêu khi giá dầu tăng, để tránh phải cắt giảm đau đớn khi giá dầu rơi |
 
 ### 2. Ứng phó khủng hoảng
 
-- Cuộc khủng hoảng đã có tác động tiêu cực lên các nền kinh tế trên toàn cầu, với các khó khăn của khu vực tài chính và niềm tin suy giảm đánh vào tiêu dùng tư nhân, đầu tư, và thương mại quốc tế (nhớ lại phương trình hạch toán thu nhập quốc dân). Các chính phủ đã ứng phó bằng cách nhắm thúc đẩy hoạt động qua hai kênh: bộ ổn định tự động và kích thích tài khoá, tức chi tiêu tuỳ nghi mới hoặc cắt giảm thuế.
-- Các bộ ổn định có hiệu lực khi nguồn thu thuế và mức chi tiêu thay đổi và không phụ thuộc vào các hành động cụ thể mà vận hành theo quan hệ với chu kỳ kinh doanh. Chẳng hạn, khi sản lượng chậm lại hay giảm, số thuế thu được giảm vì lợi nhuận doanh nghiệp và thu nhập người nộp thuế giảm. Trợ cấp thất nghiệp và chi tiêu xã hội khác cũng được thiết kế để tăng trong một đợt suy giảm. Các thay đổi chu kỳ này khiến chính sách tài khoá tự động mở rộng trong các đợt suy giảm và thắt chặt trong các đợt đi lên.
-- Các bộ ổn định tự động gắn với quy mô của chính phủ, và có xu hướng lớn hơn ở các nền kinh tế tiên tiến. Nơi các bộ ổn định lớn hơn, có thể ít cần kích thích hơn, tức cắt thuế, trợ cấp, hay chương trình công trình công cộng, vì cả hai cách tiếp cận đều giúp làm dịu các tác động của một đợt suy giảm. Thực tế, trong cuộc khủng hoảng hiện tại, các nước có bộ ổn định lớn hơn có xu hướng dùng ít hơn các biện pháp tuỳ nghi. Ngoài ra, dù các biện pháp tuỳ nghi có thể được điều chỉnh theo nhu cầu ổn định hoá, các bộ ổn định tự động không chịu các độ trễ thực hiện (chẳng hạn thiết kế, phê duyệt, và thực hiện các dự án đường mới), và tác động của chúng tự động được rút lại khi điều kiện cải thiện. Kích thích có thể khó thiết kế và thực hiện hiệu quả và khó đảo ngược khi điều kiện khá lên. Tuy nhiên, ở nhiều nước thu nhập thấp và thị trường mới nổi, các hạn chế thể chế và cơ sở thuế hẹp khiến các bộ ổn định tương đối yếu. Ngay cả ở các nước có bộ ổn định lớn hơn, có thể có nhu cầu cấp bách bù đắp cho việc mất hoạt động kinh tế và các lý do thuyết phục để nhắm ứng phó khủng hoảng của chính phủ vào những người cần trực tiếp nhất.
-- Ứng phó chính xác rốt cuộc phụ thuộc vào dư địa tài khoá mà một chính phủ có sẵn cho các sáng kiến chi tiêu mới hay cắt giảm thuế, tức khả năng tiếp cận tài trợ thêm ở chi phí hợp lý hoặc khả năng tái ưu tiên chi tiêu hiện có. Một số chính phủ đã không ở vị thế ứng phó bằng kích thích, vì các chủ nợ tiềm năng của họ tin rằng chi tiêu và vay nợ thêm sẽ gây quá nhiều áp lực lên lạm phát, dự trữ ngoại hối, hay tỷ giá, hoặc lấy quá nhiều nguồn lực từ khu vực tư nhân địa phương (còn gọi là chèn lấn), làm chậm quá trình phục hồi. Với các chính phủ khác, các ràng buộc tài trợ nghiêm trọng hơn đã buộc phải cắt giảm chi tiêu khi nguồn thu giảm (các bộ ổn định đang vận hành). Ở các nước có lạm phát cao hay thâm hụt tài khoản vãng lai bên ngoài, kích thích tài khoá có khả năng không hiệu quả, và thậm chí không đáng mong muốn.
+**Khủng hoảng đánh vào đâu.** Cuộc khủng hoảng đã ảnh hưởng xấu tới kinh tế khắp thế giới. Khó khăn của khu vực tài chính và niềm tin suy giảm đã đánh vào tiêu dùng tư nhân, đầu tư và thương mại quốc tế. Đối chiếu với phương trình GDP = C + I + G + NX: cả C, I và NX đều bị kéo xuống, nên GDP giảm. Các chính phủ ứng phó qua hai kênh: bộ ổn định tự động và kích thích tài khoá (chi tiêu tuỳ nghi mới hoặc cắt thuế).
+
+**Kênh thứ nhất: bộ ổn định tự động.** Bộ ổn định hoạt động thông qua việc thu thuế và chi tiêu thay đổi; chúng không cần một quyết định cụ thể nào mà vận hành theo chu kỳ kinh doanh. Cụ thể:
+
+- Khi sản lượng chậm lại hay giảm, số thuế thu được giảm vì lợi nhuận doanh nghiệp và thu nhập của người nộp thuế giảm.
+- Trợ cấp thất nghiệp và các khoản chi xã hội khác được thiết kế để tăng lên khi kinh tế đi xuống.
+
+Nhờ vậy, chính sách tài khoá tự động mở rộng khi kinh tế suy giảm và tự động thắt chặt khi kinh tế đi lên.
+
+Bài nêu thêm các đặc điểm của bộ ổn định:
+
+- Chúng gắn với quy mô của nhà nước, nên thường lớn hơn ở các nền kinh tế tiên tiến, nơi nhà nước thu và chi nhiều hơn.
+- Nơi bộ ổn định lớn, có thể ít cần kích thích (cắt thuế, trợ cấp, chương trình công trình công cộng), vì cả hai cách đều giúp làm dịu suy giảm. Thực tế trong khủng hoảng hiện tại, các nước có bộ ổn định lớn hơn dùng ít biện pháp tuỳ nghi hơn.
+- Bộ ổn định không bị độ trễ thực hiện, và tác động của chúng tự rút đi khi điều kiện cải thiện (thu nhập tăng thì thuế tự tăng, người có việc làm trở lại thì trợ cấp tự giảm).
+- Ở nhiều nước thu nhập thấp và thị trường mới nổi, hạn chế về thể chế và cơ sở thuế hẹp (ít người và ít hoạt động phải nộp thuế) khiến bộ ổn định tương đối yếu.
+- Ngay cả ở nước có bộ ổn định lớn, vẫn có thể cần bù đắp gấp phần hoạt động kinh tế bị mất, và có lý do thuyết phục để nhắm biện pháp ứng phó vào những người cần nhất.
+
+**Kênh thứ hai: kích thích tài khoá.** Biện pháp tuỳ nghi có ưu điểm là có thể điều chỉnh theo nhu cầu ổn định hoá. Nhưng chúng có ba nhược điểm:
+
+- Chịu độ trễ thực hiện, ví dụ một dự án đường mới phải qua thiết kế, phê duyệt, rồi mới thi công.
+- Khó thiết kế và thực hiện cho hiệu quả.
+- Khó đảo ngược khi điều kiện đã khá lên.
+
+So sánh hai kênh:
+
+| Tiêu chí | Bộ ổn định tự động | Kích thích tài khoá |
+|---|---|---|
+| Cần quyết định mới | Không | Có |
+| Độ trễ thực hiện | Không có | Có (thiết kế, phê duyệt, thực hiện) |
+| Điều chỉnh theo nhu cầu | Không, vận hành theo chu kỳ | Có |
+| Rút lại khi kinh tế khá lên | Tự động | Khó đảo ngược |
+| Quy mô | Lớn ở nền kinh tế tiên tiến, yếu ở nhiều nước thu nhập thấp và mới nổi | Tuỳ dư địa tài khoá |
+
+**Dư địa tài khoá quyết định mức ứng phó.** Rốt cuộc, nhà nước ứng phó được tới đâu phụ thuộc vào dư địa tài khoá: có vay thêm được với chi phí hợp lý không, hoặc có cắt bớt khoản chi khác để dồn sang được không. Bài nêu ba tình huống:
+
+- Một số chính phủ không thể kích thích, vì những người có thể cho họ vay tin rằng chi tiêu và vay nợ thêm sẽ gây áp lực quá lớn lên lạm phát, dự trữ ngoại hối hay tỷ giá, hoặc sẽ lấy quá nhiều nguồn lực của khu vực tư nhân trong nước (chèn lấn), làm chậm phục hồi.
+- Một số chính phủ khác bị ràng buộc tài trợ nặng hơn nữa, tới mức phải cắt chi tiêu khi nguồn thu giảm. Ở đây nguồn thu giảm chính là bộ ổn định tự động đang vận hành.
+- Ở nước có lạm phát cao hoặc thâm hụt tài khoản vãng lai, kích thích tài khoá có thể không hiệu quả, thậm chí không nên làm.
 
 ### 3. Tinh chỉnh ứng phó
 
-- Quy mô, thời điểm, thành phần và thời lượng của kích thích đều quan trọng. Các nhà hoạch định thường nhắm điều chỉnh quy mô các biện pháp kích thích theo ước tính của họ về quy mô chênh lệch sản lượng, tức chênh lệch giữa sản lượng dự kiến và sản lượng sẽ có nếu nền kinh tế hoạt động hết công suất. Một thước đo hiệu quả của kích thích, hay chính xác hơn, mức chuyển hoá của nó thành sản lượng (còn gọi là số nhân), cũng cần thiết.
-- Số nhân có xu hướng lớn hơn nếu có ít rò rỉ hơn (chẳng hạn, chỉ một phần nhỏ của kích thích bị tiết kiệm hay chi cho nhập khẩu), các điều kiện tiền tệ thuận lợi (lãi suất không tăng như hệ quả của việc mở rộng tài khoá), và vị thế tài khoá của nước đó sau kích thích được coi là bền vững. Số nhân có thể nhỏ hoặc thậm chí âm nếu việc mở rộng làm dấy lên lo ngại về bền vững trong tương lai, trong trường hợp đó khu vực tư nhân có khả năng sẽ chống lại can thiệp của chính phủ bằng cách tăng tiết kiệm hay thậm chí chuyển tiền ra nước ngoài, thay vì đầu tư hay tiêu dùng. Số nhân cũng có xu hướng cao hơn với các biện pháp chi tiêu so với cắt thuế hay chuyển khoản và với các nước lớn hơn (trong cả hai trường hợp, vì ít rò rỉ hơn). Về thời điểm, thường mất thời gian để thực hiện các biện pháp chi tiêu, và một khi đã thực hiện chúng có thể không còn cần thiết. Tuy nhiên, nếu đợt suy giảm được dự kiến sẽ kéo dài (như trong cuộc khủng hoảng hiện tại), các lo ngại về độ trễ có thể ít cấp bách hơn. Vì tất cả những lý do này, các biện pháp kích thích nên kịp thời, đúng đối tượng, và tạm thời, được đảo ngược nhanh chóng một khi điều kiện cải thiện.
-- Tương tự, mức phản ứng và phạm vi của các bộ ổn định có thể được nâng cao; chẳng hạn, bằng một hệ thống thuế luỹ tiến hơn, đánh thuế các hộ thu nhập cao ở mức cao hơn các hộ thu nhập thấp. Các khoản chuyển khoản cũng có thể được gắn rõ ràng với các điều kiện kinh tế (chẳng hạn, tỷ lệ thất nghiệp hay các yếu tố kích hoạt khác của thị trường lao động). Ở một số nước, các quy tắc tài khoá nhằm giới hạn tăng trưởng chi tiêu trong thời bùng nổ, khi tăng trưởng nguồn thu, đặc biệt từ tài nguyên thiên nhiên, ở mức cao. Ở nơi khác, các cơ chế rà soát chính thức hay hết hạn ("hoàng hôn") cho các chương trình giúp bảo đảm rằng các sáng kiến mới không sống lâu hơn mục đích ban đầu của chúng. Cuối cùng, các khung trung hạn với phạm vi và đánh giá toàn diện về nguồn thu, chi tiêu, tài sản và nợ, cùng các rủi ro giúp cải thiện việc hoạch định chính sách qua chu kỳ kinh doanh.
+**Quy mô.** Quy mô, thời điểm, thành phần và thời lượng của gói kích thích đều quan trọng. Nhà hoạch định thường điều chỉnh quy mô gói kích thích theo ước tính chênh lệch sản lượng, tức khoảng cách giữa sản lượng dự kiến và sản lượng có được nếu nền kinh tế chạy hết công suất. Họ cũng cần biết kích thích hiệu quả tới đâu, chính xác hơn là mỗi đồng kích thích chuyển thành bao nhiêu sản lượng, gọi là số nhân.
+
+**Số nhân lớn hay nhỏ tuỳ điều kiện.**
+
+| Số nhân lớn hơn khi | Số nhân nhỏ, thậm chí âm khi |
+|---|---|
+| Ít rò rỉ: chỉ một phần nhỏ tiền kích thích bị để dành hay chi cho hàng nhập khẩu | Việc mở rộng làm dấy lên lo ngại về tính bền vững tài khoá trong tương lai |
+| Điều kiện tiền tệ thuận lợi: lãi suất không tăng lên vì mở rộng tài khoá | Khi đó khu vực tư nhân phản ứng ngược lại: tăng tiết kiệm, thậm chí chuyển tiền ra nước ngoài, thay vì đầu tư hay tiêu dùng |
+| Vị thế tài khoá sau kích thích vẫn được coi là bền vững | |
+| Biện pháp là chi tiêu trực tiếp, thay vì cắt thuế hay chuyển khoản (ít rò rỉ hơn) | |
+| Nước lớn hơn (ít rò rỉ ra nhập khẩu hơn) | |
+
+Ví dụ minh hoạ về rò rỉ: nhà nước chuyển cho mỗi hộ 100 USD. Nếu hộ để dành 30 USD và dùng 30 USD mua hàng nhập khẩu, chỉ 40 USD trở thành cầu cho hàng sản xuất trong nước ở vòng đầu. Nếu nhà nước dùng 100 USD đó trực tiếp thuê lao động trong nước sửa đường, phần đi vào cầu trong nước ở vòng đầu lớn hơn nhiều. Đó là lý do bài nói biện pháp chi tiêu có số nhân cao hơn cắt thuế hay chuyển khoản.
+
+**Thời điểm.** Biện pháp chi tiêu thường cần thời gian để thực hiện, và tới khi thực hiện xong thì có thể kinh tế đã không còn cần nữa. Tuy nhiên, nếu suy giảm được dự kiến kéo dài, như trong khủng hoảng hiện tại, thì lo ngại về độ trễ bớt cấp bách.
+
+**Nguyên tắc ba chữ.** Từ tất cả những điều trên, bài kết luận biện pháp kích thích nên:
+
+1. **Kịp thời**, để tác động tới đúng lúc nền kinh tế cần;
+2. **Đúng đối tượng**, nhắm vào nơi tạo hiệu quả lớn nhất và người cần nhất;
+3. **Tạm thời**, được đảo ngược nhanh khi điều kiện cải thiện.
+
+**Tăng cường bộ ổn định tự động.** Tương tự, có thể làm bộ ổn định phản ứng mạnh hơn và bao phủ rộng hơn. Bài nêu các cách:
+
+- **Thuế luỹ tiến hơn:** đánh thuế hộ thu nhập cao ở mức cao hơn hộ thu nhập thấp, để số thuế co giãn mạnh hơn theo thu nhập.
+- **Gắn chuyển khoản với điều kiện kinh tế:** ví dụ tự động tăng trợ cấp khi tỷ lệ thất nghiệp vượt một ngưỡng hoặc khi có các tín hiệu kích hoạt khác từ thị trường lao động.
+- **Quy tắc tài khoá:** ở một số nước, quy tắc giới hạn tốc độ tăng chi tiêu trong thời bùng nổ, khi nguồn thu, nhất là từ tài nguyên thiên nhiên, tăng mạnh.
+- **Cơ chế rà soát hoặc hết hạn ("hoàng hôn"):** chương trình mới tự hết hiệu lực hoặc phải được rà soát chính thức sau một thời gian, để không tồn tại lâu hơn mục đích ban đầu.
+- **Khung trung hạn:** đánh giá đầy đủ nguồn thu, chi tiêu, tài sản, nợ và rủi ro trong nhiều năm, giúp hoạch định chính sách tốt hơn qua cả chu kỳ kinh doanh.
 
 ### 4. Thâm hụt lớn và nợ công tăng
 
-- Thâm hụt tài khoá và tỷ lệ nợ công đã mở rộng mạnh ở nhiều nước với ứng phó tài khoá cho cuộc khủng hoảng. Hỗ trợ và bảo lãnh cho khu vực tài chính và công nghiệp đã làm tăng thêm các lo ngại. Nhiều nước có thể chạy thâm hụt tài khoá vừa phải trong các thời kỳ kéo dài, với thị trường tài chính trong nước và quốc tế cùng các đối tác quốc tế và song phương tin vào khả năng đáp ứng các nghĩa vụ hiện tại và tương lai của họ. Tuy nhiên, các thâm hụt tăng quá lớn và kéo dài quá lâu có thể làm suy yếu niềm tin đó.
-- Nhận thức được các rủi ro này trong cuộc khủng hoảng hiện tại, IMF đang kêu gọi các chính phủ thiết lập một chiến lược chính sách tài khoá bốn mũi nhọn để giúp bảo đảm khả năng thanh toán: kích thích không nên có tác động vĩnh viễn lên thâm hụt; các khung trung hạn nên bao gồm cam kết điều chỉnh tài khoá một khi điều kiện cải thiện; các cải cách cơ cấu nên được xác định và thực hiện để tăng trưởng; và các nước đối mặt với áp lực nhân khẩu học trung và dài hạn nên cam kết vững chắc với các chiến lược rõ ràng cho cải cách y tế và hưu trí.
+Ứng phó tài khoá với khủng hoảng đã khiến thâm hụt ngân sách và tỷ lệ nợ công so với GDP tăng mạnh ở nhiều nước. Các khoản hỗ trợ và bảo lãnh cho khu vực tài chính và công nghiệp (nhà nước cam kết trả thay nếu doanh nghiệp không trả được) càng làm lo ngại tăng thêm.
+
+Nhiều nước có thể duy trì thâm hụt vừa phải trong thời gian dài, chừng nào thị trường tài chính trong nước và quốc tế, cùng các đối tác quốc tế và song phương, còn tin vào khả năng của họ trong việc trả các nghĩa vụ hiện tại và tương lai. Nhưng thâm hụt quá lớn và kéo dài quá lâu có thể làm mất niềm tin đó.
+
+Nhận thức được rủi ro này, IMF kêu gọi các chính phủ xây dựng một chiến lược tài khoá bốn mũi nhọn để bảo đảm khả năng thanh toán:
+
+1. Kích thích không được để lại tác động vĩnh viễn lên thâm hụt, tức các khoản chi và giảm thuế phải thật sự tạm thời.
+2. Khung tài khoá trung hạn phải có cam kết điều chỉnh tài khoá (giảm thâm hụt) khi điều kiện cải thiện.
+3. Cần xác định và thực hiện các cải cách cơ cấu để thúc đẩy tăng trưởng, vì tăng trưởng cao hơn giúp giảm tỷ lệ nợ trên GDP.
+4. Các nước chịu áp lực nhân khẩu học trong trung và dài hạn (dân số già đi) cần cam kết vững chắc với chiến lược rõ ràng để cải cách y tế và hưu trí.
 
 ## Thuật ngữ
 

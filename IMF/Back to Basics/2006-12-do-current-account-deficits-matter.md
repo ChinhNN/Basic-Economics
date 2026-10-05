@@ -164,32 +164,135 @@
 2. Chạy thâm hụt bao lâu thì thành vấn đề?
 3. Vậy rốt cuộc thâm hụt có xấu không?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tài khoản vãng lai (current account).** Bản ghi tổng hợp mọi khoản tiền một nước thu từ nước ngoài và chi ra nước ngoài cho hàng hoá, dịch vụ, thu nhập và chuyển khoản trong một năm. Phần lớn là xuất khẩu trừ nhập khẩu; phần nhỏ còn lại là thu nhập ròng (lãi, cổ tức nhận về trừ trả ra) và chuyển khoản (viện trợ, tiền gửi về). Ví dụ minh hoạ: một nước xuất khẩu 100 tỷ USD, nhập khẩu 110 tỷ USD, nhận ròng 2 tỷ USD lãi và cổ tức, nhận 1 tỷ USD viện trợ; cán cân vãng lai là 100 − 110 + 2 + 1 = −7 tỷ USD, tức thâm hụt 7 tỷ USD. Đây là con số mà cả bài xoay quanh.
+
+**Thâm hụt và thặng dư vãng lai.** Thâm hụt là khi nước đó chi ra nước ngoài nhiều hơn thu vào; thặng dư là ngược lại. Thâm hụt phải được bù bằng tiền từ nước ngoài chảy vào (vay, bán tài sản, nhận đầu tư), nên nước thâm hụt đang tích luỹ nợ với phần còn lại của thế giới. Bài thường đo thâm hụt theo tỷ lệ GDP: Úc và New Zealand duy trì khoảng 4,5 đến 5% GDP trong nhiều thập kỷ. Hiểu được điều này mới thấy vì sao thâm hụt kéo dài dẫn tới câu hỏi về khả năng trả nợ.
+
+**Cân bằng tiết kiệm và đầu tư (savings-investment balance).** Cán cân vãng lai luôn bằng tiết kiệm quốc gia (của cả nhà nước và tư nhân) trừ đầu tư trong nước. Đây là một đồng nhất thức kế toán, đúng theo định nghĩa. Ví dụ minh hoạ: một nước tiết kiệm 20% GDP nhưng đầu tư 25% GDP thì phần thiếu 5% GDP phải đi vay nước ngoài, và đúng 5% GDP đó hiện ra thành thâm hụt vãng lai. Cách nhìn này quan trọng vì nó cho thấy muốn đổi cán cân vãng lai thì phải đổi tiết kiệm hoặc đầu tư, và vì thế bảo hộ thương mại khó có tác dụng.
+
+**Thương mại liên thời gian (intertemporal trade).** Trao đổi hàng của hôm nay lấy hàng của ngày mai: nhập khẩu bây giờ (chạy thâm hụt) và trả lại bằng xuất khẩu sau này (chạy thặng dư). Nó đối lập với thương mại cùng thời điểm, như đổi vải lấy rượu ngay hôm nay. Ví dụ minh hoạ: một nước nhập máy móc trị giá 10 tỷ USD năm nay, dùng máy đó sản xuất hàng và xuất khẩu dư ra 2 tỷ USD mỗi năm trong năm năm sau để trả lại. Khái niệm này giúp thấy thâm hụt không nhất thiết là dấu hiệu xấu.
+
+**Làm mượt tiêu dùng (consumption smoothing) và tiết kiệm phòng ngừa (precautionary savings).** Làm mượt tiêu dùng là dàn tác động của một cú sốc tạm thời ra nhiều năm thay vì chịu hết ngay: khi thiên tai làm sản lượng giảm, nước đó vay nước ngoài (thâm hụt) để giữ mức sống, rồi trả dần. Tiết kiệm phòng ngừa là chiều ngược lại: nước hay gặp cú sốc lớn nên để dành trước bằng cách chạy thặng dư. Hai ý này cho thấy cả thâm hụt lẫn thặng dư đều có thể là lựa chọn hợp lý.
+
+**Khả năng thanh toán liên thời gian (intertemporal solvency).** Một nước có khả năng thanh toán khi tổng các khoản nợ hiện tại sẽ được bù bằng các khoản thặng dư nó tạo ra trong tương lai. Điều kiện để vay thêm là có lợi: khoản vay phải tài trợ cho đầu tư có sản phẩm biên (marginal product, phần sản lượng tăng thêm do khoản đầu tư cuối cùng mang lại) cao hơn lãi suất phải trả. Ví dụ minh hoạ: vay với lãi 6% một năm để làm dự án sinh lời 10% một năm thì trả được nợ và còn dư; dự án chỉ sinh lời 3% thì nợ ngày càng nặng. Đây là tiêu chí thứ nhất để đánh giá một thâm hụt.
+
+**Đảo chiều đột ngột (sudden reversal).** Tình huống nhà đầu tư và ngân hàng nước ngoài đột ngột ngừng cho vay, buộc một nước đang thâm hụt phải lập tức chuyển sang thặng dư để trả nợ. Ví dụ trong bài: Mexico năm 1995 và Thái Lan năm 1997. Khi đó tiêu dùng, đầu tư và chi tiêu chính phủ đều phải cắt gấp. Khái niệm này giải thích vì sao ngay cả một nước có khả năng trả nợ cũng phải thận trọng với thâm hụt lớn và kéo dài.
+
+**Đô la hoá nợ (liability dollarization) và lệch pha kỳ hạn (maturity mismatch).** Đô la hoá nợ là vay bằng ngoại tệ (thường là đô la Mỹ) trong khi thu nhập bằng nội tệ; khi nội tệ mất giá, khoản nợ quy ra nội tệ phình lên. Ví dụ minh hoạ: nợ 1 triệu USD khi tỷ giá 25 đơn vị nội tệ/USD là 25 triệu nội tệ; nội tệ mất giá còn 40 đơn vị/USD thì nợ thành 40 triệu nội tệ dù không vay thêm đồng nào. Lệch pha kỳ hạn là vay ngắn hạn để cho vay hoặc đầu tư dài hạn, nên khi chủ nợ không gia hạn thì không kịp thu tiền về để trả. Bài coi đây là các điểm yếu bảng cân đối làm tăng nguy cơ đảo chiều.
+
+## Nội dung chi tiết
 
 ### 1. Bối cảnh
 
-- Cán cân tài khoản vãng lai có vẻ là một khái niệm kinh tế trừu tượng. Nhưng ở các nước chi ra nước ngoài nhiều hơn nhiều so với số thu vào, tài khoản vãng lai là điểm mà kinh tế học quốc tế va chạm với thực tế chính trị. Khi các nước chạy thâm hụt lớn, doanh nghiệp, công đoàn và nghị sĩ thường nhanh chóng chỉ tay buộc tội các đối tác thương mại và đưa ra cáo buộc về các thực hành không công bằng. Căng thẳng giữa Mỹ và Trung Quốc về việc nước nào chịu trách nhiệm chính cho sự mất cân bằng thương mại giữa hai nước đã rọi đèn vào các hệ quả rộng hơn cho hệ thống tài chính quốc tế khi một số nước chạy thâm hụt tài khoản vãng lai lớn và dai dẳng còn các nước khác tích luỹ thặng dư lớn.
-- IMF, với nhiệm vụ bao gồm việc thúc đẩy và duy trì một hệ thống thương mại và thanh toán quốc tế mở, gần đây đã bắt đầu các cuộc tham vấn đa phương về mất cân bằng toàn cầu với các bên chính: Trung Quốc, khu vực euro, Nhật Bản, Saudi Arabia và Mỹ. Back to Basics cố loại bỏ cảm xúc khỏi vấn đề và xem xét liệu thặng dư và thâm hụt tài khoản vãng lai có thực sự quan trọng không.
+Cán cân tài khoản vãng lai nghe như một khái niệm kinh tế trừu tượng. Nhưng ở những nước chi ra nước ngoài nhiều hơn hẳn số thu vào, nó là chỗ mà kinh tế học quốc tế va chạm với chính trị. Khi một nước chạy thâm hụt lớn, doanh nghiệp, công đoàn và nghị sĩ thường nhanh chóng chỉ tay buộc tội các đối tác thương mại và cáo buộc họ có những thực hành không công bằng.
+
+Ví dụ nổi bật vào thời điểm bài viết là căng thẳng giữa Mỹ và Trung Quốc về việc nước nào chịu trách nhiệm chính cho mất cân bằng thương mại giữa hai nước. Cuộc tranh cãi này đã làm lộ ra một câu hỏi lớn hơn: hệ thống tài chính quốc tế sẽ ra sao khi một số nước có thâm hụt vãng lai lớn và dai dẳng, trong khi những nước khác tích luỹ thặng dư lớn.
+
+IMF có nhiệm vụ thúc đẩy và duy trì một hệ thống thương mại và thanh toán quốc tế mở. Vì vậy, IMF gần đây đã bắt đầu các cuộc tham vấn đa phương về mất cân bằng toàn cầu với năm bên chính:
+
+- Trung Quốc;
+- khu vực euro;
+- Nhật Bản;
+- Saudi Arabia;
+- Mỹ.
+
+Bài Back to Basics này đặt mục tiêu gạt cảm xúc ra khỏi vấn đề và hỏi một cách bình tĩnh: thặng dư và thâm hụt vãng lai có thực sự quan trọng không, và quan trọng theo nghĩa nào.
 
 ### 2. Đo lường tài khoản vãng lai
 
-- Một điểm khởi đầu tốt là hỏi thâm hụt hay thặng dư tài khoản vãng lai thực sự có nghĩa là gì và rút ra hiểu biết từ nhiều cách mà cán cân tài khoản vãng lai được đo.
-- **Thứ nhất,** nó có thể được diễn đạt là chênh lệch giữa giá trị xuất khẩu hàng hoá và dịch vụ và giá trị nhập khẩu hàng hoá và dịch vụ. Một thâm hụt khi đó có nghĩa là nước đó đang nhập khẩu nhiều hàng hoá và dịch vụ hơn xuất khẩu, dù tài khoản vãng lai cũng bao gồm thu nhập ròng (như lãi và cổ tức) và các khoản chuyển từ nước ngoài (như viện trợ nước ngoài), thường là một phần nhỏ của tổng. Diễn đạt theo cách này, thâm hụt tài khoản vãng lai thường làm gai mắt những người bảo hộ, những người, có vẻ quên mất rằng một lý do chính để xuất khẩu là để có thể nhập khẩu, cho rằng xuất khẩu là "tốt" và nhập khẩu là "xấu".
-- **Thứ hai,** tài khoản vãng lai có thể được diễn đạt là chênh lệch giữa tiết kiệm quốc gia (cả công và tư) và đầu tư. Một thâm hụt tài khoản vãng lai do đó có thể phản ánh mức tiết kiệm quốc gia thấp so với đầu tư hoặc một tỷ lệ đầu tư cao, hoặc cả hai. Với các nước đang phát triển nghèo vốn, vốn có nhiều cơ hội đầu tư hơn khả năng thực hiện với mức tiết kiệm trong nước thấp, một thâm hụt tài khoản vãng lai có thể là tự nhiên. Một thâm hụt có tiềm năng thúc đẩy tăng trưởng sản lượng và phát triển kinh tế nhanh hơn, dù nghiên cứu gần đây không chỉ ra rằng các nước đang phát triển chạy thâm hụt tài khoản vãng lai tăng trưởng nhanh hơn (có lẽ vì các hệ thống tài chính trong nước kém phát triển hơn của họ không thể phân bổ vốn nước ngoài hiệu quả). Hơn nữa, trên thực tế, vốn tư nhân thường chảy từ các nước đang phát triển sang các nền kinh tế tiên tiến. Các nền kinh tế tiên tiến, như Mỹ, chạy thâm hụt tài khoản vãng lai, trong khi các nước đang phát triển và nền kinh tế thị trường mới nổi thường chạy thặng dư hoặc gần thặng dư. Các nước rất nghèo thường chạy thâm hụt tài khoản vãng lai lớn, theo tỷ lệ GDP của họ, được tài trợ bằng các khoản viện trợ và cho vay chính thức.
-- Một điểm mà cách tiếp cận cân bằng tiết kiệm–đầu tư nhấn mạnh là các chính sách bảo hộ khó có ích trong việc cải thiện cán cân tài khoản vãng lai vì không có liên hệ rõ ràng nào giữa bảo hộ và tiết kiệm hay đầu tư.
-- **Thứ ba,** tài khoản vãng lai có thể được nhìn theo góc độ thời điểm của thương mại. Ta quen với thương mại trong cùng thời điểm: đổi vải lấy rượu hôm nay. Nhưng ta cũng có thể nghĩ đến thương mại liên thời gian: nhập khẩu hàng hoá hôm nay (chạy thâm hụt tài khoản vãng lai) và, đổi lại, xuất khẩu hàng hoá trong tương lai (chạy thặng dư tài khoản vãng lai khi đó). Cũng như một nước có thể nhập khẩu một hàng hoá và xuất khẩu hàng hoá khác trong thương mại cùng thời điểm, không có lý do gì một nước không nên nhập khẩu hàng hoá của hôm nay và xuất khẩu hàng hoá của ngày mai.
-- Các lý thuyết liên thời gian về tài khoản vãng lai cũng nhấn mạnh vai trò làm mượt tiêu dùng mà thâm hụt và thặng dư tài khoản vãng lai có thể đóng. Chẳng hạn, nếu một nước bị một cú sốc, có lẽ là một thảm hoạ tự nhiên, tạm thời làm giảm khả năng tiếp cận năng lực sản xuất của nó, thì thay vì chịu trọn vẹn cú sốc ngay lập tức, nó có thể dàn nỗi đau ra theo thời gian bằng cách chạy thâm hụt tài khoản vãng lai. Ngược lại, nghiên cứu cũng gợi ý rằng các nước chịu các cú sốc lớn nên, trung bình, chạy thặng dư tài khoản vãng lai như một hình thức tiết kiệm phòng ngừa.
+Điểm khởi đầu hợp lý là hỏi thâm hụt hay thặng dư vãng lai thực sự có nghĩa là gì. Bài đưa ra ba cách đọc cùng một con số, mỗi cách soi sáng một khía cạnh khác. Ba cách này không mâu thuẫn nhau; chúng là ba cách viết của cùng một phép tính.
+
+| Cách đọc | Thâm hụt có nghĩa là | Hàm ý chính |
+|---|---|---|
+| Thứ nhất: xuất khẩu trừ nhập khẩu | Nhập nhiều hàng hoá, dịch vụ hơn xuất | Dễ bị phe bảo hộ hiểu sai là "thua thiệt" |
+| Thứ hai: tiết kiệm trừ đầu tư | Tiết kiệm trong nước thấp hơn đầu tư | Bảo hộ khó cải thiện cán cân |
+| Thứ ba: thời điểm của thương mại | Nhập hàng hôm nay, trả bằng hàng ngày mai | Thâm hụt có thể là lựa chọn hợp lý |
+
+**Cách đọc thứ nhất: chênh lệch xuất khẩu và nhập khẩu.** Cán cân vãng lai có thể diễn đạt là giá trị xuất khẩu hàng hoá và dịch vụ trừ giá trị nhập khẩu hàng hoá và dịch vụ. Thâm hụt khi đó có nghĩa là nước đó nhập nhiều hơn xuất. Nói cho đủ, tài khoản vãng lai còn gồm thu nhập ròng từ nước ngoài (như lãi và cổ tức) và các khoản chuyển khoản (như viện trợ nước ngoài), nhưng những khoản này thường chỉ là phần nhỏ của tổng.
+
+Diễn đạt theo kiểu này, thâm hụt thường làm gai mắt những người theo chủ nghĩa bảo hộ. Họ coi xuất khẩu là "tốt" và nhập khẩu là "xấu". Bài nhận xét rằng họ dường như quên mất một điều cơ bản: một lý do chính để xuất khẩu chính là để có tiền nhập khẩu. Một nước bán hàng ra ngoài để mua về những thứ nó không làm được hoặc làm đắt hơn, chứ không phải để tích trữ ngoại tệ cho bản thân việc tích trữ.
+
+**Cách đọc thứ hai: chênh lệch tiết kiệm và đầu tư.** Cán cân vãng lai cũng bằng tiết kiệm quốc gia (gồm cả tiết kiệm công của nhà nước và tiết kiệm tư nhân) trừ đầu tư. Như vậy, thâm hụt có thể phản ánh tiết kiệm thấp so với đầu tư, hoặc tỷ lệ đầu tư cao, hoặc cả hai.
+
+Với các nước đang phát triển nghèo vốn, cách đọc này cho thấy thâm hụt có thể là điều tự nhiên. Những nước này có nhiều cơ hội đầu tư sinh lời (đường sá, nhà máy, điện) hơn mức mà tiết kiệm trong nước thấp của họ cho phép làm. Vay nước ngoài để làm thêm các dự án đó, tức là chạy thâm hụt, về nguyên tắc có thể thúc đẩy sản lượng và phát triển kinh tế nhanh hơn.
+
+Tuy nhiên, bài nêu ngay ba điểm làm bức tranh phức tạp hơn:
+
+- **Bằng chứng không ủng hộ lý thuyết.** Nghiên cứu gần đây không thấy các nước đang phát triển chạy thâm hụt vãng lai tăng trưởng nhanh hơn. Một lời giải thích có thể là hệ thống tài chính trong nước của họ kém phát triển, không phân bổ được vốn nước ngoài vào chỗ hiệu quả.
+- **Vốn chảy ngược chiều.** Trên thực tế, vốn tư nhân thường chảy từ các nước đang phát triển sang các nền kinh tế tiên tiến. Các nền kinh tế tiên tiến như Mỹ chạy thâm hụt vãng lai, trong khi các nước đang phát triển và thị trường mới nổi thường chạy thặng dư hoặc gần thặng dư. Đây là điều ngược với lý thuyết đơn giản, vốn dự đoán vốn đi từ nơi thừa vốn sang nơi thiếu vốn.
+- **Nước rất nghèo là ngoại lệ.** Các nước rất nghèo thường chạy thâm hụt vãng lai lớn tính theo tỷ lệ GDP, nhưng thâm hụt đó được tài trợ chủ yếu bằng viện trợ và các khoản vay chính thức (từ chính phủ nước khác và tổ chức quốc tế), không phải bằng vốn tư nhân.
+
+Cách tiếp cận tiết kiệm và đầu tư dẫn tới một kết luận chính sách quan trọng: **chính sách bảo hộ khó giúp cải thiện cán cân vãng lai**, vì không có mối liên hệ rõ ràng nào giữa bảo hộ với tiết kiệm hay đầu tư. Thuế quan có thể làm giảm nhập khẩu một mặt hàng từ một nước, nhưng nếu tổng tiết kiệm và tổng đầu tư của nền kinh tế không đổi thì cán cân vãng lai tổng thể cũng không đổi; chỉ có thành phần thương mại thay đổi.
+
+**Cách đọc thứ ba: thời điểm của thương mại.** Ta quen với thương mại trong cùng thời điểm, ví dụ đổi vải lấy rượu ngay hôm nay. Nhưng cũng có thương mại liên thời gian: nhập khẩu hàng hoá hôm nay (chạy thâm hụt vãng lai) và đổi lại, xuất khẩu hàng hoá trong tương lai (chạy thặng dư vãng lai vào lúc đó). Lập luận của bài rất gọn: cũng như một nước có thể nhập một mặt hàng và xuất một mặt hàng khác trong cùng một thời điểm, không có lý do gì để một nước không nên nhập hàng của hôm nay và xuất hàng của ngày mai.
+
+Lý thuyết liên thời gian còn nhấn mạnh vai trò **làm mượt tiêu dùng** của thâm hụt và thặng dư. Giả sử một nước gặp một cú sốc, có thể là một thảm hoạ tự nhiên, làm tạm thời giảm năng lực sản xuất. Thay vì chịu trọn cú sốc ngay lập tức bằng cách cắt mạnh tiêu dùng, nước đó có thể dàn nỗi đau ra theo thời gian bằng cách chạy thâm hụt: vay nước ngoài lúc khó khăn, trả lại khi sản xuất phục hồi.
+
+Chiều ngược lại cũng đúng. Nghiên cứu gợi ý rằng các nước thường xuyên chịu những cú sốc lớn, tính trung bình, nên chạy thặng dư vãng lai như một hình thức **tiết kiệm phòng ngừa**, tức là để dành sẵn cho những năm xấu.
+
+**Ví dụ hôm nay** (minh hoạ chung, không phải số liệu thực tế). Một gia đình trẻ vay mua nhà và trả góp trong 20 năm là đang làm "thương mại liên thời gian": tiêu nhiều hơn thu nhập lúc trẻ, rồi chi ít hơn thu nhập khi lớn tuổi để trả nợ. Không ai coi đó là dấu hiệu xấu, miễn khoản vay hợp lý so với thu nhập tương lai. Một hộ làm nông ở vùng hay bão lụt thì ngược lại, nên để dành trước; đó là "tiết kiệm phòng ngừa".
 
 ### 3. Khi nào dai dẳng là quá dai dẳng
 
-- Có quan trọng không việc một nước chạy thâm hụt tài khoản vãng lai bao lâu? Khi một nước chạy thâm hụt tài khoản vãng lai, nó đang tích luỹ các khoản nợ với phần còn lại của thế giới được tài trợ bằng các dòng trong tài khoản tài chính. Rốt cuộc, những khoản này cần được trả lại. Lẽ thường gợi ý rằng nếu một nước phung phí vốn vay nước ngoài của mình vào chi tiêu không mang lại lợi ích sản xuất dài hạn, thì khả năng trả nợ của nó, tức khả năng thanh toán cơ bản, có thể bị nghi ngờ. Điều này là vì khả năng thanh toán đòi hỏi nước đó sẵn sàng và có thể (cuối cùng) tạo ra đủ thặng dư tài khoản vãng lai để trả những gì nó đã vay. Do đó, việc một nước có nên chạy thâm hụt tài khoản vãng lai (vay thêm) hay không phụ thuộc vào mức nợ nước ngoài của nó (nợ bên ngoài) và liệu khoản vay có tài trợ cho đầu tư có sản phẩm biên cao hơn lãi suất (hay tỷ suất sinh lời) mà nước đó phải trả cho các khoản nợ nước ngoài của mình.
-- Nhưng ngay cả khi nước đó có khả năng thanh toán liên thời gian, nghĩa là các khoản nợ hiện tại sẽ được doanh thu tương lai bù đắp, thâm hụt tài khoản vãng lai của nó vẫn có thể trở nên không bền vững nếu nó không thể bảo đảm nguồn tài trợ cần thiết. Trong khi một số nước (như Úc và New Zealand) đã có thể duy trì thâm hụt tài khoản vãng lai trung bình khoảng 4,5 đến 5% GDP trong vài thập kỷ, các nước khác (như Mexico năm 1995 và Thái Lan năm 1997) đã trải qua các đợt đảo chiều mạnh của thâm hụt tài khoản vãng lai sau khi tài trợ tư nhân rút lui giữa các khủng hoảng tài chính. Các đợt đảo chiều như vậy có thể rất phá hoại vì tiêu dùng tư nhân, đầu tư và chi tiêu chính phủ phải bị cắt đột ngột khi tài trợ nước ngoài không còn nữa và, thực tế, một nước bị buộc phải chạy thặng dư lớn để trả nhanh các khoản vay trong quá khứ. Điều này gợi ý rằng, bất kể vì sao nước đó có thâm hụt tài khoản vãng lai (và ngay cả khi thâm hụt phản ánh các xu hướng nền tảng đáng mong muốn), cần thận trọng khi chạy thâm hụt lớn và dai dẳng, kẻo nước đó trải qua một đợt đảo chiều tài trợ đột ngột và đau đớn.
-- Điều gì quyết định liệu một nước có trải qua đợt đảo chiều như vậy? Nghiên cứu thực nghiệm gợi ý rằng tỷ giá thực được định giá quá cao, dự trữ ngoại hối không đủ, tăng trưởng tín dụng trong nước quá nhanh, các cú sốc tỷ lệ trao đổi bất lợi, tăng trưởng thấp ở các nước đối tác, và lãi suất cao hơn ở các nước công nghiệp đều ảnh hưởng đến việc xảy ra các đợt đảo chiều. Tài liệu gần đây hơn cũng đã tập trung vào tầm quan trọng của các điểm yếu bảng cân đối trước khủng hoảng, như mức đô la hoá nợ và lệch pha kỳ hạn. Nó cũng nhấn mạnh tầm quan trọng của thành phần dòng vốn vào, ví dụ sự ổn định tương đối của đầu tư trực tiếp nước ngoài so với dòng danh mục và các loại dòng đầu tư ngắn hạn khác. Hơn nữa, các khu vực tài chính yếu thường dẫn đến tính dễ tổn thương cao hơn trước một đợt đảo chiều khi các ngân hàng vay tiền từ nước ngoài và cho vay trong nước với rủi ro cao. Ngược lại, một chế độ tỷ giá linh hoạt, mức độ mở cửa cao hơn, đa dạng hoá xuất khẩu, phát triển khu vực tài chính, và các chính sách tài khoá và tiền tệ nhất quán là một số yếu tố khiến một nước có thâm hụt dai dẳng ít dễ tổn thương hơn trước một đợt đảo chiều.
+Câu hỏi tiếp theo là thời gian: chạy thâm hụt bao lâu thì thành vấn đề? Khi một nước chạy thâm hụt vãng lai, nó đang tích luỹ nợ với phần còn lại của thế giới. Khoản thiếu hụt được tài trợ bằng các dòng tiền ghi trong tài khoản tài chính (vay, bán trái phiếu, nhận đầu tư). Rốt cuộc, những khoản này phải được trả lại.
+
+**Tiêu chí thứ nhất: khả năng thanh toán.** Lẽ thường cho thấy nếu một nước phung phí vốn vay nước ngoài vào những khoản chi không mang lại lợi ích sản xuất lâu dài, thì khả năng trả nợ, tức khả năng thanh toán cơ bản của nó, có thể bị nghi ngờ. Lý do là khả năng thanh toán đòi hỏi nước đó vừa sẵn sàng vừa có khả năng (đến một lúc nào đó) tạo ra đủ thặng dư vãng lai để trả những gì đã vay.
+
+Vì vậy, một nước có nên chạy thâm hụt (tức vay thêm) hay không phụ thuộc vào hai điều:
+
+1. Mức nợ nước ngoài hiện có của nó (nợ bên ngoài) đã cao tới đâu.
+2. Khoản vay có tài trợ cho đầu tư có sản phẩm biên cao hơn lãi suất (hay tỷ suất sinh lời) mà nước đó phải trả cho các khoản nợ nước ngoài hay không.
+
+**Tiêu chí thứ hai: nguồn tài trợ.** Ngay cả khi một nước có khả năng thanh toán liên thời gian, nghĩa là các khoản nợ hiện tại sẽ được bù bằng nguồn thu tương lai, thâm hụt của nó vẫn có thể trở nên không bền vững nếu nước đó không huy động được nguồn tài trợ cần thiết vào đúng lúc cần. Có khả năng trả nợ về lâu dài chưa đủ; còn phải có người sẵn lòng tiếp tục cho vay trong ngắn hạn.
+
+Bài đặt cạnh nhau hai nhóm kinh nghiệm trái ngược:
+
+| Nhóm | Ví dụ | Điều đã xảy ra |
+|---|---|---|
+| Duy trì được lâu | Úc, New Zealand | Thâm hụt trung bình khoảng 4,5 đến 5% GDP suốt vài thập kỷ |
+| Đảo chiều mạnh | Mexico năm 1995, Thái Lan năm 1997 | Tài trợ tư nhân rút lui giữa khủng hoảng tài chính, thâm hụt bị đảo ngược đột ngột |
+
+Các đợt đảo chiều như vậy rất phá hoại. Khi tài trợ nước ngoài không còn, tiêu dùng tư nhân, đầu tư và chi tiêu chính phủ đều phải bị cắt đột ngột. Trên thực tế, nước đó bị buộc phải chạy thặng dư lớn để trả nhanh các khoản vay trong quá khứ, tức là phải chuyển ngay từ "tiêu nhiều hơn làm ra" sang "tiêu ít hơn làm ra" trong một thời gian rất ngắn.
+
+Từ đó bài rút ra lời khuyên: bất kể vì sao một nước có thâm hụt, và ngay cả khi thâm hụt phản ánh những xu hướng nền tảng đáng mong muốn, cần thận trọng khi chạy thâm hụt lớn và dai dẳng, kẻo nước đó gặp một đợt đảo chiều tài trợ đột ngột và đau đớn.
+
+**Điều gì quyết định một nước có bị đảo chiều hay không?** Nghiên cứu thực nghiệm chỉ ra các yếu tố làm tăng nguy cơ:
+
+- tỷ giá thực bị định giá quá cao (đồng nội tệ đắt so với sức cạnh tranh của nền kinh tế);
+- dự trữ ngoại hối không đủ;
+- tín dụng trong nước tăng quá nhanh;
+- các cú sốc tỷ lệ trao đổi bất lợi (giá hàng xuất khẩu giảm so với giá hàng nhập khẩu);
+- tăng trưởng thấp ở các nước đối tác thương mại;
+- lãi suất cao hơn ở các nước công nghiệp, làm vốn bị hút về đó.
+
+Các nghiên cứu gần đây hơn còn nhấn mạnh ba nhóm yếu tố nữa:
+
+- **Điểm yếu bảng cân đối trước khủng hoảng**, như mức đô la hoá nợ (vay bằng ngoại tệ) và lệch pha kỳ hạn (vay ngắn, dùng dài).
+- **Thành phần của dòng vốn vào.** Đầu tư trực tiếp nước ngoài (FDI, tức nhà đầu tư nước ngoài xây nhà máy hay mua phần lớn doanh nghiệp) tương đối ổn định, vì nhà máy không rút đi trong một đêm. Dòng vốn danh mục (mua cổ phiếu, trái phiếu) và các dòng đầu tư ngắn hạn khác thì dễ rút nhanh hơn nhiều.
+- **Khu vực tài chính yếu.** Khi ngân hàng vay tiền từ nước ngoài rồi cho vay trong nước với rủi ro cao, nền kinh tế dễ tổn thương hơn hẳn trước một đợt đảo chiều.
+
+Ngược lại, một số yếu tố khiến nước có thâm hụt dai dẳng ít dễ tổn thương hơn:
+
+- chế độ tỷ giá linh hoạt;
+- độ mở cửa thương mại cao hơn;
+- xuất khẩu đa dạng;
+- khu vực tài chính phát triển;
+- chính sách tài khoá và tiền tệ nhất quán.
 
 ### 4. Vậy thâm hụt có xấu không?
 
-- Một lời phàn nàn phổ biến về kinh tế học là câu trả lời cho mọi câu hỏi đều là "còn tuỳ". Đúng là lý thuyết kinh tế nói với ta rằng một thâm hụt tốt hay xấu phụ thuộc vào các yếu tố tạo ra thâm hụt đó, nhưng lý thuyết kinh tế cũng nói cho ta biết cần tìm gì khi đánh giá mức độ đáng mong muốn của một thâm hụt.
-- Nếu thâm hụt phản ánh nhập khẩu vượt xuất khẩu, nó có thể là dấu hiệu của các vấn đề về sức cạnh tranh, nhưng vì thâm hụt tài khoản vãng lai cũng hàm ý đầu tư vượt tiết kiệm, nó cũng có thể đang chỉ ra một nền kinh tế năng suất cao, đang tăng trưởng. Nếu thâm hụt phản ánh tiết kiệm thấp thay vì đầu tư cao, nó có thể do chính sách tài khoá liều lĩnh hoặc một cơn say tiêu dùng. Hoặc nó có thể phản ánh thương mại liên thời gian hoàn toàn hợp lý, có lẽ vì một cú sốc tạm thời hoặc nhân khẩu học đang thay đổi. Nếu không biết cái nào trong số này đang diễn ra, sẽ vô nghĩa khi nói về việc một thâm hụt là "tốt" hay "xấu": thâm hụt phản ánh các xu hướng kinh tế nền tảng, có thể đáng mong muốn hoặc không đáng mong muốn đối với một nước tại một thời điểm cụ thể.
+Một lời phàn nàn quen thuộc về kinh tế học là câu trả lời cho mọi câu hỏi đều là "còn tuỳ". Bài thừa nhận lý thuyết kinh tế đúng là nói rằng một thâm hụt tốt hay xấu tuỳ vào các yếu tố tạo ra nó. Nhưng lý thuyết cũng chỉ ra cần tìm gì khi đánh giá một thâm hụt có đáng mong muốn hay không. Ba cách đọc ở mục 2 trở thành ba câu hỏi để chẩn đoán:
+
+| Nếu thâm hụt chủ yếu phản ánh | Có thể là dấu hiệu xấu | Có thể là dấu hiệu tốt hoặc trung tính |
+|---|---|---|
+| Nhập khẩu vượt xuất khẩu | Vấn đề về sức cạnh tranh | Vì cũng có nghĩa đầu tư vượt tiết kiệm, có thể là nền kinh tế năng suất cao, đang tăng trưởng |
+| Tiết kiệm thấp (chứ không phải đầu tư cao) | Chính sách tài khoá liều lĩnh, hoặc một cơn say tiêu dùng | Thương mại liên thời gian hợp lý, do cú sốc tạm thời hoặc thay đổi nhân khẩu học |
+
+Ví dụ về nhân khẩu học: một nước có dân số già đi nhanh có thể hợp lý khi tiết kiệm ít đi trong giai đoạn nhiều người nghỉ hưu tiêu dần khoản để dành của mình; khi đó tiết kiệm giảm không phải là do vô kỷ luật.
+
+Kết luận của bài: nếu không biết cái nào trong số những khả năng trên đang thực sự diễn ra, thì nói một thâm hụt là "tốt" hay "xấu" là vô nghĩa. Thâm hụt phản ánh các xu hướng kinh tế nền tảng, và những xu hướng đó có thể đáng mong muốn hoặc không đáng mong muốn đối với một nước cụ thể, tại một thời điểm cụ thể. Việc của người phân tích là đi tìm xu hướng nền tảng ấy, chứ không phải phán xét con số thâm hụt.
 
 ## Thuật ngữ
 

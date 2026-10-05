@@ -169,36 +169,139 @@
 2. Vì sao cần phân biệt chế độ theo luật và chế độ thực tế?
 3. Xu hướng gần đây là gì và tương lai sẽ ra sao?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tỷ giá (exchange rate) và chế độ tỷ giá (exchange rate regime).** Tỷ giá là giá của một đồng tiền tính bằng đồng tiền khác, ví dụ cần bao nhiêu đơn vị nội tệ để mua 1 USD. Chế độ tỷ giá là bộ quy tắc mà một nước dùng để quyết định tỷ giá được hình thành thế nào: nhà nước giữ cố định, cho dao động trong một khoảng, hay để thị trường tự quyết. Ví dụ minh hoạ: nếu tỷ giá là 10 đơn vị nội tệ/USD và một ván lướt giá 200 USD, người mua phải trả 2.000 đơn vị nội tệ; nếu tỷ giá thành 12 thì phải trả 2.400. Chế độ tỷ giá quyết định khả năng xảy ra những thay đổi như vậy, nên đây là khái niệm trung tâm của bài.
+
+**Neo cứng (hard peg): đô la hoá toàn phần và hội đồng tiền tệ.** Neo cứng là cách cố định tỷ giá chặt nhất. Đô la hoá toàn phần (*full dollarization*) là bỏ hẳn đồng tiền riêng và dùng đồng tiền nước khác theo luật, như Panama dùng đô la Mỹ. Hội đồng tiền tệ (*currency board*) là giữ đồng tiền riêng nhưng luật buộc ngân hàng trung ương phải có lượng tài sản nước ngoài ít nhất bằng toàn bộ tiền mặt lưu thông cộng tiền dự trữ của các ngân hàng, như Hong Kong SAR. Ví dụ minh hoạ: nếu có 100 tỷ đơn vị nội tệ lưu thông và dự trữ, hội đồng tiền tệ phải giữ tài sản ngoại tệ có giá trị ít nhất tương đương 100 tỷ đó theo tỷ giá cố định. Neo cứng đổi độc lập tiền tệ lấy sự chắc chắn về tỷ giá.
+
+**Neo mềm (soft peg).** Đồng tiền được giữ ổn định so với một đồng tiền khác (đồng neo) hoặc một rổ nhiều đồng tiền, nhưng được dao động trong một biên độ, và đôi khi mức neo được dịch dần theo thời gian. Bài nêu biên hẹp +1 hoặc −1% và biên rộng tới +30 hoặc −30%. Ví dụ minh hoạ: neo ở 10 đơn vị/USD với biên ±1% nghĩa là tỷ giá được dao động từ 9,9 đến 10,1. Neo mềm là "phần giữa" của phổ chế độ, và chính nó là đối tượng của xu hướng "rỗng ruột ở giữa".
+
+**Thả nổi (floating) và thả nổi có quản lý (managed float).** Thả nổi là để tỷ giá chủ yếu do cung cầu trên thị trường quyết định. Ngân hàng trung ương có thể can thiệp, tức mua hoặc bán ngoại tệ để đổi lấy nội tệ, nhằm làm dịu biến động ngắn hạn. Thả nổi độc lập là gần như không can thiệp (bài nêu New Zealand, Thuỵ Điển, Iceland, Mỹ, khu vực euro); thả nổi có quản lý là can thiệp nhiều hơn thế. Phân biệt này quan trọng vì nhiều nước tự nhận là thả nổi độc lập nhưng thực ra là thả nổi có quản lý.
+
+**Chính sách tiền tệ độc lập.** Khả năng ngân hàng trung ương tự đặt lãi suất theo tình hình trong nước, ví dụ hạ lãi suất khi kinh tế suy yếu. Ví dụ minh hoạ: nếu nước có neo cứng với USD cố hạ lãi suất xuống thấp hơn hẳn lãi suất ở Mỹ, người giữ tiền sẽ đổi nội tệ sang USD để hưởng lãi cao hơn, ngân hàng trung ương phải bán dự trữ để giữ tỷ giá, và cuối cùng phải đưa lãi suất về sát lãi suất Mỹ. Đây là lý do bài nói neo cứng làm mất chính sách tiền tệ độc lập, còn thả nổi giữ được nó.
+
+**Neo danh nghĩa (nominal anchor).** Một mức giá hay một đại lượng tính bằng tiền mà chính sách tiền tệ lấy làm mục tiêu để người dân và doanh nghiệp yên tâm rằng giá cả sẽ không tăng vọt, tức để ổn định kỳ vọng lạm phát. Một tỷ giá cố định có thể làm neo danh nghĩa; mục tiêu lạm phát, ví dụ 2% một năm, cũng là một neo danh nghĩa. Bài dùng khái niệm này khi nói neo mềm vẫn giữ được một neo danh nghĩa vững chắc.
+
+**Chế độ de jure và de facto.** De jure là "theo luật", tức chế độ mà chính nước đó tuyên bố. De facto là "trên thực tế", tức chế độ mà người quan sát thấy qua hành vi tỷ giá và việc mua bán ngoại tệ của ngân hàng trung ương. Ví dụ trong bài: 25 nước tuyên bố có chế độ linh hoạt nhưng thực tế neo theo kiểu thông thường. Phân biệt này là cốt lõi của mục "Ngôn ngữ chung".
+
+**Phá giá (devaluation).** Ngân hàng trung ương chính thức hạ giá trị đồng tiền so với đồng neo, thường vì không còn đủ dự trữ ngoại tệ để giữ mức cũ. Ví dụ minh hoạ: chuyển mức neo từ 10 lên 15 đơn vị nội tệ/USD là phá giá, mỗi đơn vị nội tệ mất một phần ba giá trị so với USD. Bài dùng khái niệm này khi giải thích vì sao các neo mềm sụp đổ trong thập niên 1990.
+
+## Nội dung chi tiết
 
 ### 1. Vì sao chế độ tỷ giá quan trọng
 
-- Dù biết hay không, chủ một cửa hàng ván lướt sóng trên một hòn đảo Thái Bình Dương đang nghĩ vào tháng Ba về chi phí mua 100 ván lướt từ nhà cung cấp California của mình vào tháng Bảy nên quan tâm đến chế độ tỷ giá của nước mình. Chế độ tỷ giá của một nước chi phối tỷ giá của nước đó, tức đồng tiền của nước đó đáng giá bao nhiêu tính theo đồng tiền của các nước khác. Nếu nước của chủ cửa hàng ván lướt có chế độ tỷ giá cố định, theo đó giá trị nội tệ gắn với đô la Mỹ, thì anh có thể tự tin rằng giá ván lướt tính bằng đồng tiền của anh sẽ không đổi trong các tháng tới. Ngược lại, nếu nước anh có chế độ tỷ giá linh hoạt so với đô la Mỹ, thì đồng tiền của nước đó có thể tăng hoặc giảm giá trị khi mùa chuyển, và anh có thể muốn dành nhiều hơn, hoặc ít hơn, nội tệ cho việc mua ván lướt sắp tới.
-- Nếu bạn mở rộng kịch bản trên ra mọi giao dịch xuyên quốc gia, bạn có thể thấy rằng chế độ tỷ giá có tác động lớn lên thương mại và các dòng tài chính thế giới. Và khối lượng các giao dịch như vậy cùng tốc độ chúng đang tăng trưởng làm nổi bật vai trò then chốt của tỷ giá trong thế giới ngày nay, qua đó khiến chế độ tỷ giá trở thành một mảnh trung tâm của bất kỳ khung chính sách kinh tế quốc gia nào.
+Bài mở đầu bằng một tình huống cụ thể. Một chủ cửa hàng ván lướt sóng trên một hòn đảo ở Thái Bình Dương, vào tháng Ba, đang tính chi phí để mua 100 ván lướt từ nhà cung cấp ở California vào tháng Bảy. Dù anh có biết hay không, anh nên quan tâm đến chế độ tỷ giá của nước mình.
+
+Lý do là chế độ tỷ giá chi phối tỷ giá, tức giá trị đồng tiền của nước anh tính theo đồng tiền các nước khác. Nhà cung cấp California báo giá bằng đô la Mỹ, còn anh trả bằng nội tệ, nên số nội tệ anh phải bỏ ra phụ thuộc vào tỷ giá vào tháng Bảy:
+
+| Chế độ của nước anh | Điều xảy ra từ tháng Ba đến tháng Bảy | Hệ quả với cửa hàng |
+|---|---|---|
+| Cố định, nội tệ gắn với USD | Tỷ giá giữ nguyên | Anh có thể tự tin rằng giá 100 ván lướt tính bằng nội tệ không đổi |
+| Linh hoạt so với USD | Nội tệ có thể lên hoặc xuống giá khi mùa chuyển | Anh có thể phải trả nhiều hơn, hoặc ít hơn, nội tệ cho cùng lô hàng |
+
+Ví dụ minh hoạ bằng số giả định: giả sử mỗi ván giá 200 USD, cả lô 20.000 USD. Nếu tỷ giá tháng Ba là 10 đơn vị nội tệ/USD thì lô hàng tốn 200.000 đơn vị. Với chế độ cố định, tháng Bảy vẫn là 200.000. Với chế độ linh hoạt, nếu nội tệ mất giá còn 11 đơn vị/USD thì lô hàng tốn 220.000; nếu nội tệ lên giá thành 9 đơn vị/USD thì chỉ tốn 180.000.
+
+Nhân tình huống này lên cho mọi giao dịch xuyên biên giới trên thế giới, ta thấy chế độ tỷ giá có tác động lớn đến thương mại và các dòng tài chính quốc tế. Khối lượng các giao dịch đó và tốc độ chúng tăng lên khiến tỷ giá đóng vai trò then chốt trong kinh tế thế giới hiện nay. Vì vậy chế độ tỷ giá là một mảnh trung tâm trong khung chính sách kinh tế của bất kỳ nước nào.
 
 ### 2. Ba loại chế độ
 
-- Các chế độ tỷ giá thường được chia thành ba nhóm rộng.
-- **Neo cứng.** Ở một đầu của phổ là các neo tỷ giá cứng. Chúng bao gồm hoặc việc dùng đồng tiền của một nước khác theo luật định (còn gọi là đô la hoá toàn phần) hoặc một quy định pháp lý buộc ngân hàng trung ương giữ tài sản nước ngoài ít nhất bằng lượng nội tệ đang lưu thông và dự trữ ngân hàng (còn gọi là hội đồng tiền tệ). Panama, nước đã dùng đô la Mỹ từ lâu, là ví dụ về đô la hoá toàn phần, và Hong Kong SAR vận hành một hội đồng tiền tệ. Neo cứng thường đi đôi với các chính sách tài khoá và cơ cấu lành mạnh cùng lạm phát thấp. Chúng có xu hướng tồn tại lâu dài, qua đó cung cấp mức độ chắc chắn cao hơn cho việc định giá các giao dịch quốc tế. Tuy nhiên, ngân hàng trung ương ở một nước có neo tỷ giá cứng không có chính sách tiền tệ độc lập vì nó không có tỷ giá để điều chỉnh và lãi suất của nó bị gắn với lãi suất của nước có đồng tiền neo.
-- **Neo mềm.** Ở giữa phổ là các neo tỷ giá mềm, tức các đồng tiền duy trì một giá trị ổn định so với một đồng neo hoặc một rổ đồng tiền. Tỷ giá có thể được neo vào đồng neo trong một biên hẹp (+1 hoặc −1%) hoặc rộng (tới +30 hoặc −30%), và, trong một số trường hợp, neo di chuyển lên hoặc xuống theo thời gian, thường tuỳ vào chênh lệch tỷ lệ lạm phát giữa các nước. Costa Rica, Hungary và Trung Quốc là ví dụ về loại neo này. Dù neo mềm duy trì một "neo danh nghĩa" vững chắc (tức một mức giá hay lượng danh nghĩa đóng vai trò mục tiêu cho chính sách tiền tệ) để ổn định kỳ vọng lạm phát, chúng cho phép một mức độ linh hoạt hạn chế của chính sách tiền tệ để ứng phó với các cú sốc. Tuy nhiên, neo mềm có thể dễ tổn thương trước các khủng hoảng tài chính, vốn có thể dẫn đến một đợt phá giá lớn hoặc thậm chí việc từ bỏ neo, và loại chế độ này có xu hướng không tồn tại lâu.
-- **Thả nổi.** Ở đầu kia của phổ là các chế độ tỷ giá thả nổi. Như tên gọi hàm ý, tỷ giá thả nổi chủ yếu do thị trường xác định. Ở các nước cho phép tỷ giá thả nổi, ngân hàng trung ương can thiệp (qua việc mua hoặc bán ngoại tệ để đổi lấy nội tệ) chủ yếu để hạn chế các biến động tỷ giá ngắn hạn. Tuy nhiên, ở một vài nước (ví dụ New Zealand, Thuỵ Điển, Iceland, Mỹ, và các nước khu vực euro), ngân hàng trung ương gần như không bao giờ can thiệp để quản lý tỷ giá. Các chế độ thả nổi mang lại cho các nước lợi thế duy trì một chính sách tiền tệ độc lập. Ở các nước như vậy, thị trường ngoại hối và các thị trường tài chính khác phải đủ sâu để hấp thụ các cú sốc mà không có thay đổi tỷ giá lớn. Ngoài ra, phải có sẵn các công cụ tài chính để phòng hộ các rủi ro do tỷ giá dao động gây ra. Gần như mọi nền kinh tế tiên tiến đều có chế độ thả nổi, cũng như hầu hết các nước thị trường mới nổi lớn.
+Các chế độ tỷ giá thường được chia thành ba nhóm lớn, xếp trên một phổ từ cứng nhất tới linh hoạt nhất.
+
+**Neo cứng: một đầu của phổ.** Có hai dạng:
+
+- **Đô la hoá toàn phần:** dùng đồng tiền của nước khác làm tiền chính thức theo luật. Ví dụ là Panama, nước đã dùng đô la Mỹ từ lâu.
+- **Hội đồng tiền tệ:** luật quy định ngân hàng trung ương phải giữ tài sản nước ngoài ít nhất bằng lượng nội tệ đang lưu thông cộng dự trữ của các ngân hàng. Ví dụ là Hong Kong SAR.
+
+Neo cứng thường đi cùng chính sách tài khoá và chính sách cơ cấu lành mạnh, và lạm phát thấp. Chúng có xu hướng tồn tại lâu, nên giúp việc định giá các giao dịch quốc tế chắc chắn hơn. Cái giá phải trả là ngân hàng trung ương không còn chính sách tiền tệ độc lập: không có tỷ giá để điều chỉnh, và lãi suất trong nước bị buộc phải theo lãi suất của nước có đồng tiền làm neo.
+
+**Neo mềm: phần giữa của phổ.** Đồng tiền được giữ ổn định so với một đồng tiền neo hoặc một rổ đồng tiền. Có nhiều cách làm:
+
+- neo trong một biên độ hẹp, ví dụ +1 hoặc −1%;
+- neo trong một biên độ rộng, tới +30 hoặc −30%;
+- trong một số trường hợp, mức neo được dịch lên hoặc xuống theo thời gian, thường tuỳ vào chênh lệch lạm phát giữa nước đó và nước có đồng tiền neo (nước lạm phát cao hơn sẽ cho đồng tiền mất giá dần để hàng hoá không bị đắt lên quá mức).
+
+Ví dụ của bài là Costa Rica, Hungary và Trung Quốc. Ưu điểm của neo mềm là vừa giữ được một neo danh nghĩa vững để ổn định kỳ vọng lạm phát, vừa để lại một chút linh hoạt cho chính sách tiền tệ ứng phó với cú sốc. Nhược điểm là neo mềm dễ tổn thương trước khủng hoảng tài chính, có thể dẫn tới một đợt phá giá lớn hoặc phải bỏ hẳn neo, và loại chế độ này thường không tồn tại lâu.
+
+**Thả nổi: đầu kia của phổ.** Như tên gọi, tỷ giá chủ yếu do thị trường quyết định. Ở hầu hết các nước thả nổi, ngân hàng trung ương vẫn can thiệp, tức mua hoặc bán ngoại tệ để đổi lấy nội tệ, chủ yếu để hạn chế những biến động ngắn hạn. Nhưng ở một vài nơi, như New Zealand, Thuỵ Điển, Iceland, Mỹ và các nước khu vực euro, ngân hàng trung ương gần như không bao giờ can thiệp để quản lý tỷ giá.
+
+Lợi thế của thả nổi là giữ được chính sách tiền tệ độc lập. Đổi lại, nước thả nổi cần hai điều kiện:
+
+- thị trường ngoại hối và các thị trường tài chính khác phải đủ sâu (đủ nhiều người mua bán, đủ nhiều tiền) để hấp thụ cú sốc mà tỷ giá không biến động quá mạnh;
+- phải có sẵn các công cụ tài chính để doanh nghiệp và nhà đầu tư phòng hộ rủi ro do tỷ giá dao động, ví dụ hợp đồng mua bán ngoại tệ kỳ hạn giúp chủ cửa hàng ván lướt chốt trước tỷ giá cho tháng Bảy.
+
+Gần như mọi nền kinh tế tiên tiến đều thả nổi, và hầu hết các nước thị trường mới nổi lớn cũng vậy.
+
+Tóm tắt các đánh đổi:
+
+| Tiêu chí | Neo cứng | Neo mềm | Thả nổi |
+|---|---|---|---|
+| Ví dụ trong bài | Panama, Hong Kong SAR | Costa Rica, Hungary, Trung Quốc | New Zealand, Thuỵ Điển, Iceland, Mỹ, khu vực euro |
+| Ai quyết định tỷ giá | Luật, gắn chặt với đồng tiền khác | Ngân hàng trung ương, trong một biên độ | Chủ yếu thị trường |
+| Chính sách tiền tệ | Không độc lập | Linh hoạt hạn chế | Độc lập |
+| Độ bền | Thường tồn tại lâu | Thường không tồn tại lâu, dễ vỡ khi khủng hoảng | Bền nếu thị trường đủ sâu |
+| Điều kiện đi kèm | Tài khoá, cơ cấu lành mạnh, lạm phát thấp | Neo danh nghĩa vững | Thị trường sâu, có công cụ phòng hộ |
 
 ### 3. Ngôn ngữ chung
 
-- Vì chế độ tỷ giá là một phần quan trọng của chính sách kinh tế và tiền tệ của mọi nước, các nhà hoạch định cần một ngôn ngữ chung để thảo luận các vấn đề tỷ giá. Rốt cuộc, một chế độ tỷ giá trông mềm với người quan sát này có thể trông cứng với người khác, điều này phản ánh, trong số những thứ khác, sự thiếu thông tin giữa các bên khác nhau về thị trường ngoại hối và về việc mua bán ngoại hối của các ngân hàng trung ương.
-- IMF đã phát triển ngôn ngữ và thuật ngữ được dùng rộng rãi nhất để phân loại các chế độ tỷ giá, như một phần nhiệm vụ giám sát chính sách tỷ giá của các nước thành viên. Về mặt lịch sử, các chế độ tỷ giá do IMF báo cáo dựa trên phân loại của chính nước đó, tức chế độ de jure (theo luật). Nhưng bắt đầu từ năm 1999, IMF cũng bắt đầu báo cáo các chế độ tỷ giá de facto, tức chế độ quan sát được, dựa trên đánh giá của cán bộ IMF về thông tin sẵn có. Và một so sánh giữa chế độ de jure và de facto cho thấy khá nhiều sự không khớp.
-- **Vẻ ngoài có phải là tất cả? (hộp bên)** Trong hơn một thập kỷ, các nước đã cố tỏ ra đang chạy một chế độ tỷ giá linh hoạt hơn thực tế, một xu hướng ngày càng lộ ra trong hệ thống phân loại chế độ tỷ giá của IMF, vốn báo cáo cả chế độ de facto lẫn de jure cho mọi nước thành viên. Hãy xem các ví dụ sau. Trong các năm "rỗng ruột" cuối thập niên 1990, một số nước tự báo cáo là thả nổi, nhưng chúng được phân loại theo nghĩa de facto là neo. Sau đó, một số nước trong đó đã bị buộc phải chuyển sang các chế độ thả nổi de facto dưới áp lực thị trường. Ngày nay, 25 nước báo cáo rằng họ đang chạy một thoả thuận linh hoạt, dù họ có một neo thông thường de facto. Thêm 14 nước tự báo cáo là đang vận hành một thả nổi độc lập, dù họ có một thả nổi có quản lý de facto. Điều gì đằng sau sự khác biệt giữa lời nói và việc làm? Có lẽ nó phản ánh mong muốn của các nước được nhìn nhận là thân thiện với thị trường, cũng như sự miễn cưỡng bị coi là cam kết với một mức tỷ giá cụ thể.
+Vì chế độ tỷ giá là một phần quan trọng trong chính sách kinh tế và tiền tệ của mọi nước, các nhà hoạch định cần một ngôn ngữ chung để bàn về nó. Vấn đề là một chế độ trông "mềm" với người này có thể trông "cứng" với người khác. Một nguyên nhân là các bên không có đủ thông tin như nhau về thị trường ngoại hối và về việc ngân hàng trung ương mua bán ngoại tệ bao nhiêu.
+
+IMF đã xây dựng bộ khái niệm và thuật ngữ được dùng rộng rãi nhất để phân loại chế độ tỷ giá, như một phần nhiệm vụ giám sát chính sách tỷ giá của các nước thành viên. Cách phân loại thay đổi theo thời gian:
+
+| Giai đoạn | IMF báo cáo dựa trên | Gọi là |
+|---|---|---|
+| Trước đây | Phân loại do chính nước đó tự khai | Chế độ de jure (theo luật) |
+| Từ năm 1999 | Thêm đánh giá của cán bộ IMF dựa trên thông tin sẵn có về hành vi thực tế | Chế độ de facto (quan sát được) |
+
+So sánh hai cách phân loại cho thấy khá nhiều trường hợp không khớp.
+
+**Vẻ ngoài có phải là tất cả? (hộp bên)** Hộp bên của bài tập trung vào sự không khớp này. Trong hơn một thập kỷ, nhiều nước đã cố tỏ ra có chế độ tỷ giá linh hoạt hơn thực tế. Hệ thống phân loại của IMF, vốn báo cáo cả chế độ de facto lẫn de jure cho mọi nước thành viên, ngày càng làm lộ xu hướng đó. Các ví dụ:
+
+- Trong những năm "rỗng ruột" cuối thập niên 1990, một số nước tự khai là thả nổi nhưng được IMF xếp de facto là neo. Sau đó, một số nước trong nhóm này đã bị áp lực thị trường buộc phải chuyển sang thả nổi thật sự.
+- Hiện nay, 25 nước khai là đang có một thoả thuận tỷ giá linh hoạt, trong khi trên thực tế họ có một neo thông thường.
+- Thêm 14 nước tự khai là thả nổi độc lập, trong khi trên thực tế họ thả nổi có quản lý.
+
+Tổng cộng 39 nước nói một đằng làm một nẻo. Bài đưa ra cách giải thích: các nước có lẽ muốn được nhìn nhận là thân thiện với thị trường, và không muốn bị coi là đã cam kết giữ một mức tỷ giá cụ thể.
 
 ### 4. Xu hướng dịch chuyển
 
-- Hiện nay, trên cơ sở de facto, 48 nước có neo cứng, 60 nước có neo mềm, và 79 nước có tỷ giá thả nổi, một thay đổi rõ rệt so với đầu thập niên 1990. Kể từ đó, đã có hai xu hướng rộng trong các chế độ.
-- Xu hướng thứ nhất là "sự rỗng ruột ở giữa" bắt đầu khoảng năm 1990. Khi đó, các dòng vốn trên toàn thế giới đã tăng tốc để đáp lại cả việc bỏ các biện pháp kiểm soát tài khoản vốn lẫn sự phát triển của các sản phẩm và thị trường tài chính mới. Tuy nhiên, dòng vốn vào nhiều nước đã đột ngột dừng lại, thường trong bối cảnh thâm hụt tài khoản vãng lai đang tăng, và dẫn đến cầu đối với đồng tiền của họ giảm xuống. Trong một số trường hợp, đặc biệt ở Tây Âu năm 1992 và Đông Á cuối thập niên 1990, cầu giảm mạnh đến mức các nước cạn kiệt dự trữ quốc tế để bảo vệ neo và bị buộc phải phá giá đồng tiền của mình. Trong hầu hết trường hợp, họ chuyển sang hoặc một tỷ giá neo cứng, vốn chịu được các dòng vốn vào, hoặc một chế độ thả nổi, vốn loại bỏ nhu cầu cam kết với một mức tỷ giá.
-- "Sự rỗng ruột ở giữa" này đã dừng lại năm 2001. Giai đoạn từ đó đã chứng kiến một sự dịch chuyển tinh tế hơn trong các lựa chọn chế độ tỷ giá của các nước. Trong nhóm thả nổi, nhiều nước hơn nay đang quản lý tỷ giá thay vì thả nổi độc lập, và các neo mềm cũng đã lấy lại phần nào sự phổ biến trước đây của chúng. Nhiều nước không thể hoặc không sẵn sàng cam kết với một neo cứng, nhưng họ cũng không thể thả nổi tự do vì các lỗ hổng trong thị trường tài chính và vì các thay đổi tỷ giá có thể ảnh hưởng nghiêm trọng đến bảng cân đối, lạm phát và tăng trưởng của các nước. Hơn nữa, trong một số trường hợp, sự dịch chuyển de facto sang các chế độ được quản lý chặt hơn đã diễn ra mà không có một thay đổi được tuyên bố (de jure) trong chính sách tỷ giá.
+Theo phân loại de facto hiện nay, phân bố các nước như sau:
+
+| Chế độ (de facto) | Số nước |
+|---|---|
+| Neo cứng | 48 |
+| Neo mềm | 60 |
+| Thả nổi | 79 |
+
+Đây là một thay đổi rõ rệt so với đầu thập niên 1990. Từ đó tới nay có hai xu hướng lớn.
+
+**Xu hướng thứ nhất: "sự rỗng ruột ở giữa", bắt đầu khoảng năm 1990.** "Rỗng ruột ở giữa" nghĩa là các nước rời bỏ neo mềm, chế độ nằm giữa phổ, để chuyển về một trong hai đầu. Chuỗi sự kiện diễn ra như sau:
+
+1. Dòng vốn toàn cầu tăng tốc, vì nhiều nước bỏ kiểm soát tài khoản vốn (cho phép tiền vào ra tự do hơn) và vì có thêm nhiều sản phẩm, thị trường tài chính mới.
+2. Rồi dòng vốn vào nhiều nước đột ngột dừng lại, thường đúng lúc thâm hụt tài khoản vãng lai của họ đang tăng.
+3. Cầu đối với đồng tiền của các nước này giảm, vì ít người cần mua đồng tiền đó để đầu tư vào.
+4. Ở một số nơi, nhất là Tây Âu năm 1992 và Đông Á cuối thập niên 1990, cầu giảm mạnh tới mức các nước dùng hết dự trữ quốc tế để bảo vệ mức neo, rồi vẫn bị buộc phải phá giá.
+5. Phần lớn các nước này chuyển sang một trong hai đầu: hoặc neo cứng, loại chịu được biến động của dòng vốn, hoặc thả nổi, loại không cần cam kết giữ một mức tỷ giá nào.
+
+**Xu hướng thứ hai: từ năm 2001, một sự dịch chuyển tinh tế hơn.** "Sự rỗng ruột ở giữa" dừng lại năm 2001. Từ đó, lựa chọn của các nước thay đổi theo cách khó thấy hơn:
+
+- Trong nhóm thả nổi, ngày càng nhiều nước quản lý tỷ giá thay vì thả nổi độc lập.
+- Neo mềm lấy lại một phần sự phổ biến trước đây.
+- Lý do: nhiều nước không thể hoặc không muốn cam kết với một neo cứng, nhưng cũng không thể thả nổi tự do, vì thị trường tài chính của họ còn nhiều lỗ hổng và vì biến động tỷ giá có thể gây hại nghiêm trọng tới bảng cân đối (tài sản và nợ của doanh nghiệp, ngân hàng, nhà nước), tới lạm phát và tăng trưởng.
+- Trong một số trường hợp, các nước đã chuyển sang quản lý tỷ giá chặt hơn trên thực tế (de facto) mà không tuyên bố bất kỳ thay đổi chính sách nào (de jure).
+
+Ví dụ minh hoạ về tác động lên bảng cân đối (số giả định): một doanh nghiệp nợ 1 triệu USD và có doanh thu bằng nội tệ. Nếu nội tệ mất giá 20%, khoản nợ quy ra nội tệ tăng 20% trong khi doanh thu không đổi. Khi nhiều doanh nghiệp ở tình trạng như vậy, nhà nước khó để tỷ giá dao động tự do.
 
 ### 5. Tương lai sẽ ra sao
 
-- Có thể kỳ vọng gì ở các chế độ tỷ giá trong tương lai? Một trường phái cho rằng lợi ích của các khối tiền tệ, tức các nhóm nước dùng một đồng tiền duy nhất (có lẽ là đô la Mỹ, yên, hoặc euro), lớn đến mức áp đảo khiến số đồng tiền độc lập tất yếu sẽ giảm dần, có lẽ xuống còn con số một chữ số. Điều này sẽ đơn giản hoá các giao dịch xuyên quốc gia nhưng ngăn cản mỗi nước trong một khối vận hành một chính sách tiền tệ và tỷ giá độc lập.
-- Một trường phái khác nhấn mạnh các lợi ích của tỷ giá thả nổi và chính sách tiền tệ độc lập, và dự đoán sự tồn tại tiếp tục của một số lượng lớn các đồng tiền quốc gia gắn với các neo danh nghĩa khác nhau. Việc có tồn tại một số lượng lớn các đồng tiền tỷ giá thả nổi, hay chúng kết lại thành một số ít đồng tiền khối, sẽ có những hàm ý rất khác nhau cho doanh nghiệp, nhà hoạch định, và các chủ cửa hàng ván lướt sóng.
+Bài kết thúc bằng hai trường phái dự báo:
+
+| Trường phái | Lập luận | Dự báo | Hệ quả |
+|---|---|---|---|
+| Thứ nhất: khối tiền tệ | Lợi ích của việc nhiều nước dùng chung một đồng tiền (có thể là đô la Mỹ, yên hoặc euro) lớn tới mức áp đảo | Số đồng tiền độc lập tất yếu giảm dần, có thể chỉ còn con số một chữ số (dưới 10) | Giao dịch xuyên biên giới đơn giản hơn, nhưng mỗi nước trong khối mất chính sách tiền tệ và tỷ giá độc lập |
+| Thứ hai: đồng tiền quốc gia | Nhấn mạnh lợi ích của thả nổi và chính sách tiền tệ độc lập | Vẫn tồn tại nhiều đồng tiền quốc gia, mỗi đồng gắn với một neo danh nghĩa riêng | Mỗi nước giữ quyền điều hành tiền tệ |
+
+Thế giới đi theo hướng nào, nhiều đồng tiền thả nổi hay một số ít đồng tiền khối, sẽ có hàm ý rất khác nhau cho doanh nghiệp, cho nhà hoạch định chính sách, và, như bài kết lại, cho cả các chủ cửa hàng ván lướt sóng như người ở đầu bài.
 
 ## Thuật ngữ
 

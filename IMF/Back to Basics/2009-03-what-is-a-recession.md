@@ -178,35 +178,150 @@
 2. Vì sao suy thoái xảy ra và có dự đoán được không?
 3. Suy thoái tốn kém đến đâu, và khác khủng hoảng ra sao?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**GDP thực (real GDP).** GDP là tổng giá trị mọi hàng hoá và dịch vụ một nước sản xuất trong một thời kỳ. GDP thực là GDP đã loại bỏ ảnh hưởng của việc giá cả tăng, để chỉ đo phần sản lượng thật sự thay đổi. Ví dụ minh hoạ: nếu GDP tính theo giá hiện hành tăng 5% trong năm nhưng giá cả chung tăng 3%, thì GDP thực chỉ tăng khoảng 2%. Bài dùng GDP thực làm thước đo chính, vì suy thoái là chuyện sản lượng giảm, không phải chuyện giá thay đổi.
+
+**Suy thoái (recession).** Một giai đoạn hoạt động kinh tế suy giảm, đủ dài để không chỉ là một dao động ngắn. Không có định nghĩa chính thức. Cách dùng phổ biến nhất là "hai quý liên tiếp GDP thực giảm". Ví dụ minh hoạ: GDP thực quý 1 giảm 0,5% so với quý trước, quý 2 giảm tiếp 0,3%; theo quy tắc này nền kinh tế đã vào suy thoái. Đây là khái niệm bài viết định nghĩa và phân tích.
+
+**Định nghĩa của NBER và đỉnh, đáy (peak, trough).** NBER (*National Bureau of Economic Research*) là một tổ chức nghiên cứu tư nhân ở Mỹ chuyên xác định ngày bắt đầu và kết thúc các cuộc suy thoái của Mỹ. Họ coi suy thoái là sự suy giảm đáng kể, lan rộng khắp nền kinh tế, kéo dài hơn vài tháng, thấy được ở sản xuất, việc làm, thu nhập thực và các chỉ báo khác. Suy thoái bắt đầu ở "đỉnh", lúc hoạt động kinh tế cao nhất, và kết thúc ở "đáy", lúc thấp nhất. Ví dụ trong bài: NBER xác định suy thoái Mỹ bắt đầu tháng 12/2007, nhưng phải mất một năm mới công bố.
+
+**Tổng cầu (aggregate demand).** Tổng số tiền mà hộ gia đình, doanh nghiệp, nhà nước và người nước ngoài muốn chi để mua hàng hoá, dịch vụ của một nước. Khi tổng cầu giảm, doanh nghiệp bán được ít hơn, sản xuất ít hơn và thuê ít người hơn. Ví dụ trong bài: giá năng lượng tăng mạnh đẩy giá chung lên, người dân mua được ít hơn với cùng số tiền, nên tổng cầu giảm. Phần lớn nguyên nhân suy thoái trong bài đi qua kênh tổng cầu.
+
+**Chính sách thắt chặt (contractionary policy).** Chính sách tiền tệ thắt chặt là ngân hàng trung ương nâng lãi suất hoặc giảm lượng tiền; chính sách tài khoá thắt chặt là nhà nước giảm chi tiêu hoặc tăng thuế. Mục đích thường là kìm lạm phát. Ví dụ minh hoạ: lãi suất cho vay tăng từ 6% lên 10% khiến nhiều doanh nghiệp hoãn mở rộng và nhiều gia đình hoãn mua nhà. Bài nêu đây là một nguyên nhân suy thoái khi bị dùng quá mức.
+
+**Bùng nổ tín dụng (credit boom).** Giai đoạn tín dụng (tiền cho vay) tăng rất nhanh, thường cùng lúc với giá tài sản như nhà và cổ phiếu tăng mạnh, khiến nợ tích luỹ nhanh. Ví dụ minh hoạ: dư nợ cho vay tăng 30% mỗi năm trong vài năm liền trong khi sản lượng chỉ tăng 6% mỗi năm. Bài cho biết không phải mọi đợt bùng nổ tín dụng đều kết thúc bằng suy thoái, nhưng những cuộc suy thoái đi sau nó thường tốn kém hơn.
+
+**Nội sinh (endogenous).** Một biến là nội sinh với suy thoái khi nó vừa có thể gây ra suy thoái vừa có thể là hệ quả của suy thoái. Ví dụ: thất nghiệp tăng có thể khiến người dân chi tiêu ít hơn và làm suy thoái sâu thêm, nhưng thất nghiệp cũng tăng chính vì suy thoái đã xảy ra. Khái niệm này giải thích vì sao rất khó dùng các biến như tín dụng, giá tài sản, thất nghiệp để dự báo suy thoái.
+
+**Khủng hoảng (depression).** Một cuộc suy thoái cực kỳ nghiêm trọng. Không có định nghĩa chính thức, nhưng hầu hết nhà phân tích dùng mốc GDP giảm hơn 10%. Ví dụ trong bài: Phần Lan đầu thập niên 1990, GDP giảm khoảng 14%; Đại Khủng hoảng ở Mỹ thập niên 1930, kinh tế co lại khoảng 30% trong bốn năm. Khái niệm này giúp đặt cuộc suy thoái 2007–2009 vào đúng tầm so sánh.
+
+## Nội dung chi tiết
 
 ### 1. Bối cảnh
 
-- Hơn một năm nay, hầu như không ngày nào trôi qua mà ta không nghe tin kinh tế khủng khiếp về Mỹ, châu Âu hay Nhật Bản. Thất nghiệp đang tăng, lợi nhuận công ty đang giảm, thị trường tài chính đang lao dốc, và khu vực nhà ở đang sụp đổ. Có một từ duy nhất nào mô tả các diễn biến này không? Có: "suy thoái".
-- Cuộc khủng hoảng tài chính toàn cầu đang diễn ra đi kèm với suy thoái ở nhiều nước. Mô hình này nhất quán với ghi chép lịch sử. Các cuộc suy thoái đồng bộ đã xảy ra ở các nền kinh tế tiên tiến vài lần trong bốn thập kỷ qua: giữa thập niên 70, đầu thập niên 80, đầu thập niên 90, và đầu những năm 2000. Vì Mỹ là nền kinh tế lớn nhất thế giới và có liên kết thương mại và tài chính mạnh với nhiều nền kinh tế khác, hầu hết các đợt suy thoái đồng bộ toàn cầu này cũng trùng với các cuộc suy thoái ở Mỹ.
-- Dù các cuộc suy thoái ở Mỹ đã trở nên nhẹ hơn theo thời gian, cuộc suy thoái hiện tại có khả năng thay đổi xu hướng này. Đã 16 tháng tuổi, với các sụt giảm mạnh ở tiêu dùng và đầu tư, nó có thể trở thành một trong những cuộc suy thoái dài nhất và sâu nhất kể từ Đại Khủng hoảng thập niên 1930.
+Bài được viết vào tháng 3/2009, giữa cuộc khủng hoảng tài chính toàn cầu. Hơn một năm trước đó, hầu như ngày nào cũng có tin kinh tế rất xấu từ Mỹ, châu Âu hay Nhật Bản: thất nghiệp tăng, lợi nhuận doanh nghiệp giảm, thị trường tài chính lao dốc, thị trường nhà ở sụp đổ. Bài hỏi: có một từ nào mô tả chung tất cả những diễn biến này không? Câu trả lời là có: "suy thoái".
+
+Khủng hoảng tài chính toàn cầu khi đó đi kèm suy thoái ở nhiều nước. Bài chỉ ra rằng điều này khớp với lịch sử: các cuộc suy thoái đồng bộ, tức nhiều nền kinh tế tiên tiến cùng suy thoái một lúc, đã xảy ra vài lần trong bốn thập kỷ trước đó:
+
+- giữa thập niên 70;
+- đầu thập niên 80;
+- đầu thập niên 90;
+- đầu những năm 2000.
+
+Vì Mỹ là nền kinh tế lớn nhất thế giới và gắn chặt với nhiều nền kinh tế khác qua thương mại và tài chính, hầu hết các đợt suy thoái đồng bộ toàn cầu này đều trùng với một cuộc suy thoái ở Mỹ.
+
+Theo thời gian, các cuộc suy thoái ở Mỹ đã trở nên nhẹ hơn. Nhưng bài cho rằng cuộc suy thoái đang diễn ra có thể phá vỡ xu hướng đó. Tới lúc viết bài, nó đã kéo dài 16 tháng, với tiêu dùng và đầu tư giảm mạnh, và có thể trở thành một trong những cuộc suy thoái dài nhất và sâu nhất kể từ Đại Khủng hoảng thập niên 1930.
 
 ### 2. Gọi tên một cuộc suy thoái
 
-- Không có định nghĩa chính thức về suy thoái, nhưng có sự thừa nhận chung rằng thuật ngữ này chỉ một giai đoạn suy giảm hoạt động kinh tế. Các giai đoạn suy giảm rất ngắn không được coi là suy thoái. Hầu hết các bình luận viên và nhà phân tích dùng, như một định nghĩa thực dụng về suy thoái, hai quý liên tiếp GDP thực (đã điều chỉnh lạm phát) của một nước giảm, tức giá trị của mọi hàng hoá và dịch vụ một nước sản xuất. Dù định nghĩa này là một quy tắc ngón tay cái hữu ích, nó có những nhược điểm. Chỉ tập trung vào GDP là hẹp, và thường tốt hơn nếu xem xét một tập rộng hơn các thước đo hoạt động kinh tế để xác định liệu một nước có thực sự đang chịu suy thoái không. Việc dùng các chỉ báo khác cũng có thể cung cấp một thước đo kịp thời hơn về tình trạng nền kinh tế.
-- National Bureau of Economic Research (NBER), một tổ chức nghiên cứu tư nhân duy trì biên niên sử các ngày bắt đầu và kết thúc của các cuộc suy thoái ở Mỹ, dùng một định nghĩa rộng hơn và xem xét một số thước đo hoạt động để quyết định các ngày của suy thoái. Uỷ ban Xác định Ngày Chu kỳ Kinh doanh của NBER định nghĩa một cuộc suy thoái là "sự suy giảm đáng kể của hoạt động kinh tế lan rộng khắp nền kinh tế, kéo dài hơn vài tháng, thường thấy được ở sản xuất, việc làm, thu nhập thực, và các chỉ báo khác. Một cuộc suy thoái bắt đầu khi nền kinh tế đạt đỉnh hoạt động và kết thúc khi nền kinh tế đạt đáy." Nhất quán với định nghĩa này, uỷ ban tập trung vào một tập thước đo toàn diện, gồm không chỉ GDP mà cả việc làm, thu nhập, doanh số, và sản xuất công nghiệp, để phân tích các xu hướng trong hoạt động kinh tế.
-- Dù một nền kinh tế có thể cho thấy các dấu hiệu suy yếu vài tháng trước khi một cuộc suy thoái bắt đầu, quá trình xác định liệu một nước có đang trong một cuộc suy thoái thực sự (hay không) thường mất thời gian. Chẳng hạn, uỷ ban NBER mất một năm để công bố rằng cuộc suy thoái hiện tại ở Mỹ bắt đầu vào tháng 12/2007. Điều này dễ hiểu, vì quá trình quyết định liên quan đến việc xác lập một sự suy giảm rộng khắp của hoạt động kinh tế trong một khoảng thời gian kéo dài sau khi biên soạn và sàng lọc nhiều biến, vốn thường chịu các chỉnh sửa sau khi công bố ban đầu. Ngoài ra, các thước đo hoạt động khác nhau có thể thể hiện hành vi mâu thuẫn, khiến khó xác định liệu nước đó có thực sự đang chịu một sự suy giảm trên diện rộng của hoạt động kinh tế không.
+**Không có định nghĩa chính thức.** Mọi người đều đồng ý rằng suy thoái là một giai đoạn hoạt động kinh tế suy giảm, và một đợt suy giảm rất ngắn thì không được tính là suy thoái. Ngoài điểm chung đó, có hai cách xác định được dùng phổ biến.
+
+**Cách thứ nhất: quy tắc ngón tay cái hai quý.** Hầu hết bình luận viên và nhà phân tích dùng một định nghĩa thực dụng: suy thoái là khi GDP thực (đã điều chỉnh lạm phát) của một nước giảm trong hai quý liên tiếp. GDP ở đây là giá trị của mọi hàng hoá và dịch vụ mà nước đó sản xuất.
+
+Quy tắc này hữu ích vì đơn giản, nhưng có hai nhược điểm:
+
+- Chỉ nhìn vào GDP là quá hẹp. Tốt hơn là xem một tập rộng các thước đo hoạt động kinh tế để biết một nước có thật sự đang suy thoái hay không.
+- Các chỉ báo khác thường cho biết tình trạng nền kinh tế kịp thời hơn, vì số liệu GDP theo quý công bố chậm.
+
+**Cách thứ hai: định nghĩa của NBER.** National Bureau of Economic Research (NBER) là tổ chức nghiên cứu tư nhân giữ biên niên sử về ngày bắt đầu và kết thúc các cuộc suy thoái ở Mỹ. Uỷ ban Xác định Ngày Chu kỳ Kinh doanh của NBER định nghĩa suy thoái là "sự suy giảm đáng kể của hoạt động kinh tế lan rộng khắp nền kinh tế, kéo dài hơn vài tháng, thường thấy được ở sản xuất, việc làm, thu nhập thực, và các chỉ báo khác. Một cuộc suy thoái bắt đầu khi nền kinh tế đạt đỉnh hoạt động và kết thúc khi nền kinh tế đạt đáy."
+
+Theo định nghĩa đó, uỷ ban không chỉ nhìn GDP mà xem một tập thước đo toàn diện:
+
+| Thước đo NBER xem xét | Cho biết điều gì |
+|---|---|
+| GDP | Tổng sản lượng của nền kinh tế |
+| Việc làm | Số người có việc |
+| Thu nhập | Thu nhập thực của người dân |
+| Doanh số | Lượng hàng hoá bán ra |
+| Sản xuất công nghiệp | Sản lượng của nhà máy, hầm mỏ, điện |
+
+So sánh hai cách:
+
+| Tiêu chí | Quy tắc hai quý | Định nghĩa NBER |
+|---|---|---|
+| Dựa trên | Chỉ GDP thực | Nhiều thước đo: GDP, việc làm, thu nhập, doanh số, sản xuất công nghiệp |
+| Ai dùng | Hầu hết bình luận viên, nhà phân tích | Uỷ ban của NBER, cho nước Mỹ |
+| Ưu điểm | Đơn giản, rõ ràng | Toàn diện, xác định được đỉnh và đáy |
+| Nhược điểm | Hẹp | Cần nhiều thời gian |
+
+**Xác định suy thoái mất thời gian.** Nền kinh tế có thể có dấu hiệu yếu đi vài tháng trước khi suy thoái bắt đầu, nhưng để khẳng định một nước có thật sự đang suy thoái hay không thường cần thời gian. Ví dụ: uỷ ban NBER mất một năm mới công bố rằng cuộc suy thoái Mỹ hiện tại bắt đầu từ tháng 12/2007. Bài giải thích vì sao sự chậm trễ này dễ hiểu:
+
+- Uỷ ban phải chứng minh được hoạt động kinh tế suy giảm trên diện rộng trong một thời gian kéo dài.
+- Họ phải thu thập và sàng lọc nhiều biến số, và những biến này thường bị chỉnh sửa sau lần công bố đầu tiên.
+- Các thước đo khác nhau có thể cho tín hiệu trái ngược nhau, ví dụ sản xuất giảm trong khi thu nhập chưa giảm, khiến khó kết luận suy giảm đã lan rộng hay chưa.
 
 ### 3. Vì sao suy thoái xảy ra
 
-- Hiểu nguồn gốc của các cuộc suy thoái là một trong các lĩnh vực nghiên cứu bền bỉ trong kinh tế học. Có nhiều lý do khiến suy thoái xảy ra. Một số gắn với các thay đổi mạnh trong giá của các đầu vào dùng để sản xuất hàng hoá và dịch vụ. Chẳng hạn, việc giá dầu tăng mạnh có thể là điềm báo một cuộc suy thoái sắp đến. Khi năng lượng trở nên đắt đỏ, nó đẩy mức giá chung lên, dẫn đến sự suy giảm của tổng cầu. Một cuộc suy thoái cũng có thể bị kích hoạt bởi quyết định của một nước nhằm giảm lạm phát bằng cách dùng các chính sách tiền tệ hoặc tài khoá thắt chặt. Khi được dùng quá mức, các chính sách như vậy có thể dẫn đến sự suy giảm của cầu hàng hoá và dịch vụ, rốt cuộc gây ra suy thoái.
-- Một số cuộc suy thoái, gồm cả cuộc hiện tại, bắt nguồn từ các vấn đề thị trường tài chính. Việc giá tài sản tăng mạnh và tín dụng mở rộng nhanh chóng thường trùng với việc tích luỹ nợ nhanh. Khi các doanh nghiệp và hộ gia đình vượt quá khả năng và gặp khó khăn trong việc đáp ứng các nghĩa vụ nợ, họ giảm đầu tư và tiêu dùng, đến lượt nó dẫn đến sự suy giảm của hoạt động kinh tế. Không phải mọi đợt bùng nổ tín dụng như vậy đều kết thúc bằng suy thoái, nhưng khi chúng kết thúc như vậy, các cuộc suy thoái này thường tốn kém hơn các cuộc khác. Suy thoái có thể là kết quả của sự suy giảm cầu bên ngoài, đặc biệt ở các nước có khu vực xuất khẩu mạnh. Các tác động bất lợi của suy thoái ở các nước lớn, như Đức, Nhật Bản và Mỹ, được các đối tác thương mại khu vực của họ cảm nhận nhanh chóng, đặc biệt trong các đợt suy thoái đồng bộ toàn cầu.
-- Vì các cuộc suy thoái có nhiều nguyên nhân tiềm tàng, việc dự đoán chúng là một thách thức. Các mô hình hành vi của nhiều biến kinh tế, gồm khối lượng tín dụng, giá tài sản, và tỷ lệ thất nghiệp, quanh các đợt suy thoái đã được ghi nhận, nhưng dù chúng có thể là nguyên nhân của suy thoái, chúng cũng có thể là kết quả của suy thoái, hay theo cách nói kinh tế, nội sinh với suy thoái. Dù các nhà kinh tế dùng một tập lớn các biến để dự báo hành vi tương lai của hoạt động kinh tế, không biến nào tỏ ra là một chỉ báo đáng tin cậy về việc một cuộc suy thoái sắp xảy ra. Các thay đổi ở một số biến, như giá tài sản, tỷ lệ thất nghiệp, một số lãi suất, và niềm tin người tiêu dùng, có vẻ hữu ích trong việc dự đoán suy thoái, nhưng các nhà kinh tế vẫn thiếu sót trong việc dự báo chính xác một phần đáng kể các cuộc suy thoái, chưa nói đến việc dự đoán mức độ nghiêm trọng của chúng về thời lượng và biên độ.
+Tìm hiểu nguồn gốc của suy thoái là một trong những hướng nghiên cứu lâu đời và bền bỉ nhất của kinh tế học. Bài nêu bốn nhóm nguyên nhân:
+
+| Nguyên nhân | Cơ chế | Ví dụ trong bài |
+|---|---|---|
+| Giá đầu vào thay đổi mạnh | Đầu vào sản xuất đắt lên đẩy mức giá chung lên, làm tổng cầu giảm | Giá dầu tăng vọt có thể báo trước suy thoái |
+| Chính sách thắt chặt quá mức | Nhà nước muốn giảm lạm phát bằng chính sách tiền tệ hoặc tài khoá thắt chặt; dùng quá tay thì cầu hàng hoá, dịch vụ giảm | |
+| Vấn đề thị trường tài chính | Giá tài sản tăng mạnh và tín dụng mở rộng nhanh đi cùng nợ tích luỹ nhanh; khi doanh nghiệp, hộ gia đình vượt quá khả năng trả nợ, họ cắt đầu tư và tiêu dùng | Cuộc suy thoái hiện tại |
+| Cầu bên ngoài giảm | Nước có khu vực xuất khẩu mạnh bán được ít hàng hơn khi các nước khác suy thoái | Suy thoái ở Đức, Nhật Bản, Mỹ được các đối tác thương mại trong khu vực cảm nhận rất nhanh |
+
+Hai nguyên nhân cần giải thích thêm.
+
+Về vấn đề thị trường tài chính, chuỗi sự kiện điển hình là: giá tài sản tăng, người ta vay thêm để mua thêm tài sản, nợ chồng chất; tới lúc doanh nghiệp và hộ gia đình không còn trả nổi nợ, họ buộc phải giảm đầu tư và tiêu dùng; chi tiêu giảm làm hoạt động kinh tế giảm. Không phải đợt bùng nổ tín dụng nào cũng kết thúc bằng suy thoái, nhưng khi có, cuộc suy thoái đó thường tốn kém hơn các cuộc khác.
+
+Về cầu bên ngoài, tác động lan rất nhanh, nhất là trong các đợt suy thoái đồng bộ toàn cầu, khi nhiều thị trường xuất khẩu cùng suy yếu một lúc.
+
+**Vì sao khó dự báo suy thoái.** Vì có quá nhiều nguyên nhân có thể gây ra suy thoái, việc dự đoán nó rất khó. Bài nêu ba lý do:
+
+- Các nhà kinh tế đã ghi nhận cách nhiều biến số như khối lượng tín dụng, giá tài sản, tỷ lệ thất nghiệp thay đổi quanh các cuộc suy thoái. Nhưng những biến này có thể là nguyên nhân, cũng có thể là kết quả của suy thoái; theo cách nói của kinh tế học, chúng nội sinh với suy thoái. Vì vậy thấy chúng thay đổi chưa chắc đã đoán được suy thoái.
+- Nhà kinh tế dùng rất nhiều biến để dự báo hoạt động kinh tế, nhưng chưa biến nào tỏ ra là chỉ báo đáng tin cậy rằng suy thoái sắp xảy ra.
+- Thay đổi của một số biến, như giá tài sản, tỷ lệ thất nghiệp, một số lãi suất và niềm tin người tiêu dùng, có vẻ có ích. Dù vậy, các nhà kinh tế vẫn không dự báo chính xác được một phần đáng kể các cuộc suy thoái, càng không đoán được suy thoái sẽ kéo dài bao lâu và sâu tới đâu.
 
 ### 4. Hiếm nhưng tốn kém
 
-- Đã có 122 cuộc suy thoái hoàn chỉnh ở 21 nền kinh tế tiên tiến trong giai đoạn 1960–2007. Dù nghe có vẻ nhiều, các cuộc suy thoái không xảy ra thường xuyên. Thực tế, tỷ lệ thời gian ở trong suy thoái, đo bằng phần trăm số quý một nước ở trong suy thoái trên toàn mẫu, thường khoảng 10%. Dù mỗi cuộc suy thoái có các đặc điểm riêng, các cuộc suy thoái thường thể hiện một số đặc tính chung.
-- Chúng thường kéo dài khoảng một năm và thường dẫn đến một chi phí sản lượng đáng kể. Cụ thể, một cuộc suy thoái thường gắn với việc GDP giảm 2%. Trong trường hợp các cuộc suy thoái nghiêm trọng, chi phí sản lượng điển hình gần 5%. Mức giảm tiêu dùng thường nhỏ, nhưng cả sản xuất công nghiệp lẫn đầu tư đều ghi nhận các mức giảm lớn hơn nhiều so với GDP. Chúng thường trùng với sự sụt giảm của thương mại quốc tế khi xuất khẩu và, đặc biệt, nhập khẩu giảm mạnh trong các giai đoạn chậm lại. Tỷ lệ thất nghiệp gần như luôn tăng vọt và lạm phát giảm nhẹ vì tổng cầu hàng hoá và dịch vụ bị cắt giảm. Cùng với sự xói mòn giá trị nhà và cổ phiếu, các cuộc suy thoái có xu hướng gắn với hỗn loạn trong thị trường tài chính.
+**Suy thoái hiếm.** Trong giai đoạn 1960–2007, 21 nền kinh tế tiên tiến đã trải qua tổng cộng 122 cuộc suy thoái hoàn chỉnh. Con số nghe có vẻ lớn, nhưng chia ra thì suy thoái không thường xuyên: tỷ lệ thời gian một nước ở trong suy thoái, tính bằng phần trăm số quý suy thoái trên tổng số quý của mẫu, thường chỉ khoảng 10%. Tính nhẩm: 122 cuộc chia cho 21 nước là trung bình chưa tới sáu cuộc mỗi nước trong gần năm mươi năm.
+
+**Nhưng tốn kém.** Mỗi cuộc suy thoái có đặc điểm riêng, nhưng chúng có một số điểm chung:
+
+| Đặc điểm chung | Mức độ |
+|---|---|
+| Thời gian kéo dài | Thường khoảng một năm |
+| GDP giảm (chi phí sản lượng) | Thường khoảng 2%; với suy thoái nghiêm trọng, gần 5% |
+| Tiêu dùng | Thường giảm ít |
+| Sản xuất công nghiệp và đầu tư | Giảm nhiều hơn hẳn so với GDP |
+| Thương mại quốc tế | Thường giảm, xuất khẩu và nhất là nhập khẩu giảm mạnh |
+| Thất nghiệp | Gần như luôn tăng vọt |
+| Lạm phát | Giảm nhẹ, vì tổng cầu bị cắt giảm |
+| Thị trường tài chính | Giá nhà và cổ phiếu giảm, thường kèm hỗn loạn tài chính |
+
+Ví dụ minh hoạ để thấy chi phí 2% nghĩa là gì: với một nền kinh tế có GDP 1.000 tỷ USD, giảm 2% là mất khoảng 20 tỷ USD sản lượng; giảm gần 5% trong một cuộc suy thoái nặng là mất gần 50 tỷ USD.
+
+Vì sao tiêu dùng giảm ít còn đầu tư giảm mạnh? Bài không giải thích; cách giải thích phổ thông là người dân cố giữ mức sống bằng tiền tiết kiệm, còn doanh nghiệp dễ hoãn mua máy móc, xây nhà xưởng khi chưa thấy nhu cầu hồi phục.
 
 ### 5. Còn khủng hoảng thì sao?
 
-- Cuộc suy thoái hiện tại ở Mỹ là cuộc thứ tám nước này trải qua từ năm 1960. Cuộc suy thoái điển hình ở Mỹ trong giai đoạn đó kéo dài khoảng 11 tháng, với cuộc dài nhất (năm 1973 và 1981) là 16 tháng và ngắn nhất (năm 1980) là tám tháng. Mức giảm sản lượng từ đỉnh đến đáy trung bình 1,7%, với cuộc suy thoái tệ nhất (năm 1973) dẫn đến mất sản lượng hơn 3% một chút. Dù đầu tư và sản xuất công nghiệp giảm trong mọi cuộc suy thoái, tiêu dùng chỉ ghi nhận mức giảm ở ba cuộc.
-- Một câu hỏi đôi khi được đặt ra là cuộc suy thoái đang diễn ra so với một cuộc khủng hoảng như thế nào, đặc biệt là Đại Khủng hoảng thập niên 1930. Không có định nghĩa chính thức về khủng hoảng, nhưng hầu hết các nhà phân tích coi một cuộc khủng hoảng là một cuộc suy thoái cực kỳ nghiêm trọng trong đó mức giảm GDP vượt quá 10%. Chỉ có một số ít đợt khủng hoảng ở các nền kinh tế tiên tiến kể từ năm 1960. Gần đây nhất là vào đầu thập niên 1990 ở Phần Lan, nước ghi nhận mức giảm GDP khoảng 14%. Cuộc khủng hoảng đó trùng với sự tan rã của Liên Xô, một đối tác thương mại lớn của Phần Lan. Trong Đại Khủng hoảng, nền kinh tế Mỹ co lại khoảng 30% trong bốn năm. Dù cuộc suy thoái hiện tại rõ ràng nghiêm trọng, chi phí sản lượng của nó đến nay vẫn nhỏ hơn nhiều so với Đại Khủng hoảng.
+**Suy thoái ở Mỹ từ năm 1960.** Cuộc suy thoái đang diễn ra là cuộc thứ tám ở Mỹ kể từ năm 1960. Các con số của giai đoạn này:
+
+| Đại lượng | Giá trị |
+|---|---|
+| Thời gian trung bình | Khoảng 11 tháng |
+| Dài nhất | 16 tháng (các cuộc năm 1973 và 1981) |
+| Ngắn nhất | 8 tháng (năm 1980) |
+| Mức giảm sản lượng từ đỉnh đến đáy, trung bình | 1,7% |
+| Mức giảm tệ nhất | Hơn 3% một chút (năm 1973) |
+| Đầu tư và sản xuất công nghiệp | Giảm trong mọi cuộc |
+| Tiêu dùng | Chỉ giảm trong ba cuộc |
+
+So sánh: cuộc suy thoái hiện tại, khi bài được viết, đã kéo dài 16 tháng, tức đã bằng các cuộc dài nhất từ năm 1960.
+
+**Khủng hoảng khác suy thoái thế nào.** Người ta đôi khi hỏi cuộc suy thoái hiện tại so với một cuộc khủng hoảng, nhất là Đại Khủng hoảng thập niên 1930, thì thế nào. Khủng hoảng cũng không có định nghĩa chính thức, nhưng hầu hết nhà phân tích coi đó là một cuộc suy thoái cực kỳ nghiêm trọng, trong đó GDP giảm hơn 10%.
+
+| Sự kiện | Mức giảm GDP | Ghi chú |
+|---|---|---|
+| Suy thoái điển hình ở các nền kinh tế tiên tiến | Khoảng 2% | Nghiêm trọng thì gần 5% |
+| Suy thoái điển hình ở Mỹ từ 1960 | 1,7% | Tệ nhất hơn 3% một chút |
+| Mốc khủng hoảng | Hơn 10% | Quy ước của hầu hết nhà phân tích |
+| Phần Lan đầu thập niên 1990 | Khoảng 14% | Trùng với sự tan rã của Liên Xô, một đối tác thương mại lớn |
+| Đại Khủng hoảng ở Mỹ | Khoảng 30% trong bốn năm | |
+
+Kể từ năm 1960, các nền kinh tế tiên tiến chỉ trải qua một số ít cuộc khủng hoảng, gần nhất là Phần Lan đầu thập niên 1990. Kết luận của bài: cuộc suy thoái hiện tại rõ ràng nghiêm trọng, nhưng cho tới lúc viết bài, sản lượng bị mất vẫn nhỏ hơn rất nhiều so với Đại Khủng hoảng.
 
 ## Thuật ngữ
 

@@ -189,38 +189,154 @@
 2. Hai mô hình cho vay hoạt động thế nào?
 3. Các tranh luận mở về tương lai tài chính vi mô là gì?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tài chính vi mô (microfinance) và định chế tài chính vi mô (MFI).** Tài chính vi mô là việc cung cấp những khoản vay rất nhỏ và các dịch vụ tài chính khác (gửi tiết kiệm, bảo hiểm, chuyển tiền) cho người nghèo, những người mà ngân hàng thông thường không phục vụ. Tổ chức làm việc này gọi là định chế tài chính vi mô (*microfinance institution*, MFI). Ví dụ trong bài: năm 1979 Grameen cho Mufiya vay 500 taka, khoảng 22 USD, để làm nghề tre. Đây là chủ đề của toàn bài.
+
+**Tài sản thế chấp (collateral) và lịch sử tín dụng.** Tài sản thế chấp là thứ người vay cam kết giao cho người cho vay nếu không trả nợ, như nhà, đất, xe. Lịch sử tín dụng là hồ sơ ghi lại người đó từng vay và trả nợ thế nào. Ngân hàng dùng hai thứ này để giảm rủi ro. Người nghèo thường không có cả hai, nên ngân hàng coi họ là rủi ro cao. Tài chính vi mô ra đời để thay hai công cụ đó bằng những cách khác.
+
+**Cho vay theo nhóm (group lending) và áp lực đồng đẳng (peer pressure).** Người vay lập nhóm nhỏ và cùng chịu trách nhiệm cho khoản vay của nhau; nếu một người không trả, cả nhóm bị ảnh hưởng, nên các thành viên tự nhắc nhở và giám sát nhau. Ví dụ trong bài: để được vay, Mufiya phải lập nhóm với bốn người khác. Đây là cách Grameen thay thế tài sản thế chấp bằng ràng buộc xã hội.
+
+**Cho vay cá nhân (individual lending).** Khoản vay lớn hơn, cấp cho từng người, không có bảo lãnh của nhóm, điều kiện linh hoạt hơn, thường dành cho người nghèo đã có nghề và kỹ năng kinh doanh. Ví dụ trong bài: Accion cho vay các khoản ngắn hạn từ 100 đến 500 USD. Đây là mô hình thứ hai bên cạnh cho vay theo nhóm.
+
+**Lãi suất thực (lãi suất sau khi điều chỉnh lạm phát).** Lãi suất ghi trên hợp đồng trừ đi tốc độ tăng giá. Ví dụ minh hoạ: vay với lãi 40% một năm khi lạm phát 10% thì lãi suất thực khoảng 30%, tức sức mua thật mà người vay phải trả thêm là khoảng 30%. Bài nói lãi suất vay vi mô từ 20% đến 35% ngay cả sau khi điều chỉnh lạm phát, nghĩa là đắt thật chứ không phải do lạm phát.
+
+**Tự bền vững (self-sustainable) và trợ cấp.** Một MFI tự bền vững khi tiền lãi và phí thu được đủ trang trải mọi chi phí mà không cần tiền tài trợ từ chính phủ hay nhà từ thiện. Ví dụ trong bài: trong gần 1.000 MFI mà MIX theo dõi, gần một nửa tự bền vững. Đây là trục của hai câu hỏi tranh luận đầu tiên: tài chính vi mô có thể, và có nên, tự bền vững không.
+
+**Chèn lấn (crowding out).** Khi một bên được trợ cấp bán rẻ hơn chi phí, những bên không được trợ cấp không cạnh tranh nổi và bị đẩy ra khỏi thị trường. Ví dụ minh hoạ: một MFI được trợ cấp cho vay 10% một năm trong khi chi phí thật là 25%; MFI tự bền vững ở cùng vùng phải lấy 25% sẽ mất khách. Bài nêu khả năng này như lý lẽ phản bác việc trợ cấp nhiều.
+
+**Ngân hàng không chi nhánh (branchless banking) và kiều hối.** Ngân hàng không chi nhánh là cung cấp dịch vụ tài chính qua điện thoại di động và thiết bị thanh toán đặt tại cửa hàng, với chủ cửa hàng làm đại lý nhận và chi tiền mặt, thay vì mở chi nhánh. Kiều hối là tiền người đi làm xa (ở thành phố hay nước ngoài) gửi về cho gia đình. Bài coi đây là hướng công nghệ có thể giảm chi phí và đưa dịch vụ tới nhiều người nghèo hơn.
+
+## Nội dung chi tiết
 
 ### 1. Câu chuyện Mufiya
 
-- Mufiya Khatoon, một phụ nữ trẻ nghèo và mù chữ ở nông thôn Bangladesh, từng dành cả ngày đi xin vài lạng gạo để nuôi con. Cô tuyệt vọng khao khát một sinh kế, nhưng thiếu vốn để khởi nghiệp một doanh nghiệp nhỏ, và không có nơi nào cô có thể vay với điều kiện mình kham nổi. Cho đến khi cô phát hiện Grameen Bank, một trong những định chế tài chính vi mô đầu tiên, được lập ở nông thôn Bangladesh sau nạn đói năm 1976. Năm 1979, Grameen cho Mufiya vay một năm 500 taka (khoảng 22 đô la), đủ để khởi nghiệp kinh doanh tre. Để đủ điều kiện, cô phải lập một nhóm với bốn người khác trong hoàn cảnh tương tự. Cô trả lãi suất 20%, với các khoản trả 2% của khoản vay mỗi tuần. Điều kiện ngặt nghèo có lẽ, nhưng tốt hơn lãi suất 150% mà một người cho vay nặng lãi địa phương sẽ đòi. Mufiya đã có thể khởi nghiệp kinh doanh sản phẩm tre và, một năm sau, cô trả hết khoản vay. Cô khá hơn về mặt vật chất và kiểm soát được số phận của chính mình nhiều hơn.
-- Tài chính vi mô đã cho Mufiya, như đã cho hàng triệu người nghèo khác không có lịch sử tín dụng, tài sản thế chấp hay thu nhập ổn định, khả năng tiếp cận các dịch vụ tài chính cơ bản. Một nửa dân số thế giới, gần ba tỷ người nghèo, thiếu khả năng tiếp cận như vậy. Hầu hết các ngân hàng chính thống coi người nghèo là rủi ro cao và khó phục vụ vì họ thường sống rải rác ở các vùng xa xôi và vì các khoản vay nhỏ họ cần thì tốn kém để làm và duy trì. Nhưng tài chính vi mô, vốn chuyên cung cấp các khoản vay nhỏ và dịch vụ tài chính khác cho cả những người cùng khổ nhất thế giới, thách thức các giả định truyền thống đó.
-- Trong ba thập kỷ qua, tài chính vi mô đã bùng nổ từ thí nghiệm phi lợi nhuận nhỏ bé của Grameen ở Bangladesh thành một ngành toàn cầu. Grameen Bank và người sáng lập Muhammad Yunus đã nhận Giải Nobel Hoà bình 2006 cho các nỗ lực tiên phong cung cấp dịch vụ tài chính cho những người nghèo nhất trong số người nghèo. Nhiều người nhiệt thành tin rằng tài chính vi mô là một công cụ quan trọng trong nỗ lực chấm dứt nghèo đói thế giới. Liệu họ có đúng vẫn còn là câu hỏi mở.
+Bài mở đầu bằng câu chuyện của Mufiya Khatoon, một phụ nữ trẻ nghèo, mù chữ ở nông thôn Bangladesh. Có thời cô dành cả ngày đi xin vài lạng gạo để nuôi con. Cô rất muốn có một sinh kế, nhưng không có vốn để bắt đầu một công việc kinh doanh nhỏ, và không nơi nào cho cô vay với điều kiện cô kham nổi.
+
+Rồi cô biết đến Grameen Bank, một trong những định chế tài chính vi mô đầu tiên, được lập ở nông thôn Bangladesh sau nạn đói năm 1976. Năm 1979, Grameen cho Mufiya vay trong một năm. Các điều kiện của khoản vay như sau:
+
+| Điều kiện | Nội dung |
+|---|---|
+| Số tiền | 500 taka, khoảng 22 USD |
+| Mục đích | Khởi nghiệp làm và bán sản phẩm tre |
+| Thời hạn | Một năm |
+| Điều kiện để được vay | Lập nhóm với bốn người khác có hoàn cảnh tương tự |
+| Lãi suất | 20% |
+| Lịch trả | Mỗi tuần trả 2% khoản vay |
+| So sánh | Người cho vay nặng lãi ở địa phương sẽ đòi lãi suất 150% |
+
+Những điều kiện này có thể coi là ngặt nghèo, nhất là việc trả hằng tuần ngay từ đầu, nhưng vẫn tốt hơn rất nhiều so với mức 150% của người cho vay nặng lãi. Mufiya bắt đầu kinh doanh sản phẩm tre và một năm sau trả hết nợ. Cô khá hơn về vật chất và, quan trọng không kém, có quyền quyết định cuộc sống của mình nhiều hơn.
+
+Theo bài, tài chính vi mô đã mang lại cho Mufiya, cũng như cho hàng triệu người nghèo khác, khả năng tiếp cận các dịch vụ tài chính cơ bản dù họ không có lịch sử tín dụng, tài sản thế chấp hay thu nhập ổn định. Quy mô của nhu cầu rất lớn: một nửa dân số thế giới, gần ba tỷ người nghèo, chưa được tiếp cận như vậy.
+
+Vì sao ngân hàng thông thường không phục vụ họ? Bài nêu hai lý do. Thứ nhất, người nghèo bị coi là rủi ro cao. Thứ hai, họ khó phục vụ: thường sống rải rác ở vùng xa, và các khoản vay nhỏ mà họ cần lại tốn kém để làm hồ sơ và theo dõi. Một khoản vay 22 USD tốn gần như cùng công sức thẩm định như một khoản lớn gấp trăm lần, nhưng tiền lãi thu về thì nhỏ hơn trăm lần. Tài chính vi mô chuyên cung cấp khoản vay nhỏ và các dịch vụ khác cho cả những người nghèo nhất, và qua đó thách thức các giả định truyền thống ấy.
+
+Trong ba thập kỷ, tài chính vi mô đã phát triển từ thí nghiệm phi lợi nhuận nhỏ của Grameen ở Bangladesh thành một ngành toàn cầu. Grameen Bank và người sáng lập là Muhammad Yunus được trao Giải Nobel Hoà bình 2006 vì đã tiên phong cung cấp dịch vụ tài chính cho những người nghèo nhất. Nhiều người nhiệt thành tin rằng tài chính vi mô là công cụ quan trọng để chấm dứt nghèo đói trên thế giới. Bài nói rõ: niềm tin đó có đúng hay không vẫn còn là câu hỏi mở.
 
 ### 2. Bối cảnh hiện tại
 
-- Ngày nay, những người chơi tài chính vi mô gồm chính phủ, nhà từ thiện, nhà đầu tư xã hội, và các ngân hàng thương mại như Citicorp và ING, bị hấp dẫn bởi tiềm năng lợi nhuận và trách nhiệm xã hội doanh nghiệp. Khách hàng vẫn có thể đến một ngân hàng kiểu Grameen, nhưng họ cũng có thể đến các hợp tác xã tín dụng tài chính vi mô, ngân hàng khu vực công và thương mại, và, tương đối gần đây, ngân hàng Hồi giáo (áp dụng các nguyên tắc tài chính Hồi giáo như chia sẻ rủi ro). Ngoài các khoản vay kinh doanh nhỏ, các định chế tài chính vi mô cung cấp sản phẩm tiền gửi, tiết kiệm, hưu trí và bảo hiểm. Bảo hiểm vi mô đang tăng vì người vay cần bảo hiểm các tài sản như thiết bị nông nghiệp mà họ mua bằng tín dụng vi mô. Thực tế, các định chế tài chính vi mô quan trọng trong việc cung cấp phương tiện tiết kiệm và dịch vụ giao dịch không kém gì trong cho vay.
-- Khách hàng tài chính vi mô sống ở cả vùng nông thôn lẫn thành thị: người nghèo nông thôn vay để vỗ béo gia súc, làm sữa, làm tre hay dệt, trong khi người nghèo thành thị vay để trở thành người bán hàng rong, lái xe kéo hay thợ may. Hơn nữa, tài chính vi mô đã vượt xa gốc rễ của nó ở các nước đang phát triển: một số định chế tài chính vi mô nay phục vụ người nghèo ở các nước công nghiệp.
-- Dù vậy, dữ liệu đáng tin cậy vẫn khó có. Số định chế tài chính vi mô hoạt động hiện nay được ước tính từ 300 đến 25.000, tuỳ định nghĩa. Microfinance Information eXchange (MIX), được gọi là "Bloomberg của tài chính vi mô", báo cáo về gần 1.000 định chế tài chính vi mô trên toàn thế giới, gần một nửa trong số đó tự bền vững. Số người vay khó xác định, với ước tính từ 30 đến 500 triệu. Nhóm vận động Microcredit Summit Campaign đặt tại Washington D.C. đã xác minh hơn 64 triệu trên toàn thế giới năm 2006, tăng từ hơn 9 triệu người vay năm 2000. Nhiều triệu người nghèo nữa gửi tiết kiệm ở các định chế tài chính vi mô.
+**Ai đang tham gia.** Ngành tài chính vi mô ngày nay không còn chỉ là các tổ chức phi lợi nhuận. Người tham gia gồm:
+
+- chính phủ;
+- nhà từ thiện;
+- nhà đầu tư xã hội (những người đầu tư để vừa có lợi nhuận vừa tạo tác động xã hội);
+- ngân hàng thương mại như Citicorp và ING, bị thu hút bởi tiềm năng lợi nhuận và bởi mục tiêu trách nhiệm xã hội của doanh nghiệp.
+
+**Khách hàng vay ở đâu.** Họ vẫn có thể đến một ngân hàng kiểu Grameen, nhưng cũng có thể đến hợp tác xã tín dụng vi mô, ngân hàng khu vực công, ngân hàng thương mại, và gần đây là ngân hàng Hồi giáo. Ngân hàng Hồi giáo áp dụng các nguyên tắc tài chính Hồi giáo, chẳng hạn chia sẻ rủi ro giữa người cho vay và người vay thay vì thu lãi cố định.
+
+**Không chỉ cho vay.** Ngoài khoản vay kinh doanh nhỏ, các MFI còn có sản phẩm tiền gửi, tiết kiệm, hưu trí và bảo hiểm. Bảo hiểm vi mô đang tăng nhanh, vì người vay cần bảo hiểm cho những tài sản như thiết bị nông nghiệp mà họ mua bằng tiền vay vi mô; nếu thiết bị hỏng hay mất, họ vừa mất sinh kế vừa còn nợ. Bài nhấn mạnh rằng trên thực tế, vai trò của MFI trong việc cung cấp chỗ gửi tiết kiệm và dịch vụ giao dịch quan trọng không kém vai trò cho vay.
+
+**Khách hàng là ai.** Họ sống ở cả nông thôn lẫn thành thị:
+
+| Nhóm | Vay để làm gì |
+|---|---|
+| Người nghèo nông thôn | Vỗ béo gia súc, làm sữa, làm tre, dệt |
+| Người nghèo thành thị | Bán hàng rong, lái xe kéo, may mặc |
+
+Tài chính vi mô cũng đã vượt khỏi các nước đang phát triển, nơi nó bắt đầu: một số MFI hiện phục vụ người nghèo ở các nước công nghiệp.
+
+**Dữ liệu vẫn rất thiếu.** Bài lưu ý rằng số liệu đáng tin cậy rất khó có, và các ước tính chênh nhau rất xa:
+
+| Đại lượng | Ước tính |
+|---|---|
+| Số MFI đang hoạt động | Từ 300 đến 25.000, tuỳ cách định nghĩa thế nào là MFI |
+| Số MFI do MIX báo cáo | Gần 1.000 trên toàn thế giới, trong đó gần một nửa tự bền vững |
+| Số người vay | Từ 30 đến 500 triệu |
+| Số người vay đã được xác minh (Microcredit Summit Campaign) | Hơn 64 triệu năm 2006, tăng từ hơn 9 triệu năm 2000 |
+
+MIX (Microfinance Information eXchange) là tổ chức thu thập dữ liệu về các MFI, được gọi là "Bloomberg của tài chính vi mô". Microcredit Summit Campaign là một nhóm vận động đặt tại Washington D.C. Ngoài những người vay, còn nhiều triệu người nghèo khác gửi tiết kiệm tại các MFI. Khoảng cách giữa 30 triệu và 500 triệu người vay cho thấy ngay cả quy mô của ngành cũng chưa ai biết chính xác.
 
 ### 3. Cách vận hành
 
-- Các định chế tài chính vi mô giả định rằng khách hàng của họ đủ thông minh để lo việc riêng, nhưng không giả định rằng mọi người nghèo đều sẽ là người vay đáng tin cậy. Họ đã áp dụng hai cách tiếp cận cơ bản.
-- **Cho vay theo nhóm.** Grameen Bank được coi là người tiên phong của mô hình cho vay theo nhóm, nay đã được áp dụng ở nhiều nước. Người vay cá nhân được yêu cầu lập một nhóm và chịu trách nhiệm cho các khoản vay của nhau. Grameen Bank dựa chủ yếu vào áp lực đồng đẳng để bảo đảm việc trả nợ. Hơn nữa, nó hạn chế rủi ro bằng cách nhắm vào người vay nữ, được coi là đáng tin cậy hơn nhờ các quan hệ cộng đồng dựa trên gia đình. Đầu năm 2007, Grameen Bank báo cáo gần 7 triệu người vay, 96% trong số đó là phụ nữ nghèo, mù chữ từ các làng xa xôi. Và từ năm 1976, ngân hàng nói, 6 tỷ đô la đã được cho vay, với tỷ lệ trả nợ 98%.
-- **Cho vay cá nhân.** Các khoản vay này lớn hơn và được cho các cá nhân mà không có bảo lãnh tập thể và với điều kiện linh hoạt hơn. Người vay điển hình không phải là người rất nghèo muốn khởi nghiệp mà là người nghèo tự doanh có kỹ năng kinh doanh. Trong một số trường hợp, người vay có một ít tài sản thế chấp. Accion, một định chế tài chính vi mô hàng đầu hoạt động ở Mỹ Latinh và Caribe, châu Phi và châu Á, đã áp dụng cho vay cá nhân dưới dạng các khoản vay nhỏ, ngắn hạn từ 100 đến 500 đô la ở các lãi suất mà họ nói phản ánh chi phí cho vay. Cán bộ tín dụng xem xét không chỉ khả năng tài chính của người vay mà còn cả các tham chiếu từ khách hàng và hàng xóm. Các động lực như khả năng vay các số tiền lớn dần và cơ hội được đào tạo kinh doanh và nghề nghiệp khuyến khích việc trả nợ. Ở các nước như Bolivia, các văn phòng tín dụng đã được lập để thực thi việc trả nợ.
+Nguyên tắc chung của các MFI là: giả định khách hàng đủ thông minh để tự lo việc làm ăn của mình, nhưng không giả định rằng mọi người nghèo đều là người vay đáng tin cậy. Nói cách khác, MFI không ra lệnh cho khách hàng phải dùng tiền thế nào, nhưng vẫn cần cơ chế để chọn đúng người và bảo đảm tiền được trả lại. Có hai cách tiếp cận cơ bản.
+
+**Cách thứ nhất: cho vay theo nhóm.** Grameen Bank được coi là người tiên phong của mô hình này, nay đã được áp dụng ở nhiều nước. Cơ chế gồm ba điểm:
+
+- Người vay phải lập nhóm và chịu trách nhiệm cho khoản vay của nhau.
+- Grameen dựa chủ yếu vào áp lực đồng đẳng để bảo đảm việc trả nợ: không ai muốn làm cả nhóm mất quyền vay, và những người trong nhóm biết rõ nhau nên khó lừa nhau.
+- Grameen hạn chế rủi ro bằng cách nhắm vào người vay là phụ nữ, nhóm được coi là đáng tin cậy hơn nhờ các quan hệ cộng đồng gắn với gia đình.
+
+Kết quả mà Grameen báo cáo: đầu năm 2007 có gần 7 triệu người vay, 96% là phụ nữ nghèo, mù chữ ở các làng xa xôi. Tính từ năm 1976, ngân hàng nói đã cho vay tổng cộng 6 tỷ USD, với tỷ lệ trả nợ 98%.
+
+**Cách thứ hai: cho vay cá nhân.** Khoản vay lớn hơn, cấp cho từng người, không cần bảo lãnh tập thể, và điều kiện linh hoạt hơn. Người vay điển hình không phải người rất nghèo muốn bắt đầu kinh doanh, mà là người nghèo đang tự làm ăn và đã có kỹ năng kinh doanh. Trong một số trường hợp, người vay có một ít tài sản thế chấp.
+
+Ví dụ của bài là Accion, một MFI hàng đầu hoạt động ở Mỹ Latinh và Caribe, châu Phi và châu Á. Accion cho vay cá nhân dưới dạng các khoản nhỏ, ngắn hạn từ 100 đến 500 USD, với lãi suất mà họ nói phản ánh đúng chi phí cho vay. Vì không có nhóm bảo lãnh, MFI phải dùng các công cụ khác để giảm rủi ro:
+
+- **Thẩm định rộng hơn:** cán bộ tín dụng xem không chỉ khả năng tài chính của người vay mà cả lời giới thiệu, nhận xét từ khách hàng của họ và từ hàng xóm.
+- **Động lực để trả nợ:** người trả tốt được vay các khoản lớn dần, và có cơ hội được đào tạo về kinh doanh và nghề nghiệp.
+- **Văn phòng tín dụng:** ở các nước như Bolivia, đã lập văn phòng tín dụng (nơi lưu thông tin vay và trả nợ của từng người, các bên cho vay cùng tra cứu) để thực thi việc trả nợ. Người không trả sẽ bị ghi lại và khó vay ở nơi khác.
+
+So sánh hai mô hình:
+
+| Tiêu chí | Cho vay theo nhóm | Cho vay cá nhân |
+|---|---|---|
+| Ví dụ tiêu biểu | Grameen Bank | Accion |
+| Khoản vay | Nhỏ | Lớn hơn, ví dụ 100 đến 500 USD |
+| Bảo đảm trả nợ | Trách nhiệm chung và áp lực đồng đẳng | Thẩm định, tham chiếu, khoản vay lớn dần, văn phòng tín dụng, đôi khi có một ít tài sản thế chấp |
+| Người vay điển hình | Phụ nữ rất nghèo, kể cả người chưa có nghề | Người nghèo tự doanh có kỹ năng kinh doanh |
+| Điều kiện | Cứng hơn | Linh hoạt hơn |
 
 ### 4. Con đường phía trước
 
-- Dù tài chính vi mô có vẻ là một cách hứa hẹn để cung cấp dịch vụ tài chính cho người nghèo, vẫn có tranh luận đáng kể về tương lai của nó.
-- **Tài chính vi mô có bền vững không?** Nếu tài chính vi mô có thể đạt được thành công thương mại, nó có thể thoát khỏi việc dựa vào trợ cấp, hiện tổng cộng hàng trăm triệu đô la. Các định chế tài chính vi mô được kỳ vọng sẽ tăng tầm với của mình trong nhóm nghèo thành thị, những người, vì họ tập trung, dễ phục vụ hơn. Nhưng sẽ là thách thức để đạt được bền vững trong khi vẫn vươn tới người nghèo nông thôn xa xôi, đặc biệt là những người ở đáy thang thu nhập, vì các chi phí và rủi ro liên quan cao.
-- **Tài chính vi mô có nên bền vững không?** Một phong trào tài chính vi mô trở nên chủ yếu thương mại có thể chuyển trọng tâm của mình từ người vay nghèo nhất sang các khách hàng tương đối khá giả hơn, an toàn hơn theo nghĩa thông thường. Do đó, các định chế tài chính vi mô có thể tiến hoá thành đối thủ trực tiếp của các ngân hàng truyền thống, và lợi ích đặc biệt cho người nghèo nhất có thể mất đi trong cuộc tìm kiếm bền vững thương mại. Tuy nhiên, ở một số nơi, các định chế tài chính vi mô được trợ cấp nặng có thể đang chèn lấn các định chế tài chính vi mô bền vững, và trợ cấp do đó có thể ít mang lại lợi ích thêm. Người ta cũng có thể hỏi liệu các định chế tài chính vi mô có nên tập trung vào những người vay nghèo nhất, hay các cơ chế khác tốt hơn, với các ràng buộc về ngân sách viện trợ.
-- **Vì sao lãi suất cao đến vậy?** Lãi suất các khoản vay vi mô dao động từ 20% đến 35% (ngay cả sau khi điều chỉnh lạm phát). Các định chế tài chính vi mô chịu chi phí cao hơn đáng kể so với ngân hàng thương mại, do các chi phí cho vay và hành chính (ví dụ xác định và sàng lọc khách hàng). Với một số định chế tài chính vi mô, lãi suất chỉ đủ bù chi phí kinh doanh, trong khi những định chế khác cộng thêm một phần bù rủi ro. Một số người nói rằng dù lãi suất cao, các khoản vay vẫn mang lại lợi ích phúc lợi dương cho người vay và rằng chi phí sẽ giảm khi hạ tầng của ngành phát triển. Có một đồng thuận rộng rằng tăng cạnh tranh là chìa khoá để kéo lãi suất xuống.
-- **Cần khung pháp lý và quy định nào?** Cách tiếp cận quy định và pháp lý dùng cho các định chế tài chính thương mại quy mô lớn có thể không phù hợp cho tài chính vi mô. Các nước như Maroc và Kenya đã phát triển các khung pháp lý để quản lý các định chế tài chính vi mô. Các thách thức then chốt là làm sao bảo vệ tốt nhất người gửi tiền và người vay trong khi thúc đẩy ngành tài chính vi mô, làm sao giới hạn chi phí giám sát các định chế tài chính vi mô, và làm sao ngăn quy định hạn chế đổi mới và cạnh tranh. Chẳng hạn, đâu là sự cân bằng giữa bảo vệ người tiêu dùng, gánh nặng quy định, và bền vững cùng phát triển?
+Dù tài chính vi mô có vẻ là một cách hứa hẹn để đưa dịch vụ tài chính tới người nghèo, tương lai của nó vẫn gây tranh luận đáng kể. Bài nêu bốn câu hỏi.
+
+**Câu hỏi thứ nhất: tài chính vi mô có bền vững được không?** Nếu đạt thành công thương mại, ngành có thể thoát khỏi việc dựa vào trợ cấp, hiện tổng cộng lên tới hàng trăm triệu USD. Các MFI được kỳ vọng mở rộng mạnh trong nhóm người nghèo thành thị, vì họ sống tập trung nên dễ phục vụ hơn và chi phí cho mỗi khoản vay thấp hơn. Khó khăn nằm ở người nghèo nông thôn vùng xa, nhất là những người ở đáy thang thu nhập: chi phí đi lại, thẩm định, thu nợ và rủi ro đều cao, nên rất khó vừa phục vụ họ vừa có lãi.
+
+**Câu hỏi thứ hai: tài chính vi mô có nên bền vững không?** Nếu phong trào trở nên chủ yếu mang tính thương mại, trọng tâm có thể dịch từ người vay nghèo nhất sang những khách hàng khá giả hơn, an toàn hơn theo nghĩa thông thường. Khi đó MFI có thể tiến hoá thành đối thủ trực tiếp của ngân hàng truyền thống, và lợi ích đặc biệt dành cho người nghèo nhất có thể mất đi trong cuộc chạy theo bền vững thương mại.
+
+Bài cũng nêu chiều ngược lại. Ở một số nơi, các MFI được trợ cấp nặng có thể đang chèn lấn các MFI tự bền vững, nên trợ cấp thêm chưa chắc tạo thêm lợi ích. Và với ngân sách viện trợ có hạn, có thể hỏi: MFI có nên tập trung vào những người vay nghèo nhất, hay có những cơ chế khác giúp nhóm này tốt hơn (chẳng hạn trợ giúp trực tiếp thay vì cho vay)?
+
+**Câu hỏi thứ ba: vì sao lãi suất cao đến vậy?** Lãi suất vay vi mô từ 20% đến 35%, ngay cả sau khi đã trừ lạm phát. Bài đưa ra các lý giải:
+
+- MFI chịu chi phí cao hơn đáng kể so với ngân hàng thương mại, vì chi phí cho vay và chi phí hành chính, ví dụ việc tìm và sàng lọc khách hàng, đều tính trên những khoản vay rất nhỏ.
+- Với một số MFI, lãi suất chỉ vừa đủ bù chi phí hoạt động; một số khác cộng thêm phần bù rủi ro (khoản lãi thêm để bù cho khả năng một số người không trả).
+- Một số ý kiến cho rằng dù lãi suất cao, khoản vay vẫn làm người vay khá hơn, và chi phí sẽ giảm khi hạ tầng của ngành (hệ thống thông tin, công nghệ, kinh nghiệm) phát triển.
+- Có đồng thuận rộng rằng tăng cạnh tranh là chìa khoá để kéo lãi suất xuống.
+
+Ví dụ minh hoạ (số giả định để thấy vì sao chi phí cao): nếu thẩm định và thu nợ một khoản vay tốn khoảng 20 USD công sức mỗi năm, thì với khoản vay 100 USD, riêng chi phí đó đã tương đương 20% khoản vay; với khoản vay 10.000 USD của ngân hàng thông thường, cùng chi phí chỉ là 0,2%.
+
+**Câu hỏi thứ tư: cần khung pháp lý và quy định nào?** Cách quản lý dùng cho các định chế tài chính thương mại quy mô lớn có thể không hợp với tài chính vi mô, vì nó đòi hỏi vốn tối thiểu, báo cáo và kiểm tra tốn kém mà các MFI nhỏ không gánh nổi. Các nước như Maroc và Kenya đã xây dựng khung pháp lý riêng để quản lý MFI. Các thách thức then chốt:
+
+- bảo vệ tốt nhất người gửi tiền và người vay, đồng thời vẫn thúc đẩy ngành phát triển;
+- giới hạn chi phí giám sát các MFI;
+- tránh để quy định kìm hãm đổi mới và cạnh tranh.
+
+Nói gọn, câu hỏi là tìm điểm cân bằng giữa ba thứ: bảo vệ người tiêu dùng, gánh nặng tuân thủ quy định, và sự bền vững cùng phát triển của ngành.
 
 ### 5. Số hoá
 
-- Công nghệ có thể cung cấp một số câu trả lời. Ngày nay, "ngân hàng không chi nhánh" đang hoạt động ở Philippines, Nam Phi và Colombia. Những người chơi thương mại đang dùng các thiết bị điểm bán và điện thoại di động để kết nối với người nghèo nông thôn, cấp phép cho các thương nhân và chủ cửa hàng địa phương thực hiện các giao dịch tiền mặt thay mặt họ. Sự sẵn có của các dịch vụ chuyển tiền như vậy đặc biệt quan trọng ở các vùng mà gia đình dựa vào kiều hối từ người thân làm việc ở các trung tâm kinh tế hoặc nước ngoài. Công nghệ có khả năng giảm chi phí giao dịch, cho phép các định chế tài chính vi mô phát triển và tiếp cận nhiều khách hàng hơn.
-- Đổi mới mới nhất là thị trường tài chính vi mô số, nơi các định chế tài chính vi mô dựa trên web như Kiva.org hợp tác với các nhà cung cấp tín dụng địa phương để khớp người vay thu nhập thấp với các nhà đầu tư xã hội thu nhập cao hơn, những người cho vay cá nhân thực hiện các khoản vay điện tử với số tiền nhỏ chỉ 25 đô la. Một người vay tiềm năng, Zemfira Bayramova ở Azerbaijan, có thể quảng cáo nhu cầu 1.000 đô la của cô để mua ba con bê. Khi đã nhận đủ 1.000 đô la, số tiền được gửi cho một đối tác địa phương, Komak Credit Union, giải ngân cho Zemfira. Kiva.org tuyên bố đã xử lý gần 5 triệu đô la khoản vay trong tháng 4/2007, tăng từ 400.000 đô la tháng 10/2006.
+Bài cho rằng công nghệ có thể trả lời một phần các câu hỏi trên, chủ yếu bằng cách hạ chi phí.
+
+**Ngân hàng không chi nhánh.** Mô hình này đã hoạt động ở Philippines, Nam Phi và Colombia. Các doanh nghiệp thương mại dùng thiết bị thanh toán tại điểm bán và điện thoại di động để kết nối với người nghèo nông thôn. Họ cấp phép cho thương nhân và chủ cửa hàng địa phương nhận và chi tiền mặt thay cho mình, nên không cần xây chi nhánh. Dịch vụ chuyển tiền kiểu này đặc biệt quan trọng ở những vùng mà các gia đình sống nhờ kiều hối do người thân làm việc ở các trung tâm kinh tế hoặc ở nước ngoài gửi về. Nhờ giảm chi phí giao dịch, công nghệ giúp các MFI lớn lên và tiếp cận nhiều khách hàng hơn.
+
+**Thị trường tài chính vi mô số.** Đây là đổi mới mới nhất vào thời điểm bài viết. Các MFI hoạt động trên web như Kiva.org hợp tác với các tổ chức tín dụng địa phương để ghép người vay thu nhập thấp với nhà đầu tư xã hội có thu nhập cao hơn. Những người cho vay cá nhân này có thể cho vay điện tử với số tiền nhỏ, chỉ từ 25 USD. Quy trình qua ví dụ của bài:
+
+1. Một người vay tiềm năng, Zemfira Bayramova ở Azerbaijan, đăng nhu cầu vay 1.000 USD để mua ba con bê.
+2. Nhiều người cho vay trên Kiva.org mỗi người góp một phần nhỏ cho tới khi đủ 1.000 USD.
+3. Số tiền được chuyển cho đối tác địa phương là Komak Credit Union.
+4. Komak Credit Union giải ngân cho Zemfira.
+
+Quy mô tăng rất nhanh: Kiva.org cho biết đã xử lý gần 5 triệu USD khoản vay trong tháng 4/2007, tăng từ 400.000 USD vào tháng 10/2006, tức gấp khoảng mười hai lần chỉ sau sáu tháng.
 
 ## Thuật ngữ
 

@@ -217,33 +217,152 @@
 2. Cơ chế giao dịch OTC hoạt động thế nào?
 3. Vì sao kiến trúc OTC làm khủng hoảng 2007 trầm trọng hơn?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Sàn giao dịch (exchange).** Nơi, có thể là một toà nhà hoặc một hệ thống điện tử, mà mọi lệnh mua và bán được gom về một chỗ, mọi người tham gia thấy cùng các mức giá, cùng tuân theo một bộ quy tắc, và giao dịch được sàn khớp và bảo đảm. Ví dụ trong bài: Sở Giao dịch Chứng khoán New York (NYSE), Chicago Board of Trade (giao dịch hợp đồng tương lai từ năm 1851). Đây là một trong hai cách tổ chức thị trường mà bài so sánh.
+
+**Thị trường phi tập trung (over-the-counter, OTC).** Thị trường không có một nơi chung; giao dịch diễn ra qua điện thoại, tin nhắn hoặc hệ thống điện tử giữa từng cặp bên với nhau, xoay quanh một số nhà môi giới. Giá mỗi cặp thoả thuận không nhất thiết được người khác biết. Theo bài, mọi chứng khoán và phái sinh liên quan đến khủng hoảng 2007 đều giao dịch theo cách này, nên đây là khái niệm trung tâm.
+
+**Nhà môi giới và nhà tạo lập thị trường (dealer, market maker).** Nhà môi giới trong thị trường OTC là bên luôn sẵn sàng báo hai mức giá: giá họ sẵn lòng mua (giá chào mua, *bid*) và giá họ sẵn lòng bán (giá chào bán, *ask*), rồi mua vào hoặc bán ra bằng tiền và kho chứng khoán của chính mình. Làm vậy là "tạo lập thị trường", vì nhờ họ mà người khác luôn có chỗ để mua hay bán. Ví dụ minh hoạ: nhà môi giới báo mua một trái phiếu ở 98 và bán ở 99; khoảng chênh 1 đơn vị là thu nhập của họ, gọi là chênh lệch mua–bán (*bid-ask spread*). Bài cho thấy khi nhà môi giới rút đi thì thị trường OTC tê liệt.
+
+**Tính lỏng hay thanh khoản (liquidity).** Mức độ dễ dàng mua hay bán một tài sản nhanh chóng mà không phải hạ giá nhiều. Ví dụ minh hoạ: một cổ phiếu lớn có thể bán ngay trong vài giây ở giá gần giá vừa khớp; một mảnh đất ở vùng xa có thể mất nhiều tháng và phải giảm giá đáng kể mới bán được. Trong khủng hoảng, nhiều chứng khoán OTC từ rất lỏng chuyển sang gần như không bán được.
+
+**Phát hiện giá (price discovery).** Quá trình thị trường tìm ra giá của một tài sản qua việc nhiều người chào mua, chào bán và khớp lệnh với nhau. Ví dụ minh hoạ: nếu nhiều người muốn bán ở 99 mà không ai mua, giá chào bán sẽ hạ dần tới khi gặp người mua, chẳng hạn ở 95; mức 95 cho mọi người biết tài sản đang đáng giá bao nhiêu. Khi không có giao dịch, quá trình này dừng lại và không ai biết giá.
+
+**CDO (collateralized debt obligation, nghĩa vụ nợ có thế chấp).** Một loại chứng khoán được tạo ra bằng cách gom nhiều khoản nợ (ví dụ khoản vay mua nhà) rồi chia rủi ro của cả nhóm thành nhiều "lát", mỗi lát bán riêng. Lát thấp nhất chịu lỗ trước, lát cao nhất chịu lỗ sau cùng. Ví dụ minh hoạ: một nhóm nợ 100 triệu USD chia thành lát chịu lỗ đầu tiên 10 triệu, lát giữa 20 triệu, lát an toàn nhất 70 triệu; nếu nhóm nợ lỗ 15 triệu thì lát đầu mất hết và lát giữa mất 5 triệu. CDO dưới chuẩn là tâm điểm của khủng hoảng mà bài nói tới.
+
+**Bù trừ và thanh toán (clearing and settlement).** Bù trừ là đối chiếu và tính xem sau các giao dịch, ai phải giao bao nhiêu tiền và chứng khoán cho ai; thanh toán là việc giao thật. Trên sàn, sàn đứng ra khớp và bảo đảm, nên nếu một bên vỡ nợ thì bên kia vẫn được trả. Ở thị trường OTC, việc này để hai bên tự lo, nên mỗi bên chịu rủi ro đối tác không trả.
+
+**Thanh khoản tài trợ và thanh khoản giao dịch (funding liquidity, trading liquidity).** Thanh khoản tài trợ là khả năng một tổ chức vay được tiền để giữ tài sản của mình; thanh khoản giao dịch là việc có người sẵn sàng mua và bán một chứng khoán. Ngân hàng trung ương có thể bơm tiền để giải quyết loại thứ nhất, nhưng không thể trực tiếp buộc người ta mua bán. Phân biệt này là kết luận chính sách ở cuối bài.
+
+## Nội dung chi tiết
 
 ### 1. Hai cách tổ chức thị trường
 
-- Thị trường tài chính là các tổ chức phức tạp với cấu trúc kinh tế và thể chế riêng đóng vai trò then chốt trong việc xác định giá được thiết lập, hay "phát hiện", như thế nào. Các yếu tố này cũng định hình sự ổn định và trật tự của thị trường. Như những người nắm giữ nghĩa vụ nợ có thế chấp (CDO) dưới chuẩn và một số phái sinh đã phát hiện trong các tháng sau khi hỗn loạn hiện tại bắt đầu vào tháng 8/2007, một số loại thị trường có thể rất nhanh trở nên bất ổn, mất trật tự, hoặc rối loạn chức năng.
-- Có hai cách cơ bản để tổ chức thị trường tài chính: sàn giao dịch và phi tập trung (OTC), dù một số cơ sở điện tử gần đây làm mờ các phân biệt truyền thống.
+Bài bắt đầu bằng nhận xét rằng thị trường tài chính không chỉ là chỗ gặp gỡ của người mua và người bán. Mỗi thị trường là một tổ chức phức tạp, có cấu trúc kinh tế và thể chế riêng, và chính cấu trúc này quyết định giá được hình thành, hay "phát hiện", như thế nào. Cấu trúc đó cũng quyết định thị trường ổn định và trật tự tới đâu.
+
+Bài lấy khủng hoảng làm bằng chứng. Hỗn loạn tài chính bắt đầu vào tháng 8/2007. Trong những tháng sau đó, những người nắm giữ CDO dưới chuẩn và một số loại phái sinh đã nhận ra rằng có những loại thị trường có thể rất nhanh trở nên bất ổn, mất trật tự hoặc ngừng hoạt động bình thường.
+
+Có hai cách cơ bản để tổ chức một thị trường tài chính: **sàn giao dịch** và **phi tập trung (OTC)**. Gần đây, một số hệ thống giao dịch điện tử đã làm ranh giới giữa hai loại này mờ đi, nhưng sự phân biệt vẫn là chìa khoá để hiểu điều đã xảy ra trong khủng hoảng.
 
 ### 2. Giao dịch trên sàn
 
-- Các sàn, dù là thị trường chứng khoán hay sàn phái sinh, bắt đầu như những nơi chốn diễn ra giao dịch. Nổi tiếng nhất là Sở Giao dịch Chứng khoán New York (NYSE). Chicago Board of Trade đã giao dịch hợp đồng tương lai từ năm 1851, và việc sáp nhập gần đây với đối thủ lâu năm, Chicago Mercantile Exchange, đã tạo ra sàn phái sinh lớn nhất thế giới. Có hơn 100 sàn chứng khoán và phái sinh trên khắp thế giới phát triển và đang phát triển.
-- Nhưng các sàn không chỉ là địa điểm vật lý. Chúng đặt ra các quy tắc thể chế chi phối giao dịch và cung cấp các kênh thông tin cùng cơ sở bù trừ qua đó giao dịch diễn ra và các hoạt động sau giao dịch được hoàn tất. Một sàn tập trung hoá việc truyền đạt giá chào mua và chào bán đến mọi người tham gia thị trường, những người có thể phản hồi bằng cách bán hay mua ở một trong các mức giá được báo hoặc bằng cách trả lời với một mức giá khác. Tuỳ vào sàn, phương tiện truyền đạt có thể là giọng nói, tín hiệu tay, hoặc thông điệp điện tử. Khi hai bên đạt thoả thuận, giá tại đó giao dịch được thực hiện sẽ được truyền đạt khắp thị trường. Kết quả là một sân chơi bình đẳng cho phép bất kỳ người tham gia thị trường nào mua thấp hoặc bán cao như bất kỳ ai khác, miễn là nhà giao dịch tuân theo quy tắc của sàn.
-- Sự ra đời của giao dịch điện tử có nghĩa các sàn không cần là nơi chốn vật lý. Thực tế, nhiều sàn giao dịch truyền thống đang bị đóng cửa, và việc truyền đạt lệnh cùng việc thực hiện hoàn toàn được tiến hành điện tử. London Stock Exchange và sàn chứng khoán NASDAQ hoàn toàn điện tử, cũng như Eurex, sàn tương lai lớn thứ hai thế giới. Nhiều sàn khác, khi loại bỏ dần giao dịch trên sàn, cung cấp cả giao dịch trên sàn lẫn điện tử. NYSE đã mua nền tảng giao dịch điện tử Archipelago khi nó ngày càng hướng tới giao dịch điện tử. Các sàn phái sinh như BM&F của Brazil và CME Group duy trì cả sàn giao dịch lẫn giao dịch điện tử.
+**Từ nơi chốn tới bộ quy tắc.** Các sàn, dù là sàn chứng khoán hay sàn phái sinh, ban đầu đều là những địa điểm cụ thể nơi người ta tới để giao dịch. Một số ví dụ bài nêu:
+
+| Sàn | Thông tin |
+|---|---|
+| Sở Giao dịch Chứng khoán New York (NYSE) | Sàn nổi tiếng nhất |
+| Chicago Board of Trade | Giao dịch hợp đồng tương lai từ năm 1851 |
+| Chicago Board of Trade sáp nhập với Chicago Mercantile Exchange | Hai đối thủ lâu năm hợp lại, tạo ra sàn phái sinh lớn nhất thế giới |
+| Toàn thế giới | Hơn 100 sàn chứng khoán và phái sinh ở cả nước phát triển và đang phát triển |
+
+Nhưng sàn không chỉ là một địa điểm. Sàn làm ba việc:
+
+- đặt ra các quy tắc thể chế cho việc giao dịch;
+- cung cấp kênh thông tin để mọi người thấy các mức giá;
+- cung cấp cơ sở bù trừ, nơi giao dịch được thực hiện và các bước sau giao dịch (giao tiền, giao chứng khoán) được hoàn tất.
+
+**Cách sàn vận hành.** Sàn tập trung mọi giá chào mua và chào bán, rồi truyền tới tất cả người tham gia. Ai cũng có thể đáp lại bằng cách mua hay bán ở một trong các mức giá đang được chào, hoặc đưa ra một mức giá khác. Tuỳ sàn, cách truyền giá có thể là hô bằng giọng nói, ra hiệu bằng tay, hoặc gửi thông điệp điện tử. Khi hai bên đồng ý, giá khớp được công bố cho toàn thị trường.
+
+Kết quả là một sân chơi bình đẳng: bất kỳ người tham gia nào cũng có cơ hội mua giá thấp hay bán giá cao như bất kỳ ai khác, miễn là tuân theo quy tắc của sàn.
+
+Ví dụ minh hoạ: trên sàn, nếu ai đó đang chào bán một cổ phiếu ở giá 50, thì cả một quỹ lớn lẫn một nhà đầu tư cá nhân đều thấy mức 50 và đều có thể mua ở giá đó; không ai được báo riêng một mức giá khác.
+
+**Sàn không còn cần sàn.** Giao dịch điện tử khiến sàn không cần là một nơi chốn vật lý. Nhiều sàn giao dịch truyền thống (khu vực trong toà nhà nơi người môi giới đứng hô giá) đang đóng cửa, và việc đặt lệnh cùng khớp lệnh hoàn toàn bằng điện tử. Các ví dụ:
+
+- London Stock Exchange và NASDAQ hoàn toàn điện tử; Eurex, sàn hợp đồng tương lai lớn thứ hai thế giới, cũng vậy.
+- Nhiều sàn khác vừa thu hẹp dần giao dịch tại sàn vừa cung cấp cả hai hình thức.
+- NYSE đã mua nền tảng giao dịch điện tử Archipelago khi ngày càng chuyển sang giao dịch điện tử.
+- Các sàn phái sinh như BM&F của Brazil và CME Group duy trì cả giao dịch tại sàn lẫn giao dịch điện tử.
 
 ### 3. Giao dịch phi tập trung
 
-- Khác với các sàn, thị trường OTC chưa bao giờ là "địa điểm". Chúng ít chính thức hơn, dù thường được tổ chức tốt, là các mạng lưới quan hệ giao dịch tập trung quanh một hoặc nhiều nhà môi giới. Nhà môi giới đóng vai trò nhà tạo lập thị trường bằng cách báo các mức giá tại đó họ sẽ bán (chào bán) hoặc mua (chào mua) cho các nhà môi giới khác và cho khách hàng của họ. Điều đó không có nghĩa họ báo cùng một mức giá cho nhà môi giới khác như mức họ đăng cho khách hàng, và họ không nhất thiết báo cùng một mức giá cho mọi khách hàng. Hơn nữa, nhà môi giới một chứng khoán OTC có thể rút khỏi việc tạo lập thị trường, khiến tính lỏng, tức khả năng mua hay bán một chứng khoán, cạn kiệt. Tóm lại, thị trường OTC ít minh bạch hơn và vận hành với ít quy tắc hơn so với các sàn. Mọi chứng khoán và phái sinh liên quan đến cuộc khủng hoảng tài chính hiện tại đều được giao dịch trên các thị trường OTC.
-- Nhà môi giới OTC truyền đạt các báo giá mua và bán của mình và đàm phán giá thực hiện qua điện thoại và, ngày càng nhiều, qua tin nhắn tức thời, dù quá trình này thường được tăng cường bằng việc dùng các bảng tin điện tử nơi nhà môi giới đăng báo giá của mình. Quá trình đàm phán qua điện thoại, dù là khách hàng với nhà môi giới hay nhà môi giới với nhà môi giới, được gọi là giao dịch song phương vì chỉ hai người tham gia thị trường trực tiếp quan sát các báo giá hay việc thực hiện. Những người khác trên thị trường không được biết về giao dịch, dù một số thị trường có môi giới đăng giá thực hiện và quy mô giao dịch. Nhưng không phải ai cũng truy cập được màn hình môi giới và không phải ai trên thị trường cũng có thể giao dịch ở mức giá đó. Dù quá trình đàm phán song phương thường được tự động hoá cao, thoả thuận giao dịch không được coi là một sàn vì nó không mở cho mọi người tham gia một cách bình đẳng.
-- Về cơ bản có hai chiều của thị trường OTC. Trong **thị trường khách hàng**, giao dịch song phương diễn ra giữa các nhà môi giới và khách hàng của họ, như cá nhân hay quỹ đầu cơ. Trong **thị trường liên môi giới**, các nhà môi giới báo giá cho nhau và có thể nhanh chóng chuyển bớt cho các nhà môi giới khác một số rủi ro họ phát sinh khi giao dịch với khách hàng, như việc có một vị thế lớn hơn mong muốn ở một chứng khoán. Các nhà môi giới có thể có đường dây điện thoại trực tiếp đến các nhà môi giới khác và đến khách hàng lớn của họ để một người tham gia thị trường có thể gọi một nhà môi giới xin báo giá, gác máy và gọi một nhà môi giới khác, rồi một người khác nữa, khảo sát vài nhà môi giới trong vài giây. Một nhà đầu tư có thể gọi nhiều cuộc để có cái nhìn về thị trường ở phía khách hàng. Nhưng khách hàng không thể thâm nhập thị trường giữa các nhà môi giới.
-- Một số thị trường OTC, và đặc biệt là các phân khúc thị trường liên môi giới, có các môi giới giá giúp những người tham gia thị trường có cái nhìn rộng hơn về thị trường. Các nhà môi giới gửi báo giá cho môi giới giá, người này, trên thực tế, phát sóng thông tin qua điện thoại. Các môi giới giá thường cung cấp bảng tin điện tử để cho khách hàng của họ (các nhà môi giới) khả năng đăng báo giá tức thời đến mọi nhà môi giới khác trong mạng của môi giới giá. Bảng tin hiển thị giá mua, giá bán, và đôi khi giá thực hiện. Màn hình môi giới thường không có sẵn cho khách hàng cuối, nên họ thường không được thông tin đầy đủ về các thay đổi giá và chênh lệch mua–bán trên thị trường liên môi giới. Nhà môi giới đôi khi có thể giao dịch qua màn hình. Nếu không, màn hình chỉ mang tính thông tin, và nhà môi giới phải giao dịch qua môi giới giá hoặc gọi trực tiếp các nhà môi giới khác để thực hiện giao dịch. Nhà môi giới cũng có thể gọi môi giới giá và các nhà môi giới khác trực tiếp để đăng báo giá và hỏi về các báo giá không được liệt kê trên màn hình bảng tin điện tử của môi giới giá.
-- Các tiến bộ trong nền tảng giao dịch điện tử đã thay đổi quá trình giao dịch ở nhiều thị trường OTC, và điều này đôi khi làm mờ sự phân biệt giữa thị trường OTC truyền thống và các sàn. Trong một số trường hợp, một nền tảng môi giới điện tử cho phép các nhà môi giới và một số người không phải nhà môi giới gửi báo giá trực tiếp đến và thực hiện giao dịch trực tiếp qua một hệ thống điện tử. Điều này tái tạo giao dịch đa phương vốn là dấu ấn của một sàn, nhưng chỉ cho những người tham gia trực tiếp. Khác với một sàn, nơi mọi người tham gia sàn đều có quyền truy cập, các thoả thuận điện tử này có thể đối xử khác nhau với người tham gia dựa trên, ví dụ, quy mô hay xếp hạng tín dụng của họ. Hơn nữa, việc bù trừ và thanh toán giao dịch vẫn để cho người mua và người bán, khác với giao dịch trên sàn, nơi các giao dịch được khớp và bảo đảm bởi sàn.
+**Mạng lưới chứ không phải địa điểm.** Khác với sàn, thị trường OTC chưa bao giờ là một "địa điểm". Nó ít chính thức hơn, dù thường được tổ chức tốt. Nó là một mạng lưới các quan hệ giao dịch xoay quanh một hoặc nhiều nhà môi giới.
+
+Nhà môi giới đóng vai nhà tạo lập thị trường: họ báo giá mà họ sẵn lòng bán (chào bán) và giá mà họ sẵn lòng mua (chào mua), cho các nhà môi giới khác và cho khách hàng. Ba đặc điểm làm thị trường OTC khác sàn:
+
+- Giá nhà môi giới báo cho nhà môi giới khác không nhất thiết giống giá báo cho khách hàng.
+- Họ cũng không nhất thiết báo cùng một giá cho mọi khách hàng.
+- Nhà môi giới có thể ngừng tạo lập thị trường cho một chứng khoán bất cứ lúc nào. Khi đó tính lỏng, tức khả năng mua hay bán chứng khoán đó, có thể cạn kiệt.
+
+Tóm lại, thị trường OTC kém minh bạch hơn và có ít quy tắc hơn sàn. Bài nhấn mạnh rằng mọi chứng khoán và phái sinh liên quan tới cuộc khủng hoảng tài chính hiện tại đều được giao dịch trên các thị trường OTC.
+
+**Cơ chế giao dịch song phương.** Nhà môi giới OTC báo giá mua, giá bán và thương lượng giá thực hiện qua điện thoại, và ngày càng nhiều qua tin nhắn tức thời. Quá trình này thường được hỗ trợ bằng bảng tin điện tử, nơi nhà môi giới đăng báo giá.
+
+Việc thương lượng qua điện thoại, dù giữa khách hàng với nhà môi giới hay giữa hai nhà môi giới, gọi là **giao dịch song phương**, vì chỉ hai bên trực tiếp thấy báo giá và giao dịch. Những người khác trên thị trường không biết giao dịch đó đã diễn ra. Một số thị trường có môi giới công bố giá và khối lượng giao dịch đã thực hiện, nhưng không phải ai cũng xem được màn hình của môi giới, và không phải ai cũng giao dịch được ở mức giá đó.
+
+Dù thương lượng song phương thường được tự động hoá cao, kiểu giao dịch này vẫn không được coi là sàn, vì nó không mở cho mọi người tham gia một cách bình đẳng.
+
+**Hai tầng của thị trường OTC.**
+
+| Tầng | Ai giao dịch với ai | Mục đích |
+|---|---|---|
+| Thị trường khách hàng | Nhà môi giới với khách hàng, như cá nhân hay quỹ đầu cơ | Khách hàng mua, bán chứng khoán |
+| Thị trường liên môi giới | Các nhà môi giới báo giá cho nhau | Nhà môi giới nhanh chóng chuyển bớt rủi ro phát sinh khi phục vụ khách hàng, ví dụ khi đang giữ một lượng chứng khoán lớn hơn mong muốn |
+
+Nhà môi giới thường có đường dây điện thoại trực tiếp tới các nhà môi giới khác và tới khách hàng lớn. Một người tham gia có thể gọi một nhà môi giới hỏi giá, gác máy, gọi nhà môi giới thứ hai, rồi thứ ba, và khảo sát được vài nhà môi giới chỉ trong vài giây. Một nhà đầu tư có thể gọi nhiều cuộc để nắm được mặt bằng giá ở phía khách hàng. Nhưng khách hàng không thể bước vào thị trường giữa các nhà môi giới, nên không biết các nhà môi giới đang mua bán với nhau ở giá nào.
+
+Ví dụ minh hoạ: giữa các nhà môi giới, một trái phiếu đang được mua bán quanh mức 97 đến 97,5. Một khách hàng gọi hỏi có thể nhận báo giá bán 98, và vì không thấy được mức 97,5 nên không biết mình đang trả thêm bao nhiêu.
+
+**Môi giới giá.** Ở một số thị trường OTC, nhất là tầng liên môi giới, có các môi giới giá (*price brokers*) giúp người tham gia có cái nhìn rộng hơn. Cách họ làm việc:
+
+1. Các nhà môi giới gửi báo giá cho môi giới giá.
+2. Môi giới giá, trên thực tế, phát lại thông tin này qua điện thoại cho các nhà môi giới khác.
+3. Họ thường có bảng tin điện tử, cho phép các nhà môi giới (khách hàng của môi giới giá) đăng báo giá tức thời tới mọi nhà môi giới khác trong mạng. Bảng tin hiển thị giá mua, giá bán, và đôi khi giá thực hiện.
+4. Đôi khi nhà môi giới giao dịch được ngay trên màn hình. Nếu không, màn hình chỉ để tham khảo, và nhà môi giới phải giao dịch qua môi giới giá hoặc gọi trực tiếp nhà môi giới khác.
+5. Nhà môi giới cũng có thể gọi trực tiếp môi giới giá và các nhà môi giới khác để đăng báo giá hoặc hỏi về những báo giá không có trên bảng tin.
+
+Điểm quan trọng: màn hình môi giới thường không dành cho khách hàng cuối. Vì vậy khách hàng cuối thường không được biết đầy đủ về biến động giá và chênh lệch mua–bán ở tầng liên môi giới.
+
+**Nền tảng điện tử làm mờ ranh giới.** Tiến bộ của các nền tảng giao dịch điện tử đã thay đổi cách giao dịch ở nhiều thị trường OTC, đôi khi làm mờ khác biệt giữa OTC và sàn. Ở một số nền tảng, nhà môi giới và cả một số bên không phải nhà môi giới có thể gửi báo giá và thực hiện giao dịch trực tiếp qua hệ thống. Như vậy nó tái tạo giao dịch đa phương, tức nhiều bên cùng thấy và cùng giao dịch với nhau, vốn là dấu ấn của sàn, nhưng chỉ cho những ai được tham gia trực tiếp. Còn hai khác biệt với sàn:
+
+- Trên sàn, mọi thành viên đều có quyền truy cập như nhau; các nền tảng điện tử này có thể đối xử khác nhau với người tham gia, ví dụ theo quy mô hay xếp hạng tín dụng của họ.
+- Việc bù trừ và thanh toán vẫn do người mua và người bán tự lo, trong khi trên sàn giao dịch được sàn khớp và bảo đảm.
+
+So sánh tổng hợp:
+
+| Tiêu chí | Sàn giao dịch | Thị trường OTC |
+|---|---|---|
+| Hình thức | Ban đầu là nơi chốn, nay thường điện tử | Mạng lưới quan hệ quanh nhà môi giới |
+| Báo giá | Tập trung, truyền tới mọi người | Song phương, mỗi bên có thể nhận giá khác nhau |
+| Giá khớp | Công bố khắp thị trường | Chỉ hai bên biết, trừ khi có môi giới công bố |
+| Quyền tham gia | Bình đẳng nếu tuân thủ quy tắc | Khách hàng không vào được tầng liên môi giới |
+| Ai tạo thanh khoản | Toàn bộ lệnh trên sàn | Nhà môi giới, và họ có thể rút đi |
+| Bù trừ, thanh toán | Sàn khớp và bảo đảm | Hai bên tự lo |
 
 ### 4. Thị trường OTC và khủng hoảng tài chính
 
-- Kiến trúc của thị trường OTC giúp giải thích vì sao CDO (vốn chia rủi ro của tài sản nền thành nhiều lát, mỗi lát được bán riêng) và các chứng khoán cấu trúc khác gặp vấn đề trong cuộc khủng hoảng hiện tại. Phái sinh tín dụng, thương phiếu, trái phiếu đô thị, và khoản vay sinh viên chứng khoán hoá cũng gặp vấn đề. Tất cả đều được giao dịch trên các thị trường OTC, vốn lỏng và hoạt động tốt trong thời bình thường. Nhưng chúng đã không chứng tỏ được khả năng phục hồi trước các xáo trộn thị trường và đã trở nên kém lỏng và rối loạn chức năng. Điều đó dẫn đến hai biến chứng nghiêm trọng: không thể định giá các khoản nắm giữ của mình và không thể giao dịch chúng.
-- **Không có thị trường lỏng và trật tự, không có quá trình phát hiện giá và, đến lượt nó, không có cách dễ dàng và dứt khoát nào để định giá các chứng khoán hay phái sinh.** Một trong các vấn đề dai dẳng ở các định chế tài chính như ngân hàng thương mại và công ty đầu tư là khó khăn trong việc đáp ứng các yêu cầu công bố và báo cáo khi không có giá thị trường để dùng cho việc định giá tài sản và vị thế phái sinh. Không chỉ không có giá thị trường, mà thường cũng không có giá chuẩn (là giá của các tài sản tương tự tài sản đang được định giá). Kết quả là các tài sản từng được định giá theo giá thị trường (hoặc ít nhất theo một giá chuẩn tương đương) nay được suy ra từ các mô hình mà không có dữ liệu đầy đủ. Việc ngày càng dựa vào các định giá như vậy càng làm xói mòn niềm tin thị trường vì những người tham gia không chắc chắn về giá trị của chính các khoản nắm giữ của mình và của các bên khác.
-- **Nhà môi giới, đối mặt với sức ép ở phía tài trợ của bảng cân đối và nắm giữ quá nhiều tài sản kém lỏng ở phía kia, đã rút khỏi thị trường.** Việc biến động tăng vọt khiến việc tiếp tục tạo lập thị trường đặc biệt nguy hiểm và tốn kém. Không có các nhà môi giới, không có giao dịch, đặc biệt ở các chứng khoán như CDO, trái phiếu đô thị và phái sinh tín dụng. Không có người mua, nhà đầu tư không thể giảm lỗ bằng cách giao dịch thoát khỏi các vị thế thua lỗ, và họ không thể bán các vị thế đó để đáp ứng các yêu cầu nộp thêm tài sản bảo đảm cho những khoản vay đang tài trợ các khoản nắm giữ khác. Bằng cách đó, tình trạng kém lỏng ở thị trường OTC đã góp phần vào độ sâu và độ rộng của cuộc khủng hoảng tài chính.
-- Nhiều thị trường trong số này chưa trở lại điều kiện giao dịch bình thường. Các ngân hàng trung ương đã bơm vốn vào thị trường (thanh khoản tài trợ), nhưng họ không thể trực tiếp khôi phục sự sẵn sàng của người mua và người bán trong việc giao dịch chứng khoán (thanh khoản giao dịch). Trừ khi các nhà hoạch định có những bước đi cải thiện các thực hành tạo lập thị trường của các nhà môi giới OTC, có thể còn lâu mới có điều kiện thuận lợi cho việc trở lại mức thanh khoản giao dịch thịnh hành trước mùa hè năm 2007.
+**Những chứng khoán gặp vấn đề.** Theo bài, kiến trúc của thị trường OTC giúp giải thích vì sao CDO (loại chứng khoán chia rủi ro của các tài sản nền thành nhiều lát, mỗi lát bán riêng) và các chứng khoán cấu trúc khác gặp rắc rối trong khủng hoảng. Danh sách còn gồm phái sinh tín dụng, thương phiếu (giấy nợ ngắn hạn do doanh nghiệp phát hành), trái phiếu đô thị (trái phiếu của chính quyền địa phương) và khoản vay sinh viên đã được chứng khoán hoá.
+
+Tất cả đều giao dịch trên thị trường OTC. Trong thời bình thường, các thị trường này lỏng và hoạt động tốt. Nhưng khi thị trường bị xáo trộn, chúng không chống chịu được, trở nên kém lỏng và ngừng hoạt động bình thường. Từ đó nảy sinh hai hệ quả nghiêm trọng: người nắm giữ không định giá được tài sản của mình, và cũng không bán được chúng.
+
+**Hệ quả thứ nhất: không định giá được.** Chuỗi lập luận như sau:
+
+1. Không có thị trường lỏng và trật tự thì không có quá trình phát hiện giá.
+2. Không có phát hiện giá thì không có cách dễ dàng và chắc chắn nào để định giá chứng khoán hay phái sinh.
+3. Các định chế tài chính như ngân hàng thương mại và công ty đầu tư phải công bố thông tin và báo cáo giá trị tài sản, vị thế phái sinh của mình. Khi không có giá thị trường, việc này trở thành một vấn đề kéo dài.
+4. Không chỉ thiếu giá thị trường, mà thường cũng thiếu cả giá chuẩn, tức giá của những tài sản tương tự tài sản đang cần định giá.
+5. Kết quả là những tài sản trước đây được định giá theo giá thị trường (hoặc ít nhất theo giá chuẩn tương đương) nay phải định giá bằng mô hình tính toán, trong khi không có đủ dữ liệu.
+6. Việc ngày càng phải dựa vào những con số như vậy làm niềm tin thị trường xói mòn thêm, vì người tham gia không chắc giá trị của chính tài sản mình nắm giữ, và cũng không chắc giá trị tài sản của các bên khác.
+
+Ví dụ minh hoạ: một ngân hàng giữ một lát CDO mà trước khủng hoảng được giao dịch quanh giá 100. Nay không còn ai báo giá, không có lát CDO tương tự nào được mua bán. Ngân hàng dùng mô hình và ra con số 80, nhưng không ai, kể cả các ngân hàng khác đang cân nhắc cho nó vay, biết con số thật là 80 hay 40.
+
+**Hệ quả thứ hai: không giao dịch được.** Nhà môi giới bị kẹp ở cả hai phía bảng cân đối: phía nguồn vốn thì khó vay tiền, phía tài sản thì đang ôm quá nhiều tài sản kém lỏng. Họ rút khỏi thị trường. Biến động giá tăng vọt khiến việc tiếp tục tạo lập thị trường, tức tiếp tục mua vào và giữ chứng khoán để phục vụ khách, trở nên đặc biệt nguy hiểm và tốn kém. Chuỗi hệ quả:
+
+- Không có nhà môi giới thì không có giao dịch, nhất là với CDO, trái phiếu đô thị và phái sinh tín dụng.
+- Không có người mua thì nhà đầu tư không thể bán để cắt lỗ ở những vị thế đang thua.
+- Họ cũng không bán được các vị thế này để có tiền nộp thêm tài sản bảo đảm, khi bên cho vay đòi bổ sung tài sản bảo đảm cho những khoản vay đang tài trợ các khoản đầu tư khác của họ.
+
+Bằng cách đó, tình trạng kém lỏng ở các thị trường OTC đã làm cuộc khủng hoảng sâu hơn và lan rộng hơn.
+
+**Vì sao bơm tiền chưa đủ.** Nhiều thị trường trong số này vẫn chưa trở lại bình thường. Các ngân hàng trung ương đã bơm tiền vào hệ thống, tức cung cấp **thanh khoản tài trợ**. Nhưng họ không thể trực tiếp khôi phục sự sẵn lòng mua bán chứng khoán của người mua và người bán, tức **thanh khoản giao dịch**.
+
+| Loại thanh khoản | Câu hỏi | Ngân hàng trung ương làm được gì |
+|---|---|---|
+| Thanh khoản tài trợ | Tổ chức tài chính có vay được tiền không? | Bơm vốn trực tiếp được |
+| Thanh khoản giao dịch | Có người sẵn sàng mua, bán chứng khoán không? | Không khôi phục trực tiếp được |
+
+Kết luận của bài: nếu các nhà hoạch định chính sách không có bước đi để cải thiện cách các nhà môi giới OTC tạo lập thị trường, thì có thể còn lâu mới có điều kiện để thanh khoản giao dịch trở lại mức đã có trước mùa hè năm 2007.
 
 ## Thuật ngữ
 
