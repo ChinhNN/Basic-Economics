@@ -304,77 +304,272 @@
 2. Họ triển khai các công cụ đó vào lúc nào, theo cách nào, và điều đó có ý nghĩa gì với việc đánh giá tác động chính sách?
 3. Khi được hỏi, chính phủ nói họ áp kiểm soát vốn vì lý do gì?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**AREAER.** Báo cáo Thường niên về Cơ chế và Hạn chế Hối đoái của IMF, xuất bản liên tục từ năm 1950. Mỗi năm, báo cáo mô tả bằng văn bản các quy định về ngoại hối và dòng vốn của từng nước thành viên, kèm mục "Thay đổi" ghi các biện pháp mới. Ví dụ: tới năm 2022, tổng lượng chữ tích luỹ của các báo cáo đạt khoảng 14 triệu từ, và phạm vi gần đây phủ 197 nước. Đây là nguồn dữ liệu duy nhất mà bài đọc để xây bộ dữ liệu mới.
+
+**Tài khoản vốn và tài khoản vãng lai (capital account / current account).** Tài khoản vãng lai ghi các giao dịch hàng hoá, dịch vụ, thu nhập và chuyển giao (như trả tiền nhập khẩu, trả tiền bản quyền, kiều hối). Tài khoản vốn (theo nghĩa rộng gồm cả tài khoản tài chính) ghi các giao dịch mua bán tài sản như cổ phiếu, trái phiếu, khoản vay, đầu tư trực tiếp. Ví dụ minh hoạ: doanh nghiệp trả tiền mua máy móc từ Đức là giao dịch vãng lai; quỹ nước ngoài mua cổ phiếu trong nước là giao dịch vốn. Phát hiện trung tâm của bài là phần lớn hạn chế mà chính phủ dùng nằm ngoài tài khoản vốn.
+
+**Hạn chế dựa trên giá, dựa trên lượng và hành chính.** Ba loại công cụ chính. Dựa trên giá làm giao dịch đắt hơn: thuế, phí, yêu cầu dự trữ. Dựa trên lượng giới hạn số lượng: hạn ngạch, trần, lệnh cấm. Hành chính đặt thủ tục: giấy phép, phê duyệt, báo cáo. Ví dụ minh hoạ: đánh thuế 2% lên tiền nước ngoài mua trái phiếu là công cụ giá; chỉ cho mỗi người mua tối đa 50.000 đô la ngoại tệ mỗi năm là công cụ lượng; bắt xin phép ngân hàng trung ương trước khi vay nước ngoài là công cụ hành chính. Bài cho thấy tự do hoá trong bảy thập kỷ chủ yếu diễn ra ở công cụ lượng, còn công cụ giá gần như không đổi.
+
+**Yêu cầu hồi hương và nộp lại (repatriation / surrender requirements).** Yêu cầu hồi hương buộc người xuất khẩu mang ngoại tệ thu được về nước trong một thời hạn; yêu cầu nộp lại buộc họ bán một phần hoặc toàn bộ số ngoại tệ đó cho ngân hàng trung ương hoặc ngân hàng được chỉ định. Ví dụ minh hoạ: doanh nghiệp xuất khẩu 1 triệu đô la phải đưa tiền về trong 90 ngày và bán 50% cho ngân hàng. Đây là loại công cụ được siết mạnh quanh lúc hệ thống Bretton Woods sụp đổ và vẫn phổ biến ở nước thu nhập thấp khi sợ vốn chảy ra.
+
+**Bretton Woods.** Hệ thống tiền tệ quốc tế sau Thế chiến II, trong đó các đồng tiền neo vào đô la Mỹ và đô la neo vào vàng. Hệ thống chịu sức ép trong thập niên 1960 và sụp đổ đầu thập niên 1970, sau đó các nước lớn chuyển sang thả nổi tỷ giá. Ví dụ trong bài: từ đầu thập niên 1960 tới đầu 1980, các nước siết mạnh hạn chế, trùng với giai đoạn này. Bối cảnh này giải thích vì sao bộ dữ liệu bắt đầu từ 1950 thấy được đợt siết mà các bộ cũ bắt đầu từ thập niên 1990 bỏ lỡ.
+
+**Mô hình BERT thích ứng chuyên ngành (domain-adapted BERT).** BERT là một loại mô hình ngôn ngữ dùng để hiểu và phân loại văn bản (khác với mô hình sinh văn bản như GPT). "Thích ứng chuyên ngành" nghĩa là cho mô hình đọc thêm một kho văn bản của đúng lĩnh vực cần phân loại trước khi dạy nó gán nhãn. Ví dụ trong bài: mô hình 110 triệu tham số, đọc thêm toàn bộ AREAER 1950–2022, có độ hỗn loạn (perplexity, mức "bối rối" khi đoán từ tiếp theo, càng thấp càng tốt) giảm từ 17,28 xuống 2,19. Mô hình nhỏ này phân loại tốt hơn các mô hình sinh lớn hơn nhiều, và là công cụ đọc 41.030 thay đổi chính sách của bài.
+
+**Hệ số kappa Cohen.** Thước đo mức đồng thuận giữa hai người gán nhãn, sau khi đã trừ phần đồng thuận có thể xảy ra do ngẫu nhiên. Kappa bằng 1 là đồng thuận hoàn toàn, bằng 0 là chỉ ngang mức đoán bừa. Ví dụ trong bài: kappa từ 0,69 tới 0,84, thường được coi là mức đồng thuận khá tới tốt. Con số này cho biết nhãn thủ công dùng để huấn luyện mô hình có đáng tin hay không.
+
+**Dồn cục và so le (bunching / staggering).** Dồn cục là nhiều biện pháp được ban hành cùng một ngày; so le là các biện pháp được ban hành cách nhau ít ngày, thành chuỗi. Ví dụ trong bài: 35% biện pháp trùng ngày với ít nhất một biện pháp khác, và 77% nằm trong vòng 30 ngày quanh một biện pháp khác. Khái niệm này quan trọng vì nó cho thấy nghiên cứu đánh giá tác động của một biện pháp đơn lẻ dễ gán nhầm tác động của cả gói.
+
+## Nội dung chi tiết
 
 ### 1. Khoảng trống trong tài liệu
 
-- Giai đoạn căng thẳng địa chính trị và phân mảnh tài chính đã làm sống lại các câu hỏi cơ bản về cách chính phủ quản lý dòng vốn quốc tế. Nhưng nghiên cứu thực nghiệm bị giới hạn bởi dữ liệu chỉ bao phủ một tập con hẹp các công cụ, thường ở tần suất thấp, và thường không phân biệt được biện pháp nhắm vào dòng vào hay dòng ra, hay mức độ mạnh yếu.
-- Ba bộ dữ liệu lịch sử nổi bật đều dùng AREAER nhưng khác nhau đáng kể. Quinn năm 1997 mã hoá văn bản tường thuật thành chỉ tiêu cường độ theo thang chủ quan cho sáu nhóm, có từ thập niên 1950 theo năm. Chinn và Ito năm 2006 dùng thành phần chính thứ nhất của bốn biến nhị phân, có từ thập niên 1970. Không bộ nào phân biệt chiều dòng vốn hay loại công cụ. Fernandez và cộng sự năm 2016 khai thác mức chi tiết của AREAER sau 1995 để xây chỉ tiêu tài khoản vốn theo năm, phân tách theo tài sản, chiều dòng vốn và nơi cư trú, nhưng loại trừ mọi hạn chế ngoài tài khoản vốn và không có dữ liệu trước 1995.
-- Hệ quả là các bộ hiện có, phần lớn bắt đầu từ thập niên 1990, đã bỏ lỡ đúng giai đoạn mở cửa tài chính lớn nhất trong lịch sử các nước.
+Giai đoạn căng thẳng địa chính trị và phân mảnh tài chính hiện nay đã làm sống lại các câu hỏi cơ bản về cách chính phủ quản lý dòng vốn quốc tế. Nhưng nghiên cứu thực nghiệm bị giới hạn bởi dữ liệu: các bộ dữ liệu hiện có chỉ bao phủ một tập con hẹp các công cụ, thường ở tần suất thấp (theo năm), và thường không phân biệt được biện pháp nhắm vào dòng vào hay dòng ra, hay biện pháp đó mạnh hay yếu.
+
+Ba bộ dữ liệu lịch sử nổi bật đều dùng AREAER nhưng khác nhau đáng kể:
+
+| Bộ dữ liệu | Cách làm | Phạm vi thời gian | Hạn chế |
+|---|---|---|---|
+| Quinn (1997) | Mã hoá thủ công văn bản tường thuật thành chỉ tiêu cường độ theo thang chủ quan, sáu nhóm | Từ thập niên 1950, theo năm | Không phân biệt chiều dòng vốn hay loại công cụ |
+| Chinn–Ito (2006) | Thành phần chính thứ nhất của bốn biến nhị phân (có hoặc không có kiểm soát) | Từ thập niên 1970 | Không phân biệt chiều dòng vốn hay loại công cụ |
+| FKRSU, tức Fernández và cộng sự (2016) | Khai thác mức chi tiết của AREAER để xây chỉ tiêu tài khoản vốn theo năm, phân tách theo tài sản, chiều dòng vốn và nơi cư trú | Chỉ từ 1995 | Loại trừ mọi hạn chế ngoài tài khoản vốn |
+
+Khoảng trống vì vậy có hai mặt. Thứ nhất, không bộ nào bắt được các công cụ ngoài tài khoản vốn. Thứ hai, phần lớn các bộ bắt đầu từ thập niên 1990, nên bỏ lỡ đúng giai đoạn mở cửa tài chính lớn nhất trong lịch sử các nước.
+
+**Bộ dữ liệu mới: iBoP.** Bài xây một bộ dữ liệu gồm hơn 41.000 thay đổi chính sách ở 195 nước trong giai đoạn 1950–2023, tần suất ngày, chia thành tám nhóm hạn chế và phân loại theo bốn chiều (chiều thay đổi, loại công cụ, chiều dòng vốn, ngày thực thi).
 
 ### 2. Nguồn dữ liệu và cấu trúc
 
-- Nguồn chính là Báo cáo Thường niên về Cơ chế và Hạn chế Hối đoái của IMF, xuất bản từ năm 1950 theo Điều lệ Quỹ, cụ thể là Điều VIII về hạn chế thanh toán vãng lai và Điều VI về kiểm soát chuyển vốn. Phạm vi đã mở rộng lên 197 nước trong các báo cáo gần đây.
-- Các báo cáo 1950 tới 1999 được tải về dạng PDF lưu trữ và trích xuất bằng phần mềm nhận dạng ký tự quang học Tesseract, có mô hình ngôn ngữ và kiểm tra thủ công bổ sung ở nơi cần thiết. Dữ liệu này được ghép với dữ liệu có cấu trúc giai đoạn 1999 tới 2022 từ trang web AREAER.
-- Các báo cáo đã phình ra đáng kể: tới năm 2022 tổng lượng chữ tích luỹ đạt khoảng mười bốn triệu từ, và độ phức tạp văn bản tăng tới mức cần trình độ đại học để đọc hiểu. Một bước ngoặt cấu trúc xảy ra năm 1995 khi văn bản chuyển sang dạng bán cấu trúc và số mục tăng vọt.
-- Điểm may mắn về mặt phương pháp là mục Thay đổi đã tồn tại liên tục từ năm 1950 và giữ định dạng nhất quán theo thời gian, đây chính là nền tảng để xây chỉ số iBoP-C.
+Nguồn chính là AREAER, xuất bản từ năm 1950 theo Điều lệ của IMF, cụ thể là Điều VIII về hạn chế thanh toán vãng lai và Điều VI về kiểm soát chuyển vốn. Phạm vi đã mở rộng lên 197 nước trong các báo cáo gần đây.
+
+Dữ liệu được thu thập theo hai giai đoạn:
+
+- **1950–1999:** tải về dưới dạng PDF lưu trữ và trích xuất chữ bằng phần mềm nhận dạng ký tự quang học Tesseract, có mô hình ngôn ngữ và kiểm tra thủ công hỗ trợ ở những chỗ cần thiết.
+- **1999–2022:** lấy dữ liệu có cấu trúc trực tiếp từ trang web AREAER.
+
+Các báo cáo đã phình ra đáng kể theo thời gian. Tới năm 2022, tổng lượng chữ tích luỹ đạt khoảng 14 triệu từ, và độ phức tạp của văn bản tăng tới mức cần trình độ đại học để đọc hiểu. Một bước ngoặt cấu trúc xảy ra năm 1995, khi văn bản chuyển sang dạng bán cấu trúc và số mục tăng vọt.
+
+Điểm may mắn về phương pháp là mục "Thay đổi" đã tồn tại liên tục từ năm 1950 và giữ định dạng nhất quán theo thời gian. Chính mục này là nền tảng để xây chỉ số thay đổi iBoP-C.
 
 ### 3. Phương pháp phân loại
 
-- Các hạn chế được tổ chức thành tám nhóm đều đã có mặt từ ấn bản đầu tiên, rồi gộp thành chỉ số tổng hợp iBoP, bao gồm cả trở ngại trực tiếp lên dòng vốn từ giao dịch vãng lai và tài khoản vốn, lẫn quy định tác động gián tiếp qua thị trường ngoại hối, hạn chế tài khoản và kiểm soát khu vực tài chính.
-- Quy trình gồm năm bước. Bước gán nhãn thủ công cho thấy mức đồng thuận giữa hai người gán khá tốt, với tỷ lệ bất đồng từ ba phần trăm ở nhóm tới mười ba phần trăm ở chiều, và hệ số kappa Cohen từ 0,69 tới 0,84. Quan trọng là bất đồng được giải quyết bằng cách xem lại chung có sự hỗ trợ đối chứng của mô hình ngôn ngữ, và quy trình hoà giải này làm giảm đáng kể bất đồng.
-- Mô hình chính là BERT thích ứng chuyên ngành, tức một mô hình BERT 110 triệu tham số được tiếp tục tiền huấn luyện trên toàn bộ kho văn bản AREAER từ 1950 tới 2022. Độ hỗn loạn trên mẫu giữ riêng giảm từ 17,28 xuống 2,19.
-- Kết quả đáng chú ý là mô hình nhỏ chuyên ngành vượt các mô hình sinh lớn hơn nhiều ở mọi chiều phân loại, với khoảng cách rõ nhất ở chiều loại hạn chế. Ở chiều thay đổi, mô hình đạt 87,0 phần trăm so với 90,7 phần trăm của người gán nhãn.
-- Nhóm tác giả cũng tinh lọc phạm vi bằng cách loại bốn nhóm có khả năng được báo cáo thiếu nhất quán: mô tả chế độ tỷ giá, hạn chế vì lý do an ninh quốc gia, hạn chế thương mại thuần tuý, và chính sách vĩ mô thận trọng trong nước. Mẫu sau tinh lọc chiếm khoảng sáu mươi phần trăm số mục, trong đó biện pháp thương mại chiếm hai mươi tám phần trăm.
+**Tám nhóm hạn chế.** Các hạn chế được tổ chức thành tám nhóm, tất cả đều đã có mặt từ ấn bản đầu tiên của AREAER, rồi gộp thành chỉ số tổng hợp iBoP. Chỉ số này bao gồm cả trở ngại trực tiếp lên dòng tiền từ giao dịch vãng lai và tài khoản vốn, lẫn các quy định tác động gián tiếp qua thị trường ngoại hối, tài khoản ngân hàng và khu vực tài chính. Số thay đổi ghi nhận theo nhóm:
+
+| Nhóm | Số thay đổi | Tỷ trọng |
+|---|---|---|
+| Giao dịch tài khoản vốn | 8.023 | 19,6% |
+| Thu xếp thanh toán và thu nhận | 6.040 | 14,7% |
+| Giao dịch vô hình và chuyển giao vãng lai | 5.114 | 12,5% |
+| Thanh toán nhập khẩu | 4.313 | 10,5% |
+| Thị trường ngoại hối | 4.239 | 10,3% |
+| Tài khoản của người cư trú và người không cư trú | 3.123 | 7,6% |
+| Khu vực tài chính | 3.102 | 7,6% |
+| Nguồn thu xuất khẩu | 2.939 | 7,2% |
+| Tổng | 41.030 | 100% |
+
+(Lưu ý: tám dòng trên cộng lại được 36.893 thay đổi, khoảng 90% tổng số; bảng không ghi rõ phần còn lại.)
+
+Hàm ý trung tâm: giao dịch tài khoản vốn, thứ mà toàn bộ các chỉ số trước đây tập trung vào, chỉ chiếm 19,6%, chưa tới một phần năm. Nếu chỉ nhìn tài khoản vốn, ta bỏ lỡ hơn 80% số công cụ mà chính phủ thực sự sử dụng.
+
+**Bốn nhãn cho mỗi thay đổi.**
+
+1. Chiều: siết, nới, hoặc trung tính.
+2. Loại: dựa trên giá (thuế, phí, yêu cầu dự trữ), dựa trên lượng (hạn ngạch, trần, cấm), hoặc hành chính (giấy phép, phê duyệt, báo cáo).
+3. Dòng: vào, ra, hoặc trung tính.
+4. Ngày thực thi cụ thể.
+
+**Quy trình năm bước.**
+
+1. *Gán nhãn thủ công.* Hai người gán nhãn độc lập. Mức đồng thuận khá tốt: tỷ lệ bất đồng từ 3% (khi gán nhóm) tới 13% (khi gán chiều siết hay nới), hệ số kappa Cohen từ 0,69 tới 0,84.
+2. *Rà soát và hoà giải.* Các đồng tác giả xem lại chung những trường hợp bất đồng, có mô hình ngôn ngữ đưa ra dự đoán đối chứng để tham khảo. Quy trình hoà giải này làm giảm đáng kể bất đồng.
+3. *Mở rộng tập huấn luyện.* Ghép nhãn thủ công với các nhãn sẵn có cho giai đoạn sau 1995; chia 80% để huấn luyện và 20% để kiểm định.
+4. *Huấn luyện mô hình.* Mô hình chính là BERT thích ứng chuyên ngành: một mô hình BERT 110 triệu tham số được tiếp tục tiền huấn luyện trên toàn bộ kho văn bản AREAER 1950–2022. Độ hỗn loạn trên mẫu giữ riêng giảm từ 17,28 xuống 2,19, nghĩa là mô hình đã "quen" với ngôn ngữ của AREAER.
+5. *Đánh giá* trên mẫu giữ riêng.
+
+**Mô hình chuyên ngành thắng mô hình lớn.** Độ chính xác trên mẫu kiểm định:
+
+| Mô hình | Chiều | Dòng | Nhóm | Loại |
+|---|---|---|---|---|
+| BERT chuyên ngành | 0,870 | 0,806 | 0,816 | 0,767 |
+| BERT gốc | 0,854 | 0,797 | 0,822 | 0,696 |
+| GPT-4o mini | 0,857 | 0,679 | 0,638 | 0,567 |
+| Llama 3.2 3B | 0,854 | 0,742 | 0,761 | 0,658 |
+| TF-IDF + SVC | 0,772 | 0,770 | 0,755 | 0,651 |
+| TF-IDF + hồi quy | 0,752 | 0,758 | 0,687 | 0,638 |
+| TF-IDF + rừng ngẫu nhiên | 0,738 | 0,734 | 0,546 | 0,600 |
+
+(TF-IDF là cách biểu diễn văn bản bằng tần suất từ có điều chỉnh; SVC, hồi quy và rừng ngẫu nhiên là các bộ phân loại học máy truyền thống.)
+
+Bài học: một mô hình nhỏ (110 triệu tham số) được tiền huấn luyện trên đúng kho văn bản chuyên ngành vượt các mô hình sinh lớn hơn nhiều ở gần như mọi chiều phân loại, với khoảng cách rõ nhất ở chiều loại hạn chế: 0,767 so với 0,567 của GPT-4o mini. So sánh quan trọng nhất là với con người: ở chiều thay đổi, mô hình đạt 0,870 (87,0%) so với 0,907 (90,7%) của người gán nhãn, tức gần ngang người.
+
+**Tinh lọc phạm vi.** Nhóm tác giả loại bốn nhóm nội dung có khả năng được báo cáo thiếu nhất quán giữa các nước và các năm: mô tả chế độ tỷ giá, hạn chế vì lý do an ninh quốc gia, hạn chế thương mại thuần tuý, và chính sách vĩ mô thận trọng trong nước. Mẫu sau tinh lọc chiếm khoảng 60% số mục, trong đó biện pháp thương mại chiếm 28%.
 
 ### 4. Hai chỉ số
 
-- Chỉ số thay đổi iBoP-C đo các thay đổi từ 1950 tới 2022 bằng cách cộng số lần siết và trừ số lần nới ở cấp nước, năm, nhóm, rồi tích luỹ từ năm đầu tiên. Chỉ số này có sẵn ở tần suất ngày, tháng, quý và năm.
-- Chỉ số trạng thái iBoP-S đo mức hạn chế từ năm 1995 bằng cách lấy trung bình các chỉ tiêu nhị phân theo các phân nhóm, tôn trọng cấu trúc phân cấp của AREAER: mỗi nút cha là trung bình đơn giản của các nút con. Chỉ số này chỉ có ở tần suất năm.
-- Bài nêu thẳng các giới hạn. iBoP-C nhận diện tần suất và chiều thay đổi ròng chứ không phải mức hạn chế tuyệt đối, nên không thể xếp hạng các nước theo độ đóng mở tổng thể; đó là việc của iBoP-S. Việc bù trừ siết và nới cũng không hoàn hảo vì các biện pháp khác nhau về mức độ chặt, và đây chính là lý do có phần mở rộng trọng số cường độ.
+| Chỉ số | Đo gì | Cách tính | Thời gian và tần suất |
+|---|---|---|---|
+| iBoP-C (chỉ số thay đổi) | Tần suất và chiều thay đổi ròng | Cộng số lần siết, trừ số lần nới ở cấp nước, năm, nhóm, rồi tích luỹ từ năm đầu tiên | 1950 tới 2022; có ở tần suất ngày, tháng, quý, năm |
+| iBoP-S (chỉ số trạng thái) | Mức hạn chế tại một thời điểm | Trung bình các chỉ tiêu nhị phân theo phân nhóm, tôn trọng cấu trúc phân cấp của AREAER: mỗi nút cha là trung bình đơn giản của các nút con | Từ năm 1995; chỉ có theo năm |
+
+Ví dụ minh hoạ cho iBoP-C: nếu một nước trong năm có 3 lần siết và 1 lần nới ở nhóm thanh toán nhập khẩu, chỉ số của nhóm đó tăng 2 so với năm trước.
+
+Bài nêu thẳng các giới hạn. iBoP-C chỉ nhận diện tần suất và chiều của thay đổi ròng, không đo mức hạn chế tuyệt đối, nên không dùng để xếp hạng các nước theo độ đóng mở tổng thể; đó là việc của iBoP-S. Việc bù trừ một lần siết với một lần nới cũng không hoàn hảo, vì các biện pháp khác nhau về mức độ chặt. Đây chính là lý do bài xây thêm phần mở rộng có trọng số cường độ, trình bày ở phần cuối.
+
+**Kiểm chứng ngoài.** Tương quan của chỉ số mới với các bộ sẵn có:
+
+| Bộ dữ liệu | Tương quan |
+|---|---|
+| Quinn–Toyoda (2008) | 0,967 |
+| Chinn–Ito (2006) | 0,941 |
+| Ilzetzki và cộng sự (2021) | 0,880 |
+| FKRSU mở rộng | 0,880 |
+
+Các chỉ số đồng biến mạnh nhưng không hoàn hảo; phần chênh chính là giai đoạn siết quanh lúc Bretton Woods sụp đổ mà các bộ cũ không bắt được vì phạm vi hẹp hơn.
 
 ### 5. Năm sự thật cách điệu
 
-- Thứ nhất, tự do hoá không diễn ra theo đường thẳng mà theo mô hình dừng rồi đi. Sau giai đoạn nới trong thập niên 1950, các nước siết mạnh từ đầu thập niên 1960 tới đầu 1980, trùng với sức ép lên hệ thống Bretton Woods rồi quá trình chuyển sang thả nổi phổ quát, khi nhiều nước dựa nhiều hơn vào quy định về ngoại hối và khu vực tài chính để quản lý sức ép cán cân thanh toán. Tự do hoá tiếp tục ngay cả khi đồng thuận chính sách quốc tế thay đổi, đỉnh điểm là Quan điểm Thể chế năm 2012 của IMF, vốn chuyển từ chỗ coi kiểm soát vốn là điều không thể chấp nhận sang coi nó là một công cụ trong số nhiều công cụ.
-- Thứ hai, tốc độ tự do hoá rất không đều theo mức thu nhập. Nước thu nhập cao bắt đầu từ thập niên 1960, nước thu nhập trung bình đi cùng quỹ đạo nhưng trễ gần hai thập kỷ, còn nước thu nhập thấp siết trong thập niên 1970 và tới nay vẫn tương đối đóng. Theo chỉ số trạng thái, nước trung bình và thấp hạn chế gấp đôi nước thu nhập cao, và riêng ở tài khoản vốn thì gấp ba.
-- Thứ ba, tự do hoá chủ yếu diễn ra ở công cụ dựa trên lượng, vốn được dùng rộng rãi thời Bretton Woods rồi được nới dần từ thập niên 1980 khi các nước chuyển sang cơ chế phân bổ theo thị trường. Công cụ hành chính nới rộng sau giai đoạn siết nhẹ thập niên 1970. Đáng chú ý là công cụ dựa trên giá gần như không đổi suốt bảy thập kỷ.
-- Thứ tư, hạn chế dòng ra được nới nhanh hơn và triệt để hơn hạn chế dòng vào. Lý do nằm ở bản chất mục đích: kiểm soát dòng ra là công cụ chống tháo chạy vốn và ổn định tỷ giá trong khủng hoảng, nên được gỡ nhanh khi tình hình bình thường trở lại, trong khi kiểm soát dòng vào nhằm hạn chế vay mượn quá mức và rủi ro bùng nổ tín dụng, mang tính phòng ngừa dài hạn nên dai dẳng hơn.
-- Thứ năm, ở mức chi tiết hai mươi bốn phân nhóm, hạn chế giao dịch vàng và kiểm soát tiền giấy được siết mạnh quanh lúc Bretton Woods sụp đổ, cho thấy đó từng là đòn bẩy chính sách quan trọng. Yêu cầu hồi hương và nộp lại tăng lên cả với nguồn thu xuất khẩu lẫn giao dịch vốn trong giai đoạn đó. Hạn chế khu vực tài chính tập trung vào ngân hàng thương mại và có siết lại sau khủng hoảng tài chính toàn cầu, trong khi hạn chế với quỹ hưu trí, công ty bảo hiểm và quỹ đầu tư tập thể được nới rộng theo thời gian.
+**Sự thật thứ nhất: tự do hoá không tuyến tính mà theo mô hình "dừng rồi đi".**
+
+| Giai đoạn | Xu hướng |
+|---|---|
+| Thập niên 1950 | Nới |
+| Đầu 1960 tới đầu 1980 | Siết mạnh, trùng với sức ép lên hệ thống Bretton Woods rồi quá trình chuyển sang thả nổi phổ quát |
+| Từ giữa 1980 | Nới dần và liên tục |
+| 2012 | IMF ban hành Quan điểm Thể chế |
+
+Trong giai đoạn siết, nhiều nước dựa nhiều hơn vào quy định về ngoại hối và khu vực tài chính để đối phó với sức ép cán cân thanh toán. Tự do hoá vẫn tiếp tục ngay cả khi đồng thuận chính sách quốc tế thay đổi, mà đỉnh điểm là Quan điểm Thể chế năm 2012 của IMF, chuyển từ chỗ coi kiểm soát vốn là điều không thể chấp nhận sang coi nó là một công cụ trong số nhiều công cụ.
+
+**Sự thật thứ hai: tốc độ tự do hoá rất không đều theo mức thu nhập.** Nước thu nhập cao bắt đầu nới từ thập niên 1960. Nước thu nhập trung bình đi cùng quỹ đạo nhưng trễ gần hai thập kỷ. Nước thu nhập thấp lại siết trong thập niên 1970 và tới nay vẫn tương đối đóng. Theo chỉ số trạng thái iBoP-S, nước thu nhập trung bình và thấp hạn chế gấp đôi nước thu nhập cao, và riêng ở tài khoản vốn thì gấp ba.
+
+**Sự thật thứ ba: tự do hoá chủ yếu diễn ra ở công cụ dựa trên lượng.** Công cụ dựa trên lượng được dùng rộng rãi thời Bretton Woods, rồi được nới mạnh nhất từ thập niên 1980 khi các nước chuyển sang cơ chế phân bổ theo thị trường (để giá cả và thị trường quyết định thay vì hạn ngạch). Công cụ hành chính bị siết nhẹ trong thập niên 1970 rồi được nới rộng. Đáng chú ý, công cụ dựa trên giá gần như không đổi suốt bảy thập kỷ.
+
+**Sự thật thứ tư: hạn chế dòng ra được nới nhanh hơn và triệt để hơn hạn chế dòng vào.** Lý do nằm ở mục đích khác nhau. Kiểm soát dòng ra là công cụ chống tháo chạy vốn và ổn định tỷ giá trong khủng hoảng, nên được gỡ nhanh khi tình hình bình thường trở lại. Kiểm soát dòng vào nhằm hạn chế vay mượn quá mức và rủi ro bùng nổ tín dụng, mang tính phòng ngừa dài hạn, nên dai dẳng hơn. Ngoại lệ là nước thu nhập thấp, nơi kiểm soát dòng ra được gỡ ít hơn cả.
+
+**Sự thật thứ năm: công cụ thời Bretton Woods rất khác hôm nay.** Ở mức chi tiết 24 phân nhóm, hạn chế giao dịch vàng và kiểm soát tiền giấy (hạn chế mang tiền mặt qua biên giới) được siết mạnh quanh lúc Bretton Woods sụp đổ, cho thấy đó từng là đòn bẩy chính sách quan trọng. Trong cùng giai đoạn, yêu cầu hồi hương và nộp lại tăng lên với cả nguồn thu xuất khẩu lẫn giao dịch vốn. Những công cụ này chỉ hiện ra khi mở rộng phạm vi ra ngoài tài khoản vốn. Hạn chế khu vực tài chính thì tập trung vào ngân hàng thương mại và được siết lại sau khủng hoảng tài chính toàn cầu, trong khi hạn chế với quỹ hưu trí, công ty bảo hiểm và quỹ đầu tư tập thể được nới dần theo thời gian.
 
 ### 6. Dồn cục và so le
 
-- Phát hiện quan trọng nhất về cách sử dụng công cụ là chính phủ hiếm khi dùng chúng đơn lẻ. Ba mươi lăm phần trăm biện pháp trùng ngày với ít nhất một biện pháp khác, và tỷ lệ này tăng lên sáu mươi phần trăm trong cửa sổ mười ngày và bảy mươi bảy phần trăm trong cửa sổ ba mươi ngày.
-- Bảng chéo cho thấy các chính phủ kết hợp gần như mọi tổ hợp công cụ có thể. Thường thì biện pháp cũng được kết hợp với biện pháp khác trong cùng nhóm, phản ánh việc điều chỉnh tuần tự hoặc hiệu chỉnh lại chính sách đã ban hành.
-- Bài rút ra một hàm ý phương pháp sắc bén: khi các nghiên cứu tình huống đo tác động của một biện pháp lên biến vĩ mô như dòng vốn hay sản lượng, tác động của các can thiệp sát cạnh có thể bị gán nhầm cho sự kiện đang xét. Điều này làm việc đánh giá chính sách khó hơn, nhưng ít nhất bộ dữ liệu mới giờ cung cấp đầy đủ thông tin để xử lý các yếu tố gây nhiễu đó.
-- Hiện tượng dồn cục và so le xảy ra ở mọi giai đoạn, mọi mức phát triển và mọi chế độ tỷ giá, nên nó không phải đặc thù của một đợt khủng hoảng hay một nhóm nước.
+**Chính phủ hiếm khi dùng công cụ đơn lẻ.** Đây là phát hiện quan trọng nhất về cách sử dụng công cụ. Tỷ lệ biện pháp đứng một mình hay có biện pháp khác ở gần, theo độ rộng cửa sổ thời gian:
+
+| Cửa sổ quanh biện pháp | Chỉ một biện pháp | Có hơn một biện pháp |
+|---|---|---|
+| ± 0 ngày (cùng ngày) | 65% | 35% |
+| ± 1 ngày | 59% | 41% |
+| ± 3 ngày | 54% | 46% |
+| ± 5 ngày | 49% | 51% |
+| ± 10 ngày | 40% | 60% |
+| ± 20 ngày | 30% | 70% |
+| ± 30 ngày | 23% | 77% |
+
+Như vậy 35% biện pháp được ban hành cùng ngày với ít nhất một biện pháp khác (dồn cục), và tỷ lệ có biện pháp khác ở gần tăng lên 60% trong cửa sổ mười ngày và 77% trong cửa sổ ba mươi ngày (so le). Trong các đợt dồn cục cùng ngày, 62% có hai biện pháp, 29% có ba tới năm biện pháp, 6,3% có sáu tới mười biện pháp, và 2,7% có hơn mười biện pháp.
+
+Bảng chéo giữa các nhóm cho thấy các chính phủ kết hợp gần như mọi tổ hợp công cụ có thể. Thường thì một biện pháp đi kèm biện pháp khác trong cùng nhóm, phản ánh việc điều chỉnh tuần tự hoặc hiệu chỉnh lại chính sách vừa ban hành. Hiện tượng dồn cục và so le xảy ra ở mọi giai đoạn, mọi mức phát triển và mọi chế độ tỷ giá, nên không phải đặc thù của một đợt khủng hoảng hay một nhóm nước.
+
+**Hàm ý phương pháp.** Khi một nghiên cứu tình huống đo tác động của một biện pháp lên biến vĩ mô như dòng vốn hay sản lượng, tác động của các can thiệp sát cạnh có thể bị gán nhầm cho biện pháp đang xét. Ví dụ minh hoạ: nếu một nước vừa áp thuế lên dòng vốn vào, vừa trong cùng tuần nâng yêu cầu dự trữ ngoại tệ và siết hạn mức vay nước ngoài, thì dòng vốn giảm sau đó không thể quy hết cho khoản thuế. Điều này làm việc đánh giá chính sách khó hơn, nhưng bộ dữ liệu theo ngày mới cung cấp đủ thông tin để kiểm soát các yếu tố gây nhiễu đó.
 
 ### 7. Khủng hoảng và kinh tế chính trị
 
-- Trong khủng hoảng, các nước dùng số biện pháp hơn gấp đôi mức trung vị hàng năm, vốn chỉ là một biện pháp. Mức tăng tập trung ở biện pháp nhắm vào thị trường ngoại hối, tài khoản người không cư trú, thanh toán nhập khẩu, nguồn thu xuất khẩu và giao dịch vô hình.
-- Đáng chú ý là biện pháp về khu vực tài chính và tài khoản vốn không cho thấy phản ứng có hệ thống với khủng hoảng. Bài nêu thẳng rằng nếu một nghiên cứu chỉ nhìn vào nhóm sau, như phần lớn tài liệu hiện có, thì kết quả không có ý nghĩa thống kê sẽ vẽ nên bức tranh không đầy đủ.
-- Khi tách theo loại khủng hoảng, hiệu ứng tập trung ở khủng hoảng tiền tệ và nợ công, còn tương quan với khủng hoảng ngân hàng không có ý nghĩa thống kê. Điều này hợp trực giác vì khủng hoảng tiền tệ và nợ công tác động trực tiếp tới dòng vốn xuyên biên giới, trong khi khủng hoảng ngân hàng thường xử lý được trong nước.
-- Về kinh tế chính trị, hầu hết chỉ tiêu chất lượng thể chế tương quan âm có ý nghĩa với việc dùng biện pháp, nghĩa là thể chế yếu hơn đi kèm với việc dựa nhiều hơn vào hạn chế. Chỉ số rủi ro tổng hợp giữ ý nghĩa ngay cả khi kiểm soát hiệu ứng cố định theo nước, nên không chỉ là khác biệt giữa các nước mà cùng một nước cũng siết nhiều hơn trong giai đoạn rủi ro cao.
-- Cuối cùng, các nước ban hành hoặc điều chỉnh nhiều hạn chế hơn trong năm có bầu cử hành pháp hoặc lập pháp, và hiệu ứng này có ý nghĩa ở mọi nhóm, phù hợp với kết quả của Müller năm 2023 về việc sử dụng chính sách vĩ mô thận trọng theo chu kỳ bầu cử.
+**Khủng hoảng nào kích hoạt biện pháp.** Trong khủng hoảng, các nước dùng số biện pháp hơn gấp đôi mức trung vị hàng năm, vốn chỉ là một biện pháp mỗi năm. Hệ số theo loại khủng hoảng:
+
+| Loại khủng hoảng | Hệ số | Ý nghĩa |
+|---|---|---|
+| Ngân hàng | 0,028 | Không có ý nghĩa thống kê |
+| Tiền tệ | 1,507 | Rất mạnh |
+| Nợ công | 2,532 | Mạnh nhất |
+| Chung (mọi khủng hoảng) | 1,263 | Rất mạnh |
+
+Trong khủng hoảng, biện pháp nghiêng hẳn về siết (hệ số 0,728) hơn nới (0,452), và về dòng ra (0,580) hơn dòng vào (0,240). Mức tăng tập trung ở các biện pháp nhắm vào thị trường ngoại hối, tài khoản người không cư trú, thanh toán nhập khẩu, nguồn thu xuất khẩu và giao dịch vô hình.
+
+Kết quả hợp trực giác: khủng hoảng tiền tệ và nợ công tác động trực tiếp tới dòng vốn xuyên biên giới, còn khủng hoảng ngân hàng thường được xử lý trong nước.
+
+Đáng chú ý là biện pháp về khu vực tài chính và tài khoản vốn không cho thấy phản ứng có hệ thống với khủng hoảng. Bài nêu thẳng: nếu một nghiên cứu chỉ nhìn vào hai nhóm này, như phần lớn tài liệu hiện có, thì hệ số sẽ không có ý nghĩa thống kê và vẽ nên một bức tranh sai lệch, rằng chính phủ không phản ứng với khủng hoảng bằng hạn chế dòng vốn.
+
+**Kinh tế chính trị.** Hệ số của các chỉ tiêu thể chế và chính trị:
+
+| Chỉ tiêu | Hệ số |
+|---|---|
+| Năm bầu cử | +0,529 |
+| Tham nhũng cao | −0,447 |
+| Hồ sơ đầu tư kém | −0,408 |
+| Xung đột bên ngoài | −0,296 |
+| Xung đột quốc tế | −0,276 |
+| Căng thẳng tôn giáo | −0,255 |
+| Luật pháp và trật tự | −0,233 |
+| Ổn định chính phủ | −0,218 |
+
+Cách đọc: với các chỉ tiêu thể chế, điểm cao nghĩa là thể chế tốt (ít tham nhũng, ít xung đột, luật pháp vững). Dấu âm vì vậy nghĩa là thể chế yếu hơn đi kèm với việc dựa nhiều hơn vào hạn chế. Chỉ số rủi ro tổng hợp giữ ý nghĩa ngay cả khi kiểm soát hiệu ứng cố định theo nước. Điều đó cho thấy không chỉ có khác biệt giữa các nước (nước thể chế yếu dùng nhiều hạn chế hơn), mà cùng một nước cũng siết nhiều hơn trong giai đoạn rủi ro cao.
+
+Cuối cùng, các nước ban hành hoặc điều chỉnh nhiều hạn chế hơn trong năm có bầu cử hành pháp hoặc lập pháp (hệ số +0,529), và hiệu ứng này có ý nghĩa ở mọi nhóm. Kết quả này phù hợp với nghiên cứu của Müller năm 2023 về việc sử dụng chính sách vĩ mô thận trọng theo chu kỳ bầu cử.
 
 ### 8. Động cơ được tuyên bố
 
-- Nhóm tác giả thu thập thủ công tuyên bố chính thức cho một trăm năm mươi ba biện pháp quản lý dòng vốn được đưa ra ở bốn mươi mốt nước sau năm 2012, từ bài phát biểu, báo cáo ổn định tài chính và tiền tệ, tham vấn Điều IV và mạng xã hội. Họ tìm được tuyên bố cho chín mươi phần trăm số biện pháp và xác định được động cơ cho bảy mươi sáu phần trăm.
-- Sáu nhóm động cơ được phân loại, mở rộng từ khung bốn nỗi sợ của Magud và cộng sự năm 2018. Động cơ phổ biến nhất là sợ dòng ra gây xáo trộn với ba mươi bảy phần trăm, tiếp theo là sợ thả nổi với ba mươi mốt phần trăm và sợ vay mượn quá mức với hai mươi hai phần trăm.
-- Phát hiện đáng chú ý nhất là khoảng một phần ba động cơ không gắn với trạng thái chu kỳ kinh doanh. Mục tiêu dài hạn chiếm hai mươi phần trăm và địa chính trị chiếm mười ba phần trăm. Bài nêu một điểm nghịch lý về nhóm mục tiêu dài hạn: dù là biện pháp điều tiết dòng vốn, chúng có thể trên thực tế làm tăng độ mở bằng cách tạo môi trường đầu tư ổn định hơn và củng cố niềm tin nhà đầu tư.
-- Động cơ phân hoá rõ theo mức thu nhập. Nước thu nhập thấp và trung bình ưu tiên lo ngại về dòng ra gây xáo trộn và biến động tỷ giá, còn nước thu nhập cao tập trung vào vay mượn quá mức thông qua kiểm soát dòng vào. Về công cụ, lệnh cấm và hạn mức là hai loại được dùng nhiều nhất ở hầu hết động cơ, trừ trường hợp sợ vay mượn quá mức thì thuế được dùng nhiều nhất.
+**Phương pháp.** Nhóm tác giả thu thập thủ công tuyên bố chính thức cho 153 biện pháp quản lý dòng vốn được đưa ra ở 41 nước sau năm 2012, từ bài phát biểu, báo cáo ổn định tài chính và báo cáo tiền tệ, các đợt tham vấn Điều IV (đánh giá kinh tế định kỳ của IMF với từng nước) và mạng xã hội. Họ tìm được tuyên bố cho 138 biện pháp (90%) và xác định được động cơ cho 117 biện pháp (76%); phần còn lại được xử lý với sự hỗ trợ của ChatGPT.
+
+**Sáu nhóm động cơ.** Khung phân loại mở rộng từ khung "bốn nỗi sợ" của Magud và cộng sự năm 2018. Một biện pháp có thể có nhiều động cơ nên tổng vượt 100%:
+
+| Động cơ | Tỷ lệ |
+|---|---|
+| Sợ dòng ra gây xáo trộn | 37% |
+| Sợ thả nổi (sợ tỷ giá biến động) | 31% |
+| Sợ vay mượn quá mức | 22% |
+| Mục tiêu dài hạn | 20% |
+| Địa chính trị | 13% |
+| Khác (ví dụ tăng thu thuế) | 3% |
+
+**Phát hiện đáng chú ý nhất:** khoảng một phần ba động cơ không gắn với trạng thái chu kỳ kinh doanh (mục tiêu dài hạn 20% và địa chính trị 13%). Kiểm soát vốn vì vậy không chỉ là công cụ ứng phó ngắn hạn; một phần đáng kể phục vụ mục tiêu dài hạn như xây dựng chiều sâu cho thị trường tài chính trong nước. Bài nêu một điểm nghịch lý về nhóm này: dù là biện pháp điều tiết dòng vốn, chúng có thể trên thực tế làm tăng độ mở, bằng cách tạo môi trường đầu tư ổn định hơn và củng cố niềm tin nhà đầu tư.
+
+**Động cơ khác nhau theo mức thu nhập.**
+
+| Nhóm nước | Động cơ chính | Công cụ chủ yếu |
+|---|---|---|
+| Thu nhập thấp và trung bình | Sợ dòng ra gây xáo trộn và sợ thả nổi | Lệnh cấm và hạn mức; khi sợ dòng ra thì yêu cầu nộp lại và hồi hương là loại phổ biến thứ hai |
+| Thu nhập cao | Sợ vay mượn quá mức, nhắm vào dòng vào | Thuế là loại được dùng nhiều nhất |
+
+Nói chung, lệnh cấm và hạn mức là hai loại được dùng nhiều nhất cho hầu hết các động cơ, trừ trường hợp sợ vay mượn quá mức thì thuế được dùng nhiều nhất. Theo chế độ tỷ giá, nỗi sợ vay mượn quá mức phổ biến hơn ở các nước thả nổi tự do, còn các trường hợp "rơi tự do" (đồng tiền mất giá nhanh, lạm phát rất cao) gắn với nỗi sợ thả nổi và sợ dòng ra.
 
 ### 9. Kiểm chứng và trọng số cường độ
 
-- Kiểm chứng đầu tiên là thu hẹp iBoP-S về đúng tập nhóm mà Fernandez và cộng sự năm 2016 dùng, rồi so sánh trực tiếp. Chuỗi trung bình bám sát bộ gốc và phần lớn điểm dữ liệu nằm trên đường bốn mươi lăm độ.
-- Kiểm chứng thứ hai là so sánh iBoP-C với các chỉ số nổi tiếng khác. Tương quan đều ở mức 0,88 trở lên, cho thấy đồng biến mạnh nhưng không hoàn hảo. Phần chênh lệch chính nằm ở chỗ chỉ số mới bắt được đợt siết quanh lúc Bretton Woods sụp đổ, thứ mà các bộ phạm vi hẹp hơn không thấy.
-- Phần mở rộng trọng số cường độ gán cho mỗi thay đổi một điểm số từ 0,1 tới 1 theo phạm vi và bản chất biện pháp, với quy tắc rằng biện pháp nới được chấm theo mức chặt của thứ bị gỡ bỏ còn biện pháp siết được chấm theo thứ mới áp đặt.
-- Kết quả cho thấy khi tính trọng số, nước trung bình chỉ nới khoảng mười biện pháp tới năm 2023 thay vì khoảng bốn mươi như chỉ số không trọng số, đợt siết thập niên 1970 và 1980 hiện rõ hơn, và tự do hoá sau đó từ tốn hơn. Điều này nghĩa là nhiều lần siết thời đó chặt hơn các lần nới ở thập kỷ sau, và đợt siết đó dựa nhiều vào lệnh cấm cùng yêu cầu phê duyệt.
-- Nhưng kết luận quan trọng của phần này là các phát hiện từ chỉ số cơ sở về cơ bản vẫn đứng vững. Ở cấp nhóm, bức tranh có trọng số nhất quán về mặt định tính với bức tranh không trọng số, cho thấy việc chấm mỗi thay đổi bằng nhau là một xấp xỉ tốt, vì không có thời kỳ hay nước nào dùng công cụ chặt hơn hay nhẹ hơn một cách có hệ thống.
+**Kiểm chứng thứ nhất.** Thu hẹp iBoP-S về đúng tập nhóm mà Fernández và cộng sự (2016) dùng, rồi so sánh trực tiếp. Chuỗi trung bình bám sát bộ gốc, và phần lớn điểm dữ liệu nằm trên đường 45 độ (tức hai chỉ số cho cùng giá trị).
+
+**Kiểm chứng thứ hai.** So sánh iBoP-C với các chỉ số nổi tiếng khác (bảng tương quan ở phần Hai chỉ số). Tương quan đều ở mức 0,88 trở lên, đồng biến mạnh nhưng không hoàn hảo. Phần chênh lệch chính nằm ở chỗ chỉ số mới bắt được đợt siết quanh lúc Bretton Woods sụp đổ, thứ mà các bộ có phạm vi hẹp hơn không thấy.
+
+**Trọng số cường độ: một biện pháp không bằng một biện pháp.** Chỉ số cơ sở coi mọi thay đổi như nhau: một yêu cầu khai báo giấy tờ nhỏ nhặt được tính ngang một lệnh cấm toàn diện. Để khắc phục, mỗi thay đổi được gán một điểm cường độ α từ 0,1 tới 1, chấm bằng GPT-4o mini theo bộ quy tắc riêng cho từng nhóm, được tinh chỉnh qua 104 ví dụ gán tay:
+
+| α | Loại biện pháp |
+|---|---|
+| 0,10 | Chỉ thông báo, khai báo, thủ tục hành chính |
+| 0,25 | Một loại thuế nhẹ dưới 10%, hoặc điều chỉnh nhỏ trên một hạn chế vốn đã chặt |
+| 0,50 | Thuế nặng hoặc hạn mức định lượng; yêu cầu hồi hương không kèm nộp lại; các trường hợp mơ hồ |
+| 0,75 | Thuế nặng cộng hạn mức; yêu cầu phê duyệt; hồi hương và nộp lại một phần; lệnh cấm hẹp |
+| 1,00 | Cấm diện rộng; hồi hương và nộp lại toàn bộ |
+
+Quy tắc chấm: biện pháp nới được chấm theo mức chặt của thứ bị gỡ bỏ; biện pháp siết được chấm theo thứ mới áp đặt. Ví dụ minh hoạ: gỡ một lệnh cấm diện rộng được tính 1,00, còn bỏ một yêu cầu khai báo chỉ được tính 0,10.
+
+**Kết quả so sánh.**
+
+| Không trọng số | Có trọng số cường độ |
+|---|---|
+| Nước trung bình nới khoảng 40 biện pháp tính tới 2023 | Nước trung bình chỉ nới khoảng 10 biện pháp tính tới 2023 |
+| | Đợt siết thập niên 70–80 hiện rõ hơn; tự do hoá sau đó từ tốn hơn |
+
+Ý nghĩa: nhiều lần siết trong thập niên 1970 và 1980 chặt hơn các lần nới ở thập kỷ sau, vì đợt siết đó dựa nhiều vào lệnh cấm và yêu cầu phê duyệt.
+
+Nhưng kết luận quan trọng của phần này là các phát hiện từ chỉ số cơ sở về cơ bản vẫn đứng vững. Ở cấp nhóm, bức tranh có trọng số nhất quán về mặt định tính với bức tranh không trọng số. Điều này cho thấy việc chấm mỗi thay đổi bằng nhau là một xấp xỉ tốt, vì không có thời kỳ hay nước nào dùng công cụ chặt hơn hay nhẹ hơn một cách có hệ thống.
 
 ### 10. Dữ liệu công bố và hướng tiếp theo
 
-- Sáu bộ dữ liệu được công bố: iBoP-C theo tháng, quý và năm cho 190 nước giai đoạn 1950 tới 2023; phiên bản có trọng số cường độ; phiên bản chia thành hai mươi bốn phân nhóm; bộ biện pháp chính sách theo ngày với nhãn đầy đủ cho từng biện pháp; iBoP-S theo năm cho 195 nước từ 1995; và bản mở rộng bộ FKRSU, nay phủ 195 nước tới 2023 thay vì 100 nước tới 2019 như bản gốc.
-- Hướng tiếp theo được nêu gồm xây chỉ số trạng thái liên tục lùi về tận 1950, đánh giá các mô hình ngôn ngữ mới hơn trên cùng dữ liệu, dùng tần suất ngày để nhận diện tác động nhân quả sạch hơn, và mở rộng cách tiếp cận để nắm bắt cả chiều thực tế chứ không chỉ chiều pháp lý của các hạn chế.
+Sáu bộ dữ liệu được công bố:
+
+1. iBoP-C theo tháng, quý và năm cho 190 nước giai đoạn 1950 tới 2023.
+2. Phiên bản iBoP-C có trọng số cường độ.
+3. Phiên bản chia thành 24 phân nhóm.
+4. Bộ biện pháp chính sách theo ngày, với nhãn đầy đủ cho từng biện pháp.
+5. iBoP-S theo năm cho 195 nước từ 1995.
+6. Bản mở rộng bộ FKRSU, nay phủ 195 nước tới 2023 thay vì 100 nước tới 2019 như bản gốc.
+
+Hướng tiếp theo gồm: xây chỉ số trạng thái liên tục lùi về tận 1950; đánh giá các mô hình ngôn ngữ mới hơn trên cùng dữ liệu; dùng tần suất ngày để nhận diện tác động nhân quả sạch hơn; và mở rộng cách tiếp cận để nắm bắt cả mức hạn chế trên thực tế, chứ không chỉ mức hạn chế theo văn bản pháp lý.
 
 ## Thuật ngữ
 

@@ -238,53 +238,187 @@
 2. Kết nối vật lý, gồm tàu biển và máy bay, giải thích được bao nhiêu phần của hiện tượng đó?
 3. Quan hệ ngân hàng xuyên biên giới có phải là ràng buộc song song hay không?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**CARICOM và ECCU.** CARICOM là Cộng đồng Caribe, gồm 15 nước thành viên, lập theo Hiệp ước Chaguaramas năm 1973 và sửa đổi năm 2002 để hình thành Thị trường và Nền kinh tế Chung (CSME). ECCU là Liên minh Tiền tệ Đông Caribe, nhóm tám nước dùng chung đồng đô la Đông Caribe. Ví dụ: Jamaica, Bahamas, Antigua và Barbuda, Dominica, St. Lucia đều thuộc CARICOM; Antigua và Barbuda, Dominica, St. Lucia còn thuộc ECCU. Đây là nhóm nước mà mọi kết quả của bài được so với phần còn lại của thế giới.
+
+**Chỉ số Herfindahl-Hirschman (HHI).** Thước đo mức độ tập trung, tính bằng tổng bình phương thị phần của từng đối tác. Giá trị càng cao thì càng phụ thuộc vào ít đối tác. Ví dụ minh hoạ: nếu một nước nhập khẩu đều từ 10 đối tác, mỗi đối tác 10%, thì HHI = 10 × 0,1² = 0,1; nếu một đối tác chiếm 60% và hai đối tác chiếm mỗi bên 20%, HHI = 0,36 + 0,04 + 0,04 = 0,44. Bài dùng HHI để cho thấy nguồn nhập khẩu và nguồn khách du lịch của Caribe tập trung bất thường.
+
+**Mô hình lực hấp dẫn (gravity model).** Mô hình kinh điển của thương mại quốc tế: thương mại giữa hai nước tăng theo quy mô kinh tế của hai nước và giảm theo khoảng cách giữa chúng, giống như lực hấp dẫn trong vật lý. Các yếu tố khác như ngôn ngữ chung, biên giới chung, hiệp định thương mại, thuế quan làm tăng hoặc giảm thêm. Ví dụ trong bài: trên toàn cầu, hệ số khoảng cách là −0,304, nghĩa là khoảng cách xa hơn 10% đi kèm thương mại thấp hơn khoảng 3%. Mô hình này cho biết "thương mại lẽ ra phải bao nhiêu", để so với thực tế.
+
+**Độ co giãn (elasticity).** Phần trăm thay đổi của một biến khi biến kia thay đổi 1%. Ví dụ trong bài: độ co giãn của lượt khách theo năng lực bay là khoảng 0,52 – 0,66, nghĩa là năng lực bay tăng 10% đi kèm lượt khách tăng khoảng 5–6%. Hầu hết kết quả của bài được trình bày dưới dạng độ co giãn.
+
+**Biên ngoại diên và biên nội hàm (extensive / intensive margin).** Biên ngoại diên là thay đổi về việc "có hay không" (có đường bay tới nước đó không, bay bao nhiêu chuyến); biên nội hàm là thay đổi về "to hay nhỏ" trong một quan hệ đã có (mỗi chuyến chở bao nhiêu ghế). Ví dụ minh hoạ: tăng năng lực từ 1.000 lên 2.000 ghế mỗi tuần có thể bằng cách mở thêm đường bay, bay thêm chuyến, hoặc dùng máy bay to gấp đôi. Bài cho thấy khoảng 94% biến thiên đến từ biên ngoại diên, nên chính sách nên nhắm vào đường bay và tần suất.
+
+**Biến công cụ kiểu Bartik (Bartik / shift-share instrument).** Kỹ thuật tách tác động nhân quả khi hai biến ảnh hưởng qua lại. Ý tưởng: lấy một cú sốc lớn xảy ra ở nơi xuất phát (không do điểm đến gây ra), rồi phân bổ nó cho từng điểm đến theo tỷ trọng quan hệ cố định từ năm gốc. Ví dụ minh hoạ: một hãng bay Mỹ cắt 20% đội bay vì giá nhiên liệu; điểm đến nào trước đây chiếm nhiều ghế của hãng đó sẽ mất nhiều ghế hơn, dù nhu cầu du lịch ở đó không đổi. Nhờ vậy bài đo được tác động của khả năng tiếp cận lên lượt khách, không bị lẫn với tác động của nhu cầu.
+
+**Quan hệ ngân hàng đại lý (correspondent banking) và "giảm rủi ro" (de-risking).** Ngân hàng đại lý là ngân hàng nước ngoài cung cấp tài khoản và dịch vụ thanh toán cho ngân hàng ở nước nhỏ, giúp ngân hàng đó chuyển tiền quốc tế. "Giảm rủi ro" là việc các ngân hàng quốc tế lớn cắt các quan hệ này với những nơi bị coi là rủi ro cao về rửa tiền hoặc ít lợi nhuận. Ví dụ: sau khủng hoảng tài chính toàn cầu, số quan hệ ngân hàng hoạt động với CARICOM đi xuống sau năm 2015. Bài kiểm tra xem việc mất kết nối ngân hàng có phải là ràng buộc với thương mại của Caribe hay không.
+
+**Khách lưu trú và khách tàu biển.** Khách lưu trú ngủ lại ở khách sạn, nhà nghỉ tại điểm đến; khách tàu biển chỉ ghé cảng vài giờ rồi lên tàu đi tiếp. Ví dụ trong bài: ở Dominica năm 2023, mỗi khách tàu biển chi dưới 200 đô la, còn mỗi khách lưu trú chi khoảng 2.000 đô la. Sự khác biệt này giải thích vì sao kết nối hàng không (đưa khách lưu trú tới) quan trọng hơn số lượt khách nói chung.
+
+## Nội dung chi tiết
 
 ### 1. Bối cảnh và mức độ dễ tổn thương
 
-- Trong bối cảnh phân mảnh địa kinh tế và căng thẳng địa chính trị gia tăng, các nền kinh tế Caribe chịu rủi ro cao trước cú sốc bên ngoài. Tăng trưởng tiềm năng của vùng đã giảm trên diện rộng trong hai thập kỷ qua do đóng góp suy giảm của năng suất nhân tố tổng hợp và vốn con người, cùng với phân bổ nguồn lực sai lệch.
-- Cấu trúc kinh tế tạo ra hai kênh dễ tổn thương riêng biệt. Về hàng hoá, xuất khẩu chiếm tỷ trọng nhỏ trong GDP ở hầu hết các nước trừ nước xuất khẩu dầu, nhưng nhập khẩu rất lớn, đặc biệt là lương thực, khiến vùng dễ bị tổn thương trước gián đoạn nguồn cung ở nước xuất khẩu. Về dịch vụ, du lịch chiếm trên hai mươi phần trăm GDP và khoảng bảy mươi phần trăm xuất khẩu dịch vụ.
-- Một khác biệt quan trọng trong du lịch: dù khách tàu biển chiếm gần hai phần ba lượt đến năm 2024, khách lưu trú mới tạo ra doanh thu và hệ số nhân kinh tế lớn hơn nhiều. Ước tính cho Dominica năm 2023 cho thấy thu từ mỗi khách tàu biển dưới hai trăm đô la, so với khoảng hai nghìn đô la mỗi khách lưu trú.
-- Mức độ tập trung được đo bằng chỉ số Herfindahl-Hirschman. Mười ba trong mười bốn nước CARICOM có dữ liệu nằm trên phân vị năm mươi toàn cầu về tập trung nguồn nhập khẩu, và điều này vẫn đúng sau khi kiểm soát mức thu nhập và độ xa xôi địa lý. Tập trung nguồn khách du lịch còn cao hơn, và đã tăng thêm sau đại dịch khi tỷ trọng khách Mỹ tiếp tục tăng.
-- Bài dùng khái niệm từ lý thuyết danh mục đầu tư để đo rủi ro: phương sai của cú sốc cung từ phía nước xuất khẩu, tính theo trọng số thị phần nhập khẩu. Hình 3 cho thấy tương quan chặt giữa mức tập trung và mức rủi ro này.
-- Hệ quả trực tiếp nhất nằm ở độ co giãn của lượt khách theo thu nhập nước nguồn. Độ co giãn trung bình khoảng không phẩy tám, nhưng riêng dòng khách từ Hoa Kỳ tới CARICOM thì vọt lên khoảng hai. Vì thị trường Mỹ chiếm vị trí chi phối, điều này làm khuếch đại biến động và làm nặng thêm rủi ro đi xuống khi kinh tế Mỹ chậm lại.
+Trong bối cảnh phân mảnh địa kinh tế và căng thẳng địa chính trị gia tăng, các nền kinh tế Caribe chịu rủi ro cao trước cú sốc bên ngoài. Tăng trưởng tiềm năng của vùng đã giảm trên diện rộng trong hai thập kỷ qua, do năng suất nhân tố tổng hợp (phần tăng trưởng không giải thích được bằng tăng vốn và lao động) và vốn con người đóng góp ít đi, cùng với việc nguồn lực bị phân bổ sai lệch.
+
+CARICOM gồm 15 nước thành viên, hình thành theo Hiệp ước Chaguaramas năm 1973, được sửa đổi năm 2002 để lập Thị trường và Nền kinh tế Chung (CSME). Cấu trúc kinh tế của vùng tạo ra hai kênh dễ tổn thương riêng biệt:
+
+| Kênh | Đặc điểm | Rủi ro |
+|---|---|---|
+| Hàng hoá | Xuất khẩu chiếm tỷ trọng nhỏ trong GDP ở hầu hết các nước (trừ nước xuất khẩu dầu), nhưng nhập khẩu rất lớn, đặc biệt là lương thực | Dễ bị tổn thương khi nguồn cung ở nước xuất khẩu bị gián đoạn |
+| Dịch vụ (du lịch) | Du lịch chiếm trên 20% GDP và khoảng 70% xuất khẩu dịch vụ | Phụ thuộc vào thu nhập và đi lại của khách nước ngoài |
+
+Trong du lịch có một khác biệt quan trọng. Năm 2024, khách tàu biển chiếm gần hai phần ba lượt đến, nhưng khách lưu trú mới là nguồn thu chính và tạo hệ số nhân kinh tế lớn hơn nhiều (tiền họ chi lan ra khách sạn, nhà hàng, vận chuyển trong nước). Ước tính cho Dominica năm 2023: thu từ mỗi khách tàu biển dưới 200 đô la, so với khoảng 2.000 đô la từ mỗi khách lưu trú, tức gấp khoảng mười lần.
+
+**Cả hai kênh đều tập trung cao độ.** Mức độ tập trung được đo bằng chỉ số Herfindahl-Hirschman.
+
+- *Nguồn nhập khẩu:* 13 trong 14 nước CARICOM có dữ liệu nằm trên phân vị 50 toàn cầu về mức tập trung nguồn nhập khẩu, tức tập trung hơn nước trung vị của thế giới. Trong hồi quy, biến giả CARICOM có hệ số dương và có ý nghĩa mạnh, +0,047\*\*\* và +0,059\*\*\* ở hai đặc tả, ngay cả khi đã kiểm soát mức thu nhập và độ xa xôi địa lý.
+- *Nguồn khách du lịch:* còn tập trung hơn. Từ giữa những năm 1990, Hoa Kỳ chiếm khoảng 60% lượt khách lưu trú, cộng thêm 30% từ châu Âu và Canada. Mức tập trung còn tăng sau COVID khi tỷ trọng khách Mỹ tiếp tục tăng. Biến giả CARICOM trong hồi quy tập trung nguồn khách có hệ số +0,195\*\*\* và +0,118\*\*\*.
+
+Bài mượn một khái niệm từ lý thuyết danh mục đầu tư để đo rủi ro: phương sai của cú sốc cung từ phía các nước xuất khẩu, tính theo trọng số thị phần nhập khẩu. Giống như một danh mục chỉ có vài cổ phiếu thì rủi ro hơn danh mục đa dạng, một nước nhập khẩu từ ít nguồn thì chịu rủi ro cung lớn hơn. Số liệu cho thấy mức tập trung và mức rủi ro này tương quan chặt với nhau.
+
+**Hệ quả trực tiếp nhất: biến động thu nhập từ du lịch bị khuếch đại.** Độ co giãn trung bình của lượt khách theo GDP nước nguồn là khoảng 0,8. Nhưng riêng dòng khách từ Mỹ tới CARICOM, độ co giãn vọt lên khoảng 2 (hệ số tương tác 1,139\*\*). Ví dụ minh hoạ: nếu GDP Mỹ giảm 1%, lượt khách Mỹ tới CARICOM giảm khoảng 2%, so với mức giảm khoảng 0,8% ở một dòng khách thông thường. Vì thị trường Mỹ chiếm vị trí chi phối, một cuộc suy thoái ở Mỹ tạo ra cú sốc gấp đôi mức thông thường cho vùng Caribe, làm nặng thêm rủi ro đi xuống.
 
 ### 2. Bằng chứng về kết nối hàng hải
 
-- Chỉ số Kết nối Vận tải Biển của UNCTAD cho thấy kết nối là thách thức lớn với các nước CARICOM so với nhóm đối chiếu. Về chi phí, mọi nước CARICOM trừ Jamaica đều chịu chi phí vận chuyển trên mức trung bình thế giới, với Antigua và Barbuda cao gấp ba lần.
-- Các hồi quy song phương xác nhận rằng ngay cả sau khi kiểm soát khoảng cách địa lý và các yếu tố cơ bản khác, CARICOM với tư cách điểm đến có kết nối tàu biển thấp hơn đáng kể và chi phí vận chuyển cao hơn một cách hệ thống.
-- Bản đồ tuyến vận tải hàng hoá trực tiếp cho thấy cấu trúc trục và nan hoa rõ rệt, với Jamaica và Bahamas làm trung tâm cho toàn vùng và Antigua cùng Barbuda cho khối ECCU. Các đảo nhỏ thường không đủ quy mô để duy trì tuyến trực tiếp với nước nguồn nên phải phụ thuộc vào trung tâm khu vực để gom hàng và phân phối tiếp.
-- Hệ quả là một phần đáng kể của cái gọi là xuất khẩu CARICOM thực ra phản ánh trung chuyển hoặc gia công nhẹ chứ không phải giá trị gia tăng nội địa. Phù hợp với cách hiểu này, ba nước CARICOM nằm trong nhóm mười lăm trung tâm tái xuất lớn nhất thế giới tính theo tỷ lệ tái xuất trên tổng xuất khẩu.
+Chỉ số Kết nối Vận tải Biển của UNCTAD cho thấy kết nối là thách thức lớn với các nước CARICOM so với các nhóm nước đối chiếu. Về chi phí, theo dữ liệu UNCTAD giai đoạn 2016–2019:
+
+- Tất cả các nước CARICOM, trừ Jamaica, đều chịu chi phí vận chuyển trên mức trung bình thế giới.
+- Antigua và Barbuda chịu chi phí cao gấp ba lần mức trung bình thế giới.
+- Phí xếp dỡ cảng và cước vận tải cao gấp hai tới ba lần mức trung bình toàn cầu.
+
+Các hồi quy song phương xác nhận điều này một cách có hệ thống. Sau khi đã kiểm soát khoảng cách địa lý, biên giới chung, ngôn ngữ chung, quan hệ thuộc địa và hiệu ứng cố định của nước gốc, CARICOM với tư cách điểm đến vẫn có:
+
+| Biến phụ thuộc | Hệ số biến giả CARICOM là điểm đến | Ý nghĩa |
+|---|---|---|
+| Chỉ số kết nối tàu biển | −0,103\*\*\* / −0,178\*\*\* | Kết nối thấp hơn |
+| Chi phí vận chuyển | +0,296\*\*\* / +0,340\*\*\* | Chi phí cao hơn |
+
+**Cấu trúc trục và nan hoa.** Bản đồ các tuyến vận tải hàng hoá trực tiếp cho thấy một hệ thống ba tầng:
+
+1. Cửa ngõ bên ngoài: Miami và Panama.
+2. Các trục trung chuyển trong vùng: Jamaica và Bahamas phục vụ toàn CARICOM; Antigua và Barbuda phục vụ khối ECCU.
+3. Các đảo nhỏ khác đóng vai trò nan hoa, nhận hàng từ các trục.
+
+Các đảo nhỏ thường không đủ quy mô hàng hoá để duy trì tuyến tàu trực tiếp với nước nguồn, nên phải dựa vào trung tâm khu vực để gom hàng và phân phối tiếp. Hệ quả là một phần đáng kể của cái gọi là "xuất khẩu" CARICOM thực ra là trung chuyển hoặc gia công nhẹ, chứ không phải giá trị gia tăng nội địa. Phù hợp với cách hiểu này, ba nước CARICOM là Antigua và Barbuda, St. Lucia và Bahamas nằm trong nhóm 15 trung tâm tái xuất lớn nhất thế giới, tính theo tỷ lệ tái xuất trên tổng xuất khẩu.
 
 ### 3. Mô hình lực hấp dẫn cho hàng hoá
 
-- Ước lượng dùng phương pháp Poisson giả hợp lý cực đại, vốn xử lý được các luồng thương mại bằng không mà không cần biến đổi tuỳ tiện và cho ước lượng nhất quán dưới phương sai không đồng nhất. Hiệu ứng cố định hai chiều theo nước xuất khẩu và năm, cùng nước nhập khẩu và năm, đại diện cho sức cản đa phương.
-- Các hệ số cơ sở khớp với tài liệu về dấu và độ lớn. Khi thêm các hệ số tương tác với biến giả CARICOM là điểm đến, hệ số của khoảng cách âm và có ý nghĩa mạnh, cho thấy thương mại với điểm đến CARICOM giảm theo khoảng cách nhanh hơn mức trung bình toàn cầu rất nhiều. Thuế quan và ngôn ngữ chung cũng có tác động lớn hơn trong vùng, còn hiệp định thương mại khu vực lại ít thúc đẩy thương mại hơn. Quan hệ thuộc địa và biên giới chung không có ý nghĩa thống kê trong phần tương tác.
-- Khoảng chênh giữa thương mại thực tế và thương mại dự báo có quy mô khoảng hai phẩy năm tỷ đô la mỗi năm, tương đương khoảng mười phần trăm tổng hàng hoá giao thương với đối tác ngoài vùng, và khá ổn định theo thời gian ở giá trị danh nghĩa.
-- Phần kiểm chứng nguyên nhân là chỗ thuyết phục nhất. Khi đưa vào bộ hệ số tương tác, khoảng trống co lại gần về không. Nhưng khi đưa vào tất cả các hệ số tương tác khác mà bỏ riêng hệ số của khoảng cách, kết quả gần như không đổi so với mô hình cơ sở. Chính biến khoảng cách, chứ không phải thuế quan hay hiệp định, giải thích phần lớn khoảng trống.
-- Bài cũng lưu ý một ràng buộc kỹ thuật: do cấu trúc của mô hình, mức dưới hoặc trên dự báo với tất cả đối tác của một nước phải cộng lại bằng không. Vì vậy khung này không xác định được liệu một nước nói chung có xuất khẩu quá ít hay không, nhưng rất phù hợp để chỉ ra những thị trường đối tác còn tiềm năng chưa khai thác.
+**Phương pháp.** Bài ước lượng mô hình lực hấp dẫn bằng phương pháp Poisson giả hợp lý cực đại (PPML). Ưu điểm của phương pháp này là xử lý được các cặp nước có thương mại bằng không mà không cần biến đổi tuỳ tiện (lấy logarit của 0 là không được), và cho ước lượng nhất quán ngay cả khi phương sai sai số không đồng nhất. Mô hình có hiệu ứng cố định hai chiều theo nước xuất khẩu và năm, cùng nước nhập khẩu và năm, để đại diện cho "sức cản đa phương", tức là việc thương mại giữa hai nước còn phụ thuộc vào mức độ dễ buôn bán của mỗi nước với mọi nước khác. Sai số chuẩn được gom theo cặp nước, dữ liệu lấy từ cơ sở BACI giai đoạn 2007–2022.
+
+**Kết quả.** Các hệ số cơ sở khớp với tài liệu về dấu và độ lớn. Khi thêm các hệ số tương tác với biến giả "CARICOM là điểm đến", ta thấy các yếu tố tác động khác đi thế nào với vùng này:
+
+| Biến | Hệ số toàn cầu | Hệ số tương tác với CARICOM là điểm đến |
+|---|---|---|
+| Khoảng cách | −0,304\*\*\* | −0,583\*\*\* |
+| Hiệp định thương mại vùng | +0,625\*\*\* | −0,884\*\*\* |
+| Thuế quan song phương | −1,944\* | −9,330\*\*\* |
+| Ngôn ngữ chung | +0,387\*\*\* | +0,365\*\* |
+| Biên giới chung | +0,797\*\*\* | +0,950, không có ý nghĩa |
+| Quan hệ thuộc địa | +0,915\*\*\* | −0,159, không có ý nghĩa |
+
+Cách đọc: với điểm đến CARICOM, hệ số tổng của khoảng cách là −0,304 + (−0,583) = −0,887, tức tác động tiêu cực của khoảng cách mạnh gấp gần ba lần mức trung bình toàn cầu. Thuế quan và ngôn ngữ chung cũng có tác động lớn hơn trong vùng, còn hiệp định thương mại khu vực lại thúc đẩy thương mại ít hơn (hệ số tương tác âm lớn hơn cả hệ số gốc). Quan hệ thuộc địa và biên giới chung không có ý nghĩa thống kê trong phần tương tác.
+
+**Khoảng trống giữa thực tế và dự báo.** So thương mại thực tế với thương mại mà mô hình cơ sở dự báo, CARICOM giao thương với đối tác ngoài vùng ít hơn dự báo và với đối tác trong vùng nhiều hơn dự báo. Khoảng chênh có quy mô khoảng 2,5 tỷ đô la mỗi năm, tương đương khoảng 10% tổng hàng hoá giao thương với đối tác ngoài vùng, và khá ổn định theo thời gian tính theo giá trị danh nghĩa.
+
+**Kiểm chứng nguyên nhân.** Đây là phần thuyết phục nhất. Bài so bốn phiên bản của mô hình:
+
+1. Mô hình cơ sở, không có hệ số tương tác: khoảng trống 2,5 tỷ đô la như trên.
+2. Thêm bộ hệ số tương tác với CARICOM: khoảng trống co lại gần về 0, mô hình khớp với thực tế hơn hẳn.
+3. Như phiên bản thứ hai nhưng bỏ hàng tái xuất khỏi biến phụ thuộc: kết quả còn rõ hơn.
+4. Thêm mọi hệ số tương tác khác nhưng bỏ riêng hệ số tương tác của khoảng cách: kết quả gần như không đổi so với mô hình cơ sở, khoảng trống vẫn còn nguyên.
+
+Kết luận: chính biến khoảng cách, chứ không phải thuế quan hay hiệp định, giải thích phần lớn khoảng trống. Với các đảo Caribe, khoảng cách không chỉ là số kilômét mà là chi phí vận tải cao và kết nối kém.
+
+Bài cũng lưu ý một ràng buộc kỹ thuật: do cấu trúc hiệu ứng cố định của mô hình, phần thương mại dưới hoặc trên dự báo với tất cả đối tác của một nước phải cộng lại bằng không. Vì vậy khung này không trả lời được câu hỏi một nước nói chung có xuất khẩu quá ít hay không, nhưng rất phù hợp để chỉ ra những thị trường đối tác còn tiềm năng chưa khai thác.
 
 ### 4. Du lịch và kết nối hàng không
 
-- Hệ thống hàng không vùng Caribe đặc trưng bởi sân bay quy mô nhỏ, tuyến bay tập trung cao và tính mùa vụ rõ rệt. Hơn tám mươi phần trăm chuyến bay và hành khách từ Hoa Kỳ xuất phát từ mười thành phố lớn nhất, với Miami là cửa ngõ chính. Sau khi kiểm soát thu nhập, độ xa xôi và diện tích, các điểm đến Caribe có kết nối hàng không thấp hơn đáng kể so với các vùng khác.
-- Phân rã tổng năng lực chở khách cho kết quả rất rõ về mặt chính sách: biên ngoại diên, tức số nước có đường bay thẳng và tần suất chuyến bay, chiếm khoảng chín mươi bốn phần trăm biến thiên, trong đó số nước đóng góp khoảng bốn mươi phần trăm và tần suất khoảng năm mươi bốn phần trăm. Kích cỡ máy bay hầu như không giải thích được gì thêm khi đường bay đã được thiết lập.
-- Thách thức kinh tế lượng là tính nội sinh: cả năng lực bay lẫn lượt khách đều có thể phản ứng với các yếu tố hút chung ở điểm đến. Bài dùng biến công cụ kiểu Bartik, khai thác cú sốc nguồn cung ở cấp thị trường xuất phát nhân với tỷ trọng tuyến bay cố định ở năm gốc. Thiết kế này so sánh các cặp nước có mức kết nối lịch sử tương tự nhưng mức độ phơi nhiễm khác nhau trước cú sốc nguồn cung.
-- Kết quả cho độ co giãn khoảng không phẩy năm tới không phẩy sáu, tức tăng mười phần trăm năng lực bay đi kèm với tăng khoảng năm tới sáu phần trăm lượt khách. Kết quả vững với ba định nghĩa khách du lịch khác nhau. Hệ số tương tác CARICOM phần lớn không có ý nghĩa, nghĩa là cơ chế hoạt động tương tự ở CARICOM và các nơi khác.
-- Phân tích bổ sung với dữ liệu tháng riêng cho khu vực ECCU cho độ co giãn khoảng không phẩy hai, thấp hơn mô hình theo năm vì thị trường cần thời gian để điều chỉnh. Khi loại dòng khách nội vùng Caribe, độ co giãn tăng nhẹ, cho thấy kết nối hàng không quan trọng hơn với dòng khách từ ngoài vùng.
+**Đặc điểm hệ thống hàng không.** Theo đánh giá của Ngân hàng Phát triển Liên Mỹ (IDB) năm 2015, hệ thống hàng không vùng Caribe có sân bay quy mô nhỏ, tuyến bay tập trung cao và tính mùa vụ rõ rệt. Hơn 80% chuyến bay và hành khách từ Hoa Kỳ tới vùng xuất phát từ mười thành phố lớn nhất, với Miami là cửa ngõ chính. Sau khi kiểm soát thu nhập, độ xa xôi và diện tích, các điểm đến Caribe có năng lực bay thấp hơn rõ rệt so với các vùng khác: biến giả CARICOM có hệ số −0,340\*\* và −0,248\* ở hai đặc tả.
+
+**Phân rã năng lực chở khách.** Tổng năng lực chở khách tới một điểm đến được tách thành ba thành phần nhân với nhau:
+
+Tổng năng lực = (số nước có đường bay thẳng) × (số chuyến trên mỗi nước) × (số ghế trên mỗi chuyến)
+
+Hai thành phần đầu là biên ngoại diên, thành phần cuối là biên nội hàm. Phần đóng góp của từng thành phần vào biến thiên của tổng năng lực:
+
+| Thành phần | Đóng góp |
+|---|---|
+| Số nước có đường bay thẳng | 0,396, khoảng 40% |
+| Tần suất chuyến bay | 0,538, khoảng 54% |
+| Cộng biên ngoại diên | khoảng 94% |
+| Số ghế trung bình mỗi chuyến (biên nội hàm) | 0,066, khoảng 6% |
+
+Hàm ý chính sách rất rõ: vấn đề là có đường bay hay không và bay bao nhiêu chuyến, không phải máy bay to hay nhỏ. Khi đường bay đã có, kích cỡ máy bay hầu như không giải thích thêm được gì.
+
+**Nhận diện nhân quả.** Thách thức kinh tế lượng là tính nội sinh: năng lực bay và lượt khách có thể cùng phản ứng với những yếu tố hút chung ở điểm đến (ví dụ một khu nghỉ dưỡng mới vừa thu hút khách vừa khiến hãng bay mở thêm chuyến). Bài dùng biến công cụ kiểu Bartik:
+
+Z(i,j,t) = w(i,j,0) × ln[năng lực bay từ nước i tới mọi nơi trừ nước j trong năm t]
+
+trong đó w(i,j,0) là tỷ trọng của tuyến i tới j trong năm gốc, giữ cố định. Ý tưởng là một cú sốc nguồn cung toàn bộ ở nước xuất phát i, như điều chuyển đội bay, gián đoạn sân bay hay cú sốc giá nhiên liệu, sẽ phân bổ lại số ghế theo tỷ trọng tuyến đã có sẵn từ trước. Việc loại chính tuyến j khỏi tổng bảo đảm biến công cụ không phản ánh nhu cầu tại j. Thiết kế này so sánh các cặp nước có mức kết nối lịch sử tương tự nhưng mức phơi nhiễm khác nhau trước cú sốc nguồn cung, nhờ đó tách được tác động của khả năng tiếp cận khỏi tác động của nhu cầu du lịch.
+
+**Kết quả.** Qua sáu mô hình, độ co giãn của lượt khách theo năng lực bay nằm trong khoảng 0,52 – 0,66, có ý nghĩa ở mức p < 0,01. Nói cách khác, tăng 10% năng lực bay đi kèm tăng khoảng 5–6% lượt khách. Kết quả vững với ba định nghĩa khách du lịch khác nhau. Hệ số tương tác CARICOM phần lớn không có ý nghĩa, nghĩa là cơ chế này hoạt động giống nhau ở CARICOM và ở phần còn lại của thế giới; điểm khác của Caribe là mức kết nối thấp, không phải cách kết nối tác động.
+
+**Kiểm chứng bằng dữ liệu tháng cho ECCU.** Với dữ liệu tháng từ tháng 11/2018 tới tháng 12/2024 cho khu vực ECCU, độ co giãn là 0,204\*\*\*. Con số này thấp hơn mô hình theo năm vì trong ngắn hạn, hãng bay và du khách cần thời gian để điều chỉnh. Khi loại dòng khách nội vùng Caribe, độ co giãn tăng nhẹ lên 0,221\*\*\*, cho thấy kết nối hàng không quan trọng hơn với dòng khách từ ngoài vùng.
 
 ### 5. Kết nối tài chính
 
-- Sau khủng hoảng tài chính toàn cầu, việc các ngân hàng quốc tế lớn rút quan hệ ngân hàng đại lý do chiến lược giảm rủi ro và chống rửa tiền đã tác động không cân xứng lên vùng Caribe. Quy mô trung bình các vị thế ngân hàng với CARICOM giảm rõ rệt, và số quan hệ ngân hàng hoạt động đi xuống sau năm 2015, trong khi xu hướng toàn cầu là tăng.
-- Bài dùng cùng thiết kế biến công cụ Bartik, với cú sốc nguồn là khó khăn ở nước chủ nợ và trọng số đóng băng ở năm 2008. Ước lượng toàn cầu cho độ co giãn không phẩy năm tám, tức tăng một phần trăm dòng vốn ngân hàng song phương làm tăng thương mại song phương khoảng không phẩy năm tám phần trăm. Ước lượng biến công cụ lớn hơn ước lượng bình phương nhỏ nhất khoảng ba mươi mốt phần trăm, xác nhận tầm quan trọng của việc xử lý tính đồng thời.
-- Với CARICOM, hệ số tương tác âm và có ý nghĩa mạnh, làm tổng tác động chỉ còn khoảng không phẩy một bốn ba, tức yếu hơn khoảng bảy mươi lăm phần trăm. Kết quả vững khi loại Bahamas và khi loại các nước xuất khẩu dầu. Đáng chú ý, việc loại Bahamas làm hệ số còn thấp hơn nữa, vì Bahamas với khu vực ngân hàng ngoài khơi lớn thực ra bám sát mô hình toàn cầu hơn các nước còn lại.
-- Diễn biến theo thời gian cho thấy tính cấu trúc của vấn đề. Trong những năm khủng hoảng tài chính toàn cầu, độ co giãn ngân hàng và thương mại của CARICOM sụp xuống còn không phẩy không một, tức thực sự bằng không, trong khi mức toàn cầu vẫn giữ ở không phẩy năm. Giai đoạn gần đây độ co giãn của CARICOM hồi phục lên không phẩy hai ba, nhưng vẫn thấp xa mức toàn cầu, vốn đã tăng lên không phẩy chín hai.
-- Bốn lý do cấu trúc được nêu: việc rút quan hệ ngân hàng đại lý sau khủng hoảng, cơ cấu xuất khẩu thiên về hàng hoá cơ bản và dịch vụ vốn ít cần tài trợ thương mại truyền thống, ràng buộc kết nối cùng quy mô kinh tế nhỏ, và khả năng các nước này dựa nhiều hơn vào các cơ chế tài trợ thay thế như trả tiền trước.
-- Kết quả về du lịch còn dứt khoát hơn. Tác động toàn cầu là không phẩy bốn tám sáu, nhưng tác động tổng hợp cho CARICOM là âm không phẩy không bảy sáu, tức thực sự bằng không. Bài giải thích bằng cấu trúc giao dịch du lịch Caribe, vốn đi vòng qua kênh ngân hàng song phương: chi tiêu được trả trước qua trung gian ở nước nguồn và giữ lại bởi hãng bay, công ty lữ hành và chuỗi khách sạn nước ngoài; gói trọn gói và giao dịch tàu biển xử lý qua nhà điều hành quốc tế; chi tiêu tại chỗ chủ yếu bằng tiền mặt hoặc thẻ tín dụng quốc tế quyết toán qua các trung tâm tài chính lớn; và du lịch thăm thân cùng kiều hối ít dựa vào kênh liên ngân hàng chính thức.
+**Bối cảnh.** Sau khủng hoảng tài chính toàn cầu, các ngân hàng quốc tế lớn rút quan hệ ngân hàng đại lý vì chiến lược "giảm rủi ro" và các yêu cầu chống rửa tiền, và vùng Caribe chịu ảnh hưởng nặng nề không cân xứng. Quy mô trung bình các vị thế ngân hàng với CARICOM giảm rõ rệt, và số quan hệ ngân hàng còn hoạt động đi xuống sau năm 2015, trong khi xu hướng toàn cầu là tăng.
+
+**Phương pháp.** Bài dùng cùng thiết kế biến công cụ Bartik, nhưng lần này cú sốc nguồn là khó khăn ở nước chủ nợ (ngân hàng phải tái cấp vốn, nước bị hạ bậc tín nhiệm quốc gia, người gửi tiền rút tiền), và trọng số được đóng băng ở năm 2008. Nhờ đó, thay đổi trong dòng vốn ngân hàng tới một nước được tách khỏi nhu cầu thương mại của chính nước đó.
+
+**Tác động lên thương mại hàng hoá.**
+
+| Ước lượng | Hệ số |
+|---|---|
+| Toàn cầu (biến công cụ) | 0,580\*\*\* |
+| Toàn cầu (bình phương nhỏ nhất thông thường, OLS) | 0,443 |
+| Hệ số tương tác CARICOM | −0,437\*\*\* |
+| Tổng cho CARICOM | 0,580 − 0,437 = 0,143 |
+
+Trên toàn cầu, tăng 1% dòng vốn ngân hàng song phương làm tăng thương mại song phương khoảng 0,58%. Ước lượng biến công cụ lớn hơn ước lượng OLS khoảng 31%, xác nhận rằng việc xử lý tính đồng thời (thương mại và dòng vốn ngân hàng tác động qua lại) là cần thiết. Với CARICOM, tổng tác động chỉ còn 0,143, tức yếu hơn khoảng 75% so với phần còn lại của thế giới.
+
+Kết quả vững khi loại Bahamas và khi loại các nước xuất khẩu dầu. Đáng chú ý, khi loại Bahamas, hệ số tổng cho CARICOM còn thấp hơn nữa, chỉ 0,05. Lý do là Bahamas, với khu vực ngân hàng ngoài khơi lớn, thực ra bám sát mô hình toàn cầu hơn các nước còn lại và kéo hệ số chung lên. Khi loại các nước xuất khẩu dầu, tác động cho CARICOM vào khoảng 65% mức toàn cầu.
+
+**Diễn biến theo thời gian.**
+
+| Giai đoạn | CARICOM | Toàn thế giới |
+|---|---|---|
+| Khủng hoảng tài chính toàn cầu | 0,01, thực sự bằng không | 0,50, giảm từ 0,58 nhưng vẫn đáng kể |
+| 2015–2023 | 0,23, hồi phục nhưng vẫn thấp xa | 0,92, gần như một đổi một |
+
+Khoảng cách giữa CARICOM và thế giới vì vậy mang tính cấu trúc và dai dẳng, không phải hiện tượng tạm thời của thời khủng hoảng.
+
+Bài nêu bốn lý do cấu trúc:
+
+1. Việc các ngân hàng quốc tế rút quan hệ ngân hàng đại lý sau khủng hoảng.
+2. Cơ cấu xuất khẩu thiên về hàng hoá cơ bản và dịch vụ, vốn ít cần tài trợ thương mại truyền thống qua ngân hàng.
+3. Ràng buộc về kết nối vật lý cùng quy mô kinh tế nhỏ.
+4. Khả năng các nước này dựa nhiều hơn vào các cơ chế tài trợ thay thế như trả tiền trước.
+
+**Tác động lên du lịch: kết quả mạnh nhất.**
+
+| Ước lượng | Hệ số |
+|---|---|
+| Toàn cầu | 0,486\*\*\* |
+| Hệ số tương tác CARICOM | −0,563\*\*\* |
+| Tổng cho CARICOM | −0,076, thực sự bằng không |
+
+Nghĩa là trên thế giới, quan hệ ngân hàng song phương mạnh hơn đi kèm nhiều khách du lịch hơn, nhưng ở Caribe thì không có tác động nào. Bài giải thích bằng cấu trúc giao dịch du lịch Caribe, vốn đi vòng qua kênh ngân hàng song phương:
+
+- Phần lớn chi tiêu được trả trước qua trung gian ở nước nguồn và được giữ lại bởi hãng bay, công ty lữ hành và chuỗi khách sạn nước ngoài trước khi tới nước điểm đến.
+- Gói du lịch trọn gói và giao dịch tàu biển được xử lý qua các nhà điều hành quốc tế.
+- Chi tiêu tại chỗ chủ yếu bằng tiền mặt hoặc thẻ tín dụng quốc tế, quyết toán qua các trung tâm tài chính lớn.
+- Du lịch thăm thân và kiều hối ít dựa vào kênh liên ngân hàng chính thức.
+
+**Kết luận tổng:** so với liên kết tài chính, kết nối vật lý đóng vai trò lớn hơn hẳn trong việc định hình cấu trúc thương mại và mức độ dễ tổn thương của vùng Caribe.
 
 ### 6. Khoảng trống dữ liệu và hàm ý chính sách
 
-- Bài thừa nhận một khoảng trống dữ liệu quan trọng: dù ngân hàng làm trung gian cho các công cụ như thư tín dụng và nhờ thu chứng từ, phần lớn tài trợ thương mại diễn ra theo điều khoản trả tiền trước hoặc tài khoản mở, vốn không cần trung gian ngân hàng và không được dữ liệu BIS ghi nhận. Vì thiếu dữ liệu song phương có hệ thống về các dòng này, câu hỏi liệu các cơ chế tài chính thay thế có thay thế được quan hệ liên ngân hàng hay không vẫn chưa có lời đáp.
-- Hàm ý chính sách chung là chính sách tăng cường kết nối tàu biển và hàng không có thể đóng vai trò then chốt trong việc đa dạng hoá đối tác thương mại hàng hoá và dịch vụ. Với hàng không cụ thể, phân rã biên ngoại diên chỉ ra rằng ưu tiên nên là mở thêm đường bay và tăng tần suất, chứ không phải nâng kích cỡ máy bay.
+Bài thừa nhận một khoảng trống dữ liệu quan trọng. Ngân hàng làm trung gian cho các công cụ như thư tín dụng (ngân hàng cam kết trả tiền cho người bán khi có chứng từ giao hàng) và nhờ thu chứng từ, nhưng phần lớn tài trợ thương mại thực tế diễn ra theo điều khoản trả tiền trước hoặc tài khoản mở (người bán giao hàng trước, người mua trả sau). Các hình thức này không cần ngân hàng làm trung gian và không được dữ liệu của Ngân hàng Thanh toán Quốc tế (BIS) ghi nhận. Vì thiếu dữ liệu song phương có hệ thống về các dòng này, câu hỏi liệu các cơ chế tài chính thay thế có bù được cho việc mất quan hệ liên ngân hàng hay không vẫn chưa có lời đáp.
+
+Hàm ý chính sách chung là các chính sách tăng cường kết nối tàu biển và hàng không có thể đóng vai trò then chốt trong việc đa dạng hoá đối tác thương mại hàng hoá và dịch vụ, qua đó giảm mức tập trung và giảm độ nhạy với cú sốc từ một vài đối tác lớn. Riêng với hàng không, phân rã biên ngoại diên chỉ ra rằng ưu tiên nên là mở thêm đường bay thẳng và tăng tần suất chuyến, chứ không phải nâng kích cỡ máy bay.
 
 ## Thuật ngữ
 
