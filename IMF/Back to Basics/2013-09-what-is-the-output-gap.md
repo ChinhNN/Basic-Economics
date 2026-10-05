@@ -92,36 +92,109 @@
 2. Nó liên hệ với lạm phát, thất nghiệp và chính sách ra sao?
 3. Vì sao đo lường khó và nhà hoạch định xử lý thế nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**GDP và chu kỳ kinh doanh (business cycle).** GDP (tổng sản phẩm trong nước) là giá trị toàn bộ hàng hoá và dịch vụ cuối cùng mà một nền kinh tế làm ra trong một thời kỳ. Chu kỳ kinh doanh là những đợt lên xuống của GDP quanh xu hướng dài hạn: có lúc tăng nhanh (bùng nổ), có lúc giảm (suy thoái). Bài lập luận rằng điều quan trọng không chỉ là GDP đang lên hay xuống, mà là nó đang ở trên hay dưới mức tiềm năng.
+
+**Sản lượng tiềm năng (potential output).** Lượng hàng hoá và dịch vụ tối đa nền kinh tế có thể làm ra một cách bền vững khi dùng lao động và máy móc ở mức hiệu quả nhất, tức "hết công suất" theo nghĩa bình thường, không phải mức chạy quá tải. Ví dụ minh hoạ: một nhà máy được thiết kế để chạy hai ca mỗi ngày; sản lượng của hai ca là tiềm năng. Chạy thêm ca ba thì làm được nhiều hơn trong thời gian ngắn, nhưng máy hỏng nhanh và công nhân kiệt sức.
+
+**Chênh lệch sản lượng (output gap).** Hiệu giữa sản lượng thực tế và sản lượng tiềm năng, thường tính bằng phần trăm của tiềm năng. Ví dụ minh hoạ: tiềm năng là 1.000, thực tế là 980, thì chênh lệch là −20, tức −2% (âm); nếu thực tế là 1.015 thì chênh lệch là +1,5% (dương). Đây là khái niệm trung tâm của bài.
+
+**Quá nóng và dư thừa công suất (overheating, slack).** Quá nóng là khi chênh lệch dương: cầu cao đến mức nhà máy và người lao động phải làm vượt mức hiệu quả, và giá bị đẩy lên. Dư thừa công suất ("trùng") là khi chênh lệch âm: có máy móc nằm không và người muốn làm mà không có việc, vì cầu yếu, và giá có xu hướng giảm. Bài nhấn mạnh cả hai tình trạng đều không lý tưởng.
+
+**Áp lực lạm phát.** Xu hướng mức giá chung tăng lên do cầu vượt quá khả năng cung ứng. Ví dụ minh hoạ: khi mọi nhà hàng trong thành phố đều kín bàn và thiếu đầu bếp, chủ nhà hàng vừa tăng giá món ăn vừa phải tăng lương để giữ người. Bài coi chênh lệch sản lượng là thước đo tổng hợp của áp lực này.
+
+**NAIRU và chênh lệch thất nghiệp.** NAIRU (*non-accelerating inflation rate of unemployment*) là tỷ lệ thất nghiệp mà tại đó lạm phát đứng yên, không tăng tốc cũng không giảm. Chênh lệch thất nghiệp là tỷ lệ thất nghiệp thực tế trừ NAIRU. Ví dụ minh hoạ: nếu NAIRU là 5% mà thất nghiệp thực tế là 7%, chênh lệch thất nghiệp là +2 điểm phần trăm, tương ứng với một chênh lệch sản lượng âm. Khái niệm này là phiên bản thị trường lao động của chênh lệch sản lượng.
+
+**Toàn dụng (full employment).** Trạng thái nền kinh tế dùng hết lao động ở mức bền vững, tức thất nghiệp bằng NAIRU; không có nghĩa thất nghiệp bằng không, vì luôn có người đang chuyển việc. Bài nói toàn dụng tương ứng với chênh lệch sản lượng bằng 0, và đây là một mục tiêu của Fed.
+
+**Xu hướng và chu kỳ (trend, cyclical component).** Cách tách một chuỗi số liệu thành hai phần: phần thay đổi chậm, dài hạn (xu hướng) và phần dao động lên xuống quanh nó (chu kỳ). Ví dụ minh hoạ: GDP một năm là 1.030, trong đó xu hướng ước tính là 1.000 thì phần chu kỳ là +30. Mọi phương pháp ước lượng chênh lệch sản lượng đều dựa trên phép tách này: xu hướng được coi là tiềm năng, chu kỳ được coi là chênh lệch.
+
+## Nội dung chi tiết
 
 ### 1. Khái niệm
 
-- Khi suy thoái, sản lượng hàng hoá dịch vụ giảm. Khi thời tốt, sản lượng, thường đo bằng GDP, tăng. Điều nhà kinh tế và nhà hoạch định quan tâm về những thăng trầm này (chu kỳ kinh doanh) là sản lượng hiện tại gần sản lượng tiềm năng dài hạn đến đâu. Tức không chỉ GDP lên hay xuống mà còn trên hay dưới tiềm năng.
-- Chênh lệch sản lượng là thước đo hiệu giữa sản lượng thực tế và sản lượng tiềm năng. Tiềm năng là lượng hàng hoá dịch vụ tối đa nền kinh tế tạo ra khi hiệu quả nhất, tức hết công suất; thường gọi là năng lực sản xuất của nền kinh tế.
-- Như GDP, chênh lệch có thể dương hoặc âm; cả hai đều không lý tưởng. Chênh lệch dương khi thực tế vượt sản lượng hết công suất: cầu rất cao, để đáp ứng, nhà máy và lao động hoạt động vượt xa công suất hiệu quả nhất. Chênh lệch âm khi thực tế thấp hơn mức có thể ở hết công suất: có dư thừa công suất, hay "trùng", do cầu yếu. Chênh lệch cho thấy nền kinh tế đang chạy ở tốc độ kém hiệu quả: làm việc quá sức hoặc dưới sức nguồn lực.
+Trong suy thoái, sản lượng hàng hoá và dịch vụ của nền kinh tế giảm; trong thời kỳ tốt, sản lượng, thường đo bằng GDP, tăng lên. Những đợt thăng trầm này gọi là chu kỳ kinh doanh. Nhưng điều nhà kinh tế và nhà hoạch định chính sách thực sự quan tâm không chỉ là GDP đang lên hay xuống, mà là sản lượng hiện tại **gần sản lượng tiềm năng dài hạn đến đâu**: nó đang ở trên hay ở dưới mức tiềm năng.
+
+**Định nghĩa.** Chênh lệch sản lượng là thước đo hiệu số giữa sản lượng thực tế và sản lượng tiềm năng:
+
+> Chênh lệch sản lượng = sản lượng thực tế − sản lượng tiềm năng
+
+Sản lượng tiềm năng là lượng hàng hoá và dịch vụ tối đa nền kinh tế có thể tạo ra khi hoạt động hiệu quả nhất, tức hết công suất. Nó thường được gọi là năng lực sản xuất của nền kinh tế.
+
+**Dương và âm.** Giống như tăng trưởng GDP, chênh lệch có thể dương hoặc âm, và cả hai đều không lý tưởng:
+
+| | Chênh lệch dương | Chênh lệch âm |
+|---|---|---|
+| Quan hệ | Thực tế lớn hơn tiềm năng | Thực tế nhỏ hơn tiềm năng |
+| Điều gì đang xảy ra | Cầu rất cao; để đáp ứng, nhà máy và người lao động phải hoạt động vượt xa mức hiệu quả nhất | Có dư thừa công suất, hay "trùng", vì cầu yếu |
+| Tác động lên giá | Giá có xu hướng tăng, nền kinh tế "quá nóng" | Giá có xu hướng giảm |
+| Nguồn lực | Bị làm việc quá sức | Bị làm việc dưới sức |
+
+Vì vậy một chênh lệch sản lượng, theo bất kỳ chiều nào, cho thấy nền kinh tế đang chạy ở tốc độ kém hiệu quả: hoặc làm việc quá sức, hoặc dưới sức các nguồn lực của mình.
 
 ### 2. Lạm phát và thất nghiệp
 
-- Nhà hoạch định thường dùng sản lượng tiềm năng để đánh giá lạm phát, định nghĩa là mức sản lượng nhất quán với không có áp lực giá tăng hay giảm. Chênh lệch sản lượng là chỉ báo tổng hợp về thành phần cầu và cung của hoạt động kinh tế, đo mức áp lực lạm phát, và là cầu nối quan trọng giữa phía thực của nền kinh tế (sản xuất hàng hoá dịch vụ) và lạm phát. Các yếu tố khác không đổi, chênh lệch dương kéo dài thì giá bắt đầu tăng do áp lực cầu ở các thị trường then chốt. Ngược lại, thực tế dưới tiềm năng kéo dài thì giá bắt đầu giảm phản ánh cầu yếu.
-- Chênh lệch thất nghiệp là khái niệm liên quan chặt. Cả hai trung tâm với tiền tệ và tài khoá. Tỷ lệ thất nghiệp không làm tăng lạm phát (NAIRU) là tỷ lệ thất nghiệp nhất quán với lạm phát không đổi. Lệch của thất nghiệp khỏi NAIRU gắn với lệch của sản lượng khỏi tiềm năng. Về lý thuyết, nếu nhà hoạch định đưa thất nghiệp thực tế bằng NAIRU, nền kinh tế sản xuất ở mức tối đa không căng nguồn lực: không chênh lệch, không áp lực lạm phát.
-- Chênh lệch sản lượng có thể đóng vai trò trung tâm trong hoạch định. Với nhiều ngân hàng trung ương kể cả Fed, duy trì toàn dụng là mục tiêu. Toàn dụng tương ứng chênh lệch bằng không. Gần như mọi ngân hàng trung ương muốn kiểm soát lạm phát, và chênh lệch là yếu tố quyết định then chốt của áp lực lạm phát.
-- Vì chênh lệch cho thấy nền kinh tế có thể quá nóng hay kém hiệu suất, nó có hàm ý tức thì cho chính sách tiền tệ. Thường trong suy thoái, sản lượng thực tế rơi dưới tiềm năng tạo chênh lệch âm. Điều đó có thể thúc ngân hàng trung ương chọn chính sách kích thích tăng trưởng, ví dụ hạ lãi suất để tăng cầu và ngăn lạm phát rơi dưới mục tiêu. Khi bùng nổ, sản lượng vượt tiềm năng tạo chênh lệch dương, nền kinh tế "quá nóng", áp lực lạm phát tăng, ngân hàng trung ương có thể "làm nguội" bằng tăng lãi suất.
-- Chính phủ cũng có thể dùng tài khoá đóng chênh lệch: tài khoá mở rộng (tăng chi tiêu hay giảm thuế để tăng tổng cầu) đóng chênh lệch âm; khi chênh lệch dương, tài khoá thắt chặt giảm cầu và chống lạm phát qua giảm chi và/hoặc tăng thuế.
-- Một số nhà hoạch định gần đây gợi ý trong nền kinh tế thế giới ngày càng hội nhập, chênh lệch sản lượng toàn cầu có thể ảnh hưởng lạm phát trong nước: kinh tế thế giới bùng nổ có thể tăng tiềm năng áp lực lạm phát trong một nước. Ví dụ cầu toàn cầu mạnh với máy tính nâng giá nhà sản xuất Mỹ có thể tính cho khách nước ngoài; vì mọi nhà sản xuất đối mặt thị trường toàn cầu mạnh hơn, nhà sản xuất Mỹ cũng tính giá cao hơn ở trong nước. "Giả thuyết chênh lệch sản lượng toàn cầu" kêu gọi ngân hàng trung ương theo dõi sát tiềm năng tăng trưởng của phần còn lại thế giới. Nhưng chưa có bằng chứng kết luận; vẫn có thể ngày càng quan trọng nếu các nền kinh tế tiếp tục hội nhập.
+**Chênh lệch sản lượng và lạm phát.** Nhà hoạch định thường dùng sản lượng tiềm năng để đánh giá lạm phát. Theo cách này, sản lượng tiềm năng được định nghĩa là mức sản lượng tương ứng với tình trạng **không có áp lực làm giá tăng hay giảm**. Do đó, chênh lệch sản lượng là một chỉ báo tổng hợp về phía cầu và phía cung của hoạt động kinh tế; nó đo mức áp lực lạm phát, và là cầu nối quan trọng giữa phía thực của nền kinh tế (việc sản xuất hàng hoá và dịch vụ) với lạm phát. Với các yếu tố khác không đổi:
+
+- nếu chênh lệch dương kéo dài, giá bắt đầu tăng, do áp lực cầu ở các thị trường then chốt;
+- nếu sản lượng thực tế nằm dưới tiềm năng trong thời gian dài, giá bắt đầu giảm, phản ánh cầu yếu.
+
+**Chênh lệch thất nghiệp.** Một khái niệm liên quan chặt chẽ là chênh lệch thất nghiệp, và cả hai đều giữ vai trò trung tâm trong chính sách tiền tệ và tài khoá. Tỷ lệ thất nghiệp không làm tăng lạm phát (NAIRU) là tỷ lệ thất nghiệp tương ứng với lạm phát không đổi. Khoảng cách giữa thất nghiệp thực tế và NAIRU đi cùng với khoảng cách giữa sản lượng thực tế và tiềm năng: thất nghiệp cao hơn NAIRU đi cùng sản lượng dưới tiềm năng, và ngược lại. Về lý thuyết, nếu nhà hoạch định đưa được thất nghiệp thực tế về đúng NAIRU, nền kinh tế sẽ sản xuất ở mức tối đa mà không làm căng nguồn lực: không có chênh lệch sản lượng, và không có áp lực lạm phát.
+
+**Vai trò trong hoạch định chính sách.** Chênh lệch sản lượng có thể giữ vai trò trung tâm trong việc hoạch định chính sách vì hai lý do. Thứ nhất, với nhiều ngân hàng trung ương, kể cả Fed, duy trì toàn dụng là một mục tiêu, và toàn dụng tương ứng với chênh lệch sản lượng bằng 0. Thứ hai, gần như mọi ngân hàng trung ương đều muốn kiểm soát lạm phát, và chênh lệch sản lượng là yếu tố then chốt quyết định áp lực lạm phát.
+
+Vì chênh lệch cho biết nền kinh tế đang quá nóng hay hoạt động dưới sức, nó có hàm ý trực tiếp cho chính sách:
+
+| Tình huống | Chính sách tiền tệ | Chính sách tài khoá |
+|---|---|---|
+| Chênh lệch âm (thường xảy ra trong suy thoái) | Kích thích tăng trưởng, ví dụ hạ lãi suất để tăng cầu và ngăn lạm phát rơi xuống dưới mục tiêu | Mở rộng: tăng chi tiêu hoặc giảm thuế để tăng tổng cầu, đóng chênh lệch âm |
+| Chênh lệch dương (thường xảy ra khi bùng nổ, nền kinh tế "quá nóng", áp lực lạm phát tăng) | "Làm nguội" nền kinh tế bằng cách tăng lãi suất | Thắt chặt: giảm chi tiêu và/hoặc tăng thuế để giảm cầu và chống lạm phát |
+
+**Ví dụ hôm nay** (minh hoạ chung, số giả định). Giả sử một nền kinh tế ước tính có chênh lệch sản lượng là −3%: nhiều nhà máy chạy dưới công suất, thất nghiệp cao hơn bình thường, giá gần như không tăng. Ngân hàng trung ương hạ lãi suất để doanh nghiệp vay vốn mở rộng và hộ gia đình vay mua nhà; khi chênh lệch thu hẹp về 0, ngân hàng trung ương dừng nới lỏng. Nếu nó tiếp tục nới đến khi chênh lệch thành +2%, giá sẽ bắt đầu tăng nhanh và ngân hàng trung ương sẽ phải đảo chiều.
+
+**Giả thuyết chênh lệch sản lượng toàn cầu.** Gần đây một số nhà hoạch định gợi ý rằng trong một nền kinh tế thế giới ngày càng hội nhập, chênh lệch sản lượng **toàn cầu** có thể ảnh hưởng tới lạm phát trong nước: khi kinh tế thế giới bùng nổ, áp lực lạm phát trong một nước có thể tăng lên. Bài lấy ví dụ: cầu toàn cầu mạnh đối với máy tính làm tăng mức giá mà nhà sản xuất Mỹ có thể bán cho khách hàng nước ngoài; vì mọi nhà sản xuất đều đối mặt với một thị trường toàn cầu mạnh hơn, nhà sản xuất Mỹ cũng tính giá cao hơn ở thị trường trong nước. "Giả thuyết chênh lệch sản lượng toàn cầu" vì vậy kêu gọi các ngân hàng trung ương theo dõi sát tiềm năng tăng trưởng của phần còn lại của thế giới, chứ không chỉ của nước mình. Tuy nhiên, chưa có bằng chứng kết luận cho giả thuyết này; nó vẫn có thể trở nên ngày càng quan trọng nếu các nền kinh tế tiếp tục hội nhập.
 
 ### 3. Khó đo lường
 
-- Đo chênh lệch không dễ. Khác sản lượng thực tế, mức sản lượng tiềm năng và do đó chênh lệch không quan sát trực tiếp, chỉ ước lượng được.
-- Nhiều phương pháp ước lượng tiềm năng, nhưng tất cả giả định sản lượng chia thành thành phần xu hướng và chu kỳ. Xu hướng được diễn giải là tiềm năng, chu kỳ là chênh lệch. Mẹo ước lượng tiềm năng là ước lượng xu hướng, tức loại thay đổi chu kỳ.
-- Phương pháp phổ biến: kỹ thuật thống kê phân biệt thăng trầm ngắn hạn với xu hướng dài hạn; bộ lọc Hodrick–Prescott là kỹ thuật phổ biến tách ngắn khỏi dài. Phương pháp khác ước lượng hàm sản xuất, phương trình toán tính sản lượng từ đầu vào như lao động, vốn; xu hướng ước lượng bằng loại thay đổi chu kỳ khỏi đầu vào.
-- Mọi ước lượng tiềm năng đều có nhược điểm: dựa trên quan hệ thống kê nên chứa yếu tố ngẫu nhiên. Hơn nữa, ước lượng xu hướng đặc biệt khó ở cuối mẫu, nghĩa là ước lượng bất định nhất chính ở giai đoạn quan tâm nhất: quá khứ gần.
-- Để tránh, một số nhà kinh tế dùng khảo sát nhà sản xuất suy ra mức dư cầu hay cung. Nhưng khảo sát cũng không hoàn hảo: doanh nghiệp hiểu câu hỏi khác nhau, không bảo đảm câu trả lời phản ánh áp lực cầu, và mẫu hạn chế.
-- Dù phương pháp nào, ước lượng chênh lệch chịu bất định đáng kể vì quan hệ nền tảng trong nền kinh tế, tức cấu trúc, thường thay đổi. Ví dụ, khi ra khỏi suy thoái sâu, dư thừa công suất có thể ít hơn dự kiến nhiều vì: lao động thất nghiệp rời thị trường và không hoạt động kinh tế; doanh nghiệp đóng cửa để lại vùng suy kiệt; ngân hàng lỗ trong suy thoái và rất siết cho vay.
+**Không quan sát được, chỉ ước lượng được.** Đo chênh lệch sản lượng không dễ. Khác với sản lượng thực tế, mức sản lượng tiềm năng, và do đó cả chênh lệch, không thể quan sát trực tiếp mà chỉ có thể ước lượng.
+
+**Ý tưởng chung: tách xu hướng khỏi chu kỳ.** Có nhiều phương pháp ước lượng sản lượng tiềm năng, nhưng tất cả đều giả định rằng sản lượng có thể chia thành hai thành phần: **xu hướng** và **chu kỳ**. Thành phần xu hướng được hiểu là sản lượng tiềm năng, còn thành phần chu kỳ được hiểu là chênh lệch sản lượng. Như vậy mẹo để ước lượng tiềm năng là ước lượng xu hướng, tức là loại bỏ những thay đổi mang tính chu kỳ.
+
+**Hai nhóm phương pháp chính:**
+
+| Phương pháp | Cách làm |
+|---|---|
+| Kỹ thuật thống kê | Phân biệt các thăng trầm ngắn hạn với xu hướng dài hạn trong chuỗi số liệu sản lượng. Kỹ thuật phổ biến nhất để tách ngắn hạn khỏi dài hạn là bộ lọc Hodrick–Prescott |
+| Hàm sản xuất | Ước lượng một phương trình toán học tính sản lượng từ các đầu vào như lao động và vốn; xu hướng được ước lượng bằng cách loại bỏ những thay đổi mang tính chu kỳ khỏi các đầu vào đó |
+
+**Nhược điểm.** Mọi ước lượng sản lượng tiềm năng đều có nhược điểm:
+
+- Chúng dựa trên quan hệ thống kê, nên luôn chứa một yếu tố ngẫu nhiên.
+- Ước lượng xu hướng đặc biệt khó ở **cuối mẫu số liệu**. Điều này có nghĩa là ước lượng bất định nhất chính ở giai đoạn mà người ta quan tâm nhất: quá khứ gần. Lý do trực quan: để biết một điểm số liệu gần đây là đỉnh tạm thời hay khởi đầu của một xu hướng mới, cần biết số liệu sau nó, mà số liệu đó chưa có.
+
+**Khảo sát doanh nghiệp.** Để tránh các vấn đề trên, một số nhà kinh tế dùng khảo sát nhà sản xuất để suy ra mức dư cầu hay dư cung. Nhưng khảo sát cũng không hoàn hảo: các doanh nghiệp có thể hiểu câu hỏi khác nhau, không có gì bảo đảm câu trả lời phản ánh đúng áp lực cầu, và mẫu khảo sát thường hạn chế.
+
+**Cấu trúc nền kinh tế thay đổi.** Dù dùng phương pháp nào, ước lượng chênh lệch sản lượng vẫn chịu bất định đáng kể, vì các quan hệ nền tảng trong nền kinh tế, tức cấu trúc của nó, thường thay đổi. Ví dụ, khi một nền kinh tế ra khỏi một cuộc suy thoái sâu, mức dư thừa công suất thực tế có thể ít hơn nhiều so với dự kiến, vì ba lý do:
+
+- người lao động thất nghiệp lâu có thể rời hẳn thị trường lao động và không còn hoạt động kinh tế;
+- doanh nghiệp đóng cửa, để lại những vùng kinh tế suy kiệt;
+- ngân hàng thua lỗ trong suy thoái và siết chặt cho vay rất mạnh.
+
+Cả ba điều này làm sản lượng tiềm năng thấp xuống. Nếu nhà hoạch định vẫn dùng ước lượng tiềm năng cũ, họ sẽ nghĩ chênh lệch âm còn lớn trong khi thực ra nó đã nhỏ, và có thể kích thích quá mức.
 
 ### 4. Để ý chênh lệch
 
-- Vì khó ước lượng tiềm năng và chênh lệch, nhà hoạch định cần nhiều chỉ báo kinh tế khác để đọc chính xác áp lực công suất chung: việc làm, sử dụng công suất, thiếu lao động, giờ làm trung bình và lương giờ trung bình, tăng trưởng tiền và tín dụng, lạm phát so với kỳ vọng.
-- Các thước đo công suất thay thế giúp nhà hoạch định nâng cao đo lường chênh lệch. Dù khó ước lượng, chênh lệch sản lượng đã và sẽ tiếp tục dẫn dắt nhà hoạch định.
+Vì sản lượng tiềm năng và chênh lệch sản lượng khó ước lượng, nhà hoạch định cần dựa thêm vào nhiều chỉ báo kinh tế khác để đánh giá chính xác áp lực công suất chung của nền kinh tế. Bài liệt kê:
+
+- việc làm;
+- mức sử dụng công suất của doanh nghiệp;
+- tình trạng thiếu lao động;
+- số giờ làm trung bình và lương giờ trung bình;
+- tăng trưởng tiền và tín dụng;
+- lạm phát so với kỳ vọng.
+
+Các thước đo công suất thay thế này giúp nhà hoạch định đo chênh lệch tốt hơn. Kết luận của bài: dù khó ước lượng, chênh lệch sản lượng đã và sẽ tiếp tục là kim chỉ nam cho nhà hoạch định chính sách.
 
 ## Thuật ngữ
 

@@ -84,32 +84,126 @@
 2. Vì sao chúng gây vấn đề trong khủng hoảng?
 3. Cơ quan quản lý biết gì và đang làm gì?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Trung gian tín dụng (credit intermediation).** Việc lấy tiền từ người tiết kiệm và chuyển cho người vay. Ngân hàng làm việc này bằng cách nhận tiền gửi rồi cho vay; nhưng một quỹ đầu tư gom tiền của nhiều người để mua giấy nợ doanh nghiệp cũng đang làm đúng việc đó. Theo định nghĩa rộng của FSB trong bài, bất kỳ ai làm trung gian tín dụng ngoài hệ thống ngân hàng được quản lý đều là ngân hàng bóng tối.
+
+**Chuyển đổi kỳ hạn (maturity transformation).** Huy động vốn ngắn hạn để đầu tư vào tài sản dài hạn. Ví dụ minh hoạ: một định chế vay trên thị trường tiền tệ kỳ hạn 1 tháng, cứ hết tháng lại vay mới để trả, trong khi dùng tiền đó mua chứng khoán thế chấp kỳ hạn 30 năm. Nếu một tháng nào đó không ai cho vay tiếp, định chế phải bán tài sản dài hạn gấp. Đây là hoạt động cốt lõi mà Paul McCulley dùng để định nghĩa ngân hàng bóng tối.
+
+**Chuyển đổi thanh khoản (liquidity transformation).** Dùng các khoản nợ mà chủ nợ coi gần như tiền mặt (rút được ngay) để mua tài sản khó bán nhanh, như các khoản cho vay. Ví dụ minh hoạ: người gửi vào quỹ thị trường tiền tệ nghĩ có thể rút tiền bất cứ lúc nào, trong khi quỹ dùng tiền đó mua thương phiếu không dễ bán trong ngày khủng hoảng.
+
+**Đòn bẩy (leverage).** Vay tiền để mua tài sản, làm lãi và lỗ được khuếch đại. Ví dụ minh hoạ: bỏ 10 đồng vốn tự có và vay thêm 90 để mua tài sản 100. Tài sản tăng 5% thì lãi 5 trên 10 đồng vốn, tức 50%; tài sản giảm 10% thì mất 10, tức toàn bộ vốn tự có.
+
+**Chuyển rủi ro tín dụng (credit risk transfer).** Chuyển rủi ro người vay không trả nợ từ người khởi tạo khoản vay sang một bên khác. Ví dụ minh hoạ: ngân hàng cho vay mua nhà rồi bán khoản vay cho một định chế khác đóng gói thành chứng khoán; nếu chủ nhà vỡ nợ, người chịu lỗ là nhà đầu tư nắm chứng khoán chứ không phải ngân hàng gốc.
+
+**Chứng khoán hoá và chứng khoán bảo đảm bằng thế chấp (securitization, mortgage-backed security).** Gom nhiều khoản vay mua nhà thành một gói, rồi phát hành chứng khoán mà tiền lãi và gốc trả cho nhà đầu tư lấy từ tiền chủ nhà trả hằng tháng. Ví dụ minh hoạ: 1.000 khoản vay, mỗi khoản 200.000 USD, được gộp thành gói 200 triệu USD và bán cho nhà đầu tư dưới dạng chứng khoán. Bài dùng "chuỗi chứng khoán hoá" làm ví dụ chính về hoạt động diễn ra trong bóng tối.
+
+**Bán tháo (fire sale).** Bán tài sản gấp với số lượng lớn để có tiền trả nợ, làm giá tài sản đó rơi mạnh. Ví dụ minh hoạ: một chứng khoán bình thường bán được 100, nhưng khi nhiều bên cùng phải bán một lúc thì chỉ còn người mua ở 70. Bán tháo là cơ chế qua đó vấn đề của ngân hàng bóng tối lan sang các định chế khác giữ tài sản tương tự.
+
+**Chọn nơi quản lý yếu nhất (regulatory arbitrage).** Định chế thay đổi cách tổ chức hay nơi đặt hoạt động để rơi vào chỗ quy định lỏng nhất hoặc không có quy định. Ví dụ minh hoạ: một hoạt động cho vay bị yêu cầu vốn cao nếu nằm trong ngân hàng, nên được chuyển sang một công ty con không phải ngân hàng. Bài nêu đây là điều cơ quan quản lý phải tránh khuyến khích khi mở rộng giám sát.
+
+## Nội dung chi tiết
 
 ### 1. Định nghĩa
 
-- Nếu trông như vịt, kêu như vịt, đi như vịt thì là vịt. Nhưng một định chế trông như ngân hàng, hành xử như ngân hàng thì sao? Thường không phải ngân hàng, mà là ngân hàng bóng tối.
-- Ngân hàng bóng tối tượng trưng cho một trong nhiều thất bại của hệ thống tài chính dẫn đến khủng hoảng toàn cầu. Thuật ngữ do nhà kinh tế Paul McCulley đặt trong bài nói 2007 tại hội nghị Jackson Hole của Fed Kansas City. Trong bài nói, ngân hàng bóng tối mang màu sắc Mỹ, chủ yếu chỉ định chế tài chính phi ngân hàng làm chuyển đổi kỳ hạn. Ngân hàng thương mại chuyển đổi kỳ hạn khi dùng tiền gửi thường ngắn hạn tài trợ khoản vay dài hạn. Ngân hàng bóng tối làm tương tự: huy động (chủ yếu vay) vốn ngắn hạn trên thị trường tiền tệ và dùng mua tài sản kỳ hạn dài. Nhưng vì không chịu quản lý ngân hàng truyền thống, họ không thể như ngân hàng vay khẩn cấp từ Fed và không có người gửi truyền thống được bảo hiểm; họ ở "trong bóng tối".
-- Ngân hàng bóng tối thu hút chú ý trước hết vì vai trò ngày càng lớn trong biến thế chấp nhà thành chứng khoán. "Chuỗi chứng khoán hoá" bắt đầu từ khởi tạo khoản thế chấp, rồi được mua bán bởi một hay nhiều thực thể tài chính cho đến khi thành phần của gói khoản vay bảo đảm cho chứng khoán bán cho nhà đầu tư. Giá trị chứng khoán gắn với giá trị khoản vay trong gói, lãi chứng khoán trả từ lãi và gốc chủ nhà trả. Gần như mọi bước từ tạo thế chấp đến bán chứng khoán diễn ra ngoài tầm nhìn trực tiếp của cơ quan quản lý.
-- Hội đồng Ổn định Tài chính (FSB), tổ chức các cơ quan tài chính và giám sát từ các nền kinh tế lớn và định chế tài chính quốc tế, đưa định nghĩa rộng hơn: mọi thực thể ngoài hệ thống ngân hàng được quản lý làm chức năng ngân hàng cốt lõi là trung gian tín dụng (lấy tiền từ người tiết kiệm cho người vay). Bốn khía cạnh then chốt: chuyển đổi kỳ hạn (vốn ngắn hạn đầu tư tài sản dài hạn); chuyển đổi thanh khoản (dùng nợ giống tiền mặt mua tài sản khó bán như khoản vay); đòn bẩy (vay tiền mua tài sản cố định để khuếch đại lãi hay lỗ); chuyển rủi ro tín dụng (chuyển rủi ro vỡ nợ từ người khởi tạo sang bên khác).
-- Theo định nghĩa này, ngân hàng bóng tối gồm môi giới tài trợ tài sản bằng repo (bán chứng khoán lấy tiền, hứa mua lại giá xác định vào ngày xác định). Quỹ tương hỗ thị trường tiền tệ gom tiền nhà đầu tư mua thương phiếu (giấy nợ doanh nghiệp) hay chứng khoán bảo đảm bằng thế chấp cũng là ngân hàng bóng tối. Cả thực thể bán thương phiếu và dùng tiền cho vay hộ gia đình (công ty tài chính ở nhiều nước).
+**Câu hỏi con vịt.** Bài mở bằng câu thành ngữ: nếu một con vật trông như vịt, kêu như vịt và đi như vịt, thì nó là con vịt. Vậy một định chế trông như ngân hàng và hành xử như ngân hàng thì sao? Theo bài, thường thì nó **không phải** ngân hàng, mà là ngân hàng bóng tối.
+
+**Nguồn gốc thuật ngữ.** Ngân hàng bóng tối là một trong nhiều thất bại của hệ thống tài chính dẫn tới khủng hoảng toàn cầu. Thuật ngữ do nhà kinh tế Paul McCulley đặt ra trong bài nói năm 2007 tại hội nghị Jackson Hole do Fed chi nhánh Kansas City tổ chức. Trong bài nói đó, khái niệm này mang màu sắc Mỹ: nó chủ yếu chỉ các định chế tài chính phi ngân hàng làm **chuyển đổi kỳ hạn**.
+
+Để hiểu điều này, hãy so với ngân hàng thương mại. Ngân hàng thương mại chuyển đổi kỳ hạn khi dùng tiền gửi, vốn thường ngắn hạn, để tài trợ các khoản vay dài hạn. Ngân hàng bóng tối làm việc tương tự: huy động vốn ngắn hạn, chủ yếu bằng cách vay trên thị trường tiền tệ, rồi dùng vốn đó mua tài sản kỳ hạn dài. Khác biệt nằm ở chỗ chúng không chịu sự quản lý dành cho ngân hàng truyền thống. Vì vậy, chúng không thể vay khẩn cấp từ Fed như ngân hàng, và cũng không có người gửi tiền truyền thống được bảo hiểm tiền gửi. Chúng nằm "trong bóng tối" theo hai nghĩa: ngoài tầm nhìn của cơ quan quản lý, và ngoài mạng lưới bảo vệ của nhà nước.
+
+**Chuỗi chứng khoán hoá.** Ngân hàng bóng tối thu hút sự chú ý trước hết vì vai trò ngày càng lớn trong việc biến các khoản thế chấp nhà thành chứng khoán. Chuỗi diễn ra như sau:
+
+1. Một khoản vay thế chấp nhà được khởi tạo.
+2. Khoản vay được mua đi bán lại qua một hay nhiều định chế tài chính.
+3. Cuối cùng nó trở thành một phần của một gói khoản vay, dùng làm tài sản bảo đảm cho một loại chứng khoán bán cho nhà đầu tư.
+
+Giá trị của chứng khoán gắn với giá trị các khoản vay trong gói, và tiền lãi trả cho người nắm chứng khoán lấy từ tiền lãi và gốc mà các chủ nhà trả hằng tháng. Điểm then chốt là gần như mọi bước, từ khi tạo khoản thế chấp đến khi bán chứng khoán, đều diễn ra ngoài tầm nhìn trực tiếp của cơ quan quản lý.
+
+**Định nghĩa rộng của FSB.** Hội đồng Ổn định Tài chính (FSB), tổ chức tập hợp các cơ quan tài chính và giám sát của các nền kinh tế lớn cùng các định chế tài chính quốc tế, đưa ra một định nghĩa rộng hơn: ngân hàng bóng tối là **mọi thực thể nằm ngoài hệ thống ngân hàng được quản lý mà làm chức năng cốt lõi của ngân hàng**, tức trung gian tín dụng (lấy tiền từ người tiết kiệm đưa cho người vay). Chức năng này có 4 khía cạnh then chốt:
+
+| Khía cạnh | Nghĩa |
+|---|---|
+| Chuyển đổi kỳ hạn | Dùng vốn ngắn hạn đầu tư vào tài sản dài hạn |
+| Chuyển đổi thanh khoản | Dùng các khoản nợ giống như tiền mặt để mua tài sản khó bán, như các khoản cho vay |
+| Đòn bẩy | Vay tiền để mua tài sản, nhằm khuếch đại lãi hay lỗ |
+| Chuyển rủi ro tín dụng | Chuyển rủi ro vỡ nợ của người vay từ người khởi tạo khoản vay sang một bên khác |
+
+**Ai là ngân hàng bóng tối.** Theo định nghĩa này, ngân hàng bóng tối gồm:
+
+- **Công ty môi giới chứng khoán tài trợ tài sản bằng repo**, tức bán chứng khoán lấy tiền và cam kết mua lại với giá xác định vào ngày xác định. Đây là vay ngắn hạn để nắm giữ tài sản dài hạn.
+- **Quỹ tương hỗ thị trường tiền tệ**, gom tiền của nhà đầu tư để mua thương phiếu (giấy nợ ngắn hạn của doanh nghiệp) hoặc chứng khoán bảo đảm bằng thế chấp (MBS).
+- **Công ty tài chính** ở nhiều nước, bán thương phiếu để lấy tiền rồi cho hộ gia đình vay.
 
 ### 2. Vì sao có vấn đề
 
-- Chừng nào nhà đầu tư hiểu chuyện gì đang xảy ra và hoạt động không gây rủi ro quá mức cho hệ thống, không có gì mờ ám trong huy động vốn từ nhà đầu tư có thể muốn rút trong thời gian ngắn và đầu tư vào tài sản dài hạn. Vấn đề nảy sinh trong khủng hoảng khi nhà đầu tư nghi ngờ tài sản dài hạn thực sự đáng giá bao nhiêu và nhiều người quyết rút cùng lúc. Để trả, ngân hàng bóng tối phải bán tài sản. "Bán tháo" thường giảm giá trị tài sản, buộc thực thể ngân hàng bóng tối khác (và một số ngân hàng) có tài sản tương tự hạ giá trị trên sổ theo giá thị trường thấp hơn, tạo thêm bất định về sức khoẻ. Đỉnh khủng hoảng, nhiều nhà đầu tư rút hoặc không tái đầu tư đến mức nhiều định chế, ngân hàng và phi ngân hàng, gặp khó nghiêm trọng.
-- Nếu diễn ra ngoài hệ thống ngân hàng, có thể cô lập và đóng cửa trật tự. Nhưng ngân hàng thật cũng bị kẹt trong bóng tối. Một số ngân hàng bóng tối do ngân hàng thương mại kiểm soát và vì danh tiếng được ngân hàng mẹ mạnh hơn cứu. Trường hợp khác quan hệ xa hơn, nhưng vì ngân hàng bóng tối phải rút khỏi thị trường khác, gồm thị trường ngân hàng bán thương phiếu và nợ ngắn hạn, nguồn vốn của ngân hàng cũng bị nghẽn. Vì quá thiếu minh bạch, thường không rõ ai nợ (hay sẽ nợ) ai.
-- Tóm lại, thực thể ngân hàng bóng tối đặc trưng bởi: thiếu công bố và thông tin về giá trị tài sản (đôi khi cả tài sản là gì); cấu trúc quản trị và sở hữu mờ giữa ngân hàng và ngân hàng bóng tối; ít giám sát kiểu ngân hàng truyền thống; gần như không có vốn hấp thụ lỗ hay tiền mặt cho rút vốn; thiếu tiếp cận hỗ trợ thanh khoản chính thức để ngăn bán tháo.
+**Bản thân hoạt động không mờ ám.** Bài nhấn mạnh rằng việc huy động vốn từ những nhà đầu tư có thể muốn rút tiền trong thời gian ngắn để đầu tư vào tài sản dài hạn không có gì sai, chừng nào nhà đầu tư hiểu chuyện gì đang diễn ra và hoạt động đó không gây rủi ro quá mức cho hệ thống.
+
+**Cơ chế của khủng hoảng.** Vấn đề nảy sinh khi khủng hoảng xảy ra. Chuỗi diễn biến như sau:
+
+1. Nhà đầu tư bắt đầu nghi ngờ các tài sản dài hạn thực sự đáng giá bao nhiêu.
+2. Nhiều người quyết định rút vốn cùng lúc.
+3. Để có tiền trả, ngân hàng bóng tối phải bán tài sản.
+4. "Bán tháo" thường làm giá tài sản giảm.
+5. Các thực thể ngân hàng bóng tối khác, và một số ngân hàng, đang nắm tài sản tương tự buộc phải hạ giá trị trên sổ sách theo giá thị trường thấp hơn.
+6. Điều này tạo thêm bất định về sức khoẻ của tất cả các bên, khiến nhà đầu tư càng muốn rút.
+
+Ở đỉnh khủng hoảng, nhiều nhà đầu tư rút tiền hoặc không tái đầu tư khi khoản đầu tư đáo hạn, đến mức nhiều định chế, cả ngân hàng lẫn phi ngân hàng, gặp khó khăn nghiêm trọng.
+
+**Ngân hàng thật bị kéo vào.** Nếu tất cả diễn ra hoàn toàn bên ngoài hệ thống ngân hàng, các định chế gặp nạn có thể được cô lập và đóng cửa một cách trật tự. Nhưng ngân hàng thật cũng bị kẹt trong bóng tối, theo hai cách:
+
+- **Quan hệ trực tiếp.** Một số ngân hàng bóng tối do ngân hàng thương mại kiểm soát. Khi chúng gặp nạn, ngân hàng mẹ mạnh hơn phải cứu vì lý do danh tiếng.
+- **Quan hệ gián tiếp.** Ở các trường hợp khác, quan hệ xa hơn, nhưng vì ngân hàng bóng tối phải rút khỏi các thị trường khác, kể cả thị trường nơi ngân hàng bán thương phiếu và nợ ngắn hạn để huy động vốn, nguồn vốn của chính ngân hàng cũng bị nghẽn.
+
+Thêm vào đó, vì hệ thống quá thiếu minh bạch, thường không ai biết rõ ai đang nợ, hoặc sẽ nợ, ai.
+
+**Đặc trưng của ngân hàng bóng tối.** Tóm lại, bài liệt kê năm đặc điểm khiến các thực thể này nguy hiểm:
+
+- thiếu công bố thông tin về giá trị tài sản, đôi khi không công bố cả tài sản đó là gì;
+- cấu trúc quản trị và sở hữu không rõ ràng giữa ngân hàng và ngân hàng bóng tối;
+- ít chịu sự giám sát kiểu ngân hàng truyền thống;
+- gần như không có vốn để hấp thụ lỗ, cũng không có tiền mặt để đáp ứng khi bị rút vốn;
+- không được tiếp cận hỗ trợ thanh khoản chính thức (như vay khẩn cấp từ ngân hàng trung ương) để ngăn bán tháo.
+
+So với ngân hàng thật, đây chính là những lớp bảo vệ bị thiếu: ngân hàng phải công bố thông tin, bị giám sát, giữ vốn, và có bảo hiểm tiền gửi cùng cửa sổ vay khẩn cấp.
 
 ### 3. Vấn đề còn tiếp diễn
 
-- Bóng tối đáng sợ vì che khuất hình dạng và kích thước vật bên trong. Ước tính quy mô hệ thống ngân hàng bóng tối đặc biệt khó vì nhiều thực thể không báo cáo cơ quan quản lý. Hệ thống có vẻ lớn nhất ở Mỹ, nhưng trung gian tín dụng phi ngân hàng có ở nước khác và đang tăng. Tháng 5/2010, Fed bắt đầu thu thập và công bố dữ liệu về phần hệ thống ngân hàng bóng tối làm một số loại repo. Năm 2012, FSB làm đợt giám sát "toàn cầu" thứ hai xét mọi trung gian tín dụng phi ngân hàng ở 25 nước và khu vực euro, theo uỷ nhiệm của G20. Kết quả thô vì dùng hạng mục gom "định chế tài chính khác", nhưng cho thấy hệ thống Mỹ vẫn lớn nhất dù giảm từ 44% xuống 35% tổng mẫu. Toàn cầu đạt đỉnh 62 nghìn tỷ USD năm 2007, giảm xuống 59 nghìn tỷ trong khủng hoảng, hồi lên 67 nghìn tỷ cuối 2011. Tỷ trọng trong tổng trung gian tài chính khoảng 25% giai đoạn 2009–11, giảm từ 27% năm 2007.
-- Nhưng đợt FSB, dựa trên đo lường vốn từ đâu đến và đi đâu, không đo rủi ro ngân hàng bóng tối gây cho hệ thống. Không đo lượng nợ dùng mua tài sản (đòn bẩy), mức hệ thống khuếch đại vấn đề, hay kênh vấn đề lan từ khu vực này sang khu vực khác. Có kế hoạch kết hợp "lập bản đồ vĩ mô" ban đầu với thông tin từ báo cáo quản lý, giám sát và thông tin thị trường về xu hướng, công cụ, liên kết mới. FSB dự định dùng điều học được về ngân hàng bóng tối gắn với bốn hoạt động (chuyển đổi kỳ hạn và thanh khoản, chuyển rủi ro tín dụng, đòn bẩy) để lập "bản đồ rủi ro hệ thống" xác định hoạt động nào, nếu có, gây rủi ro hệ thống.
-- Khảo sát FSB đầu tiên gợi ý hoạt động ngân hàng bóng tối nội địa không đáng kể ở hầu hết nước, dù chưa tính hoạt động xuyên biên giới, cũng chưa cho thấy các hoạt động nối với nhau thế nào qua các loại thực thể. Ví dụ, công ty tài chính ở một số nước có vẻ đang mở rộng tầm với và vai trò trung gian tín dụng. Rủi ro thật và tầm quan trọng hệ thống chưa xác định.
+**Đo quy mô rất khó.** Bóng tối đáng sợ vì nó che hình dạng và kích thước của thứ nằm bên trong. Ước tính quy mô hệ thống ngân hàng bóng tối đặc biệt khó vì nhiều thực thể không báo cáo cho cơ quan quản lý. Hệ thống có vẻ lớn nhất ở Mỹ, nhưng hoạt động trung gian tín dụng phi ngân hàng cũng có ở các nước khác và đang tăng. Một số nỗ lực đo lường:
+
+- Tháng 5/2010, Fed bắt đầu thu thập và công bố dữ liệu về phần hệ thống ngân hàng bóng tối thực hiện một số loại repo.
+- Năm 2012, theo uỷ nhiệm của nhóm G20, FSB thực hiện đợt giám sát "toàn cầu" thứ hai, xem xét mọi hoạt động trung gian tín dụng phi ngân hàng ở 25 nước và khu vực đồng euro.
+
+Kết quả của FSB còn thô, vì dựa trên một hạng mục gộp gọi là "các định chế tài chính khác", nhưng cho thấy:
+
+| Chỉ tiêu | Số liệu |
+|---|---|
+| Tỷ trọng của Mỹ trong tổng mẫu | Vẫn lớn nhất, nhưng giảm từ 44% xuống 35% |
+| Quy mô toàn cầu | Đỉnh 62 nghìn tỷ USD năm 2007; giảm xuống 59 nghìn tỷ USD trong khủng hoảng; hồi lên 67 nghìn tỷ USD cuối năm 2011 |
+| Tỷ trọng trong tổng trung gian tài chính | Khoảng 25% giai đoạn 2009–11, giảm từ 27% năm 2007 |
+
+Tức là sau một thời gian co lại trong khủng hoảng, hệ thống ngân hàng bóng tối toàn cầu đã lớn hơn cả mức đỉnh trước khủng hoảng, dù tỷ trọng trong toàn bộ hệ thống tài chính giảm nhẹ.
+
+**Đo quy mô chưa phải đo rủi ro.** Đợt giám sát của FSB dựa trên việc theo dõi vốn đến từ đâu và đi đâu, nên nó không đo được rủi ro mà ngân hàng bóng tối gây ra cho hệ thống. Cụ thể, nó không đo được:
+
+- lượng nợ được dùng để mua tài sản, tức đòn bẩy;
+- mức độ hệ thống khuếch đại các vấn đề;
+- các kênh qua đó vấn đề lan từ khu vực này sang khu vực khác.
+
+FSB có kế hoạch kết hợp bước "lập bản đồ vĩ mô" ban đầu này với thông tin từ báo cáo quản lý, hoạt động giám sát và thông tin thị trường về các xu hướng, công cụ và mối liên kết mới. FSB dự định dùng những gì học được về ngân hàng bóng tối, gắn với bốn hoạt động nêu ở mục 1 (chuyển đổi kỳ hạn, chuyển đổi thanh khoản, chuyển rủi ro tín dụng, đòn bẩy), để lập một **"bản đồ rủi ro hệ thống"**, xác định hoạt động nào, nếu có, gây rủi ro cho cả hệ thống.
+
+**Kết quả ban đầu còn chưa đủ.** Khảo sát đầu tiên của FSB gợi ý rằng ở hầu hết các nước, hoạt động ngân hàng bóng tối trong nước không đáng kể. Nhưng khảo sát này chưa tính các hoạt động xuyên biên giới, và cũng chưa cho thấy các hoạt động nối với nhau thế nào qua các loại thực thể. Ví dụ, công ty tài chính ở một số nước có vẻ đang mở rộng phạm vi hoạt động và vai trò trung gian tín dụng. Rủi ro thật và tầm quan trọng mang tính hệ thống của những hoạt động này vẫn chưa xác định được.
 
 ### 4. Cơ quan quản lý vào cuộc
 
-- Khu vực chính thức đang thu thập thông tin nhiều và tốt hơn, tìm điểm yếu ẩn. Cơ quan giám sát ngân hàng cũng xét mức phơi nhiễm của ngân hàng truyền thống với ngân hàng bóng tối và tìm cách hạn chế qua quy định vốn và thanh khoản, vì mức phơi nhiễm này cho phép ngân hàng bóng tối ảnh hưởng khu vực tài chính truyền thống và cả nền kinh tế. Vì nhiều thực thể ngân hàng bóng tối được quản lý nhẹ hoặc ngoài tầm cơ quan quản lý, các cơ quan đang cân nhắc mở rộng phạm vi báo cáo và quản lý cả thực thể lẫn thị trường họ dùng. Và bảo đảm mọi thực thể hay hoạt động ngân hàng bóng tối tiềm năng được giám sát theo cách không khuyến khích họ điều chỉnh hành vi để rơi vào tầm cơ quan quản lý yếu nhất (hoặc không có), trong nước hay toàn cầu.
-- Cơ quan quản lý đang tiến bộ, nhưng chính họ cũng làm việc trong bóng tối: cố ghép dữ liệu rời rạc, thiếu để xem rủi ro hệ thống nào, nếu có, gắn với các hoạt động, thực thể và công cụ tạo nên hệ thống ngân hàng bóng tối.
+Khu vực công đang hành động theo nhiều hướng:
+
+- **Thu thập thông tin nhiều hơn và tốt hơn**, để tìm ra các điểm yếu còn ẩn.
+- **Hạn chế mức phơi nhiễm của ngân hàng truyền thống với ngân hàng bóng tối.** Cơ quan giám sát ngân hàng xem xét ngân hàng đang có bao nhiêu quan hệ với ngân hàng bóng tối và tìm cách giới hạn chúng qua quy định về vốn và thanh khoản. Lý do: chính những quan hệ này là kênh để ngân hàng bóng tối tác động lên khu vực tài chính truyền thống và cả nền kinh tế.
+- **Mở rộng phạm vi báo cáo và quản lý.** Vì nhiều thực thể ngân hàng bóng tối chỉ bị quản lý nhẹ hoặc nằm ngoài tầm cơ quan quản lý, các cơ quan đang cân nhắc mở rộng phạm vi báo cáo và quản lý, áp dụng cho cả bản thân các thực thể lẫn các thị trường mà chúng sử dụng.
+- **Tránh khuyến khích chọn nơi quản lý yếu nhất.** Mọi thực thể hay hoạt động có thể là ngân hàng bóng tối cần được giám sát theo cách không khiến chúng điều chỉnh hành vi để rơi vào tầm của cơ quan quản lý yếu nhất, hoặc vào chỗ không có cơ quan nào quản lý, dù trong nước hay trên phạm vi toàn cầu.
+
+Bài kết thúc bằng một nhận xét: cơ quan quản lý đang tiến bộ, nhưng chính họ cũng đang làm việc trong bóng tối. Họ phải cố ghép những mảnh dữ liệu rời rạc và thiếu hụt để hình dung rủi ro hệ thống nào, nếu có, gắn với các hoạt động, thực thể và công cụ tạo nên hệ thống ngân hàng bóng tối.
 
 ## Thuật ngữ
 
