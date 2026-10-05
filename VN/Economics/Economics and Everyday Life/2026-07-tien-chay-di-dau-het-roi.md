@@ -57,52 +57,98 @@
 2. Vòng quay của đồng tiền là gì và vì sao nó quan trọng không kém lượng tiền?
 3. Khi lãi suất cao, tiền đi đâu, qua những con đường nào?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tiền tín dụng (credit money).** Phần tiền gửi được tạo ra trên sổ sách ngân hàng mỗi khi ngân hàng cho vay. Khi ngân hàng duyệt một khoản vay, nó ghi thêm một số dư vào tài khoản của người vay; số dư đó là tiền mới, không cần ai in thêm tờ tiền nào. Ví dụ trong bài: từ 100 triệu đồng gửi ban đầu, sau ba vòng cho vay hệ thống ngân hàng tạo thêm khoảng 218 triệu tiền tín dụng. Điều quan trọng nhất của khái niệm này là chiều ngược lại: khi khoản vay được trả hết, số tiền đó bị xoá khỏi hệ thống.
+
+**Quỹ dự trữ (reserves).** Phần tiền gửi mà ngân hàng giữ lại, không cho vay, để chi trả khi khách rút tiền. Ví dụ trong bài: ngân hàng giữ 15% làm dự trữ, cho vay 85%; với 100 triệu gửi vào thì giữ 15 triệu, cho vay 85 triệu. Tỷ lệ dự trữ quyết định mỗi vòng cho vay tạo thêm được bao nhiêu tiền.
+
+**Tạo tiền qua cho vay (money creation).** Quá trình lặp đi lặp lại: gửi tiền, ngân hàng cho vay một phần, người vay tiêu, người bán gửi lại vào ngân hàng, ngân hàng lại cho vay. Mỗi vòng làm tổng tiền gửi trên sổ sách tăng lên. Ví dụ trong bài: 100 + 85 + 72 + 61 ≈ 318 triệu tiền gửi sau ba vòng. Đây là "cỗ máy thứ nhất" của bài.
+
+**Vòng quay của đồng tiền (velocity of money).** Số lần một đồng tiền được chuyển từ tay người này sang tay người khác trong một khoảng thời gian. Ví dụ trong bài: 1 triệu đồng qua 5 lần chuyển tay tạo ra 5 triệu đồng giá trị giao dịch, tức đồng tiền quay 5 vòng. Khái niệm này là "cỗ máy thứ hai": cùng một lượng tiền, quay nhanh thì nền kinh tế nhộn nhịp, quay chậm thì ảm đạm.
+
+**Lãi suất.** Giá của việc vay tiền, và cũng là phần thưởng cho việc gửi tiền. Lãi suất thấp khiến vay rẻ và gửi tiết kiệm kém hấp dẫn; lãi suất cao thì ngược lại. Ví dụ minh hoạ: vay 1 tỷ đồng với lãi 7%/năm tốn 70 triệu tiền lãi mỗi năm, với lãi 12%/năm tốn 120 triệu. Trong bài, lãi suất là cần gạt điều khiển tốc độ của cả hai cỗ máy.
+
+**Thanh khoản (liquidity).** Mức độ dồi dào của tiền trong hệ thống ngân hàng và trên thị trường. Thanh khoản dồi dào là khi ai cũng dễ vay, dễ bán tài sản, giao dịch nhộn nhịp. Đây chính là cảm giác "tiền ở khắp mọi nơi" hay "không ai có tiền" mà bài muốn giải thích.
+
+**Thị trường mở (open market operations).** Kênh mà Ngân hàng Nhà nước mua hoặc bán giấy tờ có giá với các ngân hàng thương mại để bơm tiền vào hoặc hút tiền ra khỏi hệ thống. Ví dụ minh hoạ: Ngân hàng Nhà nước bán tín phiếu cho một ngân hàng, ngân hàng đó trả tiền, và số tiền ấy rời khỏi lưu thông cho tới khi tín phiếu đáo hạn. Bài nêu đây là con đường thứ năm khiến tiền rút khỏi dòng chảy.
+
+**Tài sản không sinh dòng tiền.** Tài sản giữ giá trị nhưng không tạo ra thu nhập hay giao dịch mới, như vàng cất trong két. Bài dùng khái niệm này để giải thích vì sao tiền vẫn còn đó nhưng không tham gia vào vòng quay.
+
+## Nội dung chi tiết
 
 ### 1. Câu hỏi mở đầu
-- Có giai đoạn tiền "ở khắp mọi nơi": doanh nghiệp mở dự án mới, mở rộng kinh doanh; bất động sản và chứng khoán giao dịch nhộn nhịp; người dân đầu tư, mua sắm rộn ràng.
-- Có lúc như hiện nay, tháng 7/2026, mọi thứ như đứng lại: giao dịch ảm đạm, ai cũng kêu khó, ai cũng hỏi "Tiền chạy đi đâu hết rồi?".
-- Để trả lời cần hiểu hai cỗ máy: tín dụng ngân hàng và vòng quay của đồng tiền.
+
+Bài bắt đầu từ hai cảm giác đối lập mà người tham gia thị trường đều quen. Có giai đoạn tiền như "ở khắp mọi nơi": doanh nghiệp mở dự án mới và mở rộng kinh doanh, bất động sản và chứng khoán giao dịch nhộn nhịp, người dân đầu tư và mua sắm rộn ràng. Lại có giai đoạn, như thời điểm bài viết (tháng 7/2026), mọi thứ như đứng lại: giao dịch ảm đạm, ai cũng kêu khó, và ai cũng hỏi "Tiền chạy đi đâu hết rồi?".
+
+Theo tác giả, muốn trả lời câu hỏi đó phải hiểu hai "cỗ máy" quyết định lượng tiền thực sự chảy trong nền kinh tế: tín dụng ngân hàng và vòng quay của đồng tiền.
 
 ### 2. Cỗ máy thứ nhất: ngân hàng tạo ra tiền bằng cách cho vay
-- Nhiều người nghĩ mọi đồng tiền đều do Ngân hàng Nhà nước in ra; điều đó chỉ đúng một phần.
-- Tiền mặt lưu thông gần như không đổi; Nhà nước in thêm chủ yếu để thay tiền cũ rách và phục vụ nhu cầu thanh toán dịp cao điểm như Tết.
-- Phần lớn tiền trong nền kinh tế do ngân hàng thương mại tạo ra khi cho vay.
-- Ví dụ của bài:
-  - Bạn gửi 100 triệu đồng. Ngân hàng giữ 15% làm quỹ dự trữ, cho vay 85% = 85 triệu.
-  - Người vay dùng 85 triệu mua hàng; người bán gửi 85 triệu vào ngân hàng khác. Ngân hàng này cho vay 85% của 85 triệu ≈ 72 triệu (chính xác 72,25 triệu).
-  - 72 triệu được tiêu dùng, thanh toán, gửi lại ngân hàng; ngân hàng cho vay 85% của 72 triệu ≈ 61 triệu (chính xác 61,41 triệu).
-  - Sau ba vòng, sổ sách các ngân hàng ghi nhận khoảng 318 triệu tiền gửi (100 + 85 + 72,25 + 61,41 = 318,66), trong đó khoảng 218 triệu là tiền tín dụng tạo ra từ cho vay (85 + 72,25 + 61,41 = 218,66).
-  - Từ 100 triệu ban đầu, hệ thống tạo thêm khoảng 218 triệu tiền tín dụng mà không cần in tờ tiền nào; bài nói đây là cách toàn bộ hệ thống ngân hàng thế giới hoạt động.
-- Điểm cần nhớ: tiền tín dụng sinh ra khi ngân hàng cho vay thì cũng biến mất khi khoản vay được trả hết.
+
+**Quan niệm phổ biến chỉ đúng một phần.** Nhiều người nghĩ mọi đồng tiền đều do Ngân hàng Nhà nước in ra. Bài chỉ ra rằng lượng tiền mặt lưu thông gần như không đổi; Nhà nước in thêm tiền chủ yếu để thay tiền cũ rách và để phục vụ nhu cầu thanh toán dịp cao điểm như Tết. Phần lớn tiền trong nền kinh tế lại do các ngân hàng thương mại tạo ra khi cho vay.
+
+**Ví dụ ba vòng cho vay.** Bài giả định mỗi ngân hàng giữ 15% tiền gửi làm quỹ dự trữ và cho vay 85% còn lại:
+
+| Vòng | Diễn biến | Tiền gửi mới | Tiền cho vay ra |
+|---|---|---|---|
+| Ban đầu | Bạn gửi 100 triệu đồng vào ngân hàng A; A giữ 15 triệu, cho vay 85 triệu | 100 triệu | 85 triệu |
+| Vòng 2 | Người vay dùng 85 triệu mua hàng; người bán gửi số tiền này vào ngân hàng B; B cho vay 85% của 85 triệu | 85 triệu | khoảng 72 triệu (chính xác 72,25 triệu) |
+| Vòng 3 | 72 triệu được tiêu dùng, thanh toán rồi gửi lại ngân hàng C; C cho vay 85% của 72 triệu | khoảng 72 triệu | khoảng 61 triệu (chính xác 61,41 triệu) |
+
+Cộng lại sau ba vòng:
+
+- Tổng tiền gửi trên sổ sách các ngân hàng: 100 + 85 + 72,25 + 61,41 = 318,66, tức khoảng 318 triệu đồng.
+- Trong đó tiền tín dụng do cho vay tạo ra: 85 + 72,25 + 61,41 = 218,66, tức khoảng 218 triệu đồng.
+
+Như vậy từ 100 triệu ban đầu, hệ thống tạo thêm khoảng 218 triệu tiền tín dụng mà không cần in thêm tờ tiền nào. Bài nói đây là cách toàn bộ hệ thống ngân hàng trên thế giới vận hành.
+
+**Điểm cần nhớ.** Tiền tín dụng sinh ra khi ngân hàng cho vay thì cũng biến mất khi khoản vay được trả hết. Đây là chìa khoá để hiểu phần sau: khi người ta trả nợ nhiều hơn vay mới, lượng tiền trong nền kinh tế thực sự co lại.
 
 ### 3. Cỗ máy thứ hai: vòng quay của đồng tiền
-- Một đồng tiền không chỉ giao dịch một lần mà nhiều lần.
-- Ví dụ: bạn dùng 1 triệu mua hàng → người bán trả cho tài xế → tài xế đổ xăng → chủ cây xăng tối đó đi ăn nhà hàng → chủ nhà hàng trả cho người giao thực phẩm.
-- 1 triệu ban đầu qua 5 lần chuyển tay tạo ra 5 triệu giá trị giao dịch, tức đồng tiền quay 5 vòng.
-- Nền kinh tế "không sống bằng chuyện có bao nhiêu tiền mà sống bằng chuyện đồng tiền đó quay nhanh hay chậm".
+
+Một đồng tiền không chỉ được dùng một lần mà được chuyển tay nhiều lần. Bài lấy ví dụ một chuỗi chi tiêu:
+
+1. Bạn dùng 1 triệu đồng mua hàng.
+2. Người bán dùng số tiền đó trả công cho tài xế.
+3. Tài xế đổ xăng.
+4. Chủ cây xăng tối đó đi ăn nhà hàng.
+5. Chủ nhà hàng trả tiền cho người giao thực phẩm.
+
+Qua 5 lần chuyển tay, 1 triệu đồng ban đầu đã tạo ra 5 triệu đồng giá trị giao dịch, tức đồng tiền quay 5 vòng. Nếu chuỗi dừng sau lần thứ hai vì tài xế cất tiền đi, cùng 1 triệu chỉ tạo ra 2 triệu giao dịch. Từ đó bài rút ra câu nói trung tâm: nền kinh tế "không sống bằng chuyện có bao nhiêu tiền mà sống bằng chuyện đồng tiền đó quay nhanh hay chậm".
 
 ### 4. Khi lãi suất thấp: cả hai cỗ máy chạy hết công suất
-- Vay rẻ nên người ta vay nhiều hơn để kinh doanh, đầu tư; ngân hàng cho vay càng nhiều càng tạo nhiều tiền tín dụng.
-- Gửi tiết kiệm kém hấp dẫn nên tiền không nằm yên trong ngân hàng mà chạy vào sản xuất, kinh doanh, chứng khoán, bất động sản.
-- Dòng tiền được tiêu dùng, luân chuyển liên tục nên vòng quay tăng rất nhanh.
-- Hai cỗ máy tự tăng tốc lẫn nhau, đó là lúc thị trường "ngập tràn tiền".
+
+Lãi suất thấp tác động lên cả hai cỗ máy cùng lúc:
+
+- **Cỗ máy tín dụng tăng tốc.** Vay rẻ nên người ta vay nhiều hơn để kinh doanh, đầu tư. Ngân hàng cho vay càng nhiều thì càng tạo ra nhiều tiền tín dụng.
+- **Tiền không nằm yên.** Gửi tiết kiệm kém hấp dẫn, nên tiền không ở lại ngân hàng mà chạy vào sản xuất, kinh doanh, chứng khoán, bất động sản.
+- **Cỗ máy vòng quay tăng tốc.** Dòng tiền được tiêu dùng và luân chuyển liên tục, nên vòng quay tăng rất nhanh.
+
+Hai cỗ máy còn tự đẩy nhau: tiền tín dụng mới được tiêu ngay thì quay nhanh; tiền quay nhanh làm kinh doanh tốt, doanh nghiệp lại muốn vay thêm. Đó là lúc thị trường có cảm giác "ngập tràn tiền".
 
 ### 5. Khi lãi suất cao: năm con đường tiền chậm lại hoặc rút khỏi dòng chảy
-- Lãi suất tăng cao thì mọi thứ đảo chiều; tiền không bốc hơi mà chậm lại hoặc rút khỏi dòng chảy.
-- Thứ nhất, tiền nằm yên trong sổ tiết kiệm: lãi cao và an toàn nên người gửi không mang tiền đi mạo hiểm; tiền không tiếp tục lưu thông.
-- Thứ hai, tiền đi trả nợ: mỗi đồng trả nợ là một đồng tiền tín dụng bị xoá khỏi hệ thống; tiền không chuyển sang tay ai mà thực sự biến mất khỏi hệ thống tín dụng.
-- Thứ ba, tiền chạy vào tài sản không sinh dòng tiền: ví dụ mua vàng cất két; tiền vẫn còn đó nhưng nằm yên, không tạo giao dịch mới.
-- Thứ tư, tâm lý phòng thủ: người dân bớt chi tiêu, doanh nghiệp ngừng đầu tư, ai cũng giữ tiền; vòng quay chậm hẳn.
-- Thứ năm, Ngân hàng Nhà nước chủ động hút bớt tiền qua thị trường mở để ổn định tỷ giá, kiểm soát lạm phát và điều tiết thanh khoản hệ thống ngân hàng.
+
+Khi lãi suất tăng cao, mọi thứ đảo chiều. Bài nhấn mạnh tiền không bốc hơi, mà đi theo năm con đường khiến nó chậm lại hoặc rời khỏi dòng chảy:
+
+| Con đường | Điều gì xảy ra | Tác động lên cỗ máy nào |
+|---|---|---|
+| Thứ nhất: nằm yên trong sổ tiết kiệm | Lãi cao và an toàn nên người gửi không mang tiền đi mạo hiểm; tiền không tiếp tục lưu thông | Vòng quay chậm lại |
+| Thứ hai: đi trả nợ | Mỗi đồng trả nợ là một đồng tiền tín dụng bị xoá khỏi hệ thống; tiền không chuyển sang tay ai mà thực sự biến mất | Tín dụng co lại |
+| Thứ ba: vào tài sản không sinh dòng tiền | Ví dụ mua vàng cất két; tiền vẫn còn nhưng tài sản nằm yên, không tạo giao dịch mới | Vòng quay chậm lại |
+| Thứ tư: tâm lý phòng thủ | Người dân bớt chi tiêu, doanh nghiệp ngừng đầu tư, ai cũng giữ tiền | Vòng quay chậm hẳn |
+| Thứ năm: Ngân hàng Nhà nước hút tiền | Ngân hàng Nhà nước chủ động hút bớt tiền qua thị trường mở để ổn định tỷ giá, kiểm soát lạm phát và điều tiết thanh khoản hệ thống ngân hàng | Lượng tiền trong hệ thống giảm |
+
+Năm con đường này cộng lại tạo ra cảm giác "tiền chạy đi đâu hết rồi?": tín dụng mới tạo ra ít, nợ cũ được trả làm tiền biến mất, và phần tiền còn lại quay chậm.
 
 ### 6. Kết luận của bài
-- Tiền không chạy đi đâu cả:
-  - Một phần biến mất khi các khoản vay được trả hết.
-  - Một phần được Ngân hàng Nhà nước hút về để điều tiết.
-  - Phần lớn vẫn nằm trong hệ thống nhưng không lưu thông nhanh như trước.
-- Khi lãi suất thấp trở lại, tín dụng mở rộng, tiền quay nhanh hơn, thanh khoản lại dồi dào và ta lại có cảm giác "tiền ở khắp mọi nơi".
-- Điều quan trọng là tiền đang được tạo ra nhiều hay ít và đang quay nhanh hay chậm.
+
+Bài trả lời câu hỏi ở tiêu đề: tiền không chạy đi đâu cả. Cụ thể:
+
+- Một phần biến mất khi các khoản vay được trả hết.
+- Một phần được Ngân hàng Nhà nước hút về để điều tiết.
+- Phần lớn vẫn nằm trong hệ thống, nhưng không lưu thông nhanh như trước.
+
+Khi lãi suất thấp trở lại, tín dụng mở rộng, tiền quay nhanh hơn, thanh khoản lại dồi dào và người ta lại có cảm giác "tiền ở khắp mọi nơi". Bài khép lại bằng ý: tiền không tự nhiên sinh ra và cũng không tự nhiên biến mất; điều quan trọng là tiền đang được tạo ra nhiều hay ít, và đang quay nhanh hay chậm.
 
 ## Thuật ngữ
 

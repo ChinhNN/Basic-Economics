@@ -55,57 +55,115 @@
 2. Nền kinh tế vận hành thế nào qua người tiêu dùng, doanh nghiệp, chính phủ và thị trường?
 3. Kinh tế đóng vai trò gì trong đời sống, và người bình thường áp dụng kiến thức kinh tế vào cuộc sống ra sao?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Kinh tế học (economics).** Ngành khoa học xã hội nghiên cứu cách con người và xã hội dùng nguồn lực có hạn (tiền bạc, thời gian, đất đai, tài nguyên) để đáp ứng những nhu cầu gần như không có giới hạn. Nó bao trùm ba khâu: sản xuất, phân phối và tiêu dùng hàng hóa, dịch vụ. Ví dụ minh hoạ: bạn có 200.000 đồng đi chợ và phải quyết định mua bao nhiêu thịt, bao nhiêu rau; một chính phủ phải chia ngân sách giữa giáo dục và hạ tầng. Cả hai đều là bài toán kinh tế, và đó là lý do bài nói kinh tế có mặt trong mọi quyết định hằng ngày.
+
+**Sự khan hiếm (scarcity).** Tình trạng nguồn lực không đủ để thoả mãn mọi mong muốn cùng lúc. Khan hiếm không có nghĩa là thiếu thốn tuyệt đối: một người giàu vẫn chỉ có 24 giờ mỗi ngày. Ví dụ trong bài: dân số tăng và đô thị hoá làm đất nông nghiệp ở Việt Nam ngày càng khan hiếm. Bài coi khan hiếm là gốc rễ của mọi vấn đề kinh tế: vì khan hiếm nên phải lựa chọn.
+
+**Lựa chọn.** Khi không thể có tất cả, con người phải quyết định dùng nguồn lực vào việc gì. Ví dụ trong bài: vì đất ít đi, chính phủ và hộ gia đình phải chọn cách dùng đất hiệu quả hơn, như chuyển sang nông nghiệp công nghệ cao. Lựa chọn là cầu nối từ khan hiếm sang hai khái niệm tiếp theo là đánh đổi và chi phí cơ hội.
+
+**Đánh đổi (trade-off).** Để có được một thứ, phải từ bỏ một thứ khác. Ví dụ minh hoạ: một sinh viên có 10 giờ rảnh mỗi tuần; nếu dành 6 giờ đi làm thêm thì chỉ còn 4 giờ để ôn bài. Bài dùng khái niệm này cho cả cá nhân (tiêu hay tiết kiệm) lẫn nhà nước (làm cao tốc hay chi thêm cho y tế).
+
+**Chi phí cơ hội (opportunity cost).** Giá trị của phương án **tốt nhất tiếp theo** mà bạn bỏ qua khi chọn một phương án. Chỉ tính phương án tốt nhất bị bỏ, không cộng tất cả các phương án. Ví dụ minh hoạ: một buổi tối bạn có thể đi học thêm, hoặc làm thêm được 150.000 đồng, hoặc nghỉ ngơi; nếu làm thêm là phương án tốt nhất bị bỏ thì chi phí cơ hội của buổi học là 150.000 đồng cộng với học phí. Khái niệm này quan trọng vì nó buộc ta tính cả những cái giá không hiện ra trên hoá đơn.
+
+**Ba chủ thể của nền kinh tế.** Người tiêu dùng (mua hàng hóa, dịch vụ và bán sức lao động), doanh nghiệp (thuê lao động, mua nguyên liệu, sản xuất hàng hoá) và chính phủ (thu thuế, cung cấp dịch vụ công, điều tiết thị trường). Ví dụ minh hoạ: một công nhân dệt may nhận lương từ doanh nghiệp, dùng lương mua thực phẩm của doanh nghiệp khác, và cả hai cùng nộp thuế để nhà nước xây trường học. Bài dùng mô hình này để giải thích nền kinh tế vận hành ra sao.
+
+**Thị trường và cung cầu.** Thị trường là nơi người mua và người bán gặp nhau. Giá trên thị trường do cung (lượng người bán muốn bán) và cầu (lượng người mua muốn mua) quyết định: cầu tăng, cung giảm thì giá tăng, và ngược lại. Ví dụ trong bài: dịp Tết, nhu cầu hoa và thực phẩm tăng đẩy giá lên. Bài coi cung cầu là cơ chế phân bổ nguồn lực hiệu quả trong kinh tế thị trường.
+
+**Kinh tế kế hoạch hóa tập trung và kinh tế thị trường.** Trong kinh tế kế hoạch hoá tập trung, nhà nước quyết định sản xuất cái gì, bao nhiêu và phân phối cho ai. Trong kinh tế thị trường, những quyết định đó chủ yếu do giá cả và cung cầu dẫn dắt. Bài nêu việc Việt Nam chuyển từ mô hình thứ nhất sang mô hình thứ hai là nguyên nhân thúc đẩy tăng trưởng mạnh.
+
+## Nội dung chi tiết
 
 ### 1. Kinh tế là gì?
-- Định nghĩa: ngành khoa học xã hội nghiên cứu cách con người và xã hội sử dụng nguồn lực hạn chế (tiền bạc, thời gian, tài nguyên) để đáp ứng nhu cầu không giới hạn; bao gồm sản xuất, phân phối, tiêu dùng hàng hóa và dịch vụ.
-- Ví dụ: quyết định mua gì ở chợ với số tiền nhất định; chính phủ phân bổ ngân sách cho giáo dục hay cơ sở hạ tầng.
-- Kinh tế giúp hiểu cách tối ưu hóa nguồn lực để đạt lợi ích lớn nhất.
+
+Bài định nghĩa kinh tế (kinh tế học) là ngành khoa học xã hội nghiên cứu cách con người và xã hội sử dụng nguồn lực hạn chế, gồm tiền bạc, thời gian và tài nguyên, để đáp ứng những nhu cầu không giới hạn. Phạm vi của nó gồm cả ba khâu: sản xuất, phân phối và tiêu dùng hàng hóa, dịch vụ.
+
+Hai ví dụ cho thấy kinh tế hiện diện ở mọi cấp độ. Ở cấp gia đình, đó là việc quyết định mua gì ở chợ với một số tiền nhất định. Ở cấp quốc gia, đó là việc chính phủ phân bổ ngân sách cho giáo dục hay cho cơ sở hạ tầng. Trong cả hai trường hợp, câu hỏi đều là làm sao dùng nguồn lực có hạn để đạt lợi ích lớn nhất. Bài nói kinh tế học giúp ta hiểu cách tối ưu hoá nguồn lực như vậy.
 
 ### 2. Sự khan hiếm và lựa chọn
-- Khan hiếm là khái niệm cốt lõi: nguồn lực luôn hạn chế, nhu cầu dường như vô hạn, nên con người phải lựa chọn.
-- Ví dụ Việt Nam: dân số tăng và đô thị hóa làm đất nông nghiệp ngày càng khan hiếm, buộc chính phủ và hộ gia đình lựa chọn cách dùng đất hiệu quả, như chuyển sang nông nghiệp công nghệ cao.
+
+Khan hiếm là khái niệm cốt lõi của kinh tế học. Nguồn lực luôn hạn chế, trong khi nhu cầu của con người dường như vô hạn. Vì không thể đáp ứng mọi nhu cầu cùng lúc, con người buộc phải lựa chọn. Chuỗi lập luận của cả bài bắt đầu từ đây:
+
+1. Nguồn lực hạn chế (tiền, thời gian, đất) gặp nhu cầu không giới hạn (của cá nhân và của xã hội).
+2. Hai điều đó cộng lại sinh ra sự khan hiếm.
+3. Khan hiếm buộc phải lựa chọn.
+4. Mỗi lựa chọn kéo theo đánh đổi (có cái này thì mất cái kia) và chi phí cơ hội (giá trị của phương án tốt nhất tiếp theo bị bỏ).
+
+Ví dụ Việt Nam mà bài nêu: dân số tăng và quá trình đô thị hoá làm đất nông nghiệp ngày càng khan hiếm. Chính phủ và các hộ gia đình vì thế phải lựa chọn cách dùng đất hiệu quả hơn, chẳng hạn chuyển sang nông nghiệp công nghệ cao để làm ra nhiều sản phẩm hơn trên cùng diện tích.
 
 ### 3. Chi phí cơ hội
-- Giá trị của lựa chọn tốt nhất tiếp theo phải từ bỏ khi ra quyết định.
-- Ví dụ: học thêm một khóa học thì chi phí cơ hội là thời gian có thể dùng để làm việc kiếm tiền hoặc nghỉ ngơi.
-- Là công cụ cân nhắc ưu tiên khi nguồn lực hạn chế.
+
+Chi phí cơ hội là giá trị của lựa chọn tốt nhất tiếp theo mà ta phải từ bỏ khi ra một quyết định. Ví dụ của bài: nếu bạn học thêm một khoá học, chi phí cơ hội là khoảng thời gian lẽ ra có thể dùng để làm việc kiếm tiền hoặc để nghỉ ngơi.
+
+Điểm quan trọng là chi phí cơ hội không hiện ra trên hoá đơn. Khoá học có học phí ghi rõ, nhưng thu nhập bị bỏ lỡ thì không ai ghi. Bài coi chi phí cơ hội là công cụ để cân nhắc thứ tự ưu tiên khi nguồn lực có hạn: trước khi quyết định, hãy hỏi mình đang bỏ qua điều gì.
 
 ### 4. Đánh đổi
-- Định nghĩa: để có một thứ, phải từ bỏ một thứ khác; là nền tảng của chi phí cơ hội.
-- Ví dụ nhà nước: đầu tư đường cao tốc có thể phải giảm ngân sách giáo dục hoặc y tế. Ví dụ cá nhân: tiêu tiền mua đồ hay tiết kiệm cho tương lai.
-- Quyết định cá nhân: sinh viên chọn giữa làm thêm và học; ưu tiên công việc thì thành tích học tập có thể thấp hơn. Nhận thức đánh đổi giúp xác định ưu tiên theo mục tiêu dài hạn.
-- Chính sách công: tăng chi an sinh xã hội có thể phải tăng thuế hoặc giảm ngân sách lĩnh vực khác như quốc phòng. Việt Nam thường phải cân nhắc giữa thúc đẩy tăng trưởng và bảo vệ môi trường, nhất là trong bối cảnh biến đổi khí hậu.
+
+Đánh đổi nghĩa là để có được một thứ, ta phải từ bỏ một thứ khác. Bài gọi đánh đổi là nền tảng của chi phí cơ hội: vì có đánh đổi nên mới có thứ bị bỏ qua để đo giá trị.
+
+Bài đưa ví dụ ở hai cấp:
+
+| Cấp | Ví dụ đánh đổi trong bài |
+|---|---|
+| Cá nhân, chi tiêu | Tiêu tiền mua đồ ngay hay tiết kiệm cho tương lai |
+| Cá nhân, thời gian | Sinh viên chọn giữa làm thêm và học; nếu ưu tiên công việc thì thành tích học tập có thể thấp hơn |
+| Nhà nước, ngân sách | Đầu tư đường cao tốc có thể phải giảm ngân sách giáo dục hoặc y tế |
+| Nhà nước, an sinh | Tăng chi cho an sinh xã hội có thể phải tăng thuế hoặc giảm ngân sách lĩnh vực khác như quốc phòng |
+| Nhà nước, phát triển | Việt Nam thường phải cân nhắc giữa thúc đẩy tăng trưởng và bảo vệ môi trường, nhất là trong bối cảnh biến đổi khí hậu |
+
+Theo bài, nhận thức rõ các đánh đổi giúp mỗi người xác định ưu tiên dựa trên mục tiêu dài hạn của mình, thay vì quyết định theo cảm tính.
 
 ### 5. Kinh tế hoạt động như thế nào?
-- Ba thành phần chính:
-  - Người tiêu dùng: cá nhân mua hàng hóa, dịch vụ (thực phẩm, quần áo, giáo dục, giải trí).
-  - Doanh nghiệp: mua nguyên liệu, thuê lao động, đầu tư công nghệ để sản xuất; ở Việt Nam các ngành điện tử, dệt may, chế biến thực phẩm đóng vai trò quan trọng.
-  - Chính phủ: thu thuế để tài trợ dịch vụ công (trường học, bệnh viện, đường sá), điều chỉnh thị trường để đảm bảo công bằng và ổn định.
-- Thị trường và cung cầu: thị trường là nơi người mua và bán gặp nhau; khi cầu tăng và cung giảm thì giá tăng, và ngược lại. Ví dụ dịp Tết nhu cầu hoa và thực phẩm tăng đẩy giá lên. Cung cầu là nền tảng phân bổ nguồn lực hiệu quả.
-- Vai trò chính phủ: cung cấp dịch vụ công, điều tiết thị trường, phân phối lại thu nhập. Việt Nam chuyển từ kinh tế kế hoạch hóa tập trung sang kinh tế thị trường đã thúc đẩy tăng trưởng mạnh, tạo điều kiện cho doanh nghiệp phát triển và nâng cao đời sống.
+
+**Ba thành phần chính.** Bài mô tả nền kinh tế qua ba chủ thể:
+
+| Chủ thể | Vai trò |
+|---|---|
+| Người tiêu dùng | Cá nhân mua hàng hóa, dịch vụ như thực phẩm, quần áo, giáo dục, giải trí; đồng thời nhận việc làm và thu nhập từ doanh nghiệp |
+| Doanh nghiệp | Mua nguyên liệu, thuê lao động, đầu tư công nghệ để sản xuất; ở Việt Nam các ngành điện tử, dệt may, chế biến thực phẩm đóng vai trò quan trọng |
+| Chính phủ | Thu thuế từ người dân và doanh nghiệp để tài trợ dịch vụ công (trường học, bệnh viện, đường sá), điều chỉnh thị trường để bảo đảm công bằng và ổn định |
+
+Ba chủ thể nối với nhau thành một vòng: người tiêu dùng trả tiền mua hàng của doanh nghiệp; doanh nghiệp trả lại cho người tiêu dùng bằng việc làm và thu nhập; cả hai cùng nộp thuế cho chính phủ; chính phủ dùng tiền thuế để cung cấp dịch vụ công cho cả hai.
+
+**Thị trường và cung cầu.** Thị trường là nơi người mua và người bán gặp nhau. Giá trên thị trường do cung cầu quyết định: khi cầu tăng và cung giảm thì giá tăng, và ngược lại. Ví dụ của bài: dịp Tết, nhu cầu hoa và thực phẩm tăng đẩy giá lên. Bài coi cung cầu là nền tảng giúp phân bổ nguồn lực hiệu quả, vì giá cao báo cho người sản xuất biết xã hội đang cần thứ gì.
+
+**Vai trò của chính phủ.** Chính phủ có ba việc: cung cấp dịch vụ công, điều tiết thị trường và phân phối lại thu nhập (dùng thuế và chi tiêu để thu hẹp chênh lệch giàu nghèo). Bài nêu trường hợp Việt Nam: việc chuyển từ kinh tế kế hoạch hoá tập trung sang kinh tế thị trường đã thúc đẩy tăng trưởng mạnh, tạo điều kiện cho doanh nghiệp phát triển và nâng cao đời sống người dân.
 
 ### 6. Vai trò của kinh tế trong đời sống
-- Đáp ứng nhu cầu hằng ngày: hàng hóa, dịch vụ sẵn có với giá hợp lý; ở Việt Nam phát triển kinh tế đã đa dạng hóa sản phẩm từ thực phẩm đến công nghệ.
-- Tạo việc làm: công nghiệp và dịch vụ tăng đã tạo việc cho hàng triệu người, giảm thất nghiệp, nâng thu nhập.
-- Quyết định giá cả: giá xăng dầu thế giới tăng làm chi phí vận chuyển tăng, kéo giá hàng khác lên; hiểu cơ chế này giúp dự đoán và điều chỉnh chi tiêu.
-- Thúc đẩy phát triển: kinh tế mạnh cho phép đầu tư giáo dục, y tế, hạ tầng; Việt Nam đã xây nhiều trường học, bệnh viện, đường cao tốc.
+
+Bài nêu bốn vai trò:
+
+- **Đáp ứng nhu cầu hằng ngày.** Nền kinh tế đưa hàng hóa, dịch vụ đến tay người dân với giá hợp lý. Ở Việt Nam, phát triển kinh tế đã đa dạng hoá sản phẩm, từ thực phẩm đến công nghệ.
+- **Tạo việc làm.** Công nghiệp và dịch vụ tăng trưởng đã tạo việc làm cho hàng triệu người, giảm thất nghiệp và nâng thu nhập.
+- **Quyết định giá cả.** Ví dụ: giá xăng dầu thế giới tăng làm chi phí vận chuyển tăng, kéo theo giá nhiều hàng hoá khác. Hiểu cơ chế này giúp người dân dự đoán và điều chỉnh chi tiêu.
+- **Thúc đẩy phát triển.** Kinh tế mạnh cho phép đầu tư vào giáo dục, y tế và hạ tầng; Việt Nam đã xây thêm nhiều trường học, bệnh viện và đường cao tốc.
 
 ### 7. Tại sao cần hiểu kinh tế?
-- Quản lý tài chính cá nhân: lập ngân sách, tiết kiệm, đầu tư hiệu quả để ổn định và thịnh vượng.
-- Chọn nghề: biết ngành nào đang phát triển; ví dụ công nghệ thông tin mở nhiều cơ hội cho người trẻ Việt Nam.
-- Đầu tư thông minh: quyết định khi nào đầu tư bất động sản, chứng khoán hay giữ tiền mặt.
-- Nhận biết vấn đề xã hội: lý giải vì sao giá hàng hóa tăng giảm.
+
+Theo bài, hiểu kinh tế đem lại bốn lợi ích cụ thể cho mỗi người:
+
+1. **Quản lý tài chính cá nhân:** biết lập ngân sách, tiết kiệm và đầu tư hiệu quả để có cuộc sống ổn định và thịnh vượng.
+2. **Chọn nghề:** biết ngành nào đang phát triển. Ví dụ bài nêu là công nghệ thông tin đang mở ra nhiều cơ hội cho người trẻ Việt Nam.
+3. **Đầu tư thông minh:** biết khi nào nên đầu tư bất động sản, chứng khoán hay giữ tiền mặt.
+4. **Nhận biết vấn đề xã hội:** lý giải được vì sao giá hàng hoá tăng hay giảm.
 
 ### 8. Mẹo áp dụng
-- Theo dõi giá cả để mua sắm hợp lý, như mua thực phẩm mùa thu hoạch khi giá thấp.
-- Cân nhắc chi phí cơ hội trước khi chi tiêu; nếu cao thì xem lại quyết định.
-- Dành một phần thu nhập tiết kiệm hoặc đầu tư vào kênh sinh lời như bất động sản hoặc quỹ đầu tư.
-- Tận dụng cơ hội kinh doanh theo xu hướng, như mở cửa hàng online khi thương mại điện tử phát triển.
+
+Bài kết thúc phần thực hành bằng bốn mẹo, mỗi mẹo gắn với một khái niệm đã học:
+
+| Mẹo | Khái niệm đứng sau |
+|---|---|
+| Theo dõi giá cả để mua sắm hợp lý, như mua thực phẩm vào mùa thu hoạch khi giá thấp | Cung cầu: mùa thu hoạch cung dồi dào nên giá giảm |
+| Cân nhắc chi phí cơ hội trước khi chi tiêu; nếu chi phí cơ hội cao thì xem lại quyết định | Chi phí cơ hội |
+| Dành một phần thu nhập để tiết kiệm hoặc đầu tư vào kênh sinh lời như bất động sản hoặc quỹ đầu tư | Đánh đổi giữa tiêu dùng hôm nay và tương lai |
+| Tận dụng cơ hội kinh doanh theo xu hướng, như mở cửa hàng online khi thương mại điện tử phát triển | Cầu tăng ở một lĩnh vực mới |
 
 ### 9. Kết luận
-- Kinh tế không chỉ là con số hay lý thuyết phức tạp mà là phần không thể thiếu của cuộc sống; hãy bắt đầu áp dụng cung cầu, chi phí cơ hội, đánh đổi.
-- Nguồn tham khảo bài nêu gồm Investopedia, HBS Online, Econlib (51 khái niệm kinh tế chính), Vedantu, Heritage Foundation (Chỉ số tự do kinh tế: Việt Nam), DW, IMF (năm biểu đồ về triển vọng kinh tế Việt Nam, 2019), Ngân hàng Thế giới, trade.gov và một số nguồn khác.
+
+Bài kết luận rằng kinh tế không chỉ là những con số hay lý thuyết phức tạp mà là một phần không thể thiếu của cuộc sống, và khuyến khích người đọc bắt đầu áp dụng ngay ba khái niệm: cung cầu, chi phí cơ hội và đánh đổi.
+
+Các nguồn tham khảo bài nêu gồm Investopedia, HBS Online, Econlib (bài 51 khái niệm kinh tế chính), Vedantu, Heritage Foundation (Chỉ số tự do kinh tế: Việt Nam), DW, IMF (năm biểu đồ về triển vọng kinh tế Việt Nam, năm 2019), Ngân hàng Thế giới, trade.gov và một số nguồn khác.
 
 ## Thuật ngữ
 
