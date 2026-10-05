@@ -178,6 +178,42 @@ Back to Basics: Rất phù hợp để học các khái niệm như lạm phát,
 
 - [Vietnam 2035: Toward Prosperity, Creativity, Equity, and Democracy (Overview) — Việt Nam 2035: Hướng tới Thịnh vượng, Sáng tạo, Công bằng và Dân chủ (Bản tổng quan)](worldbank/2016-vietnam-2035-prosperity-creativity-equity-democracy.md) — Ngân hàng Thế giới và Bộ Kế hoạch và Đầu tư Việt Nam, 2016, nhóm tác giả do Cao Viết Sinh, Gabriel Demombynes, Victoria Kwakwa, Sandeep Mahajan, Sudhir Shetty dẫn dắt (bản PDF chỉ có phần Tổng quan, không có 7 chương của báo cáo đầy đủ)
 
+## The Wealth of Nations
+
+Adam Smith, *Của cải của các dân tộc* (1776), bản dịch NXB Giáo dục và ĐH Kinh tế quốc dân (ấn bản Everyman's Library, không có Quyển V). Mỗi chương một file, giữ lại luận điểm kinh tế Smith chứng minh và liên hệ Việt Nam. Xem [tổng quan và chuỗi lập luận](The%20Wealth%20of%20Nations/README.md).
+
+- [Lời giới thiệu và đề cương](The%20Wealth%20of%20Nations/00-gioi-thieu-va-de-cuong.md)
+- [Quyển I, Chương I — Phân công lao động](The%20Wealth%20of%20Nations/Q1-C01-phan-cong-lao-dong.md)
+- [Quyển I, Chương II — Nguyên tắc chi phối việc phân công lao động](The%20Wealth%20of%20Nations/Q1-C02-nguyen-tac-chi-phoi-phan-cong-lao-dong.md)
+- [Quyển I, Chương III — Phân công bị giới hạn bởi quy mô thị trường](The%20Wealth%20of%20Nations/Q1-C03-phan-cong-lao-dong-bi-gioi-han-boi-quy-mo-thi-truong.md)
+- [Quyển I, Chương IV — Nguồn gốc và cách sử dụng tiền tệ](The%20Wealth%20of%20Nations/Q1-C04-nguon-goc-va-cach-su-dung-tien-te.md)
+- [Quyển I, Chương V — Giá thực tế và giá danh nghĩa](The%20Wealth%20of%20Nations/Q1-C05-gia-thuc-te-va-gia-danh-nghia.md)
+- [Quyển I, Chương VI — Các cấu phần của giá hàng hoá](The%20Wealth%20of%20Nations/Q1-C06-cac-cau-phan-cua-gia-hang-hoa.md)
+- [Quyển I, Chương VII — Giá tự nhiên và giá thị trường](The%20Wealth%20of%20Nations/Q1-C07-gia-tu-nhien-va-gia-thi-truong.md)
+- [Quyển I, Chương VIII — Tiền công lao động](The%20Wealth%20of%20Nations/Q1-C08-tien-cong-lao-dong.md)
+- [Quyển I, Chương IX — Lợi nhuận của vốn](The%20Wealth%20of%20Nations/Q1-C09-loi-nhuan-cua-von.md)
+- [Quyển I, Chương X — Tiền công và lợi nhuận trong các nghề](The%20Wealth%20of%20Nations/Q1-C10-tien-cong-va-loi-nhuan-trong-cac-nghe.md)
+- [Quyển I, Chương XI — Tiền thuê đất](The%20Wealth%20of%20Nations/Q1-C11-tien-thue-dat.md)
+- [Quyển II, Lời giới thiệu Quyển II](The%20Wealth%20of%20Nations/Q2-C00-gioi-thieu-quyen-2.md)
+- [Quyển II, Chương I — Phân chia vốn](The%20Wealth%20of%20Nations/Q2-C01-phan-chia-von.md)
+- [Quyển II, Chương II — Tiền và ngân hàng](The%20Wealth%20of%20Nations/Q2-C02-tien-va-ngan-hang.md)
+- [Quyển II, Chương III — Tích luỹ tư bản, lao động sản xuất và phi sản xuất](The%20Wealth%20of%20Nations/Q2-C03-tich-luy-tu-ban-lao-dong-san-xuat.md)
+- [Quyển II, Chương IV — Vốn cho vay lấy lãi](The%20Wealth%20of%20Nations/Q2-C04-von-cho-vay-lay-lai.md)
+- [Quyển II, Chương V — Các cách sử dụng vốn](The%20Wealth%20of%20Nations/Q2-C05-cac-cach-su-dung-von.md)
+- [Quyển III, Chương I — Tăng trưởng tự nhiên của sự giàu có](The%20Wealth%20of%20Nations/Q3-C01-tang-truong-tu-nhien-cua-su-giau-co.md)
+- [Quyển III, Chương II — Nông nghiệp trì trệ sau khi Đế quốc La Mã sụp đổ](The%20Wealth%20of%20Nations/Q3-C02-nong-nghiep-tri-tre-sau-la-ma.md)
+- [Quyển III, Chương III — Thành thị mọc lên sau khi Đế quốc La Mã sụp đổ](The%20Wealth%20of%20Nations/Q3-C03-thanh-thi-moc-len-sau-la-ma.md)
+- [Quyển III, Chương IV — Thương nghiệp thành thị góp phần phát triển nông thôn](The%20Wealth%20of%20Nations/Q3-C04-thuong-nghiep-thanh-thi-phat-trien-nong-thon.md)
+- [Quyển IV, Chương I — Nguyên tắc của hệ thống thương mại (trọng thương)](The%20Wealth%20of%20Nations/Q4-C01-nguyen-tac-he-thong-thuong-mai.md)
+- [Quyển IV, Chương II — Hạn chế nhập hàng ngoại sản xuất được trong nước](The%20Wealth%20of%20Nations/Q4-C02-han-che-nhap-khau-hang-san-xuat-trong-nuoc.md)
+- [Quyển IV, Chương III — Hạn chế nhập khẩu theo cán cân thương mại](The%20Wealth%20of%20Nations/Q4-C03-han-che-nhap-khau-theo-can-can-thuong-mai.md)
+- [Quyển IV, Chương IV — Hoàn thuế](The%20Wealth%20of%20Nations/Q4-C04-hoan-thue.md)
+- [Quyển IV, Chương V — Tiền thưởng (trợ cấp xuất khẩu)](The%20Wealth%20of%20Nations/Q4-C05-tro-cap-xuat-khau.md)
+- [Quyển IV, Chương VI — Hiệp ước thương mại](The%20Wealth%20of%20Nations/Q4-C06-hiep-uoc-thuong-mai.md)
+- [Quyển IV, Chương VII — Thuộc địa](The%20Wealth%20of%20Nations/Q4-C07-thuoc-dia.md)
+- [Quyển IV, Chương VIII — Kết luận về chế độ trọng thương](The%20Wealth%20of%20Nations/Q4-C08-ket-luan-ve-che-do-trong-thuong.md)
+- [Quyển IV, Chương IX — Các hệ thống trọng nông](The%20Wealth%20of%20Nations/Q4-C09-he-thong-trong-nong.md)
+
 ## VN
 
 Tổng hợp bài viết của AI WikiMoney (wikimoney.ai.vn) về kinh tế, tài chính cá nhân và đầu tư ở Việt Nam, xếp theo chuyên mục của trang và theo ngày đăng.
