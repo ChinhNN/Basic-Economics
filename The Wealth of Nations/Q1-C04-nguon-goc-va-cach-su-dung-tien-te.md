@@ -173,63 +173,165 @@
 2. **Nhà nước làm gì với tiền, tốt và xấu?** Tốt: con dấu nhà nước xác nhận độ tinh khiết rồi trọng lượng, cho phép tiền được nhận theo đếm thay vì cân. Xấu: ở mọi nước, vua chúa đã lợi dụng lòng tin để giảm hàm lượng kim loại, trả nợ bằng ít bạc hơn và chuyển của cải từ chủ nợ sang con nợ.
 3. **Giá trị có mấy nghĩa?** Hai: giá trị sử dụng (sự có ích) và giá trị trao đổi (sức mua); nước rất có ích mà không mua được gì, kim cương ít có ích mà đổi được rất nhiều. Chương này mở ra câu hỏi về quy luật của giá trị trao đổi.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Đổi chác (barter) và sự trùng khớp kép của nhu cầu (double coincidence of wants).** Đổi chác là đổi hàng lấy hàng trực tiếp, không qua tiền. Nó chỉ xảy ra được khi hai bên cùng lúc muốn đúng thứ bên kia có. Ví dụ của Smith: người bán thịt có thừa thịt, người nấu bia và người làm bánh muốn thịt, nhưng người bán thịt đã đủ bia và bánh, nên không ai đổi được với ai. Khái niệm này là xuất phát điểm của cả chương: tiền ra đời để tháo nút thắt ấy.
+
+**Tiền hàng hoá (commodity money).** Một hàng hoá có giá trị tự thân được mọi người nhận làm phương tiện thanh toán: gia súc, muối, vỏ sò, cá tuyết khô, thuốc lá, đường, da, kim loại. Ví dụ trong chương: theo Homer, bộ áo giáp của Diomede đáng 9 con bò, của Glaucus đáng 100 con bò. Smith dùng khái niệm này để chỉ ra rằng tiền không cần ai phát minh: người ta tự giữ thứ mà ít ai từ chối nhận.
+
+**Ba chức năng của tiền.** Kinh tế học hiện đại nói tiền làm ba việc: *phương tiện trao đổi* (dùng để mua bán), *đơn vị tính toán* (dùng để định giá, như đo áo giáp bằng số bò) và *cất trữ giá trị* (giữ được lâu mà không hỏng, như kim loại). Ví dụ minh hoạ: một người bán gạo nhận tiền hôm nay (trao đổi), ghi sổ lãi theo đơn vị tiền (tính toán) và để dành tiền mua phân bón mùa sau (cất trữ). Smith chưa tách ba chức năng này, nhưng cả ba đều có mặt trong chương.
+
+**Cân và thử (weighing and assaying); độ tinh khiết (fineness).** Khi tiền là kim loại thô, mỗi lần mua bán phải cân để biết lượng và thử để biết kim loại có nguyên chất không. Độ tinh khiết là tỷ lệ kim loại quý trong một khối kim loại; bản dịch gọi là "tuổi". Ví dụ: một pound bạc ròng và một khối hợp kim rẻ bọc ngoài lớp bạc trông giống nhau, chỉ nung trong chén nung mới phân biệt được. Đây là chi phí giao dịch mà con dấu nhà nước sinh ra để giảm bớt.
+
+**Tiền đúc và nhận theo đếm (coinage, by tale).** Tiền đúc là kim loại được nhà nước đóng dấu ở cả hai mặt (có khi cả cạnh) để xác nhận cả độ tinh khiết lẫn trọng lượng. Nhờ đó người ta nhận tiền bằng cách đếm số đồng chứ không phải cân. Ví dụ minh hoạ: nhận 20 đồng shilling thì chỉ cần đếm đủ 20, không cần cân cả nắm. Khái niệm này cho thấy giá trị của tiền dựa vào lòng tin vào con dấu, và cũng chính điều đó mở đường cho lạm dụng.
+
+**Giảm hàm lượng tiền, phá giá tiền (debasement).** Nhà nước giữ nguyên tên đồng tiền nhưng cho ít kim loại hơn vào mỗi đồng. Ví dụ trong chương: đồng As La Mã lẽ ra nặng một pound (12 ounce) đồng, cuối thời Cộng hoà chỉ còn nửa ounce, tức 1/24. Khái niệm này quan trọng vì nó là cơ chế chuyển của cải từ chủ nợ sang con nợ mà Smith lên án.
+
+**Đơn vị danh nghĩa và giá trị thật.** Đơn vị danh nghĩa là con số ghi trên hợp đồng (100 bảng); giá trị thật là lượng kim loại hay lượng hàng mà con số ấy mua được. Ví dụ minh hoạ: một người vay 100 bảng khi mỗi bảng chứa một pound bạc; nếu nhà vua giảm hàm lượng còn một nửa, người đó vẫn trả "100 bảng" nhưng chỉ mất nửa số bạc. Phân biệt này là chìa khoá để hiểu vì sao phá giá có lợi cho con nợ.
+
+**Giá trị sử dụng và giá trị trao đổi (value in use, value in exchange).** Giá trị sử dụng là sự có ích của một vật; giá trị trao đổi là lượng hàng khác mà vật đó mua được. Ví dụ của Smith: nước rất có ích mà hầu như không mua được gì; kim cương ít có ích mà đổi được rất nhiều hàng. Hai khái niệm này mở đầu cho ba chương sau về giá cả.
+
+## Nội dung chi tiết
 
 ### 1. Xã hội thương mại và trở ngại của đổi chác
 
-- Khi phân công đã hoàn toàn định hình, sản phẩm lao động của một người chỉ đáp ứng được một phần rất nhỏ nhu cầu của anh ta. Phần lớn nhu cầu được đáp ứng bằng cách đổi phần dư của mình lấy phần dư của người khác. Mỗi người sống bằng trao đổi, hay ở mức nào đó trở thành thương nhân, và xã hội tự nó trở thành một xã hội thương mại.
-- Nhưng khi phân công mới bắt đầu, trao đổi thường xuyên bị tắc nghẽn. Giả sử một người có nhiều hơn mình cần của một hàng hoá, người khác có ít hơn. Người thứ nhất muốn bán phần dư, người thứ hai muốn mua. Nhưng nếu người thứ hai không có gì mà người thứ nhất cần, thì không có trao đổi nào giữa họ.
-- Ví dụ: người bán thịt có nhiều thịt hơn mức gia đình anh ta tiêu dùng; người nấu bia và người làm bánh mỗi người muốn mua một phần. Nhưng họ chỉ có sản phẩm của nghề mình để đổi, và người bán thịt đã có đủ bánh mì và bia cần dùng. Không có trao đổi nào; người bán thịt không thể là người bán cho họ, họ không thể là khách của anh ta; họ không thể phục vụ nhau.
-- Để tránh tình huống bất tiện ấy, ở mọi thời kỳ của xã hội sau khi phân công hình thành, người khôn ngoan tự nhiên tìm cách giữ sẵn bên mình, ngoài sản phẩm của nghề mình, một lượng hàng hoá nào đó mà họ nghĩ ít ai từ chối nhận khi đổi lấy sản phẩm của nghề mình.
+Smith bắt đầu từ kết quả của ba chương trước. Khi phân công lao động đã hoàn toàn định hình, mỗi người chỉ tự dùng một phần rất nhỏ sản phẩm của mình. Phần lớn nhu cầu còn lại được đáp ứng bằng cách đổi phần dư của mình lấy phần dư của người khác. Như vậy mỗi người sống bằng trao đổi, hay ở mức nào đó trở thành một thương nhân, và bản thân xã hội trở thành một **xã hội thương mại** (*commercial society*).
+
+Nhưng ở giai đoạn phân công mới bắt đầu, trao đổi thường xuyên bị tắc. Giả sử A có nhiều hơn mức mình cần của một thứ hàng, còn B có ít hơn mức mình cần. A muốn bán phần dư, B muốn mua. Nếu B không có thứ gì A cần, hai người không đổi được với nhau, dù cả hai đều muốn.
+
+Smith minh hoạ bằng ba người thợ:
+
+| Người | Có thừa | Muốn | Kết quả |
+|---|---|---|---|
+| Người bán thịt | Thịt (nhiều hơn mức gia đình ăn) | Không cần thêm bia hay bánh mì, vì đã đủ | Không bán được thịt cho hai người kia |
+| Người nấu bia | Bia | Một phần thịt | Không có gì người bán thịt cần |
+| Người làm bánh | Bánh mì | Một phần thịt | Không có gì người bán thịt cần |
+
+Kết quả là không có giao dịch nào. Người bán thịt không thể là người bán cho họ, họ không thể là khách của anh ta, và cả ba không phục vụ được nhau, dù mỗi người đều có thứ người khác muốn.
+
+Lời giải không đến từ một quyết định chung nào. Ở mọi thời kỳ của xã hội sau khi phân công hình thành, người khôn ngoan và lo xa tự nhiên tìm cách giữ sẵn bên mình, ngoài sản phẩm nghề của mình, một lượng hàng hoá nào đó mà họ nghĩ ít ai từ chối nhận khi đổi lấy sản phẩm khác. Hàng hoá ấy trở thành tiền.
 
 ### 2. Hàng hoá làm tiền trong lịch sử
 
-- Nhiều hàng hoá đã được nghĩ tới và dùng cho mục đích này. Trong các thời kỳ sơ khai, gia súc là công cụ thương mại chung. Dù rất bất tiện, ở thời cổ mọi thứ thường được định giá bằng số gia súc đổi được. Theo Homer, bộ áo giáp của Diomede đáng 9 con bò, nhưng bộ của Glaucus đáng 100 con bò.
-- Muối là công cụ thương mại và trao đổi chung ở Abyssinia; một loại vỏ sò ở một số vùng ven biển Ấn Độ; cá tuyết khô ở Newfoundland; thuốc lá ở Virginia; đường ở một số thuộc địa Tây Ấn của Anh; da sống hay da thuộc ở một số nước khác. Và ngay hiện nay, ở một làng ở Scotland, không lạ khi một người thợ mang đinh thay tiền đến tiệm bánh hay quán bia.
+Nhiều hàng hoá khác nhau đã được nghĩ tới và dùng vào vai trò này. Trong các xã hội sơ khai, **gia súc** là công cụ thương mại chung. Dù rất bất tiện, ở thời cổ mọi thứ thường được định giá bằng số gia súc đổi được. Smith dẫn Homer: bộ áo giáp của Diomede đáng 9 con bò, còn bộ của Glaucus đáng 100 con bò. Ví dụ này cho thấy gia súc làm được việc của một đơn vị tính toán, kể cả khi không ai đem bò ra đổi lấy áo giáp.
+
+Danh sách các hàng hoá khác Smith liệt kê:
+
+| Hàng hoá làm tiền | Nơi dùng |
+|---|---|
+| Muối | Abyssinia |
+| Một loại vỏ sò | Một số vùng ven biển Ấn Độ |
+| Cá tuyết khô | Newfoundland |
+| Thuốc lá | Virginia |
+| Đường | Một số thuộc địa Tây Ấn của Anh |
+| Da sống, da thuộc | Một số nước khác |
+| Đinh sắt | Một làng ở Scotland, ngay thời Smith viết |
+
+Chi tiết cuối cùng đáng chú ý: ngay ở nước Smith đang sống, không lạ khi một người thợ mang đinh thay tiền đến tiệm bánh hay quán bia. Tức là hàng hoá làm tiền không chỉ là chuyện của quá khứ xa.
 
 ### 3. Vì sao kim loại thắng
 
-- Ở mọi nước, vì những lý do không cưỡng nổi, người ta cuối cùng chọn kim loại hơn mọi hàng hoá khác. Kim loại không chỉ được giữ mà ít hao hụt nhất (ít thứ gì bền hơn), mà còn chia được thành bao nhiêu phần cũng được mà không mất giá, và các phần lại có thể đúc lại thành một. Không hàng hoá bền nào khác có thuộc tính này, và chính nó làm kim loại thích hợp làm công cụ thương mại và lưu thông.
-- Ví dụ: người muốn mua muối mà chỉ có gia súc để đổi phải mua một lần muối trị giá cả một con bò hay một con cừu. Anh ta hiếm khi mua ít hơn được, vì thứ anh ta đem đổi không thể chia mà không thiệt. Nếu muốn mua nhiều hơn, anh ta phải mua gấp đôi, gấp ba, tức giá trị hai, ba con bò hay cừu. Nếu có kim loại, anh ta dễ dàng cắt đúng lượng tương ứng với lượng hàng mình cần.
-- Các dân tộc khác nhau dùng các kim loại khác nhau: sắt là công cụ thương mại chung của người Sparta cổ; đồng của người La Mã cổ; vàng và bạc của mọi dân tộc giàu có và thương mại.
+Ở mọi nước, vì những lý do mà Smith gọi là "không thể cưỡng nổi", người ta cuối cùng chọn kim loại hơn mọi hàng hoá khác. Kim loại có hai thuộc tính mà không hàng hoá bền nào khác có đủ:
+
+- **Bền:** giữ lâu mà ít hao hụt hơn hầu hết mọi thứ.
+- **Chia nhỏ được mà không mất giá:** cắt thành bao nhiêu phần cũng được, và các phần ấy lại có thể nung chảy, đúc lại thành một khối.
+
+Smith minh hoạ thuộc tính thứ hai bằng việc mua muối. Người chỉ có gia súc để đổi muốn mua muối thì phải mua một lần lượng muối trị giá cả một con bò hay một con cừu. Anh ta hiếm khi mua ít hơn được, vì con bò không thể chia ra mà không mất giá trị: nửa con bò sống không tồn tại. Nếu muốn mua nhiều hơn, anh ta phải mua gấp đôi, gấp ba, tức giá trị hai hay ba con. Người có kim loại thì đơn giản cắt đúng phần tương ứng với lượng muối mình cần.
+
+Các dân tộc khác nhau dùng các kim loại khác nhau: **sắt** là công cụ thương mại chung của người Sparta cổ, **đồng** của người La Mã cổ, còn **vàng và bạc** của mọi dân tộc giàu có và buôn bán nhiều.
 
 ### 4. Từ thanh kim loại thô đến tiền đúc
 
-- Ban đầu kim loại được dùng ở dạng thanh thô, không dấu, không đúc. Pliny, dẫn sử gia cổ đại Timaeus, cho biết tới thời Servius Tullius người La Mã chưa có tiền đúc mà dùng thanh đồng không dấu để mua mọi thứ cần. Thanh thô ấy đã làm chức năng của tiền.
-- Hai bất tiện lớn: phải cân và phải thử. Với kim loại quý, chênh lệch nhỏ về lượng tạo chênh lệch lớn về giá trị, nên việc cân đòi hỏi quả cân và cân rất chính xác; cân vàng là việc khá tinh vi. Với kim loại thường, sai số nhỏ ít quan trọng, nên không cần chính xác bằng; nhưng thật phiền nếu mỗi lần người nghèo mua bán một món giá một xu lại phải cân đồng kim loại một xu ấy.
-- Thử độ tinh khiết còn khó và phiền hơn, và nếu không nung một phần kim loại trong chén nung với dung môi thích hợp thì kết quả hoàn toàn không chắc. Trước khi có tiền đúc, người ta luôn có thể bị lừa: thay vì một pound bạc hay đồng ròng, người bán có thể nhận một hợp kim rẻ tiền bên ngoài phủ lớp kim loại thật.
-- Để ngăn gian lận, làm trao đổi dễ dàng và qua đó khuyến khích công nghiệp và thương mại, ở mọi nước tiên tiến người ta thấy cần đóng dấu nhà nước lên những lượng kim loại dùng để mua hàng. Đó là nguồn gốc của tiền đúc và của xưởng đúc tiền nhà nước. Cùng logic là các dấu kiểm định đóng lên vải lanh và vải len: mục đích đều là xác nhận, bằng con dấu nhà nước, lượng và chất của các hàng hoá trên thị trường.
-- Những con dấu đầu tiên chỉ xác nhận độ tinh khiết (bản dịch: "tuổi") của kim loại, giống dấu sterling ngày nay trên bạc thỏi hay dấu Tây Ban Nha đôi khi đóng trên vàng thỏi; chúng chỉ đóng một mặt, không phủ cả bề mặt, nên chỉ xác nhận độ tinh khiết chứ không xác nhận trọng lượng.
-- Thu nhập của các vua Saxon ở Anh cổ là hiện vật (lương thực, thực phẩm); William kẻ chinh phục đưa ra tục lệ nộp bằng tiền.
-- Chính sự bất tiện khi phải cân chính xác dẫn tới tiền đúc có dấu ở cả hai mặt, có khi cả cạnh, xác nhận cả độ tinh khiết lẫn trọng lượng. Những đồng tiền này được nhận theo đếm, như ngày nay, không cần cân.
+Smith mô tả ba giai đoạn kim loại trở thành tiền đúc.
+
+**Giai đoạn 1: thanh kim loại thô.** Ban đầu kim loại được dùng ở dạng thanh thô, không dấu, không đúc. Pliny, dẫn sử gia cổ đại Timaeus, cho biết tới thời Servius Tullius người La Mã chưa có tiền đúc mà dùng thanh đồng không dấu để mua mọi thứ cần. Thanh thô ấy đã làm chức năng của tiền.
+
+Cách này có hai bất tiện lớn:
+
+- **Phải cân.** Với kim loại quý, chênh lệch rất nhỏ về lượng tạo ra chênh lệch lớn về giá trị, nên phải có quả cân và cân thật chính xác; cân vàng là việc khá tinh vi. Với kim loại thường như đồng, sai số nhỏ ít quan trọng hơn, nhưng thật phiền nếu mỗi lần một người nghèo mua một món giá một xu lại phải cân miếng kim loại trị giá một xu ấy.
+- **Phải thử độ tinh khiết.** Việc này còn khó và phiền hơn cân. Nếu không nung một phần kim loại trong chén nung với dung môi thích hợp thì kết quả hoàn toàn không chắc. Vì vậy trước khi có tiền đúc, người bán hàng luôn có thể bị lừa: thay vì một pound bạc hay đồng ròng, anh ta có thể nhận một khối hợp kim rẻ tiền bên ngoài bọc lớp kim loại thật.
+
+**Giai đoạn 2: con dấu xác nhận độ tinh khiết.** Để ngăn gian lận, làm trao đổi dễ dàng và qua đó khuyến khích sản xuất và buôn bán, ở mọi nước tiên tiến người ta thấy cần đóng một con dấu nhà nước lên những lượng kim loại dùng để mua hàng. Đó là nguồn gốc của **tiền đúc** và của **xưởng đúc tiền nhà nước**. Smith đặt nó cạnh các dấu kiểm định nhà nước đóng lên vải lanh và vải len: mục đích đều là dùng con dấu nhà nước để xác nhận lượng và chất của hàng hoá bày bán trên thị trường.
+
+Những con dấu đầu tiên chỉ xác nhận độ tinh khiết (bản dịch gọi là "tuổi") của kim loại, giống dấu sterling ngày nay đóng trên bạc thỏi hay dấu Tây Ban Nha đôi khi đóng trên vàng thỏi. Chúng chỉ đóng ở một mặt và không phủ cả bề mặt, nên chỉ cho biết kim loại tốt hay xấu, không cho biết khối ấy nặng bao nhiêu. Người ta vẫn phải cân.
+
+Smith xen vào một chi tiết lịch sử: thu nhập của các vua Saxon ở Anh cổ được nộp bằng hiện vật, tức lương thực và thực phẩm; chính William kẻ chinh phục đưa ra tục lệ nộp bằng tiền.
+
+**Giai đoạn 3: tiền đúc dấu hai mặt.** Chính sự bất tiện của việc phải cân chính xác dẫn tới loại tiền có dấu ở cả hai mặt, có khi cả ở cạnh, xác nhận cả độ tinh khiết lẫn trọng lượng. Những đồng tiền này được nhận **theo đếm** (*by tale*), như ngày nay, không cần cân.
+
+| Giai đoạn | Hình thức | Con dấu xác nhận gì | Người nhận còn phải làm gì |
+|---|---|---|---|
+| 1 | Thanh kim loại thô | Không có dấu | Cân và thử |
+| 2 | Thanh có dấu một mặt | Độ tinh khiết | Cân |
+| 3 | Tiền đúc dấu hai mặt, có khi cả cạnh | Độ tinh khiết và trọng lượng | Chỉ đếm |
 
 ### 5. Tên tiền là tên trọng lượng
 
-- Tên các đồng tiền ban đầu chỉ nói lên trọng lượng hay lượng kim loại chứa trong đó. Thời Servius Tullius, người đầu tiên đúc tiền ở La Mã, đồng As hay Pondo chứa một pound La Mã đồng tốt, chia thành 12 ounce như pound Troy của Anh.
-- Bảng Anh thời Edward I chứa một pound bạc theo trọng lượng Tower, có độ tinh khiết xác định. Pound Tower nặng hơn pound La Mã một chút và nhẹ hơn pound Troy. Pound Troy chỉ được đưa vào xưởng đúc tiền Anh từ năm thứ 18 triều Henry VIII (bản dịch sai thành "thế kỷ 18").
-- Livre Pháp thời Charlemagne chứa một pound bạc theo trọng lượng Troy, có độ tinh khiết xác định. Hội chợ ở Troyes, vùng Champagne, khi ấy có mọi dân tộc châu Âu tham dự, nên các đơn vị đo lường của hội chợ được biết và coi trọng rộng rãi.
-- Bảng Scotland từ thời Alexander I đến Robert Bruce chứa một pound bạc cùng trọng lượng và độ tinh khiết như bảng Anh.
-- Penny của Anh, Pháp và Scotland ban đầu đều chứa đúng một pennyweight bạc, tức 1/20 ounce hay 1/240 pound. Shilling dường như ban đầu cũng là tên một đơn vị trọng lượng: một luật cũ thời Henry III quy định khi lúa mì giá 12 shilling một quarter, ổ bánh một farthing phải nặng 11 shilling 4 penny (tức bánh được cân bằng đơn vị shilling và penny).
-- Tỷ lệ giữa shilling với penny và với pound dường như không ổn định như tỷ lệ giữa penny và pound. Dưới dòng vua đầu tiên của Pháp, sou hay shilling Pháp có lúc bằng 5, 12, 20 hay 40 penny. Ở người Saxon cổ, có lúc một shilling chỉ bằng 5 penny, và có lẽ nó thay đổi ở họ như ở láng giềng của họ là người Frank cổ. Từ Charlemagne ở Pháp và William kẻ chinh phục ở Anh, tỷ lệ pound, shilling, penny dường như giữ nguyên như hiện nay, dù giá trị của từng loại đã thay đổi rất nhiều.
+Tên các đồng tiền ban đầu chỉ nói lên trọng lượng, tức lượng kim loại chứa trong đó. Smith đưa ra một loạt ví dụ:
+
+| Đồng tiền | Thời điểm | Lượng kim loại ban đầu |
+|---|---|---|
+| As hay Pondo La Mã | Thời Servius Tullius, người đầu tiên đúc tiền ở La Mã | Một pound La Mã đồng tốt, chia thành 12 ounce như pound Troy của Anh |
+| Bảng Anh | Thời Edward I | Một pound bạc theo trọng lượng Tower, độ tinh khiết xác định |
+| Livre Pháp | Thời Charlemagne | Một pound bạc theo trọng lượng Troy, độ tinh khiết xác định |
+| Bảng Scotland | Từ Alexander I đến Robert Bruce | Một pound bạc, cùng trọng lượng và độ tinh khiết như bảng Anh |
+| Penny Anh, Pháp, Scotland | Ban đầu | Một pennyweight bạc, tức 1/20 ounce hay 1/240 pound |
+
+Pound Tower, pound Troy và pound La Mã là các **đơn vị trọng lượng** dùng ở xưởng đúc, không phải đồng tiền. Pound Tower nặng hơn pound La Mã một chút và nhẹ hơn pound Troy. Pound Troy chỉ được đưa vào xưởng đúc tiền Anh từ năm thứ 18 triều Henry VIII, tức khoảng thế kỷ 16 (bản dịch viết sai thành "thế kỷ 18"). Tên "Troy" đến từ hội chợ ở thành phố Troyes, vùng Champagne: hội chợ này khi ấy có mọi dân tộc châu Âu tham dự, nên đơn vị đo lường của nó được biết và coi trọng rộng rãi.
+
+Shilling dường như ban đầu cũng là tên một đơn vị trọng lượng. Bằng chứng là một luật cũ thời Henry III quy định: khi lúa mì giá 12 shilling một quarter (một đơn vị thể tích lúa mì), thì ổ bánh giá một farthing phải nặng 11 shilling 4 penny. Ở đây shilling và penny được dùng để cân ổ bánh, không phải để trả tiền.
+
+Tỷ lệ giữa shilling với penny và với pound thì không ổn định như tỷ lệ giữa penny và pound:
+
+- Dưới dòng vua đầu tiên của Pháp, đồng sou (shilling Pháp) có lúc bằng 5, 12, 20 hay 40 penny.
+- Ở người Saxon cổ, có lúc một shilling chỉ bằng 5 penny, và có lẽ nó cũng thay đổi như ở láng giềng của họ là người Frank cổ.
+- Từ Charlemagne ở Pháp và William kẻ chinh phục ở Anh, tỷ lệ pound : shilling : penny dường như giữ nguyên là 1 : 20 : 240 như hiện nay, dù giá trị thật của từng loại đã thay đổi rất nhiều.
+
+Điểm then chốt của mục này: cái tên và tỷ lệ giữa các đơn vị thì giữ nguyên qua nhiều thế kỷ, còn lượng kim loại đằng sau cái tên thì không. Đó là tiền đề cho mục tiếp theo.
 
 ### 6. Vua chúa giảm hàm lượng tiền
 
-- Smith tin rằng ở mọi nước trên thế giới, lòng tham và sự bất công của vua chúa và nhà nước có chủ quyền, lợi dụng lòng tin của thần dân, đã dần dần giảm lượng kim loại thật mà tiền của họ ban đầu chứa.
-- Đồng As La Mã vào cuối thời Cộng hoà còn 1/24 giá trị gốc: lẽ ra nặng một pound, nó chỉ còn nửa ounce. Bảng và penny Anh hiện nay chỉ còn khoảng 1/3 hàm lượng ban đầu; bảng và penny Scotland khoảng 1/36; bảng và penny Pháp khoảng 1/66.
-- Bằng cách đó, vua chúa và nhà nước có thể, bề ngoài, trả nợ và thực hiện cam kết bằng lượng bạc ít hơn mức lẽ ra phải trả. Nhưng chỉ là bề ngoài, vì chủ nợ thực sự bị lừa mất một phần những gì họ được nợ. Mọi con nợ khác trong nước cũng được hưởng đặc ân ấy, và có thể trả bằng cùng số danh nghĩa tiền mới mất giá những gì họ đã vay bằng tiền cũ.
-- Những thao tác ấy luôn có lợi cho con nợ và tai hại cho chủ nợ, và đôi khi gây ra một cuộc đảo lộn tài sản tư nhân lớn hơn và nguy hiểm hơn cả một thảm hoạ chung rất lớn.
+Smith tin rằng ở mọi nước trên thế giới, lòng tham và sự bất công của vua chúa và nhà nước có chủ quyền, lợi dụng lòng tin của thần dân vào con dấu, đã dần dần giảm lượng kim loại thật mà tiền của họ ban đầu chứa. Ông đưa ra bốn trường hợp:
+
+| Đồng tiền | Hàm lượng kim loại còn lại so với ban đầu |
+|---|---|
+| As La Mã, cuối thời Cộng hoà | 1/24: lẽ ra nặng một pound (12 ounce) đồng, chỉ còn nửa ounce |
+| Bảng và penny Anh, thời Smith | Khoảng 1/3 |
+| Bảng và penny Scotland | Khoảng 1/36 |
+| Bảng và penny Pháp | Khoảng 1/66 |
+
+Cơ chế của sự lạm dụng như sau. Hợp đồng nợ ghi bằng tên tiền (bao nhiêu bảng, bao nhiêu penny), không ghi bằng lượng bạc. Khi đồng bảng mới chứa ít bạc hơn đồng bảng cũ, nhà vua có thể, bề ngoài, trả nợ và thực hiện cam kết bằng lượng bạc ít hơn mức lẽ ra phải trả. Smith nhấn mạnh chữ "bề ngoài": thực chất chủ nợ bị lừa mất một phần thứ họ được nợ. Và không chỉ nhà vua hưởng lợi. Mọi con nợ khác trong nước cũng được hưởng cùng đặc ân, vì họ có quyền trả bằng cùng số danh nghĩa tiền mới mất giá cho khoản đã vay bằng tiền cũ.
+
+Ví dụ minh hoạ (con số tự đặt): một nông dân vay 30 bảng khi mỗi bảng còn chứa một pound bạc, tức nợ 30 pound bạc. Nếu sau đó nhà vua đúc lại tiền chỉ còn một nửa hàm lượng, người nông dân trả đủ "30 bảng" nhưng chỉ đưa ra 15 pound bạc. Người cho vay mất 15 pound bạc mà không ký thêm thoả thuận nào.
+
+Smith kết luận: những thao tác ấy luôn có lợi cho con nợ và tai hại cho chủ nợ, và đôi khi gây ra một cuộc đảo lộn tài sản tư nhân lớn hơn và nguy hiểm hơn cả một thảm hoạ chung rất lớn.
 
 ### 7. Giá trị sử dụng và giá trị trao đổi
 
-- Bằng cách đó, tiền trở thành công cụ thương mại chung ở mọi nước văn minh; mọi loại hàng hoá được mua, bán, trao đổi qua trung gian của nó.
-- Smith chuyển sang xem xét các quy tắc mà người ta tự nhiên tuân theo khi đổi hàng lấy tiền hay lấy hàng khác. Các quy tắc ấy quyết định giá trị tương đối, hay giá trị trao đổi, của hàng hoá.
-- Chữ "giá trị" có hai nghĩa: khi thì chỉ sự có ích của một vật cụ thể, khi thì chỉ khả năng mua hàng khác mà việc sở hữu vật đó đem lại. Nghĩa thứ nhất là "giá trị sử dụng", nghĩa thứ hai là "giá trị trao đổi".
-- Những thứ có giá trị sử dụng lớn nhất thường có ít hoặc không có giá trị trao đổi, và ngược lại. Không gì có ích hơn nước, nhưng hầu như không mua được gì bằng nó. Kim cương hầu như không có giá trị sử dụng, nhưng thường đổi được rất nhiều hàng hoá khác.
+Qua quá trình trên, tiền trở thành công cụ thương mại chung ở mọi nước văn minh; mọi loại hàng hoá được mua, bán và trao đổi qua trung gian của nó.
+
+Khi đã có tiền, câu hỏi tự nhiên tiếp theo là: theo những quy tắc nào người ta đổi hàng lấy tiền hay lấy hàng khác? Các quy tắc ấy quyết định **giá trị tương đối**, hay **giá trị trao đổi**, của hàng hoá, tức một thứ đổi được bao nhiêu thứ khác.
+
+Smith lưu ý chữ "giá trị" có hai nghĩa:
+
+- **Giá trị sử dụng:** sự có ích của một vật cụ thể.
+- **Giá trị trao đổi:** khả năng mua hàng khác mà việc sở hữu vật đó đem lại.
+
+Hai nghĩa này thường đi ngược nhau. Những thứ có giá trị sử dụng lớn nhất thường có ít hoặc không có giá trị trao đổi, và ngược lại. Không gì có ích hơn **nước**, nhưng hầu như không mua được gì bằng nó và hầu như không ai đưa gì để đổi lấy nó. **Kim cương** hầu như không có giá trị sử dụng, nhưng thường đổi được rất nhiều hàng hoá khác. Smith nêu nghịch lý này nhưng không giải nó; ông gác giá trị sử dụng sang một bên và từ đây chỉ đi tìm quy luật của giá trị trao đổi.
 
 ### 8. Chương trình cho ba chương sau
 
-- Để tìm hiểu các nguyên tắc chi phối giá trị trao đổi, Smith sẽ trình bày: thứ nhất, thước đo thật của giá trị trao đổi là gì, tức giá thực (real price) của mọi hàng hoá nằm ở đâu; thứ hai, giá thực ấy gồm những bộ phận khác nhau nào; thứ ba, những hoàn cảnh nào đôi khi đẩy một vài hay tất cả các bộ phận ấy lên trên hay xuống dưới mức tự nhiên hay thông thường, tức những nguyên nhân nào đôi khi khiến giá thị trường (giá thực trả) của hàng hoá không khớp với giá tự nhiên của nó.
-- Smith xin người đọc kiên nhẫn để theo dõi những chi tiết có chỗ có vẻ tẻ nhạt không cần thiết, và chú ý để hiểu những chỗ có thể vẫn còn tối nghĩa sau mọi cố gắng giải thích của ông. Ông thà chịu tẻ nhạt để chắc chắn là dễ hiểu; nhưng dù cố gắng đến đâu, một số chỗ vẫn tối vì bản chất cực kỳ trừu tượng của đề tài.
+Để tìm hiểu các nguyên tắc chi phối giá trị trao đổi, Smith báo trước ba câu hỏi, mỗi câu là một chương:
+
+| Câu hỏi | Chương |
+|---|---|
+| Thước đo thật của giá trị trao đổi là gì, tức giá thực (*real price*) của mọi hàng hoá nằm ở đâu? | Chương V |
+| Giá thực ấy gồm những bộ phận khác nhau nào? | Chương VI |
+| Những hoàn cảnh nào đôi khi đẩy một vài hay tất cả các bộ phận ấy lên trên hay xuống dưới mức tự nhiên hay thông thường, tức những nguyên nhân nào khiến giá thị trường (giá thực trả, *actual price*) của hàng hoá không khớp với giá tự nhiên của nó? | Chương VII |
+
+Cần giữ phân biệt hai chữ dễ nhầm: "giá thực" (*real price*) là giá đo bằng lao động, chủ đề Chương V; còn "giá thực trả" hay giá thị trường (*actual price*) là số tiền người mua thật sự trả, chủ đề Chương VII.
+
+Smith kết chương bằng một lời xin lỗi trước. Ông xin người đọc kiên nhẫn theo dõi những chi tiết có chỗ có vẻ tẻ nhạt không cần thiết, và chú ý để hiểu những chỗ có thể vẫn tối nghĩa sau mọi cố gắng giải thích. Ông thà chịu tẻ nhạt để chắc chắn là dễ hiểu; nhưng dù cố đến đâu, một số chỗ vẫn khó vì đề tài vốn cực kỳ trừu tượng.
 
 ## Luận điểm kinh tế cốt lõi
 

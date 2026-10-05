@@ -188,73 +188,185 @@
 2. **Vì sao giá thị trường bị kéo về giá tự nhiên?** Vì đất, lao động và vốn rút khỏi ngành mà giá dưới giá tự nhiên và đổ vào ngành mà giá trên giá tự nhiên, làm lượng cung điều chỉnh theo cầu hữu hiệu. Điều này cần tự do hoàn toàn trong việc chuyển nghề và chuyển vốn.
 3. **Cái gì giữ giá thị trường trên giá tự nhiên lâu dài?** Bí mật thương mại và sản xuất, điều kiện tự nhiên khan hiếm, và quy định của nhà nước như độc quyền, đặc quyền phường hội, luật học nghề. Ngược lại, giá rất hiếm khi bị giữ dưới giá tự nhiên lâu, trừ khi có cưỡng chế cực đoan.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tỷ suất tự nhiên (natural rate).** Mức thông thường hay trung bình của tiền lương, lợi nhuận và địa tô ở một nơi, vào một thời điểm. Nó phụ thuộc vào hoàn cảnh chung của xã hội (giàu hay nghèo, tiến lên, đứng yên hay suy thoái), vào tính chất từng nghề, và với địa tô thì vào độ màu mỡ của đất. Ví dụ ở Chương VI: lợi nhuận thông thường 10% một năm trên vốn. Khái niệm này là viên gạch để định nghĩa giá tự nhiên.
+
+**Giá tự nhiên (natural price).** Giá vừa đủ để trả địa tô, lương và lợi nhuận theo tỷ suất tự nhiên cho mọi người tham gia trồng, chế tạo và đưa hàng ra chợ. Ví dụ minh hoạ (con số tự đặt): nếu làm và chở một tấm vải tốn 6 shilling tiền lương, 2 shilling địa tô (qua giá len), và lợi nhuận thông thường trên vốn ứng ra là 2 shilling, thì giá tự nhiên của tấm vải là 10 shilling. Đây là "giá trung tâm" mà Smith nói giá thị trường luôn bị kéo về.
+
+**Giá thị trường (market price).** Giá thực tế mà hàng thường được bán vào một lúc. Nó có thể cao hơn, thấp hơn hoặc bằng giá tự nhiên. Ví dụ trong chương: khi thành phố bị vây hay có nạn đói, giá đồ thiết yếu vượt xa giá tự nhiên. Cần phân biệt chữ "giá thực tế" ở đây (*actual price*) với "giá thực" (*real price*, tính bằng lao động) của Chương V.
+
+**Cầu hữu hiệu và cầu tuyệt đối (effectual demand, absolute demand).** Cầu hữu hiệu là cầu của những người sẵn sàng trả đủ giá tự nhiên; nó đủ để khiến người ta đưa hàng ra chợ. Cầu tuyệt đối chỉ là mong muốn có món hàng. Ví dụ của Smith: một người rất nghèo có thể mong có một cỗ xe sáu ngựa, nhưng mong muốn ấy không bao giờ khiến ai đưa xe ra chợ cho anh ta. Khái niệm này cho thấy giá phụ thuộc vào sức mua thật, không vào ao ước.
+
+**Chi phí cơ hội.** Thứ tốt nhất mà ta bỏ qua khi chọn dùng nguồn lực vào một việc. Smith dùng ý này để nói rằng lợi nhuận thông thường là một phần chi phí: nếu người bán không thu được lợi nhuận ấy thì anh ta lỗ, vì đem vốn làm việc khác thì đã có. Ví dụ minh hoạ (con số tự đặt): một người buôn có 1.000 bảng vốn, nếu cho vay hay đầu tư nơi khác được 100 bảng một năm, thì bán hàng chỉ hoà vốn là anh ta đã mất 100 bảng.
+
+**Tự do hoàn toàn (perfect liberty) và gia nhập, rút lui.** Điều kiện mà ở đó người có đất, lao động hay vốn có thể tự do chuyển từ ngành này sang ngành khác. Ví dụ trong chương: khi một ngành trả lương dưới mức thông thường, người lao động bỏ sang nghề khác; khi một ngành lãi trên mức thông thường, chủ vốn khác đổ vốn vào. Đây là động cơ kéo giá thị trường về giá tự nhiên, và Smith luôn kèm điều kiện "ít nhất ở nơi có tự do hoàn toàn".
+
+**Giá độc quyền (price of monopoly).** Giá mà người bán duy nhất, hoặc nhóm người được bảo vệ khỏi cạnh tranh, có thể đặt bằng cách giữ thị trường luôn thiếu hàng. Smith gọi nó là "giá cao nhất có thể lấy được", đối lập với giá tự nhiên là "giá thấp nhất có thể nhận trong một thời gian dài". Khái niệm này là nền cho phê phán của Smith với độc quyền, phường hội và chính sách trọng thương.
+
+**Địa tô do khan hiếm tự nhiên.** Phần giá vượt trên mức đủ trả lương và lợi nhuận thông thường, khi sản phẩm cần loại đất hay vị trí đặc biệt mà cả nước không có đủ. Ví dụ trong chương: tiền thuê một số vườn nho ở Pháp có đất và vị trí đặc biệt cao hơn hẳn đất tốt ngay bên cạnh. Smith dùng nó để chỉ ra rằng phần lợi nhờ khan hiếm chảy về chủ đất, không về người làm hay người bỏ vốn.
+
+## Nội dung chi tiết
 
 ### 1. Tỷ suất tự nhiên và giá tự nhiên
 
-- Mỗi xã hội có một tỷ suất thông thường hay trung bình của tiền lương và lợi nhuận trong mỗi cách dùng lao động và vốn. Tỷ suất này được điều chỉnh một phần bởi hoàn cảnh chung của xã hội (giàu hay nghèo, tiến lên, đứng yên hay suy thoái), một phần bởi tính chất riêng của mỗi nghề.
-- Mỗi xã hội cũng có một tỷ suất thông thường của địa tô, điều chỉnh một phần bởi hoàn cảnh chung của xã hội nơi có đất, một phần bởi độ màu mỡ tự nhiên hay nhân tạo của đất.
-- Các tỷ suất thông thường này có thể gọi là tỷ suất tự nhiên của lương, lợi nhuận và địa tô ở thời gian và nơi mà chúng phổ biến.
-- Khi giá một hàng hoá không cao hơn cũng không thấp hơn mức đủ trả địa tô, lương và lợi nhuận theo tỷ suất tự nhiên để trồng, chế tạo và đưa hàng ra chợ, hàng được bán theo giá tự nhiên.
-- Hàng khi đó được bán đúng giá trị của nó, đúng cái nó thực sự tốn cho người đưa nó ra chợ. Trong ngôn ngữ thông thường, "giá vốn" không gồm lợi nhuận của người bán lại; nhưng nếu bán ở giá không cho lợi nhuận thông thường ở vùng đó, anh ta rõ ràng lỗ, vì dùng vốn vào việc khác thì đã có lợi nhuận ấy. Hơn nữa, lợi nhuận là thu nhập của anh ta, nguồn sống của anh ta. Trong khi chuẩn bị và đưa hàng ra chợ, anh ta ứng trước lương cho thợ, và cũng ứng trước cho chính mình đồ sinh sống, thường tương xứng với lợi nhuận anh ta có thể trông đợi. Nếu hàng không đem lại lợi nhuận ấy thì chưa hoàn lại cho anh ta cái thực sự đã tốn.
-- Vì vậy giá đem lại lợi nhuận này không phải luôn là giá thấp nhất mà người buôn đôi khi bán, nhưng là giá thấp nhất anh ta có thể bán trong một thời gian đáng kể, ít nhất ở nơi có tự do hoàn toàn, nơi anh ta có thể đổi nghề tuỳ ý.
+Smith bắt đầu bằng việc nối hai chương trước. Chương VI đã chia giá thành ba phần; chương này hỏi mỗi phần thường được trả ở mức nào.
+
+Theo Smith, mỗi xã hội, hay mỗi vùng, có một **tỷ suất thông thường hay trung bình** cho từng loại thu nhập:
+
+| Thu nhập | Tỷ suất thông thường phụ thuộc vào |
+|---|---|
+| Tiền lương và lợi nhuận, trong mỗi cách dùng lao động và vốn | Một phần là hoàn cảnh chung của xã hội (giàu hay nghèo; tiến lên, đứng yên hay suy thoái), một phần là tính chất riêng của từng nghề |
+| Địa tô | Một phần là hoàn cảnh chung của xã hội nơi có đất, một phần là độ màu mỡ tự nhiên hay nhân tạo của đất |
+
+Các tỷ suất thông thường ấy có thể gọi là **tỷ suất tự nhiên** của lương, lợi nhuận và địa tô ở thời gian và nơi mà chúng phổ biến.
+
+Khi giá của một hàng hoá không cao hơn, cũng không thấp hơn, mức vừa đủ để trả địa tô, lương và lợi nhuận theo tỷ suất tự nhiên cho việc trồng, chế tạo và đưa hàng ra chợ, thì hàng được bán theo **giá tự nhiên**. Khi đó, theo Smith, hàng được bán "đúng giá trị" của nó, đúng cái nó thực sự tốn cho người đưa nó ra chợ.
+
+Smith giải thích vì sao lợi nhuận phải được tính vào "cái thực sự tốn", dù trong cách nói thông thường, "giá vốn" của một món hàng không gồm lợi nhuận của người bán lại:
+
+- **Chi phí cơ hội.** Nếu người bán bán ở giá không đem lại lợi nhuận thông thường ở vùng đó, anh ta rõ ràng bị lỗ, vì nếu dùng vốn vào một việc khác thì đã có lợi nhuận ấy.
+- **Nguồn sống.** Lợi nhuận là thu nhập của người bán, là nguồn sống của anh ta. Trong khi chuẩn bị và đưa hàng ra chợ, anh ta ứng trước lương cho thợ, và cũng ứng trước cho chính mình đồ sinh sống, thường tương xứng với lợi nhuận mà anh ta có thể trông đợi khi bán hàng. Nếu hàng không đem lại lợi nhuận ấy thì chưa hoàn lại cho anh ta cái anh ta thực sự đã bỏ ra.
+
+Vì vậy, giá đem lại lợi nhuận thông thường không phải luôn là giá thấp nhất mà người buôn **đôi khi** bán; có lúc anh ta phải bán rẻ hơn. Nhưng đó là giá thấp nhất mà anh ta có thể bán **trong một thời gian đáng kể**, ít nhất ở nơi có tự do hoàn toàn, nơi anh ta có thể đổi nghề tuỳ ý. Nếu bị ép bán dưới mức đó lâu dài, anh ta sẽ bỏ nghề.
 
 ### 2. Giá thị trường và cầu hữu hiệu
 
-- Giá thực tế mà hàng thường được bán gọi là giá thị trường. Nó có thể trên, dưới hay đúng bằng giá tự nhiên.
-- Giá thị trường của mỗi hàng hoá do tỷ lệ giữa lượng hàng thực sự được đưa ra chợ và cầu của những người sẵn sàng trả giá tự nhiên (toàn bộ địa tô, lương và lợi nhuận cần để đưa hàng ra chợ) quyết định. Những người này gọi là người có cầu hữu hiệu, và cầu của họ là cầu hữu hiệu, vì nó đủ để làm cho hàng được đưa ra chợ.
-- Cầu hữu hiệu khác cầu tuyệt đối. Một người rất nghèo, theo một nghĩa nào đó, có thể có cầu đối với một cỗ xe sáu ngựa; anh ta có thể thích có nó; nhưng cầu ấy không hữu hiệu, vì hàng đó sẽ không bao giờ được đưa ra chợ để thoả mãn nó.
+Giá thực tế mà một hàng hoá thường được bán gọi là **giá thị trường**. Nó có thể cao hơn, thấp hơn hoặc đúng bằng giá tự nhiên.
+
+Giá thị trường của mỗi hàng hoá được quyết định bởi tỷ lệ giữa hai đại lượng:
+
+- **Lượng hàng thực sự được đưa ra chợ.**
+- **Cầu của những người sẵn sàng trả giá tự nhiên**, tức sẵn sàng trả toàn bộ địa tô, lương và lợi nhuận cần thiết để đưa hàng ra chợ.
+
+Smith gọi những người sau là người có **cầu hữu hiệu**, và cầu của họ là cầu hữu hiệu, vì nó đủ để làm cho hàng được đưa ra chợ.
+
+Cầu hữu hiệu khác **cầu tuyệt đối**. Ví dụ của Smith: một người rất nghèo, theo một nghĩa nào đó, có thể có cầu đối với một cỗ xe sáu ngựa; anh ta có thể thích có nó. Nhưng cầu ấy không hữu hiệu, vì hàng đó sẽ không bao giờ được đưa ra chợ để thoả mãn mong muốn của anh ta. Tức là đối với giá cả, chỉ mong muốn có kèm khả năng trả đủ giá mới được tính.
 
 ### 3. Ba trường hợp
 
-- Khi lượng đưa ra chợ thiếu so với cầu hữu hiệu, không phải ai sẵn sàng trả giá tự nhiên cũng mua được. Một số người thà trả nhiều hơn còn hơn không có gì. Cạnh tranh giữa họ đẩy giá thị trường lên trên giá tự nhiên, nhiều hay ít tuỳ mức thiếu và tuỳ sự giàu có, sự hoang phí của những người cạnh tranh. Giữa những người giàu như nhau, mức cạnh tranh tuỳ món hàng quan trọng với họ đến đâu. Vì thế đồ thiết yếu cực đắt khi thành phố bị vây hay có nạn đói.
-- Khi lượng đưa ra chợ vượt cầu hữu hiệu, không thể bán hết cho những người sẵn sàng trả đủ giá tự nhiên. Một phần phải bán cho người trả ít hơn, và giá thấp họ trả kéo giá của toàn bộ xuống. Giá thị trường tụt dưới giá tự nhiên nhiều hay ít tuỳ lượng thừa làm cạnh tranh giữa người bán tăng đến đâu, và tuỳ người bán cần thoát hàng ngay đến đâu. Nhập thừa hàng dễ hỏng gây cạnh tranh mạnh hơn nhiều so với hàng bền: nhập thừa cam so với nhập thừa sắt vụn.
-- Khi lượng đưa ra chợ vừa đủ cầu hữu hiệu, giá thị trường tự nhiên bằng hoặc gần bằng giá tự nhiên. Toàn bộ lượng hàng có thể bán ở giá này và không thể bán cao hơn. Cạnh tranh giữa người bán buộc họ chấp nhận giá này nhưng không buộc họ nhận thấp hơn.
+So sánh lượng hàng đưa ra chợ với cầu hữu hiệu cho ra ba trường hợp:
+
+| Trường hợp | Ai cạnh tranh với ai | Giá thị trường | Mức lệch tuỳ vào |
+|---|---|---|---|
+| Lượng đưa ra **ít hơn** cầu hữu hiệu | Người mua cạnh tranh với nhau | Trên giá tự nhiên | Mức thiếu hàng; sự giàu có và sự hoang phí của người mua; món hàng quan trọng với họ đến đâu |
+| Lượng đưa ra **nhiều hơn** cầu hữu hiệu | Người bán cạnh tranh với nhau | Dưới giá tự nhiên | Mức thừa hàng; người bán cần thoát hàng ngay đến đâu |
+| Lượng đưa ra **vừa bằng** cầu hữu hiệu | Cạnh tranh cân bằng | Bằng hoặc gần bằng giá tự nhiên | |
+
+**Trường hợp thiếu hàng.** Không phải ai sẵn sàng trả giá tự nhiên cũng mua được lượng mình muốn. Thay vì không có gì, một số người thà trả nhiều hơn. Cạnh tranh giữa họ đẩy giá thị trường lên trên giá tự nhiên. Giữa những người giàu ngang nhau, mức cạnh tranh tuỳ vào món hàng quan trọng với họ đến đâu. Vì thế, khi một thành phố bị vây hay khi có nạn đói, giá đồ thiết yếu lên cực cao: thứ bị thiếu là thứ không ai nhịn được.
+
+**Trường hợp thừa hàng.** Không thể bán hết hàng cho những người sẵn sàng trả đủ giá tự nhiên. Một phần phải bán cho người chỉ trả thấp hơn, và giá thấp mà họ trả kéo giá của toàn bộ lượng hàng xuống. Giá thị trường tụt dưới giá tự nhiên nhiều hay ít tuỳ lượng thừa làm cạnh tranh giữa người bán gay gắt đến đâu, và tuỳ người bán cần thoát hàng ngay đến đâu. Smith so sánh: nhập thừa hàng dễ hỏng như **cam** gây cạnh tranh mạnh hơn nhiều so với nhập thừa hàng bền như **sắt vụn**, vì người có sắt vụn có thể chờ, còn người có cam thì không.
+
+**Trường hợp vừa đủ.** Giá thị trường tự nhiên sẽ bằng hoặc gần bằng giá tự nhiên. Toàn bộ lượng hàng bán được ở giá này và không bán được ở giá cao hơn. Cạnh tranh giữa những người bán buộc họ chấp nhận giá này, nhưng không buộc họ nhận thấp hơn.
 
 ### 4. Lượng cung tự điều chỉnh và giá tự nhiên là giá trung tâm
 
-- Lượng mỗi hàng hoá đưa ra chợ tự nhiên điều chỉnh theo cầu hữu hiệu. Những người dùng đất, lao động hay vốn để đưa hàng ra chợ có lợi ích ở chỗ lượng hàng không bao giờ vượt cầu hữu hiệu; mọi người khác có lợi ích ở chỗ nó không bao giờ thiếu.
-- Nếu có lúc lượng hàng vượt cầu hữu hiệu, một số cấu phần của giá phải bị trả dưới tỷ suất tự nhiên. Nếu là địa tô, lợi ích của địa chủ sẽ thúc họ rút một phần đất ra; nếu là lương hay lợi nhuận, lợi ích của người lao động hay của chủ sẽ thúc họ rút lao động hay vốn ra. Lượng hàng sớm giảm về vừa đủ cầu hữu hiệu; các cấu phần tăng về tỷ suất tự nhiên và giá toàn phần trở về giá tự nhiên.
-- Nếu ngược lại lượng hàng thiếu, một số cấu phần sẽ tăng trên tỷ suất tự nhiên. Nếu là địa tô, lợi ích của các địa chủ khác sẽ thúc họ chuẩn bị thêm đất để trồng hàng ấy; nếu là lương hay lợi nhuận, lợi ích của mọi người lao động và người buôn khác sẽ thúc họ đưa thêm lao động và vốn vào. Lượng hàng sớm đủ cầu hữu hiệu; các cấu phần về tỷ suất tự nhiên, giá về giá tự nhiên.
-- Vì vậy giá tự nhiên là giá trung tâm mà giá mọi hàng hoá liên tục bị hút về. Các tai biến có thể giữ giá lơ lửng trên nó khá cao, có lúc đẩy giá xuống hơi dưới nó. Nhưng dù trở ngại nào ngăn giá dừng lại ở trung tâm ổn định ấy, giá luôn hướng về nó.
-- Toàn bộ lượng lao động dùng hằng năm để đưa một hàng hoá ra chợ tự nhiên điều chỉnh theo cầu hữu hiệu, nhắm đưa đúng lượng vừa đủ, không hơn.
+Lượng mỗi hàng hoá được đưa ra chợ tự nhiên điều chỉnh theo cầu hữu hiệu. Lý do là hai phía có lợi ích ngược nhau, và cả hai đều đẩy lượng cung về đúng mức:
+
+- **Những người dùng đất, lao động hay vốn để đưa hàng ra chợ** có lợi ích ở chỗ lượng hàng không bao giờ vượt cầu hữu hiệu (thừa thì giá xuống).
+- **Mọi người khác**, tức người mua, có lợi ích ở chỗ lượng hàng không bao giờ thiếu so với cầu hữu hiệu (thiếu thì giá lên).
+
+Cơ chế cụ thể đi qua ba cấu phần của giá:
+
+| Tình huống | Hệ quả với các cấu phần | Phản ứng | Kết quả |
+|---|---|---|---|
+| Lượng hàng **vượt** cầu hữu hiệu, giá dưới giá tự nhiên | Một số cấu phần bị trả dưới tỷ suất tự nhiên | Nếu là địa tô, địa chủ rút một phần đất ra; nếu là lương, người lao động rút lao động ra; nếu là lợi nhuận, chủ rút vốn ra | Lượng hàng sớm giảm về mức cầu hữu hiệu; các cấu phần lên lại tỷ suất tự nhiên; giá về giá tự nhiên |
+| Lượng hàng **thiếu** so với cầu hữu hiệu, giá trên giá tự nhiên | Một số cấu phần được trả trên tỷ suất tự nhiên | Nếu là địa tô, các địa chủ khác chuẩn bị thêm đất để trồng hàng ấy; nếu là lương hay lợi nhuận, người lao động và người buôn khác đưa thêm lao động và vốn vào | Lượng hàng sớm đủ cầu hữu hiệu; các cấu phần về tỷ suất tự nhiên; giá về giá tự nhiên |
+
+Từ đó Smith đưa ra câu trung tâm của chương: "giá tự nhiên là giá trung tâm mà tất cả các giá hàng hóa luôn luôn hướng về đó". Các tai biến khác nhau có lúc giữ giá lơ lửng khá cao trên giá tự nhiên, có lúc đẩy nó xuống hơi dưới. Nhưng dù trở ngại nào ngăn giá dừng lại ở trung tâm ổn định ấy, giá vẫn luôn hướng về nó. Smith không nói giá thị trường luôn **bằng** giá tự nhiên, mà nói nó **dao động quanh** giá tự nhiên.
+
+Cũng vậy, toàn bộ lượng lao động dùng hằng năm để đưa một hàng hoá ra chợ tự nhiên điều chỉnh theo cầu hữu hiệu: xã hội có xu hướng đưa ra đúng lượng hàng vừa đủ đáp ứng cầu ấy, không hơn.
 
 ### 5. Ngành bấp bênh và ngành ổn định
 
-- Ở một số ngành, cùng một lượng lao động cho sản lượng rất khác nhau giữa các năm; ở các ngành khác, cho sản lượng gần như như nhau. Cùng số người làm nông sẽ cho lượng ngũ cốc, rượu vang, dầu, hoa bia… rất khác nhau trong các năm khác nhau. Nhưng cùng số thợ sợi và thợ dệt sẽ cho lượng vải lanh, vải len gần như như nhau mỗi năm.
-- Với ngành bấp bênh, chỉ sản lượng trung bình mới khớp với cầu hữu hiệu; sản lượng thực tế khi vượt xa, khi thiếu xa. Vì vậy dù cầu không đổi, giá thị trường vẫn dao động mạnh, khi trên khi dưới giá tự nhiên khá nhiều. Với ngành ổn định, lượng đưa ra chợ khớp cầu hữu hiệu gần hơn, nên khi cầu không đổi thì giá thị trường gần như giữ nguyên ở mức giá tự nhiên. Giá loại hàng thứ hai chỉ đổi theo cầu; giá loại hàng thứ nhất đổi theo cả cầu lẫn những biến động lớn hơn và thường xuyên hơn nhiều về lượng hàng đưa ra chợ.
+Smith phân biệt hai loại ngành theo mức ổn định của sản lượng:
+
+| | Ngành bấp bênh | Ngành ổn định |
+|---|---|---|
+| Ví dụ | Nông nghiệp: ngũ cốc, rượu vang, dầu, hoa bia | Dệt: vải lanh, vải len |
+| Cùng một lượng lao động cho ra | Sản lượng rất khác nhau giữa các năm (tuỳ thời tiết, mùa vụ) | Sản lượng gần như như nhau mỗi năm |
+| Lượng đưa ra chợ so với cầu hữu hiệu | Chỉ sản lượng **trung bình** khớp với cầu; năm thực tế khi vượt xa, khi thiếu xa | Khớp gần hơn nhiều |
+| Giá thị trường khi cầu không đổi | Vẫn dao động mạnh, khi trên khi dưới giá tự nhiên khá nhiều | Gần như giữ nguyên ở giá tự nhiên |
+| Giá thay đổi theo | Cả cầu lẫn những biến động lớn và thường xuyên của lượng cung | Chỉ theo cầu |
+
+Ý chính: cùng một cơ chế kéo về giá tự nhiên, nhưng ở ngành mà con người không kiểm soát được sản lượng, giá dao động nhiều hơn hẳn, kể cả khi không có gì thay đổi về phía người mua.
+
+**Ví dụ hôm nay** (minh hoạ chung). Giá rau ở chợ thường nhảy mạnh sau một đợt mưa bão làm hỏng mùa, dù người ta vẫn ăn rau như cũ; còn giá một chiếc áo sơ mi may công nghiệp thì gần như không đổi từ tháng này sang tháng khác, trừ khi chi phí hay nhu cầu đổi.
 
 ### 6. Biến động tạm thời rơi lên lương và lợi nhuận
 
-- Biến động thỉnh thoảng và tạm thời của giá thị trường chủ yếu rơi lên phần giá thuộc về lương và lợi nhuận; phần thuộc về địa tô ít bị ảnh hưởng hơn. Địa tô cố định bằng tiền không bị ảnh hưởng chút nào, cả về tỷ suất lẫn giá trị. Địa tô bằng một tỷ lệ hay một lượng nông sản thì giá trị hằng năm của nó chịu mọi biến động tạm thời của giá nông sản, nhưng tỷ suất hằng năm thì hiếm khi đổi: khi ký hợp đồng thuê, địa chủ và chủ trại cố gắng đặt tỷ suất theo giá trung bình, thông thường của nông sản, không theo giá tạm thời.
-- Những biến động ấy ảnh hưởng cả giá trị lẫn tỷ suất của lương hay lợi nhuận, tuỳ thị trường đang thừa hay thiếu hàng hoá hay lao động, tức hàng đã làm sẵn hay việc cần làm.
-- Ví dụ quốc tang. Giá vải đen tăng, vì thị trường hầu như luôn thiếu nó trong dịp ấy, và lợi nhuận của thương nhân có nhiều vải đen trong kho tăng. Lương thợ dệt không đổi: thị trường thiếu hàng, không thiếu lao động; thiếu hàng đã làm sẵn, không thiếu việc cần làm. Lương thợ may công nhật tăng, vì ở đây thị trường thiếu lao động: có cầu hữu hiệu cho nhiều lao động hơn, nhiều việc hơn số có thể có. Giá lụa và vải màu giảm, làm giảm lợi nhuận của thương nhân đang có nhiều hàng ấy. Lương thợ làm hàng màu cũng giảm, vì mọi cầu với chúng ngừng sáu tháng, có khi một năm. Ở đây thị trường thừa cả hàng lẫn lao động.
+Những biến động thỉnh thoảng và tạm thời của giá thị trường rơi chủ yếu lên phần giá thuộc về **lương và lợi nhuận**. Phần thuộc về **địa tô** ít bị ảnh hưởng hơn, vì cách địa tô được ấn định:
+
+- **Địa tô cố định bằng tiền** không bị ảnh hưởng chút nào, cả về tỷ suất lẫn giá trị: chủ đất nhận đúng số tiền đã thoả thuận, dù năm đó giá nông sản lên hay xuống.
+- **Địa tô bằng một tỷ lệ hay một lượng nông sản** thì giá trị hằng năm của nó dao động theo mọi biến động tạm thời của giá nông sản. Nhưng tỷ suất hằng năm của nó hiếm khi đổi, vì khi ký hợp đồng thuê, địa chủ và chủ trại cố đặt tỷ suất theo giá **trung bình**, thông thường của nông sản, không theo giá tạm thời.
+
+Ngược lại, biến động tạm thời ảnh hưởng cả giá trị lẫn tỷ suất của lương hoặc lợi nhuận. Phần nào bị ảnh hưởng tuỳ thị trường đang thừa hay thiếu **hàng hoá** (hàng đã làm sẵn) hay **lao động** (việc cần làm).
+
+Smith minh hoạ bằng một dịp **quốc tang**, khi cả nước đột ngột cần đồ tang màu đen và ngừng mua đồ màu:
+
+| Đối tượng | Điều xảy ra | Vì sao |
+|---|---|---|
+| Vải đen | Giá tăng; lợi nhuận của thương nhân có nhiều vải đen trong kho tăng | Thị trường hầu như luôn thiếu vải đen trong dịp ấy |
+| Thợ dệt | Lương không đổi | Thị trường thiếu **hàng** (vải đã dệt sẵn), không thiếu **lao động**; thiếu hàng làm sẵn, không thiếu việc cần làm |
+| Thợ may công nhật | Lương tăng | Thị trường thiếu **lao động**: có cầu hữu hiệu cho nhiều việc hơn số thợ làm được |
+| Lụa và vải màu | Giá giảm; lợi nhuận của thương nhân đang có nhiều hàng này giảm | Cầu đột ngột ngừng |
+| Thợ làm hàng màu | Lương giảm | Mọi cầu với hàng màu ngừng trong 6 tháng, có khi 1 năm; thị trường thừa cả hàng lẫn lao động |
+
+Ví dụ này cho thấy một cú sốc cầu duy nhất có thể làm lợi nhuận người này tăng, lương người kia tăng, lương người thứ ba đứng yên và lương người thứ tư giảm, tuỳ chỗ nào trong chuỗi bị thiếu hay thừa.
 
 ### 7. Ba nguyên nhân giữ giá trên giá tự nhiên lâu dài
 
-- Dù giá thị trường của mỗi hàng hoá liên tục hướng về giá tự nhiên, đôi khi các sự cố đặc biệt, đôi khi các nguyên nhân tự nhiên, đôi khi các quy định của nhà nước có thể, với nhiều hàng hoá, giữ giá thị trường khá cao trên giá tự nhiên trong một thời gian dài.
-- **Sự cố đặc biệt: bí mật thương mại.** Khi cầu hữu hiệu tăng làm giá một hàng hoá lên khá cao trên giá tự nhiên, những người dùng vốn cung cấp cho thị trường ấy thường cẩn thận che giấu thay đổi này. Nếu ai cũng biết, lợi nhuận lớn sẽ lôi kéo nhiều đối thủ mới đưa vốn vào, cầu hữu hiệu sẽ được đáp ứng đầy đủ, giá thị trường sẽ sớm về giá tự nhiên, có khi một thời gian còn xuống dưới. Nếu thị trường ở xa nơi ở của người cung, bí mật có thể giữ vài năm và họ hưởng lợi nhuận đặc biệt mà không có đối thủ. Nhưng bí mật loại này hiếm khi giữ được lâu, và lợi nhuận đặc biệt chỉ kéo dài hơn thời gian giữ bí mật một chút.
-- **Bí mật sản xuất** giữ được lâu hơn bí mật thương mại. Một thợ nhuộm tìm ra cách làm một màu với nguyên liệu chỉ tốn một nửa giá nguyên liệu thường dùng có thể, nếu khéo giữ, hưởng lợi suốt đời và để lại cho con cháu. Khoản lời đặc biệt của ông đến từ giá cao trả cho lao động riêng của ông; thực chất là tiền công cao cho lao động ấy. Nhưng vì nó lặp lại trên mọi phần vốn của ông và tổng của nó tỷ lệ đều với vốn, nó thường được coi là lợi nhuận đặc biệt của vốn.
-- Những đợt tăng giá thị trường như vậy rõ ràng là kết quả của sự cố đặc biệt, dù tác động có thể kéo dài nhiều năm.
-- **Nguyên nhân tự nhiên.** Một số sản vật tự nhiên đòi hỏi đất và vị trí đặc biệt đến mức toàn bộ đất phù hợp trong một nước lớn cũng không đủ đáp ứng cầu hữu hiệu. Toàn bộ lượng đưa ra chợ có thể bán cho những người sẵn sàng trả cao hơn mức đủ trả địa tô, lương và lợi nhuận theo tỷ suất tự nhiên. Phần trả trên tỷ suất tự nhiên ở đây thường là địa tô. Địa tô của đất cho những sản vật hiếm và được ưa chuộng như vậy, như địa tô của một số vườn nho ở Pháp có đất và vị trí đặc biệt thuận lợi, không theo tỷ lệ nào với địa tô của đất màu mỡ và được chăm bón tốt như thế ở gần đó. Ngược lại, lương và lợi nhuận của lao động và vốn dùng để đưa các sản vật ấy ra chợ hiếm khi lệch khỏi tỷ lệ tự nhiên với lương và lợi nhuận ở vùng lân cận. Những đợt tăng giá do nguyên nhân tự nhiên này có thể kéo dài mãi.
-- **Quy định của nhà nước: độc quyền.** Một độc quyền trao cho một cá nhân hay một công ty thương mại có tác dụng như một bí mật thương mại hay sản xuất. Người độc quyền, bằng cách giữ thị trường luôn thiếu hàng, không bao giờ đáp ứng đầy đủ cầu hữu hiệu, bán hàng cao hơn nhiều so với giá tự nhiên và nâng thu nhập của mình, dù là lương hay lợi nhuận, cao hơn nhiều so với tỷ suất tự nhiên.
-- Giá độc quyền trong mọi trường hợp là giá cao nhất có thể lấy được. Giá tự nhiên, hay giá cạnh tranh tự do, ngược lại, là giá thấp nhất có thể nhận, không phải trong mọi trường hợp nhưng trong một thời gian dài. Cái thứ nhất là giá cao nhất có thể vắt từ người mua, hay mà người ta cho là họ sẽ chịu trả; cái thứ hai là giá thấp nhất người bán có thể nhận mà vẫn tiếp tục kinh doanh.
-- Đặc quyền riêng của các phường hội, luật học nghề và mọi luật hạn chế cạnh tranh trong một số ngành vào một nhóm người ít hơn mức lẽ ra có, cũng có cùng xu hướng như độc quyền, dù ở mức nhẹ hơn. Chúng là một loại độc quyền mở rộng, thường giữ giá thị trường của một số hàng trên giá tự nhiên trong nhiều thế hệ và giữ lương cùng lợi nhuận ở các ngành ấy hơi trên tỷ suất tự nhiên. Những đợt tăng giá như vậy có thể kéo dài chừng nào các quy định gây ra chúng còn tồn tại.
+Dù giá thị trường luôn hướng về giá tự nhiên, Smith thừa nhận có những lực có thể giữ giá thị trường khá cao **trên** giá tự nhiên trong một thời gian dài. Ông chia chúng thành ba loại: sự cố đặc biệt, nguyên nhân tự nhiên, và quy định của nhà nước.
+
+| Nguyên nhân | Cơ chế | Phần lợi thêm chảy về đâu | Kéo dài bao lâu |
+|---|---|---|---|
+| Bí mật thương mại | Che giấu việc cầu đã tăng | Lợi nhuận của người cung | Vài năm nếu thị trường ở xa; thường không lâu |
+| Bí mật sản xuất | Che giấu cách làm rẻ hơn | Thực chất là tiền công cao, nhưng được gọi là lợi nhuận | Có thể suốt đời, để lại cho con cháu |
+| Nguyên nhân tự nhiên | Đất và vị trí đặc biệt không đủ cho cầu | Địa tô | Có thể mãi mãi |
+| Độc quyền, phường hội, luật học nghề | Luật giữ thị trường thiếu hàng hay hạn chế số người vào nghề | Lương hoặc lợi nhuận của người được bảo vệ | Chừng nào quy định còn tồn tại |
+
+**Sự cố đặc biệt: bí mật thương mại.** Khi cầu hữu hiệu tăng làm giá một hàng hoá lên khá cao trên giá tự nhiên, những người dùng **vốn** của mình để cung cấp cho thị trường ấy thường cẩn thận che giấu thay đổi này. Lý do: nếu ai cũng biết, lợi nhuận lớn sẽ lôi kéo nhiều đối thủ mới đưa vốn vào; cầu hữu hiệu sẽ được đáp ứng đầy đủ; giá thị trường sẽ sớm về giá tự nhiên, có khi một thời gian còn xuống thấp hơn. Nếu thị trường ở xa nơi ở của người cung, bí mật có thể giữ được vài năm, và họ hưởng lợi nhuận đặc biệt mà không có đối thủ. Nhưng bí mật loại này hiếm khi giữ được lâu, và lợi nhuận đặc biệt chỉ kéo dài hơn thời gian giữ bí mật một chút.
+
+**Bí mật sản xuất** giữ được lâu hơn bí mật thương mại. Ví dụ của Smith: một thợ nhuộm tìm ra cách làm một màu nhuộm với nguyên liệu chỉ tốn một nửa giá nguyên liệu thường dùng. Nếu khéo giữ bí mật, ông có thể hưởng lợi suốt đời và để lại cho con cháu. Smith phân tích bản chất của khoản lời này: nó đến từ giá cao trả cho lao động riêng của ông (cái biết cách làm), nên thực chất là **tiền công cao**. Nhưng vì nó lặp lại trên mọi phần vốn của ông, và tổng của nó tỷ lệ đều với vốn, nên nó thường được coi là lợi nhuận đặc biệt của vốn. Những đợt tăng giá thị trường như vậy rõ ràng là kết quả của sự cố đặc biệt, dù tác động có thể kéo dài nhiều năm.
+
+**Nguyên nhân tự nhiên.** Một số sản vật tự nhiên đòi hỏi loại đất và vị trí đặc biệt đến mức toàn bộ đất phù hợp trong một nước lớn cũng không đủ để đáp ứng cầu hữu hiệu. Khi đó toàn bộ lượng đưa ra chợ có thể bán cho những người sẵn sàng trả cao hơn mức đủ trả địa tô, lương và lợi nhuận theo tỷ suất tự nhiên. Phần trả trên tỷ suất tự nhiên ở đây thường là **địa tô**. Ví dụ: tiền thuê của một số vườn nho ở Pháp có đất và vị trí đặc biệt thuận lợi không theo tỷ lệ nào với tiền thuê của những mảnh đất màu mỡ và được chăm bón tốt như thế ngay bên cạnh. Ngược lại, lương và lợi nhuận của lao động và vốn dùng để đưa loại rượu ấy ra chợ hiếm khi lệch khỏi mức thông thường ở vùng lân cận. Những đợt tăng giá do nguyên nhân tự nhiên có thể kéo dài mãi mãi, vì không ai tạo thêm được đất như thế.
+
+**Quy định của nhà nước: độc quyền.** Một độc quyền trao cho một cá nhân hay một công ty thương mại có tác dụng giống như một bí mật thương mại hay sản xuất. Người độc quyền giữ thị trường **luôn thiếu hàng**, không bao giờ đáp ứng đầy đủ cầu hữu hiệu. Nhờ đó họ bán hàng cao hơn nhiều so với giá tự nhiên, và nâng thu nhập của mình, dù là lương hay lợi nhuận, cao hơn nhiều so với tỷ suất tự nhiên.
+
+Smith so sánh hai loại giá:
+
+| | Giá độc quyền | Giá tự nhiên (giá cạnh tranh tự do) |
+|---|---|---|
+| Định nghĩa | Giá cao nhất có thể lấy được, trong mọi trường hợp | Giá thấp nhất có thể nhận, không phải trong mọi trường hợp nhưng trong một thời gian dài |
+| Giới hạn bởi | Mức cao nhất có thể "vắt" từ người mua, hay mức người ta cho là họ sẽ chịu trả | Mức thấp nhất người bán có thể nhận mà vẫn tiếp tục kinh doanh |
+
+**Phường hội và luật học nghề.** Đặc quyền riêng của các phường hội, luật học nghề, và mọi luật hạn chế cạnh tranh trong một số ngành vào một số người ít hơn mức lẽ ra có, cũng có cùng xu hướng như độc quyền, dù ở mức nhẹ hơn. Smith gọi chúng là "độc quyền mở rộng". Chúng thường giữ giá thị trường của một số hàng trên giá tự nhiên trong nhiều thế hệ, và giữ lương cùng lợi nhuận trong các ngành ấy hơi trên tỷ suất tự nhiên. Những đợt tăng giá như vậy có thể kéo dài chừng nào các quy định gây ra chúng còn tồn tại.
 
 ### 8. Bất đối xứng: giá hiếm khi bị giữ dưới giá tự nhiên lâu
 
-- Giá thị trường của một hàng hoá có thể ở trên giá tự nhiên lâu, nhưng hiếm khi ở dưới lâu. Cấu phần nào bị trả dưới tỷ suất tự nhiên thì người có quyền lợi bị ảnh hưởng sẽ cảm thấy ngay thiệt hại và rút ngay đất, lao động hay vốn ra, để lượng hàng sớm chỉ còn vừa đủ cầu hữu hiệu. Giá thị trường vì vậy sớm lên ngang giá tự nhiên. Điều này ít nhất đúng ở nơi có tự do hoàn toàn.
-- Chính các luật học nghề và luật phường hội, khi ngành thịnh, cho phép người thợ nâng lương khá cao trên tỷ suất tự nhiên, thì khi ngành suy đôi khi buộc anh ta hạ lương khá thấp dưới nó. Như trong trường hợp đầu chúng loại nhiều người khỏi nghề của anh ta, trong trường hợp sau chúng loại anh ta khỏi nhiều nghề khác.
-- Nhưng tác dụng hạ lương dưới tỷ suất tự nhiên kém bền hơn nhiều so với tác dụng nâng lương lên trên. Chiều nâng có thể kéo dài nhiều thế kỷ; chiều hạ chỉ kéo dài bằng đời của những người thợ được đào tạo khi ngành còn thịnh. Khi họ qua đời, số người được đào tạo cho nghề sau đó sẽ tự điều chỉnh theo cầu hữu hiệu.
-- Phải có một bộ máy cưỡng chế hung hãn như ở Ấn Độ hay Ai Cập cổ đại, nơi mỗi người bị nguyên tắc tôn giáo buộc theo nghề cha và đổi nghề bị coi là phạm thánh, thì mới có thể, trong bất kỳ nghề nào, giữ lương lao động hay lợi nhuận của vốn dưới tỷ suất tự nhiên qua nhiều thế hệ.
+Giá thị trường có thể ở **trên** giá tự nhiên lâu, nhưng hiếm khi ở **dưới** lâu. Lý do: cấu phần nào bị trả dưới tỷ suất tự nhiên thì người có quyền lợi bị ảnh hưởng cảm thấy ngay thiệt hại, và rút ngay đất, lao động hay vốn ra. Lượng hàng sớm giảm về mức vừa đủ cầu hữu hiệu, và giá thị trường sớm lên ngang giá tự nhiên. Điều này ít nhất đúng ở nơi có tự do hoàn toàn.
+
+Smith chỉ ra rằng chính các luật học nghề và luật phường hội tác động theo cả hai chiều, nhưng không cân:
+
+| Lúc ngành | Tác dụng của luật | Lương thợ | Kéo dài bao lâu |
+|---|---|---|---|
+| Thịnh | Loại nhiều người khác khỏi nghề của người thợ | Khá cao trên tỷ suất tự nhiên | Có thể nhiều thế kỷ |
+| Suy | Loại người thợ khỏi nhiều nghề khác (anh ta không được làm nghề mình chưa học) | Khá thấp dưới tỷ suất tự nhiên | Chỉ bằng đời những người thợ đã được đào tạo khi ngành còn thịnh |
+
+Khi những người thợ ấy qua đời, số người được đào tạo cho nghề đó sẽ tự điều chỉnh theo cầu hữu hiệu: thế hệ sau thấy nghề suy thì không học nữa. Như vậy chiều hạ lương kém bền hơn nhiều so với chiều nâng lương.
+
+Muốn giữ lương lao động hay lợi nhuận của vốn **dưới** tỷ suất tự nhiên qua nhiều thế hệ, phải có một bộ máy cưỡng chế hung hãn như ở Ấn Độ hay Ai Cập cổ đại. Ở đó, mỗi người bị nguyên tắc tôn giáo buộc phải theo nghề của cha, và đổi nghề bị coi là tội phạm thánh. Chỉ khi lối thoát ra khỏi nghề bị chặn hoàn toàn, cơ chế rút lui mới ngừng hoạt động.
 
 ### 9. Giá tự nhiên tự nó thay đổi và kế hoạch bốn chương tiếp
 
-- Giá tự nhiên tự nó thay đổi theo tỷ suất tự nhiên của các cấu phần lương, lợi nhuận và địa tô; mà ở mỗi xã hội, các tỷ suất này đổi theo hoàn cảnh: giàu hay nghèo, tiến lên, đứng yên hay suy thoái. Bốn chương tiếp sẽ giải thích những nguyên nhân ấy.
-- Thứ nhất (Chương VIII): những yếu tố quyết định tỷ suất tiền lương và chúng chịu ảnh hưởng thế nào của hoàn cảnh xã hội.
-- Thứ hai (Chương IX): những yếu tố quyết định tỷ suất lợi nhuận và chúng chịu ảnh hưởng thế nào của cùng các thay đổi ấy.
-- Thứ ba (Chương X): dù lương và lợi nhuận bằng tiền rất khác nhau giữa các nghề, vẫn có một tỷ lệ nhất định giữa chúng. Tỷ lệ này phụ thuộc một phần vào tính chất các nghề, một phần vào luật lệ và chính sách của xã hội, nhưng dường như ít phụ thuộc vào việc xã hội giàu hay nghèo, tiến hay lùi.
-- Thứ tư (Chương XI): những yếu tố quyết định địa tô, và nâng hay hạ giá thực của mọi sản vật của đất.
+Giá tự nhiên không cố định. Nó thay đổi theo tỷ suất tự nhiên của từng cấu phần: lương, lợi nhuận và địa tô. Mà ở mỗi xã hội, các tỷ suất này lại thay đổi theo hoàn cảnh: xã hội giàu hay nghèo, tiến lên, đứng yên hay suy thoái. Smith báo trước rằng bốn chương tiếp sẽ giải thích những nguyên nhân ấy:
+
+| Chương | Câu hỏi |
+|---|---|
+| Chương VIII | Những yếu tố nào quyết định tỷ suất tiền lương, và chúng chịu ảnh hưởng thế nào của hoàn cảnh xã hội |
+| Chương IX | Những yếu tố nào quyết định tỷ suất lợi nhuận, và chúng chịu ảnh hưởng thế nào của cùng các thay đổi ấy |
+| Chương X | Dù lương và lợi nhuận bằng tiền rất khác nhau giữa các nghề, vẫn có một tỷ lệ nhất định giữa chúng. Tỷ lệ này phụ thuộc một phần vào tính chất các nghề, một phần vào luật lệ và chính sách của xã hội, nhưng dường như ít phụ thuộc vào việc xã hội giàu hay nghèo, tiến hay lùi |
+| Chương XI | Những yếu tố nào quyết định địa tô, và nâng hay hạ giá thực của mọi sản vật của đất |
 
 ## Luận điểm kinh tế cốt lõi
 

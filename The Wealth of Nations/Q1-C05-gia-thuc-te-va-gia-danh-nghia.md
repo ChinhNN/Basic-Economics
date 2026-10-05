@@ -273,91 +273,222 @@
 2. **Vì sao không dùng vàng bạc làm thước đo dài hạn?** Vì giá trị của chúng thay đổi theo độ dồi dào của mỏ (mỏ châu Mỹ làm bạc mất khoảng 2/3 giá trị) và vì vua chúa liên tục giảm hàm lượng kim loại trong tiền. Tiền thuê cố định bằng tiền của các trường đại học Anh đã mất khoảng 3/4 giá trị so với phần trả bằng ngũ cốc.
 3. **Thực tế thì nên dùng thước đo nào?** Cùng thời cùng nơi thì tiền là đủ chính xác. Qua các thế kỷ thì ngũ cốc tốt hơn bạc. Giữa các năm thì bạc tốt hơn ngũ cốc. Và độ chính xác của tiền còn tuỳ việc đồng tiền đúc có còn đủ lượng kim loại chuẩn hay không.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Giá thực và giá danh nghĩa (real price, nominal price).** Giá danh nghĩa là giá tính bằng tiền: một ổ bánh giá 1 penny. Giá thực, theo Smith, là lượng lao động (hay lượng hàng thiết yếu) mà một vật mua được. Ví dụ trong chương: 6 shilling 8 penny thời Edward I và 1 bảng thời Smith có mệnh giá khác nhau nhưng chứa cùng lượng bạc ròng, nên Smith coi chúng là cùng một giá tiền. Toàn bộ chương xoay quanh việc không để con số danh nghĩa đánh lừa khi so sánh của cải qua thời gian và giữa các nơi.
+
+**Lao động chi phối được (labour commanded).** Lượng lao động của người khác mà một vật đem đổi có thể mua được. Ví dụ minh hoạ: nếu một tấm vải đổi được ba ngày công của thợ mộc, thì giá trị của tấm vải với người có nó là ba ngày công. Smith dùng nghĩa này để định nghĩa giàu nghèo: người giàu là người chi phối được nhiều lao động của người khác.
+
+**Thước đo giá trị bất biến.** Một cái thước chỉ đo được vật khác nếu độ dài của chính nó không đổi. Ví dụ của Smith: "một bộ chân", "một sải tay", "một nắm tay" khác nhau giữa người này với người khác nên không dùng làm thước chính xác được; vàng bạc cũng vậy vì giá trị của chúng thay đổi theo độ dồi dào của mỏ. Khái niệm này giải thích vì sao Smith đi tìm lao động, rồi ngũ cốc, thay cho tiền.
+
+**Trái quyền danh nghĩa và chỉ số hoá.** Trái quyền danh nghĩa là quyền được nhận một số tiền cố định trong tương lai (tiền thuê, khoản cho vay). Chỉ số hoá là ghi khoản đó theo một thứ giữ được sức mua, như ngũ cốc. Ví dụ trong chương: luật năm thứ 18 triều Elizabeth buộc 1/3 tiền thuê đất của các trường đại học phải ghi bằng ngũ cốc; về sau phần ngũ cốc này đem lại gần gấp đôi 2/3 phần ghi bằng tiền. Đây là bằng chứng chính của Smith rằng tiền là thước đo kém qua thời gian dài.
+
+**Bản vị và tiền pháp định (standard, legal tender).** Bản vị là kim loại mà một nước dùng làm thước đo giá trị và ghi sổ sách. Tiền pháp định là loại tiền mà chủ nợ buộc phải nhận khi được trả nợ. Ví dụ trong chương: ở Anh, bạc là kim loại bản vị; đồng guinea vàng được luật ấn định bằng 21 shilling bạc. Khái niệm này cần để hiểu nửa sau chương về quan hệ giữa vàng, bạc và đồng.
+
+**Giá đúc và giá thỏi (mint price, bullion price).** Giá đúc là số tiền sở đúc tiền trả cho một ounce kim loại chuẩn đem đến đúc; giá thỏi là giá vàng bạc chưa đúc trên thị trường. Ví dụ trong chương: giá đúc vàng ở Anh là 3 bảng 17 shilling 10,5 penny một ounce; trước cải cách tiền vàng, giá vàng thỏi thường lên tới 4 bảng. Khoảng cách giữa hai giá cho biết đồng tiền đang được định giá cao hay thấp so với lượng kim loại nó chứa.
+
+**Phí đúc tiền (seigniorage).** Khoản nhà nước giữ lại khi đúc kim loại thành tiền, khiến đồng tiền đáng giá hơn lượng kim loại trong nó một chút. Ví dụ trong chương: Pháp thu khoảng 8%, còn Anh không thu gì. Smith cho rằng một khoản phí nhỏ sẽ chặn việc nấu chảy và xuất khẩu tiền.
+
+**Ngang giá sức mua (purchasing power parity).** Ý tưởng rằng cùng một lượng tiền mua được lượng hàng khác nhau ở các nơi khác nhau, nên so sánh mức sống phải điều chỉnh theo sức mua. Ví dụ trong chương: nửa ounce bạc ở Quảng Châu có thể mua nhiều lao động hơn một ounce ở London. Smith dùng ví dụ này để chỉ ra rằng giá tiền đủ dùng cho người buôn bán, nhưng không đủ để so sánh của cải giữa các nơi.
+
+## Nội dung chi tiết
 
 ### 1. Của cải là quyền chi phối lao động của người khác
 
-- Một người giàu hay nghèo tuỳ mức người đó được hưởng những thứ cần dùng, tiện nghi và tiêu khiển. Sau khi có phân công lao động, mỗi người chỉ tự làm ra một phần rất nhỏ những thứ ấy; phần lớn do lao động của người khác cung cấp. Vậy giàu hay nghèo là tuỳ lượng lao động của người khác mà mình chiếm dụng hay mua được.
-- Một người có hàng do mình làm ra mà muốn đổi lấy thứ khác thì giá trị số hàng đó với anh ta bằng lượng lao động nó giúp anh ta mua được. Kết luận: lao động là thước đo thực của giá trị trao đổi của mọi hàng hoá.
-- Giá thực của mọi vật, cái mà nó thực sự đòi người muốn có nó phải trả, là công sức cực nhọc để có được nó. Với người đã có và muốn đổi nó đi, giá trị của nó là công sức nó tiết kiệm cho chính người ấy và có thể bắt người khác bỏ ra.
-- Tiền hay hàng tiết kiệm cho ta công sức đó; chúng chứa giá trị của một lượng lao động, được đổi lấy thứ chứa lượng lao động tương đương. Lao động là "cái giá đầu tiên, là tiền mua ban đầu" của mọi thứ.
-- Smith chỉnh lại câu của Hobbes "của cải là quyền lực": tài sản lớn không tự động đem lại quyền lực chính trị hay quân sự. Quyền lực trực tiếp duy nhất của nó là quyền mua, chi phối lao động và sản phẩm lao động trên thị trường, và của cải lớn hay nhỏ đúng bằng mức quyền lực này.
+Smith mở chương bằng câu hỏi giàu là gì. Một người giàu hay nghèo tuỳ theo mức người đó được hưởng những thứ cần dùng, những tiện nghi và những thú tiêu khiển. Khi phân công lao động đã hình thành, mỗi người chỉ tự làm ra một phần rất nhỏ những thứ ấy; phần lớn phải do lao động của người khác cung cấp. Vì vậy, giàu hay nghèo thực chất là tuỳ vào **lượng lao động của người khác** mà mình mua được hay chi phối được.
+
+Từ đó Smith suy ra: một người có hàng do mình làm ra mà muốn đổi lấy thứ khác, thì giá trị của số hàng đó với anh ta bằng lượng lao động mà nó giúp anh ta mua được. Kết luận của bước này là **lao động là thước đo thực của giá trị trao đổi** của mọi hàng hoá.
+
+Smith nhìn cùng một ý từ hai phía:
+
+- Với người **muốn có** một vật, giá thực của nó là "công việc cực nhọc và mọi điều phiền muộn" (*toil and trouble*) để có được nó.
+- Với người **đã có** vật đó và muốn đổi đi, giá trị của nó là công sức mà nó **tiết kiệm** cho chính người ấy và có thể buộc người khác bỏ ra.
+
+Tiền hay hàng tiết kiệm cho ta công sức đó: chúng chứa giá trị của một lượng lao động, và được đổi lấy những thứ được cho là chứa lượng lao động tương đương. Smith viết: lao động là "cái giá đầu tiên, là tiền mua ban đầu" của mọi thứ; mọi của cải trên thế giới lúc đầu được mua bằng lao động, không phải bằng vàng hay bạc.
+
+Smith cũng chỉnh lại câu nổi tiếng của Hobbes, "của cải là quyền lực". Một tài sản lớn không tự động đem lại quyền lực chính trị hay quân sự; nó có thể là phương tiện để giành quyền lực ấy, nhưng chỉ sở hữu tài sản thì chưa đủ. Quyền lực trực tiếp duy nhất mà của cải đem lại là **quyền mua**, quyền chi phối lao động và sản phẩm lao động đang có trên thị trường. Của cải lớn hay nhỏ đúng bằng mức quyền lực này.
 
 ### 2. Vì sao trên thực tế giá trị không được tính bằng lao động
 
-- Khó so sánh hai lượng lao động. Thời gian thôi không đủ: phải tính độ khó nhọc và tài khéo léo. Một giờ việc nặng có thể chứa nhiều lao động hơn hai giờ việc nhẹ; một giờ trong nghề phải học mười năm hơn một tháng trong nghề thường. Không có thước đo chính xác cho hai yếu tố này; người ta tự điều chỉnh "thông qua sự mặc cả và thương lượng ở thị trường", một thứ "công bằng thô thiển" nhưng đủ dùng.
-- Hàng thường được đổi lấy hàng hơn là lấy lao động. Một lượng hàng thì cụ thể, dễ thấy; một lượng lao động là khái niệm trừu tượng.
-- Khi tiền thành phương tiện trao đổi chung, người bán thịt không mang thịt đến nhà người làm bánh hay nấu bia nữa mà mang ra chợ bán lấy tiền, rồi lấy tiền mua bánh và bia. Nói "thịt giá 3 hay 4 penny một pound" tự nhiên hơn "3 hay 4 pound bánh mì" hay "3 hay 4 cốc bia". Vì vậy giá trị trao đổi được tính bằng tiền.
+Dù lao động là thước đo thực, Smith thừa nhận rằng trong đời sống người ta hầu như không tính giá trị bằng lao động. Ông nêu ba lý do.
+
+**Thứ nhất, khó so sánh hai lượng lao động.** Thời gian làm việc thôi chưa đủ, vì phải tính cả độ khó nhọc và tài khéo léo:
+
+| So sánh | Bên chứa nhiều lao động hơn |
+|---|---|
+| 1 giờ việc nặng nhọc và 2 giờ việc nhẹ nhàng | Có thể là 1 giờ việc nặng |
+| 1 giờ làm một nghề phải học 10 năm và 1 tháng làm một nghề thường, dễ học | Có thể là 1 giờ của nghề phải học lâu |
+
+Không có thước đo chính xác cho độ khó nhọc hay tài khéo léo. Trên thực tế, khi đổi sản phẩm của các loại lao động khác nhau, người ta tự điều chỉnh "thông qua sự mặc cả và thương lượng ở thị trường". Smith gọi đó là một thứ "công bằng thô thiển": không chính xác, nhưng đủ dùng cho việc làm ăn hằng ngày.
+
+**Thứ hai, hàng thường được đổi lấy hàng hơn là lấy lao động.** Vì vậy người ta quen so một hàng hoá với một hàng hoá khác. Một lượng hàng là thứ cụ thể, sờ được, nhìn thấy được; một lượng lao động là khái niệm trừu tượng, dù có thể hiểu được thì cũng không hiển nhiên.
+
+**Thứ ba, khi đã có tiền, mọi thứ được quy ra tiền.** Người bán thịt không còn mang thịt đến nhà người làm bánh hay người nấu bia để đổi trực tiếp. Anh ta mang thịt ra chợ bán lấy tiền, rồi lấy tiền mua bánh mì và bia. Lượng tiền anh ta nhận được quyết định lượng bánh và bia anh ta mua được. Vì vậy nói "thịt giá 3 hay 4 penny một pound" thì tự nhiên hơn nhiều so với nói "thịt giá 3 hay 4 pound bánh mì" hay "3 hay 4 cốc bia". Kết quả là giá trị trao đổi của hàng hoá thường được tính bằng tiền, không bằng lao động hay bằng hàng khác.
 
 ### 3. Tiền là một cái thước tự thay đổi độ dài
 
-- Vàng bạc, như mọi hàng hoá, khi rẻ khi đắt. Lượng lao động mà một lượng vàng bạc mua được tuỳ vào độ dồi dào của các mỏ đang khai thác.
-- Trong thế kỷ XVI, các mỏ dồi dào ở châu Mỹ làm giá trị vàng bạc ở châu Âu giảm còn khoảng một phần ba so với trước, vì khai thác chúng tốn ít lao động hơn. Đây là cuộc cách mạng lớn nhất về giá trị kim loại quý nhưng không phải duy nhất.
-- Như một đơn vị đo tự nhiên (một bộ chân, một sải tay, một nắm tay) luôn thay đổi kích thước không thể đo chính xác vật khác, một hàng hoá luôn thay đổi giá trị không thể đo giá trị hàng hoá khác.
-- Ngược lại, các lượng lao động bằng nhau, ở mọi thời và nơi, có giá trị như nhau với người lao động: với sức khoẻ, kỹ năng bình thường, anh ta luôn phải từ bỏ cùng một phần thoải mái, tự do và hạnh phúc. Khi cùng lượng lao động mua được nhiều hay ít hàng hơn, đó là giá trị hàng thay đổi. Vậy lao động không bao giờ thay đổi giá trị của chính nó và là "tiêu chuẩn thực tế và cao nhất". Lao động là giá thực, tiền chỉ là giá danh nghĩa.
+Vấn đề là vàng bạc, như mọi hàng hoá, có lúc rẻ có lúc đắt. Lượng lao động mà một lượng vàng hay bạc mua được tuỳ vào độ dồi dào hay nghèo nàn của các mỏ đang khai thác vào lúc đó.
+
+Ví dụ lớn nhất: trong thế kỷ XVI, các mỏ dồi dào được phát hiện ở châu Mỹ đã làm giá trị vàng bạc ở châu Âu giảm **còn khoảng 1/3** so với trước, tức mất khoảng hai phần ba. Lý do là đưa vàng bạc từ mỏ ra chợ tốn ít lao động hơn trước, nên khi đem ra chợ chúng cũng chỉ mua được ít lao động hơn. Smith nói đây là cuộc cách mạng lớn nhất về giá trị kim loại quý mà lịch sử ghi lại, nhưng không phải duy nhất.
+
+Smith so sánh với các đơn vị đo chiều dài tự nhiên: một bộ chân, một sải tay, một nắm tay. Vì kích thước của chúng thay đổi theo từng người, chúng không bao giờ đo chính xác được vật khác. Một hàng hoá mà giá trị của chính nó luôn thay đổi cũng vậy: nó không thể là thước đo chính xác giá trị của các hàng hoá khác.
+
+Ngược lại, theo Smith, "các lượng lao động bằng nhau, ở bất kỳ thời gian và địa điểm nào, có thể được coi như ngang giá trị đối với người lao động". Lý do: với sức khoẻ, sức lực và kỹ năng bình thường, mỗi lần làm một lượng lao động như nhau, người lao động luôn phải từ bỏ cùng một phần **sự thoải mái, tự do và hạnh phúc** của mình. Đây là lập luận về cái giá chủ quan mà người lao động phải trả. Khi cùng một lượng lao động lúc mua được nhiều hàng, lúc mua được ít hàng, thì cái thay đổi là giá trị của hàng, không phải giá trị của lao động.
+
+Vì vậy Smith kết luận lao động không bao giờ thay đổi giá trị của chính nó, và là "tiêu chuẩn thực tế và cao nhất" để đo và so sánh giá trị mọi hàng hoá ở mọi thời và nơi. Câu tóm tắt của ông: "Lao động là giá thực của mọi hàng hoá; tiền chỉ là giá danh nghĩa mà thôi."
 
 ### 4. Giá thực và giá danh nghĩa của chính lao động
 
-- Với người thuê, lao động dường như khi đắt khi rẻ, vì họ trả bằng lượng hàng lúc nhiều lúc ít. Thật ra là hàng rẻ hay đắt.
-- Theo nghĩa thông dụng, lao động cũng có giá thực (lượng hàng thiết yếu và tiện nghi nó đem lại) và giá danh nghĩa (lượng tiền). Người lao động giàu hay nghèo là theo giá thực.
+Từ phía người thuê lao động thì mọi chuyện trông khác. Với họ, lao động dường như khi đắt khi rẻ, vì họ trả công bằng một lượng hàng lúc nhiều lúc ít. Theo Smith, thật ra là hàng hoá rẻ hay đắt, chứ không phải lao động.
+
+Dù vậy, theo cách nói thông dụng, chính lao động cũng có hai loại giá:
+
+- **Giá thực của lao động:** lượng hàng thiết yếu và tiện nghi mà một ngày công đem lại cho người lao động.
+- **Giá danh nghĩa của lao động:** lượng tiền trả cho ngày công ấy.
+
+Người lao động giàu hay nghèo, được trả công hậu hay bạc, là theo giá thực chứ không theo giá danh nghĩa. Ví dụ minh hoạ (con số tự đặt): nếu tiền công tăng gấp đôi nhưng giá bánh mì và mọi thứ khác cũng tăng gấp đôi, người lao động không khá hơn chút nào.
 
 ### 5. Ứng dụng: tiền thuê vĩnh viễn và bằng chứng từ tiền thuê ngũ cốc
 
-- Phân biệt thực và danh nghĩa không phải chuyện tư biện. Khi bán điền sản kèm điều khoản giữ lại một khoản tiền thuê vĩnh viễn, nếu muốn khoản ấy giữ nguyên giá trị thì không nên ghi nó là một số tiền cố định. Tiền thuê ghi bằng tiền chịu hai loại biến động: hàm lượng kim loại trong đồng tiền cùng mệnh giá, và giá trị của cùng một lượng kim loại.
-- Vua chúa thường thấy có lợi khi giảm lượng kim loại nguyên chất trong tiền và hiếm khi tăng nó. Smith tin rằng hàm lượng gần như luôn giảm, nên loại biến động thứ nhất hầu như luôn làm giảm giá trị tiền thuê.
-- Mỏ châu Mỹ làm bạc mất giá. Người ta thường cho rằng sự mất giá này vẫn đang tiếp diễn, dù Smith nghi ngờ điều đó. Theo giả thuyết ấy, biến động thứ hai cũng chỉ làm giảm giá trị tiền thuê, kể cả khi hợp đồng ghi bằng ounce bạc nguyên chất thay vì bằng bảng Anh.
-- Tiền thuê bằng ngũ cốc giữ giá tốt hơn tiền thuê bằng tiền, ngay cả khi mệnh giá tiền không đổi. Luật năm thứ 18 triều Elizabeth buộc một phần ba tiền thuê trong mọi hợp đồng cho thuê của các trường đại học phải tính bằng ngũ cốc, trả bằng hiện vật hoặc theo giá chợ gần nhất. Theo Blackstone, phần ngũ cốc ấy, lúc đầu chỉ bằng một phần ba tổng số, nay đem lại gần gấp đôi hai phần ba còn lại. Vậy tiền thuê bằng tiền đã sụt còn khoảng một phần tư giá trị cũ. Vì hàm lượng bạc trong tiền Anh gần như không đổi từ thời Philip và Mary, toàn bộ sự sụt giảm là do bạc mất giá.
-- Khi bạc mất giá cộng với tiền bị giảm hàm lượng, thiệt hại còn lớn hơn: ở Scotland, và còn hơn nữa ở Pháp, nhiều khoản tiền thuê cổ xưa từng rất lớn nay hầu như chẳng còn giá trị.
+Smith nhấn mạnh phân biệt thực và danh nghĩa không phải chuyện lý thuyết suông. Nó có ích ngay trong một việc thực tế: khi bán một điền sản mà giữ lại một khoản **tiền thuê vĩnh viễn** cho gia đình mình. Nếu muốn khoản ấy giữ nguyên giá trị, không nên ghi nó là một số tiền cố định, vì tiền thuê ghi bằng tiền bị hai lực bào mòn:
+
+1. **Hàm lượng kim loại** trong đồng tiền cùng mệnh giá thay đổi. Vua chúa thường thấy có lợi khi giảm lượng kim loại nguyên chất trong tiền, và hiếm khi tăng. Smith tin rằng hàm lượng gần như luôn giảm, nên lực thứ nhất hầu như luôn làm tiền thuê mất giá.
+2. **Giá trị của cùng một lượng bạc** thay đổi. Từ khi có mỏ châu Mỹ, bạc đã mất giá. Người ta thường cho rằng sự mất giá ấy vẫn đang tiếp tục, dù Smith nghi ngờ điều này và cho rằng không có bằng chứng chắc chắn. Nếu giả thuyết ấy đúng, lực thứ hai cũng chỉ làm tiền thuê đi xuống, kể cả khi hợp đồng ghi bằng ounce bạc nguyên chất thay vì bằng bảng Anh.
+
+Bằng chứng Smith đưa ra là **tiền thuê bằng ngũ cốc**. Một luật năm thứ 18 triều Elizabeth quy định 1/3 tiền thuê trong mọi hợp đồng cho thuê đất của các trường đại học (college) phải ghi bằng ngũ cốc, trả bằng hiện vật hoặc theo giá chợ gần nhất. Theo luật gia Blackstone, phần ngũ cốc ấy lúc đầu chỉ là 1/3 tổng tiền thuê, nhưng nay đem lại gần gấp đôi 2/3 còn lại ghi bằng tiền.
+
+Phép tính đằng sau:
+
+| Thời điểm | Phần ghi bằng ngũ cốc | Phần ghi bằng tiền | Tỷ lệ ngũ cốc so với tiền |
+|---|---|---|---|
+| Lúc ký (năm thứ 18 triều Elizabeth) | 1/3 tổng | 2/3 tổng | 1/2 |
+| Thời Smith | Gần gấp đôi phần tiền | Không đổi về mệnh giá | Khoảng 2 lần |
+
+Tỷ lệ tăng từ 1/2 lên 2, tức gấp khoảng 4 lần. Vì phần ngũ cốc giữ được sức mua, điều đó có nghĩa là phần tiền thuê cũ ghi bằng tiền chỉ còn khoảng 1/4 giá trị ban đầu. Hàm lượng bạc trong đồng bảng, shilling và penny gần như không đổi từ thời Philip và Mary, nên toàn bộ sự sụt giảm này là do **bạc mất giá**, không phải do vua giảm hàm lượng.
+
+Khi cả hai lực cùng tác động, thiệt hại còn lớn hơn. Ở Scotland, nơi tiền bị đổi hàm lượng nhiều hơn ở Anh, và còn hơn nữa ở Pháp, nhiều khoản tiền thuê cổ xưa từng có giá trị rất lớn nay "hầu như chẳng còn chút giá trị nào".
 
 ### 6. Ngũ cốc tốt hơn qua các thế kỷ, bạc tốt hơn qua các năm
 
-- Ở những thời xa nhau, lượng lao động bằng nhau được mua bằng lượng ngũ cốc (thứ nuôi người lao động) gần bằng nhau hơn là bằng lượng vàng bạc bằng nhau. Không hoàn toàn: mức sống của người lao động rộng rãi hơn trong xã hội đang tiến tới giàu có, vừa phải trong xã hội đứng yên, thấp trong xã hội đang suy (Smith hứa trình bày ở Chương VIII). Tiền thuê bằng ngũ cốc chỉ chịu biến động về lượng lao động ngũ cốc mua được; tiền thuê bằng hàng khác chịu thêm biến động về lượng ngũ cốc hàng đó mua được.
-- Nhưng tiền thuê bằng ngũ cốc biến động mạnh hơn nhiều từ năm này sang năm khác. Giá lao động tính bằng tiền không chạy theo giá ngũ cốc tạm thời mà theo giá trung bình của hàng thiết yếu. Giá trung bình này do giá trị của bạc quyết định, tức do độ dồi dào của mỏ bạc và lượng lao động cần để đưa bạc ra chợ. Giá trị bạc có thể đổi nhiều qua các thế kỷ nhưng ít đổi qua các năm, thường gần như nguyên trong nửa thế kỷ hay một thế kỷ.
-- Trong khi giá ngũ cốc có thể nhảy từ 25 lên 50 shilling một quarter (khoảng 290 lít) trong một năm, làm tiền thuê bằng ngũ cốc tăng gấp đôi cả danh nghĩa lẫn thực tế, thì giá lao động tính bằng tiền và giá phần lớn các thứ khác vẫn giữ nguyên.
-- Kết luận: lao động là thước đo vạn năng và chính xác duy nhất. Ngũ cốc tốt hơn bạc qua các thế kỷ; bạc tốt hơn ngũ cốc qua các năm.
+Vì sao ngũ cốc giữ giá tốt hơn bạc? Vì ngũ cốc là thứ nuôi sống người lao động. Ở những thời xa nhau, cùng một lượng lao động được mua bằng những lượng ngũ cốc gần bằng nhau hơn là bằng những lượng vàng bạc bằng nhau.
+
+Smith nói rõ điều này không hoàn toàn chính xác. Lượng ngũ cốc mà một người lao động nhận được phụ thuộc vào tình trạng của xã hội: rộng rãi trong xã hội đang tiến tới giàu có, vừa phải trong xã hội đứng yên, thấp trong xã hội đang suy (ông hứa bàn kỹ ở Chương VIII). Dù vậy, tiền thuê bằng ngũ cốc chỉ chịu một loại biến động là lượng lao động mà ngũ cốc mua được thay đổi. Tiền thuê bằng bất kỳ hàng nào khác chịu thêm một loại biến động nữa là lượng ngũ cốc mà hàng đó mua được thay đổi.
+
+Nhưng nhìn từ năm này sang năm khác thì ngược lại. Tiền thuê bằng ngũ cốc dao động mạnh hơn nhiều so với tiền thuê bằng tiền. Lý do nằm ở cách tiền công được định:
+
+- Giá lao động tính bằng tiền không chạy theo giá ngũ cốc tạm thời của từng năm, mà theo **giá trung bình** của hàng thiết yếu.
+- Giá trung bình này do **giá trị của bạc** quyết định, tức do độ dồi dào của các mỏ bạc và lượng lao động cần để đưa bạc ra chợ.
+- Giá trị bạc có thể thay đổi nhiều qua các thế kỷ, nhưng ít thay đổi qua các năm, thường gần như giữ nguyên trong nửa thế kỷ hay cả thế kỷ.
+
+Ví dụ: giá ngũ cốc có thể nhảy từ 25 lên 50 shilling một quarter (đơn vị dung tích bằng 8 giạ, khoảng 290 lít) chỉ trong một năm. Tiền thuê bằng ngũ cốc khi đó tăng gấp đôi cả về danh nghĩa lẫn về thực tế, vì nó mua được gấp đôi lao động. Trong khi đó, giá lao động tính bằng tiền và giá phần lớn các thứ khác vẫn giữ nguyên. Tức là một người hưởng tiền thuê bằng ngũ cốc có năm được gấp đôi, có năm bị hụt nặng, trong khi người hưởng tiền thuê bằng bạc nhận được sức mua gần như ổn định.
+
+Kết luận về thước đo:
+
+| Thước đo | Dùng tốt khi | Lý do |
+|---|---|---|
+| Lao động | Mọi thời và mọi nơi | Thước đo duy nhất chính xác, nhưng khó quan sát |
+| Ngũ cốc | So sánh giữa các thế kỷ | Là đồ ăn của người lao động, nên qua thời gian dài mua được lượng lao động gần như nhau |
+| Bạc | So sánh giữa các năm gần nhau | Giá trị ít đổi trong ngắn hạn, còn ngũ cốc dao động theo mùa vụ |
 
 ### 7. Cùng nơi cùng lúc, tiền là đủ; khác nơi, không đủ
 
-- Sự phân biệt thực/danh nghĩa cần khi lập hợp đồng thuê dài hạn, nhưng không cần trong mua bán thường ngày. Cùng thời và nơi, giá thực và giá tiền tỷ lệ thuận hoàn toàn: hàng bán được nhiều tiền hơn ở chợ London thì chi phối được nhiều lao động hơn ở London lúc đó.
-- Ở những nơi xa nhau, tỷ lệ đó mất đi. Nửa ounce bạc ở Quảng Châu có thể mua nhiều lao động và hàng thiết yếu hơn một ounce ở London. Người lái buôn London mua hàng ở Quảng Châu giá nửa ounce, bán ở London giá một ounce, lãi 100%, như thể bạc ở hai nơi đáng giá như nhau. Với anh ta, việc bạc ở Quảng Châu mua được nhiều hơn chẳng quan trọng; một ounce ở London luôn mua được gấp đôi những gì nửa ounce mua được ở đó, và đó đúng là cái anh ta cần.
-- Vì giá danh nghĩa cuối cùng quyết định sự khôn ngoan của mỗi vụ mua bán, việc người ta chú trọng nó hơn giá thực là điều tự nhiên.
-- Nhưng cuốn sách cần so giá trị thực qua thời gian và không gian, nên phải so lượng lao động mà các lượng bạc mua được. Vì giá lao động ở thời xa hiếm khi biết chính xác, Smith sẽ dùng giá ngũ cốc, vốn được sử gia ghi chép nhiều hơn, làm xấp xỉ.
+Phân biệt thực và danh nghĩa cần khi lập hợp đồng dài hạn, nhưng không cần trong mua bán thường ngày. Ở cùng một thời gian và địa điểm, giá thực và giá tiền của mọi hàng hoá **tỷ lệ thuận hoàn toàn** với nhau: hàng nào bán được nhiều tiền hơn ở chợ London thì cũng chi phối được nhiều lao động hơn ở London lúc đó. Vì vậy, cùng nơi cùng lúc, tiền là thước đo chính xác giá trị trao đổi.
+
+Ở những nơi xa nhau thì tỷ lệ ấy mất đi. Smith lấy ví dụ Quảng Châu (Canton) và London:
+
+- Nửa ounce bạc ở Quảng Châu có thể mua được nhiều lao động và hàng thiết yếu hơn một ounce bạc ở London.
+- Một người lái buôn London mua một món hàng ở Quảng Châu với giá 1/2 ounce bạc, rồi bán ở London với giá 1 ounce. Anh ta lãi 100%, đúng như thể một ounce bạc ở London và ở Quảng Châu có giá trị như nhau.
+- Anh ta chẳng bận tâm chuyện nửa ounce ở Quảng Châu mua được nhiều hơn, vì anh ta tiêu tiền ở London. Ở London, một ounce luôn mua được gấp đôi những gì nửa ounce mua được, và đó đúng là thứ anh ta cần.
+
+Vì giá danh nghĩa cuối cùng quyết định một vụ mua bán là khôn ngoan hay dại dột, việc người ta chú trọng giá danh nghĩa hơn giá thực là điều đương nhiên.
+
+Nhưng cuốn sách của Smith cần so **giá trị thực** của hàng hoá qua thời gian và giữa các nơi, nên phải so lượng lao động mà các lượng bạc khác nhau mua được. Giá lao động ở những thời xa và nơi xa hiếm khi được biết chính xác. Giá ngũ cốc thì được sử gia và các tác giả ghi chép nhiều hơn. Vì vậy Smith đành dùng giá ngũ cốc như một **xấp xỉ** cho giá lao động trong các phần sau của sách.
 
 ### 8. Kim loại bản vị
 
-- Các nước có thương mại phát triển đúc nhiều kim loại: vàng cho khoản lớn, bạc cho khoản vừa, đồng (hoặc kim loại khác) cho khoản nhỏ. Nhưng mỗi nước chọn một kim loại làm thước đo, thường là kim loại dùng đầu tiên, và giữ nó kể cả khi không còn cần thiết.
-- Người La Mã chỉ dùng tiền đồng đến khoảng năm năm trước chiến tranh Punic lần thứ nhất (Smith dẫn Pliny), nên đồng vẫn là thước đo của cộng hoà. Đồng As là tên đồng tiền đồng; đồng Sestertius bằng bạc được định giá bằng đồng. Ở Rome, người mắc nợ nhiều được gọi là người giữ nhiều đồng (copper) của người khác (*aes alienum*, nghĩa đen là "đồng của người khác", tức là nợ).
-- Các dân tộc phương Bắc lập quốc trên tàn tích La Mã đúc bạc từ đầu. Ở Anh thời Saxon chỉ có bạc; vàng được đúc ít ỏi từ thời Edward III, đồng chỉ có từ thời James I. Vì vậy ở Anh giá trị vẫn tính bằng bạc.
-- Ban đầu ở mọi nước, chỉ tiền bạc là tiền pháp định. Ở Anh, vàng lâu dài không phải tiền pháp định; tỷ lệ vàng/bạc do thị trường quyết định; con nợ muốn trả bằng vàng thì chủ nợ có thể từ chối hoặc đòi thoả thuận giá. Đồng hiện chỉ là tiền pháp định để trả tiền lẻ của tiền bạc. Ở trạng thái này, khác biệt giữa kim loại bản vị và không bản vị là thật.
-- Khi người dân quen với nhiều loại tiền, nhà nước ấn định tỷ lệ bằng luật, ví dụ một guinea có trọng lượng và độ tinh khiết nhất định đổi được 21 shilling và là tiền pháp định cho khoản nợ tương đương. Lúc này khác biệt gần như chỉ còn danh nghĩa.
-- Nhưng khi tỷ lệ luật định thay đổi, khác biệt lại trở nên hơn là danh nghĩa. Nếu guinea bị định lại còn 20 hay lên 22 shilling, sổ sách ghi bằng bạc sẽ được trả bằng cùng lượng tiền bạc nhưng lượng tiền vàng rất khác: bạc trông như thước đo giá trị của vàng. Một tờ phiếu của ngân hàng Drummond ghi 25 hay 50 guinea thì vẫn trả bằng 25 hay 50 guinea nhưng bằng lượng bạc rất khác: vàng trông như thước đo của bạc. Kim loại nào được dùng để ghi sổ và ghi nghĩa vụ nợ thì sẽ trông như kim loại bản vị.
+Các nước có thương mại phát triển thường đúc nhiều kim loại: vàng cho các khoản thanh toán lớn, bạc cho các khoản vừa, đồng (hoặc kim loại thô khác) cho các khoản nhỏ. Nhưng mỗi nước chọn **một** kim loại làm thước đo giá trị, thường là kim loại được dùng đầu tiên làm phương tiện trao đổi, và giữ nó kể cả khi không còn cần thiết.
+
+| Nơi | Kim loại dùng đầu tiên | Hệ quả |
+|---|---|---|
+| La Mã | Đồng: chỉ dùng tiền đồng đến khoảng 5 năm trước chiến tranh Punic lần thứ nhất (Smith dẫn Pliny) | Đồng vẫn là thước đo của cộng hoà. Đồng As là tên đồng tiền đồng; đồng Sestertius bằng bạc được định giá bằng đồng |
+| Các dân tộc phương Bắc lập quốc trên tàn tích La Mã | Bạc, đúc từ đầu | Giá trị tính bằng bạc |
+| Anh | Thời Saxon chỉ có bạc; vàng được đúc ít ỏi từ thời Edward III; đồng chỉ có từ thời James I | Ở Anh giá trị vẫn tính bằng bạc |
+
+Một chi tiết ngôn ngữ cho thấy đồng là thước đo ở La Mã: người **mắc nợ** nhiều được gọi là người giữ nhiều "đồng (copper) của người khác". Thành ngữ Latin *aes alienum*, nghĩa đen là "đồng của người khác", có nghĩa là nợ.
+
+Smith phân biệt ba giai đoạn trong quan hệ giữa kim loại bản vị và kim loại khác:
+
+1. **Chưa có tỷ lệ luật định.** Ban đầu ở mọi nước, chỉ tiền bằng kim loại bản vị là tiền pháp định. Ở Anh, vàng rất lâu không phải tiền pháp định; tỷ lệ giá trị giữa vàng và bạc do thị trường quyết định. Nếu con nợ muốn trả bằng vàng, chủ nợ có thể từ chối hoặc đòi thoả thuận một tỷ lệ. Đồng hiện nay chỉ là tiền pháp định để trả phần tiền lẻ của tiền bạc. Ở giai đoạn này, khác biệt giữa kim loại bản vị và kim loại không bản vị là **thật**.
+2. **Luật ấn định tỷ lệ.** Khi người dân đã quen dùng nhiều loại tiền, nhà nước ấn định tỷ lệ bằng luật. Ví dụ: một đồng guinea có trọng lượng và độ tinh khiết nhất định đổi được 21 shilling, và là tiền pháp định để trả một khoản nợ tương đương. Lúc này khác biệt giữa hai kim loại gần như chỉ còn **danh nghĩa**.
+3. **Luật đổi tỷ lệ.** Khi tỷ lệ luật định thay đổi, khác biệt lại trở nên **hơn là danh nghĩa**. Nếu guinea bị định lại còn 20 hay tăng lên 22 shilling, mọi sổ sách và nghĩa vụ ghi bằng bạc vẫn được trả bằng cùng lượng tiền bạc, nhưng bằng một lượng tiền vàng rất khác: bạc trông như thước đo giá trị của vàng. Ngược lại, một tờ phiếu của ngân hàng Drummond ghi 25 hay 50 guinea vẫn được trả bằng 25 hay 50 guinea, nhưng bằng một lượng bạc rất khác: vàng trông như thước đo của bạc.
+
+Kết luận của mục này: kim loại nào được dùng để ghi sổ sách và ghi nghĩa vụ nợ thì sẽ trông như kim loại bản vị, tức trông như có giá trị ổn định.
 
 ### 9. Kim loại quý nhất quyết định giá trị toàn bộ tiền đúc
 
-- Khi có tỷ lệ luật định, giá trị kim loại quý nhất điều chỉnh giá trị toàn bộ tiền. Mười hai penny đồng chứa nửa pound đồng (không phải loại tốt nhất), trước khi đúc hiếm khi đáng bảy penny bạc, nhưng luật cho đổi lấy một shilling nên trên thị trường nó luôn bằng một shilling.
-- Trước cuộc cải cách tiền vàng gần đây, tiền vàng (ít nhất ở London) ít bị mòn hơn tiền bạc. Hai mươi mốt shilling mòn vẹt vẫn ngang một guinea cũng mòn nhưng ít hơn. Các luật mới đã đưa tiền vàng về gần trọng lượng chuẩn, và lệnh cho cơ quan nhà nước chỉ nhận vàng theo cân giữ nó ở đó. Tiền bạc vẫn mòn như cũ, nhưng 21 shilling bạc mòn vẫn ngang một guinea vàng tốt. Vậy cải cách tiền vàng đã nâng giá trị tiền bạc đổi được lấy nó.
+Trên thực tế, khi đã có tỷ lệ luật định giữa các kim loại, giá trị của kim loại quý nhất điều chỉnh giá trị của toàn bộ tiền đúc.
+
+Ví dụ về đồng: 12 penny đồng chứa 1/2 pound đồng, loại không phải tốt nhất. Trước khi đúc, lượng đồng ấy hiếm khi đáng 7 penny bạc. Nhưng vì luật cho phép đổi 12 penny đồng lấy 1 shilling, nên trên thị trường nó luôn được coi là đáng 1 shilling, và bất cứ lúc nào cũng đổi được 1 shilling.
+
+Ví dụ về bạc: trước cuộc cải cách tiền vàng gần đây, tiền vàng (ít nhất ở London và vùng lân cận) ít bị mòn hơn tiền bạc. Dù vậy, 21 shilling bạc mòn vẹt vẫn được coi là ngang một guinea, guinea cũng mòn nhưng ít hơn. Các luật gần đây đã đưa tiền vàng về gần trọng lượng chuẩn, và lệnh cho các cơ quan nhà nước chỉ nhận tiền vàng theo cân sẽ giữ nó ở mức đó. Tiền bạc vẫn mòn như cũ, nhưng 21 shilling bạc mòn ấy vẫn ngang một guinea vàng đủ cân. Như vậy, cải cách tiền **vàng** đã nâng giá trị của tiền **bạc** đổi được lấy nó.
 
 ### 10. Giá đúc và giá thị trường của vàng bạc thỏi
 
-- Đơn vị: 1 bảng (pound sterling) = 20 shilling; 1 shilling = 12 penny. Một pound cân (troy) = 12 ounce. Guinea là đồng vàng, theo luật = 21 shilling.
-- Sở đúc tiền Anh đúc một pound vàng chuẩn thành 44,5 guinea, tức 46 bảng 14 shilling 6 penny; một ounce vàng chuẩn = 3 bảng 17 shilling 10,5 penny. Anh không thu phí đúc tiền: ai mang đến một pound hay một ounce vàng chuẩn thì nhận lại đủ một pound hay một ounce bằng tiền. Đó là giá vàng của sở đúc.
-- Trước cải cách tiền vàng, nhiều năm giá thị trường vàng thỏi chuẩn trên 3 bảng 18 shilling, đôi khi 3 bảng 19 shilling, thường là 4 bảng một ounce, tức luôn trên giá đúc. Sau cải cách, hiếm khi vượt 3 bảng 17 shilling 7 penny, tức luôn dưới giá đúc. Giá này như nhau dù trả bằng vàng hay bạc. Vậy cải cách đã nâng giá trị cả tiền vàng lẫn tiền bạc so với vàng thỏi, và có lẽ cả so với hàng hoá, dù khó nhận ra vì giá hàng chịu nhiều nguyên nhân khác.
-- Một pound bạc chuẩn được đúc thành 62 shilling, tức giá đúc bạc 5 shilling 2 penny một ounce. Trước cải cách vàng, giá bạc thỏi từ 5 shilling 4 penny đến 5 shilling 8 penny, thường là 5 shilling 7 penny. Sau đó xuống 5 shilling 3 penny đến 5 shilling 5 penny nhưng chưa xuống tới giá đúc.
-- Lý do: trong tiền Anh, đồng được định giá cao hơn nhiều so với giá trị thật, bạc bị định giá hơi thấp. Ở châu Âu (tiền Pháp, Hà Lan), một ounce vàng ròng đổi khoảng 14 ounce bạc ròng; trong tiền Anh, khoảng 15 ounce. Nhưng như giá đồng thỏi không tăng vì đồng được định giá cao trong tiền Anh, giá bạc thỏi cũng không giảm vì bạc bị định giá thấp; bạc thỏi giữ tỷ lệ hợp lý với vàng thỏi.
-- Sau cải cách tiền bạc thời William III, giá bạc thỏi vẫn hơi trên giá đúc. Locke giải thích là vì Anh cho xuất khẩu bạc thỏi nhưng cấm xuất tiền bạc, làm cầu bạc thỏi lớn hơn cầu tiền bạc. Smith bác: người cần tiền bạc để mua bán đông hơn nhiều người cần bạc thỏi để xuất khẩu; hơn nữa hiện nay vàng thỏi cũng được xuất và tiền vàng bị cấm xuất mà giá vàng thỏi lại dưới giá đúc. Lý do thật: bạc khi ấy cũng như nay bị định giá thấp so với vàng, và tiền vàng quyết định giá trị toàn bộ tiền. Vậy chẳng có gì chắc rằng đúc lại tiền bạc bây giờ sẽ kéo giá bạc thỏi về giá đúc.
+Để theo dõi các con số, cần nhớ đơn vị: 1 bảng (pound sterling) = 20 shilling; 1 shilling = 12 penny. "Pound" cũng là đơn vị cân: 1 pound troy = 12 ounce. Guinea là đồng tiền vàng, theo luật bằng 21 shilling.
+
+Số liệu của sở đúc tiền Anh (Anh không thu phí đúc tiền: ai mang đến một pound hay một ounce vàng chuẩn thì nhận lại đủ một pound hay một ounce vàng dưới dạng tiền, không bị khấu trừ):
+
+| Kim loại | Sở đúc làm ra | Giá đúc mỗi ounce |
+|---|---|---|
+| 1 pound vàng chuẩn | 44,5 guinea, tức 46 bảng 14 shilling 6 penny | 3 bảng 17 shilling 10,5 penny |
+| 1 pound bạc chuẩn | 62 shilling | 5 shilling 2 penny |
+
+Giá thị trường của kim loại thỏi trước và sau cuộc cải cách tiền vàng:
+
+| Kim loại thỏi, mỗi ounce | Trước cải cách tiền vàng | Sau cải cách tiền vàng |
+|---|---|---|
+| Vàng | Trên 3 bảng 18 shilling, đôi khi 3 bảng 19 shilling, thường là 4 bảng: luôn **trên** giá đúc | Hiếm khi vượt 3 bảng 17 shilling 7 penny: luôn **dưới** giá đúc |
+| Bạc | Từ 5 shilling 4 penny đến 5 shilling 8 penny, thường là 5 shilling 7 penny | Từ 5 shilling 3 penny đến 5 shilling 5 penny: vẫn **trên** giá đúc 5 shilling 2 penny |
+
+Giá thị trường của vàng thỏi như nhau dù người mua trả bằng tiền vàng hay tiền bạc. Vì vậy Smith kết luận cuộc cải cách đã nâng giá trị của **cả** tiền vàng lẫn tiền bạc so với vàng thỏi, và có lẽ cả so với mọi hàng hoá khác, dù điều này khó thấy vì giá hàng hoá còn chịu nhiều nguyên nhân khác.
+
+Vì sao bạc thỏi vẫn đắt hơn giá đúc? Smith giải thích bằng cách tiền Anh định giá các kim loại:
+
+- **Đồng** được định giá cao hơn nhiều so với giá trị thật của nó (như ví dụ 12 penny đồng ở mục 9).
+- **Bạc** bị định giá hơi thấp hơn giá trị thật. Trên thị trường châu Âu, theo tiền Pháp và tiền Hà Lan, 1 ounce vàng ròng đổi được khoảng 14 ounce bạc ròng. Trong tiền Anh, 1 ounce vàng ròng đổi được khoảng 15 ounce bạc ròng, tức bạc bị đánh giá thấp so với vàng.
+
+Nhưng giá đồng thỏi không tăng lên vì đồng được định giá cao trong tiền Anh, thì giá bạc thỏi cũng không giảm xuống vì bạc bị định giá thấp. Bạc thỏi giữ tỷ lệ hợp lý với vàng thỏi, nên giá của nó tính theo tiền đúc (do vàng quyết định) cao hơn giá đúc của bạc.
+
+Smith bác một giải thích khác. Sau cuộc cải cách tiền bạc thời William III, giá bạc thỏi vẫn hơi trên giá đúc. Locke giải thích rằng Anh cho phép xuất khẩu bạc thỏi nhưng cấm xuất khẩu tiền bạc, nên cầu đối với bạc thỏi lớn hơn cầu đối với tiền bạc. Smith phản bác hai điểm:
+
+- Số người cần tiền bạc để mua bán hằng ngày đông hơn nhiều số người cần bạc thỏi để xuất khẩu.
+- Hiện nay vàng thỏi cũng được phép xuất khẩu và tiền vàng cũng bị cấm xuất, vậy mà giá vàng thỏi lại **dưới** giá đúc. Nếu lập luận của Locke đúng, giá vàng thỏi phải cao hơn giá đúc.
+
+Lý do thật, theo Smith: bạc khi ấy, cũng như bây giờ, bị định giá thấp so với vàng, và tiền vàng quyết định giá trị toàn bộ tiền đúc. Vì vậy chẳng có gì chắc rằng đúc lại tiền bạc cho đủ cân lúc này sẽ kéo được giá bạc thỏi về giá đúc.
 
 ### 11. Đề xuất cải cách và vai trò của phí đúc tiền
 
-- Nếu tiền bạc được đưa về đủ trọng lượng như tiền vàng mà giữ tỷ lệ hiện tại, một guinea sẽ đổi được nhiều tiền bạc hơn lượng bạc thỏi nó mua được. Khi đó có lãi nếu nấu chảy tiền bạc đủ cân, bán bạc thỏi lấy tiền vàng, rồi đổi tiền vàng lấy tiền bạc để nấu tiếp. Cách chặn duy nhất là đổi tỷ lệ.
-- Phiền toái sẽ nhỏ hơn nếu bạc được định giá cao hơn tỷ lệ thích đáng (ngược với hiện tại), kèm luật quy định bạc chỉ là tiền pháp định cho phần tiền lẻ của một guinea, như đồng chỉ là tiền pháp định cho phần tiền lẻ của một shilling. Không chủ nợ nào bị thiệt, như hiện không ai bị thiệt vì đồng được định giá cao. Chỉ chủ ngân hàng chịu thiệt: khi bị rút tiền ồ ạt, họ đôi khi câu giờ bằng cách trả từng đồng sáu penny, và luật này sẽ chặn mánh ấy. Họ sẽ phải giữ nhiều tiền mặt hơn; phiền cho họ nhưng an toàn cho chủ nợ.
-- 3 bảng 17 shilling 10,5 penny tiền vàng chứa không hơn một ounce vàng chuẩn, nên tưởng không thể mua hơn một ounce vàng thỏi. Nhưng tiền tiện hơn thỏi, và vàng mang đến sở đúc thường phải chờ vài tuần, nay vài tháng, mới nhận lại tiền. Sự chờ đợi này như một khoản thuế nhỏ, làm tiền vàng đáng giá hơn vàng thỏi chút ít. Nếu bạc được định giá đúng tỷ lệ, giá bạc thỏi có lẽ đã xuống dưới giá đúc mà không cần đúc lại tiền bạc.
-- Một khoản phí đúc tiền nhỏ trên cả vàng lẫn bạc sẽ làm tiền đúc đáng giá hơn kim loại thỏi cùng lượng, chặn việc nấu chảy và xuất khẩu tiền. Nếu vì nhu cầu nhà nước mà phải xuất tiền, phần lớn sẽ tự quay về, vì ở nước ngoài tiền Anh chỉ bán theo cân còn ở nhà mua được nhiều hơn. Pháp thu phí đúc khoảng 8% và tiền Pháp xuất đi tự quay về.
+**Vì sao phải đổi tỷ lệ.** Nếu tiền bạc được đúc lại cho đủ trọng lượng như tiền vàng mà vẫn giữ tỷ lệ hiện tại, thì một guinea sẽ đổi được nhiều **tiền bạc đúc** hơn lượng bạc thỏi mà nó mua được. Khi đó có lãi nếu làm vòng sau: nấu chảy tiền bạc đủ cân, bán bạc thỏi lấy tiền vàng, đổi tiền vàng lấy tiền bạc, rồi lại nấu chảy. Cách duy nhất để chặn vòng ấy là đổi tỷ lệ giữa vàng và bạc.
+
+**Đề xuất của Smith.** Phiền toái sẽ nhỏ hơn nếu bạc được định giá **cao** hơn tỷ lệ thích đáng so với vàng (ngược với hiện nay), kèm một luật quy định bạc chỉ là tiền pháp định cho phần tiền lẻ của một guinea, giống như đồng hiện chỉ là tiền pháp định cho phần tiền lẻ của một shilling. Hệ quả:
+
+- Không chủ nợ nào bị thiệt, cũng như hiện nay không ai bị thiệt vì đồng được định giá cao.
+- Chỉ chủ ngân hàng chịu thiệt. Khi bị khách hàng rút tiền ồ ạt, họ đôi khi câu giờ bằng cách trả từng đồng sáu penny, đếm chậm để kéo dài thời gian. Luật này sẽ chặn mánh ấy.
+- Họ sẽ buộc phải giữ nhiều tiền mặt hơn trong két. Điều đó phiền cho họ, nhưng làm chủ nợ của họ an toàn hơn.
+
+**Vì sao tiền vàng đáng giá hơn vàng thỏi một chút.** 3 bảng 17 shilling 10,5 penny tiền vàng chứa không hơn một ounce vàng chuẩn, nên tưởng như không thể mua được hơn một ounce vàng thỏi. Nhưng tiền đúc tiện hơn kim loại thỏi. Hơn nữa, vàng mang đến sở đúc thường phải chờ vài tuần, nay đến vài tháng, mới nhận lại tiền. Sự chờ đợi này giống như một khoản **thuế nhỏ**, khiến tiền vàng đáng giá hơn một lượng vàng thỏi bằng nó một chút. Smith cho rằng nếu bạc được định giá đúng tỷ lệ, giá bạc thỏi có lẽ đã xuống dưới giá đúc mà không cần đúc lại tiền bạc.
+
+**Phí đúc tiền.** Một khoản phí đúc tiền nhỏ trên cả vàng lẫn bạc sẽ làm tiền đúc đáng giá hơn một lượng kim loại thỏi bằng nó. Như vậy nấu chảy tiền thành thỏi sẽ lỗ, và việc nấu chảy, xuất khẩu tiền sẽ bị chặn. Nếu vì nhu cầu của nhà nước mà phải đưa tiền ra nước ngoài, phần lớn số tiền ấy cũng sẽ tự quay về: ở nước ngoài, tiền Anh chỉ được bán theo cân như kim loại, còn ở trong nước nó mua được nhiều hơn thế. Smith dẫn Pháp: Pháp thu phí đúc khoảng 8%, và tiền Pháp xuất đi tự quay về.
 
 ### 12. Tiền chính xác đến đâu với tư cách thước đo
 
-- Giá vàng bạc thỏi dao động như giá hàng hoá. Các nước không có mỏ phải nhập để bù hao hụt (đắm tàu, tai nạn, dùng để mạ, mài mòn tiền). Lái buôn đoán cầu trong nước, có lúc nhập quá nhiều thì phải bán rẻ hơn thường để khỏi tái xuất, có lúc quá ít thì bán đắt hơn. Nhưng nếu nhiều năm giá thỏi ổn định hơi trên hay hơi dưới giá đúc, nguyên nhân phải ổn định: tiền đúc đang được định giá cao hay thấp hơn lượng kim loại nó chứa. "Sự bất biến và ổn định của hậu quả giả định một sự bất biến và ổn định về nguyên nhân."
-- Tiền của một nước là thước đo chính xác đến đâu tuỳ vào việc đồng tiền đang lưu hành khớp với chuẩn của nó đến đâu. Nếu 44,5 guinea chứa đúng một pound vàng chuẩn (11 ounce vàng ròng và 1 ounce hợp kim), tiền vàng Anh sẽ là thước đo chính xác như bản chất sự vật cho phép. Nhưng tiền mòn không đều, nên thước đo này cũng thiếu chính xác như mọi thước đo khác. Người bán điều chỉnh giá theo lượng kim loại mà kinh nghiệm cho thấy đồng tiền thực sự còn chứa.
-- Giá tiền của hàng hoá vì thế là lượng vàng hay bạc ròng nhận được, bất kể mệnh giá. Smith sẽ coi 6 shilling 8 penny thời Edward I là cùng giá tiền với 1 bảng ngày nay, vì theo ước đoán cả hai chứa cùng lượng bạc ròng. Nói cách khác, qua khoảng năm thế kỷ, hàm lượng bạc của đồng bảng đã giảm còn một phần ba.
+Giá vàng bạc thỏi dao động như giá mọi hàng hoá khác. Các nước không có mỏ phải nhập vàng bạc để bù phần hao hụt hằng năm do đắm tàu, tai nạn, dùng để mạ và dát, và do tiền mòn đi. Lái buôn nhập khẩu phải đoán cầu trong nước. Có lúc họ nhập quá nhiều, phải bán rẻ hơn mức thường để khỏi phải tái xuất; có lúc nhập quá ít, bán được đắt hơn. Những dao động này là tạm thời.
+
+Nhưng nếu nhiều năm liền giá kim loại thỏi ổn định ở mức hơi trên hay hơi dưới giá đúc, nguyên nhân phải là một thứ ổn định: tiền đúc đang được định giá cao hơn hay thấp hơn lượng kim loại nó thật sự chứa. Smith viết: "Sự bất biến và ổn định của hậu quả giả định một sự bất biến và ổn định về nguyên nhân."
+
+Tiền của một nước là thước đo giá trị chính xác đến đâu tuỳ vào việc đồng tiền đang lưu hành khớp với chuẩn của nó đến đâu. Nếu 44,5 guinea chứa đúng một pound vàng chuẩn, tức 11 ounce vàng ròng và 1 ounce hợp kim, thì tiền vàng Anh sẽ là thước đo chính xác nhất mà bản chất sự vật cho phép. Nhưng tiền mòn không đều, đồng mòn nhiều đồng mòn ít, nên thước đo này cũng thiếu chính xác như mọi thước đo khác. Người bán hàng điều chỉnh giá theo lượng kim loại mà kinh nghiệm cho họ biết đồng tiền **thực sự còn chứa**, không theo lượng lẽ ra nó phải chứa.
+
+Vì vậy, khi Smith nói "giá tiền" của hàng hoá, ông hiểu đó là lượng vàng hay bạc ròng nhận được khi bán hàng, bất kể mệnh giá của đồng tiền. Ví dụ: ông sẽ coi 6 shilling 8 penny thời Edward I là cùng giá tiền với 1 bảng thời ông, vì theo ước đoán của ông cả hai chứa cùng lượng bạc ròng. Nói cách khác, qua khoảng năm thế kỷ, hàm lượng bạc của đồng bảng đã giảm còn 1/3.
 
 ## Luận điểm kinh tế cốt lõi
 

@@ -145,69 +145,169 @@
 2. **Lợi nhuận có phải chỉ là tiền công của người quản lý không?** Không. Hai xưởng cùng 20 thợ, cùng công giám sát, nhưng một xưởng dùng vốn 1.000 bảng, xưởng kia 7.300 bảng, thì ở mức 10% lợi nhuận là 100 bảng và 730 bảng. Lợi nhuận tỷ lệ với vốn, không với công sức; người quản lý thuê thì nhận lương không tỷ lệ với vốn.
 3. **Thu nhập của cả nước đến từ đâu?** Từ ba nguồn ban đầu: lương, lợi nhuận, địa tô. Lãi vay là phần chia của lợi nhuận; thuế, lương hưu và mọi thu nhập khác đều phái sinh từ ba nguồn ấy. Sản phẩm năm sau tăng hay giảm tuỳ phần sản phẩm năm nay dành nuôi người lao động hay người nhàn rỗi.
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Cấu phần của giá (component parts of price).** Các khoản mà số tiền người mua trả cho một món hàng cuối cùng được chia ra cho những người đã góp phần làm ra nó. Theo Smith có ba khoản: tiền lương, lợi nhuận, địa tô. Ví dụ trong chương: giá ngũ cốc gồm địa tô cho chủ đất, lương cho người làm và đồ nuôi súc vật kéo, và lợi nhuận cho chủ trại. Đây là bộ khung mà toàn bộ phần còn lại của Quyển I dựa vào.
+
+**Tiền lương (wages).** Thu nhập của người bỏ sức lao động. Ví dụ trong chương: mỗi người thợ trong hai xưởng được trả 15 bảng một năm. Trong xã hội thô sơ, tiền lương là phần duy nhất của giá; trong xã hội có vốn, nó chỉ còn là một trong ba phần.
+
+**Vốn (stock) và lợi nhuận (profit).** Vốn là của cải được ứng trước để mua vật liệu và trả lương trước khi bán được sản phẩm. Lợi nhuận là phần người ứng vốn nhận được, tính theo tỷ lệ trên số vốn. Ví dụ trong chương: ở mức lợi nhuận thông thường 10% một năm, vốn 1.000 bảng đem lại khoảng 100 bảng lợi nhuận. Khái niệm này quan trọng vì Smith chứng minh lợi nhuận tỷ lệ với vốn chứ không với công sức quản lý.
+
+**Địa tô (rent of land).** Khoản trả cho chủ đất để được dùng đất hoặc được thu hái sản vật trên đất. Ví dụ trong chương: khi đất thành tư hữu, gỗ trong rừng, cỏ ngoài đồng, quả mọc tự nhiên mà trước đây chỉ tốn công hái thì nay phải trả tiền cho chủ đất mới được hái. Đây là cấu phần thứ ba của giá, và Smith mô tả nó bằng câu nổi tiếng về địa chủ "gặt nơi chưa từng gieo".
+
+**Tiền lãi (interest).** Khoản người vay vốn trả cho người cho vay. Smith coi đó là một phần chia của lợi nhuận: người vay giữ phần đền bù rủi ro và công sức, người cho vay nhận phần đền bù việc đã tạo cơ hội kiếm lời. Ví dụ minh hoạ (con số tự đặt): một người vay 100 bảng, kinh doanh lãi 10 bảng, trả người cho vay 5 bảng tiền lãi và giữ 5 bảng. Khái niệm này cho thấy lãi vay là thu nhập phái sinh, không phải nguồn thu nhập thứ tư.
+
+**Thu nhập phái sinh (derivative revenue).** Thu nhập không trực tiếp đến từ lao động, vốn hay đất của chính người nhận, mà được chuyển từ ba nguồn ấy sang. Ví dụ trong chương: thuế, lương hưu, niên kim, tiền lãi. Khái niệm này cho phép Smith nói rằng mọi thu nhập trong một nước đều bắt nguồn từ lương, lợi nhuận hoặc địa tô.
+
+**Thu nhập hỗn hợp (mixed income).** Thu nhập của một người đóng nhiều vai cùng lúc, nên không tách được đâu là lương, đâu là lợi nhuận, đâu là địa tô. Ví dụ trong chương: người làm vườn tự làm trên đất của mình vừa là chủ đất, vừa là chủ vườn, vừa là thợ, nhưng gọi toàn bộ thu nhập là "tiền công". Kinh tế học hiện đại vẫn phải xử lý đúng vấn đề này khi tính thu nhập quốc dân.
+
+**Giá trị gia tăng theo từng khâu.** Phần giá trị mà mỗi khâu sản xuất thêm vào giá trị của hàng mua từ khâu trước. Ví dụ trong chương: bột mì bằng giá ngũ cốc cộng lợi nhuận chủ cối xay và lương thợ xay; bánh mì cộng thêm lợi nhuận chủ lò và lương thợ lò. Ý này giải thích vì sao hàng càng qua nhiều khâu chế tạo thì phần lương và lợi nhuận trong giá càng lớn so với phần địa tô.
+
+## Nội dung chi tiết
 
 ### 1. Xã hội thô sơ: chỉ có lao động
 
-- Trong giai đoạn trước khi có tích luỹ vốn và chiếm hữu ruộng đất, tỷ lệ giữa các lượng lao động cần để có các vật dường như là cơ sở duy nhất cho tỷ lệ trao đổi. Trong một dân tộc săn bắn, nếu giết một con hải ly thường tốn công gấp đôi giết một con nai, thì một hải ly đổi được hai con nai. Sản phẩm của hai ngày hay hai giờ lao động tự nhiên đáng giá gấp đôi sản phẩm của một ngày hay một giờ.
-- Nếu một loại lao động nặng nhọc hơn, sản phẩm một giờ của nó có thể đổi lấy sản phẩm hai giờ của loại khác.
-- Nếu một loại lao động cần tài khéo léo đặc biệt, có được nhờ học tập lâu năm, sản phẩm của nó phải có giá cao hơn để đền bù thời gian và công sức đã bỏ ra để học. Ở các xã hội tiến bộ, sự đền bù cho độ khó nhọc và tài khéo léo thường thể hiện qua tiền lương cao hơn; trong xã hội sơ khai chắc cũng có một cách đền bù tương tự.
-- Trong trạng thái này, toàn bộ sản phẩm của lao động thuộc về người lao động, và lượng lao động bỏ ra là yếu tố duy nhất quyết định hàng đó đổi được bao nhiêu lao động khác.
+Smith bắt đầu từ một xã hội tưởng tượng ở giai đoạn đầu, trước khi có tích luỹ vốn và trước khi ruộng đất bị chiếm hữu thành tài sản riêng. Ở đó, tỷ lệ giữa các lượng lao động cần để có được các vật dường như là quy tắc duy nhất quyết định chúng đổi được cho nhau theo tỷ lệ nào.
+
+Ví dụ nổi tiếng: trong một dân tộc sống bằng săn bắn, nếu giết một con hải ly thường tốn công gấp đôi giết một con nai, thì một con hải ly tự nhiên sẽ đổi được hai con nai. Sản phẩm của hai ngày hay hai giờ lao động đáng giá gấp đôi sản phẩm của một ngày hay một giờ.
+
+Smith thêm hai điều chỉnh:
+
+- **Độ nặng nhọc.** Nếu một loại lao động nặng nhọc hơn loại khác, sản phẩm của 1 giờ lao động ấy có thể đổi lấy sản phẩm của 2 giờ lao động loại kia.
+- **Tài khéo léo.** Nếu một loại lao động cần tài khéo léo đặc biệt, có được nhờ học tập lâu năm, sản phẩm của nó phải có giá cao hơn để đền bù thời gian và công sức đã bỏ ra để học. Ở xã hội tiến bộ, sự đền bù này thường thể hiện qua tiền lương cao hơn; trong xã hội sơ khai chắc cũng có cách đền bù tương tự.
+
+Trong trạng thái này, toàn bộ sản phẩm của lao động thuộc về người lao động. Lượng lao động thường bỏ ra để làm một món hàng là yếu tố duy nhất quyết định món hàng đó mua được hay đổi được bao nhiêu lao động khác.
 
 ### 2. Khi vốn được tích luỹ: phần lợi nhuận
 
-- Khi vốn tích luỹ trong tay một số người, họ tự nhiên dùng nó thuê người cần cù làm việc, cung cấp vật liệu và đồ sinh sống, để kiếm lợi từ việc bán sản phẩm hoặc từ phần lao động thêm vào giá trị vật liệu. Khi đổi sản phẩm hoàn chỉnh lấy tiền, lao động hay hàng khác, phải được nhiều hơn mức đủ trả giá vật liệu và lương thợ, để còn lợi nhuận cho người đã liều đem vốn ra kinh doanh.
-- Giá trị người thợ thêm vào vật liệu vì vậy chia thành hai phần: một phần trả lương họ, phần kia là lợi nhuận của chủ đã ứng trước vốn mua vật liệu và trả lương. Chủ sẽ chẳng có lợi ích gì để thuê người nếu không trông đợi thu về nhiều hơn số vốn bỏ ra, và chẳng có lợi ích gì để dùng vốn lớn thay vì vốn nhỏ nếu lợi nhuận không tỷ lệ với số vốn.
+Tình hình thay đổi khi vốn đã được tích luỹ trong tay một số người. Những người này tự nhiên dùng vốn để thuê những người cần cù làm việc, cung cấp cho họ vật liệu và đồ sinh sống, để kiếm lợi từ việc bán sản phẩm làm ra, tức từ phần giá trị mà lao động của thợ thêm vào vật liệu.
+
+Khi sản phẩm hoàn chỉnh được đổi lấy tiền, lấy lao động hay lấy hàng khác, số thu về phải nhiều hơn mức đủ để trả giá vật liệu và lương thợ. Phần dư ấy là lợi nhuận cho người đã liều đem vốn ra kinh doanh.
+
+Vì vậy giá trị mà người thợ thêm vào vật liệu chia thành hai phần:
+
+| Phần | Thuộc về ai | Lý do |
+|---|---|---|
+| Tiền lương | Người thợ | Trả cho lao động của họ |
+| Lợi nhuận | Người chủ | Trả cho việc ứng trước toàn bộ vốn mua vật liệu và trả lương |
+
+Smith giải thích vì sao phải có phần lợi nhuận bằng động cơ của người chủ. Thứ nhất, chủ sẽ chẳng có lợi ích gì để thuê người nếu không trông đợi bán sản phẩm được nhiều hơn số vốn bỏ ra để thay thế vốn ấy. Thứ hai, chủ sẽ chẳng có lợi ích gì để dùng một số vốn lớn thay vì một số vốn nhỏ nếu lợi nhuận không tăng theo tỷ lệ với số vốn.
 
 ### 3. Lợi nhuận không phải tiền công giám sát
 
-- Có thể có người nghĩ lợi nhuận chỉ là tên khác của tiền công cho một loại lao động đặc biệt: giám sát và điều hành. Smith bác: lợi nhuận bị chi phối bởi những nguyên tắc hoàn toàn khác, không tỷ lệ với lượng, độ khó nhọc hay tài khéo của công việc giám sát, mà tỷ lệ với giá trị số vốn được dùng.
-- Ví dụ: ở nơi lợi nhuận thông thường hằng năm của vốn sản xuất là 10%, có hai xưởng, mỗi xưởng 20 thợ, lương 15 bảng/người/năm, tức 300 bảng lương mỗi xưởng. Vật liệu thô của xưởng thứ nhất chỉ trị giá 700 bảng; vật liệu tinh của xưởng thứ hai trị giá 7.000 bảng. Vốn hằng năm: 1.000 bảng so với 7.300 bảng. Lợi nhuận kỳ vọng: khoảng 100 bảng so với khoảng 730 bảng. Vậy mà công giám sát và điều hành có thể giống hệt hoặc gần như giống nhau.
-- Ở nhiều xưởng lớn, toàn bộ việc ấy được giao cho một đốc công chính. Lương của người này phản ánh giá trị công việc giám sát, có tính thêm phần lòng tin mà chủ đặt vào anh ta, nhưng không bao giờ tỷ lệ với số vốn anh ta quản lý. Người chủ, dù gần như được miễn mọi công việc, vẫn trông đợi lợi nhuận tỷ lệ đều đặn với vốn.
-- Kết luận: trong giá hàng hoá, lợi nhuận của vốn là một cấu phần hoàn toàn khác với tiền lương và chịu chi phối bởi những nguyên tắc khác hẳn.
-- Trong tình hình này, toàn bộ sản phẩm lao động không còn luôn thuộc về người lao động; anh ta phải chia với chủ vốn. Lượng lao động bỏ ra để làm một hàng hoá cũng không còn là yếu tố duy nhất quyết định hàng đó mua được bao nhiêu lao động: phải có thêm một lượng để trả lợi nhuận cho số vốn đã ứng trước.
+Có thể có người nghĩ lợi nhuận chỉ là một tên khác của tiền công trả cho một loại lao động đặc biệt: lao động giám sát và điều hành. Smith bác ý này. Lợi nhuận bị chi phối bởi những nguyên tắc hoàn toàn khác; nó không tỷ lệ với lượng công việc, độ khó nhọc hay tài khéo của việc giám sát, mà tỷ lệ với giá trị số vốn được dùng.
+
+Ví dụ của Smith: ở một nơi mà lợi nhuận thông thường hằng năm của vốn sản xuất là 10%, có hai xưởng, mỗi xưởng thuê 20 thợ, lương 15 bảng mỗi người mỗi năm, tức 300 bảng tiền lương mỗi xưởng một năm.
+
+| | Xưởng thô | Xưởng tinh |
+|---|---|---|
+| Lương (20 thợ × 15 bảng) | 300 bảng | 300 bảng |
+| Vật liệu chế biến trong năm | 700 bảng (vật liệu thô) | 7.000 bảng (vật liệu tinh) |
+| Vốn dùng hằng năm | 1.000 bảng | 7.300 bảng |
+| Lợi nhuận kỳ vọng ở mức 10% | khoảng 100 bảng | khoảng 730 bảng |
+
+Công việc giám sát và điều hành ở hai xưởng có thể giống hệt hoặc gần như giống nhau: cùng số thợ, cùng số ngày làm việc. Vậy mà lợi nhuận chênh nhau 7,3 lần, đúng bằng tỷ lệ chênh lệch về vốn. Nếu lợi nhuận là tiền công giám sát, hai người chủ lẽ ra phải nhận gần như nhau.
+
+Smith thêm một bằng chứng từ thực tế. Ở nhiều xưởng lớn, gần như toàn bộ việc giám sát và điều hành được giao cho một **đốc công chính**. Lương của người này phản ánh giá trị công việc giám sát, có tính thêm phần lòng tin mà người chủ đặt vào anh ta, nhưng không bao giờ tỷ lệ với số vốn anh ta quản lý. Trong khi đó người chủ, dù gần như được miễn mọi công việc, vẫn trông đợi lợi nhuận tỷ lệ đều đặn với vốn của mình.
+
+Kết luận: trong giá hàng hoá, lợi nhuận của vốn là một cấu phần khác hẳn tiền lương, theo những quy luật khác hẳn.
+
+Hệ quả đối với người lao động: toàn bộ sản phẩm lao động không còn luôn thuộc về người lao động nữa; anh ta phải chia nó với người chủ vốn đã thuê mình. Lượng lao động thường bỏ ra để làm một món hàng cũng không còn là yếu tố duy nhất quyết định món hàng đó mua được bao nhiêu lao động. Phải cộng thêm một lượng nữa để trả lợi nhuận cho số vốn đã ứng trước tiền lương và vật liệu.
 
 ### 4. Khi đất thành tư hữu: phần địa tô
 
-- Khi toàn bộ đất của một nước đã thành tư hữu, địa chủ, như mọi người khác, muốn gặt nơi họ chưa từng gieo, và đòi địa tô cả với sản vật tự nhiên của đất. Gỗ trong rừng, cỏ ngoài đồng, quả mọc tự nhiên, khi đất còn là của chung chỉ tốn công thu hái; nay có giá thêm. Người lao động phải trả tiền để được phép hái, và phải nộp cho chủ đất một phần những gì mình thu hái hay trồng được. Phần ấy, hay giá của phần ấy, là địa tô, và trong giá phần lớn hàng hoá nó là cấu phần thứ ba.
-- Giá trị thực của cả ba cấu phần đều đo bằng lượng lao động mà mỗi phần mua được. Lao động đo giá trị không chỉ của phần giá thuộc về lao động mà cả của phần thuộc về địa tô và phần thuộc về lợi nhuận.
+Khi toàn bộ đất của một nước đã thành tài sản tư hữu, địa chủ, cũng như mọi người khác, "muốn gặt hái những gì mà họ chưa từng gieo trồng", và đòi địa tô ngay cả với sản vật tự nhiên của đất.
+
+So sánh trước và sau:
+
+- **Khi đất còn là của chung:** gỗ trong rừng, cỏ ngoài đồng, quả mọc tự nhiên chỉ tốn công thu hái.
+- **Khi đất thành tư hữu:** những thứ đó có thêm một khoản giá. Người lao động phải trả tiền để được phép thu hái, và phải nộp cho chủ đất một phần những gì mình thu hái hay trồng được.
+
+Phần nộp cho chủ đất ấy, hay giá của phần ấy, là **địa tô**. Trong giá của phần lớn hàng hoá, nó là cấu phần thứ ba.
+
+Smith nhấn mạnh rằng giá trị thực của cả ba cấu phần vẫn được đo bằng lượng lao động mà mỗi phần mua được hay chi phối được. Lao động đo giá trị không chỉ của phần giá thuộc về tiền lương, mà cả của phần thuộc về địa tô và phần thuộc về lợi nhuận. Đây là chỗ nối chương này với Chương V.
 
 ### 5. Ba cấu phần qua chuỗi sản xuất
 
-- Trong giá ngũ cốc, một phần trả địa tô, một phần trả lương hoặc đồ nuôi người làm và súc vật kéo, phần thứ ba là lợi nhuận của chủ trại. Ba phần này, trực tiếp hoặc cuối cùng, tạo nên toàn bộ giá ngũ cốc.
-- Có thể có người nghĩ cần một phần thứ tư để bù vốn của chủ trại, tức bù hao mòn súc vật kéo và nông cụ. Nhưng giá của mọi nông cụ, như con ngựa kéo cày, tự nó gồm ba phần: địa tô đồng cỏ nuôi ngựa, công chăm ngựa, và lợi nhuận của chủ trại đã ứng trước cả hai khoản. Vậy dù giá ngũ cốc phải bù giá và tiền nuôi con ngựa, toàn bộ giá vẫn phân giải, trực tiếp hoặc cuối cùng, thành ba phần: địa tô, lương và lợi nhuận.
-- Trong giá bột mì phải cộng thêm lợi nhuận chủ cối xay và lương thợ xay; trong giá bánh mì, thêm lợi nhuận chủ lò và lương thợ lò; và trong cả hai, thêm công chuyên chở ngũ cốc từ trại đến cối xay và từ cối xay đến lò bánh, cùng lợi nhuận của người ứng vốn trả công ấy.
-- Giá cây lanh gồm ba phần như giá ngũ cốc. Giá vải lanh còn phải cộng lương thợ xe sợi, thợ dệt, thợ chuội vải, cùng lợi nhuận của các chủ xưởng.
-- Hàng càng qua nhiều khâu chế tạo, phần lương và lợi nhuận càng lớn so với phần địa tô. Không những số khoản lợi nhuận tăng lên mà mỗi khoản sau còn lớn hơn khoản trước, vì vốn của khâu sau luôn lớn hơn. Vốn thuê thợ dệt phải lớn hơn vốn thuê thợ sợi, vì nó vừa hoàn lại vốn khâu sợi cùng lợi nhuận của khâu ấy, vừa trả lương thợ dệt; và lợi nhuận luôn tỷ lệ với vốn.
+Smith đi qua một chuỗi sản xuất để chỉ ra ba cấu phần có mặt ở mọi khâu.
+
+**Ngũ cốc.** Trong giá ngũ cốc, một phần trả địa tô cho chủ đất, một phần trả lương hoặc đồ nuôi người làm và súc vật kéo, phần thứ ba là lợi nhuận của chủ trại. Ba phần này, trực tiếp hoặc cuối cùng, tạo nên toàn bộ giá ngũ cốc.
+
+**Có cần một "phần thứ tư" không?** Có thể có người nghĩ cần thêm một phần thứ tư để bù vốn của chủ trại, tức bù hao mòn súc vật kéo và nông cụ. Smith bác bằng cách truy ngược: giá của bất kỳ nông cụ nào, chẳng hạn một con ngựa kéo cày, tự nó lại gồm ba phần: địa tô của đồng cỏ nuôi ngựa, công chăn và chăm ngựa, và lợi nhuận của người chủ trại đã ứng trước cả hai khoản ấy. Vậy dù giá ngũ cốc phải bù cả giá con ngựa và tiền nuôi nó, toàn bộ giá vẫn phân giải, trực tiếp hoặc cuối cùng, thành ba phần: địa tô, lương và lợi nhuận.
+
+**Bột mì và bánh mì.** Hàng càng xa đồng ruộng, càng có thêm lương và lợi nhuận:
+
+| Hàng | Giá gồm |
+|---|---|
+| Ngũ cốc | Địa tô + lương (và đồ nuôi súc vật kéo) + lợi nhuận chủ trại |
+| Bột mì | Giá ngũ cốc + lợi nhuận chủ cối xay + lương thợ xay |
+| Bánh mì | Giá bột mì + lợi nhuận chủ lò bánh + lương thợ lò |
+| Cả bột mì và bánh mì | Thêm công chuyên chở ngũ cốc từ trại đến cối xay và từ cối xay đến lò bánh, cùng lợi nhuận của người ứng vốn trả công chở |
+
+**Lanh và vải lanh.** Giá cây lanh gồm ba phần như giá ngũ cốc. Giá vải lanh còn phải cộng thêm lương thợ xe sợi, thợ dệt, thợ chuội vải, cùng lợi nhuận của các chủ xưởng thuê họ.
+
+**Vì sao lợi nhuận tăng nhanh qua các khâu.** Hàng càng qua nhiều khâu chế tạo, phần lương và lợi nhuận càng lớn so với phần địa tô. Không chỉ số khoản lợi nhuận tăng lên, mà mỗi khoản sau còn lớn hơn khoản trước. Lý do là vốn của khâu sau luôn lớn hơn vốn của khâu trước. Ví dụ: vốn của người thuê thợ dệt phải lớn hơn vốn của người thuê thợ xe sợi, vì nó vừa phải hoàn lại vốn của khâu sợi cùng lợi nhuận của khâu ấy (qua giá mua sợi), vừa phải trả lương thợ dệt. Mà lợi nhuận luôn tỷ lệ với vốn, nên lợi nhuận khâu dệt lớn hơn lợi nhuận khâu sợi.
 
 ### 6. Hàng chỉ có hai hay một cấu phần
 
-- Ngay ở xã hội tiến bộ nhất, vẫn có một ít hàng mà giá chỉ gồm hai phần, lương và lợi nhuận, và một ít hơn nữa chỉ gồm lương.
-- Giá cá biển gồm lương của ngư dân và lợi nhuận của vốn dùng vào nghề cá. Địa tô rất ít khi là một phần của nó, dù đôi khi có (Smith hứa sẽ trình bày sau).
-- Ở phần lớn châu Âu, nghề cá sông thì khác: nghề đánh cá hồi phải trả tiền thuê, và khoản này, dù khó gọi là địa tô của đất, vẫn là một phần trong giá cá hồi, ngang với lương và lợi nhuận.
-- Ở vài nơi ở Scotland, một số người nghèo sống bằng nghề nhặt dọc bãi biển những viên đá nhỏ nhiều màu gọi là đá cuội Scotland. Giá thợ khắc đá trả cho họ hoàn toàn là tiền công lao động; không có địa tô, cũng không có lợi nhuận.
-- Nhưng giá toàn bộ của mọi hàng hoá cuối cùng vẫn phân giải thành một, hai hoặc cả ba phần: phần nào còn lại sau khi trả địa tô và giá toàn bộ lao động dùng để trồng, chế tạo và đưa hàng ra chợ thì ắt phải là lợi nhuận của ai đó.
+Ngay ở xã hội tiến bộ nhất, vẫn có một ít hàng hoá mà giá chỉ gồm hai phần, lương và lợi nhuận, và một số ít hơn nữa mà giá chỉ gồm tiền lương.
+
+| Hàng | Cấu phần | Giải thích |
+|---|---|---|
+| Cá biển | Lương + lợi nhuận | Lương của ngư dân và lợi nhuận của vốn bỏ vào nghề cá. Địa tô rất ít khi là một phần của giá, dù đôi khi có (Smith hứa trình bày sau) |
+| Cá hồi (cá sông) | Lương + lợi nhuận + tiền thuê | Ở phần lớn châu Âu, nghề đánh cá hồi phải trả tiền thuê. Khoản này khó gọi là địa tô của đất, nhưng vẫn là một phần trong giá cá hồi, ngang với lương và lợi nhuận |
+| Đá cuội Scotland | Chỉ có lương | Ở vài nơi ở Scotland, người nghèo sống bằng nghề nhặt dọc bãi biển những viên đá nhỏ nhiều màu. Giá mà thợ khắc đá trả cho họ hoàn toàn là tiền công lao động; không có địa tô, cũng không có lợi nhuận |
+
+Dù vậy, giá toàn bộ của mọi hàng hoá cuối cùng vẫn phân giải thành một, hai hoặc cả ba phần ấy, không có phần nào khác. Phần nào còn lại sau khi đã trả địa tô và trả giá của toàn bộ lao động dùng để trồng, chế tạo và đưa hàng ra chợ thì ắt phải là lợi nhuận của một người nào đó.
 
 ### 7. Từ giá một hàng hoá đến thu nhập cả nước
 
-- Vì giá của từng hàng hoá phân giải thành một, hai hoặc cả ba phần, giá của toàn bộ hàng hoá tạo nên sản phẩm hằng năm của một nước, gộp lại, cũng phân giải thành ba phần ấy và được chia cho dân chúng dưới dạng tiền lương, lợi nhuận hoặc địa tô. Toàn bộ những gì lao động của xã hội thu lượm hay sản xuất ra hằng năm, hay toàn bộ giá của nó, ban đầu được chia như vậy cho các thành viên khác nhau.
-- Lương, lợi nhuận và địa tô là ba nguồn ban đầu của mọi thu nhập cũng như của mọi giá trị trao đổi. Mọi thu nhập khác cuối cùng đều phái sinh từ một trong ba nguồn này.
-- Ai có thu nhập thì thu nhập ấy đến từ lao động, vốn hoặc đất của người đó. Thu nhập từ lao động là tiền lương. Thu nhập từ vốn của người tự quản lý hay sử dụng vốn là lợi nhuận. Thu nhập từ vốn của người không tự dùng mà cho người khác vay là tiền lãi: khoản đền bù người vay trả cho người cho vay vì lợi nhuận mà việc dùng tiền vay tạo ra cơ hội kiếm được. Một phần lợi nhuận thuộc về người vay, người chịu rủi ro và bỏ công sử dụng vốn; một phần thuộc về người cho vay, người tạo cơ hội cho người vay kiếm lợi nhuận. Tiền lãi luôn là thu nhập phái sinh: nếu không trả từ lợi nhuận thì phải trả từ một nguồn thu nhập khác, trừ khi người vay là kẻ hoang phí vay lần hai để trả lãi lần một.
-- Thu nhập hoàn toàn từ đất là địa tô và thuộc về địa chủ. Thu nhập của chủ trại một phần từ lao động, một phần từ vốn của anh ta; với anh ta, đất chỉ là công cụ để kiếm lương cho lao động và lợi nhuận cho vốn của mình.
-- Mọi khoản thuế và mọi thu nhập dựa trên thuế, mọi khoản lương, lương hưu và niên kim đều cuối cùng lấy từ một trong ba nguồn ban đầu, trực tiếp hoặc gián tiếp từ lương, lợi nhuận hoặc địa tô.
+Smith chuyển từ một món hàng sang cả nền kinh tế. Vì giá của từng hàng hoá phân giải thành một, hai hoặc cả ba phần, nên giá của toàn bộ hàng hoá tạo nên sản phẩm hằng năm của một nước, gộp lại, cũng phân giải thành ba phần ấy và được chia cho các thành viên của xã hội dưới dạng tiền lương, lợi nhuận hoặc địa tô. Toàn bộ những gì lao động của xã hội thu lượm hay sản xuất ra hằng năm, hay toàn bộ giá của nó, ban đầu được chia như vậy.
+
+Từ đây Smith rút ra câu nổi tiếng: "Tiền lương, lợi nhuận và tiền thuê đất là ba nguồn ban đầu của mọi khoản thu cũng như mọi giá trị trao đổi." Mọi thu nhập khác cuối cùng đều phái sinh từ một trong ba nguồn này.
+
+Ai có thu nhập thì thu nhập ấy đến từ lao động, vốn hoặc đất của người đó:
+
+| Nguồn | Tên thu nhập | Ghi chú |
+|---|---|---|
+| Lao động | Tiền lương | |
+| Vốn, do chính chủ sử dụng hay quản lý | Lợi nhuận | |
+| Vốn, cho người khác vay | Tiền lãi | Một phần chia của lợi nhuận |
+| Đất | Địa tô | Thuộc về địa chủ |
+
+**Tiền lãi.** Đó là khoản đền bù người vay trả cho người cho vay vì lợi nhuận mà việc dùng tiền vay tạo cơ hội kiếm được. Một phần lợi nhuận ấy thuộc về người vay, người chịu rủi ro và bỏ công sử dụng vốn; một phần thuộc về người cho vay, người đã tạo cơ hội cho người vay kiếm lợi nhuận. Tiền lãi luôn là thu nhập phái sinh: nếu không được trả từ lợi nhuận do việc dùng tiền vay tạo ra, thì phải được trả từ một nguồn thu nhập khác của người vay. Ngoại lệ duy nhất là kẻ hoang phí vay món nợ thứ hai để trả lãi cho món nợ thứ nhất.
+
+**Chủ trại.** Thu nhập hoàn toàn từ đất là địa tô và thuộc về địa chủ. Thu nhập của chủ trại thì một phần đến từ lao động, một phần từ vốn của anh ta. Với chủ trại, đất chỉ là công cụ để kiếm lương cho lao động và lợi nhuận cho vốn của mình.
+
+**Các thu nhập khác.** Mọi khoản thuế và mọi thu nhập dựa trên thuế, mọi khoản lương, lương hưu và niên kim, cuối cùng đều lấy từ một trong ba nguồn ban đầu, trực tiếp hoặc gián tiếp từ lương, lợi nhuận hoặc địa tô.
 
 ### 8. Khi một người giữ nhiều vai, các khoản bị gọi lẫn tên
 
-- Khi ba loại thu nhập thuộc về ba người khác nhau, chúng dễ phân biệt. Khi thuộc về cùng một người, chúng đôi khi bị lẫn với nhau, ít nhất trong cách gọi thông thường.
-- Một quý ông tự canh tác một phần đất của mình, sau khi trả chi phí canh tác, lẽ ra nhận cả địa tô của chủ đất lẫn lợi nhuận của chủ trại. Nhưng ông ta có khuynh hướng gọi toàn bộ là lợi nhuận, lẫn địa tô với lợi nhuận. Phần lớn chủ đồn điền ở Bắc Mỹ và Tây Ấn ở trong tình trạng này: họ canh tác trên đất của chính mình, nên ít khi nói đến địa tô của đồn điền mà chỉ nói đến lợi nhuận.
-- Chủ trại thường hiếm khi thuê đốc công; họ tự làm nhiều việc bằng tay như cày, bừa. Vì vậy, phần còn lại sau khi trả địa tô không chỉ phải hoàn vốn cùng lợi nhuận thông thường, mà còn trả lương cho chính họ với tư cách vừa là thợ vừa là đốc công. Nhưng toàn bộ phần còn lại được gọi là lợi nhuận; tiền công rõ ràng có trong đó, chỉ là bị gọi lẫn.
-- Một thợ thủ công độc lập có đủ vốn mua vật liệu và nuôi mình đến khi bán được sản phẩm nhận cả tiền công của người thợ lẫn lợi nhuận của người chủ, nhưng gọi tất cả là lợi nhuận.
-- Một người làm vườn tự tay làm vườn của chính mình đóng cả ba vai: chủ đất, chủ vườn và thợ làm vườn. Lẽ ra anh ta nhận cả địa tô, lợi nhuận và tiền công; nhưng toàn bộ thường được coi là tiền công lao động. Ở đây địa tô và lợi nhuận bị lẫn vào tiền công.
+Khi ba loại thu nhập thuộc về ba người khác nhau, chúng dễ phân biệt. Khi thuộc về cùng một người, chúng đôi khi bị gọi lẫn tên, ít nhất trong cách nói thông thường. Smith đưa ra bốn trường hợp:
+
+| Người | Vai thực tế | Lẽ ra nhận | Thường gọi tất cả là |
+|---|---|---|---|
+| Quý ông tự canh tác một phần đất của mình | Chủ đất + chủ trại | Địa tô + lợi nhuận | "Lợi nhuận" |
+| Chủ trại thường, tự cày bừa | Chủ trại + thợ + đốc công | Lợi nhuận + tiền công của chính mình | "Lợi nhuận" |
+| Thợ thủ công độc lập có đủ vốn | Chủ + thợ | Lợi nhuận + tiền công | "Lợi nhuận" |
+| Người làm vườn tự làm vườn của mình | Chủ đất + chủ vườn + thợ làm vườn | Địa tô + lợi nhuận + tiền công | "Tiền công" |
+
+Một số chi tiết của Smith:
+
+- Phần lớn chủ đồn điền ở Bắc Mỹ và Tây Ấn ở trong trường hợp thứ nhất: họ canh tác trên đất của chính mình, nên ít khi nói đến địa tô của đồn điền mà chỉ nói đến lợi nhuận.
+- Chủ trại thường hiếm khi thuê đốc công mà tự làm nhiều việc bằng tay như cày, bừa. Vì vậy phần còn lại sau khi trả địa tô không chỉ phải hoàn vốn và đem lại lợi nhuận thông thường, mà còn phải trả lương cho chính họ với tư cách vừa là thợ vừa là đốc công. Tiền công rõ ràng có trong đó, chỉ là bị gọi lẫn thành lợi nhuận.
+- Thợ thủ công độc lập là người có đủ vốn để mua vật liệu và tự nuôi mình cho đến khi bán được sản phẩm.
+- Ở trường hợp người làm vườn, chiều nhầm lẫn ngược lại: địa tô và lợi nhuận bị lẫn vào tiền công.
 
 ### 9. Hệ quả vĩ mô: người lao động và người nhàn rỗi
 
-- Ở một nước văn minh, rất ít hàng hoá có giá trị trao đổi chỉ từ lao động; địa tô và lợi nhuận đóng góp phần lớn vào giá trị của hầu hết hàng hoá. Vì vậy sản phẩm hằng năm của lao động nước ấy luôn đủ để mua hoặc chi phối một lượng lao động lớn hơn nhiều so với lượng đã dùng để trồng, chế biến và đưa sản phẩm ấy ra chợ.
-- Nếu xã hội mỗi năm thuê toàn bộ lượng lao động mà nó có thể mua, lượng lao động sẽ tăng mạnh mỗi năm và sản phẩm năm sau sẽ lớn hơn nhiều so với năm trước. Nhưng không nước nào dùng toàn bộ sản phẩm hằng năm để nuôi người cần cù lao động. Người nhàn rỗi ở mọi nơi tiêu một phần lớn. Tuỳ theo tỷ lệ chia sản phẩm hằng năm giữa hai hạng người này, giá trị thông thường hay trung bình của sản phẩm sẽ tăng, giảm hoặc giữ nguyên từ năm này sang năm khác.
+Ở một nước văn minh, rất ít hàng hoá có giá trị trao đổi chỉ đến từ lao động; địa tô và lợi nhuận đóng góp phần lớn vào giá trị của hầu hết hàng hoá. Vì vậy, sản phẩm hằng năm của lao động nước ấy luôn đủ để mua hoặc chi phối một lượng lao động **lớn hơn nhiều** so với lượng lao động đã dùng để trồng, chế biến và đưa sản phẩm ấy ra chợ.
+
+Ví dụ minh hoạ (con số tự đặt): nếu sản phẩm một năm của một nước cần 100 người làm ra, nhưng vì giá của nó còn gồm lợi nhuận và địa tô, tổng giá trị ấy đủ để thuê 150 người. Nếu năm sau dùng hết số đó để thuê người làm việc, sản lượng sẽ lớn hơn năm trước.
+
+Smith nói nếu xã hội mỗi năm thuê toàn bộ lượng lao động mà nó có thể mua, thì lượng lao động sẽ tăng mạnh mỗi năm và sản phẩm năm sau sẽ lớn hơn nhiều so với năm trước. Nhưng không nước nào dùng toàn bộ sản phẩm hằng năm để nuôi người cần cù lao động. Ở mọi nơi, **người nhàn rỗi** tiêu một phần lớn sản phẩm ấy.
+
+Kết luận: tuỳ theo tỷ lệ chia sản phẩm hằng năm giữa người lao động và người nhàn rỗi, giá trị thông thường hay trung bình của sản phẩm sẽ tăng, giảm hoặc giữ nguyên từ năm này sang năm khác. Đây là mầm của lý thuyết tích luỹ vốn mà Smith sẽ phát triển ở Quyển II.
 
 ## Luận điểm kinh tế cốt lõi
 
