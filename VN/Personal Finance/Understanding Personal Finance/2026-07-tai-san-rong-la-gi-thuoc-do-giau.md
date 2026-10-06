@@ -45,34 +45,76 @@
 2. Lập bảng tài sản ròng cá nhân thế nào, định giá từng loại tài sản và nợ ra sao?
 3. Nên đọc và theo dõi con số tài sản ròng như thế nào, bao lâu một lần?
 
-## Dàn ý chi tiết
+## Khái niệm cần biết
+
+**Tài sản ròng (net worth).** Toàn bộ những gì mình sở hữu trừ toàn bộ những gì mình nợ, tính tại một thời điểm: Tài sản ròng = Tổng tài sản − Tổng nợ. Ví dụ trong bài: tài sản 1,2 tỷ đồng, nợ 700 triệu, thì tài sản ròng là 500 triệu. Bài coi đây là thước đo thật của sự giàu có, quan trọng hơn thu nhập.
+
+**Thu nhập và tài sản ròng.** Thu nhập cho biết mỗi tháng mình kiếm được bao nhiêu; tài sản ròng cho biết sau tất cả, mình giữ lại được bao nhiêu. Người lương cao nhưng tiêu nhiều và nợ nhiều có thể có tài sản ròng thấp hơn người lương thấp mà không nợ. Đây là thông điệp chính của bài.
+
+**Bảng cân đối tài sản cá nhân (personal balance sheet).** Bảng liệt kê một bên là tài sản, một bên là nợ, giống bảng cân đối kế toán của doanh nghiệp. Hiệu số giữa hai bên chính là tài sản ròng. Bài hướng dẫn lập bảng này trong 15 phút.
+
+**Giá trị thị trường (market value).** Giá có thể bán được hôm nay, không phải giá đã mua hay giá mình kỳ vọng. Ví dụ minh hoạ: chiếc xe máy mua 40 triệu cách đây vài năm, nay bán lại chỉ được 25 triệu, thì ghi 25 triệu. Định giá theo giá thị trường giúp con số tài sản ròng trung thực, không bị thổi phồng.
+
+**Dư nợ (outstanding balance).** Số tiền gốc còn phải trả của một khoản vay, không phải khoản trả hằng tháng. Ví dụ minh hoạ: vay mua nhà 2 tỷ, đã trả bớt gốc còn 1,55 tỷ, mỗi tháng trả 15 triệu, thì cột nợ ghi 1,55 tỷ chứ không ghi 15 triệu. Ghi sai chỗ này làm tài sản ròng sai lệch rất lớn.
+
+**Tài sản sinh lời và đồ dùng (tiêu sản).** Tài sản sinh lời là thứ tạo ra tiền hoặc giữ giá trị: tiết kiệm, chứng chỉ quỹ, cổ phiếu, bất động sản cho thuê. Đồ dùng, tiêu sản là thứ mất giá và tốn chi phí duy trì, như xe hơi. Ví dụ trong bài: chiếc xe hơi 800 triệu nằm trên bảng tài sản nhưng mất giá mỗi năm và tiêu tiền hằng tháng.
+
+**Dòng tiền (cash flow).** Tiền ra vào mỗi tháng, theo dõi bằng ghi chép chi tiêu. Dòng tiền giống một đoạn phim về thu chi hằng tháng, còn tài sản ròng giống một tấm ảnh chụp toàn cảnh tại một thời điểm. Bài cho rằng cần cả hai, nhưng tài sản ròng cho biết kết quả cuối cùng.
+
+## Nội dung chi tiết
 
 ### 1. Ví dụ mở đầu: ai giàu hơn?
-- Anh Tuấn: lương 60 triệu/tháng, đi xe hơi, ở căn hộ đẹp; còn nợ ngân hàng 1,8 tỷ tiền nhà và 400 triệu tiền xe (tổng nợ 2,2 tỷ).
-- Chị Vân: lương 22 triệu, đi xe máy, thuê trọ; không nợ, có 180 triệu tiết kiệm và 150 triệu chứng chỉ quỹ → tài sản ròng dương 330 triệu.
-- Bài cho rằng anh Tuấn "có thể đang âm".
-- Thông điệp: thu nhập cho biết kiếm được bao nhiêu; tài sản ròng cho biết giữ lại được bao nhiêu, và vế thứ hai quan trọng hơn.
+
+Bài đặt hai người cạnh nhau:
+
+| | Anh Tuấn | Chị Vân |
+|---|---|---|
+| Lương | 60 triệu/tháng | 22 triệu/tháng |
+| Đi lại, chỗ ở | Xe hơi, căn hộ đẹp | Xe máy, thuê trọ |
+| Nợ | 1,8 tỷ tiền nhà và 400 triệu tiền xe (tổng 2,2 tỷ) | Không nợ |
+| Tiền tích luỹ | (bài không nêu) | 180 triệu tiết kiệm và 150 triệu chứng chỉ quỹ |
+| Tài sản ròng | Bài cho rằng "có thể đang âm" | Dương 330 triệu |
+
+Thông điệp bài muốn truyền tải: thu nhập cho biết bạn kiếm được bao nhiêu, tài sản ròng cho biết bạn giữ lại được bao nhiêu, và vế thứ hai mới quan trọng. Cần lưu ý rằng bài không nêu giá trị căn hộ và chiếc xe của anh Tuấn, nên không thể kết luận chắc chắn tài sản ròng của anh âm; nếu căn hộ và xe có giá trị cao hơn tổng nợ 2,2 tỷ, tài sản ròng của anh vẫn dương.
 
 ### 2. Định nghĩa và công thức
-- Tài sản ròng (net worth) là toàn bộ những gì sở hữu trừ toàn bộ những gì nợ; đây là "bảng cân đối kế toán" của cá nhân, tương tự doanh nghiệp.
-- Tài sản ròng = Tổng tài sản − Tổng nợ.
-- Ví dụ: tài sản 1,2 tỷ (nhà 900 triệu + tiết kiệm 200 triệu + quỹ 100 triệu), nợ 700 triệu → tài sản ròng 500 triệu.
-- Con số có thể âm, nhất là với người trẻ vay mua nhà, mua xe; đó không đáng xấu hổ mà là điểm xuất phát.
+
+Tài sản ròng (net worth) là toàn bộ những gì bạn sở hữu trừ đi toàn bộ những gì bạn nợ. Bài ví nó như "bảng cân đối kế toán" của một cá nhân, tương tự như của doanh nghiệp.
+
+**Tài sản ròng = Tổng tài sản − Tổng nợ.**
+
+Ví dụ: một người có tài sản 1,2 tỷ đồng, gồm nhà 900 triệu, tiết kiệm 200 triệu và chứng chỉ quỹ 100 triệu; người đó nợ 700 triệu. Tài sản ròng là 1,2 tỷ − 700 triệu = 500 triệu đồng.
+
+Con số này có thể âm, nhất là với người trẻ vừa vay mua nhà, mua xe. Theo bài, điều đó không có gì đáng xấu hổ; nó chỉ là điểm xuất phát.
 
 ### 3. Lập bảng trong 15 phút
-- Bước 1 – Liệt kê tài sản, quy về giá trị hôm nay, không phải giá từng mua:
-  - Tiền mặt và tiền trong tài khoản.
-  - Sổ tiết kiệm (gốc + lãi đã phát sinh).
-  - Vàng theo giá bán ra hiện tại.
-  - Chứng chỉ quỹ, cổ phiếu theo giá thị trường hôm nay.
-  - Bất động sản theo giá có thể bán được, không phải giá kỳ vọng.
-  - Xe theo giá bán lại thực tế.
-  - Khoản người khác nợ mình, chỉ tính phần tin là thu được.
-- Bước 2 – Liệt kê nợ: dư nợ vay mua nhà (số còn phải trả, không phải khoản trả hằng tháng); dư nợ vay xe, vay tiêu dùng, trả góp; dư nợ thẻ tín dụng; tiền vay người thân, bạn bè.
-- Bước 3 – Lấy hiệu số: con số thật tại thời điểm này, trung thực hơn cảm giác "hình như dạo này mình ổn".
+
+Bài hướng dẫn ba bước.
+
+**Bước 1 – Liệt kê tài sản**, quy về giá trị hôm nay, không phải giá đã mua:
+
+| Loại tài sản | Cách định giá |
+|---|---|
+| Tiền mặt và tiền trong tài khoản | Số dư hiện tại |
+| Sổ tiết kiệm | Gốc cộng lãi đã phát sinh |
+| Vàng | Theo giá bán ra hiện tại |
+| Chứng chỉ quỹ, cổ phiếu | Theo giá thị trường hôm nay |
+| Bất động sản | Theo giá có thể bán được, không phải giá kỳ vọng |
+| Xe | Theo giá bán lại thực tế |
+| Khoản người khác nợ mình | Chỉ tính phần tin là thu được |
+
+**Bước 2 – Liệt kê nợ:**
+
+- dư nợ vay mua nhà, tức số còn phải trả, không phải khoản trả hằng tháng;
+- dư nợ vay xe, vay tiêu dùng, trả góp;
+- dư nợ thẻ tín dụng;
+- tiền vay người thân, bạn bè.
+
+**Bước 3 – Lấy hiệu số.** Tổng tài sản trừ tổng nợ cho ra tài sản ròng. Theo bài, đây là con số thật tại thời điểm này, trung thực hơn nhiều so với cảm giác "hình như dạo này mình ổn". Ghi lại ngày tháng của lần đo này làm mốc 0, rồi đo lại sau 6 tháng.
 
 ### 4. Ví dụ: gia đình chị Ngân
-- Chị Ngân 34 tuổi, TP.HCM, hai vợ chồng thu nhập 45 triệu/tháng.
+
+Chị Ngân 34 tuổi, sống ở TP.HCM; thu nhập của hai vợ chồng là 45 triệu đồng/tháng. Bảng tài sản ròng của gia đình chị:
 
 | Tài sản | Giá trị | Nợ | Giá trị |
 |---|---|---|---|
@@ -83,31 +125,49 @@
 | Vàng 3 chỉ | 45 triệu | | |
 | **Tổng tài sản** | **2.670 triệu** | **Tổng nợ** | **1.668 triệu** |
 
-- Tài sản ròng = 2,67 tỷ − 1,668 tỷ = 1,002 tỷ, khoảng 1 tỷ đồng (kiểm tra cộng: đúng).
-- Nhìn riêng căn hộ, chị thấy mình "có 2,4 tỷ"; nhìn riêng khoản trả góp, chị thấy mình nghèo. Chỉ bảng đầy đủ mới cho con số thật 1 tỷ và cho biết con số đó sẽ đi về đâu trong 12 tháng tới.
+Tài sản ròng = 2,67 tỷ − 1,668 tỷ = 1,002 tỷ, tức khoảng 1 tỷ đồng. Phép cộng và trừ đều đúng.
+
+Ý nghĩa của ví dụ: nếu chỉ nhìn căn hộ, chị Ngân cảm thấy mình "có 2,4 tỷ"; nếu chỉ nhìn khoản trả góp hằng tháng, chị lại cảm thấy mình nghèo. Chỉ khi lập bảng đầy đủ, chị mới thấy con số thật là khoảng 1 tỷ, và có căn cứ để theo dõi con số đó sẽ đi về đâu trong 12 tháng tới.
 
 ### 5. Hướng đi quan trọng hơn con số
-- Không so với người khác; so với chính mình 6 tháng trước.
-- Tăng đều: đúng hướng dù con số còn nhỏ.
-- Đứng yên dù thu nhập tăng: tiền chảy hết vào chi tiêu hoặc lãi vay, bẫy "kiếm nhiều hơn, tiêu nhiều hơn".
-- Giảm: rà lại ngay, nợ lãi cao đang bào mòn hay tài sản đang mất giá.
-- Âm nhưng thu hẹp: vẫn là tin tốt, đang trả nợ nhanh hơn tốc độ nợ sinh ra.
+
+Bài khuyên không so tài sản ròng của mình với người khác, vì mỗi người có điểm xuất phát khác nhau, mà so với chính mình 6 tháng trước. Có bốn kịch bản:
+
+| Hướng đi | Ý nghĩa theo bài |
+|---|---|
+| Tăng đều | Đang đi đúng hướng, dù con số còn nhỏ |
+| Đứng yên dù thu nhập tăng | Tiền chảy hết vào chi tiêu hoặc lãi vay; đây là bẫy "kiếm nhiều hơn, tiêu nhiều hơn" |
+| Giảm | Cần rà lại ngay: có phải nợ lãi cao đang bào mòn, hay tài sản đang mất giá |
+| Âm nhưng thu hẹp | Vẫn là tin tốt: bạn đang trả nợ nhanh hơn tốc độ nợ sinh ra |
 
 ### 6. Đừng nhầm tài sản với đồ dùng
-- Xe hơi 800 triệu là tài sản trên bảng tính nhưng mất giá mỗi năm và tiêu tiền hằng tháng.
-- Tài sản thật sự là thứ sinh ra tiền hoặc giữ giá trị: tiết kiệm, chứng chỉ quỹ, cổ phiếu, bất động sản cho thuê.
-- Nhiều bảng tài sản trông to nhưng phần lớn là đồ tiêu dùng đang xuống giá và gánh lãi vay.
+
+Một chiếc xe hơi 800 triệu là tài sản trên bảng tính, nhưng nó mất giá mỗi năm và còn tiêu tiền hằng tháng (xăng, bảo dưỡng, gửi xe, bảo hiểm). Theo bài, tài sản thật sự là thứ sinh ra tiền hoặc giữ được giá trị: tiền tiết kiệm, chứng chỉ quỹ, cổ phiếu, bất động sản cho thuê.
+
+Bài cảnh báo rằng nhiều bảng tài sản trông rất to, nhưng phần lớn là đồ tiêu dùng đang xuống giá và còn gánh lãi vay. Những bảng như vậy có tài sản ròng dễ giảm theo thời gian.
 
 ### 7. Tần suất đo và hành động
-- Sáu tháng một lần là đủ: hằng tháng dễ bị nhiễu bởi biến động giá vàng, cổ phiếu và dễ nản; mỗi năm một lần quá thưa để điều chỉnh. Chọn hai mốc cố định, ví dụ đầu tháng 1 và đầu tháng 7, ghi cùng một file.
-- Việc làm trong 15 phút: (1) mở bảng tính, tạo hai cột TÀI SẢN và NỢ; (2) điền theo hai danh sách, ghi giá trị hôm nay, không làm tròn có lợi cho mình; (3) lấy hiệu số, ghi ngày tháng làm mốc số 0; (4) đặt lịch nhắc 6 tháng sau đo lại, mục tiêu duy nhất là lần sau lớn hơn lần này.
+
+**Sáu tháng một lần là đủ.** Đo hằng tháng thì con số dễ bị nhiễu bởi biến động giá vàng, cổ phiếu, khiến người đo dễ nản; đo mỗi năm một lần thì quá thưa để kịp điều chỉnh. Bài khuyên chọn hai mốc cố định trong năm, ví dụ đầu tháng 1 và đầu tháng 7, và ghi kết quả vào cùng một file.
+
+**Việc làm trong 15 phút:**
+
+1. Mở bảng tính, tạo hai cột TÀI SẢN và NỢ.
+2. Điền theo hai danh sách ở mục 3, ghi giá trị hôm nay, và không làm tròn theo hướng có lợi cho mình.
+3. Lấy hiệu số, ghi ngày tháng làm mốc số 0.
+4. Đặt lịch nhắc 6 tháng sau để đo lại; mục tiêu duy nhất là con số lần sau lớn hơn lần này.
 
 ### 8. Câu hỏi thường gặp
-- Tài sản ròng là thước đo chính xác nhất về tình hình tài chính tại một thời điểm.
-- Tài sản ròng âm không đáng hoảng sợ với người trẻ vừa vay mua nhà; quan trọng là đang thu hẹp.
-- Nhà đang ở có tính vào tài sản: theo giá thị trường bán được, đồng thời ghi dư nợ vay còn lại vào cột nợ; tính một vế bỏ vế kia sẽ sai lệch.
-- Bao nhiêu là đủ: không có con số chung, hướng tới mức đủ để an toàn rồi độc lập tài chính theo mục tiêu riêng.
-- Khác ghi chép chi tiêu: ghi chép theo dõi dòng tiền hằng tháng; tài sản ròng chụp bức tranh tổng thể tại một thời điểm; cần cả hai, nhưng tài sản ròng cho biết kết quả cuối cùng.
+
+**Tài sản ròng có ý nghĩa gì?** Đây là thước đo chính xác nhất về tình hình tài chính tại một thời điểm.
+
+**Tài sản ròng âm có đáng lo không?** Không đáng hoảng sợ với người trẻ vừa vay mua nhà; điều quan trọng là nó đang thu hẹp.
+
+**Nhà đang ở có tính vào tài sản không?** Có, theo giá thị trường có thể bán được, đồng thời phải ghi dư nợ vay còn lại vào cột nợ. Tính một vế mà bỏ vế kia sẽ cho kết quả sai lệch.
+
+**Bao nhiêu là đủ?** Không có con số chung; mỗi người hướng tới mức đủ để an toàn, rồi tới độc lập tài chính, theo mục tiêu riêng.
+
+**Khác gì ghi chép chi tiêu?** Ghi chép chi tiêu theo dõi dòng tiền hằng tháng; tài sản ròng chụp bức tranh tổng thể tại một thời điểm. Cần cả hai, nhưng tài sản ròng cho biết kết quả cuối cùng.
 
 ## Thuật ngữ
 
