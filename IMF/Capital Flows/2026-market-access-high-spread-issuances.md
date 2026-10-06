@@ -4,7 +4,7 @@
 **Tác giả:** chưa xác định (bản PDF bắt đầu từ trang 5, không có trang bìa và trang tác giả).
 **Ý chính:** Tỷ lệ các đợt phát hành trái phiếu quốc tế với chênh lệch lợi suất trên 500 điểm cơ bản đạt kỷ lục 20% năm 2020 và giữ trên 25% từ đó, cho thấy ràng buộc tiếp cận thị trường đang siết lại. Bài dựng một mô hình rủi ro đạo đức để chỉ ra rằng **chênh lệch lợi suất một mình không đủ để tóm tắt khả năng tiếp cận thị trường** — giá trị ròng của người vay, động cơ nỗ lực và chất lượng tín hiệu mà chủ nợ nhận được cũng quyết định. Kiểm chứng bằng mô hình rừng ngẫu nhiên với 99 biến cho 46 nước, bài tìm ra một quan hệ **hình chữ U ngược**: xác suất phát hành **tăng** theo chênh lệch cho tới khoảng 200 điểm cơ bản rồi mới giảm, và rơi mạnh nhất quanh 600 điểm. Ở vùng chênh lệch thấp, việc phát hành phản ánh **nhu cầu tài trợ**; ở vùng cao, nó phản ánh **nguồn cung vốn**. Đúng như mô hình dự báo, **36% các đợt phát hành ở chênh lệch cao có kèm đặc tính phi truyền thống** như bảo lãnh hay tài sản bảo đảm, và tỷ lệ lên 42% khi ngưỡng nâng lên 600 điểm.
 
-> **Lưu ý:** bản PDF bắt đầu từ trang 5 (phần Giới thiệu), không có trang bìa và trang tác giả. Số hiệu tài liệu lấy từ trang bìa sau.
+> **Lưu ý:** bản PDF bắt đầu từ trang 5 (phần Giới thiệu), không có trang bìa và trang tác giả. Số hiệu tài liệu lấy từ trang bìa sau. Câu "tỷ lệ phát hành chênh lệch trên 500 điểm cơ bản đạt kỷ lục 20% năm 2020 và giữ trên 25% từ đó" tự mâu thuẫn: nếu sau 2020 luôn trên 25% thì 20% năm 2020 không thể là kỷ lục. Không có bản gốc để biết con số nào chép sai nên giữ nguyên.
 
 ## Sơ đồ
 
@@ -35,7 +35,7 @@
           phần còn lại cho người vay khi trả được nợ đã nhỏ đi
        → giải thích vì sao thị trường ĐÓNG HẲN với các nước có phần
          bù rủi ro vượt một ngưỡng nào đó
-       ★ BẰNG CHỨNG (Hình 2): tần suất phát hành GIẢM khi chênh
+       ★ BẰNG CHỨNG: tần suất phát hành GIẢM khi chênh
          lệch tăng, và giảm DỐC NHẤT trong khoảng 300–800 điểm
        ⚠ lãi suất PHI RỦI RO của Mỹ đóng vai trò RẤT NHỎ trong
          việc giải thích quyết định phát hành → yếu tố RỦI RO

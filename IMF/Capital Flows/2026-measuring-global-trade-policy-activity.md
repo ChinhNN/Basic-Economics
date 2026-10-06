@@ -4,7 +4,7 @@
 **Tác giả:** Samuele Centorrino, Antonia Diakantoni, Alexander Keck, Michele Ruta, Monika Sztajerowska, Yuting Wei (IMF, WTO, Đại học Bocconi, Trường Kinh tế Toulouse).
 **Ý chính:** Chính phủ ngày càng dùng nhiều công cụ thương mại cùng lúc — thuế quan, biện pháp phi thuế quan, trợ cấp — với tần suất ngày càng dày, vừa hạn chế vừa tạo thuận lợi cho thương mại. Các chỉ số hiện có chỉ nắm được một phần. Bài xây **Chỉ số Hoạt động Chính sách Thương mại (TPA)** theo **tháng, cho 197 nền kinh tế, từ 1/2010**, bằng **mô hình nhân tố động** trên hai nguồn giám sát bổ sung nhau: Cơ sở dữ liệu Giám sát Thương mại của WTO và Global Trade Alert. Chỉ số có **xu hướng đi lên, tăng tốc từ 2020**, với các đỉnh trùng với **căng thẳng Mỹ–Trung 2018–2019**, **COVID-19**, **chiến tranh Ukraine** và **căng thẳng thương mại 2025**. Biện pháp tạo thuận lợi và biện pháp hạn chế **đi cùng nhau** ở cấp toàn cầu, trừ những giai đoạn như 2025 khi chúng **tách ra**. Nhóm G20 có xu hướng tăng bền hơn, nhưng sự gia tăng hạn chế **không chỉ do các nước chiếm tiêu đề báo chí**.
 
-> **Lưu ý:** bản PDF có trang tóm tắt và Phụ lục bổ sung, nhưng trang bìa sau không ghi tên và số hiệu tài liệu. Năm trong tên file lấy theo thời điểm dữ liệu được truy cập.
+> **Lưu ý:** bản PDF có trang tóm tắt và Phụ lục bổ sung, nhưng trang bìa sau không ghi tên và số hiệu tài liệu. Năm trong tên file lấy theo thời điểm dữ liệu được truy cập. Đỉnh của nhóm G20 được ghi là "2017–2018", trong khi mọi chỗ khác (đợt căng thẳng Mỹ–Trung, thời điểm biện pháp hạn chế của G20 tách khỏi các nhóm khác) đều ghi 2018–2019; không có bản gốc để xác định đây là đỉnh thật sớm hơn hay chép nhầm năm nên giữ nguyên.
 
 ## Sơ đồ
 

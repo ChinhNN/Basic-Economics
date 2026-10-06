@@ -1,4 +1,4 @@
-# Nợ công. Việt Nam đang vay bao nhiêu và có đáng lo.
+# Nợ công: Việt Nam đang vay bao nhiêu và có đáng lo?
 
 **Nguồn:** AI WikiMoney (wikimoney.ai.vn), chuyên mục Kinh tế › Kinh tế vĩ mô, đăng ngày 21/8/2025. https://wikimoney.ai.vn/no-cong-viet-nam-dang-vay-bao-nhieu-va-co-dang-lo-3703.html
 **Tác giả:** WikiMoney team.

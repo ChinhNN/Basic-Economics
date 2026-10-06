@@ -157,7 +157,7 @@
 
 ## Nội dung chi tiết
 
-Suy tưởng không chia chủ đề mà chỉ có các mục đánh số. Phần dưới đi theo thứ tự các mục, chia làm bốn phần như Dàn ý cũ, và gom các mục gần nhau về ý thành từng đoạn để thấy mạch suy nghĩ. Số mục (ví dụ 7.14) là số dùng chung trong mọi bản dịch.
+Suy tưởng không chia chủ đề mà chỉ có các mục đánh số. Phần dưới đi theo thứ tự các mục, chia làm bốn phần, và gom các mục gần nhau về ý thành từng đoạn để thấy mạch suy nghĩ. Số mục (ví dụ 7.14) là số dùng chung trong mọi bản dịch.
 
 ### Phần (1): mục 1–17a
 

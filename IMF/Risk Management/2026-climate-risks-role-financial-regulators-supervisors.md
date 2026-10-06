@@ -183,7 +183,7 @@
           → ★★ công ty bảo hiểm gốc giữ lại NHIỀU RỦI RO HƠN trên
             bảng cân đối của chính mình
           → phơi nhiễm ròng của hệ thống TĂNG dù tổng rủi ro không đổi
-       ② ★★ "HIỂM HOẠ THỨ CẤP" NAY SÁNH NGANG "HIỂM HOẠ CHÍNH
+       ② ★★ "HIỂM HOẠ THỨ CẤP" NAY SÁNH NGANG "HIỂM HOẠ CHÍNH"
           ┌───────────────────┬────────────────────────────────────┐
           │ hiểm hoạ CHÍNH    │ bão nhiệt đới, động đất — hiếm,    │
           │ (primary perils)  │ lớn, được mô hình hoá kỹ           │

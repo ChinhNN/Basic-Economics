@@ -344,7 +344,7 @@
        │ khủng hoảng đầu 2000    │ thập niên 2010                │
        │ → tỷ trọng cổ phần TĂNG │ → tỷ trọng cổ phần GIẢM       │
        │   MẠNH                  │                               │
-       │ ★ CƠ CHẾ: nhà đầu tư    │ ★ CƠ CẾ: biện pháp NGĂN CẢN   │
+       │ ★ CƠ CHẾ: nhà đầu tư    │ ★ CƠ CHẾ: biện pháp NGĂN CẢN  │
        │   trực tiếp nước ngoài  │   đầu tư cổ phần nước ngoài   │
        │   thấy KHÓ thanh lý vị  │   MỚI                         │
        │   thế hoặc hồi hương    │                               │

@@ -124,7 +124,7 @@ Trong cả hai trường hợp, hàng xuất khẩu truyền thống trở nên 
 
 **Ví dụ thực tế.** Các hiệu ứng này diễn ra ở các nước xuất khẩu dầu mỏ thập niên 1970, khi giá dầu tăng vọt: xuất khẩu dầu tăng, nhưng phải trả giá bằng sự teo lại của nông nghiệp và chế tạo.
 
-Ví dụ thứ hai không liên quan đến tài nguyên khoáng sản. Sương giá phá hỏng vụ cà phê của Brazil, đẩy giá cà phê thế giới tăng vọt vào cuối thập niên 1970. Colombia, một nước xuất khẩu cà phê lớn khác, trải qua một đợt bùng nổ cà phê trong giai đoạn 1975–77. Diễn biến đúng như mô hình dự đoán:
+Ví dụ thứ hai không liên quan đến tài nguyên khoáng sản. Sương giá phá hỏng vụ cà phê của Brazil, đẩy giá cà phê thế giới tăng vọt vào giữa thập niên 1970. Colombia, một nước xuất khẩu cà phê lớn khác, trải qua một đợt bùng nổ cà phê trong giai đoạn 1975–77. Diễn biến đúng như mô hình dự đoán:
 
 | Bước | Diễn biến ở Colombia |
 |---|---|

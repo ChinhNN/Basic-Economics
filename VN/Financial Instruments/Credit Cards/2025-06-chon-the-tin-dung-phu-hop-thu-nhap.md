@@ -4,7 +4,7 @@
 **Tác giả:** WikiMoney (bài chỉ ghi tên ban biên tập, không nêu tên cá nhân).
 **Ý chính:** Chọn thẻ tín dụng là một quy trình ba bước: đánh giá thu nhập, chi tiêu cố định và nợ hiện có; xác định mục đích dùng thẻ (mua sắm, du lịch, trả góp, xây dựng điểm tín dụng); rồi so sánh hạng thẻ, phí, lãi suất, kỳ miễn lãi và ưu đãi. Thẻ chỉ là công cụ: hiệu quả do kỷ luật người dùng quyết định, nên phải đọc kỹ hợp đồng, trả đủ đúng hạn và không chạy theo hạn mức cao.
 
-> **Lưu ý:** Bài đưa hai mức thu nhập khác nhau cho cùng một hạng thẻ chuẩn (Classic): mục 1.1 nói thu nhập 10–15 triệu đồng/tháng là đủ điều kiện, mục 3.1 lại nói thẻ chuẩn phù hợp với thu nhập 5–10 triệu đồng/tháng. Câu "chỉ nên sử dụng hạn mức không vượt quá 30% thu nhập" cũng mơ hồ (30% thu nhập hay 30% hạn mức). Mục 4.3 khuyên dùng 20–30 triệu trên hạn mức 50 triệu, tức tỷ lệ sử dụng 40–60%, cao hơn ngưỡng 30% mà các bài cùng chuyên mục khuyến nghị.
+> **Lưu ý:** Bài đưa hai mức thu nhập khác nhau cho cùng một hạng thẻ chuẩn (Classic): phần yêu cầu thu nhập nói 10–15 triệu đồng/tháng là đủ điều kiện, phần so sánh hạng thẻ lại nói thẻ chuẩn phù hợp với thu nhập 5–10 triệu đồng/tháng. Câu "chỉ nên sử dụng hạn mức không vượt quá 30% thu nhập" cũng mơ hồ (30% thu nhập hay 30% hạn mức). Phần kiểm soát hạn mức khuyên dùng 20–30 triệu trên hạn mức 50 triệu, tức tỷ lệ sử dụng 40–60%, cao hơn ngưỡng 30% mà các bài cùng chuyên mục khuyến nghị.
 
 ## Sơ đồ
 
@@ -191,4 +191,4 @@ Bài nêu tỷ lệ hoàn tiền mà không nhắc đến trần hoàn tiền m�
 Trả góp 0% thường đi kèm phí chuyển đổi trả góp hoặc giá bán không được giảm như khi trả tiền mặt, nên chi phí thật có thể khác 0. Ngược lại, khi không trả đủ dư nợ, ở nhiều ngân hàng Việt Nam lãi được tính trên toàn bộ dư nợ sao kê kể từ ngày giao dịch chứ không chỉ trên phần còn thiếu; đây là chi tiết quan trọng hơn mức lãi danh nghĩa 20–30%/năm mà bài không nhắc.
 
 ### Khuyến nghị về hạn mức thiếu nhất quán với logic điểm tín dụng
-Mục 4.3 chấp nhận dùng 20–30 triệu trên hạn mức 50 triệu (40–60%), trong khi các bài cùng chuyên mục khuyên giữ tỷ lệ sử dụng dưới 30%. Với người đọc Việt Nam, nguyên tắc an toàn hơn là: hạn mức cao không có hại nếu kỷ luật tốt, nhưng dư nợ luôn phải nằm trong khả năng trả đủ một lần.
+Phần kiểm soát hạn mức của bài chấp nhận dùng 20–30 triệu trên hạn mức 50 triệu (40–60%), trong khi các bài cùng chuyên mục khuyên giữ tỷ lệ sử dụng dưới 30%. Với người đọc Việt Nam, nguyên tắc an toàn hơn là: hạn mức cao không có hại nếu kỷ luật tốt, nhưng dư nợ luôn phải nằm trong khả năng trả đủ một lần.

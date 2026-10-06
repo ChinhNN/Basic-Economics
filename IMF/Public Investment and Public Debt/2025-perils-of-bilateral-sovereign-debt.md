@@ -10,6 +10,7 @@
 > - Bảng 1 ghi δ = 0,05 là "thời hạn của nợ", nhưng thực chất đó là tốc độ giảm dần của coupon.
 > - Phụ lục nói mô hình với θ = 0 và β < β_L tái tạo Hatchondo, Martinez và Önder (2017), nhưng bài không báo cáo giá trị β_L trong hiệu chỉnh.
 > - Chú thích Bảng 4 viết sai chính tả "biltaral".
+> - Câu "tỷ trọng chủ nợ song phương đi từ dưới một phần sáu lên khoảng một phần ba tổng nợ chính thức" không khớp bảng đọc từ hình: nếu song phương gồm Câu lạc bộ Paris, Trung Quốc và song phương khác thì tỷ trọng đi từ khoảng 0,6/1,2 (một nửa) năm 2000 xuống khoảng 0,5/1,6 (gần một phần ba) năm 2023; nếu chỉ tính chủ nợ ngoài Câu lạc bộ Paris thì đi từ khoảng 1/12 lên khoảng 1/6. Không rõ bài định nghĩa thế nào nên giữ nguyên câu.
 > Các số trên hình là giá trị ước đọc.
 
 ## Sơ đồ
@@ -17,7 +18,7 @@
 ### Bằng chứng mở đầu
 
 ```text
-       HÌNH 1 — NỢ CHÍNH THỨC NƯỚC NGOÀI CỦA CÁC THỊ TRƯỜNG MỚI NỔI
+       NỢ CHÍNH THỨC NƯỚC NGOÀI CỦA CÁC THỊ TRƯỜNG MỚI NỔI
        (nghìn tỷ USD giá 2023, ước đọc)
        ┌──────────────────┬──────────┬──────────┐
        │                  │ 2000     │ 2023     │
@@ -67,7 +68,7 @@
        lãi suất ngầm r: x = m'/(1 + r) − m
        θ = 0,5 · β = β_L (tách khỏi động cơ vay trước)
        ═══════════════════════════════════════════════════════════
-       ★★ CHIẾN LƯỢC CỦA CHỦ NỢ (Hình 2, 4)
+       ★★ CHIẾN LƯỢC CỦA CHỦ NỢ
        nợ THẤP, thu nhập THẤP → lãi suất TRỢ GIÁ, thậm chí ÂM (~−7%)
           │ để kéo con nợ vào mức nợ cao
           ▼
@@ -173,7 +174,7 @@
 ### Quanh các lần vỡ nợ
 
 ```text
-       HÌNH 6 — KHÔNG HẠN CHẾ (ước đọc)
+       PHƯƠNG ÁN KHÔNG HẠN CHẾ: QUANH THỜI ĐIỂM VỠ NỢ (ước đọc)
        ┌─────────────────┬──────────────────┬───────────────────┐
        │                 │ 2 năm TRƯỚC      │ lúc VỠ NỢ và sau  │
        ├─────────────────┼──────────────────┼───────────────────┤
@@ -185,7 +186,7 @@
          trợ giá; hình KHÔNG thể hiện những lần vỡ nợ đã tránh được
        → khi vỡ nợ: lãi vọt lên, chủ nợ thu lời trong suốt thời gian
          bị loại khỏi thị trường
-       ★ HÌNH 14: quay lại thị trường là phát hành trái phiếu NGAY để
+       ★ quay lại thị trường là phát hành trái phiếu NGAY để
          trả hết khoản vay song phương → chủ nợ cược rằng thu nhập
          KHÔNG hồi phục và thời gian bị loại DÀI
 ```
@@ -193,34 +194,34 @@
 ### Giá nợ và vùng vỡ nợ
 
 ```text
-       HÌNH 7 — NỢ/GDP TẠI ĐÓ XÁC SUẤT VỠ NỢ VƯỢT 50% (ước đọc)
+       NỢ/GDP TẠI ĐÓ XÁC SUẤT VỠ NỢ VƯỢT 50% (ước đọc)
        chỉ thị trường, hạn chế: ~17% (z thấp) → ~39% (z cao)
        ★ không hạn chế: thấp hơn ~1–2 điểm → gánh được ÍT nợ hơn
        ═══════════════════════════════════════════════════════════
-       HÌNH 8 — GIÁ TRÁI PHIẾU q khi b' thấp (ước đọc)
+       GIÁ TRÁI PHIẾU q khi b' thấp (ước đọc)
        chỉ thị trường ~0,88 · hạn chế ~0,81 · ★ không hạn chế ~0,69
        ★★ phương án HẠN CHẾ không đổi quyết định vỡ nợ kỳ tới, NHƯNG
           giá vẫn THẤP hơn → vì chính sách VAY TƯƠNG LAI thay đổi →
           tăng PHA LOÃNG NỢ
        ═══════════════════════════════════════════════════════════
-       HÌNH 9 — PHÂN BỐ NỢ/GDP: có vay song phương (cả hai phương án)
+       PHÂN BỐ NỢ/GDP: có vay song phương (cả hai phương án)
          → nền kinh tế ở LÂU HƠN trong vùng nợ cao, rủi ro vỡ nợ lớn
          (đỉnh dời từ ~24% sang ~27–28%)
-       HÌNH 12 — hàm giá trị: chính phủ muốn vay song phương BỊ CẤM
+       hàm giá trị: chính phủ muốn vay song phương BỊ CẤM
          lúc vỡ nợ, trừ khi sắp vỡ nợ ngay kỳ này
 ```
 
 ### Vay quá mức do quan hệ
 
 ```text
-       HÌNH 10 — LỢI NHUẬN CHỦ NỢ LỚN theo nợ thị trường b
+       LỢI NHUẬN CHỦ NỢ LỚN theo nợ thị trường b
        ★ TĂNG theo b khi rủi ro còn vừa phải: chênh lệch mở rộng →
          chủ nợ có giá trị hơn với chính phủ → thặng dư lớn hơn
        nợ quá cao: hạn chế → lợi nhuận GIẢM (vỡ nợ thì phải trả hết m);
          không hạn chế → lợi nhuận TĂNG vọt (thu được nhiều lúc vỡ nợ)
        nợ an toàn: chủ nợ chẳng có gì hơn thị trường để bán
        ═══════════════════════════════════════════════════════════
-       ★★ HÌNH 11 — lãi song phương theo b' (phương án hạn chế)
+       ★★ lãi song phương theo b' (phương án hạn chế)
        b' ≈ 0 → ~8–15% · b' ≈ 0,7 trở lên → ~0%
        → lãi song phương GIẢM MẠNH khi nợ thị trường TĂNG
        ═══════════════════════════════════════════════════════════

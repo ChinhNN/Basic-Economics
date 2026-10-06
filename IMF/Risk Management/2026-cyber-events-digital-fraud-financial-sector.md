@@ -16,6 +16,9 @@
 > - Danh mục ghi "**UK Finance (2023)**. 2023 Half Year Fraud Update" nhưng lời văn dẫn "**UK Finance, 2024**".
 > - Lời văn dẫn các mục "Section 2… Section 5 concludes" trong khi các đề mục trong bài **không được đánh số**.
 > - Tỷ trọng khu vực tài chính được mô tả là "**doubled** từ 6% lên 13%" — 6→13 là hơn gấp đôi; và Kết luận nói sự cố khu vực tài chính "đã tăng **gấp mười**" trong khi hình cho khoảng 35 (2014) → 312 (2023), tức khoảng **chín lần**.
+> - **Ngành Thông tin có hai tổng khác nhau**: Bảng 1 ghi **1.446** sự cố (10,29%), còn phần phân tích riêng ngành (Bảng 3) ghi **1.414**. Bài không giải thích chênh 32 sự cố.
+> - **Chuỗi sự cố khu vực tài chính đọc từ hai hình không khớp**: hình chuỗi thời gian cho khoảng **312** sự cố ở cả 2022 và 2023, còn hình so sánh với nhà cung cấp CNTT cho khoảng **250** (2022) và **295** (2023). Có thể hai hình dùng định nghĩa khác nhau; không đủ dữ liệu để biết số nào đúng.
+> - **Số sự cố ngân hàng trung ương không cộng khớp**: bình quân khoảng 3 sự cố/năm trong 9 năm cộng 18 sự cố năm 2016 cho khoảng **45**, trong khi Bảng 2 chỉ có **41** (và biểu đồ tròn cho 38). Bài cũng không nói cả 18 sự cố năm 2016 đều thuộc chiến dịch của Anonymous.
 > Các số lấy từ hình là giá trị đọc trên hình.
 
 ## Sơ đồ
@@ -1028,9 +1031,9 @@ Cùng lỗi mẫu số lặp lại ở kết quả về ngân hàng trung ương
 
 ### Ba trong số các phát hiện được nhấn mạnh nhất đứng trên những con số đếm hàng chục
 
-Cần nói thẳng về nền quan sát. Toàn bộ phần về ngân hàng trung ương — một trong năm tiểu ngành, và là tiểu ngành bài dành nhiều chữ nhất vì tầm quan trọng hệ thống — dựa trên **41 sự cố trong mười năm**, trong đó **18 sự cố đến từ một chiến dịch DDoS kéo dài một tháng của nhóm Anonymous năm 2016**.
+Cần nói thẳng về nền quan sát. Toàn bộ phần về ngân hàng trung ương — một trong năm tiểu ngành, và là tiểu ngành bài dành nhiều chữ nhất vì tầm quan trọng hệ thống — dựa trên **41 sự cố trong mười năm**, trong đó **18 sự cố rơi vào năm 2016, năm có chiến dịch DDoS kéo dài một tháng của nhóm Anonymous**.
 
-Nghĩa là gần một nửa toàn bộ dữ liệu ngân hàng trung ương của cả thập kỷ đến từ một sự kiện đơn lẻ, mang tính biểu tình chính trị, nhắm vào website công khai chứ không vào hệ thống lõi. Bỏ sự kiện đó ra, còn lại khoảng hai chục sự cố trải trên mười năm và khoảng một trăm chín mươi ngân hàng trung ương. Đây không phải là một mẫu đủ để nói bất cứ điều gì về xu hướng, phân bố theo nhóm thu nhập, hay phương thức tấn công.
+Nghĩa là gần một nửa toàn bộ dữ liệu ngân hàng trung ương của cả thập kỷ dồn vào một năm, mà bài quy chủ yếu cho một sự kiện đơn lẻ, mang tính biểu tình chính trị, nhắm vào website công khai chứ không vào hệ thống lõi. Bỏ năm đó ra, còn lại khoảng hai chục sự cố trải trên mười năm và khoảng một trăm chín mươi ngân hàng trung ương. Đây không phải là một mẫu đủ để nói bất cứ điều gì về xu hướng, phân bố theo nhóm thu nhập, hay phương thức tấn công.
 
 Điều này không phải lỗi của nhóm tác giả — dữ liệu công khai chỉ có vậy, và họ nói rõ điều đó ngay ở đầu bài. Nhưng nó có nghĩa là **phần ngân hàng trung ương nên được đọc như một khung phân tích định tính về các kênh lan truyền, chứ không như một mô tả thực nghiệm**. Ba kênh mà bài vạch ra — mất niềm tin, căng thẳng thanh khoản, và hạn chế về sức chịu đựng vận hành — có giá trị độc lập với số liệu và là phần hữu ích nhất của mục này.
 

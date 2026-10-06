@@ -201,7 +201,7 @@ Toàn bộ lập luận của bài là người mới không có thời gian và
 "Vài trăm nghìn đồng" khả thi nhờ giao dịch lô lẻ, nhưng mua lô lẻ thường có thanh khoản kém, chênh lệch giá lớn hơn, và mỗi lệnh đều chịu phí môi giới. Với kế hoạch DCA 2 triệu đồng mỗi tháng, phí giao dịch và chênh lệch giá cần được tính cùng phí quản lý. Bài cũng không nhắc ETF có thể giao dịch cao hơn hay thấp hơn NAV, dù bài ETF khác của WikiMoney (14/7/2026) đã nêu rủi ro này.
 
 ### Câu chuyện nâng hạng cần được đọc thận trọng
-Dòng vốn ETF quốc tế khi nâng hạng là có thật về cơ chế, nhưng thường đã được thị trường phản ánh trước vào giá các cổ phiếu được dự kiến mua. Người mới không nên mua ETF vì kỳ vọng sự kiện nâng hạng, mà vì lợi ích đa dạng hóa và chi phí dài hạn. Bài chỉ nói "giúp không bị ngợp trước dòng tin", cách diễn đạt này chấp nhận được.
+Dòng vốn ETF quốc tế khi nâng hạng là có thật về cơ chế, nhưng thường đã được thị trường phản ánh trước vào giá các cổ phiếu được dự kiến mua. Người mới không nên mua ETF vì kỳ vọng sự kiện nâng hạng, mà vì lợi ích đa dạng hóa và chi phí dài hạn. Bài chỉ nêu nâng hạng như lý do ETF được nhắc đến nhiều hơn, không khuyên mua theo sự kiện, nên cách diễn đạt này chấp nhận được.
 
 ### Chỉ số Việt Nam tập trung cao vào ngân hàng và bất động sản
 VN30 thường có tỷ trọng ngân hàng rất lớn; VNFIN LEAD gần như toàn bộ là tài chính. Vì vậy "đa dạng hóa hàng chục cổ phiếu" vẫn mang rủi ro ngành đáng kể. Với người mới, ETF VN30 làm phần lõi là hợp lý, còn ETF ngành và midcap nên chỉ chiếm phần nhỏ; ai muốn đa dạng hơn có thể kết hợp quỹ trái phiếu để giảm biến động tổng thể.

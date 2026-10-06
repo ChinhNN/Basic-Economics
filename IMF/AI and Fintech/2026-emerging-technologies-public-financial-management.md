@@ -5,6 +5,8 @@
 **Ý chính:** Gần như mọi quốc gia đều đã có hệ thống thông tin quản lý tài chính, nhưng phần lớn không còn đáp ứng được nhu cầu. Bài không khuyến nghị bất kỳ công nghệ cụ thể nào, mà đề xuất một cách tiếp cận tối đa hoá giá trị: nhân một điểm số về lợi ích tiềm năng với một điểm số về tính khả thi, rồi quyết định dựa trên kết quả. Thông điệp trung tâm là cạm bẫy lớn nhất không phải chọn sai công nghệ mà là tự động hoá một quy trình thủ công mà không thiết kế lại chính quy trình đó, và là để nhiệt tình đầu cơ dẫn dắt quyết định thay vì mục tiêu.
 
 > **Lưu ý:** bản PDF bắt đầu từ trang 2 (phần Giới thiệu). Trang bìa, tóm tắt và danh sách tác giả không có trong bản này. Số hiệu tài liệu lấy từ trang bìa sau.
+> - Ở phương án hợp đồng thông minh trên blockchain, bài ghi VM = 7,75 × 4,4 = **33**; phép nhân chính xác cho khoảng **34,1** (kết luận không đổi).
+> - Điểm lợi ích G của hai phương án sau không kiểm được: với phương án A, G = 7,75 đúng bằng bình quân không trọng số của bốn điểm thành phần (9, 8, 7, 7); nếu phương án B kết hợp AI chỉ tăng 2 điểm trách nhiệm giải trình so với phương án B thì theo cùng cách tính G phải là 7,5 + 0,5 = **8,0**, không phải **8,75**. Bài không nêu điểm thành phần và trọng số của phương án B nên không biết số nào đúng.
 
 ## Sơ đồ
 
@@ -156,7 +158,7 @@
        chưa có khung pháp lý cho hợp đồng thông minh (vận hành 3) ·
        cần hơn 18 tháng (tiến độ 4) · trọng số kinh tế 0,4
        → F = 4,4
-       ★ VM = 7,75 × 4,4 = 33 → NẰM Ở GÓC PHẦN TƯ II
+       ★ VM = 7,75 × 4,4 ≈ 34 (bài ghi 33) → NẰM Ở GÓC PHẦN TƯ II
          QUYẾT ĐỊNH: CHƯA ÁP DỤNG, hợp tác với nhà cung cấp và viện
          nghiên cứu để lấp khoảng trống khả thi trước
                                 │
@@ -522,7 +524,7 @@ Nói cách khác, công thức là **công cụ trách nhiệm giải trình đ�
 
 Trong toàn bộ tài liệu, phần có sức thuyết phục cao nhất là ví dụ về thanh toán theo tiến độ công trình, và lý do không phải vì nó minh hoạ công thức mà vì **kết quả của nó phản trực giác đúng theo chiều mà ngành cần nghe**.
 
-Hợp đồng thông minh trên blockchain — phương án hào nhoáng, phương án mà mọi hội thảo về công nghệ trong khu vực công đều nói tới — cho điểm lợi ích cao nhưng thất bại ở khả thi, và ra kết quả 33, tức là chưa nên làm. Một quy trình tự thực thi trên chính nền tảng đã có, không dùng blockchain, với nhật ký kiểm toán, phân quyền và chữ ký số, cho 57. Thêm một lớp AI phát hiện bất thường trước khi tiền chuyển đi, cho 63.
+Hợp đồng thông minh trên blockchain — phương án hào nhoáng, phương án mà mọi hội thảo về công nghệ trong khu vực công đều nói tới — cho điểm lợi ích cao nhưng thất bại ở khả thi, và ra kết quả khoảng 34 (bài ghi 33), tức là chưa nên làm. Một quy trình tự thực thi trên chính nền tảng đã có, không dùng blockchain, với nhật ký kiểm toán, phân quyền và chữ ký số, cho 57. Thêm một lớp AI phát hiện bất thường trước khi tiền chuyển đi, cho 63.
 
 Điều đáng học ở đây là **phương án tốt nhất là phương án nhàm chán nhất**, và nó tốt nhất không phải vì lợi ích lớn hơn mà vì nó dùng công nghệ đã trưởng thành, trên hạ tầng đã có, không vướng khoảng trống pháp lý, và triển khai được trong thời hạn hợp lý. Chênh lệch điểm lợi ích giữa hai phương án chỉ là 7,75 so với 7,5 — gần như bằng nhau. Toàn bộ khác biệt nằm ở khả thi.
 

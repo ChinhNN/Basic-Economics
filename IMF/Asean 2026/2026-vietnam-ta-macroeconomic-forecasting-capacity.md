@@ -10,7 +10,7 @@ Dự án kéo dài ba năm (5/2023 – 4/2026), do Chính phủ Nhật Bản tà
 
 **Ý chính:** Năm 2023, Bộ Kế hoạch và Đầu tư đề nghị IMF giúp xây năng lực dự báo kinh tế vĩ mô. Trước đó, mỗi bộ tự phân tích bằng phương pháp và số liệu riêng, kết quả thường không công khai, và Việt Nam **chưa có một khung dự báo vĩ mô đa khu vực**. Qua chín đợt công tác, dự án đạt ba kết quả:
 
-1. **Đội ngũ.** Thành lập **Nhóm Công tác Nòng cốt (CWG)** liên bộ đầu tiên, gồm cán bộ Bộ Kế hoạch và Đầu tư, Bộ Tài chính, Ngân hàng Nhà nước, Bộ Công Thương, Tổng cục Thống kê và Tổng cục Thuế. Nhóm phục vụ **Tổ công tác 1317**, tổ điều phối chính sách vĩ mô liên bộ lập theo Quyết định 1317 của Thủ tướng năm 2013. Báo cáo gọi việc lập nhóm này là "mang tính đột phá".
+1. **Đội ngũ.** Thành lập **Nhóm Công tác Nòng cốt (CWG)** liên bộ đầu tiên, gồm cán bộ Bộ Kế hoạch và Đầu tư, Bộ Tài chính, Ngân hàng Nhà nước, Bộ Công Thương và Tổng cục Thuế. Nhóm phục vụ **Tổ công tác 1317**, tổ điều phối chính sách vĩ mô liên bộ lập theo Quyết định 1317 của Thủ tướng năm 2013. Báo cáo gọi việc lập nhóm này là "mang tính đột phá".
 2. **Công cụ.** Xây và điều chỉnh cho Việt Nam hai công cụ Excel của IMF:
    - **Công cụ Nền tảng Khung Kinh tế Vĩ mô (MFT)**: dự báo bốn khu vực (thực, đối ngoại, tài khoá, tiền tệ).
    - **Công cụ Phân tích Động lực Nợ Công (DDT)**.

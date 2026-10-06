@@ -24,11 +24,12 @@
        │ Kazakhstan · Tenge số│         │ Canada             │
        │   ra mắt đầy đủ cuối │         │ Úc                 │
        │   2025               │         │ Thái Lan           │
-       │ Nga · Rúp số từ 9/26 │         │ ⚠ Hoa Kỳ — Hạ viện │
-       │ Brazil · Drex 2026   │         │   thông qua Đạo    │
-       │ Anh · Phòng thí      │         │   luật Chống Nhà   │
-       │   nghiệm Bảng số     │         │   nước Giám sát    │
-       │ ECB · xây bộ quy tắc │         │   bằng CBDC        │
+       │ Nga · Rúp số từ      │         │ ⚠ Hoa Kỳ — Hạ viện │
+       │   9/2026             │         │   thông qua Đạo    │
+       │ Brazil · Drex 2026   │         │   luật Chống Nhà   │
+       │ Anh · Phòng thí      │         │   nước Giám sát    │
+       │   nghiệm Bảng Anh số │         │   bằng CBDC        │
+       │ ECB · xây bộ quy tắc │         │                    │
        └──────────────────────┘         └────────────────────┘
                               │
                               ▼
@@ -83,7 +84,7 @@
        ─────────────────────────────────────────────────────
        Sổ tay CBDC ra mắt 11/2023 · 62.090 lượt truy cập ·
        49.287 lượt tải · do Chính phủ Nhật Bản tài trợ ·
-       Phụ lục I liệt kê mục lục cả 23 CHƯƠNG ·
+       báo cáo liệt kê mục lục cả 23 CHƯƠNG ·
        ★ LÀN SÓNG THỨ TƯ dự kiến trong năm 2026
 ```
 
@@ -201,9 +202,9 @@ Sổ tay được viết theo từng "làn sóng" chương. Báo cáo này tổn
 | Đang tiến tới | Đã tạm dừng hoặc hoãn |
 |---|---|
 | Kazakhstan ra mắt đầy đủ Tenge số vào cuối năm 2025 | Canada dừng hoặc hoãn CBDC bán lẻ |
-| Nga dự kiến đưa Rúp số vào dùng từ tháng 9 năm 2026 (ghi tắt 9/26) | Úc dừng hoặc hoãn CBDC bán lẻ |
+| Nga dự kiến đưa Rúp số vào dùng từ tháng 9 năm 2026 | Úc dừng hoặc hoãn CBDC bán lẻ |
 | Brazil tiếp tục dự án Drex trong năm 2026 | Thái Lan dừng hoặc hoãn CBDC bán lẻ |
-| Ngân hàng Anh vận hành Phòng thí nghiệm Bảng số | Hoa Kỳ: Hạ viện đã thông qua Đạo luật Chống Nhà nước Giám sát bằng CBDC |
+| Ngân hàng Anh vận hành Phòng thí nghiệm Bảng Anh số | Hoa Kỳ: Hạ viện đã thông qua Đạo luật Chống Nhà nước Giám sát bằng CBDC |
 | Ngân hàng Trung ương châu Âu (ECB) đang xây bộ quy tắc cho đồng euro số | |
 
 Trường hợp Hoa Kỳ đáng chú ý: tên đạo luật cho thấy lo ngại chính ở đó là CBDC có thể trở thành công cụ để nhà nước theo dõi chi tiêu của người dân.

@@ -357,7 +357,7 @@ Một lợi ích có thể còn lớn hơn là **đầu tư hiệu quả hơn**:
 
 | Thuật ngữ | Nghĩa trong bài |
 |---|---|
-| Comparative advantage | Lợi thế so sánh: xuất khẩu thứ có lợi thế tuyệt đối lớn nhất |
+| Comparative advantage | Lợi thế so sánh: lợi thế ở mặt hàng mà chi phí cơ hội của một nước thấp hơn nước khác, kể cả khi nước đó kém hơn ở mọi mặt hàng |
 | Absolute advantage | Lợi thế tuyệt đối: sản xuất một hàng hoá dùng ít đầu vào hơn |
 | Gains from trade | Lợi ích từ thương mại: sản lượng thêm mà thương mại tạo ra |
 | Factor endowments | Trữ lượng yếu tố: lao động và vốn tương đối dồi dào |

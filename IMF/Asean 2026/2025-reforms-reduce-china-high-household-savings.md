@@ -6,7 +6,7 @@
 
 **Ý chính:** Hộ gia đình Trung Quốc tiết kiệm khoảng **22% GDP**, trong khi trung vị OECD và trung vị các nước mới nổi chỉ khoảng 5–10%. Khoản tiết kiệm khổng lồ đó đã nuôi mô hình tăng trưởng dựa vào đầu tư vay nợ, và nay — khi cầu trong nước yếu, giá cả có xu hướng giảm — kích cầu tiêu dùng trở thành ưu tiên chính sách số một của Bắc Kinh. Bài hỏi: **cải cách nào thực sự kéo được tỷ lệ tiết kiệm xuống?** Ba nhóm bằng chứng, dùng dữ liệu cấp thành phố (khoảng 240 thành phố cấp địa khu, 2012–2022) và khảo sát hộ gia đình CFPS mới nhất (bản 2022, công bố tháng 11/2024):
 
-1. **Chi xã hội của chính phủ**: tăng 10% chi an sinh xã hội và chi y tế đi kèm với tỷ lệ tiết kiệm của **hộ nông thôn** giảm khoảng **0,5 và 0,8 điểm phần trăm** sau khoảng năm năm; với hộ thành thị thì gần như không có tác động. Ở các thành phố kém đô thị hoá, tác động của chi y tế lên tới **1,3 điểm phần trăm**. Nhắm chi tiêu vào vùng nhiều dân nông thôn cho hiệu quả trên mỗi đồng ngân sách **cao gấp khoảng 2,25 lần** so với tăng đều khắp nơi.
+1. **Chi xã hội của chính phủ**: tăng 10% chi an sinh xã hội và chi y tế đi kèm với tỷ lệ tiết kiệm của **hộ nông thôn** giảm khoảng **0,46 và 0,75 điểm phần trăm** sau khoảng năm năm; với hộ thành thị thì gần như không có tác động. Ở các thành phố kém đô thị hoá, tác động của chi y tế lên tới **1,3 điểm phần trăm**. Nhắm chi tiêu vào vùng nhiều dân nông thôn cho hiệu quả trên mỗi đồng ngân sách **cao gấp khoảng 2,25 lần** so với tăng đều khắp nơi.
 2. **Hộ khẩu (Hukou)**: người sống ở thành phố nhưng mang hộ khẩu nông thôn tiết kiệm nhiều hơn người có hộ khẩu thành thị khoảng **7 điểm phần trăm thu nhập khả dụng**. Khoảng cách này thu hẹp từ **11,8 điểm (2014) xuống 3,2 điểm (2022)** nhờ cải cách, nhưng vẫn còn ý nghĩa thống kê. Kế hoạch Đô thị hoá kiểu mới năm 2014 làm tỷ lệ tiết kiệm thành thị giảm khoảng **2,5 điểm phần trăm** ở các thành phố thí điểm.
 3. **Thị trường bất động sản**: giá nhà tác động lên tiết kiệm qua hai kênh. **Kênh của cải** (chủ nhà thấy tài sản mất giá thì chi tiêu ít đi) vẫn nguyên sức mạnh sau khi thị trường đảo chiều năm 2021. **Kênh tiền trả trước** (người chưa có nhà phải tích luỹ để mua) thì **đã yếu hẳn** — người chưa có nhà không còn gồng mình tiết kiệm nữa, vì họ đã hoãn kế hoạch mua nhà.
 
@@ -76,7 +76,7 @@ Hàm ý: tăng chi xã hội **có nhắm đích vào nông thôn**, tiếp tụ
      ▼                   ▼                       ▼
  +10% chi y tế →       Hộ khẩu nông thôn tiết   Kênh CỦA CẢI: còn mạnh
  tiết kiệm nông thôn   kiệm nhiều hơn ~7 điểm   Kênh TRẢ TRƯỚC: yếu hẳn
- −0,8 điểm (5 năm)     Khoảng cách: 11,8 (2014) sau 2021
+ −0,75 điểm (5 năm)    Khoảng cách: 11,8 (2014) sau 2021
  Thành thị: ~0         → 3,2 (2022)
      │                   │                       │
      ▼                   ▼                       ▼
@@ -343,7 +343,7 @@ Trung Quốc cao hơn ở mọi thập phân vị. Nghĩa là không chỉ ngư�
 
 | Giả thuyết | Cơ chế | Dữ liệu và phương pháp | Kết quả chính |
 |---|---|---|---|
-| Lưới an sinh mỏng | Hộ tiết kiệm phòng thân vì y tế, hưu trí yếu | Dữ liệu cấp thành phố, khoảng 240 nơi, 2012–2022; phép chiếu cục bộ | +10% chi y tế → tiết kiệm nông thôn −0,8 điểm sau 5 năm; thành thị khoảng 0 |
+| Lưới an sinh mỏng | Hộ tiết kiệm phòng thân vì y tế, hưu trí yếu | Dữ liệu cấp thành phố, khoảng 240 nơi, 2012–2022; phép chiếu cục bộ | +10% chi y tế → tiết kiệm nông thôn −0,75 điểm sau 5 năm; thành thị khoảng 0 |
 | Hộ khẩu | Người nhập cư không được hưởng phúc lợi đô thị | Khảo sát hộ gia đình CFPS 2012–2022, cộng nghiên cứu sự kiện cấp thành phố | Hộ khẩu nông thôn tiết kiệm nhiều hơn khoảng 7 điểm; khoảng cách từ 11,8 (2014) xuống 3,2 (2022) |
 | Bất động sản | Giá nhà tác động qua của cải và nhu cầu trả trước | Khảo sát CFPS 2012–2022, khoảng 32.000 quan sát | Kênh của cải còn mạnh; kênh trả trước yếu hẳn sau 2021 |
 

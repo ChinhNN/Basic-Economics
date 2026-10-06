@@ -282,4 +282,4 @@ Chỉ tiêu phân biệt được hai kịch bản là **tỷ trọng giá trị
 
 Cần nói thẳng: vì bản PDF mất toàn bộ thân bài, tài liệu này trong tập hồ sơ có giá trị như một **giả thuyết có thẩm quyền**, không phải như một bằng chứng. Kết luận về Việt Nam được phát biểu trong phần tóm tắt, nhưng không có cách nào kiểm tra độ lớn của hệ số, khoảng tin cậy, kiểm định xu hướng song song trước cú sốc, hay độ vững của kết quả. Khi trích dẫn, nên trích như một nhận định của nhóm tác giả IMF chứ không như một con số đã được kiểm chứng.
 
-Trong chín tài liệu của thư mục này, đây là tài liệu có nội dung hứa hẹn nhất với Việt Nam nhưng lại có trọng lượng bằng chứng thấp nhất — một sự trớ trêu đáng ghi nhận.
+Trong chín tài liệu đầu tiên của thư mục này, đây là tài liệu có nội dung hứa hẹn nhất với Việt Nam nhưng lại có trọng lượng bằng chứng thấp nhất — một sự trớ trêu đáng ghi nhận.

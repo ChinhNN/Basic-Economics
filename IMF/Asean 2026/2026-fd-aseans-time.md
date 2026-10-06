@@ -310,7 +310,7 @@ Vì vậy con số mục tiêu hợp lý cho ASEAN không phải là 61%. Việc
 
 Điều này có hệ quả rủi ro rất cụ thể mà bài chỉ chạm tới bằng một câu ẩn dụ. Một khối có chuỗi sản xuất chung nhưng cầu cuối cùng nằm ngoài khối thì **mọi thành viên cùng chịu một cú sốc, cùng lúc, cùng chiều**. Không có đệm nội khối, không có phân tán rủi ro. Chuyên môn hóa sâu theo công đoạn thực ra còn làm tăng mức đồng pha: khi đơn hàng cho một sản phẩm cuối giảm, tất cả các công đoạn trong chuỗi cùng giảm.
 
-Nói cách khác, ASEAN đã tối ưu hóa cho **hiệu quả** mà chưa xây được **khả năng chống chịu**. Câu "dây chuyền sản xuất chung nhưng chưa có thị trường chung" là cách diễn đạt gọn nhất của ý này, và có lẽ là câu hay nhất trong cả chín tài liệu của thư mục.
+Nói cách khác, ASEAN đã tối ưu hóa cho **hiệu quả** mà chưa xây được **khả năng chống chịu**. Câu "dây chuyền sản xuất chung nhưng chưa có thị trường chung" là cách diễn đạt gọn nhất của ý này, và có lẽ là câu hay nhất trong cả chín tài liệu đầu tiên của thư mục.
 
 ### Một phần của tương quan trong bài là cơ học chứ không phải hành vi
 

@@ -28,6 +28,7 @@ Bốn kết quả chính:
 > - **Danh mục tài liệu tham khảo thiếu thông tin ở mức bất thường.** Rất nhiều mục không có số tập, số trang, nhà xuất bản hay số hiệu working paper: Stock và Yogo (2002) không có bất kỳ thông tin xuất bản nào; Farhi và Werning (2012) ghi "NBER Working Paper" nhưng không có số; Bianchi (2011), Glick và Rogoff (1995), Jeanne và Korinek (2010), Obstfeld và Rogoff (1995), Obstfeld, Shambaugh và Taylor (2005), Jones và Rabanal (2025) đều thiếu số tập/số trang. Ngoài ra có một mục hoàn toàn lạc đề: **Case và Katz (1991) "The company you keep: The effects of family and neighborhood on disadvantaged youths"** — một bài về thanh thiếu niên yếu thế trong danh mục của một bài về cán cân đối ngoại, và cũng không có thông tin xuất bản.
 > - **Lane và Milesi-Ferretti (2007) được trích dẫn trong phần mô tả dữ liệu nhưng KHÔNG có trong danh mục tài liệu tham khảo.**
 > - **Hai chú thích chân trang mâu thuẫn nhau.** Một chú thích khẳng định dứt khoát rằng "khi người cư trú hồi hương vốn thì dòng vào không bị hạn chế và không chịu bất kỳ kiểm soát nào"; một chú thích khác lại nói yêu cầu hồi hương và kết hối "**bắt buộc** người cư trú phải đưa tài sản ở nước ngoài về" — tức là có can thiệp chính sách lên đúng dòng đó, chỉ theo chiều ngược lại.
+> - **Mức ý nghĩa của kiểm soát dòng vốn ra trong hồi quy tỷ giá thực ghi khác nhau giữa hai chỗ của bản tổng hợp này**: sơ đồ ghi **+0,321\*\*\***, còn bảng kết quả chỉ ghi khoảng **+0,321 đến +0,151** "có ý nghĩa ở mức 5% trở lên" (tức có thể chỉ \*\*). Không đủ dữ liệu để xác định mức của từng đặc tả.
 
 ## Sơ đồ
 
@@ -494,7 +495,7 @@ Bài giải thích vì sao hạn chế thanh toán thương mại làm cán cân
 
 ### Kết quả có giá trị chính sách trực tiếp nhất, và nó rất cụ thể
 
-Trong toàn bộ chín tài liệu của thư mục này, kết quả **vốn nợ có tác động, vốn cổ phần thì không** là thứ gần nhất với một khuyến nghị có thể thực thi ngay.
+Trong toàn bộ chín tài liệu đầu tiên của thư mục này, kết quả **vốn nợ có tác động, vốn cổ phần thì không** là thứ gần nhất với một khuyến nghị có thể thực thi ngay.
 
 Lý do khiến nó thuyết phục không phải là độ lớn của hệ số mà là **cơ chế giải thích sự chênh lệch có tính nội tại nhất quán**: vốn cổ phần và FDI tài trợ cho đầu tư sản xuất, nên ngắn hạn làm cán cân xấu đi (nhập máy móc) nhưng trung hạn làm nó tốt lên (năng lực xuất khẩu), hai hiệu ứng triệt tiêu và hệ số bằng không. Vốn nợ tài trợ cho vay ngắn hạn và tiêu dùng, chỉ có một chiều duy nhất. Đây không phải là một tương quan tình cờ mà là một dự đoán lý thuyết được xác nhận.
 

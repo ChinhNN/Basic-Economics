@@ -78,7 +78,7 @@
 ### Thông đồng thuật toán: ranh giới mới của pháp luật
 
 ```text
-       HỘP 1 — AI CÓ THỂ THÔNG ĐỒNG MÀ KHÔNG AI RA LỆNH
+       AI CÓ THỂ THÔNG ĐỒNG MÀ KHÔNG AI RA LỆNH
        ┌──────────────────────────────────────────────────────────┐
        │ CÓ CHỦ Ý        │ KHÔNG CHỦ Ý                            │
        │ con người lập   │ thuật toán TỰ HỌC ra rằng giữ giá cao  │
@@ -133,7 +133,7 @@
          tham chiếu: FINRA giám sát 100% hoạt động giao dịch
                               │
        ❸ GIÁM SÁT THỊ TRƯỜNG THEO NGUYÊN TẮC TƯƠNG XỨNG
-         Bảng 2 đưa bộ chỉ tiêu tham chiếu để theo dõi mức độ
+         bài đưa bộ chỉ tiêu tham chiếu để theo dõi mức độ
          tập trung, đồng bộ hoá và bất thường
                               │
        ❹ MINH BẠCH VÀ CÔNG BỐ THÔNG TIN

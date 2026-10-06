@@ -4,7 +4,7 @@
 **Tác giả:** chưa xác định (bản PDF bắt đầu từ trang 5, không có trang bìa và trang tác giả).
 **Ý chính:** Sáu nước Hội đồng Hợp tác vùng Vịnh (GCC) đang đa dạng hoá khỏi dầu khí, và 13 quỹ tài sản quốc gia của vùng này quản lý **hơn 4.000 tỷ USD**. Bài dùng dữ liệu cấp thương vụ về sáp nhập, mua lại và đầu tư từ BvD Zephyr và SWFI, **gần 14.000 thương vụ trị giá khoảng 3.000 tỷ USD, 2000–2023**. Về bức tranh: vốn vào vẫn **thấp**, chủ yếu từ **châu Âu và Tây Bán cầu**; từ sau đại dịch dịch chuyển mạnh sang **dịch vụ**, tỷ trọng dịch vụ ngoài tài chính trong vốn vào tăng từ **30% lên 70%**; quỹ tài sản quốc gia chiếm **hơn 80% vốn ra** và khoảng **một nửa đầu tư trong nước**. Về tác động: tăng 1 điểm phần trăm GDP vốn vào đi kèm **GDP ngành phi dầu khí tăng hơn 1% sau bốn năm**, **gấp khoảng ba lần** đầu tư trong nước; đầu tư trong nước của quỹ tài sản quốc gia có tác động **khoảng 0,4%** và có ý nghĩa; còn **vốn ra không có tác động** lên tăng trưởng trong nước.
 
-> **Lưu ý:** bản PDF bắt đầu từ trang 5, thiếu trang bìa, tóm tắt và trang tác giả. Số hiệu tài liệu lấy từ trang bìa sau. Phần mở đầu nhắc "13 quỹ" nhưng chú thích liệt kê 14 tên.
+> **Lưu ý:** bản PDF bắt đầu từ trang 5, thiếu trang bìa, tóm tắt và trang tác giả. Số hiệu tài liệu lấy từ trang bìa sau. Phần mở đầu nhắc "13 quỹ" nhưng chú thích liệt kê 14 tên. Tác động của vốn vào sau bốn năm: bảng hệ số cho 1,10% còn phần lời của bài viết mô tả khoảng 1,2%; bản tóm tắt dùng số trong bảng.
 
 ## Sơ đồ
 
@@ -107,7 +107,7 @@
        → Ả-rập Xê-út và UAE có mức tăng M&A nhanh nhất 2021–2023,
          gần 10% mỗi năm
        ═══════════════════════════════════════════════════════════
-       ★★ CƠ CẤU VỐN VÀO (Hình III)
+       ★★ CƠ CẤU VỐN VÀO
        theo NGUỒN: 2000–2008 GCC nội khối ~50%; 2020–2023 châu Âu
          và Tây Bán cầu ~60%; nội khối GCC vẫn trên 25%
        theo NGÀNH: 2000–2014 tài chính chiếm lớn (~50–60%)
@@ -136,7 +136,7 @@
                    tiến: Tata Power Renewables, Envirotainer,
                    GlobalConnect, Skyborn Renewables
        ═══════════════════════════════════════════════════════════
-       CƠ CẤU VỐN RA CỦA QUỸ (Hình XI)
+       CƠ CẤU VỐN RA CỦA QUỸ
        theo ĐÍCH: châu Âu áp đảo tới 2019; 2020–2023 Tây Bán cầu
          ~42%, châu Âu ~32%
        theo NGÀNH: 2000–2008 tài chính ~67% → 2020–2023 vận tải
@@ -145,7 +145,7 @@
          dịch vụ (tiêu dùng nội địa, du lịch), hay mọi quỹ toàn cầu
          cùng dồn vào dịch vụ → rủi ro tương quan
        ═══════════════════════════════════════════════════════════
-       ★ NĂNG LƯỢNG TÁI TẠO (Hình XII)
+       ★ NĂNG LƯỢNG TÁI TẠO
        vốn RA xanh mới vào năng lượng tái tạo TĂNG VỌT 2022–2023:
          khoảng 50 tỷ USD mỗi năm, phần lớn giá trị xanh mới
        ví dụ nêu trong bài: ADIA vào điện mặt trời ở Maroc; PIF vào
@@ -172,7 +172,7 @@
 ### Kết quả
 
 ```text
-       ★★ HÌNH XIII — PHẢN ỨNG CỦA GDP THỰC NGÀNH (%) VỚI +1 điểm
+       ★★ PHẢN ỨNG CỦA GDP THỰC NGÀNH (%) VỚI +1 điểm
           phần trăm GDP đầu tư
        ┌───────────────┬──────┬──────┬──────┬──────┬──────┬──────┐
        │ năm           │  0   │  1   │  2   │  3   │  4   │  5   │
@@ -231,7 +231,7 @@
        ⚠ KHÔNG có ý nghĩa, nhưng dấu dương gợi ý chuyển giao công
          nghệ; có dấu hiệu vốn ra trước đó kéo theo vốn vào sau
        ═══════════════════════════════════════════════════════════
-       ❸ ĐỘ PHỨC TẠP KINH TẾ VÀ ĐA DẠNG HOÁ (Hình XV, XVI)
+       ❸ ĐỘ PHỨC TẠP KINH TẾ VÀ ĐA DẠNG HOÁ
        tương quan đơn giản: vốn vào và vốn ra của quỹ đi cùng mức
          đa dạng hoá tổng thể và thương mại cao hơn (ECI thấp hơn =
          phức tạp hơn)

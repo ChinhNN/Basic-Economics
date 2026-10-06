@@ -4,7 +4,7 @@
 **Tác giả:** Katharina Bergant, Andrés Fernández, Ken Teoh, Martín Uribe.
 **Ý chính:** Bài dùng học máy và mô hình ngôn ngữ lớn để đọc toàn bộ báo cáo AREAER của IMF từ năm 1950 tới nay, tạo ra bộ dữ liệu hơn 41.000 thay đổi chính sách ở 195 nước, phân loại theo tám nhóm, theo chiều siết hay nới, theo dòng vào hay dòng ra, và theo từng ngày. Phát hiện gây bất ngờ nhất là **kiểm soát tài khoản vốn, thứ mà toàn bộ nghiên cứu trước đây tập trung vào, chỉ chiếm chưa tới một phần năm** tổng số biện pháp mà các chính phủ thực sự dùng. Điểm thứ hai cũng quan trọng không kém về mặt phương pháp: hơn ba phần tư các biện pháp xuất hiện trong vòng ba mươi ngày quanh một biện pháp khác, nghĩa là các nghiên cứu đánh giá tác động của một biện pháp đơn lẻ nhiều khả năng đang gán nhầm tác động của cả gói chính sách.
 
-> **Lưu ý:** bản PDF bắt đầu từ trang 2 (phần Giới thiệu), không có trang bìa. Số hiệu tài liệu lấy từ trang bìa sau và tên tác giả lấy từ Phụ lục E.
+> **Lưu ý:** bản PDF bắt đầu từ trang 2 (phần Giới thiệu), không có trang bìa. Số hiệu tài liệu lấy từ trang bìa sau và tên tác giả lấy từ Phụ lục E. Một số chỗ lệch chưa giải thích được: tám nhóm hạn chế cộng lại 36.893 thay đổi (khoảng 90%) trong khi dòng tổng ghi 41.030 (100%); phạm vi ghi khi là 195 nước, khi là 190 nước (iBoP-C); và iBoP-C khi được ghi tới 2023, khi tới 2022. Không có bản gốc để biết đâu đúng nên giữ nguyên các số.
 
 ## Sơ đồ
 
@@ -43,10 +43,11 @@
 ### Cách phân loại và quy trình năm bước
 
 ```text
-       TÁM NHÓM HẠN CHẾ (số thay đổi ghi nhận, Bảng 2)
+       TÁM NHÓM HẠN CHẾ (số thay đổi ghi nhận)
        ┌────────────────────────────────┬────────┬────────┐
        │ ★ Giao dịch TÀI KHOẢN VỐN      │  8.023 │ 19,6%  │
        │   Thu xếp THANH TOÁN và thu    │  6.040 │ 14,7%  │
+       │     nhận                       │        │        │
        │   Giao dịch VÔ HÌNH, chuyển    │  5.114 │ 12,5%  │
        │     giao vãng lai              │        │        │
        │   THANH TOÁN NHẬP KHẨU         │  4.313 │ 10,5%  │
@@ -86,7 +87,7 @@
 ### Mô hình chuyên ngành thắng mô hình lớn
 
 ```text
-       ĐỘ CHÍNH XÁC TRÊN MẪU KIỂM ĐỊNH (Bảng 1)
+       ĐỘ CHÍNH XÁC TRÊN MẪU KIỂM ĐỊNH
        ┌───────────────────────┬───────┬──────┬───────┬───────┐
        │ MÔ HÌNH               │ CHIỀU │ DÒNG │ NHÓM  │ LOẠI  │
        ├───────────────────────┼───────┼──────┼───────┼───────┤

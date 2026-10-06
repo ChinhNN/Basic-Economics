@@ -152,7 +152,7 @@
 ### Kết quả: dễ tổn thương khí hậu
 
 ```text
-       ★★ BIẾN CÔNG CỤ, BẢNG 6
+       ★★ BIẾN CÔNG CỤ, THEO KỲ HẠN
        ┌──────────────┬──────────┬──────────┬──────────┬──────────┐
        │ mọi kỳ hạn   │ ≤3 tháng │ ≤1 năm   │ 2–3 năm  │ ≥4 năm   │
        ├──────────────┼──────────┼──────────┼──────────┼──────────┤
@@ -177,17 +177,17 @@
        ★★ CÁCH ĐỌC: thêm biến kênh vào → hệ số cú sốc NHỎ ĐI hoặc mất
           ý nghĩa → kênh đó đang truyền tác động
        ═══════════════════════════════════════════════════════════
-       HẠN HÁN, MỌI KỲ HẠN (Bảng 7)
+       HẠN HÁN, MỌI KỲ HẠN
        cơ sở ················· 0,977*
        + nợ công/GDP ········· 0,878 (không ý nghĩa); nợ 0,067***
        + lãi chính sách ······ 0,463 (không ý nghĩa); lãi 0,380**
        → ✔ CẢ HAI KÊNH hoạt động
        ═══════════════════════════════════════════════════════════
-       BÃO, MỌI KỲ HẠN (Bảng 8)
+       BÃO, MỌI KỲ HẠN
        cơ sở 1,129*** · + nợ 1,156*** · + lãi chính sách 0,831***
        → kênh NỢ YẾU; kênh TIỀN TỆ có, nhưng bão vẫn còn ý nghĩa
        ═══════════════════════════════════════════════════════════
-       DỄ TỔN THƯƠNG KHÍ HẬU (Bảng 9)
+       DỄ TỔN THƯƠNG KHÍ HẬU
        cơ sở 2,015** · + nợ 1,201 · + lãi chính sách 1,064 · + cả hai
          0,655 → cả hai kênh có thể quan trọng
        ⚠ bài thận trọng: chưa đủ dữ liệu về đầu tư chống chịu để kết

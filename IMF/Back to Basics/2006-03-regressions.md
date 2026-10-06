@@ -106,8 +106,9 @@
               Y = 5,40 + 0,83 EDU + 0,001 IQ
        → người làm bài IQ TỐT HƠN cũng có lương giờ cao hơn
        → HƠN NỮA, dù tác động của giáo dục lên lương VẪN DƯƠNG, nó
-         NHỎ HƠN KHOẢNG 27% so với khi KHÔNG đưa IQ vào
-         (27% = 100 × (1,06 − 0,83) / 0,83)
+         NHỎ HƠN KHOẢNG 22% so với khi KHÔNG đưa IQ vào
+         (22% = 100 × (1,06 − 0,83) / 1,06 · bài gốc ghi 27% vì
+         chia cho 0,83, tức 1,06 LỚN HƠN 0,83 khoảng 28%)
        → HÀM Ý: TRƯỚC ĐÓ TA ĐÃ ĐÁNH GIÁ QUÁ CAO tác động của giáo
          dục lên lương vì KHÔNG TÍNH đến ảnh hưởng của IQ, thứ TƯƠNG
          QUAN với giáo dục

@@ -4,7 +4,7 @@
 **Tác giả:** WikiMoney Team (bài dẫn nhận định của TS. Đặng Minh Tuấn).
 **Ý chính:** CBDC là dạng kỹ thuật số của tiền pháp định do ngân hàng trung ương phát hành và bảo đảm, khác tiền mã hóa ở chỗ quản lý tập trung và giá trị ổn định. Việt Nam bắt đầu quan tâm từ Quyết định 1255/QĐ-TTg (2017), được giao nghiên cứu thí điểm theo Quyết định 942/QĐ-TTg (2021), nhưng tiến độ chậm hơn Trung Quốc, Campuchia, Bahamas. CBDC hứa hẹn thanh toán hiệu quả, tài chính toàn diện, giảm chi phí tiền mặt và minh bạch hơn, nhưng vướng thói quen tiền mặt ở nông thôn, hạ tầng, an ninh mạng, quyền riêng tư và khung pháp lý.
 
-> **Lưu ý:** Bài có một số nhầm lẫn khái niệm và sự kiện: (1) "NHNN có thể phát hành CBDC dưới dạng stablecoin" là lẫn lộn hai khái niệm; stablecoin là token do tư nhân phát hành neo giá vào tiền pháp định, còn CBDC là nợ trực tiếp của ngân hàng trung ương; (2) xếp Mỹ vào nhóm "thực nghiệm CBDC" không còn đúng ở thời điểm bài đăng: tháng 1/2025 Tổng thống Mỹ đã ký sắc lệnh cấm các cơ quan liên bang xây dựng CBDC; (3) Bakong của Campuchia là hệ thống thanh toán dựa trên blockchain, thường được gọi là "gần CBDC" hơn là một CBDC đúng nghĩa; (4) bảng so sánh tiến độ trong bản gốc bị vỡ định dạng (tiêu đề cột nằm lẫn giữa mục 3.3), và có ký tự lạ "鼓励" (tiếng Trung, nghĩa là "khuyến khích") lọt vào mục 5.2.1. Câu "17 tỷ giao dịch, 280 triệu tỷ đồng, tăng 120% so với 2023" không ghi rõ tăng 120% về số lượng hay giá trị.
+> **Lưu ý:** Bài có một số nhầm lẫn khái niệm và sự kiện: (1) "NHNN có thể phát hành CBDC dưới dạng stablecoin" là lẫn lộn hai khái niệm; stablecoin là token do tư nhân phát hành neo giá vào tiền pháp định, còn CBDC là nợ trực tiếp của ngân hàng trung ương; (2) xếp Mỹ vào nhóm "thực nghiệm CBDC" không còn đúng ở thời điểm bài đăng: tháng 1/2025 Tổng thống Mỹ đã ký sắc lệnh cấm các cơ quan liên bang xây dựng CBDC; (3) Bakong của Campuchia là hệ thống thanh toán dựa trên blockchain, thường được gọi là "gần CBDC" hơn là một CBDC đúng nghĩa; (4) bảng so sánh tiến độ trong bản gốc bị vỡ định dạng (tiêu đề cột nằm lẫn giữa đoạn văn), và có ký tự lạ "鼓励" (tiếng Trung, nghĩa là "khuyến khích") lọt vào câu giải pháp "đẩy mạnh thanh toán không tiền mặt" (chỗ khuyến khích dùng ví điện tử và QR). Câu "17 tỷ giao dịch, 280 triệu tỷ đồng, tăng 120% so với 2023" không ghi rõ tăng 120% về số lượng hay giá trị.
 
 ## Sơ đồ
 
@@ -139,7 +139,7 @@ Bài liệt kê năm thách thức:
 | Quyền riêng tư | CBDC quản lý tập trung có thể cho phép NHNN theo dõi mọi giao dịch; bài đề xuất thiết kế cơ chế bảo vệ dữ liệu, học hỏi Trung Quốc (e-CNY) |
 | Khung pháp lý | Cần quy định mới về giao dịch số, chống rửa tiền và bảo mật dữ liệu |
 
-Thách thức về quyền riêng tư là mặt trái của chính lợi ích "minh bạch" ở mục 1: một hệ thống cho phép truy vết mọi giao dịch để chống rửa tiền cũng là hệ thống cho phép nhìn thấy chi tiêu của mỗi người.
+Thách thức về quyền riêng tư là mặt trái của chính lợi ích "minh bạch" ở mục 3: một hệ thống cho phép truy vết mọi giao dịch để chống rửa tiền cũng là hệ thống cho phép nhìn thấy chi tiêu của mỗi người.
 
 ### 5. Triển vọng và giải pháp
 

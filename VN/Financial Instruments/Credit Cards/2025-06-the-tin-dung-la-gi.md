@@ -4,7 +4,7 @@
 **Tác giả:** WikiMoney Team (bài không nêu tên cá nhân).
 **Ý chính:** Thẻ tín dụng là cơ chế "vay tạm" ngân hàng trong một hạn mức, không mất lãi nếu trả đủ trong kỳ miễn lãi, khác với thẻ ghi nợ dùng tiền có sẵn. Bài giới thiệu cách thẻ vận hành, các loại thẻ, điều kiện mở và biểu phí, rồi đưa ra bí quyết dùng thông minh, năm sai lầm, năm hiểu lầm và năm nguyên tắc vàng. Thông điệp: thẻ chỉ có lợi khi người dùng có thu nhập ổn định và kỷ luật trả đủ đúng hạn.
 
-> **Lưu ý:** Bài tự mâu thuẫn ở hai điểm. (1) Thời gian miễn lãi được nêu là "45–60 ngày" ở mục 1 và mục 6, nhưng "45–55 ngày" ở mục 1.3 và 3.2. (2) Mục 1.3 nói vay tiền mặt bằng thẻ có "lãi suất thấp hơn vay tiêu dùng thông thường", trong khi mục 2.3, 4.3 nói rút tiền mặt chịu phí 3–4% và lãi tính ngay từ ngày rút, không được miễn lãi. Câu mở đầu có lỗi chính tả "thí thẻ tín dụng" (đúng là "thì").
+> **Lưu ý:** Bài tự mâu thuẫn ở hai điểm. (1) Thời gian miễn lãi được nêu là "45–60 ngày" ở phần định nghĩa thẻ và phần nguyên tắc vàng, nhưng "45–55 ngày" ở phần lợi ích và phần trả đúng hạn. (2) Phần lợi ích nói vay tiền mặt bằng thẻ có "lãi suất thấp hơn vay tiêu dùng thông thường", trong khi phần điều kiện mở thẻ và phí cùng phần sai lầm cần tránh nói rút tiền mặt chịu phí 3–4% và lãi tính ngay từ ngày rút, không được miễn lãi. Câu mở đầu có lỗi chính tả "thí thẻ tín dụng" (đúng là "thì").
 
 ## Sơ đồ
 

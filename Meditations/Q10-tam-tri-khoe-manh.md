@@ -192,7 +192,7 @@
 
 ## Nội dung chi tiết
 
-Suy tưởng không chia chủ đề mà chỉ có các mục đánh số. Phần dưới đi theo đúng thứ tự Dàn ý cũ, từ 10.11 đến 10.38, viết thành văn xuôi có giải thích, và gom thành bốn nhóm mục cho dễ theo dõi. Số mục (ví dụ 10.33) là số dùng chung trong mọi bản dịch.
+Suy tưởng không chia chủ đề mà chỉ có các mục đánh số. Phần dưới đi theo đúng thứ tự các mục, từ 10.11 đến 10.38, viết thành văn xuôi có giải thích, và gom thành bốn nhóm mục cho dễ theo dõi. Số mục (ví dụ 10.33) là số dùng chung trong mọi bản dịch.
 
 *(Các mục 10.1–10.10 không có trong bản dịch; xem khối Lưu ý ở đầu để biết nội dung theo nguyên tác.)* Bản dịch tiếng Việt đăng Quyển 10 thành ba phần, và tài liệu nguồn chỉ có phần (2) và (3), bắt đầu từ mục 11. Vì vậy nội dung dưới đây bắt đầu từ 10.11.
 

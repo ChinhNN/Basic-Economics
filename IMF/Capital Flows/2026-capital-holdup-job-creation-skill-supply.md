@@ -4,7 +4,7 @@
 **Tác giả:** chưa xác định (bản PDF bắt đầu từ trang 2, không có trang bìa và trang tác giả).
 **Ý chính:** Bài giải bài toán con gà và quả trứng trong phát triển chế tạo: doanh nghiệp than thiếu lao động kỹ thuật, còn người trẻ không học kỹ thuật vì ngành chế tạo nhỏ và ít việc. Cơ chế trung tâm là vốn bị bắt bí — doanh nghiệp phải lắp vốn **trước khi** thương lượng lương, nên chỉ thu về một phần thặng dư và do đó đầu tư dưới mức. Vì chế tạo thâm dụng vốn hơn dịch vụ, méo mó này đè nặng lên chế tạo hơn. Kết luận chính sách rất sắc: nếu điều kiện Hosios thoả mãn thì **chỉ cần trợ cấp đầu tư là đủ**, không cần trợ cấp đào tạo, và gói chính sách đó **trung tính về ngân sách**. Nhưng ở tình huống thực tế hơn, khi sức mặc cả của người lao động thấp hơn độ co giãn khớp nối, xuất hiện thêm một nêm bóp méo lựa chọn ngành và khi đó trợ cấp đào tạo trở thành cần thiết.
 
-> **Lưu ý:** bản PDF bắt đầu từ trang 2 (phần Giới thiệu), không có trang bìa và trang tác giả. Số hiệu tài liệu lấy từ trang bìa sau.
+> **Lưu ý:** bản PDF bắt đầu từ trang 2 (phần Giới thiệu), không có trang bìa và trang tác giả. Số hiệu tài liệu lấy từ trang bìa sau. Hệ số ngành kỹ thuật ở cột (2) của hồi quy chéo được đánh hai sao (0,19\*\*, tức ý nghĩa ở mức 5%), nhưng phần lời của bài nói hệ số này có ý nghĩa ở mức 1%; không rõ bên nào đúng. Trong mô phỏng nhân ba nhập khẩu dịch vụ, mức "trước" của tỷ trọng lao động chế tạo là 22,7% (bằng mức của phân bổ tối ưu) còn thất nghiệp tổng 6,9% (bằng mức của cân bằng phi tập trung, nơi tỷ trọng lao động chế tạo là 21,7%), nên có thể hai con số lấy từ hai trạng thái khác nhau; không có bản gốc để đối chiếu nên giữ nguyên.
 
 ## Sơ đồ
 

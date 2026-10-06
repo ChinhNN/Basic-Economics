@@ -1,4 +1,4 @@
-# Raw Materials that Rule — Hàng hoá cơ bản (Commodities)
+# Raw Materials that Rule — Những nguyên liệu thô thống trị
 
 **Nguồn:** IMF *Finance & Development*, Back to Basics, tháng 6/2026, tr. 8–9.
 **Tác giả:** Jean-Marc Natal, Trưởng bộ phận Hàng hoá của IMF.
@@ -109,8 +109,7 @@
              KIỂM SOÁT HÀNG HOÁ → TRẬT TỰ THẾ GIỚI TƯƠNG LAI
 ```
 
-
-## Bốn câu hỏi bài viết đặt ra
+## Bốn câu hỏi bài viết trả lời
 
 1. Hàng hoá cơ bản là gì?
 2. Chúng được giao dịch thế nào trên thị trường hiện đại?

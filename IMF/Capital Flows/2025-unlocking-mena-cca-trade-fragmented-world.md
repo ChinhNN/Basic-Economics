@@ -2,7 +2,7 @@
 
 **Nguồn:** IMF Working Paper WP/2025/267.
 **Tác giả:** chưa xác định (bản PDF không có trang bìa và trang tác giả).
-**Ý chính:** Hai khu vực này đang ở giữa các đường đứt gãy địa kinh tế: chiến tranh Nga và Ukraine tạo ra làn sóng thương mại chuyển hướng cho Kavkaz và Trung Á, còn Trung Đông và Bắc Phi chịu xung đột khu vực cùng các mối đe doạ an ninh hàng hải như tấn công tàu hàng ở eo biển Bab el-Mandeb. Bài mô phỏng ba kịch bản phân mảnh và tìm thấy rằng **phân mảnh vừa là rủi ro vừa là cơ hội**, tuỳ kịch bản. Nhưng phát hiện có sức nặng chính sách nhất không nằm ở các kịch bản, mà ở phép so sánh độ lớn: mức phân mảnh nghiêm trọng nhất làm xuất khẩu của nhóm Trung Đông ngoài Hội đồng Hợp tác Vùng Vịnh giảm **7,4%**, trong khi chỉ cần **thu hẹp 20% khoảng cách rào cản** với các nước tiên tiến đã làm xuất khẩu tăng **hơn 15%**. Nói cách khác, **chính sách trong tầm tay của chính họ có sức mạnh gấp đôi cú sốc địa chính trị mà họ không kiểm soát được**.
+**Ý chính:** Hai khu vực này đang ở giữa các đường đứt gãy địa kinh tế: chiến tranh Nga và Ukraine tạo ra làn sóng thương mại chuyển hướng cho Kavkaz và Trung Á, còn Trung Đông và Bắc Phi chịu xung đột khu vực cùng các mối đe doạ an ninh hàng hải như tấn công tàu hàng ở eo biển Bab el-Mandeb. Bài mô phỏng ba kịch bản phân mảnh và tìm thấy rằng **phân mảnh vừa là rủi ro vừa là cơ hội**, tuỳ kịch bản. Nhưng phát hiện có sức nặng chính sách nhất không nằm ở các kịch bản, mà ở phép so sánh độ lớn: mức phân mảnh nghiêm trọng nhất làm xuất khẩu của nhóm Trung Đông ngoài Hội đồng Hợp tác Vùng Vịnh giảm **7,4%**, trong khi chỉ cần **thu hẹp 20% khoảng cách rào cản** với các nước tiên tiến đã làm xuất khẩu của chính nhóm này tăng **khoảng 8%** ngay trong kịch bản đó (và hơn 15% ở kịch bản nhẹ nhất). Nói cách khác, **chính sách trong tầm tay của chính họ đủ sức bù trọn cú sốc địa chính trị mà họ không kiểm soát được**.
 
 > **Lưu ý:** bản PDF không có trang bìa và trang tác giả. Số hiệu tài liệu lấy từ trang bìa sau.
 
@@ -303,7 +303,7 @@
        ★ nhưng ở KỊCH BẢN 2 và 3, NÂNG CẤP HẠ TẦNG VƯỢT LÊN
          (22,1% và 24,1% ở kịch bản 2)
        → khi thương mại phải ĐỊNH TUYẾN LẠI qua các hành lang mới,
-         năng lực VẬT LÝ trở thành ràng buộc BINDING hơn là rào
+         năng lực VẬT LÝ trở thành ràng buộc CHẶT hơn là rào
          cản chính sách
        ⚠ CẢ BA đòn bẩy đều cần thiết; bài nhấn mạnh rằng cải thiện
          hạ tầng ĐƠN LẺ có thể không đủ nếu rào cản hệ thống vẫn còn
@@ -586,7 +586,7 @@ Cuối cùng, bài nhấn mạnh nhu cầu về phản ứng chính sách linh h
 
 ### Con số 104% là chỗ toàn bộ kết luận đứng hoặc đổ
 
-Phép so sánh làm nên sức nặng của bài — cú sốc địa chính trị tồi tệ nhất lấy đi 7,4% xuất khẩu, còn chính sách trong tay mình mang lại hơn 15% — hoàn toàn phụ thuộc vào một hệ số duy nhất: **β(MATR) = −0,2274**, quy ra là giảm rào cản một độ lệch chuẩn thì thương mại song phương **tăng 104%**.
+Phép so sánh làm nên sức nặng của bài — cú sốc địa chính trị tồi tệ nhất lấy đi 7,4% xuất khẩu, còn chính sách trong tay mình mang lại khoảng 8% ngay trong kịch bản đó (hơn 15% ở kịch bản 1) — hoàn toàn phụ thuộc vào một hệ số duy nhất: **β(MATR) = −0,2274**, quy ra là giảm rào cản một độ lệch chuẩn thì thương mại song phương **tăng 104%**.
 
 Cần nhìn kỹ vào thứ đang được đo. MATR là **tổng không gia quyền các biến nhị phân lấy từ AREAER**: biện pháp hối đoái, thu xếp thanh toán và thu tiền, nhập khẩu và thanh toán nhập khẩu, xuất khẩu và nguồn thu xuất khẩu, thanh toán từ chuyển giao vô hình. Đây không phải một thanh trượt chính sách mà là **chỉ số tổng hợp về mức độ đóng kín của cả hệ thống thương mại và ngoại hối của một nước**, tương quan gần như hoàn hảo với mọi thứ đi kèm trạng thái đó: chất lượng thể chế, độ sâu tài chính, năng lực hải quan, khả năng chuyển đổi đồng tiền.
 
@@ -598,7 +598,7 @@ Ngay cả khi chấp nhận mọi con số, phép so sánh vẫn khập khiễng
 
 Cú sốc phân mảnh trong mô hình là một sự kiện: các khối cắt quan hệ, chi phí tăng, kết quả hiện ra. Còn "thu hẹp 20% khoảng cách" là một **thành tựu cải cách**, và chính bài nói rõ rằng mức thu hẹp cao hơn sẽ "tốn kém và bất khả thi với hầu hết nước trong khu vực". Nếu mức 40% đã bất khả thi thì mức 20% cũng không miễn phí. Mô hình lực hấp dẫn cấu trúc không có chi phí cải cách, không có kinh tế chính trị, không có nhóm lợi ích hưởng lợi từ chính các giấy phép xuất khẩu và hạn ngạch mà bài đề nghị bỏ đi.
 
-Điều đó làm đổi hẳn thông điệp. Cách phát biểu — "chính sách trong tầm tay của chính họ mạnh gấp đôi cú sốc địa chính trị" — nghe như lời động viên, nhưng đọc kỹ thì nó gần như **trùng lặp về mặt logic**: các nước này chịu thiệt hại lớn từ phân mảnh **chính vì** họ đã đóng kín sẵn, và thiệt hại lớn cùng dư địa cải cách lớn là hai cách nói về cùng một sự thật. Vùng Vịnh, nhóm đã gần biên giới toàn cầu, vừa ít chịu thiệt hại hơn (−0,08% GDP ở kịch bản 3) vừa ít thu lợi từ cải cách hơn (khoảng 6% ở cả ba đòn bẩy). Đó không phải hai phát hiện, mà là một.
+Điều đó làm đổi hẳn thông điệp. Cách phát biểu — "chính sách trong tầm tay của chính họ đủ sức bù trọn cú sốc địa chính trị" — nghe như lời động viên, nhưng đọc kỹ thì nó gần như **trùng lặp về mặt logic**: các nước này chịu thiệt hại lớn từ phân mảnh **chính vì** họ đã đóng kín sẵn, và thiệt hại lớn cùng dư địa cải cách lớn là hai cách nói về cùng một sự thật. Vùng Vịnh, nhóm đã gần biên giới toàn cầu, vừa ít chịu thiệt hại hơn (−0,08% GDP ở kịch bản 3) vừa ít thu lợi từ cải cách hơn (khoảng 6% ở cả ba đòn bẩy). Đó không phải hai phát hiện, mà là một.
 
 ### Điều bài đã tính ra nhưng không dám nói: mở cửa là mua thêm phơi nhiễm
 

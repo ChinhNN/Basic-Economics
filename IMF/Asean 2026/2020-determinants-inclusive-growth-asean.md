@@ -13,7 +13,7 @@ Bài hỏi: chính sách nào giúp vừa tăng trưởng nhanh hơn vừa phân
 
 Hồi quy bảng với hiệu ứng cố định theo nước và theo năm, 11 nước châu Á (6 nước ASEAN: Indonesia, Malaysia, Philippines, Lào, Thái Lan, Việt Nam; cùng Bangladesh, Trung Quốc, Ấn Độ, Mông Cổ, Sri Lanka), 1992–2017. Kết quả:
 
-1. **Tái phân phối qua ngân sách** (chênh lệch giữa Gini trước và sau thuế, chuyển giao) tác động mạnh nhất và **qua cả hai kênh**: tăng 1 điểm Gini tái phân phối thì thu nhập đầu người tăng thêm khoảng 0,4% và chỉ số công bằng tăng khoảng 0,3%. Không thấy đánh đổi giữa công bằng và hiệu quả.
+1. **Tái phân phối qua ngân sách** (chênh lệch giữa Gini trước và sau thuế, chuyển giao) tác động mạnh nhất và **qua cả hai kênh**: tăng 1 điểm Gini tái phân phối thì thu nhập đầu người tăng thêm khoảng 0,4 điểm phần trăm và chỉ số công bằng tăng khoảng 0,3 điểm. Không thấy đánh đổi giữa công bằng và hiệu quả.
 2. **Tỷ lệ phụ nữ tham gia lực lượng lao động** cũng tác động qua cả hai kênh: +1 điểm phần trăm thì thu nhập đầu người +0,2 và công bằng +0,07.
 3. **Tăng trưởng năng suất lao động** và **FDI** chỉ tác động qua kênh thu nhập, không cải thiện công bằng.
 4. **Tỷ lệ tiết kiệm** có tác động dương qua cả hai kênh. **Số hóa** (đại diện bằng số thuê bao di động) chỉ có ý nghĩa ở mức 10%. **Lạm phát** và **tín dụng/GDP** không có ý nghĩa.
@@ -551,7 +551,7 @@ Các nước trong mẫu chỉ khảo sát hộ gia đình vài năm một lần
 ### Các kịch bản cho thấy giới hạn của phép nhân hệ số
 
 Phân tích kịch bản nhân mức thay đổi của từng biến với hệ số, giả định mọi thứ khác không đổi. Cách này có hai vấn đề:
-- **Độ lớn không thực tế**: Malaysia nâng tái phân phối 3,4 điểm Gini thì tăng trưởng bao trùm thêm 2,35 điểm phần trăm **mỗi năm**. Với một nước tăng trưởng 3,9%/năm, đó là gần gấp rưỡi.
+- **Độ lớn không thực tế**: Malaysia nâng tái phân phối 3,4 điểm Gini thì tăng trưởng bao trùm thêm 2,35 điểm phần trăm **mỗi năm**. Với một nước tăng trưởng 3,9%/năm, đó là nâng tốc độ lên khoảng 1,6 lần.
 - **Bỏ qua cách tài trợ**: để tăng tái phân phối 3,4 điểm Gini cần tăng thuế hoặc chi xã hội đáng kể. Phần chi phí này không có trong phép tính.
 
 Bài có lưu ý rằng kịch bản chỉ minh họa, và không có nghĩa đạt mục tiêu thì sẽ đạt được tăng trưởng tương ứng. Nhưng các con số vẫn được trình bày như "tác động có thể rất lớn".

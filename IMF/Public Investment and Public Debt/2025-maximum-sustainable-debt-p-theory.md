@@ -11,6 +11,7 @@
 > - Văn bản nói 54 nước vượt ngưỡng năm 2024, giảm còn 49 nước vào 2029, "37 nước có nợ giảm tới 2030": hai mốc năm khác nhau.
 > - Phân rã Shapley ký hiệu chi phí phòng ngừa là σ trong khi phương trình dùng λ. Văn bản nói "cán cân sơ cấp thực tế góp phần tích luỹ nợ" dù phân rã chỉ gồm cán cân sơ cấp tối ưu.
 > - Lãi suất phi rủi ro được lấy trung bình 2000–2029, tức gồm cả số dự báo.
+> - Chi phí phòng ngừa λ của nước thu nhập thấp được ghi là 3,3% trong bảng tham số và trong phần hiệu chỉnh, nhưng ví dụ tính tay (khớp đỉnh khoảng 250% GDP của đường b̄ theo chi tiêu) dùng λ = 3,0. Với λ = 3,3, mẫu số thành 8,0% và b̄ còn khoảng 238% và 175% GDP. Không rõ hình của bài dùng giá trị nào nên giữ nguyên.
 > Các số lấy từ hình là giá trị đọc trên hình.
 
 ## Sơ đồ
@@ -63,16 +64,16 @@
          NGƯỠNG vỡ nợ (có thêm cú sốc, phòng ngừa, lợi suất tiện ích)
          → khác với r − g của một năm bình thường
        ─────────────────────────────────────────────────────────
-       ★ KIỂM TRA VỚI HÌNH 1 (r 0,9 · ζ̃ 8,2 · λ 3,0 · δ 0,1 · g 4,3)
+       ★ KIỂM TRA BẰNG SỐ (r 0,9 · ζ̃ 8,2 · λ 3,0 · δ 0,1 · g 4,3)
          mẫu số = 0,9 + 8,2 + 3,0 − 0,1 − 4,3 = 7,7%
-         τ̄ = 40%, γ ≈ 21% → b̄ ≈ (40 − 21)/7,7 ≈ ★ 250% GDP (đỉnh hình)
+         τ̄ = 40%, γ ≈ 21% → b̄ ≈ (40 − 21)/7,7 ≈ ★ 250% GDP (đỉnh đường cong)
          τ̄ = 30%, γ ≈ 16% → b̄ ≈ (30 − 16)/7,7 ≈ ★ 180% GDP
 ```
 
 ### Chi tiêu và năng lực thuế
 
 ```text
-       HÌNH 1 — b̄ THEO CHI TIÊU γ
+       b̄ THEO CHI TIÊU γ
        ┌──────────────────┬──────────┬──────────┬──────────┬────────┐
        │ γ (% GDP)        │ 10       │ ~16      │ ~21      │ 30 / 40│
        ├──────────────────┼──────────┼──────────┼──────────┼────────┤
@@ -196,13 +197,13 @@
        tính lại b̄ bằng các bản Triển vọng Kinh tế Thế giới tháng 10
        cũ: đổi g, γ, r, λ; giữ nguyên các tham số khác
        ═══════════════════════════════════════════════════════════
-       HÌNH 3 (theo văn bản)
+       NGƯỠNG NỢ THEO THỜI GIAN (số theo lời văn của bài)
        Brazil · 113,6 (2014) → 91,3 (2017) → dao động qua đại dịch →
                 103,3 (2024); nợ từng VƯỢT ngưỡng năm 2020
        Mỹ ····· 160 (2014) → đỉnh 213 (2018) → 154 (2020) → gần mức
                 trước đại dịch (2024)
        ═══════════════════════════════════════════════════════════
-       ★ PHÂN RÃ SHAPLEY (Hình 4): trung bình đóng góp biên của mỗi
+       ★ PHÂN RÃ SHAPLEY: trung bình đóng góp biên của mỗi
          tham số qua MỌI thứ tự thay đổi → chính xác kể cả khi phi
          tuyến (nhất là khi trần thuế ràng buộc)
        Mỹ ····· 2014–19: lãi thấp, biến động thấp → b̄ TĂNG
@@ -220,7 +221,7 @@
        → mẫu số càng NHỎ (gần 0), b̄ càng NHẠY; b̄ gốc càng lớn, thay
          đổi tuyệt đối càng lớn; tương tự với g
        ═══════════════════════════════════════════════════════════
-       HÌNH 5 — G20 và vài nước khác
+       ĐỘ NHẠY: G20 và vài nước khác
        lãi suất ± 0,5 điểm (độ lệch chuẩn lãi hiệu dụng Mỹ 15 năm)
        chi tiêu ± 1 điểm % GDP
        ★ Trung Quốc: dải RẤT RỘNG (khoảng 150–300% GDP) → mẫu số hẹp

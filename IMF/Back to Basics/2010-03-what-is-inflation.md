@@ -398,13 +398,13 @@ Nhưng hệ quả thì cần nói thẳng: **biến mục tiêu của ngân hàn
 
 Giai đoạn 2021–2023 còn cho thấy kiểu thất bại thứ hai của chính khái niệm này. Việc loại trừ một cú sốc với lý do nó "tạm thời" chỉ hợp lý nếu cú sốc đó thực sự không lan sang phần còn lại. Khi giá năng lượng cao kéo dài đủ lâu, nó đi vào chi phí vận tải, chi phí sản xuất, rồi vào đàm phán lương — tức chảy vào chính phần lõi. Lúc đó việc đã nhìn vào lõi và kết luận rằng không có gì đáng lo trở thành một sai lầm chính sách tốn kém. Ranh giới giữa "nhiễu cần loại bỏ" và "tín hiệu đến sớm" không nằm trong định nghĩa của chỉ số, và không có quy tắc máy móc nào phân biệt được hai thứ đó.
 
-### Đoạn về giảm phát là đoạn yếu nhất, và cơ chế đúng thì nằm ngay ở trang trước
+### Đoạn về giảm phát là đoạn yếu nhất, và cơ chế đúng thì nằm ngay trong chính bài
 
 Bài giải thích vì sao giảm phát có hại bằng một lập luận duy nhất: người tiêu dùng trì hoãn mua sắm vì dự đoán giá sẽ thấp hơn. Đây là lời giải thích trong sách giáo khoa nhập môn, và nó là lời giải thích yếu nhất trong số các lời giải thích sẵn có.
 
 Vấn đề thực nghiệm khá hiển nhiên khi nghĩ kỹ: giá hàng điện tử tiêu dùng giảm đều đặn suốt nhiều thập kỷ, ai cũng biết chiếc điện thoại năm sau sẽ tốt hơn và rẻ hơn, và người ta vẫn mua. Độ lớn của hiệu ứng trì hoãn với mức giảm giá một hai phần trăm một năm là rất nhỏ so với các lý do khác khiến người ta mua hay không mua.
 
-Cơ chế mạnh hơn nhiều thì nằm ngay trang trước của chính bài, trong ví dụ về khoản thế chấp lãi suất cố định: lạm phát làm **giảm** giá trị thực của nợ danh nghĩa. Lập luận đối xứng là hiển nhiên — giảm phát làm **tăng** giá trị thực của nợ. Với một nền kinh tế mang khối nợ danh nghĩa lớn, giá giảm 2% một năm làm gánh nặng nợ thực tăng lên mà không ai vay thêm đồng nào. Người vay cắt chi tiêu để trả nợ, cầu giảm, giá giảm tiếp, và vòng xoáy tự củng cố. Đây mới là lý do giảm phát nguy hiểm, và nó giải thích vì sao giảm phát đi kèm nợ cao thì tai hại còn giảm phát do năng suất tăng thì không.
+Cơ chế mạnh hơn nhiều thì nằm ngay trong chính bài, ở ví dụ về khoản thế chấp lãi suất cố định: lạm phát làm **giảm** giá trị thực của nợ danh nghĩa. Lập luận đối xứng là hiển nhiên — giảm phát làm **tăng** giá trị thực của nợ. Với một nền kinh tế mang khối nợ danh nghĩa lớn, giá giảm 2% một năm làm gánh nặng nợ thực tăng lên mà không ai vay thêm đồng nào. Người vay cắt chi tiêu để trả nợ, cầu giảm, giá giảm tiếp, và vòng xoáy tự củng cố. Đây mới là lý do giảm phát nguy hiểm, và nó giải thích vì sao giảm phát đi kèm nợ cao thì tai hại còn giảm phát do năng suất tăng thì không.
 
 Bài nhắc tới Nhật Bản như ví dụ nhưng quy nguyên nhân cho hành vi trì hoãn mua sắm, trong khi vấn đề trung tâm của Nhật Bản sau khi bong bóng vỡ là các bảng cân đối doanh nghiệp bị đè bởi nợ danh nghĩa trong khi giá tài sản sụp. Nhầm cơ chế dẫn tới nhầm đơn thuốc: nếu vấn đề là tâm lý chờ giá, thì chỉ cần thuyết phục người ta rằng giá sẽ tăng; nếu vấn đề là bảng cân đối, thì phải xử lý nợ.
 

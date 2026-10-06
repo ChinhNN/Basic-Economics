@@ -11,18 +11,18 @@
 ### Bước nhảy năng lực trong hai năm
 
 ```text
-       HỘP 1 — NĂNG LỰC MẠNG CỦA MÔ HÌNH TIÊN PHONG
+       NĂNG LỰC MẠNG CỦA MÔ HÌNH TIÊN PHONG
        ┌───────────────────────────────────────────────────────────┐
        │ CYBENCH (bộ bài tập an ninh mạng chuẩn)                    │
        │   mô hình đầu 2024 ····· giải được một phần nhỏ            │
        │   Claude Mythos ········ 100%  ← BÃO HOÀ BENCHMARK        │
        ├───────────────────────────────────────────────────────────┤
        │ TÌM LỖI TRONG PHẦN MỀM THẬT — Firefox 147                 │
-       │   mô hình thế hệ trước ·· 15.2%                            │
+       │   mô hình thế hệ trước ·· 15,2%                            │
        │   Claude Mythos ········· 84%                              │
        ├───────────────────────────────────────────────────────────┤
        │ CYBERGYM (tìm lỗ hổng trong mã nguồn mở)                  │
-       │   Claude Mythos ········· 83.1%                            │
+       │   Claude Mythos ········· 83,1%                            │
        ├───────────────────────────────────────────────────────────┤
        │ PHÁT HIỆN THỰC TẾ: lỗi chưa từng biết trong OpenBSD và     │
        │ FFmpeg · thoát khỏi môi trường cách ly (sandbox escape)    │
@@ -164,8 +164,8 @@ Trong khoảng hai năm, năng lực của mô hình AI tiên phong trong các t
 | Phép đo | Thế hệ trước | Claude Mythos |
 |---|---|---|
 | Cybench (bộ bài tập an ninh mạng chuẩn) | Mô hình đầu 2024 giải được một phần nhỏ | 100%, bộ đo đã bão hoà |
-| Tìm lỗi trong trình duyệt Firefox phiên bản 147 (phần mềm thật) | 15.2% | 84% |
-| CyberGym (tìm lỗ hổng trong mã nguồn mở) | | 83.1% |
+| Tìm lỗi trong trình duyệt Firefox phiên bản 147 (phần mềm thật) | 15,2% | 84% |
+| CyberGym (tìm lỗ hổng trong mã nguồn mở) | | 83,1% |
 
 Kết quả trên Cybench cho thấy mô hình mới nhất đạt điểm tuyệt đối. Nhưng quan trọng hơn điểm số trên bài tập nhân tạo là kết quả trên phần mềm thật: trong bài kiểm tra tìm lỗ hổng trong Firefox 147, tỷ lệ thành công tăng từ khoảng 15% lên 84% chỉ qua một thế hệ mô hình. Trên CyberGym, tỷ lệ đạt trên 83%.
 

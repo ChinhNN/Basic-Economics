@@ -4,6 +4,8 @@
 **Tác giả:** Sarwat Jahan, kinh tế gia, và Chris Papageorgiou, Phó Vụ trưởng, Vụ Chiến lược và Rà soát Chính sách của IMF; Ahmed Saber Mahmud, Phó Giám đốc Kinh tế Ứng dụng, Đại học Johns Hopkins.
 **Ý chính:** Keynes lật đổ quan niệm thị trường tự do tự động tạo toàn dụng, khẳng định tổng cầu là động lực quan trọng nhất và thị trường không có cơ chế tự cân bằng. Nhà nước phải can thiệp bằng chính sách phản chu kỳ. Suy tàn thời lạm phát đình đốn 1970, hồi sinh sau khủng hoảng 2007–08.
 
+> **Lưu ý:** con số "tổng thương mại Việt Nam vượt quá 170% GDP" trong phần Đánh giá không có trong bài gốc và chưa ghi nguồn, năm. Tỷ lệ này dao động theo năm (khoảng 160–190% GDP trong những năm 2020, tuỳ cách tính GDP), nên chỉ nên đọc như một mức xấp xỉ.
+
 ## Sơ đồ
 
 ### Ý tưởng cách mạng

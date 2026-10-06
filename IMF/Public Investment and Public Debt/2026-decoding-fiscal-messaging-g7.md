@@ -557,7 +557,7 @@ Nhưng nhiều câu được xếp là "tích cực" thực chất là **dự b�
 
 Nếu làm phép đo đó, ta sẽ có một thứ có giá trị thực: **tỷ lệ thực hiện lời hứa tài khoá theo nước và theo thời gian**. Đó mới là thước đo độ tin cậy mà bài nói là mình quan tâm. Cái đang được đo hiện nay là **tông giọng**, và hai thứ này chỉ trùng nhau khi dự báo sai.
 
-Trong toàn bộ mẫu, Nhật Bản là nước có truyền thông tài khoá **bi quan nhất**: tài liệu ngân sách có khoảng 55% số câu về nợ mang giọng **tiêu cực**, mục tiêu trách nhiệm tài khoá chiếm khoảng **65%** nội dung ngân sách và khoảng 47% bài phát biểu — cao nhất mẫu ở cả hai chỉ tiêu. Bài cũng ghi nhận Nhật nhấn mạnh dân số già và củng cố nợ hơn bất kỳ nước nào.
+Trong toàn bộ mẫu, Nhật Bản là nước có truyền thông tài khoá **bi quan nhất**: tài liệu ngân sách có khoảng 55% số câu về nợ mang giọng **tiêu cực**, mục tiêu trách nhiệm tài khoá chiếm khoảng **65%** nội dung ngân sách và khoảng 47% bài phát biểu — hai chỉ tiêu trong tài liệu ngân sách đều cao nhất mẫu, còn ở bài phát biểu thì Mỹ cao hơn (khoảng 58%). Bài cũng ghi nhận Nhật nhấn mạnh dân số già và củng cố nợ hơn bất kỳ nước nào.
 
 Nhật Bản cũng là nước có tỷ lệ nợ công cao nhất trong mẫu, khoảng 235% GDP.
 

@@ -206,7 +206,7 @@
 
 ## Nội dung chi tiết
 
-Suy tưởng không chia chủ đề mà chỉ có các mục đánh số; Dàn ý cũ cũng đi lần lượt từ 9.1 đến 9.42. Phần dưới giữ đúng thứ tự ấy, viết lại thành văn xuôi có giải thích, và gom thành bốn nhóm mục cho dễ theo dõi. Số mục (ví dụ 9.13) là số dùng chung trong mọi bản dịch.
+Suy tưởng không chia chủ đề mà chỉ có các mục đánh số. Phần dưới đi lần lượt từ 9.1 đến 9.42, viết lại thành văn xuôi có giải thích, và gom thành bốn nhóm mục cho dễ theo dõi. Số mục (ví dụ 9.13) là số dùng chung trong mọi bản dịch.
 
 ### Mục 9.1–9.12: bất công là báng bổ, và bản tính cộng đồng
 

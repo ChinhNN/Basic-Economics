@@ -592,7 +592,7 @@ Hàm ý chính sách rất phản trực giác và đáng được nói to: **ph
 
 ### Một con số chương đưa ra mà không hề bình luận
 
-Việt Nam đứng đầu ASEAN6 ở **cả bốn** thước đo bất định: bất định bảo hộ của chính mình 102,0, bất định hiệp định của chính mình 137,6, bất định bảo hộ của nước thứ ba 133,5, bất định hiệp định của nước thứ ba 177,3. Không nước nào khác đứng đầu ở dù chỉ một thước đo mà Việt Nam không đứng đầu.
+Việt Nam đứng đầu ASEAN6 ở **cả bốn** thước đo bất định: bất định bảo hộ của chính mình 102,0, bất định hiệp định của chính mình 137,6, bất định bảo hộ của nước thứ ba 133,5, bất định hiệp định của nước thứ ba 177,3. Nói cách khác, không có thước đo nào mà một nước ASEAN6 khác vượt Việt Nam.
 
 Chương trình bày bảng này rồi đi tiếp. Nhưng nó đáng được đọc kỹ, vì nó không hẳn là tin xấu.
 

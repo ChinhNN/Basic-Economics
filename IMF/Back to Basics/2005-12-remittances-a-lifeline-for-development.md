@@ -317,7 +317,7 @@ Chính phủ các nước nhận thường đưa ra ưu đãi để tăng dòng 
 | Matricula consular | Thẻ căn cước của Mexico được ngân hàng chấp nhận để mở tài khoản |
 | Matching-fund programs | Chương trình quỹ đối ứng thu hút kiều hối từ hiệp hội người di cư |
 | Official development aid | Viện trợ phát triển chính thức, không nên bị kiều hối thay thế |
-| Hawala | Kênh chuyển tiền phi chính thức truyền thống, được so sánh trong bảng chi phí |
+| Hawala | Kênh chuyển tiền phi chính thức truyền thống, dựa trên mạng lưới người môi giới tin cậy lẫn nhau, không qua ngân hàng hay công ty chuyển tiền có giấy phép |
 
 ## Câu nói đáng nhớ
 

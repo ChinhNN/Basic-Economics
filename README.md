@@ -61,12 +61,12 @@ Back to Basics: Rất phù hợp để học các khái niệm như lạm phát,
 - [What Is Inclusive Growth? — Tăng trưởng bao trùm](IMF/Back%20to%20Basics/2024-03-what-is-inclusive-growth.md) — F&D tháng 3/2024, Ruchir Agarwal
 - [Total Factor Productivity — Năng suất các nhân tố tổng hợp](IMF/Back%20to%20Basics/2024-09-total-factor-productivity.md) — F&D tháng 9/2024, Robert Zymek
 - [Are Housing Markets Broken? — Thị trường nhà ở có hỏng không?](IMF/Back%20to%20Basics/2024-12-are-housing-markets-broken.md) — F&D tháng 12/2024, Hites Ahir
-- [Bonds and Yields — Trái phiếu và lợi suất](IMF/Back%20to%20Basics/2025-03-bonds-and-yields.md) — F&D tháng 3/2025, S. Ali Abbas và Eriko Togo
+- [Bonds and Yields — Trái phiếu và lợi suất](IMF/Back%20to%20Basics/2025-03-bonds-and-yields.md) — F&D tháng 3/2025, S. M. Ali Abbas và Eriko Togo
 - [Politicians Strive for Competitiveness — Năng lực cạnh tranh hay năng suất](IMF/Back%20to%20Basics/2025-06-politicians-strive-for-competitiveness.md) — F&D tháng 6/2025, Kevin Fletcher
 - [Tokens Are Finance's Newest and Oldest Innovation — Token hoá](IMF/Back%20to%20Basics/2025-09-tokens-finances-newest-and-oldest-innovation.md) — F&D tháng 9/2025, Itai Agur
 - [How Does the IMF Finance Itself? — IMF tự tài trợ bằng cách nào?](IMF/Back%20to%20Basics/2025-12-how-does-the-imf-finance-itself.md) — F&D tháng 12/2025, Anna Postelnyak
 - [The Art of Taxation — Nghệ thuật đánh thuế](IMF/Back%20to%20Basics/2026-03-the-art-of-taxation.md) — F&D tháng 3/2026, Katherine Baer và Ruud de Mooij
-- [Raw Materials that Rule — Hàng hoá cơ bản](IMF/Back%20to%20Basics/2026-06-raw-materials-that-rule.md) — F&D tháng 6/2026, Jean-Marc Natal
+- [Raw Materials that Rule — Những nguyên liệu thô thống trị](IMF/Back%20to%20Basics/2026-06-raw-materials-that-rule.md) — F&D tháng 6/2026, Jean-Marc Natal
 - [A World Seeking Balance — Mất cân bằng toàn cầu](IMF/Back%20to%20Basics/2026-09-a-world-seeking-balance.md) — F&D tháng 9/2026, Manasa Patnam
 
 ## AI and Fintech
@@ -276,8 +276,8 @@ Tổng hợp bài viết của AI WikiMoney (wikimoney.ai.vn) về kinh tế, t�
 - [Chính sách tiền tệ: Lãi suất - Công cụ điều tiết kinh tế](VN/Economics/Macroeconomics/2025-05-chinh-sach-tien-te-lai-suat.md) — AI WikiMoney, 12/5/2025, WikiMoney Team
 - [Lạm phát ở Việt Nam: Lịch sử và cách kiểm soát](VN/Economics/Macroeconomics/2025-05-lam-phat-viet-nam-lich-su-kiem-soat.md) — AI WikiMoney, 9/5/2025, WikiMoney Team
 - [Thất nghiệp: Nguyên nhân và hậu quả đối với xã hội](VN/Economics/Macroeconomics/2025-05-that-nghiep-nguyen-nhan-hau-qua.md) — AI WikiMoney, 12/5/2025, WikiMoney Team
-- [Tăng trưởng kinh tế: Việt Nam so với các nước Đông Nam Á và Thế giới.](VN/Economics/Macroeconomics/2025-06-tang-truong-kinh-te-viet-nam-so-voi-dong-nam-a.md) — AI WikiMoney, 11/6/2025, WikiMoney Team (số liệu tự mâu thuẫn)
-- [Nợ công. Việt Nam đang vay bao nhiêu và có đáng lo.](VN/Economics/Macroeconomics/2025-08-no-cong-viet-nam-vay-bao-nhieu.md) — AI WikiMoney, 21/8/2025, WikiMoney Team
+- [Tăng trưởng kinh tế: Việt Nam so với các nước Đông Nam Á và Thế giới](VN/Economics/Macroeconomics/2025-06-tang-truong-kinh-te-viet-nam-so-voi-dong-nam-a.md) — AI WikiMoney, 11/6/2025, WikiMoney Team (số liệu tự mâu thuẫn)
+- [Nợ công: Việt Nam đang vay bao nhiêu và có đáng lo?](VN/Economics/Macroeconomics/2025-08-no-cong-viet-nam-vay-bao-nhieu.md) — AI WikiMoney, 21/8/2025, WikiMoney Team
 - [Chính sách tài khóa: Thuế và chi tiêu chính phủ - Công cụ điều tiết kinh tế](VN/Economics/Macroeconomics/2025-09-chinh-sach-tai-khoa-thue-chi-tieu-chinh-phu.md) — AI WikiMoney, 11/9/2025, WikiMoney Team
 - [Chu kỳ kinh tế là gì? Việt Nam đang ở giai đoạn nào?](VN/Economics/Macroeconomics/2026-07-chu-ky-kinh-te-viet-nam-giai-doan-nao.md) — AI WikiMoney, 2/7/2026, WikiMoney Team
 - [PMI là gì? Chỉ số báo trước sức khỏe kinh tế](VN/Economics/Macroeconomics/2026-07-pmi-chi-so-bao-truoc-suc-khoe-kinh-te.md) — AI WikiMoney, 9/7/2026, WikiMoney Team

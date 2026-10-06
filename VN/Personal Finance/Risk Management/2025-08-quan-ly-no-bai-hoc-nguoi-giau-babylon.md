@@ -20,9 +20,9 @@
    mọi khoản chi)        đàm phán giảm lãi,    cắt khoản "không
           │              giãn nợ; đúng hạn     cần thiết"
           ▼                    │
-   Quỹ khẩn cấp ──► không vay   ▼
-   thêm khi có bất ngờ    Hết nợ ──► tiền 20% chuyển sang
-                                     tiết kiệm / đầu tư
+   Quỹ khẩn cấp                ▼
+   (không vay thêm         Hết nợ ──► tiền 20% chuyển sang
+   khi có bất ngờ)                    tiết kiệm / đầu tư
 ```
 
 ### Năm nguyên tắc chữa nợ theo bài

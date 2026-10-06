@@ -71,7 +71,7 @@
        ❸ KHẢ NĂNG TRANH GIÀNH — hạ rào cản cho bên mới gia nhập
        ❹ TIẾP CẬN TÀI CHÍNH — đưa người chưa có tài khoản vào hệ thống
        ═══════════════════════════════════════════════════════════
-       BẢNG 1 — MỨC TÁC ĐỘNG THEO TỪNG KỊCH BẢN THỊ TRƯỜNG
+       MỨC TÁC ĐỘNG THEO TỪNG KỊCH BẢN THỊ TRƯỜNG
        ┌──────────────────────┬──────┬──────┬────────┬──────────┐
        │ KỊCH BẢN             │ ĐỊNH │ GIÁ  │ TRANH  │ TIẾP CẬN │
        │                      │ GIÁ  │ TRỊ  │ GIÀNH  │ TÀI CHÍNH│
@@ -120,7 +120,7 @@
        ⑦ CHO PHÉP ĐÓNG GÓI SẢN PHẨM đi kèm
        ⑧ MỞ LÀM NỀN TẢNG CHO ĐỔI MỚI
        ═══════════════════════════════════════════════════════════
-       HỘP 1 — CAN THIỆP QUẢN LÝ ĐÃ LÀM ĐƯỢC GÌ (trước khi cần CBDC)
+       CAN THIỆP QUẢN LÝ ĐÃ LÀM ĐƯỢC GÌ (trước khi cần CBDC)
        khảo sát 43 khu vực pháp lý: chỉ 10 nơi ÁP TRẦN RÕ RÀNG
        cho phí hoán đổi
        Pakistan ····· 0,2% (ghi nợ) / 0,7% (tín dụng)
@@ -129,7 +129,7 @@
        Ấn Độ ········ UPI phí giao diện 1,1% với ví trả trước
        Sri Lanka ···· trần 25 rupee mỗi giao dịch
        ═══════════════════════════════════════════════════════════
-       HỘP 3 — ĐẶC TÍNH THIẾT KẾ THÚC ĐẨY CẠNH TRANH TRONG THỰC TẾ
+       ĐẶC TÍNH THIẾT KẾ THÚC ĐẨY CẠNH TRANH TRONG THỰC TẾ
        Ấn Độ · mã QR DÙNG CHUNG của UPI — ~50 TRIỆU điểm chấp nhận
                của người bán, không bị khoá vào một nhà cung cấp
        Trung Quốc · e-CNY được ĐẶT BÊN TRONG Alipay và WeChat Pay

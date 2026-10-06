@@ -665,7 +665,7 @@ Mục 6.59 kết quyển: hãy nhìn những người mà người ta muốn l�
 | Kosmopolis | Thành bang vũ trụ; "như một con người? Đó là cả thế giới" (6.44) |
 | Koinōnia / koinōnikon | Tính cộng đồng, hành động vì cộng đồng; bản dịch gọi "không vị kỷ" (6.7, 6.14, 6.30) |
 | Epigennēmata | Sản phẩm phụ, hệ quả kéo theo; hàm sư tử, chất độc (6.36a) |
-| Apokaisarōthēnai | "Bị Caesar hóa", chữ Marcus tự đặt; bản dịch gọi "trở thành một tên bạo chúa" (6.30) |
+| Apokaisarōthēs | "Bị Caesar hoá", chữ Marcus tự đặt; bản dịch gọi "trở thành một tên bạo chúa" (6.30) |
 | Ataraxia | Sự bình thản; "lấy lại được sự bình thản" (6.11, 6.16) |
 
 ## Câu nói đáng nhớ

@@ -160,7 +160,7 @@ Bài dẫn câu của Warren Buffett: "hãy sợ hãi khi người khác tham la
 | # | Việc nên làm | Mục đích |
 |---|---|---|
 | 1 | Xử lý nợ có lãi suất cao | Giảm khoản "ăn mòn" nhất, nhất là thẻ tín dụng, vay tiêu dùng, vay thả nổi |
-| 2 | Cắt giảm chi phí (hoãn khoản "mong muốn") | Có tiền trả nợ và lập quỹ phòng thân |
+| 2 | Cắt giảm tối đa chi phí (thân bài nói rõ là hoãn khoản "mong muốn", không phải sống quá khổ) | Có tiền trả nợ và lập quỹ phòng thân |
 | 3 | Gửi tiết kiệm lãi cao, kỳ hạn dài | Khoá lợi tức an toàn trước khi lãi suất hạ |
 | 4 | Cắt lỗ tài sản không triển vọng trung – dài hạn | Thoát cổ phiếu "không có bờ", nhất là khi dùng margin |
 | 5 | Tận dụng tài sản tốt giảm giá để tích sản | Mua ngược đám đông, nhiều đợt, kiên nhẫn |

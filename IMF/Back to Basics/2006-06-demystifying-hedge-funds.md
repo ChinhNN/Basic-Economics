@@ -4,6 +4,8 @@
 **Tác giả:** Angel Ubide, Giám đốc Kinh tế Toàn cầu, Tudor Investment Corporation.
 **Ý chính:** Quỹ đầu cơ theo đuổi LỢI NHUẬN TUYỆT ĐỐI điều chỉnh rủi ro, không phải hiệu suất so với chỉ số chuẩn. Chúng dùng phòng hộ, kinh doanh chênh lệch giá và đòn bẩy để tìm cơ hội định giá sai tạm thời. Lợi nhuận đến không từ dự đoán đúng hướng giá mà từ nhận diện cơ hội thoáng qua, và hoạt động của chúng thực ra giúp thị trường hiệu quả hơn.
 
+> **Lưu ý:** con số "2.800 quỹ quản lý 2,8 tỷ USD năm 1995" đáng ngờ: nó ngầm cho mỗi quỹ chỉ quản lý bình quân khoảng 1 triệu USD, quá nhỏ so với quy mô ngành khi đó (thường được ước tính ở mức hàng trăm tỷ USD). Có thể bài gốc hoặc bản chép đã nhầm đơn vị; chưa có tài liệu gốc để đối chiếu nên giữ nguyên số.
+
 ## Sơ đồ
 
 ### Phòng hộ là gì

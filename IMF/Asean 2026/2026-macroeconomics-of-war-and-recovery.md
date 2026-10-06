@@ -204,7 +204,7 @@ Bằng chứng cấp doanh nghiệp — hơn 5 triệu công ty, bán kính 20 k
 
 ## Ba câu hỏi bài viết trả lời
 
-1. **Chiến tranh tốn kém đến mức nào, và so với các cú sốc vĩ mô khác thì sao?** Sản lượng giảm 3% ngay năm bùng nổ, 7% sau 5 năm, 11% sau 10 năm. Khi đo bằng **cùng một khung phương pháp**, con số này vượt khủng hoảng ngân hàng (−3,3%), khủng hoảng tiền tệ (−1,1%), khủng hoảng nợ công (−4,4%) và thảm họa thiên nhiên nghiêm trọng. Đây là đóng góp quan trọng nhất về mặt so sánh, vì trước đây mỗi loại chi phí được ước lượng bằng một phương pháp khác nhau nên không thể xếp hạng.
+1. **Chiến tranh tốn kém đến mức nào, và so với các cú sốc vĩ mô khác thì sao?** Sản lượng giảm khoảng 3% ngay năm bùng nổ, 7% sau 5 năm, 11% sau 10 năm. Khi đo bằng **cùng một khung phương pháp**, con số này vượt khủng hoảng ngân hàng (−3,3%), khủng hoảng tiền tệ (−1,1%), khủng hoảng nợ công (−4,4%) và thảm họa thiên nhiên nghiêm trọng. Đây là đóng góp quan trọng nhất về mặt so sánh, vì trước đây mỗi loại chi phí được ước lượng bằng một phương pháp khác nhau nên không thể xếp hạng.
 
 2. **Chiến tranh tác động lên khu vực đối ngoại như thế nào?** Rất mạnh và rất có hệ thống. Xuất khẩu sụp nhanh hơn nhập khẩu, FDI và vốn danh mục tháo chạy, dự trữ ngoại hối cạn, tỷ giá chính thức mất giá 20% nhưng **chênh lệch với tỷ giá chợ đen còn tăng 94%** — dấu hiệu rõ ràng rằng tỷ giá chính thức không còn phản ánh thực tế. Chỉ có viện trợ ODA tăng mạnh và ngày càng mạnh theo thời gian, đóng vai trò phao cứu sinh gần như duy nhất.
 
@@ -529,7 +529,7 @@ Việc áp cùng một khung LP-DiD lên cả năm loại cú sốc là đóng g
 
 ### Dùng mô hình ngôn ngữ lớn: minh bạch nhưng tạo ra một vấn đề tái lập kiểu mới
 
-Việc công bố nguyên văn câu lệnh là thực hành đúng và đáng khen. Nhưng nó chưa đủ để giải quyết vấn đề, và đây là điểm đáng suy nghĩ nhất về mặt phương pháp trong cả chín tài liệu.
+Việc công bố nguyên văn câu lệnh là thực hành đúng và đáng khen. Nhưng nó chưa đủ để giải quyết vấn đề, và đây là điểm đáng suy nghĩ nhất về mặt phương pháp trong cả chín tài liệu đầu tiên của thư mục.
 
 Ba trở ngại cụ thể:
 

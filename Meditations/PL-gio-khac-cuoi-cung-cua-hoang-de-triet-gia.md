@@ -10,7 +10,7 @@
 
 ## Sơ đồ
 
-*Bài không có mục đánh số. Các khối dưới đây đi theo các đoạn của văn bản; tên đoạn và số trang ở tiêu đề trùng với Dàn ý chi tiết để tra lại bản dịch.*
+*Bài không có mục đánh số. Các khối dưới đây đi theo các đoạn của văn bản; tên đoạn và số trang ở tiêu đề trùng với mục Nội dung chi tiết để tra lại bản dịch.*
 
 ### Toàn bài, từ Cảnh mở đầu đến Lời từ biệt (tr. 208–227) — Khung truyện: đêm hấp hối của Marcus ở Vindobona
 

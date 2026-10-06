@@ -28,6 +28,7 @@
 > - **Tên và đơn vị trên hình không khớp nhau.** Hình về cường độ trung tâm tài chính ghi "phần trăm GDP", nhưng trục là lô-ga-rít (5 đến 10). Hình tỷ trọng lao động ghi "phần trăm GDP", trong khi biến phụ thuộc chia cho GNDI.
 > - **Nguồn được trích nhưng không có trong danh mục tham khảo**: Modigliani và Brumberg (1954), và "IMF 2021" (phương pháp GARCH đo bất định thu nhập). Phụ lục dữ liệu liệt kê Chỉ số Bất định Thế giới, tỷ trọng dân số và tỷ trọng sản lượng toàn cầu, nhưng không bảng nào báo cáo kết quả cho các biến này.
 > - Lãi suất tiền gửi thực được mô tả là "có tác động có ý nghĩa", nhưng hệ số ở cột 8 (−0,173) chỉ có ý nghĩa ở mức 10%.
+> - **Bảng phân rã khoảng cách Singapore so với nhóm năm 2024 không cộng khớp**: 38 + 5 + 4,4 + 3 + 2 + 2 + 1 + 0,5 − 0,7 − 3 ≈ **52,2**, trong khi dòng cuối ghi trung bình nhóm **khoảng 54** (khoảng cách 16 điểm). Các đóng góp là giá trị đọc trên hình nên không biết chỗ nào lệch.
 
 ## Sơ đồ
 

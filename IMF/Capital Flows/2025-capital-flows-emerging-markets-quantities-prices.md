@@ -321,7 +321,7 @@
        ═══════════════════════════════════════════════════════════
        ★★★ CHIẾN LƯỢC HIỆU CHUẨN — ĐIỂM THEN CHỐT CỦA CẢ PHẦN NÀY
        hiệu chuẩn cho Brazil và Mexico, dữ liệu quý 1997Q1–2019Q4
-       (bilateral thương mại giữa hai nước chỉ ~1,5% tổng xuất
+       (thương mại song phương giữa hai nước chỉ ~1,5% tổng xuất
         khẩu năm 2012 → biện minh cho việc bỏ qua liên kết song
         phương trực tiếp)
        ĐƯỢC NHẮM LÀM MỤC TIÊU ····· biến động và tương quan sản

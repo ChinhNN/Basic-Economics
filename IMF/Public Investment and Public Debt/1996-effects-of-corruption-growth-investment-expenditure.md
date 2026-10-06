@@ -2,7 +2,7 @@
 
 **Nguồn:** IMF Working Paper WP/96/98, tháng 9/1996, Vụ Xây dựng và Rà soát Chính sách. Bài cũng được in trong tập hội thảo "Corruption and the World Economy" do Kimberly Ann Elliott biên tập (Institute for International Economics).
 **Tác giả:** Paolo Mauro.
-**Ý chính:** Bài có hai phần. Phần đầu điểm lại các **nguyên nhân** và **hệ quả** của tham nhũng, tập trung vào những mối liên hệ kiểm định được bằng hồi quy xuyên quốc gia. Nguyên nhân chính là các **khoản đặc lợi**, phần lớn do chính sách nhà nước tạo ra: hạn chế thương mại, trợ cấp, kiểm soát giá, đa tỷ giá, lương công chức thấp. Ngoài ra còn các nguồn không do chính sách như tài nguyên thiên nhiên và yếu tố xã hội. Phần sau mở rộng Mauro (1995) với chỉ số tham nhũng là **bình quân hai chỉ số BI và ICRG** cho 106 nước. Cải thiện chỉ số tham nhũng thêm **một độ lệch chuẩn (2,38 điểm)** đi kèm **đầu tư tăng hơn 4 điểm phần trăm GDP** và **tăng trưởng GDP bình quân đầu người tăng hơn 0,5 điểm phần trăm mỗi năm**. Phần lớn tác động lên tăng trưởng đi qua kênh đầu tư. Phát hiện mới là tham nhũng **làm thay đổi cơ cấu chi tiêu công**: nước tham nhũng hơn **chi ít hơn cho giáo dục**, khoảng **0,5% GDP** cho mỗi độ lệch chuẩn. Lý do có thể là khó thu hối lộ từ lương giáo viên và sách giáo khoa hơn so với từ dự án hạ tầng lớn hay vũ khí.
+**Ý chính:** Bài có hai phần. Phần đầu điểm lại các **nguyên nhân** và **hệ quả** của tham nhũng, tập trung vào những mối liên hệ kiểm định được bằng hồi quy xuyên quốc gia. Nguyên nhân chính là các **khoản đặc lợi**, phần lớn do chính sách nhà nước tạo ra: hạn chế thương mại, trợ cấp, kiểm soát giá, đa tỷ giá, lương công chức thấp. Ngoài ra còn các nguồn không do chính sách như tài nguyên thiên nhiên và yếu tố xã hội. Phần sau mở rộng Mauro (1995) với chỉ số tham nhũng là **bình quân hai chỉ số BI và ICRG** cho 106 nước. Cải thiện chỉ số tham nhũng thêm **một độ lệch chuẩn (2,38 điểm)** đi kèm **đầu tư tăng hơn 4 điểm phần trăm GDP** và **tăng trưởng GDP bình quân đầu người tăng khoảng 0,7 điểm phần trăm mỗi năm**. Phần lớn tác động lên tăng trưởng đi qua kênh đầu tư. Phát hiện mới là tham nhũng **làm thay đổi cơ cấu chi tiêu công**: nước tham nhũng hơn **chi ít hơn cho giáo dục**, khoảng **0,5% GDP** cho mỗi độ lệch chuẩn. Lý do có thể là khó thu hối lộ từ lương giáo viên và sách giáo khoa hơn so với từ dự án hạ tầng lớn hay vũ khí.
 
 > **Lưu ý:** bản PDF quét bị mất chữ cuối dòng ở lề phải nhiều trang. Bài có một số điểm không khớp nội bộ:
 > - Các mục được dẫn chiếu là "III.1, III.2, III.3", trong khi tiêu đề thực tế là A, B, C.
@@ -11,6 +11,7 @@
 > - Chú thích 16 viết "khái quát hoá Barro (1991)", nhưng phụ lục khái quát hoá Barro (1990).
 > - Chú thích Hình 1 ghi "ICGR" thay vì ICRG.
 > - Ví dụ minh hoạ trong bài: tăng chỉ số từ 6 lên 8 điểm làm tăng trưởng tăng "gần nửa điểm phần trăm". Theo hệ số 0,0029 thì con số thực là khoảng 0,58 điểm, tức hơi hơn nửa điểm.
+> - Câu "thêm đầu tư vào hồi quy tăng trưởng làm hệ số tham nhũng giảm khoảng hai phần ba, còn 0,0028" không rõ so với cột nào: so với cột 1 (0,0029) thì gần như không đổi, so với cột 3 (0,0038) chỉ giảm khoảng một phần tư; chỉ so với cột 2SLS (0,0081) mới giảm khoảng hai phần ba, nhưng cột 5 là OLS. Không có bản gốc đầy đủ để xác định nên giữ nguyên.
 
 ## Sơ đồ
 
@@ -489,7 +490,7 @@ Kết luận của bài: tương quan quan sát được có thể đủ để c
 
 ### 8. Kết luận
 
-Tham nhũng có tác động tiêu cực đáng kể lên tăng trưởng kinh tế. Kênh chính là làm giảm đầu tư tư nhân: cải thiện chỉ số tham nhũng một độ lệch chuẩn đi kèm đầu tư cao hơn hơn 4 điểm phần trăm GDP và tăng trưởng GDP bình quân đầu người cao hơn hơn 0,5 điểm phần trăm mỗi năm. Một kênh khác có thể là cơ cấu chi tiêu công kém hơn.
+Tham nhũng có tác động tiêu cực đáng kể lên tăng trưởng kinh tế. Kênh chính là làm giảm đầu tư tư nhân: cải thiện chỉ số tham nhũng một độ lệch chuẩn đi kèm đầu tư cao hơn hơn 4 điểm phần trăm GDP và tăng trưởng GDP bình quân đầu người cao hơn hơn 0,5 điểm phần trăm mỗi năm (theo hệ số cột 1 là khoảng 0,7 điểm). Một kênh khác có thể là cơ cấu chi tiêu công kém hơn.
 
 Quan hệ âm giữa tham nhũng và chi cho giáo dục, khoảng 0,5% GDP cho mỗi độ lệch chuẩn, là điều đáng lo ngại, vì tài liệu trước đã cho thấy trình độ giáo dục là một yếu tố quan trọng quyết định tăng trưởng.
 

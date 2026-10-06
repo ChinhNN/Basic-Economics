@@ -142,7 +142,7 @@
   │ 76–100%  │   7,3%     │   5,3%     │   0,48                   │
   └──────────┴────────────┴────────────┴──────────────────────────┘
   ⟹ Nơi thay vì chính trị là số đông: kỳ vọng vượt mục tiêu ~1
-    điểm; nơi thay vì chính trị là chuẩn mực: vượt hơn 2 điểm.
+    điểm; nơi thay vì chính trị là chuẩn mực: vượt khoảng 2 điểm.
   ⟹ Chỉ số theo luật gần như không phân biệt được các nhóm.
 ```
 
@@ -253,7 +253,7 @@
 
 ## Ba câu hỏi bài viết trả lời
 
-1. **Làm sao đo được sự xói mòn độc lập của ngân hàng trung ương trên thực tế?** Bằng cách xem **ai bị thay, vì sao, và ai được đưa vào**. Chỉ số theo luật gần như bất biến trong từng nước và không phân biệt được nước có kỳ vọng lạm phát neo tốt với nước không. Trong khi đó, tỷ lệ lần thay thống đốc vì động cơ chính trị phân biệt rất rõ: kỳ vọng lạm phát dài hạn bám mục tiêu ở nước không có lần thay nào kiểu này, nhưng vượt mục tiêu hơn 2 điểm ở nước mà thay vì chính trị là chuẩn mực.
+1. **Làm sao đo được sự xói mòn độc lập của ngân hàng trung ương trên thực tế?** Bằng cách xem **ai bị thay, vì sao, và ai được đưa vào**. Chỉ số theo luật gần như bất biến trong từng nước và không phân biệt được nước có kỳ vọng lạm phát neo tốt với nước không. Trong khi đó, tỷ lệ lần thay thống đốc vì động cơ chính trị phân biệt rất rõ: kỳ vọng lạm phát dài hạn bám mục tiêu ở nước không có lần thay nào kiểu này, nhưng vượt mục tiêu khoảng 2 điểm ở nước mà thay vì chính trị là chuẩn mực.
 
 2. **Thay thống đốc vì chính trị gây ra hậu quả gì?** Trong hai năm sau khi công bố, lãi suất thực giảm khoảng 3,8 điểm, lạm phát tăng khoảng 3,4 điểm, và tăng trưởng GDP cũng tăng khoảng 1,6 điểm. Đó chính là sự đánh đổi mà các chính phủ tìm kiếm, và dữ liệu cho thấy họ có đạt được — trong ngắn hạn. Giới dự báo điều chỉnh niềm tin: họ kỳ vọng ngân hàng trung ương phản ứng với lạm phát yếu hơn hẳn.
 
@@ -378,7 +378,7 @@ Hệ số tương quan cho cùng bức tranh. Thay vì chính trị tương quan
 | 51–75% | 4,8% | 4,0% | 0,66 |
 | 76–100% | 7,3% | 5,3% | 0,48 |
 
-Ở nước không có hoặc ít lần thay vì chính trị, kỳ vọng dài hạn bám sát mục tiêu. Nơi thay vì chính trị là số đông (51–75%), kỳ vọng vượt mục tiêu khoảng 1 điểm. Nơi thay vì chính trị là chuẩn mực (76–100%), kỳ vọng vượt mục tiêu hơn 2 điểm. Trong khi đó, chỉ số độc lập theo luật gần như không phân biệt được các nhóm: nhóm 51–75% thậm chí có chỉ số cao nhất (0,66).
+Ở nước không có hoặc ít lần thay vì chính trị, kỳ vọng dài hạn bám sát mục tiêu. Nơi thay vì chính trị là số đông (51–75%), kỳ vọng vượt mục tiêu khoảng 1 điểm. Nơi thay vì chính trị là chuẩn mực (76–100%), kỳ vọng vượt mục tiêu khoảng 2 điểm. Trong khi đó, chỉ số độc lập theo luật gần như không phân biệt được các nhóm: nhóm 51–75% thậm chí có chỉ số cao nhất (0,66).
 
 **Văn liệu trước** đã thấy tốc độ thay thống đốc cao gắn với bất ổn chính trị và lạm phát cao, và ở Mỹ Latinh số lần thay bất thường còn nhiều hơn số lần thay đúng hạn. Một nghiên cứu còn cho thấy cải cách tăng độc lập theo luật lại đi kèm nhiều lần bổ nhiệm vì chính trị hơn. Nghĩa là khi mất công cụ chỉ đạo trực tiếp, chính phủ bù lại bằng cách chọn người.
 

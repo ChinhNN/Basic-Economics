@@ -4,7 +4,7 @@
 **Tác giả:** Maura Francese và Delphine Prady.
 **Ý chính:** Thu nhập cơ bản phổ quát là cơ chế hỗ trợ thu nhập nhằm đến tất cả (hoặc phần rất lớn) dân số với không hoặc rất ít điều kiện. Không có định nghĩa thống nhất, nhưng hai đặc điểm chung là tính phổ quát và tính vô điều kiện. Người ủng hộ ca ngợi sự đơn giản và công bằng; người hoài nghi lo chi phí ngân sách và động lực.
 
-> **Lưu ý:** bản PDF chỉ có trang đầu của bài (tr. 38). Phần lập luận ủng hộ bị cắt giữa chừng và toàn bộ trang 39 chưa có, nên tổng hợp dưới đây chưa đầy đủ. Trang trước đó trong PDF là một bài khác (Age of Insecurity) kể câu chuyện SEWA ở Ấn Độ, không thuộc chuyên mục Back to Basics.
+> **Lưu ý:** bản PDF chỉ có trang đầu của bài (tr. 38). Phần lập luận ủng hộ bị cắt giữa chừng và toàn bộ trang 39 chưa có (theo tiêu đề phụ, phần này bàn về lo ngại của người hoài nghi về chi phí ngân sách và động lực làm việc), nên tổng hợp dưới đây chưa đầy đủ. Trang trước đó trong PDF là một bài khác (Age of Insecurity) kể câu chuyện SEWA ở Ấn Độ, không thuộc chuyên mục Back to Basics.
 
 ## Sơ đồ
 

@@ -61,7 +61,7 @@
                   (Coase: quyền tài sản rõ + chi phí giao dịch thấp)
 ```
 
-### Bản đồ giá trị kinh tế (Chart 1)
+### Bản đồ giá trị kinh tế
 
 ```text
                     Vai trò chính phủ LỚN

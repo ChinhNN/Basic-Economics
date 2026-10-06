@@ -4,6 +4,8 @@
 **Tác giả:** John Kiff, chuyên gia cao cấp khu vực tài chính, Vụ Tiền tệ và Thị trường vốn của IMF.
 **Ý chính:** LIBOR là lãi suất trung bình mà các ngân hàng lớn *tin* mình có thể vay lẫn nhau ở London, làm chuẩn cho 300 nghìn tỷ USD hợp đồng tài chính. Vì dựa trên ước đoán chứ không phải giao dịch thật, LIBOR bị gọi là "hư cấu tiện lợi", bị Barclays thao túng, và đang được Anh cải cách.
 
+> **Lưu ý:** bài nói việc bỏ 5 đồng tiền và 4 kỳ hạn sẽ giảm số lãi suất LIBOR từ 150 xuống 20, nhưng phép tính không khớp: 10 đồng tiền × 15 kỳ hạn = 150, còn 5 đồng tiền × 11 kỳ hạn còn lại = 55 chứ không phải 20. Có thể bài gốc tóm lược thiếu một bước cắt giảm khác; chưa có tài liệu gốc để đối chiếu nên giữ nguyên số của bài.
+
 ## Sơ đồ
 
 ### LIBOR được tạo ra thế nào

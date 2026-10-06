@@ -12,6 +12,7 @@
 > - **Ba kiểm định giả dược có ý nghĩa nhưng bị mô tả nhẹ đi.** Bảng A3 cho PLN hệ số giả dược **+0,0449\*\*\*** (dương, có ý nghĩa 1%), RSD biến động **+0,0216\*\*\***, PLN biến động **−0,0152\*\***. Bài chỉ viết các giả dược "nhìn chung không có ý nghĩa thống kê hoặc mang dấu ngược lại".
 > - **Kết quả ngang giá tam giác sụp đổ khi siết hiệu ứng cố định.** Cột (3) và (6) của Bảng 3 thêm hiệu ứng cố định đồng tiền–tháng–năm: hệ số rơi từ −0,0195 xuống **−0,00182** và từ −0,0145 xuống **−0,00011**, tức gần như bằng 0 và mất hoàn toàn ý nghĩa. Chú thích 21 chỉ nói chúng "giữ nguyên dấu âm".
 > - **Độ lớn DiDiD không được đối chiếu với DiD cơ sở.** β₂ ở Bảng 2 là **−0,381** và β₂−β₃ là **−0,771**, tức gấp **4–8 lần** ước lượng cơ sở **−0,10**. Bài không giải thích chênh lệch này.
+> - **Hệ số Post ở bảng ngang giá tam giác chỉ có một giá trị cho mỗi cửa sổ** (0,00214 ở ±1 tháng, 0,01389\*\* ở ±3 tháng) dù bảng có ba cột mỗi cửa sổ; không rõ giá trị đó thuộc cột nào (ở các cột có hiệu ứng cố định ngày, Post lẽ ra bị hấp thụ).
 > - Mục lục ghi "3.1 Settlement risk around U.S.-specific **golidays**" (lỗi chính tả của *holidays*).
 > - Lỗi ngữ pháp lặp lại: "This **constraints** their ability to absorb order flow shocks" (Mục 2) và "**constraints** intermediaries' risk-bearing capacity" (Kết luận) — dùng danh từ thay cho động từ *constrains*. Mục 4.1 viết "thereby **rasing** the marginal cost of arbitrage" (lỗi của *raising*).
 > Các số lấy từ hình là giá trị đọc trên hình.
@@ -390,7 +391,7 @@
        │ ★ Treated × Post   │ −0,01950***     │ −0,01452**         │
        │                    │ −0,01954***     │ −0,01227**         │
        │                    │ ⚠ −0,00182 ns   │ ⚠ −0,00011 ns      │
-       │ Post               │ 0,00214 ns      │ ★ 0,01389**        │
+       │ Post (1 số/cửa sổ) │ 0,00214 ns      │ ★ 0,01389**        │
        │ Bid–Ask spread     │ −4,211** −4,549*│ 33,843 / 42,313 /  │
        │                    │ * −4,298*       │ 37,877 (đều ns)    │
        ├────────────────────┼─────────────────┼────────────────────┤
@@ -420,6 +421,8 @@
        └──────────────────┴──────────┴──────────┴────────────────┘
        ★★ QUY RA TỶ LỆ: giảm ~27% ở cửa sổ một tháng, ~17–20% ở cửa
           sổ ba tháng
+          cách tính: hệ số hồi quy ÷ bình quân trước sự kiện của HUF
+          0,0195 ÷ 0,0714 ≈ 27% · 0,01227–0,01452 ÷ 0,0742 ≈ 17–20%
        ─── ② so với MOMENT PHÂN PHỐI bền vững (Bảng A7) ───
        ⚠ lý do cần cách thứ hai: sai lệch tam giác ★ LỆCH PHẢI RẤT
          MẠNH → chuẩn đối chiếu theo BÌNH QUÂN có thể ĐÁNH GIÁ THẤP
@@ -855,7 +858,7 @@ Hồi quy cơ sở về lợi suất vượt trội dùng hiệu ứng cố đ�
 
 Theo tiêu chuẩn mà chính bài áp dụng ở hồi quy cơ sở, cột (3) và (6) **là đặc tả được ưa chuộng**, không phải một kiểm định phụ. Và ở đặc tả đó không có kết quả nào.
 
-Điều này có hệ quả trực tiếp cho cách đọc phần tóm tắt. Trong ba phát hiện của bài, phát hiện thứ ba — rủi ro quyết toán là một nguồn giới hạn arbitrage, với sai lệch tam giác thu hẹp **17–27%** — là phát hiện **được định lượng chính xác nhất trong phần tóm tắt nhưng yếu nhất trong phần kết quả**. Con số 17–27% cũng không đến từ hệ số hồi quy mà từ phép so sánh sai biệt không điều kiện với bình quân trước sự kiện, tức không được kiểm soát bởi bất kỳ hiệu ứng cố định nào.
+Điều này có hệ quả trực tiếp cho cách đọc phần tóm tắt. Trong ba phát hiện của bài, phát hiện thứ ba — rủi ro quyết toán là một nguồn giới hạn arbitrage, với sai lệch tam giác thu hẹp **17–27%** — là phát hiện **được định lượng chính xác nhất trong phần tóm tắt nhưng yếu nhất trong phần kết quả**. Con số 17–27% cũng chỉ là hệ số hồi quy của các đặc tả gọn (cột 1–2 và 4–5) chia cho bình quân trước sự kiện của HUF, tức đúng các đặc tả không có hiệu ứng cố định đồng tiền–tháng–năm.
 
 ### Một giả dược cùng dấu và có ý nghĩa trên đồng tiền đối chứng lớn nhất là vấn đề, không phải chi tiết
 

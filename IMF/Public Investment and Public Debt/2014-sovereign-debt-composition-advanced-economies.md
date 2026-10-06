@@ -13,6 +13,7 @@
 > - **Bảng 3 ("Great Accumulation", được định nghĩa là 1975–2005") lại chứa các đợt bắt đầu TRƯỚC 1975**: Ý (1964–94), Nhật (1964–87), Thuỵ Điển (1966–85). Tương tự, **Bảng 7 ("Great Moderation", định nghĩa là giữa thập niên 1980 tới 2007) chứa Thuỵ Điển (1995–2011)**, kéo quá 2007.
 > - Bảng 2 có một **cột đầu không có tiêu đề** (dãy 1946, 1943, 1946…) — theo mạch là năm đỉnh nợ.
 > - Danh mục ghi **"Institute National de la Statistique"** (phải là *Institut*). Phụ lục dữ liệu dẫn "Missale" làm nguồn số liệu nhiều nước mà không nêu rõ là Missale (1999) hay (2012).
+> - Trong các bảng trung vị của mục 4 (Thế chiến I, Thế chiến II, Đại Tích luỹ, Đại Suy thoái 2008, củng cố sau Thế chiến I), cột "Thay đổi" thường không bằng hiệu giữa cột "Cuối" và cột "Đầu" (ví dụ Thế chiến II, giao dịch được 78 → 79 nhưng thay đổi −4; Đại Suy thoái 2008, nợ/GDP 41 → 70 nhưng thay đổi +18). Cách giải thích hợp lý là cột này lấy trung vị của thay đổi từng nước chứ không phải hiệu hai trung vị, nhưng không có bản gốc để kiểm tra. Một số ô thay đổi để trống (phi ngân hàng trong nước năm 2008, nợ/GDP sau Thế chiến I) vì không có số.
 > Các số lấy từ hình là giá trị đọc trên hình.
 
 ## Sơ đồ
@@ -63,7 +64,7 @@
        ② GIẢM DỄ TỔN THƯƠNG TÀI KHOÁ VÀ RỦI RO KHỦNG HOẢNG
        ★ "TỘI TỔ TÔNG" (original sin): không thể phát hành nợ dài hạn
          bằng nội tệ — nguồn dễ tổn thương lớn ở nước mới nổi
-         (Eichengreen–Hausman 2002; Borensztein và cộng sự 2004)
+         (Eichengreen–Hausmann 2002; Borensztein và cộng sự 2004)
        ⚠ khủng hoảng tài chính toàn cầu cho thấy nước PHÁT TRIỂN cũng
          KHÔNG miễn nhiễm
        ═══════════════════════════════════════════════════════════

@@ -37,7 +37,7 @@
    khai lao động → né hoàn toàn
 ```
 
-## Câu hỏi bài viết đặt ra
+## Câu hỏi bài viết trả lời
 
 1. Lương tối thiểu được biện minh bằng gì và bị phê phán ra sao?
 2. Tăng lương tối thiểu có thực sự có lợi cho người thu nhập thấp không?

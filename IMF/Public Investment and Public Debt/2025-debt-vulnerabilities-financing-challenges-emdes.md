@@ -9,6 +9,7 @@
 > - **Số đếm trong Đoạn 13 không khớp Hình 10** ở cả ba nhóm: nhóm "khối lượng" lời văn ghi **8 nước thu nhập thấp và 6 nước mới nổi**, hình ghi **7 và 3**; nhóm "chi phí" lời văn ghi **7 và 5**, hình ghi **5 và 5**; nhóm "cả hai" lời văn ghi **7 và 9**, hình ghi **7 và 8**.
 > - **Đoạn 22 và ghi chú Hình 11 đều dẫn "Hình 6"** trong khi nội dung được nhắc tới là **Hình 10**.
 > - **Hình 16** dùng hai hệ nhãn khác nhau cho cùng một cách chia: ba biểu đồ ghi "All other / Upper quartile", riêng biểu đồ gốc của nước thu nhập thấp ghi "LICs / LICs with high rollover risk".
+> - Bảng cơ cấu chủ nợ của nước thu nhập thấp cuối 2010 ghi tư nhân 6% nhưng hai thành phần (trái chủ 1%, tư nhân khác 6%) cộng ra 7%; cuối 2023 tư nhân 19% còn hai thành phần cộng 20%. Nhiều khả năng do làm tròn từng dòng, nhưng không có bản gốc để kiểm.
 > - **Hình 14** dùng thu ngân sách **bao gồm** viện trợ, trong khi hầu hết các tỷ lệ khác trong bài dùng thu **không gồm** viện trợ; bài không nhắc tới sự khác biệt này khi so sánh.
 > - **Đoạn 23** viết "gần 60 phần trăm (12 nước)"; theo Hình 20, nhóm đó có 22 nước nên 12/22 là **55%**.
 > - Đoạn 13, gạch đầu dòng "Khối lượng": dấu ngoặc đơn không khớp và tỷ lệ "khoảng 12 phần trăm" chỉ áp cho nhóm thu nhập thấp, không rõ ràng trong câu.
@@ -52,7 +53,7 @@
        trung vị LIC: thâm hụt sơ cấp còn ~1% GDP, quanh mức trước dịch
        trung vị EM:  thâm hụt sơ cấp gần CÂN BẰNG
        ═══════════════════════════════════════════════════════════
-       ★★ SO VỚI ĐỈNH LỊCH SỬ (Hình 1, ước đọc)
+       ★★ SO VỚI ĐỈNH LỊCH SỬ (ước đọc)
        ┌──────────────────────────────┬──────────┬─────────────────┐
        │ nhóm                         │ HIỆN NAY │ ĐỈNH trước HIPC │
        ├──────────────────────────────┼──────────┼─────────────────┤
@@ -99,7 +100,7 @@
 ### Bản chất của rủi ro đã đổi: ba dịch chuyển
 
 ```text
-       ★★ ① CƠ CẤU CHỦ NỢ NGOẠI (Hình 3, % dư nợ nợ ngoại có bảo lãnh)
+       ★★ ① CƠ CẤU CHỦ NỢ NGOẠI (% dư nợ nợ ngoại có bảo lãnh)
        ┌────────────────────────┬──────────────┬───────────────────┐
        │ NƯỚC THU NHẬP THẤP     │ cuối 2010    │ cuối 2023         │
        ├────────────────────────┼──────────────┼───────────────────┤
@@ -127,7 +128,7 @@
           và ĐẮT HƠN. Thị trường CẬN BIÊN chuyển dịch mạnh nhất, hồ
           sơ nợ nay gần giống nước mới nổi
        ═══════════════════════════════════════════════════════════
-       ★★ ② NỢ TRONG NƯỚC TĂNG (Hình 4)
+       ★★ ② NỢ TRONG NƯỚC TĂNG
        (nợ trong nước được ước bằng tổng nợ công trừ nợ công ngoại)
        trung vị LIC: tỷ trọng nợ trong nước +9 điểm kể từ 2010
          ★ rồi +9 điểm NỮA sau khi đại dịch bắt đầu (tương đương
@@ -151,7 +152,7 @@
 ### Vế đáng lo: chi phí và dòng tiền, không phải mức nợ
 
 ```text
-       ★★ GÁNH NẶNG LÃI (Hình 5)
+       ★★ GÁNH NẶNG LÃI
        hoá đơn lãi của nhóm LIC: ~13 tỷ USD (2014) → ★ 35 tỷ USD
          tức hơn HAI LẦN RƯỠI sau một thập kỷ
        ★ TỐC ĐỘ TĂNG CŨNG TĂNG:
@@ -165,7 +166,7 @@
                          gần GẤP ĐÔI một thập kỷ trước
        ★★ HỆ QUẢ: chi cho phát triển và ưu tiên xã hội bị CHÈN ÉP
        ═══════════════════════════════════════════════════════════
-       ★ CHI PHÍ VAY (Hình 6a, 6b)
+       ★ CHI PHÍ VAY (6b)
        2022 ··· điều kiện tài chính toàn cầu siết lại khi NHTW nước
                  phát triển thắt tiền tệ → chênh lệch lợi suất EMDE
                  vọt lên (phân vị 90 có lúc tới ~5.500 điểm cơ bản)
@@ -182,7 +183,7 @@
          LIC: chính thức ~1–2%, ★ tư nhân dao động 2–5%
          EM:  chính thức ~1,5–5%, tư nhân ~2,5–6,5%
        ═══════════════════════════════════════════════════════════
-       ★★ TRẢ GỐC VÀ NHU CẦU TÁI TÀI TRỢ (Hình 7, 8)
+       ★★ TRẢ GỐC VÀ NHU CẦU TÁI TÀI TRỢ (8)
        LIC: trả gốc ngoại >20 tỷ USD năm 2023, hơn BA LẦN một thập
          kỷ trước; ★ hơn BA PHẦN TƯ là nợ chủ nợ CHÍNH THỨC
          ★ nhu cầu tái tài trợ 2025–27: vượt 30 tỷ USD/NĂM
@@ -194,7 +195,7 @@
          vốn huy động năm 2024; loại các nước đang tái cơ cấu để
          khỏi thổi phồng nghĩa vụ tương lai
        ═══════════════════════════════════════════════════════════
-       ★★ DÒNG VỐN RÒNG SUY GIẢM (Hình 9)
+       ★★ DÒNG VỐN RÒNG SUY GIẢM
        LIC ··· dòng nợ ngoại ròng CHỮNG LẠI, thậm chí GIẢM 2021–22;
                 đa phương tăng đóng góp nhưng KHÔNG bù nổi phần tư
                 nhân và song phương rút đi
@@ -208,7 +209,7 @@
 ### Ba nhóm thách thức: khối lượng, chi phí, hay cả hai
 
 ```text
-       ★ CÁCH DỰNG (Hình 10): lấy các nước nằm ở TỨ PHÂN VỊ CAO NHẤT
+       ★ CÁCH DỰNG: lấy các nước nằm ở TỨ PHÂN VỊ CAO NHẤT
          của ba chỉ tiêu 2024–27
          ① chi trả lãi TỔNG (nội + ngoại) / thu ngân sách
          ② trả gốc NGOẠI / thu ngân sách
@@ -245,7 +246,7 @@
        └──────────────┴──────────────────────────────────────────────┘
        ★★ THÔNG ĐIỆP: vấn đề KHÔNG phải mức nợ, mà là KHẢ NĂNG TRẢ
        ═══════════════════════════════════════════════════════════
-       ★ PHÂN BỐ VÙNG (Hình 11)
+       ★ PHÂN BỐ VÙNG
        ★★ CHÂU PHI HẠ SAHARA: 22 nước (9 cả hai + 7 gốc cao + 5 lãi
           cao + 1 thâm hụt cao); chiếm 44% chi trả lãi và 46% trả
           gốc ngoại của toàn nhóm LIC 2024–27 (chỉ 2% và 7% của EM)
@@ -259,7 +260,7 @@
 ### Chi phí vay cao, thu ngân sách thấp: bộ đôi chết người
 
 ```text
-       ★★ HÌNH 12 — LÃI SUẤT so với THU THUẾ/GDP
+       ★★ LÃI SUẤT so với THU THUẾ/GDP
        NƯỚC THU NHẬP THẤP
        ★ nhóm lãi/thu cao nằm ở góc TRÁI TRÊN: lãi suất bình quân
          cao (nhiều nước 5–9%) VÀ thu thuế dưới 15% GDP
@@ -272,7 +273,7 @@
          chính sâu → sức ép lên ngân sách chứ chưa phải dễ tổn thương
        ⚠ một số khác dính CẢ hai: chi phí vốn cao VÀ năng lực thu thấp
        ═══════════════════════════════════════════════════════════
-       ★★ HÌNH 13 — LÃI SUẤT so với NỢ/GDP: MỨC NỢ KHÔNG PHẢI THỦ PHẠM
+       ★★ LÃI SUẤT so với NỢ/GDP: MỨC NỢ KHÔNG PHẢI THỦ PHẠM
        ★ ở nhóm LIC lãi cao, chỉ BỐN nước có nợ/GDP thuộc tứ phân vị
          trên → gánh nặng lãi do LÃI SUẤT chứ không do khối nợ
        ⚠ ở một số LIC, nợ TRONG NƯỚC gấp ĐÔI nợ ngoại, tới 40% GDP,
@@ -281,7 +282,7 @@
          thu rộng và thị trường sâu; ★ chỉ BA nước EM vừa lãi cao,
          vừa nợ cao, vừa năng lực thu thấp
        ═══════════════════════════════════════════════════════════
-       ★ HÌNH 14 — TRẢ NỢ TRONG NƯỚC / THU (gồm viện trợ)
+       ★ TRẢ NỢ TRONG NƯỚC / THU (gồm viện trợ)
        trung vị EM cao ~GẤP ĐÔI trung vị LIC (EM ~38%, LIC ~19%)
          vì EM có hệ thống tài chính sâu hơn, nợ nội nhiều hơn
        ⚠⚠ NHƯNG ĐUÔI TRÊN CỦA LIC VƯỢT XA: có nước tới GẦN 100% thu
@@ -294,7 +295,7 @@
 ### Sức ép quay vòng và dòng vốn ròng
 
 ```text
-       ★★ HÌNH 15 — TRẢ GỐC NGOẠI / THU
+       ★★ TRẢ GỐC NGOẠI / THU
        LIC nhóm sức ép cao: tỷ lệ đã HƠN GẤP ĐÔI kể từ 2010, tới
          ~13% năm 2023, ★ và còn tăng thêm ~5 điểm trong 2024–27
        LIC còn lại: chỉ gấp đôi trong cùng kỳ, tăng thêm ~3 điểm
@@ -304,7 +305,7 @@
          ★ có thể do đồng tiền lên giá so với đô la khi EM thắt chặt
          tiền tệ SỚM HƠN nước phát triển
        ═══════════════════════════════════════════════════════════
-       ★★ HÌNH 16 — CHỦ NỢ CỦA NHÓM SỨC ÉP CAO (2024–27)
+       ★★ CHỦ NỢ CỦA NHÓM SỨC ÉP CAO (2024–27)
        ┌──────────────────────────┬─────────────┬──────────────────┐
        │                          │ nhóm sức ép │ các nước khác    │
        │                          │ CAO         │                  │
@@ -321,7 +322,7 @@
           trọng GỐC (1/3) → vốn tư nhân ĐẮT hơn nhiều so với quy mô
        ⚠ phía EM rất TẬP TRUNG: một số ít nước chiếm phần lớn khối lượng
        ═══════════════════════════════════════════════════════════
-       ★★ HÌNH 17 — DÒNG NỢ NGOẠI RÒNG 2018–23
+       ★★ DÒNG NỢ NGOẠI RÒNG 2018–23
        LIC nhóm sức ép cao: dòng tư nhân ròng ~28 tỷ USD, cao hơn
          CẢ NHÓM LIC CÒN LẠI (~13 tỷ) — đúng với việc họ vay trái
          phiếu tư nhân nhiều hơn
@@ -331,7 +332,7 @@
          yếu do tư nhân; chủ nợ chính thức chiếm ~60% dòng ròng dương
          của nhóm này (so với ~35% ở nhóm EM khác)
        ═══════════════════════════════════════════════════════════
-       ★ HÌNH 18 — PHẢN ỨNG TÀI KHOÁ
+       ★ PHẢN ỨNG TÀI KHOÁ
        LIC nhóm sức ép cao đã CỦNG CỐ MẠNH HƠN nhóm khác
        ⚠ nhưng thâm hụt sơ cấp trung vị 2024 VẪN LỚN HƠN mức trước
          đại dịch; nhiều nước còn đang điều chỉnh, dự kiến về gần
@@ -343,7 +344,7 @@
 ### Đường phía trước
 
 ```text
-       ★★ HÌNH 20 — XẾP HẠNG CỦA CHÍNH NHÓM DỄ TỔN THƯƠNG NHẤT
+       ★★ XẾP HẠNG CỦA CHÍNH NHÓM DỄ TỔN THƯƠNG NHẤT
        LIC (22 nước): Thấp 1 · ★ Trung bình 11 · Cao 4 · ⚠ Cao kèm
          VI PHẠM KÉO DÀI 6
        ★ nhóm "cao nhưng KHÔNG vi phạm kéo dài hay trước mắt" (4
@@ -362,7 +363,7 @@
          có gánh nặng lãi cao, gốc cao, hoặc cả hai
        → ★★ đây là nơi giao nhau giữa "vấn đề" và "lời giải"
        ═══════════════════════════════════════════════════════════
-       ★★ ② CẢI THIỆN NỀN TẢNG VÀ KHẢ NĂNG TRẢ (Hình 22)
+       ★★ ② CẢI THIỆN NỀN TẢNG VÀ KHẢ NĂNG TRẢ
        ⚠ với LIC nhóm trả gốc ngoại cao:
          XUẤT KHẨU/GDP trung vị đã TỤT XUỐNG DƯỚI trung vị toàn nhóm
            LIC theo thời gian

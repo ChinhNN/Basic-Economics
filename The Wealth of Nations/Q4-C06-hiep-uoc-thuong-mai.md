@@ -293,7 +293,7 @@ Từ đây chương chuyển sang tiền đúc. Điểm nối là câu hỏi: n�
 
 Với đồ dùng, thợ bạc ở Anh chủ yếu làm đồ mới từ đồ cũ nấu lại, chứ không dùng nhiều vàng mới.
 
-Với tiền đúc, có vẻ như có một con số lớn: trong 10 năm trước đợt cải cách tiền vàng gần đây (năm 1774), Sở đúc tiền đúc hơn 800.000 bảng tiền vàng mỗi năm. Nhưng không ai nghĩ phần lớn số đó là phần thêm vào lượng tiền đang lưu hành. Câu hỏi tự nhiên là: vậy hơn 800.000 bảng tiền mới đúc mỗi năm đã đi đâu? Mục 8 trả lời.
+Với tiền đúc, có vẻ như có một con số lớn: trong 10 năm trước đợt cải cách tiền vàng gần đây (văn bản chỉ nói "gần đây"; theo lịch sử là đợt đúc lại tiền vàng năm 1774), Sở đúc tiền đúc hơn 800.000 bảng tiền vàng mỗi năm. Nhưng không ai nghĩ phần lớn số đó là phần thêm vào lượng tiền đang lưu hành. Câu hỏi tự nhiên là: vậy hơn 800.000 bảng tiền mới đúc mỗi năm đã đi đâu? Mục 8 trả lời.
 
 ### 8. Cơ chế nấu chảy tiền khi đúc tiền miễn phí
 
@@ -445,7 +445,7 @@ Cuối cùng Smith giải thích vì sao đặt phần về đúc tiền ở ch�
 | Standard weight / fineness | Trọng lượng chuẩn / độ tuổi. Bản dịch chú thích sai "carat" là đơn vị trọng lượng |
 | Seignorage | Phí đúc tiền, lợi tức phát hành. Bản dịch gọi là "thuế đúc tiền" |
 | Free coinage | Đúc tiền miễn phí: nhà nước chịu mọi chi phí đúc |
-| Recoinage / reformation of the gold coin | Cải cách, đúc lại tiền vàng (năm 1774) |
+| Recoinage / reformation of the gold coin | Cải cách, đúc lại tiền vàng; văn bản không ghi năm, theo lịch sử là năm 1774 |
 | Coin by tale / by weight | Nhận tiền theo số đếm / theo cân |
 | Louis d'or, livre, sou, denier, mark | Tiền và đơn vị Pháp: 1 louis = 24 livre; 1 livre = 20 sou; 1 sou = 12 denier; 1 mác = 8 ounce Paris |
 | Bounty | Tiền thưởng (trợ cấp) xuất khẩu. Bản dịch: "trợ cấp khuyến khích xuất khẩu" |

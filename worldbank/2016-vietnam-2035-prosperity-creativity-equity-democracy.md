@@ -28,6 +28,7 @@
 > - **Khẳng định "Việt Nam được xếp trong năm nước chịu ảnh hưởng nặng nhất bởi biến đổi khí hậu" KHÔNG kèm nguồn nào**, dù được nhắc lại ba lần.
 > - **Chú thích 36 nêu hai con số vênh nhau 19 điểm phần trăm mà không giải quyết**: theo Global Findex thì 31% người trưởng thành Việt Nam có tài khoản, còn "NHNN ước tính 50%".
 > - **Nhiều đoạn văn được lặp lại NGUYÊN VĂN** giữa Tóm tắt điều hành (tr. xxi–xxviii), phần mở đầu Tổng quan (tr. 1–2) và Tóm tắt & Kết luận (tr. 78–79).
+> - **"Lập bốn quỹ nắm giữ cổ phần nhà nước" theo mô hình Singapore là chi tiết đáng ngờ.** Singapore được biết đến với một công ty nắm giữ vốn nhà nước chính là Temasek, nên con số "bốn quỹ" có thể là đề xuất riêng cho Việt Nam hoặc chép nhầm; không có báo cáo đầy đủ để đối chiếu nên giữ nguyên.
 > Bối cảnh cần biết khi đọc lại hôm nay: báo cáo đặt **TPP** làm trụ cột của kịch bản hội nhập (ước tính cộng thêm 8% GDP đến 2035, và thoả thuận phụ về công đoàn độc lập). Hoa Kỳ rút khỏi TPP tháng 1/2017, chưa đầy một năm sau khi báo cáo phát hành.
 > Các số lấy từ hình là giá trị đọc trên hình.
 
@@ -1349,7 +1350,7 @@
                 hưởng lương thấp ★ VỪA nằm trong chuỗi cung ứng Trung
                 Quốc — "★ MỘT SỰ KẾT HỢP RẤT HẤP DẪN"
              ★ dấu hiệu sớm: cụm công nghiệp điện tử đang hình thành ở
-               ★ BẮC TRUNG BỘ quanh Hà Nội
+               ★ MIỀN BẮC quanh Hà Nội
           ★ thương mại với Trung Quốc: ★ 20% tổng thương mại, từ 10% năm 2000
           ★ Cộng đồng Kinh tế ASEAN thành khối thương mại vận hành ★ 2016
             → ước tính cộng thêm ★ 1–3% thu nhập quốc dân tích luỹ
@@ -1981,7 +1982,7 @@ Logic nối ba cải cách này: "Minh bạch lớn hơn sẽ làm mạnh các t
 **Siêu xu hướng thứ hai: kinh tế toàn cầu.**
 
 - Kinh tế thế giới dự báo tăng 3,2%/năm giai đoạn 2015–2035; Trung Quốc vượt Hoa Kỳ thành nền kinh tế lớn nhất (tính theo giá thị trường) vào khoảng năm 2032.
-- **Chiến lược "Trung Quốc + 1"**: lương thực tế ở Trung Quốc tăng mạnh, nên các nhà sản xuất tiếp tục nhìn về phía nam để đặt thêm cơ sở ở một nước thứ hai. Việt Nam có lợi thế kép: nhà sản xuất có thể vừa hưởng lương thấp vừa nằm trong chuỗi cung ứng của Trung Quốc, "một sự kết hợp rất hấp dẫn". Dấu hiệu sớm là cụm công nghiệp điện tử đang hình thành ở Bắc Trung Bộ quanh Hà Nội (theo cách gọi của báo cáo).
+- **Chiến lược "Trung Quốc + 1"**: lương thực tế ở Trung Quốc tăng mạnh, nên các nhà sản xuất tiếp tục nhìn về phía nam để đặt thêm cơ sở ở một nước thứ hai. Việt Nam có lợi thế kép: nhà sản xuất có thể vừa hưởng lương thấp vừa nằm trong chuỗi cung ứng của Trung Quốc, "một sự kết hợp rất hấp dẫn". Dấu hiệu sớm là cụm công nghiệp điện tử đang hình thành ở miền Bắc quanh Hà Nội.
 - Thương mại với Trung Quốc chiếm 20% tổng thương mại của Việt Nam, tăng từ 10% năm 2000.
 - Cộng đồng Kinh tế ASEAN trở thành khối thương mại vận hành từ năm 2016, ước tính cộng thêm 1–3% thu nhập quốc dân tích luỹ. Nhưng ở Việt Nam, ASEAN được nhìn như một bước đệm để chốt các quan hệ đối tác hứa hẹn hơn ở ngoài khu vực.
 - **TPP**: các nước TPP chiếm 36% GDP thế giới và hơn 1/4 thương mại toàn cầu; Việt Nam là thành viên thu nhập trung bình thấp duy nhất. Ước tính của báo cáo là TPP cộng thêm 8% GDP tích luỹ đến năm 2035; các ước tính khác cho mức tăng hai chữ số, gấp nhiều lần bất kỳ nước TPP nào khác. Lý do sâu xa hơn: "Việt Nam cũng có thể tận dụng cam kết TPP để chốt những cải cách chính sách mà lẽ ra khó thực hiện hơn về mặt chính trị". Đây chính là đặc điểm thứ tư của cách làm cải cách thời Đổi Mới (dùng cam kết quốc tế làm đòn bẩy đối nội) đã nêu ở phần 1. Bối cảnh khi đọc lại hôm nay: Hoa Kỳ rút khỏi TPP tháng 1/2017.
@@ -2157,7 +2158,7 @@ Nói cách khác, Việt Nam đã **mua được thời gian chứ chưa giải 
 
 ### Thứ cứu quỹ đạo tăng trưởng lại là thứ báo cáo xếp vào mục rủi ro
 
-Báo cáo có nhìn thấy "chiến lược Trung Quốc + 1", và mô tả lợi thế kép của Việt Nam — vừa hưởng lương thấp vừa nằm trong chuỗi cung ứng Trung Quốc — là "một sự kết hợp rất hấp dẫn". Nó thậm chí ghi nhận dấu hiệu sớm: cụm công nghiệp điện tử đang hình thành ở Bắc Trung Bộ quanh Hà Nội.
+Báo cáo có nhìn thấy "chiến lược Trung Quốc + 1", và mô tả lợi thế kép của Việt Nam — vừa hưởng lương thấp vừa nằm trong chuỗi cung ứng Trung Quốc — là "một sự kết hợp rất hấp dẫn". Nó thậm chí ghi nhận dấu hiệu sớm: cụm công nghiệp điện tử đang hình thành ở miền Bắc quanh Hà Nội.
 
 Nhưng cơ chế mà báo cáo hình dung là **hội tụ tiền lương** — một quá trình liên tục, chậm rãi, kéo dài nhiều thập kỷ. Thứ thực sự xảy ra từ 2018 là một **cú gián đoạn**: thuế quan làm các tập đoàn đa quốc gia phải dời công đoạn cuối ra khỏi Trung Quốc trong vài quý chứ không vài thập kỷ. Đây là một hiện tượng khác về bản chất, và báo cáo không có chỗ nào cho nó.
 

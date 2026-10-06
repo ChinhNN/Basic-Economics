@@ -19,6 +19,8 @@
 > - **Câu bị cắt cụt**: "IMF credit outstanding is associated with a reduction in the probability of sovereign." (thiếu "debt crisis").
 > - **Danh mục tài liệu tham khảo có lỗi**: "Hausmann, R., & Panizza, U. (2013)" được liệt kê thành một mục riêng ngay sau "Dell'Erba, S., Hausmann, R., & Panizza, U. (2013)" — cùng bài, cùng tạp chí, cùng năm, nhưng **số trang khác nhau** (518–547 so với 543–566); **Kambou (2025) bị chèn giữa Hausmann và Diamond, sai thứ tự ABC**; Bulow & Rogoff (1989) bị dính vào mục Broner và cộng sự; Çufadar & Özatay (2017) bị dính vào mục Calvo (1998).
 > - **Steinkamp và Westermann được dẫn với hai năm khác nhau cho cùng một phát hiện**: phần Mở đầu dẫn "(2014)" cho hiệu ứng hạ cấp thứ tự ưu tiên, Mục 4 dẫn "(2017)" cho cùng "nghịch lý thứ tự ưu tiên" trên chênh lệch lợi suất châu Âu.
+> - **Bài nói IMF được tách riêng thành nhóm chủ nợ thứ năm** (đa phương trừ IMF là một nhóm khác), nhưng mọi bảng RPID lại gộp thành một dòng "**IMF và Ngân hàng Thế giới**" và không có dòng riêng cho các chủ nợ đa phương khác. Không rõ dòng gộp này được tính thế nào từ hai nhóm.
+> - **RPID theo định nghĩa nằm trong khoảng [−1, +1]**, nhưng mọi con số bài báo cáo (−2,64; −4,38; −5,69; +4,16…) đều nằm ngoài khoảng đó; bài không nói đã đổi thang đo ra sao.
 > - **Xếp hạng tín nhiệm và khả năng tiếp cận thị trường được mô tả kỹ ở Mục 2 và Bảng A1 nhưng KHÔNG xuất hiện trong bất kỳ hồi quy nào** của bài.
 > Các số lấy từ hình là giá trị đọc trên hình.
 
@@ -85,7 +87,10 @@
        ý tưởng: so sánh
          ① xác suất nước TRẢ chủ nợ i KHI ĐANG vỡ nợ chủ nợ j
          ② xác suất nước TRẢ chủ nợ j KHI ĐANG vỡ nợ chủ nợ i
-       ★ RPID nằm trong khoảng [−1, +1]
+       ★ theo định nghĩa RPID nằm trong khoảng [−1, +1]
+       ⚠ nhưng các số bài báo cáo (−2,64; −4,38; −5,69; +4,16…) nằm
+         NGOÀI khoảng này → có lẽ theo một thang khác; điều chắc chắn
+         đọc được là DẤU và THỨ HẠNG
        ★★ RPID ÂM → chủ nợ được ƯU TIÊN (ít bị vỡ nợ hơn khi nước đó
           đang vỡ nợ với người khác)
        ★★ RPID DƯƠNG → chủ nợ bị HẠ CẤP
@@ -263,7 +268,8 @@
        ┌─────────────────────────┬──────────────────────────────────┐
        │ đặc tả                  │ hệ số tương tác IMF × ngưỡng     │
        ├─────────────────────────┼──────────────────────────────────┤
-       │ ⚠ (1) nợ DƯỚI 70% GNI   │ ⚠ −0,0763*** (ÂM — xem Lưu ý)    │
+       │ ⚠ (1) nợ DƯỚI 70% GNI   │ ⚠ −0,0763*** (ÂM: nợ thấp thì    │
+       │                         │   IMF ổn định hoá MẠNH HƠN)      │
        │ ★ (2) nợ TRÊN 70%       │ ★ +0,0914**                      │
        │ ★ (3) nợ TRÊN 90%       │ ★ +0,0919***                     │
        │ ★★ (4) nợ TRÊN 100%     │ ★★ +0,110***                     │
@@ -272,8 +278,10 @@
        │ hệ số IMF gốc           │ −0,0489*** / −0,135*** /         │
        │                         │ −0,125*** / −0,130*** /−0,0840***│
        └─────────────────────────┴──────────────────────────────────┘
-       ★★★ ĐỌC KẾT QUẢ: tác động RÒNG vẫn ÂM ở mọi ngưỡng (vì |hệ số
-          gốc| > |tương tác|), NHƯNG ĐỘ LỚN GIẢM DẦN
+       ★★★ ĐỌC KẾT QUẢ: tác động RÒNG vẫn ÂM ở hầu hết các ngưỡng (vì
+          |hệ số gốc| > |tương tác|), NHƯNG ĐỘ LỚN GIẢM DẦN
+       ⚠ riêng ngưỡng 120%: −0,0840 + 0,0884 = +0,0044 → gần 0, hơi
+         DƯƠNG
        ví dụ ở ngưỡng 100%: −0,130 + 0,110 = ★ chỉ còn −0,020
        ═══════════════════════════════════════════════════════════
        ★★ DIỄN GIẢI KINH TẾ — CÂU THEN CHỐT VỀ CHÍNH SÁCH

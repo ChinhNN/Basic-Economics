@@ -68,7 +68,7 @@ Mô hình Hàn Quốc: leo lên chuỗi giá trị
 
 **Đa dạng hoá thị trường.** Mở rộng xuất khẩu sang nhiều nước để không phụ thuộc quá nhiều vào một khách hàng. Ví dụ trong bài: Campuchia phụ thuộc 70% vào xuất khẩu dệt may sang EU, Mỹ, nên một cú sốc ở hai thị trường này ảnh hưởng ngay tới cả ngành. Đây là một trong ba bài học bài đề xuất.
 
-**CBAM (Carbon Border Adjustment Mechanism).** Cơ chế điều chỉnh carbon biên giới của EU, thu phí trên hàng nhập khẩu theo lượng khí thải phát ra khi sản xuất. Ví dụ minh hoạ: một tấn thép làm bằng công nghệ phát thải cao sẽ phải trả nhiều hơn một tấn thép phát thải thấp khi vào EU. Bài dùng CBAM làm ví dụ cho việc nước lớn định luật chơi, dù gắn nhầm với nông sản.
+**CBAM (Carbon Border Adjustment Mechanism).** Cơ chế điều chỉnh carbon biên giới của EU, đánh phí trên hàng nhập khẩu (thép, nhôm, xi măng, phân bón, điện, hydro) theo lượng khí thải phát ra khi sản xuất. Ví dụ minh hoạ: một tấn thép làm bằng công nghệ phát thải cao sẽ phải trả nhiều hơn một tấn thép phát thải thấp khi vào EU. Giai đoạn 2023–2025 chỉ là giai đoạn báo cáo, chưa thu phí. Bài dùng CBAM làm ví dụ cho việc nước lớn định luật chơi, dù gắn nhầm với nông sản.
 
 ## Nội dung chi tiết
 
@@ -158,7 +158,7 @@ Vì vậy, nước nhỏ cần nâng năng lực, đàm phán khéo léo và đa
 | Hiệp định thương mại tự do (FTA) | Thỏa thuận giữa các nước cắt giảm thuế và rào cản cho nhau |
 | CPTPP | Hiệp định Đối tác Toàn diện và Tiến bộ xuyên Thái Bình Dương |
 | EVFTA | Hiệp định Thương mại Tự do Việt Nam – EU |
-| CBAM (Carbon Border Adjustment Mechanism) | Cơ chế điều chỉnh carbon biên giới của EU, thu phí theo lượng phát thải của hàng nhập |
+| CBAM (Carbon Border Adjustment Mechanism) | Cơ chế điều chỉnh carbon biên giới của EU, đánh phí theo lượng phát thải của hàng nhập (2023–2025 mới chỉ báo cáo, chưa thu phí) |
 | Global G.A.P | Bộ tiêu chuẩn thực hành nông nghiệp tốt được EU chấp nhận |
 | Chi phí tuân thủ (compliance cost) | Chi phí đáp ứng tiêu chuẩn kỹ thuật, kiểm dịch của thị trường nhập |
 | Giá trị gia tăng (value added) | Phần giá trị mà một nước thực sự tạo ra trong sản phẩm xuất khẩu |

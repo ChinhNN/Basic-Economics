@@ -65,7 +65,7 @@
          siết cung tiền theo quy tắc Friedman → LẠM PHÁT GIẢM MẠNH,
          cái giá: SUY THOÁI LỚN
        → 1979 THATCHER ở Anh: dùng trọng tiền chống lạm phát →
-         HALVING, xuống dưới 5% năm 1983
+         lạm phát GIẢM MỘT NỬA, xuống dưới 5% năm 1983
                                 │
                                 ▼
        NHƯNG NGẮN NGỦI: cung tiền chỉ hữu ích làm mục tiêu nếu quan

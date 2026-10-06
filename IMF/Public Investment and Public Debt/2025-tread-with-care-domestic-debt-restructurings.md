@@ -227,7 +227,7 @@
          hình vững chắc cho thấy có động lực chung thực sự
 ```
 
-### Độ vững: năm phép thử
+### Độ vững: sáu phép thử
 
 ```text
        ① CHỈ GIỮ NƯỚC TỪNG CÓ ÍT NHẤT MỘT LOẠI TÁI CƠ CẤU
@@ -255,7 +255,7 @@
             thấp dai dẳng (GDP tới ~−9 điểm ở năm 10)
 ```
 
-### Kết quả theo bối cảnh (Bảng 1)
+### Kết quả theo bối cảnh
 
 ```text
        ★★ THU NHẬP THẤP so với MỚI NỔI — ĐẢO CHIỀU HOÀN TOÀN

@@ -5,6 +5,7 @@
 **Ý chính:** Phương pháp tự sự (narrative) của Romer và Romer rất tốn công người, nên chỉ có dữ liệu cho vài nước và ở tần suất năm. Nhóm tác giả dùng GPT-4.1 với MỘT PROMPT CỐ ĐỊNH đọc báo cáo quốc gia của Economist Intelligence Unit để phân loại hành động chi tiêu là ngoại sinh hay nội sinh, tạo ra bộ dữ liệu QUÝ đầu tiên cho 64 nước từ 1952Q1. AI khớp với mã hoá của chuyên gia trên 93%. Số nhân chi tiêu ở nước trung vị là 0,74 sau một năm và 0,67 sau hai năm.
 
 > **Lưu ý:** bản PDF bắt đầu từ trang 3 (phần Giới thiệu). Trang bìa, tóm tắt và danh sách tác giả không có trong bản này. Tên bài và số hiệu working paper lấy từ trang bìa sau.
+> - Ở bảng số nhân theo đặc điểm cơ cấu, hai nhóm nợ công cộng lại **56 + 26 = 82** nước, vượt mẫu **64** nước (các cách chia khác đều không vượt: 60, 59, 56, 49). Có thể một nước được xếp vào cả hai nhóm khi mức nợ thay đổi qua thời gian, nhưng bài không nói rõ; không đủ dữ liệu để biết số nào sai.
 
 ## Sơ đồ
 

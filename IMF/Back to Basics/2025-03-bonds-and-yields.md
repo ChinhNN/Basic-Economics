@@ -1,7 +1,7 @@
 # Bonds and Yields — Trái phiếu và lợi suất
 
 **Nguồn:** IMF *Finance & Development*, Back to Basics, tháng 3/2025, tr. 8–9.
-**Tác giả:** S. Ali Abbas, Phó Vụ trưởng Vụ Tài khoá của IMF; Eriko Togo, Phó Trưởng phòng tại Vụ Tiền tệ và Thị trường vốn.
+**Tác giả:** S. M. Ali Abbas, Phó Vụ trưởng Vụ Tài khoá của IMF; Eriko Togo, Phó Trưởng phòng tại Vụ Tiền tệ và Thị trường vốn.
 **Ý chính:** Lợi suất trái phiếu chính phủ ở các kỳ hạn khác nhau tạo thành đường cong lợi suất, cho biết thị trường kỳ vọng nền kinh tế mạnh lên hay yếu đi, và với nước đang phát triển còn phản ánh rủi ro vỡ nợ.
 
 ## Sơ đồ
@@ -52,7 +52,7 @@
   → lạm phát tương lai cao,        → kỳ vọng giảm tốc, lạm phát
   đầu tư thay thế hấp dẫn          thấp, lợi suất thấp
   → đòi lợi suất dài hạn cao       → dài hạn thấp hơn ngắn hạn
-  (Mỹ 16/12/2024, đường đỏ)        (Mỹ 30/12/2022, đường xanh)
+  (Mỹ ngày 16/12/2024)             (Mỹ ngày 30/12/2022)
                                    → dự báo suy thoái: đúng với
                                    mọi lần suy thoái Mỹ 50 năm qua
                                    (cho đến gần đây)
@@ -70,13 +70,13 @@
                                 │
                                 ▼
         PHẦN BÙ RỦI RO QUỐC GIA → lợi suất cao hơn MỌI kỳ hạn
-     chênh lệch (spread) = chỉ báo rủi ro tín dụng (BBB−, đường xám)
+     chênh lệch (spread) = chỉ báo rủi ro tín dụng (ví dụ nước hạng BBB−)
                                 │
                                 ▼
      RỦI RO TỚI NGƯỠNG TÁI CƠ CẤU SẮP XẢY RA → lợi suất ngắn hạn
         VỌT → đường cong đảo ngược sắc nét (Ukraine 3/2014:
      nợ đến hạn 2015 bị kéo dài nhiều hơn nợ 2018 → đòi lợi suất
-                          cao hơn, đường vàng)
+                          cao hơn)
                                 │
                                 ▼
      PHÁT TRIỂN THỊ TRƯỜNG TRÁI PHIẾU NỘI TỆ → giảm rủi ro tỷ giá

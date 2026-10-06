@@ -391,7 +391,7 @@ Một vài điểm đáng chú ý. Một số nước cởi mở với trung gia
 | Wholesale CBDC (wCBDC) | CBDC bán buôn, dành cho tổ chức tài chính để quyết toán giao dịch giá trị lớn |
 | E-money | Tiền điện tử, thường do tổ chức tài chính phi ngân hàng phát hành, không token hoá |
 | Virtual assets (VAs) | Tài sản ảo, tài sản số do tư nhân phát hành |
-| FATF | Lực lượng Đặc nhiệm Tài chính, cơ quan liên chính phủ đặt chuẩn AML/CFT từ 1989 |
+| FATF | Lực lượng Đặc nhiệm Hành động Tài chính, cơ quan liên chính phủ đặt chuẩn AML/CFT từ 1989 |
 | AML/CFT | Chống rửa tiền và chống tài trợ khủng bố |
 | ML/TF/PF | Rửa tiền, tài trợ khủng bố, tài trợ phổ biến vũ khí huỷ diệt hàng loạt |
 | Token-based CBDC | CBDC dựa trên token, sở hữu chứng minh bằng việc nắm giữ, như công cụ vô danh |

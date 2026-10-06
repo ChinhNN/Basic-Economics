@@ -507,7 +507,7 @@ Nói cách khác: **mỗi năm tăng trưởng thành công lại thu hẹp cử
 
 Điều làm luận điểm thuyết phục là nó đến từ một người đã thực sự ký quyết định cắt trợ giá và chịu hậu quả chính trị của nó, chứ không từ một mô hình.
 
-### Câu có giá trị nhất trong cả chín tài liệu
+### Câu có giá trị nhất trong cả chín tài liệu đầu tiên của thư mục
 
 *"Các đợt cắt trợ giá nhiên liệu năm 2013 của Indonesia là đúng đắn: người nghèo đã được đền bù, lý lẽ đã được trình bày công khai — vậy mà người ta vẫn phản đối. Đúng không đồng nghĩa với được chấp nhận."*
 
@@ -539,9 +539,9 @@ Bài đề xuất hướng đi là các ngành hấp thụ lao động tay ngh�
 
 Câu này xứng đáng có riêng một phần chứ không phải một mệnh đề phụ, vì nếu đúng thì nó vô hiệu hóa chính con đường mà bài vừa đề xuất. Toàn bộ lập luận của bài dựa trên việc chế tạo là ngành duy nhất có thể nâng sàn lương cho tất cả. Nếu chế tạo cũng ngừng hấp thụ lao động, thì không còn lối ra nào trong khung phân tích của bài — và bài không có gì để nói tiếp.
 
-Đây có lẽ là câu hỏi mở quan trọng nhất trong cả chín tài liệu của thư mục, và nó xuất hiện dưới dạng một câu phụ.
+Đây có lẽ là câu hỏi mở quan trọng nhất trong cả chín tài liệu đầu tiên của thư mục, và nó xuất hiện dưới dạng một câu phụ.
 
-### Vì sao đây là tài liệu đáng đọc nhất trong chín tài liệu đối với người Việt Nam
+### Vì sao đây là tài liệu đáng đọc nhất trong chín tài liệu đầu tiên của thư mục đối với người Việt Nam
 
 Việt Nam chỉ được nêu tên một lần, trong danh sách các nước có tầng lớp trung lưu đang co lại. Nhưng toàn bộ khung phân tích áp dụng trực tiếp, và ở mức cấp bách hơn nhiều so với nội dung của tám tài liệu còn lại.
 

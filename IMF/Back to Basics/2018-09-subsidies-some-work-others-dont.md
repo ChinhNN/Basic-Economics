@@ -208,7 +208,7 @@ Dùng thước đo mở rộng này, trợ cấp năng lượng toàn cầu năm
 | Energy subsidies | Trợ cấp năng lượng: 20% hộ giàu nhất hưởng gấp bảy lần 20% nghèo nhất |
 | Price distortion | Bóp méo giá: gây phân bổ sai lao động và vốn khan hiếm |
 | Producer subsidies | Trợ cấp người sản xuất: đẩy giá nông dân nhận cao hơn giá nhập khẩu |
-| Fossil fuel subsidies | Trợ cấp nhiên liệu hoá thạch: 5,3 nghìn tỷ USD năm 2015, 6,5% GDP toàn cầu |
+| Fossil fuel subsidies | Trợ cấp nhiên liệu hoá thạch: trợ cấp làm giá xăng dầu, than, khí thấp hơn chi phí thật; con số 5,3 nghìn tỷ USD (6,5% GDP toàn cầu, 2015) mà bài nêu là trợ cấp năng lượng theo nghĩa rộng, tính cả chi phí môi trường, không chỉ khoản trợ giá trực tiếp |
 | Environmental costs | Chi phí môi trường: phải được phản ánh trong giá năng lượng |
 | Paris Climate Change Agreement | Hiệp định Paris 2015 về giảm phát thải carbon |
 | Crowding out | Chèn lấn: trợ cấp lấn át chi tiêu công hiệu quả và công bằng hơn |

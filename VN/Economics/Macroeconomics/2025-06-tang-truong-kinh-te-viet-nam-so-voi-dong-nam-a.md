@@ -1,4 +1,4 @@
-# Tăng trưởng kinh tế: Việt Nam so với các nước Đông Nam Á và Thế giới.
+# Tăng trưởng kinh tế: Việt Nam so với các nước Đông Nam Á và Thế giới
 
 **Nguồn:** AI WikiMoney (wikimoney.ai.vn), chuyên mục Kinh tế › Kinh tế vĩ mô, đăng ngày 11/6/2025. https://wikimoney.ai.vn/tang-truong-kinh-te-viet-nam-so-voi-cac-nuoc-dong-nam-a-va-the-gioi-3702.html
 **Tác giả:** WikiMoney Team.

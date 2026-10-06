@@ -153,7 +153,7 @@ Bài khép lại bằng bốn cách đối xử tương ứng với bốn nhóm 
 | Nợ cần giảm | Trả góp mua tiêu sản, nợ thẻ tín dụng quá hạn, vay lãi cao cho chi phí khẩn cấp |
 | Nợ đáng có | Vay dài hạn mua nhà, du học, đi lao động nước ngoài, giúp tăng tài sản hoặc thu nhập tương lai |
 | Nợ nên có | Vay để tạo đòn bẩy cho đầu tư, kinh doanh |
-| Tiêu sản (liability-type purchase) | Món đồ mua về mất giá, không tạo thu nhập (điện thoại, tivi) |
+| Tiêu sản | Món đồ mua về mất giá, không tạo thu nhập (điện thoại, tivi) |
 | Đòn bẩy tài chính (financial leverage) | Dùng vốn vay để tăng quy mô đầu tư, khuếch đại tỷ suất lợi nhuận trên vốn tự có |
 | Tỷ suất lợi nhuận trên vốn (return on equity) | Lãi ròng chia cho vốn tự có; trong ví dụ tăng từ 18% lên 24% nhờ vay |
 | Tỷ lệ chi trả nợ (debt service ratio) | Tiền trả nợ hằng tháng so với thu nhập, nên 20–40% |

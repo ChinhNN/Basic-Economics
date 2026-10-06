@@ -180,8 +180,9 @@
        · nước có lợi nhuận ròng 8–10%: một NỬA trả lãi vay là hợp lý ·
          người vay chịu rủi ro, như BẢO HIỂM vốn cho người cho vay · 4–5%
          đủ bù rủi ro và công sức quản lý vốn
-       · nước lợi nhuận THẤP hơn nhiều: một nửa không đủ trả lãi · CAO
-         hơn nhiều: một nửa là thừa
+       · nước lợi nhuận THẤP hơn nhiều: người vay KHÔNG THỂ dành tới
+         một nửa lợi nhuận trả lãi · CAO hơn nhiều: có thể dành HƠN
+         một nửa
 ```
 
 ### Phần 5: Lãi đơn và lãi kép

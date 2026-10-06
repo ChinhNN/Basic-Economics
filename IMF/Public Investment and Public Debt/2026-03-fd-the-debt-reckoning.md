@@ -702,7 +702,7 @@ Từ đó ra hai hệ quả.
 
 Ngoài ra, ba nội dung khác trong số áp dụng được ngay:
 
-**Bài về nợ châu Phi là tấm gương gần nhất về cấu hình rủi ro.** Vietnam có hồ sơ kỳ hạn tốt hơn nhiều so với con số 2 năm của châu Phi, nhưng ba cơ chế còn lại — chi phí vay nội địa so với vay ngoài, lấn át tín dụng tư nhân, và vòng lặp ngân hàng–chủ quyền — đều áp dụng được, và tỷ trọng nợ chính phủ trên tài sản ngân hàng là chỉ số nên theo dõi định kỳ.
+**Bài về nợ châu Phi là tấm gương gần nhất về cấu hình rủi ro.** Việt Nam có hồ sơ kỳ hạn tốt hơn nhiều so với con số 2 năm của châu Phi, nhưng ba cơ chế còn lại — chi phí vay nội địa so với vay ngoài, lấn át tín dụng tư nhân, và vòng lặp ngân hàng–chủ quyền — đều áp dụng được, và tỷ trọng nợ chính phủ trên tài sản ngân hàng là chỉ số nên theo dõi định kỳ.
 
 **Bài về thuế tiêu thụ đặc biệt cho ba nguyên tắc rất cụ thể**: đánh thuế mọi sản phẩm có hại chứ không chọn lọc, đánh theo mức hại thay vì theo giá trị, và hợp tác xuyên biên giới. Bằng chứng đi kèm rất mạnh — New Zealand tăng thuế thuốc lá đốt ít nhất 10% mỗi năm và đưa tỷ lệ hút thuốc từ 18% xuống 8% trong 12 năm; Nam Phi đánh thuế bia truyền thống trên mỗi đơn vị cồn chỉ bằng khoảng một phần năm mươi bia khác. Hai bài học này — lộ trình tăng đều và đủ mạnh, và tránh lệch lạc giữa các sản phẩm cùng loại — đều nằm ở tâm tranh luận về cải cách thuế tiêu thụ đặc biệt ở Việt Nam. Con số về buôn lậu xuyên biên giới cũng đáng chú ý với một nước có đường biên giới bộ dài: thuốc lá Paraguay chiếm khoảng 20% thị trường Brazil.
 

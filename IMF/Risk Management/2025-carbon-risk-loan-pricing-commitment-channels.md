@@ -7,7 +7,7 @@
 > **Lưu ý:** bản PDF đầy đủ. Một số điểm không khớp trong bài:
 > - **Mục 4 dẫn sai tên biến**: lời văn viết "hệ số trên tương tác ba chiều, **MPS × Target × SBTi**, là âm và có ý nghĩa", nhưng dòng tương ứng trong Bảng 8 là **MPS × SBTi member × Carbon**. Không có số hạng nào chứa cả Target lẫn SBTi.
 > - Mục 4 viết "MPS_t đại diện cho **either** cú sốc chính sách tiền tệ từ Jarociński và Karadi (2020)" — chữ "either" (hoặc là) nhưng chỉ nêu **một** lựa chọn, dấu vết của bản nháp từng có hai thước đo.
-> - Kết luận về cột 5 Bảng 8 dựa trên **một đặc tả KHÔNG được báo cáo**: lời văn nói không quan sát được hệ số MPS × SBTi vì bị hiệu ứng cố định lender-time hấp thụ, rồi chú thích 16 cho biết kết luận đến từ "một ước lượng với hiệu ứng cố定 lender và time **tách riêng**" — bảng không có cột đó.
+> - Kết luận về cột 5 Bảng 8 dựa trên **một đặc tả KHÔNG được báo cáo**: lời văn nói không quan sát được hệ số MPS × SBTi vì bị hiệu ứng cố định lender-time hấp thụ, rồi chú thích 16 cho biết kết luận đến từ "một ước lượng với hiệu ứng cố định lender và time **tách riêng**" — bảng không có cột đó.
 > - **Bảng A.1 (định nghĩa biến) THIẾU hai biến then chốt**: `Disclosed` (công bố phát thải) và `Post SBTi lead` đều được dùng trong Bảng 4–7 nhưng không có trong bảng định nghĩa. Bảng A.1 cũng gọi hai biến là `Size` và `Profitability` trong khi các bảng hồi quy ghi `Total assets` và `Return on assets`.
 > - Mục 3.1 viết cột 4 "bao gồm hiệu ứng cố định lender và time riêng, **separability** absorbing unobserved heterogeneity" — lỗi chữ (phải là *separately*).
 > - Mục 3.3 nói mẫu doanh nghiệp "tương đương mẫu ở **Bảng 3, cột 1**", nhưng Bảng 3 cột 1 có 33.689 quan sát ở cấp *người thu xếp–khoản vay*, còn các hồi quy tác động thực có 19.574 / 22.709 / 45.483 quan sát ở cấp *doanh nghiệp–quý*. Đối chiếu này lỏng lẻo.
@@ -49,7 +49,7 @@
        bình quân 3,7 người thu xếp mỗi phần vay
 ```
 
-### Dữ liệu: ghép sáu nguồn
+### Dữ liệu: ghép bảy nguồn
 
 ```text
        ① DEALSCAN (Refinitiv LoanConnector) — khoản vay hợp vốn Mỹ

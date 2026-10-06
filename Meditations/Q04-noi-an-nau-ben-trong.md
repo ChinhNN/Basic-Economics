@@ -554,7 +554,7 @@ Luôn đi đường ngắn nhất, và đường ngắn nhất là đường t�
 
 - **Mệnh đề:** Không cần đổi hoàn cảnh để có bình an; chỉ cần sắp xếp lại tâm trí (4.3).
 - **Tiền đề Khắc kỷ:** phân biệt cái thuộc quyền ta (nhận định, chấp thuận, hành động) và cái không thuộc quyền ta (người khác, thân thể, danh tiếng); phần chỉ huy (hegemonikon) tự chủ trước ngoại cảnh.
-- **Lập luận và hình ảnh:** chỗ trốn thôn quê, bờ biển, núi là ảo tưởng; con đường lui về khoảnh đất nhỏ của mình; mỗi loại phiền muộn có sẵn một lập luận ngắn (bảng trong Sơ đồ, khối Mục 4.3).
+- **Lập luận và hình ảnh:** chỗ trốn thôn quê, bờ biển, núi là ảo tưởng; con đường lui về khoảnh đất nhỏ của mình; mỗi loại phiền muộn có sẵn một lập luận ngắn: với cái xấu của người khác thì nhớ ta sinh ra vì nhau và không ai cố ý làm sai; với phần số thì hoặc thiên ý hoặc nguyên tử, nhánh nào cũng không đáng than; với thân thể thì trí đã tự tách ra, không dính vào êm hay gắt; với danh tiếng thì mọi người sớm bị quên và trái đất chỉ là một điểm (4.3).
 - **Hệ quả thực hành:** chuẩn bị trước một bộ nguyên tắc ngắn gọn, rút về thường xuyên nhưng chóng vánh, rồi trở lại việc.
 
 ### 2. Không có tổn hại nào ngoài tổn hại phẩm cách
