@@ -263,6 +263,26 @@ Henry Hazlitt, *Kinh tế học trong một bài học* (*Economics in One Lesso
 - [Chương 24 — Nhắc lại bài học](Books/Economics%20in%20One%20Lesson/C24-nhac-lai-bai-hoc.md)
 - [Chương 25 — Ghi chú về sách](Books/Economics%20in%20One%20Lesson/C25-ghi-chu-ve-sach.md)
 
+## Naked Economics
+
+Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản sửa đổi 2010 (W. W. Norton), bản tiếng Anh. Mỗi chương một file, giữ lại điều tác giả muốn người đọc hiểu cùng ví dụ và số liệu, kèm đánh giá và vận dụng vào tư duy kinh doanh. Xem [tổng quan và chuỗi lập luận](Books/Naked%20Economics/README.md).
+
+- [Lời tựa và Lời giới thiệu](Books/Naked%20Economics/00-loi-tua-va-gioi-thieu.md)
+- [Chương 1 — Sức mạnh của thị trường](Books/Naked%20Economics/C01-suc-manh-cua-thi-truong.md)
+- [Chương 2 — Động cơ khuyến khích là quan trọng](Books/Naked%20Economics/C02-dong-co-khuyen-khich.md)
+- [Chương 3 — Chính phủ và nền kinh tế](Books/Naked%20Economics/C03-chinh-phu-va-nen-kinh-te.md)
+- [Chương 4 — Chính phủ và nền kinh tế II](Books/Naked%20Economics/C04-chinh-phu-va-nen-kinh-te-2.md)
+- [Chương 5 — Kinh tế học thông tin](Books/Naked%20Economics/C05-kinh-te-hoc-thong-tin.md)
+- [Chương 6 — Năng suất và vốn con người](Books/Naked%20Economics/C06-nang-suat-va-von-con-nguoi.md)
+- [Chương 7 — Thị trường tài chính](Books/Naked%20Economics/C07-thi-truong-tai-chinh.md)
+- [Chương 8 — Sức mạnh của các nhóm lợi ích có tổ chức](Books/Naked%20Economics/C08-suc-manh-nhom-loi-ich-co-to-chuc.md)
+- [Chương 9 — Đo lường nền kinh tế](Books/Naked%20Economics/C09-do-luong-nen-kinh-te.md)
+- [Chương 10 — Cục Dự trữ Liên bang](Books/Naked%20Economics/C10-cuc-du-tru-lien-bang.md)
+- [Chương 11 — Kinh tế học quốc tế](Books/Naked%20Economics/C11-kinh-te-quoc-te.md)
+- [Chương 12 — Thương mại và toàn cầu hoá](Books/Naked%20Economics/C12-thuong-mai-va-toan-cau-hoa.md)
+- [Chương 13 — Kinh tế học phát triển](Books/Naked%20Economics/C13-kinh-te-hoc-phat-trien.md)
+- [Phần kết — Cuộc sống năm 2050](Books/Naked%20Economics/PK-cuoc-song-nam-2050.md)
+
 ## VN
 
 Tổng hợp bài viết của AI WikiMoney (wikimoney.ai.vn) về kinh tế, tài chính cá nhân và đầu tư ở Việt Nam, xếp theo chuyên mục của trang và theo ngày đăng.
