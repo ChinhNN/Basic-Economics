@@ -283,6 +283,39 @@ Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản s�
 - [Chương 13 — Kinh tế học phát triển](Books/Naked%20Economics/C13-kinh-te-hoc-phat-trien.md)
 - [Phần kết — Cuộc sống năm 2050](Books/Naked%20Economics/PK-cuoc-song-nam-2050.md)
 
+## Basic Economics
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), bản tiếng Anh. Mỗi chương một file, giữ lại điều tác giả muốn người đọc hiểu cùng ví dụ và số liệu, kèm đánh giá và vận dụng vào tư duy kinh doanh. Xem [tổng quan và chuỗi lập luận](Books/Basic%20Economics/README.md).
+
+- [Lời nói đầu và Lời cảm ơn](Books/Basic%20Economics/00-loi-noi-dau.md)
+- [Chương 1 — Kinh tế học là gì?](Books/Basic%20Economics/C01-kinh-te-hoc-la-gi.md)
+- [Chương 2 — Vai trò của giá cả](Books/Basic%20Economics/C02-vai-tro-cua-gia-ca.md)
+- [Chương 3 — Kiểm soát giá](Books/Basic%20Economics/C03-kiem-soat-gia.md)
+- [Chương 4 — Tổng quan về giá cả](Books/Basic%20Economics/C04-tong-quan-ve-gia-ca.md)
+- [Chương 5 — Sự thăng trầm của doanh nghiệp](Books/Basic%20Economics/C05-su-thang-tram-cua-doanh-nghiep.md)
+- [Chương 6 — Vai trò của lợi nhuận và thua lỗ](Books/Basic%20Economics/C06-vai-tro-cua-loi-nhuan-va-thua-lo.md)
+- [Chương 7 — Kinh tế học của doanh nghiệp lớn](Books/Basic%20Economics/C07-kinh-te-hoc-cua-doanh-nghiep-lon.md)
+- [Chương 8 — Điều tiết và luật chống độc quyền](Books/Basic%20Economics/C08-dieu-tiet-va-luat-chong-doc-quyen.md)
+- [Chương 9 — Kinh tế thị trường và kinh tế phi thị trường](Books/Basic%20Economics/C09-kinh-te-thi-truong-va-phi-thi-truong.md)
+- [Chương 10 — Năng suất và tiền lương](Books/Basic%20Economics/C10-nang-suat-va-tien-luong.md)
+- [Chương 11 — Luật lương tối thiểu](Books/Basic%20Economics/C11-luat-luong-toi-thieu.md)
+- [Chương 12 — Các vấn đề đặc biệt của thị trường lao động](Books/Basic%20Economics/C12-cac-van-de-dac-biet-cua-thi-truong-lao-dong.md)
+- [Chương 13 — Đầu tư](Books/Basic%20Economics/C13-dau-tu.md)
+- [Chương 14 — Cổ phiếu, trái phiếu và bảo hiểm](Books/Basic%20Economics/C14-co-phieu-trai-phieu-va-bao-hiem.md)
+- [Chương 15 — Các vấn đề đặc biệt về thời gian và rủi ro](Books/Basic%20Economics/C15-cac-van-de-dac-biet-ve-thoi-gian-va-rui-ro.md)
+- [Chương 16 — Sản lượng quốc gia](Books/Basic%20Economics/C16-san-luong-quoc-gia.md)
+- [Chương 17 — Tiền tệ và hệ thống ngân hàng](Books/Basic%20Economics/C17-tien-te-va-he-thong-ngan-hang.md)
+- [Chương 18 — Các chức năng của chính phủ](Books/Basic%20Economics/C18-chuc-nang-cua-chinh-phu.md)
+- [Chương 19 — Tài chính chính phủ](Books/Basic%20Economics/C19-tai-chinh-chinh-phu.md)
+- [Chương 20 — Các vấn đề đặc biệt của nền kinh tế quốc gia](Books/Basic%20Economics/C20-cac-van-de-dac-biet-cua-nen-kinh-te-quoc-gia.md)
+- [Chương 21 — Thương mại quốc tế](Books/Basic%20Economics/C21-thuong-mai-quoc-te.md)
+- [Chương 22 — Dịch chuyển của cải giữa các quốc gia](Books/Basic%20Economics/C22-dich-chuyen-cua-cai-quoc-te.md)
+- [Chương 23 — Chênh lệch giàu nghèo giữa các quốc gia](Books/Basic%20Economics/C23-chenh-lech-giau-ngheo-giua-cac-quoc-gia.md)
+- [Chương 24 — Những huyền thoại về thị trường](Books/Basic%20Economics/C24-nhung-huyen-thoai-ve-thi-truong.md)
+- [Chương 25 — Các giá trị "phi kinh tế"](Books/Basic%20Economics/C25-gia-tri-phi-kinh-te.md)
+- [Chương 26 — Lịch sử kinh tế học](Books/Basic%20Economics/C26-lich-su-kinh-te-hoc.md)
+- [Chương 27 — Lời kết](Books/Basic%20Economics/C27-loi-ket.md)
+
 ## VN
 
 Tổng hợp bài viết của AI WikiMoney (wikimoney.ai.vn) về kinh tế, tài chính cá nhân và đầu tư ở Việt Nam, xếp theo chuyên mục của trang và theo ngày đăng.
