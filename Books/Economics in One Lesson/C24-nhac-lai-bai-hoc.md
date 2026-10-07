@@ -5,7 +5,7 @@
 **Vị trí trong lập luận của cả cuốn sách:** Đây là chương duy nhất của Phần Ba và là chương kết của cuốn sách (Chương 25 chỉ là danh mục sách đọc thêm). Phần Một (Chương 1) phát biểu "bài học" (the lesson) dưới dạng bộ khung: nghệ thuật kinh tế học là nhìn tác động dài hạn chứ không chỉ ngắn hạn của một chính sách, và lần theo hậu quả lên mọi nhóm chứ không chỉ một nhóm. Phần Hai (Chương 2–23) "đắp thịt và da" lên bộ khung đó qua hơn hai mươi ứng dụng: cửa sổ vỡ, công trình công cộng, tín dụng, máy móc, thuế quan, giá ngang giá (parity), ấn định giá, lương tối thiểu, công đoàn, lạm phát, tiết kiệm... Chương 24 không thêm ứng dụng mới mà rút ra ba bài học phụ đã lộ ra trong quá trình đó, rồi giải thích **vì sao** ngụy biện mà cuốn sách chống lại cứ lặp đi lặp lại: nó sinh ra một cách có hệ thống từ chính sự phân công lao động.
 **Ý chính:** Hazlitt muốn chứng minh bốn điều. (1) Kinh tế học, giống logic và toán học, là khoa học nhận ra những **hệ quả tất yếu** (inevitable implications): mỗi đề xuất chính sách có "mặt trái của đồng xu", như tăng "tín dụng" chính là tăng nợ, tăng giá nông sản chính là làm lương thực đắt hơn cho công nhân thành phố, tăng trợ cấp chính là tăng thuế, tăng xuất khẩu rốt cuộc là tăng nhập khẩu, tăng lương chính là tăng chi phí sản xuất. (2) Khi xét mọi nhóm trong dài hạn, kết luận của kinh tế học thường trùng với **lẽ thường** (common sense); chỉ "một chút kinh tế học" mới dẫn tới kết luận ngược đời như phá hoại có lợi hay tiết kiệm có hại. (3) Nạn nhân của các chính sách là **"người bị lãng quên"** (the Forgotten Man) của William Graham Sumner: người C phải trả tiền cho những gì A và B quyết định làm cho X. (4) Ngụy biện xuất hiện có hệ thống vì trong phân công lao động, mỗi người muốn mọi thứ dồi dào **trừ** thứ mình bán. Ví dụ trung tâm là người trồng lúa mì: mỗi người muốn vụ của mình lớn nhưng vụ của người khác nhỏ; nếu cả ngành được nhà nước ép cùng giảm diện tích, giá tăng nhiều hơn sản lượng giảm thì nhóm này lợi, nhưng cả nước nghèo đi đúng bằng lượng lúa mì không được trồng. Học thuyết **"giàu lên nhờ khan hiếm"** (wealth through scarcity) có thể đúng cho riêng một nhóm, nhưng luôn sai cho toàn xã hội. Câu kết: "Nhìn vấn đề như một tổng thể, chứ không phải từng mảnh: đó là mục tiêu của khoa học kinh tế."
 
-> **Lưu ý:** (1) Bối cảnh: sách in năm 1946, sau 13 năm New Deal. Đạo luật Điều chỉnh Nông nghiệp (Agricultural Adjustment Act) năm 1933 trả tiền cho nông dân Mỹ để giảm diện tích gieo trồng và giết bớt gia súc nhằm nâng giá; Brazil đốt hàng loạt cà phê trong thập niên 1930 để giữ giá; các hiệp định lúa mì quốc tế được ký hoặc đang đàm phán (1933, rồi 1949). "Đốt cà phê", "giảm diện tích lúa mì theo tỷ lệ", "một tổ chức thế giới" trong chương là những việc có thật đang diễn ra lúc Hazlitt viết. "Năng lượng nguyên tử" được nhắc ngay sau Hiroshima năm 1945. (2) Cụm "Người bị lãng quên" (the Forgotten Man) do Sumner, giáo sư Yale, dùng trong một bài giảng năm 1883. Năm 1932, Franklin D. Roosevelt dùng lại cụm này trong một bài phát biểu trên radio để chỉ "người bị lãng quên ở đáy kim tự tháp kinh tế", tức là người được giúp (X), không phải người phải trả tiền (C). Hazlitt gọi đó là "sự trớ trêu của lịch sử". (3) Câu "Điều khôn ngoan trong cách cư xử của mọi gia đình riêng lẻ khó có thể là điều dại dột trong cách cư xử của một vương quốc lớn" là của Adam Smith (*Của cải của các dân tộc*, Quyển IV, Chương II), viết để bác chủ nghĩa trọng thương. Câu về triết học và vô thần là của Francis Bacon (tiểu luận "Về chủ nghĩa vô thần", 1625). Câu "người quan sát bầu trời khi một hành tinh mới lướt vào tầm mắt" là của nhà thơ John Keats. Câu về logic "lan tỏa chân lý" là của triết gia George Santayana. (4) Cách Hazlitt coi kinh tế học như logic và toán học, tức là rút kết luận bằng suy diễn từ tiền đề, phản ánh ảnh hưởng của Ludwig von Mises và trường phái Áo; kinh tế học chính thống sau Thế chiến II ngày càng dựa vào kiểm định thực nghiệm, nên phần này cần đọc có phản biện (xem phần Đánh giá). Mọi câu trích là bản dịch của người tổng hợp.
+> **Lưu ý:** (1) Bối cảnh: sách in năm 1946, sau 13 năm New Deal. Đạo luật Điều chỉnh Nông nghiệp (Agricultural Adjustment Act) năm 1933 trả tiền cho nông dân Mỹ để giảm diện tích gieo trồng và giết bớt gia súc nhằm nâng giá; Brazil đốt hàng loạt cà phê trong thập niên 1930 để giữ giá; các hiệp định lúa mì quốc tế được ký hoặc đang đàm phán (1933, rồi 1949). "Đốt cà phê", "giảm diện tích lúa mì theo tỷ lệ", "một tổ chức thế giới" trong chương là những việc có thật đang diễn ra lúc Hazlitt viết. "Năng lượng nguyên tử" được nhắc ngay sau Hiroshima năm 1945. (2) Cụm "Người bị lãng quên" (the Forgotten Man) do Sumner, giáo sư Yale, dùng trong một bài giảng năm 1883. Năm 1932, Franklin D. Roosevelt dùng lại cụm này trong một bài phát biểu trên radio để chỉ "người bị lãng quên ở đáy kim tự tháp kinh tế", tức là người được giúp (X), không phải người phải trả tiền (C). Hazlitt gọi đó là "sự trớ trêu của lịch sử". (3) Câu "Điều khôn ngoan trong cách cư xử của mọi gia đình riêng lẻ khó có thể là điều dại dột trong cách cư xử của một vương quốc lớn" là của Adam Smith (*Của cải của các dân tộc*, Quyển IV, Chương II), viết để bác chủ nghĩa trọng thương. Câu về triết học và vô thần là của Francis Bacon (tiểu luận "Về chủ nghĩa vô thần", 1625). Câu "người quan sát bầu trời khi một hành tinh mới lướt vào tầm mắt" là của nhà thơ John Keats. Câu về logic "lan tỏa chân lý" là của triết gia George Santayana; chú thích của Hazlitt ghi nguồn là *The Realm of Truth* (1938), trang 16. Hazlitt không nhắc tên Roosevelt; chi tiết bài phát biểu năm 1932 ở trên và ở các chỗ khác trong bản tổng hợp này là bổ sung của người tổng hợp. (4) Cách Hazlitt coi kinh tế học như logic và toán học, tức là rút kết luận bằng suy diễn từ tiền đề, phản ánh ảnh hưởng của Ludwig von Mises và trường phái Áo; kinh tế học chính thống sau Thế chiến II ngày càng dựa vào kiểm định thực nghiệm, nên phần này cần đọc có phản biện (xem phần Đánh giá). Mọi câu trích là bản dịch của người tổng hợp.
 
 ## Sơ đồ
 
@@ -121,16 +121,17 @@
        phải làm gì cho X, hoặc, trong trường hợp khá hơn, A, B và C phải
        làm gì cho X
        · X: người được giúp · A và B: người đề xuất luật · C: người
-         thường phải trả giá (người nộp thuế, người tiêu dùng, người lao
-         động bình thường)
+         phải trả giá (người tổng hợp chú thêm: người nộp thuế, người
+         tiêu dùng, người lao động bình thường)
        · Sumner viết: "điều tôi muốn là TÌM C... tôi gọi ông ta là
          NGƯỜI BỊ LÃNG QUÊN... ông ta là nạn nhân của nhà cải cách, nhà
-         đầu cơ xã hội và nhà từ thiện" · theo Sumner, C đáng được chú ý
+         lý thuyết xã hội và nhà từ thiện" · theo Sumner, C đáng chú ý
          cả vì phẩm cách của ông lẫn vì nhiều GÁNH NẶNG đặt lên vai ông
                                 │
                                 ▼
        TRỚ TRÊU CỦA LỊCH SỬ: thập niên 1930, cụm từ này được DÙNG LẠI
-       (Roosevelt, 1932) nhưng để chỉ X, KHÔNG phải C · còn C, khi đó bị
+       (người tổng hợp chú: Roosevelt, 1932; Hazlitt không nêu tên) nhưng
+       để chỉ X, KHÔNG phải C · còn C, khi đó bị
        đòi gánh THÊM nhiều X nữa, bị lãng quên HƠN BAO GIỜ HẾT
        → C luôn là người bị gọi tới để xoa dịu "trái tim rỉ máu" của
          chính trị gia (lời châm biếm của Hazlitt nhắm vào những chính
@@ -212,11 +213,11 @@
        THAY ĐỔI VỀ ĐẠO ĐỨC, THỊ HIẾU, kể cả THEO HƯỚNG TỐT
        · người ta bớt uống RƯỢU → hàng nghìn người pha chế mất kế sinh
          nhai · bớt CỜ BẠC → người chia bài, cò mồi đua ngựa phải tìm
-         nghề có ích hơn · đàn ông CHUNG THUỶ hơn → "nghề cổ xưa nhất
-         thế giới" (mại dâm) lụi tàn
+         nghề có ích hơn · đàn ông GIỮ MÌNH hơn (male chastity) →
+         "nghề cổ xưa nhất thế giới" (mại dâm) lụi tàn
        · trong số người THIỆT NHẤT lại có những người làm nghề CẢI THIỆN
          đạo đức: nhà thuyết giáo bớt điều để than phiền, nhà cải cách
-         mất lý do tồn tại, đóng góp nuôi họ giảm đi
+         mất mục tiêu vận động, đóng góp nuôi họ giảm đi
        · nếu KHÔNG CÒN TỘI PHẠM thì cần ít luật sư, thẩm phán, lính cứu
          hoả hơn; không cần cai ngục, thợ khoá, thậm chí không cần cảnh
          sát (trừ việc điều phối giao thông)
@@ -301,7 +302,7 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Ngoài "bài học" chính, cuốn sách còn dạy những bài học gì?** Ba bài học phụ. Thứ nhất, kinh tế học là khoa học nhận ra hệ quả tất yếu: mỗi đề xuất có mặt trái (tăng tín dụng là tăng nợ, tăng trợ cấp là tăng thuế, tăng xuất khẩu rốt cuộc là tăng nhập khẩu). Thứ hai, kinh tế học sâu sắc thường quay về lẽ thường: không ai bình thường nghĩ cửa sổ vỡ hay tiết kiệm có hại. Thứ ba, chính sách luôn có một "người bị lãng quên", người C phải trả tiền cho những gì A và B quyết định làm giúp X.
+1. **Ngoài "bài học" chính, cuốn sách còn dạy những bài học gì?** Ba bài học phụ. Thứ nhất, kinh tế học là khoa học nhận ra hệ quả tất yếu: mỗi đề xuất có mặt trái (tăng tín dụng là tăng nợ, tăng trợ cấp là tăng thuế, tăng xuất khẩu rốt cuộc là tăng nhập khẩu). Thứ hai, kinh tế học sâu sắc thường quay về lẽ thường: người không nhiễm thứ hiểu biết nửa vời về kinh tế sẽ không nghĩ cửa sổ vỡ là điều tốt hay tiết kiệm là điều có hại. Thứ ba, chính sách luôn có một "người bị lãng quên", người C phải trả tiền cho những gì A và B quyết định làm giúp X.
 2. **Vì sao các ngụy biện kinh tế cứ lặp lại, chứ không phải ngẫu nhiên?** Vì phân công lao động: mỗi người chỉ làm một thứ và mua mọi thứ khác, nên muốn mọi thứ rẻ và dồi dào trừ thứ mình bán. Nếu một nhóm (người trồng lúa mì) được nhà nước ép cùng giảm sản lượng và giá tăng nhiều hơn sản lượng giảm, nhóm đó lợi thật, nên họ có động cơ thường xuyên vận động cho khan hiếm. Cái thiệt bị chia mỏng cho mọi người tiêu dùng nên ít ai thấy.
 3. **Nên đối xử thế nào với những người bị tiến bộ làm thiệt?** Nhận ra hoàn cảnh của họ, cảm thông, và dùng một phần cái lợi chung để giúp họ tìm việc sản xuất ở chỗ khác. Không bao giờ giải quyết bằng cách giảm cung, cấm phát minh, hay nuôi họ tiếp tục làm việc đã hết giá trị (thuế quan bảo hộ, đập máy, đốt cà phê).
 
@@ -313,17 +314,17 @@
 
 **Lẽ thường (common sense).** Phán đoán chất phác của người không bị các lý thuyết rối rắm làm lạc. Ví dụ: người bình thường biết rằng một gia đình đập cửa sổ nhà mình không giàu lên. Hazlitt dùng khái niệm này để nói rằng kinh tế học "nửa vời" mới dẫn tới kết luận ngược đời, còn kinh tế học sâu (xét mọi hậu quả) thường xác nhận lẽ thường.
 
-**Người bị lãng quên (the Forgotten Man).** Khái niệm của William Graham Sumner: khi A và B thấy X đang khổ và ra luật bắt C làm gì đó cho X, thì C (người nộp thuế, người tiêu dùng, người lao động bình thường) là người trả giá nhưng không ai nhắc tới. Ví dụ: luật giá ngang giá (parity) giúp nông dân (X) bằng cách bắt công nhân thành phố (C) trả giá thực phẩm cao hơn. Đây là tên gọi khác của "cái không thấy" trong bài học.
+**Người bị lãng quên (the Forgotten Man).** Khái niệm của William Graham Sumner: khi A và B thấy X đang khổ và ra luật bắt C làm gì đó cho X, thì C (người nộp thuế, người tiêu dùng, người lao động bình thường) là người trả giá nhưng không ai nhắc tới. Ví dụ (liên hệ của người tổng hợp với Chương 13): luật giá ngang giá (parity) giúp nông dân (X) bằng cách bắt công nhân thành phố (C) trả giá thực phẩm cao hơn. Theo người tổng hợp, đây là một cách gọi khác của "cái không thấy" trong bài học; Hazlitt chỉ nói ông "gặp lại một người bạn cũ" trong quá trình nghiên cứu.
 
 **Giàu lên nhờ khan hiếm (wealth through scarcity).** Học thuyết cho rằng hạn chế sản lượng làm giàu. Với một nhóm riêng, nó có thể đúng: nếu giá lúa mì tăng 50% khi sản lượng giảm 20% (minh họa của người tổng hợp), doanh thu của người trồng lúa mì tăng khoảng 20%. Nhưng cả xã hội mất đúng 20% lúa mì đó. Hazlitt gọi nó là "đúng về mặt riêng, luôn sai về mặt chung" (privately true, publicly false): nếu mọi nhóm cùng áp dụng thì là tự sát kinh tế.
 
-**Cái mất tập trung và cái lợi phân tán (concentrated loss, diffused gain).** Khi một tiến bộ xảy ra, cái lợi được chia nhỏ cho hàng triệu người tiêu dùng (mỗi đôi giày rẻ hơn một chút), còn cái thiệt dồn vào một nhóm nhỏ (công nhân đóng giày mất việc). Cái thiệt tập trung dễ thấy và gây xúc động hơn. Hazlitt dùng điều này để giải thích vì sao ngay cả người quan sát vô tư cũng thường ủng hộ chính sách hạn chế.
+**Cái mất tập trung và cái lợi phân tán (concentrated loss, diffused gain).** Khi một tiến bộ xảy ra, cái lợi được chia nhỏ cho hàng triệu người tiêu dùng (mỗi đôi giày rẻ hơn một chút), còn cái thiệt dồn vào một nhóm nhỏ (công nhân đóng giày mất việc). Cái thiệt tập trung dễ thấy và gây xúc động hơn. Hazlitt dùng điều này để giải thích vì sao ngay cả người quan sát vô tư (không có lợi ích gì trong chuyện đó) cũng thường chỉ thấy cái thiệt; ngay sau đó ông nói thế giới đã nhiều lần tìm cách giải quyết bằng các kế hoạch hạn chế.
 
 **Tiến bộ không đều (uneven progress).** Tiến bộ kinh tế không diễn ra cùng lúc ở mọi ngành mà lúc ngành này, lúc ngành kia. Nếu mọi ngành cùng tăng năng suất cùng tỷ lệ thì không ai thiệt; nhưng vì tiến bộ không đều, cái lợi của thế giới có thể là bi kịch của một nhóm. Đây là nguồn gốc của mâu thuẫn giữa lợi ích chung và lợi ích nhóm chuyên môn.
 
 ## Nội dung chi tiết
 
-### 1. Nhắc lại bài học chính
+### 1. Nhắc lại bài học chính (mục 1, hai đoạn mở đầu chương)
 
 Hazlitt mở đầu bằng việc phát biểu lại bài học của cuốn sách: kinh tế học là khoa học nhận ra các **hậu quả thứ cấp** (secondary consequences), và cũng là khoa học nhìn ra các **hậu quả chung** (general consequences). Nó lần theo tác động của một chính sách đang có hay được đề xuất, không chỉ lên một nhóm lợi ích đặc biệt trong ngắn hạn, mà lên lợi ích chung trong dài hạn.
 
@@ -353,7 +354,7 @@ Hazlitt mở đầu bằng việc phát biểu lại bài học của cuốn sá
 | 22 | Ảo ảnh lạm phát | Giá và lương tiền tăng | Sức mua bị bào mòn, phân phối lại ngầm |
 | 23 | Cuộc tấn công vào tiết kiệm | Việc làm từ người tiêu xài | Việc làm từ tiền tiết kiệm được đầu tư |
 
-### 2. Bài học phụ thứ nhất: kinh tế học là khoa học nhận ra hệ quả tất yếu
+### 2. Bài học phụ thứ nhất: kinh tế học là khoa học nhận ra hệ quả tất yếu (mục 1, phần còn lại)
 
 Khi thấy kinh tế học là khoa học lần theo hậu quả, ta nhận ra rằng, giống logic và toán học, nó là khoa học nhận ra những **hệ quả tất yếu**.
 
@@ -375,7 +376,7 @@ Tương tự, nhà kinh tế được giao một vấn đề thực tiễn phả
 
 Hazlitt cẩn thận nói thêm: việc mỗi mệnh đề có mặt trái như đồng xu, hay việc tên gọi kia của giải pháp nghe kém hấp dẫn hơn nhiều, **không có nghĩa** đề xuất ban đầu luôn sai. Có lúc tăng nợ chỉ là chuyện nhỏ so với cái lợi đạt được nhờ khoản vay; có lúc trợ cấp của chính phủ là không tránh được để đạt một mục đích nhất định; có lúc một ngành chịu nổi việc tăng chi phí sản xuất. Nhưng trong mỗi trường hợp, ta phải bảo đảm đã xét cả hai mặt đồng xu, đã nghiên cứu mọi hệ quả của đề xuất. Và điều đó hiếm khi được làm.
 
-### 3. Bài học phụ thứ hai: kinh tế học sâu quay về lẽ thường
+### 3. Bài học phụ thứ hai: kinh tế học sâu quay về lẽ thường (mục 2)
 
 Phân tích các ví dụ trong sách còn dạy một bài học phụ khác: khi xét tác động của các đề xuất không chỉ lên nhóm đặc biệt trong ngắn hạn mà lên mọi nhóm trong dài hạn, kết luận thường trùng với **lẽ thường chất phác** (unsophisticated common sense). Người không bị nhiễm thứ "nửa biết nửa không" về kinh tế đang thịnh hành sẽ không bao giờ nghĩ rằng:
 
@@ -391,17 +392,17 @@ Hazlitt dẫn Adam Smith, người với lẽ thường vững chắc đã đáp
 
 Hazlitt dẫn tiếp câu của Francis Bacon: "Chút ít triết học làm tâm trí con người nghiêng về vô thần, nhưng triết học sâu sắc đưa tâm trí con người trở lại tôn giáo." Người đọc có thể chấp nhận hay không câu này tùy niềm tin của mình. Nhưng điều chắc chắn đúng là: **chút ít kinh tế học** dễ dẫn tới những kết luận nghịch lý và phi lý vừa kể, còn **kinh tế học sâu sắc** đưa con người trở về lẽ thường. Vì chiều sâu trong kinh tế học chính là tìm kiếm **mọi** hậu quả của một chính sách, thay vì dừng mắt ở những hậu quả thấy ngay.
 
-### 4. Bài học phụ thứ ba: người bị lãng quên
+### 4. Bài học phụ thứ ba: người bị lãng quên (mục 3, đoạn mở đầu)
 
-Trong quá trình nghiên cứu, Hazlitt nói, ta đã gặp lại một người bạn cũ: **Người bị lãng quên** (the Forgotten Man) của William Graham Sumner. Trong bài viết năm 1883 của Sumner:
+Trong quá trình nghiên cứu, Hazlitt nói, ta đã gặp lại một người bạn cũ (Hazlitt không gọi đây là một "bài học"; cách đánh số là của người tổng hợp): **Người bị lãng quên** (the Forgotten Man) của William Graham Sumner. Trong bài viết năm 1883 của Sumner:
 
-> "Ngay khi A thấy một điều gì đó có vẻ sai mà X đang phải chịu, A bàn với B, rồi A và B đề xuất thông qua một đạo luật để sửa cái sai và giúp X. Đạo luật của họ luôn quy định C phải làm gì cho X, hoặc, trong trường hợp khá hơn, A, B và C phải làm gì cho X... Điều tôi muốn làm là tìm C... Tôi gọi ông ta là Người bị lãng quên... Ông ta là người không bao giờ được nghĩ tới. Ông ta là nạn nhân của nhà cải cách, nhà đầu cơ xã hội và nhà từ thiện, và tôi hy vọng sẽ cho các bạn thấy, trước khi kết thúc, rằng ông ta đáng được chú ý cả vì phẩm cách của mình lẫn vì nhiều gánh nặng đặt lên vai ông."
+> "Ngay khi A thấy một điều gì đó có vẻ sai mà X đang phải chịu, A bàn với B, rồi A và B đề xuất thông qua một đạo luật để sửa cái sai và giúp X. Đạo luật của họ luôn quy định C phải làm gì cho X, hoặc, trong trường hợp khá hơn, A, B và C phải làm gì cho X... Điều tôi muốn làm là tìm C... Tôi gọi ông ta là Người bị lãng quên... Ông ta là người không bao giờ được nghĩ tới. Ông ta là nạn nhân của nhà cải cách, nhà lý thuyết xã hội (social speculator) và nhà từ thiện, và tôi hy vọng sẽ cho các bạn thấy, trước khi kết thúc, rằng ông ta đáng được chú ý cả vì phẩm cách của mình lẫn vì nhiều gánh nặng đặt lên vai ông."
 
-Hazlitt chỉ ra một sự trớ trêu của lịch sử: khi cụm từ "Người bị lãng quên" được dùng lại trong thập niên 1930 (trong bài phát biểu năm 1932 của Franklin D. Roosevelt), nó được dùng để chỉ X chứ không phải C; và C, khi đó bị đòi gánh thêm nhiều X hơn nữa, bị lãng quên hơn bao giờ hết. Chính C, người bị lãng quên, luôn là người được gọi tới để xoa dịu "trái tim rỉ máu" của chính trị gia bằng cách trả tiền cho sự hào phóng mà chính trị gia thực hiện bằng tiền người khác (vicarious generosity).
+Hazlitt chỉ ra một sự trớ trêu của lịch sử: khi cụm từ "Người bị lãng quên" được dùng lại trong thập niên 1930 (người tổng hợp chú thêm: trong bài phát biểu năm 1932 của Franklin D. Roosevelt; Hazlitt không nêu tên), nó được dùng để chỉ X chứ không phải C; và C, khi đó bị đòi gánh thêm nhiều X hơn nữa, bị lãng quên hơn bao giờ hết. Chính C, người bị lãng quên, luôn là người được gọi tới để xoa dịu "trái tim rỉ máu" của chính trị gia bằng cách trả tiền cho sự hào phóng mà chính trị gia thực hiện bằng tiền người khác (vicarious generosity).
 
-Trong ngôn ngữ của cuốn sách, X là "cái thấy được", còn C là "cái không thấy". Người thợ kính ở Chương 2 là X; người thợ may mất đơn đặt hàng bộ com-lê là C. Người nông dân được giá ngang giá là X; công nhân thành phố trả giá bánh mì cao hơn là C.
+Liên hệ của người tổng hợp (Hazlitt không viết đoạn này): trong ngôn ngữ của cuốn sách, X là "cái thấy được", còn C là "cái không thấy". Người thợ kính ở Chương 2 là X; người thợ may mất đơn đặt hàng bộ com-lê là C. Người nông dân được giá ngang giá là X; công nhân thành phố trả giá bánh mì cao hơn là C.
 
-### 5. Vì sao ngụy biện sinh ra có hệ thống: phân công lao động
+### 5. Vì sao ngụy biện sinh ra có hệ thống: phân công lao động (mục 3, đoạn về phân công lao động và người trồng lúa mì)
 
 Hazlitt cho rằng nghiên cứu bài học sẽ chưa trọn nếu không nhận ra: ngụy biện cơ bản mà cuốn sách chống lại **không xuất hiện tình cờ mà có hệ thống**. Nó gần như là kết quả tất yếu của **phân công lao động** (division of labor).
 
@@ -417,7 +418,7 @@ Bình thường, những cảm giác ích kỷ này không ảnh hưởng gì t�
 
 Minh họa bằng số của người tổng hợp (không có trong sách): giả sử ngành lúa mì bán 100 triệu giạ với giá 1 USD, doanh thu 100 triệu USD. Diện tích bị ép giảm 20%, còn 80 triệu giạ, giá tăng lên 1,5 USD. Doanh thu thành 120 triệu USD: người trồng lúa mì lợi thêm 20 triệu USD. Người tiêu dùng trả nhiều hơn 20 triệu USD mà nhận ít hơn 20 triệu giạ. Xã hội mất hẳn 20 triệu giạ lúa mì, thứ mà không khoản chuyển tiền nào bù lại được.
 
-### 6. Mọi tiến bộ đều làm hại ai đó
+### 6. Mọi tiến bộ đều làm hại ai đó (mục 3, đoạn về cam, máy móc, đạo đức)
 
 Hazlitt mở rộng ví dụ lúa mì sang mọi ngành.
 
@@ -431,15 +432,15 @@ Hazlitt mở rộng ví dụ lúa mì sang mọi ngành.
 | Máy dệt mới, dệt vải tốt hơn và nhanh hơn | Người mua vải | Chủ của hàng nghìn máy dệt cũ trở nên lỗi thời; một phần giá trị vốn đầu tư vào máy cũ bị xóa sổ |
 | Năng lượng nguyên tử | Nhân loại: "những phúc lợi không thể tưởng tượng nổi" | Chủ mỏ than và giếng dầu, những người sợ nó |
 
-**Thay đổi về thị hiếu và đạo đức, kể cả theo hướng tốt.** Cũng như không có cải tiến kỹ thuật nào không làm hại ai đó, không có thay đổi nào trong thị hiếu hay đạo đức xã hội, kể cả thay đổi tốt, mà không làm hại ai đó. Người ta bớt uống rượu thì hàng nghìn người pha chế mất kế sinh nhai. Cờ bạc giảm thì người chia bài và cò mồi đua ngựa phải tìm nghề có ích hơn. Đàn ông chung thủy hơn thì "nghề cổ xưa nhất thế giới" lụi tàn.
+**Thay đổi về thị hiếu và đạo đức, kể cả theo hướng tốt.** Cũng như không có cải tiến kỹ thuật nào không làm hại ai đó, không có thay đổi nào trong thị hiếu hay đạo đức xã hội, kể cả thay đổi tốt, mà không làm hại ai đó. Người ta bớt uống rượu thì hàng nghìn người pha chế mất kế sinh nhai. Cờ bạc giảm thì người chia bài và cò mồi đua ngựa phải tìm nghề có ích hơn. Đàn ông giữ mình hơn (male chastity) thì "nghề cổ xưa nhất thế giới" lụi tàn.
 
-Nhưng không chỉ những người cố ý chiều theo thói xấu của con người mới bị hại khi đạo đức xã hội đột ngột tốt lên. Trong số người bị hại nhiều nhất lại chính là những người có nghề **cải thiện** đạo đức: nhà thuyết giáo bớt điều để than phiền, nhà cải cách mất lý do tồn tại, nhu cầu đối với dịch vụ của họ và đóng góp nuôi họ giảm đi. Nếu không còn tội phạm, ta cần ít luật sư, thẩm phán và lính cứu hỏa hơn, không cần cai ngục, thợ khóa, và (trừ các việc như gỡ tắc đường) thậm chí không cần cảnh sát.
+Nhưng không chỉ những người cố ý chiều theo thói xấu của con người mới bị hại khi đạo đức xã hội đột ngột tốt lên. Trong số người bị hại nhiều nhất lại chính là những người có nghề **cải thiện** đạo đức: nhà thuyết giáo bớt điều để than phiền, nhà cải cách mất các mục tiêu vận động, nhu cầu đối với dịch vụ của họ và đóng góp nuôi họ giảm đi. Nếu không còn tội phạm, ta cần ít luật sư, thẩm phán và lính cứu hỏa hơn, không cần cai ngục, thợ khóa, và (trừ các việc như gỡ tắc đường) thậm chí không cần cảnh sát.
 
 Tóm lại, trong một hệ thống phân công lao động, khó nghĩ ra bất kỳ sự đáp ứng tốt hơn nào cho một nhu cầu con người mà không làm hại, ít nhất tạm thời, một số người đã đầu tư hay khổ công học kỹ năng để đáp ứng đúng nhu cầu đó.
 
 **Ví dụ hôm nay** (minh họa của người tổng hợp, định tính). Khi các ứng dụng gọi xe công nghệ xuất hiện ở các thành phố lớn Việt Nam, hành khách nói chung được lợi: dễ gọi xe hơn, biết giá trước, nhiều lựa chọn hơn. Cái lợi đó chia mỏng cho hàng triệu chuyến đi nên ít ai nhắc. Cái thiệt dồn vào các hãng taxi truyền thống và tài xế xe ôm quen khách, những người đã đầu tư vào xe, vào giấy phép, vào mạng lưới khách quen. Cái thiệt tập trung ấy dễ thấy, có tiếng nói, và đã dẫn tới các đề xuất hạn chế ứng dụng mới. Đây đúng là tình huống Hazlitt mô tả: cái lợi của số đông là bi kịch của một nhóm, và câu hỏi chính sách là giúp nhóm đó chuyển đổi hay ngăn cái mới lại.
 
-### 7. Nếu tiến bộ đều khắp thì không ai thiệt
+### 7. Nếu tiến bộ đều khắp thì không ai thiệt (mục 3, đoạn về tiến bộ đều và không đều)
 
 Nếu tiến bộ diễn ra hoàn toàn đều khắp mọi ngành, mâu thuẫn giữa lợi ích của toàn xã hội và lợi ích của nhóm chuyên môn sẽ không thành vấn đề nghiêm trọng (nếu có ai để ý tới). Hazlitt lại nói từ vai một người trồng lúa mì: giả sử cùng năm sản lượng lúa mì thế giới tăng, vụ của tôi tăng cùng tỷ lệ; cam và mọi nông sản khác tăng tương ứng; sản lượng mọi hàng công nghiệp cũng tăng và chi phí đơn vị giảm tương ứng. Khi đó, với tư cách người trồng lúa mì, tôi không thiệt vì sản lượng lúa mì tăng. Giá mỗi giạ tôi nhận có thể giảm. Tổng số tiền tôi thu từ vụ lớn hơn có thể giảm. Nhưng nếu nhờ cung tăng tôi cũng mua được sản phẩm của mọi người khác rẻ hơn, tôi không có lý do thật để than phiền. Nếu giá mọi thứ khác giảm đúng bằng tỷ lệ giá lúa mì của tôi giảm, tôi thực ra khá hơn, đúng bằng tỷ lệ vụ của tôi tăng; và mọi người khác cũng được lợi tương ứng từ việc cung mọi hàng hóa, dịch vụ tăng.
 
@@ -447,7 +448,7 @@ Nhưng tiến bộ kinh tế chưa bao giờ, và có lẽ sẽ không bao giờ
 
 **Cái mất tập trung che cái lợi phân tán.** Điều đập vào mắt nhất, kể cả với người quan sát không có lợi ích gì, thường không phải cái lợi lan tỏa của nguồn cung tăng hay phát hiện mới, mà là cái mất tập trung. Việc mọi người có nhiều cà phê hơn và rẻ hơn bị quên; cái người ta thấy là một số người trồng cà phê không sống nổi ở giá thấp. Việc máy mới làm ra nhiều giày hơn với chi phí thấp hơn bị quên; cái người ta thấy là một nhóm đàn ông và phụ nữ mất việc.
 
-### 8. Cách đúng và cách sai đối xử với người thiệt
+### 8. Cách đúng và cách sai đối xử với người thiệt (mục 3, đoạn về học thuyết khan hiếm)
 
 Hazlitt không phủ nhận nỗi khổ của những nhóm này. Ông viết rằng hoàn toàn đúng, và thực ra là **thiết yếu** để hiểu đầy đủ vấn đề, việc nhận ra hoàn cảnh khó khăn của họ, đối xử với họ bằng sự cảm thông, và xem liệu có thể dùng một phần cái lợi từ tiến bộ chuyên ngành ấy để giúp nạn nhân tìm một vai trò sản xuất ở chỗ khác.
 
@@ -461,7 +462,7 @@ Vậy mà thế giới đã nhiều lần tìm cách làm đúng những điều
 
 Đáng tiếc, học thuyết này có thể luôn **đúng về mặt riêng** (privately true) cho bất kỳ nhóm sản xuất cụ thể nào xét riêng lẻ, nếu họ làm khan hiếm được thứ duy nhất họ bán trong khi vẫn giữ dồi dào mọi thứ họ mua. Nhưng nó luôn **sai về mặt chung** (publicly false). Nó không bao giờ áp dụng được cho tất cả mọi người cùng lúc, vì áp dụng nó khắp nơi đồng nghĩa với tự sát kinh tế.
 
-### 9. Bài học ở dạng khái quát nhất
+### 9. Bài học ở dạng khái quát nhất (mục 3, hai đoạn kết chương)
 
 Hazlitt kết luận: đây là bài học của cuốn sách ở dạng khái quát nhất. Nhiều điều có vẻ đúng khi ta tập trung vào một nhóm kinh tế duy nhất hóa ra là ảo tưởng khi xét lợi ích của mọi người, **với tư cách người tiêu dùng không kém gì với tư cách người sản xuất**.
 
@@ -501,7 +502,7 @@ Các ngụy biện kinh tế phổ biến đều có chung một cấu trúc: ch
 - Đoạn A, B, C, X của Sumner (1883) và việc cụm từ bị dùng ngược trong thập niên 1930.
 - Người trồng lúa mì: cạnh tranh và liên kết giảm diện tích theo tỷ lệ.
 - Vụ cam bội thu; máy hái bông; máy dệt mới; năng lượng nguyên tử.
-- Bớt rượu, bớt cờ bạc, đàn ông chung thủy; nhà thuyết giáo, nhà cải cách; xã hội không tội phạm (luật sư, thẩm phán, lính cứu hỏa, cai ngục, thợ khóa, cảnh sát).
+- Bớt rượu, bớt cờ bạc, đàn ông giữ mình hơn; nhà thuyết giáo, nhà cải cách; xã hội không tội phạm (luật sư, thẩm phán, lính cứu hỏa, cai ngục, thợ khóa, cảnh sát).
 - Cà phê rẻ và người trồng cà phê; giày rẻ và công nhân đóng giày.
 - Thuế quan bảo hộ, đập phá máy móc, đốt cà phê như những biểu hiện của "giàu lên nhờ khan hiếm".
 
@@ -559,8 +560,8 @@ Các ngụy biện kinh tế phổ biến đều có chung một cấu trúc: ch
 > "Toán học nhắc ta rằng hệ quả tất yếu không nhất thiết là hệ quả hiển nhiên."
 *For mathematics reminds us that inevitable implications are not necessarily obvious implications.*
 
-> "Chút ít kinh tế học dễ dẫn tới những kết luận nghịch lý và phi lý, nhưng kinh tế học sâu sắc đưa con người trở về lẽ thường."
-*A little economics can easily lead to the paradoxical and preposterous conclusions we have just rehearsed, but depth in economics brings men back to common sense.*
+> "...chút ít kinh tế học dễ dẫn tới những kết luận nghịch lý và phi lý vừa kể, nhưng kinh tế học sâu sắc đưa con người trở về lẽ thường."
+*...a little economics can easily lead to the paradoxical and preposterous conclusions we have just rehearsed, but that depth in economics brings men back to common sense.*
 
 > "Đó là một học thuyết có thể luôn đúng về mặt riêng, đáng tiếc thay, cho bất kỳ nhóm sản xuất cụ thể nào xét riêng lẻ... Nhưng nó là một học thuyết luôn sai về mặt chung."
 *It is a doctrine that may always be privately true, unfortunately, for any particular group of producers considered in isolation... But it is a doctrine that is always publicly false.*

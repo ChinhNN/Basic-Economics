@@ -5,11 +5,11 @@
 **Vị trí trong lập luận của cả cuốn sách:** Chương 11 và 12 áp dụng "bài học" (Chương 1) vào thương mại quốc tế: thuế quan và cơn thúc đẩy xuất khẩu giúp một nhóm, hại phần còn lại. Chương 13 chuyển sang một nhóm lợi ích đặc biệt trong nước, nông dân, và chính sách giá ngang giá (parity) cho nông sản của thời New Deal. Đây là chương đầu tiên trong một chuỗi chương về can thiệp vào giá: Chương 14 bàn việc "cứu ngành X", Chương 15 giải thích hệ thống giá vận hành ra sao, Chương 16 bàn kế hoạch "bình ổn" hàng hoá (mà chương này hẹn sẽ phân tích kỹ cách hạn chế sản lượng), Chương 17 bàn ấn định giá của chính phủ. Cuối chương, Hazlitt dùng lại lập luận về thuế quan của Chương 11 để bác ý tưởng rằng giá ngang giá là "thuế quan của nông dân".
 **Ý chính:** Hazlitt muốn chứng minh rằng nâng giá nông sản bằng can thiệp của chính phủ không làm cả nền kinh tế thịnh vượng, mà chỉ chuyển sức mua từ người thành thị sang nông dân, và còn phá huỷ của cải vì phải cắt giảm sản lượng. Lập luận của phe ủng hộ: tỷ lệ giữa giá nông sản và giá hàng nông dân mua phải được giữ như thời 1909–1914, khi nông dân thịnh vượng. Hazlitt bác bằng ba nhóm lý lẽ. Một, mốc 1909–1914 được chọn vì nó thuận lợi nhất cho nông nghiệp, và nếu áp cùng nguyên tắc cho mọi hàng thì chiếc Chevrolet giá 907 USD năm 1942 phải bán 3.270 USD, nhôm 14 cent một pound phải bán 41 cent, trong khi năng suất bông cũng đã tăng từ 188 lên 260 pound mỗi mẫu Anh. Hai, nếu lúa mì được nâng từ 1 USD lên 1,50 USD một giạ, nông dân được thêm 50 cent nhưng người thành thị mất đúng 50 cent khi mua bánh mì; tính chung, công nghiệp không bán thêm được gì. Ba, để giữ giá cao phải cắt sản lượng, tức là có ít lương thực hơn. Cuối cùng, kết hợp giá ngang giá với thuế quan không "cân bằng" gì cả: nó chỉ có nghĩa là nông dân A (hưởng giá ngang giá) và nhà công nghiệp B (hưởng thuế quan) cùng có lợi trên lưng "Người bị lãng quên C", tức người tiêu dùng và người đóng thuế phải trả cho cả hai.
 
-> **Lưu ý:** (1) Bối cảnh: Đạo luật Điều chỉnh Nông nghiệp (*Agricultural Adjustment Act*, AAA) năm 1933 thời New Deal đặt mục tiêu khôi phục "sức mua ngang giá" cho nông dân, lấy kỳ gốc tháng 8/1909 đến tháng 7/1914. Công cụ chính: trả tiền cho nông dân để giảm diện tích gieo trồng, và cho vay thế chấp bằng nông sản qua Công ty Tín dụng Hàng hoá (*Commodity Credit Corporation*, 1933) để nông dân giữ hàng chờ giá. Tòa án Tối cao bác một phần AAA năm 1936, nhưng các luật thay thế (1936, 1938) giữ nguyên ý tưởng. Trong Thế chiến II, giá hỗ trợ được nâng lên 90% giá ngang giá. Ý tưởng "ngang giá" xuất hiện trước New Deal, trong các dự luật McNary–Haugen thập niên 1920 mà Tổng thống Coolidge phủ quyết; đó là lúc Hazlitt nói "tôi không nhớ ngày đầu tiên nó xuất hiện trong một dự luật". (2) "Giá ngang giá" của một nông sản được tính bằng giá của nó trong kỳ gốc nhân với tỷ lệ tăng của chỉ số giá hàng nông dân mua kể từ kỳ gốc. Các con số Chevrolet và nhôm của Hazlitt dùng đúng phép tính này (xem Nội dung chi tiết). (3) Đoạn về đốt cà phê ở Brazil chỉ chính sách thật: từ đầu thập niên 1930, chính phủ Brazil mua và tiêu huỷ lượng lớn cà phê để giữ giá. (4) Một điểm Hazlitt nói chưa chính xác: ông viết khi nông dân cắt sản lượng thì thu nhập "không tăng tương ứng với giá". Điều này đúng, nhưng với nông sản có cầu kém co giãn, thu nhập của nông dân vẫn có thể tăng khi sản lượng giảm; đó chính là lý do chính sách hấp dẫn với họ (xem phần Đánh giá). (5) Câu trích là bản dịch của người tổng hợp; câu về trang trại cơ giới hoá Hazlitt trích từ *The New York Times* ngày 2/1/1946.
+> **Lưu ý:** (1) Bối cảnh: Đạo luật Điều chỉnh Nông nghiệp (*Agricultural Adjustment Act*, AAA) năm 1933 thời New Deal đặt mục tiêu khôi phục "sức mua ngang giá" cho nông dân, lấy kỳ gốc tháng 8/1909 đến tháng 7/1914. Công cụ chính: trả tiền cho nông dân để giảm diện tích gieo trồng, và cho vay thế chấp bằng nông sản qua Công ty Tín dụng Hàng hoá (*Commodity Credit Corporation*, 1933) để nông dân giữ hàng chờ giá. Tòa án Tối cao bác một phần AAA năm 1936, nhưng các luật thay thế (1936, 1938) giữ nguyên ý tưởng. Trong Thế chiến II, giá hỗ trợ được nâng lên 90% giá ngang giá. Ý tưởng "ngang giá" xuất hiện trước New Deal, trong các dự luật McNary–Haugen thập niên 1920 mà Tổng thống Coolidge phủ quyết; người tổng hợp cho rằng đó có thể là điều Hazlitt ám chỉ khi nói "tôi không nhớ ngày đầu tiên nó xuất hiện trong một dự luật" (Hazlitt không nêu tên dự luật nào). (2) "Giá ngang giá" của một nông sản được tính bằng giá của nó trong kỳ gốc nhân với tỷ lệ tăng của chỉ số giá hàng nông dân mua kể từ kỳ gốc. Các con số Chevrolet và nhôm của Hazlitt dùng đúng phép tính này (xem Nội dung chi tiết). (3) Đoạn về đốt cà phê ở Brazil chỉ chính sách thật: từ đầu thập niên 1930, chính phủ Brazil mua và tiêu huỷ lượng lớn cà phê để giữ giá. (4) Một điểm Hazlitt nói chưa hết (nhận định của người tổng hợp): ông viết khi nông dân cắt sản lượng thì thu nhập "không tăng tương ứng với giá". Điều này đúng, nhưng với nông sản có cầu kém co giãn, thu nhập của nông dân vẫn có thể tăng khi sản lượng giảm; đó chính là lý do chính sách hấp dẫn với họ (xem phần Đánh giá). (5) Câu trích là bản dịch của người tổng hợp; câu về trang trại cơ giới hoá Hazlitt trích từ *The New York Times* ngày 2/1/1946.
 
 ## Sơ đồ
 
-### Phần 1: một ý tưởng vô lý trở thành luật như thế nào
+### Phần 1 (mở đầu chương, hai đoạn đầu): một ý tưởng vô lý trở thành luật như thế nào
 
 ```text
        Như lịch sử THUẾ QUAN cho thấy, các nhóm lợi ích đặc biệt nghĩ ra
@@ -42,7 +42,7 @@
          các hệ quả đó cũng được ghi vào luật
 ```
 
-### Phần 2: lập luận của phe ủng hộ giá ngang giá
+### Phần 2 (đoạn thứ ba của chương): lập luận của phe ủng hộ giá ngang giá
 
 ```text
        ① nông nghiệp là ngành CĂN BẢN và quan trọng nhất, nên phải bảo
@@ -62,7 +62,7 @@
          giá ấy VĨNH VIỄN
 ```
 
-### Phần 3: vì sao chọn mốc 1909–1914 là vô căn cứ, và nguyên tắc chỉ chạy một chiều
+### Phần 3 (các đoạn về mốc 1909–1914, Chevrolet, nhôm, năng suất bông và quy tắc một chiều): vì sao chọn mốc 1909–1914 là vô căn cứ, và nguyên tắc chỉ chạy một chiều
 
 ```text
        ① KHÔNG CÓ LÝ DO gì để coi quan hệ giá của MỘT giai đoạn là bất
@@ -109,7 +109,7 @@
          thì áp dụng, bất lợi thì không
 ```
 
-### Phần 4: ngụy biện trung tâm — giá nông sản cao có làm công nghiệp thịnh vượng không?
+### Phần 4 (giữa chương, từ đoạn "Dismissing all these considerations" đến ví dụ lúa mì): ngụy biện trung tâm — giá nông sản cao có làm công nghiệp thịnh vượng không?
 
 ```text
        NGỤY BIỆN: nông dân được giá cao hơn → họ mua nhiều hàng công
@@ -127,7 +127,7 @@
                                 │
                                 ▼
        NĂM CÁCH CHÍNH PHỦ NÂNG GIÁ
-       ① ra LỆNH ấn định giá (KÉM HIỆU QUẢ NHẤT)
+       ① ra LỆNH ấn định giá (KHÓ THI HÀNH NHẤT)
        ② đứng ra MUA mọi nông sản được chào bán ở giá ngang giá
        ③ CHO VAY nông dân trên mùa màng để họ GIỮ hàng khỏi thị trường
          tới khi đạt giá ngang giá hoặc cao hơn
@@ -152,7 +152,7 @@
          bách hoá ở thành phố làm ăn kém đi
 ```
 
-### Phần 5: không chỉ chuyển giao mà còn phá huỷ của cải
+### Phần 5 (đoạn "The matter, however, does not end here" và đoạn về thu nhập ngang giá): không chỉ chuyển giao mà còn phá huỷ của cải
 
 ```text
        Chính sách giá ngang giá không chỉ đem lại "không lợi ròng" cho
@@ -177,11 +177,12 @@
          khác bị giảm CÒN NHIỀU HƠN nữa
 ```
 
-### Phần 6: "giá ngang giá là thuế quan của nông dân" — Người bị lãng quên trả tiền
+### Phần 6 (cuối chương, từ lập luận của những người bênh vực tinh tế hơn đến câu kết): "giá ngang giá là thuế quan của nông dân" — Người bị lãng quên trả tiền
 
 ```text
-       LẬP LUẬN TINH VI NHẤT của phe ủng hộ: "Đúng, giá ngang giá là một
-       ĐẶC QUYỀN, là gánh nặng đặt lên người tiêu dùng. Nhưng THUẾ QUAN
+       LẬP LUẬN của một số người bênh vực TINH TẾ HƠN: "Đúng, các lập
+       luận kinh tế cho giá ngang giá là SAI. Giá ngang giá là một ĐẶC
+       QUYỀN, là gánh nặng đặt lên người tiêu dùng. Nhưng THUẾ QUAN
        chẳng phải cũng là gánh nặng đặt lên nông dân sao? Vì thuế quan,
        nông dân phải mua hàng công nghiệp đắt hơn. Đặt thuế quan lên
        nông sản để bù thì vô ích, vì Mỹ XUẤT KHẨU RÒNG nông sản. Vậy giá
@@ -251,19 +252,19 @@
 
 **Hạn chế sản lượng (crop restriction / acreage restriction).** Ép hoặc trả tiền để nông dân trồng ít đi nhằm đẩy giá lên. Ví dụ: chương trình AAA trả tiền cho nông dân để bỏ hoang một phần diện tích; Brazil đốt cà phê. Hazlitt gọi đây là "phá huỷ của cải": giá trị chuyển cho nông dân đến kèm với việc cả xã hội có ít lương thực hơn.
 
-**Thu nhập ngang giá (parity income).** Bước tiếp theo của chính sách: khi giá cao nhưng sản lượng giảm làm thu nhập không tăng đủ, phe ủng hộ đòi chính phủ bảo đảm thu nhập của nông dân, tức trợ cấp thẳng từ ngân sách. Hazlitt dùng nó để minh hoạ "hệ quả vô lý" được luật hoá dần.
+**Thu nhập ngang giá (parity income).** Bước tiếp theo của chính sách: khi giá cao nhưng sản lượng giảm làm thu nhập không tăng đủ, phe ủng hộ đòi chính phủ bảo đảm thu nhập của nông dân, tức trợ cấp thẳng từ ngân sách. Hazlitt nêu nó như một đòi hỏi tiếp theo của phe ủng hộ, chỉ thực hiện được bằng trợ cấp lấy thẳng từ người đóng thuế. (Người tổng hợp nhận xét: đây là một ví dụ cho các "hệ quả vô lý" được luật hoá dần mà Hazlitt nói ở đầu chương; Hazlitt không tự nối hai ý này.)
 
 **Người bị lãng quên (the Forgotten Man).** Cách gọi của nhà xã hội học William Graham Sumner (thế kỷ 19) cho người dân bình thường phải trả tiền cho các chương trình mà A và B thoả thuận để giúp nhau hoặc giúp người khác. Trong chương: người tiêu dùng và người đóng thuế thành thị trả cho cả giá ngang giá (lợi cho nông dân A) lẫn thuế quan (lợi cho nhà công nghiệp B).
 
 ## Nội dung chi tiết
 
-### 1. Một kế hoạch có vẻ vô lý trở thành luật như thế nào
+### 1. Một kế hoạch có vẻ vô lý trở thành luật như thế nào (mở đầu chương)
 
 Hazlitt mở đầu bằng một mô tả chung về cách nhóm lợi ích đặc biệt (*special interests*) giành được ưu đãi, như lịch sử thuế quan đã cho thấy. Họ nghĩ ra những lý do rất khéo để được quan tâm đặc biệt. Người phát ngôn của họ đưa ra một kế hoạch có lợi cho mình, thoạt nhìn vô lý đến mức những người viết không vụ lợi không buồn vạch trần. Nhưng nhóm lợi ích cứ kiên trì. Việc kế hoạch được thông qua có ý nghĩa lớn với lợi ích trước mắt của họ, nên họ đủ sức thuê nhà kinh tế được đào tạo và "chuyên gia quan hệ công chúng" để tuyên truyền. Công chúng nghe lập luận lặp đi lặp lại, kèm "vô số thống kê, biểu đồ, đường cong và biểu đồ hình bánh" ấn tượng, nên sớm tin. Khi những người viết không vụ lợi nhận ra nguy cơ kế hoạch thành luật là thật, họ thường đã quá muộn. Trong vài tuần, họ không thể hiểu chủ đề kỹ bằng những bộ óc được thuê đã dành toàn bộ thời gian nhiều năm cho nó; họ bị coi là thiếu hiểu biết, và trông như người dám cãi lại tiên đề.
 
 Hazlitt nói lịch sử chung này cũng là lịch sử của ý tưởng giá "ngang giá" cho nông sản. Ông không nhớ ngày đầu tiên nó xuất hiện trong một dự luật, nhưng khi New Deal bắt đầu năm 1933, nó đã thành một nguyên tắc vững chắc được ghi vào luật. Năm này qua năm khác, khi các hệ quả vô lý của nó lộ ra, chúng cũng được ghi vào luật.
 
-### 2. Lập luận của phe ủng hộ
+### 2. Lập luận của phe ủng hộ (đoạn thứ ba của chương)
 
 Hazlitt tóm tắt lập luận cho giá ngang giá như sau:
 
@@ -272,9 +273,9 @@ Hazlitt tóm tắt lập luận cho giá ngang giá như sau:
 3. Đó là nguyên nhân của cuộc sụp đổ năm 1929, hoặc ít nhất là của việc không phục hồi được sau đó. Giá nông sản giảm rất mạnh, trong khi giá hàng công nghiệp giảm rất ít. Nông dân không mua được hàng công nghiệp; công nhân thành thị bị sa thải và không mua được nông sản; suy thoái lan thành những vòng luẩn quẩn ngày càng rộng.
 4. Chỉ có một cách chữa, và nó đơn giản: đưa giá nông sản trở lại "ngang giá" với giá những thứ nông dân mua. Quan hệ ngang giá ấy tồn tại trong giai đoạn 1909–1914, khi nông dân thịnh vượng. Phải khôi phục và giữ nó vĩnh viễn.
 
-### 3. Vì sao mốc 1909–1914 vô căn cứ, và vì sao nguyên tắc chỉ chạy một chiều
+### 3. Vì sao mốc 1909–1914 vô căn cứ, và vì sao nguyên tắc chỉ chạy một chiều (đoạn về kỳ gốc, Chevrolet, nhôm, bông và quy tắc một chiều)
 
-Hazlitt nói xem xét mọi điều vô lý ẩn trong lập luận nghe có vẻ hợp lý này sẽ quá dài, nên ông chỉ nêu những điểm chính.
+Hazlitt nói xem xét mọi điều vô lý ẩn trong lập luận nghe có vẻ hợp lý này sẽ quá dài và kéo người đọc đi quá xa khỏi luận điểm chính của chương, nên ông chỉ nêu vài điểm.
 
 **Mốc thời gian.** Không có lý do vững nào để lấy quan hệ giá của một năm hay một giai đoạn cụ thể và coi nó là bất khả xâm phạm, hay thậm chí "bình thường" hơn giai đoạn khác. Kể cả nếu lúc đó nó "bình thường", có lý do gì để giữ nguyên quan hệ đó một thế hệ sau, khi điều kiện sản xuất và cầu đã thay đổi rất lớn? Hơn nữa, giai đoạn 1909–1914 không được chọn ngẫu nhiên: xét giá tương đối, nó là một trong những thời kỳ thuận lợi nhất cho nông nghiệp trong toàn bộ lịch sử Mỹ.
 
@@ -297,14 +298,14 @@ Chi phí sản xuất nông sản đã giảm đáng kể nhờ dùng phân hoá
 
 **Quy tắc một chiều.** Việc không chịu áp nguyên tắc cho mọi hàng không phải là bằng chứng duy nhất cho thấy đây không phải kế hoạch vì lợi ích chung mà chỉ là cách trợ cấp cho một nhóm lợi ích. Bằng chứng khác: khi giá nông sản vượt mức ngang giá, hoặc bị chính sách đẩy lên đó, khối nông nghiệp trong Quốc hội không hề đòi kéo giá xuống ngang giá, hay đòi nông dân hoàn trả trợ cấp tương ứng. Đó là một quy tắc chỉ chạy một chiều.
 
-### 4. Ngụy biện trung tâm: giá nông sản cao làm công nghiệp thịnh vượng
+### 4. Ngụy biện trung tâm: giá nông sản cao làm công nghiệp thịnh vượng (giữa chương, ví dụ lúa mì)
 
 Gạt các điểm trên sang một bên, Hazlitt quay về ngụy biện trung tâm mà cuốn sách quan tâm: lập luận rằng nếu nông dân được giá cao hơn, họ mua được nhiều hàng công nghiệp hơn, làm công nghiệp thịnh vượng và đem lại toàn dụng lao động. Với lập luận này, nông dân có được đúng giá "ngang giá" hay không không quan trọng.
 
 Theo Hazlitt, mọi thứ tuỳ vào việc giá cao được tạo ra bằng cách nào:
 
 - Nếu giá cao là kết quả của phục hồi chung, của kinh doanh khá lên, sản xuất công nghiệp tăng, sức mua của công nhân thành thị tăng (không phải do lạm phát), thì nó thật sự có nghĩa là thịnh vượng và sản xuất tăng, không chỉ cho nông dân mà cho mọi người.
-- Nhưng điều đang bàn là giá nông sản tăng do chính phủ can thiệp. Có năm cách: (1) ra lệnh ấn định giá, cách kém hiệu quả nhất; (2) chính phủ sẵn sàng mua mọi nông sản được chào bán ở giá ngang giá; (3) chính phủ cho nông dân vay trên mùa màng đủ để họ giữ hàng khỏi thị trường đến khi đạt giá ngang giá hoặc cao hơn; (4) chính phủ ép hạn chế quy mô vụ mùa; (5) kết hợp các cách trên, như thường thấy trong thực tế. Tạm thời Hazlitt chỉ giả định rằng, bằng cách nào đó, giá đã được nâng lên.
+- Nhưng điều đang bàn là giá nông sản tăng do chính phủ can thiệp. Có năm cách: (1) ra lệnh ấn định giá, cách khó thi hành nhất; (2) chính phủ sẵn sàng mua mọi nông sản được chào bán ở giá ngang giá; (3) chính phủ cho nông dân vay trên mùa màng đủ để họ giữ hàng khỏi thị trường đến khi đạt giá ngang giá hoặc cao hơn; (4) chính phủ ép hạn chế quy mô vụ mùa; (5) kết hợp các cách trên, như thường thấy trong thực tế. Tạm thời Hazlitt chỉ giả định rằng, bằng cách nào đó, giá đã được nâng lên.
 
 Kết quả thấy được: nông dân bán được giá cao hơn, "sức mua" của họ tăng, họ tạm thời khá giả hơn và mua nhiều hàng công nghiệp hơn. Đó là điều mà người chỉ nhìn hậu quả trước mắt lên nhóm trực tiếp liên quan nhìn thấy.
 
@@ -321,7 +322,7 @@ Nhưng có một hậu quả khác, cũng tất yếu như vậy:
 
 **Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một nước quyết định giữ giá thu mua một loại nông sản ở mức 8.000 đồng/kg trong khi giá thị trường là 6.500 đồng/kg, bằng cách cho một quỹ nhà nước mua vào toàn bộ lượng nông dân muốn bán. Giả sử nông dân bán 1 triệu tấn cho quỹ: họ nhận thêm 1.500 tỷ đồng so với giá thị trường, và các cửa hàng xe máy, vật tư nông nghiệp ở nông thôn bán chạy hơn (cái thấy được). Quỹ phải lấy 1.500 tỷ đồng chênh lệch, cộng chi phí kho bãi và hao hụt, từ ngân sách; người đóng thuế ở thành phố chi tiêu ít đi đúng chừng đó, và các cửa hàng, quán ăn ở thành phố bán chậm hơn (cái không thấy). Số hàng tồn trong kho, nếu không bán được hoặc phải bán lỗ ra nước ngoài, là phần "phá huỷ của cải" mà Hazlitt nói: công lao động và đất đai đã bỏ ra để làm ra thứ không ai cần ở mức giá đó.
 
-### 5. Không chỉ chuyển giao mà còn phá huỷ của cải
+### 5. Không chỉ chuyển giao mà còn phá huỷ của cải (đoạn về lỗ ròng và thu nhập ngang giá)
 
 Chuyện không dừng ở đó. Chính sách không chỉ đem lại "không lợi ròng" mà còn "lỗ ròng". Vì nó không chỉ là chuyển sức mua từ người tiêu dùng thành thị, hoặc từ người đóng thuế nói chung, hoặc cả hai, sang nông dân. Nó còn là ép cắt giảm sản xuất nông sản để nâng giá. Điều đó có nghĩa là phá huỷ của cải: có ít lương thực hơn để tiêu dùng. Của cải bị phá huỷ bằng cách nào tuỳ cách nâng giá được chọn:
 
@@ -334,7 +335,7 @@ Hazlitt hẹn sẽ bàn tác động của các cách này ở phần rộng hơ
 
 Có thể minh hoạ bằng con số (minh hoạ của người tổng hợp): một nông dân bán 1.000 giạ ở giá 1 USD thu 1.000 USD. Nếu để đẩy giá lên 1,50 USD, cả ngành phải cắt sản lượng và người này chỉ còn bán 800 giạ, thu nhập là 1.200 USD: tăng 20%, trong khi giá tăng 50%. Người tiêu dùng trả 1.200 USD cho 800 giạ, thay vì 1.000 USD cho 1.000 giạ; 200 giạ lúa mì không còn tồn tại.
 
-### 6. "Giá ngang giá là thuế quan của nông dân"
+### 6. "Giá ngang giá là thuế quan của nông dân" (cuối chương)
 
 Trước khi rời chủ đề, Hazlitt xét một lập luận của những người bênh vực tinh tế hơn. Họ thừa nhận: "Đúng, các lập luận kinh tế cho giá ngang giá là sai. Giá ngang giá là một đặc quyền, là gánh đặt lên người tiêu dùng. Nhưng thuế quan chẳng phải là gánh đặt lên nông dân sao? Chẳng phải vì nó mà nông dân phải trả giá cao hơn cho hàng công nghiệp? Đặt thuế quan bù trừ cho nông sản thì vô ích, vì Mỹ là nước xuất khẩu ròng nông sản. Vậy hệ thống giá ngang giá là phiên bản thuế quan của nông dân. Đó là cách công bằng duy nhất để san bằng."
 
@@ -453,7 +454,7 @@ Ví dụ chiếc Chevrolet là một phép thử gọn: lấy nguyên tắc củ
 
 ### Hazlitt đúng về hướng nhưng nói chưa hết về thu nhập của nông dân khi cắt sản lượng
 
-Hazlitt viết rằng khi sản lượng giảm, thu nhập nông dân "không tăng tương ứng với giá", ngụ ý chính sách tự làm hại chính nông dân. Nhưng cầu lương thực thường rất kém co giãn: người ta không ăn bánh mì ít đi nhiều khi bánh mì đắt hơn. Khi đó giảm sản lượng 20% có thể đẩy giá lên hơn 20%, và tổng thu nhập của ngành tăng. Đó chính là lý do kinh tế khiến nông dân ủng hộ hạn chế sản lượng, và cũng là lý do chính sách bền vững về chính trị. Điều này không bác bỏ Hazlitt mà làm lập luận của ông mạnh hơn: thu nhập nông dân tăng đúng bằng phần người tiêu dùng mất, cộng thêm tổn thất do lương thực không được sản xuất.
+Hazlitt viết rằng khi sản lượng giảm, thu nhập nông dân "không tăng tương ứng với giá", và dừng ở đó; ông không bàn trường hợp thu nhập của cả ngành vẫn tăng. Nhưng cầu lương thực thường rất kém co giãn: người ta không ăn bánh mì ít đi nhiều khi bánh mì đắt hơn. Khi đó giảm sản lượng 20% có thể đẩy giá lên hơn 20%, và tổng thu nhập của ngành tăng. Đó chính là lý do kinh tế khiến nông dân ủng hộ hạn chế sản lượng, và cũng là lý do chính sách bền vững về chính trị. Điều này không bác bỏ Hazlitt mà làm lập luận của ông mạnh hơn: thu nhập nông dân tăng đúng bằng phần người tiêu dùng mất, cộng thêm tổn thất do lương thực không được sản xuất.
 
 ### Hazlitt gạt quá nhanh vấn đề có thật của nông dân Mỹ thập niên 1930
 

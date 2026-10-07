@@ -9,7 +9,7 @@
 
 ## Sơ đồ
 
-### Phần 1: ngụy biện "máy móc gây thất nghiệp" — sống dai và dẫn tới kết luận vô lý
+### Phần 1: ngụy biện "máy móc gây thất nghiệp" — sống dai và dẫn tới kết luận vô lý (mục 1 của chương gốc, mở đầu chương)
 
 ```text
        NGỤY BIỆN: tính trên tổng thể, máy móc làm người lao động MẤT việc
@@ -39,7 +39,7 @@
        · "Còn gì đen tối hơn được nữa?"
 ```
 
-### Phần 2: lịch sử Cách mạng Công nghiệp — ngành dệt tất và dệt bông
+### Phần 2: lịch sử Cách mạng Công nghiệp — ngành dệt tất và dệt bông (mục 1, đoạn về ngành dệt)
 
 ```text
        NGÀNH DỆT TẤT (stocking industry), Anh
@@ -51,7 +51,8 @@
                                 │
                                 ▼
        NHỮNG NGƯỜI BẠO LOẠN CHỈ ĐÚNG MỘT NỬA
-       · họ ĐÚNG nếu chỉ tính tương lai gần của bản thân: theo William
+       · họ HỢP LÝ nếu chỉ tính tương lai trước mắt, thậm chí cả tương
+         lai xa hơn, của bản thân: theo William
          Felkin (1867), phần lớn trong 50.000 thợ dệt tất Anh và gia đình
          họ không thoát hẳn khỏi đói khổ suốt 40 năm sau khi có máy
        · họ SAI ở niềm tin rằng máy thay người VĨNH VIỄN: trước khi thế kỷ
@@ -70,7 +71,7 @@
          gấp khoảng 40 lần
 ```
 
-### Phần 3: những người sợ công nghệ thế kỷ 19 và 20 — David Wells, Technocrats, công đoàn
+### Phần 3: những người sợ công nghệ thế kỷ 19 và 20 — David Wells, Technocrats, công đoàn (mục 1, nửa sau)
 
 ```text
        DAVID A. WELLS, Recent Economic Changes (1889)
@@ -80,7 +81,7 @@
          và tháp nâng ngũ cốc ở bến cảng
        · thép Bessemer ở Anh: giá giảm từ 80 USD/tấn (1873) xuống dưới
          20 USD/tấn (1886) mà vẫn có lãi · công suất mỗi lò chuyển tăng
-         4 LẦN, còn số lao động không tăng
+         4 LẦN, còn số lao động không tăng mà còn giảm
        · tổng sức máy hơi nước trên thế giới năm 1887 tương đương 200
          triệu con ngựa, tức sức của khoảng 1 tỉ người, ít nhất GẤP 3 dân
          số lao động của cả Trái Đất
@@ -88,7 +89,8 @@
          thế giới vẫn còn việc làm · nhưng Wells chỉ kết luận rằng "sản
          xuất thừa... có thể trở thành kinh niên"
        · Hazlitt đặt từ mới TECHNOPHOBES để gọi những người sợ công nghệ
-         như Wells
+         thời ông (1946) · ông nói các đoạn của Wells, trừ năm tháng và
+         con số, nghe như do chính họ viết
                                 │
                                 ▼
        SUY THOÁI 1932 — phong trào TECHNOCRATS
@@ -125,7 +127,7 @@
          dàn nhạc, trong khi chỉ cần phát ĐĨA HÁT
 ```
 
-### Phần 4: vì sao cần suy luận, không chỉ số liệu — và hệ quả nếu ngụy biện đúng
+### Phần 4: vì sao cần suy luận, không chỉ số liệu — và hệ quả nếu ngụy biện đúng (mục 2 của chương gốc, đầu mục)
 
 ```text
        SỐ LIỆU VÀ LỊCH SỬ là VÔ ÍCH nếu người đọc không hiểu, bằng suy
@@ -150,7 +152,7 @@
          GÂY HẠI lớn vì người ta vẫn tin nó
 ```
 
-### Phần 5: ví dụ xưởng may lắp máy làm áo khoác — từng vòng tác động
+### Phần 5: ví dụ xưởng may lắp máy làm áo khoác — từng vòng tác động (mục 2, phần còn lại)
 
 ```text
        Một CHỦ XƯỞNG MAY mua máy làm áo khoác chỉ cần NỬA lượng lao động
@@ -208,7 +210,7 @@
        chi phí và hiệu quả KHÔNG làm người ta mất việc
 ```
 
-### Phần 6: không nên đẩy lập luận quá xa — máy móc làm tăng sản xuất chứ không nhằm "tạo việc"
+### Phần 6: không nên đẩy lập luận quá xa — máy móc làm tăng sản xuất chứ không nhằm "tạo việc" (mục 3 của chương gốc)
 
 ```text
        KHÔNG PHẢI phát minh nào cũng "tiết kiệm lao động"
@@ -250,13 +252,12 @@
        · làm hàng hoá RẺ hơn cho người tiêu dùng (như ví dụ áo khoác),
          HOẶC
        · tăng LƯƠNG cho người lao động vì năng suất của họ tăng
-       · thường là cả hai · chính sách tiền tệ của từng nước quyết định
-         lợi ích hiện ra chủ yếu dưới dạng lương danh nghĩa tăng hay giá
-         hàng giảm
+       · đôi khi cả hai · diễn biến thực tế phụ thuộc phần lớn vào chính
+         sách tiền tệ của từng nước
        → dù theo cách nào, máy móc cũng làm tăng LƯƠNG THỰC TẾ
 ```
 
-### Phần 7: lời cảnh báo — nhìn Joe Smith, nhưng không chỉ nhìn Joe Smith
+### Phần 7: lời cảnh báo — nhìn Joe Smith, nhưng không chỉ nhìn Joe Smith (mục 4 của chương gốc)
 
 ```text
        CÁC NHÀ KINH TẾ HỌC CỔ ĐIỂN
@@ -311,13 +312,13 @@
 
 **Thiết bị tiết kiệm lao động (labor-saving machinery / devices).** Máy móc hay quy trình cho phép làm ra cùng một lượng hàng với ít giờ công hơn. Ví dụ trong chương: máy làm áo khoác với nửa lượng lao động trước đây. Đây là loại phát minh bị sợ nhất vì tác động đầu tiên của nó là có người bị cho nghỉ việc; chương này chỉ bàn đúng loại đó.
 
-**Tác động ròng / tính trên tổng thể (on net balance).** Kết quả sau khi đã cộng mọi khoản được và trừ mọi khoản mất, ở mọi nhóm. Ví dụ: xưởng may cho nghỉ 50 công nhân (mất), nhưng thợ làm máy, công nhân ở ngành chủ xưởng đầu tư, và người làm hàng mà người mua áo chi 20 USD dư ra đều có thêm việc (được). Hazlitt khẳng định cái được ít nhất bằng cái mất; đây là cách áp dụng trực tiếp "bài học" vào việc làm.
+**Tác động ròng / tính trên tổng thể (on net balance).** Kết quả sau khi đã cộng mọi khoản được và trừ mọi khoản mất, ở mọi nhóm. Ví dụ: xưởng may cho nghỉ một nửa số công nhân (mất), nhưng thợ làm máy, công nhân ở ngành chủ xưởng đầu tư, và người làm hàng mà người mua áo chi 20 USD dư ra đều có thêm việc (được). Hazlitt khẳng định cái được ít nhất bằng cái mất; đây là cách áp dụng trực tiếp "bài học" vào việc làm.
 
 **Cái thấy được và cái không thấy (the seen and the unseen).** Cách gọi xuyên suốt cuốn sách: hệ quả trước mắt, dễ nhìn thấy, đối lập với hệ quả gián tiếp, phân tán. Trong chương này, công nhân bị cho nghỉ là cái thấy được; việc làm phát sinh từ lợi nhuận được chi lại và từ giá áo rẻ hơn là cái không thấy.
 
 **Cầu co giãn (elastic demand).** Cầu về một mặt hàng gọi là co giãn nếu khi giá giảm, tổng số tiền người mua chi cho mặt hàng đó lại tăng. Ví dụ minh hoạ của người tổng hợp: áo giảm từ 50 xuống 30 USD, số áo bán ra tăng từ 1.000 lên 2.000 chiếc, tổng chi tăng từ 50.000 lên 60.000 USD. Khi cầu co giãn, chính ngành dùng máy có thể thuê nhiều người hơn trước. Hazlitt nhấn mạnh việc làm tăng thêm **không phụ thuộc** vào độ co giãn này: nếu cầu không co giãn, việc làm mới xuất hiện ở ngành khác.
 
-**Lương thực tế (real wages).** Lượng hàng hoá và dịch vụ mà một khoản lương mua được, khác với lương danh nghĩa (số tiền ghi trên phiếu lương). Ví dụ: lương giữ nguyên 40 USD/tuần mà giá áo giảm từ 50 xuống 30 USD thì lương thực tế tính theo áo tăng. Hazlitt kết luận máy móc luôn làm tăng lương thực tế, dù qua đường tăng lương danh nghĩa hay qua đường hạ giá.
+**Lương thực tế (real wages).** Lượng hàng hoá và dịch vụ mà một khoản lương mua được, khác với lương danh nghĩa (số tiền ghi trên phiếu lương). Ví dụ minh hoạ của người tổng hợp: lương giữ nguyên 40 USD/tuần mà giá áo giảm từ 50 xuống 30 USD thì lương thực tế tính theo áo tăng. Hazlitt kết luận máy móc luôn làm tăng lương thực tế, dù qua đường tăng lương danh nghĩa hay qua đường hạ giá.
 
 **Quy định tạo việc và thuê thừa người (make-work rules, featherbedding).** Các quy định, thường do công đoàn áp đặt, buộc chủ dùng nhiều người hơn hoặc làm theo cách chậm hơn mức cần thiết. Ví dụ trong chương: thợ điện trực cả ngày chỉ để bật tắt công tắc; thợ sơn bị buộc dùng cọ thay súng phun. Chúng là hệ quả thực tế của ngụy biện máy móc, và là chủ đề mở đầu của Chương 8.
 
@@ -325,7 +326,7 @@
 
 ## Nội dung chi tiết
 
-### 1. Một ngụy biện sống dai và kết luận vô lý của nó
+### 1. Một ngụy biện sống dai và kết luận vô lý của nó (mục 1 của chương gốc, mở đầu chương)
 
 Hazlitt mở đầu bằng nhận xét: trong mọi ảo tưởng kinh tế, niềm tin rằng **tính trên tổng thể máy móc tạo ra thất nghiệp** là một trong những ảo tưởng sống dai nhất. "Bị đập tan một nghìn lần, nó lại sống dậy một nghìn lần từ đống tro của chính nó, khoẻ mạnh như cũ." Mỗi khi có thất nghiệp hàng loạt kéo dài, máy móc lại bị đổ lỗi. Ngụy biện này vẫn là cơ sở của nhiều quy định của công đoàn, và công chúng chấp nhận các quy định đó vì hoặc tin rằng công đoàn đúng, hoặc quá rối để thấy chỗ sai.
 
@@ -333,7 +334,7 @@ Nếu giữ niềm tin ấy một cách nhất quán, ta đi tới kết luận 
 
 Hazlitt lấy ngay ví dụ nổi tiếng nhất của kinh tế học. Ở Chương 1 cuốn *Của cải của các dân tộc* (1776), Adam Smith viết rằng một người thợ không biết dùng máy móc trong nghề làm ghim "khó làm nổi một chiếc ghim mỗi ngày, và chắc chắn không làm nổi 20 chiếc", còn khi có máy móc thì mỗi người làm được 4.800 chiếc. Hazlitt mỉa mai: vậy là ngay thời Adam Smith, cứ giữ lại một thợ làm ghim thì máy móc đã đuổi việc từ 240 đến 4.800 người. Nếu máy móc chỉ làm người ta mất việc, ngành làm ghim lúc ấy đã thất nghiệp 99,98% (4.799 trên 4.800). "Còn gì đen tối hơn được nữa?"
 
-### 2. Bằng chứng lịch sử: ngành dệt tất và ngành dệt bông ở Anh
+### 2. Bằng chứng lịch sử: ngành dệt tất và ngành dệt bông ở Anh (mục 1, đoạn về ngành dệt)
 
 "Còn đen tối hơn được", Hazlitt viết tiếp, vì Cách mạng Công nghiệp khi ấy mới bắt đầu.
 
@@ -351,7 +352,7 @@ Hazlitt thừa nhận một điều quan trọng: **xét theo tương lai gần,
 
 Phát minh của Arkwright cũng bị phản đối vì đe doạ sinh kế người lao động, và sự phản đối phải dẹp bằng vũ lực.
 
-### 3. Những người sợ công nghệ thế kỷ 19: David Wells (1889)
+### 3. Những người sợ công nghệ thế kỷ 19: David Wells (1889) (mục 1, đoạn về Wells)
 
 Hazlitt đặt ra từ *technophobes* (người sợ công nghệ) và nói rằng sách *Recent Economic Changes* của David A. Wells (1889) có những đoạn mà, nếu bỏ đi năm tháng và con số tuyệt đối, có thể do người sợ công nghệ thời 1946 viết. Ba đoạn Hazlitt trích:
 
@@ -363,7 +364,7 @@ Hazlitt đặt ra từ *technophobes* (người sợ công nghệ) và nói rằ
 
 Hazlitt nhận xét: con số cuối lẽ ra phải khiến Wells dừng lại và tự hỏi vì sao năm 1889 thế giới vẫn còn việc làm. Nhưng Wells chỉ kết luận, với một chút bi quan dè dặt, rằng "trong hoàn cảnh ấy, sản xuất thừa trong công nghiệp... có thể trở thành kinh niên".
 
-### 4. Suy thoái 1932, phong trào Technocrats và các quy định tạo việc của công đoàn
+### 4. Suy thoái 1932, phong trào Technocrats và các quy định tạo việc của công đoàn (mục 1, cuối mục)
 
 Trong cuộc suy thoái năm 1932, trò đổ lỗi thất nghiệp cho máy móc bắt đầu lại. Chỉ trong vài tháng, học thuyết của nhóm tự gọi là **Technocrats** lan khắp nước Mỹ "như cháy rừng". Hazlitt không kể lại những con số hoang đường của họ; ông chỉ nói họ quay lại nguyên vẹn sai lầm rằng máy móc thay người vĩnh viễn, nhưng vì không biết lịch sử nên trình bày nó như phát hiện mới mang tính cách mạng của riêng mình. Đó là một minh hoạ nữa cho câu cách ngôn của Santayana: ai không nhớ được quá khứ thì bị buộc phải lặp lại nó.
 
@@ -381,15 +382,15 @@ Tháng 3/1941, Corwin Edwards, đại diện Bộ Tư pháp Mỹ, điều trần
 
 Hazlitt kể thêm: trong ngành đường sắt, công đoàn đòi phải có thợ đốt lò trên những loại đầu máy không cần đốt lò; trong nhà hát, công đoàn đòi thuê người chuyển cảnh cả cho vở diễn không dùng cảnh; công đoàn nhạc công đòi thuê nhạc công "dự phòng", thậm chí cả dàn nhạc, trong nhiều trường hợp chỉ cần phát đĩa hát.
 
-### 5. Vì sao phải hiểu bằng suy luận, và hệ quả nếu ngụy biện là đúng
+### 5. Vì sao phải hiểu bằng suy luận, và hệ quả nếu ngụy biện là đúng (mục 2 của chương gốc, đầu mục)
 
 Hazlitt nói có thể chất cả núi số liệu để chứng minh người sợ công nghệ trước đây sai, nhưng vô ích nếu không hiểu rõ **vì sao** họ sai. Trong kinh tế học, số liệu và lịch sử vô dụng nếu không kèm một hiểu biết bằng suy luận (deductive understanding) về lý do các hệ quả trong quá khứ **buộc phải** xảy ra. Nếu không, người sợ công nghệ sẽ đáp: "Quá khứ thì có thể đúng, nhưng hôm nay điều kiện đã khác hẳn, và giờ ta không thể phát triển thêm máy tiết kiệm lao động nữa." Bà Eleanor Roosevelt, trong chuyên mục báo ngày 19/9/1945, viết: "Ngày nay chúng ta đã tới mức mà thiết bị tiết kiệm lao động chỉ tốt khi chúng không làm người lao động mất việc."
 
-Nếu máy móc thật sự gây thất nghiệp và khốn khổ ngày càng tăng, hệ quả sẽ mang tính cách mạng cho toàn bộ quan niệm về văn minh: không chỉ mọi tiến bộ kỹ thuật sắp tới là tai hoạ, mà mọi tiến bộ đã qua cũng đáng ghê sợ. Trong khi đó, hằng ngày ai cũng tìm cách giảm công sức cần để đạt một kết quả: chủ doanh nghiệp lớn và nhỏ tìm cách làm rẻ và hiệu quả hơn, tức là tiết kiệm lao động; người thợ thông minh tìm cách bớt công cho việc được giao; người tham vọng tìm cách làm được nhiều hơn trong cùng số giờ. Người sợ công nghệ, nếu nhất quán, phải coi tất cả những nỗ lực đó là có hại. Hazlitt hỏi: sao lại chở hàng từ New York tới Chicago bằng đường sắt, khi có thể thuê nhiều người hơn hẳn để cõng hàng trên lưng?
+Nếu máy móc thật sự gây thất nghiệp và khốn khổ ngày càng tăng, hệ quả sẽ mang tính cách mạng cho toàn bộ quan niệm về văn minh: không chỉ mọi tiến bộ kỹ thuật sắp tới là tai hoạ, mà mọi tiến bộ đã qua cũng đáng ghê sợ. Trong khi đó, hằng ngày ai cũng tìm cách giảm công sức cần để đạt một kết quả: chủ doanh nghiệp lớn và nhỏ tìm cách làm rẻ và hiệu quả hơn, tức là tiết kiệm lao động; người thợ thông minh tìm cách bớt công cho việc được giao; người tham vọng tìm cách làm được nhiều hơn trong cùng số giờ. Người sợ công nghệ, nếu nhất quán, phải coi tất cả những tiến bộ và sáng kiến đó không chỉ là vô ích mà còn là tai hại. Hazlitt hỏi: sao lại chở hàng từ New York tới Chicago bằng đường sắt, khi có thể thuê nhiều người hơn hẳn để cõng hàng trên lưng?
 
 Thuyết sai như vậy không bao giờ được giữ nhất quán, nhưng vẫn gây hại lớn vì người ta vẫn tin nó.
 
-### 6. Ví dụ xưởng may: tiền tiết kiệm được đi đâu
+### 6. Ví dụ xưởng may: tiền tiết kiệm được đi đâu (mục 2, phần còn lại)
 
 Hazlitt dựng một ví dụ "bao gồm các khả năng chính". Một chủ xưởng may biết có loại máy làm áo khoác nam và nữ chỉ cần nửa lượng lao động trước đây. Ông lắp máy và cho nghỉ nửa số công nhân. Thoạt nhìn, đây là mất việc rõ ràng. Hazlitt lần theo từng bước:
 
@@ -424,7 +425,7 @@ Kết luận của Hazlitt: **tính trên tổng thể, máy móc, cải tiến 
 
 **Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số ước lượng). Một chuỗi siêu thị lắp quầy tự thanh toán, giảm 20 nhân viên thu ngân, mỗi người lương 8 triệu đồng/tháng, tức tiết kiệm 160 triệu đồng/tháng, sau khi trừ chi phí thuê và bảo trì máy còn khoảng 100 triệu. Theo lập luận của Hazlitt, 100 triệu này đi vào mở thêm cửa hàng (thuê nhân viên mới), đầu tư hệ thống kho, hoặc giảm giá hàng do cạnh tranh với chuỗi khác. Nếu giá giảm, khách hàng còn dư tiền đi ăn uống, du lịch, tạo việc ở những ngành đó. Cái thấy được là 20 người thu ngân mất việc; cái không thấy là việc làm sinh ra ở những nơi tiền tiết kiệm được chảy tới.
 
-### 7. Không nên đẩy lập luận quá xa
+### 7. Không nên đẩy lập luận quá xa (mục 3 của chương gốc, nửa đầu)
 
 Hazlitt nói rõ ông chọn ví dụ áo khoác vì đó là đúng loại máy mà nỗi sợ công nghệ nhắm tới. Nhiều phát minh khác không "tiết kiệm lao động": dụng cụ chính xác, nylon, lucite, gỗ dán và các loại nhựa chỉ nâng chất lượng sản phẩm; điện thoại, máy bay làm những việc mà sức người không làm được; tia X, radio, cao su tổng hợp tạo ra những thứ trước đó không tồn tại.
 
@@ -441,15 +442,15 @@ Hazlitt nói rõ ông chọn ví dụ áo khoác vì đó là đúng loại máy
 
 Theo một nghĩa tuyệt đối, máy móc đã làm số việc làm tăng vọt: dân số thế giới năm 1946 gấp ba lần giữa thế kỷ 18, trước khi Cách mạng Công nghiệp thật sự bắt đầu. Không có máy móc, thế giới không nuôi nổi số dân đó. Vậy cứ ba người thì hai người nợ máy móc không chỉ việc làm mà cả mạng sống của mình.
 
-### 8. Chức năng thật của máy móc: tăng sản xuất và lương thực tế
+### 8. Chức năng thật của máy móc: tăng sản xuất và lương thực tế (mục 3, nửa sau)
 
-Dù vậy, Hazlitt cho rằng coi chức năng hay kết quả chính của máy móc là **tạo việc làm** là hiểu sai. Kết quả thật của máy móc là tăng sản xuất, nâng mức sống, tăng phúc lợi kinh tế. Cho mọi người có việc làm không phải là chuyện khó, nhất là trong nền kinh tế lạc hậu nhất. Toàn dụng lao động, "toàn dụng thật sự, dài, mệt mỏi, còng lưng", chính là đặc điểm của những nước lạc hậu nhất về công nghiệp.
+Dù vậy, Hazlitt cho rằng coi chức năng hay kết quả chính của máy móc là **tạo việc làm** là hiểu sai. Kết quả thật của máy móc là tăng sản xuất, nâng mức sống, tăng phúc lợi kinh tế. Cho mọi người có việc làm không phải là chuyện khó, ngay cả (hay nhất là) trong nền kinh tế nguyên thuỷ nhất. Toàn dụng lao động, "toàn dụng thật sự, dài, mệt mỏi, còng lưng", chính là đặc điểm của những nước lạc hậu nhất về công nghiệp.
 
 Ở nơi đã có toàn dụng lao động, máy móc, phát minh mới không thể đem lại thêm việc làm cho tới khi dân số kịp tăng. Chúng có thể đem lại thêm thất nghiệp, nhưng là **thất nghiệp tự nguyện** chứ không phải bị ép: người ta giờ có điều kiện làm ít giờ hơn, trẻ em và người già không cần đi làm nữa. (Đây là ý dẫn sang Chương 10.)
 
 Máy móc nâng mức sống theo hai cách: làm hàng hoá rẻ hơn cho người tiêu dùng (như ví dụ áo khoác), hoặc tăng lương vì tăng năng suất người lao động. Nói cách khác, hoặc lương danh nghĩa tăng, hoặc giá giảm khiến cùng một khoản lương mua được nhiều hơn; đôi khi cả hai. Diễn biến thực tế phụ thuộc nhiều vào chính sách tiền tệ của từng nước. Nhưng dù theo đường nào, máy móc, phát minh và khám phá đều làm **tăng lương thực tế**.
 
-### 9. Lời cảnh báo: nhìn Joe Smith, nhưng không chỉ nhìn Joe Smith
+### 9. Lời cảnh báo: nhìn Joe Smith, nhưng không chỉ nhìn Joe Smith (mục 4 của chương gốc)
 
 Hazlitt kết chương bằng một cảnh báo hai chiều.
 
@@ -492,7 +493,7 @@ Tính trên tổng thể, máy móc và cải tiến kỹ thuật tiết kiệm 
 - Xưởng ghim của Adam Smith: có máy móc thì mỗi người làm 4.800 ghim/ngày, không có thì chưa nổi 20 chiếc; nếu máy chỉ đuổi việc thì ngành ghim đã thất nghiệp 99,98%.
 - Ngành dệt tất Anh: bạo loạn đập hơn 1.000 khung; 50.000 thợ khổ 40 năm; nhưng cuối thế kỷ 19 dùng ít nhất 100 người cho mỗi người đầu thế kỷ.
 - Ngành dệt bông Anh: từ 7.900 người lúc có máy Arkwright tăng lên 320.000 người năm 1787.
-- David Wells (1889): cảng Anh xử lý thêm 22 triệu tấn hàng mà dùng ít hơn 2.990 người; thép Bessemer giảm từ 80 xuống dưới 20 USD/tấn; máy hơi nước thế giới bằng sức 1 tỉ người.
+- David Wells (1889): đội tàu buôn Anh chuyên chở thêm 22 triệu tấn hàng mà dùng ít hơn 2.990 người; thép Bessemer giảm từ 80 xuống dưới 20 USD/tấn; máy hơi nước thế giới bằng sức 1 tỉ người.
 - Ví dụ quy định tạo việc (TNEC 1941): tháo lắp lại thiết bị điện, cắt và tiện lại ren ống, cấm súng phun sơn, tài xế thứ hai, thợ điện bật công tắc, thợ đốt lò, người chuyển cảnh, nhạc công dự phòng.
 - Ví dụ suy luận: xưởng áo khoác, giá giảm từ 50 xuống 30 USD.
 - Việc làm ngành ô tô Mỹ tăng từ 140.000 người (1910) lên 450.000 người (1940); năm 1940 ngành tủ lạnh điện có 35.000 người, ngành radio 60.000 người.
@@ -502,12 +503,12 @@ Tính trên tổng thể, máy móc và cải tiến kỹ thuật tiết kiệm 
 
 - Không nên cản trở máy móc, cũng không nên chấp nhận các quy định tạo việc và thuê thừa người của công đoàn; chúng làm tăng chi phí mà không tăng việc làm tổng thể.
 - Đánh giá công nghệ theo sản lượng và mức sống nó tạo ra, không theo số việc làm nó tạo ra hay phá đi.
-- Tổn thất của người bị thay thế là thật và phải được tính tới; Hazlitt để ngỏ cách xử lý (tự điều chỉnh, trợ cấp thôi việc, trợ cấp thất nghiệp, đào tạo lại bằng tiền nhà nước).
+- Tổn thất của người bị thay thế là thật và phải được tính tới; Hazlitt để ngỏ cách xử lý (tự điều chỉnh, trợ cấp thôi việc, trợ cấp thất nghiệp, đưa vào diện cứu trợ, đào tạo lại bằng tiền nhà nước).
 - Nguyên tắc chung: luôn đặt tác động trước mắt lên nhóm đặc biệt cạnh tác động dài hạn lên mọi nhóm.
 
 ### Trong ngôn ngữ kinh tế học hiện đại
 
-- **Ngụy biện khối lượng lao động cố định (lump of labour fallacy).** Niềm tin rằng có một lượng việc cố định để chia, nên máy làm nhiều thì người làm ít. Hazlitt bác nó ở đây và gọi tên nó ở Chương 8.
+- **Ngụy biện khối lượng lao động cố định (lump of labour fallacy).** Niềm tin rằng có một lượng việc cố định để chia, nên máy làm nhiều thì người làm ít. Hazlitt bác nó ở đây và mô tả nó rõ hơn ở đầu Chương 8 ("there is just a fixed amount of work to be done in the world"), dù ông không dùng tên gọi này.
 - **Hiệu ứng thay thế và hiệu ứng bù đắp (displacement and compensation effects).** Các vòng 2–5 của ví dụ áo khoác chính là các "cơ chế bù đắp" mà kinh tế học đã bàn từ thế kỷ 19. Daron Acemoglu và Pascual Restrepo (cuối thập niên 2010) mô hình hoá lại: tự động hoá có hiệu ứng thay thế (displacement), được bù bằng hiệu ứng năng suất và hiệu ứng "phục hồi" (reinstatement) khi công nghệ tạo ra nhiệm vụ mới cho con người. Kết quả ròng không tự động dương; nó phụ thuộc vào việc công nghệ có tạo ra nhiệm vụ mới hay không.
 - **Độ co giãn của cầu theo giá (price elasticity of demand).** Hazlitt dùng đúng khái niệm này ở bước 4; nghiên cứu của James Bessen về máy dệt thế kỷ 19 và máy rút tiền tự động (ATM) thế kỷ 20 cho thấy khi cầu co giãn, tự động hoá có thể làm tăng việc làm trong chính ngành đó.
 - **Thất nghiệp công nghệ và thất nghiệp cơ cấu (technological / structural unemployment).** Trường hợp Joe Smith: người mất việc vì kỹ năng không còn được cầu, cần thời gian và đào tạo để chuyển ngành.
@@ -536,7 +537,7 @@ Tính trên tổng thể, máy móc và cải tiến kỹ thuật tiết kiệm 
 
 ## Câu nói đáng nhớ
 
-> "Trong mọi ảo tưởng kinh tế, một trong những ảo tưởng sống dai nhất là niềm tin rằng tính trên tổng thể máy móc tạo ra thất nghiệp. Bị đập tan một nghìn lần, nó lại sống dậy một nghìn lần từ đống tro của chính nó."
+> "Trong mọi ảo tưởng kinh tế, một trong những ảo tưởng sống dai nhất là niềm tin rằng tính trên tổng thể máy móc tạo ra thất nghiệp. Bị đập tan một nghìn lần, nó lại sống dậy một nghìn lần từ đống tro của chính nó, vẫn khoẻ mạnh, sung sức như bao giờ."
 >
 > *Among the most viable of all economic delusions is the belief that machines on net balance create unemployment. Destroyed a thousand times, it has risen a thousand times out of its own ashes as hardy and vigorous as ever.*
 
@@ -544,11 +545,13 @@ Tính trên tổng thể, máy móc và cải tiến kỹ thuật tiết kiệm 
 >
 > *Statistics and history are useless in economics unless accompanied by a basic deductive understanding of the facts.*
 
-> "Cho mọi người có việc làm chẳng phải là mánh khoé gì, ngay cả (hay nhất là) trong nền kinh tế nguyên thuỷ nhất."
+> "Cho mọi người có việc làm chẳng có gì khó, ngay cả (hay nhất là) trong nền kinh tế nguyên thuỷ nhất."
 >
 > *It is no trick to employ everybody, even (or especially) in the most primitive economy.*
 
-> "Họ chỉ để mắt tới Joe Smith, và quên Tom Jones vừa có việc làm máy mới, Ted Brown vừa có việc vận hành máy, và Daisy Miller giờ mua được chiếc áo với nửa giá cũ."
+> "Nhưng rồi điều họ làm là chỉ để mắt tới Joe Smith, và quên Tom Jones vừa có việc làm máy mới, Ted Brown vừa có việc vận hành máy, và Daisy Miller giờ mua được chiếc áo với nửa giá cũ."
+>
+> *But what they then proceed to do is to keep their eyes only on Joe Smith, and to forget Tom Jones, who has just got a new job in making the new machine, and Ted Brown, who has just got a job operating one, and Daisy Miller, who can now buy a coat for half what it used to cost her.*
 
 > "Nếu chúng ta sai về điều này, thì ít có điều gì trong kinh tế học mà chúng ta có thể đúng."
 >
@@ -568,7 +571,7 @@ Cả lập luận bước 2 và bước 5 dựa trên giả định rằng mọi
 
 ### Hazlitt đúng khi nói chức năng của máy là tăng sản xuất chứ không phải tạo việc, và đây là ý sâu nhất chương
 
-Ý "cho mọi người có việc làm chẳng phải mánh khoé gì" đảo ngược câu hỏi chính sách. Câu hỏi đúng không phải là "công nghệ này tạo hay phá bao nhiêu việc", mà là "nó làm ra thêm bao nhiêu thứ người ta muốn, và lợi ích ấy được chia ra sao". Nhận xét rằng giàu lên thì xã hội "mua" thêm thời gian rảnh (làm ít giờ hơn, trẻ em đi học, người già nghỉ hưu) đã được dữ liệu thế kỷ 20 xác nhận: số giờ làm mỗi năm ở các nước giàu giảm mạnh so với năm 1900. Ý này được triển khai đầy đủ ở Chương 10.
+Ý "cho mọi người có việc làm chẳng có gì khó" đảo ngược câu hỏi chính sách. Câu hỏi đúng không phải là "công nghệ này tạo hay phá bao nhiêu việc", mà là "nó làm ra thêm bao nhiêu thứ người ta muốn, và lợi ích ấy được chia ra sao". Nhận xét rằng giàu lên thì xã hội "mua" thêm thời gian rảnh (làm ít giờ hơn, trẻ em đi học, người già nghỉ hưu) đã được dữ liệu thế kỷ 20 xác nhận: số giờ làm mỗi năm ở các nước giàu giảm mạnh so với năm 1900. Ý này được triển khai đầy đủ ở Chương 10.
 
 ### Các bằng chứng lịch sử của Hazlitt có sai sót và nên dùng thận trọng
 

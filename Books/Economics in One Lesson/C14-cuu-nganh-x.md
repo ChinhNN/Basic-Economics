@@ -9,7 +9,7 @@
 
 ## Sơ đồ
 
-### Phần 1: lời vận động của ngành X trước Quốc hội — hai vòng lan toả
+### Phần 1 (mục 1 của chương, đoạn mở đầu): lời vận động của ngành X trước Quốc hội — hai vòng lan toả
 
 ```text
        HÀNH LANG QUỐC HỘI đầy người đại diện cho NGÀNH X (một ngành bất
@@ -36,7 +36,7 @@
        ngoài nông nghiệp còn VÔ SỐ ngành X khác
 ```
 
-### Phần 2: hai ví dụ gần đây — cứu bạc và cứu than
+### Phần 2 (phần còn lại của mục 1, và câu mở đầu mục 2): hai ví dụ gần đây — cứu bạc và cứu than
 
 ```text
        ① CỨU BẠC: để "cứu bạc", Quốc hội Mỹ đã gây "tác hại khổng lồ"
@@ -48,7 +48,7 @@
        · mục tiêu chính trị của "các thượng nghị sĩ bạc" (nghị sĩ các
          bang có mỏ bạc) lẽ ra đạt được với MỘT PHẦN NHỎ thiệt hại và
          chi phí, nếu trả TRỢ CẤP THẲNG cho chủ mỏ hoặc thợ mỏ
-       · NHƯNG Quốc hội và cử tri sẽ không bao giờ duyệt "một vụ cướp
+       · NHƯNG Quốc hội và cả nước sẽ không bao giờ duyệt "một vụ cướp
          trắng trợn" như vậy nếu nó không đi kèm màn ngụy tạo tư tưởng
          về "vai trò thiết yếu của bạc trong tiền tệ quốc gia"
                                 │
@@ -70,7 +70,7 @@
        xảy ra khi cứu bất kỳ ngành nào
 ```
 
-### Phần 3: phạm vi lập luận — chỉ bác một lý lẽ
+### Phần 3 (mục 2, nửa đầu): phạm vi lập luận — chỉ bác một lý lẽ
 
 ```text
        NHỮNG LÝ DO CỨU NGÀNH MÀ HAZLITT GÁC LẠI (có thể đúng hoặc sai
@@ -100,7 +100,7 @@
        · (b) cho rằng ngành X cần TRỢ CẤP TRỰC TIẾP từ chính phủ
 ```
 
-### Phần 4: cách thứ nhất — chặn người mới vào ngành "quá đông"
+### Phần 4 (mục 2, nửa sau): cách thứ nhất — chặn người mới vào ngành "quá đông"
 
 ```text
        NẾU ngành X THẬT SỰ quá đông so với các ngành khác, thì KHÔNG CẦN
@@ -129,13 +129,14 @@
        · CHI PHÍ SINH HOẠT bình quân CAO HƠN, hoặc cả hai
          (kết quả cụ thể tuỳ CHÍNH SÁCH TIỀN TỆ đi kèm)
        · BÊN TRONG ngành X: lương và lợi nhuận trên vốn có thể được giữ
-         CAO HƠN bình thường
+         CAO HƠN so với khi không có các chính sách hạn chế này
        · Ở CÁC NGÀNH KHÁC: lương và lợi nhuận trên vốn bị ép THẤP HƠN
+         so với khi không có các chính sách đó
        → ngành X được lợi CHỈ BẰNG CÁCH bắt các ngành khác (Hazlitt gọi
          là các ngành A, B, C) chịu thiệt
 ```
 
-### Phần 5: cách thứ hai — trợ cấp trực tiếp từ ngân sách
+### Phần 5 (mục 3 của chương): cách thứ hai — trợ cấp trực tiếp từ ngân sách
 
 ```text
        TRỢ CẤP TRỰC TIẾP thực chất chỉ là CHUYỂN của cải hay thu nhập
@@ -161,7 +162,7 @@
          không trợ cấp
 ```
 
-### Phần 6: ngành đang chết phải được phép chết
+### Phần 6 (mục 4 của chương): ngành đang chết phải được phép chết
 
 ```text
        CHÍNH NGƯỜI ỦNG HỘ ngành X nói rằng ngành đang thu hẹp hay đang
@@ -203,9 +204,9 @@
 
 **Chuyển giao và thiệt hại ròng (transfer vs. net loss).** Chuyển giao là khi một bên được đúng bằng phần bên kia mất, tổng của cải không đổi. Thiệt hại ròng là phần cả xã hội mất thêm vì sản xuất kém đi. Ví dụ minh hoạ của người tổng hợp: nhà nước thu 100 đồng thuế để trợ cấp ngành X; ngành X được 100, người nộp thuế mất 100 (chuyển giao). Nhưng lao động và vốn mà 100 đồng đó giữ lại ở ngành X, nếu ở ngành khác, đã làm ra hàng hoá trị giá chẳng hạn 130; ở ngành X chúng chỉ làm ra 100. Phần 30 là thiệt hại ròng. Hazlitt nhấn: trợ cấp không chỉ là chuyển giao, mà luôn kèm thiệt hại ròng.
 
-**Rào cản gia nhập ngành (barriers to entry).** Mọi biện pháp ngăn doanh nghiệp hay công nhân mới vào một ngành: giấy phép hạn chế, cartel, quy định của công đoàn, luật. Ví dụ trong chương: lập luận rằng ngành X "quá đông" (overcrowded). Hazlitt chỉ ra: nếu ngành thật sự quá đông, lương thấp, lợi nhuận thấp thì chẳng ai muốn vào, không cần chặn; luật chặn chỉ có tác dụng khi có người muốn vào, tức là khi ngành không thật sự tệ như người ta nói.
+**Rào cản gia nhập ngành (barriers to entry).** Mọi biện pháp ngăn doanh nghiệp hay công nhân mới vào một ngành: giấy phép hạn chế, cartel, quy định của công đoàn, luật. Ví dụ trong chương: lập luận rằng ngành X "quá đông" (overcrowded). Hazlitt chỉ ra: nếu ngành thật sự quá đông, lương thấp, lợi nhuận thấp thì chẳng ai muốn vào, không cần chặn. Người tổng hợp suy ra thêm: luật chặn chỉ có tác dụng khi có người muốn vào, tức là khi ngành không thật sự tệ như người ta nói.
 
-**Ấn định giá sàn bằng cartel cưỡng bức.** Nhà nước buộc các nhà sản xuất thoả thuận không bán dưới một mức giá. Ví dụ: Đạo luật Guffey cho ngành than, dẫn tới 350.000 mức giá riêng vì than khác nhau về cỡ, mỏ và nơi giao. Quan trọng vì nó cho thấy một mức giá "thị trường" thật ra là hàng trăm nghìn mức giá mà không cơ quan nào tính thay được (ý này được Chương 15 phát triển).
+**Ấn định giá sàn bằng cartel cưỡng bức.** Nhà nước buộc các nhà sản xuất thoả thuận không bán dưới một mức giá. Ví dụ: Đạo luật Guffey cho ngành than, dẫn tới 350.000 mức giá riêng vì than khác nhau về cỡ, mỏ và nơi giao. Nhận xét của người tổng hợp: ví dụ cho thấy cái gọi là "giá" than thật ra là hàng trăm nghìn mức giá, và một cơ quan nhà nước muốn ấn định thay thị trường thì phải tự tính từng mức (Chương 15 bàn cách hệ thống giá điều phối hàng chục nghìn loại hàng; Hazlitt không tự nối ví dụ này với Chương 15).
 
 **Lựa chọn thay thế (substitution).** Khi một hàng hoá bị giữ giá cao, người mua chuyển sang thứ khác làm được cùng việc. Ví dụ: than bị giữ giá cao làm người tiêu dùng chuyển nhanh hơn sang dầu, khí tự nhiên và thuỷ điện. Quan trọng vì nó cho thấy cứu giá có thể làm ngành X chết **nhanh hơn**.
 
@@ -213,29 +214,29 @@
 
 ## Nội dung chi tiết
 
-### 1. Lời vận động quen thuộc của ngành X
+### 1. Lời vận động quen thuộc của ngành X (mục 1, đoạn mở đầu)
 
-Hazlitt mở chương bằng một cảnh: hành lang Quốc hội đông nghịt người đại diện cho ngành X. Họ nói ngành X đang ốm, đang chết, phải được cứu, và chỉ có thể cứu bằng thuế quan, bằng giá cao hơn hoặc bằng trợ cấp. Nếu để ngành chết, công nhân sẽ bị đuổi ra đường; chủ nhà trọ, tiệm tạp hoá, hàng thịt, cửa hàng quần áo và rạp chiếu bóng địa phương sẽ mất khách; suy thoái sẽ lan ra theo những vòng tròn ngày càng rộng. Còn nếu Quốc hội nhanh chóng cứu, ngành X sẽ mua thiết bị của các ngành khác, thuê thêm người; những người này sẽ chi tiêu ở hàng thịt, lò bánh, chỗ làm đèn neon; và thịnh vượng sẽ lan ra theo những vòng tròn ngày càng rộng.
+Hazlitt mở chương bằng một cảnh: hành lang Quốc hội đông nghịt người đại diện cho ngành X. Họ nói ngành X đang ốm, đang chết, phải được cứu, và chỉ có thể cứu bằng thuế quan, bằng giá cao hơn hoặc bằng trợ cấp. Nếu để ngành chết, công nhân sẽ bị đuổi ra đường; chủ nhà cho họ thuê, tiệm tạp hoá, hàng thịt, cửa hàng quần áo và rạp chiếu bóng địa phương sẽ mất khách; suy thoái sẽ lan ra theo những vòng tròn ngày càng rộng. Còn nếu Quốc hội nhanh chóng cứu, ngành X sẽ mua thiết bị của các ngành khác, thuê thêm người; những người này sẽ chi tiêu ở hàng thịt, lò bánh, chỗ làm đèn neon; và thịnh vượng sẽ lan ra theo những vòng tròn ngày càng rộng.
 
 Hazlitt nói đây chỉ là dạng tổng quát của trường hợp vừa xét ở chương trước, nơi ngành X là nông nghiệp. Nhưng ngành X thì có vô số.
 
-### 2. Hai ví dụ: cứu bạc và cứu than
+### 2. Hai ví dụ: cứu bạc và cứu than (phần còn lại của mục 1, và câu mở đầu mục 2)
 
-**Bạc.** Để "cứu bạc", Quốc hội Mỹ đã gây tác hại khổng lồ. Một lý lẽ cho kế hoạch là nó sẽ giúp "phương Đông". Một kết quả thực tế là gây giảm phát ở Trung Quốc, nước khi đó dùng bản vị bạc, và buộc Trung Quốc bỏ bản vị này. Bộ Tài chính Mỹ phải mua những đống bạc không cần thiết với giá cao vô lý, vượt xa giá thị trường, rồi cất trong kho. Theo Hazlitt, mục tiêu chính trị cốt lõi của "các thượng nghị sĩ bạc" có thể đạt được với một phần nhỏ thiệt hại và chi phí nếu trả thẳng một khoản trợ cấp cho chủ mỏ hoặc thợ mỏ. Nhưng Quốc hội và cử tri sẽ không bao giờ chấp nhận "một vụ cướp trắng trợn" (a naked steal) như thế nếu nó không đi kèm màn ngụy tạo tư tưởng về "vai trò thiết yếu của bạc trong tiền tệ quốc gia".
+**Bạc.** Để "cứu bạc", Quốc hội Mỹ đã gây tác hại khổng lồ. Một lý lẽ cho kế hoạch là nó sẽ giúp "phương Đông". Một kết quả thực tế là gây giảm phát ở Trung Quốc, nước khi đó dùng bản vị bạc, và buộc Trung Quốc bỏ bản vị này. Bộ Tài chính Mỹ phải mua những đống bạc không cần thiết với giá cao vô lý, vượt xa giá thị trường, rồi cất trong kho. Theo Hazlitt, mục tiêu chính trị cốt lõi của "các thượng nghị sĩ bạc" có thể đạt được với một phần nhỏ thiệt hại và chi phí nếu trả thẳng một khoản trợ cấp cho chủ mỏ hoặc thợ mỏ. Nhưng Quốc hội và cả nước sẽ không bao giờ chấp nhận "một vụ cướp trắng trợn" (a naked steal) như thế nếu nó không đi kèm màn ngụy tạo tư tưởng về "vai trò thiết yếu của bạc trong tiền tệ quốc gia".
 
 **Than.** Để cứu ngành than, Quốc hội thông qua Đạo luật Guffey. Theo luật này, chủ mỏ than không chỉ được phép mà bị buộc phải thông đồng với nhau để không bán dưới những mức giá tối thiểu do chính phủ ấn định. Quốc hội bắt đầu với ý định ấn định "giá" than, nhưng than có nhiều cỡ, có hàng nghìn mỏ, được chở tới hàng nghìn nơi bằng đường sắt, xe tải, tàu thuỷ và sà lan. Kết quả:
 
 | Ý định ban đầu | Thực tế |
 |---|---|
 | Ấn định "một" giá than | Ấn định **350.000 mức giá** riêng biệt |
-| Lý do phát sinh | Mỗi cách kết hợp giữa cỡ than, mỏ (hàng nghìn mỏ), nơi nhận (hàng nghìn nơi) và phương thức vận chuyển cần một mức giá riêng |
+| Lý do phát sinh (theo Hazlitt) | Than có nhiều cỡ, có hàng nghìn mỏ, và được chở tới hàng nghìn nơi khác nhau bằng đường sắt, xe tải, tàu thuỷ và sà lan |
 | Nguồn con số | Lời khai của Dan H. Wheeler, giám đốc Phòng Than bitum, tại phiên điều trần về gia hạn Đạo luật Than bitum 1937 |
 
 Một tác dụng của việc giữ giá than cao hơn mức cạnh tranh là đẩy nhanh xu hướng người tiêu dùng chuyển sang nguồn năng lượng và nhiệt khác: dầu, khí tự nhiên, thuỷ điện.
 
 Hazlitt nói rõ mục đích của chương không phải là kể lại mọi hậu quả lịch sử của các nỗ lực cứu từng ngành, mà là chỉ ra vài hậu quả chính **tất yếu** phải đi theo bất kỳ nỗ lực cứu ngành nào.
 
-### 3. Phạm vi: chỉ bác một lý lẽ
+### 3. Phạm vi: chỉ bác một lý lẽ (mục 2, nửa đầu)
 
 Hazlitt liệt kê những lý do cứu ngành mà ông không bàn: ngành cần được tạo ra hay giữ lại vì lý do quân sự; ngành bị huỷ hoại bởi thuế hay mức lương bất hợp lý so với ngành khác; ngành dịch vụ công (public utility) bị buộc bán với giá không đủ lãi. Những lý lẽ này đúng hay sai tuỳ trường hợp.
 
@@ -245,7 +246,7 @@ Hazlitt liệt kê những lý do cứu ngành mà ông không bàn: ngành cầ
 
 Ngoài thuế quan và giá sàn đã bàn, còn hai loại đề xuất cứu ngành chính: (a) nói rằng ngành X đã "quá đông" và tìm cách ngăn doanh nghiệp hay công nhân khác vào; (b) nói rằng ngành X cần trợ cấp trực tiếp từ chính phủ.
 
-### 4. Cách thứ nhất: chặn người mới vào ngành "quá đông"
+### 4. Cách thứ nhất: chặn người mới vào ngành "quá đông" (mục 2, nửa sau)
 
 Nếu ngành X thật sự quá đông so với các ngành khác, nó không cần luật cưỡng chế nào để ngăn vốn mới hay lao động mới. Vốn mới không đổ xô vào ngành rõ ràng đang chết. Nhà đầu tư không háo hức tìm tới ngành vừa có rủi ro lỗ cao nhất vừa có lợi nhuận thấp nhất. Công nhân, khi có lựa chọn tốt hơn, cũng không vào ngành có lương thấp nhất và triển vọng việc làm ổn định kém nhất.
 
@@ -254,9 +255,9 @@ Còn nếu vốn và lao động mới bị ép đứng ngoài ngành X, bằng 
 - Nhà đầu tư bị buộc đặt tiền vào nơi mà chính họ thấy kém hứa hẹn hơn ngành X.
 - Công nhân bị đẩy vào ngành có lương và triển vọng còn thấp hơn ngành X vốn được cho là "đang ốm".
 
-Nói gọn, cả vốn và lao động được dùng kém hiệu quả hơn so với khi họ được tự chọn. Sản xuất giảm, và điều này phải thể hiện thành mức sống bình quân thấp hơn: qua lương tiền bình quân thấp hơn, qua chi phí sinh hoạt bình quân cao hơn, hoặc cả hai (kết quả cụ thể phụ thuộc vào chính sách tiền tệ đi kèm). Các chính sách hạn chế này có thể giữ lương và lợi nhuận **trong** ngành X cao hơn bình thường, nhưng lương và lợi nhuận ở các ngành khác bị ép thấp hơn. Ngành X được lợi chỉ bằng cái giá mà các ngành khác (các ngành A, B và C) phải trả.
+Nói gọn, cả vốn và lao động được dùng kém hiệu quả hơn so với khi họ được tự chọn. Sản xuất giảm, và điều này phải thể hiện thành mức sống bình quân thấp hơn: qua lương tiền bình quân thấp hơn, qua chi phí sinh hoạt bình quân cao hơn, hoặc cả hai (kết quả cụ thể phụ thuộc vào chính sách tiền tệ đi kèm). Các chính sách hạn chế này có thể giữ lương và lợi nhuận **trong** ngành X cao hơn so với khi không có chúng, nhưng lương và lợi nhuận ở các ngành khác bị ép thấp hơn so với khi không có chúng. Ngành X được lợi chỉ bằng cái giá mà các ngành khác (các ngành A, B và C) phải trả.
 
-### 5. Cách thứ hai: trợ cấp trực tiếp từ ngân sách
+### 5. Cách thứ hai: trợ cấp trực tiếp từ ngân sách (mục 3)
 
 Trợ cấp trực tiếp cho ngành X dẫn tới kết quả tương tự. Nó chỉ là việc chuyển của cải hay thu nhập sang ngành X: người nộp thuế mất đúng bằng phần người trong ngành X được. Hazlitt nhận xét rằng, nhìn từ phía công chúng, ưu điểm lớn của trợ cấp chính là nó làm sự thật này rõ ràng; ít chỗ cho sự mù mờ trí tuệ đi kèm các lý lẽ về thuế quan, ấn định giá tối thiểu hay độc quyền loại trừ.
 
@@ -271,7 +272,7 @@ Nhưng không chỉ có chuyển giao. Hazlitt chỉ ra chỗ phát sinh **thi�
 | Các ngành khác (A, B, C) | Nhỏ đi: họ nộp thuế, và khách hàng của họ còn ít tiền hơn |
 | Cả nước | Thiệt hại ròng: nguồn lực bị dùng ở nơi kém hiệu quả hơn, tổng sản lượng thấp hơn |
 
-### 6. Ngành đang chết phải được phép chết
+### 6. Ngành đang chết phải được phép chết (mục 4)
 
 Những hậu quả này đã nằm sẵn trong chính lý lẽ đòi trợ cấp. Theo lời những người ủng hộ, ngành X đang thu hẹp hay đang chết. Vậy vì sao phải giữ nó sống bằng hô hấp nhân tạo?
 
@@ -376,7 +377,7 @@ Toàn bộ lập luận dựa trên giả định lao động và vốn rời ng
 
 ### Phép so sánh xe ngựa và ô tô hợp lý cho ngành bị công nghệ thay thế, kém thuyết phục hơn với khủng hoảng tạm thời
 
-Ví dụ xe ngựa nói về một ngành mất nhu cầu vĩnh viễn. Nhưng có những ngành gặp khó vì cú sốc tạm thời, như khủng hoảng tài chính đóng băng tín dụng, hay một giai đoạn giá nguyên liệu bất thường. Khi đó, để một doanh nghiệp còn sức sống phá sản có thể làm mất vốn tổ chức, mạng lưới nhà cung cấp và tay nghề vốn khó dựng lại. Các vụ cứu trợ ngành ô tô Mỹ năm 2008–2009 là ví dụ được tranh luận: người ủng hộ cho rằng nó tránh được sự sụp đổ của cả chuỗi cung ứng; người phản đối cho rằng nó tạo tiền lệ cứu doanh nghiệp yếu. Hazlitt không phân biệt ngành "đang chết" với ngành "đang ốm". Ông có lý khi nói rằng người vận động luôn trình bày ngành mình là "ốm tạm thời", nên gánh nặng chứng minh phải đặt lên họ.
+Ví dụ xe ngựa nói về một ngành mất nhu cầu vĩnh viễn. Nhưng có những ngành gặp khó vì cú sốc tạm thời, như khủng hoảng tài chính đóng băng tín dụng, hay một giai đoạn giá nguyên liệu bất thường. Khi đó, để một doanh nghiệp còn sức sống phá sản có thể làm mất vốn tổ chức, mạng lưới nhà cung cấp và tay nghề vốn khó dựng lại. Các vụ cứu trợ ngành ô tô Mỹ năm 2008–2009 là ví dụ được tranh luận: người ủng hộ cho rằng nó tránh được sự sụp đổ của cả chuỗi cung ứng; người phản đối cho rằng nó tạo tiền lệ cứu doanh nghiệp yếu. Hazlitt không phân biệt ngành "đang chết" với ngành "đang ốm". Có thể đáp thay ông (nhận định của người tổng hợp): chính người vận động nói ngành mình "đang ốm, đang chết" (đoạn mở đầu chương), và Hazlitt dựa vào đó ở mục 4 ("theo chính lời những người ủng hộ, ngành X đang thu hẹp hay đang chết"); nếu họ muốn coi khó khăn là tạm thời thì gánh nặng chứng minh thuộc về họ.
 
 ### Ví dụ bạc là ví dụ mạnh nhất về "cái không thấy" vượt khỏi biên giới
 

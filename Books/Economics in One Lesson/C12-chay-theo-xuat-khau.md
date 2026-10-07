@@ -3,17 +3,17 @@
 **Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied" (Bài học được áp dụng), Chương 12 "The Drive for Exports". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
 **Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
 **Vị trí trong lập luận của cả cuốn sách:** Chương 11 chỉ ra rằng thuế quan, khi chặn hàng nhập, cũng lấy mất đô la mà người nước ngoài cần để mua hàng Mỹ. Chương 12 đi tiếp từ đó: nếu nhập khẩu và xuất khẩu gắn liền nhau, thì vừa sợ nhập khẩu vừa khao khát xuất khẩu là mâu thuẫn. Chương này áp dụng "bài học" (Chương 1) vào hai cách "đẩy" xuất khẩu phổ biến sau Thế chiến II: chính phủ cho nước ngoài vay những khoản khó đòi để họ mua hàng Mỹ, và trợ cấp xuất khẩu. Nó cũng nối với Chương 6 (tín dụng chính phủ làm lệch hướng sản xuất) ở chỗ cả hai chương đều hỏi ai rốt cuộc trả tiền cho khoản cho vay của chính phủ. Chương 13 chuyển sang một nhóm lợi ích đặc biệt khác: nông dân đòi giá ngang giá (parity).
-**Ý chính:** Hazlitt muốn chứng minh rằng một nước không thể giàu lên bằng cách cho đi hàng hoá. Ông lập luận theo hai bước. Bước một: trong dài hạn, xuất khẩu và nhập khẩu (tính cả khoản "vô hình" như chi tiêu du lịch, cước vận tải biển) phải bằng nhau, vì xuất khẩu được trả bằng nhập khẩu; nhà xuất khẩu Mỹ nhận bảng Anh thì chỉ dùng được chúng để mua hàng Anh. Bước hai: cho nước ngoài vay để họ mua hàng Mỹ mà không đòi được nợ thì thực chất là tặng hàng. Ví dụ: hãng ô tô cho một người vay 1.000 USD để mua chiếc xe giá 1.000 USD, chi phí làm xe 900 USD, người đó chỉ trả 500 USD; hãng lỗ ròng 400 USD, dù đã "bán" được xe. Ở cấp quốc gia, nhà xuất khẩu có thể được lợi, nhưng người đóng thuế trả nợ xấu, và mỗi đô la thêm cho người mua nước ngoài là một đô la bớt đi của người mua trong nước. Trợ cấp xuất khẩu cũng vậy: bán cho người nước ngoài rẻ hơn chi phí tức là cho họ không một phần.
+**Ý chính:** Hazlitt muốn chứng minh rằng một nước không thể giàu lên bằng cách cho đi hàng hoá. Ông lập luận theo hai bước. Bước một: trong dài hạn, xuất khẩu và nhập khẩu (tính cả khoản "vô hình" như chi tiêu du lịch, cước vận tải biển) phải bằng nhau, vì xuất khẩu được trả bằng nhập khẩu; nhà xuất khẩu Mỹ nhận bảng Anh thì số bảng Anh ấy chỉ có ích khi được dùng để mua hàng Anh, do chính ông hoặc do một nhà nhập khẩu Mỹ mua lại chúng. Bước hai: cho nước ngoài vay để họ mua hàng Mỹ mà không đòi được nợ thì thực chất là tặng hàng. Ví dụ: hãng ô tô cho một người vay 1.000 USD để mua chiếc xe giá 1.000 USD, chi phí làm xe 900 USD, người đó chỉ trả 500 USD; hãng lỗ ròng 400 USD, dù đã "bán" được xe. Ở cấp quốc gia, nhà xuất khẩu có thể được lợi, nhưng người đóng thuế trả nợ xấu, và mỗi đô la thêm cho người mua nước ngoài là một đô la bớt đi của người mua trong nước. Trợ cấp xuất khẩu cũng vậy: bán cho người nước ngoài rẻ hơn chi phí tức là cho họ không một phần.
 
 > **Lưu ý:** (1) Bối cảnh: năm 1945–1946 Mỹ đang tranh luận về các khoản cho vay lớn để tái thiết châu Âu, tiêu biểu là khoản vay cho Anh (*Anglo-American Loan*) ký cuối 1945, được Quốc hội thông qua năm 1946, cùng với việc mở rộng Ngân hàng Xuất nhập khẩu Mỹ (*Export-Import Bank*). Một lý lẽ hay được viện ra là các khoản vay này sẽ "giữ cho nhà máy Mỹ chạy" sau chiến tranh. Kế hoạch Marshall (1948) ra đời sau khi sách xuất bản; năm 1947 Hazlitt viết hẳn một cuốn sách phê phán nó (*Will Dollars Save the World?*). (2) Hệ thống tiền tệ khi đó là Bretton Woods (1944): đô la gắn với vàng, các đồng tiền khác gắn với đô la, và nhiều nước còn kiểm soát ngoại hối chặt. Đoạn Hazlitt nói về vàng phải đọc trong bối cảnh này. (3) Khẳng định "trong dài hạn xuất khẩu và nhập khẩu phải bằng nhau" chỉ đúng khi tính cả dòng vốn (cho vay, đầu tư, mua tài sản). Từ thập niên 1970 Mỹ thâm hụt thương mại gần như liên tục, vì người nước ngoài dùng đô la mua trái phiếu, cổ phiếu, bất động sản Mỹ thay vì mua hàng; Hazlitt gạt các khoản này sang một bên khi lập luận (xem phần Đánh giá). (4) Câu trích là bản dịch của người tổng hợp.
 
 ## Sơ đồ
 
-### Phần 1: xuất khẩu được trả bằng nhập khẩu — sợ nhập khẩu mà khao khát xuất khẩu là mâu thuẫn
+### Phần 1 (mở đầu chương, đoạn 1–2): xuất khẩu được trả bằng nhập khẩu — sợ nhập khẩu mà khao khát xuất khẩu là mâu thuẫn
 
 ```text
        HAI CHỨNG BỆNH: mọi nước đều SỢ NHẬP KHẨU một cách bệnh hoạn, và
-       còn KHAO KHÁT XUẤT KHẨU một cách bệnh hoạn hơn
+       chỉ đứng sau nỗi sợ ấy là nỗi KHAO KHÁT XUẤT KHẨU cũng bệnh hoạn
        → Hazlitt: về logic, không có gì MÂU THUẪN hơn hai thái độ này
                                 │
                                 ▼
@@ -44,7 +44,7 @@
          được trả bằng một lượng hàng NHẬP KHẨU có giá trị tương đương
 ```
 
-### Phần 2: ngoại hối là phép bù trừ, không có gì bí ẩn
+### Phần 2 (đoạn 3–5, về thanh toán bằng đô la, bù trừ và vàng): ngoại hối là phép bù trừ, không có gì bí ẩn
 
 ```text
        NẾU NHÀ NHẬP KHẨU ANH TRẢ BẰNG ĐÔ LA thay vì bảng Anh, kết quả vẫn
@@ -75,13 +75,14 @@
        · nhưng nó cũng có thể được thanh toán bằng chở bông, thép, rượu
          whisky, nước hoa hay bất kỳ hàng nào khác
        · vàng chỉ khác các hàng ấy ở hai điểm: cầu về vàng gần như VÔ HẠN
-         (vì vàng được coi là "tiền" quốc tế dự phòng), và các nước KHÔNG
-         dựng rào cản khi NHẬN vàng như họ làm với mọi hàng khác
+         (một phần vì vàng được coi là "tiền" quốc tế dự phòng), và các
+         nước KHÔNG dựng rào cản khi NHẬN vàng như họ làm với gần như mọi
+         hàng khác
        · (Hazlitt thêm: gần đây các nước lại dựng nhiều rào cản hơn khi
          XUẤT vàng, "nhưng đó là chuyện khác")
 ```
 
-### Phần 3: cho nước ngoài vay để đẩy xuất khẩu — nợ không đòi được là hàng cho không
+### Phần 3 (đoạn 6–10, về cho vay nước ngoài và ví dụ hãng ô tô): cho nước ngoài vay để đẩy xuất khẩu — nợ không đòi được là hàng cho không
 
 ```text
        NHỮNG NGƯỜI tỉnh táo khi bàn thương mại TRONG NƯỚC lại trở nên CẢM
@@ -95,8 +96,8 @@
                                 ▼
        LẬP TRƯỜNG CỦA HAZLITT (để không bị hiểu nhầm)
        · công dân Mỹ được phép CHO VAY tiền CỦA CHÍNH MÌNH ra nước ngoài
-         và tự chịu rủi ro · chính phủ không nên cản việc cho vay tư nhân
-         tới các nước đang hoà bình với Mỹ
+         và tự chịu rủi ro · chính phủ không nên dựng rào cản TUỲ TIỆN
+         trước việc cho vay tư nhân tới các nước đang hoà bình với Mỹ
        · nước Mỹ nên CHO một cách hào phóng, vì lòng nhân đạo, những dân
          tộc đang khốn khó hay có nguy cơ chết đói
        · NHƯNG phải BIẾT RÕ mình đang làm gì: đừng làm TỪ THIỆN cho nước
@@ -125,7 +126,7 @@
          do NỢ XẤU
 ```
 
-### Phần 4: ở cấp quốc gia, ai được và ai mất — và trợ cấp xuất khẩu
+### Phần 4 (đoạn 11 đến hết chương): ở cấp quốc gia, ai được và ai mất — và trợ cấp xuất khẩu
 
 ```text
        VÌ SAO người thông minh vẫn rối khi chuyện này xảy ra ở cấp MỘT
@@ -151,7 +152,7 @@
          thuế bù nợ xấu)
        · doanh nghiệp bán hàng trong nước BỊ HẠI đúng bằng mức doanh
          nghiệp xuất khẩu được giúp
-       · ngay cả doanh nghiệp CÓ xuất khẩu cũng có thể LỖ RÒNG · ví dụ:
+       · ngay cả NHIỀU doanh nghiệp CÓ xuất khẩu cũng bị THIỆT RÒNG · ví dụ:
          hãng ô tô Mỹ trước chiến tranh bán khoảng 10% sản lượng ra nước
          ngoài · nếu nhờ nợ xấu mà doanh số nước ngoài GẤP ĐÔI, nhưng vì
          thuế tăng để bù nợ mà hãng MẤT, chẳng hạn, 20% doanh số trong
@@ -170,8 +171,8 @@
                                 ▼
        KẾT LUẬN: nợ xấu và trợ cấp xuất khẩu là thêm những VÍ DỤ của sai
        lầm CHỈ nhìn tác động TRƯỚC MẮT của chính sách lên một nhóm đặc
-       biệt, và thiếu kiên nhẫn để lần theo tác động DÀI HẠN của nó lên
-       MỌI NGƯỜI
+       biệt, và thiếu kiên nhẫn hay trí tuệ để lần theo tác động DÀI HẠN
+       của nó lên MỌI NGƯỜI
 ```
 
 ## Ba câu hỏi chương này trả lời
@@ -182,23 +183,23 @@
 
 ## Khái niệm cần biết
 
-**Xuất khẩu và nhập khẩu theo nghĩa rộng (visible and invisible items).** Ngoài hàng hoá hữu hình, Hazlitt tính cả các khoản "vô hình" như tiền khách du lịch chi tiêu ở nước ngoài và cước vận tải biển. Ví dụ: một khách Anh tiêu 200 USD khi du lịch ở Mỹ là một khoản "xuất khẩu vô hình" của Mỹ. Đây là lý do ông nói xuất khẩu và nhập khẩu phải cân bằng "theo nghĩa rộng nhất"; ngày nay khái niệm này nằm trong tài khoản vãng lai của cán cân thanh toán.
+**Xuất khẩu và nhập khẩu theo nghĩa rộng (visible and invisible items).** Ngoài hàng hoá hữu hình, Hazlitt tính cả các khoản "vô hình" như tiền khách du lịch chi tiêu ở nước ngoài và cước vận tải biển. Ví dụ (minh hoạ của người tổng hợp): một khách Anh tiêu 200 USD khi du lịch ở Mỹ là một khoản "xuất khẩu vô hình" của Mỹ. Đây là lý do ông nói xuất khẩu và nhập khẩu phải cân bằng "theo nghĩa rộng nhất"; ngày nay khái niệm này nằm trong tài khoản vãng lai của cán cân thanh toán.
 
-**Ngoại hối như giao dịch bù trừ (foreign exchange as a clearing transaction).** Mua bán ngoại tệ thực chất là ghép nợ và có giữa người nhập khẩu và người xuất khẩu. Ví dụ: nhà xuất khẩu Mỹ có 1.000 bảng Anh, nhà nhập khẩu Mỹ cần 1.000 bảng Anh để trả cho hàng Anh; ngân hàng ghép hai người, không bảng Anh nào phải rời nước Anh. Khái niệm này giúp Hazlitt chứng minh rằng thương mại quốc tế không bí ẩn, và không khác thương mại trong nước, nơi séc cũng được bù trừ qua phòng thanh toán.
+**Ngoại hối như giao dịch bù trừ (foreign exchange as a clearing transaction).** Mua bán ngoại tệ thực chất là ghép nợ và có giữa người nhập khẩu và người xuất khẩu. Ví dụ (minh hoạ của người tổng hợp): nhà xuất khẩu Mỹ có 1.000 bảng Anh, nhà nhập khẩu Mỹ cần 1.000 bảng Anh để trả cho hàng Anh; ngân hàng ghép hai người, không bảng Anh nào phải rời nước Anh. Khái niệm này giúp Hazlitt chứng minh rằng thương mại quốc tế không bí ẩn, và không khác thương mại trong nước, nơi séc cũng được bù trừ qua phòng thanh toán.
 
-**Bản vị vàng (gold standard).** Hệ thống tiền tệ trong đó các đồng tiền đổi được ra vàng theo tỷ lệ cố định, nên chênh lệch thương mại có thể thanh toán bằng chở vàng. Hazlitt cho rằng vàng chỉ là một hàng hoá thanh toán, giống bông hay thép, nhưng được ưa chuộng vì cầu về nó gần như vô hạn và không nước nào dựng rào cản khi nhận vàng. Điểm này quan trọng vì nó gạt bỏ ý tưởng rằng xuất siêu để "tích vàng" là mục tiêu tự thân, một ý tưởng của chủ nghĩa trọng thương.
+**Bản vị vàng (gold standard).** Hệ thống tiền tệ trong đó các đồng tiền đổi được ra vàng theo tỷ lệ cố định, nên chênh lệch thương mại có thể thanh toán bằng chở vàng. Hazlitt cho rằng vàng chỉ là một hàng hoá thanh toán, giống bông hay thép, nhưng được ưa chuộng vì cầu về nó gần như vô hạn và không nước nào dựng rào cản khi nhận vàng. Theo người tổng hợp (Hazlitt không nhắc tới chủ nghĩa trọng thương trong chương), điểm này quan trọng vì nó gạt bỏ ý tưởng rằng xuất siêu để "tích vàng" là mục tiêu tự thân, một ý tưởng của chủ nghĩa trọng thương.
 
 **Nợ xấu (bad loans).** Khoản cho vay không đòi được, toàn bộ hoặc một phần. Ví dụ trong chương: cho vay 1.000 USD, đòi được 500 USD. Hazlitt cho rằng khi khoản vay dùng để mua hàng của chính người cho vay, nợ xấu biến "bán hàng" thành "cho hàng", và lỗ thật bằng chi phí làm ra hàng trừ phần thu được (900 − 500 = 400 USD).
 
 **Trợ cấp xuất khẩu (export subsidy).** Khoản chính phủ trả cho doanh nghiệp để họ bán ra nước ngoài với giá thấp hơn chi phí. Ví dụ (minh hoạ của người tổng hợp): hàng tốn 100 USD để làm, bán cho người nước ngoài 80 USD, chính phủ bù 20 USD từ tiền thuế; người nước ngoài được 20 USD giá trị miễn phí. Hazlitt coi đây cùng một sai lầm với nợ xấu, chỉ khác hình thức.
 
-**Từ thiện và thương vụ (charity versus a hardheaded business transaction).** Hazlitt phân biệt rõ: viện trợ vì nhân đạo là chính đáng, nhưng phải gọi nó đúng tên. Gói viện trợ trong vỏ "khoản vay có lợi cho xuất khẩu" làm cả hai bên hiểu sai: bên cho tưởng mình đang làm ăn, bên nhận bị coi là con nợ, và khi nợ không trả, quan hệ xấu đi.
+**Từ thiện và thương vụ (charity versus a hardheaded business transaction).** Hazlitt phân biệt rõ: viện trợ vì nhân đạo là chính đáng, nhưng phải gọi nó đúng tên. Hazlitt chỉ nói nhầm lẫn này "chỉ có thể dẫn tới hiểu lầm và quan hệ xấu về sau". Người tổng hợp diễn giải: gói viện trợ trong vỏ "khoản vay có lợi cho xuất khẩu" làm cả hai bên hiểu sai: bên cho tưởng mình đang làm ăn, bên nhận bị coi là con nợ, và khi nợ không trả, quan hệ xấu đi.
 
 ## Nội dung chi tiết
 
-### 1. Sợ nhập khẩu và khao khát xuất khẩu: một mâu thuẫn
+### 1. Sợ nhập khẩu và khao khát xuất khẩu: một mâu thuẫn (mở đầu chương, đoạn 1–2)
 
-Hazlitt mở chương bằng nhận xét rằng chỉ có một thứ vượt được "nỗi sợ nhập khẩu bệnh hoạn" mà mọi nước mắc phải, đó là "nỗi khao khát xuất khẩu bệnh hoạn". Về logic, không gì mâu thuẫn hơn. Trong dài hạn, xuất khẩu và nhập khẩu phải bằng nhau, nếu hiểu theo nghĩa rộng nhất, tức là tính cả những khoản "vô hình" như chi tiêu của khách du lịch và cước vận tải biển. Xuất khẩu trả cho nhập khẩu, và ngược lại. Từ đó suy ra:
+Hazlitt mở chương bằng nhận xét rằng chỉ có "nỗi sợ nhập khẩu bệnh hoạn" mà mọi nước mắc phải là vượt được "nỗi khao khát xuất khẩu bệnh hoạn"; nói cách khác, khao khát xuất khẩu là chứng bệnh lớn thứ hai, chỉ sau nỗi sợ nhập khẩu. Về logic, không gì mâu thuẫn hơn. Trong dài hạn, xuất khẩu và nhập khẩu phải bằng nhau, nếu hiểu theo nghĩa rộng nhất, tức là tính cả những khoản "vô hình" như chi tiêu của khách du lịch và cước vận tải biển. Xuất khẩu trả cho nhập khẩu, và ngược lại. Từ đó suy ra:
 
 | Nếu ta... | Thì ta cũng đang quyết định... |
 |---|---|
@@ -210,7 +211,7 @@ Hazlitt mở chương bằng nhận xét rằng chỉ có một thứ vượt đ
 
 Lý do, theo Hazlitt, là sơ đẳng. Một nhà xuất khẩu Mỹ bán hàng cho một nhà nhập khẩu Anh và được trả bằng bảng Anh. Nhưng ông ta không dùng bảng Anh trả lương công nhân, mua áo cho vợ hay mua vé xem hát được; những việc đó cần đô la. Vậy bảng Anh vô dụng với ông, trừ khi ông tự dùng chúng mua hàng Anh, hoặc bán chúng cho một nhà nhập khẩu Mỹ muốn mua hàng Anh. Cách nào thì giao dịch cũng chỉ khép lại khi xuất khẩu Mỹ đã được trả bằng một lượng nhập khẩu tương đương.
 
-### 2. Ngoại hối chỉ là phép bù trừ, giống thương mại trong nước
+### 2. Ngoại hối chỉ là phép bù trừ, giống thương mại trong nước (đoạn 3–5)
 
 Nếu giao dịch được làm bằng đô la thay vì bảng Anh, tình hình vẫn y hệt. Nhà nhập khẩu Anh không trả đô la cho nhà xuất khẩu Mỹ được, trừ khi trước đó một nhà xuất khẩu Anh đã bán hàng cho Mỹ và có một khoản có bằng đô la ở đây. Hazlitt tóm lại: ngoại hối là một giao dịch bù trừ, trong đó ở Mỹ, nợ đô la của người nước ngoài được trừ vào có đô la của họ; ở Anh, nợ bảng Anh của người nước ngoài được trừ vào có bảng Anh của họ.
 
@@ -218,7 +219,7 @@ Nếu giao dịch được làm bằng đô la thay vì bảng Anh, tình hình 
 
 **Còn vàng?** Hazlitt thừa nhận rằng dưới bản vị vàng quốc tế, chênh lệch giữa nhập khẩu và xuất khẩu đôi khi được thanh toán bằng chở vàng. Nhưng chúng cũng có thể được thanh toán bằng chở bông, thép, rượu whisky, nước hoa hay bất kỳ hàng hoá nào. Vàng khác ở hai điểm: cầu về vàng gần như có thể mở rộng vô hạn (một phần vì vàng được coi và được chấp nhận là "tiền" quốc tế dự phòng chứ không chỉ là một hàng hoá), và các nước không dựng rào cản nhân tạo khi nhận vàng như với gần như mọi thứ khác. Ông thêm trong ngoặc rằng gần đây các nước lại dựng nhiều rào cản hơn với việc xuất vàng so với xuất bất cứ thứ gì khác, "nhưng đó là chuyện khác".
 
-### 3. Cho nước ngoài vay để đẩy xuất khẩu
+### 3. Cho nước ngoài vay để đẩy xuất khẩu (đoạn 6–10)
 
 Hazlitt nhận xét rằng người tỉnh táo và hợp lý khi bàn thương mại trong nước có thể trở nên cảm tính và rối trí đến khó tin khi bàn thương mại với nước ngoài. Ở lĩnh vực sau, họ có thể nghiêm túc ủng hộ hoặc chấp nhận những nguyên tắc mà áp vào kinh doanh trong nước thì chính họ cho là điên rồ. Ví dụ điển hình là niềm tin rằng chính phủ nên cho nước ngoài vay những khoản khổng lồ để tăng xuất khẩu, bất kể khoản vay có khả năng được trả hay không.
 
@@ -245,7 +246,7 @@ Công ty không khá hơn vì đã "bán" được xe. Nếu không ai trả gì
 
 **Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một doanh nghiệp phân phối vật liệu xây dựng muốn đạt chỉ tiêu doanh số quý, nên cho các đại lý cấp hai nhận hàng trả chậm 180 ngày. Doanh số quý tăng từ 50 tỷ đồng lên 80 tỷ đồng, báo cáo đẹp, nhân viên kinh doanh được thưởng. Giá vốn của 30 tỷ doanh số tăng thêm là 25 tỷ. Sáu tháng sau, một nửa số đại lý không trả nổi, công ty thu về 15 tỷ trong 30 tỷ. So với không bán thêm: công ty bỏ ra 25 tỷ giá vốn, thu về 15 tỷ, lỗ 10 tỷ, chưa kể chi phí vốn và tiền thưởng đã chi. Ở cấp ngành, hiện tượng này có tên gọi là "tài trợ nhà cung cấp" (*vendor financing*): khoảng năm 2000, một số hãng thiết bị viễn thông lớn ở Mỹ và Canada đã cho các công ty viễn thông mới vay để mua thiết bị của chính họ, rồi chịu lỗ nặng khi các khách hàng đó phá sản trong đợt đổ vỡ dot-com.
 
-### 4. Ở cấp quốc gia: ai được lợi, ai trả tiền
+### 4. Ở cấp quốc gia: ai được lợi, ai trả tiền (đoạn 11 đến hết chương)
 
 Nếu điều này đơn giản khi áp vào một công ty, tại sao những người có vẻ thông minh lại rối khi áp vào một quốc gia? Theo Hazlitt, vì giao dịch phải được lần theo trong đầu qua thêm vài bước. Một nhóm có thể được lợi thật, trong khi phần còn lại chịu lỗ.
 
@@ -279,7 +280,7 @@ Trong dài hạn, xuất khẩu được trả bằng nhập khẩu, nên kích 
 - Người nước ngoài rốt cuộc dùng ngoại tệ thu được để mua hàng của nước kia; Hazlitt không xét trường hợp họ giữ ngoại tệ, mua tài sản tài chính, hay cho vay lại lâu dài.
 - Nền kinh tế ở gần toàn dụng lao động: hàng xuất cho không được làm bằng nguồn lực lẽ ra dùng vào việc khác, và đô la thuế thu thêm lẽ ra được người dân tiêu.
 - Khoản vay chính phủ được bù bằng thuế, không phải bằng in tiền (nếu bằng in tiền thì chi phí rơi vào người giữ tiền qua lạm phát, như các chương sau sẽ bàn).
-- Mục tiêu đánh giá là lợi ích kinh tế của nước cho vay; lợi ích ngoại giao, an ninh hay nhân đạo được Hazlitt tách riêng, không phủ nhận nhưng đòi gọi đúng tên.
+- Mục tiêu đánh giá là lợi ích kinh tế của nước cho vay; lý do nhân đạo được Hazlitt tách riêng, không phủ nhận nhưng đòi gọi đúng tên; lợi ích ngoại giao hay an ninh thì ông không bàn trong chương.
 
 ### Cơ chế
 

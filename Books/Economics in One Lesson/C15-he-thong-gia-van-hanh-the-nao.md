@@ -5,11 +5,11 @@
 **Vị trí trong lập luận của cả cuốn sách:** Đây là chương lý thuyết đặt giữa Phần Hai. Các chương trước (thuế quan, giá ngang giá, cứu ngành X) đều kết luận rằng giúp một ngành là lấy nguồn lực của ngành khác. Chương 15 giải thích **cơ chế chung** đằng sau kết luận ấy: hệ thống giá (price system), qua quan hệ giữa chi phí, giá và lợi nhuận, quyết định mỗi thứ được sản xuất bao nhiêu so với các thứ khác. Chương mở đầu bằng việc nhắc lại "bài học" của Chương 1 và kết bằng câu báo trước các chương sau: những can thiệp của quan chức vào hệ thống giá (Chương 16 về "bình ổn" giá hàng hoá, Chương 17 về ấn định giá của chính phủ, Chương 18–19 về lương tối thiểu và công đoàn).
 **Ý chính:** Hazlitt muốn chứng minh rằng sai lầm lớn nhất trong kinh tế học là **ngụy biện cô lập** (fallacy of isolation): xem xét một ngành như thể nó không liên quan tới các ngành khác. Ông dùng trường phái "sản xuất để dùng, không vì lợi nhuận" làm đối tượng phê phán: họ cho rằng vấn đề sản xuất đã được kỹ sư giải quyết, chỉ có doanh nhân vì lợi nhuận cản trở. Hazlitt trả lời bằng ví dụ Robinson Crusoe và gia đình Robinson Thụy Sĩ: ngay cả một người hay một gia đình trên đảo hoang cũng phải chọn dùng thời gian, lao động vào việc gì, vì làm việc này là bỏ việc khác. Trong xã hội hiện đại, việc chọn đó do hệ thống giá làm, vận hành như bộ điều tốc ly tâm của máy hơi nước: mỗi lần lệch khỏi cân bằng lại tự sinh lực kéo về. Ngừng sản xuất giày ở mức không còn lãi không phải là "kinh tế học khan hiếm" (cố tình tạo khan hiếm) mà là để nguồn lực đi làm áo, nhà, cày, cầu, sữa, bánh mì.
 
-> **Lưu ý:** (1) **"Sản xuất để dùng, không vì lợi nhuận"** (production for use and not for profit) là khẩu hiệu phổ biến ở Mỹ thập niên 1930, của các nhà xã hội chủ nghĩa và của phong trào Technocracy (nhóm kỹ sư cho rằng nên để kỹ sư thay doanh nhân điều hành kinh tế). "Kẻ chia của" (share-the-wealth charlatans) ám chỉ các phong trào như "Share Our Wealth" của thượng nghị sĩ Huey Long; "kẻ cuồng tiền tệ" (currency cranks) là những người tin rằng in thêm tiền hay đổi chế độ tiền tệ sẽ giải quyết mọi vấn đề. (2) **"Gia đình Robinson Thụy Sĩ"** (*The Swiss Family Robinson*) là tiểu thuyết của Johann David Wyss (1812) về một gia đình bị đắm tàu sống trên đảo hoang. (3) **Bộ điều tốc** (governor) mà Hazlitt mô tả là bộ điều tốc ly tâm do James Watt đưa vào máy hơi nước cuối thế kỷ 18. (4) Đoạn "giá không do chi phí sản xuất quyết định" phản ánh quan điểm của trường phái Áo, nơi Hazlitt chịu ảnh hưởng (đặc biệt Ludwig von Mises). Kinh tế học chính thống từ Alfred Marshall nói **cả** cầu lẫn chi phí (cung) cùng quyết định giá, như hai lưỡi kéo; Hazlitt cũng thừa nhận chi phí tác động qua cung, nên khác biệt chủ yếu là cách nhấn mạnh. (5) Câu "để ngành đang chết được chết cũng cần như để ngành đang lớn được lớn" lặp gần nguyên văn từ Chương 14. Bản gốc chương này chia hai mục (mục 2 bắt đầu từ "Hãy chuyển sang một xã hội như vậy"). Mọi câu trích là bản dịch của người tổng hợp.
+> **Lưu ý:** (1) **"Sản xuất để dùng, không vì lợi nhuận"** (production for use and not for profit) là khẩu hiệu phổ biến ở Mỹ thập niên 1930, của các nhà xã hội chủ nghĩa và của phong trào Technocracy (nhóm kỹ sư cho rằng nên để kỹ sư thay doanh nhân điều hành kinh tế). "Kẻ chia của" (share-the-wealth charlatans) có lẽ ám chỉ (suy đoán của người tổng hợp, Hazlitt không nêu tên) các phong trào như "Share Our Wealth" của thượng nghị sĩ Huey Long; "kẻ cuồng tiền tệ" (currency cranks) là những người tin rằng in thêm tiền hay đổi chế độ tiền tệ sẽ giải quyết mọi vấn đề. (2) **"Gia đình Robinson Thụy Sĩ"** (*The Swiss Family Robinson*) là tiểu thuyết của Johann David Wyss (1812) về một gia đình bị đắm tàu sống trên đảo hoang. (3) **Bộ điều tốc** (governor) mà Hazlitt mô tả là bộ điều tốc ly tâm do James Watt đưa vào máy hơi nước cuối thế kỷ 18. (4) Đoạn "giá không do chi phí sản xuất quyết định" phản ánh quan điểm của trường phái Áo, nơi Hazlitt chịu ảnh hưởng (đặc biệt Ludwig von Mises). Kinh tế học chính thống từ Alfred Marshall nói **cả** cầu lẫn chi phí (cung) cùng quyết định giá, như hai lưỡi kéo; Hazlitt cũng thừa nhận chi phí tác động qua cung, nên khác biệt chủ yếu là cách nhấn mạnh. (5) Câu "để ngành đang chết được chết cũng cần như để ngành đang lớn được lớn" lặp gần nguyên văn từ Chương 14. Bản gốc chương này chia hai mục (mục 2 bắt đầu từ "Hãy chuyển sang một xã hội như vậy"). Mọi câu trích là bản dịch của người tổng hợp.
 
 ## Sơ đồ
 
-### Phần 1: nhắc lại bài học và ngụy biện cô lập
+### Phần 1 (mục 1, đoạn mở đầu chương): nhắc lại bài học và ngụy biện cô lập
 
 ```text
        TOÀN BỘ CUỐN SÁCH tóm trong một câu: khi xét tác động của một
@@ -29,7 +29,7 @@
          một số nhà kinh tế được coi là "sâu sắc"
 ```
 
-### Phần 2: trường phái "sản xuất để dùng, không vì lợi nhuận"
+### Phần 2 (mục 1, đoạn 2–3): trường phái "sản xuất để dùng, không vì lợi nhuận"
 
 ```text
        LẬP LUẬN CỦA HỌ (để tấn công "hệ thống giá")
@@ -54,7 +54,7 @@
          GÂY ẢNH HƯỞNG tới quyết định của mọi ngành khác
 ```
 
-### Phần 3: Robinson Crusoe trên đảo hoang
+### Phần 3 (mục 1, đoạn 4): Robinson Crusoe trên đảo hoang
 
 ```text
        Để thấy VẤN ĐỀ CƠ BẢN mà các doanh nghiệp, xét chung, phải giải,
@@ -78,7 +78,7 @@
        LAO ĐỘNG của mình vào việc nào trong các cách dùng thay thế
 ```
 
-### Phần 4: gia đình Robinson Thụy Sĩ và "kinh tế học Crusoe"
+### Phần 4 (mục 1, đoạn 5–6, cuối mục 1): gia đình Robinson Thụy Sĩ và "kinh tế học Crusoe"
 
 ```text
        GIA ĐÌNH ROBINSON THỤY SĨ: có nhiều MIỆNG ĂN hơn Crusoe, nhưng
@@ -110,7 +110,7 @@
        hoặc QUÊN MẤT nó khi đi vào sự phức tạp của xã hội hiện đại
 ```
 
-### Phần 5: trong xã hội hiện đại, hệ thống giá giải bài toán ấy
+### Phần 5 (mục 2, đoạn 1–2): trong xã hội hiện đại, hệ thống giá giải bài toán ấy
 
 ```text
        Trong xã hội hiện đại, BÀI TOÁN chia LAO ĐỘNG và VỐN cho hàng
@@ -139,7 +139,7 @@
          khác (đã tính tới rủi ro)
 ```
 
-### Phần 6: giá có do chi phí sản xuất quyết định không?
+### Phần 6 (mục 2, đoạn 3): giá có do chi phí sản xuất quyết định không?
 
 ```text
        Chính quá trình trên sinh ra niềm tin rằng "GIÁ DO CHI PHÍ SẢN
@@ -163,7 +163,7 @@
          mà vì nhà sản xuất điều chỉnh lượng cung
 ```
 
-### Phần 7: hệ thống giá như bộ điều tốc của máy hơi nước
+### Phần 7 (mục 2, đoạn 4–7): hệ thống giá như bộ điều tốc của máy hơi nước
 
 ```text
        Hệ thống DOANH NGHIỆP TƯ NHÂN giống như HÀNG NGHÌN CỖ MÁY, mỗi
@@ -180,8 +180,8 @@
                                 │
                                 ▼
        THỊ TRƯỜNG CẠNH TRANH điều tiết cung TƯƠNG ĐỐI của hàng nghìn
-       hàng hoá ĐÚNG theo cách đó (gọi hàng đang bàn là hàng A, các
-       hàng khác là B, C)
+       hàng hoá ĐÚNG theo cách đó (người tổng hợp gọi hàng đang bàn là
+       hàng A, các hàng khác là B, C)
        · khi người ta muốn thêm hàng A, họ cạnh tranh TRẢ GIÁ → giá A
          tăng → lợi nhuận của người làm A tăng → họ làm thêm A
        · người đang làm hàng B, C bỏ bớt B, C để chuyển sang làm A
@@ -191,7 +191,7 @@
          đó GIẢM → sản xuất hàng đó GIẢM
 ```
 
-### Phần 8: "kinh tế học khan hiếm"? — đôi giày, và lỗi chỉ thấy cây mà không thấy rừng
+### Phần 8 (mục 2, đoạn 8–11): "kinh tế học khan hiếm"? — đôi giày, và lỗi chỉ thấy cây mà không thấy rừng
 
 ```text
        ĐIỀU LÀM NGƯỜI PHÊ PHÁN PHẪN NỘ: sản xuất GIẢM khi hết lãi
@@ -211,8 +211,9 @@
          nhu cầu CẤP BÁCH hơn còn thiếu, thì thật là "NGỚ NGẨN"
                                 │
                                 ▼
-       TRONG NỀN KINH TẾ CÂN BẰNG, các yếu tố sản xuất (LAO ĐỘNG, ĐẤT,
-       VỐN) có hạn tại mỗi thời điểm
+       TRONG NỀN KINH TẾ CÂN BẰNG, một ngành chỉ mở rộng được bằng cái
+       giá của các ngành khác, vì tại MỌI thời điểm các yếu tố sản xuất
+       (LAO ĐỘNG, ĐẤT, VỐN) đều có hạn
        · một ngành CHỈ MỞ RỘNG được bằng cách KÉO lao động, đất, vốn từ
          ngành khác sang
        · một ngành THU HẸP KHÔNG nhất thiết có nghĩa TỔNG sản lượng
@@ -220,16 +221,17 @@
                                 │
                                 ▼
        Tóm lại, MỌI THỨ được làm ra đều bằng cách TỪ BỎ một thứ khác
-       · chi phí sản xuất, hiểu cho đúng, chính là những gì bị TỪ BỎ
+       · chi phí sản xuất CÓ THỂ ĐỊNH NGHĨA là những gì bị TỪ BỎ
          (thời gian rảnh, niềm vui, nguyên liệu có thể dùng vào việc
          khác) để làm ra món hàng
 ```
 
-### Phần 9: ngành đang chết, lá phiếu hằng ngày của người tiêu dùng, và sự can thiệp của quan chức
+### Phần 9 (mục 2, hai đoạn cuối chương): ngành đang chết, lá phiếu hằng ngày của người tiêu dùng, và sự can thiệp của quan chức
 
 ```text
-       Từ đó suy ra (như Chương 14 đã nói): để ngành ĐANG CHẾT được
-       chết CŨNG CẦN như để ngành ĐANG LỚN được lớn
+       Từ đó suy ra (như Chương 14 đã nói): với sức khoẻ của một nền
+       kinh tế năng động, để ngành ĐANG CHẾT được chết CŨNG CẦN như để
+       ngành ĐANG LỚN được lớn
        · vì ngành đang chết GIỮ lao động và vốn lẽ ra phải được nhả ra
          cho ngành đang lớn
                                 │
@@ -266,39 +268,39 @@
 
 **Hệ thống giá (price system).** Mạng lưới các mức giá, chi phí và lợi nhuận của mọi hàng hoá, liên tục thay đổi và tác động lẫn nhau, qua đó nguồn lực tự di chuyển tới nơi được trả cao nhất. Ví dụ: khi người ta muốn mua nhiều xe đạp hơn, giá xe đạp tăng, các xưởng làm xe đạp lãi hơn, mở rộng, và các xưởng cơ khí khác chuyển sang làm xe đạp. Đây là khái niệm trung tâm của chương và là chìa khoá để hiểu vì sao các can thiệp ở Chương 16–17 gây hại.
 
-**Ngụy biện cô lập (fallacy of isolation).** Xem xét một ngành hay một quá trình như thể nó không liên quan tới phần còn lại của nền kinh tế. Ví dụ: hỏi "sao không làm giày hết công suất?" mà không hỏi "nguồn lực làm thêm giày lấy từ đâu?". Hazlitt cho rằng đây là gốc của phần lớn các ngụy biện kinh tế; nó là dạng tổng quát của việc chỉ nhìn "cái thấy được".
+**Ngụy biện cô lập (fallacy of isolation).** Xem xét một ngành hay một quá trình như thể nó không liên quan tới phần còn lại của nền kinh tế. Ví dụ: hỏi "sao không làm giày hết công suất?" mà không hỏi "nguồn lực làm thêm giày lấy từ đâu?". Hazlitt cho rằng các ngụy biện lớn của kinh tế học bắt nguồn từ đây. Theo người tổng hợp, nó là dạng tổng quát của việc chỉ nhìn "cái thấy được".
 
 **Chi phí cơ hội (opportunity cost).** Hazlitt không dùng chữ này nhưng định nghĩa đúng nội dung của nó: chi phí sản xuất là những gì bị từ bỏ (thời gian rảnh, niềm vui, nguyên liệu có thể dùng vào việc khác) để làm ra một thứ. Ví dụ: một giờ Crusoe làm lưỡi câu là một giờ không làm mái che. Quan trọng vì nó giải thích vì sao "ngành này chỉ mở rộng được bằng cách lấy bớt từ ngành khác".
 
 **Nhà sản xuất cận biên (marginal producer).** Nhà sản xuất kém hiệu quả nhất, có chi phí cao nhất trong ngành, là người đầu tiên bị loại khi giá giảm. Ví dụ minh hoạ của người tổng hợp: nếu giá một đôi giày giảm từ 12 xuống 10 đô la, xưởng có chi phí 11 đô la một đôi sẽ phải đóng cửa, còn xưởng chi phí 8 đô la vẫn tiếp tục. Quan trọng vì chương sau (Chương 16) dùng khái niệm này để phân biệt "thị trường cắt giảm sản lượng" với "nhà nước cắt giảm sản lượng".
 
-**Chi phí cận biên (marginal cost) và xu hướng giá bằng chi phí cận biên.** Chi phí cận biên là chi phí để làm thêm một đơn vị. Hazlitt nói giá và chi phí cận biên có xu hướng bằng nhau, vì nhà sản xuất làm thêm khi giá cao hơn chi phí và rút lui khi giá thấp hơn. Nhưng chiều nhân quả đi qua cung (nhà sản xuất điều chỉnh lượng hàng làm ra), chứ không phải chi phí trực tiếp áp đặt mức giá.
+**Chi phí cận biên (marginal cost) và xu hướng giá bằng chi phí cận biên.** Chi phí cận biên là chi phí để làm thêm một đơn vị. Hazlitt nói giá và chi phí cận biên có xu hướng bằng nhau, vì kỳ vọng của doanh nhân về chi phí và giá bán trong tương lai quyết định họ làm ra bao nhiêu, tức là quyết định cung tương lai. Chiều nhân quả đi qua cung (nhà sản xuất điều chỉnh lượng hàng làm ra), chứ không phải chi phí trực tiếp áp đặt mức giá.
 
-**Cân bằng (equilibrium) và yếu tố sản xuất có hạn.** Trong một nền kinh tế cân bằng, lao động, đất đai và vốn tại mỗi thời điểm có hạn, nên ngành này chỉ lớn được khi ngành khác nhường nguồn lực. Ví dụ: Crusoe có 12 giờ mỗi ngày; thêm một giờ câu cá là bớt một giờ đi lấy nước.
+**Cân bằng (equilibrium) và yếu tố sản xuất có hạn.** Trong một nền kinh tế cân bằng, lao động, đất đai và vốn tại mỗi thời điểm có hạn, nên ngành này chỉ lớn được khi ngành khác nhường nguồn lực. Ví dụ minh hoạ của người tổng hợp: Crusoe có 12 giờ mỗi ngày; thêm một giờ câu cá là bớt một giờ đi lấy nước.
 
 **Bộ điều tốc (governor).** Thiết bị cơ khí trên máy hơi nước: hai quả nặng quay theo lực ly tâm, máy nhanh thì quả văng ra và khép van hơi, máy chậm thì quả hạ và mở van. Hazlitt dùng nó làm hình ảnh cho cơ chế tự điều chỉnh (phản hồi âm) của giá: lệch khỏi cân bằng tự sinh ra lực kéo về.
 
 ## Nội dung chi tiết
 
-### 1. Bài học nhắc lại và ngụy biện cô lập
+### 1. Bài học nhắc lại và ngụy biện cô lập (mục 1, đoạn mở đầu chương)
 
 Hazlitt mở chương bằng việc tóm toàn bộ cuốn sách trong một câu: khi xét tác động của một đề xuất kinh tế, phải lần theo không chỉ kết quả trước mắt mà cả kết quả về dài hạn, không chỉ hậu quả sơ cấp mà cả hậu quả thứ cấp, không chỉ tác động lên một nhóm đặc biệt mà lên mọi người.
 
 Từ đó suy ra: chỉ tập trung vào một điểm, ví dụ chỉ xem điều gì xảy ra trong một ngành mà không xét điều gì xảy ra ở mọi ngành, là dại và gây hiểu lầm. Theo Hazlitt, chính thói quen dai dẳng và lười biếng nghĩ về một ngành hay một quá trình tách riêng là nguồn của các ngụy biện lớn trong kinh tế học. Những ngụy biện này không chỉ có trong lập luận của người phát ngôn được thuê của các nhóm lợi ích đặc biệt mà cả trong lập luận của một số nhà kinh tế được coi là sâu sắc.
 
-### 2. Trường phái "sản xuất để dùng, không vì lợi nhuận"
+### 2. Trường phái "sản xuất để dùng, không vì lợi nhuận" (mục 1, đoạn 2–3)
 
 Trường phái này, với cuộc tấn công vào cái "hệ thống giá" mà họ cho là xấu xa, về cơ bản dựa trên ngụy biện cô lập. Lập luận của họ như sau. Vấn đề sản xuất đã được giải quyết (Hazlitt chú thêm: sai lầm vang dội này cũng là điểm xuất phát của phần lớn kẻ cuồng tiền tệ và kẻ chia của). Các nhà khoa học, chuyên gia hiệu suất, kỹ sư, kỹ thuật viên đã giải quyết nó; họ có thể làm ra hầu như bất cứ thứ gì với số lượng khổng lồ, gần như không giới hạn. Nhưng thế giới không do kỹ sư chỉ nghĩ tới sản xuất cai quản, mà do doanh nhân chỉ nghĩ tới lợi nhuận. Doanh nhân ra lệnh cho kỹ sư chứ không phải ngược lại. Doanh nhân sẽ làm ra bất cứ thứ gì còn có lãi, nhưng ngay khi hết lãi, những doanh nhân "độc ác" ấy sẽ ngừng làm, dù nhu cầu của nhiều người chưa được thoả mãn và thế giới đang kêu gào đòi thêm hàng.
 
 Hazlitt nói quan điểm này chứa quá nhiều ngụy biện để gỡ hết một lúc. Nhưng sai lầm trung tâm là nhìn một ngành, hoặc lần lượt vài ngành, như thể mỗi ngành tồn tại tách biệt. Thực tế mỗi ngành tồn tại trong quan hệ với mọi ngành khác, và mọi quyết định quan trọng trong một ngành đều chịu ảnh hưởng và gây ảnh hưởng tới quyết định trong mọi ngành khác.
 
-### 3. Robinson Crusoe
+### 3. Robinson Crusoe (mục 1, đoạn 4)
 
 Để hiểu vấn đề cơ bản mà các doanh nghiệp, xét chung, phải giải quyết, Hazlitt đơn giản hoá nó hết mức bằng hình ảnh Robinson Crusoe trên đảo hoang. Lúc đầu nhu cầu của anh dường như vô tận: bị mưa ướt, run vì lạnh, đói và khát. Anh cần mọi thứ: nước uống, thức ăn, mái che, chỗ tránh thú dữ, lửa, chỗ nằm êm. Anh không thể đáp ứng tất cả cùng lúc vì không đủ thời gian, sức lực hay nguồn lực. Anh phải lo ngay nhu cầu cấp bách nhất.
 
 Giả sử anh khổ nhất vì khát. Anh đào một hố trên cát để hứng nước mưa, hoặc làm một đồ chứa thô sơ. Nhưng khi mới có một ít nước, anh đã phải chuyển sang kiếm thức ăn, trước khi kịp cải thiện nguồn nước. Anh có thể đi câu cá; nhưng muốn vậy anh cần lưỡi câu và dây, hoặc lưới, nên phải bắt tay làm những thứ đó trước. Mọi việc anh làm đều làm chậm hoặc ngăn anh làm một việc khác chỉ kém cấp bách hơn một chút. Anh luôn đối mặt với bài toán chọn dùng thời gian và lao động của mình vào việc nào trong các cách dùng thay thế.
 
-### 4. Gia đình Robinson Thụy Sĩ và "kinh tế học Crusoe"
+### 4. Gia đình Robinson Thụy Sĩ và "kinh tế học Crusoe" (mục 1, đoạn 5–6)
 
 Một gia đình kiểu Robinson Thụy Sĩ có lẽ giải bài toán này dễ hơn một chút. Gia đình có nhiều miệng ăn hơn nhưng cũng nhiều tay làm hơn, nên có thể phân công và chuyên môn hoá: bố đi săn, mẹ nấu ăn, con nhặt củi. Nhưng gia đình cũng không thể để một người làm mãi một việc, bất kể nhu cầu chung mà việc đó đáp ứng cấp bách tới đâu so với các nhu cầu khác còn thiếu. Khi bọn trẻ đã nhặt được một đống củi nhất định, không thể cứ để chúng làm đống củi to thêm; đến lúc phải sai một đứa đi lấy thêm nước.
 
@@ -306,7 +308,7 @@ Gia đình cũng luôn phải chọn giữa các cách dùng lao động; và n�
 
 Hazlitt nhận xét những ví dụ sơ đẳng này đôi khi bị chế giễu là "kinh tế học Crusoe" (Crusoe economics). Đáng tiếc là người chế giễu nhiều nhất lại là người cần chúng nhất: họ không hiểu nguyên lý ngay cả ở dạng đơn giản này, hoặc họ quên mất nguyên lý khi đi vào những phức tạp rối rắm của một xã hội kinh tế hiện đại lớn.
 
-### 5. Hệ thống giá giải bài toán trong xã hội hiện đại
+### 5. Hệ thống giá giải bài toán trong xã hội hiện đại (mục 2, đoạn 1–2)
 
 Trong một xã hội hiện đại, bài toán chia lao động và vốn để đáp ứng hàng nghìn nhu cầu và mong muốn khác nhau, với mức cấp bách khác nhau, được giải bằng chính hệ thống giá: qua quan hệ liên tục thay đổi giữa chi phí sản xuất, giá và lợi nhuận.
 
@@ -317,13 +319,13 @@ Giá được định qua quan hệ cung–cầu, và đến lượt nó tác đ
 | Cầu tăng | Người ta muốn thêm một món → trả giá cao hơn → giá tăng → lợi nhuận người làm món đó tăng → làm món đó lãi hơn làm món khác → người trong ngành mở rộng, người mới vào ngành → cung tăng → giá và biên lợi nhuận giảm → cho tới khi biên lợi nhuận về lại mức lợi nhuận chung của các ngành khác (đã tính tới rủi ro tương đối) |
 | Cầu giảm, hoặc cung tăng quá mức | Giá giảm tới mức làm món đó ít lãi hơn làm món khác, hoặc lỗ → nhà sản xuất "cận biên" (kém hiệu quả nhất, chi phí cao nhất) bị loại hẳn → chỉ còn người hiệu quả hơn, chi phí thấp hơn → cung giảm, hoặc ít nhất ngừng tăng |
 
-### 6. Giá có do chi phí sản xuất quyết định không?
+### 6. Giá có do chi phí sản xuất quyết định không? (mục 2, đoạn 3)
 
 Theo Hazlitt, chính quá trình trên sinh ra niềm tin rằng giá do chi phí sản xuất quyết định. Phát biểu ở dạng đó là không đúng. Giá do cung và cầu quyết định; cầu do người ta muốn một món hàng mạnh tới đâu và họ có gì để đổi lấy nó. Đúng là cung được quyết định một phần bởi chi phí sản xuất. Nhưng chi phí đã bỏ ra trong quá khứ để làm một món hàng không thể quyết định giá trị của nó; giá trị tuỳ vào quan hệ cung–cầu hiện tại. Điều quyết định lượng hàng sẽ được làm ra là **kỳ vọng** của doanh nhân về chi phí sản xuất trong tương lai và giá bán trong tương lai; điều đó ảnh hưởng tới cung tương lai. Vì vậy luôn có xu hướng giá của một hàng hoá và chi phí sản xuất cận biên của nó tiến tới bằng nhau, nhưng không phải vì chi phí cận biên trực tiếp quyết định giá.
 
 **Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một doanh nghiệp nhập một lô áo khoác mùa đông với giá vốn 500.000 đồng một chiếc. Mùa đông năm đó ấm, không ai mua. Cuối mùa, cửa hàng chỉ bán được 300.000 đồng một chiếc. Giá vốn 500.000 đồng đã bỏ ra không làm khách hàng trả thêm đồng nào: giá do cầu hiện tại quyết định. Nhưng năm sau, doanh nghiệp sẽ nhập ít áo hơn, hoặc chỉ nhập khi tin rằng bán được trên chi phí. Chi phí tác động lên giá năm sau qua đường **cung giảm**, đúng như Hazlitt nói.
 
-### 7. Bộ điều tốc của máy hơi nước
+### 7. Bộ điều tốc của máy hơi nước (mục 2, đoạn 4–7)
 
 Hazlitt so sánh hệ thống doanh nghiệp tư nhân với hàng nghìn cỗ máy, mỗi máy có một bộ điều tốc gần như tự động riêng, nhưng các máy và bộ điều tốc đều nối với nhau và ảnh hưởng lẫn nhau, nên trên thực tế vận hành như một cỗ máy lớn.
 
@@ -331,7 +333,7 @@ Bộ điều tốc tự động trên máy hơi nước thường gồm hai qu�
 
 Cung tương đối của hàng nghìn hàng hoá trong hệ thống doanh nghiệp tư nhân cạnh tranh được điều tiết đúng theo cách đó. Khi người ta muốn thêm một hàng hoá, việc họ cạnh tranh trả giá làm giá tăng. Lợi nhuận của nhà sản xuất hàng đó tăng, kích thích họ tăng sản xuất. Những người khác thôi làm một số hàng họ đang làm để chuyển sang làm hàng có lợi nhuận tốt hơn. Nhưng việc này làm tăng cung hàng đó đồng thời giảm cung một số hàng khác. Vì vậy giá hàng đó giảm so với giá các hàng khác, và động lực để tăng tương đối sản xuất hàng đó biến mất. Ngược lại, khi cầu một hàng giảm, giá và lợi nhuận giảm, và sản xuất hàng đó giảm.
 
-### 8. "Kinh tế học khan hiếm"? Đôi giày và các nhu cầu khác
+### 8. "Kinh tế học khan hiếm"? Đôi giày và các nhu cầu khác (mục 2, đoạn 8–11)
 
 Chính diễn biến cuối cùng (sản xuất giảm khi hết lãi) làm những người không hiểu cái "hệ thống giá" mà họ lên án phẫn nộ. Họ buộc tội nó tạo ra khan hiếm. Họ hỏi: vì sao nhà sản xuất lại ngừng làm giày ở điểm không còn lãi? Vì sao họ chỉ theo lợi nhuận của mình? Vì sao theo thị trường? Vì sao không làm giày tới "hết công suất của các quy trình kỹ thuật hiện đại"? Các triết gia "sản xuất để dùng" kết luận rằng hệ thống giá và doanh nghiệp tư nhân chỉ là một dạng "kinh tế học khan hiếm" (scarcity economics).
 
@@ -341,7 +343,7 @@ Trong một nền kinh tế cân bằng, một ngành chỉ có thể mở rộn
 
 Tóm lại, mọi thứ được làm ra bằng cách bỏ đi một thứ khác. Bản thân chi phí sản xuất có thể được định nghĩa là những gì bị từ bỏ (thời gian rảnh và niềm vui, nguyên liệu có những cách dùng khác) để tạo ra thứ được làm ra.
 
-### 9. Ngành đang chết, lá phiếu của người tiêu dùng, và sự can thiệp của quan chức
+### 9. Ngành đang chết, lá phiếu của người tiêu dùng, và sự can thiệp của quan chức (mục 2, hai đoạn cuối chương)
 
 Từ đó suy ra, như đã nói ở Chương 14, để ngành đang chết được chết cũng cần cho sức khoẻ của một nền kinh tế năng động như để ngành đang lớn được lớn, vì ngành đang chết giữ lao động và vốn lẽ ra phải được giải phóng cho ngành đang lớn.
 

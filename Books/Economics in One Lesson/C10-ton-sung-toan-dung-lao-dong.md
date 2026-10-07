@@ -9,7 +9,7 @@
 
 ## Sơ đồ
 
-### Phần 1: mục tiêu kinh tế là kết quả lớn nhất với công sức nhỏ nhất
+### Phần 1: mục tiêu kinh tế là kết quả lớn nhất với công sức nhỏ nhất (hai đoạn mở đầu chương)
 
 ```text
        MỤC TIÊU KINH TẾ của mọi quốc gia, cũng như của mọi cá nhân, là
@@ -18,7 +18,7 @@
          CÙNG một lượng lao động
        · vì thế con người lần lượt: chất hàng lên lưng con LA thay vì lưng
          mình · phát minh BÁNH XE và xe ngựa · rồi ĐƯỜNG SẮT và xe tải ·
-         rồi hàng trăm nghìn phát minh TIẾT KIỆM LAO ĐỘNG khác
+         rồi một trăm nghìn phát minh TIẾT KIỆM LAO ĐỘNG khác
                                 │
                                 ▼
        Hazlitt: điều này SƠ ĐẲNG tới mức người ta sẽ ngượng khi phải nói
@@ -26,7 +26,7 @@
        nó
 ```
 
-### Phần 2: sản xuất là mục đích, việc làm chỉ là phương tiện
+### Phần 2: sản xuất là mục đích, việc làm chỉ là phương tiện (đoạn "Translated into national terms" và đoạn về bộ lạc nguyên thuỷ, Hitler)
 
 ```text
        Ở CẤP QUỐC GIA: mục tiêu thật là TỐI ĐA HOÁ SẢN XUẤT
@@ -57,7 +57,7 @@
          tiêu sản xuất tối đa và coi nó là mục đích tự thân
 ```
 
-### Phần 3: phương tiện bị dựng thành mục đích — dự luật, Petrillo, WPA
+### Phần 3: phương tiện bị dựng thành mục đích — dự luật, Petrillo, WPA (đoạn về dự luật Toàn dụng và đoạn về Petrillo, WPA)
 
 ```text
        QUỐC HỘI MỸ: các nhà lập pháp trình dự luật TOÀN DỤNG LAO ĐỘNG,
@@ -84,7 +84,7 @@
          ra, tức là dự án mà lao động KÉM HIỆU QUẢ NHẤT
 ```
 
-### Phần 4: nếu buộc phải chọn — cứu trợ công khai tốt hơn tạo việc trá hình
+### Phần 4: nếu buộc phải chọn — cứu trợ công khai tốt hơn tạo việc trá hình (đầu đoạn áp chót)
 
 ```text
        GIẢ SỬ phải chọn giữa hai cách (Hazlitt nói thực tế KHÔNG buộc
@@ -96,7 +96,7 @@
        → Hazlitt: cách A TỐT HƠN NHIỀU
 ```
 
-### Phần 5: tiến bộ văn minh nghĩa là GIẢM việc làm
+### Phần 5: tiến bộ văn minh nghĩa là GIẢM việc làm (phần còn lại của đoạn áp chót và câu kết chương)
 
 ```text
        TIẾN BỘ CỦA VĂN MINH có nghĩa là GIẢM việc làm, KHÔNG phải tăng
@@ -128,27 +128,27 @@
 
 ## Khái niệm cần biết
 
-**Toàn dụng lao động (full employment).** Hazlitt định nghĩa là "không có tình trạng ngồi không ngoài ý muốn" (the absence of involuntary idleness): mọi người muốn làm ở mức lương hiện hành đều có việc. Ví dụ: một xã hội có 100 người trong tuổi lao động, 60 người muốn đi làm và cả 60 đều có việc là toàn dụng, dù 40 người còn lại đi học, nghỉ hưu hay ở nhà. Khái niệm này quan trọng vì Hazlitt muốn tách nó ra khỏi "càng nhiều người làm càng tốt".
+**Toàn dụng lao động (full employment).** Hazlitt định nghĩa là "không có tình trạng ngồi không ngoài ý muốn" (the absence of involuntary idleness). Diễn giải của người tổng hợp: mọi người muốn làm ở mức lương hiện hành đều có việc. Ví dụ minh hoạ của người tổng hợp: một xã hội có 100 người trong tuổi lao động, 60 người muốn đi làm và cả 60 đều có việc là toàn dụng, dù 40 người còn lại đi học, nghỉ hưu hay ở nhà. Khái niệm này quan trọng vì Hazlitt muốn tách nó ra khỏi "càng nhiều người làm càng tốt".
 
 **Tôn sùng (fetish).** Chữ Hazlitt dùng trong tên chương: coi một thứ vốn chỉ là công cụ như thể nó có giá trị tự thân. Ở đây là coi việc làm như mục đích, trong khi nó chỉ là phương tiện để sản xuất. Đây là chẩn đoán chung cho các ngụy biện ở Chương 7–9.
 
 **Sản xuất tối đa (full production / maximize production).** Làm ra nhiều hàng hoá, dịch vụ có giá trị nhất có thể với nguồn lực hiện có. Ví dụ minh hoạ của người tổng hợp: hai nền kinh tế đều có 1.000 người làm việc; nền kinh tế A làm ra giá trị 10 triệu USD/năm, nền kinh tế B dùng nhiều cách làm thủ công làm ra 4 triệu USD/năm. Cả hai đều "toàn dụng", nhưng mức sống ở A cao gấp 2,5 lần. Hazlitt muốn chính sách được đo bằng con số này.
 
-**Việc làm trá hình (disguised make-work).** Việc làm được tạo ra không vì giá trị của sản phẩm mà để có người làm: dự án công dùng nhiều người hơn mức cần, quy định bắt thuê người thừa. Hazlitt coi chúng tệ hơn cứu trợ công khai, vì ngoài chi phí nuôi người còn làm xáo trộn sản xuất.
+**Việc làm trá hình (disguised make-work).** Việc làm được tạo ra không vì giá trị của sản phẩm mà để có người làm: dự án công dùng nhiều người hơn mức cần, quy định bắt thuê người thừa. Hazlitt coi chúng tệ hơn cứu trợ công khai, vì chúng làm xáo trộn sản xuất ("production is disorganized").
 
-**Thất nghiệp tự nguyện và không tự nguyện (voluntary vs involuntary idleness).** Không tự nguyện: muốn làm mà không có việc. Tự nguyện: có thể làm nhưng chọn không làm (đi học, nghỉ hưu, chăm gia đình, làm ít giờ hơn). Hazlitt cho rằng xã hội giàu lên thì phần không làm việc **tự nguyện** tăng lên, và đó là thành quả chứ không phải thất bại; ý này nối với Chương 7.
+**Thất nghiệp tự nguyện và không tự nguyện (voluntary vs involuntary idleness).** Không tự nguyện: muốn làm mà không có việc. Tự nguyện: có thể làm nhưng chọn không làm (đi học, nghỉ hưu, chăm gia đình, làm ít giờ hơn). Trong chương này Hazlitt chỉ dùng cụm "involuntary idleness"; vế "tự nguyện" do người tổng hợp thêm để đối chiếu (Hazlitt dùng "voluntary unemployment" ở Chương 7). Hazlitt cho rằng xã hội giàu lên thì phần không làm việc **tự nguyện** tăng lên, và đó là thành quả chứ không phải thất bại; ý này nối với Chương 7.
 
 **Thiếu vốn (shortage of capital).** Tình trạng một nền kinh tế có ít máy móc, công cụ, hạ tầng trên mỗi lao động. Hazlitt nói phương pháp sản xuất lạc hậu ở Trung Quốc, Ấn Độ năm 1946 vừa là nguyên nhân vừa là hậu quả của thiếu vốn. Đây là chìa khoá giải thích vì sao một nước có thể có đủ việc làm mà vẫn nghèo: vấn đề là năng suất mỗi người, không phải số người làm.
 
 ## Nội dung chi tiết
 
-### 1. Mục tiêu kinh tế: kết quả lớn nhất với công sức nhỏ nhất
+### 1. Mục tiêu kinh tế: kết quả lớn nhất với công sức nhỏ nhất (hai đoạn mở đầu chương)
 
-Hazlitt mở đầu: mục tiêu kinh tế của mọi quốc gia, cũng như của mọi cá nhân, là đạt được kết quả lớn nhất với công sức nhỏ nhất. Toàn bộ tiến bộ kinh tế của loài người là làm ra nhiều hơn với cùng một lượng lao động. Chính vì lý do đó mà con người bắt đầu chất hàng lên lưng con la thay vì lưng mình, rồi phát minh ra bánh xe và xe ngựa, đường sắt và xe tải, và dùng trí khôn để tạo ra hàng trăm nghìn phát minh tiết kiệm lao động.
+Hazlitt mở đầu: mục tiêu kinh tế của mọi quốc gia, cũng như của mọi cá nhân, là đạt được kết quả lớn nhất với công sức nhỏ nhất. Toàn bộ tiến bộ kinh tế của loài người là làm ra nhiều hơn với cùng một lượng lao động. Chính vì lý do đó mà con người bắt đầu chất hàng lên lưng con la thay vì lưng mình, rồi phát minh ra bánh xe và xe ngựa, đường sắt và xe tải, và dùng trí khôn để tạo ra một trăm nghìn phát minh tiết kiệm lao động.
 
 Ông nói tất cả những điều này sơ đẳng tới mức người ta sẽ ngượng khi phải nói ra, nếu những người đặt và lan truyền các khẩu hiệu mới không liên tục quên nó.
 
-### 2. Sản xuất là mục đích, việc làm chỉ là phương tiện
+### 2. Sản xuất là mục đích, việc làm chỉ là phương tiện (đoạn thứ ba và đoạn về bộ lạc nguyên thuỷ, Hitler)
 
 Chuyển sang cấp quốc gia, nguyên lý đầu tiên này có nghĩa là **mục tiêu thật của chúng ta là tối đa hoá sản xuất**. Khi làm vậy, toàn dụng lao động, tức là không có tình trạng ngồi không ngoài ý muốn, trở thành một sản phẩm phụ tất yếu. Nhưng sản xuất là mục đích, việc làm chỉ là phương tiện.
 
@@ -165,28 +165,30 @@ Hazlitt đưa ra một loạt ví dụ về toàn dụng đi kèm nghèo đói h
 | Lao động nô lệ ở Đức | Có | Cưỡng ép |
 | Nhà tù, đội tù khổ sai | Có | Cưỡng ép |
 
+Với Hitler, chiến tranh, lao động nô lệ và nhà tù, Hazlitt chỉ nói các trường hợp này có toàn dụng rồi kết bằng câu "cưỡng ép bao giờ cũng tạo được toàn dụng"; nội dung cột thứ ba ở hai dòng Hitler và chiến tranh là nhận xét của người tổng hợp.
+
 Kết luận: không gì dễ đạt hơn toàn dụng lao động, một khi tách nó khỏi mục tiêu sản xuất tối đa và coi nó là mục đích tự thân. Cưỡng ép bao giờ cũng tạo được toàn dụng.
 
-### 3. Phương tiện bị dựng thành mục đích
+### 3. Phương tiện bị dựng thành mục đích (đoạn về dự luật Toàn dụng và đoạn về Petrillo, WPA)
 
 Vậy mà các nhà lập pháp Mỹ không trình Quốc hội những dự luật Sản xuất tối đa, mà trình dự luật Toàn dụng lao động. Ngay cả các uỷ ban của giới doanh nhân cũng đề xuất thành lập "Uỷ ban Tổng thống về Toàn dụng lao động", không phải về Sản xuất tối đa, thậm chí không phải về Toàn dụng và Sản xuất tối đa. Khắp nơi, phương tiện được dựng lên thành mục đích, còn mục đích thật thì bị quên.
 
-Lương và việc làm được bàn như thể không liên quan gì tới năng suất và sản lượng. Hazlitt điểm lại các ví dụ ở những chương trước và thêm hai ví dụ mới:
+Lương và việc làm được bàn như thể không liên quan gì tới năng suất và sản lượng. Hazlitt nêu bốn ví dụ (người tổng hợp ghi chú: hai ví dụ đầu đã được bàn ở các chương trước):
 
 - Từ giả định có một lượng việc cố định, người ta kết luận tuần 30 giờ sẽ có nhiều việc hơn, nên tốt hơn tuần 40 giờ (Chương 8).
 - Hàng trăm quy định tạo việc của công đoàn được dung túng một cách mơ hồ (Chương 7).
 - Khi một người như **Petrillo** đe doạ làm một đài phát thanh phá sản nếu đài không thuê gấp đôi số nhạc công cần dùng, một phần công chúng ủng hộ ông, vì dù sao ông "chỉ đang cố tạo việc làm".
 - Thời có chương trình **WPA**, người quản lý được coi là thiên tài khi nghĩ ra những dự án dùng nhiều người nhất so với giá trị công việc làm ra, tức là những dự án mà lao động kém hiệu quả nhất.
 
-### 4. Cứu trợ công khai tốt hơn việc làm trá hình
+### 4. Cứu trợ công khai tốt hơn việc làm trá hình (đầu đoạn áp chót)
 
 Hazlitt đặt ra một lựa chọn giả định (và nói rõ thực tế không phải chọn như vậy): nếu phải chọn, thì có **sản xuất tối đa** và nuôi một phần dân không có việc bằng **cứu trợ công khai** sẽ tốt hơn nhiều so với tạo ra "toàn dụng lao động" bằng đủ loại việc làm trá hình đến mức sản xuất bị xáo trộn.
 
-Lý do (suy ra từ lập luận của cả cụm chương): cứu trợ công khai chỉ chuyển một phần sản lượng cho người không có việc; việc làm trá hình vừa tốn tiền nuôi người, vừa làm giảm chính sản lượng cần được chia.
+Hazlitt không giải thích thêm trong chương. Lý do theo người tổng hợp, suy ra từ lập luận của cả cụm chương: cứu trợ công khai chỉ chuyển một phần sản lượng cho người không có việc; việc làm trá hình vừa tốn tiền nuôi người, vừa làm giảm chính sản lượng cần được chia.
 
 **Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một địa phương có 100 tỉ đồng để hỗ trợ 2.000 lao động mất việc. Phương án A: trả trợ cấp và đào tạo nghề trực tiếp, mỗi người 50 triệu đồng; doanh nghiệp vẫn chọn cách làm hiệu quả nhất. Phương án B: giao vốn cho các dự án công với điều kiện "dùng càng nhiều lao động thủ công càng tốt", ví dụ đào mương bằng tay thay vì máy xúc; con mương xong chậm gấp mấy lần, chi phí cao hơn, và 2.000 người không học được kỹ năng nào dùng được ở nơi khác. Phương án B trông giống "tạo việc làm" hơn, nhưng xã hội nghèo hơn. Đây là lựa chọn mà Hazlitt muốn người đọc thấy.
 
-### 5. Tiến bộ văn minh nghĩa là giảm việc làm
+### 5. Tiến bộ văn minh nghĩa là giảm việc làm (phần còn lại của đoạn áp chót và câu kết chương)
 
 Hazlitt đưa ra một nhận định nghe ngược tai: **tiến bộ của văn minh có nghĩa là giảm việc làm, không phải tăng**. Chính vì nước Mỹ ngày càng giàu mà Mỹ đã gần như xoá được lao động trẻ em, giải phóng nhiều người già khỏi việc phải đi làm, và khiến hàng triệu phụ nữ không cần phải đi làm. Tỷ lệ dân số Mỹ cần làm việc nhỏ hơn nhiều so với Trung Quốc hay Nga.
 
@@ -221,7 +223,7 @@ Mục tiêu kinh tế của một quốc gia là tối đa hoá sản xuất (k�
 - Lịch sử công cụ: con la, bánh xe, xe ngựa, đường sắt, xe tải.
 - Toàn dụng mà nghèo hay lãng phí: bộ lạc nguyên thuỷ, Trung Quốc và Ấn Độ, Hitler, chiến tranh, lao động nô lệ ở Đức, nhà tù.
 - Dự luật Toàn dụng lao động ở Quốc hội; đề xuất "Uỷ ban Tổng thống về Toàn dụng lao động" của giới doanh nhân.
-- Petrillo ép đài phát thanh thuê gấp đôi số nhạc công; WPA chấm điểm dự án theo số người dùng.
+- Petrillo ép đài phát thanh thuê gấp đôi số nhạc công; người quản lý WPA được coi là thiên tài khi nghĩ ra dự án dùng nhiều người nhất so với giá trị công việc.
 - Mỹ gần như xoá lao động trẻ em; tỷ lệ dân cần làm việc nhỏ hơn Trung Quốc, Nga.
 - "50 hay 60 triệu việc làm năm 1950".
 
@@ -278,7 +280,9 @@ Mục tiêu kinh tế của một quốc gia là tối đa hoá sản xuất (k�
 >
 > *The progress of civilization has meant the reduction of employment, not its increase.*
 
-> "Vấn đề phân phối, nơi mọi người đang dồn sự chú ý, suy cho cùng càng dễ giải quyết khi có càng nhiều thứ để phân phối."
+> "Vấn đề phân phối, nơi ngày nay mọi sự chú ý đang dồn vào, suy cho cùng càng dễ giải quyết khi có càng nhiều thứ để phân phối."
+>
+> *The problem of distribution, on which all the stress is being put today, is after all more easily solved the more there is to distribute.*
 
 ## Đánh giá và phát hiện đáng chú ý
 
@@ -296,7 +300,7 @@ Hazlitt coi việc "hàng triệu phụ nữ không cần đi làm" là một th
 
 ### Hazlitt đúng về chương trình việc làm công kiểu WPA ở một phần, nhưng bỏ qua bối cảnh suy thoái
 
-Phê phán việc chấm điểm dự án theo số người dùng là hợp lý: nếu mục tiêu là sản phẩm, dự án nên dùng cách làm rẻ nhất. Nhưng WPA ra đời khi thất nghiệp ở Mỹ ở mức rất cao trong Đại Suy thoái, và lý lẽ của những người ủng hộ là: khi nguồn lực đang bị bỏ không, chi phí cơ hội của lao động gần bằng không, nên ngay cả một dự án kém hiệu quả vẫn tạo ra thêm sản phẩm thay vì không gì cả. Đây là điểm Keynes và Hazlitt bất đồng sâu nhất, và nó phụ thuộc vào câu hỏi Hazlitt bàn ở nơi khác: thất nghiệp hàng loạt có phải chủ yếu do lương và giá sai lệch (Hazlitt) hay do thiếu cầu tổng thể (Keynes). Chương 10 không tự giải quyết được tranh luận đó; nó chỉ chỉ ra đúng rằng ngay cả khi tạo việc công, nên chọn dự án có giá trị cao nhất chứ không phải dự án dùng nhiều người nhất.
+Phê phán việc khen những dự án dùng nhiều người nhất so với giá trị công việc là hợp lý: nếu mục tiêu là sản phẩm, dự án nên dùng cách làm rẻ nhất. Nhưng WPA ra đời khi thất nghiệp ở Mỹ ở mức rất cao trong Đại Suy thoái, và lý lẽ của những người ủng hộ là: khi nguồn lực đang bị bỏ không, chi phí cơ hội của lao động gần bằng không, nên ngay cả một dự án kém hiệu quả vẫn tạo ra thêm sản phẩm thay vì không gì cả. Đây là điểm Keynes và Hazlitt bất đồng sâu nhất, và nó phụ thuộc vào câu hỏi Hazlitt bàn ở nơi khác: thất nghiệp hàng loạt có phải chủ yếu do lương và giá sai lệch (Hazlitt) hay do thiếu cầu tổng thể (Keynes). Chương 10 không tự giải quyết được tranh luận đó; nó chỉ chỉ ra đúng rằng ngay cả khi tạo việc công, nên chọn dự án có giá trị cao nhất chứ không phải dự án dùng nhiều người nhất.
 
 ### Vận dụng: đo thành công bằng giá trị tạo ra, không bằng số người hay số giờ bỏ vào
 

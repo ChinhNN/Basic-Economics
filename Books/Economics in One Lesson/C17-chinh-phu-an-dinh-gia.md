@@ -2,10 +2,10 @@
 
 **Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai, Chương 17 "Government Price-Fixing". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
 **Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 13 ("Parity" Prices), 14 (Saving the X Industry) và 16 ("Stabilizing" Commodities) xét các nỗ lực của chính phủ đẩy giá một số hàng **lên trên** mức thị trường tự do. Chương 15 (How the Price System Works) giải thích giá thị trường điều phối sản xuất ra sao. Chương 17 xét chiều ngược lại: chính phủ giữ giá **xuống dưới** mức thị trường, tức đặt **trần giá** (price ceiling). Hai chương sau áp dụng cùng logic cho giá của lao động: Chương 18 (lương tối thiểu, một giá sàn do luật đặt ra) và Chương 19 (công đoàn dùng sức ép để nâng lương). Câu hỏi "vậy cái gì thực sự đẩy giá lên" được Hazlitt hẹn trả lời ở Chương 22 (The Mirage of Inflation).
-**Ý chính:** Hazlitt muốn chứng minh rằng ấn định giá tối đa (maximum price-fixing) dưới mức thị trường tất yếu **làm tăng cầu và giảm cung**, nên sinh ra **thiếu hụt** đúng ở những mặt hàng thiết yếu mà chính phủ muốn dồi dào nhất. Để chữa thiếu hụt, chính phủ phải lần lượt dùng phân phối theo tem phiếu (rationing), kiểm soát chi phí, trợ cấp, rồi ấn định giá toàn bộ; mỗi bước lại gây thiếu hụt mới, và kết cục logic là một nền kinh tế bị điều khiển toàn diện. Trong thực tế châu Âu sau Thế chiến II, chợ đen làm dịu bớt sai lầm nhưng gây hại cả kinh tế lẫn đạo đức. Gốc rễ của chính sách là sai lầm trung tâm của cuốn sách: chỉ nghĩ tới con người với tư cách người tiêu dùng mà quên họ cũng là người sản xuất. Ví dụ số chính: thịt bò giá thị trường 65 xu một pound, trần giá 50 xu một pound.
+**Vị trí trong lập luận của cả cuốn sách:** Chương 13 ("Parity" Prices), 14 (Saving the X Industry) và 16 ("Stabilizing" Commodities) xét các nỗ lực của chính phủ đẩy giá một số hàng **lên trên** mức thị trường tự do. Chương 15 (How the Price System Works) giải thích giá thị trường điều phối sản xuất ra sao. Chương 17 xét chiều ngược lại: chính phủ giữ giá **xuống dưới** mức thị trường, tức đặt **trần giá** (price ceiling). Hai chương sau áp dụng cùng logic cho giá của lao động: Chương 18 (lương tối thiểu, một giá sàn do luật đặt ra) và Chương 19 (công đoàn dùng sức ép để nâng lương). Ở cuối chương, Hazlitt nói nguyên nhân thật của tăng giá là hàng khan hiếm hoặc tiền thừa, và hẹn bàn việc xử lý tiền thừa "ở một chương sau" (theo người tổng hợp, đó là Chương 22, The Mirage of Inflation).
+**Ý chính:** Hazlitt muốn chứng minh rằng ấn định giá tối đa (maximum price-fixing) dưới mức thị trường tất yếu **làm tăng cầu và giảm cung**, nên sinh ra **thiếu hụt** đúng ở những mặt hàng thiết yếu mà chính phủ muốn dồi dào nhất. Để chữa thiếu hụt, chính phủ dùng thêm phân phối theo tem phiếu (rationing), kiểm soát chi phí, trợ cấp, ấn định giá toàn bộ; tem phiếu chỉ ép cầu mà không tăng cung, kiểm soát chi phí đẩy thiếu hụt sang các yếu tố sản xuất, trợ cấp chuyển gánh nặng sang người nộp thuế, và kết cục logic của kiểm soát giá kéo dài là một nền kinh tế bị điều khiển toàn diện. Trong thực tế châu Âu trong và sau Thế chiến II, chợ đen làm dịu bớt sai lầm nhưng gây hại cả kinh tế lẫn đạo đức. Gốc rễ của chính sách là sai lầm trung tâm của cuốn sách: chỉ nghĩ tới con người với tư cách người tiêu dùng mà quên họ cũng là người sản xuất. Ví dụ số chính: thịt bò giá thị trường 65 xu một pound, trần giá 50 xu một pound.
 
-> **Lưu ý:** (1) Bối cảnh: trong Thế chiến II, Mỹ lập Cơ quan Quản lý Giá (*Office of Price Administration*, OPA, 1941) để đặt trần giá và phát tem phiếu cho thịt, đường, xăng, lốp xe, giày… Khi Hazlitt viết sách (1946), chiến tranh đã kết thúc nhưng kiểm soát giá vẫn còn; năm 1946 có giai đoạn trần giá thịt bị bỏ rồi áp lại, và thịt biến mất khỏi quầy hàng. Phần lớn kiểm soát giá của OPA bị dỡ vào cuối năm 1946, nhưng kiểm soát tiền thuê nhà ở nhiều nơi kéo dài nhiều năm. Ở châu Âu (Anh, Pháp, Đức), tem phiếu và trần giá kéo dài tới đầu thập niên 1950. (2) Hazlitt nói rõ ông **không** bàn việc ấn định giá trong thời chiến có khôn ngoan hay không; ông chỉ xét việc duy trì nó trong thời bình. (3) Câu của Alexander Hamilton mà Hazlitt trích ("Quyền lực đối với sinh kế của một người là quyền lực đối với ý chí của người đó") nằm trong *The Federalist* số 79, nói về việc giữ lương thẩm phán ổn định để họ độc lập, không nói về kiểm soát giá; Hazlitt dùng câu đó theo nghĩa mở rộng. (4) Mọi câu trích là bản dịch của người tổng hợp.
+> **Lưu ý:** (1) Bối cảnh: trong Thế chiến II, Mỹ lập Cơ quan Quản lý Giá (*Office of Price Administration*, OPA, 1941) để đặt trần giá và phát tem phiếu cho thịt, đường, xăng, lốp xe, giày… Khi Hazlitt viết sách (1946), chiến tranh đã kết thúc nhưng kiểm soát giá vẫn còn; năm 1946 có giai đoạn trần giá thịt bị bỏ rồi áp lại, và thịt biến mất khỏi quầy hàng. Phần lớn kiểm soát giá của OPA bị dỡ vào cuối năm 1946, nhưng kiểm soát tiền thuê nhà ở nhiều nơi kéo dài nhiều năm. Ở châu Âu (Anh, Pháp, Đức), tem phiếu và trần giá kéo dài tới đầu thập niên 1950. (2) Hazlitt nói rõ ông **không** bàn việc ấn định giá trong thời chiến có khôn ngoan hay không; ông nhấn mạnh rằng ở hầu hết các nước nó được duy trì rất lâu sau chiến tranh, dù ví dụ ông dùng vẫn lấy từ thời chiến. (3) Câu của Alexander Hamilton mà Hazlitt trích ("Quyền lực đối với sinh kế của một người là quyền lực đối với ý chí của người đó") nằm trong *The Federalist* số 79, nói về việc giữ lương thẩm phán ổn định để họ độc lập, không nói về kiểm soát giá; Hazlitt dùng câu đó theo nghĩa mở rộng. (4) Mọi câu trích là bản dịch của người tổng hợp.
 
 ## Sơ đồ
 
@@ -38,8 +38,8 @@
          hơn một chút)
        · lập luận "theo sức mua chứ không theo nhu cầu" đúng với MỌI mức
          giá lớn hơn 0; nó chỉ hết đúng khi thịt được PHÁT KHÔNG
-       → vậy nếu lập luận này đúng, thì chính sách trần giá là nửa vời,
-         rụt rè so với chính lập luận của nó
+       → vậy nếu lập luận này đúng, thì chính sách trần giá là KHÔNG
+         NHẤT QUÁN và rụt rè so với chính lập luận của nó
                                 │
                                 ▼
        ĐIỂM XUẤT PHÁT TUỲ TIỆN: trần giá thường bắt đầu với mục tiêu
@@ -76,14 +76,15 @@
        · chính phủ chỉ khống chế giá, lương và lợi nhuận của người làm
          hàng thiết yếu, còn hàng xa xỉ và nửa xa xỉ thì không bị khống
          chế
-       → vốn và lao động chuyển từ hàng thiết yếu sang hàng ít cần thiết
-         hơn, NGƯỢC HẲN mục tiêu ban đầu
+       → sản xuất hàng thiết yếu bị làm nản, còn sản xuất hàng ít cần
+         thiết hơn được kích thích một cách TƯƠNG ĐỐI, NGƯỢC HẲN mục tiêu
+         ban đầu
 ```
 
 ### Phần 3: bốn biện pháp chữa cháy và hậu quả của từng biện pháp (mục 2 của chương)
 
 ```text
-       Khi thiếu hụt lộ ra, chính phủ đổ lỗi: người tiêu dùng giàu bị
+       Khi thiếu hụt lộ ra, người ta đổ lỗi: người tiêu dùng giàu bị
        buộc tội lấy "quá phần công bằng của mình", doanh nghiệp bị buộc
        tội "ĐẦU CƠ TÍCH TRỮ" (hoarding) nguyên liệu. Rồi chính phủ dùng
        thêm bốn biện pháp:
@@ -123,8 +124,10 @@
          → Hazlitt: "chưa ai tìm ra cách để cộng đồng có được thứ gì mà
            không mất gì"
                                 │
-       ④ ẤN ĐỊNH GIÁ TOÀN BỘ (universal price-fixing): điểm đến của cả
-         ba biện pháp trên, xem Phần 4
+       ④ ẤN ĐỊNH GIÁ TOÀN BỘ (universal price-fixing): Hazlitt không
+         tách đoạn riêng; ông nói kiểm soát chi phí cuối cùng cũng như
+         ấn định giá toàn bộ, và phân tích điểm cuối này ở mục 3, xem
+         Phần 4
 ```
 
 ### Phần 4: kiểm soát lan theo chiều dọc và chiều ngang, tới nền kinh tế bị điều khiển toàn diện (mục 3 của chương)
@@ -151,7 +154,7 @@
          sản xuất
                                 │
                                 ▼
-       ĐIỂM CUỐI LOGIC của một cuộc kiểm soát giá toàn diện, kéo dài,
+       ĐIỂM CUỐI LOGIC của một cuộc kiểm soát giá toàn diện, triệt để,
        nhằm giữ mãi một mặt bằng giá như trong quá khứ:
        · lương bị giữ cứng như giá; lao động bị PHÂN BỔ như nguyên liệu
        · chính phủ quy định mỗi người tiêu dùng được bao nhiêu mỗi thứ,
@@ -251,8 +254,8 @@
        Stevenson)
        · khi nghĩ mình là người sản xuất, anh ta muốn LẠM PHÁT (giá hàng
          mình làm ra tăng)
-       · khi nghĩ mình là người tiêu dùng, anh ta muốn TRẦN GIÁ, và ủng
-         hộ TRỢ CẤP cho hàng mình mua
+       · khi nghĩ mình là người tiêu dùng, anh ta muốn TRẦN GIÁ, và có
+         thể ủng hộ hoặc chấp nhận TRỢ CẤP cho hàng mình mua
        · khi nghĩ mình là người nộp thuế, anh ta không muốn trả tiền cho
          khoản trợ cấp đó
        → ai cũng tưởng mình xoay được các lực chính trị để được LỢI
@@ -267,7 +270,7 @@
 
 1. **Vì sao trần giá đặt dưới giá thị trường lại sinh thiếu hụt?** Vì nó làm hai việc cùng lúc: giá rẻ hơn nên người ta muốn mua nhiều hơn (cầu tăng), và lợi nhuận bị cắt nên nhà sản xuất làm ít đi hoặc bỏ ngành (cung giảm). Ví dụ của Hazlitt: thời chiến, OPA buộc lò mổ bán thịt dưới chi phí mua bò sống cộng công giết mổ.
 2. **Vì sao kiểm soát giá một mặt hàng có xu hướng lan ra toàn bộ nền kinh tế?** Vì mỗi biện pháp chữa thiếu hụt lại gây thiếu hụt mới. Khống chế giá thịt thì phải khống chế giá bò, thức ăn gia súc, lương công nhân (lan theo chiều dọc); phát tem phiếu thịt thì người dân dồn tiền sang hàng thay thế, nên phải phát tem phiếu cả hàng đó (lan theo chiều ngang). Điểm cuối là chính phủ phân bổ cả nguyên liệu lẫn lao động.
-3. **Ai thực sự hưởng trợ cấp cho người sản xuất kèm trần giá?** Người tiêu dùng, và người có nhiều sức mua nhất hưởng nhiều nhất. Nhà sản xuất chỉ được bù cho bằng giá thị trường; người trả là người nộp thuế, tức phần lớn là chính những người tiêu dùng ấy.
+3. **Ai thực sự hưởng trợ cấp cho người sản xuất kèm trần giá?** Người tiêu dùng, và người có nhiều sức mua nhất hưởng nhiều nhất. Nhà sản xuất chỉ được bù cho bằng giá thị trường. Ai trả cụ thể tuỳ cách phân bổ gánh nặng thuế, nhưng xét chung, con người với tư cách người nộp thuế đang trợ cấp cho chính mình với tư cách người tiêu dùng.
 
 ## Khái niệm cần biết
 
@@ -279,15 +282,15 @@
 
 **Nhà sản xuất biên (marginal producers).** Những nhà sản xuất có chi phí cao nhất, chỉ vừa đủ hoà vốn ở giá hiện hành. Ví dụ minh hoạ của người tổng hợp: nếu ba trại bò có chi phí 40, 48 và 60 xu cho mỗi pound thịt, trần giá 50 xu loại ngay trại thứ ba. Trần giá đánh vào họ trước tiên, nên cung giảm ngay cả khi các nhà sản xuất hiệu quả vẫn ở lại.
 
-**Kiểm soát lan theo chiều dọc và chiều ngang (vertical / horizontal extension of controls).** Chiều dọc: từ giá thành phẩm ngược lên giá các yếu tố sản xuất (bánh mì → bột mì → lúa mì → lương thợ). Chiều ngang: từ một mặt hàng sang các hàng thay thế, vì người dân còn thừa sức mua. Hai hướng này là cơ chế khiến Hazlitt kết luận kiểm soát giá kéo dài sẽ đi tới kinh tế chỉ huy.
+**Kiểm soát lan theo chiều dọc và chiều ngang (vertical / horizontal extension of controls).** Chiều dọc: từ giá thành phẩm ngược lên giá các yếu tố sản xuất (từ bánh mì sang bột mì, lúa mì, lương thợ). Chiều ngang: từ một mặt hàng sang các hàng thay thế, vì người dân còn thừa sức mua. Hai hướng này là cơ chế khiến Hazlitt kết luận kiểm soát giá kéo dài sẽ đi tới kinh tế chỉ huy.
 
 **Chợ đen (black market).** Mua bán ở giá cao hơn trần giá, trái luật. Hazlitt thừa nhận chợ đen giúp nhiều người châu Âu sống sót sau chiến tranh, nhưng chỉ ra hai cái giá phải trả: sản xuất chuyển từ doanh nghiệp lớn, lâu đời sang doanh nghiệp chộp giật kém hiệu quả, và sự gian dối được thưởng.
 
-**Nhân cách kinh tế đa diện (multiple economic personality).** Mỗi người đồng thời là người sản xuất, người nộp thuế, người tiêu dùng, và ủng hộ chính sách tuỳ theo lúc đó họ nghĩ mình là ai. Ví dụ: một nông dân nuôi bò muốn giá thịt cao (người sản xuất) nhưng muốn giá vải, giá máy kéo bị khống chế (người tiêu dùng). Đây là phiên bản của "bài học" (the lesson) ở Chương 1: nhìn hệ quả cho **mọi nhóm**, không chỉ một nhóm.
+**Nhân cách kinh tế đa diện (multiple economic personality).** Mỗi người đồng thời là người sản xuất, người nộp thuế, người tiêu dùng, và ủng hộ chính sách tuỳ theo lúc đó họ nghĩ mình là ai. Ví dụ của người tổng hợp: một nông dân nuôi bò muốn giá thịt cao (người sản xuất) nhưng muốn giá vải, giá máy kéo bị khống chế (người tiêu dùng). Đây là phiên bản của "bài học" (the lesson) ở Chương 1: nhìn hệ quả cho **mọi nhóm**, không chỉ một nhóm.
 
 ## Nội dung chi tiết
 
-### 1. Từ giá sàn sang trần giá; lập luận "theo sức mua chứ không theo nhu cầu"
+### 1. (Mục 1 của chương) Từ giá sàn sang trần giá; lập luận "theo sức mua chứ không theo nhu cầu"
 
 Các chương trước đã xét những nỗ lực của chính phủ giữ giá một số hàng cao hơn mức thị trường tự do. Chương này xét chiều ngược lại: giữ giá **thấp hơn** mức thị trường. Hầu như mọi chính phủ làm việc này trong thời chiến. Hazlitt gạt việc đánh giá kiểm soát giá thời chiến ra ngoài, vì trong chiến tranh tổng lực nhà nước chi phối toàn bộ nền kinh tế và các vấn đề phải xét đi quá xa chủ đề cuốn sách. Điều ông quan tâm: dù thời chiến có khôn ngoan hay không, ở hầu hết các nước việc ấn định giá được giữ lại rất lâu sau chiến tranh, khi lý do ban đầu đã không còn.
 
@@ -295,16 +298,16 @@ Các chương trước đã xét những nỗ lực của chính phủ giữ gi�
 
 Hazlitt chỉ ra hai điểm yếu:
 
-- **Lập luận này, nếu đúng, chứng minh quá nhiều.** Nếu ở giá thị trường 65 xu một pound sức mua quyết định ai có thịt, thì ở trần giá 50 xu sức mua vẫn quyết định, có thể kém hơn một chút. Lập luận "theo sức mua chứ không theo nhu cầu" đúng chừng nào thịt còn có giá, dù giá bao nhiêu; nó chỉ hết đúng khi thịt được phát không. Vậy chính sách đặt trần giá là nửa vời và rụt rè so với chính lập luận của nó.
+- **Lập luận này, nếu đúng, chứng minh quá nhiều.** Nếu ở giá thị trường 65 xu một pound sức mua quyết định ai có thịt, thì ở trần giá 50 xu sức mua vẫn quyết định, có thể kém hơn một chút. Lập luận "theo sức mua chứ không theo nhu cầu" đúng chừng nào thịt còn có giá, dù giá bao nhiêu; nó chỉ hết đúng khi thịt được phát không. Vậy chính sách đặt trần giá là không nhất quán và rụt rè so với chính lập luận của nó.
 - **Giá khởi điểm bị coi là thiêng liêng một cách tuỳ tiện.** Trần giá thường bắt đầu với mục tiêu "không để giá sinh hoạt tăng". Người đề xuất vô tình coi giá thị trường vào ngày bắt đầu kiểm soát là "bình thường", "hợp lý", còn giá cao hơn là "bất hợp lý", bất kể điều kiện sản xuất hay cầu đã đổi bao nhiêu từ đó.
 
 | Mức giá thịt bò | Ai quyết định ai có thịt? |
 |---|---|
 | Giá thị trường 65 xu/pound | Sức mua |
-| Trần giá 50 xu/pound | Vẫn là sức mua (ít hơn một chút), cộng thêm may rủi xếp hàng hoặc tem phiếu |
+| Trần giá 50 xu/pound | Vẫn là sức mua, có lẽ ở mức thấp hơn một chút (người tổng hợp thêm: cộng may rủi xếp hàng hoặc tem phiếu) |
 | Phát không (giá 0) | Lập luận "theo sức mua" mới hết đúng |
 
-### 2. Hai hệ quả tất yếu: cầu tăng, cung giảm
+### 2. (Mục 2, nửa đầu) Hai hệ quả tất yếu: cầu tăng, cung giảm
 
 Để phân tích có ý nghĩa, phải giả định trần giá thấp hơn giá thị trường tự do (trần giá đặt đúng bằng giá thị trường thì cũng như không kiểm soát), và sức mua trong tay công chúng lớn hơn lượng hàng có sẵn.
 
@@ -317,7 +320,7 @@ Nếu không làm gì thêm, hệ quả của trần giá là **thiếu hụt** 
 
 **Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một thành phố quy định giá trông giữ xe máy tối đa 3.000 đồng một lượt, trong khi chi phí thuê mặt bằng và trả lương người trông xe tính ra khoảng 5.000 đồng. Chủ mặt bằng chuyển sang cho thuê làm quán cà phê, nơi giá không bị khống chế. Bãi giữ xe giảm, người đi xe phải chạy vòng tìm chỗ hoặc trả thêm "tiền ngoài" cho bãi còn lại. Đúng thứ chính quyền muốn có nhiều nhất lại trở nên khan nhất.
 
-### 3. Bốn biện pháp chữa cháy
+### 3. (Mục 2, nửa sau, từ "Some of these consequences in time become apparent") Bốn biện pháp chữa cháy
 
 Dần dần, người làm chính sách thấy một số hệ quả này và dùng thêm các biện pháp khác để tránh chúng: phân phối theo tem phiếu, kiểm soát chi phí, trợ cấp và ấn định giá toàn bộ. Hazlitt xét lần lượt.
 
@@ -345,9 +348,9 @@ Nhưng khi đẩy việc ấn định giá ngược lên các khâu trước, ch
 
 Nếu hàng được trợ cấp không đồng thời phát tem phiếu, người có nhiều sức mua nhất mua nhiều nhất, tức được trợ cấp nhiều hơn người ít sức mua. Ai trợ cấp cho người tiêu dùng thì tuỳ ai chịu thuế; nhưng con người, với tư cách người nộp thuế, đang trợ cấp cho chính mình với tư cách người tiêu dùng. Trong mê cung này khó lần ra chính xác ai trợ cấp cho ai. Điều bị quên là trợ cấp phải có người trả, và chưa ai tìm ra cách để cộng đồng có được thứ gì mà không mất gì.
 
-**(d) Ấn định giá toàn bộ.** Biện pháp thứ tư là điểm đến của cả ba biện pháp trên, Hazlitt phân tích ở mục kế tiếp.
+**(d) Ấn định giá toàn bộ.** Hazlitt không viết đoạn riêng cho biện pháp thứ tư. Ông nói kiểm soát chi phí kéo dài thì kết cục cũng giống ấn định giá toàn bộ, và phân tích điểm cuối đó ở mục kế tiếp.
 
-### 4. Từ kiểm soát một mặt hàng tới nền kinh tế bị điều khiển toàn diện
+### 4. (Mục 3) Từ kiểm soát một mặt hàng tới nền kinh tế bị điều khiển toàn diện
 
 Ấn định giá có thể có vẻ thành công trong một thời gian ngắn, nhất là thời chiến, khi được lòng yêu nước và cảm giác khủng hoảng hậu thuẫn. Nhưng càng kéo dài, khó khăn càng tăng. Khi giá bị cưỡng chế giữ thấp một cách tuỳ tiện, cầu thường xuyên vượt cung.
 
@@ -358,7 +361,7 @@ Chính phủ phải mở rộng kiểm soát theo hai hướng:
 
 Hệ quả tự nhiên của một cuộc kiểm soát giá toàn diện, triệt để, nhằm duy trì mãi một mặt bằng giá lịch sử, cuối cùng phải là một nền kinh tế bị điều khiển hoàn toàn (*completely regimented economy*). Lương phải bị giữ cứng như giá. Lao động phải bị phân bổ gắt gao như nguyên liệu. Chính phủ sẽ không chỉ bảo mỗi người tiêu dùng được bao nhiêu mỗi thứ, mà còn bảo mỗi nhà sản xuất được bao nhiêu nguyên liệu và bao nhiêu lao động. Trả giá cạnh tranh để thuê công nhân cũng bị cấm như trả giá cạnh tranh để mua nguyên liệu. Kết quả là một nền kinh tế toàn trị đông cứng, mọi doanh nghiệp và mọi người lao động phụ thuộc vào chính phủ, và các quyền tự do truyền thống bị bỏ hẳn. Như Alexander Hamilton viết trong *The Federalist* một thế kỷ rưỡi trước: "Quyền lực đối với sinh kế của một người là quyền lực đối với ý chí của người đó."
 
-### 5. Thực tế: chợ đen và tác hại kinh tế, đạo đức
+### 5. (Mục 4, hai đoạn đầu) Thực tế: chợ đen và tác hại kinh tế, đạo đức
 
 Mục trên mô tả hậu quả của một cuộc kiểm soát giá "hoàn hảo", kéo dài và "phi chính trị". Thực tế ở nước này qua nước khác, nhất là châu Âu trong và sau Thế chiến II, cho thấy chợ đen làm dịu bớt một số sai lầm quái gở nhất của bộ máy công chức. Ở nhiều nước, người ta chỉ đủ sống nhờ mua ở chợ đen. Có nước, chợ đen lớn dần lên, lấn chỗ thị trường giá cố định hợp pháp, tới mức chợ đen thực tế **là** thị trường. Tuy vậy, bằng cách vẫn giữ trần giá trên danh nghĩa, các chính khách cầm quyền cố tỏ ra rằng tấm lòng của họ, nếu không phải lực lượng thực thi của họ, đặt đúng chỗ.
 
@@ -367,7 +370,7 @@ Không thể vì chợ đen cuối cùng thay thế thị trường trần giá 
 - **Kinh tế:** trong giai đoạn chuyển tiếp, các doanh nghiệp lớn, lâu đời, đầu tư vốn nặng và phụ thuộc nhiều vào uy tín với công chúng, buộc phải hạn chế hoặc ngừng sản xuất. Chỗ của họ bị các doanh nghiệp chộp giật (*fly-by-night concerns*) chiếm, ít vốn và ít kinh nghiệm. Những doanh nghiệp mới này kém hiệu quả hơn doanh nghiệp bị thay thế; họ làm ra hàng kém và gian dối với chi phí sản xuất cao hơn nhiều so với chi phí doanh nghiệp cũ cần để tiếp tục làm hàng như trước.
 - **Đạo đức:** sự gian dối được thưởng. Doanh nghiệp mới tồn tại hoặc lớn lên chính vì họ dám phạm luật; khách hàng thông đồng với họ; và tất yếu, sự suy đồi lan vào mọi tập quán kinh doanh.
 
-### 6. Ấn định giá phân biệt theo sức mạnh chính trị
+### 6. (Mục 4, hai đoạn cuối) Ấn định giá phân biệt theo sức mạnh chính trị
 
 Hiếm khi cơ quan ấn định giá thực lòng chỉ giữ nguyên mặt bằng giá như lúc bắt đầu. Họ tuyên bố ý định "giữ nguyên mức" (*hold the line*). Nhưng chẳng bao lâu, dưới danh nghĩa "sửa những chỗ bất công" hay "sửa những bất công xã hội", họ bắt đầu ấn định giá phân biệt: có lợi nhiều nhất cho những nhóm mạnh về chính trị và ít nhất cho các nhóm khác.
 
@@ -378,7 +381,7 @@ Vì quyền lực chính trị ngày nay thường đo bằng phiếu bầu, cá
 
 Nhưng không có cái gọi là tỷ suất lợi nhuận đồng đều; lợi nhuận mỗi doanh nghiệp một khác. Kết quả là các doanh nghiệp lãi ít nhất bị đẩy hẳn ra khỏi thị trường, và việc sản xuất một số mặt hàng bị kìm hoặc ngừng. Điều đó có nghĩa là thất nghiệp, sản xuất thu hẹp và mức sống giảm.
 
-### 7. Gốc rễ: sai lầm về nguyên nhân tăng giá và "nhân cách kinh tế đa diện"
+### 7. (Mục 5, kết chương) Gốc rễ: sai lầm về nguyên nhân tăng giá và "nhân cách kinh tế đa diện"
 
 Ở gốc của mọi nỗ lực ấn định giá tối đa trước hết là hiểu sai cái gì làm giá tăng. Nguyên nhân thật là hoặc hàng khan hiếm, hoặc tiền thừa. Trần giá theo luật không chữa được cái nào; như đã thấy, nó chỉ làm thiếu hàng nặng thêm. Làm gì với tiền thừa sẽ được bàn ở một chương sau (Chương 22, The Mirage of Inflation).
 
@@ -436,17 +439,17 @@ Mỗi người dễ nghĩ rằng mình xoay xở được các lực chính tr�
 
 ### Kết luận và hàm ý chính sách
 
-- Muốn chống tăng giá phải xử lý nguyên nhân: tăng cung hàng hoá hoặc ngừng tạo thêm tiền (bàn ở Chương 22); trần giá không làm được việc này.
+- Muốn chống tăng giá phải xử lý nguyên nhân (hàng khan hiếm hoặc tiền thừa); trần giá không làm được việc này. Cách xử lý cụ thể (tăng cung hàng hoá, ngừng tạo thêm tiền) là suy ra của người tổng hợp; Hazlitt hẹn bàn việc xử lý tiền thừa ở một chương sau (Chương 22).
 - Nếu muốn giúp người nghèo mua hàng thiết yếu, trần giá là công cụ nửa vời và phản tác dụng; Hazlitt không đề xuất công cụ thay thế trong chương, nhưng logic của ông chỉ ra rằng mọi khoản trợ giúp đều phải có người trả.
-- Trợ cấp kèm trần giá không miễn phí: người nộp thuế, phần lớn chính là người tiêu dùng, trả tiền.
+- Trợ cấp kèm trần giá không miễn phí: người nộp thuế trả tiền, tức con người với tư cách người nộp thuế trợ cấp cho chính mình với tư cách người tiêu dùng.
 - Kiểm soát giá kéo dài có xu hướng tự mở rộng và đe doạ tự do kinh tế lẫn tự do chính trị.
 - Công chúng nên đánh giá chính sách giá bằng cách nhìn mình ở cả ba vai: người sản xuất, người tiêu dùng, người nộp thuế.
 
 ### Trong ngôn ngữ kinh tế học hiện đại
 
-- **Trần giá ràng buộc (binding price ceiling)** trong mô hình cung cầu: lượng giao dịch bằng lượng cung (thấp hơn mức cân bằng), sinh **tổn thất vô ích (deadweight loss)**, và phần lợi người tiêu dùng có được từ giá thấp bị bào mòn bởi chi phí xếp hàng, tìm kiếm, hối lộ (Hazlitt mô tả bằng lời đúng hình học này).
+- **Trần giá ràng buộc (binding price ceiling)** trong mô hình cung cầu: lượng giao dịch bằng lượng cung (thấp hơn mức cân bằng), sinh **tổn thất vô ích (deadweight loss)**, và phần lợi người tiêu dùng có được từ giá thấp bị bào mòn bởi chi phí xếp hàng, tìm kiếm, hối lộ (Hazlitt mô tả bằng lời phần cầu tăng, cung giảm và thiếu hụt; tổn thất vô ích và chi phí xếp hàng, tìm kiếm, hối lộ là phần phân tích hiện đại thêm vào).
 - **Phân bổ không theo giá (non-price rationing)**: xếp hàng, tem phiếu, quan hệ, "ưu tiên". Tem phiếu là "giá thứ hai" theo đúng nghĩa Hazlitt nói.
-- **Độ co giãn của cung**: trần giá gây thiếu hụt lớn hơn khi cung co giãn nhiều trong dài hạn, đó là lý do Hazlitt nói "sớm hay muộn" (*in time*).
+- **Độ co giãn của cung**: trần giá gây thiếu hụt lớn hơn khi cung co giãn nhiều trong dài hạn, khớp với chữ "sớm hay muộn" (*in time*) của Hazlitt.
 - **Phạm vi tác động của trợ cấp (incidence)**: phân tích của Hazlitt về trợ cấp sữa, bơ là một bài phân tích tác động: người nhận danh nghĩa (nhà sản xuất) khác người hưởng thực tế (người tiêu dùng).
 - **Kinh tế học chính trị của kiểm soát giá (public choice)**: việc "giữ nguyên mức" biến thành ấn định giá phân biệt theo nhóm có phiếu bầu là một dự đoán của lý thuyết lựa chọn công cộng về sau.
 - **Lạm phát bị kìm nén (repressed inflation)**: khi tiền thừa mà giá bị khống chế, lạm phát không biến mất mà hiện ra dưới dạng xếp hàng, thiếu hàng, chợ đen; khái niệm này được dùng rộng rãi khi phân tích các nền kinh tế kế hoạch hoá.
@@ -483,7 +486,7 @@ Mỗi người dễ nghĩ rằng mình xoay xở được các lực chính tr�
 *The purchasing-power-rather-than-need argument, in fact, holds as long as we charge anything for beef whatever. It would cease to apply only if beef were given away.*
 
 > "Tem phiếu chỉ giới hạn cầu mà không đồng thời kích thích cung, như một mức giá cao hơn sẽ làm."
-*Rationing merely limits the demand without also stimulating the supply, as a higher price would have done.*
+*…rationing merely limits the demand without also stimulating the supply, as a higher price would have done.*
 
 > "Điều bị quên là trợ cấp phải có ai đó trả, và chưa ai tìm ra cách nào để cộng đồng có được thứ gì mà không mất gì."
 *What is forgotten is that subsidies are paid for by someone, and that no method has been discovered by which the community gets something for nothing.*

@@ -9,7 +9,7 @@
 
 ## Sơ đồ
 
-### Phần 1 (mục 1 của chương): vì sao kinh tế học đầy ngụy biện — nguyên nhân thứ nhất, nhóm lợi ích đặc biệt
+### Phần 1 (mục 1, đoạn mở đầu chương): vì sao kinh tế học đầy ngụy biện — nguyên nhân thứ nhất, nhóm lợi ích đặc biệt
 
 ```text
        Kinh tế học bị ám bởi NHIỀU ngụy biện hơn bất kỳ ngành học nào
@@ -40,7 +40,7 @@
          không ai còn nghĩ rõ ràng được về vấn đề nữa
 ```
 
-### Phần 2 (mục 1): nguyên nhân thứ hai — chỉ nhìn hệ quả trước mắt, và bài học trong một câu
+### Phần 2 (mục 1, đoạn 2–7, hết mục 1): nguyên nhân thứ hai — chỉ nhìn hệ quả trước mắt, và bài học trong một câu
 
 ```text
        NGUYÊN NHÂN THỨ HAI, sinh ra ngụy biện kinh tế mới mỗi ngày:
@@ -169,7 +169,7 @@
        đang nói NỬA SỰ THẬT
        · họ chỉ nói tác động trước mắt của chính sách, hoặc tác động
          của nó lên một nhóm
-       · trong phạm vi hẹp đó, họ thường nói ĐÚNG
+       · trong phạm vi hẹp đó, nhiều khi họ CÓ THỂ nói đúng
                                 │
                                 ▼
        Cách trả lời đúng: bổ sung và sửa nửa sự thật bằng NỬA KIA, tức
@@ -202,19 +202,19 @@
 
 1. **Vì sao kinh tế học có nhiều ngụy biện hơn vật lý hay y học?** Vì hai nguyên nhân. Một: mỗi chính sách có nhóm được lợi trực tiếp, và nhóm đó thuê người giỏi để biện hộ không ngừng, đến khi công chúng tin hoặc rối trí. Hai: con người có thói quen chỉ nhìn hệ quả trước mắt hoặc hệ quả cho một nhóm, bỏ qua hệ quả thứ cấp.
 2. **Bài học duy nhất của kinh tế học là gì?** Nhìn cả tác động lâu dài chứ không chỉ tác động trước mắt của mọi chính sách, và lần theo hệ quả cho mọi nhóm chứ không chỉ một nhóm. Theo Hazlitt, chín phần mười ngụy biện kinh tế đến từ việc vi phạm một hoặc cả hai vế này.
-3. **Vì sao lời nói sai lại thuyết phục hơn lời nói đúng?** Vì người nói sai nói nửa sự thật, và nửa đó thường đúng. Muốn sửa phải bổ sung nửa kia, mà nửa kia đòi một chuỗi suy luận dài và chán, nên khán giả bỏ cuộc; người nói sai còn dán nhãn "laissez faire" hay "biện hộ cho tư bản" để khán giả khỏi phải nghe.
+3. **Vì sao lời nói sai lại thuyết phục hơn lời nói đúng?** Vì người nói sai nói nửa sự thật, và nửa đó nhiều khi có thể đúng. Muốn sửa phải bổ sung nửa kia, mà nửa kia đòi một chuỗi suy luận dài và chán, nên khán giả bỏ cuộc; người nói sai còn dán nhãn "laissez faire" hay "biện hộ cho tư bản" để khán giả khỏi phải nghe.
 
 ## Khái niệm cần biết
 
 **Bài học (the lesson).** Câu tóm tắt cả cuốn sách: xét mọi chính sách theo hai chiều, chiều thời gian (trước mắt và lâu dài) và chiều xã hội (một nhóm và mọi nhóm). Ví dụ minh hoạ của người tổng hợp: một khoản trợ cấp 1 tỷ đồng cho một nhà máy giữ được 100 việc làm. Chiều thứ nhất hỏi: khi trợ cấp hết, nhà máy có tự đứng được không? Chiều thứ hai hỏi: 1 tỷ đồng đó lấy từ thuế của ai, và người nộp thuế lẽ ra đã chi nó vào việc gì? Mọi chương sau đều đặt đúng hai câu hỏi này.
 
-**Hệ quả thứ cấp (secondary consequences).** Những hệ quả không đến ngay, không rơi vào người trực tiếp tham gia, nên không ai nhìn thấy. Hazlitt gọi lỗi bỏ qua chúng là "ngụy biện bỏ qua hệ quả thứ cấp". Ví dụ ở Chương 2: hệ quả trực tiếp của cửa kính vỡ là người thợ kính có việc; hệ quả thứ cấp là người thợ may mất một đơn hàng bộ com-lê. Đây là phần "cái không thấy" (*the unseen*) trong khung của Bastiat.
+**Hệ quả thứ cấp (secondary consequences).** Những hệ quả không đến ngay, không rơi vào người trực tiếp tham gia, nên thường không được nhìn thấy. Hazlitt gọi lỗi bỏ qua chúng là "ngụy biện bỏ qua hệ quả thứ cấp". Ví dụ ở Chương 2: hệ quả trực tiếp của cửa kính vỡ là người thợ kính có việc; hệ quả thứ cấp là người thợ may mất một đơn hàng bộ com-lê. Đây là phần "cái không thấy" (*the unseen*) trong khung của Bastiat.
 
 **Ngắn hạn và dài hạn (short run / long run).** Trong chương này, đây không phải khái niệm kỹ thuật (như trong sách giáo khoa vi mô, nơi dài hạn là khi mọi yếu tố đều thay đổi được). Hazlitt dùng theo nghĩa thời gian thông thường: dài hạn là khi các hệ quả gián tiếp đã kịp lộ ra, có thể sau vài tháng, vài năm hay vài chục năm. Ví dụ: in tiền để trả lương công chức có tác động ngắn hạn là công chức có thêm tiền, tác động dài hạn là giá cả tăng và tiền tiết kiệm của mọi người mất giá.
 
-**Nhóm lợi ích đặc biệt (special interests) và sự biện hộ ích kỷ (special pleading).** Nhóm có lợi trực tiếp từ một chính sách và vận động cho nó. Ví dụ minh hoạ của người tổng hợp: một thuế quan làm giá thép tăng 10% đem lại cho vài chục doanh nghiệp thép hàng trăm tỷ đồng, đủ để họ thuê luật sư, chuyên gia và báo chí; trong khi mỗi người tiêu dùng mất vài chục nghìn đồng mỗi năm qua giá ô tô, máy giặt, nhà ở, không đủ để ai bỏ công ra phản đối. Hazlitt coi đây là nguyên nhân thứ nhất khiến ngụy biện kinh tế không bao giờ biến mất.
+**Nhóm lợi ích đặc biệt (special interests) và sự biện hộ ích kỷ (special pleading).** Nhóm có lợi trực tiếp từ một chính sách và vận động cho nó. Ví dụ minh hoạ của người tổng hợp: một thuế quan làm giá thép tăng 10% đem lại cho vài chục doanh nghiệp thép hàng trăm tỷ đồng, đủ để họ thuê luật sư, chuyên gia và báo chí; trong khi mỗi người tiêu dùng mất vài chục nghìn đồng mỗi năm qua giá ô tô, máy giặt, nhà ở, không đủ để ai bỏ công ra phản đối. Hazlitt coi đây là nguyên nhân thứ nhất khiến kinh tế học đầy ngụy biện: nó nhân cái khó vốn có của môn học lên hàng nghìn lần.
 
-**Lỗi ngược lại (the opposite error).** Chỉ nhìn kết quả dài hạn, tính gộp cho cả cộng đồng, mà bỏ mặc những nhóm bị thiệt ngay. Ví dụ: nói "tự do thương mại có lợi cho cả nước" mà không quan tâm công nhân dệt ở một thị trấn mất việc khi hàng nhập khẩu tràn vào. Hazlitt thừa nhận đây là lỗi của các nhà kinh tế cổ điển và gọi nó là "sự lạnh lùng", nhưng cho rằng nó hiếm và ít nguy hiểm hơn lỗi phổ biến.
+**Lỗi ngược lại (the opposite error).** Chỉ nhìn kết quả dài hạn, tính gộp cho cả cộng đồng, mà bỏ mặc những nhóm bị thiệt ngay. Ví dụ: nói "tự do thương mại có lợi cho cả nước" mà không quan tâm công nhân dệt ở một thị trấn mất việc khi hàng nhập khẩu tràn vào. Hazlitt thừa nhận đây là lỗi các nhà kinh tế cổ điển thường mắc và nói nó dẫn tới "một sự lạnh lùng nhất định" với các nhóm bị thiệt ngay, nhưng cho rằng ngày nay ít người mắc lỗi này và nó ít nghiêm trọng hơn lỗi phổ biến.
 
 **Nửa sự thật (half-truth).** Một mệnh đề đúng về tác động trước mắt hoặc tác động lên một nhóm, được trình bày như thể đó là toàn bộ tác động. Ví dụ: "thuế quan bảo vệ việc làm trong ngành thép" là nửa sự thật; nửa kia là "và làm mất việc làm ở các ngành dùng thép, và giảm sức mua của người tiêu dùng". Khái niệm này giải thích vì sao kinh tế học tồi thường thắng trong tranh luận công khai.
 
@@ -222,7 +222,7 @@
 
 ## Nội dung chi tiết
 
-### 1. Vì sao kinh tế học bị ám bởi nhiều ngụy biện như vậy
+### 1. Vì sao kinh tế học bị ám bởi nhiều ngụy biện như vậy (mục 1, đoạn 1–2)
 
 Hazlitt mở đầu: kinh tế học bị ám bởi nhiều ngụy biện hơn bất kỳ ngành học nào mà con người biết. Ông nói đó không phải tình cờ. Bản thân môn học đã khó, nhưng cái khó bị nhân lên hàng nghìn lần bởi một yếu tố gần như không đáng kể trong vật lý, toán học hay y học: **sự biện hộ của các lợi ích ích kỷ**.
 
@@ -230,9 +230,9 @@ Lập luận của ông như sau. Mỗi nhóm trong xã hội có một số l�
 
 Nguyên nhân thứ hai, sinh ra ngụy biện kinh tế mới mỗi ngày, là xu hướng dai dẳng của con người chỉ nhìn tác động trước mắt của một chính sách, hoặc chỉ nhìn tác động lên một nhóm đặc biệt, và không chịu hỏi tác động dài hạn của chính sách đó sẽ là gì, không chỉ với nhóm đặc biệt ấy mà với mọi nhóm. Hazlitt gọi đây là **ngụy biện bỏ qua hệ quả thứ cấp**.
 
-Hai nguyên nhân này nối với nhau: nhóm lợi ích đặc biệt không cần nói dối; họ chỉ cần chỉ vào lợi ích trước mắt của mình, và dựa vào thói quen của công chúng là không nhìn xa hơn.
+Nhận xét của người tổng hợp: hai nguyên nhân này nối với nhau: nhóm lợi ích đặc biệt không cần nói dối; họ chỉ cần chỉ vào lợi ích trước mắt của mình, và dựa vào thói quen của công chúng là không nhìn xa hơn.
 
-### 2. Nhà kinh tế tồi và nhà kinh tế giỏi
+### 2. Nhà kinh tế tồi và nhà kinh tế giỏi (mục 1, đoạn 3–4)
 
 Theo Hazlitt, gần như toàn bộ khác biệt giữa kinh tế học tốt và tồi nằm ở đây. Ông viết ba cặp câu song song:
 
@@ -254,44 +254,44 @@ Sự phân biệt này nghe hiển nhiên, và lời khuyên "hãy tìm mọi h�
 
 Ví dụ cuối là gần với kinh tế nhất, dù vẫn ở phạm vi cá nhân.
 
-### 3. Trong kinh tế công, những sự thật sơ đẳng ấy bị bỏ qua
+### 3. Trong kinh tế công, những sự thật sơ đẳng ấy bị bỏ qua (mục 1, đoạn 5–6)
 
 Nhưng khi bước vào lĩnh vực kinh tế công, những sự thật sơ đẳng ấy bị bỏ qua. Hazlitt viết rằng có những người hiện được coi là nhà kinh tế xuất sắc, coi nhẹ tiết kiệm và khuyên tiêu xài hoang phí ở quy mô quốc gia như con đường cứu rỗi nền kinh tế. Khi có người chỉ ra hệ quả dài hạn của những chính sách này, họ đáp một cách hời hợt, giống như đứa con hoang phí đáp lại lời cảnh báo của người cha: "Về dài hạn, tất cả chúng ta đều chết." Và những câu đùa nông cạn như vậy được coi là châm ngôn sắc sảo và là sự khôn ngoan chín chắn nhất.
 
 Hazlitt đáp: bi kịch là chúng ta **đang** chịu hệ quả dài hạn của những chính sách trong quá khứ xa hoặc gần. "Hôm nay đã là ngày mai mà nhà kinh tế tồi hôm qua bảo chúng ta đừng bận tâm." Hệ quả dài hạn của một số chính sách có thể lộ ra sau vài tháng; của một số khác, sau vài năm; của một số khác nữa, sau vài chục năm. Nhưng trong mọi trường hợp, hệ quả dài hạn đã nằm sẵn trong chính sách, chắc chắn như con gà nằm trong quả trứng, bông hoa nằm trong hạt giống.
 
-Ý quan trọng ở đây là: "dài hạn" không phải một tương lai xa xôi trừu tượng mà ta có quyền bỏ qua vì sẽ chết trước khi nó đến. Dài hạn của những người ra chính sách năm 1930 là hiện tại của người dân năm 1946.
+Nhận xét của người tổng hợp: ý quan trọng ở đây là "dài hạn" không phải một tương lai xa xôi trừu tượng mà ta có quyền bỏ qua vì sẽ chết trước khi nó đến. Dài hạn của những người ra chính sách năm 1930 là hiện tại của người dân năm 1946.
 
-### 4. Bài học trong một câu
+### 4. Bài học trong một câu (mục 1, đoạn cuối)
 
 Từ góc nhìn này, Hazlitt kết luận rằng toàn bộ kinh tế học có thể thu về một bài học, và bài học ấy thu về một câu:
 
 > Nghệ thuật kinh tế học là nhìn không chỉ vào tác động trước mắt mà cả tác động lâu dài hơn của mọi hành động hay chính sách; là lần theo hệ quả của chính sách đó không chỉ cho một nhóm mà cho mọi nhóm.
 
-Câu này có hai vế độc lập, và có thể viết thành hai câu hỏi kiểm tra cho mọi chính sách:
+Người tổng hợp tách câu này thành hai vế và viết thành hai câu hỏi kiểm tra cho mọi chính sách:
 
 | Vế | Câu hỏi kiểm tra | Lỗi khi bỏ qua |
 |---|---|---|
 | Chiều thời gian | Sau khi tác động trước mắt qua đi, điều gì xảy ra tiếp? | Chỉ nhìn tác động trước mắt |
 | Chiều xã hội | Ngoài nhóm được lợi, ai khác bị ảnh hưởng, kể cả những người không có mặt trong giao dịch? | Chỉ nhìn một nhóm |
 
-Lưu ý chữ "mọi hành động" (*any act*): bài học áp dụng cho cả quyết định của cá nhân và doanh nghiệp, không chỉ chính sách nhà nước.
+Lưu ý chữ "mọi hành động" (*any act*): theo cách đọc của người tổng hợp, bài học áp dụng cho cả quyết định của cá nhân và doanh nghiệp, không chỉ chính sách nhà nước.
 
-### 5. Chín phần mười ngụy biện và lỗi ngược lại
+### 5. Chín phần mười ngụy biện và lỗi ngược lại (mục 2, đoạn 1–2)
 
 Mục 2 của chương mở bằng một khẳng định định lượng (không có số liệu chứng minh): chín phần mười những ngụy biện kinh tế đang gây hại khủng khiếp trên thế giới là kết quả của việc bỏ qua bài học này. Tất cả chúng xuất phát từ một trong hai ngụy biện trung tâm, hoặc cả hai: chỉ nhìn hệ quả trước mắt của một hành động hay đề xuất, và chỉ nhìn hệ quả cho một nhóm cụ thể mà bỏ quên các nhóm khác.
 
 Hazlitt thừa nhận lỗi ngược lại cũng có thể xảy ra. Khi xét một chính sách, không nên chỉ tập trung vào kết quả dài hạn của nó cho cả cộng đồng. Đây là lỗi các nhà kinh tế cổ điển thường mắc. Nó dẫn tới một sự lạnh lùng nhất định đối với số phận của những nhóm bị thiệt ngay lập tức bởi những chính sách hay biến động mà, tính gộp và về dài hạn, hoá ra là có lợi.
 
-Đây là một nhượng bộ đáng ghi nhận: Hazlitt không nói "chỉ dài hạn mới quan trọng". Bài học yêu cầu nhìn **cả** ngắn hạn và dài hạn, **cả** một nhóm và mọi nhóm. Người bị thiệt ngay là một nhóm có thật, và bỏ qua họ cũng là vi phạm vế "mọi nhóm".
+Nhận xét của người tổng hợp: đây là một nhượng bộ đáng ghi nhận; Hazlitt không nói "chỉ dài hạn mới quan trọng". Bài học yêu cầu nhìn **cả** ngắn hạn và dài hạn, **cả** một nhóm và mọi nhóm. Người bị thiệt ngay là một nhóm có thật, và bỏ qua họ cũng là vi phạm vế "mọi nhóm".
 
-### 6. Lỗi phổ biến nhất: "kinh tế học mới"
+### 6. Lỗi phổ biến nhất: "kinh tế học mới" (mục 2, đoạn 3)
 
 Nhưng, Hazlitt viết, tương đối ít người ngày nay mắc lỗi ngược lại, và số ít đó chủ yếu là nhà kinh tế chuyên nghiệp. Ngụy biện phổ biến nhất hiện nay, xuất hiện trong gần như mọi cuộc nói chuyện chạm tới kinh tế, lỗi của hàng nghìn bài diễn văn chính trị, ngụy biện trung tâm của "kinh tế học mới", là **tập trung vào tác động ngắn hạn của chính sách lên các nhóm đặc biệt, và bỏ qua hoặc coi nhẹ tác động dài hạn lên cả cộng đồng**.
 
 Các "nhà kinh tế mới" tự hào rằng đây là một bước tiến lớn, gần như cách mạng, so với phương pháp của các nhà kinh tế "cổ điển" hay "chính thống", vì họ tính tới những tác động ngắn hạn mà phái cổ điển thường bỏ qua. Nhưng chính họ, khi bỏ qua hoặc xem nhẹ tác động dài hạn, đang mắc một lỗi nghiêm trọng hơn nhiều. Hazlitt viết họ "bỏ quên khu rừng khi xem xét tỉ mỉ và chính xác từng cái cây". Phương pháp và kết luận của họ thường "phản động sâu sắc", theo nghĩa quay về những ý tưởng cũ: đôi khi họ ngạc nhiên thấy mình đồng ý với chủ nghĩa trọng thương thế kỷ 17. Thực ra họ rơi vào mọi sai lầm cổ xưa mà ta từng hy vọng phái cổ điển đã dẹp bỏ một lần cho mãi mãi, hoặc sẽ rơi vào nếu họ không thiếu nhất quán đến thế.
 
-So sánh ba lập trường trong mục này:
+Bảng so sánh ba lập trường trong mục này (do người tổng hợp lập từ lời Hazlitt):
 
 | Lập trường | Nhìn ngắn hạn? | Nhìn dài hạn? | Quan tâm nhóm chịu tác động ngay? | Nhìn cả cộng đồng? | Hazlitt đánh giá |
 |---|---|---|---|---|---|
@@ -299,17 +299,17 @@ So sánh ba lập trường trong mục này:
 | "Kinh tế học mới" | Có | Bỏ qua hoặc coi nhẹ | Có, nhưng chỉ các nhóm đặc biệt mà chính sách nhắm tới | Bỏ qua | Lỗi nghiêm trọng hơn nhiều, phổ biến nhất |
 | Bài học | Có | Có | Có | Có | Đây là chuẩn |
 
-### 7. Vì sao kẻ mị dân thuyết phục hơn người trung thực
+### 7. Vì sao kẻ mị dân thuyết phục hơn người trung thực (mục 3, đoạn 1)
 
 Mục 3 của chương trả lời một lời than quen thuộc: nhà kinh tế tồi trình bày sai lầm của mình cho công chúng hay hơn nhà kinh tế giỏi trình bày sự thật; kẻ mị dân trên diễn đàn nói những điều vô lý về kinh tế nghe xuôi tai hơn người trung thực cố chỉ ra chỗ sai.
 
-Hazlitt cho rằng lý do không có gì bí ẩn. Kẻ mị dân và nhà kinh tế tồi đang nói **nửa sự thật**. Họ chỉ nói về tác động trước mắt của chính sách được đề xuất, hoặc tác động lên một nhóm. Trong phạm vi đó, họ thường đúng. Câu trả lời cho họ là chỉ ra rằng chính sách đó còn có những tác động lâu hơn và kém mong muốn hơn, hoặc rằng nó chỉ có lợi cho một nhóm bằng cách gây thiệt cho mọi nhóm khác. Tức là bổ sung và sửa nửa sự thật bằng nửa kia.
+Hazlitt cho rằng lý do không có gì bí ẩn. Kẻ mị dân và nhà kinh tế tồi đang nói **nửa sự thật**. Họ chỉ nói về tác động trước mắt của chính sách được đề xuất, hoặc tác động lên một nhóm. Trong phạm vi đó, nhiều khi họ có thể đúng. Câu trả lời cho họ là chỉ ra rằng chính sách đó còn có những tác động lâu hơn và kém mong muốn hơn, hoặc rằng nó chỉ có lợi cho một nhóm bằng cách gây thiệt cho mọi nhóm khác. Tức là bổ sung và sửa nửa sự thật bằng nửa kia.
 
 Nhưng xét mọi tác động chính của một đề xuất lên mọi người thường đòi một chuỗi suy luận dài, phức tạp và chán. Phần lớn khán giả thấy khó theo dõi, nhanh chóng chán và lơ đãng. Nhà kinh tế tồi biện minh cho sự yếu kém và lười biếng trí tuệ này bằng cách trấn an khán giả rằng họ thậm chí không cần cố theo dõi lập luận hay đánh giá nó, vì nó chỉ là "chủ nghĩa cổ điển", "laissez faire" (chủ trương để thị trường tự vận hành), "biện hộ cho tư bản", hay bất kỳ nhãn chửi nào họ thấy hiệu quả.
 
-Có một bất đối xứng ở đây: nửa sự thật đầu tiên ngắn, cụ thể và nhìn thấy được (một nhà máy được cứu, một con số việc làm); nửa sự thật thứ hai dài, trừu tượng và nói về những thứ không xảy ra (những việc làm không được tạo ra ở ngành khác). Hazlitt không nói khán giả ngu; ông nói cấu trúc của cuộc tranh luận nghiêng về phía nửa sự thật.
+Nhận xét của người tổng hợp: có một bất đối xứng ở đây. Nửa sự thật đầu tiên ngắn, cụ thể và nhìn thấy được (một nhà máy được cứu, một con số việc làm); nửa sự thật thứ hai dài, trừu tượng và nói về những thứ không xảy ra (những việc làm không được tạo ra ở ngành khác). Hazlitt có gọi sự bỏ cuộc của khán giả là "yếu kém và lười biếng trí tuệ", nhưng mũi phê phán của ông nhắm vào nhà kinh tế tồi, người lợi dụng sự bỏ cuộc ấy để khỏi phải tranh luận.
 
-### 8. Kế hoạch của cả cuốn sách
+### 8. Kế hoạch của cả cuốn sách (mục 3, đoạn cuối chương)
 
 Hazlitt khép chương: bản chất của bài học, và của những ngụy biện cản đường nó, mới chỉ được phát biểu bằng lời trừu tượng. Bài học sẽ không thấm, và ngụy biện sẽ tiếp tục không bị nhận ra, nếu cả hai không được minh hoạ bằng ví dụ. Qua các ví dụ, ta có thể đi từ những vấn đề sơ đẳng nhất của kinh tế học tới những vấn đề phức tạp và khó nhất; học cách phát hiện và tránh trước hết những ngụy biện thô thiển và lộ liễu nhất, và cuối cùng là một số ngụy biện tinh vi và khó nắm bắt nhất. Phần Hai ("Bài học được áp dụng") bắt đầu ngay sau đó với ví dụ đơn giản nhất có thể: cửa kính vỡ.
 
@@ -363,7 +363,7 @@ Gần như mọi ngụy biện kinh tế (chín phần mười) bắt nguồn t�
 - **Ngoại tác (externalities).** Hệ quả lên "những nhóm khác" không có mặt trong giao dịch chính là ngoại tác. Lưu ý: khái niệm này về sau (từ Pigou, 1920) thường được dùng để biện minh cho can thiệp của nhà nước (ví dụ thuế ô nhiễm), tức bài học của Hazlitt có thể dẫn tới kết luận ủng hộ can thiệp khi thị trường bỏ qua hệ quả cho bên thứ ba.
 - **Lựa chọn công (public choice) và hành động tập thể.** Nguyên nhân thứ nhất của Hazlitt (nhóm lợi ích đặc biệt thuê người biện hộ) được Mancur Olson chính thức hoá trong *The Logic of Collective Action* (1965): lợi ích tập trung vào ít người thì dễ tổ chức vận động; chi phí phân tán cho nhiều người thì không ai đứng ra phản đối. Trường phái lựa chọn công (James Buchanan, Gordon Tullock) phát triển thành lý thuyết về tìm kiếm đặc lợi (*rent-seeking*).
 - **Tư duy bậc hai (second-order thinking).** Trong quản trị và đầu tư, "nhìn hệ quả thứ cấp" ngày nay thường được gọi là tư duy bậc hai: hỏi "rồi sau đó thì sao?" thêm một hoặc nhiều lần.
-- **Bất nhất thời gian (time inconsistency) và thiên lệch hiện tại (present bias).** Các ví dụ cá nhân (ăn kẹo, uống rượu) chính là đối tượng của kinh tế học hành vi: con người coi trọng hiện tại quá mức so với tương lai. Hazlitt chỉ ra rằng chính trị khuếch đại thiên lệch này vì chu kỳ bầu cử ngắn hơn chu kỳ hệ quả.
+- **Bất nhất thời gian (time inconsistency) và thiên lệch hiện tại (present bias).** Các ví dụ cá nhân (ăn kẹo, uống rượu) chính là đối tượng của kinh tế học hành vi: con người coi trọng hiện tại quá mức so với tương lai. Người tổng hợp nói thêm (Hazlitt không bàn): chính trị khuếch đại thiên lệch này vì chu kỳ bầu cử ngắn hơn chu kỳ hệ quả.
 
 ## Thuật ngữ
 
@@ -416,7 +416,7 @@ Keynes viết câu này năm 1923 để chê những nhà kinh tế chỉ nói r
 
 ### Ngắn hạn và dài hạn không tách rời: ngắn hạn tồi có thể làm hỏng dài hạn
 
-Hazlitt nói như thể nhà kinh tế phải chọn giữa ngắn hạn và dài hạn, và dài hạn quan trọng hơn. Kinh tế học sau này chỉ ra rằng hai cái nối với nhau. Một cuộc suy thoái sâu và kéo dài (ngắn hạn) có thể làm người lao động mất kỹ năng, doanh nghiệp ngừng đầu tư, sinh viên ra trường không có việc; những tổn thất đó kéo dài nhiều năm. Hiện tượng này được gọi là "hiệu ứng trễ" (*hysteresis*). Nếu vậy thì bỏ mặc ngắn hạn cũng là bỏ qua hệ quả dài hạn, và đó chính là vi phạm bài học. Lập luận của Hazlitt vẫn đứng vững khi chính sách ngắn hạn tạo ra chi phí dài hạn lớn hơn (ví dụ lạm phát kéo dài), nhưng không phải mọi chính sách ổn định ngắn hạn đều như vậy.
+Hazlitt có thừa nhận "lỗi ngược lại" (chỉ nhìn dài hạn), nhưng cả chương dồn sức nặng vào dài hạn và đối xử với ngắn hạn, dài hạn như hai thứ tách rời. Kinh tế học sau này chỉ ra rằng hai cái nối với nhau. Một cuộc suy thoái sâu và kéo dài (ngắn hạn) có thể làm người lao động mất kỹ năng, doanh nghiệp ngừng đầu tư, sinh viên ra trường không có việc; những tổn thất đó kéo dài nhiều năm. Hiện tượng này được gọi là "hiệu ứng trễ" (*hysteresis*). Nếu vậy thì bỏ mặc ngắn hạn cũng là bỏ qua hệ quả dài hạn, và đó chính là vi phạm bài học. Lập luận của Hazlitt vẫn đứng vững khi chính sách ngắn hạn tạo ra chi phí dài hạn lớn hơn (ví dụ lạm phát kéo dài), nhưng không phải mọi chính sách ổn định ngắn hạn đều như vậy.
 
 ### Nguyên nhân thứ nhất (nhóm lợi ích) là phát hiện có sức sống lâu nhất của chương
 

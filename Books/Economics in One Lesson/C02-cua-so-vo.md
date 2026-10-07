@@ -3,13 +3,13 @@
 **Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied", Chương 2 "The Broken Window". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
 **Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
 **Vị trí trong lập luận của cả cuốn sách:** Chương 1 phát biểu "bài học" bằng lời trừu tượng và hứa sẽ minh hoạ bằng ví dụ, đi từ đơn giản nhất đến phức tạp nhất. Chương 2 là ví dụ đầu tiên và đơn giản nhất, lấy từ Bastiat: một cửa kính bị đập vỡ. Nó cho thấy cả hai vế của bài học trong một câu chuyện ngắn: đám đông chỉ nhìn tác động trước mắt (thợ kính có việc) và chỉ nhìn hai bên trong giao dịch (chủ tiệm và thợ kính), quên mất bên thứ ba (thợ may). Chương 3 sẽ phóng to cùng ngụy biện này lên quy mô chiến tranh; các chương sau (công trình công cộng, thuế, tín dụng) đều là biến thể của nó.
-**Ý chính:** Hazlitt muốn chứng minh rằng **phá huỷ không tạo ra của cải hay việc làm ròng**: việc làm thêm cho người thợ kính chỉ là việc làm bị lấy đi của người thợ may. Một cậu bé ném gạch vỡ cửa kính tiệm bánh; đám đông lập luận rằng cửa kính mới giá 50 USD sẽ cho thợ kính 50 USD để tiêu, rồi người bán hàng nhận 50 USD đó tiêu tiếp, cứ thế lan rộng mãi, nên cậu bé là "ân nhân của xã hội". Hazlitt đáp: chủ tiệm lẽ ra dùng 50 USD đó may một bộ com-lê; nay ông chỉ có cửa kính chứ không có cả cửa kính lẫn com-lê, và cộng đồng nghèo đi đúng một bộ com-lê. Đám đông không thấy người thợ may chính vì bộ com-lê sẽ không bao giờ được may. Từ chương này, lỗi tư duy đó có tên: **ngụy biện cửa sổ vỡ** (*the broken window fallacy*).
+**Ý chính:** Hazlitt muốn chứng minh rằng **phá huỷ không tạo ra của cải hay việc làm ròng**: việc làm thêm cho người thợ kính chỉ là việc làm bị lấy đi của người thợ may. Một cậu bé ném gạch vỡ cửa kính tiệm bánh; đám đông lập luận rằng cửa kính mới giá 50 USD sẽ cho thợ kính 50 USD để tiêu, rồi người bán hàng nhận 50 USD đó tiêu tiếp, cứ thế lan rộng mãi, nên cậu bé là "ân nhân của xã hội". Hazlitt đáp: chủ tiệm lẽ ra dùng 50 USD đó may một bộ com-lê; nay ông chỉ có cửa kính chứ không có cả cửa kính lẫn com-lê, và cộng đồng nghèo đi đúng một bộ com-lê. Đám đông không thấy người thợ may chính vì bộ com-lê sẽ không bao giờ được may. Lỗi tư duy đó được Hazlitt gọi tên ở câu mở đầu Chương 3: **ngụy biện cửa sổ vỡ** (*the broken window fallacy*); trong Chương 2 ông chưa dùng tên này.
 
-> **Lưu ý:** Ví dụ gốc là của Frédéric Bastiat trong bài luận *Ce qu'on voit et ce qu'on ne voit pas* (Cái thấy được và cái không thấy, 1850). Ở Bastiat, cửa kính bị con trai của ông chủ tiệm (James Goodfellow) làm vỡ, khoản tiền là 6 franc, và thứ bị mất là một đôi giày hoặc một cuốn sách; Hazlitt chuyển thành tiệm bánh ở Mỹ, 50 USD và bộ com-lê. 50 USD năm 1946 tương đương vài trăm USD ngày nay (ước lượng thô của người tổng hợp), khoảng giá một bộ com-lê may đo hồi đó. Phép "lan rộng mãi" mà đám đông nói tới chính là ý tưởng về **số nhân chi tiêu** (*multiplier*) trong kinh tế học Keynes đang thịnh hành năm 1946; Hazlitt không gọi tên nó, nhưng đó là mục tiêu thật của ví dụ. Lập luận của Hazlitt giả định ngầm rằng chủ tiệm chắc chắn sẽ tiêu 50 USD vào việc khác (không cất giữ), và người thợ may có việc để làm nếu được đặt hàng; phần Đánh giá bàn khi nào giả định này không đứng vững. Các câu trích là bản dịch của người tổng hợp.
+> **Lưu ý:** Ví dụ gốc là của Frédéric Bastiat trong bài luận *Ce qu'on voit et ce qu'on ne voit pas* (Cái thấy được và cái không thấy, 1850). Ở Bastiat, cửa kính bị con trai của ông chủ tiệm (James Goodfellow) làm vỡ, khoản tiền là 6 franc, và thứ bị mất là một đôi giày hoặc một cuốn sách; Hazlitt chuyển thành tiệm bánh ở Mỹ, 50 USD và bộ com-lê. 50 USD năm 1946 tương đương vài trăm USD ngày nay (ước lượng thô của người tổng hợp), khoảng giá một bộ com-lê may đo hồi đó. Phép "lan rộng mãi" mà đám đông nói tới chính là ý tưởng về **số nhân chi tiêu** (*multiplier*) trong kinh tế học Keynes đang thịnh hành năm 1946; Hazlitt không gọi tên nó trong chương này; việc coi số nhân là mục tiêu ngầm của ví dụ là cách đọc của người tổng hợp. Lập luận của Hazlitt giả định ngầm rằng chủ tiệm chắc chắn sẽ tiêu 50 USD vào việc khác (không cất giữ), và người thợ may có việc để làm nếu được đặt hàng; phần Đánh giá bàn khi nào giả định này không đứng vững. Bản gốc có một chỗ thiếu chữ: "The glazier will be no unhappy to learn of the incident than an undertaker to learn of a death" (thiếu "more" sau "no"); nghĩa là người thợ kính nghe tin cũng chẳng buồn hơn người làm dịch vụ tang lễ nghe tin có người chết. Các câu trích là bản dịch của người tổng hợp.
 
 ## Sơ đồ
 
-### Phần 1: câu chuyện và lập luận của đám đông — cái thấy được
+### Phần 1 (hai đoạn đầu chương): câu chuyện và lập luận của đám đông — cái thấy được
 
 ```text
        Mở đầu: Hazlitt chọn ví dụ ĐƠN GIẢN NHẤT có thể, theo cách của
@@ -38,11 +38,11 @@
          theo những VÒNG TRÒN ngày càng rộng
                                 │
                                 ▼
-       Kết luận logic (nếu đám đông dám rút ra): cậu bé ném gạch không
+       Kết luận logic (nếu đám đông rút ra): cậu bé ném gạch không
        phải mối nguy cho xã hội mà là ÂN NHÂN của xã hội
 ```
 
-### Phần 2: nhìn lại — người thợ may và bộ com-lê, cái không thấy
+### Phần 2 (hai đoạn cuối chương, từ "Now let us take another look"): nhìn lại — người thợ may và bộ com-lê, cái không thấy
 
 ```text
        Hazlitt: đám đông ĐÚNG ở kết luận đầu tiên —
@@ -72,7 +72,7 @@
          đó
                                 │
                                 ▼
-       Tóm lại, phần việc mà thợ kính có thêm CHÍNH LÀ phần việc mà thợ
+       Tóm lại, phần việc mà thợ kính có thêm CHỈ LÀ phần việc mà thợ
        may bị mất
        → không có "việc làm" MỚI nào được tạo thêm cho xã hội
                                 │
@@ -105,15 +105,15 @@
 
 **Của cải và chi tiêu (wealth versus spending).** Của cải là những thứ con người có (cửa kính, com-lê); chi tiêu là dòng tiền đổi tay. Đám đông đếm dòng tiền (50 USD lan rộng mãi), Hazlitt đếm của cải (cộng đồng có một cửa kính, hay có một cửa kính và một bộ com-lê). Ví dụ: sau khi kính vỡ và được thay, lượng tiền đổi tay có thể bằng như khi chủ tiệm mua com-lê, nhưng lượng của cải thì ít hơn một bộ com-lê. Phân biệt này là chìa khoá để hiểu Chương 3 và các chương về công trình công cộng.
 
-**Việc làm ròng (net employment).** Số việc làm tăng thêm sau khi trừ đi số việc làm bị mất ở chỗ khác. Ví dụ: thợ kính +50 USD việc làm, thợ may −50 USD việc làm, ròng bằng 0. Hazlitt dùng chữ "việc làm" trong ngoặc kép để chế giễu lối đếm chỉ cộng mà không trừ.
+**Việc làm ròng (net employment).** Số việc làm tăng thêm sau khi trừ đi số việc làm bị mất ở chỗ khác. Ví dụ: thợ kính +50 USD việc làm, thợ may −50 USD việc làm, ròng bằng 0. Hazlitt đặt chữ "việc làm" trong ngoặc kép; theo cách hiểu của người tổng hợp, đó là để mỉa lối đếm chỉ cộng mà không trừ.
 
 ## Nội dung chi tiết
 
-### 1. Ví dụ đơn giản nhất, mượn từ Bastiat
+### 1. Câu mở đầu chương: ví dụ đơn giản nhất, mượn từ Bastiat
 
-Hazlitt bắt đầu Phần Hai bằng ví dụ đơn giản nhất có thể, làm theo Bastiat: một tấm kính vỡ. Lựa chọn này có chủ đích: nếu bài học không đứng vững ở ví dụ đơn giản nhất thì không thể đứng vững ở các ví dụ phức tạp; và nếu người đọc thấy ngụy biện ở ví dụ đơn giản nhất thì họ có công cụ để nhận ra nó ở các ví dụ phức tạp.
+Hazlitt bắt đầu Phần Hai bằng ví dụ đơn giản nhất có thể, làm theo Bastiat: một tấm kính vỡ. Lựa chọn này khớp với lời hứa ở cuối Chương 1: qua các ví dụ, người đọc sẽ học cách nhận ra và tránh trước hết những ngụy biện thô sơ, lộ liễu nhất, rồi cuối cùng là một số ngụy biện tinh vi, khó nắm bắt nhất.
 
-### 2. Câu chuyện và lập luận của đám đông
+### 2. Đoạn thứ hai: câu chuyện và lập luận của đám đông
 
 Giả sử một cậu bé côn đồ ném một viên gạch qua cửa kính của một tiệm bánh. Chủ tiệm chạy ra, giận dữ, nhưng cậu bé đã biến mất. Một đám đông tụ lại, nhìn lỗ thủng trên cửa kính và những mảnh kính vỡ rơi trên bánh mì, bánh ngọt, với vẻ thoả mãn lặng lẽ.
 
@@ -134,11 +134,11 @@ Có thể tóm lập luận của đám đông thành bảng:
 | 3 | Người bán hàng mà người bán hàng vòng 2 mua | Có thêm 50 USD doanh thu |
 | ... | ... | "cứ thế mãi mãi", việc làm lan theo vòng tròn ngày càng rộng |
 
-### 3. Nhìn lại: đám đông đúng ở bước đầu
+### 3. Đầu đoạn thứ ba ("Now let us take another look"): đám đông đúng ở bước đầu
 
-Hazlitt đề nghị nhìn lại. Đám đông ít nhất đúng ở kết luận đầu tiên: hành vi phá hoại nhỏ này, trước hết, sẽ tạo thêm việc cho một thợ kính. Người thợ kính nghe tin cũng chẳng buồn bã gì, giống như người làm dịch vụ tang lễ nghe tin có người chết. Hazlitt không phủ nhận phần "thấy được"; ông chỉ phủ nhận rằng đó là toàn bộ câu chuyện. Đây đúng là cấu trúc "nửa sự thật" mà Chương 1 đã mô tả.
+Hazlitt đề nghị nhìn lại. Đám đông ít nhất đúng ở kết luận đầu tiên: hành vi phá hoại nhỏ này, trước hết, sẽ tạo thêm việc cho một thợ kính. Người thợ kính nghe tin cũng chẳng buồn bã gì, giống như người làm dịch vụ tang lễ nghe tin có người chết. Nhận xét của người tổng hợp: Hazlitt không phủ nhận phần "thấy được", chỉ phủ nhận rằng đó là toàn bộ câu chuyện; đây là cấu trúc "nửa sự thật" mà Chương 1 đã mô tả (ở Chương 3, Hazlitt tự nói thẳng rằng ngụy biện cửa sổ vỡ có chứa một nửa sự thật).
 
-### 4. Người thợ may và bộ com-lê
+### 4. Phần còn lại của đoạn thứ ba: người thợ may và bộ com-lê
 
 Nhưng ông chủ tiệm sẽ mất 50 USD mà ông đang định dùng để mua một bộ com-lê mới. Vì phải thay cửa kính, ông sẽ phải nhịn bộ com-lê (hoặc một nhu cầu hay một món xa xỉ tương đương). Thay vì có một cửa kính và 50 USD, giờ ông chỉ có một cửa kính. Hoặc, vì ông định mua bộ com-lê ngay chiều hôm đó, thay vì có cả cửa kính lẫn com-lê, ông phải bằng lòng với cửa kính mà không có com-lê.
 
@@ -153,9 +153,9 @@ Nhưng ông chủ tiệm sẽ mất 50 USD mà ông đang định dùng để mu
 
 Nếu coi ông chủ tiệm là một phần của cộng đồng, thì cộng đồng đã mất một bộ com-lê lẽ ra đã được làm ra, và nghèo đi đúng chừng đó.
 
-Bảng trên cho thấy hai điều. Một: tổng chi tiêu và tổng việc làm trong hai kịch bản là như nhau, nên lập luận "vòng tròn ngày càng rộng" của đám đông áp dụng y hệt cho 50 USD mà thợ may lẽ ra nhận được; cửa kính vỡ không tạo thêm vòng nào. Hai: khác biệt duy nhất là của cải; kịch bản kính vỡ ít hơn một bộ com-lê.
+Bảng trên (do người tổng hợp lập; Hazlitt không nói tới tổng chi tiêu) cho thấy hai điều. Một: tổng chi tiêu và tổng việc làm trong hai kịch bản là như nhau, nên lập luận "vòng tròn ngày càng rộng" của đám đông áp dụng y hệt cho 50 USD mà thợ may lẽ ra nhận được; cửa kính vỡ không tạo thêm vòng nào. Hai: khác biệt duy nhất là của cải; kịch bản kính vỡ ít hơn một bộ com-lê.
 
-### 5. Kết luận: việc làm của thợ kính là việc làm bị mất của thợ may
+### 5. Đoạn cuối chương: việc làm của thợ kính là việc làm bị mất của thợ may
 
 Tóm lại, Hazlitt viết, việc làm mà thợ kính có thêm chỉ là việc làm mà thợ may bị mất. Không có "việc làm" mới nào được tạo thêm.
 
@@ -189,7 +189,7 @@ Phá huỷ không tạo ra của cải hay việc làm ròng. Chi tiêu để th
 ### Bằng chứng và ví dụ Hazlitt đưa ra
 
 - Câu chuyện tiệm bánh, 50 USD, bộ com-lê, mượn từ Bastiat (1850).
-- So sánh thợ kính với người làm dịch vụ tang lễ: cả hai đều có lợi từ một tai hoạ, nhưng không ai cho rằng cái chết có lợi cho xã hội.
+- So sánh thợ kính với người làm dịch vụ tang lễ: cả hai đều có lợi từ một tai hoạ. (Hàm ý "không ai cho rằng cái chết có lợi cho xã hội" là cách đọc của người tổng hợp; Hazlitt không nói ra.)
 - Không có số liệu thực nghiệm; đây là một thí nghiệm tư duy.
 
 ### Kết luận và hàm ý chính sách

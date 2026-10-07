@@ -9,13 +9,13 @@
 
 ## Sơ đồ
 
-### Phần 1: giải ngũ binh lính — nỗi sợ thất nghiệp chỉ nhìn một nửa quá trình
+### Phần 1 (mục 1 của chương, ba đoạn đầu): giải ngũ binh lính — nỗi sợ thất nghiệp chỉ nhìn một nửa quá trình
 
 ```text
        SAU MỖI CUỘC CHIẾN LỚN, hễ có đề xuất giải ngũ là có NỖI SỢ: sẽ
        không đủ việc cho số binh lính trở về, và họ sẽ thất nghiệp
        · Hazlitt thừa nhận: khi HÀNG TRIỆU người cùng được thả ra một lúc,
-         khu vực tư nhân CẦN THỜI GIAN để thu nhận hết họ
+         khu vực tư nhân CÓ THỂ CẦN THỜI GIAN để thu nhận hết họ
        · nhưng điều đáng chú ý trong quá khứ là quá trình ấy diễn ra
          NHANH, chứ không phải chậm
        · nỗi sợ sinh ra vì người ta CHỈ NHÌN MỘT PHÍA của quá trình
@@ -35,13 +35,14 @@
                                 │
                                 ▼
        NẾU nhà nước nuôi quân bằng THÂM HỤT ngân sách (vay nợ) thì sao?
-       · đó là một câu hỏi KHÁC, Hazlitt bàn ở chương sau
+       · trường hợp có HƠI KHÁC, nhưng đó là câu hỏi riêng, Hazlitt bàn ở
+         chương sau
        · thâm hụt KHÔNG làm lập luận trên thay đổi: ai tin thâm hụt có lợi
          thì cứ GIẢM THUẾ đúng bằng số tiền trước đây chi để nuôi quân,
          nhờ vậy mức thâm hụt vẫn giữ NGUYÊN như cũ
 ```
 
-### Phần 2: giải ngũ làm đất nước giàu hơn chứ không chỉ "bằng như cũ"
+### Phần 2 (mục 1 của chương, đoạn cuối, "But the demobilization will not leave us"): giải ngũ làm đất nước giàu hơn chứ không chỉ "bằng như cũ"
 
 ```text
        TRƯỚC KHI GIẢI NGŨ: binh lính là những người được DÂN SỰ NUÔI
@@ -59,7 +60,7 @@
        → TỔNG SẢN LƯỢNG QUỐC GIA, tức của cải của MỌI NGƯỜI, CAO HƠN
 ```
 
-### Phần 3: cắt giảm công chức thừa — lời kêu "giảm phát" và câu trả lời
+### Phần 3 (mục 2 của chương, ba đoạn đầu, từ "The same reasoning applies to civilian government officials"): cắt giảm công chức thừa — lời kêu "giảm phát" và câu trả lời
 
 ```text
        LẬP LUẬN TƯƠNG TỰ áp dụng cho CÔNG CHỨC DÂN SỰ, khi họ được giữ
@@ -84,21 +85,21 @@
          giảm thu nhập và sức mua của các công chức cũ
        · nếu cửa hàng từng phục vụ công chức MẤT khách, thì cửa hàng ở
          NƠI KHÁC được thêm khách ít nhất bằng chừng ấy
-       → thủ đô WASHINGTON kém thịnh vượng hơn và nuôi được ít cửa hàng
-         hơn, nhưng các THÀNH PHỐ KHÁC nuôi được nhiều cửa hàng hơn
+       → thủ đô WASHINGTON kém thịnh vượng hơn và CÓ LẼ nuôi được ít cửa
+         hàng hơn, nhưng các THÀNH PHỐ KHÁC nuôi được nhiều cửa hàng hơn
                                 │
                                 ▼
        CHƯA HẾT: đất nước không chỉ khá BẰNG lúc còn giữ công chức thừa,
        mà khá HƠN NHIỀU
        · công chức cũ phải tìm việc ở khu vực TƯ NHÂN hoặc tự lập DOANH
-         NGHIỆP · sức mua tăng thêm của người nộp thuế giúp họ làm được
+         NGHIỆP · sức mua tăng thêm của người nộp thuế KHUYẾN KHÍCH
          điều đó
        · nhưng họ chỉ có việc ở khu vực tư bằng cách cung cấp dịch vụ có
          giá trị TƯƠNG ĐƯƠNG cho khách hàng của người thuê họ
        → Hazlitt: họ từ "KẺ ĂN BÁM" (parasites) trở thành người SẢN XUẤT
 ```
 
-### Phần 4: công chức cần thiết, và lập luận "sức mua" đưa tới chỗ vô lý
+### Phần 4 (mục 2 của chương, ba đoạn cuối, từ "I must insist again"): công chức cần thiết, và lập luận "sức mua" đưa tới chỗ vô lý
 
 ```text
        GIỚI HẠN CỦA LẬP LUẬN: Hazlitt KHÔNG nói về những công chức THẬT
@@ -145,19 +146,19 @@
 
 **Giải ngũ (demobilization).** Đưa quân nhân thời chiến trở về đời sống dân sự. Ví dụ minh hoạ của người tổng hợp: một nước giải ngũ 1 triệu quân, mỗi người tốn ngân sách 2.000 USD/năm, tức 2 tỉ USD/năm. Nếu ngân sách cân bằng, thuế có thể giảm 2 tỉ USD, và người nộp thuế có thêm đúng 2 tỉ USD để chi tiêu. Đây là trường hợp lớn nhất của câu hỏi "khi nhà nước thôi chi, việc làm có mất không".
 
-**Sức mua (purchasing power).** Lượng tiền một người có thể chi để mua hàng hoá, dịch vụ. Hazlitt luôn đặt chữ này trong ngoặc kép khi nó được dùng để biện hộ cho chi tiêu công, vì người dùng lập luận chỉ nhìn sức mua của người nhận tiền nhà nước mà quên sức mua bị lấy đi của người nộp thuế.
+**Sức mua (purchasing power).** Lượng tiền một người có thể chi để mua hàng hoá, dịch vụ. Hazlitt thường đặt chữ này trong ngoặc kép khi nó được dùng để biện hộ cho chi tiêu công (nhưng không phải mọi lần, ví dụ câu kết chương), vì người dùng lập luận chỉ nhìn sức mua của người nhận tiền nhà nước mà quên sức mua bị lấy đi của người nộp thuế.
 
 **Ngân sách cân bằng và thâm hụt ngân sách (balanced budget, deficit financing).** Ngân sách cân bằng là khi chi tiêu nhà nước bằng thu thuế; thâm hụt là khi chi nhiều hơn thu và phần chênh lệch được bù bằng vay nợ hoặc in tiền. Hazlitt lập luận chủ yếu với ngân sách cân bằng, và chỉ ra rằng nếu ai đó tin thâm hụt có lợi, họ có thể giữ nguyên mức thâm hụt bằng cách giảm thuế thay vì nuôi quân thừa.
 
 **Công chức thừa (superfluous officeholders / needless bureaucrats).** Hazlitt định nghĩa: công chức được giữ quá đông, không cung cấp dịch vụ cho cộng đồng tương xứng với tiền lương họ nhận. Ông phân biệt rõ với công chức cần thiết (cảnh sát, cứu hoả, vệ sinh, y tế, toà án, lập pháp, hành pháp), những người làm việc sản xuất không kém khu vực tư.
 
-**Lao động sản xuất và lao động không sản xuất (productive vs unproductive).** Theo Hazlitt, một người là sản xuất nếu người khác sẵn sàng trả tiền để đổi lấy hàng hoá hay dịch vụ tương đương mà người đó cung cấp. Binh lính không còn cần cho quốc phòng và công chức thừa là không sản xuất: người nộp thuế trả tiền mà không nhận được gì. Khái niệm này giải thích vì sao cắt giảm làm đất nước giàu hơn chứ không chỉ "bằng như cũ".
+**Lao động sản xuất và lao động không sản xuất (productive vs unproductive).** Hazlitt không định nghĩa thành câu; cách hiểu người tổng hợp rút ra từ chương: một người là sản xuất nếu cung cấp hàng hoá hay dịch vụ tương đương với khoản tiền nhận được, ở khu vực tư là thứ người khác sẵn lòng trả tiền, ở khu vực công là dịch vụ thật sự hữu ích cho cộng đồng (Hazlitt nói công chức cần thiết làm "dịch vụ sản xuất"). Binh lính không còn cần cho quốc phòng và công chức thừa là không sản xuất: người nộp thuế trả tiền mà không nhận được gì. Khái niệm này giải thích vì sao cắt giảm làm đất nước giàu hơn chứ không chỉ "bằng như cũ".
 
 **Chuyển dịch địa lý của chi tiêu.** Khi chi tiêu chuyển từ công chức (tập trung ở thủ đô) sang người nộp thuế (rải khắp nước), cửa hàng ở thủ đô mất khách và cửa hàng ở nơi khác được khách. Ví dụ trong chương: Washington kém thịnh vượng hơn, các thành phố khác thịnh vượng hơn. Đây là một dạng "cái thấy được" (cửa hàng ở thủ đô đóng cửa) và "cái không thấy" (cửa hàng mới mở ở nơi khác).
 
 ## Nội dung chi tiết
 
-### 1. Giải ngũ binh lính: nỗi sợ thất nghiệp và câu trả lời
+### 1. (Mục 1, ba đoạn đầu) Giải ngũ binh lính: nỗi sợ thất nghiệp và câu trả lời
 
 Sau mỗi cuộc chiến tranh lớn, khi có đề xuất giải ngũ quân đội, luôn có nỗi sợ rằng sẽ không đủ việc làm cho số quân nhân này và họ sẽ thất nghiệp. Hazlitt thừa nhận: khi hàng triệu người cùng được thả ra một lúc, khu vực tư nhân có thể cần thời gian để tái hấp thụ họ. Nhưng điều đáng chú ý nhất trong quá khứ là quá trình ấy diễn ra **nhanh**, chứ không phải chậm. Nỗi sợ thất nghiệp sinh ra vì người ta chỉ nhìn một phía của quá trình.
 
@@ -165,7 +166,7 @@ Họ thấy binh lính được thả vào thị trường lao động và hỏi
 
 Nếu binh lính được nuôi bằng ngân sách thâm hụt (vay nợ hoặc các hình thức tài trợ thâm hụt khác), trường hợp có hơi khác, nhưng đó là câu hỏi riêng mà Hazlitt sẽ bàn ở chương sau. Ở đây chỉ cần thấy rằng thâm hụt không liên quan tới lập luận trên: nếu ai đó cho rằng thâm hụt có lợi, thì có thể giữ nguyên đúng mức thâm hụt cũ bằng cách **giảm thuế** đúng bằng số tiền trước đây chi để nuôi quân đội thời chiến.
 
-### 2. Giải ngũ làm đất nước giàu hơn
+### 2. (Mục 1, đoạn cuối) Giải ngũ làm đất nước giàu hơn
 
 Giải ngũ không đưa nền kinh tế về đúng chỗ cũ. Binh lính trước đây được dân sự nuôi sẽ không chỉ trở thành dân sự được dân sự khác nuôi. Họ trở thành **dân sự tự nuôi mình**.
 
@@ -177,7 +178,7 @@ Nếu những người lẽ ra còn ở lại quân đội không còn cần cho
 | Binh lính | Được nuôi, không sản xuất | Làm việc, bán hàng hoá hay dịch vụ tương đương với tiền nhận được |
 | Tổng sản lượng quốc gia | Thấp hơn | Cao hơn, thêm đúng phần binh lính cũ làm ra |
 
-### 3. Cắt giảm công chức thừa và lời kêu "giảm phát"
+### 3. (Mục 2, ba đoạn đầu) Cắt giảm công chức thừa và lời kêu "giảm phát"
 
 Lập luận tương tự áp dụng cho công chức dân sự, mỗi khi họ được giữ với số lượng quá đông và không cung cấp dịch vụ cho cộng đồng tương xứng với tiền lương. Thế nhưng, mỗi khi có nỗ lực cắt giảm số công chức không cần thiết, chắc chắn sẽ có tiếng kêu rằng hành động này "gây giảm phát" (deflationary). Bạn định lấy mất "sức mua" của các công chức này sao? Bạn định làm hại chủ nhà cho thuê và chủ cửa hàng sống nhờ sức mua đó sao? Bạn chỉ đang cắt giảm "thu nhập quốc gia" và góp phần gây ra hay làm trầm trọng thêm suy thoái.
 
@@ -187,7 +188,7 @@ Và một lần nữa, vấn đề không dừng ở đó. Đất nước không
 
 **Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một tỉnh có 1.000 vị trí hành chính được đánh giá là trùng lặp sau khi sáp nhập đơn vị, mỗi vị trí tốn ngân sách 150 triệu đồng/năm, tổng 150 tỉ đồng. Cái thấy được: 1.000 người mất chỗ làm, các quán ăn, cửa hàng gần trụ sở cũ vắng khách. Cái không thấy, theo Hazlitt: 150 tỉ đồng mỗi năm không còn phải chi cho các vị trí này, có thể dùng giảm thuế, phí hoặc chi cho việc khác hữu ích hơn (y tế, giáo dục, đường sá), tạo cầu ở nơi khác; và 1.000 người, sau thời gian chuyển đổi, làm việc ở khu vực tư, tạo ra hàng hoá, dịch vụ mà trước đây không có.
 
-### 4. Công chức cần thiết, và lập luận "sức mua" của tên trộm
+### 4. (Mục 2, ba đoạn cuối chương) Công chức cần thiết, và lập luận "sức mua" của tên trộm
 
 Hazlitt nhấn mạnh ông không nói về những công chức thật sự cần thiết. Cảnh sát, lính cứu hoả, công nhân vệ sinh đường phố, cán bộ y tế, thẩm phán, nhà lập pháp và người điều hành cần thiết làm những dịch vụ sản xuất quan trọng không kém bất kỳ ai ở khu vực tư. Họ giúp khu vực tư nhân hoạt động trong môi trường luật pháp, trật tự, tự do và hoà bình. Nhưng lý do để giữ họ nằm ở **tính hữu ích của dịch vụ** họ làm, chứ không ở "sức mua" họ có nhờ ăn lương nhà nước.
 
@@ -272,13 +273,17 @@ Chi tiêu của nhà nước để trả lương cho người không cung cấp 
 >
 > *The soldiers previously supported by civilians will not become merely civilians supported by other civilians. They will become self-supporting civilians.*
 
-> "Thu nhập và sức mua của người nộp thuế tăng ít nhất bằng mức giảm thu nhập và sức mua của các công chức cũ."
+> "Một lần nữa người ta quên rằng thu nhập và sức mua của người nộp thuế tăng ít nhất bằng mức giảm thu nhập và sức mua của các công chức cũ."
+>
+> *Once again it is forgotten that the taxpayers’ income and purchasing power go up by at least as much as the income and purchasing power of the former officeholders go down.*
 
 > "Lý do để giữ họ nằm ở tính hữu ích của dịch vụ họ làm. Nó không nằm ở 'sức mua' họ có nhờ ăn lương nhà nước."
 >
 > *But their justification consists in the utility of their services. It does not consist in the "purchasing power" they possess by virtue of being on the public payroll.*
 
 > "Khi tiền của bạn bị trộm lấy, bạn không nhận lại gì. Khi tiền của bạn bị lấy qua thuế để nuôi những công chức không cần thiết, tình trạng hoàn toàn giống vậy."
+>
+> *When your money is taken by a thief, you get nothing in return. When your money is taken through taxes to support needless bureaucrats, precisely the same situation exists.*
 
 > "Khi không tìm được lý do nào tốt hơn việc giữ sức mua của họ để giữ một nhóm công chức, đó là dấu hiệu đã đến lúc phải cắt bỏ nhóm đó."
 >

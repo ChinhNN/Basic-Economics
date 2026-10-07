@@ -2,10 +2,10 @@
 
 **Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai, Chương 21 "The Function of Profits". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
 **Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 20 kết bằng câu "lợi nhuận tốt nhất không phải lợi nhuận thấp nhất, mà là lợi nhuận khuyến khích nhiều người nhất trở thành chủ". Chương 21 giải thích vì sao: lợi nhuận có **chức năng** trong nền kinh tế. Hazlitt nói rõ chương này đi lại một phần nội dung của Chương 15 (hệ thống giá vận hành thế nào) nhưng từ góc độ khác: Chương 15 nhìn từ giá và chi phí, Chương 21 nhìn từ chính lợi nhuận. Chương cũng nối với Chương 17 (ấn định giá), vì ông coi ấn định giá và giới hạn lợi nhuận là mối đe doạ lớn nhất với sản xuất. "Bài học" (C1) áp dụng ở đây là: cái thấy được là lợi nhuận "quá mức" của một số doanh nghiệp; cái không thấy là lợi nhuận ấy đang hướng vốn và lao động vào nơi người tiêu dùng cần, và là phần thưởng bù cho rủi ro mất vốn mà đa số doanh nghiệp gặp phải. Chương sau (22) chuyển sang lạm phát.
+**Vị trí trong lập luận của cả cuốn sách:** Gần cuối Chương 20 có câu "lợi nhuận tốt nhất ... không phải lợi nhuận thấp nhất, mà là lợi nhuận khuyến khích nhiều người nhất trở thành chủ sử dụng lao động, hoặc tạo thêm việc làm so với trước". Chương 21 giải thích vì sao: lợi nhuận có **chức năng** trong nền kinh tế. Hazlitt nói rõ chương này đi lại một phần nội dung của Chương 15 (hệ thống giá vận hành thế nào) nhưng từ một góc khác (theo cách hiểu của người tổng hợp: Chương 15 nhìn từ giá và chi phí, Chương 21 nhìn từ chính lợi nhuận). Chương cũng nối với Chương 17 (ấn định giá), vì ông coi chính sách ấn định giá của chính phủ là "một trong những mối nguy lớn nhất" với sản xuất. "Bài học" (C1) áp dụng ở đây là: cái thấy được là lợi nhuận "quá mức" của một số doanh nghiệp; cái không thấy là lợi nhuận ấy đang hướng vốn và lao động vào nơi người tiêu dùng cần, và là phần thưởng bù cho rủi ro mất vốn mà đa số doanh nghiệp gặp phải. Chương sau (22) chuyển sang lạm phát.
 **Ý chính:** Hazlitt muốn chứng minh rằng sự căm ghét lợi nhuận đến từ hiểu lầm về quy mô và chức năng của nó. Về quy mô: thu nhập ròng của các công ty ở Mỹ 1929–1943 chưa tới 5% thu nhập quốc dân; cứ 10 cửa hàng tạp hoá mở ra thì chỉ khoảng 7 sống sang năm thứ hai và 4 sống tới năm thứ tư; mỗi năm từ 1930 đến 1938 số công ty lỗ nhiều hơn số công ty lãi; tính dài hạn, sau khi trừ lỗ, lãi suất không rủi ro và tiền công của chủ, có thể không còn lợi nhuận ròng nào. Về chức năng: lợi nhuận (1) cho biết nên sản xuất mặt hàng nào và bao nhiêu, kéo vốn và lao động vào nơi thiếu hàng cho tới khi lợi nhuận về mức bình quân; và (2) liên tục ép mọi doanh nghiệp tiết kiệm chi phí, tức cho biết cách sản xuất rẻ nhất. Giới hạn lợi nhuận (ví dụ tối đa 10%) trong khi rủi ro mất trắng vẫn còn sẽ làm mất động cơ đầu tư; ấn định giá kéo dài tình trạng thiếu hàng. Mọi hệ thống kinh tế, kể cả xã hội chủ nghĩa, đều phải trả lời các câu hỏi ấy, và lãi–lỗ trong cạnh tranh tự do trả lời tốt hơn hẳn mọi cách khác.
 
-> **Lưu ý:** (1) **TNEC** (Temporary National Economic Committee, Uỷ ban Kinh tế Quốc gia Lâm thời) là uỷ ban do Quốc hội Mỹ lập năm 1938 để điều tra sự tập trung quyền lực kinh tế; các nghiên cứu của nó (công bố 1939–1941) là nguồn của số liệu tỷ lệ sống sót của cửa hàng tạp hoá. (2) **Thuế lợi nhuận vượt mức thời chiến** (wartime excess-profits tax): trong Thế chiến II, Mỹ đánh thuế rất cao (thuế suất danh nghĩa lên tới 90–95%) vào phần lợi nhuận vượt mức "bình thường" của doanh nghiệp; Hazlitt cho rằng thuế này làm doanh nghiệp không còn lý do tiết kiệm chi phí, vì mỗi đồng tiết kiệm được phần lớn nộp thuế. (3) **General Motors** khi đó là công ty công nghiệp lớn nhất thế giới. (4) "Kiểm soát giá" Hazlitt nói đến là hệ thống trần giá của Văn phòng Quản lý Giá (Office of Price Administration, OPA) thời chiến, vẫn còn hiệu lực khi sách ra năm 1946. (5) "Một số nhà kinh tế lỗi lạc" cho rằng lợi nhuận ròng dài hạn có thể bằng không: Hazlitt không nêu tên; quan điểm này gần với Frank Knight (*Risk, Uncertainty and Profit*, 1921), người cho rằng lợi nhuận là phần thưởng cho bất định và tính chung có thể âm vì doanh nhân lạc quan quá mức. (6) Chương rất ngắn, không chia mục đánh số. Mọi câu trích là bản dịch của người tổng hợp.
+> **Lưu ý:** (1) **TNEC** (Temporary National Economic Committee, Uỷ ban Kinh tế Quốc gia Lâm thời) là uỷ ban do Quốc hội Mỹ lập năm 1938 để điều tra sự tập trung quyền lực kinh tế; các nghiên cứu của nó (công bố 1939–1941) là nguồn của số liệu tỷ lệ sống sót của cửa hàng tạp hoá. (2) **Thuế lợi nhuận vượt mức thời chiến** (wartime excess-profits tax): trong Thế chiến II, Mỹ đánh thuế rất cao (thuế suất danh nghĩa lên tới 90–95%) vào phần lợi nhuận vượt mức "bình thường" của doanh nghiệp; Hazlitt chỉ nói thuế này, dù áp dụng trong thời gian ngắn, đã cho thấy giới hạn lợi nhuận làm xói mòn hiệu quả ra sao; cơ chế thường được nêu (giải thích của người tổng hợp) là doanh nghiệp không còn lý do tiết kiệm chi phí, vì mỗi đồng tiết kiệm được phần lớn nộp thuế. (3) **General Motors** khi đó là công ty công nghiệp lớn nhất thế giới. (4) Hazlitt nói chung về chính sách ấn định giá của chính phủ "gần như khắp nơi"; ở Mỹ, đó là hệ thống trần giá của Văn phòng Quản lý Giá (Office of Price Administration, OPA) thời chiến, vẫn còn hiệu lực khi sách ra năm 1946. (5) "Một số nhà kinh tế lỗi lạc" cho rằng lợi nhuận ròng dài hạn có thể bằng không: Hazlitt không nêu tên trong chính văn, nhưng gắn một chú thích cuối trang vào câu về sự lạc quan của doanh nhân: "Cf. Frank H. Knight, *Risk, Uncertainty and Profit* (1921)" ("Cf." nghĩa là "xem thêm"). Knight cho rằng lợi nhuận là phần thưởng cho bất định và tính chung có thể âm vì doanh nhân lạc quan quá mức. (6) Chương rất ngắn, không chia mục đánh số. Mọi câu trích là bản dịch của người tổng hợp.
 
 ## Sơ đồ
 
@@ -66,7 +66,8 @@
          → thì có thể KHÔNG CÒN lợi nhuận ròng nào, thậm chí còn lỗ ròng
        · lý do KHÔNG phải vì doanh nhân cố ý làm từ thiện, mà vì sự LẠC
          QUAN và tự tin quá thường xuyên đưa họ vào những việc không
-         thể thành công
+         thành công hoặc không thể thành công (chú thích của Hazlitt:
+         xem Frank H. Knight, Risk, Uncertainty and Profit, 1921)
 ```
 
 ### Phần 3: rủi ro mất vốn và tác hại của giới hạn lợi nhuận
@@ -128,7 +129,7 @@
        · KHÔNG quan chức nào, dù tài giỏi đến đâu, giải được bài toán
          này bằng quyết định tuỳ ý
        · giá tự do và lợi nhuận tự do → sản xuất đạt mức tối đa, và
-         tình trạng thiếu hàng chấm dứt NHANH HƠN mọi hệ thống khác
+         tình trạng thiếu hàng được giải toả NHANH HƠN mọi hệ thống khác
        · giá bị ấn định tuỳ ý và lợi nhuận bị giới hạn tuỳ ý → chỉ KÉO
          DÀI tình trạng thiếu hàng, làm giảm sản xuất và việc làm
 ```
@@ -171,7 +172,7 @@
 
 ## Khái niệm cần biết
 
-**Lợi nhuận (profits) theo nghĩa kinh tế.** Phần còn lại sau khi trừ khỏi doanh thu không chỉ các chi phí kế toán mà cả lãi suất "không rủi ro" mà số vốn ấy lẽ ra kiếm được và tiền công mà người chủ lẽ ra nhận được nếu đi làm thuê. Ví dụ (minh hoạ của người tổng hợp): một chủ quán bỏ 1 tỷ đồng, cuối năm lãi kế toán 150 triệu; nếu gửi tiết kiệm 1 tỷ được 50 triệu và đi làm quản lý được 120 triệu/năm, thì lợi nhuận kinh tế là 150 − 50 − 120 = −20 triệu. Hazlitt dùng cách tính này để nói rằng tính chung dài hạn, lợi nhuận ròng của doanh nhân có thể bằng không hoặc âm.
+**Lợi nhuận (profits) theo nghĩa kinh tế.** Phần còn lại sau khi trừ khỏi doanh thu không chỉ các chi phí kế toán mà cả lãi suất "không rủi ro" mà số vốn ấy lẽ ra kiếm được và tiền công mà người chủ lẽ ra nhận được nếu đi làm thuê. Ví dụ (minh hoạ của người tổng hợp): một chủ quán bỏ 1 tỷ đồng, cuối năm lãi kế toán 150 triệu; nếu gửi tiết kiệm 1 tỷ được 50 triệu và đi làm quản lý được 120 triệu/năm, thì lợi nhuận kinh tế là 150 − 50 − 120 = −20 triệu. Hazlitt dẫn ý kiến của một số nhà kinh tế dùng cách tính này để nói rằng tính chung dài hạn, lợi nhuận ròng của doanh nhân có thể bằng không hoặc âm.
 
 **Kẻ trục lợi (profiteer).** Chữ dùng để bêu xấu người được cho là kiếm lợi nhuận quá mức. Hazlitt chỉ ra sự bất đối xứng của ngôn ngữ: không có chữ "kẻ trục lương" (*wageer*) cho người nhận lương cao, cũng không có chữ "kẻ trục lỗ" (*losseer*) cho người thua lỗ. Ví dụ của ông: chủ tiệm cắt tóc có thể thu nhập thấp hơn thợ lành nghề, nhưng vẫn bị coi là người "kiếm lời". Khái niệm này cho thấy thái độ với lợi nhuận dựa trên cảm xúc, không dựa trên quy mô thật.
 
@@ -199,9 +200,9 @@ Theo Hazlitt, chủ đề này bị che mờ bởi đủ loại hiểu lầm v�
 |---|---|
 | Lấy tổng lợi nhuận của General Motors, tập đoàn công nghiệp lớn nhất thế giới, làm điển hình | Đó là ngoại lệ, không phải điển hình |
 | Không biết doanh nghiệp chết nhiều thế nào | Nghiên cứu TNEC: nếu điều kiện kinh doanh bằng trung bình 50 năm qua, cứ 10 cửa hàng tạp hoá mở hôm nay thì khoảng 7 sống sang năm thứ hai, chỉ 4 có thể mừng "sinh nhật thứ tư" |
-| Nghĩ công ty nào cũng lãi | Thống kê thuế thu nhập: mỗi năm từ 1930 đến 1938, số công ty báo lỗ nhiều hơn số công ty báo lãi |
+| Không biết bao nhiêu công ty lỗ | Thống kê thuế thu nhập: mỗi năm từ 1930 đến 1938, số công ty báo lỗ nhiều hơn số công ty báo lãi |
 
-Lợi nhuận trung bình thật sự là bao nhiêu? Hazlitt thừa nhận chưa có ước tính đáng tin nào tính đủ mọi loại hoạt động, cả doanh nghiệp có và không có tư cách công ty, qua đủ năm tốt và năm xấu. Nhưng một số nhà kinh tế lỗi lạc tin rằng qua thời gian dài, sau khi trừ mọi khoản lỗ, trừ một mức lãi suất tối thiểu "không rủi ro" trên vốn đã đầu tư, và trừ một khoản tiền công "hợp lý" quy đổi cho công sức của người tự điều hành doanh nghiệp, thì có thể không còn lợi nhuận ròng nào, thậm chí còn lỗ ròng. Lý do không phải vì doanh nhân (người tự kinh doanh) cố ý làm từ thiện, mà vì sự lạc quan và tự tin của họ quá thường xuyên đưa họ vào những việc không thành công hoặc không thể thành công.
+Lợi nhuận trung bình thật sự là bao nhiêu? Hazlitt thừa nhận chưa có ước tính đáng tin nào tính đủ mọi loại hoạt động, cả doanh nghiệp có và không có tư cách công ty, qua đủ năm tốt và năm xấu. Nhưng một số nhà kinh tế lỗi lạc tin rằng qua thời gian dài, sau khi trừ mọi khoản lỗ, trừ một mức lãi suất tối thiểu "không rủi ro" trên vốn đã đầu tư, và trừ một khoản tiền công "hợp lý" quy đổi cho công sức của người tự điều hành doanh nghiệp, thì có thể không còn lợi nhuận ròng nào, thậm chí còn lỗ ròng. Lý do không phải vì doanh nhân (người tự kinh doanh) cố ý làm từ thiện, mà vì sự lạc quan và tự tin của họ quá thường xuyên đưa họ vào những việc không thành công hoặc không thể thành công. Ở chỗ này Hazlitt chú thích: xem Frank H. Knight, *Risk, Uncertainty and Profit* (1921).
 
 **Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Trên một con phố có 10 quán cà phê mở trong cùng năm, mỗi quán bỏ vốn 800 triệu đồng. Sau ba năm, 6 quán đóng cửa, mất phần lớn vốn; 3 quán hoà vốn, chủ chỉ đủ trả lương cho mình; 1 quán thành công, lãi mỗi năm 400 triệu. Người qua đường chỉ thấy quán đông khách và nghĩ "bán cà phê lãi to". Cái không thấy là 6 quán đã đóng và 4,8 tỷ đồng vốn đã mất phần lớn. Tính chung cả 10 quán, lợi nhuận ròng của "ngành cà phê trên phố này" có thể âm, đúng như nhận định Hazlitt dẫn.
 
@@ -217,7 +218,7 @@ Nếu nền kinh tế được tự do, cầu sẽ khiến một số ngành có
 
 Trong một nền kinh tế tự do, nơi lương, chi phí và giá được để cho cạnh tranh tự do quyết định, triển vọng lợi nhuận quyết định mặt hàng nào được làm, làm bao nhiêu, và mặt hàng nào không được làm. Nếu làm một mặt hàng không có lãi, đó là dấu hiệu lao động và vốn dùng cho nó đang bị đặt sai chỗ: giá trị các nguồn lực phải tiêu hao để làm ra mặt hàng ấy lớn hơn giá trị của chính mặt hàng ấy.
 
-Tóm lại, một chức năng của lợi nhuận là dẫn dắt các yếu tố sản xuất để phân bổ sản lượng tương đối của hàng nghìn mặt hàng khác nhau theo cầu. Không quan chức nào, dù xuất sắc đến đâu, có thể giải bài toán này một cách tuỳ ý. Giá tự do và lợi nhuận tự do sẽ tối đa hoá sản xuất và chấm dứt thiếu hàng nhanh hơn mọi hệ thống khác. Giá ấn định tuỳ ý và lợi nhuận giới hạn tuỳ ý chỉ có thể kéo dài tình trạng thiếu hàng và làm giảm sản xuất cùng việc làm.
+Tóm lại, một chức năng của lợi nhuận là dẫn dắt các yếu tố sản xuất để phân bổ sản lượng tương đối của hàng nghìn mặt hàng khác nhau theo cầu. Không quan chức nào, dù xuất sắc đến đâu, có thể giải bài toán này một cách tuỳ ý. Giá tự do và lợi nhuận tự do sẽ tối đa hoá sản xuất và giải toả thiếu hàng nhanh hơn mọi hệ thống khác. Giá ấn định tuỳ ý và lợi nhuận giới hạn tuỳ ý chỉ có thể kéo dài tình trạng thiếu hàng và làm giảm sản xuất cùng việc làm.
 
 ### 5. Chức năng thứ hai: áp lực tiết kiệm chi phí
 
@@ -281,7 +282,7 @@ Lợi nhuận không phải phần thu nhập bị lấy đi của xã hội mà
 - **Lợi nhuận kinh tế và lợi nhuận kế toán** (economic vs. accounting profit): phép trừ lãi suất không rủi ro và tiền công của chủ chính là chuyển từ lợi nhuận kế toán sang lợi nhuận kinh tế, có tính chi phí cơ hội.
 - **Cân bằng dài hạn với lợi nhuận kinh tế bằng không**: trong mô hình cạnh tranh, gia nhập và rời ngành kéo lợi nhuận kinh tế về 0. Quá trình Hazlitt mô tả (lợi nhuận cao → người mới vào → lợi nhuận về bình quân) là cơ chế điều chỉnh này.
 - **Rủi ro, bất định và lợi nhuận** (Frank Knight, 1921): lợi nhuận là phần thưởng cho việc gánh bất định không bảo hiểm được.
-- **Tranh luận về tính toán kinh tế xã hội chủ nghĩa** (socialist calculation debate): câu "hệ thống xã hội chủ nghĩa cũng phải trả lời" là quan điểm của Ludwig von Mises (1920) và Friedrich Hayek ("The Use of Knowledge in Society", 1945): không có giá và lãi–lỗ thị trường, nhà kế hoạch không có thông tin để phân bổ nguồn lực.
+- **Tranh luận về tính toán kinh tế xã hội chủ nghĩa** (socialist calculation debate): câu "hệ thống xã hội chủ nghĩa cũng phải trả lời" trùng với quan điểm của Ludwig von Mises (1920) và Friedrich Hayek ("The Use of Knowledge in Society", 1945): không có giá và lãi–lỗ thị trường, nhà kế hoạch không có thông tin để phân bổ nguồn lực.
 - **Áp lực cạnh tranh và hiệu quả X** (X-efficiency, Harvey Leibenstein, 1966): doanh nghiệp không chịu áp lực cạnh tranh hay áp lực lợi nhuận thường hoạt động kém hiệu quả hơn mức có thể; chức năng thứ hai của lợi nhuận chính là chống lại điều này.
 - **Thiên lệch sống sót** (survivorship bias): lấy General Motors làm điển hình là nhìn vào kẻ sống sót, quên những người đã thất bại.
 - **Tâm lý lạc quan quá mức của doanh nhân** (entrepreneurial overconfidence): nhận định "doanh nhân vào những việc không thể thành công vì lạc quan" nay là chủ đề của kinh tế học hành vi.
@@ -313,7 +314,7 @@ Lợi nhuận không phải phần thu nhập bị lấy đi của xã hội mà
 *"While there is a word 'profiteer' to stigmatize those who make allegedly excessive profits, there is no such word as 'wageer'—or 'losseer.'"*
 
 > "Nếu làm một mặt hàng mà không có lãi, đó là dấu hiệu lao động và vốn dành cho việc sản xuất nó đã bị dùng sai hướng: giá trị các nguồn lực phải tiêu hao để làm ra nó lớn hơn giá trị của chính nó."
-*"If there is no profit in making an article, it is a sign that the labor and capital devoted to its production are misdirected."*
+*"If there is no profit in making an article, it is a sign that the labor and capital devoted to its production are misdirected: the value of the resources that must be used up in making the article is greater than the value of the article itself."*
 
 > "Không quan chức nào, dù xuất sắc đến đâu, có thể giải bài toán này một cách tuỳ ý."
 *"No bureaucrat, no matter how brilliant, can solve this problem arbitrarily."*
@@ -334,7 +335,7 @@ Trong vài trang, Hazlitt nêu một ý mà kinh tế học chính thống sau n
 
 ### Lập luận "lợi nhuận ròng dài hạn có thể bằng không" được bằng chứng hiện đại ủng hộ một phần
 
-Hazlitt dẫn ý kiến (không nêu tên) rằng tính chung, sau khi trừ lỗ, lãi suất và tiền công của chủ, doanh nhân có thể không lãi. Nghiên cứu hiện đại phần nào xác nhận: Barton Hamilton (2000) thấy phần lớn người tự kinh doanh ở Mỹ có thu nhập thấp hơn mức họ có thể kiếm khi đi làm thuê; Tobias Moskowitz và Annette Vissing-Jørgensen (2002) gọi hiện tượng lợi suất đầu tư vào doanh nghiệp tư nhân không cao hơn cổ phiếu niêm yết dù rủi ro hơn nhiều là "câu đố về phần bù vốn tư nhân" (private equity premium puzzle). Cả hai đều gợi ý doanh nhân chấp nhận lợi suất thấp vì lạc quan quá mức hoặc vì giá trị phi tiền tệ của việc tự làm chủ, đúng như Hazlitt nói.
+Hazlitt dẫn ý kiến của "một số nhà kinh tế lỗi lạc" (không nêu tên trong chính văn; chú thích dẫn Frank Knight, 1921) rằng tính chung, sau khi trừ lỗ, lãi suất và tiền công của chủ, doanh nhân có thể không lãi. Nghiên cứu hiện đại phần nào xác nhận: Barton Hamilton (2000) thấy phần lớn người tự kinh doanh ở Mỹ có thu nhập thấp hơn mức họ có thể kiếm khi đi làm thuê; Tobias Moskowitz và Annette Vissing-Jørgensen (2002) gọi hiện tượng lợi suất đầu tư vào doanh nghiệp tư nhân không cao hơn cổ phiếu niêm yết dù rủi ro hơn nhiều là "câu đố về phần bù vốn tư nhân" (private equity premium puzzle). Cả hai đều gợi ý doanh nhân chấp nhận lợi suất thấp vì lạc quan quá mức hoặc vì giá trị phi tiền tệ của việc tự làm chủ, đúng như Hazlitt nói.
 
 Nhưng con số "dưới 5% thu nhập quốc dân" của ông cần đọc thận trọng: giai đoạn 1929–1943 bao gồm Đại Suy thoái, khi lợi nhuận công ty nhiều năm âm, nên trung bình bị kéo xuống. Và lợi nhuận công ty chỉ là một phần thu nhập từ vốn; thêm lãi suất, tiền thuê, thu nhập của doanh nghiệp không có tư cách công ty thì tỷ trọng thu nhập từ vốn lớn hơn nhiều.
 

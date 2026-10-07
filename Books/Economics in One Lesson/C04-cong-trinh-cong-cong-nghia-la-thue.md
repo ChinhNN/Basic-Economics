@@ -3,7 +3,7 @@
 **Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied" (Bài học được áp dụng), Chương 4 "Public Works Mean Taxes". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
 **Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
 **Vị trí trong lập luận của cả cuốn sách:** Chương 1 nêu "bài học" (the lesson): phải xét hệ quả dài hạn của một chính sách và tác động của nó lên mọi nhóm, không chỉ một nhóm. Chương 2 (cửa sổ vỡ) và Chương 3 (cái gọi là lợi ích của chiến tranh, tàn phá) áp dụng bài học vào sự phá hoại. Chương 4 chuyển từ phá hoại sang **chi tiêu của chính phủ**: một cây cầu xây bằng tiền thuế cũng giống tấm kính thay cho cửa sổ vỡ, chỉ thấy người được thuê, không thấy công việc và hàng hoá mất đi vì người nộp thuế bị lấy tiền. Chương 5 nói tiếp rằng thuế không chỉ chuyển tiền từ người này sang người kia mà còn làm giảm động lực sản xuất; Chương 6 áp dụng cùng lập luận cho tín dụng của chính phủ. Trường hợp công trình công cộng được tài trợ bằng vay nợ và in tiền được Hazlitt để lại cho Chương 22 (ảo ảnh lạm phát).
-**Ý chính:** Hazlitt muốn chứng minh rằng công trình công cộng xây với mục đích "tạo việc làm" hay "tạo thêm của cải" không tạo ra việc làm hay của cải ròng, vì mỗi đô la chi cho công trình là một đô la lấy đi của người nộp thuế. Ví dụ chính: một cây cầu giá 1.000.000 USD tạo ra chừng 500 việc làm trong một năm; đó là **cái thấy được** (the seen). **Cái không thấy** (the unseen) là 1.000.000 USD người nộp thuế lẽ ra đã tự chi cho nhà ở, ô tô, radio, quần áo, thực phẩm, cùng với số việc làm tương ứng trong các ngành đó. Ông áp dụng cùng lập luận cho nhà ở công cộng cho người thu nhập thấp và cho dự án lớn nhất thời đó là Cơ quan Thung lũng Tennessee (TVA) với đập Norris, rồi kết luận: khi mục tiêu chính là "tạo việc làm", công trình càng tốn nhân công, càng lãng phí lại càng được coi là tốt.
+**Ý chính:** Hazlitt muốn chứng minh rằng công trình công cộng xây với mục đích "tạo việc làm" hay "tạo thêm của cải" không tạo ra việc làm hay của cải ròng, vì mỗi đô la chi cho công trình là một đô la lấy đi của người nộp thuế. Ví dụ chính: một cây cầu giá 1.000.000 USD tạo ra chừng 500 việc làm trong một năm; đó là **cái thấy được** (the seen). **Cái không thấy** (the unseen) là 1.000.000 USD người nộp thuế lẽ ra đã tự chi cho nhà ở, ô tô, radio, quần áo, thực phẩm, cùng với số việc làm tương ứng trong các ngành đó. Ông áp dụng cùng lập luận cho nhà ở công cộng cho người thu nhập thấp và cho một dự án lớn như Cơ quan Thung lũng Tennessee (TVA) với đập Norris, rồi kết luận: khi mục tiêu chính là "tạo việc làm", công trình càng tốn nhân công, càng lãng phí lại càng hợp mục tiêu đó, nên rất khó có chuyện dự án do quan chức nghĩ ra đem lại nhiều của cải và phúc lợi trên mỗi đô la bằng khi người nộp thuế được tự chi tiêu.
 
 > **Lưu ý:** (1) Bối cảnh: chương được viết ngay sau Thế chiến II, khi ký ức về New Deal (1933–1939) còn rất gần. Chính quyền Roosevelt đã chi lớn cho các chương trình việc làm công như Cục Công trình Công cộng (Public Works Administration, PWA) và Cục Quản lý Tiến độ Công trình (Works Progress Administration, WPA), cho nhà ở công cộng (Luật Nhà ở 1937) và cho TVA (thành lập năm 1933 để xây đập, làm thuỷ điện, chống lũ và phát triển vùng thung lũng sông Tennessee; đập Norris là đập đầu tiên, hoàn thành năm 1936). Ý tưởng "chính phủ có thể chi tiêu mà không cần đánh thuế" và "nợ công là nợ của chính chúng ta" (we owe it to ourselves) gắn với kinh tế học Keynes và với "tài chính chức năng" (functional finance) của Abba Lerner (1943), đang rất thịnh hành khi Hazlitt viết. (2) Hazlitt tự nói ông sẽ "phải giáo điều" (dogmatic) ở chỗ này: ông **giả định** mọi khoản chi của chính phủ sớm hay muộn đều trả bằng thuế, và hoãn phần phân tích vay nợ và lạm phát sang chương sau. (3) Lập luận "mỗi việc làm công tạo ra là một việc làm tư bị mất" ngầm giả định nền kinh tế đang dùng hết nguồn lực, hoặc ít nhất tiền thuế lẽ ra sẽ được người nộp thuế chi tiêu hay đầu tư hết. Đây chính là điểm phái Keynes phản bác khi có suy thoái, lao động và máy móc bị bỏ không (xem phần Đánh giá). (4) Mọi câu trích là bản dịch của người tổng hợp.
 
@@ -14,7 +14,8 @@
 ```text
        Niềm tin dai dẳng và có ảnh hưởng nhất thời đó: chi tiêu của chính
        phủ là THUỐC CHỮA BÁCH BỆNH cho kinh tế
-       · công nghiệp tư nhân trì trệ? thì cách chữa là chính phủ chi tiêu
+       · công nghiệp tư nhân trì trệ một phần? thì cách chữa là chính
+         phủ chi tiêu
        · có thất nghiệp? thì người ta nói đó là do "thiếu SỨC MUA tư
          nhân", và cách chữa là chính phủ chi đủ để bù phần "thiếu hụt"
        → trên niềm tin này đã mọc lên cả một mạng lưới ngụy biện dựa vào
@@ -218,19 +219,19 @@
 
 **Chuyển hướng việc làm (diversion of jobs).** Chi tiêu công tài trợ bằng thuế không tạo ra việc làm ròng mà chỉ chuyển việc làm từ ngành phục vụ người nộp thuế sang ngành phục vụ dự án công. Ví dụ: thêm thợ xây cầu, bớt công nhân ô tô, kỹ thuật viên radio, thợ may, nông dân. Đây là kết quả "trong trường hợp tốt nhất"; nếu dự án lãng phí thì xã hội còn mất thêm.
 
-**Lạm phát là một loại thuế (inflation as a tax).** Khi chính phủ in tiền để chi tiêu, giá cả tăng và sức mua của tiền mỗi người đang giữ giảm xuống; phần sức mua mất đi đó chuyển sang chính phủ, giống như bị thu thuế mà không cần luật thuế. Hazlitt gọi đây là một hình thức thuế "đặc biệt tồi tệ", vì nó đánh vào mọi người giữ tiền mà không ai biểu quyết. Ví dụ minh hoạ: nếu giá cả tăng 10% vì chính phủ in tiền, người đang giữ 1.000 USD mất khoảng 91 USD sức mua.
+**Lạm phát là một loại thuế (inflation as a tax).** Khi chính phủ in tiền để chi tiêu, giá cả tăng và sức mua của tiền mỗi người đang giữ giảm xuống; phần sức mua mất đi đó chuyển sang chính phủ, giống như bị thu thuế mà không cần luật thuế. Hazlitt gọi đây là một hình thức thuế "đặc biệt tồi tệ" nhưng ở chương này không giải thích vì sao; lý do thường được nêu (nhận xét của người tổng hợp) là nó đánh vào mọi người giữ tiền mà không cần ai biểu quyết. Ví dụ minh hoạ của người tổng hợp: nếu giá cả tăng 10% vì chính phủ in tiền, người đang giữ 1.000 USD mất khoảng 91 USD sức mua.
 
 **Dự án vô bổ (boondoggle / boondoggling projects).** Chữ lóng của Mỹ thời New Deal, chỉ những dự án tốn tiền mà gần như vô ích, được đặt ra chủ yếu để có việc cho người ta làm. Hazlitt nói khi mục tiêu là việc làm thì những dự án như vậy "luôn luôn" xuất hiện, và dự án càng tốn nhân công càng được ưa.
 
 ## Nội dung chi tiết
 
-### 1. Niềm tin vào chi tiêu của chính phủ
+### 1. (Mục 1, mở đầu chương) Niềm tin vào chi tiêu của chính phủ
 
-Hazlitt mở đầu bằng nhận xét rằng không có niềm tin nào trên thế giới thời đó dai dẳng và có ảnh hưởng hơn niềm tin vào chi tiêu của chính phủ. Ở đâu chi tiêu của chính phủ cũng được trình bày như thuốc chữa bách bệnh: công nghiệp tư nhân trì trệ thì chính phủ chi tiêu; có thất nghiệp thì đó rõ ràng là vì "thiếu sức mua (purchasing power) tư nhân", và cách chữa cũng rõ ràng: chính phủ chi đủ để bù phần "thiếu hụt".
+Hazlitt mở đầu bằng nhận xét rằng không có niềm tin nào trên thế giới thời đó dai dẳng và có ảnh hưởng hơn niềm tin vào chi tiêu của chính phủ. Ở đâu chi tiêu của chính phủ cũng được trình bày như thuốc chữa bách bệnh: công nghiệp tư nhân trì trệ một phần thì chính phủ chi tiêu; có thất nghiệp thì đó rõ ràng là vì "thiếu sức mua (purchasing power) tư nhân", và cách chữa cũng rõ ràng: chính phủ chi đủ để bù phần "thiếu hụt".
 
 Theo ông, cả một khối sách vở khổng lồ dựa trên ngụy biện này, và nó đã thành một mạng lưới ngụy biện chằng chịt dựa vào nhau. Chương này không đi hết mạng lưới (các nhánh khác sẽ được xét ở các chương sau), mà xét "ngụy biện mẹ" (mother fallacy), tức ngụy biện gốc sinh ra mọi ngụy biện khác trong mạng lưới.
 
-### 2. Mọi khoản chi đều phải trả bằng thuế
+### 2. (Mục 1, đoạn 3–4) Mọi khoản chi đều phải trả bằng thuế
 
 Nguyên tắc nền: ngoài quà tặng miễn phí của tự nhiên, mọi thứ ta có đều phải trả giá bằng cách nào đó. Hazlitt chế giễu những "nhà kinh tế" đầy kế hoạch "được cái gì đó mà không mất gì" (something for nothing): họ nói chính phủ có thể chi mãi mà không đánh thuế, có thể chồng nợ mà không bao giờ trả, vì "chúng ta nợ chính chúng ta". Ông hứa sẽ quay lại những học thuyết này sau (ở Chương 22, về lạm phát), và ở đây chấp nhận "phải giáo điều": những giấc mơ dễ chịu ấy trong quá khứ đều tan vỡ bằng **vỡ nợ quốc gia** hoặc **lạm phát phi mã**. Ông nói gọn ba điều:
 
@@ -240,11 +241,11 @@ Nguyên tắc nền: ngoài quà tặng miễn phí của tự nhiên, mọi th�
 
 Từ đó, ông đặt giả định cho cả chương: mỗi đô la chi tiêu của chính phủ, ngay lập tức hay về sau, phải được bù bằng một đô la thuế. Nhìn như vậy thì những "phép màu" của chi tiêu công sẽ hiện ra dưới ánh sáng khác.
 
-### 3. Phạm vi: công trình cần thiết và công trình "tạo việc làm"
+### 3. (Mục 1, đoạn 5) Phạm vi: công trình cần thiết và công trình "tạo việc làm"
 
 Hazlitt nói rõ một mức chi tiêu công nhất định là cần để thực hiện các chức năng thiết yếu của nhà nước, và một lượng công trình công cộng nhất định là cần để cung cấp dịch vụ công thiết yếu: đường phố, đường bộ, cầu, hầm, kho vũ khí, xưởng hải quân, nhà cho cơ quan lập pháp, cảnh sát và cứu hoả. Ông không bàn những công trình cần cho chính chúng và được biện hộ chỉ bằng lý do đó. Ông chỉ bàn công trình công cộng được coi là phương tiện để **"tạo việc làm"** hoặc để thêm vào cộng đồng một lượng của cải mà cộng đồng lẽ ra không có.
 
-### 4. Cây cầu: lý lẽ việc làm
+### 4. (Mục 1, đoạn về cây cầu Easton–Weston) Cây cầu: lý lẽ việc làm
 
 Một cây cầu được xây. Nếu nó đáp ứng một nhu cầu bức thiết của công chúng, giải quyết một vấn đề giao thông, vận tải không có cách nào khác, tóm lại nếu nó **cần hơn những thứ mà người nộp thuế lẽ ra đã chi tiền vào** nếu tiền không bị thuế lấy đi, thì không có gì để phản đối. Nhưng một cây cầu xây chủ yếu "để tạo việc làm" là một loại cầu khác. Khi tạo việc làm thành mục đích, nhu cầu thành chuyện thứ yếu. Phải bịa ra "dự án". Người chi tiêu của chính phủ không còn hỏi cầu **phải** xây ở đâu, mà hỏi cầu **có thể** xây ở đâu. Họ có nghĩ ra được lý do nghe xuôi tai để xây thêm một cây cầu nối Easton và Weston không? Chẳng mấy chốc cây cầu ấy trở nên "tuyệt đối cần thiết", và ai nghi ngờ thì bị gạt đi là kẻ cản trở, phản động.
 
@@ -260,13 +261,13 @@ Có hai lý lẽ được đưa ra cho cây cầu: một lý lẽ nghe chủ y�
 
 Vì vậy, với mỗi việc làm công mà dự án tạo ra, có một việc làm tư bị huỷ ở đâu đó. Người ta thấy những người làm trên cầu, xem họ làm việc; lý lẽ việc làm của phía chi tiêu trở nên sống động và có lẽ thuyết phục được phần đông. Nhưng có những thứ ta không thấy, vì "than ôi, chúng chưa bao giờ được phép ra đời": những việc làm bị huỷ bởi 1.000.000 USD lấy từ người nộp thuế. Điều đã xảy ra, trong trường hợp tốt nhất, chỉ là việc làm bị **chuyển hướng** vì dự án.
 
-### 5. Cây cầu: lý lẽ của cải
+### 5. (Mục 1, hai đoạn cuối) Cây cầu: lý lẽ của cải
 
 Lý lẽ thứ hai đến sau khi cầu xong. Cây cầu đã có, giả sử là một cây cầu đẹp. Nó ra đời nhờ "phép màu" của chi tiêu chính phủ. Nếu nghe theo những kẻ cản trở và phản động thì sẽ không có cầu, và đất nước sẽ nghèo đi đúng bằng ngần ấy.
 
 Ở đây phía chi tiêu lại thắng thế trước những người không nhìn được quá tầm mắt. Họ thấy cây cầu. Nhưng ai đã tập tìm cả hệ quả gián tiếp lẫn trực tiếp thì lại thấy, bằng con mắt tưởng tượng, những khả năng chưa bao giờ được phép ra đời: những ngôi nhà không được xây, những chiếc ô tô và radio không được làm, những bộ váy áo không được may, có lẽ cả những lương thực không được trồng và không được bán. Hazlitt thừa nhận nhìn thấy những thứ chưa được tạo ra đòi hỏi một loại trí tưởng tượng mà ít người có. Ta có thể nghĩ tới chúng một lần, nhưng không giữ chúng trong đầu được như cây cầu ta đi qua mỗi ngày làm việc. Điều đã xảy ra chỉ là **một thứ được tạo ra thay cho những thứ khác**.
 
-### 6. Nhà ở công cộng
+### 6. (Mục 2, nửa đầu) Nhà ở công cộng
 
 Cùng lập luận áp dụng cho mọi công trình công cộng khác, ví dụ nhà ở xây bằng tiền công cho người thu nhập thấp. Điều xảy ra là tiền bị lấy qua thuế từ các gia đình thu nhập cao hơn (có lẽ cả một ít từ các gia đình còn thu nhập thấp hơn) để buộc họ trợ cấp cho một số gia đình thu nhập thấp được chọn, giúp những gia đình này ở nhà tốt hơn với tiền thuê bằng hoặc thấp hơn trước.
 
@@ -276,7 +277,7 @@ Hazlitt nói ông không bàn mọi mặt được và mất của nhà ở côn
 
 Lợi thế tâm lý lớn của người ủng hộ nhà ở công cộng là người ta thấy thợ làm việc khi nhà đang lên, và thấy ngôi nhà khi xong. Người ta ở trong đó và hãnh diện dẫn bạn bè đi xem từng phòng. Việc làm bị thuế huỷ đi thì không ai thấy, hàng hoá dịch vụ chưa từng được làm ra cũng vậy. Mỗi lần nhìn những ngôi nhà và những người hạnh phúc sống trong đó, người ta phải tập trung suy nghĩ, và phải cố gắng lại từ đầu, mới nghĩ tới của cải đã không được tạo ra. Vì thế không lạ khi người ủng hộ gạt phản biện này đi như "thế giới tưởng tượng", "lý thuyết thuần tuý", trong khi chỉ tay vào những ngôi nhà có thật. Hazlitt so họ với một nhân vật trong vở *Saint Joan* của Bernard Shaw: khi nghe kể thuyết của Pythagoras rằng Trái Đất tròn và quay quanh Mặt Trời, nhân vật đáp: "Đồ ngốc hết chỗ nói! Hắn không biết dùng mắt à?"
 
-### 7. TVA và đập Norris
+### 7. (Mục 2, hai đoạn cuối) TVA và đập Norris
 
 Lập luận này cũng phải áp dụng cho các dự án lớn như Cơ quan Thung lũng Tennessee (Tennessee Valley Authority, TVA). Vì quy mô quá lớn, nguy cơ "ảo giác thị giác" (optical illusion) ở đây lớn hơn bao giờ hết. Đây là một con đập hùng vĩ, một vòng cung thép và bê tông khổng lồ, "lớn hơn bất cứ thứ gì tư bản tư nhân có thể xây", là đối tượng sùng bái của nhiếp ảnh gia, thiên đường của người theo chủ nghĩa xã hội, biểu tượng được dùng nhiều nhất cho những phép màu của xây dựng, sở hữu và vận hành công. Đây là những máy phát điện, nhà máy điện lớn; cả một vùng được nâng lên mức kinh tế cao hơn, thu hút nhà máy và ngành nghề lẽ ra không có. Và tất cả được trình bày, trong những bài ca tụng của người ủng hộ, như một lợi ích kinh tế ròng không có gì bù trừ.
 
@@ -286,7 +287,7 @@ Hazlitt nói ông không bàn giá trị của TVA, nhưng lần này cần mộ
 - Thứ "lớn đến mức tư bản tư nhân không thể xây" thật ra **đã được xây bằng tư bản tư nhân**: số vốn bị tước đoạt qua thuế (hoặc, nếu tiền được đi vay, số vốn cuối cùng phải bị tước đoạt qua thuế).
 - Một lần nữa phải cố tưởng tượng để thấy những nhà máy điện tư nhân, những ngôi nhà tư, những chiếc máy chữ và radio không bao giờ được phép ra đời, vì số tiền lấy từ người dân khắp nước để xây con đập Norris "ăn ảnh".
 
-### 8. Kết: đây mới là những ví dụ thuận lợi nhất cho phía chi tiêu
+### 8. (Mục 3, kết chương) Kết: đây mới là những ví dụ thuận lợi nhất cho phía chi tiêu
 
 Hazlitt nói ông cố ý chọn những ví dụ thuận lợi nhất cho các kế hoạch chi tiêu công, tức những dự án được phía chi tiêu cổ vũ thường xuyên và nhiệt thành nhất, và được công chúng đánh giá cao nhất. Ông chưa nói tới hàng trăm dự án vô bổ (boondoggling projects) luôn được khởi động ngay khi mục tiêu chính là "cho người ta việc làm" và "đưa người ta đi làm". Khi đó, như đã thấy, ích lợi của bản thân dự án tất yếu thành thứ yếu. Hơn nữa, công việc càng lãng phí, càng tốn nhân lực, thì càng tốt cho mục tiêu tạo việc làm.
 
@@ -372,7 +373,7 @@ Công trình công cộng được biện hộ là để "tạo việc làm" ho�
 
 > "Mọi khoản chi của chính phủ cuối cùng phải được trả bằng tiền thu thuế; hoãn ngày xấu lại chỉ làm vấn đề lớn thêm; và bản thân lạm phát chỉ là một hình thức thuế, một hình thức đặc biệt tồi tệ."
 >
-> *"All government expenditures must eventually be paid out of the proceeds of taxation; to put off the evil day merely increases the problem, and inflation itself is merely a form, and a particularly vicious form, of taxation."*
+> *"…all government expenditures must eventually be paid out of the proceeds of taxation; that to put off the evil day merely increases the problem, and that inflation itself is merely a form, and a particularly vicious form, of taxation."*
 
 > "Vì vậy, với mỗi việc làm công mà dự án cây cầu tạo ra, một việc làm tư đã bị huỷ ở đâu đó."
 >
@@ -382,9 +383,9 @@ Công trình công cộng được biện hộ là để "tạo việc làm" ho�
 >
 > *"What has happened is merely that one thing has been created instead of others."*
 
-> "Thứ lớn đến mức 'tư bản tư nhân không thể xây' thật ra đã được xây bằng tư bản tư nhân: số vốn bị tước đoạt qua thuế."
+> "Thứ lớn đến mức 'tư bản tư nhân không thể xây' thật ra đã được xây bằng tư bản tư nhân: số vốn bị tước đoạt qua thuế (hoặc, nếu tiền được đi vay, số vốn cuối cùng phải bị tước đoạt qua thuế)."
 >
-> *"The thing so great that 'private capital could not have built it' has in fact been built by private capital—the capital that was expropriated in taxes."*
+> *"The thing so great that 'private capital could not have built it' has in fact been built by private capital—the capital that was expropriated in taxes (or, if the money was borrowed, that eventually must be expropriated in taxes)."*
 
 > "Công việc càng lãng phí, càng tốn nhân lực, thì càng tốt cho mục tiêu tạo thêm việc làm."
 >
@@ -404,7 +405,7 @@ Nghiên cứu thực nghiệm hiện đại về số nhân tài khoá cho kết
 
 ### Ví dụ TVA được nghiên cứu sau này phần nào xác nhận Hazlitt, phần nào không
 
-Hazlitt nói vùng Tennessee giàu lên tương đối là chuyện tự nhiên vì tiền thuế cả nước đổ vào đó, và các vùng khác nghèo đi tương đối. Nghiên cứu lớn của Patrick Kline và Enrico Moretti (2014) về TVA trong gần một thế kỷ cho kết quả hai mặt. Một mặt, lợi ích công nghiệp của vùng TVA kéo dài lâu sau khi trợ cấp liên bang giảm; nhưng ở cấp **cả nước**, phần lớn lợi ích do tập trung công nghiệp (agglomeration) ở vùng TVA được bù trừ bởi tổn thất ở các vùng khác, đúng như Hazlitt nói. Mặt khác, các tác giả vẫn tìm thấy một lợi ích ròng cho cả nước đến từ chính khoản đầu tư hạ tầng (điện, đập, kiểm soát lũ) làm tăng năng suất. Tức là phần "chuyển của cải từ vùng này sang vùng khác" thì Hazlitt đúng; nhưng một công trình hạ tầng tốt có thể tạo ra của cải ròng thật, đúng như loại "công trình cần thiết cho chính nó" mà ông không phản đối. Vấn đề là ông gán TVA vào nhóm thứ hai mà không xét bằng chứng.
+Hazlitt nói vùng Tennessee giàu lên tương đối là chuyện tự nhiên vì tiền thuế cả nước đổ vào đó, và các vùng khác nghèo đi tương đối. Nghiên cứu lớn của Patrick Kline và Enrico Moretti (2014) về TVA trong gần một thế kỷ cho kết quả hai mặt. Một mặt, lợi ích công nghiệp của vùng TVA kéo dài lâu sau khi trợ cấp liên bang giảm; nhưng ở cấp **cả nước**, phần lớn lợi ích do tập trung công nghiệp (agglomeration) ở vùng TVA được bù trừ bởi tổn thất ở các vùng khác, đúng như Hazlitt nói. Mặt khác, các tác giả vẫn tìm thấy một lợi ích ròng cho cả nước đến từ chính khoản đầu tư hạ tầng (điện, đập, kiểm soát lũ) làm tăng năng suất. Tức là phần "chuyển của cải từ vùng này sang vùng khác" thì Hazlitt đúng; nhưng một công trình hạ tầng tốt có thể tạo ra của cải ròng thật, đúng như loại "công trình cần thiết cho chính nó" mà ông không phản đối. Hazlitt nói rõ ông không bàn giá trị của TVA, chỉ bác cách trình bày nó như lợi ích ròng không có gì bù trừ; điểm yếu là ông chỉ nêu phần chuyển của cải giữa các vùng mà không nhắc tới khả năng TVA cũng tạo ra của cải ròng thật.
 
 ### Hazlitt nhìn thấy chi phí phân tán nhưng gần như bỏ qua lợi ích phân tán của hàng hoá công
 

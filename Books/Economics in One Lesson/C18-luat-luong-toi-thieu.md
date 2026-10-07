@@ -3,9 +3,9 @@
 **Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai, Chương 18 "Minimum Wage Laws". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
 **Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
 **Vị trí trong lập luận của cả cuốn sách:** Các Chương 13, 14, 16 xét việc chính phủ nâng giá hàng hoá lên trên mức thị trường; Chương 17 xét việc ép giá xuống dưới mức thị trường. Chương 18 áp dụng phân tích giá sàn cho **giá của lao động**: lương là một loại giá, nên luật lương tối thiểu chịu cùng quy luật như giá sàn nông sản. Chương này cũng nối với Chương 8 (Spread-the-Work Schemes) và Chương 10 (The Fetish of Full Employment) ở chỗ coi việc làm có ích quan trọng hơn bản thân con số việc làm. Chương 19 tiếp tục với cách nâng lương thứ hai: công đoàn. Chương 20 ("Enough to Buy Back the Product") giới thiệu khái niệm lương chức năng (functional wages) làm thước đo cho cả hai chương.
-**Ý chính:** Hazlitt muốn chứng minh rằng **luật lương tối thiểu thay một mức lương thấp bằng thất nghiệp**: không thể làm một người đáng giá 30 USD một tuần với chủ thuê bằng cách cấm trả anh ta ít hơn. Ông xét các đường thoát (đẩy chi phí sang người tiêu dùng, "để ngành trả lương chết đói chết luôn") và chỉ ra mỗi đường đều dẫn tới mất việc. Tiếp đó ông dùng phép tính lương tối thiểu 75 xu/giờ (30 USD/tuần 40 giờ) và trợ cấp thất nghiệp 18 USD/tuần để cho thấy chính sách cấm một người làm việc có ích với 25 USD để nuôi anh ta ngồi không với 18 USD. Kết luận: cách duy nhất làm tăng lương bền vững là **tăng năng suất lao động**; "lương thực tế đến từ sản xuất, không đến từ sắc lệnh của chính phủ".
+**Ý chính:** Hazlitt muốn chứng minh rằng **luật lương tối thiểu thay một mức lương thấp bằng thất nghiệp**: không thể làm một người đáng giá 30 USD một tuần với chủ thuê bằng cách cấm trả anh ta ít hơn. Ông xét các đường thoát (đẩy chi phí sang người tiêu dùng, "để ngành trả lương chết đói chết luôn") và chỉ ra mỗi đường đều dẫn tới mất việc. Tiếp đó ông dùng phép tính lương tối thiểu 75 xu/giờ (30 USD/tuần 40 giờ) và trợ cấp thất nghiệp 18 USD/tuần để cho thấy chính sách cấm một người làm việc có ích với 25 USD để nuôi anh ta ngồi không với 18 USD. Kết luận: cách tốt nhất để tăng lương là **tăng năng suất lao động**; "lương thực tế đến từ sản xuất, không đến từ sắc lệnh của chính phủ".
 
-> **Lưu ý:** (1) Bối cảnh: Mỹ có lương tối thiểu liên bang từ Đạo luật Tiêu chuẩn Lao động Công bằng (*Fair Labor Standards Act*, 1938), ban đầu 25 xu/giờ, lên 40 xu/giờ năm 1945. Khi Hazlitt viết (1946), mức 75 xu/giờ (30 USD/tuần) trong ví dụ của ông là một mức giả định cao hơn luật hiện hành; Quốc hội nâng lương tối thiểu lên đúng 75 xu/giờ từ năm 1950, nên ở ấn bản 1952 con số này đã thành mức thật. (2) "Relief" là các khoản cứu trợ người thất nghiệp thời Đại suy thoái và New Deal: *home relief* là trợ cấp tiền mặt tại nhà, *work relief* là trả tiền cho người thất nghiệp làm các công trình công cộng (kiểu chương trình WPA). (3) Hazlitt thừa nhận một ngoại lệ (người lao động bị trả thấp hơn giá trị thị trường ở nơi cạnh tranh không vận hành), nhưng cho rằng công đoàn xử lý tốt hơn; kinh tế học hiện đại gọi trường hợp này là độc quyền mua lao động (monopsony) và nghiên cứu thực nghiệm từ thập niên 1990 (Card–Krueger và các nghiên cứu sau) đã làm luận điểm "luôn tăng thất nghiệp" của ông trở thành chủ đề tranh luận lớn, xem phần Đánh giá. (4) Mọi câu trích là bản dịch của người tổng hợp.
+> **Lưu ý:** (1) Bối cảnh: Mỹ có lương tối thiểu liên bang từ Đạo luật Tiêu chuẩn Lao động Công bằng (*Fair Labor Standards Act*, 1938), ban đầu 25 xu/giờ, lên 40 xu/giờ năm 1945. Khi Hazlitt viết (1946), mức 75 xu/giờ (30 USD/tuần) trong ví dụ của ông là một mức giả định cao hơn luật hiện hành; Quốc hội nâng lương tối thiểu lên đúng 75 xu/giờ từ năm 1950, nên ở ấn bản 1952 con số này đã thành mức thật. (2) "Relief" là các khoản cứu trợ người thất nghiệp thời Đại suy thoái và New Deal: *home relief* là trợ cấp tiền mặt tại nhà, *work relief* là trả tiền cho người thất nghiệp làm các công trình công cộng (kiểu chương trình WPA). (3) Hazlitt thừa nhận một ngoại lệ (người lao động bị trả thấp hơn giá trị thị trường ở nơi cạnh tranh không vận hành), nhưng cho rằng công đoàn xử lý tốt hơn; kinh tế học hiện đại gọi trường hợp này là độc quyền mua lao động (monopsony) và nghiên cứu thực nghiệm từ thập niên 1990 (Card–Krueger và các nghiên cứu sau) đã làm luận điểm "lương tối thiểu sẽ làm tăng thất nghiệp" của ông trở thành chủ đề tranh luận lớn, xem phần Đánh giá. (4) Mọi câu trích là bản dịch của người tổng hợp.
 
 ## Sơ đồ
 
@@ -20,15 +20,17 @@
          cùng một nguyên lý chi phối cả giá hàng lẫn lương
                                 │
                                 ▼
-       NGHỊCH LÝ CỦA DƯ LUẬN: chính những người phản đối việc nâng giá
-       hàng bằng luật, và biết rằng giá sàn hại nhất cho chính ngành nó
-       định cứu, lại vẫn ủng hộ lương tối thiểu và lên án người phản
-       đối, vì khi bàn về lương, CẢM XÚC và thiên kiến chính trị lấn át
+       NGHỊCH LÝ CỦA DƯ LUẬN: chính những người phủ nhận rằng nâng giá
+       một cách giả tạo đem lại thịnh vượng, và chỉ ra rằng giá sàn CÓ
+       THỂ hại nhất cho chính ngành nó định cứu, lại vẫn ủng hộ lương
+       tối thiểu và lên án người phản đối, vì khi bàn về lương, CẢM XÚC
+       và thiên kiến chính trị lấn át
                                 │
                                 ▼
        MỨC ĐỘ: lương tối thiểu, trong trường hợp tốt nhất, cũng chỉ là
        một vũ khí HẠN CHẾ để chống lương thấp
-       · lợi chỉ có thể vượt hại khi mục tiêu của luật KHIÊM TỐN
+       · lợi có thể vượt hại chỉ TƯƠNG ỨNG với mức KHIÊM TỐN của mục
+         tiêu của luật
        · luật càng tham vọng (phủ nhiều người lao động hơn, nâng lương
          lên cao hơn) thì hại càng dễ vượt lợi
                                 │
@@ -47,14 +49,14 @@
                                 ▼
        NGOẠI LỆ DUY NHẤT: một nhóm người lao động đang bị trả THẤP HƠN
        giá trị thị trường của họ
-       · điều này chỉ xảy ra trong hoàn cảnh đặc biệt hay ở địa phương
+       · điều này thường chỉ xảy ra trong hoàn cảnh đặc biệt hay ở nơi
          mà cạnh tranh không vận hành tự do, đầy đủ
        · nhưng hầu hết các trường hợp này xử lý được bằng CÔNG ĐOÀN:
          hiệu quả không kém, linh hoạt hơn và ít nguy cơ gây hại hơn
          nhiều
 ```
 
-### Phần 2: ba đường thoát giả định, đường nào cũng dẫn tới mất việc (mục 1 của chương)
+### Phần 2: hai đường thoát giả định, đường nào cũng dẫn tới mất việc (mục 1 của chương, hai đoạn cuối)
 
 ```text
        ĐƯỜNG THOÁT ①: ngành bị luật buộc trả lương cao hơn sẽ TĂNG GIÁ
@@ -168,31 +170,31 @@
 
 **Lương tối thiểu (minimum wage).** Mức lương thấp nhất luật cho phép trả. Với Hazlitt, đó là một **giá sàn** đặt cho dịch vụ lao động, giống giá sàn nông sản ở Chương 13. Ví dụ trong chương: luật cấm trả dưới 30 USD cho một tuần 40 giờ, tức 75 xu/giờ. Khái niệm trung tâm của chương.
 
-**Lương là một loại giá (a wage is a price).** Lương là giá của dịch vụ lao động, chịu cùng quy luật cung cầu như giá hàng hoá. Hazlitt cho rằng chỉ vì nó mang tên khác ("lương") mà nhiều người không áp dụng cho nó những nguyên lý họ chấp nhận với giá hàng hoá. Câu này là cầu nối từ Chương 17 sang Chương 18.
+**Lương là một loại giá (a wage is a price).** Lương là giá của dịch vụ lao động, chịu cùng quy luật cung cầu như giá hàng hoá. Hazlitt cho rằng chỉ vì nó mang tên khác ("lương") mà nhiều người không áp dụng cho nó những nguyên lý họ chấp nhận với giá hàng hoá. Câu này là cầu nối từ các chương về việc chính phủ nâng giá hàng hoá (Chương 13, 14, 16) sang Chương 18.
 
 **Giá trị của người lao động đối với chủ thuê (worth to an employer).** Phần giá trị thêm vào mà một người lao động đem lại cho doanh nghiệp. Kinh tế học gọi là **giá trị sản phẩm biên của lao động** (*value of the marginal product*). Ví dụ minh hoạ của người tổng hợp: một nhân viên rửa bát giúp nhà hàng phục vụ thêm số khách đem lại 25 USD tiền lãi gộp mỗi tuần; chủ nhà hàng sẵn lòng trả tới 25 USD nhưng không trả 30 USD. Hazlitt lập luận rằng luật không thay đổi được con số này.
 
 **Nhà sản xuất biên (marginal producers).** Doanh nghiệp có chi phí cao nhất, vừa đủ hoà vốn. Khi lương tối thiểu nâng chi phí mà giá sản phẩm không tăng được, họ phá sản trước tiên. Đây là con đường thứ hai dẫn tới thất nghiệp trong chương.
 
-**Trợ cấp thất nghiệp: cứu trợ tại nhà và cứu trợ bằng việc làm (home relief / work relief).** Cứu trợ tại nhà là trả tiền mặt cho người thất nghiệp; cứu trợ bằng việc làm là trả tiền cho họ làm việc công, thường là các dự án ít ích lợi. Hazlitt coi cứu trợ bằng việc làm là "tiền bố thí trá hình" vì người nhận được trả nhiều hơn thị trường trả cho công sức của họ.
+**Trợ cấp thất nghiệp: cứu trợ tại nhà và cứu trợ bằng việc làm (home relief / work relief).** Cứu trợ tại nhà là trả tiền mặt cho người thất nghiệp; cứu trợ bằng việc làm là trả tiền cho họ làm việc công, thường là các dự án ít ích lợi. Hazlitt cho rằng cứu trợ bằng việc làm trả cho người nhận nhiều hơn thị trường trả cho công sức của họ: chỉ một phần là trả cho công sức, phần còn lại là "tiền bố thí trá hình".
 
 **Phần chênh giữa lương và trợ cấp.** Khi có trợ cấp thất nghiệp, người lao động thực chất chỉ làm việc vì phần chênh giữa lương được mời và khoản trợ cấp. Ví dụ trong chương: nếu lương được mời là 40 USD/tuần và trợ cấp là 30 USD/tuần, thì việc đi làm thực chất chỉ đem lại thêm 10 USD/tuần. Kinh tế học hiện đại gọi đây là **thuế suất biên ngầm** (*implicit marginal tax rate*) hay "bẫy phúc lợi".
 
-**Năng suất lao động (labor productivity).** Lượng sản phẩm một người lao động làm ra. Hazlitt coi đây là nguồn duy nhất của lương thực tế cao hơn trong dài hạn. Ví dụ minh hoạ: một công nhân dùng máy may công nghiệp làm 30 áo mỗi ngày thay vì 10 áo khi may tay thì đáng giá gấp nhiều lần với chủ xưởng, và các xưởng cạnh tranh nhau sẽ trả cho anh ta nhiều hơn.
+**Năng suất lao động (labor productivity).** Lượng sản phẩm một người lao động làm ra. Hazlitt coi tăng năng suất là cách tốt nhất để tăng lương, vì "lương thực tế đến từ sản xuất" và về dài hạn không thể trả cho toàn bộ lao động nhiều hơn số họ sản xuất. Ví dụ minh hoạ của người tổng hợp: một công nhân dùng máy may công nghiệp làm 30 áo mỗi ngày thay vì 10 áo khi may tay thì đáng giá gấp nhiều lần với chủ xưởng, và các xưởng cạnh tranh nhau sẽ trả cho anh ta nhiều hơn.
 
 ## Nội dung chi tiết
 
-### 1. Lương là một loại giá
+### 1. Lương là một loại giá (mục 1 của chương, hai đoạn mở đầu)
 
 Hazlitt mở chương bằng cách nối với các chương trước: những tác hại của việc chính phủ tuỳ tiện nâng giá hàng hoá được ưu ái cũng xảy ra khi chính phủ nâng lương bằng luật lương tối thiểu. Điều đó không có gì lạ, vì lương thực ra là một loại giá. Theo ông, thật đáng tiếc cho sự rõ ràng trong tư duy kinh tế rằng giá của dịch vụ lao động lại mang một cái tên hoàn toàn khác với các giá khác; cái tên đó khiến đa số người không nhận ra cùng một nguyên lý chi phối cả hai.
 
 Tư duy về lương đã trở nên cảm tính và thiên lệch chính trị tới mức trong phần lớn các cuộc thảo luận, những nguyên lý rõ ràng nhất bị bỏ qua. Những người sẽ là người đầu tiên phủ nhận rằng có thể tạo ra thịnh vượng bằng cách đẩy giá lên một cách giả tạo, và là người đầu tiên chỉ ra rằng luật giá tối thiểu có thể gây hại nhất cho chính ngành nó định giúp, lại ủng hộ luật lương tối thiểu và lên án người phản đối mà không chút đắn đo.
 
-### 2. Luật càng tham vọng, hại càng lớn
+### 2. Luật càng tham vọng, hại càng lớn (mục 1 của chương, đoạn thứ ba)
 
 Hazlitt không nói luật lương tối thiểu luôn hại hơn lợi. Ông nói nó, trong trường hợp tốt nhất, chỉ là một vũ khí hạn chế để chống lại tình trạng lương thấp, và cái lợi có thể có chỉ vượt cái hại có thể có **tương ứng với mức độ khiêm tốn của mục tiêu**. Luật càng tham vọng, càng phủ nhiều người lao động và càng cố nâng lương họ lên nhiều, thì tác hại càng dễ vượt lợi ích.
 
-### 3. Hệ quả đầu tiên: ai không đáng mức lương tối thiểu thì không được thuê
+### 3. Hệ quả đầu tiên: ai không đáng mức lương tối thiểu thì không được thuê (mục 1 của chương, đoạn về luật 30 USD và đoạn về ngoại lệ)
 
 Khi một đạo luật cấm trả bất kỳ ai dưới 30 USD cho một tuần 40 giờ, điều đầu tiên xảy ra là người nào không đáng 30 USD một tuần đối với chủ thuê sẽ không được thuê nữa. Hazlitt viết: không thể làm một người đáng giá một số tiền nhất định bằng cách cấm mọi người trả anh ta ít hơn. Luật chỉ tước của anh ta quyền kiếm số tiền mà khả năng và hoàn cảnh cho phép, đồng thời tước của cộng đồng cả những dịch vụ khiêm tốn mà anh ta làm được. Nói gọn: lương thấp bị thay bằng thất nghiệp; hại mọi phía mà không có bù đắp tương xứng.
 
@@ -206,7 +208,7 @@ Bảng cho thấy luật chỉ "có tác dụng" với người như C, và tác
 
 **Ngoại lệ duy nhất.** Trường hợp duy nhất khác là khi một nhóm người lao động đang thực sự nhận lương thấp hơn giá trị thị trường của họ. Điều này chỉ hay xảy ra trong hoàn cảnh đặc biệt hay ở những địa phương mà các lực cạnh tranh không vận hành tự do hoặc đầy đủ. Nhưng gần như mọi trường hợp đặc biệt này có thể được khắc phục hiệu quả không kém, linh hoạt hơn và ít nguy cơ gây hại hơn nhiều bằng cách lập công đoàn (Chương 19 xét kỹ công đoàn).
 
-### 4. Đẩy chi phí sang người tiêu dùng không thoát được hậu quả
+### 4. Đẩy chi phí sang người tiêu dùng không thoát được hậu quả (mục 1 của chương, đoạn về đẩy chi phí sang người tiêu dùng)
 
 Có người nghĩ: nếu luật buộc một ngành trả lương cao hơn, ngành đó có thể tăng giá sản phẩm, và gánh nặng chỉ chuyển sang người tiêu dùng. Hazlitt trả lời rằng việc chuyển như vậy không dễ, và hậu quả của việc nâng lương giả tạo cũng không dễ tránh:
 
@@ -214,7 +216,7 @@ Có người nghĩ: nếu luật buộc một ngành trả lương cao hơn, ng�
 - **Nếu người tiêu dùng vẫn mua** sản phẩm của ngành, giá cao hơn khiến họ mua ít đi. Một số người lao động trong ngành được lợi từ lương cao hơn, nhưng những người khác mất việc hẳn.
 - **Nếu không tăng giá**, các nhà sản xuất biên trong ngành bị đẩy khỏi thị trường; sản xuất giảm và thất nghiệp xảy ra theo một con đường khác.
 
-### 5. "Để ngành trả lương chết đói biến mất luôn" và những điều bị bỏ quên
+### 5. "Để ngành trả lương chết đói biến mất luôn" và những điều bị bỏ quên (mục 1 của chương, đoạn cuối)
 
 Khi các hậu quả này được chỉ ra, có một nhóm người đáp: "Được thôi; nếu ngành X không thể tồn tại mà không trả lương chết đói, thì lương tối thiểu xoá sổ nó luôn cũng tốt." Hazlitt cho rằng tuyên bố dũng cảm này bỏ qua thực tế ở ba điểm:
 
@@ -226,7 +228,7 @@ Hazlitt kết luận: không có cách nào thoát khỏi kết luận rằng l�
 
 **Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một xưởng may gia công ở vùng nông thôn trả công nhân lương thấp hơn nhà máy ở thành phố. Nếu luật buộc xưởng trả bằng nhà máy thành phố, xưởng có thể đóng cửa vì đơn hàng gia công không chịu thêm chi phí. Công nhân không chuyển lên thành phố được (vì con nhỏ, ruộng vườn) sẽ quay lại làm thuê thời vụ, nơi thu nhập còn thấp và bấp bênh hơn. Đó là điểm thứ ba của Hazlitt: lương thấp ở ngành X vẫn là lựa chọn tốt nhất họ có.
 
-### 6. Lương tối thiểu và trợ cấp thất nghiệp
+### 6. Lương tối thiểu và trợ cấp thất nghiệp (mục 2 của chương)
 
 Chương trình cứu trợ người thất nghiệp do lương tối thiểu gây ra đặt ra một vấn đề tinh tế. Với lương tối thiểu, giả sử 75 xu một giờ, ta cấm mọi người làm 40 giờ một tuần với giá dưới 30 USD. Giả sử ta chỉ trả 18 USD một tuần tiền cứu trợ. Như vậy:
 
@@ -254,7 +256,7 @@ Có người nghĩ có thể thoát hậu quả này bằng cách thay "cứu tr
 
 Theo ông, có lẽ tốt hơn cho mọi phía nếu ngay từ đầu chính phủ công khai trợ cấp lương cho những công việc tư nhân mà họ đang làm. Ông không đi sâu vì điều đó dẫn sang vấn đề khác, nhưng nhấn mạnh rằng khi xét ban hành luật lương tối thiểu hay nâng các mức tối thiểu đã có, phải ghi nhớ những khó khăn và hậu quả của trợ cấp thất nghiệp.
 
-### 7. Cách đúng để tăng lương: tăng năng suất
+### 7. Cách đúng để tăng lương: tăng năng suất (mục 3 của chương)
 
 Tất cả điều trên không có nghĩa là không có cách nào tăng lương. Hazlitt chỉ muốn chỉ ra rằng cách tưởng như dễ, tăng lương bằng mệnh lệnh của chính phủ, là cách sai và tệ nhất.
 
@@ -361,25 +363,25 @@ Lương là giá của lao động; ấn định một mức lương tối thi�
 
 ## Đánh giá và phát hiện đáng chú ý
 
-### Kết luận "năng suất quyết định lương" đứng vững; kết luận "lương tối thiểu luôn tăng thất nghiệp" thì không còn chắc chắn như Hazlitt viết
+### Kết luận "năng suất quyết định lương" đứng vững; kết luận "lương tối thiểu sẽ làm tăng thất nghiệp" thì không còn chắc chắn như Hazlitt viết
 
 Hai luận điểm của chương có số phận khác nhau. Luận điểm cuối, lương thực tế dài hạn đến từ năng suất, được xác nhận mạnh: chênh lệch lương giữa các nước chủ yếu phản ánh chênh lệch năng suất, và không nước nào nâng được mức sống lâu dài bằng luật lương. Luận điểm đầu, lương tối thiểu "không có cách nào thoát" khỏi việc tăng thất nghiệp, thì bị thực nghiệm làm phức tạp. Nghiên cứu nổi tiếng của David Card và Alan Krueger (1994) so sánh các cửa hàng thức ăn nhanh ở New Jersey (nâng lương tối thiểu bang từ 4,25 lên 5,05 USD/giờ năm 1992) với bang láng giềng Pennsylvania (không nâng) và không thấy việc làm ở New Jersey giảm. Nghiên cứu này bị David Neumark và William Wascher phản biện bằng dữ liệu bảng lương khác, và cuộc tranh luận kéo dài ba thập kỷ. Nhiều nghiên cứu gần đây dùng dữ liệu rộng hơn cho thấy các mức tăng vừa phải ở Mỹ có tác động việc làm nhỏ, khó phát hiện; trong khi các mức cao so với lương trung vị địa phương có nhiều dấu hiệu gây mất việc hơn. Card được trao giải Nobel kinh tế năm 2021 một phần vì nghiên cứu này.
 
-### Chính Hazlitt đã đặt sẵn khung cho kết quả thực nghiệm, ở câu "lợi chỉ vượt hại khi mục tiêu khiêm tốn"
+### Chính Hazlitt đã đặt sẵn khung cho kết quả thực nghiệm, ở câu "lợi có thể vượt hại chỉ tương ứng với mức khiêm tốn của mục tiêu"
 
 Người đọc lướt dễ bỏ qua rằng Hazlitt không nói mọi luật lương tối thiểu đều hại hơn lợi. Ông viết lợi có thể vượt hại "tương ứng với mức độ khiêm tốn của mục tiêu", và tác hại tăng khi luật phủ nhiều người hơn và nâng lương nhiều hơn. Kết quả thực nghiệm hiện đại (mức tăng nhỏ: tác động việc làm nhỏ; mức cao so với lương trung vị: tác động lớn hơn) thực ra khớp với câu này hơn là với câu kết mạnh "không có cách nào thoát". Chương có một sự căng thẳng nội tại giữa đoạn thận trọng ở đầu và kết luận tuyệt đối ở cuối mục 1.
 
 ### Ngoại lệ độc quyền mua lao động bị Hazlitt coi nhẹ
 
-Hazlitt thừa nhận trường hợp người lao động bị trả thấp hơn giá trị thị trường ở nơi "cạnh tranh không vận hành", nhưng cho là hiếm và đẩy sang công đoàn. Kinh tế học lao động hiện đại cho rằng sức mạnh đặt lương của chủ thuê phổ biến hơn: người lao động ngại chuyển việc, thiếu thông tin, bị ràng buộc về địa lý, và ở nhiều địa phương chỉ có ít chủ thuê lớn. Khi đó lương tối thiểu vừa phải có thể nâng cả lương lẫn việc làm. Đề xuất "dùng công đoàn thay vì luật" cũng gặp vấn đề: ở chính những nơi chủ thuê có sức mạnh nhất, người lao động thường khó tổ chức công đoàn nhất. Mặt khác, Hazlitt đúng ở chỗ ngoại lệ này chỉ biện minh cho mức **vừa phải**: vượt quá giá trị sản phẩm biên thì ngay cả trong mô hình độc quyền mua, việc làm vẫn giảm.
+Hazlitt thừa nhận trường hợp người lao động bị trả thấp hơn giá trị thị trường ở nơi "cạnh tranh không vận hành", nhưng cho là hiếm và đẩy sang công đoàn. Kinh tế học lao động hiện đại cho rằng sức mạnh đặt lương của chủ thuê phổ biến hơn: người lao động ngại chuyển việc, thiếu thông tin, bị ràng buộc về địa lý, và ở nhiều địa phương chỉ có ít chủ thuê lớn. Khi đó lương tối thiểu vừa phải có thể nâng cả lương lẫn việc làm. Đề xuất "dùng công đoàn thay vì luật" cũng gặp vấn đề: ở chính những nơi chủ thuê có sức mạnh nhất, người lao động thường khó tổ chức công đoàn nhất. Mặt khác, câu của Hazlitt về mục tiêu khiêm tốn vẫn đúng với ngoại lệ này (nhận xét của người tổng hợp, Hazlitt không nối hai ý): ngoại lệ chỉ biện minh cho mức **vừa phải**; vượt quá giá trị sản phẩm biên thì ngay cả trong mô hình độc quyền mua, việc làm vẫn giảm.
 
 ### Các kênh điều chỉnh khác ngoài sa thải mà chương không nhắc
 
-Hazlitt chỉ xét hai kênh: chủ thuê thuê ít người hơn, và giá tăng khiến người tiêu dùng mua ít hơn. Nghiên cứu hiện đại cho thấy doanh nghiệp còn điều chỉnh qua nhiều kênh khác: giảm giờ làm, cắt phúc lợi phi tiền lương, tăng cường độ công việc, giảm đào tạo tại chỗ, tuyển người có kỹ năng cao hơn thay người kém kỹ năng, tự động hoá (máy gọi món, quầy tự thanh toán), hoặc chấp nhận lợi nhuận thấp hơn. Ngược lại, một số doanh nghiệp thấy lương cao hơn giảm tỷ lệ nghỉ việc và chi phí tuyển dụng, làm người lao động gắn bó và năng suất hơn (lý thuyết lương hiệu quả). Những kênh này giải thích vì sao số người có việc đôi khi không giảm mà phúc lợi của người lao động vẫn có thể bị ảnh hưởng theo cách khác.
+Hazlitt chỉ xét các kênh dẫn thẳng tới giảm việc làm: chủ thuê không thuê người không đáng mức lương tối thiểu, giá tăng khiến người tiêu dùng mua ít hơn hoặc chuyển sang hàng thay thế, và nhà sản xuất biên phá sản. Nghiên cứu hiện đại cho thấy doanh nghiệp còn điều chỉnh qua nhiều kênh khác: giảm giờ làm, cắt phúc lợi phi tiền lương, tăng cường độ công việc, giảm đào tạo tại chỗ, tuyển người có kỹ năng cao hơn thay người kém kỹ năng, tự động hoá (máy gọi món, quầy tự thanh toán), hoặc chấp nhận lợi nhuận thấp hơn. Ngược lại, một số doanh nghiệp thấy lương cao hơn giảm tỷ lệ nghỉ việc và chi phí tuyển dụng, làm người lao động gắn bó và năng suất hơn (lý thuyết lương hiệu quả). Những kênh này giải thích vì sao số người có việc đôi khi không giảm mà phúc lợi của người lao động vẫn có thể bị ảnh hưởng theo cách khác.
 
 ### Phân tích bẫy trợ cấp là phần đi trước thời đại
 
-Đoạn về cứu trợ 18 USD so với lương 25 USD, và "người ta chỉ làm vì phần chênh", là mô tả sớm của khái niệm thuế suất biên ngầm mà các nhà thiết kế chính sách phúc lợi từ thập niên 1960 về sau mới chính thức hoá. Gợi ý của Hazlitt, công khai trợ cấp lương cho việc làm tư nhân thay vì cấm việc làm lương thấp rồi trả tiền cho người ngồi không, rất gần với ý tưởng của các chương trình hỗ trợ thu nhập cho người đi làm (EITC ở Mỹ, các tín dụng thuế tương tự ở Anh) mà nhiều nhà kinh tế thuộc nhiều trường phái coi là công cụ chống nghèo ít méo mó hơn lương tối thiểu. Điều đáng chú ý là Hazlitt, người phản đối can thiệp, lại đề xuất một hình thức chi ngân sách trực tiếp.
+Đoạn về cứu trợ 18 USD so với lương 25 USD, và "người ta chỉ làm vì phần chênh", là mô tả sớm của khái niệm thuế suất biên ngầm mà các nhà thiết kế chính sách phúc lợi từ thập niên 1960 về sau mới chính thức hoá. Gợi ý của Hazlitt, công khai trợ cấp lương cho việc làm tư nhân thay vì cấm việc làm lương thấp rồi trả tiền cho người ngồi không, rất gần với ý tưởng của các chương trình hỗ trợ thu nhập cho người đi làm (EITC ở Mỹ, các tín dụng thuế tương tự ở Anh) mà nhiều nhà kinh tế thuộc nhiều trường phái coi là công cụ chống nghèo ít méo mó hơn lương tối thiểu. Điều đáng chú ý là Hazlitt, người phản đối can thiệp, lại cho rằng một hình thức chi ngân sách trực tiếp "có lẽ tốt hơn cho mọi phía" so với cấm việc làm rồi trả cứu trợ, dù ông nói không đi sâu vào ý này.
 
 ### Vận dụng: khi đọc tin tăng lương tối thiểu, hãy hỏi mức tăng so với năng suất và lương phổ biến của vùng, rồi xem doanh nghiệp sẽ điều chỉnh qua kênh nào
 
@@ -387,4 +389,4 @@ Hazlitt chỉ xét hai kênh: chủ thuê thuê ít người hơn, và giá tăn
 - **Quyết định kinh doanh.** Doanh nghiệp thâm dụng lao động (may mặc, da giày, chế biến) nên lập kế hoạch cho việc lương tối thiểu tăng đều đặn theo thời gian: chi phí lao động tăng mà năng suất không tăng thì biên lợi nhuận bị ép, và đơn hàng gia công có thể chuyển sang nơi rẻ hơn. Câu trả lời bền vững là kênh Hazlitt chỉ ra: đầu tư máy móc, cải tiến quy trình, đào tạo, để giá trị mỗi công nhân tạo ra tăng nhanh hơn lương.
 - **Đánh giá rủi ro đầu tư.** Khi phân tích một doanh nghiệp, hãy xem tỷ trọng chi phí lao động lương tối thiểu trong giá vốn và khả năng chuyển chi phí sang khách hàng (khách hàng có dễ chuyển sang nhà cung cấp khác không). Doanh nghiệp có sức mạnh định giá thấp và lao động chiếm phần lớn chi phí chịu tác động mạnh nhất.
 - **Nghề nghiệp.** Với người lao động, bài học quan trọng nhất của chương là câu kết: lương bền vững đến từ năng suất. Mức sàn pháp lý bảo vệ người yếu thế nhưng không đẩy thu nhập của một người lên xa; kỹ năng, công cụ và vị trí trong một doanh nghiệp năng suất cao mới làm được điều đó.
-- **Tránh hai cực.** Đừng tin "tăng lương tối thiểu luôn gây thất nghiệp" hay "tăng lương tối thiểu không bao giờ gây hại". Hazlitt tự nói lợi chỉ vượt hại khi mục tiêu khiêm tốn; bằng chứng hiện đại cũng nói gần như vậy.
+- **Tránh hai cực.** Đừng tin "tăng lương tối thiểu luôn gây thất nghiệp" hay "tăng lương tối thiểu không bao giờ gây hại". Hazlitt tự nói lợi có thể vượt hại chỉ tương ứng với mức khiêm tốn của mục tiêu; bằng chứng hiện đại cũng nói gần như vậy.

@@ -2,14 +2,14 @@
 
 **Nguồn:** Henry Hazlitt, *Economics in One Lesson* (1946), Phần Hai "The Lesson Applied" (Bài học được áp dụng), Chương 16 "'Stabilizing' Commodities". Ấn bản đặc biệt FEE 1952, toàn văn trên fee.org.
 **Tác giả:** Henry Hazlitt (1894–1993), nhà báo kinh tế Mỹ, cây bút xã luận của *The New York Times*, sau đó viết chuyên mục cho *Newsweek*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 15 vừa giải thích hệ thống giá phân bổ nguồn lực ra sao và hứa sẽ xem hậu quả của các can thiệp. Chương 16 là can thiệp đầu tiên: các kế hoạch "bình ổn" (stabilize) giá một mặt hàng, chủ yếu là nông sản, bằng cách cho nông dân vay để giữ hàng khỏi thị trường, nhà nước tích trữ, và hạn chế sản lượng theo tỷ lệ. Chương nối với Chương 13 (giá ngang giá – parity) ở lập luận "sức mua" của nông dân, dùng khái niệm nhà sản xuất cận biên của Chương 15, và mở đường cho Chương 17, nơi chiều can thiệp đảo ngược: chính phủ ấn định giá **trần** để giữ giá thấp.
-**Ý chính:** Hazlitt muốn chứng minh rằng "bình ổn" giá thực chất là nâng giá, và rốt cuộc gây ra bất ổn lớn hơn thị trường tự do. Ông lập luận ba bước. (1) Thị trường tự do đã có người bình ổn: **nhà đầu cơ** (speculators) mua lúc giá thấp sau vụ thu hoạch và bán lúc giá cao, nên giá lúa mì cả năm chỉ chênh nhau bằng chi phí lưu kho và bảo hiểm; có nghiên cứu còn cho thấy nhà đầu cơ đã vô tình trợ cấp nông dân. (2) Khi nhà nước nhảy vào, "kho lúa luôn bình thường" thành "kho lúa luôn chính trị" rồi "kho lúa luôn bất thường": giá "công bằng" bị đặt cao để lấy phiếu nông dân, hàng tồn chất đống, thiếu hụt nhân tạo năm nay thành dư thừa nhân tạo năm sau; với bông Mỹ, cả một vụ bị cất kho, thị trường nước ngoài mất, nước khác trồng thêm bông. (3) Hạn chế sản lượng đồng đều theo tỷ lệ giữ lại người kém hiệu quả và trói tay người giỏi, khác hẳn thị trường tự do loại người chi phí cao. Nếu giữ giá mà không hạn chế sản lượng, hàng thừa chất đống tới khi giá sụp mạnh hơn nếu không can thiệp, như các chương trình hạn chế cao su của Anh và bông của Mỹ.
+**Vị trí trong lập luận của cả cuốn sách:** Chương 15 vừa giải thích hệ thống giá phân bổ nguồn lực ra sao và hứa sẽ xem hậu quả của các can thiệp. Chương 16 là can thiệp đầu tiên được xét sau lời hứa đó: các kế hoạch "bình ổn" (stabilize) giá một mặt hàng, chủ yếu là nông sản, bằng cách cho nông dân vay để giữ hàng khỏi thị trường, nhà nước tích trữ, và hạn chế sản lượng theo tỷ lệ. Chương nối với Chương 13 (giá ngang giá – parity) ở lập luận "sức mua" của nông dân, dùng khái niệm nhà sản xuất cận biên của Chương 15, và mở đường cho Chương 17, nơi chiều can thiệp đảo ngược: chính phủ ấn định giá **trần** để giữ giá thấp.
+**Ý chính:** Hazlitt muốn chứng minh rằng "bình ổn" giá thực chất là nâng giá, và rốt cuộc gây ra bất ổn lớn hơn thị trường tự do. Ông lập luận ba bước. (1) Thị trường tự do đã có người bình ổn: **nhà đầu cơ** (speculators) mua lúc giá thấp sau vụ thu hoạch và bán lúc giá cao, nên giá lúa mì cả năm chỉ chênh nhau bằng chi phí lưu kho và bảo hiểm; có nghiên cứu còn cho thấy nhà đầu cơ đã vô tình trợ cấp nông dân. (2) Khi nhà nước nhảy vào, "kho lúa luôn bình thường" thành "kho lúa luôn chính trị" rồi "kho lúa luôn bất thường": giá "công bằng" bị đặt cao để lấy phiếu nông dân, hàng tồn chất đống, thiếu hụt nhân tạo năm nay thành dư thừa nhân tạo năm sau; với bông Mỹ, cả một vụ bị cất kho, thị trường nước ngoài mất, nước khác trồng thêm bông. (3) Hạn chế sản lượng đồng đều theo tỷ lệ giữ lại người kém hiệu quả và trói tay người giỏi, khác hẳn thị trường tự do loại người chi phí cao. Nếu giữ giá mà không hạn chế sản lượng, hàng thừa chất đống, hoặc nhà sản xuất ngoài chương trình mở rộng sản xuất ồ ạt, tới khi giá sụp mạnh hơn nhiều so với khi không can thiệp, như các chương trình hạn chế cao su của Anh và bông của Mỹ.
 
 > **Lưu ý:** (1) **Cho vay giữ hàng:** từ năm 1933, Công ty Tín dụng Hàng hoá (Commodity Credit Corporation) của chính phủ Mỹ cho nông dân vay thế chấp bằng nông sản ở một mức giá định trước; nếu giá thị trường thấp hơn, nông dân giao hàng cho nhà nước thay vì trả nợ, nên khoản vay thực chất là giá sàn. (2) **"Kho lúa luôn bình thường"** (ever-normal granary) là khẩu hiệu của Bộ trưởng Nông nghiệp Henry A. Wallace, được đưa vào Đạo luật Điều chỉnh Nông nghiệp 1938: nhà nước tích trữ nông sản năm được mùa để bán ra năm mất mùa. (3) **Cao su của Anh:** Kế hoạch Stevenson (1922–1928) hạn chế xuất khẩu cao su từ Malaya và Ceylon để nâng giá; các đồn điền ở Đông Ấn thuộc Hà Lan không tham gia nên mở rộng mạnh, và giá sụp khi kế hoạch bị bỏ. (4) **"Kiểm soát hàng hoá quốc tế"** ở cuối chương ám chỉ các đề xuất thời hậu chiến về hiệp định hàng hoá giữa các chính phủ (ví dụ trong dự thảo Hiến chương Havana về Tổ chức Thương mại Quốc tế, và kế hoạch kho đệm hàng hoá của Keynes thời chiến). Lịch sử về sau phần lớn xác nhận dự báo của Hazlitt: Hiệp định Thiếc Quốc tế sụp năm 1985 khi kho đệm hết tiền, hệ thống hạn ngạch của Hiệp định Cà phê Quốc tế tan vỡ năm 1989. (5) Hazlitt khẳng định "một số nghiên cứu cẩn thận" cho thấy giá tăng sau vụ thu hoạch không đủ bù chi phí lưu kho, nhưng không nêu nghiên cứu nào; vấn đề này còn tranh cãi (xem phần Đánh giá). Mọi câu trích là bản dịch của người tổng hợp.
 
 ## Sơ đồ
 
-### Phần 1: lý lẽ "bình ổn" của nhóm gây áp lực
+### Phần 1: lý lẽ "bình ổn" của nhóm gây áp lực (mục 1 của chương, ba đoạn mở đầu)
 
 ```text
        Các nỗ lực nâng giá một mặt hàng lâu dài trên mức thị trường tự
@@ -37,7 +37,7 @@
        DÂN VAY để họ giữ nông sản khỏi thị trường
 ```
 
-### Phần 2: lý lẽ cho vay giữ hàng và vai trò thật của nhà đầu cơ
+### Phần 2: lý lẽ cho vay giữ hàng và vai trò thật của nhà đầu cơ (mục 1 của chương, các đoạn về cho vay và nhà đầu cơ)
 
 ```text
        LÝ LẼ ĐƯA RA TRƯỚC QUỐC HỘI
@@ -69,12 +69,12 @@
                                 ▼
        NHỜ CÓ một tầng lớp đầu cơ chuyên nghiệp nhận gánh rủi ro giá,
        nông dân và chủ cối xay KHÔNG phải gánh · họ tự bảo vệ được qua
-       THỊ TRƯỜNG (mua bán trước để khoá giá)
+       THỊ TRƯỜNG (người tổng hợp hiểu: mua bán trước để khoá giá)
        → lợi nhuận của họ tuỳ vào TAY NGHỀ trồng trọt hay xay xát, chứ
          không tuỳ vào dao động giá
 ```
 
-### Phần 3: bằng chứng — nhà đầu cơ vô tình trợ cấp nông dân
+### Phần 3: bằng chứng — nhà đầu cơ vô tình trợ cấp nông dân (mục 1 của chương, đoạn cuối)
 
 ```text
        KINH NGHIỆM THỰC TẾ: tính bình quân, giá LÚA MÌ và các nông sản
@@ -100,7 +100,7 @@
          VÀNG hay DẦU đã VƯỢT tổng giá trị vàng hay dầu khai thác được
 ```
 
-### Phần 4: nhà nước nhảy vào — kho lúa "luôn bình thường" thành "luôn bất thường"
+### Phần 4: nhà nước nhảy vào — kho lúa "luôn bình thường" thành "luôn bất thường" (mục 2 của chương, hai đoạn đầu)
 
 ```text
        Nhà nước tự MUA nông sản của nông dân, hoặc CHO VAY để nông dân
@@ -130,13 +130,13 @@
        VÍ DỤ BÔNG MỸ
        · nước Mỹ chất cả một vụ bông vào kho
        · chương trình phá huỷ thị trường nước ngoài của bông Mỹ
-       · giá cao kích thích mạnh việc trồng bông ở CÁC NƯỚC KHÁC
+       · chương trình kích thích mạnh việc trồng bông ở CÁC NƯỚC KHÁC
        · những người phản đối đã dự báo trước các kết quả này; khi
          chúng xảy ra, quan chức chịu trách nhiệm chỉ đáp: "đằng nào
          chúng cũng sẽ xảy ra"
 ```
 
-### Phần 5: cho vay dẫn tới hạn chế sản lượng — chính sách khan hiếm
+### Phần 5: cho vay dẫn tới hạn chế sản lượng — chính sách khan hiếm (mục 2 của chương, đoạn cuối)
 
 ```text
        Chính sách cho vay giữ hàng thường đi kèm, hoặc tất yếu dẫn tới,
@@ -156,7 +156,7 @@
          mua hàng KHÁC
 ```
 
-### Phần 6: thị trường cắt giảm khác nhà nước cắt giảm ở chỗ nào
+### Phần 6: thị trường cắt giảm khác nhà nước cắt giảm ở chỗ nào (mục 3 của chương, ba đoạn đầu)
 
 ```text
        Người ủng hộ hạn chế nói: "đằng nào sản lượng cũng giảm như
@@ -176,7 +176,7 @@
          quân đã thấp đi, người giỏi được    phẩm TĂNG
          MỞ RỘNG, thay phần của người bị   → sản phẩm được làm ra kém hiệu
          loại                                quả hơn lẽ ra
-       → về dài hạn, sản lượng có thể      → người cận biên tiếp tục giữ đất,
+       → về dài hạn, sản lượng có thể      → người cận biên vẫn giữ đất,
          không giảm, và giá THẤP vĩnh        lao động, vốn lẽ ra có thể dùng
          viễn                                tốt hơn ở nơi khác
        → người tiêu dùng vẫn đủ hàng như
@@ -188,7 +188,7 @@
          công cao hơn, hiệu quả hơn
 ```
 
-### Phần 7: "nông dân có thêm sức mua" — trả tiền để không sản xuất
+### Phần 7: "nông dân có thêm sức mua" — trả tiền để không sản xuất (mục 3 của chương, đoạn về sức mua)
 
 ```text
        LÝ LẼ: "nhờ kế hoạch hạn chế, ít nhất giá nông sản đã tăng, nên
@@ -213,7 +213,7 @@
          chi phí sinh hoạt tăng
 ```
 
-### Phần 8: giữ giá mà không hạn chế sản lượng — sụp đổ còn lớn hơn
+### Phần 8: giữ giá mà không hạn chế sản lượng — sụp đổ còn lớn hơn (mục 3 của chương, đoạn về cao su và bông)
 
 ```text
        Nếu nhà nước cố giữ giá nông sản CAO mà KHÔNG hạn chế sản lượng,
@@ -234,7 +234,7 @@
          trường tự do có thể gây ra
 ```
 
-### Phần 9: kiểm soát hàng hoá quốc tế thời hậu chiến — "tự do" của ai
+### Phần 9: kiểm soát hàng hoá quốc tế thời hậu chiến — "tự do" của ai (mục 3 của chương, hai đoạn kết)
 
 ```text
        Người đề xuất kiểm soát hàng hoá QUỐC TẾ hứa (Hazlitt mỉa mai
@@ -274,23 +274,23 @@
 
 ## Khái niệm cần biết
 
-**"Bình ổn" giá (price stabilization).** Chính sách nói là để giảm dao động giá một mặt hàng, bằng cách mua vào, cho vay giữ hàng, hay hạn chế sản lượng. Hazlitt đặt chữ "bình ổn" trong ngoặc kép vì cho rằng mục tiêu thật là nâng giá. Ví dụ: khi được hỏi giá nào là "bình thường", người đề xuất gần như luôn chọn mức cao hơn giá thị trường hiện tại. Quan trọng vì đây là cách nói khiến một chính sách nâng giá nghe có vẻ trung lập.
+**"Bình ổn" giá (price stabilization).** Chính sách nói là để giảm dao động giá một mặt hàng, bằng cách mua vào, cho vay giữ hàng, hay hạn chế sản lượng. Hazlitt đặt chữ "bình ổn" trong ngoặc kép vì cho rằng mục tiêu thật là nâng giá. Ví dụ minh hoạ của người tổng hợp: khi được hỏi giá nào là "bình thường", người đề xuất gần như luôn chọn mức cao hơn giá thị trường hiện tại (Hazlitt nói điều tương tự về giá "công bằng" do chính trị gia và quan chức đặt). Quan trọng vì đây là cách nói khiến một chính sách nâng giá nghe có vẻ trung lập.
 
 **Nhà đầu cơ (speculator).** Người mua hàng hoá (hay hợp đồng tương lai) khi tin giá sẽ lên và bán khi tin giá sẽ xuống, chấp nhận rủi ro giá để tìm lợi nhuận. Ví dụ minh hoạ của người tổng hợp: giá lúa mì lúc thu hoạch 1,00 đô la một giạ, chi phí lưu kho và bảo hiểm sáu tháng là 0,10 đô la; nếu nhà đầu cơ đoán giá sáu tháng sau là 1,20 đô la, họ mua ngay, đẩy giá lúc thu hoạch lên, cho tới khi chênh lệch chỉ còn khoảng 0,10 đô la. Hazlitt cho rằng nhà đầu cơ đoán càng giỏi thì giá càng ít dao động.
 
-**Chuyển giao rủi ro (risk transfer) và phòng ngừa rủi ro (hedging).** Nông dân và chủ cối xay có thể bán hoặc mua trước qua thị trường để khoá giá, đẩy rủi ro giá sang nhà đầu cơ. Ví dụ: chủ cối xay mua lúa mì hôm nay và đồng thời bán hợp đồng tương lai, nên lãi lỗ của họ chỉ còn phụ thuộc vào tay nghề xay xát. Quan trọng vì Hazlitt dùng nó để chỉ ra rằng nhà nước không cần thay nhà đầu cơ gánh rủi ro.
+**Chuyển giao rủi ro (risk transfer) và phòng ngừa rủi ro (hedging).** Hazlitt chỉ viết rằng nông dân và chủ cối xay "tự bảo vệ được qua thị trường" (can protect themselves through the markets), đẩy rủi ro giá sang nhà đầu cơ; cách làm cụ thể là bán hoặc mua trước để khoá giá. Ví dụ minh hoạ của người tổng hợp: chủ cối xay mua lúa mì hôm nay và đồng thời bán hợp đồng tương lai, nên lãi lỗ của họ chỉ còn phụ thuộc vào tay nghề xay xát. Quan trọng vì Hazlitt dùng nó để chỉ ra rằng nông dân và chủ cối xay không cần tự gánh rủi ro giá, nên lý lẽ cần nhà nước can thiệp mất chỗ dựa.
 
-**Kho lúa luôn bình thường (ever-normal granary).** Chương trình nhà nước tích trữ nông sản năm được mùa và bán ra năm mất mùa. Hazlitt chơi chữ: nó thành "kho lúa luôn chính trị" (ever-political granary) vì giá mua do chính trị quyết định, rồi thành "kho lúa luôn bất thường" (ever-abnormal granary) vì tồn kho phình ra quá mức. Quan trọng vì nó cho thấy cùng một công cụ (tích trữ) cho kết quả ngược nhau tuỳ ai quyết định giá: nhà đầu cơ chịu lỗ khi đoán sai, quan chức thì không.
+**Kho lúa luôn bình thường (ever-normal granary).** Chương trình nhà nước tích trữ nông sản năm được mùa và bán ra năm mất mùa. Hazlitt chơi chữ: nó thành "kho lúa luôn chính trị" (ever-political granary) vì giá mua do chính trị quyết định, rồi thành "kho lúa luôn bất thường" (ever-abnormal granary) vì tồn kho phình ra quá mức. Quan trọng vì nó cho thấy cùng một công cụ (tích trữ) cho kết quả ngược nhau tuỳ ai quyết định giá. Người tổng hợp nói thêm một lý do Hazlitt không viết ra: nhà đầu cơ chịu lỗ khi đoán sai, quan chức thì không.
 
 **Hạn chế sản lượng theo tỷ lệ đồng đều (uniform proportional restriction).** Mỗi nhà sản xuất bị buộc giảm sản lượng cùng một tỷ lệ, ví dụ 20%. Ví dụ minh hoạ của người tổng hợp: trang trại A có chi phí 0,60 đô la một giạ, trang trại B chi phí 1,10 đô la; giá thị trường 0,90 đô la thì B phải bỏ nghề, A mở rộng; nhưng nếu cả hai cùng bị cắt 20% và giá được đẩy lên 1,20 đô la, B tiếp tục sản xuất còn A không được làm thêm. Quan trọng vì đây là chỗ Hazlitt cho thấy can thiệp không chỉ chuyển của cải mà còn làm sản xuất kém hiệu quả.
 
 **Nhà sản xuất cận biên (marginal producer).** Nhà sản xuất có chi phí cao nhất, như nông dân kém nhất, thiết bị tồi nhất hay đất xấu nhất. Khái niệm lấy từ Chương 15. Trong chương này, câu hỏi then chốt là: chính sách giữ hay loại họ?
 
-**Sức mua (purchasing power).** Lượng hàng hoá một người mua được bằng thu nhập của mình. Lý lẽ "nâng giá nông sản cho nông dân có thêm sức mua" bị Hazlitt bác: sức mua đó lấy đúng từ người mua ở thành phố. Ví dụ: giá bông tăng thêm 1 đồng thì nông dân trồng bông có thêm 1 đồng, người mua áo mất 1 đồng; xã hội chỉ còn lại phần sản lượng bị cắt đi.
+**Sức mua (purchasing power).** Lượng hàng hoá một người mua được bằng thu nhập của mình. Lý lẽ "nâng giá nông sản cho nông dân có thêm sức mua" bị Hazlitt bác: sức mua đó lấy đúng từ người mua ở thành phố. Ví dụ minh hoạ của người tổng hợp: giá bông tăng thêm 1 đồng thì nông dân trồng bông có thêm 1 đồng, người mua áo mất 1 đồng; hai khoản này triệt tiêu nhau, và thiệt hại ròng của xã hội là phần sản lượng bị cắt đi.
 
 ## Nội dung chi tiết
 
-### 1. Lý lẽ "bình ổn" của nhóm gây áp lực
+### 1. Lý lẽ "bình ổn" của nhóm gây áp lực (mục 1 của chương, ba đoạn mở đầu)
 
 Theo Hazlitt, các nỗ lực nâng giá một số mặt hàng lâu dài trên mức thị trường tự nhiên đã thất bại quá thường xuyên, quá thảm hại và quá nổi tiếng, nên các nhóm gây áp lực khôn ngoan và những quan chức chịu áp lực của họ hiếm khi công khai thừa nhận mục tiêu đó. Mục tiêu họ nêu ra, nhất là khi mới đề nghị chính phủ can thiệp, thường khiêm tốn và nghe hợp lý hơn.
 
@@ -298,7 +298,7 @@ Họ tuyên bố không muốn nâng giá hàng X lâu dài trên mức tự nhi
 
 Có nhiều cách thường được đề xuất để làm việc này. Một trong những cách phổ biến nhất là chính phủ cho nông dân vay để họ giữ nông sản khỏi thị trường.
 
-### 2. Lý lẽ cho vay giữ hàng và vai trò thật của nhà đầu cơ
+### 2. Lý lẽ cho vay giữ hàng và vai trò thật của nhà đầu cơ (mục 1 của chương, các đoạn về cho vay và nhà đầu cơ)
 
 Trước Quốc hội, các khoản vay này được đề nghị với lý do nghe rất hợp lý với phần đông người nghe. Người ta nói rằng toàn bộ vụ mùa của nông dân bị đổ ra thị trường cùng một lúc, vào mùa thu hoạch; đó chính là lúc giá thấp nhất; nhà đầu cơ lợi dụng để mua vào, giữ lại và bán khi lương thực khan hiếm trở lại. Vậy là nông dân chịu thiệt, và nông dân, chứ không phải nhà đầu cơ, mới nên được hưởng giá bình quân cao hơn.
 
@@ -308,7 +308,7 @@ Vì vậy, dù nông dân có phải đổ toàn bộ vụ lúa mì ra thị tr�
 
 Chính vì có một tầng lớp nhà đầu cơ chuyên nghiệp nhận gánh những rủi ro này, nông dân và chủ cối xay không cần gánh. Họ tự bảo vệ được qua thị trường. Do đó, trong điều kiện bình thường, khi nhà đầu cơ làm tốt việc của họ, lợi nhuận của nông dân và chủ cối xay chủ yếu tuỳ vào tay nghề và sự cần cù trong trồng trọt hay xay xát, không tuỳ vào dao động thị trường.
 
-### 3. Bằng chứng: giá ổn định quanh năm và nhà đầu cơ vô tình trợ cấp
+### 3. Bằng chứng: giá ổn định quanh năm và nhà đầu cơ vô tình trợ cấp (mục 1 của chương, đoạn cuối)
 
 Kinh nghiệm thực tế cho thấy, tính bình quân, giá lúa mì và các nông sản không mau hỏng khác giữ nguyên quanh năm, ngoài phần cộng thêm cho chi phí lưu kho và bảo hiểm. Hazlitt còn dẫn "một số nghiên cứu cẩn thận" cho thấy mức tăng giá bình quân mỗi tháng sau mùa thu hoạch không đủ để trả chi phí lưu kho, nghĩa là nhà đầu cơ thực tế đã trợ cấp nông dân. Đó không phải ý định của họ; nó chỉ là kết quả của xu hướng lạc quan quá mức dai dẳng của nhà đầu cơ.
 
@@ -322,7 +322,7 @@ Hazlitt mở rộng nhận xét trong một đoạn ngoặc đơn: xu hướng n
 | Nguyên nhân | Nhà đầu cơ lạc quan quá mức một cách dai dẳng |
 | Tương tự | Người mua xổ số xét chung lỗ; chi phí dò vàng, dầu vượt giá trị vàng, dầu tìm được |
 
-### 4. Nhà nước nhảy vào: kho lúa "luôn bình thường" thành "luôn bất thường"
+### 4. Nhà nước nhảy vào: kho lúa "luôn bình thường" thành "luôn bất thường" (mục 2 của chương, hai đoạn đầu)
 
 Mọi chuyện khác đi khi nhà nước can thiệp, tự mua nông sản của nông dân hoặc cho họ vay để giữ hàng khỏi thị trường. Việc này đôi khi được làm nhân danh duy trì một "kho lúa luôn bình thường" nghe rất hợp lý. Nhưng lịch sử giá cả và lượng tồn kho chuyển sang vụ sau cho thấy chức năng này, như đã thấy, đã được các thị trường tự do do tư nhân tổ chức làm tốt.
 
@@ -330,11 +330,11 @@ Khi nhà nước nhảy vào, "kho lúa luôn bình thường" trên thực tế
 
 Hazlitt nói kể chi tiết điều đã xảy ra khi chương trình này được áp dụng, chẳng hạn cho bông Mỹ, sẽ đi quá xa. Ông chỉ tóm tắt: nước Mỹ đã chất cả một vụ bông vào kho; phá huỷ thị trường nước ngoài của bông Mỹ; kích thích mạnh việc trồng bông ở các nước khác. Những kết quả này đã được những người phản đối chính sách hạn chế và cho vay dự báo; khi chúng thật sự xảy ra, các quan chức chịu trách nhiệm chỉ đáp rằng đằng nào chúng cũng sẽ xảy ra.
 
-### 5. Cho vay dẫn tới hạn chế sản lượng
+### 5. Cho vay dẫn tới hạn chế sản lượng (mục 2 của chương, đoạn cuối)
 
 Chính sách cho vay thường đi kèm, hoặc tất yếu dẫn tới, chính sách hạn chế sản xuất, tức một chính sách khan hiếm. Trong gần như mọi nỗ lực "bình ổn" giá một mặt hàng, lợi ích của người sản xuất được đặt lên trước. Mục tiêu thật là nâng giá ngay. Để làm được, mỗi nhà sản xuất chịu sự kiểm soát thường bị hạn chế sản lượng theo tỷ lệ. Việc này có một số tác hại trước mắt. Giả sử việc kiểm soát được áp đặt trên quy mô quốc tế, thì tổng sản lượng thế giới bị cắt. Người tiêu dùng trên thế giới được dùng ít mặt hàng đó hơn so với khi không hạn chế. Thế giới nghèo đi đúng bằng chừng đó. Vì người tiêu dùng bị buộc trả giá cao hơn cho mặt hàng đó, họ còn ít tiền hơn đúng bằng chừng đó để chi cho hàng khác.
 
-### 6. Thị trường cắt giảm khác nhà nước cắt giảm
+### 6. Thị trường cắt giảm khác nhà nước cắt giảm (mục 3 của chương, ba đoạn đầu)
 
 Người chủ trương hạn chế thường đáp rằng sản lượng giảm như vậy đằng nào cũng xảy ra trong kinh tế thị trường. Hazlitt nói có một khác biệt căn bản, như đã thấy ở chương trước. Trong kinh tế thị trường cạnh tranh, giá giảm loại bỏ những nhà sản xuất chi phí cao, kém hiệu quả. Với một nông sản, người bị loại là nông dân kém nhất, có thiết bị tồi nhất hoặc canh tác trên đất xấu nhất. Những nông dân giỏi nhất trên đất tốt nhất không phải giảm sản lượng. Ngược lại, nếu giá giảm là dấu hiệu chi phí sản xuất bình quân đã thấp hơn, thể hiện qua cung tăng, thì việc loại nông dân cận biên trên đất cận biên cho phép nông dân giỏi trên đất tốt mở rộng sản xuất. Vì vậy về dài hạn có thể sản lượng mặt hàng đó không giảm chút nào, và sản phẩm được làm ra và bán ở mức giá thấp vĩnh viễn.
 
@@ -352,17 +352,17 @@ Bảng minh hoạ dưới đây là của người tổng hợp (Hazlitt không 
 
 Ở kịch bản thứ hai, người tiêu dùng có ít lúa mì hơn, trả giá cao hơn, và một phần đất, lao động, vốn bị giữ ở trang trại chi phí cao.
 
-### 7. "Nông dân có thêm sức mua": trả tiền để không sản xuất
+### 7. "Nông dân có thêm sức mua": trả tiền để không sản xuất (mục 3 của chương, đoạn về sức mua)
 
 Hazlitt cho rằng không có lý gì để nói rằng nhờ kế hoạch hạn chế, ít nhất giá nông sản đã tăng và "nông dân có thêm sức mua". Họ có sức mua đó chỉ bằng cách lấy đúng chừng đó sức mua khỏi người mua ở thành phố (ông nhắc lại đã phân tích điều này ở chương về giá ngang giá). Trả tiền cho nông dân để hạn chế sản xuất, hoặc trả cho họ cùng một số tiền cho một sản lượng bị hạn chế nhân tạo, không khác gì buộc người tiêu dùng hay người nộp thuế trả tiền cho người ta để họ chẳng làm gì cả. Trong mỗi trường hợp, người hưởng chính sách có thêm "sức mua", nhưng người khác mất đúng bằng chừng đó. Thiệt hại ròng cho cộng đồng là phần sản lượng mất đi, vì người ta được nuôi để không sản xuất. Vì có ít hàng hơn cho mọi người, vì có ít thứ để chia hơn, lương thực tế và thu nhập thực tế phải giảm: hoặc do số tiền nhận được giảm, hoặc do chi phí sinh hoạt tăng.
 
-### 8. Giữ giá mà không hạn chế sản lượng: sụp đổ lớn hơn
+### 8. Giữ giá mà không hạn chế sản lượng: sụp đổ lớn hơn (mục 3 của chương, đoạn về cao su và bông)
 
 Còn nếu cố giữ giá một nông sản mà không áp đặt hạn chế sản lượng nhân tạo, thì hàng thừa bị định giá quá cao không bán được tiếp tục chất đống, cho tới khi thị trường mặt hàng đó cuối cùng sụp đổ, mạnh hơn nhiều so với khi chương trình kiểm soát chưa từng được thực hiện. Hoặc, những nhà sản xuất ngoài chương trình hạn chế, được giá tăng nhân tạo kích thích, mở rộng sản xuất ồ ạt. Đó là điều đã xảy ra với chương trình hạn chế cao su của Anh và chương trình hạn chế bông của Mỹ. Trong cả hai trường hợp, giá cuối cùng sụp tới mức thảm hoạ, mức sẽ không bao giờ tới nếu không có kế hoạch hạn chế. Kế hoạch khởi đầu một cách nghiêm trang để "bình ổn" giá cả và tình hình lại gây ra bất ổn lớn hơn không thể so sánh được so với những gì lực thị trường tự do có thể gây ra.
 
 **Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một nước xuất khẩu lớn một loại nông sản quyết định giữ giá xuất khẩu ở 3.000 USD một tấn bằng cách nhà nước mua tạm trữ mọi lượng không bán được ở giá đó, trong khi giá thế giới đang là 2.400 USD. Năm đầu, kho nhà nước nhận một phần mười sản lượng. Giá cao khuyến khích nông dân trong nước trồng thêm, và các nước cạnh tranh, bán ở giá thấp hơn một chút, giành khách. Năm thứ hai, kho nhận một phần tư sản lượng. Tới năm thứ ba, ngân sách không đủ tiền mua tiếp, kho chứa đầy hàng đang xuống cấp, và nhà nước phải xả hàng: giá rơi xuống dưới 2.000 USD, thấp hơn mức lẽ ra nếu không can thiệp. Đó là cấu trúc của các vụ cao su và bông mà Hazlitt kể.
 
-### 9. Kiểm soát hàng hoá quốc tế thời hậu chiến
+### 9. Kiểm soát hàng hoá quốc tế thời hậu chiến (mục 3 của chương, hai đoạn kết)
 
 Hazlitt kết chương bằng một đoạn mỉa mai các đề xuất kiểm soát hàng hoá quốc tế đang được đưa ra. Người ta nói rằng lần này sẽ tránh được mọi sai lầm cũ. Lần này giá sẽ được ấn định "công bằng" không chỉ cho người sản xuất mà cả cho người tiêu dùng. Các nước sản xuất và các nước tiêu dùng sẽ đồng ý với nhau đâu là giá công bằng, vì không ai vô lý cả. Giá cố định tất yếu đòi hỏi phân bổ và chia phần sản xuất, tiêu dùng "công bằng" giữa các nước, nhưng chỉ kẻ hoài nghi mới đoán trước sẽ có tranh chấp quốc tế khó coi về chuyện này. Cuối cùng, bằng phép màu lớn nhất, thế giới hậu chiến với những kiểm soát và cưỡng chế siêu quốc gia ấy cũng sẽ là một thế giới thương mại quốc tế "tự do"!
 
@@ -450,10 +450,10 @@ Các kế hoạch "bình ổn" giá hàng hoá của nhà nước thực chất 
 > "Khi chính phủ nhảy vào, 'kho lúa luôn bình thường' trên thực tế trở thành kho lúa luôn chính trị."
 *When the government steps in, the "ever-normal granary" becomes in fact an ever-political granary.*
 
-> "Thiếu hụt nhân tạo tạo ra năm nay bằng cách giữ một phần vụ mùa khỏi thị trường có nghĩa là dư thừa nhân tạo năm sau."
-*The artificial shortage built up this year by withholding part of a crop from the market means an artificial surplus the next year.*
+> "Vì thiếu hụt nhân tạo tạo ra năm nay bằng cách giữ một phần vụ mùa khỏi thị trường có nghĩa là dư thừa nhân tạo năm sau."
+*For the artificial shortage built up this year by withholding part of a crop from the market means an artificial surplus the next year.*
 
-> "Kế hoạch khởi đầu một cách nghiêm trang để 'bình ổn' giá cả lại gây ra bất ổn lớn hơn không thể so sánh được so với những gì lực thị trường tự do có thể gây ra."
+> "Kế hoạch khởi đầu một cách nghiêm trang để 'bình ổn' giá cả và tình hình lại gây ra bất ổn lớn hơn không thể so sánh được so với những gì lực thị trường tự do có thể gây ra."
 *The plan that started out so gravely to "stabilize" prices and conditions brings incomparably greater instability than the free forces of the market could possibly have brought.*
 
 ## Đánh giá và phát hiện đáng chú ý
@@ -470,7 +470,7 @@ Cơ chế cốt lõi (nhà đầu cơ mua thấp bán cao nên làm giảm chên
 - Ông giả định nông dân tiếp cận được thị trường kỳ hạn. Với nông dân nhỏ ở nước đang phát triển, điều này thường không đúng; họ bán ngay sau thu hoạch cho thương lái vì cần tiền mặt và không có kho, nên chênh lệch giá trong năm có thể lớn hơn nhiều so với chi phí lưu kho thuần.
 - Đầu cơ không phải lúc nào cũng ổn định giá: các đợt tăng giá lương thực toàn cầu như năm 2007–2008 làm dấy lên tranh luận về vai trò của dòng vốn đầu cơ, dù phần lớn nghiên cứu cho rằng nguyên nhân chính nằm ở cung–cầu thực.
 
-Kết luận hợp lý: Hazlitt đúng rằng nhà nước không thay được nhà đầu cơ trong việc gánh rủi ro, vì nhà nước không chịu lỗ khi đoán sai; nhưng "nhà đầu cơ luôn bình ổn giá" là một khái quát quá mạnh.
+Kết luận hợp lý (của người tổng hợp): Hazlitt đúng rằng nhà nước không thay được nhà đầu cơ trong việc gánh rủi ro; lý do ông nêu là giá do chính trị đặt, và có thể thêm rằng nhà nước không chịu lỗ khi đoán sai. Bản thân Hazlitt có rào đón ("nhìn chung", "trong điều kiện bình thường, khi nhà đầu cơ làm tốt việc của họ"), nhưng ông không xét trường hợp nào đầu cơ làm giá dao động mạnh hơn, nên cách ông trình bày vẫn nghiêng về một khái quát quá mạnh.
 
 ### Phép so sánh giữa thị trường cắt giảm và nhà nước cắt giảm là đóng góp sắc nhất của chương
 

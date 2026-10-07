@@ -41,8 +41,8 @@
        Trong thế giới hiện đại, thuế thu nhập KHÔNG BAO GIỜ đánh cùng
        một tỷ lệ lên mọi người
        · phần lớn gánh nặng thuế thu nhập dồn lên MỘT PHẦN NHỎ của thu
-         nhập quốc dân (phần thu nhập của người và doanh nghiệp thu nhập
-         cao)
+         nhập quốc dân (người tổng hợp hiểu là phần thu nhập của người
+         và doanh nghiệp thu nhập cao)
        · thuế thu nhập vẫn phải được bổ sung bằng nhiều loại thuế khác
        → các loại thuế này tất yếu làm thay đổi HÀNH ĐỘNG và ĐỘNG CƠ của
          người bị đánh thuế
@@ -126,7 +126,7 @@
 
 ## Khái niệm cần biết
 
-**Người bị quên (A) và người được thấy (B).** Cách Hazlitt đặt tên cho hai phía của một khoản chuyển giao: A là người nộp thuế, bị lấy tiền; B là người nhận khoản chi tiêu công. Phía chi tiêu kể chi tiết những gì B nhận được, và quên những gì A mất đi, kể cả những thay đổi trong cách A làm việc và đầu tư. Cặp A–B này gợi lại "người bị lãng quên" (the Forgotten Man) của nhà xã hội học Mỹ William Graham Sumner (1883), và sẽ được dùng lại ở Chương 6 cho tín dụng của chính phủ.
+**Người bị quên (A) và người được thấy (B).** Cách Hazlitt đặt tên cho hai phía của một khoản chuyển giao: A là người nộp thuế, bị lấy tiền; B là người nhận khoản chi tiêu công. Phía chi tiêu kể chi tiết những gì B nhận được, và quên những gì A mất đi, kể cả những thay đổi trong cách A làm việc và đầu tư. Cặp A–B này gợi lại "người bị lãng quên" (the Forgotten Man) của nhà xã hội học Mỹ William Graham Sumner (1883); chính Hazlitt nêu liên hệ với Sumner ở Chương 24, không phải trong chương này. Cặp A–B sẽ được dùng lại ở Chương 6 cho tín dụng của chính phủ.
 
 **Thuế suất biên và thuế suất trung bình (marginal and average tax rate).** Thuế suất biên là phần thuế phải nộp trên đồng thu nhập **thêm vào** cuối cùng; thuế suất trung bình là tổng thuế chia cho tổng thu nhập. Ví dụ minh hoạ: một người có thu nhập 100.000 USD, 50.000 USD đầu chịu thuế 20%, 50.000 USD sau chịu thuế 60%: thuế suất biên là 60%, nhưng tổng thuế là 10.000 + 30.000 = 40.000 USD, tức thuế suất trung bình 40%. Quyết định làm thêm, đầu tư thêm phụ thuộc vào thuế suất biên; "số tháng làm cho chính phủ" thì phụ thuộc vào thuế suất trung bình. Hazlitt dùng lẫn hai khái niệm này.
 
@@ -140,7 +140,7 @@
 
 ## Nội dung chi tiết
 
-### 1. Thuế không phải là chuyển tiền giữa hai túi của một người
+### 1. (Đoạn 1, mở đầu chương) Thuế không phải là chuyển tiền giữa hai túi của một người
 
 Chương mở đầu bằng "một yếu tố nữa" khiến của cải do chi tiêu của chính phủ tạo ra khó bù được hoàn toàn của cải bị phá huỷ bởi thuế dùng để trả cho khoản chi đó. Chương 4 đã nói một công trình chỉ thay thế những thứ người nộp thuế lẽ ra đã mua; Chương 5 nói thêm rằng bản thân việc đánh thuế làm giảm lượng của cải được sản xuất.
 
@@ -154,11 +154,11 @@ Vấn đề không đơn giản, như người ta thường nghĩ, là lấy th�
 
 Nói như vậy là coi đất nước như một đơn vị có nguồn lực gộp chung, giống một công ty khổng lồ, và coi mọi chuyện chỉ là một bút toán sổ sách. Phía chi tiêu quên rằng họ lấy tiền của A để trả cho B. Hay đúng hơn, họ biết rất rõ điều đó; nhưng trong khi họ kể dài về mọi lợi ích của quá trình này đối với B, mọi thứ tuyệt vời B sẽ có mà lẽ ra không có, họ quên tác động của giao dịch lên A. **B được thấy; A bị quên.**
 
-### 2. Thuế ảnh hưởng tới hành động và động cơ
+### 2. (Đầu đoạn 2) Thuế ảnh hưởng tới hành động và động cơ
 
-Trong thế giới hiện đại, thuế thu nhập không bao giờ đánh cùng một tỷ lệ lên mọi người. Phần lớn gánh nặng thuế thu nhập đặt lên một phần nhỏ của thu nhập quốc dân (tức những người và doanh nghiệp có thu nhập cao), và thuế thu nhập phải được bổ sung bằng các loại thuế khác. Những loại thuế này tất yếu ảnh hưởng tới hành động và động cơ của những người bị đánh thuế.
+Trong thế giới hiện đại, thuế thu nhập không bao giờ đánh cùng một tỷ lệ lên mọi người. Phần lớn gánh nặng thuế thu nhập đặt lên một phần nhỏ của thu nhập quốc dân (người tổng hợp hiểu là phần thu nhập của những người và doanh nghiệp có thu nhập cao; Hazlitt không nói rõ), và thuế thu nhập phải được bổ sung bằng các loại thuế khác. Những loại thuế này tất yếu ảnh hưởng tới hành động và động cơ của những người bị đánh thuế.
 
-### 3. Doanh nghiệp: lỗ chịu trọn, lãi giữ 60 xu
+### 3. (Phần còn lại của đoạn 2) Doanh nghiệp: lỗ chịu trọn, lãi giữ 60 xu
 
 Hazlitt mô tả tình thế của một doanh nghiệp:
 
@@ -175,7 +175,7 @@ Khi đó chính sách của doanh nghiệp thay đổi. Nó không mở rộng h
 - máy móc cải tiến và nhà máy trang bị tốt hơn ra đời chậm hơn nhiều so với lẽ ra;
 - kết quả trong dài hạn (long run): người tiêu dùng không có được sản phẩm tốt hơn và rẻ hơn, và lương thực tế bị kìm lại.
 
-### 4. Cá nhân: thuế 50–90%, làm việc cho chính phủ và ngại mạo hiểm
+### 4. (Đoạn 3) Cá nhân: thuế 50–90%, làm việc cho chính phủ và ngại mạo hiểm
 
 Tác động tương tự xảy ra khi thu nhập cá nhân bị đánh thuế 50, 60, 75 và 90%. Người ta bắt đầu tự hỏi vì sao họ phải làm việc 6, 8 hay 10 tháng mỗi năm cho chính phủ, và chỉ 6, 4 hay 2 tháng cho bản thân và gia đình.
 
@@ -192,7 +192,7 @@ Nếu họ mất trọn đô la khi thua, nhưng chỉ giữ được một hào
 
 Tóm lại có hai tầng thiệt hại: vốn để tạo ra việc làm tư mới trước hết **bị ngăn không cho ra đời**, và phần vốn ra đời được thì **bị làm nản lòng không dám lập doanh nghiệp mới**. Hazlitt kết luận: phía chi tiêu của chính phủ tự tạo ra chính nạn thất nghiệp mà họ tuyên bố sẽ giải quyết.
 
-### 5. Giới hạn của lập luận: thuế hợp lý và gánh nặng vượt ngưỡng
+### 5. (Đoạn 4, kết chương) Giới hạn của lập luận: thuế hợp lý và gánh nặng vượt ngưỡng
 
 Hazlitt kết bằng một nhượng bộ quan trọng. Một mức thuế nhất định đương nhiên là không thể thiếu để duy trì các chức năng thiết yếu của nhà nước. Thuế hợp lý cho mục đích đó không nhất thiết gây hại nhiều cho sản xuất. Những dịch vụ nhà nước cung cấp lại, mà trong đó có việc bảo vệ chính hoạt động sản xuất, bù đắp nhiều hơn thiệt hại ấy.
 
@@ -281,9 +281,9 @@ Thuế không phải là khoản chuyển giao trung tính giữa hai túi của
 >
 > *"The government spenders create the very problem of unemployment that they profess to solve."*
 
-> "Phần thu nhập quốc dân bị thuế lấy đi càng lớn thì sản xuất và việc làm tư nhân càng bị ngăn cản."
+> "Nhưng phần thu nhập quốc dân bị thuế lấy đi càng lớn thì sản xuất và việc làm tư nhân càng bị ngăn cản."
 >
-> *"The larger the percentage of the national income taken by taxes the greater the deterrent to private production and employment."*
+> *"But the larger the percentage of the national income taken by taxes the greater the deterrent to private production and employment."*
 
 ## Đánh giá và phát hiện đáng chú ý
 

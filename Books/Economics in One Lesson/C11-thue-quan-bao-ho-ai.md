@@ -47,9 +47,9 @@
        · áo của ông bán 15 USD/chiếc · áo Anh cùng chất lượng bán 10
          USD/chiếc
        · ông cần THUẾ 5 USD/chiếc đánh vào áo Anh thì mới tồn tại được
-       · ông nói mình xin "không phải vì bản thân", mà vì 1.000 CÔNG NHÂN
-         của ông và những người bán hàng cho họ: họ mất việc thì sức mua
-         giảm, thất nghiệp LAN RỘNG thành vòng tròn ngày càng lớn
+       · ông nói mình không nghĩ cho bản thân, mà cho 1.000 CÔNG NHÂN của
+         ông và những người có việc nhờ chi tiêu của họ: họ mất việc thì
+         sức mua giảm, thất nghiệp LAN RỘNG thành vòng tròn ngày càng lớn
        → nếu ông CHỨNG MINH được mình sẽ phá sản khi bỏ thuế, Quốc hội
          coi đó là lý lẽ QUYẾT ĐỊNH để giữ thuế
                                 │
@@ -86,8 +86,8 @@
                                 ▼
        KẾT QUẢ RÒNG: tổng việc làm ở Mỹ KHÔNG GIẢM · SẢN LƯỢNG của cả Mỹ
        và Anh đều TĂNG · lao động mỗi nước làm đúng việc mình làm giỏi
-       nhất · người Mỹ có áo len tốt hơn, người Anh có ô tô, máy giặt
-       tốt hơn
+       nhất · người Mỹ được cung cấp áo len đầy đủ hơn, người Anh được
+       cung cấp ô tô, máy giặt đầy đủ hơn
 ```
 
 ### Phần 3 (mục 3): dựng thuế quan để lập ngành áo len — ảo giác thị giác
@@ -109,7 +109,7 @@
        · người mua trả thêm 5 USD/chiếc, nên còn ÍT HƠN đúng 5 USD để mua
          thứ khác, và phải CẮT 5 USD chi tiêu ở chỗ khác
        · để MỘT ngành lớn lên, MỘT TRĂM ngành khác phải co lại
-       · 20.000 người có việc trong ngành áo len mới thì cũng có khoảng
+       · 20.000 người có việc trong ngành áo len mới thì cũng có đúng
          20.000 người MẤT việc ở các ngành khác
                                 │
                                 ▼
@@ -147,7 +147,7 @@
          · nhưng tính trên mọi nghề, LƯƠNG THỰC TẾ chắc chắn giảm, dù
          lương trong ngành được bảo hộ có thể cao hơn
        → Hazlitt: chẳng có gì nghịch lý · cố ý dùng vốn và nhân lực KÉM
-         hiệu quả hơn mức mình biết cách dùng thì sao mà giàu lên được?
+         hiệu quả hơn mức mình biết cách dùng thì còn mong kết quả nào khác?
                                 │
                                 ▼
        DỰNG TƯỜNG THUẾ QUAN có tác động giống DỰNG MỘT BỨC TƯỜNG THẬT
@@ -304,9 +304,9 @@ Thuế được bỏ. Nhà máy đóng cửa, 1.000 công nhân mất việc, c�
 
 Kết quả chưa dừng ở đó. Người Mỹ mua áo Anh tức là đưa cho người Anh đô la. Hazlitt gạt sang một bên các phức tạp như trao đổi đa phương, cho vay, tín dụng, chuyển vàng, vì chúng "không thay đổi kết quả cuối cùng": cách duy nhất để người Anh rốt cuộc dùng được số đô la đó là mua hàng Mỹ. Cho người Anh bán nhiều hơn cho Mỹ thì họ mua được nhiều hơn của Mỹ; thực ra họ buộc phải mua, nếu không số dư đô la của họ nằm chết mãi. Vậy cho nhiều hàng Anh vào hơn thì Mỹ phải xuất nhiều hàng hơn. Ít người làm áo len hơn, nhưng nhiều người làm ô tô và máy giặt hơn, và làm hiệu quả hơn nhiều.
 
-Kết quả ròng: tổng việc làm ở Mỹ không giảm, còn tổng sản lượng của cả Mỹ và Anh tăng. Lao động mỗi nước làm đúng việc mình làm giỏi nhất, thay vì bị buộc làm việc mình làm kém. Người tiêu dùng cả hai nước đều được lợi: người Mỹ có áo len tốt hơn, người Anh có ô tô và máy giặt tốt hơn.
+Kết quả ròng: tổng việc làm ở Mỹ không giảm, còn tổng sản lượng của cả Mỹ và Anh tăng. Lao động mỗi nước làm đúng việc mình làm giỏi nhất, thay vì bị buộc làm việc mình làm kém. Người tiêu dùng cả hai nước đều được lợi, vì mua được thứ mình muốn ở nơi rẻ nhất: người Mỹ được cung cấp áo len đầy đủ hơn, người Anh được cung cấp ô tô và máy giặt đầy đủ hơn.
 
-### 3. Dựng thuế quan để lập ngành áo len: một ngành mới không phải là của trời cho
+### 3. Dựng thuế quan để lập ngành áo len: ngành mới không phải là không tốn gì
 
 Hazlitt lật ngược tình huống. Giả sử chưa từng có thuế trên hàng dệt kim ngoại, người Mỹ quen mua áo ngoại không chịu thuế, rồi có người đề xuất đánh 5 USD mỗi chiếc để lập ngành áo len trong nước.
 
