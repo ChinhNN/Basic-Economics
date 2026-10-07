@@ -336,6 +336,28 @@ Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's 
 - [Chương 13 — Động cơ khuyến khích](Books/The%20Art%20of%20Strategy/C13-dong-co-khuyen-khich.md)
 - [Chương 14 — Các tình huống nghiên cứu](Books/The%20Art%20of%20Strategy/C14-nghien-cuu-tinh-huong.md)
 
+## A Concise Economic History of the World
+
+Rondo Cameron và Larry Neal, *A Concise Economic History of the World: From Paleolithic Times to the Present*, ấn bản thứ tư (Oxford University Press, 2003), bản tiếng Anh. Mỗi chương một file, giữ lại điều tác giả muốn người đọc hiểu cùng ví dụ, số liệu và các bảng dựng lại từ sách, kèm đánh giá những gì đã thay đổi sau năm 2003 và các quan điểm trái chiều trong sử học kinh tế. Xem [tổng quan và chuỗi lập luận](Books/A%20Concise%20Economic%20History%20of%20the%20World/README.md).
+
+- [Lời nói đầu](Books/A%20Concise%20Economic%20History%20of%20the%20World/00-loi-noi-dau.md)
+- [Chương 1 — Mở đầu: Lịch sử kinh tế và phát triển kinh tế](Books/A%20Concise%20Economic%20History%20of%20the%20World/C01-lich-su-kinh-te-va-phat-trien-kinh-te.md)
+- [Chương 2 — Phát triển kinh tế thời cổ đại](Books/A%20Concise%20Economic%20History%20of%20the%20World/C02-phat-trien-kinh-te-thoi-co-dai.md)
+- [Chương 3 — Phát triển kinh tế ở châu Âu thời Trung cổ](Books/A%20Concise%20Economic%20History%20of%20the%20World/C03-phat-trien-kinh-te-chau-au-trung-co.md)
+- [Chương 4 — Các nền kinh tế ngoài phương Tây trước khi phương Tây bành trướng](Books/A%20Concise%20Economic%20History%20of%20the%20World/C04-cac-nen-kinh-te-ngoai-phuong-tay.md)
+- [Chương 5 — Đường logistic thứ hai của châu Âu](Books/A%20Concise%20Economic%20History%20of%20the%20World/C05-duong-logistic-thu-hai-cua-chau-au.md)
+- [Chương 6 — Chủ nghĩa dân tộc kinh tế và chủ nghĩa đế quốc](Books/A%20Concise%20Economic%20History%20of%20the%20World/C06-chu-nghia-dan-toc-kinh-te-va-chu-nghia-de-quoc.md)
+- [Chương 7 — Buổi bình minh của công nghiệp hiện đại](Books/A%20Concise%20Economic%20History%20of%20the%20World/C07-buoi-binh-minh-cua-cong-nghiep-hien-dai.md)
+- [Chương 8 — Phát triển kinh tế trong thế kỷ 19: các yếu tố quyết định cơ bản](Books/A%20Concise%20Economic%20History%20of%20the%20World/C08-phat-trien-kinh-te-the-ky-19-cac-yeu-to-quyet-dinh.md)
+- [Chương 9 — Các mô hình phát triển: những nước công nghiệp hoá sớm](Books/A%20Concise%20Economic%20History%20of%20the%20World/C09-mo-hinh-phat-trien-cac-nuoc-cong-nghiep-hoa-som.md)
+- [Chương 10 — Các mô hình phát triển: các nước đi sau và các nước không công nghiệp hoá được](Books/A%20Concise%20Economic%20History%20of%20the%20World/C10-mo-hinh-phat-trien-nuoc-di-sau-va-nuoc-khong-cong-nghiep-hoa.md)
+- [Chương 11 — Các khu vực chiến lược](Books/A%20Concise%20Economic%20History%20of%20the%20World/C11-cac-khu-vuc-chien-luoc.md)
+- [Chương 12 — Sự tăng trưởng của kinh tế thế giới](Books/A%20Concise%20Economic%20History%20of%20the%20World/C12-su-tang-truong-cua-kinh-te-the-gioi.md)
+- [Chương 13 — Tổng quan kinh tế thế giới trong thế kỷ 20](Books/A%20Concise%20Economic%20History%20of%20the%20World/C13-tong-quan-kinh-te-the-gioi-the-ky-20.md)
+- [Chương 14 — Sự tan rã của nền kinh tế quốc tế](Books/A%20Concise%20Economic%20History%20of%20the%20World/C14-su-tan-ra-cua-kinh-te-quoc-te.md)
+- [Chương 15 — Tái thiết kinh tế thế giới, 1945–1973](Books/A%20Concise%20Economic%20History%20of%20the%20World/C15-tai-thiet-kinh-te-the-gioi-1945-1973.md)
+- [Chương 16 — Kinh tế thế giới đầu thế kỷ 21](Books/A%20Concise%20Economic%20History%20of%20the%20World/C16-kinh-te-the-gioi-dau-the-ky-21.md)
+
 ## VN
 
 Tổng hợp bài viết của AI WikiMoney (wikimoney.ai.vn) về kinh tế, tài chính cá nhân và đầu tư ở Việt Nam, xếp theo chuyên mục của trang và theo ngày đăng.
