@@ -316,6 +316,26 @@ Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bả
 - [Chương 26 — Lịch sử kinh tế học](Books/Basic%20Economics/C26-lich-su-kinh-te-hoc.md)
 - [Chương 27 — Lời kết](Books/Basic%20Economics/C27-loi-ket.md)
 
+## The Art of Strategy
+
+Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life* (W. W. Norton, 2008), bản tiếng Anh. Mỗi chương một file, giữ lại điều tác giả muốn người đọc hiểu cùng ví dụ, bảng kết quả và cây trò chơi dựng lại từ sách, kèm đánh giá và vận dụng vào ra quyết định chiến lược. Xem [tổng quan và chuỗi lập luận](Books/The%20Art%20of%20Strategy/README.md).
+
+- [Lời nói đầu và Lời giới thiệu](Books/The%20Art%20of%20Strategy/00-loi-noi-dau-va-gioi-thieu.md)
+- [Chương 1 — Mười câu chuyện chiến lược](Books/The%20Art%20of%20Strategy/C01-muoi-cau-chuyen-chien-luoc.md)
+- [Chương 2 — Những trò chơi giải được bằng suy luận ngược](Books/The%20Art%20of%20Strategy/C02-tro-choi-giai-bang-suy-luan-nguoc.md)
+- [Chương 3 — Thế lưỡng nan của người tù và cách giải quyết](Books/The%20Art%20of%20Strategy/C03-the-luong-nan-cua-nguoi-tu.md)
+- [Chương 4 — Một cân bằng đẹp](Books/The%20Art%20of%20Strategy/C04-can-bang-dep.md)
+- [Chương 5 — Lựa chọn và may rủi](Books/The%20Art%20of%20Strategy/C05-lua-chon-va-may-rui.md)
+- [Chương 6 — Nước đi chiến lược](Books/The%20Art%20of%20Strategy/C06-nuoc-di-chien-luoc.md)
+- [Chương 7 — Làm cho chiến lược trở nên đáng tin](Books/The%20Art%20of%20Strategy/C07-lam-chien-luoc-dang-tin.md)
+- [Chương 8 — Diễn giải và thao túng thông tin](Books/The%20Art%20of%20Strategy/C08-dien-giai-va-thao-tung-thong-tin.md)
+- [Chương 9 — Hợp tác và phối hợp](Books/The%20Art%20of%20Strategy/C09-hop-tac-va-phoi-hop.md)
+- [Chương 10 — Đấu giá, đấu thầu và các cuộc đọ sức](Books/The%20Art%20of%20Strategy/C10-dau-gia-dau-thau-va-cuoc-thi.md)
+- [Chương 11 — Mặc cả](Books/The%20Art%20of%20Strategy/C11-mac-ca.md)
+- [Chương 12 — Bỏ phiếu](Books/The%20Art%20of%20Strategy/C12-bo-phieu.md)
+- [Chương 13 — Động cơ khuyến khích](Books/The%20Art%20of%20Strategy/C13-dong-co-khuyen-khich.md)
+- [Chương 14 — Các tình huống nghiên cứu](Books/The%20Art%20of%20Strategy/C14-nghien-cuu-tinh-huong.md)
+
 ## VN
 
 Tổng hợp bài viết của AI WikiMoney (wikimoney.ai.vn) về kinh tế, tài chính cá nhân và đầu tư ở Việt Nam, xếp theo chuyên mục của trang và theo ngày đăng.
