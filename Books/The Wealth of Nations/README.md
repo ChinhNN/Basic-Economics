@@ -111,8 +111,8 @@
 
 ## Gợi ý đọc để phân tích Việt Nam
 
-- **Tăng trưởng và năng suất:** Quyển I, Chương I–III; Quyển II, Chương III và V. Đọc kèm [Total Factor Productivity](../IMF/Back%20to%20Basics/2024-09-total-factor-productivity.md).
+- **Tăng trưởng và năng suất:** Quyển I, Chương I–III; Quyển II, Chương III và V. Đọc kèm [Total Factor Productivity](../../IMF/Back%20to%20Basics/2024-09-total-factor-productivity.md).
 - **Tiền, ngân hàng, vàng, lãi suất:** Quyển I, Chương IV–V; Quyển II, Chương II và IV; Quyển IV, Chương I và VI.
 - **Đất đai, nông nghiệp, thể chế:** Quyển I, Chương XI; toàn bộ Quyển III; Quyển IV, Chương IX.
-- **Thương mại, FTA, thặng dư thương mại, hoàn thuế và trợ cấp:** Quyển IV, Chương I–VIII. Đọc kèm [Why Countries Trade](../IMF/Back%20to%20Basics/2009-12-why-countries-trade.md).
+- **Thương mại, FTA, thặng dư thương mại, hoàn thuế và trợ cấp:** Quyển IV, Chương I–VIII. Đọc kèm [Why Countries Trade](../../IMF/Back%20to%20Basics/2009-12-why-countries-trade.md).
 - **Tiền lương, di cư lao động, độc quyền và doanh nghiệp nhà nước:** Quyển I, Chương VIII–X; Quyển IV, Chương VII.

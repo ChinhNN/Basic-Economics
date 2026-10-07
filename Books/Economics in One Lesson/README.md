@@ -128,8 +128,8 @@
 
 - **Phương pháp "cái thấy được và cái không thấy":** Chương 1, 2, 24. Đọc trước tiên; mọi chương khác chỉ là áp dụng.
 - **Chi phí cơ hội và đánh giá một khoản chi tiêu, đầu tư:** Chương 3, 4, 6, 15.
-- **Công nghệ, tự động hoá, việc làm:** Chương 7, 8, 10. Đọc kèm [Total Factor Productivity](../IMF/Back%20to%20Basics/2024-09-total-factor-productivity.md).
-- **Thương mại và bảo hộ:** Chương 11, 12, 14. Đọc kèm [Why Countries Trade](../IMF/Back%20to%20Basics/2009-12-why-countries-trade.md) và *Của cải của các dân tộc*, [Quyển IV, Chương II](../The%20Wealth%20of%20Nations/Q4-C02-han-che-nhap-khau-hang-san-xuat-trong-nuoc.md).
+- **Công nghệ, tự động hoá, việc làm:** Chương 7, 8, 10. Đọc kèm [Total Factor Productivity](../../IMF/Back%20to%20Basics/2024-09-total-factor-productivity.md).
+- **Thương mại và bảo hộ:** Chương 11, 12, 14. Đọc kèm [Why Countries Trade](../../IMF/Back%20to%20Basics/2009-12-why-countries-trade.md) và *Của cải của các dân tộc*, [Quyển IV, Chương II](../The%20Wealth%20of%20Nations/Q4-C02-han-che-nhap-khau-hang-san-xuat-trong-nuoc.md).
 - **Giá cả, kiểm soát giá, bình ổn giá:** Chương 13, 15, 16, 17.
 - **Tiền lương và thị trường lao động:** Chương 18, 19, 20.
 - **Lợi nhuận, lạm phát, lãi suất, tiết kiệm:** Chương 21, 22, 23.
