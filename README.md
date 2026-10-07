@@ -232,6 +232,37 @@ Marcus Aurelius, *Suy tưởng* (*Meditations*, khoảng 170–180), bản dịc
 - [Quyển 12 — Sống ngay bây giờ và rời sân khấu thanh thản](Meditations/Q12-hien-tai-va-man-ket-thuc.md)
 - [Phụ lục — Giờ khắc cuối cùng của hoàng đế triết gia](Meditations/PL-gio-khac-cuoi-cung-cua-hoang-de-triet-gia.md) — trích Donald Robertson, *How to Think Like a Roman Emperor* (2019)
 
+## Economics in One Lesson
+
+Henry Hazlitt, *Kinh tế học trong một bài học* (*Economics in One Lesson*, 1946), nguyên bản tiếng Anh, ấn bản 1946 (bản in FEE 1952). Mỗi chương một file, giữ lại luận điểm Hazlitt chứng minh, kèm đánh giá và vận dụng vào tư duy kinh doanh. Xem [tổng quan và chuỗi lập luận](Economics%20in%20One%20Lesson/README.md).
+
+- [Lời nói đầu](Economics%20in%20One%20Lesson/00-loi-noi-dau.md)
+- [Chương 1 — Bài học](Economics%20in%20One%20Lesson/C01-bai-hoc.md)
+- [Chương 2 — Cửa sổ vỡ](Economics%20in%20One%20Lesson/C02-cua-so-vo.md)
+- [Chương 3 — "Phúc lành" của sự tàn phá](Economics%20in%20One%20Lesson/C03-phuoc-lanh-cua-su-tan-pha.md)
+- [Chương 4 — Công trình công cộng nghĩa là thuế](Economics%20in%20One%20Lesson/C04-cong-trinh-cong-cong-nghia-la-thue.md)
+- [Chương 5 — Thuế làm nản lòng sản xuất](Economics%20in%20One%20Lesson/C05-thue-lam-nan-long-san-xuat.md)
+- [Chương 6 — Tín dụng làm chuyển hướng sản xuất](Economics%20in%20One%20Lesson/C06-tin-dung-lam-chuyen-huong-san-xuat.md)
+- [Chương 7 — "Lời nguyền" của máy móc](Economics%20in%20One%20Lesson/C07-loi-nguyen-cua-may-moc.md)
+- [Chương 8 — Các kế hoạch chia việc](Economics%20in%20One%20Lesson/C08-ke-hoach-chia-viec.md)
+- [Chương 9 — Giải ngũ binh lính và cắt giảm công chức](Economics%20in%20One%20Lesson/C09-giai-ngu-va-cat-giam-cong-chuc.md)
+- [Chương 10 — Tôn sùng toàn dụng lao động](Economics%20in%20One%20Lesson/C10-ton-sung-toan-dung-lao-dong.md)
+- [Chương 11 — Thuế quan thực ra "bảo hộ" ai?](Economics%20in%20One%20Lesson/C11-thue-quan-bao-ho-ai.md)
+- [Chương 12 — Chạy theo xuất khẩu](Economics%20in%20One%20Lesson/C12-chay-theo-xuat-khau.md)
+- [Chương 13 — Giá "ngang giá"](Economics%20in%20One%20Lesson/C13-gia-ngang-gia.md)
+- [Chương 14 — Cứu ngành X](Economics%20in%20One%20Lesson/C14-cuu-nganh-x.md)
+- [Chương 15 — Hệ thống giá vận hành thế nào](Economics%20in%20One%20Lesson/C15-he-thong-gia-van-hanh-the-nao.md)
+- [Chương 16 — "Bình ổn" giá hàng hoá](Economics%20in%20One%20Lesson/C16-binh-on-gia-hang-hoa.md)
+- [Chương 17 — Chính phủ ấn định giá](Economics%20in%20One%20Lesson/C17-chinh-phu-an-dinh-gia.md)
+- [Chương 18 — Luật lương tối thiểu](Economics%20in%20One%20Lesson/C18-luat-luong-toi-thieu.md)
+- [Chương 19 — Công đoàn có thực sự làm tăng lương?](Economics%20in%20One%20Lesson/C19-cong-doan-co-thuc-su-tang-luong.md)
+- [Chương 20 — "Đủ để mua lại sản phẩm"](Economics%20in%20One%20Lesson/C20-du-de-mua-lai-san-pham.md)
+- [Chương 21 — Chức năng của lợi nhuận](Economics%20in%20One%20Lesson/C21-chuc-nang-cua-loi-nhuan.md)
+- [Chương 22 — Ảo ảnh lạm phát](Economics%20in%20One%20Lesson/C22-ao-anh-lam-phat.md)
+- [Chương 23 — Cuộc tấn công vào tiết kiệm](Economics%20in%20One%20Lesson/C23-tan-cong-tiet-kiem.md)
+- [Chương 24 — Nhắc lại bài học](Economics%20in%20One%20Lesson/C24-nhac-lai-bai-hoc.md)
+- [Chương 25 — Ghi chú về sách](Economics%20in%20One%20Lesson/C25-ghi-chu-ve-sach.md)
+
 ## VN
 
 Tổng hợp bài viết của AI WikiMoney (wikimoney.ai.vn) về kinh tế, tài chính cá nhân và đầu tư ở Việt Nam, xếp theo chuyên mục của trang và theo ngày đăng.
