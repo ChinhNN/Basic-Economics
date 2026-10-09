@@ -283,6 +283,10 @@ Charles Wheelan, *Naked Economics: Undressing the Dismal Science*, ấn bản s�
 - [Chương 13 — Kinh tế học phát triển](Books/Naked%20Economics/C13-kinh-te-hoc-phat-trien.md)
 - [Phần kết — Cuộc sống năm 2050](Books/Naked%20Economics/PK-cuoc-song-nam-2050.md)
 
+## The Personal MBA
+
+Josh Kaufman, *The Personal MBA: Master the Art of Business* (Portfolio, 2010), đọc qua bản dịch tiếng Tây Ban Nha *MBA personal* dạng scan (OCR). Mỗi chương một file, đi qua đủ từng mô hình tư duy theo thứ tự trong sách: năm thành phần của doanh nghiệp (tạo giá trị, marketing, bán hàng, chuyển giao giá trị, tài chính), con người, và hệ thống; kèm đánh giá và vận dụng. Xem [tổng quan, mục lục và lưu ý về nguồn](Books/The%20Personal%20MBA/README.md).
+
 ## Basic Economics
 
 Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), bản tiếng Anh. Mỗi chương một file, giữ lại điều tác giả muốn người đọc hiểu cùng ví dụ và số liệu, kèm đánh giá và vận dụng vào tư duy kinh doanh. Xem [tổng quan và chuỗi lập luận](Books/Basic%20Economics/README.md).
