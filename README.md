@@ -299,6 +299,10 @@ John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the 
 
 Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), đọc qua bản dịch máy tiếng Pháp *L'investisseur intelligent*. Mỗi chương một file, gồm chương của Graham và bình luận của Zweig, đi qua đủ từng mục theo thứ tự trong sách: đầu tư khác đầu cơ, nhà đầu tư phòng thủ và năng động, ông Thị Trường, phân tích và chọn cổ phiếu, biên an toàn; kèm lời tựa của Warren Buffett, bài "Những siêu nhà đầu tư của Graham-và-Doddsville" và các phụ lục. Phần lớn bảng số bị mất trong bản PDF nguồn; cách xử lý được ghi rõ. Xem [tổng quan, mục lục và lưu ý về nguồn](Books/The%20Intelligent%20Investor/README.md).
 
+## The Little Book of Valuation
+
+Aswath Damodaran, *The Little Book of Valuation*, bản thảo đầu tiên (14/10/2010; bản in Wiley 2011), bản tiếng Anh. Mỗi chương một file, đi qua đủ từng mục theo thứ tự trong sách, chép lại mọi bảng và hình, trình bày từng bước và tính lại mọi ví dụ định giá: định giá nội tại (DCF) và định giá tương đối (bội số), định giá theo vòng đời doanh nghiệp (công ty trẻ, tăng trưởng, trưởng thành, suy thoái), công ty tài chính, công ty chu kỳ và hàng hoá cơ bản, công ty có tài sản vô hình; kèm đánh giá và vận dụng. Các lỗi tính toán của bản thảo được ghi rõ cùng số đúng. Xem [tổng quan, mục lục và lưu ý về nguồn](Books/The%20Little%20Book%20of%20Valuation/README.md).
+
 ## Basic Economics
 
 Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), bản tiếng Anh. Mỗi chương một file, giữ lại điều tác giả muốn người đọc hiểu cùng ví dụ và số liệu, kèm đánh giá và vận dụng vào tư duy kinh doanh. Xem [tổng quan và chuỗi lập luận](Books/Basic%20Economics/README.md).
