@@ -303,6 +303,10 @@ Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình 
 
 Aswath Damodaran, *The Little Book of Valuation*, bản thảo đầu tiên (14/10/2010; bản in Wiley 2011), bản tiếng Anh. Mỗi chương một file, đi qua đủ từng mục theo thứ tự trong sách, chép lại mọi bảng và hình, trình bày từng bước và tính lại mọi ví dụ định giá: định giá nội tại (DCF) và định giá tương đối (bội số), định giá theo vòng đời doanh nghiệp (công ty trẻ, tăng trưởng, trưởng thành, suy thoái), công ty tài chính, công ty chu kỳ và hàng hoá cơ bản, công ty có tài sản vô hình; kèm đánh giá và vận dụng. Các lỗi tính toán của bản thảo được ghi rõ cùng số đúng. Xem [tổng quan, mục lục và lưu ý về nguồn](Books/The%20Little%20Book%20of%20Valuation/README.md).
 
+## Introduction to Algorithms
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), bản tiếng Anh. Mỗi chương và mỗi phụ lục một file, đi qua đủ từng mục theo thứ tự trong sách, chép lại mọi pseudocode, định lý kèm chứng minh và hình (vẽ lại bằng sơ đồ chữ), chạy lại mọi ví dụ, nêu đề và lời giải ngắn cho mọi bài tập: phân tích tiệm cận và truy hồi, sắp xếp, cấu trúc dữ liệu, quy hoạch động và tham lam, phân tích khấu hao, thuật toán đồ thị, luồng, quy hoạch tuyến tính, FFT, số học và RSA, so khớp chuỗi, hình học, NP-đầy đủ và thuật toán xấp xỉ; kèm thay đổi ở ấn bản 4 và cách vận dụng. Các lỗi và chỗ chưa chặt của sách được ghi rõ cùng bản đúng. Xem [tổng quan, mục lục và lưu ý về nguồn](Books/Introduction%20to%20Algorithms/README.md).
+
 ## Basic Economics
 
 Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), bản tiếng Anh. Mỗi chương một file, giữ lại điều tác giả muốn người đọc hiểu cùng ví dụ và số liệu, kèm đánh giá và vận dụng vào tư duy kinh doanh. Xem [tổng quan và chuỗi lập luận](Books/Basic%20Economics/README.md).
