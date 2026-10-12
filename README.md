@@ -295,6 +295,10 @@ Peter D. Kaufman (biên tập), *Poor Charlie's Almanack: The Wit and Wisdom of 
 
 John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), bản tiếng Anh. Mỗi chương một file, đi qua đủ từng mục theo thứ tự trong sách, chép lại mọi bảng số và kiểm tra lại phép tính: ba báo cáo tài chính của một doanh nghiệp ví dụ, từng mối nối giữa báo cáo kết quả kinh doanh và bảng cân đối kế toán, vì sao lợi nhuận khác dòng tiền, các chỉ số tài chính, phân tích lợi nhuận cho nhà quản lý, chuẩn mực kế toán, làm đẹp số liệu và kiểm toán; kèm đánh giá và vận dụng. Xem [tổng quan, mục lục và lưu ý về nguồn](Books/How%20to%20Read%20a%20Financial%20Report/README.md).
 
+## The Intelligent Investor
+
+Benjamin Graham, *The Intelligent Investor*, ấn bản hiệu đính có bình luận của Jason Zweig (HarperBusiness, 2003), đọc qua bản dịch máy tiếng Pháp *L'investisseur intelligent*. Mỗi chương một file, gồm chương của Graham và bình luận của Zweig, đi qua đủ từng mục theo thứ tự trong sách: đầu tư khác đầu cơ, nhà đầu tư phòng thủ và năng động, ông Thị Trường, phân tích và chọn cổ phiếu, biên an toàn; kèm lời tựa của Warren Buffett, bài "Những siêu nhà đầu tư của Graham-và-Doddsville" và các phụ lục. Phần lớn bảng số bị mất trong bản PDF nguồn; cách xử lý được ghi rõ. Xem [tổng quan, mục lục và lưu ý về nguồn](Books/The%20Intelligent%20Investor/README.md).
+
 ## Basic Economics
 
 Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), bản tiếng Anh. Mỗi chương một file, giữ lại điều tác giả muốn người đọc hiểu cùng ví dụ và số liệu, kèm đánh giá và vận dụng vào tư duy kinh doanh. Xem [tổng quan và chuỗi lập luận](Books/Basic%20Economics/README.md).
