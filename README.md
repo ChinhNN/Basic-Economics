@@ -291,6 +291,10 @@ Josh Kaufman, *The Personal MBA: Master the Art of Business* (Portfolio, 2010), 
 
 Peter D. Kaufman (biên tập), *Poor Charlie's Almanack: The Wit and Wisdom of Charles T. Munger*, ấn bản mở rộng thứ ba (The Donning Company Publishers, lần in thứ sáu 2011), bản tiếng Anh. Mỗi phần một file, đi qua đủ từng đoạn và từng hộp bên lề theo thứ tự trong sách: chân dung Munger, cách ông tiếp cận cuộc sống và ra quyết định, các câu nói tại đại hội cổ đông, mười một bài nói (trí tuệ thế gian, mạng lưới mô hình tư duy, tư duy đảo ngược, 25 khuynh hướng tâm lý gây phán đoán sai) và phụ lục; kèm đánh giá và vận dụng. Xem [tổng quan, mục lục và lưu ý về nguồn](Books/Poor%20Charlie's%20Almanack/README.md).
 
+## How to Read a Financial Report
+
+John A. Tracy, *How to Read a Financial Report: Wringing Vital Signs Out of the Numbers*, ấn bản thứ bảy (John Wiley & Sons, 2009), bản tiếng Anh. Mỗi chương một file, đi qua đủ từng mục theo thứ tự trong sách, chép lại mọi bảng số và kiểm tra lại phép tính: ba báo cáo tài chính của một doanh nghiệp ví dụ, từng mối nối giữa báo cáo kết quả kinh doanh và bảng cân đối kế toán, vì sao lợi nhuận khác dòng tiền, các chỉ số tài chính, phân tích lợi nhuận cho nhà quản lý, chuẩn mực kế toán, làm đẹp số liệu và kiểm toán; kèm đánh giá và vận dụng. Xem [tổng quan, mục lục và lưu ý về nguồn](Books/How%20to%20Read%20a%20Financial%20Report/README.md).
+
 ## Basic Economics
 
 Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), bản tiếng Anh. Mỗi chương một file, giữ lại điều tác giả muốn người đọc hiểu cùng ví dụ và số liệu, kèm đánh giá và vận dụng vào tư duy kinh doanh. Xem [tổng quan và chuỗi lập luận](Books/Basic%20Economics/README.md).
