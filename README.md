@@ -232,6 +232,10 @@ Marcus Aurelius, *Suy tưởng* (*Meditations*, khoảng 170–180), bản dịc
 - [Quyển 12 — Sống ngay bây giờ và rời sân khấu thanh thản](Books/Meditations/Q12-hien-tai-va-man-ket-thuc.md)
 - [Phụ lục — Giờ khắc cuối cùng của hoàng đế triết gia](Books/Meditations/PL-gio-khac-cuoi-cung-cua-hoang-de-triet-gia.md) — trích Donald Robertson, *How to Think Like a Roman Emperor* (2019)
 
+## A Guide to the Good Life
+
+William B. Irvine, *A Guide to the Good Life: The Ancient Art of Stoic Joy* (Oxford University Press, 2009), đọc qua bản dịch tiếng Việt *Chủ nghĩa Khắc kỷ* (ebook, không ghi dịch giả). Mỗi chương một file, đi qua đủ mọi ý, câu chuyện và câu trích của các nhà Khắc kỷ theo thứ tự trong sách: lịch sử trường phái từ Zeno tới Marcus Aurelius, năm kỹ thuật tâm lý (tưởng tượng tiêu cực, phân định điều trong và ngoài quyền kiểm soát, thuyết vận mệnh, tự tiết chế, suy ngẫm), lời khuyên về xúc phạm, đau buồn, cơn giận, danh vọng, xa hoa, tuổi già và cái chết, và cách Irvine điều chỉnh chủ nghĩa Khắc kỷ cho người hiện đại; kèm đánh giá và vận dụng. Lỗi dịch được ghi rõ cùng nghĩa đúng. Xem [tổng quan, mục lục và lưu ý về nguồn](Books/A%20Guide%20to%20the%20Good%20Life/README.md).
+
 ## Economics in One Lesson
 
 Henry Hazlitt, *Kinh tế học trong một bài học* (*Economics in One Lesson*, 1946), nguyên bản tiếng Anh, ấn bản 1946 (bản in FEE 1952). Mỗi chương một file, giữ lại luận điểm Hazlitt chứng minh, kèm đánh giá và vận dụng vào tư duy kinh doanh. Xem [tổng quan và chuỗi lập luận](Books/Economics%20in%20One%20Lesson/README.md).
