@@ -8,7 +8,7 @@
 
 > **Lưu ý về nguồn:**
 > - **Ebook không có số trang in.** Các file ghi vị trí bằng "trang PDF n" (đánh số từ 0).
-> - **Bản dịch có thể thiếu một chương (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).** Nguyên tác có 22 chương, trong đó có chương "Exile: On Surviving a Change of Place" (lưu đày) nằm giữa chương về cuộc sống xa hoa và chương về tuổi già. Bản dịch chỉ có 21 chương và không có chương này, trong khi Chương 16 và 18 của bản dịch vẫn nhắc chuyện lưu đày như điều người đọc đã biết. Nếu đúng vậy, số chương từ Chương 16 trở đi của bản dịch kém nguyên tác một số. Các file giữ cách đánh số của bản dịch.
+> - **Bản dịch thiếu một chương và phần cuối sách (đã đối chiếu mục lục nguyên tác trên [trang Oxford Academic](https://academic.oup.com/book/50088)).** Nguyên tác có 22 chương. Chương 16 "Exile: On Surviving a Change of Place" (lưu đày: sống sót qua việc phải đổi chỗ ở) nằm giữa chương về cuộc sống xa hoa và chương về tuổi già. Bản dịch chỉ có 21 chương và bỏ chương này, trong khi Chương 16 và 18 của bản dịch vẫn nhắc chuyện lưu đày như điều người đọc đã biết. Bản dịch cũng bỏ hai phần cuối sách của nguyên tác: "A Stoic Reading Program" (danh mục sách nên đọc về chủ nghĩa Khắc kỷ) và "Notes" (chú thích). Các file giữ cách đánh số của bản dịch; số chương nguyên tác ghi trong ngoặc ở mục lục bên dưới.
 > - **Cùng một mục tiêu được dịch bằng hai chữ.** Chữ *tranquility* (mục tiêu sống mà Irvine đặt lên hàng đầu) được dịch phần lớn là "sự bình thản", đôi chỗ là "sự thanh thản". Mỗi file giữ chữ của chương mình và ghi rõ hai chữ là một.
 > - **"Chủ nghĩa Yếm thế" là cách bản dịch gọi phái Khuyển nho (Cynicism)**, dễ hiểu lầm thành bi quan, chán đời; ở một chỗ (Chương 20) phái này còn bị gọi nhầm là "phái Hoài nghi". Một chữ "Vận mệnh" được dùng cho cả *Fate* (định mệnh, Chương 6) lẫn *Fortune* (vận may, Chương 4).
 > - **Một số câu bị dịch ngược hoặc lệch nghĩa**, ví dụ:
@@ -18,7 +18,7 @@
 >   - Chương 21: "mà không ai hay biết" (*without anyone being the wiser*) bị dịch thành "mà không cần phải trở nên uyên thâm hơn"; câu "tôi thực hành chưa được bao lâu" bị dịch thành "tôi không còn luyện tập từ rất lâu rồi".
 >   
 >   Mỗi lỗi được ghi kèm nghĩa đúng trong khối Lưu ý của file chương đó.
-> - **Chỗ sách hẹn "ở chương 19"** sẽ giải thích cách thực hành chủ nghĩa Khắc kỷ mà không cần tin thần Zeus (Chương 3 và 5); nội dung đó nằm ở Chương 20 của bản dịch.
+> - **Chỗ sách hẹn "ở chương 19"** sẽ giải thích cách thực hành chủ nghĩa Khắc kỷ mà không cần tin thần Zeus (Chương 3 và 5); nội dung đó nằm ở Chương 20 của bản dịch, tức Chương 21 "Stoicism Reconsidered" của nguyên tác.
 > - **Irvine chủ động sửa chủ nghĩa Khắc kỷ**, và đôi chỗ trình bày phần sửa của mình như thể của người xưa: ông đặt sự bình thản lên trước đức hạnh, đổi "sự lưỡng phân của quyền kiểm soát" thành tam phân (thêm loại "kiểm soát một phần" và cách nội tại hoá mục tiêu), giới hạn thuyết vận mệnh vào quá khứ và hiện tại, và thay nền tảng thần học (thần Zeus, *logos*) bằng tâm lý học tiến hoá. Các file đánh dấu từng chỗ.
 > - **Số mục của các câu trích cổ điển** (*Suy tưởng*, *Cẩm nang* của Epictetus, *Thư gửi Lucilius* của Seneca) thường không được ghi trong lời văn của ebook; số mục mà các file nêu là theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác. Nội dung các chú thích dấu sao trong ebook bị mất.
 > - Ebook còn nhiều lỗi chính tả và ngoặc kép lệch; các lỗi được liệt kê theo trang trong từng file.
@@ -92,14 +92,15 @@
 - [Chương 13 — Cơn giận: Vượt qua tâm thế phản đối niềm vui](C13-con-gian.md)
 - [Chương 14 — Những giá trị cá nhân 1: Bàn về việc theo đuổi danh vọng](C14-gia-tri-ca-nhan-danh-vong.md)
 - [Chương 15 — Những giá trị cá nhân 2: Bàn về cuộc sống xa hoa](C15-gia-tri-ca-nhan-cuoc-song-xa-hoa.md)
-- [Chương 16 — Tuổi già: Bàn về việc bị gửi vào viện dưỡng lão](C16-tuoi-gia.md)
-- [Chương 17 — Chết: Bàn về kết thúc êm đẹp cho một cuộc đời viên mãn](C17-chet.md)
-- [Chương 18 — Trở thành người Khắc kỷ: Bắt đầu ngay bây giờ và chuẩn bị tinh thần bị chế nhạo](C18-tro-thanh-nguoi-khac-ky.md)
+- *(Nguyên tác Chương 16 — Lưu đày: Sống sót qua việc phải đổi chỗ ở (Exile: On Surviving a Change of Place); bản dịch bỏ chương này, nên không có bản tổng hợp)*
+- [Chương 16 — Tuổi già: Bàn về việc bị gửi vào viện dưỡng lão](C16-tuoi-gia.md) (nguyên tác: Chương 17)
+- [Chương 17 — Chết: Bàn về kết thúc êm đẹp cho một cuộc đời viên mãn](C17-chet.md) (nguyên tác: Chương 18)
+- [Chương 18 — Trở thành người Khắc kỷ: Bắt đầu ngay bây giờ và chuẩn bị tinh thần bị chế nhạo](C18-tro-thanh-nguoi-khac-ky.md) (nguyên tác: Chương 19)
 
 **Phần Bốn — Chủ nghĩa Khắc kỷ trong cuộc sống hiện đại**
-- [Chương 19 — Sự suy tàn của chủ nghĩa Khắc kỷ](C19-su-suy-tan-cua-chu-nghia-khac-ky.md)
-- [Chương 20 — Xét lại chủ nghĩa Khắc kỷ](C20-xet-lai-chu-nghia-khac-ky.md)
-- [Chương 21 — Thực hành chủ nghĩa Khắc kỷ](C21-thuc-hanh-chu-nghia-khac-ky.md)
+- [Chương 19 — Sự suy tàn của chủ nghĩa Khắc kỷ](C19-su-suy-tan-cua-chu-nghia-khac-ky.md) (nguyên tác: Chương 20)
+- [Chương 20 — Xét lại chủ nghĩa Khắc kỷ](C20-xet-lai-chu-nghia-khac-ky.md) (nguyên tác: Chương 21)
+- [Chương 21 — Thực hành chủ nghĩa Khắc kỷ](C21-thuc-hanh-chu-nghia-khac-ky.md) (nguyên tác: Chương 22)
 
 ## Gợi ý đọc
 
