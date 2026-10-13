@@ -311,6 +311,10 @@ Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Intro
 
 David Spiegelhalter, *The Art of Statistics: How to Learn from Data* (Pelican 2019; bản Mỹ Basic Books 2019), bản ebook tiếng Anh. Mỗi chương một file, đi qua đủ từng tiểu mục theo thứ tự trong sách, chép lại mọi bảng, đọc số liệu từ mọi hình, đưa chú thích vào đúng chỗ và tính lại mọi phép tính: tỷ lệ và cách trình bày rủi ro, tóm tắt số liệu, tổng thể và chọn mẫu, nhân quả, hồi quy, thuật toán dự báo, ước lượng và bootstrap, xác suất, khoảng tin cậy, giá trị P, cách tiếp cận Bayes, khủng hoảng tái lập và cách làm thống kê tốt hơn; kèm bảng thuật ngữ 158 mục. Các lỗi tính toán và chỗ viết chưa chặt của sách được ghi rõ cùng số đúng. Xem [tổng quan, mục lục và lưu ý về nguồn](Books/The%20Art%20of%20Statistics/README.md).
 
+## The Mathematics of Poker
+
+Bill Chen và Jerrod Ankenman, *The Mathematics of Poker* (ConJelCo, 2006, ấn bản đầu tiên), bản PDF tiếng Anh. Mỗi chương một file, đi qua đủ từng mục và từng ví dụ theo thứ tự trong sách, chép lại mọi công thức kèm từng bước giải, mọi bảng (kể cả bảng jam-or-fold) và đọc số từ mọi hình, tính lại mọi phép tính bằng phân số chính xác, tích phân số hoặc mô phỏng: xác suất, kỳ vọng, phương sai và Bayes trong poker, pot odds và implied odds, chơi khai thác, lý thuyết trò chơi qua các trò chơi đồ chơi (nửa vòng, AKQ, [0,1], jam-or-fold), chọn mức cược no-limit, trò chơi nhiều vòng cược, rủi ro phá sản, tiêu chuẩn Kelly, lý thuyết danh mục và thoả thuận tài trợ, mô hình equity giải đấu và trò chơi nhiều người; kèm đánh giá, thay đổi từ 2006 và cách vận dụng. Các lỗi in và lỗi tính toán của sách được ghi rõ cùng số đúng. Xem [tổng quan, mục lục và lưu ý về nguồn](Books/The%20Mathematics%20of%20Poker/README.md).
+
 ## Basic Economics
 
 Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), bản tiếng Anh. Mỗi chương một file, giữ lại điều tác giả muốn người đọc hiểu cùng ví dụ và số liệu, kèm đánh giá và vận dụng vào tư duy kinh doanh. Xem [tổng quan và chuỗi lập luận](Books/Basic%20Economics/README.md).
