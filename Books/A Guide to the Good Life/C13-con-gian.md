@@ -325,7 +325,7 @@ Ngoài bài tập thời Vespasian ([Quyển 4, mục 4.32](../Meditations/Q04-n
 
 ### Giả định ngầm: người giận có thể dừng lại để suy xét trước khi cơn giận chiếm lấy mình
 
-Hầu hết kỹ thuật của chương cần một khoảnh khắc dừng lại (xét ý nghĩa vũ trụ, nhớ lỗi của mình, đổi nét mặt). Với cơn giận bùng nhanh, khoảnh khắc ấy rất ngắn. Vì thế trọng tâm thật của chương là phòng ngừa: tự tiết chế để bớt nhạy cảm, tập trước những cách nghĩ để chúng có sẵn khi cần. Đây cũng là lý do Irvine coi thực hành đều đặn (Chương 21, [C21-thuc-hanh-chu-nghia-khac-ky.md](C21-thuc-hanh-chu-nghia-khac-ky.md)) là điều kiện để các kỹ thuật có tác dụng.
+Hầu hết kỹ thuật của chương cần một khoảnh khắc dừng lại (xét ý nghĩa vũ trụ, nhớ lỗi của mình, đổi nét mặt). Với cơn giận bùng nhanh, khoảnh khắc ấy rất ngắn. Vì thế trọng tâm thật của chương là phòng ngừa: tự tiết chế để bớt nhạy cảm, tập trước những cách nghĩ để chúng có sẵn khi cần. Đây cũng là lý do Irvine coi thực hành đều đặn (Chương 22, [C22-thuc-hanh-chu-nghia-khac-ky.md](C22-thuc-hanh-chu-nghia-khac-ky.md)) là điều kiện để các kỹ thuật có tác dụng.
 
 ### Vận dụng: phân biệt phiền toái với tổn hại, và không ra quyết định khi đang giận
 

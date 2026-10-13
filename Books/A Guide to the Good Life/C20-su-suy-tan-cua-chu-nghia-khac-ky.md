@@ -1,8 +1,8 @@
-# Chương 19 — Sự suy tàn của chủ nghĩa Khắc kỷ (The Decline of Stoicism)
+# Chương 20 — Sự suy tàn của chủ nghĩa Khắc kỷ (The Decline of Stoicism)
 
-**Nguồn:** William B. Irvine, *A Guide to the Good Life: The Ancient Art of Stoic Joy* (Oxford University Press, 2009), bản dịch tiếng Việt *Chủ nghĩa Khắc kỷ* (ebook PDF, không ghi dịch giả), Chương 19 "Sự suy tàn của chủ nghĩa Khắc kỷ", trang PDF 165–180 (trang PDF 165 là trang mở Phần Bốn "Chủ nghĩa Khắc kỷ trong cuộc sống hiện đại").
+**Nguồn:** William B. Irvine, *A Guide to the Good Life: The Ancient Art of Stoic Joy* (Oxford University Press, 2009), bản dịch tiếng Việt *Chủ nghĩa Khắc kỷ* (ebook PDF, không ghi dịch giả), Chương 19 của bản dịch (Chương 20 của nguyên tác) "Sự suy tàn của chủ nghĩa Khắc kỷ", trang PDF 165–180 (trang PDF 165 là trang mở Phần Bốn "Chủ nghĩa Khắc kỷ trong cuộc sống hiện đại").
 **Tác giả:** William B. Irvine, giáo sư triết học Đại học Wright State, Dayton, Ohio (Mỹ); tự thực hành chủ nghĩa Khắc kỷ và viết sách để giới thiệu nó như một triết lý sống cho người hiện đại.
-**Vị trí trong lập luận của cả cuốn sách:** Phần Ba khép lại bằng Chương 18 ([C18-tro-thanh-nguoi-khac-ky.md](C18-tro-thanh-nguoi-khac-ky.md)), nơi Irvine khuyên người muốn theo chủ nghĩa Khắc kỷ bắt đầu ngay, thực hành kín đáo và chuẩn bị tinh thần bị chế nhạo. Chương 19 mở Phần Bốn, phần đặt chủ nghĩa Khắc kỷ vào đời sống hiện đại. Chương này kể chủ nghĩa Khắc kỷ đã suy tàn ra sao sau Marcus Aurelius, rồi lần lượt xét bốn trở ngại khiến người hiện đại ác cảm với nó: tâm lý học, chính trị, triết học học thuật và mức độ tự kiểm soát mà nó đòi hỏi. Chương 20 ([C20-xet-lai-chu-nghia-khac-ky.md](C20-xet-lai-chu-nghia-khac-ky.md)) sẽ xét lại chủ nghĩa Khắc kỷ từ bên trong: Irvine giữ mục tiêu sự bình thản (còn gọi là sự thanh thản) và các kỹ thuật tâm lý, nhưng thay lý lẽ biện minh dựa trên thần Zeus bằng lý lẽ dựa trên tâm lý học tiến hóa. Chương 21 ([C21-thuc-hanh-chu-nghia-khac-ky.md](C21-thuc-hanh-chu-nghia-khac-ky.md)) khép sách bằng kinh nghiệm thực hành của chính tác giả.
+**Vị trí trong lập luận của cả cuốn sách:** Phần Ba khép lại bằng Chương 19 ([C19-tro-thanh-nguoi-khac-ky.md](C19-tro-thanh-nguoi-khac-ky.md)), nơi Irvine khuyên người muốn theo chủ nghĩa Khắc kỷ bắt đầu ngay, thực hành kín đáo và chuẩn bị tinh thần bị chế nhạo. Chương 20 mở Phần Bốn, phần đặt chủ nghĩa Khắc kỷ vào đời sống hiện đại. Chương này kể chủ nghĩa Khắc kỷ đã suy tàn ra sao sau Marcus Aurelius, rồi lần lượt xét bốn trở ngại khiến người hiện đại ác cảm với nó: tâm lý học, chính trị, triết học học thuật và mức độ tự kiểm soát mà nó đòi hỏi. Chương 21 ([C21-xet-lai-chu-nghia-khac-ky.md](C21-xet-lai-chu-nghia-khac-ky.md)) sẽ xét lại chủ nghĩa Khắc kỷ từ bên trong: Irvine giữ mục tiêu sự bình thản (còn gọi là sự thanh thản) và các kỹ thuật tâm lý, nhưng thay lý lẽ biện minh dựa trên thần Zeus bằng lý lẽ dựa trên tâm lý học tiến hóa. Chương 22 ([C22-thuc-hanh-chu-nghia-khac-ky.md](C22-thuc-hanh-chu-nghia-khac-ky.md)) khép sách bằng kinh nghiệm thực hành của chính tác giả.
 
 **Ý chính:** **Irvine cho rằng chủ nghĩa Khắc kỷ suy tàn không phải vì nó sai, mà vì hoàn cảnh lịch sử và vì những định kiến của thời hiện đại; xét kỹ từng định kiến ấy thì lời khuyên Khắc kỷ vẫn đứng vững, và có khi còn đúng hơn quan điểm đang thịnh hành.** Sau khi Marcus Aurelius chết, chủ nghĩa Khắc kỷ rơi vào khủng hoảng và chưa bao giờ hồi phục. Có nhiều cách giải thích: nhà sử học Lecky đổ cho sự suy đồi của xã hội La Mã; nhà cổ điển học Clarke đổ cho việc thiếu những người thầy có sức cuốn hút sau Epictetus; còn Ki-tô giáo thì cạnh tranh trực tiếp vì nó nói nhiều điều giống chủ nghĩa Khắc kỷ nhưng hứa thêm một đời sau hạnh phúc vĩnh viễn. Về sau chủ nghĩa Khắc kỷ chỉ le lói lại ở Descartes, Schopenhauer và Thoreau; sang thế kỷ 20 thì nó gần như bị quên, và người ta nghĩ người Khắc kỷ là những kẻ buồn tẻ, khắc nghiệt, vô cảm. Irvine xét bốn lý do khiến người hiện đại ác cảm. (1) Tâm lý học hiện đại bảo phải giải tỏa cảm xúc, nhất là nỗi đau buồn, và nhờ chuyên gia tham vấn; Irvine đáp rằng người Khắc kỷ không chôn chặt cảm xúc mà ngăn ngừa và vượt qua nó, và dẫn chứng (Aberfan, người Anh trong Thế chiến thứ hai, nghiên cứu về cha mẹ mất con vì đột tử sơ sinh, lý thuyết "nỗi đau bị trì hoãn" thiếu bằng chứng) để cho thấy con người kiên cường hơn các nhà trị liệu tưởng. (2) Chính trị hiện đại dạy người ta coi mình là nạn nhân và chờ chính phủ trao hạnh phúc; người Khắc kỷ vẫn ủng hộ cải cách xã hội nhưng cho rằng bước thứ nhất là dạy mỗi người làm hạnh phúc của mình ít phụ thuộc vào hoàn cảnh bên ngoài. (3) Triết học thế kỷ 20 chuyển sang phân tích ngôn ngữ và không còn coi việc khuyên người ta sống thế nào là việc của mình. (4) Chủ nghĩa Khắc kỷ đòi kiểm soát ham muốn và làm tròn bổn phận, nên nghe như công thức của sự bất hạnh; Irvine đáp rằng chiến lược thỏa mãn mọi ham muốn không bao giờ đem lại thỏa mãn vì ham muốn mới liên tục thế chỗ, còn làm chủ ham muốn mới là con đường chắc hơn, và với người Khắc kỷ bổn phận không phải là hy sinh, giống như cha mẹ tốt không coi việc nuôi con là gánh nặng.
 
@@ -22,11 +22,11 @@
 
 ```text
        PHẦN BỐN: CHỦ NGHĨA KHẮC KỶ TRONG CUỘC SỐNG HIỆN ĐẠI
-       · Chương 19: chủ nghĩa Khắc kỷ đã suy tàn ra sao, và vì sao người
+       · Chương 20: chủ nghĩa Khắc kỷ đã suy tàn ra sao, và vì sao người
          hiện đại ác cảm với nó
-       · Chương 20: Irvine xét lại học thuyết, chọn giữ và bỏ những phần
+       · Chương 21: Irvine xét lại học thuyết, chọn giữ và bỏ những phần
          nào
-       · Chương 21: Irvine kể kinh nghiệm tự thực hành
+       · Chương 22: Irvine kể kinh nghiệm tự thực hành
 ```
 
 ### Sau cái chết của Marcus Aurelius: vì sao chủ nghĩa Khắc kỷ suy tàn (trang PDF 166–167)
@@ -284,7 +284,7 @@
 
 ### 1. Trang mở Phần Bốn
 
-Trang PDF 165 là trang tiêu đề "Phần Bốn: Chủ nghĩa Khắc kỷ trong cuộc sống hiện đại". Phần này gồm ba chương cuối: Chương 19 về sự suy tàn của chủ nghĩa Khắc kỷ và những trở ngại khiến người hiện đại không chấp nhận nó, Chương 20 về việc Irvine xét lại học thuyết, và Chương 21 về việc thực hành.
+Trang PDF 165 là trang tiêu đề "Phần Bốn: Chủ nghĩa Khắc kỷ trong cuộc sống hiện đại". Phần này gồm ba chương cuối: Chương 20 về sự suy tàn của chủ nghĩa Khắc kỷ và những trở ngại khiến người hiện đại không chấp nhận nó, Chương 21 về việc Irvine xét lại học thuyết, và Chương 22 về việc thực hành.
 
 ### 2. Sau Marcus Aurelius: vì sao chủ nghĩa Khắc kỷ suy tàn
 
@@ -488,7 +488,7 @@ Irvine đi ngược "quan điểm đồng thuận" của giới trị liệu ở
 
 ### Irvine vẽ lại người Khắc kỷ thành người "giảm thiểu" cảm xúc, mềm hơn hình ảnh Khắc kỷ cổ điển
 
-Khắc kỷ cổ điển (Chrysippus, Epictetus) hướng tới việc không có "đam mê" (*apatheia*), tức là không có những cảm xúc sinh ra từ phán đoán sai; họ chỉ chấp nhận những phản ứng ban đầu không tự chủ (*propatheiai*) như giật mình hay rơi nước mắt. Irvine nói mục tiêu là "giảm thiểu" và rằng vài nỗi sợ, vài cơn giận là không tránh được. Cách nói này gần với Seneca trong thư an ủi hơn là với Epictetus, và nó là một phần của dự án điều chỉnh chủ nghĩa Khắc kỷ mà Irvine sẽ nói rõ ở Chương 20, nơi ông nói thẳng rằng mình đã điều chỉnh học thuyết và lấy sự bình thản (sự thanh thản), chứ không phải đức hạnh, làm mục tiêu trung tâm.
+Khắc kỷ cổ điển (Chrysippus, Epictetus) hướng tới việc không có "đam mê" (*apatheia*), tức là không có những cảm xúc sinh ra từ phán đoán sai; họ chỉ chấp nhận những phản ứng ban đầu không tự chủ (*propatheiai*) như giật mình hay rơi nước mắt. Irvine nói mục tiêu là "giảm thiểu" và rằng vài nỗi sợ, vài cơn giận là không tránh được. Cách nói này gần với Seneca trong thư an ủi hơn là với Epictetus, và nó là một phần của dự án điều chỉnh chủ nghĩa Khắc kỷ mà Irvine sẽ nói rõ ở Chương 21, nơi ông nói thẳng rằng mình đã điều chỉnh học thuyết và lấy sự bình thản (sự thanh thản), chứ không phải đức hạnh, làm mục tiêu trung tâm.
 
 ### Phần chính trị chạm vào một căng thẳng thật của chủ nghĩa Khắc kỷ mà Irvine chỉ giải quyết một nửa
 

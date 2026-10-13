@@ -398,11 +398,11 @@ Các văn bản Khắc kỷ nói nhiều về tiếng tăm và lời khen, nhưn
 
 ### Lời khuyên "che giấu sự dửng dưng" cho thấy chủ nghĩa Khắc kỷ của Irvine là một kỷ luật bên trong, không phải một thái độ xã hội
 
-Chi tiết "đừng cười thành tiếng" đáng chú ý. Nó cho thấy người Khắc kỷ không đi khắp nơi tuyên bố mình không cần ai, vì như vậy vừa xúc phạm người khác vừa ngầm đòi được chú ý (một dạng tìm danh tiếng khác). Ý này nối với Chương 18 ([C18-tro-thanh-nguoi-khac-ky.md](C18-tro-thanh-nguoi-khac-ky.md)), nơi Irvine khuyên thực hành "chủ nghĩa Khắc kỷ kín đáo".
+Chi tiết "đừng cười thành tiếng" đáng chú ý. Nó cho thấy người Khắc kỷ không đi khắp nơi tuyên bố mình không cần ai, vì như vậy vừa xúc phạm người khác vừa ngầm đòi được chú ý (một dạng tìm danh tiếng khác). Ý này nối với Chương 19 ([C19-tro-thanh-nguoi-khac-ky.md](C19-tro-thanh-nguoi-khac-ky.md)), nơi Irvine khuyên thực hành "chủ nghĩa Khắc kỷ kín đáo".
 
 ### Có một căng thẳng giữa bài tập của Cato và lời khuyên thực hành kín đáo
 
-Cato cố tình ăn mặc khác người để bị chê; đây là một hành vi rất dễ thấy. Trong khi đó Irvine ở Chương 18 khuyên đừng gây chú ý để khỏi bị chế nhạo. Hai lời khuyên không hẳn mâu thuẫn: Cato không tuyên bố triết lý của mình, ông chỉ làm điều khác thường để tập chịu sự khinh miệt. Nhưng người đọc hiện đại muốn làm theo cần chọn những bài tập nhỏ, vô hại và không gây phiền cho người khác (ví dụ mặc đồ cũ tới một buổi gặp, nói "tôi không biết" trong cuộc họp), chứ không phải những hành động gây sốc.
+Cato cố tình ăn mặc khác người để bị chê; đây là một hành vi rất dễ thấy. Trong khi đó Irvine ở Chương 19 khuyên đừng gây chú ý để khỏi bị chế nhạo. Hai lời khuyên không hẳn mâu thuẫn: Cato không tuyên bố triết lý của mình, ông chỉ làm điều khác thường để tập chịu sự khinh miệt. Nhưng người đọc hiện đại muốn làm theo cần chọn những bài tập nhỏ, vô hại và không gây phiền cho người khác (ví dụ mặc đồ cũ tới một buổi gặp, nói "tôi không biết" trong cuộc họp), chứ không phải những hành động gây sốc.
 
 ### Liên hệ với *Suy tưởng*: Marcus vừa coi danh tiếng là rỗng vừa là người nổi tiếng nhất đế chế
 

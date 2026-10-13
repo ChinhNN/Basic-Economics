@@ -467,7 +467,7 @@ Irvine giả định rằng sự nhất quán là một giá trị. Có thể ph
 
 ### Đa nguyên của Irvine là một điểm khác lớn với các nhà Khắc kỷ cổ đại
 
-Zeno, Chrysippus, Epictetus tin rằng lý trí phổ quát chỉ ra một con đường sống đúng cho mọi sinh vật có lý trí. Irvine bỏ tham vọng đó và nói chọn theo tính cách, hoàn cảnh. Điều này khớp với cách ông điều chỉnh chủ nghĩa Khắc kỷ ở các chương sau (đặt sự bình thản lên trước đức hạnh, thay nền tảng thần học bằng tâm lý học tiến hóa ở Chương 20). Liên hệ với *Suy tưởng*: Marcus Aurelius cảm ơn các thần vì đã không để ông sa vào tam đoạn luận và thiên văn (*Suy tưởng* 1.17, xem [Quyển 1](../Meditations/Q01-nhung-bai-hoc-va-long-biet-on.md)); ông cũng ưu tiên mặt thực tiễn, nhưng vẫn tin vào một lý trí chung của vũ trụ, điều Irvine không đòi hỏi người đọc phải tin.
+Zeno, Chrysippus, Epictetus tin rằng lý trí phổ quát chỉ ra một con đường sống đúng cho mọi sinh vật có lý trí. Irvine bỏ tham vọng đó và nói chọn theo tính cách, hoàn cảnh. Điều này khớp với cách ông điều chỉnh chủ nghĩa Khắc kỷ ở các chương sau (đặt sự bình thản lên trước đức hạnh, thay nền tảng thần học bằng tâm lý học tiến hóa ở Chương 21). Liên hệ với *Suy tưởng*: Marcus Aurelius cảm ơn các thần vì đã không để ông sa vào tam đoạn luận và thiên văn (*Suy tưởng* 1.17, xem [Quyển 1](../Meditations/Q01-nhung-bai-hoc-va-long-biet-on.md)); ông cũng ưu tiên mặt thực tiễn, nhưng vẫn tin vào một lý trí chung của vũ trụ, điều Irvine không đòi hỏi người đọc phải tin.
 
 ### Vận dụng: lập "ngôi trường ảo" cho chính mình trong công việc, đầu tư và đời sống
 

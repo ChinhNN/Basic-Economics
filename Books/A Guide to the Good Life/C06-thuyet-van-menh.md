@@ -320,7 +320,7 @@ Mở ra nan đề của Chương 14 và 15.
 
 ### Phân biệt vận mệnh về quá khứ, hiện tại và tương lai là một công cụ thực hành tốt, dù không trung thành với học thuyết cổ
 
-Irvine biến một học thuyết siêu hình khó chấp nhận (mọi sự đã định) thành một lời khuyên tâm lý mà hầu như ai cũng đồng ý (đừng dằn vặt về điều không thể đổi). Cái giá là sự trung thành lịch sử: các nhà Khắc kỷ cổ tin tất định toàn diện và giải quyết câu đố "sao còn cố gắng" theo cách khác (nỗ lực là một phần của định mệnh). Người đọc nên nhớ rằng phần "tôi cho rằng" trong chương là diễn giải của Irvine. Điều này nhất quán với cách tiếp cận chung của ông, được giải thích ở Chương 20 ([C20-xet-lai-chu-nghia-khac-ky.md](C20-xet-lai-chu-nghia-khac-ky.md)): giữ những gì dùng được, bỏ phần siêu hình.
+Irvine biến một học thuyết siêu hình khó chấp nhận (mọi sự đã định) thành một lời khuyên tâm lý mà hầu như ai cũng đồng ý (đừng dằn vặt về điều không thể đổi). Cái giá là sự trung thành lịch sử: các nhà Khắc kỷ cổ tin tất định toàn diện và giải quyết câu đố "sao còn cố gắng" theo cách khác (nỗ lực là một phần của định mệnh). Người đọc nên nhớ rằng phần "tôi cho rằng" trong chương là diễn giải của Irvine. Điều này nhất quán với cách tiếp cận chung của ông, được giải thích ở Chương 21 ([C21-xet-lai-chu-nghia-khac-ky.md](C21-xet-lai-chu-nghia-khac-ky.md)): giữ những gì dùng được, bỏ phần siêu hình.
 
 ### Lập luận về "hiện tại không thể đổi" hơi mang tính kỹ thuật, nhưng hệ quả thực hành vững
 

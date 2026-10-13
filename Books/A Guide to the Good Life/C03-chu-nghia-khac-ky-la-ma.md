@@ -7,7 +7,7 @@
 **Ý chính:** **Irvine cho rằng bốn nhà Khắc kỷ La Mã bổ sung hoàn hảo cho nhau (Seneca viết hay nhất, Musonius thực dụng nhất, Epictetus phân tích sắc nhất, Marcus cho thấy nội tâm của một người thực hành), rằng cả bốn đều sống tích cực giữa đời và coi trọng niềm vui, và rằng lý lẽ nền tảng của họ dựa trên thần Zeus nhưng người hiện đại có thể bỏ phần đó mà vẫn dùng được các kỹ thuật.** Seneca (sinh khoảng 4–1 trước Công nguyên ở Corduba) là nhà soạn kịch, nhà tài chính giàu có và cố vấn của Nero; bị Claudius đày ra Corsica tám năm, được gọi về dạy Nero, giữ cho đế chế năm năm yên ổn, rồi bị Nero buộc chết năm 65 và chết một cách khó khăn. Lời buộc tội đạo đức giả vì giàu có không đứng vững vì chủ nghĩa Khắc kỷ không đòi khổ hạnh. Seneca nói rõ mục tiêu là sự bình thản và một niềm vui sâu sắc từ bên trong; "nhà Khắc kỷ hoan hỉ" không phải mâu thuẫn. Musonius Rufus (sinh khoảng năm 30) bỏ đường chính trị để mở trường, không viết sách, bài giảng do học trò Lucius ghi lại; ông bị Nero đày ra đảo Gyara hoang vắng nhưng tìm được suối nước và vẫn có học trò đến thăm. Ông cho rằng phải học triết để sống tốt, bài giảng phải khiến người nghe xấu hổ và im lặng, người học triết phải tham gia đời sống xã hội, và phụ nữ cũng có lý trí nên cũng nên học triết. Epictetus (sinh khoảng 50–60) là nô lệ của Epaphroditus, thư ký của Nero; được tự do sau khi Nero chết, mở trường, bị Domitian trục xuất, chuyển trường về Nicopolis. Ông chỉ nhận học trò muốn được lợi từ triết học và hiểu nhiệm vụ của nó; trường của ông như phòng khám, ra về phải thấy khó chịu; ông dạy nghệ thuật sống như thợ mộc dạy nghề. Lý lẽ của ông dựa vào Zeus: Zeus tạo ra ta có lý trí như thần, không thể cho ta tự do khỏi thân xác và của cải nên cho ta khả năng lựa chọn, và như một huấn luyện viên, Zeus cho ta khó khăn để rèn ta. Irvine thừa nhận người hiện đại khó tin điều này và hứa sẽ chỉ cách thực hành không cần thần. Marcus Aurelius (121–180) học triết từ nhỏ, chịu ảnh hưởng của Apollonius, Rusticus và nhất là Epictetus; được Antoninus nhận làm con nuôi, làm hoàng đế khiêm tốn, kính trọng Viện Nguyên lão, bán đồ trong cung thay vì tăng thuế, là người cuối cùng trong "Năm bậc minh quân". Đời ông đầy khổ nạn (bệnh, mất con, vợ có tiếng không chung thủy, chiến tranh, phản loạn, dịch bệnh), nên ông nói nghệ thuật sống giống đấu vật hơn khiêu vũ. Ông không truyền bá chủ nghĩa Khắc kỷ, và *Suy tưởng* là nhật ký riêng. Ngày nay chủ nghĩa Khắc kỷ hầu như vắng bóng, theo Irvine không phải vì nó sai mà vì người hiện đại không tìm triết lý sống và hiểu sai nó; các chương sau sẽ chỉ cách thực hành.
 
 > **Lưu ý:**
-> - **"Ở chương 19, tôi sẽ trình bày kỹ hơn" có lẽ phải là Chương 20 (nhận xét của người tổng hợp).** Việc giải thích cách thực hành chủ nghĩa Khắc kỷ mà không cần tin vào thần Zeus, bằng cách thay lý lẽ thần học bằng lý lẽ của tâm lý học tiến hóa, nằm ở Chương 20 "Xét lại chủ nghĩa Khắc kỷ" ([C20-xet-lai-chu-nghia-khac-ky.md](C20-xet-lai-chu-nghia-khac-ky.md)). Chương 19 bàn về sự suy tàn của chủ nghĩa Khắc kỷ. Chưa đối chiếu nguyên tác để biết lỗi do tác giả hay người dịch.
+> - **"Ở chương 19, tôi sẽ trình bày kỹ hơn" có lẽ phải là Chương 21 (nhận xét của người tổng hợp).** Việc giải thích cách thực hành chủ nghĩa Khắc kỷ mà không cần tin vào thần Zeus, bằng cách thay lý lẽ thần học bằng lý lẽ của tâm lý học tiến hóa, nằm ở Chương 21 "Xét lại chủ nghĩa Khắc kỷ" ([C21-xet-lai-chu-nghia-khac-ky.md](C21-xet-lai-chu-nghia-khac-ky.md)). Chương 20 bàn về sự suy tàn của chủ nghĩa Khắc kỷ. Chưa đối chiếu nguyên tác để biết lỗi do tác giả hay người dịch.
 > - **Antoninus là cậu dượng bên nội của Marcus, không phải "cậu bên đằng ngoại" (theo hiểu biết của người tổng hợp, chưa đối chiếu nguyên tác).** Antoninus Pius lấy Faustina Cả, em gái của cha Marcus, nên ông là chồng của cô ruột Marcus. Tiếng Anh *uncle by marriage* dễ bị dịch thành "cậu".
 > - **Câu về Constantine bị dịch rối.** Bản dịch viết "Giống như sự chuyển biến của Đế chế La Mã Constantine mang lại lợi ích cho Cơ Đốc giáo". Theo mạch văn, nghĩa đúng là: việc hoàng đế Constantine cải đạo theo Cơ Đốc giáo đã mang lại lợi ích cho Cơ Đốc giáo, và tương tự, việc hoàng đế Marcus theo chủ nghĩa Khắc kỷ đã mang lại lợi ích cho chủ nghĩa Khắc kỷ.
 > - **"Tân Ước (18:12-16)" thiếu tên sách.** Đoạn kể Gallio từ chối xét xử Phao-lô (Thánh Paul) ở Corinth nằm ở sách Công vụ Tông đồ (Công vụ các Sứ đồ), chương 18, câu 12–17 (theo hiểu biết của người tổng hợp). Gallio là anh của Seneca; bài luận *Về đời sống hạnh phúc* (*De Vita Beata*) được viết tặng ông.
@@ -204,7 +204,7 @@
        mình là tạo vật của thần muốn điều tốt cho mình
        → Irvine: vẫn dùng được các chiến lược Khắc kỷ để đạt bình thản mà
          KHÔNG cần tin thần (giải thích ở chương sau; bản dịch ghi Chương
-         19, đúng ra là Chương 20)
+         19, đúng ra là Chương 21)
 ```
 
 ### Marcus Aurelius: hoàng đế triết gia (trang PDF 47–49)
@@ -398,7 +398,7 @@ Epictetus sẽ khuyên người học trò rằng muốn sống tốt thì phả
 
 ### 16. Người hiện đại không cần tin Zeus (trang PDF 47)
 
-Lời giải thích này có thể làm người cùng thời Epictetus thỏa mãn, nhưng gây khó chịu cho người thời nay: hầu như không ai tin Zeus tồn tại, và nhiều người không tin mình là tạo vật của một vị thần muốn điều tốt nhất cho mình. Nhiều người đọc sẽ nghĩ: nếu phải tin vào Zeus và đấng sáng tạo mới thực hành được chủ nghĩa Khắc kỷ, thì chủ nghĩa Khắc kỷ không hợp với tôi. Irvine trả lời rằng hoàn toàn có thể thực hành chủ nghĩa Khắc kỷ, cụ thể là dùng các chiến lược Khắc kỷ để đạt sự bình thản, mà không cần tin vào Zeus hay một đấng sáng tạo. Ông hứa trình bày cách làm ở một chương sau (bản dịch ghi Chương 19; nội dung này thực ra nằm ở Chương 20).
+Lời giải thích này có thể làm người cùng thời Epictetus thỏa mãn, nhưng gây khó chịu cho người thời nay: hầu như không ai tin Zeus tồn tại, và nhiều người không tin mình là tạo vật của một vị thần muốn điều tốt nhất cho mình. Nhiều người đọc sẽ nghĩ: nếu phải tin vào Zeus và đấng sáng tạo mới thực hành được chủ nghĩa Khắc kỷ, thì chủ nghĩa Khắc kỷ không hợp với tôi. Irvine trả lời rằng hoàn toàn có thể thực hành chủ nghĩa Khắc kỷ, cụ thể là dùng các chiến lược Khắc kỷ để đạt sự bình thản, mà không cần tin vào Zeus hay một đấng sáng tạo. Ông hứa trình bày cách làm ở một chương sau (bản dịch ghi Chương 19; nội dung này thực ra nằm ở Chương 21).
 
 ### 17. Marcus Aurelius: câu mở đầu ngày và nguồn hiểu biết về ông (trang PDF 47)
 
@@ -465,7 +465,7 @@ Ngày nay chủ nghĩa Khắc kỷ không còn vị thế như xưa. Irvine hỏ
 
 - **Lập luận của Epictetus:** Zeus tạo ra ta có lý trí; ta không làm chủ được thân xác và của cải nhưng làm chủ được lựa chọn; nghịch cảnh là bài tập của thầy thể dục; sống thuận theo tự nhiên được thưởng sự bình thản.
 - **Lập luận của Irvine:** người hiện đại không tin Zeus, nhưng các kỹ thuật vẫn hiệu quả, nên có thể giữ kỹ thuật và thay lý lẽ.
-- **Phản bác có thể:** nếu bỏ niềm tin vào một vũ trụ có lý trí và thiện ý, thì thái độ chấp nhận mọi điều xảy đến (thuyết vận mệnh, Chương 6) mất lý do; "nghịch cảnh là bài tập" trở thành một cách tự an ủi. Đây là thử thách mà Irvine phải giải quyết ở Chương 20.
+- **Phản bác có thể:** nếu bỏ niềm tin vào một vũ trụ có lý trí và thiện ý, thì thái độ chấp nhận mọi điều xảy đến (thuyết vận mệnh, Chương 6) mất lý do; "nghịch cảnh là bài tập" trở thành một cách tự an ủi. Đây là thử thách mà Irvine phải giải quyết ở Chương 21.
 
 ### 5. Triết học thật phải làm người học khó chịu và tự xét mình
 
@@ -475,7 +475,7 @@ Ngày nay chủ nghĩa Khắc kỷ không còn vị thế như xưa. Irvine hỏ
 ### 6. Chủ nghĩa Khắc kỷ biến mất không vì sai mà vì người ta không tìm triết lý sống và hiểu sai nó
 
 - **Lập luận:** người hiện đại làm việc để mua hàng tiêu dùng; ai có tìm triết lý sống thì không biết cách thực hành chủ nghĩa Khắc kỷ hoặc hiểu sai nó.
-- **Phản bác có thể:** chủ nghĩa Khắc kỷ suy tàn từ thời cổ đại, trước xã hội tiêu dùng; Chương 19 ([C19-su-suy-tan-cua-chu-nghia-khac-ky.md](C19-su-suy-tan-cua-chu-nghia-khac-ky.md)) sẽ bàn các nguyên nhân lịch sử (Cơ Đốc giáo cạnh tranh, thiếu người thầy có sức hút).
+- **Phản bác có thể:** chủ nghĩa Khắc kỷ suy tàn từ thời cổ đại, trước xã hội tiêu dùng; Chương 20 ([C20-su-suy-tan-cua-chu-nghia-khac-ky.md](C20-su-suy-tan-cua-chu-nghia-khac-ky.md)) sẽ bàn các nguyên nhân lịch sử (Cơ Đốc giáo cạnh tranh, thiếu người thầy có sức hút).
 
 ### Trong ngôn ngữ hôm nay
 
@@ -559,7 +559,7 @@ Danh sách khổ nạn của Marcus (bệnh, mất ít nhất tám người con,
 
 ### Irvine đặt Marcus làm "đỉnh cao" nhưng cũng là bằng chứng rằng chủ nghĩa Khắc kỷ không tự lan truyền
 
-Marcus không truyền bá học thuyết, và quần chúng không quan tâm. Điều này báo trước Chương 19 về sự suy tàn của chủ nghĩa Khắc kỷ. Nó cũng gợi một nghịch lý: chủ nghĩa Khắc kỷ coi trọng hành động hơn lời nói, nên người thực hành giỏi nhất lại là người im lặng nhất về nó.
+Marcus không truyền bá học thuyết, và quần chúng không quan tâm. Điều này báo trước Chương 20 về sự suy tàn của chủ nghĩa Khắc kỷ. Nó cũng gợi một nghịch lý: chủ nghĩa Khắc kỷ coi trọng hành động hơn lời nói, nên người thực hành giỏi nhất lại là người im lặng nhất về nó.
 
 ### Vận dụng: chọn "thầy" theo nhu cầu, coi khó khăn là bài tập, và giữ thái độ đúng với của cải
 

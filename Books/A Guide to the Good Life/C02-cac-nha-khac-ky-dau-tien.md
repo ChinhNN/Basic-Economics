@@ -402,7 +402,7 @@ Vì vậy, trong các chương sau, Irvine sẽ tập trung vào các nhà Khắ
 ### 2. Đức hạnh là làm tốt chức năng riêng của con người, và chức năng ấy là sống theo lý trí
 
 - **Lập luận:** mỗi vật có chức năng (cây búa đóng đinh); con người có bản năng chung với loài vật nhưng riêng có lý trí; vậy chức năng riêng của con người là sống theo lý trí, và lý trí chỉ ra bổn phận với đồng loại.
-- **Phản bác có thể:** lập luận "chức năng" giả định tự nhiên có mục đích, một tiền đề khó chấp nhận sau thuyết tiến hóa. Hơn nữa, điều khác biệt nhất của một loài chưa chắc là điều tốt nhất của loài đó. Irvine biết điểm yếu này và ở Chương 20 thay nền tảng thần học bằng tâm lý học tiến hóa.
+- **Phản bác có thể:** lập luận "chức năng" giả định tự nhiên có mục đích, một tiền đề khó chấp nhận sau thuyết tiến hóa. Hơn nữa, điều khác biệt nhất của một loài chưa chắc là điều tốt nhất của loài đó. Irvine biết điểm yếu này và ở Chương 21 thay nền tảng thần học bằng tâm lý học tiến hóa.
 
 ### 3. Đạo đức phục vụ đời sống tốt; lô-gic và vật lý phục vụ đạo đức
 
@@ -491,7 +491,7 @@ Irvine không giấu sự điều chỉnh này: ông nói thẳng sẽ tập tru
 
 ### Lập luận "chức năng" của đức hạnh rõ ràng và dễ hiểu, nhưng dựa trên một tiền đề mà Irvine sẽ phải thay thế
 
-Ví dụ cây búa làm khái niệm đức hạnh trở nên cụ thể và gạt được hình ảnh "nữ tu" gây ngán ngẩm. Nhưng câu "ta được định sẵn để làm sinh vật có lý trí" giả định một nhà thiết kế (thần Zeus, logos) hoặc ít nhất một tự nhiên có mục đích. Ở Chương 20 ([C20-xet-lai-chu-nghia-khac-ky.md](C20-xet-lai-chu-nghia-khac-ky.md)), Irvine sẽ thay lời biện minh này bằng tâm lý học tiến hóa. Chương 2 vì vậy trình bày đạo đức Khắc kỷ trung thành với nguồn, nhưng là nền tảng mà tác giả không giữ đến cuối.
+Ví dụ cây búa làm khái niệm đức hạnh trở nên cụ thể và gạt được hình ảnh "nữ tu" gây ngán ngẩm. Nhưng câu "ta được định sẵn để làm sinh vật có lý trí" giả định một nhà thiết kế (thần Zeus, logos) hoặc ít nhất một tự nhiên có mục đích. Ở Chương 21 ([C21-xet-lai-chu-nghia-khac-ky.md](C21-xet-lai-chu-nghia-khac-ky.md)), Irvine sẽ thay lời biện minh này bằng tâm lý học tiến hóa. Chương 2 vì vậy trình bày đạo đức Khắc kỷ trung thành với nguồn, nhưng là nền tảng mà tác giả không giữ đến cuối.
 
 ### Bức chân dung phái Yếm thế sống động và cho thấy nguồn gốc của nhiều kỹ thuật Khắc kỷ
 
