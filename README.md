@@ -327,6 +327,18 @@ Chip Huyen, *AI Engineering: Building Applications with Foundation Models* (O'Re
 
 Mauro F. Guillén, *2030: How Today's Biggest Trends Will Collide and Reshape the Future of Everything* (St. Martin's Press, 2020), đọc qua bản dịch tiếng Việt *2030: Những xu hướng lớn sẽ định hình thế giới tương lai* (Vũ Kiều Linh dịch, NXB Thế Giới và Phương Nam Book, 2022). Mỗi phần một file, đi qua đủ mọi mục con, câu chuyện, công ty và con số theo thứ tự trong sách, chép lại nội dung các hình và đưa chú thích của dịch giả vào đúng chỗ. Tám xu hướng của sách là: tỷ lệ sinh giảm và bùng nổ trẻ em châu Phi, "thị trường đầu bạc", tầng lớp trung lưu châu Á, phụ nữ nắm tài sản, đô thị và biến đổi khí hậu, công nghệ "nhảy cóc", nền kinh tế chia sẻ, tiền điện tử và blockchain. Ngoài ra có bảy nguyên tắc của Phần kết và Lời bạt về COVID-19. Mỗi file có đánh giá dự báo nào đã đúng hoặc sai tới năm 2026, và cách vận dụng. Các lỗi dịch, lỗi chữ và số liệu tự mâu thuẫn của bản dịch được ghi rõ cùng nghĩa đúng. Xem [tổng quan, mục lục và lưu ý về nguồn](Books/2030/README.md).
 
+## The Coming Wave
+
+Mustafa Suleyman với Michael Bhaskar, *The Coming Wave: Technology, Power, and the Twenty-First Century's Greatest Dilemma* (Crown, 2023), bản ebook tiếng Anh. Mỗi chương một file, đi qua đủ từng mục theo thứ tự trong sách, đưa nội dung chú thích cuối sách vào đúng chỗ, và trích câu đáng nhớ nguyên văn kèm bản dịch. Nội dung gồm:
+- làn sóng sắp tới với hai trụ cột AI và sinh học tổng hợp;
+- bài toán khống chế (containment) và bốn đặc điểm làm khống chế khó hơn: bất đối xứng, siêu tiến hoá, đa dụng toàn diện, tự chủ;
+- năm động lực không thể cản;
+- các tác nhân khuếch đại sự mong manh của nhà nước dân tộc;
+- thế lưỡng nan giữa thảm họa và chuyên chế;
+- mười bước tiến tới khống chế theo "con đường hẹp".
+
+Mỗi file có đánh giá nhận định nào đã đúng hoặc sai tới năm 2026, và cách vận dụng. Xem [tổng quan, mục lục và lưu ý về nguồn](Books/The%20Coming%20Wave/README.md).
+
 ## Basic Economics
 
 Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), bản tiếng Anh. Mỗi chương một file, giữ lại điều tác giả muốn người đọc hiểu cùng ví dụ và số liệu, kèm đánh giá và vận dụng vào tư duy kinh doanh. Xem [tổng quan và chuỗi lập luận](Books/Basic%20Economics/README.md).
