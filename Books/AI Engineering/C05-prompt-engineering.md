@@ -1,25 +1,16 @@
 # Chương 5 — Prompt engineering (Prompt Engineering)
 
-**Nguồn:** Chip Huyen, *AI Engineering: Building Applications with Foundation Models*, O'Reilly Media, ấn bản đầu tiên (12/2024), Chương 5 "Prompt Engineering", trang PDF 416–493.
-**Tác giả:** Chip Huyen — nhà văn và nhà khoa học máy tính chuyên về hệ thống học máy; từng làm ở NVIDIA, Snorkel AI, sáng lập một startup hạ tầng AI (sau được mua lại), dạy hệ thống học máy ở Đại học Stanford; tác giả *Designing Machine Learning Systems* (O'Reilly 2022) và bốn sách tiếng Việt bán chạy, trong đó có bộ *Xách ba lô lên và đi*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 ([C01-gioi-thieu-xay-dung-ung-dung-ai-voi-mo-hinh-nen-tang.md](C01-gioi-thieu-xay-dung-ung-dung-ai-voi-mo-hinh-nen-tang.md)) xếp prompt engineering, RAG và finetuning thành ba kỹ thuật thích nghi mô hình (model adaptation) chính; Chương 2 ([C02-hieu-ve-mo-hinh-nen-tang.md](C02-hieu-ve-mo-hinh-nen-tang.md)) giải thích vì sao mô hình làm theo chỉ dẫn được (post-training, SFT, RLHF) và vì sao nó không tự phân biệt chữ người dùng đưa vào với chữ chính nó sinh ra; Chương 3 và 4 ([C03-phuong-phap-danh-gia.md](C03-phuong-phap-danh-gia.md), [C04-danh-gia-he-thong-ai.md](C04-danh-gia-he-thong-ai.md)) dựng phương pháp và quy trình đánh giá, gồm đánh giá khả năng làm theo chỉ dẫn — điều kiện để prompt có tác dụng. Chương 5 là kỹ thuật thích nghi đầu tiên và rẻ nhất: viết chỉ dẫn mà không đổi trọng số mô hình, cùng mặt trái của nó là các tấn công qua prompt. Chương 6 ([C06-rag-va-agent.md](C06-rag-va-agent.md)) tiếp nối bằng cách cung cấp context (RAG) và công cụ (agent) cho mô hình; Chương 7 ([C07-finetuning.md](C07-finetuning.md)) là bước tốn kém hơn khi prompt không đủ; Chương 10 ([C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md](C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md)) đặt guardrail và các lớp phòng thủ vào kiến trúc hệ thống.
-**Ý chính:** **Prompt engineering là cách thích nghi mô hình dễ và phổ biến nhất — hướng hành vi mô hình bằng chỉ dẫn mà không đổi trọng số — và nó phải được làm với kỷ luật thực nghiệm như mọi thí nghiệm học máy; chính khả năng làm theo chỉ dẫn khiến prompt hiệu quả cũng mở đường cho các tấn công qua prompt, nên ứng dụng phải phòng thủ ở ba tầng mô hình, prompt và hệ thống.** Một prompt gồm mô tả nhiệm vụ, ví dụ và nhiệm vụ cụ thể; dạy mô hình qua ví dụ trong prompt gọi là in-context learning (GPT-3, Brown và cộng sự 2020), với zero-shot (không ví dụ) và few-shot (vài ví dụ); với GPT-4, few-shot chỉ cải thiện hạn chế so với zero-shot (phân tích của Microsoft 2023), trừ các miền hiếm như API dataframe Ibis. System prompt và user prompt được nối thành một chuỗi theo chat template riêng của từng mô hình (Llama 2 khác Llama 3); dùng sai template gây lỗi im lặng. Context length tăng 2.000 lần trong 5 năm, từ 1K token (GPT-2, 02/2019) lên 2M token (Gemini 1.5 Pro, 05/2024), nhưng mô hình hiểu thông tin ở đầu và cuối prompt tốt hơn ở giữa (Liu và cộng sự 2023, kiểm tra "kim trong đống rơm"). Bảy nhóm thực hành tốt: viết chỉ dẫn rõ (nói rõ thang điểm, gán persona, cho ví dụ, chỉ định định dạng đầu ra và dấu kết thúc), cung cấp đủ context, chia nhiệm vụ phức tạp thành nhiệm vụ con (GoDaddy: prompt chatbot phình lên hơn 1.500 token, chia nhỏ thì tốt hơn và rẻ hơn), cho mô hình thời gian suy nghĩ (chain-of-thought, self-critique), lặp và đánh số phiên bản prompt, đánh giá công cụ tự động (30 ví dụ × 10 biến thể là 300 lời gọi API ẩn), tách prompt khỏi code và dùng prompt catalog. Phần phòng thủ nêu ba loại tấn công — trích xuất prompt, jailbreak/prompt injection, trích xuất thông tin — và sáu loại rủi ro; PAIR thường jailbreak được trong dưới 20 lần hỏi; tấn công lặp từ "poem" làm ChatGPT lộ dữ liệu huấn luyện, tỷ lệ ghi nhớ gần 1%; phân cấp chỉ dẫn (instruction hierarchy) của OpenAI tăng độ bền tới 63%. Hai thước đo phòng thủ là tỷ lệ vi phạm (violation rate) và tỷ lệ từ chối sai (false refusal rate); không biện pháp nào an toàn tuyệt đối.
+## Ý chính
 
-> **Lưu ý:**
-> - **"The first three generations of GPTs have 1K, 2K, and 4K context length" (trang PDF 428):** theo hiểu biết của người tổng hợp, GPT-1 (2018) có context 512 token, GPT-2 1.024 token, GPT-3 2.048 token; mức 4K (4.096) là của GPT-3.5. Chính biểu đồ của sách (Hình 5-2) cũng bắt đầu từ GPT-2 (1K), GPT-3 (2K), GPT-3.5 (4K). Câu đúng nên là "GPT-2, GPT-3 và GPT-3.5". Phép tính "tăng 2.000 lần" đúng: 2M / 1K = 2.000 (2.097.152 / 1.024 = 2.048 nếu tính theo luỹ thừa của 2).
-> - **Hình 5-2, trục thời gian lệch thứ tự:** điểm Claude-3 (200K) ghi 03/2024 được đặt *trước* điểm Gemini-1.5 Pro (1M) ghi 02/2024. Theo thứ tự thời gian, Gemini 1.5 Pro (1M, công bố 02/2024) phải đứng trước Claude 3 (200K, 03/2024). Trục hoành của hình không tỷ lệ với thời gian (các điểm cách đều nhau).
-> - **Chú thích Hình 5-6 giải nghĩa sai SVAMP:** sách viết SVAMP là "sequence variation analysis, maps, and phylogeny". Theo hiểu biết của người tổng hợp, trong bài Wei và cộng sự (2022), SVAMP là bộ bài toán đố số học "Simple Variations on Arithmetic Math word Problems" (Patel và cộng sự 2021); tên sách đưa ra là của một công cụ sinh học không liên quan. Bản tổng hợp dùng nghĩa đúng.
-> - **"ChatGPT (GPT-turbo-3.5)" (trang PDF 479):** tên mô hình đúng là gpt-3.5-turbo.
-> - **Chú thích Hình 5-16 bị cắt:** "tion hierarchy proposed by Wallace et al. (2024)" là "Instruction hierarchy…".
-> - **Prompt 2 (khắc phục sự cố) bị rút gọn làm hỏng tham chiếu:** prompt nói "nếu sự cố vẫn còn sau khi khởi động lại thiết bị và chờ 5 phút", nhưng bản rút gọn không có bước nào hướng dẫn khởi động lại. Theo hiểu biết của người tổng hợp, bản gốc trong hướng dẫn prompt engineering của OpenAI có thêm bước hướng dẫn khởi động lại theo từng mã router (ví dụ MTD-327J: giữ nút đỏ 5 giây; MTD-327S: rút điện cắm lại; rồi chờ 5 phút). Bản tổng hợp chép đúng bản của sách và ghi chú chỗ thiếu.
-> - **Mẫu chat template Llama 2 và Llama 3 (theo hiểu biết của người tổng hợp):** template chính thức có các dòng trống mà lớp chữ của sách không thể hiện: Llama 2 có một dòng trống giữa `<</SYS>>` và tin nhắn người dùng; Llama 3 có hai ký tự xuống dòng (`\n\n`) sau mỗi `<|end_header_id|>`. Chính sách nhấn mạnh một dòng trống thừa hay thiếu có thể đổi hành vi mô hình, nên khi dùng thật cần lấy template từ tài liệu mô hình hoặc từ hàm `apply_chat_template` của thư viện, không chép tay từ sách.
-> - **Đoạn code bị cắt trong bản PDF:** ở trang PDF 458–459, dòng `import` và dòng `"content": GPT4o_ENTIT...` bị cắt ở mép khung cuộn; ở trang PDF 461, dòng cuối file Dotprompt bị cắt ở `{{t`. Bản tổng hợp phục dựng: tên hằng đầy đủ là `GPT4o_ENTITY_EXTRACTION_PROMPT`; dòng cuối Dotprompt (theo ví dụ trong tài liệu Firebase Genkit, theo hiểu biết của người tổng hợp) là "Generate a menu item that could be found at a {{theme}} themed restaurant." Lớp class `Prompt` dùng `datetime` mà không có `from datetime import datetime`; khối `messages=[...]` trong sách thụt lề lệch so với `create(`. Đây là lỗi trình bày, không đổi ý.
-> - **Hình 5-7 (nhận xét của người tổng hợp):** người dùng xin prompt chấm "college essays" (bài luận đại học), nhưng Claude 3.5 Sonnet viết prompt cho "college admissions" (bài luận xét tuyển đại học) — một ví dụ nhỏ cho việc prompt do AI viết cần được đọc lại, đúng lời khuyên của chính chương.
-> - **"PALM 2" (trang PDF 422):** tên đúng là PaLM 2.
-> - **Chú thích (footnote):** 22 chú thích ở cuối chương (trang PDF 491–493) đã mất số trong lớp chữ; người tổng hợp khớp theo nội dung và số còn hiện trên ảnh trang (ví dụ chú thích 6 ở chân Hình 5-2, chú thích 11, 19, 20, 21, 22 có số đỏ trên ảnh) và đưa nội dung vào đúng chỗ trong phần Nội dung chi tiết.
-> - **Hình là ảnh chụp màn hình:** các hình 5-1, 5-3, 5-5, 5-7, 5-8, 5-9, 5-10, 5-11, 5-13, 5-15, 5-16 chứa prompt hoặc hội thoại; người tổng hợp chép lại chữ từ ảnh. Số liệu Hình 5-4 và 5-6 đọc từ đồ thị nên chỉ chính xác khoảng ±2 điểm phần trăm.
-> - **Quy ước dịch:** giữ tiếng Anh các thuật ngữ phổ biến (prompt, prompt engineering, token, context, context length, system prompt, user prompt, chat template, zero-shot, few-shot, in-context learning, chain-of-thought/CoT, persona, jailbreak, prompt injection, guardrail, red team, RAG, agent, API, latency, benchmark, finetuning, PII). "Prompt attack" dịch là "tấn công qua prompt"; "defensive prompt engineering" là "prompt engineering phòng thủ"; "reverse prompt engineering" là "dò ngược prompt"; "instruction hierarchy" là "phân cấp chỉ dẫn"; "violation rate" là "tỷ lệ vi phạm"; "false refusal rate" là "tỷ lệ từ chối sai"; "regurgitation" là "nhả lại nguyên văn". Như sách, từ "jailbreak" trong bản tổng hợp dùng chung cho cả jailbreak và prompt injection.
-> - **Những gì đã thay đổi sau 2024 (theo hiểu biết của người tổng hợp):** xem mục cuối "Những gì đã thay đổi từ cuối 2024". Tóm tắt: các mô hình suy luận (reasoning model, như OpenAI o1/o3, DeepSeek-R1, Claude với extended thinking) tự sinh chuỗi suy nghĩ nên lời nhắc "think step by step" ít cần hơn; context 1M token đã phổ biến hơn; đầu ra có cấu trúc (structured outputs/JSON schema) được nhiều API hỗ trợ trực tiếp; prompt injection gián tiếp trở thành rủi ro hàng đầu khi agent dùng công cụ và MCP lan rộng.
+**Prompt engineering là cách thích nghi mô hình dễ và phổ biến nhất — hướng hành vi mô hình bằng chỉ dẫn mà không đổi trọng số — và nó phải được làm với kỷ luật thực nghiệm như mọi thí nghiệm học máy; chính khả năng làm theo chỉ dẫn khiến prompt hiệu quả cũng mở đường cho các tấn công qua prompt, nên ứng dụng phải phòng thủ ở ba tầng mô hình, prompt và hệ thống.**
+
+Một prompt gồm mô tả nhiệm vụ, ví dụ và nhiệm vụ cụ thể; dạy mô hình qua ví dụ trong prompt gọi là in-context learning (GPT-3, Brown và cộng sự 2020), với zero-shot (không ví dụ) và few-shot (vài ví dụ); với GPT-4, few-shot chỉ cải thiện hạn chế so với zero-shot (phân tích của Microsoft 2023), trừ các miền hiếm như API dataframe Ibis.
+
+System prompt và user prompt được nối thành một chuỗi theo chat template riêng của từng mô hình (Llama 2 khác Llama 3); dùng sai template gây lỗi im lặng. Context length tăng 2.000 lần trong 5 năm, từ 1K token (GPT-2, 02/2019) lên 2M token (Gemini 1.5 Pro, 05/2024), nhưng mô hình hiểu thông tin ở đầu và cuối prompt tốt hơn ở giữa (Liu và cộng sự 2023, kiểm tra "kim trong đống rơm").
+
+Bảy nhóm thực hành tốt: viết chỉ dẫn rõ (nói rõ thang điểm, gán persona, cho ví dụ, chỉ định định dạng đầu ra và dấu kết thúc), cung cấp đủ context, chia nhiệm vụ phức tạp thành nhiệm vụ con (GoDaddy: prompt chatbot phình lên hơn 1.500 token, chia nhỏ thì tốt hơn và rẻ hơn), cho mô hình thời gian suy nghĩ (chain-of-thought, self-critique), lặp và đánh số phiên bản prompt, đánh giá công cụ tự động (30 ví dụ × 10 biến thể là 300 lời gọi API ẩn), tách prompt khỏi code và dùng prompt catalog.
+
+Phần phòng thủ nêu ba loại tấn công — trích xuất prompt, jailbreak/prompt injection, trích xuất thông tin — và sáu loại rủi ro; PAIR thường jailbreak được trong dưới 20 lần hỏi; tấn công lặp từ "poem" làm ChatGPT lộ dữ liệu huấn luyện, tỷ lệ ghi nhớ gần 1%; phân cấp chỉ dẫn (instruction hierarchy) của OpenAI tăng độ bền tới 63%. Hai thước đo phòng thủ là tỷ lệ vi phạm (violation rate) và tỷ lệ từ chối sai (false refusal rate); không biện pháp nào an toàn tuyệt đối.
 
 ## Sơ đồ
 
@@ -731,7 +722,7 @@ Nhưng vì sao? Bên dưới, system prompt và user prompt được nối thàn
 
 ### 5. Độ dài context và hiệu quả sử dụng context (Context Length and Context Efficiency, trang PDF 428–431)
 
-Lượng thông tin đưa được vào prompt tuỳ vào giới hạn context length của mô hình. Context length tối đa đã tăng rất nhanh. Sách viết rằng ba thế hệ GPT đầu có context 1K, 2K và 4K token — chỉ vừa một bài luận đại học, quá ngắn cho phần lớn văn bản pháp lý hay bài báo nghiên cứu (khối Lưu ý đã nêu: đúng ra đó là GPT-2, GPT-3 và GPT-3.5).
+Lượng thông tin đưa được vào prompt tuỳ vào giới hạn context length của mô hình. Context length tối đa đã tăng rất nhanh. Sách viết rằng ba thế hệ GPT đầu có context 1K, 2K và 4K token — chỉ vừa một bài luận đại học, quá ngắn cho phần lớn văn bản pháp lý hay bài báo nghiên cứu (mục Lưu ý cuối chương đã nêu: đúng ra đó là GPT-2, GPT-3 và GPT-3.5).
 
 Mở rộng context nhanh chóng trở thành cuộc đua giữa các nhà cung cấp và người làm thực tế. Trong năm năm, context length tăng 2.000 lần, từ 1K của GPT-2 lên 2M của Gemini 1.5 Pro. Biểu đồ của sách (Hình 5-2, trục tung thang logarit từ 1.000 tới 10.000.000) đánh dấu các mốc sau:
 
@@ -934,7 +925,7 @@ USER
 I need to get my internet working again.
 ```
 
-Giải thích: prompt này chỉ được gọi khi Prompt 1 xếp truy vấn vào nhóm khắc phục sự cố. Nó liệt kê quy trình từng bước: (1) nhờ khách kiểm tra mọi dây cáp vào/ra router, vì dây thường lỏng dần theo thời gian; (2) nếu dây ổn mà vẫn lỗi, hỏi model router; (3) nếu vẫn lỗi sau khi khởi động lại thiết bị và chờ 5 phút, chuyển sang bộ phận IT bằng cách in ra chuỗi đặc biệt `{"IT support requested"}` — chuỗi này để code của ứng dụng bắt được và chuyển cuộc trò chuyện; (4) nếu khách hỏi sang chủ đề khác, xác nhận khách muốn kết thúc phần khắc phục sự cố rồi phân loại lại theo sơ đồ của Prompt 1 (dòng `<insert … here>` là chỗ chèn lại sơ đồ phân loại). Như khối Lưu ý đã nêu, bản rút gọn bỏ mất bước hướng dẫn khởi động lại thiết bị mà bước (3) nhắc tới.
+Giải thích: prompt này chỉ được gọi khi Prompt 1 xếp truy vấn vào nhóm khắc phục sự cố. Nó liệt kê quy trình từng bước: (1) nhờ khách kiểm tra mọi dây cáp vào/ra router, vì dây thường lỏng dần theo thời gian; (2) nếu dây ổn mà vẫn lỗi, hỏi model router; (3) nếu vẫn lỗi sau khi khởi động lại thiết bị và chờ 5 phút, chuyển sang bộ phận IT bằng cách in ra chuỗi đặc biệt `{"IT support requested"}` — chuỗi này để code của ứng dụng bắt được và chuyển cuộc trò chuyện; (4) nếu khách hỏi sang chủ đề khác, xác nhận khách muốn kết thúc phần khắc phục sự cố rồi phân loại lại theo sơ đồ của Prompt 1 (dòng `<insert … here>` là chỗ chèn lại sơ đồ phân loại). Như mục Lưu ý cuối chương đã nêu, bản rút gọn bỏ mất bước hướng dẫn khởi động lại thiết bị mà bước (3) nhắc tới.
 
 Có thể hỏi: sao không chia tiếp prompt phân loại thành hai prompt, một cho nhóm chính và một cho nhóm phụ? Mỗi nhiệm vụ con nên nhỏ đến đâu tuỳ trường hợp và tuỳ đánh đổi giữa hiệu năng, chi phí và latency mà ta chấp nhận; phải thử nghiệm để tìm cách chia và nối tối ưu.
 
@@ -1072,7 +1063,7 @@ Theo nguyên tắc giữ cho đơn giản, có lẽ nên bắt đầu bằng cá
 
 ### 13. Tổ chức và quản lý phiên bản prompt (Organize and Version Prompts, trang PDF 458–462)
 
-Nên tách prompt khỏi code. Ví dụ: đặt prompt trong file `prompts.py` và tham chiếu khi tạo truy vấn mô hình (phần bị cắt trong PDF đã được người tổng hợp phục dựng, xem khối Lưu ý):
+Nên tách prompt khỏi code. Ví dụ: đặt prompt trong file `prompts.py` và tham chiếu khi tạo truy vấn mô hình (phần bị cắt trong PDF đã được người tổng hợp phục dựng, xem mục Lưu ý cuối chương):
 
 ```python
 # file: prompts.py
@@ -1659,7 +1650,7 @@ Prompt engineering là kỹ thuật thích nghi mô hình rẻ và nhanh nhất,
 
 ### Những chỗ đơn giản hoá hoặc chưa chặt
 
-- **Lỗi nhỏ về sự kiện và trình bày:** "ba thế hệ GPT đầu" có 1K–2K–4K (đúng ra GPT-2, GPT-3, GPT-3.5); trục thời gian Hình 5-2 lệch thứ tự; giải nghĩa sai SVAMP; "GPT-turbo-3.5"; Prompt 2 rút gọn mất bước khởi động lại thiết bị; code bị cắt và thiếu import (xem khối Lưu ý).
+- **Lỗi nhỏ về sự kiện và trình bày:** "ba thế hệ GPT đầu" có 1K–2K–4K (đúng ra GPT-2, GPT-3, GPT-3.5); trục thời gian Hình 5-2 lệch thứ tự; giải nghĩa sai SVAMP; "GPT-turbo-3.5"; Prompt 2 rút gọn mất bước khởi động lại thiết bị; code bị cắt và thiếu import (xem mục Lưu ý cuối chương).
 - **Bằng chứng định lượng mỏng ở phần thực hành.** Nhiều khuyến nghị (đặt mô tả nhiệm vụ ở đầu với GPT-4, ở cuối với Llama 3; lặp system prompt) dựa trên kinh nghiệm hay ví dụ đơn lẻ, không có số đo hiệu quả; ví dụ persona và cô tiên răng là một lần chạy, không có thống kê.
 - **Kết quả "kim trong đống rơm" được khái quát hơi rộng.** Thí nghiệm của Liu và cộng sự dùng các mô hình 2023 với context 2K–6K token; các mô hình sau đó cải thiện đáng kể ở NIAH đơn giản, nhưng các bài khó hơn (RULER, suy luận nhiều bước trên context dài) vẫn cho thấy suy giảm — sách chỉ nhắc RULER một câu.
 - **CoT được trình bày như luôn có lợi ở mô hình lớn,** nhưng chính biểu đồ cho thấy CoT không giúp (thậm chí hại nhẹ) với mô hình nhỏ; sách không nói rõ điều này trong lời văn.
@@ -1704,3 +1695,130 @@ Prompt engineering là kỹ thuật thích nghi mô hình rẻ và nhanh nhất,
   - Quy trình có rủi ro cao (duyệt tín dụng, chấm điểm hồ sơ, gửi lệnh) không được để mô hình tự quyết: sách nêu đúng ví dụ "từ chối khoản vay lẽ ra được duyệt" như một rủi ro tấn công; cần người duyệt và nhật ký kiểm toán.
   - Tài liệu từ bên ngoài (email khách hàng, PDF đối tác, trang web) có thể chứa chỉ dẫn ẩn nhằm vào trợ lý AI; không cho trợ lý AI đọc các tài liệu đó và đồng thời có quyền gửi email hay chuyển dữ liệu ra ngoài.
   - Không đưa dữ liệu khách hàng nhạy cảm vào prompt nếu không cần; như ví dụ Brex, chỉ dẫn "đừng tiết lộ" không ngăn được rò rỉ qua câu hỏi gián tiếp.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 5 trên một trang: sáu nhánh lớn theo các mục chính của chương gốc — bản chất của prompt (mục 2–3), cấu trúc và độ dài prompt (mục 4–5), cách viết prompt tốt (mục 7–10), quản lý prompt như sản phẩm kỹ thuật (mục 11–13), ba loại tấn công qua prompt (mục 14–17) và phòng thủ ba tầng (mục 18); nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+mindmap
+  root((Chương 5: prompt là cách thích nghi mô hình rẻ nhất, phải làm có kỷ luật và phải phòng thủ))
+    Mục 2–3 — Prompt đổi hành vi mô hình mà không đổi trọng số
+      Ba phần của một prompt
+        Mô tả nhiệm vụ gồm vai và định dạng đầu ra, ví dụ mẫu, nhiệm vụ cụ thể
+        Điều kiện: mô hình phải làm theo chỉ dẫn được, nếu không prompt tốt cũng vô ích
+      Độ bền trước nhiễu prompt quyết định công sức
+        Viết 5 thay five, thêm dòng trống không nên đổi hẳn câu trả lời
+        Mô hình càng mạnh càng bền → dùng mô hình mạnh đỡ phải loay hoay
+      In-context learning: học từ ví dụ trong prompt
+        Phát hiện qua GPT-3 năm 2020: chỉ đoán token kế tiếp mà học được dịch, toán, đọc hiểu
+        Đưa thông tin mới vào context thay vì huấn luyện lại → một dạng học liên tục
+      Zero-shot và few-shot
+        Mỗi ví dụ là một shot; nhiều ví dụ học tốt hơn nhưng tốn token và bị giới hạn context
+        Với GPT-4, few-shot chỉ hơn zero-shot chút ít; vẫn hữu ích ở miền hiếm như API Ibis
+    Mục 4–5 — Vị trí và khuôn của prompt quan trọng
+      System prompt và user prompt
+        System chứa mô tả nhiệm vụ của nhà phát triển, user chứa nhiệm vụ của người dùng
+        Hai phần bị nối thành một chuỗi; system có lợi vì đứng đầu và được post-train để ưu tiên
+      Chat template riêng từng mô hình
+        Llama 2 và Llama 3 dùng token đặc biệt khác nhau
+        Sai template là lỗi im lặng: mô hình vẫn trả lời hợp lý nhưng kém đi
+        In prompt cuối cùng ra kiểm tra trước khi gửi
+      Context dài nhưng giữa prompt bị bỏ sót
+        Context length tăng 2.000 lần trong 5 năm: 1K token của GPT-2 lên 2M của Gemini 1.5 Pro
+        Kiểm tra kim trong đống rơm cho đường cong chữ U: đầu và cuối tốt, giữa kém
+        gpt-3.5-turbo với 20 tài liệu: khoảng 75% khi đáp án ở đầu, 53–55% khi ở giữa
+    Mục 7–10 — Bốn nhóm thực hành viết prompt tốt
+      Viết chỉ dẫn rõ ràng
+        Nói rõ thang điểm, có cho điểm lẻ không, khi không chắc thì làm gì
+        Persona giáo viên lớp 1 đổi điểm cùng bài luận từ 2/5 lên 4/5
+        Ví dụ định hướng giọng trả lời; định dạng ví dụ gọn tiết kiệm 11 trên 38 token
+        Chỉ định định dạng đầu ra và dấu kết thúc, thiếu dấu thì mô hình viết tiếp đầu vào
+      Cung cấp đủ context
+        Context giúp trả lời tốt hơn và giảm ảo giác; thu thập bằng RAG hay tìm web
+        Giới hạn mô hình chỉ dùng context là khó, chỉ prompt thì không đáng tin
+      Chia nhiệm vụ phức tạp thành chuỗi prompt con
+        Chatbot: prompt phân loại ý định rồi prompt trả lời riêng cho từng ý định
+        Lợi ích: dễ giám sát, gỡ lỗi, song song hoá, dùng mô hình rẻ cho bước dễ
+        Đổi lại: latency cảm nhận tăng; GoDaddy chia prompt 1.500 token thì tốt hơn và rẻ hơn
+      Cho mô hình thời gian suy nghĩ
+        Chain-of-thought: thêm câu nghĩ từng bước, hoặc chỉ định sẵn các bước, hoặc cho lời giải mẫu
+        CoT nâng PaLM 540B trên GSM8K từ khoảng 18% lên 57%; mô hình dưới khoảng 10B gần như không lợi
+        Self-critique: mô hình tự kiểm tra đầu ra; cả hai đều tăng latency và chi phí
+    Mục 11–13 — Quản lý prompt như sản phẩm kỹ thuật
+      Lặp có hệ thống
+        Mỗi mô hình có tật riêng, phải thử nhiều prompt và đọc hướng dẫn của nhà làm mô hình
+        Đánh số phiên bản, chuẩn hoá thước đo và dữ liệu đánh giá, đánh giá trong toàn hệ thống
+      Dùng công cụ tự động một cách thận trọng
+        DSPy, OpenPrompt tự tìm prompt tối đa hoá thước đo, giống autoML
+        Lời gọi API ẩn: 30 ví dụ × 10 biến thể là 300 lời gọi
+        Công cụ cũng sai: prompt mặc định LangChain từng có lỗi chính tả → nên tự viết trước
+      Tách prompt khỏi code
+        Lợi: tái sử dụng, kiểm thử riêng, dễ đọc, chuyên gia nghiệp vụ cùng viết được
+        Gắn metadata: mô hình, ngày tạo, ứng dụng, người tạo, tham số lấy mẫu, schema đầu ra
+      Prompt catalog thay vì chỉ dùng git
+        Git ép mọi ứng dụng dùng chung lên bản prompt mới cùng lúc
+        Catalog đánh phiên bản từng prompt, cho mỗi ứng dụng giữ bản riêng và báo khi có bản mới
+    Mục 14–17 — Ba loại tấn công qua prompt
+      Gốc rễ: mô hình làm theo chỉ dẫn càng giỏi thì càng giỏi làm theo chỉ dẫn độc
+        Sáu rủi ro: thực thi code từ xa, rò rỉ dữ liệu, tác hại xã hội, thông tin sai, gián đoạn dịch vụ, thương hiệu
+      Trích xuất prompt và context
+        Lừa mô hình lặp lại system prompt; prompt lộ ra thường do mô hình bịa
+        Brex: cấm tiết lộ vị trí nhưng hỏi đường tới Portland vẫn lộ người dùng ở Seattle
+        Viết system prompt như thể sẽ bị công khai; prompt độc quyền là gánh nặng bảo trì
+      Jailbreak và prompt injection
+        Thủ công: viết sai từ khoá, đổi định dạng thành thơ, nhập vai DAN hay bà ngoại
+        Tự động: PAIR dùng AI tấn công sửa prompt lặp lại, thường thành công dưới 20 lần hỏi
+        Gián tiếp: lệnh độc nằm trong web, email, cơ sở dữ liệu mà mô hình đọc qua công cụ, nguy hiểm nhất
+      Trích xuất thông tin
+        Mục đích: ăn cắp dữ liệu huấn luyện, xâm phạm riêng tư, vi phạm bản quyền
+        Lặp từ poem mãi mãi làm ChatGPT nhả dữ liệu huấn luyện; tỷ lệ ghi nhớ gần 1%
+        Mô hình lớn ghi nhớ nhiều hơn; Stable Diffusion nhả hơn 1.000 ảnh gần trùng
+    Mục 18 — Phòng thủ ba tầng, không có an toàn tuyệt đối
+      Hai thước đo phải đo cùng nhau
+        Tỷ lệ vi phạm: phần tấn công thành công trên tổng số lần tấn công
+        Tỷ lệ từ chối sai: từ chối câu lẽ ra trả lời an toàn; từ chối mọi thứ là vô dụng
+      Tầng mô hình: phân cấp chỉ dẫn
+        Ưu tiên: system prompt > user prompt > đầu ra mô hình > đầu ra công cụ
+        Finetune theo phân cấp tăng độ bền tới 63%, giảm năng lực rất ít
+        Câu hỏi ranh giới: gợi ý gọi thợ khoá thay vì từ chối hay chỉ cách đột nhập
+      Tầng prompt
+        Nói rõ điều cấm, lặp chỉ dẫn trước và sau dữ liệu, báo trước kiểu tấn công đã biết
+        Template mặc định LangChain để tấn công injection thành công 100%
+      Tầng hệ thống
+        Chạy code sinh ra trong máy ảo cô lập; lệnh DELETE, DROP, UPDATE phải có người duyệt
+        Guardrail cả đầu vào lẫn đầu ra, định nghĩa chủ đề ngoài phạm vi, theo dõi mẫu sử dụng bất thường
+    Thông điệp xuyên suốt
+      Khai thác hết prompt trước khi chuyển sang RAG hay finetuning
+      Viết prompt thì dễ, viết prompt hiệu quả đòi thí nghiệm và đánh giá như học máy
+      Mọi văn bản lọt vào context đều có thể thành chỉ dẫn → an toàn phải xếp lớp
+```
+
+## Nguồn
+
+Chip Huyen, *AI Engineering: Building Applications with Foundation Models*, O'Reilly Media, ấn bản đầu tiên (12/2024), Chương 5 "Prompt Engineering", trang PDF 416–493.
+
+## Tác giả
+
+Chip Huyen — nhà văn và nhà khoa học máy tính chuyên về hệ thống học máy; từng làm ở NVIDIA, Snorkel AI, sáng lập một startup hạ tầng AI (sau được mua lại), dạy hệ thống học máy ở Đại học Stanford; tác giả *Designing Machine Learning Systems* (O'Reilly 2022) và bốn sách tiếng Việt bán chạy, trong đó có bộ *Xách ba lô lên và đi*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 ([C01-gioi-thieu-xay-dung-ung-dung-ai-voi-mo-hinh-nen-tang.md](C01-gioi-thieu-xay-dung-ung-dung-ai-voi-mo-hinh-nen-tang.md)) xếp prompt engineering, RAG và finetuning thành ba kỹ thuật thích nghi mô hình (model adaptation) chính; Chương 2 ([C02-hieu-ve-mo-hinh-nen-tang.md](C02-hieu-ve-mo-hinh-nen-tang.md)) giải thích vì sao mô hình làm theo chỉ dẫn được (post-training, SFT, RLHF) và vì sao nó không tự phân biệt chữ người dùng đưa vào với chữ chính nó sinh ra; Chương 3 và 4 ([C03-phuong-phap-danh-gia.md](C03-phuong-phap-danh-gia.md), [C04-danh-gia-he-thong-ai.md](C04-danh-gia-he-thong-ai.md)) dựng phương pháp và quy trình đánh giá, gồm đánh giá khả năng làm theo chỉ dẫn — điều kiện để prompt có tác dụng. Chương 5 là kỹ thuật thích nghi đầu tiên và rẻ nhất: viết chỉ dẫn mà không đổi trọng số mô hình, cùng mặt trái của nó là các tấn công qua prompt. Chương 6 ([C06-rag-va-agent.md](C06-rag-va-agent.md)) tiếp nối bằng cách cung cấp context (RAG) và công cụ (agent) cho mô hình; Chương 7 ([C07-finetuning.md](C07-finetuning.md)) là bước tốn kém hơn khi prompt không đủ; Chương 10 ([C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md](C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md)) đặt guardrail và các lớp phòng thủ vào kiến trúc hệ thống.
+
+## Lưu ý
+
+- **"The first three generations of GPTs have 1K, 2K, and 4K context length" (trang PDF 428):** theo hiểu biết của người tổng hợp, GPT-1 (2018) có context 512 token, GPT-2 1.024 token, GPT-3 2.048 token; mức 4K (4.096) là của GPT-3.5. Chính biểu đồ của sách (Hình 5-2) cũng bắt đầu từ GPT-2 (1K), GPT-3 (2K), GPT-3.5 (4K). Câu đúng nên là "GPT-2, GPT-3 và GPT-3.5". Phép tính "tăng 2.000 lần" đúng: 2M / 1K = 2.000 (2.097.152 / 1.024 = 2.048 nếu tính theo luỹ thừa của 2).
+- **Hình 5-2, trục thời gian lệch thứ tự:** điểm Claude-3 (200K) ghi 03/2024 được đặt *trước* điểm Gemini-1.5 Pro (1M) ghi 02/2024. Theo thứ tự thời gian, Gemini 1.5 Pro (1M, công bố 02/2024) phải đứng trước Claude 3 (200K, 03/2024). Trục hoành của hình không tỷ lệ với thời gian (các điểm cách đều nhau).
+- **Chú thích Hình 5-6 giải nghĩa sai SVAMP:** sách viết SVAMP là "sequence variation analysis, maps, and phylogeny". Theo hiểu biết của người tổng hợp, trong bài Wei và cộng sự (2022), SVAMP là bộ bài toán đố số học "Simple Variations on Arithmetic Math word Problems" (Patel và cộng sự 2021); tên sách đưa ra là của một công cụ sinh học không liên quan. Bản tổng hợp dùng nghĩa đúng.
+- **"ChatGPT (GPT-turbo-3.5)" (trang PDF 479):** tên mô hình đúng là gpt-3.5-turbo.
+- **Chú thích Hình 5-16 bị cắt:** "tion hierarchy proposed by Wallace et al. (2024)" là "Instruction hierarchy…".
+- **Prompt 2 (khắc phục sự cố) bị rút gọn làm hỏng tham chiếu:** prompt nói "nếu sự cố vẫn còn sau khi khởi động lại thiết bị và chờ 5 phút", nhưng bản rút gọn không có bước nào hướng dẫn khởi động lại. Theo hiểu biết của người tổng hợp, bản gốc trong hướng dẫn prompt engineering của OpenAI có thêm bước hướng dẫn khởi động lại theo từng mã router (ví dụ MTD-327J: giữ nút đỏ 5 giây; MTD-327S: rút điện cắm lại; rồi chờ 5 phút). Bản tổng hợp chép đúng bản của sách và ghi chú chỗ thiếu.
+- **Mẫu chat template Llama 2 và Llama 3 (theo hiểu biết của người tổng hợp):** template chính thức có các dòng trống mà lớp chữ của sách không thể hiện: Llama 2 có một dòng trống giữa `<</SYS>>` và tin nhắn người dùng; Llama 3 có hai ký tự xuống dòng (`\n\n`) sau mỗi `<|end_header_id|>`. Chính sách nhấn mạnh một dòng trống thừa hay thiếu có thể đổi hành vi mô hình, nên khi dùng thật cần lấy template từ tài liệu mô hình hoặc từ hàm `apply_chat_template` của thư viện, không chép tay từ sách.
+- **Đoạn code bị cắt trong bản PDF:** ở trang PDF 458–459, dòng `import` và dòng `"content": GPT4o_ENTIT...` bị cắt ở mép khung cuộn; ở trang PDF 461, dòng cuối file Dotprompt bị cắt ở `{{t`. Bản tổng hợp phục dựng: tên hằng đầy đủ là `GPT4o_ENTITY_EXTRACTION_PROMPT`; dòng cuối Dotprompt (theo ví dụ trong tài liệu Firebase Genkit, theo hiểu biết của người tổng hợp) là "Generate a menu item that could be found at a {{theme}} themed restaurant." Lớp class `Prompt` dùng `datetime` mà không có `from datetime import datetime`; khối `messages=[...]` trong sách thụt lề lệch so với `create(`. Đây là lỗi trình bày, không đổi ý.
+- **Hình 5-7 (nhận xét của người tổng hợp):** người dùng xin prompt chấm "college essays" (bài luận đại học), nhưng Claude 3.5 Sonnet viết prompt cho "college admissions" (bài luận xét tuyển đại học) — một ví dụ nhỏ cho việc prompt do AI viết cần được đọc lại, đúng lời khuyên của chính chương.
+- **"PALM 2" (trang PDF 422):** tên đúng là PaLM 2.
+- **Chú thích (footnote):** 22 chú thích ở cuối chương (trang PDF 491–493) đã mất số trong lớp chữ; người tổng hợp khớp theo nội dung và số còn hiện trên ảnh trang (ví dụ chú thích 6 ở chân Hình 5-2, chú thích 11, 19, 20, 21, 22 có số đỏ trên ảnh) và đưa nội dung vào đúng chỗ trong phần Nội dung chi tiết.
+- **Hình là ảnh chụp màn hình:** các hình 5-1, 5-3, 5-5, 5-7, 5-8, 5-9, 5-10, 5-11, 5-13, 5-15, 5-16 chứa prompt hoặc hội thoại; người tổng hợp chép lại chữ từ ảnh. Số liệu Hình 5-4 và 5-6 đọc từ đồ thị nên chỉ chính xác khoảng ±2 điểm phần trăm.
+- **Quy ước dịch:** giữ tiếng Anh các thuật ngữ phổ biến (prompt, prompt engineering, token, context, context length, system prompt, user prompt, chat template, zero-shot, few-shot, in-context learning, chain-of-thought/CoT, persona, jailbreak, prompt injection, guardrail, red team, RAG, agent, API, latency, benchmark, finetuning, PII). "Prompt attack" dịch là "tấn công qua prompt"; "defensive prompt engineering" là "prompt engineering phòng thủ"; "reverse prompt engineering" là "dò ngược prompt"; "instruction hierarchy" là "phân cấp chỉ dẫn"; "violation rate" là "tỷ lệ vi phạm"; "false refusal rate" là "tỷ lệ từ chối sai"; "regurgitation" là "nhả lại nguyên văn". Như sách, từ "jailbreak" trong bản tổng hợp dùng chung cho cả jailbreak và prompt injection.
+- **Những gì đã thay đổi sau 2024 (theo hiểu biết của người tổng hợp):** xem mục cuối "Những gì đã thay đổi từ cuối 2024". Tóm tắt: các mô hình suy luận (reasoning model, như OpenAI o1/o3, DeepSeek-R1, Claude với extended thinking) tự sinh chuỗi suy nghĩ nên lời nhắc "think step by step" ít cần hơn; context 1M token đã phổ biến hơn; đầu ra có cấu trúc (structured outputs/JSON schema) được nhiều API hỗ trợ trực tiếp; prompt injection gián tiếp trở thành rủi ro hàng đầu khi agent dùng công cụ và MCP lan rộng.

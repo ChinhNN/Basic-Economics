@@ -1,24 +1,22 @@
 # Chương 7 — Finetuning (Finetuning)
 
-**Nguồn:** Chip Huyen, *AI Engineering: Building Applications with Foundation Models*, O'Reilly Media, ấn bản đầu tiên (12/2024), Chương 7 "Finetuning", trang PDF 594–693.
-**Tác giả:** Chip Huyen — nhà văn và nhà khoa học máy tính chuyên về hệ thống học máy; từng làm ở NVIDIA, Snorkel AI, sáng lập một startup hạ tầng AI (sau được mua lại), dạy hệ thống học máy ở Đại học Stanford; tác giả *Designing Machine Learning Systems* (O'Reilly 2022) và bốn sách tiếng Việt bán chạy, trong đó có bộ *Xách ba lô lên và đi*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 5 ([C05-prompt-engineering.md](C05-prompt-engineering.md)) và Chương 6 ([C06-rag-va-agent.md](C06-rag-va-agent.md)) điều chỉnh mô hình bằng cách đưa vào chỉ dẫn, context và công cụ, không đụng tới trọng số. Chương 7 là bước kế tiếp: điều chỉnh mô hình bằng cách thay đổi trọng số. Chương này dựa trên các khái niệm đã có ở Chương 2 ([C02-hieu-ve-mo-hinh-nen-tang.md](C02-hieu-ve-mo-hinh-nen-tang.md): pre-training, supervised finetuning, preference finetuning, kiến trúc transformer), dùng tiêu chí chọn mô hình và quy trình đánh giá của Chương 4 ([C04-danh-gia-he-thong-ai.md](C04-danh-gia-he-thong-ai.md)). Chương 8 ([C08-ky-thuat-du-lieu.md](C08-ky-thuat-du-lieu.md)) giải quyết phần khó nhất mà chương này để lại — có dữ liệu để finetune (dữ liệu chỉ dẫn, distillation, dữ liệu tổng hợp); Chương 9 ([C09-toi-uu-suy-luan.md](C09-toi-uu-suy-luan.md)) đi tiếp về lượng tử hoá, KV cache và prompt caching ở khâu suy luận.
-**Ý chính:** **Finetuning chủ yếu dùng để sửa hành vi (định dạng, phong cách, cú pháp) chứ không phải để thêm kiến thức — "finetuning cho hình thức, RAG cho sự kiện"; nên chỉ finetune sau khi đã thử prompt một cách có hệ thống, và vì nút thắt lớn nhất của finetuning là bộ nhớ, gần như mọi kỹ thuật finetuning hiện đại (PEFT, LoRA, lượng tử hoá, gộp mô hình) đều nhằm giảm số tham số phải huấn luyện hoặc số bit cho mỗi giá trị.** Finetuning là một dạng học chuyển giao (transfer learning): bắt đầu từ mô hình nền đã có phần lớn năng lực, chỉnh tiếp để làm tốt một nhiệm vụ; nó tiết kiệm mẫu (vài trăm ví dụ thay vì hàng triệu). Lý do finetune: tăng chất lượng cho nhiệm vụ riêng (như phương ngữ SQL ít gặp), đầu ra có cấu trúc, giảm thiên lệch, và giúp mô hình nhỏ vượt mô hình lớn (Flan-T5 của Grammarly nhỏ hơn 60 lần mà vượt một biến thể GPT-3, chỉ với 82.000 cặp chỉ dẫn–đầu ra). Lý do không finetune: có thể làm hỏng các nhiệm vụ khác, tốn dữ liệu, cần kỹ năng huấn luyện, phải tự phục vụ mô hình và bảo trì khi mô hình nền mới ra nhanh hơn; BloombergGPT (50 tỷ tham số, 1,3 triệu giờ GPU A100, 1,3–2,6 triệu USD) bị GPT-4-0314 vượt xa trên benchmark tài chính (FiQA 87,15 so với 75,07; ConvFinQA 76,48 so với 43,41). Lỗi do thiếu thông tin thì dùng RAG (Mistral-7B: 0,481 lên 0,875 với RAG, chỉ 0,504–0,588 với finetuning); lỗi hành vi thì finetune. Phép tính bộ nhớ: suy luận cần N × M × 1,2 (mô hình 13B ở 2 byte: 26 GB trọng số, 31,2 GB tổng); huấn luyện cần thêm gradient và trạng thái optimizer — Adam cần 3 giá trị cho mỗi tham số huấn luyện được (13B × 3 × 2 byte = 78 GB; 7B full finetuning: 14 + 42 = 56 GB, vượt GPU tiêu dùng 12–24 GB), chưa kể activation có thể lớn hơn cả trọng số. Biểu diễn số: FP32 (1 bit dấu, 8 bit mũ, 23 bit định trị), FP16 (1/5/10, tối đa 65.504), BF16 (1/8/7, cùng khoảng giá trị với FP32 nhưng kém chính xác hơn), TF32 (1/8/10, thực ra 19 bit); nạp nhầm Llama 2 (BF16) vào FP16 làm chất lượng giảm rõ. Lượng tử hoá sau huấn luyện (PTQ) là chuẩn cho suy luận (16, 8, 4 bit; BitNet b1.58 dùng 1,58 bit mà ngang Llama 2 16-bit tới 3,9 tỷ tham số); huấn luyện thường dùng mixed precision. PEFT đạt gần full finetuning với số tham số ít hơn nhiều bậc độ lớn (adapter của Houlsby: cách 0,4% với 3% tham số). LoRA phân rã cập nhật thành tích hai ma trận nhỏ A (n × r) và B (r × m), gộp lại được vào trọng số nên không thêm độ trễ; với GPT-3 175B chỉ cần khoảng 4,7 triệu tham số huấn luyện được (0,0027%); rank 4–64 thường đủ; giữ adapter tách rời cho phép phục vụ nhiều mô hình (100 khách hàng: 23,3 triệu tham số thay vì 1,68 tỷ). QLoRA lưu trọng số ở 4 bit NF4 để finetune mô hình 65B trên một GPU 48 GB. Gộp mô hình (cộng/nội suy, xếp lớp, nối) là cách làm finetuning đa nhiệm, triển khai trên thiết bị và tăng cỡ mô hình (SOLAR 10.7B: 32 × 2 − 16 = 48 lớp). Cuối chương là các tham số huấn luyện: learning rate (1e-7 tới 1e-3), batch size (dưới 8 dễ bất ổn; dùng gradient accumulation), số epoch (1–2 cho hàng triệu ví dụ, 4–10 cho hàng nghìn), prompt loss weight (mặc định 10%).
+## Ý chính
 
-> **Lưu ý:**
-> - **Chú thích 4 ghi sai năm:** chú thích nói "0314" là ngày 14/3/**2024**, nhưng chính đoạn văn nói GPT-4-0314 ra "cùng tháng" với BloombergGPT (3/2023). Đúng là 14/3/2023.
-> - **Bảng 7-6, tiêu đề cột không khớp số liệu:** cột ghi "LoRA trainable params (r=2, query & key matrices)", nhưng các con số chỉ đúng khi áp LoRA rank 2 cho **cả bốn** ma trận attention (q, k, v, o), hoặc cho hai ma trận với rank 4. Người tổng hợp tính: Llama 2 13B (40 lớp, chiều mô hình 5.120): 5.120 × 2 × 2 × 4 × 40 = 3.276.800 ≈ 3,28 triệu (nếu chỉ q và k ở rank 2 thì là 1,64 triệu); GPT-3 175B (96 lớp, chiều 12.288): 12.288 × 2 × 2 × 4 × 96 = 18.874.368 ≈ 18,87 triệu, trùng con số trong ghi chú của sách về "cả bốn ma trận rank 2" (nếu chỉ q và k thì 9,44 triệu). Cột bộ nhớ (16 bit, 2 byte mỗi tham số) đúng với các con số đã in: 6,55 MB và 37,7 MB.
-> - **Bảng 7-3, cột TF32 không nhất quán với cột FP16 (người tổng hợp kiểm tra bằng máy):** TF32 có cùng 10 bit định trị như FP16, nên khi giá trị nằm trong khoảng của FP16 và cùng làm tròn về số gần nhất, hai cột phải trùng nhau. Ba ô TF32 lại là kết quả **cắt bớt** (làm tròn về 0) thay vì làm tròn gần nhất: 0,12341308593 (làm tròn gần nhất là 0,12347412109375), 1234,0 (gần nhất là 1235,0), 1233920,0 (gần nhất là 1234944,0). Cột BF16 đúng; riêng 1236990,0 là cách in 6 chữ số có nghĩa của giá trị thật 1.236.992. Các ô FP16 đúng, kể cả hai ô INF (vì FP16 tối đa 65.504).
-> - **Lớp chữ và bản chuyển ePub cắt mất cột của bảng:** Bảng 7-2 (Ovadia et al.) chỉ còn bốn cột Base model, Base model + RAG, FT-reg, FT-p (cột cuối bị cắt dở trong ảnh) — trong khi đoạn văn nói bảng cho thấy "RAG với mô hình nền vượt RAG với mô hình đã finetune", tức bản gốc có thêm các cột RAG trên mô hình đã finetune mà bản này không hiển thị. Bảng 7-4 (BitNet) chỉ còn ba cột benchmark ARCe, ARCc, HS (thanh cuộn cho thấy còn cột bị cắt). Bảng 7-5 (LoRA với ngân sách 18 triệu tham số) chỉ còn bốn cột W_q, W_k, W_v, W_o ở rank 8; ba cột cho cấu hình hai ma trận rank 4 và bốn ma trận rank 2 — cấu hình mà lời văn nói là tốt nhất — bị cắt. Theo hiểu biết của người tổng hợp về bài báo LoRA (Hu et al., 2021, Bảng 5), các cột bị cắt là: W_q+W_k rank 4: 71,4 / 91,3; W_q+W_v rank 4: 73,7 / 91,3; cả bốn rank 2: 73,7 / 91,7 (WikiSQL / MultiNLI). Bản tổng hợp chép đúng các cột còn đọc được và ghi rõ chỗ này.
-> - **Công thức LoRA bị hỏng:** lớp chữ ghi "Wâ = W + αr WAB"; ngay trong ảnh trang công thức cũng in "Wâ". Đúng là W′ = W + (α/r)·W_AB (W phẩy, α chia r).
-> - **Ghi chú về phân rã hạng thấp:** sách viết rank ứng với "số cột của ma trận thứ nhất và số cột của ma trận thứ hai"; đúng là số cột của ma trận thứ nhất (9 × **1**) và số **hàng** của ma trận thứ hai (**1** × 9).
-> - **Tham chiếu chương sai:** ở trang PDF 607 sách viết thí nghiệm nên bắt đầu bằng prompt "theo các thực hành tốt ở Chương 6"; các thực hành prompt nằm ở Chương 5 (chính sách cũng dẫn đúng Chương 5 ở trang PDF 616).
-> - **Lỗi chữ:** "weight activation tends to have a more stable impact" phải là "weight quantization" (lượng tử hoá trọng số); "The prompt model weight determines…" phải là "prompt loss weight"; "the learning is likely too small" thiếu chữ "rate"; "less common on naive linear combinations" phải là "less common than"; "ImagetNet" là "ImageNet"; "backpropgation" là "backpropagation"; "If you want to a finetune" thừa "a".
-> - **Hình 7-5:** chú thích của sách nói activation lấn át "bộ nhớ cho trọng số", nhưng phần màu xanh trong hình thực ra là "bộ nhớ cho tham số **và trạng thái optimizer**" trên mỗi GPU (mô hình đã chia qua nhiều GPU), không phải toàn bộ trọng số.
-> - **Các điểm người tổng hợp không đồng ý hoặc chưa kiểm chứng được (theo hiểu biết của người tổng hợp):** (1) Sách ghi Claude 3.5 Sonnet có 70 tỷ tham số; Anthropic chưa công bố số tham số, nên đây là ước đoán bên ngoài. (2) Sách mô tả SOLAR 10.7B là "cộng 16 lớp lại thành 8"; bài báo SOLAR (Kim et al., 2023) mô tả việc **bỏ** 8 lớp cuối của bản thứ nhất và 8 lớp đầu của bản thứ hai rồi xếp 24 + 24 = 48 lớp; số lớp cuối cùng như nhau. Hình 7-19 trong sách vẽ ký hiệu "Merge ⊕" giữa hai khối 8 lớp, theo cách hiểu của tác giả. (3) Mixture-of-Agents của Together AI kết hợp *đầu ra* của nhiều LLM theo nhiều tầng (gần với ensemble), không phải xếp lớp trọng số; việc sách đặt nó dưới mục "layer stacking" dễ gây hiểu nhầm.
-> - **Ví dụ "60% đầu và 60% cuối":** về mặt tập hợp, hai mô hình trả lời được 60% câu đầu và 60% câu cuối thì hợp lại phủ 100% câu hỏi; sách nói "có lẽ 80%" là ước lượng dè dặt cho một mô hình gộp, không phải phép tính.
-> - **Quy ước:** "finetuning", "LoRA", "PEFT", "adapter", "prompt", "token", "embedding", "RAG", "benchmark", "batch size", "learning rate", "epoch" giữ tiếng Anh. "Trainable parameter" dịch là "tham số huấn luyện được"; "frozen parameter" là "tham số đóng băng"; "optimizer state" là "trạng thái optimizer"; "quantization" là "lượng tử hoá" (sách dùng từ này cho mọi phép giảm độ chính xác, kể cả sang định dạng số thực); "range bits/exponent" là "bit mũ (bit khoảng giá trị)"; "precision bits/significand" là "bit định trị (bit độ chính xác)"; "model merging" là "gộp mô hình"; "task vector" là "vector nhiệm vụ". Đơn vị: GB ở đây là 10⁹ byte như sách dùng (13 tỷ × 2 byte = 26 GB). "B" sau số tham số là tỷ (13B = 13 tỷ), "M" là triệu.
-> - **Chú thích cuối chương:** sách có 37 chú thích dồn ở trang PDF 689–693, mất số thứ tự trong lớp chữ; bản tổng hợp khớp theo nội dung và đưa vào đúng chỗ trong Nội dung chi tiết.
+**Finetuning chủ yếu dùng để sửa hành vi (định dạng, phong cách, cú pháp) chứ không phải để thêm kiến thức — "finetuning cho hình thức, RAG cho sự kiện"; nên chỉ finetune sau khi đã thử prompt một cách có hệ thống, và vì nút thắt lớn nhất của finetuning là bộ nhớ, gần như mọi kỹ thuật finetuning hiện đại (PEFT, LoRA, lượng tử hoá, gộp mô hình) đều nhằm giảm số tham số phải huấn luyện hoặc số bit cho mỗi giá trị.**
+
+Finetuning là một dạng học chuyển giao (transfer learning): bắt đầu từ mô hình nền đã có phần lớn năng lực, chỉnh tiếp để làm tốt một nhiệm vụ; nó tiết kiệm mẫu (vài trăm ví dụ thay vì hàng triệu).
+
+Lý do finetune: tăng chất lượng cho nhiệm vụ riêng (như phương ngữ SQL ít gặp), đầu ra có cấu trúc, giảm thiên lệch, và giúp mô hình nhỏ vượt mô hình lớn (Flan-T5 của Grammarly nhỏ hơn 60 lần mà vượt một biến thể GPT-3, chỉ với 82.000 cặp chỉ dẫn–đầu ra). Lý do không finetune: có thể làm hỏng các nhiệm vụ khác, tốn dữ liệu, cần kỹ năng huấn luyện, phải tự phục vụ mô hình và bảo trì khi mô hình nền mới ra nhanh hơn; BloombergGPT (50 tỷ tham số, 1,3 triệu giờ GPU A100, 1,3–2,6 triệu USD) bị GPT-4-0314 vượt xa trên benchmark tài chính (FiQA 87,15 so với 75,07; ConvFinQA 76,48 so với 43,41).
+
+Lỗi do thiếu thông tin thì dùng RAG (Mistral-7B: 0,481 lên 0,875 với RAG, chỉ 0,504–0,588 với finetuning); lỗi hành vi thì finetune.
+
+Phép tính bộ nhớ: suy luận cần N × M × 1,2 (mô hình 13B ở 2 byte: 26 GB trọng số, 31,2 GB tổng); huấn luyện cần thêm gradient và trạng thái optimizer — Adam cần 3 giá trị cho mỗi tham số huấn luyện được (13B × 3 × 2 byte = 78 GB; 7B full finetuning: 14 + 42 = 56 GB, vượt GPU tiêu dùng 12–24 GB), chưa kể activation có thể lớn hơn cả trọng số. Biểu diễn số: FP32 (1 bit dấu, 8 bit mũ, 23 bit định trị), FP16 (1/5/10, tối đa 65.504), BF16 (1/8/7, cùng khoảng giá trị với FP32 nhưng kém chính xác hơn), TF32 (1/8/10, thực ra 19 bit); nạp nhầm Llama 2 (BF16) vào FP16 làm chất lượng giảm rõ. Lượng tử hoá sau huấn luyện (PTQ) là chuẩn cho suy luận (16, 8, 4 bit; BitNet b1.58 dùng 1,58 bit mà ngang Llama 2 16-bit tới 3,9 tỷ tham số); huấn luyện thường dùng mixed precision.
+
+PEFT đạt gần full finetuning với số tham số ít hơn nhiều bậc độ lớn (adapter của Houlsby: cách 0,4% với 3% tham số). LoRA phân rã cập nhật thành tích hai ma trận nhỏ A (n × r) và B (r × m), gộp lại được vào trọng số nên không thêm độ trễ; với GPT-3 175B chỉ cần khoảng 4,7 triệu tham số huấn luyện được (0,0027%); rank 4–64 thường đủ; giữ adapter tách rời cho phép phục vụ nhiều mô hình (100 khách hàng: 23,3 triệu tham số thay vì 1,68 tỷ). QLoRA lưu trọng số ở 4 bit NF4 để finetune mô hình 65B trên một GPU 48 GB.
+
+Gộp mô hình (cộng/nội suy, xếp lớp, nối) là cách làm finetuning đa nhiệm, triển khai trên thiết bị và tăng cỡ mô hình (SOLAR 10.7B: 32 × 2 − 16 = 48 lớp).
+
+Cuối chương là các tham số huấn luyện: learning rate (1e-7 tới 1e-3), batch size (dưới 8 dễ bất ổn; dùng gradient accumulation), số epoch (1–2 cho hàng triệu ví dụ, 4–10 cho hàng nghìn), prompt loss weight (mặc định 10%).
 
 ## Sơ đồ
 
@@ -901,7 +899,7 @@ Nhiều cải thiện mà finetuning đem lại cũng đạt được, ở mức
 | GPT-4-0314 (zero-shot) | 87,15 | 76,48 |
 | BloombergGPT | 75,07 | 43,41 |
 
-Chênh lệch là 12,08 điểm ở FiQA và 33,07 điểm ở ConvFinQA (GPT-4 cao hơn khoảng 1,76 lần; người tổng hợp tính). Từ đó đã có thêm nhiều mô hình cỡ vừa có chất lượng tương đương GPT-4: Claude 3.5 Sonnet (sách ghi 70 tỷ tham số — xem khối Lưu ý), Llama 3-70B-Instruct và Qwen2-72B-Instruct; hai mô hình sau là open weight, tự host được. Vì benchmark không phản ánh đủ chất lượng thực tế, có thể BloombergGPT vẫn làm tốt cho các trường hợp cụ thể của Bloomberg, và đội Bloomberg chắc chắn có được kinh nghiệm quý giá để phát triển và vận hành mô hình sau này.
+Chênh lệch là 12,08 điểm ở FiQA và 33,07 điểm ở ConvFinQA (GPT-4 cao hơn khoảng 1,76 lần; người tổng hợp tính). Từ đó đã có thêm nhiều mô hình cỡ vừa có chất lượng tương đương GPT-4: Claude 3.5 Sonnet (sách ghi 70 tỷ tham số — xem mục Lưu ý cuối chương), Llama 3-70B-Instruct và Qwen2-72B-Instruct; hai mô hình sau là open weight, tự host được. Vì benchmark không phản ánh đủ chất lượng thực tế, có thể BloombergGPT vẫn làm tốt cho các trường hợp cụ thể của Bloomberg, và đội Bloomberg chắc chắn có được kinh nghiệm quý giá để phát triển và vận hành mô hình sau này.
 
 Cả thí nghiệm finetuning lẫn prompt đều cần quy trình có hệ thống. Làm thí nghiệm prompt giúp xây pipeline đánh giá, hướng dẫn gán nhãn dữ liệu và thói quen theo dõi thí nghiệm — những bậc thang cho finetuning sau này.
 
@@ -1077,7 +1075,7 @@ Chú thích của sách về TF32: thường con số cuối tên định dạng
 | 123456,789 | INF | 123392,0 | 123456,0 |
 | 1234567,89 | INF | 1236990,0 | 1233920,0 |
 
-Giá trị vượt khoảng của FP16 được làm tròn thành vô cùng (INF). Người tổng hợp kiểm tra lại bằng cách cắt bit của FP32 với làm tròn về số gần nhất: cột FP16 và BF16 đúng (1236990,0 là cách in rút gọn của 1.236.992); cột TF32 có ba ô theo kiểu cắt bớt thay vì làm tròn gần nhất (xem khối Lưu ý). Lý do các giá trị lệch: ở khoảng 1024–2048, FP16 có bước nhảy 2⁻¹⁰ × 1024 = 1, nên 1234,56789 thành 1235; BF16 có bước nhảy 2⁻⁷ × 1024 = 8, nên thành 1232 (bội số gần nhất của 8). Ở khoảng 65.536–131.072, BF16 có bước 512, nên 123456,789 thành 241 × 512 = 123.392.
+Giá trị vượt khoảng của FP16 được làm tròn thành vô cùng (INF). Người tổng hợp kiểm tra lại bằng cách cắt bit của FP32 với làm tròn về số gần nhất: cột FP16 và BF16 đúng (1236990,0 là cách in rút gọn của 1.236.992); cột TF32 có ba ô theo kiểu cắt bớt thay vì làm tròn gần nhất (xem mục Lưu ý cuối chương). Lý do các giá trị lệch: ở khoảng 1024–2048, FP16 có bước nhảy 2⁻¹⁰ × 1024 = 1, nên 1234,56789 thành 1235; BF16 có bước nhảy 2⁻⁷ × 1024 = 8, nên thành 1232 (bội số gần nhất của 8). Ở khoảng 65.536–131.072, BF16 có bước 512, nên 123456,789 thành 241 × 512 = 123.392.
 
 Dù BF16 và FP16 cùng 16 bit, BF16 có nhiều bit cho khoảng giá trị và ít bit cho độ chính xác hơn. Nhờ vậy BF16 biểu diễn được các giá trị lớn mà FP16 không chứa được, nhưng kém chính xác hơn FP16: 1234,56789 thành 1235,0 trong FP16 (thay đổi 0,035%) nhưng 1232,0 trong BF16 (thay đổi 0,208%). Người tổng hợp tính lại: (1235 − 1234,56789) / 1234,56789 = 0,0350%; (1234,56789 − 1232) / 1234,56789 = 0,2080% — khớp.
 
@@ -1254,7 +1252,7 @@ Họ thấy áp LoRA cho cả bốn ma trận với rank 2 cho kết quả tốt
 | WikiSQL (± 0,5%) | 70,4 | 70,0 | 73,0 | 73,2 |
 | MultiNLI (± 0,1%) | 91,0 | 90,8 | 91,0 | 91,3 |
 
-(Các cột hai ma trận rank 4 và bốn ma trận rank 2 bị cắt trong bản chuyển; xem khối Lưu ý.) Đọc bảng: với một ma trận, W_v và W_o tốt hơn W_q và W_k khoảng 3 điểm trên WikiSQL.
+(Các cột hai ma trận rank 4 và bốn ma trận rank 2 bị cắt trong bản chuyển; xem mục Lưu ý cuối chương.) Đọc bảng: với một ma trận, W_v và W_o tốt hơn W_q và W_k khoảng 3 điểm trên WikiSQL.
 
 Quan sát thực nghiệm cho thấy áp LoRA cho nhiều ma trận hơn, kể cả ma trận feedforward, cho kết quả tốt hơn. Databricks thấy mức tăng lớn nhất đến từ việc áp LoRA cho mọi lớp feedforward (Sooriyarachchi, 2023). Fomenko et al. (2024) nhận xét LoRA trên feedforward bổ trợ cho LoRA trên attention, dù LoRA trên attention thường hiệu quả hơn trong giới hạn bộ nhớ.
 
@@ -1295,7 +1293,7 @@ LoRA lan nhanh dẫn tới nhiều biến thể; một số nhằm giảm thêm 
 | Llama 2 (13B) | 26 GB | 3,28 triệu | 6,55 MB |
 | GPT-3 (175B) | 350 GB | 18,87 triệu | 37,7 MB |
 
-Người tổng hợp tính: adapter chỉ bằng 6,55 MB / 26 GB ≈ 0,025% bộ nhớ trọng số Llama 2 13B và 37,7 MB / 350 GB ≈ 0,011% với GPT-3. Số tham số trong bảng ứng với LoRA rank 2 trên cả bốn ma trận attention, không phải chỉ query và key (xem khối Lưu ý). Kể cả khi tính thêm gradient và hai trạng thái Adam (3 × 2 byte mỗi tham số), phần LoRA của GPT-3 chỉ thêm 18,87 triệu × 6 byte ≈ 113 MB.
+Người tổng hợp tính: adapter chỉ bằng 6,55 MB / 26 GB ≈ 0,025% bộ nhớ trọng số Llama 2 13B và 37,7 MB / 350 GB ≈ 0,011% với GPT-3. Số tham số trong bảng ứng với LoRA rank 2 trên cả bốn ma trận attention, không phải chỉ query và key (xem mục Lưu ý cuối chương). Kể cả khi tính thêm gradient và hai trạng thái Adam (3 × 2 byte mỗi tham số), phần LoRA của GPT-3 chỉ thêm 18,87 triệu × 6 byte ≈ 113 MB.
 
 Thay vì giảm số tham số LoRA, có thể giảm bộ nhớ hiệu quả hơn bằng cách lượng tử hoá trọng số, activation và/hoặc gradient khi finetune. Một phiên bản LoRA lượng tử hoá hứa hẹn sớm là **QLoRA** (Dettmers et al., 2023). (Chú thích: QLoRA không phải công trình LoRA lượng tử hoá duy nhất; nhiều phòng thí nghiệm làm mà không công bố.) Trong bài báo LoRA gốc, trọng số mô hình được lưu ở 16 bit khi finetune. QLoRA lưu trọng số ở 4 bit nhưng giải lượng tử (chuyển ngược) về BF16 khi tính forward và backward pass.
 
@@ -1385,7 +1383,7 @@ Hướng này lấy các lớp khác nhau từ một hoặc nhiều mô hình r�
 
 Thành công sớm của frankenmerging là Goliath-120B (alpindale, 2023), gộp từ hai mô hình Llama 2-70B đã finetune là Xwin và Euryale, lấy 72 trong 80 lớp của mỗi mô hình. (Người tổng hợp ước lượng: 144 lớp × khoảng 0,875 tỷ tham số mỗi lớp của Llama 2-70B ≈ 126 tỷ, gần với tên "120B".)
 
-Xếp lớp có thể dùng để huấn luyện mô hình **mixture-of-experts** (MoE), như "Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints" (Komatsuzaki et al., 2022). Thay vì huấn luyện MoE từ đầu, lấy một mô hình pre-train và sao nhiều bản của một số lớp hoặc mô-đun, thêm một bộ định tuyến (router) gửi mỗi đầu vào tới bản phù hợp nhất, rồi huấn luyện tiếp mô hình gộp cùng router. Hình 7-18 của sách: khối dày đặc gốc gồm layer norm → attention → cộng tắt → layer norm → MLP → cộng tắt; khối MoE "tái chế" chép nguyên trọng số layer norm và attention, còn MLP được chép thành E bản (MLP 1 … MLP E), thêm một router khởi tạo từ đầu chọn chuyên gia, và đầu ra là tổng có trọng số của các chuyên gia được chọn. Komatsuzaki et al. cho thấy xếp lớp tạo được mô hình vượt MoE huấn luyện từ đầu. Sách cũng nêu Together AI trộn sáu mô hình mã nguồn mở yếu hơn thành Mixture-of-Agents, đạt chất lượng tương đương GPT-4o của OpenAI trên một số benchmark (Wang et al., 2024) (xem khối Lưu ý về cách xếp loại này).
+Xếp lớp có thể dùng để huấn luyện mô hình **mixture-of-experts** (MoE), như "Sparse Upcycling: Training Mixture-of-Experts from Dense Checkpoints" (Komatsuzaki et al., 2022). Thay vì huấn luyện MoE từ đầu, lấy một mô hình pre-train và sao nhiều bản của một số lớp hoặc mô-đun, thêm một bộ định tuyến (router) gửi mỗi đầu vào tới bản phù hợp nhất, rồi huấn luyện tiếp mô hình gộp cùng router. Hình 7-18 của sách: khối dày đặc gốc gồm layer norm → attention → cộng tắt → layer norm → MLP → cộng tắt; khối MoE "tái chế" chép nguyên trọng số layer norm và attention, còn MLP được chép thành E bản (MLP 1 … MLP E), thêm một router khởi tạo từ đầu chọn chuyên gia, và đầu ra là tổng có trọng số của các chuyên gia được chọn. Komatsuzaki et al. cho thấy xếp lớp tạo được mô hình vượt MoE huấn luyện từ đầu. Sách cũng nêu Together AI trộn sáu mô hình mã nguồn mở yếu hơn thành Mixture-of-Agents, đạt chất lượng tương đương GPT-4o của OpenAI trên một số benchmark (Wang et al., 2024) (xem mục Lưu ý cuối chương về cách xếp loại này).
 
 **Tăng cỡ mô hình (model upscaling).** Một trường hợp thú vị của xếp lớp là tăng cỡ mô hình — nghiên cứu cách tạo mô hình lớn hơn bằng ít tài nguyên hơn. Có lúc ta muốn mô hình lớn hơn mô hình đang có, vì mô hình lớn thường tốt hơn. Ví dụ đội của bạn từng huấn luyện mô hình vừa GPU 40 GB, nay có máy 80 GB phục vụ được mô hình lớn hơn; thay vì huấn luyện mô hình mới từ đầu, dùng xếp lớp để tạo mô hình lớn hơn từ mô hình có sẵn.
 
@@ -1715,3 +1713,124 @@ Finetuning là công cụ mạnh nhưng đắt để sửa *hành vi* của mô 
   - Bài học BloombergGPT: đầu tư hàng triệu USD vào mô hình chuyên ngành có thể bị mô hình đa dụng vượt trong vài tháng; trước khi duyệt ngân sách finetune hay huấn luyện, yêu cầu so sánh với mô hình đa dụng mạnh nhất cộng RAG trên chính tập đánh giá của tổ chức.
   - Với dữ liệu nhạy cảm (giao dịch khách hàng, báo cáo nội bộ), finetune mô hình open weight cỡ vừa để host nội bộ là lý do hợp lệ; dùng RAG cho số liệu thay đổi (giá, lãi suất, quy định), finetuning cho định dạng báo cáo, phân loại giao dịch, thuật ngữ nội bộ.
   - Tính tổng chi phí sở hữu chứ không chỉ chi phí huấn luyện: dữ liệu gán nhãn, nhân lực học máy, hạ tầng phục vụ, và chi phí finetune lại định kỳ — tương tự đánh giá một khoản đầu tư có khấu hao nhanh vì công nghệ nền đổi liên tục.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 7 trên một trang: năm nhánh lớn theo năm mục chính của chương gốc (mục 2–6), mỗi nhánh ghi luận điểm, quy tắc chọn và con số quan trọng nhất; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+mindmap
+  root((Chương 7: finetuning sửa hành vi chứ không thêm kiến thức, và mọi kỹ thuật đều nhằm giảm bộ nhớ))
+    Mục 2 — Finetuning là học chuyển giao
+      Bắt đầu từ mô hình nền đã có phần lớn năng lực
+        Finetuning thay đổi trọng số, prompt thì không
+        Tiết kiệm mẫu: vài trăm ví dụ thay vì hàng triệu khi huấn luyện từ đầu
+        Finetuning mở khoá năng lực có sẵn mà prompt khó khai thác
+      Nhiều dạng finetuning
+        Continued pre-training trên văn bản thô rẻ, trước khi dùng dữ liệu gán nhãn đắt
+        Supervised finetuning với cặp chỉ dẫn–phản hồi; preference finetuning với phản hồi thắng và thua
+        Infilling để sửa mã ở giữa tệp; long-context có thể làm kém ở chuỗi ngắn
+      Code Llama làm từ Llama 2
+        500 tỷ token mã, 20 tỷ token long-context, 5 tỷ token chỉ dẫn
+        Context tăng từ 4.096 lên 16.384 token
+    Mục 3 — Khi nào nên finetune
+      Lý do nên finetune
+        Nhiệm vụ riêng mô hình chưa học đủ, như phương ngữ SQL ít gặp; đầu ra JSON, YAML
+        Giảm thiên lệch bằng dữ liệu chọn lọc
+        Mô hình nhỏ finetune vượt mô hình lớn: Flan-T5 nhỏ hơn 60 lần vượt GPT-3, chỉ 82.000 cặp
+      Lý do chưa nên finetune
+        Tốt lên ở nhiệm vụ này có thể kém đi ở nhiệm vụ khác
+        Tốn dữ liệu, kỹ năng huấn luyện, phục vụ và bảo trì khi mô hình nền mới ra liên tục
+        BloombergGPT 50 tỷ tham số, 1,3–2,6 triệu USD vẫn thua GPT-4 zero-shot: ConvFinQA 43,41 so với 76,48
+        Phải thử prompt có hệ thống trước; nhiều nhu cầu finetune biến mất khi prompt làm đúng
+      Lỗi thông tin dùng RAG, lỗi hành vi dùng finetuning
+        Thiếu thông tin hoặc lỗi thời → RAG: Mistral-7B từ 0,481 lên 0,875, finetune chỉ 0,504–0,588
+        Sai định dạng, sai trọng tâm, cú pháp hiếm → finetune
+        Có cả hai loại lỗi → bắt đầu RAG, truy xuất từ khoá như BM25
+      Quy trình gợi ý
+        Prompt → thêm 1–50 ví dụ → RAG đơn giản → RAG nâng cao hoặc finetune → kết hợp cả hai
+        Có pipeline đánh giá trước mọi bước
+    Mục 4 — Nút thắt bộ nhớ
+      Ba yếu tố quyết định bộ nhớ
+        Số tham số, số tham số huấn luyện được, số bit mỗi giá trị
+      Suy luận ≈ N × M × 1,2
+        Mô hình 13B ở 2 byte: 26 GB trọng số, 31,2 GB tổng
+      Huấn luyện tốn hơn nhiều suy luận
+        Mỗi tham số huấn luyện được cần thêm gradient và 2 trạng thái Adam
+        Full finetuning 7B: 14 + 42 = 56 GB, vượt GPU tiêu dùng 12–24 GB
+        Activation có thể lớn hơn cả trọng số; gradient checkpointing tính lại thay vì lưu
+      Định dạng số
+        FP32 4 byte, FP16 và BF16 2 byte, INT8 1 byte, INT4 nửa byte
+        FP16 tối đa 65.504; BF16 cùng khoảng giá trị FP32 nhưng kém chính xác hơn
+        Nạp Llama 2 BF16 vào FP16 làm chất lượng giảm rõ
+      Lượng tử hoá
+        PTQ sau huấn luyện là chuẩn cho suy luận ở 16, 8, 4 bit
+        BitNet b1.58 dùng 1,58 bit ngang Llama 2 16-bit tới 3,9 tỷ tham số
+        Huấn luyện nhạy sai số hơn → mixed precision hoặc QAT
+    Mục 5 — Kỹ thuật finetuning tiết kiệm bộ nhớ
+      PEFT: huấn luyện ít tham số mà gần bằng full finetuning
+        Adapter Houlsby: cách full finetuning 0,4% với 3% tham số
+        Partial finetuning cần khoảng 25% tham số mới ngang, kém hiệu quả hơn
+        Soft prompt: vector huấn luyện được đưa vào cùng token đầu vào
+      LoRA phân rã cập nhật thành A nhân B
+        A cỡ n × r, B cỡ r × m; thêm r × n + m tham số mỗi ma trận
+        GPT-3 175B chỉ cần khoảng 4,7 triệu tham số huấn luyện, 0,0027%
+        Hiệu quả vì chiều nội tại của LLM sau pre-training rất thấp
+        Rank 4–64 thường đủ; áp cho cả bốn ma trận attention, thêm feedforward càng tốt
+      Phục vụ LoRA
+        Gộp adapter vào trọng số → không thêm độ trễ
+        Giữ tách cho nhiều khách hàng: 100 khách cần 23,3 triệu thay vì 1,68 tỷ tham số
+        Nhược điểm: chất lượng thường kém full finetuning
+      QLoRA lưu trọng số 4 bit NF4
+        Finetune mô hình 65B trên một GPU 48 GB
+        Guanaco 65B Elo 1022 so với ChatGPT 966; đổi lại huấn luyện chậm hơn
+      Gộp mô hình thay cho finetune đa nhiệm
+        Finetune song song từng nhiệm vụ rồi gộp, tránh quên thảm khốc
+        Cộng: trung bình, SLERP, vector nhiệm vụ; TIES giữ 20% tham số ngang giữ 100%
+        Xếp lớp tăng cỡ mô hình: SOLAR 10.7B có 32 × 2 − 16 = 48 lớp
+        Nối adapter không giảm bộ nhớ nên không được khuyến nghị
+    Mục 6 — Chiến thuật finetuning
+      Chọn mô hình nền
+        Lộ trình tiến dần: thử mã trên mô hình rẻ, dữ liệu trên mô hình vừa, rồi mô hình tốt nhất
+        Lộ trình distillation: mô hình mạnh nhất sinh dữ liệu để huấn luyện mô hình rẻ hơn
+      Chọn phương pháp và framework
+        Mới bắt đầu dùng LoRA; full finetuning cần ít nhất hàng nghìn ví dụ
+        API finetuning dễ nhưng ít núm vặn; tự làm với PEFT, Axolotl, unsloth, LitGPT
+      Siêu tham số
+        Learning rate 1e-7 tới 1e-3; loss dao động → giảm, loss giảm chậm → tăng
+        Batch dưới 8 dễ bất ổn; gradient accumulation cộng dồn qua nhiều batch
+        Epoch: 1–2 cho hàng triệu ví dụ, 4–10 cho hàng nghìn; loss kiểm định tăng → overfit
+        Prompt loss weight mặc định 10%: học chủ yếu từ phản hồi
+    Thông điệp xuyên suốt
+      Finetuning cho hình thức, RAG cho sự kiện
+      Giảm tham số huấn luyện được hoặc giảm số bit là hai đòn bẩy bộ nhớ
+      Finetune thì dễ, có dữ liệu để finetune mới khó
+```
+
+## Nguồn
+
+Chip Huyen, *AI Engineering: Building Applications with Foundation Models*, O'Reilly Media, ấn bản đầu tiên (12/2024), Chương 7 "Finetuning", trang PDF 594–693.
+
+## Tác giả
+
+Chip Huyen — nhà văn và nhà khoa học máy tính chuyên về hệ thống học máy; từng làm ở NVIDIA, Snorkel AI, sáng lập một startup hạ tầng AI (sau được mua lại), dạy hệ thống học máy ở Đại học Stanford; tác giả *Designing Machine Learning Systems* (O'Reilly 2022) và bốn sách tiếng Việt bán chạy, trong đó có bộ *Xách ba lô lên và đi*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 5 ([C05-prompt-engineering.md](C05-prompt-engineering.md)) và Chương 6 ([C06-rag-va-agent.md](C06-rag-va-agent.md)) điều chỉnh mô hình bằng cách đưa vào chỉ dẫn, context và công cụ, không đụng tới trọng số. Chương 7 là bước kế tiếp: điều chỉnh mô hình bằng cách thay đổi trọng số. Chương này dựa trên các khái niệm đã có ở Chương 2 ([C02-hieu-ve-mo-hinh-nen-tang.md](C02-hieu-ve-mo-hinh-nen-tang.md): pre-training, supervised finetuning, preference finetuning, kiến trúc transformer), dùng tiêu chí chọn mô hình và quy trình đánh giá của Chương 4 ([C04-danh-gia-he-thong-ai.md](C04-danh-gia-he-thong-ai.md)). Chương 8 ([C08-ky-thuat-du-lieu.md](C08-ky-thuat-du-lieu.md)) giải quyết phần khó nhất mà chương này để lại — có dữ liệu để finetune (dữ liệu chỉ dẫn, distillation, dữ liệu tổng hợp); Chương 9 ([C09-toi-uu-suy-luan.md](C09-toi-uu-suy-luan.md)) đi tiếp về lượng tử hoá, KV cache và prompt caching ở khâu suy luận.
+
+## Lưu ý
+
+- **Chú thích 4 ghi sai năm:** chú thích nói "0314" là ngày 14/3/**2024**, nhưng chính đoạn văn nói GPT-4-0314 ra "cùng tháng" với BloombergGPT (3/2023). Đúng là 14/3/2023.
+- **Bảng 7-6, tiêu đề cột không khớp số liệu:** cột ghi "LoRA trainable params (r=2, query & key matrices)", nhưng các con số chỉ đúng khi áp LoRA rank 2 cho **cả bốn** ma trận attention (q, k, v, o), hoặc cho hai ma trận với rank 4. Người tổng hợp tính: Llama 2 13B (40 lớp, chiều mô hình 5.120): 5.120 × 2 × 2 × 4 × 40 = 3.276.800 ≈ 3,28 triệu (nếu chỉ q và k ở rank 2 thì là 1,64 triệu); GPT-3 175B (96 lớp, chiều 12.288): 12.288 × 2 × 2 × 4 × 96 = 18.874.368 ≈ 18,87 triệu, trùng con số trong ghi chú của sách về "cả bốn ma trận rank 2" (nếu chỉ q và k thì 9,44 triệu). Cột bộ nhớ (16 bit, 2 byte mỗi tham số) đúng với các con số đã in: 6,55 MB và 37,7 MB.
+- **Bảng 7-3, cột TF32 không nhất quán với cột FP16 (người tổng hợp kiểm tra bằng máy):** TF32 có cùng 10 bit định trị như FP16, nên khi giá trị nằm trong khoảng của FP16 và cùng làm tròn về số gần nhất, hai cột phải trùng nhau. Ba ô TF32 lại là kết quả **cắt bớt** (làm tròn về 0) thay vì làm tròn gần nhất: 0,12341308593 (làm tròn gần nhất là 0,12347412109375), 1234,0 (gần nhất là 1235,0), 1233920,0 (gần nhất là 1234944,0). Cột BF16 đúng; riêng 1236990,0 là cách in 6 chữ số có nghĩa của giá trị thật 1.236.992. Các ô FP16 đúng, kể cả hai ô INF (vì FP16 tối đa 65.504).
+- **Lớp chữ và bản chuyển ePub cắt mất cột của bảng:** Bảng 7-2 (Ovadia et al.) chỉ còn bốn cột Base model, Base model + RAG, FT-reg, FT-p (cột cuối bị cắt dở trong ảnh) — trong khi đoạn văn nói bảng cho thấy "RAG với mô hình nền vượt RAG với mô hình đã finetune", tức bản gốc có thêm các cột RAG trên mô hình đã finetune mà bản này không hiển thị. Bảng 7-4 (BitNet) chỉ còn ba cột benchmark ARCe, ARCc, HS (thanh cuộn cho thấy còn cột bị cắt). Bảng 7-5 (LoRA với ngân sách 18 triệu tham số) chỉ còn bốn cột W_q, W_k, W_v, W_o ở rank 8; ba cột cho cấu hình hai ma trận rank 4 và bốn ma trận rank 2 — cấu hình mà lời văn nói là tốt nhất — bị cắt. Theo hiểu biết của người tổng hợp về bài báo LoRA (Hu et al., 2021, Bảng 5), các cột bị cắt là: W_q+W_k rank 4: 71,4 / 91,3; W_q+W_v rank 4: 73,7 / 91,3; cả bốn rank 2: 73,7 / 91,7 (WikiSQL / MultiNLI). Bản tổng hợp chép đúng các cột còn đọc được và ghi rõ chỗ này.
+- **Công thức LoRA bị hỏng:** lớp chữ ghi "Wâ = W + αr WAB"; ngay trong ảnh trang công thức cũng in "Wâ". Đúng là W′ = W + (α/r)·W_AB (W phẩy, α chia r).
+- **Ghi chú về phân rã hạng thấp:** sách viết rank ứng với "số cột của ma trận thứ nhất và số cột của ma trận thứ hai"; đúng là số cột của ma trận thứ nhất (9 × **1**) và số **hàng** của ma trận thứ hai (**1** × 9).
+- **Tham chiếu chương sai:** ở trang PDF 607 sách viết thí nghiệm nên bắt đầu bằng prompt "theo các thực hành tốt ở Chương 6"; các thực hành prompt nằm ở Chương 5 (chính sách cũng dẫn đúng Chương 5 ở trang PDF 616).
+- **Lỗi chữ:** "weight activation tends to have a more stable impact" phải là "weight quantization" (lượng tử hoá trọng số); "The prompt model weight determines…" phải là "prompt loss weight"; "the learning is likely too small" thiếu chữ "rate"; "less common on naive linear combinations" phải là "less common than"; "ImagetNet" là "ImageNet"; "backpropgation" là "backpropagation"; "If you want to a finetune" thừa "a".
+- **Hình 7-5:** chú thích của sách nói activation lấn át "bộ nhớ cho trọng số", nhưng phần màu xanh trong hình thực ra là "bộ nhớ cho tham số **và trạng thái optimizer**" trên mỗi GPU (mô hình đã chia qua nhiều GPU), không phải toàn bộ trọng số.
+- **Các điểm người tổng hợp không đồng ý hoặc chưa kiểm chứng được (theo hiểu biết của người tổng hợp):** (1) Sách ghi Claude 3.5 Sonnet có 70 tỷ tham số; Anthropic chưa công bố số tham số, nên đây là ước đoán bên ngoài. (2) Sách mô tả SOLAR 10.7B là "cộng 16 lớp lại thành 8"; bài báo SOLAR (Kim et al., 2023) mô tả việc **bỏ** 8 lớp cuối của bản thứ nhất và 8 lớp đầu của bản thứ hai rồi xếp 24 + 24 = 48 lớp; số lớp cuối cùng như nhau. Hình 7-19 trong sách vẽ ký hiệu "Merge ⊕" giữa hai khối 8 lớp, theo cách hiểu của tác giả. (3) Mixture-of-Agents của Together AI kết hợp *đầu ra* của nhiều LLM theo nhiều tầng (gần với ensemble), không phải xếp lớp trọng số; việc sách đặt nó dưới mục "layer stacking" dễ gây hiểu nhầm.
+- **Ví dụ "60% đầu và 60% cuối":** về mặt tập hợp, hai mô hình trả lời được 60% câu đầu và 60% câu cuối thì hợp lại phủ 100% câu hỏi; sách nói "có lẽ 80%" là ước lượng dè dặt cho một mô hình gộp, không phải phép tính.
+- **Quy ước:** "finetuning", "LoRA", "PEFT", "adapter", "prompt", "token", "embedding", "RAG", "benchmark", "batch size", "learning rate", "epoch" giữ tiếng Anh. "Trainable parameter" dịch là "tham số huấn luyện được"; "frozen parameter" là "tham số đóng băng"; "optimizer state" là "trạng thái optimizer"; "quantization" là "lượng tử hoá" (sách dùng từ này cho mọi phép giảm độ chính xác, kể cả sang định dạng số thực); "range bits/exponent" là "bit mũ (bit khoảng giá trị)"; "precision bits/significand" là "bit định trị (bit độ chính xác)"; "model merging" là "gộp mô hình"; "task vector" là "vector nhiệm vụ". Đơn vị: GB ở đây là 10⁹ byte như sách dùng (13 tỷ × 2 byte = 26 GB). "B" sau số tham số là tỷ (13B = 13 tỷ), "M" là triệu.
+- **Chú thích cuối chương:** sách có 37 chú thích dồn ở trang PDF 689–693, mất số thứ tự trong lớp chữ; bản tổng hợp khớp theo nội dung và đưa vào đúng chỗ trong Nội dung chi tiết.

@@ -1,28 +1,19 @@
 # Chương 4 — Đánh giá hệ thống AI (Evaluate AI Systems)
 
-**Nguồn:** Chip Huyen, *AI Engineering: Building Applications with Foundation Models*, O'Reilly Media, ấn bản đầu tiên (12/2024), Chương 4 "Evaluate AI Systems", trang PDF 315–415.
-**Tác giả:** Chip Huyen — nhà văn và nhà khoa học máy tính chuyên về hệ thống học máy; từng làm ở NVIDIA, Snorkel AI, sáng lập một startup hạ tầng AI (sau được mua lại), dạy hệ thống học máy ở Đại học Stanford; tác giả *Designing Machine Learning Systems* (O'Reilly 2022) và bốn sách tiếng Việt bán chạy, trong đó có bộ *Xách ba lô lên và đi*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 3 ([C03-phuong-phap-danh-gia.md](C03-phuong-phap-danh-gia.md)) trình bày các *phương pháp* đánh giá tự động (đánh giá chính xác, độ tương đồng, AI làm giám khảo, xếp hạng so sánh) và vì sao mô hình nền tảng khó đánh giá. Chương 4 đi theo chiều ngược lại: xuất phát từ *ứng dụng cụ thể*, hỏi cần đánh giá theo những tiêu chí nào, dùng các phương pháp của Chương 3 thế nào cho từng tiêu chí, rồi dùng các tiêu chí đó để chọn mô hình (dùng API hay tự host, đọc benchmark công khai ra sao) và dựng một quy trình đánh giá (evaluation pipeline) dùng suốt vòng đời ứng dụng. Chương khép lại phần "đánh giá" chuyên biệt của sách và mở đường cho phần thích nghi mô hình: Chương 5 ([C05-prompt-engineering.md](C05-prompt-engineering.md)) bàn prompt và độ nhạy của mô hình với prompt, Chương 6 ([C06-rag-va-agent.md](C06-rag-va-agent.md)) đánh giá truy xuất và agent, Chương 7 và 9 ([C07-finetuning.md](C07-finetuning.md), [C09-toi-uu-suy-luan.md](C09-toi-uu-suy-luan.md)) tính bộ nhớ, độ trễ, chi phí, Chương 8 ([C08-ky-thuat-du-lieu.md](C08-ky-thuat-du-lieu.md)) kiểm định chất lượng dữ liệu và tái dùng hướng dẫn chấm điểm để gán nhãn, Chương 10 ([C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md](C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md)) giám sát và phản hồi người dùng trong vận hành.
-**Ý chính:** **Câu hỏi đúng không phải "mô hình nào tốt nhất" mà "mô hình nào tốt nhất cho ứng dụng của mình"; muốn trả lời, nhóm phát triển phải định nghĩa tiêu chí đánh giá trước khi xây dựng (phát triển hướng theo đánh giá), dùng benchmark công khai chỉ để loại mô hình kém, rồi tự dựng một quy trình đánh giá riêng có hướng dẫn chấm điểm rõ ràng, dữ liệu được phân lát và đủ cỡ mẫu.** Phần một chia tiêu chí thành bốn nhóm: năng lực theo lĩnh vực (thường đo bằng đánh giá chính xác: tính đúng chức năng cho code, câu hỏi trắc nghiệm cho kiến thức — tháng 4/2024, 75% tác vụ trong lm-evaluation-harness là trắc nghiệm, mốc ngẫu nhiên 25% với bốn lựa chọn); năng lực sinh (độ trôi chảy, mạch lạc từ NLG cũ ít quan trọng dần; nổi lên tính nhất quán sự kiện — đo bằng AI giám khảo, SelfCheckGPT, SAFE bốn bước với Google Search, bài toán suy diễn văn bản với bộ chấm DeBERTa 184 triệu tham số học trên 764.000 cặp; benchmark TruthfulQA 817 câu, 38 nhóm, chuyên gia người đạt 94%, GPT-4 sau RLHF khoảng 60% — và an toàn với sáu nhóm nội dung độc hại, RealToxicityPrompts 100.000 prompt); năng lực làm theo chỉ dẫn (IFEval 25 loại chỉ dẫn kiểm tra tự động được, INFOBench chấm bằng danh sách câu hỏi có/không, đóng vai là loại sử dụng phổ biến thứ tám trong một triệu hội thoại của LMSYS với 5,83%); chi phí và độ trễ (tối ưu Pareto, phân biệt điều bắt buộc với điều mong muốn; bảng tiêu chí mẫu yêu cầu dưới 30 USD/1 triệu token đầu ra, time to first token P90 dưới 200 ms, Elo trên 1.200, pass@1 HumanEval trên 90%). Phần hai là quy trình chọn mô hình bốn bước lặp lại (lọc theo thuộc tính cứng, dùng benchmark công khai thu hẹp, tự thử nghiệm, giám sát), cân nhắc API thương mại hay tự host mô hình mã nguồn mở theo bảy trục (quyền riêng tư dữ liệu, nguồn gốc và bản quyền dữ liệu, hiệu năng, chức năng, chi phí, quyền kiểm soát, chạy trên thiết bị), và cách đọc benchmark công khai: bảng xếp hạng chọn ít benchmark (Hugging Face 6, HELM 10, chỉ trùng 2) không rõ lý do, các benchmark tương quan mạnh (MMLU với WinoGrande 0,9011), cách gộp điểm còn tùy tiện, và dữ liệu benchmark bị nhiễm vào dữ liệu huấn luyện (GPT-3 có 13 benchmark bị nhiễm ít nhất 40%). Phần ba là quy trình đánh giá: đánh giá từng thành phần và theo cả lượt lẫn tác vụ; viết hướng dẫn đánh giá với tiêu chí, thang điểm có ví dụ, gắn với chỉ số kinh doanh (ví dụ tính nhất quán sự kiện 80%, 90%, 98% cho phép tự động hóa 30%, 50%, 90% yêu cầu hỗ trợ khách hàng); chọn phương pháp và dữ liệu, phân lát dữ liệu (nghịch lý Simpson), kiểm tra cỡ mẫu bằng bootstrap (quy tắc của OpenAI: muốn phát hiện chênh lệch nhỏ hơn 3 lần thì cần gấp 10 lần mẫu — 30% cần khoảng 10 mẫu, 1% cần khoảng 10.000); đánh giá chính quy trình đánh giá và lặp lại có theo dõi thí nghiệm.
+## Ý chính
 
-> **Lưu ý:**
-> - **Bảng 4-3 và Bảng 4-5 bị cắt mép phải trong bản PDF** (cả lớp chữ lẫn ảnh trang). Ở Bảng 4-3, cột "Ideal" trên ảnh trang chỉ thấy "< $15 / 1M t…", "> 1M…", "< 10…", "< 30s", "> 12…", "> 95…", nhưng lớp chữ của PDF còn giữ "< 100" và "> 125"; bản tổng hợp khôi phục thành < 15 USD/1 triệu token, > 1 triệu TPM, < 100 ms, < 30 s, > 1.250, > 95% (đơn vị ms và chữ số 0 cuối của 1.250 là phần người tổng hợp điền thêm). Ở Bảng 4-5, ba cột TruthfulQA, WinoGrande, GSM-8K bị cắt; bản tổng hợp điền lại bằng tính đối xứng của ma trận tương quan, ô nào không suy ra được thì ghi "không đọc được".
-> - **Bảng 4-5 có một chỗ không đối xứng:** hàng HellaSwag, cột TruthfulQA đọc được "0.480…", nhưng hàng TruthfulQA, cột HellaSwag ghi 0.4228. Ma trận tương quan Pearson phải đối xứng, nên một trong hai số bị chép sai (nhiều khả năng ô hàng HellaSwag bị chép lặp từ hàng ARC-C "0.480…").
-> - **Prompt chấm tính nhất quán sự kiện của Liu et al. (2023)** thiếu chữ: "Does the summary untruthful or misleading facts…" (đúng ra "Does the summary contain untruthful…"). Chú thích của sách nói đây là lỗi chép nguyên văn từ bài báo gốc, giữ lại để cho thấy con người dễ mắc lỗi khi viết prompt.
-> - **Mục Roleplaying:** câu "a heuristic would be the average of the model's outputs" thiếu chữ; ý đúng là *độ dài trung bình* của các câu trả lời (vai người ít nói thì câu trả lời phải ngắn).
-> - **Hộp "Are OpenAI's models getting worse?":** sách nêu "one potential reason" (đánh giá khó, ngay OpenAI cũng không chắc mô hình tốt lên hay xấu đi), rồi viết "If the second reason is true…" mà không hề nêu lý do thứ hai. Từ chú thích đi kèm (cùng một bản cập nhật làm ứng dụng này tệ đi, ứng dụng kia tốt lên) và câu kết, người tổng hợp hiểu lý do thứ hai là: mô hình mới tốt hơn *trung bình* nhưng tệ hơn ở một số tác vụ cụ thể.
-> - **Lỗi chính tả trong sách:** "Berkely Software Distribution" (đúng: Berkeley); "500 daily conservations" ở ví dụ LinkedIn (đúng: conversations); "evaluation criteria" dùng như số ít ("a crucial evaluation criteria").
-> - **Trích dẫn TruthfulQA không thống nhất:** cùng một bài báo được ghi "Lin et al., 2022" ở mục tính nhất quán sự kiện và "Lin et al., 2021" ở danh sách benchmark của Hugging Face (bản arXiv 2021, bản hội nghị ACL 2022).
-> - **IFEval "25 loại chỉ dẫn" nhưng Bảng 4-2 chỉ có 17 dòng** (người tổng hợp đếm). Bảng là phần trích; theo hiểu biết của người tổng hợp, bài báo IFEval còn các nhóm như chữ hoa/chữ thường, câu mở đầu/kết thúc bắt buộc, dấu câu, lặp lại yêu cầu.
-> - **HELM:** sách gọi lúc là "Stanford's HELM Leaderboard", lúc là "HELM Lite"; danh sách 10 benchmark sách nêu đúng là của HELM Lite. Sách xếp OpenBookQA vào nhóm "đọc hiểu dựa trên một cuốn sách hay truyện dài"; theo hiểu biết của người tổng hợp, OpenBookQA thực ra là câu hỏi khoa học tiểu học kèm một "cuốn sách mở" gồm các sự kiện khoa học, chỉ NarrativeQA mới là đọc hiểu truyện dài.
-> - **Hình 4-3 (khuynh hướng chính trị của mô hình):** sách viết GPT-4 nghiêng tả và tự do (libertarian), Llama nghiêng độc đoán (authoritarian). Trong ảnh, nhãn "GPT-4" và "LLaMA" nối bằng đường mảnh tới các chấm khó phân biệt; bản tổng hợp giữ nhận định của sách và chỉ mô tả bố cục chung của hình.
-> - **Các số đọc từ biểu đồ** (Hình 4-2, Hình 4-7) là ước lượng bằng mắt từ ảnh trang, sai số khoảng 1–2 điểm phần trăm. Số ở Hình 4-4, 4-8, 4-9, 4-10 được in sẵn trên hình nên chép chính xác.
-> - **Sách viết "seven axes"** cho quyết định API hay tự host, nhưng phần Tóm tắt chỉ kể sáu ("data privacy, data lineage, performance, functionality, control, and cost"), thiếu "chạy trên thiết bị".
-> - **Bảng 4-6 (nghịch lý Simpson):** sách in đậm ô "Model B, Group 2: 69% (55/80)", nhưng ở Nhóm 2 mô hình A (73%) mới tốt hơn; chữ đậm có vẻ đặt nhầm. Các số khớp khi người tổng hợp tính lại (68,75% làm tròn thành 69%, 82,6% thành 83%).
-> - **Hình 4-10 (nhiễm dữ liệu của GPT-3):** cột chênh lệch tương đối không khớp hẳn với số đã in: tính lại được −19,2% cho DROP (sách −21%) và +22,1% cho QuAC (sách +20%); có lẽ bảng gốc của Brown et al. tính trên số chưa làm tròn.
-> - **Bảng cỡ mẫu của OpenAI (Bảng 4-7)** không nêu giả định thống kê; người tổng hợp tính theo kiểm định hai tỷ lệ độc lập (mức ý nghĩa 5%, lực 80%) thì số mẫu cần gấp khoảng 4 lần số trong bảng.
-> - **Quy ước dịch:** "evaluation pipeline" dịch là *quy trình đánh giá*; "evaluation-driven development" là *phát triển hướng theo đánh giá*; "factual consistency" là *tính nhất quán sự kiện* (local/global: *cục bộ/toàn cục*); "textual entailment" là *suy diễn văn bản*; "hard/soft attributes" là *thuộc tính cứng/mềm*; "open weight / open model" giữ tiếng Anh kèm giải thích; "data lineage" là *nguồn gốc dữ liệu*; "data contamination" là *nhiễm dữ liệu*; "slicing" là *phân lát dữ liệu*; "scoring rubric" là *thang chấm điểm*. Các thuật ngữ phổ biến (prompt, token, benchmark, leaderboard, finetuning, RAG, agent, logprobs, latency, guardrail, API) giữ tiếng Anh.
-> - **Những điều đã thay đổi sau 2024 (theo hiểu biết của người tổng hợp):** Bảng xếp hạng Open LLM Leaderboard của Hugging Face đã ngừng cập nhật (khoảng đầu 2025); Chatbot Arena tách thành công ty LMArena; MMLU, GSM-8K, HumanEval, IFEval đều đã bão hòa với mô hình hàng đầu; giấy phép Llama 3.1 trở đi đã cho phép dùng đầu ra để cải thiện mô hình khác (kèm điều kiện ghi tên); OpenAI đã phát hành lại mô hình open weight (gpt-oss, 2025); khoảng cách giữa mô hình mở mạnh nhất (DeepSeek, Qwen, Kimi…) và mô hình đóng trên nhiều benchmark đã thu hẹp hơn mức Hình 4-7 cho thấy.
+**Câu hỏi đúng không phải "mô hình nào tốt nhất" mà "mô hình nào tốt nhất cho ứng dụng của mình"; muốn trả lời, nhóm phát triển phải định nghĩa tiêu chí đánh giá trước khi xây dựng (phát triển hướng theo đánh giá), dùng benchmark công khai chỉ để loại mô hình kém, rồi tự dựng một quy trình đánh giá riêng có hướng dẫn chấm điểm rõ ràng, dữ liệu được phân lát và đủ cỡ mẫu.**
+
+Phần một chia tiêu chí thành bốn nhóm:
+
+- năng lực theo lĩnh vực (thường đo bằng đánh giá chính xác: tính đúng chức năng cho code, câu hỏi trắc nghiệm cho kiến thức — tháng 4/2024, 75% tác vụ trong lm-evaluation-harness là trắc nghiệm, mốc ngẫu nhiên 25% với bốn lựa chọn);
+- năng lực sinh (độ trôi chảy, mạch lạc từ NLG cũ ít quan trọng dần; nổi lên tính nhất quán sự kiện — đo bằng AI giám khảo, SelfCheckGPT, SAFE bốn bước với Google Search, bài toán suy diễn văn bản với bộ chấm DeBERTa 184 triệu tham số học trên 764.000 cặp; benchmark TruthfulQA 817 câu, 38 nhóm, chuyên gia người đạt 94%, GPT-4 sau RLHF khoảng 60% — và an toàn với sáu nhóm nội dung độc hại, RealToxicityPrompts 100.000 prompt);
+- năng lực làm theo chỉ dẫn (IFEval 25 loại chỉ dẫn kiểm tra tự động được, INFOBench chấm bằng danh sách câu hỏi có/không, đóng vai là loại sử dụng phổ biến thứ tám trong một triệu hội thoại của LMSYS với 5,83%);
+- chi phí và độ trễ (tối ưu Pareto, phân biệt điều bắt buộc với điều mong muốn; bảng tiêu chí mẫu yêu cầu dưới 30 USD/1 triệu token đầu ra, time to first token P90 dưới 200 ms, Elo trên 1.200, pass@1 HumanEval trên 90%).
+
+Phần hai là quy trình chọn mô hình bốn bước lặp lại (lọc theo thuộc tính cứng, dùng benchmark công khai thu hẹp, tự thử nghiệm, giám sát), cân nhắc API thương mại hay tự host mô hình mã nguồn mở theo bảy trục (quyền riêng tư dữ liệu, nguồn gốc và bản quyền dữ liệu, hiệu năng, chức năng, chi phí, quyền kiểm soát, chạy trên thiết bị), và cách đọc benchmark công khai: bảng xếp hạng chọn ít benchmark (Hugging Face 6, HELM 10, chỉ trùng 2) không rõ lý do, các benchmark tương quan mạnh (MMLU với WinoGrande 0,9011), cách gộp điểm còn tùy tiện, và dữ liệu benchmark bị nhiễm vào dữ liệu huấn luyện (GPT-3 có 13 benchmark bị nhiễm ít nhất 40%).
+
+Phần ba là quy trình đánh giá: đánh giá từng thành phần và theo cả lượt lẫn tác vụ; viết hướng dẫn đánh giá với tiêu chí, thang điểm có ví dụ, gắn với chỉ số kinh doanh (ví dụ tính nhất quán sự kiện 80%, 90%, 98% cho phép tự động hóa 30%, 50%, 90% yêu cầu hỗ trợ khách hàng); chọn phương pháp và dữ liệu, phân lát dữ liệu (nghịch lý Simpson), kiểm tra cỡ mẫu bằng bootstrap (quy tắc của OpenAI: muốn phát hiện chênh lệch nhỏ hơn 3 lần thì cần gấp 10 lần mẫu — 30% cần khoảng 10 mẫu, 1% cần khoảng 10.000); đánh giá chính quy trình đánh giá và lặp lại có theo dõi thí nghiệm.
 
 ## Sơ đồ
 
@@ -1079,7 +1070,7 @@ Dùng API thì chi phí mỗi token gần như không đổi khi mở rộng quy
 
 #### Bảng tiêu chí mẫu
 
-Bảng dưới (Bảng 4-3 của sách) là ví dụ tiêu chí chọn mô hình cho một ứng dụng hư cấu. Dòng **quy mô** đặc biệt quan trọng khi đánh giá API, vì cần dịch vụ API chịu được quy mô của mình. (Cột "Lý tưởng" bị cắt mép trong bản PDF; xem khối Lưu ý.)
+Bảng dưới (Bảng 4-3 của sách) là ví dụ tiêu chí chọn mô hình cho một ứng dụng hư cấu. Dòng **quy mô** đặc biệt quan trọng khi đánh giá API, vì cần dịch vụ API chịu được quy mô của mình. (Cột "Lý tưởng" bị cắt mép trong bản PDF; xem mục Lưu ý cuối chương.)
 
 | Tiêu chí | Chỉ số | Benchmark | Yêu cầu cứng | Lý tưởng |
 |---|---|---|---|---|
@@ -1315,7 +1306,7 @@ Nói chung, bảng xếp hạng công khai cố cân bằng giữa độ bao ph�
 
 #### Tương quan giữa benchmark
 
-Một khía cạnh hay bị bỏ qua khi chọn benchmark là **tương quan benchmark**: nếu hai benchmark tương quan hoàn toàn thì không cần cả hai, và benchmark tương quan mạnh có thể khuếch đại thiên lệch. Bảng dưới (Bảng 4-5 của sách) là hệ số tương quan Pearson giữa sáu benchmark của bảng Hugging Face, do Balázs Galambosi tính tháng 1/2024. Bản PDF bị cắt ba cột cuối; các ô có dấu * được người tổng hợp điền bằng tính đối xứng, ô "?" không suy ra được (xem khối Lưu ý).
+Một khía cạnh hay bị bỏ qua khi chọn benchmark là **tương quan benchmark**: nếu hai benchmark tương quan hoàn toàn thì không cần cả hai, và benchmark tương quan mạnh có thể khuếch đại thiên lệch. Bảng dưới (Bảng 4-5 của sách) là hệ số tương quan Pearson giữa sáu benchmark của bảng Hugging Face, do Balázs Galambosi tính tháng 1/2024. Bản PDF bị cắt ba cột cuối; các ô có dấu * được người tổng hợp điền bằng tính đối xứng, ô "?" không suy ra được (xem mục Lưu ý cuối chương).
 
 | | ARC-C | HellaSwag | MMLU | TruthfulQA | WinoGrande | GSM-8K |
 |---|---:|---:|---:|---:|---:|---:|
@@ -1357,7 +1348,7 @@ Mỗi lần OpenAI cập nhật mô hình, người ta lại phàn nàn mô hìn
 | (e) Agent HotpotQA dùng LangChain (n = 7.405, khớp chính xác) | "Philip Cortez và Julian Castro là đảng Dân chủ hay Cộng hòa?" | 1,2% | 37,8% | 22,8% | 14,0% |
 | (f) Sinh code và định dạng (n = 50, chạy được ngay) | "Cho số nguyên n > 0, tính tổng các số trong [1, n] chia hết cho 3, 5 hoặc 7." | 52,0% | 10,0% | 22,0% | 2,0% |
 
-Cùng một lần cập nhật làm GPT-4 sinh code chạy được ngay giảm từ 52% xuống 10% nhưng làm tác vụ agent tăng từ 1,2% lên 37,8%. Giả sử OpenAI không cố ý phát hành mô hình tệ hơn, vì sao có cảm nhận này? Một lý do tiềm năng là đánh giá khó, và không ai — kể cả OpenAI — biết chắc mô hình tốt lên hay tệ đi; tác giả nghi OpenAI không đến mức "bay mù" hoàn toàn. Sách viết tiếp "nếu lý do thứ hai đúng" mà không nêu lý do thứ hai (xem khối Lưu ý); từ ngữ cảnh, đó là: mô hình mới tốt hơn trung bình nhưng tệ hơn ở một số tác vụ cụ thể. Nếu vậy, nó củng cố ý rằng **mô hình tốt nhất nói chung chưa chắc là mô hình tốt nhất cho ứng dụng của bạn**. Chú thích của sách nhắc phải phân biệt giai thoại với chân lý phổ quát: cùng một bản cập nhật có thể làm ứng dụng này tệ đi, ứng dụng kia tốt lên — chuyển từ GPT-3.5-turbo-0301 sang GPT-3.5-turbo-1106 làm tác vụ phân loại ý định của Voiceflow **giảm 10%** nhưng làm chatbot hỗ trợ khách hàng của GoDaddy tốt lên.
+Cùng một lần cập nhật làm GPT-4 sinh code chạy được ngay giảm từ 52% xuống 10% nhưng làm tác vụ agent tăng từ 1,2% lên 37,8%. Giả sử OpenAI không cố ý phát hành mô hình tệ hơn, vì sao có cảm nhận này? Một lý do tiềm năng là đánh giá khó, và không ai — kể cả OpenAI — biết chắc mô hình tốt lên hay tệ đi; tác giả nghi OpenAI không đến mức "bay mù" hoàn toàn. Sách viết tiếp "nếu lý do thứ hai đúng" mà không nêu lý do thứ hai (xem mục Lưu ý cuối chương); từ ngữ cảnh, đó là: mô hình mới tốt hơn trung bình nhưng tệ hơn ở một số tác vụ cụ thể. Nếu vậy, nó củng cố ý rằng **mô hình tốt nhất nói chung chưa chắc là mô hình tốt nhất cho ứng dụng của bạn**. Chú thích của sách nhắc phải phân biệt giai thoại với chân lý phổ quát: cùng một bản cập nhật có thể làm ứng dụng này tệ đi, ứng dụng kia tốt lên — chuyển từ GPT-3.5-turbo-0301 sang GPT-3.5-turbo-1106 làm tác vụ phân loại ý định của Voiceflow **giảm 10%** nhưng làm chatbot hỗ trợ khách hàng của GoDaddy tốt lên.
 
 #### Tự chạy benchmark và quy đổi điểm
 
@@ -1837,7 +1828,7 @@ Giá trị của một mô hình nền tảng chỉ xác định được trong 
 - **Hai heuristic phát hiện nhiễm** (n-gram, perplexity) được nêu ngắn; không bàn các nhiễm dạng diễn đạt lại (paraphrase) mà trùng n-gram bỏ sót.
 - **Phần an toàn** liệt kê nhóm nội dung nhưng không bàn đo lường định lượng (tỷ lệ từ chối sai, tỷ lệ bỏ lọt) hay đánh đổi giữa an toàn và hữu ích, dù sách có nhắc chuyện kiểm duyệt quá tay ở phần API.
 - **Ánh xạ chỉ số đánh giá sang chỉ số kinh doanh** (80% nhất quán cho phép tự động hóa 30%…) là ví dụ giả định; sách không chỉ cách ước lượng ánh xạ đó (thường cần A/B test hoặc thử nghiệm có kiểm soát).
-- **Một số lỗi biên tập và trình bày:** bảng bị cắt mép (4-3, 4-5), ô không đối xứng ở Bảng 4-5, câu "lý do thứ hai" bị thiếu, câu heuristic đóng vai thiếu chữ "độ dài", chữ đậm có vẻ đặt nhầm ở Bảng 4-6, tên HELM/HELM Lite dùng lẫn, mô tả OpenBookQA chưa chính xác (xem khối Lưu ý).
+- **Một số lỗi biên tập và trình bày:** bảng bị cắt mép (4-3, 4-5), ô không đối xứng ở Bảng 4-5, câu "lý do thứ hai" bị thiếu, câu heuristic đóng vai thiếu chữ "độ dài", chữ đậm có vẻ đặt nhầm ở Bảng 4-6, tên HELM/HELM Lite dùng lẫn, mô tả OpenBookQA chưa chính xác (xem mục Lưu ý cuối chương).
 
 ### Những gì đã thay đổi từ cuối 2024 (theo hiểu biết của người tổng hợp)
 
@@ -1873,3 +1864,136 @@ Giá trị của một mô hình nền tảng chỉ xác định được trong 
   - Dữ liệu khách hàng và dữ liệu giám sát thường bị luật riêng tư và luật đưa dữ liệu ra nước ngoài ràng buộc — đây là thuộc tính cứng, có thể loại API nước ngoài ngay từ bước 1.
   - Đọc điểm benchmark của mô hình như đọc báo cáo tự công bố của doanh nghiệp: hỏi mẫu đo là gì, có bị "nhiễm" (học trước đề) không, có bị gộp theo cách có lợi không — và luôn tự kiểm trên dữ liệu của mình, kể cả cảnh giác với nghịch lý Simpson khi so hai mô hình trên tập dữ liệu có cơ cấu khác nhau.
   - Bài toán API hay tự host là bài toán chi phí cố định so với chi phí biến đổi quen thuộc: tính điểm hòa vốn theo khối lượng token, nhưng cộng đủ chi phí nhân sự, rủi ro nhà cung cấp và chi phí chuyển đổi.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 4 trên một trang: năm nhánh lớn theo các khối nội dung chính của chương gốc — tiêu chí đánh giá (mục 2), bốn nhóm tiêu chí (mục 3–10), chọn mô hình và API hay tự host (mục 11–14), benchmark công khai (mục 15–18), quy trình đánh giá riêng (mục 19–22) — mỗi nhánh ghi luận điểm, quy tắc và con số quan trọng nhất; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+mindmap
+  root((Chương 4: không hỏi mô hình nào tốt nhất, mà mô hình nào tốt nhất cho ứng dụng của mình))
+    Mục 2 — Định nghĩa tiêu chí đánh giá trước khi xây
+      Ứng dụng không đánh giá được còn tệ hơn không triển khai
+        Vẫn tốn tiền duy trì, gỡ đi có khi còn tốn hơn
+        Nhiều chatbot hỗ trợ khách hàng đến nay không biết giúp hay hại
+      Phát triển hướng theo đánh giá
+        Giống viết test trước khi viết code: định nghĩa tiêu chí trước khi xây
+        Ứng dụng phổ biến nhất là ứng dụng đo được: hệ gợi ý, chống gian lận, sinh code
+        Đánh giá là nút cổ chai lớn nhất của việc áp dụng AI
+      Bốn nhóm tiêu chí
+        Năng lực theo lĩnh vực, năng lực sinh, làm theo chỉ dẫn, chi phí và độ trễ
+    Mục 3–10 — Đo từng nhóm tiêu chí thế nào
+      Năng lực theo lĩnh vực: đo bằng đánh giá chính xác
+        Mô hình chưa từng thấy tiếng Latin thì không dịch được Latin, không kỹ thuật nào cứu
+        Code đo bằng tính đúng chức năng; kiến thức đo bằng câu hỏi trắc nghiệm
+        75% tác vụ lm-evaluation-harness là trắc nghiệm, mốc chọn bừa 25% với 4 lựa chọn
+        Trắc nghiệm đo khả năng phân biệt, không đo khả năng sinh
+      Năng lực sinh: trọng tâm là nhất quán sự kiện
+        Trôi chảy, mạch lạc của NLG cũ ít quan trọng dần vì mô hình đã viết tốt
+        Cục bộ: khớp ngữ cảnh cho trước, tiêu chí then chốt của RAG; toàn cục: khớp kiến thức chung
+        Đo bằng AI giám khảo, SelfCheckGPT sinh thêm N câu, SAFE tách mệnh đề rồi tra Google
+        Suy diễn văn bản: kéo theo, mâu thuẫn, trung tính; bộ chấm DeBERTa 184 triệu tham số
+        TruthfulQA 817 câu: chuyên gia người 94%, GPT-4 khoảng 60%
+      An toàn: sáu nhóm nội dung độc hại
+        Ngôn ngữ không phù hợp, hướng dẫn có hại, thù ghét, bạo lực, định kiến, thiên lệch chính trị tôn giáo
+        Đo bằng bộ phân loại độc hại rẻ và benchmark RealToxicityPrompts 100.000 prompt
+      Làm theo chỉ dẫn: tách khỏi hiểu lĩnh vực
+        Hiểu cảm xúc nhưng trả HAPPY thay vì POSITIVE là làm theo chỉ dẫn kém, làm hỏng hệ thống sau
+        IFEval: 25 loại chỉ dẫn kiểm tra tự động bằng chương trình đơn giản
+        INFOBench: chấm bằng danh sách câu hỏi có hoặc không
+        Đóng vai chiếm 5,83% hội thoại LMSYS, phải đúng cả phong cách lẫn điều nhân vật không biết
+      Chi phí và độ trễ: tối ưu Pareto
+        Xác định mục tiêu không được nhân nhượng, lọc theo nó, rồi chọn mô hình tốt nhất còn lại
+        Phân biệt bắt buộc với nên có: độ trễ cao thường chỉ gây khó chịu
+        API: giá mỗi token gần như cố định; tự host: càng nhiều token càng rẻ mỗi token
+        Bảng mẫu: dưới 30 USD mỗi 1 triệu token, TTFT P90 dưới 200 ms, Elo trên 1.200
+    Mục 11–14 — Chọn mô hình và quyết định API hay tự host
+      Quy trình bốn bước, lặp lại
+        Lọc theo thuộc tính cứng → thu hẹp bằng benchmark công khai → tự thử nghiệm → giám sát khi vận hành
+        Thuộc tính cứng như giấy phép, quyền riêng tư không đổi được; thuộc tính mềm như độ chính xác cải thiện được
+        Tách tác vụ thành hai bước nâng độ chính xác từ 20% lên 70%
+      Open source thực chất đa số là open weight
+        Open weight công bố trọng số, open model công bố cả dữ liệu huấn luyện
+        Ba câu hỏi giấy phép: dùng thương mại, hạn chế gì, dùng đầu ra để huấn luyện mô hình khác
+        Llama 2, 3 đòi xin phép riêng khi trên 700 triệu người dùng hoạt động hằng tháng
+      Bảy trục quyết định API hay tự host
+        Quyền riêng tư: Samsung cấm ChatGPT 5/2023 sau khi nhân viên làm lộ bí mật
+        Hiệu năng: mô hình mạnh nhất nhiều khả năng vẫn đóng, khoảng cách MMLU đang thu hẹp
+        Chức năng: API có sẵn function calling, đầu ra JSON, nhưng ít mở logprobs
+        Kiểm soát là lý do chính chọn mô hình mở với 60%; API có rate limit, đổi phiên bản không báo
+        Chạy trên thiết bị hoặc không có internet thì loại API
+      API đắt, nhưng kỹ thuật có thể còn đắt hơn
+        Tự host cần nhân tài để tối ưu, mở rộng, bảo trì dịch vụ suy luận, dựng guardrail
+        Đánh giá lại ở mỗi quy mô; ưu tiên mô hình theo API chuẩn và có cộng đồng lớn
+    Mục 15–18 — Benchmark công khai chỉ để loại mô hình kém
+      Bảng xếp hạng chọn benchmark tùy ý
+        Hugging Face dùng 6, HELM dùng 10, chỉ trùng 2, không rõ lý do chọn
+        Gộp điểm tùy tiện: lấy trung bình coi 80% TruthfulQA ngang 80% GSM-8K
+      Benchmark tương quan mạnh
+        MMLU và WinoGrande tương quan 0,9011; tương quan hoàn toàn thì chỉ cần một
+        Tương quan mạnh khuếch đại thiên lệch của bảng xếp hạng
+      Nhiễm dữ liệu làm điểm cao giả tạo
+        Mô hình 1 triệu tham số học thẳng trên benchmark đạt điểm gần tuyệt đối
+        Đa số nhiễm là vô ý do thu thập dữ liệu internet; GPT-3 có 13 benchmark nhiễm ít nhất 40%
+        Phát hiện bằng trùng n-gram 13 token, chính xác nhưng đắt, hoặc perplexity thấp bất thường, rẻ hơn
+      Tự dựng bảng xếp hạng riêng
+        Chọn mô hình giống dựng bảng xếp hạng theo nhu cầu của mình
+        Cập nhật mô hình có thể làm tốt việc này, hỏng việc kia: GPT-4 sinh code 52% xuống 10%
+    Mục 19–22 — Dựng quy trình đánh giá riêng
+      Bước 1: đánh giá từng thành phần
+        Trích CV từ PDF: đo riêng bước trích chữ và bước trích tên công ty để biết hỏng ở đâu
+        Theo tác vụ quan trọng hơn theo lượt: sửa lỗi sau 2 lượt khác xa sau 20 lượt
+      Bước 2: hướng dẫn đánh giá là bước quan trọng nhất
+        Định nghĩa tốt là gì, cả điều không nên làm và đầu vào ngoài phạm vi
+        Câu đúng chưa chắc tốt: LinkedIn, câu Bạn hoàn toàn không phù hợp đúng nhưng vô ích
+        Thang chấm điểm có ví dụ cho từng mức, thử với người chấm đến khi hết mơ hồ
+        Gắn chỉ số kinh doanh: nhất quán sự kiện 80%, 90%, 98% → tự động hóa 30%, 50%, 90% yêu cầu
+      Bước 3: phương pháp và dữ liệu
+        Phối hợp rẻ và đắt: bộ phân loại rẻ trên 100% dữ liệu, AI giám khảo đắt trên 1%
+        Có logprobs thì dùng; người chấm vẫn là chỉ số Bắc Đẩu, LinkedIn chấm tay 500 hội thoại mỗi ngày
+        Phân lát dữ liệu để tránh nghịch lý Simpson: A thắng mọi nhóm nhưng thua ở tổng 78% so với 83%
+        Nếu quan tâm điều gì, hãy đặt một tập kiểm tra cho điều đó
+      Cỡ mẫu đủ lớn
+        Bootstrap: rút lại có hoàn lại, kết quả dao động 90% và 70% thì tập quá nhỏ
+        Chênh lệch nhỏ đi 3 lần cần gấp 10 lần mẫu: 30% cần ~10, 1% cần ~10.000
+        Inverse Scaling: 300 ví dụ là tối thiểu tuyệt đối, muốn ít nhất 1.000
+      Đánh giá chính quy trình và lặp lại
+        Hỏi: đúng tín hiệu, lặp lại được, các chỉ số tương quan, thêm bao nhiêu chi phí độ trễ
+        Đặt temperature giám khảo bằng 0; theo dõi thí nghiệm ghi mọi biến: dữ liệu, thang điểm, prompt
+    Thông điệp xuyên suốt
+      Không định nghĩa được thế nào là tốt thì chưa nên xây
+      Không có phương pháp đánh giá hoàn hảo, phối hợp nhiều phương pháp để giảm sai lệch
+      Mỗi lần đổi mô hình hay phiên bản, chạy lại toàn bộ quy trình đánh giá
+```
+
+## Nguồn
+
+Chip Huyen, *AI Engineering: Building Applications with Foundation Models*, O'Reilly Media, ấn bản đầu tiên (12/2024), Chương 4 "Evaluate AI Systems", trang PDF 315–415.
+
+## Tác giả
+
+Chip Huyen — nhà văn và nhà khoa học máy tính chuyên về hệ thống học máy; từng làm ở NVIDIA, Snorkel AI, sáng lập một startup hạ tầng AI (sau được mua lại), dạy hệ thống học máy ở Đại học Stanford; tác giả *Designing Machine Learning Systems* (O'Reilly 2022) và bốn sách tiếng Việt bán chạy, trong đó có bộ *Xách ba lô lên và đi*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 3 ([C03-phuong-phap-danh-gia.md](C03-phuong-phap-danh-gia.md)) trình bày các *phương pháp* đánh giá tự động (đánh giá chính xác, độ tương đồng, AI làm giám khảo, xếp hạng so sánh) và vì sao mô hình nền tảng khó đánh giá. Chương 4 đi theo chiều ngược lại: xuất phát từ *ứng dụng cụ thể*, hỏi cần đánh giá theo những tiêu chí nào, dùng các phương pháp của Chương 3 thế nào cho từng tiêu chí, rồi dùng các tiêu chí đó để chọn mô hình (dùng API hay tự host, đọc benchmark công khai ra sao) và dựng một quy trình đánh giá (evaluation pipeline) dùng suốt vòng đời ứng dụng. Chương khép lại phần "đánh giá" chuyên biệt của sách và mở đường cho phần thích nghi mô hình: Chương 5 ([C05-prompt-engineering.md](C05-prompt-engineering.md)) bàn prompt và độ nhạy của mô hình với prompt, Chương 6 ([C06-rag-va-agent.md](C06-rag-va-agent.md)) đánh giá truy xuất và agent, Chương 7 và 9 ([C07-finetuning.md](C07-finetuning.md), [C09-toi-uu-suy-luan.md](C09-toi-uu-suy-luan.md)) tính bộ nhớ, độ trễ, chi phí, Chương 8 ([C08-ky-thuat-du-lieu.md](C08-ky-thuat-du-lieu.md)) kiểm định chất lượng dữ liệu và tái dùng hướng dẫn chấm điểm để gán nhãn, Chương 10 ([C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md](C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md)) giám sát và phản hồi người dùng trong vận hành.
+
+## Lưu ý
+
+- **Bảng 4-3 và Bảng 4-5 bị cắt mép phải trong bản PDF** (cả lớp chữ lẫn ảnh trang). Ở Bảng 4-3, cột "Ideal" trên ảnh trang chỉ thấy "< $15 / 1M t…", "> 1M…", "< 10…", "< 30s", "> 12…", "> 95…", nhưng lớp chữ của PDF còn giữ "< 100" và "> 125"; bản tổng hợp khôi phục thành < 15 USD/1 triệu token, > 1 triệu TPM, < 100 ms, < 30 s, > 1.250, > 95% (đơn vị ms và chữ số 0 cuối của 1.250 là phần người tổng hợp điền thêm). Ở Bảng 4-5, ba cột TruthfulQA, WinoGrande, GSM-8K bị cắt; bản tổng hợp điền lại bằng tính đối xứng của ma trận tương quan, ô nào không suy ra được thì ghi "không đọc được".
+- **Bảng 4-5 có một chỗ không đối xứng:** hàng HellaSwag, cột TruthfulQA đọc được "0.480…", nhưng hàng TruthfulQA, cột HellaSwag ghi 0.4228. Ma trận tương quan Pearson phải đối xứng, nên một trong hai số bị chép sai (nhiều khả năng ô hàng HellaSwag bị chép lặp từ hàng ARC-C "0.480…").
+- **Prompt chấm tính nhất quán sự kiện của Liu et al. (2023)** thiếu chữ: "Does the summary untruthful or misleading facts…" (đúng ra "Does the summary contain untruthful…"). Chú thích của sách nói đây là lỗi chép nguyên văn từ bài báo gốc, giữ lại để cho thấy con người dễ mắc lỗi khi viết prompt.
+- **Mục Roleplaying:** câu "a heuristic would be the average of the model's outputs" thiếu chữ; ý đúng là *độ dài trung bình* của các câu trả lời (vai người ít nói thì câu trả lời phải ngắn).
+- **Hộp "Are OpenAI's models getting worse?":** sách nêu "one potential reason" (đánh giá khó, ngay OpenAI cũng không chắc mô hình tốt lên hay xấu đi), rồi viết "If the second reason is true…" mà không hề nêu lý do thứ hai. Từ chú thích đi kèm (cùng một bản cập nhật làm ứng dụng này tệ đi, ứng dụng kia tốt lên) và câu kết, người tổng hợp hiểu lý do thứ hai là: mô hình mới tốt hơn *trung bình* nhưng tệ hơn ở một số tác vụ cụ thể.
+- **Lỗi chính tả trong sách:** "Berkely Software Distribution" (đúng: Berkeley); "500 daily conservations" ở ví dụ LinkedIn (đúng: conversations); "evaluation criteria" dùng như số ít ("a crucial evaluation criteria").
+- **Trích dẫn TruthfulQA không thống nhất:** cùng một bài báo được ghi "Lin et al., 2022" ở mục tính nhất quán sự kiện và "Lin et al., 2021" ở danh sách benchmark của Hugging Face (bản arXiv 2021, bản hội nghị ACL 2022).
+- **IFEval "25 loại chỉ dẫn" nhưng Bảng 4-2 chỉ có 17 dòng** (người tổng hợp đếm). Bảng là phần trích; theo hiểu biết của người tổng hợp, bài báo IFEval còn các nhóm như chữ hoa/chữ thường, câu mở đầu/kết thúc bắt buộc, dấu câu, lặp lại yêu cầu.
+- **HELM:** sách gọi lúc là "Stanford's HELM Leaderboard", lúc là "HELM Lite"; danh sách 10 benchmark sách nêu đúng là của HELM Lite. Sách xếp OpenBookQA vào nhóm "đọc hiểu dựa trên một cuốn sách hay truyện dài"; theo hiểu biết của người tổng hợp, OpenBookQA thực ra là câu hỏi khoa học tiểu học kèm một "cuốn sách mở" gồm các sự kiện khoa học, chỉ NarrativeQA mới là đọc hiểu truyện dài.
+- **Hình 4-3 (khuynh hướng chính trị của mô hình):** sách viết GPT-4 nghiêng tả và tự do (libertarian), Llama nghiêng độc đoán (authoritarian). Trong ảnh, nhãn "GPT-4" và "LLaMA" nối bằng đường mảnh tới các chấm khó phân biệt; bản tổng hợp giữ nhận định của sách và chỉ mô tả bố cục chung của hình.
+- **Các số đọc từ biểu đồ** (Hình 4-2, Hình 4-7) là ước lượng bằng mắt từ ảnh trang, sai số khoảng 1–2 điểm phần trăm. Số ở Hình 4-4, 4-8, 4-9, 4-10 được in sẵn trên hình nên chép chính xác.
+- **Sách viết "seven axes"** cho quyết định API hay tự host, nhưng phần Tóm tắt chỉ kể sáu ("data privacy, data lineage, performance, functionality, control, and cost"), thiếu "chạy trên thiết bị".
+- **Bảng 4-6 (nghịch lý Simpson):** sách in đậm ô "Model B, Group 2: 69% (55/80)", nhưng ở Nhóm 2 mô hình A (73%) mới tốt hơn; chữ đậm có vẻ đặt nhầm. Các số khớp khi người tổng hợp tính lại (68,75% làm tròn thành 69%, 82,6% thành 83%).
+- **Hình 4-10 (nhiễm dữ liệu của GPT-3):** cột chênh lệch tương đối không khớp hẳn với số đã in: tính lại được −19,2% cho DROP (sách −21%) và +22,1% cho QuAC (sách +20%); có lẽ bảng gốc của Brown et al. tính trên số chưa làm tròn.
+- **Bảng cỡ mẫu của OpenAI (Bảng 4-7)** không nêu giả định thống kê; người tổng hợp tính theo kiểm định hai tỷ lệ độc lập (mức ý nghĩa 5%, lực 80%) thì số mẫu cần gấp khoảng 4 lần số trong bảng.
+- **Quy ước dịch:** "evaluation pipeline" dịch là *quy trình đánh giá*; "evaluation-driven development" là *phát triển hướng theo đánh giá*; "factual consistency" là *tính nhất quán sự kiện* (local/global: *cục bộ/toàn cục*); "textual entailment" là *suy diễn văn bản*; "hard/soft attributes" là *thuộc tính cứng/mềm*; "open weight / open model" giữ tiếng Anh kèm giải thích; "data lineage" là *nguồn gốc dữ liệu*; "data contamination" là *nhiễm dữ liệu*; "slicing" là *phân lát dữ liệu*; "scoring rubric" là *thang chấm điểm*. Các thuật ngữ phổ biến (prompt, token, benchmark, leaderboard, finetuning, RAG, agent, logprobs, latency, guardrail, API) giữ tiếng Anh.
+- **Những điều đã thay đổi sau 2024 (theo hiểu biết của người tổng hợp):** Bảng xếp hạng Open LLM Leaderboard của Hugging Face đã ngừng cập nhật (khoảng đầu 2025); Chatbot Arena tách thành công ty LMArena; MMLU, GSM-8K, HumanEval, IFEval đều đã bão hòa với mô hình hàng đầu; giấy phép Llama 3.1 trở đi đã cho phép dùng đầu ra để cải thiện mô hình khác (kèm điều kiện ghi tên); OpenAI đã phát hành lại mô hình open weight (gpt-oss, 2025); khoảng cách giữa mô hình mở mạnh nhất (DeepSeek, Qwen, Kimi…) và mô hình đóng trên nhiều benchmark đã thu hẹp hơn mức Hình 4-7 cho thấy.

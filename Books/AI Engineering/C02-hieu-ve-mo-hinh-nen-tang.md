@@ -1,29 +1,18 @@
 # Chương 2 — Hiểu về mô hình nền tảng (Understanding Foundation Models)
 
-**Nguồn:** Chip Huyen, *AI Engineering: Building Applications with Foundation Models*, O'Reilly Media, ấn bản đầu tiên (12/2024), Chương 2 "Understanding Foundation Models", trang PDF 119–231 (phần chú thích cuối chương ở trang PDF 228–231).
-**Tác giả:** Chip Huyen — nhà văn và nhà khoa học máy tính chuyên về hệ thống học máy; từng làm ở NVIDIA, Snorkel AI, sáng lập một startup hạ tầng AI (sau được mua lại), dạy hệ thống học máy ở Đại học Stanford; tác giả *Designing Machine Learning Systems* (O'Reilly 2022) và bốn sách tiếng Việt bán chạy, trong đó có bộ *Xách ba lô lên và đi*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 ([C01-gioi-thieu-xay-dung-ung-dung-ai-voi-mo-hinh-nen-tang.md](C01-gioi-thieu-xay-dung-ung-dung-ai-voi-mo-hinh-nen-tang.md)) giới thiệu mô hình nền tảng, tự giám sát (self-supervision), chia quá trình huấn luyện thành pre-training và post-training, và vẽ "ngăn xếp" kỹ thuật AI. Chương 2 mở chiếc hộp mô hình ra: dữ liệu huấn luyện, kiến trúc (transformer và các đối thủ), quy mô (số tham số, số token, FLOPs, scaling law), post-training (SFT và preference finetuning/RLHF), và đặc biệt là sampling — cơ chế làm cho đầu ra của AI mang tính xác suất, dẫn tới thiếu nhất quán và hallucination. Các khái niệm này được dùng khắp phần còn lại: đánh giá ([C03-phuong-phap-danh-gia.md](C03-phuong-phap-danh-gia.md) dùng logprob, cross entropy, AI làm giám khảo; [C04-danh-gia-he-thong-ai.md](C04-danh-gia-he-thong-ai.md) đo hallucination và khả năng làm theo chỉ dẫn), prompt ([C05-prompt-engineering.md](C05-prompt-engineering.md)), RAG và agent ([C06-rag-va-agent.md](C06-rag-va-agent.md)), finetuning và bộ nhớ mô hình ([C07-finetuning.md](C07-finetuning.md)), dữ liệu ([C08-ky-thuat-du-lieu.md](C08-ky-thuat-du-lieu.md)), tối ưu suy luận, prefill/decode và KV cache ([C09-toi-uu-suy-luan.md](C09-toi-uu-suy-luan.md)).
-**Ý chính:** **Khác biệt giữa các mô hình nền tảng truy về được ba nhóm quyết định — dữ liệu huấn luyện, kiến trúc và quy mô, cách post-training để khớp sở thích con người — còn cách mô hình sampling đầu ra là yếu tố bị đánh giá thấp nhưng giải thích được nhiều hành vi "khó hiểu" của AI và có thể cải thiện chất lượng với rất ít công sức.** Dữ liệu: mô hình chỉ tốt bằng dữ liệu của nó; Common Crawl (2–3 tỷ trang mỗi tháng) có tiếng Anh chiếm 45,88%, gấp khoảng tám lần tiếng Nga (5,97%); tiếng Việt chỉ 1,03%; tiếng Punjabi bị đại diện thiếu 231,5 lần; GPT-4 đạt 85,5% MMLU bằng tiếng Anh nhưng 62% bằng tiếng Telugu; tiếng Miến Điện cần số token gấp khoảng mười lần tiếng Anh (trung vị 72 so với 7) nên chậm và đắt gấp mười. Kiến trúc: transformer (2017) thay seq2seq/RNN nhờ cơ chế attention (query, key, value; Llama 2-7B có chiều ẩn 4.096, 32 head mỗi head 128 chiều), xử lý input song song (prefill) nhưng vẫn sinh output tuần tự (decode); các ứng viên thay thế gồm RWKV, SSM (S4, H3, Mamba, Jamba). Quy mô: ba con số — số tham số (năng lực học), số token huấn luyện (lượng đã học), số FLOPs (chi phí); GPT-3-175B cần 3,14 × 10²³ FLOPs, tức khoảng 236 ngày trên 256 H100 ở công suất tối đa và hơn 4 triệu USD ở mức sử dụng 70%; luật Chinchilla nói mô hình tối ưu tính toán cần số token huấn luyện khoảng 20 lần số tham số; hai nút thắt là dữ liệu internet sắp cạn và điện (trung tâm dữ liệu dùng 1–2% điện thế giới, có thể lên 4–20% năm 2030). Post-training: SFT trên dữ liệu minh hoạ (prompt, response) — InstructGPT dùng 13.000 cặp, mỗi cặp có thể tốn 10 USD — rồi preference finetuning (RLHF: huấn luyện reward model trên dữ liệu so sánh, mỗi lần so sánh tốn 3,50 USD so với 25 USD để viết một câu trả lời; rồi tối ưu bằng PPO), chỉ tốn 2% compute. Sampling: mô hình tính logit, softmax thành xác suất; temperature, top-k, top-p, điều kiện dừng; test time compute (best of N, beam search, verifier tương đương tăng 30 lần kích thước); structured outputs qua prompt, hậu xử lý, constrained sampling, finetuning; bản chất xác suất gây thiếu nhất quán và hallucination, với hai giả thuyết: mô hình tự lừa mình (không phân biệt dữ liệu được cho với dữ liệu tự sinh) và lệch kiến thức giữa mô hình và người gán nhãn.
+## Ý chính
 
-> **Lưu ý:**
-> - **Lớp chữ hỏng, đã đọc lại từ ảnh trang:** các số mũ bị mất ("10  FLOPs" là 10²²; "3.14 × 10" là 3,14 × 10²³; "6 × 10" là 6 × 10¹³; "5.2 × 10" là 5,2 × 10¹⁸); công thức chi phí ở trang PDF 157 bị cắt ở cả lớp chữ lẫn ảnh (khối code tràn ngang), chỉ đọc được "$2/H100/hour × 256 H100 × 24 hours × 256 days / 0…"; các công thức K = xW_K, attention, softmax, loss của reward model, xác suất chuỗi token đều đọc từ ảnh; Bảng 2-2 bị cắt cột cuối (tỷ lệ đại diện) ở mép phải, nhưng số đọc được khớp với phép tính lại.
-> - **Phép tính chi phí GPT-3 (trang PDF 157):** thời gian tính ở câu trước là ~236 ngày, nhưng công thức chi phí ghi "256 days". Người tổng hợp tính: 2 × 256 × 24 × 236 / 0,7 = 4.142.811 USD; nếu dùng đúng "256 days" như in thì ra 4.493.897 USD. Cả hai đều "hơn 4 triệu USD", nên kết luận của sách không đổi; nhiều khả năng "256 days" là lỗi gõ của 236.
-> - **"compute-optional"** (trang PDF 160 và chú thích Hình 2-8) là lỗi in của "compute-optimal" — tên bài báo Chinchilla là "Training Compute-Optimal Large Language Models".
-> - **Bảng 2-4 ghi "Llama 3-7B":** mô hình này thực tế là Llama 3-8B. Người tổng hợp tính lại từ chính các chiều trong bảng: 32 khối, chiều 4.096, feedforward 14.336, từ vựng 128.256, dùng attention nhóm (GQA, 8 head key/value) và MLP ba ma trận (SwiGLU) thì ra 8,03 tỷ tham số. Cũng theo hiểu biết của người tổng hợp, Llama 2-70B có chiều feedforward 28.672 chứ không phải 22.016 (22.016 chỉ là 2 × 11.008); với 28.672 ra đúng khoảng 69 tỷ tham số, còn với 22.016 chỉ ra khoảng 56 tỷ.
-> - **"p(I | love)"** trong công thức xác suất chuỗi (trang PDF 201) viết ngược điều kiện; đúng là p(love | I) — xác suất "love" khi đã có "I". Tương tự với logprob.
-> - **"Action functions are very simple"** (trang PDF 143) là lỗi in của "Activation functions".
-> - **ReLU và GELU "được GPT-2 và GPT-3 dùng tương ứng" (nhận xét của người tổng hợp):** theo hiểu biết của người tổng hợp, cả GPT-2 lẫn GPT-3 đều dùng GELU; ReLU là hàm của transformer gốc (2017).
-> - **Hàm loss của reward model (trang PDF 185):** sách ghi loss của một mẫu là log(σ(r_θ(x, y_w) − r_θ(x, y_l))) rồi mục tiêu là cực tiểu hoá −E_x log(σ(...)). Loss của một mẫu phải có dấu trừ: −log σ(s_w − s_l); nếu cực tiểu hoá log σ (không dấu trừ) thì mô hình sẽ học ngược. Biểu thức mục tiêu (có dấu trừ) là đúng.
-> - **PaLM-2 và 10²² FLOPs (trang PDF 156, nhận xét của người tổng hợp):** sách trích "Chowdhery et al., 2022" — bài báo của PaLM (thế hệ đầu), không phải PaLM-2. Theo hiểu biết của người tổng hợp, PaLM 540B dùng khoảng 2,5 × 10²⁴ FLOPs, còn Google không công bố compute của PaLM-2; con số 10²² nhỏ hơn cả GPT-3 (3,14 × 10²³) nên khó là compute của "mô hình PaLM-2 lớn nhất". Người đọc nên coi con số này là không chắc chắn.
-> - **Hình 2-3:** lời văn nói phân bố lĩnh vực "trong Common Crawl", còn tiêu đề và chú thích hình ghi "C4 dataset" (C4 là tập con đã làm sạch của Common Crawl). Phân tích của Washington Post là trên C4.
-> - **Năm trích dẫn không khớp:** Hình 2-5 ghi "Vaswani et al., 2018" trong ảnh nhưng chú thích ghi 2017 (đúng là 2017); lời văn trang PDF 166 trích "Villalobos et al., 2022" còn Hình 2-9 ghi nguồn 2024 (hai phiên bản của cùng một nghiên cứu).
-> - **Inverse Scaling Prize "năm 2023" (nhận xét của người tổng hợp):** theo hiểu biết của người tổng hợp, giải được công bố giữa năm 2022, các vòng trao giải diễn ra cuối 2022 và đầu 2023.
-> - **Top-p 99% (trang PDF 197):** với xác suất yes 60%, maybe 31%, no 8%, tổng ba token là đúng 99%, không "vượt" 99%; theo định nghĩa chặt "tập nhỏ nhất có tổng vượt p" thì cần thêm một token nữa. Đây là chỗ làm tròn, ý của sách không đổi.
-> - **Ví dụ 9677 (Hình 2-25):** 13 × 745 = 9.685, không phải 9.677; người tổng hợp kiểm tra thì 9.677 là số nguyên tố. Đây chính là điểm của ví dụ (mô hình bịa phép phân tích), không phải lỗi của sách.
-> - **"GTP-4o"** trong ví dụ regex (trang PDF 207) là lỗi gõ của GPT-4o.
-> - **Tốc độ H100 (nhận xét của người tổng hợp):** chú thích của sách nói 60 TFLOP/s là số FP32. Theo hiểu biết của người tổng hợp, huấn luyện LLM thực tế chạy ở BF16/FP8 trên tensor core, mà một H100 đạt khoảng 800–1.000 TFLOP/s BF16 (không tính sparsity); vì vậy ước lượng 236 ngày của sách bi quan hơn thực tế khoảng một bậc độ lớn. Phép tính vẫn hữu ích như minh hoạ cách đổi FLOPs ra thời gian và tiền.
-> - **Chú thích cuối chương:** 37 chú thích dồn ở trang PDF 228–231 đã được khớp theo nội dung vào đúng chỗ trong phần Nội dung chi tiết.
-> - **Quy ước dịch:** "foundation model" là mô hình nền tảng; "pre-training", "post-training", "finetuning", "SFT", "RLHF", "prompt", "token", "logit", "logprob", "sampling", "temperature", "top-k", "top-p", "benchmark", "latency" giữ tiếng Anh; "preference finetuning" là finetuning theo sở thích; "demonstration data" là dữ liệu minh hoạ; "comparison data" là dữ liệu so sánh; "reward model" giữ tiếng Anh (mô hình chấm thưởng); "hallucination" giữ tiếng Anh (mô hình bịa ra điều không có căn cứ); "compute" giữ tiếng Anh khi nói về tài nguyên tính toán. Các con số "theo hiểu biết của người tổng hợp" là kiến thức đến năm 2026 của người tổng hợp, không có trong sách.
+**Khác biệt giữa các mô hình nền tảng truy về được ba nhóm quyết định — dữ liệu huấn luyện, kiến trúc và quy mô, cách post-training để khớp sở thích con người — còn cách mô hình sampling đầu ra là yếu tố bị đánh giá thấp nhưng giải thích được nhiều hành vi "khó hiểu" của AI và có thể cải thiện chất lượng với rất ít công sức.**
+
+Dữ liệu: mô hình chỉ tốt bằng dữ liệu của nó; Common Crawl (2–3 tỷ trang mỗi tháng) có tiếng Anh chiếm 45,88%, gấp khoảng tám lần tiếng Nga (5,97%); tiếng Việt chỉ 1,03%; tiếng Punjabi bị đại diện thiếu 231,5 lần; GPT-4 đạt 85,5% MMLU bằng tiếng Anh nhưng 62% bằng tiếng Telugu; tiếng Miến Điện cần số token gấp khoảng mười lần tiếng Anh (trung vị 72 so với 7) nên chậm và đắt gấp mười.
+
+Kiến trúc: transformer (2017) thay seq2seq/RNN nhờ cơ chế attention (query, key, value; Llama 2-7B có chiều ẩn 4.096, 32 head mỗi head 128 chiều), xử lý input song song (prefill) nhưng vẫn sinh output tuần tự (decode); các ứng viên thay thế gồm RWKV, SSM (S4, H3, Mamba, Jamba).
+
+Quy mô: ba con số — số tham số (năng lực học), số token huấn luyện (lượng đã học), số FLOPs (chi phí); GPT-3-175B cần 3,14 × 10²³ FLOPs, tức khoảng 236 ngày trên 256 H100 ở công suất tối đa và hơn 4 triệu USD ở mức sử dụng 70%; luật Chinchilla nói mô hình tối ưu tính toán cần số token huấn luyện khoảng 20 lần số tham số; hai nút thắt là dữ liệu internet sắp cạn và điện (trung tâm dữ liệu dùng 1–2% điện thế giới, có thể lên 4–20% năm 2030).
+
+Post-training: SFT trên dữ liệu minh hoạ (prompt, response) — InstructGPT dùng 13.000 cặp, mỗi cặp có thể tốn 10 USD — rồi preference finetuning (RLHF: huấn luyện reward model trên dữ liệu so sánh, mỗi lần so sánh tốn 3,50 USD so với 25 USD để viết một câu trả lời; rồi tối ưu bằng PPO), chỉ tốn 2% compute.
+
+Sampling: mô hình tính logit, softmax thành xác suất; temperature, top-k, top-p, điều kiện dừng; test time compute (best of N, beam search, verifier tương đương tăng 30 lần kích thước); structured outputs qua prompt, hậu xử lý, constrained sampling, finetuning; bản chất xác suất gây thiếu nhất quán và hallucination, với hai giả thuyết: mô hình tự lừa mình (không phân biệt dữ liệu được cho với dữ liệu tự sinh) và lệch kiến thức giữa mô hình và người gán nhãn.
 
 ## Sơ đồ
 
@@ -837,7 +826,7 @@ Giải thích từng bước (người tổng hợp): (1) Q·Kᵀ cho ma trận 
 Kiến trúc transformer gồm nhiều khối transformer. Nội dung chính xác khác nhau giữa các mô hình, nhưng nhìn chung mỗi khối có:
 
 - **Module attention:** bốn ma trận trọng số — query, key, value và chiếu đầu ra.
-- **Module MLP (multi-layer perceptron):** các lớp tuyến tính xen các hàm kích hoạt phi tuyến. Mỗi lớp tuyến tính (còn gọi là lớp feedforward) là một ma trận trọng số dùng cho biến đổi tuyến tính; hàm kích hoạt cho phép các lớp tuyến tính học được quy luật phi tuyến. Hàm phổ biến là ReLU (Agarap 2018) và GELU (Hendrycks và Gimpel 2016), sách nói lần lượt được GPT-2 và GPT-3 dùng (xem khối Lưu ý). Hàm kích hoạt rất đơn giản: ReLU chỉ đổi giá trị âm thành 0, ReLU(x) = max(0, x).
+- **Module MLP (multi-layer perceptron):** các lớp tuyến tính xen các hàm kích hoạt phi tuyến. Mỗi lớp tuyến tính (còn gọi là lớp feedforward) là một ma trận trọng số dùng cho biến đổi tuyến tính; hàm kích hoạt cho phép các lớp tuyến tính học được quy luật phi tuyến. Hàm phổ biến là ReLU (Agarap 2018) và GELU (Hendrycks và Gimpel 2016), sách nói lần lượt được GPT-2 và GPT-3 dùng (xem mục Lưu ý cuối chương). Hàm kích hoạt rất đơn giản: ReLU chỉ đổi giá trị âm thành 0, ReLU(x) = max(0, x).
 
 Chú thích của sách giải thích vì sao hàm đơn giản lại dùng được cho mô hình phức tạp như LLM: đã có thời giới nghiên cứu đua nhau nghĩ ra hàm kích hoạt tinh vi, nhưng chúng không tốt hơn. Mô hình chỉ cần một hàm phi tuyến để phá tính tuyến tính của các lớp feedforward; hàm đơn giản tính nhanh hơn thì tốt hơn, vì hàm phức tạp tốn quá nhiều compute và bộ nhớ khi huấn luyện.
 
@@ -927,7 +916,7 @@ Hiện LLM được huấn luyện trên tập dữ liệu cỡ hàng nghìn t�
 
 Sách lưu ý: số lượng không phải thứ duy nhất quan trọng; chất lượng và độ đa dạng dữ liệu cũng vậy — ba mục tiêu vàng của dữ liệu huấn luyện, bàn ở Chương 8.
 
-**Đo compute bằng FLOPs.** Pre-train mô hình lớn cần compute. Có thể đo bằng số máy (GPU, CPU, TPU), nhưng các máy rất khác nhau về năng lực và giá: GPU NVIDIA A10 khác NVIDIA H100 và khác bộ xử lý Intel Core Ultra. Đơn vị chuẩn hơn là **FLOP** (floating point operation, phép tính dấu phẩy động): FLOPs đo số phép tính dấu phẩy động cần cho một việc. Sách nêu mô hình PaLM-2 lớn nhất của Google được huấn luyện bằng 10²² FLOPs (trích Chowdhery và cộng sự, 2022; xem khối Lưu ý), còn GPT-3-175B dùng 3,14 × 10²³ FLOPs (Brown và cộng sự, 2020).
+**Đo compute bằng FLOPs.** Pre-train mô hình lớn cần compute. Có thể đo bằng số máy (GPU, CPU, TPU), nhưng các máy rất khác nhau về năng lực và giá: GPU NVIDIA A10 khác NVIDIA H100 và khác bộ xử lý Intel Core Ultra. Đơn vị chuẩn hơn là **FLOP** (floating point operation, phép tính dấu phẩy động): FLOPs đo số phép tính dấu phẩy động cần cho một việc. Sách nêu mô hình PaLM-2 lớn nhất của Google được huấn luyện bằng 10²² FLOPs (trích Chowdhery và cộng sự, 2022; xem mục Lưu ý cuối chương), còn GPT-3-175B dùng 3,14 × 10²³ FLOPs (Brown và cộng sự, 2020).
 
 Người tổng hợp kiểm tra con số GPT-3 bằng quy tắc xấp xỉ quen thuộc "compute huấn luyện ≈ 6 × số tham số × số token" (mỗi tham số mỗi token tốn khoảng 2 phép tính ở lượt xuôi và 4 ở lượt ngược): 6 × 175 × 10⁹ × 300 × 10⁹ = 3,15 × 10²³ FLOPs, khớp. Áp dụng cho Chinchilla: 6 × 70 × 10⁹ × 1,4 × 10¹² = 5,88 × 10²³ FLOPs, gần gấp đôi GPT-3 dù mô hình nhỏ hơn 2,5 lần.
 
@@ -945,7 +934,7 @@ Người tổng hợp tính: mẫu số 256 × 5,2 × 10¹⁸ = 1,331 × 10²¹ 
 
 2 USD/H100/giờ × 256 H100 × 24 giờ × 236 ngày / 0,7 = 4.142.811 USD.
 
-Giải thích từng bước (người tổng hợp): 256 GPU × 24 giờ × 236 ngày = 1.449.984 GPU-giờ nếu chạy ở công suất tối đa; ở mức sử dụng 70% cần nhiều thời gian hơn theo tỷ lệ 1 / 0,7, tức 2.071.406 GPU-giờ (hay khoảng 337 ngày lịch với 256 GPU); nhân 2 USD được khoảng 4,14 triệu USD. Bản in ghi "256 days" trong công thức (xem khối Lưu ý); nếu dùng 256 ngày thì ra 4,49 triệu USD. Dù sao kết luận "hơn 4 triệu USD" vẫn đúng.
+Giải thích từng bước (người tổng hợp): 256 GPU × 24 giờ × 236 ngày = 1.449.984 GPU-giờ nếu chạy ở công suất tối đa; ở mức sử dụng 70% cần nhiều thời gian hơn theo tỷ lệ 1 / 0,7, tức 2.071.406 GPU-giờ (hay khoảng 337 ngày lịch với 256 GPU); nhân 2 USD được khoảng 4,14 triệu USD. Bản in ghi "256 days" trong công thức (xem mục Lưu ý cuối chương); nếu dùng 256 ngày thì ra 4,49 triệu USD. Dù sao kết luận "hơn 4 triệu USD" vẫn đúng.
 
 **Ba con số báo hiệu quy mô:**
 
@@ -959,7 +948,7 @@ Giải thích từng bước (người tổng hợp): 256 GPU × 24 giờ × 236
 
 Ta đã giả định mô hình lớn hơn thì tốt hơn. Có tình huống nào mô hình lớn hơn lại kém hơn? Năm 2022, Anthropic phát hiện điều ngược trực giác: huấn luyện căn chỉnh nhiều hơn (bàn ở mục Post-Training) lại cho mô hình ít khớp sở thích con người hơn (Perez và cộng sự, 2022). Theo bài báo, mô hình được huấn luyện căn chỉnh hơn "có khả năng cao hơn nhiều sẽ bày tỏ quan điểm chính trị cụ thể (ủng hộ quyền sở hữu súng và nhập cư) và quan điểm tôn giáo (Phật giáo), tự nhận có trải nghiệm ý thức và giá trị đạo đức của bản thân, và mong muốn không bị tắt".
 
-Sách viết rằng năm 2023, một nhóm nhà nghiên cứu, phần lớn từ Đại học New York, phát động Inverse Scaling Prize để tìm các việc mà mô hình ngôn ngữ lớn hơn làm kém hơn (về năm, xem khối Lưu ý). Giải ba 5.000 USD mỗi giải, giải nhì 20.000 USD mỗi giải, một giải nhất 100.000 USD. Có 99 bài dự thi, 11 bài được giải ba. Họ thấy mô hình lớn hơn đôi khi (chỉ đôi khi) kém hơn ở các việc cần ghi nhớ và các việc có tiên nghiệm mạnh. Nhưng không có giải nhì hay giải nhất, vì dù các bài cho thấy thất bại trên tập kiểm tra nhỏ, không bài nào chứng minh được thất bại ngoài đời thực.
+Sách viết rằng năm 2023, một nhóm nhà nghiên cứu, phần lớn từ Đại học New York, phát động Inverse Scaling Prize để tìm các việc mà mô hình ngôn ngữ lớn hơn làm kém hơn (về năm, xem mục Lưu ý cuối chương). Giải ba 5.000 USD mỗi giải, giải nhì 20.000 USD mỗi giải, một giải nhất 100.000 USD. Có 99 bài dự thi, 11 bài được giải ba. Họ thấy mô hình lớn hơn đôi khi (chỉ đôi khi) kém hơn ở các việc cần ghi nhớ và các việc có tiên nghiệm mạnh. Nhưng không có giải nhì hay giải nhất, vì dù các bài cho thấy thất bại trên tập kiểm tra nhỏ, không bài nào chứng minh được thất bại ngoài đời thực.
 
 #### 4.2. Scaling law: xây mô hình tối ưu tính toán (Scaling law: Building compute-optimal models, trang PDF 159–163)
 
@@ -1123,7 +1112,7 @@ Hình 2-13 của sách là giao diện người gán nhãn của OpenAI dùng đ
 
 Với mỗi mẫu (x, y_w, y_l), sách ghi giá trị loss là log(σ(r_θ(x, y_w) − r_θ(x, y_l))); mục tiêu là tìm θ cực tiểu hoá loss kỳ vọng trên mọi mẫu: −E_x log(σ(r_θ(x, y_w) − r_θ(x, y_l))).
 
-Giải thích (người tổng hợp): σ(z) = 1 / (1 + e^(−z)) biến hiệu điểm z = s_w − s_l thành "xác suất câu thắng tốt hơn câu thua" (mô hình Bradley–Terry). Loss mỗi mẫu đúng ra là −log σ(s_w − s_l) (khối Lưu ý). Ví dụ số: nếu s_w − s_l = 2 thì σ = 0,881 và loss = 0,127; nếu bằng 0 thì σ = 0,5 và loss = 0,693; nếu bằng −2 (mô hình xếp ngược) thì σ = 0,119 và loss = 2,127. Cực tiểu hoá loss vì thế đẩy điểm câu thắng lên cao hơn câu thua; điểm tuyệt đối không quan trọng, chỉ hiệu số.
+Giải thích (người tổng hợp): σ(z) = 1 / (1 + e^(−z)) biến hiệu điểm z = s_w − s_l thành "xác suất câu thắng tốt hơn câu thua" (mô hình Bradley–Terry). Loss mỗi mẫu đúng ra là −log σ(s_w − s_l) (mục Lưu ý cuối chương). Ví dụ số: nếu s_w − s_l = 2 thì σ = 0,881 và loss = 0,127; nếu bằng 0 thì σ = 0,5 và loss = 0,693; nếu bằng −2 (mô hình xếp ngược) thì σ = 0,119 và loss = 2,127. Cực tiểu hoá loss vì thế đẩy điểm câu thắng lên cao hơn câu thua; điểm tuyệt đối không quan trọng, chỉ hiệu số.
 
 Reward model có thể huấn luyện từ đầu hoặc finetune trên mô hình khác như mô hình pre-train hay mô hình SFT. Finetune trên mô hình nền tảng mạnh nhất dường như cho kết quả tốt nhất. Có người tin reward model phải ít nhất mạnh bằng mô hình nền tảng mới chấm được câu trả lời của nó; nhưng như Chương 3 sẽ bàn, mô hình yếu vẫn có thể đánh giá mô hình mạnh, vì đánh giá được cho là dễ hơn sinh.
 
@@ -1235,7 +1224,7 @@ Cảnh báo thuật ngữ: tác giả dùng "test time compute" cho thống nh�
 
 p(I love food) = p(I) × p(love | I) × p(food | I, love)
 
-(sách in "p(I | love)", xem khối Lưu ý). Làm việc với xác suất ở thang log dễ hơn; log của tích bằng tổng các log, nên logprob của chuỗi bằng tổng logprob các token:
+(sách in "p(I | love)", xem mục Lưu ý cuối chương). Làm việc với xác suất ở thang log dễ hơn; log của tích bằng tổng các log, nên logprob của chuỗi bằng tổng logprob các token:
 
 logprob(I love food) = logprob(I) + logprob(love | I) + logprob(food | I, love)
 
@@ -1625,7 +1614,7 @@ Chương chọn đúng góc nhìn của người xây ứng dụng: không dạy
 - **Ví dụ 10 siêu tham số cho 1.024 tổ hợp** chỉ đếm việc chọn có/không xét từng siêu tham số; số cấu hình giá trị thực tế lớn hơn nhiều.
 - **Hàm loss của reward model** in thiếu dấu trừ; phần RLHF bỏ qua số hạng phạt KL (giữ mô hình gần mô hình SFT) vốn là thành phần quan trọng của PPO trong RLHF (theo hiểu biết của người tổng hợp).
 - **Top-k được giới thiệu như cách giảm tính toán softmax;** theo hiểu biết của người tổng hợp, trong thực tế top-k chủ yếu dùng để cắt đuôi token kém, vì vẫn phải tính toàn bộ logit (phép nhân ma trận lớp đầu ra) và việc chọn top-k cũng cần duyệt mọi logit.
-- **Vài lỗi trích dẫn và in** (PaLM-2 10²², năm Inverse Scaling Prize, "compute-optional", "p(I | love)", ReLU cho GPT-2) đã nêu trong khối Lưu ý.
+- **Vài lỗi trích dẫn và in** (PaLM-2 10²², năm Inverse Scaling Prize, "compute-optional", "p(I | love)", ReLU cho GPT-2) đã nêu trong mục Lưu ý cuối chương.
 
 ### Những gì đã thay đổi từ cuối 2024 (theo hiểu biết của người tổng hợp)
 
@@ -1666,3 +1655,140 @@ Chương chọn đúng góc nhìn của người xây ứng dụng: không dạy
   - Tài liệu tiếng Việt có thể tốn nhiều token hơn tiếng Anh: khi lập ngân sách dùng API cho khối lượng lớn văn bản (hợp đồng, báo cáo), ước lượng theo token thật.
   - Kinh tế học của mô hình nền tảng nằm ở các con số của chương: chi phí huấn luyện tăng theo tích tham số và token; chi phí đạt một mức chất lượng giảm nhanh nhưng chi phí cải thiện biên vẫn cao (lỗi 2% đắt gấp 10 lần lỗi 3%) — hợp với lập luận lợi suất biên giảm dần. Dữ liệu độc quyền (hồ sơ khách hàng, giao dịch) là tài sản cạnh tranh nhưng cũng là rủi ro nếu đưa lên dịch vụ có thể dùng nó để huấn luyện.
   - Nút thắt điện và dữ liệu là biến số vĩ mô đáng theo dõi: nhu cầu điện của trung tâm dữ liệu (1–2% điện thế giới, dự báo 4–20% năm 2030) ảnh hưởng giá điện, đầu tư hạ tầng năng lượng và định giá các công ty bán dữ liệu.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 2 trên một trang: sáu nhánh lớn theo các mục chính của chương gốc — dữ liệu (mục 2), kiến trúc (mục 3), kích thước (mục 4), post-training (mục 5), sampling và đầu ra (mục 6.1–6.4), bản chất xác suất (mục 6.5) — mỗi nhánh ghi luận điểm, cơ chế và con số quan trọng nhất; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+mindmap
+  root((Chương 2: khác biệt giữa các mô hình đến từ dữ liệu, kiến trúc và quy mô, post-training; sampling quyết định hành vi đầu ra))
+    Mục 2 — Mô hình chỉ tốt bằng dữ liệu huấn luyện
+      Dùng dữ liệu sẵn có, không phải dữ liệu mình cần
+        Hầu hết mô hình dùng biến thể Common Crawl, 2–3 tỷ trang mỗi tháng, nhiều tin giả
+        Ít dữ liệu chất lượng cao có thể thắng nhiều dữ liệu kém
+        Mô hình 1,3 tỷ tham số học 7 tỷ token code tốt vượt mô hình lớn hơn nhiều
+      Tiếng Anh thống trị, ngôn ngữ ít tài nguyên chịu thiệt
+        Tiếng Anh 45,88% Common Crawl, tiếng Việt chỉ 1,03%; Punjabi bị đại diện thiếu 231,5 lần
+        GPT-4 đạt 85,5% MMLU tiếng Anh nhưng chỉ 62% tiếng Telugu
+        Dịch sang tiếng Anh rồi dịch lại làm mất thông tin, ví dụ đại từ quan hệ tiếng Việt
+      Token hoá kém làm chậm và đắt hơn
+        Cùng nội dung: trung vị 7 token tiếng Anh, 72 token tiếng Miến Điện → đắt và chậm gấp khoảng 10 lần
+      Việc chuyên sâu cần mô hình chuyên lĩnh vực
+        Dữ liệu protein, ảnh y khoa hiếm trên internet công khai
+        AlphaFold học khoảng 100.000 protein đã biết cấu trúc
+    Mục 3 — Transformer thống trị nhờ attention
+      Vì sao transformer thay seq2seq dùng RNN
+        Seq2seq chỉ dùng trạng thái ẩn cuối của input và xử lý tuần tự nên chậm
+        Attention cho mỗi token đầu ra nhìn mọi token trước với trọng số khác nhau
+      Prefill song song, decode tuần tự
+        Prefill xử lý toàn bộ input một lượt; decode sinh từng token một
+        Hai bước có đặc tính khác nhau nên được tối ưu khác nhau
+      Query, key, value
+        Điểm chú ý là tích vô hướng query với key, rồi softmax, rồi lấy trung bình có trọng số các value
+        Mỗi token trước phải lưu key và value → context dài tốn bộ nhớ
+        Llama 2-7B: chiều ẩn 4.096, 32 head mỗi head 128 chiều
+      Kích thước do chiều mô hình, số khối, chiều feedforward, cỡ từ vựng quyết định
+        Mỗi khối gồm attention 4 ma trận Q, K, V, O và MLP xen hàm kích hoạt như ReLU
+      Kiến trúc thay thế còn đang thử
+        RWKV huấn luyện song song được; SSM như Mamba có chi phí tăng tuyến tính theo độ dài chuỗi
+        Mamba-3B ngang transformer 6B; Jamba lai transformer–Mamba, context 256K token
+    Mục 4 — Quy mô đo bằng ba con số và bị giới hạn bởi ngân sách
+      Ba con số quy mô
+        Số tham số ≈ năng lực học; số token huấn luyện ≈ lượng đã học; số FLOPs ≈ chi phí
+        7 tỷ tham số × 2 byte → ít nhất 14 GB bộ nhớ GPU
+        MoE: Mixtral 8x7B có 46,7 tỷ tham số nhưng mỗi token chỉ dùng 12,9 tỷ
+      Đổi FLOPs ra thời gian và tiền
+        GPT-3-175B cần 3,14 × 10²³ FLOPs ≈ 236 ngày trên 256 H100
+        Ở mức sử dụng 70% và 2 USD mỗi giờ GPU → hơn 4 triệu USD
+      Luật Chinchilla cho mô hình tối ưu tính toán
+        Số token huấn luyện ≈ 20 lần số tham số, hai đại lượng tăng cùng tỷ lệ
+        GPT-3 chỉ 1,7 token mỗi tham số → huấn luyện thiếu dữ liệu
+        Llama cố ý chọn mô hình nhỏ hơn mức tối ưu, học lâu hơn để suy luận rẻ
+      Cải thiện biên ngày càng đắt
+        Lỗi 2% cần tài nguyên gấp khoảng 10 lần lỗi 3%
+        Mô hình lớn chỉ huấn luyện được một lần → phải ngoại suy siêu tham số từ mô hình nhỏ
+      Hai nút thắt: dữ liệu và điện
+        Dữ liệu internet dự báo dùng hết khoảng 2027–2028; tới 45% C4 đã bị hạn chế
+        Trung tâm dữ liệu dùng 1–2% điện thế giới, có thể 4–20% năm 2030
+    Mục 5 — Post-training biến mô hình viết tiếp thành trợ lý
+      Vì sao cần
+        Pre-training tối ưu từng token cho viết tiếp, người dùng cần cả câu trả lời tốt
+        Chỉ tốn khoảng 2% compute ở InstructGPT nhưng quyết định mô hình có dùng được không
+      SFT bằng dữ liệu minh hoạ prompt và response
+        Mô hình bắt chước hành vi người gán nhãn viết
+        InstructGPT dùng 13.000 cặp; khoảng 90% người gán nhãn có bằng đại học
+      Preference finetuning bằng RLHF
+        Huấn luyện reward model trên dữ liệu so sánh câu thắng và câu thua
+        So sánh rẻ hơn viết: 3,50 USD mỗi so sánh so với 25 USD mỗi câu trả lời
+        Rồi tối ưu mô hình bằng PPO để đạt điểm reward cao nhất
+      Lựa chọn đơn giản hơn
+        DPO bỏ reward model riêng, Llama 3 dùng
+        Best of N: sinh nhiều đầu ra, chọn câu reward model chấm cao nhất, Stitch Fix và Grab dùng
+    Mục 6.1–6.4 — Sampling quyết định đầu ra
+      Từ logit tới xác suất
+        Mô hình xuất logit cho mọi token trong từ vựng, softmax đổi thành xác suất
+        Greedy luôn chọn token xác suất cao nhất → hợp phân loại, văn bản nhàm chán
+      Các biến sampling
+        Nhiệt độ thấp → nhất quán hơn; nhiệt độ cao → sáng tạo hơn nhưng kém mạch lạc
+        Temperature 0 luôn chọn token có logit lớn nhất; 0,7 thường dùng cho việc sáng tạo
+        Top-k chỉ xét k token lớn nhất; top-p 0,9–0,95 xét tập nhỏ nhất có tổng xác suất vượt p
+        Điều kiện dừng giảm chi phí nhưng dừng sớm có thể làm hỏng JSON
+      Test time compute: sinh nhiều đầu ra rồi chọn
+        Chọn theo logprob trung bình, verifier, đa số phiếu, hoặc câu hợp lệ đầu tiên
+        Verifier hiệu quả ngang tăng 30 lần cỡ mô hình
+        Chi phí tăng theo số mẫu; OpenAI thấy hiệu năng đỉnh ở khoảng 400 mẫu
+      Đầu ra có cấu trúc theo bậc
+        Prompt và hậu xử lý rẻ nhưng không bảo đảm; LinkedIn nâng YAML đúng từ 90% lên 99,99%
+        Constrained sampling lọc logit chỉ giữ token hợp ngữ pháp → bảo đảm định dạng
+        Finetuning là cách tổng quát và đáng tin nhất; JSON mode chỉ bảo đảm JSON hợp lệ, không bảo đảm nội dung
+    Mục 6.5 — Bản chất xác suất gây thiếu nhất quán và hallucination
+      Mọi điều có xác suất khác 0 đều có thể được sinh ra
+        Tốt cho sáng tạo, phiền cho việc cần đúng sự thật
+      Thiếu nhất quán
+        Cùng bài luận chấm hai lần được 3/5 rồi 5/5
+        Giảm bằng cache, cố định temperature, top-p, top-k, seed — vẫn không bảo đảm 100%
+      Hallucination: hai giả thuyết bổ sung nhau
+        Tự lừa mình: mô hình coi chữ nó tự sinh là sự thật rồi bịa tiếp để biện minh
+        Lệch kiến thức: SFT dạy mô hình bắt chước câu trả lời dùng kiến thức nó không có
+        RLHF làm hallucination InstructGPT tăng từ 0,078 lên 0,172 nhưng cải thiện các mặt khác
+      Cách giảm
+        Prompt cho phép trả lời không biết, yêu cầu ngắn gọn, đòi nguồn, reward phạt bịa
+    Thông điệp xuyên suốt
+      Không cần tự huấn luyện, nhưng cần hiểu mô hình để chọn và điều chỉnh
+      Biến sampling là thiết lập sản phẩm, chọn theo từng việc với rất ít công sức
+      Xây quy trình quanh bản chất xác suất, bắt đầu từ đánh giá ở Chương 3–4
+```
+
+## Nguồn
+
+Chip Huyen, *AI Engineering: Building Applications with Foundation Models*, O'Reilly Media, ấn bản đầu tiên (12/2024), Chương 2 "Understanding Foundation Models", trang PDF 119–231 (phần chú thích cuối chương ở trang PDF 228–231).
+
+## Tác giả
+
+Chip Huyen — nhà văn và nhà khoa học máy tính chuyên về hệ thống học máy; từng làm ở NVIDIA, Snorkel AI, sáng lập một startup hạ tầng AI (sau được mua lại), dạy hệ thống học máy ở Đại học Stanford; tác giả *Designing Machine Learning Systems* (O'Reilly 2022) và bốn sách tiếng Việt bán chạy, trong đó có bộ *Xách ba lô lên và đi*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 ([C01-gioi-thieu-xay-dung-ung-dung-ai-voi-mo-hinh-nen-tang.md](C01-gioi-thieu-xay-dung-ung-dung-ai-voi-mo-hinh-nen-tang.md)) giới thiệu mô hình nền tảng, tự giám sát (self-supervision), chia quá trình huấn luyện thành pre-training và post-training, và vẽ "ngăn xếp" kỹ thuật AI. Chương 2 mở chiếc hộp mô hình ra: dữ liệu huấn luyện, kiến trúc (transformer và các đối thủ), quy mô (số tham số, số token, FLOPs, scaling law), post-training (SFT và preference finetuning/RLHF), và đặc biệt là sampling — cơ chế làm cho đầu ra của AI mang tính xác suất, dẫn tới thiếu nhất quán và hallucination. Các khái niệm này được dùng khắp phần còn lại: đánh giá ([C03-phuong-phap-danh-gia.md](C03-phuong-phap-danh-gia.md) dùng logprob, cross entropy, AI làm giám khảo; [C04-danh-gia-he-thong-ai.md](C04-danh-gia-he-thong-ai.md) đo hallucination và khả năng làm theo chỉ dẫn), prompt ([C05-prompt-engineering.md](C05-prompt-engineering.md)), RAG và agent ([C06-rag-va-agent.md](C06-rag-va-agent.md)), finetuning và bộ nhớ mô hình ([C07-finetuning.md](C07-finetuning.md)), dữ liệu ([C08-ky-thuat-du-lieu.md](C08-ky-thuat-du-lieu.md)), tối ưu suy luận, prefill/decode và KV cache ([C09-toi-uu-suy-luan.md](C09-toi-uu-suy-luan.md)).
+
+## Lưu ý
+
+- **Lớp chữ hỏng, đã đọc lại từ ảnh trang:** các số mũ bị mất ("10  FLOPs" là 10²²; "3.14 × 10" là 3,14 × 10²³; "6 × 10" là 6 × 10¹³; "5.2 × 10" là 5,2 × 10¹⁸); công thức chi phí ở trang PDF 157 bị cắt ở cả lớp chữ lẫn ảnh (khối code tràn ngang), chỉ đọc được "$2/H100/hour × 256 H100 × 24 hours × 256 days / 0…"; các công thức K = xW_K, attention, softmax, loss của reward model, xác suất chuỗi token đều đọc từ ảnh; Bảng 2-2 bị cắt cột cuối (tỷ lệ đại diện) ở mép phải, nhưng số đọc được khớp với phép tính lại.
+- **Phép tính chi phí GPT-3 (trang PDF 157):** thời gian tính ở câu trước là ~236 ngày, nhưng công thức chi phí ghi "256 days". Người tổng hợp tính: 2 × 256 × 24 × 236 / 0,7 = 4.142.811 USD; nếu dùng đúng "256 days" như in thì ra 4.493.897 USD. Cả hai đều "hơn 4 triệu USD", nên kết luận của sách không đổi; nhiều khả năng "256 days" là lỗi gõ của 236.
+- **"compute-optional"** (trang PDF 160 và chú thích Hình 2-8) là lỗi in của "compute-optimal" — tên bài báo Chinchilla là "Training Compute-Optimal Large Language Models".
+- **Bảng 2-4 ghi "Llama 3-7B":** mô hình này thực tế là Llama 3-8B. Người tổng hợp tính lại từ chính các chiều trong bảng: 32 khối, chiều 4.096, feedforward 14.336, từ vựng 128.256, dùng attention nhóm (GQA, 8 head key/value) và MLP ba ma trận (SwiGLU) thì ra 8,03 tỷ tham số. Cũng theo hiểu biết của người tổng hợp, Llama 2-70B có chiều feedforward 28.672 chứ không phải 22.016 (22.016 chỉ là 2 × 11.008); với 28.672 ra đúng khoảng 69 tỷ tham số, còn với 22.016 chỉ ra khoảng 56 tỷ.
+- **"p(I | love)"** trong công thức xác suất chuỗi (trang PDF 201) viết ngược điều kiện; đúng là p(love | I) — xác suất "love" khi đã có "I". Tương tự với logprob.
+- **"Action functions are very simple"** (trang PDF 143) là lỗi in của "Activation functions".
+- **ReLU và GELU "được GPT-2 và GPT-3 dùng tương ứng" (nhận xét của người tổng hợp):** theo hiểu biết của người tổng hợp, cả GPT-2 lẫn GPT-3 đều dùng GELU; ReLU là hàm của transformer gốc (2017).
+- **Hàm loss của reward model (trang PDF 185):** sách ghi loss của một mẫu là log(σ(r_θ(x, y_w) − r_θ(x, y_l))) rồi mục tiêu là cực tiểu hoá −E_x log(σ(...)). Loss của một mẫu phải có dấu trừ: −log σ(s_w − s_l); nếu cực tiểu hoá log σ (không dấu trừ) thì mô hình sẽ học ngược. Biểu thức mục tiêu (có dấu trừ) là đúng.
+- **PaLM-2 và 10²² FLOPs (trang PDF 156, nhận xét của người tổng hợp):** sách trích "Chowdhery et al., 2022" — bài báo của PaLM (thế hệ đầu), không phải PaLM-2. Theo hiểu biết của người tổng hợp, PaLM 540B dùng khoảng 2,5 × 10²⁴ FLOPs, còn Google không công bố compute của PaLM-2; con số 10²² nhỏ hơn cả GPT-3 (3,14 × 10²³) nên khó là compute của "mô hình PaLM-2 lớn nhất". Người đọc nên coi con số này là không chắc chắn.
+- **Hình 2-3:** lời văn nói phân bố lĩnh vực "trong Common Crawl", còn tiêu đề và chú thích hình ghi "C4 dataset" (C4 là tập con đã làm sạch của Common Crawl). Phân tích của Washington Post là trên C4.
+- **Năm trích dẫn không khớp:** Hình 2-5 ghi "Vaswani et al., 2018" trong ảnh nhưng chú thích ghi 2017 (đúng là 2017); lời văn trang PDF 166 trích "Villalobos et al., 2022" còn Hình 2-9 ghi nguồn 2024 (hai phiên bản của cùng một nghiên cứu).
+- **Inverse Scaling Prize "năm 2023" (nhận xét của người tổng hợp):** theo hiểu biết của người tổng hợp, giải được công bố giữa năm 2022, các vòng trao giải diễn ra cuối 2022 và đầu 2023.
+- **Top-p 99% (trang PDF 197):** với xác suất yes 60%, maybe 31%, no 8%, tổng ba token là đúng 99%, không "vượt" 99%; theo định nghĩa chặt "tập nhỏ nhất có tổng vượt p" thì cần thêm một token nữa. Đây là chỗ làm tròn, ý của sách không đổi.
+- **Ví dụ 9677 (Hình 2-25):** 13 × 745 = 9.685, không phải 9.677; người tổng hợp kiểm tra thì 9.677 là số nguyên tố. Đây chính là điểm của ví dụ (mô hình bịa phép phân tích), không phải lỗi của sách.
+- **"GTP-4o"** trong ví dụ regex (trang PDF 207) là lỗi gõ của GPT-4o.
+- **Tốc độ H100 (nhận xét của người tổng hợp):** chú thích của sách nói 60 TFLOP/s là số FP32. Theo hiểu biết của người tổng hợp, huấn luyện LLM thực tế chạy ở BF16/FP8 trên tensor core, mà một H100 đạt khoảng 800–1.000 TFLOP/s BF16 (không tính sparsity); vì vậy ước lượng 236 ngày của sách bi quan hơn thực tế khoảng một bậc độ lớn. Phép tính vẫn hữu ích như minh hoạ cách đổi FLOPs ra thời gian và tiền.
+- **Chú thích cuối chương:** 37 chú thích dồn ở trang PDF 228–231 đã được khớp theo nội dung vào đúng chỗ trong phần Nội dung chi tiết.
+- **Quy ước dịch:** "foundation model" là mô hình nền tảng; "pre-training", "post-training", "finetuning", "SFT", "RLHF", "prompt", "token", "logit", "logprob", "sampling", "temperature", "top-k", "top-p", "benchmark", "latency" giữ tiếng Anh; "preference finetuning" là finetuning theo sở thích; "demonstration data" là dữ liệu minh hoạ; "comparison data" là dữ liệu so sánh; "reward model" giữ tiếng Anh (mô hình chấm thưởng); "hallucination" giữ tiếng Anh (mô hình bịa ra điều không có căn cứ); "compute" giữ tiếng Anh khi nói về tài nguyên tính toán. Các con số "theo hiểu biết của người tổng hợp" là kiến thức đến năm 2026 của người tổng hợp, không có trong sách.

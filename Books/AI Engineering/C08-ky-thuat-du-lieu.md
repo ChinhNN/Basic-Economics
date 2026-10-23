@@ -1,24 +1,24 @@
 # Chương 8 — Kỹ thuật dữ liệu (Dataset Engineering)
 
-**Nguồn:** Chip Huyen, *AI Engineering: Building Applications with Foundation Models*, O'Reilly Media, ấn bản đầu tiên (12/2024), Chương 8 "Dataset Engineering", trang PDF 694–772.
-**Tác giả:** Chip Huyen — nhà văn và nhà khoa học máy tính chuyên về hệ thống học máy; từng làm ở NVIDIA, Snorkel AI, sáng lập một startup hạ tầng AI (sau được mua lại), dạy hệ thống học máy ở Đại học Stanford; tác giả *Designing Machine Learning Systems* (O'Reilly 2022) và bốn sách tiếng Việt bán chạy, trong đó có bộ *Xách ba lô lên và đi*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 7 ([C07-finetuning.md](C07-finetuning.md)) trả lời câu hỏi *khi nào* và *làm thế nào* để finetune một mô hình nền tảng (full finetuning, PEFT, LoRA, gộp mô hình); nhưng mọi kỹ thuật finetuning đều vô ích nếu thiếu dữ liệu phù hợp. Chương 8 là nửa còn lại của finetuning: chọn, thu thập, gán nhãn, tổng hợp (synthesize) và xử lý dữ liệu huấn luyện, chủ yếu cho giai đoạn hậu huấn luyện (post-training: supervised finetuning và preference finetuning đã giới thiệu ở Chương 2 — [C02-hieu-ve-mo-hinh-nen-tang.md](C02-hieu-ve-mo-hinh-nen-tang.md)). Chương dựa nhiều vào các công cụ đã dựng trước đó: hướng dẫn chấm điểm và AI judge của Chương 3–4 ([C03-phuong-phap-danh-gia.md](C03-phuong-phap-danh-gia.md), [C04-danh-gia-he-thong-ai.md](C04-danh-gia-he-thong-ai.md)) dùng lại để viết hướng dẫn gán nhãn và kiểm tra dữ liệu tổng hợp; chat template và chain-of-thought của Chương 5 ([C05-prompt-engineering.md](C05-prompt-engineering.md)); tool use của agent và tìm kiếm vector của Chương 6 ([C06-rag-va-agent.md](C06-rag-va-agent.md)). Sau khi có mô hình tốt, Chương 9 ([C09-toi-uu-suy-luan.md](C09-toi-uu-suy-luan.md)) bàn cách phục vụ mô hình nhanh và rẻ; Chương 10 ([C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md](C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md)) bàn cách thiết kế hệ thống phản hồi người dùng — nguồn dữ liệu quý nhất mà Chương 8 gọi là "data flywheel".
+## Ý chính
 
-**Ý chính:** **Chất lượng mô hình phụ thuộc vào chất lượng dữ liệu huấn luyện; khi ngày càng ít công ty tự huấn luyện mô hình từ đầu, dữ liệu trở thành chỗ tạo khác biệt, và việc xây dựng bộ dữ liệu xoay quanh ba tiêu chí — chất lượng, độ bao phủ, số lượng — với dữ liệu tổng hợp bằng AI là công cụ mạnh nhưng không thay thế hoàn toàn dữ liệu do người tạo.** Chương mở bằng quan điểm AI lấy dữ liệu làm trung tâm (data-centric AI) đối lập với lấy mô hình làm trung tâm (model-centric AI). Phần *Data Curation* (chọn lọc dữ liệu) nói dữ liệu cần thiết tùy giai đoạn huấn luyện: dãy văn bản cho finetuning tự giám sát, cặp (chỉ dẫn, câu trả lời) cho instruction finetuning, bộ ba (chỉ dẫn, câu trả lời thắng, câu trả lời thua) cho preference finetuning; dạy chain-of-thought (CoT) và tool use khó hơn vì dữ liệu đắt và phải có định dạng riêng. Chất lượng: dữ liệu ít mà tốt thắng dữ liệu nhiều mà nhiễu — Yi dùng 10.000 chỉ dẫn chọn kỹ tốt hơn hàng trăm nghìn chỉ dẫn nhiễu; LIMA (Llama 65B finetune trên 1.000 ví dụ) cho câu trả lời ngang hoặc hơn GPT-4 ở 43% trường hợp; dữ liệu chất lượng cao có sáu đặc tính (liên quan, khớp yêu cầu nhiệm vụ, nhất quán, đúng định dạng, đủ độc nhất, tuân thủ quy định). Độ bao phủ: Llama 3 gần như không đổi kiến trúc so với bản trước mà tiến bộ chủ yếu nhờ dữ liệu; tỷ lệ miền (domain) khác nhau qua ba giai đoạn (toán và code chiếm 42% dữ liệu pre-training, 36% dữ liệu SFT, chỉ 12,82% dữ liệu preference); mô hình 7B trên 2.000 ví dụ vừa chất lượng vừa đa dạng đạt điểm 3,83 so với 3,49 (chỉ chất lượng) và 3,33 (chỉ đa dạng). Số lượng: từ một ví dụ tới hàng triệu; phụ thuộc kỹ thuật finetuning (full finetuning cần nhiều hơn PEFT hàng bậc độ lớn), độ phức tạp nhiệm vụ và sức mạnh mô hình gốc (với 100 ví dụ SNLI, mô hình mạnh nhất đạt khoảng 88% còn yếu nhất khoảng 57%; với 550.000 ví dụ mọi mô hình đều khoảng 89–93%); nên thử trước với khoảng 50–100 ví dụ và vẽ đường hiệu năng theo cỡ dữ liệu (lợi ích giảm dần). Phần *Data Augmentation and Synthesis* nêu năm lý do tổng hợp dữ liệu (tăng số lượng, độ bao phủ, chất lượng; bảo vệ quyền riêng tư; chưng cất mô hình), các kỹ thuật truyền thống (dựa trên luật/mẫu, biến đổi, nhiễu loạn, mô phỏng) và kỹ thuật dùng AI (mô phỏng API, tự chơi, diễn đạt lại, dịch, dịch ngược, tổng hợp chỉ dẫn như Alpaca 52.000 cặp từ 175 ví dụ mồi, chỉ dẫn ngược, quy trình code của Llama 3 tạo hơn 2,7 triệu ví dụ), cách kiểm tra dữ liệu, và bốn giới hạn (kiểm soát chất lượng, bắt chước bề ngoài, sụp đổ mô hình, mất dấu nguồn gốc dữ liệu). Chưng cất mô hình (model distillation): DistilBERT nhỏ hơn BERT 40%, giữ 97% năng lực, nhanh hơn 60%; nhưng dữ liệu tổng hợp còn có thể huấn luyện học trò mạnh hơn thầy (Nemotron-4-340B). Phần *Data Processing* đi qua kiểm tra dữ liệu, khử trùng lặp (lặp 0,1% dữ liệu 100 lần làm mô hình 800 triệu tham số tụt xuống ngang mô hình 400 triệu), làm sạch và lọc (bỏ thẻ HTML/Markdown thừa tăng độ chính xác 20%, giảm 60% độ dài đầu vào), và định dạng đúng chat template.
+**Chất lượng mô hình phụ thuộc vào chất lượng dữ liệu huấn luyện; khi ngày càng ít công ty tự huấn luyện mô hình từ đầu, dữ liệu trở thành chỗ tạo khác biệt, và việc xây dựng bộ dữ liệu xoay quanh ba tiêu chí — chất lượng, độ bao phủ, số lượng — với dữ liệu tổng hợp bằng AI là công cụ mạnh nhưng không thay thế hoàn toàn dữ liệu do người tạo.**
 
-> **Lưu ý:**
-> - **Trích dẫn không nhất quán:** ở mục chain-of-thought (trang PDF 698–700), sách ghi bài "Scaling Instruction-Finetuned Language Models" là "Chun et al., 2024"; ở mục Data Quantity (trang PDF 719) cùng bài lại ghi "Chung et al., 2022". Tên đúng của tác giả đầu là Hyung Won Chung; bài đăng arXiv năm 2022 (theo hiểu biết của người tổng hợp, bản tạp chí JMLR năm 2024 — có lẽ là lý do của năm 2024).
-> - **Phép quy đổi Llama 3 sai (trang PDF 712–713):** sách nói Llama 2 và Llama 3 huấn luyện trên 2 nghìn tỷ và 16 nghìn tỷ token, mỗi ví dụ 2.000 token thì tương đương 1 tỷ và "15 tỷ" ví dụ. 2 × 10¹² / 2.000 = 1 tỷ là đúng; nhưng 16 × 10¹² / 2.000 = **8 tỷ**, không phải 15 tỷ. (Theo hiểu biết của người tổng hợp, Meta công bố Llama 3 dùng "hơn 15 nghìn tỷ" token; khi đó con số là khoảng 7,5 tỷ ví dụ. Có lẽ tác giả trộn hai con số 15T và 16T.)
-> - **Ví dụ quy trình tạo bộ dữ liệu, bước 5–6 không khớp (trang PDF 722–723):** bước 5 nói "tạo thủ công 100 mẫu chỉ dẫn về chủ đề X", rồi "dùng AI tổng hợp 2.000 chỉ dẫn từ 10 mẫu này" (100 hay 10?); đoạn sau lại nói "có 100 chỉ dẫn tổng hợp cho mỗi mẫu làm hại độ đa dạng". Với 2.000 chỉ dẫn: 100 mẫu cho 20 chỉ dẫn/mẫu; 10 mẫu cho 200 chỉ dẫn/mẫu; 100 chỉ dẫn/mẫu thì cần 20 mẫu. Không cách đọc nào khớp cả ba con số. Các phép cộng khác đúng: 10.000 − 1.000 = 9.000; 9.000 − 3.000 = 6.000; 6.000 + 3.000 = 9.000; 9.000 + 2.000 = 11.000.
-> - **"Gần một nửa" (trang PDF 710):** sách nói toán, suy luận và code cộng lại chiếm "gần một nửa" dữ liệu pre-training và SFT của Llama 3. Theo bảng: pre-training 25% + 17% = 42%; SFT 21,19% + 14,89% = 36,08%. Con số 42% là "gần một nửa", còn 36% thì hơi xa. Phép cộng 5,89% + 6,93% = 12,82% cho preference finetuning là đúng. Mỗi cột của bảng cộng đủ 100%.
-> - **Hình 8-1 và lời văn (trang PDF 711–712):** chú thích hình nói mô hình finetune trên dữ liệu vừa chất lượng vừa đa dạng thắng mô hình finetune trên dữ liệu "hoặc đa dạng hoặc chất lượng cao"; ba cột của hình ghi tên bộ dữ liệu cụ thể (wikiHow; Stack Exchange chưa lọc; Stack Exchange đã lọc) mà lời văn không nêu; bản tổng hợp đọc từ ảnh.
-> - **Hình 8-6 (trang PDF 757):** lời văn ghi "(verb, direct object, noun) pairs", chú thích hình ghi "(verb, direct object noun)". Đúng là cặp (động từ, danh từ làm tân ngữ trực tiếp) — một cặp hai phần tử, không phải bộ ba. Hình chỉ cho tần suất của 25 cặp phổ biến nhất và tổng số cặp độc nhất (GPT-4: 5.229, GPT-3: 6.133); điều này hơi trái với câu của sách "GPT-4 có dải cặp động từ–danh từ rộng và đa dạng hơn", vì số cặp độc nhất của GPT-3 lại nhiều hơn (nhận xét của người tổng hợp; bài gốc của Peng et al. lập luận dựa trên phân phối đuôi dài, người đọc nên thận trọng).
-> - **Bảng 8-3 (trang PDF 760):** chú thích nói các ví dụ trùng lặp được tô xám; trong bản chuyển, mọi ô đầu vào đều có nền xám nhạt nên không phân biệt được. Theo nội dung, ví dụ trùng là dòng 1, 3 và 4 (cùng "{item: pencil, color: red}" giá 20 USD).
-> - **Nemotron-4 (trang PDF 754, chú thích 15):** sách gọi Mixtral-8x7B là mô hình "56 tỷ tham số" (8 × 7). Theo hiểu biết của người tổng hợp, Mixtral 8x7B có khoảng 46,7 tỷ tham số tổng (các chuyên gia dùng chung lớp attention) và khoảng 12,9 tỷ tham số hoạt động mỗi token. Kết luận "thầy nhỏ hơn trò" không đổi.
-> - **Lỗi in, lỗi lớp chữ:** "HMTL" (trang PDF 763) là "HTML"; "verified, x, by code execution" (trang PDF 747) có chữ "x" thừa; "it wasn't until AI become capable" (trang PDF 737) là "became"; mục Summary viết "preferred finetuning" thay cho "preference finetuning"; "see Goodfellow et al., 2013 and Moosavi-Dezfooli et al., 2015)" thiếu ngoặc mở. Mẫu giao dịch ở trang PDF 732 bị cắt cuối dòng "[Credit Card/Debit Card/Cash/Onli" — có lẽ là "Online Payment]".
-> - **Chú thích cuối chương:** 16 chú thích dồn ở trang PDF 770–772, mất số trong lớp chữ; bản tổng hợp khớp theo nội dung và theo số còn thấy trên ảnh trang (chú thích 2 ở trang PDF 698, 9 ở 729, 11 ở 743, 13 ở 750, 14 ở 751). Chú thích 9 (về mô hình phát hiện nội dung do AI tạo) được đặt sau câu về bài toán phức tạp do AI sinh ra, dù về nội dung nó là một lý do tổng hợp dữ liệu nữa.
-> - **Quy ước dịch:** "data curation" dịch là "chọn lọc dữ liệu" (gồm cả quyết định cần dữ liệu gì, bao nhiêu, chất lượng thế nào); "dataset engineering" là "kỹ thuật dữ liệu"; "data synthesis" là "tổng hợp dữ liệu", "synthetic data" là "dữ liệu tổng hợp"; "data augmentation" là "tăng cường dữ liệu"; "annotation" là "gán nhãn"; "deduplication" là "khử trùng lặp"; "model collapse" là "sụp đổ mô hình"; "data lineage" là "nguồn gốc dữ liệu"; "coverage" là "độ bao phủ". Giữ tiếng Anh: finetuning, SFT, PEFT, LoRA, token, prompt, chain-of-thought (CoT), tool use, agent, embedding, benchmark, data flywheel, self-play, back-translation (kèm dịch "dịch ngược"), AI judge. "Instruction" dịch là "chỉ dẫn", "response" là "câu trả lời".
-> - **Con số đã thay đổi sau 2024 (theo hiểu biết của người tổng hợp):** các tên mô hình OpenAI trong Hình 8-2 (ada, babbage, curie, davinci, text-davinci-002/003) đã ngừng hoạt động từ đầu 2024; text-davinci-003 (thầy của Alpaca) cũng đã bị gỡ.
+Chương mở bằng quan điểm AI lấy dữ liệu làm trung tâm (data-centric AI) đối lập với lấy mô hình làm trung tâm (model-centric AI).
+
+Phần *Data Curation* (chọn lọc dữ liệu) nói dữ liệu cần thiết tùy giai đoạn huấn luyện: dãy văn bản cho finetuning tự giám sát, cặp (chỉ dẫn, câu trả lời) cho instruction finetuning, bộ ba (chỉ dẫn, câu trả lời thắng, câu trả lời thua) cho preference finetuning; dạy chain-of-thought (CoT) và tool use khó hơn vì dữ liệu đắt và phải có định dạng riêng.
+
+Chất lượng: dữ liệu ít mà tốt thắng dữ liệu nhiều mà nhiễu — Yi dùng 10.000 chỉ dẫn chọn kỹ tốt hơn hàng trăm nghìn chỉ dẫn nhiễu; LIMA (Llama 65B finetune trên 1.000 ví dụ) cho câu trả lời ngang hoặc hơn GPT-4 ở 43% trường hợp; dữ liệu chất lượng cao có sáu đặc tính (liên quan, khớp yêu cầu nhiệm vụ, nhất quán, đúng định dạng, đủ độc nhất, tuân thủ quy định).
+
+Độ bao phủ: Llama 3 gần như không đổi kiến trúc so với bản trước mà tiến bộ chủ yếu nhờ dữ liệu; tỷ lệ miền (domain) khác nhau qua ba giai đoạn (toán và code chiếm 42% dữ liệu pre-training, 36% dữ liệu SFT, chỉ 12,82% dữ liệu preference); mô hình 7B trên 2.000 ví dụ vừa chất lượng vừa đa dạng đạt điểm 3,83 so với 3,49 (chỉ chất lượng) và 3,33 (chỉ đa dạng).
+
+Số lượng: từ một ví dụ tới hàng triệu; phụ thuộc kỹ thuật finetuning (full finetuning cần nhiều hơn PEFT hàng bậc độ lớn), độ phức tạp nhiệm vụ và sức mạnh mô hình gốc (với 100 ví dụ SNLI, mô hình mạnh nhất đạt khoảng 88% còn yếu nhất khoảng 57%; với 550.000 ví dụ mọi mô hình đều khoảng 89–93%); nên thử trước với khoảng 50–100 ví dụ và vẽ đường hiệu năng theo cỡ dữ liệu (lợi ích giảm dần).
+
+Phần *Data Augmentation and Synthesis* nêu năm lý do tổng hợp dữ liệu (tăng số lượng, độ bao phủ, chất lượng; bảo vệ quyền riêng tư; chưng cất mô hình), các kỹ thuật truyền thống (dựa trên luật/mẫu, biến đổi, nhiễu loạn, mô phỏng) và kỹ thuật dùng AI (mô phỏng API, tự chơi, diễn đạt lại, dịch, dịch ngược, tổng hợp chỉ dẫn như Alpaca 52.000 cặp từ 175 ví dụ mồi, chỉ dẫn ngược, quy trình code của Llama 3 tạo hơn 2,7 triệu ví dụ), cách kiểm tra dữ liệu, và bốn giới hạn (kiểm soát chất lượng, bắt chước bề ngoài, sụp đổ mô hình, mất dấu nguồn gốc dữ liệu).
+
+Chưng cất mô hình (model distillation): DistilBERT nhỏ hơn BERT 40%, giữ 97% năng lực, nhanh hơn 60%; nhưng dữ liệu tổng hợp còn có thể huấn luyện học trò mạnh hơn thầy (Nemotron-4-340B).
+
+Phần *Data Processing* đi qua kiểm tra dữ liệu, khử trùng lặp (lặp 0,1% dữ liệu 100 lần làm mô hình 800 triệu tham số tụt xuống ngang mô hình 400 triệu), làm sạch và lọc (bỏ thẻ HTML/Markdown thừa tăng độ chính xác 20%, giảm 60% độ dài đầu vào), và định dạng đúng chat template.
 
 ## Sơ đồ
 
@@ -1498,3 +1498,141 @@ Khi mô hình nền tảng trở thành hàng hoá dùng chung, dữ liệu là 
   - Mô phỏng kịch bản hiếm (IPO, phá sản lớn, khủng hoảng thanh khoản) giúp phủ các sự kiện đuôi, nhưng phải nhớ bài học sụp đổ mô hình: dữ liệu sinh đệ quy làm biến mất đúng các sự kiện hiếm mà quản trị rủi ro quan tâm nhất; luôn neo vào dữ liệu lịch sử thật.
   - Nhiệm vụ như hỏi đáp báo cáo tài chính được chương xếp vào loại phức tạp, cần nhiều dữ liệu; hướng dẫn gán nhãn phải định nghĩa rõ thế nào là câu trả lời "đúng" (số liệu khớp báo cáo, kỳ báo cáo, đơn vị) và chuyên gia gán nhãn không được dùng thông tin ngoài tài liệu, nếu không sẽ dạy mô hình ảo giác.
   - Bài toán ngân sách của chương (tiền dữ liệu đối với tiền tính toán, lợi ích biên giảm dần của mỗi lô ví dụ) là một bài toán phân bổ vốn quen thuộc: so lợi ích biên của 1.000 ví dụ tiếp theo với chi phí biên của chúng.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 8 trên một trang: sáu nhánh lớn theo các mục của chương gốc — mở đầu và chọn lọc dữ liệu (mục 1–3), chất lượng và độ bao phủ (mục 4–5), số lượng (mục 6), thu thập và gán nhãn (mục 7), tổng hợp dữ liệu (mục 8–15), xử lý dữ liệu (mục 16–20) — mỗi nhánh ghi luận điểm và con số quan trọng nhất; nhánh cuối là thông điệp xuyên suốt theo mục 21.
+
+```mermaid
+mindmap
+  root((Chương 8: dữ liệu là chỗ tạo khác biệt, xây theo chất lượng, độ bao phủ, số lượng))
+    Mục 1–3 — Cần dữ liệu gì cho hành vi gì
+      Dữ liệu thay mô hình làm lợi thế
+        Ít công ty tự huấn luyện từ đầu nên cạnh tranh bằng dữ liệu
+        Đội dữ liệu GPT-3 có 2 người, GPT-4 có 80 người
+        Data-centric AI cố định mô hình, cải thiện dữ liệu; thực tế cần cả hai
+      Định dạng theo kiểu huấn luyện
+        Finetuning tự giám sát: dãy văn bản
+        Instruction finetuning: cặp chỉ dẫn – câu trả lời
+        Preference finetuning: chỉ dẫn, câu trả lời thắng, câu trả lời thua
+      Hành vi phức tạp cần dữ liệu đắt
+        Thêm câu trả lời CoT từng bước gần gấp đôi độ chính xác một số nhiệm vụ
+        Tool use: nhãn do người làm chưa tối ưu cho AI nên hay dùng mô phỏng
+        Tool use cần định dạng nhiều thông điệp mỗi lượt, có header nguồn và đích
+        Dữ liệu nhiều lượt dạy giải nhiệm vụ qua hỏi lại, sửa sai nhưng khó lấy
+      Xoá dữ liệu để bỏ hành vi xấu
+        Chatbot tự viết lại câu không ai yêu cầu → xoá ví dụ có gợi ý thừa
+    Mục 4–5 — Chất lượng và độ bao phủ
+      Ít mà tốt thắng nhiều mà nhiễu
+        Yi: 10.000 chỉ dẫn chọn kỹ tốt hơn hàng trăm nghìn chỉ dẫn nhiễu
+        LIMA: Llama 65B trên 1.000 ví dụ ngang hoặc hơn GPT-4 ở 43% trường hợp
+      Sáu đặc tính dữ liệu chất lượng cao
+        Liên quan, khớp yêu cầu nhiệm vụ, nhất quán giữa người gán nhãn
+        Đúng định dạng, đủ độc nhất, tuân thủ quy định như không chứa PII
+      Độ bao phủ theo trục của người dùng thật
+        Người dùng hay gõ sai chính tả → dữ liệu phải có lỗi chính tả
+        Llama 3 gần như giữ kiến trúc, tiến bộ chủ yếu nhờ chất lượng và đa dạng dữ liệu
+      Tỷ lệ miền khác nhau theo giai đoạn
+        Toán và code chiếm 42% pre-training, 36% SFT, chỉ 12,82% preference
+        Chọn tỷ lệ theo cách dùng thật hoặc thử trên mô hình nhỏ rồi ngoại suy
+      Cần cả chất lượng lẫn đa dạng
+        Mô hình 7B, 2.000 ví dụ: cả hai đạt 3,83; chỉ chất lượng 3,49; chỉ đa dạng 3,33
+    Mục 6 — Cần bao nhiêu dữ liệu
+      Ba yếu tố quyết định số lượng
+        Full finetuning cần nhiều hơn PEFT hàng bậc độ lớn
+        Nhiệm vụ phức tạp như hỏi đáp báo cáo tài chính cần nhiều hơn phân loại cảm xúc
+        Mô hình gốc càng mạnh càng cần ít ví dụ
+      Ít dữ liệu thì mô hình mạnh thắng, nhiều dữ liệu thì mọi mô hình ngang nhau
+        SNLI 100 ví dụ: mô hình yếu khoảng 57%, mạnh khoảng 88%
+        SNLI 550.000 ví dụ: mọi mô hình khoảng 89–93%
+        Ít dữ liệu → PEFT trên mô hình mạnh; nhiều → full finetuning mô hình nhỏ hơn
+      Bắt đầu nhỏ, đo lợi ích giảm dần
+        Thử 50–100 ví dụ làm kỹ; không cải thiện thì bộ lớn hiếm khi cứu được
+        Finetune trên 25%, 50%, 100% dữ liệu để vẽ đường hiệu năng
+        Đa dạng nhiệm vụ tăng mạnh từ 9 lên 282 nhiệm vụ, sau đó chững lại
+      Giảm nhu cầu dữ liệu tốt và ràng buộc ngân sách
+        Finetune trước trên dữ liệu kém liên quan hoặc tổng hợp, rồi trên dữ liệu thật
+        Ngân sách 10.000 USD, 2 USD mỗi ví dụ → tối đa 5.000 ví dụ
+    Mục 7 — Thu thập và gán nhãn
+      Nguồn tốt nhất là chính ứng dụng
+        Data flywheel: dữ liệu người dùng khớp đúng phân phối cần học
+      Phối hợp nhiều nguồn
+        Lọc bộ có sẵn, viết lại câu trả lời kém, tổng hợp thêm chủ đề còn thiếu
+        Dữ liệu công khai: luôn kiểm giấy phép và nguồn gốc, không tin hoàn toàn
+      Hướng dẫn gán nhãn là phần khó nhất
+        Phải nói rõ câu trả lời tốt trông thế nào, 3 điểm khác 4 điểm ở đâu
+        Dùng chung với hướng dẫn cho dữ liệu đánh giá
+    Mục 8–15 — Tổng hợp dữ liệu: mạnh nhưng có giới hạn
+      Năm lý do tổng hợp
+        Tăng số lượng, độ bao phủ, đôi khi cả chất lượng
+        Bảo vệ quyền riêng tư và chưng cất mô hình
+      Kỹ thuật truyền thống
+        Theo luật và mẫu: AlphaGeometry học từ 100 triệu ví dụ hình học tổng hợp
+        Biến đổi và nhiễu loạn: đổi một pixel làm phân loại sai 67,97% ảnh CIFAR-10
+        Mô phỏng: rẻ, an toàn, tạo được sự kiện hiếm cho xe tự lái và robot
+      Kỹ thuật dùng AI
+        Diễn đạt lại: MetaMath biến 15.000 bài toán thành gần 400.000 ví dụ
+        Alpaca sinh 52.000 cặp chỉ dẫn từ 175 ví dụ mồi
+        Chỉ dẫn ngược: người viết câu trả lời dài, AI sinh prompt → tránh ảo giác
+        Llama 3 sinh hơn 2,7 triệu ví dụ code qua unit test và dịch ngược
+      Chỉ dùng được dữ liệu kiểm tra được
+        Tính đúng chức năng: parser, linter, unit test, dịch ngược
+        AI verifier chấm điểm; heuristic bỏ ví dụ rỗng, quá dài, trùng lặp
+      Bốn giới hạn
+        Khó kiểm soát chất lượng: rác vào, rác ra
+        Học trò bắt chước phong cách thầy và học cách viết thứ trông như lời giải
+        Huấn luyện đệ quy gây sụp đổ mô hình, mất ca hiếm; trộn dữ liệu thật để tránh
+        Mất dấu nguồn gốc: rủi ro bản quyền và nhiễm benchmark
+      Chưng cất mô hình
+        DistilBERT nhỏ hơn BERT 40%, giữ 97% năng lực, nhanh hơn 60%
+        Học trò có thể mạnh hơn thầy: Nemotron-4-340B-Instruct thắng Mixtral
+        Nhiều giấy phép cấm dùng đầu ra để huấn luyện mô hình cạnh tranh
+    Mục 16–20 — Xử lý dữ liệu thô
+      Nguyên tắc làm
+        Sắp thứ tự bước cho rẻ, chạy thử script, luôn giữ bản gốc
+      Kiểm tra bằng thống kê và bằng mắt
+        Vẽ phân phối token, độ dài, chủ đề, điểm theo từng người gán nhãn
+        Nhìn dữ liệu 15 phút thường tiết kiệm hàng giờ đau đầu
+      Khử trùng lặp
+        Lặp 0,1% dữ liệu 100 lần làm mô hình 800 triệu tham số tụt ngang 400 triệu
+        Trùng lặp gây thiên lệch và nhiễm tập kiểm tra
+        So từng cặp quá đắt → băm MinHash, Bloom filter hoặc giảm chiều
+      Làm sạch và lọc
+        Bỏ HTML, Markdown thừa: Databricks tăng 20% độ chính xác, giảm 60% token
+        Bỏ PII, dữ liệu có bản quyền, độc hại và dữ liệu kém
+      Định dạng đúng chat template
+        Prompt 3-shot dài rút còn đầu vào kèm mũi tên sau khi finetune → giảm chi phí
+        Prompt khi dùng phải khớp từng ký tự với định dạng finetune, kể cả dấu cách
+    Thông điệp xuyên suốt
+      Nghĩ kỹ hành vi muốn dạy rồi thiết kế dữ liệu thể hiện hành vi đó
+      Chất lượng và đa dạng thường đáng giá hơn số lượng thô
+      Tổng hợp tạo thêm dữ liệu nhưng không tự động hoá việc nghĩ cần dữ liệu gì
+      Phép thử tối hậu của dữ liệu là mô hình có tốt lên không
+```
+
+## Nguồn
+
+Chip Huyen, *AI Engineering: Building Applications with Foundation Models*, O'Reilly Media, ấn bản đầu tiên (12/2024), Chương 8 "Dataset Engineering", trang PDF 694–772.
+
+## Tác giả
+
+Chip Huyen — nhà văn và nhà khoa học máy tính chuyên về hệ thống học máy; từng làm ở NVIDIA, Snorkel AI, sáng lập một startup hạ tầng AI (sau được mua lại), dạy hệ thống học máy ở Đại học Stanford; tác giả *Designing Machine Learning Systems* (O'Reilly 2022) và bốn sách tiếng Việt bán chạy, trong đó có bộ *Xách ba lô lên và đi*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 7 ([C07-finetuning.md](C07-finetuning.md)) trả lời câu hỏi *khi nào* và *làm thế nào* để finetune một mô hình nền tảng (full finetuning, PEFT, LoRA, gộp mô hình); nhưng mọi kỹ thuật finetuning đều vô ích nếu thiếu dữ liệu phù hợp. Chương 8 là nửa còn lại của finetuning: chọn, thu thập, gán nhãn, tổng hợp (synthesize) và xử lý dữ liệu huấn luyện, chủ yếu cho giai đoạn hậu huấn luyện (post-training: supervised finetuning và preference finetuning đã giới thiệu ở Chương 2 — [C02-hieu-ve-mo-hinh-nen-tang.md](C02-hieu-ve-mo-hinh-nen-tang.md)). Chương dựa nhiều vào các công cụ đã dựng trước đó: hướng dẫn chấm điểm và AI judge của Chương 3–4 ([C03-phuong-phap-danh-gia.md](C03-phuong-phap-danh-gia.md), [C04-danh-gia-he-thong-ai.md](C04-danh-gia-he-thong-ai.md)) dùng lại để viết hướng dẫn gán nhãn và kiểm tra dữ liệu tổng hợp; chat template và chain-of-thought của Chương 5 ([C05-prompt-engineering.md](C05-prompt-engineering.md)); tool use của agent và tìm kiếm vector của Chương 6 ([C06-rag-va-agent.md](C06-rag-va-agent.md)). Sau khi có mô hình tốt, Chương 9 ([C09-toi-uu-suy-luan.md](C09-toi-uu-suy-luan.md)) bàn cách phục vụ mô hình nhanh và rẻ; Chương 10 ([C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md](C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md)) bàn cách thiết kế hệ thống phản hồi người dùng — nguồn dữ liệu quý nhất mà Chương 8 gọi là "data flywheel".
+
+## Lưu ý
+
+- **Trích dẫn không nhất quán:** ở mục chain-of-thought (trang PDF 698–700), sách ghi bài "Scaling Instruction-Finetuned Language Models" là "Chun et al., 2024"; ở mục Data Quantity (trang PDF 719) cùng bài lại ghi "Chung et al., 2022". Tên đúng của tác giả đầu là Hyung Won Chung; bài đăng arXiv năm 2022 (theo hiểu biết của người tổng hợp, bản tạp chí JMLR năm 2024 — có lẽ là lý do của năm 2024).
+- **Phép quy đổi Llama 3 sai (trang PDF 712–713):** sách nói Llama 2 và Llama 3 huấn luyện trên 2 nghìn tỷ và 16 nghìn tỷ token, mỗi ví dụ 2.000 token thì tương đương 1 tỷ và "15 tỷ" ví dụ. 2 × 10¹² / 2.000 = 1 tỷ là đúng; nhưng 16 × 10¹² / 2.000 = **8 tỷ**, không phải 15 tỷ. (Theo hiểu biết của người tổng hợp, Meta công bố Llama 3 dùng "hơn 15 nghìn tỷ" token; khi đó con số là khoảng 7,5 tỷ ví dụ. Có lẽ tác giả trộn hai con số 15T và 16T.)
+- **Ví dụ quy trình tạo bộ dữ liệu, bước 5–6 không khớp (trang PDF 722–723):** bước 5 nói "tạo thủ công 100 mẫu chỉ dẫn về chủ đề X", rồi "dùng AI tổng hợp 2.000 chỉ dẫn từ 10 mẫu này" (100 hay 10?); đoạn sau lại nói "có 100 chỉ dẫn tổng hợp cho mỗi mẫu làm hại độ đa dạng". Với 2.000 chỉ dẫn: 100 mẫu cho 20 chỉ dẫn/mẫu; 10 mẫu cho 200 chỉ dẫn/mẫu; 100 chỉ dẫn/mẫu thì cần 20 mẫu. Không cách đọc nào khớp cả ba con số. Các phép cộng khác đúng: 10.000 − 1.000 = 9.000; 9.000 − 3.000 = 6.000; 6.000 + 3.000 = 9.000; 9.000 + 2.000 = 11.000.
+- **"Gần một nửa" (trang PDF 710):** sách nói toán, suy luận và code cộng lại chiếm "gần một nửa" dữ liệu pre-training và SFT của Llama 3. Theo bảng: pre-training 25% + 17% = 42%; SFT 21,19% + 14,89% = 36,08%. Con số 42% là "gần một nửa", còn 36% thì hơi xa. Phép cộng 5,89% + 6,93% = 12,82% cho preference finetuning là đúng. Mỗi cột của bảng cộng đủ 100%.
+- **Hình 8-1 và lời văn (trang PDF 711–712):** chú thích hình nói mô hình finetune trên dữ liệu vừa chất lượng vừa đa dạng thắng mô hình finetune trên dữ liệu "hoặc đa dạng hoặc chất lượng cao"; ba cột của hình ghi tên bộ dữ liệu cụ thể (wikiHow; Stack Exchange chưa lọc; Stack Exchange đã lọc) mà lời văn không nêu; bản tổng hợp đọc từ ảnh.
+- **Hình 8-6 (trang PDF 757):** lời văn ghi "(verb, direct object, noun) pairs", chú thích hình ghi "(verb, direct object noun)". Đúng là cặp (động từ, danh từ làm tân ngữ trực tiếp) — một cặp hai phần tử, không phải bộ ba. Hình chỉ cho tần suất của 25 cặp phổ biến nhất và tổng số cặp độc nhất (GPT-4: 5.229, GPT-3: 6.133); điều này hơi trái với câu của sách "GPT-4 có dải cặp động từ–danh từ rộng và đa dạng hơn", vì số cặp độc nhất của GPT-3 lại nhiều hơn (nhận xét của người tổng hợp; bài gốc của Peng et al. lập luận dựa trên phân phối đuôi dài, người đọc nên thận trọng).
+- **Bảng 8-3 (trang PDF 760):** chú thích nói các ví dụ trùng lặp được tô xám; trong bản chuyển, mọi ô đầu vào đều có nền xám nhạt nên không phân biệt được. Theo nội dung, ví dụ trùng là dòng 1, 3 và 4 (cùng "{item: pencil, color: red}" giá 20 USD).
+- **Nemotron-4 (trang PDF 754, chú thích 15):** sách gọi Mixtral-8x7B là mô hình "56 tỷ tham số" (8 × 7). Theo hiểu biết của người tổng hợp, Mixtral 8x7B có khoảng 46,7 tỷ tham số tổng (các chuyên gia dùng chung lớp attention) và khoảng 12,9 tỷ tham số hoạt động mỗi token. Kết luận "thầy nhỏ hơn trò" không đổi.
+- **Lỗi in, lỗi lớp chữ:** "HMTL" (trang PDF 763) là "HTML"; "verified, x, by code execution" (trang PDF 747) có chữ "x" thừa; "it wasn't until AI become capable" (trang PDF 737) là "became"; mục Summary viết "preferred finetuning" thay cho "preference finetuning"; "see Goodfellow et al., 2013 and Moosavi-Dezfooli et al., 2015)" thiếu ngoặc mở. Mẫu giao dịch ở trang PDF 732 bị cắt cuối dòng "[Credit Card/Debit Card/Cash/Onli" — có lẽ là "Online Payment]".
+- **Chú thích cuối chương:** 16 chú thích dồn ở trang PDF 770–772, mất số trong lớp chữ; bản tổng hợp khớp theo nội dung và theo số còn thấy trên ảnh trang (chú thích 2 ở trang PDF 698, 9 ở 729, 11 ở 743, 13 ở 750, 14 ở 751). Chú thích 9 (về mô hình phát hiện nội dung do AI tạo) được đặt sau câu về bài toán phức tạp do AI sinh ra, dù về nội dung nó là một lý do tổng hợp dữ liệu nữa.
+- **Quy ước dịch:** "data curation" dịch là "chọn lọc dữ liệu" (gồm cả quyết định cần dữ liệu gì, bao nhiêu, chất lượng thế nào); "dataset engineering" là "kỹ thuật dữ liệu"; "data synthesis" là "tổng hợp dữ liệu", "synthetic data" là "dữ liệu tổng hợp"; "data augmentation" là "tăng cường dữ liệu"; "annotation" là "gán nhãn"; "deduplication" là "khử trùng lặp"; "model collapse" là "sụp đổ mô hình"; "data lineage" là "nguồn gốc dữ liệu"; "coverage" là "độ bao phủ". Giữ tiếng Anh: finetuning, SFT, PEFT, LoRA, token, prompt, chain-of-thought (CoT), tool use, agent, embedding, benchmark, data flywheel, self-play, back-translation (kèm dịch "dịch ngược"), AI judge. "Instruction" dịch là "chỉ dẫn", "response" là "câu trả lời".
+- **Con số đã thay đổi sau 2024 (theo hiểu biết của người tổng hợp):** các tên mô hình OpenAI trong Hình 8-2 (ada, babbage, curie, davinci, text-davinci-002/003) đã ngừng hoạt động từ đầu 2024; text-davinci-003 (thầy của Alpaca) cũng đã bị gỡ.

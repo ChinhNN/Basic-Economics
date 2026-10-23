@@ -1,23 +1,18 @@
 # Chương 1 — Giới thiệu về xây dựng ứng dụng AI với mô hình nền tảng (Introduction to Building AI Applications with Foundation Models)
 
-**Nguồn:** Chip Huyen, *AI Engineering: Building Applications with Foundation Models*, O'Reilly Media, ấn bản đầu tiên (12/2024), Chương 1 "Introduction to Building AI Applications with Foundation Models", trang PDF 32–118 (phần chữ chính trang PDF 32–115, chú thích cuối chương trang PDF 115–118).
-**Tác giả:** Chip Huyen — nhà văn và nhà khoa học máy tính chuyên về hệ thống học máy; từng làm ở NVIDIA, Snorkel AI, sáng lập một startup hạ tầng AI (sau được mua lại), dạy hệ thống học máy ở Đại học Stanford; tác giả *Designing Machine Learning Systems* (O'Reilly 2022) và bốn sách tiếng Việt bán chạy, trong đó có bộ *Xách ba lô lên và đi*.
-**Vị trí trong lập luận của cả cuốn sách:** Lời nói đầu ([00-loi-noi-dau.md](00-loi-noi-dau.md)) nêu mục tiêu của sách là đưa ra một khung tư duy để xây dựng ứng dụng trên mô hình nền tảng. Chương 1 là chương tổng quan: nó giải thích vì sao "kỹ thuật AI" (AI engineering) xuất hiện thành một ngành riêng, điểm qua các nhóm ứng dụng đã được kiểm chứng, nêu các câu hỏi cần trả lời trước khi xây một ứng dụng, rồi vẽ "ngăn xếp kỹ thuật AI" ba tầng (phát triển ứng dụng, phát triển mô hình, hạ tầng) — chính ngăn xếp này là bản đồ của cả cuốn sách. Chương 2 ([C02-hieu-ve-mo-hinh-nen-tang.md](C02-hieu-ve-mo-hinh-nen-tang.md)) đi sâu vào bản thân mô hình nền tảng (dữ liệu huấn luyện, kiến trúc, post-training, sampling); Chương 3 và 4 ([C03-phuong-phap-danh-gia.md](C03-phuong-phap-danh-gia.md), [C04-danh-gia-he-thong-ai.md](C04-danh-gia-he-thong-ai.md)) bàn về đánh giá, việc mà Chương 1 gọi là thách thức lớn nhất; Chương 5–7 ([C05-prompt-engineering.md](C05-prompt-engineering.md), [C06-rag-va-agent.md](C06-rag-va-agent.md), [C07-finetuning.md](C07-finetuning.md)) là ba kỹ thuật thích nghi mô hình mà Chương 1 giới thiệu; Chương 8–9 ([C08-ky-thuat-du-lieu.md](C08-ky-thuat-du-lieu.md), [C09-toi-uu-suy-luan.md](C09-toi-uu-suy-luan.md)) là kỹ thuật dữ liệu và tối ưu suy luận của tầng phát triển mô hình; Chương 10 ([C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md](C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md)) ráp các thành phần thành kiến trúc và bàn về phản hồi người dùng.
-**Ý chính:** **Khi mô hình AI được mở rộng quy mô nhờ tự giám sát (self-supervision) và được cung cấp dưới dạng dịch vụ, việc xây ứng dụng AI chuyển từ "tự huấn luyện mô hình" sang "thích nghi và đánh giá mô hình có sẵn"; đó là kỹ thuật AI, một ngành mọc ra từ kỹ thuật học máy (ML engineering), giữ nhiều nguyên tắc cũ nhưng đặt trọng tâm mới vào prompt, ngữ cảnh, đánh giá đầu ra mở, giao diện và tối ưu suy luận.** Mô hình ngôn ngữ mã hoá thông tin thống kê về ngôn ngữ, làm việc với đơn vị token (với GPT-4, 100 token xấp xỉ 75 từ; từ vựng của GPT-4 có 100.256 token, của Mixtral 8x7B có 32.000). Mô hình ngôn ngữ tự hồi quy (autoregressive) đoán token kế tiếp và có thể sinh văn bản mở, nên được gọi là "sinh" (generative). Tự giám sát cho phép mỗi câu văn tự tạo nhãn (câu "I love street food." cho sáu mẫu huấn luyện), vượt qua nút thắt gán nhãn (gán nhãn 1 triệu ảnh ImageNet với giá 5 xu một ảnh tốn 50.000 USD, mở rộng ra 1 triệu loại vật thể tốn 50 triệu USD), nên mô hình lớn từ 117 triệu tham số (GPT, 6/2018) lên 1,5 tỷ (GPT-2, 2/2019), còn lúc viết sách thì mô hình 100 tỷ tham số mới được coi là lớn. Thêm các dạng dữ liệu khác (ảnh, video…) biến LLM thành mô hình nền tảng (foundation model), chuyển AI từ mô hình chuyên một nhiệm vụ sang mô hình đa dụng; CLIP học từ 400 triệu cặp (ảnh, chữ) lấy trên internet mà không gán nhãn tay. Ba yếu tố — năng lực đa dụng, đầu tư tăng mạnh (Goldman Sachs ước 100 tỷ USD ở Mỹ, 200 tỷ USD toàn cầu năm 2025; 177 công ty S&P 500 nhắc tới AI trong cuộc gọi báo cáo lợi nhuận quý 2/2023, gấp ba năm trước), và rào cản gia nhập thấp (mô hình như dịch vụ qua API) — làm kỹ thuật AI thành ngành kỹ thuật tăng trưởng nhanh nhất. Trong 205 ứng dụng mã nguồn mở, lập trình chiếm 30,4%, bot hội thoại 26,5%; doanh nghiệp triển khai ứng dụng nội bộ nhanh hơn ứng dụng hướng ra ngoài (62% với tóm tắt văn bản so với 39% với chatbot bên ngoài). Trước khi xây, cần xét lý do (rủi ro sống còn, cơ hội, hay sợ bị bỏ lại), vai trò của AI và con người, khả năng phòng thủ sản phẩm (công nghệ, dữ liệu, phân phối), chỉ số thành công, kế hoạch mốc với "dặm cuối" (LinkedIn mất 1 tháng đạt 80% trải nghiệm mong muốn nhưng thêm 4 tháng mới vượt 95%) và bảo trì trong bối cảnh thay đổi nhanh. So với kỹ thuật học máy, kỹ thuật AI ít mô hình hoá và huấn luyện hơn, nhiều thích nghi mô hình hơn; dùng mô hình lớn hơn nên tối ưu suy luận quan trọng hơn (10 ms một token thì 100 token mất 1 giây, so với chuẩn 100 ms của ứng dụng internet); làm việc với đầu ra mở nên đánh giá khó hơn nhiều (Gemini Ultra đạt 90,04% MMLU với CoT@32 nhưng chỉ 83,7% với 5-shot, thấp hơn 86,4% của GPT-4). Quy trình cũng đảo ngược: kỹ thuật học máy đi từ dữ liệu tới mô hình tới sản phẩm, còn kỹ thuật AI đi từ sản phẩm tới dữ liệu tới mô hình.
+## Ý chính
 
-> **Lưu ý:**
-> - **Hình 1-1 không khớp lời văn:** lời văn nói GPT-4 tách cụm "I can't wait to build AI applications" thành chín token, nhưng ảnh minh hoạ là cụm "I can't wait to build **awesome** AI applications" và chính cụm có "awesome" mới cho chín token (I / can / 't / wait / to / build / awesome / AI / applications). Cụm không có "awesome" theo cách tách đó chỉ có tám token.
-> - **Bảng 1-5 bị cắt trong bản PDF:** bảng rộng hơn trang nên cột cuối (GPT-3.5) bị cắt; chỉ đọc được "70%, 5-shot". Chú thích bảng cũng bị cắt sau chữ "Gemini's techni…" (theo hiểu biết của người tổng hợp là "technical report", tức báo cáo kỹ thuật Gemini tháng 12/2023).
-> - **Giải thích CoT@32 (nhận xét của người tổng hợp):** sách nói với CoT@32 "Gemini được cho xem 32 ví dụ, còn ChatGPT chỉ 5 ví dụ". Theo hiểu biết của người tổng hợp về báo cáo kỹ thuật Gemini, CoT@32 nghĩa là lấy 32 mẫu trả lời có chuỗi suy luận (chain-of-thought) rồi chọn đáp án theo đa số (có ngưỡng đồng thuận), chứ không phải 32 ví dụ trong prompt; 5-shot mới là 5 ví dụ. Ý chính của sách (cách prompt và cách lấy mẫu làm điểm số thay đổi nhiều) không đổi.
-> - **Hình 1-11, nhãn "GPT-4.5-turbo":** trong hình có nhãn "GPT-4.5-turbo"; theo hiểu biết của người tổng hợp, ở thời điểm 2023–2024 không có mô hình công khai tên này, có lẽ ý là GPT-4 Turbo.
-> - **Hình 1-15 so với lời văn:** lời văn nói tìm được 920 kho mã, nhưng cột cộng dồn ở đầu năm 2024 trong hình chỉ lên khoảng 845. Có thể một số kho không có ngày phù hợp hoặc hình dừng sớm hơn thời điểm tìm (3/2024); sách không giải thích. Trong hình, nhóm "AI engineering" tương ứng với tầng "phát triển ứng dụng" (application development) trong lời văn, và có thêm nhóm "Model repo" (kho mô hình).
-> - **Số liệu McKinsey (nhận xét của người tổng hợp):** hình của McKinsey ghi *mức giảm thời gian* làm việc (tài liệu hoá mã 45–50%, sinh mã 35–45%, tái cấu trúc mã 20–30%, việc phức tạp cao dưới 10%), còn lời văn đổi thành *mức tăng năng suất* ("gấp đôi" với tài liệu, "25–50%" với sinh mã và tái cấu trúc). Quy đổi đúng: giảm thời gian t thì năng suất tăng 1/(1 − t) − 1. Giảm 45–50% tương ứng năng suất tăng 82–100% (khớp "gấp đôi"); giảm 35–45% ứng với tăng 54–82%; giảm 20–30% ứng với tăng 25–43%. Vậy "25–50%" chỉ khớp với tái cấu trúc mã; với sinh mã con số thật cao hơn.
-> - **Lỗi chữ trong sách:** "Not unsurprisingly" (trang PDF 58) là phủ định kép, ý tác giả là "không ngạc nhiên" (unsurprisingly); "aggregation and dissimilation" (trang PDF 75) có lẽ là "dissemination" (phổ biến thông tin); "At the bottom is the stack is infrastructure" (trang PDF 94) thừa chữ, ý là "at the bottom of the stack"; "Stable Diffusion eb UI" (trang PDF 54) là lỗi in của chính cuốn sách (ảnh trang cũng in "eb UI"), đúng là "Stable Diffusion web UI".
-> - **Bảng 1-2:** các ký hiệu α, β, ζ là ba mức đo độ phơi nhiễm trong nghiên cứu Eloundou và cộng sự (2023). Theo hiểu biết của người tổng hợp về bài gốc: α chỉ tính nhiệm vụ mà riêng mô hình ngôn ngữ làm giảm được ít nhất 50% thời gian; ζ tính thêm toàn bộ nhiệm vụ cần phần mềm bổ trợ xây trên mô hình; β nằm giữa (tính một nửa trọng số cho nhóm cần phần mềm bổ trợ). Sách chỉ nói α là phơi nhiễm trực tiếp với mô hình, β và ζ là phơi nhiễm với phần mềm dùng AI.
-> - **Số liệu đọc từ hình:** các giá trị đọc từ Hình 1-6 (số sao GitHub), 1-11 (chi phí theo MMLU) và 1-15 (số kho mã cộng dồn) là ước lượng bằng mắt từ ảnh trang, sai số vài phần trăm; các số ghi trên nhãn của Hình 1-5, 1-7, 1-8, 1-9 được chép đúng.
-> - **Chú thích cuối chương:** 27 chú thích nằm dồn ở trang PDF 115–118, số thứ tự đã mất trong lớp chữ; bản tổng hợp khớp từng chú thích vào đúng chỗ theo nội dung (ví dụ chú thích về giá gán nhãn của Amazon SageMaker đặt cạnh phép tính chi phí ImageNet).
-> - **Quy ước dịch:** "foundation model" dịch là *mô hình nền tảng*; "AI engineering" là *kỹ thuật AI*, "AI engineer" là *kỹ sư AI*; "ML engineering" là *kỹ thuật học máy*; "self-supervision" là *tự giám sát*; "model as a service" là *mô hình như một dịch vụ*; "inference" là *suy luận* (quá trình mô hình tính đầu ra từ đầu vào); "use case" là *trường hợp sử dụng*; "usefulness threshold" là *ngưỡng hữu dụng*; "defensibility" là *khả năng phòng thủ*; "moat" là *hào phòng thủ*. Giữ tiếng Anh: token, prompt, prompt engineering, finetuning, RAG, agent, embedding, benchmark, latency, pre-training, post-training.
-> - **Thời điểm số liệu:** sách viết xong khoảng tháng 9/2024; nhiều con số (giá suy luận, số sao GitHub, vốn gọi được, cỡ từ vựng, kích thước "lớn") đã thay đổi. Các thay đổi người tổng hợp biết được ghi ở mục "Những gì đã thay đổi từ cuối 2024".
+**Khi mô hình AI được mở rộng quy mô nhờ tự giám sát (self-supervision) và được cung cấp dưới dạng dịch vụ, việc xây ứng dụng AI chuyển từ "tự huấn luyện mô hình" sang "thích nghi và đánh giá mô hình có sẵn"; đó là kỹ thuật AI, một ngành mọc ra từ kỹ thuật học máy (ML engineering), giữ nhiều nguyên tắc cũ nhưng đặt trọng tâm mới vào prompt, ngữ cảnh, đánh giá đầu ra mở, giao diện và tối ưu suy luận.**
+
+Mô hình ngôn ngữ mã hoá thông tin thống kê về ngôn ngữ, làm việc với đơn vị token (với GPT-4, 100 token xấp xỉ 75 từ; từ vựng của GPT-4 có 100.256 token, của Mixtral 8x7B có 32.000). Mô hình ngôn ngữ tự hồi quy (autoregressive) đoán token kế tiếp và có thể sinh văn bản mở, nên được gọi là "sinh" (generative). Tự giám sát cho phép mỗi câu văn tự tạo nhãn (câu "I love street food." cho sáu mẫu huấn luyện), vượt qua nút thắt gán nhãn (gán nhãn 1 triệu ảnh ImageNet với giá 5 xu một ảnh tốn 50.000 USD, mở rộng ra 1 triệu loại vật thể tốn 50 triệu USD), nên mô hình lớn từ 117 triệu tham số (GPT, 6/2018) lên 1,5 tỷ (GPT-2, 2/2019), còn lúc viết sách thì mô hình 100 tỷ tham số mới được coi là lớn. Thêm các dạng dữ liệu khác (ảnh, video…) biến LLM thành mô hình nền tảng (foundation model), chuyển AI từ mô hình chuyên một nhiệm vụ sang mô hình đa dụng; CLIP học từ 400 triệu cặp (ảnh, chữ) lấy trên internet mà không gán nhãn tay.
+
+Ba yếu tố — năng lực đa dụng, đầu tư tăng mạnh (Goldman Sachs ước 100 tỷ USD ở Mỹ, 200 tỷ USD toàn cầu năm 2025; 177 công ty S&P 500 nhắc tới AI trong cuộc gọi báo cáo lợi nhuận quý 2/2023, gấp ba năm trước), và rào cản gia nhập thấp (mô hình như dịch vụ qua API) — làm kỹ thuật AI thành ngành kỹ thuật tăng trưởng nhanh nhất.
+
+Trong 205 ứng dụng mã nguồn mở, lập trình chiếm 30,4%, bot hội thoại 26,5%; doanh nghiệp triển khai ứng dụng nội bộ nhanh hơn ứng dụng hướng ra ngoài (62% với tóm tắt văn bản so với 39% với chatbot bên ngoài).
+
+Trước khi xây, cần xét lý do (rủi ro sống còn, cơ hội, hay sợ bị bỏ lại), vai trò của AI và con người, khả năng phòng thủ sản phẩm (công nghệ, dữ liệu, phân phối), chỉ số thành công, kế hoạch mốc với "dặm cuối" (LinkedIn mất 1 tháng đạt 80% trải nghiệm mong muốn nhưng thêm 4 tháng mới vượt 95%) và bảo trì trong bối cảnh thay đổi nhanh.
+
+So với kỹ thuật học máy, kỹ thuật AI ít mô hình hoá và huấn luyện hơn, nhiều thích nghi mô hình hơn; dùng mô hình lớn hơn nên tối ưu suy luận quan trọng hơn (10 ms một token thì 100 token mất 1 giây, so với chuẩn 100 ms của ứng dụng internet); làm việc với đầu ra mở nên đánh giá khó hơn nhiều (Gemini Ultra đạt 90,04% MMLU với CoT@32 nhưng chỉ 83,7% với 5-shot, thấp hơn 86,4% của GPT-4). Quy trình cũng đảo ngược: kỹ thuật học máy đi từ dữ liệu tới mô hình tới sản phẩm, còn kỹ thuật AI đi từ sản phẩm tới dữ liệu tới mô hình.
 
 ## Sơ đồ
 
@@ -879,7 +874,7 @@ Bản chất thống kê của ngôn ngữ được phát hiện từ nhiều th
 
 Thuở đầu, một mô hình ngôn ngữ chỉ gắn với một ngôn ngữ; nay một mô hình có thể bao nhiều ngôn ngữ.
 
-**Token.** Đơn vị cơ bản của mô hình ngôn ngữ là **token**. Tuỳ mô hình, một token có thể là một ký tự, một từ, hay một phần của từ (như "-tion"). Ví dụ, GPT-4 — một mô hình đứng sau ChatGPT — tách cụm "I can't wait to build awesome AI applications" (Tôi nóng lòng xây những ứng dụng AI tuyệt vời) thành chín token: I / can / 't / wait / to / build / awesome / AI / applications (Hình 1-1 của sách; về chênh lệch giữa lời văn và hình, xem khối Lưu ý). Từ "can't" bị tách thành hai token "can" và "'t". Trang web của OpenAI cho xem các mô hình của họ tách token khác nhau thế nào. Tác giả chú thích: với ngôn ngữ không phải tiếng Anh, một ký tự Unicode đôi khi bị biểu diễn bằng nhiều token.
+**Token.** Đơn vị cơ bản của mô hình ngôn ngữ là **token**. Tuỳ mô hình, một token có thể là một ký tự, một từ, hay một phần của từ (như "-tion"). Ví dụ, GPT-4 — một mô hình đứng sau ChatGPT — tách cụm "I can't wait to build awesome AI applications" (Tôi nóng lòng xây những ứng dụng AI tuyệt vời) thành chín token: I / can / 't / wait / to / build / awesome / AI / applications (Hình 1-1 của sách; về chênh lệch giữa lời văn và hình, xem mục Lưu ý cuối chương). Từ "can't" bị tách thành hai token "can" và "'t". Trang web của OpenAI cho xem các mô hình của họ tách token khác nhau thế nào. Tác giả chú thích: với ngôn ngữ không phải tiếng Anh, một ký tự Unicode đôi khi bị biểu diễn bằng nhiều token.
 
 Quá trình chia văn bản gốc thành token gọi là **tách token** (tokenization). Với GPT-4, một token trung bình dài khoảng 3/4 một từ, nên 100 token xấp xỉ 75 từ.
 
@@ -1465,7 +1460,7 @@ Với kỹ thuật học máy truyền thống, khi các đội xây ứng dụn
 
 Đánh giá luôn quan trọng trong kỹ thuật học máy, nhưng còn quan trọng hơn với mô hình nền tảng vì nhiều lý do (thách thức đánh giá mô hình nền tảng được bàn ở Chương 3). Tóm lại, thách thức chủ yếu đến từ tính mở và năng lực mở rộng của mô hình nền tảng. Ví dụ, với bài toán đóng như phát hiện gian lận, thường có đáp án đúng (ground truth) kỳ vọng để so với đầu ra của mô hình: nếu đầu ra khác kỳ vọng, ta biết mô hình sai. Với chatbot thì mỗi prompt có quá nhiều câu trả lời khả dĩ, không thể dựng danh sách đầy đủ các đáp án đúng để so.
 
-Việc có quá nhiều kỹ thuật thích nghi cũng làm đánh giá khó hơn: một hệ thống chạy kém với kỹ thuật này có thể chạy tốt hơn nhiều với kỹ thuật khác. Khi Google ra mắt Gemini tháng 12/2023, họ tuyên bố Gemini tốt hơn ChatGPT trên benchmark MMLU (Hendrycks và cộng sự, 2020). Google đã đánh giá Gemini bằng một kỹ thuật prompt gọi là CoT@32; theo sách, với kỹ thuật này Gemini được cho xem 32 ví dụ, còn ChatGPT chỉ 5 ví dụ (về cách hiểu CoT@32, xem khối Lưu ý). Khi cả hai cùng được cho xem năm ví dụ, ChatGPT làm tốt hơn. Bảng 1-5 của sách:
+Việc có quá nhiều kỹ thuật thích nghi cũng làm đánh giá khó hơn: một hệ thống chạy kém với kỹ thuật này có thể chạy tốt hơn nhiều với kỹ thuật khác. Khi Google ra mắt Gemini tháng 12/2023, họ tuyên bố Gemini tốt hơn ChatGPT trên benchmark MMLU (Hendrycks và cộng sự, 2020). Google đã đánh giá Gemini bằng một kỹ thuật prompt gọi là CoT@32; theo sách, với kỹ thuật này Gemini được cho xem 32 ví dụ, còn ChatGPT chỉ 5 ví dụ (về cách hiểu CoT@32, xem mục Lưu ý cuối chương). Khi cả hai cùng được cho xem năm ví dụ, ChatGPT làm tốt hơn. Bảng 1-5 của sách:
 
 | Điểm MMLU | Gemini Ultra | Gemini Pro | GPT-4 | GPT-3.5 |
 |---|---|---|---|---|
@@ -1729,7 +1724,7 @@ Kỹ thuật AI là một ngành mới vì cách xây ứng dụng AI đã đổ
 
 - **Số liệu thị trường mang tính giai thoại:** nhiều con số (Scribd giảm 100 lần, 75% mỗi tháng trên LinkedIn, giá cổ phiếu +4,6% so với +2,4%) đến từ một nguồn, không có khoảng tin cậy; tác giả có nhắc tương quan khác nhân quả ở một chỗ, nhưng không nhất quán ở các chỗ khác.
 - **Dữ liệu GitHub thiên lệch:** sách tự thừa nhận ứng dụng giáo dục, viết, tổ chức dữ liệu ít mở mã; ngoài ra số sao đo sự chú ý chứ không đo sử dụng thực tế, và các công cụ "AI engineering" như AutoGPT có lượng sao cao nhưng mức dùng trong sản xuất thấp hơn nhiều.
-- **Chuyển đổi số liệu McKinsey** từ mức giảm thời gian sang mức tăng năng suất không khớp hoàn toàn (xem khối Lưu ý).
+- **Chuyển đổi số liệu McKinsey** từ mức giảm thời gian sang mức tăng năng suất không khớp hoàn toàn (xem mục Lưu ý cuối chương).
 - **Mô tả CoT@32** chưa chính xác (lấy mẫu 32 lần, không phải 32 ví dụ), dù không ảnh hưởng luận điểm.
 - **Lời khuyên "kiến thức học máy không bắt buộc"** được chính cuốn sách đánh dấu là gây tranh cãi; thực tế các chương sau (finetuning, tối ưu suy luận, đánh giá bằng AI) đòi hỏi khá nhiều kiến thức nền.
 - **Ba yếu tố tăng trưởng** được trình bày như điều kiện đủ, nhưng chương ít bàn mặt hạn chế: chi phí điện năng và dữ liệu cạn (chỉ nhắc ở câu mở đầu), rủi ro an toàn, và việc nhiều ứng dụng không vượt qua được dặm cuối.
@@ -1760,3 +1755,102 @@ Kỹ thuật AI là một ngành mới vì cách xây ứng dụng AI đã đổ
 
 - **Kỹ sư xây dựng ứng dụng AI:** trước khi viết dòng mã đầu tiên, ghi ra một trang: lý do (sống còn, cơ hội, hay thăm dò), AI thiết yếu hay bổ trợ, nấc Crawl–Walk–Run khởi đầu, chỉ số kinh doanh và ngưỡng hữu dụng (chất lượng, TTFT, TPOT, chi phí mỗi yêu cầu). Làm demo bằng prompt trên vài mô hình, dựng ngay bộ đánh giá nhỏ, rồi mới cân nhắc RAG hay finetuning. Tách lớp gọi mô hình khỏi logic ứng dụng để đổi nhà cung cấp dễ dàng khi giá giảm một nửa. Dự trù thời gian dặm cuối gấp vài lần thời gian demo.
 - **Người làm tài chính, kinh tế dùng AI:** theo bảng phơi nhiễm của Eloundou và cộng sự (2023), phân tích định lượng tài chính và khai thuế nằm trong nhóm phơi nhiễm 100% (theo ζ), và sách xếp phân tích tài chính, bảo hiểm vào nhóm ngành có rủi ro sống còn — nghĩa là nên coi AI là năng lực cốt lõi, ưu tiên tự làm hoặc kiểm soát chặt thay vì thuê ngoài. Các trường hợp rủi ro thấp để bắt đầu: tóm tắt báo cáo và biên bản họp (mẫu "Fast Breakdown"), trích dữ liệu có cấu trúc từ báo cáo tài chính và hợp đồng, hỏi đáp tài liệu nội bộ; việc ra quyết định đầu tư hay tư vấn khách hàng nên ở nấc "có người trong vòng". Khi đọc số liệu kiểu "công ty nhắc AI có cổ phiếu tăng 4,6% so với 2,4%", nhớ lời tác giả: đó có thể chỉ là tương quan. Khi so sánh mô hình bằng benchmark, kiểm tra cùng điều kiện prompt — như ví dụ Gemini Ultra 90,04% so với 83,7%.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 1 trên một trang: bốn nhánh lớn theo bốn mục chính của chương gốc (mục 2–5), mỗi nhánh ghi luận điểm và con số quan trọng nhất; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+mindmap
+  root((Chương 1: xây ứng dụng trên mô hình có sẵn, trọng tâm chuyển từ huấn luyện sang thích nghi và đánh giá))
+    Mục 2 — Vì sao kỹ thuật AI bùng nổ
+      Mô hình ngôn ngữ đoán token kế tiếp
+        Token là đơn vị đọc và tính tiền: 100 token ≈ 75 từ với GPT-4
+        Mô hình tự hồi quy sinh được văn bản mở, bản chất là viết tiếp prompt theo xác suất
+      Tự giám sát xoá nút thắt gán nhãn
+        Mỗi câu văn tự tạo nhãn: “I love street food.” cho sáu mẫu huấn luyện
+        Gán nhãn tay 1 triệu ảnh tốn khoảng 50.000 USD
+        Nhờ vậy mô hình lớn lên từ 117 triệu tham số năm 2018 tới trên 100 tỷ
+      Thêm ảnh, video biến LLM thành mô hình nền tảng
+        CLIP học từ 400 triệu cặp ảnh–chữ trên internet, không gán nhãn tay
+        Một mô hình đa dụng thay nhiều mô hình chuyên một nhiệm vụ
+      Ba lực đẩy thành ngành riêng
+        Năng lực đa dụng mở ra ứng dụng mới
+        Đầu tư tăng vọt: dự báo 200 tỷ USD toàn cầu năm 2025
+        Rào cản thấp: dùng mô hình mạnh nhất chỉ bằng một lời gọi API
+    Mục 3 — Dùng mô hình nền tảng vào việc gì
+      Tám nhóm ứng dụng đã được kiểm chứng
+        Lập trình 30,4% và bot hội thoại 26,5% trong 205 ứng dụng mã nguồn mở
+        Còn lại: tổng hợp thông tin, ảnh và video, tự động hoá quy trình, viết, giáo dục, tổ chức dữ liệu
+      Doanh nghiệp làm ứng dụng nội bộ trước
+        Rủi ro thấp hơn: 62% triển khai tóm tắt văn bản, chỉ 39% chatbot cho khách bên ngoài
+      Độ phơi nhiễm nghề nghiệp
+        Nhiệm vụ phơi nhiễm khi AI giảm ít nhất 50% thời gian làm
+        Phiên dịch, khai thuế, phân tích tài chính phơi nhiễm cao; đầu bếp, thợ đá gần 0%
+    Mục 4 — Có nên xây và lập kế hoạch thế nào
+      Vì sao xây: ba mức rủi ro
+        Đe doạ sống còn → tự làm, ưu tiên cao nhất
+        Cơ hội tăng lợi nhuận, năng suất → cân nhắc mua giải pháp có sẵn
+        Sợ bị bỏ lại → thăm dò nếu đủ nguồn lực
+      Vai trò của AI và con người
+        AI thiết yếu cần chính xác hơn AI bổ trợ
+        Tính năng chủ động cần chất lượng cao hơn tính năng phản ứng
+        Crawl–Walk–Run: bắt buộc có người → AI làm với nhân viên → AI làm thẳng với khách
+      Phòng thủ sản phẩm
+        Ba lợi thế: công nghệ, dữ liệu, phân phối
+        Công nghệ dễ giống nhau, phân phối nghiêng về công ty lớn, startup thắng bằng dữ liệu sử dụng
+        Rủi ro bị chính mô hình nền tảng nuốt mất tính năng
+      Đo thành công
+        Chỉ số kinh doanh đặt trước chỉ số mô hình
+        Ngưỡng hữu dụng: chất lượng, độ trễ TTFT và TPOT, chi phí mỗi yêu cầu
+      Dặm cuối và bảo trì
+        LinkedIn: 1 tháng đạt 80%, thêm 4 tháng mới vượt 95%
+        Giá cho cùng năng lực giảm hàng trăm lần → lựa chọn hôm nay có thể sai ngày mai
+        Quy định, nguồn GPU và sở hữu trí tuệ có thể đổi qua một đêm
+    Mục 5 — Ngăn xếp kỹ thuật AI
+      Ba tầng
+        Phát triển ứng dụng: prompt, ngữ cảnh, đánh giá, giao diện
+        Phát triển mô hình: huấn luyện, finetuning, kỹ thuật dữ liệu, tối ưu suy luận
+        Hạ tầng: phục vụ mô hình, quản lý dữ liệu và tính toán, giám sát
+      Ba khác biệt so với kỹ thuật học máy
+        Dùng mô hình người khác huấn luyện → trọng tâm là thích nghi mô hình
+        Mô hình lớn hơn → tối ưu suy luận quan trọng hơn: 10 ms mỗi token thì 100 token mất 1 giây
+        Đầu ra mở → đánh giá khó hơn: Gemini Ultra được 90,04% hay 83,7% MMLU tuỳ cách prompt
+      Hai nhóm kỹ thuật thích nghi
+        Dựa trên prompt, không đổi trọng số: dễ bắt đầu, ít dữ liệu
+        Finetuning, đổi trọng số: phức tạp hơn nhưng cải thiện chất lượng, độ trễ, chi phí
+      Quy trình đảo ngược
+        Học máy: dữ liệu → mô hình → sản phẩm
+        Kỹ thuật AI: sản phẩm → dữ liệu → mô hình, gần với full-stack hơn
+    Thông điệp xuyên suốt
+      Demo thì dễ, sản phẩm có lãi thì khó
+      Nguyên tắc cũ vẫn đúng: gắn chỉ số kinh doanh, thử nghiệm có hệ thống, vòng phản hồi
+      Đánh giá là thách thức lớn nhất, xuyên suốt Chương 3–4
+```
+
+## Nguồn
+
+Chip Huyen, *AI Engineering: Building Applications with Foundation Models*, O'Reilly Media, ấn bản đầu tiên (12/2024), Chương 1 "Introduction to Building AI Applications with Foundation Models", trang PDF 32–118 (phần chữ chính trang PDF 32–115, chú thích cuối chương trang PDF 115–118).
+
+## Tác giả
+
+Chip Huyen — nhà văn và nhà khoa học máy tính chuyên về hệ thống học máy; từng làm ở NVIDIA, Snorkel AI, sáng lập một startup hạ tầng AI (sau được mua lại), dạy hệ thống học máy ở Đại học Stanford; tác giả *Designing Machine Learning Systems* (O'Reilly 2022) và bốn sách tiếng Việt bán chạy, trong đó có bộ *Xách ba lô lên và đi*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Lời nói đầu ([00-loi-noi-dau.md](00-loi-noi-dau.md)) nêu mục tiêu của sách là đưa ra một khung tư duy để xây dựng ứng dụng trên mô hình nền tảng. Chương 1 là chương tổng quan: nó giải thích vì sao "kỹ thuật AI" (AI engineering) xuất hiện thành một ngành riêng, điểm qua các nhóm ứng dụng đã được kiểm chứng, nêu các câu hỏi cần trả lời trước khi xây một ứng dụng, rồi vẽ "ngăn xếp kỹ thuật AI" ba tầng (phát triển ứng dụng, phát triển mô hình, hạ tầng) — chính ngăn xếp này là bản đồ của cả cuốn sách. Chương 2 ([C02-hieu-ve-mo-hinh-nen-tang.md](C02-hieu-ve-mo-hinh-nen-tang.md)) đi sâu vào bản thân mô hình nền tảng (dữ liệu huấn luyện, kiến trúc, post-training, sampling); Chương 3 và 4 ([C03-phuong-phap-danh-gia.md](C03-phuong-phap-danh-gia.md), [C04-danh-gia-he-thong-ai.md](C04-danh-gia-he-thong-ai.md)) bàn về đánh giá, việc mà Chương 1 gọi là thách thức lớn nhất; Chương 5–7 ([C05-prompt-engineering.md](C05-prompt-engineering.md), [C06-rag-va-agent.md](C06-rag-va-agent.md), [C07-finetuning.md](C07-finetuning.md)) là ba kỹ thuật thích nghi mô hình mà Chương 1 giới thiệu; Chương 8–9 ([C08-ky-thuat-du-lieu.md](C08-ky-thuat-du-lieu.md), [C09-toi-uu-suy-luan.md](C09-toi-uu-suy-luan.md)) là kỹ thuật dữ liệu và tối ưu suy luận của tầng phát triển mô hình; Chương 10 ([C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md](C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md)) ráp các thành phần thành kiến trúc và bàn về phản hồi người dùng.
+
+## Lưu ý
+
+- **Hình 1-1 không khớp lời văn:** lời văn nói GPT-4 tách cụm "I can't wait to build AI applications" thành chín token, nhưng ảnh minh hoạ là cụm "I can't wait to build **awesome** AI applications" và chính cụm có "awesome" mới cho chín token (I / can / 't / wait / to / build / awesome / AI / applications). Cụm không có "awesome" theo cách tách đó chỉ có tám token.
+- **Bảng 1-5 bị cắt trong bản PDF:** bảng rộng hơn trang nên cột cuối (GPT-3.5) bị cắt; chỉ đọc được "70%, 5-shot". Chú thích bảng cũng bị cắt sau chữ "Gemini's techni…" (theo hiểu biết của người tổng hợp là "technical report", tức báo cáo kỹ thuật Gemini tháng 12/2023).
+- **Giải thích CoT@32 (nhận xét của người tổng hợp):** sách nói với CoT@32 "Gemini được cho xem 32 ví dụ, còn ChatGPT chỉ 5 ví dụ". Theo hiểu biết của người tổng hợp về báo cáo kỹ thuật Gemini, CoT@32 nghĩa là lấy 32 mẫu trả lời có chuỗi suy luận (chain-of-thought) rồi chọn đáp án theo đa số (có ngưỡng đồng thuận), chứ không phải 32 ví dụ trong prompt; 5-shot mới là 5 ví dụ. Ý chính của sách (cách prompt và cách lấy mẫu làm điểm số thay đổi nhiều) không đổi.
+- **Hình 1-11, nhãn "GPT-4.5-turbo":** trong hình có nhãn "GPT-4.5-turbo"; theo hiểu biết của người tổng hợp, ở thời điểm 2023–2024 không có mô hình công khai tên này, có lẽ ý là GPT-4 Turbo.
+- **Hình 1-15 so với lời văn:** lời văn nói tìm được 920 kho mã, nhưng cột cộng dồn ở đầu năm 2024 trong hình chỉ lên khoảng 845. Có thể một số kho không có ngày phù hợp hoặc hình dừng sớm hơn thời điểm tìm (3/2024); sách không giải thích. Trong hình, nhóm "AI engineering" tương ứng với tầng "phát triển ứng dụng" (application development) trong lời văn, và có thêm nhóm "Model repo" (kho mô hình).
+- **Số liệu McKinsey (nhận xét của người tổng hợp):** hình của McKinsey ghi *mức giảm thời gian* làm việc (tài liệu hoá mã 45–50%, sinh mã 35–45%, tái cấu trúc mã 20–30%, việc phức tạp cao dưới 10%), còn lời văn đổi thành *mức tăng năng suất* ("gấp đôi" với tài liệu, "25–50%" với sinh mã và tái cấu trúc). Quy đổi đúng: giảm thời gian t thì năng suất tăng 1/(1 − t) − 1. Giảm 45–50% tương ứng năng suất tăng 82–100% (khớp "gấp đôi"); giảm 35–45% ứng với tăng 54–82%; giảm 20–30% ứng với tăng 25–43%. Vậy "25–50%" chỉ khớp với tái cấu trúc mã; với sinh mã con số thật cao hơn.
+- **Lỗi chữ trong sách:** "Not unsurprisingly" (trang PDF 58) là phủ định kép, ý tác giả là "không ngạc nhiên" (unsurprisingly); "aggregation and dissimilation" (trang PDF 75) có lẽ là "dissemination" (phổ biến thông tin); "At the bottom is the stack is infrastructure" (trang PDF 94) thừa chữ, ý là "at the bottom of the stack"; "Stable Diffusion eb UI" (trang PDF 54) là lỗi in của chính cuốn sách (ảnh trang cũng in "eb UI"), đúng là "Stable Diffusion web UI".
+- **Bảng 1-2:** các ký hiệu α, β, ζ là ba mức đo độ phơi nhiễm trong nghiên cứu Eloundou và cộng sự (2023). Theo hiểu biết của người tổng hợp về bài gốc: α chỉ tính nhiệm vụ mà riêng mô hình ngôn ngữ làm giảm được ít nhất 50% thời gian; ζ tính thêm toàn bộ nhiệm vụ cần phần mềm bổ trợ xây trên mô hình; β nằm giữa (tính một nửa trọng số cho nhóm cần phần mềm bổ trợ). Sách chỉ nói α là phơi nhiễm trực tiếp với mô hình, β và ζ là phơi nhiễm với phần mềm dùng AI.
+- **Số liệu đọc từ hình:** các giá trị đọc từ Hình 1-6 (số sao GitHub), 1-11 (chi phí theo MMLU) và 1-15 (số kho mã cộng dồn) là ước lượng bằng mắt từ ảnh trang, sai số vài phần trăm; các số ghi trên nhãn của Hình 1-5, 1-7, 1-8, 1-9 được chép đúng.
+- **Chú thích cuối chương:** 27 chú thích nằm dồn ở trang PDF 115–118, số thứ tự đã mất trong lớp chữ; bản tổng hợp khớp từng chú thích vào đúng chỗ theo nội dung (ví dụ chú thích về giá gán nhãn của Amazon SageMaker đặt cạnh phép tính chi phí ImageNet).
+- **Quy ước dịch:** "foundation model" dịch là *mô hình nền tảng*; "AI engineering" là *kỹ thuật AI*, "AI engineer" là *kỹ sư AI*; "ML engineering" là *kỹ thuật học máy*; "self-supervision" là *tự giám sát*; "model as a service" là *mô hình như một dịch vụ*; "inference" là *suy luận* (quá trình mô hình tính đầu ra từ đầu vào); "use case" là *trường hợp sử dụng*; "usefulness threshold" là *ngưỡng hữu dụng*; "defensibility" là *khả năng phòng thủ*; "moat" là *hào phòng thủ*. Giữ tiếng Anh: token, prompt, prompt engineering, finetuning, RAG, agent, embedding, benchmark, latency, pre-training, post-training.
+- **Thời điểm số liệu:** sách viết xong khoảng tháng 9/2024; nhiều con số (giá suy luận, số sao GitHub, vốn gọi được, cỡ từ vựng, kích thước "lớn") đã thay đổi. Các thay đổi người tổng hợp biết được ghi ở mục "Những gì đã thay đổi từ cuối 2024".

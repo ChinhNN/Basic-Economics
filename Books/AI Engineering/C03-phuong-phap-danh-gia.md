@@ -1,25 +1,18 @@
 # Chương 3 — Phương pháp đánh giá (Evaluation Methodology)
 
-**Nguồn:** Chip Huyen, *AI Engineering: Building Applications with Foundation Models*, O'Reilly Media, ấn bản đầu tiên (12/2024), Chương 3 "Evaluation Methodology", trang PDF 232–314.
-**Tác giả:** Chip Huyen — nhà văn và nhà khoa học máy tính chuyên về hệ thống học máy; từng làm ở NVIDIA, Snorkel AI, sáng lập một startup hạ tầng AI (sau được mua lại), dạy hệ thống học máy ở Đại học Stanford; tác giả *Designing Machine Learning Systems* (O'Reilly 2022) và bốn sách tiếng Việt bán chạy, trong đó có bộ *Xách ba lô lên và đi*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 ([C01-gioi-thieu-xay-dung-ung-dung-ai-voi-mo-hinh-nen-tang.md](C01-gioi-thieu-xay-dung-ung-dung-ai-voi-mo-hinh-nen-tang.md)) đặt khung cho kỹ thuật AI (AI engineering) và nhấn mạnh rằng đánh giá là một trong những khác biệt lớn nhất so với học máy truyền thống; Chương 2 ([C02-hieu-ve-mo-hinh-nen-tang.md](C02-hieu-ve-mo-hinh-nen-tang.md)) giải thích dữ liệu huấn luyện, kiến trúc, post-training và cách lấy mẫu (sampling) làm cho đầu ra của mô hình nền tảng mang tính xác suất và mở. Chương 3 là chương thứ nhất trong hai chương về đánh giá: nó trình bày *các phương pháp* đánh giá mô hình có đầu ra mở — độ đo mô hình hoá ngôn ngữ (cross entropy, perplexity), đánh giá chính xác (functional correctness, độ tương đồng với dữ liệu tham chiếu, embedding), AI làm giám khảo (AI as a judge) và xếp hạng bằng đánh giá so sánh — cùng giới hạn của từng phương pháp. Chương 4 ([C04-danh-gia-he-thong-ai.md](C04-danh-gia-he-thong-ai.md)) dùng các phương pháp này để chọn mô hình và dựng quy trình đánh giá cho ứng dụng. Embedding và độ tương đồng cosine được dùng lại cho tìm kiếm vector trong RAG ở Chương 6 ([C06-rag-va-agent.md](C06-rag-va-agent.md)) và khử trùng lặp dữ liệu ở Chương 8 ([C08-ky-thuat-du-lieu.md](C08-ky-thuat-du-lieu.md)); perplexity xuất hiện lại khi bàn về lượng tử hoá ở Chương 7 ([C07-finetuning.md](C07-finetuning.md)); phản hồi so sánh từ người dùng được bàn tiếp ở Chương 10 ([C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md](C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md)).
-**Ý chính:** **Đánh giá là trở ngại lớn nhất khi đưa ứng dụng AI vào thực tế, vì mô hình nền tảng càng giỏi thì càng khó chấm, đầu ra mở không có một đáp án đúng duy nhất, mô hình là hộp đen và benchmark công khai bão hoà nhanh; do đó cần đầu tư vào đánh giá tự động có hệ thống, kết hợp đánh giá chính xác (exact) với đánh giá chủ quan (AI làm giám khảo, so sánh theo cặp) và hiểu rõ giới hạn của từng loại.** Chương mở bằng các thất bại có thật (người tự tử sau khi chatbot khuyến khích, luật sư nộp chứng cứ do AI bịa, Air Canada bị buộc bồi thường vì chatbot trả lời sai) và các con số cho thấy đánh giá bị đầu tư thiếu: số bài báo về đánh giá LLM tăng từ khoảng 2 lên 33 bài mỗi tháng trong nửa đầu 2023, nhưng trong 1.000 kho mã AI nổi tiếng nhất trên GitHub chỉ có khoảng 40 kho công cụ đánh giá, so với khoảng 120 kho cho mô hình hoá và huấn luyện. Phần độ đo ngôn ngữ giải thích entropy (số bit trung bình mỗi token mang), cross entropy H(P, Q) = H(P) + D_KL(P‖Q), bits-per-character (ví dụ 6 bit/token chia 2 ký tự mỗi token bằng 3 BPC), bits-per-byte (3 chia 7/8 bằng 3,43 BPB, tức nén văn bản còn dưới một nửa) và perplexity = 2^H (cross entropy 2 bit cho perplexity 4); mô hình GPT-2 lớn hơn có perplexity thấp hơn (LAMBADA: 35,13 ở 117 triệu tham số xuống 8,63 ở 1,5 tỷ). Perplexity dùng được để phát hiện nhiễm dữ liệu benchmark, khử trùng lặp và phát hiện văn bản bất thường, nhưng kém tin cậy sau post-training và lượng tử hoá. Đánh giá chính xác gồm functional correctness (pass@k: 10 bài, giải được 5 với k = 3 thì pass@3 bằng 50%) và độ tương đồng với dữ liệu tham chiếu (khớp chính xác, tương đồng từ vựng như edit distance, BLEU, ROUGE, và tương đồng ngữ nghĩa bằng cosine giữa các embedding có 100–10.000 chiều). AI làm giám khảo nhanh, rẻ, không cần tham chiếu (58% đánh giá trên nền tảng LangChain năm 2023; GPT-4 đồng ý với người 85%, cao hơn mức người đồng ý với nhau 81%), nhưng không nhất quán (65% lên 77,5% khi thêm ví dụ, chi phí GPT-4 tăng gấp bốn), tiêu chí không chuẩn hoá (cùng "faithfulness" mà MLflow chấm 1–5, Ragas chấm 0/1, LlamaIndex trả lời YES/NO), tốn chi phí và độ trễ, và có thiên lệch (tự thiên vị: GPT-4 tự ưu tiên thêm 10%, Claude-v1 25%; thiên vị vị trí đầu; thiên vị câu dài). Đánh giá so sánh xếp hạng mô hình từ các trận đấu cặp bằng thuật toán như Elo, Bradley–Terry, TrueSkill; nó khó bị gian lận và không bão hoà, nhưng tốn dữ liệu (57 mô hình tạo 1.596 cặp, 244.000 lượt so sánh chỉ được trung bình 153 lượt mỗi cặp), khó chuẩn hoá (180 trong 33.000 prompt của Chatbot Arena chỉ là "hello"/"hi") và chỉ cho biết mô hình nào tốt hơn chứ không cho biết tốt đến đâu.
+## Ý chính
 
-> **Lưu ý:**
-> - **"greatest common denominator" (trang PDF 254):** hàm `gcd` tính *ước chung lớn nhất* (greatest common divisor), không phải "mẫu số chung lớn nhất". gcd(15, 20) = 5 đúng với ước chung lớn nhất.
-> - **Công thức cosine bị vỡ ngay trong sách (trang PDF 266):** sách in "fracA ⋅ B ||A||||B||" — lệnh LaTeX `\frac` không được dựng. Công thức đúng là (A · B) / (‖A‖ · ‖B‖).
-> - **Hình 3-6 (kiến trúc CLIP) ghi nhãn sai:** vector đầu ra của bộ mã hoá ảnh được ghi "Text embedding (D_v)"; đúng ra là "Image embedding (D_v)".
-> - **Chú thích Bảng 3-4:** "Different tools can have very difficult default prompts" — "difficult" là lỗi in của "different" (các công cụ có prompt mặc định *khác nhau*).
-> - **Hình 3-2 và lời văn không khớp:** lời văn nói "hơn 50 kho" mã chuyên về đánh giá trong 1.000 kho AI phổ biến nhất (tính đến 5/2024), nhưng đường tích luỹ trên Hình 3-2 dừng ở khoảng 40 kho vào đầu 2024; Hình 3-3 cũng cho cột "Evals" khoảng 40. Có thể hình được vẽ trước khi bổ sung các kho tìm qua lời kêu gọi cộng đồng (chú thích 5); sách không giải thích.
-> - **Chú thích 4:** tên nhà toán học là Terence Tao (sách viết "Terrence"); mô hình ra tháng 9/2024 có tên chính thức là "o1" (o1-preview), không phải "GPT-o1".
-> - **Trích dẫn "Valmeekamet et al., 2023" (trang PDF 292):** lỗi dính chữ của "Valmeekam et al.".
-> - **Lớp chữ hỏng phải đọc từ ảnh:** công thức perplexity của một chuỗi (trang PDF 252) bị vỡ ký tự ("x2,â ¦,xn" là "x₂, …, xₙ"); câu "it has to choose among 2 = 4 possible options" (trang PDF 247) mất số mũ, đúng là 2² = 4; Bảng 3-1 bị cắt bên phải trong bản PDF, chỉ còn đọc được bốn cột (LAMBADA PPL, LAMBADA ACC, CBT-CN ACC, CBT-NE ACC); đoạn code HumanEval (trang PDF 255–256) và Bảng 3-6 cũng bị cắt mép phải (cột tỷ lệ thắng "A >> B" chỉ còn tiêu đề "A >>"). Bản tổng hợp dựng lại các dòng assert của HumanEval theo hiểu biết của người tổng hợp về bài HumanEval/0 và đã chạy thử để kiểm tra mọi kết quả kỳ vọng đều đúng.
-> - **Bảng 3-1 không hoàn toàn đơn điệu:** chú thích bảng nói mô hình lớn hơn "luôn" cho perplexity thấp hơn — đúng với cột perplexity LAMBADA, nhưng ở cột độ chính xác CBT-CN, mô hình 1542M (93,30) thấp hơn mô hình 762M (93,45) một chút.
-> - **Ví dụ tương đồng từ vựng (trang PDF 261):** con số "3 trên 5 từ" của câu B là tỷ lệ từ của *câu tham chiếu* xuất hiện trong câu sinh ra (kiểu *recall*, như ROUGE-1). Nếu tính theo tỷ lệ từ của câu sinh ra có trong tham chiếu (kiểu *precision*, như BLEU) thì câu B chỉ được 3/7 ≈ 43% (người tổng hợp tính). Sách gọi bigram là "a set of two tokens"; chính xác hơn là một *dãy* hai token liên tiếp (thứ tự có ý nghĩa).
-> - **Công thức BLEU, ROUGE, Elo và Bradley–Terry không có trong sách:** sách chỉ nêu tên các độ đo và thuật toán này. Công thức, cách tính và các ví dụ số trong bản tổng hợp (BLEU-2, ROUGE, Elo, Bradley–Terry cho Bảng 3-6, ước lượng pass@k không chệch) là phần bổ sung của người tổng hợp, được ghi rõ ở từng chỗ.
-> - **Bảng 3-6 có vòng lặp không bắc cầu (nhận xét của người tổng hợp):** mô hình 1 thắng mô hình 2 (90%), mô hình 2 thắng mô hình 5 (80%), nhưng mô hình 5 thắng mô hình 1 (90%); tương tự 1 thắng 2, 2 thắng 3 (60%), 3 thắng 1 (60%). Vì thế không thứ hạng nào khớp hết dữ liệu; đây có lẽ chính là ý của tác giả khi nói "không rõ nên xếp hạng năm mô hình này thế nào".
-> - **Thuật ngữ:** "AI as a judge" dịch là "AI làm giám khảo", "AI judge" là "giám khảo AI"; "exact evaluation" là "đánh giá chính xác" (theo nghĩa *không mơ hồ*, chứ không phải *đúng*), "subjective evaluation" là "đánh giá chủ quan"; "pointwise evaluation" là "đánh giá từng điểm (độc lập)", "comparative evaluation" là "đánh giá so sánh"; "reference data / ground truth" là "dữ liệu tham chiếu / đáp án chuẩn"; "win rate" là "tỷ lệ thắng". Các thuật ngữ phổ biến (token, embedding, prompt, benchmark, perplexity, cross entropy, pass@k, guardrail, logprob, finetuning, post-training) giữ tiếng Anh.
-> - **Những gì đã thay đổi sau 2024 (theo hiểu biết của người tổng hợp):** LMSYS Chatbot Arena đổi tên thành LMArena và tách thành công ty riêng (2025); một nghiên cứu năm 2025 ("The Leaderboard Illusion") chỉ ra các nhà cung cấp lớn được thử nhiều biến thể riêng trước khi công bố điểm, xác nhận lo ngại về gian lận bảng xếp hạng mà sách nêu ở chú thích 24. HumanEval và MMLU đã gần bão hoà với các mô hình hàng đầu; các benchmark khó hơn như GPQA, SWE-bench Verified, Humanity's Last Exam được dùng thay. Cohere đã ra Embed v4 sau các mô hình Embed v3 trong Bảng 3-2.
+**Đánh giá là trở ngại lớn nhất khi đưa ứng dụng AI vào thực tế, vì mô hình nền tảng càng giỏi thì càng khó chấm, đầu ra mở không có một đáp án đúng duy nhất, mô hình là hộp đen và benchmark công khai bão hoà nhanh; do đó cần đầu tư vào đánh giá tự động có hệ thống, kết hợp đánh giá chính xác (exact) với đánh giá chủ quan (AI làm giám khảo, so sánh theo cặp) và hiểu rõ giới hạn của từng loại.**
+
+Chương mở bằng các thất bại có thật (người tự tử sau khi chatbot khuyến khích, luật sư nộp chứng cứ do AI bịa, Air Canada bị buộc bồi thường vì chatbot trả lời sai) và các con số cho thấy đánh giá bị đầu tư thiếu: số bài báo về đánh giá LLM tăng từ khoảng 2 lên 33 bài mỗi tháng trong nửa đầu 2023, nhưng trong 1.000 kho mã AI nổi tiếng nhất trên GitHub chỉ có khoảng 40 kho công cụ đánh giá, so với khoảng 120 kho cho mô hình hoá và huấn luyện.
+
+Phần độ đo ngôn ngữ giải thích entropy (số bit trung bình mỗi token mang), cross entropy H(P, Q) = H(P) + D_KL(P‖Q), bits-per-character (ví dụ 6 bit/token chia 2 ký tự mỗi token bằng 3 BPC), bits-per-byte (3 chia 7/8 bằng 3,43 BPB, tức nén văn bản còn dưới một nửa) và perplexity = 2^H (cross entropy 2 bit cho perplexity 4); mô hình GPT-2 lớn hơn có perplexity thấp hơn (LAMBADA: 35,13 ở 117 triệu tham số xuống 8,63 ở 1,5 tỷ). Perplexity dùng được để phát hiện nhiễm dữ liệu benchmark, khử trùng lặp và phát hiện văn bản bất thường, nhưng kém tin cậy sau post-training và lượng tử hoá.
+
+Đánh giá chính xác gồm functional correctness (pass@k: 10 bài, giải được 5 với k = 3 thì pass@3 bằng 50%) và độ tương đồng với dữ liệu tham chiếu (khớp chính xác, tương đồng từ vựng như edit distance, BLEU, ROUGE, và tương đồng ngữ nghĩa bằng cosine giữa các embedding có 100–10.000 chiều).
+
+AI làm giám khảo nhanh, rẻ, không cần tham chiếu (58% đánh giá trên nền tảng LangChain năm 2023; GPT-4 đồng ý với người 85%, cao hơn mức người đồng ý với nhau 81%), nhưng không nhất quán (65% lên 77,5% khi thêm ví dụ, chi phí GPT-4 tăng gấp bốn), tiêu chí không chuẩn hoá (cùng "faithfulness" mà MLflow chấm 1–5, Ragas chấm 0/1, LlamaIndex trả lời YES/NO), tốn chi phí và độ trễ, và có thiên lệch (tự thiên vị: GPT-4 tự ưu tiên thêm 10%, Claude-v1 25%; thiên vị vị trí đầu; thiên vị câu dài).
+
+Đánh giá so sánh xếp hạng mô hình từ các trận đấu cặp bằng thuật toán như Elo, Bradley–Terry, TrueSkill; nó khó bị gian lận và không bão hoà, nhưng tốn dữ liệu (57 mô hình tạo 1.596 cặp, 244.000 lượt so sánh chỉ được trung bình 153 lượt mỗi cặp), khó chuẩn hoá (180 trong 33.000 prompt của Chatbot Arena chỉ là "hello"/"hi") và chỉ cho biết mô hình nào tốt hơn chứ không cho biết tốt đến đâu.
 
 ## Sơ đồ
 
@@ -1598,3 +1591,129 @@ Chương bao quát gần đủ bộ công cụ đánh giá tự động mà mộ
   - Với tác vụ mở (tóm tắt báo cáo, viết nhận định thị trường), giám khảo AI có ích nhưng dễ thưởng cho bài dài và trơn tru; cần tiêu chí cụ thể ("mọi con số phải có trong tài liệu nguồn", tức faithfulness) và kiểm tra ngẫu nhiên bởi người có chuyên môn.
   - Khi so hai nhà cung cấp mô hình có giá khác nhau, đánh giá so sánh chỉ cho biết bên nào được ưa hơn; để phân tích chi phí–lợi ích phải quy về hiệu năng tuyệt đối (tỷ lệ việc làm đúng, thời gian tiết kiệm) — giống phân biệt xếp hạng tín nhiệm tương đối với xác suất vỡ nợ tuyệt đối.
   - Bài học về benchmark bão hoà và nhiễm dữ liệu tương tự hiện tượng "quá khớp" (overfitting) của chiến lược giao dịch kiểm định ngược (backtest) trên dữ liệu đã thấy: điểm cao trên dữ liệu công khai không bảo đảm hiệu năng ngoài mẫu.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 3 trên một trang: năm nhánh lớn theo năm mục chính của chương gốc (mục 2–6: thách thức, độ đo mô hình ngôn ngữ, đánh giá chính xác, AI làm giám khảo, đánh giá so sánh), mỗi nhánh ghi cơ chế, quy tắc dùng, giới hạn và con số quan trọng nhất; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+mindmap
+  root((Chương 3: đánh giá là điểm nghẽn lớn nhất, không phương pháp tự động nào đủ, phải hiểu giới hạn từng cách và kết hợp))
+    Mục 2 — Vì sao mô hình nền tảng khó đánh giá
+      Năm lý do
+        Mô hình càng giỏi càng khó chấm: bản tóm tắt mạch lạc mà sai phải đọc cả cuốn sách mới biết
+        Đầu ra mở có vô số câu đúng, không lập được danh sách đáp án để so
+        Mô hình là hộp đen, chỉ đánh giá được qua đầu ra
+        Benchmark bão hoà nhanh: GLUE ra 2018 bão hoà sau một năm, MMLU thay bằng MMLU-Pro
+        Mô hình đa năng buộc đánh giá phải khám phá cả năng lực mới
+      Đánh giá bị đầu tư thiếu
+        Bài báo về đánh giá LLM tăng từ 2 lên 33 mỗi tháng nửa đầu 2023
+        Trong 1.000 kho AI phổ biến: khoảng 40 kho đánh giá so với khoảng 121 kho mô hình hoá và huấn luyện
+        Nhiều đội chỉ nhìn qua kết quả: đủ để khởi động, không đủ để lặp cải tiến
+    Mục 3 — Độ đo mô hình hoá ngôn ngữ đo khả năng đoán token kế tiếp
+      Bốn độ đo liên hệ chặt, biết một suy ra ba
+        Entropy: số bit trung bình mỗi token mang, càng thấp càng dễ đoán
+        Cross entropy = entropy của dữ liệu + độ lệch KL giữa phân phối mô hình và phân phối thật
+        BPC và BPB chia theo ký tự, byte để so mô hình khác tokenizer: 6 bit/token, 2 ký tự/token → BPC 3, BPB ≈ 3,43
+        Perplexity = 2 mũ cross entropy, là số lựa chọn hiệu dụng: 2 bit → perplexity 4
+      Đọc perplexity
+        Dữ liệu càng có cấu trúc, context càng dài → perplexity càng thấp
+        Bộ từ vựng càng lớn → perplexity càng cao
+        Mô hình lớn hơn có perplexity thấp hơn: GPT-2 trên LAMBADA từ 35,13 ở 117M xuống 8,63 ở 1,5 tỷ
+      Công dụng thực hành
+        Perplexity thấp bất thường trên benchmark → nghi nhiễm dữ liệu
+        Khử trùng lặp: chỉ thêm dữ liệu mới khi perplexity của nó cao
+        Perplexity cao → phát hiện văn bản bất thường hoặc vô nghĩa
+      Giới hạn
+        Kém tin cậy sau post-training SFT, RLHF và sau lượng tử hoá
+        Cần logprob, mà nhiều mô hình thương mại không công bố
+    Mục 4 — Đánh giá chính xác cho phán xét không mơ hồ
+      Functional correctness là độ đo tối hậu
+        Kiểm tra đầu ra có làm đúng chức năng: code qua unit test, SQL, điểm game, năng lượng tiết kiệm
+        pass@k: bài được giải nếu một trong k mẫu qua hết test; 5 trên 10 bài với k = 3 → pass@3 = 50%
+        k càng lớn điểm càng cao nên luôn phải ghi rõ k
+      So với dữ liệu tham chiếu
+        Bị giới hạn bởi số lượng và chất lượng tham chiếu, thường do người hoặc AI tạo
+        Khớp chính xác chỉ hợp câu trả lời ngắn; biến thể chứa đáp án có thể nhận nhầm câu sai
+      Tương đồng từ vựng: trông giống nhau đến đâu
+        Đếm token hoặc n-gram chung, edit distance; BLEU thiên về precision, ROUGE thiên về recall
+        Mô tả đúng Big Ben vẫn bị CIDEr 0,4 vì tham chiếu thiếu
+        BLEU của code đúng và sai trên HumanEval tương tự nhau
+      Tương đồng ngữ nghĩa: cùng nghĩa đến đâu
+        Đổi văn bản thành embedding 100–10.000 chiều rồi tính cosine, từ −1 đến 1
+        Bắt được What's up và How are you cùng nghĩa dù khác từ
+        Độ tin cậy phụ thuộc mô hình embedding và tốn tính toán
+        CLIP đưa ảnh và văn bản vào chung một không gian embedding
+    Mục 5 — AI làm giám khảo: nhanh, rẻ, không cần tham chiếu nhưng chủ quan
+      Vì sao phổ biến
+        58% lượt đánh giá trên LangChain năm 2023 do AI chấm
+        GPT-4 đồng ý với người 85%, cao hơn người với người 81%
+        Chấm được theo tiêu chí bất kỳ và giải thích được lý do
+      Cách dùng
+        Ba kiểu: chấm một câu tự thân, so với tham chiếu, chọn câu tốt hơn trong hai câu
+        Prompt nêu rõ nhiệm vụ, tiêu chí, hệ thống điểm và có ví dụ cho từng mức điểm
+        Phân loại tốt hơn điểm số; điểm rời rạc 1–5 tốt hơn điểm liên tục
+        Giám khảo là hệ thống mô hình + prompt + tham số lấy mẫu; đổi một phần là đổi giám khảo
+      Bốn giới hạn
+        Không nhất quán: thêm ví dụ nâng từ 65% lên 77,5% nhưng chi phí GPT-4 gấp bốn
+        Tiêu chí không chuẩn hoá: faithfulness của MLflow chấm 1–5, Ragas 0 hoặc 1, LlamaIndex YES/NO
+        Tốn chi phí và độ trễ: ba tiêu chí chấm → số lượt gọi API gấp bốn; giảm bằng spot-check
+        Thiên lệch: tự thiên vị GPT-4 10%, Claude-v1 25%; thích vị trí đầu; thích câu dài
+      Chọn mô hình làm giám khảo
+        Mạnh hơn: chấm một phần nhỏ như 1% câu trả lời vì chi phí, độ trễ
+        Tự đánh giá giúp kiểm tra hợp lý và tự sửa: 10+3 = 30 → tự phê → 13
+        Giám khảo nhỏ chuyên biệt: reward model như Cappy 360 triệu tham số, Prometheus, PandaLM
+      Quy tắc dùng
+        Không tin giám khảo nào khi không xem được mô hình và prompt của nó
+        Luôn bổ sung bằng đánh giá chính xác hoặc đánh giá của người
+    Mục 6 — Đánh giá so sánh xếp hạng mô hình từ các trận đấu cặp
+      Cách làm
+        So hai câu trả lời dễ hơn cho mỗi câu một điểm cụ thể
+        Tỷ lệ thắng từng cặp đưa vào Elo, Bradley–Terry, TrueSkill để tính điểm
+        Chatbot Arena bỏ Elo sang Bradley–Terry vì Elo nhạy với thứ tự trận
+        Thứ hạng đúng khi mô hình xếp trên thắng mô hình xếp dưới quá nửa số trận
+      Không dùng cho câu hỏi cần tính đúng
+        Bỏ phiếu sở thích chỉ hiệu quả khi người bầu hiểu chủ đề
+        Khác A/B test: người dùng thấy nhiều đầu ra cùng lúc
+      Ba thách thức
+        Tốn dữ liệu: 57 mô hình, 1.596 cặp, 244.000 lượt chỉ được khoảng 153 lượt mỗi cặp
+        Giả định bắc cầu có thể sai, mô hình mới làm đổi thứ hạng cũ
+        Khó chuẩn hoá: 180 trong 33.000 prompt chỉ là hello hoặc hi
+        Chỉ biết tốt hơn, không biết đủ tốt: B thắng A 51% không cho biết giải thêm bao nhiêu ticket
+      Vì sao vẫn có tương lai
+        Không bão hoà, khó gian lận, nắm sát sở thích người
+        Khi mô hình vượt người, so sánh có thể là cách chấm duy nhất còn lại
+    Thông điệp xuyên suốt
+      Thiết kế đánh giá từ chỗ hệ thống dễ hỏng, không dựa truyền miệng hay nhìn qua
+      Mỗi phương pháp đo một thứ khác nhau, phải kết hợp chính xác, chủ quan và người
+      Lọc sơ bộ bằng bảng xếp hạng công khai, quyết định bằng đánh giá tuyệt đối trên dữ liệu của mình
+```
+
+## Nguồn
+
+Chip Huyen, *AI Engineering: Building Applications with Foundation Models*, O'Reilly Media, ấn bản đầu tiên (12/2024), Chương 3 "Evaluation Methodology", trang PDF 232–314.
+
+## Tác giả
+
+Chip Huyen — nhà văn và nhà khoa học máy tính chuyên về hệ thống học máy; từng làm ở NVIDIA, Snorkel AI, sáng lập một startup hạ tầng AI (sau được mua lại), dạy hệ thống học máy ở Đại học Stanford; tác giả *Designing Machine Learning Systems* (O'Reilly 2022) và bốn sách tiếng Việt bán chạy, trong đó có bộ *Xách ba lô lên và đi*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 ([C01-gioi-thieu-xay-dung-ung-dung-ai-voi-mo-hinh-nen-tang.md](C01-gioi-thieu-xay-dung-ung-dung-ai-voi-mo-hinh-nen-tang.md)) đặt khung cho kỹ thuật AI (AI engineering) và nhấn mạnh rằng đánh giá là một trong những khác biệt lớn nhất so với học máy truyền thống; Chương 2 ([C02-hieu-ve-mo-hinh-nen-tang.md](C02-hieu-ve-mo-hinh-nen-tang.md)) giải thích dữ liệu huấn luyện, kiến trúc, post-training và cách lấy mẫu (sampling) làm cho đầu ra của mô hình nền tảng mang tính xác suất và mở. Chương 3 là chương thứ nhất trong hai chương về đánh giá: nó trình bày *các phương pháp* đánh giá mô hình có đầu ra mở — độ đo mô hình hoá ngôn ngữ (cross entropy, perplexity), đánh giá chính xác (functional correctness, độ tương đồng với dữ liệu tham chiếu, embedding), AI làm giám khảo (AI as a judge) và xếp hạng bằng đánh giá so sánh — cùng giới hạn của từng phương pháp. Chương 4 ([C04-danh-gia-he-thong-ai.md](C04-danh-gia-he-thong-ai.md)) dùng các phương pháp này để chọn mô hình và dựng quy trình đánh giá cho ứng dụng. Embedding và độ tương đồng cosine được dùng lại cho tìm kiếm vector trong RAG ở Chương 6 ([C06-rag-va-agent.md](C06-rag-va-agent.md)) và khử trùng lặp dữ liệu ở Chương 8 ([C08-ky-thuat-du-lieu.md](C08-ky-thuat-du-lieu.md)); perplexity xuất hiện lại khi bàn về lượng tử hoá ở Chương 7 ([C07-finetuning.md](C07-finetuning.md)); phản hồi so sánh từ người dùng được bàn tiếp ở Chương 10 ([C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md](C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md)).
+
+## Lưu ý
+
+- **"greatest common denominator" (trang PDF 254):** hàm `gcd` tính *ước chung lớn nhất* (greatest common divisor), không phải "mẫu số chung lớn nhất". gcd(15, 20) = 5 đúng với ước chung lớn nhất.
+- **Công thức cosine bị vỡ ngay trong sách (trang PDF 266):** sách in "fracA ⋅ B ||A||||B||" — lệnh LaTeX `\frac` không được dựng. Công thức đúng là (A · B) / (‖A‖ · ‖B‖).
+- **Hình 3-6 (kiến trúc CLIP) ghi nhãn sai:** vector đầu ra của bộ mã hoá ảnh được ghi "Text embedding (D_v)"; đúng ra là "Image embedding (D_v)".
+- **Chú thích Bảng 3-4:** "Different tools can have very difficult default prompts" — "difficult" là lỗi in của "different" (các công cụ có prompt mặc định *khác nhau*).
+- **Hình 3-2 và lời văn không khớp:** lời văn nói "hơn 50 kho" mã chuyên về đánh giá trong 1.000 kho AI phổ biến nhất (tính đến 5/2024), nhưng đường tích luỹ trên Hình 3-2 dừng ở khoảng 40 kho vào đầu 2024; Hình 3-3 cũng cho cột "Evals" khoảng 40. Có thể hình được vẽ trước khi bổ sung các kho tìm qua lời kêu gọi cộng đồng (chú thích 5); sách không giải thích.
+- **Chú thích 4:** tên nhà toán học là Terence Tao (sách viết "Terrence"); mô hình ra tháng 9/2024 có tên chính thức là "o1" (o1-preview), không phải "GPT-o1".
+- **Trích dẫn "Valmeekamet et al., 2023" (trang PDF 292):** lỗi dính chữ của "Valmeekam et al.".
+- **Lớp chữ hỏng phải đọc từ ảnh:** công thức perplexity của một chuỗi (trang PDF 252) bị vỡ ký tự ("x2,â ¦,xn" là "x₂, …, xₙ"); câu "it has to choose among 2 = 4 possible options" (trang PDF 247) mất số mũ, đúng là 2² = 4; Bảng 3-1 bị cắt bên phải trong bản PDF, chỉ còn đọc được bốn cột (LAMBADA PPL, LAMBADA ACC, CBT-CN ACC, CBT-NE ACC); đoạn code HumanEval (trang PDF 255–256) và Bảng 3-6 cũng bị cắt mép phải (cột tỷ lệ thắng "A >> B" chỉ còn tiêu đề "A >>"). Bản tổng hợp dựng lại các dòng assert của HumanEval theo hiểu biết của người tổng hợp về bài HumanEval/0 và đã chạy thử để kiểm tra mọi kết quả kỳ vọng đều đúng.
+- **Bảng 3-1 không hoàn toàn đơn điệu:** chú thích bảng nói mô hình lớn hơn "luôn" cho perplexity thấp hơn — đúng với cột perplexity LAMBADA, nhưng ở cột độ chính xác CBT-CN, mô hình 1542M (93,30) thấp hơn mô hình 762M (93,45) một chút.
+- **Ví dụ tương đồng từ vựng (trang PDF 261):** con số "3 trên 5 từ" của câu B là tỷ lệ từ của *câu tham chiếu* xuất hiện trong câu sinh ra (kiểu *recall*, như ROUGE-1). Nếu tính theo tỷ lệ từ của câu sinh ra có trong tham chiếu (kiểu *precision*, như BLEU) thì câu B chỉ được 3/7 ≈ 43% (người tổng hợp tính). Sách gọi bigram là "a set of two tokens"; chính xác hơn là một *dãy* hai token liên tiếp (thứ tự có ý nghĩa).
+- **Công thức BLEU, ROUGE, Elo và Bradley–Terry không có trong sách:** sách chỉ nêu tên các độ đo và thuật toán này. Công thức, cách tính và các ví dụ số trong bản tổng hợp (BLEU-2, ROUGE, Elo, Bradley–Terry cho Bảng 3-6, ước lượng pass@k không chệch) là phần bổ sung của người tổng hợp, được ghi rõ ở từng chỗ.
+- **Bảng 3-6 có vòng lặp không bắc cầu (nhận xét của người tổng hợp):** mô hình 1 thắng mô hình 2 (90%), mô hình 2 thắng mô hình 5 (80%), nhưng mô hình 5 thắng mô hình 1 (90%); tương tự 1 thắng 2, 2 thắng 3 (60%), 3 thắng 1 (60%). Vì thế không thứ hạng nào khớp hết dữ liệu; đây có lẽ chính là ý của tác giả khi nói "không rõ nên xếp hạng năm mô hình này thế nào".
+- **Thuật ngữ:** "AI as a judge" dịch là "AI làm giám khảo", "AI judge" là "giám khảo AI"; "exact evaluation" là "đánh giá chính xác" (theo nghĩa *không mơ hồ*, chứ không phải *đúng*), "subjective evaluation" là "đánh giá chủ quan"; "pointwise evaluation" là "đánh giá từng điểm (độc lập)", "comparative evaluation" là "đánh giá so sánh"; "reference data / ground truth" là "dữ liệu tham chiếu / đáp án chuẩn"; "win rate" là "tỷ lệ thắng". Các thuật ngữ phổ biến (token, embedding, prompt, benchmark, perplexity, cross entropy, pass@k, guardrail, logprob, finetuning, post-training) giữ tiếng Anh.
+- **Những gì đã thay đổi sau 2024 (theo hiểu biết của người tổng hợp):** LMSYS Chatbot Arena đổi tên thành LMArena và tách thành công ty riêng (2025); một nghiên cứu năm 2025 ("The Leaderboard Illusion") chỉ ra các nhà cung cấp lớn được thử nhiều biến thể riêng trước khi công bố điểm, xác nhận lo ngại về gian lận bảng xếp hạng mà sách nêu ở chú thích 24. HumanEval và MMLU đã gần bão hoà với các mô hình hàng đầu; các benchmark khó hơn như GPQA, SWE-bench Verified, Humanity's Last Exam được dùng thay. Cohere đã ra Embed v4 sau các mô hình Embed v3 trong Bảng 3-2.

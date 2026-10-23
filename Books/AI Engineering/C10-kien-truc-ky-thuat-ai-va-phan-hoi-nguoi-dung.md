@@ -1,21 +1,22 @@
 # Chương 10 — Kiến trúc kỹ thuật AI và phản hồi người dùng (AI Engineering Architecture and User Feedback)
 
-**Nguồn:** Chip Huyen, *AI Engineering: Building Applications with Foundation Models*, O'Reilly Media, ấn bản đầu tiên (12/2024), Chương 10 "AI Engineering Architecture and User Feedback", trang PDF 852–929.
-**Tác giả:** Chip Huyen — nhà văn và nhà khoa học máy tính chuyên về hệ thống học máy; từng làm ở NVIDIA, Snorkel AI, sáng lập một startup hạ tầng AI (sau được mua lại), dạy hệ thống học máy ở Đại học Stanford; tác giả *Designing Machine Learning Systems* (O'Reilly 2022) và bốn sách tiếng Việt bán chạy, trong đó có bộ *Xách ba lô lên và đi*.
-**Vị trí trong lập luận của cả cuốn sách:** Đây là chương cuối. Chín chương trước mỗi chương đi sâu một kỹ thuật riêng: Chương 1 ([C01-gioi-thieu-xay-dung-ung-dung-ai-voi-mo-hinh-nen-tang.md](C01-gioi-thieu-xay-dung-ung-dung-ai-voi-mo-hinh-nen-tang.md)) đặt khung "kỹ thuật AI" và nói nghề này đang tiến gần sản phẩm hơn; Chương 3 và 4 ([C03-phuong-phap-danh-gia.md](C03-phuong-phap-danh-gia.md), [C04-danh-gia-he-thong-ai.md](C04-danh-gia-he-thong-ai.md)) bàn đánh giá, độ tương đồng ngữ nghĩa, AI làm giám khảo, các lỗi chất lượng; Chương 5 ([C05-prompt-engineering.md](C05-prompt-engineering.md)) bàn tấn công prompt và cách phòng thủ; Chương 6 ([C06-rag-va-agent.md](C06-rag-va-agent.md)) bàn RAG, công cụ, agent và hành động ghi; Chương 7 ([C07-finetuning.md](C07-finetuning.md)) bàn finetuning; Chương 8 ([C08-ky-thuat-du-lieu.md](C08-ky-thuat-du-lieu.md)) bàn dữ liệu và "bánh đà dữ liệu"; Chương 9 ([C09-toi-uu-suy-luan.md](C09-toi-uu-suy-luan.md)) bàn tối ưu suy luận, KV cache, prompt cache và các chỉ số độ trễ. Chương 10 ghép tất cả thành một kiến trúc ứng dụng hoàn chỉnh, thêm phần giám sát, khả năng quan sát và điều phối, rồi chuyển sang phản hồi người dùng — nguồn dữ liệu để cải thiện mô hình liên tục. Sau chương này chỉ còn Lời kết ([00-loi-noi-dau.md](00-loi-noi-dau.md)).
-**Ý chính:** **Phần lớn thách thức của ứng dụng AI là bài toán hệ thống: nên bắt đầu từ kiến trúc đơn giản nhất (truy vấn đi thẳng vào mô hình rồi trả lời) và chỉ thêm từng thành phần khi có nhu cầu — dựng ngữ cảnh, guardrail, bộ định tuyến và gateway, cache, mẫu agent và hành động ghi — đồng thời thiết kế khả năng quan sát ngay từ đầu và thiết kế việc thu phản hồi người dùng như một nguồn dữ liệu độc quyền, có ý thức về các thiên lệch của nó.** Phần một dựng kiến trúc qua năm bước. Bước 1 thêm khâu dựng ngữ cảnh (truy xuất văn bản, ảnh, bảng; công cụ như tìm web) — tác giả gọi đây là "kỹ thuật đặc trưng" (feature engineering) của mô hình nền tảng. Bước 2 thêm guardrail đầu vào (chống lộ thông tin riêng tư ra API bên ngoài bằng cách phát hiện và che dữ liệu nhạy cảm, rồi mở lại bằng bảng tra ngược) và guardrail đầu ra (bắt lỗi chất lượng và an ninh, thử lại, gọi song song, chuyển cho người); guardrail đánh đổi độ tin cậy lấy độ trễ và khó áp cho chế độ stream. Bước 3 thêm bộ định tuyến (bộ phân loại ý định, bộ dự đoán hành động kế tiếp; phải nhanh và rẻ) và model gateway (giao diện thống nhất, kiểm soát truy cập, quản lý chi phí, phương án dự phòng). Bước 4 thêm cache chính xác và cache ngữ nghĩa (cache ngữ nghĩa giá trị đáng ngờ hơn vì phụ thuộc embedding, tìm kiếm vector và ngưỡng tương đồng). Bước 5 thêm vòng lặp agent và hành động ghi (gửi email, đặt hàng, chuyển tiền) — mạnh hơn nhưng rủi ro hơn nhiều. Phần giám sát dùng ba chỉ số từ DevOps (MTTD, MTTR, CFR), thiết kế chỉ số quanh các kiểu hỏng, ghi log mọi thứ, dựng trace từng truy vấn, và phát hiện trôi dạt (prompt hệ thống đổi, hành vi người dùng đổi, mô hình phía sau API đổi — Voiceflow thấy hiệu năng giảm 10% khi chuyển từ GPT-3.5-turbo-0301 sang 1106). Phần điều phối nói về định nghĩa thành phần và nối chuỗi, khuyên chưa dùng công cụ điều phối khi mới bắt đầu. Phần hai bàn phản hồi người dùng: phản hồi tường minh (thích/không thích, sao) và ngầm định (suy từ hành động); giao diện hội thoại mở ra các tín hiệu mới như dừng sớm, sửa lỗi, diễn đạt lại, phàn nàn (tám nhóm trong bộ dữ liệu FITS, nhóm lớn nhất "nói lại yêu cầu" chiếm 26%), cảm xúc, tạo lại câu trả lời, xoá/đổi tên hội thoại, độ dài và độ đa dạng hội thoại. Thiết kế thu phản hồi: lúc nào (lúc bắt đầu, khi có sự cố, khi mô hình thiếu tự tin, cả khi có điều tốt — ví dụ chỉ hỏi 1% người dùng mỗi lúc) và thu thế nào (lồng vào luồng công việc như Midjourney, GitHub Copilot; giải thích phản hồi dùng vào đâu; đừng bắt người dùng làm việc bất khả). Cuối cùng là giới hạn: thiên lệch dễ dãi (Uber 2015 điểm tài xế trung bình 4,8, dưới 4,6 có nguy cơ bị khoá), ngẫu nhiên, vị trí, sở thích, và vòng phản hồi thoái hoá có thể biến sản phẩm thành "thiên đường mèo" hay biến mô hình thành kẻ nịnh.
+## Ý chính
 
-> **Lưu ý:**
-> - **Đoạn code model gateway (trang PDF 867–869) không chạy được, và bản PDF cắt mất cuối nhiều dòng.** Sách nói rõ đoạn code chỉ để minh hoạ. Người tổng hợp ghi thêm: thiếu `import os` và phần khởi tạo Flask (`app`, `request`, `jsonify`); từ dòng `model_name = ...` trở đi bị thụt lề lệch so với dòng `model_type = ...` (Python sẽ báo lỗi thụt lề); hàm Gemini đọc kết quả theo kiểu từ điển của OpenAI (`response["choices"][0]...`), không đúng với thư viện `google.generativeai`, vốn trả nội dung qua `response.text`; `openai.Completion.create(engine=...)` là API cũ đã bị bỏ trong thư viện `openai` từ phiên bản 1.0 (cuối 2023). Phần code chép lại trong bản tổng hợp đã bổ sung các chỗ bị cắt theo suy luận và ghi rõ.
-> - **Midjourney, trang PDF 915:** sách viết lựa chọn 1 là "Generate an *unscaled* version", nhưng hình chụp giao diện (Hình 10-18) ghi "Upscale image 1 to 4" (nút U1–U4). Đúng là "upscaled" — tạo bản phóng to độ phân giải.
-> - **MTTR, trang PDF 878:** sách viết "mean time to response" nhưng định nghĩa là "sau khi phát hiện, mất bao lâu để *giải quyết*". Trong cộng đồng DevOps MTTR thường được hiểu là mean time to recovery/repair/resolve (thời gian trung bình để khôi phục); bản tổng hợp dịch theo nghĩa định nghĩa của sách: thời gian từ khi phát hiện tới khi xử lý xong.
-> - **Bảng 10-1 (trang PDF 902–903) bị cắt cột phải trong bản PDF:** cột % chỉ còn "26", "16", "16", "15", "11", "9.", "4.", "0."; chú thích bảng bị cắt sau chữ "Resu… al. (2023)" (có lẽ là "Results from … et al. (2023)"; tên tác giả không đọc được). Người tổng hợp tính lại phần trăm từ cột số lượng: tổng 13.947 mẫu, các nhóm lần lượt 26,5%, 16,2%, 16,2%, 15,3%, 11,3%, 9,4%, 4,2%, 1,0%.
-> - **Hình 10-11 (trace LangSmith, trang PDF 888):** câu trả lời của agent trong hình chụp là "15 more points" nhưng theo dữ kiện trong chính câu trả lời (Super Bowl 2023: Chiefs 38, Eagles 35, tổng 73; Super Bowl 2022: Rams 23, Bengals 20, tổng 43 — điểm của Bengals bị che trong hình, con số 20 theo hiểu biết của người tổng hợp) thì chênh lệch là 30 điểm. Sách dùng hình chỉ để minh hoạ giao diện trace, không bình luận câu trả lời; nhưng đây vô tình là một ví dụ tốt về lỗi mà trace giúp tìm ra. Ngoài ra, trong cây chạy, bước ChatOpenAI cuối ghi 2,48 giây trong khi chuỗi LLMChain bao nó chỉ ghi 2,07 giây — số liệu ảnh chụp không nhất quán.
-> - **Lỗi in nhỏ:** "nudge the agent toward more *optional* actions" (trang PDF 899) có lẽ là "optimal"; "Guardrails can also implemented" (trang PDF 862) thiếu "be"; "can alter your product's focus and *use base*" (trang PDF 924) là "user base"; "tend toward. sycophancy" (trang PDF 925) thừa dấu chấm; "present user responses matching this user's view" có lẽ là "present responses matching the user's view".
-> - **Danh sách guardrail có sẵn (trang PDF 862) — nhận xét của người tổng hợp:** PyRIT của Microsoft/Azure là bộ công cụ tìm rủi ro bằng cách tấn công thử (red teaming), không phải guardrail chạy trong sản phẩm theo nghĩa chặn đầu vào/đầu ra.
-> - **Chú thích 4 (trang PDF 928) — theo hiểu biết của người tổng hợp:** sách nói tổng vốn hoá thị trường của Datadog, Splunk, Dynatrace, New Relic gần 100 tỷ USD "tại thời điểm viết". Tuy vậy New Relic đã được quỹ tư nhân mua lại và rút khỏi sàn (cuối 2023), Splunk đã được Cisco mua lại (hoàn tất 3/2024), nên con số "vốn hoá gộp" chỉ đúng theo nghĩa định giá các công ty này.
-> - **Lớp chữ:** đoạn code bị cắt cuối dòng ở cả lớp chữ lẫn ảnh trang; chú thích cuối chương mất số thứ tự, người tổng hợp khớp 12 chú thích vào đúng chỗ theo số mũ còn thấy trên ảnh trang (ví dụ số 10 ở trang PDF 911, số 11 ở trang PDF 920) và theo nội dung.
-> - **Quy ước dịch:** "guardrail", "router", "gateway", "cache", "embedding", "trace", "log", "agent", "prompt" giữ tiếng Anh (giải thích ở lần đầu); "observability" dịch là "khả năng quan sát", "monitoring" là "giám sát", "drift" là "trôi dạt", "orchestrator" là "bộ điều phối", "explicit/implicit feedback" là "phản hồi tường minh/ngầm định", "degenerate feedback loop" là "vòng phản hồi thoái hoá", "sycophancy" là "thói nịnh", "data flywheel" là "bánh đà dữ liệu". "Model API" là hộp đại diện cho cả API bên thứ ba lẫn mô hình tự host.
+**Phần lớn thách thức của ứng dụng AI là bài toán hệ thống: nên bắt đầu từ kiến trúc đơn giản nhất (truy vấn đi thẳng vào mô hình rồi trả lời) và chỉ thêm từng thành phần khi có nhu cầu — dựng ngữ cảnh, guardrail, bộ định tuyến và gateway, cache, mẫu agent và hành động ghi — đồng thời thiết kế khả năng quan sát ngay từ đầu và thiết kế việc thu phản hồi người dùng như một nguồn dữ liệu độc quyền, có ý thức về các thiên lệch của nó.**
+
+Phần một dựng kiến trúc qua năm bước. Bước 1 thêm khâu dựng ngữ cảnh (truy xuất văn bản, ảnh, bảng; công cụ như tìm web) — tác giả gọi đây là "kỹ thuật đặc trưng" (feature engineering) của mô hình nền tảng.
+
+Bước 2 thêm guardrail đầu vào (chống lộ thông tin riêng tư ra API bên ngoài bằng cách phát hiện và che dữ liệu nhạy cảm, rồi mở lại bằng bảng tra ngược) và guardrail đầu ra (bắt lỗi chất lượng và an ninh, thử lại, gọi song song, chuyển cho người); guardrail đánh đổi độ tin cậy lấy độ trễ và khó áp cho chế độ stream. Bước 3 thêm bộ định tuyến (bộ phân loại ý định, bộ dự đoán hành động kế tiếp; phải nhanh và rẻ) và model gateway (giao diện thống nhất, kiểm soát truy cập, quản lý chi phí, phương án dự phòng).
+
+Bước 4 thêm cache chính xác và cache ngữ nghĩa (cache ngữ nghĩa giá trị đáng ngờ hơn vì phụ thuộc embedding, tìm kiếm vector và ngưỡng tương đồng). Bước 5 thêm vòng lặp agent và hành động ghi (gửi email, đặt hàng, chuyển tiền) — mạnh hơn nhưng rủi ro hơn nhiều.
+
+Phần giám sát dùng ba chỉ số từ DevOps (MTTD, MTTR, CFR), thiết kế chỉ số quanh các kiểu hỏng, ghi log mọi thứ, dựng trace từng truy vấn, và phát hiện trôi dạt (prompt hệ thống đổi, hành vi người dùng đổi, mô hình phía sau API đổi — Voiceflow thấy hiệu năng giảm 10% khi chuyển từ GPT-3.5-turbo-0301 sang 1106). Phần điều phối nói về định nghĩa thành phần và nối chuỗi, khuyên chưa dùng công cụ điều phối khi mới bắt đầu.
+
+Phần hai bàn phản hồi người dùng: phản hồi tường minh (thích/không thích, sao) và ngầm định (suy từ hành động); giao diện hội thoại mở ra các tín hiệu mới như dừng sớm, sửa lỗi, diễn đạt lại, phàn nàn (tám nhóm trong bộ dữ liệu FITS, nhóm lớn nhất "nói lại yêu cầu" chiếm 26%), cảm xúc, tạo lại câu trả lời, xoá/đổi tên hội thoại, độ dài và độ đa dạng hội thoại.
+
+Thiết kế thu phản hồi: lúc nào (lúc bắt đầu, khi có sự cố, khi mô hình thiếu tự tin, cả khi có điều tốt — ví dụ chỉ hỏi 1% người dùng mỗi lúc) và thu thế nào (lồng vào luồng công việc như Midjourney, GitHub Copilot; giải thích phản hồi dùng vào đâu; đừng bắt người dùng làm việc bất khả).
+
+Cuối cùng là giới hạn: thiên lệch dễ dãi (Uber 2015 điểm tài xế trung bình 4,8, dưới 4,6 có nguy cơ bị khoá), ngẫu nhiên, vị trí, sở thích, và vòng phản hồi thoái hoá có thể biến sản phẩm thành "thiên đường mèo" hay biến mô hình thành kẻ nịnh.
 
 ## Sơ đồ
 
@@ -938,7 +939,7 @@ def model_gateway():
           return jsonify(result)
 ```
 
-Giải thích từng phần: hai hàm `openai_model` và `gemini_model` bọc hai thư viện khác nhau sau cùng một chữ ký `(input_data, model_name, max_tokens)` và cùng kiểu trả về `{"response": ...}`; mỗi hàm lấy khoá API từ biến môi trường, không để khoá trong code ứng dụng. Hàm `model_gateway` là một endpoint HTTP POST `/model` (theo kiểu Flask): đọc JSON yêu cầu gồm `model_type`, `model_name`, `input_data`, `max_tokens`, rồi gọi đúng hàm bọc theo `model_type` và trả kết quả dạng JSON. Ứng dụng nào cũng chỉ cần biết một endpoint này. (Các lỗi khiến code không chạy — thiếu `import os`, thiếu khởi tạo Flask, thụt lề lệch, cách đọc kết quả Gemini sai, API `Completion` cũ — đã ghi trong khối Lưu ý.)
+Giải thích từng phần: hai hàm `openai_model` và `gemini_model` bọc hai thư viện khác nhau sau cùng một chữ ký `(input_data, model_name, max_tokens)` và cùng kiểu trả về `{"response": ...}`; mỗi hàm lấy khoá API từ biến môi trường, không để khoá trong code ứng dụng. Hàm `model_gateway` là một endpoint HTTP POST `/model` (theo kiểu Flask): đọc JSON yêu cầu gồm `model_type`, `model_name`, `input_data`, `max_tokens`, rồi gọi đúng hàm bọc theo `model_type` và trả kết quả dạng JSON. Ứng dụng nào cũng chỉ cần biết một endpoint này. (Các lỗi khiến code không chạy — thiếu `import os`, thiếu khởi tạo Flask, thụt lề lệch, cách đọc kết quả Gemini sai, API `Completion` cũ — đã ghi trong mục Lưu ý cuối chương.)
 
 **Kiểm soát truy cập và quản lý chi phí.** Thay vì phát token API của tổ chức (ví dụ token OpenAI) cho mọi người cần dùng — dễ bị lộ —, chỉ cho họ truy cập gateway, tạo một điểm truy cập tập trung và có kiểm soát. Gateway có thể phân quyền chi tiết: người dùng hay ứng dụng nào được dùng mô hình nào. Gateway còn theo dõi và giới hạn lượt gọi API, chống lạm dụng và quản lý chi phí hiệu quả.
 
@@ -1098,7 +1099,7 @@ Dù không thể xử lý log bằng tay, nên tự tay xem dữ liệu vận h�
 | Search | Tool | 3,50 giây | — |
 | LLMChain → ChatOpenAI | Chain → LLM | 2,07 giây (LLM 2,48 giây) | 3.090 |
 
-Người tổng hợp kiểm: 144 + 2.037 + 3.090 = 5.271 token, khớp tổng. Các bước con cộng lại 1,46 + 2,87 + 1,97 + 3,50 + 2,07 = 11,87 giây, ít hơn 13,57 giây của toàn bộ, nên khoảng 1,7 giây là chi phí điều phối giữa các bước. Bước LLM cuối ghi 2,48 giây lớn hơn chuỗi bao nó (2,07 giây) — số liệu trong ảnh chụp không hoàn toàn nhất quán. Số token tăng dần qua các lần gọi LLM (144 → 2.037 → 3.090) cho thấy kết quả tìm kiếm được nhồi vào ngữ cảnh, và hai lần tìm kiếm chiếm 6,37 giây, gần một nửa tổng thời gian — đúng loại thông tin trace giúp tìm ra. Câu trả lời trong hình nói "15 điểm", trong khi dữ kiện cho thấy 30 điểm (xem khối Lưu ý).
+Người tổng hợp kiểm: 144 + 2.037 + 3.090 = 5.271 token, khớp tổng. Các bước con cộng lại 1,46 + 2,87 + 1,97 + 3,50 + 2,07 = 11,87 giây, ít hơn 13,57 giây của toàn bộ, nên khoảng 1,7 giây là chi phí điều phối giữa các bước. Bước LLM cuối ghi 2,48 giây lớn hơn chuỗi bao nó (2,07 giây) — số liệu trong ảnh chụp không hoàn toàn nhất quán. Số token tăng dần qua các lần gọi LLM (144 → 2.037 → 3.090) cho thấy kết quả tìm kiếm được nhồi vào ngữ cảnh, và hai lần tìm kiếm chiếm 6,37 giây, gần một nửa tổng thời gian — đúng loại thông tin trace giúp tìm ra. Câu trả lời trong hình nói "15 điểm", trong khi dữ kiện cho thấy 30 điểm (xem mục Lưu ý cuối chương).
 
 #### 8.5. Phát hiện trôi dạt (Drift detection, trang PDF 889–890)
 
@@ -1612,3 +1613,138 @@ Nhiều thách thức AI, về cốt lõi, là bài toán hệ thống. Để gi
   - Mô hình phía sau API có thể đổi mà không báo: nếu dùng AI cho phân tích lặp lại (tóm tắt báo cáo quý, phân loại tin tức), giữ một bộ câu hỏi kiểm tra cố định và chạy lại định kỳ để phát hiện trôi dạt, giống kiểm định mô hình (model validation) trong quản trị rủi ro mô hình.
   - Thói nịnh là rủi ro trực tiếp với phân tích tài chính: mô hình huấn luyện theo phản hồi có xu hướng đồng ý với giả thuyết người hỏi đưa ra; nên đặt câu hỏi trung tính, yêu cầu lập luận phản bác, và kiểm số liệu với nguồn.
   - Ý tưởng bánh đà dữ liệu và vòng phản hồi thoái hoá cũng là bài học kinh tế về hiệu ứng mạng và phụ thuộc lối mòn: lợi thế dữ liệu tự củng cố, nhưng thiên lệch ban đầu cũng tự củng cố.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 10 trên một trang: ba nhánh đầu là phần kiến trúc năm bước (mục 2–7 của chương gốc), một nhánh cho giám sát và điều phối (mục 8–9), hai nhánh cho phản hồi người dùng (mục 10–13); mỗi nhánh ghi luận điểm, cơ chế, đánh đổi và con số quan trọng nhất; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+mindmap
+  root((Chương 10: ứng dụng AI là bài toán hệ thống, dựng dần từng thành phần và học từ phản hồi người dùng))
+    Mục 2–3 — Bắt đầu đơn giản, rồi thêm ngữ cảnh
+      Kiến trúc đơn giản nhất
+        Truy vấn → Model API → câu trả lời, chưa có ngữ cảnh, guardrail hay tối ưu
+        Model API gồm cả API bên thứ ba lẫn mô hình tự host
+      Lộ trình năm bước, thêm khi có nhu cầu
+        Ngữ cảnh → guardrail → router và gateway → cache → agent và hành động ghi
+        Thứ tự là thứ tác giả hay gặp, không phải quy tắc
+      Bước 1: dựng ngữ cảnh là feature engineering của mô hình nền tảng
+        Truy xuất văn bản, ảnh, bảng; công cụ chỉ đọc như tìm web, chạy SQL
+        Nhà cung cấp khác nhau về số tài liệu tải lên, thuật toán truy xuất, chunk size, gọi hàm song song
+    Mục 4 — Guardrail: giảm rủi ro, đổi lại độ trễ
+      Guardrail đầu vào chống lộ dữ liệu ra API ngoài
+        Nguồn rò: nhân viên dán bí mật vào prompt, prompt hệ thống chứa dữ liệu nội bộ, công cụ kéo dữ liệu riêng
+        Phát hiện dữ liệu nhạy cảm rồi chặn cả truy vấn hoặc che bằng nhãn như ACCESS_TOKEN
+        Bảng tra ngược PII đặt lại giá trị gốc, API ngoài không bao giờ thấy token thật
+        Rủi ro giảm được nhưng không bao giờ về 0
+      Guardrail đầu ra bắt hỏng và quy định cách xử lý
+        Hỏng chất lượng: sai định dạng JSON, bịa, câu trả lời dở
+        Hỏng an ninh: độc hại, lộ thông tin, kích hoạt chạy code từ xa, rủi ro thương hiệu
+        Đo cả tỷ lệ từ chối nhầm vì hệ thống quá an toàn làm người dùng bực
+      Chính sách xử lý
+        Thử lại sau khi hỏng làm độ trễ cảm nhận tăng gấp đôi
+        Gọi song song hai lần rồi chọn câu tốt hơn: giữ độ trễ, tốn thêm lượt gọi
+        Chuyển cho người khi phát hiện người dùng giận hoặc sau một số lượt
+      Đánh đổi khi triển khai
+        Một số đội bỏ guardrail vì độ trễ quan trọng hơn
+        Chế độ stream: nội dung xấu có thể tới người dùng trước khi guardrail kịp chặn
+        Dùng API ngoài thì nhà cung cấp lo bớt guardrail; tự host thì bớt cần guardrail đầu vào
+    Mục 5–7 — Router, gateway, cache, agent
+      Router đưa mỗi truy vấn tới giải pháp phù hợp
+        Phân loại ý định: mật khẩu → FAQ, lỗi hoá đơn → nhân viên, sự cố kỹ thuật → bot chuyên
+        Từ chối câu ngoài phạm vi bằng câu soạn sẵn, không tốn lượt gọi API; hỏi lại câu mơ hồ
+        Router phải nhỏ, nhanh, rẻ: thường là GPT-2, BERT, Llama 7B hoặc bộ phân loại nhỏ hơn
+        Mẫu phổ biến nhất: định tuyến → truy xuất → sinh → chấm điểm
+      Gateway là một cửa thống nhất tới mọi mô hình
+        API nhà cung cấp đổi thì chỉ sửa gateway, không sửa mọi ứng dụng
+        Giữ khoá API tập trung, phân quyền ai dùng mô hình nào, giới hạn lượt gọi để quản chi phí
+        Dự phòng khi API sập hoặc chạm giới hạn tốc độ: chuyển mô hình khác hoặc thử lại
+      Cache chính xác: chỉ dùng lại khi truy vấn trùng hệt
+        Hợp với truy vấn nhiều bước hoặc tốn thời gian như truy xuất, SQL, tìm web
+        Không cache truy vấn riêng từng người hay nhạy thời gian; dọn cache bằng LRU, LFU, FIFO
+        Cảnh báo: cache câu trả lời chứa thông tin của X rồi trả cho Y làm lộ dữ liệu
+      Cache ngữ nghĩa: dùng lại khi truy vấn gần nghĩa
+        Embedding + tìm kiếm vector + ngưỡng tương đồng; nhầm giống nhau thì trả sai
+        Giá trị đáng ngờ hơn, chỉ đáng dùng khi tỷ lệ trúng cao
+      Bước 5: vòng lặp agent và hành động ghi
+        Đầu ra chưa đủ thì quay lại truy xuất thêm ngữ cảnh
+        Hành động ghi như gửi email, đặt hàng, chuyển tiền: mạnh hơn nhiều nhưng rủi ro hơn nhiều
+    Mục 8–9 — Quan sát từ đầu, điều phối sau
+      Khả năng quan sát là phần của thiết kế, không làm sau cùng
+        Đo bằng MTTD phát hiện, MTTR xử lý xong, CFR tỷ lệ thay đổi gây lỗi
+        Không biết CFR của mình là lúc thiết kế lại nền tảng
+        Quan sát được: suy ra lỗi bên trong từ log và chỉ số, không cần đưa code mới lên
+      Chỉ số thiết kế quanh kiểu hỏng cụ thể
+        Định dạng, sự thật, an toàn, tín hiệu hội thoại, độ trễ TTFT và TPOT, chi phí token
+        Chia nhỏ theo người dùng, phiên bản prompt, thời gian; đo tương quan với chỉ số sao Bắc Đẩu
+      Log và trace
+        Chỉ số báo có chuyện, log cho biết chuyện gì, trace chỉ ra bước nào hỏng
+        Ghi log mọi thứ: cấu hình, prompt cuối, đầu ra trung gian, lời gọi công cụ
+        Trace LangSmith: 13,57 giây, 5.271 token, hai lần tìm kiếm chiếm gần nửa thời gian
+      Trôi dạt xảy ra âm thầm
+        Prompt hệ thống bị sửa, người dùng đổi cách hỏi, mô hình sau API được cập nhật
+        Voiceflow giảm 10% hiệu năng khi đổi từ GPT-3.5-turbo-0301 sang 1106
+      Điều phối pipeline
+        Hai việc: định nghĩa thành phần và nối chuỗi các bước
+        Chạy song song càng nhiều càng tốt, ví dụ định tuyến và xoá PII cùng lúc
+        Chưa vội dùng LangChain, LlamaIndex lúc đầu vì che chi tiết, khó gỡ lỗi
+    Mục 10–12 — Phản hồi người dùng là dữ liệu độc quyền
+      Vì sao quan trọng hơn với AI
+        Phản hồi là nhiên liệu cho bánh đà dữ liệu, giúp ra mắt sớm thì khó bị đuổi kịp
+        Phản hồi là dữ liệu người dùng: tôn trọng riêng tư, cần sự đồng ý
+      Tường minh và ngầm định
+        Tường minh như thích, sao: dễ hiểu nhưng thưa, người không vui hay phàn nàn hơn
+        Ngầm định suy từ hành động: dồi dào nhưng nhiễu, khó diễn giải
+      Tín hiệu từ hội thoại
+        Dừng sớm, sửa lỗi kiểu “Không, ý tôi là…”, đòi xác nhận, phàn nàn, cảm xúc tiêu cực
+        Bộ FITS 13.947 mẫu: nói lại yêu cầu chiếm 26,5%, nhóm lớn nhất
+        Người dùng sửa câu trả lời tạo dữ liệu ưu tiên: bản sửa thắng, bản gốc thua
+        Tạo lại, xoá hay đổi tên hội thoại, độ dài và độ đa dạng hội thoại
+      Khi nào thu
+        Lúc bắt đầu để hiệu chỉnh; khi có sự cố; khi mô hình thiếu tự tin thì đưa hai phương án
+        Khi có điều tốt: chỉ hỏi khoảng 1% người dùng mỗi lúc để không làm phiền
+      Thu thế nào
+        Lồng vào luồng công việc: Midjourney U1–U4, V1–V4, tạo lại; Copilot Tab để nhận
+        Ứng dụng độc lập như ChatGPT khó biết email có thực sự được gửi không
+        Giải thích phản hồi dùng vào đâu; đừng bắt chọn khi người dùng không hiểu; tránh thang điểm gây nhầm
+    Mục 13 — Phản hồi có thiên lệch và có thể tự khuếch đại
+      Thiên lệch cần soi trước khi dùng
+        Dễ dãi: điểm tài xế Uber 2015 trung bình 4,8, dưới 4,6 có nguy cơ bị khoá
+        Ngẫu nhiên vì lười đọc; vị trí: bấm gợi ý đầu nhiều hơn → đổi chỗ ngẫu nhiên
+        Thích câu dài hơn dù kém chính xác, thích câu thấy sau cùng
+      Vòng phản hồi thoái hoá
+        Dự đoán ảnh hưởng phản hồi, phản hồi ảnh hưởng mô hình sau, thiên lệch phình to
+        Video xếp cao hơn chút được bấm nhiều hơn rồi bỏ xa; ứng dụng thành thiên đường ảnh mèo
+      Thói nịnh
+        Huấn luyện theo phản hồi dạy mô hình nói điều người dùng muốn nghe
+        Sharma và cộng sự 2023: mô hình dễ đồng ý với quan điểm người dùng
+    Thông điệp xuyên suốt
+      Bắt đầu đơn giản; mỗi thành phần thêm năng lực nhưng cũng thêm kiểu hỏng
+      Nhiều thách thức AI về cốt lõi là bài toán hệ thống
+      Thiết kế phản hồi giờ là việc của kỹ sư AI, kỹ thuật AI tiến gần sản phẩm hơn
+```
+
+## Nguồn
+
+Chip Huyen, *AI Engineering: Building Applications with Foundation Models*, O'Reilly Media, ấn bản đầu tiên (12/2024), Chương 10 "AI Engineering Architecture and User Feedback", trang PDF 852–929.
+
+## Tác giả
+
+Chip Huyen — nhà văn và nhà khoa học máy tính chuyên về hệ thống học máy; từng làm ở NVIDIA, Snorkel AI, sáng lập một startup hạ tầng AI (sau được mua lại), dạy hệ thống học máy ở Đại học Stanford; tác giả *Designing Machine Learning Systems* (O'Reilly 2022) và bốn sách tiếng Việt bán chạy, trong đó có bộ *Xách ba lô lên và đi*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là chương cuối. Chín chương trước mỗi chương đi sâu một kỹ thuật riêng: Chương 1 ([C01-gioi-thieu-xay-dung-ung-dung-ai-voi-mo-hinh-nen-tang.md](C01-gioi-thieu-xay-dung-ung-dung-ai-voi-mo-hinh-nen-tang.md)) đặt khung "kỹ thuật AI" và nói nghề này đang tiến gần sản phẩm hơn; Chương 3 và 4 ([C03-phuong-phap-danh-gia.md](C03-phuong-phap-danh-gia.md), [C04-danh-gia-he-thong-ai.md](C04-danh-gia-he-thong-ai.md)) bàn đánh giá, độ tương đồng ngữ nghĩa, AI làm giám khảo, các lỗi chất lượng; Chương 5 ([C05-prompt-engineering.md](C05-prompt-engineering.md)) bàn tấn công prompt và cách phòng thủ; Chương 6 ([C06-rag-va-agent.md](C06-rag-va-agent.md)) bàn RAG, công cụ, agent và hành động ghi; Chương 7 ([C07-finetuning.md](C07-finetuning.md)) bàn finetuning; Chương 8 ([C08-ky-thuat-du-lieu.md](C08-ky-thuat-du-lieu.md)) bàn dữ liệu và "bánh đà dữ liệu"; Chương 9 ([C09-toi-uu-suy-luan.md](C09-toi-uu-suy-luan.md)) bàn tối ưu suy luận, KV cache, prompt cache và các chỉ số độ trễ. Chương 10 ghép tất cả thành một kiến trúc ứng dụng hoàn chỉnh, thêm phần giám sát, khả năng quan sát và điều phối, rồi chuyển sang phản hồi người dùng — nguồn dữ liệu để cải thiện mô hình liên tục. Sau chương này chỉ còn Lời kết ([00-loi-noi-dau.md](00-loi-noi-dau.md)).
+
+## Lưu ý
+
+- **Đoạn code model gateway (trang PDF 867–869) không chạy được, và bản PDF cắt mất cuối nhiều dòng.** Sách nói rõ đoạn code chỉ để minh hoạ. Người tổng hợp ghi thêm: thiếu `import os` và phần khởi tạo Flask (`app`, `request`, `jsonify`); từ dòng `model_name = ...` trở đi bị thụt lề lệch so với dòng `model_type = ...` (Python sẽ báo lỗi thụt lề); hàm Gemini đọc kết quả theo kiểu từ điển của OpenAI (`response["choices"][0]...`), không đúng với thư viện `google.generativeai`, vốn trả nội dung qua `response.text`; `openai.Completion.create(engine=...)` là API cũ đã bị bỏ trong thư viện `openai` từ phiên bản 1.0 (cuối 2023). Phần code chép lại trong bản tổng hợp đã bổ sung các chỗ bị cắt theo suy luận và ghi rõ.
+- **Midjourney, trang PDF 915:** sách viết lựa chọn 1 là "Generate an *unscaled* version", nhưng hình chụp giao diện (Hình 10-18) ghi "Upscale image 1 to 4" (nút U1–U4). Đúng là "upscaled" — tạo bản phóng to độ phân giải.
+- **MTTR, trang PDF 878:** sách viết "mean time to response" nhưng định nghĩa là "sau khi phát hiện, mất bao lâu để *giải quyết*". Trong cộng đồng DevOps MTTR thường được hiểu là mean time to recovery/repair/resolve (thời gian trung bình để khôi phục); bản tổng hợp dịch theo nghĩa định nghĩa của sách: thời gian từ khi phát hiện tới khi xử lý xong.
+- **Bảng 10-1 (trang PDF 902–903) bị cắt cột phải trong bản PDF:** cột % chỉ còn "26", "16", "16", "15", "11", "9.", "4.", "0."; chú thích bảng bị cắt sau chữ "Resu… al. (2023)" (có lẽ là "Results from … et al. (2023)"; tên tác giả không đọc được). Người tổng hợp tính lại phần trăm từ cột số lượng: tổng 13.947 mẫu, các nhóm lần lượt 26,5%, 16,2%, 16,2%, 15,3%, 11,3%, 9,4%, 4,2%, 1,0%.
+- **Hình 10-11 (trace LangSmith, trang PDF 888):** câu trả lời của agent trong hình chụp là "15 more points" nhưng theo dữ kiện trong chính câu trả lời (Super Bowl 2023: Chiefs 38, Eagles 35, tổng 73; Super Bowl 2022: Rams 23, Bengals 20, tổng 43 — điểm của Bengals bị che trong hình, con số 20 theo hiểu biết của người tổng hợp) thì chênh lệch là 30 điểm. Sách dùng hình chỉ để minh hoạ giao diện trace, không bình luận câu trả lời; nhưng đây vô tình là một ví dụ tốt về lỗi mà trace giúp tìm ra. Ngoài ra, trong cây chạy, bước ChatOpenAI cuối ghi 2,48 giây trong khi chuỗi LLMChain bao nó chỉ ghi 2,07 giây — số liệu ảnh chụp không nhất quán.
+- **Lỗi in nhỏ:** "nudge the agent toward more *optional* actions" (trang PDF 899) có lẽ là "optimal"; "Guardrails can also implemented" (trang PDF 862) thiếu "be"; "can alter your product's focus and *use base*" (trang PDF 924) là "user base"; "tend toward. sycophancy" (trang PDF 925) thừa dấu chấm; "present user responses matching this user's view" có lẽ là "present responses matching the user's view".
+- **Danh sách guardrail có sẵn (trang PDF 862) — nhận xét của người tổng hợp:** PyRIT của Microsoft/Azure là bộ công cụ tìm rủi ro bằng cách tấn công thử (red teaming), không phải guardrail chạy trong sản phẩm theo nghĩa chặn đầu vào/đầu ra.
+- **Chú thích 4 (trang PDF 928) — theo hiểu biết của người tổng hợp:** sách nói tổng vốn hoá thị trường của Datadog, Splunk, Dynatrace, New Relic gần 100 tỷ USD "tại thời điểm viết". Tuy vậy New Relic đã được quỹ tư nhân mua lại và rút khỏi sàn (cuối 2023), Splunk đã được Cisco mua lại (hoàn tất 3/2024), nên con số "vốn hoá gộp" chỉ đúng theo nghĩa định giá các công ty này.
+- **Lớp chữ:** đoạn code bị cắt cuối dòng ở cả lớp chữ lẫn ảnh trang; chú thích cuối chương mất số thứ tự, người tổng hợp khớp 12 chú thích vào đúng chỗ theo số mũ còn thấy trên ảnh trang (ví dụ số 10 ở trang PDF 911, số 11 ở trang PDF 920) và theo nội dung.
+- **Quy ước dịch:** "guardrail", "router", "gateway", "cache", "embedding", "trace", "log", "agent", "prompt" giữ tiếng Anh (giải thích ở lần đầu); "observability" dịch là "khả năng quan sát", "monitoring" là "giám sát", "drift" là "trôi dạt", "orchestrator" là "bộ điều phối", "explicit/implicit feedback" là "phản hồi tường minh/ngầm định", "degenerate feedback loop" là "vòng phản hồi thoái hoá", "sycophancy" là "thói nịnh", "data flywheel" là "bánh đà dữ liệu". "Model API" là hộp đại diện cho cả API bên thứ ba lẫn mô hình tự host.

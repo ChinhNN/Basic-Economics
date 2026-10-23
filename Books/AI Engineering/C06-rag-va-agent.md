@@ -1,26 +1,20 @@
 # Chương 6 — RAG và agent (RAG and Agents)
 
-**Nguồn:** Chip Huyen, *AI Engineering: Building Applications with Foundation Models*, O'Reilly Media, ấn bản đầu tiên (12/2024), Chương 6 "RAG and Agents", trang PDF 494–593.
-**Tác giả:** Chip Huyen — nhà văn và nhà khoa học máy tính chuyên về hệ thống học máy; từng làm ở NVIDIA, Snorkel AI, sáng lập một startup hạ tầng AI (sau được mua lại), dạy hệ thống học máy ở Đại học Stanford; tác giả *Designing Machine Learning Systems* (O'Reilly 2022) và bốn sách tiếng Việt bán chạy, trong đó có bộ *Xách ba lô lên và đi*.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 5 ([C05-prompt-engineering.md](C05-prompt-engineering.md)) dạy cách viết *chỉ dẫn* (instruction) cho mô hình — phần chung cho mọi truy vấn. Chương 6 bàn phần còn lại của đầu vào: *context* riêng cho từng truy vấn, và hai mẫu hình dựng context phổ biến nhất là RAG (truy xuất rồi sinh) và agent (mô hình dùng công cụ, lập kế hoạch, hành động). Chương dùng lại nhiều khái niệm của các chương trước: embedding và đánh giá bằng AI judge ([C03-phuong-phap-danh-gia.md](C03-phuong-phap-danh-gia.md)), đánh giá hệ thống theo từng thành phần ([C04-danh-gia-he-thong-ai.md](C04-danh-gia-he-thong-ai.md)), chain-of-thought, tự phê bình, độ dài context và tấn công prompt ([C05-prompt-engineering.md](C05-prompt-engineering.md)), semantic parsing và đầu ra có cấu trúc ([C02-hieu-ve-mo-hinh-nen-tang.md](C02-hieu-ve-mo-hinh-nen-tang.md)). RAG và agent đều là phương pháp dựa trên prompt — không sửa mô hình; Chương 7 ([C07-finetuning.md](C07-finetuning.md)) chuyển sang sửa chính mô hình bằng finetuning. Chương 10 ([C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md](C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md)) đặt RAG, agent và bộ nhớ vào kiến trúc tổng thể của một ứng dụng.
-**Ý chính:** **Mô hình trả lời sai và bịa nhiều hơn khi thiếu thông tin, nên phải dựng context riêng cho từng truy vấn: RAG lấy thông tin liên quan từ nguồn ngoài, còn agent cho mô hình công cụ để vừa thu thập thông tin vừa tác động lên môi trường; chất lượng của cả hai phụ thuộc vào bộ truy xuất (retriever), khả năng lập kế hoạch của mô hình và hệ thống bộ nhớ.** Phần RAG: mẫu "truy xuất rồi sinh" có từ Chen và cộng sự (2017), tên RAG do Lewis và cộng sự (2020) đặt; tác giả cho rằng context dài không xoá bỏ RAG vì dữ liệu luôn vượt context và mô hình không dùng tốt context dài (Anthropic gợi ý: kho tri thức dưới 200.000 token, khoảng 500 trang, thì đưa thẳng vào prompt). Retriever có hai việc: lập chỉ mục và truy vấn. Truy xuất dựa trên từ khoá (TF-IDF, chỉ mục ngược của Elasticsearch, BM25) nhanh, rẻ, mạnh ngay từ đầu nhưng khó cải thiện; truy xuất dựa trên embedding (cơ sở dữ liệu vector, k-NN hoặc các thuật toán ANN như LSH, HNSW, product quantization, IVF với 100–10.000 vector mỗi cụm, Annoy) hiểu ngữ nghĩa, cải thiện được bằng finetuning nhưng đắt hơn — chi tiêu cho cơ sở dữ liệu vector có thể bằng một phần năm tới một nửa chi tiêu cho API mô hình — và dễ làm mất từ khoá như mã lỗi. Hệ thống thật thường kết hợp (hybrid search): lọc rẻ rồi xếp hạng lại, hoặc gộp nhiều bảng xếp hạng bằng RRF với hằng số k = 60. Bốn chiến thuật tối ưu truy xuất: chia đoạn (chunking), xếp hạng lại, viết lại truy vấn, và truy xuất có ngữ cảnh (Anthropic thêm 50–100 token mô tả vào mỗi đoạn). RAG mở rộng sang ảnh (CLIP) và bảng (text-to-SQL). Phần agent: agent là bất cứ thứ gì cảm nhận và tác động lên môi trường; năng lực của nó do bộ công cụ (tăng cường tri thức, mở rộng năng lực, hành động ghi) và bộ lập kế hoạch quyết định. Agent cần mô hình mạnh vì lỗi cộng dồn: đúng 95% mỗi bước thì sau 10 bước chỉ còn khoảng 60%, sau 100 bước còn 0,6%. Kế hoạch nên tách khỏi thực thi, được kiểm định trước khi chạy, có thể viết bằng tên hàm hoặc ngôn ngữ tự nhiên, theo luồng tuần tự, song song, rẽ nhánh hay vòng lặp; phản tư (ReAct, Reflexion) giúp sửa lỗi nhưng tốn token. Chọn công cụ phải thử nghiệm (Toolformer 5 công cụ, Chameleon 13, Gorilla 1.645 API). Agent hỏng theo ba kiểu: lỗi lập kế hoạch, lỗi công cụ, kém hiệu quả. Cuối chương là bộ nhớ ba tầng (tri thức nội tại, bộ nhớ ngắn hạn là context, bộ nhớ dài hạn là nguồn ngoài) và các chiến lược quản lý bộ nhớ (FIFO, tóm tắt, phản tư).
+## Ý chính
 
-> **Lưu ý:**
-> - **Định nghĩa IDF không nhất quán (trang PDF 504):** lời văn nói IDF là tổng số tài liệu chia cho số tài liệu chứa từ ("10 / 5 = 2"), nhưng công thức ngay dưới lại là IDF(t) = log(N / C(t)). Theo công thức, ví dụ cho log(2) ≈ 0,693 (log tự nhiên) hoặc 0,301 (log cơ số 10), không phải 2. Thứ tự xếp hạng không đổi vì log là hàm đồng biến, nhưng giá trị số khác; công thức có log là dạng chuẩn.
-> - **Công thức BM25 không được nêu:** sách chỉ nói BM25 "chuẩn hoá tần suất từ theo độ dài tài liệu". Bản tổng hợp chép công thức BM25 chuẩn (Robertson và Zaragoza 2009, tài liệu sách dẫn ở chú thích) và ghi rõ là người tổng hợp bổ sung.
-> - **"Elasticsearch và BM25" được gọi là hai giải pháp ngang hàng (nhận xét của người tổng hợp):** Elasticsearch là phần mềm tìm kiếm, BM25 là hàm chấm điểm; Elasticsearch (qua Lucene) dùng BM25 làm hàm chấm điểm mặc định từ phiên bản 5.0 (2016). So sánh không sai về thực hành nhưng trộn hai cấp khác nhau.
-> - **RRF (trang PDF 519–520):** ví dụ trực quan (hạng 1 được 1 điểm, hạng 2 được 0,5 điểm, tổng 1,5) tương ứng với k = 0; với k = 60 như sách khuyên, cùng tài liệu đó được 1/61 + 1/62 ≈ 0,0325. Lý do "tránh chia cho 0" chỉ cần khi hạng đánh số từ 0; vai trò chính của k là làm phẳng chênh lệch giữa các hạng đầu (người tổng hợp tính).
-> - **Tham chiếu chương sai (trang PDF 506):** sách viết "Chapter 4 discusses measuring the lexical similarity between two texts based on their n-gram overlap"; phần độ tương đồng từ vựng (lexical similarity) và n-gram nằm ở Chương 3 ([C03-phuong-phap-danh-gia.md](C03-phuong-phap-danh-gia.md)); Chương 4 chỉ nhắc n-gram khi bàn nhiễm bẩn dữ liệu benchmark.
-> - **Ví dụ lập kế hoạch Kitty Vogue không nhất quán (trang PDF 555–558):** lời dẫn nói agent có ba công cụ (lấy sản phẩm theo giá, lấy sản phẩm bán chạy, lấy thông tin sản phẩm), nhưng prompt liệt kê năm hành động và không có hàm "theo giá"; prompt khai báo `get_today_date()` nhưng kế hoạch sinh ra gọi `get_time()`; prompt khai báo `fetch_top_products` nhưng ví dụ tham số gọi `retrieve_top_products`. Có thể tác giả cố ý minh hoạ rằng mô hình gọi sai tên hàm, nhưng sách không nói vậy.
-> - **Hình 6-11 (trang PDF 566):** ví dụ "If" được dán nhãn "Example: customer support" nhưng nội dung là phân tích báo cáo lợi nhuận rồi mua hay bán cổ phiếu; ví dụ vòng lặp trong hình (truy vết bài đăng lan truyền ngược về người đăng gốc) khác ví dụ trong lời văn (sinh số ngẫu nhiên tới khi ra số nguyên tố). Bản tổng hợp chép cả hai.
-> - **Bảng 6-3 (trang PDF 533) bị cắt cột:** cột cuối hiển thị "Unit" với các giá trị 10,99, 25, 18 — thực ra là đơn giá; Hình 6-7 cho đủ cột: Giá/đơn vị (USD), Số lượng (Units), Thành tiền. Câu SQL bị cắt ở cuối dòng ("INTERVAL 7 D…"), đúng là `INTERVAL 7 DAY);`. Bản tổng hợp chép bảng đầy đủ từ Hình 6-7.
-> - **Lỗi chính tả:** "Vogager" là Voyager (Wang và cộng sự 2023); câu "tools … that help augment your agent's knowledge of your agent" (trang PDF 541) có lẽ định viết "knowledge of your organization/environment".
-> - **Hình 6-14 và lời văn (nhận xét của người tổng hợp):** sách nói ChatGPT "có vẻ ưa" chú thích ảnh còn GPT-4 "ưa" truy xuất tri thức. Số trong hình: trên ScienceQA ChatGPT gọi chú thích ảnh 10% số chương trình so với GPT-4 6%, GPT-4 gọi truy xuất tri thức 81% so với ChatGPT 72%; khác biệt có nhưng nhỏ, từ "ưa" hơi mạnh.
-> - **Hình 6-15:** tổng xác suất ra khỏi nút image_captioner là 0,01 + 0,79 + 0,21 = 1,01 do làm tròn.
-> - **Kiểu dữ liệu trong Hình 6-10:** tham số `lbs` khai báo `"type": "int"`; JSON Schema dùng `"integer"` hoặc `"number"` (số cân thường không nguyên). Đây là mã giả, sách nói rõ không theo API cụ thể.
-> - **Lớp chữ:** các chú thích cuối chương mất số; người tổng hợp khớp 16 chú thích theo nội dung và số trên ảnh trang. Câu "context recall To compute" thiếu dấu chấm. Các hình (6-1 tới 6-16) đều đọc từ ảnh trang.
-> - **Quy ước dịch:** giữ tiếng Anh cho RAG, agent, retriever, embedding, chunk, token, prompt, context, finetuning, reranking, function calling, benchmark; "term-based retrieval" dịch là "truy xuất dựa trên từ khoá" (sách cũng gọi là lexical retrieval), "embedding-based retrieval" là "truy xuất dựa trên embedding" (sách cũng gọi là semantic retrieval — truy xuất ngữ nghĩa); "planning" là lập kế hoạch, "reflection" là phản tư, "tool inventory" là bộ công cụ, "write actions" là hành động ghi. Sách dùng "document" cho cả tài liệu và đoạn (chunk); bản tổng hợp cũng vậy.
-> - **Những gì đã đổi sau 2024 (theo hiểu biết của người tổng hợp):** xem mục "Những gì đã thay đổi từ cuối 2024" ở cuối file (MCP, mô hình suy luận, agent dùng máy tính, deep research, context 1 triệu token trở lên).
+**Mô hình trả lời sai và bịa nhiều hơn khi thiếu thông tin, nên phải dựng context riêng cho từng truy vấn: RAG lấy thông tin liên quan từ nguồn ngoài, còn agent cho mô hình công cụ để vừa thu thập thông tin vừa tác động lên môi trường; chất lượng của cả hai phụ thuộc vào bộ truy xuất (retriever), khả năng lập kế hoạch của mô hình và hệ thống bộ nhớ.**
+
+Phần RAG: mẫu "truy xuất rồi sinh" có từ Chen và cộng sự (2017), tên RAG do Lewis và cộng sự (2020) đặt; tác giả cho rằng context dài không xoá bỏ RAG vì dữ liệu luôn vượt context và mô hình không dùng tốt context dài (Anthropic gợi ý: kho tri thức dưới 200.000 token, khoảng 500 trang, thì đưa thẳng vào prompt).
+
+Retriever có hai việc: lập chỉ mục và truy vấn. Truy xuất dựa trên từ khoá (TF-IDF, chỉ mục ngược của Elasticsearch, BM25) nhanh, rẻ, mạnh ngay từ đầu nhưng khó cải thiện; truy xuất dựa trên embedding (cơ sở dữ liệu vector, k-NN hoặc các thuật toán ANN như LSH, HNSW, product quantization, IVF với 100–10.000 vector mỗi cụm, Annoy) hiểu ngữ nghĩa, cải thiện được bằng finetuning nhưng đắt hơn — chi tiêu cho cơ sở dữ liệu vector có thể bằng một phần năm tới một nửa chi tiêu cho API mô hình — và dễ làm mất từ khoá như mã lỗi.
+
+Hệ thống thật thường kết hợp (hybrid search): lọc rẻ rồi xếp hạng lại, hoặc gộp nhiều bảng xếp hạng bằng RRF với hằng số k = 60. Bốn chiến thuật tối ưu truy xuất: chia đoạn (chunking), xếp hạng lại, viết lại truy vấn, và truy xuất có ngữ cảnh (Anthropic thêm 50–100 token mô tả vào mỗi đoạn). RAG mở rộng sang ảnh (CLIP) và bảng (text-to-SQL).
+
+Phần agent: agent là bất cứ thứ gì cảm nhận và tác động lên môi trường; năng lực của nó do bộ công cụ (tăng cường tri thức, mở rộng năng lực, hành động ghi) và bộ lập kế hoạch quyết định. Agent cần mô hình mạnh vì lỗi cộng dồn: đúng 95% mỗi bước thì sau 10 bước chỉ còn khoảng 60%, sau 100 bước còn 0,6%.
+
+Kế hoạch nên tách khỏi thực thi, được kiểm định trước khi chạy, có thể viết bằng tên hàm hoặc ngôn ngữ tự nhiên, theo luồng tuần tự, song song, rẽ nhánh hay vòng lặp; phản tư (ReAct, Reflexion) giúp sửa lỗi nhưng tốn token. Chọn công cụ phải thử nghiệm (Toolformer 5 công cụ, Chameleon 13, Gorilla 1.645 API). Agent hỏng theo ba kiểu: lỗi lập kế hoạch, lỗi công cụ, kém hiệu quả.
+
+Cuối chương là bộ nhớ ba tầng (tri thức nội tại, bộ nhớ ngắn hạn là context, bộ nhớ dài hạn là nguồn ngoài) và các chiến lược quản lý bộ nhớ (FIFO, tóm tắt, phản tư).
 
 ## Sơ đồ
 
@@ -701,7 +695,7 @@ Tài liệu chuyên ngành thường chia thuật toán truy xuất thành **th�
 Với một truy vấn, cách thẳng nhất để tìm tài liệu liên quan là dùng từ khoá; có người gọi cách này là **truy xuất từ vựng** (lexical retrieval). Ví dụ với truy vấn "AI engineering", hệ thống lấy mọi tài liệu chứa "AI engineering". Cách này có hai vấn đề:
 
 1. **Quá nhiều tài liệu chứa từ đó**, và context của mô hình không đủ chỗ cho tất cả. Một heuristic là lấy các tài liệu chứa từ đó nhiều lần nhất, với giả định từ xuất hiện càng nhiều trong một tài liệu thì tài liệu đó càng liên quan tới từ. Số lần một từ xuất hiện trong một tài liệu gọi là **tần suất từ** (term frequency, TF).
-2. **Prompt dài có nhiều từ, từ nào quan trọng?** Ví dụ prompt "Easy-to-follow recipes for Vietnamese food to cook at home" (công thức món Việt dễ làm tại nhà) có chín từ: easy-to-follow, recipes, for, vietnamese, food, to, cook, at, home. Ta muốn tập trung vào các từ nhiều thông tin như *vietnamese* và *recipes*, không phải *for* và *at*. Trực giác là: càng nhiều tài liệu chứa một từ, từ đó càng ít thông tin — "for" và "at" có trong hầu hết tài liệu. Vậy tầm quan trọng của một từ tỷ lệ nghịch với số tài liệu chứa nó. Chỉ số này gọi là **tần suất tài liệu nghịch đảo** (inverse document frequency, IDF). Lời văn của sách tả cách tính: đếm số tài liệu chứa từ, rồi lấy tổng số tài liệu chia cho số đó; nếu có 10 tài liệu và 5 tài liệu chứa từ, IDF là 10 / 5 = 2. IDF càng cao, từ càng quan trọng. (Công thức ngay sau đó có thêm log; xem khối Lưu ý.)
+2. **Prompt dài có nhiều từ, từ nào quan trọng?** Ví dụ prompt "Easy-to-follow recipes for Vietnamese food to cook at home" (công thức món Việt dễ làm tại nhà) có chín từ: easy-to-follow, recipes, for, vietnamese, food, to, cook, at, home. Ta muốn tập trung vào các từ nhiều thông tin như *vietnamese* và *recipes*, không phải *for* và *at*. Trực giác là: càng nhiều tài liệu chứa một từ, từ đó càng ít thông tin — "for" và "at" có trong hầu hết tài liệu. Vậy tầm quan trọng của một từ tỷ lệ nghịch với số tài liệu chứa nó. Chỉ số này gọi là **tần suất tài liệu nghịch đảo** (inverse document frequency, IDF). Lời văn của sách tả cách tính: đếm số tài liệu chứa từ, rồi lấy tổng số tài liệu chia cho số đó; nếu có 10 tài liệu và 5 tài liệu chứa từ, IDF là 10 / 5 = 2. IDF càng cao, từ càng quan trọng. (Công thức ngay sau đó có thêm log; xem mục Lưu ý cuối chương.)
 
 **TF-IDF** là thuật toán kết hợp hai chỉ số TF và IDF. Về toán học, điểm TF-IDF của tài liệu D với truy vấn Q tính như sau:
 
@@ -749,7 +743,7 @@ trong đó |D| là độ dài tài liệu (số từ), avgdl là độ dài trun
 
 **Tách từ (tokenization).** Một bước tác giả đã lướt qua là tách truy vấn thành các từ riêng. Cách đơn giản nhất là tách theo từ, mỗi từ là một "term". Nhưng cách này làm vỡ các cụm nhiều từ: "hot dog" bị tách thành "hot" và "dog", không phần nào giữ nghĩa gốc (bánh mì kẹp xúc xích). Một cách giảm nhẹ là coi các n-gram phổ biến nhất là một từ: nếu bigram "hot dog" phổ biến, nó được coi là một từ. Ngoài ra có thể chuyển mọi ký tự thành chữ thường, bỏ dấu câu, bỏ stop word (như "the", "and", "is"). Các giải pháp truy xuất từ khoá thường tự làm những việc này; các thư viện NLP cổ điển như NLTK (Natural Language Toolkit), spaCy và CoreNLP của Stanford cũng có chức năng tách từ.
 
-**Truy xuất theo độ trùng n-gram.** Sách nhắc lại việc đo độ tương đồng từ vựng giữa hai văn bản bằng độ trùng n-gram (sách ghi "Chương 4"; nội dung này nằm ở Chương 3 — xem khối Lưu ý). Có thể truy xuất tài liệu theo độ trùng n-gram với truy vấn không? Có. Cách này tốt nhất khi truy vấn và tài liệu dài tương đương. Nếu tài liệu dài hơn truy vấn nhiều, khả năng chúng chứa n-gram của truy vấn tăng lên, nhiều tài liệu có điểm trùng cao như nhau, khó phân biệt tài liệu thực sự liên quan với tài liệu ít liên quan.
+**Truy xuất theo độ trùng n-gram.** Sách nhắc lại việc đo độ tương đồng từ vựng giữa hai văn bản bằng độ trùng n-gram (sách ghi "Chương 4"; nội dung này nằm ở Chương 3 — xem mục Lưu ý cuối chương). Có thể truy xuất tài liệu theo độ trùng n-gram với truy vấn không? Có. Cách này tốt nhất khi truy vấn và tài liệu dài tương đương. Nếu tài liệu dài hơn truy vấn nhiều, khả năng chúng chứa n-gram của truy vấn tăng lên, nhiều tài liệu có điểm trùng cao như nhau, khó phân biệt tài liệu thực sự liên quan với tài liệu ít liên quan.
 
 #### Truy xuất dựa trên embedding (Embedding-based retrieval, trang PDF 507–512)
 
@@ -1720,7 +1714,7 @@ Chương gom hai chủ đề nóng nhất của 2023–2024 vào một khung chu
 
 ### Những chỗ đơn giản hoá hoặc chưa chặt
 
-- **Công thức:** IDF được tả hai cách khác nhau (có và không có log); BM25 không có công thức; RRF có ví dụ k = 0 nhưng khuyên k = 60 mà không giải thích vai trò làm phẳng (xem khối Lưu ý).
+- **Công thức:** IDF được tả hai cách khác nhau (có và không có log); BM25 không có công thức; RRF có ví dụ k = 0 nhưng khuyên k = 60 mà không giải thích vai trò làm phẳng (xem mục Lưu ý cuối chương).
 - **Đánh giá retriever:** precision và recall được định nghĩa nhưng không có ví dụ số; NDCG, MAP, MRR chỉ được nêu tên.
 - **Chiến lược chia đoạn:** không có con số thực nghiệm nào về kích thước đoạn tốt; "phải thử nghiệm" là đúng nhưng không cho điểm khởi đầu.
 - **Truy xuất có ngữ cảnh:** sách không nêu kết quả đo của Anthropic; theo hiểu biết của người tổng hợp, bài "Introducing Contextual Retrieval" (9/2024) báo giảm khoảng 49% số lần truy xuất thất bại khi kết hợp contextual embedding với contextual BM25, và khoảng 67% khi thêm reranking — và chi phí sinh context được giảm nhờ prompt caching.
@@ -1763,3 +1757,145 @@ Chương gom hai chủ đề nóng nhất của 2023–2024 vào một khung chu
   - Câu hỏi về số liệu (doanh thu quý, tồn kho) nên đi qua text-to-SQL trên bảng thay vì truy xuất văn bản; luôn hiện câu SQL và kết quả để kiểm tra.
   - Ví dụ của chương về agent mua bán cổ phiếu theo báo cáo lợi nhuận là minh hoạ luồng rẽ nhánh, không phải khuyến nghị: hành động ghi có hậu quả tài chính (chuyển tiền, đặt lệnh) cần phê duyệt của người và giới hạn quyền.
   - Phép tính lỗi cộng dồn áp cho mọi quy trình phân tích nhiều bước bằng AI (thu thập dữ liệu → làm sạch → mô hình → báo cáo): mỗi bước cần kiểm tra độc lập, giống kiểm soát nội bộ nhiều lớp.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 6 trên một trang: sáu nhánh lớn theo các mục chính của chương gốc (mục 1–3 về RAG, mục 4 về thuật toán truy xuất, mục 5–6 về tối ưu truy xuất và RAG ngoài văn bản, mục 7–9 về agent và công cụ, mục 10 về lập kế hoạch, mục 11–12 về kiểu hỏng và bộ nhớ), mỗi nhánh ghi luận điểm, quy tắc chọn lựa và con số quan trọng nhất; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+mindmap
+  root((Chương 6: mô hình cần context riêng cho từng truy vấn, dựng bằng RAG và agent))
+    Mục 1–3 — RAG dựng context và vẫn cần dù context dài ra
+      Chỉ dẫn chung cho mọi truy vấn, context riêng cho từng truy vấn
+        Thiếu context, mô hình dễ trả lời sai và bịa
+        Dựng context tương đương feature engineering của học máy cổ điển
+      Nguồn gốc
+        Chen và cộng sự 2017: lấy 5 trang Wikipedia liên quan nhất rồi đọc để trả lời
+        Lewis và cộng sự 2020 đặt tên RAG, thấy mô hình trả lời chi tiết hơn và bớt bịa
+      Context dài không xoá bỏ RAG
+        Dữ liệu luôn tăng nhanh hơn độ dài context
+        Context càng dài mô hình càng dễ chú ý nhầm, mỗi token thêm tốn tiền và độ trễ
+        Anthropic: kho tri thức dưới 200.000 token, khoảng 500 trang, thì đưa thẳng vào prompt
+      Kiến trúc hai thành phần
+        Retriever lấy thông tin, generator sinh câu trả lời từ thông tin đó
+        Retriever có hai việc: lập chỉ mục trước và truy vấn khi cần
+        Thành bại của RAG phụ thuộc chất lượng retriever
+    Mục 4 — Truy xuất là xếp hạng tài liệu theo độ liên quan
+      Truy xuất dựa trên từ khoá
+        TF đếm số lần từ xuất hiện, IDF = log của N chia số tài liệu chứa từ
+        Chỉ mục ngược của Elasticsearch ánh xạ từ sang tài liệu chứa nó
+        BM25 chuẩn hoá theo độ dài tài liệu, là mốc so sánh rất khó vượt
+        Nhanh, rẻ, mạnh ngay từ đầu nhưng khó cải thiện và nhầm khi từ đa nghĩa
+      Truy xuất dựa trên embedding
+        Truy vấn và tài liệu thành embedding, lấy k đoạn gần nhất trong cơ sở dữ liệu vector
+        k-NN chính xác nhưng chậm, kho lớn dùng ANN: LSH, HNSW, product quantization, IVF, Annoy
+        Hiểu nghĩa và cải thiện được bằng finetuning nhưng làm mờ từ khoá như mã lỗi
+        Chi tiêu cho cơ sở dữ liệu vector có thể bằng 1/5 tới 1/2 chi tiêu API mô hình
+      Đánh giá retriever
+        Context precision: bao nhiêu phần trăm tài liệu lấy về có liên quan
+        Context recall: bao nhiêu phần trăm tài liệu liên quan được lấy về, khó đo vì phải gán nhãn cả kho
+        Đánh giá ba lớp: truy xuất, embedding, đầu ra cuối
+      Kết hợp thành hybrid search
+        Nối tiếp: retriever rẻ lọc ứng viên rồi cơ chế chính xác hơn xếp hạng lại
+        Song song: gộp các bảng xếp hạng bằng RRF, cộng 1 chia cho k cộng hạng, k thường là 60
+    Mục 5–6 — Bốn chiến thuật tối ưu truy xuất và RAG ngoài văn bản
+      Chia đoạn
+        Chia đều, chia đệ quy theo mục rồi đoạn văn rồi câu, chia theo token
+        Chồng lấn giữ thông tin ở ranh giới, ví dụ đoạn 2.048 ký tự chồng 20 ký tự
+        Đoạn nhỏ cho thông tin đa dạng nhưng dễ mất ý và gấp đôi số vector phải lưu
+        Không có kích thước tốt nhất, phải thử nghiệm
+      Xếp hạng lại
+        Giảm số tài liệu cho vừa context, có thể ưu tiên dữ liệu mới hơn
+        Trong context, thứ tự ít quan trọng hơn trong tìm kiếm, miễn tài liệu được đưa vào
+      Viết lại truy vấn
+        Biến câu phụ thuộc hội thoại thành câu tự đủ nghĩa, như Còn Emily Doe thì sao
+        Thiếu thông tin để giải thì phải thừa nhận, không bịa ra tên
+      Truy xuất có ngữ cảnh
+        Thêm metadata, thực thể như mã lỗi, câu hỏi mà đoạn trả lời được
+        Anthropic cho mô hình viết 50–100 token mô tả vị trí đoạn trong tài liệu gốc
+      RAG ngoài văn bản
+        Đa phương thức: dùng embedding CLIP chung cho ảnh và văn bản
+        Dữ liệu bảng: text-to-SQL → chạy SQL → sinh câu trả lời từ kết quả
+    Mục 7–9 — Agent là thứ cảm nhận và tác động lên môi trường
+      Định nghĩa
+        Agent được xác định bởi môi trường và tập hành động mà công cụ mở ra
+        AI là bộ não: lập kế hoạch, gọi công cụ, quyết định đã xong chưa
+        RAG là agent đơn giản, retriever và bộ chạy SQL là công cụ
+      Agent cần mô hình mạnh
+        Lỗi cộng dồn: đúng 95% mỗi bước còn khoảng 60% sau 10 bước, 0,6% sau 100 bước
+        Có công cụ thì tác động lớn hơn nên thất bại cũng nặng hơn
+      Ba nhóm công cụ
+        Tăng cường tri thức: truy xuất, SQL, duyệt web giúp mô hình không lỗi thời
+        Mở rộng năng lực: máy tính, trình thông dịch mã, sinh ảnh; Chameleon 13 công cụ +11,37% ScienceQA, +17% TabMWP
+        Hành động ghi: sửa dữ liệu, gửi email, chuyển tiền, cần niềm tin và bảo mật cao nhất
+    Mục 10 — Lập kế hoạch quyết định agent làm có hiệu quả không
+      Tách lập kế hoạch khỏi thực thi
+        Sinh kế hoạch → kiểm định bằng heuristic hoặc AI judge → thực thi → đánh giá đầu ra
+        Tránh agent chạy hàng giờ một kế hoạch vô ích
+        Con người phê duyệt các thao tác rủi ro như cập nhật cơ sở dữ liệu
+      Mô hình có lập kế hoạch được không
+        LeCun và Kambhampati cho là không, câu hỏi vẫn còn mở
+        Lập kế hoạch là tìm kiếm có quay lui, cần biết kết quả của mỗi hành động
+      Sinh kế hoạch và function calling
+        Khai báo công cụ gồm tên, tham số, mô tả; chế độ required, none, auto
+        API đảm bảo hàm hợp lệ nhưng không đảm bảo giá trị tham số đúng, luôn kiểm tra tham số
+        Kế hoạch bằng ngôn ngữ tự nhiên bền trước thay đổi API nhưng cần bộ dịch sang lệnh
+      Luồng điều khiển
+        Tuần tự, song song, rẽ nhánh, vòng lặp; song song giảm độ trễ
+        Kế hoạch chi tiết khó sinh dễ thực thi, lập kế hoạch phân cấp để cân bằng
+      Phản tư và chọn công cụ
+        ReAct xen kẽ suy nghĩ, hành động, quan sát; Reflexion tách bộ đánh giá và tự phản tư
+        Phản tư không bắt buộc để chạy nhưng cần để thành công, đổi lại tốn token và độ trễ
+        Chọn công cụ bằng thực nghiệm: ablation, phân bố lời gọi; Toolformer 5, Gorilla 1.645 API
+    Mục 11–12 — Ba kiểu hỏng của agent và bộ nhớ ba tầng
+      Lỗi lập kế hoạch
+        Gọi công cụ không có, sai tham số, sai giá trị tham số
+        Sai mục tiêu hoặc ràng buộc, kể cả quá hạn thời gian
+        Phản tư sai: xếp 40 trong 50 người mà khăng khăng đã xong
+      Lỗi công cụ và kém hiệu quả
+        Công cụ cho đầu ra sai, dịch sai, hoặc thiếu công cụ cần thiết
+        In ra mọi lời gọi công cụ và đầu ra, kiểm thử từng công cụ độc lập
+        Đo số bước, chi phí, thời gian mỗi nhiệm vụ so với mốc là agent khác hoặc người
+      Ba tầng bộ nhớ theo tần suất dùng
+        Tri thức nội tại trong trọng số cho thông tin thiết yếu mọi nhiệm vụ
+        Bộ nhớ ngắn hạn là context, nhanh nhưng hạn chế
+        Bộ nhớ dài hạn là nguồn ngoài truy xuất được, xoá được mà không sửa mô hình
+      Quản lý bộ nhớ ngắn hạn
+        Dành 30% context cho truy xuất thì ngắn hạn tối đa 70%, phần tràn chuyển ra dài hạn
+        FIFO dễ làm nhưng có thể xoá mất tin nhắn đầu nêu mục đích hội thoại
+        Tóm tắt loại dư thừa, phản tư để chèn, gộp hay thay thông tin mâu thuẫn
+    Thông điệp xuyên suốt
+      RAG là trường hợp riêng của agent, retriever chỉ là một công cụ
+      Agent càng tự động, thất bại càng có thể thảm khốc, cần phòng thủ chặt
+      RAG và agent chỉ tác động qua đầu vào, Chương 7 chuyển sang sửa chính mô hình
+```
+
+## Nguồn
+
+Chip Huyen, *AI Engineering: Building Applications with Foundation Models*, O'Reilly Media, ấn bản đầu tiên (12/2024), Chương 6 "RAG and Agents", trang PDF 494–593.
+
+## Tác giả
+
+Chip Huyen — nhà văn và nhà khoa học máy tính chuyên về hệ thống học máy; từng làm ở NVIDIA, Snorkel AI, sáng lập một startup hạ tầng AI (sau được mua lại), dạy hệ thống học máy ở Đại học Stanford; tác giả *Designing Machine Learning Systems* (O'Reilly 2022) và bốn sách tiếng Việt bán chạy, trong đó có bộ *Xách ba lô lên và đi*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 5 ([C05-prompt-engineering.md](C05-prompt-engineering.md)) dạy cách viết *chỉ dẫn* (instruction) cho mô hình — phần chung cho mọi truy vấn. Chương 6 bàn phần còn lại của đầu vào: *context* riêng cho từng truy vấn, và hai mẫu hình dựng context phổ biến nhất là RAG (truy xuất rồi sinh) và agent (mô hình dùng công cụ, lập kế hoạch, hành động). Chương dùng lại nhiều khái niệm của các chương trước: embedding và đánh giá bằng AI judge ([C03-phuong-phap-danh-gia.md](C03-phuong-phap-danh-gia.md)), đánh giá hệ thống theo từng thành phần ([C04-danh-gia-he-thong-ai.md](C04-danh-gia-he-thong-ai.md)), chain-of-thought, tự phê bình, độ dài context và tấn công prompt ([C05-prompt-engineering.md](C05-prompt-engineering.md)), semantic parsing và đầu ra có cấu trúc ([C02-hieu-ve-mo-hinh-nen-tang.md](C02-hieu-ve-mo-hinh-nen-tang.md)). RAG và agent đều là phương pháp dựa trên prompt — không sửa mô hình; Chương 7 ([C07-finetuning.md](C07-finetuning.md)) chuyển sang sửa chính mô hình bằng finetuning. Chương 10 ([C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md](C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md)) đặt RAG, agent và bộ nhớ vào kiến trúc tổng thể của một ứng dụng.
+
+## Lưu ý
+
+- **Định nghĩa IDF không nhất quán (trang PDF 504):** lời văn nói IDF là tổng số tài liệu chia cho số tài liệu chứa từ ("10 / 5 = 2"), nhưng công thức ngay dưới lại là IDF(t) = log(N / C(t)). Theo công thức, ví dụ cho log(2) ≈ 0,693 (log tự nhiên) hoặc 0,301 (log cơ số 10), không phải 2. Thứ tự xếp hạng không đổi vì log là hàm đồng biến, nhưng giá trị số khác; công thức có log là dạng chuẩn.
+- **Công thức BM25 không được nêu:** sách chỉ nói BM25 "chuẩn hoá tần suất từ theo độ dài tài liệu". Bản tổng hợp chép công thức BM25 chuẩn (Robertson và Zaragoza 2009, tài liệu sách dẫn ở chú thích) và ghi rõ là người tổng hợp bổ sung.
+- **"Elasticsearch và BM25" được gọi là hai giải pháp ngang hàng (nhận xét của người tổng hợp):** Elasticsearch là phần mềm tìm kiếm, BM25 là hàm chấm điểm; Elasticsearch (qua Lucene) dùng BM25 làm hàm chấm điểm mặc định từ phiên bản 5.0 (2016). So sánh không sai về thực hành nhưng trộn hai cấp khác nhau.
+- **RRF (trang PDF 519–520):** ví dụ trực quan (hạng 1 được 1 điểm, hạng 2 được 0,5 điểm, tổng 1,5) tương ứng với k = 0; với k = 60 như sách khuyên, cùng tài liệu đó được 1/61 + 1/62 ≈ 0,0325. Lý do "tránh chia cho 0" chỉ cần khi hạng đánh số từ 0; vai trò chính của k là làm phẳng chênh lệch giữa các hạng đầu (người tổng hợp tính).
+- **Tham chiếu chương sai (trang PDF 506):** sách viết "Chapter 4 discusses measuring the lexical similarity between two texts based on their n-gram overlap"; phần độ tương đồng từ vựng (lexical similarity) và n-gram nằm ở Chương 3 ([C03-phuong-phap-danh-gia.md](C03-phuong-phap-danh-gia.md)); Chương 4 chỉ nhắc n-gram khi bàn nhiễm bẩn dữ liệu benchmark.
+- **Ví dụ lập kế hoạch Kitty Vogue không nhất quán (trang PDF 555–558):** lời dẫn nói agent có ba công cụ (lấy sản phẩm theo giá, lấy sản phẩm bán chạy, lấy thông tin sản phẩm), nhưng prompt liệt kê năm hành động và không có hàm "theo giá"; prompt khai báo `get_today_date()` nhưng kế hoạch sinh ra gọi `get_time()`; prompt khai báo `fetch_top_products` nhưng ví dụ tham số gọi `retrieve_top_products`. Có thể tác giả cố ý minh hoạ rằng mô hình gọi sai tên hàm, nhưng sách không nói vậy.
+- **Hình 6-11 (trang PDF 566):** ví dụ "If" được dán nhãn "Example: customer support" nhưng nội dung là phân tích báo cáo lợi nhuận rồi mua hay bán cổ phiếu; ví dụ vòng lặp trong hình (truy vết bài đăng lan truyền ngược về người đăng gốc) khác ví dụ trong lời văn (sinh số ngẫu nhiên tới khi ra số nguyên tố). Bản tổng hợp chép cả hai.
+- **Bảng 6-3 (trang PDF 533) bị cắt cột:** cột cuối hiển thị "Unit" với các giá trị 10,99, 25, 18 — thực ra là đơn giá; Hình 6-7 cho đủ cột: Giá/đơn vị (USD), Số lượng (Units), Thành tiền. Câu SQL bị cắt ở cuối dòng ("INTERVAL 7 D…"), đúng là `INTERVAL 7 DAY);`. Bản tổng hợp chép bảng đầy đủ từ Hình 6-7.
+- **Lỗi chính tả:** "Vogager" là Voyager (Wang và cộng sự 2023); câu "tools … that help augment your agent's knowledge of your agent" (trang PDF 541) có lẽ định viết "knowledge of your organization/environment".
+- **Hình 6-14 và lời văn (nhận xét của người tổng hợp):** sách nói ChatGPT "có vẻ ưa" chú thích ảnh còn GPT-4 "ưa" truy xuất tri thức. Số trong hình: trên ScienceQA ChatGPT gọi chú thích ảnh 10% số chương trình so với GPT-4 6%, GPT-4 gọi truy xuất tri thức 81% so với ChatGPT 72%; khác biệt có nhưng nhỏ, từ "ưa" hơi mạnh.
+- **Hình 6-15:** tổng xác suất ra khỏi nút image_captioner là 0,01 + 0,79 + 0,21 = 1,01 do làm tròn.
+- **Kiểu dữ liệu trong Hình 6-10:** tham số `lbs` khai báo `"type": "int"`; JSON Schema dùng `"integer"` hoặc `"number"` (số cân thường không nguyên). Đây là mã giả, sách nói rõ không theo API cụ thể.
+- **Lớp chữ:** các chú thích cuối chương mất số; người tổng hợp khớp 16 chú thích theo nội dung và số trên ảnh trang. Câu "context recall To compute" thiếu dấu chấm. Các hình (6-1 tới 6-16) đều đọc từ ảnh trang.
+- **Quy ước dịch:** giữ tiếng Anh cho RAG, agent, retriever, embedding, chunk, token, prompt, context, finetuning, reranking, function calling, benchmark; "term-based retrieval" dịch là "truy xuất dựa trên từ khoá" (sách cũng gọi là lexical retrieval), "embedding-based retrieval" là "truy xuất dựa trên embedding" (sách cũng gọi là semantic retrieval — truy xuất ngữ nghĩa); "planning" là lập kế hoạch, "reflection" là phản tư, "tool inventory" là bộ công cụ, "write actions" là hành động ghi. Sách dùng "document" cho cả tài liệu và đoạn (chunk); bản tổng hợp cũng vậy.
+- **Những gì đã đổi sau 2024 (theo hiểu biết của người tổng hợp):** xem mục "Những gì đã thay đổi từ cuối 2024" ở cuối file (MCP, mô hình suy luận, agent dùng máy tính, deep research, context 1 triệu token trở lên).

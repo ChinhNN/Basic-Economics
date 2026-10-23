@@ -1,28 +1,24 @@
 # Chương 9 — Tối ưu suy luận (Inference Optimization)
 
-**Nguồn:** Chip Huyen, *AI Engineering: Building Applications with Foundation Models*, O'Reilly Media, ấn bản đầu tiên (12/2024), Chương 9 "Inference Optimization", trang PDF 773–851.
-**Tác giả:** Chip Huyen — nhà văn và nhà khoa học máy tính chuyên về hệ thống học máy; từng làm ở NVIDIA, Snorkel AI, sáng lập một startup hạ tầng AI (sau được mua lại), dạy hệ thống học máy ở Đại học Stanford; tác giả *Designing Machine Learning Systems* (O'Reilly 2022) và bốn sách tiếng Việt bán chạy, trong đó có bộ *Xách ba lô lên và đi*.
-**Vị trí trong lập luận của cả cuốn sách:** Các chương trước bàn cách làm cho mô hình *tốt hơn*: hiểu mô hình nền tảng và quá trình sinh token tự hồi quy, prefill và decode ([C02-hieu-ve-mo-hinh-nen-tang.md](C02-hieu-ve-mo-hinh-nen-tang.md)), đánh giá ([C03-phuong-phap-danh-gia.md](C03-phuong-phap-danh-gia.md), [C04-danh-gia-he-thong-ai.md](C04-danh-gia-he-thong-ai.md)), prompt ([C05-prompt-engineering.md](C05-prompt-engineering.md)), RAG và agent ([C06-rag-va-agent.md](C06-rag-va-agent.md)), finetuning cùng lượng tử hoá và biểu diễn số ([C07-finetuning.md](C07-finetuning.md)), dữ liệu và chưng cất mô hình ([C08-ky-thuat-du-lieu.md](C08-ky-thuat-du-lieu.md)). Chương 9 chuyển sang làm cho mô hình *nhanh hơn và rẻ hơn* khi phục vụ: chỉ số đo hiệu năng suy luận, phần cứng tăng tốc AI, các kỹ thuật tối ưu ở mức mô hình và mức dịch vụ. Đây là kỹ thuật thích nghi mô hình cuối cùng của cuốn sách; Chương 10 ([C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md](C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md)) ghép tất cả các kỹ thuật thành một kiến trúc ứng dụng hoàn chỉnh.
-**Ý chính:** **Tối ưu suy luận là tìm điểm nghẽn tính toán (giới hạn bởi năng lực tính hay bởi băng thông bộ nhớ) rồi xử lý nó ở mức mô hình (nén mô hình, vượt qua giải mã tự hồi quy, tối ưu attention, kernel) và mức dịch vụ (batching, tách prefill khỏi decode, prompt caching, song song hoá), đo bằng các chỉ số độ trễ, throughput và mức sử dụng phần cứng — và mục tiêu cuối cùng là xong việc nhanh hơn, rẻ hơn, không phải đạt mức sử dụng chip cao nhất.** Suy luận mô hình ngôn ngữ có hai bước: prefill xử lý song song các token đầu vào nên bị giới hạn bởi năng lực tính (compute-bound); decode sinh từng token một nên bị giới hạn bởi băng thông bộ nhớ (memory bandwidth-bound). Độ trễ tách thành TTFT (thời gian tới token đầu, do prefill) và TPOT (thời gian mỗi token đầu ra, do decode); tổng độ trễ bằng TTFT + TPOT × số token đầu ra; người đọc rất nhanh đọc khoảng 120 ms/token nên TPOT cỡ 6–8 token/giây là đủ. Độ trễ phải xem theo phân vị: mười yêu cầu có TTFT quanh 100 ms và một yêu cầu 3.000 ms cho trung bình 390 ms trong khi trung vị là 100 ms. Throughput gắn trực tiếp với chi phí: máy 2 USD/giờ sinh 100 token/giây tốn khoảng 5,556 USD cho một triệu token đầu ra; goodput chỉ đếm các yêu cầu thoả SLO. Chỉ số "GPU utilization" của nvidia-smi chỉ đo thời gian GPU bận; MFU so throughput thực với throughput lý thuyết ở FLOP/s đỉnh, MBU so băng thông dùng (số tham số × byte/tham số × token/giây) với băng thông đỉnh — mô hình 7B FP16 sinh 100 token/giây dùng 1,4 TB/s, tức 70% của A100 2 TB/s. Huấn luyện có MFU trên 50% được coi là tốt (PaLM đạt 46,2%). Bộ tăng tốc được đánh giá bằng ba con số FLOP/s, dung lượng và băng thông bộ nhớ (H100 SXM: 1.979 teraFLOP/s FP16 có sparsity; thứ bậc bộ nhớ CPU DRAM 25–50 GB/s, HBM 256 GB/s tới hơn 1,5 TB/s, SRAM trên chip hơn 10 TB/s nhưng chỉ khoảng 40 MB), cùng điện năng (một H100 chạy hết công suất cả năm tiêu khoảng 7.000 kWh). Ở mức mô hình: lượng tử hoá chỉ trọng số là cách phổ biến nhất; speculative decoding dùng mô hình nháp nhanh rồi để mô hình đích kiểm tra song song (DeepMind: mô hình nháp 4B nhanh gấp tám lần Chinchilla-70B, độ trễ giảm hơn một nửa mà không giảm chất lượng); inference with reference chép đoạn văn từ đầu vào (tăng tốc gấp đôi); parallel decoding (Lookahead, Medusa — tới 1,9 lần). KV cache tăng tuyến tính theo độ dài chuỗi và batch, tính bằng 2 × B × S × L × H × M (Llama 2 13B, batch 32, chuỗi 2.048: 54 GB); có thể giảm bằng thiết kế lại attention (cửa sổ cục bộ, multi-query, grouped-query, cross-layer — Character.AI giảm hơn 20 lần), quản lý KV cache (PagedAttention của vLLM) và kernel như FlashAttention. Ở mức dịch vụ: batching tĩnh, động, liên tục; tách prefill và decode sang máy khác nhau (tỷ lệ 2:1 tới 4:1 khi đầu vào dài và ưu tiên TTFT); prompt caching (Anthropic: hỏi đáp trên cuốn sách 100.000 token giảm TTFT từ 11,5 giây xuống 2,4 giây và chi phí 90%); song song hoá theo bản sao, tensor, pipeline, ngữ cảnh và chuỗi. Bốn kỹ thuật tác động lớn nhất trên nhiều trường hợp: lượng tử hoá, song song tensor, song song bản sao và tối ưu cơ chế attention.
+## Ý chính
 
-> **Lưu ý:**
-> - **Ví dụ MBU, trang PDF 793–794, sai phép nhân:** sách ghi "7B × 2 × 100 = 700 GB/s". Đúng là 7 × 10⁹ × 2 × 100 = 1,4 × 10¹² byte/giây, tức 1.400 GB/s (1,4 TB/s). Ở bước sau sách viết "(700 GB/s) / (2 TB/s) = 70%": kết quả 70% lại khớp với 1,4 TB/s chia 2 TB/s; nếu dùng 700 GB/s thì MBU chỉ là 35%. Vậy chỉ con số 700 GB/s là sai; bản tổng hợp dùng 1,4 TB/s.
-> - **Công thức MBU bị cắt:** trong cả lớp chữ lẫn ảnh trang PDF 793, ô code bị cắt ngang ở "(parameter count × bytes/param × tokens/s) / (the" (thanh cuộn ngang của bản ePub). Phần còn thiếu, theo ngữ cảnh, là băng thông bộ nhớ lý thuyết (đỉnh) của phần cứng; bản tổng hợp ghi đầy đủ như vậy.
-> - **Hình 9-4 (goodput), số liệu không khớp chú thích:** chú thích hình nói 10 yêu cầu/giây, 3 yêu cầu thoả SLO. Đọc các cột trong hình (SLO: TTFT ≤ 200 ms và TPOT ≤ 100 ms), mười cặp (TTFT, TPOT) là (150, 70), (180, 120), (220, 110), (250, 130), (140, 60), (260, 80), (210, 140), (170, 105), (260, 130), (220, 150) ms; chỉ hai yêu cầu (150, 70) và (140, 60) thoả cả hai điều kiện. Yêu cầu (260, 80) đạt TPOT nhưng trượt TTFT. Theo hình, goodput là 2 chứ không phải 3 yêu cầu/giây. Lời văn của sách dùng một ví dụ khác (100 yêu cầu/phút, 30 thoả SLO); hai ví dụ không mâu thuẫn nhau.
-> - **"SLO, software-level objective" (trang PDF 790):** SLO là viết tắt của *service-level objective* (mục tiêu mức dịch vụ), không phải "software-level objective".
-> - **"batching … can significantly reduce the service's throughput" (trang PDF 833):** phải là *tăng* throughput; batching giảm chi phí chính vì nó tăng throughput. Tương tự, câu "batching can improve throughput but reduce latency" (trang PDF 789–790) ý là batching làm *tăng* độ trễ (làm xấu độ trễ), không phải giảm độ trễ.
-> - **"the number of attention computations grows exponentially with sequence length" (trang PDF 822):** số phép tính attention tăng theo *bình phương* độ dài chuỗi, O(n²), như chính chú thích của sách ghi; "exponentially" (hàm mũ) là cách nói sai về mặt toán.
-> - **TPOT 120 ms và "6–8 tokens/second" (trang PDF 785):** 120 ms/token tương ứng 8,3 token/giây; 6–8 token/giây tương ứng 125–167 ms/token. Hai cách nói gần đúng chứ không bằng nhau.
-> - **Điện năng H100 (trang PDF 806):** sách nói một H100 chạy hết công suất một năm tiêu khoảng 7.000 kWh. Với công suất tối đa 700 W (H100 SXM), 0,7 kW × 8.760 giờ = 6.132 kWh (người tổng hợp tính). Con số của sách là ước lượng tròn, có thể đã tính thêm phần chênh của công suất tối đa so với TDP.
-> - **Bộ nhớ HBM (trang PDF 804):** sách nói "a consumer GPU has around 24–80 GB of HBM"; theo hiểu biết của người tổng hợp, GPU tiêu dùng (dòng GeForce) dùng GDDR — chính chú thích của sách cũng nói GPU tầm thấp và trung dùng GDDR — còn 24–80 GB HBM là của GPU trung tâm dữ liệu (A100 40/80 GB, H100 80 GB). Dải băng thông "256 GB/s tới hơn 1,5 TB/s" cũng thấp so với GPU cùng thời: chính sách dùng A100 80 GB với 2 TB/s ở ví dụ MBU, H100 SXM đạt khoảng 3,35 TB/s.
-> - **Lỗi in của sách (ảnh trang cũng in như vậy, không phải lỗi trích chữ):** "RAM has extremely high data transfer speeds" (trang PDF 804) phải là "SRAM"; "during the coding process" (trang PDF 814) phải là "decoding"; "Laviathan et al., 2022" (trang PDF 814) phải là Leviathan et al.; câu "This technique will be discussed 'Inference Service Optimization'" thiếu chữ "in".
-> - **Lớp chữ hỏng:** các chỉ số dưới x₁, x_{t+1}, x_{t+j} trong mục speculative decoding, parallel decoding và KV cache bị rời ra thành dòng riêng — bản tổng hợp đọc lại từ ảnh trang PDF 812, 818, 821.
-> - **Tên chip "Cerebras' Wafer-Scale Quant Processing Unit (QPU)" (trang PDF 798):** theo hiểu biết của người tổng hợp, chip của Cerebras được gọi là Wafer-Scale Engine (WSE); bản tổng hợp giữ cách gọi của sách nhưng ghi chú ở đây.
-> - **Bảng 9-1:** dòng GPT-3 không ghi số chip V100 (bài báo PaLM cũng không ghi); bản tổng hợp chép nguyên.
-> - **Bảng 9-2:** các con số FLOP/s của H100 SXM là con số *có sparsity* (ma trận thưa có cấu trúc 2:4); theo hiểu biết của người tổng hợp, con số cho ma trận dày đặc bằng một nửa (ví dụ FP16 khoảng 989 teraFLOP/s). Chú thích "peak FLOP/s hacking" của sách nói đúng về hiện tượng này.
-> - **Hình 9-5, 9-8, 9-14:** số liệu đọc bằng mắt từ ảnh cột, sai số khoảng ±1 điểm phần trăm (Hình 9-5, 9-8); Hình 9-14 có nhãn số trên cột nên chép chính xác.
-> - **Ví dụ bin-packing (trang PDF 841–842):** "đặt ba mô hình 13B trên GPU 40 GB" chỉ xét trọng số (3 × 13 GB = 39 GB ở 8 bit), chưa tính KV cache và bộ nhớ hoạt động; trong thực tế ba mô hình này không còn chỗ cho KV cache.
-> - **Quy ước dịch:** giữ tiếng Anh các thuật ngữ phổ biến (inference, prefill, decode, token, latency, throughput, goodput, batch/batching, KV cache, kernel, compiler, attention, speculative decoding, prompt caching, GPU, TPU, HBM, SRAM…) và giải thích ở lần đầu. "Compute-bound" dịch là "giới hạn bởi năng lực tính"; "memory bandwidth-bound" là "giới hạn bởi băng thông bộ nhớ"; "inference server" là "máy chủ suy luận", "inference service" là "dịch vụ suy luận"; "accelerator" là "bộ tăng tốc"; "parallelism" là "song song hoá".
+**Tối ưu suy luận là tìm điểm nghẽn tính toán (giới hạn bởi năng lực tính hay bởi băng thông bộ nhớ) rồi xử lý nó ở mức mô hình (nén mô hình, vượt qua giải mã tự hồi quy, tối ưu attention, kernel) và mức dịch vụ (batching, tách prefill khỏi decode, prompt caching, song song hoá), đo bằng các chỉ số độ trễ, throughput và mức sử dụng phần cứng — và mục tiêu cuối cùng là xong việc nhanh hơn, rẻ hơn, không phải đạt mức sử dụng chip cao nhất.**
+
+Suy luận mô hình ngôn ngữ có hai bước: prefill xử lý song song các token đầu vào nên bị giới hạn bởi năng lực tính (compute-bound); decode sinh từng token một nên bị giới hạn bởi băng thông bộ nhớ (memory bandwidth-bound).
+
+Độ trễ tách thành TTFT (thời gian tới token đầu, do prefill) và TPOT (thời gian mỗi token đầu ra, do decode); tổng độ trễ bằng TTFT + TPOT × số token đầu ra; người đọc rất nhanh đọc khoảng 120 ms/token nên TPOT cỡ 6–8 token/giây là đủ. Độ trễ phải xem theo phân vị: mười yêu cầu có TTFT quanh 100 ms và một yêu cầu 3.000 ms cho trung bình 390 ms trong khi trung vị là 100 ms.
+
+Throughput gắn trực tiếp với chi phí: máy 2 USD/giờ sinh 100 token/giây tốn khoảng 5,556 USD cho một triệu token đầu ra; goodput chỉ đếm các yêu cầu thoả SLO. Chỉ số "GPU utilization" của nvidia-smi chỉ đo thời gian GPU bận; MFU so throughput thực với throughput lý thuyết ở FLOP/s đỉnh, MBU so băng thông dùng (số tham số × byte/tham số × token/giây) với băng thông đỉnh — mô hình 7B FP16 sinh 100 token/giây dùng 1,4 TB/s, tức 70% của A100 2 TB/s. Huấn luyện có MFU trên 50% được coi là tốt (PaLM đạt 46,2%).
+
+Bộ tăng tốc được đánh giá bằng ba con số FLOP/s, dung lượng và băng thông bộ nhớ (H100 SXM: 1.979 teraFLOP/s FP16 có sparsity; thứ bậc bộ nhớ CPU DRAM 25–50 GB/s, HBM 256 GB/s tới hơn 1,5 TB/s, SRAM trên chip hơn 10 TB/s nhưng chỉ khoảng 40 MB), cùng điện năng (một H100 chạy hết công suất cả năm tiêu khoảng 7.000 kWh).
+
+Ở mức mô hình: lượng tử hoá chỉ trọng số là cách phổ biến nhất; speculative decoding dùng mô hình nháp nhanh rồi để mô hình đích kiểm tra song song (DeepMind: mô hình nháp 4B nhanh gấp tám lần Chinchilla-70B, độ trễ giảm hơn một nửa mà không giảm chất lượng); inference with reference chép đoạn văn từ đầu vào (tăng tốc gấp đôi); parallel decoding (Lookahead, Medusa — tới 1,9 lần).
+
+KV cache tăng tuyến tính theo độ dài chuỗi và batch, tính bằng 2 × B × S × L × H × M (Llama 2 13B, batch 32, chuỗi 2.048: 54 GB); có thể giảm bằng thiết kế lại attention (cửa sổ cục bộ, multi-query, grouped-query, cross-layer — Character.AI giảm hơn 20 lần), quản lý KV cache (PagedAttention của vLLM) và kernel như FlashAttention.
+
+Ở mức dịch vụ: batching tĩnh, động, liên tục; tách prefill và decode sang máy khác nhau (tỷ lệ 2:1 tới 4:1 khi đầu vào dài và ưu tiên TTFT); prompt caching (Anthropic: hỏi đáp trên cuốn sách 100.000 token giảm TTFT từ 11,5 giây xuống 2,4 giây và chi phí 90%); song song hoá theo bản sao, tensor, pipeline, ngữ cảnh và chuỗi.
+
+Bốn kỹ thuật tác động lớn nhất trên nhiều trường hợp: lượng tử hoá, song song tensor, song song bản sao và tối ưu cơ chế attention.
 
 ## Sơ đồ
 
@@ -946,7 +942,7 @@ Hình 9-4 của sách minh hoạ bằng mười yêu cầu (dịch vụ hoàn th
 | 9 | 260 | 130 | không | không | không |
 | 10 | 220 | 150 | không | không | không |
 
-Chú thích hình nói 3 yêu cầu thoả SLO nên goodput là 3 yêu cầu/giây; theo số liệu trong hình, chỉ 2 yêu cầu thoả cả hai điều kiện (xem khối Lưu ý). Ý chính không đổi: throughput 10 yêu cầu/giây nhưng goodput chỉ 2–3 yêu cầu/giây.
+Chú thích hình nói 3 yêu cầu thoả SLO nên goodput là 3 yêu cầu/giây; theo số liệu trong hình, chỉ 2 yêu cầu thoả cả hai điều kiện (xem mục Lưu ý cuối chương). Ý chính không đổi: throughput 10 yêu cầu/giây nhưng goodput chỉ 2–3 yêu cầu/giây.
 
 #### 5.3. Mức sử dụng, MFU và MBU (Utilization, MFU, and MBU, trang PDF 791–796)
 
@@ -966,7 +962,7 @@ MBU = (số tham số × byte/tham số × token/giây) / (băng thông bộ nh�
 
 Lý do (theo chú thích của sách ở mục giải mã tự hồi quy): mỗi bước sinh token phải chuyển toàn bộ tham số mô hình từ bộ nhớ băng thông cao tới đơn vị tính, nên mỗi token đầu ra "tốn" đúng một lần đọc toàn bộ trọng số.
 
-Ví dụ của sách, tính lại: mô hình 7B tham số ở FP16 (2 byte mỗi tham số), đạt 100 token/giây. Băng thông dùng là 7 × 10⁹ × 2 × 100 = 1,4 × 10¹² byte/giây = **1,4 TB/s** (sách in nhầm "700 GB/s"; xem khối Lưu ý). Nếu chạy trên GPU A100-80GB có băng thông lý thuyết 2 TB/s thì MBU = 1,4 / 2 = **70%**. Điều này nhấn mạnh tầm quan trọng của lượng tử hoá (Chương 7): ít byte mỗi tham số hơn thì mô hình ngốn ít băng thông quý giá hơn. (Ví dụ hôm nay, minh hoạ của người tổng hợp: cũng mô hình 7B ở INT4 chỉ cần 0,5 byte/tham số, nên ở cùng 1,4 TB/s về lý thuyết sinh được 1,4 × 10¹² / 3,5 × 10⁹ = 400 token/giây; một mô hình 70B ở FP16 trên GPU có băng thông 3,35 TB/s thì trần lý thuyết cho một chuỗi là 3,35 × 10¹² / 1,4 × 10¹¹ ≈ 24 token/giây.)
+Ví dụ của sách, tính lại: mô hình 7B tham số ở FP16 (2 byte mỗi tham số), đạt 100 token/giây. Băng thông dùng là 7 × 10⁹ × 2 × 100 = 1,4 × 10¹² byte/giây = **1,4 TB/s** (sách in nhầm "700 GB/s"; xem mục Lưu ý cuối chương). Nếu chạy trên GPU A100-80GB có băng thông lý thuyết 2 TB/s thì MBU = 1,4 / 2 = **70%**. Điều này nhấn mạnh tầm quan trọng của lượng tử hoá (Chương 7): ít byte mỗi tham số hơn thì mô hình ngốn ít băng thông quý giá hơn. (Ví dụ hôm nay, minh hoạ của người tổng hợp: cũng mô hình 7B ở INT4 chỉ cần 0,5 byte/tham số, nên ở cùng 1,4 TB/s về lý thuyết sinh được 1,4 × 10¹² / 3,5 × 10⁹ = 400 token/giây; một mô hình 70B ở FP16 trên GPU có băng thông 3,35 TB/s thì trần lý thuyết cho một chuỗi là 3,35 × 10¹² / 1,4 × 10¹¹ ≈ 24 token/giây.)
 
 Quan hệ giữa throughput (token/giây) với MBU, và giữa throughput với MFU, đều tuyến tính, nên có người dùng throughput để chỉ MBU và MFU. MFU và MBU thế nào là tốt phụ thuộc mô hình, phần cứng và tải. Tải compute-bound thường có MFU cao, MBU thấp; tải bandwidth-bound thường có MFU thấp, MBU cao.
 
@@ -1190,7 +1186,7 @@ Khi sinh x_{t+1}, thay vì tính lại vectơ key và value cho x₁, …, x_{t�
 
 Ghi chú của sách: KV cache chỉ dùng khi suy luận, không dùng khi huấn luyện. Khi huấn luyện, mọi token trong chuỗi đã biết trước nên việc dự đoán token kế có thể tính một lượt cho cả chuỗi thay vì tuần tự như khi suy luận; do đó không cần KV cache.
 
-Vì sinh một token cần tính điểm attention với mọi token trước đó, số phép tính attention tăng theo bình phương độ dài chuỗi — chú thích của sách ghi O(n²) (lời văn của sách viết "exponentially", xem khối Lưu ý). Kích thước KV cache thì tăng tuyến tính theo độ dài chuỗi. KV cache cũng tăng theo batch: một bài báo của Google (Pope và cộng sự, 2022) tính rằng với mô hình hơn 500B tham số dùng multi-head attention, batch 512 và độ dài ngữ cảnh 2.048, KV cache tổng cộng 3 TB, gấp ba lần trọng số của mô hình đó. (Người tổng hợp kiểm tra: 500B tham số × 2 byte ≈ 1 TB, nên 3 TB đúng là gấp ba.)
+Vì sinh một token cần tính điểm attention với mọi token trước đó, số phép tính attention tăng theo bình phương độ dài chuỗi — chú thích của sách ghi O(n²) (lời văn của sách viết "exponentially", xem mục Lưu ý cuối chương). Kích thước KV cache thì tăng tuyến tính theo độ dài chuỗi. KV cache cũng tăng theo batch: một bài báo của Google (Pope và cộng sự, 2022) tính rằng với mô hình hơn 500B tham số dùng multi-head attention, batch 512 và độ dài ngữ cảnh 2.048, KV cache tổng cộng 3 TB, gấp ba lần trọng số của mô hình đó. (Người tổng hợp kiểm tra: 500B tham số × 2 byte ≈ 1 TB, nên 3 TB đúng là gấp ba.)
 
 Kích thước KV cache cuối cùng bị giới hạn bởi bộ nhớ phần cứng sẵn có, tạo điểm nghẽn cho ứng dụng ngữ cảnh dài. Cache lớn cũng mất thời gian nạp vào bộ nhớ, có thể là vấn đề với ứng dụng cần độ trễ khắt khe. Yêu cầu tính toán và bộ nhớ của cơ chế attention là một lý do khiến ngữ cảnh dài hơn rất khó.
 
@@ -1270,7 +1266,7 @@ Compiler có thể là công cụ độc lập như Apache TVM và MLIR (Multi-L
 
 Phần lớn kỹ thuật tối ưu mức dịch vụ tập trung vào quản lý tài nguyên. Với lượng tài nguyên cố định (tính toán và bộ nhớ) và tải biến động (yêu cầu suy luận từ người dùng, có thể dùng các mô hình khác nhau), mục tiêu là phân bổ tài nguyên hiệu quả để tối ưu độ trễ và chi phí. Khác nhiều kỹ thuật mức mô hình, kỹ thuật mức dịch vụ không sửa mô hình và không nên làm đổi chất lượng đầu ra.
 
-**Batching** là một trong những cách dễ nhất để giảm chi phí. Trong sản xuất, dịch vụ có thể nhận nhiều yêu cầu cùng lúc; thay vì xử lý từng yêu cầu riêng, gom các yêu cầu tới gần cùng lúc thành một lô có thể tăng đáng kể throughput của dịch vụ (sách in nhầm "reduce"; xem khối Lưu ý). Nếu xử lý từng yêu cầu riêng giống mỗi người tự lái xe, thì batching giống cho mọi người lên chung một xe buýt: xe buýt chở được nhiều người hơn nhưng có thể làm hành trình của mỗi người dài hơn. Làm khéo thì ảnh hưởng tới độ trễ có thể rất nhỏ. Ba kỹ thuật batching chính:
+**Batching** là một trong những cách dễ nhất để giảm chi phí. Trong sản xuất, dịch vụ có thể nhận nhiều yêu cầu cùng lúc; thay vì xử lý từng yêu cầu riêng, gom các yêu cầu tới gần cùng lúc thành một lô có thể tăng đáng kể throughput của dịch vụ (sách in nhầm "reduce"; xem mục Lưu ý cuối chương). Nếu xử lý từng yêu cầu riêng giống mỗi người tự lái xe, thì batching giống cho mọi người lên chung một xe buýt: xe buýt chở được nhiều người hơn nhưng có thể làm hành trình của mỗi người dài hơn. Làm khéo thì ảnh hưởng tới độ trễ có thể rất nhỏ. Ba kỹ thuật batching chính:
 
 - **Batching tĩnh (static batching):** dịch vụ gom một số cố định đầu vào thành một lô — như xe buýt đợi kín ghế mới chạy. Nhược điểm: mọi yêu cầu phải đợi lô đầy mới được chạy, nên yêu cầu đầu tiên trong lô bị trễ tới khi yêu cầu cuối tới, dù yêu cầu cuối đến muộn đến đâu.
 - **Batching động (dynamic batching):** đặt cửa sổ thời gian tối đa cho mỗi lô. Nếu kích thước lô là bốn và cửa sổ 100 ms, máy chủ xử lý lô khi có đủ bốn yêu cầu hoặc khi đã qua 100 ms, tuỳ điều nào tới trước — như xe buýt chạy theo lịch cố định hoặc khi đầy. Cách này giữ độ trễ trong tầm kiểm soát, yêu cầu tới trước không bị yêu cầu tới sau giữ lại; nhược điểm là lô có thể chưa đầy khi xử lý, có thể lãng phí sức tính.
@@ -1531,7 +1527,7 @@ Tốc độ và chi phí suy luận quyết định một mô hình có dùng đ
 
 ### Những chỗ đơn giản hoá hoặc chưa chặt
 
-- Có các lỗi số học và câu chữ: 700 GB/s thay vì 1,4 TB/s; Hình 9-4 cho 2 chứ không phải 3 yêu cầu đạt SLO; "SLO, software-level objective"; batching "reduce throughput", "reduce latency"; số phép tính attention "tăng theo hàm mũ" (đúng ra là bình phương). Chi tiết ở khối Lưu ý.
+- Có các lỗi số học và câu chữ: 700 GB/s thay vì 1,4 TB/s; Hình 9-4 cho 2 chứ không phải 3 yêu cầu đạt SLO; "SLO, software-level objective"; batching "reduce throughput", "reduce latency"; số phép tính attention "tăng theo hàm mũ" (đúng ra là bình phương). Chi tiết ở mục Lưu ý cuối chương.
 - Công thức MBU coi mỗi token chỉ đọc trọng số một lần; bỏ qua phần đọc KV cache, vốn chiếm phần đáng kể khi ngữ cảnh dài hay batch lớn, và bỏ qua việc batching chia chi phí đọc trọng số cho nhiều chuỗi (MBU theo công thức tính trên tổng token/giây của lô).
 - Công thức KV cache 2 × B × S × L × H × M đúng cho multi-head attention; với grouped-query attention (phổ biến ở mô hình mở từ 2023), phải thay H bằng số đầu key-value × chiều mỗi đầu — sách nhắc GQA nhưng không nối với công thức.
 - Speculative decoding được mô tả theo kiểu "chấp nhận chuỗi con dài nhất mà mô hình đích đồng ý" (dạng greedy); phiên bản lấy mẫu của Leviathan và Chen dùng quy tắc chấp nhận xác suất để giữ đúng phân phối đầu ra — sách không nói rõ, cũng không cho công thức số token kỳ vọng.
@@ -1570,3 +1566,138 @@ Tốc độ và chi phí suy luận quyết định một mô hình có dùng đ
   - Các việc như tóm tắt báo cáo định kỳ, phân loại giao dịch, trích xuất dữ liệu từ hồ sơ khách hàng hợp với batch API (rẻ khoảng một nửa); các tài liệu dài dùng chung (báo cáo thường niên, quy định) hợp với prompt caching.
   - Quan hệ T ≤ p × N trong chú thích của sách là bài toán hoà vốn quen thuộc: chi phí cố định (huấn luyện) phải được bù bằng biên lợi nhuận trên số lần suy luận; giải thích vì sao nhà cung cấp lớn có lợi thế quy mô và vì sao giá suy luận có xu hướng giảm khi lượng dùng tăng.
   - Điện năng (7.000 kWh mỗi H100 mỗi năm) và địa điểm trung tâm dữ liệu là biến số quan trọng khi phân tích đầu tư hạ tầng AI, ngành điện và chuỗi cung ứng bán dẫn.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 9 trên một trang: sáu nhánh lớn theo các mục chính của chương gốc — điểm nghẽn (mục 3–4), chỉ số (mục 5), bộ tăng tốc (mục 6), tối ưu mức mô hình (mục 7–9 và 10–11), tối ưu mức dịch vụ (mục 12–15) — mỗi nhánh ghi cơ chế, quy tắc chọn và con số quan trọng nhất; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+mindmap
+  root((Chương 9: tìm điểm nghẽn rồi tối ưu ở mức mô hình và mức dịch vụ để suy luận nhanh hơn, rẻ hơn))
+    Mục 3–4 — Điểm nghẽn quyết định cách tối ưu
+      Hai loại điểm nghẽn
+        Compute-bound: bị chặn bởi số phép tính → cần chip nhiều FLOP/s hoặc nhiều chip
+        Bandwidth-bound: bị chặn bởi tốc độ chuyển dữ liệu bộ nhớ → cần chip băng thông cao
+        Cường độ số học, tức số phép tính trên mỗi byte, cho biết phép toán thuộc vùng nào
+      Hai bước suy luận của LLM
+        Prefill xử lý song song token đầu vào → compute-bound, quyết định TTFT
+        Decode sinh từng token, mỗi bước nạp toàn bộ trọng số → bandwidth-bound, quyết định TPOT
+        Hai bước khác đặc tính nên trong sản xuất thường chạy trên máy riêng
+      API trực tuyến và API theo lô
+        Trực tuyến ưu tiên độ trễ thấp; theo lô ưu tiên throughput, rẻ hơn 50%, trả kết quả sau vài giờ
+        Hợp batch API: sinh dữ liệu tổng hợp, báo cáo định kỳ, đánh chỉ mục lại dữ liệu
+        Streaming giảm thời gian chờ token đầu nhưng không chấm được câu trả lời trước khi hiển thị
+    Mục 5 — Đo đúng chỉ số trước khi tối ưu
+      Độ trễ tách thành TTFT và TPOT
+        Độ trễ tổng = TTFT + TPOT × số token đầu ra
+        Người đọc nhanh khoảng 120 ms/token → TPOT cỡ 6–8 token/giây là đủ
+        Agent và CoT: đo time to publish, tức token đầu người dùng thực sự nhìn thấy
+      Xem độ trễ theo phân vị, không theo trung bình
+        Mười TTFT quanh 100 ms cùng một yêu cầu 3.000 ms → trung bình 390 ms, trung vị 100 ms
+        Theo dõi p90, p95, p99 để phát hiện ngoại lai và lỗi
+      Throughput quyết định chi phí
+        Máy 2 USD/giờ sinh 100 token/giây → khoảng 5,556 USD mỗi triệu token đầu ra
+        1.000 yêu cầu: 1,11 USD decode cộng 0,33 USD prefill = 1,44 USD
+        Batching tăng throughput nhưng làm độ trễ xấu đi; LinkedIn tăng throughput 2–3 lần khi hy sinh TTFT, TPOT
+        Goodput chỉ đếm yêu cầu đạt SLO: 100 yêu cầu/phút, 30 đạt SLO → goodput 30
+      Mức sử dụng phần cứng
+        GPU utilization của nvidia-smi chỉ đo thời gian GPU bận, dễ gây hiểu lầm nhất
+        MFU = throughput thực chia throughput ở FLOP/s đỉnh; huấn luyện trên 50% là tốt, PaLM đạt 46,2%
+        MBU: 7B FP16 sinh 100 token/giây dùng 1,4 TB/s → 70% băng thông A100
+        Mục tiêu là xong việc nhanh hơn, rẻ hơn, không phải mức sử dụng chip cao nhất
+    Mục 6 — Bộ tăng tốc AI
+      GPU thắng nhờ xử lý song song
+        CPU vài nhân mạnh cho việc tuần tự; GPU hàng nghìn nhân nhỏ cho nhân ma trận
+        Nhân ma trận chiếm hơn 90% phép tính dấu phẩy động của mạng nơ-ron
+        Suy luận chiếm tới 90% chi phí học máy → chip chuyên suy luận ưu tiên độ chính xác thấp, bộ nhớ nhanh
+      Ba con số lớn khi chọn chip
+        FLOP/s gấp đôi mỗi lần giảm nửa độ chính xác: H100 có 989 TF32, 1.979 FP16, 3.958 FP8 teraFLOP/s
+        Thứ bậc bộ nhớ: CPU DRAM 25–50 GB/s, HBM 256 GB/s tới hơn 1,5 TB/s, SRAM hơn 10 TB/s nhưng chỉ khoảng 40 MB
+        Phần lớn tối ưu GPU là tận dụng tốt thứ bậc bộ nhớ này
+      Điện năng và chi phí
+        Một H100 chạy đỉnh cả năm tiêu khoảng 7.000 kWh, một hộ gia đình Mỹ tiêu 10.000 kWh
+        Ba câu hỏi khi mua chip: chạy được tải không, mất bao lâu, tốn bao nhiêu
+    Mục 7–9 — Mức mô hình: nén và vượt giải mã tuần tự
+      Tối ưu mức mô hình có thể đổi chất lượng
+        Cùng mô hình Llama ở bốn nhà cung cấp chênh 1–2 điểm benchmark, có chỗ khoảng 7 điểm
+      Nén mô hình
+        Lượng tử hoá chỉ trọng số phổ biến nhất: dễ, chạy ngay; 32 xuống 16 bit giảm nửa bộ nhớ
+        Chưng cất cho mô hình nhỏ có hành vi gần mô hình lớn cho nhu cầu cụ thể
+        Tỉa bỏ được hơn 90% tham số khác 0 nhưng ít dùng: khó làm, phần cứng ít khai thác tính thưa
+      Speculative decoding
+        Mô hình nháp sinh K token, mô hình đích kiểm tra song song, giữ đoạn dài nhất được chấp nhận
+        Dùng FLOP rảnh của decode, không đổi chất lượng, có sẵn trong vLLM, TensorRT-LLM, llama.cpp
+        DeepMind: nháp 4B nhanh gấp 8 lần Chinchilla-70B → độ trễ giảm hơn một nửa
+      Inference with reference và parallel decoding
+        Chép token nháp từ đầu vào, không cần mô hình phụ → nhanh gấp 2 với truy xuất, code, hội thoại nhiều lượt
+        Parallel decoding sinh nhiều token tương lai cùng lúc rồi kiểm tra: Lookahead, Medusa
+        Medusa thêm các đầu giải mã nhỏ, tăng tốc Llama 3.1 tới 1,9 lần nhưng khó triển khai
+    Mục 10–11 — Mức mô hình: attention, kernel và compiler
+      KV cache tái dùng key, value của các token trước
+        Kích thước = 2 × batch × độ dài chuỗi × số lớp × chiều mô hình × byte mỗi giá trị
+        Tăng tuyến tính theo chuỗi và batch: Llama 2 13B, batch 32, chuỗi 2.048 cần 54 GB
+        Mô hình hơn 500B, batch 512 → KV cache 3 TB, gấp ba trọng số
+      Ba cách giảm gánh nặng attention
+        Thiết kế lại: cửa sổ cục bộ, multi-query, grouped-query, cross-layer — chỉ làm được khi huấn luyện hoặc finetune
+        Character.AI giảm KV cache hơn 20 lần, bộ nhớ hết là điểm nghẽn cho batch lớn
+        Quản lý cache: PagedAttention của vLLM chia KV cache thành khối, giảm phân mảnh
+        Kernel FlashAttention gộp năm phép toán: khoảng 17 ms xuống khoảng 2 ms trên GPT-2
+      Kernel và compiler
+        Kernel là code tối ưu cho một chip, viết bằng CUDA, Triton, ROCm; chip mới cần kernel mới
+        Bốn kỹ thuật viết kernel: vectơ hoá, song song hoá, chia ô vòng lặp, gộp toán tử
+        Compiler chuyển mô hình thành mã cho phần cứng: torch.compile, XLA, TensorRT, TVM
+        PyTorch: Llama-7B từ 25,5 lên 244,7 token/giây/người dùng nhờ compile, int8, int4, speculative decoding
+    Mục 12–15 — Mức dịch vụ: quản lý tài nguyên, không sửa mô hình
+      Batching
+        Tĩnh: đợi đủ lô → yêu cầu đầu phải chờ yêu cầu cuối
+        Động: chạy khi đủ lô hoặc hết cửa sổ thời gian, ví dụ 4 yêu cầu hoặc 100 ms
+        Liên tục: trả ngay phản hồi đã xong và nạp yêu cầu mới vào chỗ trống
+      Tách prefill và decode
+        Chạy chung thì prefill của truy vấn mới chen ngang, làm chậm TPOT của decode đang chạy
+        Tỷ lệ máy prefill/decode 2:1 tới 4:1 khi đầu vào dài, ưu tiên TTFT; 1:2 tới 1:1 khi đầu vào ngắn, ưu tiên TPOT
+      Prompt caching
+        Lưu đoạn prompt trùng như system prompt, tài liệu dài, lịch sử hội thoại để chỉ xử lý một lần
+        Anthropic: hỏi đáp trên sách 100.000 token, TTFT 11,5 s xuống 2,4 s, chi phí giảm 90%
+        Gemini: token lưu đệm rẻ hơn 75% nhưng tính thêm phí lưu trữ cache
+      Song song hoá
+        Bản sao: dễ nhất, thêm bản sao để giảm độ trễ; xếp mô hình lên chip là bài toán xếp thùng
+        Tensor: chia toán tử cho nhiều thiết bị → phục vụ mô hình lớn và giảm độ trễ
+        Pipeline: chia các lớp cho thiết bị, tăng độ trễ nên thường dùng khi huấn luyện
+        Ngữ cảnh và chuỗi: chia chuỗi đầu vào hoặc chia toán tử để xử lý đầu vào dài
+    Thông điệp xuyên suốt
+      Chọn kỹ thuật theo tải: KV cache quan trọng với ngữ cảnh dài, prompt caching với prompt trùng lặp
+      Bốn kỹ thuật tác động lớn nhất: lượng tử hoá, song song tensor, song song bản sao, tối ưu attention
+      Phần lớn dùng API; hiểu kỹ thuật để so nhà cung cấp bằng chi phí mỗi yêu cầu và kiểm tra lại chất lượng
+```
+
+## Nguồn
+
+Chip Huyen, *AI Engineering: Building Applications with Foundation Models*, O'Reilly Media, ấn bản đầu tiên (12/2024), Chương 9 "Inference Optimization", trang PDF 773–851.
+
+## Tác giả
+
+Chip Huyen — nhà văn và nhà khoa học máy tính chuyên về hệ thống học máy; từng làm ở NVIDIA, Snorkel AI, sáng lập một startup hạ tầng AI (sau được mua lại), dạy hệ thống học máy ở Đại học Stanford; tác giả *Designing Machine Learning Systems* (O'Reilly 2022) và bốn sách tiếng Việt bán chạy, trong đó có bộ *Xách ba lô lên và đi*.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Các chương trước bàn cách làm cho mô hình *tốt hơn*: hiểu mô hình nền tảng và quá trình sinh token tự hồi quy, prefill và decode ([C02-hieu-ve-mo-hinh-nen-tang.md](C02-hieu-ve-mo-hinh-nen-tang.md)), đánh giá ([C03-phuong-phap-danh-gia.md](C03-phuong-phap-danh-gia.md), [C04-danh-gia-he-thong-ai.md](C04-danh-gia-he-thong-ai.md)), prompt ([C05-prompt-engineering.md](C05-prompt-engineering.md)), RAG và agent ([C06-rag-va-agent.md](C06-rag-va-agent.md)), finetuning cùng lượng tử hoá và biểu diễn số ([C07-finetuning.md](C07-finetuning.md)), dữ liệu và chưng cất mô hình ([C08-ky-thuat-du-lieu.md](C08-ky-thuat-du-lieu.md)). Chương 9 chuyển sang làm cho mô hình *nhanh hơn và rẻ hơn* khi phục vụ: chỉ số đo hiệu năng suy luận, phần cứng tăng tốc AI, các kỹ thuật tối ưu ở mức mô hình và mức dịch vụ. Đây là kỹ thuật thích nghi mô hình cuối cùng của cuốn sách; Chương 10 ([C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md](C10-kien-truc-ky-thuat-ai-va-phan-hoi-nguoi-dung.md)) ghép tất cả các kỹ thuật thành một kiến trúc ứng dụng hoàn chỉnh.
+
+## Lưu ý
+
+- **Ví dụ MBU, trang PDF 793–794, sai phép nhân:** sách ghi "7B × 2 × 100 = 700 GB/s". Đúng là 7 × 10⁹ × 2 × 100 = 1,4 × 10¹² byte/giây, tức 1.400 GB/s (1,4 TB/s). Ở bước sau sách viết "(700 GB/s) / (2 TB/s) = 70%": kết quả 70% lại khớp với 1,4 TB/s chia 2 TB/s; nếu dùng 700 GB/s thì MBU chỉ là 35%. Vậy chỉ con số 700 GB/s là sai; bản tổng hợp dùng 1,4 TB/s.
+- **Công thức MBU bị cắt:** trong cả lớp chữ lẫn ảnh trang PDF 793, ô code bị cắt ngang ở "(parameter count × bytes/param × tokens/s) / (the" (thanh cuộn ngang của bản ePub). Phần còn thiếu, theo ngữ cảnh, là băng thông bộ nhớ lý thuyết (đỉnh) của phần cứng; bản tổng hợp ghi đầy đủ như vậy.
+- **Hình 9-4 (goodput), số liệu không khớp chú thích:** chú thích hình nói 10 yêu cầu/giây, 3 yêu cầu thoả SLO. Đọc các cột trong hình (SLO: TTFT ≤ 200 ms và TPOT ≤ 100 ms), mười cặp (TTFT, TPOT) là (150, 70), (180, 120), (220, 110), (250, 130), (140, 60), (260, 80), (210, 140), (170, 105), (260, 130), (220, 150) ms; chỉ hai yêu cầu (150, 70) và (140, 60) thoả cả hai điều kiện. Yêu cầu (260, 80) đạt TPOT nhưng trượt TTFT. Theo hình, goodput là 2 chứ không phải 3 yêu cầu/giây. Lời văn của sách dùng một ví dụ khác (100 yêu cầu/phút, 30 thoả SLO); hai ví dụ không mâu thuẫn nhau.
+- **"SLO, software-level objective" (trang PDF 790):** SLO là viết tắt của *service-level objective* (mục tiêu mức dịch vụ), không phải "software-level objective".
+- **"batching … can significantly reduce the service's throughput" (trang PDF 833):** phải là *tăng* throughput; batching giảm chi phí chính vì nó tăng throughput. Tương tự, câu "batching can improve throughput but reduce latency" (trang PDF 789–790) ý là batching làm *tăng* độ trễ (làm xấu độ trễ), không phải giảm độ trễ.
+- **"the number of attention computations grows exponentially with sequence length" (trang PDF 822):** số phép tính attention tăng theo *bình phương* độ dài chuỗi, O(n²), như chính chú thích của sách ghi; "exponentially" (hàm mũ) là cách nói sai về mặt toán.
+- **TPOT 120 ms và "6–8 tokens/second" (trang PDF 785):** 120 ms/token tương ứng 8,3 token/giây; 6–8 token/giây tương ứng 125–167 ms/token. Hai cách nói gần đúng chứ không bằng nhau.
+- **Điện năng H100 (trang PDF 806):** sách nói một H100 chạy hết công suất một năm tiêu khoảng 7.000 kWh. Với công suất tối đa 700 W (H100 SXM), 0,7 kW × 8.760 giờ = 6.132 kWh (người tổng hợp tính). Con số của sách là ước lượng tròn, có thể đã tính thêm phần chênh của công suất tối đa so với TDP.
+- **Bộ nhớ HBM (trang PDF 804):** sách nói "a consumer GPU has around 24–80 GB of HBM"; theo hiểu biết của người tổng hợp, GPU tiêu dùng (dòng GeForce) dùng GDDR — chính chú thích của sách cũng nói GPU tầm thấp và trung dùng GDDR — còn 24–80 GB HBM là của GPU trung tâm dữ liệu (A100 40/80 GB, H100 80 GB). Dải băng thông "256 GB/s tới hơn 1,5 TB/s" cũng thấp so với GPU cùng thời: chính sách dùng A100 80 GB với 2 TB/s ở ví dụ MBU, H100 SXM đạt khoảng 3,35 TB/s.
+- **Lỗi in của sách (ảnh trang cũng in như vậy, không phải lỗi trích chữ):** "RAM has extremely high data transfer speeds" (trang PDF 804) phải là "SRAM"; "during the coding process" (trang PDF 814) phải là "decoding"; "Laviathan et al., 2022" (trang PDF 814) phải là Leviathan et al.; câu "This technique will be discussed 'Inference Service Optimization'" thiếu chữ "in".
+- **Lớp chữ hỏng:** các chỉ số dưới x₁, x_{t+1}, x_{t+j} trong mục speculative decoding, parallel decoding và KV cache bị rời ra thành dòng riêng — bản tổng hợp đọc lại từ ảnh trang PDF 812, 818, 821.
+- **Tên chip "Cerebras' Wafer-Scale Quant Processing Unit (QPU)" (trang PDF 798):** theo hiểu biết của người tổng hợp, chip của Cerebras được gọi là Wafer-Scale Engine (WSE); bản tổng hợp giữ cách gọi của sách nhưng ghi chú ở đây.
+- **Bảng 9-1:** dòng GPT-3 không ghi số chip V100 (bài báo PaLM cũng không ghi); bản tổng hợp chép nguyên.
+- **Bảng 9-2:** các con số FLOP/s của H100 SXM là con số *có sparsity* (ma trận thưa có cấu trúc 2:4); theo hiểu biết của người tổng hợp, con số cho ma trận dày đặc bằng một nửa (ví dụ FP16 khoảng 989 teraFLOP/s). Chú thích "peak FLOP/s hacking" của sách nói đúng về hiện tượng này.
+- **Hình 9-5, 9-8, 9-14:** số liệu đọc bằng mắt từ ảnh cột, sai số khoảng ±1 điểm phần trăm (Hình 9-5, 9-8); Hình 9-14 có nhãn số trên cột nên chép chính xác.
+- **Ví dụ bin-packing (trang PDF 841–842):** "đặt ba mô hình 13B trên GPU 40 GB" chỉ xét trọng số (3 × 13 GB = 39 GB ở 8 bit), chưa tính KV cache và bộ nhớ hoạt động; trong thực tế ba mô hình này không còn chỗ cho KV cache.
+- **Quy ước dịch:** giữ tiếng Anh các thuật ngữ phổ biến (inference, prefill, decode, token, latency, throughput, goodput, batch/batching, KV cache, kernel, compiler, attention, speculative decoding, prompt caching, GPU, TPU, HBM, SRAM…) và giải thích ở lần đầu. "Compute-bound" dịch là "giới hạn bởi năng lực tính"; "memory bandwidth-bound" là "giới hạn bởi băng thông bộ nhớ"; "inference server" là "máy chủ suy luận", "inference service" là "dịch vụ suy luận"; "accelerator" là "bộ tăng tốc"; "parallelism" là "song song hoá".
