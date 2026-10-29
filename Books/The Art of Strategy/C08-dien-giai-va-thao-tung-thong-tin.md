@@ -4,7 +4,9 @@
 
 Hai tác giả muốn người đọc hiểu rằng **hành động nói to hơn lời nói**: lời nói của một người có lợi ích khác mình thì không đáng tin, còn một hành động chỉ đáng tin khi nó tốn kém với người nói dối hơn là với người nói thật.
 
-Ví dụ trung tâm mở đầu chương là chuyện cô Sue yêu cầu người yêu xăm tên mình lên người: hình xăm gần như không tốn gì nếu anh ta định gắn bó lâu dài, nhưng sẽ là vật chứng ngượng ngùng nếu anh ta không định cưới. Anh ta từ chối, và Sue có câu trả lời.
+Ví dụ trung tâm mở đầu chương là chuyện cô Sue yêu cầu người yêu xăm tên mình lên người.
+
+Hình xăm gần như không tốn gì nếu anh ta định gắn bó lâu dài, nhưng sẽ là vật chứng ngượng ngùng nếu anh ta không định cưới. Anh ta từ chối, và Sue có câu trả lời.
 
 Từ đó chương đi qua bảo hành xe cũ, thị trường "xe chanh" của Akerlof, bằng MBA như công cụ sàng lọc, thủ tục hành chính và trợ cấp bằng hiện vật, việc không phát tín hiệu cũng là tín hiệu, phản tín hiệu, gây nhiễu tín hiệu, điệp viên Ashraf Marwan, cách dùng quy tắc Bayes khi chơi poker, và kết thúc bằng phép tính chi tiết về cách hãng hàng không phân biệt giá giữa khách doanh nhân và khách du lịch.
 
@@ -1054,7 +1056,15 @@ John giải thích với bên mua rằng quyền cùng đầu tư giúp họ yê
 
 Từ phần trước, có vẻ ai có khả năng phát tín hiệu về loại của mình thì nên phát, để tách khỏi người không làm được. Thế nhưng một số người có khả năng nhất lại không làm.
 
-Feltovich, Harbaugh và To đưa ra một loạt ví dụ: người mới giàu phô trương của cải, còn người giàu lâu đời khinh kiểu phô trương thô thiển đó; quan chức nhỏ chứng tỏ địa vị bằng những màn thể hiện quyền lực vặt, còn người thật sự quyền lực thể hiện sức mạnh bằng cử chỉ rộng lượng; người học vấn trung bình khoe nét chữ đều đặn, còn người học cao thường viết nguệch ngoạc; học sinh trung bình trả lời câu hỏi dễ của thầy, còn học sinh giỏi nhất ngại chứng tỏ mình biết những điều vụn vặt; người quen tỏ thiện ý bằng cách lịch sự lờ đi khuyết điểm của ta, còn bạn thân tỏ sự gần gũi bằng cách trêu chính khuyết điểm đó; người năng lực vừa phải tìm bằng cấp chính thức để gây ấn tượng, còn người tài thường không nhắc tới bằng cấp dù đã có; người danh tiếng trung bình phản bác những lời buộc tội nhắm vào mình, còn người rất được kính trọng thấy trả lời là hạ thấp mình.
+Feltovich, Harbaugh và To đưa ra một loạt ví dụ:
+
+- Người mới giàu phô trương của cải, còn người giàu lâu đời khinh kiểu phô trương thô thiển đó.
+- Quan chức nhỏ chứng tỏ địa vị bằng những màn thể hiện quyền lực vặt, còn người thật sự quyền lực thể hiện sức mạnh bằng cử chỉ rộng lượng.
+- Người học vấn trung bình khoe nét chữ đều đặn, còn người học cao thường viết nguệch ngoạc.
+- Học sinh trung bình trả lời câu hỏi dễ của thầy, còn học sinh giỏi nhất ngại chứng tỏ mình biết những điều vụn vặt.
+- Người quen tỏ thiện ý bằng cách lịch sự lờ đi khuyết điểm của ta, còn bạn thân tỏ sự gần gũi bằng cách trêu chính khuyết điểm đó.
+- Người năng lực vừa phải tìm bằng cấp chính thức để gây ấn tượng, còn người tài thường không nhắc tới bằng cấp dù đã có.
+- Người danh tiếng trung bình phản bác những lời buộc tội nhắm vào mình, còn người rất được kính trọng thấy trả lời là hạ thấp mình.
 
 Nhận định của họ là trong một số hoàn cảnh, cách tốt nhất để thể hiện năng lực hay loại của mình là không phát tín hiệu, từ chối chơi trò phát tín hiệu.
 
@@ -1377,11 +1387,11 @@ flowchart LR
   n5 --- n7
   n8["`Vua Solomon may mắn hơn là khôn ngoan`"]
   n1 --- n8
-  n9["`Mưu chặt đứa bé chỉ thành vì người mẹ giả lỡ đồng ý — nhắc lại lời mẹ thật là vua hết phân biệt được`"]
+  n9["`Mưu chặt đứa bé chỉ thành vì người mẹ giả lỡ đồng ý#59; nhắc lại lời mẹ thật là vua hết phân biệt được`"]
   n8 --- n9
   n10["`Ba công cụ thao túng thông tin`"]
   n1 --- n10
-  n11["`Phát tín hiệu và gây nhiễu tín hiệu do người biết nhiều khởi xướng — sàng lọc do người biết ít khởi xướng`"]
+  n11["`Phát tín hiệu và gây nhiễu tín hiệu do người biết nhiều khởi xướng#59; sàng lọc do người biết ít khởi xướng`"]
   n10 --- n11
   n12["`Tín hiệu hiệu quả phải không thể bị kẻ nói dối có lý trí bắt chước`"]
   n10 --- n12
@@ -1391,7 +1401,7 @@ flowchart LR
   n0 --- n14
   n15["`Bảo hành xe cũ`"]
   n14 --- n15
-  n16["`Sửa chữa kỳ vọng 500 USD với xe tốt, 2.000 USD với xe tồi — chênh giá 800 USD chỉ có lợi cho người bán xe tốt`"]
+  n16["`Sửa chữa kỳ vọng 500 USD với xe tốt, 2.000 USD với xe tồi#59; chênh giá 800 USD chỉ có lợi cho người bán xe tốt`"]
   n15 --- n16
   n17["`Hành động phải tối ưu với người chơi nếu và chỉ nếu họ có thông tin đó`"]
   n15 --- n17
@@ -1399,6 +1409,8 @@ flowchart LR
   n15 --- n18
   n19["`Hyundai 1999 bảo hành 10 năm hoặc 100.000 dặm để chứng tỏ chất lượng`"]
   n15 --- n19
+  n67["`Bảo hành chỉ có giá trị khi thi hành được — đại lý có danh tiếng đáng tin hơn người bán tư nhân`"]
+  n15 --- n67
   n20["`Akerlof, xe chanh và lựa chọn ngược`"]
   n14 --- n20
   n21["`Người mua chỉ trả tối đa 2.750 USD nên chủ xe đào rút lui, thị trường xe tốt sụp đổ`"]
@@ -1407,23 +1419,25 @@ flowchart LR
   n20 --- n22
   n23["`Capital One: ưu đãi chuyển dư nợ chỉ hấp dẫn khách vay quay vòng có lãi — lựa chọn thuận lợi`"]
   n20 --- n23
-  n24["`Spence phát triển phát tín hiệu — Rothschild và Stiglitz phát biểu sàng lọc bằng thực đơn gói bảo hiểm`"]
+  n24["`Spence phát triển phát tín hiệu#59; Rothschild và Stiglitz phát biểu sàng lọc bằng thực đơn gói bảo hiểm`"]
   n20 --- n24
   n25["`Bằng MBA như công cụ sàng lọc`"]
   n14 --- n25
-  n26["`Chi phí 200.000 USD, cần thêm 40.000 USD/năm trong 5 năm — người có tài chắc tốt nghiệp, người không có tài 50%`"]
+  n26["`Chi phí 200.000 USD, cần thêm 40.000 USD/năm trong 5 năm#59; người có tài chắc tốt nghiệp, người không có tài 50%`"]
   n25 --- n26
   n27["`Trả 100.000 USD: người không có tài kỳ vọng chỉ thêm 25.000 USD/năm nên không đi học`"]
   n25 --- n27
   n28["`Ngoại ứng thông tin: sự tồn tại của người kém buộc công ty trả thêm 40.000 USD/năm`"]
   n25 --- n28
-  n29["`Sàng lọc 200.000 USD rẻ hơn tuyển ngẫu nhiên lỗ kỳ vọng 250.000 USD — lương trên 130.000 USD thì sàng lọc hỏng`"]
+  n29["`Sàng lọc 200.000 USD rẻ hơn tuyển ngẫu nhiên lỗ kỳ vọng 250.000 USD#59; lương trên 130.000 USD thì sàng lọc hỏng`"]
   n25 --- n29
+  n68["`Khung #quot;Một lý do để học MBA#quot;: bằng MBA là tín hiệu người phụ nữ trẻ định đi làm lâu, vì cần khoảng 5 năm mới thu hồi chi phí`"]
+  n25 --- n68
   n30["`Mục 8–11 — Mọi hành động, kể cả không hành động, đều bị diễn giải`"]
   n0 --- n30
   n31["`Thủ tục hành chính và trợ cấp hiện vật`"]
   n30 --- n31
-  n32["`Workers’ Compensation có từ 20% hồ sơ trở lên gian lận — bắt chờ cả ngày lọc được người thật ra khoẻ`"]
+  n32["`Workers' Compensation có từ 20% hồ sơ trở lên gian lận#59; bắt chờ cả ngày lọc được người thật ra khoẻ`"]
   n31 --- n32
   n33["`Phát thẳng xe lăn thay vì tiền làm giảm hẳn động cơ giả khuyết tật`"]
   n31 --- n33
@@ -1461,15 +1475,15 @@ flowchart LR
   n45 --- n49
   n50["`Bài tốt tố 2/3 số lần, bài xấu tố láo 1/3 số lần`"]
   n49 --- n50
-  n51["`Thấy tố, xác suất bài tốt tăng từ 1/2 lên 2/3 = (1/3) chia (1/2)`"]
+  n51["`Thấy tố, xác suất bài tốt tăng từ 1/2 lên 2/3 = (1/3) / (1/2)`"]
   n49 --- n51
   n52["`Mục 13–14 — Phân biệt giá bằng sàng lọc`"]
   n0 --- n52
   n53["`Tạo phiên bản để khách tự lộ mức sẵn lòng trả`"]
   n52 --- n53
-  n54["`Sách bìa cứng trước, bìa mềm sau — phần mềm bản lite tắt bớt tính năng`"]
+  n54["`Sách bìa cứng trước, bìa mềm sau#59; phần mềm bản #quot;lite#quot; tắt bớt tính năng`"]
   n53 --- n54
-  n55["`Máy in IBM bản E gắn chip làm chậm, rẻ hơn 200 USD — đầu DVD Sharp giấu nút chuyển hệ`"]
+  n55["`Máy in IBM bản E gắn chip làm chậm, rẻ hơn 200 USD#59; đầu DVD Sharp giấu nút chuyển hệ`"]
   n53 --- n55
   n56["`Hãng hàng không PITS, 30% doanh nhân`"]
   n52 --- n56
@@ -1495,7 +1509,7 @@ flowchart LR
   n63 --- n66
   class n0 root
   class n1,n14,n30,n45,n52,n63 branch
-  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n64,n65,n66 leaf
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n64,n65,n66,n67,n68 leaf
 ```
 
 ## Nguồn

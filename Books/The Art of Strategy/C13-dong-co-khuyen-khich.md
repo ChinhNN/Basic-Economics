@@ -1036,7 +1036,7 @@ flowchart LR
   n1 --- n7
   n8["`Incentive Contract, Nonlinear Schemes, Carrots versus Sticks — thiết kế hợp đồng`"]
   n0 --- n8
-  n9["`Kết quả là chỉ báo không hoàn hảo của cố gắng: may rủi càng lớn thì càng nên dùng ít thưởng theo kết quả`"]
+  n9["`Kết quả là chỉ báo không hoàn hảo của cố gắng: may rủi càng lớn thì càng nên dùng ít thưởng theo kết quả, như lợi nhuận hãng bảo hiểm giảm trong mùa bão`"]
   n8 --- n9
   n10["`Chỉ tiêu thuần tuý: nhân viên buông khi xui đầu năm, nghỉ khi đạt sớm, dời đơn hàng sang năm sau`"]
   n8 --- n10
@@ -1048,7 +1048,7 @@ flowchart LR
   n8 --- n13
   n14["`Cà rốt 99/149 và cây gậy 101/51 cùng trung bình 100, chênh lệch 50`"]
   n8 --- n14
-  n15["`Lương CEO: chênh lệch có thể vừa đủ nhưng mức trung bình vượt xa mức cần vì cạnh tranh giành CEO`"]
+  n15["`Lương CEO: thưởng khổng lồ khi tốt, vẫn có #quot;chiếc dù vàng#quot; khi thất bại, nên mức trung bình vượt xa mức cần vì cạnh tranh giành CEO`"]
   n8 --- n15
   n16["`Hình phạt tuỳ tiện thời Stalin không gắn với cố gắng nên không tạo động cơ`"]
   n8 --- n16
@@ -1062,7 +1062,7 @@ flowchart LR
   n18 --- n20
   n21["`Tiền lương hiệu quả 51.200 USD so với 40.000 USD nơi khác giữ người lao động không lười`"]
   n18 --- n21
-  n22["`Phép tính: lợi 8.000 USD khi lười nhỏ hơn 25% khả năng mất 10X, nên X tối thiểu 3.200 USD`"]
+  n22["`Lãi suất 10%: không lười nếu 8.000 #lt; 0,25 × 10X, tức X #gt; 8.000 / 2,5 = 3.200 USD`"]
   n18 --- n22
   n23["`Trả thợ sửa xe quen cao hơn một chút là trả phần bù cho sự trung thực`"]
   n18 --- n23
@@ -1100,7 +1100,7 @@ flowchart LR
   n38 --- n39
   n40["`Nếu quan sát được cố gắng: thuê cố gắng cao, lãi bình quân 90.000 USD so với 70.000 USD`"]
   n38 --- n40
-  n41["`Thưởng thành công tối thiểu 100.000 USD vì 20 điểm phần trăm nhân 100.000 bằng 20.000 USD`"]
+  n41["`Thưởng thành công tối thiểu 20.000 / 0,2 = 100.000 USD vì khả năng thành công tăng 20 điểm phần trăm`"]
   n38 --- n41
   n42["`Nhận 90.000 USD khi thành công, nộp phạt 10.000 USD khi thất bại: chủ vẫn lãi 90.000 USD`"]
   n38 --- n42
@@ -1122,7 +1122,7 @@ flowchart LR
   n47 --- n50
   n51["`Tác giả muốn giá bìa tối đa doanh thu 20 USD, nhà xuất bản muốn tối đa lợi nhuận 24,3 USD`"]
   n47 --- n51
-  n52["`Nhà xuất bản chỉ còn 35% giá bìa nên như thể chi phí in 8,6 USD thay vì 3 USD`"]
+  n52["`Lợi nhuận nhà xuất bản (0,5p − 0,15p − 3) × q(p) = 0,35 × (p − 8,6) × q(p): như thể chi phí in 8,6 USD, gần gấp ba`"]
   n47 --- n52
   n53["`Thông điệp xuyên suốt`"]
   n0 --- n53
@@ -1132,9 +1132,15 @@ flowchart LR
   n53 --- n55
   n56["`Trách nhiệm thiết kế cơ chế tốt thuộc về người thuê, vì người duy lý sẽ lười nếu lười không bị gì`"]
   n53 --- n56
+  n57["`Sinh viên đọc bản in thử làm tốt vì cần giáo sư hướng dẫn và viết thư giới thiệu`"]
+  n18 --- n57
+  n58["`Bố mẹ thưởng điểm học và thưởng thể thao triệt tiêu nhau: một giờ học đáng 1 USD trừ phần thưởng thể thao bị giảm`"]
+  n33 --- n58
+  n59["`Câu hỏi: hợp đồng tạo động cơ đúng chỗ nào và tạo khoảng cách lợi ích giữa tác giả và nhà xuất bản ở đâu`"]
+  n47 --- n59
   class n0 root
   class n1,n8,n17,n38,n47,n53 branch
-  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52,n54,n55,n56 leaf
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52,n54,n55,n56,n57,n58,n59 leaf
 ```
 
 ## Nguồn

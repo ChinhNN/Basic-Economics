@@ -772,9 +772,9 @@ Mức thấp nhất bạn từng chấp nhận là δ/(1 + δ), và bạn luôn 
 
 Hai tác giả giải thích trường hợp δ = 1/2 bằng lời: người đang đề nghị với tôi có quyền đòi toàn bộ phần bánh sẽ mất nếu tôi từ chối, tức ngay lập tức được 1/2. Trong nửa còn lại, tôi được một nửa, tức 1/4 tổng, vì phần đó sẽ mất nếu anh ta không nhận đề nghị của tôi. Sau hai vòng, anh ta đã thu 1/2, tôi thu 1/4, và ta quay về điểm xuất phát. Vậy trong mỗi cặp đề nghị anh ta thu gấp đôi tôi, dẫn tới cách chia 2:1.
 
-**Khi hai bên kiên nhẫn khác nhau.** Lời giải trên giả định hai bên kiên nhẫn như nhau. Có thể dùng cùng cách để giải khi chi phí chờ khác nhau, và như dự đoán, bên kiên nhẫn hơn được phần lớn hơn. Khi khoảng thời gian giữa các đề nghị ngắn lại, chiếc bánh được chia theo tỷ lệ chi phí chờ của hai bên, theo chiều ngược lại (bên chờ tốn kém hơn được ít hơn): nếu một bên sốt ruột gấp đôi bên kia, bên đó được một phần ba chiếc bánh, tức một nửa phần của bên kia.
+**Khi hai bên kiên nhẫn khác nhau.** Lời giải trên giả định hai bên kiên nhẫn như nhau. Có thể dùng cùng cách để giải khi chi phí chờ khác nhau, và như dự đoán, bên kiên nhẫn hơn được phần lớn hơn. Khi khoảng thời gian giữa các đề nghị ngắn lại, chiếc bánh được chia theo tỷ lệ chi phí chờ của hai bên, theo chiều ngược lại (bên chờ tốn kém hơn được ít hơn).
 
-(Chú thích của tác giả: chẳng hạn công đoàn và ban quản lý đánh giá rủi ro của trì hoãn và hậu quả của nó khác nhau. Cụ thể, công đoàn coi 1,00 USD ngay bây giờ tương đương 1,01 USD một tuần sau (δ = 0,99), còn với ban quản lý con số là 1,02 USD (δ = 0,98). Nói cách khác, "lãi suất" theo tuần của công đoàn là 1%, của ban quản lý là 2%. Ban quản lý sốt ruột gấp đôi công đoàn nên sẽ được một nửa phần của công đoàn.)
+Nếu một bên sốt ruột gấp đôi bên kia, bên đó được một phần ba chiếc bánh, tức một nửa phần của bên kia. (Chú thích của tác giả: chẳng hạn công đoàn và ban quản lý đánh giá rủi ro của trì hoãn và hậu quả của nó khác nhau. Cụ thể, công đoàn coi 1,00 USD ngay bây giờ tương đương 1,01 USD một tuần sau (δ = 0,99), còn với ban quản lý con số là 1,02 USD (δ = 0,98). Nói cách khác, "lãi suất" theo tuần của công đoàn là 1%, của ban quản lý là 2%. Ban quản lý sốt ruột gấp đôi công đoàn nên sẽ được một nửa phần của công đoàn.)
 
 | Bên | δ mỗi tuần | "Lãi suất" chờ mỗi tuần | Phần bánh khi các vòng rất ngắn |
 |---|---|---|---|
@@ -925,9 +925,11 @@ flowchart LR
   n0["`Chương 11: mặc cả là trò chơi giải được bằng suy luận ngược — chia đôi phần giá trị vượt trên tổng BATNA, bên kiên nhẫn hơn được nhiều hơn`"]
   n1["`Mục 1 — Bài toán khách sạn 101 ngày`"]
   n0 --- n1
-  n2["`Mùa 101 ngày, mỗi ngày mở cửa lãi 1 nghìn USD, khách sạn chỉ mở khi công đoàn và ban quản lý đã thoả thuận lương`"]
+  n54["`Chuyện cười mở đầu: thủ lĩnh công đoàn đòi 10 USD một giờ, “nếu không thì...” — bị hỏi vặn liền lùi về 9,50 USD`"]
+  n1 --- n54
+  n2["`Mùa 101 ngày, mỗi ngày mở cửa lãi 1.000 USD, khách sạn chỉ mở khi công đoàn và ban quản lý đã thoả thuận lương`"]
   n1 --- n2
-  n3["`Suy luận ngược từ ngày cuối: còn 1 ngày công đoàn lấy cả 1 nghìn USD, còn 2 ngày mỗi bên 500 USD mỗi ngày`"]
+  n3["`Suy luận ngược từ ngày cuối: còn 1 ngày công đoàn lấy cả 1.000 USD, còn 2 ngày mỗi bên 500 USD mỗi ngày`"]
   n1 --- n3
   n4["`Lợi thế của bên đề nghị cuối nhỏ dần theo số vòng: ở ngày đầu công đoàn 505 USD, ban quản lý 495 USD mỗi ngày`"]
   n1 --- n4
@@ -951,11 +953,11 @@ flowchart LR
   n7 --- n13
   n14["`Vé máy bay của luật sư New York đi Houston và San Francisco`"]
   n7 --- n14
-  n15["`Vé tam giác 2 nghìn 818 USD so với hai vé khứ hồi tổng 3 nghìn 818 USD → chiếc bánh là 1 nghìn USD tiết kiệm`"]
+  n15["`Vé tam giác 2.818 USD so với hai vé khứ hồi tổng 3.818 USD → chiếc bánh là 1.000 USD tiết kiệm`"]
   n14 --- n15
-  n16["`Chia đôi tổng tiền bị Houston từ chối vì tự đi khứ hồi chỉ tốn 1 nghìn 332 USD`"]
+  n16["`Chia đôi tổng tiền bị Houston từ chối vì tự đi khứ hồi chỉ tốn 1.332 USD`"]
   n14 --- n16
-  n17["`Chia đôi khoản tiết kiệm: Houston trả 832 USD, San Francisco trả 1 nghìn 986 USD — không chia theo số dặm hay giá vé`"]
+  n17["`Chia đôi khoản tiết kiệm: Houston trả 832 USD, San Francisco trả 1.986 USD — không chia theo số dặm hay giá vé`"]
   n14 --- n17
   n18["`Cách chia này truy về nguyên tắc chia tấm vải trong Talmud`"]
   n14 --- n18
@@ -981,7 +983,7 @@ flowchart LR
   n22 --- n28
   n29["`Nhiều vấn đề, định giá khác nhau tạo thêm giá trị`"]
   n22 --- n29
-  n30["`Bảo hiểm y tế nhóm công ty mua 1 nghìn USD, công nhân tự mua 2 nghìn USD → cả hai thích bảo hiểm hơn 1 nghìn 500 USD lương`"]
+  n30["`Bảo hiểm y tế nhóm công ty mua 1.000 USD, công nhân tự mua 2.000 USD → cả hai thích bảo hiểm hơn 1.500 USD lương`"]
   n29 --- n30
   n31["`Đàm phán rộng trong GATT và WTO thành công hơn đàm phán hẹp theo ngành`"]
   n29 --- n31
@@ -1003,14 +1005,16 @@ flowchart LR
   n33 --- n39
   n40["`Mục 8–9 — Ai đề nghị và ai kiên nhẫn hơn`"]
   n0 --- n40
-  n41["`Chỉ ban quản lý được đề nghị: đề nghị công nhân 101 USD trên 101 nghìn USD và được nhận ngay — cho có lợi hơn nhận`"]
+  n41["`Chỉ ban quản lý được đề nghị: đề nghị công nhân 101 USD trên 101.000 USD và được nhận ngay — cho có lợi hơn nhận`"]
   n40 --- n41
-  n42["`Chuẩn mực công bằng làm cách chia cực đoan không xảy ra, ví dụ tỷ lệ 4:1 giữ 80 phần trăm lãi cho ban quản lý`"]
+  n42["`Chuẩn mực công bằng làm cách chia cực đoan không xảy ra, ví dụ tỷ lệ 4:1 giữ 80% lãi cho ban quản lý`"]
   n40 --- n42
   n43["`Trò chơi lặp cho bên nhận cơ hội tỏ ra phi lý: từ chối 80:20 có thể là lừa, từ chối 67:33 thì tự thiệt nên đáng tin`"]
   n40 --- n43
   n44["`Mô hình Rubinstein: luân phiên đề nghị không có ngày kết thúc, δ là phần giá trị còn lại nếu chậm một vòng`"]
   n40 --- n44
+  n56["`Lập luận: gọi L là mức thấp nhất bạn từng nhận, từ L ≥ δ(1 − δ(1 − L)) suy ra L ≥ δ/(1 + δ), mức cao nhất M cũng bằng δ/(1 + δ)`"]
+  n44 --- n56
   n45["`Bên trả lời được δ/(1 + δ), bên đề nghị được 1/(1 + δ)`"]
   n44 --- n45
   n46["`δ = 1 chia 50:50, δ = 1/2 chia 2:1, δ = 0 quay về trò chơi tối hậu thư`"]
@@ -1029,9 +1033,11 @@ flowchart LR
   n49 --- n52
   n53["`Bên tuyên bố cứng rắn chưa chắc mạnh — bên mạnh là bên ít sợ đổ vỡ hơn`"]
   n49 --- n53
+  n55["`Công đoàn chọn thời điểm đình công gây thiệt nhất, như đình công ở UPS ngay trước Giáng sinh thay vì giữa tháng 8`"]
+  n22 --- n55
   class n0 root
   class n1,n7,n22,n33,n40,n49 branch
-  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53 leaf
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56 leaf
 ```
 
 ## Nguồn

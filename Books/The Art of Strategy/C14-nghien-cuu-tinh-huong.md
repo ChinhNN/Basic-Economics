@@ -756,7 +756,9 @@ Bài học chiến lược ngược với câu chuyện Martin Luther và Charle
 **Đề bài.** Công ty mục tiêu là Piper's Pickled Peppers. Công ty đã niêm yết, nhưng hội đồng quản trị 5 người hoàn toàn do 5 người cháu của nhà sáng lập nắm. Nhà sáng lập lường trước cả nguy cơ các cháu tranh chấp lẫn nguy cơ người ngoài thâu tóm, nên đặt hai điều khoản:
 
 - **Bầu so le (staggered board).** Mỗi thành viên có nhiệm kỳ 5 năm, các nhiệm kỳ lệch nhau, nên mỗi năm chỉ một ghế hết hạn. Ngay cả người sở hữu 100% cổ phần cũng chỉ thay được thành viên hết nhiệm kỳ, tức tối đa một ghế mỗi năm; nhìn bề ngoài thì phải mất ba năm mới chiếm được đa số.
-- **Chỉ hội đồng mới được đổi cách bầu hội đồng.** Nhà sáng lập lo rằng nếu kẻ thù địch nắm được cổ phần, họ sẽ đổi quy định bầu so le, nên thêm điều khoản thứ hai. Thành viên nào cũng được đề xuất mà không cần ai ủng hộ, nhưng người đề xuất phải bỏ phiếu thuận cho đề xuất của mình; sau đó các thành viên lần lượt bỏ phiếu theo chiều kim đồng hồ quanh bàn. Đề xuất cần ít nhất 50% toàn hội đồng (vắng mặt tính là chống), tức ít nhất 3 trên 5 phiếu. Điểm mấu chốt: ai đề xuất thay đổi thành phần hội đồng hoặc quy tắc bầu hội đồng mà đề xuất thất bại thì mất ghế và mất toàn bộ cổ phần, và số cổ phần đó chia đều cho các thành viên còn lại; ai bỏ phiếu thuận cho một đề xuất thất bại cũng chịu chung số phận.
+- **Chỉ hội đồng mới được đổi cách bầu hội đồng.** Nhà sáng lập lo rằng nếu kẻ thù địch nắm được cổ phần, họ sẽ đổi quy định bầu so le, nên thêm điều khoản thứ hai. Thành viên nào cũng được đề xuất mà không cần ai ủng hộ, nhưng người đề xuất phải bỏ phiếu thuận cho đề xuất của mình; sau đó các thành viên lần lượt bỏ phiếu theo chiều kim đồng hồ quanh bàn.
+
+  Đề xuất cần ít nhất 50% toàn hội đồng (vắng mặt tính là chống), tức ít nhất 3 trên 5 phiếu. Điểm mấu chốt: ai đề xuất thay đổi thành phần hội đồng hoặc quy tắc bầu hội đồng mà đề xuất thất bại thì mất ghế và mất toàn bộ cổ phần, và số cổ phần đó chia đều cho các thành viên còn lại; ai bỏ phiếu thuận cho một đề xuất thất bại cũng chịu chung số phận.
 
 Một thời gian, điều khoản này đẩy lùi được các vụ thâu tóm. Rồi Sea Shells by the Sea Shore Ltd. mua 51% cổ phần trong một vụ thâu tóm thù địch và tự bầu mình vào một ghế ở kỳ họp thường niên. Có vẻ chưa đáng lo, vì Sea Shells chỉ là một tiếng nói chống lại bốn. Nhưng ngay phiên họp đầu tiên, Sea Shells đề xuất tái cơ cấu triệt để hội đồng, đề xuất đầu tiên loại này từng được đưa ra biểu quyết, và đề xuất không chỉ được thông qua mà còn được thông qua nhất trí. Sea Shells thay toàn bộ hội đồng ngay lập tức; các thành viên cũ nhận một "chiếc dù chì" (chơi chữ với "dù vàng", khoản bồi thường hậu hĩnh cho lãnh đạo bị thay; dù chì vẫn hơn không có gì) rồi bị mời ra cửa.
 
@@ -1268,7 +1270,11 @@ Chính hai tác giả cũng thừa nhận ở tình huống đấu giá rằng k
 - **Trong doanh nghiệp.** Khi một đối tác hào hứng chấp nhận điều khoản bạn đưa ra quá nhanh, hãy coi đó là thông tin (tình huống phong bì): có thể họ biết điều bạn không biết. Khi thiết kế chính sách giá, cẩn thận với cuộc đua "giá gốc thấp, phụ phí cao": như tình huống áo burqa, lợi nhuận phần sau thường bị cạnh tranh hết ở phần trước. Khi định ngăn đối thủ mới, lời dọa suông vô ích; chỉ những cam kết tốn kém, khó đảo ngược (công suất, hợp đồng dài hạn, mạng lưới) mới khiến họ tin.
 - **Trong đầu tư.** Trong một vụ chào mua thâu tóm, hãy đọc cấu trúc chào mua (hai bậc hay một bậc, có điều kiện hay không) trước khi đọc mức giá: cấu trúc có thể buộc bạn bán dưới giá trị. Thắng một cuộc thâu tóm khác với điều hành tốt doanh nghiệp, như Campeau và Federated. Với các sản phẩm quảng cáo "lợi suất cao" nhưng không cho biết sản phẩm nào thật sự có lợi, hãy nhớ bài học máy đánh bạc: nơi đông người đổ tiền vào nhất hiếm khi là nơi trả cao nhất.
 - **Trong nghề nghiệp.** Trong cạnh tranh nội bộ với nhiều ứng viên, người mạnh nhất thường thành mục tiêu của mọi người (cuộc đấu súng tay ba); đôi khi giữ sức và để người khác loại nhau là khôn ngoan. Trong một cuộc đấu thầu hay đàm phán leo thang, xác định trước điểm dừng, vì mỗi bước leo thang đều có vẻ hợp lý (đấu giá tờ 1 USD). Khi lãnh đạo nhóm, muốn mọi người cam kết, hãy cho họ cơ hội công khai rút lui như vua Henry, thay vì ép buộc.
-- **Khi đọc tin chính sách.** Ở Việt Nam, khi đọc tin về quy định niêm yết giá vé, giá dịch vụ hay phí ẩn trong vé máy bay, hãy nhớ lập luận "cân bằng xấu": doanh nghiệp đơn lẻ khó tự minh bạch vì sẽ trông đắt hơn, nên quy định chung có thể giúp cả người mua lẫn doanh nghiệp trung thực. Khi đọc tin về thu phí giờ cao điểm hay phí vào nội đô ở các thành phố lớn, lập luận Bay Bridge cho cách hiểu: mỗi xe thêm vào giờ cao điểm gây cho người khác tổng thời gian chờ bằng khoảng thời gian còn lại đến khi hết kẹt. Khi đọc tin về các vụ thâu tóm, sáp nhập hay tranh chấp hội đồng quản trị, hãy chú ý cấu trúc biểu quyết và phần thưởng cho từng kiểu kết quả, vì như tình huống Sea Shells, cấu trúc đó có thể quan trọng hơn tỷ lệ sở hữu.
+- **Khi đọc tin chính sách.** Ở Việt Nam, khi đọc tin về quy định niêm yết giá vé, giá dịch vụ hay phí ẩn trong vé máy bay, hãy nhớ lập luận "cân bằng xấu": doanh nghiệp đơn lẻ khó tự minh bạch vì sẽ trông đắt hơn, nên quy định chung có thể giúp cả người mua lẫn doanh nghiệp trung thực.
+
+  Khi đọc tin về thu phí giờ cao điểm hay phí vào nội đô ở các thành phố lớn, lập luận Bay Bridge cho cách hiểu: mỗi xe thêm vào giờ cao điểm gây cho người khác tổng thời gian chờ bằng khoảng thời gian còn lại đến khi hết kẹt.
+
+  Khi đọc tin về các vụ thâu tóm, sáp nhập hay tranh chấp hội đồng quản trị, hãy chú ý cấu trúc biểu quyết và phần thưởng cho từng kiểu kết quả, vì như tình huống Sea Shells, cấu trúc đó có thể quan trọng hơn tỷ lệ sở hữu.
 
 ## Bản đồ tư duy
 
@@ -1289,117 +1295,121 @@ flowchart LR
   n2 --- n3
   n4["`Tình huống 4, Sea Shells: chỉ có 1 trong 5 ghế vẫn khiến hội đồng bỏ phiếu thay chính mình 5–0`"]
   n1 --- n4
-  n5["`Đề xuất ba nhánh: 5–0 bồi thường nhỏ, 4–1 loại người chống, 3–2 chuyển 51% cổ phần cho hai người thuận`"]
+  n5["`Hai lá chắn: bầu so le mỗi năm chỉ một ghế, đề xuất thất bại thì người đề xuất và người thuận mất ghế và cổ phần`"]
   n4 --- n5
-  n6["`Người bỏ phiếu thứ năm ở thế 2–2 chọn thuận vì được 25,5% thay vì khoảng 21,1%`"]
+  n6["`Đề xuất ba nhánh: 5–0 bồi thường nhỏ, 4–1 loại người chống, 3–2 chuyển 51% cổ phần cho hai người thuận`"]
   n4 --- n6
-  n7["`Người thứ tư và hai người đầu không chặn được nên thà theo phe thắng`"]
+  n7["`Người bỏ phiếu thứ năm ở thế 2–2 chọn thuận vì được 25,5% thay vì khoảng 21,1%`"]
   n4 --- n7
-  n8["`Tình huống 7, đấu súng tay ba: Larry trúng 30%, Moe 80%, Curly 100%`"]
-  n1 --- n8
-  n9["`Larry bắn chỉ thiên là tốt nhất, sống sót 41,2%`"]
-  n8 --- n9
-  n10["`Curly chính xác nhất nhưng chỉ sống sót 14%, Moe 56%`"]
-  n8 --- n10
-  n11["`Cơ hội sống sót phụ thuộc cả tài mình lẫn việc mình đe doạ ai`"]
-  n8 --- n11
-  n12["`Tình huống 14, đấu giá tờ 1 USD của Shubik: cả người trả cao nhất và cao nhì đều phải trả`"]
-  n1 --- n12
-  n13["`Mỗi người có 2,50 USD: 1,60 USD là giá thắng, nên giá 70 xu thắng và cuộc đấu dừng ở đó`"]
-  n12 --- n13
-  n14["`Con dốc trơn trượt: đừng bước bước đầu nếu chưa biết mình đi đâu, chạy đua hạt nhân cũng vậy`"]
-  n12 --- n14
-  n15["`Lời giải có lời hơn là thông đồng: một người trả 10 xu, cả lớp chia 90 xu lời`"]
-  n12 --- n15
-  n16["`Tình huống 1, 12, 18 — Hành động của người khác là thông tin`"]
-  n0 --- n16
-  n17["`Tình huống 1, hai phong bì từ 5 đến 160 USD, một phong bì gấp đôi phong bì kia`"]
-  n16 --- n17
-  n18["`Baba thấy 20 USD tính kỳ vọng đổi là 25 USD nhưng quên Ali chỉ chịu đổi khi cô có 10 USD`"]
+  n8["`Người thứ tư và hai người đầu không chặn được nên thà theo phe thắng`"]
+  n4 --- n8
+  n9["`Tình huống 7, đấu súng tay ba: Larry trúng 30%, Moe 80%, Curly 100%`"]
+  n1 --- n9
+  n10["`Larry bắn chỉ thiên là tốt nhất, sống sót 41,2%`"]
+  n9 --- n10
+  n11["`Curly chính xác nhất nhưng chỉ sống sót 14%, Moe 56%`"]
+  n9 --- n11
+  n12["`Cơ hội sống sót phụ thuộc cả tài mình lẫn việc mình đe doạ ai`"]
+  n9 --- n12
+  n13["`Tình huống 14, đấu giá tờ 1 USD của Shubik: cả người trả cao nhất và cao nhì đều phải trả`"]
+  n1 --- n13
+  n14["`Mỗi người có 2,50 USD: 1,60 USD là giá thắng, nên giá 70 xu thắng và cuộc đấu dừng ở đó`"]
+  n13 --- n14
+  n15["`Con dốc trơn trượt: đừng bước bước đầu nếu chưa biết mình đi đâu, chạy đua hạt nhân cũng vậy`"]
+  n13 --- n15
+  n16["`Lời giải có lời hơn là thông đồng: một người trả 10 xu, cả lớp chia 90 xu lời`"]
+  n13 --- n16
+  n17["`Tình huống 1, 12, 18 — Hành động của người khác là thông tin`"]
+  n0 --- n17
+  n18["`Tình huống 1, hai phong bì từ 5 đến 160 USD, một phong bì gấp đôi phong bì kia`"]
   n17 --- n18
-  n19["`Suy luận từ mức 160 USD xuống: không người lý trí nào chịu đổi`"]
-  n17 --- n19
-  n20["`Tình huống 12, vua Solomon giải lại: cơ chế bốn bước với tiền phạt F và giá trả B`"]
-  n16 --- n20
-  n21["`Mẹ thật quý đứa trẻ hơn nên nhận đứa trẻ trong cân bằng hoàn hảo của trò chơi con`"]
-  n20 --- n21
-  n22["`Không ai thật sự trả tiền — phạt chỉ làm nói dối tốn kém, có thể thay bằng ngày lao động công ích`"]
-  n20 --- n22
-  n23["`Tình huống 18, máy đánh bạc Las Vegas: quảng cáo hoàn trả bình quân 90%, có máy tới 120%`"]
-  n16 --- n23
-  n24["`Máy độc đắc 10 nghìn USD với xác suất 1 trên 30 nghìn hoàn trả 1,33 nhưng trông như máy tệ nhất`"]
-  n23 --- n24
-  n25["`Máy kêu ầm ĩ trả 1 USD khoảng mỗi 5 lượt chỉ hoàn trả 0,8`"]
-  n23 --- n25
-  n26["`Máy được chơi nhiều nhất chắc chắn không phải máy hoàn trả cao nhất`"]
-  n23 --- n26
-  n27["`Tình huống 3, 6, 8, 10 — Thứ tự đi và phản ứng trước luật chơi`"]
-  n0 --- n27
-  n28["`Tình huống 3, cò quay ở dạ hội Cambridge: Barry 700 bảng, cô gái 300 bảng cược trước vào bội số của 3`"]
-  n27 --- n28
-  n29["`Barry chỉ cần chép y cược để giữ cách biệt 400 bảng và thắng chắc`"]
+  n19["`Baba thấy 20 USD tính kỳ vọng đổi là 25 USD nhưng quên Ali chỉ chịu đổi khi cô có 10 USD`"]
+  n18 --- n19
+  n20["`Suy luận từ mức 160 USD xuống: không người lý trí nào chịu đổi`"]
+  n18 --- n20
+  n21["`Tình huống 12, vua Solomon giải lại: cơ chế bốn bước với tiền phạt F và giá trả B`"]
+  n17 --- n21
+  n22["`Mẹ thật quý đứa trẻ hơn nên nhận đứa trẻ trong cân bằng hoàn hảo của trò chơi con`"]
+  n21 --- n22
+  n23["`Không ai thật sự trả tiền — phạt chỉ làm nói dối tốn kém, có thể thay bằng ngày lao động công ích`"]
+  n21 --- n23
+  n24["`Tình huống 18, máy đánh bạc Las Vegas: quảng cáo hoàn trả bình quân 90%, có máy tới 120%`"]
+  n17 --- n24
+  n25["`Máy 25 xu một lượt, độc đắc 10.000 USD với xác suất 1/30.000 hoàn trả 1,33 nhưng trông như máy tệ nhất`"]
+  n24 --- n25
+  n26["`Máy kêu ầm ĩ trả 1 USD khoảng mỗi 5 lượt chỉ hoàn trả 0,8`"]
+  n24 --- n26
+  n27["`Máy được chơi nhiều nhất chắc chắn không phải máy hoàn trả cao nhất`"]
+  n24 --- n27
+  n28["`Tình huống 3, 6, 8, 10 — Thứ tự đi và phản ứng trước luật chơi`"]
+  n0 --- n28
+  n29["`Tình huống 3, cò quay ở dạ hội Cambridge: Barry 700 bảng, cô gái 300 bảng cược trước vào bội số của 3`"]
   n28 --- n29
-  n30["`Nếu Barry cược trước, cô cược ngược màu và có cơ hội gần một nửa — đi trước là lật bài`"]
-  n28 --- n30
-  n31["`Tình huống 6: súng chính xác hơn không làm đấu súng chết chóc hơn, hai bên đứng xa hơn và mỗi người vẫn sống sót 1/2`"]
-  n27 --- n31
-  n32["`Tình huống 8, đấu giá Vickrey: bất định về giá phải trả không đổi chiến lược, vẫn bỏ đúng giá trị thật vì đó là chiến lược trội`"]
-  n27 --- n32
-  n33["`Tình huống 10, trò ZECK: lập luận đánh cắp chiến lược chứng minh người đi trước thắng dù chưa ai biết cách thắng`"]
-  n27 --- n33
-  n34["`Tình huống 5, 11, 13, 15 — Thiết kế phần thưởng và cân bằng xấu`"]
-  n0 --- n34
-  n35["`Tình huống 5, Campeau chào mua hai bậc Federated: 105 USD cho 50% đầu, 90 USD cho phần sau`"]
-  n34 --- n35
-  n36["`Bán là chiến lược trội, nhưng khi mọi người bán thì chỉ nhận 97,5 USD, dưới giá 100 USD trước đó`"]
+  n30["`Barry chỉ cần chép y cược để giữ cách biệt 400 bảng và thắng chắc`"]
+  n29 --- n30
+  n31["`Nếu Barry cược trước, cô cược ngược màu và có cơ hội gần một nửa — đi trước là lật bài`"]
+  n29 --- n31
+  n32["`Tình huống 6: súng chính xác hơn không làm đấu súng chết chóc hơn, hai bên đứng xa hơn và mỗi người vẫn sống sót 1/2`"]
+  n28 --- n32
+  n33["`Tình huống 8, đấu giá Vickrey: bất định về giá phải trả không đổi chiến lược, vẫn bỏ đúng giá trị thật vì đó là chiến lược trội`"]
+  n28 --- n33
+  n34["`Tình huống 10, trò ZECK: lập luận đánh cắp chiến lược chứng minh người đi trước thắng dù chưa ai biết cách thắng`"]
+  n28 --- n34
+  n35["`Tình huống 5, 11, 13, 15 — Thiết kế phần thưởng và cân bằng xấu`"]
+  n0 --- n35
+  n36["`Tình huống 5, Campeau chào mua hai bậc Federated: 105 USD cho 50% đầu, 90 USD cho phần sau`"]
   n35 --- n36
-  n37["`Macy's chào 102 USD có điều kiện là đối sách kém, chào vô điều kiện mới hiệu quả`"]
-  n35 --- n37
-  n38["`Campeau thắng vụ thâu tóm nhưng đổ vỡ vì nợ năm 1989, Federated tái cơ cấu theo Chương 11`"]
-  n35 --- n38
-  n39["`Tình huống 11, giá dưới áo burqa: phí xăng khi thuê xe, mực in, gói di động 800 phút giá 40 USD`"]
-  n34 --- n39
-  n40["`Hãng niêm yết giá trọn gói trông đắt nhất trên trang so giá — cân bằng xấu giống bàn phím QWERTY`"]
-  n39 --- n40
-  n41["`Lời giải: luật buộc quảng cáo giá trọn gói mà khách trung bình phải trả`"]
-  n39 --- n41
-  n42["`Tình huống 13, cầu Bay Bridge kẹt từ 7:30 đến 11:00: một xe thêm vào lúc 9:00 gây cho người khác tổng cộng 2 giờ chờ`"]
-  n34 --- n42
-  n43["`Mẹo tính: tưởng tượng xe đó tấp vào lề chờ đến khi hết kẹt, vì chỉ tổng thời gian chờ là quan trọng`"]
-  n42 --- n43
-  n44["`Tình huống 15, vua Lear: các con thỏa thuận cùng giảm số lần thăm cha mẹ`"]
-  n34 --- n44
-  n45["`Di chúc mới: nếu mọi con đều dưới chỉ tiêu, con thăm nhiều nhất được toàn bộ tài sản`"]
+  n37["`Bán là chiến lược trội, nhưng khi mọi người bán thì chỉ nhận 97,5 USD, dưới giá 100 USD trước đó`"]
+  n36 --- n37
+  n38["`Macy's chào 102 USD có điều kiện là đối sách kém, chào vô điều kiện mới hiệu quả`"]
+  n36 --- n38
+  n39["`Campeau thắng vụ thâu tóm nhưng đổ vỡ vì nợ năm 1989, Federated tái cơ cấu theo Chương 11`"]
+  n36 --- n39
+  n40["`Tình huống 11, giá dưới áo burqa: phí xăng khi thuê xe, mực in, gói di động 800 phút giá 40 USD`"]
+  n35 --- n40
+  n41["`Hãng niêm yết giá trọn gói trông đắt nhất trên trang so giá — cân bằng xấu giống bàn phím QWERTY`"]
+  n40 --- n41
+  n42["`Đoán trước lời lớn ở phần sau nên máy in laser, điện thoại gần như cho không — lợi nhuận bị cạnh tranh hết`"]
+  n40 --- n42
+  n43["`Lời giải: luật buộc quảng cáo giá trọn gói mà khách trung bình phải trả`"]
+  n40 --- n43
+  n44["`Tình huống 13, cầu Bay Bridge kẹt từ 7:30 đến 11:00: một xe thêm vào lúc 9:00 gây cho người khác tổng cộng 2 giờ chờ`"]
+  n35 --- n44
+  n45["`Mẹo tính: tưởng tượng xe đó tấp vào lề chờ đến khi hết kẹt, vì chỉ tổng thời gian chờ là quan trọng`"]
   n44 --- n45
-  n46["`Thế lưỡng nan của người tù nhiều người phá vỡ thỏa thuận giảm thăm`"]
-  n44 --- n46
-  n47["`Tình huống 9, 16, 17 — Nước đi chiến lược phải đáng tin`"]
-  n0 --- n47
-  n48["`Tình huống 9, binh lính liều mạng: huấn luyện vâng lệnh tự động và làm giảm khả năng tính toán`"]
-  n47 --- n48
-  n49["`Henry V cho ai sợ thì công khai rời đi — không ai nhận, như đốt thuyền về mặt tâm lý`"]
-  n48 --- n49
-  n50["`Lời hứa làm anh em của vua là lời nói rẻ nhưng vẫn hiệu quả, lý thuyết trò chơi không giải thích trọn`"]
-  n48 --- n50
-  n51["`Tình huống 16, Alcoa năm 1945: xây công suất dư thừa làm lời dọa chiến tranh giá đáng tin vì chi phí vốn đã bỏ ra`"]
-  n47 --- n51
-  n52["`Tình huống 17, súng ở Mỹ và Anh: cân bằng (3, 3) vì mang súng là chiến lược trội của tội phạm`"]
-  n47 --- n52
-  n53["`Tội phạm cam kết không mang súng đưa kết quả lên (1, 2), tốt hơn cho cả hai bên`"]
-  n52 --- n53
-  n54["`Luật kiểm soát súng chặt ở Anh làm cam kết đó đáng tin, ở Mỹ súng phổ biến nên không làm được`"]
-  n52 --- n54
-  n55["`Thông điệp xuyên suốt`"]
-  n0 --- n55
-  n56["`Trực giác tự nhiên sai vì bỏ qua phản ứng và suy nghĩ của người khác`"]
-  n55 --- n56
-  n57["`Cấu trúc trò chơi — ai đi trước, ai biết gì, phần thưởng gắn với kết quả nào — quyết định kết quả`"]
-  n55 --- n57
-  n58["`Người thật không luôn lý trí: trong lớp học giá tờ 1 USD thường bị đẩy quá 1 USD`"]
-  n55 --- n58
+  n46["`Tình huống 15, vua Lear: các con thỏa thuận cùng giảm số lần thăm cha mẹ`"]
+  n35 --- n46
+  n47["`Di chúc mới: nếu mọi con đều dưới chỉ tiêu, con thăm nhiều nhất được toàn bộ tài sản`"]
+  n46 --- n47
+  n48["`Thế lưỡng nan của người tù nhiều người phá vỡ thỏa thuận giảm thăm`"]
+  n46 --- n48
+  n49["`Tình huống 9, 16, 17 — Nước đi chiến lược phải đáng tin`"]
+  n0 --- n49
+  n50["`Tình huống 9, binh lính liều mạng: huấn luyện vâng lệnh tự động và làm giảm khả năng tính toán`"]
+  n49 --- n50
+  n51["`Henry V cho ai sợ thì công khai rời đi — không ai nhận, như đốt thuyền về mặt tâm lý`"]
+  n50 --- n51
+  n52["`Lời hứa làm anh em của vua là lời nói rẻ nhưng vẫn hiệu quả, lý thuyết trò chơi không giải thích trọn`"]
+  n50 --- n52
+  n53["`Tình huống 16, Alcoa năm 1945: xây công suất dư thừa làm lời dọa chiến tranh giá đáng tin vì chi phí vốn đã bỏ ra`"]
+  n49 --- n53
+  n54["`Tình huống 17, súng ở Mỹ và Anh: cân bằng (3, 3) vì mang súng là chiến lược trội của tội phạm`"]
+  n49 --- n54
+  n55["`Tội phạm cam kết không mang súng đưa kết quả lên (1, 2), tốt hơn cho cả hai bên`"]
+  n54 --- n55
+  n56["`Luật kiểm soát súng chặt ở Anh làm cam kết đó đáng tin, ở Mỹ súng phổ biến nên không làm được`"]
+  n54 --- n56
+  n57["`Thông điệp xuyên suốt`"]
+  n0 --- n57
+  n58["`Trực giác tự nhiên sai vì bỏ qua phản ứng và suy nghĩ của người khác`"]
+  n57 --- n58
+  n59["`Cấu trúc trò chơi — ai đi trước, ai biết gì, phần thưởng gắn với kết quả nào — quyết định kết quả`"]
+  n57 --- n59
+  n60["`Người thật không luôn lý trí: trong lớp học giá tờ 1 USD thường bị đẩy quá 1 USD`"]
+  n57 --- n60
   class n0 root
-  class n1,n16,n27,n34,n47,n55 branch
-  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52,n53,n54,n56,n57,n58 leaf
+  class n1,n17,n28,n35,n49,n57 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56,n58,n59,n60 leaf
 ```
 
 ## Nguồn

@@ -1216,7 +1216,9 @@ Câu chuyện Justin-Case cho thấy một quy trình nhìn có vẻ dân chủ 
 - **Trong doanh nghiệp.** Nếu ngành bạn cạnh tranh bằng chi tiêu phòng thủ (quảng cáo, khuyến mãi, chạy đua tính năng) mà thị phần gần như không đổi, đó là thế lưỡng nan của người tù nhiều người; một quy định chung, tiêu chuẩn ngành hay thoả thuận hợp pháp có thể làm lợi cho tất cả, như lệnh cấm quảng cáo thuốc lá đã làm. Với sản phẩm có ngoại ứng mạng (nền tảng, phần mềm, chuẩn kỹ thuật), hãy xác định ngưỡng khối lượng tới hạn và dồn nguồn lực trong thời gian ngắn để vượt nó, thay vì rải đều; khi đang là bên yếu, cần tìm một "khách hàng lớn" tương tự Hải quân Mỹ hay chính phủ liên bang để tạo chỗ đứng.
 - **Trong đầu tư.** Khi đánh giá một công nghệ mới thách thức chuẩn cũ, đừng chỉ hỏi công nghệ nào tốt hơn mà hỏi chi phí chuyển đổi của người dùng và ai có thể phối hợp chuyển đổi; ưu thế kỹ thuật 5–10% như DSK thường không đủ để lật một chuẩn đã thống trị. Ngược lại, công ty nắm chuẩn thống trị có lợi thế bền nhờ khoá chặt, nhưng phải để ý các sự kiện có thể tạo khối lượng tới hạn cho đối thủ (quy định mới, khách hàng lớn chuyển đổi).
 - **Trong nghề nghiệp.** Trong môi trường đánh giá theo thứ hạng (xếp hạng nhân viên, thi tuyển), hiểu rằng phần lớn nỗ lực thêm triệt tiêu lẫn nhau; hãy đầu tư vào năng lực có giá trị tuyệt đối mang theo được, không chỉ vào thứ hạng. Khi chọn mục tiêu, nhớ rằng thất bại ở việc khó ít tổn hại danh tiếng hơn thất bại ở việc dễ, nhưng đừng để điều đó thành cớ tự cản trở bản thân. Khi tham gia đàm phán hay quyết định tập thể, đề nghị xét cả gói để tránh bị dẫn từng bước xuống con dốc trơn.
-- **Khi đọc tin chính sách.** Ở Việt Nam, các đề xuất thu phí xe vào nội đô các thành phố lớn, chiến dịch xử lý vi phạm giao thông (như nồng độ cồn) hay chuyển đổi tiêu chuẩn (nhiên liệu sinh học, thanh toán không tiền mặt) đều có thể đọc bằng khung của chương này: chính sách có định giá đúng tác động lên người khác không, có tạo được khối lượng tới hạn rồi tự duy trì không, hay chỉ là áp lực nhẹ kéo dài. Theo logic của hai tác giả, một đợt cưỡng chế ngắn mà rất nghiêm và nhất quán có thể chuyển hẳn chuẩn hành vi, còn cưỡng chế lúc chặt lúc lỏng dễ trả xã hội về cân bằng cũ. Khi một hiệp hội ngành đề xuất "phân bổ lại" người hành nghề hay hạn chế số người vào nghề vì "dư thừa", hãy nhớ tình huống nha sĩ: hỏi xem thiệt hại là thực hay chỉ là thu nhập của người trong nghề giảm vì giá rẻ hơn cho người dùng.
+- **Khi đọc tin chính sách.** Ở Việt Nam, các đề xuất thu phí xe vào nội đô các thành phố lớn, chiến dịch xử lý vi phạm giao thông (như nồng độ cồn) hay chuyển đổi tiêu chuẩn (nhiên liệu sinh học, thanh toán không tiền mặt) đều có thể đọc bằng khung của chương này: chính sách có định giá đúng tác động lên người khác không, có tạo được khối lượng tới hạn rồi tự duy trì không, hay chỉ là áp lực nhẹ kéo dài. Theo logic của hai tác giả, một đợt cưỡng chế ngắn mà rất nghiêm và nhất quán có thể chuyển hẳn chuẩn hành vi, còn cưỡng chế lúc chặt lúc lỏng dễ trả xã hội về cân bằng cũ.
+
+  Khi một hiệp hội ngành đề xuất "phân bổ lại" người hành nghề hay hạn chế số người vào nghề vì "dư thừa", hãy nhớ tình huống nha sĩ: hỏi xem thiệt hại là thực hay chỉ là thu nhập của người trong nghề giảm vì giá rẻ hơn cho người dùng.
 
 ## Bản đồ tư duy
 
@@ -1247,23 +1249,23 @@ flowchart LR
   n1 --- n8
   n9["`Mục 2 — Bay Bridge và BART: cân bằng phân bổ sai tỷ lệ`"]
   n0 --- n9
-  n10["`Qua cầu 20 phút, thêm 10 phút cho mỗi 2 nghìn xe, BART luôn 40 phút`"]
+  n10["`Qua cầu 20 phút, thêm 10 phút cho mỗi 2.000 xe#59; BART luôn 40 phút`"]
   n9 --- n10
-  n11["`Cân bằng: 4 nghìn xe qua cầu, 6 nghìn đi tàu, ai cũng mất 40 phút`"]
+  n11["`Cân bằng: 4.000 xe qua cầu, 6.000 đi tàu, ai cũng mất 40 phút`"]
   n9 --- n11
-  n12["`Chỉ 2 nghìn xe qua cầu thì tiết kiệm 20 nghìn người-phút mà không ai thiệt`"]
+  n12["`Chỉ 2.000 xe qua cầu thì tiết kiệm 20.000 người-phút mà không ai thiệt`"]
   n9 --- n12
   n13["`Mỗi xe thêm làm mọi người chậm hơn nhưng người lái không trả giá cho thiệt hại đó`"]
   n9 --- n13
   n14["`Ba cách đạt tối ưu: cấp phép, thu phí cao hơn vé BART 2 USD, tư nhân hoá cầu`"]
   n9 --- n14
-  n15["`Bàn tay vô hình chỉ dẫn đúng khi thời gian đi lại có giá, chi phí thu phí có thể vượt lợi ích`"]
+  n15["`Bàn tay vô hình chỉ dẫn đúng khi #quot;thời gian đi lại#quot; có giá#59; chi phí thu phí có thể vượt lợi ích`"]
   n9 --- n15
   n16["`Mục 3–4 — Khi càng nhiều người theo càng hấp dẫn, lịch sử khoá xã hội vào một thái cực`"]
   n0 --- n16
-  n17["`QWERTY 1873 chống kẹt phím, Dvorak giảm quãng đường ngón tay hơn 50%, gõ nhanh hơn 5–10%`"]
+  n17["`QWERTY 1873 chống kẹt phím#59; Dvorak giảm quãng đường ngón tay hơn 50%, gõ nhanh hơn 5–10%`"]
   n16 --- n17
-  n18["`Liebowitz và Margolis nghi ngờ ưu thế Dvorak, nghiên cứu GSA 1956 thấy phải học lại một tháng`"]
+  n18["`Liebowitz và Margolis nghi ngờ ưu thế Dvorak#59; nghiên cứu GSA 1956 thấy phải học lại một tháng`"]
   n16 --- n18
   n19["`Hiệu ứng đám đông: cân bằng ở 0%, 72% (không ổn định) và 98% QWERTY`"]
   n16 --- n19
@@ -1277,7 +1279,7 @@ flowchart LR
   n16 --- n23
   n24["`Một đợt cưỡng chế ngắn mà rất nghiêm hiệu quả hơn áp lực nhẹ kéo dài`"]
   n16 --- n24
-  n25["`Xe nặng kéo theo xe nặng, tiêu chuẩn CAFE 2007 (27,5 lên 35 dặm/gallon) là công cụ phối hợp`"]
+  n25["`Xe nặng kéo theo xe nặng#59; tiêu chuẩn CAFE 2007 (27,5 lên 35 dặm/gallon) là công cụ phối hợp`"]
   n16 --- n25
   n26["`Milton Friedman: ai cũng sẵn lòng góp giảm nghèo nếu người khác cũng góp`"]
   n16 --- n26
@@ -1285,13 +1287,13 @@ flowchart LR
   n0 --- n27
   n28["`Schelling: mỗi hộ tự chọn nơi ở, đa số thích khu hoà trộn ở mức nào đó`"]
   n27 --- n28
-  n29["`Khu 70:30 là cân bằng không ổn định, một hộ đổi chỗ khởi đầu phản ứng dây chuyền`"]
+  n29["`Khu 70:30 là cân bằng không ổn định#59; một hộ đổi chỗ khởi đầu phản ứng dây chuyền`"]
   n27 --- n29
-  n30["`Hai cân bằng ổn định là toàn da trắng và toàn da đen, quý tộc hoá là lật nghiêng theo thu nhập`"]
+  n30["`Hai cân bằng ổn định là toàn da trắng và toàn da đen#59; quý tộc hoá là lật nghiêng theo thu nhập`"]
   n27 --- n30
   n31["`Thuế rời khu trái nguyên tắc tự do chọn nơi ở, nên phải giảm động cơ làm theo`"]
   n27 --- n31
-  n32["`Oak Park cấm biển Bán nhà và bảo hiểm giá trị nhà, chặn lật nghiêng mà không tốn tiền thuế`"]
+  n32["`Oak Park cấm biển #quot;Bán nhà#quot; và bảo hiểm giá trị nhà, chặn lật nghiêng mà không tốn tiền thuế`"]
   n27 --- n32
   n33["`Mục 6–7 — Con dốc trơn và sự giống nhau quá mức`"]
   n0 --- n33
@@ -1299,9 +1301,9 @@ flowchart LR
   n33 --- n34
   n35["`Bỏ phiếu bỏ qua cường độ ưa thích: chín chiến thắng nhỏ thua một thất bại lớn`"]
   n33 --- n35
-  n36["`Lời giải là xét cải cách theo cả gói, Quốc hội Mỹ 1989 tự tăng lương 50% thất bại theo chuỗi`"]
+  n36["`Lời giải là xét cải cách theo cả gói#59; Quốc hội Mỹ 1989 tự tăng lương 50% thất bại theo chuỗi`"]
   n33 --- n36
-  n37["`Nếu đằng nào cũng thất bại, hãy thất bại ở việc khó, mặt trái là tự cản trở bản thân`"]
+  n37["`Nếu đằng nào cũng thất bại, hãy thất bại ở việc khó#59; mặt trái là tự cản trở bản thân`"]
   n33 --- n37
   n38["`Hotelling 1929: hai đảng cùng đứng ở trung vị, cử tri nhận tiếng vọng thay vì lựa chọn`"]
   n33 --- n38
@@ -1311,27 +1313,31 @@ flowchart LR
   n0 --- n40
   n41["`Thị trường tự do không phải lúc nào cũng đúng vì lịch sử quan trọng`"]
   n40 --- n41
-  n42["`Nhiều thứ quan trọng không có giá, định giá có khi đổi bản chất, như máu hiến tốt hơn máu mua`"]
+  n42["`Chuẩn kém đã định thì cần chuyển đổi có phối hợp, như sang hệ mét hay giờ mùa hè`"]
   n40 --- n42
-  n43["`Nha sĩ thành phố giống lái xe qua cầu, nha sĩ nông thôn giống đi tàu, cân bằng 60 nghìn ở thành phố`"]
+  n43["`Chuẩn kém có thể là hành vi: trốn thuế, chạy quá tốc độ, đến tiệc muộn một giờ`"]
   n40 --- n43
-  n44["`Nha sĩ mới làm đồng nghiệp mất thu nhập nhưng bệnh nhân được lợi đúng bằng chừng đó`"]
+  n44["`Nhiều thứ quan trọng không có giá#59; định giá có khi đổi bản chất, như máu hiến tốt hơn máu mua`"]
   n40 --- n44
-  n45["`Tác động qua giá chỉ là chuyển giao, nên cân bằng thị trường tối ưu cho xã hội`"]
+  n45["`Nha sĩ thành phố giống lái xe qua cầu, nha sĩ nông thôn giống đi tàu#59; cân bằng 60.000 ở thành phố`"]
   n40 --- n45
-  n46["`Quỹ của ngành nha kéo nha sĩ về nông thôn phục vụ người trong nghề, không phải xã hội`"]
+  n46["`Nha sĩ mới làm đồng nghiệp mất thu nhập nhưng bệnh nhân được lợi đúng bằng chừng đó`"]
   n40 --- n46
-  n47["`Thông điệp xuyên suốt`"]
-  n0 --- n47
-  n48["`Trước khi theo đám đông, hỏi lựa chọn càng nhiều người theo thì càng tốt hay càng tệ`"]
-  n47 --- n48
-  n49["`Tác động không qua giá cần phối hợp: phí, luật, bảo hiểm, cả gói, khối lượng tới hạn`"]
-  n47 --- n49
-  n50["`Trước khi can thiệp, phân biệt thiệt hại thực với chuyển giao qua giá`"]
-  n47 --- n50
+  n47["`Tác động qua giá chỉ là chuyển giao, nên cân bằng thị trường tối ưu cho xã hội`"]
+  n40 --- n47
+  n48["`Quỹ của ngành nha kéo nha sĩ về nông thôn phục vụ người trong nghề, không phải xã hội`"]
+  n40 --- n48
+  n49["`Thông điệp xuyên suốt`"]
+  n0 --- n49
+  n50["`Trước khi theo đám đông, hỏi lựa chọn càng nhiều người theo thì càng tốt hay càng tệ`"]
+  n49 --- n50
+  n51["`Tác động không qua giá cần phối hợp: phí, luật, bảo hiểm, cả gói, khối lượng tới hạn`"]
+  n49 --- n51
+  n52["`Trước khi can thiệp, phân biệt thiệt hại thực với chuyển giao qua giá`"]
+  n49 --- n52
   class n0 root
-  class n1,n9,n16,n27,n33,n40,n47 branch
-  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n48,n49,n50 leaf
+  class n1,n9,n16,n27,n33,n40,n49 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52 leaf
 ```
 
 ## Nguồn

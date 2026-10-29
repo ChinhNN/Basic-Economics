@@ -2,11 +2,21 @@
 
 ## Ý chính
 
-Dixit và Nalebuff muốn người đọc hiểu rằng **không có cách bỏ phiếu hoàn hảo**: khi có từ ba phương án trở lên, cử tri luôn có lúc được lợi nếu khai sai ý muốn thật của mình (bỏ phiếu chiến lược), và kết quả bầu cử phụ thuộc vào luật bầu cử và trình tự biểu quyết nhiều ngang với ý muốn của cử tri.
+Dixit và Nalebuff muốn người đọc hiểu rằng **không có cách bỏ phiếu hoàn hảo**.
+
+Khi có từ ba phương án trở lên, cử tri luôn có lúc được lợi nếu khai sai ý muốn thật của mình (bỏ phiếu chiến lược), và kết quả bầu cử phụ thuộc vào luật bầu cử và trình tự biểu quyết nhiều ngang với ý muốn của cử tri.
 
 Ví dụ trung tâm là cuộc bầu cử tổng thống Mỹ năm 2000: Ralph Nader được 97.488 phiếu ở Florida, George W. Bush thắng bang này với cách biệt 537 phiếu, nên nếu Nader không ra tranh cử thì Al Gore đã thắng.
 
-Từ đó hai tác giả đi qua nghịch lý Condorcet, cách bỏ phiếu theo cặp Condorcet, vụ án ba thẩm phán (cùng một ý muốn mà ba trình tự biểu quyết cho ba bản án khác nhau), cử tri trung vị, lý do Hiến pháp Mỹ bền vững (ngưỡng hai phần ba vượt mốc 64%), bỏ phiếu tán thành ở Đại sảnh Danh vọng bóng chày, và kết bằng câu hỏi: lá phiếu phá thế hoà của Phó Tổng thống Mỹ có phải chỉ là nghi thức?
+Từ đó hai tác giả đi qua:
+
+- nghịch lý Condorcet,
+- cách bỏ phiếu theo cặp Condorcet,
+- vụ án ba thẩm phán (cùng một ý muốn mà ba trình tự biểu quyết cho ba bản án khác nhau),
+- cử tri trung vị,
+- lý do Hiến pháp Mỹ bền vững (ngưỡng hai phần ba vượt mốc 64%),
+- bỏ phiếu tán thành ở Đại sảnh Danh vọng bóng chày,
+- và kết bằng câu hỏi: lá phiếu phá thế hoà của Phó Tổng thống Mỹ có phải chỉ là nghi thức?
 
 ## Sơ đồ
 
@@ -712,9 +722,9 @@ Mục tiêu là chọn ngưỡng đa số nhỏ nhất bảo đảm kết cục 
 
 ### 7. Những tên tuổi vĩ đại nhất mọi thời (All-Time Greats): Đại sảnh Danh vọng và bỏ phiếu tán thành
 
-Trở về thực tế. Sau Nhà Trắng, được bầu vào Cooperstown (nơi đặt Đại sảnh Danh vọng bóng chày) có lẽ là vinh dự quốc gia được thèm muốn nhất ở Mỹ. Tư cách thành viên được quyết bằng bầu cử: cầu thủ có 10 năm thi đấu trở nên đủ điều kiện 5 năm sau khi giải nghệ.
+Trở về thực tế. Sau Nhà Trắng, được bầu vào Cooperstown (nơi đặt Đại sảnh Danh vọng bóng chày) có lẽ là vinh dự quốc gia được thèm muốn nhất ở Mỹ. Tư cách thành viên được quyết bằng bầu cử: cầu thủ có 10 năm thi đấu trở nên đủ điều kiện 5 năm sau khi giải nghệ. Chú thích của tác giả: tuy nhiên, cầu thủ đã nằm trên lá phiếu 15 năm mà không đắc cử thì mất tư cách; với những cầu thủ không đủ điều kiện theo cách thông thường, có một con đường khác là Ủy ban Lão thành (Old-Timers' Committee) xét các trường hợp đặc biệt và đôi khi bầu một hai người mỗi năm.
 
-Chú thích của tác giả: tuy nhiên, cầu thủ đã nằm trên lá phiếu 15 năm mà không đắc cử thì mất tư cách; với những cầu thủ không đủ điều kiện theo cách thông thường, có một con đường khác là Ủy ban Lão thành (Old-Timers' Committee) xét các trường hợp đặc biệt và đôi khi bầu một hai người mỗi năm. Cử tri là thành viên Hiệp hội Nhà báo Bóng chày Mỹ. Mỗi cử tri bầu tối đa 10 ứng viên; ai được hơn 75% số lá phiếu gửi về thì đắc cử.
+Cử tri là thành viên Hiệp hội Nhà báo Bóng chày Mỹ. Mỗi cử tri bầu tối đa 10 ứng viên; ai được hơn 75% số lá phiếu gửi về thì đắc cử.
 
 Chú thích của tác giả (số liệu năm 2007; trong sách, chú thích này gắn với ví dụ McGwire và Sosa ở phần bỏ phiếu tán thành bên dưới):
 
@@ -776,9 +786,9 @@ Các cuộc bầu cử tổng thống gần đây làm nổi bật tầm quan tr
 
 Chỉ một điều khoản của Hiến pháp quy định việc làm cụ thể của phó tổng thống: Điều I, Khoản 3, mục 4, theo đó Phó Tổng thống là Chủ tịch Thượng viện nhưng không có quyền bỏ phiếu, trừ khi số phiếu chia đều. Việc chủ tọa chỉ là "nghi thức, nghi thức vô ích", và phần lớn thời gian phó tổng thống giao nó cho các thượng nghị sĩ trẻ luân phiên do lãnh đạo phe đa số chọn. Câu hỏi: lá phiếu phá thế hoà có quan trọng, hay cũng chỉ là nghi thức?
 
-**Phần thảo luận của hai tác giả.** Thoạt nhìn, cả lập luận lẫn bằng chứng ủng hộ quan điểm nghi thức. Khả năng hoà nhỏ. Hoàn cảnh thuận lợi nhất cho thế hoà là khi mỗi thượng nghị sĩ có khả năng bầu bên này hay bên kia như nhau và số người bỏ phiếu là chẵn; khi đó khoảng 1 trong 12 cuộc biểu quyết sẽ hoà.
+**Phần thảo luận của hai tác giả.** Thoạt nhìn, cả lập luận lẫn bằng chứng ủng hộ quan điểm nghi thức. Khả năng hoà nhỏ. Hoàn cảnh thuận lợi nhất cho thế hoà là khi mỗi thượng nghị sĩ có khả năng bầu bên này hay bên kia như nhau và số người bỏ phiếu là chẵn; khi đó khoảng 1 trong 12 cuộc biểu quyết sẽ hoà. Chú thích của tác giả: khả năng một nhóm 50 thượng nghị sĩ cố định bầu thuận và 50 người còn lại bầu chống là (1/2)⁵⁰ × (1/2)⁵⁰; nhân với số cách chọn 50 người ủng hộ trong 100 người, được khoảng 1/12.
 
-Chú thích của tác giả: khả năng một nhóm 50 thượng nghị sĩ cố định bầu thuận và 50 người còn lại bầu chống là (1/2)⁵⁰ × (1/2)⁵⁰; nhân với số cách chọn 50 người ủng hộ trong 100 người, được khoảng 1/12. Tất nhiên lá phiếu của thượng nghị sĩ không hề ngẫu nhiên; chỉ khi hai đảng gần ngang nhau, hoặc có vấn đề đặc biệt gây chia rẽ khiến một số người bỏ phiếu khác đảng, lá phiếu của phó tổng thống mới được tính.
+Tất nhiên lá phiếu của thượng nghị sĩ không hề ngẫu nhiên; chỉ khi hai đảng gần ngang nhau, hoặc có vấn đề đặc biệt gây chia rẽ khiến một số người bỏ phiếu khác đảng, lá phiếu của phó tổng thống mới được tính.
 
 | Dữ kiện lịch sử | Số liệu |
 |---|---|
@@ -957,10 +967,12 @@ flowchart LR
   n0 --- n1
   n2["`Hai ứng viên thì quy tắc đa số chạy tốt: thích A hơn B thì bầu A`"]
   n1 --- n2
-  n3["`Mỹ 2000: Nader được gần 97,5 nghìn phiếu ở Florida, Bush thắng bang này cách biệt 537 phiếu`"]
+  n3["`Mỹ 2000: Nader được 97.488 phiếu ở Florida, Bush thắng bang này cách biệt 537 phiếu`"]
   n1 --- n3
   n4["`Không có Nader thì Gore đã thắng — hai tác giả chỉ trích cách bỏ phiếu, không chỉ trích Nader`"]
   n3 --- n4
+  n61["`Hai tác giả từng đề xuất Nader chọn cùng danh sách đại cử tri với Gore, Nader từ chối`"]
+  n3 --- n61
   n5["`Mỹ 1992: Perot được 19%, Clinton thắng 370 so với 168 phiếu đại cử tri`"]
   n1 --- n5
   n6["`Pháp 2002: cánh tả bầu thật lòng cho đảng nhỏ, Jospin thua Le Pen, vòng hai phải bầu Chirac`"]
@@ -969,6 +981,8 @@ flowchart LR
   n1 --- n7
   n8["`Nghịch lý: chỉ nên nói thật khi điều đó không quan trọng`"]
   n7 --- n8
+  n62["`Khả năng phá thế hoà gần bằng không ở Rhode Island, Texas, lớn hơn ở New Mexico, Ohio, Florida`"]
+  n7 --- n62
   n9["`Bầu sơ bộ: gọi ai đó là người dẫn đầu có thể thành lời tiên tri tự ứng nghiệm`"]
   n7 --- n9
   n10["`Arrow: cách cộng phiếu nào cũng có khiếm khuyết, nên luôn có động cơ bầu chiến lược`"]
@@ -1043,9 +1057,9 @@ flowchart LR
   n38 --- n44
   n45["`Nhận 2 người, ai cũng nghĩ DiMaggio chắc vào nên dồn phiếu cho người khác — DiMaggio không có phiếu nào`"]
   n44 --- n45
-  n46["`Hai quỹ từ thiện, mỗi quỹ 250 nghìn USD, đều ưu tiên 200 nghìn USD cho người vô gia cư`"]
+  n46["`Hai quỹ từ thiện, mỗi quỹ 250.000 USD, đều ưu tiên 200.000 USD cho người vô gia cư`"]
   n38 --- n46
-  n47["`Quỹ thích Yale đi trước, dồn hết cho Yale, chuyển 100 nghìn USD từ Michigan sang Yale`"]
+  n47["`Quỹ thích Yale đi trước, dồn hết cho Yale, chuyển 100.000 USD từ Michigan sang Yale`"]
   n46 --- n47
   n48["`Quốc hội Mỹ trước Luật Ngân sách 1974 duyệt khoản nhỏ trước — nay biểu quyết tổng ngân sách trước`"]
   n46 --- n48
@@ -1055,11 +1069,11 @@ flowchart LR
   n0 --- n50
   n51["`Thoạt nhìn là nghi thức: hoà chỉ khoảng 1 trong 12 cuộc biểu quyết, kể cả khi điều kiện thuận lợi nhất`"]
   n50 --- n51
-  n52["`Adams 29 lần trong 8 năm, Nixon 8 lần trong 1229 quyết định, tổng 243 lần trong 218 năm`"]
+  n52["`Adams 29 lần trong 8 năm, Nixon 8 lần trong 1.229 quyết định, tổng 243 lần trong 218 năm`"]
   n51 --- n52
   n53["`Đo theo tác động, lá phiếu này quan trọng gần ngang lá phiếu của một thượng nghị sĩ`"]
   n50 --- n53
-  n54["`Nó quyết định những vấn đề gây chia rẽ nhất: phiếu của Bush cha cứu chương trình tên lửa MX`"]
+  n54["`Nó quyết định những vấn đề gây chia rẽ nhất: phiếu của George H. W. Bush cứu chương trình tên lửa MX`"]
   n53 --- n54
   n55["`Nếu có phiếu thường thứ 101, nó cũng chỉ đổi kết quả khi Thượng viện chia 50:50`"]
   n53 --- n55
@@ -1075,7 +1089,7 @@ flowchart LR
   n57 --- n60
   class n0 root
   class n1,n11,n26,n38,n50,n57 branch
-  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55,n56,n58,n59,n60 leaf
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55,n56,n58,n59,n60,n61,n62 leaf
 ```
 
 ## Nguồn

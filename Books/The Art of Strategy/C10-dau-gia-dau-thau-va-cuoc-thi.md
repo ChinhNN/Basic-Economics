@@ -1159,10 +1159,14 @@ Hai tác giả nói chặt chẽ thì kết quả AT&T và MCI mỗi bên lấy 
 
 ### Vận dụng: trước mỗi lần bỏ giá, đấu thầu hay đưa ra lời đề nghị, hãy hỏi "nếu đối phương nói đồng ý thì điều đó cho tôi biết gì?"
 
-- **Trong doanh nghiệp.** Khi dự thầu, hãy xác định đây là đấu thầu theo giá thấp nhất, chấm điểm tổng hợp hay đàm phán, rồi chọn chiến lược tương ứng: không bao giờ bỏ thầu dưới chi phí (đã gồm lợi nhuận bình thường), và nếu đối thủ đông, biên lợi nhuận sẽ bị ép về gần 0, đúng như chú thích của hai tác giả rằng khi số người bỏ giá tăng, giá bỏ hội tụ về giá trị và toàn bộ thặng dư về tay bên tổ chức đấu giá. Khi tranh một thị trường mới với đối thủ ngang sức, hãy nhận ra mình đang ở trò chơi chiếm trước hay cuộc chiến tiêu hao: với chiếm trước, đừng chờ tới khi hoàn hảo nhưng cũng đừng ra quá sớm như Apple Newton; với tiêu hao, khoản lỗ đã chịu là chi phí chìm, và lối ra tốt nhất thường là thoả thuận như Murdoch với BSB. Khi bán tài sản, hãy chọn thể thức giúp người mua bỏ giá thẳng thắn và đề phòng các bên chia nhau các lô hàng.
+- **Trong doanh nghiệp.** Khi dự thầu, hãy xác định đây là đấu thầu theo giá thấp nhất, chấm điểm tổng hợp hay đàm phán, rồi chọn chiến lược tương ứng: không bao giờ bỏ thầu dưới chi phí (đã gồm lợi nhuận bình thường), và nếu đối thủ đông, biên lợi nhuận sẽ bị ép về gần 0, đúng như chú thích của hai tác giả rằng khi số người bỏ giá tăng, giá bỏ hội tụ về giá trị và toàn bộ thặng dư về tay bên tổ chức đấu giá.
+
+  Khi tranh một thị trường mới với đối thủ ngang sức, hãy nhận ra mình đang ở trò chơi chiếm trước hay cuộc chiến tiêu hao: với chiếm trước, đừng chờ tới khi hoàn hảo nhưng cũng đừng ra quá sớm như Apple Newton; với tiêu hao, khoản lỗ đã chịu là chi phí chìm, và lối ra tốt nhất thường là thoả thuận như Murdoch với BSB. Khi bán tài sản, hãy chọn thể thức giúp người mua bỏ giá thẳng thắn và đề phòng các bên chia nhau các lô hàng.
 - **Trong đầu tư.** Khi tham gia mua tài sản có giá trị chung (cổ phần trong đợt chào bán, bất động sản đấu giá, công ty mục tiêu), chiến thắng trong một cuộc đấu đông người là tín hiệu rằng mình có thể đã quá lạc quan; hãy hạ giá bỏ theo số người cạnh tranh và theo mức không chắc chắn của định giá. Áp dụng phép tính ACME: giá trị trung bình sau cộng hưởng không phải mức trần; mức trần phải tính trên điều kiện người bán đã chấp nhận.
 - **Trong nghề nghiệp.** Khi đàm phán lương hay nhận lời mời làm việc, hãy hỏi trước: nếu công ty đồng ý ngay mức tôi đưa ra, điều đó nói gì về giá trị của tôi với họ hay về vị trí đó? Khi tham gia các cuộc thi tuyển hay xét thưởng mà "mọi người đều trả giá" (thời gian làm thêm, công sức đầu tư), hãy cân nhắc đó có phải cuộc chiến tiêu hao không, và giải thưởng có đáng với tổng chi phí không.
-- **Khi đọc tin chính sách.** Ở Việt Nam, đấu giá quyền sử dụng đất, đấu giá quyền khai thác khoáng sản, đấu giá biển số xe hay đấu giá tần số viễn thông đều là các ứng dụng trực tiếp của chương. Khi có tin về những phiên đấu giá đất với giá trúng cao bất thường rồi người trúng bỏ cọc, đó có thể vừa là lời nguyền của người thắng vừa là dấu hiệu luật đấu giá để hở chỗ cho chiến lược ngoài dự kiến; khi đọc về thiết kế một phiên đấu giá tần số, câu hỏi đáng đặt ra là bán lần lượt hay đồng thời, và luật có đề phòng các doanh nghiệp chia nhau các khối tần số hay không. Khi một khoản phí hay thuế được quy định "người mua chịu", hãy nhớ ví dụ phí người mua 20%: ai thực sự gánh còn tuỳ vào việc các bên điều chỉnh giá ra sao.
+- **Khi đọc tin chính sách.** Ở Việt Nam, đấu giá quyền sử dụng đất, đấu giá quyền khai thác khoáng sản, đấu giá biển số xe hay đấu giá tần số viễn thông đều là các ứng dụng trực tiếp của chương.
+
+  Khi có tin về những phiên đấu giá đất với giá trúng cao bất thường rồi người trúng bỏ cọc, đó có thể vừa là lời nguyền của người thắng vừa là dấu hiệu luật đấu giá để hở chỗ cho chiến lược ngoài dự kiến; khi đọc về thiết kế một phiên đấu giá tần số, câu hỏi đáng đặt ra là bán lần lượt hay đồng thời, và luật có đề phòng các doanh nghiệp chia nhau các khối tần số hay không. Khi một khoản phí hay thuế được quy định "người mua chịu", hãy nhớ ví dụ phí người mua 20%: ai thực sự gánh còn tuỳ vào việc các bên điều chỉnh giá ra sao.
 
 ## Bản đồ tư duy
 
@@ -1259,21 +1263,21 @@ flowchart LR
   n40 --- n41
   n42["`USA Today ra năm 1982, lỗ hơn 1 tỷ USD, 12 năm mới hoà vốn`"]
   n40 --- n42
-  n43["`Cân bằng: hai bên cùng hành động khi p(t) + q(t) bằng 1 (bài tập số 8)`"]
+  n43["`Cân bằng: hai bên cùng hành động khi p(t) + q(t) = 1 (bài tập số 8)`"]
   n40 --- n43
   n44["`Cuộc chiến tiêu hao: ai trụ lâu hơn thắng, nhưng mọi người đều trả giá mình bỏ`"]
   n39 --- n44
-  n45["`BSB và Murdoch lỗ tổng cộng 1,5 tỷ bảng sau một năm rồi sáp nhập`"]
+  n45["`BSB và Murdoch lỗ tổng cộng 1,5 tỷ bảng sau một năm, rồi sáp nhập vào phút chót`"]
   n44 --- n45
   n46["`Khoản lỗ đã chịu là chi phí chìm, không có chiến lược tốt nhất duy nhất, nên tìm thoả thuận`"]
   n44 --- n46
-  n47["`Mục 12–13 — Tình huống đấu giá phổ tần AT＆T và MCI`"]
+  n47["`Mục 12–13 — Tình huống đấu giá phổ tần AT#amp;T và MCI`"]
   n0 --- n47
   n48["`FCC thu hơn 40 tỷ USD (1994–2005), đấu giá 3G ở Anh thu 22,5 tỷ bảng`"]
   n47 --- n48
   n49["`Đấu giá đồng thời nhiều vòng: kết thúc khi có một vòng không ai bỏ giá`"]
   n47 --- n49
-  n50["`Giá trị NY và LA: AT＆T 10 và 9, MCI 9 và 8`"]
+  n50["`Giá trị NY và LA: AT#amp;T 10 và 9, MCI 9 và 8`"]
   n47 --- n50
   n51["`Bỏ 10 và 9 là bị trội yếu, bỏ 9 và 8 thắng cả hai nhưng chỉ lãi 2`"]
   n50 --- n51
