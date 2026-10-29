@@ -1,11 +1,12 @@
 # Chương 8 — Diễn giải và thao túng thông tin (Interpreting and Manipulating Information)
 
-**Nguồn:** Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Phần III, Chương 8.
-**Tác giả:** Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Sách kế thừa *Thinking Strategically* (1991) của cùng hai tác giả.
-**Vị trí trong lập luận của cả cuốn sách:** Phần I dạy các công cụ cơ bản (suy luận ngược, thế lưỡng nan của người tù, cân bằng Nash). Phần II bàn cách thay đổi trò chơi: Chương 5 về chiến lược hỗn hợp (giữ cho đối thủ không đoán được), Chương 6 về nước đi chiến lược (cam kết, đe doạ, hứa hẹn), Chương 7 về cách làm cho các nước đi đó đáng tin. Chương 8 mở đầu Phần III (Chương 8–14, nơi các công cụ được áp dụng vào từng nhóm tình huống) và hỏi một câu yếu hơn câu của Chương 7: khi không thể buộc người khác giữ lời, làm sao ít nhất biết được điều họ nói có thật hay không? Câu trả lời là quan sát hành động có chi phí, qua hai công cụ: phát tín hiệu (signaling) và sàng lọc (screening). Chương 9 (hợp tác và phối hợp), Chương 10 (đấu giá, nơi "lời nguyền người thắng" được nhắc ở đây sẽ được giải quyết), Chương 13 (thiết kế khuyến khích khi không quan sát được nỗ lực) đều dùng lại các ý của chương này; Chương 14 có bốn tình huống tiếp nối, trong đó có lời giải cho thế khó của vua Solomon.
-**Ý chính:** Hai tác giả muốn người đọc hiểu rằng **hành động nói to hơn lời nói**: lời nói của một người có lợi ích khác mình thì không đáng tin, còn một hành động chỉ đáng tin khi nó tốn kém với người nói dối hơn là với người nói thật. Ví dụ trung tâm mở đầu chương là chuyện cô Sue yêu cầu người yêu xăm tên mình lên người: hình xăm gần như không tốn gì nếu anh ta định gắn bó lâu dài, nhưng sẽ là vật chứng ngượng ngùng nếu anh ta không định cưới. Anh ta từ chối, và Sue có câu trả lời. Từ đó chương đi qua bảo hành xe cũ, thị trường "xe chanh" của Akerlof, bằng MBA như công cụ sàng lọc, thủ tục hành chính và trợ cấp bằng hiện vật, việc không phát tín hiệu cũng là tín hiệu, phản tín hiệu, gây nhiễu tín hiệu, điệp viên Ashraf Marwan, cách dùng quy tắc Bayes khi chơi poker, và kết thúc bằng phép tính chi tiết về cách hãng hàng không phân biệt giá giữa khách doanh nhân và khách du lịch.
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2007–2008, nên các ví dụ thương mại mang dấu ấn thời đó: phần mềm bán qua đĩa CD gửi bưu điện, máy in laser IBM, đầu DVD Sharp với chuẩn PAL và NTSC, chương trình chuyển dư nợ của Capital One "suốt một thập kỷ từ khi lên sàn năm 1994", chế độ bảo hành của Hyundai năm 1999. Từ đó, phần mềm chủ yếu bán qua tải về và thuê bao, nhưng chiến lược tạo phiên bản (bản "lite", bản miễn phí, bản cao cấp) vẫn phổ biến hơn bao giờ hết. Về vụ Ashraf Marwan, sau khi sách in đã có thêm sách và phim nghiêng về giả thuyết ông là điệp viên thật cho Israel, nhưng câu hỏi vẫn chưa ngã ngũ. Chương có **8 chú thích chân trang** của tác giả (dấu `*` trong sách), đều đã đưa vào đúng chỗ và ghi "Chú thích của tác giả". Chương có ba hình (một công thức, một bảng xác suất trong poker, một bảng giá và chi phí của hãng hàng không); cả ba đã được dựng lại. Chương có một bài tập "Trip to the Gym" (số 5), đã đưa đáp án vào ngay sau đề. Các câu trích là bản dịch của người tổng hợp.
+Hai tác giả muốn người đọc hiểu rằng **hành động nói to hơn lời nói**: lời nói của một người có lợi ích khác mình thì không đáng tin, còn một hành động chỉ đáng tin khi nó tốn kém với người nói dối hơn là với người nói thật.
+
+Ví dụ trung tâm mở đầu chương là chuyện cô Sue yêu cầu người yêu xăm tên mình lên người: hình xăm gần như không tốn gì nếu anh ta định gắn bó lâu dài, nhưng sẽ là vật chứng ngượng ngùng nếu anh ta không định cưới. Anh ta từ chối, và Sue có câu trả lời.
+
+Từ đó chương đi qua bảo hành xe cũ, thị trường "xe chanh" của Akerlof, bằng MBA như công cụ sàng lọc, thủ tục hành chính và trợ cấp bằng hiện vật, việc không phát tín hiệu cũng là tín hiệu, phản tín hiệu, gây nhiễu tín hiệu, điệp viên Ashraf Marwan, cách dùng quy tắc Bayes khi chơi poker, và kết thúc bằng phép tính chi tiết về cách hãng hàng không phân biệt giá giữa khách doanh nhân và khách du lịch.
 
 ## Sơ đồ
 
@@ -861,11 +862,15 @@
 
 Hai tác giả mở chương bằng một chuyện có thật về người bạn họ gọi là Sue. Ở tuổi 37, Sue yêu một giám đốc điều hành rất thành đạt, thông minh, độc thân, và anh ta nói yêu cô. Sue muốn kết hôn và có con; anh ta đồng ý với kế hoạch đó, nhưng giải thích rằng các con riêng từ cuộc hôn nhân trước chưa sẵn sàng để bố tái hôn, nên cần thời gian. Sue sẵn lòng chờ, miễn là biết chắc sự chờ đợi có kết quả. Vấn đề là làm sao biết lời anh ta có thật lòng, khi mọi cam kết công khai đều không thể, vì bọn trẻ sẽ biết.
 
-Điều Sue cần là một tín hiệu đáng tin. Hai tác giả gọi nó là "họ hàng" của công cụ cam kết ở chương trước: Chương 7 bàn những chiến lược bảo đảm người ta làm đúng điều đã nói, còn ở đây chỉ cần một thứ yếu hơn, giúp Sue hiểu anh ta có nghiêm túc hay không. Sau nhiều suy nghĩ, Sue đề nghị anh ta xăm tên cô, một hình xăm nhỏ, kín đáo, không ai khác phải thấy. Nếu anh ta định gắn bó lâu dài, hình xăm là sự tôn vinh tình yêu và gần như không tốn gì; nếu không, nó sẽ là vật chứng ngượng ngùng cho người tình kế tiếp phát hiện. Anh ta chần chừ, nên Sue ra đi. Cô gặp người khác, nay đã kết hôn và có con; còn anh ta, theo cách nói đùa của hai tác giả, vẫn "nằm trên đường băng, bị hoãn cất cánh vĩnh viễn".
+Điều Sue cần là một tín hiệu đáng tin. Hai tác giả gọi nó là "họ hàng" của công cụ cam kết ở chương trước: Chương 7 bàn những chiến lược bảo đảm người ta làm đúng điều đã nói, còn ở đây chỉ cần một thứ yếu hơn, giúp Sue hiểu anh ta có nghiêm túc hay không.
+
+Sau nhiều suy nghĩ, Sue đề nghị anh ta xăm tên cô, một hình xăm nhỏ, kín đáo, không ai khác phải thấy. Nếu anh ta định gắn bó lâu dài, hình xăm là sự tôn vinh tình yêu và gần như không tốn gì; nếu không, nó sẽ là vật chứng ngượng ngùng cho người tình kế tiếp phát hiện. Anh ta chần chừ, nên Sue ra đi. Cô gặp người khác, nay đã kết hôn và có con; còn anh ta, theo cách nói đùa của hai tác giả, vẫn "nằm trên đường băng, bị hoãn cất cánh vĩnh viễn".
 
 ### 2. Sao không cứ nói thật? (Tell It Like It Is?)
 
-Người ta không thể luôn tin lời nhau vì nói thật có thể trái lợi ích của người nói. Khi lợi ích trùng nhau, lời nói đáng tin: bạn gọi bít tết chín tái thì người phục vụ cứ tin là bạn muốn chín tái, vì anh ta muốn làm bạn hài lòng. Khi bạn hỏi nên gọi món gì hay rượu gì, lợi ích bắt đầu lệch: người phục vụ có thể hướng bạn tới món đắt để được tiền boa cao hơn. Nhà khoa học kiêm nhà văn Anh C. P. Snow kể rằng nhà toán học G. H. Hardy từng nói: nếu Tổng giám mục Canterbury nói ông tin có Chúa thì đó chỉ là chuyện nghề nghiệp, còn nếu ông nói không tin thì có thể tin ông nói thật. Cũng vậy, khi người phục vụ khuyên món bít tết thăn rẻ hay chai rượu Chile giá hời, bạn có mọi lý do để tin; khi anh ta khuyên món đắt, có thể anh ta vẫn đúng nhưng bạn khó biết.
+Người ta không thể luôn tin lời nhau vì nói thật có thể trái lợi ích của người nói. Khi lợi ích trùng nhau, lời nói đáng tin: bạn gọi bít tết chín tái thì người phục vụ cứ tin là bạn muốn chín tái, vì anh ta muốn làm bạn hài lòng. Khi bạn hỏi nên gọi món gì hay rượu gì, lợi ích bắt đầu lệch: người phục vụ có thể hướng bạn tới món đắt để được tiền boa cao hơn.
+
+Nhà khoa học kiêm nhà văn Anh C. P. Snow kể rằng nhà toán học G. H. Hardy từng nói: nếu Tổng giám mục Canterbury nói ông tin có Chúa thì đó chỉ là chuyện nghề nghiệp, còn nếu ông nói không tin thì có thể tin ông nói thật. Cũng vậy, khi người phục vụ khuyên món bít tết thăn rẻ hay chai rượu Chile giá hời, bạn có mọi lý do để tin; khi anh ta khuyên món đắt, có thể anh ta vẫn đúng nhưng bạn khó biết.
 
 Xung đột lợi ích càng lớn, lời nhắn càng kém tin. Hai tác giả nhắc lại cầu thủ sút phạt đền và thủ môn ở Chương 5: nếu ngay trước khi sút, cầu thủ nói "tôi sẽ sút bên phải", thủ môn không nên tin, vì lợi ích hai bên hoàn toàn đối nghịch. Nhưng thủ môn cũng không nên suy ra cầu thủ sẽ sút bên trái, vì cầu thủ có thể đang lừa ở tầng thứ hai, "nói dối bằng cách nói thật". Phản ứng hợp lý duy nhất trước lời khẳng định của người có lợi ích hoàn toàn đối nghịch là bỏ qua hẳn: không coi nó là đúng, cũng không coi điều ngược lại là đúng, mà tìm cân bằng của trò chơi thật và chơi theo đó (phần poker cuối chương chỉ cách làm).
 
@@ -903,7 +908,9 @@ Nhưng phát tín hiệu có thể thành một cuộc đua chuột. Nếu ngư�
 
 ### 5. Chất lượng có được bảo đảm không? (Is the Quality Guaranteed?)
 
-Bạn đi mua xe cũ và tìm được hai chiếc có vẻ tốt như nhau, nhưng chiếc thứ nhất có bảo hành, chiếc thứ hai không. Bạn chắc chắn thích chiếc thứ nhất và sẵn lòng trả cao hơn. Một phần vì nếu hỏng, xe được sửa miễn phí, dù bạn vẫn mất thời gian và chịu phiền toái không được đền. Phần quan trọng hơn là bạn tin chiếc xe có bảo hành ít hỏng hơn ngay từ đầu. Muốn hiểu vì sao, phải nghĩ theo chiến lược của người bán. Người bán biết rõ chất lượng xe hơn bạn. Nếu xe tốt, ít khả năng phải sửa tốn kém, bảo hành gần như không tốn gì; nếu xe tồi, bảo hành sẽ tốn nhiều. Vì vậy, kể cả khi đã tính giá cao hơn mà xe có bảo hành bán được, xe càng tồi thì bảo hành càng dễ thành món lỗ cho người bán.
+Bạn đi mua xe cũ và tìm được hai chiếc có vẻ tốt như nhau, nhưng chiếc thứ nhất có bảo hành, chiếc thứ hai không. Bạn chắc chắn thích chiếc thứ nhất và sẵn lòng trả cao hơn. Một phần vì nếu hỏng, xe được sửa miễn phí, dù bạn vẫn mất thời gian và chịu phiền toái không được đền. Phần quan trọng hơn là bạn tin chiếc xe có bảo hành ít hỏng hơn ngay từ đầu.
+
+Muốn hiểu vì sao, phải nghĩ theo chiến lược của người bán. Người bán biết rõ chất lượng xe hơn bạn. Nếu xe tốt, ít khả năng phải sửa tốn kém, bảo hành gần như không tốn gì; nếu xe tồi, bảo hành sẽ tốn nhiều. Vì vậy, kể cả khi đã tính giá cao hơn mà xe có bảo hành bán được, xe càng tồi thì bảo hành càng dễ thành món lỗ cho người bán.
 
 Bảo hành vì thế là một lời tuyên bố ngầm của người bán: "Tôi biết xe đủ tốt để có thể bảo hành." Bạn không thể tin lời tuyên bố suông "tôi biết xe này rất tốt", nhưng với bảo hành, người bán đặt tiền vào chỗ lời nói của mình. Việc đưa ra bảo hành dựa trên chính phép tính được mất của người bán, nên đáng tin theo cách lời nói không thể có. Người biết xe mình tồi sẽ không bảo hành, nên bảo hành tách người bán chỉ "nói suông" khỏi người bán "nói được làm được".
 
@@ -920,9 +927,13 @@ Bạn không cần chờ người bán nghĩ ra điều này. Bạn có thể ch
 
 Sàng lọc xảy ra khi người biết ít yêu cầu người biết nhiều làm một hành động lộ thông tin như vậy. Người bán có thể chủ động phát tín hiệu bằng cách đưa bảo hành, hoặc người mua chủ động sàng lọc bằng cách đòi bảo hành. Hai chiến lược có tác dụng tương tự, dù về kỹ thuật lý thuyết trò chơi, cân bằng sinh ra có thể khác nhau; khi cả hai đều khả thi, cách nào được dùng có thể tuỳ bối cảnh lịch sử, văn hoá hay thể chế của giao dịch.
 
-Một tín hiệu đáng tin phải đi ngược lợi ích của chủ xe tồi. Để nhấn mạnh, hai tác giả hỏi: nên hiểu thế nào khi người bán mời bạn đưa xe cho thợ kiểm tra? Đó không phải tín hiệu đáng tin. Nếu thợ tìm ra lỗi nghiêm trọng và bạn bỏ đi, người bán cũng không thiệt gì so với trước, dù xe tốt hay tồi; chủ xe tồi cũng mời như vậy được. Chú thích của tác giả: người bán có thể tự bỏ tiền đưa xe đi kiểm tra và trình giấy chứng nhận chất lượng, nhưng bạn có lý do để ngờ thợ thông đồng với người bán. Muốn tín hiệu đáng tin, người bán có thể cam kết hoàn tiền kiểm tra cho bạn nếu thợ tìm ra lỗi; cam kết đó tốn kém với người bán xe tồi hơn là với người bán xe tốt.
+Một tín hiệu đáng tin phải đi ngược lợi ích của chủ xe tồi. Để nhấn mạnh, hai tác giả hỏi: nên hiểu thế nào khi người bán mời bạn đưa xe cho thợ kiểm tra? Đó không phải tín hiệu đáng tin. Nếu thợ tìm ra lỗi nghiêm trọng và bạn bỏ đi, người bán cũng không thiệt gì so với trước, dù xe tốt hay tồi; chủ xe tồi cũng mời như vậy được.
 
-Bảo hành đáng tin vì có tính chất chênh lệch chi phí then chốt. Nhưng chính bảo hành cũng phải đáng tin theo nghĩa thi hành được khi cần. Ở đây có khác biệt lớn giữa người bán tư nhân và đại lý. Từ lúc bán tới lúc xe cần sửa, người bán tư nhân có thể chuyển nhà không để lại địa chỉ, hoặc không có tiền trả, và kiện ra toà rồi thi hành bản án có thể quá tốn với người mua. Đại lý có khả năng làm ăn lâu dài và có danh tiếng cần giữ, dù đại lý cũng có thể tìm cách chối bằng cách nói bạn bảo dưỡng kém hay lái ẩu. Nhìn chung, việc tiết lộ chất lượng xe (hay hàng tiêu dùng lâu bền khác) qua bảo hành hay cách khác khó khăn hơn nhiều trong giao dịch tư nhân so với khi mua của đại lý có tiếng.
+Chú thích của tác giả: người bán có thể tự bỏ tiền đưa xe đi kiểm tra và trình giấy chứng nhận chất lượng, nhưng bạn có lý do để ngờ thợ thông đồng với người bán. Muốn tín hiệu đáng tin, người bán có thể cam kết hoàn tiền kiểm tra cho bạn nếu thợ tìm ra lỗi; cam kết đó tốn kém với người bán xe tồi hơn là với người bán xe tốt.
+
+Bảo hành đáng tin vì có tính chất chênh lệch chi phí then chốt. Nhưng chính bảo hành cũng phải đáng tin theo nghĩa thi hành được khi cần.
+
+Ở đây có khác biệt lớn giữa người bán tư nhân và đại lý. Từ lúc bán tới lúc xe cần sửa, người bán tư nhân có thể chuyển nhà không để lại địa chỉ, hoặc không có tiền trả, và kiện ra toà rồi thi hành bản án có thể quá tốn với người mua. Đại lý có khả năng làm ăn lâu dài và có danh tiếng cần giữ, dù đại lý cũng có thể tìm cách chối bằng cách nói bạn bảo dưỡng kém hay lái ẩu. Nhìn chung, việc tiết lộ chất lượng xe (hay hàng tiêu dùng lâu bền khác) qua bảo hành hay cách khác khó khăn hơn nhiều trong giao dịch tư nhân so với khi mua của đại lý có tiếng.
 
 Các hãng xe chưa có danh tiếng chất lượng cũng gặp vấn đề tương tự. Cuối thập niên 1990, Hyundai đã nâng chất lượng xe nhưng người tiêu dùng Mỹ chưa nhận ra. Để truyền đạt điều đó một cách ấn tượng và đáng tin, năm 1999 hãng phát tín hiệu bằng một chế độ bảo hành chưa từng có: 10 năm hoặc 100.000 dặm cho hệ truyền động, 5 năm hoặc 50.000 dặm cho phần còn lại.
 
@@ -943,13 +954,21 @@ Chủ xe đào không chịu bán với giá này, nên chỉ xe chanh được 
 
 > **Chú thích của tác giả:** người mua ngây thơ trả 2.750 USD vì nghĩ đó là giá trị trung bình của một chiếc xe ngẫu nhiên sẽ là nạn nhân của **lời nguyền người thắng (winner's curse)**: mua được hàng rồi mới phát hiện nó không đáng giá như mình tưởng. Vấn đề này xảy ra khi chất lượng hàng không chắc chắn và thông tin của bạn chỉ là một mảnh ghép; chính việc người bán chịu nhận giá của bạn cho thấy phần thông tin còn thiếu không tốt như bạn đoán. Đôi khi lời nguyền người thắng làm thị trường sụp đổ hoàn toàn như ví dụ của Akerlof; lúc khác nó chỉ có nghĩa bạn phải trả thấp hơn để khỏi lỗ. Chương 10 sẽ chỉ cách tránh bẫy này.
 
-Dixit là nghiên cứu sinh khi bài của Akerlof ra đời. Ông và các nghiên cứu sinh khác lập tức thấy đây là ý tưởng xuất sắc, gây sửng sốt, loại ý tưởng làm nên cách mạng khoa học. Chỉ có một vấn đề: gần như tất cả họ đều lái xe cũ, phần lớn mua qua giao dịch tư nhân, và phần lớn không phải xe chanh. Hẳn phải có cách để người tham gia thị trường đối phó với vấn đề thông tin mà Akerlof nêu. Có những cách hiển nhiên: một số sinh viên khá rành máy móc, những người khác nhờ bạn xem giúp; họ hỏi lịch sử xe qua mạng lưới bạn bè chung; và nhiều chủ xe tốt buộc phải bán với gần như bất kỳ giá nào vì chuyển đi xa, ra nước ngoài, hay cần xe to hơn khi gia đình đông thêm.
+Dixit là nghiên cứu sinh khi bài của Akerlof ra đời. Ông và các nghiên cứu sinh khác lập tức thấy đây là ý tưởng xuất sắc, gây sửng sốt, loại ý tưởng làm nên cách mạng khoa học. Chỉ có một vấn đề: gần như tất cả họ đều lái xe cũ, phần lớn mua qua giao dịch tư nhân, và phần lớn không phải xe chanh.
+
+Hẳn phải có cách để người tham gia thị trường đối phó với vấn đề thông tin mà Akerlof nêu. Có những cách hiển nhiên: một số sinh viên khá rành máy móc, những người khác nhờ bạn xem giúp; họ hỏi lịch sử xe qua mạng lưới bạn bè chung; và nhiều chủ xe tốt buộc phải bán với gần như bất kỳ giá nào vì chuyển đi xa, ra nước ngoài, hay cần xe to hơn khi gia đình đông thêm.
 
 Bước đột phá khái niệm tiếp theo phải chờ công trình của Michael Spence về cách hành động chiến lược truyền đạt thông tin. Spence phát triển ý tưởng phát tín hiệu và làm rõ tính chất then chốt làm tín hiệu đáng tin: kết quả của cùng một hành động khác nhau với những người chơi có thông tin khác nhau. Chú thích của tác giả: đây là trường hợp rất đáng đọc nguyên bản, cuốn *Market Signaling* của A. Michael Spence (Harvard University Press, 1974); ý tưởng tương tự trong tâm lý học xuất hiện ở cuốn kinh điển *The Presentation of Self in Everyday Life* của Erving Goffman (1959).
 
-Ý tưởng sàng lọc bắt nguồn từ công trình của James Mirrlees và William Vickrey, và được phát biểu rõ nhất trong công trình của Michael Rothschild và Joseph Stiglitz về thị trường bảo hiểm. Người mua bảo hiểm biết rủi ro của mình rõ hơn công ty bảo hiểm. Công ty có thể yêu cầu họ chọn giữa các gói có mức khấu trừ và tỷ lệ đồng chi trả khác nhau; người rủi ro thấp sẽ thích gói phí thấp nhưng tự chịu phần rủi ro lớn hơn, còn gói đó kém hấp dẫn với người biết mình rủi ro cao. Lựa chọn của người mua vì thế lộ ra loại rủi ro của họ. Ý tưởng sàng lọc bằng một thực đơn lựa chọn được thiết kế khéo nay là chìa khoá để hiểu nhiều hiện tượng thị trường, chẳng hạn các điều kiện hạn chế mà hãng hàng không gắn vào vé giảm giá.
+Ý tưởng sàng lọc bắt nguồn từ công trình của James Mirrlees và William Vickrey, và được phát biểu rõ nhất trong công trình của Michael Rothschild và Joseph Stiglitz về thị trường bảo hiểm.
 
-Thị trường bảo hiểm còn góp thêm một ý. Các công ty bảo hiểm từ lâu biết hợp đồng của họ thu hút chọn lọc những rủi ro tệ nhất. Một hợp đồng nhân thọ thu phí 5 xu cho mỗi đô la bảo hiểm đặc biệt hấp dẫn người có tỷ lệ tử vong trên 5%. Nhiều người rủi ro thấp vẫn mua vì cần bảo vệ gia đình, nhưng người rủi ro cao nhất sẽ chiếm tỷ lệ quá lớn và mua hợp đồng lớn hơn. Tăng phí còn làm tình hình tệ hơn: người rủi ro thấp thấy quá đắt và bỏ đi, chỉ còn lại ca xấu. Đó lại là "hiệu ứng Groucho Marx" (theo câu đùa của danh hài Groucho Marx rằng ông không muốn vào câu lạc bộ nào chịu nhận người như ông): ai chịu mua bảo hiểm với giá đó thì chính là người bạn không muốn bảo hiểm. Trong ví dụ của Akerlof cũng vậy: người mua không biết chất lượng từng xe nên không trả giá khác nhau được, và việc bán xe hấp dẫn riêng chủ xe chanh. Vì những loại "xấu" bị giao dịch thu hút một cách chọn lọc, ngành bảo hiểm gọi hiện tượng này là **lựa chọn ngược (adverse selection)**, và cả nhánh nghiên cứu về thông tin bất cân xứng trong lý thuyết trò chơi và kinh tế học thừa hưởng tên gọi đó.
+Người mua bảo hiểm biết rủi ro của mình rõ hơn công ty bảo hiểm. Công ty có thể yêu cầu họ chọn giữa các gói có mức khấu trừ và tỷ lệ đồng chi trả khác nhau; người rủi ro thấp sẽ thích gói phí thấp nhưng tự chịu phần rủi ro lớn hơn, còn gói đó kém hấp dẫn với người biết mình rủi ro cao. Lựa chọn của người mua vì thế lộ ra loại rủi ro của họ. Ý tưởng sàng lọc bằng một thực đơn lựa chọn được thiết kế khéo nay là chìa khoá để hiểu nhiều hiện tượng thị trường, chẳng hạn các điều kiện hạn chế mà hãng hàng không gắn vào vé giảm giá.
+
+Thị trường bảo hiểm còn góp thêm một ý. Các công ty bảo hiểm từ lâu biết hợp đồng của họ thu hút chọn lọc những rủi ro tệ nhất. Một hợp đồng nhân thọ thu phí 5 xu cho mỗi đô la bảo hiểm đặc biệt hấp dẫn người có tỷ lệ tử vong trên 5%. Nhiều người rủi ro thấp vẫn mua vì cần bảo vệ gia đình, nhưng người rủi ro cao nhất sẽ chiếm tỷ lệ quá lớn và mua hợp đồng lớn hơn.
+
+Tăng phí còn làm tình hình tệ hơn: người rủi ro thấp thấy quá đắt và bỏ đi, chỉ còn lại ca xấu. Đó lại là "hiệu ứng Groucho Marx" (theo câu đùa của danh hài Groucho Marx rằng ông không muốn vào câu lạc bộ nào chịu nhận người như ông): ai chịu mua bảo hiểm với giá đó thì chính là người bạn không muốn bảo hiểm.
+
+Trong ví dụ của Akerlof cũng vậy: người mua không biết chất lượng từng xe nên không trả giá khác nhau được, và việc bán xe hấp dẫn riêng chủ xe chanh. Vì những loại "xấu" bị giao dịch thu hút một cách chọn lọc, ngành bảo hiểm gọi hiện tượng này là **lựa chọn ngược (adverse selection)**, và cả nhánh nghiên cứu về thông tin bất cân xứng trong lý thuyết trò chơi và kinh tế học thừa hưởng tên gọi đó.
 
 Hiệu ứng này có thể đảo ngược thành "lựa chọn thuận lợi". Từ khi lên sàn năm 1994, Capital One là một trong những công ty thành công nhất nước Mỹ, với một thập kỷ tăng trưởng kép 40% mỗi năm, chưa kể sáp nhập và mua lại. Là người mới trong ngành thẻ tín dụng, sáng kiến lớn của Capital One là cho khách chuyển dư nợ từ thẻ khác sang và hưởng lãi suất thấp hơn, ít nhất trong một thời gian. Ưu đãi này sinh lãi vì lựa chọn thuận lợi. Đại thể có ba loại khách thẻ tín dụng:
 
@@ -976,11 +995,17 @@ Giả sử ứng viên có thể học MBA. Các con số giả định của ha
 | Lương tối thiểu phải trả người có MBA | 90.000 USD/năm |
 | Xác suất tốt nghiệp: người có tài / người không có tài | 100% / 50% |
 
-Nếu người không có tài lấy bằng MBA dễ như người có tài, bằng MBA chẳng phân loại được gì: cả hai loại đều có bằng và mong kiếm đủ để bù chi phí. MBA chỉ phân biệt được hai loại khi người có tài lấy bằng dễ hơn hoặc rẻ hơn. Giả sử người có tài chắc chắn tốt nghiệp, còn người không có tài chỉ có 50% khả năng. Bạn trả hơn 90.000 USD một chút, chẳng hạn 100.000 USD, cho người có MBA. Người có tài thấy đáng đi học. Người không có tài có 50% khả năng đỗ và nhận 100.000 USD, 50% khả năng trượt và phải làm việc khác với mức 50.000 USD thông thường; với 50% cơ hội tăng gấp đôi lương, trung bình họ chỉ được thêm 25.000 USD/năm, không đủ khấu hao chi phí MBA trong 5 năm, nên họ không đi học. Khi đó ai có MBA đều có tài quản lý bạn cần: nhóm sinh viên tốt nghiệp tự chia thành hai nhóm đúng như bạn muốn. MBA là công cụ sàng lọc, và hai tác giả nhấn mạnh lần nữa: nó hoạt động vì chi phí dùng công cụ thấp hơn với người bạn muốn thu hút so với người bạn muốn tránh.
+Nếu người không có tài lấy bằng MBA dễ như người có tài, bằng MBA chẳng phân loại được gì: cả hai loại đều có bằng và mong kiếm đủ để bù chi phí. MBA chỉ phân biệt được hai loại khi người có tài lấy bằng dễ hơn hoặc rẻ hơn.
+
+Giả sử người có tài chắc chắn tốt nghiệp, còn người không có tài chỉ có 50% khả năng. Bạn trả hơn 90.000 USD một chút, chẳng hạn 100.000 USD, cho người có MBA. Người có tài thấy đáng đi học. Người không có tài có 50% khả năng đỗ và nhận 100.000 USD, 50% khả năng trượt và phải làm việc khác với mức 50.000 USD thông thường; với 50% cơ hội tăng gấp đôi lương, trung bình họ chỉ được thêm 25.000 USD/năm, không đủ khấu hao chi phí MBA trong 5 năm, nên họ không đi học.
+
+Khi đó ai có MBA đều có tài quản lý bạn cần: nhóm sinh viên tốt nghiệp tự chia thành hai nhóm đúng như bạn muốn. MBA là công cụ sàng lọc, và hai tác giả nhấn mạnh lần nữa: nó hoạt động vì chi phí dùng công cụ thấp hơn với người bạn muốn thu hút so với người bạn muốn tránh.
 
 Nghịch lý là công ty có thể tuyển sinh viên MBA ngay ngày đầu nhập học: khi sàng lọc hoạt động, chỉ người có tài đăng ký, nên không cần chờ họ tốt nghiệp. Nhưng nếu cách này phổ biến, người không có tài sẽ bắt đầu đăng ký và là những người đầu tiên bỏ học; sàng lọc chỉ hoạt động chừng nào người ta còn phải học hết hai năm.
 
-Sàng lọc này tốn kém đáng kể. Nếu nhận ra người có tài trực tiếp, bạn chỉ cần trả họ hơn 50.000 USD một chút, mức họ kiếm được ở nơi khác. Nay bạn phải trả hơn 90.000 USD để người có tài thấy đáng bỏ chi phí tự chứng minh mình. Khoản thêm 40.000 USD/năm trong 5 năm là cái giá để khắc phục bất lợi thông tin của bạn. Cái giá đó có được là do sự tồn tại của người không có tài: nếu ai cũng là nhà quản lý giỏi thì chẳng cần sàng lọc. Người không có tài, chỉ bằng việc tồn tại, gây một ngoại ứng tiêu cực lên những người khác. Ban đầu người có tài chịu chi phí, nhưng rồi công ty phải trả họ cao hơn, nên cuối cùng công ty chịu. Hai tác giả gọi đây là **ngoại ứng thông tin** và khuyên người đọc tìm ra nó trong mọi ví dụ phía sau.
+Sàng lọc này tốn kém đáng kể. Nếu nhận ra người có tài trực tiếp, bạn chỉ cần trả họ hơn 50.000 USD một chút, mức họ kiếm được ở nơi khác. Nay bạn phải trả hơn 90.000 USD để người có tài thấy đáng bỏ chi phí tự chứng minh mình. Khoản thêm 40.000 USD/năm trong 5 năm là cái giá để khắc phục bất lợi thông tin của bạn.
+
+Cái giá đó có được là do sự tồn tại của người không có tài: nếu ai cũng là nhà quản lý giỏi thì chẳng cần sàng lọc. Người không có tài, chỉ bằng việc tồn tại, gây một ngoại ứng tiêu cực lên những người khác. Ban đầu người có tài chịu chi phí, nhưng rồi công ty phải trả họ cao hơn, nên cuối cùng công ty chịu. Hai tác giả gọi đây là **ngoại ứng thông tin** và khuyên người đọc tìm ra nó trong mọi ví dụ phía sau.
 
 Có đáng trả cái giá đó không, hay nên tuyển ngẫu nhiên với giá 50.000 USD mỗi người và chấp nhận rủi ro? Tuỳ tỷ lệ người có tài và mức thiệt hại mỗi người kém gây ra:
 
@@ -997,13 +1022,17 @@ Thường có nhiều cách nhận ra tài năng, và bạn nên dùng cách r�
 
 Khi mọi công ty cùng làm vậy, mọi phép tính về chi phí tuyển người học việc, cơ cấu lương và thưởng đều thay đổi. Quan trọng nhất, cạnh tranh giữa các công ty đẩy lương người có tài lên trên mức tối thiểu cần để thu hút họ (90.000 USD với người có MBA). Trong ví dụ này, lương không thể vượt 130.000 USD; nếu vượt, người không có tài cũng thấy đáng đi học MBA, và nhóm người có MBA bị "nhiễm" những người không có tài nhưng may mắn đỗ. Chú thích của tác giả: một nửa số lần, người không có tài lấy được bằng và với lương 130.000 USD được thêm 80.000 USD, tức trung bình 40.000 USD, vừa đủ bù chi phí học trong 5 năm.
 
-Đến đây MBA được xem như công cụ sàng lọc: công ty đặt nó làm điều kiện tuyển dụng và gắn lương khởi điểm với tấm bằng. Nhưng nó cũng có thể là công cụ phát tín hiệu do ứng viên khởi xướng. Giả sử bạn chưa nghĩ ra cách này, đang tuyển ngẫu nhiên với giá 50.000 USD và chịu lỗ do những người kém. Một ứng viên có MBA tới, giải thích tấm bằng chứng minh tài năng của anh ta, và nói: "Biết tôi là nhà quản lý giỏi làm lợi nhuận kỳ vọng công ty thu từ tôi tăng thêm một triệu. Tôi sẽ làm cho anh nếu được trả trên 75.000 USD/năm." Chừng nào khả năng phân loại tài quản lý của trường kinh doanh là rõ ràng, đây là đề nghị hấp dẫn với bạn. Sàng lọc và phát tín hiệu do hai bên khác nhau khởi xướng, nhưng cùng một nguyên lý: hành động phân biệt các loại người chơi hay cho thấy thông tin riêng mà một người chơi nắm giữ.
+Đến đây MBA được xem như công cụ sàng lọc: công ty đặt nó làm điều kiện tuyển dụng và gắn lương khởi điểm với tấm bằng. Nhưng nó cũng có thể là công cụ phát tín hiệu do ứng viên khởi xướng.
+
+Giả sử bạn chưa nghĩ ra cách này, đang tuyển ngẫu nhiên với giá 50.000 USD và chịu lỗ do những người kém. Một ứng viên có MBA tới, giải thích tấm bằng chứng minh tài năng của anh ta, và nói: "Biết tôi là nhà quản lý giỏi làm lợi nhuận kỳ vọng công ty thu từ tôi tăng thêm một triệu. Tôi sẽ làm cho anh nếu được trả trên 75.000 USD/năm." Chừng nào khả năng phân loại tài quản lý của trường kinh doanh là rõ ràng, đây là đề nghị hấp dẫn với bạn. Sàng lọc và phát tín hiệu do hai bên khác nhau khởi xướng, nhưng cùng một nguyên lý: hành động phân biệt các loại người chơi hay cho thấy thông tin riêng mà một người chơi nắm giữ.
 
 ### 8. Phát tín hiệu qua thủ tục hành chính (Signaling via Bureaucracy)
 
 Ở Mỹ, Workers' Compensation là hệ thống bảo hiểm do nhà nước vận hành, chi trả điều trị chấn thương và bệnh tật liên quan tới công việc. Mục tiêu đáng khen nhưng kết quả có vấn đề: người quản lý hệ thống khó biết mức độ nặng của chấn thương (có khi cả việc chấn thương có thật hay không) và chi phí điều trị. Người lao động và bác sĩ điều trị biết rõ hơn nhưng có cám dỗ mạnh để phóng đại và nhận nhiều tiền hơn mức xứng đáng. Ước tính có từ 20% hồ sơ trở lên liên quan tới gian lận. Stan Long, CEO công ty bảo hiểm Workers' Compensation thuộc sở hữu của bang Oregon, nói: nếu bạn vận hành một hệ thống phát tiền cho bất kỳ ai xin, bạn sẽ có rất nhiều người xin tiền.
 
-Giám sát có thể giải quyết một phần: người khai, hay ít nhất người bị nghi khai gian, bị theo dõi bí mật; nếu bị bắt gặp làm việc không khớp với chấn thương đã khai (người khai đau lưng nặng đang khuân đồ nặng), hồ sơ bị bác và họ bị truy tố. Nhưng giám sát tốn kém. Phân tích về khai thác thông tin gợi ra các công cụ sàng lọc khác: bắt người khai dành nhiều thời gian điền mẫu đơn, ngồi cả ngày ở cơ quan để nói chuyện năm phút với một viên chức. Người thật ra khoẻ mạnh, có thể kiếm tiền tốt nếu đi làm cả ngày, phải bỏ khoản thu nhập đó nên thấy chờ đợi quá tốn; người thật sự bị thương, không làm việc được, thì có thời gian. Người ta thường coi sự chậm chạp và phiền hà của bộ máy hành chính là bằng chứng chính phủ kém hiệu quả, nhưng đôi khi chúng là chiến lược có giá trị để đối phó với vấn đề thông tin.
+Giám sát có thể giải quyết một phần: người khai, hay ít nhất người bị nghi khai gian, bị theo dõi bí mật; nếu bị bắt gặp làm việc không khớp với chấn thương đã khai (người khai đau lưng nặng đang khuân đồ nặng), hồ sơ bị bác và họ bị truy tố. Nhưng giám sát tốn kém.
+
+Phân tích về khai thác thông tin gợi ra các công cụ sàng lọc khác: bắt người khai dành nhiều thời gian điền mẫu đơn, ngồi cả ngày ở cơ quan để nói chuyện năm phút với một viên chức. Người thật ra khoẻ mạnh, có thể kiếm tiền tốt nếu đi làm cả ngày, phải bỏ khoản thu nhập đó nên thấy chờ đợi quá tốn; người thật sự bị thương, không làm việc được, thì có thời gian. Người ta thường coi sự chậm chạp và phiền hà của bộ máy hành chính là bằng chứng chính phủ kém hiệu quả, nhưng đôi khi chúng là chiến lược có giá trị để đối phó với vấn đề thông tin.
 
 Trợ cấp bằng hiện vật có tác dụng tương tự. Nếu chính phủ hay công ty bảo hiểm phát tiền để người khuyết tật mua xe lăn, nhiều người có thể giả khuyết tật. Nếu phát thẳng xe lăn, động cơ giả vờ giảm hẳn, vì người không cần xe lăn phải mất nhiều công bán lại trên thị trường đồ cũ và chỉ được giá thấp. Nhà kinh tế thường cho rằng tiền mặt tốt hơn hiện vật, vì người nhận tự quyết định cách tiêu phù hợp nhất với sở thích của mình; nhưng khi thông tin bất cân xứng, trợ cấp hiện vật có thể tốt hơn vì nó là công cụ sàng lọc.
 
@@ -1011,19 +1040,31 @@ Trợ cấp bằng hiện vật có tác dụng tương tự. Nếu chính phủ
 
 Trong truyện "Silver Blaze", Sherlock Holmes lưu ý "sự việc kỳ lạ của con chó trong đêm"; khi người kia nói con chó chẳng làm gì cả, Holmes đáp rằng đó chính là điều kỳ lạ. Con chó không sủa nghĩa là kẻ đột nhập là người quen. Cũng vậy, khi một người không phát tín hiệu, việc đó cũng mang thông tin, thường là tin xấu nhưng không phải luôn luôn. Nếu người khác biết bạn có cơ hội làm một việc thể hiện điểm tốt của mình mà bạn không làm, họ sẽ hiểu là bạn không có điểm tốt đó. Bạn có thể vô tình không để ý tới vai trò tín hiệu của việc làm hay không làm, nhưng điều đó chẳng giúp gì bạn.
 
-Sinh viên đại học Mỹ có thể học nhiều môn lấy điểm chữ (A tới F) hoặc chỉ lấy đạt/không đạt (P hoặc F). Nhiều sinh viên nghĩ điểm P trên bảng điểm sẽ được hiểu là điểm đạt trung bình của thang chữ; với mức lạm phát điểm hiện nay ở Mỹ, đó ít nhất là B+, nhiều khả năng A–, nên lựa chọn pass/fail có vẻ hời. Nhưng trường sau đại học và chủ lao động đọc bảng điểm chiến lược hơn. Họ biết mỗi sinh viên tự đánh giá khá đúng năng lực mình. Người giỏi tới mức chắc được A+ có động cơ mạnh để học lấy điểm chữ, tách mình khỏi mức trung bình. Khi nhiều sinh viên A+ không còn chọn pass/fail, nhóm chọn pass/fail mất phần trên cùng; điểm trung bình của nhóm còn lại không còn là A– mà chỉ còn khoảng B+. Khi đó người biết mình sẽ được A cũng có thêm động cơ chọn điểm chữ để tách khỏi đám đông, và nhóm pass/fail mất thêm phần trên. Quá trình có thể tiếp diễn tới khi chủ yếu chỉ người biết mình sẽ được C hay tệ hơn mới chọn pass/fail, và người đọc bảng điểm có tư duy chiến lược sẽ hiểu điểm P đúng như vậy. Những sinh viên khá giỏi không nghĩ thấu điều này sẽ chịu hậu quả của sự thiếu hiểu biết chiến lược.
+Sinh viên đại học Mỹ có thể học nhiều môn lấy điểm chữ (A tới F) hoặc chỉ lấy đạt/không đạt (P hoặc F). Nhiều sinh viên nghĩ điểm P trên bảng điểm sẽ được hiểu là điểm đạt trung bình của thang chữ; với mức lạm phát điểm hiện nay ở Mỹ, đó ít nhất là B+, nhiều khả năng A–, nên lựa chọn pass/fail có vẻ hời.
 
-John, một người bạn của hai tác giả, rất giỏi thương lượng mua bán: ông xây một mạng lưới báo rao vặt toàn cầu qua không dưới 100 thương vụ mua lại. Khi lần đầu bán công ty, một điều khoản cho phép ông cùng đầu tư vào bất kỳ thương vụ mua lại mới nào ông mang tới cho bên mua. Chú thích của tác giả: chữ "lần đầu" có lý do; bên mua là Cendant, công ty sau đó thành nạn nhân của một vụ gian lận kế toán tại CUC, một đơn vị nó mua lại, và khi cổ phiếu Cendant lao dốc, John mua lại được công ty của mình với giá rẻ. John giải thích với bên mua rằng quyền cùng đầu tư giúp họ yên tâm thương vụ tốt và không trả giá quá cao. Bên mua hiểu lập luận và đi thêm một bước: John có hiểu rằng nếu ông không cùng đầu tư thì họ sẽ coi đó là dấu hiệu xấu và có lẽ không làm thương vụ không? Như vậy cơ hội được đầu tư thực chất thành yêu cầu phải đầu tư. Mọi việc bạn làm đều phát tín hiệu, kể cả việc không phát tín hiệu.
+Nhưng trường sau đại học và chủ lao động đọc bảng điểm chiến lược hơn. Họ biết mỗi sinh viên tự đánh giá khá đúng năng lực mình. Người giỏi tới mức chắc được A+ có động cơ mạnh để học lấy điểm chữ, tách mình khỏi mức trung bình. Khi nhiều sinh viên A+ không còn chọn pass/fail, nhóm chọn pass/fail mất phần trên cùng; điểm trung bình của nhóm còn lại không còn là A– mà chỉ còn khoảng B+.
+
+Khi đó người biết mình sẽ được A cũng có thêm động cơ chọn điểm chữ để tách khỏi đám đông, và nhóm pass/fail mất thêm phần trên. Quá trình có thể tiếp diễn tới khi chủ yếu chỉ người biết mình sẽ được C hay tệ hơn mới chọn pass/fail, và người đọc bảng điểm có tư duy chiến lược sẽ hiểu điểm P đúng như vậy. Những sinh viên khá giỏi không nghĩ thấu điều này sẽ chịu hậu quả của sự thiếu hiểu biết chiến lược.
+
+John, một người bạn của hai tác giả, rất giỏi thương lượng mua bán: ông xây một mạng lưới báo rao vặt toàn cầu qua không dưới 100 thương vụ mua lại. Khi lần đầu bán công ty, một điều khoản cho phép ông cùng đầu tư vào bất kỳ thương vụ mua lại mới nào ông mang tới cho bên mua. Chú thích của tác giả: chữ "lần đầu" có lý do; bên mua là Cendant, công ty sau đó thành nạn nhân của một vụ gian lận kế toán tại CUC, một đơn vị nó mua lại, và khi cổ phiếu Cendant lao dốc, John mua lại được công ty của mình với giá rẻ.
+
+John giải thích với bên mua rằng quyền cùng đầu tư giúp họ yên tâm thương vụ tốt và không trả giá quá cao. Bên mua hiểu lập luận và đi thêm một bước: John có hiểu rằng nếu ông không cùng đầu tư thì họ sẽ coi đó là dấu hiệu xấu và có lẽ không làm thương vụ không? Như vậy cơ hội được đầu tư thực chất thành yêu cầu phải đầu tư. Mọi việc bạn làm đều phát tín hiệu, kể cả việc không phát tín hiệu.
 
 ### 10. Phản tín hiệu (Countersignaling)
 
-Từ phần trước, có vẻ ai có khả năng phát tín hiệu về loại của mình thì nên phát, để tách khỏi người không làm được. Thế nhưng một số người có khả năng nhất lại không làm. Feltovich, Harbaugh và To đưa ra một loạt ví dụ: người mới giàu phô trương của cải, còn người giàu lâu đời khinh kiểu phô trương thô thiển đó; quan chức nhỏ chứng tỏ địa vị bằng những màn thể hiện quyền lực vặt, còn người thật sự quyền lực thể hiện sức mạnh bằng cử chỉ rộng lượng; người học vấn trung bình khoe nét chữ đều đặn, còn người học cao thường viết nguệch ngoạc; học sinh trung bình trả lời câu hỏi dễ của thầy, còn học sinh giỏi nhất ngại chứng tỏ mình biết những điều vụn vặt; người quen tỏ thiện ý bằng cách lịch sự lờ đi khuyết điểm của ta, còn bạn thân tỏ sự gần gũi bằng cách trêu chính khuyết điểm đó; người năng lực vừa phải tìm bằng cấp chính thức để gây ấn tượng, còn người tài thường không nhắc tới bằng cấp dù đã có; người danh tiếng trung bình phản bác những lời buộc tội nhắm vào mình, còn người rất được kính trọng thấy trả lời là hạ thấp mình.
+Từ phần trước, có vẻ ai có khả năng phát tín hiệu về loại của mình thì nên phát, để tách khỏi người không làm được. Thế nhưng một số người có khả năng nhất lại không làm.
 
-Nhận định của họ là trong một số hoàn cảnh, cách tốt nhất để thể hiện năng lực hay loại của mình là không phát tín hiệu, từ chối chơi trò phát tín hiệu. Hai tác giả minh hoạ bằng ba loại bạn đời tiềm năng: kẻ đào mỏ, người khó đoán (hai tác giả gọi là "dấu hỏi") và người yêu thật lòng. Một người đề nghị người kia ký hợp đồng tiền hôn nhân, lập luận rằng ký là rẻ nếu yêu thật và rất đắt nếu đến với nhau vì tiền. Điều đó đúng. Nhưng người kia có thể đáp: "Anh/em phân biệt được người yêu thật với kẻ đào mỏ; chính loại dấu hỏi mới làm anh/em bối rối, lúc nhầm kẻ đào mỏ với dấu hỏi, lúc nhầm dấu hỏi với người yêu thật. Nếu tôi ký, tức là tôi thấy cần tách mình khỏi kẻ đào mỏ, tức tôi là dấu hỏi. Nên tôi sẽ giúp anh/em thấy tôi là người yêu thật bằng cách không ký."
+Feltovich, Harbaugh và To đưa ra một loạt ví dụ: người mới giàu phô trương của cải, còn người giàu lâu đời khinh kiểu phô trương thô thiển đó; quan chức nhỏ chứng tỏ địa vị bằng những màn thể hiện quyền lực vặt, còn người thật sự quyền lực thể hiện sức mạnh bằng cử chỉ rộng lượng; người học vấn trung bình khoe nét chữ đều đặn, còn người học cao thường viết nguệch ngoạc; học sinh trung bình trả lời câu hỏi dễ của thầy, còn học sinh giỏi nhất ngại chứng tỏ mình biết những điều vụn vặt; người quen tỏ thiện ý bằng cách lịch sự lờ đi khuyết điểm của ta, còn bạn thân tỏ sự gần gũi bằng cách trêu chính khuyết điểm đó; người năng lực vừa phải tìm bằng cấp chính thức để gây ấn tượng, còn người tài thường không nhắc tới bằng cấp dù đã có; người danh tiếng trung bình phản bác những lời buộc tội nhắm vào mình, còn người rất được kính trọng thấy trả lời là hạ thấp mình.
+
+Nhận định của họ là trong một số hoàn cảnh, cách tốt nhất để thể hiện năng lực hay loại của mình là không phát tín hiệu, từ chối chơi trò phát tín hiệu.
+
+Hai tác giả minh hoạ bằng ba loại bạn đời tiềm năng: kẻ đào mỏ, người khó đoán (hai tác giả gọi là "dấu hỏi") và người yêu thật lòng. Một người đề nghị người kia ký hợp đồng tiền hôn nhân, lập luận rằng ký là rẻ nếu yêu thật và rất đắt nếu đến với nhau vì tiền. Điều đó đúng. Nhưng người kia có thể đáp: "Anh/em phân biệt được người yêu thật với kẻ đào mỏ; chính loại dấu hỏi mới làm anh/em bối rối, lúc nhầm kẻ đào mỏ với dấu hỏi, lúc nhầm dấu hỏi với người yêu thật. Nếu tôi ký, tức là tôi thấy cần tách mình khỏi kẻ đào mỏ, tức tôi là dấu hỏi. Nên tôi sẽ giúp anh/em thấy tôi là người yêu thật bằng cách không ký."
 
 Đây có phải cân bằng không? Giả sử kẻ đào mỏ và người yêu thật không ký, còn dấu hỏi ký. Khi đó ai ký đều bị coi là dấu hỏi, vị trí kém hơn người yêu thật; còn với người không ký thì không có nhầm lẫn, vì họ chỉ có thể là kẻ đào mỏ hoặc người yêu thật, và người kia phân biệt được hai loại này. Nếu dấu hỏi cũng quyết định không ký, người kia sẽ hiểu họ là kẻ đào mỏ hoặc người yêu thật; việc đó tốt hay xấu cho dấu hỏi tuỳ họ dễ bị nhầm với loại nào hơn. Nếu dấu hỏi dễ bị coi là kẻ đào mỏ hơn, không ký là ý tồi.
 
-Ý lớn rất đơn giản: ta có những cách khác để biết loại người ngoài tín hiệu họ phát; và chính việc họ phát tín hiệu cũng là một tín hiệu cho thấy họ đang cố tách mình khỏi một loại khác không đủ sức phát cùng tín hiệu. Trong một số hoàn cảnh, tín hiệu mạnh nhất bạn có thể phát là cho thấy mình không cần phát tín hiệu. Chú thích của tác giả: chỉ một lần trong kinh nghiệm của hai tác giả, một ứng viên trợ lý giáo sư mặc quần jeans tới buổi thuyết trình xin việc; ý nghĩ đầu tiên của họ là chỉ thiên tài mới dám không mặc com-lê, mãi sau mới biết hãng hàng không làm thất lạc hành lý của anh ta. Sylvia Nasar kể về John Nash: theo Fagi Levinson, người được coi như "mẹ" của khoa toán MIT, việc Nash đi ngược khuôn phép không gây sốc như người ta tưởng, vì ai ở đó cũng là ngôi sao kiêu kỳ; một nhà toán học tầm thường phải tuân thủ khuôn phép, còn người giỏi thì làm gì cũng được.
+Ý lớn rất đơn giản: ta có những cách khác để biết loại người ngoài tín hiệu họ phát; và chính việc họ phát tín hiệu cũng là một tín hiệu cho thấy họ đang cố tách mình khỏi một loại khác không đủ sức phát cùng tín hiệu. Trong một số hoàn cảnh, tín hiệu mạnh nhất bạn có thể phát là cho thấy mình không cần phát tín hiệu.
+
+Chú thích của tác giả: chỉ một lần trong kinh nghiệm của hai tác giả, một ứng viên trợ lý giáo sư mặc quần jeans tới buổi thuyết trình xin việc; ý nghĩ đầu tiên của họ là chỉ thiên tài mới dám không mặc com-lê, mãi sau mới biết hãng hàng không làm thất lạc hành lý của anh ta. Sylvia Nasar kể về John Nash: theo Fagi Levinson, người được coi như "mẹ" của khoa toán MIT, việc Nash đi ngược khuôn phép không gây sốc như người ta tưởng, vì ai ở đó cũng là ngôi sao kiêu kỳ; một nhà toán học tầm thường phải tuân thủ khuôn phép, còn người giỏi thì làm gì cũng được.
 
 Rick Harbaugh và Ted To nghiên cứu thêm về phản tín hiệu (hai tác giả đùa bằng cách gọi ông là "Prof. Rick Harbaugh, Ph.D."). Họ nghe lời chào hộp thư thoại ở 26 trường thuộc hai hệ thống University of California và California State University:
 
@@ -1047,7 +1088,9 @@ Thực ra có vài chênh lệch chi phí nhỏ: người luôn chăm xe có th�
 | Nhỏ | Xe sạch gây ấn tượng rất tốt, vì khả năng chủ cẩn thận cao; người mua dễ mua hơn hoặc trả cao hơn. Vì lợi ích đó, cả chủ cẩu thả cũng rửa xe | Cân bằng gộp (pooling): mọi loại cùng làm một việc, hành động hoàn toàn không mang thông tin |
 | Lớn | Nếu ai cũng rửa xe, xe sạch không gây ấn tượng, chủ cẩu thả không đáng bỏ công rửa (chủ cẩn thận thì xe luôn sạch), nên không có cân bằng gộp. Nhưng nếu không chủ cẩu thả nào rửa, một người rửa sẽ được nhầm là chủ cẩn thận và thấy đáng bỏ chút công, nên cũng không có cân bằng tách biệt. Kết quả nằm giữa: mỗi chủ cẩu thả dùng chiến lược hỗn hợp, rửa xe với một xác suất dương nhưng không chắc chắn | Cân bằng bán tách biệt (semi-separating) |
 
-Đối lập với cân bằng gộp là cân bằng tách biệt (separating): một loại phát tín hiệu, loại kia không, nên hành động nhận diện chính xác, tức tách các loại ra. Trong trường hợp bán tách biệt, các xe sạch trên thị trường là một hỗn hợp của chủ cẩn thận và chủ cẩu thả. Người mua biết tỷ lệ hỗn hợp và suy ngược ra xác suất chủ một chiếc xe sạch là người cẩn thận; mức họ sẵn lòng trả tuỳ xác suất đó. Ngược lại, mức sẵn lòng trả phải sao cho mỗi chủ cẩu thả bàng quan giữa bỏ chút công làm sạch xe và để bẩn (tiết kiệm công nhưng bị nhận ra là chủ cẩu thả và bán được giá thấp hơn). Phép tính khá phức tạp, cần công thức gọi là quy tắc Bayes để suy xác suất của các loại từ hành động quan sát được; phần poker phía sau minh hoạ cách dùng.
+Đối lập với cân bằng gộp là cân bằng tách biệt (separating): một loại phát tín hiệu, loại kia không, nên hành động nhận diện chính xác, tức tách các loại ra. Trong trường hợp bán tách biệt, các xe sạch trên thị trường là một hỗn hợp của chủ cẩn thận và chủ cẩu thả. Người mua biết tỷ lệ hỗn hợp và suy ngược ra xác suất chủ một chiếc xe sạch là người cẩn thận; mức họ sẵn lòng trả tuỳ xác suất đó.
+
+Ngược lại, mức sẵn lòng trả phải sao cho mỗi chủ cẩu thả bàng quan giữa bỏ chút công làm sạch xe và để bẩn (tiết kiệm công nhưng bị nhận ra là chủ cẩu thả và bán được giá thấp hơn). Phép tính khá phức tạp, cần công thức gọi là quy tắc Bayes để suy xác suất của các loại từ hành động quan sát được; phần poker phía sau minh hoạ cách dùng.
 
 ### 12. Vệ sĩ bằng những lời nói dối (Bodyguard of Lies)
 
@@ -1088,7 +1131,9 @@ Phép tính này dùng quy tắc Bayes: xác suất đối thủ có bài tốt 
 
 ### 13. Phân biệt giá bằng sàng lọc (Price Discrimination by Screening)
 
-Ứng dụng của sàng lọc tác động tới đời sống của người đọc nhiều nhất là phân biệt giá. Với gần như mọi hàng hoá, dịch vụ, có người sẵn lòng trả nhiều hơn người khác, vì giàu hơn, sốt ruột hơn hay đơn giản là sở thích khác. Chừng nào chi phí sản xuất và bán cho một khách thấp hơn mức khách sẵn lòng trả, người bán muốn phục vụ khách đó với giá cao nhất có thể, tức mỗi khách một giá: giảm giá cho người không chịu trả nhiều mà không phải giảm cho người chịu trả nhiều. Điều này thường khó, vì người bán không biết chính xác mỗi khách sẵn lòng trả bao nhiêu, và kể cả biết thì còn phải ngăn khách mua giá thấp bán lại cho khách bị tính giá cao. Hai tác giả gác vấn đề bán lại, chỉ tập trung vào vấn đề thông tin.
+Ứng dụng của sàng lọc tác động tới đời sống của người đọc nhiều nhất là phân biệt giá. Với gần như mọi hàng hoá, dịch vụ, có người sẵn lòng trả nhiều hơn người khác, vì giàu hơn, sốt ruột hơn hay đơn giản là sở thích khác.
+
+Chừng nào chi phí sản xuất và bán cho một khách thấp hơn mức khách sẵn lòng trả, người bán muốn phục vụ khách đó với giá cao nhất có thể, tức mỗi khách một giá: giảm giá cho người không chịu trả nhiều mà không phải giảm cho người chịu trả nhiều. Điều này thường khó, vì người bán không biết chính xác mỗi khách sẵn lòng trả bao nhiêu, và kể cả biết thì còn phải ngăn khách mua giá thấp bán lại cho khách bị tính giá cao. Hai tác giả gác vấn đề bán lại, chỉ tập trung vào vấn đề thông tin.
 
 Mẹo phổ biến là tạo ra nhiều phiên bản của cùng một sản phẩm với giá khác nhau. Mỗi khách tự do chọn bất kỳ phiên bản nào và trả giá người bán đặt cho phiên bản đó, nên không có phân biệt công khai; nhưng người bán đặt đặc tính và giá của từng phiên bản sao cho mỗi loại khách chọn một phiên bản khác nhau. Lựa chọn đó ngầm lộ thông tin riêng của khách, tức mức sẵn lòng trả: người bán đang sàng lọc người mua.
 
@@ -1108,7 +1153,9 @@ Mức tối đa mỗi loại khách sẵn lòng trả được gọi là **giá 
 
 *Trường hợp lý tưởng: phân biệt giá hoàn hảo.* Giả sử PITS biết loại từng khách (chẳng hạn nhìn cách ăn mặc khi họ đặt vé), không có luật cấm và không thể bán lại. Với mỗi doanh nhân, bán hạng nhất 300 USD lãi 150 USD, bán phổ thông 225 USD lãi 125 USD, nên hạng nhất tốt hơn. Với mỗi khách du lịch, bán hạng nhất 175 USD lãi 25 USD, bán phổ thông 140 USD lãi 40 USD, nên phổ thông tốt hơn. PITS lý tưởng nhất là chỉ bán hạng nhất cho doanh nhân, chỉ bán phổ thông cho khách du lịch, mỗi bên đúng bằng giá tối đa sẵn lòng trả. Lợi nhuận trên 100 khách: (140 – 100) × 70 + (300 – 150) × 30 = 2.800 + 4.500 = 7.300 USD.
 
-*Trường hợp thực tế: sàng lọc.* Nếu PITS không nhận ra loại khách, hoặc không được dùng thông tin đó để phân biệt công khai, điều quan trọng nhất là hãng không thể thu doanh nhân đủ 300 USD cho hạng nhất. Doanh nhân có thể mua vé phổ thông 140 USD trong khi sẵn lòng trả 225 USD, được thêm một khoản lợi, gọi là **thặng dư tiêu dùng (consumer surplus)**, bằng 85 USD (có thể dùng cho ăn ở tốt hơn trong chuyến đi). Trả đủ 300 USD cho hạng nhất thì thặng dư bằng 0, nên họ sẽ chuyển sang phổ thông và sàng lọc thất bại. Giá hạng nhất tối đa phải cho doanh nhân ít nhất 85 USD thặng dư, tức 300 – 85 = 215 USD (có lẽ nên là 214 USD để doanh nhân có lý do rõ ràng chọn hạng nhất, nhưng hai tác giả bỏ qua chênh lệch nhỏ này). Lợi nhuận: (140 – 100) × 70 + (215 – 150) × 30 = 2.800 + 1.950 = 4.750 USD.
+*Trường hợp thực tế: sàng lọc.* Nếu PITS không nhận ra loại khách, hoặc không được dùng thông tin đó để phân biệt công khai, điều quan trọng nhất là hãng không thể thu doanh nhân đủ 300 USD cho hạng nhất. Doanh nhân có thể mua vé phổ thông 140 USD trong khi sẵn lòng trả 225 USD, được thêm một khoản lợi, gọi là **thặng dư tiêu dùng (consumer surplus)**, bằng 85 USD (có thể dùng cho ăn ở tốt hơn trong chuyến đi). Trả đủ 300 USD cho hạng nhất thì thặng dư bằng 0, nên họ sẽ chuyển sang phổ thông và sàng lọc thất bại.
+
+Giá hạng nhất tối đa phải cho doanh nhân ít nhất 85 USD thặng dư, tức 300 – 85 = 215 USD (có lẽ nên là 214 USD để doanh nhân có lý do rõ ràng chọn hạng nhất, nhưng hai tác giả bỏ qua chênh lệch nhỏ này). Lợi nhuận: (140 – 100) × 70 + (215 – 150) × 30 = 2.800 + 1.950 = 4.750 USD.
 
 | Chiến lược (30% doanh nhân) | Giá phổ thông | Giá hạng nhất | Lợi nhuận trên 100 khách |
 |---|---|---|---|
@@ -1118,7 +1165,9 @@ Mức tối đa mỗi loại khách sẵn lòng trả được gọi là **giá 
 
 PITS sàng lọc thành công, nhưng phải hy sinh một phần lợi nhuận: chênh lệch 2.550 USD đúng bằng 85 (mức giảm giá hạng nhất so với giá tối đa doanh nhân sẵn lòng trả) nhân 30 (số doanh nhân). Hãng phải giữ giá hạng nhất đủ thấp để doanh nhân có đủ động cơ chọn nó chứ không "đào ngũ" sang lựa chọn dành cho khách du lịch. Yêu cầu này đối với chiến lược của người sàng lọc được gọi là **ràng buộc tương thích khuyến khích (incentive compatibility constraint)**.
 
-Cách duy nhất để thu doanh nhân hơn 215 USD mà họ không đào ngũ là tăng giá phổ thông. Ví dụ hạng nhất 240 USD và phổ thông 165 USD: doanh nhân được thặng dư 300 – 240 = 60 USD ở hạng nhất và 225 – 165 = 60 USD ở phổ thông, nên vừa đủ chịu mua hạng nhất. Nhưng giá phổ thông 140 USD đã chạm mức tối đa khách du lịch sẵn lòng trả; chỉ cần 141 USD là PITS mất hết họ. Yêu cầu loại khách đó vẫn muốn mua được gọi là **ràng buộc tham gia (participation constraint)** của họ. Chiến lược định giá của PITS bị kẹp giữa ràng buộc tham gia của khách du lịch và ràng buộc tương thích khuyến khích của doanh nhân. Trong tình huống này, cặp giá 215 USD cho hạng nhất và 140 USD cho phổ thông thực sự là có lãi nhất; chứng minh chặt chẽ cần chút toán nên hai tác giả chỉ khẳng định.
+Cách duy nhất để thu doanh nhân hơn 215 USD mà họ không đào ngũ là tăng giá phổ thông. Ví dụ hạng nhất 240 USD và phổ thông 165 USD: doanh nhân được thặng dư 300 – 240 = 60 USD ở hạng nhất và 225 – 165 = 60 USD ở phổ thông, nên vừa đủ chịu mua hạng nhất.
+
+Nhưng giá phổ thông 140 USD đã chạm mức tối đa khách du lịch sẵn lòng trả; chỉ cần 141 USD là PITS mất hết họ. Yêu cầu loại khách đó vẫn muốn mua được gọi là **ràng buộc tham gia (participation constraint)** của họ. Chiến lược định giá của PITS bị kẹp giữa ràng buộc tham gia của khách du lịch và ràng buộc tương thích khuyến khích của doanh nhân. Trong tình huống này, cặp giá 215 USD cho hạng nhất và 140 USD cho phổ thông thực sự là có lãi nhất; chứng minh chặt chẽ cần chút toán nên hai tác giả chỉ khẳng định.
 
 **Bài "Trip to the Gym" số 5.** Đề: còn một ràng buộc tham gia cho doanh nhân và một ràng buộc tương thích khuyến khích cho khách du lịch; hãy kiểm tra rằng chúng tự động được thoả ở các mức giá đã nêu. *Đáp án của sách (phần Workouts):* giá hạng nhất 215 USD thấp hơn hẳn mức 300 USD doanh nhân sẵn lòng trả cho hạng này, nên ràng buộc tham gia của họ được thoả. Khách du lịch được thặng dư bằng 0 (140 – 140) khi mua phổ thông, nhưng thặng dư âm (175 – 215 = –40 USD) nếu mua hạng nhất, nên họ không muốn đổi; ràng buộc tương thích khuyến khích của họ được thoả.
 
@@ -1135,11 +1184,15 @@ Khi chỉ có ít khách trả thấp, người bán có thể thấy bỏ hẳn
 
 Tanya, một người bạn khác của hai tác giả, là nhà nhân học. Trong khi phần lớn nhà nhân học tới tận cùng trái đất để nghiên cứu một bộ lạc lạ, Tanya làm điền dã ở London, và đối tượng của cô là các phù thuỷ. Ngay ở London hiện đại vẫn có số người đáng ngạc nhiên tụ họp trao đổi bùa phép và học phép thuật (dù làm phù thuỷ đi tàu điện ngầm cũng cần chút tự biện minh). Nhà nhân học thường khó lấy được lòng tin của đối tượng, nhưng nhóm của Tanya đặc biệt cởi mở: khi cô nói mình là nhà nhân học, họ coi đó là một mẹo khéo, rằng cô thực ra là phù thuỷ có vỏ bọc tuyệt vời. Một đặc điểm lạ là các buổi họp của họ diễn ra trong tình trạng khoả thân. Vì sao?
 
-Thảo luận của sách: mọi nhóm "ngoài lề" đều phải lo thành viên chỉ là người quan sát chứ không thật sự tham gia, ngồi đó chế giễu cả quá trình. Khi đang ngồi khoả thân, khó mà nói mình chỉ đứng xem và cười người khác; bạn đã dấn thân hẳn. Vì vậy khoả thân là một công cụ sàng lọc đáng tin: nếu thật lòng tin vào hội, có mặt trong tình trạng khoả thân gần như không tốn gì; nếu là người hoài nghi, việc đó rất khó giải thích, với người khác lẫn với chính mình. Chú thích của tác giả: trong bộ phim *Gray's Anatomy*, nghệ sĩ độc thoại Spalding Gray kể một trải nghiệm thử thách tương tự trong lều xông hơi của người Mỹ bản địa. Cũng vì lý do đó, nghi thức nhập băng đảng thường đòi những việc tương đối rẻ với người thật lòng muốn sống đời băng đảng (xăm mình, phạm tội) nhưng rất đắt với một cảnh sát chìm muốn trà trộn.
+Thảo luận của sách: mọi nhóm "ngoài lề" đều phải lo thành viên chỉ là người quan sát chứ không thật sự tham gia, ngồi đó chế giễu cả quá trình. Khi đang ngồi khoả thân, khó mà nói mình chỉ đứng xem và cười người khác; bạn đã dấn thân hẳn. Vì vậy khoả thân là một công cụ sàng lọc đáng tin: nếu thật lòng tin vào hội, có mặt trong tình trạng khoả thân gần như không tốn gì; nếu là người hoài nghi, việc đó rất khó giải thích, với người khác lẫn với chính mình.
+
+Chú thích của tác giả: trong bộ phim *Gray's Anatomy*, nghệ sĩ độc thoại Spalding Gray kể một trải nghiệm thử thách tương tự trong lều xông hơi của người Mỹ bản địa. Cũng vì lý do đó, nghi thức nhập băng đảng thường đòi những việc tương đối rẻ với người thật lòng muốn sống đời băng đảng (xăm mình, phạm tội) nhưng rất đắt với một cảnh sát chìm muốn trà trộn.
 
 Các tình huống khác về diễn giải và thao túng thông tin nằm ở Chương 14: "The Other Person's Envelope Is Always Greener" (phong bì của người khác bao giờ cũng xanh hơn), "But One Life to Lay Down for Your Country" (chỉ một mạng sống để hiến cho tổ quốc), "King Solomon's Dilemma Redux" (thế khó của vua Solomon, trở lại) và "The King Lear Problem" (bài toán vua Lear).
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một người bán điện thoại cũ trên mạng rao hai mức giá cho cùng một mẫu máy: 6 triệu đồng không bảo hành, hoặc 6,7 triệu đồng kèm bảo hành 6 tháng, lỗi gì cũng sửa miễn phí. Giả sử với một chiếc máy tốt, chi phí sửa chữa kỳ vọng trong 6 tháng là 200.000 đồng; với một chiếc máy đã thay linh kiện kém, con số đó là 1,5 triệu đồng. Phần chênh 700.000 đồng nằm giữa hai mức này, nên người bán chỉ có lợi khi đưa ra lựa chọn có bảo hành nếu họ biết máy mình tốt. Người mua cũng có thể chủ động sàng lọc: "tôi trả thêm 700.000 đồng nếu anh bảo hành 6 tháng bằng văn bản". Ngược lại, lời mời "anh cứ mang máy ra tiệm kiểm tra" không nói lên gì, vì người bán máy kém cũng chẳng mất gì khi mời. Và như hai tác giả cảnh báo, bảo hành chỉ có giá trị nếu thi hành được: lời hứa của một tài khoản mạng xã hội vô danh kém tin hơn nhiều so với lời hứa của một cửa hàng có địa chỉ và danh tiếng cần giữ.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một người bán điện thoại cũ trên mạng rao hai mức giá cho cùng một mẫu máy: 6 triệu đồng không bảo hành, hoặc 6,7 triệu đồng kèm bảo hành 6 tháng, lỗi gì cũng sửa miễn phí. Giả sử với một chiếc máy tốt, chi phí sửa chữa kỳ vọng trong 6 tháng là 200.000 đồng; với một chiếc máy đã thay linh kiện kém, con số đó là 1,5 triệu đồng. Phần chênh 700.000 đồng nằm giữa hai mức này, nên người bán chỉ có lợi khi đưa ra lựa chọn có bảo hành nếu họ biết máy mình tốt.
+
+Người mua cũng có thể chủ động sàng lọc: "tôi trả thêm 700.000 đồng nếu anh bảo hành 6 tháng bằng văn bản". Ngược lại, lời mời "anh cứ mang máy ra tiệm kiểm tra" không nói lên gì, vì người bán máy kém cũng chẳng mất gì khi mời. Và như hai tác giả cảnh báo, bảo hành chỉ có giá trị nếu thi hành được: lời hứa của một tài khoản mạng xã hội vô danh kém tin hơn nhiều so với lời hứa của một cửa hàng có địa chỉ và danh tiếng cần giữ.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -1265,7 +1318,9 @@ Kinh tế học thông tin thường được dạy bằng mô hình toán, như
 
 ### Ví dụ MBA minh hoạ rõ nguyên lý, nhưng các con số chỉ là giả định để minh hoạ
 
-Hai tác giả nói rõ các con số là giả định, nhưng người đọc dễ quên. Kết luận "người không có tài chỉ có 50% khả năng tốt nghiệp MBA" là điều kiện then chốt cho cả lập luận, và trên thực tế tỷ lệ tốt nghiệp MBA ở các trường hàng đầu rất cao với hầu hết người đã được nhận; phần sàng lọc thật có lẽ nằm ở khâu tuyển sinh hơn là khâu tốt nghiệp. Theo người tổng hợp, trong đoạn ứng viên tự phát tín hiệu, mức 75.000 USD ứng viên đòi thấp hơn mức 90.000 USD cần để bù chi phí MBA, điều chỉ hợp lý nếu coi chi phí học là đã bỏ ra rồi. (Còn câu "lợi nhuận kỳ vọng tăng thêm một triệu" thì không mâu thuẫn với số liệu: tuyển ngẫu nhiên có 25% khả năng gặp người kém, vừa chịu lỗ 1 triệu USD vừa mất phần lợi nhuận "vài triệu USD" mà một nhà quản lý giỏi lẽ ra tạo ra, nên biết chắc ứng viên giỏi có thể làm lợi nhuận kỳ vọng tăng khoảng một triệu USD.) Những chỗ này cho thấy ví dụ được dựng để minh hoạ nguyên lý, không phải để kiểm chứng.
+Hai tác giả nói rõ các con số là giả định, nhưng người đọc dễ quên. Kết luận "người không có tài chỉ có 50% khả năng tốt nghiệp MBA" là điều kiện then chốt cho cả lập luận, và trên thực tế tỷ lệ tốt nghiệp MBA ở các trường hàng đầu rất cao với hầu hết người đã được nhận; phần sàng lọc thật có lẽ nằm ở khâu tuyển sinh hơn là khâu tốt nghiệp.
+
+Theo người tổng hợp, trong đoạn ứng viên tự phát tín hiệu, mức 75.000 USD ứng viên đòi thấp hơn mức 90.000 USD cần để bù chi phí MBA, điều chỉ hợp lý nếu coi chi phí học là đã bỏ ra rồi. (Còn câu "lợi nhuận kỳ vọng tăng thêm một triệu" thì không mâu thuẫn với số liệu: tuyển ngẫu nhiên có 25% khả năng gặp người kém, vừa chịu lỗ 1 triệu USD vừa mất phần lợi nhuận "vài triệu USD" mà một nhà quản lý giỏi lẽ ra tạo ra, nên biết chắc ứng viên giỏi có thể làm lợi nhuận kỳ vọng tăng khoảng một triệu USD.) Những chỗ này cho thấy ví dụ được dựng để minh hoạ nguyên lý, không phải để kiểm chứng.
 
 ### Quan điểm "giáo dục chủ yếu là tín hiệu" bị nhiều nhà kinh tế phản biện
 
@@ -1277,11 +1332,15 @@ Lập luận rằng thời gian chờ đợi lọc được người khoẻ kh�
 
 ### Điều đã thay đổi từ 2008: tạo phiên bản và tín hiệu đã chuyển lên môi trường số
 
-Theo nhận định của người tổng hợp, các ví dụ đĩa CD phần mềm, máy in IBM, đầu DVD Sharp đã lỗi thời, nhưng chiến lược tạo phiên bản phổ biến hơn bao giờ hết qua các gói thuê bao miễn phí, cơ bản, cao cấp và các tính năng phần mềm được "mở khoá" bằng phí trên cùng một thiết bị. Thị trường xe cũ có thêm các công cụ tra lịch sử xe và các nền tảng có chế độ kiểm định, bảo hành, đúng như dự đoán của hai tác giả rằng thị trường tìm cách đối phó với vấn đề xe chanh. Đánh giá, xếp hạng trực tuyến trở thành một kênh danh tiếng mới, nhưng cũng là đối tượng của gây nhiễu tín hiệu (đánh giá giả). Về chuyện điểm pass/fail, đợt chuyển sang học trực tuyến năm 2020 khiến nhiều trường đại học Mỹ cho phép hoặc bắt buộc chấm pass/fail trên diện rộng, làm thay đổi đúng cơ chế suy luận mà chương mô tả. Chế độ bảo hành dài hạn của Hyundai nay đã thành một phần thương hiệu, và danh tiếng chất lượng của hãng được cải thiện rõ, phù hợp với ý rằng đó là một tín hiệu thành công.
+Theo nhận định của người tổng hợp, các ví dụ đĩa CD phần mềm, máy in IBM, đầu DVD Sharp đã lỗi thời, nhưng chiến lược tạo phiên bản phổ biến hơn bao giờ hết qua các gói thuê bao miễn phí, cơ bản, cao cấp và các tính năng phần mềm được "mở khoá" bằng phí trên cùng một thiết bị. Thị trường xe cũ có thêm các công cụ tra lịch sử xe và các nền tảng có chế độ kiểm định, bảo hành, đúng như dự đoán của hai tác giả rằng thị trường tìm cách đối phó với vấn đề xe chanh.
+
+Đánh giá, xếp hạng trực tuyến trở thành một kênh danh tiếng mới, nhưng cũng là đối tượng của gây nhiễu tín hiệu (đánh giá giả). Về chuyện điểm pass/fail, đợt chuyển sang học trực tuyến năm 2020 khiến nhiều trường đại học Mỹ cho phép hoặc bắt buộc chấm pass/fail trên diện rộng, làm thay đổi đúng cơ chế suy luận mà chương mô tả. Chế độ bảo hành dài hạn của Hyundai nay đã thành một phần thương hiệu, và danh tiếng chất lượng của hãng được cải thiện rõ, phù hợp với ý rằng đó là một tín hiệu thành công.
 
 ### Quan điểm trái chiều: tín hiệu tốn kém có thể là lãng phí xã hội, và phản tín hiệu dễ bị hiểu sai
 
-Một tín hiệu tốn kém chỉ chuyển thông tin chứ không tạo ra giá trị; về mặt xã hội, chi phí đó là lãng phí nếu có cách rẻ hơn để truyền cùng thông tin (kiểm định độc lập, hệ thống đánh giá danh tiếng, thử việc). Vì vậy câu hỏi đúng không chỉ là "tín hiệu này có đáng tin không" mà "có cách nào rẻ hơn không"; hai tác giả có nhắc ý này trong phần các cách nhận ra tài năng nhưng không nhấn mạnh. Về phản tín hiệu, chính chú thích về ứng viên mặc quần jeans cho thấy rủi ro: người quan sát có thể đọc nhầm một sự cố thành dấu hiệu thiên tài, hoặc ngược lại. Phản tín hiệu chỉ có tác dụng khi người quan sát đã có sẵn thông tin khác để phân biệt bạn với loại kém nhất; người mới vào nghề, chưa có danh tiếng, mà bắt chước sẽ dễ bị xếp vào nhóm kém.
+Một tín hiệu tốn kém chỉ chuyển thông tin chứ không tạo ra giá trị; về mặt xã hội, chi phí đó là lãng phí nếu có cách rẻ hơn để truyền cùng thông tin (kiểm định độc lập, hệ thống đánh giá danh tiếng, thử việc). Vì vậy câu hỏi đúng không chỉ là "tín hiệu này có đáng tin không" mà "có cách nào rẻ hơn không"; hai tác giả có nhắc ý này trong phần các cách nhận ra tài năng nhưng không nhấn mạnh.
+
+Về phản tín hiệu, chính chú thích về ứng viên mặc quần jeans cho thấy rủi ro: người quan sát có thể đọc nhầm một sự cố thành dấu hiệu thiên tài, hoặc ngược lại. Phản tín hiệu chỉ có tác dụng khi người quan sát đã có sẵn thông tin khác để phân biệt bạn với loại kém nhất; người mới vào nghề, chưa có danh tiếng, mà bắt chước sẽ dễ bị xếp vào nhóm kém.
 
 ### Vận dụng: trước mỗi lời hứa hay lời quảng cáo, hãy hỏi điều gì sẽ xảy ra với người nói nếu họ nói sai
 
@@ -1290,3 +1349,176 @@ Một tín hiệu tốn kém chỉ chuyển thông tin chứ không tạo ra gi�
 - **Trong nghề nghiệp.** Bằng cấp và chứng chỉ là tín hiệu có giá trị chủ yếu ở đầu sự nghiệp, khi người tuyển chưa có thông tin nào khác; khi đã có thành tích, chính thành tích là tín hiệu mạnh hơn, và việc liên tục nhắc tới chức danh có thể phản tác dụng (bài học hộp thư thoại). Khi tuyển người, đừng dựa vào những thứ ai cũng làm giả được (trang phục, thư giới thiệu, lời tự giới thiệu), mà dùng thử việc, bài tập thực tế, hợp đồng có thưởng theo kết quả. Khi đàm phán lương, sẵn lòng nhận phần thưởng theo kết quả cũng là một tín hiệu về năng lực.
 - **Trong đời sống.** Trong các mối quan hệ, câu đố "A Trip to the Bar" và chuyện của Sue cho thấy: lời hứa rẻ, hành động tốn kém mới đáng tin; và việc một người từ chối mọi hành động tốn kém nhỏ cũng là thông tin. Khi đọc bảng điểm, hồ sơ hay lời giới thiệu, hãy hỏi điều gì bị bỏ trống và vì sao.
 - **Khi đọc tin chính sách.** Ở Việt Nam, các tranh luận về thủ tục xét duyệt trợ cấp, hỗ trợ bằng tiền mặt hay bằng hiện vật, hay yêu cầu bằng cấp, chứng chỉ trong tuyển dụng công chức đều có thể đọc bằng lăng kính của chương: thủ tục rườm rà có thể là công cụ sàng lọc nhưng cũng có thể đẩy người thật sự cần ra ngoài; yêu cầu bằng cấp ngày càng cao có thể là dấu hiệu của cuộc đua tín hiệu hơn là đòi hỏi thật của công việc. Với các cam kết của doanh nghiệp hay dự án (bảo hành, hoàn tiền, bảo lãnh), câu hỏi then chốt là cam kết đó có thi hành được không, và ai chịu thiệt nếu cam kết bị phá vỡ.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 8 trên một trang: năm nhánh lớn theo các mục của bản gốc — lời nói rẻ và ba công cụ thao túng thông tin (Mục 1–4), chênh lệch chi phí làm nên tín hiệu và sàng lọc qua bảo hành, xe chanh, MBA (Mục 5–7), các trường hợp mọi hành động đều bị diễn giải (Mục 8–11), lời nói dối và quy tắc Bayes (Mục 12), phân biệt giá bằng sàng lọc (Mục 13–14); nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 8: hành động nói to hơn lời nói — chỉ hành động tốn kém với kẻ nói dối hơn người nói thật mới truyền được thông tin đáng tin`"]
+  n1["`Mục 1–4 — Lời nói rẻ, hành động mới đáng tin`"]
+  n0 --- n1
+  n2["`Sue đòi người yêu xăm tên mình`"]
+  n1 --- n2
+  n3["`Hình xăm gần như không tốn gì nếu anh ta định gắn bó, là vật chứng ngượng ngùng nếu không`"]
+  n2 --- n3
+  n4["`Anh ta chần chừ nên Sue ra đi — yêu cầu hình xăm là một phép sàng lọc`"]
+  n2 --- n4
+  n5["`Khi nào nên tin lời người khác`"]
+  n1 --- n5
+  n6["`Tin khi lợi ích trùng nhau hoặc lời nói đi ngược lợi ích người nói (Hardy và Tổng giám mục Canterbury)`"]
+  n5 --- n6
+  n7["`Lợi ích đối nghịch như cầu thủ sút phạt đền: bỏ qua hẳn lời nói, không suy ra điều ngược lại`"]
+  n5 --- n7
+  n8["`Vua Solomon may mắn hơn là khôn ngoan`"]
+  n1 --- n8
+  n9["`Mưu chặt đứa bé chỉ thành vì người mẹ giả lỡ đồng ý — nhắc lại lời mẹ thật là vua hết phân biệt được`"]
+  n8 --- n9
+  n10["`Ba công cụ thao túng thông tin`"]
+  n1 --- n10
+  n11["`Phát tín hiệu và gây nhiễu tín hiệu do người biết nhiều khởi xướng — sàng lọc do người biết ít khởi xướng`"]
+  n10 --- n11
+  n12["`Tín hiệu hiệu quả phải không thể bị kẻ nói dối có lý trí bắt chước`"]
+  n10 --- n12
+  n13["`Bằng cấp là tín hiệu năng lực nhưng có thể thành cuộc đua chuột lãng phí, cần chính sách công`"]
+  n10 --- n13
+  n14["`Mục 5–7 — Chênh lệch chi phí làm nên tín hiệu và sàng lọc`"]
+  n0 --- n14
+  n15["`Bảo hành xe cũ`"]
+  n14 --- n15
+  n16["`Sửa chữa kỳ vọng 500 USD với xe tốt, 2.000 USD với xe tồi — chênh giá 800 USD chỉ có lợi cho người bán xe tốt`"]
+  n15 --- n16
+  n17["`Hành động phải tối ưu với người chơi nếu và chỉ nếu họ có thông tin đó`"]
+  n15 --- n17
+  n18["`Lời mời đưa xe đi kiểm tra không đáng tin vì người bán xe tồi chẳng mất gì`"]
+  n15 --- n18
+  n19["`Hyundai 1999 bảo hành 10 năm hoặc 100.000 dặm để chứng tỏ chất lượng`"]
+  n15 --- n19
+  n20["`Akerlof, xe chanh và lựa chọn ngược`"]
+  n14 --- n20
+  n21["`Người mua chỉ trả tối đa 2.750 USD nên chủ xe đào rút lui, thị trường xe tốt sụp đổ`"]
+  n20 --- n21
+  n22["`Bảo hiểm 5 xu mỗi đô la hút người rủi ro cao — hiệu ứng Groucho Marx`"]
+  n20 --- n22
+  n23["`Capital One: ưu đãi chuyển dư nợ chỉ hấp dẫn khách vay quay vòng có lãi — lựa chọn thuận lợi`"]
+  n20 --- n23
+  n24["`Spence phát triển phát tín hiệu — Rothschild và Stiglitz phát biểu sàng lọc bằng thực đơn gói bảo hiểm`"]
+  n20 --- n24
+  n25["`Bằng MBA như công cụ sàng lọc`"]
+  n14 --- n25
+  n26["`Chi phí 200.000 USD, cần thêm 40.000 USD/năm trong 5 năm — người có tài chắc tốt nghiệp, người không có tài 50%`"]
+  n25 --- n26
+  n27["`Trả 100.000 USD: người không có tài kỳ vọng chỉ thêm 25.000 USD/năm nên không đi học`"]
+  n25 --- n27
+  n28["`Ngoại ứng thông tin: sự tồn tại của người kém buộc công ty trả thêm 40.000 USD/năm`"]
+  n25 --- n28
+  n29["`Sàng lọc 200.000 USD rẻ hơn tuyển ngẫu nhiên lỗ kỳ vọng 250.000 USD — lương trên 130.000 USD thì sàng lọc hỏng`"]
+  n25 --- n29
+  n30["`Mục 8–11 — Mọi hành động, kể cả không hành động, đều bị diễn giải`"]
+  n0 --- n30
+  n31["`Thủ tục hành chính và trợ cấp hiện vật`"]
+  n30 --- n31
+  n32["`Workers’ Compensation có từ 20% hồ sơ trở lên gian lận — bắt chờ cả ngày lọc được người thật ra khoẻ`"]
+  n31 --- n32
+  n33["`Phát thẳng xe lăn thay vì tiền làm giảm hẳn động cơ giả khuyết tật`"]
+  n31 --- n33
+  n34["`Không phát tín hiệu cũng là tín hiệu`"]
+  n30 --- n34
+  n35["`Con chó không sủa của Sherlock Holmes`"]
+  n34 --- n35
+  n36["`Sinh viên giỏi rời nhóm pass/fail nên điểm P dần bị hiểu là điểm C hay tệ hơn`"]
+  n34 --- n36
+  n37["`John có quyền cùng đầu tư thì không dùng sẽ bị coi là dấu hiệu xấu`"]
+  n34 --- n37
+  n38["`Phản tín hiệu`"]
+  n30 --- n38
+  n39["`Loại tốt nhất từ chối tín hiệu mà loại trung bình dùng — người giàu lâu đời không phô trương`"]
+  n38 --- n39
+  n40["`Người yêu thật không ký hợp đồng tiền hôn nhân để khỏi bị coi là loại dấu hỏi`"]
+  n38 --- n40
+  n41["`Xưng học vị trong hộp thư thoại: dưới 4% ở trường có tiến sĩ so với 27% ở trường không có`"]
+  n38 --- n41
+  n42["`Gây nhiễu tín hiệu khi rửa xe trước khi bán`"]
+  n30 --- n42
+  n43["`Ít chủ cẩu thả: ai cũng rửa xe — cân bằng gộp, xe sạch không mang thông tin`"]
+  n42 --- n43
+  n44["`Nhiều chủ cẩu thả: họ rửa xe với một xác suất — cân bằng bán tách biệt`"]
+  n42 --- n44
+  n45["`Mục 12 — Lời nói dối và suy luận từ hành động`"]
+  n0 --- n45
+  n46["`Nói thật để không được tin`"]
+  n45 --- n46
+  n47["`Ashraf Marwan báo động giả tháng 4/1973 nên lời báo đúng về cuộc tấn công Yom Kippur bị gạt đi`"]
+  n46 --- n47
+  n48["`Với người muốn lừa mình, tốt nhất là bỏ qua lời nói, nhưng vẫn quan sát hành động`"]
+  n46 --- n48
+  n49["`Poker và quy tắc Bayes`"]
+  n45 --- n49
+  n50["`Bài tốt tố 2/3 số lần, bài xấu tố láo 1/3 số lần`"]
+  n49 --- n50
+  n51["`Thấy tố, xác suất bài tốt tăng từ 1/2 lên 2/3 = (1/3) chia (1/2)`"]
+  n49 --- n51
+  n52["`Mục 13–14 — Phân biệt giá bằng sàng lọc`"]
+  n0 --- n52
+  n53["`Tạo phiên bản để khách tự lộ mức sẵn lòng trả`"]
+  n52 --- n53
+  n54["`Sách bìa cứng trước, bìa mềm sau — phần mềm bản lite tắt bớt tính năng`"]
+  n53 --- n54
+  n55["`Máy in IBM bản E gắn chip làm chậm, rẻ hơn 200 USD — đầu DVD Sharp giấu nút chuyển hệ`"]
+  n53 --- n55
+  n56["`Hãng hàng không PITS, 30% doanh nhân`"]
+  n52 --- n56
+  n57["`Phân biệt giá hoàn hảo lãi 7.300 USD trên 100 khách`"]
+  n56 --- n57
+  n58["`Sàng lọc: hạng nhất 215 USD, phổ thông 140 USD, lãi 4.750 USD — mất 2.550 USD = 85 × 30`"]
+  n56 --- n58
+  n59["`Kẹp giữa ràng buộc tương thích khuyến khích của doanh nhân và ràng buộc tham gia của khách du lịch`"]
+  n56 --- n59
+  n60["`50% doanh nhân thì bỏ hẳn khách du lịch, chỉ bán hạng nhất 300 USD lãi 7.500 USD`"]
+  n56 --- n60
+  n61["`Phù thuỷ họp khoả thân ở London`"]
+  n52 --- n61
+  n62["`Khoả thân gần như không tốn với người tin thật, rất khó với kẻ chỉ đứng xem — như nghi thức nhập băng đảng`"]
+  n61 --- n62
+  n63["`Thông điệp xuyên suốt`"]
+  n0 --- n63
+  n64["`Hãy hỏi người nói mất gì nếu họ nói sai`"]
+  n63 --- n64
+  n65["`Khắc phục thông tin bất cân xứng luôn có giá, và đôi khi không đáng trả`"]
+  n63 --- n65
+  n66["`Ai không nhận ra hành động của mình đang bị diễn giải sẽ tự làm hại mình`"]
+  n63 --- n66
+  class n0 root
+  class n1,n14,n30,n45,n52,n63 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n64,n65,n66 leaf
+```
+
+## Nguồn
+
+Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Phần III, Chương 8.
+
+## Tác giả
+
+Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Sách kế thừa *Thinking Strategically* (1991) của cùng hai tác giả.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần I dạy các công cụ cơ bản (suy luận ngược, thế lưỡng nan của người tù, cân bằng Nash). Phần II bàn cách thay đổi trò chơi: Chương 5 về chiến lược hỗn hợp (giữ cho đối thủ không đoán được), Chương 6 về nước đi chiến lược (cam kết, đe doạ, hứa hẹn), Chương 7 về cách làm cho các nước đi đó đáng tin.
+
+Chương 8 mở đầu Phần III (Chương 8–14, nơi các công cụ được áp dụng vào từng nhóm tình huống) và hỏi một câu yếu hơn câu của Chương 7: khi không thể buộc người khác giữ lời, làm sao ít nhất biết được điều họ nói có thật hay không? Câu trả lời là quan sát hành động có chi phí, qua hai công cụ: phát tín hiệu (signaling) và sàng lọc (screening).
+
+Chương 9 (hợp tác và phối hợp), Chương 10 (đấu giá, nơi "lời nguyền người thắng" được nhắc ở đây sẽ được giải quyết), Chương 13 (thiết kế khuyến khích khi không quan sát được nỗ lực) đều dùng lại các ý của chương này; Chương 14 có bốn tình huống tiếp nối, trong đó có lời giải cho thế khó của vua Solomon.
+
+## Lưu ý
+
+- Sách viết khoảng 2007–2008, nên các ví dụ thương mại mang dấu ấn thời đó: phần mềm bán qua đĩa CD gửi bưu điện, máy in laser IBM, đầu DVD Sharp với chuẩn PAL và NTSC, chương trình chuyển dư nợ của Capital One "suốt một thập kỷ từ khi lên sàn năm 1994", chế độ bảo hành của Hyundai năm 1999. Từ đó, phần mềm chủ yếu bán qua tải về và thuê bao, nhưng chiến lược tạo phiên bản (bản "lite", bản miễn phí, bản cao cấp) vẫn phổ biến hơn bao giờ hết.
+- Về vụ Ashraf Marwan, sau khi sách in đã có thêm sách và phim nghiêng về giả thuyết ông là điệp viên thật cho Israel, nhưng câu hỏi vẫn chưa ngã ngũ.
+- Chương có **8 chú thích chân trang** của tác giả (dấu `*` trong sách), đều đã đưa vào đúng chỗ và ghi "Chú thích của tác giả".
+- Chương có ba hình (một công thức, một bảng xác suất trong poker, một bảng giá và chi phí của hãng hàng không); cả ba đã được dựng lại.
+- Chương có một bài tập "Trip to the Gym" (số 5), đã đưa đáp án vào ngay sau đề.
+- Các câu trích là bản dịch của người tổng hợp.

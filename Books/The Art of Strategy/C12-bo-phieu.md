@@ -1,11 +1,12 @@
 # Chương 12 — Bỏ phiếu (Voting)
 
-**Nguồn:** Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Phần III, Chương 12.
-**Tác giả:** Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Sách kế thừa *Thinking Strategically* (1991) của cùng hai tác giả.
-**Vị trí trong lập luận của cả cuốn sách:** Phần III áp dụng các công cụ của Phần I và II (suy luận ngược, chiến lược trội, cân bằng Nash, nước đi chiến lược) vào những tình huống cụ thể: thông tin (Chương 8), hợp tác và phối hợp (Chương 9), đấu giá (Chương 10), mặc cả (Chương 11). Chương 12 chuyển sang bỏ phiếu, một trò chơi nhiều người chơi mà ai cũng tham gia. Chương dùng lại nhiều mảnh của các chương trước: suy luận ngược (Chương 2) để phân tích ba thẩm phán, quan sát của Harold Hotelling về việc các đảng hội tụ về giữa (Chương 9), quy tắc "chia đôi phần chênh lệch" của mặc cả (Chương 11), và nước đi chiến lược, cam kết (Chương 6), dùng lại ở ví dụ hai quỹ từ thiện. Chương kế tiếp, Chương 13 về động cơ khuyến khích, chuyển từ câu hỏi "gộp ý muốn của nhiều người thế nào" sang câu hỏi "thiết kế phần thưởng thế nào để người khác làm điều mình muốn". Chương 14 có thêm một tình huống về bỏ phiếu ("The Shark Repellent That Backfired").
-**Ý chính:** Dixit và Nalebuff muốn người đọc hiểu rằng **không có cách bỏ phiếu hoàn hảo**: khi có từ ba phương án trở lên, cử tri luôn có lúc được lợi nếu khai sai ý muốn thật của mình (bỏ phiếu chiến lược), và kết quả bầu cử phụ thuộc vào luật bầu cử và trình tự biểu quyết nhiều ngang với ý muốn của cử tri. Ví dụ trung tâm là cuộc bầu cử tổng thống Mỹ năm 2000: Ralph Nader được 97.488 phiếu ở Florida, George W. Bush thắng bang này với cách biệt 537 phiếu, nên nếu Nader không ra tranh cử thì Al Gore đã thắng. Từ đó hai tác giả đi qua nghịch lý Condorcet, cách bỏ phiếu theo cặp Condorcet, vụ án ba thẩm phán (cùng một ý muốn mà ba trình tự biểu quyết cho ba bản án khác nhau), cử tri trung vị, lý do Hiến pháp Mỹ bền vững (ngưỡng hai phần ba vượt mốc 64%), bỏ phiếu tán thành ở Đại sảnh Danh vọng bóng chày, và kết bằng câu hỏi: lá phiếu phá thế hoà của Phó Tổng thống Mỹ có phải chỉ là nghi thức?
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2007–2008, nên các ví dụ dừng ở bầu cử Mỹ 2000, bầu cử Pháp 2002 và lá phiếu Đại sảnh Danh vọng bóng chày năm 2007. Một số chi tiết đã thay đổi từ đó: Mark McGwire và Sammy Sosa, hai cầu thủ hai tác giả dùng làm ví dụ, rốt cuộc không được bầu vào Đại sảnh Danh vọng qua lá phiếu của giới nhà báo (một phần vì nghi vấn dùng chất kích thích); thời hạn một cầu thủ được nằm trên lá phiếu đã rút từ 15 năm xuống 10 năm; kỷ lục tỷ lệ phiếu của Cal Ripken Jr. đã bị vượt nhiều lần. Ở Thượng viện, giai đoạn 2021–2023 Thượng viện chia 50:50 và Phó Tổng thống Kamala Harris bỏ nhiều lá phiếu phá thế hoà hơn bất kỳ phó tổng thống nào trước đó, một minh hoạ rất rõ cho lập luận ở tình huống cuối chương. Bỏ phiếu tán thành đã được một vài thành phố Mỹ áp dụng cho bầu cử địa phương, và hình thức xếp hạng ứng viên (ranked-choice) lan rộng hơn, nhưng phần lớn nơi dùng nó đếm phiếu theo kiểu loại dần, không theo cách Condorcet. Chương có 12 dấu chú thích chân trang trong text, nhưng thực chất chỉ có 11 chú thích thuộc chương này: một dấu là ký hiệu "C*" trong hình bị nhận nhầm, và nội dung chú thích cuối danh sách (về lựa chọn ngược của sinh viên làm trợ lý cho giáo sư) thuộc chương khác; cả 11 chú thích đã được đưa vào đúng chỗ trong phần Nội dung chi tiết, ghi rõ "Chú thích của tác giả". Có hai chỗ sách có thể không chính xác, ghi ở mục Đánh giá: John Adams không phải phó tổng thống bỏ nhiều phiếu phá thế hoà nhất trong lịch sử, và tỷ lệ "gần gấp ba" về khả năng hoà khi Thượng viện có 20 thành viên là hơi cao. Các câu trích là bản dịch của người tổng hợp.
+Dixit và Nalebuff muốn người đọc hiểu rằng **không có cách bỏ phiếu hoàn hảo**: khi có từ ba phương án trở lên, cử tri luôn có lúc được lợi nếu khai sai ý muốn thật của mình (bỏ phiếu chiến lược), và kết quả bầu cử phụ thuộc vào luật bầu cử và trình tự biểu quyết nhiều ngang với ý muốn của cử tri.
+
+Ví dụ trung tâm là cuộc bầu cử tổng thống Mỹ năm 2000: Ralph Nader được 97.488 phiếu ở Florida, George W. Bush thắng bang này với cách biệt 537 phiếu, nên nếu Nader không ra tranh cử thì Al Gore đã thắng.
+
+Từ đó hai tác giả đi qua nghịch lý Condorcet, cách bỏ phiếu theo cặp Condorcet, vụ án ba thẩm phán (cùng một ý muốn mà ba trình tự biểu quyết cho ba bản án khác nhau), cử tri trung vị, lý do Hiến pháp Mỹ bền vững (ngưỡng hai phần ba vượt mốc 64%), bỏ phiếu tán thành ở Đại sảnh Danh vọng bóng chày, và kết bằng câu hỏi: lá phiếu phá thế hoà của Phó Tổng thống Mỹ có phải chỉ là nghi thức?
 
 ## Sơ đồ
 
@@ -569,7 +570,9 @@ Trớ trêu là nước Pháp ngày nay dùng một hệ thống khác, bầu c�
 
 Số phiếu chống cao nhất của Gore là 49, thấp hơn của Bush (51) và Nader (80), nên Gore thắng. Gore cũng là người thắng Condorcet (Condorcet winner), tức người thắng mọi đối thủ khi đấu tay đôi. Chú thích của tác giả: vì không có hệ thống bỏ phiếu nào hoàn hảo, có trường hợp bầu chiến lược vẫn có lợi ngay cả dưới quy tắc Condorcet; nhưng cách bầu chiến lược trong trường hợp này khá phức tạp, nên nếu cử tri không tìm ra cách bóp méo lá phiếu để đạt hiệu quả tối đa thì ít phải lo nó ảnh hưởng tới kết quả.
 
-Có thể phản bác rằng cách này hay về lý thuyết nhưng phi thực tế: làm sao bắt người ta bầu ba lần, hay 15 lần trong cuộc bầu sơ bộ có 6 ứng viên? Hai tác giả trả lời rằng có cách đơn giản: cử tri chỉ cần xếp hạng ứng viên trên lá phiếu, máy tính sẽ suy ra lá phiếu cho mọi cặp. Người xếp Gore thứ nhất, Nader thứ hai, Bush thứ ba coi như bầu Gore hơn Nader, Nader hơn Bush, Gore hơn Bush. Người xếp hạng 6 ứng viên đã ngầm cho lá phiếu ở cả 15 cặp: nếu cặp đấu là người hạng 2 và người hạng 5 của cô ấy, phiếu về người hạng 2. Xếp hạng không đầy đủ cũng được: người có hạng thắng mọi người không có hạng, và khi hai người đều không có hạng thì cử tri coi như bỏ phiếu trắng ở cặp đó.
+Có thể phản bác rằng cách này hay về lý thuyết nhưng phi thực tế: làm sao bắt người ta bầu ba lần, hay 15 lần trong cuộc bầu sơ bộ có 6 ứng viên? Hai tác giả trả lời rằng có cách đơn giản: cử tri chỉ cần xếp hạng ứng viên trên lá phiếu, máy tính sẽ suy ra lá phiếu cho mọi cặp. Người xếp Gore thứ nhất, Nader thứ hai, Bush thứ ba coi như bầu Gore hơn Nader, Nader hơn Bush, Gore hơn Bush.
+
+Người xếp hạng 6 ứng viên đã ngầm cho lá phiếu ở cả 15 cặp: nếu cặp đấu là người hạng 2 và người hạng 5 của cô ấy, phiếu về người hạng 2. Xếp hạng không đầy đủ cũng được: người có hạng thắng mọi người không có hạng, và khi hai người đều không có hạng thì cử tri coi như bỏ phiếu trắng ở cặp đó.
 
 **Áp dụng ở Trường Quản trị Yale.** Hai tác giả đã đưa quy tắc Condorcet vào việc trao giải giảng dạy hằng năm. Trước đó, giải được quyết bằng quy tắc đa số tương đối (ai nhiều phiếu nhất thì thắng). Với khoảng 50 giảng viên, tức 50 ứng viên, về lý thuyết có thể thắng với hơn 2% phiếu nếu phiếu chia gần đều. Thực tế luôn có khoảng sáu ứng viên mạnh và sáu người khác có ít nhiều ủng hộ; 25% thường đủ để thắng, nên người thắng là người có nhóm ủng hộ dồn phiếu tốt nhất. Nay sinh viên chỉ cần xếp hạng giáo sư, máy tính làm phần còn lại, và người thắng có vẻ khớp hơn với mong muốn của sinh viên.
 
@@ -709,7 +712,9 @@ Mục tiêu là chọn ngưỡng đa số nhỏ nhất bảo đảm kết cục 
 
 ### 7. Những tên tuổi vĩ đại nhất mọi thời (All-Time Greats): Đại sảnh Danh vọng và bỏ phiếu tán thành
 
-Trở về thực tế. Sau Nhà Trắng, được bầu vào Cooperstown (nơi đặt Đại sảnh Danh vọng bóng chày) có lẽ là vinh dự quốc gia được thèm muốn nhất ở Mỹ. Tư cách thành viên được quyết bằng bầu cử: cầu thủ có 10 năm thi đấu trở nên đủ điều kiện 5 năm sau khi giải nghệ. Chú thích của tác giả: tuy nhiên, cầu thủ đã nằm trên lá phiếu 15 năm mà không đắc cử thì mất tư cách; với những cầu thủ không đủ điều kiện theo cách thông thường, có một con đường khác là Ủy ban Lão thành (Old-Timers' Committee) xét các trường hợp đặc biệt và đôi khi bầu một hai người mỗi năm. Cử tri là thành viên Hiệp hội Nhà báo Bóng chày Mỹ. Mỗi cử tri bầu tối đa 10 ứng viên; ai được hơn 75% số lá phiếu gửi về thì đắc cử.
+Trở về thực tế. Sau Nhà Trắng, được bầu vào Cooperstown (nơi đặt Đại sảnh Danh vọng bóng chày) có lẽ là vinh dự quốc gia được thèm muốn nhất ở Mỹ. Tư cách thành viên được quyết bằng bầu cử: cầu thủ có 10 năm thi đấu trở nên đủ điều kiện 5 năm sau khi giải nghệ.
+
+Chú thích của tác giả: tuy nhiên, cầu thủ đã nằm trên lá phiếu 15 năm mà không đắc cử thì mất tư cách; với những cầu thủ không đủ điều kiện theo cách thông thường, có một con đường khác là Ủy ban Lão thành (Old-Timers' Committee) xét các trường hợp đặc biệt và đôi khi bầu một hai người mỗi năm. Cử tri là thành viên Hiệp hội Nhà báo Bóng chày Mỹ. Mỗi cử tri bầu tối đa 10 ứng viên; ai được hơn 75% số lá phiếu gửi về thì đắc cử.
 
 Chú thích của tác giả (số liệu năm 2007; trong sách, chú thích này gắn với ví dụ McGwire và Sosa ở phần bỏ phiếu tán thành bên dưới):
 
@@ -725,7 +730,9 @@ Chú thích của tác giả (số liệu năm 2007; trong sách, chú thích n�
 
 Như người đọc giờ đã đoán được, vấn đề của hệ thống này là cử tri không có động cơ đúng để bầu theo ý muốn thật. Giới hạn 10 lựa chọn buộc họ tính tới khả năng đắc cử bên cạnh tài năng (10 phiếu nghe có vẻ đủ, nhưng có khoảng 30 ứng viên). Một nhà báo có thể tin một cầu thủ xứng đáng nhưng không muốn phí phiếu nếu cầu thủ đó khó vượt ngưỡng. Vấn đề tương tự đã xuất hiện ở bầu sơ bộ tổng thống, và ở mọi cuộc bầu cử mà mỗi cử tri có một số phiếu cố định để chia cho các ứng viên.
 
-**Bỏ phiếu tán thành.** Hai chuyên gia lý thuyết trò chơi, nhà khoa học chính trị Steven Brams và nhà kinh tế Peter Fishburn, đề xuất "bỏ phiếu tán thành" (approval voting) để cử tri bày tỏ ý muốn thật mà không phải lo khả năng đắc cử. Mỗi cử tri bầu cho bao nhiêu ứng viên tuỳ ý; bầu cho người này không loại trừ bầu cho bất kỳ ai khác, nên bầu cho ứng viên không có hy vọng cũng chẳng hại gì. Ai thắng? Giống luật ở Cooperstown, có thể định trước tỷ lệ phiếu cần để thắng; hoặc định trước số người thắng và chọn những người nhiều phiếu nhất. Bỏ phiếu tán thành đã bắt đầu phổ biến và được nhiều hội nghề nghiệp sử dụng. Hai tác giả đặt câu hỏi nó sẽ vận hành ra sao ở Đại sảnh Danh vọng, hay Quốc hội có làm tốt hơn không nếu dùng nó để chọn dự án đưa vào ngân sách hằng năm, rồi xét các vấn đề chiến lược khi người thắng được quyết bằng một tỷ lệ ngưỡng.
+**Bỏ phiếu tán thành.** Hai chuyên gia lý thuyết trò chơi, nhà khoa học chính trị Steven Brams và nhà kinh tế Peter Fishburn, đề xuất "bỏ phiếu tán thành" (approval voting) để cử tri bày tỏ ý muốn thật mà không phải lo khả năng đắc cử. Mỗi cử tri bầu cho bao nhiêu ứng viên tuỳ ý; bầu cho người này không loại trừ bầu cho bất kỳ ai khác, nên bầu cho ứng viên không có hy vọng cũng chẳng hại gì. Ai thắng? Giống luật ở Cooperstown, có thể định trước tỷ lệ phiếu cần để thắng; hoặc định trước số người thắng và chọn những người nhiều phiếu nhất.
+
+Bỏ phiếu tán thành đã bắt đầu phổ biến và được nhiều hội nghề nghiệp sử dụng. Hai tác giả đặt câu hỏi nó sẽ vận hành ra sao ở Đại sảnh Danh vọng, hay Quốc hội có làm tốt hơn không nếu dùng nó để chọn dự án đưa vào ngân sách hằng năm, rồi xét các vấn đề chiến lược khi người thắng được quyết bằng một tỷ lệ ngưỡng.
 
 Thoạt nhìn, dưới bỏ phiếu tán thành với ngưỡng cố định, cử tri không có động cơ khai sai: ứng viên không cạnh tranh với nhau mà chỉ với một chuẩn chất lượng tuyệt đối ngầm định trong tỷ lệ tán thành bắt buộc. Nếu tôi nghĩ Mark McGwire xứng vào Đại sảnh Danh vọng, tôi chỉ có thể làm giảm cơ hội của anh bằng cách không tán thành; nếu tôi nghĩ anh không xứng, tôi chỉ có thể làm anh dễ vào hơn bằng cách bầu ngược ý mình.
 
@@ -738,7 +745,9 @@ Nhưng ứng viên vẫn có thể cạnh tranh nhau trong đầu cử tri, dù 
 
 Chú thích của tác giả (về McGwire và Sosa): như số liệu năm 2007 ở trên, Sosa sớm nhất phải tới năm 2010 mới đủ điều kiện. Hai tác giả thừa nhận lối suy nghĩ này rắc rối, và đó chính là kiểu suy luận cần có để hành động chiến lược dưới bỏ phiếu tán thành: có thể xảy ra, nhưng ít khả năng.
 
-**Quy tắc hạn ngạch.** Ngược lại, quy tắc hạn ngạch (quota rule) đặt ứng viên cạnh tranh trực tiếp với nhau. Giả sử Đại sảnh Danh vọng chỉ nhận 2 người mỗi năm, mỗi cử tri có 2 phiếu, có thể chia cho hai ứng viên hoặc dồn cả cho một người; hai người nhiều phiếu nhất được vào. Có ba ứng viên: Joe DiMaggio, Marv Throneberry và Bob Uecker. Ai cũng xếp DiMaggio đầu, còn cử tri chia đều giữa hai người kia. Tôi biết DiMaggio chắc chắn vào, nên là người hâm mộ Throneberry, tôi dồn cả 2 phiếu cho Throneberry để tăng cơ hội của anh so với Uecker. Tất nhiên ai cũng tinh tế như tôi. Kết quả: Throneberry và Uecker đắc cử, DiMaggio không có phiếu nào. Chú thích của tác giả: Marv Throneberry chơi gôn một (first base) cho đội New York Mets năm 1962, có lẽ đội tệ nhất lịch sử bóng chày, và màn trình diễn của anh góp phần lớn làm nên tiếng tăm đó; Bob Uecker nổi tiếng nhờ các quảng cáo bia Miller Lite hơn là nhờ thi đấu.
+**Quy tắc hạn ngạch.** Ngược lại, quy tắc hạn ngạch (quota rule) đặt ứng viên cạnh tranh trực tiếp với nhau. Giả sử Đại sảnh Danh vọng chỉ nhận 2 người mỗi năm, mỗi cử tri có 2 phiếu, có thể chia cho hai ứng viên hoặc dồn cả cho một người; hai người nhiều phiếu nhất được vào. Có ba ứng viên: Joe DiMaggio, Marv Throneberry và Bob Uecker. Ai cũng xếp DiMaggio đầu, còn cử tri chia đều giữa hai người kia. Tôi biết DiMaggio chắc chắn vào, nên là người hâm mộ Throneberry, tôi dồn cả 2 phiếu cho Throneberry để tăng cơ hội của anh so với Uecker. Tất nhiên ai cũng tinh tế như tôi. Kết quả: Throneberry và Uecker đắc cử, DiMaggio không có phiếu nào.
+
+Chú thích của tác giả: Marv Throneberry chơi gôn một (first base) cho đội New York Mets năm 1962, có lẽ đội tệ nhất lịch sử bóng chày, và màn trình diễn của anh góp phần lớn làm nên tiếng tăm đó; Bob Uecker nổi tiếng nhờ các quảng cáo bia Miller Lite hơn là nhờ thi đấu.
 
 Các dự án chi tiêu của chính phủ tự nhiên cạnh tranh nhau như vậy, chừng nào tổng ngân sách có hạn hoặc nghị sĩ có ý muốn mạnh về quy mô ngân sách. Hai tác giả để người đọc tự nghĩ xem dự án nào, nếu có, là "DiMaggio", và dự án nào là "Throneberry" hay "Uecker" của chi tiêu liên bang.
 
@@ -767,7 +776,9 @@ Các cuộc bầu cử tổng thống gần đây làm nổi bật tầm quan tr
 
 Chỉ một điều khoản của Hiến pháp quy định việc làm cụ thể của phó tổng thống: Điều I, Khoản 3, mục 4, theo đó Phó Tổng thống là Chủ tịch Thượng viện nhưng không có quyền bỏ phiếu, trừ khi số phiếu chia đều. Việc chủ tọa chỉ là "nghi thức, nghi thức vô ích", và phần lớn thời gian phó tổng thống giao nó cho các thượng nghị sĩ trẻ luân phiên do lãnh đạo phe đa số chọn. Câu hỏi: lá phiếu phá thế hoà có quan trọng, hay cũng chỉ là nghi thức?
 
-**Phần thảo luận của hai tác giả.** Thoạt nhìn, cả lập luận lẫn bằng chứng ủng hộ quan điểm nghi thức. Khả năng hoà nhỏ. Hoàn cảnh thuận lợi nhất cho thế hoà là khi mỗi thượng nghị sĩ có khả năng bầu bên này hay bên kia như nhau và số người bỏ phiếu là chẵn; khi đó khoảng 1 trong 12 cuộc biểu quyết sẽ hoà. Chú thích của tác giả: khả năng một nhóm 50 thượng nghị sĩ cố định bầu thuận và 50 người còn lại bầu chống là (1/2)⁵⁰ × (1/2)⁵⁰; nhân với số cách chọn 50 người ủng hộ trong 100 người, được khoảng 1/12. Tất nhiên lá phiếu của thượng nghị sĩ không hề ngẫu nhiên; chỉ khi hai đảng gần ngang nhau, hoặc có vấn đề đặc biệt gây chia rẽ khiến một số người bỏ phiếu khác đảng, lá phiếu của phó tổng thống mới được tính.
+**Phần thảo luận của hai tác giả.** Thoạt nhìn, cả lập luận lẫn bằng chứng ủng hộ quan điểm nghi thức. Khả năng hoà nhỏ. Hoàn cảnh thuận lợi nhất cho thế hoà là khi mỗi thượng nghị sĩ có khả năng bầu bên này hay bên kia như nhau và số người bỏ phiếu là chẵn; khi đó khoảng 1 trong 12 cuộc biểu quyết sẽ hoà.
+
+Chú thích của tác giả: khả năng một nhóm 50 thượng nghị sĩ cố định bầu thuận và 50 người còn lại bầu chống là (1/2)⁵⁰ × (1/2)⁵⁰; nhân với số cách chọn 50 người ủng hộ trong 100 người, được khoảng 1/12. Tất nhiên lá phiếu của thượng nghị sĩ không hề ngẫu nhiên; chỉ khi hai đảng gần ngang nhau, hoặc có vấn đề đặc biệt gây chia rẽ khiến một số người bỏ phiếu khác đảng, lá phiếu của phó tổng thống mới được tính.
 
 | Dữ kiện lịch sử | Số liệu |
 |---|---|
@@ -779,7 +790,9 @@ Chỉ một điều khoản của Hiến pháp quy định việc làm cụ th�
 
 Nhưng bức tranh nghi thức này gây hiểu lầm. Quan trọng hơn tần suất là tác động của lá phiếu. Đo đúng cách, lá phiếu của phó tổng thống quan trọng gần ngang lá phiếu của bất kỳ thượng nghị sĩ nào. Một lý do là nó có xu hướng chỉ quyết định những vấn đề quan trọng và gây chia rẽ nhất. Ví dụ, lá phiếu của George H. W. Bush khi làm phó tổng thống đã cứu chương trình tên lửa MX, và qua đó góp phần đẩy nhanh sự sụp đổ của Liên Xô.
 
-Một lá phiếu có thể có một trong hai tác dụng: quyết định kết quả, hoặc làm "tiếng nói" ảnh hưởng tới cách biệt thắng thua mà không đổi kết quả. Trong một cơ quan ra quyết định như Thượng viện, tác dụng thứ nhất quan trọng hơn. Để thấy giá trị của quyền hiện có, hãy tưởng tượng phó tổng thống được một lá phiếu thường với tư cách Chủ tịch Thượng viện. Khi nào điều đó có thêm tác động? Với vấn đề quan trọng, cả 100 thượng nghị sĩ sẽ cố có mặt. Chú thích của tác giả: hoặc các thượng nghị sĩ ở hai phe đối lập sẽ thoả thuận vắng mặt theo cặp; nếu 100 thượng nghị sĩ chia 51:49 hay chênh hơn, kết quả không đổi dù phó tổng thống bầu thế nào. Kết quả chỉ phụ thuộc vào lá phiếu thứ 101 của phó tổng thống khi Thượng viện chia 50:50, y hệt như khi phó tổng thống chỉ có quyền phá thế hoà.
+Một lá phiếu có thể có một trong hai tác dụng: quyết định kết quả, hoặc làm "tiếng nói" ảnh hưởng tới cách biệt thắng thua mà không đổi kết quả. Trong một cơ quan ra quyết định như Thượng viện, tác dụng thứ nhất quan trọng hơn.
+
+Để thấy giá trị của quyền hiện có, hãy tưởng tượng phó tổng thống được một lá phiếu thường với tư cách Chủ tịch Thượng viện. Khi nào điều đó có thêm tác động? Với vấn đề quan trọng, cả 100 thượng nghị sĩ sẽ cố có mặt. Chú thích của tác giả: hoặc các thượng nghị sĩ ở hai phe đối lập sẽ thoả thuận vắng mặt theo cặp; nếu 100 thượng nghị sĩ chia 51:49 hay chênh hơn, kết quả không đổi dù phó tổng thống bầu thế nào. Kết quả chỉ phụ thuộc vào lá phiếu thứ 101 của phó tổng thống khi Thượng viện chia 50:50, y hệt như khi phó tổng thống chỉ có quyền phá thế hoà.
 
 Ví dụ rõ nhất là Quốc hội khoá 107, đầu nhiệm kỳ của George W. Bush: Thượng viện chia đều 50:50, nên lá phiếu phá thế hoà của Phó Tổng thống Cheney trao quyền kiểm soát Thượng viện cho đảng Cộng hoà. Cả 50 thượng nghị sĩ Cộng hoà đều là người then chốt: chỉ cần thay một người, quyền kiểm soát sẽ chuyển sang đảng Dân chủ.
 
@@ -787,7 +800,11 @@ Hai tác giả thừa nhận cách tính này bỏ qua vài khía cạnh thực 
 
 Bài học áp dụng rộng hơn: lá phiếu của bất kỳ ai chỉ ảnh hưởng tới kết quả khi nó tạo ra hoặc phá vỡ thế hoà. Hai tác giả đề nghị người đọc tự hỏi lá phiếu của mình quan trọng tới đâu trong các bối cảnh khác nhau: bầu tổng thống, bầu thị trưởng thị trấn, bầu thư ký câu lạc bộ. Tình huống "The Shark Repellent That Backfired" (biện pháp chống thâu tóm phản tác dụng) ở Chương 14 là một nghiên cứu tình huống khác về bỏ phiếu.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Hội đồng quản trị một công ty có 7 thành viên cần chọn một trong ba phương án đầu tư: mở nhà máy mới (M), mua lại đối thủ (A), hoặc giữ tiền mặt (T). Ba thành viên xếp M > A > T, hai thành viên xếp A > T > M, hai thành viên xếp T > M > A. Bầu theo cặp: M thắng A 5–2, A thắng T 5–2, nhưng T thắng M 4–3, tức có vòng lặp như ví dụ Robespierre. Giả sử các thành viên bầu thật lòng ở từng vòng. Nếu chủ tịch (thuộc nhóm thích M) cho biểu quyết A đấu T trước rồi người thắng đấu M, thì A thắng vòng đầu và M thắng A ở vòng sau: nhà máy mới được chọn. Nếu một thành viên nhóm thích T đề nghị biểu quyết M đấu A trước, thì M thắng vòng đầu nhưng thua T ở vòng sau: công ty giữ tiền mặt. Cùng bảy người với cùng ý muốn, quyền sắp xếp trình tự biểu quyết quyết định kết quả. Nếu hội đồng dùng cách xếp hạng và chọn phương án có số phiếu chống cao nhất nhỏ nhất (cách của Condorcet), M (bị chống tối đa 4) thắng A (bị chống tối đa 5) và T (bị chống tối đa 5), bất kể ai sắp xếp trình tự. (Nếu các thành viên tinh tường và suy luận ngược như ba thẩm phán, kết quả của từng trình tự lại khác đi, nhưng điểm chính vẫn giữ nguyên: trình tự quyết định kết quả.)
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Hội đồng quản trị một công ty có 7 thành viên cần chọn một trong ba phương án đầu tư: mở nhà máy mới (M), mua lại đối thủ (A), hoặc giữ tiền mặt (T). Ba thành viên xếp M > A > T, hai thành viên xếp A > T > M, hai thành viên xếp T > M > A. Bầu theo cặp: M thắng A 5–2, A thắng T 5–2, nhưng T thắng M 4–3, tức có vòng lặp như ví dụ Robespierre.
+
+Giả sử các thành viên bầu thật lòng ở từng vòng. Nếu chủ tịch (thuộc nhóm thích M) cho biểu quyết A đấu T trước rồi người thắng đấu M, thì A thắng vòng đầu và M thắng A ở vòng sau: nhà máy mới được chọn. Nếu một thành viên nhóm thích T đề nghị biểu quyết M đấu A trước, thì M thắng vòng đầu nhưng thua T ở vòng sau: công ty giữ tiền mặt. Cùng bảy người với cùng ý muốn, quyền sắp xếp trình tự biểu quyết quyết định kết quả.
+
+Nếu hội đồng dùng cách xếp hạng và chọn phương án có số phiếu chống cao nhất nhỏ nhất (cách của Condorcet), M (bị chống tối đa 4) thắng A (bị chống tối đa 5) và T (bị chống tối đa 5), bất kể ai sắp xếp trình tự. (Nếu các thành viên tinh tường và suy luận ngược như ba thẩm phán, kết quả của từng trình tự lại khác đi, nhưng điểm chính vẫn giữ nguyên: trình tự quyết định kết quả.)
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -910,7 +927,9 @@ Hai tác giả gọi John Adams là phó tổng thống bỏ phiếu phá thế 
 
 ### Từ 2008, thực tế vừa xác nhận vừa làm phức tạp thêm lập luận của chương
 
-Lập luận về lá phiếu phá thế hoà được xác nhận rõ nhất trong giai đoạn 2021–2023, khi Thượng viện chia 50:50 và Phó Tổng thống Kamala Harris bỏ nhiều phiếu phá thế hoà hơn mọi người tiền nhiệm, phần lớn cho các dự luật lớn; đúng như hai tác giả nói, trong Thượng viện chia đều, mỗi thượng nghị sĩ của phe đa số đều then chốt. Về luật bầu cử, cách cho cử tri xếp hạng ứng viên đã lan rộng ở Mỹ (một số bang và thành phố), nhưng phần lớn dùng cách đếm loại dần (instant-runoff), vốn cũng có thể loại người thắng Condorcet giống như bầu cử hai vòng loại Danton trong ví dụ của sách. Bỏ phiếu tán thành đã được một vài thành phố Mỹ áp dụng. Ở Đại sảnh Danh vọng, cả McGwire lẫn Sosa đều không được giới nhà báo bầu, phần lớn vì nghi vấn chất kích thích, một yếu tố mà mô hình "chỉ chiến lược" của chương không tính tới.
+Lập luận về lá phiếu phá thế hoà được xác nhận rõ nhất trong giai đoạn 2021–2023, khi Thượng viện chia 50:50 và Phó Tổng thống Kamala Harris bỏ nhiều phiếu phá thế hoà hơn mọi người tiền nhiệm, phần lớn cho các dự luật lớn; đúng như hai tác giả nói, trong Thượng viện chia đều, mỗi thượng nghị sĩ của phe đa số đều then chốt.
+
+Về luật bầu cử, cách cho cử tri xếp hạng ứng viên đã lan rộng ở Mỹ (một số bang và thành phố), nhưng phần lớn dùng cách đếm loại dần (instant-runoff), vốn cũng có thể loại người thắng Condorcet giống như bầu cử hai vòng loại Danton trong ví dụ của sách. Bỏ phiếu tán thành đã được một vài thành phố Mỹ áp dụng. Ở Đại sảnh Danh vọng, cả McGwire lẫn Sosa đều không được giới nhà báo bầu, phần lớn vì nghi vấn chất kích thích, một yếu tố mà mô hình "chỉ chiến lược" của chương không tính tới.
 
 ### Quan điểm trái chiều: bỏ phiếu chiến lược có thể không tệ như vẻ ngoài
 
@@ -922,3 +941,165 @@ Một số nhà khoa học chính trị cho rằng bỏ phiếu chiến lược 
 - **Trong đầu tư.** Trong đại hội cổ đông và các cuộc biểu quyết của chủ nợ, ngưỡng thông qua (quá nửa, 65%, 75%) quyết định ai là người then chốt; một cổ đông nhỏ có thể có quyền lực lớn khi các bên lớn gần cân bằng, giống lá phiếu của phó tổng thống trong Thượng viện 50:50. Khi góp vốn chung với đối tác (đồng đầu tư, quỹ nhỏ đi cùng quỹ lớn), bên đi trước có thể cam kết vào ưu tiên riêng và để bên kia gánh phần cấp bách, như hai quỹ từ thiện.
 - **Trong nghề nghiệp.** Trong các hội đồng tuyển chọn, bình xét thi đua hay xét giải, giới hạn số phiếu hoặc hạn ngạch có thể khiến ứng viên giỏi nhất không được phiếu nào (bài học DiMaggio). Nếu được góp ý về quy chế, hãy đề xuất cách xếp hạng hoặc bỏ phiếu tán thành; khi đàm phán, nhớ rằng đưa yêu cầu cực đoan chỉ có tác dụng khi luật là "chia đôi phần chênh lệch", và đi quá xa thì bị coi là thiếu nghiêm túc.
 - **Khi đọc tin chính sách.** Ở Việt Nam, các cơ quan dân cử biểu quyết với những ngưỡng khác nhau (quá nửa cho luật thông thường, ngưỡng cao hơn cho những quyết định nền tảng như sửa Hiến pháp); chương này giúp hiểu vì sao ngưỡng cao làm cho quyết định ổn định hơn nhưng cũng khó thay đổi hơn. Với bầu cử nhiều người chọn nhiều ghế, hay các cuộc lấy phiếu tín nhiệm, hãy để ý luật đếm và ngưỡng, vì như hai tác giả chỉ ra, kết quả phụ thuộc vào luật nhiều ngang với ý muốn của người bỏ phiếu.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 12 trên một trang: năm nhánh theo các mục 1–9 của phần Nội dung chi tiết (động cơ bầu chiến lược, luật bầu và trình tự biểu quyết, cử tri trung vị và ngưỡng 64%, bỏ phiếu tán thành và quyền đi trước, lá phiếu phá thế hoà của phó tổng thống), mỗi nhánh ghi luận điểm, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 12: không có cách bỏ phiếu hoàn hảo — luật bầu và trình tự biểu quyết quyết định kết quả ngang ý muốn cử tri`"]
+  n1["`Mục 1 — Từ ba ứng viên trở lên, cử tri có động cơ bầu chiến lược`"]
+  n0 --- n1
+  n2["`Hai ứng viên thì quy tắc đa số chạy tốt: thích A hơn B thì bầu A`"]
+  n1 --- n2
+  n3["`Mỹ 2000: Nader được gần 97,5 nghìn phiếu ở Florida, Bush thắng bang này cách biệt 537 phiếu`"]
+  n1 --- n3
+  n4["`Không có Nader thì Gore đã thắng — hai tác giả chỉ trích cách bỏ phiếu, không chỉ trích Nader`"]
+  n3 --- n4
+  n5["`Mỹ 1992: Perot được 19%, Clinton thắng 370 so với 168 phiếu đại cử tri`"]
+  n1 --- n5
+  n6["`Pháp 2002: cánh tả bầu thật lòng cho đảng nhỏ, Jospin thua Le Pen, vòng hai phải bầu Chirac`"]
+  n1 --- n6
+  n7["`Lá phiếu chỉ có tác dụng khi phá hoặc tạo thế hoà — người bỏ lá phiếu đó là cử tri then chốt`"]
+  n1 --- n7
+  n8["`Nghịch lý: chỉ nên nói thật khi điều đó không quan trọng`"]
+  n7 --- n8
+  n9["`Bầu sơ bộ: gọi ai đó là người dẫn đầu có thể thành lời tiên tri tự ứng nghiệm`"]
+  n7 --- n9
+  n10["`Arrow: cách cộng phiếu nào cũng có khiếm khuyết, nên luôn có động cơ bầu chiến lược`"]
+  n1 --- n10
+  n11["`Mục 2–4 — Cùng ý muốn, luật bầu và trình tự khác nhau cho người thắng khác nhau`"]
+  n0 --- n11
+  n12["`Nghịch lý Condorcet: Robespierre, Danton, Lafarge với 40, 25, 35 cử tri`"]
+  n11 --- n12
+  n13["`Robespierre thắng Danton 75–25, Lafarge thắng Robespierre 60–40, Danton thắng Lafarge 65–35 — vòng lặp`"]
+  n12 --- n13
+  n14["`Condorcet ưu tiên đa số lớn: Robespierre thắng vì phiếu chống cao nhất chỉ là 60`"]
+  n12 --- n14
+  n15["`Bầu hai vòng kiểu Pháp: Danton bị loại ở vòng một, Lafarge thắng 60–40`"]
+  n12 --- n15
+  n16["`Nếu cánh tả bầu chiến lược cho Danton ngay vòng một, Danton thắng với 65%`"]
+  n12 --- n16
+  n17["`Quy tắc Condorcet: mọi cặp đấu tay đôi, chọn người có số phiếu chống cao nhất nhỏ nhất`"]
+  n11 --- n17
+  n18["`Năm 2000 giả định: Gore bị chống tối đa 49, ít hơn Bush (51) và Nader (80), nên Gore thắng`"]
+  n17 --- n18
+  n19["`Cử tri chỉ cần xếp hạng, máy tính suy ra phiếu cho mọi cặp — 6 ứng viên là 15 cặp`"]
+  n17 --- n19
+  n20["`Giải giảng dạy Trường Quản trị Yale: trước đây 25% phiếu đủ thắng, nay dùng xếp hạng Condorcet`"]
+  n17 --- n20
+  n21["`Ba thẩm phán nhìn trước và suy luận ngược: ba thủ tục cho ba bản án`"]
+  n11 --- n21
+  n22["`Thủ tục hiện hành, xét có tội trước: tha bổng 2–1`"]
+  n21 --- n22
+  n23["`Truyền thống La Mã, xét hình phạt nặng nhất trước: tử hình`"]
+  n21 --- n23
+  n24["`Ấn định hình phạt trước rồi mới xét tội: chung thân`"]
+  n21 --- n24
+  n25["`Ai kiểm soát trình tự biểu quyết có thể định đoạt kết quả, như khi Quốc hội chọn giữa nhiều dự luật`"]
+  n21 --- n25
+  n26["`Mục 5–6 — Lập trường ứng viên: cử tri trung vị và ngưỡng hơn 64%`"]
+  n0 --- n26
+  n27["`Khai cực đoan làm lá phiếu nổi bật, nhưng đi quá xa thì bị coi là gàn dở`"]
+  n26 --- n27
+  n28["`Luật trung bình: khai 0 thay vì 50 kéo ứng viên xuống 59,4 thay vì 59,9 — hiệu quả gấp 6 lần`"]
+  n26 --- n28
+  n29["`Trung bình tính cả cường độ nên ai cũng thổi phồng, như luật chia đôi phần chênh lệch`"]
+  n28 --- n29
+  n30["`Luật trung vị chỉ tính chiều hướng: khai thật là chiến lược trội với mọi cử tri`"]
+  n26 --- n30
+  n31["`Hạn chế: chỉ dùng được khi vấn đề quy về một chiều, tự do đến bảo thủ`"]
+  n30 --- n31
+  n32["`Từ hai chiều trở lên, người thách thức áp sát người đương nhiệm từ hướng đông cử tri nhất`"]
+  n26 --- n32
+  n33["`Đứng ở trọng tâm giữ được 1/2 với hình tròn, 4/9 với tam giác, 27/64 với tứ diện`"]
+  n32 --- n33
+  n34["`Caplin và Nalebuff: với mọi tập lồi, trọng tâm giữ ít nhất 1/e ≈ 36% số phiếu`"]
+  n32 --- n34
+  n35["`Cần hơn 64% phiếu để thay hiện trạng thì lập trường trung bình không thể bị lật`"]
+  n26 --- n35
+  n36["`Hiến pháp Mỹ đòi hai phần ba: ngưỡng nhỏ nhất vượt 64%, vừa ổn định vừa cho phép thay đổi`"]
+  n35 --- n36
+  n37["`Đa số đơn giản dễ xoay vòng, còn nhất trí thì khoá chặt hiện trạng`"]
+  n35 --- n37
+  n38["`Mục 7–8 — Giới hạn số phiếu và quyền đi trước làm méo ý muốn`"]
+  n0 --- n38
+  n39["`Đại sảnh Danh vọng bóng chày: mỗi nhà báo bầu tối đa 10 người, cần hơn 75% để đắc cử`"]
+  n38 --- n39
+  n40["`Giới hạn 10 phiếu cho khoảng 30 ứng viên buộc cử tri tính cả khả năng đắc cử`"]
+  n39 --- n40
+  n41["`Brams và Fishburn đề xuất bỏ phiếu tán thành: bầu cho bao nhiêu ứng viên tuỳ ý`"]
+  n38 --- n41
+  n42["`Với ngưỡng cố định, ứng viên chỉ cạnh tranh với một chuẩn chất lượng nên ít động cơ khai sai`"]
+  n41 --- n42
+  n43["`Vẫn có thể bầu chiến lược khi cử tri quan tâm cơ cấu, như cặp McGwire và Sosa`"]
+  n41 --- n43
+  n44["`Quy tắc hạn ngạch đặt các ứng viên cạnh tranh trực tiếp với nhau`"]
+  n38 --- n44
+  n45["`Nhận 2 người, ai cũng nghĩ DiMaggio chắc vào nên dồn phiếu cho người khác — DiMaggio không có phiếu nào`"]
+  n44 --- n45
+  n46["`Hai quỹ từ thiện, mỗi quỹ 250 nghìn USD, đều ưu tiên 200 nghìn USD cho người vô gia cư`"]
+  n38 --- n46
+  n47["`Quỹ thích Yale đi trước, dồn hết cho Yale, chuyển 100 nghìn USD từ Michigan sang Yale`"]
+  n46 --- n47
+  n48["`Quốc hội Mỹ trước Luật Ngân sách 1974 duyệt khoản nhỏ trước — nay biểu quyết tổng ngân sách trước`"]
+  n46 --- n48
+  n49["`Ai trông vào người khác cứu mình sau này có động cơ thổi phồng yêu cầu`"]
+  n46 --- n49
+  n50["`Mục 9 — Lá phiếu phá thế hoà của phó tổng thống không chỉ là nghi thức`"]
+  n0 --- n50
+  n51["`Thoạt nhìn là nghi thức: hoà chỉ khoảng 1 trong 12 cuộc biểu quyết, kể cả khi điều kiện thuận lợi nhất`"]
+  n50 --- n51
+  n52["`Adams 29 lần trong 8 năm, Nixon 8 lần trong 1229 quyết định, tổng 243 lần trong 218 năm`"]
+  n51 --- n52
+  n53["`Đo theo tác động, lá phiếu này quan trọng gần ngang lá phiếu của một thượng nghị sĩ`"]
+  n50 --- n53
+  n54["`Nó quyết định những vấn đề gây chia rẽ nhất: phiếu của Bush cha cứu chương trình tên lửa MX`"]
+  n53 --- n54
+  n55["`Nếu có phiếu thường thứ 101, nó cũng chỉ đổi kết quả khi Thượng viện chia 50:50`"]
+  n53 --- n55
+  n56["`Khoá 107: phiếu của Cheney trao Thượng viện cho Cộng hoà, cả 50 thượng nghị sĩ Cộng hoà đều then chốt`"]
+  n53 --- n56
+  n57["`Thông điệp xuyên suốt`"]
+  n0 --- n57
+  n58["`Kết quả bầu cử phụ thuộc vào luật bỏ phiếu nhiều ngang với ý muốn của cử tri`"]
+  n57 --- n58
+  n59["`Trước mỗi cuộc biểu quyết, hãy hỏi ai đặt luật, ai sắp thứ tự, khi nào lá phiếu mình then chốt`"]
+  n57 --- n59
+  n60["`Có thiết kế ít khiếm khuyết hơn: Condorcet, bỏ phiếu tán thành, trung vị, ngưỡng hai phần ba`"]
+  n57 --- n60
+  class n0 root
+  class n1,n11,n26,n38,n50,n57 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55,n56,n58,n59,n60 leaf
+```
+
+## Nguồn
+
+Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Phần III, Chương 12.
+
+## Tác giả
+
+Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Sách kế thừa *Thinking Strategically* (1991) của cùng hai tác giả.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần III áp dụng các công cụ của Phần I và II (suy luận ngược, chiến lược trội, cân bằng Nash, nước đi chiến lược) vào những tình huống cụ thể: thông tin (Chương 8), hợp tác và phối hợp (Chương 9), đấu giá (Chương 10), mặc cả (Chương 11).
+
+Chương 12 chuyển sang bỏ phiếu, một trò chơi nhiều người chơi mà ai cũng tham gia. Chương dùng lại nhiều mảnh của các chương trước: suy luận ngược (Chương 2) để phân tích ba thẩm phán, quan sát của Harold Hotelling về việc các đảng hội tụ về giữa (Chương 9), quy tắc "chia đôi phần chênh lệch" của mặc cả (Chương 11), và nước đi chiến lược, cam kết (Chương 6), dùng lại ở ví dụ hai quỹ từ thiện.
+
+Chương kế tiếp, Chương 13 về động cơ khuyến khích, chuyển từ câu hỏi "gộp ý muốn của nhiều người thế nào" sang câu hỏi "thiết kế phần thưởng thế nào để người khác làm điều mình muốn". Chương 14 có thêm một tình huống về bỏ phiếu ("The Shark Repellent That Backfired").
+
+## Lưu ý
+
+- Sách viết khoảng 2007–2008, nên các ví dụ dừng ở bầu cử Mỹ 2000, bầu cử Pháp 2002 và lá phiếu Đại sảnh Danh vọng bóng chày năm 2007.
+- Một số chi tiết đã thay đổi từ đó: Mark McGwire và Sammy Sosa, hai cầu thủ hai tác giả dùng làm ví dụ, rốt cuộc không được bầu vào Đại sảnh Danh vọng qua lá phiếu của giới nhà báo (một phần vì nghi vấn dùng chất kích thích); thời hạn một cầu thủ được nằm trên lá phiếu đã rút từ 15 năm xuống 10 năm; kỷ lục tỷ lệ phiếu của Cal Ripken Jr. đã bị vượt nhiều lần.
+- Ở Thượng viện, giai đoạn 2021–2023 Thượng viện chia 50:50 và Phó Tổng thống Kamala Harris bỏ nhiều lá phiếu phá thế hoà hơn bất kỳ phó tổng thống nào trước đó, một minh hoạ rất rõ cho lập luận ở tình huống cuối chương.
+- Bỏ phiếu tán thành đã được một vài thành phố Mỹ áp dụng cho bầu cử địa phương, và hình thức xếp hạng ứng viên (ranked-choice) lan rộng hơn, nhưng phần lớn nơi dùng nó đếm phiếu theo kiểu loại dần, không theo cách Condorcet.
+- Chương có 12 dấu chú thích chân trang trong text, nhưng thực chất chỉ có 11 chú thích thuộc chương này: một dấu là ký hiệu "C*" trong hình bị nhận nhầm, và nội dung chú thích cuối danh sách (về lựa chọn ngược của sinh viên làm trợ lý cho giáo sư) thuộc chương khác; cả 11 chú thích đã được đưa vào đúng chỗ trong phần Nội dung chi tiết, ghi rõ "Chú thích của tác giả".
+- Có hai chỗ sách có thể không chính xác, ghi ở mục Đánh giá: John Adams không phải phó tổng thống bỏ nhiều phiếu phá thế hoà nhất trong lịch sử, và tỷ lệ "gần gấp ba" về khả năng hoà khi Thượng viện có 20 thành viên là hơi cao.
+- Các câu trích là bản dịch của người tổng hợp.

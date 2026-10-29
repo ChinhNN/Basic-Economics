@@ -1,11 +1,16 @@
 # Chương 11 — Mặc cả (Bargaining)
 
-**Nguồn:** Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Chương 11, kèm phụ lục "Rubinstein Bargaining" ở cuối chương.
-**Tác giả:** Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Sách kế thừa *Thinking Strategically* (1991) của cùng hai tác giả.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 11 thuộc Phần III, phần áp dụng công cụ lý thuyết trò chơi vào những tình huống cụ thể. Nó dùng lại ba công cụ của các chương trước: suy luận ngược và trò chơi tối hậu thư (ultimatum game) ở Chương 2; chiến lược bên bờ vực (brinkmanship) và nước đi chiến lược ở Chương 6; phát tín hiệu (signaling) ở Chương 8. Chương 10 vừa bàn về đấu giá, nơi người bán tạo cạnh tranh giữa nhiều người mua; Chương 11 chuyển sang tình huống chỉ có hai bên phải chia nhau phần giá trị chung. Chương kế tiếp, Chương 12, chuyển sang bỏ phiếu, tức cách một tập thể đông người ra quyết định chung.
-**Ý chính:** Hai tác giả muốn người đọc hiểu rằng mặc cả không phải cuộc so tài ăn nói mà là một trò chơi có thể giải được. Ví dụ trung tâm là cuộc mặc cả lương giữa công đoàn và ban quản lý một khách sạn nghỉ dưỡng mùa hè: mùa kéo dài 101 ngày, mỗi ngày mở cửa lãi 1.000 USD. Suy luận ngược từ ngày cuối cho thấy (1) khi hai bên kiên nhẫn như nhau và có nhiều vòng mặc cả, phần lãi gần như được chia đôi; (2) thoả thuận phải đạt ngay ngày đầu; (3) bên nào có phương án dự phòng tốt hơn khi không thoả thuận được (BATNA) thì được chia nhiều hơn. Từ đó chương rút ra quy tắc "đo đúng chiếc bánh": chỉ phần giá trị tăng thêm so với tổng BATNA của hai bên mới là thứ đang được mặc cả (ví dụ chia tiền vé máy bay của một luật sư). Chương giải thích vì sao vẫn có đình công (thông tin không đối xứng, chiến lược bên bờ vực), đề xuất "đình công ảo" để hai bên chịu thiệt mà người ngoài không bị vạ lây, và kết bằng mô hình mặc cả Rubinstein: bên kiên nhẫn hơn được phần lớn hơn.
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2007–2008, nên các ví dụ thực tế dừng ở thời điểm đó: cuộc đình công bóng chày nhà nghề năm 1980, vụ đóng cửa cảng năm 2002, mùa giải khúc côn cầu NHL 2004–05 bị huỷ, các cuộc đình công ảo ở Ý năm 1999–2000 (khi Ý còn dùng đồng lire). Từ đó tới nay: NHL và giải bóng chày nhà nghề Mỹ (MLB) đều có thêm những lần chủ đội đóng cửa không cho cầu thủ thi đấu; đàm phán khí hậu toàn cầu đã có Thoả thuận Paris (2015); đình công ảo vẫn là ý tưởng hiếm khi được áp dụng. Câu đùa về Enron trong một chú thích gợi lại vụ phá sản gian lận năm 2001 của tập đoàn năng lượng này. Chương có **7 chú thích chân trang** của tác giả, đã đưa vào đúng chỗ trong phần Nội dung chi tiết và ghi "Chú thích của tác giả". Có một lỗi nhỏ của sách: ví dụ chia vé máy bay mở đầu bằng "một công ty ở Dallas", nhưng toàn bộ phần sau (bảng giá vé, các phép tính) nói về Houston; bản tổng hợp dùng Houston. Các bảng và công thức trong sách là hình ảnh, đã được dựng lại bằng bảng markdown. Chương không có bài tập "Trip to the Gym". Các câu trích là bản dịch của người tổng hợp.
+Hai tác giả muốn người đọc hiểu rằng mặc cả không phải cuộc so tài ăn nói mà là một trò chơi có thể giải được.
+
+Ví dụ trung tâm là cuộc mặc cả lương giữa công đoàn và ban quản lý một khách sạn nghỉ dưỡng mùa hè: mùa kéo dài 101 ngày, mỗi ngày mở cửa lãi 1.000 USD.
+
+Suy luận ngược từ ngày cuối cho thấy (1) khi hai bên kiên nhẫn như nhau và có nhiều vòng mặc cả, phần lãi gần như được chia đôi; (2) thoả thuận phải đạt ngay ngày đầu; (3) bên nào có phương án dự phòng tốt hơn khi không thoả thuận được (BATNA) thì được chia nhiều hơn.
+
+Từ đó chương rút ra quy tắc "đo đúng chiếc bánh": chỉ phần giá trị tăng thêm so với tổng BATNA của hai bên mới là thứ đang được mặc cả (ví dụ chia tiền vé máy bay của một luật sư).
+
+Chương giải thích vì sao vẫn có đình công (thông tin không đối xứng, chiến lược bên bờ vực), đề xuất "đình công ảo" để hai bên chịu thiệt mà người ngoài không bị vạ lây, và kết bằng mô hình mặc cả Rubinstein: bên kiên nhẫn hơn được phần lớn hơn.
 
 ## Sơ đồ
 
@@ -504,7 +509,9 @@ Chương 2 đã dùng trò chơi tối hậu thư để minh hoạ nguyên tắc
 
 Để suy luận ngược, cần một điểm kết thúc cố định trong tương lai, nên hai tác giả chọn một doanh nghiệp có điểm kết thúc tự nhiên: một khách sạn ở khu nghỉ dưỡng mùa hè. Mùa kéo dài 101 ngày; mỗi ngày mở cửa khách sạn lãi 1.000 USD. Đầu mùa, công đoàn và ban quản lý mặc cả về lương. Công đoàn đưa yêu cầu; ban quản lý chấp nhận, hoặc từ chối và hôm sau đưa đề nghị ngược lại. Khách sạn chỉ mở cửa sau khi đã có thoả thuận.
 
-Hãy bắt đầu từ tình huống cực đoan: mặc cả kéo dài tới mức dù vòng tới có thoả thuận thì khách sạn cũng chỉ mở được ngày cuối. Thực tế mặc cả không kéo dài như thế, nhưng chính suy nghĩ về điểm cực đoan này quyết định điều xảy ra. Nếu đến lượt công đoàn, ban quản lý nhận gì cũng hơn không, nên công đoàn lấy cả 1.000 USD. (Chú thích của tác giả: có thể giả định thực tế hơn rằng ban quản lý cần một phần tối thiểu, ví dụ 100 USD, nhưng điều đó chỉ làm phép tính rắc rối hơn mà không đổi ý chính. Đây là vấn đề đã bàn trong trò chơi tối hậu thư gốc: phải cho bên kia đủ để họ không từ chối vì tức tối.) Lùi lại một ngày, đến lượt ban quản lý: họ biết công đoàn có thể từ chối và lấy 1.000 USD vào ngày cuối, nên không thể đề nghị ít hơn; công đoàn cũng không thể được hơn 1.000 USD, nên ban quản lý không cần đề nghị nhiều hơn. (Chú thích của tác giả: lại có vấn đề một chút "đường ngọt" thêm cho bên kia, hai tác giả bỏ qua để trình bày cho gọn.) Vậy trong 2.000 USD lãi của hai ngày cuối, ban quản lý giữ một nửa: mỗi bên 500 USD mỗi ngày. Lùi thêm một ngày, công đoàn đề nghị ban quản lý 1.000 USD và giữ 2.000 USD, tức công đoàn 667 USD/ngày và ban quản lý 333 USD/ngày.
+Hãy bắt đầu từ tình huống cực đoan: mặc cả kéo dài tới mức dù vòng tới có thoả thuận thì khách sạn cũng chỉ mở được ngày cuối. Thực tế mặc cả không kéo dài như thế, nhưng chính suy nghĩ về điểm cực đoan này quyết định điều xảy ra. Nếu đến lượt công đoàn, ban quản lý nhận gì cũng hơn không, nên công đoàn lấy cả 1.000 USD. (Chú thích của tác giả: có thể giả định thực tế hơn rằng ban quản lý cần một phần tối thiểu, ví dụ 100 USD, nhưng điều đó chỉ làm phép tính rắc rối hơn mà không đổi ý chính. Đây là vấn đề đã bàn trong trò chơi tối hậu thư gốc: phải cho bên kia đủ để họ không từ chối vì tức tối.)
+
+Lùi lại một ngày, đến lượt ban quản lý: họ biết công đoàn có thể từ chối và lấy 1.000 USD vào ngày cuối, nên không thể đề nghị ít hơn; công đoàn cũng không thể được hơn 1.000 USD, nên ban quản lý không cần đề nghị nhiều hơn. (Chú thích của tác giả: lại có vấn đề một chút "đường ngọt" thêm cho bên kia, hai tác giả bỏ qua để trình bày cho gọn.) Vậy trong 2.000 USD lãi của hai ngày cuối, ban quản lý giữ một nửa: mỗi bên 500 USD mỗi ngày. Lùi thêm một ngày, công đoàn đề nghị ban quản lý 1.000 USD và giữ 2.000 USD, tức công đoàn 667 USD/ngày và ban quản lý 333 USD/ngày.
 
 **Các vòng mặc cả lương liên tiếp (Bảng dựng lại từ sách)**
 
@@ -519,7 +526,9 @@ Hãy bắt đầu từ tình huống cực đoan: mặc cả kéo dài tới m�
 | 100 | Ban quản lý | 50.000 USD | 500 USD | 50.000 USD | 500 USD |
 | 101 | Công đoàn | 51.000 USD | 505 USD | 50.000 USD | 495 USD |
 
-Mỗi lần công đoàn đề nghị, họ có lợi thế nhờ được đưa đề nghị "được ăn cả, ngã về không" cuối cùng. Nhưng lợi thế đó nhỏ dần khi số vòng tăng: đầu mùa 101 ngày, vị thế hai bên gần như ngang nhau, 505 USD so với 495 USD. Kết quả gần giống hệt nếu ban quản lý là bên đề nghị cuối, hoặc nếu không có quy tắc cứng như mỗi ngày một đề nghị hay luân phiên đề nghị. Phụ lục cuối chương cho thấy khung phân tích này mở rộng được cho trường hợp không có ngày kết thúc định trước. Giả định luân phiên đề nghị và có ngày kết thúc chỉ là công cụ giúp nhìn trước; chúng trở nên vô hại khi khoảng cách giữa các đề nghị ngắn và thời gian mặc cả dài. Khi đó suy luận ngược dẫn tới một quy tắc đơn giản: **chia đôi tổng giá trị**.
+Mỗi lần công đoàn đề nghị, họ có lợi thế nhờ được đưa đề nghị "được ăn cả, ngã về không" cuối cùng. Nhưng lợi thế đó nhỏ dần khi số vòng tăng: đầu mùa 101 ngày, vị thế hai bên gần như ngang nhau, 505 USD so với 495 USD. Kết quả gần giống hệt nếu ban quản lý là bên đề nghị cuối, hoặc nếu không có quy tắc cứng như mỗi ngày một đề nghị hay luân phiên đề nghị.
+
+Phụ lục cuối chương cho thấy khung phân tích này mở rộng được cho trường hợp không có ngày kết thúc định trước. Giả định luân phiên đề nghị và có ngày kết thúc chỉ là công cụ giúp nhìn trước; chúng trở nên vô hại khi khoảng cách giữa các đề nghị ngắn và thời gian mặc cả dài. Khi đó suy luận ngược dẫn tới một quy tắc đơn giản: **chia đôi tổng giá trị**.
 
 Dự đoán thứ hai của lý thuyết là thoả thuận đạt ngay ngày đầu. Vì hai bên cùng nhìn trước và thấy cùng một kết quả, không có lý do gì để không thoả thuận rồi cùng mất 1.000 USD mỗi ngày. Nhưng không phải cuộc mặc cả nào cũng khởi đầu tốt đẹp như vậy: đàm phán đổ vỡ, đình công hay đóng cửa không cho công nhân làm (lockout) xảy ra, và thoả thuận lệch về một bên. Hai tác giả sửa dần các giả định để giải thích những điều này.
 
@@ -561,7 +570,9 @@ Thoả thuận vẫn đạt ngay đầu mùa, không có đình công, nhưng c�
 
 Bước đầu tiên trong mọi cuộc đàm phán là đo đúng chiếc bánh. Trong trường hợp cuối ở trên, hai bên không thật sự mặc cả 1.000 USD. Nếu thoả thuận, họ chia nhau 1.000 USD mỗi ngày; nếu không, công đoàn có 300 USD và ban quản lý có 500 USD. Vậy thoả thuận chỉ mang lại thêm 200 USD, và cách đúng là coi chiếc bánh có kích thước 200 USD. Tổng quát: kích thước chiếc bánh đo bằng lượng giá trị được tạo ra khi hai bên thoả thuận so với khi không thoả thuận.
 
-Trong ngôn ngữ đàm phán, các con số dự phòng 300 USD của công đoàn và 500 USD của ban quản lý gọi là BATNA, thuật ngữ do Roger Fisher và William Ury đặt ra, viết tắt của *Best Alternative to a Negotiated Agreement* (phương án thay thế tốt nhất khi không đạt thoả thuận; hai tác giả nói thêm rằng cũng có thể hiểu là *Best Alternative to No Agreement*). Đó là điều tốt nhất bạn có được nếu không thoả thuận được với bên này. Vì ai cũng có BATNA của mình mà không cần đàm phán, toàn bộ ý nghĩa của đàm phán là tạo thêm được bao nhiêu giá trị vượt trên tổng các BATNA. Hai tác giả gọi ý này là vừa sâu sắc vừa đơn giản một cách đánh lừa, và đưa ra một ví dụ phỏng theo một vụ thật để cho thấy người ta dễ quên BATNA thế nào.
+Trong ngôn ngữ đàm phán, các con số dự phòng 300 USD của công đoàn và 500 USD của ban quản lý gọi là BATNA, thuật ngữ do Roger Fisher và William Ury đặt ra, viết tắt của *Best Alternative to a Negotiated Agreement* (phương án thay thế tốt nhất khi không đạt thoả thuận; hai tác giả nói thêm rằng cũng có thể hiểu là *Best Alternative to No Agreement*). Đó là điều tốt nhất bạn có được nếu không thoả thuận được với bên này.
+
+Vì ai cũng có BATNA của mình mà không cần đàm phán, toàn bộ ý nghĩa của đàm phán là tạo thêm được bao nhiêu giá trị vượt trên tổng các BATNA. Hai tác giả gọi ý này là vừa sâu sắc vừa đơn giản một cách đánh lừa, và đưa ra một ví dụ phỏng theo một vụ thật để cho thấy người ta dễ quên BATNA thế nào.
 
 **Ví dụ vé máy bay của luật sư.** Hai công ty, một ở Houston và một ở San Francisco, cùng thuê một luật sư ở New York. Nhờ phối hợp lịch, luật sư bay một vòng tam giác New York–Houston–San Francisco–New York thay vì hai chuyến riêng. Vì không kịp đặt vé sớm, vé khứ hồi đúng bằng hai lần vé một chiều.
 
@@ -584,7 +595,10 @@ Hai công ty nên chia tiền vé thế nào? Hai tác giả thừa nhận số 
 | Chia đôi khoản tiết kiệm so với BATNA (cách của hai tác giả) | 832 USD | 1.986 USD | Cách hai tác giả cho là công bằng nhất |
 
 > **Chú thích của tác giả** (ở cách chia đôi): nếu bạn nghĩ luật sư có thể tính cho khách Houston 1.332 USD và khách San Francisco 2.486 USD theo giá vé khứ hồi rồi bỏ túi phần chênh lệch, có lẽ bạn đã có thể làm sự nghiệp ở Enron. Tiếc là đã quá muộn.
-Hai tác giả gọi ba cách đầu là cách chia "tùy hứng" (ad hoc), có cách hợp lý hơn cách khác. Cách họ ưa là bắt đầu từ BATNA để đo chiếc bánh. Nếu hai công ty không thoả thuận được, luật sư sẽ đi hai chuyến riêng: Houston tốn 1.332 USD, San Francisco tốn 2.486 USD, tổng 3.818 USD. Chuyến tam giác chỉ tốn 2.818 USD. Điểm then chốt: chi phí thêm của hai chuyến khứ hồi so với chuyến tam giác là 1.000 USD, và đó là chiếc bánh. Thoả thuận tạo ra khoản tiết kiệm 1.000 USD vốn sẽ mất nếu không thoả thuận, và mỗi công ty cần thiết như nhau để có khoản đó. Nếu hai bên kiên nhẫn như nhau trong đàm phán, họ nên chia đôi: mỗi bên tiết kiệm 500 USD so với giá vé khứ hồi, tức Houston trả 832 USD và San Francisco trả 1.986 USD.
+
+Hai tác giả gọi ba cách đầu là cách chia "tùy hứng" (ad hoc), có cách hợp lý hơn cách khác. Cách họ ưa là bắt đầu từ BATNA để đo chiếc bánh. Nếu hai công ty không thoả thuận được, luật sư sẽ đi hai chuyến riêng: Houston tốn 1.332 USD, San Francisco tốn 2.486 USD, tổng 3.818 USD. Chuyến tam giác chỉ tốn 2.818 USD.
+
+Điểm then chốt: chi phí thêm của hai chuyến khứ hồi so với chuyến tam giác là 1.000 USD, và đó là chiếc bánh. Thoả thuận tạo ra khoản tiết kiệm 1.000 USD vốn sẽ mất nếu không thoả thuận, và mỗi công ty cần thiết như nhau để có khoản đó. Nếu hai bên kiên nhẫn như nhau trong đàm phán, họ nên chia đôi: mỗi bên tiết kiệm 500 USD so với giá vé khứ hồi, tức Houston trả 832 USD và San Francisco trả 1.986 USD.
 
 Con số của Houston thấp hơn hẳn mọi cách khác. Điều đó cho thấy cách chia giữa hai bên không nên dựa trên số dặm bay hay giá vé tương đối: vé đi Houston rẻ hơn không có nghĩa Houston được hưởng ít phần tiết kiệm hơn, vì nếu Houston không đồng ý, toàn bộ 1.000 USD sẽ mất. Hai tác giả hy vọng người đọc ban đầu nghĩ tới một trong các cách khác, rồi sau khi áp dụng BATNA để đo đúng chiếc bánh thì bị thuyết phục rằng cách mới là công bằng nhất; ai nghĩ ra ngay 832 USD và 1.986 USD thì đáng được ngả mũ. Cách chia chi phí này có thể truy về nguyên tắc "chia tấm vải" trong sách Talmud của Do Thái giáo.
 
@@ -601,7 +615,9 @@ Trở lại khách sạn: khi đoàn viên kiếm được 300 USD bên ngoài v
 | Trước khi tăng cường biểu tình | 300 USD | 500 USD | 200 USD | 400 USD | 600 USD |
 | Sau khi tăng cường biểu tình | 200 USD | 300 USD | 500 USD | 450 USD | 550 USD |
 
-Các cầu thủ bóng chày nhà nghề Mỹ (Major League Baseball) đã dùng đúng chiến thuật này trong đàm phán lương năm 1980. Họ đình công trong mùa thi đấu giao hữu, quay lại thi đấu khi mùa chính thức bắt đầu, và đe doạ đình công tiếp từ dịp nghỉ lễ Chiến sĩ trận vong (Memorial Day, cuối tháng 5). Lý do chiến thuật này "làm chủ đội đau hơn": trong mùa giao hữu, cầu thủ không có lương nhưng chủ đội vẫn có doanh thu từ khách du lịch và dân địa phương; trong mùa chính thức, cầu thủ nhận lương như nhau mỗi tuần, còn doanh thu vé và truyền hình của chủ đội thấp lúc đầu rồi tăng mạnh trong và sau dịp Memorial Day. Vì vậy thiệt hại của chủ đội so với cầu thủ lớn nhất trong mùa giao hữu và từ Memorial Day trở đi, đúng hai giai đoạn cầu thủ chọn. Chủ đội nhượng bộ ngay trước nửa sau của cuộc đình công bị đe doạ. Nhưng nửa đầu đã thật sự xảy ra, nên lý thuyết suy luận ngược rõ ràng chưa đầy đủ: vì sao không phải lúc nào cũng thoả thuận được trước khi thiệt hại xảy ra, vì sao có đình công?
+Các cầu thủ bóng chày nhà nghề Mỹ (Major League Baseball) đã dùng đúng chiến thuật này trong đàm phán lương năm 1980. Họ đình công trong mùa thi đấu giao hữu, quay lại thi đấu khi mùa chính thức bắt đầu, và đe doạ đình công tiếp từ dịp nghỉ lễ Chiến sĩ trận vong (Memorial Day, cuối tháng 5). Lý do chiến thuật này "làm chủ đội đau hơn": trong mùa giao hữu, cầu thủ không có lương nhưng chủ đội vẫn có doanh thu từ khách du lịch và dân địa phương; trong mùa chính thức, cầu thủ nhận lương như nhau mỗi tuần, còn doanh thu vé và truyền hình của chủ đội thấp lúc đầu rồi tăng mạnh trong và sau dịp Memorial Day.
+
+Vì vậy thiệt hại của chủ đội so với cầu thủ lớn nhất trong mùa giao hữu và từ Memorial Day trở đi, đúng hai giai đoạn cầu thủ chọn. Chủ đội nhượng bộ ngay trước nửa sau của cuộc đình công bị đe doạ. Nhưng nửa đầu đã thật sự xảy ra, nên lý thuyết suy luận ngược rõ ràng chưa đầy đủ: vì sao không phải lúc nào cũng thoả thuận được trước khi thiệt hại xảy ra, vì sao có đình công?
 
 ### 5. Chiến lược bên bờ vực và đình công (Brinkmanship and Strikes)
 
@@ -615,11 +631,17 @@ Hai tác giả đề nghị coi đình công là một ví dụ của phát tín
 
 Tình huống này sinh ra để dùng chiến lược bên bờ vực. Công đoàn có thể đe doạ cắt đứt đàm phán ngay và đình công, nhưng đình công cũng tốn kém cho đoàn viên, nên khi còn thời gian đàm phán, đe doạ nặng như vậy không đáng tin. Một đe doạ nhỏ hơn thì vẫn đáng tin: căng thẳng tăng dần và đổ vỡ có thể xảy ra dù công đoàn không thật sự muốn. Nếu điều đó làm ban quản lý lo hơn công đoàn, đây là chiến lược tốt cho công đoàn. Lập luận đúng cả theo chiều ngược lại: chiến lược bên bờ vực là vũ khí của bên mạnh hơn, tức bên ít sợ đổ vỡ hơn.
 
-Đôi khi đàm phán tiếp tục sau khi hợp đồng cũ hết hạn mà không có đình công, công việc chạy theo điều khoản cũ. Có vẻ đây là cách tốt hơn, vì máy móc và công nhân không nhàn rỗi, sản lượng không mất. Nhưng một bên, thường là công đoàn, đang đòi sửa điều khoản có lợi cho mình, và với bên đó cách này đặc biệt bất lợi. (Chú thích của tác giả: một cách giải thích là công nhân đang chờ thời điểm thích hợp để đình công; nhân viên UPS đình công ngay trước Giáng sinh sẽ gây thiệt hại lớn hơn nhiều so với đình công giữa những ngày hè oi ả tháng 8.) Ban quản lý việc gì phải nhượng bộ, sao không để đàm phán kéo dài mãi trong khi hợp đồng cũ trên thực tế vẫn có hiệu lực? Mối đe doạ ở đây lại là xác suất quá trình đổ vỡ và đình công nổ ra. Công đoàn dùng chiến lược bên bờ vực, nhưng lần này sau khi hợp đồng cũ đã hết hạn và thời gian đàm phán thường lệ đã qua. Tiếp tục làm việc theo hợp đồng hết hạn trong khi đàm phán bị coi rộng rãi là dấu hiệu công đoàn yếu; phải có một xác suất đình công nào đó thì doanh nghiệp mới chịu đáp ứng yêu cầu.
+Đôi khi đàm phán tiếp tục sau khi hợp đồng cũ hết hạn mà không có đình công, công việc chạy theo điều khoản cũ. Có vẻ đây là cách tốt hơn, vì máy móc và công nhân không nhàn rỗi, sản lượng không mất. Nhưng một bên, thường là công đoàn, đang đòi sửa điều khoản có lợi cho mình, và với bên đó cách này đặc biệt bất lợi. (Chú thích của tác giả: một cách giải thích là công nhân đang chờ thời điểm thích hợp để đình công; nhân viên UPS đình công ngay trước Giáng sinh sẽ gây thiệt hại lớn hơn nhiều so với đình công giữa những ngày hè oi ả tháng 8.)
 
-Khi đình công đã nổ ra, điều gì giữ nó kéo dài? Chìa khoá của cam kết là thu nhỏ đe doạ để nó đáng tin. Chiến lược bên bờ vực giữ cuộc đình công theo từng ngày. Đe doạ không bao giờ quay lại làm việc không đáng tin, nhất là khi ban quản lý đã gần đáp ứng yêu cầu; nhưng chờ thêm một ngày hay một tuần là đe doạ đáng tin, vì thiệt hại của công nhân nhỏ hơn lợi ích tiềm năng. Miễn là họ tin mình sẽ thắng (và sớm), chờ là đáng. Nếu công nhân tin đúng, ban quản lý nên thấy nhượng bộ rẻ hơn và nhượng bộ ngay, nên đe doạ của công nhân thực ra không tốn gì. Vấn đề là doanh nghiệp có thể không nhìn tình hình như vậy: nếu họ tin công nhân sắp chịu thua, thì mất thêm một ngày hay một tuần lãi là đáng để có hợp đồng có lợi hơn. Thế là cả hai bên cùng cầm cự và đình công tiếp diễn.
+Ban quản lý việc gì phải nhượng bộ, sao không để đàm phán kéo dài mãi trong khi hợp đồng cũ trên thực tế vẫn có hiệu lực? Mối đe doạ ở đây lại là xác suất quá trình đổ vỡ và đình công nổ ra. Công đoàn dùng chiến lược bên bờ vực, nhưng lần này sau khi hợp đồng cũ đã hết hạn và thời gian đàm phán thường lệ đã qua. Tiếp tục làm việc theo hợp đồng hết hạn trong khi đàm phán bị coi rộng rãi là dấu hiệu công đoàn yếu; phải có một xác suất đình công nào đó thì doanh nghiệp mới chịu đáp ứng yêu cầu.
 
-Ở Chương 6, hai tác giả mô tả rủi ro của chiến lược bên bờ vực là khả năng cả hai bên cùng trượt xuống dốc trơn. Khi xung đột kéo dài, hai bên đối mặt một thiệt hại lớn với xác suất nhỏ nhưng tăng dần, và chính mức phơi nhiễm rủi ro tăng dần buộc một bên lùi bước. Chiến lược bên bờ vực dưới dạng đình công gây chi phí theo cách khác nhưng hiệu quả giống nhau: thay vì xác suất nhỏ của một thiệt hại lớn, đình công là xác suất lớn, thậm chí chắc chắn, của một thiệt hại nhỏ; khi đình công kéo dài, thiệt hại nhỏ đó lớn dần, giống như xác suất rơi xuống vực tăng dần. Cách chứng minh quyết tâm là chấp nhận thêm rủi ro hoặc nhìn thiệt hại đình công leo thang. Chỉ khi một bên phát hiện bên kia thật sự mạnh hơn, bên đó mới lùi. Sức mạnh có nhiều dạng: một bên có thể ít thiệt khi chờ, có lẽ vì có phương án thay thế giá trị; có thể thắng rất quan trọng với họ, có lẽ vì họ còn đàm phán với các công đoàn khác; hoặc thua rất đắt, khiến thiệt hại đình công trông nhỏ đi.
+Khi đình công đã nổ ra, điều gì giữ nó kéo dài? Chìa khoá của cam kết là thu nhỏ đe doạ để nó đáng tin. Chiến lược bên bờ vực giữ cuộc đình công theo từng ngày. Đe doạ không bao giờ quay lại làm việc không đáng tin, nhất là khi ban quản lý đã gần đáp ứng yêu cầu; nhưng chờ thêm một ngày hay một tuần là đe doạ đáng tin, vì thiệt hại của công nhân nhỏ hơn lợi ích tiềm năng. Miễn là họ tin mình sẽ thắng (và sớm), chờ là đáng.
+
+Nếu công nhân tin đúng, ban quản lý nên thấy nhượng bộ rẻ hơn và nhượng bộ ngay, nên đe doạ của công nhân thực ra không tốn gì. Vấn đề là doanh nghiệp có thể không nhìn tình hình như vậy: nếu họ tin công nhân sắp chịu thua, thì mất thêm một ngày hay một tuần lãi là đáng để có hợp đồng có lợi hơn. Thế là cả hai bên cùng cầm cự và đình công tiếp diễn.
+
+Ở Chương 6, hai tác giả mô tả rủi ro của chiến lược bên bờ vực là khả năng cả hai bên cùng trượt xuống dốc trơn. Khi xung đột kéo dài, hai bên đối mặt một thiệt hại lớn với xác suất nhỏ nhưng tăng dần, và chính mức phơi nhiễm rủi ro tăng dần buộc một bên lùi bước. Chiến lược bên bờ vực dưới dạng đình công gây chi phí theo cách khác nhưng hiệu quả giống nhau: thay vì xác suất nhỏ của một thiệt hại lớn, đình công là xác suất lớn, thậm chí chắc chắn, của một thiệt hại nhỏ; khi đình công kéo dài, thiệt hại nhỏ đó lớn dần, giống như xác suất rơi xuống vực tăng dần.
+
+Cách chứng minh quyết tâm là chấp nhận thêm rủi ro hoặc nhìn thiệt hại đình công leo thang. Chỉ khi một bên phát hiện bên kia thật sự mạnh hơn, bên đó mới lùi. Sức mạnh có nhiều dạng: một bên có thể ít thiệt khi chờ, có lẽ vì có phương án thay thế giá trị; có thể thắng rất quan trọng với họ, có lẽ vì họ còn đàm phán với các công đoàn khác; hoặc thua rất đắt, khiến thiệt hại đình công trông nhỏ đi.
 
 Chiến lược bên bờ vực áp dụng cả cho mặc cả giữa các quốc gia, không chỉ giữa các doanh nghiệp. Khi Mỹ muốn đồng minh gánh phần lớn hơn chi phí quốc phòng, Mỹ chịu cái yếu của bên đàm phán trong khi vẫn làm việc theo hợp đồng đã hết hạn: thoả thuận cũ, trong đó Mỹ gánh phần lớn gánh nặng, vẫn tiếp tục, và đồng minh vui lòng để đàm phán kéo dài. Hai tác giả để ngỏ câu hỏi: Mỹ có thể, và có nên, dùng chiến lược bên bờ vực không?
 
@@ -629,7 +651,9 @@ Rủi ro và chiến lược bên bờ vực thay đổi quá trình mặc cả 
 
 Tới đây chương chỉ xét một chiều: tổng số tiền và cách chia giữa hai bên. Thực tế mặc cả có nhiều chiều: công đoàn và ban quản lý quan tâm không chỉ lương mà cả bảo hiểm y tế, lương hưu, điều kiện làm việc; Mỹ và các đối tác thương mại quan tâm không chỉ tổng lượng phát thải CO2 mà cả cách phân bổ. Về nguyên tắc nhiều hạng mục quy đổi được ra tiền, nhưng với một khác biệt quan trọng: mỗi bên có thể định giá chúng khác nhau.
 
-Khác biệt đó mở ra những thoả thuận mà cả hai bên chấp nhận được. Giả sử công ty mua được bảo hiểm y tế nhóm với giá tốt hơn công nhân tự mua: 1.000 USD mỗi năm thay vì 2.000 USD cho một gia đình bốn người. Công nhân thích có bảo hiểm hơn là thêm 1.500 USD lương mỗi năm, và công ty cũng thích cung cấp bảo hiểm hơn là trả thêm 1.500 USD lương. Có vẻ người đàm phán nên đưa mọi vấn đề cùng quan tâm vào một "nồi" mặc cả chung và khai thác khác biệt trong cách định giá để đạt kết quả tốt hơn cho mọi người. Cách này có hiệu quả trong một số trường hợp: các vòng đàm phán rộng về tự do hoá thương mại trong Hiệp định chung về Thuế quan và Thương mại (GATT) và tổ chức kế nhiệm là Tổ chức Thương mại Thế giới (WTO) đã thành công hơn các cuộc đàm phán hẹp theo từng ngành hay mặt hàng.
+Khác biệt đó mở ra những thoả thuận mà cả hai bên chấp nhận được. Giả sử công ty mua được bảo hiểm y tế nhóm với giá tốt hơn công nhân tự mua: 1.000 USD mỗi năm thay vì 2.000 USD cho một gia đình bốn người. Công nhân thích có bảo hiểm hơn là thêm 1.500 USD lương mỗi năm, và công ty cũng thích cung cấp bảo hiểm hơn là trả thêm 1.500 USD lương.
+
+Có vẻ người đàm phán nên đưa mọi vấn đề cùng quan tâm vào một "nồi" mặc cả chung và khai thác khác biệt trong cách định giá để đạt kết quả tốt hơn cho mọi người. Cách này có hiệu quả trong một số trường hợp: các vòng đàm phán rộng về tự do hoá thương mại trong Hiệp định chung về Thuế quan và Thương mại (GATT) và tổ chức kế nhiệm là Tổ chức Thương mại Thế giới (WTO) đã thành công hơn các cuộc đàm phán hẹp theo từng ngành hay mặt hàng.
 
 Nhưng gộp vấn đề cũng mở ra khả năng dùng một trò chơi mặc cả để tạo đe doạ trong trò chơi khác. Chẳng hạn Mỹ có thể đòi được nhiều nhượng bộ hơn trong đàm phán mở cửa thị trường Nhật cho hàng xuất khẩu của mình nếu đe doạ phá vỡ quan hệ quân sự, khiến Nhật đối mặt rủi ro bị Triều Tiên hoặc Trung Quốc gây hấn. Mỹ không hề muốn điều đó xảy ra; đó chỉ là đe doạ để Nhật nhượng bộ về kinh tế. Chính vì vậy, Nhật sẽ đòi đàm phán vấn đề kinh tế và vấn đề quân sự tách riêng.
 
@@ -647,7 +671,9 @@ Nhưng các bên đàm phán phải sẵn sàng bỏ đi để chứng tỏ sứ
 
 Có cách nào để hai bên giải quyết bất đồng mà không gây chi phí lớn như vậy cho phần còn lại của xã hội? Đã hơn 50 năm nay có một ý tưởng khéo léo để loại bỏ gần như toàn bộ lãng phí của đình công và đóng cửa mà không làm thay đổi sức mạnh mặc cả tương đối của công nhân và chủ: thay đình công truyền thống bằng đình công ảo (hay đóng cửa ảo). Công nhân vẫn làm việc bình thường, doanh nghiệp vẫn sản xuất bình thường; mấu chốt là trong thời gian đình công ảo, không bên nào được trả tiền.
 
-Trong đình công thật, công nhân mất lương và chủ mất lợi nhuận. Vậy trong đình công ảo, công nhân làm không lương và chủ bỏ ra toàn bộ lợi nhuận. Vì lợi nhuận có thể khó đo và lợi nhuận ngắn hạn có thể đánh giá thấp chi phí thật của doanh nghiệp, hai tác giả đề nghị doanh nghiệp bỏ ra toàn bộ doanh thu. Số tiền đó có thể chuyển cho nhà nước ("chú Sam") hay một tổ chức từ thiện, hoặc sản phẩm được phát miễn phí để doanh thu thực chất về tay khách hàng. Trong đình công ảo, phần còn lại của nền kinh tế không bị gián đoạn, khách hàng không bị bỏ rơi. Ban quản lý và công nhân chịu đau nên có động lực thoả thuận, còn nhà nước, tổ chức từ thiện hay khách hàng được hưởng một khoản bất ngờ.
+Trong đình công thật, công nhân mất lương và chủ mất lợi nhuận. Vậy trong đình công ảo, công nhân làm không lương và chủ bỏ ra toàn bộ lợi nhuận. Vì lợi nhuận có thể khó đo và lợi nhuận ngắn hạn có thể đánh giá thấp chi phí thật của doanh nghiệp, hai tác giả đề nghị doanh nghiệp bỏ ra toàn bộ doanh thu. Số tiền đó có thể chuyển cho nhà nước ("chú Sam") hay một tổ chức từ thiện, hoặc sản phẩm được phát miễn phí để doanh thu thực chất về tay khách hàng.
+
+Trong đình công ảo, phần còn lại của nền kinh tế không bị gián đoạn, khách hàng không bị bỏ rơi. Ban quản lý và công nhân chịu đau nên có động lực thoả thuận, còn nhà nước, tổ chức từ thiện hay khách hàng được hưởng một khoản bất ngờ.
 
 Đình công thật (hay việc ban quản lý chủ động đóng cửa để đi trước một cuộc đình công) có thể huỷ hoại vĩnh viễn nhu cầu của khách hàng và đe doạ tương lai của cả doanh nghiệp. Giải khúc côn cầu nhà nghề Bắc Mỹ (NHL) đóng cửa không cho cầu thủ thi đấu để đối phó với đe doạ đình công trong mùa 2004–05: cả mùa giải bị huỷ, không có Cúp Stanley, và phải rất lâu sau khi tranh chấp được giải quyết lượng khán giả mới hồi phục.
 
@@ -685,11 +711,15 @@ Phần thảo luận của sách: kết quả sẽ khác xa 50:50. Vì chỉ ban
 | 100 | Ban quản lý | 100.000 USD | 100 USD |
 | 101 | Ban quản lý | 101.000 USD | 101 USD |
 
-Phân tích này rõ ràng phóng đại sức mạnh thật của ban quản lý. Hoãn thoả thuận dù chỉ một ngày làm ban quản lý mất 999 USD và công nhân chỉ mất 1 USD. Nếu công nhân quan tâm không chỉ tiền mình nhận mà cả việc so sánh với phần của ban quản lý, cách chia lệch cực đoan như vậy không thể xảy ra. Nhưng không có nghĩa phải quay về chia đôi: ban quản lý vẫn mạnh hơn. Mục tiêu của họ là tìm khoản tối thiểu công nhân chấp nhận, khoản mà công nhân thích hơn là không có gì, dù ban quản lý được nhiều hơn. Chẳng hạn, ở ngày cuối, công nhân có thể chấp nhận 200 USD so với 800 USD của ban quản lý nếu phương án thay thế là không có gì. Khi đó ban quản lý duy trì tỷ lệ 4:1 suốt 101 ngày và giữ 80% tổng lãi.
+Phân tích này rõ ràng phóng đại sức mạnh thật của ban quản lý. Hoãn thoả thuận dù chỉ một ngày làm ban quản lý mất 999 USD và công nhân chỉ mất 1 USD. Nếu công nhân quan tâm không chỉ tiền mình nhận mà cả việc so sánh với phần của ban quản lý, cách chia lệch cực đoan như vậy không thể xảy ra.
+
+Nhưng không có nghĩa phải quay về chia đôi: ban quản lý vẫn mạnh hơn. Mục tiêu của họ là tìm khoản tối thiểu công nhân chấp nhận, khoản mà công nhân thích hơn là không có gì, dù ban quản lý được nhiều hơn. Chẳng hạn, ở ngày cuối, công nhân có thể chấp nhận 200 USD so với 800 USD của ban quản lý nếu phương án thay thế là không có gì. Khi đó ban quản lý duy trì tỷ lệ 4:1 suốt 101 ngày và giữ 80% tổng lãi.
 
 Giá trị của kỹ thuật này là nó chỉ ra nhiều nguồn sức mạnh mặc cả khác nhau. Chia đôi hay chia đều là lời giải phổ biến nhưng không phổ quát; suy luận ngược cho biết vì sao có thể gặp cách chia không đều. Nhưng cũng có lý do để nghi ngờ kết luận của suy luận ngược: nếu bạn thử mà nó không hiệu quả thì sao?
 
-Khả năng bên kia chứng minh phân tích của bạn sai khiến phiên bản lặp lại khác phiên bản một lần. Trong trò chơi chia 100 USD một lần, bạn có thể giả định bên nhận thấy 20 USD đủ có lợi để chấp nhận, để bạn giữ 80 USD; nếu giả định sai thì trò chơi đã kết thúc, quá muộn để đổi chiến lược, nên bên kia không có cơ hội dạy bạn một bài học nhằm thay đổi chiến lược tương lai của bạn. Ngược lại, khi chơi trò chơi tối hậu thư 101 lần, bên nhận đề nghị có thể có động cơ chơi cứng lúc đầu để tạo ấn tượng rằng mình có lẽ phi lý, hoặc ít nhất tin chắc vào chuẩn mực chia 50:50. (Chú thích của tác giả: khi đưa ra khả năng này, hai tác giả đã ngầm đổi trò chơi bằng cách thêm sự bất định về sở thích của người chơi kia. Nhiều khả năng người đó sẽ nhận bất kỳ đề nghị nào tối đa hoá phần của mình, nhưng nay có một xác suất nhỏ rằng họ chỉ chấp nhận chia 50:50, một dạng chuẩn mực công bằng. Dù khả năng đó thấp, nhiều người chơi chỉ lo tối đa hoá cũng muốn thuyết phục bạn rằng họ thuộc loại "50:50" để được chia nhiều hơn.)
+Khả năng bên kia chứng minh phân tích của bạn sai khiến phiên bản lặp lại khác phiên bản một lần. Trong trò chơi chia 100 USD một lần, bạn có thể giả định bên nhận thấy 20 USD đủ có lợi để chấp nhận, để bạn giữ 80 USD; nếu giả định sai thì trò chơi đã kết thúc, quá muộn để đổi chiến lược, nên bên kia không có cơ hội dạy bạn một bài học nhằm thay đổi chiến lược tương lai của bạn.
+
+Ngược lại, khi chơi trò chơi tối hậu thư 101 lần, bên nhận đề nghị có thể có động cơ chơi cứng lúc đầu để tạo ấn tượng rằng mình có lẽ phi lý, hoặc ít nhất tin chắc vào chuẩn mực chia 50:50. (Chú thích của tác giả: khi đưa ra khả năng này, hai tác giả đã ngầm đổi trò chơi bằng cách thêm sự bất định về sở thích của người chơi kia. Nhiều khả năng người đó sẽ nhận bất kỳ đề nghị nào tối đa hoá phần của mình, nhưng nay có một xác suất nhỏ rằng họ chỉ chấp nhận chia 50:50, một dạng chuẩn mực công bằng. Dù khả năng đó thấp, nhiều người chơi chỉ lo tối đa hoá cũng muốn thuyết phục bạn rằng họ thuộc loại "50:50" để được chia nhiều hơn.)
 
 Nếu bạn đề nghị chia 80:20 ngày đầu và bên kia từ chối thì sao? Dễ trả lời nhất khi tổng cộng chỉ có hai ngày, tức vòng sau là vòng cuối. Bạn có nghĩ người đó thật sự thuộc loại từ chối mọi thứ trừ 50:50, hay đó chỉ là mẹo để bạn chia 50:50 ở vòng cuối?
 
@@ -704,13 +734,23 @@ Tóm lại, điều làm trò chơi nhiều vòng khác trò chơi một lần, 
 
 Có thể tưởng không giải được bài toán mặc cả khi trò chơi không có ngày kết thúc. Nhưng nhờ một cách tiếp cận tài tình của Ariel Rubinstein, vẫn tìm được lời giải. Trong trò chơi của Rubinstein, hai bên luân phiên đưa đề nghị về cách chia chiếc bánh, để đơn giản có kích thước 1. Một đề nghị có dạng (X, 1 − X): nếu X = 3/4 thì 3/4 cho tôi, 1/4 cho anh. Trò chơi kết thúc ngay khi một bên chấp nhận đề nghị của bên kia; trước đó các đề nghị qua lại luân phiên. Từ chối là tốn kém vì làm chậm thoả thuận: thoả thuận đạt ngày mai sẽ có giá trị hơn nếu đạt hôm nay, nên thoả thuận ngay là lợi ích chung của hai bên.
 
-**Thời gian là tiền theo nhiều cách.** Đơn giản nhất, một đô la nhận sớm đáng giá hơn một đô la nhận muộn vì có thể đem đầu tư để có lãi hay cổ tức: với lợi suất 10% một năm, 1 USD nhận ngay bằng 1,10 USD nhận sau một năm. Với công đoàn và ban quản lý còn có thêm những yếu tố làm tăng sự sốt ruột. Mỗi tuần thoả thuận bị hoãn, có rủi ro khách quen trung thành gắn bó lâu dài với nhà cung cấp khác, và doanh nghiệp có nguy cơ phải đóng cửa vĩnh viễn; công nhân và quản lý khi đó phải chuyển sang việc lương thấp hơn, uy tín của thủ lĩnh công đoàn bị tổn hại, quyền chọn cổ phiếu của ban quản lý mất giá trị. Mức độ thoả thuận ngay tốt hơn thoả thuận tuần sau chính là xác suất những điều đó xảy ra trong tuần.
+**Thời gian là tiền theo nhiều cách.** Đơn giản nhất, một đô la nhận sớm đáng giá hơn một đô la nhận muộn vì có thể đem đầu tư để có lãi hay cổ tức: với lợi suất 10% một năm, 1 USD nhận ngay bằng 1,10 USD nhận sau một năm.
 
-Giống trò chơi tối hậu thư, bên đến lượt đưa đề nghị có lợi thế, và độ lớn của lợi thế phụ thuộc mức sốt ruột. Hai tác giả đo sự sốt ruột bằng phần giá trị còn lại nếu thoả thuận ở vòng sau thay vì hôm nay, ký hiệu δ. Nếu mỗi tuần có một đề nghị và 1 USD tuần sau đáng 99 xu hôm nay thì 99% giá trị còn lại, δ = 0,99 (hai tác giả chơi chữ câu tục ngữ "một con chim trong tay hơn hai con trong bụi": 99 xu trong tay bằng 1 USD trong bụi tuần sau). Khi δ gần 1, như 0,99, người ta kiên nhẫn; khi δ nhỏ, chẳng hạn 1/3, chờ đợi tốn kém và người mặc cả sốt ruột; với δ = 1/3, mỗi tuần mất hai phần ba giá trị. Mức sốt ruột thường phụ thuộc khoảng thời gian giữa các vòng: nếu mất một tuần để đưa đề nghị ngược lại thì có thể δ = 0,99; nếu chỉ mất một phút thì δ = 0,999999 và gần như không mất gì.
+Với công đoàn và ban quản lý còn có thêm những yếu tố làm tăng sự sốt ruột. Mỗi tuần thoả thuận bị hoãn, có rủi ro khách quen trung thành gắn bó lâu dài với nhà cung cấp khác, và doanh nghiệp có nguy cơ phải đóng cửa vĩnh viễn; công nhân và quản lý khi đó phải chuyển sang việc lương thấp hơn, uy tín của thủ lĩnh công đoàn bị tổn hại, quyền chọn cổ phiếu của ban quản lý mất giá trị. Mức độ thoả thuận ngay tốt hơn thoả thuận tuần sau chính là xác suất những điều đó xảy ra trong tuần.
 
-**Mức thấp nhất bạn chấp nhận.** Khi biết mức sốt ruột, có thể tìm cách chia bằng cách xét mức thấp nhất một người có thể chấp nhận và mức cao nhất người đó có thể được đề nghị. Có thể nào mức thấp nhất bạn chấp nhận là 0? Không. Giả sử bên kia đề nghị bạn 0. Bạn biết nếu từ chối hôm nay và mai tới lượt bạn đề nghị, bạn có thể đề nghị bên kia δ và họ sẽ nhận, vì họ thà có δ ngày mai còn hơn chờ thêm một vòng để được 1 (và 1 chỉ là trường hợp tốt nhất của họ, khi bạn chấp nhận 0 sau hai vòng). Biết chắc họ nhận δ ngày mai, bạn có thể trông vào 1 − δ ngày mai, nên hôm nay không bao giờ nên nhận dưới δ(1 − δ). Vậy cả hôm nay lẫn sau hai vòng, bạn đều không nên nhận 0. (Chú thích của tác giả: trừ khi δ = 0, tức bạn hoàn toàn sốt ruột và tương lai không có giá trị gì.)
+Giống trò chơi tối hậu thư, bên đến lượt đưa đề nghị có lợi thế, và độ lớn của lợi thế phụ thuộc mức sốt ruột. Hai tác giả đo sự sốt ruột bằng phần giá trị còn lại nếu thoả thuận ở vòng sau thay vì hôm nay, ký hiệu δ. Nếu mỗi tuần có một đề nghị và 1 USD tuần sau đáng 99 xu hôm nay thì 99% giá trị còn lại, δ = 0,99 (hai tác giả chơi chữ câu tục ngữ "một con chim trong tay hơn hai con trong bụi": 99 xu trong tay bằng 1 USD trong bụi tuần sau).
 
-Lập luận đó chưa nhất quán hoàn toàn, vì nó tìm mức tối thiểu bạn chấp nhận với giả định bạn sẽ nhận 0 sau hai vòng. Điều cần tìm là một mức tối thiểu đứng vững theo thời gian: một con số mà khi mọi người hiểu đó là mức thấp nhất bạn từng chấp nhận, nó đặt bạn vào vị thế không nên nhận ít hơn. Cách giải vòng lập luận này: gọi L (lowest) là mức chia tệ nhất bạn từng chấp nhận. Giả sử bạn tính từ chối đề nghị hôm nay để đưa đề nghị ngược lại. Bên kia không bao giờ có thể mong hơn 1 − L khi tới lượt họ lần nữa, vì họ biết bạn không nhận dưới L. Vì đó là điều tốt nhất họ có sau hai vòng, ngày mai họ nên nhận δ(1 − L). Vậy hôm nay, khi cân nhắc nhận đề nghị của họ, bạn có thể tin rằng nếu từ chối và ngày mai đề nghị lại δ(1 − L), họ sẽ nhận, để lại cho bạn chắc chắn 1 − δ(1 − L) ngày mai. Do đó hôm nay bạn không bao giờ nên nhận ít hơn δ(1 − δ(1 − L)). Từ đó có điều kiện cho L (công thức dựng lại từ sách):
+Khi δ gần 1, như 0,99, người ta kiên nhẫn; khi δ nhỏ, chẳng hạn 1/3, chờ đợi tốn kém và người mặc cả sốt ruột; với δ = 1/3, mỗi tuần mất hai phần ba giá trị. Mức sốt ruột thường phụ thuộc khoảng thời gian giữa các vòng: nếu mất một tuần để đưa đề nghị ngược lại thì có thể δ = 0,99; nếu chỉ mất một phút thì δ = 0,999999 và gần như không mất gì.
+
+**Mức thấp nhất bạn chấp nhận.** Khi biết mức sốt ruột, có thể tìm cách chia bằng cách xét mức thấp nhất một người có thể chấp nhận và mức cao nhất người đó có thể được đề nghị. Có thể nào mức thấp nhất bạn chấp nhận là 0? Không.
+
+Giả sử bên kia đề nghị bạn 0. Bạn biết nếu từ chối hôm nay và mai tới lượt bạn đề nghị, bạn có thể đề nghị bên kia δ và họ sẽ nhận, vì họ thà có δ ngày mai còn hơn chờ thêm một vòng để được 1 (và 1 chỉ là trường hợp tốt nhất của họ, khi bạn chấp nhận 0 sau hai vòng). Biết chắc họ nhận δ ngày mai, bạn có thể trông vào 1 − δ ngày mai, nên hôm nay không bao giờ nên nhận dưới δ(1 − δ). Vậy cả hôm nay lẫn sau hai vòng, bạn đều không nên nhận 0. (Chú thích của tác giả: trừ khi δ = 0, tức bạn hoàn toàn sốt ruột và tương lai không có giá trị gì.)
+
+Lập luận đó chưa nhất quán hoàn toàn, vì nó tìm mức tối thiểu bạn chấp nhận với giả định bạn sẽ nhận 0 sau hai vòng. Điều cần tìm là một mức tối thiểu đứng vững theo thời gian: một con số mà khi mọi người hiểu đó là mức thấp nhất bạn từng chấp nhận, nó đặt bạn vào vị thế không nên nhận ít hơn.
+
+Cách giải vòng lập luận này: gọi L (lowest) là mức chia tệ nhất bạn từng chấp nhận. Giả sử bạn tính từ chối đề nghị hôm nay để đưa đề nghị ngược lại. Bên kia không bao giờ có thể mong hơn 1 − L khi tới lượt họ lần nữa, vì họ biết bạn không nhận dưới L. Vì đó là điều tốt nhất họ có sau hai vòng, ngày mai họ nên nhận δ(1 − L).
+
+Vậy hôm nay, khi cân nhắc nhận đề nghị của họ, bạn có thể tin rằng nếu từ chối và ngày mai đề nghị lại δ(1 − L), họ sẽ nhận, để lại cho bạn chắc chắn 1 − δ(1 − L) ngày mai. Do đó hôm nay bạn không bao giờ nên nhận ít hơn δ(1 − δ(1 − L)). Từ đó có điều kiện cho L (công thức dựng lại từ sách):
 
 - L ≥ δ(1 − δ(1 − L)), hay L ≥ δ(1 − δ)/(1 − δ²) = δ/(1 + δ).
 
@@ -732,7 +772,9 @@ Mức thấp nhất bạn từng chấp nhận là δ/(1 + δ), và bạn luôn 
 
 Hai tác giả giải thích trường hợp δ = 1/2 bằng lời: người đang đề nghị với tôi có quyền đòi toàn bộ phần bánh sẽ mất nếu tôi từ chối, tức ngay lập tức được 1/2. Trong nửa còn lại, tôi được một nửa, tức 1/4 tổng, vì phần đó sẽ mất nếu anh ta không nhận đề nghị của tôi. Sau hai vòng, anh ta đã thu 1/2, tôi thu 1/4, và ta quay về điểm xuất phát. Vậy trong mỗi cặp đề nghị anh ta thu gấp đôi tôi, dẫn tới cách chia 2:1.
 
-**Khi hai bên kiên nhẫn khác nhau.** Lời giải trên giả định hai bên kiên nhẫn như nhau. Có thể dùng cùng cách để giải khi chi phí chờ khác nhau, và như dự đoán, bên kiên nhẫn hơn được phần lớn hơn. Khi khoảng thời gian giữa các đề nghị ngắn lại, chiếc bánh được chia theo tỷ lệ chi phí chờ của hai bên, theo chiều ngược lại (bên chờ tốn kém hơn được ít hơn): nếu một bên sốt ruột gấp đôi bên kia, bên đó được một phần ba chiếc bánh, tức một nửa phần của bên kia. (Chú thích của tác giả: chẳng hạn công đoàn và ban quản lý đánh giá rủi ro của trì hoãn và hậu quả của nó khác nhau. Cụ thể, công đoàn coi 1,00 USD ngay bây giờ tương đương 1,01 USD một tuần sau (δ = 0,99), còn với ban quản lý con số là 1,02 USD (δ = 0,98). Nói cách khác, "lãi suất" theo tuần của công đoàn là 1%, của ban quản lý là 2%. Ban quản lý sốt ruột gấp đôi công đoàn nên sẽ được một nửa phần của công đoàn.)
+**Khi hai bên kiên nhẫn khác nhau.** Lời giải trên giả định hai bên kiên nhẫn như nhau. Có thể dùng cùng cách để giải khi chi phí chờ khác nhau, và như dự đoán, bên kiên nhẫn hơn được phần lớn hơn. Khi khoảng thời gian giữa các đề nghị ngắn lại, chiếc bánh được chia theo tỷ lệ chi phí chờ của hai bên, theo chiều ngược lại (bên chờ tốn kém hơn được ít hơn): nếu một bên sốt ruột gấp đôi bên kia, bên đó được một phần ba chiếc bánh, tức một nửa phần của bên kia.
+
+(Chú thích của tác giả: chẳng hạn công đoàn và ban quản lý đánh giá rủi ro của trì hoãn và hậu quả của nó khác nhau. Cụ thể, công đoàn coi 1,00 USD ngay bây giờ tương đương 1,01 USD một tuần sau (δ = 0,99), còn với ban quản lý con số là 1,02 USD (δ = 0,98). Nói cách khác, "lãi suất" theo tuần của công đoàn là 1%, của ban quản lý là 2%. Ban quản lý sốt ruột gấp đôi công đoàn nên sẽ được một nửa phần của công đoàn.)
 
 | Bên | δ mỗi tuần | "Lãi suất" chờ mỗi tuần | Phần bánh khi các vòng rất ngắn |
 |---|---|---|---|
@@ -741,7 +783,9 @@ Hai tác giả giải thích trường hợp δ = 1/2 bằng lời: người đa
 
 Hai tác giả kết phụ lục bằng một hàm ý chính sách: việc phần lớn hơn thuộc về bên kiên nhẫn hơn là điều không may cho nước Mỹ. Hệ thống chính quyền Mỹ và cách truyền thông đưa tin nuôi dưỡng sự sốt ruột. Khi đàm phán quân sự và kinh tế với các nước khác tiến triển chậm, các nhóm vận động hành lang có lợi ích liên quan tìm sự ủng hộ của hạ nghị sĩ, thượng nghị sĩ và báo chí, những người ép chính quyền phải có kết quả nhanh hơn. Các nước đối thủ trong đàm phán biết rõ điều này và đòi được những nhượng bộ lớn hơn từ Mỹ.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Hai công ty khởi nghiệp, A và B, cùng thuê một văn phòng chia sẻ. Nếu mỗi bên thuê riêng, A trả 30 triệu đồng/tháng cho một văn phòng nhỏ, B trả 50 triệu đồng/tháng cho một văn phòng lớn hơn; tổng BATNA là 80 triệu đồng. Thuê chung một tầng hết 60 triệu đồng/tháng, tức thoả thuận tạo ra chiếc bánh 20 triệu đồng tiết kiệm. Chia theo diện tích (giả sử A dùng 40%, B dùng 60%) thì A trả 24 triệu, B trả 36 triệu. Chia đôi khoản tiết kiệm theo cách của Dixit và Nalebuff thì mỗi bên tiết kiệm 10 triệu: A trả 20 triệu, B trả 40 triệu. Giả sử B đang có một phương án dự phòng khác: một toà nhà mời B thuê với giá 42 triệu đồng/tháng. BATNA của B khi đó là 42 triệu thay vì 50 triệu, tổng BATNA là 72 triệu, chiếc bánh chỉ còn 12 triệu; chia đôi thì mỗi bên tiết kiệm 6 triệu, A trả 24 triệu, B trả 36 triệu. Phương án dự phòng tốt hơn của B chuyển 4 triệu đồng mỗi tháng từ A sang B, đúng như trong ví dụ khách sạn.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Hai công ty khởi nghiệp, A và B, cùng thuê một văn phòng chia sẻ. Nếu mỗi bên thuê riêng, A trả 30 triệu đồng/tháng cho một văn phòng nhỏ, B trả 50 triệu đồng/tháng cho một văn phòng lớn hơn; tổng BATNA là 80 triệu đồng. Thuê chung một tầng hết 60 triệu đồng/tháng, tức thoả thuận tạo ra chiếc bánh 20 triệu đồng tiết kiệm. Chia theo diện tích (giả sử A dùng 40%, B dùng 60%) thì A trả 24 triệu, B trả 36 triệu. Chia đôi khoản tiết kiệm theo cách của Dixit và Nalebuff thì mỗi bên tiết kiệm 10 triệu: A trả 20 triệu, B trả 40 triệu.
+
+Giả sử B đang có một phương án dự phòng khác: một toà nhà mời B thuê với giá 42 triệu đồng/tháng. BATNA của B khi đó là 42 triệu thay vì 50 triệu, tổng BATNA là 72 triệu, chiếc bánh chỉ còn 12 triệu; chia đôi thì mỗi bên tiết kiệm 6 triệu, A trả 24 triệu, B trả 36 triệu. Phương án dự phòng tốt hơn của B chuyển 4 triệu đồng mỗi tháng từ A sang B, đúng như trong ví dụ khách sạn.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -867,3 +911,150 @@ Hai tác giả kết luận hệ thống chính trị Mỹ bất lợi vì khi�
 - **Trong đầu tư.** Khi đánh giá một doanh nghiệp có nguy cơ tranh chấp lao động hay đàm phán hợp đồng lớn, hãy hỏi bên nào có chi phí chờ thấp hơn và thời điểm nào doanh nghiệp dễ bị tổn thương nhất (như mùa cao điểm với chủ đội bóng chày, hay dịp Giáng sinh với UPS). Trong thương vụ mua bán doanh nghiệp, bên có nhiều người mua hay người bán thay thế, hoặc ít áp lực thời gian hơn, thường giành được phần lớn hơn của giá trị cộng hưởng.
 - **Trong nghề nghiệp.** Khi đàm phán lương, BATNA là lời mời làm việc khác thật sự trong tay, không phải lời tuyên bố "tôi có thể đi". Ứng viên đang có việc ổn định có chi phí chờ thấp hơn người đang thất nghiệp và vì vậy mạnh hơn. Khi đàm phán gói đãi ngộ, hãy tìm những hạng mục công ty định giá thấp mà bạn định giá cao (thời gian làm việc linh hoạt, ngân sách đào tạo, bảo hiểm nhóm), như ví dụ bảo hiểm y tế trong chương.
 - **Khi đọc tin chính sách.** Ở Việt Nam, khi đọc tin về đàm phán hiệp định thương mại, về tranh chấp lao động hay ngừng việc tập thể ở các khu công nghiệp, hoặc về thương lượng tiền lương tối thiểu giữa đại diện người lao động và người sử dụng lao động, có thể hỏi: BATNA của mỗi bên là gì, bên nào có chi phí chờ thấp hơn, và ai ngoài bàn đàm phán đang chịu thiệt hại phụ. Một bên tuyên bố cứng rắn chưa chắc là bên mạnh; bên mạnh là bên ít sợ đổ vỡ hơn.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 11 trên một trang: năm nhánh lớn theo các mục của phần Nội dung chi tiết (Mục 1 bài toán khách sạn, Mục 2–4 BATNA và đo chiếc bánh, Mục 5–6 đình công và mặc cả nhiều vấn đề, Mục 7 đình công ảo, Mục 8–9 tình huống cuối chương và mô hình Rubinstein), mỗi nhánh ghi luận điểm kèm con số và ví dụ của hai tác giả; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 11: mặc cả là trò chơi giải được bằng suy luận ngược — chia đôi phần giá trị vượt trên tổng BATNA, bên kiên nhẫn hơn được nhiều hơn`"]
+  n1["`Mục 1 — Bài toán khách sạn 101 ngày`"]
+  n0 --- n1
+  n2["`Mùa 101 ngày, mỗi ngày mở cửa lãi 1 nghìn USD, khách sạn chỉ mở khi công đoàn và ban quản lý đã thoả thuận lương`"]
+  n1 --- n2
+  n3["`Suy luận ngược từ ngày cuối: còn 1 ngày công đoàn lấy cả 1 nghìn USD, còn 2 ngày mỗi bên 500 USD mỗi ngày`"]
+  n1 --- n3
+  n4["`Lợi thế của bên đề nghị cuối nhỏ dần theo số vòng: ở ngày đầu công đoàn 505 USD, ban quản lý 495 USD mỗi ngày`"]
+  n1 --- n4
+  n5["`Dự đoán 1: khi các đề nghị cách nhau ngắn và mặc cả dài, hai bên chia đôi tổng giá trị`"]
+  n1 --- n5
+  n6["`Dự đoán 2: thoả thuận đạt ngay ngày đầu vì cả hai nhìn trước cùng một kết cục — đình công thật cần lời giải thích khác`"]
+  n1 --- n6
+  n7["`Mục 2–4 — BATNA, điểm chấp và đo chiếc bánh`"]
+  n0 --- n7
+  n8["`BATNA của Fisher và Ury: điều tốt nhất một bên có được nếu không thoả thuận`"]
+  n7 --- n8
+  n9["`Công đoàn có việc ngoài 300 USD mỗi ngày → công đoàn 650 USD, ban quản lý 350 USD`"]
+  n8 --- n9
+  n10["`Ban quản lý dùng lao động thay thế lãi 500 USD → ban quản lý 750 USD, công đoàn 250 USD`"]
+  n8 --- n10
+  n11["`Cả hai có phương án ngoài → chỉ còn 200 USD để chia, công đoàn 400 USD, ban quản lý 600 USD`"]
+  n8 --- n11
+  n12["`Điểm chấp kiểu golf: mỗi bên xuất phát từ BATNA của mình rồi chia đôi phần còn lại`"]
+  n7 --- n12
+  n13["`Đo chiếc bánh: chỉ phần giá trị thoả thuận tạo thêm so với tổng BATNA mới là thứ đang được mặc cả`"]
+  n7 --- n13
+  n14["`Vé máy bay của luật sư New York đi Houston và San Francisco`"]
+  n7 --- n14
+  n15["`Vé tam giác 2 nghìn 818 USD so với hai vé khứ hồi tổng 3 nghìn 818 USD → chiếc bánh là 1 nghìn USD tiết kiệm`"]
+  n14 --- n15
+  n16["`Chia đôi tổng tiền bị Houston từ chối vì tự đi khứ hồi chỉ tốn 1 nghìn 332 USD`"]
+  n14 --- n16
+  n17["`Chia đôi khoản tiết kiệm: Houston trả 832 USD, San Francisco trả 1 nghìn 986 USD — không chia theo số dặm hay giá vé`"]
+  n14 --- n17
+  n18["`Cách chia này truy về nguyên tắc chia tấm vải trong Talmud`"]
+  n14 --- n18
+  n19["`Việc này làm anh đau hơn tôi: hạ BATNA của cả hai vẫn có lợi nếu đối thủ đau hơn`"]
+  n7 --- n19
+  n20["`Công đoàn bỏ 100 USD thu nhập ngoài để biểu tình làm ban quản lý mất 200 USD → công đoàn được thêm 50 USD, lên 450 USD`"]
+  n19 --- n20
+  n21["`Cầu thủ bóng chày Mỹ năm 1980 đình công mùa giao hữu và đe doạ từ Memorial Day, đúng lúc chủ đội thiệt nặng nhất`"]
+  n19 --- n21
+  n22["`Mục 5–6 — Vì sao vẫn có đình công, và mặc cả nhiều vấn đề`"]
+  n0 --- n22
+  n23["`Hai bên không cùng thông tin: ai cũng muốn tuyên bố chi phí chờ của mình thấp nên lời nói không được tin`"]
+  n22 --- n23
+  n24["`Đình công là tín hiệu tốn kém: chỉ bên thật sự chịu được mới dám đình công — hành động có sức nặng hơn lời nói`"]
+  n22 --- n24
+  n25["`Chiến lược bên bờ vực là vũ khí của bên ít sợ đổ vỡ hơn: căng thẳng tăng dần, đổ vỡ có thể xảy ra dù không ai muốn`"]
+  n22 --- n25
+  n26["`Làm tiếp theo hợp đồng đã hết hạn bị coi là dấu hiệu công đoàn yếu — phải có xác suất đình công thì chủ mới nhượng`"]
+  n22 --- n26
+  n27["`Đình công kéo dài từng ngày vì đe doạ thêm một ngày là đáng tin, cho tới khi một bên nhận ra bên kia mạnh hơn`"]
+  n22 --- n27
+  n28["`Mỹ gánh phần lớn chi phí quốc phòng theo thoả thuận cũ, đồng minh vui lòng để đàm phán kéo dài`"]
+  n22 --- n28
+  n29["`Nhiều vấn đề, định giá khác nhau tạo thêm giá trị`"]
+  n22 --- n29
+  n30["`Bảo hiểm y tế nhóm công ty mua 1 nghìn USD, công nhân tự mua 2 nghìn USD → cả hai thích bảo hiểm hơn 1 nghìn 500 USD lương`"]
+  n29 --- n30
+  n31["`Đàm phán rộng trong GATT và WTO thành công hơn đàm phán hẹp theo ngành`"]
+  n29 --- n31
+  n32["`Nhưng gộp vấn đề cho phép đe doạ chéo: Mỹ có thể dùng quan hệ quân sự ép Nhật mở cửa thị trường, nên Nhật đòi tách riêng`"]
+  n29 --- n32
+  n33["`Mục 7 — Đình công ảo`"]
+  n0 --- n33
+  n34["`Thiệt hại phụ cho người ngoài: đóng cửa cảng năm 2002 gây thiệt hại hơn 10 tỷ USD cho khoản tranh chấp 20 triệu USD, gấp 500 lần`"]
+  n33 --- n34
+  n35["`NHL đóng cửa không cho cầu thủ thi đấu mùa 2004–05, cả mùa bị huỷ, khán giả lâu mới hồi phục`"]
+  n33 --- n35
+  n36["`Cách làm: công nhân vẫn làm nhưng không lương, doanh nghiệp nộp toàn bộ doanh thu cho nhà nước, từ thiện hoặc khách hàng`"]
+  n33 --- n36
+  n37["`BATNA của hai bên không đổi nên sức ép mặc cả giữ nguyên, người ngoài không bị vạ lây`"]
+  n33 --- n37
+  n38["`Tiền lệ: Hải quân Mỹ ở Jenkins Company thời Thế chiến II, xe buýt Miami 1960, hãng Meridiana 1999, 300 phi công Ý năm 2000`"]
+  n33 --- n38
+  n39["`Trở ngại: tiếng tốt từ khoản quyên góp làm giảm sức ép lên ban quản lý — nên thoả thuận dùng đình công ảo từ trước`"]
+  n33 --- n39
+  n40["`Mục 8–9 — Ai đề nghị và ai kiên nhẫn hơn`"]
+  n0 --- n40
+  n41["`Chỉ ban quản lý được đề nghị: đề nghị công nhân 101 USD trên 101 nghìn USD và được nhận ngay — cho có lợi hơn nhận`"]
+  n40 --- n41
+  n42["`Chuẩn mực công bằng làm cách chia cực đoan không xảy ra, ví dụ tỷ lệ 4:1 giữ 80 phần trăm lãi cho ban quản lý`"]
+  n40 --- n42
+  n43["`Trò chơi lặp cho bên nhận cơ hội tỏ ra phi lý: từ chối 80:20 có thể là lừa, từ chối 67:33 thì tự thiệt nên đáng tin`"]
+  n40 --- n43
+  n44["`Mô hình Rubinstein: luân phiên đề nghị không có ngày kết thúc, δ là phần giá trị còn lại nếu chậm một vòng`"]
+  n40 --- n44
+  n45["`Bên trả lời được δ/(1 + δ), bên đề nghị được 1/(1 + δ)`"]
+  n44 --- n45
+  n46["`δ = 1 chia 50:50, δ = 1/2 chia 2:1, δ = 0 quay về trò chơi tối hậu thư`"]
+  n44 --- n46
+  n47["`Công đoàn δ = 0,99 và ban quản lý δ = 0,98 → bên ít sốt ruột gấp đôi được 2/3 chiếc bánh`"]
+  n44 --- n47
+  n48["`Hệ thống chính trị và truyền thông Mỹ nuôi sự sốt ruột nên đối thủ đòi được nhượng bộ lớn hơn`"]
+  n40 --- n48
+  n49["`Thông điệp xuyên suốt`"]
+  n0 --- n49
+  n50["`Bước đầu tiên của mọi cuộc đàm phán là đo đúng chiếc bánh`"]
+  n49 --- n50
+  n51["`Muốn phần lớn hơn: nâng BATNA của mình, hạ BATNA của đối phương, giảm chi phí chờ`"]
+  n49 --- n51
+  n52["`Đình công không phải thất bại của lý trí mà là cái giá của thông tin không đối xứng`"]
+  n49 --- n52
+  n53["`Bên tuyên bố cứng rắn chưa chắc mạnh — bên mạnh là bên ít sợ đổ vỡ hơn`"]
+  n49 --- n53
+  class n0 root
+  class n1,n7,n22,n33,n40,n49 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53 leaf
+```
+
+## Nguồn
+
+Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Chương 11, kèm phụ lục "Rubinstein Bargaining" ở cuối chương.
+
+## Tác giả
+
+Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Sách kế thừa *Thinking Strategically* (1991) của cùng hai tác giả.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 11 thuộc Phần III, phần áp dụng công cụ lý thuyết trò chơi vào những tình huống cụ thể.
+
+Nó dùng lại ba công cụ của các chương trước: suy luận ngược và trò chơi tối hậu thư (ultimatum game) ở Chương 2; chiến lược bên bờ vực (brinkmanship) và nước đi chiến lược ở Chương 6; phát tín hiệu (signaling) ở Chương 8.
+
+Chương 10 vừa bàn về đấu giá, nơi người bán tạo cạnh tranh giữa nhiều người mua; Chương 11 chuyển sang tình huống chỉ có hai bên phải chia nhau phần giá trị chung. Chương kế tiếp, Chương 12, chuyển sang bỏ phiếu, tức cách một tập thể đông người ra quyết định chung.
+
+## Lưu ý
+
+- Sách viết khoảng 2007–2008, nên các ví dụ thực tế dừng ở thời điểm đó: cuộc đình công bóng chày nhà nghề năm 1980, vụ đóng cửa cảng năm 2002, mùa giải khúc côn cầu NHL 2004–05 bị huỷ, các cuộc đình công ảo ở Ý năm 1999–2000 (khi Ý còn dùng đồng lire). Từ đó tới nay: NHL và giải bóng chày nhà nghề Mỹ (MLB) đều có thêm những lần chủ đội đóng cửa không cho cầu thủ thi đấu; đàm phán khí hậu toàn cầu đã có Thoả thuận Paris (2015); đình công ảo vẫn là ý tưởng hiếm khi được áp dụng.
+- Câu đùa về Enron trong một chú thích gợi lại vụ phá sản gian lận năm 2001 của tập đoàn năng lượng này.
+- Chương có **7 chú thích chân trang** của tác giả, đã đưa vào đúng chỗ trong phần Nội dung chi tiết và ghi "Chú thích của tác giả".
+- Có một lỗi nhỏ của sách: ví dụ chia vé máy bay mở đầu bằng "một công ty ở Dallas", nhưng toàn bộ phần sau (bảng giá vé, các phép tính) nói về Houston; bản tổng hợp dùng Houston.
+- Các bảng và công thức trong sách là hình ảnh, đã được dựng lại bằng bảng markdown. Chương không có bài tập "Trip to the Gym".
+- Các câu trích là bản dịch của người tổng hợp.

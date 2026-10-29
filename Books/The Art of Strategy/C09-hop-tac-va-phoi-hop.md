@@ -1,11 +1,14 @@
 # Chương 9 — Hợp tác và phối hợp (Cooperation and Coordination)
 
-**Nguồn:** Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Phần III, Chương 9.
-**Tác giả:** Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Cuốn sách kế thừa *Thinking Strategically* (1991) của cùng hai tác giả.
-**Vị trí trong lập luận của cả cuốn sách:** Phần I xây công cụ: suy luận ngược (Chương 2), thế lưỡng nan của người tù (Chương 3) và cân bằng Nash, kể cả trò chơi có nhiều cân bằng và điểm tiêu điểm như chuyện hai người lạ hẹn gặp ở Times Square hay toà nhà Empire State (Chương 4). Phần II bàn về nước đi chiến lược và độ tin cậy. Phần III đem công cụ vào các lĩnh vực cụ thể; Chương 8 vừa bàn về thông tin (sàng lọc, phát tín hiệu, suy đoán từ hành động của người khác). Chương 9 mở rộng từ trò chơi hai người sang trò chơi **nhiều người**: khi hàng nghìn người cùng chọn một cách độc lập và ích kỷ, kết quả chung thường tệ cho chính họ. Chương này dùng lại ý suy đoán từ thông tin (câu chuyện hãng luật Justin-Case) và chuẩn bị cho Chương 12 về bầu cử (cử tri trung vị xuất hiện lần đầu ở đây). Ba tình huống nghiên cứu ở Chương 14 ("Here's Mud in Your Eye", "A Burqa for Prices", "The King Lear Problem") được hai tác giả giới thiệu là bài luyện thêm cho chủ đề này.
-**Ý chính:** Dixit và Nalebuff muốn người đọc hiểu rằng "bàn tay vô hình" của thị trường không tự động dẫn đám đông tới kết quả tốt. Khi lựa chọn của mỗi người gây tác động lên người khác mà người đó không phải trả giá hay được đền bù, các lựa chọn riêng lẻ có thể (1) đưa tất cả vào một cuộc đua vô ích (sinh viên học quá nhiều để giành thứ hạng), (2) tạo ra tỷ lệ phân bổ sai (quá nhiều xe chen lên cầu Bay Bridge), (3) khoá cả xã hội vào một cân bằng kém (bàn phím QWERTY, ô tô chạy xăng, lò phản ứng nước nhẹ), (4) đẩy hệ thống về một thái cực (ai cũng chạy quá tốc độ; khu dân cư lật thành toàn da trắng hoặc toàn da đen), (5) trượt từng bước tới kết quả mà ai cũng ghét (hãng luật Justin-Case), (6) tạo ra sự giống nhau quá mức (hai đảng cùng đứng giữa) hoặc không có cân bằng nào. Lời giải là phối hợp: luật lệ, phí, bảo hiểm, chiến dịch ngắn và mạnh để đạt khối lượng tới hạn. Nhưng tình huống cuối chương về nha sĩ nhắc rằng không phải tác động lên người khác nào cũng cần can thiệp: khi tác động đó chỉ là thay đổi giá, phần người bán mất đúng bằng phần người mua được, và thị trường tự do cho kết quả tốt nhất cho xã hội.
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2007–2008, nên các ví dụ chính sách mang dấu ấn thời đó, ví dụ luật năm 2007 nâng tiêu chuẩn tiết kiệm nhiên liệu CAFE lên 35 dặm/gallon vào năm 2020. Một số chi tiết đã thay đổi: tiêu chuẩn CAFE sau đó còn được sửa nhiều lần theo cả hai chiều; cầu Bay Bridge đã áp dụng phí cầu khác nhau giữa giờ cao điểm và thấp điểm, và thu phí điện tử đã làm giảm nhiều chi phí thu phí mà hai tác giả lo ngại; thu phí chống ùn tắc nội đô (congestion pricing) được nhiều thành phố lớn áp dụng, trong đó có New York từ đầu năm 2025. Tốc độ giới hạn 55 dặm/giờ mà sách dùng làm ví dụ vốn là giới hạn toàn quốc đã bị bãi bỏ ở Mỹ từ 1995, trước khi sách ra đời; hai tác giả chỉ dùng nó để minh hoạ. QWERTY vẫn thống trị, kể cả trên bàn phím ảo của điện thoại. Chương có **5 chú thích chân trang** của tác giả, đã đưa vào đúng chỗ trong phần Nội dung chi tiết (mục 2, 3, 4, 5, 9) với ghi chú "Chú thích của tác giả". Chương có **6 hình** (đồ thị), đều được dựng lại thành sơ đồ text và bảng số. Một số chỗ sách viết chưa chính xác: lệnh cấm quảng cáo thuốc lá trên truyền hình Mỹ được thông qua năm 1970 và có hiệu lực từ đầu năm 1971, không phải năm 1968 như sách ghi; người thiết kế bàn phím là Christopher Latham **Sholes** (sách viết "Scholes"); tác giả luận án năm 1987 về lò phản ứng hạt nhân là Robin **Cowan** (sách viết "Cowen"). Sách giới thiệu Harold Hotelling là "nhà kinh tế Đại học Columbia"; người tổng hợp lưu ý thêm rằng năm 1929, khi công bố bài báo về sự tập trung ở giữa, ông đang làm việc ở Đại học Stanford và chỉ chuyển sang Columbia vài năm sau (cách giới thiệu của sách không sai, chỉ là chức danh về sau của ông). Chương không có bài tập "Trip to the Gym". Các câu trích là bản dịch của người tổng hợp.
+Dixit và Nalebuff muốn người đọc hiểu rằng "bàn tay vô hình" của thị trường không tự động dẫn đám đông tới kết quả tốt.
+
+Khi lựa chọn của mỗi người gây tác động lên người khác mà người đó không phải trả giá hay được đền bù, các lựa chọn riêng lẻ có thể (1) đưa tất cả vào một cuộc đua vô ích (sinh viên học quá nhiều để giành thứ hạng), (2) tạo ra tỷ lệ phân bổ sai (quá nhiều xe chen lên cầu Bay Bridge), (3) khoá cả xã hội vào một cân bằng kém (bàn phím QWERTY, ô tô chạy xăng, lò phản ứng nước nhẹ), (4) đẩy hệ thống về một thái cực (ai cũng chạy quá tốc độ; khu dân cư lật thành toàn da trắng hoặc toàn da đen), (5) trượt từng bước tới kết quả mà ai cũng ghét (hãng luật Justin-Case), (6) tạo ra sự giống nhau quá mức (hai đảng cùng đứng giữa) hoặc không có cân bằng nào.
+
+Lời giải là phối hợp: luật lệ, phí, bảo hiểm, chiến dịch ngắn và mạnh để đạt khối lượng tới hạn.
+
+Nhưng tình huống cuối chương về nha sĩ nhắc rằng không phải tác động lên người khác nào cũng cần can thiệp: khi tác động đó chỉ là thay đổi giá, phần người bán mất đúng bằng phần người mua được, và thị trường tự do cho kết quả tốt nhất cho xã hội.
 
 ## Sơ đồ
 
@@ -749,7 +752,9 @@
 
 Tên tiểu mục chơi chữ từ tiểu thuyết *For Whom the Bell Tolls* (Chuông nguyện hồn ai) của Hemingway, thay "chuông" bằng "đường cong hình chuông" dùng để chấm điểm.
 
-Thập niên 1950, các trường Ivy League gặp một vấn đề: trường nào cũng muốn có đội bóng bầu dục vô địch, nên đầu tư quá mức cho thể thao và hạ chuẩn học thuật. Nhưng tập luyện nhiều hay chi bao nhiêu tiền thì cuối mùa bảng xếp hạng cũng gần như cũ, và tỷ lệ thắng:thua trung bình vẫn là 50:50, vì về mặt toán học mỗi đội thắng phải có một đội thua. Nỗ lực thêm của các trường triệt tiêu lẫn nhau. Hai tác giả nhận xét sức hút của thể thao đại học nằm ở độ sát nút và cường độ cạnh tranh nhiều không kém trình độ (nhiều người hâm mộ thích bóng rổ, bóng bầu dục đại học hơn bản chuyên nghiệp dù trình độ thấp hơn). Hiểu điều đó, các trường liên kết lại và thoả thuận giới hạn tập luyện mùa xuân còn một ngày. Trận đấu có nhiều lỗi rơi bóng hơn nhưng không kém hấp dẫn, vận động viên có thêm thời gian học, và ai cũng khá hơn, trừ vài cựu sinh viên chỉ muốn trường mình giỏi bóng bầu dục.
+Thập niên 1950, các trường Ivy League gặp một vấn đề: trường nào cũng muốn có đội bóng bầu dục vô địch, nên đầu tư quá mức cho thể thao và hạ chuẩn học thuật. Nhưng tập luyện nhiều hay chi bao nhiêu tiền thì cuối mùa bảng xếp hạng cũng gần như cũ, và tỷ lệ thắng:thua trung bình vẫn là 50:50, vì về mặt toán học mỗi đội thắng phải có một đội thua. Nỗ lực thêm của các trường triệt tiêu lẫn nhau.
+
+Hai tác giả nhận xét sức hút của thể thao đại học nằm ở độ sát nút và cường độ cạnh tranh nhiều không kém trình độ (nhiều người hâm mộ thích bóng rổ, bóng bầu dục đại học hơn bản chuyên nghiệp dù trình độ thấp hơn). Hiểu điều đó, các trường liên kết lại và thoả thuận giới hạn tập luyện mùa xuân còn một ngày. Trận đấu có nhiều lỗi rơi bóng hơn nhưng không kém hấp dẫn, vận động viên có thêm thời gian học, và ai cũng khá hơn, trừ vài cựu sinh viên chỉ muốn trường mình giỏi bóng bầu dục.
 
 Sinh viên cũng muốn có thoả thuận tương tự trước kỳ thi. Khi điểm được chấm theo đường cong hình chuông (bell curve), thứ hạng trong lớp quan trọng hơn mức hiểu biết tuyệt đối: không quan trọng bạn biết bao nhiêu, chỉ cần người khác biết ít hơn bạn. Cách vượt người khác là học nhiều hơn; nếu ai cũng làm vậy, ai cũng biết nhiều hơn nhưng thứ hạng và điểm số gần như không đổi. Nếu cả lớp thoả thuận chỉ ôn một ngày (tốt nhất là ngày mưa), họ được đúng điểm đó với ít công sức hơn.
 
@@ -759,7 +764,9 @@ Nguồn gốc của việc (một số) sinh viên học quá nhiều là họ k
 
 Như Ivy League hay OPEC, mẹo là lập một cartel để hạn chế cạnh tranh. Khó khăn với học sinh trung học là cartel không dễ phát hiện kẻ gian lận, tức người lén học thêm để giành lợi thế; chỉ sau khi người đó đạt điểm tuyệt đối mới biết, và lúc đó đã muộn. Ở vài thị trấn nhỏ, học sinh có cách cưỡng chế cartel "không học": tối nào cả bọn cũng lái xe dạo phố chính, ai ở nhà học sẽ bị nhận ra vắng mặt, và hình phạt là bị tẩy chay hoặc tệ hơn.
 
-Tự lập một cartel tự cưỡng chế là khó; tốt hơn nữa là một người ngoài cưỡng chế thoả thuận hạn chế cạnh tranh. Đó chính là chuyện đã xảy ra, dù không ai cố ý, với quảng cáo thuốc lá. Ngày trước, các hãng thuốc lá chi tiền thuyết phục người tiêu dùng "đi bộ một dặm" vì sản phẩm của mình hay "thà đánh nhau còn hơn đổi nhãn" (khẩu hiệu quảng cáo của các hãng thời đó). Các chiến dịch làm giàu cho công ty quảng cáo, nhưng mục đích chính là phòng thủ: hãng nào cũng quảng cáo vì các hãng khác quảng cáo. Rồi luật cấm quảng cáo thuốc lá trên truyền hình ra đời (sách ghi năm 1968; thực tế luật được thông qua năm 1970, có hiệu lực đầu năm 1971). Các hãng tưởng bị thiệt nên chống lại, nhưng "khi khói tan" (cách chơi chữ của hai tác giả), họ thấy lệnh cấm giúp tất cả tránh được các chiến dịch quảng cáo tốn kém và làm tăng lợi nhuận của tất cả.
+Tự lập một cartel tự cưỡng chế là khó; tốt hơn nữa là một người ngoài cưỡng chế thoả thuận hạn chế cạnh tranh. Đó chính là chuyện đã xảy ra, dù không ai cố ý, với quảng cáo thuốc lá. Ngày trước, các hãng thuốc lá chi tiền thuyết phục người tiêu dùng "đi bộ một dặm" vì sản phẩm của mình hay "thà đánh nhau còn hơn đổi nhãn" (khẩu hiệu quảng cáo của các hãng thời đó). Các chiến dịch làm giàu cho công ty quảng cáo, nhưng mục đích chính là phòng thủ: hãng nào cũng quảng cáo vì các hãng khác quảng cáo.
+
+Rồi luật cấm quảng cáo thuốc lá trên truyền hình ra đời (sách ghi năm 1968; thực tế luật được thông qua năm 1970, có hiệu lực đầu năm 1971). Các hãng tưởng bị thiệt nên chống lại, nhưng "khi khói tan" (cách chơi chữ của hai tác giả), họ thấy lệnh cấm giúp tất cả tránh được các chiến dịch quảng cáo tốn kém và làm tăng lợi nhuận của tất cả.
 
 ### 2. Con đường ít người đi (The Route Less Traveled)
 
@@ -806,9 +813,13 @@ Tên tiểu mục mượn tên tiểu thuyết *Catch-22* của Joseph Heller, n
 
 Chương 4 đã đưa ra các trò chơi có nhiều cân bằng: hai người lạ nên gặp nhau ở Times Square hay toà nhà Empire State; ai nên gọi lại khi cuộc gọi bị ngắt. Ở đó, chọn quy ước nào không quan trọng, miễn là mọi người theo cùng một quy ước. Nhưng đôi khi một quy ước tốt hơn hẳn quy ước kia mà vẫn không được chọn; nhất là khi một quy ước đã thành nếp rồi hoàn cảnh thay đổi làm quy ước khác đáng mong muốn hơn, việc chuyển đổi đặc biệt khó.
 
-**Bàn phím QWERTY.** Cuối thế kỷ 19, chưa có chuẩn xếp chữ trên bàn phím máy chữ. Năm 1873, Christopher Sholes (sách viết Scholes) góp phần thiết kế một bố cục "mới, cải tiến", gọi là QWERTY theo sáu chữ đầu hàng trên. QWERTY được chọn để đặt các chữ hay dùng nhất cách xa nhau nhất; đây là lời giải tốt vào thời đó vì nó cố ý làm chậm người gõ và giảm kẹt phím trên máy chữ cơ. Tới năm 1904, công ty Remington ở New York đã sản xuất hàng loạt máy chữ có bố cục này, và nó thành chuẩn thực tế của ngành. Nhưng máy chữ điện rồi máy tính làm vấn đề kẹt phím không còn ý nghĩa. Các kỹ sư đã phát triển bố cục mới như Dvorak (DSK, Dvorak's Simplified Keyboard), giảm quãng đường ngón tay di chuyển hơn 50%, và gõ cùng một văn bản nhanh hơn 5–10%. Nhưng QWERTY là hệ thống đã thành nếp: gần như mọi bàn phím dùng nó, nên ai cũng học nó và ngại học bố cục thứ hai, nên nhà sản xuất tiếp tục làm QWERTY. Vòng luẩn quẩn khép kín.
+**Bàn phím QWERTY.** Cuối thế kỷ 19, chưa có chuẩn xếp chữ trên bàn phím máy chữ. Năm 1873, Christopher Sholes (sách viết Scholes) góp phần thiết kế một bố cục "mới, cải tiến", gọi là QWERTY theo sáu chữ đầu hàng trên. QWERTY được chọn để đặt các chữ hay dùng nhất cách xa nhau nhất; đây là lời giải tốt vào thời đó vì nó cố ý làm chậm người gõ và giảm kẹt phím trên máy chữ cơ. Tới năm 1904, công ty Remington ở New York đã sản xuất hàng loạt máy chữ có bố cục này, và nó thành chuẩn thực tế của ngành.
 
-Nếu lịch sử khác đi và DSK được chọn từ đầu, công nghệ hôm nay sẽ tốt hơn. Nhưng từ chỗ ta đang đứng, câu hỏi có nên đổi chuẩn hay không còn phải tính quán tính lớn đằng sau QWERTY (máy móc, bàn phím, người gõ đã được đào tạo). Nhìn từ góc độ cả xã hội, câu trả lời có vẻ là nên đổi: trong Thế chiến II, Hải quân Mỹ dùng máy chữ DSK trên quy mô lớn, đào tạo lại người gõ, và thấy chi phí đào tạo lại thu hồi được chỉ sau mười ngày sử dụng. Tuy nhiên, các giáo sư Stan Liebowitz và Stephen Margolis đặt câu hỏi về nghiên cứu này và về ưu thế của DSK nói chung: có vẻ một bên có quyền lợi liên quan, Trung tá August Dvorak, đã tham gia thực hiện nghiên cứu gốc. Một nghiên cứu năm 1956 của Cơ quan Quản lý Dịch vụ Tổng hợp (General Services Administration) cho thấy người gõ phải học một tháng, mỗi ngày bốn giờ, mới gõ nhanh lại như với QWERTY cũ; từ đó trở đi, đào tạo thêm trên DSK kém hiệu quả hơn đào tạo thêm cho người gõ QWERTY. Trong chừng mực DSK tốt hơn, lợi lớn nhất là khi người gõ học nó ngay từ đầu.
+Nhưng máy chữ điện rồi máy tính làm vấn đề kẹt phím không còn ý nghĩa. Các kỹ sư đã phát triển bố cục mới như Dvorak (DSK, Dvorak's Simplified Keyboard), giảm quãng đường ngón tay di chuyển hơn 50%, và gõ cùng một văn bản nhanh hơn 5–10%. Nhưng QWERTY là hệ thống đã thành nếp: gần như mọi bàn phím dùng nó, nên ai cũng học nó và ngại học bố cục thứ hai, nên nhà sản xuất tiếp tục làm QWERTY. Vòng luẩn quẩn khép kín.
+
+Nếu lịch sử khác đi và DSK được chọn từ đầu, công nghệ hôm nay sẽ tốt hơn. Nhưng từ chỗ ta đang đứng, câu hỏi có nên đổi chuẩn hay không còn phải tính quán tính lớn đằng sau QWERTY (máy móc, bàn phím, người gõ đã được đào tạo). Nhìn từ góc độ cả xã hội, câu trả lời có vẻ là nên đổi: trong Thế chiến II, Hải quân Mỹ dùng máy chữ DSK trên quy mô lớn, đào tạo lại người gõ, và thấy chi phí đào tạo lại thu hồi được chỉ sau mười ngày sử dụng.
+
+Tuy nhiên, các giáo sư Stan Liebowitz và Stephen Margolis đặt câu hỏi về nghiên cứu này và về ưu thế của DSK nói chung: có vẻ một bên có quyền lợi liên quan, Trung tá August Dvorak, đã tham gia thực hiện nghiên cứu gốc. Một nghiên cứu năm 1956 của Cơ quan Quản lý Dịch vụ Tổng hợp (General Services Administration) cho thấy người gõ phải học một tháng, mỗi ngày bốn giờ, mới gõ nhanh lại như với QWERTY cũ; từ đó trở đi, đào tạo thêm trên DSK kém hiệu quả hơn đào tạo thêm cho người gõ QWERTY. Trong chừng mực DSK tốt hơn, lợi lớn nhất là khi người gõ học nó ngay từ đầu.
 
 Nếu người gõ giỏi tới mức gần như không bao giờ nhìn bàn phím, học DSK là hợp lý; phần mềm ngày nay đổi bố cục phím khá dễ (trên máy Mac chỉ là một lựa chọn trong menu bàn phím), nên bố cục gần như không quan trọng. "Gần như" thôi, vì vấn đề là làm sao học gõ mười ngón trên một bàn phím in sai ký tự? Người chưa gõ mười ngón mà đổi sang DSK phải nhìn bàn phím và nhẩm đổi từng phím sang giá trị DSK, điều không thực tế. Vì thế người mới vẫn phải học QWERTY, và điều đó làm giảm mạnh lợi ích của việc học thêm DSK.
 
@@ -824,11 +835,21 @@ Không người dùng nào tự thay đổi được quy ước xã hội; các 
 
 *Bảng dựng lại từ hai đồ thị của sách (đường cong chữ S cắt đường chéo "xác suất bằng tỷ lệ" tại 0%, 72% và 98%).*
 
-Chọn bàn phím nào là một chiến lược; khi tỷ lệ dùng mỗi công nghệ không đổi theo thời gian, trò chơi ở trạng thái cân bằng. Chứng minh trò chơi hội tụ về cân bằng không dễ, vì lựa chọn ngẫu nhiên của mỗi người mới liên tục xáo trộn hệ thống; các công cụ toán học mạnh gần đây trong lý thuyết xấp xỉ ngẫu nhiên (stochastic approximation) đã giúp các nhà kinh tế và thống kê chứng minh trò chơi động này hội tụ. Các kết cục có thể xảy ra như sau. Nếu QWERTY chiếm trên 72%, người ta kỳ vọng tỷ lệ người mới học QWERTY còn cao hơn, nên QWERTY lan rộng tới 98%; ở đó tỷ lệ người mới học QWERTY vừa bằng tỷ lệ trong dân số, không còn áp lực đi lên. (Chú thích của tác giả: nếu số người dùng QWERTY vượt 98% thì sẽ tụt lại về 98%, vì luôn có một số nhỏ, tới khoảng 2%, người mới chọn học DSK do quan tâm tới công nghệ tốt hơn và không bận tâm chuyện tương thích.) Ngược lại, nếu QWERTY tụt dưới 72%, DSK được kỳ vọng sẽ thắng: dưới 72% người mới học QWERTY, việc dùng QWERTY giảm tiếp càng khuyến khích người mới học DSK, và khi mọi người đều dùng DSK thì không ai còn lý do học QWERTY, QWERTY biến mất.
+Chọn bàn phím nào là một chiến lược; khi tỷ lệ dùng mỗi công nghệ không đổi theo thời gian, trò chơi ở trạng thái cân bằng. Chứng minh trò chơi hội tụ về cân bằng không dễ, vì lựa chọn ngẫu nhiên của mỗi người mới liên tục xáo trộn hệ thống; các công cụ toán học mạnh gần đây trong lý thuyết xấp xỉ ngẫu nhiên (stochastic approximation) đã giúp các nhà kinh tế và thống kê chứng minh trò chơi động này hội tụ.
 
-Toán học chỉ nói ta sẽ kết thúc ở một trong hai kết cục (tất cả dùng DSK hoặc 98% dùng QWERTY), không nói cái nào. Bắt đầu từ con số không thì khả năng nghiêng về DSK, nhưng ta không bắt đầu từ con số không. Lịch sử quan trọng: tình cờ lịch sử giúp QWERTY chiếm gần 100% người gõ tự duy trì, dù lý do ban đầu đã lỗi thời từ lâu. Vì một sự hội tụ về cân bằng kém tự duy trì, vẫn có khả năng làm mọi người khá hơn, nhưng cần hành động phối hợp. Nếu các hãng máy tính lớn cùng chọn một bố cục mới, hoặc một chủ sử dụng lao động lớn như chính phủ liên bang đào tạo nhân viên trên bố cục mới, cân bằng có thể chuyển hẳn từ thái cực này sang thái cực kia. Điểm cốt lõi là không cần chuyển đổi tất cả, chỉ cần một **khối lượng tới hạn** (critical mass); có chỗ đứng đủ lớn, công nghệ tốt hơn sẽ tự lan ra.
+Các kết cục có thể xảy ra như sau. Nếu QWERTY chiếm trên 72%, người ta kỳ vọng tỷ lệ người mới học QWERTY còn cao hơn, nên QWERTY lan rộng tới 98%; ở đó tỷ lệ người mới học QWERTY vừa bằng tỷ lệ trong dân số, không còn áp lực đi lên. (Chú thích của tác giả: nếu số người dùng QWERTY vượt 98% thì sẽ tụt lại về 98%, vì luôn có một số nhỏ, tới khoảng 2%, người mới chọn học DSK do quan tâm tới công nghệ tốt hơn và không bận tâm chuyện tương thích.)
 
-**Ô tô chạy xăng.** QWERTY chỉ là một ví dụ nhỏ. Việc ta dùng động cơ xăng thay vì hơi nước, lò phản ứng nước nhẹ thay vì lò làm mát bằng khí được giải thích bằng tình cờ lịch sử tốt hơn là bằng ưu thế công nghệ. Brian Arthur, nhà kinh tế ở Stanford, một trong những người phát triển công cụ toán học nghiên cứu hiệu ứng đám đông, kể lại: năm 1890 có ba cách chạy ô tô (hơi nước, xăng, điện), và xăng rõ ràng kém nhất. Bước ngoặt là cuộc đua xe không ngựa kéo năm 1895 do báo *Chicago Times-Herald* tài trợ, mà người thắng là một chiếc Duryea chạy xăng, một trong hai xe về đích trong sáu xe xuất phát. Chiến thắng này được cho là có thể đã truyền cảm hứng để R. E. Olds đăng ký bằng sáng chế động cơ xăng năm 1896 rồi sản xuất hàng loạt xe "Curved-Dash Olds". Xăng vượt qua khởi đầu chậm chạp. Hơi nước vẫn là lựa chọn khả thi cho tới năm 1914, khi dịch lở mồm long móng bùng phát ở Bắc Mỹ khiến các máng nước cho ngựa bị dỡ bỏ, mà xe hơi nước vốn lấy nước ở đó. Anh em nhà Stanley mất khoảng ba năm để làm hệ ngưng tụ và nồi hơi không cần châm nước sau mỗi 30–40 dặm, nhưng khi đó đã quá muộn và động cơ hơi nước không bao giờ hồi phục. Hai tác giả lưu ý so sánh đúng không phải xăng hôm nay với hơi nước hôm nay, mà là hơi nước sẽ tốt tới đâu nếu cũng được 75 năm nghiên cứu và phát triển; có thể không bao giờ biết, nhưng một số kỹ sư tin hơi nước mới là lựa chọn tốt hơn.
+Ngược lại, nếu QWERTY tụt dưới 72%, DSK được kỳ vọng sẽ thắng: dưới 72% người mới học QWERTY, việc dùng QWERTY giảm tiếp càng khuyến khích người mới học DSK, và khi mọi người đều dùng DSK thì không ai còn lý do học QWERTY, QWERTY biến mất.
+
+Toán học chỉ nói ta sẽ kết thúc ở một trong hai kết cục (tất cả dùng DSK hoặc 98% dùng QWERTY), không nói cái nào. Bắt đầu từ con số không thì khả năng nghiêng về DSK, nhưng ta không bắt đầu từ con số không. Lịch sử quan trọng: tình cờ lịch sử giúp QWERTY chiếm gần 100% người gõ tự duy trì, dù lý do ban đầu đã lỗi thời từ lâu.
+
+Vì một sự hội tụ về cân bằng kém tự duy trì, vẫn có khả năng làm mọi người khá hơn, nhưng cần hành động phối hợp. Nếu các hãng máy tính lớn cùng chọn một bố cục mới, hoặc một chủ sử dụng lao động lớn như chính phủ liên bang đào tạo nhân viên trên bố cục mới, cân bằng có thể chuyển hẳn từ thái cực này sang thái cực kia. Điểm cốt lõi là không cần chuyển đổi tất cả, chỉ cần một **khối lượng tới hạn** (critical mass); có chỗ đứng đủ lớn, công nghệ tốt hơn sẽ tự lan ra.
+
+**Ô tô chạy xăng.** QWERTY chỉ là một ví dụ nhỏ. Việc ta dùng động cơ xăng thay vì hơi nước, lò phản ứng nước nhẹ thay vì lò làm mát bằng khí được giải thích bằng tình cờ lịch sử tốt hơn là bằng ưu thế công nghệ. Brian Arthur, nhà kinh tế ở Stanford, một trong những người phát triển công cụ toán học nghiên cứu hiệu ứng đám đông, kể lại: năm 1890 có ba cách chạy ô tô (hơi nước, xăng, điện), và xăng rõ ràng kém nhất.
+
+Bước ngoặt là cuộc đua xe không ngựa kéo năm 1895 do báo *Chicago Times-Herald* tài trợ, mà người thắng là một chiếc Duryea chạy xăng, một trong hai xe về đích trong sáu xe xuất phát. Chiến thắng này được cho là có thể đã truyền cảm hứng để R. E. Olds đăng ký bằng sáng chế động cơ xăng năm 1896 rồi sản xuất hàng loạt xe "Curved-Dash Olds". Xăng vượt qua khởi đầu chậm chạp.
+
+Hơi nước vẫn là lựa chọn khả thi cho tới năm 1914, khi dịch lở mồm long móng bùng phát ở Bắc Mỹ khiến các máng nước cho ngựa bị dỡ bỏ, mà xe hơi nước vốn lấy nước ở đó. Anh em nhà Stanley mất khoảng ba năm để làm hệ ngưng tụ và nồi hơi không cần châm nước sau mỗi 30–40 dặm, nhưng khi đó đã quá muộn và động cơ hơi nước không bao giờ hồi phục. Hai tác giả lưu ý so sánh đúng không phải xăng hôm nay với hơi nước hôm nay, mà là hơi nước sẽ tốt tới đâu nếu cũng được 75 năm nghiên cứu và phát triển; có thể không bao giờ biết, nhưng một số kỹ sư tin hơi nước mới là lựa chọn tốt hơn.
 
 **Lò phản ứng nước nhẹ.** Ở Mỹ, gần như toàn bộ điện hạt nhân đến từ lò nước nhẹ, dù có lý do để tin lò nước nặng hay lò làm mát bằng khí sẽ tốt hơn nếu được học hỏi và tích luỹ kinh nghiệm như nhau.
 
@@ -838,7 +859,11 @@ Toán học chỉ nói ta sẽ kết thúc ở một trong hai kết cục (tấ
 | Tái chế nhiên liệu | (sách không nêu) | Không cần | (sách không nêu) |
 | Nguy cơ nóng chảy lõi | Cao hơn | Thấp hơn đáng kể: áp suất cao chia cho nhiều ống thay vì một bình lõi | Thấp hơn đáng kể: nhiệt độ tăng chậm hơn nhiều khi mất chất làm mát |
 
-Robin Cowan (sách viết Cowen) nghiên cứu vì sao lò nước nhẹ thống trị trong luận án tiến sĩ năm 1987 tại Đại học Stanford. Khách hàng đầu tiên của điện hạt nhân là Hải quân Mỹ. Năm 1949, Đại tá Rickover chọn lò nước nhẹ một cách thực dụng với hai lý do tốt: đó là công nghệ gọn nhất lúc ấy (quan trọng với tàu ngầm) và tiến xa nhất (hứa hẹn triển khai nhanh nhất). Năm 1954, tàu ngầm hạt nhân đầu tiên *Nautilus* được hạ thuỷ với kết quả khả quan. Cùng lúc, điện hạt nhân dân sự thành ưu tiên cao: Liên Xô đã thử bom nguyên tử đầu tiên năm 1949, và Uỷ viên Uỷ ban Năng lượng Nguyên tử T. Murray cảnh báo rằng khi nhận thức đầy đủ khả năng các nước thiếu năng lượng ngả theo Liên Xô nếu Liên Xô thắng cuộc đua điện hạt nhân, sẽ thấy rõ cuộc đua này không phải trò leo Everest để lấy tiếng. General Electric và Westinghouse, đã có kinh nghiệm làm lò nước nhẹ cho tàu ngầm, là lựa chọn tự nhiên để xây nhà máy điện dân sự. Độ tin cậy đã kiểm chứng và tốc độ triển khai được ưu tiên hơn việc tìm công nghệ rẻ và an toàn nhất. Lò nước nhẹ ban đầu chỉ được chọn làm công nghệ tạm thời, nhưng điều đó cho nó đủ khởi đầu trên đường cong học hỏi để các lựa chọn khác không bao giờ có cơ hội đuổi kịp.
+Robin Cowan (sách viết Cowen) nghiên cứu vì sao lò nước nhẹ thống trị trong luận án tiến sĩ năm 1987 tại Đại học Stanford. Khách hàng đầu tiên của điện hạt nhân là Hải quân Mỹ. Năm 1949, Đại tá Rickover chọn lò nước nhẹ một cách thực dụng với hai lý do tốt: đó là công nghệ gọn nhất lúc ấy (quan trọng với tàu ngầm) và tiến xa nhất (hứa hẹn triển khai nhanh nhất). Năm 1954, tàu ngầm hạt nhân đầu tiên *Nautilus* được hạ thuỷ với kết quả khả quan.
+
+Cùng lúc, điện hạt nhân dân sự thành ưu tiên cao: Liên Xô đã thử bom nguyên tử đầu tiên năm 1949, và Uỷ viên Uỷ ban Năng lượng Nguyên tử T. Murray cảnh báo rằng khi nhận thức đầy đủ khả năng các nước thiếu năng lượng ngả theo Liên Xô nếu Liên Xô thắng cuộc đua điện hạt nhân, sẽ thấy rõ cuộc đua này không phải trò leo Everest để lấy tiếng.
+
+General Electric và Westinghouse, đã có kinh nghiệm làm lò nước nhẹ cho tàu ngầm, là lựa chọn tự nhiên để xây nhà máy điện dân sự. Độ tin cậy đã kiểm chứng và tốc độ triển khai được ưu tiên hơn việc tìm công nghệ rẻ và an toàn nhất. Lò nước nhẹ ban đầu chỉ được chọn làm công nghệ tạm thời, nhưng điều đó cho nó đủ khởi đầu trên đường cong học hỏi để các lựa chọn khác không bao giờ có cơ hội đuổi kịp.
 
 Bài học chung: QWERTY, động cơ xăng và lò nước nhẹ là ba minh chứng cho việc lịch sử quyết định lựa chọn công nghệ hôm nay, dù lý do lịch sử (kẹt phím máy chữ, dịch lở mồm long móng, chỗ chật trong tàu ngầm) không còn liên quan gì tới sự đánh đổi giữa các công nghệ hiện nay. Điều quan trọng lý thuyết trò chơi chỉ ra là phải nhận ra sớm nguy cơ **khoá chặt** (lock-in): một khi một lựa chọn đi trước đủ xa, các phương án công nghệ tốt hơn có thể không bao giờ được phát triển. Vì vậy ở giai đoạn đầu, bỏ thêm thời gian tìm hiểu không chỉ công nghệ nào đáp ứng ràng buộc hôm nay mà cả lựa chọn nào tốt nhất cho tương lai có thể mang lại lợi ích rất lớn.
 
@@ -846,7 +871,9 @@ Bài học chung: QWERTY, động cơ xăng và lò nước nhẹ là ba minh ch
 
 Tên tiểu mục chơi chữ từ câu quen thuộc về Siêu nhân, "nhanh hơn viên đạn" (faster than a speeding bullet).
 
-Nên lái nhanh tới đâu, và có nên tuân thủ giới hạn tốc độ? Câu trả lời lại nằm ở trò chơi mà quyết định của bạn tương tác với quyết định của mọi người lái khác. Nếu không ai tuân thủ luật, bạn có hai lý do vi phạm theo. Thứ nhất, một số chuyên gia cho rằng chạy cùng tốc độ dòng xe thực ra an toàn hơn: trên phần lớn xa lộ, ai cố chạy 55 dặm/giờ sẽ thành chướng ngại nguy hiểm mà mọi người phải lách qua. Thứ hai, khi chạy theo những người vượt tốc độ khác, khả năng bị bắt gần như bằng không, vì cảnh sát chỉ chặn được một tỷ lệ nhỏ trong số xe chạy quá tốc độ; đông người thì an toàn. (Chú thích của tác giả: cảnh sát thích cân bằng "ai cũng vi phạm", vì nó cho họ lý do chính đáng để chặn bất kỳ xe chạy nhanh nào, còn ai không chạy nhanh lại càng đáng nghi.) Khi càng nhiều người tuân thủ, cả hai lý do biến mất: chạy nhanh trở nên nguy hiểm hơn vì phải lạng lách qua dòng xe, và khả năng bị bắt tăng vọt.
+Nên lái nhanh tới đâu, và có nên tuân thủ giới hạn tốc độ? Câu trả lời lại nằm ở trò chơi mà quyết định của bạn tương tác với quyết định của mọi người lái khác. Nếu không ai tuân thủ luật, bạn có hai lý do vi phạm theo. Thứ nhất, một số chuyên gia cho rằng chạy cùng tốc độ dòng xe thực ra an toàn hơn: trên phần lớn xa lộ, ai cố chạy 55 dặm/giờ sẽ thành chướng ngại nguy hiểm mà mọi người phải lách qua.
+
+Thứ hai, khi chạy theo những người vượt tốc độ khác, khả năng bị bắt gần như bằng không, vì cảnh sát chỉ chặn được một tỷ lệ nhỏ trong số xe chạy quá tốc độ; đông người thì an toàn. (Chú thích của tác giả: cảnh sát thích cân bằng "ai cũng vi phạm", vì nó cho họ lý do chính đáng để chặn bất kỳ xe chạy nhanh nào, còn ai không chạy nhanh lại càng đáng nghi.) Khi càng nhiều người tuân thủ, cả hai lý do biến mất: chạy nhanh trở nên nguy hiểm hơn vì phải lạng lách qua dòng xe, và khả năng bị bắt tăng vọt.
 
 Đồ thị của hai tác giả (hình dựng lại từ sách ở phần Sơ đồ) có trục ngang là tỷ lệ người lái tuân thủ giới hạn tốc độ (0 tới 100%). Đường A là lợi ích của một người khi tuân thủ, tăng dần từ trái sang phải; đường B là lợi ích khi vi phạm, giảm dần từ trái sang phải.
 
@@ -856,21 +883,33 @@ Nên lái nhanh tới đâu, và có nên tuân thủ giới hạn tốc độ? 
 | Điểm hai đường cắt nhau (khoảng 60–65% tuân thủ theo hình vẽ) | A bằng B | Như nhau: cân bằng ở giữa, không ổn định |
 | Bên phải (gần như ai cũng tuân thủ) | A cao hơn B | Tuân thủ |
 
-Một lần nữa có ba cân bằng, nhưng chỉ hai cân bằng ở thái cực có thể xuất hiện từ quá trình điều chỉnh xã hội khi người lái thích nghi với nhau. Với Bay Bridge, quá trình điều chỉnh hội tụ về cân bằng ở giữa; ở đây xu hướng là về một thái cực. Sự khác nhau nằm ở cách tương tác: khi đi làm, lựa chọn nào cũng kém hấp dẫn hơn khi càng nhiều người theo bạn; khi chạy quá tốc độ, thêm bạn đồng hành lại làm nó hấp dẫn hơn. Chủ đề quyết định của một người ảnh hưởng tới người khác vẫn đúng ở đây: một người tăng tốc làm việc chạy nhanh an toàn hơn một chút cho người khác. Nếu không ai chạy nhanh, không ai muốn là người đầu tiên đem "lợi ích" đó cho người khác mà không được "thưởng". Nhưng có một điểm mới: nếu ai cũng chạy nhanh, không ai muốn là người duy nhất giảm tốc.
+Một lần nữa có ba cân bằng, nhưng chỉ hai cân bằng ở thái cực có thể xuất hiện từ quá trình điều chỉnh xã hội khi người lái thích nghi với nhau. Với Bay Bridge, quá trình điều chỉnh hội tụ về cân bằng ở giữa; ở đây xu hướng là về một thái cực.
+
+Sự khác nhau nằm ở cách tương tác: khi đi làm, lựa chọn nào cũng kém hấp dẫn hơn khi càng nhiều người theo bạn; khi chạy quá tốc độ, thêm bạn đồng hành lại làm nó hấp dẫn hơn. Chủ đề quyết định của một người ảnh hưởng tới người khác vẫn đúng ở đây: một người tăng tốc làm việc chạy nhanh an toàn hơn một chút cho người khác. Nếu không ai chạy nhanh, không ai muốn là người đầu tiên đem "lợi ích" đó cho người khác mà không được "thưởng". Nhưng có một điểm mới: nếu ai cũng chạy nhanh, không ai muốn là người duy nhất giảm tốc.
 
 Thay đổi giới hạn tốc độ có tác dụng không? Đồ thị được vẽ cho một giới hạn cụ thể, ví dụ 55 dặm/giờ. Nếu nâng lên 65, giá trị của việc vi phạm giảm, vì quá một ngưỡng thì tốc độ cao nguy hiểm thật, và lợi thêm của 75 so với 65 nhỏ hơn lợi của 65 so với 55. Hơn nữa, trên 55 dặm/giờ, mức tiêu hao xăng tăng theo cấp số mũ với tốc độ: chạy 65 có thể tốn hơn chạy 55 khoảng 20%, nhưng chạy 75 dễ tốn hơn chạy 65 tới 40%.
 
 Nhà lập pháp muốn người dân tuân thủ giới hạn tốc độ học được gì? Không cần đặt giới hạn cao tới mức ai cũng vui lòng tuân thủ; điều then chốt là có một khối lượng tới hạn người tuân thủ. Một giai đoạn ngắn cưỡng chế cực nghiêm và phạt nặng có thể thay đổi hành vi của đủ nhiều người lái để tạo đà tiến tới tuân thủ hoàn toàn. Cân bằng chuyển từ thái cực này (ai cũng chạy quá tốc độ) sang thái cực kia (ai cũng tuân thủ); ở cân bằng mới, cảnh sát có thể giảm cưỡng chế mà sự tuân thủ vẫn tự duy trì. Tổng quát hơn, cưỡng chế ngắn mà mạnh có thể hiệu quả hơn hẳn cùng tổng công sức rải ở mức vừa phải trong thời gian dài.
 
-**Tiêu chuẩn tiết kiệm nhiên liệu.** Logic tương tự áp dụng cho tiêu chuẩn CAFE (Corporate Average Fuel Economy, mức tiết kiệm nhiên liệu trung bình theo đội xe của mỗi hãng). Nhiều năm, đại đa số người Mỹ ủng hộ nâng mạnh tiêu chuẩn này. Cuối cùng, năm 2007 Tổng thống Bush ký luật nâng tiêu chuẩn cho xe con từ 27,5 lên 35 dặm/gallon (xe tải tăng tương tự), áp dụng dần từ 2011 và có hiệu lực đầy đủ vào 2020. Nhưng nếu đa số muốn xe tiết kiệm xăng thì không gì ngăn họ tự mua; vậy tại sao người ủng hộ tiêu chuẩn cao vẫn lái SUV ngốn xăng? Một lý do là người ta lo xe tiết kiệm xăng nhẹ hơn nên kém an toàn khi va chạm, nhất là khi bị một chiếc Hummer tông. Người ta sẵn lòng lái xe nhẹ hơn khi biết các xe khác trên đường cũng nhẹ. Giống như chạy nhanh kéo theo chạy nhanh, càng nhiều xe nặng thì ai cũng càng cần SUV để an toàn. Cũng như con người, xe hơi đã nặng thêm 20% trong hai thập kỷ qua. Kết cục là tiêu hao nhiên liệu cao mà không ai an toàn hơn. Nâng tiêu chuẩn CAFE là công cụ phối hợp có thể chuyển đủ người từ xe nặng sang xe nhẹ để (gần như) ai cũng vui hơn khi lái xe nhẹ. Theo hai tác giả, sự thay đổi phối hợp làm đổi cơ cấu đội xe, cho phép cải thiện mức tiết kiệm nhiên liệu ngay lập tức, có thể còn quan trọng hơn tiến bộ công nghệ.
+**Tiêu chuẩn tiết kiệm nhiên liệu.** Logic tương tự áp dụng cho tiêu chuẩn CAFE (Corporate Average Fuel Economy, mức tiết kiệm nhiên liệu trung bình theo đội xe của mỗi hãng). Nhiều năm, đại đa số người Mỹ ủng hộ nâng mạnh tiêu chuẩn này. Cuối cùng, năm 2007 Tổng thống Bush ký luật nâng tiêu chuẩn cho xe con từ 27,5 lên 35 dặm/gallon (xe tải tăng tương tự), áp dụng dần từ 2011 và có hiệu lực đầy đủ vào 2020.
 
-**Lập luận của Milton Friedman.** Hai tác giả nhấn mạnh rằng lập luận ủng hộ quyết định tập thể thay vì quyết định cá nhân không phải độc quyền của phe tự do, cánh tả hay những người xã hội chủ nghĩa còn sót lại. Nhà kinh tế bảo thủ không chê vào đâu được Milton Friedman đưa ra đúng lập luận đó về phân phối lại của cải trong cuốn kinh điển *Capitalism and Freedom* (Chủ nghĩa tư bản và tự do). Friedman viết, đại ý: ông đau lòng khi thấy cảnh nghèo đói và được lợi khi nghèo đói giảm, nhưng ông được lợi như nhau dù chính ông hay người khác bỏ tiền ra, nên một phần lợi ích từ lòng từ thiện của người khác rơi vào ông. Nói cách khác, tất cả chúng ta có thể sẵn lòng góp tiền giảm nghèo, với điều kiện mọi người khác cũng góp, và có thể không sẵn lòng góp chừng đó nếu không có bảo đảm ấy. Ở cộng đồng nhỏ, áp lực xã hội có thể đủ để thực hiện điều kiện này ngay cả với từ thiện tư nhân; ở những cộng đồng lớn, vô danh ngày càng chiếm ưu thế trong xã hội, việc đó khó hơn nhiều. Friedman chấp nhận lập luận này làm cơ sở cho hành động của chính phủ nhằm giảm nghèo.
+Nhưng nếu đa số muốn xe tiết kiệm xăng thì không gì ngăn họ tự mua; vậy tại sao người ủng hộ tiêu chuẩn cao vẫn lái SUV ngốn xăng? Một lý do là người ta lo xe tiết kiệm xăng nhẹ hơn nên kém an toàn khi va chạm, nhất là khi bị một chiếc Hummer tông. Người ta sẵn lòng lái xe nhẹ hơn khi biết các xe khác trên đường cũng nhẹ. Giống như chạy nhanh kéo theo chạy nhanh, càng nhiều xe nặng thì ai cũng càng cần SUV để an toàn. Cũng như con người, xe hơi đã nặng thêm 20% trong hai thập kỷ qua. Kết cục là tiêu hao nhiên liệu cao mà không ai an toàn hơn.
+
+Nâng tiêu chuẩn CAFE là công cụ phối hợp có thể chuyển đủ người từ xe nặng sang xe nhẹ để (gần như) ai cũng vui hơn khi lái xe nhẹ. Theo hai tác giả, sự thay đổi phối hợp làm đổi cơ cấu đội xe, cho phép cải thiện mức tiết kiệm nhiên liệu ngay lập tức, có thể còn quan trọng hơn tiến bộ công nghệ.
+
+**Lập luận của Milton Friedman.** Hai tác giả nhấn mạnh rằng lập luận ủng hộ quyết định tập thể thay vì quyết định cá nhân không phải độc quyền của phe tự do, cánh tả hay những người xã hội chủ nghĩa còn sót lại. Nhà kinh tế bảo thủ không chê vào đâu được Milton Friedman đưa ra đúng lập luận đó về phân phối lại của cải trong cuốn kinh điển *Capitalism and Freedom* (Chủ nghĩa tư bản và tự do).
+
+Friedman viết, đại ý: ông đau lòng khi thấy cảnh nghèo đói và được lợi khi nghèo đói giảm, nhưng ông được lợi như nhau dù chính ông hay người khác bỏ tiền ra, nên một phần lợi ích từ lòng từ thiện của người khác rơi vào ông. Nói cách khác, tất cả chúng ta có thể sẵn lòng góp tiền giảm nghèo, với điều kiện mọi người khác cũng góp, và có thể không sẵn lòng góp chừng đó nếu không có bảo đảm ấy.
+
+Ở cộng đồng nhỏ, áp lực xã hội có thể đủ để thực hiện điều kiện này ngay cả với từ thiện tư nhân; ở những cộng đồng lớn, vô danh ngày càng chiếm ưu thế trong xã hội, việc đó khó hơn nhiều. Friedman chấp nhận lập luận này làm cơ sở cho hành động của chính phủ nhằm giảm nghèo.
 
 ### 5. Vì sao họ dọn đi? (Why Did They Leave?)
 
 Các thành phố Mỹ có rất ít khu dân cư hoà trộn chủng tộc. Nếu tỷ lệ cư dân da đen trong một khu vượt một mức tới hạn, nó nhanh chóng tăng tiếp tới gần 100%; nếu xuống dưới mức tới hạn, khu đó thường trở thành toàn da trắng. Giữ được cân bằng chủng tộc đòi hỏi những chính sách công khéo léo.
 
-Sự phân tách thực tế ở hầu hết các khu dân cư có phải sản phẩm của phân biệt chủng tộc lan rộng? Ngày nay, đại đa số người Mỹ sống ở đô thị coi khu hoà trộn là đáng mong muốn. (Chú thích của tác giả: dĩ nhiên, việc người ta có bất kỳ sở thích nào về tỷ lệ chủng tộc của hàng xóm đã là một dạng phân biệt chủng tộc, dù nhẹ hơn nhiều so với sự bài xích hoàn toàn.) Khó khăn nhiều khả năng hơn là sự phân tách có thể là cân bằng của một trò chơi trong đó mỗi hộ tự chọn nơi ở, ngay cả khi ai cũng có một mức khoan dung chủng tộc. Ý tưởng này của Thomas Schelling. Khoan dung không phải chuyện trắng hay đen mà có nhiều sắc độ xám: người khác nhau, da đen hay da trắng, có quan điểm khác nhau về tỷ lệ hoà trộn tốt nhất. Ví dụ, rất ít người da trắng đòi một khu 99% hay thậm chí 95% da trắng, nhưng phần lớn sẽ thấy lạc lõng ở khu chỉ có 1% hay 5% da trắng. Đa số vui với một tỷ lệ nào đó ở giữa.
+Sự phân tách thực tế ở hầu hết các khu dân cư có phải sản phẩm của phân biệt chủng tộc lan rộng? Ngày nay, đại đa số người Mỹ sống ở đô thị coi khu hoà trộn là đáng mong muốn. (Chú thích của tác giả: dĩ nhiên, việc người ta có bất kỳ sở thích nào về tỷ lệ chủng tộc của hàng xóm đã là một dạng phân biệt chủng tộc, dù nhẹ hơn nhiều so với sự bài xích hoàn toàn.) Khó khăn nhiều khả năng hơn là sự phân tách có thể là cân bằng của một trò chơi trong đó mỗi hộ tự chọn nơi ở, ngay cả khi ai cũng có một mức khoan dung chủng tộc.
+
+Ý tưởng này của Thomas Schelling. Khoan dung không phải chuyện trắng hay đen mà có nhiều sắc độ xám: người khác nhau, da đen hay da trắng, có quan điểm khác nhau về tỷ lệ hoà trộn tốt nhất. Ví dụ, rất ít người da trắng đòi một khu 99% hay thậm chí 95% da trắng, nhưng phần lớn sẽ thấy lạc lõng ở khu chỉ có 1% hay 5% da trắng. Đa số vui với một tỷ lệ nào đó ở giữa.
 
 Đồ thị của hai tác giả (hình dựng lại từ sách ở phần Sơ đồ) giống đồ thị QWERTY: trục ngang là tỷ lệ người da trắng hiện có trong khu, trục dọc là xác suất người dọn đến tiếp theo là người da trắng.
 
@@ -883,11 +922,15 @@ Sự phân tách thực tế ở hầu hết các khu dân cư có phải sản 
 
 Cân bằng xảy ra khi tỷ lệ chủng tộc của cư dân đúng bằng tỷ lệ của người mới đến; chỉ khi đó động lực mới ổn định. Có ba cân bằng như vậy: hai ở thái cực (toàn da trắng, toàn da đen) và một ở giữa, có hoà trộn. Lý thuyết tới đây chưa nói cân bằng nào dễ xảy ra nhất; muốn biết phải xét các lực đẩy hệ thống lại gần hay ra xa cân bằng, tức động lực xã hội.
 
-Động lực xã hội luôn đẩy khu dân cư về một trong hai cân bằng thái cực. Schelling gọi hiện tượng này là **lật nghiêng** (tipping), ý tưởng sau được Malcolm Gladwell phổ biến trong cuốn *The Tipping Point*. Giả sử cân bằng ở giữa có 70% da trắng và 30% da đen. Tình cờ một hộ da đen dọn đi và một hộ da trắng dọn đến, tỷ lệ da trắng nhích lên trên 70%. Theo đồ thị, xác suất người đến sau là da trắng lúc này trên 70%, nên áp lực đi lên được người mới đến củng cố. Giả sử tỷ lệ chuyển sang 75:25; áp lực tiếp tục, vì xác suất người mới là da trắng trên 75%, nên khu dân cư được dự đoán ngày càng phân tách. Quá trình kéo dài tới khi tỷ lệ người mới đến bằng tỷ lệ trong khu, mà theo hình vẽ chỉ xảy ra lại khi khu toàn da trắng. Nếu quá trình bắt đầu bằng một hộ da trắng dọn đi và một hộ da đen dọn đến, phản ứng dây chuyền sẽ đi theo hướng ngược lại, và nhiều khả năng khu sẽ thành toàn da đen.
+Động lực xã hội luôn đẩy khu dân cư về một trong hai cân bằng thái cực. Schelling gọi hiện tượng này là **lật nghiêng** (tipping), ý tưởng sau được Malcolm Gladwell phổ biến trong cuốn *The Tipping Point*. Giả sử cân bằng ở giữa có 70% da trắng và 30% da đen. Tình cờ một hộ da đen dọn đi và một hộ da trắng dọn đến, tỷ lệ da trắng nhích lên trên 70%. Theo đồ thị, xác suất người đến sau là da trắng lúc này trên 70%, nên áp lực đi lên được người mới đến củng cố.
+
+Giả sử tỷ lệ chuyển sang 75:25; áp lực tiếp tục, vì xác suất người mới là da trắng trên 75%, nên khu dân cư được dự đoán ngày càng phân tách. Quá trình kéo dài tới khi tỷ lệ người mới đến bằng tỷ lệ trong khu, mà theo hình vẽ chỉ xảy ra lại khi khu toàn da trắng. Nếu quá trình bắt đầu bằng một hộ da trắng dọn đi và một hộ da đen dọn đến, phản ứng dây chuyền sẽ đi theo hướng ngược lại, và nhiều khả năng khu sẽ thành toàn da đen.
 
 Vấn đề là tỷ lệ 70:30 không phải cân bằng ổn định: nếu bị xáo trộn (và chắc chắn sẽ bị), hệ thống có xu hướng đi về một thái cực, và đáng buồn là từ thái cực không có xu hướng tương tự quay về giữa. Phân tách là cân bằng được dự đoán, nhưng điều đó không có nghĩa người ta khá hơn ở kết cục này: có thể ai cũng thích sống ở khu hoà trộn hơn, nhưng những khu như vậy hiếm, và có tìm được thì thường không bền.
 
-Nguồn gốc vấn đề lại là tác động của hành động một hộ lên các hộ khác. Ở tỷ lệ 70:30, khi một hộ da trắng thay một hộ da đen, khu dân cư có thể kém hấp dẫn hơn một chút với người da đen sắp đến, nhưng hộ đó không bị phạt vì điều này. Có lẽ nên có thuế rời khu, tương tự phí cầu đường; nhưng như vậy trái với một nguyên tắc cơ bản hơn là tự do chọn nơi ở. Nếu xã hội muốn ngăn lật nghiêng, phải tìm biện pháp khác. Nếu không phạt được hộ dọn đi vì thiệt hại họ gây ra (cho người ở lại và cho người giờ có thể không muốn đến), phải có biện pháp giảm động cơ để người khác làm theo: một hộ da trắng đi không nên làm khu kém hấp dẫn hơn với hộ da trắng khác; một hộ da đen đi không nên làm khu kém hấp dẫn hơn với hộ da đen khác.
+Nguồn gốc vấn đề lại là tác động của hành động một hộ lên các hộ khác. Ở tỷ lệ 70:30, khi một hộ da trắng thay một hộ da đen, khu dân cư có thể kém hấp dẫn hơn một chút với người da đen sắp đến, nhưng hộ đó không bị phạt vì điều này. Có lẽ nên có thuế rời khu, tương tự phí cầu đường; nhưng như vậy trái với một nguyên tắc cơ bản hơn là tự do chọn nơi ở.
+
+Nếu xã hội muốn ngăn lật nghiêng, phải tìm biện pháp khác. Nếu không phạt được hộ dọn đi vì thiệt hại họ gây ra (cho người ở lại và cho người giờ có thể không muốn đến), phải có biện pháp giảm động cơ để người khác làm theo: một hộ da trắng đi không nên làm khu kém hấp dẫn hơn với hộ da trắng khác; một hộ da đen đi không nên làm khu kém hấp dẫn hơn với hộ da đen khác.
 
 Oak Park, vùng ngoại ô hoà trộn chủng tộc của Chicago, là ví dụ khéo léo về chính sách hiệu quả, với hai công cụ:
 
@@ -904,27 +947,43 @@ Lật nghiêng thành cân bằng toàn da đen là vấn đề phổ biến hơ
 
 Các hãng luật hàng đầu thường chọn thành viên hợp danh (partner) từ các luật sư trẻ của chính hãng; người không được chọn phải rời hãng và thường chuyển sang hãng xếp hạng thấp hơn. Ở hãng luật giả tưởng Justin-Case (tên chơi chữ "just in case", phòng khi), chuẩn cao tới mức nhiều năm không ai được chọn. Các luật sư trẻ phản đối vì không có đường thăng tiến, và các partner đáp lại bằng một hệ thống trông rất dân chủ. Vào kỳ xét chọn hằng năm, năng lực của mười luật sư trẻ được chấm từ 1 tới 10 (10 là giỏi nhất), mỗi người được báo riêng điểm của mình. Rồi họ được đưa vào một phòng họp để bỏ phiếu theo đa số quyết định ngưỡng điểm được lên partner.
 
-Ai cũng đồng ý rằng tất cả cùng lên partner là ý hay, chắc chắn tốt hơn thời không ai lên, nên họ bắt đầu với ngưỡng 1. Rồi một luật sư điểm cao đề nghị nâng ngưỡng lên 2 để nâng chất lượng bình quân của các partner; tám người khác đồng ý với anh, người duy nhất phản đối là người kém nhất, vì anh ta sẽ không còn được lên. Tiếp theo có người đề nghị nâng từ 2 lên 3. Tám người vẫn trên ngưỡng và bỏ phiếu thuận; người điểm 2 phản đối vì mất suất. Điều bất ngờ là người điểm 1 lại ủng hộ: trong cả hai trường hợp anh ta đều không lên, nhưng với ngưỡng 3 anh ta bị xếp chung với người điểm 2, nên khi thấy anh ta không được chọn, các hãng luật khác không suy ra được chính xác năng lực của anh, mà chỉ đoán là 1 hoặc 2, và sự không chắc chắn này có lợi cho anh. Đề xuất nâng lên 3 được thông qua 9:1.
+Ai cũng đồng ý rằng tất cả cùng lên partner là ý hay, chắc chắn tốt hơn thời không ai lên, nên họ bắt đầu với ngưỡng 1. Rồi một luật sư điểm cao đề nghị nâng ngưỡng lên 2 để nâng chất lượng bình quân của các partner; tám người khác đồng ý với anh, người duy nhất phản đối là người kém nhất, vì anh ta sẽ không còn được lên. Tiếp theo có người đề nghị nâng từ 2 lên 3. Tám người vẫn trên ngưỡng và bỏ phiếu thuận; người điểm 2 phản đối vì mất suất.
 
-Cứ thế, mỗi lần có người đề nghị nâng ngưỡng thêm một bậc. Mọi người trên ngưỡng bỏ phiếu thuận để nâng chất lượng partner (không mất vị trí của mình); mọi người dưới ngưỡng cũng thuận để thất bại của mình bớt hậu quả. Mỗi lần chỉ có một người phản đối, chính người ở đúng ngưỡng sẽ mất suất, và anh ta thua 9:1. Ngưỡng được nâng tới 10. Cuối cùng có người đề nghị nâng lên 11, tức không ai được lên. Mọi người từ điểm 9 trở xuống thấy đề xuất này rất hay, vì một lần nữa nó nâng chất lượng bình quân của nhóm bị loại: người ngoài sẽ không coi việc trượt là tín hiệu xấu, vì ở hãng này không ai được lên cả. Người duy nhất phản đối là người giỏi nhất, người mất cơ hội lên partner, và anh ta cũng thua 9:1. Chuỗi bỏ phiếu đưa mọi người về đúng hệ thống cũ mà ai cũng cho là tệ hơn phương án tất cả cùng lên, dù mỗi nghị quyết trên đường đi đều được thông qua 9:1.
+Điều bất ngờ là người điểm 1 lại ủng hộ: trong cả hai trường hợp anh ta đều không lên, nhưng với ngưỡng 3 anh ta bị xếp chung với người điểm 2, nên khi thấy anh ta không được chọn, các hãng luật khác không suy ra được chính xác năng lực của anh, mà chỉ đoán là 1 hoặc 2, và sự không chắc chắn này có lợi cho anh. Đề xuất nâng lên 3 được thông qua 9:1.
 
-**Bài học thứ nhất: quyết định từng bước nhỏ.** Khi hành động theo từng mảnh, mỗi bước có thể hấp dẫn với đại đa số người quyết định, nhưng kết cục tệ hơn điểm xuất phát với tất cả. Lý do là bỏ phiếu bỏ qua cường độ ưa thích: trong ví dụ, mọi người thuận được một chút, còn một người chống mất rất nhiều. Qua mười lần bỏ phiếu, mỗi luật sư trẻ có chín chiến thắng nhỏ và một thất bại lớn vượt tổng các chiến thắng cộng lại. Các dự luật cải cách thuế hay thuế quan cũng hay gặp vấn đề tương tự: bị giết bởi một chuỗi sửa đổi, mỗi sửa đổi được đa số chấp thuận, nhưng kết quả cuối có đủ khiếm khuyết chết người để mất sự ủng hộ của đa số. Việc một cá nhân nhận ra vấn đề không có nghĩa cá nhân đó dừng được quá trình. Đây là một con dốc trơn, quá nguy hiểm để bước lên. Cả nhóm phải nhìn xa và suy luận ngược một cách phối hợp, đặt luật lệ để ngăn những bước đầu tiên trên con dốc. An toàn nằm ở thoả thuận chỉ xét cải cách theo cả gói, không theo chuỗi bước nhỏ: với cả gói, ai cũng biết mình sẽ đứng ở đâu; chuỗi bước nhỏ lúc đầu có vẻ hấp dẫn, nhưng một bước bất lợi có thể xoá sạch toàn bộ chuỗi lợi ích.
+Cứ thế, mỗi lần có người đề nghị nâng ngưỡng thêm một bậc. Mọi người trên ngưỡng bỏ phiếu thuận để nâng chất lượng partner (không mất vị trí của mình); mọi người dưới ngưỡng cũng thuận để thất bại của mình bớt hậu quả. Mỗi lần chỉ có một người phản đối, chính người ở đúng ngưỡng sẽ mất suất, và anh ta thua 9:1. Ngưỡng được nâng tới 10.
 
-Năm 1989, Quốc hội Mỹ tự trải nghiệm mối nguy này khi thất bại trong nỗ lực tự tăng lương 50%. Ban đầu việc tăng lương có vẻ được ủng hộ rộng rãi ở cả hai viện. Khi công chúng nhận ra điều sắp xảy ra, họ phản đối ầm ĩ với các dân biểu. Vì thế mỗi thành viên Quốc hội có động cơ riêng bỏ phiếu chống, với điều kiện người đó tin việc tăng lương vẫn được thông qua: kịch bản tốt nhất là được lương cao hơn mà vẫn ghi nhận là đã phản đối. Không may (cho họ), quá nhiều người cùng làm vậy, và bỗng nhiên việc thông qua không còn chắc chắn. Mỗi người bỏ phiếu chống đẩy họ xuống con dốc trơn xa hơn, và càng có thêm lý do bỏ phiếu chống: nếu việc tăng lương thất bại, vị trí tệ nhất là đã công khai ủng hộ, chịu cái giá chính trị mà vẫn không được tăng lương. Lúc đầu chỉ vài người có cơ hội ích kỷ cải thiện vị trí của mình, nhưng mỗi người rời bỏ làm tăng động cơ để người khác làm theo, và chẳng bao lâu đề xuất chết.
+Cuối cùng có người đề nghị nâng lên 11, tức không ai được lên. Mọi người từ điểm 9 trở xuống thấy đề xuất này rất hay, vì một lần nữa nó nâng chất lượng bình quân của nhóm bị loại: người ngoài sẽ không coi việc trượt là tín hiệu xấu, vì ở hãng này không ai được lên cả. Người duy nhất phản đối là người giỏi nhất, người mất cơ hội lên partner, và anh ta cũng thua 9:1. Chuỗi bỏ phiếu đưa mọi người về đúng hệ thống cũ mà ai cũng cho là tệ hơn phương án tất cả cùng lên, dù mỗi nghị quyết trên đường đi đều được thông qua 9:1.
 
-**Bài học thứ hai: nếu đằng nào cũng thất bại, hãy thất bại ở việc khó.** Thất bại khiến người khác hạ kỳ vọng về bạn trong tương lai, và mức độ nghiêm trọng phụ thuộc vào việc bạn thử làm gì: leo Everest không tới đỉnh ít đáng chê hơn nhiều so với chạy 10 km không về đích. Khi nhận định của người khác về năng lực của bạn là quan trọng, có thể tốt hơn nếu bạn làm những việc làm tăng khả năng thất bại để giảm hậu quả của thất bại. Người nộp đơn vào Harvard thay vì trường đại học địa phương, hay mời người nổi tiếng nhất trường đi dạ hội thay vì một người thực tế hơn, đang theo chiến lược như vậy. Các nhà tâm lý học thấy hành vi này trong bối cảnh khác: có người sợ thừa nhận giới hạn năng lực của mình, nên làm những việc tăng khả năng thất bại để tránh phải đối diện năng lực thật. Ví dụ, một học sinh yếu có thể không ôn bài, để nếu trượt thì đổ cho việc không ôn chứ không phải năng lực vốn có. Hai tác giả kết luận rằng dù trái khoáy và phản tác dụng, không có bàn tay vô hình nào bảo vệ bạn trong những trò chơi với chính mình.
+**Bài học thứ nhất: quyết định từng bước nhỏ.** Khi hành động theo từng mảnh, mỗi bước có thể hấp dẫn với đại đa số người quyết định, nhưng kết cục tệ hơn điểm xuất phát với tất cả. Lý do là bỏ phiếu bỏ qua cường độ ưa thích: trong ví dụ, mọi người thuận được một chút, còn một người chống mất rất nhiều. Qua mười lần bỏ phiếu, mỗi luật sư trẻ có chín chiến thắng nhỏ và một thất bại lớn vượt tổng các chiến thắng cộng lại.
+
+Các dự luật cải cách thuế hay thuế quan cũng hay gặp vấn đề tương tự: bị giết bởi một chuỗi sửa đổi, mỗi sửa đổi được đa số chấp thuận, nhưng kết quả cuối có đủ khiếm khuyết chết người để mất sự ủng hộ của đa số.
+
+Việc một cá nhân nhận ra vấn đề không có nghĩa cá nhân đó dừng được quá trình. Đây là một con dốc trơn, quá nguy hiểm để bước lên. Cả nhóm phải nhìn xa và suy luận ngược một cách phối hợp, đặt luật lệ để ngăn những bước đầu tiên trên con dốc. An toàn nằm ở thoả thuận chỉ xét cải cách theo cả gói, không theo chuỗi bước nhỏ: với cả gói, ai cũng biết mình sẽ đứng ở đâu; chuỗi bước nhỏ lúc đầu có vẻ hấp dẫn, nhưng một bước bất lợi có thể xoá sạch toàn bộ chuỗi lợi ích.
+
+Năm 1989, Quốc hội Mỹ tự trải nghiệm mối nguy này khi thất bại trong nỗ lực tự tăng lương 50%. Ban đầu việc tăng lương có vẻ được ủng hộ rộng rãi ở cả hai viện. Khi công chúng nhận ra điều sắp xảy ra, họ phản đối ầm ĩ với các dân biểu. Vì thế mỗi thành viên Quốc hội có động cơ riêng bỏ phiếu chống, với điều kiện người đó tin việc tăng lương vẫn được thông qua: kịch bản tốt nhất là được lương cao hơn mà vẫn ghi nhận là đã phản đối.
+
+Không may (cho họ), quá nhiều người cùng làm vậy, và bỗng nhiên việc thông qua không còn chắc chắn. Mỗi người bỏ phiếu chống đẩy họ xuống con dốc trơn xa hơn, và càng có thêm lý do bỏ phiếu chống: nếu việc tăng lương thất bại, vị trí tệ nhất là đã công khai ủng hộ, chịu cái giá chính trị mà vẫn không được tăng lương. Lúc đầu chỉ vài người có cơ hội ích kỷ cải thiện vị trí của mình, nhưng mỗi người rời bỏ làm tăng động cơ để người khác làm theo, và chẳng bao lâu đề xuất chết.
+
+**Bài học thứ hai: nếu đằng nào cũng thất bại, hãy thất bại ở việc khó.** Thất bại khiến người khác hạ kỳ vọng về bạn trong tương lai, và mức độ nghiêm trọng phụ thuộc vào việc bạn thử làm gì: leo Everest không tới đỉnh ít đáng chê hơn nhiều so với chạy 10 km không về đích. Khi nhận định của người khác về năng lực của bạn là quan trọng, có thể tốt hơn nếu bạn làm những việc làm tăng khả năng thất bại để giảm hậu quả của thất bại. Người nộp đơn vào Harvard thay vì trường đại học địa phương, hay mời người nổi tiếng nhất trường đi dạ hội thay vì một người thực tế hơn, đang theo chiến lược như vậy.
+
+Các nhà tâm lý học thấy hành vi này trong bối cảnh khác: có người sợ thừa nhận giới hạn năng lực của mình, nên làm những việc tăng khả năng thất bại để tránh phải đối diện năng lực thật. Ví dụ, một học sinh yếu có thể không ôn bài, để nếu trượt thì đổ cho việc không ôn chứ không phải năng lực vốn có. Hai tác giả kết luận rằng dù trái khoáy và phản tác dụng, không có bàn tay vô hình nào bảo vệ bạn trong những trò chơi với chính mình.
 
 ### 7. Chính trị gia và rượu táo (Politicians and Apple Cider)
 
 Hai đảng chính trị chọn vị trí trên trục hệ tư tưởng tả–hữu: đảng đương nhiệm chọn trước, đảng thách thức đáp lại. Giả sử cử tri rải đều trên trục, đánh số vị trí từ 0 (cực tả) tới 100 (cực hữu). Nếu đảng đương nhiệm chọn một vị trí như 48, hơi tả hơn chính giữa, đảng thách thức sẽ đứng giữa 48 và chính giữa, chẳng hạn 49. Khi đó cử tri có quan điểm từ 48 trở xuống bầu đảng đương nhiệm, còn lại (hơn 51% dân số) bầu đảng thách thức, và đảng thách thức thắng. Nếu đảng đương nhiệm chọn trên 50, đảng thách thức sẽ đứng giữa vị trí đó và 50, và lại được hơn nửa số phiếu. Theo nguyên tắc nhìn xa và suy luận ngược, đảng đương nhiệm nhận ra lựa chọn tốt nhất là đứng đúng chính giữa.
 
-Hai tác giả lưu ý rằng, như với đường cao tốc, vị trí giữa đường gọi là "median" (dải phân cách giữa, cũng là chữ "trung vị"). Khi quan điểm cử tri không nhất thiết rải đều, đảng đương nhiệm đứng ở vị trí mà 50% cử tri ở bên trái và 50% ở bên phải. Trung vị này không nhất thiết là vị trí trung bình: trung vị được xác định bởi chỗ có số người bằng nhau ở mỗi bên, còn trung bình tính cả mỗi người đứng xa bao nhiêu. Tại trung vị, lực kéo về phía bảo thủ hơn và phía tự do hơn có số người bằng nhau, và điều tốt nhất đảng thách thức làm được là bắt chước đảng đương nhiệm. Hai đảng có lập trường giống hệt nhau, nên nếu chỉ chính sách quyết định, mỗi đảng được 50% phiếu. Người thua trong quá trình này là cử tri, những người nhận được một tiếng vọng thay vì một lựa chọn. Trên thực tế, các đảng không đứng ở cùng một lập trường cứng mà mỗi đảng nói mập mờ quanh vùng trung dung.
+Hai tác giả lưu ý rằng, như với đường cao tốc, vị trí giữa đường gọi là "median" (dải phân cách giữa, cũng là chữ "trung vị"). Khi quan điểm cử tri không nhất thiết rải đều, đảng đương nhiệm đứng ở vị trí mà 50% cử tri ở bên trái và 50% ở bên phải. Trung vị này không nhất thiết là vị trí trung bình: trung vị được xác định bởi chỗ có số người bằng nhau ở mỗi bên, còn trung bình tính cả mỗi người đứng xa bao nhiêu.
+
+Tại trung vị, lực kéo về phía bảo thủ hơn và phía tự do hơn có số người bằng nhau, và điều tốt nhất đảng thách thức làm được là bắt chước đảng đương nhiệm. Hai đảng có lập trường giống hệt nhau, nên nếu chỉ chính sách quyết định, mỗi đảng được 50% phiếu. Người thua trong quá trình này là cử tri, những người nhận được một tiếng vọng thay vì một lựa chọn. Trên thực tế, các đảng không đứng ở cùng một lập trường cứng mà mỗi đảng nói mập mờ quanh vùng trung dung.
 
 Hiện tượng này được Harold Hotelling (sách giới thiệu là nhà kinh tế Đại học Columbia) nhận ra lần đầu năm 1929. Ông chỉ ra các ví dụ tương tự trong đời sống kinh tế và xã hội: thành phố của chúng ta lớn tới mức phi kinh tế và khu thương mại bên trong quá tập trung; nhà thờ Giám lý và Trưởng lão quá giống nhau; rượu táo quá đồng nhất. Đây là nguồn gốc của tên tiểu mục.
 
 Sự giống nhau quá mức có còn nếu có ba đảng? Giả sử ba đảng lần lượt chọn và điều chỉnh vị trí, không có gánh nặng hệ tư tưởng nào ràng buộc. Một đảng ở phía ngoài sẽ nhích lại gần đảng bên cạnh để giành bớt phiếu của đảng đó. Điều này ép đảng ở giữa tới mức khi đến lượt mình, nó muốn nhảy ra ngoài cùng để có một cơ sở cử tri mới và lớn hơn. Quá trình cứ tiếp diễn, và không có cân bằng nào. Trên thực tế, các đảng có đủ gánh nặng hệ tư tưởng và cử tri có đủ lòng trung thành với đảng để ngăn những cú đổi chỗ nhanh như vậy.
 
-Trong những trường hợp khác, vị trí không cố định. Ba người cùng đón taxi ở Manhattan, bắt đầu chờ cùng lúc: người đứng xa nhất về phía bắc (uptown) sẽ bắt được chiếc taxi đầu tiên chạy xuống phía nam, người đứng xa nhất về phía nam (downtown) bắt được chiếc đầu tiên chạy lên phía bắc, còn người ở giữa bị gạt ra. Nếu người ở giữa không chịu bị cướp chỗ, anh ta sẽ dời lên hoặc xuống để chặn trước một trong hai người kia. Cho tới khi taxi đến, có thể không có cân bằng, vì không ai chịu đứng kẹt ở giữa. Đây là thêm một dạng thất bại, rất khác, của quá trình quyết định không phối hợp: nó có thể không có kết cục xác định nào. Trong tình huống như vậy, xã hội phải tìm một cách khác, có phối hợp, để đạt kết quả ổn định.
+Trong những trường hợp khác, vị trí không cố định. Ba người cùng đón taxi ở Manhattan, bắt đầu chờ cùng lúc: người đứng xa nhất về phía bắc (uptown) sẽ bắt được chiếc taxi đầu tiên chạy xuống phía nam, người đứng xa nhất về phía nam (downtown) bắt được chiếc đầu tiên chạy lên phía bắc, còn người ở giữa bị gạt ra. Nếu người ở giữa không chịu bị cướp chỗ, anh ta sẽ dời lên hoặc xuống để chặn trước một trong hai người kia. Cho tới khi taxi đến, có thể không có cân bằng, vì không ai chịu đứng kẹt ở giữa.
+
+Đây là thêm một dạng thất bại, rất khác, của quá trình quyết định không phối hợp: nó có thể không có kết cục xác định nào. Trong tình huống như vậy, xã hội phải tìm một cách khác, có phối hợp, để đạt kết quả ổn định.
 
 ### 8. Tóm tắt lại (A Recapitulation)
 
@@ -942,9 +1001,13 @@ Hai tác giả tổng kết rằng chương đã mô tả nhiều trò chơi có
 
 Điểm chung của các câu chuyện là thị trường tự do không phải lúc nào cũng đúng. Có hai vấn đề cơ bản.
 
-**Lịch sử quan trọng.** Kinh nghiệm lớn hơn với động cơ xăng, bàn phím QWERTY và lò nước nhẹ có thể khoá ta vào việc tiếp tục dùng những công nghệ kém hơn; thị trường hôm nay không nhất thiết sửa được những tai nạn lịch sử. Nhìn trước để nhận ra nguy cơ khoá chặt cho chính phủ lý do khuyến khích sự đa dạng nhiều hơn trước khi chuẩn được định. Còn nếu có vẻ đã kẹt với một chuẩn kém, chính sách công có thể dẫn dắt một cuộc chuyển đổi có phối hợp sang chuẩn khác; chuyển từ đơn vị inch và feet sang hệ mét là một ví dụ, phối hợp áp dụng giờ mùa hè là ví dụ khác. Chuẩn kém có thể là hành vi chứ không phải công nghệ: một cân bằng trong đó ai cũng gian lận thuế, ai cũng chạy quá tốc độ, hay thậm chí ai cũng đến tiệc muộn một giờ so với giờ ghi trên thiệp. Chuyển từ cân bằng này sang cân bằng tốt hơn hiệu quả nhất là bằng một chiến dịch ngắn và mạnh; mẹo là làm cho một khối lượng tới hạn người chuyển đổi, rồi hiệu ứng đám đông làm cân bằng mới tự duy trì. Ngược lại, một chút áp lực trong thời gian dài sẽ không có tác dụng tương tự.
+**Lịch sử quan trọng.** Kinh nghiệm lớn hơn với động cơ xăng, bàn phím QWERTY và lò nước nhẹ có thể khoá ta vào việc tiếp tục dùng những công nghệ kém hơn; thị trường hôm nay không nhất thiết sửa được những tai nạn lịch sử. Nhìn trước để nhận ra nguy cơ khoá chặt cho chính phủ lý do khuyến khích sự đa dạng nhiều hơn trước khi chuẩn được định. Còn nếu có vẻ đã kẹt với một chuẩn kém, chính sách công có thể dẫn dắt một cuộc chuyển đổi có phối hợp sang chuẩn khác; chuyển từ đơn vị inch và feet sang hệ mét là một ví dụ, phối hợp áp dụng giờ mùa hè là ví dụ khác.
 
-**Nhiều thứ quan trọng nằm ngoài thị trường.** Vấn đề chung khác của chủ nghĩa để mặc (laissez-faire) là rất nhiều thứ quan trọng trong đời sống diễn ra ngoài thị trường kinh tế. Những hàng hoá từ phép lịch sự thông thường tới không khí sạch thường không có giá, nên không có bàn tay vô hình nào dẫn dắt hành vi ích kỷ. Đôi khi tạo ra giá giải quyết được vấn đề, như với tắc nghẽn trên cầu Bay Bridge. Lần khác, định giá hàng hoá lại làm thay đổi bản chất của nó: máu hiến thường tốt hơn máu mua, vì những người bán máu lấy tiền nhiều khả năng có sức khoẻ kém hơn nhiều. Hai tác giả nói các thất bại phối hợp trong chương nhằm cho thấy vai trò của chính sách công, nhưng trước khi người đọc quá hăng hái, hãy xem tình huống dưới đây.
+Chuẩn kém có thể là hành vi chứ không phải công nghệ: một cân bằng trong đó ai cũng gian lận thuế, ai cũng chạy quá tốc độ, hay thậm chí ai cũng đến tiệc muộn một giờ so với giờ ghi trên thiệp. Chuyển từ cân bằng này sang cân bằng tốt hơn hiệu quả nhất là bằng một chiến dịch ngắn và mạnh; mẹo là làm cho một khối lượng tới hạn người chuyển đổi, rồi hiệu ứng đám đông làm cân bằng mới tự duy trì. Ngược lại, một chút áp lực trong thời gian dài sẽ không có tác dụng tương tự.
+
+**Nhiều thứ quan trọng nằm ngoài thị trường.** Vấn đề chung khác của chủ nghĩa để mặc (laissez-faire) là rất nhiều thứ quan trọng trong đời sống diễn ra ngoài thị trường kinh tế. Những hàng hoá từ phép lịch sự thông thường tới không khí sạch thường không có giá, nên không có bàn tay vô hình nào dẫn dắt hành vi ích kỷ.
+
+Đôi khi tạo ra giá giải quyết được vấn đề, như với tắc nghẽn trên cầu Bay Bridge. Lần khác, định giá hàng hoá lại làm thay đổi bản chất của nó: máu hiến thường tốt hơn máu mua, vì những người bán máu lấy tiền nhiều khả năng có sức khoẻ kém hơn nhiều. Hai tác giả nói các thất bại phối hợp trong chương nhằm cho thấy vai trò của chính sách công, nhưng trước khi người đọc quá hăng hái, hãy xem tình huống dưới đây.
 
 ### 9. Tình huống nghiên cứu: một đơn thuốc cho việc phân bổ nha sĩ (Case Study: A Prescription for Allocating Dentists)
 
@@ -971,7 +1034,9 @@ Giả sử có 100.000 nha sĩ mới chọn giữa thành phố và nông thôn 
 
 Ở đầu trái, khi ai cũng chọn nông thôn, thu nhập nha sĩ thành phố cao hơn nông thôn; ở đầu phải, khi ai cũng chọn thành phố, điều ngược lại xảy ra. Cân bằng lựa chọn nghề nằm ở E, nơi hai lựa chọn cho thu nhập bằng nhau. Kiểm tra: nếu chỉ 25.000 nha sĩ mới chọn thành phố, thu nhập ở thành phố cao hơn nông thôn, nên người ta dự đoán nhiều nha sĩ mới hơn sẽ chọn thành phố, đẩy phân bổ sang phải. Điều chỉnh ngược lại xảy ra nếu bắt đầu ở bên phải E, nơi nha sĩ thành phố được trả thấp hơn. Chỉ khi tới E, lựa chọn nghề năm sau mới đại thể lặp lại năm nay, và hệ thống ổn định ở cân bằng. Câu hỏi: kết quả này có tốt nhất cho xã hội?
 
-**Thảo luận của sách.** Như với người đi làm, cân bằng không tối đa hoá tổng thu nhập của nha sĩ. Nhưng xã hội quan tâm tới cả người dùng dịch vụ nha khoa, không chỉ người hành nghề. Thực tế, nếu để tự vận hành, lời giải thị trường tại E là tốt nhất cho cả xã hội. Lý do là khi thêm một người quyết định làm nha sĩ thành phố, có hai tác động phụ. Người đó làm giảm thu nhập của mọi nha sĩ khác, áp một chi phí lên các nha sĩ thành phố hiện có; nhưng việc giảm giá này là lợi ích cho người tiêu dùng. Hai tác động triệt tiêu nhau đúng bằng nhau. Khác biệt với ví dụ đi làm là không ai được lợi từ thời gian đi lại tăng thêm khi Bay Bridge tắc. Khi tác động phụ là thay đổi giá (hay thu nhập), người mua được lợi đúng bằng phần người bán mất, và tác động ròng bằng không.
+**Thảo luận của sách.** Như với người đi làm, cân bằng không tối đa hoá tổng thu nhập của nha sĩ. Nhưng xã hội quan tâm tới cả người dùng dịch vụ nha khoa, không chỉ người hành nghề. Thực tế, nếu để tự vận hành, lời giải thị trường tại E là tốt nhất cho cả xã hội.
+
+Lý do là khi thêm một người quyết định làm nha sĩ thành phố, có hai tác động phụ. Người đó làm giảm thu nhập của mọi nha sĩ khác, áp một chi phí lên các nha sĩ thành phố hiện có; nhưng việc giảm giá này là lợi ích cho người tiêu dùng. Hai tác động triệt tiêu nhau đúng bằng nhau. Khác biệt với ví dụ đi làm là không ai được lợi từ thời gian đi lại tăng thêm khi Bay Bridge tắc. Khi tác động phụ là thay đổi giá (hay thu nhập), người mua được lợi đúng bằng phần người bán mất, và tác động ròng bằng không.
 
 Từ góc độ xã hội, một nha sĩ không cần lo về việc làm giảm thu nhập của đồng nghiệp; mỗi nha sĩ nên theo đuổi nơi trả cao nhất. Khi mỗi người lựa chọn ích kỷ, ta được dẫn dắt một cách vô hình tới phân bổ đúng giữa thành phố và nông thôn, và hai nghề có thu nhập bằng nhau. (Chú thích của tác giả: hoặc, trong chừng mực sống ở thành phố đáng giá hơn sống ở nông thôn, chênh lệch đó sẽ phản ánh trong chênh lệch thu nhập.)
 
@@ -981,7 +1046,11 @@ Dĩ nhiên Hiệp hội Nha khoa Hoa Kỳ (American Dental Association) có th�
 
 Hai tác giả gợi ý thêm các tình huống ở Chương 14 cho chủ đề hợp tác và phối hợp: "Here's Mud in Your Eye", "A Burqa for Prices" và "The King Lear Problem".
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một sân bay có 1.000 tài xế xe công nghệ hoạt động giờ cao điểm. Chạy trong nội thành, mỗi tài xế kiếm ổn định 80.000 đồng/giờ (giống tàu BART: thêm người không làm giảm thu nhập, vì nhu cầu nội thành rất lớn). Xếp hàng đón khách ở sân bay thì cước chuyến dài cao, nhưng càng nhiều tài xế xếp hàng thì thời gian chờ càng lâu: giả sử thu nhập mỗi giờ ở sân bay là 150.000 đồng trừ 100 đồng cho mỗi tài xế đang xếp hàng. Mỗi tài xế chọn nơi kiếm nhiều nhất, nên số tài xế ở sân bay tăng tới khi thu nhập hai nơi bằng nhau, tức khi có 700 tài xế xếp hàng (150.000 đồng trừ đi 700 lần 100 đồng còn đúng 80.000 đồng); ai cũng kiếm 80.000 đồng/giờ, tổng 80 triệu đồng/giờ. Nếu chỉ 350 tài xế ra sân bay, mỗi người kiếm 115.000 đồng/giờ, 650 người còn lại vẫn kiếm 80.000, tổng khoảng 92,25 triệu đồng/giờ, nhiều hơn 12,25 triệu đồng mỗi giờ mà không ai thiệt. Khác với ví dụ nha sĩ, ở đây cước được ứng dụng cố định nên hành khách không được giá rẻ hơn khi có thêm tài xế; phần thu nhập mất đi là thời gian chờ vô ích trong bãi xe, đúng như thời gian kẹt xe trên Bay Bridge. Vì vậy một khoản phí vào bãi chờ (hay giới hạn số xe trong bãi) có thể làm lợi cho chính các tài xế. Nếu cước sân bay giảm khi đông tài xế, phân tích sẽ giống trường hợp nha sĩ và lý do can thiệp yếu đi nhiều.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một sân bay có 1.000 tài xế xe công nghệ hoạt động giờ cao điểm. Chạy trong nội thành, mỗi tài xế kiếm ổn định 80.000 đồng/giờ (giống tàu BART: thêm người không làm giảm thu nhập, vì nhu cầu nội thành rất lớn). Xếp hàng đón khách ở sân bay thì cước chuyến dài cao, nhưng càng nhiều tài xế xếp hàng thì thời gian chờ càng lâu: giả sử thu nhập mỗi giờ ở sân bay là 150.000 đồng trừ 100 đồng cho mỗi tài xế đang xếp hàng.
+
+Mỗi tài xế chọn nơi kiếm nhiều nhất, nên số tài xế ở sân bay tăng tới khi thu nhập hai nơi bằng nhau, tức khi có 700 tài xế xếp hàng (150.000 đồng trừ đi 700 lần 100 đồng còn đúng 80.000 đồng); ai cũng kiếm 80.000 đồng/giờ, tổng 80 triệu đồng/giờ. Nếu chỉ 350 tài xế ra sân bay, mỗi người kiếm 115.000 đồng/giờ, 650 người còn lại vẫn kiếm 80.000, tổng khoảng 92,25 triệu đồng/giờ, nhiều hơn 12,25 triệu đồng mỗi giờ mà không ai thiệt.
+
+Khác với ví dụ nha sĩ, ở đây cước được ứng dụng cố định nên hành khách không được giá rẻ hơn khi có thêm tài xế; phần thu nhập mất đi là thời gian chờ vô ích trong bãi xe, đúng như thời gian kẹt xe trên Bay Bridge. Vì vậy một khoản phí vào bãi chờ (hay giới hạn số xe trong bãi) có thể làm lợi cho chính các tài xế. Nếu cước sân bay giảm khi đông tài xế, phân tích sẽ giống trường hợp nha sĩ và lý do can thiệp yếu đi nhiều.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -1106,7 +1175,9 @@ Khi nhiều người chọn độc lập và lựa chọn của mỗi người g
 
 ### Điểm mạnh của chương là một đồ thị duy nhất giải thích được nhiều hiện tượng khác nhau
 
-Hai tác giả dùng đi dùng lại một loại đồ thị: trục ngang là tỷ lệ người chọn một phương án, trục dọc là lợi ích của mỗi phương án (hay xác suất người mới chọn nó). Chỉ cần nhìn đường cong dốc lên hay dốc xuống là biết hệ thống hội tụ về giữa (Bay Bridge, nha sĩ) hay bị đẩy ra thái cực (QWERTY, tốc độ, khu dân cư). Người đọc không cần toán mà vẫn nắm được phân biệt quan trọng giữa trò chơi mà người khác cùng làm khiến lựa chọn kém hấp dẫn đi, và trò chơi mà người khác cùng làm khiến lựa chọn hấp dẫn hơn. Đây là một công cụ dùng được ngay trong kinh doanh: một thị trường có ngoại ứng mạng (bên nào nhiều người dùng thì càng hút người dùng) sẽ có xu hướng "kẻ thắng lấy tất cả", còn một thị trường dễ bị tắc nghẽn sẽ tự cân bằng.
+Hai tác giả dùng đi dùng lại một loại đồ thị: trục ngang là tỷ lệ người chọn một phương án, trục dọc là lợi ích của mỗi phương án (hay xác suất người mới chọn nó). Chỉ cần nhìn đường cong dốc lên hay dốc xuống là biết hệ thống hội tụ về giữa (Bay Bridge, nha sĩ) hay bị đẩy ra thái cực (QWERTY, tốc độ, khu dân cư).
+
+Người đọc không cần toán mà vẫn nắm được phân biệt quan trọng giữa trò chơi mà người khác cùng làm khiến lựa chọn kém hấp dẫn đi, và trò chơi mà người khác cùng làm khiến lựa chọn hấp dẫn hơn. Đây là một công cụ dùng được ngay trong kinh doanh: một thị trường có ngoại ứng mạng (bên nào nhiều người dùng thì càng hút người dùng) sẽ có xu hướng "kẻ thắng lấy tất cả", còn một thị trường dễ bị tắc nghẽn sẽ tự cân bằng.
 
 ### Tình huống nha sĩ là một màn tự phản biện hiếm thấy và rất có giá trị
 
@@ -1114,19 +1185,27 @@ Sau hàng loạt ví dụ ủng hộ can thiệp, hai tác giả kết chương 
 
 ### Câu chuyện QWERTY bị phản biện mạnh hơn mức chương thừa nhận
 
-Hai tác giả có nhắc phản biện của Liebowitz và Margolis, nhưng vẫn dùng QWERTY làm ví dụ trung tâm cho khoá chặt. Trong giới kinh tế, bài báo "The Fable of the Keys" (1990) của hai ông lập luận rằng bằng chứng về ưu thế của Dvorak rất yếu, nhiều nghiên cứu có lợi cho Dvorak do chính người có quyền lợi thực hiện, và các thử nghiệm độc lập không thấy chênh lệch đáng kể. Nếu chênh lệch nhỏ, thị trường giữ QWERTY có thể là hợp lý chứ không phải thất bại. Tương tự, nhận định "hơi nước có thể tốt hơn" hay "lò nước nặng an toàn hơn" là những giả thuyết khó kiểm chứng. Điều này không phủ nhận khả năng khoá chặt về lý thuyết, nhưng nhắc rằng ví dụ thực tế về một công nghệ kém hẳn mà vẫn thống trị khó tìm hơn người ta tưởng.
+Hai tác giả có nhắc phản biện của Liebowitz và Margolis, nhưng vẫn dùng QWERTY làm ví dụ trung tâm cho khoá chặt. Trong giới kinh tế, bài báo "The Fable of the Keys" (1990) của hai ông lập luận rằng bằng chứng về ưu thế của Dvorak rất yếu, nhiều nghiên cứu có lợi cho Dvorak do chính người có quyền lợi thực hiện, và các thử nghiệm độc lập không thấy chênh lệch đáng kể.
+
+Nếu chênh lệch nhỏ, thị trường giữ QWERTY có thể là hợp lý chứ không phải thất bại. Tương tự, nhận định "hơi nước có thể tốt hơn" hay "lò nước nặng an toàn hơn" là những giả thuyết khó kiểm chứng. Điều này không phủ nhận khả năng khoá chặt về lý thuyết, nhưng nhắc rằng ví dụ thực tế về một công nghệ kém hẳn mà vẫn thống trị khó tìm hơn người ta tưởng.
 
 ### Mô hình lật nghiêng của Schelling là một trong những ý tưởng có ảnh hưởng nhất của chương
 
-Ý tưởng rằng sở thích cá nhân khá khoan dung vẫn có thể sinh ra phân tách toàn phần đã trở thành nền tảng của các mô hình mô phỏng dựa trên tác nhân (agent-based models) trong khoa học xã hội, và Schelling nhận giải Nobel kinh tế năm 2005 một phần nhờ những công trình như vậy. Tuy nhiên, hai tác giả có thể đã đơn giản hoá khi coi phân tách chủ yếu là kết quả của sở thích và động lực lật nghiêng. Lịch sử đô thị Mỹ cho thấy chính sách công cũng đóng vai trò lớn, như việc từ chối cho vay thế chấp ở các khu có nhiều người da đen (redlining) và các điều khoản hạn chế trong hợp đồng mua bán nhà. Chú thích của chính tác giả (sở thích về tỷ lệ chủng tộc cũng là một dạng phân biệt) cho thấy hai ông ý thức được điều này. Kinh nghiệm Oak Park cũng đáng chú ý ở chỗ chính sách có thể thành công mà không tốn tiền nếu nó thay đổi được kỳ vọng.
+Ý tưởng rằng sở thích cá nhân khá khoan dung vẫn có thể sinh ra phân tách toàn phần đã trở thành nền tảng của các mô hình mô phỏng dựa trên tác nhân (agent-based models) trong khoa học xã hội, và Schelling nhận giải Nobel kinh tế năm 2005 một phần nhờ những công trình như vậy.
+
+Tuy nhiên, hai tác giả có thể đã đơn giản hoá khi coi phân tách chủ yếu là kết quả của sở thích và động lực lật nghiêng. Lịch sử đô thị Mỹ cho thấy chính sách công cũng đóng vai trò lớn, như việc từ chối cho vay thế chấp ở các khu có nhiều người da đen (redlining) và các điều khoản hạn chế trong hợp đồng mua bán nhà. Chú thích của chính tác giả (sở thích về tỷ lệ chủng tộc cũng là một dạng phân biệt) cho thấy hai ông ý thức được điều này. Kinh nghiệm Oak Park cũng đáng chú ý ở chỗ chính sách có thể thành công mà không tốn tiền nếu nó thay đổi được kỳ vọng.
 
 ### Từ 2008, thu phí tắc nghẽn đã chuyển từ ý tưởng sách vở thành chính sách thực
 
-Nhận định của người tổng hợp (chỉ nêu định tính, không kèm số liệu): nhiều cây cầu và đường cao tốc ở Mỹ, trong đó có Bay Bridge, đã áp dụng phí khác nhau theo giờ; thu phí điện tử gần như xoá bỏ lo ngại của hai tác giả rằng trạm thu phí có thể gây tắc; New York bắt đầu thu phí vào khu trung tâm Manhattan từ đầu năm 2025 sau nhiều năm tranh cãi chính trị. Kinh nghiệm thực tế cho thấy khó khăn lớn nhất không phải kỹ thuật mà là chính trị: người lái xe thấy rõ khoản phí, còn lợi ích (đường thông, ngân sách tăng) rải rác và khó thấy. Về CAFE, tiêu chuẩn đã được nâng, nới rồi nâng lại qua các đời tổng thống, cho thấy công cụ phối hợp này nhạy cảm với chính trị. Lập luận về cuộc đua xe nặng vẫn đúng: xe SUV và xe bán tải ngày càng chiếm phần lớn thị trường xe mới ở Mỹ.
+Nhận định của người tổng hợp (chỉ nêu định tính, không kèm số liệu): nhiều cây cầu và đường cao tốc ở Mỹ, trong đó có Bay Bridge, đã áp dụng phí khác nhau theo giờ; thu phí điện tử gần như xoá bỏ lo ngại của hai tác giả rằng trạm thu phí có thể gây tắc; New York bắt đầu thu phí vào khu trung tâm Manhattan từ đầu năm 2025 sau nhiều năm tranh cãi chính trị.
+
+Kinh nghiệm thực tế cho thấy khó khăn lớn nhất không phải kỹ thuật mà là chính trị: người lái xe thấy rõ khoản phí, còn lợi ích (đường thông, ngân sách tăng) rải rác và khó thấy. Về CAFE, tiêu chuẩn đã được nâng, nới rồi nâng lại qua các đời tổng thống, cho thấy công cụ phối hợp này nhạy cảm với chính trị. Lập luận về cuộc đua xe nặng vẫn đúng: xe SUV và xe bán tải ngày càng chiếm phần lớn thị trường xe mới ở Mỹ.
 
 ### Quan điểm trái chiều: phối hợp từ trên xuống cũng có thể thất bại
 
-Các nhà kinh tế thiên về thị trường sẽ phản bác rằng chính phủ không biết trước công nghệ nào sẽ tốt cho tương lai, nên lời khuyên "khuyến khích đa dạng trước khi chuẩn được định" dễ thành chính phủ chọn sai người thắng. Thị trường cũng có công cụ phối hợp riêng: các liên minh tiêu chuẩn của doanh nghiệp, các hãng lớn trợ giá để đạt khối lượng tới hạn (như cách các nền tảng công nghệ trợ giá cho người dùng ban đầu). Mặt khác, hai tác giả có lý khi chỉ ra rằng có những thứ không có giá và không thể có giá (an toàn trên đường, thành phần khu dân cư), nơi thị trường không có cơ chế phối hợp. Ranh giới hợp lý có lẽ là: can thiệp khi có ngoại ứng thực và khi thị trường không thể tự định giá; thận trọng khi can thiệp nghĩa là chính phủ chọn công nghệ.
+Các nhà kinh tế thiên về thị trường sẽ phản bác rằng chính phủ không biết trước công nghệ nào sẽ tốt cho tương lai, nên lời khuyên "khuyến khích đa dạng trước khi chuẩn được định" dễ thành chính phủ chọn sai người thắng. Thị trường cũng có công cụ phối hợp riêng: các liên minh tiêu chuẩn của doanh nghiệp, các hãng lớn trợ giá để đạt khối lượng tới hạn (như cách các nền tảng công nghệ trợ giá cho người dùng ban đầu).
+
+Mặt khác, hai tác giả có lý khi chỉ ra rằng có những thứ không có giá và không thể có giá (an toàn trên đường, thành phần khu dân cư), nơi thị trường không có cơ chế phối hợp. Ranh giới hợp lý có lẽ là: can thiệp khi có ngoại ứng thực và khi thị trường không thể tự định giá; thận trọng khi can thiệp nghĩa là chính phủ chọn công nghệ.
 
 ### Bài học về con dốc trơn và về thất bại ở việc khó vượt ra ngoài kinh tế học
 
@@ -1138,3 +1217,144 @@ Câu chuyện Justin-Case cho thấy một quy trình nhìn có vẻ dân chủ 
 - **Trong đầu tư.** Khi đánh giá một công nghệ mới thách thức chuẩn cũ, đừng chỉ hỏi công nghệ nào tốt hơn mà hỏi chi phí chuyển đổi của người dùng và ai có thể phối hợp chuyển đổi; ưu thế kỹ thuật 5–10% như DSK thường không đủ để lật một chuẩn đã thống trị. Ngược lại, công ty nắm chuẩn thống trị có lợi thế bền nhờ khoá chặt, nhưng phải để ý các sự kiện có thể tạo khối lượng tới hạn cho đối thủ (quy định mới, khách hàng lớn chuyển đổi).
 - **Trong nghề nghiệp.** Trong môi trường đánh giá theo thứ hạng (xếp hạng nhân viên, thi tuyển), hiểu rằng phần lớn nỗ lực thêm triệt tiêu lẫn nhau; hãy đầu tư vào năng lực có giá trị tuyệt đối mang theo được, không chỉ vào thứ hạng. Khi chọn mục tiêu, nhớ rằng thất bại ở việc khó ít tổn hại danh tiếng hơn thất bại ở việc dễ, nhưng đừng để điều đó thành cớ tự cản trở bản thân. Khi tham gia đàm phán hay quyết định tập thể, đề nghị xét cả gói để tránh bị dẫn từng bước xuống con dốc trơn.
 - **Khi đọc tin chính sách.** Ở Việt Nam, các đề xuất thu phí xe vào nội đô các thành phố lớn, chiến dịch xử lý vi phạm giao thông (như nồng độ cồn) hay chuyển đổi tiêu chuẩn (nhiên liệu sinh học, thanh toán không tiền mặt) đều có thể đọc bằng khung của chương này: chính sách có định giá đúng tác động lên người khác không, có tạo được khối lượng tới hạn rồi tự duy trì không, hay chỉ là áp lực nhẹ kéo dài. Theo logic của hai tác giả, một đợt cưỡng chế ngắn mà rất nghiêm và nhất quán có thể chuyển hẳn chuẩn hành vi, còn cưỡng chế lúc chặt lúc lỏng dễ trả xã hội về cân bằng cũ. Khi một hiệp hội ngành đề xuất "phân bổ lại" người hành nghề hay hạn chế số người vào nghề vì "dư thừa", hãy nhớ tình huống nha sĩ: hỏi xem thiệt hại là thực hay chỉ là thu nhập của người trong nghề giảm vì giá rẻ hơn cho người dùng.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 9 trên một trang: sáu nhánh theo các mục của Nội dung chi tiết — cuộc đua thứ hạng (Mục 1), cầu Bay Bridge (Mục 2), khoá chặt và cân bằng ở thái cực (Mục 3–4), lật nghiêng (Mục 5), con dốc trơn và sự giống nhau quá mức (Mục 6–7), tổng kết và tình huống nha sĩ (Mục 8–9), mỗi nhánh ghi luận điểm, con số và ví dụ then chốt của hai tác giả; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 9: lựa chọn ích kỷ không phối hợp thường cho kết quả tệ cho cả nhóm, trừ khi tác động lên người khác chỉ qua giá`"]
+  n1["`Mục 1 — Cuộc đua thứ hạng là thế lưỡng nan của người tù nhiều người`"]
+  n0 --- n1
+  n2["`Ivy League thập niên 1950 tập luyện nhiều nhưng tỷ lệ thắng trung bình vẫn 50:50`"]
+  n1 --- n2
+  n3["`Các trường thoả thuận chỉ tập mùa xuân một ngày, trận đấu vẫn hấp dẫn, ai cũng khá hơn`"]
+  n1 --- n3
+  n4["`Chấm theo đường cong hình chuông: cả lớp ôn nhiều hơn mà điểm gần như không đổi`"]
+  n1 --- n4
+  n5["`Thành tích tương đối không làm trò chơi thành tổng bằng không: giảm đầu vào thì ai cũng lợi`"]
+  n1 --- n5
+  n6["`Học thêm giống khói nhà máy: không ai trả giá cho người khác, sinh ra cuộc đua chuột`"]
+  n1 --- n6
+  n7["`Cartel khó tự cưỡng chế vì khó phát hiện người lén học thêm`"]
+  n1 --- n7
+  n8["`Người ngoài cưỡng chế tốt hơn: luật cấm quảng cáo thuốc lá trên TV làm tăng lợi nhuận mọi hãng`"]
+  n1 --- n8
+  n9["`Mục 2 — Bay Bridge và BART: cân bằng phân bổ sai tỷ lệ`"]
+  n0 --- n9
+  n10["`Qua cầu 20 phút, thêm 10 phút cho mỗi 2 nghìn xe, BART luôn 40 phút`"]
+  n9 --- n10
+  n11["`Cân bằng: 4 nghìn xe qua cầu, 6 nghìn đi tàu, ai cũng mất 40 phút`"]
+  n9 --- n11
+  n12["`Chỉ 2 nghìn xe qua cầu thì tiết kiệm 20 nghìn người-phút mà không ai thiệt`"]
+  n9 --- n12
+  n13["`Mỗi xe thêm làm mọi người chậm hơn nhưng người lái không trả giá cho thiệt hại đó`"]
+  n9 --- n13
+  n14["`Ba cách đạt tối ưu: cấp phép, thu phí cao hơn vé BART 2 USD, tư nhân hoá cầu`"]
+  n9 --- n14
+  n15["`Bàn tay vô hình chỉ dẫn đúng khi thời gian đi lại có giá, chi phí thu phí có thể vượt lợi ích`"]
+  n9 --- n15
+  n16["`Mục 3–4 — Khi càng nhiều người theo càng hấp dẫn, lịch sử khoá xã hội vào một thái cực`"]
+  n0 --- n16
+  n17["`QWERTY 1873 chống kẹt phím, Dvorak giảm quãng đường ngón tay hơn 50%, gõ nhanh hơn 5–10%`"]
+  n16 --- n17
+  n18["`Liebowitz và Margolis nghi ngờ ưu thế Dvorak, nghiên cứu GSA 1956 thấy phải học lại một tháng`"]
+  n16 --- n18
+  n19["`Hiệu ứng đám đông: cân bằng ở 0%, 72% (không ổn định) và 98% QWERTY`"]
+  n16 --- n19
+  n20["`Chỉ cần một khối lượng tới hạn chuyển đổi, phần còn lại tự theo`"]
+  n16 --- n20
+  n21["`Xe xăng thắng nhờ cuộc đua 1895 và dịch lở mồm long móng 1914 xoá máng nước của xe hơi nước`"]
+  n16 --- n21
+  n22["`Lò nước nhẹ chọn cho tàu ngầm năm 1949, dù lò nước nặng Canada rẻ hơn 25% và an toàn hơn`"]
+  n16 --- n22
+  n23["`Chạy quá tốc độ: đông người vi phạm thì an toàn hơn và khó bị bắt, nên hệ thống bị đẩy ra thái cực`"]
+  n16 --- n23
+  n24["`Một đợt cưỡng chế ngắn mà rất nghiêm hiệu quả hơn áp lực nhẹ kéo dài`"]
+  n16 --- n24
+  n25["`Xe nặng kéo theo xe nặng, tiêu chuẩn CAFE 2007 (27,5 lên 35 dặm/gallon) là công cụ phối hợp`"]
+  n16 --- n25
+  n26["`Milton Friedman: ai cũng sẵn lòng góp giảm nghèo nếu người khác cũng góp`"]
+  n16 --- n26
+  n27["`Mục 5 — Lật nghiêng: sở thích khoan dung vẫn sinh ra phân tách chủng tộc`"]
+  n0 --- n27
+  n28["`Schelling: mỗi hộ tự chọn nơi ở, đa số thích khu hoà trộn ở mức nào đó`"]
+  n27 --- n28
+  n29["`Khu 70:30 là cân bằng không ổn định, một hộ đổi chỗ khởi đầu phản ứng dây chuyền`"]
+  n27 --- n29
+  n30["`Hai cân bằng ổn định là toàn da trắng và toàn da đen, quý tộc hoá là lật nghiêng theo thu nhập`"]
+  n27 --- n30
+  n31["`Thuế rời khu trái nguyên tắc tự do chọn nơi ở, nên phải giảm động cơ làm theo`"]
+  n27 --- n31
+  n32["`Oak Park cấm biển Bán nhà và bảo hiểm giá trị nhà, chặn lật nghiêng mà không tốn tiền thuế`"]
+  n27 --- n32
+  n33["`Mục 6–7 — Con dốc trơn và sự giống nhau quá mức`"]
+  n0 --- n33
+  n34["`Justin-Case: mười lần nâng ngưỡng partner, lần nào cũng thắng 9:1, cuối cùng không ai được lên`"]
+  n33 --- n34
+  n35["`Bỏ phiếu bỏ qua cường độ ưa thích: chín chiến thắng nhỏ thua một thất bại lớn`"]
+  n33 --- n35
+  n36["`Lời giải là xét cải cách theo cả gói, Quốc hội Mỹ 1989 tự tăng lương 50% thất bại theo chuỗi`"]
+  n33 --- n36
+  n37["`Nếu đằng nào cũng thất bại, hãy thất bại ở việc khó, mặt trái là tự cản trở bản thân`"]
+  n33 --- n37
+  n38["`Hotelling 1929: hai đảng cùng đứng ở trung vị, cử tri nhận tiếng vọng thay vì lựa chọn`"]
+  n33 --- n38
+  n39["`Ba đảng hay ba người đón taxi ở Manhattan: không có cân bằng nào`"]
+  n33 --- n39
+  n40["`Mục 8–9 — Tổng kết và ngoại lệ nha sĩ`"]
+  n0 --- n40
+  n41["`Thị trường tự do không phải lúc nào cũng đúng vì lịch sử quan trọng`"]
+  n40 --- n41
+  n42["`Nhiều thứ quan trọng không có giá, định giá có khi đổi bản chất, như máu hiến tốt hơn máu mua`"]
+  n40 --- n42
+  n43["`Nha sĩ thành phố giống lái xe qua cầu, nha sĩ nông thôn giống đi tàu, cân bằng 60 nghìn ở thành phố`"]
+  n40 --- n43
+  n44["`Nha sĩ mới làm đồng nghiệp mất thu nhập nhưng bệnh nhân được lợi đúng bằng chừng đó`"]
+  n40 --- n44
+  n45["`Tác động qua giá chỉ là chuyển giao, nên cân bằng thị trường tối ưu cho xã hội`"]
+  n40 --- n45
+  n46["`Quỹ của ngành nha kéo nha sĩ về nông thôn phục vụ người trong nghề, không phải xã hội`"]
+  n40 --- n46
+  n47["`Thông điệp xuyên suốt`"]
+  n0 --- n47
+  n48["`Trước khi theo đám đông, hỏi lựa chọn càng nhiều người theo thì càng tốt hay càng tệ`"]
+  n47 --- n48
+  n49["`Tác động không qua giá cần phối hợp: phí, luật, bảo hiểm, cả gói, khối lượng tới hạn`"]
+  n47 --- n49
+  n50["`Trước khi can thiệp, phân biệt thiệt hại thực với chuyển giao qua giá`"]
+  n47 --- n50
+  class n0 root
+  class n1,n9,n16,n27,n33,n40,n47 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n48,n49,n50 leaf
+```
+
+## Nguồn
+
+Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Phần III, Chương 9.
+
+## Tác giả
+
+Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Cuốn sách kế thừa *Thinking Strategically* (1991) của cùng hai tác giả.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần I xây công cụ: suy luận ngược (Chương 2), thế lưỡng nan của người tù (Chương 3) và cân bằng Nash, kể cả trò chơi có nhiều cân bằng và điểm tiêu điểm như chuyện hai người lạ hẹn gặp ở Times Square hay toà nhà Empire State (Chương 4). Phần II bàn về nước đi chiến lược và độ tin cậy. Phần III đem công cụ vào các lĩnh vực cụ thể; Chương 8 vừa bàn về thông tin (sàng lọc, phát tín hiệu, suy đoán từ hành động của người khác).
+
+Chương 9 mở rộng từ trò chơi hai người sang trò chơi **nhiều người**: khi hàng nghìn người cùng chọn một cách độc lập và ích kỷ, kết quả chung thường tệ cho chính họ. Chương này dùng lại ý suy đoán từ thông tin (câu chuyện hãng luật Justin-Case) và chuẩn bị cho Chương 12 về bầu cử (cử tri trung vị xuất hiện lần đầu ở đây).
+
+Ba tình huống nghiên cứu ở Chương 14 ("Here's Mud in Your Eye", "A Burqa for Prices", "The King Lear Problem") được hai tác giả giới thiệu là bài luyện thêm cho chủ đề này.
+
+## Lưu ý
+
+- Sách viết khoảng 2007–2008, nên các ví dụ chính sách mang dấu ấn thời đó, ví dụ luật năm 2007 nâng tiêu chuẩn tiết kiệm nhiên liệu CAFE lên 35 dặm/gallon vào năm 2020. Một số chi tiết đã thay đổi: tiêu chuẩn CAFE sau đó còn được sửa nhiều lần theo cả hai chiều; cầu Bay Bridge đã áp dụng phí cầu khác nhau giữa giờ cao điểm và thấp điểm, và thu phí điện tử đã làm giảm nhiều chi phí thu phí mà hai tác giả lo ngại; thu phí chống ùn tắc nội đô (congestion pricing) được nhiều thành phố lớn áp dụng, trong đó có New York từ đầu năm 2025.
+- Tốc độ giới hạn 55 dặm/giờ mà sách dùng làm ví dụ vốn là giới hạn toàn quốc đã bị bãi bỏ ở Mỹ từ 1995, trước khi sách ra đời; hai tác giả chỉ dùng nó để minh hoạ. QWERTY vẫn thống trị, kể cả trên bàn phím ảo của điện thoại.
+- Chương có **5 chú thích chân trang** của tác giả, đã đưa vào đúng chỗ trong phần Nội dung chi tiết (mục 2, 3, 4, 5, 9) với ghi chú "Chú thích của tác giả". Chương có **6 hình** (đồ thị), đều được dựng lại thành sơ đồ text và bảng số.
+- Một số chỗ sách viết chưa chính xác: lệnh cấm quảng cáo thuốc lá trên truyền hình Mỹ được thông qua năm 1970 và có hiệu lực từ đầu năm 1971, không phải năm 1968 như sách ghi; người thiết kế bàn phím là Christopher Latham **Sholes** (sách viết "Scholes"); tác giả luận án năm 1987 về lò phản ứng hạt nhân là Robin **Cowan** (sách viết "Cowen").
+- Sách giới thiệu Harold Hotelling là "nhà kinh tế Đại học Columbia"; người tổng hợp lưu ý thêm rằng năm 1929, khi công bố bài báo về sự tập trung ở giữa, ông đang làm việc ở Đại học Stanford và chỉ chuyển sang Columbia vài năm sau (cách giới thiệu của sách không sai, chỉ là chức danh về sau của ông).
+- Chương không có bài tập "Trip to the Gym". Các câu trích là bản dịch của người tổng hợp.

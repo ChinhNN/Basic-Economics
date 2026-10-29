@@ -1,11 +1,16 @@
 # Chương 13 — Động cơ khuyến khích (Incentives)
 
-**Nguồn:** Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Phần III, Chương 13.
-**Tác giả:** Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Sách kế thừa *Thinking Strategically* (1991) của cùng hai tác giả.
-**Vị trí trong lập luận của cả cuốn sách:** Phần III áp dụng công cụ lý thuyết trò chơi của hai phần đầu vào từng loại tình huống cụ thể: thông tin (Chương 8), hợp tác và phối hợp (Chương 9), đấu giá (Chương 10), mặc cả (Chương 11), bỏ phiếu (Chương 12). Chương 13 quay lại một vấn đề thông tin đã mở ra ở Chương 8. Chương 8 bàn về **lựa chọn ngược (adverse selection)**, tức bên kia giấu một đặc điểm có sẵn, và cách xử lý bằng sàng lọc (screening) và phát tín hiệu (signaling). Chương 13 bàn về loại thông tin ẩn thứ hai: bên kia giấu một **hành động** do chính họ chọn, cụ thể là mức cố gắng khi làm việc. Hai tác giả dùng lại hai ràng buộc đã gặp ở Chương 8 (ràng buộc tham gia và ràng buộc tương thích động cơ) để thiết kế cách trả lương. Chương kết bằng một tình huống về hợp đồng tác giả và nhà xuất bản, rồi báo trước hai tình huống về động cơ khuyến khích sẽ xuất hiện trong Chương 14 (Case Studies): "Bay Bridge" và "But One Life to Lay Down for Your Country".
-**Ý chính:** Hai tác giả muốn người đọc hiểu rằng khi không quan sát được người làm thuê cố gắng đến đâu, người thuê phải trả theo một thứ quan sát được, thường là kết quả công việc. Nhưng kết quả còn phụ thuộc may rủi, nên cách trả lương tốt phải cân bằng hai yêu cầu: **mức trả trung bình** đủ cao để người ta nhận việc, và **chênh lệch giữa lúc kết quả tốt và lúc kết quả xấu** đủ lớn để người ta cố gắng. Ví dụ mở đầu là chính Dixit thuê một sinh viên đọc bản in thử cuốn sách 600 trang: trả cố định 600 USD cộng 1 USD cho mỗi lỗi tìm được. Ví dụ trung tâm là công ty phần mềm cờ vua "Wizard 1.0": nếu được phạt tiền khi thất bại thì thưởng 100.000 USD khi thành công là đủ để thay thế hoàn toàn việc giám sát; nếu không được phạt hoặc người lao động sợ rủi ro thì việc không quan sát được cố gắng bắt đầu gây tốn kém. Giữa hai ví dụ, hai tác giả đi qua tám khía cạnh của cơ chế khuyến khích: sự nghiệp dài hạn, quan hệ lặp lại, tiền lương hiệu quả, nhiều nhiệm vụ, cạnh tranh giữa người lao động, động lực tự thân, tổ chức nhiều cấp và nhiều ông chủ.
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2007–2008, trước khủng hoảng tài chính toàn cầu. Các nhận xét về lương CEO, về Cơ quan Quản lý Sân bay Anh (BAA) và về Bộ An ninh Nội địa Mỹ phản ánh thời điểm đó. Một số chi tiết đã thay đổi: BAA sau đó bị cơ quan cạnh tranh của Anh buộc bán sân bay Gatwick rồi Stansted, nên các sân bay London nay thuộc những chủ sở hữu khác nhau và cạnh tranh với nhau, đúng như hai tác giả đề nghị; sau năm 2008, nhiều nước siết quy định về lương thưởng lãnh đạo doanh nghiệp (cổ đông biểu quyết về lương, điều khoản thu hồi thưởng). Sách viết sai tên sân bay Stansted thành "Stanstead". Chương có năm chú thích chân trang của tác giả có nội dung, đã đưa vào đúng chỗ trong phần Nội dung chi tiết (mục 2, mục 6 và mục 7), ghi "Chú thích của tác giả". Chương có hai bài tập "Trip to the Gym" (số 9 và số 10); đáp án của sách đã đưa vào ngay sau đề bài. Các câu trích là bản dịch của người tổng hợp.
+Hai tác giả muốn người đọc hiểu rằng khi không quan sát được người làm thuê cố gắng đến đâu, người thuê phải trả theo một thứ quan sát được, thường là kết quả công việc.
+
+Nhưng kết quả còn phụ thuộc may rủi, nên cách trả lương tốt phải cân bằng hai yêu cầu: **mức trả trung bình** đủ cao để người ta nhận việc, và **chênh lệch giữa lúc kết quả tốt và lúc kết quả xấu** đủ lớn để người ta cố gắng.
+
+Ví dụ mở đầu là chính Dixit thuê một sinh viên đọc bản in thử cuốn sách 600 trang: trả cố định 600 USD cộng 1 USD cho mỗi lỗi tìm được.
+
+Ví dụ trung tâm là công ty phần mềm cờ vua "Wizard 1.0": nếu được phạt tiền khi thất bại thì thưởng 100.000 USD khi thành công là đủ để thay thế hoàn toàn việc giám sát; nếu không được phạt hoặc người lao động sợ rủi ro thì việc không quan sát được cố gắng bắt đầu gây tốn kém.
+
+Giữa hai ví dụ, hai tác giả đi qua tám khía cạnh của cơ chế khuyến khích: sự nghiệp dài hạn, quan hệ lặp lại, tiền lương hiệu quả, nhiều nhiệm vụ, cạnh tranh giữa người lao động, động lực tự thân, tổ chức nhiều cấp và nhiều ông chủ.
 
 ## Sơ đồ
 
@@ -566,19 +571,25 @@
 
 ### 1. Mở đầu: vì sao kinh tế kế hoạch thất bại và thị trường cũng chưa đủ
 
-Hai tác giả mở chương bằng câu hỏi vì sao các hệ thống kinh tế xã hội chủ nghĩa kiểu Liên Xô thất bại nặng nề. Họ mượn chữ "gang agley" trong một câu thơ (người tổng hợp chú thích: thơ của Robert Burns, ý là các kế hoạch được tính toán kỹ nhất vẫn thường đổ vỡ) để nói về các kế hoạch 5 năm của Stalin và những người kế nhiệm, và cho rằng nguyên nhân là công nhân cũng như giám đốc thiếu động cơ khuyến khích. Hệ thống không thưởng cho việc làm tốt thay vì làm vừa đủ; không ai có lý do để chủ động hay đổi mới, còn ai cũng có lý do để làm ẩu, chẳng hạn đạt chỉ tiêu số lượng mà bỏ mặc chất lượng. Câu đùa thời Liên Xô tóm tắt điều đó: họ chỉ giả vờ trả lương cho chúng tôi, nên chúng tôi chỉ giả vờ làm việc.
+Hai tác giả mở chương bằng câu hỏi vì sao các hệ thống kinh tế xã hội chủ nghĩa kiểu Liên Xô thất bại nặng nề. Họ mượn chữ "gang agley" trong một câu thơ (người tổng hợp chú thích: thơ của Robert Burns, ý là các kế hoạch được tính toán kỹ nhất vẫn thường đổ vỡ) để nói về các kế hoạch 5 năm của Stalin và những người kế nhiệm, và cho rằng nguyên nhân là công nhân cũng như giám đốc thiếu động cơ khuyến khích.
+
+Hệ thống không thưởng cho việc làm tốt thay vì làm vừa đủ; không ai có lý do để chủ động hay đổi mới, còn ai cũng có lý do để làm ẩu, chẳng hạn đạt chỉ tiêu số lượng mà bỏ mặc chất lượng. Câu đùa thời Liên Xô tóm tắt điều đó: họ chỉ giả vờ trả lương cho chúng tôi, nên chúng tôi chỉ giả vờ làm việc.
 
 Kinh tế thị trường có cơ chế khuyến khích tự nhiên tốt hơn là động cơ lợi nhuận: công ty giảm được chi phí hay tung ra sản phẩm mới thì lãi nhiều hơn, công ty tụt lại thì lỗ. Nhưng cơ chế này cũng không hoàn hảo. Từng nhân viên, từng giám đốc bên trong công ty không trực tiếp chịu "cơn gió lạnh" của cạnh tranh thị trường, nên ban lãnh đạo phải tự thiết kế cà rốt và cây gậy nội bộ để có được kết quả mong muốn từ cấp dưới. Khi hai công ty liên kết làm một dự án, họ còn phải viết một hợp đồng chia động cơ khuyến khích giữa hai bên cho đúng. Phần còn lại của chương dựng dần các thành phần của một cơ chế khuyến khích tốt qua một chuỗi ví dụ.
 
 ### 2. Động cơ khuyến khích để người làm thuê cố gắng (Incentives for Effort)
 
-**Ví dụ đọc bản in thử.** Trong các bước viết sách, việc sửa bản in thử của nhà in có lẽ là việc tẻ nhạt nhất với tác giả. Nhà in sắp chữ từ bản thảo cuối; ngày nay việc này làm bằng máy nên ít lỗi, nhưng vẫn có thể có những lỗi lạ như mất chữ, mất dòng, đoạn văn bị dời sai chỗ, ngắt dòng và ngắt trang xấu. Đây cũng là cơ hội cuối để tác giả sửa lỗi viết hay thậm chí lỗi lập luận. Tác giả phải đọc bản của nhà in song song với bản thảo, đánh dấu mọi lỗi cho thợ sắp chữ sửa. Vì đã đọc văn bản không biết bao nhiêu lần, mắt tác giả dễ "trơ" và bỏ sót lỗi, nên tốt hơn là thuê người khác đọc, với hai tác giả thường là một sinh viên. Sinh viên giỏi không chỉ bắt được lỗi chính tả, lỗi sắp chữ mà còn báo được những lỗi viết và lỗi lập luận quan trọng hơn.
+**Ví dụ đọc bản in thử.** Trong các bước viết sách, việc sửa bản in thử của nhà in có lẽ là việc tẻ nhạt nhất với tác giả. Nhà in sắp chữ từ bản thảo cuối; ngày nay việc này làm bằng máy nên ít lỗi, nhưng vẫn có thể có những lỗi lạ như mất chữ, mất dòng, đoạn văn bị dời sai chỗ, ngắt dòng và ngắt trang xấu. Đây cũng là cơ hội cuối để tác giả sửa lỗi viết hay thậm chí lỗi lập luận.
+
+Tác giả phải đọc bản của nhà in song song với bản thảo, đánh dấu mọi lỗi cho thợ sắp chữ sửa. Vì đã đọc văn bản không biết bao nhiêu lần, mắt tác giả dễ "trơ" và bỏ sót lỗi, nên tốt hơn là thuê người khác đọc, với hai tác giả thường là một sinh viên. Sinh viên giỏi không chỉ bắt được lỗi chính tả, lỗi sắp chữ mà còn báo được những lỗi viết và lỗi lập luận quan trọng hơn.
 
 Nhưng thuê sinh viên lại sinh ra vấn đề mới. Tác giả có động cơ tự nhiên để sách không có lỗi; sinh viên thì ít động cơ hơn. Cách duy nhất để tác giả biết sinh viên có làm hoàn hảo hay không là tự mình kiểm tra hoàn hảo, và như vậy thì thuê sinh viên chẳng còn ý nghĩa gì. Cố gắng của sinh viên không quan sát được: sinh viên mang tài liệu về, một tuần sau quay lại với danh sách lỗi. Tệ hơn, ngay cả kết quả cũng không quan sát được ngay; tác giả chỉ biết lỗi nào bị bỏ sót khi một độc giả khác phát hiện và báo lại, có khi sau nhiều tháng hay nhiều năm.
 
 Vì vậy sinh viên có cám dỗ lười: giữ tài liệu vài ngày rồi báo không có lỗi nào. Trả một khoản cố định cho cả việc là không ổn. Nhưng nếu trả theo sản phẩm (mỗi lỗi tìm được một khoản), sinh viên lại lo rằng thợ sắp chữ đã làm hoàn hảo, khi đó mình bỏ ra một tuần hoặc hơn mà cuối cùng không được đồng nào, nên sẽ ngại nhận việc.
 
-**Rủi ro đạo đức.** Đây là một vấn đề bất cân xứng thông tin, nhưng khác những vấn đề ở Chương 8. Người thiếu thông tin là tác giả: tác giả không quan sát được cố gắng của sinh viên. Điều bị giấu không phải một đặc điểm bẩm sinh của sinh viên mà là lựa chọn có chủ ý của sinh viên, nên đây không phải lựa chọn ngược. Nó giống chuyện chủ nhà đã mua bảo hiểm thì có thể ít cẩn thận khoá hết cửa ra vào và cửa sổ. Các hãng bảo hiểm coi hành vi đó gần như vô đạo đức và đặt ra thuật ngữ "rủi ro đạo đức" (moral hazard) để gọi nó. Nhà kinh tế và nhà lý thuyết trò chơi thoải mái hơn: họ coi việc người ta phản ứng theo lợi ích của chính mình trước các động cơ khuyến khích là hoàn toàn tự nhiên. Nếu lười mà không bị gì thì người ta sẽ lười; người chơi duy lý thì còn làm gì khác? Trách nhiệm thiết kế cơ chế khuyến khích tốt hơn thuộc về người chơi bên kia.
+**Rủi ro đạo đức.** Đây là một vấn đề bất cân xứng thông tin, nhưng khác những vấn đề ở Chương 8. Người thiếu thông tin là tác giả: tác giả không quan sát được cố gắng của sinh viên. Điều bị giấu không phải một đặc điểm bẩm sinh của sinh viên mà là lựa chọn có chủ ý của sinh viên, nên đây không phải lựa chọn ngược. Nó giống chuyện chủ nhà đã mua bảo hiểm thì có thể ít cẩn thận khoá hết cửa ra vào và cửa sổ.
+
+Các hãng bảo hiểm coi hành vi đó gần như vô đạo đức và đặt ra thuật ngữ "rủi ro đạo đức" (moral hazard) để gọi nó. Nhà kinh tế và nhà lý thuyết trò chơi thoải mái hơn: họ coi việc người ta phản ứng theo lợi ích của chính mình trước các động cơ khuyến khích là hoàn toàn tự nhiên. Nếu lười mà không bị gì thì người ta sẽ lười; người chơi duy lý thì còn làm gì khác? Trách nhiệm thiết kế cơ chế khuyến khích tốt hơn thuộc về người chơi bên kia.
 
 > **Chú thích của tác giả:** Lựa chọn ngược cũng có thể tồn tại: sinh viên chịu làm với mức lương giáo sư đưa ra có thể là người chất lượng quá thấp để nhận được lời mời tốt hơn ở nơi khác. Nhưng giáo sư có những cách khác để biết chất lượng của sinh viên: kết quả học tập của sinh viên trong các môn giáo sư dạy, thư giới thiệu của đồng nghiệp, và những nguồn tương tự.
 
@@ -603,7 +614,9 @@ Ví dụ này minh hoạ ý tưởng kết hợp hai cực và cách nó vận h
 
 > **Chú thích của tác giả:** Có lẽ tốt hơn là trả 2 USD mỗi lỗi tìm được nhưng trừ 10 USD cho mỗi lỗi bị bỏ sót. Vì lỗi bị bỏ sót chỉ lộ ra dần theo thời gian, cách này đòi hỏi giữ lại một phần tiền thanh toán trong tài khoản ký quỹ, có thể phức tạp hơn mức đáng làm: khi nào thì giải ngân ký quỹ? Có mức trừ tối đa không? Sự đơn giản là ràng buộc thứ ba của cơ chế khuyến khích: người được khuyến khích phải hiểu hệ thống vận hành ra sao.
 
-Cùng nguyên tắc xuất hiện ở nhiều nghề và nhiều hợp đồng. Trả lương cho người thiết kế phần mềm hay người viết quảng cáo thế nào, khi khó theo dõi giờ làm của họ? Thời gian chơi bi lắc, lướt web hay vẽ nguệch ngoạc là một phần của quá trình sáng tạo hay chỉ là lười? Quan trọng hơn, đo mức chăm chỉ của họ còn khó hơn. Câu trả lời là gắn một phần thu nhập với thành công của dự án và của công ty, qua cổ phiếu hay quyền chọn cổ phiếu: lương cơ bản cộng thưởng gắn với kết quả. Điều này càng đúng với lãnh đạo cấp cao. Các cơ chế này có thể bị thao túng như mọi thứ khác, nhưng nguyên tắc chung đằng sau chúng vẫn đúng. Nhà lý thuyết trò chơi, nhà kinh tế, nhà phân tích kinh doanh, nhà tâm lý học và nhiều người khác đã nghiên cứu nhiều mở rộng của nguyên tắc này; hai tác giả giới thiệu một phần trong đó.
+Cùng nguyên tắc xuất hiện ở nhiều nghề và nhiều hợp đồng. Trả lương cho người thiết kế phần mềm hay người viết quảng cáo thế nào, khi khó theo dõi giờ làm của họ? Thời gian chơi bi lắc, lướt web hay vẽ nguệch ngoạc là một phần của quá trình sáng tạo hay chỉ là lười? Quan trọng hơn, đo mức chăm chỉ của họ còn khó hơn.
+
+Câu trả lời là gắn một phần thu nhập với thành công của dự án và của công ty, qua cổ phiếu hay quyền chọn cổ phiếu: lương cơ bản cộng thưởng gắn với kết quả. Điều này càng đúng với lãnh đạo cấp cao. Các cơ chế này có thể bị thao túng như mọi thứ khác, nhưng nguyên tắc chung đằng sau chúng vẫn đúng. Nhà lý thuyết trò chơi, nhà kinh tế, nhà phân tích kinh doanh, nhà tâm lý học và nhiều người khác đã nghiên cứu nhiều mở rộng của nguyên tắc này; hai tác giả giới thiệu một phần trong đó.
 
 ### 3. Cách viết hợp đồng khuyến khích (How to Write an Incentive Contract)
 
@@ -623,7 +636,11 @@ Chẳng hạn chỉ tiêu cả năm không quá cao, nhưng nhân viên gặp xu
 
 **Bài tập "Trip to the Gym" số 9.** Hoa hồng môi giới nhà đất điển hình là 6%, một khuyến khích tuyến tính. Người môi giới của bạn có bao nhiêu động cơ để bán được giá cao hơn? Bán thêm được 20.000 USD thì họ được thêm bao nhiêu (gợi ý: không phải 1.200 USD)? Bạn sẽ thiết kế cơ chế tốt hơn thế nào, và cơ chế thay thế đó có vấn đề gì?
 
-*Đáp án của sách (phần Workouts):* Nếu nhà bán được 250.000 USD, hoa hồng là 15.000 USD, thường chia đôi giữa môi giới bên bán và môi giới bên mua. Vấn đề là cấu trúc này tạo động cơ yếu: khi người môi giới cố gắng và bán thêm được 20.000 USD, phần hoa hồng thêm sau khi chia đôi chỉ còn 600 USD; tệ hơn, người môi giới thường phải chia hoa hồng với công ty môi giới, chỉ còn 300 USD. Khoản đó hầu như không đáng để cố thêm, nên người môi giới có động cơ chốt giao dịch nhanh hơn là tìm giá tốt nhất. Có thể dùng cơ chế phi tuyến: 2,5% cho 200.000 USD đầu tiên và 20% cho mọi phần vượt trên mức đó. Nếu giá bán 250.000 USD, hoa hồng vẫn là 15.000 USD; nhưng nếu người môi giới thật sự bán được 270.000 USD, hoa hồng tăng thêm 2.000 USD ngay cả sau khi chia. Vấn đề là đặt ngưỡng ở đâu. Nếu chủ nhà nghĩ nhà bán được 300.000 USD, họ muốn ngưỡng gần 250.000 USD; người môi giới thì thận trọng hơn, cho rằng giá thị trường là 250.000 USD, nên muốn mức hoa hồng cao bắt đầu từ 200.000 USD. Điều này tạo xung đột nghiêm trọng giữa chủ nhà và người môi giới ngay từ đầu quan hệ.
+*Đáp án của sách (phần Workouts):* Nếu nhà bán được 250.000 USD, hoa hồng là 15.000 USD, thường chia đôi giữa môi giới bên bán và môi giới bên mua. Vấn đề là cấu trúc này tạo động cơ yếu: khi người môi giới cố gắng và bán thêm được 20.000 USD, phần hoa hồng thêm sau khi chia đôi chỉ còn 600 USD; tệ hơn, người môi giới thường phải chia hoa hồng với công ty môi giới, chỉ còn 300 USD. Khoản đó hầu như không đáng để cố thêm, nên người môi giới có động cơ chốt giao dịch nhanh hơn là tìm giá tốt nhất.
+
+Có thể dùng cơ chế phi tuyến: 2,5% cho 200.000 USD đầu tiên và 20% cho mọi phần vượt trên mức đó. Nếu giá bán 250.000 USD, hoa hồng vẫn là 15.000 USD; nhưng nếu người môi giới thật sự bán được 270.000 USD, hoa hồng tăng thêm 2.000 USD ngay cả sau khi chia.
+
+Vấn đề là đặt ngưỡng ở đâu. Nếu chủ nhà nghĩ nhà bán được 300.000 USD, họ muốn ngưỡng gần 250.000 USD; người môi giới thì thận trọng hơn, cho rằng giá thị trường là 250.000 USD, nên muốn mức hoa hồng cao bắt đầu từ 200.000 USD. Điều này tạo xung đột nghiêm trọng giữa chủ nhà và người môi giới ngay từ đầu quan hệ.
 
 | Giá bán | Hoa hồng 6% (tổng) | Hoa hồng theo cơ chế 2,5% + 20% (tổng) |
 |---|---|---|
@@ -651,15 +668,27 @@ Ngay cả khi giữ nguyên chênh lệch, cơ chế vẫn có thể thiết k�
 
 Hai cơ chế tạo cảm giác rất khác nhau, nhưng chênh lệch và mức trung bình như nhau.
 
-Mức trung bình do ràng buộc tham gia quyết định, tức do thu nhập người lao động có thể kiếm ở những cơ hội khác. Chủ muốn trả thấp để tăng lợi nhuận của mình; chủ có thể cố tình tìm người có ít lựa chọn, nhưng người chịu nhận mức trả trung bình thấp có thể là người kém tay nghề, và vấn đề lựa chọn ngược lại xuất hiện. Có trường hợp chủ có chiến lược chủ động thu hẹp lựa chọn của người lao động. Đó chính là điều Stalin làm: nhà nước Xô viết trả lương thấp ngay cả khi người lao động làm tốt, còn nếu làm không tốt thì bị đày đi Siberia; người lao động không thể rời đất nước, không có cơ hội bên ngoài. Về lý thuyết, đây có thể là một cơ chế tốt theo nghĩa vừa tạo động cơ mạnh vừa rẻ. Nhưng nó thất bại vì hình phạt không gắn chặt với cố gắng: người ta thấy mình có thể bị tố giác và trừng phạt gần như dễ dàng như nhau dù chăm hay lười, nên rốt cuộc không có động cơ làm chăm. May mắn là chủ tư nhân, và cả nhà nước trong các nền dân chủ hiện đại, không có quyền lực tuỳ tiện để thu hẹp cơ hội bên ngoài của người lao động.
+Mức trung bình do ràng buộc tham gia quyết định, tức do thu nhập người lao động có thể kiếm ở những cơ hội khác. Chủ muốn trả thấp để tăng lợi nhuận của mình; chủ có thể cố tình tìm người có ít lựa chọn, nhưng người chịu nhận mức trả trung bình thấp có thể là người kém tay nghề, và vấn đề lựa chọn ngược lại xuất hiện.
 
-**Lương CEO.** Nhìn lương CEO theo khung này: CEO nhận những khoản khổng lồ làm phần thưởng nếu công ty làm tốt trong nhiệm kỳ của họ, nhận khoản chỉ kém khổng lồ một chút nếu công ty làm bình thường, và nhận "chiếc dù vàng" (golden parachute, khoản bồi thường lớn khi rời chức) nếu công ty thất bại. Trung bình của các khoản lớn này, tính theo xác suất các kết quả, hẳn vượt xa mức thật sự cần để họ nhận việc; theo thuật ngữ lý thuyết, ràng buộc tham gia của họ bị thoả mãn quá mức. Lý do là cạnh tranh giành ứng viên CEO. So với lái taxi hay về hưu sớm chơi golf, mức lương đó cao hơn nhiều so với mức cần để giữ họ làm việc. Nhưng nếu một công ty khác sẵn sàng bảo đảm 10 triệu USD bất kể chuyện gì xảy ra, ràng buộc tham gia với công ty bạn không còn được so với lái taxi hay chơi golf mà so với gói 10 triệu USD ở nơi khác. Ở châu Âu, nơi lương CEO nhìn chung thấp hơn nhiều, các công ty vẫn thuê và tạo động lực được cho CEO: mức lương thấp hơn vẫn hơn chơi golf, và vì nhiều ứng viên không muốn chuyển gia đình sang Mỹ, mốc so sánh liên quan là các công ty châu Âu khác.
+Có trường hợp chủ có chiến lược chủ động thu hẹp lựa chọn của người lao động. Đó chính là điều Stalin làm: nhà nước Xô viết trả lương thấp ngay cả khi người lao động làm tốt, còn nếu làm không tốt thì bị đày đi Siberia; người lao động không thể rời đất nước, không có cơ hội bên ngoài.
+
+Về lý thuyết, đây có thể là một cơ chế tốt theo nghĩa vừa tạo động cơ mạnh vừa rẻ. Nhưng nó thất bại vì hình phạt không gắn chặt với cố gắng: người ta thấy mình có thể bị tố giác và trừng phạt gần như dễ dàng như nhau dù chăm hay lười, nên rốt cuộc không có động cơ làm chăm. May mắn là chủ tư nhân, và cả nhà nước trong các nền dân chủ hiện đại, không có quyền lực tuỳ tiện để thu hẹp cơ hội bên ngoài của người lao động.
+
+**Lương CEO.** Nhìn lương CEO theo khung này: CEO nhận những khoản khổng lồ làm phần thưởng nếu công ty làm tốt trong nhiệm kỳ của họ, nhận khoản chỉ kém khổng lồ một chút nếu công ty làm bình thường, và nhận "chiếc dù vàng" (golden parachute, khoản bồi thường lớn khi rời chức) nếu công ty thất bại. Trung bình của các khoản lớn này, tính theo xác suất các kết quả, hẳn vượt xa mức thật sự cần để họ nhận việc; theo thuật ngữ lý thuyết, ràng buộc tham gia của họ bị thoả mãn quá mức.
+
+Lý do là cạnh tranh giành ứng viên CEO. So với lái taxi hay về hưu sớm chơi golf, mức lương đó cao hơn nhiều so với mức cần để giữ họ làm việc. Nhưng nếu một công ty khác sẵn sàng bảo đảm 10 triệu USD bất kể chuyện gì xảy ra, ràng buộc tham gia với công ty bạn không còn được so với lái taxi hay chơi golf mà so với gói 10 triệu USD ở nơi khác.
+
+Ở châu Âu, nơi lương CEO nhìn chung thấp hơn nhiều, các công ty vẫn thuê và tạo động lực được cho CEO: mức lương thấp hơn vẫn hơn chơi golf, và vì nhiều ứng viên không muốn chuyển gia đình sang Mỹ, mốc so sánh liên quan là các công ty châu Âu khác.
 
 ### 6. Các chiều của cơ chế khuyến khích (The Many Dimensions of Incentive Payment Schemes)
 
 Đến đây hai tác giả mới xét một nhiệm vụ duy nhất, như đọc bản in thử hay bán một sản phẩm. Trên thực tế, mỗi bối cảnh dùng cơ chế khuyến khích có nhiều chiều: nhiều nhiệm vụ, nhiều người lao động (kể cả nhiều người làm cùng lúc những việc giống hoặc tương tự nhau), và nhiều năm mới biết hết kết quả. Cơ chế khuyến khích phải tính tới tương tác giữa các chiều này. Phân tích khá khó, nhưng có một số ý đơn giản.
 
-**Mối quan tâm sự nghiệp (Career Concerns).** Khi công việc dự kiến kéo dài nhiều năm, những năm đầu người lao động có thể được thúc đẩy không phải bằng tiền mặt hay cổ phiếu trước mắt mà bằng triển vọng tăng lương và thăng chức sau này, tức các động cơ trải dài suốt sự nghiệp. Yếu tố này mạnh hơn với người còn gắn bó lâu với công ty; kém tác dụng với người sắp về hưu, và không mấy tác dụng với người trẻ mới vào thị trường lao động còn định chuyển chỗ, đổi việc vài lần trước khi ổn định. Khuyến khích bằng thăng chức hữu ích nhất với nhân viên trẻ ở cấp thấp và trung. Ví dụ từ kinh nghiệm của hai tác giả: giáo sư trợ lý (assistant professor, ngạch thấp nhất của giảng viên đại học Mỹ, chưa có biên chế) được thúc đẩy nghiên cứu bởi triển vọng được biên chế suốt đời (tenure) và thăng hạng nhiều hơn là bởi tăng lương trong cùng ngạch. Với sinh viên đọc bản in thử, có thể có quan hệ dài hạn hơn vì giáo sư đang hướng dẫn nghiên cứu của sinh viên, hoặc sinh viên sẽ cần thư giới thiệu của giáo sư cho những công việc cần kỹ năng tương tự. Mối quan tâm sự nghiệp làm tiền mặt trước mắt bớt quan trọng: sinh viên sẽ làm tốt vì những phần thưởng ngầm trong tương lai (giáo sư quan tâm hơn tới nghiên cứu của mình, thư giới thiệu tốt hơn). Giáo sư thậm chí không cần nói ra; ai trong môi trường đó cũng hiểu trò chơi lớn hơn đang diễn ra.
+**Mối quan tâm sự nghiệp (Career Concerns).** Khi công việc dự kiến kéo dài nhiều năm, những năm đầu người lao động có thể được thúc đẩy không phải bằng tiền mặt hay cổ phiếu trước mắt mà bằng triển vọng tăng lương và thăng chức sau này, tức các động cơ trải dài suốt sự nghiệp. Yếu tố này mạnh hơn với người còn gắn bó lâu với công ty; kém tác dụng với người sắp về hưu, và không mấy tác dụng với người trẻ mới vào thị trường lao động còn định chuyển chỗ, đổi việc vài lần trước khi ổn định. Khuyến khích bằng thăng chức hữu ích nhất với nhân viên trẻ ở cấp thấp và trung.
+
+Ví dụ từ kinh nghiệm của hai tác giả: giáo sư trợ lý (assistant professor, ngạch thấp nhất của giảng viên đại học Mỹ, chưa có biên chế) được thúc đẩy nghiên cứu bởi triển vọng được biên chế suốt đời (tenure) và thăng hạng nhiều hơn là bởi tăng lương trong cùng ngạch.
+
+Với sinh viên đọc bản in thử, có thể có quan hệ dài hạn hơn vì giáo sư đang hướng dẫn nghiên cứu của sinh viên, hoặc sinh viên sẽ cần thư giới thiệu của giáo sư cho những công việc cần kỹ năng tương tự. Mối quan tâm sự nghiệp làm tiền mặt trước mắt bớt quan trọng: sinh viên sẽ làm tốt vì những phần thưởng ngầm trong tương lai (giáo sư quan tâm hơn tới nghiên cứu của mình, thư giới thiệu tốt hơn). Giáo sư thậm chí không cần nói ra; ai trong môi trường đó cũng hiểu trò chơi lớn hơn đang diễn ra.
 
 **Quan hệ lặp lại (Repeated Relationships).** Trong công việc kéo dài, cùng một người làm những việc tương tự nhiều lần. Mỗi lần có yếu tố may rủi khiến kết quả phản ánh sai cố gắng, nên khuyến khích không thể hoàn hảo. Nhưng nếu may rủi ở các lần độc lập với nhau thì theo luật số lớn, kết quả trung bình đo cố gắng trung bình chính xác hơn, nên có thể dùng khuyến khích mạnh hơn. Chủ có thể tin câu chuyện xui xẻo một lần; lời kêu xui xẻo kéo dài thì khó tin hơn.
 
@@ -683,23 +712,37 @@ Nguyên tắc này xuất hiện trong đời thường. Nếu bạn thường x
 
 > **Chú thích của tác giả:** Để hoàn chỉnh phép so sánh, hãy hình dung người thợ có thể "bịa" ra một hỏng hóc để kiếm thêm 1.000 USD lợi nhuận, với lãi suất 10% thì tương đương thêm 100 USD mỗi năm. Tuy nhiên có 25% khả năng bạn phát hiện, và khi đó bạn sẽ không bao giờ quay lại xưởng này. Nếu việc làm ăn của bạn sau này mang lại cho người thợ hơn 400 USD lợi nhuận mỗi năm, người thợ sẽ chọn làm ăn tử tế thay vì mạo hiểm mất khách và mất phần lợi nhuận đi kèm.
 
-**Nhiều nhiệm vụ (Multiple Tasks).** Người lao động thường làm nhiều việc; ví dụ gần gũi với hai tác giả là giáo sư vừa dạy vừa nghiên cứu. Khi đó khuyến khích cho từng việc tương tác với nhau, và tác động tổng thể phụ thuộc các việc là thay thế hay bổ sung. Hai việc là thay thế nếu khi người lao động dồn thêm cố gắng vào việc này thì năng suất ròng của cố gắng cho việc kia giảm; là bổ sung nếu cố gắng thêm cho việc này làm tăng năng suất ròng của cố gắng cho việc kia. Người làm thuê ở trang trại vừa làm đồng ngô vừa làm ở trại bò sữa: càng làm ngô nhiều càng mệt, mỗi giờ ở trại bò càng kém năng suất. Ngược lại, người vừa chăm tổ ong vừa chăm vườn táo: càng cố gắng nuôi ong, cố gắng trồng táo càng năng suất.
+**Nhiều nhiệm vụ (Multiple Tasks).** Người lao động thường làm nhiều việc; ví dụ gần gũi với hai tác giả là giáo sư vừa dạy vừa nghiên cứu. Khi đó khuyến khích cho từng việc tương tác với nhau, và tác động tổng thể phụ thuộc các việc là thay thế hay bổ sung. Hai việc là thay thế nếu khi người lao động dồn thêm cố gắng vào việc này thì năng suất ròng của cố gắng cho việc kia giảm; là bổ sung nếu cố gắng thêm cho việc này làm tăng năng suất ròng của cố gắng cho việc kia.
+
+Người làm thuê ở trang trại vừa làm đồng ngô vừa làm ở trại bò sữa: càng làm ngô nhiều càng mệt, mỗi giờ ở trại bò càng kém năng suất. Ngược lại, người vừa chăm tổ ong vừa chăm vườn táo: càng cố gắng nuôi ong, cố gắng trồng táo càng năng suất.
 
 Khi các việc thay thế nhau, khuyến khích mạnh cho từng việc làm hại kết quả của việc kia, nên cả hai khuyến khích phải giữ yếu hơn mức người ta nghĩ nếu xét riêng từng việc. Khi các việc bổ sung nhau, khuyến khích làm tốt việc này giúp kết quả việc kia, nên chủ có thể cho cả hai khuyến khích mạnh để tận dụng sức cộng hưởng mà không phải lo tương tác bất lợi.
 
 Điều này có hàm ý cho thiết kế tổ chức. Trong chừng mực có thể, hãy giao việc sao cho mỗi người đảm nhận một nhóm việc bổ sung nhau. Tương tự, một doanh nghiệp lớn nên chia thành các bộ phận, mỗi bộ phận phụ trách một nhóm việc bổ sung nhau, còn các việc thay thế nhau giao cho các bộ phận khác nhau. Như vậy có thể dùng khuyến khích mạnh cho từng người và trong từng bộ phận.
 
-Ai từng bay đến hay quá cảnh sân bay Heathrow ở London đều thấy hậu quả của việc không theo nguyên tắc này. Chức năng của sân bay là đón hành khách khởi hành từ lề đường và đưa họ lên máy bay, và đón hành khách đến từ máy bay rồi đưa họ ra phương tiện mặt đất. Mọi hoạt động trong các quá trình này (làm thủ tục, kiểm tra an ninh, mua sắm...) bổ sung nhau. Ngược lại, các sân bay cùng phục vụ một thành phố thay thế nhau (dù không hoàn hảo, vì vị trí so với thành phố và phương tiện mặt đất kết nối khác nhau). Nguyên tắc gom việc bổ sung, tách việc thay thế nói rằng mọi chức năng trong một sân bay nên do một ban quản lý điều hành, còn các sân bay khác nhau nên cạnh tranh giành hãng bay và hành khách. Chính phủ Anh làm đúng điều ngược lại: cả ba sân bay phục vụ London là Heathrow, Gatwick và Stansted đều thuộc sở hữu và quản lý của một công ty, Cơ quan Quản lý Sân bay Anh (British Airports Authority, BAA); nhưng trong mỗi sân bay, các chức năng do những cơ quan khác nhau nắm: BAA sở hữu và cho thuê khu mua sắm, cảnh sát phụ trách an ninh nhưng BAA dựng cơ sở vật chất cho kiểm tra an ninh, một cơ quan quản lý đặt phí hạ cánh, và còn nữa. Không lạ gì khi các động cơ khuyến khích vận hành lệch lạc. BAA lãi từ cho thuê cửa hàng nên dành quá ít chỗ cho kiểm tra an ninh; cơ quan quản lý đặt phí hạ cánh quá thấp nhằm lợi cho người tiêu dùng, nhưng điều đó khiến quá nhiều hãng bay chọn Heathrow, sân bay gần trung tâm London hơn. Cả hai tác giả, cùng hàng triệu "người dùng" khác của các sân bay này, đã chịu khổ vì điều đó.
+Ai từng bay đến hay quá cảnh sân bay Heathrow ở London đều thấy hậu quả của việc không theo nguyên tắc này. Chức năng của sân bay là đón hành khách khởi hành từ lề đường và đưa họ lên máy bay, và đón hành khách đến từ máy bay rồi đưa họ ra phương tiện mặt đất. Mọi hoạt động trong các quá trình này (làm thủ tục, kiểm tra an ninh, mua sắm...) bổ sung nhau. Ngược lại, các sân bay cùng phục vụ một thành phố thay thế nhau (dù không hoàn hảo, vì vị trí so với thành phố và phương tiện mặt đất kết nối khác nhau).
 
-Một ứng dụng gần hơn với kinh nghiệm của hai tác giả: dạy học và nghiên cứu là thay thế hay bổ sung? Nếu thay thế, nên tách chúng ra các tổ chức khác nhau, như ở Pháp, nơi đại học chủ yếu dạy còn nghiên cứu diễn ra ở các viện chuyên biệt. Nếu bổ sung, cách tổ chức tối ưu là kết hợp nghiên cứu và giảng dạy trong một tổ chức, như ở các đại học lớn của Mỹ. Thành công tương đối của hai mô hình này là bằng chứng nghiêng về trường hợp bổ sung. Các nhiệm vụ gom trong Bộ An ninh Nội địa Mỹ mới thành lập là thay thế hay bổ sung, tức bộ này có phải cách tổ chức tốt không? Hai tác giả không biết câu trả lời, nhưng cho rằng đây là câu hỏi đáng được các nhà hoạch định chính sách cao nhất xem xét kỹ.
+Nguyên tắc gom việc bổ sung, tách việc thay thế nói rằng mọi chức năng trong một sân bay nên do một ban quản lý điều hành, còn các sân bay khác nhau nên cạnh tranh giành hãng bay và hành khách. Chính phủ Anh làm đúng điều ngược lại: cả ba sân bay phục vụ London là Heathrow, Gatwick và Stansted đều thuộc sở hữu và quản lý của một công ty, Cơ quan Quản lý Sân bay Anh (British Airports Authority, BAA); nhưng trong mỗi sân bay, các chức năng do những cơ quan khác nhau nắm: BAA sở hữu và cho thuê khu mua sắm, cảnh sát phụ trách an ninh nhưng BAA dựng cơ sở vật chất cho kiểm tra an ninh, một cơ quan quản lý đặt phí hạ cánh, và còn nữa.
 
-**Cạnh tranh giữa người lao động (Competition between Workers).** Trong nhiều tổ chức có nhiều người cùng lúc làm những việc tương tự hay giống hệt nhau: các ca khác nhau làm cùng một dây chuyền lắp ráp, các nhà quản lý quỹ đầu tư đối mặt cùng điều kiện thị trường chung. Kết quả của mỗi người là hỗn hợp của cố gắng, kỹ năng và may rủi. Vì việc giống nhau và làm trong điều kiện giống nhau cùng lúc, phần may rủi tương quan cao giữa những người lao động: một người may thì nhiều khả năng những người khác cũng may. Khi đó so sánh kết quả giữa họ cho chỉ báo tốt về cố gắng (và kỹ năng) tương đối. Nói cách khác, chủ hỏi người lấy xui xẻo để giải thích kết quả kém: "Vậy sao những người khác làm tốt hơn nhiều thế?" Trong tình huống này có thể thiết kế khuyến khích dựa trên kết quả tương đối: nhà quản lý quỹ được xếp hạng theo kết quả so với các quỹ cùng loại; ở chỗ khác, khuyến khích được tạo bằng cuộc thi có giải cho người đứng đầu.
+Không lạ gì khi các động cơ khuyến khích vận hành lệch lạc. BAA lãi từ cho thuê cửa hàng nên dành quá ít chỗ cho kiểm tra an ninh; cơ quan quản lý đặt phí hạ cánh quá thấp nhằm lợi cho người tiêu dùng, nhưng điều đó khiến quá nhiều hãng bay chọn Heathrow, sân bay gần trung tâm London hơn. Cả hai tác giả, cùng hàng triệu "người dùng" khác của các sân bay này, đã chịu khổ vì điều đó.
 
-Áp dụng vào việc đọc bản in thử: giáo sư có thể thuê hai sinh viên không quen nhau và chia việc cho hai người, với một đoạn trùng lặp cả hai cùng đọc. Sinh viên nào tìm được ít lỗi ở đoạn trùng trong khi người kia tìm được nhiều hơn hẳn thì bị chứng minh là đã lười. Vì vậy có thể trả theo "kết quả tương đối" trên đoạn trùng để làm sắc nét động cơ. Dĩ nhiên giáo sư không nên cho mỗi người biết người kia là ai (nếu không họ có thể thông đồng), cũng không nên cho biết trang nào trùng (nếu không họ sẽ cẩn thận ở phần đó và cẩu thả ở phần còn lại). Phi hiệu quả do làm trùng có thể nhỏ hơn lợi ích từ động cơ tốt hơn. Đây là một ưu điểm của việc dùng hai nhà cung cấp (dual sourcing): mỗi nhà cung cấp giúp tạo ra mốc để đánh giá nhà kia.
+Một ứng dụng gần hơn với kinh nghiệm của hai tác giả: dạy học và nghiên cứu là thay thế hay bổ sung? Nếu thay thế, nên tách chúng ra các tổ chức khác nhau, như ở Pháp, nơi đại học chủ yếu dạy còn nghiên cứu diễn ra ở các viện chuyên biệt. Nếu bổ sung, cách tổ chức tối ưu là kết hợp nghiên cứu và giảng dạy trong một tổ chức, như ở các đại học lớn của Mỹ. Thành công tương đối của hai mô hình này là bằng chứng nghiêng về trường hợp bổ sung.
+
+Các nhiệm vụ gom trong Bộ An ninh Nội địa Mỹ mới thành lập là thay thế hay bổ sung, tức bộ này có phải cách tổ chức tốt không? Hai tác giả không biết câu trả lời, nhưng cho rằng đây là câu hỏi đáng được các nhà hoạch định chính sách cao nhất xem xét kỹ.
+
+**Cạnh tranh giữa người lao động (Competition between Workers).** Trong nhiều tổ chức có nhiều người cùng lúc làm những việc tương tự hay giống hệt nhau: các ca khác nhau làm cùng một dây chuyền lắp ráp, các nhà quản lý quỹ đầu tư đối mặt cùng điều kiện thị trường chung. Kết quả của mỗi người là hỗn hợp của cố gắng, kỹ năng và may rủi. Vì việc giống nhau và làm trong điều kiện giống nhau cùng lúc, phần may rủi tương quan cao giữa những người lao động: một người may thì nhiều khả năng những người khác cũng may.
+
+Khi đó so sánh kết quả giữa họ cho chỉ báo tốt về cố gắng (và kỹ năng) tương đối. Nói cách khác, chủ hỏi người lấy xui xẻo để giải thích kết quả kém: "Vậy sao những người khác làm tốt hơn nhiều thế?" Trong tình huống này có thể thiết kế khuyến khích dựa trên kết quả tương đối: nhà quản lý quỹ được xếp hạng theo kết quả so với các quỹ cùng loại; ở chỗ khác, khuyến khích được tạo bằng cuộc thi có giải cho người đứng đầu.
+
+Áp dụng vào việc đọc bản in thử: giáo sư có thể thuê hai sinh viên không quen nhau và chia việc cho hai người, với một đoạn trùng lặp cả hai cùng đọc. Sinh viên nào tìm được ít lỗi ở đoạn trùng trong khi người kia tìm được nhiều hơn hẳn thì bị chứng minh là đã lười. Vì vậy có thể trả theo "kết quả tương đối" trên đoạn trùng để làm sắc nét động cơ.
+
+Dĩ nhiên giáo sư không nên cho mỗi người biết người kia là ai (nếu không họ có thể thông đồng), cũng không nên cho biết trang nào trùng (nếu không họ sẽ cẩn thận ở phần đó và cẩu thả ở phần còn lại). Phi hiệu quả do làm trùng có thể nhỏ hơn lợi ích từ động cơ tốt hơn. Đây là một ưu điểm của việc dùng hai nhà cung cấp (dual sourcing): mỗi nhà cung cấp giúp tạo ra mốc để đánh giá nhà kia.
 
 Với chính cuốn sách này, Nalebuff phát bản sách cho sinh viên lớp lý thuyết trò chơi bậc đại học ở Yale. Thưởng 2 USD mỗi lỗi, nhưng phải là người đầu tiên tìm ra. Điều này rõ ràng gây trùng lặp công sức rất lớn, nhưng trong trường hợp này sinh viên vốn phải đọc sách như một phần của môn học. Nhiều sinh viên kiếm khá, nhưng người thắng nhiều tiền nhất là trợ lý của Nalebuff, Catherine Pichotta. Cô thắng không chỉ vì tìm được nhiều lỗi nhất, mà vì khác các sinh viên Yale, cô nghĩ trước và bắt đầu đọc từ cuối sách.
 
-**Người lao động có động lực tự thân (Motivated Workers).** Đến đây hai tác giả giả định người lao động không quan tâm tới việc làm tốt vì chính công việc, cũng không quan tâm tới thành công của chủ ngoại trừ qua tác động trực tiếp tới lương và sự nghiệp. Nhưng nhiều tổ chức thu hút người quan tâm tới chính công việc và thành công của tổ chức, đặc biệt ở tổ chức phi lợi nhuận, y tế, giáo dục và một số cơ quan khu vực công, cũng như ở những việc đòi hỏi đổi mới hay sáng tạo. Nói chung, con người có động lực tự thân khi làm những việc nâng hình ảnh bản thân và cho họ cảm giác tự chủ. Quay lại ví dụ đọc bản in thử: một sinh viên sẵn lòng làm việc học thuật trong trường với mức trả khá thấp, thay vì những việc bên ngoài béo bở hơn như tư vấn phần mềm cho doanh nghiệp địa phương, có lẽ thật sự quan tâm tới chủ đề của cuốn sách. Sinh viên đó có động lực tự thân để đọc kỹ, và cũng dễ muốn theo nghề học thuật, nên nhạy cảm hơn và được thúc đẩy mạnh hơn bởi mối quan tâm sự nghiệp nói ở trên.
+**Người lao động có động lực tự thân (Motivated Workers).** Đến đây hai tác giả giả định người lao động không quan tâm tới việc làm tốt vì chính công việc, cũng không quan tâm tới thành công của chủ ngoại trừ qua tác động trực tiếp tới lương và sự nghiệp. Nhưng nhiều tổ chức thu hút người quan tâm tới chính công việc và thành công của tổ chức, đặc biệt ở tổ chức phi lợi nhuận, y tế, giáo dục và một số cơ quan khu vực công, cũng như ở những việc đòi hỏi đổi mới hay sáng tạo. Nói chung, con người có động lực tự thân khi làm những việc nâng hình ảnh bản thân và cho họ cảm giác tự chủ.
+
+Quay lại ví dụ đọc bản in thử: một sinh viên sẵn lòng làm việc học thuật trong trường với mức trả khá thấp, thay vì những việc bên ngoài béo bở hơn như tư vấn phần mềm cho doanh nghiệp địa phương, có lẽ thật sự quan tâm tới chủ đề của cuốn sách. Sinh viên đó có động lực tự thân để đọc kỹ, và cũng dễ muốn theo nghề học thuật, nên nhạy cảm hơn và được thúc đẩy mạnh hơn bởi mối quan tâm sự nghiệp nói ở trên.
 
 Những việc tự thân mang lại phần thưởng và những tổ chức làm việc thiện cần ít hoặc cần khuyến khích vật chất yếu hơn. Thực ra các nhà tâm lý học đã thấy khuyến khích tiền bạc "bên ngoài" có thể làm giảm động lực "tự thân" của người lao động trong những môi trường như vậy: họ bắt đầu cảm thấy mình làm chỉ vì tiền chứ không vì cảm giác ấm áp khi giúp người khác hay vì chính thành tựu. Hình phạt vật chất như giảm lương hay sa thải khi thất bại cũng có thể làm mất niềm vui khi làm một việc thử thách hay có ý nghĩa.
 
@@ -714,9 +757,13 @@ Uri Gneezy và Aldo Rustichini làm một thí nghiệm, cho người tham gia l
 
 Như có thể đoán, hai nhóm được trả 30 xu và 90 xu đều làm tốt hơn nhóm không có thưởng. Điều bất ngờ là nhóm chỉ được 3 xu làm tệ nhất. Khi tiền xuất hiện, nó trở thành động lực chính, và 3 xu thì không đủ; khoản tiền nhỏ có thể còn ngầm báo rằng việc này không quan trọng. Vì vậy Gneezy và Rustichini kết luận nên trả một khoản tài chính đáng kể hoặc không trả gì cả; trả một chút có thể dẫn tới kết quả tệ nhất.
 
-**Tổ chức nhiều cấp (Hierarchical Organizations).** Phần lớn tổ chức có quy mô đều có nhiều tầng: công ty có cổ đông, hội đồng quản trị, ban lãnh đạo cao nhất, quản lý cấp trung, tổ trưởng và công nhân trực tiếp. Mỗi cấp là sếp của cấp dưới và chịu trách nhiệm tạo khuyến khích phù hợp cho họ. Sếp ở mỗi cấp phải cảnh giác với hành vi chiến lược của các cấp dưới. Ví dụ, nếu khuyến khích của công nhân phụ thuộc chất lượng công việc do tổ trưởng trực tiếp xác nhận, tổ trưởng có thể cho qua sản phẩm kém để đạt chỉ tiêu lấy thưởng của chính mình; tổ trưởng không thể phạt công nhân mà không tự làm hại mình. Khi sếp cấp trên thiết kế cơ chế để hạn chế những hành vi này, tác động chung thường là làm yếu khuyến khích ở các cấp đó, vì như vậy giảm lợi ích tiềm năng của lừa dối và gian lận.
+**Tổ chức nhiều cấp (Hierarchical Organizations).** Phần lớn tổ chức có quy mô đều có nhiều tầng: công ty có cổ đông, hội đồng quản trị, ban lãnh đạo cao nhất, quản lý cấp trung, tổ trưởng và công nhân trực tiếp. Mỗi cấp là sếp của cấp dưới và chịu trách nhiệm tạo khuyến khích phù hợp cho họ.
 
-**Nhiều ông chủ (Multiple Owners).** Ở một số tổ chức, cấu trúc quyền lực không phải kim tự tháp; có chỗ kim tự tháp bị lộn ngược, một người lao động chịu trách nhiệm trước nhiều ông chủ. Điều này có cả ở công ty tư nhân nhưng phổ biến hơn nhiều ở khu vực công: phần lớn cơ quan nhà nước phải trả lời trước hành pháp, lập pháp, toà án, báo chí, các nhóm vận động hành lang và nhiều bên khác. Lợi ích của các ông chủ này thường không khớp nhau, thậm chí đối nghịch hoàn toàn. Khi đó mỗi ông chủ có thể làm suy yếu cơ chế khuyến khích của người khác bằng cách cài những yếu tố ngược chiều vào cơ chế của mình. Ví dụ, một cơ quan quản lý có thể thuộc hành pháp trong khi Quốc hội nắm ngân sách hằng năm của nó; Quốc hội có thể doạ cắt ngân sách khi cơ quan này đáp ứng ý muốn của hành pháp nhiều hơn. Khi các ông chủ triệt tiêu khuyến khích của nhau như vậy, khuyến khích tổng thể yếu đi.
+Sếp ở mỗi cấp phải cảnh giác với hành vi chiến lược của các cấp dưới. Ví dụ, nếu khuyến khích của công nhân phụ thuộc chất lượng công việc do tổ trưởng trực tiếp xác nhận, tổ trưởng có thể cho qua sản phẩm kém để đạt chỉ tiêu lấy thưởng của chính mình; tổ trưởng không thể phạt công nhân mà không tự làm hại mình. Khi sếp cấp trên thiết kế cơ chế để hạn chế những hành vi này, tác động chung thường là làm yếu khuyến khích ở các cấp đó, vì như vậy giảm lợi ích tiềm năng của lừa dối và gian lận.
+
+**Nhiều ông chủ (Multiple Owners).** Ở một số tổ chức, cấu trúc quyền lực không phải kim tự tháp; có chỗ kim tự tháp bị lộn ngược, một người lao động chịu trách nhiệm trước nhiều ông chủ. Điều này có cả ở công ty tư nhân nhưng phổ biến hơn nhiều ở khu vực công: phần lớn cơ quan nhà nước phải trả lời trước hành pháp, lập pháp, toà án, báo chí, các nhóm vận động hành lang và nhiều bên khác. Lợi ích của các ông chủ này thường không khớp nhau, thậm chí đối nghịch hoàn toàn.
+
+Khi đó mỗi ông chủ có thể làm suy yếu cơ chế khuyến khích của người khác bằng cách cài những yếu tố ngược chiều vào cơ chế của mình. Ví dụ, một cơ quan quản lý có thể thuộc hành pháp trong khi Quốc hội nắm ngân sách hằng năm của nó; Quốc hội có thể doạ cắt ngân sách khi cơ quan này đáp ứng ý muốn của hành pháp nhiều hơn. Khi các ông chủ triệt tiêu khuyến khích của nhau như vậy, khuyến khích tổng thể yếu đi.
 
 Hãy hình dung một người trong hai bố mẹ thưởng cho điểm học tốt, còn người kia thưởng cho thành tích trên sân thể thao. Thay vì cộng hưởng, mỗi phần thưởng nhiều khả năng triệt tiêu phần kia: đứa trẻ học nhiều hơn thì mất bớt thời gian tập thể thao và giảm khả năng nhận thưởng thể thao. Lợi ích kỳ vọng của thêm một giờ học không phải, chẳng hạn, 1 USD, mà là 1 USD trừ đi phần giảm kỳ vọng của thưởng thể thao. Hai phần thưởng có thể không triệt tiêu hoàn toàn, vì đứa trẻ có thể vừa học thêm vừa tập thêm bằng cách bớt thời gian ngủ và ăn.
 
@@ -760,11 +807,15 @@ Về bản chất, cơ chế này bán 50% công ty cho lập trình viên để
 
 Khoản ròng cô nhận khi đó là 90.000 USD hoặc −10.000 USD, và với nhiều thứ phụ thuộc vào kết quả như vậy, cô có lợi khi cố gắng cao để tăng khả năng thành công (và phần lợi nhuận 100.000 USD của mình). Khác biệt duy nhất giữa hợp đồng bán cổ phần này và cơ chế phạt/thưởng là tên gọi. Tên gọi có thể quan trọng, nhưng có nhiều cách đạt cùng một hiệu quả.
 
-**Khi không phạt được hoặc người lao động không có vốn.** Các giải pháp trên có thể không khả thi, vì phạt tiền người lao động có thể bất hợp pháp, hoặc người lao động không có đủ 10.000 USD để mua 50% cổ phần. Khi đó hãy tiến gần nhất có thể tới giải pháp phạt hay chia cổ phần. Vì thưởng hữu hiệu tối thiểu là 100.000 USD, người lao động nhận 100.000 USD khi thành công và không nhận gì khi thất bại. Thu nhập bình quân của cô khi đó là 80.000 USD, và lãi của bạn giảm còn 80.000 USD (vì doanh thu bình quân vẫn là 160.000 USD). Với cách chia cổ phần, người lao động chỉ có sức lao động, không có vốn để góp, nhưng vẫn phải được chia 50% để có động cơ cố gắng cao; vì vậy tốt nhất bạn có thể làm là bán cho cô 50% công ty chỉ để đổi lấy sức lao động. Việc không thể phạt hay không thể khiến người lao động góp vốn làm kết quả kém hơn với bạn, trong ví dụ là 10.000 USD. Đến đây việc không quan sát được cố gắng mới gây khác biệt.
+**Khi không phạt được hoặc người lao động không có vốn.** Các giải pháp trên có thể không khả thi, vì phạt tiền người lao động có thể bất hợp pháp, hoặc người lao động không có đủ 10.000 USD để mua 50% cổ phần. Khi đó hãy tiến gần nhất có thể tới giải pháp phạt hay chia cổ phần. Vì thưởng hữu hiệu tối thiểu là 100.000 USD, người lao động nhận 100.000 USD khi thành công và không nhận gì khi thất bại. Thu nhập bình quân của cô khi đó là 80.000 USD, và lãi của bạn giảm còn 80.000 USD (vì doanh thu bình quân vẫn là 160.000 USD).
+
+Với cách chia cổ phần, người lao động chỉ có sức lao động, không có vốn để góp, nhưng vẫn phải được chia 50% để có động cơ cố gắng cao; vì vậy tốt nhất bạn có thể làm là bán cho cô 50% công ty chỉ để đổi lấy sức lao động. Việc không thể phạt hay không thể khiến người lao động góp vốn làm kết quả kém hơn với bạn, trong ví dụ là 10.000 USD. Đến đây việc không quan sát được cố gắng mới gây khác biệt.
 
 **Vấn đề rủi ro.** Một khó khăn khác của cơ chế thưởng hay chia cổ phần là rủi ro. Động cơ của người lao động đến từ việc cô chấp nhận một canh bạc 100.000 USD. Rủi ro khá lớn này có thể khiến cô đánh giá gói lương thấp hơn mức bình quân 70.000 USD. Khi đó phải bù cho cô cả việc cố gắng cao lẫn việc gánh rủi ro; rủi ro càng lớn, khoản bù càng lớn. Khoản bù thêm này là một chi phí nữa của việc công ty không giám sát được cố gắng. Giải pháp tốt nhất thường là thoả hiệp: giảm rủi ro bằng cách cho người lao động khuyến khích kém hơn mức lý tưởng, và do đó chấp nhận mức cố gắng kém hơn lý tưởng.
 
-**Dùng thêm chỉ số.** Trong những trường hợp khác, bạn có thể có thêm chỉ báo về chất lượng cố gắng, và nên dùng chúng khi thiết kế cơ chế. Trường hợp thú vị và phổ biến nhất là có nhiều dự án. Dù thành công chỉ là chỉ báo thống kê không chính xác của chất lượng cố gắng, có thể làm nó chính xác hơn khi có nhiều quan sát hơn, theo hai cách. Nếu cùng một chuyên gia làm cho bạn nhiều dự án, bạn có thể theo dõi chuỗi thành bại của cô và tự tin hơn khi quy thất bại lặp lại cho cố gắng kém thay vì may rủi; suy luận chính xác hơn cho phép thiết kế cơ chế tốt hơn. Cách thứ hai là có nhiều chuyên gia làm những dự án liên quan, với thành bại của các dự án có tương quan. Nếu một chuyên gia thất bại trong khi những người xung quanh thành công, bạn có thể tự tin hơn rằng cô ấy lười chứ không chỉ xui. Vì vậy phần thưởng dựa trên kết quả tương đối, tức giải thưởng, sẽ tạo ra động cơ phù hợp.
+**Dùng thêm chỉ số.** Trong những trường hợp khác, bạn có thể có thêm chỉ báo về chất lượng cố gắng, và nên dùng chúng khi thiết kế cơ chế. Trường hợp thú vị và phổ biến nhất là có nhiều dự án. Dù thành công chỉ là chỉ báo thống kê không chính xác của chất lượng cố gắng, có thể làm nó chính xác hơn khi có nhiều quan sát hơn, theo hai cách. Nếu cùng một chuyên gia làm cho bạn nhiều dự án, bạn có thể theo dõi chuỗi thành bại của cô và tự tin hơn khi quy thất bại lặp lại cho cố gắng kém thay vì may rủi; suy luận chính xác hơn cho phép thiết kế cơ chế tốt hơn.
+
+Cách thứ hai là có nhiều chuyên gia làm những dự án liên quan, với thành bại của các dự án có tương quan. Nếu một chuyên gia thất bại trong khi những người xung quanh thành công, bạn có thể tự tin hơn rằng cô ấy lười chứ không chỉ xui. Vì vậy phần thưởng dựa trên kết quả tương đối, tức giải thưởng, sẽ tạo ra động cơ phù hợp.
 
 ### 8. Tình huống: "Treat Them Like Royalty" — hợp đồng tiền bản quyền của tác giả
 
@@ -780,9 +831,13 @@ Khoản ròng cô nhận khi đó là 90.000 USD hoặc −10.000 USD, và với
 
 **Bài tập "Trip to the Gym" số 10.** Khoảng cách giữa nhà xuất bản và tác giả lớn đến đâu? Hãy ước lượng nhà xuất bản muốn đặt giá cao hơn bao nhiêu so với tác giả.
 
-Một chỗ tác giả và nhà xuất bản bất đồng là giá bìa. Thoạt nghĩ, vì tác giả nhận phần trăm giá bìa nên họ muốn giá cao. Nhưng thực chất tác giả nhận một tỷ lệ trên tổng doanh thu (chẳng hạn 15% với sách bìa cứng), nên điều tác giả thật sự quan tâm là tổng doanh thu; họ muốn nhà xuất bản chọn giá bìa tối đa hoá doanh thu. Nhà xuất bản thì muốn tối đa hoá lợi nhuận, tức doanh thu trừ chi phí, nên luôn muốn giá cao hơn mức tối đa hoá doanh thu. Nếu nhà xuất bản bắt đầu từ mức giá tối đa hoá doanh thu và tăng lên một chút, doanh thu gần như không đổi nhưng số bản bán ra giảm, và vì vậy chi phí giảm. Hai tác giả kể rằng họ đã lường trước vấn đề này và thương lượng giá bìa ngay trong hợp đồng, rồi nói đùa với độc giả: không có gì, và cảm ơn bạn đã đọc sách.
+Một chỗ tác giả và nhà xuất bản bất đồng là giá bìa. Thoạt nghĩ, vì tác giả nhận phần trăm giá bìa nên họ muốn giá cao. Nhưng thực chất tác giả nhận một tỷ lệ trên tổng doanh thu (chẳng hạn 15% với sách bìa cứng), nên điều tác giả thật sự quan tâm là tổng doanh thu; họ muốn nhà xuất bản chọn giá bìa tối đa hoá doanh thu. Nhà xuất bản thì muốn tối đa hoá lợi nhuận, tức doanh thu trừ chi phí, nên luôn muốn giá cao hơn mức tối đa hoá doanh thu.
 
-*Đáp án của sách (phần Workouts):* Để thấy hiệu ứng lớn đến đâu, cần đi sâu hơn vào kinh tế học xuất bản. Thường nhà xuất bản nhận 50% giá bìa làm giá bán buôn; chi phí in và vận chuyển một cuốn bìa cứng trung bình khoảng 3 USD. Ở giá p, với số bán q(p), lợi nhuận nhà xuất bản là (0,5p − 0,15p − 3) × q(p) = 0,35 × (p − 8,6) × q(p). Vì nhà xuất bản chỉ nhận nửa giá bìa và phải trả tác giả 15%, họ chỉ còn khoảng 35% giá bìa nhưng chịu toàn bộ chi phí in; kết quả là như thể chi phí in thực tế là 8,6 USD, gần gấp ba. Lấy trường hợp đơn giản cầu tuyến tính q(p) = 40 − p (tính bằng nghìn cuốn): để tối đa hoá doanh thu, tác giả chọn giá bìa 20 USD; còn nhà xuất bản chọn 24,3 USD để tối đa hoá lợi nhuận.
+Nếu nhà xuất bản bắt đầu từ mức giá tối đa hoá doanh thu và tăng lên một chút, doanh thu gần như không đổi nhưng số bản bán ra giảm, và vì vậy chi phí giảm. Hai tác giả kể rằng họ đã lường trước vấn đề này và thương lượng giá bìa ngay trong hợp đồng, rồi nói đùa với độc giả: không có gì, và cảm ơn bạn đã đọc sách.
+
+*Đáp án của sách (phần Workouts):* Để thấy hiệu ứng lớn đến đâu, cần đi sâu hơn vào kinh tế học xuất bản. Thường nhà xuất bản nhận 50% giá bìa làm giá bán buôn; chi phí in và vận chuyển một cuốn bìa cứng trung bình khoảng 3 USD. Ở giá p, với số bán q(p), lợi nhuận nhà xuất bản là (0,5p − 0,15p − 3) × q(p) = 0,35 × (p − 8,6) × q(p).
+
+Vì nhà xuất bản chỉ nhận nửa giá bìa và phải trả tác giả 15%, họ chỉ còn khoảng 35% giá bìa nhưng chịu toàn bộ chi phí in; kết quả là như thể chi phí in thực tế là 8,6 USD, gần gấp ba. Lấy trường hợp đơn giản cầu tuyến tính q(p) = 40 − p (tính bằng nghìn cuốn): để tối đa hoá doanh thu, tác giả chọn giá bìa 20 USD; còn nhà xuất bản chọn 24,3 USD để tối đa hoá lợi nhuận.
 
 | | Tác giả | Nhà xuất bản |
 |---|---|---|
@@ -794,7 +849,11 @@ Một chỗ tác giả và nhà xuất bản bất đồng là giá bìa. Thoạ
 
 Hai tác giả kết chương bằng lời báo trước: Chương 14 có thêm hai tình huống về động cơ khuyến khích, "Bay Bridge" và "But One Life to Lay Down for Your Country".
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một chủ chuỗi cà phê thuê quản lý cửa hàng. Nếu quản lý chỉ làm đủ bổn phận, khả năng cửa hàng đạt doanh thu tháng mục tiêu là 50%; nếu quản lý thật sự sát sao (sắp ca, giữ chất lượng, chăm khách quen), khả năng là 75%. Đạt mục tiêu mang lại cho chủ thêm 60 triệu đồng lợi nhuận. Quản lý có thể nhận việc khác 15 triệu đồng/tháng, và chỉ chịu làm sát sao nếu được bình quân 18 triệu (tức cái giá của cố gắng là 3 triệu/tháng). Theo cách tính Wizard 1.0, khoản thưởng khi đạt mục tiêu phải ít nhất 3 triệu chia cho 25 điểm phần trăm, tức 12 triệu đồng. Nếu lương cứng là 9 triệu và thưởng 12 triệu khi đạt, quản lý sát sao nhận bình quân 9 + 0,75 × 12 = 18 triệu, đủ thoả ràng buộc tham gia; nếu chỉ làm đủ bổn phận thì nhận bình quân 9 + 0,5 × 12 = 15 triệu nhưng không tốn công, ngang bằng việc khác, nên cố gắng là lựa chọn không thua kém (chủ có thể thêm chút ít để nghiêng hẳn về phía cố gắng). Chủ thu thêm kỳ vọng 0,75 × 60 = 45 triệu, trả bình quân 18 triệu. Nếu doanh thu tháng phụ thuộc mạnh vào thời tiết hay công trình đào đường trước cửa (may rủi lớn), nên giảm tỷ trọng thưởng; nếu chuỗi có 10 cửa hàng chịu cùng điều kiện, chủ có thể thưởng theo thứ hạng giữa các cửa hàng để loại bỏ phần may rủi chung.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một chủ chuỗi cà phê thuê quản lý cửa hàng. Nếu quản lý chỉ làm đủ bổn phận, khả năng cửa hàng đạt doanh thu tháng mục tiêu là 50%; nếu quản lý thật sự sát sao (sắp ca, giữ chất lượng, chăm khách quen), khả năng là 75%. Đạt mục tiêu mang lại cho chủ thêm 60 triệu đồng lợi nhuận. Quản lý có thể nhận việc khác 15 triệu đồng/tháng, và chỉ chịu làm sát sao nếu được bình quân 18 triệu (tức cái giá của cố gắng là 3 triệu/tháng).
+
+Theo cách tính Wizard 1.0, khoản thưởng khi đạt mục tiêu phải ít nhất 3 triệu chia cho 25 điểm phần trăm, tức 12 triệu đồng. Nếu lương cứng là 9 triệu và thưởng 12 triệu khi đạt, quản lý sát sao nhận bình quân 9 + 0,75 × 12 = 18 triệu, đủ thoả ràng buộc tham gia; nếu chỉ làm đủ bổn phận thì nhận bình quân 9 + 0,5 × 12 = 15 triệu nhưng không tốn công, ngang bằng việc khác, nên cố gắng là lựa chọn không thua kém (chủ có thể thêm chút ít để nghiêng hẳn về phía cố gắng). Chủ thu thêm kỳ vọng 0,75 × 60 = 45 triệu, trả bình quân 18 triệu.
+
+Nếu doanh thu tháng phụ thuộc mạnh vào thời tiết hay công trình đào đường trước cửa (may rủi lớn), nên giảm tỷ trọng thưởng; nếu chuỗi có 10 cửa hàng chịu cùng điều kiện, chủ có thể thưởng theo thứ hạng giữa các cửa hàng để loại bỏ phần may rủi chung.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -913,7 +972,9 @@ Khi người thuê không quan sát được cố gắng của người làm thu
 
 ### Sức mạnh của chương là gói cả lý thuyết hợp đồng vào hai con số: mức trung bình và chênh lệch
 
-Lý thuyết người uỷ quyền và người thừa hành thường được trình bày bằng tối ưu hoá có ràng buộc. Hai tác giả rút nó về hai câu hỏi ai cũng hỏi được: trả trung bình bao nhiêu để người ta nhận việc, và chênh lệch giữa lúc tốt và lúc xấu bao nhiêu để người ta cố gắng. Ví dụ cà rốt và cây gậy cho thấy cùng hai con số có thể đóng gói theo cách rất khác nhau, còn ví dụ lương CEO cho thấy công cụ này tách được hai câu hỏi thường bị gộp: CEO có được khuyến khích đúng không (chênh lệch) và CEO có được trả quá nhiều không (trung bình). Ví dụ Wizard 1.0 làm rõ một điểm tinh tế mà nhiều sách phổ thông bỏ qua: bản thân việc không quan sát được cố gắng không gây thiệt hại; thiệt hại đến từ việc không thể phạt, người lao động không có vốn, hoặc người lao động sợ rủi ro.
+Lý thuyết người uỷ quyền và người thừa hành thường được trình bày bằng tối ưu hoá có ràng buộc. Hai tác giả rút nó về hai câu hỏi ai cũng hỏi được: trả trung bình bao nhiêu để người ta nhận việc, và chênh lệch giữa lúc tốt và lúc xấu bao nhiêu để người ta cố gắng. Ví dụ cà rốt và cây gậy cho thấy cùng hai con số có thể đóng gói theo cách rất khác nhau, còn ví dụ lương CEO cho thấy công cụ này tách được hai câu hỏi thường bị gộp: CEO có được khuyến khích đúng không (chênh lệch) và CEO có được trả quá nhiều không (trung bình).
+
+Ví dụ Wizard 1.0 làm rõ một điểm tinh tế mà nhiều sách phổ thông bỏ qua: bản thân việc không quan sát được cố gắng không gây thiệt hại; thiệt hại đến từ việc không thể phạt, người lao động không có vốn, hoặc người lao động sợ rủi ro.
 
 ### Ví dụ Wizard 1.0 dựa trên giả định trung lập với rủi ro, nên kết quả "hoàn hảo" là trường hợp đặc biệt
 
@@ -925,11 +986,17 @@ Phép tính 51.200 USD giả định quan hệ kéo dài mãi mãi, chủ phát 
 
 ### Thưởng theo kết quả tương đối và chỉ tiêu có những tác dụng phụ mà chương chỉ nhắc qua
 
-Hai tác giả cảnh báo nguy cơ thông đồng khi thưởng theo kết quả tương đối, nhưng không nói tới nguy cơ ngược lại: khi thu nhập phụ thuộc vào việc hơn đồng nghiệp, người ta có động cơ phá đồng nghiệp hoặc không chia sẻ thông tin. Tương tự, mô hình đa nhiệm vụ của Holmstrom và Milgrom (được dẫn trong chú thích nguồn) có bài học quan trọng hơn chuyện thay thế hay bổ sung mà chương trình bày: khi một phần công việc dễ đo và phần khác khó đo, khuyến khích mạnh cho phần dễ đo làm người ta bỏ bê phần khó đo (giáo viên "dạy để thi", nhân viên bán hàng chạy doanh số bỏ chất lượng dịch vụ). Đây chính là lỗi của kinh tế Liên Xô mà chương nêu ở đầu (đạt chỉ tiêu số lượng, bỏ chất lượng), nhưng chương không nối hai ý với nhau.
+Hai tác giả cảnh báo nguy cơ thông đồng khi thưởng theo kết quả tương đối, nhưng không nói tới nguy cơ ngược lại: khi thu nhập phụ thuộc vào việc hơn đồng nghiệp, người ta có động cơ phá đồng nghiệp hoặc không chia sẻ thông tin.
+
+Tương tự, mô hình đa nhiệm vụ của Holmstrom và Milgrom (được dẫn trong chú thích nguồn) có bài học quan trọng hơn chuyện thay thế hay bổ sung mà chương trình bày: khi một phần công việc dễ đo và phần khác khó đo, khuyến khích mạnh cho phần dễ đo làm người ta bỏ bê phần khó đo (giáo viên "dạy để thi", nhân viên bán hàng chạy doanh số bỏ chất lượng dịch vụ). Đây chính là lỗi của kinh tế Liên Xô mà chương nêu ở đầu (đạt chỉ tiêu số lượng, bỏ chất lượng), nhưng chương không nối hai ý với nhau.
 
 ### Từ 2008, lý thuyết của chương được công nhận và một số ví dụ đã thay đổi
 
-Đây là nhận xét của người tổng hợp, không có trong sách. Bengt Holmström và Oliver Hart nhận giải Nobel kinh tế năm 2016 cho lý thuyết hợp đồng, tức nền tảng của chương này. Sau khủng hoảng 2008, cuộc tranh luận về lương thưởng lãnh đạo xoay quanh một điểm gần với nhận xét của hai tác giả về lương CEO (công ty thất bại thì CEO vẫn có "chiếc dù vàng"): cấu trúc trả lương khiến CEO và nhân viên ngân hàng được nhiều khi kết quả tốt mà mất ít khi kết quả xấu. Nhiều nước đưa ra điều khoản thu hồi thưởng, hoãn trả thưởng và cho cổ đông biểu quyết về lương; Liên minh châu Âu còn giới hạn tỷ lệ thưởng trên lương của nhân viên ngân hàng. Về sân bay London, cơ quan cạnh tranh của Anh đã buộc BAA bán Gatwick và Stansted, nên ba sân bay nay thuộc các chủ khác nhau và cạnh tranh với nhau, phù hợp với nguyên tắc tách các đơn vị thay thế nhau. Chương viết trước khi làm việc từ xa và quản lý theo chỉ số trên nền tảng số phổ biến; những thay đổi đó làm vấn đề không quan sát được cố gắng trở nên rộng hơn, và đồng thời tạo ra nhiều chỉ số quan sát được hơn, với đủ rủi ro "chỉ làm cho chỉ số" đã nói ở trên.
+Đây là nhận xét của người tổng hợp, không có trong sách. Bengt Holmström và Oliver Hart nhận giải Nobel kinh tế năm 2016 cho lý thuyết hợp đồng, tức nền tảng của chương này. Sau khủng hoảng 2008, cuộc tranh luận về lương thưởng lãnh đạo xoay quanh một điểm gần với nhận xét của hai tác giả về lương CEO (công ty thất bại thì CEO vẫn có "chiếc dù vàng"): cấu trúc trả lương khiến CEO và nhân viên ngân hàng được nhiều khi kết quả tốt mà mất ít khi kết quả xấu. Nhiều nước đưa ra điều khoản thu hồi thưởng, hoãn trả thưởng và cho cổ đông biểu quyết về lương; Liên minh châu Âu còn giới hạn tỷ lệ thưởng trên lương của nhân viên ngân hàng.
+
+Về sân bay London, cơ quan cạnh tranh của Anh đã buộc BAA bán Gatwick và Stansted, nên ba sân bay nay thuộc các chủ khác nhau và cạnh tranh với nhau, phù hợp với nguyên tắc tách các đơn vị thay thế nhau.
+
+Chương viết trước khi làm việc từ xa và quản lý theo chỉ số trên nền tảng số phổ biến; những thay đổi đó làm vấn đề không quan sát được cố gắng trở nên rộng hơn, và đồng thời tạo ra nhiều chỉ số quan sát được hơn, với đủ rủi ro "chỉ làm cho chỉ số" đã nói ở trên.
 
 ### Quan điểm trái chiều: có người cho rằng khuyến khích bằng tiền được dùng quá nhiều
 
@@ -941,3 +1008,156 @@ Một dòng nghiên cứu trong tâm lý học và quản trị (thường gắn
 - **Trong đầu tư.** Đọc cơ cấu lương của ban lãnh đạo như đọc một cơ chế khuyến khích: họ được gì khi công ty tốt, mất gì khi công ty xấu, có "chiếc dù vàng" không. Lãnh đạo nắm cổ phần thật bằng tiền của mình gần với hợp đồng "mua nửa công ty" trong ví dụ Wizard 1.0 hơn là lãnh đạo chỉ có quyền chọn cổ phiếu miễn phí. Với quỹ đầu tư, nhớ rằng xếp hạng tương đối khuyến khích nhà quản lý quỹ bám sát chỉ số chuẩn hơn là tối đa hoá lợi nhuận của bạn.
 - **Trong nghề nghiệp.** Khi đàm phán lương, hiểu rằng mốc so sánh của ràng buộc tham gia là lời mời tốt nhất bạn có ở nơi khác, như ví dụ CEO 10 triệu USD; có lời mời thay thế là cách mạnh nhất để nâng mức trung bình. Ở giai đoạn đầu sự nghiệp, triển vọng thăng tiến và uy tín lâu dài thường đáng giá hơn khoản thưởng trước mắt, và người thuê bạn cũng biết điều đó. Một mức lương cao hơn thị trường kèm nguy cơ mất nó là "phần bù hiệu quả": hãy tự hỏi mình có đang được trả để không lười và không gian lận hay không.
 - **Khi đọc tin chính sách.** Ở Việt Nam, những tranh luận về cơ chế khoán, trả lương theo vị trí việc làm và hiệu quả công việc trong khu vực công, hay thưởng theo chỉ tiêu (KPI) đều có thể đọc bằng khung của chương: kết quả có đo được không, may rủi lớn đến đâu, cán bộ có đang chịu trách nhiệm trước nhiều "ông chủ" với yêu cầu trái nhau không (khi đó khuyến khích tổng thể yếu đi). Câu hỏi đáng đặt ra trước mỗi đề xuất thưởng theo chỉ tiêu là: chỉ tiêu có bỏ sót phần việc khó đo không, và người được khuyến khích có thể "làm đẹp" con số mà không làm tốt việc thật không.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 13 trên một trang: năm nhánh đi theo các tiểu mục của bản gốc (mở đầu và Incentives for Effort; hợp đồng, cơ chế phi tuyến, cà rốt và cây gậy; các chiều của cơ chế khuyến khích; ví dụ Wizard 1.0; tình huống tiền bản quyền), mỗi nhánh ghi luận điểm, con số và ví dụ then chốt của hai tác giả; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 13: không thấy được cố gắng thì trả theo kết quả, cân bằng mức trung bình để nhận việc và chênh lệch để cố gắng`"]
+  n1["`Mở đầu và Incentives for Effort — vấn đề rủi ro đạo đức`"]
+  n0 --- n1
+  n2["`Kinh tế Liên Xô thất bại vì không ai được thưởng khi làm tốt, ai cũng có lý do làm ẩu`"]
+  n1 --- n2
+  n3["`Câu đùa Liên Xô: họ giả vờ trả lương, chúng tôi giả vờ làm việc`"]
+  n1 --- n3
+  n4["`Rủi ro đạo đức: bên kia giấu hành động mình chọn, khác lựa chọn ngược ở Chương 8 là giấu đặc điểm`"]
+  n1 --- n4
+  n5["`Trả cố định thì thiếu động cơ, trả thuần theo sản phẩm thì không ai nhận việc, nên kết hợp hai cực`"]
+  n1 --- n5
+  n6["`Dixit trả sinh viên đọc bản in thử 600 USD cố định cộng 1 USD mỗi lỗi: 274 lỗi, 70 giờ, 12,49 USD/giờ, sót khoảng 30 lỗi`"]
+  n1 --- n6
+  n7["`Sự đơn giản là ràng buộc thứ ba: người được khuyến khích phải hiểu cơ chế`"]
+  n1 --- n7
+  n8["`Incentive Contract, Nonlinear Schemes, Carrots versus Sticks — thiết kế hợp đồng`"]
+  n0 --- n8
+  n9["`Kết quả là chỉ báo không hoàn hảo của cố gắng: may rủi càng lớn thì càng nên dùng ít thưởng theo kết quả`"]
+  n8 --- n9
+  n10["`Chỉ tiêu thuần tuý: nhân viên buông khi xui đầu năm, nghỉ khi đạt sớm, dời đơn hàng sang năm sau`"]
+  n8 --- n10
+  n11["`Hoa hồng nhà đất 6%: bán cao thêm 20.000 USD, môi giới chỉ được thêm khoảng 300 USD`"]
+  n8 --- n11
+  n12["`Cơ chế 2,5% cho 200.000 USD đầu và 20% phần vượt tạo động cơ mạnh nhưng gây tranh cãi về ngưỡng`"]
+  n8 --- n12
+  n13["`Tuyến tính bền vững hơn, thực tế hay kết hợp hoa hồng với vài ngưỡng thưởng`"]
+  n8 --- n13
+  n14["`Cà rốt 99/149 và cây gậy 101/51 cùng trung bình 100, chênh lệch 50`"]
+  n8 --- n14
+  n15["`Lương CEO: chênh lệch có thể vừa đủ nhưng mức trung bình vượt xa mức cần vì cạnh tranh giành CEO`"]
+  n8 --- n15
+  n16["`Hình phạt tuỳ tiện thời Stalin không gắn với cố gắng nên không tạo động cơ`"]
+  n8 --- n16
+  n17["`The Many Dimensions — các chiều của cơ chế khuyến khích`"]
+  n0 --- n17
+  n18["`Quan hệ dài hạn thay được tiền thưởng trước mắt`"]
+  n17 --- n18
+  n19["`Mối quan tâm sự nghiệp: triển vọng biên chế và thăng chức thúc đẩy giáo sư trợ lý hơn tăng lương`"]
+  n18 --- n19
+  n20["`Quan hệ lặp lại: theo luật số lớn, kết quả trung bình đo cố gắng chính xác hơn`"]
+  n18 --- n20
+  n21["`Tiền lương hiệu quả 51.200 USD so với 40.000 USD nơi khác giữ người lao động không lười`"]
+  n18 --- n21
+  n22["`Phép tính: lợi 8.000 USD khi lười nhỏ hơn 25% khả năng mất 10X, nên X tối thiểu 3.200 USD`"]
+  n18 --- n22
+  n23["`Trả thợ sửa xe quen cao hơn một chút là trả phần bù cho sự trung thực`"]
+  n18 --- n23
+  n24["`Nhiều nhiệm vụ: khuyến khích phụ thuộc việc thay thế hay bổ sung nhau`"]
+  n17 --- n24
+  n25["`Nhiệm vụ thay thế như ngô và bò sữa đòi khuyến khích yếu, bổ sung như ong và táo cho phép khuyến khích mạnh`"]
+  n24 --- n25
+  n26["`Gom việc bổ sung vào một người hay một bộ phận, tách việc thay thế cho cạnh tranh`"]
+  n24 --- n26
+  n27["`BAA sở hữu cả Heathrow, Gatwick, Stansted nhưng chia chức năng trong từng sân bay: làm ngược nguyên tắc`"]
+  n24 --- n27
+  n28["`Đại học Mỹ gộp dạy và nghiên cứu, Pháp tách ra: thành công tương đối nghiêng về bổ sung`"]
+  n24 --- n28
+  n29["`Nhiều người làm việc giống nhau: so sánh để loại may rủi chung`"]
+  n17 --- n29
+  n30["`Kết quả tương đối loại bỏ may rủi chung, như xếp hạng quỹ đầu tư theo quỹ cùng loại`"]
+  n29 --- n30
+  n31["`Hai sinh viên đọc chung một đoạn trùng, không biết nhau và không biết trang nào trùng`"]
+  n29 --- n31
+  n32["`Cuộc thi 2 USD mỗi lỗi ở Yale: Catherine Pichotta thắng nhờ đọc từ cuối sách`"]
+  n29 --- n32
+  n33["`Động lực tự thân, nhiều cấp, nhiều ông chủ làm khuyến khích tiền yếu đi`"]
+  n17 --- n33
+  n34["`Gneezy và Rustichini: không trả 28 câu đúng, 3 xu 23 câu, 30 và 90 xu 34 câu`"]
+  n33 --- n34
+  n35["`Trả đáng kể hoặc không trả gì, trả một chút có thể tệ nhất`"]
+  n33 --- n35
+  n36["`Tổ chức nhiều cấp: tổ trưởng có thể cho qua hàng kém, nên khuyến khích các cấp phải yếu đi`"]
+  n33 --- n36
+  n37["`Nhiều ông chủ lợi ích lệch nhau: khuyến khích tổng thể tỷ lệ nghịch với số ông chủ, như Liên Hợp Quốc, WTO`"]
+  n33 --- n37
+  n38["`How to Reward Work Effort — ví dụ Wizard 1.0`"]
+  n0 --- n38
+  n39["`Thành công lãi 200.000 USD, khả năng 80% với cố gắng cao lương 70.000 USD, 60% với cố gắng thường lương 50.000 USD`"]
+  n38 --- n39
+  n40["`Nếu quan sát được cố gắng: thuê cố gắng cao, lãi bình quân 90.000 USD so với 70.000 USD`"]
+  n38 --- n40
+  n41["`Thưởng thành công tối thiểu 100.000 USD vì 20 điểm phần trăm nhân 100.000 bằng 20.000 USD`"]
+  n38 --- n41
+  n42["`Nhận 90.000 USD khi thành công, nộp phạt 10.000 USD khi thất bại: chủ vẫn lãi 90.000 USD`"]
+  n38 --- n42
+  n43["`Tương đương bán nửa công ty cho lập trình viên lấy 10.000 USD và công sức`"]
+  n38 --- n43
+  n44["`Không phạt được hoặc người lao động không có vốn: trả 100.000 hoặc 0, lãi chủ giảm còn 80.000 USD`"]
+  n38 --- n44
+  n45["`Người lao động sợ rủi ro phải được bù thêm, nên chọn khuyến khích yếu hơn lý tưởng`"]
+  n38 --- n45
+  n46["`Nhiều dự án hoặc nhiều chuyên gia làm dự án tương quan cho phép thưởng theo kết quả tương đối`"]
+  n38 --- n46
+  n47["`Case Study: Treat Them Like Royalty — hợp đồng tác giả và nhà xuất bản`"]
+  n0 --- n47
+  n48["`Tiền bản quyền khoảng 15% giá bìa sách bìa cứng, 10% bìa mềm, cộng tiền ứng trước trả nhiều đợt`"]
+  n47 --- n48
+  n49["`Giữ lại ứng trước đến khi nộp bản thảo tạo động cơ nộp đúng hạn, ứng trước chuyển rủi ro sang nhà xuất bản`"]
+  n47 --- n49
+  n50["`Ứng trước lớn là tín hiệu đáng tin rằng nhà xuất bản tin sách bán chạy`"]
+  n47 --- n50
+  n51["`Tác giả muốn giá bìa tối đa doanh thu 20 USD, nhà xuất bản muốn tối đa lợi nhuận 24,3 USD`"]
+  n47 --- n51
+  n52["`Nhà xuất bản chỉ còn 35% giá bìa nên như thể chi phí in 8,6 USD thay vì 3 USD`"]
+  n47 --- n52
+  n53["`Thông điệp xuyên suốt`"]
+  n0 --- n53
+  n54["`Không quan sát được cố gắng tự nó không gây thiệt hại, thiệt hại đến từ cấm phạt, thiếu vốn, sợ rủi ro`"]
+  n53 --- n54
+  n55["`Mọi cơ chế phải thoả cùng lúc ràng buộc tham gia và ràng buộc tương thích động cơ`"]
+  n53 --- n55
+  n56["`Trách nhiệm thiết kế cơ chế tốt thuộc về người thuê, vì người duy lý sẽ lười nếu lười không bị gì`"]
+  n53 --- n56
+  class n0 root
+  class n1,n8,n17,n38,n47,n53 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52,n54,n55,n56 leaf
+```
+
+## Nguồn
+
+Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Phần III, Chương 13.
+
+## Tác giả
+
+Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Sách kế thừa *Thinking Strategically* (1991) của cùng hai tác giả.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần III áp dụng công cụ lý thuyết trò chơi của hai phần đầu vào từng loại tình huống cụ thể: thông tin (Chương 8), hợp tác và phối hợp (Chương 9), đấu giá (Chương 10), mặc cả (Chương 11), bỏ phiếu (Chương 12).
+
+Chương 13 quay lại một vấn đề thông tin đã mở ra ở Chương 8. Chương 8 bàn về **lựa chọn ngược (adverse selection)**, tức bên kia giấu một đặc điểm có sẵn, và cách xử lý bằng sàng lọc (screening) và phát tín hiệu (signaling). Chương 13 bàn về loại thông tin ẩn thứ hai: bên kia giấu một **hành động** do chính họ chọn, cụ thể là mức cố gắng khi làm việc. Hai tác giả dùng lại hai ràng buộc đã gặp ở Chương 8 (ràng buộc tham gia và ràng buộc tương thích động cơ) để thiết kế cách trả lương.
+
+Chương kết bằng một tình huống về hợp đồng tác giả và nhà xuất bản, rồi báo trước hai tình huống về động cơ khuyến khích sẽ xuất hiện trong Chương 14 (Case Studies): "Bay Bridge" và "But One Life to Lay Down for Your Country".
+
+## Lưu ý
+
+- Sách viết khoảng 2007–2008, trước khủng hoảng tài chính toàn cầu. Các nhận xét về lương CEO, về Cơ quan Quản lý Sân bay Anh (BAA) và về Bộ An ninh Nội địa Mỹ phản ánh thời điểm đó.
+- Một số chi tiết đã thay đổi: BAA sau đó bị cơ quan cạnh tranh của Anh buộc bán sân bay Gatwick rồi Stansted, nên các sân bay London nay thuộc những chủ sở hữu khác nhau và cạnh tranh với nhau, đúng như hai tác giả đề nghị; sau năm 2008, nhiều nước siết quy định về lương thưởng lãnh đạo doanh nghiệp (cổ đông biểu quyết về lương, điều khoản thu hồi thưởng).
+- Sách viết sai tên sân bay Stansted thành "Stanstead".
+- Chương có năm chú thích chân trang của tác giả có nội dung, đã đưa vào đúng chỗ trong phần Nội dung chi tiết (mục 2, mục 6 và mục 7), ghi "Chú thích của tác giả".
+- Chương có hai bài tập "Trip to the Gym" (số 9 và số 10); đáp án của sách đã đưa vào ngay sau đề bài.
+- Các câu trích là bản dịch của người tổng hợp.

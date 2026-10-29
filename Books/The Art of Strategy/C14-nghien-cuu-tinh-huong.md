@@ -1,11 +1,20 @@
 # Chương 14 — Các tình huống nghiên cứu (Case Studies)
 
-**Nguồn:** Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Chương 14.
-**Tác giả:** Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Hai ông từng viết chung *Thinking Strategically* (1991), cuốn sách mà *The Art of Strategy* kế thừa.
-**Vị trí trong lập luận của cả cuốn sách:** Đây là chương cuối của Phần III và của cả cuốn sách. Chương 13 (Incentives) khép lại phần lý thuyết bằng bài toán thiết kế động cơ khuyến khích và giới thiệu trước hai tình huống "Bay Bridge" và "But One Life to Lay Down for Your Country". Chương 14 không đưa ra công cụ mới. Nó gồm 18 tình huống, mỗi tình huống có phần đề bài và phần lời giải (Case Discussion), để người đọc tự luyện các công cụ đã học: suy luận ngược (Chương 2), chiến lược trội và thế lưỡng nan của người tù (Chương 3), cân bằng Nash (Chương 4), chiến lược hỗn hợp (Chương 5), nước đi chiến lược và độ tin cậy (Chương 6–7), thông tin (Chương 8), hợp tác và phối hợp (Chương 9), đấu giá (Chương 10), bầu cử (Chương 12) và động cơ khuyến khích (Chương 13). Cuối mỗi chương trước, hai tác giả đã chỉ sang những tình huống cụ thể ở đây (bảng ở đầu phần Nội dung chi tiết). Sau chương này sách chỉ còn phần Further Reading, Workouts và Notes.
-**Ý chính:** Hai tác giả muốn người đọc thấy rằng vài nguyên tắc đơn giản giải được những bài toán thoạt nhìn rất khó, và trực giác "tự nhiên" thường sai khi người khác cũng đang tính toán. Các bài học lặp lại qua nhiều tình huống: (1) **nhìn xa và suy luận ngược** (một hội đồng quản trị năm người bỏ phiếu nhất trí cho đề xuất tước ghế của chính họ; người chơi bắn kém nhất trong cuộc đấu súng tay ba nên bắn chỉ thiên); (2) **việc đối phương sẵn sàng giao dịch với mình là một thông tin** (hai người đổi phong bì tiền); (3) **đi trước không phải lúc nào cũng có lợi** (ván cò quay ở dạ hội Cambridge); (4) **nước đi chiến lược phải đáng tin**, và đôi khi chỉ một thể chế (luật kiểm soát súng, công suất dư thừa của Alcoa) mới làm nó đáng tin; (5) **người chơi thích nghi với luật mới**, nên đổi luật chưa chắc đổi kết quả (súng chính xác hơn không làm cuộc đấu súng chết chóc hơn). Ví dụ tiêu biểu nhất là tình huống "The Shark Repellent That Backfired": một bên thâu tóm chỉ có 1 trong 5 ghế vẫn khiến cả 5 thành viên hội đồng bỏ phiếu thuận cho việc thay toàn bộ hội đồng, chỉ bằng cách thiết kế khéo phần thưởng cho từng kiểu kết quả bỏ phiếu.
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2007–2008; nhiều tình huống dựa trên sự kiện cũ hơn nhiều (vụ Alcoa năm 1945, vụ Campeau thâu tóm Federated cuối thập niên 1980, trận Agincourt năm 1415). Một số chi tiết đã thay đổi từ đó: gói cước di động "số phút cố định mỗi tháng" mà sách phân tích phần lớn đã nhường chỗ cho gói không giới hạn cuộc gọi; ở Mỹ và châu Âu đã có các quy định buộc niêm yết giá trọn gói trong một số ngành (vé máy bay ở châu Âu; vé sự kiện và phòng lưu trú ngắn ngày ở Mỹ), đúng hướng mà hai tác giả đề xuất trong tình huống "A Burqa for Prices"; việc bầu hội đồng quản trị so le ở các công ty lớn của Mỹ đã giảm nhiều. Chương có 7 chú thích chân trang của tác giả, tất cả đã đưa vào đúng chỗ (tình huống 3, 5, 9, 11 và ba chú thích ở tình huống 17). Trong file text, dấu chú thích bị lệch một vị trí: nội dung chú thích của tình huống cò quay (tình huống 3) nằm ở cuối danh sách chú thích của Chương 13, và mỗi dấu chú thích trong Chương 14 lại mang nội dung của dấu đứng sau nó; người tổng hợp đã ghép lại theo nội dung. Nội dung cuối cùng trong danh sách (về "ký quỹ thông tin", information escrow) không khớp với chỗ nào trong chương, có lẽ thuộc phần Further Reading, nên không đưa vào. Lỗi rõ ràng của sách: công thức giá bình quân trong tình huống "Tough Guy, Tender Offer" in sai vế trái ($150 thay cho $105, X + 50 thay cho X − 50), vế phải thì đúng. Chỗ diễn đạt lỏng: trong tình huống "The Three-Way Duel", sách gọi 56% và 41,2% là cơ hội "thắng" (winning), nhưng các con số 41,2%, 56% và 14% là xác suất **sống sót** (có thể còn sống cùng một người khác), không phải xác suất là người sống sót duy nhất. Các câu trích là bản dịch của người tổng hợp.
+Hai tác giả muốn người đọc thấy rằng vài nguyên tắc đơn giản giải được những bài toán thoạt nhìn rất khó, và trực giác "tự nhiên" thường sai khi người khác cũng đang tính toán.
+
+Các bài học lặp lại qua nhiều tình huống: (1) **nhìn xa và suy luận ngược** (một hội đồng quản trị năm người bỏ phiếu nhất trí cho đề xuất tước ghế của chính họ; người chơi bắn kém nhất trong cuộc đấu súng tay ba nên bắn chỉ thiên);
+
+(2) **việc đối phương sẵn sàng giao dịch với mình là một thông tin** (hai người đổi phong bì tiền);
+
+(3) **đi trước không phải lúc nào cũng có lợi** (ván cò quay ở dạ hội Cambridge);
+
+(4) **nước đi chiến lược phải đáng tin**, và đôi khi chỉ một thể chế (luật kiểm soát súng, công suất dư thừa của Alcoa) mới làm nó đáng tin;
+
+(5) **người chơi thích nghi với luật mới**, nên đổi luật chưa chắc đổi kết quả (súng chính xác hơn không làm cuộc đấu súng chết chóc hơn).
+
+Ví dụ tiêu biểu nhất là tình huống "The Shark Repellent That Backfired": một bên thâu tóm chỉ có 1 trong 5 ghế vẫn khiến cả 5 thành viên hội đồng bỏ phiếu thuận cho việc thay toàn bộ hội đồng, chỉ bằng cách thiết kế khéo phần thưởng cho từng kiểu kết quả bỏ phiếu.
 
 ## Sơ đồ
 
@@ -719,7 +728,9 @@ Chuỗi suy luận đi từ trường hợp lớn nhất xuống tới đúng tr
 
 Tên tình huống chơi chữ với câu "sấp tôi thắng, ngửa bạn thua" (heads I win, tails you lose), chỉ một ván cược mà một bên thắng chắc.
 
-**Đề bài.** Hai tác giả mở đầu: dù có lẽ không bao giờ được cầm lái thuyền trong cuộc đua America's Cup (câu chuyện ở Chương 1, trong đó thuyền dẫn đầu nên chép y hướng đi của thuyền bám sau), một trong hai người đã gặp một bài toán rất giống. Khi học xong ở Cambridge, Barry dự một buổi dạ hội tháng Năm (May Ball, tương tự dạ hội cuối năm ở trường Mỹ). Trong buổi có một sòng bạc: mỗi người được phát phỉnh trị giá 20 bảng, ai có nhiều nhất cuối buổi được vé miễn phí dự dạ hội năm sau. Đến vòng quay cò quay cuối cùng, Barry dẫn đầu với 700 bảng, người thứ hai là một cô gái Anh với 300 bảng, những người khác gần như đã hết sạch. Ngay trước lượt cược cuối, cô đề nghị chia đôi vé năm sau; Barry từ chối, vì đang dẫn xa thì chẳng có lý do gì nhận một nửa.
+**Đề bài.** Hai tác giả mở đầu: dù có lẽ không bao giờ được cầm lái thuyền trong cuộc đua America's Cup (câu chuyện ở Chương 1, trong đó thuyền dẫn đầu nên chép y hướng đi của thuyền bám sau), một trong hai người đã gặp một bài toán rất giống. Khi học xong ở Cambridge, Barry dự một buổi dạ hội tháng Năm (May Ball, tương tự dạ hội cuối năm ở trường Mỹ).
+
+Trong buổi có một sòng bạc: mỗi người được phát phỉnh trị giá 20 bảng, ai có nhiều nhất cuối buổi được vé miễn phí dự dạ hội năm sau. Đến vòng quay cò quay cuối cùng, Barry dẫn đầu với 700 bảng, người thứ hai là một cô gái Anh với 300 bảng, những người khác gần như đã hết sạch. Ngay trước lượt cược cuối, cô đề nghị chia đôi vé năm sau; Barry từ chối, vì đang dẫn xa thì chẳng có lý do gì nhận một nửa.
 
 Luật cò quay: quả bóng rơi vào một số trên bánh xe, thường từ 0 đến 36; ra số 0 thì nhà cái thắng. Cược an toàn nhất là chẵn hay lẻ (đen hay đỏ): trả 1 ăn 1 (cược 1 USD nhận lại 2 USD), xác suất thắng chỉ 18/37. Cô gái có cược hết 300 bảng vào chẵn/lẻ cũng chỉ lên 600 bảng, vẫn thua Barry, nên cô buộc phải chọn cửa rủi ro hơn. Cô đặt cả 300 bảng vào khả năng bóng rơi vào một bội số của 3: cửa này trả 1 ăn 2 (thắng thì 300 bảng thành 900 bảng) nhưng xác suất thắng chỉ 12/37. Cược đã đặt lên bàn thì không rút lại được. Barry nên làm gì?
 
@@ -747,7 +758,9 @@ Bài học chiến lược ngược với câu chuyện Martin Luther và Charle
 - **Bầu so le (staggered board).** Mỗi thành viên có nhiệm kỳ 5 năm, các nhiệm kỳ lệch nhau, nên mỗi năm chỉ một ghế hết hạn. Ngay cả người sở hữu 100% cổ phần cũng chỉ thay được thành viên hết nhiệm kỳ, tức tối đa một ghế mỗi năm; nhìn bề ngoài thì phải mất ba năm mới chiếm được đa số.
 - **Chỉ hội đồng mới được đổi cách bầu hội đồng.** Nhà sáng lập lo rằng nếu kẻ thù địch nắm được cổ phần, họ sẽ đổi quy định bầu so le, nên thêm điều khoản thứ hai. Thành viên nào cũng được đề xuất mà không cần ai ủng hộ, nhưng người đề xuất phải bỏ phiếu thuận cho đề xuất của mình; sau đó các thành viên lần lượt bỏ phiếu theo chiều kim đồng hồ quanh bàn. Đề xuất cần ít nhất 50% toàn hội đồng (vắng mặt tính là chống), tức ít nhất 3 trên 5 phiếu. Điểm mấu chốt: ai đề xuất thay đổi thành phần hội đồng hoặc quy tắc bầu hội đồng mà đề xuất thất bại thì mất ghế và mất toàn bộ cổ phần, và số cổ phần đó chia đều cho các thành viên còn lại; ai bỏ phiếu thuận cho một đề xuất thất bại cũng chịu chung số phận.
 
-Một thời gian, điều khoản này đẩy lùi được các vụ thâu tóm. Rồi Sea Shells by the Sea Shore Ltd. mua 51% cổ phần trong một vụ thâu tóm thù địch và tự bầu mình vào một ghế ở kỳ họp thường niên. Có vẻ chưa đáng lo, vì Sea Shells chỉ là một tiếng nói chống lại bốn. Nhưng ngay phiên họp đầu tiên, Sea Shells đề xuất tái cơ cấu triệt để hội đồng, đề xuất đầu tiên loại này từng được đưa ra biểu quyết, và đề xuất không chỉ được thông qua mà còn được thông qua nhất trí. Sea Shells thay toàn bộ hội đồng ngay lập tức; các thành viên cũ nhận một "chiếc dù chì" (chơi chữ với "dù vàng", khoản bồi thường hậu hĩnh cho lãnh đạo bị thay; dù chì vẫn hơn không có gì) rồi bị mời ra cửa. Sea Shells đã làm thế nào? Gợi ý của sách: cách làm khá xảo quyệt, và chìa khoá là suy luận ngược. Trước hết tìm cách cho đề xuất được thông qua, sau đó mới lo chuyện nhất trí; muốn thông qua, hãy bắt đầu từ cuối và bảo đảm hai người bỏ phiếu sau cùng có lợi khi bỏ phiếu thuận, vì Sea Shells đã có sẵn phiếu thuận đầu tiên.
+Một thời gian, điều khoản này đẩy lùi được các vụ thâu tóm. Rồi Sea Shells by the Sea Shore Ltd. mua 51% cổ phần trong một vụ thâu tóm thù địch và tự bầu mình vào một ghế ở kỳ họp thường niên. Có vẻ chưa đáng lo, vì Sea Shells chỉ là một tiếng nói chống lại bốn. Nhưng ngay phiên họp đầu tiên, Sea Shells đề xuất tái cơ cấu triệt để hội đồng, đề xuất đầu tiên loại này từng được đưa ra biểu quyết, và đề xuất không chỉ được thông qua mà còn được thông qua nhất trí. Sea Shells thay toàn bộ hội đồng ngay lập tức; các thành viên cũ nhận một "chiếc dù chì" (chơi chữ với "dù vàng", khoản bồi thường hậu hĩnh cho lãnh đạo bị thay; dù chì vẫn hơn không có gì) rồi bị mời ra cửa.
+
+Sea Shells đã làm thế nào? Gợi ý của sách: cách làm khá xảo quyệt, và chìa khoá là suy luận ngược. Trước hết tìm cách cho đề xuất được thông qua, sau đó mới lo chuyện nhất trí; muốn thông qua, hãy bắt đầu từ cuối và bảo đảm hai người bỏ phiếu sau cùng có lợi khi bỏ phiếu thuận, vì Sea Shells đã có sẵn phiếu thuận đầu tiên.
 
 **Lời giải.** Có nhiều đề xuất làm được; đây là một. Đề xuất tái cơ cấu của Sea Shells có ba nhánh:
 
@@ -767,7 +780,9 @@ Hai thành viên đầu tiên của Piper's lúc này "lâm vào thế khó" (s�
 
 Tên tình huống chơi chữ giữa "tough" (cứng rắn) và "tender" (mềm mỏng; "tender offer" là chào mua công khai cổ phiếu).
 
-**Đề bài.** Khi Robert Campeau lần đầu chào mua chuỗi cửa hàng Federated Stores (và "viên ngọc" Bloomingdale's của nó), ông dùng chiến lược chào mua công khai hai bậc: giá cao cho những cổ phần được bán đầu tiên và giá thấp hơn cho phần bán sau. Để con số đơn giản, giả sử giá trước chào mua là 100 USD/cổ phiếu. Bậc 1 trả 105 USD/cổ phiếu cho các cổ đông bán trước, cho đến khi đủ một nửa tổng số cổ phần; 50% tiếp theo rơi vào bậc 2, chỉ được 90 USD/cổ phiếu. Để công bằng, cổ phiếu không được xếp vào bậc theo thứ tự bán, mà mọi người nhận giá pha trộn: mọi cổ phiếu được bán vào đều được chia theo tỷ lệ giữa hai bậc. Ai không bán thì, nếu chào mua thành công, toàn bộ cổ phiếu của họ rơi vào bậc 2.
+**Đề bài.** Khi Robert Campeau lần đầu chào mua chuỗi cửa hàng Federated Stores (và "viên ngọc" Bloomingdale's của nó), ông dùng chiến lược chào mua công khai hai bậc: giá cao cho những cổ phần được bán đầu tiên và giá thấp hơn cho phần bán sau. Để con số đơn giản, giả sử giá trước chào mua là 100 USD/cổ phiếu. Bậc 1 trả 105 USD/cổ phiếu cho các cổ đông bán trước, cho đến khi đủ một nửa tổng số cổ phần; 50% tiếp theo rơi vào bậc 2, chỉ được 90 USD/cổ phiếu.
+
+Để công bằng, cổ phiếu không được xếp vào bậc theo thứ tự bán, mà mọi người nhận giá pha trộn: mọi cổ phiếu được bán vào đều được chia theo tỷ lệ giữa hai bậc. Ai không bán thì, nếu chào mua thành công, toàn bộ cổ phiếu của họ rơi vào bậc 2.
 
 Giá bình quân mỗi cổ phiếu: nếu dưới 50% tổng số cổ phần được bán, ai bán cũng nhận 105 USD; nếu X% (X ≥ 50) được bán, giá bình quân là
 
@@ -793,7 +808,9 @@ Hai đặc điểm cần chú ý. Thứ nhất, chào mua này là vô điều k
 | Chào mua hai bậc nhận trên 50% và thành công | 90 USD (toàn bộ rơi vào bậc 2) | Ít nhất 97,5 USD |
 | Đúng 50%: có bạn thì thành công, không có bạn thì thất bại | 100 hoặc 102 USD | 105 USD (người khác thiệt nếu chào mua thành công, nhưng riêng bạn có lợi, nên bạn sẵn lòng đẩy nó qua ngưỡng) |
 
-Vì bán là chiến lược trội, mọi người đều bán. Khi mọi người bán, giá pha trộn có thể thấp hơn giá trước chào mua và thấp hơn cả giá kỳ vọng nếu chào mua thất bại. Chào mua hai bậc vì thế cho phép kẻ thâu tóm trả ít hơn giá trị công ty. Việc cổ đông có chiến lược trội không có nghĩa là họ được lợi; kẻ thâu tóm dùng giá thấp của bậc 2 để giành lợi thế không công bằng. Thực tế, tính thao túng của bậc 2 thường ít lộ liễu hơn ví dụ này, vì sự ép buộc bị che một phần bởi khoản giá cao hơn thị trường của chào mua (takeover premium): nếu sau thâu tóm công ty thật sự đáng 110 USD/cổ phiếu, kẻ thâu tóm vẫn giành lợi thế không công bằng bằng một bậc 2 dưới 110 USD nhưng trên 100 USD. Giới luật sư coi chào mua hai bậc là ép buộc và đã dùng lập luận này để chống kẻ thâu tóm thành công trước toà. Trong cuộc chiến giành Bloomingdale's, Campeau cuối cùng thắng, nhưng bằng một chào mua sửa đổi không còn chia bậc.
+Vì bán là chiến lược trội, mọi người đều bán. Khi mọi người bán, giá pha trộn có thể thấp hơn giá trước chào mua và thấp hơn cả giá kỳ vọng nếu chào mua thất bại. Chào mua hai bậc vì thế cho phép kẻ thâu tóm trả ít hơn giá trị công ty. Việc cổ đông có chiến lược trội không có nghĩa là họ được lợi; kẻ thâu tóm dùng giá thấp của bậc 2 để giành lợi thế không công bằng.
+
+Thực tế, tính thao túng của bậc 2 thường ít lộ liễu hơn ví dụ này, vì sự ép buộc bị che một phần bởi khoản giá cao hơn thị trường của chào mua (takeover premium): nếu sau thâu tóm công ty thật sự đáng 110 USD/cổ phiếu, kẻ thâu tóm vẫn giành lợi thế không công bằng bằng một bậc 2 dưới 110 USD nhưng trên 100 USD. Giới luật sư coi chào mua hai bậc là ép buộc và đã dùng lập luận này để chống kẻ thâu tóm thành công trước toà. Trong cuộc chiến giành Bloomingdale's, Campeau cuối cùng thắng, nhưng bằng một chào mua sửa đổi không còn chia bậc.
 
 Chào mua có điều kiện không phải đối sách hiệu quả trước một chào mua hai bậc vô điều kiện. Trong ví dụ, Macy's sẽ hiệu quả hơn nhiều nếu chào 102 USD vô điều kiện. Một chào mua vô điều kiện của Macy's phá vỡ cân bằng trong đó chào mua hai bậc thành công: nếu cổ đông tin chào mua hai bậc chắc chắn thành công, họ sẽ kỳ vọng giá pha trộn 97,5 USD, thấp hơn mức họ nhận khi bán cho Macy's; do đó không thể có chuyện cổ đông vừa tin chào mua hai bậc thành công vừa bán cho nó.
 
@@ -807,7 +824,9 @@ Cuối năm 1989, các hoạt động của Campeau đổ vỡ vì nợ quá l�
 
 **Lời giải.** Thoạt nhìn câu trả lời hiển nhiên là có. Nhưng người chơi sẽ điều chỉnh chiến lược theo hoàn cảnh mới. Câu trả lời dễ thấy hơn nếu lật ngược câu hỏi: giả sử ta muốn làm cuộc đấu súng an toàn hơn bằng cách giảm độ chính xác của súng. Kết quả mới chỉ là hai đối thủ bước lại gần nhau hơn trước khi bắn.
 
-Nhắc lại phân tích cuộc đấu súng ở Chương 10 (trong đó cuộc đấu được dùng làm mô hình cho trò chơi giành đi trước, và được xem như một cuộc đấu giá về thời điểm bắn): mỗi người chờ đến đúng lúc xác suất mình bắn trúng bằng xác suất đối thủ bắn trượt. Độ chính xác của súng không có mặt trong điều kiện này; chỉ xác suất thành công cuối cùng là quan trọng. Với hai người bắn giỏi như nhau, chiến lược tối ưu là cùng tiến lại cho đến khi xác suất trúng đạt 1/2, rồi một người bắn (ai bắn cũng vậy, vì người bắn và người bị bắn đều có cơ hội 1/2). Xác suất sống sót của mỗi người là 1/2 bất kể súng chính xác đến đâu. Thay đổi luật không nhất thiết thay đổi kết quả; người chơi sẽ điều chỉnh chiến lược để bù lại.
+Nhắc lại phân tích cuộc đấu súng ở Chương 10 (trong đó cuộc đấu được dùng làm mô hình cho trò chơi giành đi trước, và được xem như một cuộc đấu giá về thời điểm bắn): mỗi người chờ đến đúng lúc xác suất mình bắn trúng bằng xác suất đối thủ bắn trượt. Độ chính xác của súng không có mặt trong điều kiện này; chỉ xác suất thành công cuối cùng là quan trọng.
+
+Với hai người bắn giỏi như nhau, chiến lược tối ưu là cùng tiến lại cho đến khi xác suất trúng đạt 1/2, rồi một người bắn (ai bắn cũng vậy, vì người bắn và người bị bắn đều có cơ hội 1/2). Xác suất sống sót của mỗi người là 1/2 bất kể súng chính xác đến đâu. Thay đổi luật không nhất thiết thay đổi kết quả; người chơi sẽ điều chỉnh chiến lược để bù lại.
 
 ### 7. The Three-Way Duel (Cuộc đấu súng tay ba)
 
@@ -819,7 +838,9 @@ Nhắc lại phân tích cuộc đấu súng ở Chương 10 (trong đó cuộc 
 - **Larry bắn Curly và trúng:** tới lượt Moe, và Moe sẽ bắn Larry (sách để người đọc tự nghĩ vì sao). Vậy nếu Larry hạ được Curly, cơ hội sống của Larry dưới 20%, tức khả năng Moe bắn trượt.
 - **Larry bắn chỉ thiên:** đây là chiến lược tốt nhất. Moe sẽ bắn Curly (người duy nhất đe doạ được Moe ở lượt tiếp theo); nếu Moe trượt, Curly bắn chết Moe. Sang vòng 2, Larry được bắn trước, và chỉ còn một đối thủ, nên Larry có ít nhất 30% cơ hội sống sót (xác suất hạ được đối thủ cuối cùng).
 
-Bài học: cá bé đôi khi nên bỏ qua cơ hội đầu tiên để làm ngôi sao. Cứ bốn năm lại thấy điều này trong các cuộc tranh cử tổng thống Mỹ: khi có đông ứng viên, người dẫn đầu thường bị loại vì các đòn tấn công dồn dập của những "con cá cỡ vừa". Có thể có lợi nếu chờ đợi, và chỉ bước ra ánh đèn sân khấu sau khi những người khác đã loại nhau. Cơ hội sống sót không chỉ phụ thuộc vào tài của mình mà còn vào việc mình đe doạ ai. Người yếu không đe doạ ai có thể sống sót nếu những người mạnh tiêu diệt lẫn nhau. Curly, dù chính xác nhất, lại có cơ hội sống sót thấp nhất, chỉ 14%; hai tác giả mỉa: "sống sót của kẻ mạnh nhất" chỉ đến thế. Moe có 56%. Chiến lược tốt nhất biến độ chính xác 30% của Larry thành 41,2% cơ hội sống sót.
+Bài học: cá bé đôi khi nên bỏ qua cơ hội đầu tiên để làm ngôi sao. Cứ bốn năm lại thấy điều này trong các cuộc tranh cử tổng thống Mỹ: khi có đông ứng viên, người dẫn đầu thường bị loại vì các đòn tấn công dồn dập của những "con cá cỡ vừa". Có thể có lợi nếu chờ đợi, và chỉ bước ra ánh đèn sân khấu sau khi những người khác đã loại nhau.
+
+Cơ hội sống sót không chỉ phụ thuộc vào tài của mình mà còn vào việc mình đe doạ ai. Người yếu không đe doạ ai có thể sống sót nếu những người mạnh tiêu diệt lẫn nhau. Curly, dù chính xác nhất, lại có cơ hội sống sót thấp nhất, chỉ 14%; hai tác giả mỉa: "sống sót của kẻ mạnh nhất" chỉ đến thế. Moe có 56%. Chiến lược tốt nhất biến độ chính xác 30% của Larry thành 41,2% cơ hội sống sót.
 
 Bảng kiểm tra các con số trên (người tổng hợp tính, giả định Larry bắn chỉ thiên ở vòng 1, Moe bắn Curly, Curly còn sống thì bắn Moe, và ở vòng 2 mỗi người bắn vào đối thủ còn lại):
 
@@ -837,7 +858,9 @@ Cộng lại: Larry sống sót 0,24 + 0,112 + 0,06 = 0,412 (41,2%); Moe sống 
 
 **Đề bài.** Một đặc điểm khác thường của đấu giá kín Vickrey là người thắng không biết mình phải trả bao nhiêu cho đến khi đấu giá kết thúc, vì người thắng chỉ trả mức giá cao thứ hai. Trong đấu giá kín thông thường, người thắng trả đúng giá mình bỏ, nên không có gì bất định. Phản ứng thông thường trước bất định là tiêu cực: người tham gia đấu giá Vickrey chịu thiệt vì không biết mình sẽ trả bao nhiêu nếu thắng. Liệu có hợp lý không nếu người tham gia phản ứng với rủi ro này bằng cách bỏ giá thấp hơn giá trị thật của mình?
 
-**Lời giải.** Đúng là người tham gia không thích sự bất định về số tiền phải trả, và thực tế mỗi người đều thiệt hơn vì nó. Dù vậy, họ vẫn nên bỏ đúng giá trị thật, vì bỏ đúng giá trị thật là chiến lược trội. Hễ giá bán thấp hơn giá trị của mình thì mình muốn mua; cách duy nhất bảo đảm luôn thắng trong mọi trường hợp đó là bỏ đúng giá trị thật. Trong đấu giá Vickrey, bỏ giá thật không làm bạn trả nhiều hơn, trừ trường hợp có người khác lẽ ra đã vượt bạn, và khi đó bạn vốn muốn nâng giá cho tới khi giá bán vượt giá trị của mình. Rủi ro của đấu giá Vickrey có giới hạn: người thắng không bao giờ phải trả nhiều hơn giá mình bỏ. Sự bất định chỉ là bất định về mức độ của tin tốt. Dù tin tốt nhiều hay ít, chiến lược tốt nhất vẫn là thắng mỗi khi thắng có lời, nghĩa là bỏ đúng giá trị thật: không bỏ lỡ cơ hội có lời nào, và mỗi khi thắng thì trả ít hơn giá trị thật.
+**Lời giải.** Đúng là người tham gia không thích sự bất định về số tiền phải trả, và thực tế mỗi người đều thiệt hơn vì nó. Dù vậy, họ vẫn nên bỏ đúng giá trị thật, vì bỏ đúng giá trị thật là chiến lược trội. Hễ giá bán thấp hơn giá trị của mình thì mình muốn mua; cách duy nhất bảo đảm luôn thắng trong mọi trường hợp đó là bỏ đúng giá trị thật. Trong đấu giá Vickrey, bỏ giá thật không làm bạn trả nhiều hơn, trừ trường hợp có người khác lẽ ra đã vượt bạn, và khi đó bạn vốn muốn nâng giá cho tới khi giá bán vượt giá trị của mình.
+
+Rủi ro của đấu giá Vickrey có giới hạn: người thắng không bao giờ phải trả nhiều hơn giá mình bỏ. Sự bất định chỉ là bất định về mức độ của tin tốt. Dù tin tốt nhiều hay ít, chiến lược tốt nhất vẫn là thắng mỗi khi thắng có lời, nghĩa là bỏ đúng giá trị thật: không bỏ lỡ cơ hội có lời nào, và mỗi khi thắng thì trả ít hơn giá trị thật.
 
 ### 9. But One Life to Lay Down for Your Country (Chỉ có một mạng sống để hiến cho tổ quốc)
 
@@ -847,17 +870,27 @@ Tên tình huống gợi câu nói nổi tiếng của Nathan Hale, người lí
 
 **Lời giải.** Hai tác giả chia các cách thành hai nhóm.
 
-*Nhóm thứ nhất: thay đổi lối tính toán vì bản thân của người lính.* Quá trình bắt đầu ở trại huấn luyện tân binh. Huấn luyện cơ bản ở mọi quân đội đều là trải nghiệm chấn thương: tân binh bị ngược đãi, bị làm nhục, bị đặt dưới sức ép thể chất và tinh thần lớn đến mức vài tuần đó thay đổi hẳn tính cách. Một thói quen quan trọng hình thành trong quá trình này là vâng lệnh tự động, không thắc mắc. Chẳng có lý do gì phải gấp tất hay trải giường theo một kiểu nhất định, ngoài việc sĩ quan đã ra lệnh; ý đồ là sự vâng lời ấy sẽ lặp lại khi mệnh lệnh quan trọng hơn. Được huấn luyện để không thắc mắc, người lính thành cỗ máy chiến đấu; cam kết thành phản xạ. Nhiều đội quân còn cho lính uống say trước trận: có thể giảm hiệu quả chiến đấu, nhưng cũng giảm khả năng tính toán chuyện giữ mạng. Cái vẻ phi lý của từng người lính biến thành lý trí chiến lược.
+*Nhóm thứ nhất: thay đổi lối tính toán vì bản thân của người lính.* Quá trình bắt đầu ở trại huấn luyện tân binh. Huấn luyện cơ bản ở mọi quân đội đều là trải nghiệm chấn thương: tân binh bị ngược đãi, bị làm nhục, bị đặt dưới sức ép thể chất và tinh thần lớn đến mức vài tuần đó thay đổi hẳn tính cách.
 
-Shakespeare hiểu rất rõ điều này. Trong vở *Henry V*, đêm trước trận Agincourt (diễn ra ngày thánh Crispin, 25/10/1415), vua Henry cầu nguyện (hai tác giả nhấn mạnh phần giữa): "Hỡi Chúa của các trận chiến! Xin rèn cho tim binh lính của con thành thép; đừng để nỗi sợ chiếm lấy họ; **xin lấy đi khỏi họ ngay lúc này khả năng tính toán**, nếu quân số đối phương làm họ mất hết can đảm." Ngay trước trận, Henry làm một việc thoạt nhìn đi ngược mục đích. Thay vì ép buộc chiến đấu, ông tuyên bố: ai không có bụng đánh trận này thì cứ đi; sẽ được làm giấy thông hành và được bỏ tiền đi đường vào túi; ta không muốn chết cùng người sợ chết cùng ta. Mẹo nằm ở chỗ ai muốn nhận lời thì phải làm vậy trước mặt mọi đồng đội. Dĩ nhiên ai cũng quá xấu hổ để nhận. Và hành động (đúng hơn là không hành động) công khai từ chối lời đề nghị ấy thay đổi sở thích, thậm chí tính cách, của binh lính một cách không thể đảo ngược. Bằng việc từ chối, họ đã "đốt những con thuyền về nhà" về mặt tâm lý (hình ảnh mà Chương 7 dùng cho Hernán Cortés). Họ đã lập một hợp đồng ngầm với nhau là không chùn bước trước cái chết khi thời khắc đến.
+Một thói quen quan trọng hình thành trong quá trình này là vâng lệnh tự động, không thắc mắc. Chẳng có lý do gì phải gấp tất hay trải giường theo một kiểu nhất định, ngoài việc sĩ quan đã ra lệnh; ý đồ là sự vâng lời ấy sẽ lặp lại khi mệnh lệnh quan trọng hơn. Được huấn luyện để không thắc mắc, người lính thành cỗ máy chiến đấu; cam kết thành phản xạ. Nhiều đội quân còn cho lính uống say trước trận: có thể giảm hiệu quả chiến đấu, nhưng cũng giảm khả năng tính toán chuyện giữ mạng. Cái vẻ phi lý của từng người lính biến thành lý trí chiến lược.
+
+Shakespeare hiểu rất rõ điều này. Trong vở *Henry V*, đêm trước trận Agincourt (diễn ra ngày thánh Crispin, 25/10/1415), vua Henry cầu nguyện (hai tác giả nhấn mạnh phần giữa): "Hỡi Chúa của các trận chiến! Xin rèn cho tim binh lính của con thành thép; đừng để nỗi sợ chiếm lấy họ; **xin lấy đi khỏi họ ngay lúc này khả năng tính toán**, nếu quân số đối phương làm họ mất hết can đảm."
+
+Ngay trước trận, Henry làm một việc thoạt nhìn đi ngược mục đích. Thay vì ép buộc chiến đấu, ông tuyên bố: ai không có bụng đánh trận này thì cứ đi; sẽ được làm giấy thông hành và được bỏ tiền đi đường vào túi; ta không muốn chết cùng người sợ chết cùng ta. Mẹo nằm ở chỗ ai muốn nhận lời thì phải làm vậy trước mặt mọi đồng đội.
+
+Dĩ nhiên ai cũng quá xấu hổ để nhận. Và hành động (đúng hơn là không hành động) công khai từ chối lời đề nghị ấy thay đổi sở thích, thậm chí tính cách, của binh lính một cách không thể đảo ngược. Bằng việc từ chối, họ đã "đốt những con thuyền về nhà" về mặt tâm lý (hình ảnh mà Chương 7 dùng cho Hernán Cortés). Họ đã lập một hợp đồng ngầm với nhau là không chùn bước trước cái chết khi thời khắc đến.
 
 > **Chú thích của tác giả:** Người khác cũng đã dùng mẹo này. Roald Amundsen khởi đầu chuyến thám hiểm Nam Cực bằng một mánh: những người đăng ký tưởng mình tham gia một chuyến đi dài nhưng ít nguy hiểm hơn nhiều tới Bắc Cực. Ông chỉ tiết lộ mục tiêu thật ở điểm cuối cùng còn quay về được, và đề nghị trả tiền tàu về Na Uy cho ai không muốn đi tiếp. Không ai nhận lời, dù sau đó có nhiều tiếng lầm bầm: "Sao anh lại nói đồng ý? Giá mà anh nói không thì tôi cũng nói vậy." Giống Henry V, Amundsen chiến thắng và là người đầu tiên đặt chân lên Nam Cực địa lý.
 
-*Nhóm thứ hai: động cơ khuyến khích hành động.* Có thể là vật chất: ngày xưa quân thắng trận được cướp tài sản, thậm chí đồ trên xác quân địch; ngày nay có thể hứa trợ cấp tử tuất hào phóng cho thân nhân. Nhưng động lực chiến đấu và liều mạng phần lớn là phi vật chất: huân chương, danh dự và vinh quang đến với người dũng cảm dù họ sống hay chết; người may mắn sống sót có thể khoe chiến công nhiều năm sau. Lại là vua Henry V của Shakespeare, trong bài diễn văn ngày thánh Crispin: ai sống qua ngày hôm nay và tới tuổi già sẽ mỗi năm đãi hàng xóm vào đêm trước lễ, kể (và thêm thắt) những chiến công ngày hôm đó; ngày thánh Crispin sẽ không bao giờ trôi qua mà không ai nhắc tới chúng ta, "chúng ta, số ít, số ít hạnh phúc, một nhóm anh em"; ai hôm nay đổ máu cùng ta sẽ là anh em của ta; và các quý ông ở Anh đang nằm trên giường sẽ tự thấy mình đáng nguyền rủa vì không có mặt ở đây, và thấy mình kém cỏi mỗi khi có người từng chiến đấu cùng chúng ta ngày thánh Crispin cất lời.
+*Nhóm thứ hai: động cơ khuyến khích hành động.* Có thể là vật chất: ngày xưa quân thắng trận được cướp tài sản, thậm chí đồ trên xác quân địch; ngày nay có thể hứa trợ cấp tử tuất hào phóng cho thân nhân. Nhưng động lực chiến đấu và liều mạng phần lớn là phi vật chất: huân chương, danh dự và vinh quang đến với người dũng cảm dù họ sống hay chết; người may mắn sống sót có thể khoe chiến công nhiều năm sau.
+
+Lại là vua Henry V của Shakespeare, trong bài diễn văn ngày thánh Crispin: ai sống qua ngày hôm nay và tới tuổi già sẽ mỗi năm đãi hàng xóm vào đêm trước lễ, kể (và thêm thắt) những chiến công ngày hôm đó; ngày thánh Crispin sẽ không bao giờ trôi qua mà không ai nhắc tới chúng ta, "chúng ta, số ít, số ít hạnh phúc, một nhóm anh em"; ai hôm nay đổ máu cùng ta sẽ là anh em của ta; và các quý ông ở Anh đang nằm trên giường sẽ tự thấy mình đáng nguyền rủa vì không có mặt ở đây, và thấy mình kém cỏi mỗi khi có người từng chiến đấu cùng chúng ta ngày thánh Crispin cất lời.
 
 Được làm anh em của vua; khiến người khác thấy mình kém cỏi khi mình lên tiếng: những động cơ khuyến khích thật mạnh! Nhưng hãy nghĩ một chút. Làm anh em của vua thực ra nghĩa là gì? Nếu bạn sống sót và trở về Anh cùng đội quân chiến thắng, vua có nói "A, người anh em! Hãy về sống cùng ta trong cung điện" không? Không. Bạn sẽ trở lại cuộc sống nghèo khổ như cũ. Xét cụ thể, động cơ này rỗng; nó giống "lời nói rẻ" (cheap talk) đã bàn khi nói về độ tin cậy. Vậy mà nó hiệu quả. Khoa học lý thuyết trò chơi không giải thích được trọn vẹn vì sao; bài diễn văn của Henry là nghệ thuật chiến lược ở mức đỉnh cao.
 
-Còn một ẩn ý liên quan. Đêm trước trận, Henry cải trang đi giữa quân lính để biết họ thật sự nghĩ gì. Ông phát hiện một điều đáng lo: họ sợ bị giết hay bị bắt, và họ tin vua không chịu cùng rủi ro đó, vì dù địch bắt được vua, chúng sẽ không giết mà giữ lại đòi tiền chuộc, và tiền chuộc sẽ được trả. Henry phải xua tan nỗi sợ này nếu muốn binh lính trung thành và đoàn kết. Sáng hôm sau mà nói "Này anh em, ta nghe nói có người nghĩ ta không liều mạng cùng các ngươi; ta xin cam đoan là có" thì còn tệ hơn vô ích: nó củng cố đúng mối nghi tệ nhất của binh lính, giống câu "Tôi không phải kẻ gian" của Richard Nixon thời vụ Watergate. Thay vào đó, Henry coi việc mình liều mạng là đương nhiên và lật ngược câu hỏi: "Các ngươi có liều mạng *cùng ta* không?" Đó là cách hiểu các câu "ta không muốn chết cùng người ấy" và "ai đổ máu cùng ta". Lại một ví dụ đẹp của nghệ thuật chiến lược.
+Còn một ẩn ý liên quan. Đêm trước trận, Henry cải trang đi giữa quân lính để biết họ thật sự nghĩ gì. Ông phát hiện một điều đáng lo: họ sợ bị giết hay bị bắt, và họ tin vua không chịu cùng rủi ro đó, vì dù địch bắt được vua, chúng sẽ không giết mà giữ lại đòi tiền chuộc, và tiền chuộc sẽ được trả. Henry phải xua tan nỗi sợ này nếu muốn binh lính trung thành và đoàn kết.
+
+Sáng hôm sau mà nói "Này anh em, ta nghe nói có người nghĩ ta không liều mạng cùng các ngươi; ta xin cam đoan là có" thì còn tệ hơn vô ích: nó củng cố đúng mối nghi tệ nhất của binh lính, giống câu "Tôi không phải kẻ gian" của Richard Nixon thời vụ Watergate. Thay vào đó, Henry coi việc mình liều mạng là đương nhiên và lật ngược câu hỏi: "Các ngươi có liều mạng *cùng ta* không?" Đó là cách hiểu các câu "ta không muốn chết cùng người ấy" và "ai đổ máu cùng ta". Lại một ví dụ đẹp của nghệ thuật chiến lược.
 
 Tất nhiên đây không phải lịch sử thật mà là phiên bản hư cấu của Shakespeare. Nhưng hai tác giả cho rằng các nghệ sĩ thường hiểu cảm xúc, lý lẽ và động cơ con người sâu hơn các nhà tâm lý học, huống chi nhà kinh tế, nên ta nên sẵn lòng học nghệ thuật chiến lược từ họ.
 
@@ -888,7 +921,9 @@ ZECK là trò chơi chấm cho hai người. Mục tiêu là buộc đối thủ
 
 Với mọi hình chữ nhật có hơn một chấm, người đi trước phải có chiến lược thắng, dù hiện chưa ai biết chiến lược ấy. Tất nhiên với từng bàn cụ thể như 7 × 4 có thể xét hết các khả năng để tìm ra, nhưng chưa ai biết chiến lược tốt nhất cho mọi cấu hình. Làm sao chứng minh ai có chiến lược thắng mà không biết nó là gì?
 
-**Lời giải.** Nếu người đi sau có chiến lược thắng, nghĩa là với *bất kỳ* nước mở đầu nào của người đi trước, người đi sau có nước đáp đưa mình vào thế thắng. Đặc biệt, người đi sau phải có nước đáp thắng ngay cả khi người đi trước chỉ lấy chấm góc trên bên phải. Nhưng dù người đi sau đáp thế nào, bàn cờ sau đó cũng là một cấu hình mà người đi trước có thể tạo ra ngay ở nước đầu tiên (vì chấm nào bị chọn thì chấm góc trên bên phải cũng bị lấy theo). Nếu đó thật sự là thế thắng, người đi trước lẽ ra nên và đã có thể mở đầu như vậy. Người đi sau không làm được gì với người đi trước mà người đi trước không làm được trước với người đi sau. Vậy người đi sau không thể có chiến lược thắng; vì trò chơi hữu hạn và không có hòa, người đi trước có chiến lược thắng.
+**Lời giải.** Nếu người đi sau có chiến lược thắng, nghĩa là với *bất kỳ* nước mở đầu nào của người đi trước, người đi sau có nước đáp đưa mình vào thế thắng. Đặc biệt, người đi sau phải có nước đáp thắng ngay cả khi người đi trước chỉ lấy chấm góc trên bên phải.
+
+Nhưng dù người đi sau đáp thế nào, bàn cờ sau đó cũng là một cấu hình mà người đi trước có thể tạo ra ngay ở nước đầu tiên (vì chấm nào bị chọn thì chấm góc trên bên phải cũng bị lấy theo). Nếu đó thật sự là thế thắng, người đi trước lẽ ra nên và đã có thể mở đầu như vậy. Người đi sau không làm được gì với người đi trước mà người đi trước không làm được trước với người đi sau. Vậy người đi sau không thể có chiến lược thắng; vì trò chơi hữu hạn và không có hòa, người đi trước có chiến lược thắng.
 
 ### 11. A Burqa for Prices (Giá cả bị che như dưới tấm áo burqa)
 
@@ -961,11 +996,17 @@ Chương 9 đã dùng cầu Bay Bridge (nối Oakland với San Francisco) để
 
 Bạn có thể nghĩ mình chưa đủ thông tin. Điểm đáng chú ý của bài toán là ngoại ứng này tính được chỉ từ những gì đã cho. Không cần biết mỗi xe mất bao lâu để qua trạm thu phí, cũng không cần biết phân bố xe đến sau 9:00. Đáp án như nhau dù chiều dài dòng kẹt giữ nguyên hay thay đổi nhiều cho tới khi tan.
 
-**Lời giải.** Mẹo là thấy rằng chỉ tổng thời gian chờ là quan trọng, còn ai chờ thì không. (Trong hoàn cảnh khác, có thể muốn gán trọng số cho thời gian chờ theo giá trị tiền của thời gian mỗi người.) Cách đơn giản nhất để tính tổng thời gian chờ tăng thêm là xếp lại ai chờ, dồn toàn bộ gánh nặng lên một người. Hãy tưởng tượng người lái thêm vào, thay vì qua cầu lúc 9:00, tấp xe vào lề và để mọi người khác đi trước. Khi nhường lượt như vậy, những người khác không còn bị chiếc xe này làm chậm. Dĩ nhiên anh ta phải chờ 2 giờ cho tới khi hết kẹt. Nhưng 2 giờ này đúng bằng tổng thời gian chờ mà anh ta lẽ ra gây cho mọi người khác nếu qua cầu thay vì chờ bên lề. Lý do rất thẳng: tổng thời gian chờ là thời gian cần để mọi người qua cầu; mọi cách sắp xếp trong đó tất cả đều qua cầu cho cùng một tổng thời gian chờ, chỉ phân chia khác nhau. Xét cách sắp xếp mà chiếc xe thêm vào gánh hết phần chờ tăng thêm là cách dễ nhất để cộng tổng mới.
+**Lời giải.** Mẹo là thấy rằng chỉ tổng thời gian chờ là quan trọng, còn ai chờ thì không. (Trong hoàn cảnh khác, có thể muốn gán trọng số cho thời gian chờ theo giá trị tiền của thời gian mỗi người.) Cách đơn giản nhất để tính tổng thời gian chờ tăng thêm là xếp lại ai chờ, dồn toàn bộ gánh nặng lên một người.
+
+Hãy tưởng tượng người lái thêm vào, thay vì qua cầu lúc 9:00, tấp xe vào lề và để mọi người khác đi trước. Khi nhường lượt như vậy, những người khác không còn bị chiếc xe này làm chậm. Dĩ nhiên anh ta phải chờ 2 giờ cho tới khi hết kẹt. Nhưng 2 giờ này đúng bằng tổng thời gian chờ mà anh ta lẽ ra gây cho mọi người khác nếu qua cầu thay vì chờ bên lề.
+
+Lý do rất thẳng: tổng thời gian chờ là thời gian cần để mọi người qua cầu; mọi cách sắp xếp trong đó tất cả đều qua cầu cho cùng một tổng thời gian chờ, chỉ phân chia khác nhau. Xét cách sắp xếp mà chiếc xe thêm vào gánh hết phần chờ tăng thêm là cách dễ nhất để cộng tổng mới.
 
 ### 14. What Price a Dollar? (Một đô la giá bao nhiêu?)
 
-**Đề bài.** Giáo sư Martin Shubik ở Đại học Yale thiết kế trò chơi "gài bẫy" sau. Người điều khiển mời mọi người trả giá mua một tờ 1 USD. Giá tăng theo bước 5 xu. Người trả cao nhất nhận tờ 1 USD, nhưng *cả* người trả cao nhất *lẫn* người trả cao thứ nhì đều phải trả số tiền mình đã bỏ. Các giáo sư đã kiếm được kha khá, đủ cho một hai bữa trưa ở câu lạc bộ giảng viên, từ những sinh viên không đề phòng chơi trò này trong lớp. Giả sử giá cao nhất hiện là 60 xu và bạn đứng thứ nhì với 55 xu. Người dẫn đầu sắp lời 40 xu, còn bạn sắp mất 55 xu. Nâng lên 65 xu, bạn đảo ngược tình thế. Logic không khác gì khi giá dẫn đầu là 3,60 USD và của bạn là 3,55 USD: nếu bạn không nâng tiếp, "người thắng" mất 3,60 USD, còn bạn mất 3,55 USD. Bạn sẽ chơi thế nào?
+**Đề bài.** Giáo sư Martin Shubik ở Đại học Yale thiết kế trò chơi "gài bẫy" sau. Người điều khiển mời mọi người trả giá mua một tờ 1 USD. Giá tăng theo bước 5 xu. Người trả cao nhất nhận tờ 1 USD, nhưng *cả* người trả cao nhất *lẫn* người trả cao thứ nhì đều phải trả số tiền mình đã bỏ. Các giáo sư đã kiếm được kha khá, đủ cho một hai bữa trưa ở câu lạc bộ giảng viên, từ những sinh viên không đề phòng chơi trò này trong lớp.
+
+Giả sử giá cao nhất hiện là 60 xu và bạn đứng thứ nhì với 55 xu. Người dẫn đầu sắp lời 40 xu, còn bạn sắp mất 55 xu. Nâng lên 65 xu, bạn đảo ngược tình thế. Logic không khác gì khi giá dẫn đầu là 3,60 USD và của bạn là 3,55 USD: nếu bạn không nâng tiếp, "người thắng" mất 3,60 USD, còn bạn mất 3,55 USD. Bạn sẽ chơi thế nào?
 
 (Người tổng hợp lưu ý: chính xác hơn, "người thắng" trả 3,60 USD nhưng nhận tờ 1 USD, nên lỗ ròng 2,60 USD; kết luận không đổi.)
 
@@ -994,7 +1035,9 @@ Bạn có thể coi câu chuyện này là bằng chứng về sự dại dột 
 
 **Đề bài.** Tình huống mở đầu bằng lời vua Lear trong vở kịch cùng tên của Shakespeare: "Hãy nói ta nghe, các con gái của ta, vì nay ta sẽ trút bỏ quyền cai trị, đất đai và việc nước, đứa nào trong các con yêu ta nhất, để ta ban phần thưởng lớn nhất cho người có công xứng đáng." Vua Lear lo các con sẽ đối xử với mình thế nào khi về già, và cay đắng nhận ra rằng con cái không phải lúc nào cũng làm đúng điều đã hứa. Ngoài tình yêu và sự kính trọng, con cái còn có động cơ là tài sản thừa kế. Tình huống xét cách dùng tài sản thừa kế một cách chiến lược để khiến các con đến thăm cha mẹ.
 
-Giả sử cha mẹ muốn mỗi người con đến thăm một lần và gọi điện hai lần mỗi tuần. Để tạo động cơ, họ dọa truất quyền thừa kế của con nào không đạt chỉ tiêu này; tài sản sẽ chia đều cho những con đạt chỉ tiêu. (Ngoài việc thúc đẩy các con đến thăm, cách này còn có ưu điểm là các con không có động cơ chăm sóc cha mẹ đến mức ngột ngạt.) Các con nhận ra cha mẹ không đời nào truất quyền tất cả, nên họp lại và thỏa thuận cùng giảm số lần thăm, có thể xuống bằng không. Cha mẹ mời bạn đến giúp sửa di chúc. Hai tác giả chơi chữ "có di chúc ắt có cách" (where there is a will, there is a way, vừa là "có chí thì nên" vừa là "có di chúc thì có cách"). Nhưng sửa thế nào, khi bạn không được phép truất quyền tất cả các con?
+Giả sử cha mẹ muốn mỗi người con đến thăm một lần và gọi điện hai lần mỗi tuần. Để tạo động cơ, họ dọa truất quyền thừa kế của con nào không đạt chỉ tiêu này; tài sản sẽ chia đều cho những con đạt chỉ tiêu. (Ngoài việc thúc đẩy các con đến thăm, cách này còn có ưu điểm là các con không có động cơ chăm sóc cha mẹ đến mức ngột ngạt.)
+
+Các con nhận ra cha mẹ không đời nào truất quyền tất cả, nên họp lại và thỏa thuận cùng giảm số lần thăm, có thể xuống bằng không. Cha mẹ mời bạn đến giúp sửa di chúc. Hai tác giả chơi chữ "có di chúc ắt có cách" (where there is a will, there is a way, vừa là "có chí thì nên" vừa là "có di chúc thì có cách"). Nhưng sửa thế nào, khi bạn không được phép truất quyền tất cả các con?
 
 **Lời giải.** Như trước, con nào không đạt chỉ tiêu bị truất quyền thừa kế. Vấn đề là xử lý thế nào nếu tất cả đều dưới chỉ tiêu. Khi đó, hãy để *toàn bộ* tài sản cho người con thăm nhiều nhất. Điều này làm cho "các-ten giảm thăm" của các con không thể duy trì: các con bị đặt vào một thế lưỡng nan của người tù nhiều người. Gian lận một chút xíu đem lại phần thưởng khổng lồ: một người con gọi thêm chỉ một cuộc điện thoại sẽ tăng phần thừa kế từ một phần bằng nhau lên 100%. Lối thoát duy nhất là làm theo ý cha mẹ. (Hiển nhiên chiến lược này không dùng được với con một. Hai tác giả viết: không có giải pháp tốt cho các cặp vợ chồng chỉ có một con; rất tiếc.)
 
@@ -1002,7 +1045,11 @@ Giả sử cha mẹ muốn mỗi người con đến thăm một lần và gọi
 
 **Đề bài.** Một doanh nghiệp đã đứng vững trong ngành có lợi nếu ngăn được đối thủ mới, vì khi đó có thể nâng giá lên mức độc quyền. Vì độc quyền có hại cho xã hội, cơ quan chống độc quyền cố phát hiện và truy tố những doanh nghiệp dùng chiến lược ngăn đối thủ gia nhập ngành.
 
-Năm 1945, Aluminum Corporation of America (Alcoa) bị kết tội vì một hành vi như vậy. Một hội đồng thẩm phán toà phúc thẩm liên bang kết luận rằng Alcoa đã liên tục xây công suất tinh luyện vượt mức nhu cầu biện minh được. Trong ý kiến của mình, thẩm phán Learned Hand viết (diễn đạt lại): không có gì là tất yếu khiến Alcoa phải luôn đón trước mọi mức tăng nhu cầu nhôm thỏi và sẵn sàng cung ứng; không có gì buộc Alcoa phải liên tục nhân đôi rồi lại nhân đôi công suất trước khi người khác vào ngành; Alcoa khẳng định mình chưa bao giờ loại trừ đối thủ, nhưng toà không nghĩ ra cách loại trừ nào hiệu quả hơn việc lần lượt chiếm lấy mọi cơ hội mới ngay khi nó mở ra và đón mỗi người mới bằng công suất mới đã gắn sẵn vào một tổ chức lớn. Giới nghiên cứu luật và kinh tế học chống độc quyền đã tranh luận rất nhiều về vụ này. Câu hỏi ở đây là cơ sở khái niệm của vụ án: việc xây công suất dư thừa có thể ngăn đối thủ mới bằng cách nào?
+Năm 1945, Aluminum Corporation of America (Alcoa) bị kết tội vì một hành vi như vậy. Một hội đồng thẩm phán toà phúc thẩm liên bang kết luận rằng Alcoa đã liên tục xây công suất tinh luyện vượt mức nhu cầu biện minh được.
+
+Trong ý kiến của mình, thẩm phán Learned Hand viết (diễn đạt lại): không có gì là tất yếu khiến Alcoa phải luôn đón trước mọi mức tăng nhu cầu nhôm thỏi và sẵn sàng cung ứng; không có gì buộc Alcoa phải liên tục nhân đôi rồi lại nhân đôi công suất trước khi người khác vào ngành; Alcoa khẳng định mình chưa bao giờ loại trừ đối thủ, nhưng toà không nghĩ ra cách loại trừ nào hiệu quả hơn việc lần lượt chiếm lấy mọi cơ hội mới ngay khi nó mở ra và đón mỗi người mới bằng công suất mới đã gắn sẵn vào một tổ chức lớn.
+
+Giới nghiên cứu luật và kinh tế học chống độc quyền đã tranh luận rất nhiều về vụ này. Câu hỏi ở đây là cơ sở khái niệm của vụ án: việc xây công suất dư thừa có thể ngăn đối thủ mới bằng cách nào?
 
 **Lời giải.** Doanh nghiệp đã đứng vững muốn thuyết phục những đối thủ tiềm năng rằng ngành này không có lời cho họ, tức là nếu họ vào, giá sẽ quá thấp để bù chi phí. Tất nhiên doanh nghiệp có thể chỉ việc tung tin rằng sẽ đánh một cuộc chiến tranh giá không khoan nhượng với bất kỳ ai mới vào. Nhưng sao người mới phải tin một lời đe doạ suông? Suy cho cùng, chiến tranh giá cũng tốn kém cho chính doanh nghiệp cũ.
 
@@ -1021,7 +1068,9 @@ Nhiều tội phạm thích mang súng như một công cụ hành nghề. Bản
 | **Chủ nhà không có súng** | (1, 2) | (4, 1) |
 | **Chủ nhà có súng** | (2, 4) | (3, 3) |
 
-Nếu không có nước đi chiến lược, đây là một trò chơi đồng thời, phân tích bằng công cụ ở Chương 3. Trước hết tìm chiến lược trội. Ở mỗi hàng, thứ hạng của tội phạm ở cột "mang súng" luôn tốt hơn ở cột "không mang súng" (1 so với 2; 3 so với 4), nên tội phạm có chiến lược trội: mang súng, bất kể chủ nhà có súng hay không. Chủ nhà không có chiến lược trội; họ muốn đáp lại theo cùng kiểu: nếu tội phạm không có súng thì không cần súng để tự vệ. Theo Quy tắc 2 (bên có chiến lược trội sẽ dùng nó; bên kia chọn cách đáp lại tốt nhất trước chiến lược trội đó), tội phạm mang súng, và chủ nhà đáp lại bằng cách cũng có súng. Cân bằng là (3, 3), kết quả tốt thứ ba của cả hai bên. Dù lợi ích xung đột, hai bên đồng ý một điều: cả hai đều thích kết quả không bên nào có súng (1, 2) hơn kết quả cả hai cùng có súng (3, 3). Nước đi chiến lược nào làm được điều đó, và làm sao cho nó đáng tin?
+Nếu không có nước đi chiến lược, đây là một trò chơi đồng thời, phân tích bằng công cụ ở Chương 3. Trước hết tìm chiến lược trội. Ở mỗi hàng, thứ hạng của tội phạm ở cột "mang súng" luôn tốt hơn ở cột "không mang súng" (1 so với 2; 3 so với 4), nên tội phạm có chiến lược trội: mang súng, bất kể chủ nhà có súng hay không. Chủ nhà không có chiến lược trội; họ muốn đáp lại theo cùng kiểu: nếu tội phạm không có súng thì không cần súng để tự vệ.
+
+Theo Quy tắc 2 (bên có chiến lược trội sẽ dùng nó; bên kia chọn cách đáp lại tốt nhất trước chiến lược trội đó), tội phạm mang súng, và chủ nhà đáp lại bằng cách cũng có súng. Cân bằng là (3, 3), kết quả tốt thứ ba của cả hai bên. Dù lợi ích xung đột, hai bên đồng ý một điều: cả hai đều thích kết quả không bên nào có súng (1, 2) hơn kết quả cả hai cùng có súng (3, 3). Nước đi chiến lược nào làm được điều đó, và làm sao cho nó đáng tin?
 
 **Lời giải.** Hãy tưởng tượng tội phạm có thể phá thế đồng thời và đi trước một nước chiến lược: cam kết không mang súng. Trong trò chơi giờ đã thành tuần tự này, chủ nhà không phải đoán tội phạm sẽ làm gì; họ thấy tội phạm đã đi và không mang súng. Chủ nhà chọn cách đáp lại tốt nhất trước cam kết đó: cũng không có súng. Kết quả là (1, 2), tốt hơn cho *cả hai* bên.
 
@@ -1033,7 +1082,9 @@ Nhưng chủ nhà cũng được lợi. Lý do của lợi ích chung là cả h
 
 > **Chú thích của tác giả:** Điều gì xảy ra nếu chủ nhà đi trước và để tội phạm đáp lại? Chủ nhà đoán được rằng với bất kỳ lựa chọn vô điều kiện nào của mình, tội phạm cũng đáp lại bằng cách mang súng. Vì vậy chủ nhà sẽ muốn có súng, và kết quả không tốt hơn trò chơi đồng thời.
 
-Trong thực tế, chủ nhà không phải một người chơi thống nhất, tội phạm cũng vậy. Dù tội phạm nói chung có thể được lợi nếu chủ động bỏ súng, từng kẻ trong nhóm lại có thể được thêm lợi thế bằng cách gian lận. Thế lưỡng nan của người tù này sẽ phá hỏng độ tin cậy của sáng kiến từ phía tội phạm; họ cần một cách ràng buộc nhau trong một cam kết chung. Nếu đất nước có truyền thống luật kiểm soát súng nghiêm ngặt, súng sẽ khó kiếm, và chủ nhà có thể tin rằng tội phạm không có súng. Việc kiểm soát súng chặt chẽ ở Anh cho phép tội phạm cam kết hành nghề không súng; cam kết đó đáng tin vì họ không có lựa chọn nào khác. Ở Mỹ, súng phổ biến hơn nên tội phạm không thể cam kết hành nghề không súng; kết quả là nhiều chủ nhà có súng để tự vệ, và cả hai bên đều thiệt hơn.
+Trong thực tế, chủ nhà không phải một người chơi thống nhất, tội phạm cũng vậy. Dù tội phạm nói chung có thể được lợi nếu chủ động bỏ súng, từng kẻ trong nhóm lại có thể được thêm lợi thế bằng cách gian lận. Thế lưỡng nan của người tù này sẽ phá hỏng độ tin cậy của sáng kiến từ phía tội phạm; họ cần một cách ràng buộc nhau trong một cam kết chung.
+
+Nếu đất nước có truyền thống luật kiểm soát súng nghiêm ngặt, súng sẽ khó kiếm, và chủ nhà có thể tin rằng tội phạm không có súng. Việc kiểm soát súng chặt chẽ ở Anh cho phép tội phạm cam kết hành nghề không súng; cam kết đó đáng tin vì họ không có lựa chọn nào khác. Ở Mỹ, súng phổ biến hơn nên tội phạm không thể cam kết hành nghề không súng; kết quả là nhiều chủ nhà có súng để tự vệ, và cả hai bên đều thiệt hơn.
 
 Rõ ràng lập luận này đơn giản hoá thực tế; một hệ quả của nó là tội phạm nên ủng hộ luật kiểm soát súng. Ngay ở Anh, cam kết này cũng khó duy trì: xung đột chính trị ở Bắc Ireland gián tiếp làm súng dễ đến tay giới tội phạm hơn, và vì thế mọi cam kết không mang súng của tội phạm bắt đầu đổ vỡ.
 
@@ -1043,7 +1094,9 @@ Nhìn lại, có một điều khác thường đã xảy ra khi chuyển từ t
 
 Tên tình huống gợi câu nói thường được gán cho Abraham Lincoln: có thể lừa mọi người trong một lúc, lừa vài người mãi mãi, nhưng không thể lừa mọi người mãi mãi.
 
-**Đề bài.** Sách hướng dẫn cờ bạc nào cũng nói máy đánh bạc (slot machine) là cửa cược tệ nhất, vì tỷ lệ bất lợi rất lớn cho người chơi. Để chống lại ấn tượng đó và khuyến khích chơi máy, một số sòng bạc Las Vegas bắt đầu quảng cáo tỷ lệ hoàn trả (payback ratio) của máy, tức phần của mỗi đô la đặt cược được trả lại dưới dạng tiền thưởng. Đi xa hơn, vài sòng bảo đảm có những máy được đặt tỷ lệ hoàn trả lớn hơn 1, tức nghiêng về phía người chơi; nếu tìm được và chơi những máy đó, bạn sẽ kỳ vọng có lời. Tất nhiên, mẹo là sòng không nói máy nào là máy nào. Khi họ quảng cáo tỷ lệ hoàn trả bình quân là 90% và có máy đặt ở 120%, điều đó cũng có nghĩa là có những máy khác phải đặt dưới 90%. Khó hơn nữa, không có gì bảo đảm các máy được đặt giống nhau mỗi ngày: máy có lợi hôm nay có thể là máy thua ngày mai. Làm sao đoán máy nào là máy nào?
+**Đề bài.** Sách hướng dẫn cờ bạc nào cũng nói máy đánh bạc (slot machine) là cửa cược tệ nhất, vì tỷ lệ bất lợi rất lớn cho người chơi. Để chống lại ấn tượng đó và khuyến khích chơi máy, một số sòng bạc Las Vegas bắt đầu quảng cáo tỷ lệ hoàn trả (payback ratio) của máy, tức phần của mỗi đô la đặt cược được trả lại dưới dạng tiền thưởng. Đi xa hơn, vài sòng bảo đảm có những máy được đặt tỷ lệ hoàn trả lớn hơn 1, tức nghiêng về phía người chơi; nếu tìm được và chơi những máy đó, bạn sẽ kỳ vọng có lời.
+
+Tất nhiên, mẹo là sòng không nói máy nào là máy nào. Khi họ quảng cáo tỷ lệ hoàn trả bình quân là 90% và có máy đặt ở 120%, điều đó cũng có nghĩa là có những máy khác phải đặt dưới 90%. Khó hơn nữa, không có gì bảo đảm các máy được đặt giống nhau mỗi ngày: máy có lợi hôm nay có thể là máy thua ngày mai. Làm sao đoán máy nào là máy nào?
 
 **Lời giải.** Vì đây là tình huống cuối cùng, hai tác giả thừa nhận họ không có đáp án, và nếu có, có lẽ họ cũng không chia sẻ. Dù vậy, tư duy chiến lược giúp đoán có căn cứ hơn. Mẹo là đặt mình vào vị trí chủ sòng: họ chỉ kiếm được tiền khi người ta chơi các máy bất lợi ít nhất cũng nhiều như các máy có lợi (giới chơi gọi là máy "lỏng").
 
@@ -1059,7 +1112,11 @@ Hai tác giả hỏi: có phải những máy ồn ào kiểu đó được đ�
 
 Nhận thức chiến lược ở đây là: khác với tổ chức từ thiện United Way, sòng bạc Las Vegas không kinh doanh để phát tiền. Trong cuộc tìm máy có lợi, đa số người chơi không thể đúng, vì nếu đa số tìm ra được thì sòng sẽ ngừng ưu đãi thay vì chịu lỗ. Vậy đừng xếp hàng chờ: chắc chắn những máy được chơi nhiều nhất không phải máy có tỷ lệ hoàn trả cao nhất.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số đều là giả định). Hai hãng hàng không cạnh tranh trên một chặng bay nội địa. Hãng A quảng cáo vé 499.000 đồng, nhưng khi thanh toán cộng thêm thuế phí sân bay 200.000 đồng, phí chọn chỗ 80.000 đồng và phí hành lý ký gửi 20 kg là 250.000 đồng; khách trung bình trả khoảng 1.029.000 đồng. Hãng B cân nhắc niêm yết giá trọn gói 950.000 đồng, rẻ hơn với khách trung bình. Nhưng trên trang so sánh vé, khách thấy 499.000 đồng của hãng A nằm cạnh 950.000 đồng của hãng B, và đa số bấm vào hãng A. Đây chính là cân bằng xấu trong tình huống "A Burqa for Prices": hãng trung thực đơn phương mất khách. Lời giải của hai tác giả là một quy định chung buộc mọi hãng hiển thị giá trọn gói mà khách trung bình phải trả; khi đó hãng B không còn bị phạt vì trung thực. Cũng ví dụ này cho thấy vì sao "phần sau" bị định giá cao: nếu hãng A lời 150.000 đồng trên phí hành lý của mỗi khách, nó sẵn lòng hạ vé gốc thêm gần chừng đó để giành khách, và cuối cùng lợi nhuận của cả hai hãng chưa chắc cao hơn.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số đều là giả định). Hai hãng hàng không cạnh tranh trên một chặng bay nội địa. Hãng A quảng cáo vé 499.000 đồng, nhưng khi thanh toán cộng thêm thuế phí sân bay 200.000 đồng, phí chọn chỗ 80.000 đồng và phí hành lý ký gửi 20 kg là 250.000 đồng; khách trung bình trả khoảng 1.029.000 đồng. Hãng B cân nhắc niêm yết giá trọn gói 950.000 đồng, rẻ hơn với khách trung bình. Nhưng trên trang so sánh vé, khách thấy 499.000 đồng của hãng A nằm cạnh 950.000 đồng của hãng B, và đa số bấm vào hãng A.
+
+Đây chính là cân bằng xấu trong tình huống "A Burqa for Prices": hãng trung thực đơn phương mất khách. Lời giải của hai tác giả là một quy định chung buộc mọi hãng hiển thị giá trọn gói mà khách trung bình phải trả; khi đó hãng B không còn bị phạt vì trung thực.
+
+Cũng ví dụ này cho thấy vì sao "phần sau" bị định giá cao: nếu hãng A lời 150.000 đồng trên phí hành lý của mỗi khách, nó sẵn lòng hạ vé gốc thêm gần chừng đó để giành khách, và cuối cùng lợi nhuận của cả hai hãng chưa chắc cao hơn.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -1186,11 +1243,15 @@ Mỗi tình huống dừng ở một câu hỏi cụ thể, và phần lớn câ
 
 ### Một vài lời giải gọn hơn thực tế, và vài con số cần đọc kỹ
 
-Lời giải tình huống Sea Shells so sánh 25,5% với 21,1% mà bỏ qua cổ phần riêng của người bỏ phiếu cuối; nếu tính cả (giả định mỗi người cháu có 12,25%), lựa chọn thuận cho 37,75% còn lựa chọn chống cho khoảng 33,3%, nên kết luận vẫn đúng nhưng cách tính trong sách không chặt. Lời giải cũng ngầm giả định "khoản bồi thường nhỏ" ở nhánh 5–0 đủ để hai người đầu thích bỏ phiếu thuận, và các thành viên không thể thông đồng với nhau (ví dụ người thứ tư và thứ năm hẹn trước). Trong tình huống đấu súng tay ba, sách gọi 56% và 41,2% là cơ hội "thắng" dù đó là xác suất sống sót, có trường hợp hai người cùng sống. Công thức giá bình quân của chào mua hai bậc bị in sai vế trái. Trong tình huống chào mua, chính chú thích của tác giả thừa nhận rằng trò chơi không có cân bằng trong chiến lược thuần tuý, nên lời khuyên "bán cho chào mua hai bậc" là phân tích từng cổ đông, không phải lời giải trọn vẹn của trò chơi có Macy's.
+Lời giải tình huống Sea Shells so sánh 25,5% với 21,1% mà bỏ qua cổ phần riêng của người bỏ phiếu cuối; nếu tính cả (giả định mỗi người cháu có 12,25%), lựa chọn thuận cho 37,75% còn lựa chọn chống cho khoảng 33,3%, nên kết luận vẫn đúng nhưng cách tính trong sách không chặt. Lời giải cũng ngầm giả định "khoản bồi thường nhỏ" ở nhánh 5–0 đủ để hai người đầu thích bỏ phiếu thuận, và các thành viên không thể thông đồng với nhau (ví dụ người thứ tư và thứ năm hẹn trước).
+
+Trong tình huống đấu súng tay ba, sách gọi 56% và 41,2% là cơ hội "thắng" dù đó là xác suất sống sót, có trường hợp hai người cùng sống. Công thức giá bình quân của chào mua hai bậc bị in sai vế trái. Trong tình huống chào mua, chính chú thích của tác giả thừa nhận rằng trò chơi không có cân bằng trong chiến lược thuần tuý, nên lời khuyên "bán cho chào mua hai bậc" là phân tích từng cổ đông, không phải lời giải trọn vẹn của trò chơi có Macy's.
 
 ### Một số tình huống là mô hình đơn giản hoá có chủ ý và đã bị tranh luận
 
-Hai tác giả tự nói lập luận về súng ở Mỹ và Anh "đơn giản hoá thực tế", vì nó hàm ý tội phạm nên ủng hộ luật kiểm soát súng. Trong vụ Alcoa, giới luật và kinh tế học chống độc quyền vẫn tranh luận liệu việc mở rộng công suất trước nhu cầu là chiến lược ngăn cản hay chỉ là đầu tư bình thường của một doanh nghiệp tăng trưởng; nhiều nhà kinh tế sau này cho rằng ngăn cản bằng công suất dư thừa chỉ đáng tin trong những điều kiện khá hẹp. Tình huống vua Solomon cần giả định mẹ thật có khả năng trả ít nhất bằng người mạo nhận; hai tác giả đã tự nêu và xử lý điểm yếu này bằng "đồng tiền" lao động công ích. Với tình huống vua Henry, hai tác giả thẳng thắn thừa nhận lý thuyết trò chơi không giải thích trọn vẹn vì sao "lời nói rẻ" lại hiệu quả, một sự khiêm tốn hiếm có trong sách phổ biến kinh tế.
+Hai tác giả tự nói lập luận về súng ở Mỹ và Anh "đơn giản hoá thực tế", vì nó hàm ý tội phạm nên ủng hộ luật kiểm soát súng. Trong vụ Alcoa, giới luật và kinh tế học chống độc quyền vẫn tranh luận liệu việc mở rộng công suất trước nhu cầu là chiến lược ngăn cản hay chỉ là đầu tư bình thường của một doanh nghiệp tăng trưởng; nhiều nhà kinh tế sau này cho rằng ngăn cản bằng công suất dư thừa chỉ đáng tin trong những điều kiện khá hẹp.
+
+Tình huống vua Solomon cần giả định mẹ thật có khả năng trả ít nhất bằng người mạo nhận; hai tác giả đã tự nêu và xử lý điểm yếu này bằng "đồng tiền" lao động công ích. Với tình huống vua Henry, hai tác giả thẳng thắn thừa nhận lý thuyết trò chơi không giải thích trọn vẹn vì sao "lời nói rẻ" lại hiệu quả, một sự khiêm tốn hiếm có trong sách phổ biến kinh tế.
 
 ### Từ 2008, một số tình huống đã thay đổi bối cảnh nhưng logic còn nguyên
 
@@ -1198,7 +1259,9 @@ Nói định tính: các gói di động "số phút cố định" phần lớn 
 
 ### Quan điểm trái chiều: lý trí hoàn hảo không phải lúc nào cũng là mô hình tốt
 
-Tình huống phong bì và đấu giá tờ 1 USD cho kết luận "lý thuyết" (không ai đổi; giá 70 xu là đủ), nhưng trong lớp học, người thật thường đẩy giá tờ 1 USD lên quá 1 USD (chính hai tác giả kể các giáo sư kiếm được tiền ăn trưa từ trò này), và người đọc lần đầu gặp câu đố phong bì thường thấy lập luận "đổi thì lợi" rất thuyết phục. Kinh tế học hành vi giải thích điều này bằng thiên kiến chi phí chìm, tự tin thái quá và việc người chơi không biết người khác có lý trí đến đâu. Chính hai tác giả cũng thừa nhận ở tình huống đấu giá rằng khi không biết ngân sách của nhau thì chỉ có cân bằng chiến lược hỗn hợp. Bài học thực tế vì vậy kép: dùng suy luận lý trí để biết điều gì nên xảy ra, nhưng đừng giả định đối phương luôn suy luận như vậy; trong máy đánh bạc ở Las Vegas, chính sòng bạc kiếm tiền từ khoảng cách giữa hai điều đó.
+Tình huống phong bì và đấu giá tờ 1 USD cho kết luận "lý thuyết" (không ai đổi; giá 70 xu là đủ), nhưng trong lớp học, người thật thường đẩy giá tờ 1 USD lên quá 1 USD (chính hai tác giả kể các giáo sư kiếm được tiền ăn trưa từ trò này), và người đọc lần đầu gặp câu đố phong bì thường thấy lập luận "đổi thì lợi" rất thuyết phục. Kinh tế học hành vi giải thích điều này bằng thiên kiến chi phí chìm, tự tin thái quá và việc người chơi không biết người khác có lý trí đến đâu.
+
+Chính hai tác giả cũng thừa nhận ở tình huống đấu giá rằng khi không biết ngân sách của nhau thì chỉ có cân bằng chiến lược hỗn hợp. Bài học thực tế vì vậy kép: dùng suy luận lý trí để biết điều gì nên xảy ra, nhưng đừng giả định đối phương luôn suy luận như vậy; trong máy đánh bạc ở Las Vegas, chính sòng bạc kiếm tiền từ khoảng cách giữa hai điều đó.
 
 ### Vận dụng: trước mỗi quyết định có người khác cùng tính toán, hãy hỏi họ sẽ phản ứng thế nào và mình đi trước hay đi sau thì có lợi
 
@@ -1206,3 +1269,161 @@ Tình huống phong bì và đấu giá tờ 1 USD cho kết luận "lý thuyế
 - **Trong đầu tư.** Trong một vụ chào mua thâu tóm, hãy đọc cấu trúc chào mua (hai bậc hay một bậc, có điều kiện hay không) trước khi đọc mức giá: cấu trúc có thể buộc bạn bán dưới giá trị. Thắng một cuộc thâu tóm khác với điều hành tốt doanh nghiệp, như Campeau và Federated. Với các sản phẩm quảng cáo "lợi suất cao" nhưng không cho biết sản phẩm nào thật sự có lợi, hãy nhớ bài học máy đánh bạc: nơi đông người đổ tiền vào nhất hiếm khi là nơi trả cao nhất.
 - **Trong nghề nghiệp.** Trong cạnh tranh nội bộ với nhiều ứng viên, người mạnh nhất thường thành mục tiêu của mọi người (cuộc đấu súng tay ba); đôi khi giữ sức và để người khác loại nhau là khôn ngoan. Trong một cuộc đấu thầu hay đàm phán leo thang, xác định trước điểm dừng, vì mỗi bước leo thang đều có vẻ hợp lý (đấu giá tờ 1 USD). Khi lãnh đạo nhóm, muốn mọi người cam kết, hãy cho họ cơ hội công khai rút lui như vua Henry, thay vì ép buộc.
 - **Khi đọc tin chính sách.** Ở Việt Nam, khi đọc tin về quy định niêm yết giá vé, giá dịch vụ hay phí ẩn trong vé máy bay, hãy nhớ lập luận "cân bằng xấu": doanh nghiệp đơn lẻ khó tự minh bạch vì sẽ trông đắt hơn, nên quy định chung có thể giúp cả người mua lẫn doanh nghiệp trung thực. Khi đọc tin về thu phí giờ cao điểm hay phí vào nội đô ở các thành phố lớn, lập luận Bay Bridge cho cách hiểu: mỗi xe thêm vào giờ cao điểm gây cho người khác tổng thời gian chờ bằng khoảng thời gian còn lại đến khi hết kẹt. Khi đọc tin về các vụ thâu tóm, sáp nhập hay tranh chấp hội đồng quản trị, hãy chú ý cấu trúc biểu quyết và phần thưởng cho từng kiểu kết quả, vì như tình huống Sea Shells, cấu trúc đó có thể quan trọng hơn tỷ lệ sở hữu.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 14 trên một trang: 18 tình huống được xếp thành năm nhánh theo nguyên tắc chúng luyện tập (suy luận ngược; hành động là thông tin; thứ tự đi và phản ứng trước luật chơi; thiết kế phần thưởng và cân bằng xấu; cam kết đáng tin), mỗi nhánh ghi số tình huống trong bản gốc và lời giải then chốt kèm con số; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 14: 18 tình huống cho thấy vài nguyên tắc của lý thuyết trò chơi giải được những bài toán mà trực giác đoán sai`"]
+  n1["`Tình huống 2, 4, 7, 14 — Nhìn xa và suy luận ngược`"]
+  n0 --- n1
+  n2["`Tình huống 2, bãi bùn ở buổi hòa nhạc: chọn hàng đầu sau bãi bùn thì người đến muộn đứng trong bùn che hết tầm nhìn`"]
+  n1 --- n2
+  n3["`Phải đoán người đến sau sẽ đi đâu, như lời Gretzky: trượt tới chỗ quả bóng sẽ tới`"]
+  n2 --- n3
+  n4["`Tình huống 4, Sea Shells: chỉ có 1 trong 5 ghế vẫn khiến hội đồng bỏ phiếu thay chính mình 5–0`"]
+  n1 --- n4
+  n5["`Đề xuất ba nhánh: 5–0 bồi thường nhỏ, 4–1 loại người chống, 3–2 chuyển 51% cổ phần cho hai người thuận`"]
+  n4 --- n5
+  n6["`Người bỏ phiếu thứ năm ở thế 2–2 chọn thuận vì được 25,5% thay vì khoảng 21,1%`"]
+  n4 --- n6
+  n7["`Người thứ tư và hai người đầu không chặn được nên thà theo phe thắng`"]
+  n4 --- n7
+  n8["`Tình huống 7, đấu súng tay ba: Larry trúng 30%, Moe 80%, Curly 100%`"]
+  n1 --- n8
+  n9["`Larry bắn chỉ thiên là tốt nhất, sống sót 41,2%`"]
+  n8 --- n9
+  n10["`Curly chính xác nhất nhưng chỉ sống sót 14%, Moe 56%`"]
+  n8 --- n10
+  n11["`Cơ hội sống sót phụ thuộc cả tài mình lẫn việc mình đe doạ ai`"]
+  n8 --- n11
+  n12["`Tình huống 14, đấu giá tờ 1 USD của Shubik: cả người trả cao nhất và cao nhì đều phải trả`"]
+  n1 --- n12
+  n13["`Mỗi người có 2,50 USD: 1,60 USD là giá thắng, nên giá 70 xu thắng và cuộc đấu dừng ở đó`"]
+  n12 --- n13
+  n14["`Con dốc trơn trượt: đừng bước bước đầu nếu chưa biết mình đi đâu, chạy đua hạt nhân cũng vậy`"]
+  n12 --- n14
+  n15["`Lời giải có lời hơn là thông đồng: một người trả 10 xu, cả lớp chia 90 xu lời`"]
+  n12 --- n15
+  n16["`Tình huống 1, 12, 18 — Hành động của người khác là thông tin`"]
+  n0 --- n16
+  n17["`Tình huống 1, hai phong bì từ 5 đến 160 USD, một phong bì gấp đôi phong bì kia`"]
+  n16 --- n17
+  n18["`Baba thấy 20 USD tính kỳ vọng đổi là 25 USD nhưng quên Ali chỉ chịu đổi khi cô có 10 USD`"]
+  n17 --- n18
+  n19["`Suy luận từ mức 160 USD xuống: không người lý trí nào chịu đổi`"]
+  n17 --- n19
+  n20["`Tình huống 12, vua Solomon giải lại: cơ chế bốn bước với tiền phạt F và giá trả B`"]
+  n16 --- n20
+  n21["`Mẹ thật quý đứa trẻ hơn nên nhận đứa trẻ trong cân bằng hoàn hảo của trò chơi con`"]
+  n20 --- n21
+  n22["`Không ai thật sự trả tiền — phạt chỉ làm nói dối tốn kém, có thể thay bằng ngày lao động công ích`"]
+  n20 --- n22
+  n23["`Tình huống 18, máy đánh bạc Las Vegas: quảng cáo hoàn trả bình quân 90%, có máy tới 120%`"]
+  n16 --- n23
+  n24["`Máy độc đắc 10 nghìn USD với xác suất 1 trên 30 nghìn hoàn trả 1,33 nhưng trông như máy tệ nhất`"]
+  n23 --- n24
+  n25["`Máy kêu ầm ĩ trả 1 USD khoảng mỗi 5 lượt chỉ hoàn trả 0,8`"]
+  n23 --- n25
+  n26["`Máy được chơi nhiều nhất chắc chắn không phải máy hoàn trả cao nhất`"]
+  n23 --- n26
+  n27["`Tình huống 3, 6, 8, 10 — Thứ tự đi và phản ứng trước luật chơi`"]
+  n0 --- n27
+  n28["`Tình huống 3, cò quay ở dạ hội Cambridge: Barry 700 bảng, cô gái 300 bảng cược trước vào bội số của 3`"]
+  n27 --- n28
+  n29["`Barry chỉ cần chép y cược để giữ cách biệt 400 bảng và thắng chắc`"]
+  n28 --- n29
+  n30["`Nếu Barry cược trước, cô cược ngược màu và có cơ hội gần một nửa — đi trước là lật bài`"]
+  n28 --- n30
+  n31["`Tình huống 6: súng chính xác hơn không làm đấu súng chết chóc hơn, hai bên đứng xa hơn và mỗi người vẫn sống sót 1/2`"]
+  n27 --- n31
+  n32["`Tình huống 8, đấu giá Vickrey: bất định về giá phải trả không đổi chiến lược, vẫn bỏ đúng giá trị thật vì đó là chiến lược trội`"]
+  n27 --- n32
+  n33["`Tình huống 10, trò ZECK: lập luận đánh cắp chiến lược chứng minh người đi trước thắng dù chưa ai biết cách thắng`"]
+  n27 --- n33
+  n34["`Tình huống 5, 11, 13, 15 — Thiết kế phần thưởng và cân bằng xấu`"]
+  n0 --- n34
+  n35["`Tình huống 5, Campeau chào mua hai bậc Federated: 105 USD cho 50% đầu, 90 USD cho phần sau`"]
+  n34 --- n35
+  n36["`Bán là chiến lược trội, nhưng khi mọi người bán thì chỉ nhận 97,5 USD, dưới giá 100 USD trước đó`"]
+  n35 --- n36
+  n37["`Macy's chào 102 USD có điều kiện là đối sách kém, chào vô điều kiện mới hiệu quả`"]
+  n35 --- n37
+  n38["`Campeau thắng vụ thâu tóm nhưng đổ vỡ vì nợ năm 1989, Federated tái cơ cấu theo Chương 11`"]
+  n35 --- n38
+  n39["`Tình huống 11, giá dưới áo burqa: phí xăng khi thuê xe, mực in, gói di động 800 phút giá 40 USD`"]
+  n34 --- n39
+  n40["`Hãng niêm yết giá trọn gói trông đắt nhất trên trang so giá — cân bằng xấu giống bàn phím QWERTY`"]
+  n39 --- n40
+  n41["`Lời giải: luật buộc quảng cáo giá trọn gói mà khách trung bình phải trả`"]
+  n39 --- n41
+  n42["`Tình huống 13, cầu Bay Bridge kẹt từ 7:30 đến 11:00: một xe thêm vào lúc 9:00 gây cho người khác tổng cộng 2 giờ chờ`"]
+  n34 --- n42
+  n43["`Mẹo tính: tưởng tượng xe đó tấp vào lề chờ đến khi hết kẹt, vì chỉ tổng thời gian chờ là quan trọng`"]
+  n42 --- n43
+  n44["`Tình huống 15, vua Lear: các con thỏa thuận cùng giảm số lần thăm cha mẹ`"]
+  n34 --- n44
+  n45["`Di chúc mới: nếu mọi con đều dưới chỉ tiêu, con thăm nhiều nhất được toàn bộ tài sản`"]
+  n44 --- n45
+  n46["`Thế lưỡng nan của người tù nhiều người phá vỡ thỏa thuận giảm thăm`"]
+  n44 --- n46
+  n47["`Tình huống 9, 16, 17 — Nước đi chiến lược phải đáng tin`"]
+  n0 --- n47
+  n48["`Tình huống 9, binh lính liều mạng: huấn luyện vâng lệnh tự động và làm giảm khả năng tính toán`"]
+  n47 --- n48
+  n49["`Henry V cho ai sợ thì công khai rời đi — không ai nhận, như đốt thuyền về mặt tâm lý`"]
+  n48 --- n49
+  n50["`Lời hứa làm anh em của vua là lời nói rẻ nhưng vẫn hiệu quả, lý thuyết trò chơi không giải thích trọn`"]
+  n48 --- n50
+  n51["`Tình huống 16, Alcoa năm 1945: xây công suất dư thừa làm lời dọa chiến tranh giá đáng tin vì chi phí vốn đã bỏ ra`"]
+  n47 --- n51
+  n52["`Tình huống 17, súng ở Mỹ và Anh: cân bằng (3, 3) vì mang súng là chiến lược trội của tội phạm`"]
+  n47 --- n52
+  n53["`Tội phạm cam kết không mang súng đưa kết quả lên (1, 2), tốt hơn cho cả hai bên`"]
+  n52 --- n53
+  n54["`Luật kiểm soát súng chặt ở Anh làm cam kết đó đáng tin, ở Mỹ súng phổ biến nên không làm được`"]
+  n52 --- n54
+  n55["`Thông điệp xuyên suốt`"]
+  n0 --- n55
+  n56["`Trực giác tự nhiên sai vì bỏ qua phản ứng và suy nghĩ của người khác`"]
+  n55 --- n56
+  n57["`Cấu trúc trò chơi — ai đi trước, ai biết gì, phần thưởng gắn với kết quả nào — quyết định kết quả`"]
+  n55 --- n57
+  n58["`Người thật không luôn lý trí: trong lớp học giá tờ 1 USD thường bị đẩy quá 1 USD`"]
+  n55 --- n58
+  class n0 root
+  class n1,n16,n27,n34,n47,n55 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52,n53,n54,n56,n57,n58 leaf
+```
+
+## Nguồn
+
+Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Chương 14.
+
+## Tác giả
+
+Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Hai ông từng viết chung *Thinking Strategically* (1991), cuốn sách mà *The Art of Strategy* kế thừa.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là chương cuối của Phần III và của cả cuốn sách. Chương 13 (Incentives) khép lại phần lý thuyết bằng bài toán thiết kế động cơ khuyến khích và giới thiệu trước hai tình huống "Bay Bridge" và "But One Life to Lay Down for Your Country".
+
+Chương 14 không đưa ra công cụ mới. Nó gồm 18 tình huống, mỗi tình huống có phần đề bài và phần lời giải (Case Discussion), để người đọc tự luyện các công cụ đã học: suy luận ngược (Chương 2), chiến lược trội và thế lưỡng nan của người tù (Chương 3), cân bằng Nash (Chương 4), chiến lược hỗn hợp (Chương 5), nước đi chiến lược và độ tin cậy (Chương 6–7), thông tin (Chương 8), hợp tác và phối hợp (Chương 9), đấu giá (Chương 10), bầu cử (Chương 12) và động cơ khuyến khích (Chương 13).
+
+Cuối mỗi chương trước, hai tác giả đã chỉ sang những tình huống cụ thể ở đây (bảng ở đầu phần Nội dung chi tiết). Sau chương này sách chỉ còn phần Further Reading, Workouts và Notes.
+
+## Lưu ý
+
+- Sách viết khoảng 2007–2008; nhiều tình huống dựa trên sự kiện cũ hơn nhiều (vụ Alcoa năm 1945, vụ Campeau thâu tóm Federated cuối thập niên 1980, trận Agincourt năm 1415).
+- Một số chi tiết đã thay đổi từ đó: gói cước di động "số phút cố định mỗi tháng" mà sách phân tích phần lớn đã nhường chỗ cho gói không giới hạn cuộc gọi; ở Mỹ và châu Âu đã có các quy định buộc niêm yết giá trọn gói trong một số ngành (vé máy bay ở châu Âu; vé sự kiện và phòng lưu trú ngắn ngày ở Mỹ), đúng hướng mà hai tác giả đề xuất trong tình huống "A Burqa for Prices"; việc bầu hội đồng quản trị so le ở các công ty lớn của Mỹ đã giảm nhiều.
+- Chương có 7 chú thích chân trang của tác giả, tất cả đã đưa vào đúng chỗ (tình huống 3, 5, 9, 11 và ba chú thích ở tình huống 17). Trong file text, dấu chú thích bị lệch một vị trí: nội dung chú thích của tình huống cò quay (tình huống 3) nằm ở cuối danh sách chú thích của Chương 13, và mỗi dấu chú thích trong Chương 14 lại mang nội dung của dấu đứng sau nó; người tổng hợp đã ghép lại theo nội dung.
+- Nội dung cuối cùng trong danh sách (về "ký quỹ thông tin", information escrow) không khớp với chỗ nào trong chương, có lẽ thuộc phần Further Reading, nên không đưa vào.
+- Lỗi rõ ràng của sách: công thức giá bình quân trong tình huống "Tough Guy, Tender Offer" in sai vế trái ($150 thay cho $105, X + 50 thay cho X − 50), vế phải thì đúng.
+- Chỗ diễn đạt lỏng: trong tình huống "The Three-Way Duel", sách gọi 56% và 41,2% là cơ hội "thắng" (winning), nhưng các con số 41,2%, 56% và 14% là xác suất **sống sót** (có thể còn sống cùng một người khác), không phải xác suất là người sống sót duy nhất.
+- Các câu trích là bản dịch của người tổng hợp.

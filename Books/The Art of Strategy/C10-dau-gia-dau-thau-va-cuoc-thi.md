@@ -1,11 +1,16 @@
 # Chương 10 — Đấu giá, đấu thầu và các cuộc đọ sức (Auctions, Bidding, and Contests)
 
-**Nguồn:** Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Phần III, Chương 10.
-**Tác giả:** Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Sách kế thừa *Thinking Strategically* (1991) của cùng hai tác giả.
-**Vị trí trong lập luận của cả cuốn sách:** Phần I và II xây dựng bộ công cụ: suy luận ngược, thế lưỡng nan của người tù, cân bằng Nash, chiến lược hỗn hợp, nước đi chiến lược và độ tin cậy. Phần III đem bộ công cụ đó vào từng loại tình huống cụ thể. Chương 8 bàn về thông tin bất cân xứng và đã nêu hiện tượng "lời nguyền của người thắng" (winner's curse), hứa sẽ chỉ cách tránh nó ở Chương 10; Chương 1 cũng đã nhắc tới hiện tượng này. Chương 9 bàn về hợp tác và phối hợp. Chương 10 áp dụng các khái niệm chiến lược trội, cân bằng Nash và tư duy "nhìn trước hệ quả" vào đấu giá, rồi mở rộng sang hai loại cuộc đọ sức trông không giống đấu giá: trò chơi chiếm trước (preemption game) và cuộc chiến tiêu hao (war of attrition). Chương 11 tiếp theo bàn về mặc cả (bargaining), một dạng tương tác mua bán khác mà ở đó không có luật đấu giá cố định.
-**Ý chính:** Hai tác giả muốn người đọc hiểu rằng bỏ giá là một quyết định chiến lược, không phải chuyện cảm xúc. Có ba ý trung tâm. Thứ nhất, trong đấu giá Vickrey (người trả giá cao nhất thắng nhưng chỉ trả mức giá cao thứ hai), bỏ đúng giá trị thật của mình là chiến lược trội. Thứ hai, người chơi sẽ điều chỉnh chiến lược để bù trừ cho thay đổi của luật chơi, nên với giá trị riêng và người chơi đối xứng, đấu giá kiểu Anh, Vickrey, Hà Lan và đấu giá kín đều đem lại cho người bán cùng một doanh thu trung bình (định lý tương đương doanh thu); phí người mua ở Sotheby's thực ra do người bán gánh, và việc Bộ Tài chính Mỹ chuyển sang đấu giá giá thống nhất cho tín phiếu không làm họ mất tiền. Thứ ba, hãy luôn bỏ giá "như thể mình đã thắng": ví dụ mua công ty ACME cho thấy người tính theo giá trị trung bình sẽ trả 10,5 triệu USD cho một thứ chỉ đáng trung bình 9,375 triệu USD khi lời đề nghị được nhận. Chương kết bằng tình huống đấu giá giấy phép phổ tần, nơi AT&T có giá trị cao hơn MCI ở cả hai giấy phép nhưng nên chỉ lấy một giấy phép với giá 1 thay vì cả hai với tổng giá 17.
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2007–2008, nên các con số mang dấu ấn thời điểm đó: đấu giá quảng cáo của Google và Yahoo! thu "hơn 10 tỷ USD", FCC thu hơn 40 tỷ USD từ đấu giá phổ tần giai đoạn 1994–2005, cuộc đấu giá 3G ở Anh (năm 2000) thu 22,5 tỷ bảng. Từ đó, Yahoo! không còn là đối thủ đáng kể trong quảng cáo tìm kiếm, và quy mô đấu giá quảng cáo trực tuyến đã lớn hơn nhiều; một phần đấu giá quảng cáo hiển thị đã chuyển từ dạng giá thứ hai sang dạng giá thứ nhất vào cuối thập niên 2010. Năm 2020, Paul Milgrom và Robert Wilson nhận giải Nobel kinh tế cho các đóng góp vào lý thuyết đấu giá và thiết kế thể thức đấu giá mới, gồm thể thức đấu giá đồng thời nhiều vòng mà FCC dùng (chính thể thức trong tình huống cuối chương). Chương có **12 chú thích chân trang** của tác giả (đánh dấu từ {FN81} đến {FN92} trong text gốc); tất cả đã được đưa vào phần Nội dung chi tiết ngay tại chỗ chúng xuất hiện, ghi rõ "Chú thích của tác giả". Chương có ba bài tập "Trip to the Gym" (số 6, 7 và 8); đề bài và đáp án của sách đã được đưa vào ngay sau chỗ bài tập xuất hiện. Sáu hình trong chương (bảng so sánh hai cách bỏ giá, bảng các giá bỏ trong đấu giá tín phiếu, tranh biếm hoạ Doonesbury về máy Newton, ba bảng giá trong tình huống phổ tần) đã được dựng lại. Text gốc có hai chỗ lệch nhỏ: ví dụ tín phiếu nói có "mười" mức bỏ giá rồi sau đó gọi là "tám mức bỏ giá như trên", trong khi bảng của sách có chín dòng; sản phẩm của Apple được gọi là "Original Newton Message", tên thương mại thường dùng là Newton MessagePad. Các câu trích là bản dịch của người tổng hợp.
+Hai tác giả muốn người đọc hiểu rằng bỏ giá là một quyết định chiến lược, không phải chuyện cảm xúc.
+
+Có ba ý trung tâm. Thứ nhất, trong đấu giá Vickrey (người trả giá cao nhất thắng nhưng chỉ trả mức giá cao thứ hai), bỏ đúng giá trị thật của mình là chiến lược trội.
+
+Thứ hai, người chơi sẽ điều chỉnh chiến lược để bù trừ cho thay đổi của luật chơi, nên với giá trị riêng và người chơi đối xứng, đấu giá kiểu Anh, Vickrey, Hà Lan và đấu giá kín đều đem lại cho người bán cùng một doanh thu trung bình (định lý tương đương doanh thu); phí người mua ở Sotheby's thực ra do người bán gánh, và việc Bộ Tài chính Mỹ chuyển sang đấu giá giá thống nhất cho tín phiếu không làm họ mất tiền.
+
+Thứ ba, hãy luôn bỏ giá "như thể mình đã thắng": ví dụ mua công ty ACME cho thấy người tính theo giá trị trung bình sẽ trả 10,5 triệu USD cho một thứ chỉ đáng trung bình 9,375 triệu USD khi lời đề nghị được nhận.
+
+Chương kết bằng tình huống đấu giá giấy phép phổ tần, nơi AT&T có giá trị cao hơn MCI ở cả hai giấy phép nhưng nên chỉ lấy một giấy phép với giá 1 thay vì cả hai với tổng giá 17.
 
 ## Sơ đồ
 
@@ -663,7 +668,9 @@
 
 ### 1. Mở đầu: đấu giá để bán, đấu thầu để mua
 
-Hai tác giả bắt đầu bằng hình ảnh quen thuộc của đấu giá trước đây: người điều hành nói giọng Anh kiểu cách trước một căn phòng yên lặng đầy nhà sưu tầm đeo trang sức, ngồi ghế kiểu Louis XIV và kéo tai để ra hiệu. eBay đã làm đấu giá trở nên đại chúng hơn một chút. Dạng quen thuộc nhất là một món đồ được đem bán và người trả cao nhất thắng: ở Sotheby's là tranh hay đồ cổ; trên eBay là hộp kẹo Pez, bộ trống cũ hay gần như mọi thứ (trừ quả thận); ở Google và Yahoo!, các cuộc đấu giá vị trí quảng cáo bên cạnh kết quả tìm kiếm theo từ khoá thu về hơn 10 tỷ USD; ở Úc, ngay cả nhà ở cũng bán bằng đấu giá. Điểm chung là một người bán, nhiều người mua cạnh tranh với nhau.
+Hai tác giả bắt đầu bằng hình ảnh quen thuộc của đấu giá trước đây: người điều hành nói giọng Anh kiểu cách trước một căn phòng yên lặng đầy nhà sưu tầm đeo trang sức, ngồi ghế kiểu Louis XIV và kéo tai để ra hiệu. eBay đã làm đấu giá trở nên đại chúng hơn một chút.
+
+Dạng quen thuộc nhất là một món đồ được đem bán và người trả cao nhất thắng: ở Sotheby's là tranh hay đồ cổ; trên eBay là hộp kẹo Pez, bộ trống cũ hay gần như mọi thứ (trừ quả thận); ở Google và Yahoo!, các cuộc đấu giá vị trí quảng cáo bên cạnh kết quả tìm kiếm theo từ khoá thu về hơn 10 tỷ USD; ở Úc, ngay cả nhà ở cũng bán bằng đấu giá. Điểm chung là một người bán, nhiều người mua cạnh tranh với nhau.
 
 Nhưng đấu giá cũng dùng để mua. Khi chính quyền địa phương muốn làm đường, họ mời các nhà thầu bỏ giá, và người bỏ giá thấp nhất thắng vì chính quyền muốn mua dịch vụ trải đường rẻ nhất. Đó là đấu thầu mua sắm: một người mua, nhiều người bán.
 
@@ -673,7 +680,9 @@ Hai tác giả nhấn mạnh rằng bỏ giá cần chiến lược, dù nhiều
 
 ### 2. Đấu giá kiểu Anh và kiểu Nhật (English and Japanese Auctions)
 
-Dạng nổi tiếng nhất là đấu giá kiểu Anh, hay đấu giá tăng dần: người điều hành đứng trước phòng và hô giá ngày càng cao ("Có ai 30 không? 30 từ quý bà đội mũ hồng. 40? Vâng, 40 từ quý ông bên trái tôi. Có ai 50 không? 40 lần một, lần hai, bán"). Chiến lược tối ưu đơn giản tới mức khó gọi là chiến lược: cứ bỏ giá cho tới khi giá vượt giá trị của mình thì rút. Có một chút rắc rối với bước giá: nếu giá tăng theo bậc 10 và giá trị của bạn là 95, bạn sẽ dừng ở 90; biết vậy, bạn có thể phải tính xem nên là người giữ giá cao nhất ở 70 hay ở 80. Trong phần còn lại, hai tác giả giả định bước giá rất nhỏ (ví dụ 1 xu) để bỏ qua những chuyện cuối cuộc đấu này.
+Dạng nổi tiếng nhất là đấu giá kiểu Anh, hay đấu giá tăng dần: người điều hành đứng trước phòng và hô giá ngày càng cao ("Có ai 30 không? 30 từ quý bà đội mũ hồng. 40? Vâng, 40 từ quý ông bên trái tôi. Có ai 50 không? 40 lần một, lần hai, bán"). Chiến lược tối ưu đơn giản tới mức khó gọi là chiến lược: cứ bỏ giá cho tới khi giá vượt giá trị của mình thì rút.
+
+Có một chút rắc rối với bước giá: nếu giá tăng theo bậc 10 và giá trị của bạn là 95, bạn sẽ dừng ở 90; biết vậy, bạn có thể phải tính xem nên là người giữ giá cao nhất ở 70 hay ở 80. Trong phần còn lại, hai tác giả giả định bước giá rất nhỏ (ví dụ 1 xu) để bỏ qua những chuyện cuối cuộc đấu này.
 
 Phần khó duy nhất là hiểu "giá trị" nghĩa là gì. Đó là mức giá bỏ đi: mức cao nhất mà bạn vẫn muốn thắng. Cao hơn một đô la thì bạn thà bỏ qua; thấp hơn một đô la thì bạn sẵn lòng trả, nhưng chỉ vừa đủ. Giá trị có thể gồm phần bù để món đồ không rơi vào tay đối thủ, niềm vui chiến thắng, hay giá bán lại dự kiến. Gộp tất cả lại, đó là con số mà nếu phải trả đúng bằng nó thì bạn không còn quan tâm mình thắng hay thua.
 
@@ -691,7 +700,11 @@ Năm 1961, William Vickrey, nhà kinh tế Đại học Columbia và sau này đ
 
 > **Chú thích của tác giả:** Bài báo nền tảng của Vickrey là "Counterspeculation, Auctions, and Competitive Sealed Tenders", *Journal of Finance* 16 (1961). Vickrey là người đầu tiên nghiên cứu đấu giá giá thứ hai, nhưng việc sử dụng nó có từ ít nhất thế kỷ 19, khi giới sưu tầm tem dùng nó. Thậm chí có bằng chứng Goethe đã dùng đấu giá giá thứ hai năm 1797 khi bán bản thảo cho một nhà xuất bản (theo bài "Goethe's Second-Price Auction" của Benny Moldovanu và Manfred Tietzel, *Journal of Political Economy*, 1998).
 
-Trong đấu giá Vickrey, mọi người bỏ giá vào phong bì kín; khi mở, giá cao nhất thắng, nhưng người thắng không trả giá mình bỏ mà chỉ trả mức giá cao thứ hai. Điều đáng chú ý, gần như kỳ diệu, là mọi người chơi đều có chiến lược trội: bỏ đúng giá trị thật. Trong đấu giá kín thông thường (người thắng trả đúng giá mình bỏ), bỏ giá là bài toán phức tạp: phải tính có bao nhiêu người chơi, họ định giá món đồ ra sao, thậm chí họ nghĩ bạn định giá ra sao. Trong đấu giá Vickrey, bạn chỉ cần biết món đồ đáng bao nhiêu với mình rồi ghi đúng con số đó; hai tác giả đùa rằng, tiếc cho họ, bạn không cần thuê nhà lý thuyết trò chơi giúp mình bỏ giá. Hai tác giả nói họ thích kết quả này, vì mục tiêu của họ là tính toán chiến lược khi thiết kế trò chơi để người chơi không phải tính toán chiến lược khi chơi. Chiến lược trội là nước đi tốt nhất bất kể người khác làm gì, nên bạn không cần biết có bao nhiêu người hay họ nghĩ gì.
+Trong đấu giá Vickrey, mọi người bỏ giá vào phong bì kín; khi mở, giá cao nhất thắng, nhưng người thắng không trả giá mình bỏ mà chỉ trả mức giá cao thứ hai. Điều đáng chú ý, gần như kỳ diệu, là mọi người chơi đều có chiến lược trội: bỏ đúng giá trị thật.
+
+Trong đấu giá kín thông thường (người thắng trả đúng giá mình bỏ), bỏ giá là bài toán phức tạp: phải tính có bao nhiêu người chơi, họ định giá món đồ ra sao, thậm chí họ nghĩ bạn định giá ra sao. Trong đấu giá Vickrey, bạn chỉ cần biết món đồ đáng bao nhiêu với mình rồi ghi đúng con số đó; hai tác giả đùa rằng, tiếc cho họ, bạn không cần thuê nhà lý thuyết trò chơi giúp mình bỏ giá.
+
+Hai tác giả nói họ thích kết quả này, vì mục tiêu của họ là tính toán chiến lược khi thiết kế trò chơi để người chơi không phải tính toán chiến lược khi chơi. Chiến lược trội là nước đi tốt nhất bất kể người khác làm gì, nên bạn không cần biết có bao nhiêu người hay họ nghĩ gì.
 
 Để chứng minh, hai tác giả lấy ví dụ: giá trị thật của bạn là 60 USD nhưng bạn bỏ 50 USD. Theo cách tư duy theo hệ quả, câu hỏi cần đặt ra là: khi nào bỏ 50 thay vì 60 dẫn tới kết quả khác? Hai tác giả đảo câu hỏi lại cho dễ trả lời: khi nào bỏ 50 hay 60 cho cùng một kết quả?
 
@@ -709,11 +722,17 @@ Trường hợp duy nhất mà bỏ 50 cho kết quả khác bỏ 60 là khi b�
 
 ### 4. Tương đương doanh thu (Revenue Equivalence) và phí người mua (Buyer's Premium)
 
-Đấu giá Vickrey đưa tới cùng kết quả như đấu giá kiểu Anh (hoặc Nhật), chỉ trong một bước. Trong đấu giá kiểu Anh, mọi người bỏ tới giá trị của mình, nên cuộc đấu dừng khi giá lên tới giá trị cao thứ hai; người còn lại có giá trị cao nhất và (trừ sai lệch do bước giá) trả đúng mức giá mà người áp chót rút, tức giá trị cao thứ hai. Trong đấu giá Vickrey, mọi người bỏ đúng giá trị, nên người có giá trị cao nhất thắng và theo luật chỉ trả giá cao thứ hai, cũng chính là giá trị cao thứ hai. Cùng người thắng, cùng giá phải trả. Vẫn có chuyện bước giá: người có giá trị 95 có thể rút ở 90 nếu giá tăng theo bậc 10, nhưng với bước giá đủ nhỏ thì người đó rút đúng tại giá trị của mình.
+Đấu giá Vickrey đưa tới cùng kết quả như đấu giá kiểu Anh (hoặc Nhật), chỉ trong một bước. Trong đấu giá kiểu Anh, mọi người bỏ tới giá trị của mình, nên cuộc đấu dừng khi giá lên tới giá trị cao thứ hai; người còn lại có giá trị cao nhất và (trừ sai lệch do bước giá) trả đúng mức giá mà người áp chót rút, tức giá trị cao thứ hai.
 
-Có một khác biệt tinh tế. Trong đấu giá kiểu Anh, người chơi biết được phần nào người khác định giá món đồ bao nhiêu qua các giá họ bỏ (dù có nhiều giá tiềm năng không được bỏ ra). Trong đấu giá kiểu Nhật, người chơi biết còn nhiều hơn: ai rút ở đâu đều được thấy. Trong đấu giá Vickrey, người thắng không biết gì về giá của người khác cho tới khi kết thúc. Nhưng với giá trị riêng, người chơi không quan tâm người khác định giá ra sao, nên thông tin thêm là vô dụng. Vì vậy, với giá trị riêng, người bán thu cùng một số tiền dù dùng đấu giá Vickrey hay đấu giá kiểu Anh (hoặc Nhật). Đây là một phần của một kết quả tổng quát hơn nhiều: trong nhiều trường hợp, đổi luật không làm người bán thu nhiều hơn hay ít hơn.
+Trong đấu giá Vickrey, mọi người bỏ đúng giá trị, nên người có giá trị cao nhất thắng và theo luật chỉ trả giá cao thứ hai, cũng chính là giá trị cao thứ hai. Cùng người thắng, cùng giá phải trả. Vẫn có chuyện bước giá: người có giá trị 95 có thể rút ở 90 nếu giá tăng theo bậc 10, nhưng với bước giá đủ nhỏ thì người đó rút đúng tại giá trị của mình.
 
-**Phí người mua.** Nếu bạn thắng ở Sotheby's hay Christie's, bạn có thể ngạc nhiên khi phải trả nhiều hơn giá đã bỏ, và không chỉ vì thuế bán hàng: nhà đấu giá cộng thêm 20% phí người mua. Thắng với giá 1.000 USD thì phải viết séc 1.200 USD. Ai trả khoản phí này? Câu trả lời hiển nhiên là người mua, nhưng hai tác giả nói nếu hiển nhiên vậy thì họ đã không hỏi. Người trả thật là người bán. Điều kiện duy nhất là người mua biết luật này và tính tới nó khi bỏ giá. Một nhà sưu tầm sẵn lòng trả 600 USD sẽ chỉ bỏ tối đa 500 USD, vì biết nói 500 nghĩa là phải trả 600 sau phí. Phí người mua giống như quy đổi tiền tệ hay một mật mã: nói 100 nghĩa là 120, và ai cũng thu nhỏ giá bỏ tương ứng.
+Có một khác biệt tinh tế. Trong đấu giá kiểu Anh, người chơi biết được phần nào người khác định giá món đồ bao nhiêu qua các giá họ bỏ (dù có nhiều giá tiềm năng không được bỏ ra). Trong đấu giá kiểu Nhật, người chơi biết còn nhiều hơn: ai rút ở đâu đều được thấy. Trong đấu giá Vickrey, người thắng không biết gì về giá của người khác cho tới khi kết thúc.
+
+Nhưng với giá trị riêng, người chơi không quan tâm người khác định giá ra sao, nên thông tin thêm là vô dụng. Vì vậy, với giá trị riêng, người bán thu cùng một số tiền dù dùng đấu giá Vickrey hay đấu giá kiểu Anh (hoặc Nhật). Đây là một phần của một kết quả tổng quát hơn nhiều: trong nhiều trường hợp, đổi luật không làm người bán thu nhiều hơn hay ít hơn.
+
+**Phí người mua.** Nếu bạn thắng ở Sotheby's hay Christie's, bạn có thể ngạc nhiên khi phải trả nhiều hơn giá đã bỏ, và không chỉ vì thuế bán hàng: nhà đấu giá cộng thêm 20% phí người mua. Thắng với giá 1.000 USD thì phải viết séc 1.200 USD. Ai trả khoản phí này? Câu trả lời hiển nhiên là người mua, nhưng hai tác giả nói nếu hiển nhiên vậy thì họ đã không hỏi.
+
+Người trả thật là người bán. Điều kiện duy nhất là người mua biết luật này và tính tới nó khi bỏ giá. Một nhà sưu tầm sẵn lòng trả 600 USD sẽ chỉ bỏ tối đa 500 USD, vì biết nói 500 nghĩa là phải trả 600 sau phí. Phí người mua giống như quy đổi tiền tệ hay một mật mã: nói 100 nghĩa là 120, và ai cũng thu nhỏ giá bỏ tương ứng.
 
 > **Chú thích của tác giả:** Có thể hình dung trò chơi này như cuộc đấu giá tổ chức ở New York nhưng hô giá bằng euro: người nói "500 euro" biết mình sẽ trả 600 USD. Rõ ràng đổi đơn vị tiền tệ để hô giá không thể làm nhà đấu giá thu thêm tiền. Nếu Sotheby's tuyên bố phiên đấu giá thứ Hai sẽ tiến hành bằng euro, ai cũng tự quy đổi giá bỏ sang đô la (hay yên). Họ hiểu chi phí thật của việc hô "100", bất kể đơn vị là gì.
 
@@ -737,13 +756,19 @@ Nhưng trò chơi thực tế không diễn ra như vậy, và những "trục t
 
 **Đặt giá phút chót.** Xét trường hợp không có chuyện nhiều món hay thời điểm: một món đồ độc nhất. Có lý do gì để không đặt đúng giá trị làm giá ủy nhiệm? Thực tế là người ta không làm vậy. Họ thường chờ tới phút cuối, thậm chí giây cuối, mới đặt giá ủy nhiệm tốt nhất; việc này gọi là sniping. Có cả dịch vụ trên mạng như Bidnapper làm thay để bạn khỏi phải ngồi chờ tới lúc kết thúc.
 
-Vì bỏ đúng giá trị là chiến lược trội trong đấu giá Vickrey, việc đặt giá phút chót phải bắt nguồn từ khác biệt tinh tế giữa ủy nhiệm và Vickrey. Khác biệt then chốt là người khác có thể biết điều gì đó từ giá ủy nhiệm của bạn trước khi cuộc đấu kết thúc. Nếu điều họ biết ảnh hưởng tới cách họ bỏ giá, bạn có lý do giấu giá của mình, kể cả giá ủy nhiệm. Ví dụ: nếu một nhà buôn đồ nội thất bỏ giá cho một chiếc ghế Bauhaus cụ thể, bạn có thể (khá hợp lý) suy ra chiếc ghế là đồ thật và có giá trị lịch sử. Nếu nhà buôn sẵn lòng mua ở 1.000 USD thì bạn vui lòng trả 1.200, vẫn rẻ hơn mức bạn có thể mua lại từ chính nhà buôn đó. Vì vậy nhà buôn không muốn người khác biết mình sẵn lòng lên tới đâu, và chờ tới tận cuối mới bỏ giá; lúc đó bạn và người khác không kịp phản ứng. Tất nhiên điều này đòi hỏi danh tính người bỏ giá bị người khác biết và người đó không dùng được tên giả.
+Vì bỏ đúng giá trị là chiến lược trội trong đấu giá Vickrey, việc đặt giá phút chót phải bắt nguồn từ khác biệt tinh tế giữa ủy nhiệm và Vickrey. Khác biệt then chốt là người khác có thể biết điều gì đó từ giá ủy nhiệm của bạn trước khi cuộc đấu kết thúc. Nếu điều họ biết ảnh hưởng tới cách họ bỏ giá, bạn có lý do giấu giá của mình, kể cả giá ủy nhiệm.
+
+Ví dụ: nếu một nhà buôn đồ nội thất bỏ giá cho một chiếc ghế Bauhaus cụ thể, bạn có thể (khá hợp lý) suy ra chiếc ghế là đồ thật và có giá trị lịch sử. Nếu nhà buôn sẵn lòng mua ở 1.000 USD thì bạn vui lòng trả 1.200, vẫn rẻ hơn mức bạn có thể mua lại từ chính nhà buôn đó. Vì vậy nhà buôn không muốn người khác biết mình sẵn lòng lên tới đâu, và chờ tới tận cuối mới bỏ giá; lúc đó bạn và người khác không kịp phản ứng. Tất nhiên điều này đòi hỏi danh tính người bỏ giá bị người khác biết và người đó không dùng được tên giả.
 
 > **Chú thích của tác giả:** Tạo tên giả thì dễ, nhưng nếu người bỏ giá không có lịch sử giao dịch, người bán có thể ngần ngại chấp nhận giá của họ.
 
 Vì đặt giá phút chót quá phổ biến, hẳn phải còn lời giải thích khác. Theo hai tác giả, lời giải thích tốt nhất là nhiều người không biết giá trị của chính mình. Lấy ví dụ một chiếc Porsche 911 đời cũ, giá khởi điểm 1 USD. Hai tác giả tất nhiên không định giá nó 1 USD; họ định giá nó 100, thậm chí 1.000 USD. Chừng nào giá còn dưới 1.000 thì họ chắc chắn đó là món hời, không cần tra giá tham khảo trong sổ Blue Book hay bàn với vợ về nhu cầu có thêm xe. Ý là người ta lười: tìm ra giá trị thật tốn công, và nếu thắng được mà không phải bỏ công thì họ chọn đường tắt.
 
-Đây là chỗ đặt giá phút chót phát huy tác dụng. Giả sử một người mua am hiểu định giá chiếc Porsche 19.000 USD. Người này muốn giữ giá thấp càng lâu càng tốt. Nếu đặt ủy nhiệm 19.000 ngay từ đầu, giá ủy nhiệm "vô tâm" 1.000 USD của hai tác giả sẽ đẩy giá lên ngay 1.000. Khi đó họ biết mình cần tìm hiểu thêm, và trong quá trình đó, vợ có thể đồng ý cho bỏ tới 9.000; giá cuối có thể lên 9.000 hoặc cao hơn nếu những người khác cũng kịp tìm hiểu. Nhưng nếu người định giá 19.000 "giữ thuốc súng khô" (chờ thời), giá có thể không vượt 1.000 cho tới những giây cuối, khi đã quá muộn để người khác đặt giá cao hơn, giả sử họ còn đang để ý và kịp xin vợ đồng ý. Lý do để đặt giá phút chót là giữ người khác trong bóng tối về giá trị của chính họ: bạn không muốn họ biết giá lười của họ không có cơ hội thắng. Nếu họ biết sớm, họ sẽ tìm hiểu, và điều đó chỉ khiến bạn phải trả nhiều hơn, nếu bạn vẫn thắng.
+Đây là chỗ đặt giá phút chót phát huy tác dụng. Giả sử một người mua am hiểu định giá chiếc Porsche 19.000 USD. Người này muốn giữ giá thấp càng lâu càng tốt. Nếu đặt ủy nhiệm 19.000 ngay từ đầu, giá ủy nhiệm "vô tâm" 1.000 USD của hai tác giả sẽ đẩy giá lên ngay 1.000. Khi đó họ biết mình cần tìm hiểu thêm, và trong quá trình đó, vợ có thể đồng ý cho bỏ tới 9.000; giá cuối có thể lên 9.000 hoặc cao hơn nếu những người khác cũng kịp tìm hiểu.
+
+Nhưng nếu người định giá 19.000 "giữ thuốc súng khô" (chờ thời), giá có thể không vượt 1.000 cho tới những giây cuối, khi đã quá muộn để người khác đặt giá cao hơn, giả sử họ còn đang để ý và kịp xin vợ đồng ý.
+
+Lý do để đặt giá phút chót là giữ người khác trong bóng tối về giá trị của chính họ: bạn không muốn họ biết giá lười của họ không có cơ hội thắng. Nếu họ biết sớm, họ sẽ tìm hiểu, và điều đó chỉ khiến bạn phải trả nhiều hơn, nếu bạn vẫn thắng.
 
 ### 6. Bỏ giá như thể mình đã thắng (Bidding as If You've Won) và trò chơi ACME
 
@@ -751,7 +776,11 @@ Một ý tưởng mạnh của lý thuyết trò chơi là hành động theo ki
 
 Hai tác giả minh hoạ bằng lời cầu hôn. Người được hỏi có thể nói đồng ý hoặc không. Nếu không, chẳng có gì phải làm tiếp; nếu đồng ý, bạn sắp kết hôn. Vì vậy khi ngỏ lời, bạn nên giả định câu trả lời là đồng ý. Đây là cách nhìn lạc quan, và người kia có thể từ chối làm bạn rất thất vọng; nhưng lý do giả định "đồng ý" là để chuẩn bị cho kết quả đó, và khi ấy bạn cũng phải đang nói đồng ý. Nếu nghe người kia đồng ý mà bạn lại muốn nghĩ lại, thì lẽ ra bạn không nên hỏi. Trong cầu hôn, giả định câu trả lời là đồng ý khá tự nhiên; trong đàm phán và đấu giá, đây là cách nghĩ phải học.
 
-**Trò chơi ACME.** Bạn là người có thể mua công ty ACME. Nhờ hiểu biết sâu về lý thuyết trò chơi, bạn sẽ làm tăng giá trị ACME thêm 50%, dù giá trị hiện tại là bao nhiêu. Vấn đề là bạn không chắc giá trị hiện tại. Sau khi thẩm định, bạn ước lượng nó nằm trong khoảng từ 2 đến 12 triệu USD, mọi mức trong khoảng đó đều có khả năng như nhau, trung bình 7 triệu. Bạn chỉ được đưa một lời đề nghị "nhận hoặc thôi"; chủ sở hữu sẽ nhận bất kỳ giá nào cao hơn giá trị hiện tại và từ chối nếu không. Ví dụ, bạn trả 10 triệu: nếu công ty hiện đáng 8 triệu, bạn nâng lên 12 triệu và lãi 2 triệu; nếu công ty chỉ đáng 4 triệu, bạn nâng lên 6 triệu nhưng đã trả 10 triệu, lỗ 4 triệu. Câu hỏi: mức cao nhất bạn có thể đề nghị mà vẫn hoà vốn trung bình (không phải lãi trong mọi trường hợp, mà trung bình không lãi không lỗ) là bao nhiêu? Hai tác giả lưu ý họ không khuyên bỏ đúng mức này, bạn luôn nên bỏ thấp hơn; đây chỉ là cách tìm mức trần.
+**Trò chơi ACME.** Bạn là người có thể mua công ty ACME. Nhờ hiểu biết sâu về lý thuyết trò chơi, bạn sẽ làm tăng giá trị ACME thêm 50%, dù giá trị hiện tại là bao nhiêu. Vấn đề là bạn không chắc giá trị hiện tại. Sau khi thẩm định, bạn ước lượng nó nằm trong khoảng từ 2 đến 12 triệu USD, mọi mức trong khoảng đó đều có khả năng như nhau, trung bình 7 triệu. Bạn chỉ được đưa một lời đề nghị "nhận hoặc thôi"; chủ sở hữu sẽ nhận bất kỳ giá nào cao hơn giá trị hiện tại và từ chối nếu không.
+
+Ví dụ, bạn trả 10 triệu: nếu công ty hiện đáng 8 triệu, bạn nâng lên 12 triệu và lãi 2 triệu; nếu công ty chỉ đáng 4 triệu, bạn nâng lên 6 triệu nhưng đã trả 10 triệu, lỗ 4 triệu.
+
+Câu hỏi: mức cao nhất bạn có thể đề nghị mà vẫn hoà vốn trung bình (không phải lãi trong mọi trường hợp, mà trung bình không lãi không lỗ) là bao nhiêu? Hai tác giả lưu ý họ không khuyên bỏ đúng mức này, bạn luôn nên bỏ thấp hơn; đây chỉ là cách tìm mức trần.
 
 Phần lớn người ta lập luận: trung bình công ty đáng 7 triệu, tôi nâng thêm 50% thành 10,5 triệu, vậy trả tới 10,5 triệu vẫn không lỗ. Hai tác giả hy vọng bạn không ra con số đó. Hãy nghĩ lại chuyện cầu hôn: nếu họ đồng ý thì sao? Nếu bạn trả 10,5 triệu và chủ đồng ý, bạn vừa biết một tin xấu: công ty hiện không đáng 11 hay 12 triệu.
 
@@ -787,7 +816,9 @@ Nếu 100 lẽ ra thua thì 100 hay 80 đều là giá thua. Nếu 100 lẽ ra t
 
 ### 8. Đấu giá kiểu Hà Lan (Dutch Auctions) và định lý tương đương doanh thu
 
-Cổ phiếu giao dịch ở Sở Giao dịch Chứng khoán New York, đồ điện tử bán ở khu Akihabara (Tokyo), còn hoa thì cả thế giới tới Hà Lan để mua. Chợ đấu giá hoa Aalsmeer rộng khoảng 160 mẫu Anh (acre); một ngày bình thường có khoảng 14 triệu bông hoa và một triệu chậu cây đổi chủ. Điều làm Aalsmeer và các cuộc đấu giá kiểu Hà Lan khác Sotheby's là giá đi ngược: thay vì bắt đầu thấp rồi tăng dần, cuộc đấu bắt đầu ở giá cao rồi giảm. Hãy hình dung một đồng hồ bắt đầu ở 100 rồi chạy xuống 99, 98 và tiếp tục; người đầu tiên dừng đồng hồ thắng và trả đúng giá lúc dừng. Đây là đảo ngược của đấu giá kiểu Nhật: ở kiểu Nhật, mọi người báo tham gia và giá tăng cho tới khi còn một người; ở kiểu Hà Lan, giá bắt đầu cao và giảm cho tới khi người đầu tiên báo tham gia. Giơ tay trong đấu giá Hà Lan là cuộc đấu dừng và bạn thắng.
+Cổ phiếu giao dịch ở Sở Giao dịch Chứng khoán New York, đồ điện tử bán ở khu Akihabara (Tokyo), còn hoa thì cả thế giới tới Hà Lan để mua. Chợ đấu giá hoa Aalsmeer rộng khoảng 160 mẫu Anh (acre); một ngày bình thường có khoảng 14 triệu bông hoa và một triệu chậu cây đổi chủ. Điều làm Aalsmeer và các cuộc đấu giá kiểu Hà Lan khác Sotheby's là giá đi ngược: thay vì bắt đầu thấp rồi tăng dần, cuộc đấu bắt đầu ở giá cao rồi giảm.
+
+Hãy hình dung một đồng hồ bắt đầu ở 100 rồi chạy xuống 99, 98 và tiếp tục; người đầu tiên dừng đồng hồ thắng và trả đúng giá lúc dừng. Đây là đảo ngược của đấu giá kiểu Nhật: ở kiểu Nhật, mọi người báo tham gia và giá tăng cho tới khi còn một người; ở kiểu Hà Lan, giá bắt đầu cao và giảm cho tới khi người đầu tiên báo tham gia. Giơ tay trong đấu giá Hà Lan là cuộc đấu dừng và bạn thắng.
 
 Bạn không cần tới Hà Lan; bạn có thể cử người đại diện. Hãy nghĩ về lời dặn: chờ tới khi giá hoa dạ yên thảo (petunia) xuống 86,3 euro thì bỏ giá. Khi cân nhắc lời dặn đó, bạn phải dự đoán rằng nếu giá xuống tới 86,3 euro thì bạn sẽ thắng; nếu có mặt ở đó, bạn biết mọi người khác còn chưa ra tay. Biết vậy, bạn không muốn đổi giá: chờ thêm một chút, người khác có thể nhảy vào thế chỗ bạn. Điều đó đúng suốt cuộc đấu, chờ lúc nào cũng có rủi ro bị giành; vấn đề là chờ càng lâu thì phần lãi có thể mất càng lớn và rủi ro người khác sắp nhảy vào càng cao. Ở giá tối ưu, khoản tiết kiệm nhờ trả thấp hơn không còn đáng với rủi ro mất giải tăng thêm.
 
@@ -795,7 +826,13 @@ Theo nhiều nghĩa, việc này giống đấu giá kín. Lời dặn người 
 
 **Bài tập Trip to the Gym số 7.** Nên bỏ bao nhiêu trong đấu giá kín? Để đơn giản, giả sử chỉ có hai người; bạn tin giá trị của người kia có khả năng như nhau ở mọi mức từ 0 đến 100, và người kia cũng tin như vậy về bạn.
 
-**Đáp án của sách (phần Workouts):** Hai tác giả biến đấu giá Vickrey thành đấu giá kín qua từng bước. Trong đấu giá Vickrey, giá trị của bạn là 60 nên bạn bỏ 60. Nếu được báo là đã thắng, bạn chỉ biết giá phải trả là một mức nào đó dưới 60; mọi mức dưới 60 có khả năng như nhau, nên trung bình bạn trả 30. Nếu được chọn giữa trả 30 và trả giá cao thứ hai, bạn thấy như nhau. Tương tự, giá trị 80 thì khi thắng trong Vickrey bạn trả trung bình 40; tổng quát, giá trị X thì trả trung bình X/2. Bước một: đổi luật thành "bỏ X, thắng thì trả X/2". Vì trung bình kết quả như Vickrey, giá bỏ tối ưu không đổi, và nếu mọi người cùng theo luật này thì giá của họ cũng không đổi. Đến đây đã gần giống đấu giá kín, chỉ khác là bạn trả một nửa con số mình ghi, như thể trả bằng đô la thay vì bảng Anh. Người chơi không bị lừa: nếu nói 80 nghĩa là trả 40 thì "80" thực chất là 40. Bước hai: đổi luật thành trả đúng giá mình bỏ; mọi người chỉ việc chia đôi giá bỏ, người sẵn lòng trả 40 sẽ nói 40 thay vì 80. Đó là đấu giá kín, và một cân bằng là cả hai bỏ một nửa giá trị. Kiểm tra: giả sử người kia bỏ một nửa giá trị; nếu bạn bỏ X, bạn thắng khi người kia có giá trị dưới 2X (tức bỏ dưới X), xác suất là 2X/100; lợi ích của bạn khi giá trị thật là V bằng (V − X) × 2X/100, lớn nhất tại X = V/2. Nếu người kia bỏ một nửa thì bạn cũng muốn bỏ một nửa, và ngược lại, nên đó là cân bằng Nash. Hai tác giả nhận xét: kiểm tra một cân bằng dễ hơn nhiều so với tìm ra nó.
+**Đáp án của sách (phần Workouts):** Hai tác giả biến đấu giá Vickrey thành đấu giá kín qua từng bước. Trong đấu giá Vickrey, giá trị của bạn là 60 nên bạn bỏ 60. Nếu được báo là đã thắng, bạn chỉ biết giá phải trả là một mức nào đó dưới 60; mọi mức dưới 60 có khả năng như nhau, nên trung bình bạn trả 30. Nếu được chọn giữa trả 30 và trả giá cao thứ hai, bạn thấy như nhau. Tương tự, giá trị 80 thì khi thắng trong Vickrey bạn trả trung bình 40; tổng quát, giá trị X thì trả trung bình X/2.
+
+Bước một: đổi luật thành "bỏ X, thắng thì trả X/2". Vì trung bình kết quả như Vickrey, giá bỏ tối ưu không đổi, và nếu mọi người cùng theo luật này thì giá của họ cũng không đổi. Đến đây đã gần giống đấu giá kín, chỉ khác là bạn trả một nửa con số mình ghi, như thể trả bằng đô la thay vì bảng Anh. Người chơi không bị lừa: nếu nói 80 nghĩa là trả 40 thì "80" thực chất là 40.
+
+Bước hai: đổi luật thành trả đúng giá mình bỏ; mọi người chỉ việc chia đôi giá bỏ, người sẵn lòng trả 40 sẽ nói 40 thay vì 80. Đó là đấu giá kín, và một cân bằng là cả hai bỏ một nửa giá trị.
+
+Kiểm tra: giả sử người kia bỏ một nửa giá trị; nếu bạn bỏ X, bạn thắng khi người kia có giá trị dưới 2X (tức bỏ dưới X), xác suất là 2X/100; lợi ích của bạn khi giá trị thật là V bằng (V − X) × 2X/100, lớn nhất tại X = V/2. Nếu người kia bỏ một nửa thì bạn cũng muốn bỏ một nửa, và ngược lại, nên đó là cân bằng Nash. Hai tác giả nhận xét: kiểm tra một cân bằng dễ hơn nhiều so với tìm ra nó.
 
 Như vậy cách bỏ giá trong hai loại đấu giá là như nhau. Giống như đấu giá kiểu Anh và Vickrey đi tới cùng chỗ, đấu giá kín và đấu giá Hà Lan cũng vậy; người chơi bỏ cùng mức nên người bán thu như nhau. Nhưng điều đó chưa cho biết phải bỏ bao nhiêu, chỉ cho biết có "hai bí ẩn cùng một đáp án".
 
@@ -864,7 +901,11 @@ Hình dựng lại từ sách (tranh Doonesbury bốn ô):
 
 Newton bị khai tử năm năm sau, ngày 27/2/1998. Trong lúc Apple bận thất bại, tháng 3/1996 Jeff Hawkins giới thiệu máy tổ chức cá nhân cầm tay Palm Pilot 1000, nhanh chóng đạt doanh số 1 tỷ USD mỗi năm. Newton là ý tưởng hay nhưng chưa sẵn sàng. Đó là nghịch lý: chờ tới khi hoàn toàn sẵn sàng thì lỡ cơ hội; nhảy vào quá sớm thì thất bại.
 
-Việc ra đời của *USA Today* gặp đúng vấn đề này. Hầu hết các nước có báo ngày toàn quốc lâu đời: Pháp có *Le Monde* và *Le Figaro*; Anh có *The Times*, *Observer* và *Guardian*; Nhật có *Asahi Shimbun* và *Yomiuri Shimbun*; Trung Quốc có *Nhân dân Nhật báo*; Nga có *Pravda*; Ấn Độ có *The Times*, *Hindu*, *Dainik Jagran* và khoảng sáu mươi tờ khác. Riêng người Mỹ không có báo ngày toàn quốc: họ có tạp chí toàn quốc (*Time*, *Newsweek*) và tuần báo *Christian Science Monitor*. Mãi tới năm 1982, Al Neuharth mới thuyết phục hội đồng quản trị Gannett ra *USA Today*. Làm báo toàn quốc ở Mỹ là cơn ác mộng hậu cần: phát hành báo vốn là việc địa phương, nên tờ báo phải in ở nhiều nhà máy khắp nước. Với Internet thì việc này đơn giản, nhưng năm 1982 cách khả thi duy nhất là truyền qua vệ tinh, và với các trang màu, *USA Today* là công nghệ mới tinh, rủi ro cao. Vì ngày nay thấy các hộp báo xanh của nó ở khắp nơi, người ta dễ nghĩ đó hẳn là ý tưởng hay; nhưng thành công hôm nay không có nghĩa là đáng với chi phí. Gannett mất 12 năm mới hoà vốn với tờ báo và lỗ hơn 1 tỷ USD trên đường đi, "vào thời một tỷ còn là tiền thật". Giá Gannett chờ thêm vài năm thì công nghệ đã làm hành trình dễ hơn nhiều. Vấn đề là thị trường báo toàn quốc ở Mỹ chỉ đủ chỗ cho nhiều nhất một tờ, và Neuharth lo Knight Ridder sẽ ra trước và cánh cửa đóng lại vĩnh viễn.
+Việc ra đời của *USA Today* gặp đúng vấn đề này. Hầu hết các nước có báo ngày toàn quốc lâu đời: Pháp có *Le Monde* và *Le Figaro*; Anh có *The Times*, *Observer* và *Guardian*; Nhật có *Asahi Shimbun* và *Yomiuri Shimbun*; Trung Quốc có *Nhân dân Nhật báo*; Nga có *Pravda*; Ấn Độ có *The Times*, *Hindu*, *Dainik Jagran* và khoảng sáu mươi tờ khác. Riêng người Mỹ không có báo ngày toàn quốc: họ có tạp chí toàn quốc (*Time*, *Newsweek*) và tuần báo *Christian Science Monitor*.
+
+Mãi tới năm 1982, Al Neuharth mới thuyết phục hội đồng quản trị Gannett ra *USA Today*. Làm báo toàn quốc ở Mỹ là cơn ác mộng hậu cần: phát hành báo vốn là việc địa phương, nên tờ báo phải in ở nhiều nhà máy khắp nước. Với Internet thì việc này đơn giản, nhưng năm 1982 cách khả thi duy nhất là truyền qua vệ tinh, và với các trang màu, *USA Today* là công nghệ mới tinh, rủi ro cao.
+
+Vì ngày nay thấy các hộp báo xanh của nó ở khắp nơi, người ta dễ nghĩ đó hẳn là ý tưởng hay; nhưng thành công hôm nay không có nghĩa là đáng với chi phí. Gannett mất 12 năm mới hoà vốn với tờ báo và lỗ hơn 1 tỷ USD trên đường đi, "vào thời một tỷ còn là tiền thật". Giá Gannett chờ thêm vài năm thì công nghệ đã làm hành trình dễ hơn nhiều. Vấn đề là thị trường báo toàn quốc ở Mỹ chỉ đủ chỗ cho nhiều nhất một tờ, và Neuharth lo Knight Ridder sẽ ra trước và cánh cửa đóng lại vĩnh viễn.
 
 Cả Apple và *USA Today* đều đang chơi trò chơi chiếm trước: người ra mắt đầu tiên có cơ hội chiếm thị trường, với điều kiện thành công. Câu hỏi là khi nào bóp cò: bóp sớm quá thì trượt, chờ lâu quá thì bị đánh bại. Cách mô tả này gợi tới một cuộc đấu súng, và phép so sánh là xác đáng: nếu bạn bắn sớm và trượt, đối thủ có thể tiến lên và bắn trúng chắc chắn; nếu chờ quá lâu, bạn có thể chết mà chưa bắn phát nào.
 
@@ -888,11 +929,15 @@ Năm 1986, British Satellite Broadcasting (BSB) giành giấy phép chính thứ
 
 > **Chú thích của tác giả:** Dưới 1% hộ gia đình thuê bao truyền hình cáp, và luật chỉ cho phép cáp ở những vùng không thu được sóng truyền hình phát qua không trung.
 
-Vì vậy hoàn toàn có lý khi hình dung truyền hình vệ tinh ở Anh có thể đem lại 2 tỷ bảng doanh thu mỗi năm; những thị trường chưa khai thác như vậy rất hiếm. Mọi thứ đều thuận lợi cho BSB cho tới tháng 6/1988, khi Rupert Murdoch quyết định phá đám. Dùng một vệ tinh Astra kiểu cũ đặt trên Hà Lan, Murdoch phát bốn kênh của mình vào Anh; người Anh rốt cuộc được xem *Dallas* (và sớm sau đó là *Baywatch*). Thị trường có vẻ đủ lớn cho cả hai, nhưng cạnh tranh khốc liệt đã xoá sạch hy vọng lợi nhuận: hai bên đấu giá tranh nhau phim Hollywood và đua giảm giá quảng cáo. Vì công nghệ phát sóng không tương thích, nhiều người quyết định chờ xem ai thắng rồi mới mua chảo thu. Sau một năm cạnh tranh, hai hãng lỗ tổng cộng 1,5 tỷ bảng.
+Vì vậy hoàn toàn có lý khi hình dung truyền hình vệ tinh ở Anh có thể đem lại 2 tỷ bảng doanh thu mỗi năm; những thị trường chưa khai thác như vậy rất hiếm. Mọi thứ đều thuận lợi cho BSB cho tới tháng 6/1988, khi Rupert Murdoch quyết định phá đám. Dùng một vệ tinh Astra kiểu cũ đặt trên Hà Lan, Murdoch phát bốn kênh của mình vào Anh; người Anh rốt cuộc được xem *Dallas* (và sớm sau đó là *Baywatch*).
+
+Thị trường có vẻ đủ lớn cho cả hai, nhưng cạnh tranh khốc liệt đã xoá sạch hy vọng lợi nhuận: hai bên đấu giá tranh nhau phim Hollywood và đua giảm giá quảng cáo. Vì công nghệ phát sóng không tương thích, nhiều người quyết định chờ xem ai thắng rồi mới mua chảo thu. Sau một năm cạnh tranh, hai hãng lỗ tổng cộng 1,5 tỷ bảng.
 
 Điều này hoàn toàn đoán trước được. Murdoch hiểu rõ BSB sẽ không bỏ cuộc, còn chiến lược của BSB là xem có đẩy được Murdoch tới phá sản không. Cả hai sẵn lòng chịu lỗ lớn vì giải thưởng cho người thắng quá lớn: ai trụ lâu hơn sẽ có toàn bộ lợi nhuận. Việc bạn có thể đã lỗ 600 triệu bảng là không liên quan, vì dù tiếp tục hay bỏ cuộc bạn cũng đã mất khoản đó. Câu hỏi duy nhất là chi phí trụ thêm có đáng với "hũ vàng" của người thắng không.
 
-Có thể mô hình đây là cuộc đấu giá mà giá bỏ của mỗi bên là thời gian ở lại, đo bằng khoản lỗ tài chính; hãng trụ lâu nhất thắng. Điều làm loại đấu giá này đặc biệt khó là không có một chiến lược bỏ giá tốt nhất duy nhất. Nếu nghĩ đối thủ sắp bỏ, bạn luôn nên trụ thêm một kỳ; và bạn nghĩ họ sắp bỏ vì bạn nghĩ họ nghĩ bạn sẽ trụ. Chiến lược của bạn phụ thuộc vào điều bạn nghĩ họ đang làm, và điều đó lại phụ thuộc vào điều họ nghĩ bạn đang làm. Bạn không thực sự biết họ làm gì, nên phải tự hình dung trong đầu họ nghĩ gì về bạn. Vì không có gì kiểm tra sự nhất quán, cả hai đều có thể quá tự tin vào khả năng trụ lâu hơn đối thủ, dẫn tới bỏ giá quá cao hoặc lỗ khổng lồ cho cả hai.
+Có thể mô hình đây là cuộc đấu giá mà giá bỏ của mỗi bên là thời gian ở lại, đo bằng khoản lỗ tài chính; hãng trụ lâu nhất thắng. Điều làm loại đấu giá này đặc biệt khó là không có một chiến lược bỏ giá tốt nhất duy nhất. Nếu nghĩ đối thủ sắp bỏ, bạn luôn nên trụ thêm một kỳ; và bạn nghĩ họ sắp bỏ vì bạn nghĩ họ nghĩ bạn sẽ trụ.
+
+Chiến lược của bạn phụ thuộc vào điều bạn nghĩ họ đang làm, và điều đó lại phụ thuộc vào điều họ nghĩ bạn đang làm. Bạn không thực sự biết họ làm gì, nên phải tự hình dung trong đầu họ nghĩ gì về bạn. Vì không có gì kiểm tra sự nhất quán, cả hai đều có thể quá tự tin vào khả năng trụ lâu hơn đối thủ, dẫn tới bỏ giá quá cao hoặc lỗ khổng lồ cho cả hai.
 
 Hai tác giả cho rằng đây là trò chơi nguy hiểm, và nước đi tốt nhất là thoả thuận với người chơi kia. Murdoch đã làm đúng như vậy: vào phút chót, ông sáp nhập với BSB. Khả năng chịu lỗ quyết định tỷ lệ chia trong liên doanh, và việc cả hai hãng cùng có nguy cơ sụp đổ buộc chính phủ phải cho phép hai người chơi duy nhất sáp nhập. Bài học thứ hai: đừng bao giờ đặt cược chống lại Murdoch.
 
@@ -900,7 +945,9 @@ Hai tác giả cho rằng đây là trò chơi nguy hiểm, và nước đi tố
 
 "Mẹ của mọi cuộc đấu giá" là việc bán phổ tần cho giấy phép điện thoại di động. Từ 1994 đến 2005, Uỷ ban Truyền thông Liên bang Mỹ (FCC) thu hơn 40 tỷ USD. Ở Anh, một cuộc đấu giá phổ tần 3G (thế hệ thứ ba) thu được con số choáng váng 22,5 tỷ bảng, cuộc đấu giá đơn lẻ lớn nhất mọi thời. Khác với đấu giá tăng dần truyền thống, một số cuộc đấu này phức tạp hơn vì cho phép người tham gia bỏ giá đồng thời cho nhiều giấy phép.
 
-Hai tác giả đưa ra phiên bản đơn giản hoá của cuộc đấu giá phổ tần đầu tiên ở Mỹ và mời người đọc tự xây chiến lược: chỉ có hai người chơi, AT&T và MCI, và hai giấy phép, NY và LA, mỗi giấy phép chỉ có một; cả hai hãng đều muốn cả hai giấy phép. Một cách là bán lần lượt, NY trước rồi LA, hoặc ngược lại; không có câu trả lời hiển nhiên, và cách nào cũng có vấn đề. Nếu bán NY trước, AT&T có thể thích LA hơn nhưng cảm thấy buộc phải tranh NY vì chưa chắc giành được LA, mà có còn hơn không; nhưng thắng NY rồi thì có thể không còn ngân sách cho LA. Với sự giúp đỡ của một số nhà lý thuyết trò chơi, FCC nghĩ ra giải pháp khéo léo: đấu giá đồng thời. Cả NY và LA cùng lên sàn; người tham gia có thể bỏ giá cho bất kỳ giấy phép nào; nếu AT&T bị vượt giá ở LA, họ có thể nâng giá LA hoặc chuyển sang tranh NY. Cuộc đấu chỉ kết thúc khi không ai muốn nâng giá cho bất kỳ giấy phép nào. Trong thực tế, việc bỏ giá chia thành các vòng; mỗi vòng, người chơi có thể nâng giá hoặc đứng yên.
+Hai tác giả đưa ra phiên bản đơn giản hoá của cuộc đấu giá phổ tần đầu tiên ở Mỹ và mời người đọc tự xây chiến lược: chỉ có hai người chơi, AT&T và MCI, và hai giấy phép, NY và LA, mỗi giấy phép chỉ có một; cả hai hãng đều muốn cả hai giấy phép. Một cách là bán lần lượt, NY trước rồi LA, hoặc ngược lại; không có câu trả lời hiển nhiên, và cách nào cũng có vấn đề. Nếu bán NY trước, AT&T có thể thích LA hơn nhưng cảm thấy buộc phải tranh NY vì chưa chắc giành được LA, mà có còn hơn không; nhưng thắng NY rồi thì có thể không còn ngân sách cho LA.
+
+Với sự giúp đỡ của một số nhà lý thuyết trò chơi, FCC nghĩ ra giải pháp khéo léo: đấu giá đồng thời. Cả NY và LA cùng lên sàn; người tham gia có thể bỏ giá cho bất kỳ giấy phép nào; nếu AT&T bị vượt giá ở LA, họ có thể nâng giá LA hoặc chuyển sang tranh NY. Cuộc đấu chỉ kết thúc khi không ai muốn nâng giá cho bất kỳ giấy phép nào. Trong thực tế, việc bỏ giá chia thành các vòng; mỗi vòng, người chơi có thể nâng giá hoặc đứng yên.
 
 Minh hoạ luật (Bảng dựng lại từ sách). Cuối vòng 4, các giá đã bỏ như sau, AT&T đang cao nhất ở NY, MCI cao nhất ở LA:
 
@@ -929,11 +976,17 @@ AT&T coi trọng cả hai giấy phép hơn MCI. Hai tác giả yêu cầu coi �
 
 ### 13. Thảo luận tình huống (Case Discussion)
 
-**Bỏ 10 cho NY và 9 cho LA.** Bạn chắc chắn thắng cả hai nhưng không lãi gì. Đây là một điểm tinh tế: nếu phải trả đúng giá mình bỏ, như ở đây, thì bỏ đúng giá trị chẳng có nghĩa gì, giống như bỏ 10 USD để thắng tờ 10 USD. Có thể nhầm lẫn nếu nghĩ việc thắng tự nó là một phần thưởng thêm, hoặc nếu coi các con số giá trị là mức bỏ tối đa chứ không phải giá trị thật. Hai tác giả không muốn người đọc hiểu theo cả hai cách đó. Giá trị 10 cho NY nghĩa là ở giá 10, bạn vui vẻ ra về mà không than vãn cũng không thắng; ở giá 9,99 bạn thích thắng hơn, nhưng chỉ một chút; ở 10,01 bạn thích không thắng hơn, dù thiệt hại nhỏ. Với cách hiểu này, bỏ 10 và 9 là chiến lược bị trội (yếu): bạn chắc chắn được 0, dù thắng hay thua. Bất kỳ chiến lược nào cho cơ hội được hơn 0 mà không bao giờ lỗ đều trội yếu so với việc bỏ ngay 10 và 9.
+**Bỏ 10 cho NY và 9 cho LA.** Bạn chắc chắn thắng cả hai nhưng không lãi gì. Đây là một điểm tinh tế: nếu phải trả đúng giá mình bỏ, như ở đây, thì bỏ đúng giá trị chẳng có nghĩa gì, giống như bỏ 10 USD để thắng tờ 10 USD. Có thể nhầm lẫn nếu nghĩ việc thắng tự nó là một phần thưởng thêm, hoặc nếu coi các con số giá trị là mức bỏ tối đa chứ không phải giá trị thật. Hai tác giả không muốn người đọc hiểu theo cả hai cách đó.
+
+Giá trị 10 cho NY nghĩa là ở giá 10, bạn vui vẻ ra về mà không than vãn cũng không thắng; ở giá 9,99 bạn thích thắng hơn, nhưng chỉ một chút; ở 10,01 bạn thích không thắng hơn, dù thiệt hại nhỏ. Với cách hiểu này, bỏ 10 và 9 là chiến lược bị trội (yếu): bạn chắc chắn được 0, dù thắng hay thua. Bất kỳ chiến lược nào cho cơ hội được hơn 0 mà không bao giờ lỗ đều trội yếu so với việc bỏ ngay 10 và 9.
 
 **Bỏ 9 cho NY và 8 cho LA.** Tốt hơn. Với giá của hai tác giả (họ không bỏ quá giá trị của MCI), bạn thắng cả hai, lãi 1 ở mỗi thành phố, tổng 2. Câu hỏi then chốt là có thể làm tốt hơn không.
 
-**Bỏ 5 và 5.** (Các mức khác diễn ra tương tự.) Hai tác giả tiết lộ giá của mình: 0 (không bỏ) cho NY và 1 cho LA. Sau vòng đầu, bạn cao nhất ở cả hai nên không được bỏ ở vòng này; vì đang thua ở cả hai, MCI bỏ tiếp. Đứng ở vị trí MCI: họ không thể về báo với tổng giám đốc rằng đã rút khi giá mới ở mức 5; họ chỉ có thể về tay trắng khi giá đã lên 9 và 8, khi không còn đáng để bỏ tiếp. Vì vậy họ nâng giá LA lên 6, và vì có người bỏ giá nên cuộc đấu kéo thêm một vòng. Giả sử bạn nâng LA lên 7; vòng sau MCI sẽ bỏ cho NY với giá 6, vì họ thà thắng NY ở 6 hơn LA ở 8; rồi bạn lại có thể vượt giá ở NY. Tuỳ ai bỏ khi nào, bạn sẽ thắng cả hai giấy phép với giá 9 hoặc 10 ở NY, 8 hoặc 9 ở LA, không hơn gì bỏ ngay 9 và 8.
+**Bỏ 5 và 5.** (Các mức khác diễn ra tương tự.) Hai tác giả tiết lộ giá của mình: 0 (không bỏ) cho NY và 1 cho LA. Sau vòng đầu, bạn cao nhất ở cả hai nên không được bỏ ở vòng này; vì đang thua ở cả hai, MCI bỏ tiếp.
+
+Đứng ở vị trí MCI: họ không thể về báo với tổng giám đốc rằng đã rút khi giá mới ở mức 5; họ chỉ có thể về tay trắng khi giá đã lên 9 và 8, khi không còn đáng để bỏ tiếp. Vì vậy họ nâng giá LA lên 6, và vì có người bỏ giá nên cuộc đấu kéo thêm một vòng.
+
+Giả sử bạn nâng LA lên 7; vòng sau MCI sẽ bỏ cho NY với giá 6, vì họ thà thắng NY ở 6 hơn LA ở 8; rồi bạn lại có thể vượt giá ở NY. Tuỳ ai bỏ khi nào, bạn sẽ thắng cả hai giấy phép với giá 9 hoặc 10 ở NY, 8 hoặc 9 ở LA, không hơn gì bỏ ngay 9 và 8.
 
 **Chơi lại ván đó.** Khi MCI bỏ 6 cho LA, bạn đang giữ NY ở giá 5. Bạn có thể không làm gì cả, dừng bỏ giá. MCI không có ý định vượt giá bạn ở NY; họ hài lòng với LA ở giá 6, và chỉ bỏ tiếp vì không thể về tay trắng (trừ khi giá đã lên 9 và 8). Nếu bạn dừng, cuộc đấu kết thúc ngay: bạn chỉ có một giấy phép, NY ở giá 5, nhưng vì định giá nó 10, bạn lãi 5, hơn hẳn mức lãi 2 khi bỏ 9 và 8. Từ phía MCI: họ biết không thể thắng bạn ở cả hai vì giá trị của bạn cao hơn, nên rất vui lòng ra về với một giấy phép ở bất kỳ giá nào dưới 9 và 8.
 
@@ -948,13 +1001,19 @@ Có thể bực mình khi thấy MCI lấy giấy phép thứ hai với giá 1 t
 
 Thắng một giấy phép là lựa chọn tốt hơn. Bạn có thể đánh bại MCI ở cả hai cuộc đấu, nhưng điều đó không có nghĩa là nên làm vậy.
 
-Hai tác giả đoán người đọc còn thắc mắc. Làm sao bạn biết MCI sẽ bỏ giá cho LA và để NY lại cho bạn? Thực ra bạn không biết; ván này may mắn diễn ra như vậy. Nhưng kể cả nếu cả hai cùng bỏ cho NY ở vòng đầu, cũng không mất nhiều thời gian để phân chia lại. Có phải là thông đồng không? Nói chặt chẽ thì không. Dù cả hai hãng đều có lợi hơn (và người bán là bên thua lớn), không bên nào cần thoả thuận với bên kia; mỗi bên hành động vì lợi ích của chính mình. MCI tự hiểu rằng mình không thể thắng cả hai giấy phép, điều không có gì lạ vì AT&T có giá trị cao hơn ở cả hai, nên MCI vui lòng thắng bất kỳ giấy phép nào. Còn AT&T thấy rằng chi phí thật của giấy phép thứ hai là phần phải trả thêm trên cả hai: vượt giá MCI ở LA có thể đẩy giá lên ở cả LA lẫn NY, và chi phí thật đó là 16, cao hơn giá trị.
+Hai tác giả đoán người đọc còn thắc mắc. Làm sao bạn biết MCI sẽ bỏ giá cho LA và để NY lại cho bạn? Thực ra bạn không biết; ván này may mắn diễn ra như vậy. Nhưng kể cả nếu cả hai cùng bỏ cho NY ở vòng đầu, cũng không mất nhiều thời gian để phân chia lại.
+
+Có phải là thông đồng không? Nói chặt chẽ thì không. Dù cả hai hãng đều có lợi hơn (và người bán là bên thua lớn), không bên nào cần thoả thuận với bên kia; mỗi bên hành động vì lợi ích của chính mình. MCI tự hiểu rằng mình không thể thắng cả hai giấy phép, điều không có gì lạ vì AT&T có giá trị cao hơn ở cả hai, nên MCI vui lòng thắng bất kỳ giấy phép nào. Còn AT&T thấy rằng chi phí thật của giấy phép thứ hai là phần phải trả thêm trên cả hai: vượt giá MCI ở LA có thể đẩy giá lên ở cả LA lẫn NY, và chi phí thật đó là 16, cao hơn giá trị.
 
 Hiện tượng này thường gọi là hợp tác ngầm: mỗi người chơi hiểu chi phí dài hạn của việc tranh cả hai giấy phép và vì vậy thấy lợi của việc lấy một giấy phép với giá rẻ. Nếu là người bán, bạn muốn tránh kết quả này. Một cách là bán hai giấy phép lần lượt. Khi đó, MCI để AT&T lấy NY với giá 1 sẽ không còn hiệu quả, vì AT&T vẫn có mọi động cơ để tranh LA ở cuộc đấu sau; khác biệt then chốt là MCI không thể quay lại bỏ giá ở cuộc đấu NY, nên AT&T không mất gì khi tranh LA.
 
-Bài học lớn hơn: khi hai trò chơi được gộp làm một, người chơi có cơ hội dùng các chiến lược xuyên qua cả hai. Khi Fuji vào thị trường phim chụp ảnh Mỹ, Kodak có thể đáp trả ở Mỹ hoặc ở Nhật. Khởi động chiến tranh giá ở Mỹ sẽ tốn kém cho Kodak, nhưng ở Nhật thì tốn kém cho Fuji (và không tốn gì cho Kodak, vốn có thị phần nhỏ ở Nhật). Tương tác giữa nhiều trò chơi diễn ra đồng thời tạo cơ hội trừng phạt và hợp tác mà nếu không thì không thể có, ít nhất là nếu không thông đồng công khai. Nguyên tắc rút ra: nếu không thích trò chơi đang chơi, hãy tìm trò chơi lớn hơn. Hai tác giả giới thiệu thêm các tình huống về đấu giá ở Chương 14: "The Safer Duel" (cuộc đấu súng an toàn hơn), "The Risk of Winning" (rủi ro của việc thắng) và "What Price a Dollar?" (một đô la đáng giá bao nhiêu?).
+Bài học lớn hơn: khi hai trò chơi được gộp làm một, người chơi có cơ hội dùng các chiến lược xuyên qua cả hai. Khi Fuji vào thị trường phim chụp ảnh Mỹ, Kodak có thể đáp trả ở Mỹ hoặc ở Nhật. Khởi động chiến tranh giá ở Mỹ sẽ tốn kém cho Kodak, nhưng ở Nhật thì tốn kém cho Fuji (và không tốn gì cho Kodak, vốn có thị phần nhỏ ở Nhật). Tương tác giữa nhiều trò chơi diễn ra đồng thời tạo cơ hội trừng phạt và hợp tác mà nếu không thì không thể có, ít nhất là nếu không thông đồng công khai.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một doanh nghiệp tham gia đấu giá quyền khai thác một mỏ cát, kiểu đấu giá kín trả theo giá mình bỏ, có ba đối thủ khác. Bộ phận kỹ thuật ước tính mỏ đem lại lợi nhuận 100 tỷ đồng nếu trữ lượng đúng như hồ sơ. Áp dụng ba bài học của chương. Thứ nhất, không bỏ 100 tỷ: thắng ở giá đó thì chỉ hoà vốn. Thứ hai, với giá trị riêng, giả sử các đối thủ được đoán là định giá phân bố đều từ 0 tới 100 tỷ, công thức trong chương cho mức bỏ khoảng 75 tỷ (giá trị × 3/4 khi có ba đối thủ). Thứ ba, trữ lượng cát thực ra là giá trị chung: nếu doanh nghiệp thắng, rất có thể vì ước tính trữ lượng của mình lạc quan hơn của ba đối thủ. Bỏ giá như thể mình đã thắng nghĩa là phải hỏi: "nếu tôi là người trả cao nhất, điều đó nói gì về trữ lượng?" Nếu câu trả lời là trữ lượng thật có thể chỉ khoảng 80% hồ sơ, giá trị khi thắng còn khoảng 80 tỷ, và mức bỏ hợp lý giảm tương ứng xuống khoảng 60 tỷ. Bỏ theo ước tính trung bình ban đầu chính là rơi vào lời nguyền của người thắng.
+Nguyên tắc rút ra: nếu không thích trò chơi đang chơi, hãy tìm trò chơi lớn hơn. Hai tác giả giới thiệu thêm các tình huống về đấu giá ở Chương 14: "The Safer Duel" (cuộc đấu súng an toàn hơn), "The Risk of Winning" (rủi ro của việc thắng) và "What Price a Dollar?" (một đô la đáng giá bao nhiêu?).
+
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một doanh nghiệp tham gia đấu giá quyền khai thác một mỏ cát, kiểu đấu giá kín trả theo giá mình bỏ, có ba đối thủ khác. Bộ phận kỹ thuật ước tính mỏ đem lại lợi nhuận 100 tỷ đồng nếu trữ lượng đúng như hồ sơ. Áp dụng ba bài học của chương. Thứ nhất, không bỏ 100 tỷ: thắng ở giá đó thì chỉ hoà vốn. Thứ hai, với giá trị riêng, giả sử các đối thủ được đoán là định giá phân bố đều từ 0 tới 100 tỷ, công thức trong chương cho mức bỏ khoảng 75 tỷ (giá trị × 3/4 khi có ba đối thủ).
+
+Thứ ba, trữ lượng cát thực ra là giá trị chung: nếu doanh nghiệp thắng, rất có thể vì ước tính trữ lượng của mình lạc quan hơn của ba đối thủ. Bỏ giá như thể mình đã thắng nghĩa là phải hỏi: "nếu tôi là người trả cao nhất, điều đó nói gì về trữ lượng?" Nếu câu trả lời là trữ lượng thật có thể chỉ khoảng 80% hồ sơ, giá trị khi thắng còn khoảng 80 tỷ, và mức bỏ hợp lý giảm tương ứng xuống khoảng 60 tỷ. Bỏ theo ước tính trung bình ban đầu chính là rơi vào lời nguyền của người thắng.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -1074,11 +1133,15 @@ Lỗi tính theo giá trị trung bình rồi nhân với mức cộng hưởng 
 
 ### Định lý tương đương doanh thu được trình bày gọn nhưng các giả định của nó rất dễ bị vi phạm
 
-Hai tác giả có nói rõ điều kiện "giá trị riêng và trò chơi đối xứng", nhưng phần ứng dụng (phí người mua, tín phiếu) dễ khiến người đọc nghĩ luật chơi hầu như không quan trọng. Trên thực tế, khi người bỏ giá sợ rủi ro, có giá trị chung, giá trị phụ thuộc lẫn nhau hay bị giới hạn ngân sách, các thể thức cho doanh thu khác nhau. Ví dụ, với giá trị chung, đấu giá tăng dần thường đem lại doanh thu cao hơn đấu giá kín vì thông tin lộ ra trong quá trình đấu làm giảm nỗi sợ lời nguyền của người thắng. Chính chương này cũng đưa ra phản ví dụ mạnh nhất: trong tình huống phổ tần, nếu hai hãng tranh nhau tới cùng thì người bán thu 17, còn khi luật bán đồng thời cho phép hợp tác ngầm thì người bán chỉ thu 2; hai tác giả cũng nói bán lần lượt sẽ ngăn được kết quả này. Lời khẳng định về phí người mua cũng cần dè dặt hơn: nó đúng khi người mua tính đủ phí vào giá, nhưng nhà đấu giá cạnh tranh với nhau để giành người bán, và người mua có thể không hoàn toàn tính đúng.
+Hai tác giả có nói rõ điều kiện "giá trị riêng và trò chơi đối xứng", nhưng phần ứng dụng (phí người mua, tín phiếu) dễ khiến người đọc nghĩ luật chơi hầu như không quan trọng. Trên thực tế, khi người bỏ giá sợ rủi ro, có giá trị chung, giá trị phụ thuộc lẫn nhau hay bị giới hạn ngân sách, các thể thức cho doanh thu khác nhau. Ví dụ, với giá trị chung, đấu giá tăng dần thường đem lại doanh thu cao hơn đấu giá kín vì thông tin lộ ra trong quá trình đấu làm giảm nỗi sợ lời nguyền của người thắng.
+
+Chính chương này cũng đưa ra phản ví dụ mạnh nhất: trong tình huống phổ tần, nếu hai hãng tranh nhau tới cùng thì người bán thu 17, còn khi luật bán đồng thời cho phép hợp tác ngầm thì người bán chỉ thu 2; hai tác giả cũng nói bán lần lượt sẽ ngăn được kết quả này. Lời khẳng định về phí người mua cũng cần dè dặt hơn: nó đúng khi người mua tính đủ phí vào giá, nhưng nhà đấu giá cạnh tranh với nhau để giành người bán, và người mua có thể không hoàn toàn tính đúng.
 
 ### Ví dụ đấu giá tín phiếu đơn giản hoá, và hai tác giả tự thừa nhận điều đó
 
-Lập luận "trừ 1 điểm lãi suất thì mọi người bỏ cao hơn 1 điểm" là minh hoạ hay cho sự bù trừ, nhưng chuyển từ trả theo giá bỏ sang giá thống nhất không phải là phép dịch chuyển đơn giản như vậy, vì nó đổi cấu trúc động cơ khuyến khích. Chú thích của tác giả nói rõ đấu giá giá thống nhất nhiều đơn vị vẫn còn chỗ cho bỏ giá chiến lược (người mua lớn có thể làm giảm lãi suất trên toàn bộ phần mình mua). Các nghiên cứu thực nghiệm về thử nghiệm của Bộ Tài chính Mỹ cho kết quả khá khiêm tốn, không cho thấy khác biệt lớn về chi phí vay, phù hợp với kết luận "không mất tiền mà đơn giản hơn" của hai tác giả. Ngoài ra bảng số trong sách có chín dòng trong khi text nói "mười" rồi "tám" mức bỏ giá, một lỗi biên tập nhỏ không ảnh hưởng tới lập luận.
+Lập luận "trừ 1 điểm lãi suất thì mọi người bỏ cao hơn 1 điểm" là minh hoạ hay cho sự bù trừ, nhưng chuyển từ trả theo giá bỏ sang giá thống nhất không phải là phép dịch chuyển đơn giản như vậy, vì nó đổi cấu trúc động cơ khuyến khích. Chú thích của tác giả nói rõ đấu giá giá thống nhất nhiều đơn vị vẫn còn chỗ cho bỏ giá chiến lược (người mua lớn có thể làm giảm lãi suất trên toàn bộ phần mình mua).
+
+Các nghiên cứu thực nghiệm về thử nghiệm của Bộ Tài chính Mỹ cho kết quả khá khiêm tốn, không cho thấy khác biệt lớn về chi phí vay, phù hợp với kết luận "không mất tiền mà đơn giản hơn" của hai tác giả. Ngoài ra bảng số trong sách có chín dòng trong khi text nói "mười" rồi "tám" mức bỏ giá, một lỗi biên tập nhỏ không ảnh hưởng tới lập luận.
 
 ### Giải thích về đặt giá phút chót là giả thuyết của hai tác giả, và còn các giải thích cạnh tranh khác
 
@@ -1086,7 +1149,9 @@ Hai tác giả cho rằng lý do tốt nhất là nhiều người không biết
 
 ### Từ 2008, lý thuyết đấu giá đã đi xa và được ghi nhận bằng giải Nobel
 
-Năm 2020, Paul Milgrom và Robert Wilson nhận giải Nobel kinh tế cho các đóng góp vào lý thuyết đấu giá và thiết kế thể thức mới, trong đó có đấu giá đồng thời nhiều vòng mà FCC dùng. Các cuộc đấu giá phổ tần về sau dùng những thể thức phức tạp hơn, như đấu giá theo gói (combinatorial) cho phép bỏ giá cho cả gói giấy phép, và "đấu giá khuyến khích" mà FCC dùng để mua lại phổ tần từ các đài truyền hình rồi bán lại cho các nhà mạng. Trong quảng cáo trực tuyến, một phần thị trường đã chuyển từ dạng giá thứ hai sang dạng giá thứ nhất, cho thấy các nền tảng thấy lợi ích của tính minh bạch và đơn giản quan trọng hơn tính chất "nói thật là chiến lược trội". Câu chuyện Apple cũng có phần kết đáng chú ý: Palm, người thắng trò chơi chiếm trước năm 1996, về sau lụi tàn, còn Apple quay lại thị trường thiết bị cầm tay bằng iPhone năm 2007, cho thấy thắng trò chơi chiếm trước không bảo đảm giữ được thị trường mãi.
+Năm 2020, Paul Milgrom và Robert Wilson nhận giải Nobel kinh tế cho các đóng góp vào lý thuyết đấu giá và thiết kế thể thức mới, trong đó có đấu giá đồng thời nhiều vòng mà FCC dùng. Các cuộc đấu giá phổ tần về sau dùng những thể thức phức tạp hơn, như đấu giá theo gói (combinatorial) cho phép bỏ giá cho cả gói giấy phép, và "đấu giá khuyến khích" mà FCC dùng để mua lại phổ tần từ các đài truyền hình rồi bán lại cho các nhà mạng.
+
+Trong quảng cáo trực tuyến, một phần thị trường đã chuyển từ dạng giá thứ hai sang dạng giá thứ nhất, cho thấy các nền tảng thấy lợi ích của tính minh bạch và đơn giản quan trọng hơn tính chất "nói thật là chiến lược trội". Câu chuyện Apple cũng có phần kết đáng chú ý: Palm, người thắng trò chơi chiếm trước năm 1996, về sau lụi tàn, còn Apple quay lại thị trường thiết bị cầm tay bằng iPhone năm 2007, cho thấy thắng trò chơi chiếm trước không bảo đảm giữ được thị trường mãi.
 
 ### Quan điểm trái chiều: "hợp tác ngầm" trong đấu giá phổ tần có thể bị coi là thông đồng
 
@@ -1098,3 +1163,163 @@ Hai tác giả nói chặt chẽ thì kết quả AT&T và MCI mỗi bên lấy 
 - **Trong đầu tư.** Khi tham gia mua tài sản có giá trị chung (cổ phần trong đợt chào bán, bất động sản đấu giá, công ty mục tiêu), chiến thắng trong một cuộc đấu đông người là tín hiệu rằng mình có thể đã quá lạc quan; hãy hạ giá bỏ theo số người cạnh tranh và theo mức không chắc chắn của định giá. Áp dụng phép tính ACME: giá trị trung bình sau cộng hưởng không phải mức trần; mức trần phải tính trên điều kiện người bán đã chấp nhận.
 - **Trong nghề nghiệp.** Khi đàm phán lương hay nhận lời mời làm việc, hãy hỏi trước: nếu công ty đồng ý ngay mức tôi đưa ra, điều đó nói gì về giá trị của tôi với họ hay về vị trí đó? Khi tham gia các cuộc thi tuyển hay xét thưởng mà "mọi người đều trả giá" (thời gian làm thêm, công sức đầu tư), hãy cân nhắc đó có phải cuộc chiến tiêu hao không, và giải thưởng có đáng với tổng chi phí không.
 - **Khi đọc tin chính sách.** Ở Việt Nam, đấu giá quyền sử dụng đất, đấu giá quyền khai thác khoáng sản, đấu giá biển số xe hay đấu giá tần số viễn thông đều là các ứng dụng trực tiếp của chương. Khi có tin về những phiên đấu giá đất với giá trúng cao bất thường rồi người trúng bỏ cọc, đó có thể vừa là lời nguyền của người thắng vừa là dấu hiệu luật đấu giá để hở chỗ cho chiến lược ngoài dự kiến; khi đọc về thiết kế một phiên đấu giá tần số, câu hỏi đáng đặt ra là bán lần lượt hay đồng thời, và luật có đề phòng các doanh nghiệp chia nhau các khối tần số hay không. Khi một khoản phí hay thuế được quy định "người mua chịu", hãy nhớ ví dụ phí người mua 20%: ai thực sự gánh còn tuỳ vào việc các bên điều chỉnh giá ra sao.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 10 trên một trang: sáu nhánh theo các mục của phần Nội dung chi tiết — đấu giá tăng dần và Vickrey (bỏ đúng giá trị), định lý tương đương doanh thu và việc người chơi bù trừ thay đổi của luật, nguyên tắc bỏ giá như thể mình đã thắng (ACME, đấu giá kín, Hà Lan), đặt giá phút chót trên eBay, hai cuộc đọ sức về thời điểm (chiếm trước và tiêu hao), tình huống đấu giá phổ tần AT&T và MCI — và nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 10: bỏ giá là quyết định chiến lược — người chơi điều chỉnh theo luật, và phải bỏ giá như thể mình đã thắng`"]
+  n1["`Mục 1–3 — Đấu giá tăng dần và Vickrey: bỏ đúng giá trị`"]
+  n0 --- n1
+  n2["`Giá trị là mức giá bỏ đi: trả đúng mức đó thì thắng hay thua như nhau`"]
+  n1 --- n2
+  n3["`Giá trị riêng không phụ thuộc người khác, ví dụ cuốn sách có chữ ký tặng riêng bạn`"]
+  n2 --- n3
+  n4["`Giá trị chung như nhau với mọi người nhưng ước lượng khác nhau, ví dụ lô dầu ngoài khơi`"]
+  n2 --- n4
+  n5["`Kiểu Anh và kiểu Nhật: người giá trị cao nhất thắng, trả bằng giá trị cao thứ hai`"]
+  n1 --- n5
+  n6["`Kiểu Nhật minh bạch hơn: hạ tay là rút hẳn, ai cũng thấy ai rút ở giá nào`"]
+  n5 --- n6
+  n7["`Vickrey (1961): phong bì kín, giá cao nhất thắng nhưng chỉ trả giá cao thứ hai`"]
+  n1 --- n7
+  n8["`Bỏ đúng giá trị là chiến lược trội, không cần đoán người khác làm gì`"]
+  n7 --- n8
+  n9["`Giá trị 60 mà bỏ 50 chỉ khác kết quả khi đối thủ bỏ giữa 50 và 60 — khi đó mất món hời`"]
+  n7 --- n9
+  n10["`Bài tập số 6: biết trước giá người khác trong Vickrey không đáng đồng nào`"]
+  n7 --- n10
+  n11["`Đấu thầu mua sắm đảo chiều lời khuyên: không bao giờ bỏ thầu dưới chi phí`"]
+  n1 --- n11
+  n12["`Mục 4, 8, 9 — Đổi luật thì người chơi bù trừ`"]
+  n0 --- n12
+  n13["`Định lý tương đương doanh thu (Myerson): giá trị riêng, người chơi đối xứng thì Anh, Vickrey, Hà Lan, đấu giá kín cho cùng doanh thu trung bình`"]
+  n12 --- n13
+  n14["`Phí người mua 20% ở Sotheby's thực ra do người bán gánh`"]
+  n12 --- n14
+  n15["`Người sẵn lòng trả 600 USD sẽ chỉ bỏ 500 USD`"]
+  n14 --- n15
+  n16["`Bắt trả gấp đôi giá bỏ thì người ta bỏ một nửa`"]
+  n12 --- n16
+  n17["`Tín phiếu Kho bạc Mỹ chuyển sang giá thống nhất (thử năm 1992, chính thức năm 1998)`"]
+  n12 --- n17
+  n18["`Luật cũ trả từ 3,1% tới 3,72%, luật mới trả tất cả 3,72%, nhưng người ta sẽ bỏ khác đi`"]
+  n17 --- n18
+  n19["`Trừ 1 điểm lãi suất thì mọi người bỏ cao hơn 1 điểm, kết quả như cũ`"]
+  n17 --- n19
+  n20["`Bộ Tài chính không mất tiền, người bỏ giá đỡ phải tính toán`"]
+  n17 --- n20
+  n21["`Mục 6–8 — Bỏ giá như thể mình đã thắng`"]
+  n0 --- n21
+  n22["`Lời cầu hôn: nghe đồng ý mà muốn nghĩ lại thì lẽ ra không nên hỏi`"]
+  n21 --- n22
+  n23["`Trò chơi ACME: công ty đáng 2–12 triệu USD, người mua nâng giá trị thêm 50%`"]
+  n21 --- n23
+  n24["`Trả 10,5 triệu theo trung bình: khi được nhận công ty chỉ đáng trung bình 6,25 triệu, nâng lên 9,375 triệu, lỗ`"]
+  n23 --- n24
+  n25["`Mức trần hoà vốn là 6 triệu USD`"]
+  n23 --- n25
+  n26["`Người bán nói đồng ý là tin xấu — đó là lời nguyền của người thắng`"]
+  n23 --- n26
+  n27["`Đấu giá kín: không bao giờ bỏ bằng giá trị, phải hạ giá bỏ`"]
+  n21 --- n27
+  n28["`Giả định mọi người khác thấp hơn mình để cắt vòng lặp tôi đoán anh đoán tôi`"]
+  n27 --- n28
+  n29["`Người đồng loã hạ 100 xuống 80 khi thắng không hơn gì bỏ 80 từ đầu`"]
+  n27 --- n29
+  n30["`Đấu giá Hà Lan (chợ hoa Aalsmeer, 14 triệu bông mỗi ngày) tương đương đấu giá kín`"]
+  n21 --- n30
+  n31["`Giá trị 60, giá trị đối thủ đều từ 0 đến 100: bỏ 30, 40, 45 khi có 1, 2, 3 đối thủ`"]
+  n21 --- n31
+  n32["`Giá bỏ cân bằng là giá trị × (n − 1)/n, hội tụ về giá trị khi đông người`"]
+  n31 --- n32
+  n33["`Mục 5 — Đấu giá trực tuyến và đặt giá phút chót`"]
+  n0 --- n33
+  n34["`Giá ủy nhiệm trên eBay gần giống Vickrey: A 26, B 33, C 100 thì C thắng và trả 34`"]
+  n33 --- n34
+  n35["`Nhiều món tương tự bán cùng lúc làm giá trị phụ thuộc cuộc đấu, ví dụ trống Pearl Export`"]
+  n33 --- n35
+  n36["`Đặt giá phút chót để giá ủy nhiệm không lộ thông tin, ví dụ nhà buôn bỏ giá ghế Bauhaus`"]
+  n33 --- n36
+  n37["`Giải thích tốt nhất theo hai tác giả: nhiều người lười tìm giá trị thật của mình`"]
+  n33 --- n37
+  n38["`Porsche 911 định giá 19.000 USD: chờ phút chót để người đặt giá lười 1.000 USD không kịp nâng lên 9.000`"]
+  n37 --- n38
+  n39["`Mục 10–11 — Đọ sức về thời điểm cũng là đấu giá`"]
+  n0 --- n39
+  n40["`Trò chơi chiếm trước: đi sớm dễ thất bại, chờ lâu thì bị đối thủ chiếm`"]
+  n39 --- n40
+  n41["`Apple Newton (1993–1998) ra quá sớm, Palm Pilot (1996) đạt 1 tỷ USD mỗi năm`"]
+  n40 --- n41
+  n42["`USA Today ra năm 1982, lỗ hơn 1 tỷ USD, 12 năm mới hoà vốn`"]
+  n40 --- n42
+  n43["`Cân bằng: hai bên cùng hành động khi p(t) + q(t) bằng 1 (bài tập số 8)`"]
+  n40 --- n43
+  n44["`Cuộc chiến tiêu hao: ai trụ lâu hơn thắng, nhưng mọi người đều trả giá mình bỏ`"]
+  n39 --- n44
+  n45["`BSB và Murdoch lỗ tổng cộng 1,5 tỷ bảng sau một năm rồi sáp nhập`"]
+  n44 --- n45
+  n46["`Khoản lỗ đã chịu là chi phí chìm, không có chiến lược tốt nhất duy nhất, nên tìm thoả thuận`"]
+  n44 --- n46
+  n47["`Mục 12–13 — Tình huống đấu giá phổ tần AT＆T và MCI`"]
+  n0 --- n47
+  n48["`FCC thu hơn 40 tỷ USD (1994–2005), đấu giá 3G ở Anh thu 22,5 tỷ bảng`"]
+  n47 --- n48
+  n49["`Đấu giá đồng thời nhiều vòng: kết thúc khi có một vòng không ai bỏ giá`"]
+  n47 --- n49
+  n50["`Giá trị NY và LA: AT＆T 10 và 9, MCI 9 và 8`"]
+  n47 --- n50
+  n51["`Bỏ 10 và 9 là bị trội yếu, bỏ 9 và 8 thắng cả hai nhưng chỉ lãi 2`"]
+  n50 --- n51
+  n52["`Dừng với một giấy phép giá 1 thì lãi 9 — chi phí thật của giấy phép thứ hai là 16`"]
+  n50 --- n52
+  n53["`Hợp tác ngầm không phải thông đồng, bán lần lượt từng giấy phép sẽ ngăn được`"]
+  n47 --- n53
+  n54["`Kodak và Fuji: gộp nhiều trò chơi mở ra trừng phạt chéo — không thích trò chơi thì tìm trò chơi lớn hơn`"]
+  n47 --- n54
+  n55["`Thông điệp xuyên suốt`"]
+  n0 --- n55
+  n56["`Tính chiến lược khi thiết kế trò chơi để người chơi không phải tính chiến lược khi chơi`"]
+  n55 --- n56
+  n57["`Bạn có thể đổi luật, nhưng người chơi sẽ đổi chiến lược để bù trừ`"]
+  n55 --- n57
+  n58["`Trước mỗi lời đề nghị hãy hỏi: nếu đối phương nói đồng ý, điều đó cho tôi biết gì`"]
+  n55 --- n58
+  n59["`Đánh giá: tương đương doanh thu bị phá khi người chơi sợ rủi ro, có giá trị chung hay giới hạn ngân sách`"]
+  n55 --- n59
+  class n0 root
+  class n1,n12,n21,n33,n39,n47,n55 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n52,n53,n54,n56,n57,n58,n59 leaf
+```
+
+## Nguồn
+
+Avinash K. Dixit và Barry J. Nalebuff, *The Art of Strategy: A Game Theorist's Guide to Success in Business and Life*, ấn bản đầu (W. W. Norton, 2008), Phần III, Chương 10.
+
+## Tác giả
+
+Avinash K. Dixit (sinh 1944), nhà kinh tế Mỹ gốc Ấn, giáo sư danh dự Đại học Princeton; Barry J. Nalebuff (sinh 1958), giáo sư Trường Quản trị Yale. Sách kế thừa *Thinking Strategically* (1991) của cùng hai tác giả.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần I và II xây dựng bộ công cụ: suy luận ngược, thế lưỡng nan của người tù, cân bằng Nash, chiến lược hỗn hợp, nước đi chiến lược và độ tin cậy.
+
+Phần III đem bộ công cụ đó vào từng loại tình huống cụ thể. Chương 8 bàn về thông tin bất cân xứng và đã nêu hiện tượng "lời nguyền của người thắng" (winner's curse), hứa sẽ chỉ cách tránh nó ở Chương 10; Chương 1 cũng đã nhắc tới hiện tượng này. Chương 9 bàn về hợp tác và phối hợp.
+
+Chương 10 áp dụng các khái niệm chiến lược trội, cân bằng Nash và tư duy "nhìn trước hệ quả" vào đấu giá, rồi mở rộng sang hai loại cuộc đọ sức trông không giống đấu giá: trò chơi chiếm trước (preemption game) và cuộc chiến tiêu hao (war of attrition). Chương 11 tiếp theo bàn về mặc cả (bargaining), một dạng tương tác mua bán khác mà ở đó không có luật đấu giá cố định.
+
+## Lưu ý
+
+- Sách viết khoảng 2007–2008, nên các con số mang dấu ấn thời điểm đó: đấu giá quảng cáo của Google và Yahoo! thu "hơn 10 tỷ USD", FCC thu hơn 40 tỷ USD từ đấu giá phổ tần giai đoạn 1994–2005, cuộc đấu giá 3G ở Anh (năm 2000) thu 22,5 tỷ bảng. Từ đó, Yahoo! không còn là đối thủ đáng kể trong quảng cáo tìm kiếm, và quy mô đấu giá quảng cáo trực tuyến đã lớn hơn nhiều; một phần đấu giá quảng cáo hiển thị đã chuyển từ dạng giá thứ hai sang dạng giá thứ nhất vào cuối thập niên 2010.
+- Năm 2020, Paul Milgrom và Robert Wilson nhận giải Nobel kinh tế cho các đóng góp vào lý thuyết đấu giá và thiết kế thể thức đấu giá mới, gồm thể thức đấu giá đồng thời nhiều vòng mà FCC dùng (chính thể thức trong tình huống cuối chương).
+- Chương có **12 chú thích chân trang** của tác giả (đánh dấu từ {FN81} đến {FN92} trong text gốc); tất cả đã được đưa vào phần Nội dung chi tiết ngay tại chỗ chúng xuất hiện, ghi rõ "Chú thích của tác giả".
+- Chương có ba bài tập "Trip to the Gym" (số 6, 7 và 8); đề bài và đáp án của sách đã được đưa vào ngay sau chỗ bài tập xuất hiện.
+- Sáu hình trong chương (bảng so sánh hai cách bỏ giá, bảng các giá bỏ trong đấu giá tín phiếu, tranh biếm hoạ Doonesbury về máy Newton, ba bảng giá trong tình huống phổ tần) đã được dựng lại.
+- Text gốc có hai chỗ lệch nhỏ: ví dụ tín phiếu nói có "mười" mức bỏ giá rồi sau đó gọi là "tám mức bỏ giá như trên", trong khi bảng của sách có chín dòng; sản phẩm của Apple được gọi là "Original Newton Message", tên thương mại thường dùng là Newton MessagePad.
+- Các câu trích là bản dịch của người tổng hợp.
