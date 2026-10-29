@@ -1,21 +1,22 @@
 # Chương 27 — Lời kết (Parting Thoughts)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Chương 27 (chương cuối của Phần VII, Special Economic Issues).
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
-**Vị trí trong lập luận của cả cuốn sách:** Đây là chương khép lại cuốn sách, nên Sowell không đưa ra chủ đề mới mà rút từ 26 chương trước ra vài nguyên tắc chung. Để thấy chương này gom lại những gì, có thể nhìn lại cả cuốn theo trình tự:
-- **Chương 1 (What Is Economics?)** đặt nền: kinh tế học nghiên cứu việc sử dụng các nguồn lực khan hiếm có nhiều công dụng thay thế, và phải đánh giá chính sách theo động cơ khuyến khích và hậu quả, không theo mục tiêu nó tuyên bố. Chương 27 quay lại đúng hai ý này.
-- **Phần I (Giá cả và thị trường, Chương 2–4)** cho thấy giá cả là cơ chế truyền thông tin và phân bổ nguồn lực; khi nhà nước ấn giá xuống bằng luật (kiểm soát tiền thuê nhà, kiểm soát giá lương thực) thì thiếu hụt xuất hiện, như nhà bị bỏ hoang, đóng ván ở New York, hay nạn đói ở những nước có đất nông nghiệp tốt. Chương 27 nhắc lại cả hai ví dụ.
-- **Phần II (Công nghiệp và thương mại, Chương 5–9)** cho thấy doanh nghiệp lớn đến đâu cũng có thể sụp đổ nếu chậm hiểu hoàn cảnh thay đổi (Kodak, A&P, Sears), rằng lãi và lỗ là tín hiệu buộc nguồn lực chuyển khỏi chỗ dùng kém hiệu quả, và rằng nền kinh tế kế hoạch hoá tập trung thất bại vì không ai gom đủ tri thức để định hàng triệu mức giá. Chương 27 dùng lại Kodak, Lenin, J.C. Penney, F.W. Woolworth.
-- **Phần III (Lao động và tiền lương, Chương 10–12)** phân biệt mức lương theo giờ với chi phí lao động trên mỗi đơn vị sản lượng, chỉ ra rằng luật lương tối thiểu làm tăng thất nghiệp, và rằng công đoàn ô tô Mỹ không thể ép phần thu nhập của nhà đầu tư mãi mà không mất việc làm vào tay các nhà máy không có công đoàn (Detroit sa thải trong khi Toyota tuyển người ở Mỹ). Chương 27 gom các ví dụ này dưới hai lỗi tư duy: coi giao dịch là tổng bằng không, và quên cạnh tranh.
-- **Phần IV (Thời gian và rủi ro, Chương 13–15)** giải thích đầu tư, cổ phiếu, trái phiếu, bảo hiểm, và cho thấy số liệu "trữ lượng đã biết" của tài nguyên phản ánh chi phí thăm dò và lãi suất hơn là lượng vật chất còn lại trên Trái Đất. Chương 27 lấy lại ví dụ trữ lượng này.
-- **Phần V (Nền kinh tế quốc gia, Chương 16–20)** bàn về sản lượng quốc gia, tiền và ngân hàng, chức năng của chính phủ (trong đó có bảo vệ quyền tài sản), tài chính công và phân biệt thuế suất với tổng thu thuế. Chương 27 lấy sự phân biệt thuế suất và tổng thu thuế làm ví dụ về việc dùng từ cẩu thả.
-- **Phần VI (Kinh tế quốc tế, Chương 21–23)** cho thấy nước lương cao vẫn cạnh tranh được với nước lương thấp, rằng hạn chế nhập khẩu thép cứu được ít việc làm hơn số việc làm nó làm mất ở các ngành dùng thép, và rằng người nghèo ở các nước thuộc Thế giới thứ ba thiếu quyền tài sản được pháp luật công nhận nên khó huy động vốn. Chương 27 dùng lại cả ba ý.
-- **Phần VII (Các vấn đề kinh tế đặc biệt, Chương 24–26)** bác bỏ các huyền thoại về thị trường, bàn về các giá trị "phi kinh tế", và kể lịch sử tư tưởng kinh tế. Chương 26 kết thúc bằng sự tiến hoá của kinh tế học như một môn phân tích; Chương 27 chuyển từ môn học sang người đọc: dùng phân tích ấy như thế nào khi nghe chính trị gia và báo chí.
+## Ý chính
 
-Sau Chương 27, sách chỉ còn phần Câu hỏi theo chương và phần Chú thích nguồn.
-**Ý chính:** Sowell muốn người đọc mang theo phương pháp chứ không phải từng ví dụ. Theo ông, nhiều ngụy biện kinh tế đến từ ba lỗi: (1) coi giao dịch kinh tế là **tổng bằng không** (zero-sum), tức bên này được thì bên kia mất; (2) **bỏ qua cạnh tranh**; (3) **không nghĩ quá hệ quả ban đầu** của chính sách. Bên cạnh ba lỗi đó, Sowell chỉ ra một nguồn nhầm lẫn lớn khác: đánh giá chính sách theo **mục tiêu nó tuyên bố** thay vì **động cơ khuyến khích nó tạo ra**. Ví dụ trung tâm là kiểm soát giá thời chiến: nhà nước ấn giá bánh mì và bơ xuống để người nghèo có ăn, nhưng để mặc giá rượu sâm panh và trứng cá muối; vì cùng tranh giành lao động và nguyên liệu, nhà sản xuất sâm panh và trứng cá lãi hơn nên giành được nguồn lực, và kết quả là ít bánh mì, bơ hơn chứ không nhiều hơn. Chủ đề lớn thứ hai là **tri thức**: Kodak phát minh ra máy ảnh số nhưng không thấy hàm ý của nó rõ bằng các đối thủ (Nikon, Canon, Sony, Samsung) nên phá sản; kinh tế thị trường vượt trội vì huy động được tri thức của cả những người xuất thân nghèo như J.C. Penney và F.W. Woolworth. Sowell kết sách bằng câu phân biệt quan trọng nhất theo ông: điều **nghe hay** khác với điều **có hiệu quả**.
+Sowell muốn người đọc mang theo phương pháp chứ không phải từng ví dụ.
 
-> **Lưu ý:** Sách viết khoảng 2013–2014. Một số chi tiết đã thay đổi từ đó: Eastman Kodak nộp đơn phá sản năm 2012 như Sowell viết, nhưng đã ra khỏi thủ tục phá sản năm 2013 và vẫn hoạt động như một công ty nhỏ hơn nhiều, chuyển sang in ấn và hoá chất; General Motors (mà Sowell dùng làm ví dụ cắt giảm nhân công) đã qua phá sản và tái cấu trúc năm 2009, trước khi sách in. Đạo luật mà Sowell gọi là "Luật giải trừ khốn cùng của Nhân dân và Đế chế" là Đạo luật Trao quyền (Enabling Act) của Đức tháng 3 năm 1933; nó trao quyền lập pháp cho chính phủ của Hitler, còn chuỗi từ đó tới Thế chiến thứ hai dài hơn câu Sowell viết gọn. Bài thơ về Benjamin Jowett vốn có từ một tập thơ trào phúng của sinh viên Balliol cuối thế kỷ 19; lời bản gốc hơi khác bản Sowell dẫn, nhưng ý không đổi. Chương có 2 chú thích chân trang có nội dung của Sowell: chú thích về luật giới hạn chiều cao nhà (đưa vào mục 4 của Nội dung chi tiết và khối Sơ đồ tương ứng) và chú thích dẫn sách về lịch sử McDonald's (đưa vào mục 5). Chương không có tiểu mục có tên; các phần trong Sơ đồ và Nội dung chi tiết do người tổng hợp chia theo trình tự các đoạn của Sowell. Các câu trích là bản dịch của người tổng hợp.
+Theo ông, nhiều ngụy biện kinh tế đến từ ba lỗi:
+
+- coi giao dịch kinh tế là **tổng bằng không** (zero-sum), tức bên này được thì bên kia mất;
+- **bỏ qua cạnh tranh**;
+- **không nghĩ quá hệ quả ban đầu** của chính sách.
+
+Bên cạnh ba lỗi đó, Sowell chỉ ra một nguồn nhầm lẫn lớn khác: đánh giá chính sách theo **mục tiêu nó tuyên bố** thay vì **động cơ khuyến khích nó tạo ra**.
+
+Ví dụ trung tâm là kiểm soát giá thời chiến: nhà nước ấn giá bánh mì và bơ xuống để người nghèo có ăn, nhưng để mặc giá rượu sâm panh và trứng cá muối; vì cùng tranh giành lao động và nguyên liệu, nhà sản xuất sâm panh và trứng cá lãi hơn nên giành được nguồn lực, và kết quả là ít bánh mì, bơ hơn chứ không nhiều hơn.
+
+Chủ đề lớn thứ hai là **tri thức**: Kodak phát minh ra máy ảnh số nhưng không thấy hàm ý của nó rõ bằng các đối thủ (Nikon, Canon, Sony, Samsung) nên phá sản; kinh tế thị trường vượt trội vì huy động được tri thức của cả những người xuất thân nghèo như J.C. Penney và F.W. Woolworth.
+
+Sowell kết sách bằng câu phân biệt quan trọng nhất theo ông: điều **nghe hay** khác với điều **có hiệu quả**.
 
 ## Sơ đồ
 
@@ -407,7 +408,9 @@ Một phần của cách tiếp cận phân tích là dùng và định nghĩa t
 
 Theo Sowell, nhiều ngụy biện kinh tế dựa vào một trong ba lỗi: (1) coi nền kinh tế là tập hợp các giao dịch tổng bằng không; (2) bỏ qua vai trò của cạnh tranh trên thị trường; (3) không nghĩ quá các hệ quả ban đầu của chính sách.
 
-**Lỗi 1: coi giao dịch là tổng bằng không.** Nếu một giao dịch kinh tế chỉ có thể có lợi cho bên này bằng cách làm thiệt bên kia, thì việc nhà nước can thiệp sửa điều khoản giao dịch để giúp một bên (người thuê nhà, người lao động) sẽ mang lại lợi ích ròng cho bên đó, và niềm tin vào can thiệp như vậy là dễ hiểu. Nhưng nếu giao dịch có lợi cho cả hai bên, thì sửa điều khoản để thiên vị một bên sẽ làm bên kia muốn tham gia ít giao dịch hơn. Trong một thế giới mà giao dịch là tổng dương, dễ hiểu vì sao luật kiểm soát tiền thuê nhà dẫn tới thiếu nhà và luật lương tối thiểu làm tăng thất nghiệp. Sowell lưu ý: ít ai nói thẳng rằng giao dịch chỉ có lợi cho một bên, nhưng nhiều ngụy biện tồn tại nhờ những giả định ngầm mà người ta không buồn nói ra, kể cả với chính mình.
+**Lỗi 1: coi giao dịch là tổng bằng không.** Nếu một giao dịch kinh tế chỉ có thể có lợi cho bên này bằng cách làm thiệt bên kia, thì việc nhà nước can thiệp sửa điều khoản giao dịch để giúp một bên (người thuê nhà, người lao động) sẽ mang lại lợi ích ròng cho bên đó, và niềm tin vào can thiệp như vậy là dễ hiểu. Nhưng nếu giao dịch có lợi cho cả hai bên, thì sửa điều khoản để thiên vị một bên sẽ làm bên kia muốn tham gia ít giao dịch hơn.
+
+Trong một thế giới mà giao dịch là tổng dương, dễ hiểu vì sao luật kiểm soát tiền thuê nhà dẫn tới thiếu nhà và luật lương tối thiểu làm tăng thất nghiệp. Sowell lưu ý: ít ai nói thẳng rằng giao dịch chỉ có lợi cho một bên, nhưng nhiều ngụy biện tồn tại nhờ những giả định ngầm mà người ta không buồn nói ra, kể cả với chính mình.
 
 Từ đó Sowell nhận xét: người ta hiếm khi suy nghĩ thấu đáo một cách dại dột; thường hơn, họ hoàn toàn không buồn suy nghĩ thấu đáo, nên cả người rất thông minh cũng đi tới kết luận không đứng vững, vì trí tuệ chẳng có ý nghĩa gì nếu không được đem ra dùng.
 
@@ -415,7 +418,9 @@ Từ đó Sowell nhận xét: người ta hiếm khi suy nghĩ thấu đáo mộ
 
 Ví dụ thứ hai là niềm tin rằng công đoàn có thể tăng phần thu nhập của lao động trong một ngành chỉ đơn giản bằng cách giảm phần của nhà đầu tư trong ngành đó. Niềm tin này bỏ qua cạnh tranh để thu hút vốn đầu tư: vốn chảy tới ngành có lợi suất cao hơn và rời khỏi ngành có lợi suất thấp hơn, qua đó làm thay đổi triển vọng việc làm ở cả hai nơi. Khi công ty có công đoàn và công ty không có công đoàn cạnh tranh trong cùng một ngành, như ngành ô tô Mỹ, không có gì lạ khi General Motors cắt giảm mạnh số nhân công trong khi Toyota tăng tuyển dụng ở Mỹ.
 
-**Lỗi 3: không nghĩ quá hệ quả ban đầu.** Sowell coi đây là một trường hợp riêng của việc không buồn suy nghĩ thấu đáo. Hạn chế nhập khẩu thép vào Mỹ quả thật giữ được việc làm trong ngành thép trong nước. Nhưng thép trong nước đắt hơn đã tác động lên giá và doanh số của các sản phẩm khác làm từ thép, và số việc làm mất ở các ngành đó nhiều hơn hẳn số việc làm được giữ trong ngành thép. (Ở Chương 21, Sowell dẫn ước tính: thuế quan thép mang lại cho các công ty thép thêm 240 triệu USD lợi nhuận và giữ 5.000 việc làm, trong khi các ngành dùng thép mất khoảng 600 triệu USD lợi nhuận và 26.000 việc làm.) Theo Sowell, điều này chẳng có gì cao siêu, chỉ cần dừng lại để nghĩ. Ông nhấn mạnh: các ví dụ cụ thể trong chương này hay trong cả sách không quan trọng bằng việc ghi nhớ các nguyên lý kinh tế mà chúng minh hoạ.
+**Lỗi 3: không nghĩ quá hệ quả ban đầu.** Sowell coi đây là một trường hợp riêng của việc không buồn suy nghĩ thấu đáo. Hạn chế nhập khẩu thép vào Mỹ quả thật giữ được việc làm trong ngành thép trong nước. Nhưng thép trong nước đắt hơn đã tác động lên giá và doanh số của các sản phẩm khác làm từ thép, và số việc làm mất ở các ngành đó nhiều hơn hẳn số việc làm được giữ trong ngành thép. (Ở Chương 21, Sowell dẫn ước tính: thuế quan thép mang lại cho các công ty thép thêm 240 triệu USD lợi nhuận và giữ 5.000 việc làm, trong khi các ngành dùng thép mất khoảng 600 triệu USD lợi nhuận và 26.000 việc làm.)
+
+Theo Sowell, điều này chẳng có gì cao siêu, chỉ cần dừng lại để nghĩ. Ông nhấn mạnh: các ví dụ cụ thể trong chương này hay trong cả sách không quan trọng bằng việc ghi nhớ các nguyên lý kinh tế mà chúng minh hoạ.
 
 | Lỗi tư duy | Giả định ngầm | Ví dụ Sowell nêu | Điều bị bỏ qua |
 |---|---|---|---|
@@ -427,7 +432,9 @@ Ví dụ thứ hai là niềm tin rằng công đoàn có thể tăng phần thu
 
 Sowell cho rằng nhiều nhầm lẫn đến từ việc đánh giá chính sách kinh tế theo mục tiêu nó tuyên bố thay vì theo động cơ khuyến khích nó tạo ra. Ví dụ của ông là thời chiến. Khi quân đội hút rất nhiều nguồn lực vốn dùng để sản xuất hàng dân dụng, có một mong muốn dễ hiểu là bảo đảm những thứ cơ bản như lương thực vẫn có cho dân thường, nhất là người thu nhập thấp. Vì vậy nhà nước có thể kiểm soát giá bánh mì và bơ, nhưng không kiểm soát giá rượu sâm panh và trứng cá muối. Nếu chỉ nhìn mục tiêu hay hệ quả ban đầu, chính sách này có vẻ đúng; nhưng bức tranh đổi hẳn khi lần theo các hệ quả tiếp theo của động cơ khuyến khích mà nó tạo ra.
 
-Chuỗi hệ quả như sau. Giá bánh mì và bơ bị giữ thấp hơn mức mà cung cầu trên thị trường tự do sẽ quyết định, nên nhà sản xuất bánh mì và bơ có tỷ suất lợi nhuận thấp hơn nhà sản xuất sâm panh và trứng cá, những người vẫn tự do bán với giá cao nhất người mua chịu trả, vì không ai coi những thứ đó là thiết yếu. Mọi nhà sản xuất đều cạnh tranh để thuê lao động và mua các nguồn lực khan hiếm khác. Do đó lợi nhuận cao hơn giúp nhà sản xuất sâm panh và trứng cá trả giá cao hơn và giành thêm nguồn lực từ tay nhà sản xuất bánh mì và bơ, nhiều hơn mức họ có thể giành được trên thị trường tự do không có kiểm soát giá. Nguồn lực chuyển từ sản xuất bánh mì, bơ sang sản xuất sâm panh, trứng cá, đúng ngược với mục tiêu; đây là loại hệ quả không ai thấy nếu không nghĩ quá giai đoạn đầu.
+Chuỗi hệ quả như sau. Giá bánh mì và bơ bị giữ thấp hơn mức mà cung cầu trên thị trường tự do sẽ quyết định, nên nhà sản xuất bánh mì và bơ có tỷ suất lợi nhuận thấp hơn nhà sản xuất sâm panh và trứng cá, những người vẫn tự do bán với giá cao nhất người mua chịu trả, vì không ai coi những thứ đó là thiết yếu. Mọi nhà sản xuất đều cạnh tranh để thuê lao động và mua các nguồn lực khan hiếm khác.
+
+Do đó lợi nhuận cao hơn giúp nhà sản xuất sâm panh và trứng cá trả giá cao hơn và giành thêm nguồn lực từ tay nhà sản xuất bánh mì và bơ, nhiều hơn mức họ có thể giành được trên thị trường tự do không có kiểm soát giá. Nguồn lực chuyển từ sản xuất bánh mì, bơ sang sản xuất sâm panh, trứng cá, đúng ngược với mục tiêu; đây là loại hệ quả không ai thấy nếu không nghĩ quá giai đoạn đầu.
 
 | Bước | Ngành bánh mì và bơ (bị kiểm soát giá) | Ngành sâm panh và trứng cá (không bị kiểm soát) |
 |---|---|---|
@@ -444,7 +451,9 @@ Sowell viết rằng tầm quan trọng của các nguyên lý kinh tế vượt
 
 **Cạn kiệt tài nguyên.** Người lo dầu mỏ, quặng sắt hay tài nguyên thiên nhiên khác sẽ cạn thường mặc định rằng mình đang bàn về lượng vật chất có trên hành tinh. Giả định đó đổi hẳn khi ta nhận ra số liệu "trữ lượng đã biết" của các tài nguyên này có thể cho biết nhiều hơn về chi phí thăm dò, và về lãi suất của khoản tiền tài trợ việc thăm dò, hơn là về lượng tài nguyên còn lại trên Trái Đất. Hơn nữa, lượng vật chất tự nó cũng không phải điều quyết định nếu không biết có thể khai thác và chế biến được bao nhiêu với chi phí bao nhiêu.
 
-**Giới hạn chiều cao nhà.** Nhiều quyết định thường không được coi là kinh tế lại có thể có hệ quả kinh tế nghiêm trọng. Một số cộng đồng quyết định giới hạn chiều cao nhà được phép xây mà không hề nghĩ rằng việc này có hàm ý kinh tế, có thể khiến tiền thuê nhà cao hơn nhiều. Chú thích của Sowell giải thích cơ chế: khi luật cấm xây chung cư 10 tầng, một chung cư 5 tầng trên cùng mảnh đất có chi phí mỗi căn hộ cao hơn, vì tiền đất (ở một số nơi còn cao hơn tiền xây toà nhà) phải được thu lại qua tiền thuê của chỉ một nửa số người. Đây chỉ là vài trong rất nhiều vấn đề bề ngoài có vẻ không phải chuyện kinh tế, nhưng trông khác hẳn khi đã hiểu và áp dụng các nguyên lý kinh tế cơ bản.
+**Giới hạn chiều cao nhà.** Nhiều quyết định thường không được coi là kinh tế lại có thể có hệ quả kinh tế nghiêm trọng. Một số cộng đồng quyết định giới hạn chiều cao nhà được phép xây mà không hề nghĩ rằng việc này có hàm ý kinh tế, có thể khiến tiền thuê nhà cao hơn nhiều.
+
+Chú thích của Sowell giải thích cơ chế: khi luật cấm xây chung cư 10 tầng, một chung cư 5 tầng trên cùng mảnh đất có chi phí mỗi căn hộ cao hơn, vì tiền đất (ở một số nơi còn cao hơn tiền xây toà nhà) phải được thu lại qua tiền thuê của chỉ một nửa số người. Đây chỉ là vài trong rất nhiều vấn đề bề ngoài có vẻ không phải chuyện kinh tế, nhưng trông khác hẳn khi đã hiểu và áp dụng các nguyên lý kinh tế cơ bản.
 
 **Mục tiêu và động cơ khuyến khích ngoài kinh tế học.** Theo Sowell, phân biệt giữa mục tiêu của chính sách với động cơ khuyến khích chính sách tạo ra có giá trị vượt ra ngoài các chủ đề của sách, và vượt cả kinh tế học. Không gì dễ hơn tuyên bố một mục tiêu tuyệt vời. Thời Đại suy thoái thập niên 1930, một đạo luật ở Đức mang tên "Luật giải trừ khốn cùng của Nhân dân và Đế chế" đã trao quyền độc tài cho Adolf Hitler, dẫn tới Thế chiến thứ hai, gây ra khốn cùng và tai hoạ lớn hơn mọi thứ người Đức và nhiều dân tộc khác từng trải qua.
 
@@ -464,21 +473,35 @@ Một số chính sách kinh tế gây hậu quả phản tác dụng, thậm ch
 
 Sowell viết rằng bên cạnh vai trò của động cơ khuyến khích và ràng buộc, một chủ đề trung tâm khác của sách là vai trò của tri thức. Trong kinh tế thị trường tự do, ta đã thấy các tập đoàn khổng lồ trị giá hàng tỷ đô la rơi khỏi đỉnh cao, có công ty tới mức phá sản và biến mất, vì hiểu biết của họ về hoàn cảnh thay đổi và hàm ý của những thay đổi đó tụt lại sau các đối thủ mới nổi.
 
-**Kodak.** Sự kiện là quan trọng, nhưng hiểu hàm ý của sự kiện còn quan trọng hơn, và đó là điều kinh tế học tìm cách mang lại. Eastman Kodak là gã khổng lồ quốc tế của ngành ảnh hơn một thế kỷ, vậy mà bị tàn phá về kinh tế bởi sự trỗi dậy của máy ảnh số, thứ đã xoá sổ thị trường của nhiều sản phẩm Kodak gắn với công nghệ phim nay đã lỗi thời. Điều Kodak thiếu không phải là hiểu biết về máy ảnh số, vì chính Kodak phát minh ra máy ảnh số, mà là khả năng thấy hàm ý của công nghệ hoàn toàn mới này nhanh và rõ bằng các công ty khác, những công ty đã phát triển tiềm năng của nó tới mức Eastman Kodak buộc phải phá sản. Các công ty đó gồm cả hãng máy ảnh truyền thống như Nikon và Canon, lẫn các công ty ngoài ngành ảnh như Sony và Samsung khi họ bắt đầu sản xuất máy ảnh số.
+**Kodak.** Sự kiện là quan trọng, nhưng hiểu hàm ý của sự kiện còn quan trọng hơn, và đó là điều kinh tế học tìm cách mang lại. Eastman Kodak là gã khổng lồ quốc tế của ngành ảnh hơn một thế kỷ, vậy mà bị tàn phá về kinh tế bởi sự trỗi dậy của máy ảnh số, thứ đã xoá sổ thị trường của nhiều sản phẩm Kodak gắn với công nghệ phim nay đã lỗi thời.
+
+Điều Kodak thiếu không phải là hiểu biết về máy ảnh số, vì chính Kodak phát minh ra máy ảnh số, mà là khả năng thấy hàm ý của công nghệ hoàn toàn mới này nhanh và rõ bằng các công ty khác, những công ty đã phát triển tiềm năng của nó tới mức Eastman Kodak buộc phải phá sản. Các công ty đó gồm cả hãng máy ảnh truyền thống như Nikon và Canon, lẫn các công ty ngoài ngành ảnh như Sony và Samsung khi họ bắt đầu sản xuất máy ảnh số.
 
 Sowell nhấn mạnh điều quan trọng không phải là công ty này thua công ty kia, trong ngành ảnh hay ngành nào khác, mà là tri thức và sự thấu hiểu đã quyết định thắng bại trong cạnh tranh thị trường. Công chúng được lợi vì những quyết định kinh doanh dựa trên hiểu biết rõ hơn về thực tế kinh tế của thời điểm và hoàn cảnh, và chính những doanh nghiệp ấy là doanh nghiệp sống sót để sử dụng các nguồn lực khan hiếm có nhiều công dụng thay thế.
 
-**Kế hoạch hoá tập trung.** Trong các nền kinh tế kế hoạch hoá tập trung, người lập kế hoạch bị đè bẹp bởi nhiệm vụ định ra hàng triệu mức giá theo đúng nghĩa đen, và liên tục sửa các mức giá đó để đáp ứng vô số thay đổi thường không lường trước được. Việc họ hay thất bại không có gì đáng chú ý; điều đáng chú ý là đã có người kỳ vọng họ thành công, khi xét tới lượng tri thức khổng lồ phải được tập hợp và làm chủ ở một nơi, bởi một nhóm người, vào cùng một lúc thì cách sắp xếp đó mới vận hành được. Lenin chỉ là một trong rất nhiều nhà lý thuyết qua nhiều thế kỷ tưởng rằng quan chức nhà nước điều hành hoạt động kinh tế sẽ dễ dàng, và là người đầu tiên trực tiếp đối mặt với những thảm hoạ kinh tế và xã hội mà niềm tin đó dẫn tới, như chính ông thừa nhận chỉ sau vài năm cầm quyền.
+**Kế hoạch hoá tập trung.** Trong các nền kinh tế kế hoạch hoá tập trung, người lập kế hoạch bị đè bẹp bởi nhiệm vụ định ra hàng triệu mức giá theo đúng nghĩa đen, và liên tục sửa các mức giá đó để đáp ứng vô số thay đổi thường không lường trước được. Việc họ hay thất bại không có gì đáng chú ý; điều đáng chú ý là đã có người kỳ vọng họ thành công, khi xét tới lượng tri thức khổng lồ phải được tập hợp và làm chủ ở một nơi, bởi một nhóm người, vào cùng một lúc thì cách sắp xếp đó mới vận hành được.
 
-**Kinh tế thị trường là kinh tế tri thức.** Vì tri thức và sự thấu hiểu mang lại lợi thế quyết định trong kinh tế thị trường, kể cả khi chúng nằm trong đầu những người sinh ra và lớn lên trong nghèo khó như J.C. Penney hay F.W. Woolworth, ta có thể hiểu vì sao kinh tế thị trường thường vượt các nền kinh tế phụ thuộc vào ý tưởng chỉ đến từ một nhóm tinh hoa hẹp về dòng dõi hay về hệ tư tưởng. Kinh tế thị trường thường được coi là kinh tế tiền, nhưng đúng hơn nữa thì là kinh tế tri thức: luôn có thể tìm được tiền để tài trợ cho những sáng kiến, công nghệ và cách tổ chức mới có hiệu quả, kể cả khi người tạo ra chúng lúc đầu không có tiền, như Henry Ford, Thomas Edison, David Packard và nhiều người khác. Theo Sowell, dưới chủ nghĩa tư bản vốn luôn có sẵn, còn tri thức và sự thấu hiểu thì hiếm và quý dưới mọi hệ thống kinh tế.
+Lenin chỉ là một trong rất nhiều nhà lý thuyết qua nhiều thế kỷ tưởng rằng quan chức nhà nước điều hành hoạt động kinh tế sẽ dễ dàng, và là người đầu tiên trực tiếp đối mặt với những thảm hoạ kinh tế và xã hội mà niềm tin đó dẫn tới, như chính ông thừa nhận chỉ sau vài năm cầm quyền.
 
-**Tri thức không chỉ là kiến thức hàn lâm.** Sowell cảnh báo không nên hiểu tri thức theo nghĩa hẹp là loại thông tin mà trí thức và học giả chuyên về. Ta không nên giống hình ảnh học giả nổi tiếng Benjamin Jowett, hiệu trưởng Balliol College ở Oxford, trong một bài thơ trào phúng: "Tên tôi là Benjamin Jowett. Hễ là tri thức thì tôi biết. Tôi là hiệu trưởng trường này. Cái gì tôi không biết thì chẳng phải tri thức." Trên thực tế, có rất nhiều tri thức sống còn với sự vận hành của nền kinh tế mà giới trí thức không biết. Người ta dễ coi thường loại tri thức đời thường, rất cụ thể cùng hàm ý của nó, vốn thường quyết định thành bại kinh tế, bằng câu hỏi mỉa mai kiểu "Rán một cái hamburger thì cần bao nhiêu tri thức?". Nhưng McDonald's không tự dưng trở thành tập đoàn hàng tỷ đô la với hàng nghìn cửa hàng khắp thế giới, khi có rất nhiều đối thủ cố gắng tuyệt vọng để làm điều tương tự mà không thành, có người còn không kiếm đủ tiền để tồn tại. Ai nghiên cứu lịch sử chuỗi nhượng quyền này (chú thích của Sowell dẫn ví dụ cuốn *McDonald's: Behind the Arches* của John F. Love) sẽ kinh ngạc trước lượng tri thức chi tiết, sự thấu hiểu, sáng kiến về tổ chức và công nghệ, xoay xở tài chính, nỗ lực dốc toàn lực và hy sinh tuyệt vọng đã bỏ ra để tạo nên một thành công kinh tế khổng lồ từ việc bán vài món ăn thông thường.
+**Kinh tế thị trường là kinh tế tri thức.** Vì tri thức và sự thấu hiểu mang lại lợi thế quyết định trong kinh tế thị trường, kể cả khi chúng nằm trong đầu những người sinh ra và lớn lên trong nghèo khó như J.C. Penney hay F.W. Woolworth, ta có thể hiểu vì sao kinh tế thị trường thường vượt các nền kinh tế phụ thuộc vào ý tưởng chỉ đến từ một nhóm tinh hoa hẹp về dòng dõi hay về hệ tư tưởng.
 
-McDonald's không phải trường hợp duy nhất. Đủ loại doanh nghiệp, từ Sears tới Intel, từ Honda tới Bank of America, đều phải vật lộn đi lên từ khởi đầu khiêm tốn để cuối cùng đạt được sự giàu có và vững vàng. Trong tất cả các trường hợp đó, chính tri thức và sự thấu hiểu tích luỹ qua năm tháng, tức vốn con người, rốt cuộc đã thu hút vốn tài chính để biến ý tưởng thành hiện thực. Mặt trái là: ở những nước mà việc huy động nguồn lực tài chính bị cản trở bởi luật quyền tài sản không đáng tin cậy, người ở đáy xã hội có ít cách hơn để có vốn cho các nỗ lực khởi nghiệp. Quan trọng hơn, cả xã hội mất đi những gì mà các doanh nhân bị bóp nghẹt đó lẽ ra đã đóng góp cho sự đi lên kinh tế của quốc gia.
+Kinh tế thị trường thường được coi là kinh tế tiền, nhưng đúng hơn nữa thì là kinh tế tri thức: luôn có thể tìm được tiền để tài trợ cho những sáng kiến, công nghệ và cách tổ chức mới có hiệu quả, kể cả khi người tạo ra chúng lúc đầu không có tiền, như Henry Ford, Thomas Edison, David Packard và nhiều người khác. Theo Sowell, dưới chủ nghĩa tư bản vốn luôn có sẵn, còn tri thức và sự thấu hiểu thì hiếm và quý dưới mọi hệ thống kinh tế.
+
+**Tri thức không chỉ là kiến thức hàn lâm.** Sowell cảnh báo không nên hiểu tri thức theo nghĩa hẹp là loại thông tin mà trí thức và học giả chuyên về. Ta không nên giống hình ảnh học giả nổi tiếng Benjamin Jowett, hiệu trưởng Balliol College ở Oxford, trong một bài thơ trào phúng: "Tên tôi là Benjamin Jowett. Hễ là tri thức thì tôi biết. Tôi là hiệu trưởng trường này. Cái gì tôi không biết thì chẳng phải tri thức."
+
+Trên thực tế, có rất nhiều tri thức sống còn với sự vận hành của nền kinh tế mà giới trí thức không biết. Người ta dễ coi thường loại tri thức đời thường, rất cụ thể cùng hàm ý của nó, vốn thường quyết định thành bại kinh tế, bằng câu hỏi mỉa mai kiểu "Rán một cái hamburger thì cần bao nhiêu tri thức?".
+
+Nhưng McDonald's không tự dưng trở thành tập đoàn hàng tỷ đô la với hàng nghìn cửa hàng khắp thế giới, khi có rất nhiều đối thủ cố gắng tuyệt vọng để làm điều tương tự mà không thành, có người còn không kiếm đủ tiền để tồn tại. Ai nghiên cứu lịch sử chuỗi nhượng quyền này (chú thích của Sowell dẫn ví dụ cuốn *McDonald's: Behind the Arches* của John F. Love) sẽ kinh ngạc trước lượng tri thức chi tiết, sự thấu hiểu, sáng kiến về tổ chức và công nghệ, xoay xở tài chính, nỗ lực dốc toàn lực và hy sinh tuyệt vọng đã bỏ ra để tạo nên một thành công kinh tế khổng lồ từ việc bán vài món ăn thông thường.
+
+McDonald's không phải trường hợp duy nhất. Đủ loại doanh nghiệp, từ Sears tới Intel, từ Honda tới Bank of America, đều phải vật lộn đi lên từ khởi đầu khiêm tốn để cuối cùng đạt được sự giàu có và vững vàng. Trong tất cả các trường hợp đó, chính tri thức và sự thấu hiểu tích luỹ qua năm tháng, tức vốn con người, rốt cuộc đã thu hút vốn tài chính để biến ý tưởng thành hiện thực.
+
+Mặt trái là: ở những nước mà việc huy động nguồn lực tài chính bị cản trở bởi luật quyền tài sản không đáng tin cậy, người ở đáy xã hội có ít cách hơn để có vốn cho các nỗ lực khởi nghiệp. Quan trọng hơn, cả xã hội mất đi những gì mà các doanh nhân bị bóp nghẹt đó lẽ ra đã đóng góp cho sự đi lên kinh tế của quốc gia.
 
 ### 6. Thất bại là một phần của thị trường; hợp tác bị mô tả thành tranh giành
 
-Theo Sowell, thành công chỉ là một phần câu chuyện của kinh tế thị trường tự do. Thất bại là một phần quan trọng ít nhất ngang vậy, dù ít ai muốn nói tới và không ai muốn trải qua. Khi cùng một nguồn lực (đất, lao động hay dầu mỏ) có thể được các hãng, các ngành khác nhau dùng để làm ra các sản phẩm khác nhau, thì cách duy nhất để ý tưởng thành công trở thành hiện thực là lấy nguồn lực khỏi những chỗ dùng hoá ra không thành công, hoặc đã lỗi thời sau thời hoàng kim của chúng. Kinh tế học không nói về các phương án "đôi bên cùng thắng", mà về những lựa chọn thường đau đớn trong việc phân bổ các nguồn lực khan hiếm có nhiều công dụng thay thế. Thành công và thất bại không phải là may mắn hay rủi ro riêng lẻ, mà là hai phần không tách rời của cùng một quá trình.
+Theo Sowell, thành công chỉ là một phần câu chuyện của kinh tế thị trường tự do. Thất bại là một phần quan trọng ít nhất ngang vậy, dù ít ai muốn nói tới và không ai muốn trải qua. Khi cùng một nguồn lực (đất, lao động hay dầu mỏ) có thể được các hãng, các ngành khác nhau dùng để làm ra các sản phẩm khác nhau, thì cách duy nhất để ý tưởng thành công trở thành hiện thực là lấy nguồn lực khỏi những chỗ dùng hoá ra không thành công, hoặc đã lỗi thời sau thời hoàng kim của chúng.
+
+Kinh tế học không nói về các phương án "đôi bên cùng thắng", mà về những lựa chọn thường đau đớn trong việc phân bổ các nguồn lực khan hiếm có nhiều công dụng thay thế. Thành công và thất bại không phải là may mắn hay rủi ro riêng lẻ, mà là hai phần không tách rời của cùng một quá trình.
 
 Mọi nền kinh tế, dù là tư bản, xã hội chủ nghĩa, phong kiến hay gì khác, về bản chất đều là cách con người hợp tác trong sản xuất và phân phối hàng hoá, dịch vụ, dù hợp tác đó hiệu quả hay kém hiệu quả, tự nguyện hay bị ép buộc. Tất nhiên các cá nhân và nhóm muốn phần đóng góp của mình được trả công cao hơn, nhưng những phàn nàn và đấu tranh quanh chuyện đó chỉ là trò phụ bên cạnh việc chính: những nỗ lực bổ sung cho nhau để làm ra sản lượng mà mọi người cùng sống nhờ. Thế nhưng so bì ganh tị và đấu đá nội bộ lại là chất liệu của chính kịch xã hội, thứ là máu nuôi sống báo chí và chính trị, cũng như một phần giới trí thức.
 
@@ -493,7 +516,9 @@ Sowell thừa nhận kinh tế học, dù hữu ích để hiểu nhiều vấn 
 
 Theo Sowell, có lẽ phân biệt quan trọng nhất là giữa điều nghe hay và điều có hiệu quả. Điều nghe hay có thể đủ cho mục đích chính trị hay cho việc phô bày đạo đức, nhưng không đủ cho sự tiến bộ kinh tế của mọi người nói chung và của người nghèo nói riêng. Với những ai sẵn lòng dừng lại để nghĩ, kinh tế học cơ bản cung cấp một số công cụ để đánh giá chính sách và đề xuất theo hàm ý logic và hậu quả thực nghiệm của chúng. Sowell kết sách: nếu cuốn sách đã góp phần vào mục đích đó, nó đã hoàn thành sứ mệnh.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một thành phố muốn giữ cảnh quan nên quy định khu trung tâm chỉ được xây nhà tối đa 5 tầng, thay vì 10 tầng như chủ đầu tư dự kiến. Giả sử mảnh đất trị giá 100 tỷ đồng và mỗi tầng có 10 căn hộ. Nếu xây 10 tầng, 100 căn chia nhau tiền đất, mỗi căn gánh 1 tỷ đồng. Nếu chỉ được xây 5 tầng, 50 căn chia nhau, mỗi căn gánh 2 tỷ đồng. Giả sử chủ đầu tư muốn thu hồi tiền đất trong 20 năm qua tiền thuê, phần tiền đất trong tiền thuê mỗi căn sẽ tăng từ khoảng 4,2 triệu lên khoảng 8,3 triệu đồng mỗi tháng (chưa tính lãi vốn). Mục tiêu tuyên bố là cảnh quan; hệ quả ban đầu là phố thấp tầng hơn; hệ quả tiếp theo, ít ai nhắc khi thông qua quy định, là ít căn hộ hơn và tiền thuê cao hơn cho người ở. Nếu thành phố sau đó phản ứng với tiền thuê cao bằng cách áp trần tiền thuê, chủ đầu tư có thể chuyển sang xây căn hộ hạng sang không bị áp trần, đúng như cơ chế "bánh mì và sâm panh" của Sowell.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một thành phố muốn giữ cảnh quan nên quy định khu trung tâm chỉ được xây nhà tối đa 5 tầng, thay vì 10 tầng như chủ đầu tư dự kiến. Giả sử mảnh đất trị giá 100 tỷ đồng và mỗi tầng có 10 căn hộ. Nếu xây 10 tầng, 100 căn chia nhau tiền đất, mỗi căn gánh 1 tỷ đồng. Nếu chỉ được xây 5 tầng, 50 căn chia nhau, mỗi căn gánh 2 tỷ đồng. Giả sử chủ đầu tư muốn thu hồi tiền đất trong 20 năm qua tiền thuê, phần tiền đất trong tiền thuê mỗi căn sẽ tăng từ khoảng 4,2 triệu lên khoảng 8,3 triệu đồng mỗi tháng (chưa tính lãi vốn).
+
+Mục tiêu tuyên bố là cảnh quan; hệ quả ban đầu là phố thấp tầng hơn; hệ quả tiếp theo, ít ai nhắc khi thông qua quy định, là ít căn hộ hơn và tiền thuê cao hơn cho người ở. Nếu thành phố sau đó phản ứng với tiền thuê cao bằng cách áp trần tiền thuê, chủ đầu tư có thể chuyển sang xây căn hộ hạng sang không bị áp trần, đúng như cơ chế "bánh mì và sâm panh" của Sowell.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -619,11 +644,15 @@ Câu "dưới chủ nghĩa tư bản vốn luôn có sẵn" đúng với những
 
 ### Từ 2014, nhiều diễn biến minh hoạ thêm cho các ví dụ của chương
 
-Nói định tính: kiểm soát tiền thuê nhà quay lại trong tranh luận chính sách ở nhiều thành phố Mỹ và châu Âu trong thập niên 2010 và 2020; Berlin áp trần tiền thuê năm 2020 và bị Toà án Hiến pháp Đức huỷ năm 2021. Ở chiều ngược lại, phong trào nới quy định quy hoạch để cho phép xây nhà cao hơn, dày hơn (thường được gọi là YIMBY) lớn mạnh ở nhiều nơi, dựa đúng trên lập luận trong chú thích của Sowell về chiều cao nhà và tiền thuê. Thuế quan, kể cả thuế quan thép, quay trở lại chính sách thương mại Mỹ từ năm 2018, và tranh luận về việc làm được giữ so với việc làm mất ở các ngành dùng thép lặp lại gần như nguyên văn ví dụ của Sowell. Kodak ra khỏi phá sản năm 2013 nhưng chỉ còn là một công ty nhỏ.
+Nói định tính: kiểm soát tiền thuê nhà quay lại trong tranh luận chính sách ở nhiều thành phố Mỹ và châu Âu trong thập niên 2010 và 2020; Berlin áp trần tiền thuê năm 2020 và bị Toà án Hiến pháp Đức huỷ năm 2021. Ở chiều ngược lại, phong trào nới quy định quy hoạch để cho phép xây nhà cao hơn, dày hơn (thường được gọi là YIMBY) lớn mạnh ở nhiều nơi, dựa đúng trên lập luận trong chú thích của Sowell về chiều cao nhà và tiền thuê.
+
+Thuế quan, kể cả thuế quan thép, quay trở lại chính sách thương mại Mỹ từ năm 2018, và tranh luận về việc làm được giữ so với việc làm mất ở các ngành dùng thép lặp lại gần như nguyên văn ví dụ của Sowell. Kodak ra khỏi phá sản năm 2013 nhưng chỉ còn là một công ty nhỏ.
 
 ### Quan điểm trái chiều: "điều có hiệu quả" vẫn cần một định nghĩa về hiệu quả cho ai
 
-Sowell đặt kinh tế học thực nghiệm đối lập với "chính kịch xã hội" và "phô bày đạo đức". Người phản biện cho rằng phân biệt này đôi khi quá gọn: câu hỏi chính sách có hiệu quả hay không luôn đi kèm câu hỏi hiệu quả cho ai, và phân phối lợi ích, thiệt hại là một phần chính đáng của đánh giá, không chỉ là trò phụ. Một chính sách có thể làm tổng sản lượng tăng nhưng dồn thiệt hại vào một nhóm, như việc mất việc theo vùng vì thương mại. Ngoài ra, kinh tế học hành vi chỉ ra rằng người tiêu dùng và doanh nghiệp không phải lúc nào cũng phản ứng với động cơ khuyến khích theo cách mô hình dự đoán. Những phản biện này không phủ nhận phương pháp của Sowell (lần theo động cơ khuyến khích và hệ quả tiếp theo), mà cho rằng phương pháp ấy cần đi cùng phân tích phân phối.
+Sowell đặt kinh tế học thực nghiệm đối lập với "chính kịch xã hội" và "phô bày đạo đức". Người phản biện cho rằng phân biệt này đôi khi quá gọn: câu hỏi chính sách có hiệu quả hay không luôn đi kèm câu hỏi hiệu quả cho ai, và phân phối lợi ích, thiệt hại là một phần chính đáng của đánh giá, không chỉ là trò phụ. Một chính sách có thể làm tổng sản lượng tăng nhưng dồn thiệt hại vào một nhóm, như việc mất việc theo vùng vì thương mại.
+
+Ngoài ra, kinh tế học hành vi chỉ ra rằng người tiêu dùng và doanh nghiệp không phải lúc nào cũng phản ứng với động cơ khuyến khích theo cách mô hình dự đoán. Những phản biện này không phủ nhận phương pháp của Sowell (lần theo động cơ khuyến khích và hệ quả tiếp theo), mà cho rằng phương pháp ấy cần đi cùng phân tích phân phối.
 
 ### Vận dụng: trước mỗi đề xuất, hỏi chính sách thưởng gì, phạt gì, và nguồn lực sẽ chạy đi đâu
 
@@ -631,3 +660,191 @@ Sowell đặt kinh tế học thực nghiệm đối lập với "chính kịch 
 - **Trong đầu tư.** Khi đánh giá tác động của một chính sách, đừng dừng ở ngành được bảo vệ (ví dụ ngành thép được thuế quan); hãy tìm ngành chịu hệ quả tiếp theo (các ngành dùng thép làm đầu vào). Số liệu "trữ lượng đã biết" của tài nguyên nên được đọc như hàm của giá và chi phí thăm dò, không phải như đồng hồ đếm ngược tới ngày cạn kiệt.
 - **Trong nghề nghiệp.** Theo Sowell, vốn con người, tức tri thức cụ thể, đời thường về cách làm một việc cho tốt, là thứ khan hiếm thu hút vốn tài chính. Những giai đoạn làm việc lương thấp nhưng học được nhiều có thể là khoản đầu tư có lợi suất cao nhất trong sự nghiệp. Và nên tập thói quen "dừng lại để nghĩ" tới hệ quả tiếp theo trước khi ra quyết định.
 - **Khi đọc tin chính sách.** Ở Việt Nam, khi đọc về một đề xuất áp trần giá, giới hạn tầng cao trong quy hoạch, hạn chế nhập khẩu để bảo vệ sản xuất trong nước, hay một chương trình mang tên rất đẹp, có thể dùng năm câu hỏi của Sowell: làm gì cụ thể, thưởng gì, phạt gì, áp ràng buộc gì, nơi khác từng làm tương tự thì kết quả ra sao. Cũng nên chú ý cách dùng từ: một bài báo nói "lương công nhân Việt Nam thấp nên có lợi thế cạnh tranh" cần được hỏi lại về chi phí lao động trên mỗi sản phẩm, và một đề xuất "giảm thuế suất sẽ làm hụt thu ngân sách" cần được hỏi lại về tổng số thu thuế.
+
+## Bản đồ tư duy
+
+Toàn cảnh Lời kết (Chương 27) trên một trang: sáu nhánh lớn đi theo các mục 1–7 của phần Nội dung chi tiết (thái độ hoài nghi và dùng từ chính xác, ba lỗi tư duy, kiểm soát giá thời chiến, nguyên lý kinh tế ngoài chuyện kinh tế và năm câu hỏi cho mọi mục tiêu, vai trò của tri thức, thất bại và điều có hiệu quả), mỗi nhánh ghi luận điểm, cơ chế nhân quả, ví dụ và con số Sowell dùng; thêm một nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 27: mang theo phương pháp chứ không phải từng ví dụ — đánh giá chính sách theo động cơ khuyến khích và hệ quả, không theo mục tiêu tuyên bố`"]
+  n1["`Mục 1 — Thái độ hoài nghi và dùng từ chính xác`"]
+  n0 --- n1
+  n2["`Đề từ của Hayek: chưa thể khôn ngoan hơn chừng nào chưa nhận ra nhiều điều mình đã làm là rất dại dột`"]
+  n1 --- n2
+  n3["`Tổng thể lớn hơn tổng các phần: người đọc thu được thái độ hoài nghi với từ ngữ hào nhoáng của báo chí, chính trị gia`"]
+  n1 --- n3
+  n4["`Không còn thấy lạ khi nơi kiểm soát tiền thuê nhà thì thiếu nhà, nơi kiểm soát giá lương thực thì có đói, thậm chí chết đói`"]
+  n1 --- n4
+  n5["`Không danh sách ngụy biện nào đầy đủ được: ngụy biện mới ra đời trong khi ngụy biện cũ còn đang bị bác bỏ`"]
+  n1 --- n5
+  n6["`Mức lương theo giờ khác chi phí lao động trên mỗi đơn vị sản lượng`"]
+  n1 --- n6
+  n7["`Lẫn hai khái niệm thì lập luận nước lương cao không cạnh tranh nổi nước lương thấp thoát khỏi sự soi xét`"]
+  n6 --- n7
+  n8["`Thuế suất trên mỗi đô la thu nhập khác tổng số thu thuế, lẫn hai thứ thì không thể tranh luận hợp lý về thuế`"]
+  n1 --- n8
+  n9["`Mục 2 — Ba lỗi tư duy sinh ra nhiều ngụy biện kinh tế`"]
+  n0 --- n9
+  n10["`Lỗi 1, coi giao dịch là tổng bằng không: tưởng sửa điều khoản giúp người thuê nhà, người lao động là lợi ích ròng cho họ`"]
+  n9 --- n10
+  n11["`Giao dịch có lợi cho cả hai bên nên bên bị thiệt giao dịch ít đi: kiểm soát tiền thuê gây thiếu nhà, lương tối thiểu làm tăng thất nghiệp`"]
+  n10 --- n11
+  n12["`Ngụy biện sống nhờ giả định ngầm mà người ta không buồn nói ra, kể cả với chính mình`"]
+  n10 --- n12
+  n13["`Người ta hiếm khi suy nghĩ thấu đáo một cách dại dột, thường hơn là không buồn suy nghĩ thấu đáo`"]
+  n9 --- n13
+  n14["`Lỗi 2, bỏ qua cạnh tranh: kế hoạch hoá tập trung hấp dẫn vì người ta tưởng thị trường là hỗn loạn, quên rằng cạnh tranh chính là cơ chế điều phối`"]
+  n9 --- n14
+  n15["`Công đoàn tưởng tăng được phần của lao động bằng cách giảm phần của nhà đầu tư, nhưng vốn rời ngành có lợi suất thấp`"]
+  n9 --- n15
+  n16["`Ngành ô tô Mỹ: General Motors có công đoàn cắt mạnh nhân công, Toyota không có công đoàn tăng tuyển dụng ở Mỹ`"]
+  n15 --- n16
+  n17["`Lỗi 3, dừng ở hệ quả ban đầu: hạn chế nhập khẩu thép giữ được việc làm trong ngành thép Mỹ`"]
+  n9 --- n17
+  n18["`Ước tính ở Chương 21: ngành thép thêm 240 triệu USD lợi nhuận và 5.000 việc làm, ngành dùng thép mất 600 triệu USD và 26.000 việc làm`"]
+  n17 --- n18
+  n19["`Chẳng có gì cao siêu, chỉ cần dừng lại để nghĩ, và nguyên lý quan trọng hơn từng ví dụ`"]
+  n9 --- n19
+  n20["`Mục 3 — Mục tiêu tuyên bố khác động cơ khuyến khích: kiểm soát giá thời chiến`"]
+  n0 --- n20
+  n21["`Thời chiến quân đội hút nguồn lực, nhà nước kiểm soát giá bánh mì và bơ để người thu nhập thấp có ăn`"]
+  n20 --- n21
+  n22["`Giá rượu sâm panh và trứng cá muối để tự do vì không ai coi chúng là thiết yếu`"]
+  n20 --- n22
+  n23["`Giá bánh mì, bơ bị giữ thấp hơn mức cung cầu nên tỷ suất lợi nhuận thấp hơn ngành sâm panh, trứng cá`"]
+  n20 --- n23
+  n24["`Mọi nhà sản xuất cùng cạnh tranh để thuê lao động và mua các nguồn lực khan hiếm khác`"]
+  n20 --- n24
+  n25["`Lợi nhuận cao giúp nhà sản xuất sâm panh, trứng cá trả giá cao hơn và giành nguồn lực từ tay ngành bánh mì, bơ`"]
+  n24 --- n25
+  n26["`Kết quả ngược mục tiêu: ít bánh mì, bơ hơn, điều chỉ thấy khi nghĩ quá giai đoạn đầu`"]
+  n20 --- n26
+  n27["`Cùng lý do, kiểm soát tiền thuê chuyển nguồn lực từ nhà bình thường sang nhà cao cấp cho người khá giả`"]
+  n20 --- n27
+  n28["`Mục 4 — Nguyên lý kinh tế áp dụng cả ngoài những gì gọi là kinh tế`"]
+  n0 --- n28
+  n29["`Số liệu trữ lượng đã biết phản ánh chi phí thăm dò và lãi suất hơn là lượng tài nguyên còn trên Trái Đất`"]
+  n28 --- n29
+  n30["`Lượng vật chất không quyết định nếu không biết khai thác, chế biến được bao nhiêu với chi phí bao nhiêu`"]
+  n29 --- n30
+  n31["`Giới hạn chiều cao nhà: chung cư 5 tầng thay 10 tầng thì tiền đất thu qua tiền thuê của chỉ một nửa số người`"]
+  n28 --- n31
+  n32["`Không gì dễ hơn tuyên bố mục tiêu đẹp: luật Đức giải trừ khốn cùng của Nhân dân và Đế chế trao quyền độc tài cho Hitler`"]
+  n28 --- n32
+  n33["`Kết cục là Thế chiến thứ hai, khốn cùng và tai hoạ lớn hơn mọi thứ người Đức từng trải qua`"]
+  n32 --- n33
+  n34["`Năm câu hỏi Sowell đề nghị đặt cho mọi mục tiêu`"]
+  n28 --- n34
+  n35["`Những việc cụ thể nào sẽ được làm nhân danh mục tiêu đó`"]
+  n34 --- n35
+  n36["`Luật hay chính sách đó thưởng gì, phạt gì, áp đặt ràng buộc gì`"]
+  n34 --- n36
+  n37["`Nhìn tới tương lai: động cơ khuyến khích và ràng buộc ấy có thể dẫn tới hậu quả gì`"]
+  n34 --- n37
+  n38["`Nhìn lại quá khứ: động cơ tương tự đã dẫn tới hậu quả gì ở nơi khác, thời khác`"]
+  n34 --- n38
+  n39["`Paul Johnson: học lịch sử là thuốc giải cho thói kiêu ngạo của thời đại`"]
+  n28 --- n39
+  n40["`Người Nga đói dù có đất màu mỡ bậc nhất châu Âu, người New York ngủ vỉa hè dù nhiều căn hộ bị đóng ván bỏ không`"]
+  n39 --- n40
+  n41["`Chính sách tai hoạ không nhất thiết do ngu ngốc: không dừng lại để nghĩ thì thiên tài hay kẻ đần cũng như nhau`"]
+  n28 --- n41
+  n42["`Mục 5 — Vai trò của tri thức`"]
+  n0 --- n42
+  n43["`Chủ đề trung tâm thứ hai của sách: tập đoàn tỷ đô sụp đổ khi hiểu biết về hoàn cảnh thay đổi tụt sau đối thủ mới nổi`"]
+  n42 --- n43
+  n44["`Kodak phát minh ra máy ảnh số nhưng không thấy hàm ý của nó nhanh bằng đối thủ, nên phải phá sản`"]
+  n42 --- n44
+  n45["`Nikon, Canon trong ngành ảnh và Sony, Samsung từ ngoài ngành phát triển tiềm năng máy ảnh số`"]
+  n44 --- n45
+  n46["`Công chúng được lợi vì doanh nghiệp hiểu đúng thực tế mới sống sót để dùng nguồn lực khan hiếm`"]
+  n44 --- n46
+  n47["`Kế hoạch hoá tập trung phải định hàng triệu mức giá, đòi gom mọi tri thức về một nhóm người cùng lúc`"]
+  n42 --- n47
+  n48["`Lenin tưởng quan chức điều hành kinh tế dễ dàng, và tự thừa nhận thảm hoạ chỉ sau vài năm cầm quyền`"]
+  n47 --- n48
+  n49["`Kinh tế thị trường đúng hơn là kinh tế tri thức: huy động cả người xuất thân nghèo như J.C. Penney, F.W. Woolworth`"]
+  n42 --- n49
+  n50["`Luôn tìm được tiền cho ý tưởng hiệu quả: Henry Ford, Thomas Edison, David Packard lúc đầu không có tiền`"]
+  n49 --- n50
+  n51["`Dưới chủ nghĩa tư bản vốn luôn có sẵn, còn tri thức và sự thấu hiểu thì hiếm và quý dưới mọi hệ thống`"]
+  n49 --- n51
+  n52["`Tri thức không chỉ là kiến thức hàn lâm: đừng như Benjamin Jowett, cái gì tôi không biết thì chẳng phải tri thức`"]
+  n42 --- n52
+  n53["`Rán hamburger cũng cần tri thức: McDonald's thành tập đoàn tỷ đô với hàng nghìn cửa hàng khi nhiều đối thủ thất bại`"]
+  n52 --- n53
+  n54["`Sears, Intel, Honda, Bank of America đi lên từ khởi đầu khiêm tốn: vốn con người thu hút vốn tài chính`"]
+  n42 --- n54
+  n55["`Luật quyền tài sản không đáng tin thì người ở đáy xã hội khó có vốn khởi nghiệp, cả xã hội mất phần đóng góp`"]
+  n54 --- n55
+  n56["`Mục 6–7 — Thất bại, hợp tác và điều có hiệu quả`"]
+  n0 --- n56
+  n57["`Thất bại quan trọng ngang thành công: ý tưởng mới chỉ thành hiện thực bằng cách lấy nguồn lực khỏi chỗ dùng thất bại hoặc lỗi thời`"]
+  n56 --- n57
+  n58["`Kinh tế học không nói về phương án đôi bên cùng thắng mà về lựa chọn đau đớn khi phân bổ nguồn lực khan hiếm`"]
+  n56 --- n58
+  n59["`Mọi nền kinh tế, tư bản, xã hội chủ nghĩa hay phong kiến, về bản chất là cách con người hợp tác sản xuất và phân phối`"]
+  n56 --- n59
+  n60["`So bì ganh tị và đấu đá là chất liệu chính kịch xã hội nuôi báo chí, chính trị và một phần giới trí thức`"]
+  n59 --- n60
+  n61["`Mô tả hợp tác thành tổng bằng không rồi áp đặt bằng luật pháp tạo ra cuộc đua tổng âm, mọi người đều thiệt`"]
+  n56 --- n61
+  n62["`Thanh niên không có tri thức lẫn tiền nay gần như không thể làm không lương để học nghề như F.W. Woolworth từng làm`"]
+  n61 --- n62
+  n63["`Coi quyền tài sản là đặc quyền người giàu khiến người nghèo Thế giới thứ ba mất cơ chế để vươn lên`"]
+  n61 --- n63
+  n64["`Phân biệt quan trọng nhất: điều nghe hay khác điều có hiệu quả, nhất là với người nghèo`"]
+  n56 --- n64
+  n65["`Kinh tế học cơ bản cho công cụ đánh giá chính sách theo hàm ý logic và hậu quả thực nghiệm`"]
+  n56 --- n65
+  n66["`Thông điệp xuyên suốt`"]
+  n0 --- n66
+  n67["`Xét hệ quả về sau, không chỉ ý định: lần theo động cơ khuyến khích tới nơi nguồn lực chạy đi`"]
+  n66 --- n67
+  n68["`Giao dịch tự nguyện là tổng dương, ép điều khoản thì bên kia giảm giao dịch`"]
+  n66 --- n68
+  n69["`Thị trường vượt trội nhờ huy động và thử thách tri thức phân tán, qua cả thành công lẫn thất bại`"]
+  n66 --- n69
+  n70["`Trí tuệ chẳng ích gì nếu không được đem ra dùng: trước hết phải dừng lại để nghĩ`"]
+  n66 --- n70
+  class n0 root
+  class n1,n9,n20,n28,n42,n56,n66 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n57,n58,n59,n60,n61,n62,n63,n64,n65,n67,n68,n69,n70 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Chương 27 (chương cuối của Phần VII, Special Economic Issues).
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là chương khép lại cuốn sách, nên Sowell không đưa ra chủ đề mới mà rút từ 26 chương trước ra vài nguyên tắc chung. Để thấy chương này gom lại những gì, có thể nhìn lại cả cuốn theo trình tự:
+
+- **Chương 1 (What Is Economics?)** đặt nền: kinh tế học nghiên cứu việc sử dụng các nguồn lực khan hiếm có nhiều công dụng thay thế, và phải đánh giá chính sách theo động cơ khuyến khích và hậu quả, không theo mục tiêu nó tuyên bố. Chương 27 quay lại đúng hai ý này.
+- **Phần I (Giá cả và thị trường, Chương 2–4)** cho thấy giá cả là cơ chế truyền thông tin và phân bổ nguồn lực; khi nhà nước ấn giá xuống bằng luật (kiểm soát tiền thuê nhà, kiểm soát giá lương thực) thì thiếu hụt xuất hiện, như nhà bị bỏ hoang, đóng ván ở New York, hay nạn đói ở những nước có đất nông nghiệp tốt. Chương 27 nhắc lại cả hai ví dụ.
+- **Phần II (Công nghiệp và thương mại, Chương 5–9)** cho thấy doanh nghiệp lớn đến đâu cũng có thể sụp đổ nếu chậm hiểu hoàn cảnh thay đổi (Kodak, A&P, Sears), rằng lãi và lỗ là tín hiệu buộc nguồn lực chuyển khỏi chỗ dùng kém hiệu quả, và rằng nền kinh tế kế hoạch hoá tập trung thất bại vì không ai gom đủ tri thức để định hàng triệu mức giá. Chương 27 dùng lại Kodak, Lenin, J.C. Penney, F.W. Woolworth.
+- **Phần III (Lao động và tiền lương, Chương 10–12)** phân biệt mức lương theo giờ với chi phí lao động trên mỗi đơn vị sản lượng, chỉ ra rằng luật lương tối thiểu làm tăng thất nghiệp, và rằng công đoàn ô tô Mỹ không thể ép phần thu nhập của nhà đầu tư mãi mà không mất việc làm vào tay các nhà máy không có công đoàn (Detroit sa thải trong khi Toyota tuyển người ở Mỹ). Chương 27 gom các ví dụ này dưới hai lỗi tư duy: coi giao dịch là tổng bằng không, và quên cạnh tranh.
+- **Phần IV (Thời gian và rủi ro, Chương 13–15)** giải thích đầu tư, cổ phiếu, trái phiếu, bảo hiểm, và cho thấy số liệu "trữ lượng đã biết" của tài nguyên phản ánh chi phí thăm dò và lãi suất hơn là lượng vật chất còn lại trên Trái Đất. Chương 27 lấy lại ví dụ trữ lượng này.
+- **Phần V (Nền kinh tế quốc gia, Chương 16–20)** bàn về sản lượng quốc gia, tiền và ngân hàng, chức năng của chính phủ (trong đó có bảo vệ quyền tài sản), tài chính công và phân biệt thuế suất với tổng thu thuế. Chương 27 lấy sự phân biệt thuế suất và tổng thu thuế làm ví dụ về việc dùng từ cẩu thả.
+- **Phần VI (Kinh tế quốc tế, Chương 21–23)** cho thấy nước lương cao vẫn cạnh tranh được với nước lương thấp, rằng hạn chế nhập khẩu thép cứu được ít việc làm hơn số việc làm nó làm mất ở các ngành dùng thép, và rằng người nghèo ở các nước thuộc Thế giới thứ ba thiếu quyền tài sản được pháp luật công nhận nên khó huy động vốn. Chương 27 dùng lại cả ba ý.
+- **Phần VII (Các vấn đề kinh tế đặc biệt, Chương 24–26)** bác bỏ các huyền thoại về thị trường, bàn về các giá trị "phi kinh tế", và kể lịch sử tư tưởng kinh tế. Chương 26 kết thúc bằng sự tiến hoá của kinh tế học như một môn phân tích; Chương 27 chuyển từ môn học sang người đọc: dùng phân tích ấy như thế nào khi nghe chính trị gia và báo chí.
+
+Sau Chương 27, sách chỉ còn phần Câu hỏi theo chương và phần Chú thích nguồn.
+
+## Lưu ý
+
+- Sách viết khoảng 2013–2014. Một số chi tiết đã thay đổi từ đó: Eastman Kodak nộp đơn phá sản năm 2012 như Sowell viết, nhưng đã ra khỏi thủ tục phá sản năm 2013 và vẫn hoạt động như một công ty nhỏ hơn nhiều, chuyển sang in ấn và hoá chất; General Motors (mà Sowell dùng làm ví dụ cắt giảm nhân công) đã qua phá sản và tái cấu trúc năm 2009, trước khi sách in.
+- Đạo luật mà Sowell gọi là "Luật giải trừ khốn cùng của Nhân dân và Đế chế" là Đạo luật Trao quyền (Enabling Act) của Đức tháng 3 năm 1933; nó trao quyền lập pháp cho chính phủ của Hitler, còn chuỗi từ đó tới Thế chiến thứ hai dài hơn câu Sowell viết gọn.
+- Bài thơ về Benjamin Jowett vốn có từ một tập thơ trào phúng của sinh viên Balliol cuối thế kỷ 19; lời bản gốc hơi khác bản Sowell dẫn, nhưng ý không đổi.
+- Chương có 2 chú thích chân trang có nội dung của Sowell: chú thích về luật giới hạn chiều cao nhà (đưa vào mục 4 của Nội dung chi tiết và khối Sơ đồ tương ứng) và chú thích dẫn sách về lịch sử McDonald's (đưa vào mục 5).
+- Chương không có tiểu mục có tên; các phần trong Sơ đồ và Nội dung chi tiết do người tổng hợp chia theo trình tự các đoạn của Sowell.
+- Các câu trích là bản dịch của người tổng hợp.

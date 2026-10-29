@@ -1,11 +1,14 @@
 # Chương 12 — Các vấn đề đặc biệt của thị trường lao động (Special Problems in Labor Markets)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần III "Work and Pay", Chương 12.
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
-**Vị trí trong lập luận của cả cuốn sách:** Phần III bàn về lao động và tiền lương. Chương 10 đặt nền: tiền lương trong thị trường cạnh tranh có xu hướng bám theo năng suất của người lao động. Chương 11 áp dụng nguyên lý đó cho luật lương tối thiểu: khi giá lao động bị ép cao hơn năng suất, người ít kỹ năng mất việc. Chương 12 khép lại Phần III bằng cách đi qua những can thiệp và những đặc thù khác của thị trường lao động: cách đo thất nghiệp, quy định về điều kiện làm việc và giờ làm, nhà máy của công ty đa quốc gia ở nước nghèo, thương lượng tập thể của giới chủ và công đoàn, khái niệm "bóc lột", luật bảo đảm việc làm và cấp phép hành nghề. Sowell dùng lại nhiều kết luận đã có: kiểm soát giá ở Chương 3, chuyện cửa hàng ở khu thu nhập thấp bán đắt bị gọi là "bóc lột" ở Chương 4, lương thấp ở Thế giới thứ ba ở Chương 10, lương tối thiểu ở Chương 11. Chương 13 (Investment) mở sang Phần IV về thời gian và rủi ro; Chương 23 sẽ quay lại câu hỏi vì sao một số dân tộc và vùng đất nghèo.
-**Ý chính:** Sowell muốn người đọc thấy rằng lao động tuy gắn với con người nhưng vẫn tuân theo quy luật giá cả: thứ gì đắt hơn thì người ta mua ít hơn. Mọi thứ làm tăng chi phí thuê một người, dù là lương cao hơn, phúc lợi bắt buộc, giờ làm ngắn với lương giữ nguyên, hay luật làm cho việc sa thải tốn kém, đều làm giảm số người được thuê, và thường dồn thiệt hại lên người đang đứng ngoài thị trường (thanh niên, phụ nữ quay lại đi làm, người thất nghiệp lâu). Ví dụ trung tâm là ngành than Mỹ dưới thời lãnh tụ công đoàn John L. Lewis: lương thợ mỏ tăng mạnh, than đắt lên, khách hàng chuyển sang dầu, việc làm trong ngành than sụt và nhiều thị trấn mỏ thành thị trấn ma. Sowell cũng định nghĩa lại "bóc lột": nó chỉ có thể tồn tại khi có rào cản ngăn cạnh tranh hoặc ngăn người ta rời đi, và vì thế nạn nhân thật thường là người có kỹ năng cao không thể chuyển sang người thuê khác (Babe Ruth, bác sĩ trong hệ thống y tế nhà nước) hơn là người lao động phổ thông.
+## Ý chính
 
-> **Lưu ý:** Ấn bản thứ năm in năm 2015; số liệu mới nhất trong chương là năm 2013 (thất nghiệp dài hạn ở Tây Ban Nha và Mỹ, lương ở Trung Quốc và Ấn Độ, vụ sập nhà máy ở Bangladesh). Nhiều số liệu khác cũ hơn: thời gian nghỉ năm 2005, thị phần công đoàn năm 2007, đợt nắng nóng ở Pháp tháng 8 năm 2003 (Sowell chỉ ghi "tháng 8", người tổng hợp bổ sung năm), giá phù hiệu taxi New York năm 2011. Một số điều đã thay đổi từ đó: tỷ lệ thất nghiệp Mỹ giảm sâu trong cuối thập niên 2010 rồi tăng vọt trong đại dịch năm 2020 và lại giảm; giá phù hiệu taxi New York sụp mạnh sau khi Uber và Lyft phổ biến; tỷ lệ người lao động Mỹ là đoàn viên công đoàn tiếp tục giảm; lương ở Trung Quốc tiếp tục tăng, khiến một phần sản xuất thâm dụng lao động chuyển sang các nước có lương thấp hơn như Việt Nam và Bangladesh. Chương có **1 chú thích chân trang** của Sowell (về việc chính phủ thuê tư nhân làm một số dịch vụ công), đã đưa vào mục 7 phần Nội dung chi tiết và Phần 7 của Sơ đồ. Một chi tiết có thể không chính xác: Sowell viết mức lương cao nhất 80.000 USD của Babe Ruth là "ngay cả theo giá năm 1932", trong khi theo các tư liệu bóng chày thường gặp, 80.000 USD là lương của Ruth các năm 1930–1931, còn năm 1932 là 75.000 USD; điều này không ảnh hưởng tới lập luận. Trong text, "Job Security" được trình bày như một tiểu mục nhỏ đặt ngay sau phần "Exploitation"; bản tổng hợp tách nó thành mục riêng cho dễ theo dõi. Các câu trích là bản dịch của người tổng hợp.
+Sowell muốn người đọc thấy rằng lao động tuy gắn với con người nhưng vẫn tuân theo quy luật giá cả: thứ gì đắt hơn thì người ta mua ít hơn.
+
+Mọi thứ làm tăng chi phí thuê một người, dù là lương cao hơn, phúc lợi bắt buộc, giờ làm ngắn với lương giữ nguyên, hay luật làm cho việc sa thải tốn kém, đều làm giảm số người được thuê, và thường dồn thiệt hại lên người đang đứng ngoài thị trường (thanh niên, phụ nữ quay lại đi làm, người thất nghiệp lâu).
+
+Ví dụ trung tâm là ngành than Mỹ dưới thời lãnh tụ công đoàn John L. Lewis: lương thợ mỏ tăng mạnh, than đắt lên, khách hàng chuyển sang dầu, việc làm trong ngành than sụt và nhiều thị trấn mỏ thành thị trấn ma.
+
+Sowell cũng định nghĩa lại "bóc lột": nó chỉ có thể tồn tại khi có rào cản ngăn cạnh tranh hoặc ngăn người ta rời đi, và vì thế nạn nhân thật thường là người có kỹ năng cao không thể chuyển sang người thuê khác (Babe Ruth, bác sĩ trong hệ thống y tế nhà nước) hơn là người lao động phổ thông.
 
 ## Sơ đồ
 
@@ -790,7 +793,9 @@ Theo Sowell, nguyên lý phân bổ lao động về cơ bản giống nguyên l
 
 **Định nghĩa và giới hạn.** Tỷ lệ thất nghiệp là chỉ báo quan trọng về sức khoẻ kinh tế và xã hội, nên càng cần hiểu giới hạn của nó. Người thất nghiệp theo thống kê là người trong lực lượng lao động, đang tìm việc mà không có. Nhiều người không nằm trong lực lượng lao động: học sinh sinh viên, người về hưu, người nội trợ chăm sóc gia đình, trẻ em dưới tuổi luật cho phép làm việc, bệnh nhân nằm viện, quân nhân, tù nhân. Vì con người tự chọn có tham gia lực lượng lao động hay không, tỷ lệ thất nghiệp không phải dữ liệu hoàn toàn khách quan: nó thay đổi theo hoàn cảnh và khác nhau giữa các nước.
 
-**Tỷ lệ thất nghiệp giảm khi tình hình xấu đi.** Trong suy thoái kéo dài, nhiều người tìm việc mãi không được và bỏ cuộc. Họ không còn được tính vào lực lượng lao động, nên tỷ lệ thất nghiệp giảm dù số người không có việc không giảm. Sau đợt suy giảm của kinh tế Mỹ đầu thế kỷ 21, tỷ lệ thất nghiệp lên hơn 10% một chút rồi giảm dần, trong khi tỷ lệ tham gia lực lượng lao động xuống mức thấp nhất trong nhiều thập kỷ. Một số người coi thất nghiệp giảm là thành công của chính sách, nhưng phần lớn mức giảm là người bỏ cuộc tìm việc và sống bằng các chương trình của chính phủ. Theo báo *Investor's Business Daily*, hơn 3,7 triệu người lao động chuyển sang nhận trợ cấp khuyết tật của Social Security từ giữa 2009 đến đầu 2013, tốc độ đăng ký nhanh nhất từ trước tới nay.
+**Tỷ lệ thất nghiệp giảm khi tình hình xấu đi.** Trong suy thoái kéo dài, nhiều người tìm việc mãi không được và bỏ cuộc. Họ không còn được tính vào lực lượng lao động, nên tỷ lệ thất nghiệp giảm dù số người không có việc không giảm. Sau đợt suy giảm của kinh tế Mỹ đầu thế kỷ 21, tỷ lệ thất nghiệp lên hơn 10% một chút rồi giảm dần, trong khi tỷ lệ tham gia lực lượng lao động xuống mức thấp nhất trong nhiều thập kỷ.
+
+Một số người coi thất nghiệp giảm là thành công của chính sách, nhưng phần lớn mức giảm là người bỏ cuộc tìm việc và sống bằng các chương trình của chính phủ. Theo báo *Investor's Business Daily*, hơn 3,7 triệu người lao động chuyển sang nhận trợ cấp khuyết tật của Social Security từ giữa 2009 đến đầu 2013, tốc độ đăng ký nhanh nhất từ trước tới nay.
 
 **Thước đo thay thế.** Sowell đề nghị xem thêm tỷ lệ người có việc trong dân số trưởng thành không ở trong các thiết chế (đại học, quân đội, bệnh viện, nhà tù). Thước đo này không bị méo bởi những người đã bỏ cuộc nhưng vẫn muốn có việc. Nửa đầu năm 2010, tỷ lệ thất nghiệp đứng yên ở 9,5%, nhưng tỷ lệ người trưởng thành có việc tiếp tục đợt giảm lớn nhất trong hơn nửa thế kỷ. Vì ngày càng nhiều người bỏ cuộc tìm việc, tỷ lệ thất nghiệp chính thức không tăng lên tương xứng với việc tìm việc đã khó hơn.
 
@@ -820,7 +825,9 @@ Người thất nghiệp Mỹ dành thời gian tìm việc mỗi ngày gấp h�
 
 - *Thất nghiệp cọ xát (frictional unemployment):* người mới tốt nghiệp không phải lúc nào cũng có việc ngay, và chỗ trống vẫn chưa được lấp trong khi có người đang tìm việc, vì người thuê phù hợp và người làm phù hợp cần thời gian để tìm thấy nhau. Nếu coi nền kinh tế là một cỗ máy lớn thì luôn có hao hụt do ma sát bên trong; vì vậy tỷ lệ thất nghiệp không bao giờ bằng 0, kể cả trong những năm bùng nổ khi chủ khó tuyển đủ người.
 - *Thất nghiệp dài hạn:* theo một nghiên cứu của Tổ chức Hợp tác và Phát triển Kinh tế (OECD), người thất nghiệp từ 1 năm trở lên chiếm 9% tổng số người thất nghiệp ở Mỹ, 23% ở Anh, 48% ở Đức và 59% ở Ý. Vì vậy chênh lệch tỷ lệ thất nghiệp giữa Mỹ và châu Âu còn đánh giá thấp chênh lệch về khả năng tìm được việc. Trớ trêu là ở nước có luật bảo đảm việc làm mạnh như Đức, tìm việc mới lại khó hơn; ít cơ hội việc làm thể hiện qua số giờ làm mỗi năm ít hơn, tỷ lệ thất nghiệp cao hơn và thời gian thất nghiệp dài hơn.
-- *Thất nghiệp do công nghệ (technological unemployment):* gần như mọi tiến bộ về hiệu quả công nghệ làm ai đó mất việc, và điều này không mới. Năm 1830, thợ may Pháp Barthélemy Thimonnier đã chế tạo và đăng ký bằng sáng chế một máy may hiệu quả; khi 80 máy của ông đang may quân phục cho quân đội Pháp, thợ may Paris sợ mất việc đã đập phá máy và đuổi ông khỏi thành phố. Đầu thế kỷ 19 ở Anh, những người Luddite đập máy khi nhận ra cách mạng công nghiệp đe doạ việc làm của họ. Sự phản đối hiệu quả, dù là công nghệ, phương pháp tổ chức mới hay thương mại quốc tế, thường chỉ nhìn tác động ngắn hạn lên một nhóm người lao động cụ thể, bỏ qua người tiêu dùng và người lao động ở ngành khác. Ngành ô tô chắc chắn xoá rất nhiều việc của người nuôi và chăm ngựa, thợ làm yên cương, móng ngựa, roi, xe ngựa; nhưng đó không phải mất việc ròng, vì ngành ô tô cần rất nhiều người, cũng như ngành xăng dầu, ắc quy, sửa xe, và các ngành phục vụ người lái xe như nhà nghỉ ven đường, nhà hàng đồ ăn nhanh, trung tâm mua sắm ngoại ô.
+- *Thất nghiệp do công nghệ (technological unemployment):* gần như mọi tiến bộ về hiệu quả công nghệ làm ai đó mất việc, và điều này không mới. Năm 1830, thợ may Pháp Barthélemy Thimonnier đã chế tạo và đăng ký bằng sáng chế một máy may hiệu quả; khi 80 máy của ông đang may quân phục cho quân đội Pháp, thợ may Paris sợ mất việc đã đập phá máy và đuổi ông khỏi thành phố. Đầu thế kỷ 19 ở Anh, những người Luddite đập máy khi nhận ra cách mạng công nghiệp đe doạ việc làm của họ.
+
+  Sự phản đối hiệu quả, dù là công nghệ, phương pháp tổ chức mới hay thương mại quốc tế, thường chỉ nhìn tác động ngắn hạn lên một nhóm người lao động cụ thể, bỏ qua người tiêu dùng và người lao động ở ngành khác. Ngành ô tô chắc chắn xoá rất nhiều việc của người nuôi và chăm ngựa, thợ làm yên cương, móng ngựa, roi, xe ngựa; nhưng đó không phải mất việc ròng, vì ngành ô tô cần rất nhiều người, cũng như ngành xăng dầu, ắc quy, sửa xe, và các ngành phục vụ người lái xe như nhà nghỉ ven đường, nhà hàng đồ ăn nhanh, trung tâm mua sắm ngoại ô.
 
 ### 3. Điều kiện làm việc (Working Conditions)
 
@@ -828,7 +835,11 @@ Chính phủ và công đoàn đều quy định điều kiện làm việc: s�
 
 Vì vậy, nếu các yếu tố khác như nhau, điều kiện làm việc tốt hơn đồng nghĩa với lương thấp hơn mức lẽ ra có: người lao động thực chất tự mua điều kiện tốt hơn. Chủ không nhất thiết cắt lương mỗi khi cải thiện điều kiện, nhưng khi năng suất tăng và cạnh tranh giữa các chủ đẩy lương lên, lương sẽ tăng ít hơn so với trường hợp không phải tính chi phí điều kiện làm việc. Mức chủ có thể trả bị giới hạn không chỉ bởi năng suất mà bởi mọi chi phí khác ngoài lương. Ở một số nước, chi phí lao động ngoài lương cao hơn nhiều: ở Đức cao khoảng gấp đôi ở Mỹ, nên lao động Đức đắt hơn lao động Mỹ được trả cùng mức lương giờ.
 
-**Phúc lợi bắt buộc và làm thêm giờ.** Bắt chủ trả phúc lợi cho người lao động luôn hấp dẫn về chính trị: nó được nhiều phiếu của người lao động hơn số phiếu mất của giới chủ, và chính phủ không tốn đồng nào. Hậu quả kinh tế ít được chính trị gia hay cử tri chú ý. Một hậu quả là khi sản lượng tăng, như lúc kinh tế ra khỏi suy thoái, người thất nghiệp chưa được thuê lại, vì cho người đang làm làm thêm giờ có thể rẻ hơn thuê người mới: thêm giờ làm không kéo theo phúc lợi bắt buộc cho người mới, nên dù lương ngoài giờ cao hơn, nhiều trường hợp vẫn rẻ hơn. Tháng 11 năm 2009, *Wall Street Journal* đăng bài với tiêu đề "Làm thêm giờ quay lại trước việc làm": trong tháng 10, ngành chế tạo cắt 61.000 người trong khi người còn lại làm nhiều giờ hơn, vì làm thêm giờ giúp đáp ứng đơn hàng tăng mà không thêm chi phí cố định như bảo hiểm y tế cho người mới. Làm thêm giờ còn giúp doanh nghiệp đáp ứng nhu cầu tăng tạm thời mà không tốn chi phí đào tạo người sẽ phải cho nghỉ khi nhu cầu qua đi. Chi phí đào tạo gồm cả phần sản lượng mất đi của người đã thạo việc được giao kèm người mới: cả hai đều nhận lương trong khi không ai làm ra nhiều như những người đã được đào tạo.
+**Phúc lợi bắt buộc và làm thêm giờ.** Bắt chủ trả phúc lợi cho người lao động luôn hấp dẫn về chính trị: nó được nhiều phiếu của người lao động hơn số phiếu mất của giới chủ, và chính phủ không tốn đồng nào. Hậu quả kinh tế ít được chính trị gia hay cử tri chú ý.
+
+Một hậu quả là khi sản lượng tăng, như lúc kinh tế ra khỏi suy thoái, người thất nghiệp chưa được thuê lại, vì cho người đang làm làm thêm giờ có thể rẻ hơn thuê người mới: thêm giờ làm không kéo theo phúc lợi bắt buộc cho người mới, nên dù lương ngoài giờ cao hơn, nhiều trường hợp vẫn rẻ hơn.
+
+Tháng 11 năm 2009, *Wall Street Journal* đăng bài với tiêu đề "Làm thêm giờ quay lại trước việc làm": trong tháng 10, ngành chế tạo cắt 61.000 người trong khi người còn lại làm nhiều giờ hơn, vì làm thêm giờ giúp đáp ứng đơn hàng tăng mà không thêm chi phí cố định như bảo hiểm y tế cho người mới. Làm thêm giờ còn giúp doanh nghiệp đáp ứng nhu cầu tăng tạm thời mà không tốn chi phí đào tạo người sẽ phải cho nghỉ khi nhu cầu qua đi. Chi phí đào tạo gồm cả phần sản lượng mất đi của người đã thạo việc được giao kèm người mới: cả hai đều nhận lương trong khi không ai làm ra nhiều như những người đã được đào tạo.
 
 **Liên Xô cũng vậy.** Hậu quả này dễ hình dung trong kinh tế tư bản, nơi chi phí đo bằng tiền, nhưng cũng xảy ra trong kinh tế xã hội chủ nghĩa Liên Xô. Một nghiên cứu ghi nhận rằng người dưới 18 tuổi được nghỉ phép dài hơn, làm ít giờ hơn, được nghỉ để học, nên giám đốc xí nghiệp tránh thuê thanh thiếu niên. Sowell kết luận kinh tế xã hội chủ nghĩa cũng không có bữa trưa miễn phí, giống kinh tế tư bản.
 
@@ -838,7 +849,9 @@ Vì vậy, nếu các yếu tố khác như nhau, điều kiện làm việc t�
 
 **Luật lao động trẻ em (Child Labor Laws).** Ở hầu hết các nước, luật bảo vệ trẻ em nơi làm việc có trước luật về điều kiện làm việc của người lớn, vì trẻ em đặc biệt dễ tổn thương: thiếu kinh nghiệm, yếu sức, không tự vệ được trước người lớn. Trẻ em từng làm việc nặng và nguy hiểm trong mỏ than, hay làm cạnh máy móc có thể làm chết hoặc tàn tật một đứa trẻ thiếu cảnh giác. Nhưng luật đặt ra trong một hoàn cảnh thường còn tồn tại rất lâu sau khi hoàn cảnh đã thay đổi; một nhà quan sát thế kỷ 21 nhận xét rằng luật lao động trẻ em, đặt ra để bảo vệ trẻ khỏi nhà máy nguy hiểm, nay lại giữ những thiếu niên khoẻ mạnh ngoài các văn phòng có máy lạnh.
 
-Theo Sowell, đây không đơn thuần là sự phi lý. Như các luật khác, luật lao động trẻ em không chỉ được thông qua nhờ một nhóm ủng hộ (ở đây là các cá nhân và tổ chức nhân đạo) mà còn sinh ra những nhóm ủng hộ mới, thấy luật có ích cho lợi ích riêng. Công đoàn từ lâu muốn giữ trẻ em và thanh thiếu niên ngoài thị trường lao động, nơi họ sẽ cạnh tranh việc làm với đoàn viên. Giới giáo dục, nhất là công đoàn giáo viên, có lợi ích khi người trẻ ở lại trường lâu hơn, vì điều đó tăng cầu về giáo viên và cho lý lẽ chính trị để đòi chi thêm cho trường học. Phi lý theo lý do của nhóm nhân đạo ban đầu, nhưng hoàn toàn hợp lý theo lợi ích của các nhóm mới. Còn việc xã hội có được lợi hay không khi rất nhiều người trẻ không có cách kiếm tiền hợp pháp, trong khi cách bất hợp pháp đầy rẫy, là một câu hỏi khác.
+Theo Sowell, đây không đơn thuần là sự phi lý. Như các luật khác, luật lao động trẻ em không chỉ được thông qua nhờ một nhóm ủng hộ (ở đây là các cá nhân và tổ chức nhân đạo) mà còn sinh ra những nhóm ủng hộ mới, thấy luật có ích cho lợi ích riêng. Công đoàn từ lâu muốn giữ trẻ em và thanh thiếu niên ngoài thị trường lao động, nơi họ sẽ cạnh tranh việc làm với đoàn viên. Giới giáo dục, nhất là công đoàn giáo viên, có lợi ích khi người trẻ ở lại trường lâu hơn, vì điều đó tăng cầu về giáo viên và cho lý lẽ chính trị để đòi chi thêm cho trường học.
+
+Phi lý theo lý do của nhóm nhân đạo ban đầu, nhưng hoàn toàn hợp lý theo lợi ích của các nhóm mới. Còn việc xã hội có được lợi hay không khi rất nhiều người trẻ không có cách kiếm tiền hợp pháp, trong khi cách bất hợp pháp đầy rẫy, là một câu hỏi khác.
 
 ### 4. Giờ làm việc (Hours of Work)
 
@@ -869,9 +882,13 @@ Sự hào phóng bắt buộc này có cái giá, không chỉ với chủ mà v
 
 ### 5. Các nước Thế giới thứ ba (Third World Countries)
 
-Một số điều kiện làm việc tệ nhất nằm ở những nước nghèo nhất, nơi người lao động ít khả năng nhất để chấp nhận lương thấp hơn đổi lấy điều kiện tốt hơn. Công ty đa quốc gia có nhà máy ở Thế giới thứ ba thường bị chỉ trích gay gắt ở châu Âu và Mỹ vì điều kiện mà nước họ không chấp nhận. Sowell giải thích: người lao động giàu hơn ở châu Âu, Mỹ thực chất mua điều kiện làm việc tốt hơn, giống như họ mua nhà và quần áo tốt hơn mức người ở Thế giới thứ ba mua nổi. Nếu chủ ở nước nghèo bị luật hay sức ép dư luận buộc cải thiện điều kiện, chi phí tăng thêm làm giảm số người được thuê, giống như lương cao hơn mức cung cầu đã khiến nhiều người châu Phi không xin được việc ở công ty đa quốc gia.
+Một số điều kiện làm việc tệ nhất nằm ở những nước nghèo nhất, nơi người lao động ít khả năng nhất để chấp nhận lương thấp hơn đổi lấy điều kiện tốt hơn. Công ty đa quốc gia có nhà máy ở Thế giới thứ ba thường bị chỉ trích gay gắt ở châu Âu và Mỹ vì điều kiện mà nước họ không chấp nhận.
 
-**So với lựa chọn tại chỗ.** Câu hỏi thật với người lao động ở nước nghèo là việc làm ở công ty đa quốc gia so với các lựa chọn tại chỗ của họ thế nào. Một phóng viên *New York Times* ở Campuchia ghi nhận việc làm nhà máy được săn tới mức người xin việc thường phải hối lộ người bên trong một tháng lương để được nhận. Campuchia không phải ngoại lệ: công ty đa quốc gia ở Thế giới thứ ba thường trả khoảng gấp đôi lương địa phương. Điều kiện làm việc cũng được so với lựa chọn tại chỗ. Cũng phóng viên đó mô tả một lựa chọn khác: nhặt rác ở bãi rác hôi tới nghẹt mũi, khói đốt rác cay mắt, ruồi và côn trùng cắn bám theo người nhặt. Cô Nhep Chanda kiếm trung bình 75 xu mỗi ngày; với cô, bị "bóc lột" trong một xưởng may, chỉ làm 6 ngày mỗi tuần, trong nhà thay vì dưới nắng gắt, với tới 2 USD mỗi ngày, là một giấc mơ.
+Sowell giải thích: người lao động giàu hơn ở châu Âu, Mỹ thực chất mua điều kiện làm việc tốt hơn, giống như họ mua nhà và quần áo tốt hơn mức người ở Thế giới thứ ba mua nổi. Nếu chủ ở nước nghèo bị luật hay sức ép dư luận buộc cải thiện điều kiện, chi phí tăng thêm làm giảm số người được thuê, giống như lương cao hơn mức cung cầu đã khiến nhiều người châu Phi không xin được việc ở công ty đa quốc gia.
+
+**So với lựa chọn tại chỗ.** Câu hỏi thật với người lao động ở nước nghèo là việc làm ở công ty đa quốc gia so với các lựa chọn tại chỗ của họ thế nào. Một phóng viên *New York Times* ở Campuchia ghi nhận việc làm nhà máy được săn tới mức người xin việc thường phải hối lộ người bên trong một tháng lương để được nhận. Campuchia không phải ngoại lệ: công ty đa quốc gia ở Thế giới thứ ba thường trả khoảng gấp đôi lương địa phương.
+
+Điều kiện làm việc cũng được so với lựa chọn tại chỗ. Cũng phóng viên đó mô tả một lựa chọn khác: nhặt rác ở bãi rác hôi tới nghẹt mũi, khói đốt rác cay mắt, ruồi và côn trùng cắn bám theo người nhặt. Cô Nhep Chanda kiếm trung bình 75 xu mỗi ngày; với cô, bị "bóc lột" trong một xưởng may, chỉ làm 6 ngày mỗi tuần, trong nhà thay vì dưới nắng gắt, với tới 2 USD mỗi ngày, là một giấc mơ.
 
 Liệu trả cho cô lương và điều kiện như ở châu Âu, Mỹ có tốt hơn không? Tất nhiên là có. Câu hỏi thật là làm sao nâng năng suất của cô lên ngang người lao động châu Âu, Mỹ, và chuyện gì sẽ xảy ra nếu bỏ qua năng suất mà áp đặt điều kiện tốt hơn bằng luật hay sức ép dư luận. Sowell cho rằng kết quả sẽ giống như khi đặt lương tối thiểu bất kể năng suất.
 
@@ -886,11 +903,17 @@ Liệu trả cho cô lương và điều kiện như ở châu Âu, Mỹ có t�
 | *New York Times*, 2012 | Thiếu lao động trầm trọng ở nhiều khu công nghiệp Trung Quốc; nhà máy trả phí cho người môi giới đón công nhân xuống từ xe khách và tàu hoả đường dài từ các tỉnh xa |
 | *Wall Street Journal*, 2012 | Lương đô thị bình quân ở Trung Quốc tăng 13% trong một năm |
 
-Cạnh tranh còn cải thiện điều kiện làm việc. Một bài báo ghi nhận quản lý không thể chỉ cho ký túc xá 8 người một phòng và bắt làm 12 giờ mỗi ngày, 7 ngày mỗi tuần nữa; công ty Yongjin ngoài tăng lương còn nâng cấp ký túc xá và cải thiện bữa ăn ở căng tin, nhưng 5 nhà máy của họ vẫn thiếu khoảng 10% so với 6.000 người cần. Năm 2012, *New York Times* đưa tin công nhân lắp iPad ở một nhà máy Trung Quốc, trước ngồi ghế đẩu nhựa xanh thấp không tựa lưng khiến đau lưng, bỗng được phát ghế gỗ có tựa lưng cao chắc chắn. Những thay đổi như vậy không đơn lẻ, vì trên thị trường lao động cạnh tranh, cả doanh nghiệp khác ngành cũng giành cùng một nhóm người. Tony Prophet, phó chủ tịch cấp cao của Hewlett-Packard, nói với *New York Times* rằng khi công ty lớn nhất tăng lương và giảm giờ làm, mọi nhà máy khác buộc phải làm theo dù muốn hay không, và đây là thay đổi rất lớn so với chỉ 18 tháng trước.
+Cạnh tranh còn cải thiện điều kiện làm việc. Một bài báo ghi nhận quản lý không thể chỉ cho ký túc xá 8 người một phòng và bắt làm 12 giờ mỗi ngày, 7 ngày mỗi tuần nữa; công ty Yongjin ngoài tăng lương còn nâng cấp ký túc xá và cải thiện bữa ăn ở căng tin, nhưng 5 nhà máy của họ vẫn thiếu khoảng 10% so với 6.000 người cần. Năm 2012, *New York Times* đưa tin công nhân lắp iPad ở một nhà máy Trung Quốc, trước ngồi ghế đẩu nhựa xanh thấp không tựa lưng khiến đau lưng, bỗng được phát ghế gỗ có tựa lưng cao chắc chắn.
 
-**Thị trường và áp đặt khác nhau ở đâu.** Khi cải thiện đến từ cạnh tranh thị trường, nó là kết quả của việc người lao động có thêm lựa chọn, vì nhiều chủ hơn tranh giành những người ngày càng có kinh nghiệm và giá trị hơn. Khi cải thiện do chính phủ áp đặt, nó có xu hướng làm bớt lựa chọn sẵn có, vì đẩy chi phí thuê lao động lên bất kể chi phí đó có vượt năng suất hay không. Thị trường tự do không phải hệ thống tổng bằng không, nơi bên này được thì bên kia phải mất: khi người lao động tích luỹ vốn con người, tổng sản lượng lớn lên, nên người lao động, người thuê và người tiêu dùng có thể cùng được lợi. Tuy vậy, chính trị gia ở một số nước châu Á đã tìm cách ép lương lên bằng luật lương tối thiểu, có thể cản trở quá trình này và gây ra những vấn đề quen thuộc của lương tối thiểu ở các nước khác.
+Những thay đổi như vậy không đơn lẻ, vì trên thị trường lao động cạnh tranh, cả doanh nghiệp khác ngành cũng giành cùng một nhóm người. Tony Prophet, phó chủ tịch cấp cao của Hewlett-Packard, nói với *New York Times* rằng khi công ty lớn nhất tăng lương và giảm giờ làm, mọi nhà máy khác buộc phải làm theo dù muốn hay không, và đây là thay đổi rất lớn so với chỉ 18 tháng trước.
 
-**Sức ép từ bên ngoài.** Sức ép không chính thức của các tổ chức phi chính phủ quốc tế đòi điều kiện tốt hơn cũng có xu hướng bỏ qua chi phí khi đặt tiêu chuẩn. Những thảm kịch như vụ sập nhà máy ở Bangladesh năm 2013 làm hơn một nghìn công nhân chết tạo ra sức ép dư luận buộc công ty đa quốc gia hoặc trả tiền cho điều kiện an toàn hơn, hoặc rời những nước có chính phủ không thực thi tiêu chuẩn an toàn. Nhưng sức ép đó cũng được dùng để đòi lương tối thiểu cao hơn và thêm công đoàn, thường không tính tới chi phí và việc làm bị mất. Theo Sowell, người quan sát từ bên ngoài không phải chịu những ràng buộc và đánh đổi mà chủ lẫn người làm không thể tránh, nên không có gì buộc họ phải suy nghĩ theo những điều đó.
+**Thị trường và áp đặt khác nhau ở đâu.** Khi cải thiện đến từ cạnh tranh thị trường, nó là kết quả của việc người lao động có thêm lựa chọn, vì nhiều chủ hơn tranh giành những người ngày càng có kinh nghiệm và giá trị hơn. Khi cải thiện do chính phủ áp đặt, nó có xu hướng làm bớt lựa chọn sẵn có, vì đẩy chi phí thuê lao động lên bất kể chi phí đó có vượt năng suất hay không.
+
+Thị trường tự do không phải hệ thống tổng bằng không, nơi bên này được thì bên kia phải mất: khi người lao động tích luỹ vốn con người, tổng sản lượng lớn lên, nên người lao động, người thuê và người tiêu dùng có thể cùng được lợi. Tuy vậy, chính trị gia ở một số nước châu Á đã tìm cách ép lương lên bằng luật lương tối thiểu, có thể cản trở quá trình này và gây ra những vấn đề quen thuộc của lương tối thiểu ở các nước khác.
+
+**Sức ép từ bên ngoài.** Sức ép không chính thức của các tổ chức phi chính phủ quốc tế đòi điều kiện tốt hơn cũng có xu hướng bỏ qua chi phí khi đặt tiêu chuẩn. Những thảm kịch như vụ sập nhà máy ở Bangladesh năm 2013 làm hơn một nghìn công nhân chết tạo ra sức ép dư luận buộc công ty đa quốc gia hoặc trả tiền cho điều kiện an toàn hơn, hoặc rời những nước có chính phủ không thực thi tiêu chuẩn an toàn.
+
+Nhưng sức ép đó cũng được dùng để đòi lương tối thiểu cao hơn và thêm công đoàn, thường không tính tới chi phí và việc làm bị mất. Theo Sowell, người quan sát từ bên ngoài không phải chịu những ràng buộc và đánh đổi mà chủ lẫn người làm không thể tránh, nên không có gì buộc họ phải suy nghĩ theo những điều đó.
 
 ### 6. Thương lượng tập thể (Collective Bargaining) và tổ chức của giới chủ (Employer Organizations)
 
@@ -898,7 +921,9 @@ Các chương trước xét thị trường lao động có nhiều người là
 
 **Giới chủ tổ chức trước.** Trong các thế kỷ trước, chính giới chủ mới là bên hay tổ chức và cùng đặt lương. Trong phường hội thời trung cổ, các thợ cả cùng đặt ra quy định về điều kiện thuê người học việc và thợ phụ, và về giá bán cho khách. Ngày nay, chủ các đội bóng chày nhà nghề Mỹ cùng đặt ra mức tổng lương tối đa một đội được trả cho cầu thủ mà không bị liên đoàn phạt tiền.
 
-Lương và điều kiện quyết định tập thể rõ ràng khác với khi chủ cạnh tranh riêng lẻ để giành người và người lao động cạnh tranh riêng lẻ để giành việc. Giới chủ sẽ không mất công tổ chức nếu không giữ được lương thấp hơn thị trường tự do. Sowell không bàn chuyện phường hội, công đoàn hay thương lượng tập thể là công bằng hay không, mà bàn hậu quả kinh tế, nhất là với việc phân bổ nguồn lực khan hiếm có nhiều cách dùng thay thế. Gần như theo định nghĩa, các tổ chức này tồn tại để giá lao động khác với giá trong cạnh tranh tự do. Cạnh tranh có xu hướng trả lương theo năng suất, qua đó kéo lao động từ nơi năng suất thấp sang nơi năng suất cao; nỗ lực có tổ chức để làm lương thấp giả tạo hoặc cao giả tạo phá quá trình đó và làm việc phân bổ nguồn lực của cả nền kinh tế kém hiệu quả.
+Lương và điều kiện quyết định tập thể rõ ràng khác với khi chủ cạnh tranh riêng lẻ để giành người và người lao động cạnh tranh riêng lẻ để giành việc. Giới chủ sẽ không mất công tổ chức nếu không giữ được lương thấp hơn thị trường tự do. Sowell không bàn chuyện phường hội, công đoàn hay thương lượng tập thể là công bằng hay không, mà bàn hậu quả kinh tế, nhất là với việc phân bổ nguồn lực khan hiếm có nhiều cách dùng thay thế.
+
+Gần như theo định nghĩa, các tổ chức này tồn tại để giá lao động khác với giá trong cạnh tranh tự do. Cạnh tranh có xu hướng trả lương theo năng suất, qua đó kéo lao động từ nơi năng suất thấp sang nơi năng suất cao; nỗ lực có tổ chức để làm lương thấp giả tạo hoặc cao giả tạo phá quá trình đó và làm việc phân bổ nguồn lực của cả nền kinh tế kém hiệu quả.
 
 **Ví dụ ngành widget.** "Widget" là sản phẩm giả định Sowell dùng xuyên suốt sách. Giả sử lương thị trường cho lao động này là 15 USD/giờ.
 
@@ -909,19 +934,27 @@ Lương và điều kiện quyết định tập thể rõ ràng khác với khi
 
 Trong cả hai trường hợp, người có khả năng làm ra 15 USD/giờ sản lượng lại chỉ làm ra 12 USD/giờ ở chỗ khác. Đó là tổn thất rõ ràng cho người tiêu dùng, tức cả xã hội, vì ai cũng là người tiêu dùng. Việc tổn thất của người lao động ngành widget dễ thấy và trực tiếp hơn không làm nó thành điều quan trọng nhất về mặt kinh tế. Được mất giữa chủ và người làm là vấn đề xã hội hay đạo đức; vấn đề kinh tế then chốt là việc phân bổ nguồn lực ảnh hưởng thế nào tới tổng của cải của xã hội. Lương bị ép thấp khiến người lao động làm ở nơi năng suất thấp hơn, nơi họ được trả cao hơn chỉ vì thị trường lao động ở đó còn cạnh tranh.
 
-Với trường hợp công đoàn, Sowell thêm một điểm: chủ ngành widget không chỉ trả nhiều tiền hơn cho lao động mà còn trả cho vốn bổ sung để nâng năng suất lao động lên trên 20 USD/giờ. Năng suất lao động cao hơn trông như "hiệu quả" hơn, nhưng làm ra ít widget hơn với chi phí mỗi chiếc cao hơn không có lợi cho nền kinh tế, dù dùng ít lao động hơn. Ngành khác nhận thêm người bị đẩy ra có thể mở rộng sản lượng, nhưng đó không phải cách dùng lao động có năng suất cao nhất; chỉ có mức lương công đoàn áp đặt mới gây ra sự dịch chuyển từ chỗ năng suất cao sang chỗ năng suất thấp. Các bên trong thương lượng tập thể đương nhiên lo cho lợi ích của mình, nhưng người đánh giá cả quá trình cần nhìn vào lợi ích kinh tế của cả xã hội, không phải việc chia phần giữa các bên.
+Với trường hợp công đoàn, Sowell thêm một điểm: chủ ngành widget không chỉ trả nhiều tiền hơn cho lao động mà còn trả cho vốn bổ sung để nâng năng suất lao động lên trên 20 USD/giờ. Năng suất lao động cao hơn trông như "hiệu quả" hơn, nhưng làm ra ít widget hơn với chi phí mỗi chiếc cao hơn không có lợi cho nền kinh tế, dù dùng ít lao động hơn.
 
-**Người da đen vừa được giải phóng ở miền Nam.** Ngay cả nơi tưởng như chủ muốn làm gì cũng được, lịch sử cho thấy cạnh tranh trên thị trường lao động ngăn họ. Ít người lao động nào yếu thế hơn người da đen vừa được giải phóng ở Mỹ sau Nội chiến: cực nghèo, phần lớn hoàn toàn không được học, không có tổ chức, chưa quen kinh tế thị trường. Vậy mà các nỗ lực có tổ chức của chủ và chủ đất da trắng miền Nam nhằm ép lương họ và hạn chế quyền tự quyết của họ khi làm tá điền (sharecropper) đều bị thị trường bào mòn, giữa những lời đổ lỗi cay đắng lẫn nhau trong giới chủ da trắng. Khi mức lương do nhóm chủ đặt ra thấp hơn năng suất thật của người lao động da đen, mỗi chủ có lợi nếu trả cao hơn những người khác để kéo người, miễn mức trả vẫn chưa vượt năng suất. Với lao động nông nghiệp, sức ép này tăng dần khi mùa gieo trồng tới gần, vì chủ đất biết cả vụ mùa trong năm phụ thuộc vào số người thuê được để gieo trồng mùa xuân, và thực tế đó thường thắng mọi tình đồng đội giữa các chủ đất. Trong các thập kỷ sau Nội chiến, lương người da đen tăng theo phần trăm nhanh hơn lương người da trắng, dù lương người da trắng vẫn cao hơn về số tuyệt đối.
+Ngành khác nhận thêm người bị đẩy ra có thể mở rộng sản lượng, nhưng đó không phải cách dùng lao động có năng suất cao nhất; chỉ có mức lương công đoàn áp đặt mới gây ra sự dịch chuyển từ chỗ năng suất cao sang chỗ năng suất thấp. Các bên trong thương lượng tập thể đương nhiên lo cho lợi ích của mình, nhưng người đánh giá cả quá trình cần nhìn vào lợi ích kinh tế của cả xã hội, không phải việc chia phần giữa các bên.
+
+**Người da đen vừa được giải phóng ở miền Nam.** Ngay cả nơi tưởng như chủ muốn làm gì cũng được, lịch sử cho thấy cạnh tranh trên thị trường lao động ngăn họ. Ít người lao động nào yếu thế hơn người da đen vừa được giải phóng ở Mỹ sau Nội chiến: cực nghèo, phần lớn hoàn toàn không được học, không có tổ chức, chưa quen kinh tế thị trường. Vậy mà các nỗ lực có tổ chức của chủ và chủ đất da trắng miền Nam nhằm ép lương họ và hạn chế quyền tự quyết của họ khi làm tá điền (sharecropper) đều bị thị trường bào mòn, giữa những lời đổ lỗi cay đắng lẫn nhau trong giới chủ da trắng.
+
+Khi mức lương do nhóm chủ đặt ra thấp hơn năng suất thật của người lao động da đen, mỗi chủ có lợi nếu trả cao hơn những người khác để kéo người, miễn mức trả vẫn chưa vượt năng suất. Với lao động nông nghiệp, sức ép này tăng dần khi mùa gieo trồng tới gần, vì chủ đất biết cả vụ mùa trong năm phụ thuộc vào số người thuê được để gieo trồng mùa xuân, và thực tế đó thường thắng mọi tình đồng đội giữa các chủ đất. Trong các thập kỷ sau Nội chiến, lương người da đen tăng theo phần trăm nhanh hơn lương người da trắng, dù lương người da trắng vẫn cao hơn về số tuyệt đối.
 
 **Vấn đề chung của cartel.** Dù cartel đặt điều kiện chung thế nào để tối đa lợi ích của cả nhóm, từng thành viên vẫn có lợi nếu lén vi phạm, và điều đó thường làm cartel tan rã. Đó là tình trạng của các cartel giới chủ da trắng ở miền Nam sau Nội chiến. Ở California cuối thế kỷ 19 và đầu thế kỷ 20 cũng vậy: chủ đất da trắng liên kết để ép lương nông dân và thợ nông nghiệp người nhập cư Nhật Bản, và các cartel này cũng sụp đổ trong đổ lỗi lẫn nhau, khi cạnh tranh giữa các chủ đất dẫn tới vi phạm thoả thuận tràn lan.
 
-Khả năng thành công của tổ chức giới chủ phụ thuộc vào việc buộc được thành viên giữ kỷ luật và ngăn được chủ cạnh tranh xuất hiện bên ngoài. Phường hội trung cổ có luật pháp đứng sau quy định của họ. Nơi không có luật pháp hỗ trợ, cartel giới chủ kém thành công hơn nhiều. Bóng chày nhà nghề Mỹ là trường hợp đặc biệt: đây là độc quyền được miễn luật chống độc quyền. Không đội nào có thể rút khỏi giải mà vẫn giữ được sự ủng hộ tài chính của người hâm mộ và sự chú ý của truyền thông khi không còn đấu với các đội khác trong giải; cũng khó có liên đoàn mới nào cạnh tranh nổi. Vì vậy bóng chày nhà nghề có thể hoạt động như một tổ chức giới chủ, nắm một phần quyền lực mà phường hội trung cổ từng có trước khi mất sự hậu thuẫn của luật pháp và lụi tàn.
+Khả năng thành công của tổ chức giới chủ phụ thuộc vào việc buộc được thành viên giữ kỷ luật và ngăn được chủ cạnh tranh xuất hiện bên ngoài. Phường hội trung cổ có luật pháp đứng sau quy định của họ. Nơi không có luật pháp hỗ trợ, cartel giới chủ kém thành công hơn nhiều.
+
+Bóng chày nhà nghề Mỹ là trường hợp đặc biệt: đây là độc quyền được miễn luật chống độc quyền. Không đội nào có thể rút khỏi giải mà vẫn giữ được sự ủng hộ tài chính của người hâm mộ và sự chú ý của truyền thông khi không còn đấu với các đội khác trong giải; cũng khó có liên đoàn mới nào cạnh tranh nổi. Vì vậy bóng chày nhà nghề có thể hoạt động như một tổ chức giới chủ, nắm một phần quyền lực mà phường hội trung cổ từng có trước khi mất sự hậu thuẫn của luật pháp và lụi tàn.
 
 ### 7. Công đoàn (Labor Unions)
 
 Giới chủ muốn giữ lương thấp hơn mức cung cầu trong thị trường cạnh tranh tự do, còn công đoàn muốn đẩy lương cao hơn mức đó. Hai ý định rất khác nhau nhưng có thể dẫn tới hậu quả tương tự với việc phân bổ nguồn lực khan hiếm.
 
-**John L. Lewis và ngành than.** John L. Lewis, lãnh tụ huyền thoại của Công đoàn Thợ mỏ (United Mine Workers) từ 1920 đến 1960, đã rất thành công trong việc giành lương cao cho đoàn viên. Nhưng một nhà kinh tế gọi ông là "người bán dầu giỏi nhất thế giới", vì giá than cao hơn và các cuộc đình công liên miên khiến nhiều khách hàng chuyển từ than sang dầu, làm giảm việc làm trong ngành than. Tới thập niên 1960, nhiều cộng đồng mỏ suy kiệt về kinh tế, một số gần như thành thị trấn ma. Báo chí kể về cảnh khổ của họ hiếm khi nối nó với thời huy hoàng của Lewis. Công bằng với Lewis, ông đã chủ động quyết định rằng tốt hơn là có ít thợ mỏ làm việc nguy hiểm dưới hầm và nhiều máy móc hơn, vì máy không chết khi sập hầm, nổ hay gặp các hiểm hoạ khác của nghề mỏ. Nhưng công chúng phần lớn không biết những đánh đổi đó: nhiều người vỗ tay khi Lewis nâng lương thợ mỏ, rồi nhiều năm sau thương cảm khi cộng đồng mỏ suy tàn, mà không thấy hai việc liên quan. Đó là một trong những nguyên lý đơn giản nhất của kinh tế học: giá cao hơn thì lượng cầu ít hơn, dù là giá than, giá lao động của thợ mỏ hay bất cứ thứ gì.
+**John L. Lewis và ngành than.** John L. Lewis, lãnh tụ huyền thoại của Công đoàn Thợ mỏ (United Mine Workers) từ 1920 đến 1960, đã rất thành công trong việc giành lương cao cho đoàn viên. Nhưng một nhà kinh tế gọi ông là "người bán dầu giỏi nhất thế giới", vì giá than cao hơn và các cuộc đình công liên miên khiến nhiều khách hàng chuyển từ than sang dầu, làm giảm việc làm trong ngành than. Tới thập niên 1960, nhiều cộng đồng mỏ suy kiệt về kinh tế, một số gần như thành thị trấn ma. Báo chí kể về cảnh khổ của họ hiếm khi nối nó với thời huy hoàng của Lewis.
+
+Công bằng với Lewis, ông đã chủ động quyết định rằng tốt hơn là có ít thợ mỏ làm việc nguy hiểm dưới hầm và nhiều máy móc hơn, vì máy không chết khi sập hầm, nổ hay gặp các hiểm hoạ khác của nghề mỏ. Nhưng công chúng phần lớn không biết những đánh đổi đó: nhiều người vỗ tay khi Lewis nâng lương thợ mỏ, rồi nhiều năm sau thương cảm khi cộng đồng mỏ suy tàn, mà không thấy hai việc liên quan. Đó là một trong những nguyên lý đơn giản nhất của kinh tế học: giá cao hơn thì lượng cầu ít hơn, dù là giá than, giá lao động của thợ mỏ hay bất cứ thứ gì.
 
 **Ngành ô tô.** Xu hướng tương tự xuất hiện ở ngành ô tô, nơi yếu tố nguy hiểm không như ở mỏ. Công đoàn Công nhân Ô tô (United Automobile Workers) rất thành công trong việc giành lương cao, bảo đảm việc làm và quy tắc làm việc có lợi cho đoàn viên. Về dài hạn, các chi phí này làm xe Mỹ đắt lên và kém cạnh tranh với xe Nhật và xe nước khác, cả ở Mỹ lẫn trên thị trường thế giới.
 
@@ -937,7 +970,9 @@ Sức ép chính trị buộc Nhật "tự nguyện" hạn chế xuất khẩu x
 
 **Ngành thép.** Sự suy giảm của công nhân ô tô có công đoàn là một phần của xu hướng chung trong công nghiệp Mỹ. Công đoàn Công nhân Thép (United Steelworkers of America) cũng là công đoàn lớn và rất thành công trong việc giành lương và phúc lợi cao. Nhưng việc làm trong ngành giảm hơn 200.000 trong một thập kỷ, trong khi các hãng thép đầu tư 35 tỷ USD vào máy móc thay thế những người đó, và các thị trấn tập trung sản xuất thép bị tàn phá về kinh tế.
 
-**"Trả lại" quyền lợi.** Niềm tin phổ biến một thời rằng công đoàn là phúc lành và cần thiết cho người lao động dần pha lẫn sự hoài nghi về vai trò của công đoàn trong sự suy giảm của nhiều ngành. Trước viễn cảnh chủ phá sản hoặc phải cắt giảm mạnh, một số công đoàn buộc phải "trả lại" (give-backs), tức từ bỏ một phần lương và phúc lợi đã giành được những năm trước. Dù đau đớn, nhiều công đoàn kết luận đây là cách duy nhất cứu việc làm của đoàn viên. Một bài trang nhất của *New York Times* đầu thế kỷ 21 tóm tắt: khi đạt thoả thuận với General Motors và trong các thoả thuận gần đây với Ford, DaimlerChrysler, Goodyear và Verizon, các công đoàn tỏ ra sẵn sàng kiềm chế yêu sách, vì họ kết luận rằng giữ cho chủ cạnh tranh được là điều thiết yếu để việc làm có công đoàn không chảy sang các công ty không công đoàn, thường trả lương thấp hơn, ở nơi khác trong nước hay ở nước ngoài. Sowell nhận xét công đoàn và đoàn viên đã học bằng trải nghiệm đau đớn điều các khoá kinh tế nhập môn dạy ngay từ đầu: người ta mua ít hơn khi giá cao hơn. Nguyên lý không phức tạp, nhưng dễ bị lãng quên giữa dòng sự kiện và những lời hùng biện.
+**"Trả lại" quyền lợi.** Niềm tin phổ biến một thời rằng công đoàn là phúc lành và cần thiết cho người lao động dần pha lẫn sự hoài nghi về vai trò của công đoàn trong sự suy giảm của nhiều ngành. Trước viễn cảnh chủ phá sản hoặc phải cắt giảm mạnh, một số công đoàn buộc phải "trả lại" (give-backs), tức từ bỏ một phần lương và phúc lợi đã giành được những năm trước. Dù đau đớn, nhiều công đoàn kết luận đây là cách duy nhất cứu việc làm của đoàn viên.
+
+Một bài trang nhất của *New York Times* đầu thế kỷ 21 tóm tắt: khi đạt thoả thuận với General Motors và trong các thoả thuận gần đây với Ford, DaimlerChrysler, Goodyear và Verizon, các công đoàn tỏ ra sẵn sàng kiềm chế yêu sách, vì họ kết luận rằng giữ cho chủ cạnh tranh được là điều thiết yếu để việc làm có công đoàn không chảy sang các công ty không công đoàn, thường trả lương thấp hơn, ở nơi khác trong nước hay ở nước ngoài. Sowell nhận xét công đoàn và đoàn viên đã học bằng trải nghiệm đau đớn điều các khoá kinh tế nhập môn dạy ngay từ đầu: người ta mua ít hơn khi giá cao hơn. Nguyên lý không phức tạp, nhưng dễ bị lãng quên giữa dòng sự kiện và những lời hùng biện.
 
 **Công đoàn thu hẹp và chuyển sang khu vực nhà nước.** Tỷ lệ lực lượng lao động Mỹ là đoàn viên công đoàn giảm dần, khi người lao động ngày càng bỏ phiếu không muốn công đoàn đại diện: 32% giữa thế kỷ 20, chỉ còn 14% cuối thế kỷ. Thành phần đoàn viên cũng thay đổi lớn. Nửa đầu thế kỷ 20, các công đoàn lớn của Mỹ nằm ở mỏ, ô tô, thép và vận tải xe tải; cuối thế kỷ, các công đoàn lớn nhất và tăng nhanh nhất là của nhân viên nhà nước. Năm 2007, chỉ 8% người lao động khu vực tư nhân là đoàn viên. Công đoàn lớn nhất nước, bỏ xa các công đoàn khác, là công đoàn giáo viên National Education Association.
 
@@ -947,7 +982,9 @@ Sức ép thị trường đã gây khó cho công đoàn trong công nghiệp v
 
 **Chi phí ẩn của công đoàn.** Trong khu vực tư nhân, nhiều công ty giữ được tình trạng không có công đoàn bằng chính sách trả lương ít nhất bằng mức công đoàn giành được. Chính sách đó hàm ý rằng với chủ, chi phí có công đoàn lớn hơn tiền lương và phúc lợi: các quy tắc của công đoàn về thâm niên và nhiều chi tiết vận hành khác có chi phí ẩn, đáng để loại bỏ vì hiệu quả cao hơn, kể cả khi phải trả nhân viên nhiều hơn mức trả cho đoàn viên công đoàn. Ba hãng ô tô lớn có công đoàn của Mỹ cần 26–31 giờ công để làm một chiếc xe, trong khi các hãng Nhật phần lớn không có công đoàn cần 17–22 giờ.
 
-**Tây Âu.** Công đoàn Tây Âu đặc biệt mạnh, và nhiều phúc lợi họ giành được đã ảnh hưởng tới việc làm và tốc độ tăng trưởng của cả nền kinh tế. Tây Âu tụt sau Mỹ nhiều năm cả về tăng trưởng lẫn tạo việc làm. Sự thừa nhận muộn màng các sự thật này khiến một số công đoàn và chính phủ châu Âu nới bớt yêu sách và hạn chế đối với chủ sau một đợt suy thoái. Năm 2006, *Wall Street Journal* viết rằng suy thoái kinh tế châu Âu đã cho doanh nghiệp thêm sức mạnh khi thương lượng với người lao động; chính phủ chậm sửa luật lao động thân thiện với người lao động vì sợ cử tri giận dữ; điều đó làm chậm tăng việc làm vì doanh nghiệp chuyển hoạt động ra nước ngoài nơi chi phí lao động thấp hơn; thất nghiệp cao làm giảm chi tiêu tiêu dùng, góp phần giữ tăng trưởng 5 năm qua ở mức bình quân chỉ 1,4% tại 12 nước dùng đồng euro. Sau khi công đoàn và chính phủ nới hạn chế trên thị trường lao động:
+**Tây Âu.** Công đoàn Tây Âu đặc biệt mạnh, và nhiều phúc lợi họ giành được đã ảnh hưởng tới việc làm và tốc độ tăng trưởng của cả nền kinh tế. Tây Âu tụt sau Mỹ nhiều năm cả về tăng trưởng lẫn tạo việc làm. Sự thừa nhận muộn màng các sự thật này khiến một số công đoàn và chính phủ châu Âu nới bớt yêu sách và hạn chế đối với chủ sau một đợt suy thoái.
+
+Năm 2006, *Wall Street Journal* viết rằng suy thoái kinh tế châu Âu đã cho doanh nghiệp thêm sức mạnh khi thương lượng với người lao động; chính phủ chậm sửa luật lao động thân thiện với người lao động vì sợ cử tri giận dữ; điều đó làm chậm tăng việc làm vì doanh nghiệp chuyển hoạt động ra nước ngoài nơi chi phí lao động thấp hơn; thất nghiệp cao làm giảm chi tiêu tiêu dùng, góp phần giữ tăng trưởng 5 năm qua ở mức bình quân chỉ 1,4% tại 12 nước dùng đồng euro. Sau khi công đoàn và chính phủ nới hạn chế trên thị trường lao động:
 
 | Chỉ số ở các nước dùng euro | Trước khi nới | Sau khi nới |
 |---|---|---|
@@ -958,35 +995,59 @@ Cả hai con số vẫn kém Mỹ cùng thời, nhưng đã tốt hơn so với 
 
 ### 8. Bóc lột (Exploitation)
 
-**Từ không được định nghĩa.** Người lên án "bóc lột" thường không thật sự định nghĩa nó, nên từ này hay được dùng chỉ để lên án giá cao hơn hoặc lương thấp hơn mức người nói muốn thấy. Sowell không phản đối từ này nếu mọi người hiểu nó chỉ là phản ứng cảm xúc của người nói, nhưng nó lại được trình bày như một sự thật về thế giới bên ngoài. Chương 4 đã cho thấy giá cao ở cửa hàng khu thu nhập thấp bị gọi là bóc lột, dù có nhiều yếu tố kinh tế giải thích giá đó, và các cửa hàng địa phương thường đang vật lộn để tồn tại chứ không lãi bất thường. Chương 10 đã nêu các yếu tố đằng sau lương thấp của người lao động Thế giới thứ ba mà nhiều người coi là bị bóc lột vì không được trả như ở nước giàu.
+**Từ không được định nghĩa.** Người lên án "bóc lột" thường không thật sự định nghĩa nó, nên từ này hay được dùng chỉ để lên án giá cao hơn hoặc lương thấp hơn mức người nói muốn thấy. Sowell không phản đối từ này nếu mọi người hiểu nó chỉ là phản ứng cảm xúc của người nói, nhưng nó lại được trình bày như một sự thật về thế giới bên ngoài.
 
-**Khi nào bóc lột có thể xảy ra.** Ý tưởng chung của các thuyết bóc lột là có người nhận được nhiều tiền hơn mức cần để bù cho đóng góp của họ vào sản xuất và phân phối, bằng cách bán cho người tiêu dùng đắt hơn mức cần hoặc trả người lao động thấp hơn mức cần. Điều này trong một số hoàn cảnh là có thể, nhưng cần xét những hoàn cảnh đó có tồn tại trong thực tế hay không. Như các chương trước đã nêu, lợi suất đầu tư cao hơn mức cần để bù rủi ro và đóng góp gần như chắc chắn hút người khác vào, bằng cách đầu tư thêm vào doanh nghiệp hiện có hoặc lập doanh nghiệp mới, và cạnh tranh tăng lên sẽ kéo lợi suất về mức bình thường. Lợi suất cao hơn bình thường chỉ kéo dài khi có cách ngăn cạnh tranh mới.
+Chương 4 đã cho thấy giá cao ở cửa hàng khu thu nhập thấp bị gọi là bóc lột, dù có nhiều yếu tố kinh tế giải thích giá đó, và các cửa hàng địa phương thường đang vật lộn để tồn tại chứ không lãi bất thường. Chương 10 đã nêu các yếu tố đằng sau lương thấp của người lao động Thế giới thứ ba mà nhiều người coi là bị bóc lột vì không được trả như ở nước giàu.
 
-**Chính phủ là rào cản gia nhập phổ biến nhất.** Trong Thế chiến II, chính quyền thuộc địa Anh ở Tây Phi áp đặt hàng loạt biện pháp kiểm soát sản xuất và thương mại thời chiến, như ở chính nước Anh. Một nhà kinh tế có mặt tại chỗ ghi nhận rằng trong thời kỳ kiểm soát, lợi nhuận lớn hơn nhiều mức cần để có dịch vụ của các thương nhân, và việc doanh nghiệp mới thực tế bị chặn đã dành riêng khoản lợi nhuận rất lớn đó cho những người đã ở trong ngành. Điều này không riêng gì châu Phi hay chính quyền Anh: Ủy ban Hàng không Dân dụng (Civil Aeronautics Board) và Ủy ban Thương mại Giữa các Bang (Interstate Commerce Commission) ở Mỹ nằm trong số rất nhiều cơ quan nhà nước, cấp quốc gia và địa phương, đã hạn chế số doanh nghiệp hay cá nhân được vào các nghề và ngành. Các chính phủ khắp thế giới ở nhiều thời điểm đã hạn chế bao nhiêu người, và những ai, được làm một nghề hay lập doanh nghiệp trong một ngành. Ở các thế kỷ trước còn phổ biến hơn: vua chúa ban quyền độc quyền sản xuất muối, rượu vang hay nhiều mặt hàng khác cho cá nhân hay doanh nghiệp, đôi khi để ban ơn cho người được sủng ái, thường là vì quyền độc quyền được mua bằng tiền.
+**Khi nào bóc lột có thể xảy ra.** Ý tưởng chung của các thuyết bóc lột là có người nhận được nhiều tiền hơn mức cần để bù cho đóng góp của họ vào sản xuất và phân phối, bằng cách bán cho người tiêu dùng đắt hơn mức cần hoặc trả người lao động thấp hơn mức cần. Điều này trong một số hoàn cảnh là có thể, nhưng cần xét những hoàn cảnh đó có tồn tại trong thực tế hay không.
 
-**Hai định nghĩa hợp lý.** Mục đích hoặc tác động ròng của rào cản gia nhập là duy trì mức thu nhập cao hơn mức trong cạnh tranh tự do và cao hơn mức cần để thu hút nguồn lực. Điều này có thể chính đáng gọi là bóc lột người tiêu dùng, vì đó là khoản trả vượt mức cần để người ta cung cấp sản phẩm hay dịch vụ. Tuy nhiên, thu nhập cao hơn mức cạnh tranh tự do không nhất thiết cao hơn thu nhập ở các ngành cạnh tranh: đôi khi doanh nghiệp kém hiệu quả sống sót nhờ được chính phủ bảo hộ, trong khi trên thị trường tự do họ đã bị doanh nghiệp hiệu quả hơn hạ giá và đẩy khỏi ngành. Vì vậy lợi suất khiêm tốn của doanh nghiệp kém hiệu quả được bảo hộ vẫn có nghĩa người tiêu dùng bị buộc trả nhiều hơn mức cần.
+Như các chương trước đã nêu, lợi suất đầu tư cao hơn mức cần để bù rủi ro và đóng góp gần như chắc chắn hút người khác vào, bằng cách đầu tư thêm vào doanh nghiệp hiện có hoặc lập doanh nghiệp mới, và cạnh tranh tăng lên sẽ kéo lợi suất về mức bình thường. Lợi suất cao hơn bình thường chỉ kéo dài khi có cách ngăn cạnh tranh mới.
+
+**Chính phủ là rào cản gia nhập phổ biến nhất.** Trong Thế chiến II, chính quyền thuộc địa Anh ở Tây Phi áp đặt hàng loạt biện pháp kiểm soát sản xuất và thương mại thời chiến, như ở chính nước Anh. Một nhà kinh tế có mặt tại chỗ ghi nhận rằng trong thời kỳ kiểm soát, lợi nhuận lớn hơn nhiều mức cần để có dịch vụ của các thương nhân, và việc doanh nghiệp mới thực tế bị chặn đã dành riêng khoản lợi nhuận rất lớn đó cho những người đã ở trong ngành.
+
+Điều này không riêng gì châu Phi hay chính quyền Anh: Ủy ban Hàng không Dân dụng (Civil Aeronautics Board) và Ủy ban Thương mại Giữa các Bang (Interstate Commerce Commission) ở Mỹ nằm trong số rất nhiều cơ quan nhà nước, cấp quốc gia và địa phương, đã hạn chế số doanh nghiệp hay cá nhân được vào các nghề và ngành. Các chính phủ khắp thế giới ở nhiều thời điểm đã hạn chế bao nhiêu người, và những ai, được làm một nghề hay lập doanh nghiệp trong một ngành. Ở các thế kỷ trước còn phổ biến hơn: vua chúa ban quyền độc quyền sản xuất muối, rượu vang hay nhiều mặt hàng khác cho cá nhân hay doanh nghiệp, đôi khi để ban ơn cho người được sủng ái, thường là vì quyền độc quyền được mua bằng tiền.
+
+**Hai định nghĩa hợp lý.** Mục đích hoặc tác động ròng của rào cản gia nhập là duy trì mức thu nhập cao hơn mức trong cạnh tranh tự do và cao hơn mức cần để thu hút nguồn lực. Điều này có thể chính đáng gọi là bóc lột người tiêu dùng, vì đó là khoản trả vượt mức cần để người ta cung cấp sản phẩm hay dịch vụ.
+
+Tuy nhiên, thu nhập cao hơn mức cạnh tranh tự do không nhất thiết cao hơn thu nhập ở các ngành cạnh tranh: đôi khi doanh nghiệp kém hiệu quả sống sót nhờ được chính phủ bảo hộ, trong khi trên thị trường tự do họ đã bị doanh nghiệp hiệu quả hơn hạ giá và đẩy khỏi ngành. Vì vậy lợi suất khiêm tốn của doanh nghiệp kém hiệu quả được bảo hộ vẫn có nghĩa người tiêu dùng bị buộc trả nhiều hơn mức cần.
 
 Những trường hợp như vậy có thể gọi là bóc lột, nhưng thường không phải những trường hợp khiến người ta dùng từ này. Cũng chính đáng khi gọi là bóc lột tình huống người lao động được trả thấp hơn mức họ nhận trên thị trường tự do, hoặc thấp hơn mức cần để tiếp tục thu hút người có kỹ năng, kinh nghiệm và tài năng như họ. Nhưng tình huống này dễ xảy ra với người kỹ năng cao, thu nhập cao hơn nhiều so với người kỹ năng thấp, thu nhập thấp.
 
-**Babe Ruth.** Nếu bóc lột là chênh lệch giữa của cải một người tạo ra và số tiền người đó được trả, thì Babe Ruth có lẽ là người bị bóc lột nhiều nhất mọi thời. Sân Yankee được gọi là "ngôi nhà Ruth xây", và cả triều đại Yankees được xây trên thành tích của Ruth. Trước khi Ruth tới, New York Yankees chưa từng vô địch giải (pennant), chưa nói tới World Series, và chưa có sân riêng, phải thi đấu ở sân của đội New York Giants khi Giants đi đấu xa. Thành tích của Ruth hút đám đông khổng lồ, và tiền vé là nền tảng tài chính để Yankees xây những đội thống trị bóng chày nhiều thập kỷ. Mức lương cao nhất 80.000 USD/năm của Ruth, dù tính theo giá năm 1932, còn xa mới bù được phần khác biệt tài chính anh tạo cho đội. Lý do là hợp đồng độc quyền trọn sự nghiệp thời đó khiến Yankees không phải trả giá cạnh tranh với các đội khác, những đội sẵn sàng trả rất hậu để có Ruth. Sowell kết luận: ở đây cũng như mọi nơi, ngăn cạnh tranh là điều kiện thiết yếu của bóc lột. Ông lưu ý thêm rằng Yankees bóc lột được Babe Ruth nhưng không bóc lột được những người lao động phổ thông quét sân Yankee, vì họ có thể quét nhà ở vô số văn phòng, nhà máy hay gia đình khác, nên không thể bị trả thấp hơn người làm việc tương tự ở nơi khác.
+**Babe Ruth.** Nếu bóc lột là chênh lệch giữa của cải một người tạo ra và số tiền người đó được trả, thì Babe Ruth có lẽ là người bị bóc lột nhiều nhất mọi thời. Sân Yankee được gọi là "ngôi nhà Ruth xây", và cả triều đại Yankees được xây trên thành tích của Ruth. Trước khi Ruth tới, New York Yankees chưa từng vô địch giải (pennant), chưa nói tới World Series, và chưa có sân riêng, phải thi đấu ở sân của đội New York Giants khi Giants đi đấu xa.
 
-**Bác sĩ trong hệ thống y tế nhà nước.** Có trường hợp người trong một nghề được trả thấp hơn mức cần để tiếp tục thu hút đủ người có trình độ. Bác sĩ đã đầu tư số tiền rất lớn cho trường y đắt đỏ, cộng thêm khoản đầu tư dưới dạng thu nhập bỏ lỡ trong nhiều năm đại học và trường y, rồi thời gian làm bác sĩ nội trú lương thấp trước khi đủ tư cách hành nghề độc lập. Trong hệ thống y tế do nhà nước vận hành, nhà nước có thể đặt thang lương bác sĩ, hoặc biểu giá cho từng loại điều trị, thấp hơn mức cần để tiếp tục thu hút người có trình độ tương tự vào nghề trong tương lai. Trong lúc đó, nếu nhà nước trả mọi hoá đơn y tế hoặc thuê mọi bác sĩ, bác sĩ hiện tại hầu như phải chấp nhận mức nhà nước cho phép. Hiếm có nghề khác mà họ có thể chuyển sang để được trả tốt hơn, vì làm luật sư hay kỹ sư lại cần một khoản đầu tư tốn kém nữa cho học hành. Phần lớn bác sĩ không có lựa chọn thực tế nào, và không ai thành tài xế xe tải hay thợ mộc chỉ vì nếu biết trước mức thu nhập thật thì họ đã không vào nghề y.
+Thành tích của Ruth hút đám đông khổng lồ, và tiền vé là nền tảng tài chính để Yankees xây những đội thống trị bóng chày nhiều thập kỷ. Mức lương cao nhất 80.000 USD/năm của Ruth, dù tính theo giá năm 1932, còn xa mới bù được phần khác biệt tài chính anh tạo cho đội. Lý do là hợp đồng độc quyền trọn sự nghiệp thời đó khiến Yankees không phải trả giá cạnh tranh với các đội khác, những đội sẵn sàng trả rất hậu để có Ruth.
 
-**Người không thể rời đi.** Người lương thấp cũng có thể bị bóc lột khi không thể di chuyển hoặc di chuyển rất tốn kém, vì chi phí đi lại, hoặc vì họ đang ở nhà ở được chính phủ trợ giá sẽ mất nếu chuyển đi, và ở nơi mới phải trả giá thị trường cho nhà hay căn hộ, ít nhất trong thời gian chờ trong danh sách nhà ở trợ giá. Trong các thế kỷ trước, nô lệ tất nhiên bị bóc lột vì bị giữ bằng vũ lực. Người làm thuê theo giao kèo (indentured servants) hay lao động hợp đồng, nhất là làm ở nước ngoài, cũng chịu chi phí rời đi cao, nên có thể bị bóc lột trong ngắn hạn. Tuy nhiên, nhiều người lao động hợp đồng lương rất thấp đã chọn ký thêm một kỳ nữa cho công việc mà họ đã biết rõ lương và điều kiện qua trải nghiệm bản thân, cho thấy dù lương thấp và điều kiện tồi đến đâu, chúng vẫn đủ để thu hút họ. Ở đây lời giải thích hợp lý hơn là thiếu lựa chọn tốt hơn hoặc thiếu kỹ năng để có lựa chọn tốt hơn, chứ không phải bị bóc lột.
+Sowell kết luận: ở đây cũng như mọi nơi, ngăn cạnh tranh là điều kiện thiết yếu của bóc lột. Ông lưu ý thêm rằng Yankees bóc lột được Babe Ruth nhưng không bóc lột được những người lao động phổ thông quét sân Yankee, vì họ có thể quét nhà ở vô số văn phòng, nhà máy hay gia đình khác, nên không thể bị trả thấp hơn người làm việc tương tự ở nơi khác.
+
+**Bác sĩ trong hệ thống y tế nhà nước.** Có trường hợp người trong một nghề được trả thấp hơn mức cần để tiếp tục thu hút đủ người có trình độ. Bác sĩ đã đầu tư số tiền rất lớn cho trường y đắt đỏ, cộng thêm khoản đầu tư dưới dạng thu nhập bỏ lỡ trong nhiều năm đại học và trường y, rồi thời gian làm bác sĩ nội trú lương thấp trước khi đủ tư cách hành nghề độc lập.
+
+Trong hệ thống y tế do nhà nước vận hành, nhà nước có thể đặt thang lương bác sĩ, hoặc biểu giá cho từng loại điều trị, thấp hơn mức cần để tiếp tục thu hút người có trình độ tương tự vào nghề trong tương lai. Trong lúc đó, nếu nhà nước trả mọi hoá đơn y tế hoặc thuê mọi bác sĩ, bác sĩ hiện tại hầu như phải chấp nhận mức nhà nước cho phép. Hiếm có nghề khác mà họ có thể chuyển sang để được trả tốt hơn, vì làm luật sư hay kỹ sư lại cần một khoản đầu tư tốn kém nữa cho học hành. Phần lớn bác sĩ không có lựa chọn thực tế nào, và không ai thành tài xế xe tải hay thợ mộc chỉ vì nếu biết trước mức thu nhập thật thì họ đã không vào nghề y.
+
+**Người không thể rời đi.** Người lương thấp cũng có thể bị bóc lột khi không thể di chuyển hoặc di chuyển rất tốn kém, vì chi phí đi lại, hoặc vì họ đang ở nhà ở được chính phủ trợ giá sẽ mất nếu chuyển đi, và ở nơi mới phải trả giá thị trường cho nhà hay căn hộ, ít nhất trong thời gian chờ trong danh sách nhà ở trợ giá.
+
+Trong các thế kỷ trước, nô lệ tất nhiên bị bóc lột vì bị giữ bằng vũ lực. Người làm thuê theo giao kèo (indentured servants) hay lao động hợp đồng, nhất là làm ở nước ngoài, cũng chịu chi phí rời đi cao, nên có thể bị bóc lột trong ngắn hạn. Tuy nhiên, nhiều người lao động hợp đồng lương rất thấp đã chọn ký thêm một kỳ nữa cho công việc mà họ đã biết rõ lương và điều kiện qua trải nghiệm bản thân, cho thấy dù lương thấp và điều kiện tồi đến đâu, chúng vẫn đủ để thu hút họ. Ở đây lời giải thích hợp lý hơn là thiếu lựa chọn tốt hơn hoặc thiếu kỹ năng để có lựa chọn tốt hơn, chứ không phải bị bóc lột.
 
 **Chỉ có một người thuê.** Khi chỉ có một người thuê một loại lao động nhất định, người đó tất nhiên có thể trả thấp hơn mức cần để thu hút người mới vào nghề. Nhưng điều này dễ xảy ra với người rất chuyên môn và kỹ năng cao như phi hành gia hơn là lao động phổ thông, vì lao động phổ thông được đủ loại doanh nghiệp, cơ quan nhà nước, thậm chí cá nhân thuê. Trước khi giao thông hiện đại phổ biến, thị trường lao động địa phương có thể biệt lập và một chủ có thể là người thuê duy nhất cho nhiều người dân địa phương trong một số nghề; giao thông giá rẻ lan rộng đã làm những tình huống này hiếm hơn nhiều.
 
-**Bóc lột áp dụng cho ai.** Khi thấy chìa khoá là rào cản gia nhập hoặc rời đi (tuyệt đối với nô lệ, tốn kém với bác sĩ hay người ở nhà ở trợ giá), từ bóc lột có thể áp dụng chính đáng cho những đối tượng rất khác với đối tượng người ta thường nghĩ. Nó áp dụng cả cho doanh nghiệp đã đổ lượng lớn vốn cố định, khó di dời vào một nơi. Một công ty xây đập thuỷ điện không thể mang đập đi nơi khác nếu chính quyền địa phương nhân đôi, nhân ba thuế suất hoặc bắt trả lương cao hơn nhiều so với người lao động tương tự trên thị trường tự do. Về dài hạn, ít doanh nghiệp đầu tư vào nơi có môi trường chính trị như vậy (Sowell nêu việc nhiều doanh nghiệp rời California là ví dụ nổi bật), nhưng ai đã đầu tư thì hầu như phải chấp nhận lợi suất thấp hơn.
+**Bóc lột áp dụng cho ai.** Khi thấy chìa khoá là rào cản gia nhập hoặc rời đi (tuyệt đối với nô lệ, tốn kém với bác sĩ hay người ở nhà ở trợ giá), từ bóc lột có thể áp dụng chính đáng cho những đối tượng rất khác với đối tượng người ta thường nghĩ. Nó áp dụng cả cho doanh nghiệp đã đổ lượng lớn vốn cố định, khó di dời vào một nơi.
 
-**Hậu quả của định nghĩa sai.** Chuyện "bóc lột" có áp dụng cho một tình huống hay không không chỉ là chữ nghĩa, vì chính sách dựa trên niềm tin sai sẽ có hậu quả khác chính sách dựa trên niềm tin đúng. Kiểm soát giá để chống "bóc lột" người tiêu dùng hay lương tối thiểu để chống "bóc lột" người lao động có thể làm tình hình tệ hơn cho chính họ nếu thực ra không ai bị bóc lột, như Chương 3 và Chương 11 đã chỉ ra. Khi một chủ, hoặc vài chủ cấu kết, tạo thành cartel địa phương trong việc thuê một loại lao động, cartel đó có thể trả lương thấp hơn; trong hoàn cảnh này, tăng lương do chính phủ áp đặt có thể, trong giới hạn nhất định, không làm người lao động mất việc như thường xảy ra với lương tối thiểu trong một thị trường cạnh tranh. Nhưng những tình huống này rất hiếm và cartel giới chủ khó duy trì, như các cartel sụp đổ ở miền Nam sau Nội chiến và ở California thế kỷ 19.
+Một công ty xây đập thuỷ điện không thể mang đập đi nơi khác nếu chính quyền địa phương nhân đôi, nhân ba thuế suất hoặc bắt trả lương cao hơn nhiều so với người lao động tương tự trên thị trường tự do. Về dài hạn, ít doanh nghiệp đầu tư vào nơi có môi trường chính trị như vậy (Sowell nêu việc nhiều doanh nghiệp rời California là ví dụ nổi bật), nhưng ai đã đầu tư thì hầu như phải chấp nhận lợi suất thấp hơn.
 
-**Nghèo đói là vấn đề sản xuất.** Xu hướng coi người lương thấp là bị bóc lột có thể hiểu được, vì người ta muốn tìm cách sửa sai bằng một cuộc vận động đạo đức hay chính trị. Nhưng nhà kinh tế Henry Hazlitt từ nhiều năm trước đã nói rằng vấn đề thật của nghèo đói không phải phân phối mà là sản xuất: người nghèo nghèo không phải vì bị giữ lại thứ gì, mà vì, do lý do nào đó, họ làm ra chưa đủ. Điều đó không làm nghèo đói bớt nghiêm trọng, nhưng làm giải pháp khó hơn, kém chắc chắn hơn và tốn thời gian hơn, và cần sự hợp tác của chính người nghèo bên cạnh những người muốn giúp họ. Người nghèo không nhất thiết có lỗi, vì cảnh nghèo có thể do nhiều yếu tố ngoài tầm kiểm soát của họ, kể cả quá khứ, thứ ngoài tầm kiểm soát của bất kỳ ai hôm nay. Sowell hẹn bàn một số hoàn cảnh đó ở Chương 23.
+**Hậu quả của định nghĩa sai.** Chuyện "bóc lột" có áp dụng cho một tình huống hay không không chỉ là chữ nghĩa, vì chính sách dựa trên niềm tin sai sẽ có hậu quả khác chính sách dựa trên niềm tin đúng. Kiểm soát giá để chống "bóc lột" người tiêu dùng hay lương tối thiểu để chống "bóc lột" người lao động có thể làm tình hình tệ hơn cho chính họ nếu thực ra không ai bị bóc lột, như Chương 3 và Chương 11 đã chỉ ra.
+
+Khi một chủ, hoặc vài chủ cấu kết, tạo thành cartel địa phương trong việc thuê một loại lao động, cartel đó có thể trả lương thấp hơn; trong hoàn cảnh này, tăng lương do chính phủ áp đặt có thể, trong giới hạn nhất định, không làm người lao động mất việc như thường xảy ra với lương tối thiểu trong một thị trường cạnh tranh. Nhưng những tình huống này rất hiếm và cartel giới chủ khó duy trì, như các cartel sụp đổ ở miền Nam sau Nội chiến và ở California thế kỷ 19.
+
+**Nghèo đói là vấn đề sản xuất.** Xu hướng coi người lương thấp là bị bóc lột có thể hiểu được, vì người ta muốn tìm cách sửa sai bằng một cuộc vận động đạo đức hay chính trị. Nhưng nhà kinh tế Henry Hazlitt từ nhiều năm trước đã nói rằng vấn đề thật của nghèo đói không phải phân phối mà là sản xuất: người nghèo nghèo không phải vì bị giữ lại thứ gì, mà vì, do lý do nào đó, họ làm ra chưa đủ.
+
+Điều đó không làm nghèo đói bớt nghiêm trọng, nhưng làm giải pháp khó hơn, kém chắc chắn hơn và tốn thời gian hơn, và cần sự hợp tác của chính người nghèo bên cạnh những người muốn giúp họ. Người nghèo không nhất thiết có lỗi, vì cảnh nghèo có thể do nhiều yếu tố ngoài tầm kiểm soát của họ, kể cả quá khứ, thứ ngoài tầm kiểm soát của bất kỳ ai hôm nay. Sowell hẹn bàn một số hoàn cảnh đó ở Chương 23.
 
 ### 9. Bảo đảm việc làm (Job Security)
 
 Gần như mọi nước công nghiệp hiện đại đều đối mặt với vấn đề bảo đảm việc làm, dù cách xử lý thực tế hay không, thành công hay không. Ở một số nước như Pháp, Đức, Ấn Độ và Nam Phi, luật bảo đảm việc làm khiến doanh nghiệp tư nhân khó và tốn kém khi sa thải bất kỳ ai. Công đoàn ở nhiều ngành, nhiều nước cũng tìm cách có chính sách tương tự. Công đoàn giáo viên Mỹ thành công tới mức sa thải một giáo viên, kể cả giáo viên kém cỏi rõ ràng, có thể tốn của học khu hàng chục nghìn USD, có nơi hơn một trăm nghìn USD.
 
-**Mục đích và tác động.** Mục đích hiển nhiên của luật bảo đảm việc làm là giảm thất nghiệp, nhưng đó khác với tác động thật. Nước có luật mạnh thường không có tỷ lệ thất nghiệp thấp hơn mà cao hơn nước không có luật bảo vệ việc làm rộng rãi. Ở Pháp, nơi có luật bảo đảm việc làm thuộc loại mạnh nhất châu Âu, thất nghiệp hai chữ số không hiếm, trong khi ở Mỹ người ta đã báo động khi thất nghiệp gần tới mức đó. Ở Nam Phi, chính phủ thừa nhận luật bảo vệ việc làm cứng nhắc đã có "hậu quả ngoài ý muốn", trong đó có tỷ lệ thất nghiệp quanh 25% nhiều năm, đỉnh 31% năm 2002. Tạp chí *The Economist* của Anh viết rằng sa thải là chuyện đau đầu tốn kém tới mức nhiều chủ thà không thuê ngay từ đầu, và hậu quả này không chỉ có ở Nam Phi.
+**Mục đích và tác động.** Mục đích hiển nhiên của luật bảo đảm việc làm là giảm thất nghiệp, nhưng đó khác với tác động thật. Nước có luật mạnh thường không có tỷ lệ thất nghiệp thấp hơn mà cao hơn nước không có luật bảo vệ việc làm rộng rãi. Ở Pháp, nơi có luật bảo đảm việc làm thuộc loại mạnh nhất châu Âu, thất nghiệp hai chữ số không hiếm, trong khi ở Mỹ người ta đã báo động khi thất nghiệp gần tới mức đó.
+
+Ở Nam Phi, chính phủ thừa nhận luật bảo vệ việc làm cứng nhắc đã có "hậu quả ngoài ý muốn", trong đó có tỷ lệ thất nghiệp quanh 25% nhiều năm, đỉnh 31% năm 2002. Tạp chí *The Economist* của Anh viết rằng sa thải là chuyện đau đầu tốn kém tới mức nhiều chủ thà không thuê ngay từ đầu, và hậu quả này không chỉ có ở Nam Phi.
 
 **Kinh tế hiện đại cần dịch chuyển.** Chính điều làm xã hội công nghiệp hiện đại hiệu quả trong việc nâng mức sống, tức việc không ngừng tìm cách mới tốt hơn để làm việc và sản xuất nhiều hàng hơn, khiến không thể giữ mãi cùng những người làm cùng việc theo cùng một cách.
 
@@ -1009,7 +1070,9 @@ Một số quan chức hiểu mối liên hệ giữa luật bảo đảm việc
 
 Luật bảo đảm việc làm và luật lương tối thiểu chỉ là một số cách can thiệp của chính phủ làm thị trường lao động khác với khi cạnh tranh tự do. Một cách khác là luật đòi giấy phép của nhà nước mới được làm một số nghề. Không ai được làm bác sĩ hay luật sư nếu không có giấy phép, vì lý do hiển nhiên: người không đủ đào tạo và kỹ năng mà hành nghề là đang lừa đảo nguy hiểm. Nhưng khi chính phủ đã có lý do để dùng một quyền lực, quyền đó có thể được mở rộng sang những trường hợp xa rời lý do ban đầu, và đó từ lâu là lịch sử của cấp phép hành nghề.
 
-**Lịch sử ngược với thứ tự giảng dạy.** Các nhà kinh tế thường giải thích thị trường cạnh tranh tự do trước rồi mới bàn các can thiệp vào nó, nhưng trong lịch sử, thị trường bị kiểm soát có trước thị trường tự do hàng thế kỷ. Việc phải xin phép nhà nước mới được làm một nghề từng phổ biến nhiều thế kỷ trước. Thị trường tự do phát triển nhờ sự lan rộng của kinh tế học cổ điển trong thế kỷ 19. Dù cả thị trường hàng hoá lẫn thị trường lao động đều tự do hơn trong thế kỷ 19, các lực lượng muốn được bảo hộ khỏi cạnh tranh chưa bao giờ bị xoá bỏ hoàn toàn. Dần dần, nhiều nghề hơn phải có giấy phép, quá trình này nhanh hơn trong thời kinh tế xấu như Đại suy thoái thập niên 1930, hoặc khi can thiệp của nhà nước vào kinh tế bắt đầu được chấp nhận trở lại.
+**Lịch sử ngược với thứ tự giảng dạy.** Các nhà kinh tế thường giải thích thị trường cạnh tranh tự do trước rồi mới bàn các can thiệp vào nó, nhưng trong lịch sử, thị trường bị kiểm soát có trước thị trường tự do hàng thế kỷ. Việc phải xin phép nhà nước mới được làm một nghề từng phổ biến nhiều thế kỷ trước.
+
+Thị trường tự do phát triển nhờ sự lan rộng của kinh tế học cổ điển trong thế kỷ 19. Dù cả thị trường hàng hoá lẫn thị trường lao động đều tự do hơn trong thế kỷ 19, các lực lượng muốn được bảo hộ khỏi cạnh tranh chưa bao giờ bị xoá bỏ hoàn toàn. Dần dần, nhiều nghề hơn phải có giấy phép, quá trình này nhanh hơn trong thời kinh tế xấu như Đại suy thoái thập niên 1930, hoặc khi can thiệp của nhà nước vào kinh tế bắt đầu được chấp nhận trở lại.
 
 **Ai đòi cấp phép.** Lý do chính thức của việc đòi giấy phép thường là bảo vệ công chúng khỏi rủi ro do người hành nghề thiếu trình độ hoặc thiếu đạo đức. Nhưng yêu cầu bảo vệ đó hiếm khi đến từ công chúng; gần như luôn đến từ những người đang hành nghề. Dấu hiệu cho thấy mục tiêu thật là tự bảo vệ khỏi cạnh tranh: luật cấp phép thường miễn cho người đang hành nghề, những người được cấp phép tự động, như thể có thể mặc định công chúng không cần được bảo vệ khỏi người kém cỏi hay gian dối đã ở trong nghề.
 
@@ -1023,13 +1086,19 @@ Luật bảo đảm việc làm và luật lương tối thiểu chỉ là một
 
 Chương kết thúc ở ví dụ này và Sowell không bình luận thêm. Theo cách đọc của người tổng hợp: người mua phù hiệu sẵn sàng trả hơn 1 triệu USD vì quyền được làm một nghề mà người khác bị cấm vào; khoản tiền đó cuối cùng do hành khách trả qua giá cước và do những người muốn lái taxi mà không được phép gánh.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một xưởng may có 200 công nhân, mỗi người lương 8 triệu đồng/tháng. Giả sử ngoài lương, chủ phải đóng thêm các khoản bắt buộc (bảo hiểm, phúc lợi) tương đương 25% lương, tức 2 triệu đồng/người/tháng, và chi phí đào tạo một người mới là 6 triệu đồng. Xưởng nhận thêm một đơn hàng cần thêm khoảng 4.000 giờ công trong 2 tháng. Phương án A: thuê 12 người mới trong 2 tháng, tốn 12 × (8 + 2) × 2 = 240 triệu đồng lương và khoản bắt buộc, cộng 72 triệu đồng đào tạo, tổng 312 triệu đồng, và khi hết đơn còn phải lo chuyện cho nghỉ. Phương án B: cho 200 người cũ làm thêm 20 giờ mỗi người, trả lương ngoài giờ cao hơn giờ thường 50%; nếu lương giờ thường khoảng 40.000 đồng thì chi phí là 4.000 × 60.000 = 240 triệu đồng. Phương án B rẻ hơn 72 triệu đồng dù lương mỗi giờ cao hơn, đúng như *Wall Street Journal* mô tả năm 2009. Nếu luật tăng các khoản bắt buộc lên 35% lương hoặc làm cho việc cho nghỉ khó hơn, khoảng cách càng lớn, và 12 người đang tìm việc càng ít cơ hội được nhận. Người được bảo vệ là 200 công nhân đang có việc; người chịu thiệt là 12 người không ai thấy.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một xưởng may có 200 công nhân, mỗi người lương 8 triệu đồng/tháng. Giả sử ngoài lương, chủ phải đóng thêm các khoản bắt buộc (bảo hiểm, phúc lợi) tương đương 25% lương, tức 2 triệu đồng/người/tháng, và chi phí đào tạo một người mới là 6 triệu đồng. Xưởng nhận thêm một đơn hàng cần thêm khoảng 4.000 giờ công trong 2 tháng.
+
+Phương án A: thuê 12 người mới trong 2 tháng, tốn 12 × (8 + 2) × 2 = 240 triệu đồng lương và khoản bắt buộc, cộng 72 triệu đồng đào tạo, tổng 312 triệu đồng, và khi hết đơn còn phải lo chuyện cho nghỉ. Phương án B: cho 200 người cũ làm thêm 20 giờ mỗi người, trả lương ngoài giờ cao hơn giờ thường 50%; nếu lương giờ thường khoảng 40.000 đồng thì chi phí là 4.000 × 60.000 = 240 triệu đồng.
+
+Phương án B rẻ hơn 72 triệu đồng dù lương mỗi giờ cao hơn, đúng như *Wall Street Journal* mô tả năm 2009. Nếu luật tăng các khoản bắt buộc lên 35% lương hoặc làm cho việc cho nghỉ khó hơn, khoảng cách càng lớn, và 12 người đang tìm việc càng ít cơ hội được nhận. Người được bảo vệ là 200 công nhân đang có việc; người chịu thiệt là 12 người không ai thấy.
 
 ## Luận điểm kinh tế cốt lõi
 
 ### Mệnh đề
 
-Lao động tuân theo quy luật cầu như mọi hàng hoá khác: giá lao động càng cao thì người ta thuê càng ít. Giá lao động không chỉ là tiền lương mà gồm mọi chi phí gắn với việc thuê một người, kể cả phúc lợi bắt buộc, điều kiện làm việc, giới hạn giờ làm và chi phí sa thải. Các can thiệp làm tăng chi phí đó, dù nhân danh bảo vệ người lao động, thường bảo vệ người đang có việc và dồn thiệt hại lên người đứng ngoài. Cả việc ép lương thấp giả tạo (cartel giới chủ) lẫn đẩy lương cao giả tạo (công đoàn) đều đưa lao động tới chỗ dùng kém năng suất hơn và làm giảm tổng của cải của xã hội. "Bóc lột" chỉ tồn tại bền khi có rào cản ngăn cạnh tranh hoặc ngăn rời đi, nên giải pháp cho lương thấp là nâng năng suất và tăng cạnh tranh giữa người thuê, chứ không phải áp đặt giá.
+Lao động tuân theo quy luật cầu như mọi hàng hoá khác: giá lao động càng cao thì người ta thuê càng ít. Giá lao động không chỉ là tiền lương mà gồm mọi chi phí gắn với việc thuê một người, kể cả phúc lợi bắt buộc, điều kiện làm việc, giới hạn giờ làm và chi phí sa thải. Các can thiệp làm tăng chi phí đó, dù nhân danh bảo vệ người lao động, thường bảo vệ người đang có việc và dồn thiệt hại lên người đứng ngoài.
+
+Cả việc ép lương thấp giả tạo (cartel giới chủ) lẫn đẩy lương cao giả tạo (công đoàn) đều đưa lao động tới chỗ dùng kém năng suất hơn và làm giảm tổng của cải của xã hội. "Bóc lột" chỉ tồn tại bền khi có rào cản ngăn cạnh tranh hoặc ngăn rời đi, nên giải pháp cho lương thấp là nâng năng suất và tăng cạnh tranh giữa người thuê, chứ không phải áp đặt giá.
 
 ### Giả định
 
@@ -1152,7 +1221,9 @@ Lao động tuân theo quy luật cầu như mọi hàng hoá khác: giá lao đ
 
 ### Sức mạnh của chương là gom mọi can thiệp về một câu hỏi: ai trả chi phí thuê thêm một người
 
-Phúc lợi bắt buộc, tuần làm 35 giờ, luật chống sa thải, lương công đoàn, tiêu chuẩn của tổ chức phi chính phủ cho nhà máy ở nước nghèo nhìn bề ngoài là những chủ đề rời rạc. Sowell cho thấy chúng có cùng một cấu trúc: mỗi thứ làm tăng chi phí thuê một người, nên chủ thuê ít hơn, và người chịu thiệt là người chưa có việc. Ví dụ làm thêm giờ năm 2009 rất thuyết phục vì nó trái trực giác: lương ngoài giờ đắt hơn mà vẫn được chọn, vì phúc lợi gắn với đầu người chứ không gắn với giờ làm. Ví dụ Liên Xô tránh thuê người dưới 18 tuổi cho thấy cơ chế này không phụ thuộc vào chủ nghĩa tư bản hay lòng tham của chủ. Người đọc có một câu hỏi dùng được mọi lúc: quy định này làm tăng chi phí thuê thêm một người bao nhiêu, và ai là người không được thuê vì nó.
+Phúc lợi bắt buộc, tuần làm 35 giờ, luật chống sa thải, lương công đoàn, tiêu chuẩn của tổ chức phi chính phủ cho nhà máy ở nước nghèo nhìn bề ngoài là những chủ đề rời rạc. Sowell cho thấy chúng có cùng một cấu trúc: mỗi thứ làm tăng chi phí thuê một người, nên chủ thuê ít hơn, và người chịu thiệt là người chưa có việc.
+
+Ví dụ làm thêm giờ năm 2009 rất thuyết phục vì nó trái trực giác: lương ngoài giờ đắt hơn mà vẫn được chọn, vì phúc lợi gắn với đầu người chứ không gắn với giờ làm. Ví dụ Liên Xô tránh thuê người dưới 18 tuổi cho thấy cơ chế này không phụ thuộc vào chủ nghĩa tư bản hay lòng tham của chủ. Người đọc có một câu hỏi dùng được mọi lúc: quy định này làm tăng chi phí thuê thêm một người bao nhiêu, và ai là người không được thuê vì nó.
 
 ### Định nghĩa lại "bóc lột" là đóng góp sắc sảo nhất của chương
 
@@ -1160,7 +1231,9 @@ Thay vì bác bỏ khái niệm bóc lột, Sowell cho nó một định nghĩa 
 
 ### Sowell coi độc quyền mua là hiếm, nhưng kinh tế học lao động hiện đại không đồng ý
 
-Đây là điểm bị phản biện mạnh nhất. Từ nghiên cứu của David Card và Alan Krueger về lương tối thiểu ở ngành đồ ăn nhanh đầu thập niên 1990, tới các công trình về "độc quyền mua động" (dynamic monopsony), nhiều nhà kinh tế cho rằng người thuê có sức mạnh định lương rộng hơn Sowell nghĩ, không chỉ khi chỉ có một người thuê: chi phí tìm việc, chi phí chuyển chỗ, sở thích về vị trí và lịch làm việc, điều khoản cấm cạnh tranh trong hợp đồng đều khiến người lao động không rời đi ngay khi bị trả thấp. Nếu vậy, một mức tăng lương hay quy định vừa phải có thể không làm mất nhiều việc. Sowell có thừa nhận ngoại lệ "cartel địa phương", nhưng coi nó là trường hợp rất hiếm; bằng chứng ngày nay cho thấy nó phổ biến hơn, nhất là ở thị trường lao động tập trung. Ngược lại, lý lẽ cốt lõi của ông (thị trường có nhiều người thuê thì khó bị bóc lột lâu dài) vẫn đúng và chính là lý do các nghiên cứu này chú ý tới mức độ tập trung của người thuê.
+Đây là điểm bị phản biện mạnh nhất. Từ nghiên cứu của David Card và Alan Krueger về lương tối thiểu ở ngành đồ ăn nhanh đầu thập niên 1990, tới các công trình về "độc quyền mua động" (dynamic monopsony), nhiều nhà kinh tế cho rằng người thuê có sức mạnh định lương rộng hơn Sowell nghĩ, không chỉ khi chỉ có một người thuê: chi phí tìm việc, chi phí chuyển chỗ, sở thích về vị trí và lịch làm việc, điều khoản cấm cạnh tranh trong hợp đồng đều khiến người lao động không rời đi ngay khi bị trả thấp.
+
+Nếu vậy, một mức tăng lương hay quy định vừa phải có thể không làm mất nhiều việc. Sowell có thừa nhận ngoại lệ "cartel địa phương", nhưng coi nó là trường hợp rất hiếm; bằng chứng ngày nay cho thấy nó phổ biến hơn, nhất là ở thị trường lao động tập trung. Ngược lại, lý lẽ cốt lõi của ông (thị trường có nhiều người thuê thì khó bị bóc lột lâu dài) vẫn đúng và chính là lý do các nghiên cứu này chú ý tới mức độ tập trung của người thuê.
 
 ### Lập luận về công đoàn bỏ qua những tác động không qua giá
 
@@ -1172,15 +1245,198 @@ So sánh Pháp, Nam Phi với Mỹ gợi ý mạnh, nhưng tỷ lệ thất nghi
 
 ### Lập luận về nhà máy ở nước nghèo được lịch sử Trung Quốc ủng hộ, nhưng có bằng chứng trái chiều
 
-Diễn biến sau 2013 khớp với dự đoán của Sowell: lương Trung Quốc tiếp tục tăng nhờ cạnh tranh giành lao động, tới mức một phần sản xuất may mặc, giày dép, điện tử chuyển sang Việt Nam, Bangladesh và các nước lương thấp hơn. Mặt khác, vụ sập Rana Plaza năm 2013 ở Bangladesh (vụ Sowell nhắc tới) cho thấy an toàn nhà xưởng là loại rủi ro người lao động khó tự đánh giá, gần với trường hợp "luật an toàn" mà chính Sowell chấp nhận. Một thử nghiệm ngẫu nhiên ở Ethiopia của Christopher Blattman và Stefan Dercon cũng thấy việc làm nhà máy không mang lại thu nhập cao hơn đáng kể so với lựa chọn phi chính thức, và có thể làm sức khoẻ xấu đi; tức "gấp đôi lương địa phương" không đúng ở mọi nơi. Câu hỏi so sánh với lựa chọn tại chỗ của Sowell vẫn là câu hỏi đúng, nhưng câu trả lời thay đổi theo từng nước.
+Diễn biến sau 2013 khớp với dự đoán của Sowell: lương Trung Quốc tiếp tục tăng nhờ cạnh tranh giành lao động, tới mức một phần sản xuất may mặc, giày dép, điện tử chuyển sang Việt Nam, Bangladesh và các nước lương thấp hơn.
+
+Mặt khác, vụ sập Rana Plaza năm 2013 ở Bangladesh (vụ Sowell nhắc tới) cho thấy an toàn nhà xưởng là loại rủi ro người lao động khó tự đánh giá, gần với trường hợp "luật an toàn" mà chính Sowell chấp nhận. Một thử nghiệm ngẫu nhiên ở Ethiopia của Christopher Blattman và Stefan Dercon cũng thấy việc làm nhà máy không mang lại thu nhập cao hơn đáng kể so với lựa chọn phi chính thức, và có thể làm sức khoẻ xấu đi; tức "gấp đôi lương địa phương" không đúng ở mọi nơi. Câu hỏi so sánh với lựa chọn tại chỗ của Sowell vẫn là câu hỏi đúng, nhưng câu trả lời thay đổi theo từng nước.
 
 ### Sau khi sách ra đời, nhiều ví dụ của chương đã thay đổi theo những hướng khác nhau
 
-Các thay đổi dưới đây do người tổng hợp nêu định tính, không kèm số liệu: giá phù hiệu taxi New York, ví dụ kết chương, đã sụp mạnh sau khi Uber và Lyft phổ biến, và nhiều người đã vay nợ để mua phù hiệu lâm vào khủng hoảng; đây vừa là minh chứng giá trị của rào cản gia nhập phụ thuộc vào việc rào cản còn đứng vững, vừa là bài học rủi ro cho người mua quyền được bảo hộ. Thị trường lao động Mỹ cuối thập niên 2010 xuống mức thất nghiệp rất thấp và tỷ lệ tham gia lực lượng lao động phục hồi một phần, cho thấy một phần người bỏ cuộc mà Sowell nói đã quay lại khi kiếm việc dễ hơn. Tây Ban Nha cải cách luật lao động nhiều lần và thất nghiệp giảm đáng kể so với đỉnh 2012, dù vẫn cao so với châu Âu. Công đoàn khu vực tư nhân Mỹ tiếp tục thu hẹp, trong khi công đoàn khu vực nhà nước vẫn giữ tỷ lệ cao hơn nhiều, đúng như phân tích của Sowell về việc khu vực nhà nước không chịu sức ép cạnh tranh.
+Các thay đổi dưới đây do người tổng hợp nêu định tính, không kèm số liệu: giá phù hiệu taxi New York, ví dụ kết chương, đã sụp mạnh sau khi Uber và Lyft phổ biến, và nhiều người đã vay nợ để mua phù hiệu lâm vào khủng hoảng; đây vừa là minh chứng giá trị của rào cản gia nhập phụ thuộc vào việc rào cản còn đứng vững, vừa là bài học rủi ro cho người mua quyền được bảo hộ.
+
+Thị trường lao động Mỹ cuối thập niên 2010 xuống mức thất nghiệp rất thấp và tỷ lệ tham gia lực lượng lao động phục hồi một phần, cho thấy một phần người bỏ cuộc mà Sowell nói đã quay lại khi kiếm việc dễ hơn. Tây Ban Nha cải cách luật lao động nhiều lần và thất nghiệp giảm đáng kể so với đỉnh 2012, dù vẫn cao so với châu Âu. Công đoàn khu vực tư nhân Mỹ tiếp tục thu hẹp, trong khi công đoàn khu vực nhà nước vẫn giữ tỷ lệ cao hơn nhiều, đúng như phân tích của Sowell về việc khu vực nhà nước không chịu sức ép cạnh tranh.
 
 ### Vận dụng: trước một quy định lao động mới, hãy hỏi chi phí thuê thêm một người thay đổi bao nhiêu và ai đứng ngoài
 
 - **Trong doanh nghiệp.** Khi tính chi phí nhân sự, hãy tính tổng chi phí trên đầu người (lương, bảo hiểm, phúc lợi, đào tạo, chi phí cho nghỉ), không chỉ lương. So sánh phương án làm thêm giờ, thuê thời vụ, thuê ngoài và đầu tư máy móc trên tổng chi phí đó. Nếu doanh nghiệp đang tranh giành lao động với các công ty lớn trong cùng khu công nghiệp, bài học Trung Quốc là cải thiện điều kiện (ký túc xá, bữa ăn, ghế ngồi) có thể rẻ hơn mất người; còn nếu doanh nghiệp đang sống nhờ một giấy phép bị giới hạn số lượng, hãy coi đó là tài sản có thể mất giá nhanh như phù hiệu taxi.
 - **Trong đầu tư.** Lợi nhuận cao kéo dài là dấu hiệu có rào cản gia nhập; cần biết rào cản đó là gì (giấy phép, quy mô, công nghệ) và có bền không. Vốn đã chôn vào tài sản cố định khó di dời (nhà máy, đập thuỷ điện, hạ tầng) có rủi ro bị "bóc lột" bởi thay đổi thuế, giá điện hay quy định địa phương; rủi ro này cần được tính vào lợi suất yêu cầu. Khi phân tích ngành có tỷ lệ công đoàn hoặc chi phí lao động ngoài lương cao, hãy so số giờ công trên mỗi sản phẩm với đối thủ, như con số 26–31 giờ và 17–22 giờ mỗi xe.
 - **Trong nghề nghiệp.** Theo lập luận của Sowell, cách bền vững để tăng thu nhập là tăng vốn con người và có nhiều người thuê muốn có mình, vì cạnh tranh giữa người thuê mới là thứ đẩy lương lên. Kỹ năng chỉ dùng được ở một người thuê duy nhất làm bạn dễ bị trả thấp, như bác sĩ trong hệ thống một người trả tiền hay phi hành gia. Với người trẻ, việc dễ vào nghề quan trọng hơn quyền lợi trên giấy của người đã có chỗ.
-- **Khi đọc tin chính sách.** Ở Việt Nam, khi đọc tin tỷ lệ thất nghiệp thấp, nên xem thêm tỷ lệ tham gia lực lượng lao động và tỷ lệ lao động phi chính thức, vì người không có việc chính thức thường không bị tính là thất nghiệp. Khi có đề xuất tăng lương tối thiểu vùng, tăng mức đóng bảo hiểm bắt buộc, giảm giờ làm chuẩn hay mở rộng quy định bảo vệ người lao động, câu hỏi theo Sowell là: chi phí thuê thêm một người tăng bao nhiêu, doanh nghiệp sẽ phản ứng bằng thuê ít hơn, làm thêm giờ hay tự động hoá, và người trẻ mới vào nghề có khó hơn không. Khi tin tức nói về lương và điều kiện ở các nhà máy FDI, nên so với lựa chọn tại chỗ của người lao động, và theo dõi xem cạnh tranh giữa các nhà máy trong cùng khu công nghiệp có đang đẩy lương và điều kiện lên hay không. Các tranh luận về "giấy phép con" và điều kiện kinh doanh cũng nên được nhìn qua dấu hiệu Sowell chỉ ra: ai đề xuất, và quy định có miễn cho người đã hành nghề không.
+- **Khi đọc tin chính sách.** Ở Việt Nam, khi đọc tin tỷ lệ thất nghiệp thấp, nên xem thêm tỷ lệ tham gia lực lượng lao động và tỷ lệ lao động phi chính thức, vì người không có việc chính thức thường không bị tính là thất nghiệp.
+
+  Khi có đề xuất tăng lương tối thiểu vùng, tăng mức đóng bảo hiểm bắt buộc, giảm giờ làm chuẩn hay mở rộng quy định bảo vệ người lao động, câu hỏi theo Sowell là: chi phí thuê thêm một người tăng bao nhiêu, doanh nghiệp sẽ phản ứng bằng thuê ít hơn, làm thêm giờ hay tự động hoá, và người trẻ mới vào nghề có khó hơn không.
+
+  Khi tin tức nói về lương và điều kiện ở các nhà máy FDI, nên so với lựa chọn tại chỗ của người lao động, và theo dõi xem cạnh tranh giữa các nhà máy trong cùng khu công nghiệp có đang đẩy lương và điều kiện lên hay không. Các tranh luận về "giấy phép con" và điều kiện kinh doanh cũng nên được nhìn qua dấu hiệu Sowell chỉ ra: ai đề xuất, và quy định có miễn cho người đã hành nghề không.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 12 trên một trang: sáu nhánh lớn đi theo các mục 1–10 trong phần Nội dung chi tiết (thống kê thất nghiệp, điều kiện làm việc và giờ làm, nhà máy của công ty đa quốc gia ở nước nghèo, thương lượng tập thể của giới chủ và công đoàn, bóc lột, bảo đảm việc làm và cấp phép hành nghề), mỗi nhánh ghi luận điểm, cơ chế, ví dụ và con số then chốt của Sowell; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 12: lao động vẫn theo quy luật giá cả, mọi thứ làm tăng chi phí thuê một người đều làm giảm số người được thuê`"]
+  n1["`Mục 1–2 — Tỷ lệ thất nghiệp không phải con số khách quan`"]
+  n0 --- n1
+  n2["`Peter Bauer: thúc đẩy bình đẳng kinh tế và giảm nghèo là hai việc khác nhau, thường mâu thuẫn`"]
+  n1 --- n2
+  n3["`Tỷ lệ thất nghiệp chỉ đếm người đang tìm việc trong lực lượng lao động, người bỏ cuộc không bị đếm`"]
+  n1 --- n3
+  n4["`Mỹ nửa đầu 2010: thất nghiệp đứng ở 9,5% nhưng tỷ lệ người trưởng thành có việc giảm mạnh nhất hơn nửa thế kỷ`"]
+  n1 --- n4
+  n5["`Hơn 3,7 triệu người chuyển sang trợ cấp khuyết tật từ giữa 2009 đến đầu 2013`"]
+  n4 --- n5
+  n6["`Người 55–64 tuổi có việc: Thụy Sĩ hơn 70%, Pháp 37%, nên số liệu thất nghiệp Pháp đánh giá thấp người không làm việc`"]
+  n1 --- n6
+  n7["`Người thất nghiệp Mỹ tìm việc mỗi ngày gấp hơn 4 lần ở Đức, Anh, Thụy Điển, nơi trợ cấp cao và dài hơn`"]
+  n1 --- n7
+  n8["`Thất nghiệp dài hạn (từ 1 năm trở lên): Mỹ 9%, Anh 23%, Đức 48%, Ý 59%`"]
+  n1 --- n8
+  n9["`Thất nghiệp cọ xát khiến tỷ lệ thất nghiệp không bao giờ bằng 0, kể cả năm bùng nổ`"]
+  n1 --- n9
+  n10["`Thất nghiệp do công nghệ: thợ may Paris đập máy của Thimonnier năm 1830, nhưng ô tô thay ngựa không làm mất việc ròng`"]
+  n1 --- n10
+  n11["`Mục 3–4 — Điều kiện làm việc và giờ làm cũng là chi phí lao động`"]
+  n0 --- n11
+  n12["`Điều kiện tốt hơn tác động như lương cao hơn: người lao động thực chất tự mua điều kiện tốt hơn`"]
+  n11 --- n12
+  n13["`Chi phí lao động ngoài lương ở Đức cao khoảng gấp đôi Mỹ, nên lao động Đức đắt hơn dù cùng lương giờ`"]
+  n11 --- n13
+  n14["`Phúc lợi bắt buộc khiến chủ cho người cũ làm thêm giờ thay vì thuê người mới`"]
+  n11 --- n14
+  n15["`WSJ 11/2009: ngành chế tạo cắt 61.000 người trong khi người còn lại làm nhiều giờ hơn`"]
+  n14 --- n15
+  n16["`Liên Xô: người dưới 18 tuổi được nghỉ nhiều hơn nên giám đốc tránh thuê, không có bữa trưa miễn phí`"]
+  n14 --- n16
+  n17["`Luật an toàn hợp lý khi chi phí rơi vào bên thứ ba: giới hạn giờ làm của phi công, tài xế, tổ lái tàu`"]
+  n11 --- n17
+  n18["`Luật lao động trẻ em sống tiếp nhờ nhóm ủng hộ mới: công đoàn và công đoàn giáo viên`"]
+  n11 --- n18
+  n19["`Pháp: tuần 35 giờ giữ nguyên lương tuần, dưới 1.500 giờ mỗi năm so với hơn 1.800 ở Mỹ và Nhật`"]
+  n11 --- n19
+  n20["`Thiếu nhân viên do tuần 35 giờ là lý do chính khiến 14.000 người Pháp chết trong đợt nắng nóng tháng 8`"]
+  n19 --- n20
+  n21["`Chia việc thất bại: giữ lương tuần khi giảm giờ là tăng lương giờ, nên thuê ít người hơn`"]
+  n19 --- n21
+  n22["`Tây Ban Nha: phúc lợi bắt buộc hào phóng, thất nghiệp 25% năm 2012, 52% ở người trẻ`"]
+  n11 --- n22
+  n23["`Mục 5 — Nhà máy của công ty đa quốc gia ở nước nghèo`"]
+  n0 --- n23
+  n24["`Người lao động nước giàu mua điều kiện làm việc tốt hơn như mua nhà, quần áo tốt hơn`"]
+  n23 --- n24
+  n25["`Câu hỏi thật là so với lựa chọn tại chỗ: công ty đa quốc gia trả khoảng gấp đôi lương địa phương`"]
+  n23 --- n25
+  n26["`Campuchia: người xin việc hối lộ một tháng lương, Nhep Chanda nhặt rác 75 xu/ngày so với xưởng may tới 2 USD/ngày`"]
+  n25 --- n26
+  n27["`Áp đặt điều kiện tốt hơn mà bỏ qua năng suất có hậu quả như lương tối thiểu`"]
+  n23 --- n27
+  n28["`Cạnh tranh giành người có vốn con người nâng lương: Trung Quốc, Ấn Độ tăng 10–20% mỗi năm`"]
+  n23 --- n28
+  n29["`Cạnh tranh cũng nâng điều kiện: Yongjin nâng cấp ký túc xá, công nhân lắp iPad được ghế có tựa lưng`"]
+  n28 --- n29
+  n30["`Thị trường cải thiện bằng cách thêm lựa chọn, áp đặt của chính phủ làm bớt lựa chọn`"]
+  n23 --- n30
+  n31["`Sau vụ sập nhà máy Bangladesh 2013, sức ép quốc tế đòi thêm lương tối thiểu và công đoàn mà không tính việc làm mất`"]
+  n23 --- n31
+  n32["`Mục 6–7 — Thương lượng tập thể của giới chủ và công đoàn`"]
+  n0 --- n32
+  n33["`Ép lương thấp giả tạo hay đẩy cao giả tạo đều kéo lao động khỏi nơi năng suất cao`"]
+  n32 --- n33
+  n34["`Widget lương thị trường 15 USD/giờ: ép xuống 10 hay đẩy lên 20, người bị đẩy ra chỉ làm ra 12 USD/giờ ở ngành khác`"]
+  n33 --- n34
+  n35["`Cartel giới chủ tan rã vì mỗi chủ có lợi khi lén trả cao hơn để giành người`"]
+  n32 --- n35
+  n36["`Miền Nam sau Nội chiến: lương người da đen tăng theo phần trăm nhanh hơn lương người da trắng`"]
+  n35 --- n36
+  n37["`California: cartel ép lương người nhập cư Nhật Bản cũng sụp đổ vì cạnh tranh`"]
+  n35 --- n37
+  n38["`Cartel chỉ bền khi có luật pháp đỡ: phường hội trung cổ, bóng chày nhà nghề miễn luật chống độc quyền`"]
+  n35 --- n38
+  n39["`John L. Lewis, Công đoàn Thợ mỏ 1920–1960: lương cao khiến khách chuyển sang dầu, thị trấn mỏ thành thị trấn ma`"]
+  n32 --- n39
+  n40["`Ô tô: Mỹ làm 3/4 xe thế giới năm 1950, năm 1990 ít hơn 200.000 việc làm so với 1979`"]
+  n32 --- n40
+  n41["`Thép: mất hơn 200.000 việc trong một thập kỷ, các hãng đầu tư 35 tỷ USD vào máy thay người`"]
+  n32 --- n41
+  n42["`Đoàn viên giảm từ 32% xuống 14%, khu vực tư nhân chỉ 8% năm 2007, công đoàn nhà nước lớn nhất vì không chịu cạnh tranh`"]
+  n32 --- n42
+  n43["`Chi phí ẩn của công đoàn: 26–31 giờ công mỗi xe ở hãng Mỹ so với 17–22 ở hãng Nhật`"]
+  n32 --- n43
+  n44["`Tây Âu nới luật lao động: tăng trưởng từ 1,4% lên 2,2%, thất nghiệp từ 9,3% xuống 8,3%`"]
+  n32 --- n44
+  n45["`Mục 8 — Bóc lột chỉ tồn tại khi có rào cản gia nhập hoặc rời đi`"]
+  n0 --- n45
+  n46["`Bóc lột người tiêu dùng là trả cao hơn mức cần, bóc lột người lao động là trả thấp hơn mức thị trường tự do`"]
+  n45 --- n46
+  n47["`Lợi suất cao hút đối thủ mới, chỉ kéo dài khi cạnh tranh mới bị chặn, thường bởi chính phủ`"]
+  n45 --- n47
+  n48["`Kiểm soát thương mại thời chiến ở Tây Phi thuộc Anh, Civil Aeronautics Board ở Mỹ chặn doanh nghiệp mới`"]
+  n47 --- n48
+  n49["`Babe Ruth nhận tối đa 80.000 USD/năm vì hợp đồng độc quyền trọn sự nghiệp, người quét sân thì không bị bóc lột`"]
+  n45 --- n49
+  n50["`Bác sĩ trong hệ thống y tế nhà nước có thể bị trả thấp vì đã đổ vốn học hành, khó đổi nghề`"]
+  n45 --- n50
+  n51["`Rào cản rời đi: nô lệ, người ở nhà ở trợ giá, công ty đã xây đập thuỷ điện`"]
+  n45 --- n51
+  n52["`Gán nhãn bóc lột sai dẫn tới kiểm soát giá và lương tối thiểu gây hại cho chính người được bảo vệ`"]
+  n45 --- n52
+  n53["`Henry Hazlitt: nghèo đói là vấn đề sản xuất, không phải phân phối`"]
+  n45 --- n53
+  n54["`Mục 9–10 — Bảo đảm việc làm và cấp phép hành nghề`"]
+  n0 --- n54
+  n55["`Luật chống sa thải đi kèm thất nghiệp cao hơn: Nam Phi quanh 25% nhiều năm, đỉnh 31% năm 2002`"]
+  n54 --- n55
+  n56["`Đầu thế kỷ 20 khoảng 10 triệu nông dân nuôi 76 triệu dân Mỹ, cuối thế kỷ chưa tới 1/5 số đó nuôi số dân hơn 3 lần`"]
+  n54 --- n56
+  n57["`Mỹ 1990–1995: hơn 17 triệu người mất việc nhưng thất nghiệp xuống thấp vì người ta chuyển việc`"]
+  n54 --- n57
+  n58["`Thập niên 1990 Mỹ tạo việc làm nhanh gấp 3 châu Âu, khu vực tư nhân châu Âu mất việc làm`"]
+  n54 --- n58
+  n59["`Luật không thêm tổng bảo đảm việc làm mà dồn bấp bênh lên người trẻ và phụ nữ quay lại làm việc`"]
+  n54 --- n59
+  n60["`Pháp 2006: định nới luật để giảm thất nghiệp thanh niên 23%, sinh viên bạo động`"]
+  n59 --- n60
+  n61["`Người đòi cấp phép là người đang hành nghề, và luật thường miễn cho chính họ`"]
+  n54 --- n61
+  n62["`Phù hiệu taxi New York: 10 USD năm 1937, 80.000 USD thập niên 1980, hơn 1 triệu USD năm 2011`"]
+  n61 --- n62
+  n63["`Thông điệp xuyên suốt`"]
+  n0 --- n63
+  n64["`Giá lao động gồm lương, phúc lợi bắt buộc, giờ làm, chi phí sa thải, và giá cao hơn thì thuê ít hơn`"]
+  n63 --- n64
+  n65["`Người đang có việc được bảo vệ, người đứng ngoài gánh thiệt hại mà không ai thấy`"]
+  n63 --- n65
+  n66["`Xét hệ quả về sau, không chỉ ý định: luật nhân đạo sinh ra nhóm hưởng lợi mới giữ nó`"]
+  n63 --- n66
+  n67["`Nâng năng suất và tăng cạnh tranh giữa người thuê là cách bền vững nâng lương và điều kiện làm việc`"]
+  n63 --- n67
+  class n0 root
+  class n1,n11,n23,n32,n45,n54,n63 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58,n59,n60,n61,n62,n64,n65,n66,n67 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần III "Work and Pay", Chương 12.
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần III bàn về lao động và tiền lương. Chương 10 đặt nền: tiền lương trong thị trường cạnh tranh có xu hướng bám theo năng suất của người lao động. Chương 11 áp dụng nguyên lý đó cho luật lương tối thiểu: khi giá lao động bị ép cao hơn năng suất, người ít kỹ năng mất việc.
+
+Chương 12 khép lại Phần III bằng cách đi qua những can thiệp và những đặc thù khác của thị trường lao động: cách đo thất nghiệp, quy định về điều kiện làm việc và giờ làm, nhà máy của công ty đa quốc gia ở nước nghèo, thương lượng tập thể của giới chủ và công đoàn, khái niệm "bóc lột", luật bảo đảm việc làm và cấp phép hành nghề.
+
+Sowell dùng lại nhiều kết luận đã có: kiểm soát giá ở Chương 3, chuyện cửa hàng ở khu thu nhập thấp bán đắt bị gọi là "bóc lột" ở Chương 4, lương thấp ở Thế giới thứ ba ở Chương 10, lương tối thiểu ở Chương 11. Chương 13 (Investment) mở sang Phần IV về thời gian và rủi ro; Chương 23 sẽ quay lại câu hỏi vì sao một số dân tộc và vùng đất nghèo.
+
+## Lưu ý
+
+- Ấn bản thứ năm in năm 2015; số liệu mới nhất trong chương là năm 2013 (thất nghiệp dài hạn ở Tây Ban Nha và Mỹ, lương ở Trung Quốc và Ấn Độ, vụ sập nhà máy ở Bangladesh). Nhiều số liệu khác cũ hơn: thời gian nghỉ năm 2005, thị phần công đoàn năm 2007, đợt nắng nóng ở Pháp tháng 8 năm 2003 (Sowell chỉ ghi "tháng 8", người tổng hợp bổ sung năm), giá phù hiệu taxi New York năm 2011.
+- Một số điều đã thay đổi từ đó: tỷ lệ thất nghiệp Mỹ giảm sâu trong cuối thập niên 2010 rồi tăng vọt trong đại dịch năm 2020 và lại giảm; giá phù hiệu taxi New York sụp mạnh sau khi Uber và Lyft phổ biến; tỷ lệ người lao động Mỹ là đoàn viên công đoàn tiếp tục giảm; lương ở Trung Quốc tiếp tục tăng, khiến một phần sản xuất thâm dụng lao động chuyển sang các nước có lương thấp hơn như Việt Nam và Bangladesh.
+- Chương có **1 chú thích chân trang** của Sowell (về việc chính phủ thuê tư nhân làm một số dịch vụ công), đã đưa vào mục 7 phần Nội dung chi tiết và Phần 7 của Sơ đồ.
+- Một chi tiết có thể không chính xác: Sowell viết mức lương cao nhất 80.000 USD của Babe Ruth là "ngay cả theo giá năm 1932", trong khi theo các tư liệu bóng chày thường gặp, 80.000 USD là lương của Ruth các năm 1930–1931, còn năm 1932 là 75.000 USD; điều này không ảnh hưởng tới lập luận.
+- Trong text, "Job Security" được trình bày như một tiểu mục nhỏ đặt ngay sau phần "Exploitation"; bản tổng hợp tách nó thành mục riêng cho dễ theo dõi.
+- Các câu trích là bản dịch của người tổng hợp.

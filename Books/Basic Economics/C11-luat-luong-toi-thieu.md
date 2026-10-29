@@ -1,11 +1,16 @@
 # Chương 11 — Luật lương tối thiểu (Minimum Wage Laws)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần III "Work and Pay", Chương 11.
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 3 (Price Controls) đã cho thấy khi nhà nước ấn định giá cao hơn mức thị trường thì hàng hoá bị dư thừa, với ví dụ chính là chương trình hỗ trợ giá nông sản. Chương 10 (Productivity and Pay) giải thích rằng tiền lương của người lao động phụ thuộc vào năng suất của họ, và đã nhắc tới việc các doanh nghiệp Nam Phi dùng nhiều máy móc trên mỗi công nhân vì luật lao động làm lao động đắt lên. Chương 11 áp dụng đúng logic kiểm soát giá của Chương 3 vào thị trường lao động: lương tối thiểu là một mức giá sàn cho lao động, và phần dư thừa của nó mang hình thức thất nghiệp. Chương 12 (Special Problems in Labor Markets) sẽ tiếp tục với các vấn đề khác của thị trường lao động như công đoàn, an toàn lao động và luật bảo đảm việc làm.
-**Ý chính:** Sowell muốn người đọc hiểu rằng **luật không thể làm cho năng suất của một người lao động đáng giá bằng mức lương mà luật bắt phải trả**. Nếu năng suất thấp hơn mức đó, người lao động sẽ không được thuê, và mức "lương tối thiểu thật" của họ là bằng không. Người bị thiệt nhiều nhất là người trẻ, ít kinh nghiệm, ít kỹ năng và người thuộc các nhóm thiểu số, vì họ mất cả khoản lương thấp lẫn cơ hội tích luỹ kinh nghiệm để sau này được trả cao hơn. Ví dụ trung tâm là lịch sử thất nghiệp của thanh thiếu niên da đen ở Mỹ: năm 1948, trước khi lương tối thiểu bắt đầu được nâng liên tục từ 1950, tỷ lệ thất nghiệp của thiếu niên da đen 16–17 tuổi là 9,4%, thấp hơn của thiếu niên da trắng cùng tuổi (10,2%); trong các thập niên sau, tỷ lệ này tăng lên gấp nhiều lần và cách xa tỷ lệ của người da trắng. Sowell bổ sung bằng chứng từ châu Âu, Canada, Úc, Nam Phi và Tây Phi thời thuộc địa, nơi lương tối thiểu do áp lực dư luận (không do luật) cũng tạo ra hàng đoàn người xin việc không có chỗ làm.
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2013–2014; các số liệu mới nhất trong chương là của năm 2011–2013 (thất nghiệp Thụy Sĩ tháng 1/2013, hồ sơ người hưởng lương tối thiểu ở Mỹ năm 2012). Một số chi tiết đã thay đổi từ đó: Đức, nước mà Sowell mô tả là không có luật lương tối thiểu quốc gia, đã áp dụng lương tối thiểu toàn quốc từ năm 2015; cử tri Thụy Sĩ bác bỏ đề xuất lương tối thiểu quốc gia trong cuộc trưng cầu năm 2014, nhưng sau đó một vài bang (canton) đã tự đặt lương tối thiểu riêng; Nam Phi áp dụng lương tối thiểu quốc gia từ năm 2019; Hồng Kông đã có lương tối thiểu theo luật từ năm 2011 (Sowell chỉ nói tới năm 1991, khi Hồng Kông chưa có luật này). Ở Mỹ, lương tối thiểu liên bang đứng yên ở mức đặt năm 2009, trong khi nhiều bang và thành phố đã nâng mức riêng lên cao hơn đáng kể. Chương này có 1 chú thích chân trang của Sowell (về lỗi khảo sát chỉ các doanh nghiệp còn tồn tại); nội dung đã được đưa vào mục 4 của Nội dung chi tiết và vào Sơ đồ phần 4. Các câu trích là bản dịch của người tổng hợp.
+Sowell muốn người đọc hiểu rằng **luật không thể làm cho năng suất của một người lao động đáng giá bằng mức lương mà luật bắt phải trả**.
+
+Nếu năng suất thấp hơn mức đó, người lao động sẽ không được thuê, và mức "lương tối thiểu thật" của họ là bằng không.
+
+Người bị thiệt nhiều nhất là người trẻ, ít kinh nghiệm, ít kỹ năng và người thuộc các nhóm thiểu số, vì họ mất cả khoản lương thấp lẫn cơ hội tích luỹ kinh nghiệm để sau này được trả cao hơn.
+
+Ví dụ trung tâm là lịch sử thất nghiệp của thanh thiếu niên da đen ở Mỹ: năm 1948, trước khi lương tối thiểu bắt đầu được nâng liên tục từ 1950, tỷ lệ thất nghiệp của thiếu niên da đen 16–17 tuổi là 9,4%, thấp hơn của thiếu niên da trắng cùng tuổi (10,2%). Trong các thập niên sau, tỷ lệ này tăng lên gấp nhiều lần và cách xa tỷ lệ của người da trắng.
+
+Sowell bổ sung bằng chứng từ châu Âu, Canada, Úc, Nam Phi và Tây Phi thời thuộc địa, nơi lương tối thiểu do áp lực dư luận (không do luật) cũng tạo ra hàng đoàn người xin việc không có chỗ làm.
 
 ## Sơ đồ
 
@@ -451,7 +456,11 @@ So sánh Canada với Mỹ cho thấy mô hình tương tự. Trong một giai �
 
 Sowell cho biết một số chính phủ đã muộn màng nhận ra mối liên hệ giữa lương tối thiểu và thất nghiệp, và chọn cách để lạm phát bào mòn giá trị thực của lương tối thiểu thay vì công khai bãi bỏ luật, vì bãi bỏ là rủi ro chính trị khi nhiều cử tri tin rằng luật này có lợi cho người lao động. Luật thực sự có lợi cho những người vẫn giữ được việc, mà Sowell gọi là những người "ở bên trong nhìn ra", nhưng cái giá do những người thất nghiệp "ở bên ngoài nhìn vào" gánh chịu.
 
-Công đoàn cũng được lợi và là một trong những bên ủng hộ lương tối thiểu mạnh nhất, dù đoàn viên của họ thường được trả cao hơn nhiều so với mức tối thiểu. Sowell giải thích: cũng như hầu hết hàng hoá có thể sản xuất bằng nhiều lao động và ít vốn hoặc ngược lại, hầu hết sản phẩm có thể làm ra bằng những tỷ lệ khác nhau giữa lao động tay nghề thấp và lao động tay nghề cao, tuỳ giá tương đối của hai loại. Vì vậy, công nhân có kinh nghiệm trong công đoàn thực chất đang cạnh tranh việc làm với người trẻ, ít kinh nghiệm, ít kỹ năng, ăn lương ở mức hoặc gần mức tối thiểu. Lương tối thiểu càng cao, người tay nghề thấp càng dễ bị thay bằng đoàn viên công đoàn có tay nghề và kinh nghiệm. Sowell so sánh: doanh nghiệp xin chính phủ đánh thuế quan lên hàng nhập khẩu cạnh tranh với sản phẩm của mình; công đoàn dùng luật lương tối thiểu như thuế quan để đẩy giá lao động ngoài công đoàn lên.
+Công đoàn cũng được lợi và là một trong những bên ủng hộ lương tối thiểu mạnh nhất, dù đoàn viên của họ thường được trả cao hơn nhiều so với mức tối thiểu.
+
+Sowell giải thích: cũng như hầu hết hàng hoá có thể sản xuất bằng nhiều lao động và ít vốn hoặc ngược lại, hầu hết sản phẩm có thể làm ra bằng những tỷ lệ khác nhau giữa lao động tay nghề thấp và lao động tay nghề cao, tuỳ giá tương đối của hai loại. Vì vậy, công nhân có kinh nghiệm trong công đoàn thực chất đang cạnh tranh việc làm với người trẻ, ít kinh nghiệm, ít kỹ năng, ăn lương ở mức hoặc gần mức tối thiểu. Lương tối thiểu càng cao, người tay nghề thấp càng dễ bị thay bằng đoàn viên công đoàn có tay nghề và kinh nghiệm.
+
+Sowell so sánh: doanh nghiệp xin chính phủ đánh thuế quan lên hàng nhập khẩu cạnh tranh với sản phẩm của mình; công đoàn dùng luật lương tối thiểu như thuế quan để đẩy giá lao động ngoài công đoàn lên.
 
 Các chiến dịch tăng lương tối thiểu thường nói về "lương đủ sống" (living wage) để nuôi một gia đình bốn người. Hồ sơ thực tế của người hưởng lương tối thiểu ở Mỹ năm 2012 cho thấy hình ảnh khác:
 
@@ -522,11 +531,17 @@ Tác động của lương tối thiểu phi chính thức rất giống luật 
 | Cùng hãng đó, tháng 6/1950 | Định dựng xưởng ép lạc; chưa lắp máy, chưa đăng tuyển mà đã nhận khoảng 700 thư xin việc |
 | Nhà máy bia của người châu Âu và nhà máy văn phòng phẩm mới mở | Liên tục nhận hàng loạt đơn xin việc |
 
-Hơn nửa thế kỷ sau, tình hình về cơ bản không đổi. *New York Times* kể rằng khi hãng Tiger Wheels mở nhà máy bánh xe ở một thị trấn công nghiệp đã tàn lụi của Nam Phi, đám đông người xin việc lớn tới mức giám đốc điều hành Eddie Keizan cho dựng mái tôn để che nắng trưa cho họ. Keizan kể rằng hàng trăm người ngồi ngoài cổng, giữa trời nắng, nhiều ngày liền; hãng đã hết chỗ nhưng họ không tin. Vì sao lương không giảm xuống để tuyển thêm người như lý thuyết cung cầu dự đoán? Theo cùng bài báo, ở các nước đang phát triển khác, lực lượng đông đảo lao động phổ thông giữ cho chi phí lao động thấp, nhưng lãnh đạo Nam Phi, thề không để đất nước thành "xưởng bóc lột" của phương Tây, đã chiều theo các công đoàn có thế lực chính trị đòi thêm bảo vệ và phúc lợi. Các "bảo vệ và phúc lợi" đó gồm lương tối thiểu cao hơn năng suất của nhiều công nhân Nam Phi. Kết quả: Tiger Wheels, hãng đã làm bánh xe nhôm chỉ ở Nam Phi suốt hai thập kỷ, khi mở rộng sản xuất đã thuê thêm công nhân ở Ba Lan, nơi hãng có lãi, thay vì ở Nam Phi, nơi hãng chỉ hoà vốn hoặc lỗ.
+Hơn nửa thế kỷ sau, tình hình về cơ bản không đổi. *New York Times* kể rằng khi hãng Tiger Wheels mở nhà máy bánh xe ở một thị trấn công nghiệp đã tàn lụi của Nam Phi, đám đông người xin việc lớn tới mức giám đốc điều hành Eddie Keizan cho dựng mái tôn để che nắng trưa cho họ. Keizan kể rằng hàng trăm người ngồi ngoài cổng, giữa trời nắng, nhiều ngày liền; hãng đã hết chỗ nhưng họ không tin.
+
+Vì sao lương không giảm xuống để tuyển thêm người như lý thuyết cung cầu dự đoán? Theo cùng bài báo, ở các nước đang phát triển khác, lực lượng đông đảo lao động phổ thông giữ cho chi phí lao động thấp, nhưng lãnh đạo Nam Phi, thề không để đất nước thành "xưởng bóc lột" của phương Tây, đã chiều theo các công đoàn có thế lực chính trị đòi thêm bảo vệ và phúc lợi. Các "bảo vệ và phúc lợi" đó gồm lương tối thiểu cao hơn năng suất của nhiều công nhân Nam Phi.
+
+Kết quả: Tiger Wheels, hãng đã làm bánh xe nhôm chỉ ở Nam Phi suốt hai thập kỷ, khi mở rộng sản xuất đã thuê thêm công nhân ở Ba Lan, nơi hãng có lãi, thay vì ở Nam Phi, nơi hãng chỉ hoà vốn hoặc lỗ.
 
 Theo Sowell, nỗi bất hạnh của những người châu Phi muốn làm mà không được tuyển chỉ là một phần thiệt hại. Phần còn lại là sản lượng mà họ lẽ ra làm ra, thứ rất quan trọng với người tiêu dùng ở một vùng rất nghèo, thiếu nhiều thứ mà người ở xã hội giàu coi là hiển nhiên.
 
-Sowell đặt câu hỏi: lương cao giả tạo ở Thế giới thứ ba có lợi cho người lao động nói chung không? Người có việc (ở bên trong nhìn ra) rõ ràng được lợi, người không có việc (ở bên ngoài nhìn vào) bị thiệt. Tính cho cả dân số, kể cả người tiêu dùng, khó chứng minh có lợi ròng, vì khi người muốn làm không tìm được việc thì hàng tiêu dùng làm ra ít hơn. Theo Sowell, nhóm được lợi rõ ràng duy nhất là người ở nước giàu, những người có được cảm giác đang giúp người nước nghèo, và các lãnh đạo nước nghèo quá tự ái nên không chịu để công nhân nước mình được thuê với mức lương tương xứng với năng suất. Công nhân Nam Phi có năng suất gấp đôi công nhân Indonesia nhưng được trả gấp năm, khi họ tìm được việc. Họ không "dư thừa" hay "không thể tuyển dụng" theo nghĩa nào khác ngoài việc các chính trị gia đã đẩy giá lao động của họ lên cao tới mức không ai thuê.
+Sowell đặt câu hỏi: lương cao giả tạo ở Thế giới thứ ba có lợi cho người lao động nói chung không? Người có việc (ở bên trong nhìn ra) rõ ràng được lợi, người không có việc (ở bên ngoài nhìn vào) bị thiệt. Tính cho cả dân số, kể cả người tiêu dùng, khó chứng minh có lợi ròng, vì khi người muốn làm không tìm được việc thì hàng tiêu dùng làm ra ít hơn.
+
+Theo Sowell, nhóm được lợi rõ ràng duy nhất là người ở nước giàu, những người có được cảm giác đang giúp người nước nghèo, và các lãnh đạo nước nghèo quá tự ái nên không chịu để công nhân nước mình được thuê với mức lương tương xứng với năng suất. Công nhân Nam Phi có năng suất gấp đôi công nhân Indonesia nhưng được trả gấp năm, khi họ tìm được việc. Họ không "dư thừa" hay "không thể tuyển dụng" theo nghĩa nào khác ngoài việc các chính trị gia đã đẩy giá lao động của họ lên cao tới mức không ai thuê.
 
 ### 7. Lương tối thiểu phi chính thức (Informal Minimum Wages, tiếp): thay lao động bằng máy móc ở Nam Phi và châu Âu
 
@@ -539,13 +554,19 @@ Như Chương 10 đã nêu, các doanh nghiệp Nam Phi dùng nhiều vốn trê
 
 Với chi phí lao động cao như vậy, chủ doanh nghiệp có lợi khi dùng nhiều máy móc hơn. Nhưng Sowell nhấn mạnh đó không phải hiệu quả cao hơn cho cả nền kinh tế, vì nền kinh tế tệ hơn khi có nhiều người thất nghiệp, tức nhiều nguồn lực bị bỏ không thay vì được phân bổ vào sản xuất.
 
-Nam Phi không phải trường hợp duy nhất. Một nghiên cứu của NBER so sánh việc làm của lao động tay nghề thấp ở châu Âu và Mỹ thấy rằng từ thập niên 1970, lao động tay nghề thấp ở các nước châu Âu (nơi lương tối thiểu cao hơn và chủ phải trả nhiều phúc lợi bắt buộc hơn) bị máy móc thay thế nhiều hơn hẳn. Nghiên cứu chỉ ra rằng chính từ thập niên 1970, thị trường lao động châu Âu chuyển sang bị nhà nước và công đoàn kiểm soát nhiều hơn, trong khi ở Mỹ ảnh hưởng của nhà nước và công đoàn lên thị trường lao động giảm đi. Kết quả là dù Mỹ đổi mới công nghệ nhiều hơn, việc thay lao động tay nghề thấp bằng vốn lại diễn ra ở châu Âu nhiều hơn. Đôi khi công việc tay nghề thấp không bị máy thay thế mà bị bỏ hẳn. Nghiên cứu mô tả: gần như không thể tìm thấy người giữ xe ở Paris, Frankfurt hay Milan, trong khi ở New York họ rất phổ biến; đến một khách sạn bình thường ở Mỹ, khách được cả một đội người khiêng hành lý, mở cửa đón tiếp, còn ở khách sạn tương tự tại châu Âu khách thường tự xách đồ. Các tác giả cho rằng đây không phải chuyện vặt của khách du lịch, mà là dấu hiệu của một hiện tượng sâu rộng: ở châu Âu, việc làm tay nghề thấp bị thay bằng máy hoặc bị loại bỏ nhiều hơn ở Mỹ, trong khi tiến bộ công nghệ ở khu vực công nghệ cao lại nhanh hơn ở Mỹ.
+Nam Phi không phải trường hợp duy nhất. Một nghiên cứu của NBER so sánh việc làm của lao động tay nghề thấp ở châu Âu và Mỹ thấy rằng từ thập niên 1970, lao động tay nghề thấp ở các nước châu Âu (nơi lương tối thiểu cao hơn và chủ phải trả nhiều phúc lợi bắt buộc hơn) bị máy móc thay thế nhiều hơn hẳn. Nghiên cứu chỉ ra rằng chính từ thập niên 1970, thị trường lao động châu Âu chuyển sang bị nhà nước và công đoàn kiểm soát nhiều hơn, trong khi ở Mỹ ảnh hưởng của nhà nước và công đoàn lên thị trường lao động giảm đi. Kết quả là dù Mỹ đổi mới công nghệ nhiều hơn, việc thay lao động tay nghề thấp bằng vốn lại diễn ra ở châu Âu nhiều hơn.
+
+Đôi khi công việc tay nghề thấp không bị máy thay thế mà bị bỏ hẳn. Nghiên cứu mô tả: gần như không thể tìm thấy người giữ xe ở Paris, Frankfurt hay Milan, trong khi ở New York họ rất phổ biến; đến một khách sạn bình thường ở Mỹ, khách được cả một đội người khiêng hành lý, mở cửa đón tiếp, còn ở khách sạn tương tự tại châu Âu khách thường tự xách đồ.
+
+Các tác giả cho rằng đây không phải chuyện vặt của khách du lịch, mà là dấu hiệu của một hiện tượng sâu rộng: ở châu Âu, việc làm tay nghề thấp bị thay bằng máy hoặc bị loại bỏ nhiều hơn ở Mỹ, trong khi tiến bộ công nghệ ở khu vực công nghệ cao lại nhanh hơn ở Mỹ.
 
 ### 8. Lương tối thiểu phi chính thức (Informal Minimum Wages, tiếp): giá sàn làm tăng yêu cầu tuyển dụng, và lập luận về chủ trả lương thấp
 
 Sowell dùng lại một kết luận về kiểm soát giá để giải thích chuyện "không thể tuyển dụng". Một mức giá do nhà nước đặt thấp hơn mức thị trường tự do thường làm chất lượng sản phẩm giảm, vì khi thiếu hàng, người mua buộc phải nhận hàng kém hơn. Ngược lại, một mức giá đặt cao hơn mức thị trường thường làm chất lượng trung bình tăng, vì khi dư hàng, người mua có thể chọn lọc và chỉ mua những món tốt nhất. Trên thị trường lao động, điều này có nghĩa là yêu cầu tuyển dụng sẽ tăng lên, và một số người lẽ ra được thuê trên thị trường tự do sẽ thành "không thể tuyển dụng" khi có luật lương tối thiểu. Sowell viết rằng tính "không thể tuyển dụng", cũng như thiếu hụt và dư thừa, không độc lập với giá.
 
-Trên thị trường tự do, người năng suất thấp được thuê ở mức lương thấp dễ như người năng suất cao được thuê ở mức lương cao. Bằng chứng lịch sử: trong giai đoạn dài từ cuối thế kỷ 19 tới giữa thế kỷ 20, người Mỹ da đen ở miền Nam (nơi phần lớn họ sống) được học ít hơn và kém hơn người da trắng, nhưng tỷ lệ tham gia lực lượng lao động của công nhân da đen vẫn hơi cao hơn công nhân da trắng. Trong phần lớn giai đoạn đó chưa có luật lương tối thiểu đẩy họ ra khỏi việc làm. Ngay cả sau khi có luật lương tối thiểu toàn quốc năm 1938, lạm phát thời chiến thập niên 1940 đã đẩy lương thị trường vượt mức luật định, khiến luật gần như không còn tác dụng vào cuối thập niên 1940. Năm 1950, luật được sửa đổi, mở đầu một chuỗi các lần nâng lương tối thiểu.
+Trên thị trường tự do, người năng suất thấp được thuê ở mức lương thấp dễ như người năng suất cao được thuê ở mức lương cao. Bằng chứng lịch sử: trong giai đoạn dài từ cuối thế kỷ 19 tới giữa thế kỷ 20, người Mỹ da đen ở miền Nam (nơi phần lớn họ sống) được học ít hơn và kém hơn người da trắng, nhưng tỷ lệ tham gia lực lượng lao động của công nhân da đen vẫn hơi cao hơn công nhân da trắng.
+
+Trong phần lớn giai đoạn đó chưa có luật lương tối thiểu đẩy họ ra khỏi việc làm. Ngay cả sau khi có luật lương tối thiểu toàn quốc năm 1938, lạm phát thời chiến thập niên 1940 đã đẩy lương thị trường vượt mức luật định, khiến luật gần như không còn tác dụng vào cuối thập niên 1940. Năm 1950, luật được sửa đổi, mở đầu một chuỗi các lần nâng lương tối thiểu.
 
 Sowell cũng bác lập luận rằng chủ trả lương thấp làm người lao động thiệt hơn. Nếu đúng như vậy thì khó hiểu vì sao người lao động lại đến làm cho họ. Một câu trả lời là "vì họ không có lựa chọn khác". Nhưng câu trả lời đó ngụ ý rằng chủ trả lương thấp là lựa chọn tốt hơn những gì người lao động đó có được, tức là chủ không làm họ thiệt. Vì vậy lập luận này tự mâu thuẫn. Theo Sowell, điều thật sự làm người lương thấp thiệt là xoá bớt một trong những lựa chọn vốn đã ít ỏi của họ. Điều này đặc biệt có hại vì người lương thấp thường là người trẻ mới vào nghề, với họ kinh nghiệm làm việc về lâu dài có giá trị hơn khoản lương trước mắt.
 
@@ -592,7 +613,11 @@ Nói gọn, tỷ lệ thất nghiệp của thiếu niên khi đó chỉ bằng 
 
 Khoảng cách lớn giữa thất nghiệp của nam thiếu niên da đen và da trắng cũng bắt đầu từ khi lương tối thiểu được nâng và mở rộng phạm vi áp dụng trong thập niên 1950. Sowell kết thúc chương bằng lập luận: các cách giải thích thông thường cho thất nghiệp cao ở thiếu niên da đen (học vấn kém hơn, thiếu kỹ năng, phân biệt chủng tộc) không thể giải thích việc thất nghiệp tăng lên, vì tất cả các bất lợi đó còn tệ hơn ở giai đoạn trước, khi thất nghiệp của thiếu niên da đen thấp hơn nhiều.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một quán cà phê nhỏ thuê 4 nhân viên phục vụ bán thời gian là sinh viên, bình quân mỗi người làm ra cho quán khoảng 25.000 đồng mỗi giờ (phần doanh thu tăng thêm trừ nguyên liệu), và được trả 22.000 đồng mỗi giờ. Nếu mức lương tối thiểu theo giờ được nâng lên 27.000 đồng, mỗi giờ thuê một nhân viên năng suất trung bình làm quán lỗ 2.000 đồng. Chủ quán có thể giữ 2 người giỏi nhất (năng suất 28.000–30.000 đồng/giờ), cho 2 người còn lại nghỉ, và lắp máy gọi món tự động. Hai sinh viên giữ được việc nhận thêm 5.000 đồng mỗi giờ; hai sinh viên bị cho nghỉ nhận mức lương bằng không và mất luôn cơ hội học cách làm việc với khách. Lần tuyển sau, chủ quán sẽ ghi thêm yêu cầu "có kinh nghiệm", đúng như Sowell mô tả: khi lương bị đặt cao hơn năng suất, người ít kinh nghiệm nhất bị loại đầu tiên.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một quán cà phê nhỏ thuê 4 nhân viên phục vụ bán thời gian là sinh viên, bình quân mỗi người làm ra cho quán khoảng 25.000 đồng mỗi giờ (phần doanh thu tăng thêm trừ nguyên liệu), và được trả 22.000 đồng mỗi giờ. Nếu mức lương tối thiểu theo giờ được nâng lên 27.000 đồng, mỗi giờ thuê một nhân viên năng suất trung bình làm quán lỗ 2.000 đồng.
+
+Chủ quán có thể giữ 2 người giỏi nhất (năng suất 28.000–30.000 đồng/giờ), cho 2 người còn lại nghỉ, và lắp máy gọi món tự động. Hai sinh viên giữ được việc nhận thêm 5.000 đồng mỗi giờ; hai sinh viên bị cho nghỉ nhận mức lương bằng không và mất luôn cơ hội học cách làm việc với khách.
+
+Lần tuyển sau, chủ quán sẽ ghi thêm yêu cầu "có kinh nghiệm", đúng như Sowell mô tả: khi lương bị đặt cao hơn năng suất, người ít kinh nghiệm nhất bị loại đầu tiên.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -711,15 +736,21 @@ Chú thích của Sowell cho thấy một ngành có thể giảm 12% việc là
 
 ### Sowell đơn giản hoá khi chỉ trình bày một phía của bằng chứng thực nghiệm
 
-Chương nhấn mạnh tổng quan NBER năm 2006 và khảo sát cho thấy 90% nhà kinh tế Mỹ đồng ý lương tối thiểu làm tăng thất nghiệp, nhưng không trình bày lập luận của phía bên kia. Từ thập niên 1990, nhiều nghiên cứu dùng phương pháp so sánh các vùng giáp ranh hoặc theo dõi phân bố lương thấy tác động lên việc làm của các lần tăng vừa phải là nhỏ hoặc khó phát hiện. Lời giải thích lý thuyết là trên nhiều thị trường lao động địa phương, chủ thuê có một mức quyền ép lương (độc quyền mua lao động), điều mà Sowell không bàn. Điểm hai phía gần đồng thuận hơn là: tác động phụ thuộc mạnh vào mức lương tối thiểu so với lương trung vị. So sánh Úc (gần 60%) với Mỹ (dưới 40%) của chính Sowell gợi ý đúng điều đó, nhưng ông dùng nó như bằng chứng chung chống mọi mức lương tối thiểu.
+Chương nhấn mạnh tổng quan NBER năm 2006 và khảo sát cho thấy 90% nhà kinh tế Mỹ đồng ý lương tối thiểu làm tăng thất nghiệp, nhưng không trình bày lập luận của phía bên kia. Từ thập niên 1990, nhiều nghiên cứu dùng phương pháp so sánh các vùng giáp ranh hoặc theo dõi phân bố lương thấy tác động lên việc làm của các lần tăng vừa phải là nhỏ hoặc khó phát hiện. Lời giải thích lý thuyết là trên nhiều thị trường lao động địa phương, chủ thuê có một mức quyền ép lương (độc quyền mua lao động), điều mà Sowell không bàn.
+
+Điểm hai phía gần đồng thuận hơn là: tác động phụ thuộc mạnh vào mức lương tối thiểu so với lương trung vị. So sánh Úc (gần 60%) với Mỹ (dưới 40%) của chính Sowell gợi ý đúng điều đó, nhưng ông dùng nó như bằng chứng chung chống mọi mức lương tối thiểu.
 
 ### Một số so sánh giữa các nước dễ bị nhiễu bởi nhiều yếu tố khác
 
-Thất nghiệp thấp ở Thụy Sĩ, Singapore, Hồng Kông hay Mỹ thời Coolidge có thể do nhiều nguyên nhân ngoài việc không có lương tối thiểu: cơ cấu kinh tế, chính sách nhập cư, hệ thống đào tạo nghề, giai đoạn chu kỳ kinh tế. Sowell tự thừa nhận việc tách riêng tác động của lương tối thiểu là khó, nhưng các bảng so sánh của ông vẫn được trình bày như bằng chứng trực tiếp. Ví dụ Đức cũng cho thấy điều này: Sowell giải thích thất nghiệp dài hạn ở Đức bằng phúc lợi bắt buộc và luật bảo đảm việc làm, chứ không bằng lương tối thiểu, vì Đức khi đó không có lương tối thiểu quốc gia. Phần lịch sử thiếu niên da đen ở Mỹ thuyết phục hơn vì so sánh cùng một nhóm theo thời gian, nhưng giai đoạn sau 1950 còn có những thay đổi lớn khác (cơ giới hoá nông nghiệp miền Nam khiến hàng triệu người da đen rời nông thôn ra thành thị) mà chương không nhắc.
+Thất nghiệp thấp ở Thụy Sĩ, Singapore, Hồng Kông hay Mỹ thời Coolidge có thể do nhiều nguyên nhân ngoài việc không có lương tối thiểu: cơ cấu kinh tế, chính sách nhập cư, hệ thống đào tạo nghề, giai đoạn chu kỳ kinh tế. Sowell tự thừa nhận việc tách riêng tác động của lương tối thiểu là khó, nhưng các bảng so sánh của ông vẫn được trình bày như bằng chứng trực tiếp.
+
+Ví dụ Đức cũng cho thấy điều này: Sowell giải thích thất nghiệp dài hạn ở Đức bằng phúc lợi bắt buộc và luật bảo đảm việc làm, chứ không bằng lương tối thiểu, vì Đức khi đó không có lương tối thiểu quốc gia. Phần lịch sử thiếu niên da đen ở Mỹ thuyết phục hơn vì so sánh cùng một nhóm theo thời gian, nhưng giai đoạn sau 1950 còn có những thay đổi lớn khác (cơ giới hoá nông nghiệp miền Nam khiến hàng triệu người da đen rời nông thôn ra thành thị) mà chương không nhắc.
 
 ### Sau khi sách ra đời, nhiều quốc gia và địa phương đã tăng lương tối thiểu, tạo thêm dữ liệu để kiểm chứng lập luận của Sowell
 
-Các thay đổi dưới đây do người tổng hợp nêu định tính, không kèm số liệu: Đức áp dụng lương tối thiểu quốc gia năm 2015, Nam Phi năm 2019; Anh nâng mạnh lương tối thiểu cho người lớn tuổi hơn từ năm 2016; nhiều bang và thành phố Mỹ đã nâng lương tối thiểu riêng lên mức cao hơn nhiều so với mức liên bang. Các đợt tăng này tạo ra lượng lớn dữ liệu mới, và giới kinh tế vẫn tranh luận về kết quả: nhiều nghiên cứu thấy tác động lên tổng việc làm của các đợt tăng vừa phải nhỏ hơn dự đoán của mô hình cung cầu đơn giản, trong khi các nghiên cứu khác thấy giờ làm giảm, tuyển dụng người trẻ chậm lại hoặc tự động hoá tăng ở những nơi lương tối thiểu cao so với mặt bằng lương địa phương. Các con số Sowell đưa ra về Thụy Sĩ, Hồng Kông hay Đức vì vậy chỉ phản ánh tình hình lúc Sowell viết sách, trước các thay đổi này.
+Các thay đổi dưới đây do người tổng hợp nêu định tính, không kèm số liệu: Đức áp dụng lương tối thiểu quốc gia năm 2015, Nam Phi năm 2019; Anh nâng mạnh lương tối thiểu cho người lớn tuổi hơn từ năm 2016; nhiều bang và thành phố Mỹ đã nâng lương tối thiểu riêng lên mức cao hơn nhiều so với mức liên bang.
+
+Các đợt tăng này tạo ra lượng lớn dữ liệu mới, và giới kinh tế vẫn tranh luận về kết quả: nhiều nghiên cứu thấy tác động lên tổng việc làm của các đợt tăng vừa phải nhỏ hơn dự đoán của mô hình cung cầu đơn giản, trong khi các nghiên cứu khác thấy giờ làm giảm, tuyển dụng người trẻ chậm lại hoặc tự động hoá tăng ở những nơi lương tối thiểu cao so với mặt bằng lương địa phương. Các con số Sowell đưa ra về Thụy Sĩ, Hồng Kông hay Đức vì vậy chỉ phản ánh tình hình lúc Sowell viết sách, trước các thay đổi này.
 
 ### Quan điểm trái chiều: lương tối thiểu như công cụ phân phối và chống ép giá
 
@@ -731,3 +762,151 @@ Phía ủng hộ lương tối thiểu không phủ nhận lý thuyết cung c�
 - **Trong đầu tư.** Ngành dùng nhiều lao động phổ thông với biên lợi nhuận mỏng (bán lẻ, ăn uống, may mặc, gia công) nhạy cảm nhất với lương tối thiểu và các khoản đóng góp bắt buộc. Câu chuyện Tiger Wheels chuyển sản xuất sang Ba Lan cho thấy chi phí lao động tương đối giữa các nước là một yếu tố quyết định nơi đặt nhà máy, đáng theo dõi khi đánh giá dòng vốn đầu tư trực tiếp nước ngoài.
 - **Trong nghề nghiệp.** Công việc khởi đầu lương thấp có giá trị lớn nhất ở kinh nghiệm nó mang lại. Người trẻ nên đánh giá một công việc đầu đời theo kỹ năng học được, không chỉ theo mức lương; và người có năng suất vượt xa mức lương sàn ít bị ảnh hưởng khi lương sàn tăng.
 - **Khi đọc tin chính sách.** Ở Việt Nam, lương tối thiểu vùng được điều chỉnh định kỳ qua thương lượng ba bên giữa đại diện người lao động, người sử dụng lao động và nhà nước, và mức đóng bảo hiểm xã hội bắt buộc cũng gắn với tiền lương. Khi đọc tin về một đợt điều chỉnh, câu hỏi theo tinh thần Sowell là: mức mới bằng bao nhiêu phần trăm so với lương trung vị của từng vùng, ngành nào dùng nhiều lao động ở sát mức sàn, và người trẻ hoặc lao động mới vào nghề ở các vùng có mặt bằng lương thấp có bị ảnh hưởng nhiều hơn không. Khi một nghiên cứu nói việc tăng lương "không làm giảm việc làm", nên kiểm tra xem nó có chỉ khảo sát các doanh nghiệp còn hoạt động hay không.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 11 trên một trang: sáu nhánh lớn đi theo các mục 1–10 của phần Nội dung chi tiết (lương tối thiểu là giá sàn cho lao động, thất nghiệp và thời gian thất nghiệp, ai được lợi, bằng chứng thực nghiệm và lỗi khảo sát doanh nghiệp sống sót, lương tối thiểu phi chính thức và thay lao động bằng máy, tác động không đồng đều lên người trẻ và người da đen), mỗi nhánh ghi cơ chế, ví dụ và con số then chốt của Sowell; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 11: luật không làm năng suất đáng giá bằng mức lương luật bắt trả, nên lương tối thiểu thật luôn bằng không`"]
+  n1["`Mục 1 — Lương tối thiểu là giá sàn cho lao động`"]
+  n0 --- n1
+  n2["`Giá bị nâng giả tạo làm lượng cung tăng, lượng cầu giảm, tạo dư thừa dù là nông sản hay lao động`"]
+  n1 --- n2
+  n3["`Năng suất thấp hơn mức luật định thì người đó khó được thuê`"]
+  n1 --- n3
+  n4["`Chính trị chỉ bàn lợi ích cho người đang nhận lương tối thiểu, bỏ qua người mất việc`"]
+  n1 --- n4
+  n5["`Trong lịch sử, chính quyền đặt lương tối đa hàng thế kỷ trước khi đặt lương tối thiểu`"]
+  n1 --- n5
+  n6["`Đề từ Bryan Caplan: châu Âu điều tiết thị trường lao động tới mức thất nghiệp ngang thời suy thoái nhiều thập kỷ`"]
+  n1 --- n6
+  n7["`Mục 2 và 5 — Thất nghiệp: lao động dư thừa không ai mua lại`"]
+  n0 --- n7
+  n8["`Nhà nước mua nông sản dư thừa nhưng không thuê lao động dư thừa, nên dư thừa thành thất nghiệp`"]
+  n7 --- n8
+  n9["`Người trẻ ngồi không mất cả lương khởi đầu lẫn kinh nghiệm để được trả cao hơn sau này`"]
+  n7 --- n9
+  n10["`Nơi không có luật: Thụy Sĩ 3,1% (2013), Singapore 2,1%, Hồng Kông 1991 dưới 2%, Mỹ thời Coolidge 1,8%`"]
+  n7 --- n10
+  n11["`Phúc lợi bắt buộc có cùng tác động: một nửa chi phí lao động giờ ở Đức, dưới một phần tư ở Mỹ và Nhật`"]
+  n7 --- n11
+  n12["`Canada có lương tối thiểu tương đối cao hơn Mỹ và thất nghiệp cao hơn, Newfoundland 16,9%`"]
+  n7 --- n12
+  n13["`Thất nghiệp từ 1 năm trở lên: Đức 51,5% so với Mỹ 6% (2000), 48% so với 31,3% (2011)`"]
+  n7 --- n13
+  n14["`Bước nhảy của Mỹ do Quốc hội kéo dài thời gian nhận trợ cấp thất nghiệp`"]
+  n13 --- n14
+  n15["`Mục 3 — Ai được lợi: người có việc, công đoàn, khẩu hiệu lương đủ sống`"]
+  n0 --- n15
+  n16["`Người có việc (ở bên trong nhìn ra) được lợi, người thất nghiệp (ở bên ngoài nhìn vào) gánh cái giá`"]
+  n15 --- n16
+  n17["`Công đoàn dùng lương tối thiểu như thuế quan đẩy giá lao động tay nghề thấp ngoài công đoàn lên`"]
+  n15 --- n17
+  n18["`Lương tối thiểu càng cao, người tay nghề thấp càng bị thay bằng đoàn viên tay nghề cao`"]
+  n17 --- n18
+  n19["`Mỹ 2012: 3,6 triệu người hưởng lương tối thiểu, hơn một nửa 16–24 tuổi, 64% số này làm bán thời gian`"]
+  n15 --- n19
+  n20["`42% sống với cha mẹ hoặc họ hàng, chỉ 15% nuôi mình và một người phụ thuộc`"]
+  n19 --- n20
+  n21["`Họ không nuôi gia đình, thường là gia đình đang nuôi họ, thu nhập bình quân gia đình trên 44.000 USD`"]
+  n19 --- n21
+  n22["`Một số chính phủ để lạm phát bào mòn lương tối thiểu thay vì công khai bãi bỏ vì rủi ro chính trị`"]
+  n15 --- n22
+  n23["`Mục 4 — Bằng chứng thực nghiệm và lỗi chỉ khảo sát doanh nghiệp còn tồn tại`"]
+  n0 --- n23
+  n24["`Phần lớn nghiên cứu cho thấy lương tối thiểu giảm việc làm, nhất là của người trẻ, ít kỹ năng, thiểu số`"]
+  n23 --- n24
+  n25["`Nhà kinh tế đồng ý lương tối thiểu tăng thất nghiệp tay nghề thấp: Canada 85%, Mỹ 90%, đa số Pháp và Áo không`"]
+  n23 --- n25
+  n26["`Tổng quan NBER 2006: hàng chục nghiên cứu ở nhiều nước phần lớn củng cố quan điểm truyền thống`"]
+  n23 --- n26
+  n27["`Bên phủ nhận: Bộ Lao động Mỹ, công đoàn, Cosatu, Uỷ ban Lương thấp Anh (dưới 25 tuổi 17,3% so với chung 7,6%)`"]
+  n23 --- n27
+  n28["`Ví dụ số: cả ngành giảm 12% (10.000 còn 8.800 người) nhưng 7 doanh nghiệp sống sót báo tăng 10%`"]
+  n23 --- n28
+  n29["`Ba đường gây thất nghiệp: giảm việc ở mọi doanh nghiệp, đẩy doanh nghiệp yếu phá sản, cản doanh nghiệp mới`"]
+  n28 --- n29
+  n30["`Như phỏng vấn người đã chơi cò quay Nga để chứng minh trò này vô hại`"]
+  n28 --- n30
+  n31["`Mục 6–8 — Lương tối thiểu phi chính thức, thay lao động bằng máy, tính không thể tuyển dụng`"]
+  n0 --- n31
+  n32["`Lương sàn do tập quán, công đoàn, dư luận và tẩy chay quốc tế có tác động giống hệt luật`"]
+  n31 --- n32
+  n33["`Bauer ở Nigeria 1949–1950: 50–60 đơn trong 2 ngày, khoảng 700 thư xin việc cho xưởng ép lạc chưa lắp máy`"]
+  n32 --- n33
+  n34["`Tiger Wheels mở rộng ở Ba Lan (có lãi) thay vì Nam Phi (hoà vốn hoặc lỗ) dù đám đông xin việc ngoài cổng`"]
+  n32 --- n34
+  n35["`Công nhân Nam Phi năng suất gấp đôi Indonesia nhưng lương gấp năm`"]
+  n34 --- n35
+  n36["`Chi phí lao động Nam Phi gấp 3,5 lần vùng năng suất nhất Trung Quốc: dùng máy hiệu quả cho doanh nghiệp, không cho nền kinh tế`"]
+  n31 --- n36
+  n37["`NBER: từ thập niên 1970 châu Âu thay lao động tay nghề thấp bằng máy hoặc bỏ hẳn việc, như người giữ xe ở Paris`"]
+  n31 --- n37
+  n38["`Giá sàn cho phép người mua kén chọn: yêu cầu tuyển dụng tăng, tính không thể tuyển dụng phụ thuộc giá`"]
+  n31 --- n38
+  n39["`Chủ trả lương thấp vẫn là lựa chọn tốt hơn của người lao động, xoá nó là xoá một lựa chọn vốn ít ỏi`"]
+  n31 --- n39
+  n40["`Mục 9–10 — Tác động không đồng đều lên người trẻ và người da đen`"]
+  n0 --- n40
+  n41["`Úc 1978–2002: thất nghiệp dưới 25 tuổi chưa bao giờ dưới 10%, lương tối thiểu gần 60% lương trung vị (Mỹ dưới 40%)`"]
+  n40 --- n41
+  n42["`Dưới 25 tuổi: Pháp trên 20% khi chung 10%, Ý 27%, Tây Ban Nha trên 40% năm 2009`"]
+  n40 --- n42
+  n43["`Châu Âu đặt lương tối thiểu thấp hơn cho thiếu niên, New Zealand miễn tới 1994: thừa nhận ngầm`"]
+  n40 --- n43
+  n44["`Lương tối thiểu từng được cổ vũ công khai để loại người Nhật ở Canada, người da đen ở Mỹ và Nam Phi thập niên 1920`"]
+  n40 --- n44
+  n45["`NIRA 1933 nâng lương ngành dệt miền Nam 70% trong 5 tháng, người da đen mất nửa triệu việc làm`"]
+  n44 --- n45
+  n46["`Năm 1948 thất nghiệp 16–17 tuổi: da đen 9,4%, da trắng 10,2%, năm 1949 da đen 15,8%, chưa bằng một nửa mọi năm 1971–1997`"]
+  n40 --- n46
+  n47["`Khoảng cách da đen và da trắng mở ra từ thập niên 1950 khi lương tối thiểu được nâng và mở rộng`"]
+  n46 --- n47
+  n48["`Học vấn kém, thiếu kỹ năng, kỳ thị còn tệ hơn trước 1950 nên không giải thích được thất nghiệp tăng`"]
+  n46 --- n48
+  n49["`Thông điệp xuyên suốt`"]
+  n0 --- n49
+  n50["`Xét hệ quả với người không được thuê, không chỉ ý định giúp người đang nhận lương`"]
+  n49 --- n50
+  n51["`Muốn tăng lương bền vững phải tăng năng suất, không thể ra lệnh bằng luật`"]
+  n49 --- n51
+  n52["`Người được lợi thấy rõ, người bị thiệt vô hình, nên luật tồn tại về mặt chính trị`"]
+  n49 --- n52
+  n53["`Phần đánh giá: Sowell không bàn độc quyền mua lao động, tác động phụ thuộc mức lương tối thiểu so với lương trung vị`"]
+  n49 --- n53
+  class n0 root
+  class n1,n7,n15,n23,n31,n40,n49 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần III "Work and Pay", Chương 11.
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 3 (Price Controls) đã cho thấy khi nhà nước ấn định giá cao hơn mức thị trường thì hàng hoá bị dư thừa, với ví dụ chính là chương trình hỗ trợ giá nông sản. Chương 10 (Productivity and Pay) giải thích rằng tiền lương của người lao động phụ thuộc vào năng suất của họ, và đã nhắc tới việc các doanh nghiệp Nam Phi dùng nhiều máy móc trên mỗi công nhân vì luật lao động làm lao động đắt lên.
+
+Chương 11 áp dụng đúng logic kiểm soát giá của Chương 3 vào thị trường lao động: lương tối thiểu là một mức giá sàn cho lao động, và phần dư thừa của nó mang hình thức thất nghiệp. Chương 12 (Special Problems in Labor Markets) sẽ tiếp tục với các vấn đề khác của thị trường lao động như công đoàn, an toàn lao động và luật bảo đảm việc làm.
+
+## Lưu ý
+
+- Sách viết khoảng 2013–2014; các số liệu mới nhất trong chương là của năm 2011–2013 (thất nghiệp Thụy Sĩ tháng 1/2013, hồ sơ người hưởng lương tối thiểu ở Mỹ năm 2012).
+- Một số chi tiết đã thay đổi từ đó:
+  - Đức, nước mà Sowell mô tả là không có luật lương tối thiểu quốc gia, đã áp dụng lương tối thiểu toàn quốc từ năm 2015
+  - cử tri Thụy Sĩ bác bỏ đề xuất lương tối thiểu quốc gia trong cuộc trưng cầu năm 2014, nhưng sau đó một vài bang (canton) đã tự đặt lương tối thiểu riêng
+  - Nam Phi áp dụng lương tối thiểu quốc gia từ năm 2019
+  - Hồng Kông đã có lương tối thiểu theo luật từ năm 2011 (Sowell chỉ nói tới năm 1991, khi Hồng Kông chưa có luật này)
+- Ở Mỹ, lương tối thiểu liên bang đứng yên ở mức đặt năm 2009, trong khi nhiều bang và thành phố đã nâng mức riêng lên cao hơn đáng kể.
+- Chương này có 1 chú thích chân trang của Sowell (về lỗi khảo sát chỉ các doanh nghiệp còn tồn tại); nội dung đã được đưa vào mục 4 của Nội dung chi tiết và vào Sơ đồ phần 4.
+- Các câu trích là bản dịch của người tổng hợp.

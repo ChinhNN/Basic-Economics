@@ -1,11 +1,16 @@
 # Chương 1 — Kinh tế học là gì? (What Is Economics?)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Chương 1.
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
-**Vị trí trong lập luận của cả cuốn sách:** Đây là chương mở đầu, đứng trước Phần I (Giá cả và thị trường). Sowell không đưa ra công thức hay đồ thị nào; ông đặt nền móng bằng ba ý: kinh tế học bắt đầu từ sự khan hiếm, kinh tế học xét việc biến đầu vào thành sản phẩm hiệu quả đến đâu, và kinh tế học là phân tích nhân quả chứ không phải ý kiến. Cả ba ý được dùng ngay ở Chương 2 (The Role of Prices): nếu nguồn lực khan hiếm và có nhiều công dụng thay thế, thì xã hội cần một cơ chế để quyết định nguồn lực nào đi vào công dụng nào, và Chương 2 trình bày giá cả như cơ chế đó trong nền kinh tế thị trường. Nguyên tắc "xét động cơ khuyến khích và hậu quả, không xét ý định" trong chương này cũng là công cụ Sowell dùng xuyên suốt sách, bắt đầu từ Chương 3 về kiểm soát giá.
-**Ý chính:** Sowell muốn người đọc hiểu rằng **kinh tế học là môn nghiên cứu việc sử dụng các nguồn lực khan hiếm có nhiều công dụng thay thế** (định nghĩa của Lionel Robbins). Khan hiếm không phải do ngân sách hay chính sách tạo ra mà do thực tế: những gì mọi người muốn cộng lại luôn nhiều hơn những gì đang có, nên mọi nền kinh tế (tư bản, xã hội chủ nghĩa, phong kiến) đều buộc phải đánh đổi. Cách một xã hội phân bổ nguồn lực quyết định mức sống của nó hơn cả lượng tài nguyên sẵn có: Nhật Bản và Thụy Sĩ ít tài nguyên nhưng thu nhập thực tế bình quân đầu người cao gấp đôi Uruguay và gấp nhiều lần Venezuela; Liên Xô giàu tài nguyên nhưng dùng nhiều điện hơn Mỹ để làm ra ít sản phẩm hơn. Vì vậy phải đánh giá chính sách kinh tế theo động cơ khuyến khích và hậu quả của nó, không theo mục tiêu tốt đẹp mà nó tuyên bố. Ví dụ khép chương là đội quân y trên chiến trường: phải chọn cứu ai trước, một bài toán kinh tế dù không có đồng tiền nào đổi chủ.
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2013–2014; số liệu về đói nghèo ở Trung Quốc (1990–2004) và Ấn Độ là số của đầu thập niên 2000. Từ đó một số chi tiết đã thay đổi: Venezuela, nước Sowell dùng làm ví dụ "giàu tài nguyên mà nghèo", đã rơi vào khủng hoảng kinh tế sâu và siêu lạm phát sau năm 2014, nên khoảng cách với Nhật Bản và Thụy Sĩ còn lớn hơn nhiều so với lúc Sowell viết; Ngân hàng Thế giới đã nâng chuẩn nghèo quốc tế nhiều lần, không còn dùng mốc "một đô la một ngày"; Trung Quốc tuyên bố xoá nghèo cùng cực theo chuẩn quốc gia vào khoảng năm 2020. Chương này không có chú thích chân trang có nội dung (chỉ có chú thích nguồn trích dẫn, đã bỏ qua). Có một chỗ Sowell viết gộp: Trung Quốc bắt đầu cải cách từ cuối thập niên 1970, còn Ấn Độ cải cách mạnh từ năm 1991, nhưng Sowell gọi chung cả hai là thay đổi chính sách "vào cuối thế kỷ 20" (hai mốc năm này là ghi chú của người tổng hợp, không có trong chương). Các câu trích là bản dịch của người tổng hợp.
+Sowell muốn người đọc hiểu rằng **kinh tế học là môn nghiên cứu việc sử dụng các nguồn lực khan hiếm có nhiều công dụng thay thế** (định nghĩa của Lionel Robbins).
+
+Khan hiếm không phải do ngân sách hay chính sách tạo ra mà do thực tế: những gì mọi người muốn cộng lại luôn nhiều hơn những gì đang có, nên mọi nền kinh tế (tư bản, xã hội chủ nghĩa, phong kiến) đều buộc phải đánh đổi.
+
+Cách một xã hội phân bổ nguồn lực quyết định mức sống của nó hơn cả lượng tài nguyên sẵn có: Nhật Bản và Thụy Sĩ ít tài nguyên nhưng thu nhập thực tế bình quân đầu người cao gấp đôi Uruguay và gấp nhiều lần Venezuela. Liên Xô giàu tài nguyên nhưng dùng nhiều điện hơn Mỹ để làm ra ít sản phẩm hơn.
+
+Vì vậy phải đánh giá chính sách kinh tế theo động cơ khuyến khích và hậu quả của nó, không theo mục tiêu tốt đẹp mà nó tuyên bố.
+
+Ví dụ khép chương là đội quân y trên chiến trường: phải chọn cứu ai trước, một bài toán kinh tế dù không có đồng tiền nào đổi chủ.
 
 ## Sơ đồ
 
@@ -264,13 +269,17 @@ Theo Sowell, các nguyên lý này đúng trên khắp thế giới và suốt h
 | Luật kiểm soát tiền thuê nhà | Cairo, Hồng Kông, Stockholm, Melbourne, New York | Một loạt hậu quả rất giống nhau |
 | Chính sách nông nghiệp tương tự nhau | Ấn Độ và các nước Liên minh châu Âu | Hậu quả tương tự nhau |
 
-Muốn hiểu kinh tế học là gì, phải biết nền kinh tế là gì. Phần lớn mọi người nghĩ nền kinh tế là hệ thống sản xuất và phân phối hàng hoá, dịch vụ dùng hằng ngày. Sowell cho rằng định nghĩa đó đúng nhưng chưa đủ. Vườn Địa Đàng cũng là một hệ thống sản xuất và phân phối, nhưng không phải nền kinh tế, vì mọi thứ ở đó dồi dào vô hạn. Không có khan hiếm thì không cần tiết kiệm, cân nhắc (economize), và vì thế cũng không có kinh tế học. Từ đó Sowell dẫn định nghĩa kinh điển của nhà kinh tế Anh Lionel Robbins: kinh tế học là môn nghiên cứu việc sử dụng các nguồn lực khan hiếm có nhiều công dụng thay thế. Hai tiểu mục tiếp theo lần lượt giải thích "khan hiếm" và "công dụng thay thế" gắn với hiệu quả sản xuất.
+Muốn hiểu kinh tế học là gì, phải biết nền kinh tế là gì. Phần lớn mọi người nghĩ nền kinh tế là hệ thống sản xuất và phân phối hàng hoá, dịch vụ dùng hằng ngày. Sowell cho rằng định nghĩa đó đúng nhưng chưa đủ. Vườn Địa Đàng cũng là một hệ thống sản xuất và phân phối, nhưng không phải nền kinh tế, vì mọi thứ ở đó dồi dào vô hạn. Không có khan hiếm thì không cần tiết kiệm, cân nhắc (economize), và vì thế cũng không có kinh tế học.
+
+Từ đó Sowell dẫn định nghĩa kinh điển của nhà kinh tế Anh Lionel Robbins: kinh tế học là môn nghiên cứu việc sử dụng các nguồn lực khan hiếm có nhiều công dụng thay thế. Hai tiểu mục tiếp theo lần lượt giải thích "khan hiếm" và "công dụng thay thế" gắn với hiệu quả sản xuất.
 
 ### 2. Khan hiếm (Scarcity)
 
 "Khan hiếm" nghĩa là những gì mọi người muốn, cộng lại, nhiều hơn những gì đang có. Sowell cho rằng ý này nghe đơn giản nhưng hệ quả của nó thường bị hiểu sai nghiêm trọng, kể cả bởi người có học vấn cao.
 
-Ví dụ của ông là một bài phóng sự dài trên báo *New York Times* về những khó khăn và nỗi lo kinh tế của tầng lớp trung lưu Mỹ, mà Sowell gọi là một trong những nhóm người giàu có nhất từng sống trên hành tinh này. Bài báo có ảnh một gia đình trung lưu trong bể bơi riêng của họ, nhưng tít chính lại là "Tầng lớp trung lưu Mỹ, chỉ vừa đủ sống". Các tít phụ gồm: "Ước muốn phải hoãn, kế hoạch chưa thành", "Mục tiêu vẫn ngoài tầm với", "Tiết kiệm bền bỉ và vài thứ xa xỉ". Một nhà xã hội học Đại học Harvard được dẫn lời nói về việc những người này "bị ngân sách bó buộc" đến mức nào. Bài báo còn kể một gia đình từng "ngập trong nợ thẻ tín dụng" rồi "sắp xếp lại được tài chính", và bà Geraldine Frazier trong gia đình đó nói rằng chỉ một bước sai thôi thì áp lực hoá đơn sẽ quay lại, và điều đó rất đau đớn.
+Ví dụ của ông là một bài phóng sự dài trên báo *New York Times* về những khó khăn và nỗi lo kinh tế của tầng lớp trung lưu Mỹ, mà Sowell gọi là một trong những nhóm người giàu có nhất từng sống trên hành tinh này. Bài báo có ảnh một gia đình trung lưu trong bể bơi riêng của họ, nhưng tít chính lại là "Tầng lớp trung lưu Mỹ, chỉ vừa đủ sống". Các tít phụ gồm: "Ước muốn phải hoãn, kế hoạch chưa thành", "Mục tiêu vẫn ngoài tầm với", "Tiết kiệm bền bỉ và vài thứ xa xỉ".
+
+Một nhà xã hội học Đại học Harvard được dẫn lời nói về việc những người này "bị ngân sách bó buộc" đến mức nào. Bài báo còn kể một gia đình từng "ngập trong nợ thẻ tín dụng" rồi "sắp xếp lại được tài chính", và bà Geraldine Frazier trong gia đình đó nói rằng chỉ một bước sai thôi thì áp lực hoá đơn sẽ quay lại, và điều đó rất đau đớn.
 
 Sowell tóm lại: mong muốn của tầng lớp trung lưu Mỹ vượt quá những gì họ có thể chi trả một cách thoải mái, dù những gì họ đã có sẽ được coi là thịnh vượng khó tin ở nhiều nước khác, hay với các thế hệ người Mỹ trước. Cả họ lẫn phóng viên đều coi họ là "chỉ vừa đủ sống". Nhưng theo Sowell, thứ bó buộc họ không phải là ngân sách, một thứ do con người đặt ra; thứ bó buộc họ là thực tế. Chưa bao giờ có đủ để thoả mãn hoàn toàn tất cả mọi người. Đó mới là ràng buộc thật, và đó chính là nghĩa của khan hiếm.
 
@@ -295,7 +304,9 @@ Vì vậy mỗi nền kinh tế phải trả lời câu hỏi: dành bao nhiêu 
 
 Ví dụ của Sowell là Liên Xô. Thời Liên Xô, công nghiệp nước này dùng nhiều điện hơn công nghiệp Mỹ, dù làm ra ít sản phẩm hơn. Sự kém hiệu quả trong việc biến đầu vào thành đầu ra dẫn tới mức sống thấp hơn, ở một nước được thiên nhiên ưu đãi về tài nguyên, có lẽ hơn bất kỳ nước nào khác. Chẳng hạn, Nga là một trong số ít nước công nghiệp sản xuất nhiều dầu hơn lượng mình tiêu thụ. Nhưng tài nguyên dồi dào không tự động tạo ra hàng hoá dồi dào.
 
-Sowell nhấn mạnh rằng hiệu quả sản xuất (tốc độ biến đầu vào thành đầu ra) không phải chuyện kỹ thuật chỉ nhà kinh tế quan tâm; nó quyết định mức sống của cả xã hội. Khi hình dung quá trình này, nên nghĩ tới vật thật (quặng sắt, dầu mỏ, gỗ và các đầu vào khác đi vào quá trình sản xuất; đồ gỗ, thực phẩm, ô tô đi ra ở đầu kia) thay vì coi quyết định kinh tế chỉ là quyết định về tiền. Dù chữ "kinh tế" gợi tới tiền với một số người, với cả xã hội thì tiền chỉ là một công cụ nhân tạo để làm được việc thật. Nếu không phải vậy, chính phủ chỉ cần in thêm tiền là ai cũng giàu. Chính khối lượng hàng hoá và dịch vụ, chứ không phải tiền, quyết định một nước nghèo khổ hay thịnh vượng.
+Sowell nhấn mạnh rằng hiệu quả sản xuất (tốc độ biến đầu vào thành đầu ra) không phải chuyện kỹ thuật chỉ nhà kinh tế quan tâm; nó quyết định mức sống của cả xã hội. Khi hình dung quá trình này, nên nghĩ tới vật thật (quặng sắt, dầu mỏ, gỗ và các đầu vào khác đi vào quá trình sản xuất; đồ gỗ, thực phẩm, ô tô đi ra ở đầu kia) thay vì coi quyết định kinh tế chỉ là quyết định về tiền.
+
+Dù chữ "kinh tế" gợi tới tiền với một số người, với cả xã hội thì tiền chỉ là một công cụ nhân tạo để làm được việc thật. Nếu không phải vậy, chính phủ chỉ cần in thêm tiền là ai cũng giàu. Chính khối lượng hàng hoá và dịch vụ, chứ không phải tiền, quyết định một nước nghèo khổ hay thịnh vượng.
 
 ### 4. Vai trò của kinh tế học (The Role of Economics)
 
@@ -318,11 +329,15 @@ Chiều ngược lại cũng đúng. Ấn Độ và Trung Quốc, xét về lị
 
 Theo Sowell, những điều như vậy làm cho việc học kinh tế học trở nên quan trọng, không phải chuyện ý kiến hay cảm xúc. Kinh tế học là công cụ phân tích nhân quả, một khối tri thức đã được kiểm nghiệm, cùng các nguyên lý rút ra từ khối tri thức đó.
 
-Cuối cùng, Sowell chỉ ra rằng một quyết định không cần dính tới tiền mới là quyết định kinh tế. Khi một đội quân y tới chiến trường, nơi binh lính bị thương đủ kiểu, họ gặp đúng bài toán kinh tế kinh điển: phân bổ nguồn lực khan hiếm có nhiều công dụng thay thế. Gần như không bao giờ có đủ bác sĩ, y tá hay nhân viên cứu thương, cũng không đủ thuốc. Thương binh chia thành ba nhóm: có người sắp chết và ít cơ hội được cứu; có người có cơ hội sống nếu được chữa ngay; có người chỉ bị thương nhẹ và có lẽ sẽ hồi phục dù được chăm sóc ngay hay không. Nếu đội quân y không phân bổ thời gian và thuốc hiệu quả, sẽ có thương binh chết oan trong khi đội đang lo cho người chưa cần gấp, hoặc cho người bị thương nặng tới mức có lẽ sẽ chết dù làm gì đi nữa. Đó là bài toán kinh tế, dù không một đồng xu nào đổi chủ.
+Cuối cùng, Sowell chỉ ra rằng một quyết định không cần dính tới tiền mới là quyết định kinh tế. Khi một đội quân y tới chiến trường, nơi binh lính bị thương đủ kiểu, họ gặp đúng bài toán kinh tế kinh điển: phân bổ nguồn lực khan hiếm có nhiều công dụng thay thế. Gần như không bao giờ có đủ bác sĩ, y tá hay nhân viên cứu thương, cũng không đủ thuốc.
+
+Thương binh chia thành ba nhóm: có người sắp chết và ít cơ hội được cứu; có người có cơ hội sống nếu được chữa ngay; có người chỉ bị thương nhẹ và có lẽ sẽ hồi phục dù được chăm sóc ngay hay không. Nếu đội quân y không phân bổ thời gian và thuốc hiệu quả, sẽ có thương binh chết oan trong khi đội đang lo cho người chưa cần gấp, hoặc cho người bị thương nặng tới mức có lẽ sẽ chết dù làm gì đi nữa. Đó là bài toán kinh tế, dù không một đồng xu nào đổi chủ.
 
 Sowell kết chương: phần lớn chúng ta ghét phải nghĩ tới những lựa chọn như vậy. Như đã thấy, một số người trung lưu Mỹ còn khổ sở vì phải đưa ra những lựa chọn và đánh đổi nhẹ nhàng hơn nhiều. Nhưng cuộc sống không hỏi chúng ta muốn gì; nó đưa ra các phương án. Kinh tế học là một trong những cách để tận dụng tốt nhất các phương án đó.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một tỉnh có 1.000 tỷ đồng ngân sách đầu tư công trong năm và ba đề xuất: nâng cấp bệnh viện tuyến tỉnh (600 tỷ), xây trường học ở các huyện xa (500 tỷ), làm đường nối khu công nghiệp ra cảng (700 tỷ). Tổng mong muốn là 1.800 tỷ, nhiều hơn 1.000 tỷ đang có: đó là khan hiếm theo nghĩa của Sowell. Nếu tỉnh in được tiền (giả định), vấn đề vẫn không biến mất, vì số kỹ sư, xi măng, thép và máy móc thật sự sẵn có không tăng lên; chỉ có giá tăng. Mỗi tấn thép và mỗi giờ công của kỹ sư là nguồn lực có nhiều công dụng thay thế: dùng cho con đường thì không dùng cho trường học được. Theo cách nhìn của Sowell, câu hỏi đúng không phải "dự án nào có mục tiêu tốt" (cả ba đều tốt), mà là "mỗi phương án phân bổ tạo ra bao nhiêu giá trị thật, và tạo ra động cơ khuyến khích gì": chẳng hạn, nếu tiêu chí chọn là "huyện nào kêu to nhất", các huyện sẽ dồn sức vận động thay vì chuẩn bị dự án tốt.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một tỉnh có 1.000 tỷ đồng ngân sách đầu tư công trong năm và ba đề xuất: nâng cấp bệnh viện tuyến tỉnh (600 tỷ), xây trường học ở các huyện xa (500 tỷ), làm đường nối khu công nghiệp ra cảng (700 tỷ). Tổng mong muốn là 1.800 tỷ, nhiều hơn 1.000 tỷ đang có: đó là khan hiếm theo nghĩa của Sowell. Nếu tỉnh in được tiền (giả định), vấn đề vẫn không biến mất, vì số kỹ sư, xi măng, thép và máy móc thật sự sẵn có không tăng lên; chỉ có giá tăng.
+
+Mỗi tấn thép và mỗi giờ công của kỹ sư là nguồn lực có nhiều công dụng thay thế: dùng cho con đường thì không dùng cho trường học được. Theo cách nhìn của Sowell, câu hỏi đúng không phải "dự án nào có mục tiêu tốt" (cả ba đều tốt), mà là "mỗi phương án phân bổ tạo ra bao nhiêu giá trị thật, và tạo ra động cơ khuyến khích gì": chẳng hạn, nếu tiêu chí chọn là "huyện nào kêu to nhất", các huyện sẽ dồn sức vận động thay vì chuẩn bị dự án tốt.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -453,3 +468,145 @@ Nói định tính: Venezuela sau 2014 đã trải qua sụp đổ kinh tế và
 - **Trong đầu tư.** Sowell nhắc rằng kinh tế học không phải công cụ dự đoán thị trường chứng khoán. Kinh tế học giúp nhà đầu tư hiểu xu hướng dài hạn (nước nào, ngành nào dùng nguồn lực hiệu quả hơn) chứ không cho biết giá ngày mai. Một nước hay một doanh nghiệp giàu tài nguyên chưa chắc là khoản đầu tư tốt; cần xem nó biến tài nguyên thành sản phẩm hiệu quả đến đâu và thể chế có khuyến khích điều đó không.
 - **Trong nghề nghiệp.** Thời gian và sức lực của mỗi người là nguồn lực khan hiếm có nhiều công dụng thay thế. Như đội quân y, người làm việc hiệu quả là người phân loại được việc nào cần làm ngay, việc nào tự ổn, việc nào dù cố cũng khó cứu, thay vì dàn đều sức cho mọi việc.
 - **Khi đọc tin chính sách.** Ở Việt Nam, khi một chính sách được giới thiệu bằng mục tiêu tốt đẹp (hỗ trợ người thu nhập thấp, bảo vệ sản xuất trong nước, bình ổn giá), hãy hỏi theo cách của Sowell: chính sách tạo ra động cơ khuyến khích gì cho người sản xuất và người tiêu dùng, nguồn lực dành cho nó lẽ ra có thể dùng vào việc gì khác, và hậu quả sau vài năm (không chỉ trước mắt) là gì. Những lời hứa đáp ứng mọi nhu cầu cùng lúc nên được đọc với nhận thức rằng khan hiếm không bị xoá bỏ bằng một quyết định hành chính.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 1 trên một trang: sáu nhánh lớn đi theo các mục 1–4 của phần Nội dung chi tiết (nguyên lý kinh tế đúng ở mọi nơi và định nghĩa của Robbins, khan hiếm, năng suất, kinh tế học là phân tích nhân quả, các bằng chứng và ví dụ đội quân y) cùng phần Đánh giá, mỗi nhánh ghi luận điểm, ví dụ và con số then chốt của Sowell; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 1: kinh tế học là môn nghiên cứu việc sử dụng các nguồn lực khan hiếm có nhiều công dụng thay thế (Robbins)`"]
+  n1["`Mục 1 — Nguyên lý kinh tế đúng ở mọi nơi, mọi thời, mọi chế độ`"]
+  n0 --- n1
+  n2["`Stigler: dù bảo thủ hay cấp tiến, biết nguyên nhân và hệ quả của hiện tượng kinh tế đều có ích`"]
+  n1 --- n2
+  n3["`Tin kinh tế hiếm khi nói nguyên nhân, càng ít nói hậu quả, ngôn từ chính trị làm nguyên lý có vẻ mù mờ`"]
+  n1 --- n3
+  n4["`Chính sách làm giá tăng thời Alexander Đại đế cũng làm giá tăng ở Mỹ hàng nghìn năm sau`"]
+  n1 --- n4
+  n5["`Kiểm soát tiền thuê nhà cho hậu quả rất giống nhau ở Cairo, Hồng Kông, Stockholm, Melbourne, New York`"]
+  n1 --- n5
+  n6["`Vườn Địa Đàng có sản xuất, phân phối nhưng không phải nền kinh tế vì mọi thứ dồi dào vô hạn`"]
+  n1 --- n6
+  n7["`Không có khan hiếm thì không cần tiết kiệm, cân nhắc, nên cũng không có kinh tế học`"]
+  n1 --- n7
+  n8["`Mục 2 — Khan hiếm: những gì mọi người muốn, cộng lại, nhiều hơn những gì đang có`"]
+  n0 --- n8
+  n9["`New York Times: gia đình trung lưu Mỹ trong bể bơi riêng, tít báo nói họ chỉ vừa đủ sống`"]
+  n8 --- n9
+  n10["`Tầng lớp trung lưu Mỹ là một trong những nhóm người giàu có nhất từng sống trên hành tinh`"]
+  n9 --- n10
+  n11["`Thứ bó buộc họ không phải ngân sách do con người đặt ra mà là thực tế`"]
+  n8 --- n11
+  n12["`Khan hiếm là điều phổ biến nhất trong lịch sử loài người, không phải điều bất thường`"]
+  n8 --- n12
+  n13["`Chính sách khôn ngoan hay dại dột cũng không đủ thoả mãn mọi mong muốn, nhu cầu chưa được đáp ứng là tất yếu`"]
+  n8 --- n13
+  n14["`Tư bản, xã hội chủ nghĩa, phong kiến chỉ là cách tổ chức khác nhau cho những đánh đổi không tránh được`"]
+  n8 --- n14
+  n15["`Mục 3 — Năng suất: cách dùng tài nguyên quyết định mức sống hơn lượng tài nguyên`"]
+  n0 --- n15
+  n16["`Kinh tế học bàn việc biến đầu vào (đất đai, lao động, vốn) thành đầu ra, không chỉ chia sản lượng có sẵn`"]
+  n15 --- n16
+  n17["`Uruguay, Venezuela có tài nguyên bình quân đầu người gấp nhiều lần Nhật Bản, Thụy Sĩ`"]
+  n15 --- n17
+  n18["`Nhưng thu nhập thực tế bình quân đầu người của Nhật Bản, Thụy Sĩ cao gấp đôi Uruguay, gấp nhiều lần Venezuela`"]
+  n17 --- n18
+  n19["`Dầu mỏ thành xăng, nhựa, nhựa đường, Vaseline, quặng sắt thành kẹp giấy tới khung nhà chọc trời`"]
+  n15 --- n19
+  n20["`Mọi nền kinh tế phải quyết định dành bao nhiêu phần mỗi nguồn lực cho mỗi công dụng`"]
+  n15 --- n20
+  n21["`Công nghiệp Liên Xô dùng nhiều điện hơn công nghiệp Mỹ mà làm ra ít sản phẩm hơn`"]
+  n15 --- n21
+  n22["`Nga sản xuất nhiều dầu hơn lượng tiêu thụ, nhưng tài nguyên dồi dào không tự tạo ra hàng hoá dồi dào`"]
+  n21 --- n22
+  n23["`Tiền chỉ là công cụ nhân tạo, nếu tiền là của cải thì chính phủ chỉ cần in thêm tiền`"]
+  n15 --- n23
+  n24["`Khối lượng hàng hoá, dịch vụ thật quyết định một nước nghèo khổ hay thịnh vượng`"]
+  n23 --- n24
+  n25["`Mục 4 — Kinh tế học là phân tích nhân quả, xét động cơ khuyến khích chứ không xét ý định`"]
+  n0 --- n25
+  n26["`Kinh tế học không phải tài chính cá nhân, quản trị kinh doanh hay dự đoán chứng khoán`"]
+  n25 --- n26
+  n27["`Câu hỏi của nhà kinh tế: quyết định ở từng bộ phận làm mức sống vật chất của toàn dân tăng hay giảm`"]
+  n25 --- n27
+  n28["`Oskar Lange theo chủ nghĩa Marx và Milton Friedman bảo thủ dùng cùng phương pháp phân tích`"]
+  n25 --- n28
+  n29["`Hậu quả quan trọng hơn ý định, cả hậu quả trước mắt lẫn tác động về lâu dài`"]
+  n25 --- n29
+  n30["`Nhiều, có lẽ phần lớn, thảm hoạ kinh tế đến từ chính sách có ý định mang lại lợi ích`"]
+  n29 --- n30
+  n31["`Nguyên lý kinh tế không phải ý kiến, như vật lý của Einstein đã hiện ra ở Hiroshima và Nagasaki`"]
+  n25 --- n31
+  n32["`Mục 4 (tiếp) — Bằng chứng nhân quả và bài toán không cần tiền`"]
+  n0 --- n32
+  n33["`Đại suy thoái thập niên 1930: nghèo đói cả ở nước giàu nhất, suy dinh dưỡng ở nước thừa lương thực`"]
+  n32 --- n33
+  n34["`Đại suy thoái có lẽ làm chết nhiều người hơn số người chết ở Hiroshima và Nagasaki`"]
+  n33 --- n34
+  n35["`Ấn Độ đổi chính sách: ước tính 20 triệu người thoát cảnh cùng cực trong một thập kỷ`"]
+  n32 --- n35
+  n36["`Trung Quốc: người sống bằng 1 USD/ngày trở xuống giảm từ 374 triệu (1990, 1/3 dân số) xuống 128 triệu (2004, 10%)`"]
+  n32 --- n36
+  n37["`Gần 1/4 tỷ người Trung Quốc (khoảng 246 triệu) khá hơn nhờ thay đổi chính sách kinh tế`"]
+  n36 --- n37
+  n38["`Đội quân y chia thương binh ba nhóm: sắp chết, cần chữa ngay mới sống, bị thương nhẹ`"]
+  n32 --- n38
+  n39["`Phân bổ thời gian và thuốc sai thì có người chết oan, bài toán kinh tế dù không một đồng xu nào đổi chủ`"]
+  n38 --- n39
+  n40["`Đánh giá — Điểm mạnh và chỗ Sowell đơn giản hoá`"]
+  n0 --- n40
+  n41["`Đặt nền móng bằng ví dụ đời thường, không cần đồ thị hay công thức`"]
+  n40 --- n41
+  n42["`So Nhật Bản, Thụy Sĩ với Uruguay, Venezuela bỏ qua vốn con người, thể chế, địa lý, mà Na Uy, Úc, Canada giàu tài nguyên vẫn giàu`"]
+  n40 --- n42
+  n43["`Kinh tế học hiếm làm được thí nghiệm kiểm soát, nguyên nhân Đại suy thoái vẫn còn tranh cãi`"]
+  n40 --- n43
+  n44["`Bài báo New York Times: khan hiếm là sự thật, áp lực tài chính của trung lưu là câu hỏi thực nghiệm`"]
+  n40 --- n44
+  n45["`Venezuela sụp đổ và siêu lạm phát sau 2014 củng cố ví dụ, chuẩn nghèo 1 USD/ngày nay không so trực tiếp được`"]
+  n40 --- n45
+  n46["`Định nghĩa của Robbins không duy nhất: Adam Smith xoay quanh của cải quốc gia, kinh tế học hành vi nghi giả định hợp lý`"]
+  n40 --- n46
+  n47["`Thông điệp xuyên suốt`"]
+  n0 --- n47
+  n48["`Không chính sách hay chế độ nào xoá được khan hiếm, mọi lựa chọn đều là đánh đổi`"]
+  n47 --- n48
+  n49["`Đánh giá chính sách bằng động cơ khuyến khích và hậu quả về sau, không bằng mục tiêu tuyên bố`"]
+  n47 --- n49
+  n50["`Cuộc sống không hỏi ta muốn gì, nó đưa ra các phương án, kinh tế học giúp tận dụng tốt nhất các phương án đó`"]
+  n47 --- n50
+  n51["`Mở đường cho Chương 2: giá cả là cơ chế phân bổ nguồn lực khan hiếm trong nền kinh tế thị trường`"]
+  n47 --- n51
+  class n0 root
+  class n1,n8,n15,n25,n32,n40,n47 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Chương 1.
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là chương mở đầu, đứng trước Phần I (Giá cả và thị trường). Sowell không đưa ra công thức hay đồ thị nào; ông đặt nền móng bằng ba ý: kinh tế học bắt đầu từ sự khan hiếm, kinh tế học xét việc biến đầu vào thành sản phẩm hiệu quả đến đâu, và kinh tế học là phân tích nhân quả chứ không phải ý kiến.
+
+Cả ba ý được dùng ngay ở Chương 2 (The Role of Prices): nếu nguồn lực khan hiếm và có nhiều công dụng thay thế, thì xã hội cần một cơ chế để quyết định nguồn lực nào đi vào công dụng nào, và Chương 2 trình bày giá cả như cơ chế đó trong nền kinh tế thị trường.
+
+Nguyên tắc "xét động cơ khuyến khích và hậu quả, không xét ý định" trong chương này cũng là công cụ Sowell dùng xuyên suốt sách, bắt đầu từ Chương 3 về kiểm soát giá.
+
+## Lưu ý
+
+- Sách viết khoảng 2013–2014; số liệu về đói nghèo ở Trung Quốc (1990–2004) và Ấn Độ là số của đầu thập niên 2000.
+- Từ đó một số chi tiết đã thay đổi: Venezuela, nước Sowell dùng làm ví dụ "giàu tài nguyên mà nghèo", đã rơi vào khủng hoảng kinh tế sâu và siêu lạm phát sau năm 2014, nên khoảng cách với Nhật Bản và Thụy Sĩ còn lớn hơn nhiều so với lúc Sowell viết; Ngân hàng Thế giới đã nâng chuẩn nghèo quốc tế nhiều lần, không còn dùng mốc "một đô la một ngày"; Trung Quốc tuyên bố xoá nghèo cùng cực theo chuẩn quốc gia vào khoảng năm 2020.
+- Chương này không có chú thích chân trang có nội dung (chỉ có chú thích nguồn trích dẫn, đã bỏ qua).
+- Có một chỗ Sowell viết gộp: Trung Quốc bắt đầu cải cách từ cuối thập niên 1970, còn Ấn Độ cải cách mạnh từ năm 1991, nhưng Sowell gọi chung cả hai là thay đổi chính sách "vào cuối thế kỷ 20" (hai mốc năm này là ghi chú của người tổng hợp, không có trong chương).
+- Các câu trích là bản dịch của người tổng hợp.

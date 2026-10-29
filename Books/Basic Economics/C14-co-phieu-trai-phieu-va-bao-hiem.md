@@ -1,11 +1,20 @@
 # Chương 14 — Cổ phiếu, trái phiếu và bảo hiểm (Stocks, Bonds and Insurance)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần IV "Time and Risk", Chương 14.
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
-**Vị trí trong lập luận của cả cuốn sách:** Phần IV bàn về hai thứ mà mọi hoạt động kinh tế đều phải đối mặt: thời gian (tiền hôm nay khác tiền ngày mai) và rủi ro (tương lai không biết trước). Chương 13 ("Investment") đã giới thiệu đầu tư, lợi tức của đầu tư, đầu cơ hàng hoá, quản lý hàng tồn kho và khái niệm giá trị hiện tại. Chương 14 đi tiếp sang những cách khác mà xã hội dùng để xử lý rủi ro: cổ phiếu và trái phiếu (hai cách chia rủi ro khác nhau giữa người cần vốn và người góp vốn), đa dạng hoá danh mục, các hợp đồng "kiểu cổ phiếu" đầu tư vào con người, và bảo hiểm. Chương kết bằng phần phân biệt bảo hiểm thật với các chương trình của chính phủ được gọi là "bảo hiểm". Chương 15 ("Special Problems of Time and Risk") sẽ mở rộng từ đây: rủi ro không thể bị xoá bỏ, chỉ có thể được chuyển sang người khác, và với toàn xã hội thì không có "người khác" nào để chuyển.
-**Ý chính:** Sowell muốn người đọc hiểu rằng cổ phiếu, trái phiếu và bảo hiểm đều là những cách sắp xếp ai gánh rủi ro nào và được trả bao nhiêu cho việc đó. Trái phiếu là lời hứa trả một khoản cố định; cổ phiếu là phần sở hữu, chỉ được hưởng phần còn lại sau khi đã trả mọi người khác. Vì người ta không chịu gánh lợi tức bấp bênh nếu không được trả thêm, cổ phiếu trung bình phải sinh lời cao hơn trái phiếu; nhưng "an toàn" còn tuỳ khoảng thời gian, vì qua nhiều thập kỷ lạm phát có thể ăn mòn trái phiếu và tiền gửi ngân hàng (1 USD đầu tư năm 1801 vào trái phiếu thành gần 1.000 USD năm 1998, vào cổ phiếu thành hơn 500.000 USD, vào vàng còn 78 xu, tất cả đã trừ lạm phát). Bảo hiểm thật không chỉ chuyển rủi ro mà còn giảm rủi ro, nhờ gộp hàng triệu trường hợp và định phí theo mức rủi ro. Khi chính trị buộc phí bảo hiểm phải theo "công bằng" (không theo rủi ro), hoặc khi chính phủ bao cấp "bảo hiểm" cho người sống ở nơi nguy hiểm, rủi ro không giảm mà tăng, và người khác phải trả. Ví dụ trung tâm của phần cuối là căn nhà bên bờ biển của phóng viên John Stossel: bị sóng phá hai lần, và cả hai lần Chương trình Bảo hiểm Lũ lụt Quốc gia của chính phủ Mỹ trả tiền xây lại.
+## Ý chính
 
-> **Lưu ý:** Sách in năm 2015, viết khoảng 2013–2014, nhưng nhiều số liệu trong chương cũ hơn thế: lãi suất các nước năm 2003, lợi suất vốn mạo hiểm năm 2001, quỹ tương hỗ 1998–2005, khoản lỗ của các hiệp hội tiết kiệm và cho vay thập niên 1980, bão Katrina 2005; các số mới nhất là thị phần bảo hiểm năm 2010 và tỷ lệ chi trả bồi thường năm 2012. Một số chi tiết đã thay đổi từ đó: dự luật cấm phân biệt theo xét nghiệm gen mà Thượng viện thông qua 95–0 năm 2003 cuối cùng thành luật năm 2008 (Genetic Information Nondiscrimination Act, áp dụng cho bảo hiểm y tế và việc làm, không áp dụng cho bảo hiểm nhân thọ); việc cấm định phí bảo hiểm theo giới tính mà Sowell mô tả là "những nỗ lực mở rộng ra Liên minh châu Âu" đã thành quy định chung của EU từ cuối năm 2012 sau một phán quyết của Toà án Công lý châu Âu, tức trước cả khi ấn bản này ra đời; Chương trình Bảo hiểm Lũ lụt Quốc gia của Mỹ đã qua vài đợt cải cách để đưa phí lại gần mức rủi ro thật (đợt lớn gần đây là cách tính phí mới áp dụng từ năm 2021). Chương có 2 chú thích chân trang của Sowell: chú thích về trái phiếu các công ty điện ở California được đưa vào mục 3 của Nội dung chi tiết (và Sơ đồ phần 2); chú thích về tỷ lệ tử vong theo tuổi của tài xế được đưa vào mục 8 (và Sơ đồ phần 7). Sách có hai chỗ đáng ngờ: Sowell viết quỹ tương hỗ "xuất hiện lần đầu trong một phần tư cuối thế kỷ 20", trong khi quỹ tương hỗ ở Mỹ đã có từ thập niên 1920 (thứ ra đời giữa thập niên 1970 là quỹ chỉ số cho nhà đầu tư cá nhân); và câu "năm 2005, trong 1.137 quỹ quản lý chủ động, *chỉ* 55,5% làm tốt hơn chỉ số S&P" mâu thuẫn với chữ "chỉ", vì 55,5% là đa số (xem mục Đánh giá). Các câu trích là bản dịch của người tổng hợp.
+Sowell muốn người đọc hiểu rằng cổ phiếu, trái phiếu và bảo hiểm đều là những cách sắp xếp ai gánh rủi ro nào và được trả bao nhiêu cho việc đó.
+
+Trái phiếu là lời hứa trả một khoản cố định; cổ phiếu là phần sở hữu, chỉ được hưởng phần còn lại sau khi đã trả mọi người khác.
+
+Vì người ta không chịu gánh lợi tức bấp bênh nếu không được trả thêm, cổ phiếu trung bình phải sinh lời cao hơn trái phiếu.
+
+Nhưng "an toàn" còn tuỳ khoảng thời gian, vì qua nhiều thập kỷ lạm phát có thể ăn mòn trái phiếu và tiền gửi ngân hàng (1 USD đầu tư năm 1801 vào trái phiếu thành gần 1.000 USD năm 1998, vào cổ phiếu thành hơn 500.000 USD, vào vàng còn 78 xu, tất cả đã trừ lạm phát).
+
+Bảo hiểm thật không chỉ chuyển rủi ro mà còn giảm rủi ro, nhờ gộp hàng triệu trường hợp và định phí theo mức rủi ro.
+
+Khi chính trị buộc phí bảo hiểm phải theo "công bằng" (không theo rủi ro), hoặc khi chính phủ bao cấp "bảo hiểm" cho người sống ở nơi nguy hiểm, rủi ro không giảm mà tăng, và người khác phải trả.
+
+Ví dụ trung tâm của phần cuối là căn nhà bên bờ biển của phóng viên John Stossel: bị sóng phá hai lần, và cả hai lần Chương trình Bảo hiểm Lũ lụt Quốc gia của chính phủ Mỹ trả tiền xây lại.
 
 ## Sơ đồ
 
@@ -630,9 +639,13 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Vì sao cổ phiếu thường sinh lời cao hơn trái phiếu, và loại nào an toàn hơn?** Trái phiếu là cam kết pháp lý trả một khoản cố định, còn cổ phiếu chỉ được hưởng phần còn lại sau khi đã trả mọi người khác, nên có thể bằng không. Người ta chỉ chịu gánh lợi tức biến động nếu kỳ vọng được trả cao hơn, giống như một nghề có thu nhập thất thường từ 10.000 tới 90.000 USD phải trả trung bình cao hơn 50.000 USD mới hấp dẫn bằng nghề đều đặn 50.000 USD. Còn "an toàn" thì tuỳ khoảng thời gian: trong một năm trái phiếu an toàn hơn, nhưng qua nhiều thập kỷ lạm phát ăn mòn trái phiếu và tiền gửi (trái phiếu có lợi suất thực âm suốt bốn thập niên 1940–1970), còn cổ phiếu là phần của tài sản thực nên tăng giá theo lạm phát.
+1. **Vì sao cổ phiếu thường sinh lời cao hơn trái phiếu, và loại nào an toàn hơn?** Trái phiếu là cam kết pháp lý trả một khoản cố định, còn cổ phiếu chỉ được hưởng phần còn lại sau khi đã trả mọi người khác, nên có thể bằng không. Người ta chỉ chịu gánh lợi tức biến động nếu kỳ vọng được trả cao hơn, giống như một nghề có thu nhập thất thường từ 10.000 tới 90.000 USD phải trả trung bình cao hơn 50.000 USD mới hấp dẫn bằng nghề đều đặn 50.000 USD.
+
+   Còn "an toàn" thì tuỳ khoảng thời gian: trong một năm trái phiếu an toàn hơn, nhưng qua nhiều thập kỷ lạm phát ăn mòn trái phiếu và tiền gửi (trái phiếu có lợi suất thực âm suốt bốn thập niên 1940–1970), còn cổ phiếu là phần của tài sản thực nên tăng giá theo lạm phát.
 2. **Bảo hiểm tạo ra giá trị bằng cách nào, khi công ty bảo hiểm cũng phải có lãi?** Bảo hiểm không chỉ chuyển rủi ro từ người mua sang công ty, mà còn giảm rủi ro: tỷ lệ tử vong hay tai nạn trung bình của hàng triệu người dễ đoán hơn nhiều so với số phận của một người. Vì rủi ro mà công ty gánh nhỏ hơn rủi ro mà người mua gánh nếu không có bảo hiểm, hợp đồng có lợi cho cả hai. Công ty còn giảm rủi ro bằng cách định phí theo rủi ro (tài xế an toàn trả ít hơn) và đầu tư phí thu được. Ai đã đủ lớn để tự phân tán rủi ro, như hãng thuê xe Hertz, thì không cần mua bảo hiểm.
-3. **Vì sao định phí bảo hiểm theo "công bằng" thay vì theo rủi ro, và các chương trình "bảo hiểm" của chính phủ, lại gây hại?** Vì bảo hiểm là chuyện rủi ro, không phải chuyện lỗi. Buộc cùng mức phí cho các nhóm rủi ro khác nhau làm phí chung tăng, nhóm an toàn trợ cấp nhóm nguy hiểm và thêm tài xế ẩu đủ tiền ra đường. Bảo hiểm tiền gửi bắt buộc làm tăng rủi ro đạo đức và góp phần vào khoản lỗ hơn nửa nghìn tỷ USD của các hiệp hội tiết kiệm và cho vay thập niên 1980. Chương trình Bảo hiểm Lũ lụt Quốc gia và FEMA thu phí thấp hơn rủi ro, nên người ta xây và xây lại ở nơi nguy hiểm (căn nhà của John Stossel, một tài sản ở Houston ngập 16 lần), còn người nộp thuế trả tiền.
+3. **Vì sao định phí bảo hiểm theo "công bằng" thay vì theo rủi ro, và các chương trình "bảo hiểm" của chính phủ, lại gây hại?** Vì bảo hiểm là chuyện rủi ro, không phải chuyện lỗi. Buộc cùng mức phí cho các nhóm rủi ro khác nhau làm phí chung tăng, nhóm an toàn trợ cấp nhóm nguy hiểm và thêm tài xế ẩu đủ tiền ra đường.
+
+   Bảo hiểm tiền gửi bắt buộc làm tăng rủi ro đạo đức và góp phần vào khoản lỗ hơn nửa nghìn tỷ USD của các hiệp hội tiết kiệm và cho vay thập niên 1980. Chương trình Bảo hiểm Lũ lụt Quốc gia và FEMA thu phí thấp hơn rủi ro, nên người ta xây và xây lại ở nơi nguy hiểm (căn nhà của John Stossel, một tài sản ở Houston ngập 16 lần), còn người nộp thuế trả tiền.
 
 ## Khái niệm cần biết
 
@@ -670,7 +683,9 @@ Chương mở đầu bằng câu đề từ của *Wall Street Journal*: chấp 
 
 Có loại lãi vốn đến từ giao dịch thuần tài chính: trả một khoản hôm nay để nhận lại khoản lớn hơn sau này, như gửi tiết kiệm có lãi, tiệm cầm đồ cho vay, hay mua trái phiếu Kho bạc Mỹ mệnh giá 10.000 USD với giá thấp hơn 10.000 USD. Dù làm theo cách nào, đó cũng là đổi tiền hôm nay lấy tiền tương lai. Việc có trả lãi cho thấy tiền hôm nay đáng giá hơn cùng số tiền đó trong tương lai; đáng giá hơn bao nhiêu thì tuỳ nhiều yếu tố, thay đổi theo thời kỳ và giữa các nước ở cùng thời điểm.
 
-**Lạm phát và phần bù rủi ro.** Lãi suất mà người cho vay đòi phải tính tới rủi ro, trước hết là rủi ro lạm phát. Thời hoàng kim của công nghiệp hoá ở Anh thế kỷ 19, các công ty đường sắt huy động được những khoản tiền khổng lồ để làm đường ray và mua tàu bằng cách bán trái phiếu lãi khoảng 5% mỗi năm. Điều đó chỉ làm được vì công chúng tin cả vào đường sắt lẫn sự ổn định của đồng tiền: nếu lạm phát là 6% mỗi năm thì người mua trái phiếu lãi 5% sẽ mất giá trị thực thay vì có lãi, nhưng đồng bảng Anh thời đó rất ổn định. Từ đó lạm phát trở nên phổ biến hơn, nên lãi suất phải bù được mức lạm phát dự kiến và vẫn còn lại một khoản tăng sức mua thực. Rủi ro lạm phát khác nhau giữa các nước và các thời kỳ, nên lợi suất đầu tư cũng phải tính thêm một khoản tương ứng.
+**Lạm phát và phần bù rủi ro.** Lãi suất mà người cho vay đòi phải tính tới rủi ro, trước hết là rủi ro lạm phát. Thời hoàng kim của công nghiệp hoá ở Anh thế kỷ 19, các công ty đường sắt huy động được những khoản tiền khổng lồ để làm đường ray và mua tàu bằng cách bán trái phiếu lãi khoảng 5% mỗi năm. Điều đó chỉ làm được vì công chúng tin cả vào đường sắt lẫn sự ổn định của đồng tiền: nếu lạm phát là 6% mỗi năm thì người mua trái phiếu lãi 5% sẽ mất giá trị thực thay vì có lãi, nhưng đồng bảng Anh thời đó rất ổn định.
+
+Từ đó lạm phát trở nên phổ biến hơn, nên lãi suất phải bù được mức lạm phát dự kiến và vẫn còn lại một khoản tăng sức mua thực. Rủi ro lạm phát khác nhau giữa các nước và các thời kỳ, nên lợi suất đầu tư cũng phải tính thêm một khoản tương ứng.
 
 | Ví dụ của Sowell | Số liệu |
 |---|---|
@@ -685,11 +700,15 @@ Tóm lại, các rủi ro khác nhau (lạm phát chỉ là một trong số đ�
 
 **Giá trị hiện tại.** Tạm bỏ qua lạm phát, một trái phiếu 10.000 USD đáo hạn sau một năm đáng giá bao nhiêu hôm nay? Chắc chắn không tới 10.000 USD, vì tiền tương lai không quý bằng cùng số tiền hiện tại. Dù chắc chắn mình còn sống sau một năm và không có lạm phát, người ta vẫn muốn có tiền ngay; ít nhất, tiền có hôm nay có thể gửi ngân hàng lấy lãi một năm. Cũng vì thế, giữa trái phiếu đáo hạn sau một năm và trái phiếu cùng mệnh giá đáo hạn sau mười năm, người ta trả ít hơn cho trái phiếu thứ hai. Cùng một số tiền danh nghĩa có giá trị khác nhau tuỳ phải chờ bao lâu.
 
-Ở lãi suất đủ cao, người ta sẵn sàng chờ hàng chục năm; trái phiếu 30 năm được mua thường xuyên, dù thường với lợi suất cao hơn chứng khoán đáo hạn sau một năm. Ở lãi suất đủ thấp, người ta không chịu chờ chút nào. Ở giữa có một mức lãi suất mà ở đó cho vay hay giữ tiền là như nhau với bạn. Nếu mức đó là 4%, thì với bạn 100 USD hôm nay ngang 104 USD sau một năm, và doanh nghiệp hay cơ quan nhà nước nào muốn vay 100 USD của bạn phải hứa trả lại ít nhất 104 USD. Nếu ai cũng nghĩ như bạn, lãi suất của cả nền kinh tế sẽ là 4%. Nếu người khác chỉ cho vay khi được 5%, lãi suất của nền kinh tế sẽ là 5%, vì doanh nghiệp và chính phủ không vay được rẻ hơn và cũng không cần trả cao hơn; khi đó bạn cũng không có lý do nhận ít hơn 5%, dù nếu buộc phải thì bạn vẫn chấp nhận 4%.
+Ở lãi suất đủ cao, người ta sẵn sàng chờ hàng chục năm; trái phiếu 30 năm được mua thường xuyên, dù thường với lợi suất cao hơn chứng khoán đáo hạn sau một năm. Ở lãi suất đủ thấp, người ta không chịu chờ chút nào. Ở giữa có một mức lãi suất mà ở đó cho vay hay giữ tiền là như nhau với bạn.
+
+Nếu mức đó là 4%, thì với bạn 100 USD hôm nay ngang 104 USD sau một năm, và doanh nghiệp hay cơ quan nhà nước nào muốn vay 100 USD của bạn phải hứa trả lại ít nhất 104 USD. Nếu ai cũng nghĩ như bạn, lãi suất của cả nền kinh tế sẽ là 4%. Nếu người khác chỉ cho vay khi được 5%, lãi suất của nền kinh tế sẽ là 5%, vì doanh nghiệp và chính phủ không vay được rẻ hơn và cũng không cần trả cao hơn; khi đó bạn cũng không có lý do nhận ít hơn 5%, dù nếu buộc phải thì bạn vẫn chấp nhận 4%.
 
 **Giá trái phiếu đi ngược lãi suất.** Khi lãi suất chung là 5%, không đáng trả quá 9.523,81 USD cho trái phiếu 10.000 USD đáo hạn sau một năm, vì đem chính số tiền đó đầu tư chỗ khác ở 5% cũng nhận về 10.000 USD. Nếu lãi suất chung là 12%, không đáng trả quá 8.928,57 USD. Giá người ta trả cho trái phiếu phụ thuộc vào số tiền đó sinh lời bao nhiêu ở chỗ khác; vì vậy lãi suất tăng thì giá trái phiếu giảm, và ngược lại.
 
-**Hệ quả cho thuế lãi vốn.** Ở lãi suất 5%, 9.523,81 USD năm 2014 ngang với 10.000 USD năm 2015. Nếu ai đó mua trái phiếu với giá thứ nhất và bán một năm sau với giá thứ hai, nhà nước sẽ muốn đánh thuế khoản chênh 476,19 USD. Nhưng nếu hai số tiền vốn tương đương nhau, khoản chênh có thật là giá trị tăng thêm? Nếu có lạm phát 1%, số 10.000 USD nhận lại không đủ bù cho việc chờ. Nếu lạm phát 5%, số nhận lại chỉ bằng giá trị đã cho vay, không có phần thưởng nào cho việc chờ; rõ ràng người đầu tư thiệt hơn là không mua trái phiếu. Vậy "lãi vốn" đó sao gọi là lãi được? Những điều này làm việc đánh thuế lãi vốn phức tạp hơn đánh thuế tiền lương; có nước không đánh thuế lãi vốn, còn ở Mỹ mức thuế lãi vốn vẫn là chủ đề tranh cãi chính trị.
+**Hệ quả cho thuế lãi vốn.** Ở lãi suất 5%, 9.523,81 USD năm 2014 ngang với 10.000 USD năm 2015. Nếu ai đó mua trái phiếu với giá thứ nhất và bán một năm sau với giá thứ hai, nhà nước sẽ muốn đánh thuế khoản chênh 476,19 USD. Nhưng nếu hai số tiền vốn tương đương nhau, khoản chênh có thật là giá trị tăng thêm?
+
+Nếu có lạm phát 1%, số 10.000 USD nhận lại không đủ bù cho việc chờ. Nếu lạm phát 5%, số nhận lại chỉ bằng giá trị đã cho vay, không có phần thưởng nào cho việc chờ; rõ ràng người đầu tư thiệt hơn là không mua trái phiếu. Vậy "lãi vốn" đó sao gọi là lãi được? Những điều này làm việc đánh thuế lãi vốn phức tạp hơn đánh thuế tiền lương; có nước không đánh thuế lãi vốn, còn ở Mỹ mức thuế lãi vốn vẫn là chủ đề tranh cãi chính trị.
 
 ### 2. Lợi tức biến động và lợi tức cố định (Variable Returns versus Fixed Returns)
 
@@ -697,9 +716,13 @@ Giá trị thực của một khoản tiền thay đổi theo thời điểm nh�
 
 ### 3. Cổ phiếu và trái phiếu (Stocks versus Bonds)
 
-**Khác biệt pháp lý.** Trái phiếu là cam kết pháp lý trả một số tiền cố định vào một ngày cố định. Cổ phiếu chỉ là phần sở hữu của doanh nghiệp phát hành, không có gì bảo đảm doanh nghiệp sẽ có lãi, càng không bảo đảm doanh nghiệp sẽ trả cổ tức thay vì giữ lại lợi nhuận để tái đầu tư. Người giữ trái phiếu có quyền pháp lý được trả đúng như đã hứa, dù doanh nghiệp lãi hay lỗ; về mặt này họ giống nhân viên, những người được hứa một mức lương cố định theo giờ, tuần hay tháng bất kể doanh nghiệp làm ăn ra sao. Chủ doanh nghiệp, dù là một người hay hàng triệu cổ đông, không có quyền pháp lý với thứ gì ngoài phần còn lại sau khi doanh nghiệp đã trả nhân viên, người giữ trái phiếu và các chủ nợ khác. Vì phần lớn doanh nghiệp mới thất bại trong vài năm đầu, phần còn lại đó có thể âm cũng dễ như dương: người lập doanh nghiệp không chỉ có thể không có lãi mà còn mất một phần hay toàn bộ vốn. Cổ phiếu và trái phiếu vì vậy mang mức rủi ro khác nhau, và tỷ lệ cổ phiếu, trái phiếu mà các loại doanh nghiệp phát hành có thể phản ánh rủi ro vốn có của chính ngành đó.
+**Khác biệt pháp lý.** Trái phiếu là cam kết pháp lý trả một số tiền cố định vào một ngày cố định. Cổ phiếu chỉ là phần sở hữu của doanh nghiệp phát hành, không có gì bảo đảm doanh nghiệp sẽ có lãi, càng không bảo đảm doanh nghiệp sẽ trả cổ tức thay vì giữ lại lợi nhuận để tái đầu tư. Người giữ trái phiếu có quyền pháp lý được trả đúng như đã hứa, dù doanh nghiệp lãi hay lỗ; về mặt này họ giống nhân viên, những người được hứa một mức lương cố định theo giờ, tuần hay tháng bất kể doanh nghiệp làm ăn ra sao.
 
-**Ví dụ giả định.** Ví dụ sau cho thấy vì sao với một việc kinh doanh rất rủi ro, góp vốn bằng cổ phiếu hợp lý hơn bằng trái phiếu. Một người huy động vốn cho một việc kinh doanh mà (1) khả năng phá sản là 50–50 và (2) nếu sống sót thì giá trị vốn ban đầu tăng gấp mười; có thể là khoan dầu hoặc đầu cơ ngoại tệ. Người đó mời bạn góp 5.000 USD. Nếu mua trái phiếu, bạn vẫn chỉ có 50% khả năng lấy lại đủ tiền, và nếu doanh nghiệp phát đạt bạn cũng chỉ được lãi suất ghi sẵn trên trái phiếu, dù chủ doanh nghiệp kiếm được hàng triệu USD bằng tiền của bạn; rõ ràng không đáng. Mua cổ phiếu thì có thể hợp lý nếu bạn chịu được rủi ro: nếu phá sản, cổ phiếu có thể mất trắng, còn trái phiếu vẫn được chia phần tài sản còn lại, dù chủ nợ chỉ nhận được vài xu trên mỗi đô la; nhưng nếu thành công và tài sản tăng gấp mười thì giá trị cổ phiếu của bạn cũng tăng gấp mười.
+Chủ doanh nghiệp, dù là một người hay hàng triệu cổ đông, không có quyền pháp lý với thứ gì ngoài phần còn lại sau khi doanh nghiệp đã trả nhân viên, người giữ trái phiếu và các chủ nợ khác. Vì phần lớn doanh nghiệp mới thất bại trong vài năm đầu, phần còn lại đó có thể âm cũng dễ như dương: người lập doanh nghiệp không chỉ có thể không có lãi mà còn mất một phần hay toàn bộ vốn. Cổ phiếu và trái phiếu vì vậy mang mức rủi ro khác nhau, và tỷ lệ cổ phiếu, trái phiếu mà các loại doanh nghiệp phát hành có thể phản ánh rủi ro vốn có của chính ngành đó.
+
+**Ví dụ giả định.** Ví dụ sau cho thấy vì sao với một việc kinh doanh rất rủi ro, góp vốn bằng cổ phiếu hợp lý hơn bằng trái phiếu. Một người huy động vốn cho một việc kinh doanh mà (1) khả năng phá sản là 50–50 và (2) nếu sống sót thì giá trị vốn ban đầu tăng gấp mười; có thể là khoan dầu hoặc đầu cơ ngoại tệ. Người đó mời bạn góp 5.000 USD. Nếu mua trái phiếu, bạn vẫn chỉ có 50% khả năng lấy lại đủ tiền, và nếu doanh nghiệp phát đạt bạn cũng chỉ được lãi suất ghi sẵn trên trái phiếu, dù chủ doanh nghiệp kiếm được hàng triệu USD bằng tiền của bạn; rõ ràng không đáng.
+
+Mua cổ phiếu thì có thể hợp lý nếu bạn chịu được rủi ro: nếu phá sản, cổ phiếu có thể mất trắng, còn trái phiếu vẫn được chia phần tài sản còn lại, dù chủ nợ chỉ nhận được vài xu trên mỗi đô la; nhưng nếu thành công và tài sản tăng gấp mười thì giá trị cổ phiếu của bạn cũng tăng gấp mười.
 
 **Vốn mạo hiểm.** Đầu tư kiểu này gọi là vốn mạo hiểm, khác với mua cổ phiếu hay trái phiếu của các tập đoàn lâu đời, vốn ít khi phá sản và cũng ít khi có lợi suất đột biến. Theo một ước tính kinh nghiệm, nhà đầu tư mạo hiểm cần lãi ít nhất 50% trên các thương vụ thành công để bù khoản lỗ của nhiều thương vụ thất bại mà tổng thể vẫn có lãi. Trên thực tế lợi suất vốn mạo hiểm dao động rất mạnh:
 
@@ -730,11 +753,15 @@ Rủi ro khác nhau giữa các doanh nghiệp, nên cách thu xếp tài chính
 
 Tương tự, cổ phiếu thường có lợi suất trung bình cao hơn trái phiếu, vì cổ phiếu có lợi suất biến động (đôi khi bằng không) còn trái phiếu có lợi suất cố định được bảo đảm. Sowell nhấn mạnh: không có nguyên tắc đạo đức nào buộc điều đó xảy ra; nó xảy ra vì người ta sẽ không chịu rủi ro mua cổ phiếu nếu không kỳ vọng lợi suất trung bình cao hơn trái phiếu.
 
-**Rủi ro còn tuỳ khoảng thời gian.** Trong một năm, trái phiếu thường an toàn hơn cổ phiếu nhiều. Nhưng trong 20 hay 30 năm, lạm phát đe doạ giá trị của trái phiếu và các tài sản tính bằng một số tiền cố định như tài khoản ngân hàng, còn giá cổ phiếu có xu hướng tăng theo lạm phát như bất động sản, nhà máy và các tài sản thực khác; là phần sở hữu tài sản thực, cổ phiếu tăng giá khi chính tài sản đó tăng giá trong lạm phát. Vì thế mức an toàn tương đối của cổ phiếu và trái phiếu trong dài hạn có thể khác hẳn trong ngắn hạn. Người còn vài chục năm nữa mới nghỉ hưu có thể thấy một danh mục cổ phiếu phù hợp an toàn hơn nhiều so với người cần tiền trong một hai năm. Câu "chắc như tiền gửi ngân hàng" (like money in the bank) dùng để chỉ một việc rất chắc chắn, nhưng tiền gửi ngân hàng không thật sự an toàn qua nhiều thập kỷ, khi lạm phát có thể lấy đi phần lớn giá trị của nó; trái phiếu cũng vậy. Tới khi tuổi thọ còn lại không còn tính bằng thập kỷ, người ta nên bắt đầu chuyển tiền từ cổ phiếu sang trái phiếu, tiền gửi và các tài sản an toàn hơn trong ngắn hạn.
+**Rủi ro còn tuỳ khoảng thời gian.** Trong một năm, trái phiếu thường an toàn hơn cổ phiếu nhiều. Nhưng trong 20 hay 30 năm, lạm phát đe doạ giá trị của trái phiếu và các tài sản tính bằng một số tiền cố định như tài khoản ngân hàng, còn giá cổ phiếu có xu hướng tăng theo lạm phát như bất động sản, nhà máy và các tài sản thực khác; là phần sở hữu tài sản thực, cổ phiếu tăng giá khi chính tài sản đó tăng giá trong lạm phát. Vì thế mức an toàn tương đối của cổ phiếu và trái phiếu trong dài hạn có thể khác hẳn trong ngắn hạn.
+
+Người còn vài chục năm nữa mới nghỉ hưu có thể thấy một danh mục cổ phiếu phù hợp an toàn hơn nhiều so với người cần tiền trong một hai năm. Câu "chắc như tiền gửi ngân hàng" (like money in the bank) dùng để chỉ một việc rất chắc chắn, nhưng tiền gửi ngân hàng không thật sự an toàn qua nhiều thập kỷ, khi lạm phát có thể lấy đi phần lớn giá trị của nó; trái phiếu cũng vậy. Tới khi tuổi thọ còn lại không còn tính bằng thập kỷ, người ta nên bắt đầu chuyển tiền từ cổ phiếu sang trái phiếu, tiền gửi và các tài sản an toàn hơn trong ngắn hạn.
 
 ### 4. Rủi ro và thời gian (Risk and Time)
 
-Thị trường cổ phiếu nói chung không rủi ro bằng đầu cơ hàng hoá hay vốn mạo hiểm, nhưng cũng không phải hình mẫu của sự ổn định. Ngay cả khi kinh tế và cổ phiếu đang bùng nổ, chỉ số Dow Jones Industrial Average (đo biến động giá cổ phiếu các tập đoàn lớn) vẫn có thể giảm trong một ngày. Trong toàn bộ lịch sử thị trường cổ phiếu Mỹ, chuỗi ngày giao dịch liên tiếp chỉ số Dow Jones đóng cửa tăng dài nhất là 14 ngày, từ năm 1897. Năm 2007, *Wall Street Journal* viết rằng chỉ số vừa kết thúc chuỗi tám phiên tăng liên tiếp, dài nhất từ năm 2003; nếu tăng thêm một ngày nữa thì đó sẽ là chuỗi dài nhất trong hơn một thập kỷ. Vậy mà báo chí vẫn đưa tin lên xuống hằng ngày của thị trường như tin lớn, thậm chí đoán lý do cho từng ngày, trong khi giá cổ phiếu trên khắp thế giới đã lên xuống như vậy hàng thế kỷ.
+Thị trường cổ phiếu nói chung không rủi ro bằng đầu cơ hàng hoá hay vốn mạo hiểm, nhưng cũng không phải hình mẫu của sự ổn định. Ngay cả khi kinh tế và cổ phiếu đang bùng nổ, chỉ số Dow Jones Industrial Average (đo biến động giá cổ phiếu các tập đoàn lớn) vẫn có thể giảm trong một ngày.
+
+Trong toàn bộ lịch sử thị trường cổ phiếu Mỹ, chuỗi ngày giao dịch liên tiếp chỉ số Dow Jones đóng cửa tăng dài nhất là 14 ngày, từ năm 1897. Năm 2007, *Wall Street Journal* viết rằng chỉ số vừa kết thúc chuỗi tám phiên tăng liên tiếp, dài nhất từ năm 2003; nếu tăng thêm một ngày nữa thì đó sẽ là chuỗi dài nhất trong hơn một thập kỷ. Vậy mà báo chí vẫn đưa tin lên xuống hằng ngày của thị trường như tin lớn, thậm chí đoán lý do cho từng ngày, trong khi giá cổ phiếu trên khắp thế giới đã lên xuống như vậy hàng thế kỷ.
 
 **So sánh dài hạn.** Ví dụ cực đoan về việc rủi ro tương đối của các loại đầu tư thay đổi theo thời gian (giá trị thực, đã tính lạm phát):
 
@@ -765,11 +792,15 @@ Lợi suất thực âm của trái phiếu trong các thập niên lạm phát 
 
 ### 5. Rủi ro và đa dạng hoá (Risk and Diversification)
 
-Có thể đối phó với nhiều mức độ và loại rủi ro bằng cách giữ nhiều loại đầu tư khác nhau, gọi là danh mục đầu tư, để khi một loại kém thì loại khác có thể đang tốt, nhờ đó giảm rủi ro chung cho toàn bộ tài sản. Như đã nói, trái phiếu có thể kém trong giai đoạn cổ phiếu lãi lớn và ngược lại, nên danh mục có cả cổ phiếu lẫn trái phiếu có thể ít rủi ro hơn nhiều so với chỉ giữ một loại. Ngay cả thêm một khoản đầu tư rủi ro khi đứng riêng như vàng, vốn có giá rất biến động, cũng có thể giảm rủi ro của cả danh mục, vì giá vàng thường đi ngược chiều giá cổ phiếu. Danh mục chủ yếu hay hoàn toàn là cổ phiếu cũng có thể giảm rủi ro bằng cách giữ cổ phiếu của nhiều công ty khác nhau.
+Có thể đối phó với nhiều mức độ và loại rủi ro bằng cách giữ nhiều loại đầu tư khác nhau, gọi là danh mục đầu tư, để khi một loại kém thì loại khác có thể đang tốt, nhờ đó giảm rủi ro chung cho toàn bộ tài sản. Như đã nói, trái phiếu có thể kém trong giai đoạn cổ phiếu lãi lớn và ngược lại, nên danh mục có cả cổ phiếu lẫn trái phiếu có thể ít rủi ro hơn nhiều so với chỉ giữ một loại.
+
+Ngay cả thêm một khoản đầu tư rủi ro khi đứng riêng như vàng, vốn có giá rất biến động, cũng có thể giảm rủi ro của cả danh mục, vì giá vàng thường đi ngược chiều giá cổ phiếu. Danh mục chủ yếu hay hoàn toàn là cổ phiếu cũng có thể giảm rủi ro bằng cách giữ cổ phiếu của nhiều công ty khác nhau.
 
 **Quỹ tương hỗ.** Nhóm cổ phiếu đó có thể do một nhà đầu tư chuyên nghiệp chọn và quản lý tiền cho người khác, thu phí, trong cái gọi là quỹ tương hỗ. Nếu quỹ chỉ mua đúng tổ hợp cổ phiếu trong chỉ số Dow Jones Industrial Average hay chỉ số Standard & Poor's thì ít phải quản lý hơn và có thể thu phí thấp hơn (quỹ chỉ số). Các quỹ tương hỗ quản lý những khoản tiền khổng lồ: hơn 50 quỹ có tài sản từ 10 tỷ USD trở lên mỗi quỹ.
 
-**Quỹ chủ động và quỹ chỉ số.** Về lý thuyết, các quỹ mà người quản lý chủ động theo dõi thị trường rồi chọn mua bán cổ phiếu phải có lợi suất trung bình cao hơn các quỹ chỉ mua theo chỉ số. Một số quỹ chủ động đúng là làm tốt hơn quỹ chỉ số, nhưng trong nhiều năm, quỹ chỉ số có lợi suất cao hơn đa số quỹ chủ động, khiến các quỹ chủ động rất bẽ mặt. Sowell dẫn số liệu năm 2005: trong 1.137 quỹ quản lý chủ động đầu tư vào cổ phiếu công ty lớn, "chỉ" 55,5% làm tốt hơn chỉ số Standard & Poor's (con số này mâu thuẫn với chữ "chỉ"; xem mục Đánh giá). Ngược lại, quỹ chỉ số ít cơ hội thắng lớn như một quỹ chủ động thành công. Một phóng viên *Wall Street Journal* khuyên dùng quỹ chỉ số cho người không có thời gian hay không đủ tự tin tự chọn cổ phiếu, và nói rằng có thể bạn sẽ không cười suốt đường tới ngân hàng, nhưng chắc sẽ mỉm cười tự mãn.
+**Quỹ chủ động và quỹ chỉ số.** Về lý thuyết, các quỹ mà người quản lý chủ động theo dõi thị trường rồi chọn mua bán cổ phiếu phải có lợi suất trung bình cao hơn các quỹ chỉ mua theo chỉ số. Một số quỹ chủ động đúng là làm tốt hơn quỹ chỉ số, nhưng trong nhiều năm, quỹ chỉ số có lợi suất cao hơn đa số quỹ chủ động, khiến các quỹ chủ động rất bẽ mặt.
+
+Sowell dẫn số liệu năm 2005: trong 1.137 quỹ quản lý chủ động đầu tư vào cổ phiếu công ty lớn, "chỉ" 55,5% làm tốt hơn chỉ số Standard & Poor's (con số này mâu thuẫn với chữ "chỉ"; xem mục Đánh giá). Ngược lại, quỹ chỉ số ít cơ hội thắng lớn như một quỹ chủ động thành công. Một phóng viên *Wall Street Journal* khuyên dùng quỹ chỉ số cho người không có thời gian hay không đủ tự tin tự chọn cổ phiếu, và nói rằng có thể bạn sẽ không cười suốt đường tới ngân hàng, nhưng chắc sẽ mỉm cười tự mãn.
 
 Không có nơi nào hoàn toàn thoát rủi ro:
 
@@ -781,15 +812,19 @@ Không có nơi nào hoàn toàn thoát rủi ro:
 
 Theo Sowell, điều đáng quan tâm không phải là quỹ có lãi mọi năm hay không, mà là chúng có thường xuyên có lãi hay không.
 
-**Chia rủi ro là nguyên lý cũ.** Sowell viết rằng quỹ tương hỗ xuất hiện lần đầu trong một phần tư cuối thế kỷ 20 (xem phần Lưu ý về điểm này), nhưng người tự đầu tư tiền của mình đã hiểu nguyên lý chia rủi ro từ lâu. Nhiều thế kỷ trước, chủ tàu thường thấy sở hữu 10% của mười con tàu thận trọng hơn sở hữu trọn một con tàu. Thời tàu gỗ chạy buồm, nguy cơ tàu chìm lớn hơn nhiều so với thời tàu sắt chạy máy. Sở hữu 10% của mười con tàu làm tăng khả năng mất ít nhất một con, nhưng giảm rất nhiều mức thảm khốc của khoản mất đó.
+**Chia rủi ro là nguyên lý cũ.** Sowell viết rằng quỹ tương hỗ xuất hiện lần đầu trong một phần tư cuối thế kỷ 20 (xem mục Lưu ý cuối chương về điểm này), nhưng người tự đầu tư tiền của mình đã hiểu nguyên lý chia rủi ro từ lâu. Nhiều thế kỷ trước, chủ tàu thường thấy sở hữu 10% của mười con tàu thận trọng hơn sở hữu trọn một con tàu. Thời tàu gỗ chạy buồm, nguy cơ tàu chìm lớn hơn nhiều so với thời tàu sắt chạy máy. Sở hữu 10% của mười con tàu làm tăng khả năng mất ít nhất một con, nhưng giảm rất nhiều mức thảm khốc của khoản mất đó.
 
 ### 6. Đầu tư vào vốn con người (Investing in Human Capital)
 
 Đầu tư vào vốn con người có chỗ giống và có chỗ khác đầu tư vào các loại vốn khác. Người nhận việc không lương, hay lương thấp hơn nhiều so với nơi khác, thực chất đang đầu tư thời gian làm việc (thay vì tiền) với hy vọng thu nhập tương lai cao hơn so với nhận việc lương cao ngay từ đầu. Nhưng khi một người đầu tư vào vốn con người của người khác, khoản đầu tư khó thu hồi hơn. Thường thì người dùng tiền của người khác để đi học hoặc nhận tiền đó như quà tặng (từ cha mẹ, nhà hảo tâm, tổ chức từ thiện hay chính phủ), hoặc đi vay.
 
-**Sinh viên "phát hành trái phiếu" nhưng hiếm khi "phát hành cổ phiếu".** Nhiều sinh viên vay nợ để đi học, nhưng hiếm ai bán một tỷ lệ thu nhập tương lai của mình. Số ít người đã làm vậy thường bực bội về sau, khi vẫn phải tiếp tục nộp một phần thu nhập dù số đã nộp đã vượt khoản đầu tư ban đầu. Nhưng công ty phát hành cổ phiếu cũng trả cổ tức mãi, bất kể giá mua cổ phiếu ban đầu đã được hoàn lại hay chưa; đó chính là khác biệt giữa cổ phiếu và trái phiếu. Chỉ nhìn tình huống sau khi khoản đầu tư vào con người đã thành công là sai lệch: cổ phiếu được phát hành chính vì có rủi ro khoản đầu tư không thành công. Vì nhiều sinh viên đại học sẽ không bao giờ tốt nghiệp, và cả một số người tốt nghiệp cũng có thu nhập ít ỏi, việc gộp rủi ro cho phép có thêm vốn tư nhân cho sinh viên nói chung.
+**Sinh viên "phát hành trái phiếu" nhưng hiếm khi "phát hành cổ phiếu".** Nhiều sinh viên vay nợ để đi học, nhưng hiếm ai bán một tỷ lệ thu nhập tương lai của mình. Số ít người đã làm vậy thường bực bội về sau, khi vẫn phải tiếp tục nộp một phần thu nhập dù số đã nộp đã vượt khoản đầu tư ban đầu. Nhưng công ty phát hành cổ phiếu cũng trả cổ tức mãi, bất kể giá mua cổ phiếu ban đầu đã được hoàn lại hay chưa; đó chính là khác biệt giữa cổ phiếu và trái phiếu.
 
-Lý tưởng nhất, nếu sinh viên có thể và thật sự phát hành cả cổ phiếu lẫn trái phiếu vào chính mình, thì cha mẹ hay người nộp thuế không cần trợ cấp việc học, và ngay cả sinh viên nghèo khó cũng vào được trường đắt nhất mà không cần hỗ trợ tài chính. Nhưng vấn đề pháp lý, quán tính thể chế và thái độ xã hội đã khiến kiểu thu xếp này không phổ biến ở các trường đại học. Khi Đại học Yale thập niên 1970 đưa ra khoản vay có số tiền trả lại thay đổi theo thu nhập tương lai của sinh viên, những sinh viên sắp vào nghề luật, kinh doanh và y thường không vay theo chương trình này, vì thu nhập cao dự kiến sẽ khiến họ trả lại nhiều hơn số đã vay. Họ thích "phát hành trái phiếu" hơn "phát hành cổ phiếu".
+Chỉ nhìn tình huống sau khi khoản đầu tư vào con người đã thành công là sai lệch: cổ phiếu được phát hành chính vì có rủi ro khoản đầu tư không thành công. Vì nhiều sinh viên đại học sẽ không bao giờ tốt nghiệp, và cả một số người tốt nghiệp cũng có thu nhập ít ỏi, việc gộp rủi ro cho phép có thêm vốn tư nhân cho sinh viên nói chung.
+
+Lý tưởng nhất, nếu sinh viên có thể và thật sự phát hành cả cổ phiếu lẫn trái phiếu vào chính mình, thì cha mẹ hay người nộp thuế không cần trợ cấp việc học, và ngay cả sinh viên nghèo khó cũng vào được trường đắt nhất mà không cần hỗ trợ tài chính. Nhưng vấn đề pháp lý, quán tính thể chế và thái độ xã hội đã khiến kiểu thu xếp này không phổ biến ở các trường đại học.
+
+Khi Đại học Yale thập niên 1970 đưa ra khoản vay có số tiền trả lại thay đổi theo thu nhập tương lai của sinh viên, những sinh viên sắp vào nghề luật, kinh doanh và y thường không vay theo chương trình này, vì thu nhập cao dự kiến sẽ khiến họ trả lại nhiều hơn số đã vay. Họ thích "phát hành trái phiếu" hơn "phát hành cổ phiếu".
 
 **Những nơi con người thật sự "phát hành cổ phiếu".**
 
@@ -807,11 +842,15 @@ Kết luận của tiểu mục: đầu tư vào vốn con người, cũng như 
 
 Phần "Insurance" (bảo hiểm) của chương mở đầu bằng nhận xét rằng nhiều thứ được gọi là "bảo hiểm" nhưng không phải bảo hiểm. Sowell trình bày trước nguyên lý mà bảo hiểm đã vận hành hàng thế kỷ, rồi mới phân biệt nó với các chương trình gần đây được gọi là "bảo hiểm" trong ngôn từ chính trị.
 
-**Chuyển và giảm rủi ro.** Như người đầu cơ hàng hoá, công ty bảo hiểm xử lý những rủi ro vốn có và không tránh được. Bảo hiểm vừa chuyển vừa giảm rủi ro. Đổi lấy phí bảo hiểm của người mua, công ty nhận rủi ro bồi thường thiệt hại do tai nạn ô tô, cháy nhà, động đất, bão và vô số bất hạnh khác. Riêng nước Mỹ có gần 36.000 công ty bảo hiểm. Ngoài chuyển rủi ro, công ty bảo hiểm còn tìm cách giảm rủi ro: thu phí thấp hơn với tài xế an toàn, từ chối bảo hiểm một số căn nhà cho tới khi bụi cây và vật liệu dễ cháy quanh nhà được dọn đi, thu phí cao hơn với người làm nghề nguy hiểm. Bằng nhiều cách, công ty chia dân số thành các nhóm và thu giá khác nhau với người có rủi ro khác nhau. Nhờ vậy công ty giảm rủi ro tổng thể của mình, đồng thời gửi tín hiệu cho người làm nghề nguy hiểm hay sống ở khu nguy hiểm về chi phí mà hoạt động, hành vi hay nơi ở họ chọn tạo ra.
+**Chuyển và giảm rủi ro.** Như người đầu cơ hàng hoá, công ty bảo hiểm xử lý những rủi ro vốn có và không tránh được. Bảo hiểm vừa chuyển vừa giảm rủi ro. Đổi lấy phí bảo hiểm của người mua, công ty nhận rủi ro bồi thường thiệt hại do tai nạn ô tô, cháy nhà, động đất, bão và vô số bất hạnh khác. Riêng nước Mỹ có gần 36.000 công ty bảo hiểm.
+
+Ngoài chuyển rủi ro, công ty bảo hiểm còn tìm cách giảm rủi ro: thu phí thấp hơn với tài xế an toàn, từ chối bảo hiểm một số căn nhà cho tới khi bụi cây và vật liệu dễ cháy quanh nhà được dọn đi, thu phí cao hơn với người làm nghề nguy hiểm. Bằng nhiều cách, công ty chia dân số thành các nhóm và thu giá khác nhau với người có rủi ro khác nhau. Nhờ vậy công ty giảm rủi ro tổng thể của mình, đồng thời gửi tín hiệu cho người làm nghề nguy hiểm hay sống ở khu nguy hiểm về chi phí mà hoạt động, hành vi hay nơi ở họ chọn tạo ra.
 
 **Bảo hiểm nhân thọ.** Loại bảo hiểm phổ biến nhất bù đắp cho một bất hạnh không thể ngăn được: ai cũng chết, rủi ro nằm ở thời điểm chết. Nếu biết trước mọi người đều chết ở tuổi 80 thì bảo hiểm nhân thọ vô nghĩa, vì không có rủi ro; mỗi người có thể tự sắp xếp tài chính trước cho thời điểm đó. Đóng phí cho công ty bảo hiểm cũng vô nghĩa, vì tổng số phí đóng qua các năm (cộng lãi) phải ít nhất bằng số tiền người thụ hưởng nhận được; công ty bảo hiểm nhân thọ khi đó thực chất chỉ là người phát hành trái phiếu đáo hạn vào ngày cố định. Mua bảo hiểm nhân thọ ở tuổi 20 khi đó giống mua trái phiếu 60 năm, ở tuổi 30 giống mua trái phiếu 50 năm.
 
-Điều làm bảo hiểm nhân thọ khác trái phiếu là cả người được bảo hiểm lẫn công ty đều không biết người đó sẽ chết lúc nào. Rủi ro tài chính mà cái chết của người trụ cột gia đình hay người góp vốn kinh doanh gây ra cho người khác được chuyển sang công ty bảo hiểm, với một cái giá. Rủi ro cũng giảm đi, vì tỷ lệ tử vong trung bình của hàng triệu người mua bảo hiểm dễ đoán hơn rất nhiều so với cái chết của một người. Như các loại bảo hiểm khác, rủi ro không chỉ chuyển từ bên này sang bên kia mà còn giảm trong quá trình đó. Chính điều này làm việc mua bán hợp đồng bảo hiểm có lợi cho cả hai bên: hợp đồng có giá trị với người mua cao hơn chi phí với người bán, vì rủi ro người bán gánh nhỏ hơn rủi ro người mua phải gánh nếu không có bảo hiểm.
+Điều làm bảo hiểm nhân thọ khác trái phiếu là cả người được bảo hiểm lẫn công ty đều không biết người đó sẽ chết lúc nào. Rủi ro tài chính mà cái chết của người trụ cột gia đình hay người góp vốn kinh doanh gây ra cho người khác được chuyển sang công ty bảo hiểm, với một cái giá. Rủi ro cũng giảm đi, vì tỷ lệ tử vong trung bình của hàng triệu người mua bảo hiểm dễ đoán hơn rất nhiều so với cái chết của một người.
+
+Như các loại bảo hiểm khác, rủi ro không chỉ chuyển từ bên này sang bên kia mà còn giảm trong quá trình đó. Chính điều này làm việc mua bán hợp đồng bảo hiểm có lợi cho cả hai bên: hợp đồng có giá trị với người mua cao hơn chi phí với người bán, vì rủi ro người bán gánh nhỏ hơn rủi ro người mua phải gánh nếu không có bảo hiểm.
 
 **Tự bảo hiểm.** Bên nào đã có đủ nhiều rủi ro tương tự thì có thể không được lợi gì khi mua bảo hiểm. Hãng thuê xe Hertz có nhiều xe đến mức rủi ro đã đủ phân tán, nên không cần trả tiền cho công ty bảo hiểm; hãng có thể dùng chính các phương pháp thống kê của công ty bảo hiểm để tính chi phí rủi ro và đưa vào giá thuê xe. Chuyển một rủi ro mà không giảm được nó thì vô ích, vì công ty bảo hiểm phải thu ít nhất bằng chi phí rủi ro đó, cộng thêm chi phí quản lý và lợi nhuận. Vì vậy tự bảo hiểm là lựa chọn khả thi với ai có đủ nhiều rủi ro.
 
@@ -841,7 +880,9 @@ Vai trò của cạnh tranh thấy rõ khi giá bảo hiểm nhân thọ có k�
 
 Thống kê về cách tài xế đang cư xử và thiệt hại họ đang gánh có thể đánh giá thấp thiệt hại họ sẽ gánh sau khi có bảo hiểm. Đó là lý do rủi ro đạo đức là mối nguy cho công ty bảo hiểm và là nguồn gốc của phí cao hơn cho người mua.
 
-**Lựa chọn bất lợi.** Tương tự, biết bao nhiêu phần trăm dân số mắc một bệnh cũng có thể dẫn tới tính sai chi phí bảo hiểm chữa bệnh đó. Nếu 1/100.000 người mắc bệnh X và chữa trung bình tốn 10.000 USD, có vẻ thêm bảo hiểm bệnh X vào hợp đồng chỉ tốn thêm 10 xu mỗi hợp đồng. Nhưng nếu một số người dễ mắc bệnh hơn người khác, và họ biết điều đó? Nếu người làm việc trong và quanh nước dễ mắc bệnh X hơn người ngồi văn phòng khô ráo có máy lạnh, thì ngư dân, nhân viên cứu hộ và thuỷ thủ sẽ mua bảo hiểm này nhiều hơn thư ký, giám đốc hay lập trình viên; dân Hawaii sẽ mua nhiều hơn dân Arizona. Hiện tượng này gọi là lựa chọn bất lợi, vì thống kê tỷ lệ mắc bệnh X trong toàn dân có thể đánh giá thấp nghiêm trọng tỷ lệ mắc trong nhóm người có khả năng mua bảo hiểm.
+**Lựa chọn bất lợi.** Tương tự, biết bao nhiêu phần trăm dân số mắc một bệnh cũng có thể dẫn tới tính sai chi phí bảo hiểm chữa bệnh đó. Nếu 1/100.000 người mắc bệnh X và chữa trung bình tốn 10.000 USD, có vẻ thêm bảo hiểm bệnh X vào hợp đồng chỉ tốn thêm 10 xu mỗi hợp đồng.
+
+Nhưng nếu một số người dễ mắc bệnh hơn người khác, và họ biết điều đó? Nếu người làm việc trong và quanh nước dễ mắc bệnh X hơn người ngồi văn phòng khô ráo có máy lạnh, thì ngư dân, nhân viên cứu hộ và thuỷ thủ sẽ mua bảo hiểm này nhiều hơn thư ký, giám đốc hay lập trình viên; dân Hawaii sẽ mua nhiều hơn dân Arizona. Hiện tượng này gọi là lựa chọn bất lợi, vì thống kê tỷ lệ mắc bệnh X trong toàn dân có thể đánh giá thấp nghiêm trọng tỷ lệ mắc trong nhóm người có khả năng mua bảo hiểm.
 
 Tính chi phí và xác suất cho các loại bảo hiểm đòi hỏi tính toán thống kê phức tạp, nhưng không bao giờ thành khoa học thuần tuý, vì những điều không đoán trước được như thay đổi hành vi do chính bảo hiểm gây ra và khác biệt giữa người chọn mua với người không mua bảo hiểm cho một rủi ro.
 
@@ -855,7 +896,9 @@ Bắt buộc mọi ngân hàng và hiệp hội tiết kiệm và cho vay (savin
 
 *Chú thích của Sowell:* Dù tỷ lệ tử vong do tai nạn xe cao nhất ở tài xế 20–24 tuổi, đà giảm của tỷ lệ này dừng lại ở nhóm 55–59 tuổi rồi tăng trở lại; tài xế 80–84 tuổi có tỷ lệ tử vong do tai nạn xe tương đương tài xế 16–19 tuổi (nguồn: Insurance Information Institute, *2012 Insurance Fact Book*).
 
-Một Luật sư thành phố Oakland (California) tổ chức họp báo và hỏi vì sao một thanh niên ở khu Fruitvale phải trả phí bảo hiểm cao hơn 30% so với người ở khu khác, "sao có thể gọi là công bằng?". Theo Sowell, ẩn sau những lập luận chính trị như vậy là ý rằng phạt người ta vì điều không phải lỗi của họ là sai. Nhưng bảo hiểm là chuyện rủi ro, không phải chuyện lỗi, và rủi ro cao hơn khi bạn sống ở nơi xe dễ bị trộm, bị phá hay bị đâm bởi những người đua xe trái phép trong vùng. Gian lận bảo hiểm cũng khác nhau giữa các nơi, và phí cao hơn ở nơi gian lận phổ biến hơn. Vì vậy cùng một gói bảo hiểm cho cùng một chiếc xe có thể khác giá giữa các thành phố, thậm chí giữa các khu trong một thành phố:
+Một Luật sư thành phố Oakland (California) tổ chức họp báo và hỏi vì sao một thanh niên ở khu Fruitvale phải trả phí bảo hiểm cao hơn 30% so với người ở khu khác, "sao có thể gọi là công bằng?". Theo Sowell, ẩn sau những lập luận chính trị như vậy là ý rằng phạt người ta vì điều không phải lỗi của họ là sai.
+
+Nhưng bảo hiểm là chuyện rủi ro, không phải chuyện lỗi, và rủi ro cao hơn khi bạn sống ở nơi xe dễ bị trộm, bị phá hay bị đâm bởi những người đua xe trái phép trong vùng. Gian lận bảo hiểm cũng khác nhau giữa các nơi, và phí cao hơn ở nơi gian lận phổ biến hơn. Vì vậy cùng một gói bảo hiểm cho cùng một chiếc xe có thể khác giá giữa các thành phố, thậm chí giữa các khu trong một thành phố:
 
 | Cùng gói bảo hiểm ô tô | Phí |
 |---|---|
@@ -882,11 +925,15 @@ Bảo hiểm và niên kim "phi giới tính" (unisex) sẽ tốn tổng chi ph�
 
 Các chương trình của chính phủ xử lý rủi ro thường được ví như bảo hiểm, thậm chí được gọi chính thức là "bảo hiểm", mà thực chất không phải bảo hiểm. Chương trình Bảo hiểm Lũ lụt Quốc gia (National Flood Insurance Program) của Mỹ bảo hiểm nhà ở những nơi quá rủi ro với một công ty bảo hiểm thật, và thu phí thấp xa so với mức cần để trang trải chi phí, phần còn lại do người nộp thuế gánh. Ngoài ra, Cơ quan Quản lý Khẩn cấp Liên bang (FEMA) giúp nạn nhân lũ, bão và các thiên tai khác phục hồi và xây lại. FEMA không chỉ giúp người gặp thiên tai không lường trước, mà cả các khu nghỉ dưỡng giàu có xây ở những nơi đã biết trước là rất nguy hiểm.
 
-**Bờ biển Bắc Carolina.** Một cựu thị trưởng của Emerald Isle (Bắc Carolina) nói thị trấn "về cơ bản dùng FEMA như một hợp đồng bảo hiểm". Được che chắn bằng sự bảo vệ tài chính được bao cấp nặng, nhiều cộng đồng dễ tổn thương đã mọc lên dọc bờ biển Bắc Carolina. Theo *Washington Post*, hai thập kỷ qua các thị trấn biển trải qua cơn bùng nổ xây dựng chưa từng có, biến những làng chài yên tĩnh thành khu nghỉ dưỡng hiện đại; giá đất tăng gấp đôi, gấp ba, lô đất mặt biển bán từ 1 triệu USD trở lên; những căn nhà nhỏ cũ bị thay bằng nhà cho thuê đồ sộ có 10 phòng ngủ, phòng trò chơi, thang máy, bồn tắm sục và bể bơi. Tất cả điều đó khả thi nhờ có tiền của chính phủ để thay thế khối bất động sản đắt đỏ và dễ tổn thương này, trên một bờ biển thường bị bão. Sau một trận bão, FEMA đã mua khoảng 15 triệu USD cát để bù lượng cát bị cuốn khỏi bãi biển.
+**Bờ biển Bắc Carolina.** Một cựu thị trưởng của Emerald Isle (Bắc Carolina) nói thị trấn "về cơ bản dùng FEMA như một hợp đồng bảo hiểm". Được che chắn bằng sự bảo vệ tài chính được bao cấp nặng, nhiều cộng đồng dễ tổn thương đã mọc lên dọc bờ biển Bắc Carolina.
+
+Theo *Washington Post*, hai thập kỷ qua các thị trấn biển trải qua cơn bùng nổ xây dựng chưa từng có, biến những làng chài yên tĩnh thành khu nghỉ dưỡng hiện đại; giá đất tăng gấp đôi, gấp ba, lô đất mặt biển bán từ 1 triệu USD trở lên; những căn nhà nhỏ cũ bị thay bằng nhà cho thuê đồ sộ có 10 phòng ngủ, phòng trò chơi, thang máy, bồn tắm sục và bể bơi. Tất cả điều đó khả thi nhờ có tiền của chính phủ để thay thế khối bất động sản đắt đỏ và dễ tổn thương này, trên một bờ biển thường bị bão. Sau một trận bão, FEMA đã mua khoảng 15 triệu USD cát để bù lượng cát bị cuốn khỏi bãi biển.
 
 **Không giảm rủi ro mà tăng rủi ro.** Khác bảo hiểm thật, FEMA và Chương trình Bảo hiểm Lũ lụt Quốc gia không làm giảm rủi ro tổng thể. Người ta thường xây lại nhà cửa, cơ sở kinh doanh ngay trên đường đi quen thuộc của bão và lũ, và báo chí thường khen họ "can đảm". Nhưng rủi ro tài chính mà họ tạo ra không do họ trả (như với bảo hiểm), mà do người nộp thuế trả. Nghĩa là chính phủ làm cho việc sống ở nơi rủi ro rẻ hơn với cá nhân, và đắt hơn với cả xã hội, khi dân cư phân bố theo cách rủi ro hơn so với nếu họ phải tự gánh chi phí, bằng phí bảo hiểm cao hơn hay bằng thiệt hại tài chính và nỗi lo.
 
-**Căn nhà của John Stossel.** Phóng viên truyền hình John Stossel kể: năm 1980 ông xây một căn nhà bên biển tuyệt đẹp, bốn phòng ngủ, phòng nào cũng nhìn ra Đại Tây Dương. Đó là chỗ xây nhà vô lý, ngay mép biển, chỉ có 100 feet cát (khoảng 30 mét) ngăn giữa nhà và sự đổ nát. Cha của Stossel khuyên đừng xây vì quá rủi ro, nhưng Stossel vẫn xây, vì kiến trúc sư (đang muốn có hợp đồng) nói: "Sao không? Nếu biển phá nhà thì chính phủ sẽ trả tiền cho căn nhà mới." Bốn năm sau, sóng tràn vào phá tầng một, và chính phủ trả tiền sửa. Mười năm sau nữa, sóng lại tràn vào và lần này cuốn trôi cả căn nhà; chính phủ trả tiền cho cả căn nhà lẫn đồ đạc. Stossel mô tả phí ông đóng cho Chương trình Bảo hiểm Lũ lụt Quốc gia là "rẻ như bèo", trong khi cùng mức bảo hiểm ở công ty tư chắc chắn sẽ "đắt đến mức không thể mua nổi".
+**Căn nhà của John Stossel.** Phóng viên truyền hình John Stossel kể: năm 1980 ông xây một căn nhà bên biển tuyệt đẹp, bốn phòng ngủ, phòng nào cũng nhìn ra Đại Tây Dương. Đó là chỗ xây nhà vô lý, ngay mép biển, chỉ có 100 feet cát (khoảng 30 mét) ngăn giữa nhà và sự đổ nát. Cha của Stossel khuyên đừng xây vì quá rủi ro, nhưng Stossel vẫn xây, vì kiến trúc sư (đang muốn có hợp đồng) nói: "Sao không? Nếu biển phá nhà thì chính phủ sẽ trả tiền cho căn nhà mới."
+
+Bốn năm sau, sóng tràn vào phá tầng một, và chính phủ trả tiền sửa. Mười năm sau nữa, sóng lại tràn vào và lần này cuốn trôi cả căn nhà; chính phủ trả tiền cho cả căn nhà lẫn đồ đạc. Stossel mô tả phí ông đóng cho Chương trình Bảo hiểm Lũ lụt Quốc gia là "rẻ như bèo", trong khi cùng mức bảo hiểm ở công ty tư chắc chắn sẽ "đắt đến mức không thể mua nổi".
 
 Đây không phải chương trình cho người thu nhập thấp: nó bảo hiểm cả biệt thự ở Malibu và nhà nghỉ của các gia đình giàu ở Hyannis và Kennebunkport. Chương trình Bảo hiểm Lũ lụt Quốc gia thực tế là công ty bảo hiểm tài sản lớn nhất nước Mỹ.
 
@@ -898,9 +945,15 @@ Các chương trình của chính phủ xử lý rủi ro thường được ví
 
 **Áp lực chính trị.** Chính trị gần như không cưỡng nổi việc cứu trợ người gặp động đất, cháy rừng, lốc xoáy và các thiên tai khác, cùng với cấp tiền xây lại. Hình ảnh bi thương trên truyền hình lấn át mọi cân nhắc về hoàn cảnh lúc người ta quyết định sống ở nơi đó. Chi phí xây lại New Orleans sau bão Katrina được ước tính đủ để trả mỗi gia đình bốn người ở New Orleans 800.000 USD, số tiền họ có thể dùng để chuyển tới nơi an toàn hơn nếu muốn. Nhưng đề nghị như vậy khó có ai đưa ra, ở New Orleans hay ở những nơi khác thường xuyên gặp thiên tai đoán trước được, từ cháy rừng tới bão.
 
-Ngay cả khi chưa có thiên tai, chỉ viễn cảnh thiên tai cũng thường kéo theo lời kêu gọi chính phủ trợ cấp. Một bài xã luận của *New York Times* viết rằng phí bảo hiểm tăng không ngừng và các công ty cắt hàng trăm nghìn hợp đồng bảo hiểm nhà từ vịnh Mexico dọc bờ Đông tới Florida và Long Island, nên có nguy cơ hàng triệu người sắp không mua được bảo hiểm, và đó là lý lẽ thuyết phục để chính phủ giúp đỡ. Sowell phản bác: lập luận như vậy coi vấn đề duy nhất là trang trải thiệt hại, chứ không phải giảm nguy cơ thiệt hại ngay từ đầu bằng cách không ở nơi nguy hiểm. Bảo hiểm tư tạo động cơ để dời đi bằng cách thu phí cao hơn ở nơi nguy hiểm. Còn việc chính phủ kiểm soát giá bảo hiểm đã cho kết quả dễ đoán, như chính bài xã luận ghi nhận: các công ty tăng phí hết mức có thể, và khi bị cấm tăng thì thôi bảo hiểm những căn nhà rủi ro hơn.
+Ngay cả khi chưa có thiên tai, chỉ viễn cảnh thiên tai cũng thường kéo theo lời kêu gọi chính phủ trợ cấp. Một bài xã luận của *New York Times* viết rằng phí bảo hiểm tăng không ngừng và các công ty cắt hàng trăm nghìn hợp đồng bảo hiểm nhà từ vịnh Mexico dọc bờ Đông tới Florida và Long Island, nên có nguy cơ hàng triệu người sắp không mua được bảo hiểm, và đó là lý lẽ thuyết phục để chính phủ giúp đỡ.
 
-**Cạnh tranh về dịch vụ.** Cứu trợ thiên tai của chính phủ còn khác bồi thường của công ty bảo hiểm tư ở một điểm nữa: các công ty bảo hiểm cạnh tranh không chỉ về giá mà cả về dịch vụ. Khi lũ, bão hay thảm hoạ khác xảy ra, công ty A không thể chậm hơn công ty B trong việc đưa tiền tới khách hàng. Hãy hình dung một người bị lũ hay bão phá nhà vẫn đang chờ nhân viên bảo hiểm của mình, trong khi nhân viên của công ty hàng xóm tới trong vài giờ và ứng ngay vài nghìn USD để gia đình đó có tiền tìm chỗ trú. Không chỉ khách hàng của công ty chậm chạp sẽ đổi công ty, mà người dân khắp nước cũng vậy nếu tin lan ra ai phục vụ nhanh, ai lề mề; với công ty chậm chạp, điều đó có thể nghĩa là mất hàng tỷ USD doanh thu trên toàn quốc. Theo một bài của *New York Times*, để chuẩn bị cho tình huống xấu nhất, có công ty trang bị xe có hệ thống định vị toàn cầu (GPS) để đi lại trong những khu phố bị đổ biển tên đường và mất các mốc quen thuộc, và nhiều nhân viên giám định bồi thường mang bản đồ in từ máy tính đánh dấu vị trí chính xác của từng khách hàng.
+Sowell phản bác: lập luận như vậy coi vấn đề duy nhất là trang trải thiệt hại, chứ không phải giảm nguy cơ thiệt hại ngay từ đầu bằng cách không ở nơi nguy hiểm. Bảo hiểm tư tạo động cơ để dời đi bằng cách thu phí cao hơn ở nơi nguy hiểm. Còn việc chính phủ kiểm soát giá bảo hiểm đã cho kết quả dễ đoán, như chính bài xã luận ghi nhận: các công ty tăng phí hết mức có thể, và khi bị cấm tăng thì thôi bảo hiểm những căn nhà rủi ro hơn.
+
+**Cạnh tranh về dịch vụ.** Cứu trợ thiên tai của chính phủ còn khác bồi thường của công ty bảo hiểm tư ở một điểm nữa: các công ty bảo hiểm cạnh tranh không chỉ về giá mà cả về dịch vụ. Khi lũ, bão hay thảm hoạ khác xảy ra, công ty A không thể chậm hơn công ty B trong việc đưa tiền tới khách hàng.
+
+Hãy hình dung một người bị lũ hay bão phá nhà vẫn đang chờ nhân viên bảo hiểm của mình, trong khi nhân viên của công ty hàng xóm tới trong vài giờ và ứng ngay vài nghìn USD để gia đình đó có tiền tìm chỗ trú. Không chỉ khách hàng của công ty chậm chạp sẽ đổi công ty, mà người dân khắp nước cũng vậy nếu tin lan ra ai phục vụ nhanh, ai lề mề; với công ty chậm chạp, điều đó có thể nghĩa là mất hàng tỷ USD doanh thu trên toàn quốc.
+
+Theo một bài của *New York Times*, để chuẩn bị cho tình huống xấu nhất, có công ty trang bị xe có hệ thống định vị toàn cầu (GPS) để đi lại trong những khu phố bị đổ biển tên đường và mất các mốc quen thuộc, và nhiều nhân viên giám định bồi thường mang bản đồ in từ máy tính đánh dấu vị trí chính xác của từng khách hàng.
 
 **Bão Katrina 2005.** Sau khi bão Katrina tàn phá New Orleans năm 2005, *Wall Street Journal* mô tả khác biệt giữa phản ứng của khu vực tư và chính phủ: khu vực tư lên kế hoạch từ trước khi bão đổ bộ. "Phòng chỉ huy" của chuỗi Home Depot đã chuyển những mặt hàng có nhu cầu cao (máy phát điện, đèn pin, pin, gỗ xây dựng) tới các điểm phân phối quanh vùng bão; các công ty điện thoại chuẩn bị trạm phát sóng di động, gửi máy phát điện và nhiên liệu; các công ty bảo hiểm đưa các đội đặc biệt tới bằng máy bay và lập đường dây nóng để xử lý hồ sơ bồi thường.
 
@@ -913,7 +966,11 @@ Khác biệt về tốc độ cũng thấy trong giai đoạn phục hồi:
 
 Các chương trình khẩn cấp của chính phủ không có đối thủ cạnh tranh, nên thiếu kiểu cạnh tranh buộc khu vực tư phản ứng nhanh. Chúng có thể được ví như bảo hiểm nhưng không có cùng động cơ hay kết quả. Động cơ chính trị thậm chí có thể làm chậm cứu trợ: khi một cơn bão xoáy lớn đổ vào Ấn Độ năm 1999 làm hàng nghìn người chết, báo chí Ấn Độ đưa tin chính phủ không muốn nhờ các tổ chức quốc tế giúp, vì sợ bị coi là thừa nhận sự yếu kém của chính phủ Ấn Độ. Kết quả là hai tuần sau thảm hoạ, nhiều làng vẫn chưa có cứu trợ lẫn thông tin.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một người 35 tuổi có 500 triệu đồng tiết kiệm cho hưu trí sau 25 năm và đang cân nhắc giữa gửi tiết kiệm lãi 6%/năm với một quỹ chỉ số cổ phiếu có lợi suất trung bình kỳ vọng 10%/năm nhưng có năm lỗ 30%. Giả sử lạm phát trung bình 4%/năm. Gửi tiết kiệm thì lợi suất thực khoảng 2%/năm, sau 25 năm sức mua tăng khoảng 1,6 lần; quỹ chỉ số thì lợi suất thực trung bình khoảng 6%/năm, sau 25 năm sức mua tăng khoảng 4,3 lần nếu trung bình đúng như kỳ vọng. Trong một năm, tiết kiệm an toàn hơn; qua 25 năm, chính lạm phát làm khoản tiết kiệm "chắc như tiền gửi ngân hàng" thành lựa chọn có rủi ro hụt mục tiêu cao hơn. Đúng như Sowell khuyên, khi gần tuổi nghỉ hưu người này nên dần chuyển sang tiền gửi và trái phiếu. Mặt khác, nếu người này mua bảo hiểm nhà ở vùng hay ngập với mức phí được bao cấp chỉ bằng nửa mức rủi ro thật, thì phí bảo hiểm không còn báo cho họ biết vùng đó nguy hiểm đến đâu, và họ dễ quyết định mua nhà ở đó hơn so với khi phải trả đủ phí.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một người 35 tuổi có 500 triệu đồng tiết kiệm cho hưu trí sau 25 năm và đang cân nhắc giữa gửi tiết kiệm lãi 6%/năm với một quỹ chỉ số cổ phiếu có lợi suất trung bình kỳ vọng 10%/năm nhưng có năm lỗ 30%. Giả sử lạm phát trung bình 4%/năm.
+
+Gửi tiết kiệm thì lợi suất thực khoảng 2%/năm, sau 25 năm sức mua tăng khoảng 1,6 lần; quỹ chỉ số thì lợi suất thực trung bình khoảng 6%/năm, sau 25 năm sức mua tăng khoảng 4,3 lần nếu trung bình đúng như kỳ vọng. Trong một năm, tiết kiệm an toàn hơn; qua 25 năm, chính lạm phát làm khoản tiết kiệm "chắc như tiền gửi ngân hàng" thành lựa chọn có rủi ro hụt mục tiêu cao hơn. Đúng như Sowell khuyên, khi gần tuổi nghỉ hưu người này nên dần chuyển sang tiền gửi và trái phiếu.
+
+Mặt khác, nếu người này mua bảo hiểm nhà ở vùng hay ngập với mức phí được bao cấp chỉ bằng nửa mức rủi ro thật, thì phí bảo hiểm không còn báo cho họ biết vùng đó nguy hiểm đến đâu, và họ dễ quyết định mua nhà ở đó hơn so với khi phải trả đủ phí.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -1037,7 +1094,9 @@ Rủi ro và thời gian là thành phần không tránh được của mọi ho
 
 ### Sức mạnh của chương là dùng một khung "cổ phiếu hay trái phiếu" để giải thích những hợp đồng tưởng không liên quan
 
-Điểm hay nhất của chương là Sowell không dừng ở thị trường chứng khoán. Ông lấy hai khuôn mẫu, trái quyền cố định và trái quyền còn lại, rồi áp vào nha sĩ mới ra trường, sinh viên vay tiền học, võ sĩ quyền anh, diễn viên Hollywood, lao động nhập cư người Ý, Hoa, Ấn và cả bảo hiểm nhân thọ (nếu biết trước ngày chết thì bảo hiểm nhân thọ chỉ là trái phiếu). Nhờ đó người đọc thấy những thu xếp nghe có vẻ bóc lột (người quản lý lấy phần thu nhập của võ sĩ mãi mãi) thực chất là cách tài trợ duy nhất khả thi khi rủi ro quá cao để cho vay. Ví dụ sinh viên Yale ngành luật, kinh doanh, y từ chối khoản vay trả theo thu nhập cũng là một minh hoạ gọn cho lựa chọn bất lợi, dù Sowell đặt nó trong phần vốn con người chứ chưa gọi tên.
+Điểm hay nhất của chương là Sowell không dừng ở thị trường chứng khoán. Ông lấy hai khuôn mẫu, trái quyền cố định và trái quyền còn lại, rồi áp vào nha sĩ mới ra trường, sinh viên vay tiền học, võ sĩ quyền anh, diễn viên Hollywood, lao động nhập cư người Ý, Hoa, Ấn và cả bảo hiểm nhân thọ (nếu biết trước ngày chết thì bảo hiểm nhân thọ chỉ là trái phiếu).
+
+Nhờ đó người đọc thấy những thu xếp nghe có vẻ bóc lột (người quản lý lấy phần thu nhập của võ sĩ mãi mãi) thực chất là cách tài trợ duy nhất khả thi khi rủi ro quá cao để cho vay. Ví dụ sinh viên Yale ngành luật, kinh doanh, y từ chối khoản vay trả theo thu nhập cũng là một minh hoạ gọn cho lựa chọn bất lợi, dù Sowell đặt nó trong phần vốn con người chứ chưa gọi tên.
 
 ### Phần lãi vốn đặt đúng câu hỏi nhưng trình bày chưa thật chặt
 
@@ -1045,23 +1104,228 @@ Sowell đúng khi chỉ ra rằng đánh thuế lãi vốn danh nghĩa có thể
 
 ### Hai số liệu trong phần quỹ tương hỗ cần đọc thận trọng
 
-Thứ nhất, câu "năm 2005, trong 1.137 quỹ quản lý chủ động, *chỉ* 55,5% làm tốt hơn chỉ số S&P" không ủng hộ luận điểm Sowell đang nêu, vì 55,5% là đa số, tức năm 2005 đa số quỹ chủ động thắng chỉ số. Có thể Sowell muốn nói 55,5% làm kém hơn chỉ số, hoặc số liệu gốc chưa trừ phí; text không đủ để xác định. Thứ hai, quỹ tương hỗ không "xuất hiện lần đầu trong một phần tư cuối thế kỷ 20": ở Mỹ chúng có từ thập niên 1920. Thứ ra đời giữa thập niên 1970 là quỹ chỉ số cho nhà đầu tư cá nhân, nên có lẽ Sowell nhầm giữa hai loại. Hai chỗ này không làm sai luận điểm chung (quỹ chỉ số thường thắng đa số quỹ chủ động trong dài hạn, điều mà các nghiên cứu sau này còn xác nhận mạnh hơn), nhưng người dùng số liệu nên kiểm tra lại.
+Thứ nhất, câu "năm 2005, trong 1.137 quỹ quản lý chủ động, *chỉ* 55,5% làm tốt hơn chỉ số S&P" không ủng hộ luận điểm Sowell đang nêu, vì 55,5% là đa số, tức năm 2005 đa số quỹ chủ động thắng chỉ số. Có thể Sowell muốn nói 55,5% làm kém hơn chỉ số, hoặc số liệu gốc chưa trừ phí; text không đủ để xác định.
+
+Thứ hai, quỹ tương hỗ không "xuất hiện lần đầu trong một phần tư cuối thế kỷ 20": ở Mỹ chúng có từ thập niên 1920. Thứ ra đời giữa thập niên 1970 là quỹ chỉ số cho nhà đầu tư cá nhân, nên có lẽ Sowell nhầm giữa hai loại. Hai chỗ này không làm sai luận điểm chung (quỹ chỉ số thường thắng đa số quỹ chủ động trong dài hạn, điều mà các nghiên cứu sau này còn xác nhận mạnh hơn), nhưng người dùng số liệu nên kiểm tra lại.
 
 ### Sowell đơn giản hoá bảo hiểm tiền gửi và câu chuyện các hiệp hội tiết kiệm và cho vay
 
-Lập luận rằng bảo hiểm tiền gửi bắt buộc làm tăng rủi ro đạo đức là quan điểm chủ lưu trong kinh tế học, và cuộc khủng hoảng các hiệp hội tiết kiệm và cho vay thập niên 1980 là ví dụ kinh điển. Nhưng Sowell bỏ qua hai điều. Một là phía lợi ích: bảo hiểm tiền gửi gần như chấm dứt các đợt rút tiền ồ ạt ở Mỹ suốt nhiều thập kỷ, trong khi những đợt rút tiền đó có thể kéo đổ cả ngân hàng lành mạnh (ngân hàng nhỏ, không chi nhánh đổ vỡ thời 1930 một phần cũng do luật cấm mở chi nhánh, một loại điều tiết khác). Hai là khủng hoảng thập niên 1980 còn có nguyên nhân từ lãi suất tăng vọt cuối thập niên 1970 (các hiệp hội cho vay mua nhà dài hạn với lãi suất cố định thấp) và từ việc nới lỏng quy định đầu tư trong khi vẫn giữ bảo hiểm. Rủi ro đạo đức là cơ chế đúng, nhưng không phải nguyên nhân duy nhất. Khủng hoảng 2008 và các vụ đổ vỡ ngân hàng sau đó cho thấy cuộc tranh luận về mức bảo hiểm tiền gửi vẫn còn nguyên.
+Lập luận rằng bảo hiểm tiền gửi bắt buộc làm tăng rủi ro đạo đức là quan điểm chủ lưu trong kinh tế học, và cuộc khủng hoảng các hiệp hội tiết kiệm và cho vay thập niên 1980 là ví dụ kinh điển.
+
+Nhưng Sowell bỏ qua hai điều. Một là phía lợi ích: bảo hiểm tiền gửi gần như chấm dứt các đợt rút tiền ồ ạt ở Mỹ suốt nhiều thập kỷ, trong khi những đợt rút tiền đó có thể kéo đổ cả ngân hàng lành mạnh (ngân hàng nhỏ, không chi nhánh đổ vỡ thời 1930 một phần cũng do luật cấm mở chi nhánh, một loại điều tiết khác).
+
+Hai là khủng hoảng thập niên 1980 còn có nguyên nhân từ lãi suất tăng vọt cuối thập niên 1970 (các hiệp hội cho vay mua nhà dài hạn với lãi suất cố định thấp) và từ việc nới lỏng quy định đầu tư trong khi vẫn giữ bảo hiểm. Rủi ro đạo đức là cơ chế đúng, nhưng không phải nguyên nhân duy nhất. Khủng hoảng 2008 và các vụ đổ vỡ ngân hàng sau đó cho thấy cuộc tranh luận về mức bảo hiểm tiền gửi vẫn còn nguyên.
 
 ### Quan điểm trái chiều: "công bằng" trong bảo hiểm không chỉ là chuyện chính trị
 
-Sowell coi mọi giới hạn với định phí theo rủi ro là chính trị lấn át kinh tế. Nhiều nhà kinh tế đồng ý với ông về bảo hiểm xe và nhà, nhưng không đồng ý với bảo hiểm y tế. Khi định phí theo gen hay tình trạng sức khoẻ được phép hoàn toàn, người mang gen bệnh có thể không mua nổi bảo hiểm cho đúng rủi ro mà họ muốn được bảo vệ nhất, và người ta có thể né xét nghiệm gen để không bị lộ thông tin, gây hại cho y tế dự phòng. Mặt khác, nếu cấm định phí theo rủi ro mà không bắt buộc mọi người cùng mua, lựa chọn bất lợi (khái niệm do chính Sowell trình bày) có thể làm thị trường teo lại; vì thế các hệ thống bảo hiểm y tế cấm định phí theo sức khoẻ thường đi kèm bảo hiểm bắt buộc hoặc trợ cấp. Luật năm 2008 của Mỹ về thông tin di truyền chỉ áp dụng cho bảo hiểm y tế và việc làm, không áp dụng cho bảo hiểm nhân thọ, phản ánh đúng sự cân nhắc này. Còn EU đã cấm định phí theo giới tính từ cuối năm 2012; theo các nghiên cứu sau đó, phí bảo hiểm xe của phụ nữ trẻ tăng lên, đúng hướng Sowell dự đoán.
+Sowell coi mọi giới hạn với định phí theo rủi ro là chính trị lấn át kinh tế. Nhiều nhà kinh tế đồng ý với ông về bảo hiểm xe và nhà, nhưng không đồng ý với bảo hiểm y tế. Khi định phí theo gen hay tình trạng sức khoẻ được phép hoàn toàn, người mang gen bệnh có thể không mua nổi bảo hiểm cho đúng rủi ro mà họ muốn được bảo vệ nhất, và người ta có thể né xét nghiệm gen để không bị lộ thông tin, gây hại cho y tế dự phòng.
+
+Mặt khác, nếu cấm định phí theo rủi ro mà không bắt buộc mọi người cùng mua, lựa chọn bất lợi (khái niệm do chính Sowell trình bày) có thể làm thị trường teo lại; vì thế các hệ thống bảo hiểm y tế cấm định phí theo sức khoẻ thường đi kèm bảo hiểm bắt buộc hoặc trợ cấp. Luật năm 2008 của Mỹ về thông tin di truyền chỉ áp dụng cho bảo hiểm y tế và việc làm, không áp dụng cho bảo hiểm nhân thọ, phản ánh đúng sự cân nhắc này. Còn EU đã cấm định phí theo giới tính từ cuối năm 2012; theo các nghiên cứu sau đó, phí bảo hiểm xe của phụ nữ trẻ tăng lên, đúng hướng Sowell dự đoán.
 
 ### Từ 2014, phần "bảo hiểm" của chính phủ được xác nhận nhiều hơn là bị bác bỏ
 
-Nói định tính: Chương trình Bảo hiểm Lũ lụt Quốc gia của Mỹ tiếp tục nợ Bộ Tài chính hàng chục tỷ USD sau các trận bão lớn và đã được cải cách để đưa phí về gần rủi ro thật, dù mỗi lần tăng phí đều gặp phản đối chính trị mạnh, đúng như logic Sowell mô tả. Ở nhiều bang ven biển và vùng hay cháy rừng của Mỹ, các công ty bảo hiểm tư tiếp tục rút khỏi thị trường khi bị giới hạn mức tăng phí, khiến chương trình bảo hiểm do bang lập ra phải nhận thêm hợp đồng. Mặt khác, biến đổi khí hậu làm thiên tai thường xuyên hơn, nên câu hỏi Sowell đặt ra (vì sao người ta xây lại ở nơi đã biết là nguy hiểm) càng quan trọng. Về đầu tư, đợt lãi suất tăng mạnh năm 2022 làm giá trái phiếu dài hạn giảm sâu, minh hoạ rõ nguyên lý giá trái phiếu đi ngược lãi suất và việc trái phiếu không "an toàn" theo mọi nghĩa.
+Nói định tính: Chương trình Bảo hiểm Lũ lụt Quốc gia của Mỹ tiếp tục nợ Bộ Tài chính hàng chục tỷ USD sau các trận bão lớn và đã được cải cách để đưa phí về gần rủi ro thật, dù mỗi lần tăng phí đều gặp phản đối chính trị mạnh, đúng như logic Sowell mô tả. Ở nhiều bang ven biển và vùng hay cháy rừng của Mỹ, các công ty bảo hiểm tư tiếp tục rút khỏi thị trường khi bị giới hạn mức tăng phí, khiến chương trình bảo hiểm do bang lập ra phải nhận thêm hợp đồng.
+
+Mặt khác, biến đổi khí hậu làm thiên tai thường xuyên hơn, nên câu hỏi Sowell đặt ra (vì sao người ta xây lại ở nơi đã biết là nguy hiểm) càng quan trọng. Về đầu tư, đợt lãi suất tăng mạnh năm 2022 làm giá trái phiếu dài hạn giảm sâu, minh hoạ rõ nguyên lý giá trái phiếu đi ngược lãi suất và việc trái phiếu không "an toàn" theo mọi nghĩa.
 
 ### Vận dụng: trước mỗi quyết định tài chính hay bảo hiểm, hãy hỏi ai đang gánh rủi ro và ai được trả cho việc đó
 
 - **Trong doanh nghiệp.** Chọn cách huy động vốn theo mức rủi ro của dự án: dự án rủi ro cao, dòng tiền khó đoán nên dùng vốn chủ sở hữu (góp vốn, gọi nhà đầu tư) thay vì vay ngân hàng, vì nợ cố định có thể làm doanh nghiệp vỡ nợ đúng lúc dự án cần thời gian; dự án có dòng tiền ổn định (như đường thu phí, nhà máy nước) mới hợp với vay nợ. Với bảo hiểm, doanh nghiệp có nhiều tài sản nhỏ, phân tán (đội xe lớn, nhiều cửa hàng) có thể cân nhắc tự gánh các tổn thất nhỏ như Hertz và chỉ mua bảo hiểm cho các rủi ro lớn, hiếm.
 - **Trong đầu tư.** Xác định khoảng thời gian trước khi chọn tài sản: tiền cần trong một hai năm nên để ở tiền gửi, trái phiếu ngắn hạn; tiền cho hưu trí sau vài chục năm có thể chịu biến động của cổ phiếu để tránh bị lạm phát ăn mòn. Đa dạng hoá thay vì dồn vào một mã, và so sánh phí của quỹ chủ động với kết quả thực tế so với chỉ số, vì nhiều năm đa số quỹ chủ động không thắng nổi chỉ số. Nhớ bài học Ray Kroc: đánh giá quyết định theo thông tin có lúc ra quyết định, không theo kết quả nhìn lại.
 - **Trong nghề nghiệp.** Một công việc lương thấp lúc đầu nhưng tích luỹ kỹ năng là một khoản đầu tư vào vốn con người, giống nha sĩ những năm đầu. Nghề có thu nhập bấp bênh (kinh doanh riêng, hoa hồng, nghệ thuật) cần trả trung bình cao hơn mới đáng; khi so sánh lời mời làm việc, hãy so cả độ ổn định chứ không chỉ mức trung bình. Hợp đồng chia thu nhập (một số chương trình đào tạo nghề thu học phí bằng phần trăm lương sau này) là "phát hành cổ phiếu vào chính mình": hợp lý nếu bạn không chắc thành công, đắt nếu bạn chắc sẽ kiếm nhiều, như sinh viên Yale ngành luật.
-- **Khi đọc tin chính sách.** Ở Việt Nam, khi có đề xuất bảo hiểm bắt buộc mới, giới hạn mức phí bảo hiểm, hay hỗ trợ tái thiết sau bão lũ cho các khu vực ven sông, ven biển hay bị ngập, câu hỏi đáng đặt ra là: chính sách đó có giữ được tín hiệu rủi ro (phí cao hơn ở nơi nguy hiểm) hay xoá mất nó; nó giảm rủi ro thật (di dời, xây công trình chống ngập) hay chỉ chuyển chi phí sang ngân sách; và nó có tạo rủi ro đạo đức không, ví dụ khi mức bảo hiểm tiền gửi hay các gói cứu trợ khiến người gửi tiền và tổ chức tín dụng bớt thận trọng. Các tranh luận về bảo hiểm tiền gửi và về xử lý ngân hàng yếu kém là ví dụ trực tiếp của phần "Government Regulation" trong chương.
+- **Khi đọc tin chính sách.** Ở Việt Nam, khi có đề xuất bảo hiểm bắt buộc mới, giới hạn mức phí bảo hiểm, hay hỗ trợ tái thiết sau bão lũ cho các khu vực ven sông, ven biển hay bị ngập, câu hỏi đáng đặt ra là: chính sách đó có giữ được tín hiệu rủi ro (phí cao hơn ở nơi nguy hiểm) hay xoá mất nó; nó giảm rủi ro thật (di dời, xây công trình chống ngập) hay chỉ chuyển chi phí sang ngân sách; và nó có tạo rủi ro đạo đức không, ví dụ khi mức bảo hiểm tiền gửi hay các gói cứu trợ khiến người gửi tiền và tổ chức tín dụng bớt thận trọng.
+
+  Các tranh luận về bảo hiểm tiền gửi và về xử lý ngân hàng yếu kém là ví dụ trực tiếp của phần "Government Regulation" trong chương.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 14 trên một trang: sáu nhánh lớn đi theo các mục 1–9 của phần Nội dung chi tiết (lãi suất, giá trị hiện tại và giá trái phiếu; cổ phiếu và trái phiếu; rủi ro theo thời gian và đa dạng hoá; đầu tư vào vốn con người; bảo hiểm trên thị trường, rủi ro đạo đức, lựa chọn bất lợi và điều tiết; "bảo hiểm" của chính phủ), mỗi nhánh ghi cơ chế, ví dụ và con số then chốt của Sowell; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 14: cổ phiếu, trái phiếu và bảo hiểm là những cách sắp xếp ai gánh rủi ro nào và được trả bao nhiêu`"]
+  n1["`Mục 1 — Tiền hôm nay đáng giá hơn tiền ngày mai: lãi suất, giá trị hiện tại, giá trái phiếu`"]
+  n0 --- n1
+  n2["`Lãi vốn là phần tài sản tăng giá theo thời gian, thường chỉ nhận được sau nhiều năm`"]
+  n1 --- n2
+  n3["`Trái phiếu đường sắt Anh thế kỷ 19 lãi khoảng 5% chỉ huy động được vì đồng bảng ổn định`"]
+  n1 --- n3
+  n4["`Lãi suất gồm lãi suất thuần (trả cho việc chờ) cộng phần bù rủi ro, phần bù có thể lớn hơn`"]
+  n1 --- n4
+  n5["`Tháng 4/2003 lãi suất ngắn hạn: Hồng Kông dưới 2%, Nga 18%, Thổ Nhĩ Kỳ 39%`"]
+  n4 --- n5
+  n6["`Lãi suất Brazil vọt thêm 10 điểm phần trăm khi một ứng viên tổng thống cánh tả nổi lên`"]
+  n4 --- n6
+  n7["`Ở lãi suất 5%, trái phiếu 10.000 USD đáo hạn sau 1 năm chỉ đáng 9.523,81 USD, ở 12% chỉ 8.928,57 USD`"]
+  n1 --- n7
+  n8["`Giá trái phiếu đi ngược lãi suất: lãi suất lên thì giá trái phiếu xuống`"]
+  n7 --- n8
+  n9["`Thuế trên khoản chênh 476,19 USD: nếu lạm phát 5%, người đầu tư không được thưởng gì cho việc chờ`"]
+  n1 --- n9
+  n10["`Vì vậy đánh thuế lãi vốn phức tạp hơn đánh thuế lương, có nước không đánh`"]
+  n9 --- n10
+  n11["`Mục 2–3 — Trái phiếu hưởng khoản cố định, cổ phiếu chỉ hưởng phần còn lại`"]
+  n0 --- n11
+  n12["`Trái phiếu là cam kết pháp lý trả số tiền cố định vào ngày cố định, như lương hứa với nhân viên`"]
+  n11 --- n12
+  n13["`Chủ sở hữu chỉ được phần còn lại sau khi trả nhân viên, người giữ trái phiếu và chủ nợ, phần đó có thể âm`"]
+  n11 --- n13
+  n14["`Doanh nghiệp 50% khả năng phá sản, sống thì vốn tăng gấp 10: góp 5.000 USD bằng cổ phiếu hợp lý hơn trái phiếu`"]
+  n11 --- n14
+  n15["`Vốn mạo hiểm: thương vụ thành công phải lãi ít nhất 50% để bù các thương vụ thất bại`"]
+  n11 --- n15
+  n16["`Quỹ vốn mạo hiểm lãi trung bình 163% vài năm trước, rồi lỗ 32,4% trong 12 tháng tới 30/9/2001`"]
+  n15 --- n16
+  n17["`Từng nhà đầu tư có thể phá sản, nhưng cả ngành thường không lãng phí nguồn lực khan hiếm`"]
+  n15 --- n17
+  n18["`Doanh nghiệp rủi ro gần như chắc chắn bán cổ phiếu, công ty điện, nước có cầu ổn định phát hành trái phiếu`"]
+  n11 --- n18
+  n19["`Ngoại lệ: khủng hoảng điện California 2001 đẩy trái phiếu công ty điện xuống hạng trái phiếu rác`"]
+  n18 --- n19
+  n20["`Nghề A đều 50.000 USD/năm, nghề B thất thường 10.000–90.000 USD: nghề B phải trả trung bình cao hơn`"]
+  n11 --- n20
+  n21["`Cổ phiếu sinh lời cao hơn không do nguyên tắc đạo đức, mà vì không ai chịu rủi ro nếu không được trả thêm`"]
+  n20 --- n21
+  n22["`Nha sĩ mới ra trường năm đầu có khi kiếm ít hơn thư ký, về sau tình thế đảo ngược`"]
+  n11 --- n22
+  n23["`Trong 1 năm trái phiếu an toàn hơn, qua 20–30 năm lạm phát ăn mòn trái phiếu và tiền gửi`"]
+  n11 --- n23
+  n24["`Khi tuổi thọ còn lại không còn tính bằng thập kỷ, nên chuyển dần sang trái phiếu, tiền gửi`"]
+  n23 --- n24
+  n25["`Mục 4–5 — Mức an toàn tuỳ khoảng thời gian, và đa dạng hoá làm giảm rủi ro chung`"]
+  n0 --- n25
+  n26["`Chuỗi phiên Dow Jones tăng liên tiếp dài nhất trong lịch sử Mỹ chỉ 14 phiên, năm 1897`"]
+  n25 --- n26
+  n27["`1 USD đầu tư năm 1801 thành năm 1998, đã trừ lạm phát: trái phiếu gần 1.000 USD, cổ phiếu hơn 500.000 USD, vàng 78 xu`"]
+  n25 --- n27
+  n28["`1931–1940 cổ phiếu 3,6%/năm, trái phiếu 6,4%/năm, thập niên 1940–1970 trái phiếu lợi suất thực âm`"]
+  n25 --- n28
+  n29["`100.000 USD vào quỹ Vanguard theo S#amp;P 500 ngày 1/1/2000 còn 89.072 USD giữa tháng 12/2009`"]
+  n25 --- n29
+  n30["`Ray Kroc chào bán nửa McDonald's giá 25.000 USD, không ai nhận: rủi ro luôn là nhìn tới trước`"]
+  n25 --- n30
+  n31["`Vàng khó mất trắng, cổ phiếu có thể không đáng tờ giấy in nó, năm 2001 400 người Mỹ giàu nhất mất 283 tỷ USD`"]
+  n25 --- n31
+  n32["`Cổ phiếu và trái phiếu thường không cùng xấu, thêm vàng (đi ngược giá cổ phiếu) vẫn giảm rủi ro danh mục`"]
+  n25 --- n32
+  n33["`Quỹ chỉ số phí thấp, nhiều năm thắng đa số quỹ chủ động, nhưng cũng mất 9% năm 2000`"]
+  n25 --- n33
+  n34["`Sowell ghi #quot;chỉ#quot; 55,5% trong 1.137 quỹ chủ động thắng S#amp;P năm 2005, mâu thuẫn vì đó là đa số`"]
+  n33 --- n34
+  n35["`Trong 1.000 quỹ lâu năm, chỉ 1 quỹ có lãi mọi năm của thập kỷ tới 2003`"]
+  n33 --- n35
+  n36["`Chủ tàu thời buồm sở hữu 10% của 10 con tàu: dễ mất một tàu hơn nhưng thiệt hại bớt thảm khốc`"]
+  n25 --- n36
+  n37["`Mục 6 — Đầu tư vào vốn con người cũng có dạng trái phiếu và dạng cổ phiếu`"]
+  n0 --- n37
+  n38["`Người nhận việc không lương hay lương thấp là đang đầu tư thời gian làm việc để mong thu nhập tương lai cao hơn`"]
+  n37 --- n38
+  n39["`Sinh viên #quot;phát hành trái phiếu#quot; (vay nợ) nhưng hiếm khi #quot;phát hành cổ phiếu#quot; (bán tỷ lệ thu nhập)`"]
+  n37 --- n39
+  n40["`Gộp rủi ro theo kiểu cổ phiếu giúp có thêm vốn tư nhân cho sinh viên, vì nhiều người không tốt nghiệp`"]
+  n39 --- n40
+  n41["`Yale thập niên 1970: sinh viên sắp vào nghề luật, kinh doanh, y né khoản vay trả theo thu nhập`"]
+  n39 --- n41
+  n42["`Người quản lý võ sĩ quyền anh sở hữu tỷ lệ thu nhập, vì võ sĩ thất bại không trả nổi nợ cố định`"]
+  n37 --- n42
+  n43["`Người đại diện Hollywood mua tỷ lệ thu nhập tương lai của diễn viên trẻ vô danh có triển vọng`"]
+  n37 --- n43
+  n44["`Nhà thầu lao động nhập cư lấy tỷ lệ thu nhập: người Ý sang Tây bán cầu, người Hoa sang Đông Nam Á, người Ấn khắp Đế quốc Anh`"]
+  n37 --- n44
+  n45["`Mục 7–8 — Bảo hiểm thật vừa chuyển vừa giảm rủi ro, nhưng cũng tạo ra rủi ro mới`"]
+  n0 --- n45
+  n46["`Tỷ lệ tử vong trung bình của hàng triệu người dễ đoán hơn nhiều so với cái chết của một người`"]
+  n45 --- n46
+  n47["`Nếu ai cũng chết ở tuổi 80, bảo hiểm nhân thọ chỉ như trái phiếu đáo hạn ngày cố định`"]
+  n45 --- n47
+  n48["`Định phí theo rủi ro (tài xế an toàn trả ít hơn) báo cho người mua chi phí của lựa chọn của họ`"]
+  n45 --- n48
+  n49["`Hertz có đủ nhiều xe nên tự bảo hiểm: chuyển rủi ro mà không giảm được nó thì vô ích`"]
+  n45 --- n49
+  n50["`Năm 2012 State Farm chi 60%, Allstate 53% phí bảo hiểm nhà ở cho bồi thường, phần còn lại đem đầu tư an toàn`"]
+  n45 --- n50
+  n51["`Năm 2004 bảo hiểm xe và tài sản ở Mỹ lần đầu có lãi nghiệp vụ kể từ 1978`"]
+  n50 --- n51
+  n52["`Cạnh tranh ép phí xuống: năm 2010, 4 công ty bảo hiểm tài sản lớn nhất Mỹ chỉ thu 28% phí`"]
+  n50 --- n52
+  n53["`Rủi ro đạo đức: xe bị phá tăng từ 1/10.000 lên 1/5.000 sau khi có bảo hiểm thì phí phải gấp đôi`"]
+  n45 --- n53
+  n54["`Lựa chọn bất lợi: ngư dân, dân Hawaii mua bảo hiểm bệnh X nhiều hơn, thống kê 1/100.000 toàn dân đánh giá thấp`"]
+  n45 --- n54
+  n55["`Bảo hiểm tiền gửi bắt buộc từ thập niên 1930 xoá lựa chọn bất lợi nhưng tăng rủi ro đạo đức`"]
+  n45 --- n55
+  n56["`Các hiệp hội tiết kiệm và cho vay lỗ hơn nửa nghìn tỷ USD trong thập niên 1980`"]
+  n55 --- n56
+  n57["`Bảo hiểm là chuyện rủi ro, không phải chuyện lỗi`"]
+  n45 --- n57
+  n58["`Cùng gói bảo hiểm xe: Detroit 5.162 USD, Los Angeles 3.225 USD, Green Bay 948 USD`"]
+  n57 --- n58
+  n59["`Buộc cùng mức phí thì nhóm an toàn trợ cấp nhóm nguy hiểm và thêm tài xế ẩu đủ tiền ra đường`"]
+  n57 --- n59
+  n60["`Thượng viện Mỹ bỏ phiếu 95–0 năm 2003 cấm phân biệt theo xét nghiệm gen, làm phí chung phải tăng`"]
+  n57 --- n60
+  n61["`Bảo hiểm và niên kim phi giới tính rủi ro hơn cho công ty nên giá cả hai sản phẩm cao hơn`"]
+  n57 --- n61
+  n62["`Mục 9 — #quot;Bảo hiểm#quot; của chính phủ không giảm mà tăng rủi ro tổng thể`"]
+  n0 --- n62
+  n63["`Chương trình Bảo hiểm Lũ lụt Quốc gia thu phí thấp xa rủi ro, người nộp thuế bù phần còn lại`"]
+  n62 --- n63
+  n64["`Nhà của John Stossel cách biển 100 feet cát: sóng phá hai lần, chính phủ trả tiền cả hai lần`"]
+  n62 --- n64
+  n65["`Hơn 25.000 tài sản nhận tiền bảo hiểm lũ hơn bốn lần, một tài sản ở Houston ngập 16 lần, sửa hơn 800.000 USD`"]
+  n62 --- n65
+  n66["`Emerald Isle #quot;dùng FEMA như một hợp đồng bảo hiểm#quot;, FEMA mua khoảng 15 triệu USD cát sau một trận bão`"]
+  n62 --- n66
+  n67["`Sống ở nơi nguy hiểm thành rẻ hơn với cá nhân và đắt hơn với cả xã hội`"]
+  n62 --- n67
+  n68["`Tiền xây lại New Orleans sau Katrina đủ trả mỗi gia đình bốn người 800.000 USD để dời đi nơi an toàn`"]
+  n62 --- n68
+  n69["`Kiểm soát giá bảo hiểm: công ty tăng phí hết mức được phép, bị cấm tăng thì bỏ bảo hiểm nhà rủi ro`"]
+  n62 --- n69
+  n70["`Sau Katrina, cầu đường sắt của CSX mở lại sau 6 tháng, cầu Quốc lộ 90 của chính phủ 16 tháng vẫn chỉ còn trụ`"]
+  n62 --- n70
+  n71["`Ấn Độ 1999 không muốn nhờ quốc tế sau bão xoáy, hai tuần sau nhiều làng chưa có cứu trợ`"]
+  n62 --- n71
+  n72["`Thông điệp xuyên suốt`"]
+  n0 --- n72
+  n73["`Rủi ro không tự mất đi, câu hỏi luôn là ai gánh nó và ai được trả cho việc gánh`"]
+  n72 --- n73
+  n74["`Lợi suất cao của cổ phiếu, thu nhập về sau của nha sĩ là khoản trả cho rủi ro và chờ đợi, không phải bất công`"]
+  n72 --- n74
+  n75["`Xét hệ quả về sau: phí theo #quot;công bằng#quot; và bao cấp bảo hiểm xoá tín hiệu giá, làm rủi ro tổng thể tăng`"]
+  n72 --- n75
+  class n0 root
+  class n1,n11,n25,n37,n45,n62,n72 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n63,n64,n65,n66,n67,n68,n69,n70,n71,n73,n74,n75 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần IV "Time and Risk", Chương 14.
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần IV bàn về hai thứ mà mọi hoạt động kinh tế đều phải đối mặt: thời gian (tiền hôm nay khác tiền ngày mai) và rủi ro (tương lai không biết trước).
+
+Chương 13 ("Investment") đã giới thiệu đầu tư, lợi tức của đầu tư, đầu cơ hàng hoá, quản lý hàng tồn kho và khái niệm giá trị hiện tại. Chương 14 đi tiếp sang những cách khác mà xã hội dùng để xử lý rủi ro: cổ phiếu và trái phiếu (hai cách chia rủi ro khác nhau giữa người cần vốn và người góp vốn), đa dạng hoá danh mục, các hợp đồng "kiểu cổ phiếu" đầu tư vào con người, và bảo hiểm. Chương kết bằng phần phân biệt bảo hiểm thật với các chương trình của chính phủ được gọi là "bảo hiểm".
+
+Chương 15 ("Special Problems of Time and Risk") sẽ mở rộng từ đây: rủi ro không thể bị xoá bỏ, chỉ có thể được chuyển sang người khác, và với toàn xã hội thì không có "người khác" nào để chuyển.
+
+## Lưu ý
+
+- Sách in năm 2015, viết khoảng 2013–2014, nhưng nhiều số liệu trong chương cũ hơn thế: lãi suất các nước năm 2003, lợi suất vốn mạo hiểm năm 2001, quỹ tương hỗ 1998–2005, khoản lỗ của các hiệp hội tiết kiệm và cho vay thập niên 1980, bão Katrina 2005; các số mới nhất là thị phần bảo hiểm năm 2010 và tỷ lệ chi trả bồi thường năm 2012.
+- Một số chi tiết đã thay đổi từ đó:
+  - Dự luật cấm phân biệt theo xét nghiệm gen mà Thượng viện thông qua 95–0 năm 2003 cuối cùng thành luật năm 2008 (Genetic Information Nondiscrimination Act, áp dụng cho bảo hiểm y tế và việc làm, không áp dụng cho bảo hiểm nhân thọ).
+  - Việc cấm định phí bảo hiểm theo giới tính mà Sowell mô tả là "những nỗ lực mở rộng ra Liên minh châu Âu" đã thành quy định chung của EU từ cuối năm 2012 sau một phán quyết của Toà án Công lý châu Âu, tức trước cả khi ấn bản này ra đời.
+  - Chương trình Bảo hiểm Lũ lụt Quốc gia của Mỹ đã qua vài đợt cải cách để đưa phí lại gần mức rủi ro thật (đợt lớn gần đây là cách tính phí mới áp dụng từ năm 2021).
+- Chương có 2 chú thích chân trang của Sowell: chú thích về trái phiếu các công ty điện ở California được đưa vào mục 3 của Nội dung chi tiết (và Sơ đồ phần 2); chú thích về tỷ lệ tử vong theo tuổi của tài xế được đưa vào mục 8 (và Sơ đồ phần 7).
+- Sách có hai chỗ đáng ngờ: Sowell viết quỹ tương hỗ "xuất hiện lần đầu trong một phần tư cuối thế kỷ 20", trong khi quỹ tương hỗ ở Mỹ đã có từ thập niên 1920 (thứ ra đời giữa thập niên 1970 là quỹ chỉ số cho nhà đầu tư cá nhân); và câu "năm 2005, trong 1.137 quỹ quản lý chủ động, *chỉ* 55,5% làm tốt hơn chỉ số S&P" mâu thuẫn với chữ "chỉ", vì 55,5% là đa số (xem mục Đánh giá).
+- Các câu trích là bản dịch của người tổng hợp.

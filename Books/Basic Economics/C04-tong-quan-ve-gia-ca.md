@@ -1,11 +1,18 @@
 # Chương 4 — Tổng quan về giá cả (An Overview of Prices)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần I "Prices and Markets", Chương 4.
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 định nghĩa kinh tế học là môn nghiên cứu cách dùng nguồn lực khan hiếm có nhiều cách dùng thay thế nhau. Chương 2 giải thích giá cả điều phối nền kinh tế ra sao, và Chương 3 cho thấy điều gì xảy ra khi nhà nước kiểm soát giá (kiểm soát tiền thuê nhà, giá trần, giá sàn). Chương 4 khép lại Phần I bằng cách lùi ra xa và rút ra các nguyên lý chung từ hai chương trước: nền kinh tế vận hành theo quan hệ nhân quả mang tính hệ thống chứ không theo ý định của ai; giá cả là một cách phân chia sự khan hiếm, và bỏ giá đi thì sự khan hiếm vẫn còn; chi phí là thứ có thật, còn giá chỉ là cách chi phí được truyền đi. Từ Chương 5 (The Rise and Fall of Businesses), Phần II chuyển sang doanh nghiệp, lợi nhuận và thua lỗ, tức những chủ thể phản ứng với tín hiệu giá mà Phần I vừa mô tả.
-**Ý chính:** Sowell muốn người đọc hiểu rằng các nguyên lý cơ bản của kinh tế học tuy đơn giản nhưng hệ quả của chúng thì không hiển nhiên, và chính hệ quả mới quan trọng. Ba ý được nhắc lại suốt chương: (1) kết quả kinh tế là sản phẩm của **nhân quả mang tính hệ thống** (systemic causation), nên giải thích giá cao bằng "lòng tham" hay giải thích thất bại của nhà nước bằng "sự ngu dốt" của quan chức đều sai, và sai thì dẫn tới chính sách gây hại; (2) giá cả là một cách **phân chia** (rationing) sự khan hiếm, nên làm cho hàng hoá "vừa túi tiền" bằng mệnh lệnh không tạo thêm hàng mà chỉ thay giá bằng xếp hàng, may rủi, quen biết hay hối lộ; (3) **giá khác chi phí**: hạ giá bằng luật không làm chi phí biến mất. Ví dụ trung tâm là việc cửa hàng, tiệm cầm đồ và dịch vụ đổi séc ở khu nghèo tính giá cao hơn khu trung lưu: người ta đổ cho lòng tham, nhưng nguyên nhân là chi phí kinh doanh cao hơn, và áp trần giá hay trần lãi suất chỉ khiến các dịch vụ đó rút khỏi khu nghèo. Các ví dụ lớn khác: chiếc máy khai mỏ bị giữ trong kho thời Stalin vì sai màu sơn, vùng Đất Đen màu mỡ của Nga không nuôi nổi Moskva, nông dân California trả 15 USD cho lượng nước mà Los Angeles trả 400 USD, và người thợ ảnh chọn ống kính mà không cần biết gì về quang học.
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2013–2014, nên số liệu thuộc thời điểm đó: chỉ số chứng khoán đóng cửa ở mức 14.367 điểm (Sowell dùng làm ví dụ, gần mức chỉ số Dow Jones năm 2013), khoảng 10% gia đình Mỹ không có tài khoản séc, tỷ lệ thất nghiệp ở Ý 10%, nghiên cứu năm 2012 xếp Hồng Kông là thị trường tự do nhất thế giới. Một số điều đã thay đổi từ đó (nói định tính): chỉ số Dow Jones đã cao hơn mức đó nhiều lần; Ý đã sửa luật lao động năm 2015 (Jobs Act), giảm bớt ràng buộc sa thải với người lao động mới tuyển, nên ngưỡng "nhân viên thứ 16" Sowell mô tả không còn tác động như trước; sau những thay đổi chính trị ở Hồng Kông từ năm 2020, một số bảng xếp hạng tự do kinh tế đã ngừng đánh giá Hồng Kông tách khỏi Trung Quốc. Câu cuối chương nói Hồng Kông nằm "trong một nước có chính phủ cộng sản" (in a country with a communist government): Hồng Kông là đặc khu hành chính của Trung Quốc từ năm 1997, và nước chủ quản Trung Quốc có chính phủ cộng sản. Chương có 5 chú thích chân trang của Sowell (đánh dấu viii đến xii trong sách), đã đưa vào đúng chỗ trong Sơ đồ và Nội dung chi tiết, ghi rõ "chú thích của Sowell". Các câu trích là bản dịch của người tổng hợp.
+Sowell muốn người đọc hiểu rằng các nguyên lý cơ bản của kinh tế học tuy đơn giản nhưng hệ quả của chúng thì không hiển nhiên, và chính hệ quả mới quan trọng.
+
+Ba ý được nhắc lại suốt chương:
+
+- Kết quả kinh tế là sản phẩm của **nhân quả mang tính hệ thống** (systemic causation), nên giải thích giá cao bằng "lòng tham" hay giải thích thất bại của nhà nước bằng "sự ngu dốt" của quan chức đều sai, và sai thì dẫn tới chính sách gây hại.
+- Giá cả là một cách **phân chia** (rationing) sự khan hiếm, nên làm cho hàng hoá "vừa túi tiền" bằng mệnh lệnh không tạo thêm hàng mà chỉ thay giá bằng xếp hàng, may rủi, quen biết hay hối lộ.
+- **Giá khác chi phí**: hạ giá bằng luật không làm chi phí biến mất.
+
+Ví dụ trung tâm là việc cửa hàng, tiệm cầm đồ và dịch vụ đổi séc ở khu nghèo tính giá cao hơn khu trung lưu: người ta đổ cho lòng tham, nhưng nguyên nhân là chi phí kinh doanh cao hơn, và áp trần giá hay trần lãi suất chỉ khiến các dịch vụ đó rút khỏi khu nghèo.
+
+Các ví dụ lớn khác: chiếc máy khai mỏ bị giữ trong kho thời Stalin vì sai màu sơn, vùng Đất Đen màu mỡ của Nga không nuôi nổi Moskva, nông dân California trả 15 USD cho lượng nước mà Los Angeles trả 400 USD, và người thợ ảnh chọn ống kính mà không cần biết gì về quang học.
 
 ## Sơ đồ
 
@@ -591,13 +598,17 @@ Sowell mở chương bằng câu của thẩm phán Oliver Wendell Holmes rằng
 
 Các nhà kinh tế đã biết từ nhiều thế kỷ rằng giá cao thì người ta mua ít hơn. Nhưng nhiều người vẫn chưa nghĩ tới các hệ quả của điều đó. Ví dụ: ở nhiều nước, chăm sóc y tế do nhà nước cung cấp đã nhiều lần tốn kém hơn hẳn dự toán. Dự toán thường dựa vào mức dùng bác sĩ, bệnh viện và thuốc hiện tại, trong khi y tế miễn phí hoặc được trợ giá làm mức dùng tăng mạnh, chỉ vì giá thấp hơn, và chi phí tăng theo.
 
-Sowell nhắc lại định nghĩa: kinh tế học là phân tích quan hệ nhân quả trong nền kinh tế, nhằm nhận ra hệ quả của các cách phân bổ nguồn lực khan hiếm có nhiều cách dùng thay thế nhau. Bàn về thời tiết bằng thơ không phải là khí tượng học, và tuyên bố đạo đức hay cương lĩnh chính trị về kinh tế không phải là kinh tế học. Kinh tế học không nói gì về triết lý xã hội hay giá trị đạo đức, cũng như không nói gì về sự hài hước hay cơn giận. Những thứ đó không kém quan trọng, chỉ là không thuộc phạm vi kinh tế học, giống như không ai đòi toán học giải thích tình yêu. Nhưng ở đúng phạm vi của mình, cả hai môn đều rất quan trọng: tính toán chính xác quyết định phi hành gia trở về từ quỹ đạo rơi xuống dãy Himalaya hay hạ cánh an toàn ở Florida, và hiểu sai nguyên lý kinh tế cũng đã gây ra những thảm hoạ xã hội tương tự.
+Sowell nhắc lại định nghĩa: kinh tế học là phân tích quan hệ nhân quả trong nền kinh tế, nhằm nhận ra hệ quả của các cách phân bổ nguồn lực khan hiếm có nhiều cách dùng thay thế nhau. Bàn về thời tiết bằng thơ không phải là khí tượng học, và tuyên bố đạo đức hay cương lĩnh chính trị về kinh tế không phải là kinh tế học.
+
+Kinh tế học không nói gì về triết lý xã hội hay giá trị đạo đức, cũng như không nói gì về sự hài hước hay cơn giận. Những thứ đó không kém quan trọng, chỉ là không thuộc phạm vi kinh tế học, giống như không ai đòi toán học giải thích tình yêu. Nhưng ở đúng phạm vi của mình, cả hai môn đều rất quan trọng: tính toán chính xác quyết định phi hành gia trở về từ quỹ đạo rơi xuống dãy Himalaya hay hạ cánh an toàn ở Florida, và hiểu sai nguyên lý kinh tế cũng đã gây ra những thảm hoạ xã hội tương tự.
 
 ### 2. Nhân quả (Cause and Effect) và nhân quả mang tính hệ thống (Systemic Causation)
 
 Phân tích kinh tế theo quan hệ nhân quả nghĩa là xem xét logic của các động cơ khuyến khích mà một chính sách tạo ra, thay vì chỉ hỏi mục tiêu của nó có đáng mong muốn không; đồng thời xem bằng chứng thực tế về điều gì xảy ra dưới các động cơ đó.
 
-Nhân quả trong nền kinh tế thường là tương tác hệ thống, không giống nhân quả một chiều khi một hòn bi-a đụng hòn khác vào lỗ. Sowell so sánh với phản ứng hoá học: đổ xút (dung dịch kiềm mạnh) vào axit clohydric thì được nước muối, vì hai chất biến đổi lẫn nhau, từ hai chất chết người thành một chất vô hại. (Chú thích của Sowell: đừng thử ở nhà; nhà hoá học chuyên nghiệp có thể xử lý hai hoá chất nguy hiểm này trong phòng thí nghiệm với biện pháp an toàn phù hợp, nhưng ở tay người khác chất nào cũng có thể gây chết người.) Trong kinh tế, kế hoạch của người mua và người bán cũng biến đổi khi họ gặp phản ứng của nhau và khi giá thay đổi buộc họ tính lại. Người định mua biệt thự sát biển, khi thấy giá, có thể chuyển sang một căn nhà nhỏ xa biển hơn; người bán đôi khi phải bán thấp hơn giá mua hoặc giá thành, vì cầu không đủ và lựa chọn còn lại là không bán được gì.
+Nhân quả trong nền kinh tế thường là tương tác hệ thống, không giống nhân quả một chiều khi một hòn bi-a đụng hòn khác vào lỗ. Sowell so sánh với phản ứng hoá học: đổ xút (dung dịch kiềm mạnh) vào axit clohydric thì được nước muối, vì hai chất biến đổi lẫn nhau, từ hai chất chết người thành một chất vô hại. (Chú thích của Sowell: đừng thử ở nhà; nhà hoá học chuyên nghiệp có thể xử lý hai hoá chất nguy hiểm này trong phòng thí nghiệm với biện pháp an toàn phù hợp, nhưng ở tay người khác chất nào cũng có thể gây chết người.)
+
+Trong kinh tế, kế hoạch của người mua và người bán cũng biến đổi khi họ gặp phản ứng của nhau và khi giá thay đổi buộc họ tính lại. Người định mua biệt thự sát biển, khi thấy giá, có thể chuyển sang một căn nhà nhỏ xa biển hơn; người bán đôi khi phải bán thấp hơn giá mua hoặc giá thành, vì cầu không đủ và lựa chọn còn lại là không bán được gì.
 
 Vì nhân quả hệ thống là tương tác qua lại, vai trò của ý định cá nhân giảm đi. Sowell dẫn Friedrich Engels: điều mỗi người muốn bị mọi người khác cản trở, và điều xuất hiện là thứ không ai muốn. Kinh tế học quan tâm tới điều xuất hiện, không phải điều ai đó định. Nếu chỉ số chứng khoán đóng cửa ở 14.367 điểm, đó là kết quả tương tác của vô số người mua và bán, không ai trong số họ định cho thị trường đóng cửa ở mức đó, dù chính hành động của họ (nhằm những mục đích khác) đã tạo ra con số ấy.
 
@@ -605,19 +616,33 @@ Sai lầm phổ biến là giải thích kết quả hệ thống bằng ý đ�
 
 **Vì sao người nghèo trả giá cao hơn.** Người ta thường bức xúc vì giá ở cửa hàng trong khu thu nhập thấp cao hơn, vì tiệm cầm đồ và công ty tài chính nhỏ ở đó cho vay lãi cao hơn ngân hàng ở khu trung lưu, và vì người khu nghèo phải trả phí đổi séc trong khi người khu trung lưu đổi séc miễn phí ở ngân hàng. Kết luận vội vàng là lòng tham hay bóc lột. Nhưng tỷ suất lợi nhuận của doanh nghiệp ở khu nghèo nội đô nhìn chung không cao hơn nơi khác, và việc nhiều doanh nghiệp đang rời đi (còn các chuỗi siêu thị thì tránh không vào) củng cố nhận định rằng kinh doanh ở đó không lãi hơn nơi khác.
 
-Lời giải thích thật mang tính hệ thống: phục vụ khu thu nhập thấp tốn kém hơn. Tội phạm và phá hoại nhiều hơn làm bảo hiểm và biện pháp an ninh đắt hơn. Chi phí trên mỗi đô la doanh số cũng cao hơn: cho 50 người vay mỗi người 100 USD ở tiệm cầm đồ hay công ty tài chính địa phương tốn nhiều thời gian và tiền xử lý hơn cho một khách trung lưu vay 5.000 USD ở ngân hàng, dù tổng số tiền như nhau. (Chú thích của Sowell: khách trung lưu có tài khoản séc ở ngân hàng nơi mình muốn vay thường có sẵn hạn mức tín dụng tự động đi kèm tài khoản. Khi cần 5.000 USD, có khi không cần nộp đơn: người vay chỉ việc viết séc vượt số dư 5.000 USD và hạn mức tự động bù vào, tốn rất ít thời gian và công sức cho cả hai bên, vì xếp hạng tín dụng đã được xác lập khi mở tài khoản và hạn mức được định theo xếp hạng đó. Ngân hàng đổi séc cho khách như vậy gần như không rủi ro và không tốn kém, khác hẳn công ty đổi séc mà khách thường không có tài khoản ngân hàng.)
+Lời giải thích thật mang tính hệ thống: phục vụ khu thu nhập thấp tốn kém hơn. Tội phạm và phá hoại nhiều hơn làm bảo hiểm và biện pháp an ninh đắt hơn.
+
+Chi phí trên mỗi đô la doanh số cũng cao hơn: cho 50 người vay mỗi người 100 USD ở tiệm cầm đồ hay công ty tài chính địa phương tốn nhiều thời gian và tiền xử lý hơn cho một khách trung lưu vay 5.000 USD ở ngân hàng, dù tổng số tiền như nhau. (Chú thích của Sowell: khách trung lưu có tài khoản séc ở ngân hàng nơi mình muốn vay thường có sẵn hạn mức tín dụng tự động đi kèm tài khoản.
+
+Khi cần 5.000 USD, có khi không cần nộp đơn: người vay chỉ việc viết séc vượt số dư 5.000 USD và hạn mức tự động bù vào, tốn rất ít thời gian và công sức cho cả hai bên, vì xếp hạng tín dụng đã được xác lập khi mở tài khoản và hạn mức được định theo xếp hạng đó. Ngân hàng đổi séc cho khách như vậy gần như không rủi ro và không tốn kém, khác hẳn công ty đổi séc mà khách thường không có tài khoản ngân hàng.)
 
 Khoảng 10% gia đình Mỹ không có tài khoản séc, tỷ lệ này chắc chắn cao hơn ở gia đình thu nhập thấp, nên nhiều người phải dùng dịch vụ đổi séc để đổi séc lương, séc An sinh Xã hội. Một xe bọc thép chở tiền mệnh giá nhỏ tới công ty tài chính hay tiệm đổi séc ở khu ổ chuột tốn chi phí ngang một xe chở lượng tiền giá trị gấp 100 lần, mệnh giá lớn, tới ngân hàng ở trung tâm thương mại ngoại ô. Chi phí trên mỗi đô la cao hơn thì được chuyển vào giá và lãi suất cao hơn.
 
-Sowell nhấn mạnh rằng giá cao cho người khó trả nhất là một kết cục bi thảm, nhưng nguyên nhân là hệ thống, và phân biệt này có hệ quả thực tế. Nếu coi nguyên nhân là lòng tham rồi áp trần giá và trần lãi suất, nguồn cung cho khu nghèo sẽ còn ít hơn. Giống như kiểm soát tiền thuê nhà làm giảm nguồn cung nhà ở (Chương 3), kiểm soát giá và lãi suất làm giảm số cửa hàng, tiệm cầm đồ, công ty tài chính và tiệm đổi séc sẵn lòng hoạt động ở nơi chi phí cao, khi giá và lãi suất hợp pháp không bù được chi phí. Nhiều cư dân khi đó phải vay của kẻ cho vay nặng lãi, lãi còn cao hơn và đòi nợ bằng bạo lực. Khi cửa hàng và tổ chức tài chính đóng cửa, người dân phải trả thêm tiền xe buýt, taxi để sang khu khác mua thực phẩm hay giao dịch. Thực tế nhiều cửa hàng ở khu nghèo đã đóng cửa vì những lý do khác như bạo loạn, trộm cắp vặt và phá hoại, nên nhiều người ở đó vốn đã phải đi nơi khác để mua sắm hay giao dịch ngân hàng.
+Sowell nhấn mạnh rằng giá cao cho người khó trả nhất là một kết cục bi thảm, nhưng nguyên nhân là hệ thống, và phân biệt này có hệ quả thực tế. Nếu coi nguyên nhân là lòng tham rồi áp trần giá và trần lãi suất, nguồn cung cho khu nghèo sẽ còn ít hơn.
 
-Nguyên tắc "trước hết, đừng gây hại" đã tồn tại nhiều thế kỷ, và hiểu sự khác biệt giữa nhân quả hệ thống và nhân quả do chủ ý là một cách để chính sách kinh tế gây ít hại hơn, nhất là cho người đã khó khăn. Sowell lưu ý rằng phần lớn người dân ở khu tội phạm cao không phải tội phạm; chính số ít người bất lương ở đó gây ra phần lớn chi phí nằm sau giá cao. Nhưng đổ lỗi cho người thu giá cao dễ hơn đổ lỗi cho người gây ra chi phí cao, cả về trí tuệ lẫn cảm xúc, và đổ lỗi cho người ngoài (nhất là khác sắc tộc) còn được lòng cử tri. Giải thích hệ thống không đem lại cho công chúng chỗ trút cảm xúc, cũng không đem lại cho báo chí và chính trị gia một vở kịch đạo đức như các từ "lòng tham", "bóc lột", "chặt chém", "phân biệt đối xử". Giải thích bằng ý định cũng tự nhiên hơn với cá nhân và xã hội kém hiểu biết; đã có lúc khoa học mất hàng thế kỷ mới thay được mê tín về tự nhiên, và Sowell chưa rõ các nguyên lý kinh tế có cần lâu như vậy để thay thói quen giải thích kết quả hệ thống bằng ý định hay không.
+Giống như kiểm soát tiền thuê nhà làm giảm nguồn cung nhà ở (Chương 3), kiểm soát giá và lãi suất làm giảm số cửa hàng, tiệm cầm đồ, công ty tài chính và tiệm đổi séc sẵn lòng hoạt động ở nơi chi phí cao, khi giá và lãi suất hợp pháp không bù được chi phí. Nhiều cư dân khi đó phải vay của kẻ cho vay nặng lãi, lãi còn cao hơn và đòi nợ bằng bạo lực.
+
+Khi cửa hàng và tổ chức tài chính đóng cửa, người dân phải trả thêm tiền xe buýt, taxi để sang khu khác mua thực phẩm hay giao dịch. Thực tế nhiều cửa hàng ở khu nghèo đã đóng cửa vì những lý do khác như bạo loạn, trộm cắp vặt và phá hoại, nên nhiều người ở đó vốn đã phải đi nơi khác để mua sắm hay giao dịch ngân hàng.
+
+Nguyên tắc "trước hết, đừng gây hại" đã tồn tại nhiều thế kỷ, và hiểu sự khác biệt giữa nhân quả hệ thống và nhân quả do chủ ý là một cách để chính sách kinh tế gây ít hại hơn, nhất là cho người đã khó khăn.
+
+Sowell lưu ý rằng phần lớn người dân ở khu tội phạm cao không phải tội phạm; chính số ít người bất lương ở đó gây ra phần lớn chi phí nằm sau giá cao. Nhưng đổ lỗi cho người thu giá cao dễ hơn đổ lỗi cho người gây ra chi phí cao, cả về trí tuệ lẫn cảm xúc, và đổ lỗi cho người ngoài (nhất là khác sắc tộc) còn được lòng cử tri.
+
+Giải thích hệ thống không đem lại cho công chúng chỗ trút cảm xúc, cũng không đem lại cho báo chí và chính trị gia một vở kịch đạo đức như các từ "lòng tham", "bóc lột", "chặt chém", "phân biệt đối xử". Giải thích bằng ý định cũng tự nhiên hơn với cá nhân và xã hội kém hiểu biết; đã có lúc khoa học mất hàng thế kỷ mới thay được mê tín về tự nhiên, và Sowell chưa rõ các nguyên lý kinh tế có cần lâu như vậy để thay thói quen giải thích kết quả hệ thống bằng ý định hay không.
 
 ### 3. Sự phức tạp và nhân quả (Complexity and Causation)
 
 Nguyên lý kinh tế học không thật sự phức tạp, và chính vì dễ học nên chúng dễ bị gạt đi là "quá đơn giản" bởi người không muốn chấp nhận kết luận trái với niềm tin của mình. Sowell cho rằng cách né tránh điều hiển nhiên thường phức tạp hơn sự thật nhiều. Cũng không phải hệ quả phức tạp thì nguyên nhân phải phức tạp.
 
-Ví dụ của Sowell là trục Trái Đất nghiêng. Nếu trục thẳng đứng, ngày và đêm sẽ dài bằng nhau quanh năm ở mọi nơi; khí hậu xích đạo vẫn khác vùng cực, nhưng ở mỗi nơi mùa đông sẽ giống mùa hè. (Chú thích của Sowell: người khó tính có thể nói trong vũ trụ không có trên hay dưới; khi đó chỉ cần nói lại rằng trục quay của Trái Đất không vuông góc với mặt phẳng quỹ đạo quanh Mặt Trời.) Vì trục nghiêng, ánh nắng chiếu tới cùng một nước theo góc khác nhau trong năm, làm nhiệt độ và độ dài ngày đêm thay đổi. Từ đó sinh ra những phản ứng sinh học phức tạp (cây sinh trưởng, động vật ngủ đông và di cư), thay đổi tâm lý con người và nhiều thay đổi theo mùa trong kinh tế, thay đổi hải lưu và tần suất bão. Tất cả xuất phát từ một sự thật đơn giản.
+Ví dụ của Sowell là trục Trái Đất nghiêng. Nếu trục thẳng đứng, ngày và đêm sẽ dài bằng nhau quanh năm ở mọi nơi; khí hậu xích đạo vẫn khác vùng cực, nhưng ở mỗi nơi mùa đông sẽ giống mùa hè. (Chú thích của Sowell: người khó tính có thể nói trong vũ trụ không có trên hay dưới; khi đó chỉ cần nói lại rằng trục quay của Trái Đất không vuông góc với mặt phẳng quỹ đạo quanh Mặt Trời.)
+
+Vì trục nghiêng, ánh nắng chiếu tới cùng một nước theo góc khác nhau trong năm, làm nhiệt độ và độ dài ngày đêm thay đổi. Từ đó sinh ra những phản ứng sinh học phức tạp (cây sinh trưởng, động vật ngủ đông và di cư), thay đổi tâm lý con người và nhiều thay đổi theo mùa trong kinh tế, thay đổi hải lưu và tần suất bão. Tất cả xuất phát từ một sự thật đơn giản.
 
 Kết luận: hệ quả phức tạp có thể do nguyên nhân đơn giản hoặc phức tạp, và chỉ dữ kiện cụ thể cho biết là loại nào; lời phán tiên nghiệm (a priori, tức phán trước khi xem dữ kiện) rằng điều gì đó "quá đơn giản" thì không. Một giải thích là quá đơn giản khi kết luận của nó không khớp dữ kiện hoặc lập luận trái logic. Gọi một giải thích là "quá đơn giản" thường là cách để khỏi phải xét bằng chứng hay logic của nó.
 
@@ -629,7 +654,11 @@ Xu hướng giải thích kết quả bằng ý định của cá nhân (persona
 
 Khi một chính sách hay thể chế do lãnh đạo chính trị cao nhất lập ra, cấp dưới ngại nói trái niềm tin của lãnh đạo, càng ngại chỉ ra hậu quả phản tác dụng về sau. Người mang tin xấu có thể mất sự nghiệp, hoặc dưới thời Stalin hay Mao thì mất mạng. Quan chức thực thi chính sách có thể hoàn toàn hợp lý, dù chính sách gây hại cho xã hội.
 
-Ví dụ Liên Xô thời Stalin: có lúc máy khai mỏ thiếu trầm trọng, nhưng giám đốc một nhà máy chế tạo loại máy này vẫn giữ máy đã làm xong trong kho, không chở tới mỏ. Lý do: lệnh chính thức yêu cầu máy sơn màu đỏ, loại sơn chịu dầu, còn nhà máy chỉ có sơn xanh chịu dầu và véc-ni đỏ không chịu dầu; vì không có thị trường tự do nên cũng không dễ mua được sơn đúng loại. Trái lệnh dưới bất kỳ hình thức nào là tội nặng thời Stalin, và giám đốc nói: "Tôi không muốn lĩnh tám năm tù." Khi ông trình bày với một quan chức cấp trên và xin dùng sơn xanh chịu dầu, quan chức này đáp: "Tôi cũng không muốn lĩnh tám năm." Tuy vậy, quan chức cấp trên đánh điện về bộ xin phép để chính mình được cho phép giám đốc dùng sơn xanh. Sau một thời gian dài, bộ đồng ý và máy mới được chở tới mỏ. Sowell kết luận không ai trong số họ hành động ngu dốt; họ phản ứng hợp lý với động cơ và ràng buộc của hệ thống họ làm việc. Dưới bất kỳ hệ thống nào, người ta chỉ chọn được trong các phương án thực sự có, và các hệ thống kinh tế khác nhau đưa ra các phương án khác nhau.
+Ví dụ Liên Xô thời Stalin: có lúc máy khai mỏ thiếu trầm trọng, nhưng giám đốc một nhà máy chế tạo loại máy này vẫn giữ máy đã làm xong trong kho, không chở tới mỏ. Lý do: lệnh chính thức yêu cầu máy sơn màu đỏ, loại sơn chịu dầu, còn nhà máy chỉ có sơn xanh chịu dầu và véc-ni đỏ không chịu dầu; vì không có thị trường tự do nên cũng không dễ mua được sơn đúng loại.
+
+Trái lệnh dưới bất kỳ hình thức nào là tội nặng thời Stalin, và giám đốc nói: "Tôi không muốn lĩnh tám năm tù." Khi ông trình bày với một quan chức cấp trên và xin dùng sơn xanh chịu dầu, quan chức này đáp: "Tôi cũng không muốn lĩnh tám năm." Tuy vậy, quan chức cấp trên đánh điện về bộ xin phép để chính mình được cho phép giám đốc dùng sơn xanh. Sau một thời gian dài, bộ đồng ý và máy mới được chở tới mỏ.
+
+Sowell kết luận không ai trong số họ hành động ngu dốt; họ phản ứng hợp lý với động cơ và ràng buộc của hệ thống họ làm việc. Dưới bất kỳ hệ thống nào, người ta chỉ chọn được trong các phương án thực sự có, và các hệ thống kinh tế khác nhau đưa ra các phương án khác nhau.
 
 Ngay trong chính phủ dân chủ, nơi rủi ro cá nhân thấp hơn nhiều, một người rất giỏi với thành tích xuất sắc ở khu vực tư nhân thường không lặp lại được thành công khi được bổ nhiệm vào chức vụ cao trong chính phủ, vì động cơ và ràng buộc ở hai loại thể chế khác nhau. Sowell dẫn George J. Stigler (Nobel kinh tế): nhiều doanh nhân thành đạt đã lên giữ chức vụ hành chính cao trong chính phủ liên bang, và nhiều người, theo Stigler là phần lớn, không thành công nổi bật ở môi trường mới; họ bị vây quanh và lấn át bởi cấp dưới am hiểu và cố thủ, phải đối phó với nghị sĩ đòi hỏi không ngừng, và gần như mọi thứ cần thay đổi trong cơ quan đều không động vào được.
 
@@ -643,11 +672,21 @@ Giá không chỉ giúp quyết định sản xuất cái gì; giá còn là m�
 
 Nhiều chính sách nghe có vẻ nhân đạo đã phản tác dụng trong lịch sử vì không hiểu vai trò của giá. Kiểm soát giá lương thực đã dẫn tới đói, có khi chết đói, ở Ý thế kỷ 17, Ấn Độ thế kỷ 18, Pháp sau Cách mạng Pháp, Nga sau Cách mạng Bolshevik, và một số nước châu Phi sau khi giành độc lập thập niên 1960. Vài nước châu Phi trong số đó, cũng như vài nước Đông Âu, từng dư thừa lương thực để xuất khẩu trước khi thời kỳ kiểm soát giá và kế hoạch hoá biến họ thành những nước không tự nuôi nổi mình.
 
-Sowell yêu cầu phân biệt rõ việc không cung ứng được hàng hoá do nhà nước hạn chế với việc không có khả năng sản xuất. Lương thực có thể thiếu ở một nước có đất cực kỳ màu mỡ, như nước Nga hậu cộng sản chưa có kinh tế thị trường tự do. Một bài báo ông dẫn mô tả thung lũng sông Plava, cách Moskva 150 dặm về phía nam, là giấc mơ của người làm nông: cửa ngõ vào vùng người Nga gọi là "Đất Đen" (Chernozym), với đất màu mỡ bậc nhất châu Âu, cách một đô thị khổng lồ đang đói ba giờ lái xe; vùng Đất Đen đủ của cải tự nhiên để nuôi cả nước nhưng khó nuôi nổi chính mình. Trong kinh tế thị trường tự do khó hình dung một thành phố đói phải nhập lương thực nước ngoài trong khi đất cực kỳ màu mỡ ở ngay gần. Người làm nông ở đó nghèo như dân thành phố đói: công nhân thu hoạch được trả tương đương khoảng 10 USD một tuần, mà khoản ít ỏi đó còn trả bằng hiện vật (bao khoai tây hay dưa chuột) vì thiếu tiền. Thị trưởng một thị trấn trong vùng nói rằng lẽ ra họ phải giàu, vì có đất tuyệt vời, có kiến thức khoa học, có người có trình độ, nhưng rốt cuộc tất cả chẳng thành gì.
+Sowell yêu cầu phân biệt rõ việc không cung ứng được hàng hoá do nhà nước hạn chế với việc không có khả năng sản xuất. Lương thực có thể thiếu ở một nước có đất cực kỳ màu mỡ, như nước Nga hậu cộng sản chưa có kinh tế thị trường tự do.
 
-Theo Sowell, ít ra những điều đó cho thấy lý do phải hiểu kinh tế học như phương tiện để phân bổ hiệu quả nguồn lực khan hiếm có nhiều cách dùng thay thế nhau. Thứ duy nhất nước Nga thiếu là một thị trường nối thành phố đói với sản phẩm của vùng đất màu mỡ, và một chính quyền để thị trường đó vận hành tự do. Nhưng ở một số nơi, quan chức địa phương Nga cấm chở lương thực qua ranh giới địa phương, để giữ giá lương thực thấp trong địa bàn và nhờ đó giữ sự ủng hộ chính trị cho bản thân. Sowell một lần nữa nhấn mạnh rằng đây không phải chính sách ngu dốt, nếu nhìn từ phía quan chức muốn được người tiêu dùng địa phương ủng hộ bằng giá lương thực thấp: nó bảo vệ sự nghiệp chính trị của họ, dù tai hại cho cả nước.
+Một bài báo ông dẫn mô tả thung lũng sông Plava, cách Moskva 150 dặm về phía nam, là giấc mơ của người làm nông: cửa ngõ vào vùng người Nga gọi là "Đất Đen" (Chernozym), với đất màu mỡ bậc nhất châu Âu, cách một đô thị khổng lồ đang đói ba giờ lái xe; vùng Đất Đen đủ của cải tự nhiên để nuôi cả nước nhưng khó nuôi nổi chính mình.
 
-Nhân quả hệ thống trong thị trường tự do là vô cảm theo nghĩa kết quả không do ai định trước, nhưng "thị trường" rốt cuộc là cách dung hoà mong muốn cá nhân của rất nhiều người với nhau. Người ta hay đối lập sai giữa thị trường vô cảm và các chương trình nhà nước được cho là nhân ái. Cả hai hệ thống cùng chịu sự khan hiếm nguồn lực và cùng phải lựa chọn trong giới hạn đó; khác biệt là một hệ thống để mỗi người tự chọn cho mình, còn hệ thống kia để một nhóm nhỏ chọn thay cho hàng triệu người. Cơ chế thị trường vô cảm, nhưng lựa chọn của từng người trong đó cũng cá nhân như mọi lựa chọn khác. Nhà báo hay nói "sự thất thường của thị trường" như thể đó là thứ khác với mong muốn của con người, cũng như từng có thời người ta cổ vũ khẩu hiệu "sản xuất để dùng, không vì lợi nhuận", như thể có thể kiếm lời bằng cách làm ra thứ người ta không dùng được hay không muốn dùng. Đối lập thật, theo Sowell, là giữa lựa chọn do mỗi người tự làm cho mình và lựa chọn do người khác làm thay, những người tự cho mình quyền định nghĩa người kia "thật sự" cần gì.
+Trong kinh tế thị trường tự do khó hình dung một thành phố đói phải nhập lương thực nước ngoài trong khi đất cực kỳ màu mỡ ở ngay gần. Người làm nông ở đó nghèo như dân thành phố đói: công nhân thu hoạch được trả tương đương khoảng 10 USD một tuần, mà khoản ít ỏi đó còn trả bằng hiện vật (bao khoai tây hay dưa chuột) vì thiếu tiền. Thị trưởng một thị trấn trong vùng nói rằng lẽ ra họ phải giàu, vì có đất tuyệt vời, có kiến thức khoa học, có người có trình độ, nhưng rốt cuộc tất cả chẳng thành gì.
+
+Theo Sowell, ít ra những điều đó cho thấy lý do phải hiểu kinh tế học như phương tiện để phân bổ hiệu quả nguồn lực khan hiếm có nhiều cách dùng thay thế nhau. Thứ duy nhất nước Nga thiếu là một thị trường nối thành phố đói với sản phẩm của vùng đất màu mỡ, và một chính quyền để thị trường đó vận hành tự do.
+
+Nhưng ở một số nơi, quan chức địa phương Nga cấm chở lương thực qua ranh giới địa phương, để giữ giá lương thực thấp trong địa bàn và nhờ đó giữ sự ủng hộ chính trị cho bản thân. Sowell một lần nữa nhấn mạnh rằng đây không phải chính sách ngu dốt, nếu nhìn từ phía quan chức muốn được người tiêu dùng địa phương ủng hộ bằng giá lương thực thấp: nó bảo vệ sự nghiệp chính trị của họ, dù tai hại cho cả nước.
+
+Nhân quả hệ thống trong thị trường tự do là vô cảm theo nghĩa kết quả không do ai định trước, nhưng "thị trường" rốt cuộc là cách dung hoà mong muốn cá nhân của rất nhiều người với nhau. Người ta hay đối lập sai giữa thị trường vô cảm và các chương trình nhà nước được cho là nhân ái.
+
+Cả hai hệ thống cùng chịu sự khan hiếm nguồn lực và cùng phải lựa chọn trong giới hạn đó; khác biệt là một hệ thống để mỗi người tự chọn cho mình, còn hệ thống kia để một nhóm nhỏ chọn thay cho hàng triệu người. Cơ chế thị trường vô cảm, nhưng lựa chọn của từng người trong đó cũng cá nhân như mọi lựa chọn khác.
+
+Nhà báo hay nói "sự thất thường của thị trường" như thể đó là thứ khác với mong muốn của con người, cũng như từng có thời người ta cổ vũ khẩu hiệu "sản xuất để dùng, không vì lợi nhuận", như thể có thể kiếm lời bằng cách làm ra thứ người ta không dùng được hay không muốn dùng. Đối lập thật, theo Sowell, là giữa lựa chọn do mỗi người tự làm cho mình và lựa chọn do người khác làm thay, những người tự cho mình quyền định nghĩa người kia "thật sự" cần gì.
 
 ### 6. Khan hiếm và cạnh tranh (Scarcity and Competition); thể chế kinh tế (Economic Institutions)
 
@@ -655,7 +694,11 @@ Khan hiếm nghĩa là không thể thoả mãn hoàn toàn mong muốn của m�
 
 Người mua hàng thường không nghĩ mình đang cạnh tranh; họ chỉ quyết định mua bao nhiêu với mức giá gặp phải và số tiền mình có. Nhưng khan hiếm bảo đảm họ đang cạnh tranh với người khác.
 
-Một lợi ích phụ của việc cạnh tranh và chia sẻ qua giá là người ta ít coi nhau là đối thủ và ít nảy sinh thù địch. Ví dụ của Sowell: gần như cùng nhân công và vật liệu xây dựng có thể dùng để xây nhà thờ Tin Lành hay nhà thờ Công giáo. Một giáo đoàn Tin Lành quyên tiền xây nhà thờ sẽ bận tâm quyên được bao nhiêu và kiểu nhà thờ họ muốn cần bao nhiêu; giá xây dựng có thể khiến họ bỏ bớt những phần cầu kỳ cho vừa khả năng. Nhưng họ khó mà trách người Công giáo, dù chính cầu của người Công giáo với cùng loại vật liệu làm giá cao hơn. Nếu nhà nước đứng ra xây nhà thờ rồi phát cho các nhóm tôn giáo, người Tin Lành và Công giáo sẽ là đối thủ trực tiếp giành khoản ban phát đó, và không bên nào có động cơ tài chính để thu nhỏ kế hoạch nhường bên kia. Mỗi bên sẽ có động cơ đòi tối đa, huy động tín đồ gây áp lực chính trị và oán giận mọi đề nghị thu nhỏ. Sự khan hiếm vật liệu và nhân công vẫn giới hạn những gì xây được, nhưng giới hạn đó nay được áp đặt bằng chính trị và mỗi bên coi đó là do sự tranh giành của bên kia. Hiến pháp Mỹ cấm chính phủ xây nhà thờ cho các nhóm tôn giáo, hẳn là để ngăn những cuộc tranh giành chính trị như vậy cùng sự cay đắng, có khi đổ máu, mà chúng đã gây ra ở nước khác và thời khác.
+Một lợi ích phụ của việc cạnh tranh và chia sẻ qua giá là người ta ít coi nhau là đối thủ và ít nảy sinh thù địch. Ví dụ của Sowell: gần như cùng nhân công và vật liệu xây dựng có thể dùng để xây nhà thờ Tin Lành hay nhà thờ Công giáo. Một giáo đoàn Tin Lành quyên tiền xây nhà thờ sẽ bận tâm quyên được bao nhiêu và kiểu nhà thờ họ muốn cần bao nhiêu; giá xây dựng có thể khiến họ bỏ bớt những phần cầu kỳ cho vừa khả năng. Nhưng họ khó mà trách người Công giáo, dù chính cầu của người Công giáo với cùng loại vật liệu làm giá cao hơn.
+
+Nếu nhà nước đứng ra xây nhà thờ rồi phát cho các nhóm tôn giáo, người Tin Lành và Công giáo sẽ là đối thủ trực tiếp giành khoản ban phát đó, và không bên nào có động cơ tài chính để thu nhỏ kế hoạch nhường bên kia. Mỗi bên sẽ có động cơ đòi tối đa, huy động tín đồ gây áp lực chính trị và oán giận mọi đề nghị thu nhỏ.
+
+Sự khan hiếm vật liệu và nhân công vẫn giới hạn những gì xây được, nhưng giới hạn đó nay được áp đặt bằng chính trị và mỗi bên coi đó là do sự tranh giành của bên kia. Hiến pháp Mỹ cấm chính phủ xây nhà thờ cho các nhóm tôn giáo, hẳn là để ngăn những cuộc tranh giành chính trị như vậy cùng sự cay đắng, có khi đổ máu, mà chúng đã gây ra ở nước khác và thời khác.
 
 Nguyên lý đó cũng áp dụng cho các nhóm theo sắc tộc, vùng miền hay độ tuổi: tất cả đều tranh giành cùng nguồn lực vì nguồn lực khan hiếm. Nhưng cạnh tranh gián tiếp bằng cách giữ mong muốn trong giới hạn túi tiền mình rất khác với thấy mong muốn về phúc lợi nhà nước bị chặn trực tiếp bởi yêu sách của một nhóm khác. Tự giới hạn mức dùng qua giá vừa giảm va chạm xã hội và chính trị, vừa hiệu quả hơn về kinh tế, vì mỗi người hiểu sở thích của mình hơn bất kỳ bên thứ ba nào, nên có thể đánh đổi từng phần sao cho vừa ý nhất trong giới hạn nguồn lực.
 
@@ -688,7 +731,9 @@ Giá trị tương đối có thể thay đổi tới mức biến thứ có l�
 
 Vì vậy rượu không tốt hay xấu một cách tuyệt đối. Khi hai thứ đều có giá trị, không thứ nào có thể tuyệt đối giá trị hơn thứ kia: viên kim cương có thể đắt hơn đồng xu một cent rất nhiều, nhưng đủ nhiều đồng xu sẽ đáng giá hơn bất kỳ viên kim cương nào. Đó là lý do đánh đổi từng phần thường cho kết quả tốt hơn ưu tiên tuyệt đối.
 
-**Thủ tục hành chính rườm rà.** Người ta than phiền về thủ tục rườm rà (red tape) ở khắp thế giới, nhưng việc nó sinh ra là dễ hiểu nếu nhìn vào động cơ của những người soạn biểu mẫu, quy định và yêu cầu cho vô số hoạt động cần phép của nhà nước. Không gì dễ hơn nghĩ ra thêm một yêu cầu có thể có ích theo cách nào đó, lúc nào đó, và không gì khó hơn nhớ đặt câu hỏi then chốt về phần tăng thêm (incremental) của mỗi yêu cầu: với chi phí bao nhiêu? Người tiêu tiền của mình gặp câu hỏi chi phí ở mọi bước; người tiêu tiền thuế, hoặc chỉ đơn giản áp những chi phí không ai đếm lên doanh nghiệp, chủ nhà và người khác, không có động cơ thật sự để biết chi phí tăng thêm là bao nhiêu, càng không có động cơ để dừng thêm yêu cầu khi chi phí tăng thêm sắp vượt lợi ích tăng thêm cho những người phải chịu. Thủ tục vì thế phình ra.
+**Thủ tục hành chính rườm rà.** Người ta than phiền về thủ tục rườm rà (red tape) ở khắp thế giới, nhưng việc nó sinh ra là dễ hiểu nếu nhìn vào động cơ của những người soạn biểu mẫu, quy định và yêu cầu cho vô số hoạt động cần phép của nhà nước. Không gì dễ hơn nghĩ ra thêm một yêu cầu có thể có ích theo cách nào đó, lúc nào đó, và không gì khó hơn nhớ đặt câu hỏi then chốt về phần tăng thêm (incremental) của mỗi yêu cầu: với chi phí bao nhiêu?
+
+Người tiêu tiền của mình gặp câu hỏi chi phí ở mọi bước; người tiêu tiền thuế, hoặc chỉ đơn giản áp những chi phí không ai đếm lên doanh nghiệp, chủ nhà và người khác, không có động cơ thật sự để biết chi phí tăng thêm là bao nhiêu, càng không có động cơ để dừng thêm yêu cầu khi chi phí tăng thêm sắp vượt lợi ích tăng thêm cho những người phải chịu. Thủ tục vì thế phình ra.
 
 Mọi nỗ lực bỏ bớt thủ tục đều có thể bị quan chức phản bác bằng việc chỉ ra công dụng của yêu cầu đó trong một số trường hợp, nhưng họ khó mà đặt câu hỏi lợi ích tăng thêm có vượt chi phí tăng thêm không, vì họ không có động cơ nhìn vấn đề theo cách đó. Báo chí cũng vậy: một bài trên *New York Times* lập luận rằng có rất ít, nếu có, quy định "vô ích", như thể đó là tiêu chí đúng. Nhưng cả cá nhân lẫn doanh nghiệp đều không muốn và không thể trả tiền cho mọi thứ không vô ích khi họ tiêu tiền của mình.
 
@@ -706,7 +751,9 @@ Vào lúc bài báo mô tả luật lao động Ý được đăng, tỷ lệ th
 
 ### 8. Trợ cấp và thuế (Subsidies and Taxes)
 
-Lý tưởng thì giá để những người dùng khác nhau cạnh tranh nguồn lực khan hiếm trên thị trường. Cuộc cạnh tranh đó bị bóp méo khi một số sản phẩm hay nguồn lực bị đánh thuế riêng mà những thứ khác thì không, hoặc khi nhà nước trợ cấp cho một số thứ mà không trợ cấp cho thứ khác. Giá mà người tiêu dùng trả cho những thứ bị đánh thuế riêng hay được trợ cấp riêng không còn phản ánh chi phí thật để làm ra chúng, nên không dẫn tới cùng những đánh đổi như khi phản ánh đúng. Vậy mà luôn có cám dỗ chính trị trợ cấp thứ "tốt" và đánh thuế thứ "xấu". Khi không thứ gì tốt hay xấu một cách tuyệt đối, cách làm đó ngăn ta biết một thứ tốt hay xấu tới đâu bằng cách để người ta tự do lựa chọn với giá không bị chính trị chỉnh sửa. Theo Sowell, người đòi thuế hay trợ cấp riêng cho một thứ có vẻ không hiểu rằng điều họ thực sự đòi là để giá báo sai mức khan hiếm tương đối của mọi thứ và giá trị tương đối mà người dùng gán cho chúng.
+Lý tưởng thì giá để những người dùng khác nhau cạnh tranh nguồn lực khan hiếm trên thị trường. Cuộc cạnh tranh đó bị bóp méo khi một số sản phẩm hay nguồn lực bị đánh thuế riêng mà những thứ khác thì không, hoặc khi nhà nước trợ cấp cho một số thứ mà không trợ cấp cho thứ khác. Giá mà người tiêu dùng trả cho những thứ bị đánh thuế riêng hay được trợ cấp riêng không còn phản ánh chi phí thật để làm ra chúng, nên không dẫn tới cùng những đánh đổi như khi phản ánh đúng.
+
+Vậy mà luôn có cám dỗ chính trị trợ cấp thứ "tốt" và đánh thuế thứ "xấu". Khi không thứ gì tốt hay xấu một cách tuyệt đối, cách làm đó ngăn ta biết một thứ tốt hay xấu tới đâu bằng cách để người ta tự do lựa chọn với giá không bị chính trị chỉnh sửa. Theo Sowell, người đòi thuế hay trợ cấp riêng cho một thứ có vẻ không hiểu rằng điều họ thực sự đòi là để giá báo sai mức khan hiếm tương đối của mọi thứ và giá trị tương đối mà người dùng gán cho chúng.
 
 **Nước ở California.** Một nguyên nhân của các cuộc khủng hoảng nước lặp lại ở California là nông dân được trợ giá nước rất nhiều:
 
@@ -717,31 +764,55 @@ Lý tưởng thì giá để những người dùng khác nhau cạnh tranh ngu�
 | Tỷ trọng nông nghiệp trong sản lượng của bang | Dưới 2% |
 | Tỷ trọng nông nghiệp trong lượng nước tiêu thụ của bang | 43% |
 
-Nông dân California trồng lúa và bông, những cây cần rất nhiều nước, ở vùng khí hậu rất khô, điều sẽ không xảy ra nếu họ phải trả chi phí nước thật. Việc đất khô cằn California sản xuất được lượng lớn rau quả nhờ nước trợ giá có thể khiến một số người cảm phục, nhưng chính những rau quả đó có thể được trồng rẻ hơn ở nơi khác với nước mưa miễn phí. Cách biết nông sản California có đáng với chi phí trồng không là để nông dân California tự trả mọi chi phí và cạnh tranh với nông dân ở các bang mưa nhiều hơn. Không cần quan chức quyết định một cách tuỳ tiện và tuyệt đối rằng trồng loại cây nào ở California bằng nước từ các công trình thuỷ lợi liên bang bán dưới giá thành là tốt hay xấu; những câu hỏi đó có thể được quyết định từng phần, bởi chính những người đối mặt với các lựa chọn, qua cạnh tranh giá trên thị trường tự do.
+Nông dân California trồng lúa và bông, những cây cần rất nhiều nước, ở vùng khí hậu rất khô, điều sẽ không xảy ra nếu họ phải trả chi phí nước thật. Việc đất khô cằn California sản xuất được lượng lớn rau quả nhờ nước trợ giá có thể khiến một số người cảm phục, nhưng chính những rau quả đó có thể được trồng rẻ hơn ở nơi khác với nước mưa miễn phí.
+
+Cách biết nông sản California có đáng với chi phí trồng không là để nông dân California tự trả mọi chi phí và cạnh tranh với nông dân ở các bang mưa nhiều hơn. Không cần quan chức quyết định một cách tuỳ tiện và tuyệt đối rằng trồng loại cây nào ở California bằng nước từ các công trình thuỷ lợi liên bang bán dưới giá thành là tốt hay xấu; những câu hỏi đó có thể được quyết định từng phần, bởi chính những người đối mặt với các lựa chọn, qua cạnh tranh giá trên thị trường tự do.
 
 California không phải trường hợp duy nhất, và đây cũng không phải vấn đề riêng của Mỹ. Theo tạp chí *The Economist*, chính phủ Ấn Độ cấp điện và nước "gần như miễn phí" cho nông dân, khuyến khích họ trồng quá nhiều lúa "ngốn nước", khiến mực nước ngầm ở bang Punjab "đang hạ nhanh". Làm cho thứ gì rẻ một cách giả tạo thường khiến nó bị lãng phí, dù đó là thứ gì và ở đâu.
 
 Từ góc độ phân bổ nguồn lực, Sowell cho rằng nhà nước hoặc không đánh thuế nguồn lực, hàng hoá, dịch vụ, hoặc đánh thuế tất cả như nhau, để giảm tối đa sự bóp méo lựa chọn của người tiêu dùng và nhà sản xuất. Vì lý do tương tự, không nên trợ cấp cho nguồn lực, hàng hoá, dịch vụ cụ thể, dù có thể trợ cấp cho con người vì lòng nhân đạo khi họ là nạn nhân của thiên tai, dị tật bẩm sinh hay bất hạnh khác ngoài tầm kiểm soát. Đưa tiền cho người nghèo đạt cùng mục đích nhân đạo mà không bóp méo phân bổ nguồn lực như việc trợ cấp hay đánh thuế các sản phẩm khác nhau một cách khác nhau.
 
-Dù hiệu quả kinh tế được lợi nhiều nếu giá nguồn lực không bị thuế hay trợ cấp làm thay đổi, về chính trị thì chính trị gia được phiếu nhờ ban ơn cho các nhóm lợi ích hoặc đánh thuế riêng vào bất kỳ ai, bất kỳ thứ gì đang bị ghét. Thị trường tự do có thể vận hành tốt nhất trên sân chơi bằng phẳng, nhưng chính trị gia được nhiều phiếu hơn khi làm nghiêng sân để ưu ái một số nhóm. Việc này thường được biện minh bằng nhu cầu giúp người kém may mắn, nhưng khi quyền lực và thói quen đã hình thành, chúng trở thành phương tiện trợ cấp cho đủ loại nhóm chẳng hề kém may mắn. Ví dụ, *Wall Street Journal* đưa tin một phần thuế và phí liên bang mà hành khách đi máy bay trả được dành cho các sân bay nhỏ, chủ yếu do phi công tư nhân và giám đốc doanh nghiệp bay khắp thế giới sử dụng.
+Dù hiệu quả kinh tế được lợi nhiều nếu giá nguồn lực không bị thuế hay trợ cấp làm thay đổi, về chính trị thì chính trị gia được phiếu nhờ ban ơn cho các nhóm lợi ích hoặc đánh thuế riêng vào bất kỳ ai, bất kỳ thứ gì đang bị ghét. Thị trường tự do có thể vận hành tốt nhất trên sân chơi bằng phẳng, nhưng chính trị gia được nhiều phiếu hơn khi làm nghiêng sân để ưu ái một số nhóm.
+
+Việc này thường được biện minh bằng nhu cầu giúp người kém may mắn, nhưng khi quyền lực và thói quen đã hình thành, chúng trở thành phương tiện trợ cấp cho đủ loại nhóm chẳng hề kém may mắn. Ví dụ, *Wall Street Journal* đưa tin một phần thuế và phí liên bang mà hành khách đi máy bay trả được dành cho các sân bay nhỏ, chủ yếu do phi công tư nhân và giám đốc doanh nghiệp bay khắp thế giới sử dụng.
 
 ### 9. Ý nghĩa của "chi phí" (The Meaning of "Costs")
 
-Đôi khi người ta biện minh cho việc loại một số thứ ra khỏi việc cân nhắc chi phí và lợi ích bằng câu hỏi: "Làm sao có thể đặt giá cho nghệ thuật?", hay cho giáo dục, sức khoẻ, âm nhạc. Ngộ nhận gốc của câu hỏi này là niềm tin rằng giá chỉ đơn giản được "đặt" lên mọi thứ. Chừng nào nghệ thuật, giáo dục, sức khoẻ, âm nhạc và hàng nghìn thứ khác còn cần thời gian, công sức và nguyên liệu, chi phí của các đầu vào đó là cố hữu. Chi phí không biến mất vì một đạo luật ngăn nó được truyền đi qua giá trên thị trường. Rốt cuộc, với cả xã hội, chi phí là những thứ khác có thể làm ra từ cùng nguồn lực. Dòng tiền và biến động giá là triệu chứng của sự thật đó, và dập tắt triệu chứng không làm thay đổi sự thật bên dưới.
+Đôi khi người ta biện minh cho việc loại một số thứ ra khỏi việc cân nhắc chi phí và lợi ích bằng câu hỏi: "Làm sao có thể đặt giá cho nghệ thuật?", hay cho giáo dục, sức khoẻ, âm nhạc. Ngộ nhận gốc của câu hỏi này là niềm tin rằng giá chỉ đơn giản được "đặt" lên mọi thứ. Chừng nào nghệ thuật, giáo dục, sức khoẻ, âm nhạc và hàng nghìn thứ khác còn cần thời gian, công sức và nguyên liệu, chi phí của các đầu vào đó là cố hữu.
+
+Chi phí không biến mất vì một đạo luật ngăn nó được truyền đi qua giá trên thị trường. Rốt cuộc, với cả xã hội, chi phí là những thứ khác có thể làm ra từ cùng nguồn lực. Dòng tiền và biến động giá là triệu chứng của sự thật đó, và dập tắt triệu chứng không làm thay đổi sự thật bên dưới.
 
 Một lý do kiểm soát giá được ưa chuộng là người ta lẫn giá với chi phí. Chính trị gia nói sẽ "giảm chi phí chăm sóc y tế" hầu như luôn có ý là giảm giá phải trả cho chăm sóc y tế. Chi phí thật (nhiều năm đào tạo bác sĩ, nguồn lực để xây và trang bị bệnh viện, hàng trăm triệu USD cho nhiều năm nghiên cứu để phát triển một loại thuốc mới) khó mà giảm chút nào, và chính trị gia cũng không đụng tới. Điều họ muốn nói là giảm giá thuốc và giảm phí của bác sĩ, bệnh viện.
 
-Khi đã phân biệt giá và chi phí, hậu quả tiêu cực của kiểm soát giá không còn đáng ngạc nhiên, vì giá trần nghĩa là từ chối trả đủ chi phí. Người cung ứng nhà ở, lương thực, thuốc men hay vô số hàng hoá, dịch vụ khác khó mà tiếp tục cung ứng với cùng số lượng và chất lượng khi không bù được chi phí mà số lượng và chất lượng đó đòi hỏi. Điều này có thể không thấy ngay, nên kiểm soát giá thường được lòng dân, nhưng hậu quả kéo dài và thường tệ dần theo thời gian. Nhà ở không biến mất ngay khi có kiểm soát tiền thuê, mà xuống cấp dần và không được thay bằng đủ nhà mới khi cũ đi. Thuốc hiện có không nhất thiết biến mất dưới kiểm soát giá, nhưng thuốc mới chữa ung thư, AIDS, Alzheimer và nhiều bệnh khác khó được phát triển cùng tốc độ khi không còn tiền bù chi phí và rủi ro của việc tạo ra thuốc mới. Tất cả cần thời gian để lộ ra, và trí nhớ của nhiều người có thể quá ngắn để nối hậu quả họ gặp với chính sách được lòng dân mà họ đã ủng hộ vài năm trước.
+Khi đã phân biệt giá và chi phí, hậu quả tiêu cực của kiểm soát giá không còn đáng ngạc nhiên, vì giá trần nghĩa là từ chối trả đủ chi phí. Người cung ứng nhà ở, lương thực, thuốc men hay vô số hàng hoá, dịch vụ khác khó mà tiếp tục cung ứng với cùng số lượng và chất lượng khi không bù được chi phí mà số lượng và chất lượng đó đòi hỏi.
 
-Dù những điều này có vẻ hiển nhiên, vẫn có dòng chảy không dứt các kế hoạch chính trị nhằm né thực tế mà giá truyền đi: kiểm soát giá trực tiếp, trợ cấp để làm thứ này thứ kia "vừa túi tiền", hoặc để nhà nước cung cấp miễn phí như một "quyền". Sowell cho rằng có thể có nhiều chính sách kinh tế sai lầm dựa trên việc coi giá là phiền toái cần lách qua hơn là dựa trên bất kỳ ngộ nhận đơn lẻ nào khác. Điểm chung của mọi kế hoạch đó là miễn cho một số thứ khỏi việc cân nhắc chi phí với lợi ích, một việc thiết yếu để tối đa hoá lợi ích từ nguồn lực khan hiếm có nhiều cách dùng thay thế nhau. (Chú thích của Sowell: một cây bút của *New York Times*, Alissa Quart, trong bài "Crushed by the Cost of Child Care" ngày 18/8/2013, viết rằng "chúng ta cần dịch vụ giữ trẻ chất lượng cao, phổ cập, được trợ giá". Theo Sowell, điều đó có nghĩa là một số người quyết định vừa có con vừa theo đuổi sự nghiệp, còn chi phí để người nộp thuế, những người không liên quan gì tới quyết định đó, trả; và không ai đưa ra quyết định dựa trên việc cân nhắc chi phí với lợi ích, trừ có lẽ những người quan sát bên ngoài không có quyền lợi gì trong kết quả và không chịu hậu quả gì nếu sai.)
+Điều này có thể không thấy ngay, nên kiểm soát giá thường được lòng dân, nhưng hậu quả kéo dài và thường tệ dần theo thời gian. Nhà ở không biến mất ngay khi có kiểm soát tiền thuê, mà xuống cấp dần và không được thay bằng đủ nhà mới khi cũ đi. Thuốc hiện có không nhất thiết biến mất dưới kiểm soát giá, nhưng thuốc mới chữa ung thư, AIDS, Alzheimer và nhiều bệnh khác khó được phát triển cùng tốc độ khi không còn tiền bù chi phí và rủi ro của việc tạo ra thuốc mới. Tất cả cần thời gian để lộ ra, và trí nhớ của nhiều người có thể quá ngắn để nối hậu quả họ gặp với chính sách được lòng dân mà họ đã ủng hộ vài năm trước.
 
-**Giá như thông tin.** Vai trò kinh tế quý nhất của giá là truyền thông tin về một thực tế bên dưới, đồng thời tạo động cơ để phản ứng với thực tế đó. Theo một nghĩa nào đó, giá tóm tắt kết quả cuối cùng của một thực tế phức tạp trong một con số đơn giản. Ví dụ: một thợ ảnh muốn mua ống kính tele có thể phải chọn giữa hai ống cho ảnh cùng chất lượng, cùng độ phóng đại, nhưng một ống nhận gấp đôi ánh sáng ống kia. Ống thứ hai chụp được trong điều kiện tối hơn, nhưng khẩu độ rộng hơn gây ra các vấn đề quang học. Thợ ảnh có thể hoàn toàn không biết về các vấn đề đó, mà việc giải quyết chúng có thể cần một ống kính phức tạp hơn làm bằng thuỷ tinh đắt hơn. Điều thợ ảnh biết là ống khẩu độ rộng có giá cao hơn, và quyết định duy nhất của anh ta là giá cao hơn có đáng với loại ảnh mình chụp không. Thợ chụp phong cảnh ngoài trời ngày nắng có thể thấy ống đắt không đáng tiền, còn thợ chụp trong bảo tàng cấm dùng đèn flash có thể không có lựa chọn nào khác ngoài trả thêm tiền cho ống khẩu độ rộng.
+Dù những điều này có vẻ hiển nhiên, vẫn có dòng chảy không dứt các kế hoạch chính trị nhằm né thực tế mà giá truyền đi: kiểm soát giá trực tiếp, trợ cấp để làm thứ này thứ kia "vừa túi tiền", hoặc để nhà nước cung cấp miễn phí như một "quyền".
 
-Vì tri thức là một trong những nguồn lực khan hiếm nhất, giá đóng vai trò quan trọng trong việc tiết kiệm lượng tri thức mà mỗi cá nhân hay tổ chức cần để ra quyết định. Thợ ảnh không cần biết gì về quang học để đánh đổi hiệu quả khi chọn ống kính, còn nhà thiết kế ống kính hiểu quang học không cần biết quy định của bảo tàng hay thị trường ảnh chụp trong bảo tàng và nơi thiếu sáng. Trong một hệ thống không dựa vào giá mà dựa vào một quan chức hay uỷ ban kế hoạch quyết định cách dùng nguồn lực khan hiếm, cần một lượng tri thức khổng lồ về các yếu tố phức tạp nằm sau ngay cả một quyết định tương đối đơn giản như sản xuất và dùng ống kính máy ảnh. Thuỷ tinh không chỉ dùng cho ống kính mà còn cho kính hiển vi, kính thiên văn, cửa sổ, gương và vô số thứ khác; biết nên phân bổ bao nhiêu thuỷ tinh cho mỗi sản phẩm đòi hỏi chuyên môn trong nhiều lĩnh vực phức tạp hơn mức bất kỳ cá nhân hay nhóm có quy mô quản lý được nào có thể nắm.
+Sowell cho rằng có thể có nhiều chính sách kinh tế sai lầm dựa trên việc coi giá là phiền toái cần lách qua hơn là dựa trên bất kỳ ngộ nhận đơn lẻ nào khác.
 
-**Kết chương.** Thế kỷ 20 mở đầu với nhiều cá nhân và nhóm mong chờ ngày kinh tế điều phối bằng giá được thay bằng kinh tế kế hoạch hoá tập trung; sự trỗi dậy và sụp đổ của kinh tế kế hoạch hoá diễn ra trong vài thập kỷ. Tới cuối thế kỷ 20, ngay cả phần lớn chính phủ xã hội chủ nghĩa và cộng sản trên thế giới đã quay lại dùng giá để điều phối nền kinh tế. Kế hoạch hoá tập trung có thể hấp dẫn trước khi được thử, nhưng kinh nghiệm cụ thể khiến chính những người ủng hộ nó dựa ngày càng nhiều vào thị trường điều phối bằng giá. Một nghiên cứu quốc tế năm 2012 về thị trường tự do xếp Hồng Kông là thị trường tự do nhất thế giới, trong khi Hồng Kông thuộc một nước có chính phủ cộng sản.
+Điểm chung của mọi kế hoạch đó là miễn cho một số thứ khỏi việc cân nhắc chi phí với lợi ích, một việc thiết yếu để tối đa hoá lợi ích từ nguồn lực khan hiếm có nhiều cách dùng thay thế nhau. (Chú thích của Sowell: một cây bút của *New York Times*, Alissa Quart, trong bài "Crushed by the Cost of Child Care" ngày 18/8/2013, viết rằng "chúng ta cần dịch vụ giữ trẻ chất lượng cao, phổ cập, được trợ giá".
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một thành phố có 2 triệu hộ gia đình quyết định giữ giá nước sinh hoạt ở mức 5.000 đồng/m³, trong khi chi phí thật để khai thác, xử lý và đưa nước tới nhà là 12.000 đồng/m³. Ở giá 5.000 đồng, mỗi hộ dùng trung bình 20 m³/tháng thay vì 15 m³ nếu giá phản ánh đúng chi phí: rửa xe bằng vòi, không sửa vòi rò, tưới cây giữa trưa. Tổng lượng nước dùng là 40 triệu m³/tháng, nhiều hơn 10 triệu m³ so với mức 30 triệu m³ nếu giá đúng chi phí. Xã hội vẫn trả đủ 12.000 đồng cho mỗi m³: phần chênh 7.000 đồng/m³ chuyển sang ngân sách, tức khoảng 280 tỷ đồng mỗi tháng (7.000 đồng nhân 40 triệu m³), trong đó riêng 10 triệu m³ dùng thêm tốn 120 tỷ đồng chi phí thật. Công ty cấp nước không bù được chi phí nên chậm đầu tư đường ống mới; vài năm sau, các khu dân cư mới ở rìa thành phố thiếu nước vào mùa khô và phải mua nước từ xe bồn với giá 50.000 đồng/m³, cao gấp 10 lần giá được kiểm soát. Đúng như Sowell nói: giá thấp không tạo thêm nước, việc phân chia vẫn diễn ra (theo vị trí nhà, theo may rủi khi xe bồn tới), và người chịu thiệt nhất thường là người đến sau, không có chỗ trong hệ thống cũ.
+Theo Sowell, điều đó có nghĩa là một số người quyết định vừa có con vừa theo đuổi sự nghiệp, còn chi phí để người nộp thuế, những người không liên quan gì tới quyết định đó, trả; và không ai đưa ra quyết định dựa trên việc cân nhắc chi phí với lợi ích, trừ có lẽ những người quan sát bên ngoài không có quyền lợi gì trong kết quả và không chịu hậu quả gì nếu sai.)
+
+**Giá như thông tin.** Vai trò kinh tế quý nhất của giá là truyền thông tin về một thực tế bên dưới, đồng thời tạo động cơ để phản ứng với thực tế đó. Theo một nghĩa nào đó, giá tóm tắt kết quả cuối cùng của một thực tế phức tạp trong một con số đơn giản.
+
+Ví dụ: một thợ ảnh muốn mua ống kính tele có thể phải chọn giữa hai ống cho ảnh cùng chất lượng, cùng độ phóng đại, nhưng một ống nhận gấp đôi ánh sáng ống kia. Ống thứ hai chụp được trong điều kiện tối hơn, nhưng khẩu độ rộng hơn gây ra các vấn đề quang học. Thợ ảnh có thể hoàn toàn không biết về các vấn đề đó, mà việc giải quyết chúng có thể cần một ống kính phức tạp hơn làm bằng thuỷ tinh đắt hơn.
+
+Điều thợ ảnh biết là ống khẩu độ rộng có giá cao hơn, và quyết định duy nhất của anh ta là giá cao hơn có đáng với loại ảnh mình chụp không. Thợ chụp phong cảnh ngoài trời ngày nắng có thể thấy ống đắt không đáng tiền, còn thợ chụp trong bảo tàng cấm dùng đèn flash có thể không có lựa chọn nào khác ngoài trả thêm tiền cho ống khẩu độ rộng.
+
+Vì tri thức là một trong những nguồn lực khan hiếm nhất, giá đóng vai trò quan trọng trong việc tiết kiệm lượng tri thức mà mỗi cá nhân hay tổ chức cần để ra quyết định. Thợ ảnh không cần biết gì về quang học để đánh đổi hiệu quả khi chọn ống kính, còn nhà thiết kế ống kính hiểu quang học không cần biết quy định của bảo tàng hay thị trường ảnh chụp trong bảo tàng và nơi thiếu sáng.
+
+Trong một hệ thống không dựa vào giá mà dựa vào một quan chức hay uỷ ban kế hoạch quyết định cách dùng nguồn lực khan hiếm, cần một lượng tri thức khổng lồ về các yếu tố phức tạp nằm sau ngay cả một quyết định tương đối đơn giản như sản xuất và dùng ống kính máy ảnh. Thuỷ tinh không chỉ dùng cho ống kính mà còn cho kính hiển vi, kính thiên văn, cửa sổ, gương và vô số thứ khác; biết nên phân bổ bao nhiêu thuỷ tinh cho mỗi sản phẩm đòi hỏi chuyên môn trong nhiều lĩnh vực phức tạp hơn mức bất kỳ cá nhân hay nhóm có quy mô quản lý được nào có thể nắm.
+
+**Kết chương.** Thế kỷ 20 mở đầu với nhiều cá nhân và nhóm mong chờ ngày kinh tế điều phối bằng giá được thay bằng kinh tế kế hoạch hoá tập trung; sự trỗi dậy và sụp đổ của kinh tế kế hoạch hoá diễn ra trong vài thập kỷ. Tới cuối thế kỷ 20, ngay cả phần lớn chính phủ xã hội chủ nghĩa và cộng sản trên thế giới đã quay lại dùng giá để điều phối nền kinh tế.
+
+Kế hoạch hoá tập trung có thể hấp dẫn trước khi được thử, nhưng kinh nghiệm cụ thể khiến chính những người ủng hộ nó dựa ngày càng nhiều vào thị trường điều phối bằng giá. Một nghiên cứu quốc tế năm 2012 về thị trường tự do xếp Hồng Kông là thị trường tự do nhất thế giới, trong khi Hồng Kông thuộc một nước có chính phủ cộng sản.
+
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một thành phố có 2 triệu hộ gia đình quyết định giữ giá nước sinh hoạt ở mức 5.000 đồng/m³, trong khi chi phí thật để khai thác, xử lý và đưa nước tới nhà là 12.000 đồng/m³. Ở giá 5.000 đồng, mỗi hộ dùng trung bình 20 m³/tháng thay vì 15 m³ nếu giá phản ánh đúng chi phí: rửa xe bằng vòi, không sửa vòi rò, tưới cây giữa trưa. Tổng lượng nước dùng là 40 triệu m³/tháng, nhiều hơn 10 triệu m³ so với mức 30 triệu m³ nếu giá đúng chi phí.
+
+Xã hội vẫn trả đủ 12.000 đồng cho mỗi m³: phần chênh 7.000 đồng/m³ chuyển sang ngân sách, tức khoảng 280 tỷ đồng mỗi tháng (7.000 đồng nhân 40 triệu m³), trong đó riêng 10 triệu m³ dùng thêm tốn 120 tỷ đồng chi phí thật. Công ty cấp nước không bù được chi phí nên chậm đầu tư đường ống mới; vài năm sau, các khu dân cư mới ở rìa thành phố thiếu nước vào mùa khô và phải mua nước từ xe bồn với giá 50.000 đồng/m³, cao gấp 10 lần giá được kiểm soát. Đúng như Sowell nói: giá thấp không tạo thêm nước, việc phân chia vẫn diễn ra (theo vị trí nhà, theo may rủi khi xe bồn tới), và người chịu thiệt nhất thường là người đến sau, không có chỗ trong hệ thống cũ.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -875,7 +946,9 @@ Trong phần chính văn, Sowell thường giữ giọng phân tích nhân quả
 
 ### Từ 2014, một số chi tiết đã đổi nhưng logic của chương vẫn đứng vững
 
-Nói định tính: luật lao động Ý được sửa năm 2015 theo hướng nới ràng buộc sa thải với hợp đồng mới, một phản ứng chính sách đúng với loại phê phán Sowell nêu. Mực nước ngầm ở Punjab tiếp tục là vấn đề lớn, và trợ giá điện cho bơm nước nông nghiệp vẫn là chủ đề tranh cãi ở Ấn Độ. Hồng Kông không còn được nhìn như một nền kinh tế tách biệt trong một số bảng xếp hạng sau những thay đổi chính trị từ 2020, nên câu kết chương về Hồng Kông nên đọc như một ghi nhận của thời điểm 2012. Thời kỳ lạm phát cao 2021–2023 ở nhiều nước cũng làm sống lại các đề xuất kiểm soát giá và các lời giải thích lạm phát bằng "lòng tham doanh nghiệp", đúng loại tranh luận mà phần "nhân quả mang tính hệ thống" của chương nhắm tới.
+Nói định tính: luật lao động Ý được sửa năm 2015 theo hướng nới ràng buộc sa thải với hợp đồng mới, một phản ứng chính sách đúng với loại phê phán Sowell nêu. Mực nước ngầm ở Punjab tiếp tục là vấn đề lớn, và trợ giá điện cho bơm nước nông nghiệp vẫn là chủ đề tranh cãi ở Ấn Độ.
+
+Hồng Kông không còn được nhìn như một nền kinh tế tách biệt trong một số bảng xếp hạng sau những thay đổi chính trị từ 2020, nên câu kết chương về Hồng Kông nên đọc như một ghi nhận của thời điểm 2012. Thời kỳ lạm phát cao 2021–2023 ở nhiều nước cũng làm sống lại các đề xuất kiểm soát giá và các lời giải thích lạm phát bằng "lòng tham doanh nghiệp", đúng loại tranh luận mà phần "nhân quả mang tính hệ thống" của chương nhắm tới.
 
 ### Quan điểm trái chiều: thị trường không trung lập về phân phối
 
@@ -887,3 +960,161 @@ Người phê phán Sowell cho rằng câu "thị trường để mỗi người
 - **Trong đầu tư.** Ngành bị kiểm soát giá (điện, nước, thuốc, nhà cho thuê) thường có dấu hiệu Sowell mô tả: tài sản xuống cấp dần, đầu tư mới chậm, thiếu hụt theo mùa. Nhà đầu tư nên phân biệt giá với chi phí: giá bị ép thấp không làm chi phí giảm, nên biên lợi nhuận bị bóp và rủi ro chính sách cao; ngược lại, khi giá được thả dần về sát chi phí, đó thường là thời điểm ngành bắt đầu thu hút vốn trở lại.
 - **Trong nghề nghiệp.** Thói quen hỏi "nguyên nhân hệ thống là gì" thay vì "lỗi của ai" giúp người làm quản lý, phân tích hay chính sách đưa ra giải pháp đúng. Khi một bộ phận làm việc kém, trước khi kết luận họ lười hay kém, hãy xem động cơ và ràng buộc họ gặp, như câu chuyện chiếc máy khai mỏ sai màu sơn.
 - **Khi đọc tin chính sách.** Ở Việt Nam, khi đọc tin về việc giữ giá điện, giá nước, giá xăng dầu, giá dịch vụ y tế ở mức thấp, hay về trần lãi suất cho vay tiêu dùng, hãy hỏi ba câu của Sowell: chi phí thật có giảm không hay chỉ giá giảm; ai sẽ trả phần chênh (ngân sách, doanh nghiệp nhà nước, hay người đến sau không được phục vụ); và khi giá không còn phân chia, việc phân chia sẽ chuyển sang hình thức nào (cắt điện luân phiên, xếp hàng, tín dụng đen). Khi một bài báo giải thích giá tăng bằng "đầu cơ" hay "lòng tham", hãy tìm xem cung, cầu và chi phí đầu vào đã thay đổi thế nào.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 4 trên một trang: sáu nhánh lớn đi theo các mục 1–9 của phần Nội dung chi tiết (nhân quả hệ thống và giá cao ở khu nghèo, nguyên nhân đơn giản và quan chức hợp lý, giá phân chia khan hiếm, thay thế từng phần và thủ tục rườm rà, thuế và trợ cấp, giá khác chi phí và giá là thông tin), mỗi nhánh ghi luận điểm, cơ chế nhân quả, ví dụ và con số then chốt của Sowell; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 4: giá cả phân chia sự khan hiếm và truyền chi phí thật, kết quả kinh tế do nhân quả hệ thống chứ không do ý định`"]
+  n1["`Mục 1–2 — Hệ quả mới quan trọng, và nhân quả trong kinh tế mang tính hệ thống`"]
+  n0 --- n1
+  n2["`Giá cao thì mua ít: y tế nhà nước miễn phí làm mức dùng tăng, chi phí vượt xa dự toán`"]
+  n1 --- n2
+  n3["`Kinh tế học phân tích nhân quả của cách phân bổ nguồn lực khan hiếm, không phải tuyên bố đạo đức`"]
+  n1 --- n3
+  n4["`Như xút gặp axit clohydric thành nước muối, kế hoạch người mua và người bán biến đổi lẫn nhau`"]
+  n1 --- n4
+  n5["`Engels: điều xuất hiện là thứ không ai muốn, chỉ số đóng cửa ở 14.367 điểm không ai định trước`"]
+  n1 --- n5
+  n6["`Đổ giá tăng cho #quot;lòng tham#quot; giống đổ cây đung đưa cho thần linh, giá tăng phản ánh cung cầu`"]
+  n1 --- n6
+  n7["`Khu nghèo trả giá, lãi, phí đổi séc cao hơn, nhưng lợi nhuận không cao hơn và doanh nghiệp rút đi`"]
+  n1 --- n7
+  n8["`Cho 50 người vay mỗi người 100 USD tốn hơn cho một người vay 5.000 USD ở ngân hàng`"]
+  n7 --- n8
+  n9["`Xe bọc thép chở tiền tới tiệm đổi séc khu ổ chuột tốn ngang chở lượng tiền gấp 100 lần`"]
+  n7 --- n9
+  n10["`Áp trần giá, trần lãi suất thì cửa hàng, tiệm cầm đồ rút đi, dân phải vay nặng lãi`"]
+  n7 --- n10
+  n11["`Đổ lỗi cho người thu giá cao dễ hơn đổ lỗi cho số ít người gây ra chi phí cao`"]
+  n1 --- n11
+  n12["`Mục 3–4 — Nguyên nhân đơn giản, và quan chức hành động hợp lý`"]
+  n0 --- n12
+  n13["`Hệ quả phức tạp không cần nguyên nhân phức tạp: trục Trái Đất nghiêng sinh ra mùa, ngủ đông, hải lưu`"]
+  n12 --- n13
+  n14["`Chê #quot;quá đơn giản#quot; thường để né bằng chứng, chỉ dữ kiện cho biết nguyên nhân đơn giản hay phức tạp`"]
+  n12 --- n14
+  n15["`Hai quy luật cung cầu đơn giản đủ dự báo phản ứng trước kiểm soát giá ở mọi châu lục`"]
+  n12 --- n15
+  n16["`Thất bại của nhà nước thường do quan chức hợp lý theo động cơ và giới hạn tri thức, không do ngu dốt`"]
+  n12 --- n16
+  n17["`Máy khai mỏ thời Stalin nằm trong kho vì lệnh đòi sơn đỏ chịu dầu, nhà máy chỉ có sơn xanh`"]
+  n12 --- n17
+  n18["`Giám đốc và cấp trên đều không muốn lĩnh tám năm tù, phải đợi bộ cho phép dùng sơn xanh`"]
+  n17 --- n18
+  n19["`Stigler: doanh nhân thành đạt vào chính phủ phần lớn không nổi bật vì động cơ và ràng buộc khác`"]
+  n12 --- n19
+  n20["`Mục 5–6 — Giá phân chia sự khan hiếm, ta chỉ chọn được cách cạnh tranh`"]
+  n0 --- n20
+  n21["`Cô phục vụ mang đồ ăn tới vì lương và tiền boa, nhà hàng Liên Xô thiếu động cơ nên phục vụ tệ`"]
+  n20 --- n21
+  n22["`Giá không tạo ra khan hiếm mà phân chia nó, đắt không với tới chính là cách giá giới hạn mức dùng`"]
+  n20 --- n22
+  n23["`Ra lệnh cho mọi thứ vừa túi tiền không thêm hàng, giá trần còn làm sản lượng giảm`"]
+  n20 --- n23
+  n24["`Kiểm soát giá lương thực gây đói ở Ý thế kỷ 17, Ấn Độ thế kỷ 18, Pháp, Nga, châu Phi`"]
+  n20 --- n24
+  n25["`Vùng Đất Đen màu mỡ cách Moskva ba giờ lái xe không nuôi nổi thành phố đói, chỉ thiếu thị trường`"]
+  n20 --- n25
+  n26["`Công nhân thu hoạch nhận khoảng 10 USD/tuần, trả bằng khoai tây và dưa chuột`"]
+  n25 --- n26
+  n27["`Quan chức địa phương cấm chở lương thực qua ranh giới để giữ giá thấp và giữ phiếu`"]
+  n25 --- n27
+  n28["`Thị trường để mỗi người tự chọn, hệ thống kia để một nhóm nhỏ chọn thay hàng triệu người`"]
+  n20 --- n28
+  n29["`Nhà thờ: qua giá người Tin Lành tự thu nhỏ kế hoạch, nhà nước phát nhà thờ thì hai đạo thành đối thủ`"]
+  n20 --- n29
+  n30["`Tự giới hạn mức dùng qua giá giảm va chạm xã hội và hiệu quả hơn vì mỗi người hiểu sở thích mình`"]
+  n20 --- n30
+  n31["`Không có giá thì phân chia bằng chờ đợi, may rủi, quen biết, hối lộ, định mức`"]
+  n20 --- n31
+  n32["`Mục 7 — Thay thế từng phần thay cho ưu tiên tuyệt đối`"]
+  n0 --- n32
+  n33["`Sức khoẻ quan trọng hơn giải trí, nhưng không ai bỏ hết âm nhạc để trữ băng dán đủ dùng 20 năm`"]
+  n32 --- n33
+  n34["`Thị trường cho phép đánh đổi từng phần, chính trị nghiêng về #quot;ưu tiên quốc gia#quot; tuyệt đối`"]
+  n32 --- n34
+  n35["`Kim cương đắt hơn đồng xu một cent, nhưng đủ nhiều đồng xu đắt hơn mọi viên kim cương`"]
+  n32 --- n35
+  n36["`Rượu: từ 1 lên 6 ly/tuần giảm bệnh tim, đã từ 7 ly/tuần mà uống thêm thì bệnh tim tăng`"]
+  n32 --- n36
+  n37["`Thủ tục rườm rà phình ra vì không ai hỏi mỗi yêu cầu tăng thêm tốn chi phí bao nhiêu`"]
+  n32 --- n37
+  n38["`Ý: từ nhân viên thứ 16 sa thải gần như không thể, từ thứ 51 phải có 7% quỹ lương cho người khuyết tật`"]
+  n32 --- n38
+  n39["`Lúc bài báo về luật lao động Ý được đăng, thất nghiệp 10% và kinh tế Ý đang co lại`"]
+  n32 --- n39
+  n40["`Mục 8 — Thuế và trợ cấp riêng làm giá báo sai mức khan hiếm`"]
+  n0 --- n40
+  n41["`Trợ cấp thứ #quot;tốt#quot;, đánh thuế thứ #quot;xấu#quot; làm giá không còn phản ánh chi phí thật`"]
+  n40 --- n41
+  n42["`California: nông dân Thung lũng Imperial trả 15 USD cho lượng nước Los Angeles trả 400 USD`"]
+  n40 --- n42
+  n43["`Nông nghiệp tạo dưới 2% sản lượng bang nhưng dùng 43% nước, trồng lúa và bông ở vùng khô`"]
+  n42 --- n43
+  n44["`Ấn Độ cấp điện nước gần như miễn phí, nông dân trồng quá nhiều lúa, nước ngầm Punjab hạ nhanh`"]
+  n40 --- n44
+  n45["`Làm thứ gì rẻ một cách giả tạo thì thứ đó thường bị lãng phí`"]
+  n40 --- n45
+  n46["`Không đánh thuế hoặc đánh thuế mọi thứ như nhau, trợ cấp cho người gặp bất hạnh chứ không cho hàng hoá`"]
+  n40 --- n46
+  n47["`Chính trị gia được phiếu khi làm nghiêng sân chơi, như thuế vé máy bay dành cho sân bay nhỏ`"]
+  n40 --- n47
+  n48["`Mục 9 — Giá khác chi phí, và giá là thông tin`"]
+  n0 --- n48
+  n49["`Với cả xã hội, chi phí là những thứ khác có thể làm ra từ cùng nguồn lực`"]
+  n48 --- n49
+  n50["`Hứa #quot;giảm chi phí y tế#quot; thực ra là ép giá, chi phí đào tạo bác sĩ và nghiên cứu thuốc vẫn nguyên`"]
+  n48 --- n50
+  n51["`Giá trần nghĩa là từ chối trả đủ chi phí, nên số lượng và chất lượng cung ứng giảm`"]
+  n48 --- n51
+  n52["`Hậu quả đến chậm: nhà thuê xuống cấp dần, thuốc mới cho ung thư, AIDS, Alzheimer chậm ra đời`"]
+  n48 --- n52
+  n53["`Thợ ảnh chỉ thấy ống kính khẩu độ rộng đắt hơn, không cần biết quang học để chọn`"]
+  n48 --- n53
+  n54["`Giá tiết kiệm tri thức, còn uỷ ban kế hoạch phải biết thuỷ tinh cho kính hiển vi, cửa sổ, gương`"]
+  n48 --- n54
+  n55["`Cuối thế kỷ 20 phần lớn nước xã hội chủ nghĩa quay lại dùng giá, Hồng Kông tự do nhất năm 2012`"]
+  n48 --- n55
+  n56["`Thông điệp xuyên suốt`"]
+  n0 --- n56
+  n57["`Xét hệ quả về sau và động cơ chính sách tạo ra, không chỉ mục tiêu nó tuyên bố`"]
+  n56 --- n57
+  n58["`Trước khi đổ lỗi cho ý định của ai, hãy tìm nguyên nhân hệ thống`"]
+  n56 --- n58
+  n59["`Bỏ giá không xoá được khan hiếm, chỉ đổi cách phân chia, và xã hội vẫn trả đủ chi phí`"]
+  n56 --- n59
+  class n0 root
+  class n1,n12,n20,n32,n40,n48,n56 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n54,n55,n57,n58,n59 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần I "Prices and Markets", Chương 4.
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 định nghĩa kinh tế học là môn nghiên cứu cách dùng nguồn lực khan hiếm có nhiều cách dùng thay thế nhau. Chương 2 giải thích giá cả điều phối nền kinh tế ra sao, và Chương 3 cho thấy điều gì xảy ra khi nhà nước kiểm soát giá (kiểm soát tiền thuê nhà, giá trần, giá sàn).
+
+Chương 4 khép lại Phần I bằng cách lùi ra xa và rút ra các nguyên lý chung từ hai chương trước: nền kinh tế vận hành theo quan hệ nhân quả mang tính hệ thống chứ không theo ý định của ai; giá cả là một cách phân chia sự khan hiếm, và bỏ giá đi thì sự khan hiếm vẫn còn; chi phí là thứ có thật, còn giá chỉ là cách chi phí được truyền đi.
+
+Từ Chương 5 (The Rise and Fall of Businesses), Phần II chuyển sang doanh nghiệp, lợi nhuận và thua lỗ, tức những chủ thể phản ứng với tín hiệu giá mà Phần I vừa mô tả.
+
+## Lưu ý
+
+- Sách viết khoảng 2013–2014, nên số liệu thuộc thời điểm đó: chỉ số chứng khoán đóng cửa ở mức 14.367 điểm (Sowell dùng làm ví dụ, gần mức chỉ số Dow Jones năm 2013), khoảng 10% gia đình Mỹ không có tài khoản séc, tỷ lệ thất nghiệp ở Ý 10%, nghiên cứu năm 2012 xếp Hồng Kông là thị trường tự do nhất thế giới.
+- Một số điều đã thay đổi từ đó (nói định tính): chỉ số Dow Jones đã cao hơn mức đó nhiều lần; Ý đã sửa luật lao động năm 2015 (Jobs Act), giảm bớt ràng buộc sa thải với người lao động mới tuyển, nên ngưỡng "nhân viên thứ 16" Sowell mô tả không còn tác động như trước; sau những thay đổi chính trị ở Hồng Kông từ năm 2020, một số bảng xếp hạng tự do kinh tế đã ngừng đánh giá Hồng Kông tách khỏi Trung Quốc.
+- Câu cuối chương nói Hồng Kông nằm "trong một nước có chính phủ cộng sản" (in a country with a communist government): Hồng Kông là đặc khu hành chính của Trung Quốc từ năm 1997, và nước chủ quản Trung Quốc có chính phủ cộng sản.
+- Chương có 5 chú thích chân trang của Sowell (đánh dấu viii đến xii trong sách), đã đưa vào đúng chỗ trong Sơ đồ và Nội dung chi tiết, ghi rõ "chú thích của Sowell".
+- Các câu trích là bản dịch của người tổng hợp.

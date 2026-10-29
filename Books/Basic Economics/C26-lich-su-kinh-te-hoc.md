@@ -1,11 +1,19 @@
 # Chương 26 — Lịch sử kinh tế học (The History of Economics)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần VII "Special Economic Issues" (Các vấn đề kinh tế đặc biệt), Chương 26.
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford. Sowell cũng là một nhà nghiên cứu lịch sử tư tưởng kinh tế; ông nhiều lần dẫn cuốn *On Classical Economics* (Về kinh tế học cổ điển, 2006) của chính mình trong các chú thích của chương này.
-**Vị trí trong lập luận của cả cuốn sách:** Hai mươi lăm chương trước dùng kinh tế học để phân tích giá cả, doanh nghiệp, lao động, đầu tư, nền kinh tế quốc gia và quốc tế, rồi ở Phần VII gỡ các huyền thoại về thị trường (Chương 24) và bàn về các giá trị "phi kinh tế" (Chương 25). Chương 26 lùi lại một bước và hỏi: những công cụ mà người đọc đã dùng suốt cuốn sách (cung và cầu, độ thoả dụng cận biên, cân bằng, lợi thế so sánh, tổng cầu) từ đâu ra, ai nghĩ ra, và mất bao lâu mới thành hình? Chương này cũng trả lời hai câu hỏi người đọc hay đặt ra: kinh tế học có phải là khoa học hay chỉ là ý kiến và thiên kiến, và tư tưởng kinh tế ảnh hưởng tới sự kiện hay bị sự kiện định hình. Nhiều ý trong chương nối lại các chương trước: chuyện cán cân thương mại "thuận lợi" (Chương 21), định luật Say và Đại suy thoái (Chương 16, 17), kiểm soát giá (Chương 3), trần lãi suất (Chương 13), câu hỏi thế nào là "giản đơn quá mức" (Chương 4). Chương 27 (Parting Thoughts, Lời kết) khép lại cuốn sách.
-**Ý chính:** Sowell muốn người đọc hiểu rằng **kinh tế học hiện đại là kết quả của nhiều thế hệ mò mẫm, chủ yếu là mò mẫm để định nghĩa thuật ngữ cho chính xác**, và rằng kinh tế học là khoa học theo nghĩa nó có những thủ tục chung để kiểm định lý thuyết bằng dữ liệu, dù không làm được thí nghiệm có kiểm soát. Ví dụ trung tâm là nghịch lý nước và kim cương: Adam Smith cho rằng nước hữu ích hơn kim cương mà lại rẻ hơn, nên giá không thể do độ hữu ích quyết định; gần một trăm năm sau, Carl Menger và W. Stanley Jevons giải được nghịch lý khi phân biệt tổng độ thoả dụng với độ thoả dụng của thêm một đơn vị (độ thoả dụng cận biên), và Alfred Marshall kết hợp cả hai phía thành hình ảnh "hai lưỡi kéo" của cung và cầu. Các ví dụ khác: phái trọng thương coi vàng là của cải, và hiểu "quốc gia" là sức mạnh của nhà cai trị chứ không phải toàn bộ dân cư; Ricardo và Malthus tranh luận nhiều năm mà không hiểu chữ "cầu" theo cùng một nghĩa; đường Phillips được cả phái Keynes lẫn phái Chicago cùng gạt bỏ khi lạm phát và thất nghiệp cùng tăng trong thập niên 1970; và câu của Keynes rằng những người thực tế thường là "nô lệ của một nhà kinh tế nào đó đã khuất".
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2013–2014, nhưng chương này gần như không có số liệu thời sự; các mốc thời gian là lịch sử (từ Xenophon tới giải Nobel của Milton Friedman năm 1976 và các giải Nobel thập niên 1990). Từ 2014 một số điều Sowell nói đã thay đổi hoặc cần bổ sung, chỉ nêu định tính: kinh tế học ngày nay làm được thí nghiệm có kiểm soát ở một mức độ (thí nghiệm ngẫu nhiên ngoài thực địa, thí nghiệm trong phòng thí nghiệm) và dùng rộng rãi "thí nghiệm tự nhiên", một hướng đã được trao giải Nobel năm 2019 và 2021; chính sách kiểu Keynes (kích thích tài khoá lớn) quay lại mạnh sau khủng hoảng 2008 và trong đại dịch 2020; tranh luận về đường Phillips vẫn tiếp tục. Chương có **13 chú thích chân trang** của Sowell (đánh số La Mã xxxvii đến xlix trong sách), tất cả được đưa vào phần Nội dung chi tiết, ghi rõ "Chú thích của Sowell", tại: mục 3 (xxxvii, về tiền), mục 4 (xxxviii, về Ricardo; xxxix, về chữ "cầu"), mục 5 (xl, về tranh cãi quanh định luật Say), mục 7 (xli, về Marx; xlii, về sách của Marshall), mục 8 (xliii, về trần lãi suất), mục 9 (xliv, câu của Keynes năm 1930), mục 11 (xlv, về hệ tư tưởng; xlvi, về chữ "lương"), mục 12 (xlvii, về giá rượu vang), mục 13 (xlviii, Marx về nhà tư bản) và mục 14 (xlix, cuốn sách 900 trang); các chú thích có ý quan trọng cũng được ghi vắn tắt trong khối sơ đồ tương ứng. Hai chỗ người tổng hợp nghi ngờ: Sowell gọi Malthus (được bổ nhiệm năm 1805) là nhà kinh tế học giảng dạy đại học đầu tiên "có lẽ trên thế giới", nhưng Antonio Genovesi đã giữ một ghế giảng dạy về thương mại và kinh tế ở Naples từ năm 1754, và các trường đại học Đức có ghế giảng dạy "khoa học quản trị nhà nước" (cameralism) từ thập niên 1720; cụm *laissez faire* thường được gắn với Vincent de Gournay, người gần gũi chứ không hẳn thuộc phái Trọng nông. Các câu trích là bản dịch của người tổng hợp.
+Sowell muốn người đọc hiểu rằng **kinh tế học hiện đại là kết quả của nhiều thế hệ mò mẫm, chủ yếu là mò mẫm để định nghĩa thuật ngữ cho chính xác**, và rằng kinh tế học là khoa học theo nghĩa nó có những thủ tục chung để kiểm định lý thuyết bằng dữ liệu, dù không làm được thí nghiệm có kiểm soát.
+
+Ví dụ trung tâm là nghịch lý nước và kim cương: Adam Smith cho rằng nước hữu ích hơn kim cương mà lại rẻ hơn, nên giá không thể do độ hữu ích quyết định.
+
+Gần một trăm năm sau, Carl Menger và W. Stanley Jevons giải được nghịch lý khi phân biệt tổng độ thoả dụng với độ thoả dụng của thêm một đơn vị (độ thoả dụng cận biên), và Alfred Marshall kết hợp cả hai phía thành hình ảnh "hai lưỡi kéo" của cung và cầu.
+
+Các ví dụ khác:
+
+- phái trọng thương coi vàng là của cải, và hiểu "quốc gia" là sức mạnh của nhà cai trị chứ không phải toàn bộ dân cư
+- Ricardo và Malthus tranh luận nhiều năm mà không hiểu chữ "cầu" theo cùng một nghĩa
+- đường Phillips được cả phái Keynes lẫn phái Chicago cùng gạt bỏ khi lạm phát và thất nghiệp cùng tăng trong thập niên 1970
+- câu của Keynes rằng những người thực tế thường là "nô lệ của một nhà kinh tế nào đó đã khuất"
 
 ## Sơ đồ
 
@@ -897,7 +905,9 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Kinh tế học hiện đại đã hình thành như thế nào?** Qua nhiều thế hệ mò mẫm, chủ yếu là mò mẫm để định nghĩa cho rõ thuật ngữ. Phái trọng thương (thế kỷ 16–18) coi vàng là của cải và muốn xuất siêu để tăng sức mạnh nhà nước. Adam Smith (1776) định nghĩa lại của cải là hàng hoá và dịch vụ quyết định mức sống của toàn dân. Ricardo (1817) tách phân tích nguyên lý khỏi bình luận. Phân tích cung và cầu mất ít nhất một thế kỷ mới thành hình, vì Ricardo và Malthus chưa hiểu chữ "cầu" theo cùng một nghĩa. Menger và Jevons (1871) đưa ra độ thoả dụng cận biên, Marshall (1890) ghép cung và cầu thành "hai lưỡi kéo", Walras lập lý thuyết cân bằng tổng thể, Keynes (1936) đưa vào câu hỏi về nguồn lực bị bỏ không, và trường phái Chicago cùng các sự kiện thập niên 1970 làm lung lay chính thống Keynes.
+1. **Kinh tế học hiện đại đã hình thành như thế nào?** Qua nhiều thế hệ mò mẫm, chủ yếu là mò mẫm để định nghĩa cho rõ thuật ngữ. Phái trọng thương (thế kỷ 16–18) coi vàng là của cải và muốn xuất siêu để tăng sức mạnh nhà nước. Adam Smith (1776) định nghĩa lại của cải là hàng hoá và dịch vụ quyết định mức sống của toàn dân. Ricardo (1817) tách phân tích nguyên lý khỏi bình luận. Phân tích cung và cầu mất ít nhất một thế kỷ mới thành hình, vì Ricardo và Malthus chưa hiểu chữ "cầu" theo cùng một nghĩa.
+
+   Menger và Jevons (1871) đưa ra độ thoả dụng cận biên, Marshall (1890) ghép cung và cầu thành "hai lưỡi kéo", Walras lập lý thuyết cân bằng tổng thể, Keynes (1936) đưa vào câu hỏi về nguồn lực bị bỏ không, và trường phái Chicago cùng các sự kiện thập niên 1970 làm lung lay chính thống Keynes.
 2. **Kinh tế học có phải là khoa học không?** Có, theo nghĩa nó có những thủ tục chung để kiểm định lý thuyết bằng dữ liệu, bắt đầu từ định nghĩa chặt chẽ, nên thiên kiến của từng người bị lộ ra theo thời gian. Ví dụ: phái Keynes và phái Chicago cùng gạt bỏ đường Phillips khi dữ liệu thập niên 1970 cho thấy lạm phát và thất nghiệp cùng tăng. Kinh tế học không làm được thí nghiệm có kiểm soát, nên giống khí tượng học: nguyên lý chắc chắn (chưa chính phủ nào tăng cung tiền gấp 10 lần trong một năm mà giá không tăng), nhưng dự báo sự kiện cụ thể thì khó vì quá nhiều yếu tố kết hợp.
 3. **Tư tưởng kinh tế và sự kiện ảnh hưởng nhau ra sao?** Theo Keynes, tư tưởng ảnh hưởng tới sự kiện qua đường dài, bằng cách tạo ra niềm tin chung mà chính trị gia và giới tạo dư luận dựa vào; vì thế tư tưởng trọng thương vẫn sống trong cụm từ "cán cân thương mại thuận lợi" dù đã bị bác bỏ từ 1776. Chiều ngược lại yếu hơn người ta tưởng: Smith đòi thị trường tự do khi thị trường đang bị can thiệp tràn lan, cuộc cách mạng cận biên không do chi phí hay cầu thay đổi, nhiều cuộc suy thoái trước 1930 không sinh ra Keynes nào, và như Stigler nói, một cuộc chiến có thể tàn phá cả lục địa mà không đặt ra câu hỏi lý thuyết mới.
 
@@ -927,9 +937,13 @@
 
 Sowell mở chương bằng câu của Keynes rằng sức mạnh của các nhóm lợi ích đã có chỗ đứng bị thổi phồng rất nhiều so với sự xâm nhập dần dần của các ý tưởng; câu này sẽ được dẫn đầy đủ ở cuối chương.
 
-Người ta bàn và viết về kinh tế đã hàng nghìn năm, nên không thể chỉ ra năm môn kinh tế học ra đời. Kinh tế học hiện đại thường được tính từ năm 1776, khi Adam Smith viết *Của cải của các quốc gia* (The Wealth of Nations). Nhưng ít nhất một thế kỷ trước đó đã có những cuốn sách đáng kể về kinh tế, và cùng thời với Smith có phái Trọng nông (Physiocrats) ở Pháp, một số thành viên đã gặp Smith khi ông du lịch ở Pháp nhiều năm trước khi viết sách. Điều làm *Của cải của các quốc gia* khác biệt là nó trở thành nền móng cho cả một trường phái, những người tiếp tục phát triển ý tưởng của nó trong hai thế hệ sau, trong đó có David Ricardo (1772–1823) và John Stuart Mill (1806–1873), và ảnh hưởng của Smith ở một mức độ nào đó còn kéo dài tới ngày nay. Không nhà kinh tế nào trước ông có được điều đó, dù đã có nhiều người viết về kinh tế một cách am hiểu và sâu sắc.
+Người ta bàn và viết về kinh tế đã hàng nghìn năm, nên không thể chỉ ra năm môn kinh tế học ra đời. Kinh tế học hiện đại thường được tính từ năm 1776, khi Adam Smith viết *Của cải của các quốc gia* (The Wealth of Nations). Nhưng ít nhất một thế kỷ trước đó đã có những cuốn sách đáng kể về kinh tế, và cùng thời với Smith có phái Trọng nông (Physiocrats) ở Pháp, một số thành viên đã gặp Smith khi ông du lịch ở Pháp nhiều năm trước khi viết sách.
 
-Hơn hai nghìn năm trước, Xenophon, học trò của Socrates, đã phân tích chính sách kinh tế ở Athens cổ đại. Thời Trung cổ, quan niệm tôn giáo về giá "công bằng" (just price) và lệnh cấm cho vay lấy lãi (usury) khiến Thomas Aquinas phân tích hệ quả kinh tế của các giáo lý này và những ngoại lệ có thể chấp nhận về mặt đạo đức. Chẳng hạn, Aquinas cho rằng bán một món hàng đắt hơn giá đã mua là "hợp pháp" khi người bán đã cải thiện món hàng theo cách nào đó, khi đó là khoản bù cho rủi ro, hoặc khi người bán đã tốn chi phí vận chuyển. Sowell diễn đạt lại: nhiều thứ trông như lợi dụng người khác thực ra là khoản bù cho các chi phí và rủi ro phát sinh trong quá trình đưa hàng tới người tiêu dùng, hay cho vay tiền những người cần vay.
+Điều làm *Của cải của các quốc gia* khác biệt là nó trở thành nền móng cho cả một trường phái, những người tiếp tục phát triển ý tưởng của nó trong hai thế hệ sau, trong đó có David Ricardo (1772–1823) và John Stuart Mill (1806–1873), và ảnh hưởng của Smith ở một mức độ nào đó còn kéo dài tới ngày nay. Không nhà kinh tế nào trước ông có được điều đó, dù đã có nhiều người viết về kinh tế một cách am hiểu và sâu sắc.
+
+Hơn hai nghìn năm trước, Xenophon, học trò của Socrates, đã phân tích chính sách kinh tế ở Athens cổ đại. Thời Trung cổ, quan niệm tôn giáo về giá "công bằng" (just price) và lệnh cấm cho vay lấy lãi (usury) khiến Thomas Aquinas phân tích hệ quả kinh tế của các giáo lý này và những ngoại lệ có thể chấp nhận về mặt đạo đức.
+
+Chẳng hạn, Aquinas cho rằng bán một món hàng đắt hơn giá đã mua là "hợp pháp" khi người bán đã cải thiện món hàng theo cách nào đó, khi đó là khoản bù cho rủi ro, hoặc khi người bán đã tốn chi phí vận chuyển. Sowell diễn đạt lại: nhiều thứ trông như lợi dụng người khác thực ra là khoản bù cho các chi phí và rủi ro phát sinh trong quá trình đưa hàng tới người tiêu dùng, hay cho vay tiền những người cần vay.
 
 Các nhà kinh tế đã vượt xa quan niệm "giá công bằng" thời Trung cổ, nhưng quan niệm ấy vẫn ẩn trong suy nghĩ của nhiều người hôm nay: khi họ nói một món hàng được bán cao hơn hay thấp hơn giá trị "thực", một người được trả nhiều hơn hay ít hơn mức họ "thực sự" đáng được hưởng, hay khi họ dùng khái niệm "đẩy giá cắt cổ" (price gouging), một khái niệm gây xúc động mạnh nhưng không có định nghĩa kiểm chứng được bằng thực nghiệm.
 
@@ -962,37 +976,55 @@ Chưa đầy mười năm sau bộ chuyên luận của Steuart, *Của cải c�
 
 Vì Smith coi quốc gia là toàn dân, ông cho rằng không thể làm giàu cho quốc gia bằng cách kìm lương để xuất khẩu. Smith nhiều lần lên án gay gắt các đạo luật vì lợi ích riêng giúp "thương nhân và chủ xưởng", những người mà ông mô tả là có hoạt động chính trị nhằm lừa dối và áp bức công chúng. Trong bối cảnh thời đó, laissez faire là học thuyết chống việc nhà nước ban đặc ân cho giới kinh doanh.
 
-Khác biệt căn bản nhất là Smith không coi vàng là của cải. Chính tên sách đã đặt ra câu hỏi của cải gồm những gì, và Smith trả lời đó là hàng hoá và dịch vụ quyết định mức sống của dân chúng, toàn bộ dân chúng, những người mà với Smith tạo thành quốc gia. Smith bác bỏ chủ nghĩa đế quốc và chế độ nô lệ trên cả cơ sở kinh tế lẫn đạo đức: theo ông, "các hạm đội và quân đội lớn" cần cho đế quốc "không thu được gì có thể bù đắp chi phí nuôi chúng", và *Của cải của các quốc gia* khép lại bằng lời khuyên nước Anh từ bỏ giấc mơ đế quốc. Về chế độ nô lệ, Smith coi nó vừa kém hiệu quả về kinh tế vừa đáng ghê tởm về đạo đức, và khinh bỉ gạt đi ý cho rằng người châu Phi bị bắt làm nô lệ thấp kém hơn người gốc châu Âu.
+Khác biệt căn bản nhất là Smith không coi vàng là của cải. Chính tên sách đã đặt ra câu hỏi của cải gồm những gì, và Smith trả lời đó là hàng hoá và dịch vụ quyết định mức sống của dân chúng, toàn bộ dân chúng, những người mà với Smith tạo thành quốc gia.
 
-Ngày nay Smith thường bị coi là một nhân vật "bảo thủ", nhưng thực ra ông tấn công nhiều tư tưởng và lợi ích thống trị thời mình. Hơn nữa, ý tưởng về một hệ thống tự cân bằng một cách tự phát (nền kinh tế thị trường), do phái Trọng nông khởi xướng và được Smith đưa vào truyền thống kinh tế học cổ điển, là một bước đi hoàn toàn mới, không chỉ trong cách phân tích nhân quả xã hội mà còn vì nó dành vai trò nhỏ hơn cho giới tinh hoa chính trị, trí thức hay các giới tinh hoa khác trong việc dẫn dắt hay điều khiển quần chúng. Nhiều thế kỷ, các nhà tư tưởng lớn từ Plato trở đi đã bàn xem nhà lãnh đạo khôn ngoan nên áp đặt chính sách gì vì lợi ích xã hội. Nhưng trong kinh tế, Smith cho rằng chính phủ đang dành "một sự chú ý hết sức không cần thiết" cho những việc sẽ diễn ra tốt hơn nếu để các cá nhân tự tương tác và tự thoả thuận với nhau.
+Smith bác bỏ chủ nghĩa đế quốc và chế độ nô lệ trên cả cơ sở kinh tế lẫn đạo đức: theo ông, "các hạm đội và quân đội lớn" cần cho đế quốc "không thu được gì có thể bù đắp chi phí nuôi chúng", và *Của cải của các quốc gia* khép lại bằng lời khuyên nước Anh từ bỏ giấc mơ đế quốc. Về chế độ nô lệ, Smith coi nó vừa kém hiệu quả về kinh tế vừa đáng ghê tởm về đạo đức, và khinh bỉ gạt đi ý cho rằng người châu Phi bị bắt làm nô lệ thấp kém hơn người gốc châu Âu.
+
+Ngày nay Smith thường bị coi là một nhân vật "bảo thủ", nhưng thực ra ông tấn công nhiều tư tưởng và lợi ích thống trị thời mình. Hơn nữa, ý tưởng về một hệ thống tự cân bằng một cách tự phát (nền kinh tế thị trường), do phái Trọng nông khởi xướng và được Smith đưa vào truyền thống kinh tế học cổ điển, là một bước đi hoàn toàn mới, không chỉ trong cách phân tích nhân quả xã hội mà còn vì nó dành vai trò nhỏ hơn cho giới tinh hoa chính trị, trí thức hay các giới tinh hoa khác trong việc dẫn dắt hay điều khiển quần chúng.
+
+Nhiều thế kỷ, các nhà tư tưởng lớn từ Plato trở đi đã bàn xem nhà lãnh đạo khôn ngoan nên áp đặt chính sách gì vì lợi ích xã hội. Nhưng trong kinh tế, Smith cho rằng chính phủ đang dành "một sự chú ý hết sức không cần thiết" cho những việc sẽ diễn ra tốt hơn nếu để các cá nhân tự tương tác và tự thoả thuận với nhau.
 
 *Của cải của các quốc gia* không phải chuyên luận kinh tế có hệ thống đầu tiên, nhưng nó trở thành nền móng của truyền thống kinh tế học cổ điển (classical economics), được xây tiếp trong thế kỷ sau. Không phải mọi chuyên luận trước đó đều theo phái trọng thương: sách của Richard Cantillon (thập niên 1730) và Ferdinando Galiani (1751) có phân tích kinh tế tinh tế, còn *Biểu kinh tế* (Tableau Économique, 1758) của François Quesnay chứa những nhận thức gợi cảm hứng cho phái Trọng nông, một trường phái ngắn ngủi nhưng quan trọng. Nhưng những người tiên phong đó không để lại một trường phái lâu dài gồm các nhà kinh tế hàng đầu ở các thế hệ sau như Smith đã làm.
 
 Lịch sử cũng có những nhà kinh tế làm việc đi trước thời đại nhưng ít được chú ý, có ít người theo, và chìm vào quên lãng cho tới khi thế hệ học giả sau phát hiện lại họ. Nhà toán học Pháp Augustin Cournot đã phân tích các nguyên lý kinh tế bằng toán học năm 1838, nhưng những phân tích đó chỉ trở thành công cụ của giới kinh tế gần một thế kỷ sau, khi các nhà kinh tế thời đó tự phát triển lại chúng một cách độc lập.
 
-Một hệ quả của việc Smith xây dựng lý thuyết để chống phái trọng thương là kinh tế học cổ điển, kéo dài gần một thế kỷ, có xu hướng hạ thấp vai trò của tiền. Điều này dễ hiểu, vì phái trọng thương đã quá đề cao vàng, thứ vốn là tiền trong nhiều nền kinh tế. Nhưng khi các nhà kinh tế cổ điển nói tiền chỉ là một "tấm màn" (veil), che phủ nhưng không thay đổi về bản chất các hoạt động kinh tế thực, người đọc thường hiểu sai. Các nhà kinh tế cổ điển hàng đầu hiểu rằng cung tiền co lại có thể làm giảm sản xuất và tăng thất nghiệp tương ứng trong một thời gian. (Chú thích của Sowell: điểm này được ông trình bày kỹ hơn trong cuốn *On Classical Economics* của mình, các trang 34–42.) Nhưng điều đó không phải lúc nào cũng rõ với người đọc, và chính các nhà kinh tế cổ điển cũng ít khi tập trung chú ý vào hướng đó.
+Một hệ quả của việc Smith xây dựng lý thuyết để chống phái trọng thương là kinh tế học cổ điển, kéo dài gần một thế kỷ, có xu hướng hạ thấp vai trò của tiền. Điều này dễ hiểu, vì phái trọng thương đã quá đề cao vàng, thứ vốn là tiền trong nhiều nền kinh tế.
+
+Nhưng khi các nhà kinh tế cổ điển nói tiền chỉ là một "tấm màn" (veil), che phủ nhưng không thay đổi về bản chất các hoạt động kinh tế thực, người đọc thường hiểu sai. Các nhà kinh tế cổ điển hàng đầu hiểu rằng cung tiền co lại có thể làm giảm sản xuất và tăng thất nghiệp tương ứng trong một thời gian. (Chú thích của Sowell: điểm này được ông trình bày kỹ hơn trong cuốn *On Classical Economics* của mình, các trang 34–42.) Nhưng điều đó không phải lúc nào cũng rõ với người đọc, và chính các nhà kinh tế cổ điển cũng ít khi tập trung chú ý vào hướng đó.
 
 ### 4. David Ricardo
 
-Trong số những người kế tục Smith có David Ricardo, nhà kinh tế hàng đầu đầu thế kỷ 19, người đã xây dựng, cùng nhiều đóng góp khác, lý thuyết lợi thế so sánh (comparative advantage) trong thương mại quốc tế. Ngoài các đóng góp về nội dung, Ricardo tạo ra một cách tiếp cận và văn phong mới khi viết về kinh tế. *Của cải của các quốc gia* đầy bình luận xã hội và nhận xét triết học, và kết thúc bằng một gợi ý mạnh rằng nước Anh không nên cố giữ các thuộc địa ở Mỹ đang nổi dậy đúng năm sách ra đời. Ngược lại, *Các nguyên lý kinh tế chính trị* (Principles of Political Economy, 1817) của Ricardo là tác phẩm kinh điển lớn đầu tiên dành cho việc phân tích các nguyên lý kinh tế lâu dài, tách khỏi bình luận xã hội, chính trị và triết học, và nhấn mạnh nguyên lý hơn các vấn đề chính sách trước mắt.
+Trong số những người kế tục Smith có David Ricardo, nhà kinh tế hàng đầu đầu thế kỷ 19, người đã xây dựng, cùng nhiều đóng góp khác, lý thuyết lợi thế so sánh (comparative advantage) trong thương mại quốc tế.
+
+Ngoài các đóng góp về nội dung, Ricardo tạo ra một cách tiếp cận và văn phong mới khi viết về kinh tế. *Của cải của các quốc gia* đầy bình luận xã hội và nhận xét triết học, và kết thúc bằng một gợi ý mạnh rằng nước Anh không nên cố giữ các thuộc địa ở Mỹ đang nổi dậy đúng năm sách ra đời. Ngược lại, *Các nguyên lý kinh tế chính trị* (Principles of Political Economy, 1817) của Ricardo là tác phẩm kinh điển lớn đầu tiên dành cho việc phân tích các nguyên lý kinh tế lâu dài, tách khỏi bình luận xã hội, chính trị và triết học, và nhấn mạnh nguyên lý hơn các vấn đề chính sách trước mắt.
 
 Không phải Ricardo không quan tâm tới các vấn đề xã hội và đạo đức. Một phần phân tích của ông được gợi ra từ những khó khăn kinh tế cụ thể của nước Anh sau các cuộc chiến tranh Napoleon, nhưng các nguyên lý ông rút ra không bị giới hạn trong các vấn đề hay thời kỳ đó, cũng như định luật hấp dẫn của Newton không chỉ áp dụng cho quả táo rơi. Các vấn đề chính sách đương thời đơn giản không phải là chủ đề của cuốn *Các nguyên lý*. Điều Ricardo đem lại cho kinh tế học là một hệ thống phân tích tập trung hơn, với thuật ngữ được định nghĩa sắc nét hơn và lập luận chặt chẽ hơn.
 
-Ricardo cũng không phải một cỗ máy lập luận. Trong hành động và thư từ riêng, ông là người có chuẩn mực đạo đức và mối quan tâm xã hội rất cao. Khi trở thành nghị sĩ, Ricardo viết cho một người bạn rằng ông mong mình không bao giờ coi nụ cười của những kẻ quyền thế là đủ lý do để rời con đường trung thực và niềm tin của chính mình. Trong Quốc hội, ông sống đúng với lý tưởng đó: nhiều lần bỏ phiếu chống lại lợi ích của giới địa chủ giàu có, dù bản thân là một địa chủ, và bỏ phiếu cho các cải cách bầu cử có thể làm ông mất ghế. (Chú thích của Sowell, dẫn *Lịch sử phân tích kinh tế* của J.A. Schumpeter: dù hành động của Ricardo là tấm gương đạo đức đến đâu, ông vẫn "đứng trên những lời lẽ đạo đức giả chẳng tốn bao nhiêu mà lời rất to".)
+Ricardo cũng không phải một cỗ máy lập luận. Trong hành động và thư từ riêng, ông là người có chuẩn mực đạo đức và mối quan tâm xã hội rất cao. Khi trở thành nghị sĩ, Ricardo viết cho một người bạn rằng ông mong mình không bao giờ coi nụ cười của những kẻ quyền thế là đủ lý do để rời con đường trung thực và niềm tin của chính mình.
+
+Trong Quốc hội, ông sống đúng với lý tưởng đó: nhiều lần bỏ phiếu chống lại lợi ích của giới địa chủ giàu có, dù bản thân là một địa chủ, và bỏ phiếu cho các cải cách bầu cử có thể làm ông mất ghế. (Chú thích của Sowell, dẫn *Lịch sử phân tích kinh tế* của J.A. Schumpeter: dù hành động của Ricardo là tấm gương đạo đức đến đâu, ông vẫn "đứng trên những lời lẽ đạo đức giả chẳng tốn bao nhiêu mà lời rất to".)
 
 Thứ mà hôm nay gọi là "kinh tế học" (economics) từng được gọi là "kinh tế chính trị" (political economy) tới gần hết thế kỷ 19. Với các nhà kinh tế cổ điển, "kinh tế chính trị" là kinh tế của cả quốc gia (the polity), phân biệt với kinh tế của hộ gia đình, thứ ngày nay có thể gọi là "kinh tế gia đình". Thuật ngữ này không có nghĩa là trộn lẫn kinh tế với chính trị như một số người dùng gần đây.
 
-Sowell nhấn mạnh rằng các nguyên lý kinh tế không xuất hiện sẵn sàng trong một tia chớp thiên tài. Những nhà tư tưởng sâu sắc và tận tâm qua nhiều thế hệ đã mò mẫm để hiểu cả thế giới thực của hoạt động kinh tế lẫn các khái niệm cần thiết để nghiên cứu nó có hệ thống. Phân tích cung và cầu mà sinh viên năm đầu học trong một tuần đã mất ít nhất một thế kỷ mới thành hình từ các cuộc tranh luận giữa những nhà tư tưởng đầu thế kỷ 19 như David Ricardo, Thomas Malthus và Jean-Baptiste Say. Trong một trong rất nhiều lá thư trao đổi với người bạn Malthus qua nhiều năm, năm 1814 Ricardo viết: "Đôi khi tôi ngờ rằng chúng ta không hiểu chữ 'cầu' theo cùng một nghĩa." Ông nói đúng: họ quả thật không hiểu như nhau. (Chú thích của Sowell: các khác biệt này được ông làm rõ trong *On Classical Economics*, các trang 69–71.) Phải nhiều thập kỷ sau khi cả hai qua đời, chữ "cầu" mới được làm rõ và định nghĩa đủ chính xác để có nghĩa như các nhà kinh tế dùng hôm nay. Những bước logic trông nhỏ khi nhìn lại có thể là một quá trình thử và sai dài, tốn thời gian: tạo ra và mài giũa khái niệm, định nghĩa để diễn đạt ý tưởng rõ ràng, không thể hiểu lầm, sao cho các bên đối lập có thể tranh luận trên cùng một nền thuật ngữ, ít nhất là bất đồng về nội dung thay vì bế tắc vì chữ nghĩa.
+Sowell nhấn mạnh rằng các nguyên lý kinh tế không xuất hiện sẵn sàng trong một tia chớp thiên tài. Những nhà tư tưởng sâu sắc và tận tâm qua nhiều thế hệ đã mò mẫm để hiểu cả thế giới thực của hoạt động kinh tế lẫn các khái niệm cần thiết để nghiên cứu nó có hệ thống.
+
+Phân tích cung và cầu mà sinh viên năm đầu học trong một tuần đã mất ít nhất một thế kỷ mới thành hình từ các cuộc tranh luận giữa những nhà tư tưởng đầu thế kỷ 19 như David Ricardo, Thomas Malthus và Jean-Baptiste Say. Trong một trong rất nhiều lá thư trao đổi với người bạn Malthus qua nhiều năm, năm 1814 Ricardo viết: "Đôi khi tôi ngờ rằng chúng ta không hiểu chữ 'cầu' theo cùng một nghĩa." Ông nói đúng: họ quả thật không hiểu như nhau. (Chú thích của Sowell: các khác biệt này được ông làm rõ trong *On Classical Economics*, các trang 69–71.)
+
+Phải nhiều thập kỷ sau khi cả hai qua đời, chữ "cầu" mới được làm rõ và định nghĩa đủ chính xác để có nghĩa như các nhà kinh tế dùng hôm nay. Những bước logic trông nhỏ khi nhìn lại có thể là một quá trình thử và sai dài, tốn thời gian: tạo ra và mài giũa khái niệm, định nghĩa để diễn đạt ý tưởng rõ ràng, không thể hiểu lầm, sao cho các bên đối lập có thể tranh luận trên cùng một nền thuật ngữ, ít nhất là bất đồng về nội dung thay vì bế tắc vì chữ nghĩa.
 
 ### 5. Định luật Say (Say's Law)
 
 Một trong những khái niệm nền tảng gây tranh cãi dữ dội đầu thế kỷ 19, và được John Maynard Keynes khơi lại năm 1936, là định luật Say. Nó mang tên nhà kinh tế Pháp Jean-Baptiste Say (1767–1832), dù nhiều nhà kinh tế khác góp phần phát triển nó. Định luật bắt đầu như một nguyên lý khá đơn giản, nhưng các hệ quả và mở rộng của nó ngày càng phức tạp trong tay cả người ủng hộ lẫn người phê phán qua các cuộc tranh luận ở thế kỷ 19 và 20.
 
-Ở dạng cơ bản nhất, định luật Say trả lời một nỗi sợ phổ biến và dai dẳng: sản lượng của nền kinh tế tăng mãi có thể tới lúc vượt quá khả năng mua của người dân, gây ra hàng ế và công nhân thất nghiệp. Nỗi sợ này có trước Say và kéo dài rất lâu sau ông; như Chương 16 đã nhắc, một tác giả sách bán chạy thập niên 1960 cảnh báo về "nguy cơ dư thừa nhu yếu phẩm, tiện nghi và đồ xa xỉ", thứ đã trở thành "một vấn đề quốc gia lớn". Điều định luật Say khẳng định, theo nghĩa cơ bản nhất, là việc sản xuất ra sản lượng và việc tạo ra thu nhập thực cho những người sản xuất không phải hai quá trình độc lập với nhau. Vì thế, dù sản lượng quốc gia lớn hay nhỏ, thu nhập tạo ra khi sản xuất nó cũng đủ để mua nó. Định luật thường được diễn đạt là "cung tạo ra cầu của chính nó": không có giới hạn cố hữu nào cho lượng sản phẩm mà một nền kinh tế có thể sản xuất và mua.
+Ở dạng cơ bản nhất, định luật Say trả lời một nỗi sợ phổ biến và dai dẳng: sản lượng của nền kinh tế tăng mãi có thể tới lúc vượt quá khả năng mua của người dân, gây ra hàng ế và công nhân thất nghiệp. Nỗi sợ này có trước Say và kéo dài rất lâu sau ông; như Chương 16 đã nhắc, một tác giả sách bán chạy thập niên 1960 cảnh báo về "nguy cơ dư thừa nhu yếu phẩm, tiện nghi và đồ xa xỉ", thứ đã trở thành "một vấn đề quốc gia lớn".
+
+Điều định luật Say khẳng định, theo nghĩa cơ bản nhất, là việc sản xuất ra sản lượng và việc tạo ra thu nhập thực cho những người sản xuất không phải hai quá trình độc lập với nhau. Vì thế, dù sản lượng quốc gia lớn hay nhỏ, thu nhập tạo ra khi sản xuất nó cũng đủ để mua nó. Định luật thường được diễn đạt là "cung tạo ra cầu của chính nó": không có giới hạn cố hữu nào cho lượng sản phẩm mà một nền kinh tế có thể sản xuất và mua.
 
 Chính Say hỏi: nếu không phải vậy, làm sao nước Pháp hiện nay lại mua bán được lượng hàng gấp năm, sáu lần thời trị vì khốn khó của vua Charles VI? Một người thuộc phái Trọng nông còn nói ý tương tự sớm hơn, rằng tổng cầu "không có giới hạn nào được biết". Định luật không loại trừ khả năng, ở một thời điểm nào đó, người tiêu dùng hay nhà đầu tư chọn không dùng hết tổng sức mua mà họ có. Điều định luật loại trừ là nỗi sợ lặp đi lặp lại rằng riêng việc sản lượng tăng nhanh nhờ công nghiệp hiện đại sẽ tới lúc lớn tới mức không thể mua hết.
 
-Như thường thấy trong lịch sử tư tưởng, một khái niệm ban đầu rất đơn giản bị người ủng hộ mở rộng theo quá nhiều hướng và bị người phản đối kéo vào quá nhiều tranh cãi, tới mức các cách hiểu và cách bóp méo sinh sôi, dù các nhà kinh tế ở cả hai phía (gồm gần như mọi nhà kinh tế hàng đầu đầu thế kỷ 19) đều nghiêm túc và thông minh, chỉ là họ nói chệch nhau. Một phần lý do là kinh tế học khi đó chưa tới giai đoạn mà các thuật ngữ họ dùng (chẳng hạn "cầu") có định nghĩa chặt chẽ được mọi người chấp nhận. (Chú thích của Sowell: thảo luận dài hơn về các cuộc tranh cãi này có trong cuốn *On Classical Economics* của ông, Yale University Press, 2006, các trang 23–34.) Sinh viên đời sau có thể thấy việc định nghĩa chặt chẽ là tẻ nhạt, nhưng lịch sử kinh tế học và các ngành khác cho thấy rõ hậu quả rối loạn khi bàn các vấn đề nội dung mà không có thuật ngữ rõ ràng, cùng một nghĩa với mọi người dùng.
+Như thường thấy trong lịch sử tư tưởng, một khái niệm ban đầu rất đơn giản bị người ủng hộ mở rộng theo quá nhiều hướng và bị người phản đối kéo vào quá nhiều tranh cãi, tới mức các cách hiểu và cách bóp méo sinh sôi, dù các nhà kinh tế ở cả hai phía (gồm gần như mọi nhà kinh tế hàng đầu đầu thế kỷ 19) đều nghiêm túc và thông minh, chỉ là họ nói chệch nhau.
+
+Một phần lý do là kinh tế học khi đó chưa tới giai đoạn mà các thuật ngữ họ dùng (chẳng hạn "cầu") có định nghĩa chặt chẽ được mọi người chấp nhận. (Chú thích của Sowell: thảo luận dài hơn về các cuộc tranh cãi này có trong cuốn *On Classical Economics* của ông, Yale University Press, 2006, các trang 23–34.) Sinh viên đời sau có thể thấy việc định nghĩa chặt chẽ là tẻ nhạt, nhưng lịch sử kinh tế học và các ngành khác cho thấy rõ hậu quả rối loạn khi bàn các vấn đề nội dung mà không có thuật ngữ rõ ràng, cùng một nghĩa với mọi người dùng.
 
 ### 6. Kinh tế học hiện đại: kinh tế học trở thành một nghề (Modern Economics, phần mở đầu)
 
@@ -1023,7 +1055,9 @@ Cách trình bày thuần lời văn vẫn chưa biến mất hẳn ngay cả h�
 
 Một bước ngoặt trong phân tích kinh tế thế kỷ 19 là việc các nhà kinh tế chấp nhận rộng rãi một thuyết giá dựa trên cầu của người tiêu dùng, chứ không chỉ trên chi phí của người sản xuất. Nó mang tính cách mạng không chỉ như một thuyết giá mà còn vì đưa vào những khái niệm và phương pháp phân tích mới, lan sang các nhánh khác của kinh tế học.
 
-Kinh tế học cổ điển coi lượng lao động và các đầu vào khác là yếu tố then chốt quyết định giá sản phẩm. Karl Marx đẩy lối nghĩ này tới cực điểm logic bằng thuyết bóc lột lao động: lao động được coi là nguồn gốc cuối cùng của của cải, và do đó là nguồn gốc cuối cùng của thu nhập và của cải của các giai cấp không lao động như nhà tư bản và địa chủ. (Chú thích của Sowell: dù Marx là nhân vật lớn đến đâu trong lịch sử thế giới, và ảnh hưởng trí thức lẫn chính trị của ông lên thế kỷ 20 lớn đến đâu, công trình kinh tế học của ông để lại rất ít dấu vết trong sự phát triển của ngành; ngay cả các nhà kinh tế theo chủ nghĩa Marx cũng thường dùng các khái niệm kinh tế khác trong công việc chuyên môn.)
+Kinh tế học cổ điển coi lượng lao động và các đầu vào khác là yếu tố then chốt quyết định giá sản phẩm.
+
+Karl Marx đẩy lối nghĩ này tới cực điểm logic bằng thuyết bóc lột lao động: lao động được coi là nguồn gốc cuối cùng của của cải, và do đó là nguồn gốc cuối cùng của thu nhập và của cải của các giai cấp không lao động như nhà tư bản và địa chủ. (Chú thích của Sowell: dù Marx là nhân vật lớn đến đâu trong lịch sử thế giới, và ảnh hưởng trí thức lẫn chính trị của ông lên thế kỷ 20 lớn đến đâu, công trình kinh tế học của ông để lại rất ít dấu vết trong sự phát triển của ngành; ngay cả các nhà kinh tế theo chủ nghĩa Marx cũng thường dùng các khái niệm kinh tế khác trong công việc chuyên môn.)
 
 Thuyết giá trị theo chi phí sản xuất thống trị ở Anh từ thời Adam Smith, còn ở lục địa châu Âu thống trị một thuyết hoàn toàn khác: giá trị do độ thoả dụng (utility) của hàng hoá với người tiêu dùng quyết định, vì độ thoả dụng quyết định cầu. Smith gạt thuyết này bằng nghịch lý nước và kim cương: nước rõ ràng hữu ích hơn kim cương, vì không có nước thì không sống được còn nhiều người sống không cần kim cương, vậy mà kim cương bán đắt hơn nước rất nhiều.
 
@@ -1045,27 +1079,41 @@ Quay lại ví dụ của Smith: độ thoả dụng đáng so là độ thoả 
 
 Cách trình bày của Jevons mở đường cho các khái niệm cận biên lan sang các nhánh khác như lý thuyết sản xuất hay lý thuyết thương mại quốc tế, nơi đồ thị và phương trình diễn đạt gọn và rõ hơn những khái niệm như lợi thế kinh tế nhờ quy mô (economies of scale) hay lợi thế so sánh. Quá trình này được gọi đúng là "cuộc cách mạng cận biên", đánh dấu sự đoạn tuyệt với cả phương pháp lẫn khái niệm của kinh tế học cổ điển. Nó thúc đẩy việc dùng toán học, chẳng hạn biểu diễn sự thay đổi của chi phí bằng đường cong và phân tích tốc độ thay đổi chi phí bằng phép tính vi phân. Tuy nhiên toán học không bắt buộc để hiểu thuyết giá trị mới, vì Menger không dùng một đồ thị hay phương trình nào.
 
-Menger và Jevons là người sáng lập trường phái độ thoả dụng cận biên, nhưng chính bộ giáo trình đồ sộ *Các nguyên lý kinh tế học* (1890) của Alfred Marshall đã hệ thống hoá nhiều mặt của kinh tế học quanh các khái niệm mới và cho chúng hình thức cơ bản còn giữ tới hôm nay. Trước lập trường của Jevons, Marshall viết rằng tranh cãi giá trị do độ thoả dụng hay do chi phí sản xuất quyết định cũng vô lý như tranh cãi lưỡi trên hay lưỡi dưới của cái kéo cắt tờ giấy. Nói cách khác, chính sự kết hợp của cung (phụ thuộc chi phí sản xuất) và cầu (phụ thuộc độ thoả dụng cận biên) quyết định giá. Bằng cách này và nhiều cách khác, Marshall dung hoà lý thuyết cổ điển với lý thuyết cận biên thành thứ được gọi là kinh tế học tân cổ điển (neo-classical economics). Cuốn sách trở thành giáo trình chuẩn mực tới nửa đầu thế kỷ 20 và ra tám ấn bản khi Marshall còn sống. (Chú thích của Sowell: sách của Marshall vẫn được dùng làm giáo trình khi Sowell học cao học ở Đại học Columbia năm học 1958–59.)
+Menger và Jevons là người sáng lập trường phái độ thoả dụng cận biên, nhưng chính bộ giáo trình đồ sộ *Các nguyên lý kinh tế học* (1890) của Alfred Marshall đã hệ thống hoá nhiều mặt của kinh tế học quanh các khái niệm mới và cho chúng hình thức cơ bản còn giữ tới hôm nay. Trước lập trường của Jevons, Marshall viết rằng tranh cãi giá trị do độ thoả dụng hay do chi phí sản xuất quyết định cũng vô lý như tranh cãi lưỡi trên hay lưỡi dưới của cái kéo cắt tờ giấy. Nói cách khác, chính sự kết hợp của cung (phụ thuộc chi phí sản xuất) và cầu (phụ thuộc độ thoả dụng cận biên) quyết định giá.
 
-Việc Marshall dung hoà được kinh tế học cổ điển với khái niệm cận biên không có gì lạ. Ông được đào tạo toán bài bản và học kinh tế lần đầu qua cuốn *Các nguyên lý kinh tế chính trị* của Mill, mà năm 1876 ông gọi là "cuốn sách đã đào tạo phần lớn các nhà kinh tế Anh còn sống". Trước đó Marshall học triết và phê phán sự bất bình đẳng kinh tế trong xã hội, cho tới khi có người nói với ông rằng phải hiểu kinh tế học trước khi phán xét. Sau khi học, ông nhìn hoàn cảnh theo cách rất khác, nhưng mối quan tâm không đổi tới người nghèo khiến ông chuyển nghề sang kinh tế học. Về sau ông nói các nhà cải cách xã hội cần "cái đầu lạnh" cùng với "trái tim nóng". Khi đang chọn nghề, ông viết rằng mình ngày càng thấy việc nghiên cứu kinh tế cấp bách như một phương tiện vì phúc lợi của con người.
+Bằng cách này và nhiều cách khác, Marshall dung hoà lý thuyết cổ điển với lý thuyết cận biên thành thứ được gọi là kinh tế học tân cổ điển (neo-classical economics). Cuốn sách trở thành giáo trình chuẩn mực tới nửa đầu thế kỷ 20 và ra tám ấn bản khi Marshall còn sống. (Chú thích của Sowell: sách của Marshall vẫn được dùng làm giáo trình khi Sowell học cao học ở Đại học Columbia năm học 1958–59.)
+
+Việc Marshall dung hoà được kinh tế học cổ điển với khái niệm cận biên không có gì lạ. Ông được đào tạo toán bài bản và học kinh tế lần đầu qua cuốn *Các nguyên lý kinh tế chính trị* của Mill, mà năm 1876 ông gọi là "cuốn sách đã đào tạo phần lớn các nhà kinh tế Anh còn sống".
+
+Trước đó Marshall học triết và phê phán sự bất bình đẳng kinh tế trong xã hội, cho tới khi có người nói với ông rằng phải hiểu kinh tế học trước khi phán xét. Sau khi học, ông nhìn hoàn cảnh theo cách rất khác, nhưng mối quan tâm không đổi tới người nghèo khiến ông chuyển nghề sang kinh tế học. Về sau ông nói các nhà cải cách xã hội cần "cái đầu lạnh" cùng với "trái tim nóng". Khi đang chọn nghề, ông viết rằng mình ngày càng thấy việc nghiên cứu kinh tế cấp bách như một phương tiện vì phúc lợi của con người.
 
 ### 8. Lý thuyết cân bằng (Equilibrium Theory)
 
 Việc dùng nhiều đồ thị và phương trình giúp minh hoạ dễ hơn tác động của thiếu hụt và dư thừa làm giá tăng hay giảm, và giúp phân tích điều kiện mà giá không tăng không giảm, gọi là điều kiện "cân bằng" (equilibrium). Khái niệm cân bằng áp dụng cho nhiều thứ ngoài giá: có thể có cân bằng ở một doanh nghiệp, cả một ngành, nền kinh tế quốc gia hay thương mại quốc tế.
 
-Nhiều người không quen kinh tế học cho rằng các điều kiện cân bằng phi thực tế vì chúng khác với điều thường thấy ngoài đời. Sowell trả lời rằng điều đó không có gì lạ, vì thế giới thực hiếm khi ở trạng thái cân bằng, trong kinh tế hay các lĩnh vực khác. Đúng là "nước tìm về mặt phẳng của nó", nhưng không có nghĩa Đại Tây Dương phẳng lặng như gương: sóng, thuỷ triều, cả thác nước đều là cách nước tìm về mặt phẳng, và tất cả luôn chuyển động. Lý thuyết cân bằng cho phép phân tích chuyển động đó sẽ ra sao trong các tình huống mất cân bằng của thế giới thực. Tương tự, sinh viên y học học cách các bộ phận cơ thể vận hành lý tưởng khi khoẻ mạnh, không phải vì cơ thể luôn khoẻ mạnh; nếu vậy thì đã chẳng cần trường y. Mục đích của việc học trạng thái cân bằng là hiểu điều xảy ra khi mọi thứ không ở trạng thái cân bằng, theo cách này hay cách khác.
+Nhiều người không quen kinh tế học cho rằng các điều kiện cân bằng phi thực tế vì chúng khác với điều thường thấy ngoài đời. Sowell trả lời rằng điều đó không có gì lạ, vì thế giới thực hiếm khi ở trạng thái cân bằng, trong kinh tế hay các lĩnh vực khác.
 
-Trong kinh tế, khái niệm cân bằng áp dụng cho từng doanh nghiệp, từng ngành, từng thị trường lao động, và cả nền kinh tế: có giá cân bằng, lương cân bằng, và cũng có thu nhập quốc dân cân bằng, cán cân thương mại cân bằng. Phân tích cân bằng và mất cân bằng ở từng thị trường được gọi là kinh tế học vi mô (microeconomics), còn phân tích thay đổi của cả nền kinh tế, như lạm phát, thất nghiệp hay tổng sản lượng tăng giảm, gọi là kinh tế học vĩ mô (macroeconomics). Nhưng cách chia tiện lợi này bỏ qua việc mọi yếu tố trong nền kinh tế tác động lẫn nhau. Trớ trêu là hai nhà kinh tế Liên Xô, sống ở một nền kinh tế phi thị trường, lại thấy một sự thật then chốt về kinh tế thị trường khi nói rằng trong thế giới giá cả mọi thứ liên kết với nhau, nên thay đổi nhỏ nhất ở một yếu tố được truyền theo chuỗi tới hàng triệu yếu tố khác.
+Đúng là "nước tìm về mặt phẳng của nó", nhưng không có nghĩa Đại Tây Dương phẳng lặng như gương: sóng, thuỷ triều, cả thác nước đều là cách nước tìm về mặt phẳng, và tất cả luôn chuyển động. Lý thuyết cân bằng cho phép phân tích chuyển động đó sẽ ra sao trong các tình huống mất cân bằng của thế giới thực. Tương tự, sinh viên y học học cách các bộ phận cơ thể vận hành lý tưởng khi khoẻ mạnh, không phải vì cơ thể luôn khoẻ mạnh; nếu vậy thì đã chẳng cần trường y. Mục đích của việc học trạng thái cân bằng là hiểu điều xảy ra khi mọi thứ không ở trạng thái cân bằng, theo cách này hay cách khác.
+
+Trong kinh tế, khái niệm cân bằng áp dụng cho từng doanh nghiệp, từng ngành, từng thị trường lao động, và cả nền kinh tế: có giá cân bằng, lương cân bằng, và cũng có thu nhập quốc dân cân bằng, cán cân thương mại cân bằng. Phân tích cân bằng và mất cân bằng ở từng thị trường được gọi là kinh tế học vi mô (microeconomics), còn phân tích thay đổi của cả nền kinh tế, như lạm phát, thất nghiệp hay tổng sản lượng tăng giảm, gọi là kinh tế học vĩ mô (macroeconomics).
+
+Nhưng cách chia tiện lợi này bỏ qua việc mọi yếu tố trong nền kinh tế tác động lẫn nhau. Trớ trêu là hai nhà kinh tế Liên Xô, sống ở một nền kinh tế phi thị trường, lại thấy một sự thật then chốt về kinh tế thị trường khi nói rằng trong thế giới giá cả mọi thứ liên kết với nhau, nên thay đổi nhỏ nhất ở một yếu tố được truyền theo chuỗi tới hàng triệu yếu tố khác.
 
 Ví dụ, khi Cục Dự trữ Liên bang tăng lãi suất cho vay để giảm nguy cơ lạm phát, giá nhà có thể giảm, tiết kiệm tăng, doanh số ô tô giảm, cùng nhiều tác động khác lan ra mọi hướng trong nền kinh tế. Theo dõi hết các tác động này trong thực tế gần như không thể, và ngay cả phân tích chúng trên lý thuyết cũng khó tới mức có nhà kinh tế đoạt giải Nobel nhờ làm được việc đó. Phân tích các mối phụ thuộc phức tạp này, dù ở tầm vi mô hay vĩ mô, được gọi là lý thuyết cân bằng tổng thể (general equilibrium). Cuốn *Lịch sử phân tích kinh tế* (History of Economic Analysis) của J.A. Schumpeter gọi sự thừa nhận "sự phụ thuộc lẫn nhau lan khắp mọi nơi" này là "sự thật nền tảng" của đời sống kinh tế.
 
 Nhân vật mốc của lý thuyết cân bằng tổng thể là nhà kinh tế Pháp Léon Walras (1834–1910), người với hệ phương trình đồng thời phức tạp về cơ bản đã tạo ra nhánh này ở thế kỷ 19. Từ thế kỷ 18, một người Pháp khác, François Quesnay (1694–1774), đã mò mẫm tới một ý niệm về cân bằng tổng thể bằng một bảng phức tạp có các đường cắt nhau nối các hoạt động kinh tế với nhau. Karl Marx, trong tập hai bộ *Tư bản* (Capital), cũng đưa ra nhiều phương trình cho thấy các phần của nền kinh tế thị trường tác động tới nhiều phần khác. Walras có người đi trước, như hầu hết các nhà khám phá lớn, nhưng ông vẫn là nhân vật mốc.
 
-Lý thuyết cân bằng tổng thể có thể để dành cho sinh viên nâng cao, nhưng nó có những hàm ý thực tế ai cũng hiểu được. Các hàm ý này đặc biệt quan trọng vì chính trị gia rất hay nêu ra một "vấn đề" kinh tế mà họ sẽ "giải quyết", không hề để ý tới việc tác động của "giải pháp" sẽ lan khắp nền kinh tế, với hậu quả có thể lớn hơn hẳn tác động của chính "giải pháp" đó. Ví dụ, luật đặt trần lãi suất cho một loại khoản vay, hay cho mọi khoản vay, có thể làm giảm số khoản vay được cấp và thay đổi thành phần những người vay được (người thu nhập thấp bị loại nhiều nhất), đồng thời tác động tới giá trái phiếu doanh nghiệp và trữ lượng tài nguyên thiên nhiên đã được xác minh, cùng những thứ khác. (Chú thích của Sowell: như đã bàn ở Chương 13. Người tổng hợp giải thích thêm: ở chương đó Sowell cho thấy lãi suất quyết định việc doanh nghiệp có đáng bỏ tiền ra hôm nay để thăm dò và xác minh tài nguyên chỉ được khai thác trong tương lai xa hay không, nên mọi thay đổi trong chi phí vay mượn đều lan tới lượng trữ lượng "đã biết".) Gần như không giao dịch kinh tế nào diễn ra tách biệt, dù những người nghĩ theo kiểu tạo "giải pháp" riêng cho từng "vấn đề" riêng có nhìn nó như vậy.
+Lý thuyết cân bằng tổng thể có thể để dành cho sinh viên nâng cao, nhưng nó có những hàm ý thực tế ai cũng hiểu được. Các hàm ý này đặc biệt quan trọng vì chính trị gia rất hay nêu ra một "vấn đề" kinh tế mà họ sẽ "giải quyết", không hề để ý tới việc tác động của "giải pháp" sẽ lan khắp nền kinh tế, với hậu quả có thể lớn hơn hẳn tác động của chính "giải pháp" đó.
+
+Ví dụ, luật đặt trần lãi suất cho một loại khoản vay, hay cho mọi khoản vay, có thể làm giảm số khoản vay được cấp và thay đổi thành phần những người vay được (người thu nhập thấp bị loại nhiều nhất), đồng thời tác động tới giá trái phiếu doanh nghiệp và trữ lượng tài nguyên thiên nhiên đã được xác minh, cùng những thứ khác. (Chú thích của Sowell: như đã bàn ở Chương 13. Người tổng hợp giải thích thêm: ở chương đó Sowell cho thấy lãi suất quyết định việc doanh nghiệp có đáng bỏ tiền ra hôm nay để thăm dò và xác minh tài nguyên chỉ được khai thác trong tương lai xa hay không, nên mọi thay đổi trong chi phí vay mượn đều lan tới lượng trữ lượng "đã biết".)
+
+Gần như không giao dịch kinh tế nào diễn ra tách biệt, dù những người nghĩ theo kiểu tạo "giải pháp" riêng cho từng "vấn đề" riêng có nhìn nó như vậy.
 
 ### 9. Kinh tế học Keynes (Keynesian Economics)
 
-Những phát triển mới nổi bật nhất của kinh tế học thế kỷ 20 nằm ở việc nghiên cứu sự dao động của sản lượng quốc gia giữa thời bùng nổ và thời suy thoái. Đại suy thoái thập niên 1930 và những hậu quả xã hội bi thảm của nó trên khắp thế giới để lại một tác động lớn và lâu dài: thúc đẩy nỗ lực tìm hiểu những thảm hoạ như vậy xảy ra như thế nào, vì sao, và có thể làm gì. (Chú thích của Sowell: năm 1930 Keynes viết rằng thế giới đã chậm nhận ra rằng năm nay chúng ta đang sống dưới bóng của một trong những thảm hoạ kinh tế lớn nhất lịch sử hiện đại; câu này nằm trong tuyển tập *Essays in Persuasion*.) Cuốn *Lý thuyết tổng quát về việc làm, lãi suất và tiền tệ* (The General Theory of Employment Interest and Money, 1936) của John Maynard Keynes trở thành cuốn sách kinh tế nổi tiếng và có ảnh hưởng nhất thế kỷ 20. Tới giữa thế kỷ, nó là chính thống ở các khoa kinh tế hàng đầu thế giới, ngoại lệ đáng kể là Đại học Chicago và một vài khoa ở các trường khác mà nhân sự chủ yếu là học trò cũ của Milton Friedman và những người khác thuộc "trường phái Chicago".
+Những phát triển mới nổi bật nhất của kinh tế học thế kỷ 20 nằm ở việc nghiên cứu sự dao động của sản lượng quốc gia giữa thời bùng nổ và thời suy thoái. Đại suy thoái thập niên 1930 và những hậu quả xã hội bi thảm của nó trên khắp thế giới để lại một tác động lớn và lâu dài: thúc đẩy nỗ lực tìm hiểu những thảm hoạ như vậy xảy ra như thế nào, vì sao, và có thể làm gì. (Chú thích của Sowell: năm 1930 Keynes viết rằng thế giới đã chậm nhận ra rằng năm nay chúng ta đang sống dưới bóng của một trong những thảm hoạ kinh tế lớn nhất lịch sử hiện đại; câu này nằm trong tuyển tập *Essays in Persuasion*.)
+
+Cuốn *Lý thuyết tổng quát về việc làm, lãi suất và tiền tệ* (The General Theory of Employment Interest and Money, 1936) của John Maynard Keynes trở thành cuốn sách kinh tế nổi tiếng và có ảnh hưởng nhất thế kỷ 20. Tới giữa thế kỷ, nó là chính thống ở các khoa kinh tế hàng đầu thế giới, ngoại lệ đáng kể là Đại học Chicago và một vài khoa ở các trường khác mà nhân sự chủ yếu là học trò cũ của Milton Friedman và những người khác thuộc "trường phái Chicago".
 
 Bên cạnh mối quan tâm truyền thống của kinh tế học là phân bổ nguồn lực khan hiếm có nhiều công dụng thay thế, Keynes thêm vào một mối quan tâm lớn: những thời kỳ mà một phần đáng kể nguồn lực của quốc gia, cả lao động lẫn vốn, hoàn toàn không được phân bổ vào đâu cả. Điều này hiển nhiên đúng vào lúc ông viết *Lý thuyết tổng quát*, thời Đại suy thoái, khi nhiều doanh nghiệp sản xuất thấp hơn hẳn công suất bình thường và có lúc tới một phần tư công nhân Mỹ thất nghiệp.
 
@@ -1083,15 +1131,21 @@ Về sau, sau khi Keynes mất năm 1946, các nghiên cứu thực nghiệm xu�
 
 Đóng góp của Keynes không biến mất: nhiều khái niệm và nhận thức của ông đã trở thành vốn liếng chung của các nhà kinh tế thuộc mọi trường phái. Khi ảnh của Keynes xuất hiện trên bìa tạp chí *Time* số ngày 31/12/1965, đó là lần đầu tiên một người đã mất được vinh danh như vậy. Bài viết kèm theo dẫn lời Milton Friedman, nhà kinh tế không theo Keynes hàng đầu: "Giờ chúng ta đều là người theo Keynes." Câu Friedman thực sự nói là: "Giờ chúng ta đều là người theo Keynes, và không ai còn là người theo Keynes nữa", nghĩa là ai cũng đã hấp thụ một phần đáng kể những gì Keynes dạy, nhưng không ai còn tin tất cả.
 
-Sowell cảnh báo rằng dễ nghĩ lịch sử kinh tế học là lịch sử của một chuỗi nhà tư tưởng lớn nối tiếp nhau nâng cao số lượng và chất lượng phân tích, nhưng những người tiên phong hiếm khi tạo ra phân tích hoàn chỉnh. Những lỗ hổng, chỗ mù mờ, sai sót và thiếu sót phổ biến ở người tiên phong trong mọi lĩnh vực cũng phổ biến trong kinh tế học. Làm rõ, sửa chữa và hệ thống hoá chặt chẽ hơn những gì các bậc khổng lồ tạo ra cần đến công sức của nhiều người khác, không có thiên tài như họ nhưng thấy rõ nhiều điểm cụ thể hơn họ. David Ricardo chắc chắn là nhân vật mốc lớn hơn nhiều so với người cùng thời ít tên tuổi Samuel Bailey, nhưng có những điểm Bailey diễn đạt rõ hơn chính Ricardo khi phân tích kinh tế học Ricardo. Tương tự, ở thế kỷ 20, kinh tế học Keynes được phát triển và trình bày bằng những khái niệm, định nghĩa, đồ thị và phương trình không hề có trong các tác phẩm của Keynes, khi các nhà kinh tế hàng đầu khác mở rộng phân tích của nó trong các bài học thuật và trình bày nó cho sinh viên trong giáo trình, bằng những công cụ chính Keynes chưa từng dùng hay nghĩ tới.
+Sowell cảnh báo rằng dễ nghĩ lịch sử kinh tế học là lịch sử của một chuỗi nhà tư tưởng lớn nối tiếp nhau nâng cao số lượng và chất lượng phân tích, nhưng những người tiên phong hiếm khi tạo ra phân tích hoàn chỉnh. Những lỗ hổng, chỗ mù mờ, sai sót và thiếu sót phổ biến ở người tiên phong trong mọi lĩnh vực cũng phổ biến trong kinh tế học. Làm rõ, sửa chữa và hệ thống hoá chặt chẽ hơn những gì các bậc khổng lồ tạo ra cần đến công sức của nhiều người khác, không có thiên tài như họ nhưng thấy rõ nhiều điểm cụ thể hơn họ.
+
+David Ricardo chắc chắn là nhân vật mốc lớn hơn nhiều so với người cùng thời ít tên tuổi Samuel Bailey, nhưng có những điểm Bailey diễn đạt rõ hơn chính Ricardo khi phân tích kinh tế học Ricardo. Tương tự, ở thế kỷ 20, kinh tế học Keynes được phát triển và trình bày bằng những khái niệm, định nghĩa, đồ thị và phương trình không hề có trong các tác phẩm của Keynes, khi các nhà kinh tế hàng đầu khác mở rộng phân tích của nó trong các bài học thuật và trình bày nó cho sinh viên trong giáo trình, bằng những công cụ chính Keynes chưa từng dùng hay nghĩ tới.
 
 ### 11. Vai trò của kinh tế học: phân tích khoa học (The Role of Economics: Scientific Analysis)
 
 Hai câu hỏi thường được đặt ra về lịch sử phân tích kinh tế là: (1) kinh tế học có tính khoa học, hay chỉ là một tập hợp ý kiến và thiên kiến hệ tư tưởng? và (2) tư tưởng kinh tế có phản ánh hoàn cảnh, sự kiện xung quanh và thay đổi theo chúng không?
 
-Về câu hỏi thứ nhất, Sowell thừa nhận rằng nhà kinh tế nào cũng có sở thích và thiên kiến riêng, như mọi cá nhân, kể cả nhà toán học và nhà vật lý. Nhưng toán học và vật lý không bị coi là ý kiến chủ quan hay quan niệm thiên lệch, vì trong các ngành này có những thủ tục (procedures) được chấp nhận để kiểm định và chứng minh niềm tin. Chính vì từng nhà khoa học dễ có thiên kiến nên giới khoa học tìm cách tạo ra và thống nhất các phương pháp, thủ tục không thiên lệch, để thiên kiến cá nhân bị ngăn chặn hoặc phơi bày. Trong kinh tế học, sở thích can thiệp của nhà nước ở phái Keynes và sở thích dựa vào thị trường ở các nhà kinh tế Đại học Chicago có thể đã ảnh hưởng phản ứng ban đầu của mỗi bên với phân tích và dữ liệu của đường Phillips. Nhưng vì cả hai bên dùng chung một bộ thủ tục phân tích và thực nghiệm trong công việc chuyên môn, họ đi tới kết luận chung khi thêm dữ liệu theo thời gian, làm sụp đổ đường Phillips.
+Về câu hỏi thứ nhất, Sowell thừa nhận rằng nhà kinh tế nào cũng có sở thích và thiên kiến riêng, như mọi cá nhân, kể cả nhà toán học và nhà vật lý. Nhưng toán học và vật lý không bị coi là ý kiến chủ quan hay quan niệm thiên lệch, vì trong các ngành này có những thủ tục (procedures) được chấp nhận để kiểm định và chứng minh niềm tin. Chính vì từng nhà khoa học dễ có thiên kiến nên giới khoa học tìm cách tạo ra và thống nhất các phương pháp, thủ tục không thiên lệch, để thiên kiến cá nhân bị ngăn chặn hoặc phơi bày.
 
-Khoa học cũng có những tranh cãi dữ dội. Điều làm một lĩnh vực có tính khoa học không phải là tự động nhất trí về mọi vấn đề, mà là có một bộ thủ tục được chấp nhận chung để giải quyết bất đồng khi có đủ dữ liệu. Thuyết tương đối của Einstein ban đầu không được đa số nhà vật lý chấp nhận, và chính Einstein cũng không muốn nó được chấp nhận khi chưa qua kiểm nghiệm. Khi đường đi của ánh sáng trong một lần nhật thực cho phép kiểm định thuyết này, kết quả bất ngờ đã thuyết phục giới khoa học rằng ông đúng. Thomas Kuhn, một sử gia khoa học hàng đầu, cho rằng điều phân biệt khoa học với các lĩnh vực khác là các lý thuyết mâu thuẫn nhau không thể cùng tồn tại mãi trong khoa học; một bên phải thắng và bên kia biến mất khi có đủ dữ liệu phù hợp. Vì thế thuyết nhiên tố (phlogiston) về sự cháy nhường chỗ cho thuyết ô-xy, và thuyết thiên văn của Ptolemy nhường chỗ cho thuyết Copernicus. Lịch sử các hệ tư tưởng thì khác hẳn: các hệ tư tưởng mâu thuẫn nhau có thể cùng tồn tại hàng thế kỷ mà không có lời giải nào trong tầm nhìn, có khi không thể hình dung nổi. (Chú thích của Sowell: chủ đề này được ông khai thác trong cuốn *A Conflict of Visions* (Xung đột giữa các tầm nhìn).)
+Trong kinh tế học, sở thích can thiệp của nhà nước ở phái Keynes và sở thích dựa vào thị trường ở các nhà kinh tế Đại học Chicago có thể đã ảnh hưởng phản ứng ban đầu của mỗi bên với phân tích và dữ liệu của đường Phillips. Nhưng vì cả hai bên dùng chung một bộ thủ tục phân tích và thực nghiệm trong công việc chuyên môn, họ đi tới kết luận chung khi thêm dữ liệu theo thời gian, làm sụp đổ đường Phillips.
+
+Khoa học cũng có những tranh cãi dữ dội. Điều làm một lĩnh vực có tính khoa học không phải là tự động nhất trí về mọi vấn đề, mà là có một bộ thủ tục được chấp nhận chung để giải quyết bất đồng khi có đủ dữ liệu. Thuyết tương đối của Einstein ban đầu không được đa số nhà vật lý chấp nhận, và chính Einstein cũng không muốn nó được chấp nhận khi chưa qua kiểm nghiệm. Khi đường đi của ánh sáng trong một lần nhật thực cho phép kiểm định thuyết này, kết quả bất ngờ đã thuyết phục giới khoa học rằng ông đúng.
+
+Thomas Kuhn, một sử gia khoa học hàng đầu, cho rằng điều phân biệt khoa học với các lĩnh vực khác là các lý thuyết mâu thuẫn nhau không thể cùng tồn tại mãi trong khoa học; một bên phải thắng và bên kia biến mất khi có đủ dữ liệu phù hợp. Vì thế thuyết nhiên tố (phlogiston) về sự cháy nhường chỗ cho thuyết ô-xy, và thuyết thiên văn của Ptolemy nhường chỗ cho thuyết Copernicus. Lịch sử các hệ tư tưởng thì khác hẳn: các hệ tư tưởng mâu thuẫn nhau có thể cùng tồn tại hàng thế kỷ mà không có lời giải nào trong tầm nhìn, có khi không thể hình dung nổi. (Chú thích của Sowell: chủ đề này được ông khai thác trong cuốn *A Conflict of Visions* (Xung đột giữa các tầm nhìn).)
 
 Điều các nhà khoa học chia sẻ không chỉ là sự đồng ý về các kết luận, mà căn bản hơn là sự đồng ý về cách kiểm định và xác minh kết luận, bắt đầu từ việc định nghĩa thuật ngữ cẩn thận và chặt chẽ. Tầm quan trọng của định nghĩa trong kinh tế học thể hiện qua các nguỵ biện nảy sinh khi thảo luận chính sách dùng một chữ lỏng lẻo như "lương" (wages) cho ba thứ khác nhau:
 
@@ -1101,9 +1155,13 @@ Khoa học cũng có những tranh cãi dữ dội. Điều làm một lĩnh v�
 | Tổng thu nhập của người lao động (aggregate earnings) | Mức lương nhân với số người có việc và thời gian làm |
 | Chi phí lao động trên mỗi đơn vị sản phẩm (labor costs per unit of output) | Mức lương chia cho năng suất |
 
-Như Chương 21 đã nêu, một nước giàu có mức lương theo thời gian cao hơn vẫn có thể có chi phí lao động trên mỗi đơn vị sản phẩm thấp hơn một nước thuộc Thế giới thứ ba nơi công nhân được trả thấp hơn nhiều. (Chú thích của Sowell: như Chương 17 đã cho thấy, trong Đại suy thoái thập niên 1930, các chính quyền Mỹ liên tiếp của cả hai đảng tìm cách giữ mức lương theo thời gian ở mức cao để duy trì "sức mua" của người lao động, thứ thực ra phụ thuộc vào tổng thu nhập của họ. Nhưng các nhà kinh tế, cả theo Keynes lẫn không theo Keynes, đều hiểu rằng số người có việc chịu ảnh hưởng của mức lương theo thời gian, nên lương cao hơn có thể đồng nghĩa ít người có việc hơn, và những người không có thu nhập làm giảm sức mua. Một nguỵ biện phổ biến trong thảo luận về thương mại quốc tế là cho rằng các nước có "lương" cao, tức mức lương theo thời gian cao, không thể cạnh tranh với các nước có "lương" thấp, vì giả định rằng nước lương cao sẽ có chi phí sản xuất cao hơn.)
+Như Chương 21 đã nêu, một nước giàu có mức lương theo thời gian cao hơn vẫn có thể có chi phí lao động trên mỗi đơn vị sản phẩm thấp hơn một nước thuộc Thế giới thứ ba nơi công nhân được trả thấp hơn nhiều. (Chú thích của Sowell: như Chương 17 đã cho thấy, trong Đại suy thoái thập niên 1930, các chính quyền Mỹ liên tiếp của cả hai đảng tìm cách giữ mức lương theo thời gian ở mức cao để duy trì "sức mua" của người lao động, thứ thực ra phụ thuộc vào tổng thu nhập của họ.
 
-Trình bày lập luận bằng toán học, trong khoa học hay kinh tế học, không chỉ làm lập luận gọn hơn và dễ theo dõi hơn bản lời văn dài, mà còn làm các hàm ý rõ hơn và các lỗi khó giấu hơn. Khi chuẩn bị một bài báo học thuật mang tính bước ngoặt năm 1931 (được in lại suốt nhiều thập kỷ sau), giáo sư Jacob Viner của Đại học Chicago dặn người vẽ hình cách dựng một số đường chi phí phức tạp. Người vẽ hình trả lời rằng một trong các bộ đường mà Viner muốn dùng để minh hoạ là không thể vẽ được với đầy đủ các đặc điểm Viner đặt ra. Về sau Viner thừa nhận ông đã đòi một thứ "bất khả về kỹ thuật và không phù hợp về kinh tế", vì một số giả định trong phân tích của ông mâu thuẫn với các giả định khác. Lỗi đó lộ ra trong cách trình bày bằng toán học, trong khi các giả định mâu thuẫn nhau có thể cùng tồn tại mãi trong một bản trình bày bằng lời thiếu chính xác.
+Nhưng các nhà kinh tế, cả theo Keynes lẫn không theo Keynes, đều hiểu rằng số người có việc chịu ảnh hưởng của mức lương theo thời gian, nên lương cao hơn có thể đồng nghĩa ít người có việc hơn, và những người không có thu nhập làm giảm sức mua. Một nguỵ biện phổ biến trong thảo luận về thương mại quốc tế là cho rằng các nước có "lương" cao, tức mức lương theo thời gian cao, không thể cạnh tranh với các nước có "lương" thấp, vì giả định rằng nước lương cao sẽ có chi phí sản xuất cao hơn.)
+
+Trình bày lập luận bằng toán học, trong khoa học hay kinh tế học, không chỉ làm lập luận gọn hơn và dễ theo dõi hơn bản lời văn dài, mà còn làm các hàm ý rõ hơn và các lỗi khó giấu hơn. Khi chuẩn bị một bài báo học thuật mang tính bước ngoặt năm 1931 (được in lại suốt nhiều thập kỷ sau), giáo sư Jacob Viner của Đại học Chicago dặn người vẽ hình cách dựng một số đường chi phí phức tạp.
+
+Người vẽ hình trả lời rằng một trong các bộ đường mà Viner muốn dùng để minh hoạ là không thể vẽ được với đầy đủ các đặc điểm Viner đặt ra. Về sau Viner thừa nhận ông đã đòi một thứ "bất khả về kỹ thuật và không phù hợp về kinh tế", vì một số giả định trong phân tích của ông mâu thuẫn với các giả định khác. Lỗi đó lộ ra trong cách trình bày bằng toán học, trong khi các giả định mâu thuẫn nhau có thể cùng tồn tại mãi trong một bản trình bày bằng lời thiếu chính xác.
 
 Phân tích có hệ thống dựa trên thuật ngữ được định nghĩa cẩn thận, và kiểm định lý thuyết có hệ thống bằng bằng chứng thực nghiệm, là một phần của nghiên cứu khoa học trong nhiều lĩnh vực, và kinh tế học rõ ràng đã tiến theo hướng đó qua nhiều thế kỷ. Tuy nhiên kinh tế học chỉ có tính khoa học theo nghĩa nó có một số thủ tục của khoa học. Việc không thể làm thí nghiệm có kiểm soát khiến lý thuyết kinh tế không có độ chính xác và khả năng lặp lại thường gắn với khoa học. Mặt khác, có những lĩnh vực khác được công nhận là khoa học cũng không cho phép thí nghiệm có kiểm soát, như thiên văn học và khí tượng học, và các lĩnh vực này có độ chính xác khác nhau:
 
@@ -1113,19 +1171,29 @@ Phân tích có hệ thống dựa trên thuật ngữ được định nghĩa c
 | Khí tượng học | Không | Dự báo thời tiết một tuần trước có tỷ lệ sai cao |
 | Kinh tế học | Không | Nguyên lý vững; dự báo sự kiện cụ thể khó, giống khí tượng học |
 
-Không ai nghi ngờ các nguyên lý vật lý làm nền cho dự báo thời tiết. Điều làm việc dự báo (forecasting) một sự kiện cụ thể trong một ngày cụ thể rủi ro hơn nhiều so với việc dự đoán (predicting) các yếu tố sẽ tương tác ra sao nếu chúng gặp nhau là sự bất định về cách vô số tổ hợp yếu tố sẽ kết hợp ở một nơi cụ thể vào một ngày cụ thể. Giả sử một nhà khí tượng biết trước chính xác khi nào một khối khí nóng ẩm từ vịnh Mexico đi lên sẽ gặp một khối khí lạnh khô từ Canada đi xuống; người đó có thể đoán chắc chắn mưa hay tuyết ở St. Louis, vì đó chỉ là áp dụng nguyên lý vật lý vào hoàn cảnh cụ thể. Cái bất định không phải các nguyên lý, mà là mọi biến số quyết định nguyên lý nào sẽ áp dụng ở nơi nào, lúc nào. Điều khoa học biết chắc là khí lạnh khô gặp khí nóng ẩm không tạo ra ngày nắng và lặng gió. Điều chưa biết là hai khối khí này sẽ tới St. Louis cùng lúc, lần lượt nối tiếp, hay trượt qua cả hai. Đó là chỗ người ta tính xác suất xem chúng có giữ tốc độ và hướng đi hiện tại hay không.
+Không ai nghi ngờ các nguyên lý vật lý làm nền cho dự báo thời tiết. Điều làm việc dự báo (forecasting) một sự kiện cụ thể trong một ngày cụ thể rủi ro hơn nhiều so với việc dự đoán (predicting) các yếu tố sẽ tương tác ra sao nếu chúng gặp nhau là sự bất định về cách vô số tổ hợp yếu tố sẽ kết hợp ở một nơi cụ thể vào một ngày cụ thể.
+
+Giả sử một nhà khí tượng biết trước chính xác khi nào một khối khí nóng ẩm từ vịnh Mexico đi lên sẽ gặp một khối khí lạnh khô từ Canada đi xuống; người đó có thể đoán chắc chắn mưa hay tuyết ở St. Louis, vì đó chỉ là áp dụng nguyên lý vật lý vào hoàn cảnh cụ thể. Cái bất định không phải các nguyên lý, mà là mọi biến số quyết định nguyên lý nào sẽ áp dụng ở nơi nào, lúc nào.
+
+Điều khoa học biết chắc là khí lạnh khô gặp khí nóng ẩm không tạo ra ngày nắng và lặng gió. Điều chưa biết là hai khối khí này sẽ tới St. Louis cùng lúc, lần lượt nối tiếp, hay trượt qua cả hai. Đó là chỗ người ta tính xác suất xem chúng có giữ tốc độ và hướng đi hiện tại hay không.
 
 Về nguyên tắc, kinh tế học rất giống khí tượng học. Lịch sử ghi chép chưa có trường hợp nào một chính phủ tăng cung tiền gấp mười lần trong một năm mà giá không tăng, và không ai nghĩ sẽ có. Tác động của kiểm soát giá, gồm thiếu hụt, chợ đen, chất lượng sản phẩm giảm và các dịch vụ kèm theo bị cắt bớt, cũng giống nhau một cách đáng kinh ngạc, dù ở Đế chế La Mã thời hoàng đế Diocletian, ở Paris thời Cách mạng Pháp hay ở thị trường nhà New York dưới chế độ kiểm soát tiền thuê ngày nay. Cũng không có khác biệt căn bản nào dù giá bị kiểm soát là giá nhà ở, thực phẩm hay chăm sóc y tế.
 
-Tranh cãi giữa các nhà kinh tế lên báo, nhưng điều đó không có nghĩa là ngành không có nguyên lý đã được xác lập, cũng như tranh cãi giữa các nhà khoa học không có nghĩa là hoá học hay vật lý không có nguyên lý vững chắc. Trong cả hai trường hợp, tranh cãi hiếm khi xoay quanh việc dự đoán điều gì sẽ xảy ra trong những hoàn cảnh cho trước, mà xoay quanh việc dự báo điều gì thực sự sẽ xảy ra khi có quá nhiều tổ hợp và hoán vị của các yếu tố để có thể thấy trước toàn bộ kết quả. Nói gọn, các tranh cãi này thường không phải bất đồng về nguyên lý căn bản của ngành, mà về việc các xu hướng và điều kiện sẽ kết hợp ra sao để quyết định nguyên lý nào sẽ áp dụng hay chiếm ưu thế trong một hoàn cảnh cụ thể.
+Tranh cãi giữa các nhà kinh tế lên báo, nhưng điều đó không có nghĩa là ngành không có nguyên lý đã được xác lập, cũng như tranh cãi giữa các nhà khoa học không có nghĩa là hoá học hay vật lý không có nguyên lý vững chắc.
+
+Trong cả hai trường hợp, tranh cãi hiếm khi xoay quanh việc dự đoán điều gì sẽ xảy ra trong những hoàn cảnh cho trước, mà xoay quanh việc dự báo điều gì thực sự sẽ xảy ra khi có quá nhiều tổ hợp và hoán vị của các yếu tố để có thể thấy trước toàn bộ kết quả. Nói gọn, các tranh cãi này thường không phải bất đồng về nguyên lý căn bản của ngành, mà về việc các xu hướng và điều kiện sẽ kết hợp ra sao để quyết định nguyên lý nào sẽ áp dụng hay chiếm ưu thế trong một hoàn cảnh cụ thể.
 
 ### 12. Giả định và phân tích (Assumptions and Analysis)
 
 Kinh tế học bị chỉ trích theo nhiều cách: bị cho là "giản đơn quá mức" (simplistic), là giả định con người quá vụ lợi và duy lý theo kiểu vật chất, hay là các giả định đằng sau phân tích và dự đoán của nó không mô tả đúng thế giới thực.
 
-Một số vấn đề của việc gọi một lời giải thích là "giản đơn quá mức" đã được bàn ở Chương 4. Ngầm trong chữ "giản đơn quá mức" là ý lời giải thích không chỉ đơn giản mà là quá đơn giản. Điều đó dẫn tới câu hỏi: quá đơn giản cho mục đích gì? Nếu thực tế luôn diễn ra đúng như lời giải thích dự đoán, thì rõ ràng nó không quá đơn giản cho mục đích của nó, nhất là khi thực tế không diễn ra như một lời giải thích phức tạp hơn hay nghe hợp lý hơn dự đoán. Tóm lại, một lời giải thích có quá đơn giản hay không là câu hỏi thực nghiệm, không thể quyết định trước dựa trên việc nó trông hợp lý, phức tạp hay tinh tế đến đâu, mà chỉ trả lời được sau khi xem bằng chứng cứng về việc các dự đoán của nó đúng tới đâu. (Chú thích của Sowell: giới sành rượu vang đã sửng sốt khi nhà kinh tế Orley Ashenfelter nói ông có thể dự đoán giá của từng loại rượu vang bằng dữ liệu thời tiết trong mùa trồng nho làm ra rượu đó, không cần nếm rượu hay quan tâm tới ý kiến của các chuyên gia đã nếm. Nhưng phương pháp của ông hoá ra dự đoán giá chính xác hơn ý kiến của các chuyên gia đã nếm rượu.)
+Một số vấn đề của việc gọi một lời giải thích là "giản đơn quá mức" đã được bàn ở Chương 4. Ngầm trong chữ "giản đơn quá mức" là ý lời giải thích không chỉ đơn giản mà là quá đơn giản. Điều đó dẫn tới câu hỏi: quá đơn giản cho mục đích gì? Nếu thực tế luôn diễn ra đúng như lời giải thích dự đoán, thì rõ ràng nó không quá đơn giản cho mục đích của nó, nhất là khi thực tế không diễn ra như một lời giải thích phức tạp hơn hay nghe hợp lý hơn dự đoán.
 
-Một cách tương tự để xét giá trị của lý thuyết theo vẻ hợp lý thay vì theo kết quả kiểm định là lời chỉ trích rằng phân tích kinh tế mô tả con người suy nghĩ hay hành động theo cách mà hầu hết mọi người không làm. Nhưng kinh tế học xét cho cùng là về kết quả của hệ thống (systemic results), không phải ý định cá nhân hay hành vi riêng lẻ. Các nhà kinh tế ở hai đầu đối lập của phổ hệ tư tưởng đều hiểu điều này. Karl Marx nói rằng nhà tư bản hạ giá khi tiến bộ công nghệ làm giảm chi phí sản xuất, không phải vì họ muốn, mà vì cạnh tranh thị trường buộc họ. Adam Smith cũng nói lợi ích của một nền kinh tế thị trường cạnh tranh "không phải một phần" trong ý định của nhà tư bản. Như đã nhắc ở Chương 4, Friedrich Engels, cộng sự của Marx, nói rằng điều mỗi cá nhân muốn bị mọi người khác cản trở, và điều xuất hiện là điều không ai muốn. Chính "điều xuất hiện" đó là thứ kinh tế học cố dự đoán, và thành công hay thất bại của nó được đo bằng điều đó, không phải bằng việc phân tích trông hợp lý ra sao lúc đầu.
+Tóm lại, một lời giải thích có quá đơn giản hay không là câu hỏi thực nghiệm, không thể quyết định trước dựa trên việc nó trông hợp lý, phức tạp hay tinh tế đến đâu, mà chỉ trả lời được sau khi xem bằng chứng cứng về việc các dự đoán của nó đúng tới đâu. (Chú thích của Sowell: giới sành rượu vang đã sửng sốt khi nhà kinh tế Orley Ashenfelter nói ông có thể dự đoán giá của từng loại rượu vang bằng dữ liệu thời tiết trong mùa trồng nho làm ra rượu đó, không cần nếm rượu hay quan tâm tới ý kiến của các chuyên gia đã nếm. Nhưng phương pháp của ông hoá ra dự đoán giá chính xác hơn ý kiến của các chuyên gia đã nếm rượu.)
+
+Một cách tương tự để xét giá trị của lý thuyết theo vẻ hợp lý thay vì theo kết quả kiểm định là lời chỉ trích rằng phân tích kinh tế mô tả con người suy nghĩ hay hành động theo cách mà hầu hết mọi người không làm. Nhưng kinh tế học xét cho cùng là về kết quả của hệ thống (systemic results), không phải ý định cá nhân hay hành vi riêng lẻ.
+
+Các nhà kinh tế ở hai đầu đối lập của phổ hệ tư tưởng đều hiểu điều này. Karl Marx nói rằng nhà tư bản hạ giá khi tiến bộ công nghệ làm giảm chi phí sản xuất, không phải vì họ muốn, mà vì cạnh tranh thị trường buộc họ. Adam Smith cũng nói lợi ích của một nền kinh tế thị trường cạnh tranh "không phải một phần" trong ý định của nhà tư bản. Như đã nhắc ở Chương 4, Friedrich Engels, cộng sự của Marx, nói rằng điều mỗi cá nhân muốn bị mọi người khác cản trở, và điều xuất hiện là điều không ai muốn. Chính "điều xuất hiện" đó là thứ kinh tế học cố dự đoán, và thành công hay thất bại của nó được đo bằng điều đó, không phải bằng việc phân tích trông hợp lý ra sao lúc đầu.
 
 ### 13. Thiên kiến và phân tích (Bias and Analysis)
 
@@ -1133,9 +1201,15 @@ Thiên kiến cá nhân là một câu hỏi căn bản khác từ lâu được
 
 Trong một bài trên tạp chí học thuật, Schumpeter nêu riêng trường hợp Adam Smith: điều thú vị ở Smith không phải là không có thiên kiến hệ tư tưởng, mà là thiên kiến đó vô hại. Với Schumpeter, cái nhìn tiêu cực không chút giảm nhẹ của Smith về giới kinh doanh là một thiên kiến hệ tư tưởng, xuất phát từ việc Smith sinh ra trong một gia đình "không thuộc giới kinh doanh" và đắm mình trong tác phẩm của những trí thức "có điều kiện tương tự". Nhưng "toàn bộ hệ tư tưởng ấy, dù được giữ chặt đến đâu, thực sự không gây hại nhiều cho thành tựu khoa học" của Smith, tức phần giảng dạy "vững chắc về sự kiện và phân tích".
 
-Với Karl Marx cũng vậy. Tầm nhìn hệ tư tưởng của Marx về các quá trình xã hội hình thành trước khi ông học kinh tế, nhưng theo Schumpeter, khi công trình phân tích của ông chín muồi, Marx không chỉ xây dựng nhiều mảng phân tích khoa học trung lập với tầm nhìn ấy mà còn có những mảng không khớp lắm với nó, dù Marx vẫn tiếp tục dùng "những lời lẽ chửi rủa không ảnh hưởng tới các yếu tố khoa học của lập luận". Trớ trêu là cái nhìn của Marx về giới kinh doanh không hoàn toàn tiêu cực như của Adam Smith. (Chú thích của Sowell: trong bộ *Tư bản*, tập I, Marx viết rằng ông không hề tô hồng nhà tư bản và địa chủ, nhưng ở đây các cá nhân chỉ được xét như hiện thân của các phạm trù kinh tế, và quan điểm của ông, hơn mọi quan điểm khác, ít có khả năng bắt cá nhân chịu trách nhiệm về những quan hệ mà về mặt xã hội người đó vẫn là sản phẩm, dù chủ quan người đó có tự nâng mình lên trên chúng đến đâu. Trái với nhiều người cánh tả, Marx không thấy nhà tư bản điều khiển nền kinh tế mà thấy điều ngược lại: cạnh tranh tự do làm bộc lộ các quy luật nội tại của sản xuất tư bản chủ nghĩa dưới dạng những quy luật cưỡng chế từ bên ngoài, có quyền lực đối với từng nhà tư bản.)
+Với Karl Marx cũng vậy. Tầm nhìn hệ tư tưởng của Marx về các quá trình xã hội hình thành trước khi ông học kinh tế, nhưng theo Schumpeter, khi công trình phân tích của ông chín muồi, Marx không chỉ xây dựng nhiều mảng phân tích khoa học trung lập với tầm nhìn ấy mà còn có những mảng không khớp lắm với nó, dù Marx vẫn tiếp tục dùng "những lời lẽ chửi rủa không ảnh hưởng tới các yếu tố khoa học của lập luận".
 
-Theo Schumpeter, bản thân thành tựu khoa học không đòi hỏi ta phải từ bỏ các phán xét giá trị của mình hay từ bỏ vai trò người bênh vực một lợi ích nào đó. Ông nói thẳng hơn: "bênh vực không có nghĩa là nói dối", dù đôi khi hệ tư tưởng "kết tinh" thành những "tín điều" mà "lý lẽ không thể lay chuyển". Nhưng một trong những dấu hiệu của một ngành khoa học là có "quy tắc thủ tục" có thể "nghiền nát sai lầm do hệ tư tưởng gây ra" khỏi phân tích. Hơn nữa, có "điều gì đó để phát biểu, để bảo vệ, để tấn công" tạo ra động lực cho công việc thực chứng và phân tích, dù hệ tư tưởng đôi khi cản trở công việc đó. Vì thế, theo Schumpeter, "dù ta tiến chậm vì các hệ tư tưởng, không có chúng có lẽ ta chẳng tiến được chút nào".
+Trớ trêu là cái nhìn của Marx về giới kinh doanh không hoàn toàn tiêu cực như của Adam Smith. (Chú thích của Sowell: trong bộ *Tư bản*, tập I, Marx viết rằng ông không hề tô hồng nhà tư bản và địa chủ, nhưng ở đây các cá nhân chỉ được xét như hiện thân của các phạm trù kinh tế, và quan điểm của ông, hơn mọi quan điểm khác, ít có khả năng bắt cá nhân chịu trách nhiệm về những quan hệ mà về mặt xã hội người đó vẫn là sản phẩm, dù chủ quan người đó có tự nâng mình lên trên chúng đến đâu.
+
+Trái với nhiều người cánh tả, Marx không thấy nhà tư bản điều khiển nền kinh tế mà thấy điều ngược lại: cạnh tranh tự do làm bộc lộ các quy luật nội tại của sản xuất tư bản chủ nghĩa dưới dạng những quy luật cưỡng chế từ bên ngoài, có quyền lực đối với từng nhà tư bản.)
+
+Theo Schumpeter, bản thân thành tựu khoa học không đòi hỏi ta phải từ bỏ các phán xét giá trị của mình hay từ bỏ vai trò người bênh vực một lợi ích nào đó. Ông nói thẳng hơn: "bênh vực không có nghĩa là nói dối", dù đôi khi hệ tư tưởng "kết tinh" thành những "tín điều" mà "lý lẽ không thể lay chuyển".
+
+Nhưng một trong những dấu hiệu của một ngành khoa học là có "quy tắc thủ tục" có thể "nghiền nát sai lầm do hệ tư tưởng gây ra" khỏi phân tích. Hơn nữa, có "điều gì đó để phát biểu, để bảo vệ, để tấn công" tạo ra động lực cho công việc thực chứng và phân tích, dù hệ tư tưởng đôi khi cản trở công việc đó. Vì thế, theo Schumpeter, "dù ta tiến chậm vì các hệ tư tưởng, không có chúng có lẽ ta chẳng tiến được chút nào".
 
 ### 14. Sự kiện và tư tưởng (Events and Ideas)
 
@@ -1145,7 +1219,9 @@ Câu trả lời của Keynes cho câu hỏi thứ nhất là: ý tưởng của
 
 Nói cách khác, theo Keynes, nhà kinh tế không ảnh hưởng tới diễn biến sự kiện qua tác động trực tiếp lên những người nắm quyền ở một thời điểm, mà qua việc tạo ra những niềm tin và thái độ chung, khung cảnh trong đó giới tạo dư luận suy nghĩ và chính trị gia hành động. Theo nghĩa đó, phái trọng thương vẫn ảnh hưởng tới niềm tin và thái độ ngày nay, nhiều thế kỷ sau khi Adam Smith đã bác bỏ họ dứt khoát trong giới kinh tế.
 
-Câu hỏi kinh tế học có bị sự kiện định hình hay không gây tranh cãi hơn. Từng có thời nhiều người tin rằng tư tưởng được định hình bởi hoàn cảnh và sự kiện xung quanh, và tư tưởng kinh tế không phải ngoại lệ. Chắc chắn có thứ gì đó trong thế giới thực khiến người ta bắt đầu nghĩ về các ý tưởng kinh tế, như với ý tưởng ở các lĩnh vực khác, kể cả khoa học và toán học: thời cổ đại, môn lượng giác được thúc đẩy bởi nhu cầu đo đạc lại đất đai ở Ai Cập sau khi những trận lũ sông Nile lặp đi lặp lại xoá mất ranh giới giữa đất của các chủ khác nhau. Đó là một kiểu ảnh hưởng. Một kiểu ảnh hưởng trực tiếp hơn được những người tin rằng Đại suy thoái thập niên 1930 đã sinh ra kinh tế học Keynes giả định. Nhưng dù Đại suy thoái có gợi cảm hứng cho tư duy của Keynes và cho việc các nhà kinh tế khắp thế giới chấp nhận nó, thì đó có phải là cách điển hình mà kinh tế học, chưa nói tới tư tưởng ở các lĩnh vực khác, đã tiến hoá trong lịch sử không? Sowell đưa ra các phản ví dụ:
+Câu hỏi kinh tế học có bị sự kiện định hình hay không gây tranh cãi hơn. Từng có thời nhiều người tin rằng tư tưởng được định hình bởi hoàn cảnh và sự kiện xung quanh, và tư tưởng kinh tế không phải ngoại lệ. Chắc chắn có thứ gì đó trong thế giới thực khiến người ta bắt đầu nghĩ về các ý tưởng kinh tế, như với ý tưởng ở các lĩnh vực khác, kể cả khoa học và toán học: thời cổ đại, môn lượng giác được thúc đẩy bởi nhu cầu đo đạc lại đất đai ở Ai Cập sau khi những trận lũ sông Nile lặp đi lặp lại xoá mất ranh giới giữa đất của các chủ khác nhau. Đó là một kiểu ảnh hưởng.
+
+Một kiểu ảnh hưởng trực tiếp hơn được những người tin rằng Đại suy thoái thập niên 1930 đã sinh ra kinh tế học Keynes giả định. Nhưng dù Đại suy thoái có gợi cảm hứng cho tư duy của Keynes và cho việc các nhà kinh tế khắp thế giới chấp nhận nó, thì đó có phải là cách điển hình mà kinh tế học, chưa nói tới tư tưởng ở các lĩnh vực khác, đã tiến hoá trong lịch sử không? Sowell đưa ra các phản ví dụ:
 
 | Trường hợp | Hoàn cảnh có "sinh ra" tư tưởng không? |
 |---|---|
@@ -1158,7 +1234,9 @@ Nhà kinh tế đoạt giải Nobel George Stigler chỉ ra rằng những sự 
 
 Dù nguồn gốc ra sao và ảnh hưởng hay chịu ảnh hưởng từ sự kiện bên ngoài đến đâu, kinh tế học xét cho cùng là nghiên cứu một phần lâu dài của thân phận con người. Giá trị của nó nằm ở đóng góp vào sự hiểu biết của chúng ta về một tập điều kiện cụ thể: việc phân bổ các nguồn lực khan hiếm có nhiều công dụng thay thế. Đáng tiếc là rất ít hiểu biết trong giới kinh tế tới được người công dân và cử tri bình thường, khiến chính trị gia được tự do làm những việc sẽ không bao giờ được dung thứ nếu đa số người dân hiểu kinh tế học như Alfred Marshall đã hiểu một thế kỷ trước hay David Ricardo hai thế kỷ trước.
 
-Về câu hỏi các nhà kinh tế hôm nay có thể đóng góp gì, trong giới có những đánh giá rất khác nhau. Kinh tế học từ lâu bị gọi là "khoa học ảm đạm" (the dismal science) bởi những người khó chịu vì các nhà kinh tế chọc thủng những lý thuyết xã hội và đề xuất chính sách nghe đầy hứa hẹn nhưng phản tác dụng. Tuy nhiên, sau các lý thuyết của Keynes, vốn đề xuất những vai trò hữu ích cho sự can thiệp của nhà nước, ở nhiều nơi xuất hiện cảm giác rằng nhà kinh tế có thể làm được nhiều hơn là đưa ra nhận thức về từng vấn đề hay cảnh báo các chính sách tham vọng mà thiếu cơ sở. Tới thập niên 1960, đã có những nhà kinh tế theo Keynes nói tới khả năng "tinh chỉnh" (fine-tune) nền kinh tế. Hai quan điểm đối lập:
+Về câu hỏi các nhà kinh tế hôm nay có thể đóng góp gì, trong giới có những đánh giá rất khác nhau. Kinh tế học từ lâu bị gọi là "khoa học ảm đạm" (the dismal science) bởi những người khó chịu vì các nhà kinh tế chọc thủng những lý thuyết xã hội và đề xuất chính sách nghe đầy hứa hẹn nhưng phản tác dụng.
+
+Tuy nhiên, sau các lý thuyết của Keynes, vốn đề xuất những vai trò hữu ích cho sự can thiệp của nhà nước, ở nhiều nơi xuất hiện cảm giác rằng nhà kinh tế có thể làm được nhiều hơn là đưa ra nhận thức về từng vấn đề hay cảnh báo các chính sách tham vọng mà thiếu cơ sở. Tới thập niên 1960, đã có những nhà kinh tế theo Keynes nói tới khả năng "tinh chỉnh" (fine-tune) nền kinh tế. Hai quan điểm đối lập:
 
 | Người phát biểu | Bối cảnh | Nội dung (diễn đạt lại) |
 |---|---|---|
@@ -1167,7 +1245,11 @@ Về câu hỏi các nhà kinh tế hôm nay có thể đóng góp gì, trong gi
 
 Chương kết thúc ở đó, không có lời bình thêm: Sowell để hai câu trích đối lập tự nói lên sự thay đổi trong cách giới kinh tế nhìn khả năng của chính mình.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một chính quyền muốn "giải quyết vấn đề" người thu nhập thấp phải vay tiêu dùng với lãi suất cao, bằng cách đặt trần lãi suất cho vay tiêu dùng ở 20%/năm. Giả sử trước đó các công ty tài chính cho 1 triệu người vay, với lãi suất từ 15% (người có thu nhập ổn định, rủi ro vỡ nợ thấp) tới 45% (người thu nhập bấp bênh, tỷ lệ vỡ nợ khoảng 15%/năm). Với nhóm rủi ro cao, nếu tỷ lệ vỡ nợ đã ngốn 15 điểm phần trăm, chi phí vốn khoảng 8% và chi phí vận hành khoảng 10%, thì cho vay ở 20% là lỗ, nên công ty ngừng cho nhóm này vay. Giả sử 400.000 người bị loại khỏi thị trường chính thức: một phần chuyển sang vay "tín dụng đen" với lãi suất cao hơn nhiều và cách đòi nợ tệ hơn, một phần mất khả năng vay khi có việc gấp. Tác động còn lan xa hơn, đúng như lý thuyết cân bằng tổng thể: công ty tài chính thu nhỏ quy mô, cắt nhân viên thu nợ và tư vấn; vốn được rút về các khoản vay an toàn hơn, làm lãi suất ở đó giảm nhẹ; người bán xe máy, điện thoại trả góp mất một phần khách hàng. "Giải pháp" cho một "vấn đề" nhìn riêng lẻ đã gây ra những hậu quả mà người đề xuất không tính tới, và người chịu thiệt nhiều nhất chính là nhóm thu nhập thấp mà chính sách muốn bảo vệ.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một chính quyền muốn "giải quyết vấn đề" người thu nhập thấp phải vay tiêu dùng với lãi suất cao, bằng cách đặt trần lãi suất cho vay tiêu dùng ở 20%/năm. Giả sử trước đó các công ty tài chính cho 1 triệu người vay, với lãi suất từ 15% (người có thu nhập ổn định, rủi ro vỡ nợ thấp) tới 45% (người thu nhập bấp bênh, tỷ lệ vỡ nợ khoảng 15%/năm).
+
+Với nhóm rủi ro cao, nếu tỷ lệ vỡ nợ đã ngốn 15 điểm phần trăm, chi phí vốn khoảng 8% và chi phí vận hành khoảng 10%, thì cho vay ở 20% là lỗ, nên công ty ngừng cho nhóm này vay. Giả sử 400.000 người bị loại khỏi thị trường chính thức: một phần chuyển sang vay "tín dụng đen" với lãi suất cao hơn nhiều và cách đòi nợ tệ hơn, một phần mất khả năng vay khi có việc gấp.
+
+Tác động còn lan xa hơn, đúng như lý thuyết cân bằng tổng thể: công ty tài chính thu nhỏ quy mô, cắt nhân viên thu nợ và tư vấn; vốn được rút về các khoản vay an toàn hơn, làm lãi suất ở đó giảm nhẹ; người bán xe máy, điện thoại trả góp mất một phần khách hàng. "Giải pháp" cho một "vấn đề" nhìn riêng lẻ đã gây ra những hậu quả mà người đề xuất không tính tới, và người chịu thiệt nhiều nhất chính là nhóm thu nhập thấp mà chính sách muốn bảo vệ.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -1293,11 +1375,15 @@ Kinh tế học hiện đại là kết quả của quá trình tích luỹ ch�
 
 ### Sức mạnh của chương là coi lịch sử kinh tế học như lịch sử của việc định nghĩa thuật ngữ
 
-Phần lớn sách nhập môn kể lịch sử kinh tế học như danh sách các vĩ nhân và học thuyết. Sowell chọn một sợi chỉ xuyên suốt khác: tiến bộ thật thường là định nghĩa lại một chữ cho chính xác. Smith định nghĩa lại "của cải", Menger và Jevons tách "tổng độ thoả dụng" khỏi "độ thoả dụng cận biên", Ricardo và Malthus tranh luận vô ích vì chưa thống nhất chữ "cầu", và nguỵ biện về thương mại ngày nay vẫn đến từ chữ "lương" được dùng cho ba thứ khác nhau. Cách kể này làm chương có ích ngay cả với người không quan tâm lịch sử: nó dạy một thói quen tư duy là hỏi "chữ này nghĩa là gì" trước khi tranh luận. Ví dụ Viner và người vẽ hình là minh hoạ đẹp cho lý do toán học giúp ích: nó buộc mọi giả định phải tương thích với nhau.
+Phần lớn sách nhập môn kể lịch sử kinh tế học như danh sách các vĩ nhân và học thuyết. Sowell chọn một sợi chỉ xuyên suốt khác: tiến bộ thật thường là định nghĩa lại một chữ cho chính xác. Smith định nghĩa lại "của cải", Menger và Jevons tách "tổng độ thoả dụng" khỏi "độ thoả dụng cận biên", Ricardo và Malthus tranh luận vô ích vì chưa thống nhất chữ "cầu", và nguỵ biện về thương mại ngày nay vẫn đến từ chữ "lương" được dùng cho ba thứ khác nhau.
+
+Cách kể này làm chương có ích ngay cả với người không quan tâm lịch sử: nó dạy một thói quen tư duy là hỏi "chữ này nghĩa là gì" trước khi tranh luận. Ví dụ Viner và người vẽ hình là minh hoạ đẹp cho lý do toán học giúp ích: nó buộc mọi giả định phải tương thích với nhau.
 
 ### Bức tranh lịch sử của Sowell có chọn lọc và nghiêng về một phía
 
-Chương là một bản lược sử rất ngắn và bỏ qua nhiều dòng tư tưởng: trường phái lịch sử Đức, phái thể chế Mỹ, lý thuyết trò chơi, kinh tế học thông tin, kinh tế học hành vi. Phần thế kỷ 20 được kể gần như chỉ qua cuộc đối đầu giữa phái Keynes và trường phái Chicago, với kết luận nghiêng rõ về Chicago (tỷ lệ giải Nobel cao bất thường, Friedman đúng về đường Phillips). Nhiều nhà sử học kinh tế sẽ bổ sung rằng sau thập niên 1970 kinh tế vĩ mô không đơn giản là "Chicago thắng": dòng "Keynes mới" (New Keynesian) đưa giá cứng nhắc và kỳ vọng hợp lý vào cùng một mô hình, và khung này trở thành chuẩn ở các ngân hàng trung ương. Nhận định của Sowell về Marx (công trình kinh tế "để lại rất ít dấu vết") cũng là một đánh giá gây tranh cãi; các nhà nghiên cứu tăng trưởng và phân phối vẫn coi Marx là người đặt ra những câu hỏi về tích luỹ vốn và chu kỳ mà kinh tế học sau này trả lời theo cách khác.
+Chương là một bản lược sử rất ngắn và bỏ qua nhiều dòng tư tưởng: trường phái lịch sử Đức, phái thể chế Mỹ, lý thuyết trò chơi, kinh tế học thông tin, kinh tế học hành vi. Phần thế kỷ 20 được kể gần như chỉ qua cuộc đối đầu giữa phái Keynes và trường phái Chicago, với kết luận nghiêng rõ về Chicago (tỷ lệ giải Nobel cao bất thường, Friedman đúng về đường Phillips).
+
+Nhiều nhà sử học kinh tế sẽ bổ sung rằng sau thập niên 1970 kinh tế vĩ mô không đơn giản là "Chicago thắng": dòng "Keynes mới" (New Keynesian) đưa giá cứng nhắc và kỳ vọng hợp lý vào cùng một mô hình, và khung này trở thành chuẩn ở các ngân hàng trung ương. Nhận định của Sowell về Marx (công trình kinh tế "để lại rất ít dấu vết") cũng là một đánh giá gây tranh cãi; các nhà nghiên cứu tăng trưởng và phân phối vẫn coi Marx là người đặt ra những câu hỏi về tích luỹ vốn và chu kỳ mà kinh tế học sau này trả lời theo cách khác.
 
 ### Ba khẳng định lịch sử trong chương cần dè dặt: Malthus là giáo sư kinh tế đầu tiên, nguồn gốc cụm laissez faire, và hình ảnh Smith chống mọi can thiệp
 
@@ -1305,11 +1391,17 @@ Câu Malthus là nhà kinh tế học đại học đầu tiên "có lẽ trên 
 
 ### Điều đã thay đổi từ 2014: kinh tế học đã làm được một phần thí nghiệm có kiểm soát
 
-Sowell viết rằng kinh tế học không thể làm thí nghiệm có kiểm soát. Điều đó còn đúng với chính sách vĩ mô (không ai thử tăng cung tiền gấp mười lần để xem), nhưng không còn đúng hoàn toàn với kinh tế học vi mô. Thí nghiệm ngẫu nhiên ngoài thực địa (chia ngẫu nhiên người dân vào nhóm được hỗ trợ và nhóm không) đã trở thành công cụ chuẩn trong kinh tế học phát triển và được trao giải Nobel năm 2019; phương pháp "thí nghiệm tự nhiên" (dùng những biến cố tình cờ chia người ta thành các nhóm như thể ngẫu nhiên) được trao giải Nobel năm 2021, và một trong những ứng dụng nổi tiếng của nó là nghiên cứu về lương tối thiểu, đi ngược một phần kết luận của Sowell ở Chương 11. Kinh tế học hành vi (giải Nobel 2002 và 2017) cũng dùng thí nghiệm trong phòng thí nghiệm để kiểm tra chính những giả định về con người duy lý mà Sowell bảo vệ ở tiểu mục "Assumptions and Analysis". Tức là thủ tục khoa học mà Sowell đề cao đã tiến xa hơn mức ông mô tả, và đôi khi cho ra kết quả không thuận với quan điểm của ông.
+Sowell viết rằng kinh tế học không thể làm thí nghiệm có kiểm soát. Điều đó còn đúng với chính sách vĩ mô (không ai thử tăng cung tiền gấp mười lần để xem), nhưng không còn đúng hoàn toàn với kinh tế học vi mô.
+
+Thí nghiệm ngẫu nhiên ngoài thực địa (chia ngẫu nhiên người dân vào nhóm được hỗ trợ và nhóm không) đã trở thành công cụ chuẩn trong kinh tế học phát triển và được trao giải Nobel năm 2019; phương pháp "thí nghiệm tự nhiên" (dùng những biến cố tình cờ chia người ta thành các nhóm như thể ngẫu nhiên) được trao giải Nobel năm 2021, và một trong những ứng dụng nổi tiếng của nó là nghiên cứu về lương tối thiểu, đi ngược một phần kết luận của Sowell ở Chương 11.
+
+Kinh tế học hành vi (giải Nobel 2002 và 2017) cũng dùng thí nghiệm trong phòng thí nghiệm để kiểm tra chính những giả định về con người duy lý mà Sowell bảo vệ ở tiểu mục "Assumptions and Analysis". Tức là thủ tục khoa học mà Sowell đề cao đã tiến xa hơn mức ông mô tả, và đôi khi cho ra kết quả không thuận với quan điểm của ông.
 
 ### Quan điểm trái chiều: tư tưởng có thể bị sự kiện định hình nhiều hơn Sowell thừa nhận
 
-Các phản ví dụ của Sowell (Newton, Smith, cách mạng cận biên) có sức thuyết phục, nhưng lịch sử gần đây có những trường hợp ngược lại. Khủng hoảng tài chính 2008 đã khiến kinh tế học vĩ mô đưa khu vực tài chính và ngân hàng vào mô hình một cách nghiêm túc hơn hẳn; lạm phát cao thập niên 1970 sinh ra cả một thế hệ lý thuyết về kỳ vọng; đại dịch 2020 thúc đẩy nghiên cứu về chuỗi cung ứng. Có thể dung hoà hai cách nhìn: sự kiện không tạo ra ý tưởng, nhưng chúng quyết định ý tưởng nào được chú ý, được tài trợ và được chấp nhận. Chính ví dụ Keynes của Sowell gợi ý điều đó: nhiều cuộc suy thoái trước 1930 không sinh ra Keynes, nhưng Đại suy thoái là lý do *Lý thuyết tổng quát* trở thành chính thống chỉ trong khoảng mười năm. Hai câu trích đối lập của Heller và Friedman ở cuối chương cũng cho thấy cách giới kinh tế nhìn khả năng của mình đã đổi theo sự kiện thập niên 1970.
+Các phản ví dụ của Sowell (Newton, Smith, cách mạng cận biên) có sức thuyết phục, nhưng lịch sử gần đây có những trường hợp ngược lại. Khủng hoảng tài chính 2008 đã khiến kinh tế học vĩ mô đưa khu vực tài chính và ngân hàng vào mô hình một cách nghiêm túc hơn hẳn; lạm phát cao thập niên 1970 sinh ra cả một thế hệ lý thuyết về kỳ vọng; đại dịch 2020 thúc đẩy nghiên cứu về chuỗi cung ứng.
+
+Có thể dung hoà hai cách nhìn: sự kiện không tạo ra ý tưởng, nhưng chúng quyết định ý tưởng nào được chú ý, được tài trợ và được chấp nhận. Chính ví dụ Keynes của Sowell gợi ý điều đó: nhiều cuộc suy thoái trước 1930 không sinh ra Keynes, nhưng Đại suy thoái là lý do *Lý thuyết tổng quát* trở thành chính thống chỉ trong khoảng mười năm. Hai câu trích đối lập của Heller và Friedman ở cuối chương cũng cho thấy cách giới kinh tế nhìn khả năng của mình đã đổi theo sự kiện thập niên 1970.
 
 ### Vận dụng: trước một lập luận kinh tế, hỏi nó dùng định nghĩa nào và đã được kiểm định bằng dự đoán chưa
 
@@ -1317,3 +1409,175 @@ Các phản ví dụ của Sowell (Newton, Smith, cách mạng cận biên) có 
 - **Trong đầu tư.** Tách nguyên lý với dự báo: nguyên lý (in tiền nhiều thì giá tăng, kiểm soát giá gây thiếu hụt) đáng tin cậy, còn dự báo thời điểm và mức độ (lạm phát quý tới, lãi suất năm sau) thì sai số lớn như dự báo thời tiết một tuần. Cẩn trọng với những người hứa "tinh chỉnh" kết quả, như lời cảnh báo của Friedman, và nhớ rằng đường Phillips từng được coi là quy luật vững chắc trước khi sụp đổ trong thập niên 1970.
 - **Trong nghề nghiệp.** Người làm phân tích nên học cách định nghĩa rõ thuật ngữ trước khi tranh luận, và trình bày lập luận ở dạng có thể kiểm tra (bảng số, mô hình đơn giản) để lộ ra các giả định mâu thuẫn, như trường hợp đường chi phí của Viner. Đánh giá một mô hình theo độ chính xác của dự đoán, như ví dụ Ashenfelter đoán giá rượu vang giỏi hơn chuyên gia nếm rượu, chứ không theo độ tinh tế bề ngoài.
 - **Khi đọc tin chính sách.** Ở Việt Nam, những cụm như "xuất siêu là thành tích", "nhập siêu là đáng lo" thường xuất hiện trong bản tin thương mại; đó chính là di sản của phái trọng thương mà Sowell mô tả, nên cần hỏi thêm xuất siêu hay nhập siêu đó gắn với đầu tư, tiết kiệm và nhập khẩu máy móc ra sao trước khi kết luận tốt hay xấu. Khi có đề xuất áp trần lãi suất, trần giá hay chống "đẩy giá", hãy hỏi chính sách đã tính tới tác động lan toả sang những ai, và dùng định nghĩa nào cho những chữ như "giá hợp lý" hay "lương thấp".
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 26 trên một trang: sáu nhánh lớn đi theo các mục 1–14 trong phần Nội dung chi tiết (kinh tế học trước Smith và phái trọng thương, kinh tế học cổ điển của Smith, Ricardo và định luật Say, kinh tế học thành nghề cùng cuộc cách mạng cận biên và lý thuyết cân bằng, Keynes và kinh tế học sau Keynes, kinh tế học là khoa học theo nghĩa nào, sự kiện và tư tưởng), mỗi nhánh ghi luận điểm, ví dụ lịch sử và các mốc năm then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 26: kinh tế học hiện đại là nhiều thế hệ mò mẫm định nghĩa thuật ngữ, và là khoa học nhờ thủ tục kiểm định chung`"]
+  n1["`Mục 1–2 — Trước Smith: từ giá công bằng tới phái trọng thương`"]
+  n0 --- n1
+  n2["`Kinh tế học hiện đại thường tính từ 1776, nhưng Xenophon đã phân tích chính sách kinh tế Athens hơn 2.000 năm trước`"]
+  n1 --- n2
+  n3["`Aquinas: bán đắt hơn giá mua là hợp pháp khi người bán cải thiện hàng, chịu rủi ro hay tốn chi phí vận chuyển`"]
+  n1 --- n3
+  n4["`Quan niệm giá công bằng còn sống trong khái niệm đẩy giá cắt cổ, gây xúc động nhưng không có định nghĩa kiểm chứng được`"]
+  n1 --- n4
+  n5["`Phái trọng thương thế kỷ 16–18 coi vàng là của cải, muốn xuất siêu để vàng chảy vào`"]
+  n1 --- n5
+  n6["`Mục tiêu là sức mạnh quốc gia so với nước khác, không phải mức sống của toàn dân`"]
+  n5 --- n6
+  n7["`Thomas Mun 1664: quy tắc số một là mỗi năm bán cho người nước ngoài nhiều hơn giá trị hàng của họ mà ta tiêu dùng`"]
+  n5 --- n7
+  n8["`Hệ quả: ép lương để hàng xuất khẩu rẻ, chấp nhận đế quốc và nô lệ, nô lệ không được tính là quốc gia (Steuart 1767)`"]
+  n5 --- n8
+  n9["`Di sản còn tới nay: gọi xuất siêu là cán cân thương mại thuận lợi, dù không bên nào tự nó có lợi hơn`"]
+  n1 --- n9
+  n10["`Mục 3–5 — Kinh tế học cổ điển: Smith, Ricardo, định luật Say`"]
+  n0 --- n10
+  n11["`Smith 1776: của cải là hàng hoá và dịch vụ quyết định mức sống của toàn dân, không phải vàng`"]
+  n10 --- n11
+  n12["`Mọi nước có thể cùng thịnh vượng, trọng tâm là tạo ra của cải chứ không chuyển của cải theo kiểu tổng bằng không`"]
+  n11 --- n12
+  n13["`Laissez faire thời đó là học thuyết chống nhà nước ban đặc ân cho thương nhân và chủ xưởng`"]
+  n11 --- n13
+  n14["`Smith phản đối đế quốc vì hạm đội và quân đội tốn hơn thu về, phản đối nô lệ vì kém hiệu quả và đáng ghê tởm`"]
+  n11 --- n14
+  n15["`Kinh tế học cổ điển coi tiền là tấm màn, dù hiểu cung tiền co lại làm giảm sản xuất và tăng thất nghiệp một thời gian`"]
+  n10 --- n15
+  n16["`Ricardo 1817: tác phẩm kinh điển đầu tiên tách nguyên lý lâu dài khỏi bình luận, người xây lý thuyết lợi thế so sánh`"]
+  n10 --- n16
+  n17["`Ricardo viết cho Malthus năm 1814: đôi khi tôi ngờ chúng ta không hiểu chữ cầu theo cùng một nghĩa`"]
+  n16 --- n17
+  n18["`Phân tích cung và cầu học trong một tuần đã mất ít nhất một thế kỷ mới thành hình`"]
+  n16 --- n18
+  n19["`Định luật Say: sản xuất tạo ra thu nhập đủ mua chính sản lượng đó, cung tạo ra cầu của chính nó`"]
+  n10 --- n19
+  n20["`Say: nước Pháp mua bán lượng hàng gấp 5–6 lần thời vua Charles VI`"]
+  n19 --- n20
+  n21["`Định luật không loại trừ việc người ta tạm không chi hết sức mua, chỉ bác nỗi sợ sản xuất nhiều tới mức không mua hết`"]
+  n19 --- n21
+  n22["`Mục 6–8 — Kinh tế học hiện đại: thành nghề, cách mạng cận biên, cân bằng`"]
+  n0 --- n22
+  n23["`Smith là giáo sư triết, Ricardo là nhà môi giới chứng khoán nghỉ hưu, Malthus thành giáo sư kinh tế năm 1805`"]
+  n22 --- n23
+  n24["`Mốc chuyên nghiệp hoá ở Harvard: giáo sư kinh tế đầu tiên 1871, tiến sĩ 1875, Quarterly Journal of Economics 1886`"]
+  n23 --- n24
+  n25["`Cournot phân tích bằng toán năm 1838 nhưng bị quên, gần một thế kỷ sau mới được phát triển lại`"]
+  n23 --- n25
+  n26["`Nghịch lý nước và kim cương: nước hữu ích hơn mà rẻ hơn, nên Smith bác thuyết giá trị theo độ thoả dụng`"]
+  n22 --- n26
+  n27["`Menger và Jevons 1871: độ thoả dụng là chủ quan và thay đổi theo lượng người đó đã có`"]
+  n26 --- n27
+  n28["`Thêm một carat kim cương có độ thoả dụng cận biên lớn hơn thêm một gallon nước, nên đắt hơn`"]
+  n26 --- n28
+  n29["`Menger viết toàn bằng lời, Jevons dùng đồ thị và vi phân: toán học có ích nhưng không bắt buộc`"]
+  n26 --- n29
+  n30["`Marshall 1890: cãi giá do độ thoả dụng hay chi phí quyết định vô lý như cãi lưỡi kéo nào cắt tờ giấy`"]
+  n22 --- n30
+  n31["`Giá do cung và cầu cùng quyết định: kinh tế học tân cổ điển, sách ra tám ấn bản khi Marshall còn sống`"]
+  n30 --- n31
+  n32["`Học cân bằng để hiểu lúc không cân bằng, như nước tìm về mặt phẳng qua sóng và thuỷ triều`"]
+  n22 --- n32
+  n33["`Cân bằng tổng thể của Walras: Fed tăng lãi suất kéo giá nhà, tiết kiệm, doanh số ô tô cùng thay đổi`"]
+  n32 --- n33
+  n34["`Trần lãi suất làm giảm số khoản vay và loại người thu nhập thấp nhiều nhất`"]
+  n32 --- n34
+  n35["`Mục 9–10 — Keynes và kinh tế học sau Keynes`"]
+  n0 --- n35
+  n36["`Lý thuyết tổng quát 1936 ra đời từ Đại suy thoái, khi tới một phần tư công nhân Mỹ thất nghiệp`"]
+  n35 --- n36
+  n37["`Keynes thêm câu hỏi về những thời kỳ lao động và vốn không được phân bổ vào đâu cả`"]
+  n35 --- n37
+  n38["`Lý lẽ can thiệp: chi tiêu chính phủ khôi phục toàn dụng nhanh hơn, chấp nhận rủi ro lạm phát`"]
+  n35 --- n38
+  n39["`New Deal là quyết định ứng biến, không dựa trên lý thuyết có hệ thống như của Keynes`"]
+  n35 --- n39
+  n40["`Đường Phillips: nhà hoạch định chọn tổ hợp thất nghiệp và lạm phát như chọn món trong thực đơn`"]
+  n35 --- n40
+  n41["`Trường phái Chicago: thị trường hợp lý và nhanh nhạy hơn, chính phủ kém hơn phái Keynes giả định`"]
+  n35 --- n41
+  n42["`Thập niên 1970 lạm phát và thất nghiệp cùng tăng, Friedman đoạt Nobel năm 1976`"]
+  n41 --- n42
+  n43["`Friedman: giờ chúng ta đều là người theo Keynes, và không ai còn là người theo Keynes nữa`"]
+  n41 --- n43
+  n44["`Người tiên phong hiếm khi hoàn chỉnh: Samuel Bailey diễn đạt vài điểm của Ricardo rõ hơn chính Ricardo`"]
+  n35 --- n44
+  n45["`Mục 11–13 — Kinh tế học là khoa học theo nghĩa nào`"]
+  n0 --- n45
+  n46["`Khoa học không phải nhất trí ngay mà là có thủ tục chung giải quyết bất đồng khi đủ dữ liệu`"]
+  n45 --- n46
+  n47["`Phái Keynes và phái Chicago thiên kiến ngược nhau vẫn cùng bác bỏ đường Phillips khi thêm dữ liệu`"]
+  n46 --- n47
+  n48["`Chữ lương dùng lẫn cho mức lương giờ, tổng thu nhập và chi phí lao động trên mỗi đơn vị sản phẩm`"]
+  n46 --- n48
+  n49["`Toán học làm lỗi khó giấu: bộ đường chi phí năm 1931 của Viner không thể vẽ được`"]
+  n46 --- n49
+  n50["`Không làm được thí nghiệm có kiểm soát nên giống khí tượng học: nguyên lý vững, dự báo sự kiện cụ thể khó`"]
+  n45 --- n50
+  n51["`Chưa chính phủ nào tăng cung tiền gấp 10 lần trong một năm mà giá không tăng`"]
+  n50 --- n51
+  n52["`Kiểm soát giá gây thiếu hụt, chợ đen ở La Mã thời Diocletian, Paris thời Cách mạng, nhà thuê New York`"]
+  n50 --- n52
+  n53["`Giản đơn quá mức là câu hỏi thực nghiệm: Ashenfelter đoán giá rượu vang bằng thời tiết giỏi hơn chuyên gia`"]
+  n45 --- n53
+  n54["`Kinh tế học bàn kết quả của hệ thống, không phải ý định cá nhân: Marx, Smith, Engels đều thấy vậy`"]
+  n45 --- n54
+  n55["`Schumpeter: thiên kiến của Smith và Marx ảnh hưởng rất ít tới phần phân tích, bênh vực không có nghĩa là nói dối`"]
+  n45 --- n55
+  n56["`Mục 14 — Sự kiện và tư tưởng`"]
+  n0 --- n56
+  n57["`Keynes: những người thực tế thường là nô lệ của một nhà kinh tế nào đó đã khuất`"]
+  n56 --- n57
+  n58["`Tư tưởng ảnh hưởng qua niềm tin chung, nên phái trọng thương vẫn sống nhiều thế kỷ sau khi Smith bác bỏ`"]
+  n56 --- n58
+  n59["`Phản ví dụ: Newton không cần đồ vật rơi nhiều hơn, Smith đòi tự do khi thị trường bị can thiệp tràn lan`"]
+  n56 --- n59
+  n60["`Nhiều cuộc suy thoái trước 1930 không sinh ra Keynes nào, Stigler: chiến tranh có thể không đặt câu hỏi lý thuyết mới`"]
+  n56 --- n60
+  n61["`Heller thập niên 1960 tin kinh tế học giao được hàng, Friedman cảnh báo nhà kinh tế hứa nhiều hơn khả năng`"]
+  n56 --- n61
+  n62["`Thông điệp xuyên suốt`"]
+  n0 --- n62
+  n63["`Trước khi tranh luận, thống nhất định nghĩa: của cải, cầu, độ thoả dụng, lương`"]
+  n62 --- n63
+  n64["`Đánh giá lý thuyết bằng độ chính xác của dự đoán, không bằng vẻ hợp lý hay tinh tế`"]
+  n62 --- n64
+  n65["`Mọi giải pháp cho một vấn đề riêng lẻ phải xét tác động lan toả khắp nền kinh tế`"]
+  n62 --- n65
+  n66["`Hiểu biết kinh tế của cử tri hạn chế những chính sách chính trị gia chỉ dám làm khi dân không hiểu`"]
+  n62 --- n66
+  class n0 root
+  class n1,n10,n22,n35,n45,n56,n62 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n57,n58,n59,n60,n61,n63,n64,n65,n66 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần VII "Special Economic Issues" (Các vấn đề kinh tế đặc biệt), Chương 26.
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford. Sowell cũng là một nhà nghiên cứu lịch sử tư tưởng kinh tế; ông nhiều lần dẫn cuốn *On Classical Economics* (Về kinh tế học cổ điển, 2006) của chính mình trong các chú thích của chương này.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Hai mươi lăm chương trước dùng kinh tế học để phân tích giá cả, doanh nghiệp, lao động, đầu tư, nền kinh tế quốc gia và quốc tế, rồi ở Phần VII gỡ các huyền thoại về thị trường (Chương 24) và bàn về các giá trị "phi kinh tế" (Chương 25).
+
+Chương 26 lùi lại một bước và hỏi: những công cụ mà người đọc đã dùng suốt cuốn sách (cung và cầu, độ thoả dụng cận biên, cân bằng, lợi thế so sánh, tổng cầu) từ đâu ra, ai nghĩ ra, và mất bao lâu mới thành hình? Chương này cũng trả lời hai câu hỏi người đọc hay đặt ra: kinh tế học có phải là khoa học hay chỉ là ý kiến và thiên kiến, và tư tưởng kinh tế ảnh hưởng tới sự kiện hay bị sự kiện định hình.
+
+Nhiều ý trong chương nối lại các chương trước: chuyện cán cân thương mại "thuận lợi" (Chương 21), định luật Say và Đại suy thoái (Chương 16, 17), kiểm soát giá (Chương 3), trần lãi suất (Chương 13), câu hỏi thế nào là "giản đơn quá mức" (Chương 4). Chương 27 (Parting Thoughts, Lời kết) khép lại cuốn sách.
+
+## Lưu ý
+
+- Sách viết khoảng 2013–2014, nhưng chương này gần như không có số liệu thời sự; các mốc thời gian là lịch sử (từ Xenophon tới giải Nobel của Milton Friedman năm 1976 và các giải Nobel thập niên 1990).
+- Từ 2014 một số điều Sowell nói đã thay đổi hoặc cần bổ sung, chỉ nêu định tính: kinh tế học ngày nay làm được thí nghiệm có kiểm soát ở một mức độ (thí nghiệm ngẫu nhiên ngoài thực địa, thí nghiệm trong phòng thí nghiệm) và dùng rộng rãi "thí nghiệm tự nhiên", một hướng đã được trao giải Nobel năm 2019 và 2021; chính sách kiểu Keynes (kích thích tài khoá lớn) quay lại mạnh sau khủng hoảng 2008 và trong đại dịch 2020; tranh luận về đường Phillips vẫn tiếp tục.
+- Chương có **13 chú thích chân trang** của Sowell (đánh số La Mã xxxvii đến xlix trong sách), tất cả được đưa vào phần Nội dung chi tiết, ghi rõ "Chú thích của Sowell", tại: mục 3 (xxxvii, về tiền), mục 4 (xxxviii, về Ricardo; xxxix, về chữ "cầu"), mục 5 (xl, về tranh cãi quanh định luật Say), mục 7 (xli, về Marx; xlii, về sách của Marshall), mục 8 (xliii, về trần lãi suất), mục 9 (xliv, câu của Keynes năm 1930), mục 11 (xlv, về hệ tư tưởng; xlvi, về chữ "lương"), mục 12 (xlvii, về giá rượu vang), mục 13 (xlviii, Marx về nhà tư bản) và mục 14 (xlix, cuốn sách 900 trang); các chú thích có ý quan trọng cũng được ghi vắn tắt trong khối sơ đồ tương ứng.
+- Hai chỗ người tổng hợp nghi ngờ: Sowell gọi Malthus (được bổ nhiệm năm 1805) là nhà kinh tế học giảng dạy đại học đầu tiên "có lẽ trên thế giới", nhưng Antonio Genovesi đã giữ một ghế giảng dạy về thương mại và kinh tế ở Naples từ năm 1754, và các trường đại học Đức có ghế giảng dạy "khoa học quản trị nhà nước" (cameralism) từ thập niên 1720; cụm *laissez faire* thường được gắn với Vincent de Gournay, người gần gũi chứ không hẳn thuộc phái Trọng nông.
+- Các câu trích là bản dịch của người tổng hợp.

@@ -1,11 +1,16 @@
 # Chương 20 — Các vấn đề đặc biệt của nền kinh tế quốc gia (Special Problems in the National Economy)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần V (The National Economy), Chương 20.
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
-**Vị trí trong lập luận của cả cuốn sách:** Đây là chương khép lại Phần V về nền kinh tế quốc gia. Chương 16 bàn về cách đo sản lượng quốc gia, Chương 17 về tiền và hệ thống ngân hàng, Chương 18 về các chức năng của chính phủ, Chương 19 về tài chính của chính phủ (thuế, chi tiêu, nợ công). Chương 20 gom lại những vấn đề nằm giữa kinh tế và chính trị mà các chương trước chưa giải quyết hết: việc nào nên để chính phủ làm và việc nào nên để thị trường làm, chính phủ có nên "làm gì đó" khi kinh tế suy thoái, các nghĩa vụ chi tiêu trong tương lai mà chính phủ đã cam kết (nhất là lương hưu), và việc so sánh thất bại thị trường với thất bại của chính phủ. Sau chương này, Phần VI chuyển sang nền kinh tế quốc tế, bắt đầu bằng Chương 21 về thương mại quốc tế; Smoot-Hawley, đạo luật thuế quan được nhắc trong chương này, sẽ được bàn lại ở đó.
-**Ý chính:** Sowell muốn người đọc hiểu rằng muốn đánh giá một chính sách kinh tế thì phải hiểu cả quá trình chính trị, và phải so sánh chính phủ và thị trường như chúng **thực sự vận hành** dưới các động cơ khuyến khích và ràng buộc của mỗi bên, chứ không như chúng **nên** vận hành trên lý thuyết. Ông đưa ra bốn nhóm ví dụ trung tâm. Thứ nhất, cuộc Đại suy thoái: trong 12 tháng đầu sau cú sập chứng khoán 1929, chưa tháng nào thất nghiệp lên tới 10%, nhưng sau hàng loạt can thiệp chưa từng có của chính phủ (bắt đầu từ thuế quan Smoot-Hawley năm 1930) thì vượt 20% suốt 35 tháng liền; trong khi đó năm 1921 Tổng thống Harding không làm gì, và thất nghiệp giảm từ 11,7% xuống 2,4% trong hai năm. Thứ hai, hệ thống lương hưu công như Social Security của Mỹ được gọi là "bảo hiểm xã hội" nhưng không tạo ra của cải nào: tiền đóng của người đang làm việc được dùng ngay để trả cho người đã nghỉ hưu, nên hệ thống gặp khủng hoảng khi tỷ lệ người đóng trên người hưởng giảm. Thứ ba, ngân hàng Ấn Độ sau khi quốc hữu hoá năm 1969: nợ khó đòi lên tới 20% dư nợ. Thứ tư, máy bay Concorde và đường hầm eo biển Manche: chính phủ khó thừa nhận sai lầm hơn doanh nghiệp, vì chi phí sai lầm do người nộp thuế trả còn chi phí thừa nhận sai lầm do chính trị gia trả.
+## Ý chính
 
-> **Lưu ý:** Ấn bản thứ năm có bản quyền năm 2015, nội dung viết khoảng 2013–2014; nhiều số liệu trong chương còn cũ hơn (nợ công của Ý năm 2006, Long Island Rail Road năm 2007, đường hầm eo biển Manche năm 2004). Một số chi tiết đã thay đổi từ đó: thời hạn trợ cấp thất nghiệp 99 tuần ở Mỹ là chương trình khẩn cấp thời suy thoái và đã chấm dứt vào cuối năm 2013, nên thời hạn trở về mức thông thường khoảng 26 tuần ở phần lớn các bang; số người nhận trợ cấp khuyết tật của Social Security đạt đỉnh vào giữa thập niên 2010 rồi giảm dần; Brazil đã cải cách hệ thống lương hưu năm 2019 (đặt tuổi nghỉ hưu tối thiểu); Ý đã nâng tuổi nghỉ hưu nhiều lần sau năm 2011, cao hơn nhiều so với mức 59 tuổi Sowell nêu; công ty vận hành đường hầm eo biển Manche đã tái cơ cấu nợ năm 2007 và sau đó có lãi; lạm phát ở Mỹ bùng lên trở lại sau đại dịch COVID-19, khiến nhận định "lạm phát 2% là không đáng kể" của chương chỉ đúng với giai đoạn đến khi sách viết. Con số "hơn 500 tỷ USD" thua lỗ của các hiệp hội tiết kiệm và cho vay là một ước tính ở mức cao; các ước tính chính thức về phần chi phí người nộp thuế phải gánh thường thấp hơn nhiều. Chương này **không có chú thích chân trang có nội dung** (dấu số La Mã) nào của Sowell; mọi dấu chú thích trong chương đều là chú thích nguồn trích dẫn (endnote), nên đã bỏ qua theo quy ước. Sowell dẫn lời nhiều người không nêu tên (một tác giả Ấn Độ, một doanh nhân Ấn Độ, một thống đốc Cục Dự trữ Liên bang); bản tổng hợp giữ nguyên như vậy, không đoán tên. Các câu trích là bản dịch của người tổng hợp.
+Sowell muốn người đọc hiểu rằng muốn đánh giá một chính sách kinh tế thì phải hiểu cả quá trình chính trị, và phải so sánh chính phủ và thị trường như chúng **thực sự vận hành** dưới các động cơ khuyến khích và ràng buộc của mỗi bên, chứ không như chúng **nên** vận hành trên lý thuyết.
+
+Ông đưa ra bốn nhóm ví dụ trung tâm. Thứ nhất, cuộc Đại suy thoái: trong 12 tháng đầu sau cú sập chứng khoán 1929, chưa tháng nào thất nghiệp lên tới 10%, nhưng sau hàng loạt can thiệp chưa từng có của chính phủ (bắt đầu từ thuế quan Smoot-Hawley năm 1930) thì vượt 20% suốt 35 tháng liền. Trong khi đó năm 1921 Tổng thống Harding không làm gì, và thất nghiệp giảm từ 11,7% xuống 2,4% trong hai năm.
+
+Thứ hai, hệ thống lương hưu công như Social Security của Mỹ được gọi là "bảo hiểm xã hội" nhưng không tạo ra của cải nào: tiền đóng của người đang làm việc được dùng ngay để trả cho người đã nghỉ hưu, nên hệ thống gặp khủng hoảng khi tỷ lệ người đóng trên người hưởng giảm.
+
+Thứ ba, ngân hàng Ấn Độ sau khi quốc hữu hoá năm 1969: nợ khó đòi lên tới 20% dư nợ.
+
+Thứ tư, máy bay Concorde và đường hầm eo biển Manche: chính phủ khó thừa nhận sai lầm hơn doanh nghiệp, vì chi phí sai lầm do người nộp thuế trả còn chi phí thừa nhận sai lầm do chính trị gia trả.
 
 ## Sơ đồ
 
@@ -569,7 +574,11 @@ Sowell tóm lại: đầu cơ chỉ là một khía cạnh của kinh tế thị
 
 **Chính phủ không phải một khối.** Sowell cho rằng người ta hay coi chính phủ là một người ra quyết định duy nhất, hoặc là hiện thân của lợi ích công. Thực tế các bộ phận khác nhau trong chính phủ phục vụ các nhóm bên ngoài khác nhau, nên thường chống nhau, lại còn va chạm về thẩm quyền. Nhiều việc quan chức làm, theo đúng động cơ và ràng buộc của vị trí họ, bị người ngoài gọi là "phi lý"; nhưng theo Sowell, những việc đó thường hợp lý hơn chính giả định rằng quan chức đại diện cho lợi ích công.
 
-**Chính trị gia "giải cứu" các nhóm.** Chính trị gia thích ra tay cứu những ngành, nghề, giai cấp, nhóm chủng tộc hay sắc tộc mà họ trông chờ phiếu bầu hay tiền ủng hộ, rồi trình bày lợi ích cho nhóm đó như lợi ích ròng cho cả nước. Xu hướng này có ở các nền dân chủ hiện đại khắp thế giới. Sowell dẫn một tác giả Ấn Độ: chính trị gia không dám tư nhân hoá khu vực công khổng lồ đang thua lỗ vì sợ mất phiếu của lao động có tổ chức; không dám bỏ trợ cấp điện, phân bón và nước vì sợ mất phiếu nông dân; không động tới trợ cấp lương thực vì phiếu của đông đảo người nghèo; không bỏ hàng nghìn thanh tra ở chính quyền các bang, những người liên tục quấy nhiễu doanh nghiệp tư nhân, vì sợ mất "kho phiếu" của công chức. Các khoản ban phát đó tàn phá tài chính các bang và làm thâm hụt ngân sách thêm tồi tệ; nếu không kiểm soát được thâm hụt, đất nước sẽ không cạnh tranh hơn được và tăng trưởng không lên được 8–9%, mức cần để tạo việc làm và giúp đa số người dân phát huy năng lực trong thời gian tương đối ngắn.
+**Chính trị gia "giải cứu" các nhóm.** Chính trị gia thích ra tay cứu những ngành, nghề, giai cấp, nhóm chủng tộc hay sắc tộc mà họ trông chờ phiếu bầu hay tiền ủng hộ, rồi trình bày lợi ích cho nhóm đó như lợi ích ròng cho cả nước. Xu hướng này có ở các nền dân chủ hiện đại khắp thế giới.
+
+Sowell dẫn một tác giả Ấn Độ: chính trị gia không dám tư nhân hoá khu vực công khổng lồ đang thua lỗ vì sợ mất phiếu của lao động có tổ chức; không dám bỏ trợ cấp điện, phân bón và nước vì sợ mất phiếu nông dân; không động tới trợ cấp lương thực vì phiếu của đông đảo người nghèo; không bỏ hàng nghìn thanh tra ở chính quyền các bang, những người liên tục quấy nhiễu doanh nghiệp tư nhân, vì sợ mất "kho phiếu" của công chức.
+
+Các khoản ban phát đó tàn phá tài chính các bang và làm thâm hụt ngân sách thêm tồi tệ; nếu không kiểm soát được thâm hụt, đất nước sẽ không cạnh tranh hơn được và tăng trưởng không lên được 8–9%, mức cần để tạo việc làm và giúp đa số người dân phát huy năng lực trong thời gian tương đối ngắn.
 
 Sowell cho rằng vấn đề có thể đặc biệt gay gắt ở Ấn Độ nhưng không chỉ có ở đó:
 
@@ -578,7 +587,9 @@ Sowell cho rằng vấn đề có thể đặc biệt gay gắt ở Ấn Độ n
 | Mỹ, 2002 | Quốc hội thông qua luật trợ cấp nông nghiệp với sự ủng hộ của cả hai đảng; ước tính làm mỗi gia đình Mỹ trung bình tốn hơn 4.000 USD vì giá thực phẩm bị đẩy lên trong 10 năm sau đó |
 | Brazil | Lương hưu của nhân viên nhà nước hào phóng tới mức họ nghỉ hưu với điều kiện kinh tế tốt hơn lúc còn đi làm, gây ra những vấn đề tài chính khổng lồ |
 
-**Áp lực phải "làm gì đó".** Một áp lực lên mọi chính phủ, nhất là chính phủ dân cử, là phải "làm gì đó", kể cả khi không có gì làm được để cải thiện tình hình mà có nhiều việc có thể làm tệ hơn. Quá trình kinh tế cần thời gian, nhưng chính trị gia có thể không chịu chờ, nhất là khi đối thủ đang hứa giải pháp nhanh, như kiểm soát giá và lương thời Nixon hay hạn chế thương mại quốc tế trong Đại suy thoái thập niên 1930. Trong thế kỷ 21, theo Sowell, gần như không chính phủ Mỹ nào dám để một cuộc suy thoái tự kết thúc, điều mà chính phủ Mỹ đã làm suốt hơn 150 năm trước Đại suy thoái, khi Tổng thống Herbert Hoover (Cộng hòa) rồi Tổng thống Franklin D. Roosevelt (Dân chủ) can thiệp ở quy mô chưa từng có. Ngày nay người ta coi là hiển nhiên rằng chính phủ phải làm gì đó khi kinh tế đi xuống, và rất hiếm ai so sánh điều thực sự xảy ra khi chính phủ làm gì đó với điều đã xảy ra khi chính phủ không làm gì.
+**Áp lực phải "làm gì đó".** Một áp lực lên mọi chính phủ, nhất là chính phủ dân cử, là phải "làm gì đó", kể cả khi không có gì làm được để cải thiện tình hình mà có nhiều việc có thể làm tệ hơn. Quá trình kinh tế cần thời gian, nhưng chính trị gia có thể không chịu chờ, nhất là khi đối thủ đang hứa giải pháp nhanh, như kiểm soát giá và lương thời Nixon hay hạn chế thương mại quốc tế trong Đại suy thoái thập niên 1930.
+
+Trong thế kỷ 21, theo Sowell, gần như không chính phủ Mỹ nào dám để một cuộc suy thoái tự kết thúc, điều mà chính phủ Mỹ đã làm suốt hơn 150 năm trước Đại suy thoái, khi Tổng thống Herbert Hoover (Cộng hòa) rồi Tổng thống Franklin D. Roosevelt (Dân chủ) can thiệp ở quy mô chưa từng có. Ngày nay người ta coi là hiển nhiên rằng chính phủ phải làm gì đó khi kinh tế đi xuống, và rất hiếm ai so sánh điều thực sự xảy ra khi chính phủ làm gì đó với điều đã xảy ra khi chính phủ không làm gì.
 
 ### 3. Cuộc Đại suy thoái (The Great Depression)
 
@@ -619,11 +630,17 @@ Sowell thừa nhận các trường hợp này không phải thí nghiệm có �
 | Thập niên 1960 và 1970 | William McChesney Martin, rồi Arthur F. Burns | Dự báo thấp hơn mức lạm phát thực tế đang hình thành |
 | Giai đoạn sau đó | Paul Volcker, rồi Alan Greenspan | Dự báo cao hơn mức lạm phát thực tế |
 
-**Thành công vẫn đầy bất định.** Lạm phát ở Mỹ giảm từ mức nguy hiểm 13% mỗi năm (1979) xuống mức không đáng kể 2% (2003). Nhưng thành công đó đạt được qua một chuỗi biện pháp tiền tệ thử và sai, có cái hiệu quả, có cái không, và cái nào cũng gây hậu quả đau đớn cho doanh nghiệp và người lao động. Khi Fed thắt chặt tiền và tín dụng đầu thập niên 1980 để kiềm lạm phát, thất nghiệp tăng, còn phá sản và doanh nghiệp đóng cửa lên mức chưa thấy trong nhiều thập kỷ. Chủ tịch Fed Paul Volcker bị báo chí bôi xấu, uy tín của Tổng thống Reagan tụt mạnh trong các cuộc thăm dò vì ủng hộ Volcker. Volcker ít ra có lợi thế mà Burns không có: Nhà Trắng ủng hộ ông. Nhưng ngay cả những người tin chính sách của Fed là đúng cũng không biết phải mất bao lâu mới có kết quả, hay Quốc hội có hết kiên nhẫn và ra luật hạn chế quyền độc lập của Fed trước đó không.
+**Thành công vẫn đầy bất định.** Lạm phát ở Mỹ giảm từ mức nguy hiểm 13% mỗi năm (1979) xuống mức không đáng kể 2% (2003). Nhưng thành công đó đạt được qua một chuỗi biện pháp tiền tệ thử và sai, có cái hiệu quả, có cái không, và cái nào cũng gây hậu quả đau đớn cho doanh nghiệp và người lao động.
+
+Khi Fed thắt chặt tiền và tín dụng đầu thập niên 1980 để kiềm lạm phát, thất nghiệp tăng, còn phá sản và doanh nghiệp đóng cửa lên mức chưa thấy trong nhiều thập kỷ. Chủ tịch Fed Paul Volcker bị báo chí bôi xấu, uy tín của Tổng thống Reagan tụt mạnh trong các cuộc thăm dò vì ủng hộ Volcker. Volcker ít ra có lợi thế mà Burns không có: Nhà Trắng ủng hộ ông. Nhưng ngay cả những người tin chính sách của Fed là đúng cũng không biết phải mất bao lâu mới có kết quả, hay Quốc hội có hết kiên nhẫn và ra luật hạn chế quyền độc lập của Fed trước đó không.
 
 Một thống đốc Fed thời đó (Sowell không nêu tên) kể lại rằng ông toát mồ hôi tay và mất ngủ. Ông thường phát biểu trước các hiệp hội xây nhà, bán xe hơi và các nhóm khác. Bị một người đứng dậy chửi "ông đang giết chúng tôi" chưa phải điều tệ nhất. Điều làm ông day dứt nhất là một người bán xe hơi lặng lẽ đứng lên nói rằng ông đã làm nghề ba mươi năm, vất vả gây dựng cơ nghiệp, và tuần sau sẽ đóng cửa, rồi ngồi xuống.
 
-**Sự tự tin của các nhà kinh tế trước đó.** Theo Sowell, nỗi căng thẳng của những người thực sự chịu trách nhiệm xử lý lạm phát trái ngược hẳn với sự tự tin điềm nhiên của nhiều nhà kinh tế những năm trước, những người tin rằng kinh tế học đã đủ tiến bộ để không chỉ xử lý suy thoái hay lạm phát nói chung mà còn "tinh chỉnh" được nền kinh tế lúc bình thường. Khuyến nghị và chính sách của họ góp phần lớn tạo ra chính đợt lạm phát mà Fed sau đó phải đối phó. Sowell dẫn nhà kinh tế và nhà báo chuyên mục Robert J. Samuelson: ý nghĩa còn nguyên của Đại lạm phát là nó là vết thương tự gây, điều người Mỹ tự làm với mình với ý định tốt nhất và theo lời khuyên tưởng như không chê vào đâu được. Những người cha tinh thần của nó, không trừ một ai, đều rất thông minh, được các đại học hàng đầu (Yale, MIT, Harvard, Princeton) công nhận; nhưng vị thế học thuật cao không làm ý tưởng của họ bớt phi thực tế hay bớt tai hại. Học giả có thể có tầm nhìn hẹp vì mục tiêu chính trị hay cá nhân, có thể khao khát quyền lực và danh tiếng như chính trị gia; ngay cả khi ý định trong sáng, ý tưởng vẫn có thể sai; xuất thân học thuật một mình không bảo đảm có hiểu biết hữu ích và sự sáng suốt.
+**Sự tự tin của các nhà kinh tế trước đó.** Theo Sowell, nỗi căng thẳng của những người thực sự chịu trách nhiệm xử lý lạm phát trái ngược hẳn với sự tự tin điềm nhiên của nhiều nhà kinh tế những năm trước, những người tin rằng kinh tế học đã đủ tiến bộ để không chỉ xử lý suy thoái hay lạm phát nói chung mà còn "tinh chỉnh" được nền kinh tế lúc bình thường. Khuyến nghị và chính sách của họ góp phần lớn tạo ra chính đợt lạm phát mà Fed sau đó phải đối phó.
+
+Sowell dẫn nhà kinh tế và nhà báo chuyên mục Robert J. Samuelson: ý nghĩa còn nguyên của Đại lạm phát là nó là vết thương tự gây, điều người Mỹ tự làm với mình với ý định tốt nhất và theo lời khuyên tưởng như không chê vào đâu được. Những người cha tinh thần của nó, không trừ một ai, đều rất thông minh, được các đại học hàng đầu (Yale, MIT, Harvard, Princeton) công nhận; nhưng vị thế học thuật cao không làm ý tưởng của họ bớt phi thực tế hay bớt tai hại.
+
+Học giả có thể có tầm nhìn hẹp vì mục tiêu chính trị hay cá nhân, có thể khao khát quyền lực và danh tiếng như chính trị gia; ngay cả khi ý định trong sáng, ý tưởng vẫn có thể sai; xuất thân học thuật một mình không bảo đảm có hiểu biết hữu ích và sự sáng suốt.
 
 ### 5. Các nghĩa vụ của chính phủ (Government Obligations)
 
@@ -635,7 +652,9 @@ Một thống đốc Fed thời đó (Sowell không nêu tên) kể lại rằng
 | Không xác định trước mức chi (open-ended) | Trả cho bất kỳ ai đủ điều kiện; khó ước tính vì phụ thuộc yếu tố ngoài tầm kiểm soát của chính phủ | Trợ cấp thất nghiệp (phụ thuộc mức thất nghiệp), trợ cấp nông nghiệp (phụ thuộc sản lượng mùa màng) |
 | Bảo lãnh (guarantee) | Chính phủ trả thay nếu người vay không trả; cũng không xác định trước mức chi và khó ước tính | Bảo lãnh khoản vay mà người khác cho tư nhân vay; bảo lãnh cho người cho chính phủ nước ngoài vay |
 
-**Bảo lãnh trông như miễn phí.** Các khoản bảo lãnh có vẻ không tốn gì chừng nào khoản vay còn được trả, và người ủng hộ sẽ khoe trên báo chí rằng nhờ bảo lãnh mà doanh nghiệp và việc làm được cứu mà ngân sách không mất đồng nào. Nhưng vào những lúc không đoán trước được, khoản vay không được trả, và người nộp thuế phải chi những khoản tiền khổng lồ cho một khoản bảo lãnh tưởng như không tốn kém. Ví dụ: chính phủ Mỹ bảo đảm rằng tiền gửi ở các hiệp hội tiết kiệm và cho vay (savings and loan associations) được bảo hiểm nhà nước. Điều đó tưởng không tốn gì, cho tới khi các hiệp hội này lỗ hơn 500 tỷ USD, ngang chi phí của vài năm chiến tranh, và chính phủ liên bang phải hoàn tiền cho người gửi sau khi các hiệp hội sụp đổ.
+**Bảo lãnh trông như miễn phí.** Các khoản bảo lãnh có vẻ không tốn gì chừng nào khoản vay còn được trả, và người ủng hộ sẽ khoe trên báo chí rằng nhờ bảo lãnh mà doanh nghiệp và việc làm được cứu mà ngân sách không mất đồng nào. Nhưng vào những lúc không đoán trước được, khoản vay không được trả, và người nộp thuế phải chi những khoản tiền khổng lồ cho một khoản bảo lãnh tưởng như không tốn kém.
+
+Ví dụ: chính phủ Mỹ bảo đảm rằng tiền gửi ở các hiệp hội tiết kiệm và cho vay (savings and loan associations) được bảo hiểm nhà nước. Điều đó tưởng không tốn gì, cho tới khi các hiệp hội này lỗ hơn 500 tỷ USD, ngang chi phí của vài năm chiến tranh, và chính phủ liên bang phải hoàn tiền cho người gửi sau khi các hiệp hội sụp đổ.
 
 **Lương hưu: nghĩa vụ lớn nhất.** Trong các nghĩa vụ lớn nhất của nhiều chính phủ có lương hưu đã hứa cho những người sẽ nghỉ hưu. Khoản này dễ dự đoán hơn, vì biết quy mô dân số già và tỷ lệ tử vong, nhưng vấn đề là thường không có đủ tiền để dành cho lương hưu đã hứa. Vấn đề này phổ biến ở nhiều nước, vì ở đâu quan chức dân cử cũng được phiếu khi hứa lương hưu cho cử tri, và mất phiếu khi tăng thuế đủ cao để trả cho lời hứa. Để chính quyền tương lai lo phần thiếu hụt khi tới lúc phải trả là cách dễ hơn.
 
@@ -648,9 +667,15 @@ Một thống đốc Fed thời đó (Sowell không nêu tên) kể lại rằng
 | Của cải tạo ra | Có | Không; một phần tiền đóng còn bị rút sang chi tiêu khác mà Quốc hội chọn |
 | Rủi ro dân số | Không bị đe dọa bởi thay đổi cơ cấu dân số | Bị đe dọa khi tỷ lệ người đóng trên người hưởng giảm |
 
-**Ảo tưởng đầu tư.** Theo Sowell, ảo tưởng rằng Social Security có đầu tư được duy trì bằng cách đưa cho quỹ uỷ thác Social Security các trái phiếu chính phủ, đổi lấy số tiền bị lấy khỏi quỹ để chi cho chương trình khác. Các trái phiếu này cũng không đại diện cho tài sản hữu hình nào; chúng chỉ là lời hứa trả bằng tiền thu từ người nộp thuế tương lai. Cả nước không giàu thêm một đồng nào vì đã in ra chúng, nên không thể so với đầu tư tư nhân tạo ra của cải hữu hình. Nếu không có trái phiếu, khi tiền đóng Social Security trong tương lai không đủ trả lương hưu, người nộp thuế tương lai vẫn phải bù phần thiếu; có trái phiếu thì cũng y như vậy. Sowell kết luận: thủ tục kế toán có thể khiến việc quỹ giữ trái phiếu trông như một khoản đầu tư, nhưng thực tế kinh tế là không ai, kể cả chính phủ, vừa tiêu vừa để dành được cùng một số tiền.
+**Ảo tưởng đầu tư.** Theo Sowell, ảo tưởng rằng Social Security có đầu tư được duy trì bằng cách đưa cho quỹ uỷ thác Social Security các trái phiếu chính phủ, đổi lấy số tiền bị lấy khỏi quỹ để chi cho chương trình khác. Các trái phiếu này cũng không đại diện cho tài sản hữu hình nào; chúng chỉ là lời hứa trả bằng tiền thu từ người nộp thuế tương lai. Cả nước không giàu thêm một đồng nào vì đã in ra chúng, nên không thể so với đầu tư tư nhân tạo ra của cải hữu hình.
 
-**Vì sao ngày thanh toán bị hoãn được lâu.** "Ngày thanh toán" (day of reckoning) là chữ Sowell dùng để chỉ lúc hệ thống phải đối mặt với việc tiền đóng không đủ trả lương hưu đã hứa. Social Security và các chương trình tương tự ở nước khác hoãn được ngày đó vì thế hệ tương đối nhỏ của thập niên 1930 được nối tiếp bởi thế hệ "bùng nổ trẻ sơ sinh" (baby boom) thập niên 1940 và 1950 đông hơn nhiều. Thế hệ baby boom có thu nhập cao hơn nhiều nên đóng vào Social Security nhiều hơn nhiều, nhờ đó lương hưu đã hứa cho thế hệ trước được trả dễ dàng. Không chỉ giữ được lời hứa với thế hệ 1930, các chính trị gia còn bỏ phiếu thêm quyền lợi cho họ, với lợi ích chính trị rõ ràng cho người trao quyền lợi. Theo thời gian, tỷ lệ sinh giảm và tuổi thọ tăng đã làm giảm tỷ lệ người đóng vào hệ thống trên người nhận tiền từ hệ thống. Vì niên kim tư nhân dùng tiền đóng của mỗi thế hệ để tạo ra của cải trả lương hưu cho chính thế hệ đó, còn lương hưu công dùng tiền đóng của thế hệ đang đi làm để trả cho thế hệ đã nghỉ, nên niên kim tư nhân không bị thay đổi cơ cấu dân số đe dọa, còn lương hưu công thì bị.
+Nếu không có trái phiếu, khi tiền đóng Social Security trong tương lai không đủ trả lương hưu, người nộp thuế tương lai vẫn phải bù phần thiếu; có trái phiếu thì cũng y như vậy. Sowell kết luận: thủ tục kế toán có thể khiến việc quỹ giữ trái phiếu trông như một khoản đầu tư, nhưng thực tế kinh tế là không ai, kể cả chính phủ, vừa tiêu vừa để dành được cùng một số tiền.
+
+**Vì sao ngày thanh toán bị hoãn được lâu.** "Ngày thanh toán" (day of reckoning) là chữ Sowell dùng để chỉ lúc hệ thống phải đối mặt với việc tiền đóng không đủ trả lương hưu đã hứa. Social Security và các chương trình tương tự ở nước khác hoãn được ngày đó vì thế hệ tương đối nhỏ của thập niên 1930 được nối tiếp bởi thế hệ "bùng nổ trẻ sơ sinh" (baby boom) thập niên 1940 và 1950 đông hơn nhiều.
+
+Thế hệ baby boom có thu nhập cao hơn nhiều nên đóng vào Social Security nhiều hơn nhiều, nhờ đó lương hưu đã hứa cho thế hệ trước được trả dễ dàng. Không chỉ giữ được lời hứa với thế hệ 1930, các chính trị gia còn bỏ phiếu thêm quyền lợi cho họ, với lợi ích chính trị rõ ràng cho người trao quyền lợi.
+
+Theo thời gian, tỷ lệ sinh giảm và tuổi thọ tăng đã làm giảm tỷ lệ người đóng vào hệ thống trên người nhận tiền từ hệ thống. Vì niên kim tư nhân dùng tiền đóng của mỗi thế hệ để tạo ra của cải trả lương hưu cho chính thế hệ đó, còn lương hưu công dùng tiền đóng của thế hệ đang đi làm để trả cho thế hệ đã nghỉ, nên niên kim tư nhân không bị thay đổi cơ cấu dân số đe dọa, còn lương hưu công thì bị.
 
 Lương hưu công cho phép chính trị gia hôm nay đưa ra lời hứa mà chính quyền tương lai phải giữ. Theo Sowell, đó là điều kiện chính trị gần như lý tưởng để sinh ra lương hưu hào phóng, và để sinh ra khủng hoảng tài chính trong tương lai do sự hào phóng đó.
 
@@ -663,9 +688,17 @@ Lương hưu công cho phép chính trị gia hôm nay đưa ra lời hứa mà 
 
 Sowell nhấn mạnh rằng cả chi phí tài chính lẫn chi phí chính trị của các chính sách này đều không do thế hệ chính trị gia đã lập ra chúng từ nhiều thập kỷ trước gánh chịu.
 
-**Chính quyền địa phương.** Chính quyền địa phương chịu động cơ chính trị gần như chính quyền trung ương, nên nhân viên của chính quyền địa phương, và của các doanh nghiệp do chính quyền địa phương kiểm soát hay quản lý, thường có lương hưu rất hào phóng. Nhân viên của Long Island Rail Road ở New York, do Cơ quan Giao thông Đô thị (Metropolitan Transportation Authority) điều hành, không chỉ được nghỉ hưu ở tuổi năm mươi mấy, mà phần lớn còn nhận trợ cấp khuyết tật cộng thêm lương hưu, dù đa số không khai khuyết tật khi còn làm việc mà chỉ khai sau khi nghỉ hưu. Theo *New York Times*, năm 2007, 94% nhân viên làm cả sự nghiệp ở đây và nghỉ hưu sau tuổi 50 đã nhận trợ cấp khuyết tật. Sowell cho rằng các yêu cầu trợ cấp khuyết tật sau khi nghỉ hưu này không phản ánh rủi ro nghề nghiệp, mà là một phần của mạng lưới quy định lao động rắc rối trong hợp đồng với công đoàn, cho phép nhân viên nhận lương hai ngày cho một ngày làm việc, và đã cho phép một kỹ sư lái tàu có năm nhận gấp năm lần lương cơ bản, rồi được xếp loại khuyết tật sau khi nghỉ hưu.
+**Chính quyền địa phương.** Chính quyền địa phương chịu động cơ chính trị gần như chính quyền trung ương, nên nhân viên của chính quyền địa phương, và của các doanh nghiệp do chính quyền địa phương kiểm soát hay quản lý, thường có lương hưu rất hào phóng. Nhân viên của Long Island Rail Road ở New York, do Cơ quan Giao thông Đô thị (Metropolitan Transportation Authority) điều hành, không chỉ được nghỉ hưu ở tuổi năm mươi mấy, mà phần lớn còn nhận trợ cấp khuyết tật cộng thêm lương hưu, dù đa số không khai khuyết tật khi còn làm việc mà chỉ khai sau khi nghỉ hưu.
 
-**Brazil.** Ở Brazil, lương hưu công đã chi nhiều hơn thu, với thâm hụt đặc biệt lớn ở quỹ lương hưu của nhân viên nhà nước có công đoàn. Nói cách khác, cuộc khủng hoảng mà chính phủ Mỹ và châu Âu đang lo và tìm cách ngăn đã xảy ra ở Brazil, nơi lương hưu công được gọi là "hào phóng nhất thế giới". Theo *The Economist*, công chức Brazil không chỉ nghỉ hưu với đủ lương mà thực chất còn được tăng lương vì thôi đóng góp vào hệ thống; phần lớn phụ nữ nghỉ hưu khỏi khu vực nhà nước ở khoảng 50 tuổi và nam giới muộn hơn chút ít; vợ góa của quân nhân được thừa hưởng lương hưu của chồng và để lại cho các con gái. Vì công chức Brazil là nhóm lợi ích có tổ chức và có công đoàn, sự hào phóng này dễ hiểu về mặt chính trị. Câu hỏi, theo Sowell, là cử tri ở Brazil và nơi khác có hiểu hậu quả kinh tế đủ rõ để tránh các cuộc khủng hoảng tài chính mà sự hào phóng không có nguồn tiền như vậy có thể gây ra, nhân danh "bảo hiểm xã hội", hay không.
+Theo *New York Times*, năm 2007, 94% nhân viên làm cả sự nghiệp ở đây và nghỉ hưu sau tuổi 50 đã nhận trợ cấp khuyết tật.
+
+Sowell cho rằng các yêu cầu trợ cấp khuyết tật sau khi nghỉ hưu này không phản ánh rủi ro nghề nghiệp, mà là một phần của mạng lưới quy định lao động rắc rối trong hợp đồng với công đoàn, cho phép nhân viên nhận lương hai ngày cho một ngày làm việc, và đã cho phép một kỹ sư lái tàu có năm nhận gấp năm lần lương cơ bản, rồi được xếp loại khuyết tật sau khi nghỉ hưu.
+
+**Brazil.** Ở Brazil, lương hưu công đã chi nhiều hơn thu, với thâm hụt đặc biệt lớn ở quỹ lương hưu của nhân viên nhà nước có công đoàn. Nói cách khác, cuộc khủng hoảng mà chính phủ Mỹ và châu Âu đang lo và tìm cách ngăn đã xảy ra ở Brazil, nơi lương hưu công được gọi là "hào phóng nhất thế giới".
+
+Theo *The Economist*, công chức Brazil không chỉ nghỉ hưu với đủ lương mà thực chất còn được tăng lương vì thôi đóng góp vào hệ thống; phần lớn phụ nữ nghỉ hưu khỏi khu vực nhà nước ở khoảng 50 tuổi và nam giới muộn hơn chút ít; vợ góa của quân nhân được thừa hưởng lương hưu của chồng và để lại cho các con gái.
+
+Vì công chức Brazil là nhóm lợi ích có tổ chức và có công đoàn, sự hào phóng này dễ hiểu về mặt chính trị. Câu hỏi, theo Sowell, là cử tri ở Brazil và nơi khác có hiểu hậu quả kinh tế đủ rõ để tránh các cuộc khủng hoảng tài chính mà sự hào phóng không có nguồn tiền như vậy có thể gây ra, nhân danh "bảo hiểm xã hội", hay không.
 
 Ở một số nước, người dân bắt đầu nhận ra vấn đề: một cuộc thăm dò ở New Zealand cho thấy 70% người dưới 45 tuổi tin rằng lương hưu đã hứa sẽ không còn cho họ khi họ về hưu. Theo Sowell, ngày thanh toán dường như đang tới gần ở nhiều nước cho những chương trình gọi là "bảo hiểm xã hội" nhưng thực ra chưa bao giờ là bảo hiểm.
 
@@ -695,11 +728,17 @@ Theo Sowell, mức lương hưu chắc chắn có liên quan tới việc ngư�
 
 **Phải cân cả hai phía.** Những khiếm khuyết của thị trường, như chi phí và lợi ích ngoại ứng, độc quyền và các-ten, khiến nhiều người coi can thiệp của chính phủ là cần thiết và có lợi. Sowell cho rằng khiếm khuyết của thị trường phải được cân với khiếm khuyết của chính phủ được giao can thiệp, và cả hai phải được xét theo động cơ khuyến khích và ràng buộc của mình. Động cơ của doanh nghiệp nhà nước thường dẫn tới cách làm việc rất khác với cách làm trong kinh tế thị trường tự do.
 
-**Ngân hàng Ấn Độ.** Sau khi Ấn Độ quốc hữu hoá ngân hàng năm 1969, nợ khó đòi (không thu hồi được) tăng lên 20% tổng dư nợ. Hiệu quả cũng giảm: một doanh nhân Ấn Độ kể rằng vợ ông mất nửa giờ để gửi hay rút tiền ở chi nhánh gần nhà. Sở hữu và kiểm soát của nhà nước còn đưa ảnh hưởng chính trị vào việc quyết định ai được vay. Sowell dẫn lời kể của một người từng gặp giám đốc một chi nhánh nông thôn của ngân hàng quốc doanh, một thanh niên chân thành và lo lắng, muốn trút bầu tâm sự: ông và nhân viên không được quyết định ai đủ điều kiện vay; chính trị gia địa phương luôn quyết định thay; người vay luôn là bạn bè thân tín của các ông trùm chính trị và không định trả tiền; ông được dặn coi người này người kia là "người nghèo xứng đáng được giúp", và không trừ một ai, họ đều giàu.
+**Ngân hàng Ấn Độ.** Sau khi Ấn Độ quốc hữu hoá ngân hàng năm 1969, nợ khó đòi (không thu hồi được) tăng lên 20% tổng dư nợ. Hiệu quả cũng giảm: một doanh nhân Ấn Độ kể rằng vợ ông mất nửa giờ để gửi hay rút tiền ở chi nhánh gần nhà.
 
-Theo Sowell, quốc hữu hoá ngân hàng ở Ấn Độ không chỉ là chuyển quyền sở hữu sang nhà nước; nó đổi toàn bộ động cơ và ràng buộc từ của thị trường sang của chính trị và bộ máy hành chính. Mục tiêu tuyên bố, kể cả hy vọng thật lòng, của những người thực hiện việc chuyển đổi thường hóa ra kém quan trọng hơn nhiều so với động cơ và ràng buộc đã thay đổi. Động cơ lại thay đổi khi Ấn Độ bắt đầu cho phép ngân hàng tư nhân hoạt động: theo *Wall Street Journal*, tầng lớp trung lưu đang lớn lên chuyển phần lớn giao dịch sang các ngân hàng tư nhân công nghệ cao, để lại cho ngân hàng nhà nước mảng kinh doanh ít lãi nhất và người vay tệ nhất. Sowell nhận xét con người ở khu vực tư nhân có lẽ không khác mấy con người trong khu vực nhà nước; họ chỉ làm việc dưới động cơ và ràng buộc rất khác.
+Sở hữu và kiểm soát của nhà nước còn đưa ảnh hưởng chính trị vào việc quyết định ai được vay. Sowell dẫn lời kể của một người từng gặp giám đốc một chi nhánh nông thôn của ngân hàng quốc doanh, một thanh niên chân thành và lo lắng, muốn trút bầu tâm sự: ông và nhân viên không được quyết định ai đủ điều kiện vay; chính trị gia địa phương luôn quyết định thay; người vay luôn là bạn bè thân tín của các ông trùm chính trị và không định trả tiền; ông được dặn coi người này người kia là "người nghèo xứng đáng được giúp", và không trừ một ai, họ đều giàu.
 
-**Mỹ: Đạo luật Tái đầu tư Cộng đồng.** Ở Mỹ, việc chính trị kiểm soát quyết định đầu tư của ngân hàng ít tràn lan hơn, nhưng vẫn làm dòng vốn chảy khác với hướng nó sẽ chảy trong thị trường tự do. Theo *Wall Street Journal*, các cơ quan quản lý có quyền duyệt sáp nhập đã cứng rắn hơn khi xét thành tích của ngân hàng và hiệp hội tiết kiệm theo Đạo luật Tái đầu tư Cộng đồng (Community Reinvestment Act), luật buộc các tổ chức này cho vay ở mọi cộng đồng nơi họ nhận tiền gửi. Thành tích cho vay yếu có thể làm chậm hay đổ một thương vụ sáp nhập; thành tích mạnh giúp được duyệt nhanh và tránh được phản đối của các nhóm cộng đồng. Nói cách khác, theo Sowell, những người không có chuyên môn hay kinh nghiệm về định chế tài chính (chính trị gia, quan chức, nhà hoạt động cộng đồng) được tác động tới việc vốn đầu tư chảy về đâu.
+Theo Sowell, quốc hữu hoá ngân hàng ở Ấn Độ không chỉ là chuyển quyền sở hữu sang nhà nước; nó đổi toàn bộ động cơ và ràng buộc từ của thị trường sang của chính trị và bộ máy hành chính. Mục tiêu tuyên bố, kể cả hy vọng thật lòng, của những người thực hiện việc chuyển đổi thường hóa ra kém quan trọng hơn nhiều so với động cơ và ràng buộc đã thay đổi.
+
+Động cơ lại thay đổi khi Ấn Độ bắt đầu cho phép ngân hàng tư nhân hoạt động: theo *Wall Street Journal*, tầng lớp trung lưu đang lớn lên chuyển phần lớn giao dịch sang các ngân hàng tư nhân công nghệ cao, để lại cho ngân hàng nhà nước mảng kinh doanh ít lãi nhất và người vay tệ nhất. Sowell nhận xét con người ở khu vực tư nhân có lẽ không khác mấy con người trong khu vực nhà nước; họ chỉ làm việc dưới động cơ và ràng buộc rất khác.
+
+**Mỹ: Đạo luật Tái đầu tư Cộng đồng.** Ở Mỹ, việc chính trị kiểm soát quyết định đầu tư của ngân hàng ít tràn lan hơn, nhưng vẫn làm dòng vốn chảy khác với hướng nó sẽ chảy trong thị trường tự do. Theo *Wall Street Journal*, các cơ quan quản lý có quyền duyệt sáp nhập đã cứng rắn hơn khi xét thành tích của ngân hàng và hiệp hội tiết kiệm theo Đạo luật Tái đầu tư Cộng đồng (Community Reinvestment Act), luật buộc các tổ chức này cho vay ở mọi cộng đồng nơi họ nhận tiền gửi.
+
+Thành tích cho vay yếu có thể làm chậm hay đổ một thương vụ sáp nhập; thành tích mạnh giúp được duyệt nhanh và tránh được phản đối của các nhóm cộng đồng. Nói cách khác, theo Sowell, những người không có chuyên môn hay kinh nghiệm về định chế tài chính (chính trị gia, quan chức, nhà hoạt động cộng đồng) được tác động tới việc vốn đầu tư chảy về đâu.
 
 Khi các định chế tài chính lỗ nặng năm 2007 và 2008 vì các khoản vay "dưới chuẩn" (subprime), trong đó Citigroup lỗ hơn 40 tỷ USD, chính trị gia hiếm khi bị trách vì đã thúc ép các định chế cho người có tín dụng dưới mức bình thường vay. Ngược lại, chính những chính trị gia nổi bật nhất trong việc thúc ép người cho vay chấp nhận rủi ro lại nổi bật nhất trong việc soạn "giải pháp" cho khủng hoảng, nhờ kinh nghiệm ở các ủy ban ngân hàng của Quốc hội và do đó được coi là có chuyên môn tài chính.
 
@@ -717,17 +756,31 @@ Sowell dẫn một doanh nhân Ấn Độ: người Ấn Độ đã học đư�
 
 **Vì sao chính phủ khó thừa nhận sai lầm.** Ở nơi có chính phủ dân cử, quan chức phải lo tái cử, nên không thể thừa nhận và sửa sai dễ như một doanh nghiệp tư nhân trong thị trường cạnh tranh, nơi doanh nghiệp buộc phải sửa sai để sống sót về tài chính. Không ai thích nhận mình sai, nhưng dưới động cơ và ràng buộc của lãi và lỗ, thường không còn cách nào khác ngoài đổi hướng trước khi thua lỗ đe dọa phá sản. Trong chính trị thì ngược lại: chi phí của sai lầm do người nộp thuế trả, còn chi phí của việc thừa nhận sai lầm do quan chức dân cử trả. Vì vậy, theo Sowell, việc quan chức không muốn nhận sai và đổi hướng là hoàn toàn hợp lý từ góc độ của chính họ.
 
-**Concorde.** Khi máy bay chở khách siêu thanh mới được tính tới, cả các hãng sản xuất máy bay tư nhân như Boeing lẫn chính phủ Anh và Pháp (đề xuất chế tạo Concorde) đều sớm thấy rằng chi phí của loại máy bay ngốn nhiên liệu này cao tới mức khó có hy vọng bù lại bằng giá vé hành khách chịu trả. Boeing bỏ toàn bộ ý tưởng, chấp nhận khoản lỗ đã chi ở giai đoạn đầu, vì đó là cái hại nhỏ hơn so với làm tiếp và lỗ lớn hơn khi hoàn thành dự án. Chính phủ Anh và Pháp, một khi đã cam kết công khai với Concorde, thì làm tiếp thay vì nhận đó là ý tưởng tồi. Kết quả là nhiều năm người nộp thuế Anh và Pháp trợ cấp cho một dịch vụ thương mại mà khách chủ yếu là người rất giàu, vì vé Concorde đắt hơn nhiều so với các chuyến bay khác cùng tuyến, và ngay cả giá vé rất đắt đó vẫn không đủ bù chi phí. Cuối cùng, khi máy bay đã cũ, Concorde bị dừng, vì thua lỗ đã được biết tới rộng rãi tới mức khó, nếu không nói là không thể, xin công chúng ủng hộ thêm tiền ngân sách để thay những chiếc máy bay chưa bao giờ có lãi.
+**Concorde.** Khi máy bay chở khách siêu thanh mới được tính tới, cả các hãng sản xuất máy bay tư nhân như Boeing lẫn chính phủ Anh và Pháp (đề xuất chế tạo Concorde) đều sớm thấy rằng chi phí của loại máy bay ngốn nhiên liệu này cao tới mức khó có hy vọng bù lại bằng giá vé hành khách chịu trả. Boeing bỏ toàn bộ ý tưởng, chấp nhận khoản lỗ đã chi ở giai đoạn đầu, vì đó là cái hại nhỏ hơn so với làm tiếp và lỗ lớn hơn khi hoàn thành dự án. Chính phủ Anh và Pháp, một khi đã cam kết công khai với Concorde, thì làm tiếp thay vì nhận đó là ý tưởng tồi.
+
+Kết quả là nhiều năm người nộp thuế Anh và Pháp trợ cấp cho một dịch vụ thương mại mà khách chủ yếu là người rất giàu, vì vé Concorde đắt hơn nhiều so với các chuyến bay khác cùng tuyến, và ngay cả giá vé rất đắt đó vẫn không đủ bù chi phí. Cuối cùng, khi máy bay đã cũ, Concorde bị dừng, vì thua lỗ đã được biết tới rộng rãi tới mức khó, nếu không nói là không thể, xin công chúng ủng hộ thêm tiền ngân sách để thay những chiếc máy bay chưa bao giờ có lãi.
 
 Sowell lưu ý rằng "chính phủ" không phải một thứ duy nhất: ở mỗi thời điểm nó chia thành nhiều lợi ích khác nhau, và qua thời gian, lãnh đạo của nó là những người hoàn toàn khác nhau. Những người dừng thí nghiệm tốn kém Concorde không phải những người đã khởi động nó. Thừa nhận sai lầm của người khác, và nhận công sửa sai, luôn dễ hơn.
 
-**Ngày thanh toán đến sớm hơn trên thị trường.** Trong thị trường cạnh tranh, chi phí của sai lầm có thể nhanh chóng cao tới mức không còn cách nào khác ngoài nhận sai và đổi hướng trước khi phá sản. Vì ngày thanh toán đến sớm hơn trên thị trường so với trong chính phủ, khu vực tư nhân không chỉ chịu áp lực lớn hơn phải thừa nhận sai lầm mà còn chịu áp lực lớn hơn phải tránh sai lầm ngay từ đầu. Đề xuất dự án mới của quan chức chỉ cần thuyết phục đủ nhiều người trong khoảng thời gian quan trọng với quan chức, thường là tới kỳ bầu cử sau. Đề xuất trên thị trường phải thuyết phục chính những người bỏ tiền của mình ra, những người có mọi lý do để huy động chuyên môn tốt nhất đánh giá tương lai trước khi tiến hành. Vì vậy hai quá trình có thể đi tới kết luận rất khác nhau về cùng một tình huống.
+**Ngày thanh toán đến sớm hơn trên thị trường.** Trong thị trường cạnh tranh, chi phí của sai lầm có thể nhanh chóng cao tới mức không còn cách nào khác ngoài nhận sai và đổi hướng trước khi phá sản. Vì ngày thanh toán đến sớm hơn trên thị trường so với trong chính phủ, khu vực tư nhân không chỉ chịu áp lực lớn hơn phải thừa nhận sai lầm mà còn chịu áp lực lớn hơn phải tránh sai lầm ngay từ đầu.
 
-**Đường hầm eo biển Manche.** Khi đề xuất xây đường hầm dưới eo biển Manche được xem xét, chính phủ Anh và Pháp đưa ra dự báo chi phí và doanh thu khiến dự án trông như khoản đầu tư tốt, ít nhất là với đủ nhiều người dân Anh và Pháp để dự án khả thi về chính trị. Trong khi đó, các công ty chạy phà qua eo biển rõ ràng nghĩ khác, vì họ đầu tư thêm phà nhiều hơn và to hơn; điều đó sẽ là tự sát tài chính nếu đường hầm thành công như dự báo của các quan chức, vì khi đó người ta sẽ đi đường hầm thay vì đi phà. Chỉ sau nhiều năm xây và nhiều năm vận hành, kết quả kinh tế mới rõ, và khi đó các quan chức Anh, Pháp chịu trách nhiệm ban đầu đã rời chính trường từ lâu. Năm 2004, *The Economist* đưa tin giám đốc điều hành Eurotunnel, Richard Shirrefs, nói rằng chắc chắn đường hầm đã không được xây nếu biết trước những vấn đề này. Quá ít người dùng tuyến dưới biển mười năm tuổi giữa Anh và Pháp, ít tới mức không trả nổi cả tiền lãi của chi phí xây dựng phình to, vốn để lại cho Eurotunnel khoản nợ 11,5 tỷ USD. Giống như với Concorde, người nộp thuế lại bị yêu cầu cứu một "thảm họa giao thông Anh – Pháp" khác, và những người hoài nghi đường hầm, như những người hoài nghi Concorde, phần lớn đã bị phớt lờ. Sowell nói rằng động cơ, ràng buộc và kết quả tương tự áp dụng cho nhiều chính phủ trên thế giới.
+Đề xuất dự án mới của quan chức chỉ cần thuyết phục đủ nhiều người trong khoảng thời gian quan trọng với quan chức, thường là tới kỳ bầu cử sau. Đề xuất trên thị trường phải thuyết phục chính những người bỏ tiền của mình ra, những người có mọi lý do để huy động chuyên môn tốt nhất đánh giá tương lai trước khi tiến hành. Vì vậy hai quá trình có thể đi tới kết luận rất khác nhau về cùng một tình huống.
 
-**Trí nhớ ngắn của cử tri.** Đôi khi trí nhớ ngắn của cử tri giúp quan chức dân cử thoát hậu quả của việc ủng hộ một chính sách đã thất bại hoặc đã lặng lẽ bị bỏ. Ở Mỹ, cả các bang lẫn chính phủ liên bang đều đánh thuế xăng dành riêng cho việc xây và bảo trì đường cao tốc, rồi sau đó chuyển tiền thuế này sang việc khác. Năm 2008, Quốc hội thông qua luật chi hàng trăm tỷ USD để ngăn các định chế tài chính sụp đổ; trước khi hết năm, các quan chức Bộ Tài chính phụ trách giải ngân đã công khai thừa nhận rằng phần lớn số tiền được chuyển sang cứu các công ty ở những ngành khác. Theo Sowell, điều này không mới và không riêng nước Mỹ: ngay từ năm 1776, Adam Smith đã cảnh báo rằng quỹ mà chính phủ Anh lập ra để trả nợ quốc gia là một phương tiện "hiển nhiên và dễ dàng" để bị "dùng sai" vào mục đích khác.
+**Đường hầm eo biển Manche.** Khi đề xuất xây đường hầm dưới eo biển Manche được xem xét, chính phủ Anh và Pháp đưa ra dự báo chi phí và doanh thu khiến dự án trông như khoản đầu tư tốt, ít nhất là với đủ nhiều người dân Anh và Pháp để dự án khả thi về chính trị. Trong khi đó, các công ty chạy phà qua eo biển rõ ràng nghĩ khác, vì họ đầu tư thêm phà nhiều hơn và to hơn; điều đó sẽ là tự sát tài chính nếu đường hầm thành công như dự báo của các quan chức, vì khi đó người ta sẽ đi đường hầm thay vì đi phà.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số đều là giả định). Một quỹ lương hưu công có 10 người đang đi làm đóng tiền cho mỗi người đang hưởng lương hưu. Mỗi người đi làm đóng 2 triệu đồng mỗi tháng, nên quỹ thu 20 triệu đồng cho mỗi người hưởng, trong khi mỗi người hưởng nhận 8 triệu đồng; quỹ dư 12 triệu đồng, và các chính trị gia có thể vui vẻ tăng lương hưu lên. Ba mươi năm sau, do sinh ít và sống lâu, chỉ còn 2 người đi làm cho mỗi người hưởng. Để trả cùng mức 8 triệu đồng, mỗi người đi làm phải đóng 4 triệu đồng, gấp đôi trước, hoặc lương hưu phải cắt, hoặc ngân sách phải bù bằng thuế. Nếu khoản dư những năm đầu đã được ghi bằng trái phiếu chính phủ trong quỹ, thì khi đem trái phiếu ra thanh toán, chính phủ vẫn phải thu thuế của chính những người đi làm hôm đó. Một quỹ niên kim tư nhân với cùng số tiền đóng sẽ đã đầu tư vào nhà máy, nhà cửa, nên có thu nhập từ tài sản đó để trả, không phụ thuộc vào việc thế hệ sau đông hay thưa. Đây chính là khác biệt Sowell nhấn mạnh giữa niên kim và "bảo hiểm xã hội".
+Chỉ sau nhiều năm xây và nhiều năm vận hành, kết quả kinh tế mới rõ, và khi đó các quan chức Anh, Pháp chịu trách nhiệm ban đầu đã rời chính trường từ lâu. Năm 2004, *The Economist* đưa tin giám đốc điều hành Eurotunnel, Richard Shirrefs, nói rằng chắc chắn đường hầm đã không được xây nếu biết trước những vấn đề này. Quá ít người dùng tuyến dưới biển mười năm tuổi giữa Anh và Pháp, ít tới mức không trả nổi cả tiền lãi của chi phí xây dựng phình to, vốn để lại cho Eurotunnel khoản nợ 11,5 tỷ USD.
+
+Giống như với Concorde, người nộp thuế lại bị yêu cầu cứu một "thảm họa giao thông Anh – Pháp" khác, và những người hoài nghi đường hầm, như những người hoài nghi Concorde, phần lớn đã bị phớt lờ. Sowell nói rằng động cơ, ràng buộc và kết quả tương tự áp dụng cho nhiều chính phủ trên thế giới.
+
+**Trí nhớ ngắn của cử tri.** Đôi khi trí nhớ ngắn của cử tri giúp quan chức dân cử thoát hậu quả của việc ủng hộ một chính sách đã thất bại hoặc đã lặng lẽ bị bỏ. Ở Mỹ, cả các bang lẫn chính phủ liên bang đều đánh thuế xăng dành riêng cho việc xây và bảo trì đường cao tốc, rồi sau đó chuyển tiền thuế này sang việc khác.
+
+Năm 2008, Quốc hội thông qua luật chi hàng trăm tỷ USD để ngăn các định chế tài chính sụp đổ; trước khi hết năm, các quan chức Bộ Tài chính phụ trách giải ngân đã công khai thừa nhận rằng phần lớn số tiền được chuyển sang cứu các công ty ở những ngành khác. Theo Sowell, điều này không mới và không riêng nước Mỹ: ngay từ năm 1776, Adam Smith đã cảnh báo rằng quỹ mà chính phủ Anh lập ra để trả nợ quốc gia là một phương tiện "hiển nhiên và dễ dàng" để bị "dùng sai" vào mục đích khác.
+
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số đều là giả định). Một quỹ lương hưu công có 10 người đang đi làm đóng tiền cho mỗi người đang hưởng lương hưu. Mỗi người đi làm đóng 2 triệu đồng mỗi tháng, nên quỹ thu 20 triệu đồng cho mỗi người hưởng, trong khi mỗi người hưởng nhận 8 triệu đồng; quỹ dư 12 triệu đồng, và các chính trị gia có thể vui vẻ tăng lương hưu lên.
+
+Ba mươi năm sau, do sinh ít và sống lâu, chỉ còn 2 người đi làm cho mỗi người hưởng. Để trả cùng mức 8 triệu đồng, mỗi người đi làm phải đóng 4 triệu đồng, gấp đôi trước, hoặc lương hưu phải cắt, hoặc ngân sách phải bù bằng thuế.
+
+Nếu khoản dư những năm đầu đã được ghi bằng trái phiếu chính phủ trong quỹ, thì khi đem trái phiếu ra thanh toán, chính phủ vẫn phải thu thuế của chính những người đi làm hôm đó. Một quỹ niên kim tư nhân với cùng số tiền đóng sẽ đã đầu tư vào nhà máy, nhà cửa, nên có thu nhập từ tài sản đó để trả, không phụ thuộc vào việc thế hệ sau đông hay thưa. Đây chính là khác biệt Sowell nhấn mạnh giữa niên kim và "bảo hiểm xã hội".
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -848,11 +901,17 @@ Với những việc có thể giao cho cả chính phủ lẫn thị trường,
 
 ### Sức mạnh của chương là đặt chính phủ và thị trường lên cùng một bàn cân
 
-Nhiều sách nhập môn liệt kê các thất bại thị trường rồi ngầm coi chính phủ là bên sửa chữa hoàn hảo. Sowell đòi áp cùng một câu hỏi cho cả hai: người ra quyết định đối mặt với động cơ khuyến khích nào, và ai chịu hậu quả khi họ sai. Cặp ví dụ Boeing và Concorde, hãng phà và đường hầm eo biển Manche rất thuyết phục vì cùng một tình huống, cùng thông tin, mà hai bên đi tới quyết định khác nhau, đúng theo khác biệt về động cơ. Câu "chi phí của sai lầm do người nộp thuế trả, chi phí thừa nhận sai lầm do chính trị gia trả" là một công cụ phân tích người đọc mang theo được. Bảng so sánh lá phiếu với lựa chọn trên thị trường cũng công bằng hơn người ta hay nghĩ về Sowell: ông thừa nhận mỗi cử tri có một phiếu còn tiền thì phân bố không đều, rồi mới lập luận rằng tiền cũng chi phối chính trị.
+Nhiều sách nhập môn liệt kê các thất bại thị trường rồi ngầm coi chính phủ là bên sửa chữa hoàn hảo. Sowell đòi áp cùng một câu hỏi cho cả hai: người ra quyết định đối mặt với động cơ khuyến khích nào, và ai chịu hậu quả khi họ sai. Cặp ví dụ Boeing và Concorde, hãng phà và đường hầm eo biển Manche rất thuyết phục vì cùng một tình huống, cùng thông tin, mà hai bên đi tới quyết định khác nhau, đúng theo khác biệt về động cơ.
+
+Câu "chi phí của sai lầm do người nộp thuế trả, chi phí thừa nhận sai lầm do chính trị gia trả" là một công cụ phân tích người đọc mang theo được. Bảng so sánh lá phiếu với lựa chọn trên thị trường cũng công bằng hơn người ta hay nghĩ về Sowell: ông thừa nhận mỗi cử tri có một phiếu còn tiền thì phân bố không đều, rồi mới lập luận rằng tiền cũng chi phối chính trị.
 
 ### Phần Đại suy thoái là phần gây tranh cãi nhất và bị đơn giản hoá
 
-Lập luận rằng can thiệp của chính phủ biến một suy thoái bình thường thành Đại suy thoái có những người ủng hộ nghiêm túc, nhưng không phải quan điểm của số đông nhà kinh tế. Có mấy điểm Sowell bỏ qua. Thứ nhất, cách giải thích được chấp nhận rộng rãi nhất, của Milton Friedman và Anna Schwartz, cũng đổ lỗi cho chính phủ, nhưng theo hướng ngược lại: Fed đã **không làm gì đủ** khi hàng nghìn ngân hàng sụp đổ và lượng tiền co lại khoảng một phần ba. Tức là "không làm gì" về tiền tệ chính là một nguyên nhân của thảm họa. Thứ hai, thời kỳ 1776–1929 "không can thiệp" có những cuộc khủng hoảng rất nặng (như các cuộc khủng hoảng năm 1873 và 1893), và số liệu thất nghiệp của thế kỷ 19 là ước tính sau này, kém tin cậy. Thứ ba, suy thoái 1920–1921 có bản chất khác (giảm phát sau chiến tranh, giá cả và tiền lương điều chỉnh nhanh), và Fed thời đó đã nâng rồi hạ lãi suất, nên không hẳn là "không làm gì". Thứ tư, việc thất nghiệp lên hai chữ số trong 5 tháng sau Smoot-Hawley là trùng thời điểm, chưa phải bằng chứng nhân quả; các nhà kinh tế phần lớn coi Smoot-Hawley là chính sách tồi nhưng chỉ là một yếu tố phụ của Đại suy thoái. Chính Sowell cũng nói đây không phải thí nghiệm có đối chứng, nhưng cách trình bày một chiều có thể khiến người đọc tin chắc hơn mức bằng chứng cho phép.
+Lập luận rằng can thiệp của chính phủ biến một suy thoái bình thường thành Đại suy thoái có những người ủng hộ nghiêm túc, nhưng không phải quan điểm của số đông nhà kinh tế. Có mấy điểm Sowell bỏ qua. Thứ nhất, cách giải thích được chấp nhận rộng rãi nhất, của Milton Friedman và Anna Schwartz, cũng đổ lỗi cho chính phủ, nhưng theo hướng ngược lại: Fed đã **không làm gì đủ** khi hàng nghìn ngân hàng sụp đổ và lượng tiền co lại khoảng một phần ba. Tức là "không làm gì" về tiền tệ chính là một nguyên nhân của thảm họa.
+
+Thứ hai, thời kỳ 1776–1929 "không can thiệp" có những cuộc khủng hoảng rất nặng (như các cuộc khủng hoảng năm 1873 và 1893), và số liệu thất nghiệp của thế kỷ 19 là ước tính sau này, kém tin cậy. Thứ ba, suy thoái 1920–1921 có bản chất khác (giảm phát sau chiến tranh, giá cả và tiền lương điều chỉnh nhanh), và Fed thời đó đã nâng rồi hạ lãi suất, nên không hẳn là "không làm gì".
+
+Thứ tư, việc thất nghiệp lên hai chữ số trong 5 tháng sau Smoot-Hawley là trùng thời điểm, chưa phải bằng chứng nhân quả; các nhà kinh tế phần lớn coi Smoot-Hawley là chính sách tồi nhưng chỉ là một yếu tố phụ của Đại suy thoái. Chính Sowell cũng nói đây không phải thí nghiệm có đối chứng, nhưng cách trình bày một chiều có thể khiến người đọc tin chắc hơn mức bằng chứng cho phép.
 
 ### Ví dụ năm 1987 và năm 2008 cho thấy "không làm gì" không hẳn là không làm gì
 
@@ -860,7 +919,9 @@ Năm 1987, Reagan không đưa ra chương trình kích thích, nhưng Fed dư�
 
 ### Phần lương hưu đúng về cơ chế nhưng phóng đại khác biệt với niên kim tư nhân
 
-Sowell đúng rằng Social Security vận hành theo cơ chế thu đến đâu chi đến đó, rằng trái phiếu trong quỹ uỷ thác không phải tài sản thật của cả nước, và rằng thay đổi dân số đe dọa hệ thống. Nhưng câu "niên kim tư nhân không bị thay đổi dân số đe dọa" mạnh quá: khi dân số già đi, nhiều người cùng bán tài sản để chi tiêu lúc về hưu, còn lực lượng lao động nhỏ đi, nên lợi suất đầu tư và giá tài sản cũng có thể chịu ảnh hưởng. Ngoài ra lương hưu công làm được một việc niên kim tư nhân khó làm: bảo hiểm cho người về hưu trước lạm phát và trước việc thị trường tài chính sụp đổ đúng lúc họ nghỉ. Các nhà kinh tế ủng hộ hệ thống công còn lập luận rằng chuyển đổi sang cơ chế tích lũy buộc một thế hệ phải đóng hai lần (vừa trả cho người đang hưởng, vừa tích lũy cho mình), nên không đơn giản như việc chọn cơ chế "tốt hơn".
+Sowell đúng rằng Social Security vận hành theo cơ chế thu đến đâu chi đến đó, rằng trái phiếu trong quỹ uỷ thác không phải tài sản thật của cả nước, và rằng thay đổi dân số đe dọa hệ thống. Nhưng câu "niên kim tư nhân không bị thay đổi dân số đe dọa" mạnh quá: khi dân số già đi, nhiều người cùng bán tài sản để chi tiêu lúc về hưu, còn lực lượng lao động nhỏ đi, nên lợi suất đầu tư và giá tài sản cũng có thể chịu ảnh hưởng.
+
+Ngoài ra lương hưu công làm được một việc niên kim tư nhân khó làm: bảo hiểm cho người về hưu trước lạm phát và trước việc thị trường tài chính sụp đổ đúng lúc họ nghỉ. Các nhà kinh tế ủng hộ hệ thống công còn lập luận rằng chuyển đổi sang cơ chế tích lũy buộc một thế hệ phải đóng hai lần (vừa trả cho người đang hưởng, vừa tích lũy cho mình), nên không đơn giản như việc chọn cơ chế "tốt hơn".
 
 ### Một số con số trong chương cần đọc thận trọng vì phụ thuộc cách tính
 
@@ -868,11 +929,15 @@ Con số "hơn 500 tỷ USD" cho các hiệp hội tiết kiệm và cho vay là
 
 ### Từ năm 2014, nhiều điều Sowell cảnh báo đã diễn ra, và một số điều đã đảo chiều
 
-Nói định tính: Brazil đã phải cải cách lương hưu năm 2019, đúng như dự đoán rằng sự hào phóng không có nguồn tiền sẽ dẫn tới khủng hoảng. Ý và nhiều nước châu Âu đã nâng tuổi nghỉ hưu, Pháp nâng tuổi nghỉ hưu năm 2023 giữa làn sóng biểu tình lớn, đúng như Sowell mô tả cái giá chính trị của cải cách. Các báo cáo chính thức của Social Security tiếp tục dự báo quỹ uỷ thác cạn vào khoảng giữa thập niên 2030. Ngược lại, trợ cấp thất nghiệp 99 tuần đã hết từ cuối năm 2013, và số người nhận trợ cấp khuyết tật Social Security đã giảm sau giữa thập niên 2010, cho thấy xu hướng mà Sowell trích dẫn không tăng mãi. Về chính sách tiền tệ, đợt lạm phát cao sau đại dịch cho thấy Fed lại dự báo sai, lần này theo hướng thấp hơn thực tế như thời Martin và Burns, củng cố luận điểm của Sowell về giới hạn dự báo.
+Nói định tính: Brazil đã phải cải cách lương hưu năm 2019, đúng như dự đoán rằng sự hào phóng không có nguồn tiền sẽ dẫn tới khủng hoảng. Ý và nhiều nước châu Âu đã nâng tuổi nghỉ hưu, Pháp nâng tuổi nghỉ hưu năm 2023 giữa làn sóng biểu tình lớn, đúng như Sowell mô tả cái giá chính trị của cải cách. Các báo cáo chính thức của Social Security tiếp tục dự báo quỹ uỷ thác cạn vào khoảng giữa thập niên 2030.
+
+Ngược lại, trợ cấp thất nghiệp 99 tuần đã hết từ cuối năm 2013, và số người nhận trợ cấp khuyết tật Social Security đã giảm sau giữa thập niên 2010, cho thấy xu hướng mà Sowell trích dẫn không tăng mãi. Về chính sách tiền tệ, đợt lạm phát cao sau đại dịch cho thấy Fed lại dự báo sai, lần này theo hướng thấp hơn thực tế như thời Martin và Burns, củng cố luận điểm của Sowell về giới hạn dự báo.
 
 ### Quan điểm trái chiều: chính phủ cũng có những thành công mà thị trường không làm được
 
-Người phản biện Sowell sẽ nêu rằng các ví dụ của chương được chọn từ những thất bại của chính phủ. Cũng có dự án công thành công và những trường hợp doanh nghiệp tư nhân không nhận sai cho tới khi phá sản và đẩy chi phí sang người khác (chính các ngân hàng năm 2008 là ví dụ: tiền lỗ cuối cùng một phần do người nộp thuế gánh, tức động cơ "lỗ là của mình" không hoạt động khi ngân hàng quá lớn để sụp đổ). Đường hầm eo biển Manche, dù thất bại tài chính với cổ đông ban đầu, đến nay vẫn là tuyến giao thông quan trọng và có lãi sau tái cơ cấu; câu hỏi "có đáng xây không" phụ thuộc vào việc tính lợi ích cho cả xã hội hay chỉ tính lợi nhuận cho nhà đầu tư. Luận điểm mạnh nhất của Sowell vẫn đứng vững: phải so sánh hai thể chế không hoàn hảo với nhau, không phải so một thể chế thực tế với một thể chế lý tưởng.
+Người phản biện Sowell sẽ nêu rằng các ví dụ của chương được chọn từ những thất bại của chính phủ. Cũng có dự án công thành công và những trường hợp doanh nghiệp tư nhân không nhận sai cho tới khi phá sản và đẩy chi phí sang người khác (chính các ngân hàng năm 2008 là ví dụ: tiền lỗ cuối cùng một phần do người nộp thuế gánh, tức động cơ "lỗ là của mình" không hoạt động khi ngân hàng quá lớn để sụp đổ).
+
+Đường hầm eo biển Manche, dù thất bại tài chính với cổ đông ban đầu, đến nay vẫn là tuyến giao thông quan trọng và có lãi sau tái cơ cấu; câu hỏi "có đáng xây không" phụ thuộc vào việc tính lợi ích cho cả xã hội hay chỉ tính lợi nhuận cho nhà đầu tư. Luận điểm mạnh nhất của Sowell vẫn đứng vững: phải so sánh hai thể chế không hoàn hảo với nhau, không phải so một thể chế thực tế với một thể chế lý tưởng.
 
 ### Vận dụng: trước mỗi đề xuất "chính phủ nên làm gì đó", hãy hỏi ai trả tiền khi nó sai và ai phải nhận sai
 
@@ -880,3 +945,183 @@ Người phản biện Sowell sẽ nêu rằng các ví dụ của chương đư
 - **Trong đầu tư.** Bảo lãnh "không tốn gì" của chính phủ là rủi ro bị che giấu, cho cả ngân sách lẫn nhà đầu tư dựa vào nó. Với trái phiếu chính phủ một nước, nên xem cả nghĩa vụ lương hưu và các khoản bảo lãnh chưa hiện trên ngân sách, không chỉ nợ công đã công bố; Ý với nợ công 107% GDP và chi phí lương hưu 15% GDP năm 2006, rồi khủng hoảng nợ châu Âu vài năm sau, là ví dụ. Trong khủng hoảng chứng khoán, cũng nên nhớ rằng phản ứng của chính phủ và ngân hàng trung ương có thể làm tình hình khá lên hoặc tệ đi, và lịch sử có cả hai loại.
 - **Trong nghề nghiệp.** Khoản lương hưu nhà nước hứa trả sau 30 năm nữa phụ thuộc vào tỷ lệ người đóng trên người hưởng lúc đó, không phụ thuộc vào số tiền bạn đã đóng. Người đi làm nên coi lương hưu công là một phần, không phải toàn bộ, kế hoạch tài chính về hưu, và tự tích lũy thêm vào tài sản thật. Với người làm chính sách hay tư vấn, lời Robert J. Samuelson là lời nhắc về sự khiêm tốn: học vị cao không bảo đảm dự báo đúng.
 - **Khi đọc tin chính sách.** Ở Việt Nam, khi đọc tin về quỹ hưu trí và bảo hiểm xã hội, hãy để ý tỷ lệ số người đang đóng trên mỗi người đang hưởng, và xu hướng dân số già đi; đó là chỉ số Sowell coi là quyết định, quan trọng hơn số dư hiện tại của quỹ. Khi một dự án hạ tầng lớn được đề xuất với dự báo lượng khách hay doanh thu, hãy hỏi ai chịu lỗ nếu dự báo sai, và người đề xuất có còn giữ chức khi kết quả rõ ràng không. Khi có lời kêu gọi chính phủ "phải hành động ngay" trước một biến động kinh tế, hãy hỏi biện pháp đó đã được thử ở đâu, kết quả thế nào, và nếu không làm gì thì điều gì có khả năng xảy ra.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 20 trên một trang: sáu nhánh lớn đi theo các mục 1–6 của phần Nội dung chi tiết (phạm vi của chính phủ, Đại suy thoái, chính sách tiền tệ, nghĩa vụ chi tiêu tương lai và lương hưu công ở các nước, thất bại thị trường và thất bại của chính phủ), mỗi nhánh ghi luận điểm, cơ chế, ví dụ lịch sử và con số then chốt của Sowell; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 20: muốn đánh giá chính sách phải hiểu cả quá trình chính trị, so chính phủ và thị trường như chúng thực sự vận hành`"]
+  n1["`Mục 1–2 — Phạm vi chính phủ: hỏi kết quả nào đáng muốn và quá trình nào thực sự đạt được nó`"]
+  n0 --- n1
+  n2["`Lời đề từ của Dick Armey: trong việc làm chính sách công, sự mị dân thắng dữ liệu`"]
+  n1 --- n2
+  n3["`Nhà ở, giao thông, giáo dục: cả chính phủ lẫn thị trường đều cung cấp được`"]
+  n1 --- n3
+  n4["`Lá phiếu: ít khi được chọn, chọn trọn gói, chỉ chọn giữa các lời hứa`"]
+  n1 --- n4
+  n5["`Thị trường: chọn hằng ngày, chọn từng món, chọn trên sản phẩm có thật trước mắt`"]
+  n1 --- n5
+  n6["`Đầu cơ chỉ là một khía cạnh của kinh tế thị trường nhưng là bản chất của bầu cử`"]
+  n1 --- n6
+  n7["`Tiền mua được học vấn và thời gian rảnh nên người giàu có ảnh hưởng không cân xứng trong chính trị`"]
+  n1 --- n7
+  n8["`Chính phủ không phải một khối hay hiện thân lợi ích công, các bộ phận phục vụ các nhóm khác nhau`"]
+  n1 --- n8
+  n9["`Chính trị gia giải cứu nhóm có phiếu: ở Ấn Độ không dám bỏ trợ cấp điện, phân bón, nước`"]
+  n1 --- n9
+  n10["`Luật trợ cấp nông nghiệp Mỹ 2002 làm mỗi gia đình tốn hơn 4.000 USD tiền thực phẩm trong 10 năm`"]
+  n9 --- n10
+  n11["`Áp lực phải làm gì đó: kiểm soát giá và lương thời Nixon, hạn chế thương mại thập niên 1930`"]
+  n1 --- n11
+  n12["`Suốt hơn 150 năm trước Đại suy thoái, chính phủ Mỹ để suy thoái tự kết thúc`"]
+  n11 --- n12
+  n13["`Mục 3 — Đại suy thoái: thất nghiệp kéo dài đi sau loạt can thiệp lớn chưa từng có`"]
+  n0 --- n13
+  n14["`Hai tháng sau cú sập 10/1929 thất nghiệp đạt đỉnh 9%, tháng 6/1930 còn 6,3%`"]
+  n13 --- n14
+  n15["`Trong 12 tháng sau cú sập không tháng nào thất nghiệp tới 10%`"]
+  n13 --- n15
+  n16["`Smoot-Hawley 6/1930: thuế quan cao nhất hơn một thế kỷ, một nghìn nhà kinh tế cảnh báo phản tác dụng`"]
+  n13 --- n16
+  n17["`Trong 5 tháng sau Smoot-Hawley thất nghiệp lên hai chữ số và không xuống lại suốt thập niên`"]
+  n16 --- n17
+  n18["`Sau can thiệp của cả Hoover lẫn Roosevelt, thất nghiệp trên 20% suốt 35 tháng liền`"]
+  n13 --- n18
+  n19["`Năm 1921 Harding không làm gì ngoài cắt chi tiêu: thất nghiệp 11,7% → 6,7% → 2,4%`"]
+  n13 --- n19
+  n20["`Năm 1987 Reagan không can thiệp, kinh tế tự phục hồi rồi 20 năm tăng trưởng đều, lạm phát thấp`"]
+  n13 --- n20
+  n21["`Sowell thừa nhận đây không phải thí nghiệm có đối chứng, kết luận chỉ mang tính gợi ý`"]
+  n13 --- n21
+  n22["`Mục 4 — Chính sách tiền tệ: Fed độc lập trên danh nghĩa vẫn chịu áp lực chính trị và khó dự đoán`"]
+  n0 --- n22
+  n23["`Quốc hội có thể ra luật đảo ngược chính sách và cắt bớt độc lập của Fed, như Arthur F. Burns kể năm 1979`"]
+  n22 --- n23
+  n24["`Phản ứng của hàng triệu người trước chính sách có thể gây hậu quả lớn ngang chính sách`"]
+  n22 --- n24
+  n25["`Fed dự báo lạm phát thấp hơn thực tế thời Martin và Burns, cao hơn thực tế thời Volcker và Greenspan`"]
+  n22 --- n25
+  n26["`Lạm phát giảm từ 13% năm 1979 xuống 2% năm 2003, nhưng qua thử và sai, biện pháp nào cũng gây đau`"]
+  n22 --- n26
+  n27["`Thắt chặt đầu thập niên 1980: thất nghiệp và phá sản tăng, Volcker bị bôi xấu, Reagan tụt uy tín`"]
+  n26 --- n27
+  n28["`Niềm tin có thể tinh chỉnh nền kinh tế góp phần lớn tạo ra Đại lạm phát`"]
+  n22 --- n28
+  n29["`Robert J. Samuelson: Đại lạm phát là vết thương tự gây theo lời khuyên của người Yale, MIT, Harvard, Princeton`"]
+  n28 --- n29
+  n30["`Mục 5 — Nghĩa vụ tương lai: bảo lãnh và lương hưu công trông rẻ nhưng không tạo ra của cải`"]
+  n0 --- n30
+  n31["`Ba loại nghĩa vụ: đã xác định (trái phiếu), không xác định trước mức chi (trợ cấp thất nghiệp), bảo lãnh`"]
+  n30 --- n31
+  n32["`Bảo lãnh trông như không tốn gì cho tới khi khoản vay không được trả`"]
+  n30 --- n32
+  n33["`Các hiệp hội tiết kiệm và cho vay lỗ hơn 500 tỷ USD, chính phủ liên bang hoàn tiền cho người gửi`"]
+  n32 --- n33
+  n34["`Hứa lương hưu thì được phiếu, tăng thuế để trả thì mất phiếu, nên để chính quyền tương lai lo`"]
+  n30 --- n34
+  n35["`Niên kim tư nhân đầu tư phí đóng vào nhà máy, chung cư, nên tạo ra của cải thật`"]
+  n30 --- n35
+  n36["`Lương hưu công tiêu ngay tiền đóng của người đang làm để trả cho người đã nghỉ hưu`"]
+  n30 --- n36
+  n37["`Trái phiếu trong quỹ uỷ thác Social Security chỉ là lời hứa đánh thuế tương lai, cả nước không giàu thêm`"]
+  n30 --- n37
+  n38["`Không ai, kể cả chính phủ, vừa tiêu vừa để dành được cùng một số tiền`"]
+  n37 --- n38
+  n39["`Thế hệ baby boom đông và thu nhập cao hoãn ngày thanh toán, tới khi sinh giảm và tuổi thọ tăng`"]
+  n30 --- n39
+  n40["`Mục 5 — Lương hưu công ở các nước: lời hứa hào phóng dẫn tới khủng hoảng tài chính`"]
+  n0 --- n40
+  n41["`Ý: nam nghỉ hưu 61 tuổi, nghề nặng nhọc 57, chi phí 15% GDP, nợ công 107% GDP năm 2006`"]
+  n40 --- n41
+  n42["`Pháp, Đức cắt bớt lương hưu thì gặp biểu tình, cải cách nhỏ cũng bị hoãn hay thu hẹp`"]
+  n40 --- n42
+  n43["`Long Island Rail Road 2007: 94% người nghỉ hưu sau tuổi 50 nhận trợ cấp khuyết tật`"]
+  n40 --- n43
+  n44["`Brazil: lương hưu công hào phóng nhất thế giới đã chi nhiều hơn thu, phụ nữ nghỉ khoảng 50 tuổi`"]
+  n40 --- n44
+  n45["`New Zealand: 70% người dưới 45 tuổi tin lương hưu đã hứa sẽ không còn khi họ về hưu`"]
+  n40 --- n45
+  n46["`Lương hưu hào phóng làm giảm sản lượng vì người còn làm được nghỉ việc sớm`"]
+  n40 --- n46
+  n47["`Người 55–64 tuổi còn đi làm: Nhật 62%, Mỹ 60%, EU 41%`"]
+  n46 --- n47
+  n48["`Lương hưu so với thu nhập trước khi nghỉ: Mỹ khoảng 40%, Hà Lan và Tây Ban Nha khoảng 80%, Hy Lạp 96%`"]
+  n46 --- n48
+  n49["`Mỹ: trợ cấp thất nghiệp 26 → 99 tuần, người nhận trợ cấp khuyết tật từ chưa tới 3 triệu (1990) lên gần 8,6 triệu`"]
+  n40 --- n49
+  n50["`Mục 6 — Thất bại thị trường phải được cân với thất bại của chính phủ`"]
+  n0 --- n50
+  n51["`Ấn Độ quốc hữu hoá ngân hàng năm 1969: nợ khó đòi lên 20% tổng dư nợ`"]
+  n50 --- n51
+  n52["`Chính trị gia địa phương quyết định ai được vay, người vay đều giàu và không định trả`"]
+  n51 --- n52
+  n53["`Quốc hữu hoá đổi toàn bộ động cơ và ràng buộc, không chỉ đổi chủ sở hữu`"]
+  n51 --- n53
+  n54["`Khi có ngân hàng tư nhân, trung lưu chuyển đi, ngân hàng nhà nước còn lại người vay tệ nhất`"]
+  n51 --- n54
+  n55["`Đạo luật Tái đầu tư Cộng đồng cho người không có chuyên môn tài chính tác động tới dòng vốn`"]
+  n50 --- n55
+  n56["`Cho vay dưới chuẩn 2007–2008 gây lỗ nặng, riêng Citigroup lỗ hơn 40 tỷ USD`"]
+  n55 --- n56
+  n57["`Chi phí sai lầm do người nộp thuế trả, chi phí thừa nhận sai lầm do chính trị gia trả`"]
+  n50 --- n57
+  n58["`Boeing bỏ máy bay siêu thanh, Anh và Pháp làm tiếp Concorde và trợ cấp nhiều năm cho khách rất giàu`"]
+  n57 --- n58
+  n59["`Đường hầm eo biển Manche: hãng phà vẫn mua thêm phà to hơn, Eurotunnel nợ 11,5 tỷ USD năm 2004`"]
+  n57 --- n59
+  n60["`Trên thị trường ngày thanh toán đến sớm hơn, nên áp lực tránh và sửa sai lớn hơn`"]
+  n50 --- n60
+  n61["`Trí nhớ ngắn của cử tri: thuế xăng dành cho đường cao tốc bị chuyển sang việc khác`"]
+  n50 --- n61
+  n62["`Dân chủ kết hợp thị trường tự do còn mới: 1 nền năm 1776, 31 năm 1975, nay 120`"]
+  n50 --- n62
+  n63["`Thông điệp xuyên suốt`"]
+  n0 --- n63
+  n64["`So hai thể chế không hoàn hảo như chúng thực sự vận hành, không so thực tế với lý tưởng`"]
+  n63 --- n64
+  n65["`Hiếm ai so sánh kết quả khi chính phủ làm gì đó với kết quả khi chính phủ không làm gì`"]
+  n63 --- n65
+  n66["`Con người ở hai khu vực không khác mấy, động cơ và ràng buộc của họ khác`"]
+  n63 --- n66
+  n67["`Trước mỗi đề xuất chính phủ nên làm gì đó, hỏi ai trả tiền khi nó sai và ai phải nhận sai`"]
+  n63 --- n67
+  class n0 root
+  class n1,n13,n22,n30,n40,n50,n63 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n64,n65,n66,n67 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần V (The National Economy), Chương 20.
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Đây là chương khép lại Phần V về nền kinh tế quốc gia. Chương 16 bàn về cách đo sản lượng quốc gia, Chương 17 về tiền và hệ thống ngân hàng, Chương 18 về các chức năng của chính phủ, Chương 19 về tài chính của chính phủ (thuế, chi tiêu, nợ công).
+
+Chương 20 gom lại những vấn đề nằm giữa kinh tế và chính trị mà các chương trước chưa giải quyết hết: việc nào nên để chính phủ làm và việc nào nên để thị trường làm, chính phủ có nên "làm gì đó" khi kinh tế suy thoái, các nghĩa vụ chi tiêu trong tương lai mà chính phủ đã cam kết (nhất là lương hưu), và việc so sánh thất bại thị trường với thất bại của chính phủ.
+
+Sau chương này, Phần VI chuyển sang nền kinh tế quốc tế, bắt đầu bằng Chương 21 về thương mại quốc tế; Smoot-Hawley, đạo luật thuế quan được nhắc trong chương này, sẽ được bàn lại ở đó.
+
+## Lưu ý
+
+- Ấn bản thứ năm có bản quyền năm 2015, nội dung viết khoảng 2013–2014; nhiều số liệu trong chương còn cũ hơn (nợ công của Ý năm 2006, Long Island Rail Road năm 2007, đường hầm eo biển Manche năm 2004).
+- Một số chi tiết đã thay đổi từ đó:
+  - Thời hạn trợ cấp thất nghiệp 99 tuần ở Mỹ là chương trình khẩn cấp thời suy thoái và đã chấm dứt vào cuối năm 2013, nên thời hạn trở về mức thông thường khoảng 26 tuần ở phần lớn các bang.
+  - Số người nhận trợ cấp khuyết tật của Social Security đạt đỉnh vào giữa thập niên 2010 rồi giảm dần.
+  - Brazil đã cải cách hệ thống lương hưu năm 2019 (đặt tuổi nghỉ hưu tối thiểu).
+  - Ý đã nâng tuổi nghỉ hưu nhiều lần sau năm 2011, cao hơn nhiều so với mức 59 tuổi Sowell nêu.
+  - Công ty vận hành đường hầm eo biển Manche đã tái cơ cấu nợ năm 2007 và sau đó có lãi.
+  - Lạm phát ở Mỹ bùng lên trở lại sau đại dịch COVID-19, khiến nhận định "lạm phát 2% là không đáng kể" của chương chỉ đúng với giai đoạn đến khi sách viết.
+- Con số "hơn 500 tỷ USD" thua lỗ của các hiệp hội tiết kiệm và cho vay là một ước tính ở mức cao; các ước tính chính thức về phần chi phí người nộp thuế phải gánh thường thấp hơn nhiều.
+- Chương này **không có chú thích chân trang có nội dung** (dấu số La Mã) nào của Sowell; mọi dấu chú thích trong chương đều là chú thích nguồn trích dẫn (endnote), nên đã bỏ qua theo quy ước.
+- Sowell dẫn lời nhiều người không nêu tên (một tác giả Ấn Độ, một doanh nhân Ấn Độ, một thống đốc Cục Dự trữ Liên bang); bản tổng hợp giữ nguyên như vậy, không đoán tên. Các câu trích là bản dịch của người tổng hợp.

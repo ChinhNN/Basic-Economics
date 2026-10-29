@@ -1,11 +1,16 @@
 # Chương 8 — Điều tiết và luật chống độc quyền (Regulation and Anti-Trust Laws)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần II "Industry and Commerce", Chương 8.
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 7 ("The Economics of Big Business") đã giải thích công ty cổ phần, độc quyền (monopoly) và các-ten (cartel), và kết luận rằng độc quyền thật sự hiếm và khó tồn tại lâu nếu nhà nước không dựng rào cản gia nhập. Chương 8 bàn tiếp câu hỏi: khi nhà nước ra tay đối phó với độc quyền và các-ten, bằng hai công cụ là uỷ ban điều tiết giá và luật chống độc quyền, thì kết quả thực tế ra sao? Chương này dùng lại ý ở Chương 6 rằng không có một con số duy nhất gọi là "chi phí sản xuất", và ý ở Chương 3 rằng kiểm soát giá gây thiếu hụt. Chương 9 ("Market and Non-Market Economies") sẽ mở rộng sang so sánh doanh nghiệp vì lợi nhuận với các tổ chức phi thị trường (tổ chức phi lợi nhuận, doanh nghiệp nhà nước), nơi các động cơ khuyến khích và ràng buộc khác hẳn.
-**Ý chính:** Sowell muốn người đọc phân biệt **lý do ban đầu** của điều tiết và luật chống độc quyền với **điều chúng thực sự làm**. Uỷ ban điều tiết được lập ra để ngăn giá quá cao, nhưng theo thời gian thường chuyển sang ngăn giá giảm, để bảo vệ các doanh nghiệp đang bị điều tiết trước đối thủ mới. Ví dụ trung tâm là Uỷ ban Thương mại Giữa các Bang (Interstate Commerce Commission, ICC): lập năm 1887 để chặn giá độc quyền của đường sắt, rồi năm 1935 giành thêm quyền kiểm soát ngành xe tải để bảo vệ đường sắt khỏi cạnh tranh của xe tải. Luật chống độc quyền được lập ra để bảo vệ **cạnh tranh** (một trạng thái của thị trường), nhưng trên thực tế thường bảo vệ **đối thủ cạnh tranh** (những doanh nghiệp cụ thể), và nhiều vụ kiện nổi tiếng nhắm vào công ty bán giá **thấp** hơn đối thủ: chuỗi tạp hoá A & P, Morton Salt, Microsoft. Sowell còn bác bỏ cách đo "thị phần kiểm soát" (vì bỏ qua hàng thay thế và hàng nhập khẩu) và lý thuyết "định giá huỷ diệt" (vì không có ví dụ được ghi nhận và không hợp lý về kinh tế), rồi kết bằng trường hợp Ấn Độ: luật chống độc quyền năm 1969 che chắn doanh nghiệp khỏi cạnh tranh, và khi luật bị bãi bỏ năm 1991, các doanh nghiệp như Tata Steel buộc phải trở nên hiệu quả.
+## Ý chính
 
-> **Lưu ý:** Ấn bản thứ năm xuất bản năm 2015, phần lớn số liệu và ví dụ mới nhất dừng ở khoảng 2013 (vụ Bộ Tư pháp Mỹ kiện ngăn hãng bia Budweiser mua toàn bộ hãng bia Corona năm 2013). Một số chi tiết đã đổi từ đó: ICC bị giải thể hẳn vào giữa thập niên 1990 (Sowell chỉ nhắc việc quyền của nó bị cắt năm 1980); *Washington Post* đã đổi chủ năm 2013 (Jeff Bezos mua lại); Ratan Tata, người được Sowell trích lời, đã qua đời năm 2024; thành phố Munich sau này đã quyết định quay lại dùng Windows. Chính sách chống độc quyền ở Mỹ và châu Âu trong thập niên 2020 nhắm mạnh vào các hãng công nghệ lớn, theo hướng mà Sowell phê phán (xem phần Đánh giá). Chương này **không có chú thích chân trang có nội dung** (dấu số La Mã); các dấu chú thích trong text đều là chú thích nguồn trích dẫn (endnote), đã bỏ qua theo quy ước. Một chi tiết nhỏ: Sowell gọi tập đoàn của Ratan Tata là "Tata Industries"; tên quen thuộc hơn là Tập đoàn Tata (Tata Group), do công ty mẹ Tata Sons nắm giữ. Các câu trích là bản dịch của người tổng hợp.
+Sowell muốn người đọc phân biệt **lý do ban đầu** của điều tiết và luật chống độc quyền với **điều chúng thực sự làm**.
+
+Uỷ ban điều tiết được lập ra để ngăn giá quá cao, nhưng theo thời gian thường chuyển sang ngăn giá giảm, để bảo vệ các doanh nghiệp đang bị điều tiết trước đối thủ mới.
+
+Ví dụ trung tâm là Uỷ ban Thương mại Giữa các Bang (Interstate Commerce Commission, ICC): lập năm 1887 để chặn giá độc quyền của đường sắt, rồi năm 1935 giành thêm quyền kiểm soát ngành xe tải để bảo vệ đường sắt khỏi cạnh tranh của xe tải.
+
+Luật chống độc quyền được lập ra để bảo vệ **cạnh tranh** (một trạng thái của thị trường), nhưng trên thực tế thường bảo vệ **đối thủ cạnh tranh** (những doanh nghiệp cụ thể), và nhiều vụ kiện nổi tiếng nhắm vào công ty bán giá **thấp** hơn đối thủ: chuỗi tạp hoá A & P, Morton Salt, Microsoft.
+
+Sowell còn bác bỏ cách đo "thị phần kiểm soát" (vì bỏ qua hàng thay thế và hàng nhập khẩu) và lý thuyết "định giá huỷ diệt" (vì không có ví dụ được ghi nhận và không hợp lý về kinh tế), rồi kết bằng trường hợp Ấn Độ: luật chống độc quyền năm 1969 che chắn doanh nghiệp khỏi cạnh tranh, và khi luật bị bãi bỏ năm 1991, các doanh nghiệp như Tata Steel buộc phải trở nên hiệu quả.
 
 ## Sơ đồ
 
@@ -616,13 +621,19 @@ Công chúng ít khi hiểu những phức tạp kinh tế này, nên phẫn n�
 
 Ở Ấn Độ, các nỗ lực tăng giá điện cũng gặp biểu tình đường phố. Ở bang Karnataka, khi đó do Đảng Quốc đại (Congress Party) nắm quyền, một đảng đối lập dẫn biểu tình chống điều chỉnh giá điện; ở bang láng giềng Andhra Pradesh, nơi Đảng Quốc đại là đối lập, chính Đảng Quốc đại dẫn biểu tình chống tăng giá điện. Sowell kết luận rằng các cuộc biểu tình này không xuất phát từ hệ tư tưởng hay đảng phái, mà từ việc chiều theo những hiểu lầm của công chúng một cách cơ hội.
 
-Các phức tạp chính trị còn làm vấn đề tệ hơn. Uỷ ban điều tiết thường được lập sau khi một số nhà vận động mở điều tra hay chiến dịch truyền thông thành công, thuyết phục chính quyền lập một uỷ ban thường trực giám sát một doanh nghiệp độc quyền, hoặc một nhóm doanh nghiệp đủ ít để có thể cấu kết như một doanh nghiệp độc quyền. Sau khi uỷ ban được lập và có quyền, nhà vận động và báo chí dần mất hứng thú và chuyển sang chuyện khác. Trong khi đó, các doanh nghiệp bị điều tiết vẫn quan tâm sát sao tới hoạt động của uỷ ban, vận động chính phủ để có quy định có lợi và để những người thuận lợi cho mình được bổ nhiệm vào uỷ ban. Do sự quan tâm từ bên ngoài không cân xứng như vậy, uỷ ban được lập để giữ một doanh nghiệp hay một ngành trong khuôn khổ vì lợi ích người tiêu dùng thường biến thành cơ quan bảo vệ các doanh nghiệp đang bị điều tiết trước doanh nghiệp mới, công nghệ mới hay cách tổ chức mới.
+Các phức tạp chính trị còn làm vấn đề tệ hơn. Uỷ ban điều tiết thường được lập sau khi một số nhà vận động mở điều tra hay chiến dịch truyền thông thành công, thuyết phục chính quyền lập một uỷ ban thường trực giám sát một doanh nghiệp độc quyền, hoặc một nhóm doanh nghiệp đủ ít để có thể cấu kết như một doanh nghiệp độc quyền.
+
+Sau khi uỷ ban được lập và có quyền, nhà vận động và báo chí dần mất hứng thú và chuyển sang chuyện khác. Trong khi đó, các doanh nghiệp bị điều tiết vẫn quan tâm sát sao tới hoạt động của uỷ ban, vận động chính phủ để có quy định có lợi và để những người thuận lợi cho mình được bổ nhiệm vào uỷ ban. Do sự quan tâm từ bên ngoài không cân xứng như vậy, uỷ ban được lập để giữ một doanh nghiệp hay một ngành trong khuôn khổ vì lợi ích người tiêu dùng thường biến thành cơ quan bảo vệ các doanh nghiệp đang bị điều tiết trước doanh nghiệp mới, công nghệ mới hay cách tổ chức mới.
 
 ### 4. Uỷ ban điều tiết (Regulatory Commissions, tiếp): ICC và ngành xe tải
 
-ICC được lập để ngăn đường sắt thu giá độc quyền, vì ở nhiều vùng chỉ có một tuyến đường sắt. Khi ngành xe tải ra đời, xe tải đi được mọi nơi có đường bộ, nên phá thế độc quyền ấy và đe doạ sự sống còn của đường sắt. ICC không kết luận rằng việc điều tiết vận tải nay bớt cần thiết hay không còn cần nữa. Ngược lại, ICC xin và được Quốc hội trao thêm quyền theo Đạo luật Vận tải Cơ giới (Motor Carrier Act) năm 1935 để hạn chế xe tải. Từ đó xe tải chỉ được chạy qua ranh giới các bang nếu có giấy chứng nhận của ICC rằng hoạt động của chúng phục vụ "sự tiện lợi và nhu cầu của công chúng" (public convenience and necessity) theo định nghĩa của ICC. Nhờ vậy đường sắt sống sót, dù xe tải hiệu quả hơn với nhiều loại hàng và thường có thể bán giá thấp hơn.
+ICC được lập để ngăn đường sắt thu giá độc quyền, vì ở nhiều vùng chỉ có một tuyến đường sắt. Khi ngành xe tải ra đời, xe tải đi được mọi nơi có đường bộ, nên phá thế độc quyền ấy và đe doạ sự sống còn của đường sắt.
 
-Kết quả là hàng hoá không còn được chở theo cách tốn ít nguồn lực nhất như dưới cạnh tranh tự do, mà theo các yêu cầu tuỳ tiện của ICC. ICC có thể cho một hãng xe tải chở hàng từ New York tới Washington nhưng không cho chở từ Philadelphia tới Baltimore, dù hai thành phố này nằm ngay trên đường đi. Nếu giấy phép không cho chở hàng chiều từ Washington về New York, xe phải chạy rỗng về, trong khi xe của hãng khác chở hàng chiều đó. Xét cả nền kinh tế, chi phí cao hơn mức cần thiết rất nhiều. Nhưng về mặt chính trị, cách sắp xếp này cho phép nhiều hãng xe tải và đường sắt sống sót và có lãi hơn so với một thị trường cạnh tranh không hạn chế, nơi các hãng buộc phải dùng cách chở hiệu quả nhất, dù chi phí và giá thấp hơn có thể làm phá sản những hãng đường sắt có chi phí quá cao. Dùng nhiều nguồn lực hơn mức cần thiết đi kèm với việc nhiều công ty hơn mức cần thiết được tồn tại.
+ICC không kết luận rằng việc điều tiết vận tải nay bớt cần thiết hay không còn cần nữa. Ngược lại, ICC xin và được Quốc hội trao thêm quyền theo Đạo luật Vận tải Cơ giới (Motor Carrier Act) năm 1935 để hạn chế xe tải. Từ đó xe tải chỉ được chạy qua ranh giới các bang nếu có giấy chứng nhận của ICC rằng hoạt động của chúng phục vụ "sự tiện lợi và nhu cầu của công chúng" (public convenience and necessity) theo định nghĩa của ICC. Nhờ vậy đường sắt sống sót, dù xe tải hiệu quả hơn với nhiều loại hàng và thường có thể bán giá thấp hơn.
+
+Kết quả là hàng hoá không còn được chở theo cách tốn ít nguồn lực nhất như dưới cạnh tranh tự do, mà theo các yêu cầu tuỳ tiện của ICC. ICC có thể cho một hãng xe tải chở hàng từ New York tới Washington nhưng không cho chở từ Philadelphia tới Baltimore, dù hai thành phố này nằm ngay trên đường đi. Nếu giấy phép không cho chở hàng chiều từ Washington về New York, xe phải chạy rỗng về, trong khi xe của hãng khác chở hàng chiều đó.
+
+Xét cả nền kinh tế, chi phí cao hơn mức cần thiết rất nhiều. Nhưng về mặt chính trị, cách sắp xếp này cho phép nhiều hãng xe tải và đường sắt sống sót và có lãi hơn so với một thị trường cạnh tranh không hạn chế, nơi các hãng buộc phải dùng cách chở hiệu quả nhất, dù chi phí và giá thấp hơn có thể làm phá sản những hãng đường sắt có chi phí quá cao. Dùng nhiều nguồn lực hơn mức cần thiết đi kèm với việc nhiều công ty hơn mức cần thiết được tồn tại.
 
 Cạnh tranh tự do có lợi cho xã hội nhưng đe doạ chính uỷ ban: các doanh nghiệp sắp bị cạnh tranh đào thải chắc chắn sẽ vận động chính trị chống các uỷ viên, chống sự tồn tại và quyền hạn của uỷ ban. Công đoàn cũng có lợi ích riêng trong việc giữ hiện trạng, chống lại các công nghệ và phương pháp cần ít công nhân hơn.
 
@@ -641,13 +652,19 @@ Sự phi hiệu quả không chỉ có ở ICC. Uỷ ban Hàng không Dân dụn
 
 Sowell nhấn mạnh đây không phải trò chơi tổng bằng không (zero-sum), trong đó hãng bay mất đúng bằng phần hành khách được. Cả nước được lợi vì ngành trở nên hiệu quả hơn: cũng như sau khi bãi bỏ điều tiết xe tải có ít xe chạy rỗng hơn, sau khi bãi bỏ điều tiết hàng không máy bay bay với tỷ lệ ghế có khách cao hơn, và hành khách thường có nhiều lựa chọn hãng hơn trên mỗi tuyến. Điều tương tự xảy ra khi châu Âu bãi bỏ điều tiết hàng không năm 1997: cạnh tranh từ các hãng giá rẻ mới như Ryanair buộc British Airways, Air France và Lufthansa giảm giá vé.
 
-Sowell rút ra quy luật chung: trong các ngành này và nhiều ngành khác, lý do ban đầu của điều tiết là ngăn giá tăng quá mức, nhưng theo năm tháng nó biến thành các hạn chế ngăn giá **giảm** tới mức đe doạ sự tồn tại của doanh nghiệp hiện có. Các chiến dịch chính trị dựa trên những lý do nghe hợp lý, nhưng ngay cả khi những lý do đó được tin thật lòng và áp dụng trung thực, hậu quả thực tế có thể hoàn toàn khác mục tiêu ban đầu. Ai cũng có thể sai lầm, nhưng trong nền kinh tế cạnh tranh, người sai lầm lớn bị các khoản lỗ đẩy khỏi thị trường. Trong chính trị, các cơ quan điều tiết thường vẫn tồn tại sau khi lý do lập ra chúng đã hết, bằng cách làm những việc không ai nghĩ tới lúc thành lập.
+Sowell rút ra quy luật chung: trong các ngành này và nhiều ngành khác, lý do ban đầu của điều tiết là ngăn giá tăng quá mức, nhưng theo năm tháng nó biến thành các hạn chế ngăn giá **giảm** tới mức đe doạ sự tồn tại của doanh nghiệp hiện có. Các chiến dịch chính trị dựa trên những lý do nghe hợp lý, nhưng ngay cả khi những lý do đó được tin thật lòng và áp dụng trung thực, hậu quả thực tế có thể hoàn toàn khác mục tiêu ban đầu.
+
+Ai cũng có thể sai lầm, nhưng trong nền kinh tế cạnh tranh, người sai lầm lớn bị các khoản lỗ đẩy khỏi thị trường. Trong chính trị, các cơ quan điều tiết thường vẫn tồn tại sau khi lý do lập ra chúng đã hết, bằng cách làm những việc không ai nghĩ tới lúc thành lập.
 
 ### 6. Luật chống độc quyền (Anti-Trust Laws) và tiểu mục "Competition versus Competitors" — cạnh tranh và đối thủ cạnh tranh
 
 Với luật chống độc quyền cũng phải phân biệt rạch ròi lý do ban đầu với điều luật thực sự làm. Lý do cơ bản là ngăn độc quyền và các tình trạng thiếu cạnh tranh khiến giá cao hơn mức của thị trường cạnh tranh tự do. Nhưng phần lớn các vụ kiện chống độc quyền nổi tiếng ở Mỹ nhắm vào doanh nghiệp bán giá **thấp** hơn đối thủ, và thường chính lời phàn nàn của các đối thủ đó khiến chính phủ hành động.
 
-Nhiều vụ truy tố dựa trên lập luận rằng hành động của một công ty đe doạ cạnh tranh. Nhưng theo Sowell, điều quan trọng nhất về cạnh tranh là nó là một **trạng thái** của thị trường, không đo được bằng số đối thủ đang tồn tại trong một ngành tại một thời điểm. Chính trị gia, luật sư và nhiều người khác nhầm sự tồn tại của cạnh tranh với số đối thủ còn sống sót, trong khi chính trạng thái cạnh tranh là thứ loại bỏ nhiều đối thủ. Nếu nó loại bỏ hết đối thủ thì công ty còn lại sẽ là độc quyền, ít nhất cho tới khi đối thủ mới xuất hiện, và trong thời gian đó có thể bán giá cao hơn hẳn. Nhưng điều đó cực kỳ hiếm, và bóng ma độc quyền thường được dùng để biện minh cho can thiệp ở những nơi không có nguy cơ độc quyền nghiêm trọng. Ví dụ: khi A & P là chuỗi bán lẻ lớn nhất thế giới, hơn 4/5 lượng hàng tạp hoá ở Mỹ vẫn do các cửa hàng khác bán; vậy mà Bộ Tư pháp vẫn kiện A & P, dùng giá thấp của A & P và cách A & P đạt được giá thấp làm bằng chứng cạnh tranh "không lành mạnh" với các cửa hàng và chuỗi đối thủ. Suốt lịch sử truy tố chống độc quyền, sự lẫn lộn giữa điều hại cho cạnh tranh và điều hại cho đối thủ chưa bao giờ được giải quyết, và trong sự lẫn lộn đó, câu hỏi điều gì có lợi cho người tiêu dùng thường bị lãng quên.
+Nhiều vụ truy tố dựa trên lập luận rằng hành động của một công ty đe doạ cạnh tranh. Nhưng theo Sowell, điều quan trọng nhất về cạnh tranh là nó là một **trạng thái** của thị trường, không đo được bằng số đối thủ đang tồn tại trong một ngành tại một thời điểm. Chính trị gia, luật sư và nhiều người khác nhầm sự tồn tại của cạnh tranh với số đối thủ còn sống sót, trong khi chính trạng thái cạnh tranh là thứ loại bỏ nhiều đối thủ.
+
+Nếu nó loại bỏ hết đối thủ thì công ty còn lại sẽ là độc quyền, ít nhất cho tới khi đối thủ mới xuất hiện, và trong thời gian đó có thể bán giá cao hơn hẳn. Nhưng điều đó cực kỳ hiếm, và bóng ma độc quyền thường được dùng để biện minh cho can thiệp ở những nơi không có nguy cơ độc quyền nghiêm trọng.
+
+Ví dụ: khi A & P là chuỗi bán lẻ lớn nhất thế giới, hơn 4/5 lượng hàng tạp hoá ở Mỹ vẫn do các cửa hàng khác bán; vậy mà Bộ Tư pháp vẫn kiện A & P, dùng giá thấp của A & P và cách A & P đạt được giá thấp làm bằng chứng cạnh tranh "không lành mạnh" với các cửa hàng và chuỗi đối thủ. Suốt lịch sử truy tố chống độc quyền, sự lẫn lộn giữa điều hại cho cạnh tranh và điều hại cho đối thủ chưa bao giờ được giải quyết, và trong sự lẫn lộn đó, câu hỏi điều gì có lợi cho người tiêu dùng thường bị lãng quên.
 
 Cũng bị lãng quên là hiệu quả của toàn bộ nền kinh tế, một cách khác để nhìn lợi ích của người tiêu dùng. Sowell giải thích vì sao mua bán quy mô lớn tiết kiệm nguồn lực:
 
@@ -657,7 +674,11 @@ Cũng bị lãng quên là hiệu quả của toàn bộ nền kinh tế, một 
 | Lên lịch sản xuất | Đơn hàng lớn cho phép nhà sản xuất lên lịch xa, không phải trả tiền làm thêm giờ cho nhiều đơn nhỏ bất ngờ dồn cùng lúc |
 | Ổn định lao động | Đơn hàng thất thường gây thời kỳ vắng việc; công nhân bị cho nghỉ có thể tìm việc khác và không quay lại, nên phải tuyển người mới, tốn chi phí đào tạo và năng suất thấp cho tới khi họ có kinh nghiệm; doanh nghiệp không có việc làm ổn định thì phải trả lương cao hơn mới tuyển được người |
 
-Khi một chuỗi lớn ký hợp đồng mua phần lớn sản lượng của nhà cung cấp trong thời gian dài, phần chi phí tiết kiệm được chia cho chuỗi (giá mua thấp hơn) và cho nhà sản xuất (chi phí thấp hơn nên lợi nhuận cao hơn). Vậy mà quá trình này từ lâu bị mô tả là chuỗi lớn dùng "quyền lực" để "ép" nhà cung cấp bán rẻ; ví dụ báo *San Francisco Chronicle* viết rằng các nhà bán lẻ quy mô lớn như Target và Wal-Mart dùng quy mô khổng lồ để "vắt" giá thấp từ nhà cung cấp. Sowell phản bác: điều bị gọi là "vắt" thực chất là giảm dùng nguồn lực khan hiếm, giải phóng một phần nguồn lực cho việc khác. Hơn nữa, chuỗi bán lẻ không có khả năng thu hẹp các lựa chọn của nhà sản xuất: nhà sản xuất khăn tắm hay kem đánh răng có vô số người mua khác, trước đây không bị buộc phải bán cho A & P, nay không bị buộc phải bán cho Target hay Wal-Mart. Nhà cung cấp chỉ chịu giảm giá khi lợi thế kinh tế nhờ quy mô khiến việc bán cho khách lớn có lãi. Mọi giao dịch kinh tế đều là sự điều chỉnh qua lại, và mỗi bên phải làm cho giao dịch có lợi ròng cho bên kia thì mới có giao dịch.
+Khi một chuỗi lớn ký hợp đồng mua phần lớn sản lượng của nhà cung cấp trong thời gian dài, phần chi phí tiết kiệm được chia cho chuỗi (giá mua thấp hơn) và cho nhà sản xuất (chi phí thấp hơn nên lợi nhuận cao hơn). Vậy mà quá trình này từ lâu bị mô tả là chuỗi lớn dùng "quyền lực" để "ép" nhà cung cấp bán rẻ; ví dụ báo *San Francisco Chronicle* viết rằng các nhà bán lẻ quy mô lớn như Target và Wal-Mart dùng quy mô khổng lồ để "vắt" giá thấp từ nhà cung cấp.
+
+Sowell phản bác: điều bị gọi là "vắt" thực chất là giảm dùng nguồn lực khan hiếm, giải phóng một phần nguồn lực cho việc khác.
+
+Hơn nữa, chuỗi bán lẻ không có khả năng thu hẹp các lựa chọn của nhà sản xuất: nhà sản xuất khăn tắm hay kem đánh răng có vô số người mua khác, trước đây không bị buộc phải bán cho A & P, nay không bị buộc phải bán cho Target hay Wal-Mart. Nhà cung cấp chỉ chịu giảm giá khi lợi thế kinh tế nhờ quy mô khiến việc bán cho khách lớn có lãi. Mọi giao dịch kinh tế đều là sự điều chỉnh qua lại, và mỗi bên phải làm cho giao dịch có lợi ròng cho bên kia thì mới có giao dịch.
 
 Dù vậy, chính phủ nhiều lần kiện các công ty chiết khấu theo khối lượng theo cách mà cơ quan chức năng không thích hoặc không hiểu:
 
@@ -667,11 +688,19 @@ Dù vậy, chính phủ nhiều lần kiện các công ty chiết khấu theo k
 | Standard Oil | Thập niên 1950 | Chiết khấu cho đại lý mua dầu theo cả toa xe bồn |
 | Borden | Thập niên 1960 | Bán sữa cho các chuỗi lớn rẻ hơn cho cửa hàng tạp hoá nhỏ |
 
-Trong cả ba vụ, các chênh lệch giá bị coi là "phân biệt đối xử" và "không công bằng" với các đối thủ không mua được khối lượng lớn. Bên bán được biện hộ bằng chênh lệch chi phí khi bán cho các nhóm khách khác nhau, nhưng khái niệm "chi phí" tưởng đơn giản lại không hề đơn giản khi luật sư, kế toán và nhà kinh tế hai bên tranh cãi. Khi không bên nào chứng minh dứt khoát được gì về chi phí, điều thường xảy ra, bị đơn thua. Sowell coi đây là một sự rời bỏ căn bản truyền thống hàng thế kỷ của pháp luật Anh–Mỹ: chính phủ chỉ cần đưa ra chứng cứ bề ngoài ban đầu (prima facie case) dựa trên số liệu thô là nghĩa vụ chứng minh chuyển sang bị đơn. Nguyên tắc và thủ tục này nhiều năm sau xuất hiện lại trong các vụ kiện phân biệt đối xử trong tuyển dụng theo luật dân quyền. Cả hai loại vụ kiện đều dẫn tới nhiều thoả thuận đồng thuận (consent decree) và dàn xếp lớn ngoài toà, vì các công ty biết gần như không thể chứng minh mình vô tội, bất kể sự thật ra sao.
+Trong cả ba vụ, các chênh lệch giá bị coi là "phân biệt đối xử" và "không công bằng" với các đối thủ không mua được khối lượng lớn. Bên bán được biện hộ bằng chênh lệch chi phí khi bán cho các nhóm khách khác nhau, nhưng khái niệm "chi phí" tưởng đơn giản lại không hề đơn giản khi luật sư, kế toán và nhà kinh tế hai bên tranh cãi. Khi không bên nào chứng minh dứt khoát được gì về chi phí, điều thường xảy ra, bị đơn thua.
 
-Việc bảo vệ đối thủ nhân danh bảo vệ cạnh tranh không chỉ có ở Mỹ. Một vụ kiện chống độc quyền ở châu Âu đối với Microsoft dựa trên ý tưởng rằng Microsoft có nghĩa vụ tạo điều kiện cho đối thủ muốn gắn phần mềm của họ vào hệ điều hành Microsoft. Một bài xã luận của *New York Times* hoan nghênh phán quyết: toà châu Âu đồng ý với các cơ quan quản lý rằng Microsoft lạm dụng vị thế độc quyền hệ điều hành khi gộp phần mềm phát nhạc và phim Media Player vào Windows, gạt các đối thủ như RealPlayer ra ngoài; công ty không được dùng ưu thế ở một thị trường (hệ điều hành) để mở rộng sang thị trường mới (phần mềm phát nhạc, phim); và Microsoft phải cung cấp cho các hãng phần mềm đối thủ thông tin cần thiết để sản phẩm của họ chạy được với phần mềm máy chủ của Microsoft. Bài xã luận còn tỏ ra ngạc nhiên khi có người coi nguyên tắc này là "đòn chí mạng vào chính chủ nghĩa tư bản". Sowell nhận xét: khi cạnh tranh tự do trên thị trường bị thay bằng việc bên thứ ba can thiệp để buộc công ty hỗ trợ nỗ lực của đối thủ, khó mà gọi đó là thúc đẩy cạnh tranh thay vì bảo vệ đối thủ.
+Sowell coi đây là một sự rời bỏ căn bản truyền thống hàng thế kỷ của pháp luật Anh–Mỹ: chính phủ chỉ cần đưa ra chứng cứ bề ngoài ban đầu (prima facie case) dựa trên số liệu thô là nghĩa vụ chứng minh chuyển sang bị đơn. Nguyên tắc và thủ tục này nhiều năm sau xuất hiện lại trong các vụ kiện phân biệt đối xử trong tuyển dụng theo luật dân quyền. Cả hai loại vụ kiện đều dẫn tới nhiều thoả thuận đồng thuận (consent decree) và dàn xếp lớn ngoài toà, vì các công ty biết gần như không thể chứng minh mình vô tội, bất kể sự thật ra sao.
 
-Sự lẫn lộn này đã có từ lâu. Khi Kodachrome là phim màu hàng đầu thế giới, nó cũng được gọi là loại phim khó tráng rửa nhất. Vì danh tiếng của Kodachrome rất quan trọng với Eastman Kodak, Kodak tự tráng rửa toàn bộ Kodachrome và bán phim kèm dịch vụ tráng, thay vì để tiệm khác làm ra ảnh kém mà khách hàng có thể coi là lỗi của phim. Một vụ kiện chống độc quyền buộc Kodak bán phim và tráng rửa riêng, để không "đóng" thị trường tráng rửa với các tiệm khác. Sowell chỉ ra rằng mọi loại phim khác của Kodak vốn đã bán không kèm tráng rửa, điều cho thấy Kodak không nhằm chiếm thị trường tráng rửa mà nhằm giữ chất lượng và danh tiếng của một loại phim đặc biệt khó tráng. Nhưng trọng tâm bảo vệ đối thủ vẫn thắng ở toà.
+Việc bảo vệ đối thủ nhân danh bảo vệ cạnh tranh không chỉ có ở Mỹ. Một vụ kiện chống độc quyền ở châu Âu đối với Microsoft dựa trên ý tưởng rằng Microsoft có nghĩa vụ tạo điều kiện cho đối thủ muốn gắn phần mềm của họ vào hệ điều hành Microsoft.
+
+Một bài xã luận của *New York Times* hoan nghênh phán quyết: toà châu Âu đồng ý với các cơ quan quản lý rằng Microsoft lạm dụng vị thế độc quyền hệ điều hành khi gộp phần mềm phát nhạc và phim Media Player vào Windows, gạt các đối thủ như RealPlayer ra ngoài; công ty không được dùng ưu thế ở một thị trường (hệ điều hành) để mở rộng sang thị trường mới (phần mềm phát nhạc, phim); và Microsoft phải cung cấp cho các hãng phần mềm đối thủ thông tin cần thiết để sản phẩm của họ chạy được với phần mềm máy chủ của Microsoft.
+
+Bài xã luận còn tỏ ra ngạc nhiên khi có người coi nguyên tắc này là "đòn chí mạng vào chính chủ nghĩa tư bản". Sowell nhận xét: khi cạnh tranh tự do trên thị trường bị thay bằng việc bên thứ ba can thiệp để buộc công ty hỗ trợ nỗ lực của đối thủ, khó mà gọi đó là thúc đẩy cạnh tranh thay vì bảo vệ đối thủ.
+
+Sự lẫn lộn này đã có từ lâu. Khi Kodachrome là phim màu hàng đầu thế giới, nó cũng được gọi là loại phim khó tráng rửa nhất. Vì danh tiếng của Kodachrome rất quan trọng với Eastman Kodak, Kodak tự tráng rửa toàn bộ Kodachrome và bán phim kèm dịch vụ tráng, thay vì để tiệm khác làm ra ảnh kém mà khách hàng có thể coi là lỗi của phim.
+
+Một vụ kiện chống độc quyền buộc Kodak bán phim và tráng rửa riêng, để không "đóng" thị trường tráng rửa với các tiệm khác. Sowell chỉ ra rằng mọi loại phim khác của Kodak vốn đã bán không kèm tráng rửa, điều cho thấy Kodak không nhằm chiếm thị trường tráng rửa mà nhằm giữ chất lượng và danh tiếng của một loại phim đặc biệt khó tráng. Nhưng trọng tâm bảo vệ đối thủ vẫn thắng ở toà.
 
 ### 7. "Kiểm soát" thị trường ("Control" of the Market)
 
@@ -679,7 +708,9 @@ Sự lẫn lộn này đã có từ lâu. Khi Kodachrome là phim màu hàng đ�
 
 **Chữ "kiểm soát".** Toà án Mỹ và sách vở về luật chống độc quyền thường gọi tỷ lệ doanh số của một công ty là phần thị trường mà công ty đó "kiểm soát". Theo cách nói đó, những công ty nay đã biến mất như Pan American Airways từng "kiểm soát" một phần đáng kể thị trường của mình; thời gian cho thấy họ chẳng kiểm soát gì, nếu không họ đã không để mình bị đẩy khỏi thị trường. Việc những gã khổng lồ cũ như A & P teo nhỏ nghiêm trọng cũng cho thấy lời lẽ "kiểm soát" ít liên quan tới thực tế, dù nó vẫn hiệu quả ở toà án và trước dư luận.
 
-**Alcoa.** Ngay cả trong trường hợp hiếm hoi có độc quyền thật tự hình thành, tức không do chính sách nhà nước tạo ra hay duy trì, hậu quả thực tế cũng nhẹ hơn nhiều so với lý thuyết. Trong nhiều thập kỷ, Công ty Nhôm Hoa Kỳ (Alcoa) là nhà sản xuất nhôm thỏi nguyên chất duy nhất ở Mỹ, nhưng tỷ suất lợi nhuận trên vốn đầu tư chỉ khoảng 10% mỗi năm sau thuế, và giá nhôm qua các năm giảm xuống còn một phần nhỏ so với trước khi Alcoa thành lập. Alcoa vẫn bị truy tố theo luật chống độc quyền và bị kết tội. Vì sao giá giảm dưới một doanh nghiệp độc quyền, trong khi lý thuyết nói giá phải tăng? Vì Alcoa biết rằng dù "kiểm soát" thị trường nhôm, họ không thể tuỳ ý tăng giá mà không có nguy cơ khách hàng chuyển sang thép, thiếc, gỗ hay nhựa; tiến bộ công nghệ làm giảm chi phí sản xuất mọi vật liệu đó, và cạnh tranh buộc các công ty phải giảm giá theo.
+**Alcoa.** Ngay cả trong trường hợp hiếm hoi có độc quyền thật tự hình thành, tức không do chính sách nhà nước tạo ra hay duy trì, hậu quả thực tế cũng nhẹ hơn nhiều so với lý thuyết. Trong nhiều thập kỷ, Công ty Nhôm Hoa Kỳ (Alcoa) là nhà sản xuất nhôm thỏi nguyên chất duy nhất ở Mỹ, nhưng tỷ suất lợi nhuận trên vốn đầu tư chỉ khoảng 10% mỗi năm sau thuế, và giá nhôm qua các năm giảm xuống còn một phần nhỏ so với trước khi Alcoa thành lập. Alcoa vẫn bị truy tố theo luật chống độc quyền và bị kết tội.
+
+Vì sao giá giảm dưới một doanh nghiệp độc quyền, trong khi lý thuyết nói giá phải tăng? Vì Alcoa biết rằng dù "kiểm soát" thị trường nhôm, họ không thể tuỳ ý tăng giá mà không có nguy cơ khách hàng chuyển sang thép, thiếc, gỗ hay nhựa; tiến bộ công nghệ làm giảm chi phí sản xuất mọi vật liệu đó, và cạnh tranh buộc các công ty phải giảm giá theo.
 
 **Hàng thay thế thuộc "ngành khác".** Câu hỏi này áp dụng rộng hơn nhiều so với ngành nhôm. Thị phần "kiểm soát" bỏ qua vai trò của hàng thay thế được xếp chính thức vào ngành khác, nhưng nhiều người mua vẫn dùng thay được nếu giá của sản phẩm độc quyền tăng đáng kể. Một sản phẩm khác hẳn về công nghệ vẫn có thể thay thế: truyền hình thay nhiều tờ báo làm nguồn thông tin và giải trí; điện thoại thông minh chụp ảnh được cạnh tranh tàn khốc với dòng máy ảnh đơn giản, rẻ tiền từng mang lại lợi nhuận cho Eastman Kodak. Khi tính thị phần Kodak "kiểm soát", điện thoại và máy ảnh thuộc hai ngành khác nhau, nhưng thực tế kinh tế nói ngược lại.
 
@@ -689,19 +720,33 @@ Sự lẫn lộn này đã có từ lâu. Khi Kodachrome là phim màu hàng đ�
 | Vượt Đại Tây Dương | 1954: tàu biển 1 triệu khách, máy bay 600.000 | 11 năm sau: tàu biển 650.000, máy bay 4 triệu |
 | Mỹ Latinh thế kỷ 21 (Brazil, Mexico, Colombia) | Đi tới các thành phố thứ cấp phải ngồi xe buýt cả ngày | Hãng bay giá rẻ mở tuyến tới các thành phố đó; một hãng bán vé vào Thành phố Mexico giá khoảng một nửa vé xe buýt đêm 14 giờ; đi xe buýt giảm phần nào, đi máy bay tăng mạnh, tổng số người đi lại tăng |
 
-Dù một hãng hàng không chở ("kiểm soát") bao nhiêu phần trăm khách đi máy bay giữa Madrid và Seville, và dù một hãng đường sắt chở bao nhiêu phần trăm khách đi tàu, mỗi bên vẫn phải cạnh tranh với mọi hãng bay và mọi tuyến tàu giữa hai thành phố. Theo *Wall Street Journal*, các hãng bay giá rẻ ở Mỹ Latinh phần lớn tránh cạnh tranh với các hãng truyền thống, mà tạo ra lượng khách mới bằng các chuyến bay rẻ, không dịch vụ kèm theo tới những thành phố mà người dân trước đây phải đi xe buýt cả ngày; nhờ đó số hành khách tăng vọt, thương mại lưu thông hơn và thời gian đi lại giảm mạnh ở những vùng đường xấu, gần như không có đường sắt và địa hình khắc nghiệt. Máy bay và xe buýt khác hẳn nhau về công nghệ nhưng phục vụ cùng một mục đích và cạnh tranh với nhau, một sự thật bị bỏ qua khi người ta tính thị phần một công ty "kiểm soát".
+Dù một hãng hàng không chở ("kiểm soát") bao nhiêu phần trăm khách đi máy bay giữa Madrid và Seville, và dù một hãng đường sắt chở bao nhiêu phần trăm khách đi tàu, mỗi bên vẫn phải cạnh tranh với mọi hãng bay và mọi tuyến tàu giữa hai thành phố.
 
-**Định nghĩa thị trường thật hẹp.** Bên đi kiện thường định nghĩa thị trường liên quan thật hẹp để thị phần "kiểm soát" của bị đơn trông cao. Trong vụ kiện chống độc quyền nổi tiếng đối với Microsoft vào khoảng năm 2000, thị trường được định nghĩa là hệ điều hành cho máy tính cá nhân đơn lẻ dùng loại vi mạch như của Intel. Định nghĩa này loại ra hệ điều hành của máy Apple, các hệ điều hành của Sun Microsystems dùng cho nhiều máy, và hệ điều hành Linux cho máy đơn lẻ. Trong thị trường hẹp đó, Microsoft rõ ràng có thị phần "áp đảo". Nhưng vụ kiện không cáo buộc Microsoft tăng giá quá mức theo kiểu lý thuyết độc quyền cổ điển; Microsoft bị cáo buộc vì gộp miễn phí một trình duyệt Internet vào Windows, làm hại hãng trình duyệt đối thủ Netscape. Theo Sowell, sự tồn tại của các nguồn cạnh tranh tiềm năng bên ngoài thị trường hẹp đó có lẽ góp phần giải thích vì sao Microsoft không tăng giá: tăng giá có thể có lợi trước mắt nhưng làm hại doanh số và lợi nhuận dài hạn, vì người dùng có thể chuyển sang hệ điều hành khác nếu giá hợp lý. Năm 2003, chính quyền thành phố Munich đã chuyển 14.000 máy tính từ Windows sang Linux, một hệ điều hành bị loại khỏi định nghĩa thị trường mà Microsoft "kiểm soát" nhưng rõ ràng là hàng thay thế.
+Theo *Wall Street Journal*, các hãng bay giá rẻ ở Mỹ Latinh phần lớn tránh cạnh tranh với các hãng truyền thống, mà tạo ra lượng khách mới bằng các chuyến bay rẻ, không dịch vụ kèm theo tới những thành phố mà người dân trước đây phải đi xe buýt cả ngày; nhờ đó số hành khách tăng vọt, thương mại lưu thông hơn và thời gian đi lại giảm mạnh ở những vùng đường xấu, gần như không có đường sắt và địa hình khắc nghiệt. Máy bay và xe buýt khác hẳn nhau về công nghệ nhưng phục vụ cùng một mục đích và cạnh tranh với nhau, một sự thật bị bỏ qua khi người ta tính thị phần một công ty "kiểm soát".
+
+**Định nghĩa thị trường thật hẹp.** Bên đi kiện thường định nghĩa thị trường liên quan thật hẹp để thị phần "kiểm soát" của bị đơn trông cao. Trong vụ kiện chống độc quyền nổi tiếng đối với Microsoft vào khoảng năm 2000, thị trường được định nghĩa là hệ điều hành cho máy tính cá nhân đơn lẻ dùng loại vi mạch như của Intel. Định nghĩa này loại ra hệ điều hành của máy Apple, các hệ điều hành của Sun Microsystems dùng cho nhiều máy, và hệ điều hành Linux cho máy đơn lẻ. Trong thị trường hẹp đó, Microsoft rõ ràng có thị phần "áp đảo".
+
+Nhưng vụ kiện không cáo buộc Microsoft tăng giá quá mức theo kiểu lý thuyết độc quyền cổ điển; Microsoft bị cáo buộc vì gộp miễn phí một trình duyệt Internet vào Windows, làm hại hãng trình duyệt đối thủ Netscape. Theo Sowell, sự tồn tại của các nguồn cạnh tranh tiềm năng bên ngoài thị trường hẹp đó có lẽ góp phần giải thích vì sao Microsoft không tăng giá: tăng giá có thể có lợi trước mắt nhưng làm hại doanh số và lợi nhuận dài hạn, vì người dùng có thể chuyển sang hệ điều hành khác nếu giá hợp lý. Năm 2003, chính quyền thành phố Munich đã chuyển 14.000 máy tính từ Windows sang Linux, một hệ điều hành bị loại khỏi định nghĩa thị trường mà Microsoft "kiểm soát" nhưng rõ ràng là hàng thay thế.
 
 Năm 2013, Bộ Tư pháp Mỹ kiện để ngăn hãng sản xuất bia Budweiser (cùng các nhãn bia khác) mua toàn bộ quyền sở hữu hãng sản xuất bia Corona. Theo cách nói của luật chống độc quyền, sở hữu tất cả các nhãn bia đó sẽ cho hãng Budweiser "kiểm soát" 46% doanh số bia ở Mỹ. Thực tế, phần lớn bia bán ở Mỹ vẫn nằm trong tay các hãng khác; riêng năm trước đó đã có thêm hơn 400 nhà sản xuất bia mới, nâng tổng số lên mức kỷ lục 2.751. Căn bản hơn, coi thị trường liên quan là thị trường bia đã bỏ qua việc bia chỉ là một loại đồ uống có cồn, và theo *Wall Street Journal*, bia đã mất thị phần vào các loại đồ uống có cồn khác suốt hơn một thập kỷ.
 
-**Hàng nhập khẩu.** Thương mại tự do quốc tế lan rộng khiến ngay cả độc quyền thật về một sản phẩm trong một nước cũng có thể chẳng có ý nghĩa gì nếu sản phẩm đó nhập khẩu được. Sowell dùng một món hàng giả định là "widget": nếu Brazil chỉ có một nhà sản xuất widget nhưng nước láng giềng Argentina có hàng chục và thế giới có hàng trăm, thì nhà sản xuất Brazil không phải độc quyền theo bất kỳ nghĩa kinh tế nào. Chỉ khi chính phủ Brazil cấm nhập khẩu widget, nhà sản xuất duy nhất trong nước mới thành độc quyền theo nghĩa có thể bán giá cao hơn giá cạnh tranh. Định nghĩa thị trường theo doanh số hàng sản xuất trong nước nghe có vẻ ngớ ngẩn, nhưng nó đã là cơ sở cho một phán quyết mang tính bước ngoặt của Toà án Tối cao Mỹ năm 1962, định nghĩa thị trường giày là "giày không bằng cao su sản xuất trong nước". Loại giày thể thao, giày đi thuyền và mọi loại giày nhập khẩu ra khỏi định nghĩa làm thị phần của các công ty bị cáo buộc tăng lên, và họ bị kết tội.
+**Hàng nhập khẩu.** Thương mại tự do quốc tế lan rộng khiến ngay cả độc quyền thật về một sản phẩm trong một nước cũng có thể chẳng có ý nghĩa gì nếu sản phẩm đó nhập khẩu được. Sowell dùng một món hàng giả định là "widget": nếu Brazil chỉ có một nhà sản xuất widget nhưng nước láng giềng Argentina có hàng chục và thế giới có hàng trăm, thì nhà sản xuất Brazil không phải độc quyền theo bất kỳ nghĩa kinh tế nào. Chỉ khi chính phủ Brazil cấm nhập khẩu widget, nhà sản xuất duy nhất trong nước mới thành độc quyền theo nghĩa có thể bán giá cao hơn giá cạnh tranh.
 
-**Cùng chức năng, khác sản phẩm.** Ngô và dầu mỏ trông không thuộc cùng một ngành, nhưng nhà sản xuất nhựa có thể dùng dầu từ cả hai. Khi giá dầu mỏ tăng vọt năm 2004, doanh số một loại nhựa resin làm từ dầu ngô của Cargill Dow tăng 60% so với năm trước, vì các nhà sản xuất nhựa chuyển khỏi dầu mỏ đắt hơn. Hai thứ có phải hàng thay thế hay không không phụ thuộc vào việc chúng trông giống nhau hay được xếp cùng ngành theo thông lệ; không ai tính ngô khi đo thị phần của một nhà sản xuất dầu mỏ, và điều đó chỉ cho thấy số liệu "kiểm soát" không đủ. Thậm chí những sản phẩm không giống nhau về chức năng cũng có thể là hàng thay thế về kinh tế: nếu sân golf tăng phí gấp đôi, nhiều người chơi nghiệp dư sẽ chơi ít đi hoặc bỏ hẳn, và dùng số tiền đó cho du lịch, du thuyền, nhiếp ảnh hay trượt tuyết. Về kinh tế, khi giá A tăng khiến người ta mua thêm B, thì A và B là hàng thay thế, dù chúng trông hay vận hành khác nhau. Luật và chính sách hiếm khi nhìn theo cách này khi xác định một công ty "kiểm soát" bao nhiêu phần thị trường.
+Định nghĩa thị trường theo doanh số hàng sản xuất trong nước nghe có vẻ ngớ ngẩn, nhưng nó đã là cơ sở cho một phán quyết mang tính bước ngoặt của Toà án Tối cao Mỹ năm 1962, định nghĩa thị trường giày là "giày không bằng cao su sản xuất trong nước". Loại giày thể thao, giày đi thuyền và mọi loại giày nhập khẩu ra khỏi định nghĩa làm thị phần của các công ty bị cáo buộc tăng lên, và họ bị kết tội.
 
-**Báo địa phương.** Trong nước cũng vậy: khi phạm vi phục vụ của các nhà sản xuất mở rộng, mức "kiểm soát" theo thống kê của nhà sản xuất địa phương ngày càng ít ý nghĩa. Sau giữa thế kỷ 20, khi truyền hình lên ngôi, số tờ báo ở các cộng đồng Mỹ giảm mạnh, và nhiều người lo ngại về thị phần địa phương ngày càng lớn mà các tờ báo còn lại "kiểm soát". Nhiều nơi chỉ còn một tờ báo địa phương, tức độc quyền nếu tính theo thị phần. Nhưng báo xuất bản nơi khác ngày càng được phát hành rộng. Một người sống ở Palo Alto, California, cách San Francisco 30 dặm, không cần mua báo Palo Alto để biết lịch chiếu phim trong thị trấn, vì thông tin đó có sẵn trên *San Francisco Chronicle*, được bán rộng rãi ở Palo Alto và dễ đặt giao tận nhà; càng không cần báo địa phương để đọc tin trong nước và quốc tế. Tiến bộ công nghệ cho phép *New York Times* và *Wall Street Journal* in ở California cùng lúc với New York, nên chúng thành báo toàn quốc; *USA Today* đạt số phát hành lớn nhất nước mà không hề gốc ở địa phương nào, vì được in ở nhiều nơi trên cả nước. Kết quả là nhiều tờ báo địa phương "độc quyền" chật vật để sống sót trước báo vùng và báo toàn quốc, nói gì tới lợi nhuận độc quyền. Vậy mà chính sách chống độc quyền dựa trên thị phần giữa các tờ báo có trụ sở tại địa phương vẫn hạn chế việc sáp nhập báo địa phương, vì sợ tờ còn lại "kiểm soát" quá nhiều thị trường địa phương, trong khi thị trường định nghĩa theo nơi đặt trụ sở đã gần như mất ý nghĩa kinh tế.
+**Cùng chức năng, khác sản phẩm.** Ngô và dầu mỏ trông không thuộc cùng một ngành, nhưng nhà sản xuất nhựa có thể dùng dầu từ cả hai. Khi giá dầu mỏ tăng vọt năm 2004, doanh số một loại nhựa resin làm từ dầu ngô của Cargill Dow tăng 60% so với năm trước, vì các nhà sản xuất nhựa chuyển khỏi dầu mỏ đắt hơn. Hai thứ có phải hàng thay thế hay không không phụ thuộc vào việc chúng trông giống nhau hay được xếp cùng ngành theo thông lệ; không ai tính ngô khi đo thị phần của một nhà sản xuất dầu mỏ, và điều đó chỉ cho thấy số liệu "kiểm soát" không đủ.
 
-**Rạp phim Las Vegas.** Ví dụ cực đoan nhất cho thấy số liệu thị phần sai lệch tới đâu là một chuỗi rạp chiếu 100% phim mới ra mắt (first-run) ở Las Vegas. Chuỗi này bị truy tố là độc quyền, nhưng khi vụ án lên tới Toà Phúc thẩm Khu vực 9, một chuỗi rạp khác đã chiếu nhiều phim mới ra mắt ở Las Vegas hơn chuỗi bị kiện. Lần này lẽ phải thắng: thẩm phán Alex Kozinski chỉ ra rằng dấu hiệu then chốt của độc quyền không phải thị phần, kể cả khi thị phần là 100%, mà là khả năng ngăn người khác vào ngành. Một công ty không ngăn được đối thủ gia nhập thì không phải độc quyền, dù tại một thời điểm nó chiếm bao nhiêu phần trăm thị trường. Vì vậy tờ *Palo Alto Daily News* không phải độc quyền theo bất kỳ nghĩa kinh tế nào, dù là nhật báo địa phương duy nhất của thị trấn.
+Thậm chí những sản phẩm không giống nhau về chức năng cũng có thể là hàng thay thế về kinh tế: nếu sân golf tăng phí gấp đôi, nhiều người chơi nghiệp dư sẽ chơi ít đi hoặc bỏ hẳn, và dùng số tiền đó cho du lịch, du thuyền, nhiếp ảnh hay trượt tuyết. Về kinh tế, khi giá A tăng khiến người ta mua thêm B, thì A và B là hàng thay thế, dù chúng trông hay vận hành khác nhau. Luật và chính sách hiếm khi nhìn theo cách này khi xác định một công ty "kiểm soát" bao nhiêu phần thị trường.
+
+**Báo địa phương.** Trong nước cũng vậy: khi phạm vi phục vụ của các nhà sản xuất mở rộng, mức "kiểm soát" theo thống kê của nhà sản xuất địa phương ngày càng ít ý nghĩa. Sau giữa thế kỷ 20, khi truyền hình lên ngôi, số tờ báo ở các cộng đồng Mỹ giảm mạnh, và nhiều người lo ngại về thị phần địa phương ngày càng lớn mà các tờ báo còn lại "kiểm soát". Nhiều nơi chỉ còn một tờ báo địa phương, tức độc quyền nếu tính theo thị phần.
+
+Nhưng báo xuất bản nơi khác ngày càng được phát hành rộng. Một người sống ở Palo Alto, California, cách San Francisco 30 dặm, không cần mua báo Palo Alto để biết lịch chiếu phim trong thị trấn, vì thông tin đó có sẵn trên *San Francisco Chronicle*, được bán rộng rãi ở Palo Alto và dễ đặt giao tận nhà; càng không cần báo địa phương để đọc tin trong nước và quốc tế. Tiến bộ công nghệ cho phép *New York Times* và *Wall Street Journal* in ở California cùng lúc với New York, nên chúng thành báo toàn quốc; *USA Today* đạt số phát hành lớn nhất nước mà không hề gốc ở địa phương nào, vì được in ở nhiều nơi trên cả nước.
+
+Kết quả là nhiều tờ báo địa phương "độc quyền" chật vật để sống sót trước báo vùng và báo toàn quốc, nói gì tới lợi nhuận độc quyền. Vậy mà chính sách chống độc quyền dựa trên thị phần giữa các tờ báo có trụ sở tại địa phương vẫn hạn chế việc sáp nhập báo địa phương, vì sợ tờ còn lại "kiểm soát" quá nhiều thị trường địa phương, trong khi thị trường định nghĩa theo nơi đặt trụ sở đã gần như mất ý nghĩa kinh tế.
+
+**Rạp phim Las Vegas.** Ví dụ cực đoan nhất cho thấy số liệu thị phần sai lệch tới đâu là một chuỗi rạp chiếu 100% phim mới ra mắt (first-run) ở Las Vegas. Chuỗi này bị truy tố là độc quyền, nhưng khi vụ án lên tới Toà Phúc thẩm Khu vực 9, một chuỗi rạp khác đã chiếu nhiều phim mới ra mắt ở Las Vegas hơn chuỗi bị kiện. Lần này lẽ phải thắng: thẩm phán Alex Kozinski chỉ ra rằng dấu hiệu then chốt của độc quyền không phải thị phần, kể cả khi thị phần là 100%, mà là khả năng ngăn người khác vào ngành.
+
+Một công ty không ngăn được đối thủ gia nhập thì không phải độc quyền, dù tại một thời điểm nó chiếm bao nhiêu phần trăm thị trường. Vì vậy tờ *Palo Alto Daily News* không phải độc quyền theo bất kỳ nghĩa kinh tế nào, dù là nhật báo địa phương duy nhất của thị trấn.
 
 **Kiện đúng lúc công ty sắp đi xuống.** Việc tập trung vào thị phần tại một thời điểm còn dẫn tới một khuôn mẫu: chính phủ Mỹ thường truy tố các công ty dẫn đầu ngành đúng lúc họ sắp mất vị trí dẫn đầu. Trong một thế giới mà các công ty thường xuyên lên rồi xuống, luật sư chống độc quyền có thể mất nhiều năm dựng hồ sơ chống một công ty đang ở đỉnh cao, và cũng sắp đi xuống. Một vụ chống độc quyền lớn có thể mất từ 10 năm trở lên mới kết thúc. Thị trường thường phản ứng với độc quyền và các-ten nhanh hơn nhiều: đầu thế kỷ 20, các tập đoàn "trust" bị các nhà bán lẻ khổng lồ như Sears, Montgomery Ward và A & P vượt mặt từ lâu trước khi chính phủ dựng xong vụ kiện.
 
@@ -709,11 +754,17 @@ Năm 2013, Bộ Tư pháp Mỹ kiện để ngăn hãng sản xuất bia Budweis
 
 Sowell gọi định giá huỷ diệt là một lý thuyết "đáng chú ý" (remarkable; người tổng hợp hiểu là ông dùng chữ này với ý mỉa mai) đã thành một phần truyền thống của luật chống độc quyền. Theo lý thuyết này, một công ty lớn muốn loại đối thủ nhỏ và chiếm thị phần của họ sẽ hạ giá tới mức khiến đối thủ lỗ không chịu nổi, buộc đối thủ rời thị trường khi cạn nguồn lực. Khi đã có vị thế độc quyền, công ty lớn sẽ tăng giá, không chỉ về mức cũ mà lên mức cao hơn tương xứng với vị thế độc quyền mới, nhờ đó bù lại khoản lỗ và hưởng lợi nhuận cao bất thường từ đó về sau, trên lưng người tiêu dùng.
 
-Điều đáng chú ý nhất là những người ủng hộ lý thuyết này hiếm khi đưa ra ví dụ cụ thể nào về việc nó từng xảy ra thật, và còn đáng chú ý hơn, họ không bị đòi phải đưa ra, kể cả ở toà trong các vụ chống độc quyền. Nhà kinh tế đoạt giải Nobel Gary Becker nói ông không biết vụ định giá huỷ diệt nào được ghi nhận bằng chứng cứ. Vậy mà A & P trong thập niên 1940 và Microsoft trong thập niên 1990 đều bị cáo buộc theo đuổi chiến lược này, dù không có một ví dụ nào về quá trình đó diễn ra trọn vẹn. Thay vào đó, giá thấp hiện tại của A & P và việc gộp trình duyệt miễn phí vào Windows của Microsoft bị diễn giải là nhằm tới mục tiêu đó, chứ không phải đã đạt được nó. Vì không thể chứng minh một điều phủ định, công ty bị cáo buộc không thể bác bỏ rằng mình theo đuổi mục tiêu đó, và vấn đề chỉ còn là người nghe có chọn tin hay không.
+Điều đáng chú ý nhất là những người ủng hộ lý thuyết này hiếm khi đưa ra ví dụ cụ thể nào về việc nó từng xảy ra thật, và còn đáng chú ý hơn, họ không bị đòi phải đưa ra, kể cả ở toà trong các vụ chống độc quyền. Nhà kinh tế đoạt giải Nobel Gary Becker nói ông không biết vụ định giá huỷ diệt nào được ghi nhận bằng chứng cứ.
+
+Vậy mà A & P trong thập niên 1940 và Microsoft trong thập niên 1990 đều bị cáo buộc theo đuổi chiến lược này, dù không có một ví dụ nào về quá trình đó diễn ra trọn vẹn. Thay vào đó, giá thấp hiện tại của A & P và việc gộp trình duyệt miễn phí vào Windows của Microsoft bị diễn giải là nhằm tới mục tiêu đó, chứ không phải đã đạt được nó. Vì không thể chứng minh một điều phủ định, công ty bị cáo buộc không thể bác bỏ rằng mình theo đuổi mục tiêu đó, và vấn đề chỉ còn là người nghe có chọn tin hay không.
 
 Theo Sowell, định giá huỷ diệt không chỉ là lý thuyết thiếu bằng chứng mà còn gần như không hợp lý về kinh tế. Một công ty chịu lỗ để bán dưới chi phí nhằm đẩy đối thủ ra ngoài đang theo một chiến lược rất rủi ro. Điều chắc chắn duy nhất là lỗ trước mắt. Liệu công ty có thu lại đủ lợi nhuận về sau để canh bạc có lãi hay không là điều không chắc; vừa thu lại được vừa thoát được luật chống độc quyền, vốn có thể dẫn tới tiền phạt hàng triệu USD hoặc bị chia tách công ty, lại càng không chắc. Và ngay cả khi vượt được những trở ngại đó, loại bỏ mọi đối thủ hiện có chưa chắc đã loại bỏ được cạnh tranh.
 
-Khi một công ty đối thủ phá sản, máy móc thiết bị và kỹ năng của những người từng làm nó hoạt động không biến mất. Một doanh nhân mới có thể mua cả hai, có thể với giá bán tháo rẻ cho thiết bị và cho người lao động đang thất nghiệp, nhờ đó có chi phí thấp hơn chủ cũ và trở thành đối thủ nguy hiểm hơn, đủ sức bán rẻ hơn hoặc cho chất lượng cao hơn với cùng mức giá. Sowell minh hoạ bằng *Washington Post*. Năm 1933 tờ báo phá sản, dù không phải vì định giá huỷ diệt. Việc phá sản không làm nhà in, toà nhà hay phóng viên biến mất; tất cả được nhà xuất bản Eugene Meyer mua lại với giá chưa tới 1/5 mức ông từng trả giá không thành công cho chính tờ báo đó chỉ 4 năm trước. Trong các thập kỷ sau, dưới chủ và ban quản lý mới, *Washington Post* thành tờ báo lớn nhất thủ đô Mỹ, và tới đầu thế kỷ 21 thuộc nhóm năm tờ báo có số phát hành lớn nhất nước. Nếu năm 1933 có một đối thủ dùng định giá huỷ diệt đẩy tờ báo phá sản, đối thủ đó chẳng đạt được gì ngoài việc giúp *Post* hồi sinh với chi phí sản xuất thấp hơn dưới tay Eugene Meyer, tức một đối thủ đáng gờm hơn.
+Khi một công ty đối thủ phá sản, máy móc thiết bị và kỹ năng của những người từng làm nó hoạt động không biến mất. Một doanh nhân mới có thể mua cả hai, có thể với giá bán tháo rẻ cho thiết bị và cho người lao động đang thất nghiệp, nhờ đó có chi phí thấp hơn chủ cũ và trở thành đối thủ nguy hiểm hơn, đủ sức bán rẻ hơn hoặc cho chất lượng cao hơn với cùng mức giá.
+
+Sowell minh hoạ bằng *Washington Post*. Năm 1933 tờ báo phá sản, dù không phải vì định giá huỷ diệt. Việc phá sản không làm nhà in, toà nhà hay phóng viên biến mất; tất cả được nhà xuất bản Eugene Meyer mua lại với giá chưa tới 1/5 mức ông từng trả giá không thành công cho chính tờ báo đó chỉ 4 năm trước.
+
+Trong các thập kỷ sau, dưới chủ và ban quản lý mới, *Washington Post* thành tờ báo lớn nhất thủ đô Mỹ, và tới đầu thế kỷ 21 thuộc nhóm năm tờ báo có số phát hành lớn nhất nước. Nếu năm 1933 có một đối thủ dùng định giá huỷ diệt đẩy tờ báo phá sản, đối thủ đó chẳng đạt được gì ngoài việc giúp *Post* hồi sinh với chi phí sản xuất thấp hơn dưới tay Eugene Meyer, tức một đối thủ đáng gờm hơn.
 
 Phá sản có thể loại bỏ những người chủ và người quản lý cụ thể, nhưng không loại bỏ cạnh tranh dưới hình thức người mới, những người có thể tiếp quản doanh nghiệp phá sản hoặc lập doanh nghiệp mới từ đầu trong cùng ngành. Tiêu diệt một đối thủ cụ thể, hay thậm chí mọi đối thủ hiện có, không có nghĩa là tiêu diệt cạnh tranh. Tóm lại, định giá huỷ diệt có thể là một cuộc phiêu lưu đắt đỏ với rất ít triển vọng bù lỗ bằng lợi nhuận độc quyền về sau. Việc nó vẫn là một lý thuyết không có ví dụ cụ thể không có gì lạ; điều lạ là lý thuyết không có căn cứ này lại được coi trọng như vậy trong các vụ chống độc quyền.
 
@@ -721,7 +772,11 @@ Phá sản có thể loại bỏ những người chủ và người quản lý 
 
 Theo Sowell, lợi ích tích cực rõ ràng nhất của luật chống độc quyền Mỹ có lẽ là lệnh cấm tuyệt đối việc cấu kết ấn định giá (collusion to fix prices). Đây là vi phạm tự động, chịu hình phạt nặng, bất kể bên vi phạm đưa ra lý do biện minh gì. Lợi ích này có lớn hơn các tác động tiêu cực của những luật chống độc quyền khác lên cạnh tranh hay không là một câu hỏi khác.
 
-Luật chống độc quyền khắt khe hơn của Ấn Độ đã tạo ra nhiều kết quả phản tác dụng rõ ràng trước khi bị bãi bỏ năm 1991. Một số nhà công nghiệp hàng đầu Ấn Độ bị cấm mở rộng các doanh nghiệp rất thành công của mình, vì sợ vượt ngưỡng tài chính tuỳ tiện dùng để định nghĩa "độc quyền", bất kể "doanh nghiệp độc quyền" đó có bao nhiêu đối thủ. Kết quả là doanh nhân Ấn Độ thường đem công sức và vốn ra nước ngoài, tạo hàng hoá, việc làm và tiền thuế cho những nước không hạn chế họ. Một doanh nhân Ấn Độ chẳng hạn sản xuất sợi ở Thái Lan từ bột giấy mua ở Canada, gửi sợi sang nhà máy của ông ở Indonesia để kéo thành chỉ, rồi xuất chỉ sang Bỉ để dệt thảm. Không thể biết có bao nhiêu doanh nghiệp Ấn Độ khác đầu tư ra nước ngoài vì các hạn chế chống "độc quyền". Điều đã biết là sau khi Đạo luật Độc quyền và Thực hành Thương mại Hạn chế bị bãi bỏ năm 1991, doanh nghiệp quy mô lớn ở Ấn Độ mở rộng, cả của doanh nhân Ấn Độ lẫn doanh nhân nước ngoài nay thấy Ấn Độ là nơi tốt hơn để lập hay mở rộng kinh doanh. Tốc độ tăng trưởng kinh tế của Ấn Độ cũng tăng mạnh, số người nghèo giảm, và khả năng hỗ trợ người nghèo của chính phủ tăng lên vì thu thuế tăng theo hoạt động kinh tế.
+Luật chống độc quyền khắt khe hơn của Ấn Độ đã tạo ra nhiều kết quả phản tác dụng rõ ràng trước khi bị bãi bỏ năm 1991. Một số nhà công nghiệp hàng đầu Ấn Độ bị cấm mở rộng các doanh nghiệp rất thành công của mình, vì sợ vượt ngưỡng tài chính tuỳ tiện dùng để định nghĩa "độc quyền", bất kể "doanh nghiệp độc quyền" đó có bao nhiêu đối thủ.
+
+Kết quả là doanh nhân Ấn Độ thường đem công sức và vốn ra nước ngoài, tạo hàng hoá, việc làm và tiền thuế cho những nước không hạn chế họ. Một doanh nhân Ấn Độ chẳng hạn sản xuất sợi ở Thái Lan từ bột giấy mua ở Canada, gửi sợi sang nhà máy của ông ở Indonesia để kéo thành chỉ, rồi xuất chỉ sang Bỉ để dệt thảm. Không thể biết có bao nhiêu doanh nghiệp Ấn Độ khác đầu tư ra nước ngoài vì các hạn chế chống "độc quyền".
+
+Điều đã biết là sau khi Đạo luật Độc quyền và Thực hành Thương mại Hạn chế bị bãi bỏ năm 1991, doanh nghiệp quy mô lớn ở Ấn Độ mở rộng, cả của doanh nhân Ấn Độ lẫn doanh nhân nước ngoài nay thấy Ấn Độ là nơi tốt hơn để lập hay mở rộng kinh doanh. Tốc độ tăng trưởng kinh tế của Ấn Độ cũng tăng mạnh, số người nghèo giảm, và khả năng hỗ trợ người nghèo của chính phủ tăng lên vì thu thuế tăng theo hoạt động kinh tế.
 
 Đạo luật được lập ra để kiềm chế doanh nghiệp lớn, nhưng tác động thực tế là che chắn doanh nghiệp khỏi áp lực cạnh tranh trong và ngoài nước, và do đó làm giảm động cơ hiệu quả. Nhìn lại thời kỳ đó, Ratan Tata, nhà công nghiệp hàng đầu Ấn Độ, nói về tập đoàn khổng lồ của chính mình rằng tập đoàn hoạt động trong môi trường được bảo hộ; các công ty kém nhạy bén không lo về đối thủ, không lo về chi phí, không tìm hiểu công nghệ mới, nhiều công ty thậm chí không để ý tới thị phần. Sowell tóm lại: chủ nghĩa tư bản được che chắn (cushioned capitalism) cho kết quả giống chủ nghĩa xã hội.
 
@@ -737,7 +792,13 @@ Khi kinh tế Ấn Độ mở cửa cho cạnh tranh trong và ngoài nước, �
 
 Sowell kết chương: không điều chỉnh nào trong số này cần thiết nếu Tata Steel và các công ty khác ở Ấn Độ vẫn được che chắn khỏi cạnh tranh dưới danh nghĩa ngăn chặn "độc quyền". Ngành thép, ngành ô tô, ngành đồng hồ cùng nhiều ngành khác của Ấn Độ đã được cạnh tranh làm thay đổi tận gốc.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một thành phố có ba công ty taxi truyền thống. Một ứng dụng gọi xe mới vào thị trường, bán giá thấp hơn 20% và sau hai năm chiếm 60% số chuyến đi bằng xe có tài xế trong thành phố. Hai trong ba công ty taxi thu hẹp mạnh và kiến nghị cơ quan chức năng điều tra hành vi "bán phá giá để chiếm thị trường". Theo khung phân tích của Sowell, cần hỏi ba câu. Thứ nhất, thị trường liên quan là gì: nếu tính cả xe buýt, tàu điện, xe máy và xe riêng thì 60% "số chuyến xe có tài xế" có thể chỉ là 8% tổng số chuyến đi trong thành phố. Thứ hai, ứng dụng có ngăn được người khác vào ngành không: nếu năm sau một ứng dụng khác vào thị trường với giá thấp hơn nữa, thì 60% thị phần không phải là độc quyền theo dấu hiệu của thẩm phán Kozinski. Thứ ba, nếu ứng dụng thật sự bán dưới chi phí, liệu nó có thể tăng giá lên cao sau này không, khi tài xế và xe của các hãng taxi phá sản vẫn còn đó và có thể được một hãng mới thuê lại. Nếu câu trả lời cho câu thứ hai và thứ ba là "không", thì một quy định buộc ứng dụng phải bán giá ngang taxi sẽ bảo vệ đối thủ chứ không bảo vệ cạnh tranh, và người đi xe là người trả tiền.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một thành phố có ba công ty taxi truyền thống. Một ứng dụng gọi xe mới vào thị trường, bán giá thấp hơn 20% và sau hai năm chiếm 60% số chuyến đi bằng xe có tài xế trong thành phố. Hai trong ba công ty taxi thu hẹp mạnh và kiến nghị cơ quan chức năng điều tra hành vi "bán phá giá để chiếm thị trường".
+
+Theo khung phân tích của Sowell, cần hỏi ba câu. Thứ nhất, thị trường liên quan là gì: nếu tính cả xe buýt, tàu điện, xe máy và xe riêng thì 60% "số chuyến xe có tài xế" có thể chỉ là 8% tổng số chuyến đi trong thành phố. Thứ hai, ứng dụng có ngăn được người khác vào ngành không: nếu năm sau một ứng dụng khác vào thị trường với giá thấp hơn nữa, thì 60% thị phần không phải là độc quyền theo dấu hiệu của thẩm phán Kozinski.
+
+Thứ ba, nếu ứng dụng thật sự bán dưới chi phí, liệu nó có thể tăng giá lên cao sau này không, khi tài xế và xe của các hãng taxi phá sản vẫn còn đó và có thể được một hãng mới thuê lại.
+
+Nếu câu trả lời cho câu thứ hai và thứ ba là "không", thì một quy định buộc ứng dụng phải bán giá ngang taxi sẽ bảo vệ đối thủ chứ không bảo vệ cạnh tranh, và người đi xe là người trả tiền.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -853,11 +914,17 @@ Sowell kết chương: không điều chỉnh nào trong số này cần thiết
 
 ### Sức mạnh của chương là phân biệt lý do ban đầu với kết quả thực tế, và đưa bằng chứng từ các đợt bãi bỏ điều tiết
 
-Lập luận của Sowell không dừng ở lý thuyết: các đợt bãi bỏ điều tiết xe tải và hàng không ở Mỹ là những "thí nghiệm" thật, với kết quả đo được (cước giảm, ít xe chạy rỗng, ghế máy bay đầy hơn, tồn kho giảm hàng chục tỷ USD). So sánh chở jeans trong Texas và từ Đài Loan là một phép so sánh rất trực quan về cái giá của điều tiết. Sự phân biệt "cạnh tranh là một trạng thái, đối thủ là các doanh nghiệp cụ thể" là công cụ dùng được ngay khi đọc bất kỳ vụ kiện chống độc quyền nào. Định nghĩa hàng thay thế theo hành vi người mua ("giá A tăng thì mua thêm B"), cùng các ví dụ từ tàu cao tốc tới sân golf, giúp người đọc thấy thị phần phụ thuộc hoàn toàn vào cách vẽ ranh giới thị trường.
+Lập luận của Sowell không dừng ở lý thuyết: các đợt bãi bỏ điều tiết xe tải và hàng không ở Mỹ là những "thí nghiệm" thật, với kết quả đo được (cước giảm, ít xe chạy rỗng, ghế máy bay đầy hơn, tồn kho giảm hàng chục tỷ USD). So sánh chở jeans trong Texas và từ Đài Loan là một phép so sánh rất trực quan về cái giá của điều tiết.
+
+Sự phân biệt "cạnh tranh là một trạng thái, đối thủ là các doanh nghiệp cụ thể" là công cụ dùng được ngay khi đọc bất kỳ vụ kiện chống độc quyền nào. Định nghĩa hàng thay thế theo hành vi người mua ("giá A tăng thì mua thêm B"), cùng các ví dụ từ tàu cao tốc tới sân golf, giúp người đọc thấy thị phần phụ thuộc hoàn toàn vào cách vẽ ranh giới thị trường.
 
 ### Sowell trình bày một phía của cuộc tranh luận về định giá huỷ diệt và về điều tiết độc quyền tự nhiên
 
-Về định giá huỷ diệt, lập luận của Sowell gần với trường phái Chicago, và thực tế toà án Mỹ từ đầu thập niên 1990 đã đòi bên đi kiện chứng minh giá dưới chi phí và khả năng bù lỗ, nên các vụ kiện kiểu này hiếm khi thắng. Câu "toà không đòi ví dụ" vì vậy phản ánh chủ yếu các vụ cũ (A & P thập niên 1940). Mặt khác, nhiều nhà kinh tế dùng lý thuyết trò chơi để chỉ ra rằng định giá huỷ diệt có thể hợp lý khi nó tạo "tiếng tăm" răn đe đối thủ tương lai, hoặc khi kẻ huỷ diệt có lợi thế tài chính lớn; một số nghiên cứu lịch sử cho rằng đã có trường hợp như vậy. Về điện, Sowell chỉ nhắc chi phí "trung bình" và kiểm soát giá khi giải thích khủng hoảng California 2001; nhiều phân tích khác nhấn mạnh thiết kế thị trường điện đã bãi bỏ điều tiết một nửa vời và việc một số công ty thao túng nguồn cung. Sowell cũng không bàn trường hợp độc quyền tự nhiên (lưới điện, đường ống nước), nơi một mạng lưới duy nhất rẻ hơn nhiều mạng song song, và nơi điều tiết giá vẫn được đa số nhà kinh tế coi là cần thiết.
+Về định giá huỷ diệt, lập luận của Sowell gần với trường phái Chicago, và thực tế toà án Mỹ từ đầu thập niên 1990 đã đòi bên đi kiện chứng minh giá dưới chi phí và khả năng bù lỗ, nên các vụ kiện kiểu này hiếm khi thắng. Câu "toà không đòi ví dụ" vì vậy phản ánh chủ yếu các vụ cũ (A & P thập niên 1940).
+
+Mặt khác, nhiều nhà kinh tế dùng lý thuyết trò chơi để chỉ ra rằng định giá huỷ diệt có thể hợp lý khi nó tạo "tiếng tăm" răn đe đối thủ tương lai, hoặc khi kẻ huỷ diệt có lợi thế tài chính lớn; một số nghiên cứu lịch sử cho rằng đã có trường hợp như vậy.
+
+Về điện, Sowell chỉ nhắc chi phí "trung bình" và kiểm soát giá khi giải thích khủng hoảng California 2001; nhiều phân tích khác nhấn mạnh thiết kế thị trường điện đã bãi bỏ điều tiết một nửa vời và việc một số công ty thao túng nguồn cung. Sowell cũng không bàn trường hợp độc quyền tự nhiên (lưới điện, đường ống nước), nơi một mạng lưới duy nhất rẻ hơn nhiều mạng song song, và nơi điều tiết giá vẫn được đa số nhà kinh tế coi là cần thiết.
 
 ### Ví dụ thị phần và hàng thay thế có sức thuyết phục, nhưng "có hàng thay thế" không có nghĩa là "đủ hàng thay thế"
 
@@ -865,11 +932,15 @@ Các ví dụ Alcoa, Madrid–Seville hay bia cho thấy hàng thay thế có th
 
 ### Từ 2014, chính sách chống độc quyền đi theo hướng ngược với điều Sowell khuyến nghị, đặc biệt với các hãng công nghệ lớn
 
-Trong thập niên 2020, cơ quan chống độc quyền Mỹ khởi kiện nhiều hãng công nghệ lớn (tìm kiếm, mạng xã hội, thương mại điện tử), và một toà án liên bang đã kết luận một hãng tìm kiếm lớn duy trì độc quyền bất hợp pháp. Liên minh châu Âu ban hành luật thị trường kỹ thuật số áp đặt nghĩa vụ trước cho các nền tảng lớn, đúng kiểu "buộc công ty tạo điều kiện cho đối thủ" mà Sowell phê phán trong vụ Microsoft ở châu Âu. Những người ủng hộ cho rằng hiệu ứng mạng (giá trị của nền tảng tăng theo số người dùng) tạo ra rào cản gia nhập thật, thoả mãn chính dấu hiệu của thẩm phán Kozinski, và các sản phẩm "miễn phí" khiến tiêu chuẩn giá cả của Sowell khó áp dụng. Mặt khác, một số dự đoán của chương cũng được xác nhận: Kodak và nhiều tờ báo địa phương sụp đổ vì hàng thay thế từ ngành khác, đúng như Sowell mô tả.
+Trong thập niên 2020, cơ quan chống độc quyền Mỹ khởi kiện nhiều hãng công nghệ lớn (tìm kiếm, mạng xã hội, thương mại điện tử), và một toà án liên bang đã kết luận một hãng tìm kiếm lớn duy trì độc quyền bất hợp pháp. Liên minh châu Âu ban hành luật thị trường kỹ thuật số áp đặt nghĩa vụ trước cho các nền tảng lớn, đúng kiểu "buộc công ty tạo điều kiện cho đối thủ" mà Sowell phê phán trong vụ Microsoft ở châu Âu.
+
+Những người ủng hộ cho rằng hiệu ứng mạng (giá trị của nền tảng tăng theo số người dùng) tạo ra rào cản gia nhập thật, thoả mãn chính dấu hiệu của thẩm phán Kozinski, và các sản phẩm "miễn phí" khiến tiêu chuẩn giá cả của Sowell khó áp dụng. Mặt khác, một số dự đoán của chương cũng được xác nhận: Kodak và nhiều tờ báo địa phương sụp đổ vì hàng thay thế từ ngành khác, đúng như Sowell mô tả.
 
 ### Quan điểm trái chiều: luật chống độc quyền yếu có thể khiến thị trường tập trung hơn
 
-Một trường phái mới (thường gọi là "Tân Brandeis") cho rằng tiêu chuẩn phúc lợi người tiêu dùng mà Sowell bảo vệ quá hẹp: nó bỏ qua quyền lực của doanh nghiệp lớn với nhà cung cấp và người lao động, và nhiều nghiên cứu cho thấy mức tập trung ở nhiều ngành của Mỹ tăng từ thập niên 1990. Lập luận của Sowell rằng nhà cung cấp "có vô số người mua khác" kém thuyết phục với nhà cung cấp mà một chuỗi bán lẻ lớn chiếm phần lớn doanh thu. Trường hợp Ấn Độ của Sowell lại là bằng chứng mạnh cho chiều ngược lại: luật dùng ngưỡng quy mô tuỳ tiện (khoảng 27 triệu USD tài sản) thay vì xét hành vi và tác động đã che chắn doanh nghiệp và làm chậm tăng trưởng. Điểm chung giữa hai phía có lẽ là: luật chống độc quyền nên dựa vào bằng chứng về tác động, không dựa vào quy mô hay thị phần đơn thuần.
+Một trường phái mới (thường gọi là "Tân Brandeis") cho rằng tiêu chuẩn phúc lợi người tiêu dùng mà Sowell bảo vệ quá hẹp: nó bỏ qua quyền lực của doanh nghiệp lớn với nhà cung cấp và người lao động, và nhiều nghiên cứu cho thấy mức tập trung ở nhiều ngành của Mỹ tăng từ thập niên 1990. Lập luận của Sowell rằng nhà cung cấp "có vô số người mua khác" kém thuyết phục với nhà cung cấp mà một chuỗi bán lẻ lớn chiếm phần lớn doanh thu.
+
+Trường hợp Ấn Độ của Sowell lại là bằng chứng mạnh cho chiều ngược lại: luật dùng ngưỡng quy mô tuỳ tiện (khoảng 27 triệu USD tài sản) thay vì xét hành vi và tác động đã che chắn doanh nghiệp và làm chậm tăng trưởng. Điểm chung giữa hai phía có lẽ là: luật chống độc quyền nên dựa vào bằng chứng về tác động, không dựa vào quy mô hay thị phần đơn thuần.
 
 ### Vận dụng: trước mỗi quy định về giá hay cáo buộc "độc quyền", hãy hỏi ai được bảo vệ, cạnh tranh hay đối thủ
 
@@ -877,3 +948,168 @@ Một trường phái mới (thường gọi là "Tân Brandeis") cho rằng ti�
 - **Trong đầu tư.** Khi đánh giá một công ty có thị phần cao, đừng dừng ở con số thị phần; hãy hỏi hàng thay thế từ ngành khác là gì (điện thoại thông minh với máy ảnh Kodak, truyền hình với báo in) và công ty có thật sự ngăn được người khác vào ngành không. Các ngành vừa được bãi bỏ điều tiết thường trải qua giai đoạn giá giảm, một số doanh nghiệp phá sản và doanh nghiệp mới xuất hiện, như hàng không Mỹ và châu Âu.
 - **Trong nghề nghiệp.** Người làm pháp chế, tư vấn cạnh tranh hay quản lý nhà nước nên nắm cách định nghĩa thị trường liên quan và khái niệm hàng thay thế, vì đây là chỗ các vụ việc thường thắng hay thua. Người làm kinh doanh nên hiểu rằng chiết khấu theo khối lượng hợp lý khi phản ánh chi phí thật, và nên lưu lại căn cứ chi phí cho mỗi mức chiết khấu.
 - **Khi đọc tin chính sách.** Ở Việt Nam, khi đọc tin về việc điều chỉnh giá điện, hay về một doanh nghiệp bị cáo buộc "bán phá giá" để chiếm thị trường trong nước, hay về việc cơ quan cạnh tranh xem xét một vụ sáp nhập, có thể dùng ba câu hỏi của Sowell: giá quy định có phản ánh chi phí thật ở từng thời điểm không; ai đang phàn nàn, người tiêu dùng hay đối thủ; và thị trường được định nghĩa rộng hay hẹp, có tính hàng nhập khẩu và hàng thay thế không. Điện là ví dụ đặc biệt sát với chương này, vì chi phí phát điện lúc cao điểm và thấp điểm chênh lệch lớn, trong khi giá bán lẻ thường được điều chỉnh chậm và chịu áp lực dư luận.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 8 trên một trang: bảy nhánh lớn đi theo các mục 1–9 của phần Nội dung chi tiết (uỷ ban điều tiết và vấn đề kinh tế, chính trị của nó; ICC, xe tải và CAB; cạnh tranh và đối thủ cạnh tranh; thị phần "kiểm soát"; định giá huỷ diệt; lợi ích và chi phí của luật chống độc quyền qua trường hợp Ấn Độ), mỗi nhánh ghi cơ chế nhân quả, ví dụ và con số then chốt của Sowell; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 8: điều tiết giá và luật chống độc quyền thường làm ngược lý do ban đầu, bảo vệ doanh nghiệp hiện có và đối thủ thay vì người tiêu dùng`"]
+  n1["`Mục 1–3 — Uỷ ban điều tiết không biết giá cạnh tranh và dần bị ngành bị điều tiết lái`"]
+  n0 --- n1
+  n2["`Hai công cụ từ cuối thế kỷ 19: uỷ ban điều tiết giá (ICC năm 1887) và luật chống độc quyền (Đạo luật Sherman năm 1890)`"]
+  n1 --- n2
+  n3["`Giá cạnh tranh chỉ lộ ra khi thị trường vận hành thật, nên uỷ ban chỉ cho mức chi phí và lợi nhuận có vẻ hợp lý`"]
+  n1 --- n3
+  n4["`Không có một con số duy nhất gọi là chi phí sản xuất: máy rửa bát lúc cao điểm có thể tốn gấp 100 lần lúc thấp điểm`"]
+  n1 --- n4
+  n5["`Đặt giá điện theo chi phí trung bình khiến nhà cung cấp ngoài bang không bán, góp phần gây mất điện ở California năm 2001`"]
+  n1 --- n5
+  n6["`Chính trị gia chiều dư luận bằng kiểm soát giá theo mức cũ, mà kiểm soát giá gây thiếu hụt, ở đây là mất điện`"]
+  n1 --- n6
+  n7["`Karnataka và Andhra Pradesh: Đảng Quốc đại chống tăng giá điện ở bang mình là đối lập, nên vấn đề không phải đảng phái`"]
+  n1 --- n7
+  n8["`Nhà vận động và báo chí mất hứng thú sau khi lập uỷ ban, còn doanh nghiệp bị điều tiết vận động bền bỉ`"]
+  n1 --- n8
+  n9["`Do mức quan tâm không cân xứng, uỷ ban chuyển sang bảo vệ doanh nghiệp hiện có trước doanh nghiệp và công nghệ mới`"]
+  n1 --- n9
+  n10["`Mục 4–5 — ICC và CAB: điều tiết chuyển từ ngăn giá tăng sang ngăn giá giảm`"]
+  n0 --- n10
+  n11["`Xe tải phá thế độc quyền của đường sắt, nhưng ICC xin thêm quyền theo Đạo luật Vận tải Cơ giới năm 1935 để hạn chế xe tải`"]
+  n10 --- n11
+  n12["`Xe tải chạy liên bang phải có giấy chứng nhận phục vụ sự tiện lợi và nhu cầu của công chúng theo định nghĩa của ICC`"]
+  n10 --- n12
+  n13["`Giấy phép tuỳ tiện: được chở New York–Washington nhưng không được chở Philadelphia–Baltimore, xe chạy rỗng chiều về`"]
+  n10 --- n13
+  n14["`Dùng nhiều nguồn lực hơn mức cần thiết đi kèm nhiều công ty hơn mức cần thiết được tồn tại`"]
+  n10 --- n14
+  n15["`Cạnh tranh tự do đe doạ chính uỷ ban, và công đoàn cũng muốn giữ hiện trạng`"]
+  n10 --- n15
+  n16["`Quốc hội cắt quyền ICC năm 1980: cước giảm, ít xe chạy rỗng, tồn kho giảm, tiết kiệm hàng chục tỷ USD`"]
+  n10 --- n16
+  n17["`Texas vẫn điều tiết vận tải nội bang: chở jeans El Paso–Dallas đắt hơn khoảng 40% so với từ Đài Loan tới Dallas`"]
+  n16 --- n17
+  n18["`CAB giải thể: giá vé giảm, hãng mới ra đời, số hành khách cao hơn mọi lúc dưới điều tiết, tiết kiệm hàng tỷ USD`"]
+  n10 --- n18
+  n19["`Không phải trò chơi tổng bằng không: máy bay đầy ghế hơn, châu Âu năm 1997 có Ryanair buộc hãng lớn giảm giá`"]
+  n18 --- n19
+  n20["`Thị trường đẩy người sai lầm ra bằng khoản lỗ, còn cơ quan điều tiết sống tiếp sau khi lý do lập ra đã hết`"]
+  n10 --- n20
+  n21["`Mục 6 — Luật chống độc quyền bảo vệ đối thủ cạnh tranh, không bảo vệ cạnh tranh`"]
+  n0 --- n21
+  n22["`Phần lớn vụ kiện nổi tiếng ở Mỹ nhắm vào công ty bán giá thấp hơn, thường do chính đối thủ phàn nàn`"]
+  n21 --- n22
+  n23["`Cạnh tranh là một trạng thái của thị trường, không đo bằng số đối thủ, và chính nó loại bỏ nhiều đối thủ`"]
+  n21 --- n23
+  n24["`A #amp; P bị kiện vì giá thấp khi hơn 4/5 hàng tạp hoá ở Mỹ vẫn do cửa hàng khác bán`"]
+  n21 --- n24
+  n25["`Mua bán quy mô lớn tiết kiệm chi phí giao hàng, làm thêm giờ, tuyển và đào tạo, chia cho cả chuỗi lẫn nhà sản xuất`"]
+  n21 --- n25
+  n26["`Bị gọi là vắt giá nhà cung cấp, thực chất là giải phóng nguồn lực khan hiếm, giao dịch phải có lợi ròng cho cả hai bên`"]
+  n25 --- n26
+  n27["`Morton Salt bị kiện vì bán muối 1,60, 1,50 và 1,35 USD mỗi thùng tuỳ khối lượng mua`"]
+  n21 --- n27
+  n28["`Chứng cứ bề ngoài ban đầu dựa trên số liệu thô chuyển nghĩa vụ chứng minh sang bị đơn, và bị đơn thường thua`"]
+  n27 --- n28
+  n29["`Microsoft ở châu Âu bị buộc giúp phần mềm đối thủ chạy được, khó gọi là thúc đẩy cạnh tranh`"]
+  n21 --- n29
+  n30["`Kodachrome: Kodak bị buộc bán phim và tráng rửa riêng, dù mục đích là giữ chất lượng loại phim khó tráng nhất`"]
+  n21 --- n30
+  n31["`Mục 7 — Thị phần #quot;kiểm soát#quot; không cho biết có độc quyền hay không`"]
+  n0 --- n31
+  n32["`Toà án Tối cao huỷ sáp nhập giày dưới 7% (1962) và sáp nhập siêu thị Los Angeles dưới 8% (1966)`"]
+  n31 --- n32
+  n33["`Pan American Airways từng #quot;kiểm soát#quot; thị trường rồi biến mất, A #amp; P teo nhỏ nghiêm trọng`"]
+  n31 --- n33
+  n34["`Alcoa là nhà sản xuất nhôm thỏi nguyên chất duy nhất, lãi khoảng 10%/năm, giá nhôm giảm mạnh, vẫn bị kết tội`"]
+  n31 --- n34
+  n35["`Định nghĩa kinh tế: A và B là hàng thay thế khi giá A tăng khiến người ta mua thêm B`"]
+  n31 --- n35
+  n36["`Tàu cao tốc Madrid–Seville đưa phần của đường sắt từ 33% lên 82% lượng khách`"]
+  n35 --- n36
+  n37["`Giá dầu mỏ tăng vọt năm 2004, nhựa resin từ dầu ngô của Cargill Dow tăng 60% doanh số`"]
+  n35 --- n37
+  n38["`Vụ Microsoft ở Mỹ định nghĩa thị trường hẹp, loại Apple và Linux, trong khi Munich chuyển 14.000 máy sang Linux năm 2003`"]
+  n31 --- n38
+  n39["`Budweiser–Corona năm 2013: #quot;kiểm soát#quot; 46% doanh số bia trong khi có kỷ lục 2.751 nhà sản xuất bia`"]
+  n31 --- n39
+  n40["`Năm 1962 thị trường giày là giày không bằng cao su sản xuất trong nước, loại hàng nhập khẩu để thị phần tăng`"]
+  n31 --- n40
+  n41["`Tờ báo địa phương duy nhất vẫn chật vật trước báo vùng và báo toàn quốc, không có lợi nhuận độc quyền`"]
+  n31 --- n41
+  n42["`Thẩm phán Kozinski: dấu hiệu độc quyền là khả năng ngăn người khác vào ngành, không phải thị phần, kể cả 100%`"]
+  n31 --- n42
+  n43["`Vụ lớn mất từ 10 năm trở lên, nên chính phủ hay kiện công ty dẫn đầu đúng lúc sắp mất vị trí`"]
+  n31 --- n43
+  n44["`Mục 8 — Định giá huỷ diệt: lý thuyết không có ví dụ và không hợp lý về kinh tế`"]
+  n0 --- n44
+  n45["`Lý thuyết: bán dưới chi phí đẩy đối thủ nhỏ phá sản, rồi tăng giá cao hơn trước để bù lỗ`"]
+  n44 --- n45
+  n46["`Gary Becker không biết vụ nào được ghi nhận bằng chứng cứ, A #amp; P và Microsoft bị cáo buộc mà không có ví dụ trọn vẹn`"]
+  n44 --- n46
+  n47["`Không thể chứng minh một điều phủ định, nên bị đơn không bác được cáo buộc`"]
+  n44 --- n47
+  n48["`Chỉ lỗ trước mắt là chắc, bù lỗ về sau và thoát luật chống độc quyền đều không chắc`"]
+  n44 --- n48
+  n49["`Máy móc và kỹ năng của công ty phá sản không biến mất, người mới mua rẻ thành đối thủ đáng gờm hơn`"]
+  n44 --- n49
+  n50["`Washington Post phá sản năm 1933, Eugene Meyer mua lại với giá chưa tới 1/5 giá ông từng trả, sau thành báo lớn nhất thủ đô`"]
+  n49 --- n50
+  n51["`Mục 9 — Lợi ích và chi phí: Ấn Độ cho thấy luật chống độc quyền che chắn doanh nghiệp`"]
+  n0 --- n51
+  n52["`Lợi ích rõ nhất: cấm tuyệt đối cấu kết ấn định giá, vi phạm tự động, phạt nặng`"]
+  n51 --- n52
+  n53["`Luật Ấn Độ năm 1969 coi doanh nghiệp có tài sản trên khoảng 27 triệu USD là độc quyền và hạn chế mở rộng`"]
+  n51 --- n53
+  n54["`Doanh nhân Ấn Độ đem vốn ra nước ngoài, tạo hàng hoá, việc làm và tiền thuế cho nước khác`"]
+  n53 --- n54
+  n55["`Ratan Tata: được bảo hộ thì không lo đối thủ, chi phí, công nghệ, nên chủ nghĩa tư bản được che chắn cho kết quả giống chủ nghĩa xã hội`"]
+  n53 --- n55
+  n56["`Bãi bỏ năm 1991: doanh nghiệp lớn mở rộng, tăng trưởng tăng mạnh, số người nghèo giảm`"]
+  n51 --- n56
+  n57["`Tata Steel đối mặt khoản lỗ 26 triệu USD mỗi năm, chi 2,3 tỷ USD hiện đại hoá`"]
+  n56 --- n57
+  n58["`Năng suất Tata Steel từ 78 lên 264 tấn thép mỗi công nhân mỗi năm (1993–2004), chi phí thấp nhất thế giới năm 2007`"]
+  n56 --- n58
+  n59["`Thông điệp xuyên suốt`"]
+  n0 --- n59
+  n60["`Đánh giá chính sách bằng kết quả thực tế về sau, không bằng ý định hay lý do ban đầu`"]
+  n59 --- n60
+  n61["`Hỏi ai được bảo vệ: người tiêu dùng và cạnh tranh, hay các đối thủ cụ thể`"]
+  n59 --- n61
+  n62["`Độc quyền thật hiếm, thị trường tự sửa nhanh hơn toà án, độc quyền bền nhất là nơi nhà nước dựng rào cản gia nhập`"]
+  n59 --- n62
+  class n0 root
+  class n1,n10,n21,n31,n44,n51,n59 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n50,n52,n53,n54,n55,n56,n57,n58,n60,n61,n62 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần II "Industry and Commerce", Chương 8.
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 7 ("The Economics of Big Business") đã giải thích công ty cổ phần, độc quyền (monopoly) và các-ten (cartel), và kết luận rằng độc quyền thật sự hiếm và khó tồn tại lâu nếu nhà nước không dựng rào cản gia nhập.
+
+Chương 8 bàn tiếp câu hỏi: khi nhà nước ra tay đối phó với độc quyền và các-ten, bằng hai công cụ là uỷ ban điều tiết giá và luật chống độc quyền, thì kết quả thực tế ra sao? Chương này dùng lại ý ở Chương 6 rằng không có một con số duy nhất gọi là "chi phí sản xuất", và ý ở Chương 3 rằng kiểm soát giá gây thiếu hụt.
+
+Chương 9 ("Market and Non-Market Economies") sẽ mở rộng sang so sánh doanh nghiệp vì lợi nhuận với các tổ chức phi thị trường (tổ chức phi lợi nhuận, doanh nghiệp nhà nước), nơi các động cơ khuyến khích và ràng buộc khác hẳn.
+
+## Lưu ý
+
+- Ấn bản thứ năm xuất bản năm 2015, phần lớn số liệu và ví dụ mới nhất dừng ở khoảng 2013 (vụ Bộ Tư pháp Mỹ kiện ngăn hãng bia Budweiser mua toàn bộ hãng bia Corona năm 2013).
+- Một số chi tiết đã đổi từ đó: ICC bị giải thể hẳn vào giữa thập niên 1990 (Sowell chỉ nhắc việc quyền của nó bị cắt năm 1980); *Washington Post* đã đổi chủ năm 2013 (Jeff Bezos mua lại); Ratan Tata, người được Sowell trích lời, đã qua đời năm 2024; thành phố Munich sau này đã quyết định quay lại dùng Windows.
+- Chính sách chống độc quyền ở Mỹ và châu Âu trong thập niên 2020 nhắm mạnh vào các hãng công nghệ lớn, theo hướng mà Sowell phê phán (xem phần Đánh giá).
+- Chương này **không có chú thích chân trang có nội dung** (dấu số La Mã); các dấu chú thích trong text đều là chú thích nguồn trích dẫn (endnote), đã bỏ qua theo quy ước.
+- Một chi tiết nhỏ: Sowell gọi tập đoàn của Ratan Tata là "Tata Industries"; tên quen thuộc hơn là Tập đoàn Tata (Tata Group), do công ty mẹ Tata Sons nắm giữ.
+- Các câu trích là bản dịch của người tổng hợp.

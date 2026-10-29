@@ -1,11 +1,16 @@
 # Chương 23 — Chênh lệch giàu nghèo giữa các quốc gia (International Disparities in Wealth)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Chương 23, chương cuối của Phần VI "The International Economy" (Nền kinh tế quốc tế).
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
-**Vị trí trong lập luận của cả cuốn sách:** Phần VI mở đầu bằng Chương 21 về thương mại quốc tế (vì sao các nước cùng được lợi khi trao đổi hàng hoá) và Chương 22 về các dòng chuyển giao của cải giữa các nước (đầu tư nước ngoài, tiền người di cư gửi về, viện trợ). Chương 23 đặt câu hỏi lớn hơn mà hai chương trước để ngỏ: vì sao ngay từ đầu các nước đã giàu nghèo khác nhau đến vậy, và vì sao khoảng cách đó kéo dài hàng thế kỷ? Chương này dùng lại phân biệt giữa thu nhập và của cải (Chương 10), cách so sánh GDP bình quân đầu người giữa các nước (Chương 16), và nối tiếp phần bàn về viện trợ nước ngoài ở Chương 22 bằng lập luận rằng viện trợ vật chất không tạo ra tăng trưởng ở nơi thiếu vốn con người (so sánh Kế hoạch Marshall với viện trợ cho Thế giới thứ ba). Theo Lời nói đầu, đây là chương dài nhất sách và là chương mới của ấn bản thứ năm; nó dẫn sang Phần VII (Chương 24 "Myths About Markets", Chương 25 "'Non-Economic' Values"), nơi Sowell bàn những niềm tin phổ biến về thị trường và về các giá trị "phi kinh tế".
-**Ý chính:** Sowell muốn người đọc hiểu rằng **sự bình đẳng về kinh tế giữa các dân tộc chưa bao giờ là trạng thái tự nhiên**, nên không cần một "thủ phạm" để giải thích sự bất bình đẳng. Phát triển kinh tế phụ thuộc vào vô số yếu tố (đất, mưa, sông ngòi, cảng biển, núi, gia súc, vị trí, văn hoá, dân số, chiến tranh, ngẫu nhiên lịch sử), và các yếu tố này còn tác động qua lại với nhau, nên xác suất để mọi nước có kết quả gần bằng nhau là cực nhỏ. Ví dụ trung tâm là đường thủy: sông Zaire (sông Congo) đổ ra biển nhiều nước hơn sông Mississippi, Dương Tử hay Rhine, nhưng phải tụt xuống gần một dặm độ cao qua thác ghềnh nên không thể chở khối lượng hàng tương đương và không nối liền nội địa với biển, trong khi tàu 10.000 tấn đi được hàng trăm dặm lên sông Dương Tử. Từ đó Sowell nhấn mạnh **vốn con người** (kiến thức, kỹ năng và cả thói quen) là thứ quyết định nhất về lâu dài, và nó phát triển mạnh ở nơi một dân tộc tiếp xúc được với "vũ trụ văn hoá" rộng lớn của các dân tộc khác. Sowell kết luận rằng có rất ít bằng chứng thuyết phục cho thấy chênh lệch giàu nghèo hiện nay giải thích được bằng lịch sử bóc lột đế quốc: Tây Ban Nha từng nhận hơn 200 tấn vàng và hơn 18.000 tấn bạc từ châu Mỹ nhưng nay là một trong những nước nghèo hơn ở Tây Âu, còn Thuỵ Sĩ và Na Uy chưa từng có đế quốc lại giàu hơn.
+## Ý chính
 
-> **Lưu ý:** Ấn bản thứ năm được viết khoảng 2013–2014; số liệu GDP bình quân đầu người ở đầu chương là số liệu quanh thời điểm đó, còn phần lớn chương là lịch sử từ cổ đại đến thế kỷ 20. Từ đó một số chi tiết đã đổi (nêu định tính): khoảng cách GDP bình quân đầu người giữa Trung Quốc và Nhật Bản đã thu hẹp đáng kể, và Ấn Độ cũng tăng trưởng nhanh, nên các tỷ lệ "chưa bằng một phần tư" và "hơn mười phần trăm một chút" không còn đúng như lúc Sowell viết; điều này lại khớp với nhận xét của chính Sowell rằng cải cách kinh tế ở hai nước này cho thấy tiềm năng của người dân chỉ cần một môi trường tốt hơn. Con sông Sowell gọi là "Zaire River" ngày nay thường được gọi là sông Congo (tên Zaire gắn với nước Zaire, đã đổi thành Cộng hoà Dân chủ Congo năm 1997). Chương có **8 chú thích chân trang** của Sowell, đánh số La Mã từ xxviii đến xxxv, đã được đưa vào cả Sơ đồ lẫn Nội dung chi tiết, đúng chỗ Sowell đặt chúng: chú thích xxviii (về "dân đồi núi lên thành phố") ở mục Mountains; xxix (về "chữ số Ả Rập") ở mục Animals; xxx (về địa lý và thiên tài) ở mục Location; xxxi (về sữa và pho mát) ở mục Human Capital; xxxii (về giới tinh hoa Ả Rập biết ngoại ngữ) ở mục Cultural Isolation; xxxiii (về khái niệm "đổ lỗi") ở mục Cultural Development; xxxiv (về lũ sông và nông nghiệp định cư) và xxxv (về "vũ trụ bệnh tật") ở mục Implications. Có ba chỗ sách nén lịch sử quá mức: (1) hạm đội của Perry đến Nhật năm 1853, nhưng mô hình đầu máy xe lửa được tặng trong chuyến quay lại năm 1854; (2) người Do Thái bị Tây Ban Nha trục xuất năm 1492 phần lớn đi Bồ Đào Nha, Bắc Phi và Đế quốc Ottoman; cộng đồng Do Thái gốc Iberia ở Amsterdam chủ yếu hình thành từ cuối thế kỷ 16, nhiều người đến từ Bồ Đào Nha, nên câu "nhiều người định cư ở Hà Lan" là cách nói gộp nhiều thế hệ; (3) thống kê "Tây Ban Nha dịch trong một năm bằng thế giới Ả Rập dịch trong một nghìn năm" lấy từ báo cáo của Liên Hợp Quốc về phát triển con người ở thế giới Ả Rập, và về sau bị một số nhà nghiên cứu cho là đánh giá thấp số sách dịch ở các nước Ả Rập. Các câu trích là bản dịch của người tổng hợp.
+Sowell muốn người đọc hiểu rằng **sự bình đẳng về kinh tế giữa các dân tộc chưa bao giờ là trạng thái tự nhiên**, nên không cần một "thủ phạm" để giải thích sự bất bình đẳng.
+
+Phát triển kinh tế phụ thuộc vào vô số yếu tố (đất, mưa, sông ngòi, cảng biển, núi, gia súc, vị trí, văn hoá, dân số, chiến tranh, ngẫu nhiên lịch sử), và các yếu tố này còn tác động qua lại với nhau, nên xác suất để mọi nước có kết quả gần bằng nhau là cực nhỏ.
+
+Ví dụ trung tâm là đường thủy: sông Zaire (sông Congo) đổ ra biển nhiều nước hơn sông Mississippi, Dương Tử hay Rhine, nhưng phải tụt xuống gần một dặm độ cao qua thác ghềnh nên không thể chở khối lượng hàng tương đương và không nối liền nội địa với biển, trong khi tàu 10.000 tấn đi được hàng trăm dặm lên sông Dương Tử.
+
+Từ đó Sowell nhấn mạnh **vốn con người** (kiến thức, kỹ năng và cả thói quen) là thứ quyết định nhất về lâu dài, và nó phát triển mạnh ở nơi một dân tộc tiếp xúc được với "vũ trụ văn hoá" rộng lớn của các dân tộc khác.
+
+Sowell kết luận rằng có rất ít bằng chứng thuyết phục cho thấy chênh lệch giàu nghèo hiện nay giải thích được bằng lịch sử bóc lột đế quốc: Tây Ban Nha từng nhận hơn 200 tấn vàng và hơn 18.000 tấn bạc từ châu Mỹ nhưng nay là một trong những nước nghèo hơn ở Tây Âu, còn Thuỵ Sĩ và Na Uy chưa từng có đế quốc lại giàu hơn.
 
 ## Sơ đồ
 
@@ -1130,7 +1135,9 @@ Nhiều người thấy những chênh lệch này vừa khó hiểu vừa đau 
 
 Dù con người được chia theo quốc gia, chủng tộc hay cách nào khác, địa lý là một lý do khiến họ không có cùng lợi ích kinh tế trực tiếp, cũng không có cùng cơ hội phát triển vốn con người. Hầu như không yếu tố địa lý thuận lợi nào có mặt đều khắp nơi.
 
-**Đất.** Loại đất đặc biệt màu mỡ mà các nhà khoa học gọi là Mollisol phân bố rất không đều: tập trung lớn ở vùng Trung Tây phía bắc và các bang đồng bằng của Mỹ, lan sang Canada; một dải rộng xuyên lục địa Á-Âu từ nam Đông Âu tới đông bắc Trung Quốc; và một vùng nhỏ hơn ở ôn đới Nam Mỹ (nam Argentina, nam Brazil, Uruguay). Loại đất này có ở vùng ôn đới cả hai bán cầu nhưng hiếm ở nhiệt đới. Đất châu Phi hạ Sahara thiếu hụt nhiều mặt, năng suất cây trồng chỉ bằng một phần nhỏ của Trung Quốc hay Mỹ. Ở nhiều nơi lớp đất mặt mỏng, rễ cây khó ăn sâu để lấy nước và dinh dưỡng. Khô hạn khiến khó bón phân bù dinh dưỡng, vì bón phân mà thiếu nước có thể làm cây kém đi thay vì tốt lên. Những vùng đất ngập nước loại mà châu Á canh tác thành công lại ít được trồng trọt ở nhiệt đới châu Phi, vì ở đó chúng là nơi sinh ra sốt rét và bệnh mù sông.
+**Đất.** Loại đất đặc biệt màu mỡ mà các nhà khoa học gọi là Mollisol phân bố rất không đều: tập trung lớn ở vùng Trung Tây phía bắc và các bang đồng bằng của Mỹ, lan sang Canada; một dải rộng xuyên lục địa Á-Âu từ nam Đông Âu tới đông bắc Trung Quốc; và một vùng nhỏ hơn ở ôn đới Nam Mỹ (nam Argentina, nam Brazil, Uruguay). Loại đất này có ở vùng ôn đới cả hai bán cầu nhưng hiếm ở nhiệt đới.
+
+Đất châu Phi hạ Sahara thiếu hụt nhiều mặt, năng suất cây trồng chỉ bằng một phần nhỏ của Trung Quốc hay Mỹ. Ở nhiều nơi lớp đất mặt mỏng, rễ cây khó ăn sâu để lấy nước và dinh dưỡng. Khô hạn khiến khó bón phân bù dinh dưỡng, vì bón phân mà thiếu nước có thể làm cây kém đi thay vì tốt lên. Những vùng đất ngập nước loại mà châu Á canh tác thành công lại ít được trồng trọt ở nhiệt đới châu Phi, vì ở đó chúng là nơi sinh ra sốt rét và bệnh mù sông.
 
 Ngay trong một nước cũng khác nhau: Trung Quốc có đất đen màu mỡ ở đông bắc và đất đỏ kém màu mỡ ở đông nam (loại đất thường gặp ở nhiệt đới và cận nhiệt đới). Độ màu mỡ còn thay đổi theo thời gian. Đất nặng ở một số vùng châu Âu chỉ trở nên màu mỡ khi người ta biết cách thắng ngựa, bò để kéo cày; với kỹ thuật thô sơ trước đó, chỉ đất nhẹ mới canh tác hiệu quả. Châu Á cũng vậy: đất trồng của Nhật ban đầu kém xa đất Bắc Ấn Độ, nhưng nay tốt hơn nhiều.
 
@@ -1138,21 +1145,33 @@ Ngay trong một nước cũng khác nhau: Trung Quốc có đất đen màu m�
 
 Trong nhiều thế kỷ nông nghiệp là hoạt động kinh tế chính ở mọi nước, nên không thể có kết quả kinh tế giống nhau ở mọi nơi, cả về mức sống lẫn khả năng nuôi những đô thị lớn bằng lương thực tại chỗ. Đô thị đóng vai trò lớn trong tiến bộ kinh tế và phát triển kỹ năng, nên thiếu đô thị làm hại cả hiện tại lẫn tương lai.
 
-**Nắng và sự tương tác.** Số giờ nắng hằng năm ở Athens gần gấp đôi London, ở Alexandria hơn gấp đôi. Lượng mưa hằng năm ở Tây Ban Nha dao động từ dưới 300mm đến hơn 1.500mm. Nắng vừa giúp quang hợp vừa làm bốc hơi nước cây cần. Quanh Địa Trung Hải, nắng hè làm bốc hơi nhiều nước hơn lượng mưa hè ít ỏi, nên phải tưới tiêu ở những nơi không bị coi là khô hạn nếu chỉ xét tổng lượng mưa năm, vì phần lớn mưa rơi vào mùa đông. Ở nơi khác mưa lại nhiều vào mùa hè. Cả hai kiểu đều giới hạn loại cây trồng được. Điểm lớn hơn là không thể xét từng yếu tố riêng: tương tác và thời điểm của chúng mới quyết định. Số tổ hợp tăng theo cấp số nhân so với số yếu tố, nên những nơi trông giống nhau vẫn có kết quả kinh tế rất khác nhau. Điều này đúng với đất lẫn đường thủy, với nông nghiệp lẫn đô thị, công nghiệp và thương mại.
+**Nắng và sự tương tác.** Số giờ nắng hằng năm ở Athens gần gấp đôi London, ở Alexandria hơn gấp đôi. Lượng mưa hằng năm ở Tây Ban Nha dao động từ dưới 300mm đến hơn 1.500mm. Nắng vừa giúp quang hợp vừa làm bốc hơi nước cây cần. Quanh Địa Trung Hải, nắng hè làm bốc hơi nhiều nước hơn lượng mưa hè ít ỏi, nên phải tưới tiêu ở những nơi không bị coi là khô hạn nếu chỉ xét tổng lượng mưa năm, vì phần lớn mưa rơi vào mùa đông. Ở nơi khác mưa lại nhiều vào mùa hè. Cả hai kiểu đều giới hạn loại cây trồng được.
+
+Điểm lớn hơn là không thể xét từng yếu tố riêng: tương tác và thời điểm của chúng mới quyết định. Số tổ hợp tăng theo cấp số nhân so với số yếu tố, nên những nơi trông giống nhau vẫn có kết quả kinh tế rất khác nhau. Điều này đúng với đất lẫn đường thủy, với nông nghiệp lẫn đô thị, công nghiệp và thương mại.
 
 **Tài nguyên khoáng sản.** Quặng sắt, than, dầu mỏ và nhiều tài nguyên khác không phân bố đều. Hơn nữa, tri thức để khai thác và chế biến chúng xuất hiện vào những thời kỳ khác nhau, nên một vật chất trở thành tài nguyên quý ở những nước khác nhau vào những lúc khác nhau. Dầu ở Trung Đông có từ hàng nghìn năm nhưng chỉ thành tài nguyên quý khi khoa học và công nghệ khiến các nước công nghiệp không thể thiếu nó, và của cải từ các nước đó mới chảy về Trung Đông để trả tiền dầu. Ngoài những tài nguyên đóng góp trực tiếp, còn các yếu tố địa lý đóng góp gián tiếp nhưng quan trọng, như đường thủy thông thương và động vật phục vụ đi lại và nông nghiệp.
 
 ### 3. Đường thủy thông thương (Navigable Waterways)
 
-Phần lớn đô thị trên thế giới nằm bên sông, cảng hay hồ: ở cửa các sông lớn đổ ra biển (New York, London, Thượng Hải, Rotterdam), bên hồ lớn hay biển nội địa (Geneva, Chicago, Odessa, Detroit), hoặc bên cảng lớn mở ra biển (Sydney, San Francisco, Tokyo, Rio de Janeiro). Lý do là chi phí vận chuyển. Đường bộ luôn đắt hơn đường thủy rất nhiều, nhất là trong hàng thiên niên kỷ trước khi có xe tự hành (chưa đầy hai thế kỷ nay). Ngay hôm nay, chở hàng 100 dặm (khoảng 160 km) bằng đường bộ vẫn có thể đắt hơn chở 1.000 dặm bằng đường thủy. Năm 1830, một lô hàng tốn hơn 30 USD để chở 300 dặm đường bộ có thể được chở 3.000 dặm qua Đại Tây Dương với 10 USD. Đô thị phải nhập liên tục lương thực, nhiên liệu và xuất đi khối lượng sản phẩm lớn, nên nằm bên đường thủy là điều dễ hiểu.
+Phần lớn đô thị trên thế giới nằm bên sông, cảng hay hồ: ở cửa các sông lớn đổ ra biển (New York, London, Thượng Hải, Rotterdam), bên hồ lớn hay biển nội địa (Geneva, Chicago, Odessa, Detroit), hoặc bên cảng lớn mở ra biển (Sydney, San Francisco, Tokyo, Rio de Janeiro).
 
-**Hình dạng đất quyết định sông có dùng được không.** Tây Âu chằng chịt sông chảy êm qua đồng bằng ven biển rộng và bằng phẳng, ra biển mở dẫn tới mọi châu lục. Ngược lại, phần lớn châu Phi hạ Sahara, trừ dải đồng bằng ven biển hẹp, cao hơn 1.000 feet (khoảng 300 m), nhiều nơi hơn 2.000 feet (khoảng 600 m). Sau dải đồng bằng hẹp thường là vách dốc, chặn tàu từ biển vào nội địa và thuyền từ nội địa ra biển. Vì vậy sông châu Phi đổ xuống từ độ cao nghìn feet trở lên qua thác ghềnh. Sông Zaire bắt nguồn ở độ cao 4.700 feet (khoảng 1.430 m), nên phải tụt gần một dặm trước khi ra Đại Tây Dương. Những con sông như vậy chỉ đi lại được trên từng đoạn bằng, chỉ với thuyền cỡ nhỏ, và thường chỉ vào một số thời gian trong năm, vì mưa ở châu Phi hạ Sahara thất thường hơn ở Tây Âu. Mùa khô, ngay cả sông Niger, với lưu vực rộng hơn bang Texas, có chỗ sâu chưa tới 3 feet (khoảng 0,9 m); mùa mưa thì nó được tả là "một cái hồ đang chuyển động rộng 20 dặm".
+Lý do là chi phí vận chuyển. Đường bộ luôn đắt hơn đường thủy rất nhiều, nhất là trong hàng thiên niên kỷ trước khi có xe tự hành (chưa đầy hai thế kỷ nay). Ngay hôm nay, chở hàng 100 dặm (khoảng 160 km) bằng đường bộ vẫn có thể đắt hơn chở 1.000 dặm bằng đường thủy. Năm 1830, một lô hàng tốn hơn 30 USD để chở 300 dặm đường bộ có thể được chở 3.000 dặm qua Đại Tây Dương với 10 USD. Đô thị phải nhập liên tục lương thực, nhiên liệu và xuất đi khối lượng sản phẩm lớn, nên nằm bên đường thủy là điều dễ hiểu.
 
-Sông Zaire đổ ra biển nhiều nước hơn Mississippi, Dương Tử, Rhine hay nhiều tuyến thương mại lớn khác, nhưng hàng nghìn feet độ cao phải vượt qua thác ghềnh khiến nó không thể có lưu lượng hàng hoá tương đương; tàu từ Đại Tây Dương vào không đi xa được trước khi gặp một chuỗi thác. Kết luận của Sowell: chiều dài hay lưu lượng nước không nói gì về giá trị kinh tế của một con sông như một tuyến vận tải. Sông châu Phi cho nhiều dặm vận tải địa phương, nhưng không phải những dặm liên tục nối nội địa với biển và thương mại quốc tế, và thác ghềnh cũng giới hạn việc nối các cộng đồng trong lục địa với nhau. Có khi người ta phải dỡ hàng khỏi xuồng, khiêng xuồng qua thác rồi chất hàng lại. Điều đó giới hạn cỡ thuyền, cỡ lô hàng, và tốn thêm thời gian, nhân công, nên chỉ hàng giá trị cao, kích thước nhỏ mới đáng chở. Ở những nơi sông chảy liên tục hàng trăm dặm qua đồng bằng, người ta chở được cả hàng cồng kềnh giá trị thấp như gỗ, lúa mì, than.
+**Hình dạng đất quyết định sông có dùng được không.** Tây Âu chằng chịt sông chảy êm qua đồng bằng ven biển rộng và bằng phẳng, ra biển mở dẫn tới mọi châu lục. Ngược lại, phần lớn châu Phi hạ Sahara, trừ dải đồng bằng ven biển hẹp, cao hơn 1.000 feet (khoảng 300 m), nhiều nơi hơn 2.000 feet (khoảng 600 m). Sau dải đồng bằng hẹp thường là vách dốc, chặn tàu từ biển vào nội địa và thuyền từ nội địa ra biển.
+
+Vì vậy sông châu Phi đổ xuống từ độ cao nghìn feet trở lên qua thác ghềnh. Sông Zaire bắt nguồn ở độ cao 4.700 feet (khoảng 1.430 m), nên phải tụt gần một dặm trước khi ra Đại Tây Dương. Những con sông như vậy chỉ đi lại được trên từng đoạn bằng, chỉ với thuyền cỡ nhỏ, và thường chỉ vào một số thời gian trong năm, vì mưa ở châu Phi hạ Sahara thất thường hơn ở Tây Âu. Mùa khô, ngay cả sông Niger, với lưu vực rộng hơn bang Texas, có chỗ sâu chưa tới 3 feet (khoảng 0,9 m); mùa mưa thì nó được tả là "một cái hồ đang chuyển động rộng 20 dặm".
+
+Sông Zaire đổ ra biển nhiều nước hơn Mississippi, Dương Tử, Rhine hay nhiều tuyến thương mại lớn khác, nhưng hàng nghìn feet độ cao phải vượt qua thác ghềnh khiến nó không thể có lưu lượng hàng hoá tương đương; tàu từ Đại Tây Dương vào không đi xa được trước khi gặp một chuỗi thác. Kết luận của Sowell: chiều dài hay lưu lượng nước không nói gì về giá trị kinh tế của một con sông như một tuyến vận tải. Sông châu Phi cho nhiều dặm vận tải địa phương, nhưng không phải những dặm liên tục nối nội địa với biển và thương mại quốc tế, và thác ghềnh cũng giới hạn việc nối các cộng đồng trong lục địa với nhau.
+
+Có khi người ta phải dỡ hàng khỏi xuồng, khiêng xuồng qua thác rồi chất hàng lại. Điều đó giới hạn cỡ thuyền, cỡ lô hàng, và tốn thêm thời gian, nhân công, nên chỉ hàng giá trị cao, kích thước nhỏ mới đáng chở. Ở những nơi sông chảy liên tục hàng trăm dặm qua đồng bằng, người ta chở được cả hàng cồng kềnh giá trị thấp như gỗ, lúa mì, than.
 
 **Cảng biển.** Châu Phi rộng hơn gấp đôi châu Âu nhưng có đường bờ biển ngắn hơn. Điều đó chỉ có thể vì bờ biển châu Âu khúc khuỷu hơn nhiều, tạo ra nhiều cảng kín gió. Nhiều cảng châu Âu nước sâu, tàu biển lớn cập sát bờ, như ở Stockholm hay Monaco; còn vùng nước ven bờ của phần lớn châu Phi hạ Sahara nông, tàu lớn phải neo ngoài khơi và chuyển hàng sang thuyền nhỏ, một cách làm đắt hơn nhiều và thường đắt đến mức không làm nổi. Nhiều thế kỷ, tàu buôn giữa châu Âu và châu Á đi vòng quanh châu Phi mà thường không dừng lại.
 
-**Ngay trong châu Âu.** Dòng hải lưu Gulf Stream sưởi ấm Tây Âu, nên sông và cảng Tây Âu ít đóng băng hơn và đóng băng ngắn hơn Đông Âu. Ngay cả khi sông không đóng băng, sông Tây Âu thường đổ ra biển mở, còn nhiều sông Đông Âu đổ vào hồ, biển nội địa hay Bắc Băng Dương xa xôi (kể cả khi Bắc Băng Dương không bị băng cản). Sông Rhine chảy về phía bắc từ Thuỵ Sĩ qua Đức, Pháp, Hà Lan ra Biển Bắc, một phần của khối nước liên tục với Đại Tây Dương. Sông Danube chảy về đông nam qua Đông Âu vào Biển Đen, một biển nội địa xa Đại Tây Dương, chỉ ra được đại dương bằng cách đi hết chiều dài Địa Trung Hải. Về thương mại hải ngoại, hai loại sông này không tương đương, dù Danube rất có giá trị cho thương mại giữa các vùng nó chảy qua. Sông Nam Âu đổ vào Địa Trung Hải cũng kém sông phía bắc. Một nhà địa lý nổi tiếng viết rằng sông phía bắc dãy Alps hữu ích hơn hẳn sông lưu vực Địa Trung Hải: chảy đều hơn, sâu hơn, hiếm khi bị mực nước thấp hay băng làm gián đoạn lâu; và chỉ ở Nam Âu, giao thông đường sông mới gần như không có vai trò, vì trừ vài sông như Po và Guadalquivir, phần lớn sông Địa Trung Hải là thác lũ vào mùa đông và gần cạn vào mùa hè.
+**Ngay trong châu Âu.** Dòng hải lưu Gulf Stream sưởi ấm Tây Âu, nên sông và cảng Tây Âu ít đóng băng hơn và đóng băng ngắn hơn Đông Âu. Ngay cả khi sông không đóng băng, sông Tây Âu thường đổ ra biển mở, còn nhiều sông Đông Âu đổ vào hồ, biển nội địa hay Bắc Băng Dương xa xôi (kể cả khi Bắc Băng Dương không bị băng cản).
+
+Sông Rhine chảy về phía bắc từ Thuỵ Sĩ qua Đức, Pháp, Hà Lan ra Biển Bắc, một phần của khối nước liên tục với Đại Tây Dương. Sông Danube chảy về đông nam qua Đông Âu vào Biển Đen, một biển nội địa xa Đại Tây Dương, chỉ ra được đại dương bằng cách đi hết chiều dài Địa Trung Hải. Về thương mại hải ngoại, hai loại sông này không tương đương, dù Danube rất có giá trị cho thương mại giữa các vùng nó chảy qua.
+
+Sông Nam Âu đổ vào Địa Trung Hải cũng kém sông phía bắc. Một nhà địa lý nổi tiếng viết rằng sông phía bắc dãy Alps hữu ích hơn hẳn sông lưu vực Địa Trung Hải: chảy đều hơn, sâu hơn, hiếm khi bị mực nước thấp hay băng làm gián đoạn lâu; và chỉ ở Nam Âu, giao thông đường sông mới gần như không có vai trò, vì trừ vài sông như Po và Guadalquivir, phần lớn sông Địa Trung Hải là thác lũ vào mùa đông và gần cạn vào mùa hè.
 
 **Độ sâu.** Sông Nile dài nhất thế giới nhưng không đủ sâu cho những tàu lớn nhất thời La Mã, càng không cho tàu sân bay ngày nay; trong khi một tàu sân bay có thể đi ngược sông Hudson và cập sát bờ giữa Manhattan.
 
@@ -1162,19 +1181,29 @@ Sông Zaire đổ ra biển nhiều nước hơn Mississippi, Dương Tử, Rhin
 | Sông Niger (mùa khô) | Sà lan tối đa 12 tấn |
 | Sông Dương Tử | Tàu 10.000 tấn đi được hàng trăm dặm; tàu nhỏ hơn đi thêm một nghìn dặm |
 
-**Trung Quốc và Nhật Bản.** Trung Quốc có "mạng lưới đường thủy khổng lồ, có một không hai trên thế giới" của sông Dương Tử và các phụ lưu, cùng "đường bờ biển khúc khuỷu" nhiều cảng. Đường thủy góp phần vào sự phát triển của Trung Quốc như một quốc gia, kể cả trong nhiều thế kỷ Trung Quốc là nước tiên tiến nhất thế giới. Sông ở Nhật có lưu vực nhỏ và dốc nên khó đi lại. Nhật nghèo, lạc hậu nhiều thế kỷ, tới nửa sau thế kỷ 19 mới nhập công nghệ hiện đại từ châu Âu và Mỹ, những nơi có địa lý thuận lợi hơn. Năm 1886, sức mua bình quân đầu người ở Nhật bằng 1/40 nước Anh; năm 1898 lên 1/6. Chỉ tới thế kỷ 20 Nhật mới thành một trong những nước giàu và công nghệ cao nhất. Thiếu tài nguyên và mạng sông chảy qua đồng bằng rộng, Nhật khó tự khởi xướng những đột phá công nghệ như Trung Quốc thời trước hay Tây Âu thời sau. Nhưng khả năng tiếp thu cách mạng công nghiệp sinh ra ở nơi khác, làm chủ rồi khai thác nó giúp Nhật ngang bằng phương Tây và vượt Trung Quốc, nước qua nhiều thế kỷ đã dần mất vị trí dẫn đầu và sức năng động.
+**Trung Quốc và Nhật Bản.** Trung Quốc có "mạng lưới đường thủy khổng lồ, có một không hai trên thế giới" của sông Dương Tử và các phụ lưu, cùng "đường bờ biển khúc khuỷu" nhiều cảng. Đường thủy góp phần vào sự phát triển của Trung Quốc như một quốc gia, kể cả trong nhiều thế kỷ Trung Quốc là nước tiên tiến nhất thế giới.
 
-**Đô thị và vốn con người.** Vì đô thị phụ thuộc vào đường thủy, Tây Âu trở thành một trong những vùng đô thị hoá cao nhất thế giới, còn châu Phi hạ Sahara là một trong những vùng thấp nhất. Thời Trung cổ, Trung Quốc có đô thị lớn hơn mọi đô thị châu Âu. Đô thị hoá nghĩa là người Trung Quốc rồi người Tây Âu có nhiều cơ hội hơn, lâu hơn để phát triển kỹ năng và định hướng công nghiệp, thương mại, tài chính so với dân Balkan hay châu Phi hạ Sahara. Ở mọi nơi, thành tựu trong nhiều lĩnh vực ở đô thị vượt xa thành tựu của cùng số người sống rải rác ở vùng xa. Ngoài lợi ích trực tiếp của chi phí vận tải thấp, đường thủy còn cho một dân tộc tiếp xúc với vũ trụ văn hoá rộng hơn, gồm sản phẩm, công nghệ và ý tưởng của các nước khác; theo Sowell, lợi ích này có thể bằng hoặc vượt lợi ích trực tiếp của thương mại quốc tế.
+Sông ở Nhật có lưu vực nhỏ và dốc nên khó đi lại. Nhật nghèo, lạc hậu nhiều thế kỷ, tới nửa sau thế kỷ 19 mới nhập công nghệ hiện đại từ châu Âu và Mỹ, những nơi có địa lý thuận lợi hơn. Năm 1886, sức mua bình quân đầu người ở Nhật bằng 1/40 nước Anh; năm 1898 lên 1/6. Chỉ tới thế kỷ 20 Nhật mới thành một trong những nước giàu và công nghệ cao nhất.
+
+Thiếu tài nguyên và mạng sông chảy qua đồng bằng rộng, Nhật khó tự khởi xướng những đột phá công nghệ như Trung Quốc thời trước hay Tây Âu thời sau. Nhưng khả năng tiếp thu cách mạng công nghiệp sinh ra ở nơi khác, làm chủ rồi khai thác nó giúp Nhật ngang bằng phương Tây và vượt Trung Quốc, nước qua nhiều thế kỷ đã dần mất vị trí dẫn đầu và sức năng động.
+
+**Đô thị và vốn con người.** Vì đô thị phụ thuộc vào đường thủy, Tây Âu trở thành một trong những vùng đô thị hoá cao nhất thế giới, còn châu Phi hạ Sahara là một trong những vùng thấp nhất. Thời Trung cổ, Trung Quốc có đô thị lớn hơn mọi đô thị châu Âu. Đô thị hoá nghĩa là người Trung Quốc rồi người Tây Âu có nhiều cơ hội hơn, lâu hơn để phát triển kỹ năng và định hướng công nghiệp, thương mại, tài chính so với dân Balkan hay châu Phi hạ Sahara. Ở mọi nơi, thành tựu trong nhiều lĩnh vực ở đô thị vượt xa thành tựu của cùng số người sống rải rác ở vùng xa.
+
+Ngoài lợi ích trực tiếp của chi phí vận tải thấp, đường thủy còn cho một dân tộc tiếp xúc với vũ trụ văn hoá rộng hơn, gồm sản phẩm, công nghệ và ý tưởng của các nước khác; theo Sowell, lợi ích này có thể bằng hoặc vượt lợi ích trực tiếp của thương mại quốc tế.
 
 **Nước uống, nước tưới và cá.** Đường thủy còn cấp nước uống cho người và gia súc, nước tưới ở vùng khô, và thực phẩm trực tiếp là cá và sinh vật biển. Ở vai trò nào chúng cũng khác nhau giữa các nơi. Phần lớn nước Địa Trung Hải có ngư trường kém xa Newfoundland Banks hay các nơi khác ven Đại Tây Dương của Bắc Mỹ và châu Âu, vì thềm lục địa vươn xa ra Đại Tây Dương tạo môi trường cho nhiều sinh vật biển, còn Địa Trung Hải không có thềm như vậy. Nước, cũng như đất, khác nhau ở nhiều mặt, khiến kết quả kinh tế ngang bằng càng khó xảy ra.
 
 ### 4. Núi (Mountains)
 
-Như đường thủy, núi có tác động trực tiếp tới đời sống và gián tiếp tới sự phát triển của con người; nhưng khác đường thủy, các tác động này với người sống trên núi thường tiêu cực. Sử gia Pháp Fernand Braudel viết rằng đời sống miền núi luôn tụt lại sau đồng bằng. Mô hình tụt hậu kinh tế và văn hoá này có ở dãy Appalachian của Mỹ cũng như ở dãy Rif của Maroc hay dãy Pindus của Hy Lạp. Trước đây có sự tương phản tương tự giữa dân cao nguyên Ceylon thuộc địa và người cùng chủng tộc ở vùng thấp, giữa người Scotland vùng cao và vùng thấp. Khác biệt giữa người Scotland vùng cao và vùng thấp còn kéo dài sau khi cả hai di cư sang Úc hay Mỹ: người vùng thấp thành công hơn và hoà nhập xã hội hơn ở cả hai nước. Khác biệt văn hoá hình thành qua nhiều thế kỷ không biến mất ngay khi người ta chuyển sang môi trường khác, hay khi môi trường quanh họ thay đổi.
+Như đường thủy, núi có tác động trực tiếp tới đời sống và gián tiếp tới sự phát triển của con người; nhưng khác đường thủy, các tác động này với người sống trên núi thường tiêu cực. Sử gia Pháp Fernand Braudel viết rằng đời sống miền núi luôn tụt lại sau đồng bằng. Mô hình tụt hậu kinh tế và văn hoá này có ở dãy Appalachian của Mỹ cũng như ở dãy Rif của Maroc hay dãy Pindus của Hy Lạp. Trước đây có sự tương phản tương tự giữa dân cao nguyên Ceylon thuộc địa và người cùng chủng tộc ở vùng thấp, giữa người Scotland vùng cao và vùng thấp.
+
+Khác biệt giữa người Scotland vùng cao và vùng thấp còn kéo dài sau khi cả hai di cư sang Úc hay Mỹ: người vùng thấp thành công hơn và hoà nhập xã hội hơn ở cả hai nước. Khác biệt văn hoá hình thành qua nhiều thế kỷ không biến mất ngay khi người ta chuyển sang môi trường khác, hay khi môi trường quanh họ thay đổi.
 
 Trước giao thông và liên lạc hiện đại, cộng đồng miền núi bị cô lập với vùng thấp và với nhau. Không hoàn toàn cách biệt với thế giới, nhưng văn hoá vùng thấp lên tới núi rất muộn. Tiếng Vlach tồn tại ở núi Pindus nhiều thế kỷ sau khi vùng thấp đã nói tiếng Hy Lạp; người Scotland vùng cao vẫn nói tiếng Gaelic khi vùng thấp đã nói tiếng Anh; đạo Hồi đến với dân núi Rif nhiều thế kỷ sau khi dân vùng thấp đã theo. Công nghệ và kinh tế cũng đến muộn, nên dân miền núi từ lâu nổi tiếng nghèo và lạc hậu, dù ở Himalaya, Appalachian hay núi Albania, Maroc.
 
-Làng núi Pindus xưa mỗi làng dưới 1.000 người, gần đây dân thường trú trung bình thường dưới 200 người. Tới thập niên 1990 tiếng Vlach chưa mất hẳn nhưng chủ yếu do người già nói, còn lớp trẻ học bằng tiếng Hy Lạp và tự coi mình là người Hy Lạp. Có nơi chỉ đi lại bằng la hoặc đi bộ, không dùng được xe có bánh, vài làng chỉ đi bộ tới được, và nhiều làng thỉnh thoảng bị tuyết hay sạt lở cắt đứt với bên ngoài. Một nghiên cứu địa lý về núi nhận xét rằng ở những môi trường dễ chịu hơn như tây bắc châu Âu hay miền đông Bắc Mỹ, chưa từng có những ràng buộc chặt như vậy. Dân miền núi cô lập chưa bao giờ có cùng cơ hội thịnh vượng và tự phát triển như dân ở những môi trường đó. Dời họ xuống vùng thấp cũng không phải lúc nào cũng khả thi, vì họ thiếu kỹ năng, đôi khi thiếu ngôn ngữ, thậm chí không hiểu lối sống rất khác ở vùng thấp.
+Làng núi Pindus xưa mỗi làng dưới 1.000 người, gần đây dân thường trú trung bình thường dưới 200 người. Tới thập niên 1990 tiếng Vlach chưa mất hẳn nhưng chủ yếu do người già nói, còn lớp trẻ học bằng tiếng Hy Lạp và tự coi mình là người Hy Lạp. Có nơi chỉ đi lại bằng la hoặc đi bộ, không dùng được xe có bánh, vài làng chỉ đi bộ tới được, và nhiều làng thỉnh thoảng bị tuyết hay sạt lở cắt đứt với bên ngoài.
+
+Một nghiên cứu địa lý về núi nhận xét rằng ở những môi trường dễ chịu hơn như tây bắc châu Âu hay miền đông Bắc Mỹ, chưa từng có những ràng buộc chặt như vậy. Dân miền núi cô lập chưa bao giờ có cùng cơ hội thịnh vượng và tự phát triển như dân ở những môi trường đó. Dời họ xuống vùng thấp cũng không phải lúc nào cũng khả thi, vì họ thiếu kỹ năng, đôi khi thiếu ngôn ngữ, thậm chí không hiểu lối sống rất khác ở vùng thấp.
 
 *Chú thích của Sowell (xxviii):* Xem ví dụ phần bàn về "dân đồi núi lên thành phố" (urban hillbillies, tức người từ vùng núi Appalachian chuyển lên sống ở đô thị Mỹ) trong sách *The Other America* của Michael Harrington, ấn bản 1962, trang 96–100.
 
@@ -1182,7 +1211,9 @@ Cô lập không chỉ do núi. Đảo xa đất liền cũng gây tác động 
 
 Vì nghèo, dân miền núi thường cho con đi làm sớm, khiến chúng mất cơ hội học hành, thứ có thể phá một phần sự cô lập vật lý. Phần lớn dân các cộng đồng miền núi quanh Địa Trung Hải vẫn mù chữ tới thế kỷ 19 và đầu thế kỷ 20. Vốn con người thấp cộng thêm vào các bất lợi trực tiếp: chi phí vận tải cao, và chi phí bình quân đầu người cao khi xây hệ thống cấp nước, thoát nước, điện, đường sắt, đường bộ cho những cộng đồng xa xôi, thưa dân.
 
-Núi còn ảnh hưởng gián tiếp tới người ở nơi khác. Tuyết tan trên sườn núi cấp nước cho sông, suối, hồ, nên chúng không hoàn toàn phụ thuộc vào mưa. Ở nơi không có dãy núi như châu Phi hạ Sahara, sông suối phụ thuộc hoàn toàn vào mưa, mà mưa ở nhiệt đới châu Phi lại thất thường, nên sông suối có thể cạn hàng tháng cho tới mùa mưa sau. Núi giữ người trên núi trong nghèo khó nhưng thường làm giàu cho người ở vùng thấp bằng cách cấp nước cho những vùng lẽ ra khô hạn. Dãy Sierra Nevada ở Tây Ban Nha và dãy Taurus ở Thổ Nhĩ Kỳ đều cấp nước cho nền nông nghiệp tưới tiêu phồn thịnh ở vùng thấp, nơi mưa không đủ. Nước đến từ tuyết tan và từ mưa thoát xuống trên cả vùng núi rộng: những dòng nhỏ gộp thành suối, suối gộp thành sông để nông dân và người khác dùng.
+Núi còn ảnh hưởng gián tiếp tới người ở nơi khác. Tuyết tan trên sườn núi cấp nước cho sông, suối, hồ, nên chúng không hoàn toàn phụ thuộc vào mưa. Ở nơi không có dãy núi như châu Phi hạ Sahara, sông suối phụ thuộc hoàn toàn vào mưa, mà mưa ở nhiệt đới châu Phi lại thất thường, nên sông suối có thể cạn hàng tháng cho tới mùa mưa sau.
+
+Núi giữ người trên núi trong nghèo khó nhưng thường làm giàu cho người ở vùng thấp bằng cách cấp nước cho những vùng lẽ ra khô hạn. Dãy Sierra Nevada ở Tây Ban Nha và dãy Taurus ở Thổ Nhĩ Kỳ đều cấp nước cho nền nông nghiệp tưới tiêu phồn thịnh ở vùng thấp, nơi mưa không đủ. Nước đến từ tuyết tan và từ mưa thoát xuống trên cả vùng núi rộng: những dòng nhỏ gộp thành suối, suối gộp thành sông để nông dân và người khác dùng.
 
 ### 5. Động vật (Animals)
 
@@ -1194,13 +1225,23 @@ Giao thông bị giới hạn nghiêm trọng khiến vũ trụ văn hoá của 
 
 Tàu biển lớn cũng giúp trao đổi hàng hoá và tri thức giữa châu Âu và châu Á. Nhưng không có gia súc kéo thồ thì việc bốc dỡ tàu lớn khó khả thi về kinh tế, vì không thể gom hàng từ một vùng đất đủ rộng để chất đầy một con tàu, hay chở hàng từ tàu đi đủ xa. Vì vậy vận tải thủy ở châu Mỹ trước Columbus dùng thuyền nhỏ như xuồng, với tầm xa và sức chở kém xa tàu châu Âu và tàu còn lớn hơn của Trung Quốc thời đó.
 
-Khi kẻ xâm lược châu Âu gặp thổ dân châu Mỹ, đó là cuộc gặp giữa những vũ trụ văn hoá có quy mô chênh lệch rất lớn. Người châu Âu vượt được Đại Tây Dương là nhờ thông tin và công nghệ tích luỹ nhiều thế kỷ từ châu Á, Trung Đông và Bắc Phi. Tri thức của họ được lưu bằng chữ cái của người La Mã, viết trên giấy do người Trung Quốc phát minh; họ tính toán hàng hải bằng hệ số đếm gốc Ấn Độ; và khi lên bờ, họ thắng trận nhờ thuốc súng phát minh ở châu Á. Khi người Anh đối đầu người Iroquois hay người Tây Ban Nha đối đầu người Inca, đó không phải cuộc đối đầu chỉ giữa những gì mỗi bên tự phát triển. Người Iroquois không có cách nào biết người Inca hay Maya tồn tại, càng không thể dùng văn hoá của họ để tiến lên.
+Khi kẻ xâm lược châu Âu gặp thổ dân châu Mỹ, đó là cuộc gặp giữa những vũ trụ văn hoá có quy mô chênh lệch rất lớn. Người châu Âu vượt được Đại Tây Dương là nhờ thông tin và công nghệ tích luỹ nhiều thế kỷ từ châu Á, Trung Đông và Bắc Phi. Tri thức của họ được lưu bằng chữ cái của người La Mã, viết trên giấy do người Trung Quốc phát minh; họ tính toán hàng hải bằng hệ số đếm gốc Ấn Độ; và khi lên bờ, họ thắng trận nhờ thuốc súng phát minh ở châu Á.
 
-Úc cũng không có gia súc kéo thồ trước khi người châu Âu tới, không có vật nuôi như bò sữa, dê, cũng không có cừu hay bò đàn. Với một lục địa đảo rộng lớn, cô lập ở Nam Thái Bình Dương, phần lớn là sa mạc và thưa dân, không ngạc nhiên khi thổ dân Úc lâu nay bị coi là một trong những dân tộc lạc hậu nhất. Mưa ở vùng nội địa khô hạn thất thường ít nhất như ở một số vùng nhiệt đới châu Phi; một ấn phẩm của Hội Địa lý Quốc gia Mỹ viết rằng có thể nhiều năm không mưa rồi tới những trận lụt mùa hè. Đó không phải điều kiện cho nông nghiệp, thậm chí cho cây cỏ mọc tự nhiên nhiều. Nhiều vùng đất ở Úc kém màu mỡ. Úc có nhiều tài nguyên quý và từng là nước xuất khẩu quặng titan lớn nhất thế giới, nhưng các khoáng sản này chỉ trở thành tài nguyên sau khi người Anh tới và áp dụng khoa học, công nghệ hiện đại; với thổ dân, chúng gần như vô giá trị. Dải ven biển, nơi phần lớn dân Úc sống ngày nay, có đất và khí hậu tốt hơn, nhưng ngay ở đó cũng chỉ khi người Anh định cư và mang công nghệ phương Tây tới thì nông nghiệp và chăn nuôi bò mới thay thế xã hội săn bắt hái lượm. Ở đây, cũng như nơi khác, người châu Âu đến với tri thức và công nghệ góp nhặt từ một vũ trụ văn hoá rộng hơn rất nhiều. Theo Sowell, chỉ riêng địa lý đã đủ ngăn thổ dân Úc có tiến bộ ngang bằng.
+Khi người Anh đối đầu người Iroquois hay người Tây Ban Nha đối đầu người Inca, đó không phải cuộc đối đầu chỉ giữa những gì mỗi bên tự phát triển. Người Iroquois không có cách nào biết người Inca hay Maya tồn tại, càng không thể dùng văn hoá của họ để tiến lên.
+
+Úc cũng không có gia súc kéo thồ trước khi người châu Âu tới, không có vật nuôi như bò sữa, dê, cũng không có cừu hay bò đàn. Với một lục địa đảo rộng lớn, cô lập ở Nam Thái Bình Dương, phần lớn là sa mạc và thưa dân, không ngạc nhiên khi thổ dân Úc lâu nay bị coi là một trong những dân tộc lạc hậu nhất.
+
+Mưa ở vùng nội địa khô hạn thất thường ít nhất như ở một số vùng nhiệt đới châu Phi; một ấn phẩm của Hội Địa lý Quốc gia Mỹ viết rằng có thể nhiều năm không mưa rồi tới những trận lụt mùa hè. Đó không phải điều kiện cho nông nghiệp, thậm chí cho cây cỏ mọc tự nhiên nhiều. Nhiều vùng đất ở Úc kém màu mỡ.
+
+Úc có nhiều tài nguyên quý và từng là nước xuất khẩu quặng titan lớn nhất thế giới, nhưng các khoáng sản này chỉ trở thành tài nguyên sau khi người Anh tới và áp dụng khoa học, công nghệ hiện đại; với thổ dân, chúng gần như vô giá trị.
+
+Dải ven biển, nơi phần lớn dân Úc sống ngày nay, có đất và khí hậu tốt hơn, nhưng ngay ở đó cũng chỉ khi người Anh định cư và mang công nghệ phương Tây tới thì nông nghiệp và chăn nuôi bò mới thay thế xã hội săn bắt hái lượm. Ở đây, cũng như nơi khác, người châu Âu đến với tri thức và công nghệ góp nhặt từ một vũ trụ văn hoá rộng hơn rất nhiều. Theo Sowell, chỉ riêng địa lý đã đủ ngăn thổ dân Úc có tiến bộ ngang bằng.
 
 ### 6. Vị trí (Location)
 
-Vị trí tự nó, ngoài đặc điểm địa lý tại chỗ, có thể quyết định số phận cả dân tộc. Một sự thật đơn giản như "sông Nga chảy theo hướng bắc-nam, còn phần lớn giao thông đi theo hướng đông-tây" đã làm giá trị vận tải của các con sông này giảm mạnh. Vị trí còn quyết định khí hậu và do đó mức đóng băng: ở miền nam nước Nga, đường thủy không đóng băng chín tháng mỗi năm; ở miền bắc chỉ sáu tuần. Phần lớn nước sông Nga đổ ra Bắc Băng Dương. Sông Volga là con sông quan trọng nhất của Nga về khối lượng hàng chở, dù có hai sông khác mỗi sông nhiều nước gấp hơn hai lần, vì Volga nằm gần các trung tâm dân cư, công nghiệp và đất nông nghiệp. Vị trí có thể quan trọng hơn đặc điểm vật lý của sông, núi hay các yếu tố địa lý khác.
+Vị trí tự nó, ngoài đặc điểm địa lý tại chỗ, có thể quyết định số phận cả dân tộc. Một sự thật đơn giản như "sông Nga chảy theo hướng bắc-nam, còn phần lớn giao thông đi theo hướng đông-tây" đã làm giá trị vận tải của các con sông này giảm mạnh.
+
+Vị trí còn quyết định khí hậu và do đó mức đóng băng: ở miền nam nước Nga, đường thủy không đóng băng chín tháng mỗi năm; ở miền bắc chỉ sáu tuần. Phần lớn nước sông Nga đổ ra Bắc Băng Dương. Sông Volga là con sông quan trọng nhất của Nga về khối lượng hàng chở, dù có hai sông khác mỗi sông nhiều nước gấp hơn hai lần, vì Volga nằm gần các trung tâm dân cư, công nghiệp và đất nông nghiệp. Vị trí có thể quan trọng hơn đặc điểm vật lý của sông, núi hay các yếu tố địa lý khác.
 
 Nông nghiệp, có lẽ là phát kiến làm thay đổi đời sống loài người nhiều nhất, đến châu Âu từ Trung Đông thời cổ đại. Người châu Âu ở đông Địa Trung Hải, gần Trung Đông hơn, nhận được bước tiến này và thoát khỏi thời săn bắt hái lượm sớm hơn người Bắc Âu nhiều thế kỷ. Nông nghiệp giảm mạnh diện tích đất cần để nuôi một số người, và nhờ đó đô thị mới có thể xuất hiện. Đô thị phổ biến ở Hy Lạp cổ nhưng rất hiếm ở Bắc Âu và nhiều nơi khác thời đó. Từ các đô thị Hy Lạp cổ xuất hiện Socrates, Plato, Aristotle và những người khác đặt nền móng trí tuệ cho tư tưởng và văn minh phương Tây.
 
@@ -1220,7 +1261,11 @@ Văn hoá thượng tôn pháp luật thay vì để lãnh đạo dùng quyền 
 
 Thái độ với lao động cũng ảnh hưởng tới phát triển, và nó khác nhau hàng thế kỷ ngay trong văn minh châu Âu. Thời nhà Tudor, thái độ của giới tinh hoa Anh khác hẳn giới tinh hoa lục địa: con trai thứ của một quý tộc Anh không được phép ăn không ngồi rồi ở trang viên, làm hao tổn thu nhập gia đình như những quý tộc nghèo ở lục địa vốn quá kiêu hãnh để làm việc; anh ta đi kiếm tiền bằng buôn bán hoặc nghề luật.
 
-Tiến bộ kinh tế đôi khi phụ thuộc vào việc người trong một nền văn hoá có tìm kiếm tiến bộ hay hài lòng làm theo lối cũ. Tỷ lệ hai nhóm này khác nhau giữa các xã hội và trong một xã hội. Ở Mỹ, miền Nam trước Nội chiến tiến chậm hơn các vùng khác. Kỹ thuật nông nghiệp miền Nam đổi rất chậm hoặc không đổi; ngay cái cày cũng chỉ được dùng dần dần và lác đác; đến năm 1856 nhiều tiểu nông Nam Carolina vẫn dùng cuốc thô sơ thời thuộc địa; máy tỉa hạt bông, xưởng tỉa bông và máy ép kiện bông gần như không đổi từ 1820 đến Nội chiến. Máy tỉa hạt bông, yếu tố then chốt của kinh tế miền Nam, do một người miền Bắc phát minh. Năm 1851, cư dân các bang miền Nam chỉ nhận 8% bằng sáng chế của Mỹ, dù dân da trắng miền Nam bằng khoảng 1/3 dân da trắng cả nước; ngay trong nông nghiệp, hoạt động chính của vùng, chỉ 9 trên 62 bằng sáng chế nông cụ thuộc về người miền Nam.
+Tiến bộ kinh tế đôi khi phụ thuộc vào việc người trong một nền văn hoá có tìm kiếm tiến bộ hay hài lòng làm theo lối cũ. Tỷ lệ hai nhóm này khác nhau giữa các xã hội và trong một xã hội.
+
+Ở Mỹ, miền Nam trước Nội chiến tiến chậm hơn các vùng khác. Kỹ thuật nông nghiệp miền Nam đổi rất chậm hoặc không đổi; ngay cái cày cũng chỉ được dùng dần dần và lác đác; đến năm 1856 nhiều tiểu nông Nam Carolina vẫn dùng cuốc thô sơ thời thuộc địa; máy tỉa hạt bông, xưởng tỉa bông và máy ép kiện bông gần như không đổi từ 1820 đến Nội chiến.
+
+Máy tỉa hạt bông, yếu tố then chốt của kinh tế miền Nam, do một người miền Bắc phát minh. Năm 1851, cư dân các bang miền Nam chỉ nhận 8% bằng sáng chế của Mỹ, dù dân da trắng miền Nam bằng khoảng 1/3 dân da trắng cả nước; ngay trong nông nghiệp, hoạt động chính của vùng, chỉ 9 trên 62 bằng sáng chế nông cụ thuộc về người miền Nam.
 
 Khác biệt thói quen và thái độ là khác biệt vốn con người, và có thể dẫn tới khác biệt kết quả kinh tế. Thời Nội chiến:
 
@@ -1243,11 +1288,15 @@ Tịch thu vốn vật chất cũng hiếm khi làm người tịch thu giàu l�
 
 Vốn con người có thể cũng góp phần giải thích một điều hay được nhắc: nhiều xã hội nghèo nhất ở nhiệt đới và nhiều xã hội giàu nhất ở ôn đới. Thế nhưng nhiều người từ ôn đới đến sống ở nhiệt đới lại phát đạt ở đó, hơn hẳn dân bản địa, như người Hoa ở Malaysia hay người Liban ở Tây Phi. Tác động của môi trường địa lý vừa trực tiếp (tạo cơ hội khách quan) vừa gián tiếp (mở rộng hay thu hẹp sự phát triển vốn con người cần để tận dụng cơ hội).
 
-Đôi khi chính lợi thế của một môi trường địa lý khiến dân bản địa không cần phát triển vốn con người tới mức tối đa. Một vùng nhiệt đới trồng trọt được quanh năm có thể khiến người dân không cần ý thức gấp gáp về thời gian và thói quen kỷ luật kinh tế. Ở ôn đới, những thứ đó là điều kiện sống còn: người ta phải cày ngay khi đất tan băng mùa xuân để kịp một vụ trong mùa sinh trưởng ngắn, đủ ăn suốt mùa đông dài. Điều này càng đúng trong hàng thiên niên kỷ trước khi vận tải hiện đại cho phép mua khối lượng lớn lương thực từ nơi xa. Phải trữ lương thực qua đông nghĩa là trong nhiều thế kỷ, thói quen tiết kiệm ăn sâu là cần để sống còn ở ôn đới; ở nhiệt đới, việc hình thành thói quen đó không cấp bách bằng. Hơn nữa, trữ lúa hay khoai qua đông ở khí hậu ôn đới dễ hơn nhiều so với trữ chuối, dứa hay thực phẩm nhiệt đới khác ở xứ nóng.
+Đôi khi chính lợi thế của một môi trường địa lý khiến dân bản địa không cần phát triển vốn con người tới mức tối đa. Một vùng nhiệt đới trồng trọt được quanh năm có thể khiến người dân không cần ý thức gấp gáp về thời gian và thói quen kỷ luật kinh tế. Ở ôn đới, những thứ đó là điều kiện sống còn: người ta phải cày ngay khi đất tan băng mùa xuân để kịp một vụ trong mùa sinh trưởng ngắn, đủ ăn suốt mùa đông dài. Điều này càng đúng trong hàng thiên niên kỷ trước khi vận tải hiện đại cho phép mua khối lượng lớn lương thực từ nơi xa.
+
+Phải trữ lương thực qua đông nghĩa là trong nhiều thế kỷ, thói quen tiết kiệm ăn sâu là cần để sống còn ở ôn đới; ở nhiệt đới, việc hình thành thói quen đó không cấp bách bằng. Hơn nữa, trữ lúa hay khoai qua đông ở khí hậu ôn đới dễ hơn nhiều so với trữ chuối, dứa hay thực phẩm nhiệt đới khác ở xứ nóng.
 
 *Chú thích của Sowell (xxxi):* Nhu cầu bắt buộc phải trữ lương thực để sống qua mùa đông còn tạo động cơ biến một sản phẩm dễ hỏng như sữa thành một sản phẩm trữ được như pho mát.
 
-Vốn con người gồm không chỉ thông tin mà cả thói quen, và thói quen cần để sống còn ở môi trường địa lý này khác với ở môi trường khác. Sự dồi dào của tự nhiên có cả mặt tốt lẫn mặt xấu. Câu nói của người Thái "lúa trên đồng, cá dưới nước" thể hiện niềm tin vào sự dồi dào của tự nhiên, điều xa lạ với người miền nam Trung Quốc, nơi đói kém là hiểm hoạ hàng thế kỷ, buộc người dân phải tằn tiện, chăm chỉ và tháo vát nếu không muốn bị diệt vong. Khi người miền nam Trung Quốc di cư tới những môi trường hứa hẹn hơn ở Thái Lan, Malaysia hay Mỹ, những phẩm chất đó, tức những thói quen, tức vốn con người, giúp họ phát đạt, kể cả khi đến tay trắng, rồi giàu hơn dân đã sống ở đó trước. Có thể kể câu chuyện tương tự về người Liban, người Do Thái và những nhóm khác đến nhiều nơi với rất ít tiền nhưng nhiều vốn con người hình thành ở những môi trường khắc nghiệt hơn.
+Vốn con người gồm không chỉ thông tin mà cả thói quen, và thói quen cần để sống còn ở môi trường địa lý này khác với ở môi trường khác. Sự dồi dào của tự nhiên có cả mặt tốt lẫn mặt xấu. Câu nói của người Thái "lúa trên đồng, cá dưới nước" thể hiện niềm tin vào sự dồi dào của tự nhiên, điều xa lạ với người miền nam Trung Quốc, nơi đói kém là hiểm hoạ hàng thế kỷ, buộc người dân phải tằn tiện, chăm chỉ và tháo vát nếu không muốn bị diệt vong.
+
+Khi người miền nam Trung Quốc di cư tới những môi trường hứa hẹn hơn ở Thái Lan, Malaysia hay Mỹ, những phẩm chất đó, tức những thói quen, tức vốn con người, giúp họ phát đạt, kể cả khi đến tay trắng, rồi giàu hơn dân đã sống ở đó trước. Có thể kể câu chuyện tương tự về người Liban, người Do Thái và những nhóm khác đến nhiều nơi với rất ít tiền nhưng nhiều vốn con người hình thành ở những môi trường khắc nghiệt hơn.
 
 Nhiều nhóm có mô hình tương tự khi di cư trong chính nước mình. Một nghiên cứu Sowell trích nhận xét rằng trong các nhóm tiến bộ, nổi bật là những nhóm có quê cằn cỗi và quá đông dân: người Tamil ở Sri Lanka, Bamiléké ở Cameroon, Berber Kabyle ở Algeria, Kikuyu ở Kenya, Toba Batak ở Indonesia, Ilocano ở Philippines, Malayalee ở Kerala (Ấn Độ) và Ibo ở Nigeria. Tất cả đều đến từ những vùng quá nghèo để nuôi dân, có tỷ lệ di cư ra ngoài cao bất thường, và nắm bắt nhiều cơ hội trong khu vực kinh tế hiện đại.
 
@@ -1273,7 +1322,11 @@ Nói cách khác, Tây Ban Nha dịch sang tiếng Tây Ban Nha trong một năm
 
 Một cách khác để văn hoá tự làm hại mình là giới hạn bộ phận dân cư nào được làm vai trò nào. Nếu chỉ người thuộc một số nhóm định sẵn, dù theo giai cấp, đẳng cấp, bộ tộc, chủng tộc, tôn giáo hay giới tính, được theo một số nghề, thì sự phân bổ vai trò theo văn hoá có thể lệch xa sự phân bổ tài năng bẩm sinh giữa các cá nhân. Bỏ phí tiềm năng của nhiều người, xã hội đó có nền kinh tế kém năng suất hơn những xã hội không tự đặt ra hạn chế như vậy.
 
-Lịch sử đầy những xã hội giới hạn bộ phận dân cư vào một số vai trò, thậm chí đuổi những nhóm năng suất nhất ra khỏi nước, vì sự thịnh vượng của họ gây oán giận dẫn tới đàn áp, bạo lực đám đông hay trục xuất. Những xã hội ít hạn chế hơn thường được lợi khi đón người tị nạn có kỹ năng, dù họ đến với rất ít tiền. Thế kỷ 17, nước Anh được lợi khi đón hàng chục nghìn người Huguenot (người Tin Lành Pháp) chạy khỏi đàn áp ở Pháp; người Huguenot lập ra ngành đồng hồ ở London, và những người tị nạn khác lập ra các doanh nghiệp, ngành khác ở Anh. Năm 1492 Tây Ban Nha trục xuất hàng loạt người Do Thái, buộc họ bỏ lại phần lớn tài sản; theo Sowell, nhiều người định cư ở Hà Lan, nơi vốn con người họ giữ được giúp họ giàu lại và giúp Amsterdam thành một trong những cảng thương mại lớn của thế giới. Qua nhiều thế kỷ, hàng chục triệu người từ khắp châu Âu sang Mỹ để tránh đàn áp hoặc tìm cơ hội kinh tế rộng hơn cơ hội dành cho người thường ở châu Âu. Nhiều ngành công nghiệp Mỹ được lập ra hay tiến mạnh nhờ những người nhập cư vốn không giàu có hay danh tiếng gì ở châu Âu nhưng thành những "người khổng lồ" kinh tế ở Mỹ, góp phần biến Mỹ từ một nước chủ yếu nông nghiệp thành cường quốc công nghiệp hàng đầu thế giới.
+Lịch sử đầy những xã hội giới hạn bộ phận dân cư vào một số vai trò, thậm chí đuổi những nhóm năng suất nhất ra khỏi nước, vì sự thịnh vượng của họ gây oán giận dẫn tới đàn áp, bạo lực đám đông hay trục xuất. Những xã hội ít hạn chế hơn thường được lợi khi đón người tị nạn có kỹ năng, dù họ đến với rất ít tiền.
+
+Thế kỷ 17, nước Anh được lợi khi đón hàng chục nghìn người Huguenot (người Tin Lành Pháp) chạy khỏi đàn áp ở Pháp; người Huguenot lập ra ngành đồng hồ ở London, và những người tị nạn khác lập ra các doanh nghiệp, ngành khác ở Anh. Năm 1492 Tây Ban Nha trục xuất hàng loạt người Do Thái, buộc họ bỏ lại phần lớn tài sản; theo Sowell, nhiều người định cư ở Hà Lan, nơi vốn con người họ giữ được giúp họ giàu lại và giúp Amsterdam thành một trong những cảng thương mại lớn của thế giới.
+
+Qua nhiều thế kỷ, hàng chục triệu người từ khắp châu Âu sang Mỹ để tránh đàn áp hoặc tìm cơ hội kinh tế rộng hơn cơ hội dành cho người thường ở châu Âu. Nhiều ngành công nghiệp Mỹ được lập ra hay tiến mạnh nhờ những người nhập cư vốn không giàu có hay danh tiếng gì ở châu Âu nhưng thành những "người khổng lồ" kinh tế ở Mỹ, góp phần biến Mỹ từ một nước chủ yếu nông nghiệp thành cường quốc công nghiệp hàng đầu thế giới.
 
 Cô lập văn hoá có nhiều dạng, tạo ra những bất lợi khác nhau giữa các nhóm, xã hội, quốc gia, nền văn minh. Mức cô lập văn hoá khác nhau trong và giữa các xã hội cộng thêm vào yếu tố địa lý và yếu tố khác, khiến bình đẳng kinh tế giữa các nhóm càng khó xảy ra.
 
@@ -1283,9 +1336,15 @@ Vì không phải mọi nền văn hoá đều có chữ viết cùng lúc, ở 
 
 Ở Praha, tiếng Đức là ngôn ngữ của tầng lớp có học, dù họ gốc Đức, Czech hay Do Thái. Ở thành phố cảng Riga thuộc Đế quốc Nga, phần lớn giáo dục thế kỷ 19 dùng tiếng Đức, dù người Đức không quá 1/4 dân thành phố. Năm 1802 chính quyền Sa hoàng mở một trường đại học ở Estonia, và phần lớn giảng viên, sinh viên là người Đức trong gần hết thế kỷ 19. Không chỉ trong học vấn chính quy, mà ở nhiều nghề thủ công, người Đức cũng giỏi hơn nhiều dân tộc Đông Âu. Các làng nông nghiệp Đức ven sông Volga và vùng Biển Đen của Đế quốc Nga năng suất và giàu hơn nông trại của dân bản địa.
 
-Mô hình này có gốc lịch sử. Như đã nói ở mục Vị trí, các ngôn ngữ Tây Âu có chữ viết sớm hơn các ngôn ngữ Đông Âu nhiều thế kỷ, vì Tây Âu bị La Mã chinh phục và nhận chữ Latin. Thời Trung cổ, người Tây Âu thường chiếm đa số dân ở nhiều đô thị Đông Âu; họ thường là người Đức, cùng một số người Do Thái và người Tây Âu khác. Ngay cả khi người Đức không chiếm đa số dân đô thị, họ thường chiếm đa số giới tinh hoa kinh tế, như ở Praha thuộc Đế quốc Habsburg hay Riga, Tallinn và các đô thị Baltic khác thuộc Đế quốc Nga. Người Slav thường chiếm tuyệt đại đa số ở nông thôn Đông Âu, nhưng cũng có những làng nông nghiệp Đức, thường do vua chúa Đông Âu cố ý mời đến để mang người có kỹ năng cao hơn vào lãnh thổ mình, nhằm tăng của cải và quyền lực. Việc này không chỉ cấy tri thức, công nghệ và kinh nghiệm tiên tiến vào Đông Âu mà còn mở khả năng cho người bản địa tiếp thu thành tựu văn hoá Tây Âu.
+Mô hình này có gốc lịch sử. Như đã nói ở mục Vị trí, các ngôn ngữ Tây Âu có chữ viết sớm hơn các ngôn ngữ Đông Âu nhiều thế kỷ, vì Tây Âu bị La Mã chinh phục và nhận chữ Latin. Thời Trung cổ, người Tây Âu thường chiếm đa số dân ở nhiều đô thị Đông Âu; họ thường là người Đức, cùng một số người Do Thái và người Tây Âu khác. Ngay cả khi người Đức không chiếm đa số dân đô thị, họ thường chiếm đa số giới tinh hoa kinh tế, như ở Praha thuộc Đế quốc Habsburg hay Riga, Tallinn và các đô thị Baltic khác thuộc Đế quốc Nga.
 
-Về kinh tế thuần tuý, việc bổ sung vốn con người vào Đông Âu tạo thêm cơ hội cho người bản địa đi lên, và nhiều người đã đi lên bằng cách học tiếng và văn hoá Đức. Nhưng về xã hội và chính trị, tình trạng thiểu số Đức nắm giới kinh doanh và nghề nghiệp, khi gia đình Đức ở Praha thường có người hầu Czech còn hầu như không người Đức nào đi ở, gây oán giận sắc tộc và cuối cùng sinh ra các phong trào bản sắc sắc tộc thể hiện sự oán giận đó về chính trị. Căng thẳng tương tự phổ biến ở những nước có một nhóm nhập cư mang theo nhiều vốn con người hơn dân bản địa và vì thế giàu hơn rõ rệt: người Hoa ở Đông Nam Á, người Liban ở Tây Phi, người Nhật ở Peru, người Ấn ở Fiji, cùng nhiều trường hợp khác. Trong một nước cũng vậy, có những nhóm di cư từ vùng này sang vùng khác, mang lại lợi ích kinh tế nhưng gây phản ứng xã hội, chính trị vì thành tựu kinh tế cao hơn của họ bị oán giận. Dù các xung đột này kết thúc ra sao (có những cái kết bi thảm), về kinh tế thuần tuý chúng là thêm những yếu tố khiến các vùng, chủng tộc, quốc gia không có kết quả ngang nhau, thậm chí không giữ cùng một mô hình bất bình đẳng qua thời gian.
+Người Slav thường chiếm tuyệt đại đa số ở nông thôn Đông Âu, nhưng cũng có những làng nông nghiệp Đức, thường do vua chúa Đông Âu cố ý mời đến để mang người có kỹ năng cao hơn vào lãnh thổ mình, nhằm tăng của cải và quyền lực. Việc này không chỉ cấy tri thức, công nghệ và kinh nghiệm tiên tiến vào Đông Âu mà còn mở khả năng cho người bản địa tiếp thu thành tựu văn hoá Tây Âu.
+
+Về kinh tế thuần tuý, việc bổ sung vốn con người vào Đông Âu tạo thêm cơ hội cho người bản địa đi lên, và nhiều người đã đi lên bằng cách học tiếng và văn hoá Đức. Nhưng về xã hội và chính trị, tình trạng thiểu số Đức nắm giới kinh doanh và nghề nghiệp, khi gia đình Đức ở Praha thường có người hầu Czech còn hầu như không người Đức nào đi ở, gây oán giận sắc tộc và cuối cùng sinh ra các phong trào bản sắc sắc tộc thể hiện sự oán giận đó về chính trị.
+
+Căng thẳng tương tự phổ biến ở những nước có một nhóm nhập cư mang theo nhiều vốn con người hơn dân bản địa và vì thế giàu hơn rõ rệt: người Hoa ở Đông Nam Á, người Liban ở Tây Phi, người Nhật ở Peru, người Ấn ở Fiji, cùng nhiều trường hợp khác.
+
+Trong một nước cũng vậy, có những nhóm di cư từ vùng này sang vùng khác, mang lại lợi ích kinh tế nhưng gây phản ứng xã hội, chính trị vì thành tựu kinh tế cao hơn của họ bị oán giận. Dù các xung đột này kết thúc ra sao (có những cái kết bi thảm), về kinh tế thuần tuý chúng là thêm những yếu tố khiến các vùng, chủng tộc, quốc gia không có kết quả ngang nhau, thậm chí không giữ cùng một mô hình bất bình đẳng qua thời gian.
 
 Lãnh đạo và người phát ngôn của các nhóm tụt hậu thường đổ lỗi cho người khác, đôi khi mô tả tiêu chuẩn tuyển sinh hay tuyển dụng là rào cản tuỳ tiện. Một người phát ngôn sắc tộc ở Ấn Độ hỏi: "chẳng lẽ chúng tôi không được có việc làm chỉ vì chúng tôi kém trình độ hơn?"; một người phát ngôn sắc tộc ở Nigeria lên án "sự chuyên chế của kỹ năng". Phản ứng chính trị tương tự phổ biến ở nhiều nước: thiểu số Đức bị đổ lỗi cho sự tụt hậu của người Czech ở Bohemia thế kỷ 19 hay người Latvia ở Latvia; người Fiji đổ lỗi cho thiểu số Ấn; dân nhiều nước Đông Nam Á đổ lỗi cho thiểu số Hoa.
 
@@ -1293,17 +1352,27 @@ Lãnh đạo và người phát ngôn của các nhóm tụt hậu thường đ�
 
 Nói cách khác, lãnh đạo sắc tộc thường quay dân mình chống lại chính những nền văn hoá có thể giúp họ tiến lên, và phung phí sức lực vào việc chống những nền văn hoá đó cùng những người có lợi thế từ chúng. Đó không hẳn là hành động phi lý của lãnh đạo, vì thái độ "chúng ta chống lại họ" thúc đẩy sự nghiệp của chính họ, dù hại lợi ích kinh tế của những người họ lãnh đạo. Mô hình này đã xuất hiện ở nhiều thời điểm, trên mọi châu lục có người ở.
 
-Trường hợp ngược lại là ngoại lệ. Triết gia David Hume khuyên đồng bào Scotland thế kỷ 18 học tiếng Anh để tiến thân; họ làm theo và tiến nhanh trong nhiều lĩnh vực, cuối cùng vượt người Anh về kỹ thuật và y khoa. Người Nhật thế kỷ 19 là một ngoại lệ khác: khi thời kỳ cô lập chấm dứt, họ công khai thừa nhận mình tụt hậu lâu so với phương Tây và mời chuyên gia châu Âu, Mỹ đến đưa công nghệ phương Tây vào Nhật. Đến thế kỷ 20, Nhật đuổi kịp phương Tây ở nhiều lĩnh vực và vượt ở một số lĩnh vực. Nhưng khi hạm đội Mỹ của Đề đốc Perry ép chính quyền Nhật mở cửa năm 1853, sự lạc hậu của người Nhật lộ rõ trong phản ứng trước đoàn tàu hoả Perry tặng: thoạt đầu họ đứng xa sợ hãi nhìn, và khi đầu máy chuyển động thì kêu lên kinh ngạc, nín thở; ít lâu sau họ đến xem xét kỹ, vuốt ve, ngồi lên đi thử, và làm vậy suốt cả ngày. Từ mức lạc hậu đó, Nhật bắt đầu nhập ồ ạt công nghệ và kỹ sư châu Âu, Mỹ, học tiếng Anh rộng rãi để trực tiếp tiếp cận khoa học, công nghệ phương Tây. Lúc đầu chậm, rồi nhanh dần khi có thêm kinh nghiệm, trong thế kỷ tiếp theo người Nhật vươn lên hàng đầu thế giới về công nghệ ở nhiều ngành, làm ra những đoàn tàu vượt mọi tàu Mỹ sản xuất.
+Trường hợp ngược lại là ngoại lệ. Triết gia David Hume khuyên đồng bào Scotland thế kỷ 18 học tiếng Anh để tiến thân; họ làm theo và tiến nhanh trong nhiều lĩnh vực, cuối cùng vượt người Anh về kỹ thuật và y khoa.
+
+Người Nhật thế kỷ 19 là một ngoại lệ khác: khi thời kỳ cô lập chấm dứt, họ công khai thừa nhận mình tụt hậu lâu so với phương Tây và mời chuyên gia châu Âu, Mỹ đến đưa công nghệ phương Tây vào Nhật. Đến thế kỷ 20, Nhật đuổi kịp phương Tây ở nhiều lĩnh vực và vượt ở một số lĩnh vực.
+
+Nhưng khi hạm đội Mỹ của Đề đốc Perry ép chính quyền Nhật mở cửa năm 1853, sự lạc hậu của người Nhật lộ rõ trong phản ứng trước đoàn tàu hoả Perry tặng: thoạt đầu họ đứng xa sợ hãi nhìn, và khi đầu máy chuyển động thì kêu lên kinh ngạc, nín thở; ít lâu sau họ đến xem xét kỹ, vuốt ve, ngồi lên đi thử, và làm vậy suốt cả ngày.
+
+Từ mức lạc hậu đó, Nhật bắt đầu nhập ồ ạt công nghệ và kỹ sư châu Âu, Mỹ, học tiếng Anh rộng rãi để trực tiếp tiếp cận khoa học, công nghệ phương Tây. Lúc đầu chậm, rồi nhanh dần khi có thêm kinh nghiệm, trong thế kỷ tiếp theo người Nhật vươn lên hàng đầu thế giới về công nghệ ở nhiều ngành, làm ra những đoàn tàu vượt mọi tàu Mỹ sản xuất.
 
 Là một nước gần như thuần một chủng tộc và chưa từng bị chinh phục trước năm 1945, Nhật thế kỷ 19 có ít cơ sở để đổ lỗi cho người khác về sự tụt hậu, và họ cũng không làm vậy. Nhưng Scotland và Nhật là ngoại lệ hiếm hoi, và sự vươn lên ngoạn mục của họ cũng hiếm. Cả hai nghèo tài nguyên, từng nghèo và lạc hậu, không có điều kiện địa lý để khởi xướng một cuộc cách mạng công nghiệp như một số nước khác. Nhưng vì họ tiếp thu được thành tựu của những dân tộc sống ở môi trường may mắn hơn, họ vượt qua bất lợi địa lý của mình và tiến lên hàng đầu.
 
-Nước tiên tiến về văn hoá và kinh tế chưa chắc tiên tiến về quân sự, nên sự thịnh vượng và nền văn hoá tạo ra nó có thể bị huỷ diệt bởi những dân tộc mạnh hơn về quân sự nhưng kém hơn ở các mặt khác. Khi các bộ tộc man di xâm lược và huỷ diệt Đế quốc La Mã, họ phá phần lớn thể chế duy trì văn hoá La Mã, khiến dân các vùng thuộc đế quốc cũ sống dưới mức kinh tế và công nghệ tổ tiên họ đã đạt. Đồ vật còn lại từ châu Âu Trung cổ cho thấy tay nghề thủ công kém đi rõ rệt so với thời La Mã. Hệ thống sưởi trung tâm có ở Anh từ thời La Mã trở nên hiếm hoặc không còn, kể cả trong giới quý tộc, trong những thế kỷ sau khi La Mã rút đi. Các đô thị châu Âu Trung cổ, kể cả chính Rome, ít dân và ít tiện ích hơn nhiều so với thời La Mã. Đến đầu thế kỷ 19, chưa đô thị châu Âu nào có nguồn nước ổn định bằng nhiều đô thị La Mã hơn một nghìn năm trước. Lịch sử không luôn đi lên theo một đường thẳng; có những lần thụt lùi sâu và kéo dài.
+Nước tiên tiến về văn hoá và kinh tế chưa chắc tiên tiến về quân sự, nên sự thịnh vượng và nền văn hoá tạo ra nó có thể bị huỷ diệt bởi những dân tộc mạnh hơn về quân sự nhưng kém hơn ở các mặt khác. Khi các bộ tộc man di xâm lược và huỷ diệt Đế quốc La Mã, họ phá phần lớn thể chế duy trì văn hoá La Mã, khiến dân các vùng thuộc đế quốc cũ sống dưới mức kinh tế và công nghệ tổ tiên họ đã đạt.
+
+Đồ vật còn lại từ châu Âu Trung cổ cho thấy tay nghề thủ công kém đi rõ rệt so với thời La Mã. Hệ thống sưởi trung tâm có ở Anh từ thời La Mã trở nên hiếm hoặc không còn, kể cả trong giới quý tộc, trong những thế kỷ sau khi La Mã rút đi. Các đô thị châu Âu Trung cổ, kể cả chính Rome, ít dân và ít tiện ích hơn nhiều so với thời La Mã. Đến đầu thế kỷ 19, chưa đô thị châu Âu nào có nguồn nước ổn định bằng nhiều đô thị La Mã hơn một nghìn năm trước. Lịch sử không luôn đi lên theo một đường thẳng; có những lần thụt lùi sâu và kéo dài.
 
 ### 11. Dân số (Population): quy mô dân số (Population Size) và di chuyển dân cư (Population Movements)
 
 Dân số tác động tới kết quả kinh tế qua quy mô, đặc điểm nhân khẩu học, mức di chuyển, cùng nhiều yếu tố khác. Mức tập trung hay phân tán của dân cư, gắn với mức đô thị hoá, cũng ảnh hưởng mạnh tới tiến bộ kinh tế; sự tách biệt về vật lý hay xã hội giữa các bộ phận dân cư ảnh hưởng tới mức họ hợp tác và phối hợp trong hoạt động kinh tế.
 
-**Quy mô dân số.** Nỗi lo "dân số quá đông" có từ trước khi Malthus đưa ra lời cảnh báo nổi tiếng cuối thế kỷ 18 rằng số người có nguy cơ vượt lượng lương thực đủ nuôi họ. Các nạn đói trong lịch sử là thảm hoạ khổng lồ mà một số người coi là bằng chứng cho Malthus. Ngay thế kỷ 20, nạn đói ở Liên Xô thời Stalin đã giết hàng triệu người, ở Trung Quốc thời Mao hàng chục triệu người. Nhưng ngay những thảm hoạ quy mô gần như không thể tưởng tượng đó cũng không chứng minh rằng lương thực thế giới không đủ nuôi dân số thế giới. Nạn đói ở từng nước, từng vùng thường do yếu tố tại chỗ lúc đó, như mất mùa cục bộ hay giao thông bị gián đoạn vì chiến tranh, thời tiết hay nguyên nhân khác. Nạn đói ở Liên Xô tập trung ở Ukraine, vùng trước đó và nay lại là nơi sản xuất và xuất khẩu lúa mì lớn.
+**Quy mô dân số.** Nỗi lo "dân số quá đông" có từ trước khi Malthus đưa ra lời cảnh báo nổi tiếng cuối thế kỷ 18 rằng số người có nguy cơ vượt lượng lương thực đủ nuôi họ. Các nạn đói trong lịch sử là thảm hoạ khổng lồ mà một số người coi là bằng chứng cho Malthus. Ngay thế kỷ 20, nạn đói ở Liên Xô thời Stalin đã giết hàng triệu người, ở Trung Quốc thời Mao hàng chục triệu người.
+
+Nhưng ngay những thảm hoạ quy mô gần như không thể tưởng tượng đó cũng không chứng minh rằng lương thực thế giới không đủ nuôi dân số thế giới. Nạn đói ở từng nước, từng vùng thường do yếu tố tại chỗ lúc đó, như mất mùa cục bộ hay giao thông bị gián đoạn vì chiến tranh, thời tiết hay nguyên nhân khác. Nạn đói ở Liên Xô tập trung ở Ukraine, vùng trước đó và nay lại là nơi sản xuất và xuất khẩu lúa mì lớn.
 
 Mất mùa tự nó không gây đói, trừ khi lương thực từ nơi khác không đến kịp và đủ để ngăn chết đói hàng loạt hay bệnh tật mà người suy dinh dưỡng dễ mắc. Nước nghèo thiếu mạng lưới giao thông chở nhanh khối lượng lớn lương thực đặc biệt dễ bị đói. Cách mạng giao thông hiện đại đã giảm tình trạng này ở phần lớn thế giới, nhưng một nước hay vùng bị cô lập vì lý do chính trị vẫn dễ bị đói, như Liên Xô thời Stalin và Trung Quốc thời Mao. Sau những thay đổi triệt để của hệ thống kinh tế Trung Quốc trong các thập niên sau khi Mao chết, đến đầu thế kỷ 21 ước tính khoảng 1/4 người trưởng thành Trung Quốc thừa cân.
 
@@ -1317,19 +1386,29 @@ Trái với thuyết Malthus, hầu như không nước nào có mức sống ca
 
 Dù vậy, thuyết "dân số quá đông" vẫn sống dai và thỉnh thoảng trỗi dậy trên truyền thông, chính trường, giống thuyết "cạn kiệt tài nguyên", và lập luận của hai thuyết giống nhau. Sự thật không thể chối cãi rằng mỗi tài nguyên có giới hạn hữu hạn bị dùng để rút ra kết luận không suy ra được từ đó (non sequitur) rằng ta đang gần chạm giới hạn. Tương tự, sự thật rằng trái đất chỉ nuôi được một số người hữu hạn bị dùng để rút ra kết luận không suy ra được rằng ta đang gần giới hạn đó.
 
-Nghèo đói ở nhiều nơi bị coi là bằng chứng của "dân số quá đông". Nhưng nghèo đói phổ biến ở những vùng thưa dân như châu Phi hạ Sahara hơn nhiều so với Tây Âu hay Nhật, nơi mỗi dặm vuông có số người gấp nhiều lần châu Phi hạ Sahara. Thời Trung cổ, khách đi qua Đông Âu, phần nghèo hơn của châu Âu, thường nhận xét có rất nhiều đất bỏ không. Ngày nay có nước đông dân mà nghèo như Bangladesh, nhưng cũng có nước thưa dân mà nghèo như Guyana, nơi mật độ dân bằng Canada, trong khi Canada có sản lượng đầu người gấp nhiều lần và mức sống thuộc hàng cao nhất thế giới. Mật độ dân cao hay thấp không tự làm một nước giàu hay nghèo. Điều quan trọng hơn là năng suất của con người, phụ thuộc vào nhiều yếu tố, trong đó có thói quen, kỹ năng và kinh nghiệm. Trong chừng mực mật độ dân cư cao (như ở đô thị) giúp phát triển vốn con người, dân trong những xã hội nhỏ, cô lập thường tụt lại sau tiến bộ chung của người khác.
+Nghèo đói ở nhiều nơi bị coi là bằng chứng của "dân số quá đông". Nhưng nghèo đói phổ biến ở những vùng thưa dân như châu Phi hạ Sahara hơn nhiều so với Tây Âu hay Nhật, nơi mỗi dặm vuông có số người gấp nhiều lần châu Phi hạ Sahara. Thời Trung cổ, khách đi qua Đông Âu, phần nghèo hơn của châu Âu, thường nhận xét có rất nhiều đất bỏ không.
+
+Ngày nay có nước đông dân mà nghèo như Bangladesh, nhưng cũng có nước thưa dân mà nghèo như Guyana, nơi mật độ dân bằng Canada, trong khi Canada có sản lượng đầu người gấp nhiều lần và mức sống thuộc hàng cao nhất thế giới.
+
+Mật độ dân cao hay thấp không tự làm một nước giàu hay nghèo. Điều quan trọng hơn là năng suất của con người, phụ thuộc vào nhiều yếu tố, trong đó có thói quen, kỹ năng và kinh nghiệm. Trong chừng mực mật độ dân cư cao (như ở đô thị) giúp phát triển vốn con người, dân trong những xã hội nhỏ, cô lập thường tụt lại sau tiến bộ chung của người khác.
 
 **Di chuyển dân cư.** Các dân tộc có thể sống và phát triển văn hoá ở một vùng hàng thiên niên kỷ, nhưng có lúc họ chuyển đến vùng khác, như kẻ chinh phục, người nhập cư hay nô lệ. Có người di cư một mình hay theo gia đình, có dân tộc di cư ồ ạt; có khi họ sống xen với dân cũ, có khi đuổi dân cũ đi, như kẻ xâm lược từ châu Á nhiều thế kỷ trước gây ra chuỗi dịch chuyển dân cư dây chuyền ở Đông Âu và Balkan, hay người châu Âu về sau đẩy thổ dân Bắc Mỹ.
 
-Những năm đầu cách mạng công nghiệp, công nghệ tiến lên qua công việc thực tế của người làm trong nhà máy, hầm mỏ và cơ sở sản xuất, chứ chưa qua ứng dụng khoa học như về sau, nên người di cư là kênh chính lan truyền công nghệ từ nơi sinh ra tới nước khác. Vì vậy công nghệ Anh lan sang một nước nói tiếng Anh như Mỹ dễ hơn sang những nước gần hơn trên lục địa châu Âu. Chính phủ Anh, nơi cách mạng công nghiệp bắt đầu, tìm cách hạn chế thợ Anh ra nước ngoài để giữ lợi thế công nghệ. Nhưng khi tiến bộ công nghệ ngày càng là chuyện ứng dụng khoa học, tri thức lan được qua giấy tờ mà không cần người di chuyển. Giao thông và liên lạc tiến bộ trong thế kỷ 19 cũng đẩy nhanh việc lan truyền; đến năm 1914, công nghệ Anh đã lan không chỉ sang các nước gần mà khắp lục địa châu Âu.
+Những năm đầu cách mạng công nghiệp, công nghệ tiến lên qua công việc thực tế của người làm trong nhà máy, hầm mỏ và cơ sở sản xuất, chứ chưa qua ứng dụng khoa học như về sau, nên người di cư là kênh chính lan truyền công nghệ từ nơi sinh ra tới nước khác. Vì vậy công nghệ Anh lan sang một nước nói tiếng Anh như Mỹ dễ hơn sang những nước gần hơn trên lục địa châu Âu. Chính phủ Anh, nơi cách mạng công nghiệp bắt đầu, tìm cách hạn chế thợ Anh ra nước ngoài để giữ lợi thế công nghệ.
 
-Ở mọi nơi, dân di chuyển là văn hoá di chuyển theo. Kết quả có thể là văn hoá cũ ở nơi đến bị thay thế, một văn hoá mới được cấy vào giữa văn hoá cũ, hoặc người di cư đồng hoá vào văn hoá nơi đến. Những khả năng này thêm nhiều tổ hợp vào các yếu tố ảnh hưởng tới phát triển kinh tế, xã hội, khiến phát triển ngang nhau giữa các vùng, chủng tộc, quốc gia càng khó hơn so với chỉ có khác biệt địa lý hay văn hoá. Có khi người mới đến tiếp nhận văn hoá xung quanh, bắt đầu từ ngôn ngữ, như phần lớn hàng triệu người nhập cư vào Mỹ thế kỷ 19 và đầu thế kỷ 20. Có khi, như người Tây Âu định cư ở Đông Âu thời Trung cổ, người di cư giữ ngôn ngữ và văn hoá của mình hàng thế kỷ và phần nào đồng hoá dân bản địa vào văn hoá được cấy sang, nhất là khi người di cư giàu hơn, giỏi nghề hơn và học vấn cao hơn.
+Nhưng khi tiến bộ công nghệ ngày càng là chuyện ứng dụng khoa học, tri thức lan được qua giấy tờ mà không cần người di chuyển. Giao thông và liên lạc tiến bộ trong thế kỷ 19 cũng đẩy nhanh việc lan truyền; đến năm 1914, công nghệ Anh đã lan không chỉ sang các nước gần mà khắp lục địa châu Âu.
+
+Ở mọi nơi, dân di chuyển là văn hoá di chuyển theo. Kết quả có thể là văn hoá cũ ở nơi đến bị thay thế, một văn hoá mới được cấy vào giữa văn hoá cũ, hoặc người di cư đồng hoá vào văn hoá nơi đến. Những khả năng này thêm nhiều tổ hợp vào các yếu tố ảnh hưởng tới phát triển kinh tế, xã hội, khiến phát triển ngang nhau giữa các vùng, chủng tộc, quốc gia càng khó hơn so với chỉ có khác biệt địa lý hay văn hoá.
+
+Có khi người mới đến tiếp nhận văn hoá xung quanh, bắt đầu từ ngôn ngữ, như phần lớn hàng triệu người nhập cư vào Mỹ thế kỷ 19 và đầu thế kỷ 20. Có khi, như người Tây Âu định cư ở Đông Âu thời Trung cổ, người di cư giữ ngôn ngữ và văn hoá của mình hàng thế kỷ và phần nào đồng hoá dân bản địa vào văn hoá được cấy sang, nhất là khi người di cư giàu hơn, giỏi nghề hơn và học vấn cao hơn.
 
 Người rất nghèo ở quê có thể phát đạt ở những nơi có lợi thế địa lý hay lợi thế khác mà vốn con người của họ khai thác được, thường hơn cả dân bản địa. Nhiều thế hệ, một nghịch lý tồn tại: người Hoa và người Ấn phát đạt ở hầu khắp thế giới, trừ ở Trung Quốc và Ấn Độ. Đến năm 1994, 57 triệu Hoa kiều vẫn tạo ra lượng của cải bằng 1 tỷ người ở Trung Quốc. Tuy nhiên, các cải cách kinh tế lớn ở Trung Quốc và Ấn Độ từ cuối thế kỷ 20 đưa tăng trưởng của cả hai nước lên cao hơn nhiều, cho thấy dân trong nước, cũng như những nhánh ở hải ngoại, có tiềm năng chỉ cần một môi trường tốt hơn để phát huy.
 
 ### 12. Chủ nghĩa đế quốc (Imperialism)
 
-Chinh phục chuyển giao của cải cũng như văn hoá giữa các quốc gia. Thời đỉnh cao của đế quốc Tây Ban Nha, hơn 200 tấn vàng và hơn 18.000 tấn bạc được chở từ châu Mỹ về Tây Ban Nha. Vua Leopold của Bỉ cũng lấy của cải khổng lồ từ Congo thuộc Bỉ. Trong những trường hợp này và nhiều trường hợp khác, các đế quốc rút một lượng của cải khổng lồ từ dân bị chinh phục, thường bằng lao động cưỡng bức. John Stuart Mill viết rằng kẻ chinh phục thường coi người bị chinh phục như "đất bụi dưới chân". Điều đó không chỉ đúng với người châu Âu chinh phục châu Mỹ, châu Phi, châu Á, mà đúng như vậy với thổ dân chinh phục thổ dân khác ở tất cả những nơi đó, và với những kẻ chinh phục từ châu Á, Trung Đông, Bắc Phi đã xâm lược châu Âu trong nhiều thế kỷ trước khi người châu Âu đi xâm lược nơi khác.
+Chinh phục chuyển giao của cải cũng như văn hoá giữa các quốc gia. Thời đỉnh cao của đế quốc Tây Ban Nha, hơn 200 tấn vàng và hơn 18.000 tấn bạc được chở từ châu Mỹ về Tây Ban Nha. Vua Leopold của Bỉ cũng lấy của cải khổng lồ từ Congo thuộc Bỉ.
+
+Trong những trường hợp này và nhiều trường hợp khác, các đế quốc rút một lượng của cải khổng lồ từ dân bị chinh phục, thường bằng lao động cưỡng bức. John Stuart Mill viết rằng kẻ chinh phục thường coi người bị chinh phục như "đất bụi dưới chân". Điều đó không chỉ đúng với người châu Âu chinh phục châu Mỹ, châu Phi, châu Á, mà đúng như vậy với thổ dân chinh phục thổ dân khác ở tất cả những nơi đó, và với những kẻ chinh phục từ châu Á, Trung Đông, Bắc Phi đã xâm lược châu Âu trong nhiều thế kỷ trước khi người châu Âu đi xâm lược nơi khác.
 
 Gác lại những hàm ý đau lòng về bản chất con người, câu hỏi kinh tế là: chinh phục và nô dịch trong quá khứ giải thích được bao nhiêu phần chênh lệch kinh tế giữa các dân tộc hiện nay?
 
@@ -1364,25 +1443,35 @@ Cố gán trọng số cho từng yếu tố đứng sau khác biệt kinh tế 
 
 Dù vậy, địa lý có thể có tác động lớn trong một chuỗi sự kiện có nhiều yếu tố khác. Những dân tộc bị cô lập địa lý hàng thế kỷ, dù ở núi Balkan hay thung lũng tách giãn ở châu Phi, cũng thường bị phân mảnh về văn hoá. Họ có thể có lòng trung thành rất cục bộ (cái được gọi là "chủ nghĩa bộ lạc" hay "Balkan hoá"), khiến khó hợp với người khác thành những đơn vị chính trị lớn như nhà nước quốc gia. Đến lượt nó, những xã hội nhỏ lẻ này có thể trong nhiều thế kỷ dễ bị những kẻ bắt nô lệ hay đế quốc xâm chiếm.
 
-Văn hoá hình thành ở nơi cô lập hàng thế kỷ cũng không tan nhanh khi giao thông, liên lạc hiện đại phá vỡ sự cô lập. Có người định nghĩa môi trường là điều kiện vật chất, địa lý hay kinh tế xã hội ở một nơi, một thời điểm. Nhưng định nghĩa đó bỏ sót những khuôn mẫu văn hoá thừa hưởng từ quá khứ, có thể khác nhau rất nhiều giữa các nhóm đang sống trong cùng môi trường, cùng cơ hội, và dẫn tới kết quả kinh tế rất khác nhau. Con cái người nhập cư Ý và Do Thái vào Mỹ đầu thế kỷ 20 sống trong điều kiện rất giống nhau, thường học cùng trường khu phố, nhưng xuất thân từ những nền văn hoá đặt mức coi trọng giáo dục rất khác nhau; chúng học hành rất khác nhau và khi trưởng thành có mô hình kinh tế khác nhau.
+Văn hoá hình thành ở nơi cô lập hàng thế kỷ cũng không tan nhanh khi giao thông, liên lạc hiện đại phá vỡ sự cô lập. Có người định nghĩa môi trường là điều kiện vật chất, địa lý hay kinh tế xã hội ở một nơi, một thời điểm. Nhưng định nghĩa đó bỏ sót những khuôn mẫu văn hoá thừa hưởng từ quá khứ, có thể khác nhau rất nhiều giữa các nhóm đang sống trong cùng môi trường, cùng cơ hội, và dẫn tới kết quả kinh tế rất khác nhau.
+
+Con cái người nhập cư Ý và Do Thái vào Mỹ đầu thế kỷ 20 sống trong điều kiện rất giống nhau, thường học cùng trường khu phố, nhưng xuất thân từ những nền văn hoá đặt mức coi trọng giáo dục rất khác nhau; chúng học hành rất khác nhau và khi trưởng thành có mô hình kinh tế khác nhau.
 
 Ngay những yếu tố ít ỏi được phác hoạ trong chương cũng cho thấy nhiều phức tạp khi xem kỹ, tức là số biến số tăng theo cấp số nhân trong mỗi yếu tố, khiến kết quả ngang nhau ngày càng khó.
 
-*Chú thích của Sowell (xxxiv):* Nông nghiệp là bước tiến mở thời đại trong tiến hoá xã hội của loài người, mở ra khả năng có những xã hội lớn và phức tạp hơn xã hội săn bắt hái lượm. Nhưng những nông dân đầu tiên không hề thấy ngay rằng phải bồi bổ lại chất dinh dưỡng mà cây trồng lấy đi khỏi đất. Những nông dân tình cờ sống ở nơi sông ngập đất hằng năm, tự động bồi lại chất dinh dưỡng bằng phù sa trôi xuống từ nơi khác, đã phát đạt vì những lý do họ thậm chí không cần hiểu. Với phương pháp canh tác thời đó, ở phần lớn trái đất không thể có dân cư tương đối đông định cư lâu dài; chỉ ở vài thung lũng sông có lũ bồi đất hằng năm, đất mới được canh tác liên tục qua nhiều năm. Điều kiện hiếm có này có ở lưu vực sông Tigris và Euphrates, nay thuộc Iraq. Nó tạo ra bất bình đẳng kinh tế lớn giữa những người may mắn sống ở đó vào thời đó với phần lớn người ở phần lớn nơi khác, cho đến khi nông dân nơi khác nhận ra cần bón phân cho đất. Từ đó nông nghiệp định cư mới khả thi ở nơi khác, và những xã hội định cư, kể cả đô thị, mới có thể xuất hiện khắp thế giới.
+*Chú thích của Sowell (xxxiv):* Nông nghiệp là bước tiến mở thời đại trong tiến hoá xã hội của loài người, mở ra khả năng có những xã hội lớn và phức tạp hơn xã hội săn bắt hái lượm. Nhưng những nông dân đầu tiên không hề thấy ngay rằng phải bồi bổ lại chất dinh dưỡng mà cây trồng lấy đi khỏi đất. Những nông dân tình cờ sống ở nơi sông ngập đất hằng năm, tự động bồi lại chất dinh dưỡng bằng phù sa trôi xuống từ nơi khác, đã phát đạt vì những lý do họ thậm chí không cần hiểu.
+
+Với phương pháp canh tác thời đó, ở phần lớn trái đất không thể có dân cư tương đối đông định cư lâu dài; chỉ ở vài thung lũng sông có lũ bồi đất hằng năm, đất mới được canh tác liên tục qua nhiều năm. Điều kiện hiếm có này có ở lưu vực sông Tigris và Euphrates, nay thuộc Iraq. Nó tạo ra bất bình đẳng kinh tế lớn giữa những người may mắn sống ở đó vào thời đó với phần lớn người ở phần lớn nơi khác, cho đến khi nông dân nơi khác nhận ra cần bón phân cho đất. Từ đó nông nghiệp định cư mới khả thi ở nơi khác, và những xã hội định cư, kể cả đô thị, mới có thể xuất hiện khắp thế giới.
 
 Những yếu tố chưa được bàn trong chương, như khác biệt nhân khẩu học giữa các vùng, chủng tộc, quốc gia và nền văn minh, chỉ thêm phức tạp và bất bình đẳng. Khi tuổi trung vị giữa các nước, hay giữa các nhóm chủng tộc, sắc tộc trong một nước, có thể chênh 10 hoặc 20 năm, khả năng các dân tộc có kết quả kinh tế gần bằng nhau, dù chênh nhau nhiều năm kinh nghiệm làm việc ở tuổi trưởng thành, gần như bằng không.
 
-**Ngẫu nhiên lịch sử.** Bên cạnh những khuôn mẫu địa lý, văn hoá nhận ra được, còn có những ngẫu nhiên đóng vai trò lớn. Quyết định khôn ngoan hay sai lầm của người tình cờ làm lãnh đạo chính trị, quân sự ở những thời điểm then chốt có thể quyết định số phận quốc gia, đế quốc và những thế hệ chưa ra đời. Quyết định của lãnh đạo Trung Quốc, khi đó là nước tiên tiến nhất thế giới, đóng cửa với phần còn lại của thế giới đã làm Trung Quốc mất vị trí hàng đầu trong những thế kỷ sau. Vai trò của may rủi khi những đội quân ngang sức giao chiến trên chiến trường hỗn loạn có thể khiến thắng thua là "một chuyện suýt soát", như Công tước Wellington nói về trận Waterloo ông thắng Napoleon, trận quyết định số phận châu Âu nhiều thế hệ. Nếu trận Tours năm 732 hay cuộc vây Vienna năm 1529 có kết cục ngược lại, thế giới hôm nay có thể rất khác về văn hoá, với những mô hình kinh tế rất khác.
+**Ngẫu nhiên lịch sử.** Bên cạnh những khuôn mẫu địa lý, văn hoá nhận ra được, còn có những ngẫu nhiên đóng vai trò lớn. Quyết định khôn ngoan hay sai lầm của người tình cờ làm lãnh đạo chính trị, quân sự ở những thời điểm then chốt có thể quyết định số phận quốc gia, đế quốc và những thế hệ chưa ra đời. Quyết định của lãnh đạo Trung Quốc, khi đó là nước tiên tiến nhất thế giới, đóng cửa với phần còn lại của thế giới đã làm Trung Quốc mất vị trí hàng đầu trong những thế kỷ sau.
+
+Vai trò của may rủi khi những đội quân ngang sức giao chiến trên chiến trường hỗn loạn có thể khiến thắng thua là "một chuyện suýt soát", như Công tước Wellington nói về trận Waterloo ông thắng Napoleon, trận quyết định số phận châu Âu nhiều thế hệ. Nếu trận Tours năm 732 hay cuộc vây Vienna năm 1529 có kết cục ngược lại, thế giới hôm nay có thể rất khác về văn hoá, với những mô hình kinh tế rất khác.
 
 Một ngẫu nhiên khác là thổ dân châu Mỹ rất dễ tổn thương về sinh học trước bệnh do người châu Âu mang tới; bệnh thường giết thổ dân nhiều hơn vũ khí châu Âu. Vì người châu Âu ít tổn thương hơn nhiều trước bệnh của châu Mỹ, kết cục nhiều cuộc đấu tranh giữa hai bên gần như được định trước bởi những vi sinh vật mà cả hai bên lúc đó không biết là có tồn tại.
 
-*Chú thích của Sowell (xxxv):* Vũ trụ văn hoá lớn hơn rất nhiều của người châu Âu đi kèm một "vũ trụ bệnh tật" cũng lớn hơn rất nhiều, vì bệnh từ châu Á có thể đi hàng nghìn dặm tới châu Âu bằng đường bộ hay đường biển, giống như hàng hoá. Dịch bệnh từ châu Á, Trung Đông hay Bắc Phi có thể giết nhiều người ở châu Âu, nhưng người sống sót tích được sức đề kháng sinh học với bệnh của những vùng rộng lớn trên trái đất. Người châu Âu sang châu Mỹ mang theo nhiều yếu tố văn hoá có gốc ngoài châu Âu, và cũng mang theo bệnh từ những vùng rộng lớn trong và ngoài châu Âu. Trong khi đó, thổ dân châu Mỹ có môi trường bệnh nhỏ hơn nhiều để hình thành sức đề kháng, nên bị tàn sát bởi nhiều bệnh người châu Âu truyền sang, kể cả khi bản thân người châu Âu không bị bệnh đó.
+*Chú thích của Sowell (xxxv):* Vũ trụ văn hoá lớn hơn rất nhiều của người châu Âu đi kèm một "vũ trụ bệnh tật" cũng lớn hơn rất nhiều, vì bệnh từ châu Á có thể đi hàng nghìn dặm tới châu Âu bằng đường bộ hay đường biển, giống như hàng hoá. Dịch bệnh từ châu Á, Trung Đông hay Bắc Phi có thể giết nhiều người ở châu Âu, nhưng người sống sót tích được sức đề kháng sinh học với bệnh của những vùng rộng lớn trên trái đất.
+
+Người châu Âu sang châu Mỹ mang theo nhiều yếu tố văn hoá có gốc ngoài châu Âu, và cũng mang theo bệnh từ những vùng rộng lớn trong và ngoài châu Âu. Trong khi đó, thổ dân châu Mỹ có môi trường bệnh nhỏ hơn nhiều để hình thành sức đề kháng, nên bị tàn sát bởi nhiều bệnh người châu Âu truyền sang, kể cả khi bản thân người châu Âu không bị bệnh đó.
 
 Người ta nói về một linh mục Tây Ban Nha hiền hậu đến với thổ dân như một người bạn, một nhà truyền giáo, rằng có lẽ ông gây ra nhiều cái chết cho họ hơn cả kẻ chinh phục (conquistador) tàn bạo nhất.
 
 Xét cả những khuôn mẫu địa lý, văn hoá và khuôn mẫu khác nhận ra được, vốn tạo cơ hội rộng hay hẹp cho các dân tộc ở những nơi và thời khác nhau, lẫn những ngẫu nhiên không đoán trước được có thể phá vỡ nếp sống hay đổi hướng lịch sử, Sowell kết luận rằng không thể mặc định kết quả kinh tế ngang nhau, cũng không thể mặc định một mô hình bất bình đẳng cụ thể sẽ kéo dài mãi. Không ai biết những thế kỷ tới sẽ ra sao, nhưng nhiều điều có thể phụ thuộc vào việc các dân tộc và lãnh đạo của họ hiểu rõ đến đâu những yếu tố nào thúc đẩy và những yếu tố nào cản trở tăng trưởng kinh tế.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Hai tỉnh A và B có diện tích, dân số và trình độ lao động như nhau. Tỉnh A có cảng nước sâu, tàu container lớn cập được; tỉnh B nằm sâu trong nội địa, cách cảng gần nhất 400 km đường bộ đèo dốc. Giả sử chở một container hàng từ tỉnh A sang châu Âu tốn 2.000 USD, còn từ tỉnh B tốn thêm 800 USD tiền xe tải ra cảng, tức đắt hơn 40%. Với một container gỗ nội thất trị giá 20.000 USD, khoản thêm 800 USD là 4% giá trị hàng, đủ xoá lợi nhuận của nhiều doanh nghiệp. Với một container linh kiện điện tử trị giá 500.000 USD, cùng 800 USD chỉ là 0,16% giá trị hàng. Kết quả đúng như Sowell mô tả về sông châu Phi: tỉnh B chỉ cạnh tranh được bằng hàng giá trị cao, kích thước nhỏ, còn tỉnh A thu hút được cả ngành hàng cồng kềnh giá trị thấp, tức nhiều việc làm phổ thông hơn. Theo thời gian, tỉnh A có nhiều nhà máy, nhiều đô thị và nhiều người học được kỹ năng công nghiệp hơn, nên khoảng cách vốn con người giữa hai tỉnh tăng lên, kể cả khi về sau tỉnh B có đường cao tốc.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Hai tỉnh A và B có diện tích, dân số và trình độ lao động như nhau. Tỉnh A có cảng nước sâu, tàu container lớn cập được; tỉnh B nằm sâu trong nội địa, cách cảng gần nhất 400 km đường bộ đèo dốc. Giả sử chở một container hàng từ tỉnh A sang châu Âu tốn 2.000 USD, còn từ tỉnh B tốn thêm 800 USD tiền xe tải ra cảng, tức đắt hơn 40%. Với một container gỗ nội thất trị giá 20.000 USD, khoản thêm 800 USD là 4% giá trị hàng, đủ xoá lợi nhuận của nhiều doanh nghiệp. Với một container linh kiện điện tử trị giá 500.000 USD, cùng 800 USD chỉ là 0,16% giá trị hàng.
+
+Kết quả đúng như Sowell mô tả về sông châu Phi: tỉnh B chỉ cạnh tranh được bằng hàng giá trị cao, kích thước nhỏ, còn tỉnh A thu hút được cả ngành hàng cồng kềnh giá trị thấp, tức nhiều việc làm phổ thông hơn. Theo thời gian, tỉnh A có nhiều nhà máy, nhiều đô thị và nhiều người học được kỹ năng công nghiệp hơn, nên khoảng cách vốn con người giữa hai tỉnh tăng lên, kể cả khi về sau tỉnh B có đường cao tốc.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -1507,7 +1596,9 @@ Bất bình đẳng kinh tế giữa các dân tộc là trạng thái bình th�
 
 ### Sức mạnh của chương là thay câu hỏi "ai có lỗi" bằng câu hỏi "vì sao lại có thể ngang bằng"
 
-Phần lớn tranh luận về nghèo đói bắt đầu từ giả định ngầm rằng bình đẳng là trạng thái tự nhiên, nên chênh lệch phải có thủ phạm. Sowell đảo ngược gánh nặng chứng minh: với số yếu tố và số tổ hợp lớn như vậy, chính sự ngang bằng mới cần giải thích. Cách đặt vấn đề này có sức thuyết phục vì nó dựa trên rất nhiều ví dụ cụ thể, kiểm chứng được (độ sâu sông, chiều dài bờ biển, số bằng sáng chế, số sách dịch), chứ không dựa trên một mô hình duy nhất. Ví dụ sông Zaire đổ ra biển nhiều nước hơn sông Rhine nhưng vì thác ghềnh nên kém xa về giá trị vận tải đặc biệt đáng nhớ, vì nó phá trực giác rằng "nhiều tài nguyên thì giàu". Chương cũng nhất quán với toàn bộ sách: lợi ích thật nằm ở năng suất và vốn con người, không phải ở việc phân chia lại của cải có sẵn.
+Phần lớn tranh luận về nghèo đói bắt đầu từ giả định ngầm rằng bình đẳng là trạng thái tự nhiên, nên chênh lệch phải có thủ phạm. Sowell đảo ngược gánh nặng chứng minh: với số yếu tố và số tổ hợp lớn như vậy, chính sự ngang bằng mới cần giải thích. Cách đặt vấn đề này có sức thuyết phục vì nó dựa trên rất nhiều ví dụ cụ thể, kiểm chứng được (độ sâu sông, chiều dài bờ biển, số bằng sáng chế, số sách dịch), chứ không dựa trên một mô hình duy nhất.
+
+Ví dụ sông Zaire đổ ra biển nhiều nước hơn sông Rhine nhưng vì thác ghềnh nên kém xa về giá trị vận tải đặc biệt đáng nhớ, vì nó phá trực giác rằng "nhiều tài nguyên thì giàu". Chương cũng nhất quán với toàn bộ sách: lợi ích thật nằm ở năng suất và vốn con người, không phải ở việc phân chia lại của cải có sẵn.
 
 ### Phần địa lý và gia súc trùng nhiều với Jared Diamond, nhưng Sowell đưa văn hoá vào sâu hơn
 
@@ -1515,23 +1606,226 @@ Lập luận về gia súc kéo thồ ở châu Mỹ, về Úc, và chú thích 
 
 ### Lập luận rằng khí hậu nhiệt đới khiến người dân ít cần kỷ luật thời gian và thói quen tiết kiệm là chỗ gây tranh cãi nhất của chương
 
-Ý rằng đất nhiệt đới trồng trọt quanh năm khiến người dân ít cần kỷ luật thời gian và tiết kiệm có lịch sử lâu đời và bị nhiều học giả phê phán là khó kiểm chứng và dễ trượt sang định kiến về dân tộc. Sowell trình bày đây là thói quen do môi trường tạo ra, tức một phần của vốn con người, chứ không nói đến khả năng bẩm sinh; và chú thích của ông về khái niệm "đổ lỗi" cho thấy ông không muốn quy trách nhiệm cho ai. Nhưng chương không đưa bằng chứng định lượng cho cơ chế này, chỉ có câu nói của người Thái và so sánh với miền nam Trung Quốc. Các giải thích khác cho nghèo đói ở nhiệt đới, như gánh nặng bệnh tật (sốt rét) và đất nghèo dinh dưỡng mà chính Sowell nêu ở đầu chương, có bằng chứng thực nghiệm vững hơn.
+Ý rằng đất nhiệt đới trồng trọt quanh năm khiến người dân ít cần kỷ luật thời gian và tiết kiệm có lịch sử lâu đời và bị nhiều học giả phê phán là khó kiểm chứng và dễ trượt sang định kiến về dân tộc. Sowell trình bày đây là thói quen do môi trường tạo ra, tức một phần của vốn con người, chứ không nói đến khả năng bẩm sinh; và chú thích của ông về khái niệm "đổ lỗi" cho thấy ông không muốn quy trách nhiệm cho ai.
+
+Nhưng chương không đưa bằng chứng định lượng cho cơ chế này, chỉ có câu nói của người Thái và so sánh với miền nam Trung Quốc. Các giải thích khác cho nghèo đói ở nhiệt đới, như gánh nặng bệnh tật (sốt rét) và đất nghèo dinh dưỡng mà chính Sowell nêu ở đầu chương, có bằng chứng thực nghiệm vững hơn.
 
 ### Kết luận về chủ nghĩa đế quốc đúng ở điểm chính nhưng bỏ qua tác động lên thể chế
 
-Sowell đúng rằng nhận nhiều của cải cưỡng bức không làm kẻ chinh phục giàu lâu dài (Tây Ban Nha), và rằng chênh lệch lớn đã có trước khi chinh phục. Nhưng câu hỏi khác là tác động của đế quốc lên người bị chinh phục. Ở đây, nhiều nghiên cứu kinh tế học từ đầu thập niên 2000 lập luận ngược lại: Daron Acemoglu, Simon Johnson và James Robinson cho rằng những thể chế khai thác do thực dân dựng lên (lao động cưỡng bức, tập trung đất đai) để lại hậu quả kéo dài nhiều thế kỷ; Nathan Nunn thấy những vùng châu Phi bị bắt nhiều nô lệ hơn thì ngày nay nghèo hơn và ít tin tưởng xã hội hơn. Sowell chỉ nói "không thể nói dứt khoát" là lãi hay lỗ cho người bị chinh phục, rồi kết luận rằng có rất ít bằng chứng thuyết phục cho thấy chênh lệch hiện nay giải thích được bằng lịch sử bóc lột đế quốc; theo người tổng hợp, đây là bước nhảy mà các nghiên cứu này thách thức. Ngoài ra, phép so sánh thu nhập Tây Ban Nha với người Mỹ da đen là so một nước với một nhóm sống trong nền kinh tế giàu nhất thế giới, nên không đo đúng tác động của đế quốc.
+Sowell đúng rằng nhận nhiều của cải cưỡng bức không làm kẻ chinh phục giàu lâu dài (Tây Ban Nha), và rằng chênh lệch lớn đã có trước khi chinh phục. Nhưng câu hỏi khác là tác động của đế quốc lên người bị chinh phục.
+
+Ở đây, nhiều nghiên cứu kinh tế học từ đầu thập niên 2000 lập luận ngược lại: Daron Acemoglu, Simon Johnson và James Robinson cho rằng những thể chế khai thác do thực dân dựng lên (lao động cưỡng bức, tập trung đất đai) để lại hậu quả kéo dài nhiều thế kỷ; Nathan Nunn thấy những vùng châu Phi bị bắt nhiều nô lệ hơn thì ngày nay nghèo hơn và ít tin tưởng xã hội hơn.
+
+Sowell chỉ nói "không thể nói dứt khoát" là lãi hay lỗ cho người bị chinh phục, rồi kết luận rằng có rất ít bằng chứng thuyết phục cho thấy chênh lệch hiện nay giải thích được bằng lịch sử bóc lột đế quốc; theo người tổng hợp, đây là bước nhảy mà các nghiên cứu này thách thức. Ngoài ra, phép so sánh thu nhập Tây Ban Nha với người Mỹ da đen là so một nước với một nhóm sống trong nền kinh tế giàu nhất thế giới, nên không đo đúng tác động của đế quốc.
 
 ### Từ 2014, một số dữ kiện đã thay đổi nhưng phần lớn củng cố lập luận
 
-Nói định tính: Trung Quốc và Ấn Độ tiếp tục tăng trưởng nhanh, khoảng cách GDP bình quân đầu người với Nhật thu hẹp đáng kể, đúng như nhận xét của Sowell rằng dân trong nước chỉ cần môi trường tốt hơn. Một số nước châu Phi và châu Á không giáp biển hay bất lợi địa lý vẫn tăng trưởng nhanh nhờ cải cách và hạ tầng, cho thấy địa lý không phải số phận, đúng tinh thần "không có quyết định luận địa lý". Các con số dịch sách của thế giới Ả Rập đã bị một số nhà nghiên cứu cho là đánh giá thấp, nên ví dụ "một nghìn năm" nên được hiểu như minh hoạ cho xu hướng chứ không phải số đo chính xác. Internet và dịch máy đã làm chi phí tiếp cận vũ trụ văn hoá giảm mạnh, một thay đổi theo đúng logic của Sowell nhưng chưa rõ đã thu hẹp chênh lệch tới đâu.
+Nói định tính: Trung Quốc và Ấn Độ tiếp tục tăng trưởng nhanh, khoảng cách GDP bình quân đầu người với Nhật thu hẹp đáng kể, đúng như nhận xét của Sowell rằng dân trong nước chỉ cần môi trường tốt hơn. Một số nước châu Phi và châu Á không giáp biển hay bất lợi địa lý vẫn tăng trưởng nhanh nhờ cải cách và hạ tầng, cho thấy địa lý không phải số phận, đúng tinh thần "không có quyết định luận địa lý".
+
+Các con số dịch sách của thế giới Ả Rập đã bị một số nhà nghiên cứu cho là đánh giá thấp, nên ví dụ "một nghìn năm" nên được hiểu như minh hoạ cho xu hướng chứ không phải số đo chính xác. Internet và dịch máy đã làm chi phí tiếp cận vũ trụ văn hoá giảm mạnh, một thay đổi theo đúng logic của Sowell nhưng chưa rõ đã thu hẹp chênh lệch tới đâu.
 
 ### Quan điểm trái chiều: thể chế, không phải địa lý hay văn hoá
 
-Trường phái thể chế, tiêu biểu là cuốn *Why Nations Fail* (2012) của Acemoglu và Robinson, lập luận rằng chênh lệch chủ yếu do thể chế chính trị và kinh tế: thể chế "dung nạp" (bảo vệ quyền tài sản, mở cơ hội cho số đông) so với thể chế "khai thác" (giới tinh hoa chiếm đoạt). Ví dụ của họ là các cặp láng giềng cùng địa lý, cùng văn hoá nhưng giàu nghèo khác hẳn, như Bắc và Hàn Quốc. Sowell không phủ nhận vai trò thể chế (ông nhắc thượng tôn pháp luật, tham nhũng, và việc Trung Quốc, Ấn Độ tăng trưởng sau cải cách), nhưng ông xếp nó dưới mục "văn hoá" và không đặt nó làm trục. Người đọc nên coi hai cách nhìn bổ sung cho nhau: địa lý và văn hoá giải thích vì sao khởi điểm khác nhau, thể chế giải thích vì sao có nước bứt lên được hoặc tụt lại từ cùng một khởi điểm.
+Trường phái thể chế, tiêu biểu là cuốn *Why Nations Fail* (2012) của Acemoglu và Robinson, lập luận rằng chênh lệch chủ yếu do thể chế chính trị và kinh tế: thể chế "dung nạp" (bảo vệ quyền tài sản, mở cơ hội cho số đông) so với thể chế "khai thác" (giới tinh hoa chiếm đoạt). Ví dụ của họ là các cặp láng giềng cùng địa lý, cùng văn hoá nhưng giàu nghèo khác hẳn, như Bắc và Hàn Quốc.
+
+Sowell không phủ nhận vai trò thể chế (ông nhắc thượng tôn pháp luật, tham nhũng, và việc Trung Quốc, Ấn Độ tăng trưởng sau cải cách), nhưng ông xếp nó dưới mục "văn hoá" và không đặt nó làm trục. Người đọc nên coi hai cách nhìn bổ sung cho nhau: địa lý và văn hoá giải thích vì sao khởi điểm khác nhau, thể chế giải thích vì sao có nước bứt lên được hoặc tụt lại từ cùng một khởi điểm.
 
 ### Vận dụng: khi đánh giá triển vọng của một vùng, một doanh nghiệp hay bản thân, hãy hỏi về chi phí tiếp xúc và vốn con người, không chỉ về tài nguyên
 
 - **Trong doanh nghiệp.** Khi chọn địa điểm nhà máy, chi phí logistics quyết định loại hàng nào đáng sản xuất ở đâu, đúng như ví dụ sông châu Phi: hàng cồng kềnh giá trị thấp cần gần cảng, hàng nhỏ giá trị cao chịu được vị trí xa. Đồng thời, lợi thế lâu dài nằm ở vốn con người của đội ngũ (kỹ năng, thói quen kỷ luật, khả năng học hỏi), thứ không bị lấy đi khi máy móc hỏng hay bị sao chép. Doanh nghiệp tự cô lập, không học đối thủ và đối tác nước ngoài, dễ đi vào con đường của Trung Quốc thế kỷ 15.
 - **Trong đầu tư.** Tài nguyên dồi dào không đảm bảo lợi nhuận hay tăng trưởng: Sowell nhắc rằng nước tham nhũng nhất thường nghèo dù giàu tài nguyên, và Tây Ban Nha tiêu hết vàng bạc châu Mỹ. Khi đánh giá một thị trường mới nổi, hãy xem chất lượng thượng tôn pháp luật, mức độ mở cửa với tri thức nước ngoài, cơ cấu tuổi dân số và trình độ lao động, hơn là chỉ nhìn trữ lượng tài nguyên.
 - **Trong nghề nghiệp.** Vốn con người gồm cả thói quen, và nó được tích luỹ nhanh nhất khi ta tiếp xúc với "vũ trụ văn hoá" rộng: đọc tài liệu gốc bằng ngoại ngữ, làm việc trong môi trường đô thị, học từ người làm khác mình. Ví dụ người Scotland học tiếng Anh theo lời khuyên của Hume, hay người Nhật học tiếng Anh để tiếp cận khoa học phương Tây, áp dụng thẳng vào lựa chọn của từng cá nhân.
-- **Khi đọc tin chính sách.** Ở Việt Nam, khoảng cách phát triển giữa các vùng (đồng bằng, ven biển có cảng so với miền núi phía Bắc, Tây Nguyên) có thể được nhìn qua lăng kính của chương: chi phí vận tải, mức cô lập, đô thị hoá và vốn con người. Khi đọc về các dự án cảng biển, cao tốc, hay chính sách giáo dục cho vùng khó khăn, câu hỏi đáng đặt ra là chính sách đó giảm được chi phí tiếp xúc và nâng được vốn con người tới đâu, chứ không chỉ chuyển bao nhiêu tiền hay vật chất về địa phương; bài học Kế hoạch Marshall so với viện trợ cho Thế giới thứ ba cho thấy vốn vật chất không thay được kỹ năng. Câu chuyện mở cửa, hội nhập và tiếp thu công nghệ nước ngoài của nhiều nền kinh tế châu Á, trong đó có Việt Nam, cũng là một minh hoạ cho lập luận về cô lập và tiếp thu văn hoá của Sowell.
+- **Khi đọc tin chính sách.** Ở Việt Nam, khoảng cách phát triển giữa các vùng (đồng bằng, ven biển có cảng so với miền núi phía Bắc, Tây Nguyên) có thể được nhìn qua lăng kính của chương: chi phí vận tải, mức cô lập, đô thị hoá và vốn con người.
+
+  Khi đọc về các dự án cảng biển, cao tốc, hay chính sách giáo dục cho vùng khó khăn, câu hỏi đáng đặt ra là chính sách đó giảm được chi phí tiếp xúc và nâng được vốn con người tới đâu, chứ không chỉ chuyển bao nhiêu tiền hay vật chất về địa phương; bài học Kế hoạch Marshall so với viện trợ cho Thế giới thứ ba cho thấy vốn vật chất không thay được kỹ năng. Câu chuyện mở cửa, hội nhập và tiếp thu công nghệ nước ngoài của nhiều nền kinh tế châu Á, trong đó có Việt Nam, cũng là một minh hoạ cho lập luận về cô lập và tiếp thu văn hoá của Sowell.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 23 trên một trang: sáu nhánh lớn đi theo các mục 1–13 của phần Nội dung chi tiết (quy mô chênh lệch và các yếu tố địa lý cơ bản, đường thủy, núi cùng gia súc kéo thồ và vị trí, văn hoá và vốn con người, dân số và chủ nghĩa đế quốc, hàm ý), mỗi nhánh ghi luận điểm, cơ chế, ví dụ lịch sử và con số then chốt Sowell dùng; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 23: bình đẳng kinh tế giữa các dân tộc chưa bao giờ là trạng thái tự nhiên, vốn con người quyết định nhất về lâu dài`"]
+  n1["`Mục 1–2 — Chênh lệch lớn, kéo dài và các yếu tố địa lý cơ bản`"]
+  n0 --- n1
+  n2["`Đầu thế kỷ 19, bốn nước Balkan có thu nhập đầu người chỉ bằng 1/4 Tây Âu công nghiệp`"]
+  n1 --- n2
+  n3["`Hai thế kỷ sau, Albania, Moldova, Ukraine, Kosovo vẫn chưa bằng 1/4 Hà Lan, Thuỵ Sĩ, Đan Mạch`"]
+  n1 --- n3
+  n4["`Trung Quốc chưa bằng 1/4 Nhật, Ấn Độ hơn 10% Nhật, châu Phi hạ Sahara chưa bằng 10% khu vực đồng euro`"]
+  n1 --- n4
+  n5["`Câu hỏi gốc: đã bao giờ có khả năng thực tế để mọi nước có triển vọng phát triển như nhau chưa?`"]
+  n1 --- n5
+  n6["`Đất Mollisol màu mỡ tập trung ở ôn đới, đất châu Phi hạ Sahara mỏng, khô, năng suất chỉ bằng phần nhỏ`"]
+  n1 --- n6
+  n7["`Tương tác và thời điểm của các yếu tố mới quyết định, số tổ hợp tăng theo cấp số nhân`"]
+  n1 --- n7
+  n8["`Dầu Trung Đông có hàng nghìn năm nhưng chỉ thành tài nguyên quý khi các nước công nghiệp cần nó`"]
+  n1 --- n8
+  n9["`Mục 3 — Đường thủy quyết định chi phí vận tải, đô thị và tiếp xúc văn hoá`"]
+  n0 --- n9
+  n10["`Năm 1830: chở 300 dặm đường bộ tốn hơn 30 USD, 3.000 dặm qua Đại Tây Dương chỉ 10 USD`"]
+  n9 --- n10
+  n11["`Sông Zaire bắt nguồn ở 4.700 feet, phải tụt gần một dặm qua thác ghềnh mới ra biển`"]
+  n9 --- n11
+  n12["`Chiều dài hay lưu lượng nước không nói gì về giá trị vận tải của một con sông`"]
+  n9 --- n12
+  n13["`Thác ghềnh chỉ cho chở hàng giá trị cao, kích thước nhỏ, sông đồng bằng chở được gỗ, lúa mì, than`"]
+  n9 --- n13
+  n14["`Châu Phi rộng gấp đôi châu Âu nhưng bờ biển ngắn hơn, ít cảng kín gió, nước ven bờ nông`"]
+  n9 --- n14
+  n15["`Rhine ra Biển Bắc nối với Đại Tây Dương, Danube đổ vào Biển Đen nội địa`"]
+  n9 --- n15
+  n16["`Sông Niger mùa khô chỉ chở sà lan 12 tấn, tàu 10.000 tấn đi hàng trăm dặm lên Dương Tử`"]
+  n9 --- n16
+  n17["`Nhật sông dốc, sức mua đầu người năm 1886 bằng 1/40 Anh, năm 1898 bằng 1/6`"]
+  n9 --- n17
+  n18["`Đường thủy mở vũ trụ văn hoá rộng, lợi ích này có thể bằng hoặc hơn lợi ích trực tiếp của thương mại`"]
+  n9 --- n18
+  n19["`Mục 4–6 — Núi, gia súc kéo thồ và vị trí quyết định mức cô lập`"]
+  n0 --- n19
+  n20["`Braudel: đời sống miền núi luôn tụt lại sau đồng bằng, như Appalachian, Rif, Pindus`"]
+  n19 --- n20
+  n21["`Người Scotland vùng thấp vẫn thành công hơn vùng cao sau khi cùng di cư sang Úc, Mỹ`"]
+  n19 --- n21
+  n22["`Dân núi nghèo cho con đi làm sớm, phần lớn mù chữ tới thế kỷ 19 và đầu thế kỷ 20`"]
+  n19 --- n22
+  n23["`Châu Mỹ không có ngựa, bò kéo thồ nên vũ trụ văn hoá nhỏ, vận tải thủy chỉ dùng xuồng nhỏ`"]
+  n19 --- n23
+  n24["`Người châu Âu đến với chữ La Mã, giấy Trung Quốc, số Ấn Độ, thuốc súng châu Á, còn người Iroquois không biết Inca tồn tại`"]
+  n19 --- n24
+  n25["`Úc không có gia súc, quặng titan chỉ thành tài nguyên khi người Anh mang khoa học tới`"]
+  n19 --- n25
+  n26["`Sông Nga chảy bắc-nam trong khi giao thông đi đông-tây, Volga quan trọng nhất nhờ gần dân cư`"]
+  n19 --- n26
+  n27["`Nông nghiệp từ Trung Đông đến Hy Lạp trước, đô thị Hy Lạp sinh ra Socrates, Plato, Aristotle`"]
+  n19 --- n27
+  n28["`#quot;Đúng nơi#quot; đổi theo thời đại: Bắc Âu vượt Nam Âu, Nhật vượt Trung Quốc`"]
+  n19 --- n28
+  n29["`Mục 7–10 — Văn hoá và vốn con người`"]
+  n0 --- n29
+  n30["`Mục 7 — Văn hoá quyết định việc khai thác cơ hội tự nhiên`"]
+  n29 --- n30
+  n31["`#quot;Sống hài hoà với tự nhiên#quot; cũng có thể gọi là trì trệ trong nghèo khó giữa của cải tiềm năng`"]
+  n30 --- n31
+  n32["`Nước tham nhũng nhất hầu như luôn thuộc nhóm nghèo nhất, kể cả khi giàu tài nguyên`"]
+  n30 --- n32
+  n33["`Miền Nam Mỹ năm 1851 chỉ nhận 8% bằng sáng chế dù có khoảng 1/3 dân da trắng`"]
+  n30 --- n33
+  n34["`Thời Nội chiến, miền Bắc làm hàng dệt gấp 14, sắt 15, tàu buôn 25, súng 32 lần miền Nam`"]
+  n30 --- n34
+  n35["`Mục 8 — Vốn con người quyết định thịnh vượng lâu dài`"]
+  n29 --- n35
+  n36["`Mill: chiến tranh không phá được vốn con người đã tạo ra vốn vật chất`"]
+  n35 --- n36
+  n37["`Tây Âu hồi phục nhờ vốn con người sẵn có, viện trợ cho Thế giới thứ ba không tạo tăng trưởng tương tự`"]
+  n35 --- n37
+  n38["`Tịch thu, quốc hữu hoá vốn vật chất không lấy được vốn con người tạo ra nó`"]
+  n35 --- n38
+  n39["`Ôn đới buộc thói quen tiết kiệm và kỷ luật thời gian để sống qua mùa đông`"]
+  n35 --- n39
+  n40["`Người miền nam Trung Quốc quen tằn tiện vì đói kém, đến Thái Lan, Malaysia, Mỹ tay trắng vẫn phát đạt`"]
+  n35 --- n40
+  n41["`Mục 9 — Cô lập văn hoá`"]
+  n29 --- n41
+  n42["`Anh và Nhật, hai quốc đảo từng tụt hậu, vượt lên nhờ sẵn lòng tiếp thu văn hoá khác`"]
+  n41 --- n42
+  n43["`Thế giới Ả Rập dịch dưới 1 cuốn trên 1 triệu dân trong năm năm, Hungary 519, Tây Ban Nha 920`"]
+  n41 --- n43
+  n44["`Trung Quốc thế kỷ 15, Nhật thế kỷ 17 tự đóng cửa rồi bị vượt xa`"]
+  n41 --- n44
+  n45["`Anh đón người Huguenot lập ngành đồng hồ London, người Do Thái bị trục xuất năm 1492 giúp Amsterdam`"]
+  n41 --- n45
+  n46["`Mục 10 — Phát triển văn hoá`"]
+  n29 --- n46
+  n47["`Thế kỷ 19, người Czech, Estonia, Latvia học cao bằng tiếng Đức vì Tây Âu có chữ viết sớm hơn`"]
+  n46 --- n47
+  n48["`Thiểu số giàu vốn con người bị oán giận: người Đức ở Praha, người Hoa ở Đông Nam Á`"]
+  n46 --- n48
+  n49["`Lãnh đạo nhóm tụt hậu đổ lỗi, như lên án #quot;sự chuyên chế của kỹ năng#quot; ở Nigeria`"]
+  n46 --- n49
+  n50["`Hume khuyên người Scotland học tiếng Anh, Nhật sau năm 1853 nhập ồ ạt công nghệ phương Tây`"]
+  n46 --- n50
+  n51["`Man tộc huỷ diệt La Mã kéo lùi châu Âu: lịch sử không luôn đi lên`"]
+  n46 --- n51
+  n52["`Mục 11–12 — Dân số và chủ nghĩa đế quốc không giải thích được nghèo đói`"]
+  n0 --- n52
+  n53["`Nạn đói thời Stalin, Mao do yếu tố tại chỗ và cô lập chính trị, không do thế giới thiếu lương thực`"]
+  n52 --- n53
+  n54["`Malaysia 1890–1930 dân từ 1,5 lên 6 triệu mà mức sống và tuổi thọ tăng`"]
+  n52 --- n54
+  n55["`Phương Tây từ giữa thế kỷ 18 dân tăng hơn 4 lần, thu nhập thực tế đầu người tăng 5 lần trở lên`"]
+  n52 --- n55
+  n56["`Lỗi non sequitur: trái đất nuôi được số người hữu hạn không suy ra được ta đang gần giới hạn`"]
+  n52 --- n56
+  n57["`Guyana mật độ bằng Canada mà nghèo, châu Phi hạ Sahara thưa dân hơn Tây Âu, Nhật nhiều lần`"]
+  n52 --- n57
+  n58["`Năm 1994, 57 triệu Hoa kiều tạo ra của cải bằng 1 tỷ người ở Trung Quốc`"]
+  n52 --- n58
+  n59["`Tây Ban Nha nhận hơn 200 tấn vàng, 18.000 tấn bạc, nhưng năm 1900 hơn nửa dân vẫn mù chữ`"]
+  n52 --- n59
+  n60["`Lợi nhuận buôn nô lệ của Anh nếu đầu tư hết cũng chưa tới 2% đầu tư trong nước`"]
+  n52 --- n60
+  n61["`Vùng giữ chế độ nô lệ (miền Nam Mỹ, bắc Brazil, Đông Âu) vẫn là vùng nghèo hơn`"]
+  n52 --- n61
+  n62["`Chênh lệch có trước khi chinh phục, và chính nó giúp Tây Ban Nha, Anh chinh phục`"]
+  n52 --- n62
+  n63["`Mục 13 — Hàm ý: tương tác, văn hoá kéo dài và ngẫu nhiên lịch sử`"]
+  n0 --- n63
+  n64["`Không có quyết định luận địa lý: địa lý không đổi nhưng hệ quả kinh tế của nó vẫn đổi`"]
+  n63 --- n64
+  n65["`Cô lập địa lý → phân mảnh văn hoá, #quot;Balkan hoá#quot; → dễ bị kẻ bắt nô lệ, đế quốc xâm chiếm`"]
+  n63 --- n65
+  n66["`Con cái người nhập cư Ý và Do Thái học cùng trường nhưng kết quả khác vì văn hoá khác`"]
+  n63 --- n66
+  n67["`Tuổi trung vị chênh 10–20 năm khiến kết quả kinh tế ngang nhau gần như không thể`"]
+  n63 --- n67
+  n68["`Waterloo là #quot;một chuyện suýt soát#quot;, trận Tours 732, vây Vienna 1529 có thể đổi hướng thế giới`"]
+  n63 --- n68
+  n69["`Thổ dân châu Mỹ chết vì bệnh châu Âu nhiều hơn vì vũ khí, do #quot;vũ trụ bệnh tật#quot; nhỏ hơn`"]
+  n63 --- n69
+  n70["`Thông điệp xuyên suốt`"]
+  n0 --- n70
+  n71["`Bất bình đẳng là trạng thái bình thường của lịch sử, không cần tìm thủ phạm`"]
+  n70 --- n71
+  n72["`Không thể mặc định kết quả ngang nhau, cũng không thể mặc định bất bình đẳng kéo dài mãi`"]
+  n70 --- n72
+  n73["`Viện trợ vật chất không thay được vốn con người, mở cửa học hỏi là con đường vượt bất lợi địa lý`"]
+  n70 --- n73
+  n74["`Tương lai phụ thuộc vào việc hiểu yếu tố nào thúc đẩy, yếu tố nào cản trở tăng trưởng`"]
+  n70 --- n74
+  class n0 root
+  class n1,n9,n19,n29,n52,n63,n70 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n64,n65,n66,n67,n68,n69,n71,n72,n73,n74 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Chương 23, chương cuối của Phần VI "The International Economy" (Nền kinh tế quốc tế).
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần VI mở đầu bằng Chương 21 về thương mại quốc tế (vì sao các nước cùng được lợi khi trao đổi hàng hoá) và Chương 22 về các dòng chuyển giao của cải giữa các nước (đầu tư nước ngoài, tiền người di cư gửi về, viện trợ). Chương 23 đặt câu hỏi lớn hơn mà hai chương trước để ngỏ: vì sao ngay từ đầu các nước đã giàu nghèo khác nhau đến vậy, và vì sao khoảng cách đó kéo dài hàng thế kỷ?
+
+Chương này dùng lại phân biệt giữa thu nhập và của cải (Chương 10), cách so sánh GDP bình quân đầu người giữa các nước (Chương 16), và nối tiếp phần bàn về viện trợ nước ngoài ở Chương 22 bằng lập luận rằng viện trợ vật chất không tạo ra tăng trưởng ở nơi thiếu vốn con người (so sánh Kế hoạch Marshall với viện trợ cho Thế giới thứ ba).
+
+Theo Lời nói đầu, đây là chương dài nhất sách và là chương mới của ấn bản thứ năm; nó dẫn sang Phần VII (Chương 24 "Myths About Markets", Chương 25 "'Non-Economic' Values"), nơi Sowell bàn những niềm tin phổ biến về thị trường và về các giá trị "phi kinh tế".
+
+## Lưu ý
+
+- Ấn bản thứ năm được viết khoảng 2013–2014; số liệu GDP bình quân đầu người ở đầu chương là số liệu quanh thời điểm đó, còn phần lớn chương là lịch sử từ cổ đại đến thế kỷ 20. Từ đó một số chi tiết đã đổi (nêu định tính): khoảng cách GDP bình quân đầu người giữa Trung Quốc và Nhật Bản đã thu hẹp đáng kể, và Ấn Độ cũng tăng trưởng nhanh, nên các tỷ lệ "chưa bằng một phần tư" và "hơn mười phần trăm một chút" không còn đúng như lúc Sowell viết; điều này lại khớp với nhận xét của chính Sowell rằng cải cách kinh tế ở hai nước này cho thấy tiềm năng của người dân chỉ cần một môi trường tốt hơn.
+- Con sông Sowell gọi là "Zaire River" ngày nay thường được gọi là sông Congo (tên Zaire gắn với nước Zaire, đã đổi thành Cộng hoà Dân chủ Congo năm 1997).
+- Chương có **8 chú thích chân trang** của Sowell, đánh số La Mã từ xxviii đến xxxv, đã được đưa vào cả Sơ đồ lẫn Nội dung chi tiết, đúng chỗ Sowell đặt chúng: chú thích xxviii (về "dân đồi núi lên thành phố") ở mục Mountains; xxix (về "chữ số Ả Rập") ở mục Animals; xxx (về địa lý và thiên tài) ở mục Location; xxxi (về sữa và pho mát) ở mục Human Capital; xxxii (về giới tinh hoa Ả Rập biết ngoại ngữ) ở mục Cultural Isolation; xxxiii (về khái niệm "đổ lỗi") ở mục Cultural Development; xxxiv (về lũ sông và nông nghiệp định cư) và xxxv (về "vũ trụ bệnh tật") ở mục Implications.
+- Có ba chỗ sách nén lịch sử quá mức:
+  - Hạm đội của Perry đến Nhật năm 1853, nhưng mô hình đầu máy xe lửa được tặng trong chuyến quay lại năm 1854.
+  - Người Do Thái bị Tây Ban Nha trục xuất năm 1492 phần lớn đi Bồ Đào Nha, Bắc Phi và Đế quốc Ottoman; cộng đồng Do Thái gốc Iberia ở Amsterdam chủ yếu hình thành từ cuối thế kỷ 16, nhiều người đến từ Bồ Đào Nha, nên câu "nhiều người định cư ở Hà Lan" là cách nói gộp nhiều thế hệ.
+  - Thống kê "Tây Ban Nha dịch trong một năm bằng thế giới Ả Rập dịch trong một nghìn năm" lấy từ báo cáo của Liên Hợp Quốc về phát triển con người ở thế giới Ả Rập, và về sau bị một số nhà nghiên cứu cho là đánh giá thấp số sách dịch ở các nước Ả Rập.
+- Các câu trích là bản dịch của người tổng hợp.

@@ -1,11 +1,12 @@
 # Lời nói đầu và Lời cảm ơn (Preface; Acknowledgments)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), câu đề từ (epigraph) ở đầu sách, Lời nói đầu (Preface, Sowell ký tại Viện Hoover, Đại học Stanford) và Lời cảm ơn (Acknowledgments).
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
-**Vị trí trong lập luận của cả cuốn sách:** Hai phần mở đầu này không dạy khái niệm kinh tế nào. Lời nói đầu nói cuốn sách khác các sách nhập môn khác ở đâu (không đồ thị, không phương trình, không biệt ngữ, dùng ví dụ thật từ nhiều nước), vì sao người không học kinh tế vẫn cần hiểu kinh tế (vì ai đi bầu cử cũng ảnh hưởng đến chính sách kinh tế), và giới thiệu chương mới dài nhất của ấn bản này: Chương 23 về chênh lệch giàu nghèo giữa các quốc gia. Lời cảm ơn ghi công những người giúp làm ra cuốn sách. Ngay sau đó, Chương 1 (*What Is Economics?*) mở đầu phần nội dung bằng câu hỏi kinh tế học là gì.
-**Ý chính:** Sowell lập luận rằng với phần lớn các lĩnh vực phức tạp, từ thực vật học đến phẫu thuật não, người không biết có thể đứng ngoài; nhưng với kinh tế thì không ai đứng ngoài được, vì mỗi cử tri và mỗi chính khách họ bầu ra đều tác động đến chính sách kinh tế. Lựa chọn duy nhất là quyết định khi đã hiểu đúng, khi không hiểu gì, hay khi hiểu sai. Các nguyên lý cơ bản của kinh tế học không khó hiểu, nhưng dễ bị quên giữa những lời lẽ hăng hái của chính trị và truyền thông. Cuốn sách được viết để việc hiểu đúng trở nên dễ hơn.
+## Ý chính
 
-> **Lưu ý:** Ấn bản thứ năm có bản quyền năm 2015, nội dung viết khoảng 2013–2014. Lời nói đầu có một chú thích chân trang của Sowell (liệt kê các thứ tiếng mà các ấn bản trước đã được dịch sang), đã đưa vào mục 1 của Nội dung chi tiết. Câu đề từ của sách là một câu của nhà kinh tế Steven E. Landsburg, lấy từ cuốn *The Armchair Economist: Economics & Everyday Life* (1993), đã đưa vào mục 1. Lời nói đầu viết cho bản sách điện tử: Sowell nói bản này có chú thích nguồn (endnotes) để người đọc kiểm tra các sự kiện đáng ngạc nhiên, và có hơn một trăm câu hỏi ở cuối sách, mỗi câu kèm số trang của bản in nơi có câu trả lời. Bộ tổng hợp này không tổng hợp phần câu hỏi đó. Các câu trích là bản dịch của người tổng hợp.
+Sowell lập luận rằng với phần lớn các lĩnh vực phức tạp, từ thực vật học đến phẫu thuật não, người không biết có thể đứng ngoài; nhưng với kinh tế thì không ai đứng ngoài được, vì mỗi cử tri và mỗi chính khách họ bầu ra đều tác động đến chính sách kinh tế.
+
+Lựa chọn duy nhất là quyết định khi đã hiểu đúng, khi không hiểu gì, hay khi hiểu sai.
+
+Các nguyên lý cơ bản của kinh tế học không khó hiểu, nhưng dễ bị quên giữa những lời lẽ hăng hái của chính trị và truyền thông. Cuốn sách được viết để việc hiểu đúng trở nên dễ hơn.
 
 ## Sơ đồ
 
@@ -116,11 +117,15 @@ Sowell coi sự quan tâm liên tục của độc giả trong nước và số 
 
 ### 2. Ấn bản mới và Chương 23 (Preface, đoạn thứ tư)
 
-Sowell đùa rằng cũng như con người, cuốn sách "lên cân" theo năm tháng: thêm chương mới, các chương cũ được cập nhật và mở rộng để theo kịp diễn biến của các nền kinh tế. Chương mới đáng chú ý là Chương 23 (*International Disparities in Wealth*), chương dài nhất sách, dành cho người đọc từng thắc mắc vì sao trình độ phát triển và mức sống giữa các nước chênh lệch lớn đến thế. Chương này xét các lý do địa lý, nhân khẩu, văn hoá và các lý do khác khiến chênh lệch tồn tại lâu như vậy, đồng thời kiểm tra những yếu tố thường được nêu là nguyên nhân chính của chênh lệch và cho thấy sự kiện không phải lúc nào cũng ủng hộ các khẳng định đó.
+Sowell đùa rằng cũng như con người, cuốn sách "lên cân" theo năm tháng: thêm chương mới, các chương cũ được cập nhật và mở rộng để theo kịp diễn biến của các nền kinh tế.
+
+Chương mới đáng chú ý là Chương 23 (*International Disparities in Wealth*), chương dài nhất sách, dành cho người đọc từng thắc mắc vì sao trình độ phát triển và mức sống giữa các nước chênh lệch lớn đến thế. Chương này xét các lý do địa lý, nhân khẩu, văn hoá và các lý do khác khiến chênh lệch tồn tại lâu như vậy, đồng thời kiểm tra những yếu tố thường được nêu là nguyên nhân chính của chênh lệch và cho thấy sự kiện không phải lúc nào cũng ủng hộ các khẳng định đó.
 
 ### 3. Vì sao không ai đứng ngoài kinh tế được (Preface, đoạn thứ năm)
 
-Đây là lập luận trung tâm của Lời nói đầu. Phần lớn chúng ta tất yếu không biết gì về nhiều lĩnh vực phức tạp, từ thực vật học đến phẫu thuật não, và vì không biết nên ta không làm việc trong đó, cũng không bình luận về chúng. Kinh tế thì khác: mỗi cử tri, và mỗi chính khách mà cử tri bầu ra, đều tác động đến chính sách kinh tế. Không ai có thể rút khỏi các vấn đề và quyết định kinh tế; khi chọn quan điểm về một vấn đề hay chọn một ứng viên, lựa chọn duy nhất là làm điều đó khi hiểu đúng, khi không hiểu, hoặc khi hiểu sai. Sowell viết sách để việc hiểu đúng dễ hơn. Ông nhấn mạnh rằng các nguyên lý cơ bản của kinh tế học không khó hiểu nhưng dễ bị quên, nhất là giữa những lời lẽ hăng hái của chính trị và truyền thông.
+Đây là lập luận trung tâm của Lời nói đầu. Phần lớn chúng ta tất yếu không biết gì về nhiều lĩnh vực phức tạp, từ thực vật học đến phẫu thuật não, và vì không biết nên ta không làm việc trong đó, cũng không bình luận về chúng.
+
+Kinh tế thì khác: mỗi cử tri, và mỗi chính khách mà cử tri bầu ra, đều tác động đến chính sách kinh tế. Không ai có thể rút khỏi các vấn đề và quyết định kinh tế; khi chọn quan điểm về một vấn đề hay chọn một ứng viên, lựa chọn duy nhất là làm điều đó khi hiểu đúng, khi không hiểu, hoặc khi hiểu sai. Sowell viết sách để việc hiểu đúng dễ hơn. Ông nhấn mạnh rằng các nguyên lý cơ bản của kinh tế học không khó hiểu nhưng dễ bị quên, nhất là giữa những lời lẽ hăng hái của chính trị và truyền thông.
 
 ### 4. Cách dùng sách (Preface, đoạn cuối)
 
@@ -128,7 +133,9 @@ Vì là sách nhập môn, sách bỏ biệt ngữ, đồ thị và phương tr�
 
 ### 5. Lời cảm ơn (Acknowledgments)
 
-Sowell cảm ơn hai trợ lý nghiên cứu Na Liu và Elizabeth Costa, mà ông gọi là xuất sắc và đã giúp nhiều cuốn sách khác của ông. Ngoài việc tìm đủ loại thông tin, Costa biên tập và kiểm tra sự kiện trong bản thảo; Liu dàn trang bản thảo thành bản in thử và giúp làm bảng tra cứu (index); file dàn trang (định dạng Quark, một phần mềm dàn trang) được gửi thẳng cho nhà xuất bản để in. Chương về lịch sử kinh tế học (Chương 26) được giáo sư danh dự William R. Allen của UCLA, một đồng nghiệp cũ, đọc trước; Sowell trân trọng các nhận xét và góp ý của Allen dù không dùng hết. Sowell nhận mọi sai sót còn lại là trách nhiệm của mình, và cảm ơn Viện Hoover cùng cơ sở nghiên cứu của Đại học Stanford.
+Sowell cảm ơn hai trợ lý nghiên cứu Na Liu và Elizabeth Costa, mà ông gọi là xuất sắc và đã giúp nhiều cuốn sách khác của ông. Ngoài việc tìm đủ loại thông tin, Costa biên tập và kiểm tra sự kiện trong bản thảo; Liu dàn trang bản thảo thành bản in thử và giúp làm bảng tra cứu (index); file dàn trang (định dạng Quark, một phần mềm dàn trang) được gửi thẳng cho nhà xuất bản để in.
+
+Chương về lịch sử kinh tế học (Chương 26) được giáo sư danh dự William R. Allen của UCLA, một đồng nghiệp cũ, đọc trước; Sowell trân trọng các nhận xét và góp ý của Allen dù không dùng hết. Sowell nhận mọi sai sót còn lại là trách nhiệm của mình, và cảm ơn Viện Hoover cùng cơ sở nghiên cứu của Đại học Stanford.
 
 **Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một thành phố đề xuất trần giá thuê nhà: không chủ nhà nào được tăng giá thuê quá 3% mỗi năm. Một cử tri không biết gì về kinh tế có thể ủng hộ vì nghe có lợi cho người thuê; người đó ở trạng thái "không hiểu". Một cử tri khác ủng hộ vì tin rằng chủ nhà sẽ vẫn xây thêm nhà cho thuê như cũ; người đó ở trạng thái "hiểu sai". Lá phiếu của hai người này có sức nặng ngang với lá phiếu của một cử tri đã đọc Chương 3 và biết rằng trần giá thuê thường làm giảm nguồn cung nhà cho thuê. Đây đúng là tình huống mà Sowell nói: không có lựa chọn đứng ngoài.
 
@@ -219,3 +226,133 @@ Lời nói đầu nói Chương 23 không chỉ liệt kê nguyên nhân của c
 - **Trong đầu tư.** Tinh thần của câu đề từ ("vài dòng suy luận") dùng được khi đọc tin thị trường: tự viết ra vài dòng lý do vì sao một tài sản đáng mua, rồi kiểm tra từng dòng bằng sự kiện.
 - **Trong nghề nghiệp.** Khả năng giải thích một nguyên lý kinh tế bằng lời thường và ví dụ thật, không cần đồ thị, là kỹ năng có giá trị với người làm phân tích, tư vấn hay truyền thông.
 - **Khi đọc tin chính sách.** Ở Việt Nam, các đề xuất về giá điện, giá xăng, trần lãi suất hay giá thuê nhà thường được tranh luận bằng lời lẽ cảm xúc. Câu hỏi của Sowell là: mình đang hiểu nguyên lý đằng sau, hay chỉ đang phản ứng với cách đề xuất được nói ra.
+
+## Bản đồ tư duy
+
+Toàn cảnh Lời nói đầu và Lời cảm ơn trên một trang: sáu nhánh lớn đi theo các mục 1–5 của Nội dung chi tiết (câu đề từ và hai điểm khác biệt của sách, ấn bản thứ năm và Chương 23, lập luận không ai đứng ngoài kinh tế được, cách dùng sách và Lời cảm ơn) cùng phần Luận điểm kinh tế cốt lõi và phần Đánh giá, mỗi nhánh ghi lập luận, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Lời nói đầu và Lời cảm ơn: không ai đứng ngoài kinh tế được, nên sách giúp việc hiểu đúng dễ hơn`"]
+  n1["`Mục 1 — Câu đề từ và hai điểm khác biệt của cuốn sách`"]
+  n0 --- n1
+  n2["`Câu đề từ của Landsburg (The Armchair Economist, 1993): vài dòng suy luận có thể thay đổi cách ta nhìn thế giới`"]
+  n1 --- n2
+  n3["`Điểm khác dễ thấy: không đồ thị, không phương trình, không biệt ngữ kinh tế`"]
+  n1 --- n3
+  n4["`Người đọc nhắm tới: công chúng nói chung và sinh viên mới học kinh tế`"]
+  n1 --- n4
+  n5["`Điểm khác ít thấy nhưng quan trọng: ví dụ thật từ nhiều nước làm nguyên lý sống động, dễ nhớ hơn đồ thị`"]
+  n1 --- n5
+  n6["`Ý tưởng không đổi qua các ấn bản: học kinh tế vừa không rắc rối vừa giúp người học sáng mắt ra`"]
+  n1 --- n6
+  n7["`Dấu hiệu có nhu cầu: độc giả trong nước tiếp tục quan tâm, bản dịch ra nước ngoài ngày càng nhiều`"]
+  n1 --- n7
+  n8["`Các ấn bản trước đã dịch sang bảy thứ tiếng: Tây Ban Nha, Trung, Do Thái, Nhật, Thuỵ Điển, Hàn, Ba Lan`"]
+  n7 --- n8
+  n9["`Mục 2 — Ấn bản thứ năm và Chương 23`"]
+  n0 --- n9
+  n10["`Sách lên cân theo năm tháng như con người: thêm chương mới, cập nhật và mở rộng chương cũ`"]
+  n9 --- n10
+  n11["`Chương 23 (International Disparities in Wealth) là chương mới và dài nhất sách`"]
+  n9 --- n11
+  n12["`Câu hỏi của Chương 23: vì sao mức sống giữa các nước chênh lệch lớn và kéo dài lâu như vậy`"]
+  n11 --- n12
+  n13["`Chương 23 xét lý do địa lý, nhân khẩu, văn hoá và các lý do khác`"]
+  n11 --- n13
+  n14["`Kiểm tra các nguyên nhân hay được nêu: sự kiện không phải lúc nào cũng ủng hộ chúng`"]
+  n11 --- n14
+  n15["`Mục 3 — Vì sao không ai đứng ngoài kinh tế được`"]
+  n0 --- n15
+  n16["`Thực vật học, phẫu thuật não: vì không biết nên ta không làm việc trong đó, cũng không bình luận`"]
+  n15 --- n16
+  n17["`Kinh tế thì khác: mỗi cử tri và mỗi chính khách họ bầu đều tác động đến chính sách kinh tế`"]
+  n15 --- n17
+  n18["`Khi chọn quan điểm hay ứng viên chỉ có ba trạng thái: hiểu đúng, không hiểu, hiểu sai`"]
+  n15 --- n18
+  n19["`Không có trạng thái thứ tư đứng ngoài: người không quan tâm đến kinh tế vẫn bỏ phiếu`"]
+  n18 --- n19
+  n20["`Nguyên lý cơ bản không khó hiểu nhưng dễ bị quên giữa lời lẽ hăng hái của chính trị và truyền thông`"]
+  n15 --- n20
+  n21["`Theo người tổng hợp, vì thế sách lặp lại cùng một số nguyên lý qua rất nhiều ví dụ`"]
+  n20 --- n21
+  n22["`Ví dụ của người tổng hợp: thành phố đề xuất trần tăng giá thuê nhà 3% mỗi năm`"]
+  n15 --- n22
+  n23["`Ủng hộ vì nghe có lợi cho người thuê là không hiểu, tin chủ nhà vẫn xây thêm như cũ là hiểu sai`"]
+  n22 --- n23
+  n24["`Người đã đọc Chương 3 biết trần giá thuê thường làm giảm nguồn cung nhà cho thuê, nhưng lá phiếu ba người nặng ngang nhau`"]
+  n22 --- n24
+  n25["`Mục 4–5 — Cách dùng sách và Lời cảm ơn`"]
+  n0 --- n25
+  n26["`Bản điện tử có chú thích nguồn để người đọc kiểm tra các sự kiện đáng ngạc nhiên`"]
+  n25 --- n26
+  n27["`Hơn một trăm câu hỏi cuối sách cho giáo viên và phụ huynh dạy con tại nhà, mỗi câu ghi số trang bản in`"]
+  n25 --- n27
+  n28["`Trợ lý Na Liu và Elizabeth Costa: Costa biên tập, kiểm tra sự kiện, Liu dàn trang và làm bảng tra cứu`"]
+  n25 --- n28
+  n29["`William R. Allen (UCLA) đọc trước Chương 26 về lịch sử kinh tế học, Sowell trân trọng nhưng không dùng hết góp ý`"]
+  n25 --- n29
+  n30["`Mọi sai sót còn lại là của Sowell, cảm ơn Viện Hoover và Đại học Stanford`"]
+  n25 --- n30
+  n31["`Luận điểm cốt lõi — mệnh đề, giả định, cơ chế`"]
+  n0 --- n31
+  n32["`Mệnh đề: ai cũng tác động đến chính sách qua lá phiếu nên ai cũng cần hiểu nguyên lý kinh tế cơ bản`"]
+  n31 --- n32
+  n33["`Giả định: nguyên lý cơ bản tách được khỏi công cụ toán học mà không bị sai lệch`"]
+  n31 --- n33
+  n34["`Giả định: sai lầm chính sách phần lớn do quên hoặc không biết nguyên lý, không phải vì nguyên lý quá khó`"]
+  n31 --- n34
+  n35["`Cơ chế: cử tri không hiểu hoặc hiểu sai thì chính sách nghe hấp dẫn nhưng gây hại được ủng hộ`"]
+  n31 --- n35
+  n36["`Hàm ý: hiểu biết kinh tế của công chúng là điều kiện cho chính sách kinh tế tốt trong nền dân chủ`"]
+  n31 --- n36
+  n37["`Lập luận ba trạng thái chạm đúng chủ đề sự thiếu hiểu biết của cử tri trong kinh tế học lựa chọn công cộng`"]
+  n31 --- n37
+  n38["`Đánh giá — điểm mạnh và cái giá của cách trình bày`"]
+  n0 --- n38
+  n39["`Độc giả là cử tri chứ không phải sinh viên chuyên ngành, nên đồ thị và phương trình là rào cản không cần thiết`"]
+  n38 --- n39
+  n40["`Cái giá: ví dụ thật chỉ minh hoạ, không chứng minh nguyên lý đúng trong điều kiện nào`"]
+  n38 --- n40
+  n41["`Ví dụ có thể được chọn lọc: nhà phê bình cho rằng sách ít nói về thị trường thất bại hay can thiệp thành công`"]
+  n38 --- n41
+  n42["`Cách làm đặc trưng của Sowell: đặt khẳng định phổ biến cạnh sự kiện, như ở Chương 23`"]
+  n38 --- n42
+  n43["`Thông điệp xuyên suốt`"]
+  n0 --- n43
+  n44["`Trước khi ủng hộ một chính sách kinh tế, tự hỏi mình đang hiểu đúng, không hiểu hay hiểu sai`"]
+  n43 --- n44
+  n45["`Quay về nguyên lý cơ bản thay vì để lời lẽ hăng hái của chính trị và truyền thông dẫn dắt`"]
+  n43 --- n45
+  n46["`Ở Việt Nam, giá điện, giá xăng, trần lãi suất, giá thuê nhà thường được tranh luận bằng lời lẽ cảm xúc`"]
+  n43 --- n46
+  class n0 root
+  class n1,n9,n15,n25,n31,n38,n43 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n44,n45,n46 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), câu đề từ (epigraph) ở đầu sách, Lời nói đầu (Preface, Sowell ký tại Viện Hoover, Đại học Stanford) và Lời cảm ơn (Acknowledgments).
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Hai phần mở đầu này không dạy khái niệm kinh tế nào. Lời nói đầu nói cuốn sách khác các sách nhập môn khác ở đâu (không đồ thị, không phương trình, không biệt ngữ, dùng ví dụ thật từ nhiều nước), vì sao người không học kinh tế vẫn cần hiểu kinh tế (vì ai đi bầu cử cũng ảnh hưởng đến chính sách kinh tế), và giới thiệu chương mới dài nhất của ấn bản này: Chương 23 về chênh lệch giàu nghèo giữa các quốc gia.
+
+Lời cảm ơn ghi công những người giúp làm ra cuốn sách. Ngay sau đó, Chương 1 (*What Is Economics?*) mở đầu phần nội dung bằng câu hỏi kinh tế học là gì.
+
+## Lưu ý
+
+- Ấn bản thứ năm có bản quyền năm 2015, nội dung viết khoảng 2013–2014.
+- Lời nói đầu có một chú thích chân trang của Sowell (liệt kê các thứ tiếng mà các ấn bản trước đã được dịch sang), đã đưa vào mục 1 của Nội dung chi tiết.
+- Câu đề từ của sách là một câu của nhà kinh tế Steven E. Landsburg, lấy từ cuốn *The Armchair Economist: Economics & Everyday Life* (1993), đã đưa vào mục 1.
+- Lời nói đầu viết cho bản sách điện tử: Sowell nói bản này có chú thích nguồn (endnotes) để người đọc kiểm tra các sự kiện đáng ngạc nhiên, và có hơn một trăm câu hỏi ở cuối sách, mỗi câu kèm số trang của bản in nơi có câu trả lời. Bộ tổng hợp này không tổng hợp phần câu hỏi đó.
+- Các câu trích là bản dịch của người tổng hợp.

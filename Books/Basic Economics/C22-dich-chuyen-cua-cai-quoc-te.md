@@ -1,11 +1,16 @@
 # Chương 22 — Dịch chuyển của cải giữa các quốc gia (International Transfers of Wealth)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần VI "The International Economy", Chương 22.
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 21 (International Trade) đã cho thấy thương mại giữa các nước không phải trò chơi tổng bằng không, và cảnh báo rằng những chữ như "thâm hụt thương mại" dễ làm người đọc hiểu sai. Chương 22 đi tiếp sang những dòng của cải không phải là mua bán hàng hoá: đầu tư ra nước ngoài, kiều hối, vốn con người theo chân người di cư, của cải bị cướp đi qua chủ nghĩa đế quốc, viện trợ nước ngoài, và hệ thống tiền tệ quốc tế làm nền cho tất cả các dòng đó. Chương này cũng dựa vào Chương 18 (Government Functions), nơi Sowell đã nói về tầm quan trọng kinh tế của sự trung thực và của luật pháp đáng tin cậy, và vào Chương 17 (Money and the Banking System) về giá trị của một đồng tiền ổn định. Chương 23 (International Disparities in Wealth) sẽ hỏi câu hỏi lớn hơn: vì sao có nước giàu, nước nghèo ngay từ đầu, câu hỏi mà Chương 22 chỉ chạm tới qua việc vốn né tránh nước nghèo.
-**Ý chính:** Sowell muốn người đọc **"nghĩ về sự việc thực tế thay vì về chữ nghĩa"** (lời khuyên của thẩm phán Oliver Wendell Holmes). Các dòng của cải quốc tế tự chúng khá đơn giản, nhưng các chữ dùng để mô tả chúng (thâm hụt, nợ, con nợ, viện trợ, bóc lột, đồng tiền mạnh, đồng tiền yếu) thường gợi cảm xúc sai về thực chất. Ví dụ trung tâm là nước Mỹ: Mỹ là "quốc gia con nợ" trong phần lớn lịch sử và có thâm hụt thương mại lớn nhất thế giới, nhưng đồng thời có mức sống cao nhất thế giới trong phần lớn lịch sử; người nước ngoài mang ra khỏi Mỹ nhiều của cải hơn khỏi bất kỳ nước nào (543 tỷ USD riêng năm 2012), vậy mà người Mỹ không nghèo đi, vì những khoản đầu tư đó đã tạo ra của cải mới trước khi lợi nhuận được chuyển đi. Từ đó Sowell bác bỏ quan niệm "bóc lột": nếu doanh nghiệp đa quốc gia kiếm lời bằng cách bóc lột lao động rẻ ở nước nghèo, thì tại sao phần lớn đầu tư của họ lại chảy tới các nước giàu, nơi lương cao?
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2013–2014; số liệu mới nhất trong chương là của năm 2011–2012 (đầu tư trực tiếp, kiều hối, thâm hụt thương mại, thu nhập dịch vụ của Mỹ), còn phần tỷ giá dùng ví dụ của đồng euro giai đoạn 1999–2003 và của giai đoạn tháng 12/2008 đến tháng 4/2009. Một số điều đã thay đổi từ đó (nói định tính): tổng kiều hối toàn cầu đã tăng đáng kể so với mức Sowell nêu; vị thế đầu tư quốc tế ròng của Mỹ (phần người nước ngoài sở hữu ở Mỹ vượt phần người Mỹ sở hữu ở nước ngoài) đã âm sâu hơn nhiều so với năm 2012; từ giữa thập niên 2010, tỷ lệ thất nghiệp của Đức nhiều năm liền thấp hơn của Mỹ, nên ví dụ "Đức xuất siêu nhưng thất nghiệp cao hơn Mỹ" không còn đúng với giai đoạn sau. Có hai chỗ cần đọc thận trọng: (1) Sowell viết rằng cán cân thương mại chỉ tính hàng hoá, không tính dịch vụ; thực ra thống kê chính thức của Mỹ công bố cả cán cân hàng hoá lẫn cán cân hàng hoá và dịch vụ, chỉ là báo chí hay dẫn con số thâm hụt hàng hoá, nên lập luận của Sowell đúng với cách báo chí đưa tin hơn là với định nghĩa thống kê; (2) Sowell nói một năm thặng dư cán cân thanh toán hiếm hoi của Mỹ "được nối tiếp bởi cuộc suy thoái năm 1992", trong khi cuộc suy thoái chính thức của Mỹ kéo dài từ giữa 1990 đến đầu 1991. Sowell cũng xếp Quỹ Tiền tệ Quốc tế (IMF) cùng Ngân hàng Thế giới vào nhóm "cơ quan viện trợ"; IMF chủ yếu cho vay để xử lý khó khăn cán cân thanh toán, không phải cơ quan viện trợ phát triển theo nghĩa hẹp. Chương này không có chú thích chân trang có nội dung của Sowell (chỉ có chú thích nguồn trích dẫn, đã bỏ qua). Các câu trích là bản dịch của người tổng hợp.
+Sowell muốn người đọc **"nghĩ về sự việc thực tế thay vì về chữ nghĩa"** (lời khuyên của thẩm phán Oliver Wendell Holmes).
+
+Các dòng của cải quốc tế tự chúng khá đơn giản, nhưng các chữ dùng để mô tả chúng (thâm hụt, nợ, con nợ, viện trợ, bóc lột, đồng tiền mạnh, đồng tiền yếu) thường gợi cảm xúc sai về thực chất.
+
+Ví dụ trung tâm là nước Mỹ: Mỹ là "quốc gia con nợ" trong phần lớn lịch sử và có thâm hụt thương mại lớn nhất thế giới, nhưng đồng thời có mức sống cao nhất thế giới trong phần lớn lịch sử.
+
+Người nước ngoài mang ra khỏi Mỹ nhiều của cải hơn khỏi bất kỳ nước nào (543 tỷ USD riêng năm 2012), vậy mà người Mỹ không nghèo đi, vì những khoản đầu tư đó đã tạo ra của cải mới trước khi lợi nhuận được chuyển đi.
+
+Từ đó Sowell bác bỏ quan niệm "bóc lột": nếu doanh nghiệp đa quốc gia kiếm lời bằng cách bóc lột lao động rẻ ở nước nghèo, thì tại sao phần lớn đầu tư của họ lại chảy tới các nước giàu, nơi lương cao?
 
 ## Sơ đồ
 
@@ -669,7 +674,9 @@
 
 1. **Nếu vốn khan hiếm ở nước nghèo, sao vốn quốc tế lại chảy chủ yếu tới nước giàu?** Vì điều nhà đầu tư sợ nhất là không lấy lại được tiền: chính phủ bất ổn, nguy cơ quốc hữu hoá, tham nhũng, và kiểm soát không cho vốn rút ra. Năm 2012, chỉ chưa tới 12% trong 21.000 tỷ USD cho vay ngân hàng quốc tế và chưa tới 7% trong gần 6.000 tỷ USD chứng khoán quốc tế tới nước nghèo. Cái nghèo tự nó không phải rào cản: Hồng Kông thời thuộc Anh và Ấn Độ sau khi nới lỏng kiểm soát đều thu hút vốn lớn khi có luật pháp đáng tin và vốn được ra vào tự do.
 2. **Thâm hụt thương mại và "nợ nước ngoài" có phải là dấu hiệu một nền kinh tế đang yếu đi?** Không tự nó. Mỹ là con nợ trong phần lớn lịch sử mà vẫn có mức sống cao nhất; thịnh vượng thập niên 1990 đi kèm thâm hụt và nợ quốc tế kỷ lục, vì người nước ngoài muốn đặt tiền ở nơi có nhiều cơ hội nhất. Ngược lại, Nigeria thường thặng dư mà vẫn rất nghèo. Chữ "nợ" gộp hai thứ khác nhau: tiền người khác gửi vào (như tiền gửi ngân hàng) và tiền vay để tiêu vượt khả năng trả. Chỉ loại sau, như khi chính phủ nước nghèo vay để bù khoản nhập khẩu mà xuất khẩu không trả nổi, mới đáng lo thật.
-3. **Doanh nghiệp đa quốc gia, chủ nghĩa đế quốc và viện trợ có làm nước nghèo nghèo đi hay giàu lên?** Sowell cho rằng đầu tư nước ngoài giúp nước nhận giàu lên (nơi nghèo nhất là nơi ít đầu tư nước ngoài nhất; doanh nghiệp đa quốc gia trả khoảng gấp đôi lương địa phương), đế quốc hiện đại hiếm khi là nguồn của cải quan trọng (Đức, Nhật mất thuộc địa rồi giàu hơn bao giờ hết), còn viện trợ chính thức có kết quả lẫn lộn vì đi qua chính phủ và không chịu sàng lọc lời lỗ. Nguồn của cải lớn hơn mà nước nghèo bỏ phí là tài sản trong nước chưa được pháp luật công nhận quyền sở hữu: riêng ở Peru, giá trị bất động sản loại này lớn hơn hơn 12 lần toàn bộ đầu tư trực tiếp nước ngoài trong lịch sử nước này.
+3. **Doanh nghiệp đa quốc gia, chủ nghĩa đế quốc và viện trợ có làm nước nghèo nghèo đi hay giàu lên?** Sowell cho rằng đầu tư nước ngoài giúp nước nhận giàu lên (nơi nghèo nhất là nơi ít đầu tư nước ngoài nhất; doanh nghiệp đa quốc gia trả khoảng gấp đôi lương địa phương), đế quốc hiện đại hiếm khi là nguồn của cải quan trọng (Đức, Nhật mất thuộc địa rồi giàu hơn bao giờ hết), còn viện trợ chính thức có kết quả lẫn lộn vì đi qua chính phủ và không chịu sàng lọc lời lỗ.
+
+   Nguồn của cải lớn hơn mà nước nghèo bỏ phí là tài sản trong nước chưa được pháp luật công nhận quyền sở hữu: riêng ở Peru, giá trị bất động sản loại này lớn hơn hơn 12 lần toàn bộ đầu tư trực tiếp nước ngoài trong lịch sử nước này.
 
 ## Khái niệm cần biết
 
@@ -744,7 +751,9 @@ Về lý thuyết, vốn sẽ chảy từ nơi dồi dào tới nơi khan hiếm
 | Cho vay ngân hàng quốc tế | Khoảng 21.000 tỷ USD | Khoảng 2.500 tỷ USD | Chưa tới 12% |
 | Chứng khoán đầu tư quốc tế | Gần 6.000 tỷ USD | Chưa tới 400 tỷ USD | Chưa tới 7% |
 
-Nói gọn, nước giàu đầu tư vào nước giàu. Lý do cũng giống lý do vì sao có nước giàu nước nghèo ngay từ đầu. Rào cản lớn nhất là nguy cơ không bao giờ lấy lại được tiền. Nhà đầu tư dè chừng các chính phủ bất ổn, vì thay người hay đổi chính sách có thể làm thay đổi điều kiện lúc bỏ vốn; thay đổi nặng nhất là chính phủ tịch thu, mà ngôn ngữ chính trị gọi là "quốc hữu hoá". Tham nhũng tràn lan cũng cản trở đầu tư như cản trở mọi hoạt động kinh tế: các nước đứng cao trong bảng xếp hạng tham nhũng quốc tế như Nigeria hay Nga khó thu hút đầu tư tương xứng với tài nguyên và tiềm năng, còn các nước ít tham nhũng nhất đều thịnh vượng, phần lớn ở châu Âu hay có gốc châu Âu, cộng thêm Nhật Bản và Singapore. Sowell nhắc lại ý ở Chương 18: mức độ trung thực của một nước có hệ quả kinh tế nghiêm trọng. Ngoài tịch thu và tham nhũng, theo *The Economist*, nhiều nước nghèo không cho vốn ra vào tự do; vốn khó rút ra thì ngay từ đầu cũng ít muốn vào.
+Nói gọn, nước giàu đầu tư vào nước giàu. Lý do cũng giống lý do vì sao có nước giàu nước nghèo ngay từ đầu. Rào cản lớn nhất là nguy cơ không bao giờ lấy lại được tiền. Nhà đầu tư dè chừng các chính phủ bất ổn, vì thay người hay đổi chính sách có thể làm thay đổi điều kiện lúc bỏ vốn; thay đổi nặng nhất là chính phủ tịch thu, mà ngôn ngữ chính trị gọi là "quốc hữu hoá".
+
+Tham nhũng tràn lan cũng cản trở đầu tư như cản trở mọi hoạt động kinh tế: các nước đứng cao trong bảng xếp hạng tham nhũng quốc tế như Nigeria hay Nga khó thu hút đầu tư tương xứng với tài nguyên và tiềm năng, còn các nước ít tham nhũng nhất đều thịnh vượng, phần lớn ở châu Âu hay có gốc châu Âu, cộng thêm Nhật Bản và Singapore. Sowell nhắc lại ý ở Chương 18: mức độ trung thực của một nước có hệ quả kinh tế nghiêm trọng. Ngoài tịch thu và tham nhũng, theo *The Economist*, nhiều nước nghèo không cho vốn ra vào tự do; vốn khó rút ra thì ngay từ đầu cũng ít muốn vào.
 
 Bản thân cái nghèo không phải điều làm nhà đầu tư e ngại. Hồng Kông thời thuộc Anh khởi đầu rất nghèo nhưng trở thành một trung tâm công nghiệp, có lúc có thương mại quốc tế lớn hơn cả nước Ấn Độ rộng lớn. Dòng vốn lớn đổ vào Hồng Kông vì nơi này hoạt động dưới sự bảo đảm của luật pháp Anh, thuế thấp, và vốn cùng hàng hoá được ra vào thuộc loại tự do nhất thế giới. Ấn Độ ngày nay vẫn rất nghèo, nhưng từ khi nhà nước nới lỏng kiểm soát nền kinh tế, đầu tư đổ vào, nhất là vùng Bangalore: nơi tập trung nhiều kỹ sư phần mềm này thu hút nhà đầu tư từ Thung lũng Silicon ở California, bắt đầu hình thành một Thung lũng Silicon mới ở Ấn Độ.
 
@@ -752,9 +761,13 @@ Bản thân cái nghèo không phải điều làm nhà đầu tư e ngại. H�
 
 Nguyên lý đơn giản, nhưng chữ nghĩa và quy tắc kế toán khiến nó có vẻ phức tạp. Nếu người Mỹ mua hàng Nhật nhiều hơn người Nhật mua hàng Mỹ, người Nhật nhận thêm đô la để bù phần chênh lệch. Họ không giữ đô la làm kỷ niệm, vì đô la vô giá trị với họ nếu không tiêu vào việc gì; họ thường quay lại đầu tư vào kinh tế Mỹ, mua tài sản đầu tư (ví dụ tòa nhà Rockefeller Center) thay vì hàng tiêu dùng. Phần lớn trường hợp, tiền không hề rời khỏi nước Mỹ. Xét tổng thể, các giao dịch quốc tế phải cân bằng; nhưng quy ước kế toán chỉ tính hàng xuất, nhập khẩu vào "cán cân thương mại", không tính những thứ không hề di chuyển như Rockefeller Center.
 
-**Ví dụ Honda, Toyota.** Có những năm xe bán chạy nhất ở Mỹ là Honda hay Toyota, trong khi chưa có xe nào của Detroit bán chạy nhất ở Nhật. Kết quả là hãng xe Nhật nhận hàng tỷ đô la và Nhật thường xuất siêu sang Mỹ. Họ dùng số đô la đó, trong số các việc khác, để xây nhà máy ở Mỹ, thuê hàng nghìn công nhân Mỹ làm xe gần khách hàng, khỏi tốn phí chở xe qua Thái Bình Dương. Công nhân Mỹ của họ được trả lương đủ cao để nhiều lần bỏ phiếu kín không gia nhập công đoàn. Ngày 29/7/2002, chiếc Toyota thứ 10 triệu được sản xuất tại Mỹ. Theo Sowell, nhìn vào sự việc thực tế thì chẳng có gì đáng lo; điều làm người ta lo là chữ nghĩa và các quy tắc kế toán tạo ra con số khớp với chữ.
+**Ví dụ Honda, Toyota.** Có những năm xe bán chạy nhất ở Mỹ là Honda hay Toyota, trong khi chưa có xe nào của Detroit bán chạy nhất ở Nhật. Kết quả là hãng xe Nhật nhận hàng tỷ đô la và Nhật thường xuất siêu sang Mỹ.
 
-**Dịch vụ bị bỏ ra ngoài.** Sản lượng của một nước gồm cả hàng hoá lẫn dịch vụ ("nhà và cắt tóc, xúc xích và phẫu thuật", theo cách Sowell liệt kê), nhưng theo Sowell, cán cân thương mại chỉ gồm hàng hoá hữu hình di chuyển. Kinh tế Mỹ sản xuất dịch vụ nhiều hơn hàng hoá, nên chuyện Mỹ nhập siêu hàng hoá và xuất siêu dịch vụ không có gì lạ. Các nước khác dùng bí quyết và công nghệ Mỹ và trả tiền cho việc đó; chẳng hạn phần lớn máy tính cá nhân trên thế giới chạy hệ điều hành của Microsoft. Khoản tiền này không nằm trong cán cân thương mại hàng hoá. Đó chỉ là quy ước kế toán, vậy mà báo chí đưa tin về "cán cân thương mại" của Mỹ như thể bức tranh một phần là toàn bộ, và chữ "thâm hụt" nặng cảm xúc làm dấy lên báo động.
+Họ dùng số đô la đó, trong số các việc khác, để xây nhà máy ở Mỹ, thuê hàng nghìn công nhân Mỹ làm xe gần khách hàng, khỏi tốn phí chở xe qua Thái Bình Dương. Công nhân Mỹ của họ được trả lương đủ cao để nhiều lần bỏ phiếu kín không gia nhập công đoàn. Ngày 29/7/2002, chiếc Toyota thứ 10 triệu được sản xuất tại Mỹ. Theo Sowell, nhìn vào sự việc thực tế thì chẳng có gì đáng lo; điều làm người ta lo là chữ nghĩa và các quy tắc kế toán tạo ra con số khớp với chữ.
+
+**Dịch vụ bị bỏ ra ngoài.** Sản lượng của một nước gồm cả hàng hoá lẫn dịch vụ ("nhà và cắt tóc, xúc xích và phẫu thuật", theo cách Sowell liệt kê), nhưng theo Sowell, cán cân thương mại chỉ gồm hàng hoá hữu hình di chuyển. Kinh tế Mỹ sản xuất dịch vụ nhiều hơn hàng hoá, nên chuyện Mỹ nhập siêu hàng hoá và xuất siêu dịch vụ không có gì lạ.
+
+Các nước khác dùng bí quyết và công nghệ Mỹ và trả tiền cho việc đó; chẳng hạn phần lớn máy tính cá nhân trên thế giới chạy hệ điều hành của Microsoft. Khoản tiền này không nằm trong cán cân thương mại hàng hoá. Đó chỉ là quy ước kế toán, vậy mà báo chí đưa tin về "cán cân thương mại" của Mỹ như thể bức tranh một phần là toàn bộ, và chữ "thâm hụt" nặng cảm xúc làm dấy lên báo động.
 
 | Thu nhập dịch vụ của Mỹ, 2012 | Số liệu |
 |---|---|
@@ -787,7 +800,9 @@ Số liệu đầu tư nước ngoài cũng sinh ra những chữ gây hiểu l�
 | Năm 2012 | Người nước ngoài mua tài sản ở Mỹ nhiều hơn người Mỹ mua ở nước ngoài 400 tỷ USD, lớn hơn GDP của nhiều nước |
 | Nguồn gốc | 60% từ châu Âu, 9% từ Canada, tổng hơn 2/3 |
 
-Nước thịnh vượng đầu tư vào nước thịnh vượng. Nhìn sự việc thực tế, điều này không có gì sai: đầu tư tạo thêm của cải ở Mỹ, thêm việc làm cho công nhân Mỹ, thêm hàng cho người tiêu dùng Mỹ, đồng thời đem thu nhập về cho nhà đầu tư nước ngoài. Nhìn chữ nghĩa, đó là món nợ nước ngoài ngày càng lớn. Kinh tế Mỹ càng thịnh vượng và an toàn, người nước ngoài càng muốn gửi tiền vào, và "thâm hụt" cán cân thanh toán cùng "nợ" quốc tế tích luỹ càng tăng. Vì vậy chẳng có gì lạ khi thời kỳ thịnh vượng kéo dài thập niên 1990 đi kèm thâm hụt và nợ quốc tế kỷ lục: Mỹ là nơi có nhiều cơ hội nhất, và nhiều người nước ngoài muốn tiền của mình ở đó. Sowell thêm rằng hoàn cảnh nước khác có thể khác.
+Nước thịnh vượng đầu tư vào nước thịnh vượng. Nhìn sự việc thực tế, điều này không có gì sai: đầu tư tạo thêm của cải ở Mỹ, thêm việc làm cho công nhân Mỹ, thêm hàng cho người tiêu dùng Mỹ, đồng thời đem thu nhập về cho nhà đầu tư nước ngoài. Nhìn chữ nghĩa, đó là món nợ nước ngoài ngày càng lớn.
+
+Kinh tế Mỹ càng thịnh vượng và an toàn, người nước ngoài càng muốn gửi tiền vào, và "thâm hụt" cán cân thanh toán cùng "nợ" quốc tế tích luỹ càng tăng. Vì vậy chẳng có gì lạ khi thời kỳ thịnh vượng kéo dài thập niên 1990 đi kèm thâm hụt và nợ quốc tế kỷ lục: Mỹ là nơi có nhiều cơ hội nhất, và nhiều người nước ngoài muốn tiền của mình ở đó. Sowell thêm rằng hoàn cảnh nước khác có thể khác.
 
 **Chủ nợ cũng không có gì sai.** Một số nước giàu khác đầu tư ra nước ngoài nhiều hơn nước ngoài đầu tư vào họ: Pháp, Anh, Nhật, mỗi nước chênh hàng trăm tỷ USD. Thụy Sĩ có đầu tư ròng ở nước ngoài lớn hơn cả GDP của mình: là trung tâm tài chính quốc tế, Thụy Sĩ nhận rất nhiều tiền, và nếu trong nước nhỏ bé không đủ cơ hội đầu tư tốt cho số tiền đó thì đem đầu tư ra ngoài là hoàn toàn hợp lý. Làm chủ nợ hay con nợ tự nó không sai; tất cả tuỳ hoàn cảnh, cơ hội và ràng buộc của từng nước. Thâm hụt hay thặng dư quốc tế đều không phải hệ quả tất yếu của thịnh vượng hay nghèo khó.
 
@@ -802,11 +817,15 @@ Nước thịnh vượng đầu tư vào nước thịnh vượng. Nhìn sự vi
 | Pennsylvania Railroad | Hơn 1/2 |
 | Illinois Central | Gần 2/3 |
 
-Ngay cả ngày nay, khi các tập đoàn đa quốc gia Mỹ sở hữu rất nhiều tài sản ở nước ngoài, người nước ngoài vẫn sở hữu ở Mỹ nhiều tài sản hơn người Mỹ sở hữu ở nước ngoài, liên tục hơn một phần tư thế kỷ kể từ năm 1986. Nhà đầu tư nước ngoài sẽ không bao giờ gửi tiền sang Mỹ nếu không mong lấy lại cả lãi và cổ tức; doanh nhân Mỹ cũng không bao giờ nhận trả lãi và cổ tức nếu không mong các khoản đầu tư sinh lời đủ trả mà vẫn còn lợi nhuận. Qua nhiều thế hệ, các khoản đầu tư này phần lớn diễn ra đúng như dự tính, và cũng chính vì thế mà về mặt chính thức Mỹ là con nợ qua nhiều thế hệ. Mỹ chỉ thành chủ nợ nhờ cho các chính phủ châu Âu vay trong Thế chiến thứ nhất; từ đó Mỹ lúc là chủ nợ, lúc là con nợ. Theo Sowell, đó là chi tiết kế toán, không phải yếu tố quyết định sự thịnh vượng hay khó khăn kinh tế của Mỹ.
+Ngay cả ngày nay, khi các tập đoàn đa quốc gia Mỹ sở hữu rất nhiều tài sản ở nước ngoài, người nước ngoài vẫn sở hữu ở Mỹ nhiều tài sản hơn người Mỹ sở hữu ở nước ngoài, liên tục hơn một phần tư thế kỷ kể từ năm 1986.
+
+Nhà đầu tư nước ngoài sẽ không bao giờ gửi tiền sang Mỹ nếu không mong lấy lại cả lãi và cổ tức; doanh nhân Mỹ cũng không bao giờ nhận trả lãi và cổ tức nếu không mong các khoản đầu tư sinh lời đủ trả mà vẫn còn lợi nhuận. Qua nhiều thế hệ, các khoản đầu tư này phần lớn diễn ra đúng như dự tính, và cũng chính vì thế mà về mặt chính thức Mỹ là con nợ qua nhiều thế hệ. Mỹ chỉ thành chủ nợ nhờ cho các chính phủ châu Âu vay trong Thế chiến thứ nhất; từ đó Mỹ lúc là chủ nợ, lúc là con nợ. Theo Sowell, đó là chi tiết kế toán, không phải yếu tố quyết định sự thịnh vượng hay khó khăn kinh tế của Mỹ.
 
 **Không nên phóng đại.** Vốn nước ngoài đóng vai trò lớn ở một số khu vực, nhất là công nghiệp và hạ tầng thời đầu, nhưng với toàn bộ kinh tế Mỹ thế kỷ 19, ước tính nó chỉ tài trợ khoảng 6% tổng hình thành vốn. Đường sắt là ngoại lệ, chiếm đa số tuyệt đối đầu tư nước ngoài vào cổ phiếu và trái phiếu doanh nghiệp Mỹ. Ở các nước khác, vai trò của vốn ngoại lớn hơn nhiều (dù Mỹ nhận nhiều hơn về số tuyệt đối): đầu thế kỷ 20, nhà đầu tư nước ngoài sở hữu 1/5 nền kinh tế Úc và 1/2 nền kinh tế Argentina.
 
-**Không phải trò chơi tổng bằng không.** Cả kinh tế trong nước lẫn kinh tế quốc tế đều không phải quá trình mà người này phải mất thứ người kia được. Khi đầu tư làm kinh tế tăng trưởng, ai cũng có thể thắng, vì "chiếc bánh" lớn hơn và mỗi người có phần lớn hơn. Dòng vốn ngoại lớn góp phần đưa Mỹ thành nước công nghiệp hàng đầu thế giới vào năm 1913, khi Mỹ làm ra hơn 1/3 hàng chế tạo của thế giới. Nhiều nước sợ nhà đầu tư nước ngoài mang đi của cải quốc gia, để lại dân nghèo hơn; nhưng có lẽ không nước nào trong lịch sử bị người nước ngoài mang đi nhiều của cải như Mỹ. Theo lập luận đó, người Mỹ phải thuộc loại nghèo nhất thế giới, chứ không phải luôn có mức sống thuộc loại cao nhất. Lý do là giao dịch kinh tế tạo ra của cải.
+**Không phải trò chơi tổng bằng không.** Cả kinh tế trong nước lẫn kinh tế quốc tế đều không phải quá trình mà người này phải mất thứ người kia được. Khi đầu tư làm kinh tế tăng trưởng, ai cũng có thể thắng, vì "chiếc bánh" lớn hơn và mỗi người có phần lớn hơn. Dòng vốn ngoại lớn góp phần đưa Mỹ thành nước công nghiệp hàng đầu thế giới vào năm 1913, khi Mỹ làm ra hơn 1/3 hàng chế tạo của thế giới.
+
+Nhiều nước sợ nhà đầu tư nước ngoài mang đi của cải quốc gia, để lại dân nghèo hơn; nhưng có lẽ không nước nào trong lịch sử bị người nước ngoài mang đi nhiều của cải như Mỹ. Theo lập luận đó, người Mỹ phải thuộc loại nghèo nhất thế giới, chứ không phải luôn có mức sống thuộc loại cao nhất. Lý do là giao dịch kinh tế tạo ra của cải.
 
 **Khi "nợ" là nợ thật.** Ở một số nước kém may mắn, cùng chữ "nợ" có thể chứa thực chất khác hẳn. Khi xuất khẩu không đủ trả nhập khẩu, lại không có công nghệ cao để bán, chính phủ có thể vay nước khác hay tổ chức quốc tế để bù phần thiếu. Đó là nợ thật và đáng lo thật. Nhưng thâm hụt thương mại hay thanh toán lớn tự nó không tạo ra khủng hoảng, dù lời lẽ chính trị và báo chí có thể biến nó thành chuyện đáng sợ.
 
@@ -823,9 +842,13 @@ Ngay cả ngày nay, khi các tập đoàn đa quốc gia Mỹ sở hữu rất 
 
 Chiều ngược lại cũng vậy: Mỹ là nơi nhận đầu tư quốc tế lớn nhất dù lương công nhân Mỹ cao. Tập đoàn Tata của Ấn Độ mua khách sạn Ritz-Carlton ở Boston và hãng trà Tetley ở Anh, cùng nhiều tài sản quốc tế khác, dù ở các nước phương Tây đó Tata phải trả lương cao hơn nhiều so với ở Ấn Độ.
 
-Sowell đặt câu hỏi: vì sao các doanh nghiệp tìm lợi nhuận lại đầu tư nhiều hơn hẳn vào nơi phải trả lương cao cho công nhân ở các nước công nghiệp giàu, thay vì nơi trả lương thấp cho lao động "xưởng bóc lột" (sweatshop) ở Thế giới thứ ba? Vì sao họ bỏ qua cơ hội được cho là béo bở để "bóc lột" công nhân nghèo nhất? Theo Sowell, "bóc lột" là lời giải thích tiện lợi về trí tuệ, thoả mãn về cảm xúc và có lợi về chính trị cho chênh lệch thu nhập giữa các nước hay giữa các nhóm trong một nước, nhưng nó thiếu một đặc điểm: khớp với dữ kiện về nơi doanh nghiệp đặt phần lớn tiền của mình. Hơn nữa, ngay trong nước nghèo, người nghèo nhất thường là người ít tiếp xúc nhất với doanh nghiệp đa quốc gia, thường vì họ sống xa cảng và các trung tâm kinh doanh.
+Sowell đặt câu hỏi: vì sao các doanh nghiệp tìm lợi nhuận lại đầu tư nhiều hơn hẳn vào nơi phải trả lương cao cho công nhân ở các nước công nghiệp giàu, thay vì nơi trả lương thấp cho lao động "xưởng bóc lột" (sweatshop) ở Thế giới thứ ba? Vì sao họ bỏ qua cơ hội được cho là béo bở để "bóc lột" công nhân nghèo nhất?
 
-Với cách phân bổ đầu tư như vậy, tương đối ít việc làm của doanh nghiệp đa quốc gia Mỹ nằm ở các nước nghèo nhất, nơi cần chúng nhất. Khi doanh nghiệp đa quốc gia có đầu tư vào nước nghèo, đó là vì lương địa phương thấp đủ để bù cho năng suất thấp hơn của công nhân, và/hoặc chi phí vận chuyển cao hơn trong một hệ thống giao thông kém phát triển, và/hoặc tiền hối lộ quan chức mà nhiều nước như vậy đòi. Các nhà cải cách hay phong trào sinh viên ở nước giàu có thể phẫn nộ về lương thấp và điều kiện "xưởng bóc lột". Nhưng nếu họ thành công về chính trị trong việc ép nâng lương và điều kiện làm việc, kết quả ròng có thể là còn ít doanh nghiệp nước ngoài đầu tư vào Thế giới thứ ba hơn và còn ít công nhân ở đó có việc hơn. Vì doanh nghiệp đa quốc gia thường trả khoảng gấp đôi lương địa phương ở nước nghèo, mất các việc làm này có nhiều khả năng làm công nhân nước nghèo khổ hơn, trong khi những "ân nhân" phương Tây tự chúc mừng vì đã chấm dứt "bóc lột".
+Theo Sowell, "bóc lột" là lời giải thích tiện lợi về trí tuệ, thoả mãn về cảm xúc và có lợi về chính trị cho chênh lệch thu nhập giữa các nước hay giữa các nhóm trong một nước, nhưng nó thiếu một đặc điểm: khớp với dữ kiện về nơi doanh nghiệp đặt phần lớn tiền của mình. Hơn nữa, ngay trong nước nghèo, người nghèo nhất thường là người ít tiếp xúc nhất với doanh nghiệp đa quốc gia, thường vì họ sống xa cảng và các trung tâm kinh doanh.
+
+Với cách phân bổ đầu tư như vậy, tương đối ít việc làm của doanh nghiệp đa quốc gia Mỹ nằm ở các nước nghèo nhất, nơi cần chúng nhất. Khi doanh nghiệp đa quốc gia có đầu tư vào nước nghèo, đó là vì lương địa phương thấp đủ để bù cho năng suất thấp hơn của công nhân, và/hoặc chi phí vận chuyển cao hơn trong một hệ thống giao thông kém phát triển, và/hoặc tiền hối lộ quan chức mà nhiều nước như vậy đòi.
+
+Các nhà cải cách hay phong trào sinh viên ở nước giàu có thể phẫn nộ về lương thấp và điều kiện "xưởng bóc lột". Nhưng nếu họ thành công về chính trị trong việc ép nâng lương và điều kiện làm việc, kết quả ròng có thể là còn ít doanh nghiệp nước ngoài đầu tư vào Thế giới thứ ba hơn và còn ít công nhân ở đó có việc hơn. Vì doanh nghiệp đa quốc gia thường trả khoảng gấp đôi lương địa phương ở nước nghèo, mất các việc làm này có nhiều khả năng làm công nhân nước nghèo khổ hơn, trong khi những "ân nhân" phương Tây tự chúc mừng vì đã chấm dứt "bóc lột".
 
 ### 6. Kiều hối và vốn con người (Remittances and Human Capital), tiểu mục con "Remittances"
 
@@ -833,7 +856,9 @@ Ngay trong thời đại đầu tư quốc tế lên tới hàng nghìn tỷ USD
 
 Người di cư làm việc ở nước ngoài thường gửi tiền về nuôi gia đình. Thế kỷ 19 và đầu thế kỷ 20, đàn ông Ý di cư nổi tiếng vì chịu điều kiện sống tồi tệ ở nhiều nước, thậm chí nhịn ăn, để gửi tiền về cho gia đình ở Ý. Phần lớn người Ireland chạy nạn đói thập niên 1840 vượt Đại Tây Dương bằng vé do người thân đã ở Mỹ trả tiền; người Do Thái từ Đông Âu sang Mỹ những năm sau cũng vậy. Ở thế kỷ 21, kiều hối là một trong các nguồn tiền chính từ bên ngoài chảy vào nước nghèo: năm 2009, kiều hối toàn cầu tới các nước này lớn hơn 2,5 lần tổng viện trợ nước ngoài.
 
-**Cáo buộc kiều hối làm nghèo nước sở tại.** Từng có thời Hoa kiều ở Malaysia, Indonesia và các nước Đông Nam Á khác nổi tiếng vì gửi tiền về cho gia đình ở Trung Quốc. Chính trị gia và nhà báo ở các nước này thường kích động thù ghét người Hoa bằng cách nói kiều hối làm nghèo nước sở tại để làm lợi cho Trung Quốc. Thực tế, người Hoa đã lập nhiều doanh nghiệp, có khi cả ngành công nghiệp, ở các nước Đông Nam Á; thứ họ gửi về chỉ là một phần của cải họ đã tạo ra và đóng góp thêm cho nước họ đang sống. Cáo buộc tương tự được nhắm vào người Lebanon ở Tây Phi, người Ấn Độ và Pakistan ở Đông Phi và nhiều nhóm khác. Ngộ nhận chung trong mọi trường hợp là bỏ qua của cải các nhóm này tạo ra, nên không thấy rằng nước tiếp nhận có nhiều của cải hơn, chứ không ít hơn, nhờ họ có mặt. Đôi khi sự thù ghét khiến các nhóm này bỏ đi hoặc bị trục xuất, thường kéo theo suy thoái kinh tế ở nước họ rời đi.
+**Cáo buộc kiều hối làm nghèo nước sở tại.** Từng có thời Hoa kiều ở Malaysia, Indonesia và các nước Đông Nam Á khác nổi tiếng vì gửi tiền về cho gia đình ở Trung Quốc. Chính trị gia và nhà báo ở các nước này thường kích động thù ghét người Hoa bằng cách nói kiều hối làm nghèo nước sở tại để làm lợi cho Trung Quốc.
+
+Thực tế, người Hoa đã lập nhiều doanh nghiệp, có khi cả ngành công nghiệp, ở các nước Đông Nam Á; thứ họ gửi về chỉ là một phần của cải họ đã tạo ra và đóng góp thêm cho nước họ đang sống. Cáo buộc tương tự được nhắm vào người Lebanon ở Tây Phi, người Ấn Độ và Pakistan ở Đông Phi và nhiều nhóm khác. Ngộ nhận chung trong mọi trường hợp là bỏ qua của cải các nhóm này tạo ra, nên không thấy rằng nước tiếp nhận có nhiều của cải hơn, chứ không ít hơn, nhờ họ có mặt. Đôi khi sự thù ghét khiến các nhóm này bỏ đi hoặc bị trục xuất, thường kéo theo suy thoái kinh tế ở nước họ rời đi.
 
 ### 7. Người xuất cư và người nhập cư (Emigrants and Immigrants)
 
@@ -852,13 +877,21 @@ Sowell coi các nhóm nhập cư, thường chạy trốn đàn áp hay nghèo �
 
 Mỹ Latinh có lẽ còn phụ thuộc vào người nhập cư nhiều hơn, nhất là người đến từ các nước khác ngoài Tây Ban Nha và Bồ Đào Nha (hai nước chinh phục đã lập ra các quốc gia Mỹ Latinh). Theo sử gia Pháp Fernand Braudel, chính những người nhập cư này đã tạo ra Brazil hiện đại, Argentina hiện đại, Chile hiện đại. Danh sách các nhóm người nước ngoài từng sở hữu hay điều hành hơn một nửa một số ngành ở một số nước gồm: người Lebanon ở Tây Phi, người Hy Lạp ở Đế quốc Ottoman, người Đức ở Brazil, người Ấn Độ ở Fiji, người Anh ở Argentina, người Bỉ ở Nga, người Hoa ở Malaysia và nhiều nhóm khác. Đây không chỉ là chuyện quá khứ: 4/5 tiệm bánh doughnut ở California do người gốc Campuchia làm chủ.
 
-**Mất mát vì người ra đi.** Trong lịch sử, thiệt hại kinh tế của một nước vì người dân ra đi cũng lớn như cái được từ người nhập cư. Sau khi người Morisco (người gốc Hồi giáo đã cải đạo) bị trục xuất khỏi Tây Ban Nha đầu thế kỷ 17, một giáo sĩ Tây Ban Nha hỏi: "Giờ ai sẽ đóng giày cho chúng ta?" Sowell nhận xét câu đó lẽ ra nên được hỏi trước khi trục xuất, nhất là khi chính giáo sĩ này đã ủng hộ việc trục xuất. Một số nước xuất khẩu vốn con người với quy mô lớn khi thanh niên có học bỏ đi vì nước khác cho cơ hội tốt hơn: theo *The Economist*, hơn 60% người tốt nghiệp cao đẳng, đại học của Fiji, Trinidad, Haiti, Jamaica và Guyana đã sang sống ở các nước thuộc Tổ chức Hợp tác và Phát triển Kinh tế (OECD); riêng Guyana là 83%. Dù vốn con người khó định lượng, ra đi với quy mô như vậy là mất mát nghiêm trọng về của cải quốc gia. Ví dụ nổi bật nhất là Đức Quốc xã: chính sách bài Do Thái khiến nhiều nhà khoa học Do Thái chạy sang Mỹ, nơi họ góp phần lớn giúp Mỹ thành nước đầu tiên có bom nguyên tử; đồng minh của Đức là Nhật Bản sau đó phải trả giá còn đắt hơn (Nhật là nước hứng bom nguyên tử) cho chính sách đã gây ra làn sóng ra đi của người Do Thái khỏi châu Âu dưới ách Quốc xã.
+**Mất mát vì người ra đi.** Trong lịch sử, thiệt hại kinh tế của một nước vì người dân ra đi cũng lớn như cái được từ người nhập cư. Sau khi người Morisco (người gốc Hồi giáo đã cải đạo) bị trục xuất khỏi Tây Ban Nha đầu thế kỷ 17, một giáo sĩ Tây Ban Nha hỏi: "Giờ ai sẽ đóng giày cho chúng ta?" Sowell nhận xét câu đó lẽ ra nên được hỏi trước khi trục xuất, nhất là khi chính giáo sĩ này đã ủng hộ việc trục xuất.
 
-**Không chỉ có mặt tích cực.** Sowell cảnh báo rằng đánh giá tác động kinh tế của nhập cư chỉ qua đóng góp tích cực là sai lệch. Người nhập cư cũng mang theo bệnh tật, tội phạm, xung đột nội bộ và khủng bố. Và không thể gộp mọi người nhập cư làm một: ở Mỹ, chỉ 2% người nhập cư từ Nhật nhận trợ cấp xã hội, trong khi tỷ lệ này ở người nhập cư từ Lào là 46%. Có chênh lệch tương tự về tỷ lệ tội phạm và các yếu tố tích cực, tiêu cực khác mà người nhập cư từ các nước khác nhau mang tới Mỹ và các nước khác. Nga và Nigeria thường bị xếp trong số nước tham nhũng nhất thế giới, và người nhập cư từ hai nước này nổi tiếng về hoạt động tội phạm ở Mỹ. Mọi thứ tuỳ thuộc vào đang nói về người nhập cư nào, nước nào và thời kỳ nào.
+Một số nước xuất khẩu vốn con người với quy mô lớn khi thanh niên có học bỏ đi vì nước khác cho cơ hội tốt hơn: theo *The Economist*, hơn 60% người tốt nghiệp cao đẳng, đại học của Fiji, Trinidad, Haiti, Jamaica và Guyana đã sang sống ở các nước thuộc Tổ chức Hợp tác và Phát triển Kinh tế (OECD); riêng Guyana là 83%. Dù vốn con người khó định lượng, ra đi với quy mô như vậy là mất mát nghiêm trọng về của cải quốc gia.
+
+Ví dụ nổi bật nhất là Đức Quốc xã: chính sách bài Do Thái khiến nhiều nhà khoa học Do Thái chạy sang Mỹ, nơi họ góp phần lớn giúp Mỹ thành nước đầu tiên có bom nguyên tử; đồng minh của Đức là Nhật Bản sau đó phải trả giá còn đắt hơn (Nhật là nước hứng bom nguyên tử) cho chính sách đã gây ra làn sóng ra đi của người Do Thái khỏi châu Âu dưới ách Quốc xã.
+
+**Không chỉ có mặt tích cực.** Sowell cảnh báo rằng đánh giá tác động kinh tế của nhập cư chỉ qua đóng góp tích cực là sai lệch. Người nhập cư cũng mang theo bệnh tật, tội phạm, xung đột nội bộ và khủng bố.
+
+Và không thể gộp mọi người nhập cư làm một: ở Mỹ, chỉ 2% người nhập cư từ Nhật nhận trợ cấp xã hội, trong khi tỷ lệ này ở người nhập cư từ Lào là 46%. Có chênh lệch tương tự về tỷ lệ tội phạm và các yếu tố tích cực, tiêu cực khác mà người nhập cư từ các nước khác nhau mang tới Mỹ và các nước khác. Nga và Nigeria thường bị xếp trong số nước tham nhũng nhất thế giới, và người nhập cư từ hai nước này nổi tiếng về hoạt động tội phạm ở Mỹ. Mọi thứ tuỳ thuộc vào đang nói về người nhập cư nào, nước nào và thời kỳ nào.
 
 ### 8. Chủ nghĩa đế quốc (Imperialism)
 
-Cướp bóc giữa các nước, các dân tộc là chuyện quá phổ biến trong lịch sử. Nhưng dù đế quốc là một cách chuyển của cải từ nước này sang nước khác, nó còn có những lý do phi kinh tế, nên được duy trì cả khi làm nước chinh phục lỗ ròng. Giới quân sự muốn căn cứ chiến lược, như căn cứ của Anh ở Gibraltar hay căn cứ của Mỹ ở vịnh Guantanamo (Cuba). Thế kỷ 19, các nhà truyền giáo thúc chính phủ Anh nắm quyền kiểm soát nhiều nước châu Phi nơi họ đang truyền đạo; các bộ trưởng tài chính Anh thường phản đối, vì họ hiểu Anh sẽ không bao giờ thu được từ những nước nghèo này đủ của cải để bù chi phí lập và duy trì chính quyền thuộc địa. Một số cá nhân như Cecil Rhodes giàu lên ở châu Phi, nhưng chi phí của người nộp thuế Anh còn lớn hơn cả gia tài khổng lồ của Rhodes.
+Cướp bóc giữa các nước, các dân tộc là chuyện quá phổ biến trong lịch sử. Nhưng dù đế quốc là một cách chuyển của cải từ nước này sang nước khác, nó còn có những lý do phi kinh tế, nên được duy trì cả khi làm nước chinh phục lỗ ròng. Giới quân sự muốn căn cứ chiến lược, như căn cứ của Anh ở Gibraltar hay căn cứ của Mỹ ở vịnh Guantanamo (Cuba).
+
+Thế kỷ 19, các nhà truyền giáo thúc chính phủ Anh nắm quyền kiểm soát nhiều nước châu Phi nơi họ đang truyền đạo; các bộ trưởng tài chính Anh thường phản đối, vì họ hiểu Anh sẽ không bao giờ thu được từ những nước nghèo này đủ của cải để bù chi phí lập và duy trì chính quyền thuộc địa. Một số cá nhân như Cecil Rhodes giàu lên ở châu Phi, nhưng chi phí của người nộp thuế Anh còn lớn hơn cả gia tài khổng lồ của Rhodes.
 
 Đế quốc châu Âu hiện đại ấn tượng về diện tích hơn là về giá trị kinh tế. Ở đỉnh cao đầu thế kỷ 20, Tây Âu chiếm chưa tới 2% diện tích đất thế giới nhưng kiểm soát thêm 40% qua các đế quốc hải ngoại. Thế nhưng phần lớn các nước công nghiệp lớn chỉ gửi một tỷ lệ rất nhỏ hàng xuất khẩu và vốn đầu tư tới thuộc địa ở Thế giới thứ ba, và hàng nhập từ đó cũng rất nhỏ so với những gì họ tự sản xuất hay nhập từ các nước công nghiệp khác.
 
@@ -873,11 +906,19 @@ Cướp bóc giữa các nước, các dân tộc là chuyện quá phổ biến
 
 Bằng chứng mạnh nhất chống lại tầm quan trọng kinh tế của thuộc địa trong thế giới hiện đại là Đức và Nhật mất toàn bộ thuộc địa và đất chiếm được sau thất bại trong Thế chiến thứ hai, rồi cả hai đạt mức thịnh vượng chưa từng có. Trước chiến tranh, "cần thuộc địa" là khẩu hiệu chính trị rất hiệu quả ở Nhật, nước rất ít tài nguyên. Nhưng sau khi giấc mơ vinh quang quân sự kết thúc bằng thất bại và tàn phá, Nhật chỉ đơn giản mua tài nguyên cần thiết từ các nước có, và giàu lên nhờ đó. Kết luận của Sowell: đế quốc thường gây nhiều đau khổ cho dân bị chinh phục, nhưng ít nhất trong thế giới công nghiệp hiện đại, nó hiếm khi là nguồn dịch chuyển của cải quốc tế quan trọng.
 
-**Thuyết "bóc lột" quốc tế.** Trong khi nhà đầu tư chủ yếu đầu tư vào các nước thịnh vượng hơn, làm cả mình và các nước đó giàu thêm, một số người lại mô tả đầu tư vào nước nghèo như thứ làm nước nghèo nghèo thêm. Cuốn *Imperialism* của Lenin áp khái niệm "bóc lột" của Marx ra phạm vi quốc tế, coi đầu tư của nước công nghiệp vào nước phi công nghiệp về kinh tế tương đương với cướp bóc của các đế quốc thời trước. Bi kịch là chính những nước kém phát triển có ít hoặc không có đầu tư nước ngoài lại là nơi nghèo đói nặng nhất. Tương tự, các nước nghèo có thương mại quốc tế chiếm tỷ trọng nhỏ trong nền kinh tế thường tăng trưởng chậm hơn các nước nghèo mà thương mại quốc tế đóng vai trò lớn; trong thập niên 1990, nhóm thứ nhất có kinh tế suy giảm, còn nhóm "toàn cầu hoá" nhiều hơn thì tăng trưởng.
+**Thuyết "bóc lột" quốc tế.** Trong khi nhà đầu tư chủ yếu đầu tư vào các nước thịnh vượng hơn, làm cả mình và các nước đó giàu thêm, một số người lại mô tả đầu tư vào nước nghèo như thứ làm nước nghèo nghèo thêm. Cuốn *Imperialism* của Lenin áp khái niệm "bóc lột" của Marx ra phạm vi quốc tế, coi đầu tư của nước công nghiệp vào nước phi công nghiệp về kinh tế tương đương với cướp bóc của các đế quốc thời trước.
 
-Người giàu ở nước nghèo thường đầu tư vào nước giàu, nơi tiền của họ an toàn hơn trước biến động chính trị và tịch thu. Trớ trêu là như vậy nước nghèo đang giúp nước công nghiệp giàu thêm. Trong khi đó, dưới ảnh hưởng của các thuyết đế quốc kinh tế coi đầu tư quốc tế là cướp bóc, chính phủ nhiều nước nghèo theo đuổi chính sách cản trở người nước ngoài đầu tư vào nước mình. Tới cuối thế kỷ 20, hậu quả đau đớn của các chính sách này đã đủ rõ với nhiều người ở Thế giới thứ ba, và một số chính phủ (ví dụ ở Mỹ Latinh và Ấn Độ) bắt đầu từ bỏ chúng để hưởng một phần lợi ích mà các nước khác đã có khi thoát nghèo nhờ đầu tư từ doanh nghiệp nước ngoài. Sowell viết rằng thực tế kinh tế cuối cùng đã thắng tầm nhìn ý thức hệ, dù nhiều thế hệ đã chịu thiếu thốn không cần thiết trước đó. Khi thị trường các nước này mở cửa cho hàng hoá và đầu tư nước ngoài, cả hai đều đổ vào. Đầu tư của nước giàu vào nước nghèo có vẻ nhỏ so với đầu tư vào nước giàu khác, nhưng lại rất lớn trong lòng Thế giới thứ ba, chính vì các nước này nghèo: doanh nghiệp nước ngoài sở hữu 27% doanh nghiệp ở Mỹ Latinh năm 1991, và 39% một thập kỷ sau.
+Bi kịch là chính những nước kém phát triển có ít hoặc không có đầu tư nước ngoài lại là nơi nghèo đói nặng nhất. Tương tự, các nước nghèo có thương mại quốc tế chiếm tỷ trọng nhỏ trong nền kinh tế thường tăng trưởng chậm hơn các nước nghèo mà thương mại quốc tế đóng vai trò lớn; trong thập niên 1990, nhóm thứ nhất có kinh tế suy giảm, còn nhóm "toàn cầu hoá" nhiều hơn thì tăng trưởng.
 
-**Ngộ nhận coi kinh tế là trò chơi tổng bằng không.** Nhiều ngộ nhận kinh tế xuất phát từ việc coi hoạt động kinh tế là trò chơi tổng bằng không, và điều đó lại thường do bỏ qua việc của cải được tạo ra trong quá trình hoạt động kinh tế. Nếu việc trả tiền cho nhà đầu tư nước ngoài làm một nước nghèo đi, Mỹ phải là một trong những nước nghèo nhất thế giới, vì năm 2012 người nước ngoài mang ra khỏi kinh tế Mỹ 543 tỷ USD, hơn GDP của Argentina hay Na Uy. Phần lớn số tiền này là thu nhập từ tài sản người nước ngoài sở hữu ở Mỹ, nên người Mỹ đã hưởng lợi từ của cải mà các tài sản đó góp phần tạo ra, và chỉ đang chia một phần của cải tăng thêm đó cho những người ở nước ngoài đã góp phần tạo ra nó.
+Người giàu ở nước nghèo thường đầu tư vào nước giàu, nơi tiền của họ an toàn hơn trước biến động chính trị và tịch thu. Trớ trêu là như vậy nước nghèo đang giúp nước công nghiệp giàu thêm. Trong khi đó, dưới ảnh hưởng của các thuyết đế quốc kinh tế coi đầu tư quốc tế là cướp bóc, chính phủ nhiều nước nghèo theo đuổi chính sách cản trở người nước ngoài đầu tư vào nước mình.
+
+Tới cuối thế kỷ 20, hậu quả đau đớn của các chính sách này đã đủ rõ với nhiều người ở Thế giới thứ ba, và một số chính phủ (ví dụ ở Mỹ Latinh và Ấn Độ) bắt đầu từ bỏ chúng để hưởng một phần lợi ích mà các nước khác đã có khi thoát nghèo nhờ đầu tư từ doanh nghiệp nước ngoài. Sowell viết rằng thực tế kinh tế cuối cùng đã thắng tầm nhìn ý thức hệ, dù nhiều thế hệ đã chịu thiếu thốn không cần thiết trước đó.
+
+Khi thị trường các nước này mở cửa cho hàng hoá và đầu tư nước ngoài, cả hai đều đổ vào. Đầu tư của nước giàu vào nước nghèo có vẻ nhỏ so với đầu tư vào nước giàu khác, nhưng lại rất lớn trong lòng Thế giới thứ ba, chính vì các nước này nghèo: doanh nghiệp nước ngoài sở hữu 27% doanh nghiệp ở Mỹ Latinh năm 1991, và 39% một thập kỷ sau.
+
+**Ngộ nhận coi kinh tế là trò chơi tổng bằng không.** Nhiều ngộ nhận kinh tế xuất phát từ việc coi hoạt động kinh tế là trò chơi tổng bằng không, và điều đó lại thường do bỏ qua việc của cải được tạo ra trong quá trình hoạt động kinh tế. Nếu việc trả tiền cho nhà đầu tư nước ngoài làm một nước nghèo đi, Mỹ phải là một trong những nước nghèo nhất thế giới, vì năm 2012 người nước ngoài mang ra khỏi kinh tế Mỹ 543 tỷ USD, hơn GDP của Argentina hay Na Uy.
+
+Phần lớn số tiền này là thu nhập từ tài sản người nước ngoài sở hữu ở Mỹ, nên người Mỹ đã hưởng lợi từ của cải mà các tài sản đó góp phần tạo ra, và chỉ đang chia một phần của cải tăng thêm đó cho những người ở nước ngoài đã góp phần tạo ra nó.
 
 **Bất bình đẳng giữa các nước.** Một biến thể của thuyết bóc lột cho rằng thương mại quốc tế tự do làm tăng bất bình đẳng giữa nước giàu và nước nghèo. Bằng chứng được dẫn là số liệu Ngân hàng Thế giới:
 
@@ -902,11 +943,15 @@ Lúc đó, sự lớn mạnh của khu công nghiệp quốc doanh Liên Xô đ�
 
 "Viện trợ nước ngoài" là của cải do các tổ chức chính phủ nước ngoài và tổ chức quốc tế chuyển cho chính phủ các nước nghèo. Chữ "viện trợ" đã giả định sẵn rằng các khoản chuyển này sẽ giúp kinh tế nước nghèo phát triển. Có khi đúng vậy, nhưng có khi viện trợ chỉ giúp chính trị gia đương quyền làm giàu qua tham nhũng và ban phát có tính toán chính trị cho những người giúp họ giữ ghế. Vì là của cải chuyển cho chính phủ, khác với đầu tư vào doanh nghiệp tư nhân, viện trợ đã khuyến khích nhiều nước lập doanh nghiệp nhà nước rồi thất bại, hoặc xây cung điện, quảng trường và những thứ nhằm gây ấn tượng với người nhìn thay vì sản xuất ra thứ nâng mức sống vật chất của nước nhận.
 
-**Kế hoạch Marshall.** Chương trình viện trợ nổi tiếng nhất có lẽ là Kế hoạch Marshall, chuyển của cải từ Mỹ sang các nước Tây Âu sau Thế chiến thứ hai. Nó thành công hơn nhiều so với các lần bắt chước sau này ở Thế giới thứ ba. Khó khăn của Tây Âu do tàn phá vật chất của chiến tranh; khi dân được ăn và hạ tầng được xây lại, Tây Âu đơn giản trở lại lối sống công nghiệp đã có trước đó, thậm chí chính họ đã khai phá ra. Điều đó khác hẳn việc tạo ra toàn bộ kỹ năng công nghiệp còn thiếu ở các nước nghèo phi công nghiệp. Thứ cần dựng lại ở châu Âu là vốn vật chất; thứ cần tạo ra ở phần lớn Thế giới thứ ba là vốn con người. Việc sau khó hơn nhiều, cũng như vô số kỹ năng cần cho một nền kinh tế hiện đại đã mất hàng thế kỷ để hình thành ở châu Âu.
+**Kế hoạch Marshall.** Chương trình viện trợ nổi tiếng nhất có lẽ là Kế hoạch Marshall, chuyển của cải từ Mỹ sang các nước Tây Âu sau Thế chiến thứ hai. Nó thành công hơn nhiều so với các lần bắt chước sau này ở Thế giới thứ ba.
+
+Khó khăn của Tây Âu do tàn phá vật chất của chiến tranh; khi dân được ăn và hạ tầng được xây lại, Tây Âu đơn giản trở lại lối sống công nghiệp đã có trước đó, thậm chí chính họ đã khai phá ra. Điều đó khác hẳn việc tạo ra toàn bộ kỹ năng công nghiệp còn thiếu ở các nước nghèo phi công nghiệp. Thứ cần dựng lại ở châu Âu là vốn vật chất; thứ cần tạo ra ở phần lớn Thế giới thứ ba là vốn con người. Việc sau khó hơn nhiều, cũng như vô số kỹ năng cần cho một nền kinh tế hiện đại đã mất hàng thế kỷ để hình thành ở châu Âu.
 
 **Không có sàng lọc lời lỗ.** Ngay cả những thất bại lớn, dễ thấy và những kết quả phản tác dụng cũng không làm viện trợ dừng lại; viện trợ vẫn tiếp tục và mở rộng. Vì các cơ quan như IMF và Ngân hàng Thế giới phân phát những khoản tiền rất lớn, quan chức của các cơ quan này có ảnh hưởng rất lớn lên chính phủ nước nghèo, bất kể các chương trình họ đề xuất hay áp làm điều kiện nhận tiền thành công hay thất bại. Nói gọn, người phát viện trợ không chịu một thước đo lời lỗ (bottom line) nào buộc họ xác định hành động, chính sách, tổ chức hay cá nhân nào sẽ sống sót qua quá trình sàng lọc mà cạnh tranh trên thị trường tạo ra.
 
-**Các hình thức khác.** Ngoài viện trợ của các tổ chức quốc tế còn có tiền không hoàn lại trực tiếp giữa các chính phủ, lương thực miễn phí, và các khoản vay với điều kiện dễ hơn thị trường tài chính, thỉnh thoảng được "xoá", để vỡ nợ, hay "đảo nợ" bằng tiền từ khoản vay mới lớn hơn. Các khoản vay của chính phủ Mỹ cho chính phủ Ấn Độ và của chính phủ Anh cho nhiều chính phủ Thế giới thứ ba đã bị huỷ, biến khoản vay thành quà tặng. Có khi một nước giàu bao cấp nặng cả một xã hội nghèo, như Mỹ ở Micronesia: viện trợ đổ vào nhiều tới mức nhiều người Micronesia bỏ các nghề họ từng tự nuôi sống như đánh cá và làm ruộng. Nếu một ngày Mỹ ngừng viện trợ, chưa chắc các kỹ năng và kinh nghiệm cũ còn đủ phổ biến ở các thế hệ sau để người Micronesia tự túc trở lại.
+**Các hình thức khác.** Ngoài viện trợ của các tổ chức quốc tế còn có tiền không hoàn lại trực tiếp giữa các chính phủ, lương thực miễn phí, và các khoản vay với điều kiện dễ hơn thị trường tài chính, thỉnh thoảng được "xoá", để vỡ nợ, hay "đảo nợ" bằng tiền từ khoản vay mới lớn hơn. Các khoản vay của chính phủ Mỹ cho chính phủ Ấn Độ và của chính phủ Anh cho nhiều chính phủ Thế giới thứ ba đã bị huỷ, biến khoản vay thành quà tặng.
+
+Có khi một nước giàu bao cấp nặng cả một xã hội nghèo, như Mỹ ở Micronesia: viện trợ đổ vào nhiều tới mức nhiều người Micronesia bỏ các nghề họ từng tự nuôi sống như đánh cá và làm ruộng. Nếu một ngày Mỹ ngừng viện trợ, chưa chắc các kỹ năng và kinh nghiệm cũ còn đủ phổ biến ở các thế hệ sau để người Micronesia tự túc trở lại.
 
 **Khó đánh giá kết quả ròng.** Thành công của viện trợ thường được cơ quan tài trợ quảng bá, thất bại thường được người phê phán quảng bá, nên kết quả ròng không hiển nhiên. Peter Bauer (Trường Kinh tế London), một trong những nhà kinh tế phát triển hàng đầu thời ông, cho rằng nhìn chung viện trợ chính thức dễ làm chậm phát triển hơn là thúc đẩy nó. Theo Sowell, dù chấp nhận hay bác bỏ kết luận gây tranh cãi đó, điều cơ bản hơn là không để chữ "viện trợ nước ngoài" ngầm khẳng định một kết quả mà dữ kiện và phân tích có thể không chứng minh được. Chữ "nước đang phát triển" cũng vậy: các nước nghèo này có thể không phát triển nhanh bằng nước giàu, và một số còn thụt lùi qua nhiều năm.
 
@@ -921,7 +966,11 @@ Lúc đó, sự lớn mạnh của khu công nghiệp quốc doanh Liên Xô đ�
 
 Nói cách khác, nhiều nước nghèo đã tạo ra lượng lớn của cải vật chất nhưng không được pháp luật công nhận, nên không dùng được để vay ngân hàng hay gọi vốn từ nhà đầu tư, như của cải hiện có vẫn được dùng để xây thêm doanh nghiệp ở những nước có hệ thống quyền sở hữu vận hành tốt hơn.
 
-Hậu quả có thể rất sâu, vì những nút thắt pháp lý này giữ cho rất nhiều doanh nghiệp, tổng cộng là một khối của cải khổng lồ, mãi ở quy mô nhỏ ban đầu. Nhiều tập đoàn khổng lồ của Mỹ bắt đầu từ doanh nghiệp rất nhỏ, không khác mấy những doanh nghiệp đầy rẫy ở Thế giới thứ ba ngày nay: người sáng lập Levi's, Macy's, Saks và Bloomingdale's đều khởi đầu là người bán rong. Doanh nghiệp nhỏ có thể khởi sự bằng tiền tiết kiệm của chủ hay vay người thân, bạn bè, nhưng muốn thành tập đoàn lớn thường phải huy động tiền của vô số người lạ sẵn lòng làm nhà đầu tư. Hệ thống quyền sở hữu cho phép điều đó chưa dễ tiếp cận với người bình thường ở Thế giới thứ ba như với người bình thường ở Mỹ. Một ngân hàng Mỹ không muốn đầu tư vào doanh nghiệp nhỏ vẫn có thể cho chủ doanh nghiệp vay nếu thế chấp nhà, nhưng trước hết căn nhà phải được pháp luật công nhận là tài sản của người đi vay. Khi doanh nghiệp thành công lớn, những người lạ khác có thể cho vay dựa trên tài sản ngày càng lớn của nó hay mua cổ phần. Tất cả dựa trên một hệ thống quyền sở hữu đáng tin và dễ tiếp cận, hệ thống có thể huy động trong một nước, dù là nước nghèo, nhiều của cải hơn hẳn mọi khoản có thể được chuyển từ nước khác hay từ các tổ chức như Ngân hàng Thế giới và IMF.
+Hậu quả có thể rất sâu, vì những nút thắt pháp lý này giữ cho rất nhiều doanh nghiệp, tổng cộng là một khối của cải khổng lồ, mãi ở quy mô nhỏ ban đầu. Nhiều tập đoàn khổng lồ của Mỹ bắt đầu từ doanh nghiệp rất nhỏ, không khác mấy những doanh nghiệp đầy rẫy ở Thế giới thứ ba ngày nay: người sáng lập Levi's, Macy's, Saks và Bloomingdale's đều khởi đầu là người bán rong.
+
+Doanh nghiệp nhỏ có thể khởi sự bằng tiền tiết kiệm của chủ hay vay người thân, bạn bè, nhưng muốn thành tập đoàn lớn thường phải huy động tiền của vô số người lạ sẵn lòng làm nhà đầu tư. Hệ thống quyền sở hữu cho phép điều đó chưa dễ tiếp cận với người bình thường ở Thế giới thứ ba như với người bình thường ở Mỹ.
+
+Một ngân hàng Mỹ không muốn đầu tư vào doanh nghiệp nhỏ vẫn có thể cho chủ doanh nghiệp vay nếu thế chấp nhà, nhưng trước hết căn nhà phải được pháp luật công nhận là tài sản của người đi vay. Khi doanh nghiệp thành công lớn, những người lạ khác có thể cho vay dựa trên tài sản ngày càng lớn của nó hay mua cổ phần. Tất cả dựa trên một hệ thống quyền sở hữu đáng tin và dễ tiếp cận, hệ thống có thể huy động trong một nước, dù là nước nghèo, nhiều của cải hơn hẳn mọi khoản có thể được chuyển từ nước khác hay từ các tổ chức như Ngân hàng Thế giới và IMF.
 
 **Đo mức giúp đỡ cho đúng.** Nhiều người đánh giá một nước giúp nước nghèo bao nhiêu bằng số tiền tuyệt đối chính phủ nước đó chuyển, hoặc bằng tỷ lệ phần trăm thu nhập quốc dân được chuyển dưới dạng viện trợ giữa các chính phủ. Nhưng ước tính 90% của cải Mỹ chuyển tới nước nghèo là từ thiện tư nhân, đầu tư kinh doanh, hay kiều hối của người từ Thế giới thứ ba sống ở Mỹ.
 
@@ -942,9 +991,15 @@ Của cải có thể chuyển giữa các nước dưới dạng hàng hoá và
 
 Khi tỷ giá dao động, ai tham gia giao dịch quốc tế cũng trở thành người đầu cơ. Ngay cả du khách Mỹ mua quà lưu niệm ở Mexico cũng phải chờ hoá đơn thẻ tín dụng mới biết món đồ trả 30 peso tốn bao nhiêu đô la, có thể nhiều hơn hoặc ít hơn họ nghĩ. Với hàng triệu đô la đầu tư ra nước ngoài, ổn định tiền tệ cực kỳ quan trọng, không chỉ với người có tiền trực tiếp liên quan mà để duy trì các dòng thương mại và đầu tư ảnh hưởng tới đời sống vật chất của dân chúng các nước liên quan.
 
-**Chế độ bản vị vàng.** Thời bản vị vàng, bắt đầu tan rã trong Thế chiến thứ nhất và chấm dứt trong Đại suy thoái thập niên 1930, nhiều nước định đồng tiền của mình bằng một lượng vàng nhất định. Một đô la Mỹ, chẳng hạn, luôn đổi được một lượng vàng cố định từ chính phủ Mỹ, cho cả người Mỹ lẫn người nước ngoài. Vì vậy nhà đầu tư nước ngoài bỏ tiền vào kinh tế Mỹ biết trước mình có thể trông vào việc nhận lại bao nhiêu nếu khoản đầu tư thành công. Sowell cho rằng điều này hẳn góp phần lớn vào dòng vốn khổng lồ từ châu Âu đổ vào Mỹ, giúp Mỹ thành nước công nghiệp hàng đầu thế giới. Các nước khác cho đổi tiền ra vàng theo lượng cố định cũng làm nền kinh tế mình an toàn hơn cho nhà đầu tư trong và ngoài nước, và đồng tiền của họ tự động cố định với đô la và đồng tiền các nước khác dùng bản vị vàng. Nhà kinh tế tiền tệ đoạt giải Nobel Robert Mundell nói các đồng tiền khi đó chỉ là tên gọi của những khối lượng vàng nhất định; nhà tài phiệt J.P. Morgan có thể nói "tiền là vàng, không gì khác". Điều này giảm rủi ro mua bán, đầu tư với các nước dùng bản vị vàng, vì dao động tỷ giá không là mối đe doạ như khi giao dịch với các nước khác.
+**Chế độ bản vị vàng.** Thời bản vị vàng, bắt đầu tan rã trong Thế chiến thứ nhất và chấm dứt trong Đại suy thoái thập niên 1930, nhiều nước định đồng tiền của mình bằng một lượng vàng nhất định. Một đô la Mỹ, chẳng hạn, luôn đổi được một lượng vàng cố định từ chính phủ Mỹ, cho cả người Mỹ lẫn người nước ngoài. Vì vậy nhà đầu tư nước ngoài bỏ tiền vào kinh tế Mỹ biết trước mình có thể trông vào việc nhận lại bao nhiêu nếu khoản đầu tư thành công.
 
-**Sau bản vị vàng.** Khi bản vị vàng chấm dứt, có nhiều nỗ lực ổn định tỷ giá giữa các đồng tiền. Một số nước neo đồng tiền vào một số đô la cố định. Nhiều nước châu Âu cùng lập ra đồng tiền chung euro, và yên Nhật cũng là đồng tiền ổn định, được chấp nhận rộng rãi trong giao dịch tài chính quốc tế. Ở cực kia là một số nước Nam Mỹ có đồng tiền dao động dữ dội, lạm phát có năm lên hai, thậm chí ba chữ số. Dao động tiền tệ tác động tới những thứ thật như sản lượng và việc làm, vì khó lập kế hoạch và đầu tư khi không chắc đồng tiền sẽ còn giá trị bao nhiêu, dù khoản đầu tư thành công về mọi mặt khác. Khó khăn kinh tế của Argentina và Brazil đặc biệt đáng chú ý, vì cả hai giàu tài nguyên và không phải chịu tàn phá chiến tranh như nhiều nước ở các châu lục khác trong thế kỷ 20.
+Sowell cho rằng điều này hẳn góp phần lớn vào dòng vốn khổng lồ từ châu Âu đổ vào Mỹ, giúp Mỹ thành nước công nghiệp hàng đầu thế giới. Các nước khác cho đổi tiền ra vàng theo lượng cố định cũng làm nền kinh tế mình an toàn hơn cho nhà đầu tư trong và ngoài nước, và đồng tiền của họ tự động cố định với đô la và đồng tiền các nước khác dùng bản vị vàng.
+
+Nhà kinh tế tiền tệ đoạt giải Nobel Robert Mundell nói các đồng tiền khi đó chỉ là tên gọi của những khối lượng vàng nhất định; nhà tài phiệt J.P. Morgan có thể nói "tiền là vàng, không gì khác". Điều này giảm rủi ro mua bán, đầu tư với các nước dùng bản vị vàng, vì dao động tỷ giá không là mối đe doạ như khi giao dịch với các nước khác.
+
+**Sau bản vị vàng.** Khi bản vị vàng chấm dứt, có nhiều nỗ lực ổn định tỷ giá giữa các đồng tiền. Một số nước neo đồng tiền vào một số đô la cố định. Nhiều nước châu Âu cùng lập ra đồng tiền chung euro, và yên Nhật cũng là đồng tiền ổn định, được chấp nhận rộng rãi trong giao dịch tài chính quốc tế.
+
+Ở cực kia là một số nước Nam Mỹ có đồng tiền dao động dữ dội, lạm phát có năm lên hai, thậm chí ba chữ số. Dao động tiền tệ tác động tới những thứ thật như sản lượng và việc làm, vì khó lập kế hoạch và đầu tư khi không chắc đồng tiền sẽ còn giá trị bao nhiêu, dù khoản đầu tư thành công về mọi mặt khác. Khó khăn kinh tế của Argentina và Brazil đặc biệt đáng chú ý, vì cả hai giàu tài nguyên và không phải chịu tàn phá chiến tranh như nhiều nước ở các châu lục khác trong thế kỷ 20.
 
 Với chuyển tiền điện tử, phản ứng trước thay đổi về độ tin cậy của một đồng tiền có thể gần như tức thời. Chính phủ nào muốn gây lạm phát đều biết tiền có thể tháo chạy khỏi nền kinh tế của họ trong chốc lát. Kỷ luật này khác với kỷ luật mà bản vị vàng từng áp đặt; có hiệu quả ngang bằng hay không thì chỉ biết khi áp lực kinh tế trong tương lai đưa hệ thống tiền tệ quốc tế vào một phép thử thật sự.
 
@@ -956,7 +1011,11 @@ Với chuyển tiền điện tử, phản ứng trước thay đổi về độ
 
 Cũng cần lưu ý một đồng tiền có thể vừa tăng vừa giảm cùng lúc. Từ tháng 12/2008 đến tháng 4/2009, đô la Mỹ tăng giá so với krona Thụy Điển và franc Thụy Sĩ nhưng giảm giá so với bảng Anh và đô la Úc.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một nước nhỏ trong một năm có thâm hụt thương mại hàng hoá 10 tỷ USD, và báo chí đưa tin "thâm hụt kỷ lục". Nhìn kỹ hơn: phần lớn hàng nhập khẩu tăng thêm là máy móc do các doanh nghiệp nước ngoài mang vào để lắp đặt nhà máy mới, trị giá 6 tỷ USD, được tài trợ bằng vốn đầu tư trực tiếp của chính các doanh nghiệp đó; cùng năm, nước này thu 3 tỷ USD từ du lịch và dịch vụ phần mềm bán ra nước ngoài, và nhận 4 tỷ USD kiều hối. Về mặt kế toán, 6 tỷ USD vốn ngoại làm tăng "nợ" của nước này với nước ngoài, và vài năm sau các nhà máy sẽ chuyển lợi nhuận về nước mẹ. Nhưng nếu các nhà máy đó thuê 50.000 công nhân với lương gấp đôi mức lương địa phương và xuất khẩu hàng chục tỷ USD trong các năm sau, phần lợi nhuận chuyển đi chỉ là một phần của cải mới mà chính các nhà máy tạo ra. Theo cách nhìn của Sowell, câu hỏi đúng không phải "thâm hụt lớn hay nhỏ" mà "tiền đi đâu, dùng làm gì, và ai trả nợ bằng cái gì". Thâm hụt chỉ đáng lo thật nếu nó đến từ việc chính phủ vay để bù nhập khẩu tiêu dùng mà nền kinh tế không có nguồn thu nào để trả.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một nước nhỏ trong một năm có thâm hụt thương mại hàng hoá 10 tỷ USD, và báo chí đưa tin "thâm hụt kỷ lục". Nhìn kỹ hơn: phần lớn hàng nhập khẩu tăng thêm là máy móc do các doanh nghiệp nước ngoài mang vào để lắp đặt nhà máy mới, trị giá 6 tỷ USD, được tài trợ bằng vốn đầu tư trực tiếp của chính các doanh nghiệp đó; cùng năm, nước này thu 3 tỷ USD từ du lịch và dịch vụ phần mềm bán ra nước ngoài, và nhận 4 tỷ USD kiều hối.
+
+Về mặt kế toán, 6 tỷ USD vốn ngoại làm tăng "nợ" của nước này với nước ngoài, và vài năm sau các nhà máy sẽ chuyển lợi nhuận về nước mẹ. Nhưng nếu các nhà máy đó thuê 50.000 công nhân với lương gấp đôi mức lương địa phương và xuất khẩu hàng chục tỷ USD trong các năm sau, phần lợi nhuận chuyển đi chỉ là một phần của cải mới mà chính các nhà máy tạo ra.
+
+Theo cách nhìn của Sowell, câu hỏi đúng không phải "thâm hụt lớn hay nhỏ" mà "tiền đi đâu, dùng làm gì, và ai trả nợ bằng cái gì". Thâm hụt chỉ đáng lo thật nếu nó đến từ việc chính phủ vay để bù nhập khẩu tiêu dùng mà nền kinh tế không có nguồn thu nào để trả.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -1116,7 +1175,9 @@ Sowell đúng khi nói không thể gộp mọi người nhập cư làm một, 
 
 ### Từ 2014, nhiều điều trong chương vẫn đúng, một số đã đổi
 
-Nói định tính: kiều hối tiếp tục tăng và ở nhiều nước nghèo đã vượt xa cả viện trợ lẫn đầu tư trực tiếp nước ngoài, củng cố luận điểm của Sowell. Vị thế đầu tư quốc tế ròng của Mỹ âm sâu hơn nhiều mà Mỹ vẫn là nền kinh tế giàu có, phù hợp với lập luận "con nợ không có nghĩa là yếu". Ngược lại, ví dụ Đức thì đã đổi chiều: trong phần lớn giai đoạn sau 2014, Đức vừa xuất siêu lớn vừa có thất nghiệp thấp hơn Mỹ, dù điều đó vẫn không mâu thuẫn với kết luận chung của Sowell rằng cán cân tự nó không quyết định sức khoẻ nền kinh tế. Thâm hụt thương mại song phương trở thành chủ đề chính trị lớn ở Mỹ cuối thập niên 2010 và dẫn tới các đợt tăng thuế quan, đúng loại phản ứng chính sách mà *Wall Street Journal* (được Sowell dẫn) cảnh báo là nguy hiểm hơn chính thâm hụt.
+Nói định tính: kiều hối tiếp tục tăng và ở nhiều nước nghèo đã vượt xa cả viện trợ lẫn đầu tư trực tiếp nước ngoài, củng cố luận điểm của Sowell. Vị thế đầu tư quốc tế ròng của Mỹ âm sâu hơn nhiều mà Mỹ vẫn là nền kinh tế giàu có, phù hợp với lập luận "con nợ không có nghĩa là yếu".
+
+Ngược lại, ví dụ Đức thì đã đổi chiều: trong phần lớn giai đoạn sau 2014, Đức vừa xuất siêu lớn vừa có thất nghiệp thấp hơn Mỹ, dù điều đó vẫn không mâu thuẫn với kết luận chung của Sowell rằng cán cân tự nó không quyết định sức khoẻ nền kinh tế. Thâm hụt thương mại song phương trở thành chủ đề chính trị lớn ở Mỹ cuối thập niên 2010 và dẫn tới các đợt tăng thuế quan, đúng loại phản ứng chính sách mà *Wall Street Journal* (được Sowell dẫn) cảnh báo là nguy hiểm hơn chính thâm hụt.
 
 ### Vận dụng: trước một con số "thâm hụt", "nợ" hay "viện trợ", hãy hỏi tiền thực sự đi đâu và được dùng làm gì
 
@@ -1124,3 +1185,171 @@ Nói định tính: kiều hối tiếp tục tăng và ở nhiều nước ngh�
 - **Trong đầu tư.** Khi chọn nơi đặt vốn ở nước ngoài, các yếu tố Sowell nêu (ổn định chính trị, tham nhũng, nguy cơ tịch thu, khả năng rút vốn, ổn định tiền tệ) quan trọng hơn chi phí lao động. Một nước có thâm hụt thương mại lớn chưa chắc đáng lo nếu thâm hụt đó được tài trợ bằng đầu tư trực tiếp dài hạn; đáng lo hơn là nợ ngắn hạn bằng ngoại tệ của chính phủ.
 - **Trong nghề nghiệp.** Vốn con người là thứ dịch chuyển được giữa các nước và là nguồn của cải lớn nhất mà chương nêu. Kỹ năng có giá trị quốc tế (ngoại ngữ, chuyên môn được công nhận ở nhiều nước) làm tăng lựa chọn của một người; với tổ chức, giữ chân người giỏi là tránh "chảy máu chất xám" ở quy mô nhỏ.
 - **Khi đọc tin chính sách.** Ở Việt Nam, kiều hối và vốn đầu tư trực tiếp nước ngoài là các dòng tiền quan trọng, và các tin như "nhập siêu", "xuất siêu", "nợ nước ngoài" hay "doanh nghiệp FDI chuyển lợi nhuận về nước" thường xuất hiện. Theo cách nhìn của Sowell, câu hỏi nên đặt là: thâm hụt đến từ nhập máy móc cho sản xuất hay từ tiêu dùng; nợ là vốn người khác gửi vào hay là chính phủ vay để chi tiêu; lợi nhuận chuyển đi có phải là phần chia của sản lượng và việc làm đã được tạo ra trong nước. Chủ đề cấp giấy chứng nhận quyền sử dụng đất cho nhà ở, đất đai chưa có giấy tờ cũng gần với luận điểm của Sowell về của cải "chưa được công nhận" không thể dùng để thế chấp, vay vốn.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 22 trên một trang: sáu nhánh lớn đi theo các mục 1–10 trong phần Nội dung chi tiết (các dòng của cải và hướng chảy của vốn, chữ thâm hụt và nợ, thuyết bóc lột và chủ nghĩa đế quốc, kiều hối và người di cư, viện trợ và quyền sở hữu, hệ thống tiền tệ quốc tế), mỗi nhánh ghi luận điểm, ví dụ lịch sử và con số then chốt của Sowell; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 22: dòng của cải giữa các nước phần lớn tạo thêm của cải, hãy nghĩ về sự việc thực tế thay vì chữ nghĩa`"]
+  n1["`Mục 1–2 — Các dòng của cải giữa các nước, và vì sao vốn chảy tới nước giàu`"]
+  n0 --- n1
+  n2["`Năm 2012 người Mỹ đầu tư trực tiếp 329 tỷ USD ra nước ngoài, người nước ngoài đầu tư 168 tỷ USD vào Mỹ`"]
+  n1 --- n2
+  n3["`46% trái phiếu chính phủ Mỹ do công chúng nắm giữ nằm trong tay người nước ngoài`"]
+  n1 --- n3
+  n4["`Kiều hối năm 2012: 250 triệu người di cư gửi về 410 tỷ USD, bằng 35% GDP Tajikistan`"]
+  n1 --- n4
+  n5["`Các đế quốc thời trước chuyển thẳng của cải: Alexander cướp kho báu Ba Tư, Tây Ban Nha lấy vàng bạc châu Mỹ`"]
+  n1 --- n5
+  n6["`Năm 2012 chỉ chưa tới 12% trong 21.000 tỷ USD cho vay ngân hàng quốc tế tới nước nghèo`"]
+  n1 --- n6
+  n7["`Rào cản lớn nhất là nguy cơ không lấy lại được tiền: chính phủ bất ổn, quốc hữu hoá, tham nhũng`"]
+  n1 --- n7
+  n8["`Vốn khó rút ra thì ngay từ đầu cũng ít muốn vào`"]
+  n1 --- n8
+  n9["`Cái nghèo tự nó không cản vốn: Hồng Kông thời thuộc Anh hút vốn nhờ luật pháp Anh, thuế thấp, vốn ra vào tự do`"]
+  n1 --- n9
+  n10["`Ấn Độ nới lỏng kiểm soát nhà nước, đầu tư đổ vào vùng Bangalore`"]
+  n1 --- n10
+  n11["`Mục 3–4 — Chữ thâm hụt và nợ che khuất sự việc thực tế`"]
+  n0 --- n11
+  n12["`Người Nhật bán xe nhận đô la rồi đầu tư lại vào Mỹ, tiền thường không rời nước Mỹ`"]
+  n11 --- n12
+  n13["`Toyota xây nhà máy ở Mỹ, chiếc Toyota thứ 10 triệu làm tại Mỹ ngày 29/7/2002`"]
+  n11 --- n13
+  n14["`Theo Sowell cán cân thương mại bỏ qua dịch vụ, mà Mỹ thu hơn 628 tỷ USD từ dịch vụ năm 2012`"]
+  n11 --- n14
+  n15["`Điều quan trọng là quy mô tương đối: thâm hụt thương mại Mỹ năm 2011 chưa tới 5% GDP`"]
+  n11 --- n15
+  n16["`Đức xuất siêu mà thất nghiệp cao hơn Mỹ, Nigeria thặng dư mà vẫn rất nghèo`"]
+  n11 --- n16
+  n17["`Gửi 100 USD vào ngân hàng làm ngân hàng nợ thêm 100 USD mà chẳng có gì đáng lo`"]
+  n11 --- n17
+  n18["`Mỹ là quốc gia con nợ trong phần lớn lịch sử mà vẫn có mức sống cao nhất thế giới`"]
+  n11 --- n18
+  n19["`Thập niên 1890 nhà đầu tư nước ngoài sở hữu gần 2/3 cổ phần đường sắt Illinois Central`"]
+  n11 --- n19
+  n20["`Nhờ một phần vốn ngoại, năm 1913 Mỹ làm ra hơn 1/3 hàng chế tạo của thế giới`"]
+  n11 --- n20
+  n21["`Nợ thật là khi chính phủ vay để bù khoản nhập khẩu mà xuất khẩu không trả nổi`"]
+  n11 --- n21
+  n22["`Mục 5 và 8 — Thuyết bóc lột và chủ nghĩa đế quốc không khớp dữ kiện`"]
+  n0 --- n22
+  n23["`1994–2002 đầu tư trực tiếp của Mỹ vào Canada và châu Âu nhiều hơn toàn bộ phần còn lại của thế giới`"]
+  n22 --- n23
+  n24["`Chỉ khoảng 1% đầu tư của Mỹ ra nước ngoài tới châu Phi hạ Sahara và phần nghèo của châu Á`"]
+  n22 --- n24
+  n25["`Lương thấp ở nước nghèo chỉ đủ bù năng suất thấp, vận chuyển đắt và tiền hối lộ`"]
+  n22 --- n25
+  n26["`Doanh nghiệp đa quốc gia trả khoảng gấp đôi lương địa phương, ép nâng lương có thể làm công nhân mất việc`"]
+  n22 --- n26
+  n27["`Thời đỉnh cao đế quốc, Anh đầu tư vào Mỹ nhiều hơn vào toàn bộ châu Á và châu Phi cộng lại`"]
+  n22 --- n27
+  n28["`Đức, Nhật mất hết thuộc địa sau Thế chiến thứ hai rồi đạt mức thịnh vượng chưa từng có`"]
+  n22 --- n28
+  n29["`Năm 2012 người nước ngoài mang 543 tỷ USD khỏi Mỹ mà người Mỹ không nghèo đi`"]
+  n22 --- n29
+  n30["`So cùng 20 nước, chênh lệch thu nhập giàu nghèo giảm từ 23 lần (1960) xuống dưới 10 lần (2000)`"]
+  n22 --- n30
+  n31["`Liên Xô năm 1931 mua 1/3 máy móc nhập khẩu của thế giới bằng xuất khẩu ngũ cốc trong khi dân thiếu ăn`"]
+  n22 --- n31
+  n32["`Mở cửa đầu tư: doanh nghiệp nước ngoài sở hữu 27% doanh nghiệp Mỹ Latinh năm 1991, 39% một thập kỷ sau`"]
+  n22 --- n32
+  n33["`Mục 6–7 — Kiều hối và vốn con người theo người di cư`"]
+  n0 --- n33
+  n34["`Năm 2009 kiều hối tới nước nghèo lớn hơn 2,5 lần tổng viện trợ nước ngoài`"]
+  n33 --- n34
+  n35["`Hoa kiều ở Đông Nam Á chỉ gửi về một phần của cải họ đã tạo thêm cho nước sở tại`"]
+  n33 --- n35
+  n36["`Người Huguenot mang nghề đồng hồ sang Anh và Thụy Sĩ, người Đức lập các nhà máy bia và hãng piano Steinway`"]
+  n33 --- n36
+  n37["`Braudel: người nhập cư đã tạo ra Brazil, Argentina, Chile hiện đại`"]
+  n33 --- n37
+  n38["`Sau khi trục xuất người Morisco, một giáo sĩ Tây Ban Nha hỏi #quot;Giờ ai sẽ đóng giày cho chúng ta?#quot;`"]
+  n33 --- n38
+  n39["`Chảy máu chất xám: 83% người tốt nghiệp đại học của Guyana sống ở các nước OECD`"]
+  n33 --- n39
+  n40["`Nhà khoa học Do Thái rời Đức Quốc xã góp phần lớn giúp Mỹ có bom nguyên tử trước`"]
+  n33 --- n40
+  n41["`Nhập cư không đồng nhất: 2% người nhập cư từ Nhật nhận trợ cấp xã hội so với 46% từ Lào`"]
+  n33 --- n41
+  n42["`Mục 9 — Viện trợ nước ngoài và của cải chưa được pháp luật công nhận`"]
+  n0 --- n42
+  n43["`Viện trợ đi tới chính phủ nên dễ thành tham nhũng, doanh nghiệp nhà nước thất bại, cung điện`"]
+  n42 --- n43
+  n44["`Kế hoạch Marshall thành công vì Tây Âu chỉ cần dựng lại vốn vật chất, nước nghèo phải tạo ra vốn con người`"]
+  n42 --- n44
+  n45["`Người phát viện trợ không chịu thước đo lời lỗ nên chương trình thất bại không bị loại bỏ`"]
+  n42 --- n45
+  n46["`Peter Bauer: viện trợ chính thức dễ làm chậm phát triển hơn là thúc đẩy nó`"]
+  n42 --- n46
+  n47["`Ở nước châu Phi điển hình chỉ khoảng 1/10 người có doanh nghiệp hay nhà được pháp luật công nhận`"]
+  n42 --- n47
+  n48["`Peru: bất động sản không có quyền sở hữu hợp pháp lớn hơn 12 lần toàn bộ FDI trong lịch sử`"]
+  n42 --- n48
+  n49["`Thiếu quyền sở hữu được công nhận thì không thế chấp nhà để vay, doanh nghiệp nhỏ không lớn lên được`"]
+  n42 --- n49
+  n50["`Năm 2010 từ Mỹ: viện trợ chính thức 31 tỷ USD so với 247 tỷ USD từ thiện, vốn tư nhân và kiều hối`"]
+  n42 --- n50
+  n51["`Mục 10 — Hệ thống tiền tệ quốc tế và chữ mạnh, yếu`"]
+  n0 --- n51
+  n52["`Tỷ giá dao động biến mọi người giao dịch quốc tế thành người đầu cơ`"]
+  n51 --- n52
+  n53["`Bản vị vàng: đô la đổi được lượng vàng cố định, góp phần hút vốn châu Âu vào Mỹ`"]
+  n51 --- n53
+  n54["`Argentina, Brazil giàu tài nguyên vẫn khó khăn vì tiền tệ dao động, lạm phát hai, ba chữ số`"]
+  n51 --- n54
+  n55["`Chuyển tiền điện tử khiến tiền có thể tháo chạy trong chốc lát khỏi nước muốn gây lạm phát`"]
+  n51 --- n55
+  n56["`Euro giảm từ 1,18 USD xuống 83 xu bị gọi là yếu đi, lên lại 1,16 USD đầu năm 2003 được gọi là mạnh lên`"]
+  n51 --- n56
+  n57["`Đồng tiền mạnh làm hàng xuất khẩu đắt lên, nhà sản xuất Anh hoan nghênh bảng Anh mất 11% so với euro`"]
+  n51 --- n57
+  n58["`Krone Na Uy tăng giá, người Na Uy sang Thụy Điển mua thực phẩm tiết kiệm 40%`"]
+  n51 --- n58
+  n59["`Thông điệp xuyên suốt`"]
+  n0 --- n59
+  n60["`Kinh tế không phải trò chơi tổng bằng không: đầu tư làm chiếc bánh lớn hơn, ai cũng có phần lớn hơn`"]
+  n59 --- n60
+  n61["`Vốn đi tới nơi có luật pháp đáng tin và quyền sở hữu an toàn, không tới nơi lương rẻ nhất`"]
+  n59 --- n61
+  n62["`Trước con số thâm hụt, nợ hay viện trợ, hãy hỏi tiền thực sự đi đâu và được dùng làm gì`"]
+  n59 --- n62
+  n63["`Đánh giá của người tổng hợp: chương ít bàn khủng hoảng vốn ngắn hạn như châu Á 1997–1998 và cái giá của bản vị vàng`"]
+  n59 --- n63
+  class n0 root
+  class n1,n11,n22,n33,n42,n51,n59 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n49,n50,n52,n53,n54,n55,n56,n57,n58,n60,n61,n62,n63 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần VI "The International Economy", Chương 22.
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 21 (International Trade) đã cho thấy thương mại giữa các nước không phải trò chơi tổng bằng không, và cảnh báo rằng những chữ như "thâm hụt thương mại" dễ làm người đọc hiểu sai. Chương 22 đi tiếp sang những dòng của cải không phải là mua bán hàng hoá: đầu tư ra nước ngoài, kiều hối, vốn con người theo chân người di cư, của cải bị cướp đi qua chủ nghĩa đế quốc, viện trợ nước ngoài, và hệ thống tiền tệ quốc tế làm nền cho tất cả các dòng đó.
+
+Chương này cũng dựa vào Chương 18 (Government Functions), nơi Sowell đã nói về tầm quan trọng kinh tế của sự trung thực và của luật pháp đáng tin cậy, và vào Chương 17 (Money and the Banking System) về giá trị của một đồng tiền ổn định.
+
+Chương 23 (International Disparities in Wealth) sẽ hỏi câu hỏi lớn hơn: vì sao có nước giàu, nước nghèo ngay từ đầu, câu hỏi mà Chương 22 chỉ chạm tới qua việc vốn né tránh nước nghèo.
+
+## Lưu ý
+
+- Sách viết khoảng 2013–2014; số liệu mới nhất trong chương là của năm 2011–2012 (đầu tư trực tiếp, kiều hối, thâm hụt thương mại, thu nhập dịch vụ của Mỹ), còn phần tỷ giá dùng ví dụ của đồng euro giai đoạn 1999–2003 và của giai đoạn tháng 12/2008 đến tháng 4/2009.
+- Một số điều đã thay đổi từ đó (nói định tính): tổng kiều hối toàn cầu đã tăng đáng kể so với mức Sowell nêu; vị thế đầu tư quốc tế ròng của Mỹ (phần người nước ngoài sở hữu ở Mỹ vượt phần người Mỹ sở hữu ở nước ngoài) đã âm sâu hơn nhiều so với năm 2012; từ giữa thập niên 2010, tỷ lệ thất nghiệp của Đức nhiều năm liền thấp hơn của Mỹ, nên ví dụ "Đức xuất siêu nhưng thất nghiệp cao hơn Mỹ" không còn đúng với giai đoạn sau.
+- Có hai chỗ cần đọc thận trọng:
+  - Sowell viết rằng cán cân thương mại chỉ tính hàng hoá, không tính dịch vụ; thực ra thống kê chính thức của Mỹ công bố cả cán cân hàng hoá lẫn cán cân hàng hoá và dịch vụ, chỉ là báo chí hay dẫn con số thâm hụt hàng hoá, nên lập luận của Sowell đúng với cách báo chí đưa tin hơn là với định nghĩa thống kê.
+  - Sowell nói một năm thặng dư cán cân thanh toán hiếm hoi của Mỹ "được nối tiếp bởi cuộc suy thoái năm 1992", trong khi cuộc suy thoái chính thức của Mỹ kéo dài từ giữa 1990 đến đầu 1991.
+- Sowell cũng xếp Quỹ Tiền tệ Quốc tế (IMF) cùng Ngân hàng Thế giới vào nhóm "cơ quan viện trợ"; IMF chủ yếu cho vay để xử lý khó khăn cán cân thanh toán, không phải cơ quan viện trợ phát triển theo nghĩa hẹp.
+- Chương này không có chú thích chân trang có nội dung của Sowell (chỉ có chú thích nguồn trích dẫn, đã bỏ qua). Các câu trích là bản dịch của người tổng hợp.

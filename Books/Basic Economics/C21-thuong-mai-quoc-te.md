@@ -1,11 +1,16 @@
 # Chương 21 — Thương mại quốc tế (International Trade)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Chương 21.
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 21 mở đầu Phần VI (The International Economy), ngay sau Phần V về nền kinh tế quốc gia (sản lượng quốc gia, tiền và ngân hàng, tài chính chính phủ, các vấn đề đặc biệt của nền kinh tế quốc gia ở Chương 20). Sowell đưa các công cụ đã dựng ở những chương trước ra ngoài biên giới: khan hiếm và chi phí là các phương án bị bỏ qua (Chương 1), lợi thế kinh tế theo quy mô (Chương 6), giá thấp hơn chi phí và "định giá hủy diệt" (Chương 6 và Chương 8), lợi ích tập trung của các ngành được bảo hộ so với thiệt hại phân tán của người tiêu dùng. Chương này chỉ bàn trao đổi hàng hoá và dịch vụ giữa các nước. Chương 22 (International Transfers of Wealth) bàn tiếp các dòng của cải chảy qua biên giới, nơi những chữ như "thâm hụt" hay "quốc gia con nợ" mà Chương 21 mới nêu ra được xem xét kỹ hơn; Chương 23 (International Disparities in Wealth) hỏi vì sao các nước giàu nghèo khác nhau.
-**Ý chính:** Sowell muốn người đọc hiểu rằng **thương mại quốc tế không phải trò chơi tổng bằng không**: cả hai bên đều được lợi, nếu không thì họ đã thôi buôn bán. Lợi ích đến từ ba nguồn: lợi thế tuyệt đối (khí hậu, vị trí, kỹ năng), lợi thế so sánh (ngay cả nước làm mọi thứ giỏi hơn vẫn được lợi khi chuyên môn hoá vào việc mình giỏi nhất một cách tương đối), và lợi thế kinh tế theo quy mô (nước nhỏ cần xuất khẩu để đạt sản lượng đủ lớn). Các lý lẽ đòi hạn chế nhập khẩu (lương nước nghèo thấp, cứu việc làm, bảo vệ ngành non trẻ, quốc phòng, chống bán phá giá) phần lớn là ngụy biện trong phần lớn trường hợp. Ví dụ trung tâm là thuế quan Smoot-Hawley năm 1930: hơn một nghìn nhà kinh tế đã cảnh báo rằng không thể tăng việc làm bằng cách hạn chế thương mại; thuế quan vẫn được thông qua, các nước trả đũa, xuất khẩu thế giới năm 1933 chỉ còn một phần ba mức năm 1929, và tỷ lệ thất nghiệp ở Mỹ tăng từ 6% lên 26% trong hai năm.
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2013–2014; nhiều số liệu trong chương còn cũ hơn (thất nghiệp sau NAFTA giai đoạn 1993–2000, việc làm ngành thép thập niên 1980, hợp đồng Lầu Năm Góc năm 2004, xe Nhật sản xuất tại Mỹ năm 2006, việc làm do công ty đa quốc gia tạo ra giai đoạn 1977–2001). Một số chi tiết đã thay đổi từ đó: NAFTA đã được thay bằng Hiệp định Mỹ–Mexico–Canada (USMCA) có hiệu lực năm 2020; Úc, nước Sowell dùng làm ví dụ "thị trường quá nhỏ để tự phát triển ô tô", đã chấm dứt hẳn việc lắp ráp ô tô trong nước vào năm 2017 khi Ford, Holden (General Motors) và Toyota đóng nhà máy; mảng điện thoại di động của Nokia đã được bán cho Microsoft năm 2014; từ năm 2018 Mỹ quay lại dùng thuế quan diện rộng, nhất là với hàng Trung Quốc, và còn nâng thuế quan mạnh hơn nữa vào năm 2025, nên câu Sowell viết rằng các nhà kinh tế coi những ngụy biện bảo hộ là "không đáng bàn" nhưng chúng vẫn "sống và mạnh về chính trị" nay càng đúng. Chương có **một** chú thích chân trang có nội dung (dấu {xxvii}, về vai trò của thuế quan Smoot-Hawley so với vụ sụp đổ chứng khoán 1929), đã đưa vào mục 3.2 của Nội dung chi tiết và vào Sơ đồ phần "Saving Jobs". Hai bảng số trong tiểu mục "Comparative Advantage" ở bản gốc là bảng hình, không có trong text tách ra; người tổng hợp đã dựng lại chúng từ các con số Sowell nêu trong lời văn (năng suất mỗi công nhân, 500 công nhân mỗi nước, tổng 190.000 ghế và 90.000 tivi trước khi chuyên môn hoá). Với các con số đó chỉ có đúng một cách phân bổ khớp: mỗi nước dành 200 công nhân làm ghế và 300 công nhân làm tivi. Các câu trích là bản dịch của người tổng hợp.
+Sowell muốn người đọc hiểu rằng **thương mại quốc tế không phải trò chơi tổng bằng không**: cả hai bên đều được lợi, nếu không thì họ đã thôi buôn bán.
+
+Lợi ích đến từ ba nguồn: lợi thế tuyệt đối (khí hậu, vị trí, kỹ năng), lợi thế so sánh (ngay cả nước làm mọi thứ giỏi hơn vẫn được lợi khi chuyên môn hoá vào việc mình giỏi nhất một cách tương đối), và lợi thế kinh tế theo quy mô (nước nhỏ cần xuất khẩu để đạt sản lượng đủ lớn).
+
+Các lý lẽ đòi hạn chế nhập khẩu (lương nước nghèo thấp, cứu việc làm, bảo vệ ngành non trẻ, quốc phòng, chống bán phá giá) phần lớn là ngụy biện trong phần lớn trường hợp.
+
+Ví dụ trung tâm là thuế quan Smoot-Hawley năm 1930: hơn một nghìn nhà kinh tế đã cảnh báo rằng không thể tăng việc làm bằng cách hạn chế thương mại.
+
+Thuế quan vẫn được thông qua, các nước trả đũa, xuất khẩu thế giới năm 1933 chỉ còn một phần ba mức năm 1929, và tỷ lệ thất nghiệp ở Mỹ tăng từ 6% lên 26% trong hai năm.
 
 ## Sơ đồ
 
@@ -552,7 +557,9 @@
 ## Ba câu hỏi chương này trả lời
 
 1. **Tại sao một nước làm mọi thứ giỏi hơn vẫn được lợi khi buôn bán với nước kém hơn?** Vì nguồn lực khan hiếm, nên chi phí thật của một sản phẩm là những sản phẩm khác phải bỏ đi để làm ra nó. Trong ví dụ của Sowell, công nhân Mỹ làm được 500 ghế hoặc 200 tivi mỗi tháng, công nhân Canada làm được 450 ghế hoặc 100 tivi: Mỹ giỏi hơn ở cả hai thứ, nhưng ở Mỹ mỗi tivi tốn 2,5 ghế còn ở Canada tốn 4,5 ghế. Khi Mỹ chỉ làm tivi và Canada chỉ làm ghế, cùng 1.000 công nhân làm ra 225.000 ghế và 100.000 tivi thay vì 190.000 ghế và 90.000 tivi.
-2. **Nước lương cao có bị nước lương thấp cướp mất việc làm không?** Không phải theo cách lý lẽ bảo hộ mô tả, vì mức lương theo giờ khác chi phí lao động trên mỗi sản phẩm, và chi phí lao động chỉ là một phần tổng chi phí. Năng suất khu vực hiện đại của Ấn Độ chỉ bằng 15% của Mỹ, nên trả 20% lương Mỹ thì làm ở Ấn Độ lại đắt hơn. Lịch sử cũng ngược với lý lẽ đó: Cộng hoà Hà Lan dẫn đầu thương mại quốc tế từ thập niên 1590 tới thập niên 1740 trong khi trả lương thuộc hàng cao nhất thế giới, và Anh là nước xuất khẩu lớn nhất thế kỷ 19 với mức lương cao hơn nhiều nước mua hàng của mình. Có những việc cụ thể chuyển ra nước ngoài, nhưng điều đó không có nghĩa là cả nền kinh tế mất việc làm ròng.
+2. **Nước lương cao có bị nước lương thấp cướp mất việc làm không?** Không phải theo cách lý lẽ bảo hộ mô tả, vì mức lương theo giờ khác chi phí lao động trên mỗi sản phẩm, và chi phí lao động chỉ là một phần tổng chi phí. Năng suất khu vực hiện đại của Ấn Độ chỉ bằng 15% của Mỹ, nên trả 20% lương Mỹ thì làm ở Ấn Độ lại đắt hơn.
+
+   Lịch sử cũng ngược với lý lẽ đó: Cộng hoà Hà Lan dẫn đầu thương mại quốc tế từ thập niên 1590 tới thập niên 1740 trong khi trả lương thuộc hàng cao nhất thế giới, và Anh là nước xuất khẩu lớn nhất thế kỷ 19 với mức lương cao hơn nhiều nước mua hàng của mình. Có những việc cụ thể chuyển ra nước ngoài, nhưng điều đó không có nghĩa là cả nền kinh tế mất việc làm ròng.
 3. **Hạn chế nhập khẩu có cứu được việc làm không?** Nó cứu được việc làm của một ngành nhưng làm mất nhiều việc hơn ở ngành khác và làm cả nước nghèo đi. Thuế quan thép thập niên 1980 giữ 5.000 việc làm ngành thép nhưng làm mất 26.000 việc ở các ngành dùng thép; hạn chế nhập khẩu đường làm mất số việc gấp 3 lần trong ngành bánh kẹo; bảo hộ ở EU tốn khoảng 215.000 USD mỗi năm cho mỗi việc làm giữ được. Ở quy mô lớn nhất, thuế quan Smoot-Hawley năm 1930 kéo theo trả đũa toàn cầu và tỷ lệ thất nghiệp ở Mỹ lên 26%.
 
 ## Khái niệm cần biết
@@ -585,7 +592,9 @@
 
 ### 1. Mở đầu chương: NAFTA, việc làm và những chữ gây hiểu lầm
 
-Sowell mở chương bằng câu của John Adams rằng sự thật là thứ cứng đầu, mong muốn hay cảm xúc không thay đổi được nó. Rồi ông dẫn một bài của *New York Times* về Hiệp định Thương mại Tự do Bắc Mỹ (NAFTA, 1993) giữa Mỹ, Canada và Mexico, nói rằng việc làm dịch chuyển qua biên giới nhanh tới mức chưa thể kết luận nước Mỹ "thắng" hay "thua" về việc làm. Theo Sowell, đặt vấn đề như vậy là mắc ngụy biện trung tâm của các cuộc bàn luận về thương mại: cho rằng một nước "thắng" thì nước kia phải "thua". Thương mại quốc tế không phải trò chơi tổng bằng không; cả hai bên phải được lợi, nếu không họ đã không tiếp tục buôn bán. Cũng không cần chuyên gia hay quan chức phán xét ai được lợi: phần lớn thương mại quốc tế, như thương mại trong nước, do hàng triệu cá nhân thực hiện, và mỗi người tự biết món hàng có đáng giá tiền và có tốt hơn hàng của người bán khác không.
+Sowell mở chương bằng câu của John Adams rằng sự thật là thứ cứng đầu, mong muốn hay cảm xúc không thay đổi được nó. Rồi ông dẫn một bài của *New York Times* về Hiệp định Thương mại Tự do Bắc Mỹ (NAFTA, 1993) giữa Mỹ, Canada và Mexico, nói rằng việc làm dịch chuyển qua biên giới nhanh tới mức chưa thể kết luận nước Mỹ "thắng" hay "thua" về việc làm.
+
+Theo Sowell, đặt vấn đề như vậy là mắc ngụy biện trung tâm của các cuộc bàn luận về thương mại: cho rằng một nước "thắng" thì nước kia phải "thua". Thương mại quốc tế không phải trò chơi tổng bằng không; cả hai bên phải được lợi, nếu không họ đã không tiếp tục buôn bán. Cũng không cần chuyên gia hay quan chức phán xét ai được lợi: phần lớn thương mại quốc tế, như thương mại trong nước, do hàng triệu cá nhân thực hiện, và mỗi người tự biết món hàng có đáng giá tiền và có tốt hơn hàng của người bán khác không.
 
 Trước khi NAFTA có hiệu lực, có lời tiên đoán u ám về "một tiếng hút khổng lồ": việc làm sẽ bị hút từ Mỹ sang Mexico vì lương ở Mexico thấp hơn. Thực tế diễn ra ngược lại:
 
@@ -598,7 +607,9 @@ Trước khi NAFTA có hiệu lực, có lời tiên đoán u ám về "một ti
 
 Để giải thích vì sao kết quả khác hẳn dự đoán, Sowell quay về điểm xuất phát. Khi một nước, xét riêng, giàu lên, nó mua nhiều hơn vì có nhiều thứ để trả hơn; mua nhiều hơn thì cần thêm người làm ra số hàng hoá, dịch vụ đó, tức là thêm việc làm. Với hai nước hay bất kỳ số nước nào, nguyên lý vẫn vậy: thịnh vượng tăng thường đi cùng việc làm tăng. Không có một số lượng việc làm cố định mà các nước phải tranh nhau; câu hỏi duy nhất là thương mại quốc tế có làm các nước giàu lên không.
 
-Sowell cho rằng sự thật cơ bản về thương mại không khó hiểu; cái khó là gỡ những ngộ nhận và thuật ngữ làm rối cuộc bàn luận. Ông dẫn Thẩm phán Tối cao Pháp viện Mỹ Oliver Wendell Holmes: cần nghĩ về sự vật chứ không phải về chữ nghĩa. Ví dụ rõ nhất là cách gọi xuất siêu là cán cân thương mại "thuận lợi" và nhập siêu là "bất lợi", có từ nhiều thế kỷ trước. Thời đó người ta tin nhập nhiều hơn xuất làm một nước nghèo đi, vì phần chênh lệch phải trả bằng vàng và mất vàng bị coi là mất của cải. Ngay từ năm 1776, Adam Smith trong *Của cải của các dân tộc* (*The Wealth of Nations*) đã lập luận rằng của cải thật của một nước là hàng hoá và dịch vụ, không phải lượng vàng. Theo Sowell, đến thế kỷ 21 nhiều người vẫn chưa hiểu hết hệ quả của điều này: nếu thương mại làm người Mỹ có nhiều hàng hoá, dịch vụ hơn thì họ giàu hơn, bất kể cán cân "thâm hụt" hay "thặng dư".
+Sowell cho rằng sự thật cơ bản về thương mại không khó hiểu; cái khó là gỡ những ngộ nhận và thuật ngữ làm rối cuộc bàn luận. Ông dẫn Thẩm phán Tối cao Pháp viện Mỹ Oliver Wendell Holmes: cần nghĩ về sự vật chứ không phải về chữ nghĩa.
+
+Ví dụ rõ nhất là cách gọi xuất siêu là cán cân thương mại "thuận lợi" và nhập siêu là "bất lợi", có từ nhiều thế kỷ trước. Thời đó người ta tin nhập nhiều hơn xuất làm một nước nghèo đi, vì phần chênh lệch phải trả bằng vàng và mất vàng bị coi là mất của cải. Ngay từ năm 1776, Adam Smith trong *Của cải của các dân tộc* (*The Wealth of Nations*) đã lập luận rằng của cải thật của một nước là hàng hoá và dịch vụ, không phải lượng vàng. Theo Sowell, đến thế kỷ 21 nhiều người vẫn chưa hiểu hết hệ quả của điều này: nếu thương mại làm người Mỹ có nhiều hàng hoá, dịch vụ hơn thì họ giàu hơn, bất kể cán cân "thâm hụt" hay "thặng dư".
 
 Sowell đưa ba ví dụ cho thấy các chữ này dễ đánh lừa:
 
@@ -624,7 +635,9 @@ Lợi thế tuyệt đối cũng có thể chỉ là ở đúng chỗ hoặc nó
 
 #### 2.2. Lợi thế so sánh (Comparative Advantage)
 
-Sowell gọi lợi thế so sánh là lý do "tinh tế hơn nhưng ít nhất cũng quan trọng ngang" của thương mại. Giả sử một nước hiệu quả tới mức làm được bất kỳ thứ gì rẻ hơn nước láng giềng. Nước đó có lợi gì khi buôn bán với láng giềng không? Có. Vì làm được bất kỳ thứ gì rẻ hơn không giống với làm được mọi thứ rẻ hơn cùng lúc. Khi nguồn lực khan hiếm và có nhiều công dụng, làm thêm sản phẩm này nghĩa là làm bớt sản phẩm kia. Câu hỏi không chỉ là làm một cái ghế hay một cái tivi tốn bao nhiêu tiền hay nguồn lực ở nước này so với nước kia, mà là làm một cái tivi phải bỏ bao nhiêu cái ghế khi chuyển nguồn lực từ sản phẩm này sang sản phẩm kia. Nếu tỷ lệ đánh đổi đó khác nhau giữa hai nước, nước nào bỏ ghế mà được nhiều tivi hơn sẽ có lợi khi buôn bán với nước bỏ tivi mà được nhiều ghế hơn.
+Sowell gọi lợi thế so sánh là lý do "tinh tế hơn nhưng ít nhất cũng quan trọng ngang" của thương mại. Giả sử một nước hiệu quả tới mức làm được bất kỳ thứ gì rẻ hơn nước láng giềng. Nước đó có lợi gì khi buôn bán với láng giềng không? Có. Vì làm được bất kỳ thứ gì rẻ hơn không giống với làm được mọi thứ rẻ hơn cùng lúc. Khi nguồn lực khan hiếm và có nhiều công dụng, làm thêm sản phẩm này nghĩa là làm bớt sản phẩm kia.
+
+Câu hỏi không chỉ là làm một cái ghế hay một cái tivi tốn bao nhiêu tiền hay nguồn lực ở nước này so với nước kia, mà là làm một cái tivi phải bỏ bao nhiêu cái ghế khi chuyển nguồn lực từ sản phẩm này sang sản phẩm kia. Nếu tỷ lệ đánh đổi đó khác nhau giữa hai nước, nước nào bỏ ghế mà được nhiều tivi hơn sẽ có lợi khi buôn bán với nước bỏ tivi mà được nhiều ghế hơn.
 
 Ví dụ số của Sowell: một công nhân Mỹ trung bình làm được 500 ghế hoặc 200 tivi mỗi tháng; một công nhân Canada làm được 450 ghế hoặc 100 tivi. Mỗi nước có 500 công nhân dành cho hai sản phẩm này, và năng suất mỗi người không đổi trong cả hai trường hợp. (Bảng số của Sowell ở dạng hình; người tổng hợp dựng lại phân bổ công nhân từ các tổng số ông nêu.)
 
@@ -640,13 +653,21 @@ Ví dụ số của Sowell: một công nhân Mỹ trung bình làm được 500
 | Canada | 500 | 225.000 | 0 | 0 |
 | Tổng (1.000 công nhân) | | 225.000 | | 100.000 |
 
-Không ai làm việc năng suất hơn, nhưng cùng 1.000 công nhân làm ra nhiều hơn ở cả hai sản phẩm: 100.000 tivi thay vì 90.000 và 225.000 ghế thay vì 190.000. Lý do là mỗi nước giờ sản xuất thứ mà nó có lợi thế so sánh, bất kể có lợi thế tuyệt đối hay không. Các nhà kinh tế sẽ nói Mỹ có lợi thế tuyệt đối ở cả hai sản phẩm nhưng Canada có lợi thế so sánh ở ghế: Canada hy sinh ít tivi hơn Mỹ khi chuyển nguồn lực sang làm ghế (ở Mỹ, mỗi tivi tương đương 2,5 ghế; ở Canada, mỗi tivi tương đương 4,5 ghế). Vì vậy người Mỹ có nhiều ghế hơn khi làm tivi rồi đổi lấy ghế của Canada, thay vì tự làm ghế; và người Canada có nhiều tivi hơn khi làm ghế rồi đổi lấy tivi Mỹ. Chỉ khi Mỹ làm mọi thứ hiệu quả hơn Canada theo đúng cùng một tỷ lệ phần trăm cho mọi sản phẩm thì mới không có lợi thế so sánh và không có lợi ích từ trao đổi; theo Sowell, trường hợp như vậy gần như không thể tìm thấy ngoài đời.
+Không ai làm việc năng suất hơn, nhưng cùng 1.000 công nhân làm ra nhiều hơn ở cả hai sản phẩm: 100.000 tivi thay vì 90.000 và 225.000 ghế thay vì 190.000. Lý do là mỗi nước giờ sản xuất thứ mà nó có lợi thế so sánh, bất kể có lợi thế tuyệt đối hay không.
 
-Nguyên lý này cũng đúng với cá nhân. Một bác sĩ phẫu thuật mắt từng rửa xe để trả học phí đại học, nay có xe riêng. Có nên tự rửa xe không, dù kinh nghiệm cũ giúp ông rửa nhanh hơn người làm thuê? Rõ ràng không: dành thời gian xoa xà phòng lên xe thay vì ở phòng mổ cứu thị lực người khác là vô lý với chính ông về tài chính và với xã hội về phúc lợi chung. Bác sĩ có lợi thế tuyệt đối ở cả hai việc, nhưng lợi thế so sánh ở việc chữa mắt lớn hơn nhiều. Chìa khoá của cả ví dụ cá nhân lẫn ví dụ quốc tế là sự khan hiếm: bác sĩ cũng chỉ có 24 giờ mỗi ngày, thời gian làm việc này là thời gian không làm việc khác; các nước cũng không có lao động, thời gian và nguồn lực vô hạn. Đó chính là nghĩa của chi phí kinh tế: các phương án bị bỏ qua, đúng ở mọi chế độ (tư bản, xã hội chủ nghĩa, phong kiến) và cho cả giao dịch trong nước lẫn quốc tế.
+Các nhà kinh tế sẽ nói Mỹ có lợi thế tuyệt đối ở cả hai sản phẩm nhưng Canada có lợi thế so sánh ở ghế: Canada hy sinh ít tivi hơn Mỹ khi chuyển nguồn lực sang làm ghế (ở Mỹ, mỗi tivi tương đương 2,5 ghế; ở Canada, mỗi tivi tương đương 4,5 ghế). Vì vậy người Mỹ có nhiều ghế hơn khi làm tivi rồi đổi lấy ghế của Canada, thay vì tự làm ghế; và người Canada có nhiều tivi hơn khi làm ghế rồi đổi lấy tivi Mỹ.
+
+Chỉ khi Mỹ làm mọi thứ hiệu quả hơn Canada theo đúng cùng một tỷ lệ phần trăm cho mọi sản phẩm thì mới không có lợi thế so sánh và không có lợi ích từ trao đổi; theo Sowell, trường hợp như vậy gần như không thể tìm thấy ngoài đời.
+
+Nguyên lý này cũng đúng với cá nhân. Một bác sĩ phẫu thuật mắt từng rửa xe để trả học phí đại học, nay có xe riêng. Có nên tự rửa xe không, dù kinh nghiệm cũ giúp ông rửa nhanh hơn người làm thuê? Rõ ràng không: dành thời gian xoa xà phòng lên xe thay vì ở phòng mổ cứu thị lực người khác là vô lý với chính ông về tài chính và với xã hội về phúc lợi chung. Bác sĩ có lợi thế tuyệt đối ở cả hai việc, nhưng lợi thế so sánh ở việc chữa mắt lớn hơn nhiều.
+
+Chìa khoá của cả ví dụ cá nhân lẫn ví dụ quốc tế là sự khan hiếm: bác sĩ cũng chỉ có 24 giờ mỗi ngày, thời gian làm việc này là thời gian không làm việc khác; các nước cũng không có lao động, thời gian và nguồn lực vô hạn. Đó chính là nghĩa của chi phí kinh tế: các phương án bị bỏ qua, đúng ở mọi chế độ (tư bản, xã hội chủ nghĩa, phong kiến) và cho cả giao dịch trong nước lẫn quốc tế.
 
 Lợi thế so sánh đặc biệt quan trọng với các nước nghèo. Sowell dẫn một nhận xét: lợi thế so sánh có nghĩa là dưới mặt trời của tự do thương mại có chỗ cho mọi quốc gia, dù nghèo tới đâu, vì người dân nước nào cũng làm được một số sản phẩm hiệu quả hơn một cách tương đối so với các sản phẩm khác.
 
-Lợi thế so sánh còn là sự thật lịch sử. Đã hơn một thế kỷ nước Anh không tự làm ra đủ lương thực nuôi dân. Người Anh đủ ăn chỉ vì nước Anh tập trung vào những việc có lợi thế so sánh (chế tạo, vận tải biển, dịch vụ tài chính) rồi dùng tiền thu được để mua lương thực. Người tiêu dùng Anh vì thế được ăn no hơn và có nhiều hàng chế tạo hơn so với khi nước Anh tự trồng đủ lương thực. Vì chi phí thật của bất cứ thứ gì là những thứ khác có thể làm ra bằng cùng công sức, chuyển đủ nguồn lực sang nông nghiệp để tự túc lương thực sẽ khiến Anh mất quá nhiều sản lượng công nghiệp và thương mại. Anh có lợi hơn khi mua lương thực từ nước có lợi thế so sánh về nông nghiệp, kể cả khi nông dân nước đó kém hiệu quả hơn nông dân Anh.
+Lợi thế so sánh còn là sự thật lịch sử. Đã hơn một thế kỷ nước Anh không tự làm ra đủ lương thực nuôi dân. Người Anh đủ ăn chỉ vì nước Anh tập trung vào những việc có lợi thế so sánh (chế tạo, vận tải biển, dịch vụ tài chính) rồi dùng tiền thu được để mua lương thực. Người tiêu dùng Anh vì thế được ăn no hơn và có nhiều hàng chế tạo hơn so với khi nước Anh tự trồng đủ lương thực.
+
+Vì chi phí thật của bất cứ thứ gì là những thứ khác có thể làm ra bằng cùng công sức, chuyển đủ nguồn lực sang nông nghiệp để tự túc lương thực sẽ khiến Anh mất quá nhiều sản lượng công nghiệp và thương mại. Anh có lợi hơn khi mua lương thực từ nước có lợi thế so sánh về nông nghiệp, kể cả khi nông dân nước đó kém hiệu quả hơn nông dân Anh.
 
 Sự đánh đổi này không chỉ có ở nước công nghiệp. Khi ca cao bắt đầu được trồng ở Tây Phi (về sau vùng này làm ra hơn nửa lượng ca cao thế giới), nông dân châu Phi giảm trồng lương thực để trồng cây ca cao, kiếm nhiều tiền hơn, rồi sống bằng lương thực làm ra ở nơi khác: thịt và rau trồng trong vùng, cả gạo nhập khẩu, cá hộp và trái cây hộp, những thứ khi đó được coi là xa xỉ.
 
@@ -667,13 +688,21 @@ Lợi thế tuyệt đối và lợi thế so sánh là hai lý do chính, nhưn
 
 Ngay cả những chiếc xe sản xuất ở Úc cũng được phát triển ở nước khác: Toyota và Mitsubishi từ Nhật, Ford và General Motors từ Mỹ. Về thực chất chúng là xe Nhật hoặc xe Mỹ lắp ráp ở Úc, tức công ty ở Nhật và Mỹ đã trả các chi phí nghiên cứu, kỹ thuật khổng lồ để tạo ra mẫu xe. Thị trường Úc không đủ lớn để làm ra một mẫu xe Úc từ đầu với chi phí đủ thấp để cạnh tranh với xe nhập.
 
-Xuất khẩu giúp một số nước đạt quy mô mà thị trường trong nước không cho phép. Heineken không phải dựa vào thị trường Hà Lan nhỏ bé vì bán bia ở 170 nước khác. Nokia bán điện thoại khắp thế giới, không chỉ ở Phần Lan. Tạp chí *The Economist* của Anh bán ở Mỹ gấp ba lần ở Anh. Toyota, Honda và Nissan kiếm phần lớn lợi nhuận ở Bắc Mỹ, và từ năm 2006 các hãng xe Nhật nói chung sản xuất ở nước ngoài nhiều xe hơn ở Nhật. Các nước nhỏ như Hàn Quốc và Đài Loan dựa vào thương mại quốc tế để làm nhiều sản phẩm ở quy mô vượt xa sức tiêu thụ trong nước. Tóm lại, với những sản phẩm cần đầu tư lớn vào máy móc và nghiên cứu, chỉ rất ít nước lớn và giàu có thể thu hồi chi phí bằng doanh số trong nước. Thương mại quốc tế làm thế giới hiệu quả hơn vừa vì cho phép khai thác lợi thế kinh tế theo quy mô ở nhiều nơi hơn, vừa vì tận dụng lợi thế tuyệt đối và lợi thế so sánh của từng nước.
+Xuất khẩu giúp một số nước đạt quy mô mà thị trường trong nước không cho phép. Heineken không phải dựa vào thị trường Hà Lan nhỏ bé vì bán bia ở 170 nước khác. Nokia bán điện thoại khắp thế giới, không chỉ ở Phần Lan. Tạp chí *The Economist* của Anh bán ở Mỹ gấp ba lần ở Anh. Toyota, Honda và Nissan kiếm phần lớn lợi nhuận ở Bắc Mỹ, và từ năm 2006 các hãng xe Nhật nói chung sản xuất ở nước ngoài nhiều xe hơn ở Nhật. Các nước nhỏ như Hàn Quốc và Đài Loan dựa vào thương mại quốc tế để làm nhiều sản phẩm ở quy mô vượt xa sức tiêu thụ trong nước.
 
-Sowell dùng Ấn Độ làm ví dụ về điều xảy ra khi làm ngược lại. Nhiều năm, Ấn Độ khuyến khích doanh nghiệp nhỏ và dựng rào cản chặn hàng nhập khẩu cạnh tranh với họ. Việc dỡ hạn chế nhập khẩu vào cuối thế kỷ 20 và đầu thế kỷ 21 thay đổi tất cả. Tạp chí *Far Eastern Economic Review* mô tả "cơn ác mộng" của ngành đồ chơi Ấn Độ: một con búp bê nhựa nhỏ làm ở Trung Quốc, biết hát một bài nhạc phim Hindi nổi tiếng, giá khoảng 100 rupee (2 USD), được phụ huynh Ấn Độ mua khắp nơi; các hãng đồ chơi Ấn Độ không thể theo kịp tốc độ, quy mô và công nghệ đằng sau mức giá đó, vì ở đồ chơi và giày, Trung Quốc đã xây dựng lợi thế kinh tế theo quy mô khổng lồ còn Ấn Độ đã giữ các nhà sản xuất của mình nhỏ một cách nhân tạo. Sowell cho rằng khó khăn của các hãng đồ chơi khi mở cửa nhỏ hơn nhiều so với thiệt hại do chính sách cũ gây ra: hàng trăm triệu người ở một nước rất nghèo bị buộc trả giá cao vô lý cho đủ loại hàng hoá để bảo vệ nhà sản xuất nhỏ khỏi cạnh tranh của nhà sản xuất lớn trong và ngoài nước. May là các chính sách đó đã chấm dứt ở Ấn Độ vào thập niên cuối của thế kỷ 20.
+Tóm lại, với những sản phẩm cần đầu tư lớn vào máy móc và nghiên cứu, chỉ rất ít nước lớn và giàu có thể thu hồi chi phí bằng doanh số trong nước. Thương mại quốc tế làm thế giới hiệu quả hơn vừa vì cho phép khai thác lợi thế kinh tế theo quy mô ở nhiều nơi hơn, vừa vì tận dụng lợi thế tuyệt đối và lợi thế so sánh của từng nước.
+
+Sowell dùng Ấn Độ làm ví dụ về điều xảy ra khi làm ngược lại. Nhiều năm, Ấn Độ khuyến khích doanh nghiệp nhỏ và dựng rào cản chặn hàng nhập khẩu cạnh tranh với họ. Việc dỡ hạn chế nhập khẩu vào cuối thế kỷ 20 và đầu thế kỷ 21 thay đổi tất cả.
+
+Tạp chí *Far Eastern Economic Review* mô tả "cơn ác mộng" của ngành đồ chơi Ấn Độ: một con búp bê nhựa nhỏ làm ở Trung Quốc, biết hát một bài nhạc phim Hindi nổi tiếng, giá khoảng 100 rupee (2 USD), được phụ huynh Ấn Độ mua khắp nơi; các hãng đồ chơi Ấn Độ không thể theo kịp tốc độ, quy mô và công nghệ đằng sau mức giá đó, vì ở đồ chơi và giày, Trung Quốc đã xây dựng lợi thế kinh tế theo quy mô khổng lồ còn Ấn Độ đã giữ các nhà sản xuất của mình nhỏ một cách nhân tạo.
+
+Sowell cho rằng khó khăn của các hãng đồ chơi khi mở cửa nhỏ hơn nhiều so với thiệt hại do chính sách cũ gây ra: hàng trăm triệu người ở một nước rất nghèo bị buộc trả giá cao vô lý cho đủ loại hàng hoá để bảo vệ nhà sản xuất nhỏ khỏi cạnh tranh của nhà sản xuất lớn trong và ngoài nước. May là các chính sách đó đã chấm dứt ở Ấn Độ vào thập niên cuối của thế kỷ 20.
 
 ### 3. Các hạn chế thương mại quốc tế (International Trade Restrictions)
 
-Thương mại có nhiều lợi ích cho thế giới và cho từng nước, nhưng như mọi hình thức hiệu quả hơn, nó thay thế những cách làm kém hiệu quả. Ô tô gây thiệt hại nặng cho ngành xe ngựa, chuỗi siêu thị lớn làm nhiều tiệm tạp hoá khu phố đóng cửa; cũng vậy, hàng nhập từ nước có lợi thế so sánh làm ngành tương ứng trong nước mất doanh thu và việc làm. Dù lợi ích bù lại thường lớn hơn thiệt hại nhiều, về chính trị gần như chắc chắn sẽ có những tiếng kêu đòi chính phủ bảo hộ bằng các hạn chế nhập khẩu. Nhiều ngụy biện sống dai nhất trong kinh tế học ra đời từ nỗ lực biện minh cho các hạn chế này. Adam Smith đã bác bỏ phần lớn chúng hơn hai thế kỷ trước, nhưng chúng vẫn sống và mạnh về chính trị.
+Thương mại có nhiều lợi ích cho thế giới và cho từng nước, nhưng như mọi hình thức hiệu quả hơn, nó thay thế những cách làm kém hiệu quả. Ô tô gây thiệt hại nặng cho ngành xe ngựa, chuỗi siêu thị lớn làm nhiều tiệm tạp hoá khu phố đóng cửa; cũng vậy, hàng nhập từ nước có lợi thế so sánh làm ngành tương ứng trong nước mất doanh thu và việc làm. Dù lợi ích bù lại thường lớn hơn thiệt hại nhiều, về chính trị gần như chắc chắn sẽ có những tiếng kêu đòi chính phủ bảo hộ bằng các hạn chế nhập khẩu.
+
+Nhiều ngụy biện sống dai nhất trong kinh tế học ra đời từ nỗ lực biện minh cho các hạn chế này. Adam Smith đã bác bỏ phần lớn chúng hơn hai thế kỷ trước, nhưng chúng vẫn sống và mạnh về chính trị.
 
 Các lý lẽ thường gặp: nước giàu không thể cạnh tranh với nước lương thấp; nước nghèo phải bảo vệ "ngành non trẻ" của mình cho tới khi chúng đủ kinh nghiệm để cạnh tranh ngang ngửa với các nước công nghiệp; nước khác không "công bằng" trong luật xuất nhập khẩu, ví dụ "bán phá giá" với giá thấp giả tạo, chịu lỗ ngắn hạn để chiếm thị phần rồi nâng giá khi đã độc quyền. Sowell thừa nhận ngoài đời hiếm lý lẽ nào đúng 100% hay sai 100% thời gian, nhưng với các lý lẽ đòi hạn chế thương mại thì phần lớn chúng sai trong phần lớn trường hợp. Ông xét từng lý lẽ một.
 
@@ -681,7 +710,11 @@ Các lý lẽ thường gặp: nước giàu không thể cạnh tranh với nư
 
 Ở một nước giàu như Mỹ, có một ngụy biện nghe rất hợp lý: hàng Mỹ không thể cạnh tranh với hàng do công nhân lương thấp ở nước nghèo làm ra, khi lương của họ chỉ bằng một phần nhỏ lương công nhân Mỹ. Theo Sowell, cả lịch sử lẫn kinh tế học đều bác bỏ nó.
 
-Về lịch sử, các nước lương cao đã xuất khẩu sang nước lương thấp suốt nhiều thế kỷ. Cộng hoà Hà Lan dẫn đầu thương mại quốc tế gần một thế kỷ rưỡi, từ thập niên 1590 tới thập niên 1740, trong khi trả lương thuộc hàng cao nhất thế giới. Anh là nước xuất khẩu lớn nhất thế kỷ 19, với mức lương cao hơn nhiều so với phần lớn các nước mua hàng của Anh. Ngược lại, Ấn Độ có lương thấp hơn nhiều so với Nhật và Mỹ nhưng nhiều năm phải hạn chế nhập ô tô và các sản phẩm khác của Nhật, Mỹ, vì hàng Ấn Độ không cạnh tranh nổi về giá và chất lượng. Sau khi nới hạn chế, ngay cả tập đoàn công nghiệp hàng đầu Ấn Độ là Tata cũng phải lo về hàng Trung Quốc, dù lương công nhân Trung Quốc cao hơn công nhân Ấn Độ. Tata lập một văn phòng riêng để chuẩn bị cho các bộ phận của tập đoàn trước tác động của việc dỡ hạn chế nhập khẩu. Người đứng đầu, cố vấn kinh tế Jiban Mukhopadhyay, giữ trong ngăn kéo một chiếc cà vạt lụa mua ở Trung Quốc và đố các nhà quản lý dự hội thảo về WTO (Tổ chức Thương mại Thế giới) đoán giá: chỉ 85 rupee, trong khi cà vạt tương tự làm ở Ấn Độ giá 400 rupee.
+Về lịch sử, các nước lương cao đã xuất khẩu sang nước lương thấp suốt nhiều thế kỷ. Cộng hoà Hà Lan dẫn đầu thương mại quốc tế gần một thế kỷ rưỡi, từ thập niên 1590 tới thập niên 1740, trong khi trả lương thuộc hàng cao nhất thế giới. Anh là nước xuất khẩu lớn nhất thế kỷ 19, với mức lương cao hơn nhiều so với phần lớn các nước mua hàng của Anh.
+
+Ngược lại, Ấn Độ có lương thấp hơn nhiều so với Nhật và Mỹ nhưng nhiều năm phải hạn chế nhập ô tô và các sản phẩm khác của Nhật, Mỹ, vì hàng Ấn Độ không cạnh tranh nổi về giá và chất lượng.
+
+Sau khi nới hạn chế, ngay cả tập đoàn công nghiệp hàng đầu Ấn Độ là Tata cũng phải lo về hàng Trung Quốc, dù lương công nhân Trung Quốc cao hơn công nhân Ấn Độ. Tata lập một văn phòng riêng để chuẩn bị cho các bộ phận của tập đoàn trước tác động của việc dỡ hạn chế nhập khẩu. Người đứng đầu, cố vấn kinh tế Jiban Mukhopadhyay, giữ trong ngăn kéo một chiếc cà vạt lụa mua ở Trung Quốc và đố các nhà quản lý dự hội thảo về WTO (Tổ chức Thương mại Thế giới) đoán giá: chỉ 85 rupee, trong khi cà vạt tương tự làm ở Ấn Độ giá 400 rupee.
 
 Về kinh tế học, lỗi then chốt của lý lẽ lương cao là nhầm mức lương với chi phí lao động, và nhầm chi phí lao động với tổng chi phí:
 
@@ -695,9 +728,13 @@ Nếu công nhân nước giàu được trả lương gấp đôi công nhân n
 
 Một công ty tư vấn quốc tế xác định năng suất lao động trung bình ở các khu vực hiện đại của Ấn Độ chỉ bằng 15% của Mỹ. Nghĩa là nếu thuê một công nhân Ấn Độ trung bình và trả một phần năm lương của công nhân Mỹ trung bình, làm cùng một khối lượng việc ở Ấn Độ lại tốn hơn ở Mỹ: trả 20% lương cho người chỉ làm ra 15% sản lượng thì chi phí lao động tăng lên.
 
-Điều này không có nghĩa nước lương thấp không bao giờ giành được việc làm từ nước lương cao. Khi chênh lệch năng suất nhỏ hơn chênh lệch lương, như với các lập trình viên Ấn Độ được đào tạo tốt và nói tiếng Anh, nhiều việc lập trình của Mỹ sẽ được làm ở Ấn Độ; các dạng lợi thế so sánh khác cũng làm việc làm chuyển sang nước có ưu thế ở việc cụ thể. Nhưng điều đó không có nghĩa nền kinh tế mất việc làm ròng, cũng như các hình thức hiệu quả hơn khác trong nước hay quốc tế không làm mất việc làm ròng. Mất việc là thật với người bị mất, dù vì cạnh tranh trong nước hay quốc tế; nhưng hạn chế thị trường trong nước hay quốc tế thường làm mất việc làm ròng, vì nó làm giảm sự thịnh vượng mà cầu hàng hoá và cầu lao động dựa vào.
+Điều này không có nghĩa nước lương thấp không bao giờ giành được việc làm từ nước lương cao. Khi chênh lệch năng suất nhỏ hơn chênh lệch lương, như với các lập trình viên Ấn Độ được đào tạo tốt và nói tiếng Anh, nhiều việc lập trình của Mỹ sẽ được làm ở Ấn Độ; các dạng lợi thế so sánh khác cũng làm việc làm chuyển sang nước có ưu thế ở việc cụ thể.
 
-Chi phí lao động cũng chỉ là một phần câu chuyện. Chi phí vốn và quản lý chiếm phần đáng kể trong giá thành nhiều sản phẩm, và ở những ngành có chi phí cố định cao như điện lực và đường sắt (đầu tư hạ tầng khổng lồ), chi phí vốn có thể vượt chi phí lao động. Nước giàu thường dồi dào vốn hơn nên, theo cung cầu, vốn ở đó rẻ hơn so với nước nghèo, nơi vốn khan hiếm và đòi lợi suất cao hơn. Lịch sử công nghiệp hoá nước Nga thời Sa hoàng minh hoạ điều này: khi Nga bắt đầu chương trình công nghiệp hoá quy mô lớn vào thập niên 1890, nhà đầu tư nước ngoài thu lợi suất 17,5% mỗi năm, cho tới khi nhiều người đổ vốn vào tới mức lợi suất giảm dần và xuống dưới 5% vào năm 1900. Nước nghèo có chi phí vốn cao sẽ khó cạnh tranh với nước giàu có chi phí vốn thấp, kể cả khi có lợi thế thật về chi phí lao động, điều mà họ thường không có.
+Nhưng điều đó không có nghĩa nền kinh tế mất việc làm ròng, cũng như các hình thức hiệu quả hơn khác trong nước hay quốc tế không làm mất việc làm ròng. Mất việc là thật với người bị mất, dù vì cạnh tranh trong nước hay quốc tế; nhưng hạn chế thị trường trong nước hay quốc tế thường làm mất việc làm ròng, vì nó làm giảm sự thịnh vượng mà cầu hàng hoá và cầu lao động dựa vào.
+
+Chi phí lao động cũng chỉ là một phần câu chuyện. Chi phí vốn và quản lý chiếm phần đáng kể trong giá thành nhiều sản phẩm, và ở những ngành có chi phí cố định cao như điện lực và đường sắt (đầu tư hạ tầng khổng lồ), chi phí vốn có thể vượt chi phí lao động. Nước giàu thường dồi dào vốn hơn nên, theo cung cầu, vốn ở đó rẻ hơn so với nước nghèo, nơi vốn khan hiếm và đòi lợi suất cao hơn.
+
+Lịch sử công nghiệp hoá nước Nga thời Sa hoàng minh hoạ điều này: khi Nga bắt đầu chương trình công nghiệp hoá quy mô lớn vào thập niên 1890, nhà đầu tư nước ngoài thu lợi suất 17,5% mỗi năm, cho tới khi nhiều người đổ vốn vào tới mức lợi suất giảm dần và xuống dưới 5% vào năm 1900. Nước nghèo có chi phí vốn cao sẽ khó cạnh tranh với nước giàu có chi phí vốn thấp, kể cả khi có lợi thế thật về chi phí lao động, điều mà họ thường không có.
 
 Ở bất kỳ thời điểm nào, chắc chắn có ngành bị hàng nhập khẩu làm thiệt, cũng như bị mọi nguồn hàng rẻ hơn hay tốt hơn khác làm thiệt, dù trong nước hay nước ngoài. Những nguồn hiệu quả đó luôn hoạt động, buộc các ngành hiện đại hoá, thu hẹp hay đóng cửa. Nhưng khi nguyên nhân là người nước ngoài, chính trị có thể vẽ nó thành chuyện "nước ta chống nước họ", trong khi thực chất là chuyện cũ: nhóm lợi ích đặc biệt trong nước chống lại người tiêu dùng.
 
@@ -705,7 +742,11 @@ Chi phí lao động cũng chỉ là một phần câu chuyện. Chi phí vốn 
 
 Khi thất nghiệp cao, chính trị gia đặc biệt bị ép phải cứu những ngành đang mất tiền và mất việc làm bằng cách hạn chế hàng nhập cạnh tranh. Một trong những ví dụ bi thảm nhất là cuộc suy thoái toàn cầu thập niên 1930, khi thuế quan và các hạn chế khác được dựng lên khắp thế giới; kết quả ròng là xuất khẩu thế giới năm 1933 chỉ còn một phần ba mức năm 1929. Tự do thương mại mang lợi cho mọi nước cùng lúc; cũng vậy, hạn chế thương mại làm giảm hiệu quả của mọi nước cùng lúc, hạ mức sống, mà không tạo ra việc làm như mong đợi.
 
-Làn sóng hạn chế đó được khởi động bởi thuế quan Smoot-Hawley mà Mỹ thông qua năm 1930, nâng thuế nhập khẩu của Mỹ lên mức cao kỷ lục. Các nước khác trả đũa bằng những hạn chế nặng với hàng Mỹ; hơn nữa, cùng áp lực chính trị ở Mỹ cũng có ở nơi khác, vì nhiều người thấy hợp lý khi bảo vệ việc làm trong nước bằng cách giảm nhập khẩu. Kết quả là nhiều nước áp hạn chế nặng với nhiều nước khác, không chỉ với Mỹ. Hậu quả rất khác điều người ta mong đợi, nhưng đúng như điều hơn một nghìn nhà kinh tế đã dự đoán trong một thư ngỏ phản đối việc tăng thuế, gửi Thượng nghị sĩ Smoot, Hạ nghị sĩ Hawley và Tổng thống Herbert Hoover. Thư viết rằng nước Mỹ đang đối mặt với thất nghiệp, những người ủng hộ thuế cao nói tăng thuế sẽ tạo việc cho người không có việc, nhưng điều đó không đúng, vì không thể tăng việc làm bằng cách hạn chế thương mại. Các nhà kinh tế này, trong đó có nhiều giáo sư hàng đầu ở Harvard, Columbia và Đại học Chicago, đã dự đoán chính xác các nước khác sẽ áp thuế "trả đũa" hàng Mỹ, và "đại đa số" nông dân Mỹ, những người ủng hộ thuế quan mạnh nhất, sẽ bị thiệt ròng khi các nước hạn chế nhập nông sản Mỹ. Mọi dự đoán đều thành sự thật: thất nghiệp tệ hơn, xuất khẩu nông sản Mỹ lao dốc, thương mại quốc tế của Mỹ giảm chung.
+Làn sóng hạn chế đó được khởi động bởi thuế quan Smoot-Hawley mà Mỹ thông qua năm 1930, nâng thuế nhập khẩu của Mỹ lên mức cao kỷ lục. Các nước khác trả đũa bằng những hạn chế nặng với hàng Mỹ; hơn nữa, cùng áp lực chính trị ở Mỹ cũng có ở nơi khác, vì nhiều người thấy hợp lý khi bảo vệ việc làm trong nước bằng cách giảm nhập khẩu. Kết quả là nhiều nước áp hạn chế nặng với nhiều nước khác, không chỉ với Mỹ.
+
+Hậu quả rất khác điều người ta mong đợi, nhưng đúng như điều hơn một nghìn nhà kinh tế đã dự đoán trong một thư ngỏ phản đối việc tăng thuế, gửi Thượng nghị sĩ Smoot, Hạ nghị sĩ Hawley và Tổng thống Herbert Hoover. Thư viết rằng nước Mỹ đang đối mặt với thất nghiệp, những người ủng hộ thuế cao nói tăng thuế sẽ tạo việc cho người không có việc, nhưng điều đó không đúng, vì không thể tăng việc làm bằng cách hạn chế thương mại.
+
+Các nhà kinh tế này, trong đó có nhiều giáo sư hàng đầu ở Harvard, Columbia và Đại học Chicago, đã dự đoán chính xác các nước khác sẽ áp thuế "trả đũa" hàng Mỹ, và "đại đa số" nông dân Mỹ, những người ủng hộ thuế quan mạnh nhất, sẽ bị thiệt ròng khi các nước hạn chế nhập nông sản Mỹ. Mọi dự đoán đều thành sự thật: thất nghiệp tệ hơn, xuất khẩu nông sản Mỹ lao dốc, thương mại quốc tế của Mỹ giảm chung.
 
 | Thời điểm | Tỷ lệ thất nghiệp ở Mỹ |
 |---|---|
@@ -716,7 +757,9 @@ Làn sóng hạn chế đó được khởi động bởi thuế quan Smoot-Hawl
 
 Sowell nói không cần quy tất cả cho thuế quan, nhưng toàn bộ mục đích của thuế quan đó là giảm thất nghiệp. Trong chú thích chân trang (dấu {xxvii}), Sowell viết thêm: có thể lập luận rằng thuế quan Smoot-Hawley liên quan tới thất nghiệp hàng loạt của thập niên 1930 nhiều hơn vụ sụp đổ thị trường chứng khoán năm 1929, thứ thường bị đổ lỗi. Thất nghiệp có tăng sau vụ sụp đổ, nhưng không tháng nào trong 12 tháng sau đó chạm 10%. Còn chỉ năm tháng sau thuế quan Smoot-Hawley, thất nghiệp đã lên 11,6% và còn tiếp tục tăng, và phải hơn tám năm sau mới xuống lại mức 11,6%. Nguồn Sowell dẫn: Richard K. Vedder và Lowell E. Gallaway, *Out of Work*, ấn bản 1993.
 
-Ở mọi thời điểm, một thuế quan bảo hộ hay hạn chế nhập khẩu có thể cứu ngay một ngành và nhờ đó được doanh nghiệp, công đoàn ngành đó ủng hộ về chính trị và tài chính. Nhưng như nhiều lợi ích chính trị khác, nó được trả bằng thiệt hại của những người ít tổ chức hơn, ít được nhìn thấy hơn, ít lên tiếng hơn. Khi việc làm ngành thép Mỹ giảm từ 340.000 xuống 125.000 trong thập niên 1980, đó là tin lớn về kinh tế và chính trị và dẫn tới nhiều luật lệ hạn chế thép nhập khẩu. Cung giảm làm giá thép trong nước tăng, tức là chi phí cao hơn cho mọi ngành Mỹ làm sản phẩm từ thép, từ ô tô tới giàn khoan dầu, khiến họ kém cạnh tranh với hàng nước ngoài cả ở Mỹ lẫn trên thị trường thế giới.
+Ở mọi thời điểm, một thuế quan bảo hộ hay hạn chế nhập khẩu có thể cứu ngay một ngành và nhờ đó được doanh nghiệp, công đoàn ngành đó ủng hộ về chính trị và tài chính. Nhưng như nhiều lợi ích chính trị khác, nó được trả bằng thiệt hại của những người ít tổ chức hơn, ít được nhìn thấy hơn, ít lên tiếng hơn.
+
+Khi việc làm ngành thép Mỹ giảm từ 340.000 xuống 125.000 trong thập niên 1980, đó là tin lớn về kinh tế và chính trị và dẫn tới nhiều luật lệ hạn chế thép nhập khẩu. Cung giảm làm giá thép trong nước tăng, tức là chi phí cao hơn cho mọi ngành Mỹ làm sản phẩm từ thép, từ ô tô tới giàn khoan dầu, khiến họ kém cạnh tranh với hàng nước ngoài cả ở Mỹ lẫn trên thị trường thế giới.
 
 | Nhóm (theo ước tính về thuế quan thép) | Lợi nhuận | Việc làm |
 |---|---|---|
@@ -729,11 +772,15 @@ Sowell kết luận hạn chế thương mại là thêm một ví dụ của ng
 
 #### 3.3. Ngành công nghiệp non trẻ ("Infant Industries")
 
-Một lý lẽ mà các nhà kinh tế từ lâu công nhận là đúng, ít nhất về lý thuyết, là bảo hộ tạm thời các "ngành non trẻ" cho tới khi chúng có đủ kỹ năng và kinh nghiệm để cạnh tranh với đối thủ nước ngoài lâu đời. Khi đạt tới đó, bảo hộ (thuế quan, hạn ngạch hay hình thức khác) được gỡ bỏ và ngành phải tự đứng vững hay sụp đổ trong cạnh tranh thị trường. Nhưng trên thực tế, một ngành mới hiếm khi có đủ sức mạnh chính trị (lá phiếu của nhân viên, tiền tài trợ tranh cử của chủ doanh nghiệp, chính quyền địa phương cần tiền thuế của họ) để giành được bảo hộ. Ngược lại, một ngành cũ, kém hiệu quả, đã qua thời hoàng kim, có thể vẫn còn đủ sức mạnh chính trị để giành luật bảo hộ hay trợ cấp giữ mình khỏi bị xoá sổ, và người tiêu dùng, người nộp thuế, hoặc cả hai, phải gánh chi phí.
+Một lý lẽ mà các nhà kinh tế từ lâu công nhận là đúng, ít nhất về lý thuyết, là bảo hộ tạm thời các "ngành non trẻ" cho tới khi chúng có đủ kỹ năng và kinh nghiệm để cạnh tranh với đối thủ nước ngoài lâu đời. Khi đạt tới đó, bảo hộ (thuế quan, hạn ngạch hay hình thức khác) được gỡ bỏ và ngành phải tự đứng vững hay sụp đổ trong cạnh tranh thị trường.
+
+Nhưng trên thực tế, một ngành mới hiếm khi có đủ sức mạnh chính trị (lá phiếu của nhân viên, tiền tài trợ tranh cử của chủ doanh nghiệp, chính quyền địa phương cần tiền thuế của họ) để giành được bảo hộ. Ngược lại, một ngành cũ, kém hiệu quả, đã qua thời hoàng kim, có thể vẫn còn đủ sức mạnh chính trị để giành luật bảo hộ hay trợ cấp giữ mình khỏi bị xoá sổ, và người tiêu dùng, người nộp thuế, hoặc cả hai, phải gánh chi phí.
 
 #### 3.4. Quốc phòng (National Defense)
 
-Ngay cả người ủng hộ tự do thương mại nhiệt thành nhất cũng khó muốn phụ thuộc vào vũ khí, quân trang nhập từ những nước có thể trở thành kẻ thù. Vì vậy các nhà cung cấp vũ khí, đạn dược trong nước từ lâu được hỗ trợ theo cách này hay cách khác để có sẵn khi cần cho quốc phòng. Một trong số ít trường hợp lịch sử một dân tộc phụ thuộc vào kẻ thù tiềm tàng về quân nhu là thổ dân châu Mỹ thời thuộc địa: họ mua súng đạn của người định cư châu Âu, và khi chiến tranh nổ ra, họ có thể thắng phần lớn trận đánh mà vẫn thua cuộc chiến khi hết đạn, thứ chỉ người định cư da trắng có. Vì súng đạn là sản phẩm của văn minh châu Âu, thổ dân không có lựa chọn nào khác; còn các nước có lựa chọn thì gần như luôn muốn có nhà cung cấp trong nước cho những thứ thiết yếu với sự tồn vong của mình.
+Ngay cả người ủng hộ tự do thương mại nhiệt thành nhất cũng khó muốn phụ thuộc vào vũ khí, quân trang nhập từ những nước có thể trở thành kẻ thù. Vì vậy các nhà cung cấp vũ khí, đạn dược trong nước từ lâu được hỗ trợ theo cách này hay cách khác để có sẵn khi cần cho quốc phòng.
+
+Một trong số ít trường hợp lịch sử một dân tộc phụ thuộc vào kẻ thù tiềm tàng về quân nhu là thổ dân châu Mỹ thời thuộc địa: họ mua súng đạn của người định cư châu Âu, và khi chiến tranh nổ ra, họ có thể thắng phần lớn trận đánh mà vẫn thua cuộc chiến khi hết đạn, thứ chỉ người định cư da trắng có. Vì súng đạn là sản phẩm của văn minh châu Âu, thổ dân không có lựa chọn nào khác; còn các nước có lựa chọn thì gần như luôn muốn có nhà cung cấp trong nước cho những thứ thiết yếu với sự tồn vong của mình.
 
 Đáng tiếc, khái niệm "thiết yếu cho quốc phòng" có thể bị kéo giãn, và đã bị kéo giãn, cho cả những sản phẩm chỉ liên quan xa, gián tiếp hoặc chỉ liên quan trên danh nghĩa tới quốc phòng, để được bảo hộ vì lợi ích riêng. Lý lẽ quốc phòng có thể đúng, nhưng đúng hay không với một ngành, ở một nước, vào một thời điểm phụ thuộc vào hoàn cảnh thực tế của ngành đó, nước đó, thời điểm đó. Các nước khác nhau cũng có xác suất trở thành kẻ thù khác nhau: năm 2004, Canada là nước ngoài nhận hợp đồng của Lầu Năm Góc lớn nhất (601 triệu USD), tiếp theo là Anh và Israel, không nước nào trong ba nước này có khả năng gây chiến với Mỹ.
 
@@ -745,7 +792,9 @@ Một lý lẽ phổ biến để đòi bảo hộ là đối thủ nước ngo�
 
 Mọi thứ trong lý lẽ này phụ thuộc vào việc nhà sản xuất nước ngoài có thật sự bán dưới giá thành không. Như Chương 6 đã nói, xác định giá thành rất khó ngay cả với một công ty hoạt động trong cùng nước với cơ quan chính phủ đang xác định. Quan chức châu Âu xác định giá thành của một công ty ở Đông Nam Á còn khó hơn nhiều, nhất là khi họ đang điều tra cùng lúc nhiều vụ của nhiều công ty khắp thế giới. Thứ duy nhất dễ dàng là nhà sản xuất trong nước nộp đơn cáo buộc khi hàng nhập lấy mất khách của họ. Với giá thành không chắc chắn như vậy, con đường ít trở ngại nhất cho quan chức là chấp nhận cáo buộc.
 
-Ví dụ: cơ quan của Liên minh châu Âu kết luận một nhà sản xuất xe đạp địa hình ở Thái Lan xuất sang châu Âu dưới giá thành, vì ông bán ở châu Âu rẻ hơn giá loại xe này ở Thái Lan. Nhưng vì có lợi thế kinh tế theo quy mô, chi phí của nhà sản xuất Thái Lan khi bán số lượng khổng lồ cho châu Âu khó có thể cao bằng chi phí của các nhà sản xuất khác bán số lượng nhỏ ở Thái Lan, nơi dân số ít hơn, nghèo hơn, và cầu với một món hàng xa xỉ như xe đạp địa hình thấp hơn nhiều. Ngay cả chi phí của chính nhà sản xuất này khi bán ít ở Thái Lan cũng có thể cao hơn mỗi chiếc so với khi bán đơn hàng lớn cho châu Âu. Bán ở châu Âu rẻ hơn giá ở Thái Lan không nhất thiết là bán dưới giá thành sản xuất cho thị trường châu Âu khổng lồ.
+Ví dụ: cơ quan của Liên minh châu Âu kết luận một nhà sản xuất xe đạp địa hình ở Thái Lan xuất sang châu Âu dưới giá thành, vì ông bán ở châu Âu rẻ hơn giá loại xe này ở Thái Lan.
+
+Nhưng vì có lợi thế kinh tế theo quy mô, chi phí của nhà sản xuất Thái Lan khi bán số lượng khổng lồ cho châu Âu khó có thể cao bằng chi phí của các nhà sản xuất khác bán số lượng nhỏ ở Thái Lan, nơi dân số ít hơn, nghèo hơn, và cầu với một món hàng xa xỉ như xe đạp địa hình thấp hơn nhiều. Ngay cả chi phí của chính nhà sản xuất này khi bán ít ở Thái Lan cũng có thể cao hơn mỗi chiếc so với khi bán đơn hàng lớn cho châu Âu. Bán ở châu Âu rẻ hơn giá ở Thái Lan không nhất thiết là bán dưới giá thành sản xuất cho thị trường châu Âu khổng lồ.
 
 Trường hợp này không cá biệt:
 
@@ -758,7 +807,9 @@ Không có cơ sở nghiêm túc nào để xác định giá thành các mặt 
 
 #### 3.6. Các loại hạn chế (Kinds of Restrictions)
 
-Thuế quan là thuế đánh vào hàng nhập khẩu, làm giá hàng nhập tăng và nhờ đó nhà sản xuất trong nước bán hàng cạnh tranh với giá cao hơn mức họ bán được nếu hàng nước ngoài rẻ. Hạn ngạch nhập khẩu cũng ngăn công ty nước ngoài cạnh tranh ngang bằng với nhà sản xuất trong nước. Hai công cụ có thể cho cùng kết quả kinh tế, nhưng công chúng không thấy rõ như nhau. Một thuế quan 10 USD trên mỗi món hàng nhập khẩu cho phép nhà sản xuất trong nước nâng giá thêm 10 USD mà không mất khách; một hạn ngạch phù hợp về số lượng hàng nhập cũng có thể đẩy giá lên 10 USD thông qua cung cầu, nhưng cử tri khó thấy và khó đo tác động hơn nhiều. Về chính trị, điều đó có nghĩa một hạn ngạch làm giá tăng 15 USD có thể dễ được thông qua như một thuế quan 10 USD. (Sowell dùng chữ "widget", tức một món hàng giả định, cho ví dụ này.)
+Thuế quan là thuế đánh vào hàng nhập khẩu, làm giá hàng nhập tăng và nhờ đó nhà sản xuất trong nước bán hàng cạnh tranh với giá cao hơn mức họ bán được nếu hàng nước ngoài rẻ. Hạn ngạch nhập khẩu cũng ngăn công ty nước ngoài cạnh tranh ngang bằng với nhà sản xuất trong nước. Hai công cụ có thể cho cùng kết quả kinh tế, nhưng công chúng không thấy rõ như nhau.
+
+Một thuế quan 10 USD trên mỗi món hàng nhập khẩu cho phép nhà sản xuất trong nước nâng giá thêm 10 USD mà không mất khách; một hạn ngạch phù hợp về số lượng hàng nhập cũng có thể đẩy giá lên 10 USD thông qua cung cầu, nhưng cử tri khó thấy và khó đo tác động hơn nhiều. Về chính trị, điều đó có nghĩa một hạn ngạch làm giá tăng 15 USD có thể dễ được thông qua như một thuế quan 10 USD. (Sowell dùng chữ "widget", tức một món hàng giả định, cho ví dụ này.)
 
 Cách làm này đôi khi được củng cố bằng lời than rằng nước nọ nước kia hạn chế hàng Mỹ "không công bằng". Nhưng thực tế đáng buồn là gần như nước nào cũng áp những hạn chế "không công bằng", thường do các nhóm lợi ích đặc biệt trong nước đòi. Và ở đây cũng như mọi nơi, chỉ có thể chọn giữa những phương án thực sự có. Hạn chế của nước khác làm cả họ lẫn ta mất một phần lợi ích thương mại; nếu ta làm tương tự để đáp trả, cả hai mất thêm; nếu ta để họ "thoát" (tức không trả đũa), thiệt hại cho cả hai bên là nhỏ nhất.
 
@@ -766,7 +817,9 @@ Những hình thức ngụy trang còn hiệu quả hơn là các quy định y 
 
 ### 4. Điều kiện thay đổi (Changing Conditions)
 
-Theo thời gian, lợi thế so sánh thay đổi, làm các trung tâm sản xuất quốc tế dịch chuyển từ nước này sang nước khác. Khi máy tính còn là sản phẩm mới lạ, phần lớn việc phát triển và sản xuất ban đầu diễn ra ở Mỹ. Nhưng khi công việc kỹ thuật đã biến máy tính thành sản phẩm phổ biến mà nhiều người biết làm, Mỹ giữ lợi thế so sánh ở thiết kế phần mềm, còn bản thân chiếc máy có thể dễ dàng được lắp ráp ở các nước nghèo hơn, và đã được lắp ráp ở đó. Ngay cả máy tính bán ở Mỹ dưới thương hiệu Mỹ cũng thường làm ở châu Á. Đầu thế kỷ 21, *The Economist* viết rằng Đài Loan làm phần lớn linh kiện máy tính thế giới. *Far Eastern Economic Review* cho thấy mô hình này rộng hơn: các hãng châu Á dựa nhiều vào hãng Mỹ, Nhật và châu Âu làm nguồn công nghệ mới chủ yếu, trong khi chính họ có biên lợi nhuận "mỏng như dao cạo" vì phí bản quyền cao mà các hãng thương hiệu toàn cầu thu.
+Theo thời gian, lợi thế so sánh thay đổi, làm các trung tâm sản xuất quốc tế dịch chuyển từ nước này sang nước khác. Khi máy tính còn là sản phẩm mới lạ, phần lớn việc phát triển và sản xuất ban đầu diễn ra ở Mỹ. Nhưng khi công việc kỹ thuật đã biến máy tính thành sản phẩm phổ biến mà nhiều người biết làm, Mỹ giữ lợi thế so sánh ở thiết kế phần mềm, còn bản thân chiếc máy có thể dễ dàng được lắp ráp ở các nước nghèo hơn, và đã được lắp ráp ở đó.
+
+Ngay cả máy tính bán ở Mỹ dưới thương hiệu Mỹ cũng thường làm ở châu Á. Đầu thế kỷ 21, *The Economist* viết rằng Đài Loan làm phần lớn linh kiện máy tính thế giới. *Far Eastern Economic Review* cho thấy mô hình này rộng hơn: các hãng châu Á dựa nhiều vào hãng Mỹ, Nhật và châu Âu làm nguồn công nghệ mới chủ yếu, trong khi chính họ có biên lợi nhuận "mỏng như dao cạo" vì phí bản quyền cao mà các hãng thương hiệu toàn cầu thu.
 
 Ngành phần mềm Mỹ không thể lớn mạnh như vậy nếu phần lớn kỹ sư và kỹ thuật viên máy tính Mỹ bị giữ lại để lắp những chiếc máy mà nước khác cũng làm được dễ dàng. Cùng một người lao động Mỹ không thể ở hai nơi một lúc; họ chỉ chuyển tới nơi có lợi thế so sánh lớn nhất được nếu nước Mỹ "mất việc làm" ở nơi không có lợi thế so sánh. Đó là lý do Mỹ có thể đạt mức thịnh vượng chưa từng có và việc làm tăng nhanh đúng lúc báo chí thường xuyên đưa tin sa thải hàng chục nghìn người ở ngành này, hàng trăm nghìn người ở ngành khác.
 
@@ -797,11 +850,19 @@ Nghĩa là nếu EU cho phép tự do thương mại 100%, có thể trả mỗi
 
 Lý do thứ hai là nhiều nhà kinh tế không buồn trả lời các nhóm lợi ích đặc biệt hay những người chống tự do thương mại vì hệ tư tưởng. Lý lẽ của cả hai nhóm đã bị bác bỏ từ hàng thế kỷ và trong giới kinh tế bị coi là không đáng bàn. Năm 1828, nhà kinh tế Anh Nassau W. Senior đã viết rằng lương cao không ngăn các nhà sản xuất Anh cạnh tranh với nước ngoài, mà thực ra là hệ quả tất yếu của chính nguyên nhân giúp Anh cạnh tranh được, tức năng suất vượt trội của lao động Anh. Nhưng thái độ coi thường của giới kinh tế với những ngụy biện cũ chỉ để những người phát ngôn hùng hồn, lưu loát gần như độc chiếm dư luận, và công chúng hiếm khi nghe nhiều hơn một phía.
 
-Một trong số ít nhà kinh tế hàng đầu đương thời chịu trả lời phe bảo hộ là Jagdish Bhagwati, người nhận tranh luận công khai với Ralph Nader (nhà hoạt động vì người tiêu dùng, chống tự do thương mại) tại Đại học Cornell. Bhagwati kể: buổi chiều trước cuộc tranh luận tối hôm đó, ông giảng một bài chuyên môn về tự do thương mại cho nghiên cứu sinh kinh tế và hỏi bao nhiêu người sẽ đi xem tranh luận; không ai giơ tay, với lý do "phí thời gian làm gì". Kết quả là trong gần một nghìn sinh viên chật kín hội trường, đại đa số chống tự do thương mại và cổ vũ Nader. Bhagwati nhận xét giới kinh tế thường phản ứng với những người phê phán tự do thương mại bằng sự khinh thường và thờ ơ, không chịu bước ra diễn đàn công cộng.
+Một trong số ít nhà kinh tế hàng đầu đương thời chịu trả lời phe bảo hộ là Jagdish Bhagwati, người nhận tranh luận công khai với Ralph Nader (nhà hoạt động vì người tiêu dùng, chống tự do thương mại) tại Đại học Cornell. Bhagwati kể: buổi chiều trước cuộc tranh luận tối hôm đó, ông giảng một bài chuyên môn về tự do thương mại cho nghiên cứu sinh kinh tế và hỏi bao nhiêu người sẽ đi xem tranh luận; không ai giơ tay, với lý do "phí thời gian làm gì".
 
-Cuối chương, Sowell nói về chữ "toàn cầu hoá" (globalization). Vì từ khoá này được đặt ra để mô tả tầm quan trọng ngày càng lớn của thương mại quốc tế và sự phụ thuộc lẫn nhau giữa các nền kinh tế, nhiều người tưởng thương mại và giao dịch tài chính quốc tế là điều mới, và các nhóm lợi ích cũng như những người theo hệ tư tưởng có thể khai thác nỗi sợ cái chưa biết của công chúng. Nhưng "toàn cầu hoá" còn bao hàm nhiều hơn tự do thương mại giữa các nước: nó gồm các luật lệ thể chế về giảm rào cản thương mại và về dòng tiền, do các tổ chức quốc tế như Ngân hàng Thế giới, Quỹ Tiền tệ Quốc tế (IMF) và Tổ chức Thương mại Thế giới (WTO) xây dựng. Các luật lệ đó là đề tài tranh cãi chính đáng, nhưng không phải tranh cãi nào trong đó cũng là tranh cãi về tự do thương mại.
+Kết quả là trong gần một nghìn sinh viên chật kín hội trường, đại đa số chống tự do thương mại và cổ vũ Nader. Bhagwati nhận xét giới kinh tế thường phản ứng với những người phê phán tự do thương mại bằng sự khinh thường và thờ ơ, không chịu bước ra diễn đàn công cộng.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một nước có 1.000 lao động có thể làm áo sơ mi hoặc linh kiện điện tử; nước láng giềng giàu hơn có năng suất cao hơn ở cả hai. Giả sử mỗi lao động ở nước nghèo làm được 40 áo hoặc 4 linh kiện mỗi ngày (1 linh kiện tương đương 10 áo), còn ở nước giàu làm được 60 áo hoặc 12 linh kiện (1 linh kiện tương đương 5 áo). Nước giàu giỏi hơn ở cả hai thứ, nhưng nước nghèo có lợi thế so sánh ở áo: mỗi linh kiện nước nghèo không làm giúp họ làm thêm 10 áo, trong khi nước giàu chỉ phải bỏ 5 áo để làm một linh kiện. Nếu nước nghèo chuyên làm áo và nước giàu chuyên làm linh kiện, rồi trao đổi ở tỷ lệ nằm giữa hai mức (ví dụ 1 linh kiện đổi 7 áo), cả hai đều có nhiều áo và linh kiện hơn so với tự làm cả hai. Giờ giả sử nước giàu muốn "cứu việc làm" ngành may bằng thuế nhập khẩu áo 30%: vài nghìn công nhân may được giữ việc, nhưng hàng chục triệu người mua áo trả thêm mỗi người một khoản nhỏ, còn số lao động bị giữ lại ngành may lẽ ra có thể làm linh kiện, thứ nước giàu làm hiệu quả hơn nhiều. Đây cùng một logic với ví dụ thuế quan thép trong chương (5.000 việc giữ được ở ngành thép, 26.000 việc mất ở các ngành dùng thép), chỉ đổi tên hàng hoá.
+Cuối chương, Sowell nói về chữ "toàn cầu hoá" (globalization). Vì từ khoá này được đặt ra để mô tả tầm quan trọng ngày càng lớn của thương mại quốc tế và sự phụ thuộc lẫn nhau giữa các nền kinh tế, nhiều người tưởng thương mại và giao dịch tài chính quốc tế là điều mới, và các nhóm lợi ích cũng như những người theo hệ tư tưởng có thể khai thác nỗi sợ cái chưa biết của công chúng.
+
+Nhưng "toàn cầu hoá" còn bao hàm nhiều hơn tự do thương mại giữa các nước: nó gồm các luật lệ thể chế về giảm rào cản thương mại và về dòng tiền, do các tổ chức quốc tế như Ngân hàng Thế giới, Quỹ Tiền tệ Quốc tế (IMF) và Tổ chức Thương mại Thế giới (WTO) xây dựng. Các luật lệ đó là đề tài tranh cãi chính đáng, nhưng không phải tranh cãi nào trong đó cũng là tranh cãi về tự do thương mại.
+
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một nước có 1.000 lao động có thể làm áo sơ mi hoặc linh kiện điện tử; nước láng giềng giàu hơn có năng suất cao hơn ở cả hai. Giả sử mỗi lao động ở nước nghèo làm được 40 áo hoặc 4 linh kiện mỗi ngày (1 linh kiện tương đương 10 áo), còn ở nước giàu làm được 60 áo hoặc 12 linh kiện (1 linh kiện tương đương 5 áo).
+
+Nước giàu giỏi hơn ở cả hai thứ, nhưng nước nghèo có lợi thế so sánh ở áo: mỗi linh kiện nước nghèo không làm giúp họ làm thêm 10 áo, trong khi nước giàu chỉ phải bỏ 5 áo để làm một linh kiện. Nếu nước nghèo chuyên làm áo và nước giàu chuyên làm linh kiện, rồi trao đổi ở tỷ lệ nằm giữa hai mức (ví dụ 1 linh kiện đổi 7 áo), cả hai đều có nhiều áo và linh kiện hơn so với tự làm cả hai.
+
+Giờ giả sử nước giàu muốn "cứu việc làm" ngành may bằng thuế nhập khẩu áo 30%: vài nghìn công nhân may được giữ việc, nhưng hàng chục triệu người mua áo trả thêm mỗi người một khoản nhỏ, còn số lao động bị giữ lại ngành may lẽ ra có thể làm linh kiện, thứ nước giàu làm hiệu quả hơn nhiều. Đây cùng một logic với ví dụ thuế quan thép trong chương (5.000 việc giữ được ở ngành thép, 26.000 việc mất ở các ngành dùng thép), chỉ đổi tên hàng hoá.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -915,7 +976,9 @@ Thương mại quốc tế làm tất cả các nước tham gia giàu lên, vì
 
 ### Ví dụ ghế và tivi là cách trình bày lợi thế so sánh dễ hiểu nhất mà không cần đồ thị
 
-Lợi thế so sánh nổi tiếng là khái niệm khó, vì nó trái trực giác: nước kém hơn ở mọi thứ vẫn có chỗ đứng, nước giỏi hơn ở mọi thứ vẫn nên mua hàng của nước kém. Sowell giải quyết bằng hai bảng số cho thấy tổng sản lượng tăng ở cả hai sản phẩm mà không ai làm việc chăm hơn, rồi chuyển ngay sang ví dụ bác sĩ rửa xe để người đọc thấy đây là lẽ thường của đời sống. Điểm mạnh nữa là ông nối khái niệm này về khan hiếm và chi phí là các phương án bị bỏ qua ở Chương 1, nên người đọc thấy lợi thế so sánh không phải một "định lý thương mại" riêng mà là hệ quả của cách đo chi phí đúng. Ví dụ nước Anh sống bằng lương thực nhập khẩu, "kể cả khi nông dân nước kia kém hơn nông dân Anh", là chi tiết then chốt mà nhiều sách giáo khoa bỏ qua.
+Lợi thế so sánh nổi tiếng là khái niệm khó, vì nó trái trực giác: nước kém hơn ở mọi thứ vẫn có chỗ đứng, nước giỏi hơn ở mọi thứ vẫn nên mua hàng của nước kém. Sowell giải quyết bằng hai bảng số cho thấy tổng sản lượng tăng ở cả hai sản phẩm mà không ai làm việc chăm hơn, rồi chuyển ngay sang ví dụ bác sĩ rửa xe để người đọc thấy đây là lẽ thường của đời sống.
+
+Điểm mạnh nữa là ông nối khái niệm này về khan hiếm và chi phí là các phương án bị bỏ qua ở Chương 1, nên người đọc thấy lợi thế so sánh không phải một "định lý thương mại" riêng mà là hệ quả của cách đo chi phí đúng. Ví dụ nước Anh sống bằng lương thực nhập khẩu, "kể cả khi nông dân nước kia kém hơn nông dân Anh", là chi tiết then chốt mà nhiều sách giáo khoa bỏ qua.
 
 ### Phân biệt mức lương với chi phí lao động là công cụ dùng được ngay, nhưng Sowell trình bày một chiều
 
@@ -923,19 +986,29 @@ Lập luận "lương gấp 2, năng suất gấp 3" và con số năng suất �
 
 ### Sowell coi nhẹ chi phí chuyển đổi tập trung theo vùng
 
-Chương nói mất việc là "thật với người bị mất", rồi chuyển ngay sang tổng ròng của cả nền kinh tế. Các nghiên cứu sau khi sách viết, nổi bật là những nghiên cứu về "cú sốc Trung Quốc" (China shock) với thị trường lao động Mỹ, cho thấy thiệt hại từ cạnh tranh nhập khẩu tập trung mạnh ở một số địa phương công nghiệp, người lao động ở đó không dễ chuyển sang ngành khác hay vùng khác, và tác động kéo dài hàng chục năm. Điều này không bác bỏ kết luận rằng thương mại làm cả nước giàu lên, nhưng cho thấy giả định "lao động chuyển sang việc khác" của Sowell lạc quan hơn thực tế, và giúp giải thích làn sóng chống thương mại ở nhiều nước phát triển trong thập niên 2010. Ví dụ EU (có thể trả mỗi người mất việc 100.000 USD mỗi năm mà vẫn có lợi) cho thấy về mặt số học việc bồi thường là khả thi; vấn đề là trên thực tế các chương trình bồi thường hiếm khi được làm đủ lớn.
+Chương nói mất việc là "thật với người bị mất", rồi chuyển ngay sang tổng ròng của cả nền kinh tế. Các nghiên cứu sau khi sách viết, nổi bật là những nghiên cứu về "cú sốc Trung Quốc" (China shock) với thị trường lao động Mỹ, cho thấy thiệt hại từ cạnh tranh nhập khẩu tập trung mạnh ở một số địa phương công nghiệp, người lao động ở đó không dễ chuyển sang ngành khác hay vùng khác, và tác động kéo dài hàng chục năm.
+
+Điều này không bác bỏ kết luận rằng thương mại làm cả nước giàu lên, nhưng cho thấy giả định "lao động chuyển sang việc khác" của Sowell lạc quan hơn thực tế, và giúp giải thích làn sóng chống thương mại ở nhiều nước phát triển trong thập niên 2010. Ví dụ EU (có thể trả mỗi người mất việc 100.000 USD mỗi năm mà vẫn có lợi) cho thấy về mặt số học việc bồi thường là khả thi; vấn đề là trên thực tế các chương trình bồi thường hiếm khi được làm đủ lớn.
 
 ### Lý lẽ ngành non trẻ bị Sowell xử lý ngắn, trong khi đây là chỗ tranh luận sôi nổi nhất
 
-Sowell công nhận lý lẽ này về lý thuyết rồi bác bỏ nó bằng một lập luận chính trị (ngành mới yếu, ngành cũ mạnh). Nhiều nhà kinh tế phát triển chỉ ra rằng Hàn Quốc, Đài Loan và trước đó là Mỹ thế kỷ 19 đã bảo hộ và hỗ trợ có chọn lọc một số ngành trong quá trình công nghiệp hoá. Phía bên kia đáp rằng các nước này thành công nhờ hướng vào xuất khẩu (buộc doanh nghiệp được hỗ trợ phải cạnh tranh trên thị trường thế giới), còn nhiều nước bảo hộ thay thế nhập khẩu như Ấn Độ trước 1991 hay nhiều nước Mỹ Latinh lại thất bại, đúng như ví dụ búp bê Trung Quốc của Sowell. Chính Sowell cũng dùng Hàn Quốc và Đài Loan làm ví dụ về lợi thế kinh tế theo quy mô nhờ xuất khẩu mà không bàn tới vai trò của chính sách công nghiệp ở hai nước này.
+Sowell công nhận lý lẽ này về lý thuyết rồi bác bỏ nó bằng một lập luận chính trị (ngành mới yếu, ngành cũ mạnh). Nhiều nhà kinh tế phát triển chỉ ra rằng Hàn Quốc, Đài Loan và trước đó là Mỹ thế kỷ 19 đã bảo hộ và hỗ trợ có chọn lọc một số ngành trong quá trình công nghiệp hoá.
+
+Phía bên kia đáp rằng các nước này thành công nhờ hướng vào xuất khẩu (buộc doanh nghiệp được hỗ trợ phải cạnh tranh trên thị trường thế giới), còn nhiều nước bảo hộ thay thế nhập khẩu như Ấn Độ trước 1991 hay nhiều nước Mỹ Latinh lại thất bại, đúng như ví dụ búp bê Trung Quốc của Sowell. Chính Sowell cũng dùng Hàn Quốc và Đài Loan làm ví dụ về lợi thế kinh tế theo quy mô nhờ xuất khẩu mà không bàn tới vai trò của chính sách công nghiệp ở hai nước này.
 
 ### Chú thích về Smoot-Hawley là một quan điểm thiểu số
 
-Sowell gợi ý (qua dữ liệu của Vedder và Gallaway) rằng Smoot-Hawley gây thất nghiệp thập niên 1930 nhiều hơn vụ sụp đổ chứng khoán. Phần lớn các nhà kinh tế đồng ý rằng thuế quan làm thương mại thế giới sụp đổ và làm suy thoái nặng thêm, như thư ngỏ của hơn một nghìn nhà kinh tế dự đoán. Nhưng đa số giải thích nguyên nhân chính của Đại Suy thoái bằng sự sụp đổ tiền tệ và ngân hàng (cung tiền giảm khoảng một phần ba, các làn sóng phá sản ngân hàng) và bản vị vàng, còn thuế quan là nhân tố phụ vì xuất nhập khẩu chỉ chiếm phần nhỏ trong kinh tế Mỹ khi đó. Mốc thời gian Sowell nêu (thất nghiệp vọt lên sau tháng 6/1930) cũng trùng với các làn sóng đổ vỡ ngân hàng bắt đầu từ cuối năm 1930, nên không thể tách riêng tác động của thuế quan chỉ bằng thứ tự thời gian.
+Sowell gợi ý (qua dữ liệu của Vedder và Gallaway) rằng Smoot-Hawley gây thất nghiệp thập niên 1930 nhiều hơn vụ sụp đổ chứng khoán. Phần lớn các nhà kinh tế đồng ý rằng thuế quan làm thương mại thế giới sụp đổ và làm suy thoái nặng thêm, như thư ngỏ của hơn một nghìn nhà kinh tế dự đoán.
+
+Nhưng đa số giải thích nguyên nhân chính của Đại Suy thoái bằng sự sụp đổ tiền tệ và ngân hàng (cung tiền giảm khoảng một phần ba, các làn sóng phá sản ngân hàng) và bản vị vàng, còn thuế quan là nhân tố phụ vì xuất nhập khẩu chỉ chiếm phần nhỏ trong kinh tế Mỹ khi đó. Mốc thời gian Sowell nêu (thất nghiệp vọt lên sau tháng 6/1930) cũng trùng với các làn sóng đổ vỡ ngân hàng bắt đầu từ cuối năm 1930, nên không thể tách riêng tác động của thuế quan chỉ bằng thứ tự thời gian.
 
 ### Từ 2014, chủ nghĩa bảo hộ quay lại mạnh hơn lúc Sowell viết
 
-Đây là nhận định của người tổng hợp, dựa trên diễn biến sau khi sách ra đời. Sowell viết rằng các ngụy biện bảo hộ "vẫn sống và mạnh về chính trị" dù giới kinh tế coi là đã bị bác bỏ, và từ 2018 điều đó càng rõ. Mỹ áp thuế quan diện rộng với thép, nhôm và hàng Trung Quốc, các nước trả đũa, rồi năm 2025 nâng thuế quan lên mức cao nhất trong nhiều thập kỷ với lý do thu hẹp thâm hụt thương mại và đưa việc làm chế tạo về nước. Các lập luận của chương (cán cân thương mại không đo sức khoẻ kinh tế; thuế quan đầu vào làm hại ngành dùng đầu vào; trả đũa làm hai bên cùng thiệt) vì thế càng thời sự. NAFTA, ví dụ mở đầu, đã được đàm phán lại thành USMCA với quy tắc xuất xứ chặt hơn. Các chuỗi cung ứng cũng dịch chuyển theo hướng "đa dạng hoá khỏi Trung Quốc", một ví dụ mới của tiểu mục "Changing Conditions", trong đó có cả lý do an ninh quốc gia ở các mặt hàng như chip bán dẫn, gần với ngoại lệ quốc phòng mà Sowell công nhận nhưng cảnh báo dễ bị lạm dụng.
+Đây là nhận định của người tổng hợp, dựa trên diễn biến sau khi sách ra đời. Sowell viết rằng các ngụy biện bảo hộ "vẫn sống và mạnh về chính trị" dù giới kinh tế coi là đã bị bác bỏ, và từ 2018 điều đó càng rõ. Mỹ áp thuế quan diện rộng với thép, nhôm và hàng Trung Quốc, các nước trả đũa, rồi năm 2025 nâng thuế quan lên mức cao nhất trong nhiều thập kỷ với lý do thu hẹp thâm hụt thương mại và đưa việc làm chế tạo về nước.
+
+Các lập luận của chương (cán cân thương mại không đo sức khoẻ kinh tế; thuế quan đầu vào làm hại ngành dùng đầu vào; trả đũa làm hai bên cùng thiệt) vì thế càng thời sự.
+
+NAFTA, ví dụ mở đầu, đã được đàm phán lại thành USMCA với quy tắc xuất xứ chặt hơn. Các chuỗi cung ứng cũng dịch chuyển theo hướng "đa dạng hoá khỏi Trung Quốc", một ví dụ mới của tiểu mục "Changing Conditions", trong đó có cả lý do an ninh quốc gia ở các mặt hàng như chip bán dẫn, gần với ngoại lệ quốc phòng mà Sowell công nhận nhưng cảnh báo dễ bị lạm dụng.
 
 ### Vận dụng: trước mỗi lời kêu gọi bảo hộ, hãy hỏi việc làm nào được nhìn thấy và việc làm nào không
 
@@ -943,3 +1016,191 @@ Sowell gợi ý (qua dữ liệu của Vedder và Gallaway) rằng Smoot-Hawley 
 - **Trong đầu tư.** Một ngành sống nhờ hàng rào bảo hộ có rủi ro chính sách: hàng rào có thể bị gỡ (như Ấn Độ thập niên 1990) và khi đó các doanh nghiệp được giữ nhỏ nhân tạo sẽ khó cạnh tranh. Ngược lại, khi đánh giá tác động của thuế quan, cần nhìn cả các ngành hạ nguồn dùng hàng bị đánh thuế, nơi thiệt hại thường lớn hơn lợi ích của ngành được bảo hộ. Cán cân thương mại của một nước tự nó không nói lên nền kinh tế đó tốt hay xấu.
 - **Trong nghề nghiệp.** Bài học về lợi thế so sánh áp dụng cho từng người: giống bác sĩ phẫu thuật mắt, giá trị của bạn nằm ở việc bạn làm tốt nhất một cách tương đối, không phải ở mọi việc bạn làm được. Lợi thế so sánh cũng thay đổi theo thời gian như ngành máy tính: công việc lắp ráp chuyển đi, công việc thiết kế ở lại; nên đầu tư vào kỹ năng khó chuyển ra nước ngoài hoặc khó tự động hoá.
 - **Khi đọc tin chính sách.** Việt Nam là nền kinh tế có độ mở thương mại cao, xuất hiện ngay trong chương như một trong ba nước trồng hơn nửa lượng cà phê thế giới. Khi đọc tin về thâm hụt hay thặng dư thương mại, về một vụ điều tra chống bán phá giá với hàng Việt Nam ở nước ngoài, hay về đề xuất tăng thuế nhập khẩu để bảo vệ sản xuất trong nước, hãy đặt ba câu hỏi của Sowell: thặng dư hay thâm hụt có thật sự nói lên người dân giàu hay nghèo đi không; giá thành bị cáo buộc "dưới chi phí" được xác định thế nào và ai cung cấp số liệu; và việc làm được giữ ở ngành được bảo hộ phải trả bằng việc làm và giá cả ở ngành nào khác.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 21 trên một trang: sáu nhánh lớn đi theo các mục 1–4 của phần Nội dung chi tiết (Mục 1 về NAFTA và những chữ gây hiểu lầm; Mục 2 về ba cơ sở của thương mại; Mục 3.1 về ngụy biện lương cao; Mục 3.2 về cứu việc làm; Mục 3.3–3.6 về ngành non trẻ, quốc phòng, bán phá giá và các loại hạn chế; Mục 4 về điều kiện thay đổi), mỗi nhánh ghi cơ chế, ví dụ lịch sử và con số then chốt của Sowell; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 21: thương mại quốc tế không phải trò chơi tổng bằng không, cả hai bên đều được lợi`"]
+  n1["`Mục 1 — NAFTA, việc làm và những chữ gây hiểu lầm`"]
+  n0 --- n1
+  n2["`Lời tiên đoán việc làm bị hút từ Mỹ sang Mexico vì lương thấp đã sai`"]
+  n1 --- n2
+  n3["`Sau NAFTA, thất nghiệp Mỹ giảm từ hơn 7% xuống 4%, Canada từ 11% xuống 7% trong 7 năm`"]
+  n1 --- n3
+  n4["`Việc làm tăng hàng triệu ở cả Mỹ lẫn Mexico cùng lúc`"]
+  n1 --- n4
+  n5["`Không có số lượng việc làm cố định để tranh giành, thịnh vượng tăng kéo việc làm tăng`"]
+  n1 --- n5
+  n6["`Adam Smith 1776: của cải thật của một nước là hàng hoá và dịch vụ, không phải lượng vàng`"]
+  n1 --- n6
+  n7["`Mỹ xuất siêu, tức cán cân #quot;thuận lợi#quot;, mọi năm trong Đại Suy thoái thập niên 1930`"]
+  n1 --- n7
+  n8["`Mùa xuân 2001 thâm hụt thu hẹp kỷ lục chỉ vì nhập khẩu giảm khi kinh tế chao đảo`"]
+  n1 --- n8
+  n9["`Thập niên 1990 thịnh vượng, Mỹ lại thành quốc gia con nợ kỷ lục`"]
+  n1 --- n9
+  n10["`Mục 2 — Ba cơ sở của thương mại quốc tế`"]
+  n0 --- n10
+  n11["`Lợi thế tuyệt đối: làm rẻ hơn hoặc tốt hơn nhờ khí hậu, địa lý, kỹ năng dân cư`"]
+  n10 --- n11
+  n12["`Chuối Caribe: vùng nhiệt đới có hơi ấm miễn phí, ở Mỹ phải dùng nhà kính tốn kém`"]
+  n11 --- n12
+  n13["`Đầu thế kỷ 21, hơn nửa lượng cà phê thế giới trồng ở Brazil, Việt Nam, Colombia`"]
+  n11 --- n13
+  n14["`Ấn Độ lệch giờ Mỹ khoảng 12 tiếng, nói tiếng Anh, có 30% kỹ sư phần mềm thế giới`"]
+  n11 --- n14
+  n15["`Nam Mỹ bán rau quả cho Bắc Mỹ khi bắc bán cầu đang mùa đông`"]
+  n11 --- n15
+  n16["`Lợi thế so sánh: chi phí thật của một sản phẩm là những sản phẩm phải bỏ đi`"]
+  n10 --- n16
+  n17["`Làm được bất kỳ thứ gì rẻ hơn không giống làm được mọi thứ rẻ hơn cùng lúc`"]
+  n16 --- n17
+  n18["`Công nhân Mỹ làm 500 ghế hoặc 200 tivi mỗi tháng, công nhân Canada 450 ghế hoặc 100 tivi`"]
+  n16 --- n18
+  n19["`Mỗi nước tự làm cả hai: 1.000 công nhân làm ra 190.000 ghế và 90.000 tivi`"]
+  n16 --- n19
+  n20["`Mỹ chỉ làm tivi, Canada chỉ làm ghế: 225.000 ghế và 100.000 tivi, nhiều hơn ở cả hai`"]
+  n16 --- n20
+  n21["`Mỗi tivi tốn 2,5 ghế ở Mỹ, 4,5 ghế ở Canada nên Canada có lợi thế so sánh về ghế`"]
+  n16 --- n21
+  n22["`Bác sĩ phẫu thuật mắt rửa xe nhanh hơn người làm thuê vẫn không nên tự rửa, vì mất giờ ở phòng mổ`"]
+  n16 --- n22
+  n23["`Anh hơn một thế kỷ mua lương thực, kể cả từ nông dân kém hiệu quả hơn nông dân Anh`"]
+  n16 --- n23
+  n24["`Dưới mặt trời của tự do thương mại có chỗ cho mọi quốc gia, dù nghèo tới đâu`"]
+  n16 --- n24
+  n25["`Lợi thế kinh tế theo quy mô: nước nhỏ cần xuất khẩu để đạt sản lượng đủ lớn`"]
+  n10 --- n25
+  n26["`Một mẫu ô tô cần 200.000 đến 400.000 xe mỗi năm mới đạt chi phí hiệu quả`"]
+  n25 --- n26
+  n27["`Ford F-Series bán hơn 800.000 chiếc mỗi năm, mẫu bán chạy nhất ở Úc chỉ đạt khoảng nửa mức cần`"]
+  n25 --- n27
+  n28["`Sức mua của Úc chỉ bằng 1/5 Nhật và 1/17 Mỹ nên xe làm ở Úc là xe Nhật, Mỹ lắp ráp`"]
+  n25 --- n28
+  n29["`Heineken bán bia ở 170 nước, The Economist bán ở Mỹ gấp 3 lần ở Anh`"]
+  n25 --- n29
+  n30["`Ấn Độ giữ nhà sản xuất nhỏ nhân tạo, búp bê nhựa Trung Quốc giá 100 rupee làm hãng đồ chơi khiếp sợ`"]
+  n25 --- n30
+  n31["`Hàng trăm triệu người nghèo Ấn Độ từng trả giá cao vô lý để bảo vệ nhà sản xuất nhỏ`"]
+  n25 --- n31
+  n32["`Mục 3.1 — Ngụy biện lương cao: nhầm mức lương với chi phí lao động`"]
+  n0 --- n32
+  n33["`Cộng hoà Hà Lan dẫn đầu thương mại từ thập niên 1590 tới 1740 với lương thuộc hàng cao nhất`"]
+  n32 --- n33
+  n34["`Anh là nước xuất khẩu lớn nhất thế kỷ 19 dù lương cao hơn nước mua hàng`"]
+  n32 --- n34
+  n35["`Cà vạt lụa Trung Quốc 85 rupee, cà vạt Ấn Độ 400 rupee, dù lương Trung Quốc cao hơn`"]
+  n32 --- n35
+  n36["`Mức lương tính theo giờ, chi phí lao động tính theo đơn vị sản phẩm`"]
+  n32 --- n36
+  n37["`Lương gấp 2 mà năng suất gấp 3 thì chi phí lao động mỗi sản phẩm thấp hơn`"]
+  n32 --- n37
+  n38["`Năng suất Ấn Độ bằng 15% Mỹ, trả 20% lương Mỹ thì làm ở Ấn Độ lại đắt hơn`"]
+  n32 --- n38
+  n39["`Vốn ở nước giàu rẻ hơn: lợi suất vốn ở Nga giảm từ 17,5% xuống dưới 5% vào năm 1900`"]
+  n32 --- n39
+  n40["`Thực chất không phải nước ta chống nước họ mà là nhóm lợi ích trong nước chống người tiêu dùng`"]
+  n32 --- n40
+  n41["`Mục 3.2 — Cứu việc làm: Smoot-Hawley, thép, đường`"]
+  n0 --- n41
+  n42["`Hơn 1.000 nhà kinh tế cảnh báo: không thể tăng việc làm bằng cách hạn chế thương mại`"]
+  n41 --- n42
+  n43["`Smoot-Hawley 1930 bị trả đũa, xuất khẩu thế giới năm 1933 chỉ còn 1/3 mức năm 1929`"]
+  n41 --- n43
+  n44["`Thất nghiệp Mỹ 6% khi thuế quan thông qua, một năm sau 15%, hai năm sau 26%`"]
+  n41 --- n44
+  n45["`Chú thích của Sowell: 5 tháng sau thuế quan thất nghiệp đã 11,6%, hơn 8 năm sau mới xuống lại`"]
+  n41 --- n45
+  n46["`Hạn chế thép thập niên 1980: ngành thép giữ 5.000 việc và thêm 240 triệu USD lợi nhuận`"]
+  n41 --- n46
+  n47["`Các ngành dùng thép mất 26.000 việc và 600 triệu USD lợi nhuận`"]
+  n41 --- n47
+  n48["`Hạn chế nhập đường làm mất số việc gấp 3 lần ở ngành bánh kẹo, giá đường Mỹ gấp đôi giá thế giới`"]
+  n41 --- n48
+  n49["`Ngụy biện hợp thành: một ngành được lợi không có nghĩa cả nền kinh tế được lợi`"]
+  n41 --- n49
+  n50["`Mục 3.3–3.6 — Ngành non trẻ, quốc phòng, bán phá giá, các loại hạn chế`"]
+  n0 --- n50
+  n51["`Ngành non trẻ đúng về lý thuyết, nhưng ngành mới yếu về chính trị còn ngành cũ kém hiệu quả giành được bảo hộ`"]
+  n50 --- n51
+  n52["`Thổ dân châu Mỹ mua súng đạn của người định cư, thắng nhiều trận nhưng thua cuộc chiến khi hết đạn`"]
+  n50 --- n52
+  n53["`Nhãn thiết yếu cho quốc phòng bị kéo giãn, năm 2004 Canada nhận 601 triệu USD hợp đồng Lầu Năm Góc`"]
+  n50 --- n53
+  n54["`Chống bán phá giá dựa vào giá thành không ai đo chắc, nên quan chức dễ chấp nhận cáo buộc`"]
+  n50 --- n54
+  n55["`EU kết luận xe đạp địa hình Thái Lan bán phá giá chỉ vì bán ở châu Âu rẻ hơn ở Thái Lan`"]
+  n50 --- n55
+  n56["`Thuế quan 10 USD ai cũng thấy, còn hạn ngạch đẩy giá 15 USD có thể dễ thông qua ngang vậy`"]
+  n50 --- n56
+  n57["`Trả đũa làm cả hai bên mất thêm, không trả đũa thì thiệt hại hai bên nhỏ nhất`"]
+  n50 --- n57
+  n58["`Quy định y tế, thủ tục hải quan: dâu tây mất một tuần qua hải quan thì không cần gửi nữa`"]
+  n50 --- n58
+  n59["`Mục 4 — Điều kiện thay đổi: lợi thế so sánh dịch chuyển theo thời gian`"]
+  n0 --- n59
+  n60["`Máy tính: Mỹ giữ thiết kế phần mềm, lắp ráp chuyển sang nước nghèo hơn, Đài Loan làm phần lớn linh kiện`"]
+  n59 --- n60
+  n61["`Lao động Mỹ phải rời ngành không có lợi thế so sánh thì mới chuyển được sang phần mềm`"]
+  n59 --- n61
+  n62["`1 triệu việc mới rải rác yếu thế chính trị hơn 500.000 việc mất ở một ngành có tổ chức`"]
+  n59 --- n62
+  n63["`1977–2001: công ty nước ngoài tạo 4,7 triệu việc ở Mỹ, công ty Mỹ tạo 2,8 triệu việc ở nước ngoài`"]
+  n59 --- n63
+  n64["`Năm 2006, 63% xe thương hiệu Nhật bán ở Mỹ được sản xuất tại Mỹ`"]
+  n59 --- n64
+  n65["`Bảo hộ ở EU tốn 43 tỷ USD giữ nhiều nhất 200.000 việc, khoảng 215.000 USD mỗi việc mỗi năm`"]
+  n59 --- n65
+  n66["`Giới kinh tế coi ngụy biện cũ không đáng trả lời, gần 1.000 sinh viên cổ vũ Nader khi tranh luận với Bhagwati`"]
+  n59 --- n66
+  n67["`Toàn cầu hoá gồm cả luật lệ của Ngân hàng Thế giới, IMF, WTO, không chỉ là tự do thương mại`"]
+  n59 --- n67
+  n68["`Thông điệp xuyên suốt`"]
+  n0 --- n68
+  n69["`Đánh giá thương mại bằng lượng hàng hoá, dịch vụ người dân có, không bằng dấu của cán cân thương mại`"]
+  n68 --- n69
+  n70["`Xét cả việc làm không được nhìn thấy ở các ngành dùng hàng bị bảo hộ, không chỉ việc làm được giữ`"]
+  n68 --- n70
+  n71["`Bảo hộ thắng về chính trị vì lợi ích dồn cho một ngành tập trung, chi phí rải cho người tiêu dùng`"]
+  n68 --- n71
+  n72["`Ngoại lệ ngành non trẻ và quốc phòng đúng về nguyên tắc nhưng phải xét theo hoàn cảnh cụ thể`"]
+  n68 --- n72
+  class n0 root
+  class n1,n10,n32,n41,n50,n59,n68 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55,n56,n57,n58,n60,n61,n62,n63,n64,n65,n66,n67,n69,n70,n71,n72 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Chương 21.
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 21 mở đầu Phần VI (The International Economy), ngay sau Phần V về nền kinh tế quốc gia (sản lượng quốc gia, tiền và ngân hàng, tài chính chính phủ, các vấn đề đặc biệt của nền kinh tế quốc gia ở Chương 20).
+
+Sowell đưa các công cụ đã dựng ở những chương trước ra ngoài biên giới: khan hiếm và chi phí là các phương án bị bỏ qua (Chương 1), lợi thế kinh tế theo quy mô (Chương 6), giá thấp hơn chi phí và "định giá hủy diệt" (Chương 6 và Chương 8), lợi ích tập trung của các ngành được bảo hộ so với thiệt hại phân tán của người tiêu dùng.
+
+Chương này chỉ bàn trao đổi hàng hoá và dịch vụ giữa các nước. Chương 22 (International Transfers of Wealth) bàn tiếp các dòng của cải chảy qua biên giới, nơi những chữ như "thâm hụt" hay "quốc gia con nợ" mà Chương 21 mới nêu ra được xem xét kỹ hơn; Chương 23 (International Disparities in Wealth) hỏi vì sao các nước giàu nghèo khác nhau.
+
+## Lưu ý
+
+- Sách viết khoảng 2013–2014; nhiều số liệu trong chương còn cũ hơn (thất nghiệp sau NAFTA giai đoạn 1993–2000, việc làm ngành thép thập niên 1980, hợp đồng Lầu Năm Góc năm 2004, xe Nhật sản xuất tại Mỹ năm 2006, việc làm do công ty đa quốc gia tạo ra giai đoạn 1977–2001).
+- Một số chi tiết đã thay đổi từ đó:
+  - NAFTA đã được thay bằng Hiệp định Mỹ–Mexico–Canada (USMCA) có hiệu lực năm 2020.
+  - Úc, nước Sowell dùng làm ví dụ "thị trường quá nhỏ để tự phát triển ô tô", đã chấm dứt hẳn việc lắp ráp ô tô trong nước vào năm 2017 khi Ford, Holden (General Motors) và Toyota đóng nhà máy.
+  - Mảng điện thoại di động của Nokia đã được bán cho Microsoft năm 2014.
+  - Từ năm 2018 Mỹ quay lại dùng thuế quan diện rộng, nhất là với hàng Trung Quốc, và còn nâng thuế quan mạnh hơn nữa vào năm 2025, nên câu Sowell viết rằng các nhà kinh tế coi những ngụy biện bảo hộ là "không đáng bàn" nhưng chúng vẫn "sống và mạnh về chính trị" nay càng đúng.
+- Chương có **một** chú thích chân trang có nội dung (dấu {xxvii}, về vai trò của thuế quan Smoot-Hawley so với vụ sụp đổ chứng khoán 1929), đã đưa vào mục 3.2 của Nội dung chi tiết và vào Sơ đồ phần "Saving Jobs".
+- Hai bảng số trong tiểu mục "Comparative Advantage" ở bản gốc là bảng hình, không có trong text tách ra; người tổng hợp đã dựng lại chúng từ các con số Sowell nêu trong lời văn (năng suất mỗi công nhân, 500 công nhân mỗi nước, tổng 190.000 ghế và 90.000 tivi trước khi chuyên môn hoá). Với các con số đó chỉ có đúng một cách phân bổ khớp: mỗi nước dành 200 công nhân làm ghế và 300 công nhân làm tivi.
+- Các câu trích là bản dịch của người tổng hợp.

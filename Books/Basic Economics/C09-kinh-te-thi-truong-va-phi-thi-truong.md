@@ -1,11 +1,14 @@
 # Chương 9 — Kinh tế thị trường và kinh tế phi thị trường (Market and Non-Market Economies)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần II "Industry and Commerce", Chương 9.
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
-**Vị trí trong lập luận của cả cuốn sách:** Phần II đi từ bên trong doanh nghiệp ra ngoài: Chương 5 kể chuyện doanh nghiệp thăng trầm, Chương 6 giải thích vai trò của lợi nhuận và thua lỗ, Chương 7 bàn về doanh nghiệp lớn, Chương 8 xem xét điều tiết và luật chống độc quyền. Chương 9 khép lại Phần II bằng câu hỏi rộng nhất: vì sao doanh nghiệp tìm kiếm lợi nhuận lại thay thế được các cách tổ chức sản xuất khác (bộ lạc, phong kiến, trang trại tự cung tự cấp, xí nghiệp nhà nước), và cái giá của việc thay thế đó là gì (có người thắng, có người thua). Ý "nguồn lực khan hiếm phải được rút khỏi người dùng kém hiệu quả để chuyển cho người dùng hiệu quả hơn" là cầu nối sang Phần III (Chương 10 đến 12) về năng suất, tiền lương và thị trường lao động, nơi người lao động chính là nguồn lực được dịch chuyển.
-**Ý chính:** Sowell muốn người đọc hiểu rằng điều làm kinh tế thị trường vượt trội không chỉ là quyền sở hữu tư nhân, mà chủ yếu là **cạnh tranh** và **sức ép tài chính** buộc người sản xuất phải làm hài lòng người tiêu dùng, trong khi nhà sản xuất phi thị trường, nhất là cơ quan nhà nước, thường là độc quyền và không chịu sức ép đó. Ví dụ trung tâm là sau một thảm hoạ thiên nhiên ở Mỹ: các công ty bảo hiểm tư nhân phải chi tiền nhanh cho khách hàng vì sợ mất khách vào tay đối thủ, còn Cơ quan Quản lý Tình trạng Khẩn cấp Liên bang (FEMA) chậm chạp mà không mất gì. Cùng logic đó, Bưu điện Ấn Độ mất một nửa lượng thư khi FedEx và UPS vào cuộc. Phần cuối chương nói rằng cạnh tranh nhất thiết sinh ra kẻ thua (máy đánh chữ Smith Corona thua máy tính Dell), và cố cứu kẻ thua bằng chính sách là giữ nguồn lực ở chỗ kém giá trị, làm cả xã hội nghèo đi.
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2013–2014; các số liệu và ví dụ thuộc giai đoạn đó hoặc trước đó (thư của Bưu điện Ấn Độ 1999–2005, bài *New York Times* năm 2010, thương vụ bán H.J. Heinz năm 2013). Một số chi tiết đã thay đổi: H.J. Heinz sáp nhập với Kraft năm 2015 thành Kraft Heinz; chuỗi Sears, ví dụ thành công của Sowell trong chương, đã nộp đơn phá sản năm 2018, một minh hoạ cho chính lập luận "thị trường bắt sức ỳ phải trả giá"; số sinh viên của Đại học Phoenix đã giảm mạnh so với đỉnh khoảng năm 2010; Wal-Mart nay viết là Walmart. Sowell viết "Morgan Stanley's Discover unit" (đơn vị Discover của Morgan Stanley), nhưng Discover đã tách khỏi Morgan Stanley từ năm 2007; nhiều khả năng Sowell giữ ví dụ này từ ấn bản trước, nên khi ấn bản thứ năm ra đời thì chi tiết đó đã cũ. Tên công ty sách giáo khoa được in là "Follet", đúng ra là Follett. Chương mở đầu bằng câu đề từ của Robert L. Bartley (nguyên tổng biên tập trang xã luận *Wall Street Journal*). Chương này không có chú thích chân trang có nội dung (loại đánh số La Mã), chỉ có chú thích nguồn trích dẫn, đã bỏ qua. Các câu trích là bản dịch của người tổng hợp.
+Sowell muốn người đọc hiểu rằng điều làm kinh tế thị trường vượt trội không chỉ là quyền sở hữu tư nhân, mà chủ yếu là **cạnh tranh** và **sức ép tài chính** buộc người sản xuất phải làm hài lòng người tiêu dùng, trong khi nhà sản xuất phi thị trường, nhất là cơ quan nhà nước, thường là độc quyền và không chịu sức ép đó.
+
+Ví dụ trung tâm là sau một thảm hoạ thiên nhiên ở Mỹ: các công ty bảo hiểm tư nhân phải chi tiền nhanh cho khách hàng vì sợ mất khách vào tay đối thủ, còn Cơ quan Quản lý Tình trạng Khẩn cấp Liên bang (FEMA) chậm chạp mà không mất gì.
+
+Cùng logic đó, Bưu điện Ấn Độ mất một nửa lượng thư khi FedEx và UPS vào cuộc.
+
+Phần cuối chương nói rằng cạnh tranh nhất thiết sinh ra kẻ thua (máy đánh chữ Smith Corona thua máy tính Dell), và cố cứu kẻ thua bằng chính sách là giữ nguồn lực ở chỗ kém giá trị, làm cả xã hội nghèo đi.
 
 ## Sơ đồ
 
@@ -398,7 +401,9 @@
 
 Chương mở bằng câu đề từ của Robert L. Bartley: nhìn chung, "thị trường" thông minh hơn người thông minh nhất trong số những người tham gia nó. Sowell nhận xét rằng doanh nghiệp tìm kiếm lợi nhuận đã trở thành một trong những thể chế phổ biến nhất ở các nước công nghiệp, nhưng hiểu biết về cách doanh nghiệp vận hành bên trong và cách nó gắn với nền kinh tế, xã hội thì không phổ biến chút nào. Sự hiện diện của doanh nghiệp được coi là đương nhiên đến mức ít ai hỏi vì sao cách cung cấp hàng hoá này lại thắng các cách khác.
 
-Trong lịch sử, doanh nghiệp tư bản chỉ là một trong nhiều cách làm kinh tế. Loài người sống hàng nghìn năm không có doanh nghiệp: bộ lạc cùng nhau săn bắn, đánh cá; thời phong kiến, cả nông nô lẫn quý tộc đều không phải doanh nhân; ngay trong vài thế kỷ gần đây, hàng triệu gia đình Mỹ sống trên trang trại tự cung tự cấp, tự trồng lương thực, tự dựng nhà, tự may quần áo. Gần hơn nữa có các nhóm hợp tác như kibbutz ở Israel, nơi các thành viên tự nguyện cung cấp hàng hoá, dịch vụ cho nhau mà không dùng tiền. Liên Xô thì có cả một nền kinh tế công nghiệp hiện đại, trong đó xí nghiệp do nhà nước sở hữu và điều hành làm những việc giống doanh nghiệp ở nước tư bản, nhưng về động cơ khuyến khích và ràng buộc thì chúng không phải doanh nghiệp.
+Trong lịch sử, doanh nghiệp tư bản chỉ là một trong nhiều cách làm kinh tế. Loài người sống hàng nghìn năm không có doanh nghiệp: bộ lạc cùng nhau săn bắn, đánh cá; thời phong kiến, cả nông nô lẫn quý tộc đều không phải doanh nhân; ngay trong vài thế kỷ gần đây, hàng triệu gia đình Mỹ sống trên trang trại tự cung tự cấp, tự trồng lương thực, tự dựng nhà, tự may quần áo.
+
+Gần hơn nữa có các nhóm hợp tác như kibbutz ở Israel, nơi các thành viên tự nguyện cung cấp hàng hoá, dịch vụ cho nhau mà không dùng tiền. Liên Xô thì có cả một nền kinh tế công nghiệp hiện đại, trong đó xí nghiệp do nhà nước sở hữu và điều hành làm những việc giống doanh nghiệp ở nước tư bản, nhưng về động cơ khuyến khích và ràng buộc thì chúng không phải doanh nghiệp.
 
 Ngay ở các nước mà doanh nghiệp tìm kiếm lợi nhuận là chuẩn mực, vẫn có nhiều tổ chức tư nhân phi lợi nhuận (đại học, quỹ, bệnh viện, dàn nhạc giao hưởng, bảo tàng) và tổ chức nhà nước (bưu điện, thư viện công). Nhiều tổ chức trong số đó cung cấp hàng hoá, dịch vụ giống hoặc chồng lấn với doanh nghiệp:
 
@@ -421,9 +426,15 @@ Vì gần như không ai muốn quay lại phong kiến hay trang trại tự cu
 
 **Độc quyền và cạnh tranh.** Về nguyên tắc, cả hoạt động thị trường lẫn phi thị trường đều có thể do các đơn vị cạnh tranh nhau hoặc do một đơn vị độc quyền thực hiện. Trên thực tế, cạnh tranh hầu như chỉ có trong kinh tế thị trường, còn chính phủ thường lập một cơ quan duy nhất được giao độc quyền làm một việc cụ thể. Sowell viết rằng độc quyền là kẻ thù của hiệu quả dưới cả tư bản lẫn xã hội chủ nghĩa; khác biệt là dưới chủ nghĩa xã hội, độc quyền là chuẩn mực. Ngay trong nền kinh tế hỗn hợp, hoạt động của nhà nước thường là độc quyền, còn hoạt động của tư nhân thường có các đối thủ cạnh tranh.
 
-**FEMA và các công ty bảo hiểm.** Khi bão, lũ hay thảm hoạ thiên nhiên xảy ra ở Mỹ, cứu trợ khẩn cấp thường đến từ hai nguồn: FEMA và các công ty bảo hiểm tư nhân có khách hàng bị thiệt hại nhà cửa, tài sản. FEMA nổi tiếng chậm và kém hiệu quả hơn. Lý do nằm ở sức ép: một công ty bảo hiểm không thể chậm chi tiền hơn đối thủ. Nếu một công ty lề mề trong khi hàng xóm của khách được công ty khác ứng một khoản lớn để vượt qua khó khăn, khách ở vùng thảm hoạ sẽ chuyển công ty, và tin này lan nhanh khắp nước, khiến hàng triệu người ở nơi khác chuyển các hợp đồng trị giá hàng tỷ USD sang công ty hiệu quả hơn. FEMA không chịu sức ép nào như vậy: bị chỉ trích, chế giễu đến đâu vì không đưa cứu trợ kịp thời, nạn nhân cũng không có cơ quan nhà nước nào khác để tìm đến. Hơn nữa, người điều hành các cơ quan này được trả lương theo thang cố định, không theo việc họ phục vụ nạn nhân nhanh hay tốt đến đâu.
+**FEMA và các công ty bảo hiểm.** Khi bão, lũ hay thảm hoạ thiên nhiên xảy ra ở Mỹ, cứu trợ khẩn cấp thường đến từ hai nguồn: FEMA và các công ty bảo hiểm tư nhân có khách hàng bị thiệt hại nhà cửa, tài sản. FEMA nổi tiếng chậm và kém hiệu quả hơn.
 
-**Bưu điện Ấn Độ.** Trong những trường hợp hiếm hoi một độc quyền nhà nước buộc phải cạnh tranh với doanh nghiệp tư cùng ngành, kết quả thường giống Bưu điện Ấn Độ. Theo một bài báo Sowell dẫn, khi Tổng Giám đốc Bưu điện vùng Mumbai A.P. Srivastava vào ngành 27 năm trước, người đưa thư thường phải thuê thêm người khuân những bao tải thư căng phồng và mất cả ngày mới phát hết. Nay các hãng chuyển phát tư nhân như FedEx và UPS đã chiếm hơn một nửa thị phần cả nước, nên hàng nghìn người đưa thư của thành phố xong việc trước bữa trưa. Ông Srivastava không được sa thải nhân viên thừa, nên dành nhiều thời gian nghĩ cách cho họ có việc: ông đã gạt ý bán hành tây ở bưu cục vì hành dễ hỏng, và đang tính bán dầu dưỡng tóc, dầu gội.
+Lý do nằm ở sức ép: một công ty bảo hiểm không thể chậm chi tiền hơn đối thủ. Nếu một công ty lề mề trong khi hàng xóm của khách được công ty khác ứng một khoản lớn để vượt qua khó khăn, khách ở vùng thảm hoạ sẽ chuyển công ty, và tin này lan nhanh khắp nước, khiến hàng triệu người ở nơi khác chuyển các hợp đồng trị giá hàng tỷ USD sang công ty hiệu quả hơn.
+
+FEMA không chịu sức ép nào như vậy: bị chỉ trích, chế giễu đến đâu vì không đưa cứu trợ kịp thời, nạn nhân cũng không có cơ quan nhà nước nào khác để tìm đến. Hơn nữa, người điều hành các cơ quan này được trả lương theo thang cố định, không theo việc họ phục vụ nạn nhân nhanh hay tốt đến đâu.
+
+**Bưu điện Ấn Độ.** Trong những trường hợp hiếm hoi một độc quyền nhà nước buộc phải cạnh tranh với doanh nghiệp tư cùng ngành, kết quả thường giống Bưu điện Ấn Độ. Theo một bài báo Sowell dẫn, khi Tổng Giám đốc Bưu điện vùng Mumbai A.P. Srivastava vào ngành 27 năm trước, người đưa thư thường phải thuê thêm người khuân những bao tải thư căng phồng và mất cả ngày mới phát hết.
+
+Nay các hãng chuyển phát tư nhân như FedEx và UPS đã chiếm hơn một nửa thị phần cả nước, nên hàng nghìn người đưa thư của thành phố xong việc trước bữa trưa. Ông Srivastava không được sa thải nhân viên thừa, nên dành nhiều thời gian nghĩ cách cho họ có việc: ông đã gạt ý bán hành tây ở bưu cục vì hành dễ hỏng, và đang tính bán dầu dưỡng tóc, dầu gội.
 
 | Năm | Số bưu phẩm Bưu điện Ấn Độ vận chuyển |
 |---|---|
@@ -434,7 +445,9 @@ Vì gần như không ai muốn quay lại phong kiến hay trang trại tự cu
 
 Ở Mỹ, hàng chục năm nay các nhà bán lẻ giá rẻ nối tiếp nhau bị coi là kẻ ác vì đẩy đối thủ chi phí cao ra khỏi thị trường. Luật Robinson-Patman năm 1936 đôi khi bị gọi là "luật chống Sears, Roebuck", và nghị sĩ Patman cũng lên án những người điều hành chuỗi tạp hoá A & P. Sang thế kỷ 21, Wal-Mart thừa kế vai kẻ ác vì cũng làm các đối thủ chi phí cao khó tồn tại. Khi đối thủ chi phí cao là một cơ quan nhà nước như ở Ấn Độ, sự cứng nhắc của luật lệ (chẳng hạn không được sa thải người thừa) khiến việc điều chỉnh còn khó hơn so với một doanh nghiệp tư đang cố sống sót trước cạnh tranh mới.
 
-**Thị trường bắt sức ỳ phải trả giá.** Theo Sowell, nhìn từ góc độ cả xã hội, chất lượng hay hiệu quả vượt trội không phải là vấn đề; vấn đề là sức ỳ và sự kém hiệu quả. Sức ỳ có ở con người dưới cả hai hệ thống, nhưng thị trường bắt sức ỳ phải trả giá. Đầu thế kỷ 20, Sears và Montgomery Ward đều ngần ngại mở cửa hàng sau hàng chục năm thành công nhờ chỉ bán qua catalogue gửi thư. Chỉ khi thập niên 1920 mang tới sự cạnh tranh của các chuỗi cửa hàng, làm giảm lợi nhuận và đẩy sổ sách vào cảnh lỗ, họ mới buộc phải tự trở thành chuỗi cửa hàng. Năm 1920, Montgomery Ward lỗ gần 10 triệu USD và Sears nợ 44 triệu USD, bằng đồng USD có giá trị gấp nhiều lần ngày nay. Dưới chủ nghĩa xã hội, hai hãng có thể bán qua catalogue mãi mãi, và nhà nước ít có lý do bỏ tiền dựng các chuỗi cửa hàng đối thủ chỉ để làm cuộc sống của mọi người thêm phức tạp.
+**Thị trường bắt sức ỳ phải trả giá.** Theo Sowell, nhìn từ góc độ cả xã hội, chất lượng hay hiệu quả vượt trội không phải là vấn đề; vấn đề là sức ỳ và sự kém hiệu quả. Sức ỳ có ở con người dưới cả hai hệ thống, nhưng thị trường bắt sức ỳ phải trả giá.
+
+Đầu thế kỷ 20, Sears và Montgomery Ward đều ngần ngại mở cửa hàng sau hàng chục năm thành công nhờ chỉ bán qua catalogue gửi thư. Chỉ khi thập niên 1920 mang tới sự cạnh tranh của các chuỗi cửa hàng, làm giảm lợi nhuận và đẩy sổ sách vào cảnh lỗ, họ mới buộc phải tự trở thành chuỗi cửa hàng. Năm 1920, Montgomery Ward lỗ gần 10 triệu USD và Sears nợ 44 triệu USD, bằng đồng USD có giá trị gấp nhiều lần ngày nay. Dưới chủ nghĩa xã hội, hai hãng có thể bán qua catalogue mãi mãi, và nhà nước ít có lý do bỏ tiền dựng các chuỗi cửa hàng đối thủ chỉ để làm cuộc sống của mọi người thêm phức tạp.
 
 **Chất lượng phụ thuộc động cơ khuyến khích.** Hai hệ thống khác nhau không chỉ về số lượng mà cả chất lượng sản phẩm. Ở Liên Xô, từ xe hơi, máy ảnh tới dịch vụ nhà hàng, hàng không đều nổi tiếng kém chất lượng, và đó không phải tình cờ. Động cơ khuyến khích khác hẳn nhau khi người sản xuất phải làm hài lòng người tiêu dùng để tồn tại về tài chính, so với khi phép thử tồn tại là hoàn thành chỉ tiêu sản lượng do nhà kế hoạch trung ương đặt ra. Người tiêu dùng ở kinh tế thị trường nhìn cả số lượng lẫn chất lượng, còn ủy ban kế hoạch trung ương phải giám sát hàng triệu sản phẩm nên chỉ theo dõi được tổng sản lượng.
 
@@ -448,9 +461,15 @@ Sowell lập luận rằng chất lượng thấp là do động cơ khuyến kh
 
 Người bán hàng đó giải thích: chủ tiệm ở chợ biết sự tồn tại của mình phụ thuộc vào khách; nếu lịch sự và bán hàng tốt giá cạnh tranh thì được khách thưởng, nếu không thì khách sang tiệm bên cạnh. Đường sắt, điện thoại, ngân hàng không có cạnh tranh nên nhân viên ở đó không bao giờ đặt khách hàng vào trung tâm. Tạp chí *The Economist* ở London cũng viết rằng ở Ấn Độ có thể thấy giao dịch viên ngân hàng nhà nước tán gẫu với nhau trong khi hàng khách kéo dài ra tận đường.
 
-**Khác biệt nằm ở độc quyền, không chỉ ở quyền sở hữu.** Sowell chỉ ra rằng các so sánh giữa tổ chức nhà nước và tổ chức tư nhân thường bỏ qua một điều: quyền sở hữu và quyền kiểm soát không phải khác biệt duy nhất. Tổ chức nhà nước gần như luôn là độc quyền, còn tổ chức tư nhân thường có đối thủ. Các cơ quan nhà nước cùng làm một việc bị gọi với nghĩa chê là "trùng lặp không cần thiết". Còn khách hàng đang bực bội xếp hàng ở ngân hàng nhà nước có coi một ngân hàng khác là trùng lặp không cần thiết hay không lại là chuyện khác. Theo *Wall Street Journal*, tư nhân hoá đã trả lời câu hỏi đó ở Ấn Độ: ngành ngân hàng vẫn do Ngân hàng Nhà nước Ấn Độ (State Bank of India) khổng lồ chi phối, nhưng tầng lớp trung lưu đang tăng lên chuyển phần lớn giao dịch sang các ngân hàng tư công nghệ cao như HDFC Bank và ICICI Bank, để lại cho ngân hàng nhà nước mảng kinh doanh ít lãi nhất và những khách vay tệ nhất.
+**Khác biệt nằm ở độc quyền, không chỉ ở quyền sở hữu.** Sowell chỉ ra rằng các so sánh giữa tổ chức nhà nước và tổ chức tư nhân thường bỏ qua một điều: quyền sở hữu và quyền kiểm soát không phải khác biệt duy nhất. Tổ chức nhà nước gần như luôn là độc quyền, còn tổ chức tư nhân thường có đối thủ.
 
-**Uy tín giữ chất lượng cho doanh nghiệp tư.** Doanh nghiệp tư ở nhiều nước vẫn có thể phục vụ kém hay làm ẩu, nhưng họ làm thế với rủi ro mất chính sự tồn tại của mình. Khi ngành thực phẩm chế biến ra đời ở Mỹ thế kỷ 19, nhà sản xuất thường độn thực phẩm bằng chất rẻ tiền; cải ngựa (horseradish) chẳng hạn hay được bán trong chai màu để che hàng độn. Khi Henry J. Heinz bắt đầu bán cải ngựa nguyên chất trong chai trong suốt, ông có lợi thế quyết định: các đối thủ lần lượt biến mất, còn Heinz trở thành một trong những tập đoàn lâu đời của công nghiệp Mỹ, vẫn kinh doanh rất thành công ở thế kỷ 21; năm 2013, H.J. Heinz được bán với giá 23 tỷ USD. Hãng thực phẩm chế biến Anh Crosse & Blackwell, bán thực phẩm chất lượng ở cả Anh và Mỹ, cũng giữ vị trí hàng đầu suốt thế kỷ 20 sang thế kỷ 21.
+Các cơ quan nhà nước cùng làm một việc bị gọi với nghĩa chê là "trùng lặp không cần thiết". Còn khách hàng đang bực bội xếp hàng ở ngân hàng nhà nước có coi một ngân hàng khác là trùng lặp không cần thiết hay không lại là chuyện khác.
+
+Theo *Wall Street Journal*, tư nhân hoá đã trả lời câu hỏi đó ở Ấn Độ: ngành ngân hàng vẫn do Ngân hàng Nhà nước Ấn Độ (State Bank of India) khổng lồ chi phối, nhưng tầng lớp trung lưu đang tăng lên chuyển phần lớn giao dịch sang các ngân hàng tư công nghệ cao như HDFC Bank và ICICI Bank, để lại cho ngân hàng nhà nước mảng kinh doanh ít lãi nhất và những khách vay tệ nhất.
+
+**Uy tín giữ chất lượng cho doanh nghiệp tư.** Doanh nghiệp tư ở nhiều nước vẫn có thể phục vụ kém hay làm ẩu, nhưng họ làm thế với rủi ro mất chính sự tồn tại của mình. Khi ngành thực phẩm chế biến ra đời ở Mỹ thế kỷ 19, nhà sản xuất thường độn thực phẩm bằng chất rẻ tiền; cải ngựa (horseradish) chẳng hạn hay được bán trong chai màu để che hàng độn.
+
+Khi Henry J. Heinz bắt đầu bán cải ngựa nguyên chất trong chai trong suốt, ông có lợi thế quyết định: các đối thủ lần lượt biến mất, còn Heinz trở thành một trong những tập đoàn lâu đời của công nghiệp Mỹ, vẫn kinh doanh rất thành công ở thế kỷ 21; năm 2013, H.J. Heinz được bán với giá 23 tỷ USD. Hãng thực phẩm chế biến Anh Crosse & Blackwell, bán thực phẩm chất lượng ở cả Anh và Mỹ, cũng giữ vị trí hàng đầu suốt thế kỷ 20 sang thế kỷ 21.
 
 Sowell viết rằng không có sự hoàn hảo ở kinh tế thị trường, kinh tế phi thị trường hay bất kỳ việc gì của con người, nhưng kinh tế thị trường phạt doanh nghiệp làm khách thất vọng và thưởng doanh nghiệp giữ cam kết với người tiêu dùng. Những thành công lớn của công nghiệp Mỹ thường thuộc về các công ty gần như cuồng tín trong việc giữ uy tín sản phẩm, kể cả sản phẩm rất bình thường và rẻ tiền:
 
@@ -473,9 +492,15 @@ Sowell viết rằng không có sự hoàn hảo ở kinh tế thị trường, 
 
 USDA vẫn tuyên bố thịt họ mua cho trường học "đạt hoặc vượt chuẩn của sản phẩm thương mại"; theo *USA Today*, điều đó không phải lúc nào cũng đúng.
 
-**Yếu tố con người.** Tuy kinh tế thị trường về bản chất là một cơ chế phi cá nhân để phân bổ nguồn lực, một số doanh nghiệp thành công nhất lại phát đạt nhờ chú ý tới yếu tố con người. Một lý do thành công của chuỗi bán lẻ Woolworth trước đây là người sáng lập F.W. Woolworth đòi nhân viên phải lịch sự với khách, xuất phát từ ký ức đau đớn thời ông là cậu bé nhà nông nghèo vào cửa hàng mua hay xem hàng và bị nhân viên coi như rác. Sự khắt khe của Ray Kroc về vệ sinh đã cứu McDonald's ở một thời điểm sống còn những năm đầu, khi ông rất cần một khoản vay: nhà tài chính đi xem các quán sau đó nói rằng nếu bãi đỗ xe bẩn, nhân viên mặc tạp dề dính dầu mỡ và đồ ăn không ngon thì McDonald's đã không bao giờ được vay. Trước đó, quan hệ tốt với các nhà cung cấp (người bán cốc giấy, sữa, khăn giấy cho McDonald's) cũng từng cứu Kroc, khi họ đồng ý cho ông vay tiền để vượt qua một cuộc khủng hoảng tài chính trước đó.
+**Yếu tố con người.** Tuy kinh tế thị trường về bản chất là một cơ chế phi cá nhân để phân bổ nguồn lực, một số doanh nghiệp thành công nhất lại phát đạt nhờ chú ý tới yếu tố con người. Một lý do thành công của chuỗi bán lẻ Woolworth trước đây là người sáng lập F.W. Woolworth đòi nhân viên phải lịch sự với khách, xuất phát từ ký ức đau đớn thời ông là cậu bé nhà nông nghèo vào cửa hàng mua hay xem hàng và bị nhân viên coi như rác.
 
-**"Chủ nghĩa tư bản" thực chất là "chủ nghĩa người tiêu dùng".** Sowell viết rằng cái gọi là "chủ nghĩa tư bản" đúng hơn nên gọi là "chủ nghĩa người tiêu dùng" (consumerism), theo nghĩa người tiêu dùng nắm quyền quyết định. Ông dùng hình ảnh: người tiêu dùng chọn bản nhạc, và nhà tư bản nào muốn tiếp tục là nhà tư bản phải học nhảy theo bản nhạc đó. Thế kỷ 20 mở đầu với nhiều hy vọng thay cạnh tranh trên thị trường bằng một nền kinh tế hiệu quả và nhân đạo hơn, do nhà nước lập kế hoạch và kiểm soát vì lợi ích nhân dân. Đến cuối thế kỷ, các nỗ lực đó bị kết quả thực tế ở nhiều nước làm mất uy tín hoàn toàn, đến mức đa số nước cộng sản bỏ kế hoạch hoá tập trung, còn chính phủ xã hội chủ nghĩa ở các nước dân chủ bắt đầu bán các xí nghiệp nhà nước có thua lỗ kinh niên là gánh nặng cho người nộp thuế. Tư nhân hoá được các chính phủ bảo thủ như của Thủ tướng Margaret Thatcher (Anh) và Tổng thống Ronald Reagan (Mỹ) đề cao như một nguyên tắc. Nhưng theo Sowell, bằng chứng quyết định nhất cho hiệu quả của thị trường là chính các chính phủ xã hội chủ nghĩa và cộng sản, do những người phản đối chủ nghĩa tư bản về triết lý lãnh đạo, cũng quay lại thị trường tự do sau khi thấy điều gì xảy ra khi công nghiệp và thương mại vận hành mà không có giá cả, lãi và lỗ dẫn đường.
+Sự khắt khe của Ray Kroc về vệ sinh đã cứu McDonald's ở một thời điểm sống còn những năm đầu, khi ông rất cần một khoản vay: nhà tài chính đi xem các quán sau đó nói rằng nếu bãi đỗ xe bẩn, nhân viên mặc tạp dề dính dầu mỡ và đồ ăn không ngon thì McDonald's đã không bao giờ được vay. Trước đó, quan hệ tốt với các nhà cung cấp (người bán cốc giấy, sữa, khăn giấy cho McDonald's) cũng từng cứu Kroc, khi họ đồng ý cho ông vay tiền để vượt qua một cuộc khủng hoảng tài chính trước đó.
+
+**"Chủ nghĩa tư bản" thực chất là "chủ nghĩa người tiêu dùng".** Sowell viết rằng cái gọi là "chủ nghĩa tư bản" đúng hơn nên gọi là "chủ nghĩa người tiêu dùng" (consumerism), theo nghĩa người tiêu dùng nắm quyền quyết định. Ông dùng hình ảnh: người tiêu dùng chọn bản nhạc, và nhà tư bản nào muốn tiếp tục là nhà tư bản phải học nhảy theo bản nhạc đó.
+
+Thế kỷ 20 mở đầu với nhiều hy vọng thay cạnh tranh trên thị trường bằng một nền kinh tế hiệu quả và nhân đạo hơn, do nhà nước lập kế hoạch và kiểm soát vì lợi ích nhân dân. Đến cuối thế kỷ, các nỗ lực đó bị kết quả thực tế ở nhiều nước làm mất uy tín hoàn toàn, đến mức đa số nước cộng sản bỏ kế hoạch hoá tập trung, còn chính phủ xã hội chủ nghĩa ở các nước dân chủ bắt đầu bán các xí nghiệp nhà nước có thua lỗ kinh niên là gánh nặng cho người nộp thuế.
+
+Tư nhân hoá được các chính phủ bảo thủ như của Thủ tướng Margaret Thatcher (Anh) và Tổng thống Ronald Reagan (Mỹ) đề cao như một nguyên tắc. Nhưng theo Sowell, bằng chứng quyết định nhất cho hiệu quả của thị trường là chính các chính phủ xã hội chủ nghĩa và cộng sản, do những người phản đối chủ nghĩa tư bản về triết lý lãnh đạo, cũng quay lại thị trường tự do sau khi thấy điều gì xảy ra khi công nghiệp và thương mại vận hành mà không có giá cả, lãi và lỗ dẫn đường.
 
 ### 3. Người thắng và kẻ thua (Winners and Losers)
 
@@ -483,7 +508,9 @@ Nhiều người đánh giá cao sự thịnh vượng do kinh tế thị trư�
 
 Sowell nhắc rằng, dù các đề xuất đó hay dở thế nào, phải nhớ vận may và vận rủi của các khu vực khác nhau có thể gắn với nhau như nguyên nhân và kết quả, và ngăn kết quả xấu có thể ngăn luôn kết quả tốt. Không phải tình cờ mà Smith Corona bắt đầu lỗ hàng triệu USD mỗi năm với máy đánh chữ đúng lúc Dell lãi hàng triệu USD nhờ máy tính: máy tính đang thay thế máy đánh chữ. Cũng không phải tình cờ mà doanh số phim chụp ảnh giảm khi máy ảnh số lên ngôi. Vì nguồn lực khan hiếm có nhiều cách dùng thay thế, một số doanh nghiệp phải mất khả năng dùng nguồn lực để doanh nghiệp khác có được khả năng đó.
 
-Sowell nhấn mạnh rằng Smith Corona phải bị *ngăn* dùng nguồn lực khan hiếm, cả vật liệu lẫn lao động, để làm máy đánh chữ, khi các nguồn lực đó có thể làm ra máy tính mà công chúng muốn hơn. Một phần nguồn lực làm máy ảnh phim cũng phải chuyển sang làm máy ảnh số. Đây không phải lỗi của ai: máy đánh chữ của Smith Corona tốt đến đâu, nhân viên giỏi và tận tâm đến đâu, công chúng cũng không còn cần máy đánh chữ khi đã có máy tính làm được cùng việc và hơn thế; một số máy ảnh phim rất tốt cũng bị ngừng sản xuất khi máy ảnh số ra đời. Ở mọi thời đại, sự khan hiếm có nghĩa là nguồn lực phải được lấy từ người này để chuyển cho người khác, nếu muốn sản phẩm mới và cách sản xuất mới nâng mức sống.
+Sowell nhấn mạnh rằng Smith Corona phải bị *ngăn* dùng nguồn lực khan hiếm, cả vật liệu lẫn lao động, để làm máy đánh chữ, khi các nguồn lực đó có thể làm ra máy tính mà công chúng muốn hơn. Một phần nguồn lực làm máy ảnh phim cũng phải chuyển sang làm máy ảnh số.
+
+Đây không phải lỗi của ai: máy đánh chữ của Smith Corona tốt đến đâu, nhân viên giỏi và tận tâm đến đâu, công chúng cũng không còn cần máy đánh chữ khi đã có máy tính làm được cùng việc và hơn thế; một số máy ảnh phim rất tốt cũng bị ngừng sản xuất khi máy ảnh số ra đời. Ở mọi thời đại, sự khan hiếm có nghĩa là nguồn lực phải được lấy từ người này để chuyển cho người khác, nếu muốn sản phẩm mới và cách sản xuất mới nâng mức sống.
 
 Ví dụ ở quy mô lớn: khó hình dung công nghiệp Mỹ lấy đâu ra hàng triệu công nhân được thêm vào trong thế kỷ 20, những người có sản lượng góp phần nâng mạnh mức sống của công chúng, nếu không có sự sụt giảm (bị than phiền rất nhiều) của số trang trại và số nông dân trong cùng thế kỷ đó. Ít cá nhân hay doanh nghiệp tự nguyện từ bỏ việc quen làm vì lợi ích chung của xã hội, nhất là khi họ từng thành công với việc đó. Nhưng bằng cách này hay cách khác, dưới bất kỳ hệ thống kinh tế hay chính trị nào, họ sẽ phải bị buộc nhường lại nguồn lực và thay đổi việc mình làm, nếu muốn đạt và duy trì mức sống tăng lên.
 
@@ -493,9 +520,17 @@ Cuộc sống có thể dễ chịu và đơn giản hơn nếu mọi khu vực 
 
 Cám dỗ chính trị là để nhà nước giúp những ngành, vùng hay nhóm dân bị thay đổi kinh tế làm thiệt hại. Nhưng điều đó chỉ làm được bằng cách lấy nguồn lực từ những phần đang tiến lên của nền kinh tế và chuyển sang những phần có sản phẩm hay cách làm kém năng suất hơn, tức là cản trở việc phân bổ nguồn lực khan hiếm tới cách dùng được đánh giá cao nhất, điều mà mức sống của cả xã hội phụ thuộc vào. Hơn nữa, vì thay đổi kinh tế không bao giờ dừng, chính sách ngăn nguồn lực đi tới chỗ được hàng triệu người đánh giá cao nhất cũng sẽ phải kéo dài mãi, nếu chính phủ chiều theo cám dỗ can thiệp cho từng ngành, vùng hay nhóm dân, và hy sinh mức sống của toàn dân.
 
-Việc có thể làm thay vào đó là thừa nhận rằng thay đổi kinh tế đã diễn ra hàng thế kỷ, không có dấu hiệu dừng, và những điều chỉnh mà thay đổi đòi hỏi cũng sẽ không dừng. Điều này đúng với chính phủ, với các ngành và với người dân. Doanh nghiệp lẫn cá nhân đều không thể tiêu hết thu nhập hiện tại như thể không có rủi ro bất ngờ nào cần chuẩn bị. Vậy mà nhiều người vẫn than phiền ngay cả khi người đã chuẩn bị tài chính tốt phải điều chỉnh. Một phóng viên kinh tế của *New York Times* viết về nạn mất việc trong cuốn sách có tựa ảm đạm *The Disposable American* (Người Mỹ dùng một lần), trong đó kể về một nữ giám đốc mất việc khi tập đoàn lớn nơi bà làm tái cơ cấu; bà phải bán "hai trong ba con ngựa" của mình và bán 16.500 USD cổ phiếu Procter, "lấn vào tiền tiết kiệm để tự nuôi sống trong lúc tìm việc". Sowell chỉ ra rằng người phụ nữ này có hơn 1 triệu USD tiết kiệm và sở hữu một điền trang rộng 17 mẫu Anh (khoảng 7 hecta), vậy mà việc bà phải điều chỉnh theo nền kinh tế luôn thay đổi, chính nền kinh tế đã tạo ra sự thịnh vượng của bà, lại được trình bày như một thất bại bi thảm của xã hội.
+Việc có thể làm thay vào đó là thừa nhận rằng thay đổi kinh tế đã diễn ra hàng thế kỷ, không có dấu hiệu dừng, và những điều chỉnh mà thay đổi đòi hỏi cũng sẽ không dừng. Điều này đúng với chính phủ, với các ngành và với người dân. Doanh nghiệp lẫn cá nhân đều không thể tiêu hết thu nhập hiện tại như thể không có rủi ro bất ngờ nào cần chuẩn bị.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một thành phố có dịch vụ cấp giấy tờ do một cơ quan nhà nước làm độc quyền. Thời gian chờ trung bình là 15 ngày, nhân viên hưởng lương theo thang bậc, không ai bị phạt nếu hồ sơ chậm. Thành phố cho phép thêm 3 công ty tư nhân làm dịch vụ nhận và trả hồ sơ, thu phí 200.000 đồng mỗi bộ, và trả tiền phạt cho khách nếu trả chậm. Sau một năm, giả sử 60% hồ sơ đi qua công ty tư, thời gian chờ ở đó còn 3 ngày, và chính cơ quan nhà nước, khi thấy lượng hồ sơ giảm và bị báo chí so sánh, rút thời gian chờ của mình xuống 7 ngày. Theo lập luận của Sowell, điều thay đổi không phải là quyền sở hữu cơ quan nhà nước, mà là người dân lần đầu có nơi khác để chuyển sang. Đồng thời, giống Bưu điện Ấn Độ, nếu cơ quan nhà nước không được giảm biên chế, sẽ có một số nhân viên thừa việc: đó là chi phí của sự cứng nhắc, không phải của cạnh tranh.
+Vậy mà nhiều người vẫn than phiền ngay cả khi người đã chuẩn bị tài chính tốt phải điều chỉnh. Một phóng viên kinh tế của *New York Times* viết về nạn mất việc trong cuốn sách có tựa ảm đạm *The Disposable American* (Người Mỹ dùng một lần), trong đó kể về một nữ giám đốc mất việc khi tập đoàn lớn nơi bà làm tái cơ cấu; bà phải bán "hai trong ba con ngựa" của mình và bán 16.500 USD cổ phiếu Procter, "lấn vào tiền tiết kiệm để tự nuôi sống trong lúc tìm việc".
+
+Sowell chỉ ra rằng người phụ nữ này có hơn 1 triệu USD tiết kiệm và sở hữu một điền trang rộng 17 mẫu Anh (khoảng 7 hecta), vậy mà việc bà phải điều chỉnh theo nền kinh tế luôn thay đổi, chính nền kinh tế đã tạo ra sự thịnh vượng của bà, lại được trình bày như một thất bại bi thảm của xã hội.
+
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một thành phố có dịch vụ cấp giấy tờ do một cơ quan nhà nước làm độc quyền. Thời gian chờ trung bình là 15 ngày, nhân viên hưởng lương theo thang bậc, không ai bị phạt nếu hồ sơ chậm. Thành phố cho phép thêm 3 công ty tư nhân làm dịch vụ nhận và trả hồ sơ, thu phí 200.000 đồng mỗi bộ, và trả tiền phạt cho khách nếu trả chậm.
+
+Sau một năm, giả sử 60% hồ sơ đi qua công ty tư, thời gian chờ ở đó còn 3 ngày, và chính cơ quan nhà nước, khi thấy lượng hồ sơ giảm và bị báo chí so sánh, rút thời gian chờ của mình xuống 7 ngày.
+
+Theo lập luận của Sowell, điều thay đổi không phải là quyền sở hữu cơ quan nhà nước, mà là người dân lần đầu có nơi khác để chuyển sang. Đồng thời, giống Bưu điện Ấn Độ, nếu cơ quan nhà nước không được giảm biên chế, sẽ có một số nhân viên thừa việc: đó là chi phí của sự cứng nhắc, không phải của cạnh tranh.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -612,7 +647,9 @@ Tranh luận phổ biến thường đặt câu hỏi "nhà nước hay tư nhâ
 
 ### Sowell đơn giản hoá khi coi mọi khác biệt đều do động cơ khuyến khích của thị trường
 
-Một số ví dụ có cách giải thích khác hoặc bổ sung. FEMA và các công ty bảo hiểm không làm cùng một việc: công ty bảo hiểm trả tiền theo hợp đồng đã định giá cho khách đã mua bảo hiểm, còn FEMA phải cứu trợ cả người không có bảo hiểm, phối hợp hậu cần và chịu yêu cầu chống gian lận khi chi tiền công. Ngành bảo hiểm tư nhân cũng có nhiều lời phàn nàn về việc chậm hoặc từ chối bồi thường sau thảm hoạ. Ví dụ chuẩn thịt cho bữa trưa học đường cho thấy chuẩn của chuỗi cao hơn, nhưng các chuỗi đó đặt chuẩn cao một phần vì từng gặp các vụ ngộ độc thực phẩm lớn và chịu luật trách nhiệm sản phẩm, tức là thị trường cộng với hệ thống pháp lý, không chỉ riêng cạnh tranh. Sowell cũng chỉ nêu các trường hợp thành công (Heinz, McDonald's) mà ít bàn về những lĩnh vực thị trường tự nó không giữ được chất lượng, nơi khách khó đánh giá sản phẩm.
+Một số ví dụ có cách giải thích khác hoặc bổ sung. FEMA và các công ty bảo hiểm không làm cùng một việc: công ty bảo hiểm trả tiền theo hợp đồng đã định giá cho khách đã mua bảo hiểm, còn FEMA phải cứu trợ cả người không có bảo hiểm, phối hợp hậu cần và chịu yêu cầu chống gian lận khi chi tiền công. Ngành bảo hiểm tư nhân cũng có nhiều lời phàn nàn về việc chậm hoặc từ chối bồi thường sau thảm hoạ.
+
+Ví dụ chuẩn thịt cho bữa trưa học đường cho thấy chuẩn của chuỗi cao hơn, nhưng các chuỗi đó đặt chuẩn cao một phần vì từng gặp các vụ ngộ độc thực phẩm lớn và chịu luật trách nhiệm sản phẩm, tức là thị trường cộng với hệ thống pháp lý, không chỉ riêng cạnh tranh. Sowell cũng chỉ nêu các trường hợp thành công (Heinz, McDonald's) mà ít bàn về những lĩnh vực thị trường tự nó không giữ được chất lượng, nơi khách khó đánh giá sản phẩm.
 
 ### Phần "Người thắng và kẻ thua" đúng về nguyên lý nhưng gây tranh cãi về hàm ý
 
@@ -620,7 +657,9 @@ Một số ví dụ có cách giải thích khác hoặc bổ sung. FEMA và cá
 
 ### Từ năm 2014, nhiều diễn biến vừa xác nhận vừa làm phức tạp lập luận
 
-Chính Sears, ví dụ của Sowell về việc thị trường buộc thay đổi, đã lặp lại sức ỳ với thương mại điện tử và phá sản năm 2018, cho thấy thị trường không cứu doanh nghiệp khỏi sức ỳ mà loại bỏ nó, đúng như lập luận "thị trường bắt sức ỳ phải trả giá". Đại học Phoenix, ví dụ về đại học vì lợi nhuận, sau đó thu hẹp mạnh trong bối cảnh bị điều tra về tuyển sinh và nợ sinh viên, nhắc rằng doanh nghiệp tư cũng có thể khai thác nơi khách hàng thiếu thông tin. Mặt khác, nghiên cứu về tác động của cạnh tranh từ hàng Trung Quốc lên các địa phương sản xuất ở Mỹ trong thập niên 2010 cho thấy thiệt hại của "kẻ thua" có thể tập trung theo vùng và kéo dài lâu hơn mức nhiều nhà kinh tế từng nghĩ, khiến lập trường "không cần giải pháp chính trị" của Sowell bị chất vấn nhiều hơn.
+Chính Sears, ví dụ của Sowell về việc thị trường buộc thay đổi, đã lặp lại sức ỳ với thương mại điện tử và phá sản năm 2018, cho thấy thị trường không cứu doanh nghiệp khỏi sức ỳ mà loại bỏ nó, đúng như lập luận "thị trường bắt sức ỳ phải trả giá". Đại học Phoenix, ví dụ về đại học vì lợi nhuận, sau đó thu hẹp mạnh trong bối cảnh bị điều tra về tuyển sinh và nợ sinh viên, nhắc rằng doanh nghiệp tư cũng có thể khai thác nơi khách hàng thiếu thông tin.
+
+Mặt khác, nghiên cứu về tác động của cạnh tranh từ hàng Trung Quốc lên các địa phương sản xuất ở Mỹ trong thập niên 2010 cho thấy thiệt hại của "kẻ thua" có thể tập trung theo vùng và kéo dài lâu hơn mức nhiều nhà kinh tế từng nghĩ, khiến lập trường "không cần giải pháp chính trị" của Sowell bị chất vấn nhiều hơn.
 
 ### Quan điểm trái chiều: có những việc thị trường làm kém mà Sowell không bàn ở chương này
 
@@ -632,3 +671,153 @@ Các nhà kinh tế theo hướng khác sẽ nhắc tới hàng hoá công, ngo�
 - **Trong đầu tư.** Một doanh nghiệp nhà nước hay một độc quyền sắp bị mở cửa cạnh tranh (như Bưu điện Ấn Độ trước FedEx, UPS, hay ngân hàng nhà nước trước HDFC, ICICI) thường mất trước tiên những khách hàng tốt nhất, để lại mảng kém lãi nhất. Những doanh nghiệp có lợi thế dựa trên sức ỳ của khách hàng cũ (như máy đánh chữ, phim chụp ảnh) có thể đang trên đà của Smith Corona dù sản phẩm vẫn rất tốt.
 - **Trong nghề nghiệp.** Nếu kỹ năng của bạn gắn với một sản phẩm hay cách làm đang bị thay thế, giỏi đến đâu cũng không bảo vệ được bạn, như công nhân Smith Corona. Cuối chương, Sowell nhắc rằng cá nhân không thể tiêu hết thu nhập hiện tại như thể không có rủi ro bất ngờ, tức là nên giữ khoản dự phòng tài chính; người tổng hợp thêm: nên chủ động học kỹ năng mới thay vì chờ chính sách bảo vệ.
 - **Khi đọc tin chính sách.** Ở Việt Nam, khi đọc tin về cải cách doanh nghiệp nhà nước, cổ phần hoá, hay việc cho tư nhân tham gia các dịch vụ trước đây do nhà nước độc quyền (bưu chính, viễn thông, hàng không, một số dịch vụ công), câu hỏi theo tinh thần chương này là: sau cải cách, người dùng có thật sự được chọn nhà cung cấp khác không, hay chỉ đổi chủ sở hữu mà vẫn giữ độc quyền. Khi nghe đề xuất hỗ trợ một ngành đang mất sức cạnh tranh, nên phân biệt hỗ trợ giữ nguyên ngành đó với hỗ trợ người lao động chuyển sang việc khác.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 9 trên một trang: bảy nhánh lớn đi theo Mục 1–3 của phần Nội dung chi tiết (Mục 2 chia ba nhánh theo bốn phần của tiểu mục "Businesses versus Non-Market Producers") và phần Đánh giá, mỗi nhánh ghi luận điểm, cơ chế, ví dụ và con số then chốt của Sowell; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 9: thị trường vượt trội nhờ cạnh tranh và sức ép tài chính, không chỉ nhờ sở hữu tư nhân`"]
+  n1["`Mục 1 — Doanh nghiệp chỉ là một trong nhiều cách tổ chức sản xuất`"]
+  n0 --- n1
+  n2["`Đề từ của Bartley: nhìn chung, thị trường thông minh hơn người thông minh nhất tham gia nó`"]
+  n1 --- n2
+  n3["`Sản xuất không cần doanh nghiệp: bộ lạc, phong kiến, trang trại tự cung tự cấp, kibbutz ở Israel`"]
+  n1 --- n3
+  n4["`Xí nghiệp nhà nước Liên Xô làm việc của doanh nghiệp nhưng không chịu cùng động cơ khuyến khích và ràng buộc`"]
+  n1 --- n4
+  n5["`Phi lợi nhuận làm việc chồng lấn: đại học bán vé thể thao, Hiệp hội Ô tô Mỹ gia hạn giấy phép xe`"]
+  n1 --- n5
+  n6["`Hoạt động chuyển qua lại: giao thông đô thị sang chính quyền, thu gom rác và nhà tù sang tư nhân`"]
+  n1 --- n6
+  n7["`Đại học Phoenix vì lợi nhuận có nhiều sinh viên hơn mọi đại học tư phi lợi nhuận`"]
+  n1 --- n7
+  n8["`Nhiều loại tổ chức cùng làm một việc cho phép so sánh động cơ khuyến khích và hiệu quả`"]
+  n1 --- n8
+  n9["`Mục 2, phần 1–2 — Độc quyền, cạnh tranh và sức ỳ`"]
+  n0 --- n9
+  n10["`Marx và Engels: giá rẻ của hàng hoá là #quot;trọng pháo#quot; phá đổ mọi #quot;Vạn Lý Trường Thành#quot;`"]
+  n9 --- n10
+  n11["`Lựa chọn thay thế chính ngày nay là xí nghiệp nhà nước, điều quyết định là thành tích thực tế`"]
+  n9 --- n11
+  n12["`Độc quyền là kẻ thù của hiệu quả dưới cả hai hệ thống, dưới chủ nghĩa xã hội nó là chuẩn mực`"]
+  n9 --- n12
+  n13["`FEMA chậm hơn công ty bảo hiểm vì nạn nhân không có cơ quan nào khác để chuyển sang`"]
+  n9 --- n13
+  n14["`Công ty bảo hiểm chậm chi tiền thì mất hợp đồng trị giá hàng tỷ USD trên khắp nước`"]
+  n13 --- n14
+  n15["`Nhân viên FEMA hưởng lương theo thang cố định, không theo tốc độ hay chất lượng phục vụ`"]
+  n13 --- n15
+  n16["`Bưu điện Ấn Độ: 16 tỷ bưu phẩm năm 1999, dưới 8 tỷ năm 2005 khi FedEx và UPS vào cuộc`"]
+  n9 --- n16
+  n17["`Không được sa thải người thừa, Tổng Giám đốc vùng Mumbai tính bán dầu gội ở bưu cục`"]
+  n16 --- n17
+  n18["`Cạnh tranh nhất thiết có kẻ thua: Luật Robinson-Patman 1936 bị gọi là luật chống Sears, Roebuck, nay Wal-Mart nhận vai kẻ ác`"]
+  n9 --- n18
+  n19["`Vấn đề của xã hội là sức ỳ, không phải hiệu quả vượt trội, và thị trường bắt sức ỳ phải trả giá`"]
+  n9 --- n19
+  n20["`Năm 1920 Montgomery Ward lỗ gần 10 triệu USD, Sears nợ 44 triệu USD, buộc bỏ bán qua catalogue để mở chuỗi cửa hàng`"]
+  n9 --- n20
+  n21["`Mục 2, phần 3 — Chất lượng phụ thuộc động cơ khuyến khích`"]
+  n0 --- n21
+  n22["`Liên Xô: nhà kế hoạch theo dõi hàng triệu sản phẩm nên chỉ kiểm soát được tổng sản lượng, chất lượng kém`"]
+  n21 --- n22
+  n23["`Không do người Nga: Mỹ, Tây Âu cũng sa sút chất lượng dưới kiểm soát tiền thuê nhà và kiểm soát giá`"]
+  n21 --- n23
+  n24["`Ấn Độ: quán ăn mang cơm sau 3 phút, chủ tiệm trải 100 chiếc sari, ngân hàng quốc doanh bắt xếp hàng dài`"]
+  n21 --- n24
+  n25["`Khác biệt nằm ở độc quyền, không chỉ ở quyền sở hữu: #quot;trùng lặp không cần thiết#quot; thực chất là cạnh tranh`"]
+  n21 --- n25
+  n26["`Trung lưu Ấn Độ chuyển sang HDFC Bank, ICICI Bank, để lại ngân hàng nhà nước khách vay tệ nhất`"]
+  n21 --- n26
+  n27["`Mục 2, phần 4 — Uy tín là tài sản, chủ nghĩa tư bản là chủ nghĩa người tiêu dùng`"]
+  n0 --- n27
+  n28["`Heinz bán cải ngựa nguyên chất trong chai trong suốt, đối thủ biến mất, năm 2013 bán giá 23 tỷ USD`"]
+  n27 --- n28
+  n29["`McDonald's thanh tra nhà cung cấp thịt không báo trước, Colonel Sanders đổ gà rán không đạt vào thùng rác`"]
+  n27 --- n29
+  n30["`Doanh nghiệp bán cả uy tín đáng hàng tỷ USD, Ray Kroc bắt dọn rác trong bán kính hai dãy nhà`"]
+  n27 --- n30
+  n31["`Chuỗi xét nghiệm thịt bò gấp 5–10 lần USDA, ngưỡng vi khuẩn nghiêm gấp đến 10 lần`"]
+  n27 --- n31
+  n32["`USDA cấp gà mái hết đẻ cho bữa trưa học đường, loại KFC không mua`"]
+  n27 --- n32
+  n33["`Nhà tài chính cho Kroc vay vì quán sạch, Woolworth đòi nhân viên lịch sự với khách`"]
+  n27 --- n33
+  n34["`Người tiêu dùng chọn bản nhạc, nhà tư bản muốn còn là nhà tư bản phải học nhảy theo`"]
+  n27 --- n34
+  n35["`Cuối thế kỷ 20, đa số nước cộng sản bỏ kế hoạch hoá tập trung, chính phủ xã hội chủ nghĩa bán xí nghiệp thua lỗ`"]
+  n27 --- n35
+  n36["`Mục 3 — Người thắng và kẻ thua`"]
+  n0 --- n36
+  n37["`Smith Corona lỗ hàng triệu USD đúng lúc Dell lãi: máy tính thay máy đánh chữ, thua và thắng là nhân quả`"]
+  n36 --- n37
+  n38["`Nguồn lực khan hiếm phải bị rút khỏi máy đánh chữ dù sản phẩm tốt, đó không phải lỗi của ai`"]
+  n36 --- n38
+  n39["`Công nghiệp Mỹ thế kỷ 20 có hàng triệu công nhân nhờ số nông dân sụt giảm`"]
+  n36 --- n39
+  n40["`Mọi hệ thống đều phải dịch chuyển nguồn lực: thị trường dùng sức ép tài chính, vua chúa hay chính ủy ra lệnh`"]
+  n36 --- n40
+  n41["`Biết trước phát minh là phát minh trước khi phát minh, một điều tự mâu thuẫn`"]
+  n36 --- n41
+  n42["`Cứu ngành, vùng bị thiệt là chuyển nguồn lực sang chỗ kém năng suất, và phải kéo dài mãi`"]
+  n36 --- n42
+  n43["`Nữ giám đốc có hơn 1 triệu USD tiết kiệm và 17 mẫu Anh đất vẫn được kể như bi kịch xã hội`"]
+  n36 --- n43
+  n44["`Đánh giá — Điểm mạnh và giới hạn`"]
+  n0 --- n44
+  n45["`Điểm mạnh: biến số quyết định là có cạnh tranh hay không, không phải nhà nước hay tư nhân`"]
+  n44 --- n45
+  n46["`FEMA phải cứu cả người không có bảo hiểm, chuẩn thịt cao một phần do luật trách nhiệm sản phẩm`"]
+  n44 --- n46
+  n47["`Sowell không phân biệt cứu ngành với hỗ trợ người lao động chuyển đổi như đào tạo lại`"]
+  n44 --- n47
+  n48["`Sears phá sản năm 2018 xác nhận thị trường loại bỏ sức ỳ`"]
+  n44 --- n48
+  n49["`Cạnh tranh hàng Trung Quốc cho thấy thiệt hại của kẻ thua có thể tập trung theo vùng và kéo dài`"]
+  n44 --- n49
+  n50["`Hàng hoá công, ngoại ứng, độc quyền tự nhiên nằm ngoài phạm vi chương`"]
+  n44 --- n50
+  n51["`Thông điệp xuyên suốt`"]
+  n0 --- n51
+  n52["`Trước một tổ chức phục vụ kém, hãy hỏi khách hàng của nó có nơi nào khác để đi không`"]
+  n51 --- n52
+  n53["`Xét hệ quả về sau: cứu kẻ thua hôm nay giữ nguồn lực ở chỗ kém giá trị và hy sinh mức sống của toàn dân`"]
+  n51 --- n53
+  n54["`Thay đổi kinh tế là thường trực, cá nhân và doanh nghiệp nên chuẩn bị tài chính để điều chỉnh`"]
+  n51 --- n54
+  class n0 root
+  class n1,n9,n21,n27,n36,n44,n51 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n50,n52,n53,n54 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần II "Industry and Commerce", Chương 9.
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần II đi từ bên trong doanh nghiệp ra ngoài: Chương 5 kể chuyện doanh nghiệp thăng trầm, Chương 6 giải thích vai trò của lợi nhuận và thua lỗ, Chương 7 bàn về doanh nghiệp lớn, Chương 8 xem xét điều tiết và luật chống độc quyền.
+
+Chương 9 khép lại Phần II bằng câu hỏi rộng nhất: vì sao doanh nghiệp tìm kiếm lợi nhuận lại thay thế được các cách tổ chức sản xuất khác (bộ lạc, phong kiến, trang trại tự cung tự cấp, xí nghiệp nhà nước), và cái giá của việc thay thế đó là gì (có người thắng, có người thua).
+
+Ý "nguồn lực khan hiếm phải được rút khỏi người dùng kém hiệu quả để chuyển cho người dùng hiệu quả hơn" là cầu nối sang Phần III (Chương 10 đến 12) về năng suất, tiền lương và thị trường lao động, nơi người lao động chính là nguồn lực được dịch chuyển.
+
+## Lưu ý
+
+- Sách viết khoảng 2013–2014; các số liệu và ví dụ thuộc giai đoạn đó hoặc trước đó (thư của Bưu điện Ấn Độ 1999–2005, bài *New York Times* năm 2010, thương vụ bán H.J. Heinz năm 2013).
+- Một số chi tiết đã thay đổi: H.J. Heinz sáp nhập với Kraft năm 2015 thành Kraft Heinz; chuỗi Sears, ví dụ thành công của Sowell trong chương, đã nộp đơn phá sản năm 2018, một minh hoạ cho chính lập luận "thị trường bắt sức ỳ phải trả giá"; số sinh viên của Đại học Phoenix đã giảm mạnh so với đỉnh khoảng năm 2010; Wal-Mart nay viết là Walmart.
+- Sowell viết "Morgan Stanley's Discover unit" (đơn vị Discover của Morgan Stanley), nhưng Discover đã tách khỏi Morgan Stanley từ năm 2007; nhiều khả năng Sowell giữ ví dụ này từ ấn bản trước, nên khi ấn bản thứ năm ra đời thì chi tiết đó đã cũ.
+- Tên công ty sách giáo khoa được in là "Follet", đúng ra là Follett.
+- Chương mở đầu bằng câu đề từ của Robert L. Bartley (nguyên tổng biên tập trang xã luận *Wall Street Journal*).
+- Chương này không có chú thích chân trang có nội dung (loại đánh số La Mã), chỉ có chú thích nguồn trích dẫn, đã bỏ qua.
+- Các câu trích là bản dịch của người tổng hợp.

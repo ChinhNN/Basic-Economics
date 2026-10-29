@@ -1,11 +1,19 @@
 # Chương 15 — Các vấn đề đặc biệt về thời gian và rủi ro (Special Problems of Time and Risk)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần IV "Time and Risk", Chương 15.
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
-**Vị trí trong lập luận của cả cuốn sách:** Phần IV của sách bàn về hai yếu tố mà các phần trước (giá cả, doanh nghiệp, lao động) chưa đặt vào trung tâm: thời gian và rủi ro. Chương 13 (Investment) giải thích đầu tư là việc bỏ nguồn lực hôm nay để nhận lợi ích về sau; Chương 14 (Stocks, Bonds and Insurance) mô tả các công cụ mà thị trường dùng để chia sẻ và chuyển giao rủi ro. Chương 15 khép lại Phần IV bằng các "vấn đề đặc biệt": rủi ro không thể bị xoá bỏ mà chỉ được chuyển cho người khác; sự bất định (uncertainty) do chính sách nhà nước thay đổi thất thường làm người ta ngừng chi tiêu; ai có quyền trì hoãn thì có quyền áp chi phí lên người khác; và chính trị, vốn chỉ nhìn tới kỳ bầu cử tiếp theo, xử lý thời gian rất khác thị trường, vốn tính trước hệ quả tương lai qua giá trị hiện tại (present value). Chương này dẫn sang Phần V về nền kinh tế quốc gia (Chương 16 National Output), nơi các vấn đề về kỳ vọng, chi tiêu và chính sách nhà nước được bàn ở cấp toàn nền kinh tế.
-**Ý chính:** Sowell muốn người đọc hiểu rằng **thời gian là tiền, và rủi ro gắn liền với thời gian không thể biến mất, chỉ có thể được chuyển sang người chịu được nó tốt hơn**. Thị trường xử lý vấn đề này bằng cách đưa hệ quả tương lai vào giá hôm nay: giá cổ phiếu của một công ty xe buýt tư nhân giữ giá vé quá thấp sẽ giảm ngay, trước khi chiếc xe đầu tiên hỏng. Chính trị thì ngược lại: một chính trị gia chống tăng giá vé xe buýt thành phố có thể thắng cử, rồi thăng tiến lên cấp bang hay cấp quốc gia trước khi hậu quả (xe buýt hỏng, dịch vụ xuống cấp, dân bỏ thành phố) lộ ra. Các ví dụ trung tâm khác: nhà đầu cơ (speculator) giúp nông dân trồng lúa mì yên tâm sản xuất; quyền trì hoãn cấp phép xây dựng bị dùng để ép chủ đầu tư; việc nâng tuổi nghỉ hưu và xoá "nghỉ hưu bắt buộc" thực chất là chính phủ vỡ nợ một phần; và người dân luôn có khả năng nhìn trước (foresight), nên chính sách hiếm khi cho ra đúng kết quả đã định (luật phá sản Mỹ 2005, cải cách ruộng đất ở các nước nghèo, lạm phát ở Liên Xô năm 1991).
+## Ý chính
 
-> **Lưu ý:** Ấn bản thứ năm được viết khoảng 2013–2014; ví dụ gần nhất trong chương là bài báo *Wall Street Journal* năm 2013 về sự bất định và việc nhịp cầu mới của cầu Vịnh San Francisco (Bay Bridge) thông xe tháng 9/2013. Những điều đã thay đổi hoặc cần biết thêm (nêu định tính): nhịp cầu mới của Bay Bridge đã hoạt động từ đó; Detroit, mà Sowell nêu là ví dụ thành phố coi doanh nghiệp là con mồi, đã nộp đơn phá sản năm 2013 và ra khỏi phá sản năm sau. Chương có **1 chú thích chân trang** của Sowell (về hệ quả của việc xoá tuổi nghỉ hưu do doanh nghiệp tự đặt), đã được đưa vào Mục 3 phần Nội dung chi tiết và vào Sơ đồ phần 3. Hai chỗ trong sách không chính xác: (1) Sowell giới thiệu câu nói "hãy thử một điều gì đó" của Franklin D. Roosevelt như lời của "Tổng thống Roosevelt", nhưng câu này nằm trong bài diễn văn tại Đại học Oglethorpe tháng 5/1932, khi Roosevelt còn là Thống đốc New York và đang tranh cử, chưa làm tổng thống; (2) Sowell viết Hiến pháp Mỹ cấm "chính phủ" thay đổi điều khoản hợp đồng tư nhân, nhưng điều khoản hợp đồng (Contract Clause, Điều I, Mục 10) chỉ ràng buộc các bang, không ràng buộc chính phủ liên bang, trong khi luật xoá tuổi nghỉ hưu bắt buộc ở Mỹ là luật liên bang. Con số hơn 479.000 đơn phá sản trong một tuần trước khi luật phá sản 2005 có hiệu lực là theo nguồn Sowell dẫn; người tổng hợp không kiểm chứng. Các câu trích là bản dịch của người tổng hợp.
+Sowell muốn người đọc hiểu rằng **thời gian là tiền, và rủi ro gắn liền với thời gian không thể biến mất, chỉ có thể được chuyển sang người chịu được nó tốt hơn**.
+
+Thị trường xử lý vấn đề này bằng cách đưa hệ quả tương lai vào giá hôm nay: giá cổ phiếu của một công ty xe buýt tư nhân giữ giá vé quá thấp sẽ giảm ngay, trước khi chiếc xe đầu tiên hỏng.
+
+Chính trị thì ngược lại: một chính trị gia chống tăng giá vé xe buýt thành phố có thể thắng cử, rồi thăng tiến lên cấp bang hay cấp quốc gia trước khi hậu quả (xe buýt hỏng, dịch vụ xuống cấp, dân bỏ thành phố) lộ ra.
+
+Các ví dụ trung tâm khác:
+
+- Nhà đầu cơ (speculator) giúp nông dân trồng lúa mì yên tâm sản xuất.
+- Quyền trì hoãn cấp phép xây dựng bị dùng để ép chủ đầu tư.
+- Việc nâng tuổi nghỉ hưu và xoá "nghỉ hưu bắt buộc" thực chất là chính phủ vỡ nợ một phần.
+- Người dân luôn có khả năng nhìn trước (foresight), nên chính sách hiếm khi cho ra đúng kết quả đã định (luật phá sản Mỹ 2005, cải cách ruộng đất ở các nước nghèo, lạm phát ở Liên Xô năm 1991).
 
 ## Sơ đồ
 
@@ -463,7 +471,9 @@
 
 1. **Có thể loại bỏ rủi ro khỏi đời sống kinh tế không?** Không. Một người hay một nhóm chỉ được che chắn khỏi rủi ro khi có người khác gánh rủi ro thay; với cả xã hội, không có ai để chuyển sang. Lương cố định, biên chế suốt đời chỉ chuyển rủi ro sang người bảo đảm. Điều thị trường làm được là giảm rủi ro và chuyển nó cho người chịu được tốt hơn: nhà đầu cơ mua bán cùng lúc lúa mì, vàng, gia súc và ngoại tệ ít gặp nguy hơn một nông dân chỉ trồng lúa mì, nên việc nhà đầu cơ nhận rủi ro làm giảm tổng chi phí rủi ro và giúp nền kinh tế sản xuất nhiều hơn.
 2. **Vì sao thời gian lại là một nguồn quyền lực và chi phí?** Vì thời gian là tiền: chủ đầu tư vay hàng triệu USD phải trả lãi mỗi ngày công trình bị đình. Ai có quyền trì hoãn với chi phí thấp (cơ quan cấp phép, hội đồng quy hoạch, người đòi báo cáo tác động môi trường) có thể ép người kia làm theo ý mình hoặc bỏ dự án. Theo cùng logic, chính phủ nâng tuổi nghỉ hưu vài năm là bớt được hàng trăm tỷ USD nghĩa vụ lương hưu; tranh cãi năm 2004 về cầu Bay Bridge làm California tốn thêm 81 triệu USD.
-3. **Vì sao chính trị và thị trường xử lý hệ quả tương lai khác nhau?** Thị trường đưa hệ quả tương lai vào giá hôm nay qua giá trị hiện tại: cổ phiếu của công ty xe buýt tư nhân không để dành tiền thay xe sẽ giảm ngay, vì số ít người hiểu chuyện (khoảng 1% dân số, như những người điều hành các tổ chức tài chính nắm cổ phiếu hay cho công ty vay) đã nhìn thấy. Chính trị gia chỉ nhìn tới kỳ bầu cử tới, hậu quả đến khi họ đã đi nơi khác, và cử tri khó nối nguyên nhân với kết quả cách nhau nhiều năm. Ngoài ra, người dân có khả năng nhìn trước, nên chính sách thường cho kết quả khác dự định: số đơn phá sản ở Mỹ vọt lên hơn 479.000 một tuần ngay trước khi luật 2005 có hiệu lực rồi rơi xuống dưới 4.000.
+3. **Vì sao chính trị và thị trường xử lý hệ quả tương lai khác nhau?** Thị trường đưa hệ quả tương lai vào giá hôm nay qua giá trị hiện tại: cổ phiếu của công ty xe buýt tư nhân không để dành tiền thay xe sẽ giảm ngay, vì số ít người hiểu chuyện (khoảng 1% dân số, như những người điều hành các tổ chức tài chính nắm cổ phiếu hay cho công ty vay) đã nhìn thấy. Chính trị gia chỉ nhìn tới kỳ bầu cử tới, hậu quả đến khi họ đã đi nơi khác, và cử tri khó nối nguyên nhân với kết quả cách nhau nhiều năm.
+
+   Ngoài ra, người dân có khả năng nhìn trước, nên chính sách thường cho kết quả khác dự định: số đơn phá sản ở Mỹ vọt lên hơn 479.000 một tuần ngay trước khi luật 2005 có hiệu lực rồi rơi xuống dưới 4.000.
 
 ## Khái niệm cần biết
 
@@ -517,27 +527,39 @@ Một bài báo trên *Wall Street Journal* năm 2013 có tựa "Sự bất đ�
 | Số việc làm lẽ ra được tạo thêm mỗi tháng nếu không có sự bất định | khoảng 45.000 |
 | Số việc làm lẽ ra được tạo thêm trong hai năm | hơn 1 triệu |
 
-Tình trạng này không riêng nước Mỹ hay riêng đầu thế kỷ 21. Thời Đại suy thoái thập niên 1930, Franklin D. Roosevelt nói rằng đất nước cần, và đòi hỏi, sự thử nghiệm táo bạo và bền bỉ: lẽ thường là chọn một cách và thử; nếu thất bại thì thẳng thắn nhận và thử cách khác; nhưng trên hết, hãy thử một điều gì đó. (Như đã nêu ở phần Lưu ý, Roosevelt nói câu này năm 1932 khi còn là Thống đốc New York.) Sowell cho rằng, bất kể từng chính sách tốt hay dở, cách tiếp cận này tạo ra sự bất định: nhà đầu tư, người tiêu dùng không đoán được khi nào và bằng cách nào nhà nước đổi luật chơi của nền kinh tế, cũng không đoán được hệ quả của các thay đổi đó, nên họ ngại chi tiền. Tốc độ lưu thông tiền đã giảm trong những năm bất định của Đại suy thoái, và một số người coi đây là một lý do khiến nền kinh tế mất thời gian dài kỷ lục mới phục hồi.
+Tình trạng này không riêng nước Mỹ hay riêng đầu thế kỷ 21. Thời Đại suy thoái thập niên 1930, Franklin D. Roosevelt nói rằng đất nước cần, và đòi hỏi, sự thử nghiệm táo bạo và bền bỉ: lẽ thường là chọn một cách và thử; nếu thất bại thì thẳng thắn nhận và thử cách khác; nhưng trên hết, hãy thử một điều gì đó. (Như đã nêu ở mục Lưu ý cuối chương, Roosevelt nói câu này năm 1932 khi còn là Thống đốc New York.)
+
+Sowell cho rằng, bất kể từng chính sách tốt hay dở, cách tiếp cận này tạo ra sự bất định: nhà đầu tư, người tiêu dùng không đoán được khi nào và bằng cách nào nhà nước đổi luật chơi của nền kinh tế, cũng không đoán được hệ quả của các thay đổi đó, nên họ ngại chi tiền. Tốc độ lưu thông tiền đã giảm trong những năm bất định của Đại suy thoái, và một số người coi đây là một lý do khiến nền kinh tế mất thời gian dài kỷ lục mới phục hồi.
 
 ### 3. Thời gian và tiền bạc (Time and Money)
 
 Câu "thời gian là tiền" không chỉ đúng mà còn có nhiều hệ quả nghiêm trọng. Một trong số đó: ai có khả năng trì hoãn thì có khả năng áp chi phí, có khi là chi phí tàn khốc, lên người khác.
 
-**Xây dựng nhà ở.** Người định xây nhà hay chung cư thường vay hàng triệu USD và phải trả lãi trên số tiền đó dù công trình đúng tiến độ hay bị đình vì kiện tụng, vì quyết định chính trị hay vì sự chần chừ của quan chức không vội vàng gì. Tiền lãi khổng lồ cộng thêm vào chi phí xây dựng trong lúc người ta điều tra các cáo buộc nguy hại môi trường, hoặc trong lúc các thành viên hội đồng quy hoạch địa phương tranh cãi với nhau hay với chủ đầu tư về việc có bắt chủ đầu tư làm thêm vườn, hồ, đường xe đạp hay không, kể cả những tiện ích cho công chúng chứ không chỉ cho người mua nhà, thuê nhà. So sánh chi phí các tiện ích này với chi phí chờ đợi, chủ đầu tư có thể quyết định xây những thứ mà cả họ lẫn khách hàng không muốn trả tiền nếu được chọn. Nhưng khách hàng vẫn trả, qua giá nhà và tiền thuê cao hơn. Chi phí lớn nhất có thể bị che khuất: số nhà và căn hộ được xây ít đi khi bên thứ ba dùng quyền trì hoãn để áp thêm chi phí. Nguyên tắc chung Sowell rút ra: hễ A chỉ tốn ít mà áp được chi phí lớn lên B bằng cách trì hoãn, A có thể tống tiền B, hoặc chặn những việc của B mà A không thích, hoặc kết hợp cả hai.
+**Xây dựng nhà ở.** Người định xây nhà hay chung cư thường vay hàng triệu USD và phải trả lãi trên số tiền đó dù công trình đúng tiến độ hay bị đình vì kiện tụng, vì quyết định chính trị hay vì sự chần chừ của quan chức không vội vàng gì. Tiền lãi khổng lồ cộng thêm vào chi phí xây dựng trong lúc người ta điều tra các cáo buộc nguy hại môi trường, hoặc trong lúc các thành viên hội đồng quy hoạch địa phương tranh cãi với nhau hay với chủ đầu tư về việc có bắt chủ đầu tư làm thêm vườn, hồ, đường xe đạp hay không, kể cả những tiện ích cho công chúng chứ không chỉ cho người mua nhà, thuê nhà.
+
+So sánh chi phí các tiện ích này với chi phí chờ đợi, chủ đầu tư có thể quyết định xây những thứ mà cả họ lẫn khách hàng không muốn trả tiền nếu được chọn. Nhưng khách hàng vẫn trả, qua giá nhà và tiền thuê cao hơn. Chi phí lớn nhất có thể bị che khuất: số nhà và căn hộ được xây ít đi khi bên thứ ba dùng quyền trì hoãn để áp thêm chi phí. Nguyên tắc chung Sowell rút ra: hễ A chỉ tốn ít mà áp được chi phí lớn lên B bằng cách trì hoãn, A có thể tống tiền B, hoặc chặn những việc của B mà A không thích, hoặc kết hợp cả hai.
 
 **Bộ máy hành chính chậm chạp.** Đây là lời than phiền phổ biến khắp thế giới, không chỉ vì quan chức thường nhận cùng mức lương dù làm nhanh hay chậm, mà còn vì ở một số nước, quan chức tham nhũng có thể tăng đáng kể thu nhập nhờ nhận hối lộ để làm nhanh. Phạm vi quyền lực của nhà nước càng rộng và thủ tục càng nhiều thì chi phí có thể áp lên người khác qua trì hoãn càng lớn, và tiền hối lộ đòi được càng nhiều.
 
-Ở những nước ít tham nhũng hơn, "hối lộ" có thể mang hình thức gián tiếp vì mục đích chính trị: buộc chủ đầu tư xây những thứ bên thứ ba muốn, hoặc không xây gì cả khi chủ nhà quanh đó hay phong trào môi trường muốn giữ nguyên hiện trạng. Chi phí trực tiếp của việc đòi một báo cáo tác động môi trường có thể rất thấp so với chi phí chờ đợi mà việc lập báo cáo áp lên chủ đầu tư, dưới dạng tiền lãi tăng dần trên hàng triệu USD tiền vay nằm chết trong suốt quá trình kéo dài đó. Dù báo cáo kết luận không có nguy hại môi trường nào, bản thân nó đã gây thiệt hại kinh tế đáng kể, có khi đủ để chủ đầu tư bỏ kế hoạch xây ở địa phương đó. Các chủ đầu tư khác có thể tránh những nơi như vậy vì sự bất định do các cơ quan quản lý có quyền lớn, tuỳ tiện và khó đoán gây ra.
+Ở những nước ít tham nhũng hơn, "hối lộ" có thể mang hình thức gián tiếp vì mục đích chính trị: buộc chủ đầu tư xây những thứ bên thứ ba muốn, hoặc không xây gì cả khi chủ nhà quanh đó hay phong trào môi trường muốn giữ nguyên hiện trạng. Chi phí trực tiếp của việc đòi một báo cáo tác động môi trường có thể rất thấp so với chi phí chờ đợi mà việc lập báo cáo áp lên chủ đầu tư, dưới dạng tiền lãi tăng dần trên hàng triệu USD tiền vay nằm chết trong suốt quá trình kéo dài đó.
+
+Dù báo cáo kết luận không có nguy hại môi trường nào, bản thân nó đã gây thiệt hại kinh tế đáng kể, có khi đủ để chủ đầu tư bỏ kế hoạch xây ở địa phương đó. Các chủ đầu tư khác có thể tránh những nơi như vậy vì sự bất định do các cơ quan quản lý có quyền lớn, tuỳ tiện và khó đoán gây ra.
 
 Nguyên tắc tương tự áp dụng cho quy định y tế với trái cây, rau, hoa nhập khẩu và các hàng dễ hỏng khác. Một số quy định y tế có chức năng chính đáng, cũng như một số quy định môi trường, nhưng cả hai đều có thể bị dùng để ngăn người khác làm điều mà bên thứ ba phản đối, chỉ bằng cách gây chi phí lớn qua trì hoãn.
 
 **Nâng tuổi nghỉ hưu.** Thời gian là tiền theo một cách nữa. Chỉ bằng việc đổi tuổi nghỉ hưu, chính phủ có thể hoãn ngày mà lương hưu đã hứa vượt quá số tiền có để trả; nâng tuổi nghỉ hưu vài năm có thể tiết kiệm hàng trăm tỷ USD. Sowell gọi đây là vi phạm hợp đồng, tương đương chính phủ vỡ nợ một nghĩa vụ tài chính mà hàng triệu người trông vào. Nhưng với những ai không dừng lại nghĩ rằng thời gian là tiền, việc này có thể được giải thích về chính trị bằng những lời lẽ hoàn toàn khác.
 
-**Xoá "nghỉ hưu bắt buộc".** Khi tuổi nghỉ hưu bị thay đổi không chỉ với nhân viên nhà nước mà cả với người làm cho doanh nghiệp tư nhân, chính phủ không chỉ vi phạm cam kết của mình mà còn vi phạm thoả thuận có từ trước giữa chủ doanh nghiệp và người lao động. Sowell viết rằng ở Mỹ, Hiến pháp cấm rõ việc thay đổi điều khoản của hợp đồng tư nhân, nhưng qua nhiều năm các thẩm phán đã "diễn giải" điều khoản này tới mức nó gần như không còn tồn tại. (Như đã nêu ở phần Lưu ý, điều khoản này thực ra chỉ ràng buộc các bang.)
+**Xoá "nghỉ hưu bắt buộc".** Khi tuổi nghỉ hưu bị thay đổi không chỉ với nhân viên nhà nước mà cả với người làm cho doanh nghiệp tư nhân, chính phủ không chỉ vi phạm cam kết của mình mà còn vi phạm thoả thuận có từ trước giữa chủ doanh nghiệp và người lao động. Sowell viết rằng ở Mỹ, Hiến pháp cấm rõ việc thay đổi điều khoản của hợp đồng tư nhân, nhưng qua nhiều năm các thẩm phán đã "diễn giải" điều khoản này tới mức nó gần như không còn tồn tại. (Như đã nêu ở mục Lưu ý cuối chương, điều khoản này thực ra chỉ ràng buộc các bang.)
 
-Khi chính phủ thay đổi điều khoản lao động tư nhân, việc đó thường được gọi về chính trị là chấm dứt "nghỉ hưu bắt buộc" cho người lao động lớn tuổi. Theo Sowell, thực tế hiếm khi, nếu có, tồn tại một quy định bắt buộc nghỉ hưu. Điều tồn tại chỉ là một độ tuổi mà sau đó một doanh nghiệp không còn cam kết tiếp tục thuê người làm cho mình. Những người này vẫn tự do làm cho bất kỳ ai muốn thuê họ, thường vẫn nhận lương hưu: giáo sư nghỉ hưu ở Harvard có thể sang dạy ở một cơ sở của Đại học California; sĩ quan quân đội có thể làm cho công ty sản xuất thiết bị quân sự; kỹ sư hay nhà kinh tế có thể làm cho công ty tư vấn; người làm vô số nghề khác có thể bán kỹ năng cho ai muốn thuê. Vậy mà những người giỏi lời lẽ chính trị đã mô tả việc chính phủ vỡ nợ một phần nghĩa vụ trả lương hưu ở một độ tuổi nhất định như một hành động giải cứu đầy đạo đức cho người lao động lớn tuổi, thay vì gọi đúng tên: chuyển hàng tỷ USD nghĩa vụ tài chính từ chính phủ sang chủ doanh nghiệp tư nhân, vì lợi ích của chính phủ.
+Khi chính phủ thay đổi điều khoản lao động tư nhân, việc đó thường được gọi về chính trị là chấm dứt "nghỉ hưu bắt buộc" cho người lao động lớn tuổi. Theo Sowell, thực tế hiếm khi, nếu có, tồn tại một quy định bắt buộc nghỉ hưu. Điều tồn tại chỉ là một độ tuổi mà sau đó một doanh nghiệp không còn cam kết tiếp tục thuê người làm cho mình.
 
-*Chú thích của Sowell:* Việc tước quyền của doanh nghiệp tư nhân thôi thuê người lao động ở một độ tuổi nhất định còn có hệ quả kinh tế khác. Rõ nhất là người trẻ khó leo lên các nấc nghề nghiệp hơn, vì người lớn tuổi ở vị trí trên tiếp tục ở lại và chặn đường. Với cả nền kinh tế, đó là một sự mất hiệu quả. Khi không còn tuổi "nghỉ hưu bắt buộc", doanh nghiệp không thể tự động cho người lao động nghỉ khi họ tới độ tuổi năng suất thường bắt đầu giảm; muốn tránh bị kiện "phân biệt tuổi tác", doanh nghiệp phải chứng minh năng suất giảm ở từng trường hợp, sao cho bên thứ ba trong chính phủ chấp nhận. Chi phí và rủi ro của việc đó khiến nhiều người lớn tuổi được giữ lại dù có người trẻ làm được việc của họ hiệu quả hơn. Còn với những người lớn tuổi mà năng suất không giảm ở độ tuổi thông thường, doanh nghiệp vốn luôn có quyền miễn nghỉ hưu cho từng người. Vì vậy, cả với chủ doanh nghiệp lẫn người lao động, trên thực tế không có tuổi nghỉ hưu bắt buộc nào.
+Những người này vẫn tự do làm cho bất kỳ ai muốn thuê họ, thường vẫn nhận lương hưu: giáo sư nghỉ hưu ở Harvard có thể sang dạy ở một cơ sở của Đại học California; sĩ quan quân đội có thể làm cho công ty sản xuất thiết bị quân sự; kỹ sư hay nhà kinh tế có thể làm cho công ty tư vấn; người làm vô số nghề khác có thể bán kỹ năng cho ai muốn thuê.
+
+Vậy mà những người giỏi lời lẽ chính trị đã mô tả việc chính phủ vỡ nợ một phần nghĩa vụ trả lương hưu ở một độ tuổi nhất định như một hành động giải cứu đầy đạo đức cho người lao động lớn tuổi, thay vì gọi đúng tên: chuyển hàng tỷ USD nghĩa vụ tài chính từ chính phủ sang chủ doanh nghiệp tư nhân, vì lợi ích của chính phủ.
+
+*Chú thích của Sowell:* Việc tước quyền của doanh nghiệp tư nhân thôi thuê người lao động ở một độ tuổi nhất định còn có hệ quả kinh tế khác. Rõ nhất là người trẻ khó leo lên các nấc nghề nghiệp hơn, vì người lớn tuổi ở vị trí trên tiếp tục ở lại và chặn đường. Với cả nền kinh tế, đó là một sự mất hiệu quả.
+
+Khi không còn tuổi "nghỉ hưu bắt buộc", doanh nghiệp không thể tự động cho người lao động nghỉ khi họ tới độ tuổi năng suất thường bắt đầu giảm; muốn tránh bị kiện "phân biệt tuổi tác", doanh nghiệp phải chứng minh năng suất giảm ở từng trường hợp, sao cho bên thứ ba trong chính phủ chấp nhận. Chi phí và rủi ro của việc đó khiến nhiều người lớn tuổi được giữ lại dù có người trẻ làm được việc của họ hiệu quả hơn. Còn với những người lớn tuổi mà năng suất không giảm ở độ tuổi thông thường, doanh nghiệp vốn luôn có quyền miễn nghỉ hưu cho từng người. Vì vậy, cả với chủ doanh nghiệp lẫn người lao động, trên thực tế không có tuổi nghỉ hưu bắt buộc nào.
 
 **Trì hoãn do bế tắc.** Đôi khi thời gian tốn tiền không phải do chiến lược có chủ ý, mà là sản phẩm phụ của bế tắc giữa các cá nhân hay nhóm tranh chấp không phải trả giá gì cho việc không đạt được thoả thuận.
 
@@ -558,25 +580,47 @@ Việc hệ quả kinh tế đến chậm đã giúp quan chức ở nhiều nư
 
 Có thời gian là có rủi ro, vì khả năng nhìn trước của con người có hạn. Sowell phân biệt rõ rủi ro vốn có này với rủi ro do con người tự tạo ra như cờ bạc hay chơi cò quay Nga. Các hoạt động kinh tế đối phó với rủi ro không thể tránh nhằm vừa giảm rủi ro, vừa chuyển nó cho người gánh được tốt nhất. Người nhận rủi ro thường vừa có đủ nguồn lực tài chính để chịu lỗ ngắn hạn, vừa chịu rủi ro thấp hơn từ cùng một tình huống so với người chuyển rủi ro cho họ.
 
-**Nhà đầu cơ và nông dân.** Một nông dân trồng lúa mì có thể mất trắng nếu cả thế giới được mùa và giá lúa mì rơi xa dưới mức dự tính lúc gieo trồng. Nhưng khó có thảm hoạ tương tự xảy ra đồng thời với lúa mì, vàng, gia súc và ngoại tệ, nên một nhà đầu cơ chuyên nghiệp mua bán tất cả những thứ đó ít gặp nguy hơn người chỉ đặt cược vào một thứ, như người nông dân trồng lúa mì. Chuyên môn thống kê hay chuyên môn khác của nhà đầu cơ giảm rủi ro thêm nữa so với người nông dân. Căn bản hơn, xét về sử dụng hiệu quả nguồn lực khan hiếm, đầu cơ làm giảm chi phí gắn với rủi ro cho cả nền kinh tế. Ngoài việc nhiều người ngủ yên hơn vì có thị trường bảo đảm cho sản phẩm, một hệ quả quan trọng là nhiều người thấy đáng sản xuất trong điều kiện rủi ro hơn. Nói cách khác, nền kinh tế làm ra nhiều đậu tương hơn nhờ có nhà đầu cơ đậu tương, dù chính họ chẳng biết gì về trồng đậu tương.
+**Nhà đầu cơ và nông dân.** Một nông dân trồng lúa mì có thể mất trắng nếu cả thế giới được mùa và giá lúa mì rơi xa dưới mức dự tính lúc gieo trồng. Nhưng khó có thảm hoạ tương tự xảy ra đồng thời với lúa mì, vàng, gia súc và ngoại tệ, nên một nhà đầu cơ chuyên nghiệp mua bán tất cả những thứ đó ít gặp nguy hơn người chỉ đặt cược vào một thứ, như người nông dân trồng lúa mì. Chuyên môn thống kê hay chuyên môn khác của nhà đầu cơ giảm rủi ro thêm nữa so với người nông dân.
 
-Sowell nhấn mạnh cần hiểu lợi ích gắn bó lẫn nhau giữa các nhóm kinh tế (nông dân và nhà đầu cơ chỉ là một ví dụ) và nhất là tác động tới cả nền kinh tế, vì truyền thông thường bỏ qua hoặc bóp méo những điều đó trong lúc hăng hái nhấn mạnh xung đột, thứ giúp bán báo và thu hút khán giả truyền hình. Chính trị gia cũng được lợi khi mô tả các nhóm là kẻ thù của nhau và tự nhận là người cứu nhóm mình đại diện. Khi giá lúa mì tăng vọt, không gì dễ hơn với một kẻ mị dân là kêu gào về sự bất công khi nhà đầu cơ ngồi văn phòng máy lạnh làm giàu trên mồ hôi nông dân cực nhọc hàng tháng dưới nắng. Những năm nhà đầu cơ thua lỗ nặng lúc thu hoạch, còn nông dân sống thoải mái nhờ giá lúa mì đã được nhà đầu cơ bảo đảm, thì tất nhiên bị quên.
+Căn bản hơn, xét về sử dụng hiệu quả nguồn lực khan hiếm, đầu cơ làm giảm chi phí gắn với rủi ro cho cả nền kinh tế. Ngoài việc nhiều người ngủ yên hơn vì có thị trường bảo đảm cho sản phẩm, một hệ quả quan trọng là nhiều người thấy đáng sản xuất trong điều kiện rủi ro hơn. Nói cách khác, nền kinh tế làm ra nhiều đậu tương hơn nhờ có nhà đầu cơ đậu tương, dù chính họ chẳng biết gì về trồng đậu tương.
 
-**Giá mua vào trước đây là lịch sử.** Tương tự, khi một đợt thiếu hàng sắp xảy ra hay được dự đoán làm giá tăng, chính trị và truyền thông thường phẫn nộ vì giá bán lẻ cao hơn cho những món mà người bán đã mua từ nhà cung cấp lúc giá còn thấp. Sowell trả lời: giá cả trong điều kiện trước đây là lịch sử; cung và cầu hôm nay mới là kinh tế học. Ví dụ: đầu Chiến tranh vùng Vịnh năm 1991, giá dầu tăng mạnh khắp thế giới vì người ta dự đoán xuất khẩu dầu Trung Đông bị gián đoạn do sắp có hành động quân sự. Lúc đó một nhà đầu cơ thuê một tàu chở dầu, chất đầy dầu mua ở Venezuela để chở sang Mỹ. Trước khi tàu cập cảng Mỹ, chiến tranh kết thúc sớm hơn mọi người dự đoán, giá dầu giảm, và ông ta không bán được đủ giá để bù chi phí. Ở đây cũng vậy, giá ông ta trả trước đây là lịch sử, giá ông ta bán được hôm nay là kinh tế học. Với cả nền kinh tế, các lô dầu mua ở những thời điểm khác nhau, theo những kỳ vọng khác nhau, là như nhau khi vào thị trường hôm nay; nếu mục tiêu là phân bổ nguồn lực khan hiếm hiệu quả nhất thì không có lý do gì định giá chúng khác nhau.
+Sowell nhấn mạnh cần hiểu lợi ích gắn bó lẫn nhau giữa các nhóm kinh tế (nông dân và nhà đầu cơ chỉ là một ví dụ) và nhất là tác động tới cả nền kinh tế, vì truyền thông thường bỏ qua hoặc bóp méo những điều đó trong lúc hăng hái nhấn mạnh xung đột, thứ giúp bán báo và thu hút khán giả truyền hình. Chính trị gia cũng được lợi khi mô tả các nhóm là kẻ thù của nhau và tự nhận là người cứu nhóm mình đại diện.
+
+Khi giá lúa mì tăng vọt, không gì dễ hơn với một kẻ mị dân là kêu gào về sự bất công khi nhà đầu cơ ngồi văn phòng máy lạnh làm giàu trên mồ hôi nông dân cực nhọc hàng tháng dưới nắng. Những năm nhà đầu cơ thua lỗ nặng lúc thu hoạch, còn nông dân sống thoải mái nhờ giá lúa mì đã được nhà đầu cơ bảo đảm, thì tất nhiên bị quên.
+
+**Giá mua vào trước đây là lịch sử.** Tương tự, khi một đợt thiếu hàng sắp xảy ra hay được dự đoán làm giá tăng, chính trị và truyền thông thường phẫn nộ vì giá bán lẻ cao hơn cho những món mà người bán đã mua từ nhà cung cấp lúc giá còn thấp. Sowell trả lời: giá cả trong điều kiện trước đây là lịch sử; cung và cầu hôm nay mới là kinh tế học.
+
+Ví dụ: đầu Chiến tranh vùng Vịnh năm 1991, giá dầu tăng mạnh khắp thế giới vì người ta dự đoán xuất khẩu dầu Trung Đông bị gián đoạn do sắp có hành động quân sự. Lúc đó một nhà đầu cơ thuê một tàu chở dầu, chất đầy dầu mua ở Venezuela để chở sang Mỹ. Trước khi tàu cập cảng Mỹ, chiến tranh kết thúc sớm hơn mọi người dự đoán, giá dầu giảm, và ông ta không bán được đủ giá để bù chi phí.
+
+Ở đây cũng vậy, giá ông ta trả trước đây là lịch sử, giá ông ta bán được hôm nay là kinh tế học. Với cả nền kinh tế, các lô dầu mua ở những thời điểm khác nhau, theo những kỳ vọng khác nhau, là như nhau khi vào thị trường hôm nay; nếu mục tiêu là phân bổ nguồn lực khan hiếm hiệu quả nhất thì không có lý do gì định giá chúng khác nhau.
 
 ### 5. Thời gian và chính trị (Time and Politics)
 
-Chính trị và kinh tế xử lý thời gian khác nhau một cách căn bản. Sowell lấy ví dụ giá vé xe buýt thành phố. Khi rõ ràng giá vé quá thấp, không đủ để thay xe khi xe cũ hỏng, kết luận kinh tế hợp lý cho dài hạn là tăng giá vé. Nhưng một chính trị gia phản đối việc tăng giá vì cho là "vô lý" có thể được phiếu của người đi xe buýt ở kỳ bầu cử tới. Hơn nữa, vì xe không hỏng cùng lúc, hậu quả của việc giữ giá vé thấp không hiện ra ngay mà rải ra theo thời gian. Có thể vài năm sau mới đủ xe hỏng mà không được thay để người đi xe nhận ra phải chờ lâu hơn và xe ít khi đúng giờ như trước. Khi hệ thống giao thông tệ tới mức nhiều người dọn ra khỏi thành phố, mang theo tiền thuế họ đóng, thì đã quá nhiều năm trôi qua kể từ cuộc tranh cãi giá vé, ít ai nhớ hay thấy mối liên hệ. Trong lúc đó, chính trị gia từng thắng cử nhờ vai "người bảo vệ người đi xe buýt" có thể đã lên chức ở cấp bang hay cấp quốc gia nhờ uy tín ấy. Khi nguồn thu thuế giảm làm dịch vụ thành phố xuống cấp và hạ tầng bị bỏ bê, ông ta còn có thể khoe rằng hồi ông làm ở thành phố, mọi thứ chưa bao giờ tệ như vậy, và đổ lỗi cho người kế nhiệm.
+Chính trị và kinh tế xử lý thời gian khác nhau một cách căn bản. Sowell lấy ví dụ giá vé xe buýt thành phố. Khi rõ ràng giá vé quá thấp, không đủ để thay xe khi xe cũ hỏng, kết luận kinh tế hợp lý cho dài hạn là tăng giá vé. Nhưng một chính trị gia phản đối việc tăng giá vì cho là "vô lý" có thể được phiếu của người đi xe buýt ở kỳ bầu cử tới.
 
-Trong kinh tế học, hệ quả tương lai được tính trước qua khái niệm giá trị hiện tại. Nếu giá vé không do chính quyền thành phố quy định mà do một công ty xe buýt tư nhân đặt trên thị trường tự do, thì việc không để dành tiền thay xe sẽ ngay lập tức làm giảm giá cổ phiếu của công ty: giá trị hiện tại của công ty giảm vì các nhà đầu tư chuyên nghiệp, vốn quan tâm tới sự an toàn và lợi nhuận của tiền mình, đã tính trước hậu quả dài hạn. Giả sử ban giám đốc giữ giá vé thấp tới mức không đủ tiền bảo dưỡng và thay xe khi xe cũ hỏng, có lẽ vì họ trả lương cao cho chính mình thay vì để dành tiền cho đội xe. 99% công chúng có thể vẫn không biết chuyện này hay hậu quả dài hạn của nó. Nhưng trong 1% còn lại, những người có nhiều khả năng biết nhất là người điều hành các tổ chức tài chính đang nắm cổ phiếu của công ty, đang cân nhắc mua cổ phiếu hay cho công ty vay. Với họ, khi xem sổ sách tài chính, giá trị hiện tại của công ty đã giảm từ lâu trước khi chiếc xe đầu tiên hỏng.
+Hơn nữa, vì xe không hỏng cùng lúc, hậu quả của việc giữ giá vé thấp không hiện ra ngay mà rải ra theo thời gian. Có thể vài năm sau mới đủ xe hỏng mà không được thay để người đi xe nhận ra phải chờ lâu hơn và xe ít khi đúng giờ như trước. Khi hệ thống giao thông tệ tới mức nhiều người dọn ra khỏi thành phố, mang theo tiền thuế họ đóng, thì đã quá nhiều năm trôi qua kể từ cuộc tranh cãi giá vé, ít ai nhớ hay thấy mối liên hệ.
+
+Trong lúc đó, chính trị gia từng thắng cử nhờ vai "người bảo vệ người đi xe buýt" có thể đã lên chức ở cấp bang hay cấp quốc gia nhờ uy tín ấy. Khi nguồn thu thuế giảm làm dịch vụ thành phố xuống cấp và hạ tầng bị bỏ bê, ông ta còn có thể khoe rằng hồi ông làm ở thành phố, mọi thứ chưa bao giờ tệ như vậy, và đổ lỗi cho người kế nhiệm.
+
+Trong kinh tế học, hệ quả tương lai được tính trước qua khái niệm giá trị hiện tại. Nếu giá vé không do chính quyền thành phố quy định mà do một công ty xe buýt tư nhân đặt trên thị trường tự do, thì việc không để dành tiền thay xe sẽ ngay lập tức làm giảm giá cổ phiếu của công ty: giá trị hiện tại của công ty giảm vì các nhà đầu tư chuyên nghiệp, vốn quan tâm tới sự an toàn và lợi nhuận của tiền mình, đã tính trước hậu quả dài hạn.
+
+Giả sử ban giám đốc giữ giá vé thấp tới mức không đủ tiền bảo dưỡng và thay xe khi xe cũ hỏng, có lẽ vì họ trả lương cao cho chính mình thay vì để dành tiền cho đội xe. 99% công chúng có thể vẫn không biết chuyện này hay hậu quả dài hạn của nó. Nhưng trong 1% còn lại, những người có nhiều khả năng biết nhất là người điều hành các tổ chức tài chính đang nắm cổ phiếu của công ty, đang cân nhắc mua cổ phiếu hay cho công ty vay. Với họ, khi xem sổ sách tài chính, giá trị hiện tại của công ty đã giảm từ lâu trước khi chiếc xe đầu tiên hỏng.
 
 Sowell rút ra: kinh tế thị trường cho phép hiểu biết chính xác của số ít người tác động tới quyết định, dù 99% dân số không có hiểu biết đó. Trong chính trị, 99% không hiểu có thể đem lại thành công tức thì cho quan chức và cho những chính sách rốt cuộc gây hại cho cả xã hội. Đòi công chúng thành chuyên gia tài chính hay chuyên gia bất kỳ là vô lý, vì một ngày chỉ có 24 giờ và ai cũng có cuộc sống riêng. Điều hợp lý hơn là mong có đủ cử tri thấy nguy cơ của việc để nhiều quyết định kinh tế được đưa ra qua quá trình chính trị.
 
-**Tài sản cố định thành mục tiêu.** Thời gian có thể biến lợi thế kinh tế theo quy mô (economies of scale) thành điểm yếu chính trị. Sau khi doanh nghiệp đã đầu tư lớn vào một cơ sở cố định như nhà máy ô tô khổng lồ, đập thuỷ điện hay toà nhà chọc trời, việc tài sản đó không dời đi được khiến nó dễ thành mục tiêu của thuế địa phương cao, hoặc của việc công nhân lập công đoàn để có thể đình công, gây lỗ lớn nếu yêu sách không được đáp ứng. Khi chi phí lao động chỉ là phần nhỏ trong tổng chi phí của một doanh nghiệp có vốn đầu tư khổng lồ, kể cả tăng lương gấp đôi cũng có thể đáng để giữ một cơ sở trị giá hàng tỷ USD hoạt động. Nhưng không có nghĩa nhà đầu tư sẽ chấp nhận mãi mức lợi nhuận bị giảm ở công ty hay ngành đó; như ở mọi phần khác của nền kinh tế, một yếu tố thay đổi sẽ gây tác động ở chỗ khác.
+**Tài sản cố định thành mục tiêu.** Thời gian có thể biến lợi thế kinh tế theo quy mô (economies of scale) thành điểm yếu chính trị. Sau khi doanh nghiệp đã đầu tư lớn vào một cơ sở cố định như nhà máy ô tô khổng lồ, đập thuỷ điện hay toà nhà chọc trời, việc tài sản đó không dời đi được khiến nó dễ thành mục tiêu của thuế địa phương cao, hoặc của việc công nhân lập công đoàn để có thể đình công, gây lỗ lớn nếu yêu sách không được đáp ứng.
 
-Một nhà máy hay con đập không dời được, nhưng văn phòng, kể cả trụ sở của tập đoàn quốc gia hay quốc tế, thì dời dễ hơn nhiều, như thành phố New York đã thấy khi thuế cao khiến nhiều tập đoàn lớn dời trụ sở đi nơi khác. Với đủ thời gian, ngay cả ngành có cơ sở cố định khổng lồ cũng thay đổi phân bố theo vùng, không phải bằng cách dời đập hay toà nhà, mà bằng cách không xây mới ở những nơi kém triển vọng có cơ sở cũ, và đặt cơ sở mới, hiện đại hơn ở những bang và địa phương có tiếng là coi doanh nghiệp là tài sản kinh tế chứ không phải con mồi. Một khách sạn không thể chuyển sang bang khác, nhưng chuỗi khách sạn có thể xây khách sạn mới ở nơi khác; nhà máy thép mới với công nghệ mới nhất có thể được xây nơi khác, trong khi nhà máy cũ lạc hậu bị đóng cửa hay ngừng dần. Trong lúc đó, những nơi coi doanh nghiệp là con mồi (Detroit là ví dụ kinh điển) lại được thương cảm như nạn nhân của vận rủi khi doanh nghiệp bỏ đi, mang theo thuế và việc làm.
+Khi chi phí lao động chỉ là phần nhỏ trong tổng chi phí của một doanh nghiệp có vốn đầu tư khổng lồ, kể cả tăng lương gấp đôi cũng có thể đáng để giữ một cơ sở trị giá hàng tỷ USD hoạt động. Nhưng không có nghĩa nhà đầu tư sẽ chấp nhận mãi mức lợi nhuận bị giảm ở công ty hay ngành đó; như ở mọi phần khác của nền kinh tế, một yếu tố thay đổi sẽ gây tác động ở chỗ khác.
 
-**"Vành đai rỉ sét".** Cũng như với giá vé xe buýt, thời gian trôi lâu tới mức ít ai nối chính sách và cách làm chính trị trong quá khứ với cảnh một vùng suy tàn thành cộng đồng "vành đai rỉ sét", với ít cơ hội việc làm cho người trẻ và nguồn thu thuế giảm, không đủ nuôi dịch vụ địa phương. Theo Sowell, vành đai rỉ sét không đơn giản là nơi việc làm biến mất; việc làm luôn biến mất, kể cả ở đỉnh thịnh vượng. Khác biệt là ở nơi doanh nghiệp được phép phát triển, việc làm cũ liên tục được thay bằng việc làm mới. Còn ở những cộng đồng hay vùng đã làm doanh nghiệp mất lãi bằng thuế cao, thủ tục và các đòi hỏi nặng nề của chính quyền hay công đoàn làm giảm hiệu quả, số việc làm mới có thể không đủ thay số việc làm cũ mất đi theo thời gian và theo những thay đổi bình thường của kinh tế. Chính trị gia và truyền thông có thể tập trung vào những việc làm cũ đã mất, nhưng chuyện thật là những việc làm mới đã không tới thay thế, mà đi nơi khác thay vì tới những vùng đã tự biến mình thành môi trường thù địch với hoạt động kinh tế.
+Một nhà máy hay con đập không dời được, nhưng văn phòng, kể cả trụ sở của tập đoàn quốc gia hay quốc tế, thì dời dễ hơn nhiều, như thành phố New York đã thấy khi thuế cao khiến nhiều tập đoàn lớn dời trụ sở đi nơi khác.
+
+Với đủ thời gian, ngay cả ngành có cơ sở cố định khổng lồ cũng thay đổi phân bố theo vùng, không phải bằng cách dời đập hay toà nhà, mà bằng cách không xây mới ở những nơi kém triển vọng có cơ sở cũ, và đặt cơ sở mới, hiện đại hơn ở những bang và địa phương có tiếng là coi doanh nghiệp là tài sản kinh tế chứ không phải con mồi.
+
+Một khách sạn không thể chuyển sang bang khác, nhưng chuỗi khách sạn có thể xây khách sạn mới ở nơi khác; nhà máy thép mới với công nghệ mới nhất có thể được xây nơi khác, trong khi nhà máy cũ lạc hậu bị đóng cửa hay ngừng dần. Trong lúc đó, những nơi coi doanh nghiệp là con mồi (Detroit là ví dụ kinh điển) lại được thương cảm như nạn nhân của vận rủi khi doanh nghiệp bỏ đi, mang theo thuế và việc làm.
+
+**"Vành đai rỉ sét".** Cũng như với giá vé xe buýt, thời gian trôi lâu tới mức ít ai nối chính sách và cách làm chính trị trong quá khứ với cảnh một vùng suy tàn thành cộng đồng "vành đai rỉ sét", với ít cơ hội việc làm cho người trẻ và nguồn thu thuế giảm, không đủ nuôi dịch vụ địa phương. Theo Sowell, vành đai rỉ sét không đơn giản là nơi việc làm biến mất; việc làm luôn biến mất, kể cả ở đỉnh thịnh vượng.
+
+Khác biệt là ở nơi doanh nghiệp được phép phát triển, việc làm cũ liên tục được thay bằng việc làm mới. Còn ở những cộng đồng hay vùng đã làm doanh nghiệp mất lãi bằng thuế cao, thủ tục và các đòi hỏi nặng nề của chính quyền hay công đoàn làm giảm hiệu quả, số việc làm mới có thể không đủ thay số việc làm cũ mất đi theo thời gian và theo những thay đổi bình thường của kinh tế. Chính trị gia và truyền thông có thể tập trung vào những việc làm cũ đã mất, nhưng chuyện thật là những việc làm mới đã không tới thay thế, mà đi nơi khác thay vì tới những vùng đã tự biến mình thành môi trường thù địch với hoạt động kinh tế.
 
 ### 6. Thời gian và khả năng nhìn trước (Time and Foresight)
 
@@ -596,17 +640,27 @@ Rõ ràng một số người đã đoán trước thay đổi và vội nộp �
 
 **Cải cách ruộng đất.** Ở các nước Thế giới thứ ba mà chính phủ dự định tịch thu đất để chia cho nông dân nghèo, có thể mất nhiều năm từ lúc vận động chính trị đòi chia lại ruộng tới lúc đất thật sự được chuyển giao. Trong những năm đó, chủ đất hiện tại biết trước chuyện sắp xảy ra nên có xu hướng không chăm sóc đất tốt như khi họ còn mong hưởng lợi lâu dài từ việc bỏ thời gian và tiền để làm cỏ, tiêu nước, rào đất. Khi đất tới tay người nghèo, nó có thể đã xấu đi nhiều. Một nhà kinh tế học phát triển nói cải cách ruộng đất có thể thành "một trò đùa ác nhắm vào những người ít có điều kiện để cười nhất", tức chính người nghèo mà cải cách định giúp.
 
-**Lời doạ tịch thu.** Vì doạ tịch thu tài sản của người nước ngoài giàu có (đất, nhà máy, đường sắt) được lòng cử tri, nhiều lãnh đạo Thế giới thứ ba đã doạ, kể cả khi họ quá sợ hệ quả kinh tế để thực hiện. Sri Lanka giữa thế kỷ 20 là một ví dụ: dù các phe đồng thuận về ý thức hệ rằng nên quốc hữu hoá các đồn điền của người nước ngoài, quyết định cứ bị hoãn; nhưng nó vẫn là một lời doạ chính trị mạnh, vừa giữ giá cổ phiếu các công ty trà trên sàn London thấp so với cổ tức, vừa làm vốn và doanh nhân nước ngoài tránh xa. Ngay cả những lời doạ chung chung hay phát ngôn vô trách nhiệm cũng ảnh hưởng tới đầu tư, như ở Malaysia trong một cuộc khủng hoảng kinh tế: Thủ tướng Mahathir Mohamad tìm cách đổ lỗi cho người Do Thái và người da trắng "vẫn muốn cai trị thế giới", nhưng mỗi lần ông tố một vật tế thần nước ngoài, đồng tiền và thị trường chứng khoán Malaysia lại giảm thêm 5%, và ông dần im lặng hơn.
+**Lời doạ tịch thu.** Vì doạ tịch thu tài sản của người nước ngoài giàu có (đất, nhà máy, đường sắt) được lòng cử tri, nhiều lãnh đạo Thế giới thứ ba đã doạ, kể cả khi họ quá sợ hệ quả kinh tế để thực hiện.
+
+Sri Lanka giữa thế kỷ 20 là một ví dụ: dù các phe đồng thuận về ý thức hệ rằng nên quốc hữu hoá các đồn điền của người nước ngoài, quyết định cứ bị hoãn; nhưng nó vẫn là một lời doạ chính trị mạnh, vừa giữ giá cổ phiếu các công ty trà trên sàn London thấp so với cổ tức, vừa làm vốn và doanh nhân nước ngoài tránh xa.
+
+Ngay cả những lời doạ chung chung hay phát ngôn vô trách nhiệm cũng ảnh hưởng tới đầu tư, như ở Malaysia trong một cuộc khủng hoảng kinh tế: Thủ tướng Mahathir Mohamad tìm cách đổ lỗi cho người Do Thái và người da trắng "vẫn muốn cai trị thế giới", nhưng mỗi lần ông tố một vật tế thần nước ngoài, đồng tiền và thị trường chứng khoán Malaysia lại giảm thêm 5%, và ông dần im lặng hơn.
 
 Tóm lại, theo Sowell, ai cũng có khả năng nhìn trước, dù là chủ đất, bà mẹ nhận trợ cấp, nhà đầu tư hay người nộp thuế. Một chính phủ hành động như thể tác động dự định của chính sách là tác động duy nhất thường bị bất ngờ hay sốc, vì người chịu chính sách phản ứng theo cách có lợi hay bảo vệ mình, và phản ứng đó thường làm chính sách cho kết quả rất khác kế hoạch.
 
-**Lạm phát và tích trữ.** Khả năng nhìn trước có nhiều dạng trong nhiều loại nền kinh tế. Khi có lạm phát, người ta tiêu tiền nhanh hơn và cũng tích trữ hàng tiêu dùng cùng các tài sản hiện vật, làm lệch thêm giữa lượng hàng thật trên thị trường (đã giảm) và lượng tiền dùng để mua hàng (đã tăng). Họ dự đoán sẽ khó tìm được hàng cần dùng, hoặc khó có tài sản để dành phòng lúc khó khăn khi tiền mất giá quá nhanh để đóng vai trò đó. Trong đợt lạm phát phi mã ở Liên Xô năm 1991, cả người tiêu dùng lẫn doanh nghiệp đều tích trữ: việc tích trữ đạt mức chưa từng có, người Nga chất hàng đống mì ống, bột mì, rau đóng hộp và khoai tây trên ban công, nhồi đầy tủ đông thịt và đồ tươi. Doanh nghiệp cũng tìm cách giao dịch bằng hàng thật thay vì tiền: tới năm 1991, các doanh nghiệp thích trả cho nhau bằng hàng hơn bằng đồng rúp, và những giám đốc nhà máy khéo nhất làm các thương vụ đổi hàng trong và ngoài nước để trả lương công nhân không phải bằng rúp mà bằng thực phẩm, quần áo, hàng tiêu dùng, thậm chí rượu rum Cuba.
+**Lạm phát và tích trữ.** Khả năng nhìn trước có nhiều dạng trong nhiều loại nền kinh tế. Khi có lạm phát, người ta tiêu tiền nhanh hơn và cũng tích trữ hàng tiêu dùng cùng các tài sản hiện vật, làm lệch thêm giữa lượng hàng thật trên thị trường (đã giảm) và lượng tiền dùng để mua hàng (đã tăng). Họ dự đoán sẽ khó tìm được hàng cần dùng, hoặc khó có tài sản để dành phòng lúc khó khăn khi tiền mất giá quá nhanh để đóng vai trò đó.
+
+Trong đợt lạm phát phi mã ở Liên Xô năm 1991, cả người tiêu dùng lẫn doanh nghiệp đều tích trữ: việc tích trữ đạt mức chưa từng có, người Nga chất hàng đống mì ống, bột mì, rau đóng hộp và khoai tây trên ban công, nhồi đầy tủ đông thịt và đồ tươi.
+
+Doanh nghiệp cũng tìm cách giao dịch bằng hàng thật thay vì tiền: tới năm 1991, các doanh nghiệp thích trả cho nhau bằng hàng hơn bằng đồng rúp, và những giám đốc nhà máy khéo nhất làm các thương vụ đổi hàng trong và ngoài nước để trả lương công nhân không phải bằng rúp mà bằng thực phẩm, quần áo, hàng tiêu dùng, thậm chí rượu rum Cuba.
 
 **Mục tiêu và động cơ khuyến khích.** Chính sách xã hội và kinh tế thường được bàn theo mục tiêu chúng tuyên bố, không theo động cơ khuyến khích chúng tạo ra. Với nhiều người, đó có thể chỉ là thiển cận. Nhưng với chính trị gia chuyên nghiệp, tầm nhìn thời gian thường dừng ở kỳ bầu cử tới: mục tiêu nào được đông đảo chấp nhận cũng đem lại phiếu, trong khi hậu quả dài hạn đến quá muộn để có ý nghĩa chính trị lúc bầu cử, và khoảng thời gian trôi qua làm mối liên hệ nhân quả khó chứng minh nếu không có phân tích phức tạp mà phần lớn cử tri không thể hoặc không muốn làm.
 
 **Chuyên gia thị trường nhìn trước.** Trên thị trường tư nhân, người ta có thể trả tiền cho chuyên gia để làm phân tích và nhìn trước như vậy. Năm 2001, hai công ty xếp hạng tín nhiệm Moody's và Standard & Poor's hạ hạng trái phiếu của bang California, dù bang chưa vỡ nợ và ngân sách vẫn có thặng dư. Họ nhận ra rằng chi phí khổng lồ để xử lý khủng hoảng điện của California có khả năng đè lên tài chính bang trong nhiều năm, tạo nguy cơ vỡ nợ trái phiếu hoặc trả chậm, mà trả chậm là một dạng vỡ nợ một phần. Một năm sau khi bị hạ hạng, công chúng mới biết khoản thặng dư lớn của bang đã đột ngột biến thành khoản thâm hụt còn lớn hơn, và nhiều người bị sốc.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một chủ đầu tư vay 500 tỷ đồng với lãi suất 10%/năm để làm một dự án nhà ở. Mỗi năm dự án nằm chờ thủ tục (điều chỉnh quy hoạch, thẩm định lại, bổ sung hồ sơ), chủ đầu tư trả khoảng 50 tỷ đồng tiền lãi mà không có đồng doanh thu nào. Nếu một cơ quan yêu cầu bổ sung một hạng mục tiện ích trị giá 20 tỷ đồng, kèm ngụ ý rằng không bổ sung thì hồ sơ sẽ "xem xét thêm" một năm, chủ đầu tư có lý do để đồng ý ngay, vì 20 tỷ đồng rẻ hơn 50 tỷ đồng tiền lãi. Người mua nhà cuối cùng trả cả hai khoản qua giá bán. Và nếu tổng chi phí chờ đợi khiến dự án hết lãi, chủ đầu tư bỏ dự án; chi phí lớn nhất là những căn hộ không bao giờ được xây. Đó là nguyên tắc của Sowell: bên nào trì hoãn được với chi phí thấp thì áp được chi phí cao lên bên kia.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một chủ đầu tư vay 500 tỷ đồng với lãi suất 10%/năm để làm một dự án nhà ở. Mỗi năm dự án nằm chờ thủ tục (điều chỉnh quy hoạch, thẩm định lại, bổ sung hồ sơ), chủ đầu tư trả khoảng 50 tỷ đồng tiền lãi mà không có đồng doanh thu nào.
+
+Nếu một cơ quan yêu cầu bổ sung một hạng mục tiện ích trị giá 20 tỷ đồng, kèm ngụ ý rằng không bổ sung thì hồ sơ sẽ "xem xét thêm" một năm, chủ đầu tư có lý do để đồng ý ngay, vì 20 tỷ đồng rẻ hơn 50 tỷ đồng tiền lãi. Người mua nhà cuối cùng trả cả hai khoản qua giá bán. Và nếu tổng chi phí chờ đợi khiến dự án hết lãi, chủ đầu tư bỏ dự án; chi phí lớn nhất là những căn hộ không bao giờ được xây. Đó là nguyên tắc của Sowell: bên nào trì hoãn được với chi phí thấp thì áp được chi phí cao lên bên kia.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -729,7 +783,9 @@ Lập luận nhà đầu cơ giảm rủi ro cho nông dân là chuẩn trong ki
 
 ### Lập luận về tuổi nghỉ hưu gộp hai việc khác nhau
 
-Sowell gộp việc chính phủ nâng tuổi nhận lương hưu công (một thay đổi với nghĩa vụ của chính phủ) với việc cấm doanh nghiệp tư nhân đặt tuổi nghỉ hưu (một luật chống phân biệt tuổi tác). Gọi việc thứ nhất là "vỡ nợ một phần" có lý về mặt tài chính, nhưng người ủng hộ sẽ đáp rằng tuổi thọ tăng lên nhiều nên giữ nguyên tuổi nghỉ hưu cũng là chuyển chi phí sang thế hệ trẻ đóng thuế; đây là sự đánh đổi giữa các thế hệ, không chỉ là chính phủ thất hứa. Với việc thứ hai, chú thích của Sowell nêu đúng chi phí (người trẻ khó thăng tiến, doanh nghiệp phải chứng minh năng suất giảm từng trường hợp), nhưng không bàn lợi ích mà người ủng hộ nêu: giữ lại người lao động giỏi, tôn trọng lựa chọn cá nhân. Ngoài ra, như đã nêu ở Lưu ý, điều khoản hợp đồng trong Hiến pháp Mỹ chỉ ràng buộc các bang.
+Sowell gộp việc chính phủ nâng tuổi nhận lương hưu công (một thay đổi với nghĩa vụ của chính phủ) với việc cấm doanh nghiệp tư nhân đặt tuổi nghỉ hưu (một luật chống phân biệt tuổi tác). Gọi việc thứ nhất là "vỡ nợ một phần" có lý về mặt tài chính, nhưng người ủng hộ sẽ đáp rằng tuổi thọ tăng lên nhiều nên giữ nguyên tuổi nghỉ hưu cũng là chuyển chi phí sang thế hệ trẻ đóng thuế; đây là sự đánh đổi giữa các thế hệ, không chỉ là chính phủ thất hứa.
+
+Với việc thứ hai, chú thích của Sowell nêu đúng chi phí (người trẻ khó thăng tiến, doanh nghiệp phải chứng minh năng suất giảm từng trường hợp), nhưng không bàn lợi ích mà người ủng hộ nêu: giữ lại người lao động giỏi, tôn trọng lựa chọn cá nhân. Ngoài ra, như đã nêu ở mục Lưu ý cuối chương, điều khoản hợp đồng trong Hiến pháp Mỹ chỉ ràng buộc các bang.
 
 ### Ví dụ "vành đai rỉ sét" và Detroit bỏ qua các nguyên nhân khác
 
@@ -749,3 +805,166 @@ Sowell mô tả báo cáo tác động môi trường và quy định y tế ch�
 - **Trong đầu tư.** Giá cổ phiếu và trái phiếu phản ánh hậu quả tương lai trước khi nó hiện ra trong báo cáo, như trường hợp California năm 2001. Một công ty trả cổ tức cao nhưng không đầu tư bảo dưỡng tài sản giống công ty xe buýt giữ giá vé thấp. Sự bất định về chính sách là một rủi ro riêng, không thể đa dạng hoá hết, nên đòi hỏi mức lợi nhuận kỳ vọng cao hơn.
 - **Trong nghề nghiệp.** Một công việc có lương và chỗ làm được bảo đảm vẫn có rủi ro, chỉ là rủi ro đó nằm ở người bảo đảm; khi người bảo đảm (doanh nghiệp, ngân sách) gặp khó, bảo đảm có thể bị đổi. Hãy đọc kỹ các cam kết dài hạn như lương hưu, bảo hiểm, chế độ, và tính tới khả năng điều kiện bị thay đổi theo thời gian.
 - **Khi đọc tin chính sách.** Ở Việt Nam, khi đọc tin về dự án bất động sản "treo" nhiều năm, lộ trình tăng tuổi nghỉ hưu, hay một chính sách được công bố trước khi có hiệu lực, có thể hỏi theo cách của Sowell: ai đang trả chi phí của sự chờ đợi; thay đổi này có phải là một cách giảm nghĩa vụ đã cam kết không; người dân và doanh nghiệp sẽ phản ứng trước ra sao trong khoảng thời gian từ lúc công bố tới lúc có hiệu lực (chẳng hạn ồ ạt làm thủ tục theo quy định cũ); và hậu quả dài hạn sẽ hiện ra khi nào, có còn ai nhớ ai đã quyết định.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 15 trên một trang: sáu nhánh lớn đi theo các Mục 1–6 của phần Nội dung chi tiết (rủi ro không thể tránh và quyền tài sản, sự bất định, thời gian và tiền bạc, các điều chỉnh kinh tế và nhà đầu cơ, thời gian và chính trị, khả năng nhìn trước), mỗi nhánh ghi luận điểm, cơ chế nhân quả, ví dụ và con số then chốt của Sowell; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 15: thời gian là tiền, và rủi ro gắn với thời gian không biến mất, chỉ chuyển sang người chịu được tốt hơn`"]
+  n1["`Mục 1 — Rủi ro không thể tránh, phần thưởng đến sau`"]
+  n0 --- n1
+  n2["`Một người được che chắn khỏi rủi ro chỉ vì người khác gánh thay#59; cả xã hội không có người khác`"]
+  n1 --- n2
+  n3["`Lương bảo đảm, biên chế giáo sư, thẩm phán liên bang chỉ dồn rủi ro sang người bảo đảm`"]
+  n1 --- n3
+  n4["`Xã hội làm công ăn lương coi #quot;nhà đầu cơ#quot; và #quot;lợi nhuận bất ngờ#quot; là đáng ngờ`"]
+  n1 --- n4
+  n5["`Lãi và lỗ đều chuyển nguồn lực tới nơi cần hơn#59; nhà nước cắt lãi hay bù lỗ phá vai trò của giá`"]
+  n1 --- n5
+  n6["`Khoảng chờ khác nhau: thợ đánh giày được trả ngay, công ty dầu chờ mười năm trở lên`"]
+  n1 --- n6
+  n7["`Nhà thầu trả lương cuối mỗi ngày, còn người mua trái phiếu 30 năm chờ tới lúc nghỉ hưu`"]
+  n1 --- n7
+  n8["`Quyền tài sản bảo đảm phần thưởng có mặt khi đến hạn, là điều kiện tiên quyết của lợi ích kinh tế`"]
+  n1 --- n8
+  n9["`Mục 2 — Sự bất định làm người ta ngừng chi tiêu`"]
+  n0 --- n9
+  n10["`Rủi ro tính được xác suất: chơi cò quay Nga thì khả năng thua là 1 trên 6`"]
+  n9 --- n10
+  n11["`Bất định không tính được: không biết người bạn bị làm tức giận sẽ làm gì`"]
+  n9 --- n11
+  n12["`Rủi ro mua bảo hiểm được, còn bất định về chính sách nhà nước khiến nhà đầu tư chờ`"]
+  n9 --- n12
+  n13["`Nhà đầu tư và người tiêu dùng cùng giữ tiền nên cầu thiếu hụt, hại cả nền kinh tế`"]
+  n9 --- n13
+  n14["`Bài báo WSJ 2013: bất định làm kinh tế Mỹ thiệt 261 tỷ USD trong hai năm`"]
+  n9 --- n14
+  n15["`Mất khoảng 45.000 việc làm mỗi tháng, hơn 1 triệu việc làm trong hai năm`"]
+  n14 --- n15
+  n16["`Câu #quot;hãy thử một điều gì đó#quot; của Roosevelt tạo bất định, tốc độ lưu thông tiền giảm trong Đại suy thoái`"]
+  n9 --- n16
+  n17["`Mục 3 — Thời gian và tiền bạc: ai trì hoãn được thì áp được chi phí`"]
+  n0 --- n17
+  n18["`Chủ đầu tư nhà ở trả lãi trên hàng triệu USD tiền vay trong lúc chờ quy hoạch, môi trường`"]
+  n17 --- n18
+  n19["`Chủ đầu tư chịu xây vườn, hồ, đường xe đạp vì rẻ hơn chi phí chờ đợi`"]
+  n18 --- n19
+  n20["`Người mua trả qua giá nhà cao hơn#59; chi phí lớn nhất bị che khuất là ít nhà được xây`"]
+  n18 --- n20
+  n21["`Nguyên tắc: A tốn ít mà áp chi phí lớn lên B bằng trì hoãn thì tống tiền hoặc chặn được B`"]
+  n17 --- n21
+  n22["`Quyền nhà nước càng rộng, thủ tục càng nhiều thì tiền hối lộ để làm nhanh càng lớn`"]
+  n17 --- n22
+  n23["`Báo cáo tác động môi trường kết luận vô hại vẫn có thể khiến chủ đầu tư bỏ dự án`"]
+  n17 --- n23
+  n24["`Nâng tuổi nghỉ hưu vài năm tiết kiệm hàng trăm tỷ USD, theo Sowell là chính phủ vỡ nợ`"]
+  n17 --- n24
+  n25["`Xoá #quot;nghỉ hưu bắt buộc#quot; chuyển hàng tỷ USD nghĩa vụ từ chính phủ sang doanh nghiệp tư nhân`"]
+  n17 --- n25
+  n26["`Thực chất chỉ là tuổi doanh nghiệp hết cam kết thuê, người nghỉ vẫn làm nơi khác`"]
+  n25 --- n26
+  n27["`Chú thích của Sowell: người trẻ khó thăng tiến, doanh nghiệp phải chứng minh năng suất giảm từng người`"]
+  n25 --- n27
+  n28["`Bế tắc Bay Bridge: động đất 1989, tranh cãi 2004 tốn thêm 81 triệu USD, thông xe tháng 9/2013`"]
+  n17 --- n28
+  n29["`Mục 4 — Điều chỉnh kinh tế cần thời gian và chuyển giao rủi ro`"]
+  n0 --- n29
+  n30["`Hệ quả đến chậm giúp chính trị gia tạo lợi ích hôm nay bằng chi phí ngày mai`"]
+  n29 --- n30
+  n31["`Quỹ hưu trí nhà nước: chuyên gia tính toán bảo hiểm cảnh báo thiếu tiền, vài chục năm sau mới đúng`"]
+  n30 --- n31
+  n32["`Rủi ro vốn có khác rủi ro tự tạo như cờ bạc#59; thị trường giảm nó và chuyển cho người gánh tốt nhất`"]
+  n29 --- n32
+  n33["`Nhà đầu cơ mua bán lúa mì, vàng, gia súc, ngoại tệ ít gặp nguy hơn nông dân chỉ trồng lúa mì`"]
+  n29 --- n33
+  n34["`Đầu cơ giảm chi phí rủi ro cho cả nền kinh tế, nhiều người dám sản xuất hơn`"]
+  n33 --- n34
+  n35["`Nền kinh tế làm ra nhiều đậu tương hơn nhờ nhà đầu cơ đậu tương`"]
+  n33 --- n35
+  n36["`Kẻ mị dân tố nhà đầu cơ khi giá lúa mì tăng vọt, quên những năm nhà đầu cơ lỗ`"]
+  n29 --- n36
+  n37["`Giá mua vào trước đây là lịch sử#59; cung và cầu hôm nay mới là kinh tế học`"]
+  n29 --- n37
+  n38["`Chiến tranh vùng Vịnh 1991: nhà đầu cơ chở dầu Venezuela sang Mỹ, giá giảm, bán không đủ bù chi phí`"]
+  n37 --- n38
+  n39["`Mục 5 — Thời gian và chính trị: thị trường tính trước, chính trị nhìn tới kỳ bầu cử`"]
+  n0 --- n39
+  n40["`Chính trị gia chống tăng giá vé xe buýt được phiếu, còn xe hỏng rải ra nhiều năm`"]
+  n39 --- n40
+  n41["`Dân dọn khỏi thành phố mang theo thuế, chính trị gia đã lên cấp bang và đổ lỗi người kế nhiệm`"]
+  n40 --- n41
+  n42["`Giá trị hiện tại: công ty xe buýt tư nhân không để dành tiền thay xe thì cổ phiếu giảm ngay`"]
+  n39 --- n42
+  n43["`1% người hiểu chuyện (người điều hành tổ chức tài chính) đủ để giá phản ánh, dù 99% không biết`"]
+  n42 --- n43
+  n44["`Không thể đòi cử tri thành chuyên gia tài chính, nên hạn chế quyết định kinh tế qua chính trị`"]
+  n39 --- n44
+  n45["`Tài sản cố định như nhà máy ô tô, đập thuỷ điện dễ thành mục tiêu của thuế cao và công đoàn`"]
+  n39 --- n45
+  n46["`Về lâu dài doanh nghiệp xây cơ sở mới ở nơi coi doanh nghiệp là tài sản, không phải con mồi`"]
+  n39 --- n46
+  n47["`Tập đoàn dời trụ sở khỏi New York vì thuế cao#59; Detroit mất thuế và việc làm`"]
+  n46 --- n47
+  n48["`Vành đai rỉ sét: việc làm luôn mất đi, vấn đề là việc làm mới không tới thay thế`"]
+  n39 --- n48
+  n49["`Mục 6 — Khả năng nhìn trước làm chính sách lệch dự định`"]
+  n0 --- n49
+  n50["`Tiền cho trẻ khuyết tật học tập tạo động cơ chẩn đoán thêm trẻ, có bà mẹ bảo con làm bài kém`"]
+  n49 --- n50
+  n51["`Luật phá sản Mỹ 2005: khoảng 30.000 đơn mỗi tuần, hơn 479.000 ngay trước, dưới 4.000 ngay sau`"]
+  n49 --- n51
+  n52["`Cải cách ruộng đất: chủ đất ngừng làm cỏ, tiêu nước, rào đất trong những năm chờ chia`"]
+  n49 --- n52
+  n53["`Sri Lanka: chỉ doạ quốc hữu hoá đồn điền cũng giữ cổ phiếu công ty trà ở London thấp`"]
+  n49 --- n53
+  n54["`Mahathir tố vật tế thần nước ngoài, mỗi lần đồng tiền và chứng khoán Malaysia giảm thêm 5%`"]
+  n49 --- n54
+  n55["`Liên Xô 1991: dân tích trữ mì ống, khoai tây, nhà máy trả lương bằng hàng, cả rượu rum Cuba`"]
+  n49 --- n55
+  n56["`Moody's và Standard #amp; Poor's hạ hạng trái phiếu California 2001 dù còn thặng dư, năm sau thâm hụt lộ ra`"]
+  n49 --- n56
+  n57["`Thông điệp xuyên suốt`"]
+  n0 --- n57
+  n58["`Đánh giá chính sách theo động cơ khuyến khích nó tạo ra, không theo mục tiêu nó tuyên bố`"]
+  n57 --- n58
+  n59["`Hỏi chi phí rơi vào lúc nào, ai trả, và người khác sẽ nhìn trước rồi phản ứng ra sao`"]
+  n57 --- n59
+  n60["`Thời gian là tiền vừa là nguyên lý kinh tế, vừa là cách tự vệ trước lời lẽ chính trị`"]
+  n57 --- n60
+  class n0 root
+  class n1,n9,n17,n29,n39,n49,n57 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56,n58,n59,n60 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần IV "Time and Risk", Chương 15.
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần IV của sách bàn về hai yếu tố mà các phần trước (giá cả, doanh nghiệp, lao động) chưa đặt vào trung tâm: thời gian và rủi ro. Chương 13 (Investment) giải thích đầu tư là việc bỏ nguồn lực hôm nay để nhận lợi ích về sau; Chương 14 (Stocks, Bonds and Insurance) mô tả các công cụ mà thị trường dùng để chia sẻ và chuyển giao rủi ro.
+
+Chương 15 khép lại Phần IV bằng các "vấn đề đặc biệt": rủi ro không thể bị xoá bỏ mà chỉ được chuyển cho người khác; sự bất định (uncertainty) do chính sách nhà nước thay đổi thất thường làm người ta ngừng chi tiêu; ai có quyền trì hoãn thì có quyền áp chi phí lên người khác; và chính trị, vốn chỉ nhìn tới kỳ bầu cử tiếp theo, xử lý thời gian rất khác thị trường, vốn tính trước hệ quả tương lai qua giá trị hiện tại (present value).
+
+Chương này dẫn sang Phần V về nền kinh tế quốc gia (Chương 16 National Output), nơi các vấn đề về kỳ vọng, chi tiêu và chính sách nhà nước được bàn ở cấp toàn nền kinh tế.
+
+## Lưu ý
+
+- Ấn bản thứ năm được viết khoảng 2013–2014; ví dụ gần nhất trong chương là bài báo *Wall Street Journal* năm 2013 về sự bất định và việc nhịp cầu mới của cầu Vịnh San Francisco (Bay Bridge) thông xe tháng 9/2013.
+- Những điều đã thay đổi hoặc cần biết thêm (nêu định tính): nhịp cầu mới của Bay Bridge đã hoạt động từ đó; Detroit, mà Sowell nêu là ví dụ thành phố coi doanh nghiệp là con mồi, đã nộp đơn phá sản năm 2013 và ra khỏi phá sản năm sau.
+- Chương có **1 chú thích chân trang** của Sowell (về hệ quả của việc xoá tuổi nghỉ hưu do doanh nghiệp tự đặt), đã được đưa vào Mục 3 phần Nội dung chi tiết và vào Sơ đồ phần 3.
+- Hai chỗ trong sách không chính xác:
+  - Sowell giới thiệu câu nói "hãy thử một điều gì đó" của Franklin D. Roosevelt như lời của "Tổng thống Roosevelt", nhưng câu này nằm trong bài diễn văn tại Đại học Oglethorpe tháng 5/1932, khi Roosevelt còn là Thống đốc New York và đang tranh cử, chưa làm tổng thống.
+  - Sowell viết Hiến pháp Mỹ cấm "chính phủ" thay đổi điều khoản hợp đồng tư nhân, nhưng điều khoản hợp đồng (Contract Clause, Điều I, Mục 10) chỉ ràng buộc các bang, không ràng buộc chính phủ liên bang, trong khi luật xoá tuổi nghỉ hưu bắt buộc ở Mỹ là luật liên bang.
+- Con số hơn 479.000 đơn phá sản trong một tuần trước khi luật phá sản 2005 có hiệu lực là theo nguồn Sowell dẫn; người tổng hợp không kiểm chứng.
+- Các câu trích là bản dịch của người tổng hợp.

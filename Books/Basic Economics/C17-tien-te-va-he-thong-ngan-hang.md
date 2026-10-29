@@ -1,11 +1,16 @@
 # Chương 17 — Tiền tệ và hệ thống ngân hàng (Money and the Banking System)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần V "The National Economy", Chương 17.
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 16 (National Output) mở đầu Phần V bằng cách đo sản lượng của cả nền kinh tế, và đã nhắc rằng cung tiền của Mỹ giảm một phần ba trong giai đoạn 1929–1933. Chương 17 giải thích vì sao chuyện đó tàn phá đến vậy: tiền không phải là của cải, nhưng nó là phương tiện để của cải được sản xuất và chuyển giao, và tổng lượng tiền cùng tín dụng quyết định tổng cầu của cả nước. Chương này dùng lại nhiều công cụ của các phần trước: logic thiếu hụt và tăng giá của Phần I (lạm phát là khi cầu vượt cung ở mức giá hiện hành, chỉ là trên toàn bộ nền kinh tế), và chủ đề rủi ro, bảo hiểm của Phần IV (ngân hàng thực chất là doanh nghiệp quản lý rủi ro). Nó cũng chuẩn bị cho Chương 18 và 19 về chức năng và tài chính của chính phủ: Sowell cho thấy in tiền là cách chính phủ lấy của cải của dân mà không cần tăng thuế, một chủ đề sẽ trở lại khi bàn về thuế và thâm hụt.
-**Ý chính:** Sowell muốn người đọc hiểu ba điều. Thứ nhất, **tiền không phải là của cải** của cả quốc gia, mà là thứ người ta chấp nhận khi trao đổi hàng hoá, dịch vụ thật; nếu in thêm tiền làm dân giàu lên thì chính phủ đã nhân đôi của cải của mọi người bằng cách in gấp đôi tiền. Thứ hai, khi lượng tiền tăng nhanh hơn hàng hoá thì giá tăng (lạm phát), và lạm phát thực chất là **một thứ thuế ẩn** mà chính phủ đánh lên mọi người giữ tiền; khi lượng tiền co lại thì giá giảm (giảm phát), làm các khoản nợ cố định bằng tiền nặng thêm, như trong Đại Suy thoái. Thứ ba, ngân hàng không chỉ giữ hộ tiền mà còn **tạo ra tín dụng** qua cơ chế dự trữ một phần, nên sự sụp đổ của ngân hàng làm co tổng cầu của cả nước. Ví dụ trung tâm là Đại Suy thoái: Cục Dự trữ Liên bang được lập năm 1914 để ngăn giảm phát và đổ vỡ ngân hàng, nhưng chính dưới sự quản lý của nó nước Mỹ chịu đợt giảm phát và làn sóng đổ vỡ ngân hàng tồi tệ nhất lịch sử (hơn 9.000 ngân hàng ngừng hoạt động trong 1930–1933), đúng như câu đề từ của Milton Friedman. Từ đó Sowell rút ra nguyên tắc then chốt của chương: điều quan trọng không phải chính phủ *có thể* làm gì để cải thiện tình hình, mà là chính phủ *nhiều khả năng sẽ* làm gì.
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2013–2014; các số liệu mới nhất trong chương là tài sản ngân hàng Mỹ năm 2012 (14.000 tỷ USD) và phản ứng thị trường với phát biểu của Chủ tịch Fed Ben Bernanke tháng 5/2013. Nhiều chi tiết đã thay đổi từ đó, nói định tính: Mỹ trải qua đợt lạm phát cao nhất trong khoảng bốn thập kỷ vào 2021–2023; giá vàng đã vượt xa mức "hơn 1.000 USD một ounce" mà Sowell nhắc tới; từ tháng 3/2020 Fed hạ tỷ lệ dự trữ bắt buộc của các ngân hàng về 0, nên mô tả của Sowell về việc Fed điều tiết bằng cách quy định tỷ lệ dự trữ không còn đúng với thực tế hiện nay (Fed chủ yếu điều hành bằng lãi suất, kể cả lãi suất trả trên tiền dự trữ của ngân hàng gửi tại Fed); séc du lịch American Express, ví dụ của Sowell về tài sản thanh khoản, gần như không còn được dùng; năm 2023 một số ngân hàng Mỹ (như Silicon Valley Bank) sụp đổ vì người gửi tiền rút ồ ạt qua mạng, cho thấy rủi ro rút tiền ồ ạt mà Sowell mô tả vẫn còn. Sách có một lỗi niên đại nhỏ: Sowell viết bảo hiểm tiền gửi liên bang được lập năm 1935, nhưng Tổng công ty Bảo hiểm Tiền gửi Liên bang (FDIC) được lập theo Luật Ngân hàng năm 1933 và bắt đầu bảo hiểm tiền gửi từ đầu năm 1934; năm 1935 là năm một luật ngân hàng mới đặt nó trên cơ sở lâu dài. Chương có một chú thích chân trang của Sowell (giải thích Quy luật Gresham), đã đưa vào phần Sơ đồ và mục 2 của Nội dung chi tiết. Các câu trích là bản dịch của người tổng hợp.
+Sowell muốn người đọc hiểu ba điều. Thứ nhất, **tiền không phải là của cải** của cả quốc gia, mà là thứ người ta chấp nhận khi trao đổi hàng hoá, dịch vụ thật; nếu in thêm tiền làm dân giàu lên thì chính phủ đã nhân đôi của cải của mọi người bằng cách in gấp đôi tiền.
+
+Thứ hai, khi lượng tiền tăng nhanh hơn hàng hoá thì giá tăng (lạm phát), và lạm phát thực chất là **một thứ thuế ẩn** mà chính phủ đánh lên mọi người giữ tiền. Khi lượng tiền co lại thì giá giảm (giảm phát), làm các khoản nợ cố định bằng tiền nặng thêm, như trong Đại Suy thoái.
+
+Thứ ba, ngân hàng không chỉ giữ hộ tiền mà còn **tạo ra tín dụng** qua cơ chế dự trữ một phần, nên sự sụp đổ của ngân hàng làm co tổng cầu của cả nước.
+
+Ví dụ trung tâm là Đại Suy thoái: Cục Dự trữ Liên bang được lập năm 1914 để ngăn giảm phát và đổ vỡ ngân hàng, nhưng chính dưới sự quản lý của nó nước Mỹ chịu đợt giảm phát và làn sóng đổ vỡ ngân hàng tồi tệ nhất lịch sử (hơn 9.000 ngân hàng ngừng hoạt động trong 1930–1933), đúng như câu đề từ của Milton Friedman.
+
+Từ đó Sowell rút ra nguyên tắc then chốt của chương: điều quan trọng không phải chính phủ *có thể* làm gì để cải thiện tình hình, mà là chính phủ *nhiều khả năng sẽ* làm gì.
 
 ## Sơ đồ
 
@@ -778,9 +783,13 @@
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Nếu tiền không phải của cải, tại sao trục trặc tiền tệ lại tàn phá nền kinh tế đến vậy?** Vì tiền là thứ người ta chấp nhận khi đổi hàng hoá, dịch vụ thật, và nó giúp sản xuất cùng trao đổi diễn ra trơn tru. Khi hệ thống tiền tệ sụp đổ, người ta quay về hàng đổi hàng và sản xuất giảm, như ở Argentina năm 2002 hay ở Mỹ thập niên 1930 với khoảng 150 hệ thống đổi hàng ở 30 bang. Khi lượng tiền tăng quá nhanh, giá tăng và người giữ tiền bị lấy mất sức mua (Đức 1923: hơn 4.000 tỷ mác đổi một đô la). Khi lượng tiền co lại, các khoản nợ, tiền thuê, tiền lương ghi cố định bằng tiền nặng thêm về sức mua thật, gây vỡ nợ, đổ vỡ ngân hàng và thất nghiệp (Mỹ 1929–1933: cung tiền giảm một phần ba, hơn 9.000 ngân hàng ngừng hoạt động).
+1. **Nếu tiền không phải của cải, tại sao trục trặc tiền tệ lại tàn phá nền kinh tế đến vậy?** Vì tiền là thứ người ta chấp nhận khi đổi hàng hoá, dịch vụ thật, và nó giúp sản xuất cùng trao đổi diễn ra trơn tru. Khi hệ thống tiền tệ sụp đổ, người ta quay về hàng đổi hàng và sản xuất giảm, như ở Argentina năm 2002 hay ở Mỹ thập niên 1930 với khoảng 150 hệ thống đổi hàng ở 30 bang.
+
+   Khi lượng tiền tăng quá nhanh, giá tăng và người giữ tiền bị lấy mất sức mua (Đức 1923: hơn 4.000 tỷ mác đổi một đô la). Khi lượng tiền co lại, các khoản nợ, tiền thuê, tiền lương ghi cố định bằng tiền nặng thêm về sức mua thật, gây vỡ nợ, đổ vỡ ngân hàng và thất nghiệp (Mỹ 1929–1933: cung tiền giảm một phần ba, hơn 9.000 ngân hàng ngừng hoạt động).
 2. **Vì sao chính phủ lại gây lạm phát?** Vì lạm phát là một thứ thuế ẩn: chính phủ in tiền để chi tiêu, phần sức mua mà người giữ tiền mất đi chuyển sang chính phủ, mà không ai phải bỏ phiếu tăng thuế. Thuế này đánh vào mọi người có tiền, kể cả người nghèo, trong khi người giàu giữ cổ phiếu, bất động sản tránh được một phần. Vì vậy các nước từng dùng vàng làm tiền: vàng không truyền giá trị cho tiền giấy, nó chỉ giới hạn lượng tiền giấy chính phủ có thể in.
-3. **Ngân hàng làm gì ngoài việc giữ hộ tiền, và vì sao sự sụp đổ của ngân hàng đe doạ cả nền kinh tế?** Ngân hàng gom tiền của nhiều người để cho doanh nghiệp và người tiêu dùng vay, giúp nguồn lực chuyển tới nơi dùng tốt hơn. Qua cơ chế dự trữ một phần, ngân hàng chỉ giữ một phần tiền gửi và cho vay phần còn lại, nên tạo thêm tín dụng vận hành như tiền. Cũng vì vậy, khi người gửi đồng loạt rút tiền, ngân hàng không thể bán ngay tài sản để trả, và khi nhiều ngân hàng sụp đổ cùng lúc, lượng tín dụng biến mất làm tổng cầu co lại. Bảo hiểm tiền gửi chặn được rút tiền ồ ạt, nhưng Sowell chỉ ra rằng rủi ro ngân hàng ở Mỹ phần lớn do chính luật cấm mở chi nhánh tạo ra (Canada với 10 ngân hàng, 3.000 chi nhánh không có ngân hàng nào đổ vỡ), và bảo hiểm lại khuyến khích ngân hàng chấp nhận rủi ro.
+3. **Ngân hàng làm gì ngoài việc giữ hộ tiền, và vì sao sự sụp đổ của ngân hàng đe doạ cả nền kinh tế?** Ngân hàng gom tiền của nhiều người để cho doanh nghiệp và người tiêu dùng vay, giúp nguồn lực chuyển tới nơi dùng tốt hơn. Qua cơ chế dự trữ một phần, ngân hàng chỉ giữ một phần tiền gửi và cho vay phần còn lại, nên tạo thêm tín dụng vận hành như tiền.
+
+   Cũng vì vậy, khi người gửi đồng loạt rút tiền, ngân hàng không thể bán ngay tài sản để trả, và khi nhiều ngân hàng sụp đổ cùng lúc, lượng tín dụng biến mất làm tổng cầu co lại. Bảo hiểm tiền gửi chặn được rút tiền ồ ạt, nhưng Sowell chỉ ra rằng rủi ro ngân hàng ở Mỹ phần lớn do chính luật cấm mở chi nhánh tạo ra (Canada với 10 ngân hàng, 3.000 chi nhánh không có ngân hàng nào đổ vỡ), và bảo hiểm lại khuyến khích ngân hàng chấp nhận rủi ro.
 
 ## Khái niệm cần biết
 
@@ -843,7 +852,11 @@ Trong trại tù binh, việc dùng thuốc lá làm tiền còn sinh ra những
 
 Điểm chung khiến tất cả những thứ này thành tiền là người ta chấp nhận chúng khi bán hàng hoá, dịch vụ, tức của cải thật. Với một cá nhân, tiền tương đương của cải chỉ vì người khác sẵn lòng đưa hàng hoá, dịch vụ thật để đổi lấy tiền. Nhưng với cả nền kinh tế quốc gia, tiền không phải của cải; nó chỉ là công cụ để chuyển giao của cải hoặc để tạo động cơ cho người ta sản xuất ra của cải.
 
-Sowell dùng ẩn dụ dầu bôi trơn: tiền giúp bánh xe sản xuất của cải thật quay trơn, và bánh xe có dầu chạy tốt hơn nhiều, nên vai trò của tiền không hề nhỏ. Khi hệ thống tiền tệ sụp đổ và người ta buộc phải quay về hàng đổi hàng, sự vụng về của cách làm đó lộ ra ngay. Năm 2002, hệ thống tiền tệ Argentina sụp đổ, hoạt động kinh tế giảm và dân lập các câu lạc bộ đổi hàng gọi là *trueque*. Một câu lạc bộ gom nửa tấn củi có được từ các lần đổi trước để "mua" 220 pound (khoảng 100 kg) bánh mì của một thợ làm bánh, người dùng củi đốt lò; ở khu giàu Palermo, có câu lạc bộ sang trọng nơi đồ sứ cổ được đổi lấy thịt bò Argentina hảo hạng. Argentina không phải trường hợp duy nhất: trong Đại Suy thoái thập niên 1930, khi cung tiền Mỹ co lại mạnh, ước tính có 150 hệ thống đổi hàng hoặc tiền thay thế tự phát (scrip) hoạt động ở 30 bang. Tiền không phải của cải, nhưng thiếu một hệ thống tiền tệ vận hành tốt thì xã hội mất của cải thật vì giao dịch bị đẩy về mức thô sơ.
+Sowell dùng ẩn dụ dầu bôi trơn: tiền giúp bánh xe sản xuất của cải thật quay trơn, và bánh xe có dầu chạy tốt hơn nhiều, nên vai trò của tiền không hề nhỏ. Khi hệ thống tiền tệ sụp đổ và người ta buộc phải quay về hàng đổi hàng, sự vụng về của cách làm đó lộ ra ngay.
+
+Năm 2002, hệ thống tiền tệ Argentina sụp đổ, hoạt động kinh tế giảm và dân lập các câu lạc bộ đổi hàng gọi là *trueque*. Một câu lạc bộ gom nửa tấn củi có được từ các lần đổi trước để "mua" 220 pound (khoảng 100 kg) bánh mì của một thợ làm bánh, người dùng củi đốt lò; ở khu giàu Palermo, có câu lạc bộ sang trọng nơi đồ sứ cổ được đổi lấy thịt bò Argentina hảo hạng.
+
+Argentina không phải trường hợp duy nhất: trong Đại Suy thoái thập niên 1930, khi cung tiền Mỹ co lại mạnh, ước tính có 150 hệ thống đổi hàng hoặc tiền thay thế tự phát (scrip) hoạt động ở 30 bang. Tiền không phải của cải, nhưng thiếu một hệ thống tiền tệ vận hành tốt thì xã hội mất của cải thật vì giao dịch bị đẩy về mức thô sơ.
 
 Thường ai cũng muốn có tiền, nhưng có những lúc, ở những nước nhất định, không ai muốn nhận tiền vì cho rằng nó vô giá trị. Thực ra chính việc không ai chấp nhận làm tiền mất giá trị: khi không mua được gì, tiền chỉ còn là mẩu giấy hay mẩu kim loại vô dụng. Ở Pháp thập niên 1790, một chính phủ tuyệt vọng đã ra luật xử tử bất cứ ai từ chối bán hàng lấy tiền. Bài học là việc chính phủ in tiền không bảo đảm dân sẽ chấp nhận nó và nó sẽ thực sự vận hành như tiền. Vì vậy cần hiểu tiền vận hành thế nào, ít nhất để tránh để nó trục trặc. Hai trục trặc quan trọng nhất là lạm phát và giảm phát.
 
@@ -857,11 +870,17 @@ Theo Sowell, điều này không khó hiểu. Nhầm lẫn chỉ xuất hiện k
 
 **Vàng và tiền giấy.** Trong phần lớn lịch sử, nhiều nước dùng vàng làm tiền, hoặc trực tiếp (tiền xu, hay vàng cục, vàng thỏi cho món mua lớn), hoặc qua tiền giấy chính phủ in và đổi ra vàng bất cứ khi nào người cầm muốn. Tiền giấy vừa dễ mang theo vừa an toàn hơn, vì kim loại kêu leng keng trong túi hay lộ ra trong bao dễ thu hút kẻ cướp.
 
-Vấn đề lớn của tiền do chính phủ tạo ra là người điều hành chính phủ luôn bị cám dỗ tạo thêm tiền để tiêu. Từ vua chúa xưa đến chính trị gia hiện đại, điều này lặp đi lặp lại qua nhiều thế kỷ, dẫn tới lạm phát cùng các vấn đề kinh tế, xã hội đi kèm. Vì vậy nhiều nước thích dùng vàng, bạc hay vật liệu có nguồn cung tự nhiên hạn chế làm tiền: đó là cách tước của chính phủ quyền tăng cung tiền tới mức gây lạm phát. Vàng từ lâu được coi là lý tưởng vì nguồn cung vàng thế giới thường không thể tăng nhanh. Khi tiền giấy đổi được ra vàng theo ý người cầm, người ta nói tiền được vàng "bảo chứng". Cách nói này chỉ gây hiểu lầm nếu ta tưởng giá trị của vàng truyền sang tiền giấy; thực chất vàng chỉ giới hạn lượng tiền giấy có thể phát hành.
+Vấn đề lớn của tiền do chính phủ tạo ra là người điều hành chính phủ luôn bị cám dỗ tạo thêm tiền để tiêu. Từ vua chúa xưa đến chính trị gia hiện đại, điều này lặp đi lặp lại qua nhiều thế kỷ, dẫn tới lạm phát cùng các vấn đề kinh tế, xã hội đi kèm. Vì vậy nhiều nước thích dùng vàng, bạc hay vật liệu có nguồn cung tự nhiên hạn chế làm tiền: đó là cách tước của chính phủ quyền tăng cung tiền tới mức gây lạm phát.
 
-Đô la Mỹ từng đổi được ra vàng theo yêu cầu, nhưng việc đó chấm dứt năm 1933. Từ đó Mỹ chỉ có tiền giấy, lượng tiền chỉ bị giới hạn bởi điều quan chức nghĩ mình có thể làm mà không bị phản ứng chính trị. Nhiều nhà kinh tế đã chỉ ra quyền lực này nguy hiểm thế nào. John Maynard Keynes viết rằng bằng một quá trình lạm phát liên tục, chính phủ có thể tịch thu, một cách bí mật và không ai nhận ra, một phần quan trọng của cải của công dân. Ví dụ về tác động cộng dồn: năm 2013, tờ *Investor's Business Daily* chỉ ra rằng với một đô la năm 1960 người ta mua được gấp sáu lần hàng hoá so với hiện nay. Nói cách khác, người để dành tiền từ năm 1960 đã bị lặng lẽ lấy mất hơn bốn phần năm giá trị. Dù vậy, lạm phát ở Mỹ vẫn nhỏ so với nhiều nước khác: ở Mỹ, lạm phát "hai chữ số" trong một năm đã gây báo động chính trị, còn một số nước Mỹ Latinh và Đông Âu từng có giai đoạn lạm phát hằng năm bốn chữ số.
+Vàng từ lâu được coi là lý tưởng vì nguồn cung vàng thế giới thường không thể tăng nhanh. Khi tiền giấy đổi được ra vàng theo ý người cầm, người ta nói tiền được vàng "bảo chứng". Cách nói này chỉ gây hiểu lầm nếu ta tưởng giá trị của vàng truyền sang tiền giấy; thực chất vàng chỉ giới hạn lượng tiền giấy có thể phát hành.
 
-**Những thứ vận hành như tiền.** Vì tiền là bất cứ thứ gì người ta chấp nhận khi bán hàng hoá, dịch vụ thật, nhiều thứ khác vận hành rất giống tiền chính thức: thẻ tín dụng, thẻ ghi nợ, séc. Lời hứa của người rất được tin cậy cũng có thể vận hành như tiền; giấy nợ (IOU) của các thương nhân đáng tin từng được chuyền tay như tiền. Như Sowell đã nêu ở Chương 5, năm 2003 số giao dịch mua hàng bằng thẻ tín dụng hoặc thẻ ghi nợ đã nhiều hơn bằng tiền mặt. Điều này có nghĩa là tổng cầu không chỉ đến từ tiền chính phủ phát hành mà còn từ tín dụng sinh ra ở nhiều nguồn khác; và khi tín dụng bị thanh lý (vì bất cứ lý do gì), tổng cầu giảm y như khi cung tiền chính thức co lại.
+Đô la Mỹ từng đổi được ra vàng theo yêu cầu, nhưng việc đó chấm dứt năm 1933. Từ đó Mỹ chỉ có tiền giấy, lượng tiền chỉ bị giới hạn bởi điều quan chức nghĩ mình có thể làm mà không bị phản ứng chính trị. Nhiều nhà kinh tế đã chỉ ra quyền lực này nguy hiểm thế nào. John Maynard Keynes viết rằng bằng một quá trình lạm phát liên tục, chính phủ có thể tịch thu, một cách bí mật và không ai nhận ra, một phần quan trọng của cải của công dân.
+
+Ví dụ về tác động cộng dồn: năm 2013, tờ *Investor's Business Daily* chỉ ra rằng với một đô la năm 1960 người ta mua được gấp sáu lần hàng hoá so với hiện nay. Nói cách khác, người để dành tiền từ năm 1960 đã bị lặng lẽ lấy mất hơn bốn phần năm giá trị. Dù vậy, lạm phát ở Mỹ vẫn nhỏ so với nhiều nước khác: ở Mỹ, lạm phát "hai chữ số" trong một năm đã gây báo động chính trị, còn một số nước Mỹ Latinh và Đông Âu từng có giai đoạn lạm phát hằng năm bốn chữ số.
+
+**Những thứ vận hành như tiền.** Vì tiền là bất cứ thứ gì người ta chấp nhận khi bán hàng hoá, dịch vụ thật, nhiều thứ khác vận hành rất giống tiền chính thức: thẻ tín dụng, thẻ ghi nợ, séc. Lời hứa của người rất được tin cậy cũng có thể vận hành như tiền; giấy nợ (IOU) của các thương nhân đáng tin từng được chuyền tay như tiền. Như Sowell đã nêu ở Chương 5, năm 2003 số giao dịch mua hàng bằng thẻ tín dụng hoặc thẻ ghi nợ đã nhiều hơn bằng tiền mặt.
+
+Điều này có nghĩa là tổng cầu không chỉ đến từ tiền chính phủ phát hành mà còn từ tín dụng sinh ra ở nhiều nguồn khác; và khi tín dụng bị thanh lý (vì bất cứ lý do gì), tổng cầu giảm y như khi cung tiền chính thức co lại.
 
 Có thời một số ngân hàng phát hành tiền riêng. Tiền này không có giá trị pháp lý, nhưng vẫn được nhận rộng rãi nếu ngân hàng được coi là đủ đáng tin và sẵn lòng đổi ra vàng. Thập niên 1780, tiền của Bank of North America được chấp nhận rộng hơn cả tiền chính thức của chính phủ thời đó. Đôi khi dân còn thích tiền nước khác hơn tiền nước mình:
 
@@ -872,7 +891,9 @@ Có thời một số ngân hàng phát hành tiền riêng. Tiền này không 
 | Zimbabwe 2007 (theo *New York Times*) | Đồng rand Nam Phi thay đồng đô la Zimbabwe gần như vô giá trị |
 | Miền Nam nước Mỹ cuối Nội chiến | Tiền do chính phủ ở Washington phát hành được dùng nhiều hơn tiền của chính phủ Liên minh miền Nam |
 
-**Vàng như nơi trú ẩn trước lạm phát.** Vàng vẫn được ưa hơn nhiều đồng tiền quốc gia, dù vàng không sinh lãi còn tiền gửi ngân hàng thì có. Giá vàng biến động một phần theo nhu cầu làm trang sức (khoảng 80% nhu cầu vàng) và cho một số ngành công nghiệp, nhưng căn bản hơn, nó phản ánh mức lo ngại về lạm phát có thể làm xói mòn sức mua của các đồng tiền chính thức. Vì vậy một cuộc khủng hoảng chính trị hay quân sự lớn có thể làm giá vàng vọt lên: người ta bán các đồng tiền có thể bị ảnh hưởng và tranh nhau mua vàng làm nơi giữ của cải đáng tin hơn, dù vàng không có lãi hay cổ tức. Do giá vàng phụ thuộc kỳ vọng về giá trị của tiền, nó có thể tăng giảm mạnh và đảo chiều nhanh:
+**Vàng như nơi trú ẩn trước lạm phát.** Vàng vẫn được ưa hơn nhiều đồng tiền quốc gia, dù vàng không sinh lãi còn tiền gửi ngân hàng thì có. Giá vàng biến động một phần theo nhu cầu làm trang sức (khoảng 80% nhu cầu vàng) và cho một số ngành công nghiệp, nhưng căn bản hơn, nó phản ánh mức lo ngại về lạm phát có thể làm xói mòn sức mua của các đồng tiền chính thức.
+
+Vì vậy một cuộc khủng hoảng chính trị hay quân sự lớn có thể làm giá vàng vọt lên: người ta bán các đồng tiền có thể bị ảnh hưởng và tranh nhau mua vàng làm nơi giữ của cải đáng tin hơn, dù vàng không có lãi hay cổ tức. Do giá vàng phụ thuộc kỳ vọng về giá trị của tiền, nó có thể tăng giảm mạnh và đảo chiều nhanh:
 
 | Giai đoạn | Diễn biến giá vàng |
 |---|---|
@@ -887,13 +908,19 @@ Lạm phát hiện có hoặc dự kiến thường đẩy giá vàng lên, vì 
 
 Để tránh những nguy hiểm đó, từ hàng nghìn năm nay các chính phủ trên thế giới đã dùng lạm phát thay cho tăng thuế. Keynes nhận xét rằng không có cuộc chiến kéo dài hay biến động xã hội lớn nào mà không kèm theo thay đổi tiền pháp định, và ở mọi nước có lịch sử, từ buổi bình minh của ghi chép kinh tế, giá trị thật của các đồng tiền pháp định kế tiếp nhau gần như liên tục suy giảm.
 
-Sowell minh hoạ: nếu một cuộc chiến lớn cần một nửa sản lượng hằng năm của cả nước, thay vì đánh thuế 50% thu nhập của mọi người, chính phủ có thể tạo thêm tiền cho mình và dùng tiền đó mua vật tư quân sự. Khi một nửa nguồn lực dùng sản xuất trang thiết bị quân sự, hàng dân dụng khan hiếm hơn đúng lúc tiền dồi dào hơn; tỷ lệ giữa tiền và hàng dân dụng thay đổi, nhiều tiền tranh mua ít hàng hơn, và giá tăng. Không phải lạm phát nào cũng do chiến tranh, dù lạm phát thường đi cùng xung đột quân sự. Thời bình, chính phủ cũng tìm ra vô số thứ để chi: cuộc sống xa hoa của vua chúa hay nhà độc tài, các dự án phô trương phổ biến dưới cả chế độ dân chủ lẫn không dân chủ. Để trả cho những thứ đó, dùng quyền tạo tiền thường được coi là dễ và an toàn về chính trị hơn tăng thuế.
+Sowell minh hoạ: nếu một cuộc chiến lớn cần một nửa sản lượng hằng năm của cả nước, thay vì đánh thuế 50% thu nhập của mọi người, chính phủ có thể tạo thêm tiền cho mình và dùng tiền đó mua vật tư quân sự. Khi một nửa nguồn lực dùng sản xuất trang thiết bị quân sự, hàng dân dụng khan hiếm hơn đúng lúc tiền dồi dào hơn; tỷ lệ giữa tiền và hàng dân dụng thay đổi, nhiều tiền tranh mua ít hàng hơn, và giá tăng.
+
+Không phải lạm phát nào cũng do chiến tranh, dù lạm phát thường đi cùng xung đột quân sự. Thời bình, chính phủ cũng tìm ra vô số thứ để chi: cuộc sống xa hoa của vua chúa hay nhà độc tài, các dự án phô trương phổ biến dưới cả chế độ dân chủ lẫn không dân chủ. Để trả cho những thứ đó, dùng quyền tạo tiền thường được coi là dễ và an toàn về chính trị hơn tăng thuế.
 
 **Lạm phát là thuế ẩn và thuế đánh trên diện rộng.** Nói cách khác, lạm phát thực chất là một thứ thuế ẩn: tiền dân để dành bị lấy mất một phần sức mua, và phần đó lặng lẽ chuyển sang chính phủ phát hành tiền mới. Nó còn là thuế đánh trên diện rộng. Chính phủ có thể tuyên bố không tăng thuế, hoặc chỉ tăng thuế "người giàu" (định nghĩa thế nào cũng được), nhưng khi tạo ra lạm phát, nó chuyển đi một phần của cải của mọi người có tiền, từ giàu nhất tới nghèo nhất. Trong chừng mực người giàu để của cải vào cổ phiếu, bất động sản hay tài sản hữu hình tăng giá theo lạm phát, họ tránh được một phần thứ thuế trên thực tế này, điều mà người thu nhập thấp có thể không làm được.
 
-**Cách tăng lượng tiền qua các thời.** Thời tiền giấy, tăng cung tiền chỉ là chạy máy in. Nhưng từ lâu trước khi có máy in, chính phủ đã tạo thêm tiền bằng cách giảm lượng vàng hay bạc trong đồng xu cùng mệnh giá. Một đồng franc Pháp hay đồng bảng Anh ban đầu chứa một lượng kim loại quý nhất định, nhưng các đồng xu phát hành sau chứa ngày càng ít, cho phép chính phủ đúc nhiều tiền hơn từ cùng một lượng vàng bạc. Vì xu mới có giá trị pháp lý như xu cũ, sức mua của mọi đồng xu giảm khi xu nhiều lên. Các nước có ngân hàng trung ương do chính phủ kiểm soát dùng cách tinh vi hơn, nhưng kết quả ròng vẫn vậy: lượng tiền tăng mà hàng hoá thật không tăng tương ứng thì giá tăng, tức lạm phát. Ngược lại, khi sản lượng của Anh tăng trong Cách mạng Công nghiệp thế kỷ 19, giá ở Anh giảm vì cung tiền không tăng tương ứng.
+**Cách tăng lượng tiền qua các thời.** Thời tiền giấy, tăng cung tiền chỉ là chạy máy in. Nhưng từ lâu trước khi có máy in, chính phủ đã tạo thêm tiền bằng cách giảm lượng vàng hay bạc trong đồng xu cùng mệnh giá. Một đồng franc Pháp hay đồng bảng Anh ban đầu chứa một lượng kim loại quý nhất định, nhưng các đồng xu phát hành sau chứa ngày càng ít, cho phép chính phủ đúc nhiều tiền hơn từ cùng một lượng vàng bạc. Vì xu mới có giá trị pháp lý như xu cũ, sức mua của mọi đồng xu giảm khi xu nhiều lên.
 
-**Tốc độ lưu thông và lạm phát phi mã.** Tăng gấp đôi cung tiền khi lượng hàng không đổi có thể làm mặt bằng giá tăng hơn gấp đôi, vì khi dân mất lòng tin rằng đồng tiền giữ được giá trị, tiền lưu thông nhanh hơn. Năm 1998, khi đồng rúp Nga mất giá mạnh, một phóng viên ở Moskva tường thuật rằng nhiều người vội tiêu số rúp đang teo lại càng nhanh càng tốt khi nó còn chút giá trị. Điều tương tự đã xảy ra ở Nga trong Thế chiến I và những năm ngay sau các cuộc cách mạng năm 1917. Tới năm 1921, lượng tiền chính phủ Nga phát hành lớn gấp hàng trăm lần lượng tiền lưu hành năm 1913, ngay trước chiến tranh, còn mặt bằng giá cao gấp hàng *nghìn* lần năm 1913. Tiền lưu thông nhanh hơn có tác động lên giá như có thêm tiền; khi cả hai cùng xảy ra trên quy mô lớn, kết quả là lạm phát phi mã. Năm 1991, năm cuối đầy khủng hoảng của Liên Xô, đồng rúp mất giá tới mức người Nga dùng nó làm giấy dán tường và giấy vệ sinh, hai thứ đang khan hiếm.
+Các nước có ngân hàng trung ương do chính phủ kiểm soát dùng cách tinh vi hơn, nhưng kết quả ròng vẫn vậy: lượng tiền tăng mà hàng hoá thật không tăng tương ứng thì giá tăng, tức lạm phát. Ngược lại, khi sản lượng của Anh tăng trong Cách mạng Công nghiệp thế kỷ 19, giá ở Anh giảm vì cung tiền không tăng tương ứng.
+
+**Tốc độ lưu thông và lạm phát phi mã.** Tăng gấp đôi cung tiền khi lượng hàng không đổi có thể làm mặt bằng giá tăng hơn gấp đôi, vì khi dân mất lòng tin rằng đồng tiền giữ được giá trị, tiền lưu thông nhanh hơn. Năm 1998, khi đồng rúp Nga mất giá mạnh, một phóng viên ở Moskva tường thuật rằng nhiều người vội tiêu số rúp đang teo lại càng nhanh càng tốt khi nó còn chút giá trị.
+
+Điều tương tự đã xảy ra ở Nga trong Thế chiến I và những năm ngay sau các cuộc cách mạng năm 1917. Tới năm 1921, lượng tiền chính phủ Nga phát hành lớn gấp hàng trăm lần lượng tiền lưu hành năm 1913, ngay trước chiến tranh, còn mặt bằng giá cao gấp hàng *nghìn* lần năm 1913. Tiền lưu thông nhanh hơn có tác động lên giá như có thêm tiền; khi cả hai cùng xảy ra trên quy mô lớn, kết quả là lạm phát phi mã. Năm 1991, năm cuối đầy khủng hoảng của Liên Xô, đồng rúp mất giá tới mức người Nga dùng nó làm giấy dán tường và giấy vệ sinh, hai thứ đang khan hiếm.
 
 Có lẽ đợt lạm phát nổi tiếng nhất thế kỷ 20 là ở Đức thập niên 1920:
 
@@ -923,7 +950,9 @@ Lạm phát là vấn đề có từ hàng thế kỷ, nhưng ở một số th�
 
 **Đại Suy thoái.** Một đợt giảm phát còn tai hại hơn xảy ra ở Mỹ thế kỷ 20. Như Sowell đã nêu ở đầu Chương 16, cung tiền Mỹ giảm một phần ba từ 1929 tới 1933, khiến người Mỹ không thể mua lượng hàng hoá, dịch vụ như trước *ở mức giá cũ*. Giá có giảm (catalogue năm 1931 của hãng bán lẻ Sears có nhiều giá thấp hơn một thập kỷ trước), nhưng một số giá không thể thay đổi vì đã ghi trong hợp đồng có giá trị pháp lý.
 
-Thế chấp nhà, trang trại, cửa hàng và cao ốc đều quy định khoản trả hằng tháng bằng một số tiền cụ thể. Những điều khoản đó có thể hợp lý và dễ đáp ứng khi tổng lượng tiền trong nền kinh tế còn lớn hơn nhiều, nhưng giờ thì như thể khoản trả bị tăng lên tuỳ tiện, và về sức mua thật thì đúng là đã tăng. Nhiều chủ nhà, nông dân và doanh nghiệp không trả nổi sau khi cung tiền cả nước co lại, và mất chỗ ở, chỗ làm ăn. Người thuê nhà, thuê mặt bằng gặp vấn đề tương tự vì ngày càng khó kiếm đủ tiền trả. Khối lượng lớn hàng hoá, dịch vụ mà doanh nghiệp và cá nhân mua chịu trước đó thành những khoản nợ khó trả hơn so với lúc được cấp tín dụng trong một nền kinh tế có nhiều tiền hơn.
+Thế chấp nhà, trang trại, cửa hàng và cao ốc đều quy định khoản trả hằng tháng bằng một số tiền cụ thể. Những điều khoản đó có thể hợp lý và dễ đáp ứng khi tổng lượng tiền trong nền kinh tế còn lớn hơn nhiều, nhưng giờ thì như thể khoản trả bị tăng lên tuỳ tiện, và về sức mua thật thì đúng là đã tăng.
+
+Nhiều chủ nhà, nông dân và doanh nghiệp không trả nổi sau khi cung tiền cả nước co lại, và mất chỗ ở, chỗ làm ăn. Người thuê nhà, thuê mặt bằng gặp vấn đề tương tự vì ngày càng khó kiếm đủ tiền trả. Khối lượng lớn hàng hoá, dịch vụ mà doanh nghiệp và cá nhân mua chịu trước đó thành những khoản nợ khó trả hơn so với lúc được cấp tín dụng trong một nền kinh tế có nhiều tiền hơn.
 
 Những người có lương ghi trong hợp đồng, từ công nhân có công đoàn tới cầu thủ bóng chày chuyên nghiệp, giờ có quyền hợp pháp hưởng sức mua thật cao hơn lúc ký. Công chức, với thang lương do luật định, cũng vậy. Nhưng giảm phát chỉ có lợi cho họ *nếu họ giữ được việc*, và chính vì khó trả lương cho họ mà nhiều người mất việc. Tương tự, các ngân hàng giữ những khoản thế chấp mà nhiều người đang chật vật trả được nhận các khoản trả có sức mua cao hơn trước, *nếu họ nhận được*. Nhưng quá nhiều người không trả nổi nợ nên nhiều ngân hàng bắt đầu đổ vỡ: hơn 9.000 ngân hàng ngừng hoạt động trong bốn năm 1930–1933. Các chủ nợ khác cũng mất tiền khi con nợ không trả được.
 
@@ -935,15 +964,21 @@ Sowell nêu ba lý do để nghi ngờ điều nghe có vẻ hợp lý này. Th�
 
 Nhìn lại Đại Suy thoái, các nhà kinh tế cả bảo thủ lẫn cấp tiến đều coi chính sách tiền tệ của Fed thời đó là rối rắm và phản tác dụng. Milton Friedman gọi những người điều hành Fed những năm đó là "vụng về", còn John Kenneth Galbraith gọi họ là một nhóm "kém cỏi đến kinh ngạc". Ví dụ, năm 1931, khi kinh tế đi xuống gần chạm đáy, doanh nghiệp phá sản, ngân hàng đổ vỡ hàng nghìn khắp nước cùng với thất nghiệp hàng loạt, Fed lại tăng lãi suất. Ngày nay, ai có hiểu biết kinh tế cơ bản cũng được kỳ vọng hiểu rằng không thể thoát suy thoái bằng cách tăng lãi suất, vì lãi suất cao hơn làm giảm tín dụng, qua đó giảm thêm tổng cầu đúng lúc cần thêm cầu để phục hồi nền kinh tế.
 
-**Hai tổng thống và chủ trương giữ lương.** Các tổng thống thời Đại Suy thoái cũng không hiểu kinh tế hơn quan chức Fed. Cả Herbert Hoover (Cộng hoà) lẫn người kế nhiệm Franklin D. Roosevelt (Dân chủ) đều cho rằng không nên giảm lương, nên chính phủ liên bang ngăn cản cách thích nghi với giảm phát này, vì lý do cả nhân đạo lẫn chính trị. Lý thuyết của họ là giữ lương bằng tiền thì giữ được sức mua, ngăn doanh số, sản lượng và việc làm giảm thêm. Đáng tiếc, chính sách này chỉ đúng chừng nào người ta còn giữ được việc; trong điều kiện cho trước, nhất là giảm phát, lương cao hơn nghĩa là việc làm ít hơn. Vì vậy lương thật theo giờ cao hơn không thành tổng thu nhập của người lao động cao hơn, và không tạo cơ sở cho tổng cầu cao hơn như cả hai tổng thống kỳ vọng.
+**Hai tổng thống và chủ trương giữ lương.** Các tổng thống thời Đại Suy thoái cũng không hiểu kinh tế hơn quan chức Fed. Cả Herbert Hoover (Cộng hoà) lẫn người kế nhiệm Franklin D. Roosevelt (Dân chủ) đều cho rằng không nên giảm lương, nên chính phủ liên bang ngăn cản cách thích nghi với giảm phát này, vì lý do cả nhân đạo lẫn chính trị.
 
-Joseph A. Schumpeter, một nhà kinh tế hàng đầu thời đó, cho rằng việc cưỡng lại điều chỉnh giảm lương bằng tiền đã làm Đại Suy thoái nặng thêm. Năm 1931 ông viết rằng suy thoái không do mức lương gây ra, nhưng khi đã xảy ra vì những yếu tố khác thì bị yếu tố này làm trầm trọng hơn nhiều. Theo Sowell, không cần là nhà kinh tế cũng hiểu điều hai tổng thống không hiểu: năm 1934, nhà báo chuyên mục Walter Lippmann viết rằng trong suy thoái người ta không thể bán hàng hoá hay dịch vụ của mình ở giá trước suy thoái; ai đòi giá trước suy thoái cho hàng hoá thì không bán được, ai đòi lương trước suy thoái thì thất nghiệp. Hàng triệu người thất nghiệp, nhiều người trong cảnh túng quẫn, không phải là người đòi lương trước suy thoái; chính các chính trị gia mới cố giữ lương ở mức đó.
+Lý thuyết của họ là giữ lương bằng tiền thì giữ được sức mua, ngăn doanh số, sản lượng và việc làm giảm thêm. Đáng tiếc, chính sách này chỉ đúng chừng nào người ta còn giữ được việc; trong điều kiện cho trước, nhất là giảm phát, lương cao hơn nghĩa là việc làm ít hơn. Vì vậy lương thật theo giờ cao hơn không thành tổng thu nhập của người lao động cao hơn, và không tạo cơ sở cho tổng cầu cao hơn như cả hai tổng thống kỳ vọng.
+
+Joseph A. Schumpeter, một nhà kinh tế hàng đầu thời đó, cho rằng việc cưỡng lại điều chỉnh giảm lương bằng tiền đã làm Đại Suy thoái nặng thêm. Năm 1931 ông viết rằng suy thoái không do mức lương gây ra, nhưng khi đã xảy ra vì những yếu tố khác thì bị yếu tố này làm trầm trọng hơn nhiều.
+
+Theo Sowell, không cần là nhà kinh tế cũng hiểu điều hai tổng thống không hiểu: năm 1934, nhà báo chuyên mục Walter Lippmann viết rằng trong suy thoái người ta không thể bán hàng hoá hay dịch vụ của mình ở giá trước suy thoái; ai đòi giá trước suy thoái cho hàng hoá thì không bán được, ai đòi lương trước suy thoái thì thất nghiệp. Hàng triệu người thất nghiệp, nhiều người trong cảnh túng quẫn, không phải là người đòi lương trước suy thoái; chính các chính trị gia mới cố giữ lương ở mức đó.
 
 Cả hai chính quyền Hoover và Roosevelt áp dụng cùng lối lập luận, hay sự thiếu lập luận, cho nông nghiệp: giá nông sản phải được chính phủ giữ cao để giữ sức mua của nông dân. Hoover quyết định chính phủ liên bang nên "hỗ trợ gián tiếp cho các mức giá đã giảm mạnh" trong nông nghiệp. Roosevelt sau đó thể chế hoá chính sách này thành các chương trình hỗ trợ giá nông sản, dẫn tới việc tiêu huỷ hàng loạt lương thực giữa lúc nạn đói lan rộng. Tóm lại, hiểu sai kinh tế vừa phổ biến vừa ở cả hai đảng. Và không chỉ ở Mỹ: năm 1931, Keynes nói rằng những lý lẽ biện hộ cho chính sách tiền tệ của chính phủ Anh "không trụ nổi mười phút thảo luận lý trí".
 
 Từ đó Sowell rút ra nguyên tắc: chính sách tiền tệ chỉ là một trong nhiều lĩnh vực mà ở đó việc chính phủ *có thể* làm cho tình hình tốt hơn là chưa đủ. Điều quan trọng là chính phủ trên thực tế *nhiều khả năng* sẽ làm gì, và trong nhiều trường hợp điều đó làm tình hình tệ hơn.
 
-**Giảm phát dưới bản vị vàng và cuộc tranh cử năm 1896.** Giảm phát không chỉ thành vấn đề nghiêm trọng trong những thảm hoạ quốc gia và quốc tế như Đại Suy thoái. Thời hoàng kim của bản vị vàng, thế kỷ 19 và đầu thế kỷ 20, mỗi khi sản xuất hàng hoá, dịch vụ tăng nhanh hơn lượng vàng, giá có xu hướng giảm, giống như giá có xu hướng tăng khi cung tiền tăng nhanh hơn lượng hàng mà tiền mua. Mặt bằng giá trung bình ở Mỹ cuối thế kỷ 19 thấp hơn đầu thế kỷ. Như mọi trường hợp giảm phát khác, tức sức mua của tiền tăng, điều này làm thế chấp, hợp đồng thuê, hợp đồng và các nghĩa vụ pháp lý khác trả bằng tiền tăng giá trị thật: con nợ thực chất nợ nhiều hơn, về sức mua thật, so với điều họ đã đồng ý trả lúc vay.
+**Giảm phát dưới bản vị vàng và cuộc tranh cử năm 1896.** Giảm phát không chỉ thành vấn đề nghiêm trọng trong những thảm hoạ quốc gia và quốc tế như Đại Suy thoái. Thời hoàng kim của bản vị vàng, thế kỷ 19 và đầu thế kỷ 20, mỗi khi sản xuất hàng hoá, dịch vụ tăng nhanh hơn lượng vàng, giá có xu hướng giảm, giống như giá có xu hướng tăng khi cung tiền tăng nhanh hơn lượng hàng mà tiền mua. Mặt bằng giá trung bình ở Mỹ cuối thế kỷ 19 thấp hơn đầu thế kỷ.
+
+Như mọi trường hợp giảm phát khác, tức sức mua của tiền tăng, điều này làm thế chấp, hợp đồng thuê, hợp đồng và các nghĩa vụ pháp lý khác trả bằng tiền tăng giá trị thật: con nợ thực chất nợ nhiều hơn, về sức mua thật, so với điều họ đã đồng ý trả lúc vay.
 
 Ngoài vấn đề nghĩa vụ ghi cố định bằng tiền, giảm phát còn gây vấn đề vì nó tác động tới giá các thứ một cách khác nhau, như lạm phát, nên thu nhập của các nhóm người bị ảnh hưởng khác nhau. Ở Mỹ, giá những thứ nông dân bán giảm nhanh hơn giá những thứ họ mua:
 
@@ -955,7 +990,9 @@ Ngoài vấn đề nghĩa vụ ghi cố định bằng tiền, giảm phát còn
 | Cuối năm 1894 | Vừa đủ 60 xu |
 | Giữa mùa đông 1895–1896 | Dưới 50 xu |
 
-Trong khi đó, khoản trả thế chấp của nông dân giữ nguyên bằng tiền, nên tăng về giá trị thật trong giảm phát, và phải trả từ thu nhập trang trại chỉ còn một nửa hoặc ít hơn so với lúc vay. Đó là bối cảnh của chiến dịch tranh cử tổng thống năm 1896 của William Jennings Bryan, dựa trên đòi hỏi bỏ bản vị vàng, với đỉnh điểm là bài diễn văn nổi tiếng: các người sẽ không đóng đinh nhân loại lên cây thập tự bằng vàng. Khi đó, số người sống ở nông thôn còn nhiều hơn ở thành phố và thị trấn, và Bryan chỉ thua sít sao William McKinley. Điều thật sự làm dịu áp lực đòi bỏ bản vị vàng là việc phát hiện các mỏ vàng mới ở Nam Phi, Úc và Alaska. Những phát hiện này làm giá tăng lần đầu tiên sau 20 năm, trong đó giá nông sản tăng đặc biệt nhanh.
+Trong khi đó, khoản trả thế chấp của nông dân giữ nguyên bằng tiền, nên tăng về giá trị thật trong giảm phát, và phải trả từ thu nhập trang trại chỉ còn một nửa hoặc ít hơn so với lúc vay.
+
+Đó là bối cảnh của chiến dịch tranh cử tổng thống năm 1896 của William Jennings Bryan, dựa trên đòi hỏi bỏ bản vị vàng, với đỉnh điểm là bài diễn văn nổi tiếng: các người sẽ không đóng đinh nhân loại lên cây thập tự bằng vàng. Khi đó, số người sống ở nông thôn còn nhiều hơn ở thành phố và thị trấn, và Bryan chỉ thua sít sao William McKinley. Điều thật sự làm dịu áp lực đòi bỏ bản vị vàng là việc phát hiện các mỏ vàng mới ở Nam Phi, Úc và Alaska. Những phát hiện này làm giá tăng lần đầu tiên sau 20 năm, trong đó giá nông sản tăng đặc biệt nhanh.
 
 Khi tác động giảm phát của bản vị vàng qua đi, không chỉ sự phân cực chính trị quanh vấn đề này ở Mỹ dịu xuống mà thêm nhiều nước trên thế giới chuyển sang bản vị vàng vào cuối thế kỷ 19, đầu thế kỷ 20. Tuy nhiên, Sowell lưu ý rằng bản vị vàng không ngăn được lạm phát hay giảm phát. Nó hạn chế khả năng chính trị gia thao túng cung tiền, nhờ đó giữ cả hai trong biên độ hẹp hơn. Sản lượng tăng nhanh hơn lượng vàng từng làm mặt bằng giá chung giảm, còn việc phát hiện những mỏ vàng lớn (California thế kỷ 19, Nam Phi, Yukon) từng làm giá tăng tới mức lạm phát.
 
@@ -973,7 +1010,9 @@ Doanh nghiệp thường không xin một khoản vay riêng mỗi khi thu nhậ
 
 Về lý thuyết, mỗi doanh nghiệp có thể tự để dành tiền lúc làm ăn tốt để vượt qua lúc khó khăn, và doanh nghiệp có làm vậy ở một mức nào đó. Nhưng ở đây cũng có lợi thế quy mô khi ngân hàng thương mại giữ một quỹ chung lớn để từng doanh nghiệp rút khi cần, duy trì dòng tiền đều để trả lương và trả cho người khác. Ngân hàng tính lãi cho dịch vụ này, nhưng vì lợi thế quy mô và việc gộp rủi ro làm chi phí của ngân hàng thấp hơn chi phí của khách, cả ngân hàng và khách đều có lợi về tài chính khi rủi ro được chuyển tới nơi chi phí gánh rủi ro thấp hơn.
 
-**Giúp doanh nghiệp đạt quy mô lớn.** Ngân hàng không chỉ có lợi thế quy mô của riêng mình; chúng là một trong những định chế tài chính giúp từng doanh nghiệp đạt lợi thế quy mô, qua đó nâng mức sống của công chúng nhờ chi phí sản xuất thấp hơn chuyển thành giá thấp hơn. Trong một nền kinh tế hiện đại phức tạp, doanh nghiệp hạ chi phí sản xuất bằng cách hoạt động ở quy mô khổng lồ, cần lao động, máy móc, điện và các nguồn lực khác vượt xa khả năng của cả những cá nhân giàu có. Phần lớn các tập đoàn khổng lồ không do vài người giàu sở hữu mà dựa vào tiền của rất nhiều người; những khoản tiền nhỏ của từng người được các trung gian tài chính (ngân hàng, công ty bảo hiểm, quỹ tương hỗ, quỹ hưu trí) gom lại rồi chuyển cho doanh nghiệp với số lượng lớn.
+**Giúp doanh nghiệp đạt quy mô lớn.** Ngân hàng không chỉ có lợi thế quy mô của riêng mình; chúng là một trong những định chế tài chính giúp từng doanh nghiệp đạt lợi thế quy mô, qua đó nâng mức sống của công chúng nhờ chi phí sản xuất thấp hơn chuyển thành giá thấp hơn.
+
+Trong một nền kinh tế hiện đại phức tạp, doanh nghiệp hạ chi phí sản xuất bằng cách hoạt động ở quy mô khổng lồ, cần lao động, máy móc, điện và các nguồn lực khác vượt xa khả năng của cả những cá nhân giàu có. Phần lớn các tập đoàn khổng lồ không do vài người giàu sở hữu mà dựa vào tiền của rất nhiều người; những khoản tiền nhỏ của từng người được các trung gian tài chính (ngân hàng, công ty bảo hiểm, quỹ tương hỗ, quỹ hưu trí) gom lại rồi chuyển cho doanh nghiệp với số lượng lớn.
 
 Nhiều người cũng chuyển tiền trực tiếp hơn cho doanh nghiệp bằng cách mua cổ phiếu, trái phiếu, nhưng như vậy họ phải tự đánh giá rủi ro. Người khác chuyển tiền qua trung gian tài chính, những nơi có chuyên môn và kinh nghiệm đánh giá rủi ro đầu tư và triển vọng lợi nhuận mà phần lớn cá nhân không có. Khi đó, điều người gửi tiền đánh giá là rủi ro và triển vọng của chính trung gian: họ quyết định gửi tiền vào tài khoản tiết kiệm có bảo hiểm, quỹ hưu trí, quỹ tương hỗ hay giao cho nhà đầu cơ hàng hoá; còn trung gian thì đánh giá rủi ro và triển vọng của những người họ chuyển tiền tới.
 
@@ -991,7 +1030,9 @@ Dù tiền không phải của cải với cả xã hội, vai trò của nó tr
 
 Qua kinh nghiệm, thợ kim hoàn nhận ra rằng hiếm khi họ phải trả lại toàn bộ số vàng được gửi cùng một lúc. Nếu một thợ kim hoàn tin chắc rằng không bao giờ phải trả quá một phần ba số vàng giữ hộ cùng lúc, ông có thể cho vay hai phần ba còn lại để lấy lãi. Vì biên nhận vàng và hai phần ba số vàng cùng lưu hành một lúc, thợ kim hoàn thực chất đã làm tăng tổng lượng tiền.
 
-Từ đó hình thành hai đặc điểm chính của ngân hàng hiện đại: (1) chỉ giữ một phần dự trữ so với lượng cần để trả toàn bộ tiền gửi, và (2) làm tăng tổng cung tiền. Vì không phải mọi người gửi đều muốn rút tiền cùng lúc, ngân hàng cho người khác vay phần lớn tiền gửi để lấy lãi, và chia một phần lãi cho người gửi qua lãi tiền gửi. Người gửi viết séc trên tài khoản của mình trong khi một phần tiền trong tài khoản đó đang lưu hành dưới dạng khoản vay của người khác, nên hệ thống ngân hàng thực chất làm tăng cung tiền quốc gia, ngoài lượng tiền chính phủ in. Vì một phần tín dụng ngân hàng lại được gửi vào ngân hàng khác, các vòng mở rộng cung tiền tiếp nối, nên tổng tín dụng ngân hàng trong nền kinh tế thường vượt tổng tiền mặt chính phủ phát hành.
+Từ đó hình thành hai đặc điểm chính của ngân hàng hiện đại: (1) chỉ giữ một phần dự trữ so với lượng cần để trả toàn bộ tiền gửi, và (2) làm tăng tổng cung tiền. Vì không phải mọi người gửi đều muốn rút tiền cùng lúc, ngân hàng cho người khác vay phần lớn tiền gửi để lấy lãi, và chia một phần lãi cho người gửi qua lãi tiền gửi.
+
+Người gửi viết séc trên tài khoản của mình trong khi một phần tiền trong tài khoản đó đang lưu hành dưới dạng khoản vay của người khác, nên hệ thống ngân hàng thực chất làm tăng cung tiền quốc gia, ngoài lượng tiền chính phủ in. Vì một phần tín dụng ngân hàng lại được gửi vào ngân hàng khác, các vòng mở rộng cung tiền tiếp nối, nên tổng tín dụng ngân hàng trong nền kinh tế thường vượt tổng tiền mặt chính phủ phát hành.
 
 **Bù trừ séc.** Một lý do hệ thống này vận hành được là toàn bộ hệ thống ngân hàng chưa bao giờ phải thực sự trả tiền mặt cho mọi tờ séc người gửi viết ra. Sowell lấy ví dụ hai ngân hàng giả định:
 
@@ -1004,19 +1045,25 @@ Từ đó hình thành hai đặc điểm chính của ngân hàng hiện đại
 
 Acme không đòi Zebra một triệu USD tiền mặt mà bù trừ với séc của khách mình đã chảy sang Zebra, rồi chỉ trả phần chênh lệch. Như vậy chỉ 200.000 USD là đủ thanh toán hơn hai triệu USD tiền séc viết trên tài khoản ở hai ngân hàng. Cả hai ngân hàng chỉ cần giữ một phần tiền gửi bằng tiền mặt, vì mọi tờ séc trên mọi ngân hàng chỉ cần một phần nhỏ tổng giá trị để thanh toán phần chênh lệch giữa các ngân hàng. Và vì người gửi không muốn rút tiền mặt cùng lúc, một lượng tiền mặt tương đối nhỏ cho phép một lượng lớn hơn nhiều tín dụng do hệ thống ngân hàng tạo ra vận hành như tiền trong nền kinh tế.
 
-**Rút tiền ồ ạt.** Hệ thống dự trữ một phần vận hành tốt trong thời bình thường, nhưng rất dễ tổn thương khi nhiều người gửi cùng đòi tiền mặt. Bình thường người gửi không đòi tiền cùng lúc, nhưng có những tình huống đặc biệt khiến số người đòi tiền vượt quá lượng tiền mặt ngân hàng giữ làm dự trữ, thường là khi người gửi sợ không lấy lại được tiền. Có thời, một vụ cướp ngân hàng có thể khiến người gửi sợ ngân hàng phải đóng cửa, nên tất cả cùng chạy tới ngân hàng để rút tiền trước khi nó sụp đổ. Nếu ngân hàng chỉ có lượng tiền bằng một phần ba tổng số người gửi có quyền đòi, và một nửa số người gửi đòi tiền, ngân hàng hết tiền và sụp đổ, những người gửi còn lại mất trắng. Số tiền kẻ cướp lấy đi thường gây hại ít hơn nhiều so với cơn rút tiền ồ ạt sau đó.
+**Rút tiền ồ ạt.** Hệ thống dự trữ một phần vận hành tốt trong thời bình thường, nhưng rất dễ tổn thương khi nhiều người gửi cùng đòi tiền mặt. Bình thường người gửi không đòi tiền cùng lúc, nhưng có những tình huống đặc biệt khiến số người đòi tiền vượt quá lượng tiền mặt ngân hàng giữ làm dự trữ, thường là khi người gửi sợ không lấy lại được tiền.
+
+Có thời, một vụ cướp ngân hàng có thể khiến người gửi sợ ngân hàng phải đóng cửa, nên tất cả cùng chạy tới ngân hàng để rút tiền trước khi nó sụp đổ. Nếu ngân hàng chỉ có lượng tiền bằng một phần ba tổng số người gửi có quyền đòi, và một nửa số người gửi đòi tiền, ngân hàng hết tiền và sụp đổ, những người gửi còn lại mất trắng. Số tiền kẻ cướp lấy đi thường gây hại ít hơn nhiều so với cơn rút tiền ồ ạt sau đó.
 
 **Thanh khoản.** Một ngân hàng có thể hoàn toàn lành mạnh theo nghĩa có đủ tài sản để trả nợ, nhưng tài sản đó không bán ngay được để lấy tiền trả người gửi. Toà nhà ngân hàng sở hữu khó tìm được người mua ngay khi người gửi bắt đầu xếp hàng ở quầy giao dịch đòi tiền. Ngân hàng cũng không thể thu ngay mọi khoản tiền người khác nợ mình theo các hợp đồng thế chấp 30 năm. Những tài sản như vậy không được coi là có tính thanh khoản vì không dễ chuyển thành tiền mặt.
 
 Sowell nhấn mạnh rằng thanh khoản không chỉ là chuyện thời gian. Bạn luôn bán được viên kim cương lấy một hào, và khá nhanh. Điều quyết định tính thanh khoản là mức độ một tài sản đổi được ra tiền mà không mất giá trị. Séc du lịch American Express có tính thanh khoản vì đổi được ra tiền đúng mệnh giá ở bất kỳ văn phòng American Express nào. Trái phiếu kho bạc đáo hạn tháng sau gần như thanh khoản nhưng chưa hẳn: có thể bán nhanh như đổi séc du lịch, nhưng không ai trả đủ mệnh giá trái phiếu đó vào hôm nay.
 
-**Từ đổ vỡ ngân hàng tới co lại tổng cầu.** Vì tài sản của ngân hàng không thể thanh lý toàn bộ ngay lập tức, bất cứ điều gì gây ra rút tiền ồ ạt đều có thể làm ngân hàng sụp đổ. Không chỉ nhiều người gửi mất tiền tiết kiệm, mà tổng cầu hàng hoá, dịch vụ của cả nước có thể giảm đột ngột nếu điều này xảy ra với đủ nhiều ngân hàng cùng lúc. Lý do là một phần cầu bằng tiền gồm tín dụng do hệ thống ngân hàng tạo ra khi cho vay. Khi tín dụng đó biến mất, không còn đủ cầu để mua mọi thứ đang được sản xuất, ít nhất là ở mức giá đã hình thành khi tiền và tín dụng còn nhiều hơn. Đó là điều xảy ra trong Đại Suy thoái thập niên 1930, khi hàng nghìn ngân hàng Mỹ sụp đổ và tổng cầu bằng tiền của cả nước (kể cả tín dụng) co lại một phần ba.
+**Từ đổ vỡ ngân hàng tới co lại tổng cầu.** Vì tài sản của ngân hàng không thể thanh lý toàn bộ ngay lập tức, bất cứ điều gì gây ra rút tiền ồ ạt đều có thể làm ngân hàng sụp đổ. Không chỉ nhiều người gửi mất tiền tiết kiệm, mà tổng cầu hàng hoá, dịch vụ của cả nước có thể giảm đột ngột nếu điều này xảy ra với đủ nhiều ngân hàng cùng lúc.
+
+Lý do là một phần cầu bằng tiền gồm tín dụng do hệ thống ngân hàng tạo ra khi cho vay. Khi tín dụng đó biến mất, không còn đủ cầu để mua mọi thứ đang được sản xuất, ít nhất là ở mức giá đã hình thành khi tiền và tín dụng còn nhiều hơn. Đó là điều xảy ra trong Đại Suy thoái thập niên 1930, khi hàng nghìn ngân hàng Mỹ sụp đổ và tổng cầu bằng tiền của cả nước (kể cả tín dụng) co lại một phần ba.
 
 **Bảo hiểm tiền gửi và Fed.** Để ngăn thảm hoạ đó lặp lại, Tổng công ty Bảo hiểm Tiền gửi Liên bang (FDIC) được lập, bảo đảm chính phủ hoàn tiền cho người gửi ở ngân hàng có bảo hiểm nếu ngân hàng sụp đổ. Người gửi không còn lý do rút tiền ồ ạt, nên rất ít ngân hàng sụp đổ, và nguy cơ tổng lượng tiền và tín dụng của cả nước giảm đột ngột, thảm khốc cũng thấp hơn. Sowell gọi FDIC là một kiểu "bức tường chắn lửa" ngăn đổ vỡ ngân hàng lan ra toàn hệ thống.
 
 Một cách điều chỉnh tinh hơn tổng lượng tiền và tín dụng là thông qua Cục Dự trữ Liên bang (Federal Reserve System). Theo mô tả của Sowell, Fed là ngân hàng trung ương do chính phủ điều hành để kiểm soát mọi ngân hàng tư. Fed có quyền quy định tỷ lệ tiền gửi mà ngân hàng phải giữ làm dự trữ, chỉ phần còn lại được cho vay. Fed cũng cho các ngân hàng vay, để họ cho công chúng vay lại; bằng cách đặt lãi suất cho các khoản vay này, Fed gián tiếp quyết định lãi suất các ngân hàng tính cho công chúng. Kết quả ròng là Fed kiểm soát, ở mức độ này hay khác, tổng lượng tiền và tín dụng của cả nền kinh tế, qua đó gián tiếp kiểm soát tổng cầu hàng hoá, dịch vụ của quốc gia.
 
-**Lời nói của Chủ tịch Fed.** Vì Fed có đòn bẩy rất lớn, các phát biểu công khai của Chủ tịch Hội đồng Thống đốc Fed bị giới ngân hàng và nhà đầu tư soi kỹ để tìm dấu hiệu Fed sẽ thắt chặt hay nới lỏng cung tiền. Một câu nói sơ ý, hay một câu bị giới tài chính hiểu sai, có thể gây hoảng loạn ở Phố Wall làm giá cổ phiếu lao dốc. Ngược lại, nếu Chủ tịch Fed nói với giọng lạc quan, giá cổ phiếu có thể vọt lên tới mức không bền, làm nhiều nhà đầu tư phá sản khi giá giảm trở lại. Vì những tác động lớn như vậy, có thể lan tới thị trường tài chính khắp thế giới, các Chủ tịch Fed qua nhiều năm đã học cách nói hết sức thận trọng và mập mờ như lời sấm ở đền Delphi (nơi các nhà tiên tri Hy Lạp cổ đưa ra lời phán khó hiểu), khiến người nghe thường không rõ họ thực sự muốn nói gì. Tạp chí *BusinessWeek* viết về Chủ tịch Alan Greenspan, và điều đó cũng đúng với nhiều người tiền nhiệm, rằng Phố Wall và Washington tốn hàng megawatt năng lượng để giải mã những lời như sấm truyền của ông.
+**Lời nói của Chủ tịch Fed.** Vì Fed có đòn bẩy rất lớn, các phát biểu công khai của Chủ tịch Hội đồng Thống đốc Fed bị giới ngân hàng và nhà đầu tư soi kỹ để tìm dấu hiệu Fed sẽ thắt chặt hay nới lỏng cung tiền. Một câu nói sơ ý, hay một câu bị giới tài chính hiểu sai, có thể gây hoảng loạn ở Phố Wall làm giá cổ phiếu lao dốc. Ngược lại, nếu Chủ tịch Fed nói với giọng lạc quan, giá cổ phiếu có thể vọt lên tới mức không bền, làm nhiều nhà đầu tư phá sản khi giá giảm trở lại.
+
+Vì những tác động lớn như vậy, có thể lan tới thị trường tài chính khắp thế giới, các Chủ tịch Fed qua nhiều năm đã học cách nói hết sức thận trọng và mập mờ như lời sấm ở đền Delphi (nơi các nhà tiên tri Hy Lạp cổ đưa ra lời phán khó hiểu), khiến người nghe thường không rõ họ thực sự muốn nói gì. Tạp chí *BusinessWeek* viết về Chủ tịch Alan Greenspan, và điều đó cũng đúng với nhiều người tiền nhiệm, rằng Phố Wall và Washington tốn hàng megawatt năng lượng để giải mã những lời như sấm truyền của ông.
 
 | Sự kiện | Diễn biến |
 |---|---|
@@ -1031,7 +1078,11 @@ Ngân hàng và hệ thống ngân hàng khác nhau giữa các nước, không 
 
 **Các nước hậu cộng sản.** Như nhiều thứ khác, nhìn từ bên ngoài ngân hàng có vẻ dễ: nhận tiền gửi, cho vay phần lớn số đó, thu lãi và chia một phần lãi cho người gửi để họ tiếp tục gửi tiền. Nhưng Sowell nhắc không nên lặp lại sai lầm của Lenin, người đánh giá quá thấp độ phức tạp của kinh doanh nói chung. Đầu thế kỷ 21, một số nước hậu cộng sản gặp khó khăn lớn trong việc xây dựng hệ thống ngân hàng hoạt động trong thị trường tự do. Ở Albania và Cộng hoà Séc, ngân hàng nhận được tiền gửi nhưng bế tắc trong việc cho doanh nghiệp tư vay sao cho có lãi mà giảm thiểu khoản không đòi được.
 
-Tạp chí *The Economist* ở London đưa tin rằng hạ tầng pháp lý ở Albania yếu tới mức giám đốc một ngân hàng ở đó "sợ cho vay". Một ngân hàng Albania khác có cho vay thì phát hiện tài sản thế chấp thu từ một con nợ vỡ nợ "không thể bán được". Một ngân hàng Albania nắm 83% tiền gửi cả nước không cho vay chút nào mà mua chứng khoán chính phủ, lãi thấp nhưng chắc chắn. Theo *The Economist*, hệ quả cho cả nền kinh tế là các doanh nghiệp khát vốn bị tước mất một nguồn tài trợ. Ở Cộng hoà Séc, ngân hàng cho vay rộng tay hơn, và lỗ lớn hơn nhiều; chính phủ phải bù lỗ, và ngân hàng chuyển tài sản sang chứng khoán chính phủ như ở Albania. Những vấn đề này có tự giải quyết theo thời gian không, và mất bao lâu, là câu hỏi của người Séc và người Albania; nhưng sẽ cần thời gian để doanh nghiệp tư có lịch sử hoạt động, chủ ngân hàng tư có thêm kinh nghiệm, và hệ thống pháp luật thích nghi với kinh tế thị trường sau nhiều thập kỷ dưới chế độ kinh tế và chính trị cộng sản. Với phần còn lại của thế giới, kinh nghiệm của họ một lần nữa cho thấy cách tốt để hiểu và đánh giá đúng một chức năng kinh tế là xem điều gì xảy ra khi nó không có hoặc trục trặc.
+Tạp chí *The Economist* ở London đưa tin rằng hạ tầng pháp lý ở Albania yếu tới mức giám đốc một ngân hàng ở đó "sợ cho vay". Một ngân hàng Albania khác có cho vay thì phát hiện tài sản thế chấp thu từ một con nợ vỡ nợ "không thể bán được". Một ngân hàng Albania nắm 83% tiền gửi cả nước không cho vay chút nào mà mua chứng khoán chính phủ, lãi thấp nhưng chắc chắn. Theo *The Economist*, hệ quả cho cả nền kinh tế là các doanh nghiệp khát vốn bị tước mất một nguồn tài trợ.
+
+Ở Cộng hoà Séc, ngân hàng cho vay rộng tay hơn, và lỗ lớn hơn nhiều; chính phủ phải bù lỗ, và ngân hàng chuyển tài sản sang chứng khoán chính phủ như ở Albania.
+
+Những vấn đề này có tự giải quyết theo thời gian không, và mất bao lâu, là câu hỏi của người Séc và người Albania; nhưng sẽ cần thời gian để doanh nghiệp tư có lịch sử hoạt động, chủ ngân hàng tư có thêm kinh nghiệm, và hệ thống pháp luật thích nghi với kinh tế thị trường sau nhiều thập kỷ dưới chế độ kinh tế và chính trị cộng sản. Với phần còn lại của thế giới, kinh nghiệm của họ một lần nữa cho thấy cách tốt để hiểu và đánh giá đúng một chức năng kinh tế là xem điều gì xảy ra khi nó không có hoặc trục trặc.
 
 Như nước Anh vài thế kỷ trước, các nước khối cộng sản cũ đã mời người nước ngoài vào điều hành những định chế tài chính mà người dân nước mình rất khó vận hành. Năm 2006, người nước ngoài sở hữu hơn một nửa tài sản ngân hàng ở Cộng hoà Séc, Slovakia, Romania, Estonia, Litva, Hungary, Bulgaria, Ba Lan và Latvia, với tỷ lệ từ 60% ở Latvia tới gần như toàn bộ ở Estonia.
 
@@ -1039,23 +1090,43 @@ Như nước Anh vài thế kỷ trước, các nước khối cộng sản cũ 
 
 Ở Trung Quốc, nơi tỷ lệ tiết kiệm còn cao hơn Ấn Độ, 90% tiền tiết kiệm vào ngân hàng nhà nước, được cho vay với lãi suất thấp, thực chất trợ cấp cho các doanh nghiệp nhà nước thường có tỷ suất lợi nhuận trên vốn thấp hoặc đang thua lỗ. Tóm lại, phần lớn tiền tiết kiệm của Trung Quốc *không* được phân bổ cho các doanh nghiệp hiệu quả và thịnh vượng nhất (thuộc khu vực tư, có thể có vốn nước ngoài), mà được các quan chức điều hành ngân hàng chuyển tới doanh nghiệp nhà nước.
 
-Dù tình hình ở Ấn Độ và Trung Quốc khác xa điều cần thiết để phân bổ hiệu quả các nguồn lực khan hiếm có nhiều cách dùng khác nhau, nó rất tiện cho quan chức chính phủ. Nếu ngân hàng tư được hoạt động tự do ở các nước này, họ sẽ cho vay hoặc đầu tư vào nơi có lợi suất cao nhất mà an toàn, tức các doanh nghiệp và ngành thịnh vượng nhất. Khi đó ngân hàng tư có thể trả lãi tiền gửi cao hơn, hút tiền tiết kiệm khỏi ngân hàng nhà nước đang trả lãi thấp. Kết quả ròng sẽ là tỷ lệ tiết kiệm cao hơn (vì lãi tiền gửi cao hơn) và phân bổ tiết kiệm hiệu quả hơn cho các doanh nghiệp thành công hơn, dẫn tới tăng trưởng nhanh hơn cho cả nền kinh tế. Nhưng nó cũng gây thêm đau đầu cho quan chức đang cố giữ ngân hàng và doanh nghiệp nhà nước khỏi phá sản. Nhà kinh tế có thể nói những doanh nghiệp kém hiệu quả này nên rời thị trường vì lợi ích của nền kinh tế, nhưng những người có sự nghiệp trong bộ máy nhà nước khó sẵn lòng chịu thiệt hại cho sự nghiệp của chính mình vì lợi ích của người khác.
+Dù tình hình ở Ấn Độ và Trung Quốc khác xa điều cần thiết để phân bổ hiệu quả các nguồn lực khan hiếm có nhiều cách dùng khác nhau, nó rất tiện cho quan chức chính phủ.
+
+Nếu ngân hàng tư được hoạt động tự do ở các nước này, họ sẽ cho vay hoặc đầu tư vào nơi có lợi suất cao nhất mà an toàn, tức các doanh nghiệp và ngành thịnh vượng nhất. Khi đó ngân hàng tư có thể trả lãi tiền gửi cao hơn, hút tiền tiết kiệm khỏi ngân hàng nhà nước đang trả lãi thấp. Kết quả ròng sẽ là tỷ lệ tiết kiệm cao hơn (vì lãi tiền gửi cao hơn) và phân bổ tiết kiệm hiệu quả hơn cho các doanh nghiệp thành công hơn, dẫn tới tăng trưởng nhanh hơn cho cả nền kinh tế.
+
+Nhưng nó cũng gây thêm đau đầu cho quan chức đang cố giữ ngân hàng và doanh nghiệp nhà nước khỏi phá sản. Nhà kinh tế có thể nói những doanh nghiệp kém hiệu quả này nên rời thị trường vì lợi ích của nền kinh tế, nhưng những người có sự nghiệp trong bộ máy nhà nước khó sẵn lòng chịu thiệt hại cho sự nghiệp của chính mình vì lợi ích của người khác.
 
 ### 9. Chính phủ và rủi ro (Government and Risk)
 
-**Ngân hàng thực chất quản lý rủi ro.** Ngân hàng quản lý tiền, nhưng điều chúng cũng phải quản lý là rủi ro. Rút tiền ồ ạt chỉ là một loại rủi ro; cho vay mà không được trả là rủi ro phổ biến hơn, dù ít gây chú ý hơn. Rủi ro nào cũng có thể gây thua lỗ tới mức xoá sổ chính ngân hàng. Chính phủ có thể làm những việc làm tăng hoặc giảm các rủi ro này. Quyền tài sản bấp bênh là một yếu tố nằm trong tầm kiểm soát của chính phủ có tác động lớn tới rủi ro ngân hàng. Vì khủng hoảng ngân hàng có thể tác động tới cả nền kinh tế, ngân hàng hầu như ở mọi nước đều bị chính phủ điều tiết nhiều hơn các ngành khác, nên nội dung cụ thể của việc điều tiết có thể làm ngân hàng rủi ro hơn hoặc ít rủi ro hơn.
+**Ngân hàng thực chất quản lý rủi ro.** Ngân hàng quản lý tiền, nhưng điều chúng cũng phải quản lý là rủi ro. Rút tiền ồ ạt chỉ là một loại rủi ro; cho vay mà không được trả là rủi ro phổ biến hơn, dù ít gây chú ý hơn. Rủi ro nào cũng có thể gây thua lỗ tới mức xoá sổ chính ngân hàng.
 
-**Luật cấm chi nhánh và bảo hiểm tiền gửi cấp bang.** Một trong những cách giảm rủi ro nổi bật nhất ở Mỹ là FDIC. Nhưng trước khi có bảo hiểm tiền gửi liên bang đã có bảo hiểm tiền gửi cấp *bang*. Các luật bảo hiểm tiền gửi cấp bang ra đời vì rủi ro gia tăng do nhiều bang cấm ngân hàng mở chi nhánh. Mục đích của luật cấm chi nhánh có vẻ là bảo vệ ngân hàng địa phương khỏi sự cạnh tranh của các ngân hàng lớn hơn, nổi tiếng hơn có trụ sở ở nơi khác. Tác động ròng là ngân hàng rủi ro hơn, vì cả người gửi tiền lẫn người vay của một ngân hàng đều tập trung ở nơi đặt trụ sở duy nhất của nó. Nếu đó là vùng trồng lúa mì, giá lúa mì trên thị trường thế giới giảm có thể đồng thời làm giảm thu nhập của nhiều người gửi và người vay, tức giảm cả tiền gửi lẫn khoản trả thế chấp và các khoản vay khác.
+Chính phủ có thể làm những việc làm tăng hoặc giảm các rủi ro này. Quyền tài sản bấp bênh là một yếu tố nằm trong tầm kiểm soát của chính phủ có tác động lớn tới rủi ro ngân hàng. Vì khủng hoảng ngân hàng có thể tác động tới cả nền kinh tế, ngân hàng hầu như ở mọi nước đều bị chính phủ điều tiết nhiều hơn các ngành khác, nên nội dung cụ thể của việc điều tiết có thể làm ngân hàng rủi ro hơn hoặc ít rủi ro hơn.
+
+**Luật cấm chi nhánh và bảo hiểm tiền gửi cấp bang.** Một trong những cách giảm rủi ro nổi bật nhất ở Mỹ là FDIC. Nhưng trước khi có bảo hiểm tiền gửi liên bang đã có bảo hiểm tiền gửi cấp *bang*. Các luật bảo hiểm tiền gửi cấp bang ra đời vì rủi ro gia tăng do nhiều bang cấm ngân hàng mở chi nhánh.
+
+Mục đích của luật cấm chi nhánh có vẻ là bảo vệ ngân hàng địa phương khỏi sự cạnh tranh của các ngân hàng lớn hơn, nổi tiếng hơn có trụ sở ở nơi khác. Tác động ròng là ngân hàng rủi ro hơn, vì cả người gửi tiền lẫn người vay của một ngân hàng đều tập trung ở nơi đặt trụ sở duy nhất của nó. Nếu đó là vùng trồng lúa mì, giá lúa mì trên thị trường thế giới giảm có thể đồng thời làm giảm thu nhập của nhiều người gửi và người vay, tức giảm cả tiền gửi lẫn khoản trả thế chấp và các khoản vay khác.
 
 Như vậy, bảo hiểm tiền gửi cấp bang tìm cách xử lý một rủi ro do chính luật ngân hàng cấp bang tạo ra, và nó không đủ sức làm việc đó. Trong thập niên 1920, và nhất là trong Đại Suy thoái, hàng nghìn ngân hàng Mỹ đổ vỡ tập trung áp đảo ở các cộng đồng nhỏ thuộc những bang có luật cấm chi nhánh. Bảo hiểm tiền gửi *liên bang* (Sowell ghi là lập năm 1935) chấm dứt các cơn rút tiền ồ ạt tai hại, nhưng nó giải quyết một vấn đề phần lớn do những can thiệp khác của chính phủ gây ra.
 
 **So sánh với Canada.** Ở Canada, không một ngân hàng nào đổ vỡ trong thời kỳ hàng nghìn ngân hàng Mỹ đổ vỡ, dù chính phủ Canada không có bảo hiểm tiền gửi thời đó. Canada có 10 ngân hàng với 3.000 chi nhánh từ bờ biển này tới bờ biển kia, nên rủi ro của mỗi ngân hàng được chia ra nhiều địa điểm có điều kiện kinh tế khác nhau. Các ngân hàng lớn của Mỹ có nhiều chi nhánh cũng hiếm khi đổ vỡ, kể cả trong Đại Suy thoái.
 
-**Bảo hiểm tiền gửi có thể tạo ra rủi ro.** Bảo hiểm tiền gửi có thể làm tăng rủi ro chứ không chỉ giảm. Người được bảo hiểm trước một rủi ro, dù là rủi ro ngân hàng hay rủi ro với xe hơi, nhà cửa, có thể hành xử liều hơn trước khi có bảo hiểm. Họ có thể đỗ xe ở khu phức tạp hơn nơi họ sẽ đỗ nếu xe không có bảo hiểm phá hoại hay trộm cắp; hay xây nhà ở vùng dễ bị bão, cháy rừng hơn nơi họ sẽ ở nếu không có bảo vệ tài chính khi nhà bị phá huỷ. Định chế tài chính còn có động cơ mạnh hơn để hành xử liều sau khi được bảo hiểm, vì khoản đầu tư rủi ro hơn thường cho lợi suất cao hơn khoản an toàn. Chính phủ đặt các hạn chế lên hoạt động của ngân hàng được FDIC bảo hiểm để giảm thiểu đầu tư rủi ro, nhưng kiềm chế rủi ro không làm động cơ chấp nhận rủi ro biến mất. Hơn nữa, chính phủ có thể đánh giá sai một số trong rất nhiều rủi ro đến rồi đi, khiến người nộp thuế phải gánh khoản lỗ vượt quá tiền phí bảo hiểm tiền gửi thu từ các ngân hàng.
+**Bảo hiểm tiền gửi có thể tạo ra rủi ro.** Bảo hiểm tiền gửi có thể làm tăng rủi ro chứ không chỉ giảm. Người được bảo hiểm trước một rủi ro, dù là rủi ro ngân hàng hay rủi ro với xe hơi, nhà cửa, có thể hành xử liều hơn trước khi có bảo hiểm. Họ có thể đỗ xe ở khu phức tạp hơn nơi họ sẽ đỗ nếu xe không có bảo hiểm phá hoại hay trộm cắp; hay xây nhà ở vùng dễ bị bão, cháy rừng hơn nơi họ sẽ ở nếu không có bảo vệ tài chính khi nhà bị phá huỷ.
 
-**Luật Tái đầu tư Cộng đồng.** Giống như ở Trung Quốc, Ấn Độ và các nước khác, nơi quan chức can thiệp để hướng tín dụng tới người vay họ ưu ái thay vì tới người vay mà ngân hàng tự chọn, ở Mỹ Luật Tái đầu tư Cộng đồng (Community Reinvestment Act) năm 1977 tìm cách hướng đầu tư vào các cộng đồng thu nhập thấp, kể cả cho vay thế chấp mua nhà với người thu nhập thấp và trung bình. Luật này gần như ngủ yên nhiều năm, rồi được làm sống lại trong thập niên 1990 trong nỗ lực giúp những người khó được duyệt vay thế chấp (vì thu nhập thấp, lịch sử tín dụng dưới chuẩn hoặc không đủ tiền trả trước 20%) vẫn mua được nhà. Dưới áp lực và đe doạ của chính phủ, ngân hàng bắt đầu hạ chuẩn duyệt vay thế chấp để đạt mục tiêu hoặc chỉ tiêu của chính phủ. Kết quả ròng, ở Mỹ cũng như ở các nước khác, là cho vay rủi ro hơn và tỷ lệ vỡ nợ cao hơn vào đầu thế kỷ 21. Điều này góp phần làm sụp đổ các ngân hàng, định chế cho vay khác, và các công ty Phố Wall có tài sản dựa trên thế chấp, vì giá trị những tài sản đó rốt cuộc phụ thuộc vào các khoản trả thế chấp hằng tháng ngày càng không đến.
+Định chế tài chính còn có động cơ mạnh hơn để hành xử liều sau khi được bảo hiểm, vì khoản đầu tư rủi ro hơn thường cho lợi suất cao hơn khoản an toàn. Chính phủ đặt các hạn chế lên hoạt động của ngân hàng được FDIC bảo hiểm để giảm thiểu đầu tư rủi ro, nhưng kiềm chế rủi ro không làm động cơ chấp nhận rủi ro biến mất. Hơn nữa, chính phủ có thể đánh giá sai một số trong rất nhiều rủi ro đến rồi đi, khiến người nộp thuế phải gánh khoản lỗ vượt quá tiền phí bảo hiểm tiền gửi thu từ các ngân hàng.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Chị Lan để dành 100 triệu đồng tiền mặt trong két ở nhà. Giả sử trong 10 năm, mỗi năm giá cả tăng 4%. Sau 10 năm, mặt bằng giá cao hơn khoảng 48% (1,04 mũ 10 bằng khoảng 1,48), nên 100 triệu đồng của chị chỉ còn mua được lượng hàng mà khoảng 67,6 triệu đồng mua được lúc đầu. Không ai gửi cho chị giấy báo thuế, nhưng chị đã mất khoảng một phần ba sức mua: đó là "thuế ẩn" theo cách nói của Sowell. Anh Minh, hàng xóm, dùng 100 triệu đồng đó mua một mảnh đất nhỏ có giá tăng theo lạm phát, nên tránh được phần lớn mất mát này, đúng như Sowell nói người giàu có tài sản hữu hình tránh được một phần thuế lạm phát mà người giữ tiền mặt không tránh được. Bây giờ giả sử chị Lan gửi 100 triệu vào một ngân hàng chỉ giữ 10 triệu làm dự trữ và cho vay 90 triệu. Ngày thường không có vấn đề gì vì mỗi ngày chỉ vài người gửi rút tiền. Nhưng nếu có tin đồn ngân hàng sắp phá sản và một nửa số người gửi cùng kéo tới đòi tiền, ngân hàng không thể đòi ngay 90 triệu đã cho vay mua nhà trả góp 20 năm; ngân hàng vẫn có đủ tài sản nhưng thiếu thanh khoản, và có thể sụp đổ. Nếu tiền gửi được nhà nước bảo hiểm, chị Lan không có lý do chạy tới rút tiền, nên cơn rút tiền ồ ạt khó xảy ra; nhưng chính vì người gửi không còn lo, ngân hàng có thể bị cám dỗ cho vay những dự án rủi ro hơn để thu lãi cao hơn.
+**Luật Tái đầu tư Cộng đồng.** Giống như ở Trung Quốc, Ấn Độ và các nước khác, nơi quan chức can thiệp để hướng tín dụng tới người vay họ ưu ái thay vì tới người vay mà ngân hàng tự chọn, ở Mỹ Luật Tái đầu tư Cộng đồng (Community Reinvestment Act) năm 1977 tìm cách hướng đầu tư vào các cộng đồng thu nhập thấp, kể cả cho vay thế chấp mua nhà với người thu nhập thấp và trung bình.
+
+Luật này gần như ngủ yên nhiều năm, rồi được làm sống lại trong thập niên 1990 trong nỗ lực giúp những người khó được duyệt vay thế chấp (vì thu nhập thấp, lịch sử tín dụng dưới chuẩn hoặc không đủ tiền trả trước 20%) vẫn mua được nhà. Dưới áp lực và đe doạ của chính phủ, ngân hàng bắt đầu hạ chuẩn duyệt vay thế chấp để đạt mục tiêu hoặc chỉ tiêu của chính phủ.
+
+Kết quả ròng, ở Mỹ cũng như ở các nước khác, là cho vay rủi ro hơn và tỷ lệ vỡ nợ cao hơn vào đầu thế kỷ 21. Điều này góp phần làm sụp đổ các ngân hàng, định chế cho vay khác, và các công ty Phố Wall có tài sản dựa trên thế chấp, vì giá trị những tài sản đó rốt cuộc phụ thuộc vào các khoản trả thế chấp hằng tháng ngày càng không đến.
+
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Chị Lan để dành 100 triệu đồng tiền mặt trong két ở nhà. Giả sử trong 10 năm, mỗi năm giá cả tăng 4%. Sau 10 năm, mặt bằng giá cao hơn khoảng 48% (1,04 mũ 10 bằng khoảng 1,48), nên 100 triệu đồng của chị chỉ còn mua được lượng hàng mà khoảng 67,6 triệu đồng mua được lúc đầu. Không ai gửi cho chị giấy báo thuế, nhưng chị đã mất khoảng một phần ba sức mua: đó là "thuế ẩn" theo cách nói của Sowell.
+
+Anh Minh, hàng xóm, dùng 100 triệu đồng đó mua một mảnh đất nhỏ có giá tăng theo lạm phát, nên tránh được phần lớn mất mát này, đúng như Sowell nói người giàu có tài sản hữu hình tránh được một phần thuế lạm phát mà người giữ tiền mặt không tránh được.
+
+Bây giờ giả sử chị Lan gửi 100 triệu vào một ngân hàng chỉ giữ 10 triệu làm dự trữ và cho vay 90 triệu. Ngày thường không có vấn đề gì vì mỗi ngày chỉ vài người gửi rút tiền. Nhưng nếu có tin đồn ngân hàng sắp phá sản và một nửa số người gửi cùng kéo tới đòi tiền, ngân hàng không thể đòi ngay 90 triệu đã cho vay mua nhà trả góp 20 năm; ngân hàng vẫn có đủ tài sản nhưng thiếu thanh khoản, và có thể sụp đổ.
+
+Nếu tiền gửi được nhà nước bảo hiểm, chị Lan không có lý do chạy tới rút tiền, nên cơn rút tiền ồ ạt khó xảy ra; nhưng chính vì người gửi không còn lo, ngân hàng có thể bị cám dỗ cho vay những dự án rủi ro hơn để thu lãi cao hơn.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -1177,31 +1248,222 @@ Tiền không phải là của cải của quốc gia, mà là phương tiện g
 
 ### Sức mạnh của chương là giải thích tiền mà không cần một công thức nào
 
-Sowell trình bày thuyết số lượng tiền tệ, tốc độ lưu thông, giảm phát nợ, số nhân tiền và rủi ro đạo đức mà không dùng một phương trình nào và rất ít thuật ngữ chuyên môn (các tên gọi sách giáo khoa như "thuyết số lượng tiền tệ" hay "rủi ro đạo đức" không xuất hiện trong chương). Câu mở đầu (in gấp đôi tiền không làm ai giàu gấp đôi) đủ để người đọc bỏ ngay ảo tưởng phổ biến nhất về tiền. Ví dụ thợ kim hoàn và bù trừ séc giữa Acme và Zebra làm rõ cơ chế tạo tín dụng mà nhiều người học kinh tế nhiều năm vẫn mơ hồ. Ví dụ đảo Yap là một chi tiết đẹp: hệ thống tiền sơ khai nhất lại giống hệ thống hiện đại nhất ở chỗ thứ đổi chủ là quyền sở hữu, không phải vật. Cách Sowell xếp lạm phát và giảm phát cạnh nhau, cùng một logic về các nghĩa vụ ghi bằng tiền và tốc độ lưu thông, giúp người đọc thấy chúng là hai mặt của cùng một vấn đề.
+Sowell trình bày thuyết số lượng tiền tệ, tốc độ lưu thông, giảm phát nợ, số nhân tiền và rủi ro đạo đức mà không dùng một phương trình nào và rất ít thuật ngữ chuyên môn (các tên gọi sách giáo khoa như "thuyết số lượng tiền tệ" hay "rủi ro đạo đức" không xuất hiện trong chương). Câu mở đầu (in gấp đôi tiền không làm ai giàu gấp đôi) đủ để người đọc bỏ ngay ảo tưởng phổ biến nhất về tiền.
+
+Ví dụ thợ kim hoàn và bù trừ séc giữa Acme và Zebra làm rõ cơ chế tạo tín dụng mà nhiều người học kinh tế nhiều năm vẫn mơ hồ. Ví dụ đảo Yap là một chi tiết đẹp: hệ thống tiền sơ khai nhất lại giống hệ thống hiện đại nhất ở chỗ thứ đổi chủ là quyền sở hữu, không phải vật. Cách Sowell xếp lạm phát và giảm phát cạnh nhau, cùng một logic về các nghĩa vụ ghi bằng tiền và tốc độ lưu thông, giúp người đọc thấy chúng là hai mặt của cùng một vấn đề.
 
 ### Phần về ngân hàng trung ương mô tả một khung điều hành nay đã cũ
 
-Sowell mô tả Fed kiểm soát cung tiền bằng cách quy định tỷ lệ dự trữ bắt buộc và đặt lãi suất cho ngân hàng vay. Ngay khi sách ra đời, cách Fed vận hành đã khác: từ 2008 Fed trả lãi trên tiền dự trữ ngân hàng gửi tại Fed và mua tài sản quy mô lớn (chính Sowell nhắc tới việc mua trái phiếu thời Bernanke), và từ 2020 tỷ lệ dự trữ bắt buộc ở Mỹ là 0. Nhiều nhà kinh tế, kể cả trong các ngân hàng trung ương, còn cho rằng mô hình "số nhân tiền" (ngân hàng nhận tiền gửi trước rồi mới cho vay) đơn giản hoá quá mức: trong thực tế ngân hàng cho vay trước và tạo ra tiền gửi, bị giới hạn chủ yếu bởi lãi suất, nhu cầu vay, quy định về vốn và thanh khoản hơn là bởi tỷ lệ dự trữ. Bài học cốt lõi của Sowell (ngân hàng tạo ra tín dụng, và tín dụng biến mất thì tổng cầu co lại) vẫn đúng, nhưng người đọc không nên hiểu câu chữ về công cụ của Fed như mô tả hiện hành. Sowell cũng gọi Fed là "ngân hàng trung ương do chính phủ điều hành"; về mặt pháp lý, Fed có cấu trúc lai, với các Ngân hàng Dự trữ Liên bang khu vực do ngân hàng thành viên góp vốn và một Hội đồng Thống đốc do Tổng thống bổ nhiệm.
+Sowell mô tả Fed kiểm soát cung tiền bằng cách quy định tỷ lệ dự trữ bắt buộc và đặt lãi suất cho ngân hàng vay. Ngay khi sách ra đời, cách Fed vận hành đã khác: từ 2008 Fed trả lãi trên tiền dự trữ ngân hàng gửi tại Fed và mua tài sản quy mô lớn (chính Sowell nhắc tới việc mua trái phiếu thời Bernanke), và từ 2020 tỷ lệ dự trữ bắt buộc ở Mỹ là 0.
+
+Nhiều nhà kinh tế, kể cả trong các ngân hàng trung ương, còn cho rằng mô hình "số nhân tiền" (ngân hàng nhận tiền gửi trước rồi mới cho vay) đơn giản hoá quá mức: trong thực tế ngân hàng cho vay trước và tạo ra tiền gửi, bị giới hạn chủ yếu bởi lãi suất, nhu cầu vay, quy định về vốn và thanh khoản hơn là bởi tỷ lệ dự trữ.
+
+Bài học cốt lõi của Sowell (ngân hàng tạo ra tín dụng, và tín dụng biến mất thì tổng cầu co lại) vẫn đúng, nhưng người đọc không nên hiểu câu chữ về công cụ của Fed như mô tả hiện hành. Sowell cũng gọi Fed là "ngân hàng trung ương do chính phủ điều hành"; về mặt pháp lý, Fed có cấu trúc lai, với các Ngân hàng Dự trữ Liên bang khu vực do ngân hàng thành viên góp vốn và một Hội đồng Thống đốc do Tổng thống bổ nhiệm.
 
 ### Lý giải về khủng hoảng 2008 qua Luật Tái đầu tư Cộng đồng là quan điểm bị tranh cãi mạnh
 
-Đoạn cuối chương quy một phần nguyên nhân khủng hoảng thế chấp đầu thế kỷ 21 cho Luật Tái đầu tư Cộng đồng. Đây là quan điểm có người ủng hộ, nhưng nhiều nghiên cứu phản bác: phần lớn các khoản vay dưới chuẩn tệ nhất được phát hành bởi các công ty cho vay không thuộc diện điều chỉnh của luật này, và các khoản vay theo luật này có tỷ lệ vỡ nợ không cao hơn rõ rệt. Các giải thích khác nhấn mạnh lãi suất thấp kéo dài, chứng khoán hoá và xếp hạng tín nhiệm sai lệch, đòn bẩy cao của ngân hàng đầu tư, và vai trò của hai công ty bảo lãnh thế chấp được chính phủ hậu thuẫn. Sowell trình bày luận điểm của mình rất ngắn trong chương này; người đọc nên coi nó là một mắt xích trong cuộc tranh luận, không phải kết luận đã được thống nhất.
+Đoạn cuối chương quy một phần nguyên nhân khủng hoảng thế chấp đầu thế kỷ 21 cho Luật Tái đầu tư Cộng đồng. Đây là quan điểm có người ủng hộ, nhưng nhiều nghiên cứu phản bác: phần lớn các khoản vay dưới chuẩn tệ nhất được phát hành bởi các công ty cho vay không thuộc diện điều chỉnh của luật này, và các khoản vay theo luật này có tỷ lệ vỡ nợ không cao hơn rõ rệt.
+
+Các giải thích khác nhấn mạnh lãi suất thấp kéo dài, chứng khoán hoá và xếp hạng tín nhiệm sai lệch, đòn bẩy cao của ngân hàng đầu tư, và vai trò của hai công ty bảo lãnh thế chấp được chính phủ hậu thuẫn. Sowell trình bày luận điểm của mình rất ngắn trong chương này; người đọc nên coi nó là một mắt xích trong cuộc tranh luận, không phải kết luận đã được thống nhất.
 
 ### Lời phê phán Fed thời Đại Suy thoái được chính Fed về sau thừa nhận
 
-Câu đề từ của Friedman và các ví dụ về Fed năm 1931 dựa trên công trình kinh điển của Friedman và Anna Schwartz về lịch sử tiền tệ Mỹ. Quan điểm rằng Fed đã để cung tiền co lại và đổ vỡ ngân hàng lan rộng nay là đồng thuận rộng rãi trong giới kinh tế. Năm 2002, Ben Bernanke, khi còn là thành viên Hội đồng Thống đốc Fed, đã công khai nói với Friedman rằng Fed đã gây ra Đại Suy thoái và sẽ không lặp lại sai lầm đó. Điều thú vị là chính bài học này giải thích những gì Fed làm trong khủng hoảng 2008 và 2020 (bơm tiền mạnh, mua tài sản), mà Sowell chỉ nhắc tới qua phản ứng thị trường với lời nói của Bernanke. Một số người đọc có thể thấy căng thẳng trong lập luận của Sowell: ông phê phán Fed thập niên 1930 vì không tăng cung tiền, nhưng cũng cảnh báo về lạm phát khi chính phủ có quyền in tiền không giới hạn; theo cách hiểu của người tổng hợp, hai ý không mâu thuẫn, vì cả hai cùng phê phán việc cung tiền bị chi phối bởi động cơ chính trị hay sai lầm của quan chức, theo hướng nào cũng vậy.
+Câu đề từ của Friedman và các ví dụ về Fed năm 1931 dựa trên công trình kinh điển của Friedman và Anna Schwartz về lịch sử tiền tệ Mỹ. Quan điểm rằng Fed đã để cung tiền co lại và đổ vỡ ngân hàng lan rộng nay là đồng thuận rộng rãi trong giới kinh tế. Năm 2002, Ben Bernanke, khi còn là thành viên Hội đồng Thống đốc Fed, đã công khai nói với Friedman rằng Fed đã gây ra Đại Suy thoái và sẽ không lặp lại sai lầm đó.
+
+Điều thú vị là chính bài học này giải thích những gì Fed làm trong khủng hoảng 2008 và 2020 (bơm tiền mạnh, mua tài sản), mà Sowell chỉ nhắc tới qua phản ứng thị trường với lời nói của Bernanke.
+
+Một số người đọc có thể thấy căng thẳng trong lập luận của Sowell: ông phê phán Fed thập niên 1930 vì không tăng cung tiền, nhưng cũng cảnh báo về lạm phát khi chính phủ có quyền in tiền không giới hạn; theo cách hiểu của người tổng hợp, hai ý không mâu thuẫn, vì cả hai cùng phê phán việc cung tiền bị chi phối bởi động cơ chính trị hay sai lầm của quan chức, theo hướng nào cũng vậy.
 
 ### Từ 2014, nhiều diễn biến xác nhận lẫn thách thức các lập luận của chương
 
-Nói định tính: lạm phát cao ở Mỹ và châu Âu những năm 2021–2023, sau các gói chi tiêu và bơm tiền lớn thời đại dịch, là minh hoạ cho lập luận rằng tiền tăng nhanh hơn hàng thì giá tăng, và cho thấy lạm phát làm người thu nhập thấp chịu thiệt nhiều. Mặt khác, giai đoạn 2009–2019, khi Fed và nhiều ngân hàng trung ương bơm lượng tiền rất lớn mà lạm phát giá tiêu dùng vẫn thấp, cho thấy quan hệ giữa cung tiền và giá không đơn giản như ví dụ của Sowell: tốc độ lưu thông có thể giảm mạnh và tiền mới có thể nằm im trong dự trữ ngân hàng. Giá vàng tăng mạnh trong những năm gần đây xác nhận nhận xét của Sowell rằng vàng phản ánh nỗi lo về giá trị của các đồng tiền. Vụ sụp đổ của Silicon Valley Bank năm 2023 cho thấy rủi ro rút tiền ồ ạt vẫn còn, nay diễn ra trong vài giờ qua ứng dụng ngân hàng, và rằng ngân hàng có thể sụp đổ vì nắm nhiều trái phiếu dài hạn mất giá khi lãi suất tăng, đúng vấn đề thanh khoản mà Sowell giải thích bằng ví dụ trái phiếu kho bạc. Sự xuất hiện của tiền mã hoá cũng là một thí nghiệm sống với ý tưởng của Sowell: một thứ chỉ thành tiền khi được người khác chấp nhận để trả cho hàng hoá thật.
+Nói định tính: lạm phát cao ở Mỹ và châu Âu những năm 2021–2023, sau các gói chi tiêu và bơm tiền lớn thời đại dịch, là minh hoạ cho lập luận rằng tiền tăng nhanh hơn hàng thì giá tăng, và cho thấy lạm phát làm người thu nhập thấp chịu thiệt nhiều.
+
+Mặt khác, giai đoạn 2009–2019, khi Fed và nhiều ngân hàng trung ương bơm lượng tiền rất lớn mà lạm phát giá tiêu dùng vẫn thấp, cho thấy quan hệ giữa cung tiền và giá không đơn giản như ví dụ của Sowell: tốc độ lưu thông có thể giảm mạnh và tiền mới có thể nằm im trong dự trữ ngân hàng.
+
+Giá vàng tăng mạnh trong những năm gần đây xác nhận nhận xét của Sowell rằng vàng phản ánh nỗi lo về giá trị của các đồng tiền. Vụ sụp đổ của Silicon Valley Bank năm 2023 cho thấy rủi ro rút tiền ồ ạt vẫn còn, nay diễn ra trong vài giờ qua ứng dụng ngân hàng, và rằng ngân hàng có thể sụp đổ vì nắm nhiều trái phiếu dài hạn mất giá khi lãi suất tăng, đúng vấn đề thanh khoản mà Sowell giải thích bằng ví dụ trái phiếu kho bạc. Sự xuất hiện của tiền mã hoá cũng là một thí nghiệm sống với ý tưởng của Sowell: một thứ chỉ thành tiền khi được người khác chấp nhận để trả cho hàng hoá thật.
 
 ### Quan điểm trái chiều: bản vị vàng không được đa số nhà kinh tế ủng hộ
 
-Sowell trình bày vàng một cách cân bằng (ông thừa nhận bản vị vàng không ngăn được lạm phát hay giảm phát), nhưng rõ ràng thiện cảm với cơ chế giới hạn quyền in tiền của chính phủ. Phần lớn nhà kinh tế hiện nay không ủng hộ quay lại bản vị vàng. Lý do chính nằm ngay trong chương: dưới bản vị vàng, cung tiền phụ thuộc vào việc phát hiện mỏ vàng, nên giá cả biến động theo những sự kiện không liên quan tới nhu cầu của nền kinh tế (giảm phát 1873–1896, lạm phát sau các cơn sốt vàng). Nhiều nghiên cứu còn cho thấy các nước rời bản vị vàng sớm hơn trong thập niên 1930 phục hồi nhanh hơn. Giải pháp phổ biến hiện nay cho vấn đề Sowell nêu (chính phủ bị cám dỗ in tiền) là ngân hàng trung ương độc lập với mục tiêu lạm phát rõ ràng; giải pháp này có thành tích tốt từ thập niên 1990 nhưng cũng chịu thử thách trong đợt lạm phát 2021–2023.
+Sowell trình bày vàng một cách cân bằng (ông thừa nhận bản vị vàng không ngăn được lạm phát hay giảm phát), nhưng rõ ràng thiện cảm với cơ chế giới hạn quyền in tiền của chính phủ. Phần lớn nhà kinh tế hiện nay không ủng hộ quay lại bản vị vàng.
+
+Lý do chính nằm ngay trong chương: dưới bản vị vàng, cung tiền phụ thuộc vào việc phát hiện mỏ vàng, nên giá cả biến động theo những sự kiện không liên quan tới nhu cầu của nền kinh tế (giảm phát 1873–1896, lạm phát sau các cơn sốt vàng). Nhiều nghiên cứu còn cho thấy các nước rời bản vị vàng sớm hơn trong thập niên 1930 phục hồi nhanh hơn. Giải pháp phổ biến hiện nay cho vấn đề Sowell nêu (chính phủ bị cám dỗ in tiền) là ngân hàng trung ương độc lập với mục tiêu lạm phát rõ ràng; giải pháp này có thành tích tốt từ thập niên 1990 nhưng cũng chịu thử thách trong đợt lạm phát 2021–2023.
 
 ### Vận dụng: khi nghe về tiền, lãi suất và ngân hàng, hãy hỏi ai đang trả "thuế ẩn" và ai đang gánh rủi ro
 
 - **Trong doanh nghiệp.** Hợp đồng dài hạn ghi cố định bằng tiền (thuê mặt bằng, vay nợ, lương theo hợp đồng) là đặt cược ngầm vào lạm phát: lạm phát cao làm lợi cho bên trả tiền, giảm phát làm lợi cho bên nhận. Doanh nghiệp nên biết mình đang đứng ở phía nào và cân nhắc các điều khoản điều chỉnh theo giá. Hạn mức tín dụng ngân hàng là tấm đệm thanh khoản quan trọng, nhưng nó có thể bị thu hẹp đúng lúc khó khăn nhất; giữ một phần dự trữ tiền riêng là cách tự bảo hiểm.
 - **Trong đầu tư.** Tiền mặt và tiền gửi chịu "thuế ẩn" của lạm phát; tài sản hữu hình và cổ phiếu tránh được một phần, như Sowell nhận xét. Khi đánh giá một ngân hàng, cần nhìn cả khả năng trả nợ lẫn tính thanh khoản: tỷ lệ cho vay so với tiền gửi, kỳ hạn tài sản so với kỳ hạn tiền gửi, và mức tập trung của khách hàng theo vùng hay ngành (bài học từ luật cấm chi nhánh ở Mỹ). Lời nói của người đứng đầu ngân hàng trung ương có thể làm thị trường biến động mạnh, như ví dụ Greenspan và Bernanke; phản ứng theo từng câu chữ thường là đánh cược ngắn hạn.
 - **Trong nghề nghiệp.** Hiểu cơ chế tạo tín dụng, thanh khoản và rủi ro đạo đức là nền tảng cho người làm ngân hàng, kiểm toán, quản lý rủi ro hay hoạch định tài chính doanh nghiệp. Khi đàm phán lương nhiều năm, cần tính tới lạm phát dự kiến; mức lương bằng tiền không đổi trong thời lạm phát là mức lương thật giảm.
-- **Khi đọc tin chính sách.** Ở Việt Nam, khi đọc tin về tăng trưởng tín dụng, lãi suất điều hành hay tỷ giá, có thể hỏi: lượng tiền và tín dụng đang tăng nhanh hơn hay chậm hơn sản lượng? Khi có tin đồn về một ngân hàng và người dân xếp hàng rút tiền, bài học của Sowell về rút tiền ồ ạt và vai trò của bảo hiểm tiền gửi cùng sự can thiệp của ngân hàng trung ương giúp hiểu vì sao cơ quan quản lý thường phản ứng nhanh để giữ lòng tin. Thói quen giữ vàng và ngoại tệ của nhiều hộ gia đình có thể đọc theo cách Sowell đọc trường hợp Ấn Độ: đó là phản ứng hợp lý trước ký ức về lạm phát, nhưng làm một phần tiết kiệm không chảy vào đầu tư sản xuất. Các chương trình tín dụng chỉ định hay ưu đãi theo mục tiêu chính sách cũng nên được xem xét bằng câu hỏi của Sowell: nó có làm hạ chuẩn cho vay và dồn rủi ro về sau cho ngân hàng và người nộp thuế không.
+- **Khi đọc tin chính sách.** Ở Việt Nam, khi đọc tin về tăng trưởng tín dụng, lãi suất điều hành hay tỷ giá, có thể hỏi: lượng tiền và tín dụng đang tăng nhanh hơn hay chậm hơn sản lượng? Khi có tin đồn về một ngân hàng và người dân xếp hàng rút tiền, bài học của Sowell về rút tiền ồ ạt và vai trò của bảo hiểm tiền gửi cùng sự can thiệp của ngân hàng trung ương giúp hiểu vì sao cơ quan quản lý thường phản ứng nhanh để giữ lòng tin.
+
+  Thói quen giữ vàng và ngoại tệ của nhiều hộ gia đình có thể đọc theo cách Sowell đọc trường hợp Ấn Độ: đó là phản ứng hợp lý trước ký ức về lạm phát, nhưng làm một phần tiết kiệm không chảy vào đầu tư sản xuất. Các chương trình tín dụng chỉ định hay ưu đãi theo mục tiêu chính sách cũng nên được xem xét bằng câu hỏi của Sowell: nó có làm hạ chuẩn cho vay và dồn rủi ro về sau cho ngân hàng và người nộp thuế không.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 17 trên một trang: sáu nhánh lớn đi theo các mục 1–9 của phần Nội dung chi tiết (vai trò của tiền, lạm phát, giảm phát, hệ thống ngân hàng và dự trữ một phần, luật lệ và rủi ro ngân hàng), mỗi nhánh ghi cơ chế nhân quả, ví dụ lịch sử, quốc gia và con số then chốt của Sowell; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 17: tiền không phải của cải, nhưng tổng lượng tiền và tín dụng quyết định tổng cầu của cả nước`"]
+  n1["`Mục 1–2 — Tiền là phương tiện trao đổi, không phải của cải`"]
+  n0 --- n1
+  n2["`Nếu tiền là của cải, chính phủ chỉ cần in gấp đôi tiền là mọi người giàu gấp đôi`"]
+  n1 --- n2
+  n3["`Hàng đổi hàng bất tiện: người làm ghế không đổi một cái ghế lấy một quả táo`"]
+  n1 --- n3
+  n4["`Thứ gì được chấp nhận khi bán hàng thật đều thành tiền: biên nhận kho thuốc lá, rượu gin, đá đảo Yap`"]
+  n1 --- n4
+  n5["`Quy luật Gresham trong trại tù binh: thuốc lá kém nhất làm tiền, loại ngon nhất bị đem hút`"]
+  n4 --- n5
+  n6["`Với cá nhân tiền tương đương của cải, với cả nền kinh tế tiền chỉ là công cụ chuyển giao của cải`"]
+  n1 --- n6
+  n7["`Argentina 2002 tiền tệ sụp đổ: câu lạc bộ trueque đổi nửa tấn củi lấy 220 pound bánh mì`"]
+  n1 --- n7
+  n8["`Đại Suy thoái: khoảng 150 hệ thống đổi hàng hoặc scrip ở 30 bang Mỹ`"]
+  n7 --- n8
+  n9["`Pháp thập niên 1790 xử tử người từ chối bán hàng lấy tiền: in tiền không bảo đảm dân chấp nhận`"]
+  n1 --- n9
+  n10["`Mục 3 — Lạm phát: tiền tăng nhanh hơn hàng, và là một thứ thuế ẩn`"]
+  n0 --- n10
+  n11["`Lạm phát xảy ra khi ở mức giá hiện hành lượng cầu vượt lượng cung trên toàn nền kinh tế`"]
+  n10 --- n11
+  n12["`Alexander tiêu kho báu Ba Tư làm giá Hy Lạp tăng, vàng châu Mỹ của Tây Ban Nha làm giá khắp châu Âu tăng`"]
+  n10 --- n12
+  n13["`Vàng bảo chứng không truyền giá trị cho tiền giấy, chỉ giới hạn lượng tiền giấy được phát hành`"]
+  n10 --- n13
+  n14["`Đô la ngừng đổi ra vàng từ 1933, lượng tiền chỉ còn bị giới hạn bởi phản ứng chính trị`"]
+  n13 --- n14
+  n15["`Một đô la năm 1960 mua gấp sáu lần năm 2013: người để dành mất hơn bốn phần năm giá trị`"]
+  n13 --- n15
+  n16["`Thuế ẩn: sức mua người giữ tiền mất đi lặng lẽ chuyển sang chính phủ, không cần luật tăng thuế`"]
+  n10 --- n16
+  n17["`Chiến tranh cần nửa sản lượng: in tiền mua vật tư quân sự thay vì đánh thuế 50% thu nhập`"]
+  n16 --- n17
+  n18["`Đánh cả người nghèo, người giàu giữ cổ phiếu, bất động sản tránh được một phần`"]
+  n16 --- n18
+  n19["`Trước khi có máy in: giảm lượng vàng bạc trong đồng xu cùng mệnh giá`"]
+  n16 --- n19
+  n20["`Tổng cầu gồm cả tín dụng từ thẻ, séc, giấy nợ, tín dụng bị thanh lý thì tổng cầu giảm`"]
+  n10 --- n20
+  n21["`Mất lòng tin thì tiêu tiền nhanh hơn: Nga 1921 tiền gấp hàng trăm lần, giá gấp hàng nghìn lần năm 1913`"]
+  n10 --- n21
+  n22["`Đức: 40 mác đổi 1 đô la tháng 7/1920, hơn 4.000 tỷ mác tháng 11/1923, hơn 1.700 máy in`"]
+  n21 --- n22
+  n23["`Giá vàng theo nỗi sợ lạm phát: tăng 135% năm 1979, từ 800 xuống 250 USD một ounce năm 1999`"]
+  n10 --- n23
+  n24["`Mỹ Latinh 1990 lạm phát khoảng 600% một năm, sản lượng thật giảm tuyệt đối`"]
+  n10 --- n24
+  n25["`Mục 4 — Giảm phát: các khoản ghi cố định bằng tiền nặng thêm`"]
+  n0 --- n25
+  n26["`1873–1896 dưới bản vị vàng, sản lượng tăng nhanh hơn vàng: giá giảm 22% ở Anh, 32% ở Mỹ`"]
+  n25 --- n26
+  n27["`Cung tiền Mỹ giảm một phần ba 1929–1933, thế chấp và tiền thuê nặng hơn về sức mua thật`"]
+  n25 --- n27
+  n28["`Lương hợp đồng chỉ có lợi nếu giữ được việc, hơn 9.000 ngân hàng ngừng hoạt động 1930–1933`"]
+  n27 --- n28
+  n29["`Thời suy thoái người ta giữ tiền lâu hơn, tiền lưu thông chậm làm cầu và việc làm giảm thêm`"]
+  n27 --- n29
+  n30["`Fed tăng lãi suất năm 1931 gần đáy suy thoái: Friedman gọi là vụng về, Galbraith gọi kém cỏi đến kinh ngạc`"]
+  n25 --- n30
+  n31["`Hoover và Roosevelt giữ lương bằng tiền: lương thật cao hơn nghĩa là ít việc làm hơn`"]
+  n25 --- n31
+  n32["`Lippmann 1934: ai đòi lương trước suy thoái thì thất nghiệp`"]
+  n31 --- n32
+  n33["`Hỗ trợ giá nông sản dẫn tới tiêu huỷ lương thực giữa lúc nạn đói lan rộng`"]
+  n31 --- n33
+  n34["`Lúa mì từ khoảng 1 đô la xuống dưới 50 xu một giạ, Bryan năm 1896 đòi bỏ bản vị vàng`"]
+  n25 --- n34
+  n35["`Mỏ vàng mới ở Nam Phi, Úc, Alaska làm giá tăng lần đầu sau 20 năm`"]
+  n34 --- n35
+  n36["`Bản vị vàng không ngăn được lạm phát hay giảm phát, chỉ giữ chúng trong biên độ hẹp hơn`"]
+  n25 --- n36
+  n37["`Mục 5–7 — Ngân hàng: gộp rủi ro, chuyển tiết kiệm và tạo ra tín dụng`"]
+  n0 --- n37
+  n38["`Canh giữ tiền có lợi thế quy mô, chưa Ngân hàng Dự trữ Liên bang nào từng bị cướp`"]
+  n37 --- n38
+  n39["`Hạn mức tín dụng và quỹ chung chuyển rủi ro tới nơi chi phí gánh rủi ro thấp hơn`"]
+  n37 --- n39
+  n40["`Trung gian tài chính gom tiền nhỏ của nhiều người cho tập đoàn lớn, nơi thiếu chúng thường nghèo dù giàu tài nguyên`"]
+  n37 --- n40
+  n41["`Visa: 14.800 ngân hàng cấp tiền cho hơn 100 triệu người dùng thẻ mua của 20 triệu người bán`"]
+  n40 --- n41
+  n42["`Thợ kim hoàn giữ một phần ba vàng, cho vay hai phần ba: tổng lượng tiền tăng`"]
+  n37 --- n42
+  n43["`Bù trừ séc Acme và Zebra: 200.000 USD thanh toán hơn 2 triệu USD tiền séc`"]
+  n42 --- n43
+  n44["`Thanh khoản là đổi ra tiền mà không mất giá trị: bán kim cương lấy một hào thì nhanh nhưng không thanh khoản`"]
+  n37 --- n44
+  n45["`Rút tiền ồ ạt: dự trữ một phần ba mà một nửa người gửi đòi tiền thì ngân hàng sụp đổ`"]
+  n37 --- n45
+  n46["`Nhiều ngân hàng sụp cùng lúc thì tín dụng biến mất, tổng cầu bằng tiền Đại Suy thoái co lại một phần ba`"]
+  n45 --- n46
+  n47["`FDIC là bức tường chắn lửa, Fed quy định tỷ lệ dự trữ và lãi suất cho ngân hàng vay`"]
+  n37 --- n47
+  n48["`Bernanke tháng 5/2013 nói Fed có thể giảm mua trái phiếu: chứng khoán Nhật mất 21%, thế giới mất 3.000 tỷ USD`"]
+  n47 --- n48
+  n49["`Fed lập năm 1914 để ngăn giảm phát và đổ vỡ ngân hàng, nhưng đợt tồi tệ nhất xảy ra sau khi có Fed`"]
+  n47 --- n49
+  n50["`Mục 8–9 — Luật lệ và can thiệp của chính phủ quyết định rủi ro ngân hàng`"]
+  n0 --- n50
+  n51["`Albania: ngân hàng giữ 83% tiền gửi cả nước không cho vay, chỉ mua chứng khoán chính phủ`"]
+  n50 --- n51
+  n52["`Séc cho vay rộng tay rồi lỗ lớn, chính phủ bù lỗ, năm 2006 người nước ngoài sở hữu hơn nửa tài sản ngân hàng ở chín nước Đông Âu`"]
+  n50 --- n52
+  n53["`Ấn Độ giữ vàng cá nhân nhiều nhất thế giới, 70% tiết kiệm vào ngân hàng cho nhà nước vay`"]
+  n50 --- n53
+  n54["`Trung Quốc: 90% tiết kiệm vào ngân hàng nhà nước, trợ cấp doanh nghiệp nhà nước lãi thấp hoặc thua lỗ`"]
+  n53 --- n54
+  n55["`Luật cấm chi nhánh tập trung người gửi và người vay ở một vùng, như vùng trồng lúa mì`"]
+  n50 --- n55
+  n56["`Canada 10 ngân hàng, 3.000 chi nhánh, không có bảo hiểm tiền gửi mà không ngân hàng nào đổ vỡ`"]
+  n55 --- n56
+  n57["`Bảo hiểm tiền gửi khuyến khích ngân hàng liều hơn, người nộp thuế gánh lỗ khi chính phủ đánh giá sai rủi ro`"]
+  n50 --- n57
+  n58["`Luật Tái đầu tư Cộng đồng 1977 làm hạ chuẩn cho vay thế chấp, tỷ lệ vỡ nợ tăng đầu thế kỷ 21`"]
+  n50 --- n58
+  n59["`Thông điệp xuyên suốt`"]
+  n0 --- n59
+  n60["`Điều quan trọng không phải chính phủ có thể làm gì mà là chính phủ nhiều khả năng sẽ làm gì`"]
+  n59 --- n60
+  n61["`Phải đánh giá Fed và mọi cơ quan nhà nước theo kết quả thực tế, không theo mục tiêu tuyên bố`"]
+  n59 --- n61
+  n62["`Tiền không phải của cải, nhưng thiếu hệ thống tiền tệ vận hành tốt thì mất của cải thật`"]
+  n59 --- n62
+  n63["`Đánh giá: khung điều hành Fed trong sách đã cũ, lý giải khủng hoảng 2008 qua Luật Tái đầu tư Cộng đồng bị tranh cãi`"]
+  n59 --- n63
+  class n0 root
+  class n1,n10,n25,n37,n50,n59 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n51,n52,n53,n54,n55,n56,n57,n58,n60,n61,n62,n63 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần V "The National Economy", Chương 17.
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 16 (National Output) mở đầu Phần V bằng cách đo sản lượng của cả nền kinh tế, và đã nhắc rằng cung tiền của Mỹ giảm một phần ba trong giai đoạn 1929–1933. Chương 17 giải thích vì sao chuyện đó tàn phá đến vậy: tiền không phải là của cải, nhưng nó là phương tiện để của cải được sản xuất và chuyển giao, và tổng lượng tiền cùng tín dụng quyết định tổng cầu của cả nước.
+
+Chương này dùng lại nhiều công cụ của các phần trước: logic thiếu hụt và tăng giá của Phần I (lạm phát là khi cầu vượt cung ở mức giá hiện hành, chỉ là trên toàn bộ nền kinh tế), và chủ đề rủi ro, bảo hiểm của Phần IV (ngân hàng thực chất là doanh nghiệp quản lý rủi ro).
+
+Nó cũng chuẩn bị cho Chương 18 và 19 về chức năng và tài chính của chính phủ: Sowell cho thấy in tiền là cách chính phủ lấy của cải của dân mà không cần tăng thuế, một chủ đề sẽ trở lại khi bàn về thuế và thâm hụt.
+
+## Lưu ý
+
+- Sách viết khoảng 2013–2014; các số liệu mới nhất trong chương là tài sản ngân hàng Mỹ năm 2012 (14.000 tỷ USD) và phản ứng thị trường với phát biểu của Chủ tịch Fed Ben Bernanke tháng 5/2013.
+- Nhiều chi tiết đã thay đổi từ đó, nói định tính:
+  - Mỹ trải qua đợt lạm phát cao nhất trong khoảng bốn thập kỷ vào 2021–2023.
+  - Giá vàng đã vượt xa mức "hơn 1.000 USD một ounce" mà Sowell nhắc tới.
+  - Từ tháng 3/2020 Fed hạ tỷ lệ dự trữ bắt buộc của các ngân hàng về 0, nên mô tả của Sowell về việc Fed điều tiết bằng cách quy định tỷ lệ dự trữ không còn đúng với thực tế hiện nay (Fed chủ yếu điều hành bằng lãi suất, kể cả lãi suất trả trên tiền dự trữ của ngân hàng gửi tại Fed).
+  - Séc du lịch American Express, ví dụ của Sowell về tài sản thanh khoản, gần như không còn được dùng.
+  - Năm 2023 một số ngân hàng Mỹ (như Silicon Valley Bank) sụp đổ vì người gửi tiền rút ồ ạt qua mạng, cho thấy rủi ro rút tiền ồ ạt mà Sowell mô tả vẫn còn.
+- Sách có một lỗi niên đại nhỏ: Sowell viết bảo hiểm tiền gửi liên bang được lập năm 1935, nhưng Tổng công ty Bảo hiểm Tiền gửi Liên bang (FDIC) được lập theo Luật Ngân hàng năm 1933 và bắt đầu bảo hiểm tiền gửi từ đầu năm 1934; năm 1935 là năm một luật ngân hàng mới đặt nó trên cơ sở lâu dài.
+- Chương có một chú thích chân trang của Sowell (giải thích Quy luật Gresham), đã đưa vào phần Sơ đồ và mục 2 của Nội dung chi tiết.
+- Các câu trích là bản dịch của người tổng hợp.

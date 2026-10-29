@@ -1,11 +1,16 @@
 # Chương 5 — Sự thăng trầm của doanh nghiệp (The Rise and Fall of Businesses)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần II "Industry and Commerce", Chương 5.
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
-**Vị trí trong lập luận của cả cuốn sách:** Phần I (Chương 2 đến 4) giải thích giá cả điều phối việc phân bổ nguồn lực khan hiếm như thế nào và điều gì xảy ra khi nhà nước kiểm soát giá. Chương 5 mở đầu Phần II "Công nghiệp và thương mại" (Industry and Commerce): Sowell chuyển từ giá cả sang các doanh nghiệp, tức những đơn vị phản ứng với giá cả, và cho thấy doanh nghiệp không phải những đơn vị cứ thế đều đặn kiếm ra tiền mà liên tục lên và xuống trong cạnh tranh. Chương này đặt ra vai trò của lợi nhuận và thua lỗ, chủ đề mà Chương 6 "The Role of Profits—and Losses" sẽ phân tích sâu; các đoạn so sánh với nền kinh tế do nhà lãnh đạo chính trị điều hành (Lenin, chủ nghĩa trọng thương thời trung cổ) cũng chuẩn bị cho Chương 9 về kinh tế thị trường và phi thị trường.
-**Ý chính:** Sowell muốn người đọc hiểu rằng công nghiệp và thương mại là những **quá trình động**: sản phẩm, công ty và cả ngành lên rồi xuống khi điều kiện xã hội, kinh tế, công nghệ và con người lãnh đạo thay đổi. Điều quan trọng với nền kinh tế không phải số phận của một công ty cụ thể, mà là việc người tiêu dùng luôn được phục vụ bởi công ty có chi phí và giá thấp nhất ở mỗi thời kỳ. Thua lỗ (losses) quan trọng ngang lợi nhuận, vì thua lỗ buộc doanh nghiệp phải thay đổi hoặc bị loại. Ví dụ trung tâm là chuỗi tạp hoá A & P: thống trị nhờ giá thấp nửa đầu thế kỷ 20, rồi mất khách vào tay các chuỗi siêu thị như Safeway khi người Mỹ chuyển ra ngoại ô và có ô tô, tủ lạnh. Ví dụ thứ hai là James Cash Penney, một người xuất thân nghèo khó, đã buộc hai đại gia bán hàng qua thư đặt hàng Sears và Montgomery Ward phải làm theo cách của ông mà không cần thuyết phục ai, chỉ bằng cách bán hàng rẻ hơn. Từ đó Sowell rút ra luận điểm lớn của chương: kinh tế thị trường khai thác được kiến thức và sự thấu hiểu (insight) nằm rải rác trong hàng triệu người, kể cả khi giới lãnh đạo không có chúng.
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2013–2014; số liệu mới nhất trong chương là năm 2012–2013 (lợi nhuận ô tô 2012, bài báo về Putin năm 2013). Nhiều công ty Sowell nhắc tới đã thay đổi lớn từ đó, theo đúng logic của chương: A & P đóng cửa hẳn vào khoảng 2015; Sears và J.C. Penney đều nộp đơn phá sản (Sears năm 2018, J.C. Penney năm 2020); Kodak ra khỏi phá sản năm 2013 với quy mô nhỏ hơn nhiều; Radio Shack cũng phá sản; Boeing gặp khủng hoảng lớn với dòng máy bay 737 MAX từ 2019 và Airbus lại dẫn đầu về số máy bay giao. Circuit City, công ty được dẫn với số liệu năm 2003, đã phá sản và đóng cửa năm 2009, trước khi ấn bản này ra đời, nhưng sách không nhắc. Con số lợi nhuận 3,45 tỷ USD của Toyota "năm 2012" có lẽ là năm tài chính kết thúc tháng 3/2012, năm Toyota bị ảnh hưởng nặng bởi động đất và sóng thần ở Nhật; Sowell không nói rõ. Chương này không có chú thích chân trang có nội dung (chỉ có chú thích nguồn trích dẫn, đã bỏ qua). Các câu trích là bản dịch của người tổng hợp.
+Sowell muốn người đọc hiểu rằng công nghiệp và thương mại là những **quá trình động**: sản phẩm, công ty và cả ngành lên rồi xuống khi điều kiện xã hội, kinh tế, công nghệ và con người lãnh đạo thay đổi.
+
+Điều quan trọng với nền kinh tế không phải số phận của một công ty cụ thể, mà là việc người tiêu dùng luôn được phục vụ bởi công ty có chi phí và giá thấp nhất ở mỗi thời kỳ. Thua lỗ (losses) quan trọng ngang lợi nhuận, vì thua lỗ buộc doanh nghiệp phải thay đổi hoặc bị loại.
+
+Ví dụ trung tâm là chuỗi tạp hoá A & P: thống trị nhờ giá thấp nửa đầu thế kỷ 20, rồi mất khách vào tay các chuỗi siêu thị như Safeway khi người Mỹ chuyển ra ngoại ô và có ô tô, tủ lạnh.
+
+Ví dụ thứ hai là James Cash Penney, một người xuất thân nghèo khó, đã buộc hai đại gia bán hàng qua thư đặt hàng Sears và Montgomery Ward phải làm theo cách của ông mà không cần thuyết phục ai, chỉ bằng cách bán hàng rẻ hơn.
+
+Từ đó Sowell rút ra luận điểm lớn của chương: kinh tế thị trường khai thác được kiến thức và sự thấu hiểu (insight) nằm rải rác trong hàng triệu người, kể cả khi giới lãnh đạo không có chúng.
 
 ## Sơ đồ
 
@@ -652,7 +657,9 @@
 
 Chương mở bằng câu đề từ của tạp chí *Fortune*: thất bại là một phần của chu kỳ tự nhiên trong kinh doanh; công ty ra đời, công ty chết đi, chủ nghĩa tư bản tiến lên.
 
-Sowell cho rằng coi doanh nghiệp đơn giản là nơi kiếm tiền là sai theo ít nhất hai cách. Thứ nhất, rất nhiều doanh nghiệp thua lỗ: khoảng một phần ba doanh nghiệp mới không sống quá hai năm, hơn một nửa không sống quá bốn năm. Không chỉ doanh nghiệp mới; những doanh nghiệp tồn tại nhiều thế hệ, có khi hơn một thế kỷ, cuối cùng cũng phải đóng cửa vì thua lỗ kéo dài (Sowell dùng hình ảnh "mực đỏ" ở dòng cuối báo cáo kết quả kinh doanh, tức con số lỗ). Thứ hai, và quan trọng hơn dưới góc nhìn kinh tế học: điều đáng quan tâm không phải chủ doanh nghiệp mong kiếm bao nhiêu hay có đạt được không, mà là hoạt động kinh doanh ảnh hưởng thế nào tới việc sử dụng các nguồn lực khan hiếm có nhiều cách sử dụng thay thế, và qua đó tới đời sống kinh tế của hàng triệu người khác.
+Sowell cho rằng coi doanh nghiệp đơn giản là nơi kiếm tiền là sai theo ít nhất hai cách. Thứ nhất, rất nhiều doanh nghiệp thua lỗ: khoảng một phần ba doanh nghiệp mới không sống quá hai năm, hơn một nửa không sống quá bốn năm. Không chỉ doanh nghiệp mới; những doanh nghiệp tồn tại nhiều thế hệ, có khi hơn một thế kỷ, cuối cùng cũng phải đóng cửa vì thua lỗ kéo dài (Sowell dùng hình ảnh "mực đỏ" ở dòng cuối báo cáo kết quả kinh doanh, tức con số lỗ).
+
+Thứ hai, và quan trọng hơn dưới góc nhìn kinh tế học: điều đáng quan tâm không phải chủ doanh nghiệp mong kiếm bao nhiêu hay có đạt được không, mà là hoạt động kinh doanh ảnh hưởng thế nào tới việc sử dụng các nguồn lực khan hiếm có nhiều cách sử dụng thay thế, và qua đó tới đời sống kinh tế của hàng triệu người khác.
 
 ### 2. Thích ứng với thay đổi (Adjusting to Changes)
 
@@ -664,7 +671,9 @@ Chỉ trong một năm từ 2010 đến 2011, 26 doanh nghiệp rời danh sách
 
 Cốt lõi của mọi chuyện là vai trò của lợi nhuận và của thua lỗ, cả hai quan trọng ngang nhau trong việc buộc công ty và ngành sử dụng nguồn lực khan hiếm hiệu quả. Kinh doanh không phải quản lý thường ngày rồi lợi nhuận tự chảy vào. Vô số chi tiết luôn thay đổi trong một môi trường kinh tế, xã hội luôn thay đổi khiến nguy cơ thua lỗ treo trên đầu cả những doanh nghiệp lớn nhất. Đó là lý do giám đốc thường làm việc lâu hơn nhân viên rất nhiều, và chỉ 35% công ty mới sống được mười năm. Theo Sowell, chỉ khi nhìn từ bên ngoài thì kinh doanh mới có vẻ dễ.
 
-Tỷ suất lợi nhuận còn lên xuống nhanh hơn vị trí công ty. Đầu năm 2007, *Wall Street Journal* đưa tin Sun Microsystems có lãi, "lần đầu tiên kể từ giữa năm 2005". Cuối thập niên 1980, khi đĩa CD nhanh chóng thay đĩa than, các hãng Nhật sản xuất đầu đĩa CD "phát đạt" theo *Far Eastern Economic Review*, nhưng chỉ vài năm sau biên lợi nhuận của họ đã "mỏng như dao cạo". Sowell giải thích đây là chuyện chung của nhiều sản phẩm: công ty đầu tiên tung ra sản phẩm được ưa chuộng có thể lãi lớn; chính khoản lãi đó thu hút thêm vốn vào các công ty hiện có và khuyến khích công ty mới ra đời; sản lượng tăng, cạnh tranh kéo giá và biên lợi nhuận xuống theo quy luật cung cầu. Có lúc giá xuống thấp tới mức lãi thành lỗ, một số công ty phá sản, cho tới khi cung và cầu của ngành cân bằng ở mức bền vững về tài chính.
+Tỷ suất lợi nhuận còn lên xuống nhanh hơn vị trí công ty. Đầu năm 2007, *Wall Street Journal* đưa tin Sun Microsystems có lãi, "lần đầu tiên kể từ giữa năm 2005". Cuối thập niên 1980, khi đĩa CD nhanh chóng thay đĩa than, các hãng Nhật sản xuất đầu đĩa CD "phát đạt" theo *Far Eastern Economic Review*, nhưng chỉ vài năm sau biên lợi nhuận của họ đã "mỏng như dao cạo".
+
+Sowell giải thích đây là chuyện chung của nhiều sản phẩm: công ty đầu tiên tung ra sản phẩm được ưa chuộng có thể lãi lớn; chính khoản lãi đó thu hút thêm vốn vào các công ty hiện có và khuyến khích công ty mới ra đời; sản lượng tăng, cạnh tranh kéo giá và biên lợi nhuận xuống theo quy luật cung cầu. Có lúc giá xuống thấp tới mức lãi thành lỗ, một số công ty phá sản, cho tới khi cung và cầu của ngành cân bằng ở mức bền vững về tài chính.
 
 Thứ hạng giữa các công ty trong dài hạn có thể đảo lộn mạnh:
 
@@ -707,21 +716,35 @@ Sowell nhấn mạnh rằng chi phí thấp thể hiện qua giá thấp đã đ
 
 Theo Sowell, các công ty suy tàn hay biến mất là minh chứng cho áp lực cạnh tranh không ngừng, và cũng là minh chứng cho sự thịnh vượng tăng lên của người tiêu dùng. Số phận từng công ty hay từng ngành không phải điều quan trọng nhất; người được lợi chính là người tiêu dùng, nhờ giá thấp hơn do nguồn lực khan hiếm được phân bổ hiệu quả hơn. Vai trò then chốt thuộc về giá cả, lợi nhuận và cả thua lỗ: thua lỗ buộc doanh nghiệp thay đổi theo điều kiện, nếu không sẽ thua những đối thủ nhận ra xu hướng sớm hơn, hiểu hệ quả rõ hơn và phản ứng nhanh hơn.
 
-**Kiến thức là nguồn lực khan hiếm.** Sowell viết rằng kiến thức là một trong những nguồn lực khan hiếm nhất của mọi nền kinh tế, và sự thấu hiểu rút ra từ kiến thức còn khan hiếm hơn. Nền kinh tế dựa trên giá cả, lợi nhuận và thua lỗ trao lợi thế quyết định cho những người có nhiều kiến thức và sự thấu hiểu hơn. Nói cách khác, kiến thức có thể dẫn dắt việc phân bổ nguồn lực kể cả khi phần lớn dân chúng, kể cả các nhà lãnh đạo chính trị, không có kiến thức đó hay không hiểu chuyện gì đang diễn ra. Điều này không đúng ở hệ thống mà lãnh đạo chính trị điều khiển quyết định kinh tế: khi đó kiến thức tất yếu hạn chế của họ thành rào cản cho tiến bộ của cả nền kinh tế. Ngay cả khi họ hiểu biết hơn người bình thường, họ khó có được bằng tổng kiến thức nằm rải rác trong hàng triệu người họ cai quản. Kiến thức có giá trị kinh tế cũng không nhất thiết là khoa học hay công nghệ: bán lẻ, một lĩnh vực rất đời thường, đã đổi mới hoàn toàn trong thế kỷ 20, cách mạng hoá cả cửa hàng bách hoá lẫn cửa hàng tạp hoá, và nâng mức sống của hàng triệu người nhờ giảm chi phí đưa hàng tới họ.
+**Kiến thức là nguồn lực khan hiếm.** Sowell viết rằng kiến thức là một trong những nguồn lực khan hiếm nhất của mọi nền kinh tế, và sự thấu hiểu rút ra từ kiến thức còn khan hiếm hơn. Nền kinh tế dựa trên giá cả, lợi nhuận và thua lỗ trao lợi thế quyết định cho những người có nhiều kiến thức và sự thấu hiểu hơn. Nói cách khác, kiến thức có thể dẫn dắt việc phân bổ nguồn lực kể cả khi phần lớn dân chúng, kể cả các nhà lãnh đạo chính trị, không có kiến thức đó hay không hiểu chuyện gì đang diễn ra.
+
+Điều này không đúng ở hệ thống mà lãnh đạo chính trị điều khiển quyết định kinh tế: khi đó kiến thức tất yếu hạn chế của họ thành rào cản cho tiến bộ của cả nền kinh tế. Ngay cả khi họ hiểu biết hơn người bình thường, họ khó có được bằng tổng kiến thức nằm rải rác trong hàng triệu người họ cai quản.
+
+Kiến thức có giá trị kinh tế cũng không nhất thiết là khoa học hay công nghệ: bán lẻ, một lĩnh vực rất đời thường, đã đổi mới hoàn toàn trong thế kỷ 20, cách mạng hoá cả cửa hàng bách hoá lẫn cửa hàng tạp hoá, và nâng mức sống của hàng triệu người nhờ giảm chi phí đưa hàng tới họ.
 
 **Montgomery Ward và Sears: từ bán qua thư tới bách hoá.** Doanh nghiệp phải thay đổi mạnh từ bên trong để sống sót. Đến cuối thế kỷ 20, Sears và Wards là tên các chuỗi bách hoá trong mắt người Mỹ, nhưng cả hai đều không khởi đầu như vậy. Ở thế kỷ 19, khi chưa có ô tô, xe tải và phần lớn người Mỹ sống ở các cộng đồng nông thôn nhỏ, chi phí đưa hàng tới các cửa hàng nhỏ rải rác rất cao và được tính vào giá, nên người bình thường hiếm khi mua nổi nhiều thứ nay được coi là cơ bản.
 
-Montgomery Ward (tên gốc của Wards) giảm chi phí giao hàng bằng cách bán qua thư đặt hàng, gửi thẳng tới người mua khắp nước từ nhà kho khổng lồ ở Chicago, dùng dịch vụ chở hàng đường sắt sẵn có và về sau là bưu điện. Chi phí thấp hơn giúp hãng bán rẻ hơn cửa hàng nông thôn, và Montgomery Ward thành nhà bán lẻ lớn nhất thế giới cuối thế kỷ 19. Cùng thời, Richard Sears, một nhân viên đường sắt trẻ, bán đồng hồ đeo tay thêm ngoài giờ rồi lập một hãng bán qua thư cạnh tranh, theo năm tháng lớn gấp nhiều lần Montgomery Ward. Sears còn tồn tại lâu hơn đối thủ, vì Wards đóng cửa vĩnh viễn năm 2001. Để thấy quy mô hai hãng thời hoàng kim: mỗi hãng có đường ray chạy xuyên qua nhà kho ở Chicago, một trong những cách giảm chi phí vận chuyển giúp họ bán rẻ hơn cửa hàng địa phương ở một nước còn chủ yếu là nông thôn đầu thế kỷ 20. Năm 1903, *Chicago Daily Tribune* đưa tin các hãng bán qua thư đang khiến cửa hàng nông thôn phá sản. Quan trọng hơn số phận hai hãng là việc hàng triệu người có mức sống cao hơn so với khi phải mua hàng qua những kênh đắt đỏ hơn.
+Montgomery Ward (tên gốc của Wards) giảm chi phí giao hàng bằng cách bán qua thư đặt hàng, gửi thẳng tới người mua khắp nước từ nhà kho khổng lồ ở Chicago, dùng dịch vụ chở hàng đường sắt sẵn có và về sau là bưu điện. Chi phí thấp hơn giúp hãng bán rẻ hơn cửa hàng nông thôn, và Montgomery Ward thành nhà bán lẻ lớn nhất thế giới cuối thế kỷ 19.
+
+Cùng thời, Richard Sears, một nhân viên đường sắt trẻ, bán đồng hồ đeo tay thêm ngoài giờ rồi lập một hãng bán qua thư cạnh tranh, theo năm tháng lớn gấp nhiều lần Montgomery Ward. Sears còn tồn tại lâu hơn đối thủ, vì Wards đóng cửa vĩnh viễn năm 2001. Để thấy quy mô hai hãng thời hoàng kim: mỗi hãng có đường ray chạy xuyên qua nhà kho ở Chicago, một trong những cách giảm chi phí vận chuyển giúp họ bán rẻ hơn cửa hàng địa phương ở một nước còn chủ yếu là nông thôn đầu thế kỷ 20.
+
+Năm 1903, *Chicago Daily Tribune* đưa tin các hãng bán qua thư đang khiến cửa hàng nông thôn phá sản. Quan trọng hơn số phận hai hãng là việc hàng triệu người có mức sống cao hơn so với khi phải mua hàng qua những kênh đắt đỏ hơn.
 
 **Đô thị hoá, Robert Wood và James Cash Penney.** Xã hội Mỹ dần đô thị hoá. Đây không phải bí mật, nhưng không phải ai cũng nhận ra những thay đổi từ từ như vậy, và càng ít người hiểu hệ quả của nó cho ngành bán lẻ. Phải tới năm 1920, điều tra dân số mới lần đầu cho thấy dân thành thị đông hơn dân nông thôn. Robert Wood, một lãnh đạo của Montgomery Ward thích nghiền ngẫm số liệu thống kê, nhận ra rằng bán hàng qua chuỗi bách hoá đô thị giờ sẽ hiệu quả và có lãi hơn bán thuần qua thư. Người đứng đầu Montgomery Ward không đồng ý, và Wood bị sa thải vì cố thay đổi chính sách công ty.
 
 Trong khi đó James Cash Penney có cùng nhận định và đã tự lập chuỗi bách hoá. Từ khởi đầu rất khiêm tốn, chuỗi J.C. Penney có gần 300 cửa hàng năm 1920 và hơn 1.000 cửa hàng cuối thập niên đó. Cách phục vụ khách đô thị hiệu quả hơn của Penney có lợi cho người mua, và thành vấn đề kinh tế lớn cho hai đại gia bán qua thư: cả Sears và Montgomery Ward bắt đầu thua lỗ khi bách hoá lấy khách của hình thức bán qua thư. Robert Wood sau khi bị sa thải sang làm cho Sears và thuyết phục được lãnh đạo Sears xây chuỗi bách hoá riêng. Khi Sears làm vậy, Montgomery Ward không còn lựa chọn nào khác ngoài làm theo, nhưng muộn, và không bao giờ đuổi kịp Sears nữa.
 
-Sowell đề nghị không sa vào chi tiết lịch sử từng doanh nghiệp, mà nhìn từ góc độ cả nền kinh tế và mức sống của cả dân chúng. Một trong những lợi thế lớn nhất của nền kinh tế điều phối bằng giá và vận hành theo động cơ lời lỗ là nó khai thác được kiến thức và sự thấu hiểu hiếm hoi, kể cả khi phần lớn dân chúng, thậm chí giới tinh hoa trí thức và chính trị, không có chúng. Lợi thế cạnh tranh của người đúng có thể lấn át lợi thế về số đông hay thậm chí về tài chính của người sai. Penney không có nhiều tiền khi khởi đầu; ông lớn lên trong nghèo khó và bắt đầu nghề bán lẻ chỉ với một phần ba phần hùn trong một cửa hàng ở thị trấn nhỏ bang Wyoming, đúng lúc Sears và Montgomery Ward là hai đại gia bán lẻ toàn quốc không có đối thủ. Vậy mà sự thấu hiểu của ông về điều kiện bán lẻ đang đổi đã buộc hai đại gia làm theo cách của ông, nếu không muốn bị diệt vong. Về sau, Sam Walton, một nhân viên bán hàng ở cửa hàng J.C. Penney, học nghề bán lẻ từ dưới lên rồi áp dụng vào cửa hàng của riêng mình, cửa hàng sau này phát triển thành chuỗi Wal-Mart với doanh số lớn hơn Sears và J.C. Penney cộng lại.
+Sowell đề nghị không sa vào chi tiết lịch sử từng doanh nghiệp, mà nhìn từ góc độ cả nền kinh tế và mức sống của cả dân chúng. Một trong những lợi thế lớn nhất của nền kinh tế điều phối bằng giá và vận hành theo động cơ lời lỗ là nó khai thác được kiến thức và sự thấu hiểu hiếm hoi, kể cả khi phần lớn dân chúng, thậm chí giới tinh hoa trí thức và chính trị, không có chúng.
+
+Lợi thế cạnh tranh của người đúng có thể lấn át lợi thế về số đông hay thậm chí về tài chính của người sai. Penney không có nhiều tiền khi khởi đầu; ông lớn lên trong nghèo khó và bắt đầu nghề bán lẻ chỉ với một phần ba phần hùn trong một cửa hàng ở thị trấn nhỏ bang Wyoming, đúng lúc Sears và Montgomery Ward là hai đại gia bán lẻ toàn quốc không có đối thủ. Vậy mà sự thấu hiểu của ông về điều kiện bán lẻ đang đổi đã buộc hai đại gia làm theo cách của ông, nếu không muốn bị diệt vong.
+
+Về sau, Sam Walton, một nhân viên bán hàng ở cửa hàng J.C. Penney, học nghề bán lẻ từ dưới lên rồi áp dụng vào cửa hàng của riêng mình, cửa hàng sau này phát triển thành chuỗi Wal-Mart với doanh số lớn hơn Sears và J.C. Penney cộng lại.
 
 **So sánh với nền kinh tế do nhà cầm quyền điều hành.** Theo Sowell, một trong những bất lợi lớn của các nền kinh tế do chính quyền điều hành, dù là chủ nghĩa trọng thương thời trung cổ hay chủ nghĩa cộng sản hiện đại, là ý tưởng nảy sinh trong dân chúng không có sức ép mạnh như vậy để buộc người cầm quyền thay đổi cách làm. Ở mọi hệ thống kinh tế hay chính trị, người ở đỉnh dễ tự mãn, nếu không nói là kiêu ngạo. Thuyết phục họ không dễ, nhất là về một cách làm mới khác hẳn thói quen. Lợi thế lớn của thị trường tự do là không cần thuyết phục ai về điều gì: chỉ cần cạnh tranh với họ trên thị trường và để thị trường kiểm chứng cách nào tốt nhất.
 
-Sowell đề nghị hình dung một hệ thống trong đó Penney phải dùng lời thuyết phục lãnh đạo Sears và Montgomery Ward mở rộng ra ngoài bán qua thư và xây chuỗi cửa hàng toàn quốc. Họ hoàn toàn có thể đáp: gã Penney này là ai, một người đồng sở hữu cửa hàng nhỏ ở thị trấn quê mùa chẳng ai biết, mà đòi dạy chúng ta cách điều hành những công ty bán lẻ lớn nhất thế giới? Trong kinh tế thị trường, Penney không cần thuyết phục ai; ông chỉ cần giao hàng tới người mua với giá thấp hơn. Thành công của ông và hàng triệu USD thua lỗ mà Sears và Montgomery Ward phải chịu khiến hai đại gia không còn lựa chọn nào khác ngoài bắt chước "kẻ mới nổi" để có lãi trở lại. Penney lớn lên trong cảnh nghèo hơn phần lớn người nhận trợ cấp xã hội ngày nay, nhưng ý tưởng của ông thắng một số người giàu nhất thời đó, những người cuối cùng nhận ra họ sẽ không giàu lâu nếu Penney và người khác tiếp tục lấy khách, để lại cho công ty họ hàng triệu USD thua lỗ mỗi năm.
+Sowell đề nghị hình dung một hệ thống trong đó Penney phải dùng lời thuyết phục lãnh đạo Sears và Montgomery Ward mở rộng ra ngoài bán qua thư và xây chuỗi cửa hàng toàn quốc. Họ hoàn toàn có thể đáp: gã Penney này là ai, một người đồng sở hữu cửa hàng nhỏ ở thị trấn quê mùa chẳng ai biết, mà đòi dạy chúng ta cách điều hành những công ty bán lẻ lớn nhất thế giới?
+
+Trong kinh tế thị trường, Penney không cần thuyết phục ai; ông chỉ cần giao hàng tới người mua với giá thấp hơn. Thành công của ông và hàng triệu USD thua lỗ mà Sears và Montgomery Ward phải chịu khiến hai đại gia không còn lựa chọn nào khác ngoài bắt chước "kẻ mới nổi" để có lãi trở lại. Penney lớn lên trong cảnh nghèo hơn phần lớn người nhận trợ cấp xã hội ngày nay, nhưng ý tưởng của ông thắng một số người giàu nhất thời đó, những người cuối cùng nhận ra họ sẽ không giàu lâu nếu Penney và người khác tiếp tục lấy khách, để lại cho công ty họ hàng triệu USD thua lỗ mỗi năm.
 
 ### 4. Thay đổi kinh tế (Economic Changes)
 
@@ -737,9 +760,13 @@ Thay đổi kinh tế không chỉ là thay đổi trong nền kinh tế mà cò
 
 **Con người thay đổi.** Không cá nhân hay công ty nào thành công mãi. Riêng cái chết đã bảo đảm ban lãnh đạo phải thay người. Với tầm quan trọng của yếu tố con người và sự khác biệt giữa người với người, thậm chí giữa cùng một người ở các giai đoạn đời khác nhau, việc vị trí của các doanh nghiệp đổi mạnh theo thời gian là chuyện bình thường.
 
-Có những nhà lãnh đạo rất thành công trong một giai đoạn phát triển của đất nước, hay một giai đoạn trong đời họ, rồi lại rất kém hiệu quả về sau. Sewell Avery là ví dụ. Nhiều năm trong thế kỷ 20, ông là lãnh đạo rất thành công và được ca ngợi rộng rãi, đầu tiên ở U.S. Gypsum rồi ở Montgomery Ward. Nhưng những năm cuối, ông bị chỉ trích công khai về cách điều hành Montgomery Ward và vướng vào một cuộc tranh giành quyền kiểm soát công ty gay gắt, vì bị cho là quản lý kém. Khi Avery từ chức tổng giám đốc, giá cổ phiếu Montgomery Ward tăng ngay lập tức. Dưới thời ông, công ty tích trữ hàng triệu USD làm đệm phòng suy thoái nhiều tới mức tạp chí *Fortune* gọi nó là "một ngân hàng có mặt tiền cửa hàng", trong khi đối thủ như Sears dùng tiền để mở rộng sang thị trường mới.
+Có những nhà lãnh đạo rất thành công trong một giai đoạn phát triển của đất nước, hay một giai đoạn trong đời họ, rồi lại rất kém hiệu quả về sau. Sewell Avery là ví dụ. Nhiều năm trong thế kỷ 20, ông là lãnh đạo rất thành công và được ca ngợi rộng rãi, đầu tiên ở U.S. Gypsum rồi ở Montgomery Ward.
 
-**Kiến thức từ mọi tầng lớp.** Theo Sowell, điều quan trọng không phải thành bại của từng người hay từng công ty, mà là việc kiến thức và sự thấu hiểu vẫn thắng bất chấp sự mù quáng hay chống đối của một số chủ doanh nghiệp và nhà quản lý. Vì nguồn lực trí tuệ khan hiếm, một nền kinh tế để kiến thức có lợi thế quyết định trong cạnh tranh là nền kinh tế có lợi thế lớn trong việc nâng mức sống của dân chúng. Một xã hội chỉ cho quý tộc cha truyền con nối, chính quyền quân sự hay một đảng cầm quyền ra các quyết định lớn là xã hội đã vứt bỏ phần lớn kiến thức, sự thấu hiểu và tài năng của chính người dân mình. Một xã hội chỉ cho nam giới ra quyết định đã vứt bỏ một nửa kiến thức, tài năng và sự thấu hiểu của mình.
+Nhưng những năm cuối, ông bị chỉ trích công khai về cách điều hành Montgomery Ward và vướng vào một cuộc tranh giành quyền kiểm soát công ty gay gắt, vì bị cho là quản lý kém. Khi Avery từ chức tổng giám đốc, giá cổ phiếu Montgomery Ward tăng ngay lập tức. Dưới thời ông, công ty tích trữ hàng triệu USD làm đệm phòng suy thoái nhiều tới mức tạp chí *Fortune* gọi nó là "một ngân hàng có mặt tiền cửa hàng", trong khi đối thủ như Sears dùng tiền để mở rộng sang thị trường mới.
+
+**Kiến thức từ mọi tầng lớp.** Theo Sowell, điều quan trọng không phải thành bại của từng người hay từng công ty, mà là việc kiến thức và sự thấu hiểu vẫn thắng bất chấp sự mù quáng hay chống đối của một số chủ doanh nghiệp và nhà quản lý. Vì nguồn lực trí tuệ khan hiếm, một nền kinh tế để kiến thức có lợi thế quyết định trong cạnh tranh là nền kinh tế có lợi thế lớn trong việc nâng mức sống của dân chúng.
+
+Một xã hội chỉ cho quý tộc cha truyền con nối, chính quyền quân sự hay một đảng cầm quyền ra các quyết định lớn là xã hội đã vứt bỏ phần lớn kiến thức, sự thấu hiểu và tài năng của chính người dân mình. Một xã hội chỉ cho nam giới ra quyết định đã vứt bỏ một nửa kiến thức, tài năng và sự thấu hiểu của mình.
 
 Đối lập với các xã hội đó là một xã hội trong đó một cậu bé nhà nông đi bộ tám dặm tới Detroit tìm việc có thể lập ra Ford Motor Company và thay đổi diện mạo nước Mỹ bằng ô tô sản xuất hàng loạt, hay hai thợ sửa xe đạp trẻ có thể phát minh ra máy bay và thay đổi cả thế giới. Thiếu gia thế, thiếu bằng cấp, thậm chí thiếu tiền cũng không chặn được những ý tưởng hiệu quả, vì vốn đầu tư luôn tìm người thắng để đặt cược và kiếm lời. Một xã hội khai thác được mọi loại tài năng từ mọi tầng lớp có lợi thế rõ ràng so với xã hội chỉ để tài năng của một nhóm nhỏ được chọn sẵn quyết định vận mệnh của mình.
 
@@ -784,11 +811,15 @@ Theo Sowell, có lẽ sự thật bị bỏ qua nhiều nhất về công nghi�
 
 Kết luận của Sowell: không vị trí dẫn đầu nào, về chất lượng hay về bất cứ gì khác, là vĩnh viễn trong kinh tế thị trường.
 
-**Wal-Mart và lợi ích cho người tiêu dùng.** Điều quan trọng hơn nhiều so với số phận một doanh nghiệp là hiệu quả của nó mang lại cho người tiêu dùng bao nhiêu. *BusinessWeek* viết rằng ở Wal-Mart, "giá thấp mỗi ngày" không chỉ là khẩu hiệu mà là giáo lý nền tảng của một giáo phái khoác áo công ty, và công ty tư vấn New England Consulting ước tính Wal-Mart giúp khách hàng Mỹ tiết kiệm 20 tỷ USD chỉ trong năm trước đó. Lãnh đạo doanh nghiệp không chỉ quyết định thành công tương đối của từng công ty mà, sâu xa hơn, đẩy cả nền kinh tế tiến lên khi các phương pháp kinh doanh mới và tốt hơn lan sang đối thủ và ngành khác. Động cơ của những cải tiến này là lãi ròng (bottom line) của công ty, nhưng, như Sowell chơi chữ, "lãi ròng" của cả nền kinh tế là mức sống của những người mua sản phẩm và dịch vụ của các công ty đó.
+**Wal-Mart và lợi ích cho người tiêu dùng.** Điều quan trọng hơn nhiều so với số phận một doanh nghiệp là hiệu quả của nó mang lại cho người tiêu dùng bao nhiêu. *BusinessWeek* viết rằng ở Wal-Mart, "giá thấp mỗi ngày" không chỉ là khẩu hiệu mà là giáo lý nền tảng của một giáo phái khoác áo công ty, và công ty tư vấn New England Consulting ước tính Wal-Mart giúp khách hàng Mỹ tiết kiệm 20 tỷ USD chỉ trong năm trước đó.
+
+Lãnh đạo doanh nghiệp không chỉ quyết định thành công tương đối của từng công ty mà, sâu xa hơn, đẩy cả nền kinh tế tiến lên khi các phương pháp kinh doanh mới và tốt hơn lan sang đối thủ và ngành khác. Động cơ của những cải tiến này là lãi ròng (bottom line) của công ty, nhưng, như Sowell chơi chữ, "lãi ròng" của cả nền kinh tế là mức sống của những người mua sản phẩm và dịch vụ của các công ty đó.
 
 **John D. Rockefeller và Standard Oil.** Ví dụ này cho thấy một nhà lãnh đạo doanh nghiệp có thể hạ chi phí cho cả xã hội ra sao. Dầu mỏ vẫn được đo bằng thùng (barrel), vì ở thế kỷ 19 dầu được chở trong thùng; ngày nay dầu được chở bằng toa bồn đường sắt hay xe bồn trên bộ và tàu chở dầu khổng lồ trên biển. Gia tài nổi tiếng nhất lịch sử Mỹ, của John D. Rockefeller, được tạo ra nhờ cách mạng hoá cách lọc và phân phối dầu, làm giảm mạnh chi phí đưa các sản phẩm từ dầu tới người tiêu dùng.
 
-Khi Rockefeller vào ngành dầu thập niên 1860, chưa có ô tô và chưa có đèn điện, nên công dụng chính của dầu mỏ là lọc ra dầu hoả (kerosene) để thắp đèn. Xăng, một phụ phẩm của quá trình lọc dầu hoả, bị coi là ít giá trị tới mức một số hãng đổ thẳng xuống sông để bỏ đi. Trong một ngành mà nhiều nhà đầu tư và doanh nghiệp phá sản, Rockefeller tạo ra gia tài lớn nhất thế giới. Chở dầu bằng toa bồn đường sắt thay vì bằng thùng như đối thủ chỉ là một trong những đổi mới tiết kiệm chi phí giúp Standard Oil thành doanh nghiệp lớn nhất và lãi nhất ngành. Ông còn thuê các nhà khoa học tạo ra nhiều sản phẩm mới từ dầu mỏ, từ sơn, sáp parafin, thuốc gây mê tới vaseline, và họ dùng xăng làm nhiên liệu trong quá trình sản xuất thay vì để lãng phí. Dầu hoả vẫn là sản phẩm chính, nhưng vì Standard Oil không phải thu hồi toàn bộ chi phí sản xuất từ việc bán dầu hoả, công ty bán được dầu hoả rẻ hơn. Kết quả kinh doanh là Standard Oil bán khoảng 90% lượng dầu hoả của cả nước.
+Khi Rockefeller vào ngành dầu thập niên 1860, chưa có ô tô và chưa có đèn điện, nên công dụng chính của dầu mỏ là lọc ra dầu hoả (kerosene) để thắp đèn. Xăng, một phụ phẩm của quá trình lọc dầu hoả, bị coi là ít giá trị tới mức một số hãng đổ thẳng xuống sông để bỏ đi. Trong một ngành mà nhiều nhà đầu tư và doanh nghiệp phá sản, Rockefeller tạo ra gia tài lớn nhất thế giới.
+
+Chở dầu bằng toa bồn đường sắt thay vì bằng thùng như đối thủ chỉ là một trong những đổi mới tiết kiệm chi phí giúp Standard Oil thành doanh nghiệp lớn nhất và lãi nhất ngành. Ông còn thuê các nhà khoa học tạo ra nhiều sản phẩm mới từ dầu mỏ, từ sơn, sáp parafin, thuốc gây mê tới vaseline, và họ dùng xăng làm nhiên liệu trong quá trình sản xuất thay vì để lãng phí. Dầu hoả vẫn là sản phẩm chính, nhưng vì Standard Oil không phải thu hồi toàn bộ chi phí sản xuất từ việc bán dầu hoả, công ty bán được dầu hoả rẻ hơn. Kết quả kinh doanh là Standard Oil bán khoảng 90% lượng dầu hoả của cả nước.
 
 Với người tiêu dùng, kết quả còn ấn tượng hơn, vì dầu hoả đúng nghĩa là khác biệt giữa có ánh sáng và bóng tối ban đêm với phần lớn mọi người:
 
@@ -800,11 +831,15 @@ Với người tiêu dùng, kết quả còn ấn tượng hơn, vì dầu hoả
 
 Sowell dẫn lời một sử gia: trước 1870, chỉ người giàu mới mua được dầu cá voi và nến, những người khác phải đi ngủ sớm cho đỡ tốn; đến thập niên 1870, nhờ giá dầu hoả giảm, tầng lớp trung lưu và lao động khắp nước Mỹ trả được 1 xu mỗi giờ để thắp sáng nhà ban đêm, và làm việc, đọc sách sau khi trời tối trở thành hoạt động mới với phần lớn người Mỹ. Về sau, ô tô ra đời tạo một thị trường lớn cho xăng, đồng thời việc Standard Oil sản xuất sản phẩm dầu hiệu quả hơn cũng giúp ngành ô tô phát triển.
 
-**Kroc và Sonneborn: lãnh đạo bổ sung cho nhau.** Không phải lúc nào cũng có một cá nhân then chốt như Rockefeller với Standard Oil. Điều thật sự then chốt là vai trò của kiến thức và sự thấu hiểu, dù chúng tập trung ở một người hay phân tán rộng. Có lãnh đạo rất giỏi mặt này của quản trị và rất yếu mặt khác; thành công khi đó tuỳ thuộc mặt nào quan trọng vào lúc đó. Đôi khi hai người với điểm mạnh và điểm yếu rất khác nhau kết hợp thành một đội rất thành công, dù mỗi người đứng riêng có thể thất bại hoàn toàn. Ray Kroc, người sáng lập chuỗi McDonald's, là thiên tài về chi tiết vận hành và có lẽ biết về hamburger, sữa lắc và khoai tây chiên nhiều hơn bất kỳ ai (và có rất nhiều điều để biết), nhưng lại lạc lối trong các giao dịch tài chính phức tạp. Phần đó do Harry Sonneborn đảm nhiệm, một thiên tài tài chính mà các giải pháp ứng biến đã nhiều lần cứu công ty khỏi bờ vực phá sản trong những năm đầu đầy chông gai. Nhưng Sonneborn thậm chí không ăn hamburger, càng không quan tâm tới cách làm hay cách bán chúng. Cùng nhau, Kroc và Sonneborn đưa McDonald's thành một trong những tập đoàn hàng đầu thế giới.
+**Kroc và Sonneborn: lãnh đạo bổ sung cho nhau.** Không phải lúc nào cũng có một cá nhân then chốt như Rockefeller với Standard Oil. Điều thật sự then chốt là vai trò của kiến thức và sự thấu hiểu, dù chúng tập trung ở một người hay phân tán rộng. Có lãnh đạo rất giỏi mặt này của quản trị và rất yếu mặt khác; thành công khi đó tuỳ thuộc mặt nào quan trọng vào lúc đó. Đôi khi hai người với điểm mạnh và điểm yếu rất khác nhau kết hợp thành một đội rất thành công, dù mỗi người đứng riêng có thể thất bại hoàn toàn.
+
+Ray Kroc, người sáng lập chuỗi McDonald's, là thiên tài về chi tiết vận hành và có lẽ biết về hamburger, sữa lắc và khoai tây chiên nhiều hơn bất kỳ ai (và có rất nhiều điều để biết), nhưng lại lạc lối trong các giao dịch tài chính phức tạp. Phần đó do Harry Sonneborn đảm nhiệm, một thiên tài tài chính mà các giải pháp ứng biến đã nhiều lần cứu công ty khỏi bờ vực phá sản trong những năm đầu đầy chông gai. Nhưng Sonneborn thậm chí không ăn hamburger, càng không quan tâm tới cách làm hay cách bán chúng. Cùng nhau, Kroc và Sonneborn đưa McDonald's thành một trong những tập đoàn hàng đầu thế giới.
 
 **Howard Johnson: người dẫn đầu cũ khó thoát khuôn cũ.** Khi một ngành thay đổi nhanh vì cách kinh doanh mới, người dẫn đầu cũ đôi khi là người khó thoát khỏi khuôn kinh nghiệm cũ nhất. Khi cuộc cách mạng đồ ăn nhanh bùng nổ thập niên 1950, các hãng nhượng quyền nhà hàng dẫn đầu như Howard Johnson cạnh tranh rất kém với những kẻ mới nổi như McDonald's. Ngay cả khi Howard Johnson lập chuỗi nhà hàng bắt chước tên "Howard Johnson Jr.", chuỗi này vẫn không cạnh tranh nổi, vì mang theo vào mảng đồ ăn nhanh những cách làm từng thành công ở nhà hàng truyền thống, nhưng làm chậm hoạt động quá mức với mảng mới, nơi lợi nhuận nằm ở việc quay vòng khách nhanh với đồ ăn rẻ.
 
-**Chọn người quản lý là việc may rủi.** McDonald's chỉ qua thử và sai mới phát hiện ra, hồi thập niên 1950, loại người nào điều hành nhà hàng thành công nhất. Vài người nhận nhượng quyền đầu tiên có kinh nghiệm kinh doanh nhưng làm rất kém. Hai người nhận nhượng quyền thành công thật sự đầu tiên, và thành công rất lớn, là một cặp vợ chồng tầng lớp lao động đã dồn hết tiền tiết kiệm cả đời để tự kinh doanh. Họ khó khăn tới mức ngày khai trương còn chật vật gom đủ 100 USD bỏ vào máy tính tiền để thối tiền cho khách, nhưng cuối cùng thành triệu phú. Những người lao động khác dồn mọi thứ mình có để mở nhà hàng McDonald's cũng thành công lớn, dù chưa từng điều hành nhà hàng hay doanh nghiệp. Khi McDonald's tự mở các nhà hàng do công ty sở hữu, những nhà hàng này kém xa nhà hàng của những người đặt cược cả tiền tiết kiệm đời mình. Nhưng không có cách nào biết điều đó trước.
+**Chọn người quản lý là việc may rủi.** McDonald's chỉ qua thử và sai mới phát hiện ra, hồi thập niên 1950, loại người nào điều hành nhà hàng thành công nhất. Vài người nhận nhượng quyền đầu tiên có kinh nghiệm kinh doanh nhưng làm rất kém.
+
+Hai người nhận nhượng quyền thành công thật sự đầu tiên, và thành công rất lớn, là một cặp vợ chồng tầng lớp lao động đã dồn hết tiền tiết kiệm cả đời để tự kinh doanh. Họ khó khăn tới mức ngày khai trương còn chật vật gom đủ 100 USD bỏ vào máy tính tiền để thối tiền cho khách, nhưng cuối cùng thành triệu phú. Những người lao động khác dồn mọi thứ mình có để mở nhà hàng McDonald's cũng thành công lớn, dù chưa từng điều hành nhà hàng hay doanh nghiệp. Khi McDonald's tự mở các nhà hàng do công ty sở hữu, những nhà hàng này kém xa nhà hàng của những người đặt cược cả tiền tiết kiệm đời mình. Nhưng không có cách nào biết điều đó trước.
 
 **Nghiên cứu về các tổng giám đốc ở Đan Mạch.** Một nghiên cứu về các tổng giám đốc (CEO) ở Đan Mạch cho thấy theo cách khác tầm quan trọng của yếu tố cá nhân trong thành tích quản trị:
 
@@ -830,11 +865,17 @@ Lợi nhuận là động cơ của nhà đầu tư, nhưng từ góc độ cả
 
 **Lenin: điều hành doanh nghiệp chỉ trông dễ từ bên ngoài.** Ngay trước cách mạng Bolshevik, lãnh tụ phong trào cộng sản V.I. Lenin tuyên bố rằng "kế toán và kiểm soát" là yếu tố then chốt để điều hành một doanh nghiệp, và chủ nghĩa tư bản đã "rút gọn" việc quản trị doanh nghiệp thành những "thao tác cực kỳ đơn giản" mà "người biết chữ nào cũng làm được": giám sát và ghi chép, biết bốn phép tính số học và viết biên lai phù hợp. Theo Lenin, những "thao tác đăng ký, lưu hồ sơ và kiểm tra hết sức đơn giản" đó có thể "dễ dàng được thực hiện" bởi người nhận lương công nhân bình thường.
 
-Chỉ sau vài năm cầm quyền ở Liên Xô, Lenin đối mặt với một thực tế rất khác và rất cay đắng. Chính ông viết về một "cuộc khủng hoảng nhiên liệu" "đe doạ làm gián đoạn mọi công việc của chính quyền Xô viết", về cảnh "suy sụp, đói kém và tàn phá" trong nước, và thậm chí thừa nhận nông dân nổi dậy đã thành "chuyện thường" dưới chế độ cộng sản. Những chức năng kinh tế từng có vẻ dễ và đơn giản trước khi phải tự làm giờ có vẻ khó tới mức gần như quá sức. Muộn màng, Lenin thấy cần những người "thông thạo nghệ thuật quản trị" và thừa nhận "không có chỗ nào để tìm những người như vậy ngoài giai cấp cũ", tức giới doanh nhân tư bản. Trong bài phát biểu tại Đại hội Đảng Cộng sản năm 1920, Lenin cảnh báo các đồng chí rằng quan điểm về quản trị doanh nghiệp quá thường xuyên thấm đẫm "tinh thần dốt nát thuần tuý, tinh thần chống chuyên gia". Sự đơn giản bề ngoài của ba năm trước giờ đòi hỏi chuyên gia. Từ đó bắt đầu Chính sách Kinh tế Mới (New Economic Policy, NEP) của Lenin, cho phép thêm hoạt động thị trường, và nền kinh tế bắt đầu hồi phục.
+Chỉ sau vài năm cầm quyền ở Liên Xô, Lenin đối mặt với một thực tế rất khác và rất cay đắng. Chính ông viết về một "cuộc khủng hoảng nhiên liệu" "đe doạ làm gián đoạn mọi công việc của chính quyền Xô viết", về cảnh "suy sụp, đói kém và tàn phá" trong nước, và thậm chí thừa nhận nông dân nổi dậy đã thành "chuyện thường" dưới chế độ cộng sản. Những chức năng kinh tế từng có vẻ dễ và đơn giản trước khi phải tự làm giờ có vẻ khó tới mức gần như quá sức.
+
+Muộn màng, Lenin thấy cần những người "thông thạo nghệ thuật quản trị" và thừa nhận "không có chỗ nào để tìm những người như vậy ngoài giai cấp cũ", tức giới doanh nhân tư bản. Trong bài phát biểu tại Đại hội Đảng Cộng sản năm 1920, Lenin cảnh báo các đồng chí rằng quan điểm về quản trị doanh nghiệp quá thường xuyên thấm đẫm "tinh thần dốt nát thuần tuý, tinh thần chống chuyên gia". Sự đơn giản bề ngoài của ba năm trước giờ đòi hỏi chuyên gia. Từ đó bắt đầu Chính sách Kinh tế Mới (New Economic Policy, NEP) của Lenin, cho phép thêm hoạt động thị trường, và nền kinh tế bắt đầu hồi phục.
 
 Gần một trăm năm sau, khi kinh tế Nga tăng trưởng dưới 2% mỗi năm, một nhà lãnh đạo Nga khác học lại bài học đó. Một bài trang nhất *New York Times* năm 2013 đưa tin rằng, với nền kinh tế Nga trì trệ, Tổng thống Vladimir V. Putin đã nghĩ ra kế hoạch vực dậy: ân xá cho một số doanh nhân đang ngồi tù.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một chuỗi 500 cửa hàng tạp hoá truyền thống ở nội thành, mỗi cửa hàng bán 300 đơn mỗi ngày, mỗi đơn trung bình 80.000 đồng, và mỗi ngày nhận một chuyến xe giao hàng riêng tốn 400.000 đồng. Chi phí giao hàng tính trên mỗi đơn khoảng 1.300 đồng. Một chuỗi siêu thị lớn ở khu đô thị mới có 50 điểm bán, mỗi điểm bán 3.000 đơn mỗi ngày, mỗi đơn 400.000 đồng vì khách đi xe máy hoặc ô tô và có tủ lạnh lớn ở nhà; mỗi điểm nhận hai chuyến xe lớn mỗi ngày, tổng cộng tốn 2 triệu đồng. Chi phí giao hàng trên mỗi đơn chỉ khoảng 670 đồng, và tính trên mỗi đồng doanh thu còn thấp hơn nhiều. Cùng logic với việc tính tiền cho một khách mua 100 USD nhanh hơn mười khách mua 10 USD, siêu thị có thể bán rẻ hơn mà vẫn lãi. Nếu chuỗi tạp hoá truyền thống không dời theo nơi dân mới chuyển tới, thua lỗ sẽ buộc nó đóng bớt cửa hàng, giống A & P. Còn nếu một chuỗi khác sau này tìm được cách rẻ hơn nữa (ví dụ giao hàng tận nhà từ kho trung tâm), siêu thị lại bị đặt vào vị thế của A & P. Với người mua, điều quan trọng là ở mỗi giai đoạn họ đều được bán với chi phí thấp nhất lúc đó.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một chuỗi 500 cửa hàng tạp hoá truyền thống ở nội thành, mỗi cửa hàng bán 300 đơn mỗi ngày, mỗi đơn trung bình 80.000 đồng, và mỗi ngày nhận một chuyến xe giao hàng riêng tốn 400.000 đồng. Chi phí giao hàng tính trên mỗi đơn khoảng 1.300 đồng.
+
+Một chuỗi siêu thị lớn ở khu đô thị mới có 50 điểm bán, mỗi điểm bán 3.000 đơn mỗi ngày, mỗi đơn 400.000 đồng vì khách đi xe máy hoặc ô tô và có tủ lạnh lớn ở nhà; mỗi điểm nhận hai chuyến xe lớn mỗi ngày, tổng cộng tốn 2 triệu đồng. Chi phí giao hàng trên mỗi đơn chỉ khoảng 670 đồng, và tính trên mỗi đồng doanh thu còn thấp hơn nhiều. Cùng logic với việc tính tiền cho một khách mua 100 USD nhanh hơn mười khách mua 10 USD, siêu thị có thể bán rẻ hơn mà vẫn lãi.
+
+Nếu chuỗi tạp hoá truyền thống không dời theo nơi dân mới chuyển tới, thua lỗ sẽ buộc nó đóng bớt cửa hàng, giống A & P. Còn nếu một chuỗi khác sau này tìm được cách rẻ hơn nữa (ví dụ giao hàng tận nhà từ kho trung tâm), siêu thị lại bị đặt vào vị thế của A & P. Với người mua, điều quan trọng là ở mỗi giai đoạn họ đều được bán với chi phí thấp nhất lúc đó.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -953,19 +994,27 @@ Luận điểm "thị trường khai thác kiến thức phân tán" vốn là m
 
 ### Cách chọn ví dụ thiên về người thắng, nên dễ đánh giá thấp vai trò của may rủi và của các yếu tố ngoài thị trường
 
-Sowell kể chuyện những người nhìn đúng (Penney, Wood, Walton, Rockefeller) và những người nhìn sai bị trừng phạt. Nhưng với mỗi Penney, có rất nhiều người cũng đặt cược vào một nhận định "táo bạo" và phá sản; chính Sowell nêu ở đầu chương rằng hơn nửa doanh nghiệp mới không qua bốn năm. Ví dụ những người nhận nhượng quyền McDonald's thậm chí cho thấy kết quả khó đoán trước tới mức nào. Chương cũng ít bàn tới những yếu tố ngoài cạnh tranh góp phần vào sự suy tàn của các công ty: Sowell nhắc công đoàn ngành báo làm chi phí tăng và bãi bỏ điều tiết hàng không, nhưng không phân tích. Lập luận vẫn đứng vững (thị trường không cần biết ai đúng trước, chỉ cần thưởng người đúng sau), nhưng người đọc nên hiểu đó là một quá trình chọn lọc nhiều lãng phí, không phải một cuộc thi mà người giỏi nhất luôn thắng.
+Sowell kể chuyện những người nhìn đúng (Penney, Wood, Walton, Rockefeller) và những người nhìn sai bị trừng phạt. Nhưng với mỗi Penney, có rất nhiều người cũng đặt cược vào một nhận định "táo bạo" và phá sản; chính Sowell nêu ở đầu chương rằng hơn nửa doanh nghiệp mới không qua bốn năm. Ví dụ những người nhận nhượng quyền McDonald's thậm chí cho thấy kết quả khó đoán trước tới mức nào.
+
+Chương cũng ít bàn tới những yếu tố ngoài cạnh tranh góp phần vào sự suy tàn của các công ty: Sowell nhắc công đoàn ngành báo làm chi phí tăng và bãi bỏ điều tiết hàng không, nhưng không phân tích. Lập luận vẫn đứng vững (thị trường không cần biết ai đúng trước, chỉ cần thưởng người đúng sau), nhưng người đọc nên hiểu đó là một quá trình chọn lọc nhiều lãng phí, không phải một cuộc thi mà người giỏi nhất luôn thắng.
 
 ### Ví dụ Rockefeller chỉ kể mặt giảm giá của Standard Oil, bỏ qua các cáo buộc độc quyền
 
-Sowell trình bày Standard Oil như minh chứng cho đổi mới làm giảm giá: giá dầu hoả từ 58 xu xuống 8 xu, và đó là sự thật được ghi nhận rộng rãi. Nhưng Standard Oil cũng là trường hợp kinh điển của luật chống độc quyền: công ty từng bị cáo buộc nhận chiết khấu bí mật từ các hãng đường sắt và dùng sức mạnh thị trường để chèn ép đối thủ, và bị toà án tối cao Mỹ buộc chia tách năm 1911. Sowell không nhắc chuyện này trong chương; ông dành Chương 8 (Regulation and Anti-Trust Laws) để bàn về luật chống độc quyền với quan điểm hoài nghi rõ rệt. Người đọc nên biết rằng việc Standard Oil đạt khoảng 90% thị phần dầu hoả được các nhà kinh tế diễn giải khác nhau: Sowell coi đó là phần thưởng cho hiệu quả, còn những người ủng hộ luật chống độc quyền coi đó là dấu hiệu độc quyền.
+Sowell trình bày Standard Oil như minh chứng cho đổi mới làm giảm giá: giá dầu hoả từ 58 xu xuống 8 xu, và đó là sự thật được ghi nhận rộng rãi.
+
+Nhưng Standard Oil cũng là trường hợp kinh điển của luật chống độc quyền: công ty từng bị cáo buộc nhận chiết khấu bí mật từ các hãng đường sắt và dùng sức mạnh thị trường để chèn ép đối thủ, và bị toà án tối cao Mỹ buộc chia tách năm 1911. Sowell không nhắc chuyện này trong chương; ông dành Chương 8 (Regulation and Anti-Trust Laws) để bàn về luật chống độc quyền với quan điểm hoài nghi rõ rệt. Người đọc nên biết rằng việc Standard Oil đạt khoảng 90% thị phần dầu hoả được các nhà kinh tế diễn giải khác nhau: Sowell coi đó là phần thưởng cho hiệu quả, còn những người ủng hộ luật chống độc quyền coi đó là dấu hiệu độc quyền.
 
 ### Từ 2014, nhiều công ty trong chương tiếp tục minh hoạ đúng luận điểm của Sowell
 
-Nói định tính: A & P đóng cửa hẳn; Sears, công ty từng chiến thắng Montgomery Ward nhờ chuyển sang bách hoá đúng lúc, đã phá sản năm 2018 khi thương mại điện tử và các chuỗi chi phí thấp lấy khách, đúng như Montgomery Ward từng thua Sears; J.C. Penney cũng phá sản năm 2020. Wal-Mart, kẻ thắng cuối cùng trong chương, nay chịu áp lực từ bán lẻ trực tuyến. Boeing, công ty Sowell mô tả là "giành lại vị trí dẫn đầu" năm 2006, lại tụt sau Airbus sau các vụ tai nạn và khủng hoảng 737 MAX. Toyota, dù từng thu hồi xe năm 2010, vẫn là một trong các hãng ô tô lớn nhất thế giới, nhưng ngành ô tô đối mặt với một thay đổi công nghệ mới (xe điện) giống kiểu thạch anh thay đồng hồ cơ. Tất cả khẳng định câu của Sowell rằng không vị trí dẫn đầu nào là vĩnh viễn.
+Nói định tính: A & P đóng cửa hẳn; Sears, công ty từng chiến thắng Montgomery Ward nhờ chuyển sang bách hoá đúng lúc, đã phá sản năm 2018 khi thương mại điện tử và các chuỗi chi phí thấp lấy khách, đúng như Montgomery Ward từng thua Sears; J.C. Penney cũng phá sản năm 2020.
+
+Wal-Mart, kẻ thắng cuối cùng trong chương, nay chịu áp lực từ bán lẻ trực tuyến. Boeing, công ty Sowell mô tả là "giành lại vị trí dẫn đầu" năm 2006, lại tụt sau Airbus sau các vụ tai nạn và khủng hoảng 737 MAX. Toyota, dù từng thu hồi xe năm 2010, vẫn là một trong các hãng ô tô lớn nhất thế giới, nhưng ngành ô tô đối mặt với một thay đổi công nghệ mới (xe điện) giống kiểu thạch anh thay đồng hồ cơ. Tất cả khẳng định câu của Sowell rằng không vị trí dẫn đầu nào là vĩnh viễn.
 
 ### Quan điểm trái chiều: sự "tự sửa sai" của thị trường có thể chậm và tốn kém, còn công ty lớn có thể dùng chính trị để tránh thua lỗ
 
-Sowell nhấn mạnh rằng thua lỗ buộc lãnh đạo kém phải thay đổi hoặc bị thay. Nhưng thực tế cho thấy quá trình này có thể kéo dài hàng thập kỷ (A & P suy tàn từ thập niên 1970 tới khoảng 2015), gây mất việc tập trung ở một số vùng, và những công ty đủ lớn đôi khi được nhà nước cứu (như các hãng ô tô Detroit năm 2009, sự kiện Sowell không nhắc dù dẫn lợi nhuận năm 2010 và 2012 của họ). Thị trường thâu tóm doanh nghiệp cũng có mặt tối: một số vụ thâu tóm bằng vốn vay nợ cắt giảm đầu tư dài hạn để trả nợ, không phải để phục vụ khách tốt hơn. Những phản biện này không bác bỏ luận điểm chính của chương, nhưng cho thấy cơ chế lời lỗ vận hành tốt nhất khi thua lỗ thật sự được để xảy ra và cạnh tranh không bị chặn.
+Sowell nhấn mạnh rằng thua lỗ buộc lãnh đạo kém phải thay đổi hoặc bị thay. Nhưng thực tế cho thấy quá trình này có thể kéo dài hàng thập kỷ (A & P suy tàn từ thập niên 1970 tới khoảng 2015), gây mất việc tập trung ở một số vùng, và những công ty đủ lớn đôi khi được nhà nước cứu (như các hãng ô tô Detroit năm 2009, sự kiện Sowell không nhắc dù dẫn lợi nhuận năm 2010 và 2012 của họ).
+
+Thị trường thâu tóm doanh nghiệp cũng có mặt tối: một số vụ thâu tóm bằng vốn vay nợ cắt giảm đầu tư dài hạn để trả nợ, không phải để phục vụ khách tốt hơn. Những phản biện này không bác bỏ luận điểm chính của chương, nhưng cho thấy cơ chế lời lỗ vận hành tốt nhất khi thua lỗ thật sự được để xảy ra và cạnh tranh không bị chặn.
 
 ### Đoạn so sánh với Lenin mạnh về lập luận nhưng đơn giản về lịch sử
 
@@ -977,3 +1026,178 @@ Trích dẫn của Lenin trước và sau khi cầm quyền là bằng chứng r
 - **Trong đầu tư.** Biên lợi nhuận cao bất thường thường không kéo dài, vì nó thu hút vốn và đối thủ mới (đầu đĩa CD từ "phát đạt" thành "mỏng như dao cạo" trong vài năm). Đừng ngoại suy thành công quá khứ của công ty dẫn đầu; danh sách *Fortune* 500 thay 26 tên trong một năm. Một công ty quản lý kém có thể là cơ hội nếu có khả năng thay ban quản lý (ví dụ 50, 60, 100 USD của Sowell), và việc giá cổ phiếu tăng khi một lãnh đạo từ chức (như Sewell Avery) là tín hiệu thị trường đánh giá lãnh đạo đó.
 - **Trong nghề nghiệp.** Kiến thức và sự thấu hiểu là nguồn lực khan hiếm, và thị trường thưởng cho người nhìn ra hệ quả của những thay đổi mà ai cũng thấy nhưng ít người hiểu, như Robert Wood với số liệu điều tra dân số. Gia thế và bằng cấp không quyết định (Penney, Sam Walton, Ford). Nhưng ví dụ Wood bị sa thải cũng nhắc rằng đúng sớm trong một tổ chức bảo thủ có thể phải trả giá; thị trường lao động cho phép mang ý tưởng sang nơi chịu nghe.
 - **Khi đọc tin chính sách.** Ở Việt Nam, khi một doanh nghiệp lớn hay một ngành truyền thống gặp khó khăn và đề nghị hỗ trợ, câu hỏi đáng đặt ra theo tinh thần của Sowell là: khó khăn đến từ một cú sốc tạm thời, hay từ việc điều kiện đã thay đổi và đối thủ đang phục vụ người mua rẻ hơn? Nếu là trường hợp sau, giữ doanh nghiệp đó sống có thể giữ nguồn lực ở chỗ dùng kém hiệu quả và làm người tiêu dùng chịu giá cao hơn. Những thay đổi trong bán lẻ (chợ truyền thống, cửa hàng tạp hoá, chuỗi cửa hàng tiện lợi, siêu thị, thương mại điện tử) là bối cảnh gần gũi để quan sát cơ chế mà Sowell mô tả qua câu chuyện A & P và Sears.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 5 trên một trang: sáu nhánh lớn đi theo các mục 1–6 của phần Nội dung chi tiết (đoạn mở đầu và tiểu mục Thích ứng với thay đổi, Thay đổi xã hội với A & P và ngành báo, Thay đổi xã hội với Montgomery Ward, Sears, J.C. Penney và vai trò của kiến thức, Thay đổi kinh tế và công nghệ, Thay đổi trong lãnh đạo doanh nghiệp với ô tô, Wal-Mart và Rockefeller, rồi McDonald's, CEO Đan Mạch, thâu tóm và Lenin), mỗi nhánh ghi luận điểm, ví dụ và con số then chốt của Sowell; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 5: doanh nghiệp liên tục lên xuống, lợi nhuận và thua lỗ đưa nguồn lực về tay người phục vụ rẻ nhất`"]
+  n1["`Mục 1–2 — Kinh doanh là quá trình động, không phải nơi cứ thế đều đặn kiếm ra tiền`"]
+  n0 --- n1
+  n2["`Khoảng 1/3 doanh nghiệp mới không sống quá 2 năm, hơn nửa không quá 4 năm, chỉ 35% sống được 10 năm`"]
+  n1 --- n2
+  n3["`Câu hỏi kinh tế không phải chủ kiếm bao nhiêu, mà nguồn lực khan hiếm được dùng ra sao`"]
+  n1 --- n3
+  n4["`Lợi nhuận và thua lỗ quan trọng ngang nhau trong việc buộc công ty dùng nguồn lực hiệu quả`"]
+  n1 --- n4
+  n5["`26 công ty rời danh sách Fortune 500 chỉ trong 2010–2011, có Radio Shack và Levi Strauss`"]
+  n1 --- n5
+  n6["`Trung tâm tài chính Mỹ dời từ phố Chestnut ở Philadelphia sang phố Wall ở New York`"]
+  n1 --- n6
+  n7["`Lãi lớn thu hút vốn và công ty mới, kéo giá và biên lợi nhuận xuống tới mức bền vững`"]
+  n1 --- n7
+  n8["`Đầu đĩa CD Nhật cuối thập niên 1980 từ #quot;phát đạt#quot; tới biên lãi #quot;mỏng như dao cạo#quot; sau vài năm`"]
+  n7 --- n8
+  n9["`U.S. Steel từ hãng thép lớn nhất thế giới (1901) xuống hạng 13 (2011), lỗ 53 triệu USD`"]
+  n1 --- n9
+  n10["`Boeing bán gấp hơn hai lần Airbus năm 1998, Airbus vượt năm 2003, Boeing giành lại năm 2006`"]
+  n9 --- n10
+  n11["`Công ty do con người điều hành, có sai lầm, và chỉ nhìn từ bên ngoài kinh doanh mới có vẻ dễ`"]
+  n1 --- n11
+  n12["`Mục 3 — Thay đổi xã hội: A #amp; P thắng rồi thua theo cùng một cơ chế chi phí thấp, giá thấp`"]
+  n0 --- n12
+  n13["`A #amp; P có 15.000 cửa hàng năm 1929, lợi nhuận trên vốn không năm nào dưới 20% thập niên 1920`"]
+  n12 --- n13
+  n14["`Thập niên 1970 A #amp; P lỗ hơn 50 triệu rồi 157 triệu USD mỗi kỳ 52 tuần, đóng hàng nghìn cửa hàng`"]
+  n12 --- n14
+  n15["`Sau Thế chiến II dân ra ngoại ô, có ô tô, tủ lạnh: ít chuyến đi chợ, mỗi chuyến mua nhiều`"]
+  n12 --- n15
+  n16["`Siêu thị có bãi đỗ xe hút khách lái xe từ nhiều dặm, giao hàng tới một điểm rẻ hơn nhiều điểm nhỏ`"]
+  n12 --- n16
+  n17["`Tính tiền cho 1 khách mua 100 USD nhanh hơn cho 10 khách mỗi người mua 10 USD`"]
+  n16 --- n17
+  n18["`Safeway phản ứng nhanh hơn, A #amp; P nán lại nội đô, ngại thuê địa điểm mới ở vành đai nắng`"]
+  n12 --- n18
+  n19["`A #amp; P thắng thời này thua thời khác, nhưng người mua luôn có tạp hoá rẻ nhất lúc đó`"]
+  n12 --- n19
+  n20["`Đầu thế kỷ 21 Wal-Mart lên đỉnh ngành tạp hoá, số cửa hàng gần gấp đôi Safeway`"]
+  n19 --- n20
+  n21["`Pan Am ngừng hoạt động sau bãi bỏ điều tiết, Herald-Tribune đình bản khi truyền hình lên ngôi`"]
+  n12 --- n21
+  n22["`Báo bán mỗi ngày ở New York từ hơn 6 triệu bản (1949) xuống dưới 3 triệu (1990)`"]
+  n21 --- n22
+  n23["`Công ty suy tàn là bằng chứng của cạnh tranh và của thịnh vượng tăng lên cho người tiêu dùng`"]
+  n12 --- n23
+  n24["`Mục 3 — Kiến thức khan hiếm: Penney buộc Sears và Montgomery Ward làm theo mà không cần thuyết phục ai`"]
+  n0 --- n24
+  n25["`Kiến thức là một trong những nguồn lực khan hiếm nhất, sự thấu hiểu rút ra từ nó còn hiếm hơn`"]
+  n24 --- n25
+  n26["`Thế kỷ 19 Montgomery Ward rồi Sears bán qua thư từ kho Chicago, rẻ hơn cửa hàng nông thôn`"]
+  n24 --- n26
+  n27["`Điều tra dân số 1920 lần đầu cho thấy dân thành thị đông hơn dân nông thôn`"]
+  n24 --- n27
+  n28["`Robert Wood thấy chuỗi bách hoá đô thị lãi hơn bán qua thư, bị Montgomery Ward sa thải`"]
+  n27 --- n28
+  n29["`Chuỗi J.C. Penney từ gần 300 cửa hàng (1920) lên hơn 1.000 cuối thập niên đó`"]
+  n27 --- n29
+  n30["`Sears và Ward thua lỗ, Wood sang Sears xây bách hoá, Ward làm theo muộn và không đuổi kịp`"]
+  n24 --- n30
+  n31["`Penney lớn lên nghèo khó, khởi đầu với 1/3 phần hùn một cửa hàng ở thị trấn nhỏ bang Wyoming`"]
+  n24 --- n31
+  n32["`Sam Walton, từng bán hàng ở J.C. Penney, lập Wal-Mart có doanh số hơn Sears và Penney cộng lại`"]
+  n24 --- n32
+  n33["`Thị trường tự do không cần thuyết phục ai, chỉ cần cạnh tranh và để thị trường kiểm chứng`"]
+  n24 --- n33
+  n34["`Kinh tế do nhà cầm quyền điều hành: ý tưởng của dân không đủ sức ép buộc người ở đỉnh đổi cách làm`"]
+  n24 --- n34
+  n35["`Mục 4–5 — Thay đổi kinh tế và công nghệ loại bỏ người dẫn đầu chậm thích nghi`"]
+  n0 --- n35
+  n36["`Thập niên 1960 Macy's và Bloomingdale's từ chối thẻ tín dụng ngân hàng, chỉ nhận sau cửa hàng nhỏ`"]
+  n35 --- n36
+  n37["`Năm 2003 giao dịch bằng thẻ lần đầu nhiều hơn tiền mặt, Circuit City lãi toàn bộ từ thẻ`"]
+  n36 --- n37
+  n38["`Sewell Avery tích tiền tới mức Fortune gọi Montgomery Ward là #quot;một ngân hàng có mặt tiền cửa hàng#quot;`"]
+  n35 --- n38
+  n39["`Avery từ chức tổng giám đốc thì giá cổ phiếu Montgomery Ward tăng ngay lập tức`"]
+  n38 --- n39
+  n40["`Xã hội chỉ cho quý tộc, quân đội, một đảng hay nam giới quyết định là vứt bỏ kiến thức của dân`"]
+  n35 --- n40
+  n41["`Cậu bé nhà nông lập Ford Motor, hai thợ sửa xe đạp phát minh ra máy bay`"]
+  n40 --- n41
+  n42["`Kodak bán 90% phim và 85% máy ảnh ở Mỹ năm 1976, chính Kodak phát minh máy ảnh số`"]
+  n35 --- n42
+  n43["`Kodak lỗ 222 triệu USD quý 3/2011, nộp đơn phá sản tháng 1/2012, còn Fuji đã đa dạng hoá`"]
+  n42 --- n43
+  n44["`Đồng hồ thạch anh: năm 1975 Bulova lỗ 21 triệu USD trên doanh thu 55 triệu USD, thị phần còn 8%`"]
+  n35 --- n44
+  n45["`Năm 2006 TV ống hình chỉ còn 21% doanh số ở Mỹ, LCD 49%, plasma 10%`"]
+  n35 --- n45
+  n46["`Mục 6 — Lãnh đạo khác nhau nên không vị trí dẫn đầu nào là vĩnh viễn`"]
+  n0 --- n46
+  n47["`Năm 2003 Toyota lãi 1.800 USD mỗi xe, GM lãi 300 USD, Ford lỗ 240 USD`"]
+  n46 --- n47
+  n48["`Năm 2012 Ford lãi 5,7 tỷ USD, GM 4,9 tỷ USD, Toyota 3,45 tỷ USD`"]
+  n47 --- n48
+  n49["`Toyota vượt GM thành hãng lớn nhất nhưng năm 2010 thu hồi hơn 8 triệu xe vì lỗi chân ga`"]
+  n46 --- n49
+  n50["`Wal-Mart với #quot;giá thấp mỗi ngày#quot; giúp khách Mỹ tiết kiệm 20 tỷ USD trong một năm`"]
+  n46 --- n50
+  n51["`Lãi ròng của cả nền kinh tế là mức sống của người mua sản phẩm`"]
+  n50 --- n51
+  n52["`Rockefeller chở dầu bằng toa bồn, dùng xăng bị bỏ đi làm nhiên liệu, làm sơn, sáp, vaseline`"]
+  n46 --- n52
+  n53["`Không phải thu hồi toàn bộ chi phí từ dầu hoả, Standard Oil bán khoảng 90% dầu hoả cả nước`"]
+  n52 --- n53
+  n54["`Giá dầu hoả từ 58 xu (1865) xuống 26 xu (1870) rồi 8 xu mỗi gallon trong thập niên 1870`"]
+  n46 --- n54
+  n55["`Trung lưu và lao động trả được 1 xu mỗi giờ để thắp sáng, đọc sách sau khi trời tối`"]
+  n54 --- n55
+  n56["`Mục 6 — Thua lỗ, phá sản và thâu tóm thay được người quản lý kém`"]
+  n0 --- n56
+  n57["`Kroc giỏi vận hành, Sonneborn giỏi tài chính: cùng nhau đưa McDonald's lên hàng đầu thế giới`"]
+  n56 --- n57
+  n58["`Howard Johnson Jr. thua vì mang cách làm chậm của nhà hàng truyền thống vào đồ ăn nhanh`"]
+  n56 --- n58
+  n59["`Cặp vợ chồng lao động khó gom 100 USD ngày khai trương thành triệu phú nhờ McDonald's`"]
+  n56 --- n59
+  n60["`CEO Đan Mạch có người nhà mất: sinh lời giảm 9%, vợ hoặc chồng mất 15%, con mất 21%`"]
+  n56 --- n60
+  n61["`Thâu tóm: cổ phiếu 50 USD, mua dần ở 60 USD, thay ban quản lý, giá có thể lên 100 USD`"]
+  n56 --- n61
+  n62["`Lenin trước 1917 tưởng quản trị chỉ là #quot;kế toán và kiểm soát#quot; ai biết chữ cũng làm được`"]
+  n56 --- n62
+  n63["`Năm 1920 Lenin thừa nhận cần người của giai cấp cũ, rồi mở Chính sách Kinh tế Mới, kinh tế hồi phục`"]
+  n62 --- n63
+  n64["`Năm 2013 kinh tế Nga tăng dưới 2%, Putin định vực dậy bằng ân xá doanh nhân đang ngồi tù`"]
+  n62 --- n64
+  n65["`Thông điệp xuyên suốt — xét hệ quả cho cả nền kinh tế, không chỉ cho từng công ty`"]
+  n0 --- n65
+  n66["`Không nên đánh giá nền kinh tế qua số phận từng công ty, người tiêu dùng mới là bên được lợi`"]
+  n65 --- n66
+  n67["`Không hệ thống kinh tế nào có thể trông cậy vào sự sáng suốt liên tục của người đang lãnh đạo`"]
+  n65 --- n67
+  n68["`Che chắn doanh nghiệp khỏi thua lỗ giữ nguồn lực ở chỗ dùng kém hiệu quả`"]
+  n65 --- n68
+  class n0 root
+  class n1,n12,n24,n35,n46,n56,n65 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n54,n55,n57,n58,n59,n60,n61,n62,n63,n64,n66,n67,n68 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần II "Industry and Commerce", Chương 5.
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần I (Chương 2 đến 4) giải thích giá cả điều phối việc phân bổ nguồn lực khan hiếm như thế nào và điều gì xảy ra khi nhà nước kiểm soát giá.
+
+Chương 5 mở đầu Phần II "Công nghiệp và thương mại" (Industry and Commerce): Sowell chuyển từ giá cả sang các doanh nghiệp, tức những đơn vị phản ứng với giá cả, và cho thấy doanh nghiệp không phải những đơn vị cứ thế đều đặn kiếm ra tiền mà liên tục lên và xuống trong cạnh tranh.
+
+Chương này đặt ra vai trò của lợi nhuận và thua lỗ, chủ đề mà Chương 6 "The Role of Profits—and Losses" sẽ phân tích sâu. Các đoạn so sánh với nền kinh tế do nhà lãnh đạo chính trị điều hành (Lenin, chủ nghĩa trọng thương thời trung cổ) cũng chuẩn bị cho Chương 9 về kinh tế thị trường và phi thị trường.
+
+## Lưu ý
+
+- Sách viết khoảng 2013–2014; số liệu mới nhất trong chương là năm 2012–2013 (lợi nhuận ô tô 2012, bài báo về Putin năm 2013). Nhiều công ty Sowell nhắc tới đã thay đổi lớn từ đó, theo đúng logic của chương: A & P đóng cửa hẳn vào khoảng 2015; Sears và J.C. Penney đều nộp đơn phá sản (Sears năm 2018, J.C. Penney năm 2020); Kodak ra khỏi phá sản năm 2013 với quy mô nhỏ hơn nhiều; Radio Shack cũng phá sản; Boeing gặp khủng hoảng lớn với dòng máy bay 737 MAX từ 2019 và Airbus lại dẫn đầu về số máy bay giao.
+- Circuit City, công ty được dẫn với số liệu năm 2003, đã phá sản và đóng cửa năm 2009, trước khi ấn bản này ra đời, nhưng sách không nhắc.
+- Con số lợi nhuận 3,45 tỷ USD của Toyota "năm 2012" có lẽ là năm tài chính kết thúc tháng 3/2012, năm Toyota bị ảnh hưởng nặng bởi động đất và sóng thần ở Nhật; Sowell không nói rõ.
+- Chương này không có chú thích chân trang có nội dung (chỉ có chú thích nguồn trích dẫn, đã bỏ qua). Các câu trích là bản dịch của người tổng hợp.

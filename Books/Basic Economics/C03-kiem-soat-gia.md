@@ -1,11 +1,16 @@
 # Chương 3 — Kiểm soát giá (Price Controls)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần I "Prices and Markets", Chương 3.
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 2 (The Role of Prices) giải thích giá cả làm gì trong một nền kinh tế thị trường: giá truyền thông tin về sự khan hiếm, tạo động cơ khuyến khích, và phân bổ những nguồn lực khan hiếm có nhiều cách dùng khác nhau; lượng cầu thay đổi theo mức giá. Chương 3 kiểm tra lại các ý đó bằng cách nhìn vào điều ngược lại: chuyện gì xảy ra khi luật pháp không cho giá dao động tự do. Sowell xét hai dạng: giá trần (giữ giá thấp hơn mức thị trường, với ví dụ trung tâm là kiểm soát tiền thuê nhà) và giá sàn (giữ giá cao hơn mức thị trường, với ví dụ trung tâm là hỗ trợ giá nông sản). Chương 4 (An Overview of Prices) sẽ khái quát lại vai trò của giá sau hai chương này. Lập luận về giá sàn sẽ được dùng lại ở Chương 11 (Minimum Wage Laws), nơi lương tối thiểu là một giá sàn trên thị trường lao động; lập luận về chính trị của các chương trình trợ cấp được dùng lại ở Chương 8 (Regulation and Anti-Trust Laws) và Chương 18–19 về chức năng và tài chính của chính phủ.
-**Ý chính:** Sowell muốn người đọc hiểu rằng **"thiếu hụt" (shortage) và "dư thừa" (surplus) là hiện tượng của giá, không phải hiện tượng của số lượng vật chất**. Thiếu hụt nghĩa là lượng cầu vượt lượng cung *ở mức giá hiện hành*; dư thừa là điều ngược lại. Vì vậy, khi luật giữ giá thấp hơn mức cung cầu, thiếu hụt xuất hiện dù hàng hoá không ít đi; khi luật giữ giá cao hơn mức cung cầu, dư thừa xuất hiện dù người dân vẫn đói. Ví dụ trung tâm là nhà ở: nước Mỹ thiếu nhà trầm trọng trong và ngay sau Thế chiến II dù tỷ lệ nhà ở trên đầu người không đổi, vì luật kiểm soát tiền thuê nhà; ngược lại, San Francisco năm 1906 mất hơn nửa số nhà trong trận động đất nhưng không thiếu nhà, vì giá thuê được tự do tăng. Từ đó Sowell lần lượt chỉ ra các hệ quả đi kèm kiểm soát giá: tích trữ, chợ đen, suy giảm chất lượng, nguồn lực bị dồn sang chỗ khác; và giải thích vì sao các chính sách này vẫn thắng về chính trị.
+## Ý chính
 
-> **Lưu ý:** Ấn bản thứ năm được viết khoảng 2013–2014; số liệu mới nhất trong chương là năm 2013 (số người vô gia cư ở New York, chi phí phòng khách sạn của Sở Dịch vụ Người vô gia cư New York) và năm 2012 (diện tích trồng lúa mì ở Argentina, bão Sandy). Một số chi tiết đã thay đổi từ đó, nói ở mức định tính: Liên minh châu Âu đã bỏ hạn ngạch sản xuất đường vào năm 2017; Argentina dỡ bỏ phần lớn hạn chế xuất khẩu lúa mì từ cuối năm 2015, rồi các chính phủ sau đó lại có lúc áp dụng lại các biện pháp kiểm soát; bang New York năm 2019 thắt chặt thêm luật ổn định tiền thuê nhà (rent stabilization) thay vì nới ra; Zimbabwe bỏ đồng nội tệ trong một thời gian sau năm 2009 để dùng ngoại tệ. Chương này có **3 chú thích chân trang** của Sowell (đánh dấu v, vi, vii trong sách); cả ba đã được đưa vào phần Nội dung chi tiết, ở mục 5 (về vợ của Sowell), mục 8 (về chợ đen thịt) và mục 10 (về các chương trình trợ cấp nông nghiệp), có ghi rõ là chú thích của Sowell. Sách có một lỗi chính tả nhỏ ("scare resources" thay cho "scarce resources" ở đoạn về kho lúa mì Ấn Độ), không ảnh hưởng nội dung. Các câu trích là bản dịch của người tổng hợp.
+Sowell muốn người đọc hiểu rằng **"thiếu hụt" (shortage) và "dư thừa" (surplus) là hiện tượng của giá, không phải hiện tượng của số lượng vật chất**.
+
+Thiếu hụt nghĩa là lượng cầu vượt lượng cung *ở mức giá hiện hành*; dư thừa là điều ngược lại. Vì vậy, khi luật giữ giá thấp hơn mức cung cầu, thiếu hụt xuất hiện dù hàng hoá không ít đi; khi luật giữ giá cao hơn mức cung cầu, dư thừa xuất hiện dù người dân vẫn đói.
+
+Ví dụ trung tâm là nhà ở: nước Mỹ thiếu nhà trầm trọng trong và ngay sau Thế chiến II dù tỷ lệ nhà ở trên đầu người không đổi, vì luật kiểm soát tiền thuê nhà.
+
+Ngược lại, San Francisco năm 1906 mất hơn nửa số nhà trong trận động đất nhưng không thiếu nhà, vì giá thuê được tự do tăng.
+
+Từ đó Sowell lần lượt chỉ ra các hệ quả đi kèm kiểm soát giá: tích trữ, chợ đen, suy giảm chất lượng, nguồn lực bị dồn sang chỗ khác; và giải thích vì sao các chính sách này vẫn thắng về chính trị.
 
 ## Sơ đồ
 
@@ -691,7 +696,9 @@
 
 1. **Vì sao có thể thiếu nhà khi số nhà trên đầu người không giảm, và không thiếu nhà khi hơn nửa số nhà vừa bị phá huỷ?** Vì thiếu hụt là hiện tượng của giá: lượng cầu vượt lượng cung ở mức giá hiện hành. Thời Thế chiến II, dân số và số nhà ở Mỹ đều tăng khoảng 10%, nhưng luật kiểm soát tiền thuê giữ giá thấp khiến nhiều người thuê thêm diện tích, nên người khác không còn chỗ. Năm 1906, San Francisco mất hơn nửa số nhà, gần 100.000 người phải tìm chỗ ở trong thành phố, nhưng giá thuê được tự do tăng nên người ta dùng ít diện tích hơn và cho thuê lại phòng trống; một tháng sau báo có 64 quảng cáo cho thuê và chỉ 5 quảng cáo tìm nhà.
 2. **Ngoài thiếu hụt, giá trần còn gây ra những gì?** Tích trữ (xăng trong bình xe những năm 1970, căn hộ của thị trưởng Ed Koch), chợ đen (thịt ở Mỹ thời chiến, "chợ xám" mà 83% dân Liên Xô sử dụng), suy giảm chất lượng (nhà không được bảo trì, táo không được phân loại, 10.000 bệnh nhân Anh chờ mổ từ 15 tháng trở lên), cung giảm (không xây nhà mới, chủ rút nhà khỏi thị trường hoặc bỏ hoang) và nguồn lực bị dồn sang nơi khác (văn phòng trống gần 12%, nhà hạng sang). Kết quả thường ngược với mục đích: ở New York và San Francisco, người khá giả hưởng lợi nhiều nhất còn tiền thuê trung bình và số người vô gia cư lại cao hơn.
-3. **Vì sao giá sàn nông sản tạo ra dư thừa ngay cả khi dân đói, và vì sao các chương trình này không bị bỏ?** Vì dư thừa cũng là hiện tượng của giá: người dân không đủ tiền mua hết sản lượng ở mức giá cao do chính phủ đặt. Năm 1933, chính phủ Mỹ tiêu huỷ 6 triệu con lợn trong khi trẻ em suy dinh dưỡng; Ấn Độ đầu thế kỷ 21 có kho lúa mì, gạo của nhà nước sắp lên tới 80 triệu tấn, trong khi ở bang Rajasthan tới 47 người chết vì các nguyên nhân liên quan tới đói. Các chương trình tồn tại vì đã tạo ra nhóm hưởng lợi có tổ chức (nông dân chặn đường ở Paris, Ottawa; nhà sản xuất đường góp tiền cho cả hai đảng Mỹ), trong khi phần lớn tiền rốt cuộc vào tay các nông trại lớn nhất.
+3. **Vì sao giá sàn nông sản tạo ra dư thừa ngay cả khi dân đói, và vì sao các chương trình này không bị bỏ?** Vì dư thừa cũng là hiện tượng của giá: người dân không đủ tiền mua hết sản lượng ở mức giá cao do chính phủ đặt. Năm 1933, chính phủ Mỹ tiêu huỷ 6 triệu con lợn trong khi trẻ em suy dinh dưỡng; Ấn Độ đầu thế kỷ 21 có kho lúa mì, gạo của nhà nước sắp lên tới 80 triệu tấn, trong khi ở bang Rajasthan tới 47 người chết vì các nguyên nhân liên quan tới đói.
+
+   Các chương trình tồn tại vì đã tạo ra nhóm hưởng lợi có tổ chức (nông dân chặn đường ở Paris, Ottawa; nhà sản xuất đường góp tiền cho cả hai đảng Mỹ), trong khi phần lớn tiền rốt cuộc vào tay các nông trại lớn nhất.
 
 ## Khái niệm cần biết
 
@@ -737,7 +744,9 @@ Phần lớn đầu tiên bàn về giá trần, tức giá bị giữ thấp h�
 
 Ví dụ là nhà ở Mỹ trong và ngay sau Thế chiến II. So với trước chiến tranh, cả dân số và số nhà ở đều tăng khoảng 10%, và khi chiến tranh bắt đầu thì không có thiếu hụt nhà. Vậy mà sau đó nhiều người Mỹ tìm căn hộ mất hàng tuần, hàng tháng, thường không tìm được; có người phải đút lót chủ nhà để được xếp lên đầu danh sách chờ. Trong lúc chờ, họ ở ghép với họ hàng, ngủ trong nhà để xe, hoặc mua lều tôn quân đội thanh lý (Quonset hut) hay toa xe điện cũ để ở.
 
-Dù diện tích nhà trên đầu người không ít hơn trước chiến tranh, thiếu hụt là có thật và rất đau đớn *ở mức giá hiện hành*, mức giá bị giữ thấp giả tạo bởi luật kiểm soát tiền thuê nhà ban hành trong chiến tranh. Ở mức giá đó, nhiều người muốn thuê nhiều diện tích hơn trước khi có luật, đúng như nguyên lý ở Chương 2: lượng cầu thay đổi theo mức giá. Khi một số người dùng nhiều nhà hơn thường lệ, những người khác thấy còn ít nhà hơn. Điều này đúng với mọi dạng kiểm soát giá: một số người dùng hàng bị kiểm soát giá rộng rãi hơn vì giá rẻ giả tạo, và người khác thấy phần còn lại cho mình ít đi. Kiểm soát giá còn có những hệ quả khác, và kiểm soát tiền thuê nhà minh hoạ được cả những hệ quả đó.
+Dù diện tích nhà trên đầu người không ít hơn trước chiến tranh, thiếu hụt là có thật và rất đau đớn *ở mức giá hiện hành*, mức giá bị giữ thấp giả tạo bởi luật kiểm soát tiền thuê nhà ban hành trong chiến tranh. Ở mức giá đó, nhiều người muốn thuê nhiều diện tích hơn trước khi có luật, đúng như nguyên lý ở Chương 2: lượng cầu thay đổi theo mức giá.
+
+Khi một số người dùng nhiều nhà hơn thường lệ, những người khác thấy còn ít nhà hơn. Điều này đúng với mọi dạng kiểm soát giá: một số người dùng hàng bị kiểm soát giá rộng rãi hơn vì giá rẻ giả tạo, và người khác thấy phần còn lại cho mình ít đi. Kiểm soát giá còn có những hệ quả khác, và kiểm soát tiền thuê nhà minh hoạ được cả những hệ quả đó.
 
 ### 3. Tiểu mục "Demand under Rent Control" — cầu nhà ở khi có kiểm soát tiền thuê
 
@@ -753,11 +762,15 @@ Dù diện tích nhà trên đầu người không ít hơn trước chiến tra
 | Manhattan (gần một nửa số căn hộ bị kiểm soát tiền thuê dưới hình thức nào đó) | 46% hộ gia đình chỉ có một người (theo một báo cáo của Cục Điều tra Dân số) |
 | Toàn nước Mỹ | 27% hộ gia đình chỉ có một người |
 
-**Nhà ở luân chuyển theo vòng đời nhờ giá.** Nhu cầu nhà ở của mỗi người thay đổi qua cuộc đời: tăng khi kết hôn và có con; giảm khi con lớn dọn đi; giảm nữa khi vợ hoặc chồng mất và người còn lại chuyển tới chỗ nhỏ hơn, về ở với họ hàng hoặc vào viện dưỡng lão. Nhờ vậy tổng số nhà ở của xã hội được chia sẻ và luân chuyển giữa người dân theo nhu cầu ở từng giai đoạn. Sowell nhấn mạnh sự chia sẻ này không đến từ tinh thần hợp tác mà từ giá thuê, mức giá phản ánh giá trị mà những người thuê khác đặt vào nhà ở. Cặp vợ chồng trẻ có con thường sẵn sàng trả giá cao hơn cho nhà, dù phải bớt đi ăn nhà hàng, xem phim, hoãn mua quần áo hay xe mới, để mỗi đứa con có một phòng riêng. Khi con cái đã lớn và đi hết, sự hy sinh đó không còn hợp lý, vì thuê ít diện tích hơn sẽ có tiền cho những tiện nghi khác.
+**Nhà ở luân chuyển theo vòng đời nhờ giá.** Nhu cầu nhà ở của mỗi người thay đổi qua cuộc đời: tăng khi kết hôn và có con; giảm khi con lớn dọn đi; giảm nữa khi vợ hoặc chồng mất và người còn lại chuyển tới chỗ nhỏ hơn, về ở với họ hàng hoặc vào viện dưỡng lão. Nhờ vậy tổng số nhà ở của xã hội được chia sẻ và luân chuyển giữa người dân theo nhu cầu ở từng giai đoạn.
+
+Sowell nhấn mạnh sự chia sẻ này không đến từ tinh thần hợp tác mà từ giá thuê, mức giá phản ánh giá trị mà những người thuê khác đặt vào nhà ở. Cặp vợ chồng trẻ có con thường sẵn sàng trả giá cao hơn cho nhà, dù phải bớt đi ăn nhà hàng, xem phim, hoãn mua quần áo hay xe mới, để mỗi đứa con có một phòng riêng. Khi con cái đã lớn và đi hết, sự hy sinh đó không còn hợp lý, vì thuê ít diện tích hơn sẽ có tiền cho những tiện nghi khác.
 
 Kiểm soát tiền thuê triệt tiêu động cơ thay đổi hành vi khi hoàn cảnh thay đổi. Người già ít có lý do rời căn hộ lớn khi con đã đi hoặc khi vợ, chồng mất, vì chuyển đi không giúp họ tiết kiệm đáng kể tiền thuê để cải thiện đời sống ở mặt khác. Thêm vào đó, thiếu hụt kinh niên làm việc tìm một căn nhỏ hơn tốn nhiều thời gian và công sức hơn, trong khi phần thưởng tài chính của việc tìm được lại nhỏ đi. Tóm lại, kiểm soát tiền thuê làm giảm tốc độ luân chuyển nhà ở.
 
-**New York.** Thành phố có kiểm soát tiền thuê lâu nhất và chặt nhất trong các thành phố lớn của Mỹ có tốc độ luân chuyển căn hộ hằng năm chưa bằng một nửa trung bình cả nước, còn tỷ lệ người thuê ở cùng một căn từ 20 năm trở lên cao hơn gấp đôi trung bình cả nước. *New York Times* tóm tắt rằng New York từng giống các thành phố khác, nơi người thuê chuyển nhà thường xuyên và chủ nhà cạnh tranh để cho người mới đến thuê căn trống; nay khẩu hiệu có lẽ là "Người nhập cư khỏi cần nộp đơn": người nhập cư chen chúc trên giường tầng trong nhà trọ bất hợp pháp ở khu ổ chuột, còn người trung lưu khá giả bản địa trả tiền thuê thấp cho căn hộ ở khu tốt, thường là căn rộng mà họ không còn cần sau khi con cái dọn đi.
+**New York.** Thành phố có kiểm soát tiền thuê lâu nhất và chặt nhất trong các thành phố lớn của Mỹ có tốc độ luân chuyển căn hộ hằng năm chưa bằng một nửa trung bình cả nước, còn tỷ lệ người thuê ở cùng một căn từ 20 năm trở lên cao hơn gấp đôi trung bình cả nước.
+
+*New York Times* tóm tắt rằng New York từng giống các thành phố khác, nơi người thuê chuyển nhà thường xuyên và chủ nhà cạnh tranh để cho người mới đến thuê căn trống; nay khẩu hiệu có lẽ là "Người nhập cư khỏi cần nộp đơn": người nhập cư chen chúc trên giường tầng trong nhà trọ bất hợp pháp ở khu ổ chuột, còn người trung lưu khá giả bản địa trả tiền thuê thấp cho căn hộ ở khu tốt, thường là căn rộng mà họ không còn cần sau khi con cái dọn đi.
 
 ### 4. Tiểu mục "Supply under Rent Control" — cung nhà ở khi có kiểm soát tiền thuê
 
@@ -770,7 +783,9 @@ Kiểm soát tiền thuê triệt tiêu động cơ thay đổi hành vi khi ho�
 | Santa Monica (California), áp kiểm soát từ 1979 | Số giấy phép xây dựng giảm xuống dưới 1/10 so với 5 năm trước đó |
 | San Francisco | 3/4 số nhà bị kiểm soát tiền thuê đã hơn 50 năm tuổi; 44% đã hơn 70 năm tuổi |
 
-**Nguồn lực chuyển sang xây nhà thương mại.** Xây văn phòng, nhà máy, kho bãi và các công trình thương mại, công nghiệp khác dùng phần lớn cùng loại lao động và vật liệu như xây chung cư. Vậy mà ở nhiều thành phố có rất nhiều toà văn phòng mới trong khi hầu như không có chung cư mới, vì luật kiểm soát tiền thuê thường không áp cho nhà thương mại, công nghiệp. Năm 2003, dù New York, San Francisco và các thành phố có kiểm soát tiền thuê khác thiếu nhà ở trầm trọng, một khảo sát toàn quốc cho thấy tỷ lệ trống của nhà dùng cho kinh doanh và công nghiệp gần 12%, cao nhất trong hơn hai thập kỷ. Theo Sowell, đây thêm một bằng chứng rằng thiếu nhà ở là hiện tượng của giá: nguồn lực để xây rõ ràng dồi dào, nhưng kiểm soát tiền thuê ngăn chúng được dùng để xây căn hộ và dồn chúng sang xây văn phòng, nhà máy.
+**Nguồn lực chuyển sang xây nhà thương mại.** Xây văn phòng, nhà máy, kho bãi và các công trình thương mại, công nghiệp khác dùng phần lớn cùng loại lao động và vật liệu như xây chung cư. Vậy mà ở nhiều thành phố có rất nhiều toà văn phòng mới trong khi hầu như không có chung cư mới, vì luật kiểm soát tiền thuê thường không áp cho nhà thương mại, công nghiệp.
+
+Năm 2003, dù New York, San Francisco và các thành phố có kiểm soát tiền thuê khác thiếu nhà ở trầm trọng, một khảo sát toàn quốc cho thấy tỷ lệ trống của nhà dùng cho kinh doanh và công nghiệp gần 12%, cao nhất trong hơn hai thập kỷ. Theo Sowell, đây thêm một bằng chứng rằng thiếu nhà ở là hiện tượng của giá: nguồn lực để xây rõ ràng dồi dào, nhưng kiểm soát tiền thuê ngăn chúng được dùng để xây căn hộ và dồn chúng sang xây văn phòng, nhà máy.
 
 **Nhà hiện có xuống cấp.** Không chỉ nhà mới ít đi, ngay cả số nhà hiện có cũng giảm, vì khi thiếu nhà, chủ nhà không cần giữ nhà đẹp để thu hút người thuê nên bớt bảo trì, sửa chữa. Nhà vì thế xuống cấp nhanh hơn và ít được thay thế khi hỏng. Các nghiên cứu ở Mỹ, Anh và Pháp đều thấy nhà bị kiểm soát tiền thuê xuống cấp thường xuyên hơn nhiều so với nhà không bị kiểm soát.
 
@@ -797,7 +812,11 @@ Sowell kết luận vô gia cư không do khan hiếm nhà vật chất mà do m
 
 **Vì sao thắng phiếu.** Về chính trị, kiểm soát tiền thuê thường rất thành công dù gây nhiều vấn đề kinh tế và xã hội. Các chính trị gia biết luôn có nhiều người thuê nhà hơn chủ nhà, và nhiều người không hiểu kinh tế học hơn người hiểu, nên luật này thường mang lại thêm phiếu cho người thông qua nó.
 
-**Hình ảnh và thực tế về chủ nhà.** Kiểm soát tiền thuê hay được trình bày như cách ngăn chủ nhà giàu tham lam "chặt chém" người nghèo bằng giá thuê "vô lương tâm". Thực tế, lợi suất đầu tư vào nhà cho thuê hiếm khi cao hơn các khoản đầu tư khác, và nhiều chủ nhà có thu nhập khiêm tốn. Điều này càng đúng với chủ các toà nhà nhỏ, cũ, cần sửa liên tục, loại nhà người thu nhập thấp hay thuê; nhiều chủ là những người thợ tự làm mộc, sửa ống nước để bảo trì nhà và dùng tiền thuê trả dần nợ thế chấp. Tóm lại, loại nhà người nghèo thuê thường có chủ không hề giàu. *Chú thích của Sowell:* vợ ông từng làm luật sư cho một tổ chức phi lợi nhuận thường đại diện người thuê trong tranh chấp với chủ nhà; sau khi thấy chủ nhà thường là người có mức sống và học vấn rõ ràng khiêm tốn, bà bắt đầu xem lại những giả định đã khiến bà ủng hộ kiểm soát tiền thuê và các quy định nhà ở đi kèm.
+**Hình ảnh và thực tế về chủ nhà.** Kiểm soát tiền thuê hay được trình bày như cách ngăn chủ nhà giàu tham lam "chặt chém" người nghèo bằng giá thuê "vô lương tâm".
+
+Thực tế, lợi suất đầu tư vào nhà cho thuê hiếm khi cao hơn các khoản đầu tư khác, và nhiều chủ nhà có thu nhập khiêm tốn.
+
+Điều này càng đúng với chủ các toà nhà nhỏ, cũ, cần sửa liên tục, loại nhà người thu nhập thấp hay thuê; nhiều chủ là những người thợ tự làm mộc, sửa ống nước để bảo trì nhà và dùng tiền thuê trả dần nợ thế chấp. Tóm lại, loại nhà người nghèo thuê thường có chủ không hề giàu. *Chú thích của Sowell:* vợ ông từng làm luật sư cho một tổ chức phi lợi nhuận thường đại diện người thuê trong tranh chấp với chủ nhà; sau khi thấy chủ nhà thường là người có mức sống và học vấn rõ ràng khiêm tốn, bà bắt đầu xem lại những giả định đã khiến bà ủng hộ kiểm soát tiền thuê và các quy định nhà ở đi kèm.
 
 **Giá thuê không còn so sánh được.** Khi luật áp cho mọi căn nhà có sẵn lúc luật có hiệu lực, cả nhà sang cũng thành nhà giá rẻ. Sau một thời gian, khi rõ là sẽ không ai xây nhà mới nếu không được miễn kiểm soát, nhà mới được miễn hoặc nới kiểm soát, nên căn hộ mới nhỏ và bình thường có thể có giá thuê cao hơn nhiều căn cũ rộng và sang vẫn bị kiểm soát. Tình trạng này phổ biến ở các thành phố châu Âu có kiểm soát tiền thuê cũng như ở New York và các thành phố Mỹ khác: động cơ khuyến khích giống nhau tạo ra kết quả giống nhau ở những nơi rất khác nhau. *Wall Street Journal* đưa một ví dụ ở New York:
 
@@ -806,7 +825,9 @@ Sowell kết luận vô gia cư không do khan hiếm nhà vật chất mà do m
 | Les Katz, 27 tuổi, sinh viên diễn xuất kiêm người gác cửa | Căn studio nhỏ ở Upper West Side, Manhattan, ở cùng 2 bạn: 2 người ngủ trên gác xép dựng trên bếp, người thứ ba ngủ nệm ở phòng chính | 1.200 USD |
 | Paul Haberman, nhà đầu tư tư nhân, và vợ | Căn 2 phòng ngủ rộng có phòng kính và 2 sân thượng trong một toà nhà sang trên Park Avenue; giới môi giới ước giá trị ít nhất 5.000 USD một tháng | Khoảng 350 USD (theo hồ sơ tiền thuê) |
 
-**Ai hưởng lợi.** Trường hợp người khá giả được thuê rẻ như vậy không phải cá biệt. Trớ trêu là một nghiên cứu thống kê cho thấy chênh lệch lớn nhất giữa giá bị kiểm soát và giá thị trường tự do ở New York nằm ở các căn hộ hạng sang, tức người khá giả và người giàu được lợi từ kiểm soát tiền thuê nhiều hơn người nghèo, những người được viện dẫn để biện minh cho luật. Trong khi đó, các cơ quan phúc lợi của thành phố trả giá thuê cao hơn nhiều để cho các gia đình nghèo ở trong những phòng chật chội, đầy gián ở khách sạn xuống cấp. Năm 2013, *New York Times* đưa tin Sở Dịch vụ Người vô gia cư của thành phố chi hơn 3.000 USD một tháng cho mỗi phòng tồi tàn không có nhà tắm hay bếp trong một khách sạn phòng đơn, một nửa trả tiền thuê cho chủ, nửa kia cho an ninh và dịch vụ xã hội dành cho người ở.
+**Ai hưởng lợi.** Trường hợp người khá giả được thuê rẻ như vậy không phải cá biệt. Trớ trêu là một nghiên cứu thống kê cho thấy chênh lệch lớn nhất giữa giá bị kiểm soát và giá thị trường tự do ở New York nằm ở các căn hộ hạng sang, tức người khá giả và người giàu được lợi từ kiểm soát tiền thuê nhiều hơn người nghèo, những người được viện dẫn để biện minh cho luật.
+
+Trong khi đó, các cơ quan phúc lợi của thành phố trả giá thuê cao hơn nhiều để cho các gia đình nghèo ở trong những phòng chật chội, đầy gián ở khách sạn xuống cấp. Năm 2013, *New York Times* đưa tin Sở Dịch vụ Người vô gia cư của thành phố chi hơn 3.000 USD một tháng cho mỗi phòng tồi tàn không có nhà tắm hay bếp trong một khách sạn phòng đơn, một nửa trả tiền thuê cho chủ, nửa kia cho an ninh và dịch vụ xã hội dành cho người ở.
 
 Sowell cho rằng hình ảnh "kiểm soát tiền thuê bảo vệ người thuê nghèo trước chủ nhà giàu" có thể hiệu quả về chính trị nhưng thường ít giống thực tế. Người hưởng lợi và người chịu thiệt có thể ở bất kỳ mức thu nhập nào; điều quyết định là ai tình cờ đang ở bên trong (đã có căn hộ bị kiểm soát) và ai ở bên ngoài nhìn vào khi luật được thông qua.
 
@@ -837,7 +858,11 @@ Báo chí thời đó không nhắc gì tới thiếu nhà. Giá thuê tăng kh�
 
 Ngoài thiếu hụt và suy giảm chất lượng, kiểm soát giá thường dẫn tới tích trữ: mỗi người giữ lượng hàng bị kiểm soát giá nhiều hơn bình thường vì không chắc sau này còn mua được.
 
-**Xăng ở Mỹ thập niên 1970.** Trong các đợt thiếu xăng, người lái xe ít để bình xuống thấp như thường lệ trước khi đi đổ. Có người còn nửa bình vẫn ghé bất kỳ trạm nào tình cờ có xăng để đổ đầy nửa còn lại, cho chắc. Khi hàng triệu xe chạy với bình đầy hơn bình thường, một lượng xăng khổng lồ chuyển vào kho dự trữ của từng cá nhân, trạm xăng còn ít hơn để bán. Vì vậy một thiếu hụt tương đối nhỏ trên toàn quốc thành vấn đề rất nặng với những người hết xăng và phải đi tìm một trạm vừa mở cửa vừa còn xăng. Mức độ thiếu hụt đột ngột, trong khi tổng sản lượng xăng gần như không đổi, khiến nhiều người khó hiểu và sinh ra các thuyết âm mưu, chẳng hạn các hãng dầu cho tàu chở dầu từ Trung Đông chạy vòng ngoài biển chờ giá tăng rồi mới cập bờ. Không thuyết nào đứng vững khi kiểm chứng, nhưng như phần lớn ngộ nhận, chúng có một hạt nhân hợp lý: thiếu xăng nặng mà sản lượng gần như không đổi thì hẳn phải có một lượng xăng lớn bị chuyển đi đâu đó. Ít ai trong số người tạo ra hay tin các thuyết đó ngờ rằng phần xăng ấy nằm trong chính bình xăng xe mình. Thiếu hụt càng nặng vì giữ hàng triệu kho nhỏ trong ô tô, xe tải kém hiệu quả hơn giữ kho chung trong bồn chứa của trạm.
+**Xăng ở Mỹ thập niên 1970.** Trong các đợt thiếu xăng, người lái xe ít để bình xuống thấp như thường lệ trước khi đi đổ. Có người còn nửa bình vẫn ghé bất kỳ trạm nào tình cờ có xăng để đổ đầy nửa còn lại, cho chắc. Khi hàng triệu xe chạy với bình đầy hơn bình thường, một lượng xăng khổng lồ chuyển vào kho dự trữ của từng cá nhân, trạm xăng còn ít hơn để bán. Vì vậy một thiếu hụt tương đối nhỏ trên toàn quốc thành vấn đề rất nặng với những người hết xăng và phải đi tìm một trạm vừa mở cửa vừa còn xăng.
+
+Mức độ thiếu hụt đột ngột, trong khi tổng sản lượng xăng gần như không đổi, khiến nhiều người khó hiểu và sinh ra các thuyết âm mưu, chẳng hạn các hãng dầu cho tàu chở dầu từ Trung Đông chạy vòng ngoài biển chờ giá tăng rồi mới cập bờ. Không thuyết nào đứng vững khi kiểm chứng, nhưng như phần lớn ngộ nhận, chúng có một hạt nhân hợp lý: thiếu xăng nặng mà sản lượng gần như không đổi thì hẳn phải có một lượng xăng lớn bị chuyển đi đâu đó.
+
+Ít ai trong số người tạo ra hay tin các thuyết đó ngờ rằng phần xăng ấy nằm trong chính bình xăng xe mình. Thiếu hụt càng nặng vì giữ hàng triệu kho nhỏ trong ô tô, xe tải kém hiệu quả hơn giữ kho chung trong bồn chứa của trạm.
 
 **Tích trữ tuỳ loại hàng.** Khả năng tích trữ khác nhau giữa các loại hàng, nên tác động của kiểm soát giá cũng khác nhau. Kiểm soát giá dâu tây có thể gây thiếu hụt nhẹ hơn xăng, vì dâu tây quá dễ hỏng để tích trữ lâu. Kiểm soát giá dịch vụ như cắt tóc cũng có thể gây thiếu hụt nhẹ hơn vì dịch vụ không tích trữ được: không ai cắt tóc hai lần trong một ngày khi gặp thợ rảnh để được lâu gấp đôi mới phải cắt lại, dù thợ cắt tóc có thể khó tìm hơn khi giá cắt tóc bị giữ thấp.
 
@@ -849,7 +874,9 @@ Theo Sowell, tích trữ là trường hợp riêng của nguyên lý chung rằ
 
 ### 8. Tiểu mục "Black Markets" — chợ đen
 
-Kiểm soát giá cấm người mua và người bán giao dịch theo những điều kiện mà cả hai đều thích hơn tình trạng thiếu hụt. Vì vậy những người mua và bán bạo dạn hơn, ít ngại luật hơn sẽ giao dịch có lợi cho cả hai bên ngoài vòng pháp luật. Kiểm soát giá hầu như luôn sinh ra chợ đen, nơi giá không chỉ cao hơn giá luật cho phép mà còn cao hơn giá thị trường tự do, vì phải bù cho rủi ro pháp lý. Chợ đen nhỏ có thể hoạt động lén lút, còn chợ đen lớn thường phải hối lộ quan chức để họ làm ngơ. Ở Nga, lệnh cấm vận chuyển lương thực bị kiểm soát giá ra ngoài ranh giới vùng được gọi là "sắc lệnh 150 rúp", vì đó là giá hối lộ cảnh sát để xe hàng qua trạm kiểm soát.
+Kiểm soát giá cấm người mua và người bán giao dịch theo những điều kiện mà cả hai đều thích hơn tình trạng thiếu hụt. Vì vậy những người mua và bán bạo dạn hơn, ít ngại luật hơn sẽ giao dịch có lợi cho cả hai bên ngoài vòng pháp luật.
+
+Kiểm soát giá hầu như luôn sinh ra chợ đen, nơi giá không chỉ cao hơn giá luật cho phép mà còn cao hơn giá thị trường tự do, vì phải bù cho rủi ro pháp lý. Chợ đen nhỏ có thể hoạt động lén lút, còn chợ đen lớn thường phải hối lộ quan chức để họ làm ngơ. Ở Nga, lệnh cấm vận chuyển lương thực bị kiểm soát giá ra ngoài ranh giới vùng được gọi là "sắc lệnh 150 rúp", vì đó là giá hối lộ cảnh sát để xe hàng qua trạm kiểm soát.
 
 Ngay đầu thời Xô viết, khi buôn lương thực chợ đen có thể bị xử tử, chợ đen vẫn tồn tại. Hai nhà kinh tế Xô viết thời sau viết rằng ngay ở đỉnh điểm thời Cộng sản Thời chiến (War Communism), những người đầu cơ và buôn lậu lương thực liều mạng vẫn mang vào các thành phố lượng ngũ cốc ngang bằng toàn bộ lượng nhà nước thu mua theo chế độ trưng thu lương thực bắt buộc (prodrazverstka).
 
@@ -871,9 +898,13 @@ Việc làm gần gấp đôi chỉ trong ba tháng cho thấy thịt rõ ràng 
 
 Một lý do kiểm soát giá thành công về chính trị là một phần chi phí của nó bị che khuất; ngay cả thiếu hụt nhìn thấy được cũng không nói hết câu chuyện. Chất lượng giảm, như đã thấy với nhà ở, là hiện tượng phổ biến ở nhiều hàng hoá, dịch vụ có giá bị giữ thấp giả tạo bằng mệnh lệnh của chính phủ.
 
-**Khó định nghĩa thứ bị kiểm soát giá.** Một vấn đề gốc của kiểm soát giá là định nghĩa chính xác thứ đang bị kiểm soát giá. Ngay cả quả táo cũng khó định nghĩa, vì táo khác nhau về cỡ, độ tươi, hình thức, chưa kể giống. Cửa hàng rau quả và siêu thị tốn thời gian (tức tiền) phân loại táo và bỏ những quả dưới mức chất lượng khách hàng của mình mong đợi. Dưới kiểm soát giá, lượng cầu ở giá thấp giả tạo vượt lượng cung, táo nào cũng bán được, nên không cần tốn nhiều công phân loại; những quả lẽ ra bị bỏ đi trên thị trường tự do có thể được giữ lại bán cho người đến sau khi táo ngon đã hết. Giống căn hộ bị kiểm soát tiền thuê, khi thiếu hụt thì cái gì cũng bán được, nên ít động cơ giữ chất lượng cao.
+**Khó định nghĩa thứ bị kiểm soát giá.** Một vấn đề gốc của kiểm soát giá là định nghĩa chính xác thứ đang bị kiểm soát giá. Ngay cả quả táo cũng khó định nghĩa, vì táo khác nhau về cỡ, độ tươi, hình thức, chưa kể giống. Cửa hàng rau quả và siêu thị tốn thời gian (tức tiền) phân loại táo và bỏ những quả dưới mức chất lượng khách hàng của mình mong đợi.
 
-**Y tế.** Một số ví dụ đau đớn nhất xảy ra ở các nước kiểm soát giá dịch vụ y tế. Ở mức giá thấp giả tạo, nhiều người tới phòng khám vì những bệnh nhẹ như sổ mũi, nổi mẩn mà lẽ ra họ bỏ qua hoặc tự chữa bằng thuốc không kê đơn, có thể theo lời khuyên của dược sĩ. Điều đó càng rõ khi các lượt khám do chính phủ trả và người bệnh không phải trả gì. Nhiều người đòi hỏi thời gian của bác sĩ hơn, nên người có bệnh nặng hơn, thậm chí cấp cứu, còn ít thời gian hơn. Trong hệ thống y tế do chính phủ kiểm soát ở Anh, một bé gái 12 tuổi được nâng ngực trong khi 10.000 người chờ phẫu thuật từ 15 tháng trở lên; một phụ nữ bị ung thư bị hoãn mổ nhiều lần tới khi khối u không còn mổ được. Theo Sowell, thứ tự ưu tiên mà giá cả tự động buộc mỗi người cân nhắc là một trong những thứ đầu tiên bị kiểm soát giá phá huỷ.
+Dưới kiểm soát giá, lượng cầu ở giá thấp giả tạo vượt lượng cung, táo nào cũng bán được, nên không cần tốn nhiều công phân loại; những quả lẽ ra bị bỏ đi trên thị trường tự do có thể được giữ lại bán cho người đến sau khi táo ngon đã hết. Giống căn hộ bị kiểm soát tiền thuê, khi thiếu hụt thì cái gì cũng bán được, nên ít động cơ giữ chất lượng cao.
+
+**Y tế.** Một số ví dụ đau đớn nhất xảy ra ở các nước kiểm soát giá dịch vụ y tế. Ở mức giá thấp giả tạo, nhiều người tới phòng khám vì những bệnh nhẹ như sổ mũi, nổi mẩn mà lẽ ra họ bỏ qua hoặc tự chữa bằng thuốc không kê đơn, có thể theo lời khuyên của dược sĩ. Điều đó càng rõ khi các lượt khám do chính phủ trả và người bệnh không phải trả gì. Nhiều người đòi hỏi thời gian của bác sĩ hơn, nên người có bệnh nặng hơn, thậm chí cấp cứu, còn ít thời gian hơn.
+
+Trong hệ thống y tế do chính phủ kiểm soát ở Anh, một bé gái 12 tuổi được nâng ngực trong khi 10.000 người chờ phẫu thuật từ 15 tháng trở lên; một phụ nữ bị ung thư bị hoãn mổ nhiều lần tới khi khối u không còn mổ được. Theo Sowell, thứ tự ưu tiên mà giá cả tự động buộc mỗi người cân nhắc là một trong những thứ đầu tiên bị kiểm soát giá phá huỷ.
 
 Một nghiên cứu của Tổ chức Hợp tác và Phát triển Kinh tế (OECD) về năm nước nói tiếng Anh cho thấy tỷ lệ bệnh nhân chờ phẫu thuật theo lịch hẹn (elective surgery) hơn bốn tháng như sau:
 
@@ -893,7 +924,9 @@ Chậm điều trị là một mặt của suy giảm chất lượng khi giá b
 
 **Nguồn gốc ở Đại suy thoái.** Một bi kịch của Đại suy thoái thập niên 1930 là nhiều nông dân Mỹ không bán được nông sản đủ tiền trả các khoản nợ. Giá nông sản giảm mạnh hơn nhiều so với giá những thứ nông dân phải mua; thu nhập nông nghiệp giảm từ hơn 6 tỷ USD năm 1929 xuống 2 tỷ USD năm 1932. Khi nhiều nông dân mất trang trại vì không trả được nợ thế chấp và nhiều gia đình khác chịu thiếu thốn để giữ trang trại và lối sống truyền thống, chính phủ liên bang tìm cách khôi phục cái gọi là "ngang giá" (parity) giữa nông nghiệp và các khu vực khác của nền kinh tế, bằng cách can thiệp để giá nông sản không giảm quá mạnh.
 
-**Các hình thức can thiệp.** Một cách là dùng luật hạn chế lượng nông sản được trồng và bán, để cung không đẩy giá xuống dưới mức quan chức đã định; nguồn cung lạc và bông bị hạn chế theo cách này. Nguồn cung cam quýt, các loại hạt và nhiều nông sản khác do các nhóm liên kết (cartel) nông dân địa phương điều tiết, có Bộ trưởng Nông nghiệp đứng sau với quyền ra "lệnh tiếp thị" (marketing order) và truy tố người sản xuất, bán vượt mức cho phép. Các cơ chế này tồn tại hàng chục năm sau khi cảnh nghèo của Đại suy thoái đã nhường chỗ cho thời thịnh vượng sau Thế chiến II, và nhiều hạn chế vẫn còn tới nay. Nhưng yếu tố then chốt giữ giá nông sản cao hơn mức cung cầu là việc chính phủ sẵn sàng mua phần dư thừa do chính việc kiểm soát giá tạo ra, với ngô, gạo, thuốc lá, lúa mì và nhiều nông sản khác; nhiều chương trình này cũng còn tới nay.
+**Các hình thức can thiệp.** Một cách là dùng luật hạn chế lượng nông sản được trồng và bán, để cung không đẩy giá xuống dưới mức quan chức đã định; nguồn cung lạc và bông bị hạn chế theo cách này. Nguồn cung cam quýt, các loại hạt và nhiều nông sản khác do các nhóm liên kết (cartel) nông dân địa phương điều tiết, có Bộ trưởng Nông nghiệp đứng sau với quyền ra "lệnh tiếp thị" (marketing order) và truy tố người sản xuất, bán vượt mức cho phép. Các cơ chế này tồn tại hàng chục năm sau khi cảnh nghèo của Đại suy thoái đã nhường chỗ cho thời thịnh vượng sau Thế chiến II, và nhiều hạn chế vẫn còn tới nay.
+
+Nhưng yếu tố then chốt giữ giá nông sản cao hơn mức cung cầu là việc chính phủ sẵn sàng mua phần dư thừa do chính việc kiểm soát giá tạo ra, với ngô, gạo, thuốc lá, lúa mì và nhiều nông sản khác; nhiều chương trình này cũng còn tới nay.
 
 Dù ban đầu nhằm giúp nhóm nào, các chương trình này còn làm lợi cho những người khác, và những người hưởng lợi mới khiến việc chấm dứt chương trình trở nên khó về chính trị, kể cả rất lâu sau khi hoàn cảnh ban đầu đã thay đổi và những người hưởng lợi ban đầu chỉ còn là một phần nhỏ trong nhóm cử tri có tổ chức quyết giữ chương trình. *Chú thích của Sowell:* đây không phải mô thức hiếm gặp trong quá trình phát triển của các loại chương trình khác của chính phủ.
 
@@ -901,7 +934,11 @@ Dù ban đầu nhằm giúp nhóm nào, các chương trình này còn làm lợ
 
 **Dư thừa là hiện tượng của giá.** Vậy mà vẫn có dư thừa lương thực. Giống thiếu hụt, dư thừa là hiện tượng của *giá*, không có nghĩa là có thứ gì đó thừa so với dân số. Thời Đại suy thoái không có "quá nhiều" lương thực so với dân số; người dân chỉ đơn giản không đủ tiền mua hết sản lượng ở mức giá cao giả tạo do chính phủ đặt.
 
-**Ấn Độ.** Tình hình rất giống ở Ấn Độ nghèo đói đầu thế kỷ 21, nơi lúa mì và gạo dư thừa nhờ chính sách hỗ trợ giá của chính phủ. *Far Eastern Economic Review* đưa tin kho lương thực nhà nước ở mức cao kỷ lục và mùa xuân tới sẽ lên tới 80 triệu tấn, gấp bốn lần lượng cần cho tình trạng khẩn cấp quốc gia, trong khi lúa mì và gạo nằm im, có khi nhiều năm tới mức mục nát, hàng triệu người Ấn Độ không đủ ăn. *New York Times* đưa tin dưới tiêu đề "Người nghèo Ấn Độ chết đói trong khi lúa mì dư thừa mục nát": lúa mì dư của vụ năm đó, do chính phủ mua của nông dân, nằm mốc trên những cánh đồng lầy lội ở bang Punjab, cùng với lúa mì dư của các năm trước nữa; ở bang Rajasthan bên cạnh, dân làng ăn lá luộc và bánh làm từ hạt cỏ suốt cuối hè và mùa thu vì không đủ tiền mua lúa mì, và lần lượt tới 47 người, cả trẻ em lẫn người lớn, chết vì các nguyên nhân liên quan tới đói. Sowell nhận xét dư thừa lương thực ở một nước còn suy dinh dưỡng nghe như mâu thuẫn, nhưng dư thừa do giá sàn cũng có thật như thiếu nhà do giá trần.
+**Ấn Độ.** Tình hình rất giống ở Ấn Độ nghèo đói đầu thế kỷ 21, nơi lúa mì và gạo dư thừa nhờ chính sách hỗ trợ giá của chính phủ. *Far Eastern Economic Review* đưa tin kho lương thực nhà nước ở mức cao kỷ lục và mùa xuân tới sẽ lên tới 80 triệu tấn, gấp bốn lần lượng cần cho tình trạng khẩn cấp quốc gia, trong khi lúa mì và gạo nằm im, có khi nhiều năm tới mức mục nát, hàng triệu người Ấn Độ không đủ ăn.
+
+*New York Times* đưa tin dưới tiêu đề "Người nghèo Ấn Độ chết đói trong khi lúa mì dư thừa mục nát": lúa mì dư của vụ năm đó, do chính phủ mua của nông dân, nằm mốc trên những cánh đồng lầy lội ở bang Punjab, cùng với lúa mì dư của các năm trước nữa; ở bang Rajasthan bên cạnh, dân làng ăn lá luộc và bánh làm từ hạt cỏ suốt cuối hè và mùa thu vì không đủ tiền mua lúa mì, và lần lượt tới 47 người, cả trẻ em lẫn người lớn, chết vì các nguyên nhân liên quan tới đói.
+
+Sowell nhận xét dư thừa lương thực ở một nước còn suy dinh dưỡng nghe như mâu thuẫn, nhưng dư thừa do giá sàn cũng có thật như thiếu nhà do giá trần.
 
 **Chi phí lưu kho.** Ở Mỹ, lượng kho khổng lồ cần để giữ nông sản dư thừa khỏi thị trường từng buộc chính phủ chứa nông sản trong những tàu chiến không dùng tới khi mọi kho trên bờ đã đầy; nếu không, lúa mì Mỹ đã phải để ngoài trời cho mục như ở Ấn Độ. Một chuỗi vụ mùa bội thu có thể khiến chính phủ Mỹ giữ trong kho nhiều lúa mì hơn sản lượng cả năm của nông dân Mỹ. Ở Ấn Độ, năm 2002 có tin chính phủ chi cho việc lưu kho nông sản dư thừa nhiều hơn tổng chi cho phát triển nông thôn, thuỷ lợi và chống lũ. Theo Sowell, đó là ví dụ kinh điển về phân bổ sai những nguồn lực khan hiếm có nhiều cách dùng, nhất là ở một nước nghèo.
 
@@ -927,7 +964,11 @@ Về đường, *New York Times* đưa tin các nhà sản xuất đường là 
 
 **Ai nhận tiền.** Lý do ban đầu của các chương trình hỗ trợ giá ở Mỹ là cứu các trang trại gia đình, nhưng trên thực tế phần lớn tiền chảy vào các tập đoàn nông nghiệp lớn, một số nhận hàng triệu USD mỗi công ty, trong khi trang trại trung bình chỉ nhận vài trăm USD. Phần lớn tiền từ luật nông nghiệp năm 2002, được cả hai đảng ủng hộ, cũng sẽ vào tay 10% nông dân giàu nhất, gồm David Rockefeller, Ted Turner và khoảng một chục công ty trong danh sách *Fortune* 500. Ở Mexico, 85% trợ cấp nông nghiệp vào 15% nông dân lớn nhất.
 
-**Thiệt hại thật là phân bổ sai nguồn lực.** Điều then chốt để hiểu vai trò của giá, theo Sowell, là dư thừa kéo dài là kết quả của việc giữ giá cao giả tạo, cũng như thiếu hụt kéo dài là kết quả của việc giữ giá thấp giả tạo. Thiệt hại không chỉ là số tiền lấy của người nộp thuế và người tiêu dùng để trao cho các tập đoàn nông nghiệp và nông dân; đó là chuyển giao nội bộ trong một quốc gia, không trực tiếp làm giảm tổng của cải của quốc gia. Thiệt hại thật cho cả nước đến từ việc phân bổ sai nguồn lực khan hiếm có nhiều cách dùng. Đất, lao động, phân bón và máy móc bị dùng một cách không cần thiết để sản xuất lượng lương thực vượt quá lượng người tiêu dùng muốn mua ở giá cao giả tạo do chính phủ đặt. Toàn bộ nguồn lực dùng để sản xuất đường ở Mỹ bị lãng phí khi có thể nhập đường từ các nước nhiệt đới, nơi sản xuất rẻ hơn nhiều nhờ điều kiện tự nhiên thuận lợi. Người nghèo, vốn chi tỷ lệ thu nhập đặc biệt cao cho thực phẩm, phải trả nhiều hơn mức cần thiết cho lượng thực phẩm họ có, nên còn ít tiền cho những thứ khác; người dùng tem phiếu thực phẩm mua được ít thực phẩm hơn khi giá bị đẩy lên.
+**Thiệt hại thật là phân bổ sai nguồn lực.** Điều then chốt để hiểu vai trò của giá, theo Sowell, là dư thừa kéo dài là kết quả của việc giữ giá cao giả tạo, cũng như thiếu hụt kéo dài là kết quả của việc giữ giá thấp giả tạo. Thiệt hại không chỉ là số tiền lấy của người nộp thuế và người tiêu dùng để trao cho các tập đoàn nông nghiệp và nông dân; đó là chuyển giao nội bộ trong một quốc gia, không trực tiếp làm giảm tổng của cải của quốc gia.
+
+Thiệt hại thật cho cả nước đến từ việc phân bổ sai nguồn lực khan hiếm có nhiều cách dùng. Đất, lao động, phân bón và máy móc bị dùng một cách không cần thiết để sản xuất lượng lương thực vượt quá lượng người tiêu dùng muốn mua ở giá cao giả tạo do chính phủ đặt. Toàn bộ nguồn lực dùng để sản xuất đường ở Mỹ bị lãng phí khi có thể nhập đường từ các nước nhiệt đới, nơi sản xuất rẻ hơn nhiều nhờ điều kiện tự nhiên thuận lợi.
+
+Người nghèo, vốn chi tỷ lệ thu nhập đặc biệt cao cho thực phẩm, phải trả nhiều hơn mức cần thiết cho lượng thực phẩm họ có, nên còn ít tiền cho những thứ khác; người dùng tem phiếu thực phẩm mua được ít thực phẩm hơn khi giá bị đẩy lên.
 
 **Hai chính sách triệt tiêu nhau.** Về kinh tế thuần tuý, vừa trợ cấp nông dân bằng cách đẩy giá thực phẩm lên vừa trợ cấp một số người tiêu dùng để hạ chi phí thực phẩm của họ, như cả Ấn Độ lẫn Mỹ đang làm, là hai chính sách đi ngược nhau. Nhưng về chính trị lại hoàn toàn hợp lý, vì lấy được sự ủng hộ của hai nhóm cử tri khác nhau, nhất là khi phần lớn họ không hiểu hết hệ quả kinh tế của các chính sách đó.
 
@@ -943,15 +984,23 @@ Về đường, *New York Times* đưa tin các nhà sản xuất đường là 
 
 Nguyên lý kinh tế cơ bản có thể đơn giản, nhưng hệ quả của chúng có thể khá phức tạp, như đã thấy với luật kiểm soát tiền thuê và luật hỗ trợ giá nông sản. Ngay cả mức kinh tế học cơ bản này cũng ít được công chúng hiểu, và công chúng thường đòi những "giải pháp" chính trị làm tình hình tệ hơn. Sowell nhấn mạnh đây không phải hiện tượng mới của các nền dân chủ hiện đại.
 
-**Antwerp thế kỷ 16.** Khi Tây Ban Nha phong toả để bỏ đói những thần dân nổi loạn ở Antwerp cho tới khi họ đầu hàng, giá lương thực cao trong thành phố khiến người ngoài buôn lậu lương thực vào, kể cả xuyên qua vòng phong toả, nhờ đó dân thành phố cầm cự được. Nhưng chính quyền Antwerp quyết định giải quyết vấn đề giá lương thực cao bằng luật ấn định giá tối đa cho từng loại lương thực, kèm hình phạt nặng cho người vi phạm. Hệ quả kinh điển của kiểm soát giá xảy ra: tiêu dùng hàng giá thấp giả tạo tăng, nguồn cung giảm vì người cung cấp không còn muốn liều chở lương thực qua vòng phong toả khi không được giá cao bù lại. Kết quả là "thành phố sống vui vẻ cho tới khi lương thực đột ngột cạn sạch", và Antwerp buộc phải đầu hàng quân Tây Ban Nha.
+**Antwerp thế kỷ 16.** Khi Tây Ban Nha phong toả để bỏ đói những thần dân nổi loạn ở Antwerp cho tới khi họ đầu hàng, giá lương thực cao trong thành phố khiến người ngoài buôn lậu lương thực vào, kể cả xuyên qua vòng phong toả, nhờ đó dân thành phố cầm cự được.
 
-**Hai nạn đói ở Ấn Độ.** Ở Bengal thế kỷ 18, một nạn đói địa phương khiến chính quyền trấn áp người buôn lương thực và đầu cơ, áp đặt kiểm soát giá gạo; thiếu hụt sau đó gây chết đói hàng loạt. Khi một nạn đói khác xảy ra ở Ấn Độ thế kỷ 19, lúc này dưới quyền cai trị thuộc địa của quan chức Anh và đúng thời hoàng kim của kinh tế học thị trường tự do, chính sách ngược lại được áp dụng và cho kết quả ngược lại. Một tài liệu thời đó viết: trong nạn đói trước, hầu như không thể buôn ngũ cốc mà không phạm luật; năm 1866, rất đông người đứng đắn tham gia buôn ngũ cốc, vì chính phủ công bố giá hằng tuần ở từng huyện, làm việc buôn bán vừa dễ vừa an toàn; ai cũng biết nơi mua ngũ cốc rẻ nhất và nơi bán đắt nhất, nên lương thực được mua từ những huyện có thể nhường bớt nhất và chở tới những huyện cần gấp nhất.
+Nhưng chính quyền Antwerp quyết định giải quyết vấn đề giá lương thực cao bằng luật ấn định giá tối đa cho từng loại lương thực, kèm hình phạt nặng cho người vi phạm. Hệ quả kinh điển của kiểm soát giá xảy ra: tiêu dùng hàng giá thấp giả tạo tăng, nguồn cung giảm vì người cung cấp không còn muốn liều chở lương thực qua vòng phong toả khi không được giá cao bù lại. Kết quả là "thành phố sống vui vẻ cho tới khi lương thực đột ngột cạn sạch", và Antwerp buộc phải đầu hàng quân Tây Ban Nha.
+
+**Hai nạn đói ở Ấn Độ.** Ở Bengal thế kỷ 18, một nạn đói địa phương khiến chính quyền trấn áp người buôn lương thực và đầu cơ, áp đặt kiểm soát giá gạo; thiếu hụt sau đó gây chết đói hàng loạt.
+
+Khi một nạn đói khác xảy ra ở Ấn Độ thế kỷ 19, lúc này dưới quyền cai trị thuộc địa của quan chức Anh và đúng thời hoàng kim của kinh tế học thị trường tự do, chính sách ngược lại được áp dụng và cho kết quả ngược lại. Một tài liệu thời đó viết: trong nạn đói trước, hầu như không thể buôn ngũ cốc mà không phạm luật; năm 1866, rất đông người đứng đắn tham gia buôn ngũ cốc, vì chính phủ công bố giá hằng tuần ở từng huyện, làm việc buôn bán vừa dễ vừa an toàn; ai cũng biết nơi mua ngũ cốc rẻ nhất và nơi bán đắt nhất, nên lương thực được mua từ những huyện có thể nhường bớt nhất và chở tới những huyện cần gấp nhất.
 
 Sowell nhận xét điều này dù sơ đẳng về nguyên lý kinh tế, chỉ làm được về chính trị vì chính quyền thuộc địa Anh không phải chịu trách nhiệm trước dư luận địa phương. Trong thời đại chính trị dân chủ, cùng hành động đó đòi hỏi hoặc công chúng hiểu kinh tế học cơ bản, hoặc lãnh đạo chính trị dám liều sự nghiệp để làm điều cần làm; khó nói điều nào hiếm hơn.
 
 **Kiểm soát giá để chống lạm phát.** Về chính trị, kiểm soát giá luôn là một "cách chữa nhanh" hấp dẫn cho lạm phát, và chắc chắn dễ hơn việc buộc chính phủ cắt giảm chi tiêu của chính mình, thứ thường là nguyên nhân của lạm phát. Giữ giá thực phẩm không tăng có thể được coi là đặc biệt quan trọng. Argentina vì vậy kiểm soát giá lúa mì đầu thế kỷ 21. Có thể đoán trước, nông dân Argentina giảm diện tích trồng lúa mì từ 15 triệu mẫu Anh (acre, khoảng 6,1 triệu ha) năm 2000 xuống 9 triệu mẫu Anh (khoảng 3,6 triệu ha) năm 2012. Vì có thị trường lúa mì quốc tế lớn với giá cao hơn giá được phép trong nước, chính phủ còn phải chặn xuất khẩu lúa mì, nếu không thiếu hụt trong nước sẽ nặng hơn.
 
-**Zimbabwe 2007.** Chênh lệch giữa giá thị trường tự do và giá luật định càng lớn thì hậu quả càng nặng. Năm 2007, chính phủ Zimbabwe đối phó lạm phát phi mã bằng lệnh buộc người bán hạ giá một nửa hoặc hơn. Chỉ một tháng sau, *New York Times* viết "nền kinh tế Zimbabwe đã ngừng chạy": bánh mì, đường và bột ngô, những món chính trong bữa ăn của mọi người Zimbabwe, biến mất khi đám đông vét sạch các cửa hàng như châu chấu phá ruộng lúa mì; thịt hầu như không có, ngay cả với người trung lưu có tiền mua ở chợ đen; xăng gần như không mua được; bệnh nhân trong bệnh viện chết vì thiếu vật tư y tế cơ bản; cúp điện và cúp nước diễn ra thường xuyên. Cũng như ở những nơi và thời điểm khác, công chúng đón kiểm soát giá một cách thiện cảm lúc đầu: theo *New York Times*, "người dân bình thường ban đầu đón lệnh hạ giá bằng một đợt mua sắm hưng phấn và ngắn ngủi". Cả phản ứng ban đầu lẫn hậu quả về sau đều giống Antwerp nhiều thế kỷ trước.
+**Zimbabwe 2007.** Chênh lệch giữa giá thị trường tự do và giá luật định càng lớn thì hậu quả càng nặng. Năm 2007, chính phủ Zimbabwe đối phó lạm phát phi mã bằng lệnh buộc người bán hạ giá một nửa hoặc hơn.
+
+Chỉ một tháng sau, *New York Times* viết "nền kinh tế Zimbabwe đã ngừng chạy": bánh mì, đường và bột ngô, những món chính trong bữa ăn của mọi người Zimbabwe, biến mất khi đám đông vét sạch các cửa hàng như châu chấu phá ruộng lúa mì; thịt hầu như không có, ngay cả với người trung lưu có tiền mua ở chợ đen; xăng gần như không mua được; bệnh nhân trong bệnh viện chết vì thiếu vật tư y tế cơ bản; cúp điện và cúp nước diễn ra thường xuyên.
+
+Cũng như ở những nơi và thời điểm khác, công chúng đón kiểm soát giá một cách thiện cảm lúc đầu: theo *New York Times*, "người dân bình thường ban đầu đón lệnh hạ giá bằng một đợt mua sắm hưng phấn và ngắn ngủi". Cả phản ứng ban đầu lẫn hậu quả về sau đều giống Antwerp nhiều thế kỷ trước.
 
 **Luật chống "hét giá cắt cổ" sau thiên tai.** Khi một vùng bị bão hay thiên tai tàn phá, nhiều người coi là vô lương tâm nếu doanh nghiệp ở đó đột ngột tăng giá nước đóng chai, đèn pin, xăng, hoặc nếu khách sạn tăng giá phòng gấp đôi, gấp ba khi nhiều người địa phương vừa mất nhà đang tìm chỗ trú tạm. Phản ứng chính trị thường là ra luật chống "hét giá cắt cổ" (price gouging), coi kiểm soát giá là cách chữa nhanh cần thiết. Sowell lập luận ngược lại: chính khi nguồn lực địa phương đột ngột khan hiếm hơn so với cầu tăng vọt của những người vừa mất những thứ họ thường có (do bão, cháy rừng hay thiên tai khác), vai trò phân bổ nguồn lực khan hiếm của giá càng cần thiết.
 
@@ -971,7 +1020,11 @@ Sowell nhận xét điều này dù sơ đẳng về nguyên lý kinh tế, ch�
 
 Kết quả khi không có cả phân bổ bằng giá lẫn phân bổ không bằng giá có thể là cảnh *Wall Street Journal* mô tả sau siêu bão Sandy năm 2012: ở một siêu thị New Jersey, khách hàng hầu như không dừng lại khi loa thông báo kêu gọi chỉ mua đủ đồ cho vài ngày tê liệt; không ai chùn tay khi chất xe đẩy đầy tới miệng với lượng cá ngừ hộp đủ ăn sáu tuần, vì một hộp cá để được nhiều năm và mua hết hàng của cửa hàng ở giá bình thường chẳng có rủi ro gì. Sowell kết chương: lời kêu gọi người dân tự giới hạn lượng mua trong tình trạng khẩn cấp, cũng như các hình thức phân bổ không qua giá khác, hiếm khi hiệu quả bằng việc tăng giá.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một thị trấn ven biển có 500 phòng khách sạn, giá thường 600.000 đồng/đêm. Sau một trận lũ lớn, 3.000 hộ mất chỗ ở tạm thời và chính quyền ra lệnh cấm khách sạn tăng giá. Những hộ đến trước, nhiều hộ thuê 2 phòng cho thoải mái, lấp đầy 500 phòng chỉ trong vài giờ; khoảng 250 hộ có chỗ, hơn 2.700 hộ còn lại ngủ ở nhà văn hoá hoặc nhà hư hại. Nếu giá được phép tăng lên 1.500.000 đồng/đêm, giả sử phần lớn hộ chỉ thuê 1 phòng, khoảng 450–500 hộ có chỗ thay vì 250; một số hộ ở nhờ họ hàng ở huyện bên vì thấy đắt; và vài nhà nghỉ ở huyện lân cận có lý do mở thêm phòng, đưa xe đón khách. Đây đúng là lập luận của Sowell về phòng khách sạn sau bão: giá cao làm từng người tự tiết chế và kéo thêm nguồn cung tới. Ví dụ cũng cho thấy điểm Sowell ít bàn: những hộ nghèo nhất có thể không trả nổi 1.500.000 đồng, nên đi kèm tự do giá thường cần một khoản hỗ trợ tiền mặt trực tiếp cho họ.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một thị trấn ven biển có 500 phòng khách sạn, giá thường 600.000 đồng/đêm. Sau một trận lũ lớn, 3.000 hộ mất chỗ ở tạm thời và chính quyền ra lệnh cấm khách sạn tăng giá. Những hộ đến trước, nhiều hộ thuê 2 phòng cho thoải mái, lấp đầy 500 phòng chỉ trong vài giờ; khoảng 250 hộ có chỗ, hơn 2.700 hộ còn lại ngủ ở nhà văn hoá hoặc nhà hư hại.
+
+Nếu giá được phép tăng lên 1.500.000 đồng/đêm, giả sử phần lớn hộ chỉ thuê 1 phòng, khoảng 450–500 hộ có chỗ thay vì 250; một số hộ ở nhờ họ hàng ở huyện bên vì thấy đắt; và vài nhà nghỉ ở huyện lân cận có lý do mở thêm phòng, đưa xe đón khách.
+
+Đây đúng là lập luận của Sowell về phòng khách sạn sau bão: giá cao làm từng người tự tiết chế và kéo thêm nguồn cung tới. Ví dụ cũng cho thấy điểm Sowell ít bàn: những hộ nghèo nhất có thể không trả nổi 1.500.000 đồng, nên đi kèm tự do giá thường cần một khoản hỗ trợ tiền mặt trực tiếp cho họ.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -1085,23 +1138,35 @@ Thiếu hụt và dư thừa là hiện tượng của giá: chúng xuất hiệ
 
 ### Sức mạnh của chương là cặp so sánh thiếu nhà không khan hiếm và khan hiếm không thiếu nhà
 
-Sowell không cần đồ thị cung cầu để dạy khái niệm lượng dư cầu. Ông đặt cạnh nhau hai thí nghiệm tự nhiên: nước Mỹ thời Thế chiến II có tỷ lệ nhà trên đầu người không đổi nhưng thiếu nhà, và San Francisco năm 1906 mất hơn nửa số nhà nhưng không thiếu nhà. Điểm khác nhau duy nhất là giá thuê có được tự do hay không. Cặp so sánh này buộc người đọc tách hai thứ thường bị gộp làm một: khan hiếm (vật chất) và thiếu hụt (theo giá). Một khi đã tách được, người đọc có thể áp dụng cho mọi trường hợp khác trong chương, từ xăng thập niên 1970 tới lúa mì ở Ấn Độ. Việc Sowell theo dõi từng hệ quả phụ (tích trữ, chợ đen, chất lượng, nguồn lực chuyển sang nơi khác, nhà bỏ hoang) cũng giúp người đọc thấy kiểm soát giá không chỉ "gây thiếu hàng" mà làm thay đổi hành vi ở nhiều chỗ khó thấy.
+Sowell không cần đồ thị cung cầu để dạy khái niệm lượng dư cầu. Ông đặt cạnh nhau hai thí nghiệm tự nhiên: nước Mỹ thời Thế chiến II có tỷ lệ nhà trên đầu người không đổi nhưng thiếu nhà, và San Francisco năm 1906 mất hơn nửa số nhà nhưng không thiếu nhà. Điểm khác nhau duy nhất là giá thuê có được tự do hay không.
+
+Cặp so sánh này buộc người đọc tách hai thứ thường bị gộp làm một: khan hiếm (vật chất) và thiếu hụt (theo giá). Một khi đã tách được, người đọc có thể áp dụng cho mọi trường hợp khác trong chương, từ xăng thập niên 1970 tới lúa mì ở Ấn Độ. Việc Sowell theo dõi từng hệ quả phụ (tích trữ, chợ đen, chất lượng, nguồn lực chuyển sang nơi khác, nhà bỏ hoang) cũng giúp người đọc thấy kiểm soát giá không chỉ "gây thiếu hàng" mà làm thay đổi hành vi ở nhiều chỗ khó thấy.
 
 ### Kết luận về kiểm soát tiền thuê có sự đồng thuận rộng, nhưng các luật thế hệ mới phức tạp hơn mô hình của Sowell
 
-Phần lớn nhà kinh tế, cả thiên tả lẫn thiên hữu, đồng ý rằng kiểm soát tiền thuê kiểu cứng (đóng băng giá thuê cho mọi căn có sẵn) làm giảm cung và chất lượng nhà ở. Nhưng nhiều luật hiện nay là dạng "ổn định tiền thuê" (rent stabilization): cho phép tăng giá hằng năm theo một tỷ lệ, miễn trừ nhà xây mới, hoặc cho phép đặt lại giá khi đổi người thuê. Các nghiên cứu thực nghiệm sau này, chẳng hạn về việc San Francisco mở rộng kiểm soát năm 1994, cho thấy người thuê đang ở được lợi đáng kể (ít bị buộc chuyển đi), trong khi cung nhà cho thuê giảm và tiền thuê trên toàn thành phố tăng. Kết quả đó khớp với Sowell về phía cung, nhưng cũng cho thấy một lợi ích mà Sowell ít nhắc: sự ổn định cho người thuê lâu năm, nhất là người già, trước những đợt tăng giá đột ngột. Câu hỏi chính sách vì vậy thường là đánh đổi giữa người đang ở bên trong và người ở bên ngoài, đúng như Sowell nói, chứ không đơn giản là có lợi hay có hại.
+Phần lớn nhà kinh tế, cả thiên tả lẫn thiên hữu, đồng ý rằng kiểm soát tiền thuê kiểu cứng (đóng băng giá thuê cho mọi căn có sẵn) làm giảm cung và chất lượng nhà ở. Nhưng nhiều luật hiện nay là dạng "ổn định tiền thuê" (rent stabilization): cho phép tăng giá hằng năm theo một tỷ lệ, miễn trừ nhà xây mới, hoặc cho phép đặt lại giá khi đổi người thuê.
+
+Các nghiên cứu thực nghiệm sau này, chẳng hạn về việc San Francisco mở rộng kiểm soát năm 1994, cho thấy người thuê đang ở được lợi đáng kể (ít bị buộc chuyển đi), trong khi cung nhà cho thuê giảm và tiền thuê trên toàn thành phố tăng. Kết quả đó khớp với Sowell về phía cung, nhưng cũng cho thấy một lợi ích mà Sowell ít nhắc: sự ổn định cho người thuê lâu năm, nhất là người già, trước những đợt tăng giá đột ngột. Câu hỏi chính sách vì vậy thường là đánh đổi giữa người đang ở bên trong và người ở bên ngoài, đúng như Sowell nói, chứ không đơn giản là có lợi hay có hại.
 
 ### So sánh y tế giữa các nước là chỗ Sowell đơn giản hoá nhiều nhất
 
-Lập luận về giá y tế thấp dẫn tới xếp hàng chờ là đúng về cơ chế, và số liệu OECD về thời gian chờ là có thật. Nhưng Sowell chỉ chọn một chỉ tiêu (thời gian chờ phẫu thuật theo lịch hẹn) mà không nhắc đến các chỉ tiêu khác mà người phản biện sẽ nêu: chi phí y tế trên đầu người ở Mỹ cao hơn hẳn các nước kia, tỷ lệ người không có bảo hiểm và tuổi thọ trung bình ở Mỹ cũng không tốt hơn. Ở Mỹ cũng có "xếp hàng", chỉ là xếp theo khả năng chi trả thay vì theo thời gian. Các ví dụ đơn lẻ (bé gái 12 tuổi nâng ngực) có sức gây ấn tượng nhưng không phải bằng chứng thống kê. Người đọc nên giữ phần cơ chế (giá bằng không làm tăng cầu, thời gian của bác sĩ trở thành thứ bị phân bổ) mà không coi đây là kết luận cuối cùng về hệ thống y tế nào tốt hơn.
+Lập luận về giá y tế thấp dẫn tới xếp hàng chờ là đúng về cơ chế, và số liệu OECD về thời gian chờ là có thật. Nhưng Sowell chỉ chọn một chỉ tiêu (thời gian chờ phẫu thuật theo lịch hẹn) mà không nhắc đến các chỉ tiêu khác mà người phản biện sẽ nêu: chi phí y tế trên đầu người ở Mỹ cao hơn hẳn các nước kia, tỷ lệ người không có bảo hiểm và tuổi thọ trung bình ở Mỹ cũng không tốt hơn. Ở Mỹ cũng có "xếp hàng", chỉ là xếp theo khả năng chi trả thay vì theo thời gian.
+
+Các ví dụ đơn lẻ (bé gái 12 tuổi nâng ngực) có sức gây ấn tượng nhưng không phải bằng chứng thống kê. Người đọc nên giữ phần cơ chế (giá bằng không làm tăng cầu, thời gian của bác sĩ trở thành thứ bị phân bổ) mà không coi đây là kết luận cuối cùng về hệ thống y tế nào tốt hơn.
 
 ### Phần về giá sàn nông sản là phần chắc chắn nhất, và nhiều chi tiết đã đổi sau 2014
 
-Gần như mọi trường phái kinh tế đều phê phán hỗ trợ giá nông sản theo cách Sowell trình bày: tốn kém, đẩy giá thực phẩm lên với người nghèo, lợi ích dồn vào nông trại lớn, và bán phá giá ra thế giới gây hại cho nông dân nước nghèo. Từ khi sách ra đời, nói ở mức định tính: EU đã chuyển phần lớn trợ cấp từ hỗ trợ giá sang trả tiền trực tiếp tách khỏi sản lượng, và bỏ hạn ngạch đường năm 2017; Mỹ vẫn giữ chương trình đường và các khoản trợ cấp nông nghiệp lớn, có lúc còn tăng mạnh để bù cho nông dân bị ảnh hưởng bởi chiến tranh thương mại cuối thập niên 2010; Ấn Độ vẫn duy trì giá thu mua tối thiểu và kho lương thực lớn, và năm 2020–2021 nỗ lực cải cách thị trường nông sản của chính phủ đã phải rút lại sau các cuộc biểu tình kéo dài của nông dân, đúng như Sowell mô tả về sức mạnh chính trị của nhóm hưởng lợi có tổ chức.
+Gần như mọi trường phái kinh tế đều phê phán hỗ trợ giá nông sản theo cách Sowell trình bày: tốn kém, đẩy giá thực phẩm lên với người nghèo, lợi ích dồn vào nông trại lớn, và bán phá giá ra thế giới gây hại cho nông dân nước nghèo.
+
+Từ khi sách ra đời, nói ở mức định tính: EU đã chuyển phần lớn trợ cấp từ hỗ trợ giá sang trả tiền trực tiếp tách khỏi sản lượng, và bỏ hạn ngạch đường năm 2017; Mỹ vẫn giữ chương trình đường và các khoản trợ cấp nông nghiệp lớn, có lúc còn tăng mạnh để bù cho nông dân bị ảnh hưởng bởi chiến tranh thương mại cuối thập niên 2010; Ấn Độ vẫn duy trì giá thu mua tối thiểu và kho lương thực lớn, và năm 2020–2021 nỗ lực cải cách thị trường nông sản của chính phủ đã phải rút lại sau các cuộc biểu tình kéo dài của nông dân, đúng như Sowell mô tả về sức mạnh chính trị của nhóm hưởng lợi có tổ chức.
 
 ### Quan điểm trái chiều: luật chống "hét giá cắt cổ" có lý do không thuần kinh tế
 
-Lập luận của Sowell về giá sau thiên tai là lập luận chuẩn của kinh tế học, và nhiều nhà kinh tế đồng tình. Nhưng có những phản biện đáng xét. Thứ nhất, sau thiên tai người dân không thể so sánh giá hay đi nơi khác, nên người bán có sức mạnh thị trường tạm thời; giá tăng một phần phản ánh sức mạnh đó chứ không chỉ khan hiếm. Thứ hai, phân bổ bằng giá trao hàng cho người có tiền nhất, không nhất thiết người cần nhất; với nhu yếu phẩm như nước sạch, nhiều người coi đó là không công bằng, và cảm nhận bất công có thể làm xói mòn lòng tin xã hội đúng lúc cần đoàn kết. Thứ ba, khi người bán biết tăng giá sẽ bị khách nhớ mặt, nhiều doanh nghiệp tự giữ giá vì uy tín lâu dài; Sowell chỉ nhắc tới rủi ro mất khách khi người bán giới hạn lượng bán, chứ không bàn rủi ro tương tự khi người bán tăng giá. Giải pháp thường được đề xuất là để giá tăng nhưng kết hợp trợ cấp tiền mặt cho người nghèo nhất, thay vì cấm tăng giá.
+Lập luận của Sowell về giá sau thiên tai là lập luận chuẩn của kinh tế học, và nhiều nhà kinh tế đồng tình. Nhưng có những phản biện đáng xét. Thứ nhất, sau thiên tai người dân không thể so sánh giá hay đi nơi khác, nên người bán có sức mạnh thị trường tạm thời; giá tăng một phần phản ánh sức mạnh đó chứ không chỉ khan hiếm.
+
+Thứ hai, phân bổ bằng giá trao hàng cho người có tiền nhất, không nhất thiết người cần nhất; với nhu yếu phẩm như nước sạch, nhiều người coi đó là không công bằng, và cảm nhận bất công có thể làm xói mòn lòng tin xã hội đúng lúc cần đoàn kết.
+
+Thứ ba, khi người bán biết tăng giá sẽ bị khách nhớ mặt, nhiều doanh nghiệp tự giữ giá vì uy tín lâu dài; Sowell chỉ nhắc tới rủi ro mất khách khi người bán giới hạn lượng bán, chứ không bàn rủi ro tương tự khi người bán tăng giá. Giải pháp thường được đề xuất là để giá tăng nhưng kết hợp trợ cấp tiền mặt cho người nghèo nhất, thay vì cấm tăng giá.
 
 ### Vận dụng: khi thấy hàng "thiếu", hãy hỏi trước hết giá có bị giữ không
 
@@ -1109,3 +1174,175 @@ Lập luận của Sowell về giá sau thiên tai là lập luận chuẩn củ
 - **Trong đầu tư.** Ngành bị kiểm soát giá (nhà cho thuê, năng lượng, dược phẩm) thường có lợi nhuận bị nén, đầu tư mới thấp và tài sản xuống cấp; khi kiểm soát được nới, cung có thể phản ứng mạnh nhưng chậm. Tài sản ở khu vực không bị kiểm soát (văn phòng, nhà hạng sang) lại có thể được lợi vì nguồn lực dồn về. Ngành hưởng giá sàn hoặc trợ cấp có rủi ro chính sách: các khoản này có thể kéo dài nhiều thập kỷ, nhưng cũng có thể bị cắt khi ngân sách khó khăn hoặc khi cam kết thương mại quốc tế thay đổi.
 - **Trong nghề nghiệp.** Sowell cung cấp một thói quen phân tích hữu ích cho bất kỳ ai làm chính sách, tư vấn hay báo chí kinh tế: đừng dừng lại ở mục tiêu của một quy định, mà lần theo từng phản ứng của người mua, người bán và nguồn lực. Câu hỏi "ai đang ở bên trong và ai ở bên ngoài" giúp nhận ra người thực sự hưởng lợi và người chịu thiệt mà không ai nói tới.
 - **Khi đọc tin chính sách.** Ở Việt Nam, những chủ đề gần với chương này gồm cơ chế bình ổn giá xăng dầu, giá điện do nhà nước quyết định, thu mua tạm trữ lúa gạo khi giá xuống, và các đề xuất trần giá thuê nhà hay trần giá vé, giá phòng dịp lễ Tết, sau bão lũ. Khi đọc, có thể hỏi: giá bị giữ dưới hay trên mức cung cầu; nếu dưới thì có dấu hiệu tích trữ, bán chênh, hàng kém chất lượng, nhà cung cấp rút lui không; nếu trên thì ai mua phần dư thừa và ai trả chi phí lưu kho; và người nghèo có cách hỗ trợ nào trực tiếp hơn không, chẳng hạn trợ cấp tiền mặt có mục tiêu thay vì giữ giá cho tất cả mọi người.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 3 trên một trang: sáu nhánh lớn đi theo các mục 1–11 của phần Nội dung chi tiết (giá trần và thiếu hụt nhà ở thời Thế chiến II, cầu và cung nhà ở dưới kiểm soát tiền thuê, chính trị của kiểm soát tiền thuê cùng phân biệt khan hiếm với thiếu hụt, tích trữ, chợ đen và suy giảm chất lượng, giá sàn nông sản, chính trị của kiểm soát giá), mỗi nhánh ghi cơ chế nhân quả, ví dụ lịch sử, quốc gia và con số then chốt của Sowell; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 3: thiếu hụt và dư thừa là hiện tượng của giá, không phải của số lượng hàng hoá vật chất`"]
+  n1["`Mục 1–2 — Giá trần tạo thiếu hụt dù hàng không ít đi`"]
+  n0 --- n1
+  n2["`Thiếu hụt: lượng cầu vượt lượng cung ở mức giá hiện hành, dư thừa là điều ngược lại`"]
+  n1 --- n2
+  n3["`Kiểm soát giá cũ như lịch sử: Pharaoh Ai Cập, Hammurabi thế kỷ 18 TCN, Athens cổ đại`"]
+  n1 --- n3
+  n4["`Mất điện cho thấy điện quan trọng, kiểm soát giá cho thấy dao động của giá quan trọng`"]
+  n1 --- n4
+  n5["`Mỹ thời Thế chiến II: dân số và số nhà cùng tăng khoảng 10% mà vẫn thiếu nhà trầm trọng`"]
+  n1 --- n5
+  n6["`Người ta đút lót chủ nhà, ngủ trong nhà để xe, lều tôn Quonset hut, toa xe điện cũ`"]
+  n5 --- n6
+  n7["`Nguyên nhân: luật kiểm soát tiền thuê giữ giá thấp nên nhiều người thuê thêm diện tích`"]
+  n1 --- n7
+  n8["`Người này dùng hàng giá rẻ rộng rãi hơn thì người khác thấy còn ít hơn`"]
+  n1 --- n8
+  n9["`Mục 3–4 — Kiểm soát tiền thuê đẩy cầu lên và kéo cung xuống`"]
+  n0 --- n9
+  n10["`Phía cầu: thanh niên, người già dọn ra ở riêng, có người giữ căn hộ ở thành phố mình không sống`"]
+  n9 --- n10
+  n11["`San Francisco: 49% căn bị kiểm soát chỉ có một người ở`"]
+  n10 --- n11
+  n12["`Manhattan 46% hộ một người, cả nước Mỹ 27%`"]
+  n10 --- n12
+  n13["`Bỏ kiểm soát sau Thế chiến II: thiếu hụt biến mất trước cả khi kịp xây nhà mới`"]
+  n9 --- n13
+  n14["`Giá thuê giúp nhà luân chuyển theo vòng đời, kiểm soát làm giảm tốc độ luân chuyển`"]
+  n9 --- n14
+  n15["`New York: luân chuyển chưa bằng nửa trung bình, ở cùng căn từ 20 năm trở lên gấp đôi`"]
+  n14 --- n15
+  n16["`Xây mới giảm: Melbourne 9 năm không có chung cư mới, Santa Monica giấy phép xây dưới 1/10`"]
+  n9 --- n16
+  n17["`Nguồn lực dồn sang xây văn phòng: nhà kinh doanh, công nghiệp trống gần 12% năm 2003`"]
+  n9 --- n17
+  n18["`Nhà xuống cấp vì thiếu bảo trì: Anh và xứ Wales nhà cho thuê tư nhân từ 61% (1947) xuống 14% (1977)`"]
+  n9 --- n18
+  n19["`Nhà bị rút khỏi thị trường: Washington từ hơn 199.000 xuống dưới 176.000 căn, Berkeley giảm 31%, Toronto 23%`"]
+  n9 --- n19
+  n20["`New York: số căn bỏ hoang gấp ít nhất 4 lần số người vô gia cư ngủ ngoài đường`"]
+  n9 --- n20
+  n21["`Năm 2013 New York có hơn 47.000 người vô gia cư, 20.000 là trẻ em`"]
+  n20 --- n21
+  n22["`Chính sách cần phân tích theo động cơ khuyến khích nó tạo ra, không theo hy vọng sinh ra nó`"]
+  n9 --- n22
+  n23["`Mục 5–6 — Chính trị tiền thuê và khan hiếm khác thiếu hụt`"]
+  n0 --- n23
+  n24["`Kiểm soát tiền thuê thắng phiếu vì người thuê đông hơn chủ nhà`"]
+  n23 --- n24
+  n25["`Chủ nhà cho người nghèo thuê thường có thu nhập khiêm tốn, lợi suất không cao hơn đầu tư khác`"]
+  n23 --- n25
+  n26["`Park Avenue: căn đáng ít nhất 5.000 USD chỉ trả khoảng 350 USD, sinh viên chen 3 người trong studio 1.200 USD`"]
+  n23 --- n26
+  n27["`San Francisco 2001: hơn 1/4 người thuê căn bị kiểm soát có thu nhập trên 100.000 USD`"]
+  n23 --- n27
+  n28["`Người được lợi là ai đang ở bên trong lúc luật được thông qua, không theo mức thu nhập`"]
+  n23 --- n28
+  n29["`New York, San Francisco có tiền thuê trung bình và số người vô gia cư cao hơn thành phố không kiểm soát`"]
+  n23 --- n29
+  n30["`Khan hiếm là ít hàng so với dân số, thiếu hụt là hiện tượng của giá`"]
+  n23 --- n30
+  n31["`San Francisco 1906 mất hơn nửa số nhà nhưng không thiếu nhà vì giá thuê được tăng`"]
+  n23 --- n31
+  n32["`Một tháng sau báo có 64 quảng cáo cho thuê, chỉ 5 quảng cáo tìm nhà`"]
+  n31 --- n32
+  n33["`Mục 7–9 — Tích trữ, chợ đen, suy giảm chất lượng`"]
+  n0 --- n33
+  n34["`Tích trữ: xăng thập niên 1970 nằm trong bình xe thay vì bồn chứa của trạm`"]
+  n33 --- n34
+  n35["`Dâu tây, cắt tóc khó tích trữ nên thiếu hụt nhẹ hơn`"]
+  n33 --- n35
+  n36["`Thị trưởng Ed Koch giữ căn hộ bị kiểm soát 12 năm, Charles Rangel giữ 4 căn`"]
+  n33 --- n36
+  n37["`Chợ đen có giá cao hơn cả giá thị trường tự do vì phải bù rủi ro pháp lý`"]
+  n33 --- n37
+  n38["`Nga: #quot;sắc lệnh 150 rúp#quot; là giá hối lộ cảnh sát để xe lương thực qua trạm`"]
+  n37 --- n38
+  n39["`Việc làm đóng gói thịt Mỹ từ 93.000 lên 180.000 trong 3 tháng sau khi bỏ kiểm soát`"]
+  n37 --- n39
+  n40["`Liên Xô: 83% dân dùng #quot;chợ xám#quot;, chợ đen gần 10.000 đầu phim video, nhà nước chưa tới 1.000`"]
+  n37 --- n40
+  n41["`Chất lượng giảm vì hàng gì cũng bán được: táo không phân loại, 19/20 thanh kẹo nhỏ đi năm 1943`"]
+  n33 --- n41
+  n42["`Y tế giá thấp: người sổ mũi chiếm thời gian bác sĩ, ở Anh 10.000 người chờ mổ từ 15 tháng`"]
+  n33 --- n42
+  n43["`OECD: chờ phẫu thuật theo lịch hẹn hơn 4 tháng ở Mỹ dưới 10%, ở Anh 38%`"]
+  n42 --- n43
+  n44["`Mục 10 — Giá sàn nông sản tạo dư thừa khi dân vẫn đói`"]
+  n0 --- n44
+  n45["`Đại suy thoái: thu nhập nông nghiệp Mỹ từ hơn 6 tỷ USD (1929) xuống 2 tỷ USD (1932)`"]
+  n44 --- n45
+  n46["`Giữ giá bằng hạn chế sản lượng, cartel có lệnh tiếp thị, và chính phủ mua phần dư thừa`"]
+  n44 --- n46
+  n47["`Năm 1933 chính phủ Mỹ mua và tiêu huỷ 6 triệu con lợn trong khi trẻ em suy dinh dưỡng`"]
+  n44 --- n47
+  n48["`Ấn Độ: kho sắp lên 80 triệu tấn, gấp 4 lần mức khẩn cấp, 47 người chết đói ở Rajasthan`"]
+  n44 --- n48
+  n49["`Sữa bột 2008 giảm còn 80 xu/pound, Bộ Nông nghiệp Mỹ phải mua 112 triệu pound`"]
+  n44 --- n49
+  n50["`Đường Mỹ 20 xu/pound khi giá thế giới 4 xu, EU trợ cấp trực tiếp 39 tỷ USD năm 2002`"]
+  n44 --- n50
+  n51["`Phần lớn tiền vào 10% nông dân giàu nhất, Mexico 85% trợ cấp vào 15% nông dân lớn nhất`"]
+  n44 --- n51
+  n52["`Thiệt hại thật không phải tiền chuyển giao nội bộ mà là phân bổ sai đất, lao động, phân bón`"]
+  n44 --- n52
+  n53["`Nhóm hưởng lợi có tổ chức giữ chương trình: nông dân chặn đường Paris, kéo máy kéo về Ottawa`"]
+  n44 --- n53
+  n54["`Mục 11 — Chính trị của kiểm soát giá qua các thời đại`"]
+  n0 --- n54
+  n55["`Antwerp thế kỷ 16 đặt giá tối đa, buôn lậu qua vòng phong toả ngừng, thành phố phải đầu hàng`"]
+  n54 --- n55
+  n56["`Bengal thế kỷ 18 kiểm soát giá gạo gây chết đói, năm 1866 công bố giá hằng tuần nên lương thực tới nơi cần`"]
+  n54 --- n56
+  n57["`Kiểm soát giá chống lạm phát dễ hơn cắt chi tiêu chính phủ, nguyên nhân của lạm phát`"]
+  n54 --- n57
+  n58["`Argentina: diện tích lúa mì từ 15 triệu mẫu Anh (2000) xuống 9 triệu (2012)`"]
+  n57 --- n58
+  n59["`Zimbabwe 2007 ra lệnh hạ giá một nửa, một tháng sau #quot;nền kinh tế đã ngừng chạy#quot;`"]
+  n57 --- n59
+  n60["`Sau thiên tai, giá cao khiến gia đình thuê 1 phòng thay vì 2, mua 1 đèn pin thay vì mỗi người 1`"]
+  n54 --- n60
+  n61["`Dự tính giá cao, nhà cung cấp chở đèn pin, nước, xăng tới trước khi bão đổ bộ`"]
+  n54 --- n61
+  n62["`Siêu bão Sandy 2012: loa kêu gọi vô hiệu, khách chất cá ngừ hộp đủ ăn 6 tuần`"]
+  n54 --- n62
+  n63["`Thông điệp xuyên suốt`"]
+  n0 --- n63
+  n64["`Kiểm soát giá không xoá khan hiếm, chỉ thay phân bổ bằng giá bằng xếp hàng, quen biết, hối lộ`"]
+  n63 --- n64
+  n65["`Hãy xét hệ quả về sau qua động cơ khuyến khích, không xét theo mục tiêu ghi trong tên luật`"]
+  n63 --- n65
+  n66["`Chính sách vẫn thắng về chính trị vì cử tri tin luật kiểm soát tiền thuê thì kiểm soát được tiền thuê`"]
+  n63 --- n66
+  class n0 root
+  class n1,n9,n23,n33,n44,n54,n63 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58,n59,n60,n61,n62,n64,n65,n66 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần I "Prices and Markets", Chương 3.
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 2 (The Role of Prices) giải thích giá cả làm gì trong một nền kinh tế thị trường: giá truyền thông tin về sự khan hiếm, tạo động cơ khuyến khích, và phân bổ những nguồn lực khan hiếm có nhiều cách dùng khác nhau; lượng cầu thay đổi theo mức giá.
+
+Chương 3 kiểm tra lại các ý đó bằng cách nhìn vào điều ngược lại: chuyện gì xảy ra khi luật pháp không cho giá dao động tự do. Sowell xét hai dạng: giá trần (giữ giá thấp hơn mức thị trường, với ví dụ trung tâm là kiểm soát tiền thuê nhà) và giá sàn (giữ giá cao hơn mức thị trường, với ví dụ trung tâm là hỗ trợ giá nông sản).
+
+Chương 4 (An Overview of Prices) sẽ khái quát lại vai trò của giá sau hai chương này. Lập luận về giá sàn sẽ được dùng lại ở Chương 11 (Minimum Wage Laws), nơi lương tối thiểu là một giá sàn trên thị trường lao động; lập luận về chính trị của các chương trình trợ cấp được dùng lại ở Chương 8 (Regulation and Anti-Trust Laws) và Chương 18–19 về chức năng và tài chính của chính phủ.
+
+## Lưu ý
+
+- Ấn bản thứ năm được viết khoảng 2013–2014; số liệu mới nhất trong chương là năm 2013 (số người vô gia cư ở New York, chi phí phòng khách sạn của Sở Dịch vụ Người vô gia cư New York) và năm 2012 (diện tích trồng lúa mì ở Argentina, bão Sandy).
+- Một số chi tiết đã thay đổi từ đó, nói ở mức định tính: Liên minh châu Âu đã bỏ hạn ngạch sản xuất đường vào năm 2017; Argentina dỡ bỏ phần lớn hạn chế xuất khẩu lúa mì từ cuối năm 2015, rồi các chính phủ sau đó lại có lúc áp dụng lại các biện pháp kiểm soát; bang New York năm 2019 thắt chặt thêm luật ổn định tiền thuê nhà (rent stabilization) thay vì nới ra; Zimbabwe bỏ đồng nội tệ trong một thời gian sau năm 2009 để dùng ngoại tệ.
+- Chương này có **3 chú thích chân trang** của Sowell (đánh dấu v, vi, vii trong sách); cả ba đã được đưa vào phần Nội dung chi tiết, ở mục 5 (về vợ của Sowell), mục 8 (về chợ đen thịt) và mục 10 (về các chương trình trợ cấp nông nghiệp), có ghi rõ là chú thích của Sowell.
+- Sách có một lỗi chính tả nhỏ ("scare resources" thay cho "scarce resources" ở đoạn về kho lúa mì Ấn Độ), không ảnh hưởng nội dung.
+- Các câu trích là bản dịch của người tổng hợp.

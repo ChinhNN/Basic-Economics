@@ -1,11 +1,18 @@
 # Chương 24 — Những huyền thoại về thị trường (Myths About Markets)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần VII "Special Economic Issues", Chương 24.
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
-**Vị trí trong lập luận của cả cuốn sách:** Sáu phần đầu của sách đã lần lượt giải thích giá cả và thị trường (Phần I), doanh nghiệp và lợi nhuận (Phần II), lao động và tiền lương (Phần III), thời gian và rủi ro (Phần IV), nền kinh tế quốc gia (Phần V) và nền kinh tế quốc tế (Phần VI), kết thúc bằng Chương 23 về chênh lệch giàu nghèo giữa các nước. Chương 24 mở đầu Phần VII "Các vấn đề kinh tế đặc biệt" bằng cách dùng lại các công cụ đó để bác bỏ một số niềm tin phổ biến về thị trường. Nó gọi lại trực tiếp Chương 3 (hậu quả của kiểm soát giá), Chương 6 (doanh nghiệp tìm lợi nhuận được hiểu đúng hơn khi coi là doanh nghiệp chịu cả lãi lẫn lỗ) và Chương 9 (vì sao cạnh tranh và sức ép tài chính buộc người sản xuất làm hài lòng khách hàng). Chương 25 tiếp theo bàn về các giá trị "phi kinh tế", tức câu hỏi kinh tế học có bỏ qua những điều quan trọng hơn tiền bạc hay không; Chương 24 chuẩn bị cho câu hỏi đó bằng cách chỉ ra rằng nhiều lời phê phán thị trường xuất phát từ việc hiểu sai thị trường là gì.
-**Ý chính:** Sowell muốn người đọc hiểu rằng **thị trường không phải là một cỗ máy vô hồn mà là chính những con người giao dịch với nhau**, và nhiều niềm tin nghe có lý về thị trường sụp đổ khi người ta định nghĩa rõ từ ngữ và nhìn vào bằng chứng. Chương xét ba nhóm huyền thoại. Thứ nhất là về **giá**: giá không phải "khoản phí cầu đường" thu thêm cho lợi nhuận riêng (thế kỷ 20, các nước bỏ điều phối bằng giá có mức sống thấp hơn các nước vẫn dùng giá); những thứ "giống nhau" bán giá khác nhau thường thực ra là những thứ khác nhau (một rổ hàng giống hệt có giá từ 80 đến 125 USD ở các siêu thị Bắc California); và đòi giá "hợp lý" là đòi thực tế phải theo ngân sách của mình, trong khi giá không phải là chi phí mà là thứ trả cho chi phí. Thứ hai là về **thương hiệu**: thương hiệu không phải trò lừa để bán đắt, mà là cách tiết kiệm tri thức khan hiếm và buộc nhà sản xuất chịu trách nhiệm (Henry Heinz, McDonald's, người tiêu dùng Liên Xô tự đọc mã vạch thay cho thương hiệu). Thứ ba là về **tổ chức phi lợi nhuận**: chúng không hiệu quả hơn hay vô tư hơn doanh nghiệp, mà được che chắn khỏi phản hồi của khách hàng và nhà tài trợ, nên người điều hành có thể dùng tiền theo ý mình; bằng chứng là các trường đại học ngày càng thuê doanh nghiệp tìm lợi nhuận điều hành nhà sách, nhà ăn (Barnes & Noble trả Đại học South Carolina 500.000 USD/năm cho nhà sách mà trường tự điều hành hiếm khi lãi được 100.000 USD).
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2013–2014; số liệu và ví dụ thuộc giai đoạn đó hoặc trước đó (kibbutz đầu tiên bỏ chế độ bình quân năm 2007, ước tính giá trị thương hiệu Coca-Cola, doanh thu hơn 2.000 tỷ USD mỗi năm của khu vực phi lợi nhuận Mỹ). Một số chi tiết đã thay đổi: mảng nhà sách đại học của Barnes & Noble đã tách thành một công ty riêng (Barnes & Noble Education) năm 2015; số sinh viên của Đại học Phoenix, ví dụ trường tìm lợi nhuận mà Sowell nêu, đã giảm mạnh so với đỉnh khoảng năm 2010. Tên công ty quản lý nhà sách đại học được in là "Follet", đúng ra là Follett. Trong text có lỗi in "vis-à̀-vis" (thừa dấu), không ảnh hưởng nội dung. Chương mở đầu bằng câu đề từ của Charles Sanders Peirce (nhà triết học, logic học Mỹ thế kỷ 19). Chương có một chú thích chân trang có nội dung (trích John Stuart Mill, *On Liberty*, 1859), đã đưa vào tiểu mục "Non-Profit Organizations" ở Sơ đồ và mục 6 của Nội dung chi tiết. Các chú thích nguồn trích dẫn đã bỏ qua. Các câu trích là bản dịch của người tổng hợp.
+Sowell muốn người đọc hiểu rằng **thị trường không phải là một cỗ máy vô hồn mà là chính những con người giao dịch với nhau**, và nhiều niềm tin nghe có lý về thị trường sụp đổ khi người ta định nghĩa rõ từ ngữ và nhìn vào bằng chứng.
+
+Chương xét ba nhóm huyền thoại. Thứ nhất là về **giá**: giá không phải "khoản phí cầu đường" thu thêm cho lợi nhuận riêng (thế kỷ 20, các nước bỏ điều phối bằng giá có mức sống thấp hơn các nước vẫn dùng giá).
+
+Những thứ "giống nhau" bán giá khác nhau thường thực ra là những thứ khác nhau (một rổ hàng giống hệt có giá từ 80 đến 125 USD ở các siêu thị Bắc California). Và đòi giá "hợp lý" là đòi thực tế phải theo ngân sách của mình, trong khi giá không phải là chi phí mà là thứ trả cho chi phí.
+
+Thứ hai là về **thương hiệu**: thương hiệu không phải trò lừa để bán đắt, mà là cách tiết kiệm tri thức khan hiếm và buộc nhà sản xuất chịu trách nhiệm (Henry Heinz, McDonald's, người tiêu dùng Liên Xô tự đọc mã vạch thay cho thương hiệu).
+
+Thứ ba là về **tổ chức phi lợi nhuận**: chúng không hiệu quả hơn hay vô tư hơn doanh nghiệp, mà được che chắn khỏi phản hồi của khách hàng và nhà tài trợ, nên người điều hành có thể dùng tiền theo ý mình.
+
+Bằng chứng là các trường đại học ngày càng thuê doanh nghiệp tìm lợi nhuận điều hành nhà sách, nhà ăn (Barnes & Noble trả Đại học South Carolina 500.000 USD/năm cho nhà sách mà trường tự điều hành hiếm khi lãi được 100.000 USD).
 
 ## Sơ đồ
 
@@ -471,7 +478,9 @@
 
 **Điều phối bằng giá (price coordination).** Cách một nền kinh tế phân bổ nguồn lực thông qua giá cả do cung cầu hình thành, thay vì qua quyết định chính trị tập thể. Ví dụ: thế kỷ 20, các nước thay điều phối bằng giá bằng kế hoạch tập trung để loại bỏ lợi nhuận, và mức sống của hàng trăm triệu người thấp hơn các nước vẫn dùng giá. Quan trọng vì nó bác bỏ quan niệm giá là "phí cầu đường" thu cho lợi nhuận riêng.
 
-**Giá đầy đủ, gồm cả điều kiện đi kèm và thời gian (full price).** Đây là thuật ngữ của người tổng hợp; Sowell không dùng từ này nhưng mô tả đúng ý đó trong tiểu mục "Different Prices for the 'Same' Thing". Khi mua một món hàng, người mua trả cho cả địa điểm, dịch vụ, chính sách đổi trả, khả năng có sẵn hàng và thời gian bỏ ra, không chỉ cho vật thể. Ví dụ: một rổ thực phẩm cùng nhãn hiệu có giá 80 USD ở cửa hàng chỉ có sẵn 49% mặt hàng, và 98–103 USD ở Safeway có sẵn hơn ba phần tư; một siêu thị cao cấp được 90% khách khen tốc độ thanh toán, kho hàng giá rẻ chỉ được 12%. Quan trọng vì nó giải thích vì sao "cùng một thứ" bán giá khác nhau mà không mâu thuẫn với cung cầu.
+**Giá đầy đủ, gồm cả điều kiện đi kèm và thời gian (full price).** Đây là thuật ngữ của người tổng hợp; Sowell không dùng từ này nhưng mô tả đúng ý đó trong tiểu mục "Different Prices for the 'Same' Thing". Khi mua một món hàng, người mua trả cho cả địa điểm, dịch vụ, chính sách đổi trả, khả năng có sẵn hàng và thời gian bỏ ra, không chỉ cho vật thể.
+
+Ví dụ: một rổ thực phẩm cùng nhãn hiệu có giá 80 USD ở cửa hàng chỉ có sẵn 49% mặt hàng, và 98–103 USD ở Safeway có sẵn hơn ba phần tư; một siêu thị cao cấp được 90% khách khen tốc độ thanh toán, kho hàng giá rẻ chỉ được 12%. Quan trọng vì nó giải thích vì sao "cùng một thứ" bán giá khác nhau mà không mâu thuẫn với cung cầu.
 
 **Giá khác chi phí (prices are not costs).** Chi phí là lượng nguồn lực thật cần để làm ra và đưa hàng tới tay người mua; giá là khoản tiền dùng để trả cho chi phí đó. Ví dụ: chính phủ ép mức trả thấp hơn cho bác sĩ, bệnh viện không làm việc xây bệnh viện hay đào tạo bác sĩ tốn ít nguồn lực hơn; kết quả là danh sách chờ dài hơn và thiết bị cũ hơn. Quan trọng vì các chính sách "giảm chi phí" thường chỉ ép giá, và "từ chối trả đủ chi phí không phải là hạ chi phí".
 
@@ -501,7 +510,9 @@ Sowell nói huyền thoại về giá nhiều gần bằng số mức giá. Ph�
 
 Huyền thoại lâu đời và nhiều hậu quả nhất là quan niệm giá giống như khoản phí cầu đường thu cho lợi nhuận riêng, hoặc như rào chắn, cũng vì lợi nhuận riêng, ngăn dòng hàng hoá tới tay quần chúng đang cần. Sau khi đã thấy giá điều phối bao nhiêu hoạt động kinh tế (các chương trước), ý này có vẻ thô sơ, nhưng nó đã truyền cảm hứng cho các phong trào chính trị trên khắp thế giới, có trường hợp làm thay đổi lịch sử cả một quốc gia. Các phong trào xã hội chủ nghĩa, cộng sản và những phong trào khác quyết tâm chấm dứt điều họ coi là khoản lợi nhuận vô cớ, làm giá hàng cao lên một cách không cần thiết và làm mức sống người dân thấp đi tương ứng.
 
-Ẩn trong quan niệm đó là giả định rằng thu nhập của doanh nhân và nhà đầu tư từ sản xuất lớn hơn giá trị đóng góp của họ. Niềm tin này nghe có lý đến mức nhiều người thuộc đủ mọi tầng lớp đã hiến cả đời, có người liều hoặc hy sinh tính mạng, cho mục tiêu chấm dứt "bóc lột". Nhưng chính thành công chính trị của họ, tức việc thay nền kinh tế điều phối bằng giá bằng nền kinh tế điều phối bằng quyết định chính trị tập thể, đã đưa câu hỏi ra khỏi phạm vi niềm tin và vào phạm vi bằng chứng thực nghiệm. Trong thế kỷ 20, bằng chứng ngày càng cho thấy rõ một cách đau đớn rằng bỏ điều phối bằng giá và lợi nhuận không nâng mức sống, mà thường làm mức sống thấp hơn các nước vẫn dùng giá để phân bổ nguồn lực.
+Ẩn trong quan niệm đó là giả định rằng thu nhập của doanh nhân và nhà đầu tư từ sản xuất lớn hơn giá trị đóng góp của họ. Niềm tin này nghe có lý đến mức nhiều người thuộc đủ mọi tầng lớp đã hiến cả đời, có người liều hoặc hy sinh tính mạng, cho mục tiêu chấm dứt "bóc lột".
+
+Nhưng chính thành công chính trị của họ, tức việc thay nền kinh tế điều phối bằng giá bằng nền kinh tế điều phối bằng quyết định chính trị tập thể, đã đưa câu hỏi ra khỏi phạm vi niềm tin và vào phạm vi bằng chứng thực nghiệm. Trong thế kỷ 20, bằng chứng ngày càng cho thấy rõ một cách đau đớn rằng bỏ điều phối bằng giá và lợi nhuận không nâng mức sống, mà thường làm mức sống thấp hơn các nước vẫn dùng giá để phân bổ nguồn lực.
 
 Trong nhiều thập kỷ, thậm chí nhiều thế hệ, nhiều nước vẫn bám giả định ban đầu và chính sách dựa trên nó. Các thất bại kinh tế thường bị đổ cho "khó khăn ban đầu" ngắn hạn của một hệ thống mới, hay cho lỗi của cá nhân riêng lẻ, chứ không phải cho vấn đề vốn có của việc bên thứ ba ra quyết định tập thể. Đến cuối thế kỷ 20, cả các nước xã hội chủ nghĩa và cộng sản cũng bắt đầu bỏ doanh nghiệp nhà nước, và trừ vài nước cố thủ, tất cả đều đã để giá vận hành tự do hơn. Sowell kết luận: một bài học rất sơ đẳng về giá đã được trả bằng cái giá rất đắt cho hàng trăm triệu người.
 
@@ -543,13 +554,19 @@ Y tế là ví dụ rõ nhất. Chi phí chăm sóc y tế không giảm chút n
 
 **Huyền thoại.** Nhiều người nghĩ thương hiệu chỉ là cách bán đắt hơn cùng một sản phẩm, bằng quảng cáo thuyết phục người mua rằng có khác biệt chất lượng trong khi không có khác biệt nào; tức là thương hiệu vô ích xét từ lợi ích người tiêu dùng. Jawaharlal Nehru, Thủ tướng đầu tiên của Ấn Độ, từng hỏi: "Tại sao chúng ta cần tới mười chín nhãn hiệu kem đánh răng?"
 
-**Thương hiệu tiết kiệm tri thức.** Theo Sowell, với người tiêu dùng, thương hiệu là cách tiết kiệm tri thức khan hiếm và buộc nhà sản xuất cạnh tranh về cả chất lượng lẫn giá. Khi lái xe vào một thị trấn chưa từng tới và cần đổ xăng hay ăn hamburger, người ta không có cách trực tiếp nào biết người lạ ở trạm xăng đổ gì vào bình, hay người lạ ở quầy ven đường nướng gì cho mình ăn. Nhưng nếu biển hiệu trạm xăng là Chevron và biển hiệu quán là McDonald's thì người ta không lo. Trong trường hợp tệ nhất, người ta có thể kiện một tập đoàn hàng tỷ USD; người mua biết điều đó, tập đoàn biết, đại lý địa phương cũng biết, và chính điều đó làm giảm khả năng chuyện tệ xảy ra. Ngược lại, nếu một trạm xăng không tên làm hỏng động cơ, hay một chiếc hamburger không tên gây ngộ độc thực phẩm, khả năng kiện thắng chủ cửa hàng địa phương (có khi trước bồi thẩm đoàn gồm bạn bè, hàng xóm của ông ta) thấp hơn nhiều, và kể cả thắng thì khả năng đòi đủ tiền bồi thường cũng thấp hơn so với kiện một tập đoàn lớn.
+**Thương hiệu tiết kiệm tri thức.** Theo Sowell, với người tiêu dùng, thương hiệu là cách tiết kiệm tri thức khan hiếm và buộc nhà sản xuất cạnh tranh về cả chất lượng lẫn giá. Khi lái xe vào một thị trấn chưa từng tới và cần đổ xăng hay ăn hamburger, người ta không có cách trực tiếp nào biết người lạ ở trạm xăng đổ gì vào bình, hay người lạ ở quầy ven đường nướng gì cho mình ăn.
+
+Nhưng nếu biển hiệu trạm xăng là Chevron và biển hiệu quán là McDonald's thì người ta không lo. Trong trường hợp tệ nhất, người ta có thể kiện một tập đoàn hàng tỷ USD; người mua biết điều đó, tập đoàn biết, đại lý địa phương cũng biết, và chính điều đó làm giảm khả năng chuyện tệ xảy ra.
+
+Ngược lại, nếu một trạm xăng không tên làm hỏng động cơ, hay một chiếc hamburger không tên gây ngộ độc thực phẩm, khả năng kiện thắng chủ cửa hàng địa phương (có khi trước bồi thẩm đoàn gồm bạn bè, hàng xóm của ông ta) thấp hơn nhiều, và kể cả thắng thì khả năng đòi đủ tiền bồi thường cũng thấp hơn so với kiện một tập đoàn lớn.
 
 Trong một nền kinh tế ngày càng toàn cầu, người châu Âu và người Mỹ có thể rất ngần ngại mua thiết bị viễn thông làm ở Hàn Quốc, nửa vòng trái đất. Nhưng khi thương hiệu Samsung đã có thành tích, người ở Berlin hay Chicago sẵn lòng mua Samsung như mua hàng làm ngay cuối phố. Các công ty châu Á nói chung mới gần đây bắt đầu đầu tư nhiều thời gian và tiền bạc để làm thương hiệu được biết rộng rãi, và vẫn chi ít hơn các công ty đa quốc gia khác cho việc này. Dù vậy, Toyota, Honda và Nikon đã được nhận ra trên khắp thế giới, còn hãng hàng không Cathay Pacific và chuỗi khách sạn Shangri-La ngày càng nổi tiếng hơn ở nước ngoài.
 
 **Thương hiệu không bảo đảm, nhưng thu hẹp phạm vi bất định.** Nếu biển khách sạn ghi Ritz-Carlton, nhiều khả năng ta không phải lo ga giường đã được thay sau người khách trước hay chưa. Kể cả khi ghé một cửa hàng nhỏ tồi tàn ở thị trấn lạ, ta vẫn dám uống chai hay lon Coca-Cola, Seven Up mua ở đó. Nhưng Sowell hỏi: nếu chủ cửa hàng đó tự pha cho ta một ly soda ở quầy của ông ta, ta có tin tưởng như vậy không?
 
-**Lợi ích và chi phí.** Như mọi thứ khác trong nền kinh tế, thương hiệu có cả lợi ích lẫn chi phí. Một khách sạn Ritz-Carlton có thể tính giá cao hơn một khách sạn độc lập do người địa phương điều hành có phòng và dịch vụ tương đương, nếu ta biết tìm khách sạn đó ở đâu. Người thường xuyên ghé thị trấn này khi đi công tác có thể tìm được một khách sạn địa phương hời hơn. Nhưng việc khách qua đường lần đầu tìm một thương hiệu cũng hợp lý không kém việc khách quen quay lại nơi mình biết là rẻ hơn. Vì thương hiệu là thứ thay cho tri thức cụ thể, giá trị của nó tuỳ vào việc ta đã biết bao nhiêu về sản phẩm hay dịch vụ đó. Người rất rành nhiếp ảnh có thể an toàn mua máy ảnh, ống kính của hãng ít tên tuổi, thậm chí đồ cũ, với giá hời; nhưng nếu cùng người đó hiểu biết về dàn âm thanh kém xa hiểu biết về nhiếp ảnh, họ nên chỉ mua dàn âm thanh mới của các hãng nổi tiếng.
+**Lợi ích và chi phí.** Như mọi thứ khác trong nền kinh tế, thương hiệu có cả lợi ích lẫn chi phí. Một khách sạn Ritz-Carlton có thể tính giá cao hơn một khách sạn độc lập do người địa phương điều hành có phòng và dịch vụ tương đương, nếu ta biết tìm khách sạn đó ở đâu. Người thường xuyên ghé thị trấn này khi đi công tác có thể tìm được một khách sạn địa phương hời hơn. Nhưng việc khách qua đường lần đầu tìm một thương hiệu cũng hợp lý không kém việc khách quen quay lại nơi mình biết là rẻ hơn.
+
+Vì thương hiệu là thứ thay cho tri thức cụ thể, giá trị của nó tuỳ vào việc ta đã biết bao nhiêu về sản phẩm hay dịch vụ đó. Người rất rành nhiếp ảnh có thể an toàn mua máy ảnh, ống kính của hãng ít tên tuổi, thậm chí đồ cũ, với giá hời; nhưng nếu cùng người đó hiểu biết về dàn âm thanh kém xa hiểu biết về nhiếp ảnh, họ nên chỉ mua dàn âm thanh mới của các hãng nổi tiếng.
 
 **"Các thương hiệu đều như nhau."** Nhiều người phê phán nói các thương hiệu chính "đều như nhau". Sowell trả lời rằng kể cả khi đúng, thương hiệu vẫn có ích. Câu hỏi không phải súp Campbell's có ngon hơn súp của hãng khác không, mà là cả hai loại súp có tốt hơn so với khi cùng bán dưới nhãn vô danh hay không. Nếu lon súp Campbell's chỉ ghi "Súp cà chua", "Súp nghêu" hay "Súp rau Minestrone" mà không có tên hãng, sức ép buộc mọi nhà sản xuất súp đóng hộp giữ an toàn và chất lượng sẽ nhỏ hơn.
 
@@ -562,11 +579,15 @@ Trong một nền kinh tế ngày càng toàn cầu, người châu Âu và ngư
 | Mỹ thế kỷ 19 | Phần lớn nhà chế biến thực phẩm không ghi tên hãng, khiến nạn pha tạp thực phẩm lan tràn. Henry Heinz bán thực phẩm chế biến không pha tạp và ghi tên mình lên sản phẩm; uy tín giúp công ty lớn nhanh và các món mới mang tên Heinz được chấp nhận ngay từ đầu |
 | Thập niên 1950–1960 | McDonald's cách mạng hoá tiêu chuẩn chất lượng hamburger, sữa lắc và khoai tây chiên |
 
-Theo Sowell, sự ra đời của thương hiệu nâng chất lượng vì nó cho người tiêu dùng phân biệt và lựa chọn, và buộc nhà sản xuất chịu trách nhiệm về sản phẩm của mình: được thưởng khi làm tốt, mất khách khi làm dở. McDonald's đã chi hàng triệu USD nghiên cứu cách trồng, bảo quản và chế biến khoai tây; lập chính sách thăm đột xuất các nhà cung cấp khoai tây và thịt bò để kiểm tra họ có theo quy cách chất lượng không; và buộc các xưởng sữa cung cấp hỗn hợp sữa lắc chất lượng cao hơn. Một số đối thủ hàng đầu về sau sao chép phương pháp và máy móc của McDonald's, và các đối thủ buộc phải làm tương tự để tồn tại. Về sau có người có thể nói các chuỗi hamburger hàng đầu "đều như nhau", nhưng chúng đều tốt hơn trước, vì McDonald's đã được hưởng lợi trước tiên từ việc tên tuổi mình gắn với chất lượng cao hơn mức công chúng quen thấy ở các quầy hamburger.
+Theo Sowell, sự ra đời của thương hiệu nâng chất lượng vì nó cho người tiêu dùng phân biệt và lựa chọn, và buộc nhà sản xuất chịu trách nhiệm về sản phẩm của mình: được thưởng khi làm tốt, mất khách khi làm dở.
+
+McDonald's đã chi hàng triệu USD nghiên cứu cách trồng, bảo quản và chế biến khoai tây; lập chính sách thăm đột xuất các nhà cung cấp khoai tây và thịt bò để kiểm tra họ có theo quy cách chất lượng không; và buộc các xưởng sữa cung cấp hỗn hợp sữa lắc chất lượng cao hơn. Một số đối thủ hàng đầu về sau sao chép phương pháp và máy móc của McDonald's, và các đối thủ buộc phải làm tương tự để tồn tại. Về sau có người có thể nói các chuỗi hamburger hàng đầu "đều như nhau", nhưng chúng đều tốt hơn trước, vì McDonald's đã được hưởng lợi trước tiên từ việc tên tuổi mình gắn với chất lượng cao hơn mức công chúng quen thấy ở các quầy hamburger.
 
 Kể cả khi luật bắt mọi hãng sản xuất theo cùng công thức, như với aspirin, việc biết rõ ai làm ra từng lọ thuốc vẫn giúp kiểm soát chất lượng tốt hơn khi nhà sản xuất vô danh. Hơn nữa, các hãng nổi tiếng nhất mất nhiều nhất nếu tạp chất lọt vào thuốc trong quá trình sản xuất và gây bệnh hay chết người. Điều này đặc biệt quan trọng với thực phẩm và thuốc men.
 
-**Khi không có thương hiệu.** Tầm quan trọng của thương hiệu thấy rõ hơn khi nhìn vào nơi không có thương hiệu, hoặc chỉ có một nhà sản xuất do nhà nước lập hay cho phép: ở đó chất lượng thường thấp hơn. Thời Liên Xô, Aeroflot, hãng hàng không duy nhất của nước này, nổi tiếng về phục vụ tồi và thô lỗ với hành khách. Sau khi Liên Xô tan rã, một hãng hàng không mới do tư nhân cấp vốn rất thành công, một phần vì hành khách thấy mình lần đầu được đối xử như con người; ban quản lý hãng mới tuyên bố chính sách không tuyển bất kỳ ai từng làm cho Aeroflot. Với hàng tiêu dùng, theo *The Economist*, ở Liên Xô cũ, nơi mọi sản phẩm được coi là như nhau, người tiêu dùng học cách đọc mã vạch thay cho thương hiệu để nhận ra hàng của các nhà máy đáng tin. Nói cách khác, người tiêu dùng Liên Xô đã tự tạo ra thương hiệu trên thực tế (de facto) khi không có thương hiệu nào, cho thấy thương hiệu có giá trị với người tiêu dùng chứ không chỉ với nhà sản xuất.
+**Khi không có thương hiệu.** Tầm quan trọng của thương hiệu thấy rõ hơn khi nhìn vào nơi không có thương hiệu, hoặc chỉ có một nhà sản xuất do nhà nước lập hay cho phép: ở đó chất lượng thường thấp hơn. Thời Liên Xô, Aeroflot, hãng hàng không duy nhất của nước này, nổi tiếng về phục vụ tồi và thô lỗ với hành khách. Sau khi Liên Xô tan rã, một hãng hàng không mới do tư nhân cấp vốn rất thành công, một phần vì hành khách thấy mình lần đầu được đối xử như con người; ban quản lý hãng mới tuyên bố chính sách không tuyển bất kỳ ai từng làm cho Aeroflot.
+
+Với hàng tiêu dùng, theo *The Economist*, ở Liên Xô cũ, nơi mọi sản phẩm được coi là như nhau, người tiêu dùng học cách đọc mã vạch thay cho thương hiệu để nhận ra hàng của các nhà máy đáng tin. Nói cách khác, người tiêu dùng Liên Xô đã tự tạo ra thương hiệu trên thực tế (de facto) khi không có thương hiệu nào, cho thấy thương hiệu có giá trị với người tiêu dùng chứ không chỉ với nhà sản xuất.
 
 **Thương hiệu là tài sản.** Trong các tài sản của một doanh nghiệp (tiền, máy móc, bất động sản, hàng tồn kho và các tài sản hữu hình khác), thương hiệu có thể là tài sản lớn nhất dù vô hình. Theo một ước tính, giá trị thị trường của công ty Coca-Cola vượt giá trị tài sản hữu hình của nó hơn 100 tỷ USD, và 70 tỷ USD trong đó là nhờ giá trị thương hiệu. Đó là động cơ rất lớn để công ty giữ chất lượng và an toàn, nhằm giữ giá trị của tài sản này.
 
@@ -578,23 +599,37 @@ Theo Sowell, người điều hành bất kỳ tổ chức nào (tìm lợi nhu�
 
 Điều đó không có nghĩa tổ chức phi lợi nhuận có tiền vô hạn hay không phải lo chi vượt thu. Nó có nghĩa là, với số tiền đang có, họ chịu rất ít sức ép phải đạt mục tiêu của tổ chức ở mức tối đa có thể. Người cung cấp nguồn lực gồm công chúng quyên góp, vốn không theo dõi sát được tiền của mình đi đâu, và những người góp tiền vào quỹ hiến tặng giúp tài trợ tổ chức, cũng không theo dõi được. Nhiều, có khi phần lớn, quỹ hiến tặng do những người nay đã chết để lại, nên họ hoàn toàn không thể theo dõi.
 
-**Phí người dùng và người được trợ cấp.** Tổ chức phi lợi nhuận còn có nguồn thu từ phí người dùng, như khách tham quan bảo tàng hay khán giả dàn nhạc giao hưởng. Phí này thực ra là nguồn chính trong hơn 2.000 tỷ USD doanh thu mỗi năm của các tổ chức phi lợi nhuận ở Mỹ, nhưng nó không bù đủ toàn bộ chi phí. Nghĩa là người nhận dịch vụ đang dùng những thứ tốn chi phí sản xuất nhiều hơn số họ trả, có người dùng miễn phí. Những người được trợ cấp như vậy không gây được ảnh hưởng hay sức ép như khách hàng của doanh nghiệp chịu lãi lỗ, vì khách hàng đó trả đủ chi phí và chỉ tiếp tục mua khi thấy thứ mình nhận đáng với số tiền bỏ ra, so với những gì cùng số tiền mua được ở nơi khác.
+**Phí người dùng và người được trợ cấp.** Tổ chức phi lợi nhuận còn có nguồn thu từ phí người dùng, như khách tham quan bảo tàng hay khán giả dàn nhạc giao hưởng. Phí này thực ra là nguồn chính trong hơn 2.000 tỷ USD doanh thu mỗi năm của các tổ chức phi lợi nhuận ở Mỹ, nhưng nó không bù đủ toàn bộ chi phí. Nghĩa là người nhận dịch vụ đang dùng những thứ tốn chi phí sản xuất nhiều hơn số họ trả, có người dùng miễn phí.
 
-Dịch vụ của tổ chức phi lợi nhuận có thể đáng với số tiền người nhận phải trả (có khi bằng không) mà vẫn không đáng với chi phí sản xuất ra nó. Một doanh nghiệp bị ràng buộc bởi lãi lỗ không thể tiếp tục dùng nguồn lực có giá trị cao hơn ở chỗ khác trong nền kinh tế; một tổ chức phi lợi nhuận thì có thể, vì nó không cần thu lại đủ chi phí từ người nhận dịch vụ. Khi tổ chức phi lợi nhuận cấp tiền tài trợ, người nhận tiền không có vị thế gì để ảnh hưởng tới cách tổ chức vận hành, khác với khách hàng của doanh nghiệp. Các tổ chức phi lợi nhuận làm trung gian chuyển gan, thận hiến tặng tới bệnh nhân có thể đặt ra quy tắc tuỳ tiện mà bác sĩ và bệnh nhân khó phản đối.
+Những người được trợ cấp như vậy không gây được ảnh hưởng hay sức ép như khách hàng của doanh nghiệp chịu lãi lỗ, vì khách hàng đó trả đủ chi phí và chỉ tiếp tục mua khi thấy thứ mình nhận đáng với số tiền bỏ ra, so với những gì cùng số tiền mua được ở nơi khác.
+
+Dịch vụ của tổ chức phi lợi nhuận có thể đáng với số tiền người nhận phải trả (có khi bằng không) mà vẫn không đáng với chi phí sản xuất ra nó. Một doanh nghiệp bị ràng buộc bởi lãi lỗ không thể tiếp tục dùng nguồn lực có giá trị cao hơn ở chỗ khác trong nền kinh tế; một tổ chức phi lợi nhuận thì có thể, vì nó không cần thu lại đủ chi phí từ người nhận dịch vụ.
+
+Khi tổ chức phi lợi nhuận cấp tiền tài trợ, người nhận tiền không có vị thế gì để ảnh hưởng tới cách tổ chức vận hành, khác với khách hàng của doanh nghiệp. Các tổ chức phi lợi nhuận làm trung gian chuyển gan, thận hiến tặng tới bệnh nhân có thể đặt ra quy tắc tuỳ tiện mà bác sĩ và bệnh nhân khó phản đối.
 
 Sowell so sánh vị thế của người điều hành tổ chức phi lợi nhuận với chủ nhà trong lúc thiếu nhà ở: người xin luôn nhiều hơn chỗ. Khi cả mong muốn của người dùng hiện tại lẫn mong muốn ban đầu của người góp quỹ đều không có sức nặng như khách hàng và nhà đầu tư có đối với doanh nghiệp, những người tình cờ nắm quyền ở tổ chức vào một thời điểm có thể thay mục tiêu bề ngoài của tổ chức, hoặc mục tiêu của người sáng lập, bằng mục tiêu riêng.
 
-**Mục tiêu bị bẻ cong.** Có người nói Henry Ford và John D. Rockefeller sẽ "trở mình dưới mộ" nếu biết các quỹ mang tên họ đang tài trợ những gì. Điều đó rốt cuộc không thể biết, nhưng điều đã biết là Henry Ford II đã rời hội đồng quản trị Quỹ Ford để phản đối cách quỹ dùng số tiền ông nội mình để lại. Rộng hơn, ngày nay ai cũng thừa nhận rất khó lập một quỹ cho một mục đích rồi mong quỹ giữ đúng mục đích đó sau khi tiền đã được góp, nhất là sau khi người góp đã qua đời. Nhiều tiền có thể bị tiêu vào nơi làm việc xa hoa hay các hội nghị phô trương ở khách sạn, khu nghỉ dưỡng sang trọng trong nước và nước ngoài. Mục tiêu của tổ chức có thể bị uốn theo mục tiêu của người điều hành hiện tại, hoặc theo những quyết định giúp họ được công chúng chú ý và tán thưởng, bất kể có phục vụ mục đích ban đầu hay mục đích hiện tuyên bố hay không.
+**Mục tiêu bị bẻ cong.** Có người nói Henry Ford và John D. Rockefeller sẽ "trở mình dưới mộ" nếu biết các quỹ mang tên họ đang tài trợ những gì. Điều đó rốt cuộc không thể biết, nhưng điều đã biết là Henry Ford II đã rời hội đồng quản trị Quỹ Ford để phản đối cách quỹ dùng số tiền ông nội mình để lại.
 
-Nhà văn Anh Peter Hitchens nhận xét rằng Giáo hội Anh, giáo hội do nhà nước lập, ngày càng được điều hành vì lợi ích của chính nhân viên của nó thay vì lợi ích của người đi lễ hay của đất nước. Adam Smith đã đưa ra lời phê phán tương tự với các trường đại học sống bằng quỹ hiến tặng ở thế kỷ 18: giới học thuật điều hành các trường này có thể vận hành chúng vì lợi ích bản thân, rất dễ dãi với nhau, mỗi người đồng ý để đồng nghiệp lơ là bổn phận miễn mình cũng được lơ là bổn phận của mình. Theo Sowell, những phàn nàn phổ biến ngày nay rằng giáo sư bỏ bê giảng dạy vì nghiên cứu, có khi bỏ cả hai vì nghỉ ngơi hay việc khác, cho thấy nguyên lý ấy ít thay đổi sau hơn 200 năm. Chế độ biên chế suốt đời (tenure) phổ biến ở các trường đại học phi lợi nhuận nhưng gần như không có ở các doanh nghiệp phải cạnh tranh trên thị trường, kể cả các cơ sở giáo dục tìm lợi nhuận như Đại học Phoenix.
+Rộng hơn, ngày nay ai cũng thừa nhận rất khó lập một quỹ cho một mục đích rồi mong quỹ giữ đúng mục đích đó sau khi tiền đã được góp, nhất là sau khi người góp đã qua đời. Nhiều tiền có thể bị tiêu vào nơi làm việc xa hoa hay các hội nghị phô trương ở khách sạn, khu nghỉ dưỡng sang trọng trong nước và nước ngoài. Mục tiêu của tổ chức có thể bị uốn theo mục tiêu của người điều hành hiện tại, hoặc theo những quyết định giúp họ được công chúng chú ý và tán thưởng, bất kể có phục vụ mục đích ban đầu hay mục đích hiện tuyên bố hay không.
 
-**Hiệu quả theo nghĩa rộng và chú thích về Mill.** Ở Mỹ, đại học, bệnh viện và quỹ thường là tổ chức phi lợi nhuận, nhưng tổ chức phi lợi nhuận còn làm nhiều việc vốn của doanh nghiệp, như bán cam Sunkist hay xuất bản tạp chí *The Smithsonian*. Dù làm gì, họ cũng không chịu cùng sức ép phải đạt hiệu quả cao nhất trên mỗi đồng chi ra như doanh nghiệp sống còn nhờ lãi lỗ. Điều này ảnh hưởng tới hiệu quả không chỉ theo nghĩa tài chính hẹp, mà cả theo nghĩa rộng là đạt được mục đích tuyên bố. Chẳng hạn, các trường đại học có thể thành nơi truyền bá những quan điểm hệ tư tưởng đang thịnh hành ("đúng đắn chính trị", political correctness) và hạn chế quan điểm khác, dù mục tiêu giáo dục được phục vụ tốt hơn khi sinh viên được tiếp xúc với nhiều ý tưởng đối lập, cạnh tranh nhau.
+Nhà văn Anh Peter Hitchens nhận xét rằng Giáo hội Anh, giáo hội do nhà nước lập, ngày càng được điều hành vì lợi ích của chính nhân viên của nó thay vì lợi ích của người đi lễ hay của đất nước. Adam Smith đã đưa ra lời phê phán tương tự với các trường đại học sống bằng quỹ hiến tặng ở thế kỷ 18: giới học thuật điều hành các trường này có thể vận hành chúng vì lợi ích bản thân, rất dễ dãi với nhau, mỗi người đồng ý để đồng nghiệp lơ là bổn phận miễn mình cũng được lơ là bổn phận của mình.
+
+Theo Sowell, những phàn nàn phổ biến ngày nay rằng giáo sư bỏ bê giảng dạy vì nghiên cứu, có khi bỏ cả hai vì nghỉ ngơi hay việc khác, cho thấy nguyên lý ấy ít thay đổi sau hơn 200 năm. Chế độ biên chế suốt đời (tenure) phổ biến ở các trường đại học phi lợi nhuận nhưng gần như không có ở các doanh nghiệp phải cạnh tranh trên thị trường, kể cả các cơ sở giáo dục tìm lợi nhuận như Đại học Phoenix.
+
+**Hiệu quả theo nghĩa rộng và chú thích về Mill.** Ở Mỹ, đại học, bệnh viện và quỹ thường là tổ chức phi lợi nhuận, nhưng tổ chức phi lợi nhuận còn làm nhiều việc vốn của doanh nghiệp, như bán cam Sunkist hay xuất bản tạp chí *The Smithsonian*. Dù làm gì, họ cũng không chịu cùng sức ép phải đạt hiệu quả cao nhất trên mỗi đồng chi ra như doanh nghiệp sống còn nhờ lãi lỗ. Điều này ảnh hưởng tới hiệu quả không chỉ theo nghĩa tài chính hẹp, mà cả theo nghĩa rộng là đạt được mục đích tuyên bố.
+
+Chẳng hạn, các trường đại học có thể thành nơi truyền bá những quan điểm hệ tư tưởng đang thịnh hành ("đúng đắn chính trị", political correctness) và hạn chế quan điểm khác, dù mục tiêu giáo dục được phục vụ tốt hơn khi sinh viên được tiếp xúc với nhiều ý tưởng đối lập, cạnh tranh nhau.
 
 *Chú thích của Sowell:* John Stuart Mill đã chỉ ra điều này trong tiểu luận *On Liberty* (Bàn về tự do) năm 1859. Theo Mill, người chỉ biết lập luận của phía mình thì biết rất ít về chính vấn đề đó. Nghe lập luận của đối phương qua lời thầy mình, theo cách thầy trình bày và kèm những gì thầy đưa ra để bác bỏ, cũng chưa đủ, vì như vậy chưa công bằng với các lập luận ấy và chưa để chúng thật sự đối mặt với suy nghĩ của mình. Người đó phải nghe chúng từ những người thật sự tin, những người bảo vệ chúng nghiêm túc và hết sức mình, và phải biết chúng ở dạng hợp lý, thuyết phục nhất.
 
-**Tuyển dụng và phân biệt chủng tộc.** Chính sách tuyển dụng của tổ chức phi lợi nhuận có nhiều khoảng tuỳ ý hơn so với doanh nghiệp hoạt động vì hy vọng có lãi và dưới nguy cơ thua lỗ. Trước Thế chiến II, bệnh viện thuộc nhóm chủ sử dụng lao động phân biệt chủng tộc nặng nhất ở Mỹ, dù mục tiêu tuyên bố của họ được phục vụ tốt hơn khi tuyển bác sĩ giỏi nhất, kể cả khi bác sĩ đó là người da đen hay Do Thái. Các quỹ phi lợi nhuận cũng thuộc nhóm phân biệt chủng tộc nặng nhất thời đó. Giới đại học phi lợi nhuận cũng vậy: giáo sư da đen đầu tiên được biên chế suốt đời ở một đại học lớn là năm 1948. Trong khi đó, đã có hàng trăm nhà hoá học da đen làm việc cho các công ty hoá chất tìm lợi nhuận nhiều năm trước khi người da đen được thuê dạy hoá ở các trường đại học phi lợi nhuận; bác sĩ da đen và Do Thái đã có phòng khám tư phát đạt từ lâu trước khi được hành nghề ở nhiều bệnh viện phi lợi nhuận. Sowell kết luận: dù tiền được góp cho tổ chức phi lợi nhuận vì mục đích gì, nó được tiêu theo ý những người có thể dùng nó cho đặc quyền, định kiến hay quan điểm chính trị của riêng họ.
+**Tuyển dụng và phân biệt chủng tộc.** Chính sách tuyển dụng của tổ chức phi lợi nhuận có nhiều khoảng tuỳ ý hơn so với doanh nghiệp hoạt động vì hy vọng có lãi và dưới nguy cơ thua lỗ. Trước Thế chiến II, bệnh viện thuộc nhóm chủ sử dụng lao động phân biệt chủng tộc nặng nhất ở Mỹ, dù mục tiêu tuyên bố của họ được phục vụ tốt hơn khi tuyển bác sĩ giỏi nhất, kể cả khi bác sĩ đó là người da đen hay Do Thái. Các quỹ phi lợi nhuận cũng thuộc nhóm phân biệt chủng tộc nặng nhất thời đó.
 
-**Phép thử hiệu quả: thuê ngoài.** Hoạt động của tổ chức phi lợi nhuận soi sáng vai trò của lợi nhuận đối với hiệu quả. Nếu những người coi lợi nhuận chỉ là khoản cộng thêm không cần thiết vào chi phí sản xuất là đúng, thì tổ chức phi lợi nhuận phải sản xuất được với chi phí thấp hơn, bán với giá thấp hơn, và qua thời gian sẽ giành khách và dần thay thế doanh nghiệp tìm lợi nhuận. Thực tế không những không như vậy mà còn ngược lại: ngày càng nhiều hoạt động kinh tế của chính tổ chức phi lợi nhuận được chuyển cho doanh nghiệp tìm lợi nhuận. Các trường đại học là một ví dụ: nhà sách, nhà ăn và các dịch vụ phụ trợ vốn do trường tự điều hành ngày càng được giao cho doanh nghiệp làm rẻ hơn hoặc tốt hơn, hoặc cả hai. Theo *The Chronicle of Higher Education*, Follett điều hành nhà sách Stanford, Aramark nấu ăn ở Đại học Yale, Barnes & Noble quản lý Harvard Coop, và các trường danh tiếng nhất cùng nhiều trường khác ngày càng thuê ngoài một phần hoạt động; cũng theo tờ báo này, tiền là lý do số một khiến các trường thuê ngoài.
+Giới đại học phi lợi nhuận cũng vậy: giáo sư da đen đầu tiên được biên chế suốt đời ở một đại học lớn là năm 1948. Trong khi đó, đã có hàng trăm nhà hoá học da đen làm việc cho các công ty hoá chất tìm lợi nhuận nhiều năm trước khi người da đen được thuê dạy hoá ở các trường đại học phi lợi nhuận; bác sĩ da đen và Do Thái đã có phòng khám tư phát đạt từ lâu trước khi được hành nghề ở nhiều bệnh viện phi lợi nhuận. Sowell kết luận: dù tiền được góp cho tổ chức phi lợi nhuận vì mục đích gì, nó được tiêu theo ý những người có thể dùng nó cho đặc quyền, định kiến hay quan điểm chính trị của riêng họ.
+
+**Phép thử hiệu quả: thuê ngoài.** Hoạt động của tổ chức phi lợi nhuận soi sáng vai trò của lợi nhuận đối với hiệu quả. Nếu những người coi lợi nhuận chỉ là khoản cộng thêm không cần thiết vào chi phí sản xuất là đúng, thì tổ chức phi lợi nhuận phải sản xuất được với chi phí thấp hơn, bán với giá thấp hơn, và qua thời gian sẽ giành khách và dần thay thế doanh nghiệp tìm lợi nhuận. Thực tế không những không như vậy mà còn ngược lại: ngày càng nhiều hoạt động kinh tế của chính tổ chức phi lợi nhuận được chuyển cho doanh nghiệp tìm lợi nhuận.
+
+Các trường đại học là một ví dụ: nhà sách, nhà ăn và các dịch vụ phụ trợ vốn do trường tự điều hành ngày càng được giao cho doanh nghiệp làm rẻ hơn hoặc tốt hơn, hoặc cả hai. Theo *The Chronicle of Higher Education*, Follett điều hành nhà sách Stanford, Aramark nấu ăn ở Đại học Yale, Barnes & Noble quản lý Harvard Coop, và các trường danh tiếng nhất cùng nhiều trường khác ngày càng thuê ngoài một phần hoạt động; cũng theo tờ báo này, tiền là lý do số một khiến các trường thuê ngoài.
 
 | Trường hợp | Số liệu |
 |---|---|
@@ -605,9 +640,13 @@ Nghĩa là doanh nghiệp không chỉ điều hành rẻ hơn mà còn lãi đ�
 
 **Kibbutz.** Ở Trung Đông, kibbutz đầu tiên được lập năm 1910 như một cộng đồng phi lợi nhuận, các thành viên cung cấp hàng hoá, dịch vụ cho nhau và chia sản phẩm theo nguyên tắc bình quân. Năm 2007, chính kibbutz đầu tiên đó bỏ phiếu thôi hoạt động phi lợi nhuận và bình quân; tới lúc đó 61% kibbutz ở Israel đã làm như vậy. Một yếu tố trong quyết định là người trẻ có xu hướng bỏ đi sống trong khu vực kinh tế định hướng thị trường. Sowell viết: kể cả những người lớn lên trong triết lý của một tổ chức phi lợi nhuận như kibbutz vẫn "bỏ phiếu bằng chân" để gia nhập kinh tế thị trường.
 
-**Không phải nguồn tin vô tư.** Truyền thông có xu hướng coi tổ chức phi lợi nhuận là nguồn thông tin vô tư. Nhưng tổ chức phi lợi nhuận sống nhờ quyên góp liên tục từ công chúng có động cơ gây báo động để khiến người quyên góp sợ mà góp thêm. Ví dụ, một tổ chức thường xuyên đưa ra cảnh báo nghiêm trọng về nguy cơ sức khoẻ từ môi trường đã thừa nhận không có một bác sĩ hay nhà khoa học nào trong đội ngũ. Các tổ chức khác phụ thuộc tài chính vào quyên góp hiện tại, khác với tổ chức có quỹ hiến tặng lớn, cũng có động cơ tương tự để làm những người ủng hộ mình lo lắng về các vấn đề xã hội, chính trị hay vấn đề khác, và ít ràng buộc buộc họ phải dựa cảnh báo trên cơ sở chính xác, có căn cứ.
+**Không phải nguồn tin vô tư.** Truyền thông có xu hướng coi tổ chức phi lợi nhuận là nguồn thông tin vô tư. Nhưng tổ chức phi lợi nhuận sống nhờ quyên góp liên tục từ công chúng có động cơ gây báo động để khiến người quyên góp sợ mà góp thêm.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Giả sử chi phí thật để thực hiện một ca chụp cộng hưởng từ (khấu hao máy, điện, vật tư, lương kỹ thuật viên và bác sĩ đọc phim) là 2 triệu đồng, và mỗi bệnh viện cần 40 ca/ngày để hoà vốn. Nếu giá được phép thu bị ấn định ở 1,2 triệu đồng cho "vừa túi tiền", chi phí 2 triệu đồng không giảm đi; mỗi ca vẫn thiếu 800.000 đồng. Có ba khả năng, đúng như Sowell mô tả: bệnh viện hạn chế số ca (danh sách chờ dài ra), trì hoãn thay máy cũ (chất lượng giảm), hoặc nhà nước bù 800.000 đồng mỗi ca bằng ngân sách (người dân vẫn trả đủ 2 triệu đồng, chỉ là một phần qua thuế). Cùng ca chụp đó có thể có giá 2,5 triệu đồng ở một phòng khám tư nhận lịch trong ngày và 1,2 triệu đồng ở bệnh viện phải chờ hai tuần; hai mức giá không mâu thuẫn với cung cầu, vì người mua đang mua hai thứ khác nhau: chụp ngay và chụp sau hai tuần.
+Ví dụ, một tổ chức thường xuyên đưa ra cảnh báo nghiêm trọng về nguy cơ sức khoẻ từ môi trường đã thừa nhận không có một bác sĩ hay nhà khoa học nào trong đội ngũ. Các tổ chức khác phụ thuộc tài chính vào quyên góp hiện tại, khác với tổ chức có quỹ hiến tặng lớn, cũng có động cơ tương tự để làm những người ủng hộ mình lo lắng về các vấn đề xã hội, chính trị hay vấn đề khác, và ít ràng buộc buộc họ phải dựa cảnh báo trên cơ sở chính xác, có căn cứ.
+
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Giả sử chi phí thật để thực hiện một ca chụp cộng hưởng từ (khấu hao máy, điện, vật tư, lương kỹ thuật viên và bác sĩ đọc phim) là 2 triệu đồng, và mỗi bệnh viện cần 40 ca/ngày để hoà vốn. Nếu giá được phép thu bị ấn định ở 1,2 triệu đồng cho "vừa túi tiền", chi phí 2 triệu đồng không giảm đi; mỗi ca vẫn thiếu 800.000 đồng. Có ba khả năng, đúng như Sowell mô tả: bệnh viện hạn chế số ca (danh sách chờ dài ra), trì hoãn thay máy cũ (chất lượng giảm), hoặc nhà nước bù 800.000 đồng mỗi ca bằng ngân sách (người dân vẫn trả đủ 2 triệu đồng, chỉ là một phần qua thuế).
+
+Cùng ca chụp đó có thể có giá 2,5 triệu đồng ở một phòng khám tư nhận lịch trong ngày và 1,2 triệu đồng ở bệnh viện phải chờ hai tuần; hai mức giá không mâu thuẫn với cung cầu, vì người mua đang mua hai thứ khác nhau: chụp ngay và chụp sau hai tuần.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -724,11 +763,15 @@ Hai lập luận về giá trong chương mạnh vì chúng dựa trên định 
 
 ### Lập luận về thương hiệu khớp với kinh tế học thông tin bất cân xứng, nhưng bỏ qua mặt trái của thương hiệu
 
-Ý thương hiệu tiết kiệm tri thức và tạo trách nhiệm khớp với kinh tế học thông tin bất cân xứng, và ví dụ người Liên Xô tự đọc mã vạch là bằng chứng thuyết phục rằng người tiêu dùng cần thương hiệu đến mức tự tạo ra khi không có. Nhưng Sowell gần như chỉ nói mặt tốt. Ông nhắc thương hiệu có chi phí (Ritz-Carlton đắt hơn khách sạn địa phương tương đương), nhưng không bàn tới việc quảng cáo có thể tạo khác biệt cảm nhận không gắn với chất lượng thật, hay việc thương hiệu mạnh có thể thành rào cản gia nhập giúp doanh nghiệp lớn giữ giá cao. Ví dụ Coca-Cola có giá trị thương hiệu 70 tỷ USD có thể được đọc theo hai cách: động cơ giữ chất lượng (cách đọc của Sowell) hoặc khả năng định giá cao hơn chi phí nhờ vị thế thị trường. Chương không nêu cách đọc thứ hai.
+Ý thương hiệu tiết kiệm tri thức và tạo trách nhiệm khớp với kinh tế học thông tin bất cân xứng, và ví dụ người Liên Xô tự đọc mã vạch là bằng chứng thuyết phục rằng người tiêu dùng cần thương hiệu đến mức tự tạo ra khi không có.
+
+Nhưng Sowell gần như chỉ nói mặt tốt. Ông nhắc thương hiệu có chi phí (Ritz-Carlton đắt hơn khách sạn địa phương tương đương), nhưng không bàn tới việc quảng cáo có thể tạo khác biệt cảm nhận không gắn với chất lượng thật, hay việc thương hiệu mạnh có thể thành rào cản gia nhập giúp doanh nghiệp lớn giữ giá cao. Ví dụ Coca-Cola có giá trị thương hiệu 70 tỷ USD có thể được đọc theo hai cách: động cơ giữ chất lượng (cách đọc của Sowell) hoặc khả năng định giá cao hơn chi phí nhờ vị thế thị trường. Chương không nêu cách đọc thứ hai.
 
 ### Phần tổ chức phi lợi nhuận dựa nhiều vào giai thoại và có chỗ suy luận quá nhanh
 
-Lập luận lý thuyết (thiếu phản hồi thì người điều hành có nhiều tự do hơn) rất chặt, và trường hợp nhà sách South Carolina là bằng chứng cụ thể. Nhưng nhiều ví dụ còn lại là giai thoại không nêu tên hoặc khó kiểm chứng: "một tổ chức" cảnh báo sức khoẻ không có nhà khoa học, "một hãng hàng không tư nhân" sau Liên Xô, lời phàn nàn chung về giáo sư. Ví dụ phân biệt chủng tộc trước Thế chiến II có sức nặng, nhưng doanh nghiệp tìm lợi nhuận thời đó cũng phân biệt chủng tộc rộng rãi; điều Sowell chứng minh được là doanh nghiệp có chi phí phân biệt cao hơn nên ở một số ngành họ mở cửa sớm hơn, không phải doanh nghiệp không phân biệt. Ngoài ra, việc các trường thuê ngoài nhà sách cho thấy doanh nghiệp làm tốt các dịch vụ dễ đo lường; nó không chứng minh doanh nghiệp làm tốt hơn ở những hoạt động khó đo kết quả như giáo dục hay nghiên cứu cơ bản.
+Lập luận lý thuyết (thiếu phản hồi thì người điều hành có nhiều tự do hơn) rất chặt, và trường hợp nhà sách South Carolina là bằng chứng cụ thể. Nhưng nhiều ví dụ còn lại là giai thoại không nêu tên hoặc khó kiểm chứng: "một tổ chức" cảnh báo sức khoẻ không có nhà khoa học, "một hãng hàng không tư nhân" sau Liên Xô, lời phàn nàn chung về giáo sư.
+
+Ví dụ phân biệt chủng tộc trước Thế chiến II có sức nặng, nhưng doanh nghiệp tìm lợi nhuận thời đó cũng phân biệt chủng tộc rộng rãi; điều Sowell chứng minh được là doanh nghiệp có chi phí phân biệt cao hơn nên ở một số ngành họ mở cửa sớm hơn, không phải doanh nghiệp không phân biệt. Ngoài ra, việc các trường thuê ngoài nhà sách cho thấy doanh nghiệp làm tốt các dịch vụ dễ đo lường; nó không chứng minh doanh nghiệp làm tốt hơn ở những hoạt động khó đo kết quả như giáo dục hay nghiên cứu cơ bản.
 
 ### Một số ví dụ đã thay đổi sau 2014 theo hướng phức tạp hoá lập luận
 
@@ -743,4 +786,169 @@ Kinh tế học về tổ chức phi lợi nhuận (ví dụ lý thuyết "thấ
 - **Trong doanh nghiệp.** Thương hiệu là tài sản, có khi lớn nhất, nên mọi quyết định cắt chi phí làm giảm chất lượng đều phải tính phần hao mòn của tài sản này. Với doanh nghiệp mới vào thị trường, thiếu thương hiệu là bất lợi thật, giống Samsung trước khi có thành tích; cách bù đắp là bảo hành dài, đổi trả dễ, hoặc bán qua kênh phân phối đã có uy tín. Khi định giá, nhớ rằng khách trả cho cả địa điểm, tốc độ, sự sẵn có của hàng, không chỉ cho sản phẩm; một mức giá cao hơn đối thủ có thể hoàn toàn hợp lý nếu điều kiện đi kèm khác.
 - **Trong đầu tư.** Khi một ngành bị giữ giá dưới chi phí (bằng quy định hay áp lực chính trị), hãy dự đoán nguồn cung sẽ giảm về số lượng hoặc chất lượng, và doanh nghiệp trong ngành sẽ cắt đầu tư; đây là rủi ro dài hạn dù doanh thu ngắn hạn ổn định. Khi định giá doanh nghiệp, phần chênh giữa giá trị thị trường và tài sản hữu hình (như ví dụ Coca-Cola) chủ yếu là giá trị thương hiệu và có thể mất nhanh nếu xảy ra sự cố chất lượng.
 - **Trong nghề nghiệp.** Làm việc ở tổ chức phi lợi nhuận hay cơ quan nhà nước, người có năng lực nên tự tạo phản hồi cho mình (đo kết quả công việc, hỏi ý kiến người dùng dịch vụ), vì tổ chức không tự tạo ra sức ép đó. Khi chọn chỗ làm hay chọn nhà cung cấp dịch vụ, hãy hỏi tổ chức đó sống nhờ nguồn tiền nào: khách hàng trả đủ chi phí, quỹ hiến tặng, hay quyên góp liên tục, vì nguồn tiền quyết định họ phải làm hài lòng ai.
-- **Khi đọc tin chính sách.** Ở Việt Nam, khi đọc về việc giữ giá điện, giá dịch vụ y tế hay giá nhà ở xã hội ở mức "phù hợp với thu nhập", câu hỏi đáng đặt ra là chi phí thật có giảm không, hay phần chênh lệch đang được trả qua ngân sách, qua khoản lỗ của doanh nghiệp nhà nước, qua danh sách chờ hoặc qua chất lượng giảm. Với tin về hàng giả, hàng không rõ nguồn gốc, lập luận của Sowell giải thích vì sao người mua sẵn lòng trả thêm cho thương hiệu và vì sao bảo vệ thương hiệu cũng là bảo vệ người tiêu dùng. Với các tổ chức từ thiện, quỹ xã hội kêu gọi quyên góp, câu hỏi của Sowell là ai giám sát việc dùng tiền và tổ chức có động cơ phóng đại vấn đề để quyên được nhiều hơn không; yêu cầu công khai, kiểm toán là cách tạo lại phản hồi mà tổ chức phi lợi nhuận vốn thiếu.
+- **Khi đọc tin chính sách.** Ở Việt Nam, khi đọc về việc giữ giá điện, giá dịch vụ y tế hay giá nhà ở xã hội ở mức "phù hợp với thu nhập", câu hỏi đáng đặt ra là chi phí thật có giảm không, hay phần chênh lệch đang được trả qua ngân sách, qua khoản lỗ của doanh nghiệp nhà nước, qua danh sách chờ hoặc qua chất lượng giảm.
+
+  Với tin về hàng giả, hàng không rõ nguồn gốc, lập luận của Sowell giải thích vì sao người mua sẵn lòng trả thêm cho thương hiệu và vì sao bảo vệ thương hiệu cũng là bảo vệ người tiêu dùng. Với các tổ chức từ thiện, quỹ xã hội kêu gọi quyên góp, câu hỏi của Sowell là ai giám sát việc dùng tiền và tổ chức có động cơ phóng đại vấn đề để quyên được nhiều hơn không; yêu cầu công khai, kiểm toán là cách tạo lại phản hồi mà tổ chức phi lợi nhuận vốn thiếu.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 24 trên một trang: sáu nhánh lớn đi theo các mục 1–6 của phần Nội dung chi tiết (thị trường là con người, vai trò của giá, giá khác nhau và giá "hợp lý", thương hiệu, tổ chức phi lợi nhuận được che chắn khỏi phản hồi, mục tiêu bị bẻ cong và phép thử hiệu quả), mỗi nhánh ghi luận điểm, cơ chế, ví dụ và con số Sowell dùng; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 24: thị trường là con người giao dịch với nhau, không phải cỗ máy vô hồn, và nhiều huyền thoại sụp đổ khi định nghĩa rõ từ ngữ và xét bằng chứng`"]
+  n1["`Mục 1 — Huyền thoại lớn nhất nằm ngay trong chữ thị trường`"]
+  n0 --- n1
+  n2["`Thị trường là con người giao dịch theo điều kiện do cạnh tranh và thoả thuận qua lại tạo ra`"]
+  n1 --- n2
+  n3["`Coi thị trường là cơ chế vô hồn cho phép bên thứ ba tước quyền giao dịch tự nguyện`"]
+  n1 --- n3
+  n4["`#quot;Giải cứu#quot; khỏi mệnh lệnh của thị trường thực chất là đặt con người dưới mệnh lệnh của bên thứ ba`"]
+  n1 --- n4
+  n5["`Ba mẫu huyền thoại được xét: giá khác nhau cho cùng một thứ, thương hiệu, tổ chức phi lợi nhuận`"]
+  n1 --- n5
+  n6["`Huyền thoại ngớ ngẩn từng thành luật có hậu quả thảm khốc, nên xem xét chúng là việc nghiêm túc`"]
+  n1 --- n6
+  n7["`Mục 2 — Giá không phải khoản phí cầu đường thu cho lợi nhuận riêng`"]
+  n0 --- n7
+  n8["`Phong trào xã hội chủ nghĩa, cộng sản muốn chấm dứt lợi nhuận #quot;vô cớ#quot; và #quot;bóc lột#quot;`"]
+  n7 --- n8
+  n9["`Giả định ngầm: thu nhập của doanh nhân, nhà đầu tư lớn hơn giá trị đóng góp của họ`"]
+  n7 --- n9
+  n10["`Thế kỷ 20: bỏ điều phối bằng giá và lợi nhuận làm mức sống thấp hơn các nước vẫn dùng giá`"]
+  n7 --- n10
+  n11["`Thất bại bị đổ cho khó khăn ban đầu hay lỗi cá nhân, cuối thế kỷ 20 hầu hết để giá vận hành tự do hơn`"]
+  n7 --- n11
+  n12["`Bài học sơ đẳng về giá được trả bằng cái giá rất đắt cho hàng trăm triệu người`"]
+  n7 --- n12
+  n13["`Như tiền lương: khoản trả cho người quản lý và người bỏ vốn chỉ quá lớn nếu có ai cung cấp rẻ hơn`"]
+  n7 --- n13
+  n14["`Mục 3–4 — Giá khác nhau cho thứ #quot;giống nhau#quot; và giá #quot;hợp lý#quot;`"]
+  n0 --- n14
+  n15["`Thứ giống nhau về vật chất nhưng khác điều kiện đi kèm thực ra là những thứ khác nhau`"]
+  n14 --- n15
+  n16["`Thiệp Giáng sinh ngày 26/12 rẻ hơn nhiều so với ngày 24/12`"]
+  n14 --- n16
+  n17["`Cùng rổ thực phẩm ở Bắc California: 80 USD ở Fremont, 125 USD ở San Francisco, ba Safeway 98–103 USD`"]
+  n14 --- n17
+  n18["`Chi phí đất: San Francisco có giá bất động sản thuộc loại cao nhất các thành phố lớn ở Mỹ`"]
+  n17 --- n18
+  n19["`Hàng tồn kho: cửa hàng rẻ nhất chỉ có sẵn 49% mặt hàng, Safeway hơn ba phần tư`"]
+  n17 --- n19
+  n20["`Thời gian của khách: 90% khen tốc độ thanh toán ở siêu thị cao cấp, chỉ 12% ở kho giá rẻ`"]
+  n17 --- n20
+  n21["`Đòi giá hợp lý là đòi thực tế theo ngân sách: kỳ vọng có giá hợp lý là hoàn toàn không hợp lý`"]
+  n14 --- n21
+  n22["`Trợ cấp không giảm chi phí sản xuất, chỉ chuyển một phần chi phí sang tiền thuế`"]
+  n14 --- n22
+  n23["`Giá không phải là chi phí mà là thứ trả cho chi phí, giá dưới chi phí làm cung giảm số lượng hoặc chất lượng`"]
+  n14 --- n23
+  n24["`Y tế: ép mức trả cho bác sĩ, bệnh viện dẫn tới danh sách chờ dài hơn, thiết bị kém hiện đại hơn`"]
+  n14 --- n24
+  n25["`Mục 5 — Thương hiệu tiết kiệm tri thức và buộc nhà sản xuất chịu trách nhiệm`"]
+  n0 --- n25
+  n26["`Huyền thoại: thương hiệu chỉ để bán đắt, Nehru hỏi sao cần mười chín nhãn hiệu kem đánh răng`"]
+  n25 --- n26
+  n27["`Ở thị trấn lạ, người lái xe tin Chevron và McDonald's vì kiện được tập đoàn hàng tỷ USD`"]
+  n25 --- n27
+  n28["`Samsung có thành tích thì người ở Berlin, Chicago mua như hàng làm ngay cuối phố`"]
+  n25 --- n28
+  n29["`Thương hiệu không bảo đảm nhưng thu hẹp phạm vi bất định: Ritz-Carlton, lon Coca-Cola ở cửa hàng tồi tàn`"]
+  n25 --- n29
+  n30["`Giá trị thương hiệu tuỳ hiểu biết: rành nhiếp ảnh thì mua ống kính ít tên tuổi, ít hiểu âm thanh thì mua hãng nổi tiếng`"]
+  n25 --- n30
+  n31["`Dù các hãng như nhau, súp Campbell's và súp hãng khác đều tốt hơn so với khi bán dưới nhãn vô danh`"]
+  n25 --- n31
+  n32["`Lịch sử: Wedgwood in tên lên đồ sứ, Heinz bán thực phẩm không pha tạp giữa nạn pha tạp thế kỷ 19`"]
+  n25 --- n32
+  n33["`McDonald's chi hàng triệu USD nghiên cứu khoai tây, thăm đột xuất nhà cung cấp, đối thủ buộc làm theo`"]
+  n25 --- n33
+  n34["`Không có thương hiệu: Aeroflot phục vụ tồi, người Liên Xô đọc mã vạch để tự tạo thương hiệu de facto`"]
+  n25 --- n34
+  n35["`Thương hiệu Coca-Cola ước 70 tỷ USD trong hơn 100 tỷ USD vượt tài sản hữu hình, động cơ lớn giữ chất lượng`"]
+  n25 --- n35
+  n36["`Mục 6 (phần đầu) — Tổ chức phi lợi nhuận được che chắn khỏi phản hồi`"]
+  n0 --- n36
+  n37["`Doanh nghiệp chịu lãi và lỗ phải đáp ứng phản hồi của khách hàng và nhà đầu tư`"]
+  n36 --- n37
+  n38["`Người điều hành mọi tổ chức đều có xu hướng dùng nguồn lực cho mình nếu không bị lực lượng bên ngoài giới hạn`"]
+  n36 --- n38
+  n39["`Người quyên góp không theo dõi được tiền, nhiều người góp quỹ hiến tặng đã qua đời`"]
+  n36 --- n39
+  n40["`Phí người dùng là nguồn chính trong hơn 2.000 tỷ USD/năm nhưng không bù đủ chi phí`"]
+  n36 --- n40
+  n41["`Người dùng được trợ cấp không gây sức ép như khách hàng trả đủ chi phí`"]
+  n36 --- n41
+  n42["`Phi lợi nhuận có thể tiếp tục dùng nguồn lực có giá trị cao hơn ở chỗ khác, doanh nghiệp thì không`"]
+  n36 --- n42
+  n43["`Người điều hành như chủ nhà lúc thiếu nhà, có thể thay mục tiêu của tổ chức bằng mục tiêu riêng`"]
+  n36 --- n43
+  n44["`Mục 6 (phần sau) — Mục tiêu bị bẻ cong và phép thử hiệu quả`"]
+  n0 --- n44
+  n45["`Henry Ford II rời hội đồng quản trị Quỹ Ford để phản đối cách quỹ dùng tiền của ông nội`"]
+  n44 --- n45
+  n46["`Adam Smith: giảng viên đại học sống bằng quỹ hiến tặng dễ dãi để nhau lơ là bổn phận`"]
+  n44 --- n46
+  n47["`Biên chế suốt đời phổ biến ở đại học phi lợi nhuận, gần như không có ở Đại học Phoenix`"]
+  n44 --- n47
+  n48["`Đại học có thể truyền bá quan điểm đang thịnh, trái lời Mill: phải nghe lập luận từ người thật sự tin`"]
+  n44 --- n48
+  n49["`Bệnh viện, quỹ, đại học phi lợi nhuận phân biệt chủng tộc nặng nhất, giáo sư da đen đầu tiên được biên chế năm 1948`"]
+  n44 --- n49
+  n50["`Hàng trăm nhà hoá học da đen làm cho công ty hoá chất tìm lợi nhuận trước khi được dạy hoá ở đại học`"]
+  n44 --- n50
+  n51["`Nếu lợi nhuận là thừa, phi lợi nhuận phải rẻ hơn, nhưng các trường lại thuê ngoài Follett, Aramark, Barnes #amp; Noble`"]
+  n44 --- n51
+  n52["`South Carolina: trường tự điều hành hiếm khi lãi 100.000 USD, Barnes #amp; Noble trả trường 500.000 USD/năm`"]
+  n51 --- n52
+  n53["`Georgia: trường điều hành thì 70% sách nằm trong kho, Follett tiếp quản thì 70% sách lên kệ`"]
+  n51 --- n53
+  n54["`Kibbutz đầu tiên (1910) bỏ chế độ bình quân năm 2007, khi 61% kibbutz ở Israel đã làm vậy`"]
+  n44 --- n54
+  n55["`Tổ chức sống nhờ quyên góp có động cơ gây báo động, một tổ chức cảnh báo sức khoẻ không có bác sĩ hay nhà khoa học nào`"]
+  n44 --- n55
+  n56["`Thông điệp xuyên suốt`"]
+  n0 --- n56
+  n57["`Muốn hàng rẻ hơn phải giảm chi phí thật, ép giá chỉ làm giảm số lượng hoặc chất lượng`"]
+  n56 --- n57
+  n58["`Nơi không có thương hiệu, chất lượng thường thấp hơn`"]
+  n56 --- n58
+  n59["`Đừng mặc định phi lợi nhuận hiệu quả hay đáng tin hơn, hãy hỏi họ sống nhờ nguồn tiền nào và chịu phản hồi nào`"]
+  n56 --- n59
+  n60["`Hạn chế giao dịch tự nguyện nhân danh bảo vệ người dân là trao quyền quyết định cho bên thứ ba`"]
+  n56 --- n60
+  class n0 root
+  class n1,n7,n14,n25,n36,n44,n56 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n57,n58,n59,n60 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần VII "Special Economic Issues", Chương 24.
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Sáu phần đầu của sách đã lần lượt giải thích giá cả và thị trường (Phần I), doanh nghiệp và lợi nhuận (Phần II), lao động và tiền lương (Phần III), thời gian và rủi ro (Phần IV), nền kinh tế quốc gia (Phần V) và nền kinh tế quốc tế (Phần VI), kết thúc bằng Chương 23 về chênh lệch giàu nghèo giữa các nước. Chương 24 mở đầu Phần VII "Các vấn đề kinh tế đặc biệt" bằng cách dùng lại các công cụ đó để bác bỏ một số niềm tin phổ biến về thị trường.
+
+Nó gọi lại trực tiếp Chương 3 (hậu quả của kiểm soát giá), Chương 6 (doanh nghiệp tìm lợi nhuận được hiểu đúng hơn khi coi là doanh nghiệp chịu cả lãi lẫn lỗ) và Chương 9 (vì sao cạnh tranh và sức ép tài chính buộc người sản xuất làm hài lòng khách hàng).
+
+Chương 25 tiếp theo bàn về các giá trị "phi kinh tế", tức câu hỏi kinh tế học có bỏ qua những điều quan trọng hơn tiền bạc hay không. Chương 24 chuẩn bị cho câu hỏi đó bằng cách chỉ ra rằng nhiều lời phê phán thị trường xuất phát từ việc hiểu sai thị trường là gì.
+
+## Lưu ý
+
+- Sách viết khoảng 2013–2014; số liệu và ví dụ thuộc giai đoạn đó hoặc trước đó (kibbutz đầu tiên bỏ chế độ bình quân năm 2007, ước tính giá trị thương hiệu Coca-Cola, doanh thu hơn 2.000 tỷ USD mỗi năm của khu vực phi lợi nhuận Mỹ).
+- Một số chi tiết đã thay đổi: mảng nhà sách đại học của Barnes & Noble đã tách thành một công ty riêng (Barnes & Noble Education) năm 2015; số sinh viên của Đại học Phoenix, ví dụ trường tìm lợi nhuận mà Sowell nêu, đã giảm mạnh so với đỉnh khoảng năm 2010.
+- Tên công ty quản lý nhà sách đại học được in là "Follet", đúng ra là Follett.
+- Trong text có lỗi in "vis-à̀-vis" (thừa dấu), không ảnh hưởng nội dung.
+- Chương mở đầu bằng câu đề từ của Charles Sanders Peirce (nhà triết học, logic học Mỹ thế kỷ 19).
+- Chương có một chú thích chân trang có nội dung (trích John Stuart Mill, *On Liberty*, 1859), đã đưa vào tiểu mục "Non-Profit Organizations" ở Sơ đồ và mục 6 của Nội dung chi tiết.
+- Các chú thích nguồn trích dẫn đã bỏ qua.
+- Các câu trích là bản dịch của người tổng hợp.

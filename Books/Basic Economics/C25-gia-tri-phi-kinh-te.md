@@ -1,11 +1,14 @@
 # Chương 25 — Các giá trị "phi kinh tế" ("Non-Economic" Values)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần VII "Special Economic Issues", Chương 25.
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 1 (What Is Economics?) định nghĩa kinh tế học là môn nghiên cứu cách sử dụng các nguồn lực khan hiếm có nhiều cách sử dụng thay thế. Chương 24 (Myths About Markets) mở đầu Phần VII bằng việc bác bỏ những ngộ nhận phổ biến về thị trường. Chương 25 xử lý lời phản bác cuối cùng mà người ta hay dùng khi một đề xuất bị kinh tế học chỉ ra là không ổn: "kinh tế học thì đúng đấy, nhưng còn có những giá trị phi kinh tế". Sowell quay lại đúng định nghĩa của Chương 1 để trả lời: kinh tế học không phải là một giá trị, mà là cách cân nhắc giá trị này với giá trị khác. Chương này dùng lại hai ý của các chương trước: Chương 4 (cửa hàng ở khu thu nhập thấp bán đắt vì chi phí kinh doanh cao, không vì lợi nhuận cao) và Chương 23 (địa lý, văn hoá, lịch sử không trao cơ hội như nhau cho mọi dân tộc), cùng ý về lương tối thiểu của Chương 11. Sau chương này, Chương 26 (The History of Economics) chuyển sang lịch sử tư tưởng kinh tế, và Chương 27 (Parting Thoughts) khép lại cuốn sách.
-**Ý chính:** Sowell muốn người đọc hiểu rằng **không có xung đột giữa "giá trị kinh tế" và "giá trị phi kinh tế", vì mọi giá trị đều là phi kinh tế**; kinh tế học chỉ là cách cân nhắc các giá trị với nhau khi nguồn lực khan hiếm. Người viện dẫn "giá trị phi kinh tế" thường thực chất không muốn giá trị của mình bị đem ra so với bất cứ thứ gì khác, hoặc muốn người khác trả tiền cho giá trị của mình. Ví dụ trung tâm là câu khẩu hiệu "chỉ cần cứu được một mạng người" là đáng mọi chi phí: nếu một quy định tốn 5 lần số tiền mà tăng trưởng thu nhập quốc gia cần để cứu một mạng người, thì quy định đó cứu một mạng người bằng cái giá là 5 mạng người khác. Sowell kết chương bằng phân biệt giữa đặc quyền (privileges, có được nhờ thiệt hại cho người khác) và thành tựu (achievements, đem lại lợi ích cho người khác), và nhấn mạnh rằng quyết định đạo đức phải dựa trên hiểu biết đúng về sự thật và hệ quả.
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2013–2014. Các số liệu trong chương thuộc nhiều thời điểm: danh sách các nhà từ thiện tỷ phú của tạp chí *Forbes* năm 2007, báo cáo thiên tai năm 2013 của công ty tái bảo hiểm Swiss Re, nghiên cứu về giá trị mạng sống của Trường Luật Harvard (Sowell không ghi năm). Theo người tổng hợp, một số chi tiết đã thay đổi từ đó: Bill Gates đã cho đi thêm rất nhiều tiền sau năm 2007, nên con số 42 tỷ USD chỉ đúng cho thời điểm đó; ở Argentina, hợp đồng tư nhân hoá cấp nước lớn nhất (vùng Buenos Aires) đã bị nhà nước chấm dứt và quốc hữu hoá trở lại vào khoảng năm 2006, tức trước khi ấn bản này ra đời, dù Sowell viết như thể hệ thống tư nhân vẫn đang hoạt động; ngành nước tư nhân ở Anh trong thập niên 2020 bị chỉ trích nặng nề vì xả nước thải chưa xử lý ra sông, biển và vì nợ lớn, làm yếu đi so sánh Anh và Scotland mà Sowell đưa ra. Chương này **không có chú thích chân trang có nội dung** (loại đánh số La Mã); các dấu chú thích trong text đều là chú thích nguồn trích dẫn, đã bỏ qua. Lỗi nhỏ của sách: "Chaper 4" (đúng là "Chapter 4"). Theo người tổng hợp, hai nhận định lịch sử của Sowell bị đơn giản hoá: thư viện công đầu tiên ở New York không hoàn toàn do Andrew Carnegie lập (Carnegie tài trợ xây hàng chục thư viện chi nhánh vào đầu thế kỷ 20, sau khi Thư viện Công cộng New York đã được thành lập từ các quỹ tư nhân khác); Viện Tata ở Mumbai được lập với tài trợ của quỹ gia đình Tata, J.R.D. Tata là người đứng đầu tập đoàn lúc đó. Cả hai chỗ đều không làm thay đổi ý của Sowell (các viện này do tư nhân lập, không do nhà nước lập). Các câu trích là bản dịch của người tổng hợp.
+Sowell muốn người đọc hiểu rằng **không có xung đột giữa "giá trị kinh tế" và "giá trị phi kinh tế", vì mọi giá trị đều là phi kinh tế**; kinh tế học chỉ là cách cân nhắc các giá trị với nhau khi nguồn lực khan hiếm.
+
+Người viện dẫn "giá trị phi kinh tế" thường thực chất không muốn giá trị của mình bị đem ra so với bất cứ thứ gì khác, hoặc muốn người khác trả tiền cho giá trị của mình.
+
+Ví dụ trung tâm là câu khẩu hiệu "chỉ cần cứu được một mạng người" là đáng mọi chi phí: nếu một quy định tốn 5 lần số tiền mà tăng trưởng thu nhập quốc gia cần để cứu một mạng người, thì quy định đó cứu một mạng người bằng cái giá là 5 mạng người khác.
+
+Sowell kết chương bằng phân biệt giữa đặc quyền (privileges, có được nhờ thiệt hại cho người khác) và thành tựu (achievements, đem lại lợi ích cho người khác), và nhấn mạnh rằng quyết định đạo đức phải dựa trên hiểu biết đúng về sự thật và hệ quả.
 
 ## Sơ đồ
 
@@ -570,7 +573,9 @@ Hệ thống cấp nước tư nhân đã tồn tại ở Argentina. Tạp chí 
 
 Ở Anh, nước do tư nhân cung cấp ở England có hoá đơn thấp hơn, nước uống chất lượng cao hơn, ít rò rỉ hơn, và hệ thống thoát nước thải tuân thủ quy định môi trường với tỷ lệ thời gian cao hơn so với Scotland, nơi nhà nước điều hành hệ thống nước. Sowell thừa nhận bằng chứng này mang tính gợi ý chứ chưa phải kết luận, nhưng nhận xét rằng người đòi nhà nước kiểm soát nguồn nước hiếm khi thấy cần bất cứ bằng chứng nào. Với nhiều người, hệ quả thực tế ít quan trọng hơn niềm tin và thái độ ăn sâu; nhiều người tin rằng người nắm quyền chính trị có tư cách ra quyết định đạo đức tốt hơn chính các bên tư nhân liên quan, dù trong việc cấp bách hay không cấp bách.
 
-**Vị bộ trưởng Ấn Độ và kem dưỡng da.** Thái độ đó có ở mọi nơi. Một doanh nhân Ấn Độ kể lại cuộc tranh luận với một bộ trưởng. Doanh nhân lập luận rằng giảm thuế tiêu thụ (excise duty) sẽ làm giá dầu gội, kem dưỡng da và đồ vệ sinh cá nhân giảm, cầu tăng, nên thu thuế tăng dù thuế suất thấp hơn. Bộ trưởng cho rằng phụ nữ Ấn Độ không cần son môi hay kem dưỡng, rằng kem dưỡng không làm khuôn mặt xấu đẹp lên, rằng đó là xa xỉ phẩm của người giàu. Doanh nhân phản đối rằng cả cô gái làng quê cũng xoa bột nghệ (haldi) cho đẹp. Bộ trưởng sốt ruột đáp rằng tốt nhất cứ để khuôn mặt cho tự nhiên. Doanh nhân hỏi sao ông có thể quyết định cô ấy muốn gì, khi đó là tiền cô vất vả làm ra. Bộ trưởng trả lời: phải, và ông không muốn cô phung phí; hãy để cô mua thức ăn; ông không muốn các công ty đa quốc gia làm giàu bằng cách bán kem dưỡng da cho người Ấn Độ nghèo.
+**Vị bộ trưởng Ấn Độ và kem dưỡng da.** Thái độ đó có ở mọi nơi. Một doanh nhân Ấn Độ kể lại cuộc tranh luận với một bộ trưởng. Doanh nhân lập luận rằng giảm thuế tiêu thụ (excise duty) sẽ làm giá dầu gội, kem dưỡng da và đồ vệ sinh cá nhân giảm, cầu tăng, nên thu thuế tăng dù thuế suất thấp hơn.
+
+Bộ trưởng cho rằng phụ nữ Ấn Độ không cần son môi hay kem dưỡng, rằng kem dưỡng không làm khuôn mặt xấu đẹp lên, rằng đó là xa xỉ phẩm của người giàu. Doanh nhân phản đối rằng cả cô gái làng quê cũng xoa bột nghệ (haldi) cho đẹp. Bộ trưởng sốt ruột đáp rằng tốt nhất cứ để khuôn mặt cho tự nhiên. Doanh nhân hỏi sao ông có thể quyết định cô ấy muốn gì, khi đó là tiền cô vất vả làm ra. Bộ trưởng trả lời: phải, và ông không muốn cô phung phí; hãy để cô mua thức ăn; ông không muốn các công ty đa quốc gia làm giàu bằng cách bán kem dưỡng da cho người Ấn Độ nghèo.
 
 **Ai định nghĩa "xa xỉ phẩm của người giàu".** Theo Sowell, ý nghĩ rằng bên thứ ba có thể áp đặt quyết định đạo đức tốt hơn thường đi kèm ý nghĩ rằng họ có thể định nghĩa thế nào là "xa xỉ phẩm của người giàu". Nhưng chính sự tiến bộ của kinh tế thị trường tự do đã biến nhiều xa xỉ phẩm của người giàu thành tiện nghi phổ thông, kể cả cho người nghèo:
 
@@ -590,7 +595,9 @@ Người lên án lòng tham có thể viện dẫn "giá trị phi kinh tế". 
 
 Sowell chỉ ra rằng gọi một bên giao dịch bằng lời lẽ phi nhân tính ("vô danh") chỉ là thủ thuật tu từ. Các bên đều là người, đều có lợi ích riêng, và các lợi ích đó phải được dung hoà theo cách này hay cách khác nếu muốn người cung cấp tiền cho báo chí tiếp tục làm vậy. Người làm ở Phố Wall có thể điều hành hàng triệu USD mỗi người, nhưng phần lớn không phải tiền của họ: đó là tiền tiết kiệm và tiền đóng quỹ hưu trí của hàng triệu người khác, nhiều người thu nhập rất khiêm tốn.
 
-Sowell đặt một loạt câu hỏi. Nếu những bấp bênh của nghề báo khiến đầu tư vào báo khó sinh lời bằng nơi khác, vì sao những người lao động cần quỹ hưu để dưỡng già lại phải trợ cấp các chuỗi báo bằng cách nhận lợi suất thấp hơn? Nhiều biên tập viên và nhà báo chuyên mục thu nhập cao hơn nhiều so với những người có tiền đóng quỹ hưu đang nuôi tờ báo; thật kỳ lạ nếu đòi người thu nhập thấp (giáo viên, thợ máy) trợ cấp người thu nhập cao (biên tập viên, phóng viên). Vì sao các nhà phân tích tài chính, những người trung gian quản lý tiền của vô số người, lại phải phản bội những người đã giao tiền tiết kiệm cho mình bằng cách chấp nhận lợi suất từ báo chí thấp hơn các ngành khác? Vì sao gánh nặng phải đổ lên thợ máy, y tá, giáo viên khắp nước, và vì sao các ngành khác sẵn sàng trả nhiều hơn cho nguồn vốn này lại bị tước nguồn vốn vì một ngành?
+Sowell đặt một loạt câu hỏi. Nếu những bấp bênh của nghề báo khiến đầu tư vào báo khó sinh lời bằng nơi khác, vì sao những người lao động cần quỹ hưu để dưỡng già lại phải trợ cấp các chuỗi báo bằng cách nhận lợi suất thấp hơn? Nhiều biên tập viên và nhà báo chuyên mục thu nhập cao hơn nhiều so với những người có tiền đóng quỹ hưu đang nuôi tờ báo; thật kỳ lạ nếu đòi người thu nhập thấp (giáo viên, thợ máy) trợ cấp người thu nhập cao (biên tập viên, phóng viên).
+
+Vì sao các nhà phân tích tài chính, những người trung gian quản lý tiền của vô số người, lại phải phản bội những người đã giao tiền tiết kiệm cho mình bằng cách chấp nhận lợi suất từ báo chí thấp hơn các ngành khác? Vì sao gánh nặng phải đổ lên thợ máy, y tá, giáo viên khắp nước, và vì sao các ngành khác sẵn sàng trả nhiều hơn cho nguồn vốn này lại bị tước nguồn vốn vì một ngành?
 
 Nếu báo chí tốt có những chi phí riêng làm giảm lợi suất, thì có nhiều người hưởng lợi từ báo chí có thể gánh chi phí đó: độc giả trả giá báo cao hơn; nhà báo chuyên mục, biên tập viên, phóng viên nhận lương thấp hơn; hoặc nhà quảng cáo trả phí cao hơn.
 
@@ -600,13 +607,17 @@ Sowell nói rõ điểm chính không phải là cách giải quyết khó khăn
 
 Sowell nhận xét rằng ở đây, xung đột không tránh được giữa điều một người muốn và điều người khác muốn lại được diễn đạt bằng lời lẽ chỉ coi một phía là con người. Phần lớn người thích làm ca ngày hơn ca đêm; nếu Caroline được chuyển sang ca ngày, người khác sẽ phải chuyển sang ca đêm. "Rộng lượng" ở đây còn có nghĩa gì ngoài việc buộc người khác gánh chi phí của người phụ nữ này? Có gì rộng lượng khi một người không trả bất cứ chi phí nào (trong trường hợp này là anh phóng viên) đòi người khác phải gánh?
 
-**Lòng tham quyền lực.** Ở cả khu vực tư lẫn khu vực nhà nước, luôn có những giá trị mà một số người thấy đủ đáng để người khác phải trả tiền, nhưng không đủ đáng để chính họ trả. Theo Sowell, chỗ mà việc cân nhắc các giá trị bị lời lẽ che khuất nhiều nhất là khi bàn về chính sách nhà nước. Đánh thuế thu nhập người khác làm ra để tài trợ những "cuộc phiêu lưu đạo đức" của mình qua các chương trình xã hội thường được mô tả là việc nhân đạo; còn để người khác có cùng tự do và phẩm giá như mình, tự quyết cách tiêu tiền họ làm ra, lại bị coi là chiều theo "lòng tham". Sowell kết: lòng tham quyền lực không kém nguy hiểm so với lòng tham tiền bạc, và trong lịch sử đã làm đổ nhiều máu hơn nhiều.
+**Lòng tham quyền lực.** Ở cả khu vực tư lẫn khu vực nhà nước, luôn có những giá trị mà một số người thấy đủ đáng để người khác phải trả tiền, nhưng không đủ đáng để chính họ trả.
+
+Theo Sowell, chỗ mà việc cân nhắc các giá trị bị lời lẽ che khuất nhiều nhất là khi bàn về chính sách nhà nước. Đánh thuế thu nhập người khác làm ra để tài trợ những "cuộc phiêu lưu đạo đức" của mình qua các chương trình xã hội thường được mô tả là việc nhân đạo; còn để người khác có cùng tự do và phẩm giá như mình, tự quyết cách tiêu tiền họ làm ra, lại bị coi là chiều theo "lòng tham". Sowell kết: lòng tham quyền lực không kém nguy hiểm so với lòng tham tiền bạc, và trong lịch sử đã làm đổ nhiều máu hơn nhiều.
 
 ### 6. Thị trường và đạo đức (Markets and Morality): phản ánh và gây ra
 
 Dù đánh giá tác động của kinh tế thị trường, của nhà nước hay của thể chế nào khác, khó khăn là phân biệt kết quả hiện ra qua thể chế đó với kết quả do thể chế đó gây ra. Một thể chế hay quá trình phản ánh (convey) một kết quả không có nghĩa là nó gây ra (cause) kết quả đó.
 
-Chương 4 đã cho thấy cửa hàng ở khu thu nhập thấp thường bán đắt hơn nơi khác, nhưng nguyên nhân là chi phí kinh doanh ở đó cao hơn, không phải cửa hàng tự tiện tăng giá để lãi cao hơn; thực tế nhiều doanh nghiệp và người hành nghề tránh những khu này vì triển vọng thu nhập thường kém hơn. Nguyên tắc này áp dụng cho nhiều thể chế khác. Một số bệnh viện có tỷ lệ tử vong cao hơn chính vì có bác sĩ giỏi nhất và công nghệ y tế tiên tiến nhất, nên nhận những bệnh nhân nặng nhất mà bệnh viện khác không đủ khả năng chữa. Một bệnh viện chủ yếu chữa nhiễm trùng thông thường hay gãy tay có thể có tỷ lệ tử vong thấp hơn bệnh viện mổ não hay ghép tim. Tỷ lệ tử vong cao ở bệnh viện tiên tiến phản ánh một thực tế mà bệnh viện không gây ra.
+Chương 4 đã cho thấy cửa hàng ở khu thu nhập thấp thường bán đắt hơn nơi khác, nhưng nguyên nhân là chi phí kinh doanh ở đó cao hơn, không phải cửa hàng tự tiện tăng giá để lãi cao hơn; thực tế nhiều doanh nghiệp và người hành nghề tránh những khu này vì triển vọng thu nhập thường kém hơn.
+
+Nguyên tắc này áp dụng cho nhiều thể chế khác. Một số bệnh viện có tỷ lệ tử vong cao hơn chính vì có bác sĩ giỏi nhất và công nghệ y tế tiên tiến nhất, nên nhận những bệnh nhân nặng nhất mà bệnh viện khác không đủ khả năng chữa. Một bệnh viện chủ yếu chữa nhiễm trùng thông thường hay gãy tay có thể có tỷ lệ tử vong thấp hơn bệnh viện mổ não hay ghép tim. Tỷ lệ tử vong cao ở bệnh viện tiên tiến phản ánh một thực tế mà bệnh viện không gây ra.
 
 Tương tự, không phải mọi thứ xảy ra trong kinh tế thị trường, kinh tế xã hội chủ nghĩa hay cơ quan nhà nước đều do các thể chế đó gây ra; mọi thứ tuỳ vào sự thật cụ thể của từng tình huống. Điều này ảnh hưởng cả câu hỏi về nguyên nhân lẫn câu hỏi đạo đức. Lấy ví dụ chênh lệch thu nhập giữa các nhóm:
 
@@ -617,17 +628,23 @@ Tương tự, không phải mọi thứ xảy ra trong kinh tế thị trường
 | Khác biệt về số năm đi học và các yếu tố nội tại khác của nhóm | Sowell nêu đây là nguyên nhân nằm bên trong nhóm, nhưng không bàn riêng phản ứng đạo đức với nó |
 | Hành vi cá nhân tự chọn (bỏ học, nghiện ma tuý) | Khó có đồng thuận, vì nhiều người thấy mình không có nghĩa vụ trợ cấp cho hành vi đó |
 
-Tóm lại, quyết định đạo đức phụ thuộc vào sự thật. Nhưng những người có giá trị đạo đức khác nhau có thể đưa ra quyết định khác nhau trên cùng một sự thật. Vì vậy câu hỏi chính sách thường quy về việc một số người có thấy nên dùng quyền lực nhà nước để áp giá trị đạo đức của họ lên những người có giá trị khác hay không. Kinh tế thị trường cho phép mỗi người tự quyết định theo giá trị đạo đức hay cân nhắc riêng của mình, đồng thời buộc họ trả chi phí mà quyết định của họ tạo ra. Theo Sowell, câu hỏi vì thế không phải là giá trị đạo đức có nên dẫn dắt kinh tế thị trường không, mà là giá trị đạo đức của ai, nếu có, nên được áp lên người khác hoặc được người khác trợ cấp.
+Tóm lại, quyết định đạo đức phụ thuộc vào sự thật. Nhưng những người có giá trị đạo đức khác nhau có thể đưa ra quyết định khác nhau trên cùng một sự thật.
+
+Vì vậy câu hỏi chính sách thường quy về việc một số người có thấy nên dùng quyền lực nhà nước để áp giá trị đạo đức của họ lên những người có giá trị khác hay không. Kinh tế thị trường cho phép mỗi người tự quyết định theo giá trị đạo đức hay cân nhắc riêng của mình, đồng thời buộc họ trả chi phí mà quyết định của họ tạo ra. Theo Sowell, câu hỏi vì thế không phải là giá trị đạo đức có nên dẫn dắt kinh tế thị trường không, mà là giá trị đạo đức của ai, nếu có, nên được áp lên người khác hoặc được người khác trợ cấp.
 
 ### 7. Thị trường và đạo đức (Markets and Morality, tiếp; cuối chương): đặc quyền và thành tựu, đạo đức cần hiểu biết về sự thật
 
 **Thành tựu khác đặc quyền.** Nhiều người thấy chênh lệch kinh tế lớn giữa cá nhân, nhóm và quốc gia là xúc phạm đạo đức, và có xu hướng coi nguyên nhân là "lợi thế" hay "đặc quyền" mà một số người có hơn người khác. Sowell cho rằng điều cốt yếu là phân biệt thành tựu với đặc quyền, và đây không chỉ là chuyện chữ nghĩa: đặc quyền có được bằng cái giá của người khác, còn thành tựu làm tăng lợi ích cho người khác.
 
-Ít ai có được tổ hợp yếu tố đã giúp Thomas Edison đưa điện trở thành một phần quan trọng trong đời sống hàng triệu người, nhưng vô số người trên thế giới được hưởng lợi từ thành tựu đó, cả thời Edison lẫn các thế hệ sau. Dù thành tựu của Edison đến từ đâu, tất cả chúng ta được hưởng lợi, như được hưởng lợi từ anh em nhà Wright và những người khác đã mở ra chiều kích mới cho cuộc sống con người. Cũng vậy với các nhà khoa học tìm ra cách chữa hay phòng những bệnh gây tàn tật như bại liệt hay chết người như sốt rét. Ngay cả những nhà kinh doanh chỉ đơn giản tìm ra cách sản xuất hàng hoá, dịch vụ tốt hơn hoặc đưa tới người tiêu dùng với chi phí thấp hơn cũng góp phần nâng mức sống khắp thế giới.
+Ít ai có được tổ hợp yếu tố đã giúp Thomas Edison đưa điện trở thành một phần quan trọng trong đời sống hàng triệu người, nhưng vô số người trên thế giới được hưởng lợi từ thành tựu đó, cả thời Edison lẫn các thế hệ sau. Dù thành tựu của Edison đến từ đâu, tất cả chúng ta được hưởng lợi, như được hưởng lợi từ anh em nhà Wright và những người khác đã mở ra chiều kích mới cho cuộc sống con người.
+
+Cũng vậy với các nhà khoa học tìm ra cách chữa hay phòng những bệnh gây tàn tật như bại liệt hay chết người như sốt rét. Ngay cả những nhà kinh doanh chỉ đơn giản tìm ra cách sản xuất hàng hoá, dịch vụ tốt hơn hoặc đưa tới người tiêu dùng với chi phí thấp hơn cũng góp phần nâng mức sống khắp thế giới.
 
 Tất cả những điều đó tạo ra chênh lệch kinh tế giữa các cá nhân, nhóm và quốc gia có thành tựu khác nhau, và điều này có thể làm một số người thấy bất bình về đạo đức. Nhưng quyết định đạo đức cần hiểu đúng sự thật và nguyên nhân, cùng phân biệt rõ đặc quyền với thành tựu. Quyết định đạo đức và chính sách dựa trên chúng không thể được đưa ra chỉ dựa vào số liệu thống kê, tầm nhìn và lời lẽ, nếu mục đích là làm cuộc sống con người tốt hơn, về vật chất hay mặt khác, chứ không phải để thoả mãn cảm xúc mà bỏ qua hệ quả thực tế cho người khác.
 
-**Cuộc đời không công bằng, nhưng không phải bất công nào cũng có khía cạnh đạo đức.** Nhận định rằng cuộc đời "không công bằng" với cá nhân, nhóm hay quốc gia, theo nghĩa không trao cho mọi người những yếu tố như nhau để thịnh vượng, có thể được chia sẻ bởi những người có giá trị đạo đức và hệ tư tưởng rất khác nhau. Như Chương 23 đã nói, địa lý, văn hoá, lịch sử, cùng nhân khẩu học và chính trị, không trao cơ hội như nhau cho mọi người. Nhà sử học kinh tế David S. Landes viết rằng "thiên nhiên, cũng như cuộc đời, là không công bằng", nhưng không phải mọi nguồn gốc của sự không công bằng (theo nghĩa cơ hội sống rất khác nhau) đều có khía cạnh đạo đức: không ai đáng khen hay đáng trách vì nhiệt độ không khí, lượng mưa và thời điểm mưa, hay địa hình.
+**Cuộc đời không công bằng, nhưng không phải bất công nào cũng có khía cạnh đạo đức.** Nhận định rằng cuộc đời "không công bằng" với cá nhân, nhóm hay quốc gia, theo nghĩa không trao cho mọi người những yếu tố như nhau để thịnh vượng, có thể được chia sẻ bởi những người có giá trị đạo đức và hệ tư tưởng rất khác nhau. Như Chương 23 đã nói, địa lý, văn hoá, lịch sử, cùng nhân khẩu học và chính trị, không trao cơ hội như nhau cho mọi người.
+
+Nhà sử học kinh tế David S. Landes viết rằng "thiên nhiên, cũng như cuộc đời, là không công bằng", nhưng không phải mọi nguồn gốc của sự không công bằng (theo nghĩa cơ hội sống rất khác nhau) đều có khía cạnh đạo đức: không ai đáng khen hay đáng trách vì nhiệt độ không khí, lượng mưa và thời điểm mưa, hay địa hình.
 
 Dĩ nhiên có những quyết định và hành động mà con người phải chịu phán xét đạo đức hay trách nhiệm pháp lý. Nhưng chỉ nhìn số liệu chênh lệch thống kê thì không biết đó là những hành động nào, càng không biết hành động nào bây giờ sẽ có hiệu quả. Muốn biết, cần cả sự thật lẫn phân tích, dù là phân tích kinh tế, lịch sử, chính trị hay bản chất con người.
 
@@ -635,9 +652,13 @@ Dĩ nhiên có những quyết định và hành động mà con người phải
 
 **Đạo đức cần thiết nhưng không đủ.** Đạo đức không phải xa xỉ phẩm mà là nhu cầu thiết yếu, vì không xã hội nào giữ được chỉ bằng vũ lực. Ngay cả các chế độ độc tài toàn trị cũng tuyên truyền một hệ tư tưởng với kiểu đạo đức riêng, vì ngay cả một bộ máy nhà nước có quyền đàn áp và khủng bố tràn lan, tàn nhẫn cũng không tự mình tạo ra hay duy trì được một xã hội vận hành. Nhưng nguyên tắc đạo đức, dù cần cho mọi xã hội, hiếm khi đủ. Áp dụng nguyên tắc đạo đức vào kinh tế đòi hỏi hiểu biết về nền kinh tế, và khả năng "nghĩ về sự vật, không nghĩ về chữ nghĩa" như thẩm phán Oliver Wendell Holmes từng nói.
 
-Nếu không, nỗ lực giúp "người nghèo" có thể không chỉ thất bại mà còn phản tác dụng, khi ta không phân biệt được người nghèo thật sự và lâu dài với người chỉ đang trẻ, mới bắt đầu sự nghiệp ở việc khởi điểm mà họ sẽ sớm vượt qua khi tích luỹ vốn con người có giá trị cho bản thân và xã hội. Trợ cấp đại trà cho "người nghèo" có thể cắt ngang quá trình này vì khiến nhiều người không cần đi làm; luật lương tối thiểu có thể khiến người trẻ khó tìm việc hơn, làm họ mất cả lương hiện tại lẫn cơ hội tích luỹ vốn con người cho tương lai. Tương tự, yêu cầu "nghĩ về sự vật, không nghĩ về chữ nghĩa" khiến phân biệt giữa đặc quyền và thành tựu không chỉ là chuyện ngữ nghĩa mà là đòi hỏi cấp bách về sự rõ ràng khi ra quyết định đạo đức: đặc quyền, thứ gây hại cho người khác, phải được tách khỏi thành tựu, thứ đem lợi cho người khác và đưa cả xã hội tiến lên.
+Nếu không, nỗ lực giúp "người nghèo" có thể không chỉ thất bại mà còn phản tác dụng, khi ta không phân biệt được người nghèo thật sự và lâu dài với người chỉ đang trẻ, mới bắt đầu sự nghiệp ở việc khởi điểm mà họ sẽ sớm vượt qua khi tích luỹ vốn con người có giá trị cho bản thân và xã hội. Trợ cấp đại trà cho "người nghèo" có thể cắt ngang quá trình này vì khiến nhiều người không cần đi làm; luật lương tối thiểu có thể khiến người trẻ khó tìm việc hơn, làm họ mất cả lương hiện tại lẫn cơ hội tích luỹ vốn con người cho tương lai.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một tỉnh có 200 tỷ đồng ngân sách an toàn trong năm. Phương án A: lắp hệ thống rào chắn và camera hiện đại trên một đoạn đường đèo, ước tính giảm được trung bình 1 ca tử vong mỗi năm; được ủng hộ bằng câu "chỉ cần cứu một mạng người cũng đáng". Phương án B: dùng cùng số tiền để nâng cấp trạm y tế xã, mua xe cấp cứu và tổ chức tiêm chủng bổ sung cho vùng sâu, ước tính tránh được 8 ca tử vong mỗi năm, phần lớn là trẻ em. Nếu chọn A, tỉnh không "cứu một mạng người bất kể chi phí" mà cứu 1 mạng bằng cái giá là 7 mạng khác lẽ ra cứu được. Theo lập luận của Sowell, cả hai phương án đều phục vụ một "giá trị phi kinh tế" là mạng sống con người; kinh tế học chỉ làm phép so sánh mà khẩu hiệu bỏ qua. Nếu tính thêm số năm sống được cứu (một em bé có thể sống thêm hàng chục năm), chênh lệch giữa hai phương án còn lớn hơn.
+Tương tự, yêu cầu "nghĩ về sự vật, không nghĩ về chữ nghĩa" khiến phân biệt giữa đặc quyền và thành tựu không chỉ là chuyện ngữ nghĩa mà là đòi hỏi cấp bách về sự rõ ràng khi ra quyết định đạo đức: đặc quyền, thứ gây hại cho người khác, phải được tách khỏi thành tựu, thứ đem lợi cho người khác và đưa cả xã hội tiến lên.
+
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một tỉnh có 200 tỷ đồng ngân sách an toàn trong năm. Phương án A: lắp hệ thống rào chắn và camera hiện đại trên một đoạn đường đèo, ước tính giảm được trung bình 1 ca tử vong mỗi năm; được ủng hộ bằng câu "chỉ cần cứu một mạng người cũng đáng". Phương án B: dùng cùng số tiền để nâng cấp trạm y tế xã, mua xe cấp cứu và tổ chức tiêm chủng bổ sung cho vùng sâu, ước tính tránh được 8 ca tử vong mỗi năm, phần lớn là trẻ em.
+
+Nếu chọn A, tỉnh không "cứu một mạng người bất kể chi phí" mà cứu 1 mạng bằng cái giá là 7 mạng khác lẽ ra cứu được. Theo lập luận của Sowell, cả hai phương án đều phục vụ một "giá trị phi kinh tế" là mạng sống con người; kinh tế học chỉ làm phép so sánh mà khẩu hiệu bỏ qua. Nếu tính thêm số năm sống được cứu (một em bé có thể sống thêm hàng chục năm), chênh lệch giữa hai phương án còn lớn hơn.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -764,19 +785,27 @@ Danh sách các nhà từ thiện chứng minh rằng người kiếm tiền tr�
 
 ### Bằng chứng về tư nhân hoá nước được trình bày một phía và đã cũ đi
 
-Sowell tự thừa nhận bằng chứng về Argentina và Anh chỉ mang tính gợi ý. Theo người tổng hợp, những gì xảy ra sau đó làm bức tranh phức tạp hơn: hợp đồng cấp nước tư nhân ở Buenos Aires bị chấm dứt và quốc hữu hoá trở lại giữa thập niên 2000 sau tranh chấp về giá nước và đầu tư khi nền kinh tế khủng hoảng; ngành nước tư nhân ở Anh trong thập niên 2020 bị chỉ trích gay gắt về xả nước thải chưa xử lý và về nợ vay lớn trong khi chia cổ tức. Lập luận chung của Sowell (nước thiết yếu không có nghĩa nhà nước phải trực tiếp cung cấp, giống thực phẩm) vẫn đứng được, nhưng kinh nghiệm cho thấy kết quả của tư nhân hoá ngành có tính độc quyền tự nhiên như cấp nước phụ thuộc rất nhiều vào chất lượng hợp đồng và cơ quan điều tiết, điều mà chương không bàn.
+Sowell tự thừa nhận bằng chứng về Argentina và Anh chỉ mang tính gợi ý. Theo người tổng hợp, những gì xảy ra sau đó làm bức tranh phức tạp hơn: hợp đồng cấp nước tư nhân ở Buenos Aires bị chấm dứt và quốc hữu hoá trở lại giữa thập niên 2000 sau tranh chấp về giá nước và đầu tư khi nền kinh tế khủng hoảng; ngành nước tư nhân ở Anh trong thập niên 2020 bị chỉ trích gay gắt về xả nước thải chưa xử lý và về nợ vay lớn trong khi chia cổ tức.
+
+Lập luận chung của Sowell (nước thiết yếu không có nghĩa nhà nước phải trực tiếp cung cấp, giống thực phẩm) vẫn đứng được, nhưng kinh nghiệm cho thấy kết quả của tư nhân hoá ngành có tính độc quyền tự nhiên như cấp nước phụ thuộc rất nhiều vào chất lượng hợp đồng và cơ quan điều tiết, điều mà chương không bàn.
 
 ### Lập luận "thị trường buộc người quyết định tự trả chi phí" trong ví dụ Caroline và nhà báo bỏ qua các trường hợp ngoại ứng
 
-Lập luận "thị trường buộc người ra quyết định trả chi phí của mình" đúng với ca làm và lợi suất đầu tư, nhưng không đúng với các ngoại ứng như ô nhiễm, nơi người gây ra không trả toàn bộ chi phí. Ở các chương khác, Sowell có thừa nhận ngoại ứng là lý do cho vai trò của nhà nước, nhưng trong chương này ông trình bày thị trường như thể nó luôn buộc người quyết định chịu chi phí. Người phê phán cũng có thể nói rằng báo chí tạo ra lợi ích công (người dân được thông tin, quyền lực được giám sát) mà độc giả trả tiền không thu hết; khi đó lợi suất thấp không chỉ là "bấp bênh của nghề báo". Sowell đã đưa ra lời đáp hợp lý (những người hưởng lợi có thể gánh chi phí), nhưng không bàn tới trường hợp người hưởng lợi quá phân tán để tự trả.
+Lập luận "thị trường buộc người ra quyết định trả chi phí của mình" đúng với ca làm và lợi suất đầu tư, nhưng không đúng với các ngoại ứng như ô nhiễm, nơi người gây ra không trả toàn bộ chi phí. Ở các chương khác, Sowell có thừa nhận ngoại ứng là lý do cho vai trò của nhà nước, nhưng trong chương này ông trình bày thị trường như thể nó luôn buộc người quyết định chịu chi phí.
+
+Người phê phán cũng có thể nói rằng báo chí tạo ra lợi ích công (người dân được thông tin, quyền lực được giám sát) mà độc giả trả tiền không thu hết; khi đó lợi suất thấp không chỉ là "bấp bênh của nghề báo". Sowell đã đưa ra lời đáp hợp lý (những người hưởng lợi có thể gánh chi phí), nhưng không bàn tới trường hợp người hưởng lợi quá phân tán để tự trả.
 
 ### Phân biệt đặc quyền và thành tựu rõ về khái niệm nhưng khó dùng trong thực tế
 
-Edison và vắc-xin bại liệt là ví dụ rõ ràng về thành tựu. Nhưng nhiều chênh lệch thực tế lẫn cả hai: một doanh nghiệp có thể vừa sáng tạo sản phẩm tốt vừa được bảo hộ bằng giấy phép hay quan hệ chính trị; một gia đình giàu có thể vừa làm việc chăm chỉ vừa thừa kế mạng lưới quan hệ. Sowell nói đúng rằng số liệu chênh lệch không tự cho biết phần nào là đặc quyền, phần nào là thành tựu, và cần phân tích; nhưng chương không đưa ra cách phân tích. Những người ủng hộ phân phối lại thường lập luận rằng ngay cả thành tựu cũng dựa một phần vào hạ tầng, giáo dục, luật pháp chung và may mắn (điều chính Landes và Chương 23 thừa nhận), nên xã hội có lý do để đánh thuế một phần thu nhập từ thành tựu.
+Edison và vắc-xin bại liệt là ví dụ rõ ràng về thành tựu. Nhưng nhiều chênh lệch thực tế lẫn cả hai: một doanh nghiệp có thể vừa sáng tạo sản phẩm tốt vừa được bảo hộ bằng giấy phép hay quan hệ chính trị; một gia đình giàu có thể vừa làm việc chăm chỉ vừa thừa kế mạng lưới quan hệ.
+
+Sowell nói đúng rằng số liệu chênh lệch không tự cho biết phần nào là đặc quyền, phần nào là thành tựu, và cần phân tích; nhưng chương không đưa ra cách phân tích. Những người ủng hộ phân phối lại thường lập luận rằng ngay cả thành tựu cũng dựa một phần vào hạ tầng, giáo dục, luật pháp chung và may mắn (điều chính Landes và Chương 23 thừa nhận), nên xã hội có lý do để đánh thuế một phần thu nhập từ thành tựu.
 
 ### Từ 2014, khái niệm giá trị mạng sống được dùng rộng hơn, đúng hướng Sowell đề xuất
 
-Theo người tổng hợp: các cơ quan nhà nước ở Mỹ và nhiều nước khác dùng con số "giá trị của một sinh mạng thống kê" (thường cao hơn nhiều so với 7 triệu USD mà Sowell dẫn, vì đã điều chỉnh theo lạm phát và thu nhập) khi đánh giá các quy định an toàn, môi trường, y tế. Đại dịch COVID-19 làm cuộc tranh luận "mạng người so với kinh tế" thành chuyện thời sự toàn cầu: phong toả cứu được người khỏi virus nhưng cũng gây mất việc, chậm chữa bệnh khác, gián đoạn học tập, đúng loại đánh đổi mạng người lấy mạng người mà Sowell mô tả. Trong y tế, các tổ chức đánh giá công nghệ y tế dùng chi phí cho mỗi năm sống điều chỉnh theo chất lượng để quyết định thuốc nào được chi trả, phản ánh trực giác "vắc-xin cho trẻ em so với ghép tim cho người 80 tuổi".
+Theo người tổng hợp: các cơ quan nhà nước ở Mỹ và nhiều nước khác dùng con số "giá trị của một sinh mạng thống kê" (thường cao hơn nhiều so với 7 triệu USD mà Sowell dẫn, vì đã điều chỉnh theo lạm phát và thu nhập) khi đánh giá các quy định an toàn, môi trường, y tế.
+
+Đại dịch COVID-19 làm cuộc tranh luận "mạng người so với kinh tế" thành chuyện thời sự toàn cầu: phong toả cứu được người khỏi virus nhưng cũng gây mất việc, chậm chữa bệnh khác, gián đoạn học tập, đúng loại đánh đổi mạng người lấy mạng người mà Sowell mô tả. Trong y tế, các tổ chức đánh giá công nghệ y tế dùng chi phí cho mỗi năm sống điều chỉnh theo chất lượng để quyết định thuốc nào được chi trả, phản ánh trực giác "vắc-xin cho trẻ em so với ghép tim cho người 80 tuổi".
 
 ### Quan điểm trái chiều: có những thứ không nên đem ra thị trường
 
@@ -788,3 +817,173 @@ Một số triết gia (như Michael Sandel) lập luận rằng đặt giá cho
 - **Trong đầu tư.** Ví dụ báo chí và quỹ hưu nhắc rằng người quản lý quỹ có nghĩa vụ với những người góp tiền; chấp nhận lợi suất thấp hơn vì một mục tiêu "cao đẹp" là quyết định thay cho người góp vốn. Với các quỹ đầu tư theo tiêu chí xã hội, môi trường, câu hỏi theo tinh thần của Sowell là: người góp vốn có biết và đồng ý đánh đổi một phần lợi suất không, và mục tiêu đó có thể đạt được rẻ hơn bằng cách khác không.
 - **Trong nghề nghiệp.** Phân biệt đặc quyền và thành tựu gợi ý rằng thu nhập bền nhất là thu nhập đến từ việc tạo ra giá trị cho người khác (thành tựu), không từ một vị trí được bảo vệ (đặc quyền). Phần về vốn con người cũng nhắc người trẻ rằng việc khởi điểm lương thấp là nơi tích luỹ kỹ năng, kinh nghiệm cho thu nhập sau này.
 - **Khi đọc tin chính sách.** Ở Việt Nam, khi một đề xuất được bảo vệ bằng lời lẽ như "không gì quý hơn tính mạng con người", "bảo tồn di sản bằng mọi giá", hay khi một mặt hàng bị coi là "xa xỉ" để đánh thuế cao, câu hỏi theo Sowell là: số tiền hay chi phí này lẽ ra dùng được vào việc gì khác, cứu được bao nhiêu người theo cách khác, và ai là người quyết định thay cho người tiêu dùng. Khi đọc một con số chênh lệch (thu nhập giữa vùng, tỷ lệ tử vong giữa bệnh viện, điểm thi giữa trường), hãy hỏi con số đó phản ánh hay do thể chế gây ra, trước khi kết luận về trách nhiệm.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 25 trên một trang: sáu nhánh lớn đi theo các mục 1–7 của phần Nội dung chi tiết (chỉ có giá trị phi kinh tế, cứu mạng người, thị trường và các giá trị, thị trường và lòng tham, phản ánh và gây ra, đặc quyền và thành tựu), mỗi nhánh ghi luận điểm, cơ chế nhân quả, ví dụ và con số then chốt của Sowell; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 25: mọi giá trị đều là phi kinh tế, kinh tế học chỉ là cách cân nhắc các giá trị khi nguồn lực khan hiếm`"]
+  n1["`Mục 1–2 — Chỉ có giá trị phi kinh tế, viện dẫn nó thường là đòi được miễn cân nhắc`"]
+  n0 --- n1
+  n2["`Kinh tế học tự nó không phải một giá trị, chỉ là cách cân nhắc giá trị này với giá trị khác`"]
+  n1 --- n2
+  n3["`Kinh tế học không bảo ai kiếm nhiều tiền nhất: nhiều giáo sư kinh tế có thể kiếm hơn ở doanh nghiệp`"]
+  n1 --- n3
+  n4["`Adam Smith bí mật cho người nghèo những khoản tiền lớn, Henry Thornton cho đi hơn nửa thu nhập mỗi năm`"]
+  n1 --- n4
+  n5["`Carnegie, Rockefeller, J.R.D. Tata, gia đình Birla lập thư viện, quỹ, đại học, viện học thuật`"]
+  n1 --- n5
+  n6["`Forbes 2007: Bill Gates cho đi 42 tỷ USD (42% tài sản), Gordon Moore cho đi 63% tài sản`"]
+  n1 --- n6
+  n7["`Tỷ lệ sản lượng quốc gia dành cho từ thiện ở Mỹ cao hơn gấp ba lần Thụy Điển, Pháp, Nhật Bản`"]
+  n6 --- n7
+  n8["`Thị trường phân bổ nguồn lực khan hiếm là một chuyện, làm gì với của cải nó tạo ra là chuyện khác`"]
+  n1 --- n8
+  n9["`Cứu hồ Mono Lake hay giữ tòa nhà lịch sử phải đặt cạnh số trẻ em tiêm vắc-xin được bằng cùng số tiền`"]
+  n1 --- n9
+  n10["`Chính trị cho phép bỏ phiếu cho điều không thể, nhà kinh tế nhắc: không có giải pháp, chỉ có đánh đổi`"]
+  n1 --- n10
+  n11["`Từ chối lựa chọn thì hoàn cảnh chọn thay: cạn nguồn lực cho những thứ quan trọng lẽ ra đã có`"]
+  n10 --- n11
+  n12["`Mục 3 — Cứu mạng người: cứu một mạng có thể phải trả bằng nhiều mạng khác`"]
+  n0 --- n12
+  n13["`Khẩu hiệu #quot;chỉ cần cứu được một mạng người#quot; bỏ qua cách dùng khác là cứu mạng người khác theo cách khác`"]
+  n12 --- n13
+  n14["`Của cải cứu mạng người: động đất giết chừng một chục người ở California giết hàng nghìn ở nước Thế giới thứ ba`"]
+  n12 --- n14
+  n15["`Swiss Re 2013: thiệt hại tài chính lớn nhất ở Đức, Séc, Pháp, thiệt hại về người lớn nhất ở Philippines, Ấn Độ`"]
+  n14 --- n15
+  n16["`Tăng X triệu USD thu nhập quốc gia cứu một mạng thì quy định tốn 5X cứu một mạng bằng giá 5 mạng khác`"]
+  n12 --- n16
+  n17["`Không ai chi nửa sản lượng cả năm của quốc gia để giữ một người sống thêm 30 giây`"]
+  n12 --- n17
+  n18["`Hành vi cho thấy không ai coi mạng mình vô giá: nhận việc nguy hiểm khi lương đủ cao, nhảy dù, leo núi`"]
+  n12 --- n18
+  n19["`Trường Luật Harvard: người Mỹ đặt 7 triệu USD, người Canada 4 triệu USD, người Nhật gần 10 triệu USD`"]
+  n18 --- n19
+  n20["`Vắc-xin cho trẻ em rẻ và thêm hàng chục năm sống, ghép tim cho cụ ông 80 tuổi đắt mà chỉ thêm ít năm`"]
+  n12 --- n20
+  n21["`Mục 4 — Thị trường và các giá trị: bên thứ ba không chịu chi phí lại muốn quyết định thay`"]
+  n0 --- n21
+  n22["`Thị trưởng Stockton: nước quá thiết yếu cho sự sống để đem ra thị trường`"]
+  n21 --- n22
+  n23["`Sowell: thực phẩm cũng thiết yếu mà do tư nhân cung cấp, phần lớn thuốc mới ra đời ở kinh tế thị trường`"]
+  n22 --- n23
+  n24["`Argentina tư nhân hóa cấp nước: sau 1995 tử vong trẻ em giảm nhanh hơn, tập trung ở bệnh truyền nhiễm`"]
+  n21 --- n24
+  n25["`England cấp nước tư nhân: hóa đơn thấp hơn, nước tốt hơn, ít rò rỉ hơn Scotland do nhà nước điều hành`"]
+  n21 --- n25
+  n26["`Bằng chứng chỉ mang tính gợi ý, nhưng người đòi nhà nước kiểm soát nước hiếm khi thấy cần bằng chứng`"]
+  n25 --- n26
+  n27["`Doanh nhân Ấn Độ: giảm thuế tiêu thụ thì giá kem dưỡng giảm, cầu tăng, thu thuế tăng`"]
+  n21 --- n27
+  n28["`Bộ trưởng: phụ nữ nghèo không cần kem dưỡng da, hãy để cô ấy mua thức ăn`"]
+  n27 --- n28
+  n29["`Thị trường biến xa xỉ phẩm thành hàng phổ thông: ô tô, điện thoại, tủ lạnh, ti vi, máy tính cá nhân`"]
+  n21 --- n29
+  n30["`Đầu máy ghi băng video đầu tiên bán 30.000 USD, cam, đường, ca cao từng là xa xỉ phẩm ở châu Âu`"]
+  n29 --- n30
+  n31["`Bên thứ ba bóp nghẹt thị trường thì xa xỉ phẩm chỉ dành cho người giàu lâu hơn`"]
+  n29 --- n31
+  n32["`Mục 5 — Thị trường và lòng tham: đòi người khác trợ cấp giá trị của mình`"]
+  n0 --- n32
+  n33["`Lời lẽ về #quot;giá trị phi kinh tế#quot; quá thường là nỗ lực ích kỷ để người khác trợ cấp giá trị của mình`"]
+  n32 --- n33
+  n34["`Nhà báo trách #quot;các nhà phân tích Phố Wall vô danh#quot; đòi lợi nhuận hằng năm từ các tờ báo`"]
+  n32 --- n34
+  n35["`Tiền họ quản lý là tiết kiệm và quỹ hưu trí của hàng triệu người thu nhập khiêm tốn`"]
+  n34 --- n35
+  n36["`Lợi suất thấp cho báo nghĩa là giáo viên, thợ máy trợ cấp biên tập viên, phóng viên thu nhập cao hơn`"]
+  n34 --- n36
+  n37["`Người hưởng lợi có thể gánh: độc giả trả giá báo cao hơn, nhà báo nhận lương thấp hơn, nhà quảng cáo trả phí cao hơn`"]
+  n34 --- n37
+  n38["`Caroline được chuyển sang ca ngày thì người khác phải chuyển sang ca đêm`"]
+  n32 --- n38
+  n39["`#quot;Rộng lượng#quot; ở đây là buộc người khác gánh chi phí mà người đòi (anh phóng viên) không trả đồng nào`"]
+  n38 --- n39
+  n40["`Đánh thuế người khác để tài trợ chương trình xã hội được gọi là nhân đạo, để họ tự tiêu tiền lại bị gọi là lòng tham`"]
+  n32 --- n40
+  n41["`Lòng tham quyền lực không kém nguy hiểm lòng tham tiền bạc, trong lịch sử làm đổ nhiều máu hơn`"]
+  n40 --- n41
+  n42["`Mục 6 — Phản ánh và gây ra: thể chế là nơi kết quả hiện ra chưa chắc là nguyên nhân`"]
+  n0 --- n42
+  n43["`Cửa hàng ở khu thu nhập thấp bán đắt vì chi phí kinh doanh cao, không vì tự tiện tăng giá để lãi nhiều`"]
+  n42 --- n43
+  n44["`Bệnh viện có bác sĩ giỏi nhất có tỷ lệ tử vong cao hơn vì nhận ca nặng nhất (mổ não, ghép tim)`"]
+  n42 --- n44
+  n45["`Chênh lệch thu nhập do rào cản tùy tiện: phần lớn người phương Tây coi là sai trái, cần xóa bỏ`"]
+  n42 --- n45
+  n46["`Do tuổi tác: tự cân bằng qua cả đời, do bỏ học hay nghiện ma túy: nhiều người thấy không có nghĩa vụ trợ cấp`"]
+  n45 --- n46
+  n47["`Thị trường cho mỗi người tự quyết theo giá trị của mình và buộc họ trả chi phí quyết định đó`"]
+  n42 --- n47
+  n48["`Câu hỏi thật: giá trị đạo đức của ai được áp lên người khác hoặc được người khác trợ cấp`"]
+  n47 --- n48
+  n49["`Mục 7 — Đặc quyền và thành tựu: đạo đức cần hiểu biết về sự thật và hệ quả`"]
+  n0 --- n49
+  n50["`Đặc quyền có được bằng cái giá của người khác, thành tựu làm tăng lợi ích cho người khác`"]
+  n49 --- n50
+  n51["`Edison, anh em nhà Wright, người tìm ra cách chữa bại liệt và sốt rét tạo chênh lệch nhưng cả thế giới được lợi`"]
+  n50 --- n51
+  n52["`Landes: thiên nhiên không công bằng, nhưng không ai đáng trách vì nhiệt độ, lượng mưa hay địa hình`"]
+  n49 --- n52
+  n53["`Số liệu chênh lệch không cho biết hành động nào đáng trách, càng không cho biết biện pháp nào hiệu quả`"]
+  n52 --- n53
+  n54["`Chuyển thu nhập, của cải dễ nhưng tiêu hết là hết, phát triển vốn con người khó hơn mà hiệu quả hơn nhiều`"]
+  n49 --- n54
+  n55["`Nguyên tắc đạo đức cần nhưng hiếm khi đủ: phải #quot;nghĩ về sự vật, không nghĩ về chữ nghĩa#quot; (Holmes)`"]
+  n49 --- n55
+  n56["`Trợ cấp đại trà cho #quot;người nghèo#quot; khiến nhiều người không cần đi làm, cắt ngang tích lũy vốn con người`"]
+  n55 --- n56
+  n57["`Lương tối thiểu làm người trẻ khó tìm việc, mất cả lương hiện tại lẫn cơ hội tích lũy vốn con người`"]
+  n55 --- n57
+  n58["`Thông điệp xuyên suốt`"]
+  n0 --- n58
+  n59["`Trước mỗi khoản chi #quot;đáng mọi giá#quot;, hỏi số tiền đó lẽ ra làm được gì khác, cho ai`"]
+  n58 --- n59
+  n60["`Đánh giá quyết định theo hệ quả thực tế cho người khác, không theo ý định hay lời lẽ cảm xúc`"]
+  n58 --- n60
+  n61["`Gói một bên vào chữ #quot;thị trường#quot; hay #quot;nhà phân tích vô danh#quot; làm chi phí của người thật biến mất khỏi tầm nhìn`"]
+  n58 --- n61
+  n62["`Ví dụ của người tổng hợp: 200 tỷ đồng cứu 1 mạng trên đường đèo thay vì 8 mạng qua y tế xã là đổi 1 lấy 7`"]
+  n58 --- n62
+  n63["`Giới hạn: chương bỏ qua ngoại ứng như ô nhiễm, nơi người quyết định không trả toàn bộ chi phí`"]
+  n58 --- n63
+  class n0 root
+  class n1,n12,n21,n32,n42,n49,n58 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n33,n34,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61,n62,n63 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần VII "Special Economic Issues", Chương 25.
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 1 (What Is Economics?) định nghĩa kinh tế học là môn nghiên cứu cách sử dụng các nguồn lực khan hiếm có nhiều cách sử dụng thay thế. Chương 24 (Myths About Markets) mở đầu Phần VII bằng việc bác bỏ những ngộ nhận phổ biến về thị trường.
+
+Chương 25 xử lý lời phản bác cuối cùng mà người ta hay dùng khi một đề xuất bị kinh tế học chỉ ra là không ổn: "kinh tế học thì đúng đấy, nhưng còn có những giá trị phi kinh tế". Sowell quay lại đúng định nghĩa của Chương 1 để trả lời: kinh tế học không phải là một giá trị, mà là cách cân nhắc giá trị này với giá trị khác.
+
+Chương này dùng lại hai ý của các chương trước: Chương 4 (cửa hàng ở khu thu nhập thấp bán đắt vì chi phí kinh doanh cao, không vì lợi nhuận cao) và Chương 23 (địa lý, văn hoá, lịch sử không trao cơ hội như nhau cho mọi dân tộc), cùng ý về lương tối thiểu của Chương 11. Sau chương này, Chương 26 (The History of Economics) chuyển sang lịch sử tư tưởng kinh tế, và Chương 27 (Parting Thoughts) khép lại cuốn sách.
+
+## Lưu ý
+
+- Sách viết khoảng 2013–2014. Các số liệu trong chương thuộc nhiều thời điểm: danh sách các nhà từ thiện tỷ phú của tạp chí *Forbes* năm 2007, báo cáo thiên tai năm 2013 của công ty tái bảo hiểm Swiss Re, nghiên cứu về giá trị mạng sống của Trường Luật Harvard (Sowell không ghi năm).
+- Theo người tổng hợp, một số chi tiết đã thay đổi từ đó:
+  - Bill Gates đã cho đi thêm rất nhiều tiền sau năm 2007, nên con số 42 tỷ USD chỉ đúng cho thời điểm đó.
+  - Ở Argentina, hợp đồng tư nhân hoá cấp nước lớn nhất (vùng Buenos Aires) đã bị nhà nước chấm dứt và quốc hữu hoá trở lại vào khoảng năm 2006, tức trước khi ấn bản này ra đời, dù Sowell viết như thể hệ thống tư nhân vẫn đang hoạt động.
+  - Ngành nước tư nhân ở Anh trong thập niên 2020 bị chỉ trích nặng nề vì xả nước thải chưa xử lý ra sông, biển và vì nợ lớn, làm yếu đi so sánh Anh và Scotland mà Sowell đưa ra.
+- Chương này **không có chú thích chân trang có nội dung** (loại đánh số La Mã); các dấu chú thích trong text đều là chú thích nguồn trích dẫn, đã bỏ qua.
+- Lỗi nhỏ của sách: "Chaper 4" (đúng là "Chapter 4").
+- Theo người tổng hợp, hai nhận định lịch sử của Sowell bị đơn giản hoá: thư viện công đầu tiên ở New York không hoàn toàn do Andrew Carnegie lập (Carnegie tài trợ xây hàng chục thư viện chi nhánh vào đầu thế kỷ 20, sau khi Thư viện Công cộng New York đã được thành lập từ các quỹ tư nhân khác). Viện Tata ở Mumbai được lập với tài trợ của quỹ gia đình Tata, J.R.D. Tata là người đứng đầu tập đoàn lúc đó. Cả hai chỗ đều không làm thay đổi ý của Sowell (các viện này do tư nhân lập, không do nhà nước lập).
+- Các câu trích là bản dịch của người tổng hợp.

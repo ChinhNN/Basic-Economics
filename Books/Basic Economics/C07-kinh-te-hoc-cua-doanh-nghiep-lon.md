@@ -1,11 +1,18 @@
 # Chương 7 — Kinh tế học của doanh nghiệp lớn (The Economics of Big Business)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần II "Industry and Commerce", Chương 7.
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 5 kể chuyện các doanh nghiệp lớn lên rồi suy tàn (A & P, Sears, Montgomery Ward), Chương 6 giải thích vai trò của lợi nhuận và thua lỗ, trong đó có lợi thế kinh tế theo quy mô (economies of scale) và bất lợi kinh tế theo quy mô (diseconomies of scale), hai lực cùng quyết định một doanh nghiệp trong một ngành nên lớn tới đâu. Chương 7 đi tiếp sang những đặc điểm riêng của doanh nghiệp lớn: hình thức công ty cổ phần với trách nhiệm hữu hạn, việc tách quyền sở hữu khỏi việc điều hành, thù lao của giám đốc điều hành, và trường hợp đặc biệt khi một doanh nghiệp (hay một nhóm doanh nghiệp) chiếm lĩnh thị trường, tức độc quyền và cartel. Chương 8 ngay sau đó bàn về cách chính phủ phản ứng với độc quyền và cartel bằng điều tiết giá và luật chống độc quyền (anti-trust laws); phần cuối Chương 7 đã mở đầu chủ đề này khi giải thích tên gọi "anti-trust" và so sánh phản ứng của chính phủ với phản ứng của thị trường.
-**Ý chính:** Sowell muốn người đọc phân biệt hai nghĩa của chữ "lớn". Một doanh nghiệp có thể lớn về quy mô tuyệt đối (Wal-Mart, doanh thu hàng tỷ USD nhưng chỉ chiếm một phần khiêm tốn trong ngành bán lẻ) hoặc lớn vì chiếm phần lớn thị trường của ngành mình (Microsoft với hệ điều hành máy tính cá nhân). Hai loại này có hệ quả kinh tế rất khác nhau. Doanh nghiệp lớn theo nghĩa thứ nhất có thể đem lại giá thấp nhờ lợi thế quy mô, và hình thức công ty cổ phần trách nhiệm hữu hạn là thứ cho phép huy động vốn của hàng triệu người để làm những việc quá lớn với bất kỳ cá nhân nào. Các chỉ trích phổ biến nhắm vào công ty cổ phần (lãnh đạo lạm quyền vì cổ đông không kiểm soát được, lương giám đốc quá cao, gói chia tay hàng triệu USD) phần lớn không đứng vững khi được kiểm tra bằng số liệu. Tác hại thật sự đến từ độc quyền: không chỉ ở chỗ doanh nghiệp độc quyền lấy thêm tiền của người tiêu dùng (việc này chỉ phân phối lại của cải, không làm giảm tổng của cải), mà ở chỗ giá cao làm người tiêu dùng mua ít đi, nên nguồn lực khan hiếm bị đẩy sang những công dụng kém giá trị hơn và cả xã hội nghèo đi. Ví dụ trung tâm là nước táo: trong thị trường cạnh tranh, người mua không cần biết chi phí làm nước táo vì đồng vốn đầu tư tràn vào sẽ ép giá xuống; nếu có độc quyền thì điều đó không xảy ra. Sowell kết luận rằng độc quyền rất khó tồn tại lâu nếu không được luật pháp che chắn, và thị trường tự có những lực chống lại cartel (các nhà bán lẻ khổng lồ như Montgomery Ward, Sears, A & P), thường nhanh hơn các vụ kiện chống độc quyền của chính phủ.
+## Ý chính
 
-> **Lưu ý:** Sách viết khoảng 2013–2014. Số liệu thù lao giám đốc điều hành (trung bình 10 triệu USD/năm) là của năm 2010; danh sách 30 công ty lớn nhất thế giới theo tạp chí *The Economist* cũng là số liệu từ thời điểm đó. Một số chi tiết đã thay đổi: Wal-Mart đổi tên pháp lý thành Walmart vào năm 2018; chuỗi siêu thị A & P đã phá sản và thanh lý vào năm 2015, Sears nộp đơn phá sản năm 2018 (Montgomery Ward thì đã đóng cửa từ trước khi sách ra đời; Sowell nói về thời hoàng kim của nó); giấy phép taxi ở các thành phố Mỹ mất nhiều giá trị khi các dịch vụ gọi xe qua ứng dụng xuất hiện, đúng hướng Sowell dự đoán khi rào cản gia nhập bị vượt qua. Chương có 1 chú thích chân trang của Sowell (dấu `{xviii}`, về hệ thống định giá thép "Pittsburgh cộng cước vận chuyển"), đã đưa vào Sơ đồ phần tiểu mục "Monopoly Prices vs. Competitive Prices" và vào mục 6 của Nội dung chi tiết. Các câu trích là bản dịch của người tổng hợp.
+Sowell muốn người đọc phân biệt hai nghĩa của chữ "lớn". Một doanh nghiệp có thể lớn về quy mô tuyệt đối (Wal-Mart, doanh thu hàng tỷ USD nhưng chỉ chiếm một phần khiêm tốn trong ngành bán lẻ) hoặc lớn vì chiếm phần lớn thị trường của ngành mình (Microsoft với hệ điều hành máy tính cá nhân). Hai loại này có hệ quả kinh tế rất khác nhau.
+
+Doanh nghiệp lớn theo nghĩa thứ nhất có thể đem lại giá thấp nhờ lợi thế quy mô, và hình thức công ty cổ phần trách nhiệm hữu hạn là thứ cho phép huy động vốn của hàng triệu người để làm những việc quá lớn với bất kỳ cá nhân nào.
+
+Các chỉ trích phổ biến nhắm vào công ty cổ phần (lãnh đạo lạm quyền vì cổ đông không kiểm soát được, lương giám đốc quá cao, gói chia tay hàng triệu USD) phần lớn không đứng vững khi được kiểm tra bằng số liệu.
+
+Tác hại thật sự đến từ độc quyền: không chỉ ở chỗ doanh nghiệp độc quyền lấy thêm tiền của người tiêu dùng (việc này chỉ phân phối lại của cải, không làm giảm tổng của cải), mà ở chỗ giá cao làm người tiêu dùng mua ít đi, nên nguồn lực khan hiếm bị đẩy sang những công dụng kém giá trị hơn và cả xã hội nghèo đi.
+
+Ví dụ trung tâm là nước táo: trong thị trường cạnh tranh, người mua không cần biết chi phí làm nước táo vì đồng vốn đầu tư tràn vào sẽ ép giá xuống; nếu có độc quyền thì điều đó không xảy ra.
+
+Sowell kết luận rằng độc quyền rất khó tồn tại lâu nếu không được luật pháp che chắn, và thị trường tự có những lực chống lại cartel (các nhà bán lẻ khổng lồ như Montgomery Ward, Sears, A & P), thường nhanh hơn các vụ kiện chống độc quyền của chính phủ.
 
 ## Sơ đồ
 
@@ -481,7 +488,9 @@
 
 1. **Vì sao doanh nghiệp lớn thường có dạng công ty cổ phần trách nhiệm hữu hạn, và điều đó có lợi cho ai ngoài cổ đông?** Vì những doanh nghiệp doanh thu hàng tỷ USD cần vốn của hàng nghìn hoặc hàng triệu người, mà không ai dám góp vốn vào một doanh nghiệp quá lớn để theo dõi nếu phải đem cả tài sản cá nhân ra chịu nợ của nó. Chuyện chủ ngân hàng rút khỏi tổ chức cứu đói của Herbert Hoover ngay khi biết tổ chức không có trách nhiệm hữu hạn cho thấy điều đó. Người được lợi nhiều nhất là người tiêu dùng: các hoạt động quy mô lớn trở nên khả thi, lợi thế quy mô hạ giá, và mức sống tăng.
 2. **Các lời chỉ trích công ty cổ phần (ban điều hành lạm quyền, lương CEO quá cao, gói chia tay hàng triệu USD) có đứng vững không?** Theo Sowell, phần lớn là không. Cổ đông thường không muốn tự điều hành; Anh trao nhiều quyền nhất cho cổ đông nhưng chỉ có 1 trong 30 công ty lớn nhất thế giới, so với 13 của Mỹ. Công ty do các tổ chức tài chính dùng tiền của chính mình sở hữu lại trả lương CEO cao nhất, nên lương cao không phải do hội đồng quản trị cẩu thả. Gói chia tay rẻ hơn nhiều so với cái giá của việc giữ một CEO thất bại.
-3. **Độc quyền gây hại cho nền kinh tế ở chỗ nào, và điều gì chống lại nó?** Giá độc quyền khiến người tiêu dùng mua ít đi, dù với thêm nhiều đơn vị nữa họ vẫn sẵn lòng trả đủ chi phí sản xuất, nên nguồn lực bị đẩy sang những công dụng kém giá trị hơn; việc doanh nghiệp độc quyền lấy thêm tiền chỉ là phân phối lại của cải. Độc quyền và cartel khó tồn tại lâu nếu không có luật che chắn: thành viên cartel lén phá giá (cartel đường sắt thế kỷ 19), nhà bán lẻ lớn tìm nguồn hàng ngoài cartel hoặc tự sản xuất (Montgomery Ward, Sears, A & P), và công nghệ mới hạ rào cản gia nhập (vi mạch trong ngành máy tính). Độc quyền bền nhất là độc quyền do nhà nước tạo ra qua giấy phép, như taxi ở các thành phố hay hệ thống hạn mức sản xuất ở Ấn Độ.
+3. **Độc quyền gây hại cho nền kinh tế ở chỗ nào, và điều gì chống lại nó?** Giá độc quyền khiến người tiêu dùng mua ít đi, dù với thêm nhiều đơn vị nữa họ vẫn sẵn lòng trả đủ chi phí sản xuất, nên nguồn lực bị đẩy sang những công dụng kém giá trị hơn; việc doanh nghiệp độc quyền lấy thêm tiền chỉ là phân phối lại của cải.
+
+   Độc quyền và cartel khó tồn tại lâu nếu không có luật che chắn: thành viên cartel lén phá giá (cartel đường sắt thế kỷ 19), nhà bán lẻ lớn tìm nguồn hàng ngoài cartel hoặc tự sản xuất (Montgomery Ward, Sears, A & P), và công nghệ mới hạ rào cản gia nhập (vi mạch trong ngành máy tính). Độc quyền bền nhất là độc quyền do nhà nước tạo ra qua giấy phép, như taxi ở các thành phố hay hệ thống hạn mức sản xuất ở Ấn Độ.
 
 ## Khái niệm cần biết
 
@@ -534,13 +543,17 @@ Còn chủ nợ, những người chỉ đòi được nợ trong phạm vi tài
 
 Ở các loại doanh nghiệp khác, chủ sở hữu tự điều hành. Một công ty cổ phần lớn có quá nhiều cổ đông để làm vậy, nên các nhà quản lý được giao điều hành, do hội đồng quản trị (nơi nắm quyền tối cao trong công ty) thuê và khi cần thì sa thải. Cách tổ chức này có cả ngoài kinh doanh: trường đại học thường do người quản lý được ban quản trị (board of trustees) thuê và sa thải điều hành; ban quản trị nắm quyền pháp lý tối cao nhưng không điều hành công việc hằng ngày trong lớp học hay trong bộ máy học vụ.
 
-Cùng với trách nhiệm hữu hạn, việc tách quyền sở hữu khỏi việc điều hành là đặc điểm then chốt của công ty cổ phần, và cũng là mục tiêu chỉ trích chính. Nhiều người cho rằng "tách bạch sở hữu và kiểm soát" cho phép ban điều hành vận hành công ty vì lợi ích riêng, trên lưng cổ đông. Các vụ bê bối doanh nghiệp lớn và ồn ào đầu thế kỷ 21 xác nhận khả năng gian lận và lạm dụng là có thật. Nhưng gian lận cũng xảy ra ở doanh nghiệp không phải công ty cổ phần, ở chính phủ dân chủ lẫn toàn trị, ở Liên Hợp Quốc và ở các tổ chức từ thiện phi lợi nhuận. Vì vậy, theo Sowell, không rõ công ty cổ phần trách nhiệm hữu hạn có dễ gian lận hơn, hay khó bị phát hiện và trừng phạt hơn các loại tổ chức khác.
+Cùng với trách nhiệm hữu hạn, việc tách quyền sở hữu khỏi việc điều hành là đặc điểm then chốt của công ty cổ phần, và cũng là mục tiêu chỉ trích chính. Nhiều người cho rằng "tách bạch sở hữu và kiểm soát" cho phép ban điều hành vận hành công ty vì lợi ích riêng, trên lưng cổ đông.
+
+Các vụ bê bối doanh nghiệp lớn và ồn ào đầu thế kỷ 21 xác nhận khả năng gian lận và lạm dụng là có thật. Nhưng gian lận cũng xảy ra ở doanh nghiệp không phải công ty cổ phần, ở chính phủ dân chủ lẫn toàn trị, ở Liên Hợp Quốc và ở các tổ chức từ thiện phi lợi nhuận. Vì vậy, theo Sowell, không rõ công ty cổ phần trách nhiệm hữu hạn có dễ gian lận hơn, hay khó bị phát hiện và trừng phạt hơn các loại tổ chức khác.
 
 Lời phàn nàn về tách bạch sở hữu và kiểm soát thường bỏ qua việc cổ đông không nhất thiết muốn gánh trách nhiệm điều hành tốn thời gian. Nhiều người muốn phần thưởng của đầu tư mà không muốn đau đầu với quản lý; điều này rõ nhất ở cổ đông lớn, vì số tiền họ đầu tư đủ để tự mở doanh nghiệp nếu họ muốn điều hành. Hình thức công ty cổ phần cho người chỉ muốn đầu tư một thể chế để làm đúng việc đó, còn việc giám sát sự trung thực của ban điều hành được giao cho cơ quan điều tiết và thực thi pháp luật, và việc giám sát hiệu quả được giao cho cạnh tranh trên thị trường.
 
 Một cơ chế giám sát nữa là thâu tóm. Các chuyên gia đầu tư bên ngoài luôn tìm những công ty mà họ tin có thể điều hành hiệu quả hơn, để mua đủ cổ phiếu, giành quyền kiểm soát và thay đổi cách điều hành. Mối đe doạ này đủ lớn để nhiều ban điều hành vận động chính quyền các bang ban hành luật cản trở thâu tóm. Nhưng những nhà đầu tư bên ngoài này có cả động cơ lẫn chuyên môn để đánh giá hiệu quả công ty tốt hơn đa số cổ đông nhỏ.
 
-Sowell bác lời chỉ trích rằng công ty cổ phần "phi dân chủ": cổ đông, và cả người tiêu dùng, có thể không muốn nó dân chủ, dù những người tự gọi mình là "người bảo vệ người tiêu dùng" vận động ra luật buộc công ty nhường quyền điều hành cho cổ đông hoặc cho người ngoài tự xưng đại diện lợi ích công. Lý do tồn tại của bất kỳ doanh nghiệp nào là người điều hành nó biết làm những việc cần cho sự tồn tại và phát triển của tổ chức tốt hơn người ngoài không có quyền lợi tài chính trong đó, và tự gọi mình là "người bảo vệ người tiêu dùng" hay tổ chức "vì lợi ích công" thì không đòi hỏi chuyên môn gì. Đáng chú ý là các quỹ tương hỗ nắm cổ phiếu đã phản đối những nỗ lực của các nhà hoạt động nhằm tăng tiếng nói của cổ đông trong những việc như lương CEO; các quỹ này không muốn khoản đầu tư lớn của mình bị đe doạ bởi những người mà thành tích, kỹ năng và mục tiêu khó phục vụ mục đích của công ty.
+Sowell bác lời chỉ trích rằng công ty cổ phần "phi dân chủ": cổ đông, và cả người tiêu dùng, có thể không muốn nó dân chủ, dù những người tự gọi mình là "người bảo vệ người tiêu dùng" vận động ra luật buộc công ty nhường quyền điều hành cho cổ đông hoặc cho người ngoài tự xưng đại diện lợi ích công. Lý do tồn tại của bất kỳ doanh nghiệp nào là người điều hành nó biết làm những việc cần cho sự tồn tại và phát triển của tổ chức tốt hơn người ngoài không có quyền lợi tài chính trong đó, và tự gọi mình là "người bảo vệ người tiêu dùng" hay tổ chức "vì lợi ích công" thì không đòi hỏi chuyên môn gì.
+
+Đáng chú ý là các quỹ tương hỗ nắm cổ phiếu đã phản đối những nỗ lực của các nhà hoạt động nhằm tăng tiếng nói của cổ đông trong những việc như lương CEO; các quỹ này không muốn khoản đầu tư lớn của mình bị đe doạ bởi những người mà thành tích, kỹ năng và mục tiêu khó phục vụ mục đích của công ty.
 
 Số phận kinh tế của công ty, cũng như mọi doanh nghiệp, rốt cuộc do vô số người tiêu dùng quyết định. Nhưng phần lớn người tiêu dùng cũng không muốn gánh trách nhiệm điều hành hơn cổ đông. Sowell lưu ý rằng chỉ để ai không muốn thì khỏi tham gia là chưa đủ: chính việc trao thêm quyền can thiệp cho người ngoài ban điều hành buộc cổ đông và người tiêu dùng khác phải bỏ thời gian bảo vệ quan điểm của mình, hoặc chịu rủi ro để người có mục tiêu khác lấn át lợi ích của họ và can thiệp vào việc điều hành, trong khi những người ngoài đó không phải trả giá gì nếu họ sai.
 
@@ -576,7 +589,9 @@ Vì là tiền của mình, các nhà tài chính không có động cơ trả t
 
 Các chương trước chủ yếu bàn về thị trường tự do cạnh tranh, nhưng đó không phải loại thị trường duy nhất, và kiểm soát giá hay kế hoạch hoá tập trung của nhà nước không phải những thứ duy nhất can thiệp vào hoạt động của thị trường. Độc quyền, độc quyền nhóm và cartel cũng cho ra kết quả rất khác thị trường tự do.
 
-Độc quyền nghĩa đen là chỉ có một người bán. Một số ít người bán, mà các nhà kinh tế gọi là độc quyền nhóm, có thể hợp tác với nhau công khai hay ngầm khi định giá, cho kết quả tương tự độc quyền. Khi trong ngành có một tổ chức chính thức ấn định giá và sản lượng, tức cartel, kết quả cũng phần nào giống độc quyền dù cartel có thể có nhiều người bán. Các dạng ngành thiếu cạnh tranh này khác nhau, nhưng tác hại chung của chúng đã dẫn tới luật và chính sách nhà nước nhằm ngăn chặn hoặc bù đắp. Đôi khi nhà nước điều tiết trực tiếp giá và chính sách của các doanh nghiệp không có cạnh tranh; lúc khác, nhà nước cấm một số hành vi cụ thể mà không quản lý chi li doanh nghiệp. Nhưng câu hỏi đầu tiên và cơ bản nhất là: doanh nghiệp độc quyền gây hại cho nền kinh tế bằng cách nào?
+Độc quyền nghĩa đen là chỉ có một người bán. Một số ít người bán, mà các nhà kinh tế gọi là độc quyền nhóm, có thể hợp tác với nhau công khai hay ngầm khi định giá, cho kết quả tương tự độc quyền. Khi trong ngành có một tổ chức chính thức ấn định giá và sản lượng, tức cartel, kết quả cũng phần nào giống độc quyền dù cartel có thể có nhiều người bán.
+
+Các dạng ngành thiếu cạnh tranh này khác nhau, nhưng tác hại chung của chúng đã dẫn tới luật và chính sách nhà nước nhằm ngăn chặn hoặc bù đắp. Đôi khi nhà nước điều tiết trực tiếp giá và chính sách của các doanh nghiệp không có cạnh tranh; lúc khác, nhà nước cấm một số hành vi cụ thể mà không quản lý chi li doanh nghiệp. Nhưng câu hỏi đầu tiên và cơ bản nhất là: doanh nghiệp độc quyền gây hại cho nền kinh tế bằng cách nào?
 
 Đôi khi một công ty sản xuất toàn bộ một loại hàng hoá hay dịch vụ trong một vùng hay một nước. Trong nhiều năm, mỗi công ty điện thoại nội hạt ở Mỹ là độc quyền trong vùng của mình, và điều này vẫn đúng ở một số nước khác. Trong khoảng nửa thế kỷ trước Chiến tranh thế giới thứ hai, Công ty Nhôm Hoa Kỳ (Alcoa) sản xuất toàn bộ nhôm thỏi nguyên sinh ở Mỹ. Những trường hợp như vậy hiếm, nhưng đủ quan trọng để xem xét nghiêm túc.
 
@@ -586,7 +601,9 @@ Phần lớn doanh nghiệp lớn không độc quyền, và không phải doanh
 
 Cũng như ta hiểu chức năng của giá rõ hơn sau khi thấy điều gì xảy ra khi giá không được vận hành tự do (Chương 3), ta hiểu vai trò của cạnh tranh rõ hơn khi so sánh thị trường cạnh tranh với thị trường không cạnh tranh.
 
-**Ví dụ nước táo.** Người tiêu dùng làm sao biết giá nước táo họ trả không cao quá xa so với chi phí sản xuất và phân phối, kể cả mức lợi nhuận trên vốn đủ để người ta tiếp tục đầu tư? Phần lớn mọi người không trồng táo, càng không ép táo thành nước, đóng chai, vận chuyển và lưu kho, nên không biết những việc đó tốn bao nhiêu. Theo Sowell, cạnh tranh trên thị trường khiến họ không cần biết. Số ít người biết những chi phí đó và làm nghề đầu tư có mọi động cơ để dồn vốn vào nơi có tỷ suất lợi nhuận cao và rút vốn khỏi nơi tỷ suất thấp hoặc âm. Nếu giá nước táo cao hơn mức cần để bù chi phí, lợi nhuận sẽ cao, thu hút ngày càng nhiều vốn vào ngành cho tới khi cạnh tranh của các nhà sản xuất mới đẩy giá xuống mức vừa bù chi phí, với tỷ suất lợi nhuận bằng mức trung bình của những khoản đầu tư tương tự ở nơi khác trong nền kinh tế. Chỉ khi đó dòng vốn từ các khu vực khác mới dừng, vì động cơ đã hết.
+**Ví dụ nước táo.** Người tiêu dùng làm sao biết giá nước táo họ trả không cao quá xa so với chi phí sản xuất và phân phối, kể cả mức lợi nhuận trên vốn đủ để người ta tiếp tục đầu tư? Phần lớn mọi người không trồng táo, càng không ép táo thành nước, đóng chai, vận chuyển và lưu kho, nên không biết những việc đó tốn bao nhiêu.
+
+Theo Sowell, cạnh tranh trên thị trường khiến họ không cần biết. Số ít người biết những chi phí đó và làm nghề đầu tư có mọi động cơ để dồn vốn vào nơi có tỷ suất lợi nhuận cao và rút vốn khỏi nơi tỷ suất thấp hoặc âm. Nếu giá nước táo cao hơn mức cần để bù chi phí, lợi nhuận sẽ cao, thu hút ngày càng nhiều vốn vào ngành cho tới khi cạnh tranh của các nhà sản xuất mới đẩy giá xuống mức vừa bù chi phí, với tỷ suất lợi nhuận bằng mức trung bình của những khoản đầu tư tương tự ở nơi khác trong nền kinh tế. Chỉ khi đó dòng vốn từ các khu vực khác mới dừng, vì động cơ đã hết.
 
 Nếu có một doanh nghiệp độc quyền nước táo, tình hình khác hẳn. Giá độc quyền nhiều khả năng ở mức cao hơn cần thiết để bù chi phí và công sức, kể cả tỷ suất lợi nhuận đủ thu hút số vốn cần thiết. Doanh nghiệp độc quyền thu tỷ suất lợi nhuận cao hơn mức đó, và vì không có công ty nào sản xuất thêm để ép giá xuống, nó có thể giữ mức lợi nhuận vượt trội đó lâu dài.
 
@@ -602,7 +619,9 @@ Nếu có một doanh nghiệp độc quyền nước táo, tình hình khác h�
 
 **Độc quyền khó tồn tại nếu không có luật che chắn.** May thay, theo Sowell, độc quyền rất khó duy trì nếu không có luật bảo vệ khỏi cạnh tranh. Việc nhà đầu tư không ngừng tìm tỷ suất lợi nhuận cao nhất gần như bảo đảm rằng vốn sẽ tràn vào bất kỳ khu vực nào đang có lợi nhuận cao, cho tới khi cạnh tranh kéo lợi nhuận ở đó xuống. Sowell ví điều này với nước tự tìm mức cân bằng; và cũng như con đập có thể ngăn nước làm vậy, can thiệp của chính phủ có thể ngăn cạnh tranh kéo tỷ suất lợi nhuận của doanh nghiệp độc quyền xuống.
 
-Nhiều thế kỷ trước, nhất là ở châu Âu và châu Á, mở doanh nghiệp trong nhiều lĩnh vực phải được nhà nước cho phép, và quyền độc quyền được ban cho những người hoặc trả tiền trực tiếp cho nhà nước, hoặc hối lộ quan chức có quyền cấp phép, hoặc cả hai. Tới cuối thế kỷ 18, kinh tế học đã phát triển đủ để ngày càng nhiều người hiểu tác hại của điều này với xã hội, và áp lực ngược chiều xuất hiện nhằm giải phóng nền kinh tế khỏi độc quyền và sự kiểm soát của nhà nước. Vì vậy độc quyền đã hiếm hơn nhiều, ít nhất ở cấp quốc gia. Nhưng hạn chế cạnh tranh vẫn phổ biến ở nhiều thành phố, nơi luật cấp phép giới hạn số taxi được hoạt động, khiến giá cước cao giả tạo và khó gọi xe hơn so với thị trường tự do.
+Nhiều thế kỷ trước, nhất là ở châu Âu và châu Á, mở doanh nghiệp trong nhiều lĩnh vực phải được nhà nước cho phép, và quyền độc quyền được ban cho những người hoặc trả tiền trực tiếp cho nhà nước, hoặc hối lộ quan chức có quyền cấp phép, hoặc cả hai.
+
+Tới cuối thế kỷ 18, kinh tế học đã phát triển đủ để ngày càng nhiều người hiểu tác hại của điều này với xã hội, và áp lực ngược chiều xuất hiện nhằm giải phóng nền kinh tế khỏi độc quyền và sự kiểm soát của nhà nước. Vì vậy độc quyền đã hiếm hơn nhiều, ít nhất ở cấp quốc gia. Nhưng hạn chế cạnh tranh vẫn phổ biến ở nhiều thành phố, nơi luật cấp phép giới hạn số taxi được hoạt động, khiến giá cước cao giả tạo và khó gọi xe hơn so với thị trường tự do.
 
 Tổn thất ở đây cũng không chỉ thuộc về từng người đi taxi. Cả nền kinh tế mất khi những người hoàn toàn sẵn lòng lái taxi với giá khách chịu trả bị ngăn lại vì số giấy phép bị hạn chế giả tạo, và phải làm việc khác kém giá trị hơn hoặc thất nghiệp. Sowell lập luận rằng nếu công việc khác của họ có giá trị cao hơn và được trả tương xứng, họ đã chẳng muốn lái taxi ngay từ đầu.
 
@@ -610,17 +629,25 @@ Nhìn từ cả nền kinh tế, giá độc quyền nghĩa là người tiêu d
 
 **Cartel.** Các nguyên lý tương tự áp dụng cho cartel, tức nhóm doanh nghiệp thoả thuận với nhau đặt giá cao hơn hoặc tránh cạnh tranh nhau. Về lý thuyết, cartel có thể hoạt động chung như một doanh nghiệp độc quyền. Trong thực tế, các thành viên thường lén lừa nhau, hạ giá cartel cho một số khách để giành khách của thành viên khác. Khi việc này lan rộng, cartel trở nên vô nghĩa, dù nó có chính thức giải thể hay không.
 
-Ngành đường sắt Mỹ thế kỷ 19 là ví dụ. Giữa các thành phố lớn như Chicago và New York thường có nhiều tuyến cạnh tranh, gọi là tuyến trục (trunk lines), khác với tuyến nhánh (branch lines) nối tuyến trục với các cộng đồng nhỏ, nơi thường chỉ có một hãng phục vụ. Kết quả là giá độc quyền trên tuyến nhánh và giá cạnh tranh tới mức chở hàng đường xa trên tuyến trục thường rẻ hơn chở đường ngắn trên tuyến nhánh. Quan trọng hơn với các hãng, giá trên tuyến trục thấp tới mức đe doạ lợi nhuận, nên họ lập cartel. Nhưng, theo một nguồn Sowell dẫn, các cartel này liên tục đổ vỡ: chi phí đưa một đoàn tàu từ nơi này tới nơi khác phần lớn không phụ thuộc vào lượng hàng chở, nên vượt điểm hoà vốn thì mỗi tấn hàng thêm gần như là lợi nhuận thuần. Sớm muộn, cám dỗ giảm giá ngầm cho chủ hàng để giành lượng hàng "có lãi ở bất kỳ giá nào" trở nên không cưỡng nổi; khi việc giảm giá ngầm bắt đầu, chiến tranh giá theo sau và cartel sụp đổ. Các hãng tàu hơi nước đã thử lập cartel trước các hãng đường sắt và cũng thất bại vì lý do tương tự, như nhiều cartel khác về sau.
+Ngành đường sắt Mỹ thế kỷ 19 là ví dụ. Giữa các thành phố lớn như Chicago và New York thường có nhiều tuyến cạnh tranh, gọi là tuyến trục (trunk lines), khác với tuyến nhánh (branch lines) nối tuyến trục với các cộng đồng nhỏ, nơi thường chỉ có một hãng phục vụ. Kết quả là giá độc quyền trên tuyến nhánh và giá cạnh tranh tới mức chở hàng đường xa trên tuyến trục thường rẻ hơn chở đường ngắn trên tuyến nhánh.
+
+Quan trọng hơn với các hãng, giá trên tuyến trục thấp tới mức đe doạ lợi nhuận, nên họ lập cartel. Nhưng, theo một nguồn Sowell dẫn, các cartel này liên tục đổ vỡ: chi phí đưa một đoàn tàu từ nơi này tới nơi khác phần lớn không phụ thuộc vào lượng hàng chở, nên vượt điểm hoà vốn thì mỗi tấn hàng thêm gần như là lợi nhuận thuần. Sớm muộn, cám dỗ giảm giá ngầm cho chủ hàng để giành lượng hàng "có lãi ở bất kỳ giá nào" trở nên không cưỡng nổi; khi việc giảm giá ngầm bắt đầu, chiến tranh giá theo sau và cartel sụp đổ. Các hãng tàu hơi nước đã thử lập cartel trước các hãng đường sắt và cũng thất bại vì lý do tương tự, như nhiều cartel khác về sau.
 
 Một cartel thành công cần ba thứ: thoả thuận giữa các công ty; cách để các thành viên kiểm tra lẫn nhau xem ai cũng tuân thủ; và cách ngăn cạnh tranh từ các công ty ngoài cartel. Tất cả đều nói dễ hơn làm.
 
-**Cartel thép Mỹ.** Một trong những cartel thành công nhất, cartel ngành thép Mỹ, dựa trên một hệ thống định giá giúp các công ty dễ kiểm tra nhau. Chú thích của Sowell mô tả hệ thống này: mọi giá thép ở Mỹ được tính bằng giá thép cố định cộng cước vận chuyển bằng đường sắt từ Pittsburgh, bất kể thép thực ra được sản xuất ở Pittsburgh, Birmingham hay nơi nào khác, và bất kể được chở bằng đường sắt, sà lan hay cách khác. Nếu không có công thức này, từng nhà sản xuất rất dễ giấu việc giảm giá trong cước vận chuyển, vốn lớn và biến động khi chở một mặt hàng nặng như thép từ nhiều nơi bằng nhiều phương tiện, nên khó biết ai đang phá giá thoả thuận. Với công thức chung, ai cũng tính được tổng giá giao hàng (giá cộng cước đường sắt từ Pittsburgh) đúng ra phải là bao nhiêu ở bất kỳ điểm nào trong nước, bất kể thép sản xuất ở đâu hay chở thế nào. Nhưng nhìn từ nền kinh tế, hệ thống này phân bổ sai nguồn lực: người ở gần Birmingham mua thép Pittsburgh hay thép Birmingham đều như nhau, vì đằng nào cũng trả cùng giá cộng cùng cước đường sắt từ Pittsburgh, nên thép bị chở xa hơn nhiều so với trong thị trường tự do cạnh tranh. Hệ thống này cuối cùng bị toà án cấm theo luật chống độc quyền.
+**Cartel thép Mỹ.** Một trong những cartel thành công nhất, cartel ngành thép Mỹ, dựa trên một hệ thống định giá giúp các công ty dễ kiểm tra nhau. Chú thích của Sowell mô tả hệ thống này: mọi giá thép ở Mỹ được tính bằng giá thép cố định cộng cước vận chuyển bằng đường sắt từ Pittsburgh, bất kể thép thực ra được sản xuất ở Pittsburgh, Birmingham hay nơi nào khác, và bất kể được chở bằng đường sắt, sà lan hay cách khác.
+
+Nếu không có công thức này, từng nhà sản xuất rất dễ giấu việc giảm giá trong cước vận chuyển, vốn lớn và biến động khi chở một mặt hàng nặng như thép từ nhiều nơi bằng nhiều phương tiện, nên khó biết ai đang phá giá thoả thuận. Với công thức chung, ai cũng tính được tổng giá giao hàng (giá cộng cước đường sắt từ Pittsburgh) đúng ra phải là bao nhiêu ở bất kỳ điểm nào trong nước, bất kể thép sản xuất ở đâu hay chở thế nào.
+
+Nhưng nhìn từ nền kinh tế, hệ thống này phân bổ sai nguồn lực: người ở gần Birmingham mua thép Pittsburgh hay thép Birmingham đều như nhau, vì đằng nào cũng trả cùng giá cộng cùng cước đường sắt từ Pittsburgh, nên thép bị chở xa hơn nhiều so với trong thị trường tự do cạnh tranh. Hệ thống này cuối cùng bị toà án cấm theo luật chống độc quyền.
 
 ### 7. Phản ứng của chính phủ và của thị trường (Governmental and Market Responses)
 
 Vì một số tổ chức kinh doanh khổng lồ từng được gọi là "trust" (tập đoàn liên kết nhiều công ty dưới một ban uỷ thác chung), luật nhằm cấm độc quyền và cartel được gọi là luật chống độc quyền ("anti-trust laws"). Nhưng luật không phải cách duy nhất để chống độc quyền và cartel. Các doanh nghiệp tư không thuộc cartel có động cơ chống cartel trên thị trường, và họ hành động nhanh hơn nhiều so với số năm chính phủ cần để thắng một vụ kiện chống độc quyền lớn.
 
-Thời hoàng kim của các trust ở Mỹ, Montgomery Ward là một trong những đối thủ lớn nhất của chúng. Dù trust thuộc ngành máy nông nghiệp, xe đạp, đường, đinh hay dây buộc, Montgomery Ward đều tìm nhà sản xuất ngoài trust, mua của họ dưới giá cartel và bán lại cho công chúng thấp hơn giá bán lẻ hàng của thành viên cartel. Là nhà bán lẻ số một nước Mỹ lúc đó, Montgomery Ward còn đủ lớn để tự lập nhà máy sản xuất nếu cần. Sự trỗi dậy sau đó của các nhà bán lẻ khổng lồ khác như Sears và chuỗi tạp hoá A & P cũng đặt các nhà sản xuất lớn trước những tập đoàn có thể tự sản xuất hàng cạnh tranh để bán trong cửa hàng của mình, hoặc mua đủ nhiều từ một doanh nghiệp nhỏ ngoài cartel để giúp nó lớn thành một đối thủ lớn.
+Thời hoàng kim của các trust ở Mỹ, Montgomery Ward là một trong những đối thủ lớn nhất của chúng. Dù trust thuộc ngành máy nông nghiệp, xe đạp, đường, đinh hay dây buộc, Montgomery Ward đều tìm nhà sản xuất ngoài trust, mua của họ dưới giá cartel và bán lại cho công chúng thấp hơn giá bán lẻ hàng của thành viên cartel. Là nhà bán lẻ số một nước Mỹ lúc đó, Montgomery Ward còn đủ lớn để tự lập nhà máy sản xuất nếu cần.
+
+Sự trỗi dậy sau đó của các nhà bán lẻ khổng lồ khác như Sears và chuỗi tạp hoá A & P cũng đặt các nhà sản xuất lớn trước những tập đoàn có thể tự sản xuất hàng cạnh tranh để bán trong cửa hàng của mình, hoặc mua đủ nhiều từ một doanh nghiệp nhỏ ngoài cartel để giúp nó lớn thành một đối thủ lớn.
 
 | Nhà bán lẻ | Cách chống cartel |
 |---|---|
@@ -634,9 +661,13 @@ Sears, Montgomery Ward và A & P đặc biệt ở chỗ có thể cạnh tranh 
 
 Ấn Độ trong phần lớn cuối thế kỷ 20 là ví dụ cực đoan. Chính phủ không chỉ quyết định công ty nào được cấp phép sản xuất sản phẩm nào, mà còn áp hạn mức mỗi công ty được sản xuất bao nhiêu. Một nhà sản xuất xe tay ga bị đưa ra trước một uỷ ban chính phủ vì sản xuất nhiều hơn số được phép. Một nhà sản xuất thuốc cảm lo sợ vì công chúng đã mua "quá nhiều" thuốc của ông trong một đợt dịch cúm ở Ấn Độ; luật sư của công ty mất nhiều tháng chuẩn bị bào chữa cho việc sản xuất và bán vượt hạn mức, phòng khi bị gọi lên cùng uỷ ban. Toàn bộ công việc pháp lý tốn kém đó phải có người trả, và người đó rốt cuộc là người tiêu dùng.
 
-**Rào cản do doanh nghiệp tư dựng lên.** Khi nhà nước không cấm gia nhập ngành, doanh nghiệp tư có thể dùng nhiều mưu mẹo để dựng rào cản giữ lợi nhuận độc quyền. Nhưng các doanh nghiệp khác cũng có động cơ khéo léo không kém để vượt rào. Vì vậy hiệu quả của rào cản gia nhập khác nhau giữa các ngành, và giữa các thời kỳ trong cùng một ngành. Ngành máy tính từng khó gia nhập khi một chiếc máy tính là cỗ máy khổng lồ chiếm hàng nghìn feet khối và chi phí sản xuất cũng khổng lồ. Nhưng vi mạch ra đời giúp máy tính nhỏ hơn làm được cùng công việc, và chip đủ rẻ để các công ty nhỏ hơn sản xuất, kể cả công ty ở khắp thế giới, nên ngay cả một doanh nghiệp độc quyền trong phạm vi một nước cũng không loại trừ được cạnh tranh trong ngành. Dù Mỹ tiên phong tạo ra máy tính, việc sản xuất máy tính nhanh chóng chuyển sang Đông Á, nơi cung cấp phần lớn máy tính cho thị trường Mỹ, kể cả máy mang thương hiệu Mỹ.
+**Rào cản do doanh nghiệp tư dựng lên.** Khi nhà nước không cấm gia nhập ngành, doanh nghiệp tư có thể dùng nhiều mưu mẹo để dựng rào cản giữ lợi nhuận độc quyền. Nhưng các doanh nghiệp khác cũng có động cơ khéo léo không kém để vượt rào. Vì vậy hiệu quả của rào cản gia nhập khác nhau giữa các ngành, và giữa các thời kỳ trong cùng một ngành.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một thành phố giới hạn số giấy phép taxi ở 5.000 xe. Giả sử ở mức cước 15.000 đồng/km, mỗi ngày có nhu cầu cho khoảng 8.000 xe, nhưng chỉ 5.000 xe được chạy, nên cước bị đẩy lên 20.000 đồng/km mà vẫn khó gọi xe giờ cao điểm. Khoản chênh 5.000 đồng/km từ khách sang chủ giấy phép là phân phối lại của cải. Tổn thất thật theo cách Sowell phân tích nằm ở chỗ khác: những chuyến đi mà khách sẵn lòng trả 15.000–19.000 đồng/km (đủ bù chi phí của tài xế) không bao giờ diễn ra, và khoảng 3.000 người sẵn lòng lái xe ở mức cước đó phải làm việc khác kém giá trị hơn hoặc thất nghiệp. Khi dịch vụ gọi xe qua ứng dụng vượt qua rào cản giấy phép, cước giảm, số chuyến tăng, và giá trị của giấy phép taxi giảm, đúng như lập luận "nước tự tìm mức cân bằng khi con đập bị phá".
+Ngành máy tính từng khó gia nhập khi một chiếc máy tính là cỗ máy khổng lồ chiếm hàng nghìn feet khối và chi phí sản xuất cũng khổng lồ. Nhưng vi mạch ra đời giúp máy tính nhỏ hơn làm được cùng công việc, và chip đủ rẻ để các công ty nhỏ hơn sản xuất, kể cả công ty ở khắp thế giới, nên ngay cả một doanh nghiệp độc quyền trong phạm vi một nước cũng không loại trừ được cạnh tranh trong ngành. Dù Mỹ tiên phong tạo ra máy tính, việc sản xuất máy tính nhanh chóng chuyển sang Đông Á, nơi cung cấp phần lớn máy tính cho thị trường Mỹ, kể cả máy mang thương hiệu Mỹ.
+
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một thành phố giới hạn số giấy phép taxi ở 5.000 xe. Giả sử ở mức cước 15.000 đồng/km, mỗi ngày có nhu cầu cho khoảng 8.000 xe, nhưng chỉ 5.000 xe được chạy, nên cước bị đẩy lên 20.000 đồng/km mà vẫn khó gọi xe giờ cao điểm. Khoản chênh 5.000 đồng/km từ khách sang chủ giấy phép là phân phối lại của cải.
+
+Tổn thất thật theo cách Sowell phân tích nằm ở chỗ khác: những chuyến đi mà khách sẵn lòng trả 15.000–19.000 đồng/km (đủ bù chi phí của tài xế) không bao giờ diễn ra, và khoảng 3.000 người sẵn lòng lái xe ở mức cước đó phải làm việc khác kém giá trị hơn hoặc thất nghiệp. Khi dịch vụ gọi xe qua ứng dụng vượt qua rào cản giấy phép, cước giảm, số chuyến tăng, và giá trị của giấy phép taxi giảm, đúng như lập luận "nước tự tìm mức cân bằng khi con đập bị phá".
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -749,7 +780,9 @@ Quy mô lớn tự nó không phải vấn đề: hình thức công ty cổ ph�
 
 ### Sức mạnh của chương là tách rõ phần "chuyển tiền" khỏi phần "mất của cải" trong tác hại của độc quyền
 
-Phần lớn tranh luận công khai về độc quyền xoay quanh việc doanh nghiệp "hút tiền" người tiêu dùng. Sowell chỉ ra rằng phần đó chỉ là phân phối lại; thứ làm cả xã hội nghèo đi là những giao dịch không diễn ra, và nguồn lực bị đẩy sang công dụng kém giá trị hơn. Đây là đúng ý tưởng tổn thất vô ích của kinh tế học vi mô, được trình bày không cần đồ thị qua ví dụ nước táo, taxi và cartel thép (thép bị chở xa vô ích). Điểm tinh tế thứ hai cũng đáng nhớ: doanh nghiệp độc quyền không "chủ động hạn chế sản lượng" mà chính người mua tự mua ít đi vì giá cao. Sự phân biệt này giúp người đọc hiểu vì sao chính sách tốt nên nhắm vào việc khôi phục cạnh tranh hơn là chỉ đánh vào lợi nhuận.
+Phần lớn tranh luận công khai về độc quyền xoay quanh việc doanh nghiệp "hút tiền" người tiêu dùng. Sowell chỉ ra rằng phần đó chỉ là phân phối lại; thứ làm cả xã hội nghèo đi là những giao dịch không diễn ra, và nguồn lực bị đẩy sang công dụng kém giá trị hơn. Đây là đúng ý tưởng tổn thất vô ích của kinh tế học vi mô, được trình bày không cần đồ thị qua ví dụ nước táo, taxi và cartel thép (thép bị chở xa vô ích).
+
+Điểm tinh tế thứ hai cũng đáng nhớ: doanh nghiệp độc quyền không "chủ động hạn chế sản lượng" mà chính người mua tự mua ít đi vì giá cao. Sự phân biệt này giúp người đọc hiểu vì sao chính sách tốt nên nhắm vào việc khôi phục cạnh tranh hơn là chỉ đánh vào lợi nhuận.
 
 ### So sánh Anh với các nước khác là bằng chứng yếu cho một kết luận mạnh
 
@@ -757,11 +790,15 @@ Sowell dùng số công ty Anh trong 30 công ty lớn nhất thế giới để
 
 ### Lập luận về lương CEO dựa trên một phép so sánh hay, nhưng bỏ qua phần tranh cãi còn lại
 
-Việc các công ty do một số ít tổ chức tài chính lớn sở hữu (người tổng hợp hiểu là chủ yếu các công ty được quỹ đầu tư tư nhân mua lại; Sowell không nói rõ) trả lương CEO cao nhất là bằng chứng tốt rằng lương cao không chỉ do hội đồng quản trị cẩu thả. Tuy nhiên, các công ty này thường trả lương chủ yếu bằng cổ phần gắn chặt với kết quả, trong khi lời chỉ trích ở công ty đại chúng thường nhắm vào việc lương không gắn với kết quả (ví dụ thưởng vẫn cao khi giá cổ phiếu giảm, hay gói chia tay được thiết kế sẵn từ trước). Phép so sánh ly hôn với chiếc dù vàng hợp lý cho lý do trả tiền để chấm dứt nhanh, nhưng không trả lời câu hỏi vì sao khoản đó phải lớn tới vậy và được hứa trước khi có thất bại.
+Việc các công ty do một số ít tổ chức tài chính lớn sở hữu (người tổng hợp hiểu là chủ yếu các công ty được quỹ đầu tư tư nhân mua lại; Sowell không nói rõ) trả lương CEO cao nhất là bằng chứng tốt rằng lương cao không chỉ do hội đồng quản trị cẩu thả.
+
+Tuy nhiên, các công ty này thường trả lương chủ yếu bằng cổ phần gắn chặt với kết quả, trong khi lời chỉ trích ở công ty đại chúng thường nhắm vào việc lương không gắn với kết quả (ví dụ thưởng vẫn cao khi giá cổ phiếu giảm, hay gói chia tay được thiết kế sẵn từ trước). Phép so sánh ly hôn với chiếc dù vàng hợp lý cho lý do trả tiền để chấm dứt nhanh, nhưng không trả lời câu hỏi vì sao khoản đó phải lớn tới vậy và được hứa trước khi có thất bại.
 
 ### Từ 2014, một số ví dụ của chương thay đổi theo hướng xác nhận lập luận, một số theo hướng thách thức
 
-Nói định tính: các nhà bán lẻ mà Sowell ca ngợi như lực chống cartel (Sears, A & P) đã phá sản, đúng tinh thần Chương 5 về sự trỗi dậy và suy tàn của doanh nghiệp. Giấy phép taxi mất nhiều giá trị khi dịch vụ gọi xe qua ứng dụng xuất hiện, minh hoạ đúng ý "con đập bị phá thì nước tìm mức cân bằng". Ngược lại, thập niên sau đó chứng kiến các nền tảng công nghệ lớn (tìm kiếm, mạng xã hội, thương mại điện tử) chiếm thị phần rất cao và bền, nhờ hiệu ứng mạng chứ không nhờ giấy phép nhà nước. Điều này đặt câu hỏi cho kết luận rằng độc quyền khó tồn tại nếu không có luật che chắn; nhiều nhà kinh tế nay cho rằng rào cản gia nhập tư nhân (dữ liệu, hiệu ứng mạng, chi phí chuyển đổi) có thể bền hơn Sowell giả định.
+Nói định tính: các nhà bán lẻ mà Sowell ca ngợi như lực chống cartel (Sears, A & P) đã phá sản, đúng tinh thần Chương 5 về sự trỗi dậy và suy tàn của doanh nghiệp. Giấy phép taxi mất nhiều giá trị khi dịch vụ gọi xe qua ứng dụng xuất hiện, minh hoạ đúng ý "con đập bị phá thì nước tìm mức cân bằng".
+
+Ngược lại, thập niên sau đó chứng kiến các nền tảng công nghệ lớn (tìm kiếm, mạng xã hội, thương mại điện tử) chiếm thị phần rất cao và bền, nhờ hiệu ứng mạng chứ không nhờ giấy phép nhà nước. Điều này đặt câu hỏi cho kết luận rằng độc quyền khó tồn tại nếu không có luật che chắn; nhiều nhà kinh tế nay cho rằng rào cản gia nhập tư nhân (dữ liệu, hiệu ứng mạng, chi phí chuyển đổi) có thể bền hơn Sowell giả định.
 
 ### Quan điểm trái chiều: trách nhiệm hữu hạn có cái giá mà chương chỉ nhắc qua
 
@@ -773,3 +810,144 @@ Sowell nói chủ nợ được báo trước qua chữ "Ltd." hay "Inc." và c�
 - **Trong đầu tư.** Phân biệt công ty lớn về doanh thu với công ty có sức mạnh định giá thật. Một ngành có lợi nhuận cao nhưng không có rào cản gia nhập sẽ bị vốn mới tràn vào và ép lợi nhuận xuống; một cartel hay thoả thuận giá giữa các doanh nghiệp (kể cả giữa các nước như các tổ chức xuất khẩu hàng hoá) dễ vỡ khi một thành viên có lợi từ việc lén tăng sản lượng. Khi đánh giá quản trị công ty, xem cơ chế giám sát thực tế (cổ đông lớn có chuyên môn, khả năng bị thâu tóm, cạnh tranh) hơn là chỉ đếm quyền biểu quyết của cổ đông nhỏ.
 - **Trong nghề nghiệp.** Thù lao rất cao của một số vị trí lãnh đạo phản ánh cái giá của quyết định sai ở quy mô lớn. Với người lao động, ví dụ taxi cho thấy rào cản gia nhập nghề có thể bảo vệ thu nhập người đang trong nghề nhưng cũng có thể biến mất nhanh khi công nghệ đi vòng qua nó; đầu tư vào kỹ năng an toàn hơn dựa vào giấy phép.
 - **Khi đọc tin chính sách.** Khi báo chí nói về một "doanh nghiệp lớn" hay "thống lĩnh thị trường", câu hỏi đầu tiên là nó lớn tuyệt đối hay chiếm thị phần cao, và có rào cản nào (nhất là giấy phép, điều kiện kinh doanh, hạn ngạch) ngăn đối thủ mới. Ở Việt Nam, các tranh luận quanh điều kiện kinh doanh, "giấy phép con" và việc taxi truyền thống cạnh tranh với xe công nghệ là ví dụ trực tiếp cho lập luận của chương: điều đáng xem không chỉ là doanh nghiệp hiện có thu bao nhiêu, mà là có bao nhiêu người sẵn lòng phục vụ khách với giá thấp hơn nhưng bị chặn lại.
+
+## Bản đồ tư duy
+
+Toàn cảnh chương trên một trang: sáu nhánh theo các mục 1–7 của Nội dung chi tiết. Lần lượt là hai nghĩa của chữ "lớn", công ty cổ phần và trách nhiệm hữu hạn, quản trị công ty cùng thù lao CEO, tác hại thật của độc quyền, sự đổ vỡ của cartel, và các lực chống độc quyền cùng rào cản gia nhập. Nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 7: quy mô lớn tự nó không phải vấn đề, thiếu cạnh tranh mới là vấn đề`"]
+  n1["`Mục 1 — #quot;Lớn#quot; có hai nghĩa với hệ quả kinh tế khác nhau`"]
+  n0 --- n1
+  n2["`Lớn tuyệt đối: Wal-Mart, doanh nghiệp lớn nhất Mỹ, chỉ chiếm phần khiêm tốn ngành bán lẻ`"]
+  n1 --- n2
+  n3["`Lớn so với thị trường: Microsoft chiếm phần lớn doanh số hệ điều hành máy tính cá nhân`"]
+  n1 --- n3
+  n4["`Cửa hàng tạp hoá duy nhất ở làng hẻo lánh: rất nhỏ nhưng độc quyền`"]
+  n1 --- n4
+  n5["`Safeway, Kroger hàng tỷ USD nhưng quá nhiều đối thủ để định giá độc quyền`"]
+  n1 --- n5
+  n6["`Câu đề từ Bastiat: cạnh tranh luôn gây phiền toái cho ai phải đối mặt với nó`"]
+  n1 --- n6
+  n7["`Mục 2 — Trách nhiệm hữu hạn cho phép huy động vốn của hàng triệu người`"]
+  n0 --- n7
+  n8["`Công ty cổ phần có tư cách pháp lý riêng, cổ đông không chịu nợ công ty bằng tài sản riêng`"]
+  n7 --- n8
+  n9["`Không đủ người giàu để dựng công ty doanh thu hàng tỷ USD, cần vốn đông đảo`"]
+  n7 --- n9
+  n10["`Khoảng một nửa dân Mỹ đầu tư vào cổ phiếu, trực tiếp hoặc qua quỹ hưu trí`"]
+  n7 --- n10
+  n11["`Chiến tranh thế giới thứ nhất: chủ ngân hàng rút khỏi tổ chức cứu đói của Hoover vì không có trách nhiệm hữu hạn`"]
+  n7 --- n11
+  n12["`Lợi thế quy mô hạ giá, nâng mức sống, kể cả cho người không có cổ phiếu`"]
+  n7 --- n12
+  n13["`Chủ nợ được báo trước bằng chữ Ltd. hay Inc. để tính lãi theo rủi ro`"]
+  n7 --- n13
+  n14["`Harvard Corporation thế kỷ 17 là công ty cổ phần đầu tiên ở Mỹ, không phải doanh nghiệp`"]
+  n7 --- n14
+  n15["`Mục 3–4 — Các chỉ trích công ty cổ phần phần lớn không đứng vững trước số liệu`"]
+  n0 --- n15
+  n16["`Tách sở hữu khỏi điều hành: cổ đông muốn lợi tức mà không đau đầu điều hành`"]
+  n15 --- n16
+  n17["`Gian lận có ở mọi tổ chức: chính phủ, Liên Hợp Quốc, tổ chức từ thiện`"]
+  n15 --- n17
+  n18["`Giám sát: pháp luật lo trung thực, cạnh tranh và mối đe doạ thâu tóm lo hiệu quả`"]
+  n15 --- n18
+  n19["`Quỹ tương hỗ phản đối tăng quyền cổ đông can thiệp vào lương CEO`"]
+  n15 --- n19
+  n20["`Anh trao nhiều quyền nhất cho cổ đông nhưng chỉ có 1 trong 30 công ty lớn nhất thế giới, Mỹ có 13`"]
+  n15 --- n20
+  n21["`Lương CEO trung bình năm 2010 là 10 triệu USD, thấp hơn nhiều vận động viên, nghệ sĩ`"]
+  n15 --- n21
+  n22["`Công ty do tổ chức tài chính dùng tiền của mình sở hữu trả lương CEO cao nhất`"]
+  n15 --- n22
+  n23["`Chiếc dù vàng rẻ hơn giữ một CEO thất bại có thể làm mất hàng tỷ USD`"]
+  n15 --- n23
+  n24["`Mục 5–6 — Tác hại thật của độc quyền là phân bổ sai nguồn lực`"]
+  n0 --- n24
+  n25["`Độc quyền: một người bán. Độc quyền nhóm: vài người bán hợp tác. Cartel: tổ chức ấn định giá, sản lượng`"]
+  n24 --- n25
+  n26["`Alcoa sản xuất toàn bộ nhôm thỏi nguyên sinh ở Mỹ khoảng nửa thế kỷ trước Chiến tranh thế giới thứ hai`"]
+  n24 --- n26
+  n27["`Nước táo cạnh tranh: lợi nhuận cao hút vốn vào, ép giá xuống mức vừa bù chi phí`"]
+  n24 --- n27
+  n28["`Người mua không cần biết chi phí sản xuất, cạnh tranh làm việc đó thay họ`"]
+  n24 --- n28
+  n29["`Tiền chuyển từ người mua sang độc quyền chỉ là phân phối lại, không giảm tổng của cải`"]
+  n24 --- n29
+  n30["`Giá cao → người mua mua ít → nguồn lực sang công dụng kém giá trị → xã hội nghèo đi`"]
+  n24 --- n30
+  n31["`Độc quyền không chủ ý hạn chế sản lượng, chính người mua tự mua ít vì giá cao`"]
+  n24 --- n31
+  n32["`Giấy phép taxi hạn chế: cước cao giả tạo, người muốn lái xe phải làm việc kém giá trị hơn`"]
+  n24 --- n32
+  n33["`Mục 6 — Cartel tự đổ vỡ vì thành viên lén phá giá`"]
+  n0 --- n33
+  n34["`Đường sắt Mỹ thế kỷ 19: chở xa trên tuyến trục rẻ hơn chở gần trên tuyến nhánh độc quyền`"]
+  n33 --- n34
+  n35["`Chi phí chạy tàu gần như không đổi theo lượng hàng nên giảm giá ngầm, chiến tranh giá, cartel sụp`"]
+  n33 --- n35
+  n36["`Cartel thành công cần thoả thuận, cách kiểm tra lẫn nhau, cách chặn người ngoài`"]
+  n33 --- n36
+  n37["`Cartel thép: giá cố định cộng cước đường sắt từ Pittsburgh để dễ bắt người phá giá`"]
+  n33 --- n37
+  n38["`Hệ quả: thép bị chở xa vô ích, phân bổ sai nguồn lực, cuối cùng bị toà cấm`"]
+  n33 --- n38
+  n39["`Mục 7 — Thị trường tự chống cartel, chỉ rào cản gia nhập giữ được lợi nhuận độc quyền`"]
+  n0 --- n39
+  n40["`Doanh nghiệp tư chống cartel nhanh hơn nhiều năm kiện tụng chống độc quyền`"]
+  n39 --- n40
+  n41["`Montgomery Ward mua hàng ngoài trust dưới giá cartel, bán lẻ rẻ hơn`"]
+  n39 --- n41
+  n42["`Sears tự sản xuất bếp lò, giày, súng. A #amp; P nướng nửa tỷ ổ bánh mì mỗi năm`"]
+  n39 --- n42
+  n43["`Lợi nhuận trên mức bình thường hút đối thủ vào, nên độc quyền phải chặn gia nhập`"]
+  n39 --- n43
+  n44["`Rào cản do nhà nước: giấy phép hàng không, vận tải, tết tóc giữ giá cao giả tạo`"]
+  n39 --- n44
+  n45["`Ấn Độ cuối thế kỷ 20: nhà sản xuất xe tay ga bị gọi lên uỷ ban vì vượt hạn mức`"]
+  n39 --- n45
+  n46["`Rào cản tư nhân bị vượt: vi mạch đưa sản xuất máy tính sang Đông Á`"]
+  n39 --- n46
+  n47["`Thông điệp xuyên suốt`"]
+  n0 --- n47
+  n48["`Hỏi doanh nghiệp lớn theo nghĩa nào trước khi lo về quy mô`"]
+  n47 --- n48
+  n49["`Xét hệ quả lên phân bổ nguồn lực, không chỉ ai được thêm tiền`"]
+  n47 --- n49
+  n50["`Độc quyền bền nhất là độc quyền do luật pháp che chắn, như con đập chặn nước`"]
+  n47 --- n50
+  n51["`So công ty cổ phần với thể chế thay thế thực tế, không với hình mẫu lý tưởng`"]
+  n47 --- n51
+  class n0 root
+  class n1,n7,n15,n24,n33,n39,n47 branch
+  class n2,n3,n4,n5,n6,n8,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần II "Industry and Commerce", Chương 7.
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 5 kể chuyện các doanh nghiệp lớn lên rồi suy tàn (A & P, Sears, Montgomery Ward), Chương 6 giải thích vai trò của lợi nhuận và thua lỗ, trong đó có lợi thế kinh tế theo quy mô (economies of scale) và bất lợi kinh tế theo quy mô (diseconomies of scale), hai lực cùng quyết định một doanh nghiệp trong một ngành nên lớn tới đâu.
+
+Chương 7 đi tiếp sang những đặc điểm riêng của doanh nghiệp lớn: hình thức công ty cổ phần với trách nhiệm hữu hạn, việc tách quyền sở hữu khỏi việc điều hành, thù lao của giám đốc điều hành, và trường hợp đặc biệt khi một doanh nghiệp (hay một nhóm doanh nghiệp) chiếm lĩnh thị trường, tức độc quyền và cartel.
+
+Chương 8 ngay sau đó bàn về cách chính phủ phản ứng với độc quyền và cartel bằng điều tiết giá và luật chống độc quyền (anti-trust laws); phần cuối Chương 7 đã mở đầu chủ đề này khi giải thích tên gọi "anti-trust" và so sánh phản ứng của chính phủ với phản ứng của thị trường.
+
+## Lưu ý
+
+- Sách viết khoảng 2013–2014. Số liệu thù lao giám đốc điều hành (trung bình 10 triệu USD/năm) là của năm 2010; danh sách 30 công ty lớn nhất thế giới theo tạp chí *The Economist* cũng là số liệu từ thời điểm đó.
+- Một số chi tiết đã thay đổi: Wal-Mart đổi tên pháp lý thành Walmart vào năm 2018; chuỗi siêu thị A & P đã phá sản và thanh lý vào năm 2015, Sears nộp đơn phá sản năm 2018 (Montgomery Ward thì đã đóng cửa từ trước khi sách ra đời; Sowell nói về thời hoàng kim của nó); giấy phép taxi ở các thành phố Mỹ mất nhiều giá trị khi các dịch vụ gọi xe qua ứng dụng xuất hiện, đúng hướng Sowell dự đoán khi rào cản gia nhập bị vượt qua.
+- Chương có 1 chú thích chân trang của Sowell (dấu `{xviii}`, về hệ thống định giá thép "Pittsburgh cộng cước vận chuyển"), đã đưa vào Sơ đồ phần tiểu mục "Monopoly Prices vs. Competitive Prices" và vào mục 6 của Nội dung chi tiết.
+- Các câu trích là bản dịch của người tổng hợp.

@@ -1,11 +1,18 @@
 # Chương 13 — Đầu tư (Investment)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần IV "Time and Risk", Chương 13.
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
-**Vị trí trong lập luận của cả cuốn sách:** Phần III (Chương 10 đến 12) bàn về lao động và tiền lương, trong đó Chương 10 đã giới thiệu ý tưởng rằng năng suất, và do đó tiền lương, phụ thuộc vào vốn con người mà người lao động tích luỹ được. Chương 13 mở đầu Phần IV "Thời gian và rủi ro" (Time and Risk): từ đây Sowell đưa thêm chiều thời gian vào phân tích giá cả của Phần I. Đầu tư là hy sinh thứ có thật hôm nay để có nhiều hơn trong tương lai; vì tương lai không biết trước nên đầu tư luôn đi kèm rủi ro. Chương này giới thiệu các công cụ mà nền kinh tế dùng để xử lý thời gian và rủi ro: lãi suất như một mức giá, đầu cơ, hàng tồn kho và giá trị hiện tại. Phần về trần lãi suất áp dụng lại logic kiểm soát giá ở Chương 3. Chương 14 sẽ đi tiếp vào cổ phiếu, trái phiếu và bảo hiểm (chương này đã nhắc trước rằng đầu cơ, bảo hiểm, cổ phiếu và trái phiếu là các cách xử lý rủi ro), và Chương 15 bàn các vấn đề đặc biệt của thời gian và rủi ro.
-**Ý chính:** Sowell muốn người đọc hiểu rằng đầu tư, xét cho cùng, không phải là một giao dịch tiền bạc mà là việc **hy sinh hàng hoá, dịch vụ và thời gian có thật ở hiện tại để có nhiều hơn trong tương lai**, và khoản đền đáp cho đầu tư (cổ tức, lãi, lợi nhuận của nhà đầu cơ) là cái giá cần thiết để sự hy sinh và rủi ro đó tiếp tục được thực hiện, chứ không phải thu nhập "không làm mà có". Ví dụ trung tâm là giai thoại người hoạ sĩ vỉa hè ở Greenwich Village: bức phác hoạ chân dung giá 100 USD vẽ trong năm phút, nhưng theo người hoạ sĩ thì nó mất "hai mươi năm và năm phút". Từ đó Sowell giải thích vì sao vốn con người không đồng nghĩa với số năm đi học, vì sao các nước nghèo dù giàu tài nguyên vẫn nghèo khi thiếu trung gian tài chính, vì sao khoản vay ngắn hạn cho người thu nhập thấp có "lãi suất năm" rất cao, vì sao đầu cơ là ngược lại với cờ bạc, và vì sao những dự báo "sắp cạn dầu" liên tục sai.
+## Ý chính
 
-> **Lưu ý:** Ấn bản thứ năm được viết khoảng 2013–2014, nhưng nhiều số liệu trong chương cũ hơn: Ấn Độ cải cách năm 1991, tài sản của các định chế tài chính năm 2009, ngân hàng Ba Lan và Bulgaria năm 2005, nông dân Ấn Độ dùng mạng năm 2003, giá bạc 1979–1980, khủng hoảng điện California 2001, dầu mỏ đến khoảng 2011. Một số điều đã thay đổi từ đó: Amazon, ví dụ của Sowell về cổ phiếu tăng giá nhiều năm trước khi công ty có lãi, nay là một trong những công ty có lợi nhuận lớn nhất thế giới; nhờ dầu đá phiến, Mỹ đã trở thành nước sản xuất dầu lớn nhất thế giới vào cuối thập niên 2010, củng cố lập luận của Sowell về trữ lượng đã biết; đại dịch COVID-19 (2020–2022) làm gián đoạn chuỗi cung ứng, nhất là chip bán dẫn, và lặp lại trên quy mô lớn hơn bài học về sản xuất gần như không tồn kho của các hãng xe Nhật; ở Ba Lan, việc dùng tài khoản ngân hàng và thanh toán bằng thẻ đã tăng mạnh. Chương này không có chú thích chân trang nội dung (phần chú thích dạng chữ số La Mã ở cuối text gốc trống); các chú thích nguồn dạng số đã được bỏ qua theo quy ước. Sowell có một chỗ nói chung chung về vụ cá cược Simon–Ehrlich (không nêu năm và tên năm kim loại); bản tổng hợp bổ sung các chi tiết đã biết rõ ở phần Đánh giá. Các câu trích là bản dịch của người tổng hợp.
+Sowell muốn người đọc hiểu rằng đầu tư, xét cho cùng, không phải là một giao dịch tiền bạc mà là việc **hy sinh hàng hoá, dịch vụ và thời gian có thật ở hiện tại để có nhiều hơn trong tương lai**, và khoản đền đáp cho đầu tư (cổ tức, lãi, lợi nhuận của nhà đầu cơ) là cái giá cần thiết để sự hy sinh và rủi ro đó tiếp tục được thực hiện, chứ không phải thu nhập "không làm mà có".
+
+Ví dụ trung tâm là giai thoại người hoạ sĩ vỉa hè ở Greenwich Village: bức phác hoạ chân dung giá 100 USD vẽ trong năm phút, nhưng theo người hoạ sĩ thì nó mất "hai mươi năm và năm phút".
+
+Từ đó Sowell giải thích:
+
+- vì sao vốn con người không đồng nghĩa với số năm đi học,
+- vì sao các nước nghèo dù giàu tài nguyên vẫn nghèo khi thiếu trung gian tài chính,
+- vì sao khoản vay ngắn hạn cho người thu nhập thấp có "lãi suất năm" rất cao,
+- vì sao đầu cơ là ngược lại với cờ bạc,
+- và vì sao những dự báo "sắp cạn dầu" liên tục sai.
 
 ## Sơ đồ
 
@@ -646,7 +653,9 @@ Từ đó Sowell định nghĩa đầu tư. Nhiều người nghĩ đầu tư ch
 
 Vì không ai biết trước tương lai, đầu tư luôn kèm rủi ro, và rủi ro phải được đền bù thì đầu tư mới tiếp tục. Chi phí nuôi sống một người trong lúc chờ tài năng hội hoạ chín muồi, chờ việc thăm dò dầu tìm ra chỗ khoan được, hay chờ tích đủ tín chỉ để lấy bằng đều là đầu tư cần được hoàn lại.
 
-Sowell nhấn mạnh việc hoàn lại khoản đầu tư là chuyện kinh tế, không phải chuyện đạo đức. Nếu lợi suất không đủ, sẽ có ít người đầu tư kiểu đó hơn, và người tiêu dùng tương lai mất những hàng hoá, dịch vụ lẽ ra đã được làm ra. Không ai có nghĩa vụ làm cho mọi khoản đầu tư đều có lãi; bao nhiêu khoản có lãi và lãi bao nhiêu do người tiêu dùng quyết định qua mức độ họ coi trọng sản phẩm của khoản đầu tư đó. Khi người tiêu dùng không coi trọng thứ được làm ra, khoản đầu tư không nên có lãi. Người cố học chuyên một ngành ít ai cần đã lãng phí nguồn lực khan hiếm lẽ ra làm ra được thứ khác mà người khác muốn; lương thấp và ít cơ hội việc làm là tín hiệu rõ ràng bảo họ, và những người đi sau, dừng loại đầu tư ấy.
+Sowell nhấn mạnh việc hoàn lại khoản đầu tư là chuyện kinh tế, không phải chuyện đạo đức. Nếu lợi suất không đủ, sẽ có ít người đầu tư kiểu đó hơn, và người tiêu dùng tương lai mất những hàng hoá, dịch vụ lẽ ra đã được làm ra. Không ai có nghĩa vụ làm cho mọi khoản đầu tư đều có lãi; bao nhiêu khoản có lãi và lãi bao nhiêu do người tiêu dùng quyết định qua mức độ họ coi trọng sản phẩm của khoản đầu tư đó.
+
+Khi người tiêu dùng không coi trọng thứ được làm ra, khoản đầu tư không nên có lãi. Người cố học chuyên một ngành ít ai cần đã lãng phí nguồn lực khan hiếm lẽ ra làm ra được thứ khác mà người khác muốn; lương thấp và ít cơ hội việc làm là tín hiệu rõ ràng bảo họ, và những người đi sau, dừng loại đầu tư ấy.
 
 Nguyên lý đầu tư có cả trong những việc không qua thị trường. Cất đồ sau khi dùng là bỏ thời gian bây giờ để đỡ mất thời gian tìm về sau. Giải thích cho người khác hiểu mình có thể tốn thời gian và khó chịu, nhưng người ta làm như một khoản đầu tư để tránh những hiểu lầm gây buồn phiền lớn hơn sau này.
 
@@ -654,7 +663,9 @@ Nguyên lý đầu tư có cả trong những việc không qua thị trường.
 
 Đầu tư có nhiều dạng: vào con người, vào nhà máy thép hay đường dây tải điện. Rủi ro gắn liền với tất cả, và các cách xử lý rủi ro gồm đầu cơ, bảo hiểm, phát hành cổ phiếu và trái phiếu.
 
-Vốn con người có nhiều dạng, nhưng nhiều người có xu hướng đồng nhất nó với học vấn chính quy. Theo Sowell, cách nhìn này bỏ sót nhiều dạng vốn con người giá trị khác, phóng đại giá trị của việc đi học, và không thấy rằng trong vài trường hợp việc đi học có tác dụng ngược. Cách mạng Công nghiệp không do người học cao tạo ra mà do người có kinh nghiệm sản xuất thực tế. Máy bay do hai thợ sửa xe đạp chưa từng học đại học phát minh. Điện và vô số phát minh chạy bằng điện trở thành trung tâm của thế giới hiện đại nhờ một người chỉ đi học chính quy ba tháng, Thomas Edison. Tất cả những người này đều có kiến thức và hiểu biết cực kỳ giá trị, tức vốn con người, có được từ kinh nghiệm chứ không phải từ lớp học.
+Vốn con người có nhiều dạng, nhưng nhiều người có xu hướng đồng nhất nó với học vấn chính quy. Theo Sowell, cách nhìn này bỏ sót nhiều dạng vốn con người giá trị khác, phóng đại giá trị của việc đi học, và không thấy rằng trong vài trường hợp việc đi học có tác dụng ngược.
+
+Cách mạng Công nghiệp không do người học cao tạo ra mà do người có kinh nghiệm sản xuất thực tế. Máy bay do hai thợ sửa xe đạp chưa từng học đại học phát minh. Điện và vô số phát minh chạy bằng điện trở thành trung tâm của thế giới hiện đại nhờ một người chỉ đi học chính quy ba tháng, Thomas Edison. Tất cả những người này đều có kiến thức và hiểu biết cực kỳ giá trị, tức vốn con người, có được từ kinh nghiệm chứ không phải từ lớp học.
 
 Giáo dục dĩ nhiên đã đóng góp lớn cho phát triển kinh tế và mức sống, nhưng không phải loại giáo dục nào cũng vậy. Xét về kinh tế, có loại giáo dục giá trị lớn, có loại không có giá trị và có loại thậm chí có giá trị âm. Kỹ năng cụ thể trong y khoa hay kỹ thuật, hay nền tảng chung mà toán học cung cấp cho nhiều nghề, rõ ràng có giá trị lớn; các môn như văn chương không nhằm tạo kỹ năng bán được trên thị trường mà đóng góp theo những cách khác.
 
@@ -680,19 +691,31 @@ Sowell kết luận: đi học nhiều hơn không tự động có nghĩa là t
 
 Khi hàng triệu người bỏ tiền đầu tư, về bản chất họ đang nhịn dùng những hàng hoá, dịch vụ mà họ có tiền mua ngay, với hy vọng nhận lại nhiều tiền hơn, tức nhiều hàng hoá, dịch vụ hơn, trong tương lai. Với cả nền kinh tế, đầu tư có nghĩa là nhiều nguồn lực lẽ ra dùng làm quần áo, đồ đạc hay pizza sẽ được dùng để làm nhà máy, tàu thuỷ hay đập thuỷ điện. Con số bằng tiền cho biết quy mô, nhưng bản thân khoản đầu tư là phần vốn thật tăng thêm của đất nước, dù là vốn vật chất hay vốn con người.
 
-Cá nhân có thể đầu tư trực tiếp, chẳng hạn mua cổ phiếu: đưa tiền cho công ty bây giờ, đổi lấy phần giá trị tăng thêm mà công ty dự kiến tạo ra nhờ dùng tiền hiệu quả. Nhưng phần lớn đầu tư đi qua các định chế như ngân hàng, công ty bảo hiểm, quỹ hưu trí. Năm 2009, các định chế tài chính trên thế giới sở hữu tổng cộng 60.000 tỷ USD tài sản đầu tư, trong đó định chế Mỹ chiếm 45%. Những khoản tiền khổng lồ ấy thường được gom từ những khoản nhỏ của hàng triệu người: cổ đông của các tập đoàn lớn, người gửi tiền tiết kiệm, người lao động đóng đều đặn vào quỹ hưu trí. Vì vậy, số người là chủ sở hữu các tập đoàn lớn đông hơn rất nhiều so với số người tự mua cổ phiếu. Đến cuối thế kỷ 20, hơn một nửa dân số Mỹ sở hữu cổ phiếu, trực tiếp hoặc qua quỹ hưu trí, tài khoản ngân hàng hay các trung gian tài chính khác.
+Cá nhân có thể đầu tư trực tiếp, chẳng hạn mua cổ phiếu: đưa tiền cho công ty bây giờ, đổi lấy phần giá trị tăng thêm mà công ty dự kiến tạo ra nhờ dùng tiền hiệu quả.
+
+Nhưng phần lớn đầu tư đi qua các định chế như ngân hàng, công ty bảo hiểm, quỹ hưu trí. Năm 2009, các định chế tài chính trên thế giới sở hữu tổng cộng 60.000 tỷ USD tài sản đầu tư, trong đó định chế Mỹ chiếm 45%. Những khoản tiền khổng lồ ấy thường được gom từ những khoản nhỏ của hàng triệu người: cổ đông của các tập đoàn lớn, người gửi tiền tiết kiệm, người lao động đóng đều đặn vào quỹ hưu trí. Vì vậy, số người là chủ sở hữu các tập đoàn lớn đông hơn rất nhiều so với số người tự mua cổ phiếu. Đến cuối thế kỷ 20, hơn một nửa dân số Mỹ sở hữu cổ phiếu, trực tiếp hoặc qua quỹ hưu trí, tài khoản ngân hàng hay các trung gian tài chính khác.
 
 Trung gian tài chính cho phép vô số người không quen biết nhau dùng tiền của nhau, qua một định chế chịu trách nhiệm đánh giá rủi ro, phòng ngừa rủi ro, rồi cho cá nhân hay tổ chức vay, hoặc đầu tư vào doanh nghiệp, bất động sản và các dự án khác. Chúng không chỉ gom tiền của nhiều người để tài trợ cho các dự án lớn mà còn giúp mỗi cá nhân phân bổ tiêu dùng của mình qua thời gian. Người vay thực chất dùng trước thu nhập tương lai để mua hôm nay, trả lãi cho sự tiện lợi đó; người tiết kiệm hoãn việc mua sắm và nhận lãi cho sự chờ đợi.
 
 Nhiều người, có lẽ là hầu hết, vừa là con nợ vừa là chủ nợ ở các giai đoạn khác nhau của đời mình. Người trung niên tiết kiệm nhiều hơn người trẻ, không chỉ vì thu nhập cao hơn mà còn vì phải chuẩn bị cho tuổi hưu và chi phí y tế cao hơn khi về già. Ở Mỹ, Canada, Anh, Ý và Nhật, tỷ lệ tiết kiệm cao nhất thuộc nhóm 55–59 tuổi và thấp nhất thuộc nhóm dưới 30 tuổi; cả nhóm dưới 30 tuổi có tiết kiệm ròng bằng 0 ở Canada và âm ở Mỹ. Người tiết kiệm có thể không nghĩ mình là chủ nợ, nhưng tiền họ gửi ngân hàng được ngân hàng cho vay lại, với ngân hàng đứng giữa người tiết kiệm và người vay.
 
-Điều khiến các hoạt động này vượt ra ngoài chuyện tài chính cá nhân là: với cả nền kinh tế, chúng là một cách phân bổ nguồn lực khan hiếm có nhiều công dụng khác nhau, phân bổ qua thời gian cũng như giữa các cá nhân và doanh nghiệp tại một thời điểm. Xây nhà máy, đường sắt hay đập thuỷ điện đòi hỏi lao động, tài nguyên và các yếu tố sản xuất khác lẽ ra làm hàng tiêu dùng hôm nay phải chuyển sang tạo ra một thứ có thể mất nhiều năm mới bắt đầu cho sản phẩm. Nói gọn, xã hội hy sinh hàng hoá, dịch vụ hiện tại để có hàng hoá, dịch vụ tương lai. Chỉ khi hàng hoá tương lai có giá trị lớn hơn hàng hoá hiện tại bị hy sinh, các định chế tài chính mới kiếm được lợi suất đủ để trả cho vô số cá nhân một mức lãi đủ hấp dẫn khiến họ chịu nhịn tiêu dùng và cung cấp tiền tiết kiệm.
+Điều khiến các hoạt động này vượt ra ngoài chuyện tài chính cá nhân là: với cả nền kinh tế, chúng là một cách phân bổ nguồn lực khan hiếm có nhiều công dụng khác nhau, phân bổ qua thời gian cũng như giữa các cá nhân và doanh nghiệp tại một thời điểm.
 
-Cũng như với các thể chế kinh tế khác, cách tốt nhất để thấy vai trò của trung gian tài chính là xem điều gì xảy ra khi chúng không hoạt động được. Một xã hội không có định chế tài chính vận hành tốt có ít cơ hội tạo thêm của cải qua thời gian. Nước nghèo có thể vẫn nghèo dù dồi dào tài nguyên, khi chưa có các định chế tài chính phức tạp cần để huy động khoản tiết kiệm rải rác của vô số người cho những khoản đầu tư lớn biến tài nguyên thành sản phẩm dùng được. Đôi khi chỉ nhà đầu tư từ các nước có sẵn định chế như vậy mới làm được việc này. Có khi lại thiếu cả khung pháp lý với luật lệ đáng tin và quyền tài sản an toàn, khiến cả nhà đầu tư trong nước lẫn nước ngoài đều không hoạt động được.
+Xây nhà máy, đường sắt hay đập thuỷ điện đòi hỏi lao động, tài nguyên và các yếu tố sản xuất khác lẽ ra làm hàng tiêu dùng hôm nay phải chuyển sang tạo ra một thứ có thể mất nhiều năm mới bắt đầu cho sản phẩm. Nói gọn, xã hội hy sinh hàng hoá, dịch vụ hiện tại để có hàng hoá, dịch vụ tương lai. Chỉ khi hàng hoá tương lai có giá trị lớn hơn hàng hoá hiện tại bị hy sinh, các định chế tài chính mới kiếm được lợi suất đủ để trả cho vô số cá nhân một mức lãi đủ hấp dẫn khiến họ chịu nhịn tiêu dùng và cung cấp tiền tiết kiệm.
 
-Định chế tài chính không chỉ chuyển nguồn lực từ người này sang người khác và từ công dụng này sang công dụng khác; chúng còn tạo ra của cải bằng cách ghép tài năng kinh doanh của người thiếu tiền với tiền tiết kiệm của nhiều người khác để lập doanh nghiệp và ngành mới. Nhiều ngành công nghiệp và gia sản lớn của Mỹ bắt đầu từ những doanh nhân có rất ít tiền lúc đầu. Hewlett-Packard khởi đầu như một cơ sở kinh doanh trong một nhà xe thuê bằng tiền vay; Henry Ford, Thomas Edison và Andrew Carnegie cũng khởi đầu khiêm tốn. Việc họ và doanh nghiệp của họ trở nên giàu có chỉ là sản phẩm phụ của việc họ đã tạo ra lượng của cải khổng lồ cho cả nước. Các xã hội nghèo khó đi theo con đường đó khi thiếu định chế tài chính để đưa nguồn lực tới những người có tài kinh doanh nhưng ít hoặc không có tiền.
+Cũng như với các thể chế kinh tế khác, cách tốt nhất để thấy vai trò của trung gian tài chính là xem điều gì xảy ra khi chúng không hoạt động được. Một xã hội không có định chế tài chính vận hành tốt có ít cơ hội tạo thêm của cải qua thời gian.
 
-Các định chế này mất hàng thế kỷ để hình thành ở phương Tây. London thế kỷ 19 là thủ đô tài chính lớn nhất thế giới, nhưng ở những thế kỷ trước, người Anh hiểu biết về tài chính ít đến mức phải phụ thuộc vào người nước ngoài, nhất là người Lombard (thương nhân, chủ ngân hàng từ vùng Lombardy, miền bắc Ý) và người Do Thái, để điều hành định chế tài chính. Vì thế khu tài chính London ngày nay có phố Lombard Street và một phố khác tên là Old Jewry (khu Do Thái cũ). Không chỉ một số nước Thế giới thứ ba mà cả một số nước thuộc khối cộng sản cũ ở Đông Âu chưa xây dựng được các định chế tài chính phức tạp thúc đẩy phát triển: họ có thể đã có chủ nghĩa tư bản, nhưng chưa có định chế huy động vốn ở quy mô như Tây Âu và các nước hậu duệ ở hải ngoại như Mỹ. Vấn đề không phải là các nền kinh tế kém phát triển không có của cải; vấn đề là của cải đó không thể được gom từ vô số nguồn nhỏ, tập trung lại, rồi phân bổ những khoản lớn cho các doanh nhân cụ thể nếu không có định chế đủ sức đánh giá rủi ro, thị trường và lợi suất.
+Nước nghèo có thể vẫn nghèo dù dồi dào tài nguyên, khi chưa có các định chế tài chính phức tạp cần để huy động khoản tiết kiệm rải rác của vô số người cho những khoản đầu tư lớn biến tài nguyên thành sản phẩm dùng được. Đôi khi chỉ nhà đầu tư từ các nước có sẵn định chế như vậy mới làm được việc này. Có khi lại thiếu cả khung pháp lý với luật lệ đáng tin và quyền tài sản an toàn, khiến cả nhà đầu tư trong nước lẫn nước ngoài đều không hoạt động được.
+
+Định chế tài chính không chỉ chuyển nguồn lực từ người này sang người khác và từ công dụng này sang công dụng khác; chúng còn tạo ra của cải bằng cách ghép tài năng kinh doanh của người thiếu tiền với tiền tiết kiệm của nhiều người khác để lập doanh nghiệp và ngành mới.
+
+Nhiều ngành công nghiệp và gia sản lớn của Mỹ bắt đầu từ những doanh nhân có rất ít tiền lúc đầu. Hewlett-Packard khởi đầu như một cơ sở kinh doanh trong một nhà xe thuê bằng tiền vay; Henry Ford, Thomas Edison và Andrew Carnegie cũng khởi đầu khiêm tốn. Việc họ và doanh nghiệp của họ trở nên giàu có chỉ là sản phẩm phụ của việc họ đã tạo ra lượng của cải khổng lồ cho cả nước. Các xã hội nghèo khó đi theo con đường đó khi thiếu định chế tài chính để đưa nguồn lực tới những người có tài kinh doanh nhưng ít hoặc không có tiền.
+
+Các định chế này mất hàng thế kỷ để hình thành ở phương Tây. London thế kỷ 19 là thủ đô tài chính lớn nhất thế giới, nhưng ở những thế kỷ trước, người Anh hiểu biết về tài chính ít đến mức phải phụ thuộc vào người nước ngoài, nhất là người Lombard (thương nhân, chủ ngân hàng từ vùng Lombardy, miền bắc Ý) và người Do Thái, để điều hành định chế tài chính. Vì thế khu tài chính London ngày nay có phố Lombard Street và một phố khác tên là Old Jewry (khu Do Thái cũ).
+
+Không chỉ một số nước Thế giới thứ ba mà cả một số nước thuộc khối cộng sản cũ ở Đông Âu chưa xây dựng được các định chế tài chính phức tạp thúc đẩy phát triển: họ có thể đã có chủ nghĩa tư bản, nhưng chưa có định chế huy động vốn ở quy mô như Tây Âu và các nước hậu duệ ở hải ngoại như Mỹ.
+
+Vấn đề không phải là các nền kinh tế kém phát triển không có của cải; vấn đề là của cải đó không thể được gom từ vô số nguồn nhỏ, tập trung lại, rồi phân bổ những khoản lớn cho các doanh nhân cụ thể nếu không có định chế đủ sức đánh giá rủi ro, thị trường và lợi suất.
 
 Trong những năm gần đây, ngân hàng Mỹ và Tây Âu đã vào Đông Âu để lấp khoảng trống:
 
@@ -703,7 +726,11 @@ Trong những năm gần đây, ngân hàng Mỹ và Tây Âu đã vào Đông �
 | Tỷ lệ người Ba Lan có tài khoản ngân hàng | Khoảng 1/3 |
 | Tỷ lệ giao dịch mua bán ở Ba Lan trả bằng thẻ tín dụng | 2% |
 
-Sự phức tạp của tài chính khiến ít người hiểu nó, và do đó nó dễ bị những người chỉ trích mô tả là mờ ám. Khi người có chuyên môn điều hành các định chế này là người nước ngoài hay thiểu số trong nước, họ càng dễ bị tấn công. Người cho vay tiền hiếm khi được ưa chuộng; những chữ như "Shylock" (nhân vật cho vay nặng lãi trong vở *Người lái buôn thành Venice* của Shakespeare) hay "kẻ đầu cơ" không phải lời khen. Ở nhiều nước và nhiều thời kỳ, nhiều người không suy nghĩ kỹ coi hoạt động tài chính là không "thật sự" đóng góp gì cho nền kinh tế, coi người làm tài chính là ký sinh. Điều này đặc biệt rõ khi phần lớn dân chúng làm lao động chân tay nặng nhọc trong nông nghiệp hay công nghiệp, và nghi ngờ, ghen ghét những người chỉ ngồi xử lý giấy tờ mà không làm ra thứ gì nhìn thấy hay sờ được. Sự thù địch hàng thế kỷ đã nổi lên, và đã được biến thành hành động, nhắm vào các thiểu số đóng vai trò này: người Do Thái ở châu Âu, Hoa kiều ở Đông Nam Á, người Chettiar ở chính Ấn Độ hay ở Miến Điện, Đông Phi, Fiji. Các nhóm này thường bị trục xuất hoặc bị quấy nhiễu đến mức phải bỏ đi, có khi bằng bạo lực đám đông, vì người ta tin họ là ký sinh. Những người mang ngộ nhận đó sau đó thường ngạc nhiên khi thấy hoạt động kinh tế và mức sống đi xuống sau khi các nhóm này ra đi. Theo Sowell, hiểu kinh tế học cơ bản có thể đã ngăn được nhiều bi kịch con người và nhiều sự phi hiệu quả kinh tế.
+Sự phức tạp của tài chính khiến ít người hiểu nó, và do đó nó dễ bị những người chỉ trích mô tả là mờ ám. Khi người có chuyên môn điều hành các định chế này là người nước ngoài hay thiểu số trong nước, họ càng dễ bị tấn công. Người cho vay tiền hiếm khi được ưa chuộng; những chữ như "Shylock" (nhân vật cho vay nặng lãi trong vở *Người lái buôn thành Venice* của Shakespeare) hay "kẻ đầu cơ" không phải lời khen.
+
+Ở nhiều nước và nhiều thời kỳ, nhiều người không suy nghĩ kỹ coi hoạt động tài chính là không "thật sự" đóng góp gì cho nền kinh tế, coi người làm tài chính là ký sinh. Điều này đặc biệt rõ khi phần lớn dân chúng làm lao động chân tay nặng nhọc trong nông nghiệp hay công nghiệp, và nghi ngờ, ghen ghét những người chỉ ngồi xử lý giấy tờ mà không làm ra thứ gì nhìn thấy hay sờ được.
+
+Sự thù địch hàng thế kỷ đã nổi lên, và đã được biến thành hành động, nhắm vào các thiểu số đóng vai trò này: người Do Thái ở châu Âu, Hoa kiều ở Đông Nam Á, người Chettiar ở chính Ấn Độ hay ở Miến Điện, Đông Phi, Fiji. Các nhóm này thường bị trục xuất hoặc bị quấy nhiễu đến mức phải bỏ đi, có khi bằng bạo lực đám đông, vì người ta tin họ là ký sinh. Những người mang ngộ nhận đó sau đó thường ngạc nhiên khi thấy hoạt động kinh tế và mức sống đi xuống sau khi các nhóm này ra đi. Theo Sowell, hiểu kinh tế học cơ bản có thể đã ngăn được nhiều bi kịch con người và nhiều sự phi hiệu quả kinh tế.
 
 ### 4. Lợi suất đầu tư và thu nhập "không làm mà có" (Returns on Investment; "Unearned Income")
 
@@ -711,17 +738,23 @@ Phần đền đáp đến sau cho chi phí bỏ ra trước là lợi suất đ
 
 Việc đầu tư và nhận đền đáp chậm có ở khắp nơi trong suốt lịch sử loài người, nhưng ngộ nhận về nó cũng lâu đời và phổ biến. Đôi khi phần đền đáp chậm bị gọi là thu nhập "không làm mà có", chỉ vì nó không trả cho đóng góp trong khoảng thời gian hiện tại. Khoản đầu tư xây một nhà máy có thể nhiều năm sau mới được hoàn, sau khi đã thuê công nhân, quản lý, sản xuất và bán hàng. Trong năm cổ tức bắt đầu được trả, nhà đầu tư có thể không đóng góp gì, nhưng không vì thế mà phần đền đáp là "không làm mà có"; nó chỉ không đến từ khoản đầu tư trong năm đó.
 
-Theo Sowell, cái nhìn thấy được luôn sống động hơn cái không nhìn thấy. Người xem một nhà máy đang chạy thấy công nhân làm ra sản phẩm trước mắt, nhưng không thấy khoản đầu tư đã tạo ra nhà máy. Rủi ro thì vô hình, kể cả rủi ro hiện tại, và rủi ro lúc khởi nghiệp dễ bị quên bởi người chỉ thấy một doanh nghiệp đã thành công. Người ta cũng dễ bỏ qua vô số quyết định quản lý: đặt nhà máy ở đâu, mua thiết bị gì, ứng xử với nhà cung cấp, khách hàng, nhân viên ra sao; bất kỳ quyết định nào cũng có thể quyết định thành bại. Và người ta không thấy những doanh nghiệp tương tự đã phá sản vì không làm được những việc doanh nghiệp còn sống sót đã làm, hoặc làm kém hơn. Vì vậy dễ coi các yếu tố nhìn thấy được là duy nhất hay quan trọng nhất, dù có những doanh nghiệp khác với cùng các yếu tố đó đã phá sản trong khi một doanh nghiệp quản lý giỏi trong cùng ngành phát triển.
+Theo Sowell, cái nhìn thấy được luôn sống động hơn cái không nhìn thấy. Người xem một nhà máy đang chạy thấy công nhân làm ra sản phẩm trước mắt, nhưng không thấy khoản đầu tư đã tạo ra nhà máy. Rủi ro thì vô hình, kể cả rủi ro hiện tại, và rủi ro lúc khởi nghiệp dễ bị quên bởi người chỉ thấy một doanh nghiệp đã thành công.
+
+Người ta cũng dễ bỏ qua vô số quyết định quản lý: đặt nhà máy ở đâu, mua thiết bị gì, ứng xử với nhà cung cấp, khách hàng, nhân viên ra sao; bất kỳ quyết định nào cũng có thể quyết định thành bại. Và người ta không thấy những doanh nghiệp tương tự đã phá sản vì không làm được những việc doanh nghiệp còn sống sót đã làm, hoặc làm kém hơn. Vì vậy dễ coi các yếu tố nhìn thấy được là duy nhất hay quan trọng nhất, dù có những doanh nghiệp khác với cùng các yếu tố đó đã phá sản trong khi một doanh nghiệp quản lý giỏi trong cùng ngành phát triển.
 
 Những ngộ nhận này không vô hại. Nhiều luật lệ và chính sách kinh tế dựa trên chúng; cả những hệ tư tưởng công phu và phong trào quần chúng đã dựa trên ý niệm rằng chỉ công nhân mới "thật sự" tạo ra của cải, còn những người khác chỉ hớt lợi nhuận mà không đóng góp gì.
 
 Ngộ nhận này đặc biệt tai hại cho người cho vay tiền. Suốt nhiều thế kỷ, ở nhiều nền văn hoá, người cho vay bị lên án vì nhận lại nhiều hơn số đã cho vay, tức nhận thu nhập "không làm mà có" cho việc chờ đợi và chịu rủi ro. Sự kỳ thị lớn đến mức thường chỉ các thiểu số vốn đã đứng ngoài hệ thống xã hội mới chịu làm nghề này: người Do Thái ở châu Âu, người Hoa ở Đông Nam Á, người Chettiar và Marwari ở Ấn Độ, và các nhóm thiểu số khác ở nhiều nơi.
 
-Ngộ nhận về cho vay thường biến thành luật nhằm giúp người vay bằng cách nới lỏng điều kiện trả nợ cho họ. Nhưng bất cứ điều gì làm việc đòi nợ đến hạn khó hơn đều khiến khoản vay ít được cho ra ngay từ đầu, hoặc không được cho ra ở mức lãi suất thấp lẽ ra có nếu không có chính sách bảo vệ con nợ. Ở một số xã hội, người ta không được tính lãi khi cho họ hàng hay người cùng cộng đồng vay, và không được đòi trả đúng hạn theo thoả thuận. Những điều kiện ngầm đó khiến người ta ngại cho vay, có khi ngại để lộ rằng mình có đủ tiền để cho vay. Ở những xã hội có áp lực như vậy rất mạnh, động cơ làm giàu giảm đi. Đó không chỉ là thiệt hại cho cá nhân lẽ ra đã làm giàu nhờ dốc hết sức, mà là thiệt hại cho cả xã hội khi những người có khả năng làm ra thứ người khác sẵn lòng trả tiền chọn không dốc hết sức.
+Ngộ nhận về cho vay thường biến thành luật nhằm giúp người vay bằng cách nới lỏng điều kiện trả nợ cho họ. Nhưng bất cứ điều gì làm việc đòi nợ đến hạn khó hơn đều khiến khoản vay ít được cho ra ngay từ đầu, hoặc không được cho ra ở mức lãi suất thấp lẽ ra có nếu không có chính sách bảo vệ con nợ.
+
+Ở một số xã hội, người ta không được tính lãi khi cho họ hàng hay người cùng cộng đồng vay, và không được đòi trả đúng hạn theo thoả thuận. Những điều kiện ngầm đó khiến người ta ngại cho vay, có khi ngại để lộ rằng mình có đủ tiền để cho vay. Ở những xã hội có áp lực như vậy rất mạnh, động cơ làm giàu giảm đi. Đó không chỉ là thiệt hại cho cá nhân lẽ ra đã làm giàu nhờ dốc hết sức, mà là thiệt hại cho cả xã hội khi những người có khả năng làm ra thứ người khác sẵn lòng trả tiền chọn không dốc hết sức.
 
 ### 5. Đầu tư và phân bổ nguồn lực (Investment and Allocation)
 
-Lãi suất là giá phải trả cho vốn đầu tư, và nó đóng vai trò phân bổ giống mọi mức giá khác: đưa cung và cầu về cân bằng. Khi lãi suất thấp, vay tiền để xây nhà, hiện đại hoá nhà máy hay khởi động dự án có lợi hơn, nhưng động cơ tiết kiệm giảm. Lãi suất cao khiến nhiều người tiết kiệm hơn nhưng ít nhà đầu tư vay hơn vì vay đắt. Như với cung cầu hàng hoá nói chung, chênh lệch giữa cung và cầu tiền vay đẩy giá, ở đây là lãi suất, lên hoặc xuống. Tạp chí *The Economist* viết rằng phần lớn thời gian, chênh lệch giữa mức tiết kiệm và mức đầu tư mong muốn được điều chỉnh khá dễ dàng qua cơ chế lãi suất: nếu người ta muốn tiết kiệm nhiều hơn muốn đầu tư, lãi suất giảm, khiến động cơ tiết kiệm giảm và sự sẵn lòng đầu tư tăng.
+Lãi suất là giá phải trả cho vốn đầu tư, và nó đóng vai trò phân bổ giống mọi mức giá khác: đưa cung và cầu về cân bằng. Khi lãi suất thấp, vay tiền để xây nhà, hiện đại hoá nhà máy hay khởi động dự án có lợi hơn, nhưng động cơ tiết kiệm giảm. Lãi suất cao khiến nhiều người tiết kiệm hơn nhưng ít nhà đầu tư vay hơn vì vay đắt.
+
+Như với cung cầu hàng hoá nói chung, chênh lệch giữa cung và cầu tiền vay đẩy giá, ở đây là lãi suất, lên hoặc xuống. Tạp chí *The Economist* viết rằng phần lớn thời gian, chênh lệch giữa mức tiết kiệm và mức đầu tư mong muốn được điều chỉnh khá dễ dàng qua cơ chế lãi suất: nếu người ta muốn tiết kiệm nhiều hơn muốn đầu tư, lãi suất giảm, khiến động cơ tiết kiệm giảm và sự sẵn lòng đầu tư tăng.
 
 Trong một thế giới không thay đổi, chênh lệch này sẽ chấm dứt và lãi suất sẽ đứng yên. Nhưng trong thế giới thật, dao động lãi suất, như dao động giá nói chung, liên tục chuyển nguồn lực sang các hướng khác nhau khi công nghệ, nhu cầu và các yếu tố khác thay đổi. Vì lãi suất là biểu hiện của một thực tế bên dưới và của những ràng buộc vốn có trong thực tế đó, luật lệ hay chính sách thay đổi lãi suất có tác động vượt xa mục đích ban đầu, lan khắp nền kinh tế.
 
@@ -754,23 +787,39 @@ Dù chi phí xử lý là bao nhiêu, nó cùng với chi phí rủi ro phải �
 
 Những người tự gọi là "bảo vệ người tiêu dùng" có thể ăn mừng các luật này, nhưng người vay thu nhập thấp không vay được 100 USD lúc cần có thể phải trả hơn 15 USD phí trễ hạn thẻ tín dụng, hoặc chịu hậu quả khác như bị thu hồi xe, bị cắt điện. Chính người vay đã thấy những hậu quả đó tệ hơn việc trả 15 USD, nếu không họ đã không vay.
 
-Trần lãi suất càng thấp, người vay càng phải đáng tin thì việc cho vay mới có lời. Với trần đủ thấp, chỉ cho triệu phú vay mới có lời; thấp hơn nữa, chỉ cho tỷ phú vay. Vì các nhóm sắc tộc có thu nhập và điểm tín dụng trung bình khác nhau, trần lãi suất gần như chắc chắn tạo ra chênh lệch về tỷ lệ được duyệt vay mua nhà, cấp thẻ tín dụng và các hình thức vay khác giữa các nhóm. Ở Mỹ, người Mỹ gốc Á có điểm tín dụng trung bình cao hơn người Mỹ gốc Tây Ban Nha (Hispanic), người Mỹ da đen, và cả người Mỹ da trắng. Người ủng hộ trần lãi suất thường sốc khi thấy một số nhóm bị từ chối vay mua nhà nhiều hơn các nhóm khác và quy cho phân biệt chủng tộc. Nhưng vì phần lớn người cho vay ở Mỹ là người da trắng, và họ từ chối người da trắng với tỷ lệ cao hơn hẳn người Mỹ gốc Á, phân biệt chủng tộc khó là lời giải thích.
+Trần lãi suất càng thấp, người vay càng phải đáng tin thì việc cho vay mới có lời. Với trần đủ thấp, chỉ cho triệu phú vay mới có lời; thấp hơn nữa, chỉ cho tỷ phú vay. Vì các nhóm sắc tộc có thu nhập và điểm tín dụng trung bình khác nhau, trần lãi suất gần như chắc chắn tạo ra chênh lệch về tỷ lệ được duyệt vay mua nhà, cấp thẻ tín dụng và các hình thức vay khác giữa các nhóm.
+
+Ở Mỹ, người Mỹ gốc Á có điểm tín dụng trung bình cao hơn người Mỹ gốc Tây Ban Nha (Hispanic), người Mỹ da đen, và cả người Mỹ da trắng. Người ủng hộ trần lãi suất thường sốc khi thấy một số nhóm bị từ chối vay mua nhà nhiều hơn các nhóm khác và quy cho phân biệt chủng tộc. Nhưng vì phần lớn người cho vay ở Mỹ là người da trắng, và họ từ chối người da trắng với tỷ lệ cao hơn hẳn người Mỹ gốc Á, phân biệt chủng tộc khó là lời giải thích.
 
 Để đối chiếu, có những người cho vay chuyên cho người thu nhập cao vay số tiền lớn, ngắn hạn, với tài sản đắt tiền làm thế chấp. Những "người cho vay có thế chấp" này (thực chất là tiệm cầm đồ cho người khá giả hay giàu có) tính lãi suất có thể vượt 200%/năm, cao vì cùng lý do với khoản vay đến ngày lĩnh lương. Nhưng vì khoản vay của người giàu có tài sản thế chấp bán được nếu không trả, lãi suất không cao bằng khoản vay không thế chấp cho người thu nhập thấp. Hơn nữa, một người cho vay có thế chấp như Pawngo cho vay trung bình 10.000–15.000 USD mỗi khoản, nên chi phí xử lý cố định chỉ là một tỷ lệ nhỏ của khoản vay và cộng thêm ít hơn vào lãi suất.
 
 ### 6. Đầu cơ (Speculation)
 
-Phần lớn giao dịch thị trường là mua những thứ đã có, dựa trên giá trị của chúng với người mua và giá người bán đòi. Nhưng một số giao dịch là mua những thứ chưa có, hoặc chưa xác định được giá trị, hoặc cả hai. Cổ phiếu công ty Internet Amazon.com tăng giá nhiều năm trước khi công ty kiếm được đồng lãi đầu tiên; người mua rõ ràng đang đầu cơ rằng công ty rồi sẽ có lãi, hoặc rằng người khác sẽ tiếp tục đẩy giá cổ phiếu lên để mình bán có lời, dù công ty có lãi hay không. Amazon.com thành lập năm 1994 và sau nhiều năm lỗ, có lãi lần đầu năm 2001. Thăm dò dầu cũng là một vụ đầu cơ tốn kém: có thể phải chi hàng triệu USD trước khi biết chỗ đó có dầu không, chưa nói có đủ dầu để bù số tiền đã chi không. Nhiều thứ khác được mua với hy vọng thu lợi trong tương lai mà có thể không thành: kịch bản phim có thể không bao giờ được quay, tranh của hoạ sĩ có thể không bao giờ nổi tiếng, ngoại tệ có thể lên giá nhưng cũng dễ xuống giá. Ai cũng có thể đầu cơ, nhưng cũng có những nhà đầu cơ chuyên nghiệp lấy đó làm cả sự nghiệp.
+Phần lớn giao dịch thị trường là mua những thứ đã có, dựa trên giá trị của chúng với người mua và giá người bán đòi. Nhưng một số giao dịch là mua những thứ chưa có, hoặc chưa xác định được giá trị, hoặc cả hai. Cổ phiếu công ty Internet Amazon.com tăng giá nhiều năm trước khi công ty kiếm được đồng lãi đầu tiên; người mua rõ ràng đang đầu cơ rằng công ty rồi sẽ có lãi, hoặc rằng người khác sẽ tiếp tục đẩy giá cổ phiếu lên để mình bán có lời, dù công ty có lãi hay không. Amazon.com thành lập năm 1994 và sau nhiều năm lỗ, có lãi lần đầu năm 2001.
 
-Một vai trò chính của nhà đầu cơ chuyên nghiệp là giải phóng người khác khỏi việc phải đầu cơ trong hoạt động kinh tế thường ngày của họ, ví dụ nghề nông, nơi cả thời tiết mùa vụ lẫn giá lúc thu hoạch đều không đoán trước được. Rủi ro có mặt trong mọi mặt đời sống; đầu cơ là một cách để một số người chuyên gánh rủi ro, có tính giá. Để giao dịch xảy ra, chi phí của rủi ro đối với người đang gánh nó phải lớn hơn mức giá người nhận rủi ro đòi; đồng thời chi phí của rủi ro đối với người nhận phải nhỏ hơn mức giá họ thu. Nói cách khác, rủi ro phải giảm đi nhờ việc chuyển giao thì cả hai bên mới thấy có lý. Chi phí rủi ro của nhà đầu cơ thấp hơn có thể vì họ có phương pháp đánh giá rủi ro tinh vi hơn, có nhiều vốn hơn để chịu lỗ ngắn hạn, hoặc vì họ gánh nhiều loại rủi ro khác nhau nên rủi ro tổng thể thấp hơn. Không nhà đầu cơ nào tránh được lỗ ở từng vụ, nhưng chừng nào lãi lớn hơn lỗ theo thời gian thì đầu cơ là một nghề kinh doanh đứng vững được.
+Thăm dò dầu cũng là một vụ đầu cơ tốn kém: có thể phải chi hàng triệu USD trước khi biết chỗ đó có dầu không, chưa nói có đủ dầu để bù số tiền đã chi không. Nhiều thứ khác được mua với hy vọng thu lợi trong tương lai mà có thể không thành: kịch bản phim có thể không bao giờ được quay, tranh của hoạ sĩ có thể không bao giờ nổi tiếng, ngoại tệ có thể lên giá nhưng cũng dễ xuống giá. Ai cũng có thể đầu cơ, nhưng cũng có những nhà đầu cơ chuyên nghiệp lấy đó làm cả sự nghiệp.
 
-Bên kia giao dịch cũng phải được lợi từ việc rủi ro giảm. Khi một nông dân trồng lúa mì ở Idaho hay Nebraska chuẩn bị gieo hạt, ông không biết giá lúa mì lúc thu hoạch sẽ ra sao; điều đó phụ thuộc vào vô số nông dân khác, ở Mỹ và xa tới Nga hay Argentina. Nếu Nga hay Argentina mất mùa, giá lúa mì thế giới vọt lên theo cung cầu và nông dân Mỹ bán được giá rất cao. Nhưng nếu Nga và Argentina được mùa lớn, thị trường thế giới có thể thừa lúa mì, phần thừa phải đưa vào kho trữ đắt đỏ, giá thế giới sụt mạnh, và nông dân Mỹ có thể chẳng còn gì sau một năm làm việc, may lắm mới không lỗ, trong khi gia đình phải sống bằng tiết kiệm hoặc đi vay. Để khỏi phải đầu cơ như vậy, người nông dân có thể trả tiền cho một nhà đầu cơ chuyên nghiệp gánh rủi ro, còn mình chỉ lo trồng trọt. Nhà đầu cơ ký hợp đồng mua hoặc bán ở giá định trước cho hàng giao vào một ngày trong tương lai. Rủi ro chuyển từ người làm ra sản phẩm sang người thực chất đang đặt cược rằng mình đoán giá tương lai giỏi hơn, và có đủ tiền để chịu những lần đoán sai không tránh khỏi, để có lãi ròng nhờ những lần đoán đúng.
+Một vai trò chính của nhà đầu cơ chuyên nghiệp là giải phóng người khác khỏi việc phải đầu cơ trong hoạt động kinh tế thường ngày của họ, ví dụ nghề nông, nơi cả thời tiết mùa vụ lẫn giá lúc thu hoạch đều không đoán trước được. Rủi ro có mặt trong mọi mặt đời sống; đầu cơ là một cách để một số người chuyên gánh rủi ro, có tính giá.
 
-**Đầu cơ ngược với cờ bạc.** Người ta hay nhầm đầu cơ với cờ bạc, nhưng theo Sowell thì đầu cơ ngược hẳn với cờ bạc. Cờ bạc, dù là trò may rủi hay hành động như chơi cò quay Nga, tạo ra một rủi ro vốn không tồn tại, để kiếm lời hoặc để tỏ ra tài giỏi hay gan dạ. Đầu cơ kinh tế xử lý một rủi ro vốn có sẵn sao cho rủi ro nhỏ nhất và giao nó cho người có khả năng gánh tốt nhất. Khi một nhà đầu cơ hàng hoá đề nghị mua lúa mì chưa được gieo, người nông dân dễ quyết định trồng hơn mà không phải lo giá lúc thu hoạch. Hợp đồng tương lai bảo đảm cho người bán một mức giá định trước, bất kể giá thị trường lúc giao hàng. Nhờ vậy trồng trọt và đầu cơ được tách ra, mỗi việc do những người chuyên về nó đảm nhận. Nhà đầu cơ dùng hiểu biết về thị trường, về phân tích kinh tế và thống kê để đoán tốt hơn người nông dân, nên đưa ra được mức giá mà người nông dân thấy là lựa chọn hấp dẫn so với chờ bán ở giá thị trường lúc thu hoạch.
+Để giao dịch xảy ra, chi phí của rủi ro đối với người đang gánh nó phải lớn hơn mức giá người nhận rủi ro đòi; đồng thời chi phí của rủi ro đối với người nhận phải nhỏ hơn mức giá họ thu. Nói cách khác, rủi ro phải giảm đi nhờ việc chuyển giao thì cả hai bên mới thấy có lý. Chi phí rủi ro của nhà đầu cơ thấp hơn có thể vì họ có phương pháp đánh giá rủi ro tinh vi hơn, có nhiều vốn hơn để chịu lỗ ngắn hạn, hoặc vì họ gánh nhiều loại rủi ro khác nhau nên rủi ro tổng thể thấp hơn. Không nhà đầu cơ nào tránh được lỗ ở từng vụ, nhưng chừng nào lãi lớn hơn lỗ theo thời gian thì đầu cơ là một nghề kinh doanh đứng vững được.
 
-Nhà đầu cơ hiếm khi lãi ở mọi giao dịch, nhưng phải có lãi về lâu dài mới tồn tại. Lợi nhuận của họ đến từ việc trả cho nông dân một mức giá trung bình thấp hơn giá thực tế lúc thu hoạch. Người nông dân biết điều đó; thực chất ông trả tiền cho nhà đầu cơ gánh rủi ro, giống như trả phí cho công ty bảo hiểm. Mỗi nông dân tự quyết định giao dịch có đáng không. Mỗi nhà đầu cơ phải cạnh tranh giá với các nhà đầu cơ khác, như mỗi nông dân phải cạnh tranh với nông dân khác. Với cả nền kinh tế, cạnh tranh quyết định giá và do đó quyết định lợi nhuận của nhà đầu cơ: nếu lợi nhuận cao hơn mức cần để thu hút nhà đầu tư bỏ tiền vào lĩnh vực đầy biến động này, vốn sẽ đổ vào cho tới khi cạnh tranh kéo lợi nhuận xuống mức vừa đủ bù chi phí, công sức và rủi ro. Cạnh tranh giữa các nhà đầu cơ diễn ra cuồng nhiệt ở các sở giao dịch hàng hoá, nơi họ hét giá chào mua, chào bán; giá thay đổi từng khoảnh khắc và chậm năm phút có thể biến lãi thành lỗ. Ngay cả một công ty đầu cơ hàng hoá cỡ vừa cũng có thể lãi hay lỗ hàng trăm nghìn USD trong một ngày, còn các tập đoàn lớn lãi lỗ hàng triệu USD trong vài giờ.
+Bên kia giao dịch cũng phải được lợi từ việc rủi ro giảm. Khi một nông dân trồng lúa mì ở Idaho hay Nebraska chuẩn bị gieo hạt, ông không biết giá lúa mì lúc thu hoạch sẽ ra sao; điều đó phụ thuộc vào vô số nông dân khác, ở Mỹ và xa tới Nga hay Argentina. Nếu Nga hay Argentina mất mùa, giá lúa mì thế giới vọt lên theo cung cầu và nông dân Mỹ bán được giá rất cao. Nhưng nếu Nga và Argentina được mùa lớn, thị trường thế giới có thể thừa lúa mì, phần thừa phải đưa vào kho trữ đắt đỏ, giá thế giới sụt mạnh, và nông dân Mỹ có thể chẳng còn gì sau một năm làm việc, may lắm mới không lỗ, trong khi gia đình phải sống bằng tiết kiệm hoặc đi vay.
 
-Thị trường hàng hoá không chỉ dành cho doanh nghiệp lớn hay nông dân ở nước công nghệ cao. Một bài của *New York Times* từ Ấn Độ kể về Ravi Sham Choudhry, một nông dân ở một làng 2.500 dân: ít nhất mỗi ngày một lần, ông mở máy tính ở phòng trước, vào trang web của Sở Giao dịch Chicago (Chicago Board of Trade), tay còn dính đất, gõ phím chậm chạp nhưng biết rõ mình cần gì: giá đậu nành kỳ hạn. Đây không phải trường hợp cá biệt. Năm 2003, có 3.000 tổ chức ở Ấn Độ kết nối tới 1,8 triệu nông dân với thị trường hàng hoá thế giới. Ông Choudhry làm đại lý cho nông dân các làng xung quanh; năm trước ông kiếm được 300 USD từ việc phụ này, nay kiếm được chừng ấy mỗi tháng, một khoản rất đáng kể ở một nước nghèo như Ấn Độ.
+Để khỏi phải đầu cơ như vậy, người nông dân có thể trả tiền cho một nhà đầu cơ chuyên nghiệp gánh rủi ro, còn mình chỉ lo trồng trọt. Nhà đầu cơ ký hợp đồng mua hoặc bán ở giá định trước cho hàng giao vào một ngày trong tương lai. Rủi ro chuyển từ người làm ra sản phẩm sang người thực chất đang đặt cược rằng mình đoán giá tương lai giỏi hơn, và có đủ tiền để chịu những lần đoán sai không tránh khỏi, để có lãi ròng nhờ những lần đoán đúng.
+
+**Đầu cơ ngược với cờ bạc.** Người ta hay nhầm đầu cơ với cờ bạc, nhưng theo Sowell thì đầu cơ ngược hẳn với cờ bạc. Cờ bạc, dù là trò may rủi hay hành động như chơi cò quay Nga, tạo ra một rủi ro vốn không tồn tại, để kiếm lời hoặc để tỏ ra tài giỏi hay gan dạ. Đầu cơ kinh tế xử lý một rủi ro vốn có sẵn sao cho rủi ro nhỏ nhất và giao nó cho người có khả năng gánh tốt nhất.
+
+Khi một nhà đầu cơ hàng hoá đề nghị mua lúa mì chưa được gieo, người nông dân dễ quyết định trồng hơn mà không phải lo giá lúc thu hoạch. Hợp đồng tương lai bảo đảm cho người bán một mức giá định trước, bất kể giá thị trường lúc giao hàng. Nhờ vậy trồng trọt và đầu cơ được tách ra, mỗi việc do những người chuyên về nó đảm nhận. Nhà đầu cơ dùng hiểu biết về thị trường, về phân tích kinh tế và thống kê để đoán tốt hơn người nông dân, nên đưa ra được mức giá mà người nông dân thấy là lựa chọn hấp dẫn so với chờ bán ở giá thị trường lúc thu hoạch.
+
+Nhà đầu cơ hiếm khi lãi ở mọi giao dịch, nhưng phải có lãi về lâu dài mới tồn tại. Lợi nhuận của họ đến từ việc trả cho nông dân một mức giá trung bình thấp hơn giá thực tế lúc thu hoạch. Người nông dân biết điều đó; thực chất ông trả tiền cho nhà đầu cơ gánh rủi ro, giống như trả phí cho công ty bảo hiểm.
+
+Mỗi nông dân tự quyết định giao dịch có đáng không. Mỗi nhà đầu cơ phải cạnh tranh giá với các nhà đầu cơ khác, như mỗi nông dân phải cạnh tranh với nông dân khác. Với cả nền kinh tế, cạnh tranh quyết định giá và do đó quyết định lợi nhuận của nhà đầu cơ: nếu lợi nhuận cao hơn mức cần để thu hút nhà đầu tư bỏ tiền vào lĩnh vực đầy biến động này, vốn sẽ đổ vào cho tới khi cạnh tranh kéo lợi nhuận xuống mức vừa đủ bù chi phí, công sức và rủi ro.
+
+Cạnh tranh giữa các nhà đầu cơ diễn ra cuồng nhiệt ở các sở giao dịch hàng hoá, nơi họ hét giá chào mua, chào bán; giá thay đổi từng khoảnh khắc và chậm năm phút có thể biến lãi thành lỗ. Ngay cả một công ty đầu cơ hàng hoá cỡ vừa cũng có thể lãi hay lỗ hàng trăm nghìn USD trong một ngày, còn các tập đoàn lớn lãi lỗ hàng triệu USD trong vài giờ.
+
+Thị trường hàng hoá không chỉ dành cho doanh nghiệp lớn hay nông dân ở nước công nghệ cao. Một bài của *New York Times* từ Ấn Độ kể về Ravi Sham Choudhry, một nông dân ở một làng 2.500 dân: ít nhất mỗi ngày một lần, ông mở máy tính ở phòng trước, vào trang web của Sở Giao dịch Chicago (Chicago Board of Trade), tay còn dính đất, gõ phím chậm chạp nhưng biết rõ mình cần gì: giá đậu nành kỳ hạn.
+
+Đây không phải trường hợp cá biệt. Năm 2003, có 3.000 tổ chức ở Ấn Độ kết nối tới 1,8 triệu nông dân với thị trường hàng hoá thế giới. Ông Choudhry làm đại lý cho nông dân các làng xung quanh; năm trước ông kiếm được 300 USD từ việc phụ này, nay kiếm được chừng ấy mỗi tháng, một khoản rất đáng kể ở một nước nghèo như Ấn Độ.
 
 Đầu cơ không chỉ có ở nông sản, và nó cực kỳ rủi ro với cá nhân nhà đầu cơ, dù nó giảm rủi ro cho cả nền kinh tế:
 
@@ -783,7 +832,9 @@ Thị trường hàng hoá không chỉ dành cho doanh nghiệp lớn hay nông
 
 Ví dụ Heinz còn cho thấy một điều: những người nông dân không ký hợp đồng tương lai với ai thì chính họ đang đầu cơ vào giá lúc thu hoạch, dù họ có tự coi mình là người đầu cơ hay không. Vì rủi ro là lý do tồn tại của đầu cơ, sai là chuyện thường; nhưng sai quá thường xuyên thì bị loại khỏi nghề. Hợp đồng tương lai được ký cho vàng, dầu, đậu nành, ngoại tệ và nhiều thứ khác; đầu cơ hàng hoá chỉ là một loại đầu cơ, người ta còn đầu cơ bất động sản, cổ phiếu và những thứ khác.
 
-Chi phí đầy đủ của rủi ro không chỉ là số tiền liên quan mà còn là nỗi lo đè lên người chịu rủi ro trong lúc chờ kết quả. Một nông dân có thể kỳ vọng bán được 1.000 USD/tấn nhưng biết giá có thể chỉ 500 USD hoặc lên tới 1.500 USD. Nếu nhà đầu cơ đề nghị bảo đảm mua ở 900 USD/tấn, mức giá đó có thể hấp dẫn vì nó giúp người nông dân khỏi nhiều tháng mất ngủ lo nuôi gia đình nếu giá thu hoạch không đủ bù chi phí trồng. Nhà đầu cơ không chỉ có nhiều khả năng tài chính hơn để chịu sai lầm mà có thể còn vững hơn về tâm lý, vì người hay lo thường không đi làm đầu cơ hàng hoá. Một nhà đầu cơ hàng hoá mà Sowell quen có một năm kinh doanh lỗ cho tới đầu tháng 12, nhưng tình hình thay đổi mạnh trong tháng 12 đến mức cuối cùng cả năm vẫn có lãi, khiến chính ông ngạc nhiên không kém ai. Đây không phải nghề cho người yếu tim.
+Chi phí đầy đủ của rủi ro không chỉ là số tiền liên quan mà còn là nỗi lo đè lên người chịu rủi ro trong lúc chờ kết quả. Một nông dân có thể kỳ vọng bán được 1.000 USD/tấn nhưng biết giá có thể chỉ 500 USD hoặc lên tới 1.500 USD. Nếu nhà đầu cơ đề nghị bảo đảm mua ở 900 USD/tấn, mức giá đó có thể hấp dẫn vì nó giúp người nông dân khỏi nhiều tháng mất ngủ lo nuôi gia đình nếu giá thu hoạch không đủ bù chi phí trồng.
+
+Nhà đầu cơ không chỉ có nhiều khả năng tài chính hơn để chịu sai lầm mà có thể còn vững hơn về tâm lý, vì người hay lo thường không đi làm đầu cơ hàng hoá. Một nhà đầu cơ hàng hoá mà Sowell quen có một năm kinh doanh lỗ cho tới đầu tháng 12, nhưng tình hình thay đổi mạnh trong tháng 12 đến mức cuối cùng cả năm vẫn có lãi, khiến chính ông ngạc nhiên không kém ai. Đây không phải nghề cho người yếu tim.
 
 Theo Sowell, đầu cơ là một cách khác để phân bổ một nguồn lực khan hiếm, ở đây là kiến thức. Cả nhà đầu cơ lẫn nông dân đều không biết giá lúc thu hoạch, nhưng nhà đầu cơ biết nhiều hơn về thị trường và phân tích kinh tế, thống kê, còn nông dân biết nhiều hơn về cách trồng. Người bạn đầu cơ của Sowell thừa nhận chưa bao giờ thấy một hạt đậu nành và không biết nó trông ra sao, dù có lẽ đã mua bán đậu nành trị giá hàng triệu USD qua nhiều năm. Ông chỉ chuyển quyền sở hữu đậu nành trên giấy cho người mua lúc thu hoạch, không bao giờ nhận hàng thật từ nông dân. Ông không thật sự kinh doanh đậu nành; ông kinh doanh quản lý rủi ro.
 
@@ -793,21 +844,29 @@ Nền kinh tế xử lý rủi ro vốn có không chỉ bằng đầu cơ mà c
 
 Các hãng xe Nhật nổi tiếng giữ rất ít tồn kho: phụ tùng tới nhà máy nhiều lần mỗi ngày để lắp ngay lên xe đang chạy trên dây chuyền. Cách này giảm chi phí giữ kho phụ tùng lớn và do đó giảm chi phí sản xuất mỗi chiếc xe. Nhưng năm 2007, một trận động đất ở Nhật làm tê liệt một nhà cung cấp vòng găng piston (piston ring), và *Wall Street Journal* đưa tin: vì thiếu một chiếc vòng găng piston giá 1,50 USD, gần 70% sản lượng ô tô của Nhật tạm thời tê liệt trong tuần đó.
 
-Tồn kho quá lớn hay quá nhỏ đều làm mất tiền. Doanh nghiệp nào gần mức tồn kho tối ưu nhất sẽ có triển vọng lợi nhuận tốt hơn. Quan trọng hơn, toàn bộ nguồn lực của nền kinh tế được phân bổ hiệu quả hơn, không chỉ vì mỗi doanh nghiệp có động cơ hiệu quả mà còn vì doanh nghiệp đúng nhiều lần hơn sẽ dễ tồn tại và tiếp tục ra quyết định, còn doanh nghiệp liên tục giữ tồn kho quá lớn hay quá nhỏ dễ biến mất khỏi thị trường vì phá sản. Tồn kho quá lớn nghĩa là chi phí kinh doanh cao hơn đối thủ, và đối thủ có thể bán rẻ hơn để giành khách. Tồn kho quá nhỏ nghĩa là hết thứ khách cần, không chỉ mất doanh thu trước mắt mà còn có nguy cơ khách đi tìm nhà cung cấp đáng tin hơn. Như Chương 6 đã nói, ở một nền kinh tế mà việc giao hàng hoá và phụ tùng luôn bất định như Liên Xô, tồn kho khổng lồ là chuyện bình thường.
+Tồn kho quá lớn hay quá nhỏ đều làm mất tiền. Doanh nghiệp nào gần mức tồn kho tối ưu nhất sẽ có triển vọng lợi nhuận tốt hơn. Quan trọng hơn, toàn bộ nguồn lực của nền kinh tế được phân bổ hiệu quả hơn, không chỉ vì mỗi doanh nghiệp có động cơ hiệu quả mà còn vì doanh nghiệp đúng nhiều lần hơn sẽ dễ tồn tại và tiếp tục ra quyết định, còn doanh nghiệp liên tục giữ tồn kho quá lớn hay quá nhỏ dễ biến mất khỏi thị trường vì phá sản.
+
+Tồn kho quá lớn nghĩa là chi phí kinh doanh cao hơn đối thủ, và đối thủ có thể bán rẻ hơn để giành khách. Tồn kho quá nhỏ nghĩa là hết thứ khách cần, không chỉ mất doanh thu trước mắt mà còn có nguy cơ khách đi tìm nhà cung cấp đáng tin hơn. Như Chương 6 đã nói, ở một nền kinh tế mà việc giao hàng hoá và phụ tùng luôn bất định như Liên Xô, tồn kho khổng lồ là chuyện bình thường.
 
 Một số nguyên lý về rủi ro cũng áp dụng cho những việc xa thị trường. Người lính ra trận không chỉ mang đúng số đạn sẽ bắn hay đúng lượng đồ cứu thương cho một kiểu bị thương cụ thể, vì không ai có khả năng biết trước như vậy. Anh mang một "tồn kho" đạn dược và đồ y tế cho nhiều tình huống. Nhưng anh cũng không thể mang thật nhiều mọi thứ có thể cần trong mọi tình huống, vì như thế sẽ chậm, khó cơ động và dễ thành mục tiêu cho đối phương. Nói cách khác, quá một mức nào đó, cố tăng an toàn lại làm tình thế nguy hiểm hơn.
 
-Tồn kho còn liên quan tới kiến thức và rủi ro theo một cách khác. Bình thường, mỗi doanh nghiệp giữ một tỷ lệ tồn kho trên doanh số nhất định. Nhưng khi thời thế bất định hơn, như trong suy thoái hay khủng hoảng, doanh nghiệp có thể bán từ kho có sẵn mà không sản xuất bù. Trong quý III năm 2003, khi Mỹ đang phục hồi sau suy thoái, doanh số, xuất khẩu và lợi nhuận đều tăng, nhưng theo tạp chí *BusinessWeek*, các nhà sản xuất, bán buôn và bán lẻ đang "bán hàng từ trên kệ" và "tỷ lệ tồn kho trên doanh số chạm mức thấp kỷ lục". Kết quả là số việc làm mới ít hơn nhiều so với các giai đoạn hoạt động kinh doanh tăng tương tự trước đây, dẫn tới cụm từ "phục hồi không việc làm" (jobless recovery), vì doanh nghiệp chưa tin đợt phục hồi sẽ kéo dài. Với người bán, bán hàng tồn là một cách đối phó rủi ro kinh tế. Chỉ khi tồn kho đã chạm đáy, việc thuê thêm người để sản xuất thêm mới tăng đủ mạnh để cụm từ "phục hồi không việc làm" hết đúng.
+Tồn kho còn liên quan tới kiến thức và rủi ro theo một cách khác. Bình thường, mỗi doanh nghiệp giữ một tỷ lệ tồn kho trên doanh số nhất định. Nhưng khi thời thế bất định hơn, như trong suy thoái hay khủng hoảng, doanh nghiệp có thể bán từ kho có sẵn mà không sản xuất bù.
+
+Trong quý III năm 2003, khi Mỹ đang phục hồi sau suy thoái, doanh số, xuất khẩu và lợi nhuận đều tăng, nhưng theo tạp chí *BusinessWeek*, các nhà sản xuất, bán buôn và bán lẻ đang "bán hàng từ trên kệ" và "tỷ lệ tồn kho trên doanh số chạm mức thấp kỷ lục". Kết quả là số việc làm mới ít hơn nhiều so với các giai đoạn hoạt động kinh doanh tăng tương tự trước đây, dẫn tới cụm từ "phục hồi không việc làm" (jobless recovery), vì doanh nghiệp chưa tin đợt phục hồi sẽ kéo dài. Với người bán, bán hàng tồn là một cách đối phó rủi ro kinh tế. Chỉ khi tồn kho đã chạm đáy, việc thuê thêm người để sản xuất thêm mới tăng đủ mạnh để cụm từ "phục hồi không việc làm" hết đúng.
 
 ### 8. Giá trị hiện tại và giá cả (Present Value; Prices and Present Values)
 
 Nhiều hàng hoá, dịch vụ được mua để dùng ngay, nhưng nhiều lợi ích khác đến thành một dòng qua thời gian, như vé xem bóng chày cả mùa hay hợp đồng niên kim (annuity) trả lương hưu hằng tháng sau khi về hưu. Cả dòng lợi ích đó có thể được mua tại một thời điểm với mức giá mà các nhà kinh tế gọi là giá trị hiện tại, tức giá vé cả mùa hay giá mua niên kim. Theo Sowell, giá trị hiện tại không chỉ là chuyện định giá; nó ảnh hưởng tới quyết định kinh tế và hệ quả của chúng, kể cả ở những lĩnh vực thường không bị coi là kinh tế, như lượng tài nguyên thiên nhiên còn lại cho các thế hệ sau.
 
-Việc một ngôi nhà, doanh nghiệp hay trang trại được bảo dưỡng, sửa chữa, cải tạo hôm nay quyết định nó bền và hoạt động tốt tới đâu trong tương lai. Nhưng người chủ đã trả tiền sửa chữa không phải chờ tới tương lai mới thấy giá trị tài sản thay đổi: lợi ích tương lai phản ánh ngay vào giá trị hiện tại của tài sản. Giá trị hiện tại của một tài sản thực chất chỉ là tổng các lợi ích tương lai dự kiến, đã chiết khấu vì chúng đến muộn. Nhà của bạn có thể hôm nay hoạt động không khác gì nhà hàng xóm, nhưng nếu hao mòn tương lai giảm nhờ ống nước dày hơn, gỗ chắc hơn hay vật liệu bền hơn, giá thị trường của nhà bạn cao hơn nhà hàng xóm ngay lập tức, dù hôm nay không thấy khác biệt gì. Ngược lại, nếu thành phố thông báo sang năm sẽ xây trạm xử lý nước thải trên mảnh đất cạnh nhà bạn, giá nhà bạn giảm ngay lập tức, trước khi mảnh đất bên cạnh bị động tới. Bất cứ điều gì dự kiến làm tăng hay giảm lợi ích (hoặc thiệt hại) tương lai đều ảnh hưởng ngay tới giá bán tài sản hôm nay.
+Việc một ngôi nhà, doanh nghiệp hay trang trại được bảo dưỡng, sửa chữa, cải tạo hôm nay quyết định nó bền và hoạt động tốt tới đâu trong tương lai. Nhưng người chủ đã trả tiền sửa chữa không phải chờ tới tương lai mới thấy giá trị tài sản thay đổi: lợi ích tương lai phản ánh ngay vào giá trị hiện tại của tài sản. Giá trị hiện tại của một tài sản thực chất chỉ là tổng các lợi ích tương lai dự kiến, đã chiết khấu vì chúng đến muộn.
+
+Nhà của bạn có thể hôm nay hoạt động không khác gì nhà hàng xóm, nhưng nếu hao mòn tương lai giảm nhờ ống nước dày hơn, gỗ chắc hơn hay vật liệu bền hơn, giá thị trường của nhà bạn cao hơn nhà hàng xóm ngay lập tức, dù hôm nay không thấy khác biệt gì. Ngược lại, nếu thành phố thông báo sang năm sẽ xây trạm xử lý nước thải trên mảnh đất cạnh nhà bạn, giá nhà bạn giảm ngay lập tức, trước khi mảnh đất bên cạnh bị động tới. Bất cứ điều gì dự kiến làm tăng hay giảm lợi ích (hoặc thiệt hại) tương lai đều ảnh hưởng ngay tới giá bán tài sản hôm nay.
 
 Giá trị hiện tại nối tương lai với hiện tại theo nhiều cách. Một ông già 90 tuổi trồng cây ăn quả mất 20 năm mới trưởng thành là việc hợp lý, vì đất của ông tăng giá ngay lập tức nhờ những cây đó. Ông có thể bán đất một tháng sau và sang Bahamas sống nếu muốn, vì ông nhận được phần giá trị của số quả dự kiến mọc trên cây nhiều năm sau khi ông không còn. Một phần của cải của ông hôm nay là giá trị của thực phẩm chưa mọc, sẽ được ăn bởi những đứa trẻ chưa ra đời.
 
-Theo Sowell, một khác biệt lớn giữa kinh tế và chính trị là chính trị gia không bị buộc phải quan tâm tới hậu quả sau kỳ bầu cử tới. Một quan chức dân cử có chính sách làm công chúng vui tới ngày bầu cử có nhiều cơ hội tái đắc cử, dù chính sách đó gây hậu quả tai hại về sau. Không có "giá trị hiện tại" nào buộc người ra quyết định chính trị hôm nay tính tới hậu quả đến sau ngày bầu cử. Công chúng có thể không đủ kiến thức để thấy hệ quả dài hạn của chính sách hôm nay, nhưng giới chuyên gia tài chính mua bán trái phiếu chính phủ thì thấy. Năm 2001, giữa cuộc khủng hoảng điện của bang California, hãng xếp hạng trái phiếu Standard & Poor's hạ hạng trái phiếu của bang, dù chưa có vụ vỡ nợ nào, chưa trả thiếu cho người mua trái phiếu, và ngân khố bang còn thặng dư hàng tỷ USD. Điều S&P hiểu là các nghĩa vụ tài chính nặng nề mà chính quyền California gánh để đối phó khủng hoảng điện báo trước thuế nặng hoặc nợ nặng sắp tới, làm tăng rủi ro vỡ nợ hoặc chậm trả cho người giữ trái phiếu, và do đó làm giảm giá trị hiện tại của trái phiếu.
+Theo Sowell, một khác biệt lớn giữa kinh tế và chính trị là chính trị gia không bị buộc phải quan tâm tới hậu quả sau kỳ bầu cử tới. Một quan chức dân cử có chính sách làm công chúng vui tới ngày bầu cử có nhiều cơ hội tái đắc cử, dù chính sách đó gây hậu quả tai hại về sau. Không có "giá trị hiện tại" nào buộc người ra quyết định chính trị hôm nay tính tới hậu quả đến sau ngày bầu cử.
+
+Công chúng có thể không đủ kiến thức để thấy hệ quả dài hạn của chính sách hôm nay, nhưng giới chuyên gia tài chính mua bán trái phiếu chính phủ thì thấy. Năm 2001, giữa cuộc khủng hoảng điện của bang California, hãng xếp hạng trái phiếu Standard & Poor's hạ hạng trái phiếu của bang, dù chưa có vụ vỡ nợ nào, chưa trả thiếu cho người mua trái phiếu, và ngân khố bang còn thặng dư hàng tỷ USD. Điều S&P hiểu là các nghĩa vụ tài chính nặng nề mà chính quyền California gánh để đối phó khủng hoảng điện báo trước thuế nặng hoặc nợ nặng sắp tới, làm tăng rủi ro vỡ nợ hoặc chậm trả cho người giữ trái phiếu, và do đó làm giảm giá trị hiện tại của trái phiếu.
 
 Mọi chuỗi thanh toán tương lai đều có thể quy về một giá trị hiện tại trả ngay một lần. Người trúng xổ số được trả góp nhiều năm có thể bán chuỗi thanh toán đó cho một định chế tài chính để lấy ngay một khoản cố định; nạn nhân tai nạn được công ty bảo hiểm bồi thường trả góp cũng vậy. Vì giá trị hiện tại của chuỗi thanh toán kéo dài nhiều thập kỷ có thể nhỏ hơn đáng kể tổng các khoản thanh toán do chiết khấu, khoản nhận ngay có thể dưới một nửa tổng số. Một số người bán để giải quyết khó khăn trước mắt về sau hối hận; số khác hài lòng và quay lại làm giao dịch tương tự.
 
@@ -818,7 +877,9 @@ Ngược lại, có người muốn đổi một khoản tiền cố định th�
 | Nam, 70 tuổi | 100.000 USD | 772 USD, dù sống thêm 3 năm hay 30 năm |
 | Nữ, 70 tuổi | 100.000 USD | 725 USD (thấp hơn vì phụ nữ thường sống lâu hơn nam giới) |
 
-Rủi ro được chuyển sang công ty bảo hiểm, có tính giá. Như trong các trường hợp khác, rủi ro không chỉ được chuyển mà còn giảm đi, vì công ty bảo hiểm dự đoán tuổi thọ trung bình của hàng triệu người mua niên kim chính xác hơn nhiều so với mỗi người tự dự đoán tuổi thọ của mình. Điểm then chốt là rủi ro giảm nhờ tính dự báo được của số lớn. Sowell kể một phản ví dụ từ báo chí: một nhà đầu cơ thoả thuận với một bà cụ cần tiền; bà để ông thừa kế ngôi nhà, đổi lại ông trả bà một khoản cố định mỗi tháng suốt đời bà. Giao dịch một đối một này không như dự tính, vì bà sống lâu hơn mọi dự đoán và nhà đầu cơ chết trước bà. Công ty bảo hiểm không chỉ có lợi thế số lớn mà còn có lợi thế là sự tồn tại của nó không bị giới hạn bởi tuổi thọ con người.
+Rủi ro được chuyển sang công ty bảo hiểm, có tính giá. Như trong các trường hợp khác, rủi ro không chỉ được chuyển mà còn giảm đi, vì công ty bảo hiểm dự đoán tuổi thọ trung bình của hàng triệu người mua niên kim chính xác hơn nhiều so với mỗi người tự dự đoán tuổi thọ của mình. Điểm then chốt là rủi ro giảm nhờ tính dự báo được của số lớn.
+
+Sowell kể một phản ví dụ từ báo chí: một nhà đầu cơ thoả thuận với một bà cụ cần tiền; bà để ông thừa kế ngôi nhà, đổi lại ông trả bà một khoản cố định mỗi tháng suốt đời bà. Giao dịch một đối một này không như dự tính, vì bà sống lâu hơn mọi dự đoán và nhà đầu cơ chết trước bà. Công ty bảo hiểm không chỉ có lợi thế số lớn mà còn có lợi thế là sự tồn tại của nó không bị giới hạn bởi tuổi thọ con người.
 
 ### 9. Tài nguyên thiên nhiên (Natural Resources)
 
@@ -826,7 +887,11 @@ Giá trị hiện tại ảnh hưởng sâu sắc tới việc tìm kiếm và s
 
 Năm 1960, một cuốn sách bán chạy nói Mỹ chỉ còn dầu nội địa đủ dùng 13 năm với mức tiêu thụ lúc đó. Khi ấy trữ lượng dầu đã biết của Mỹ là gần 32 tỷ thùng. Cuối 13 năm đó, trữ lượng đã biết là hơn 36 tỷ thùng. Số liệu gốc và phép tính dựa trên chúng đều đúng. Vậy tại sao Mỹ không cạn dầu năm 1973? Do may mắn mà tìm thêm được dầu, hay có lý do kinh tế sâu xa hơn?
 
-Theo Sowell, cũng như thiếu hụt và dư thừa không chỉ là chuyện có bao nhiêu vật chất, trữ lượng tài nguyên đã biết không chỉ là chuyện có bao nhiêu vật chất dưới đất. Giá cả, và giá trị hiện tại, là yếu tố then chốt. Lượng tài nguyên được biết là có tuỳ vào chi phí để biết. Thăm dò dầu rất tốn kém: năm 2011, *New York Times* đưa tin các nhà thăm dò đã xác định một mỏ dầu lớn tiềm năng ở độ sâu hai dặm dưới đáy biển, trên một dải đất cao cỡ vùng đô thị Houston, và giờ họ chỉ cần chi 100 triệu USD để biết mình có đúng không. Chi phí sản xuất dầu gồm cả chi phí thăm dò địa chất lẫn chi phí khoan những giếng khô đắt đỏ trước khi gặp dầu. Khi chi phí này tích luỹ trong lúc ngày càng nhiều dầu được tìm thấy trên thế giới, nguồn cung đã biết dồi dào hơn làm giá giảm theo cung cầu. Đến một lúc, chi phí mỗi thùng để tìm thêm và xử lý dầu ở một chỗ vượt giá trị hiện tại mỗi thùng dầu có khả năng tìm thấy ở đó, và việc thăm dò không còn đáng làm. Tuỳ hoàn cảnh, tổng lượng dầu đã tìm thấy lúc đó có thể chỉ cỡ "13 năm" đã sinh ra những dự báo bi quan. Nhưng khi nguồn dầu hiện có được dùng dần, giá tăng sẽ dẫn tới những đợt đầu tư thăm dò lớn mới.
+Theo Sowell, cũng như thiếu hụt và dư thừa không chỉ là chuyện có bao nhiêu vật chất, trữ lượng tài nguyên đã biết không chỉ là chuyện có bao nhiêu vật chất dưới đất. Giá cả, và giá trị hiện tại, là yếu tố then chốt. Lượng tài nguyên được biết là có tuỳ vào chi phí để biết.
+
+Thăm dò dầu rất tốn kém: năm 2011, *New York Times* đưa tin các nhà thăm dò đã xác định một mỏ dầu lớn tiềm năng ở độ sâu hai dặm dưới đáy biển, trên một dải đất cao cỡ vùng đô thị Houston, và giờ họ chỉ cần chi 100 triệu USD để biết mình có đúng không. Chi phí sản xuất dầu gồm cả chi phí thăm dò địa chất lẫn chi phí khoan những giếng khô đắt đỏ trước khi gặp dầu.
+
+Khi chi phí này tích luỹ trong lúc ngày càng nhiều dầu được tìm thấy trên thế giới, nguồn cung đã biết dồi dào hơn làm giá giảm theo cung cầu. Đến một lúc, chi phí mỗi thùng để tìm thêm và xử lý dầu ở một chỗ vượt giá trị hiện tại mỗi thùng dầu có khả năng tìm thấy ở đó, và việc thăm dò không còn đáng làm. Tuỳ hoàn cảnh, tổng lượng dầu đã tìm thấy lúc đó có thể chỉ cỡ "13 năm" đã sinh ra những dự báo bi quan. Nhưng khi nguồn dầu hiện có được dùng dần, giá tăng sẽ dẫn tới những đợt đầu tư thăm dò lớn mới.
 
 Một dự án thăm dò dầu lớn ở Vịnh Mexico cho thấy quy mô chi phí:
 
@@ -842,7 +907,9 @@ Sowell đề nghị người đọc hình dung lãi suất cao gấp đôi trên
 
 Khi trữ lượng đã biết bị dùng dần, giá trị hiện tại của mỗi thùng dầu còn lại bắt đầu tăng và việc thăm dò thêm lại có lời. Nhưng tại bất kỳ thời điểm nào, không bao giờ đáng tìm hết số dầu dưới đất hay dưới biển, thậm chí không đáng tìm quá một phần rất nhỏ. Theo Sowell, điều thật sự "đáng" là viết những dự báo hoảng loạn rằng ta sắp cạn tài nguyên: chúng đem lại doanh số sách, rating truyền hình, quyền lực chính trị và danh tiếng cá nhân.
 
-Đầu thế kỷ 21, cuốn sách *Twilight in the Desert* (Hoàng hôn trên sa mạc) kết luận rằng sớm hay muộn mức dùng dầu thế giới phải đạt đỉnh, vì dầu, như than và khí đốt, là nhiên liệu không tái tạo. Sowell cho rằng điều đó đúng về mặt trừu tượng, như việc sớm hay muộn mặt trời cũng sẽ nguội, nhưng rất khác với việc nói nó liên quan tới bất kỳ vấn đề nào ta gặp trong thế kỷ tới hay thiên niên kỷ tới. Hàm ý của cuốn sách là ta đang đối mặt một cuộc khủng hoảng năng lượng kéo dài ngay trong thời đại mình, và việc giá dầu thô vọt lên 147 USD/thùng, giá xăng lên 4 USD/gallon, khiến hàm ý đó có vẻ đáng tin. Nhưng năm 2010, *New York Times* đưa tin: đúng lúc thế giới tưởng như sắp hết nhiên liệu thì người ta phát hiện các mỏ dầu khổng lồ ngoài khơi Brazil và châu Phi, các dự án cát dầu ở Canada mở rộng nhanh đến mức cung cấp cho Bắc Mỹ nhiều dầu hơn Ả Rập Saudi, và Mỹ tăng sản lượng dầu nội địa lần đầu tiên sau một thế hệ.
+Đầu thế kỷ 21, cuốn sách *Twilight in the Desert* (Hoàng hôn trên sa mạc) kết luận rằng sớm hay muộn mức dùng dầu thế giới phải đạt đỉnh, vì dầu, như than và khí đốt, là nhiên liệu không tái tạo. Sowell cho rằng điều đó đúng về mặt trừu tượng, như việc sớm hay muộn mặt trời cũng sẽ nguội, nhưng rất khác với việc nói nó liên quan tới bất kỳ vấn đề nào ta gặp trong thế kỷ tới hay thiên niên kỷ tới. Hàm ý của cuốn sách là ta đang đối mặt một cuộc khủng hoảng năng lượng kéo dài ngay trong thời đại mình, và việc giá dầu thô vọt lên 147 USD/thùng, giá xăng lên 4 USD/gallon, khiến hàm ý đó có vẻ đáng tin.
+
+Nhưng năm 2010, *New York Times* đưa tin: đúng lúc thế giới tưởng như sắp hết nhiên liệu thì người ta phát hiện các mỏ dầu khổng lồ ngoài khơi Brazil và châu Phi, các dự án cát dầu ở Canada mở rộng nhanh đến mức cung cấp cho Bắc Mỹ nhiều dầu hơn Ả Rập Saudi, và Mỹ tăng sản lượng dầu nội địa lần đầu tiên sau một thế hệ.
 
 Ngay cả mức tiêu thụ năng lượng khổng lồ suốt thế kỷ 20 cũng không làm giảm trữ lượng đã biết:
 
@@ -855,11 +922,17 @@ Ngay cả mức tiêu thụ năng lượng khổng lồ suốt thế kỷ 20 cũ
 | Đồng | 100 triệu tấn năm 1945; sau 25 năm mức dùng tăng chưa từng có, trữ lượng đã biết gấp 3; đến 1999 lại tăng gấp đôi |
 | Khí đốt tự nhiên ở Mỹ | Từ 1.532 nghìn tỷ feet khối (2006) lên 2.074 nghìn tỷ feet khối (2008), tăng khoảng 1/3 chỉ trong hai năm |
 
-Ngay cả khi một mỏ dầu đã được phát hiện và đang khai thác, cân nhắc kinh tế khiến mỏ không bị hút cạn. Theo *The Economist*, vài thập kỷ trước tỷ lệ thu hồi dầu trung bình từ mỏ là 20%; nhờ tiến bộ công nghệ, nay khoảng 35%. Nghĩa là gần 2/3 lượng dầu trong một mỏ bị bỏ lại vì lấy ra hết, hay thậm chí phần lớn, là quá tốn với công nghệ và giá dầu hiện tại. Nhưng số dầu đó vẫn ở đó và vị trí đã được biết. Nếu và khi ta thật sự "cạn" dầu khai thác được với chi phí hiện tại, bước tiếp theo là khai thác dầu đắt hơn một chút, rồi đắt hơn nữa. Rõ ràng ta chưa ở điểm đó khi phần lớn dầu đã phát hiện vẫn nằm dưới đất hay dưới biển. Khi công nghệ cải thiện, khai thác thêm từ giếng cũ trở nên khả thi về kinh tế. Năm 2007, *New York Times* nêu ví dụ mỏ Kern River, phát hiện năm 1899: sản lượng đã giảm còn 10.000 thùng/ngày vào thập niên 1960, nhưng được hồi sinh khi kỹ sư Chevron bơm hơi nước áp suất cao để đẩy dầu ra, và nay đạt 85.000 thùng/ngày.
+Ngay cả khi một mỏ dầu đã được phát hiện và đang khai thác, cân nhắc kinh tế khiến mỏ không bị hút cạn. Theo *The Economist*, vài thập kỷ trước tỷ lệ thu hồi dầu trung bình từ mỏ là 20%; nhờ tiến bộ công nghệ, nay khoảng 35%. Nghĩa là gần 2/3 lượng dầu trong một mỏ bị bỏ lại vì lấy ra hết, hay thậm chí phần lớn, là quá tốn với công nghệ và giá dầu hiện tại. Nhưng số dầu đó vẫn ở đó và vị trí đã được biết.
+
+Nếu và khi ta thật sự "cạn" dầu khai thác được với chi phí hiện tại, bước tiếp theo là khai thác dầu đắt hơn một chút, rồi đắt hơn nữa. Rõ ràng ta chưa ở điểm đó khi phần lớn dầu đã phát hiện vẫn nằm dưới đất hay dưới biển.
+
+Khi công nghệ cải thiện, khai thác thêm từ giếng cũ trở nên khả thi về kinh tế. Năm 2007, *New York Times* nêu ví dụ mỏ Kern River, phát hiện năm 1899: sản lượng đã giảm còn 10.000 thùng/ngày vào thập niên 1960, nhưng được hồi sinh khi kỹ sư Chevron bơm hơi nước áp suất cao để đẩy dầu ra, và nay đạt 85.000 thùng/ngày.
 
 Điều này không riêng gì dầu. Khi than còn sẵn trên mặt đất, không đáng đào xuống xây mỏ than, vì than khai thác dưới đất với chi phí cao không cạnh tranh được với than nhặt trên mặt đất với chi phí thấp. Chỉ khi than rẻ nhất đã hết, việc đào xuống lấy thêm mới có lời.
 
-**Vụ cá cược Simon–Ehrlich.** Khác biệt giữa cách tiếp cận kinh tế và cách tiếp cận hoảng loạn với tài nguyên thể hiện qua vụ cá cược giữa nhà kinh tế Julian Simon và nhà môi trường Paul Ehrlich. Giáo sư Simon đề nghị cược với bất kỳ ai rằng bất kỳ nhóm năm tài nguyên nào họ chọn, trong bất kỳ khoảng thời gian nào họ chọn, sẽ không tăng chi phí thực. Một nhóm do Giáo sư Ehrlich dẫn đầu nhận cược, chọn năm tài nguyên và chọn mười năm làm khoảng thời gian đo. Cuối thập kỷ đó, không chỉ chi phí thực của cả nhóm năm tài nguyên giảm mà chi phí thực của từng tài nguyên mà họ cho là sẽ tăng cũng giảm. Sowell lập luận: nếu ta gần cạn các tài nguyên đó, giá của chúng đã tăng vì giá trị hiện tại của tài nguyên có nguy cơ khan hiếm hơn sẽ tăng.
+**Vụ cá cược Simon–Ehrlich.** Khác biệt giữa cách tiếp cận kinh tế và cách tiếp cận hoảng loạn với tài nguyên thể hiện qua vụ cá cược giữa nhà kinh tế Julian Simon và nhà môi trường Paul Ehrlich. Giáo sư Simon đề nghị cược với bất kỳ ai rằng bất kỳ nhóm năm tài nguyên nào họ chọn, trong bất kỳ khoảng thời gian nào họ chọn, sẽ không tăng chi phí thực.
+
+Một nhóm do Giáo sư Ehrlich dẫn đầu nhận cược, chọn năm tài nguyên và chọn mười năm làm khoảng thời gian đo. Cuối thập kỷ đó, không chỉ chi phí thực của cả nhóm năm tài nguyên giảm mà chi phí thực của từng tài nguyên mà họ cho là sẽ tăng cũng giảm. Sowell lập luận: nếu ta gần cạn các tài nguyên đó, giá của chúng đã tăng vì giá trị hiện tại của tài nguyên có nguy cơ khan hiếm hơn sẽ tăng.
 
 Xét tận cùng, tổng lượng tài nguyên dĩ nhiên phải giảm dần. Nhưng một tài nguyên sẽ cạn nhiều thế kỷ sau khi nó đã lỗi thời, hay một nghìn năm sau khi mặt trời nguội, không phải vấn đề thực tế nghiêm trọng. Nếu nó sẽ cạn trong khoảng thời gian có ý nghĩa thực tế, giá trị hiện tại tăng của tài nguyên sắp cạn sẽ tự động buộc người ta tiết kiệm, không cần hoảng loạn trong công chúng hay hô hào chính trị. Như giá cả khiến người cùng thời chia sẻ tài nguyên khan hiếm với nhau, giá trị hiện tại khiến ta chia sẻ tài nguyên qua thời gian với các thế hệ sau, mà không cần biết mình đang chia sẻ.
 
@@ -867,15 +940,27 @@ Dĩ nhiên cũng có thể chia sẻ bằng chính trị, để chính phủ n�
 
 Nhà hoạch định dễ đưa ra dự báo sai, vì thiếu hiểu biết hoặc vì động cơ chính trị như muốn thêm quyền lực, tái đắc cử. Trong thập niên 1970, các nhà khoa học chính phủ được yêu cầu ước tính trữ lượng khí đốt tự nhiên của Mỹ và thời gian còn dùng được với mức tiêu thụ lúc đó. Họ ước tính Mỹ có đủ khí đốt dùng hơn một nghìn năm. Có người coi đó là tin tốt, nhưng về chính trị đó là tin xấu, vì lúc ấy Tổng thống đang vận động công chúng ủng hộ thêm các chương trình của chính phủ để đối phó "khủng hoảng" năng lượng. Chính quyền Carter bác bỏ ước tính này và cho làm một nghiên cứu mới, đưa ra kết quả dễ chấp nhận hơn về chính trị.
 
-Đôi khi trữ lượng đã biết có vẻ đặc biệt nhỏ vì lượng khai thác được với chi phí khả thi hiện tại thật sự sắp hết trong vài năm. Có thể có lượng rất lớn khai thác được với chi phí cao hơn một chút, nhưng sẽ không ai động tới cho tới khi lượng rẻ hơn hết. Hồi còn nhiều than nằm sẵn trên mặt đất, người ta có thể báo động rằng ta sắp "cạn" than "khả thi về kinh tế", than lấy được mà không tốn "chi phí quá cao". Nhưng theo Sowell, mục đích của giá chính là để ngăn: ở đây, giá ngăn người ta dùng nguồn đắt hơn một cách không cần thiết khi vẫn còn nguồn rẻ hơn của cùng loại tài nguyên. Tình hình tương tự với dầu ngày nay, khi phần lớn dầu trong một mỏ bị bỏ lại vì chi phí lấy phần khó lấy không được giá thị trường bù đắp.
+Đôi khi trữ lượng đã biết có vẻ đặc biệt nhỏ vì lượng khai thác được với chi phí khả thi hiện tại thật sự sắp hết trong vài năm. Có thể có lượng rất lớn khai thác được với chi phí cao hơn một chút, nhưng sẽ không ai động tới cho tới khi lượng rẻ hơn hết.
+
+Hồi còn nhiều than nằm sẵn trên mặt đất, người ta có thể báo động rằng ta sắp "cạn" than "khả thi về kinh tế", than lấy được mà không tốn "chi phí quá cao". Nhưng theo Sowell, mục đích của giá chính là để ngăn: ở đây, giá ngăn người ta dùng nguồn đắt hơn một cách không cần thiết khi vẫn còn nguồn rẻ hơn của cùng loại tài nguyên. Tình hình tương tự với dầu ngày nay, khi phần lớn dầu trong một mỏ bị bỏ lại vì chi phí lấy phần khó lấy không được giá thị trường bù đắp.
 
 Cát dầu ở Canada cho thấy giá quyết định bao nhiêu tài nguyên đáng được khai thác. Trong khủng hoảng dầu năm 2005, khi giá xăng ở Mỹ tăng gấp đôi so với chưa đầy hai năm trước và người ta lo thế giới cạn dầu, *Wall Street Journal* đưa tin: vùng Athabasca ở Alberta, Canada, theo lý thuyết có thể cho khoảng 1.700 đến 2.500 tỷ thùng dầu từ 54.000 dặm vuông cát dầu, đứng thứ hai sau Ả Rập Saudi về trữ lượng. Trữ lượng này phần lớn chưa được khai thác vì tách dầu khỏi cát đắt và phức tạp: cần khoảng hai tấn cát cho một thùng dầu. Nhưng nếu giá dầu giữ trên 30 USD/thùng, như từ cuối năm 2003, khai thác cát dầu sẽ có lãi, và một số đầu tư, sản xuất hạn chế đã bắt đầu.
 
-Nếu công nghệ không bao giờ tiến bộ, mọi tài nguyên sẽ đắt dần theo thời gian, vì những mỏ dễ lấy và dễ xử lý nhất được dùng trước, sau đó mới tới mỏ khó tiếp cận, nghèo hơn hay khó xử lý hơn. Nhưng với công nghệ cải thiện, chi phí có được tài nguyên tương lai có thể còn thấp hơn, như đã xảy ra với các tài nguyên trong vụ cá cược Simon–Ehrlich. Chi phí trung bình để tìm một thùng dầu giảm từ 15 USD năm 1977 xuống 5 USD năm 1998; không lạ khi trữ lượng đã biết lớn hơn sau khi chi phí để biết giảm. Niken cũng vậy. Khi giá niken tăng đầu thế kỷ 21, *Wall Street Journal* viết rằng vài năm trước khó tìm được ví dụ dự án khai khoáng thất bại nào rõ hơn Murrin Murrin, một mỏ niken khổng lồ gặp nhiều trắc trở sâu trong sa mạc Tây Úc; nay nó được nhà đầu tư ưa chuộng, cổ phiếu công ty vận hành tăng hơn ba lần trong một năm. Sự đảo chiều cho thấy một sự thật trung tâm của đợt bùng nổ hàng hoá: với giá cao như vậy, nhất là giá niken (dùng chủ yếu để làm thép không gỉ), ngay cả những dự án khó về kỹ thuật hay trục trặc kinh niên cũng trở nên hấp dẫn.
+Nếu công nghệ không bao giờ tiến bộ, mọi tài nguyên sẽ đắt dần theo thời gian, vì những mỏ dễ lấy và dễ xử lý nhất được dùng trước, sau đó mới tới mỏ khó tiếp cận, nghèo hơn hay khó xử lý hơn. Nhưng với công nghệ cải thiện, chi phí có được tài nguyên tương lai có thể còn thấp hơn, như đã xảy ra với các tài nguyên trong vụ cá cược Simon–Ehrlich.
 
-Sowell kết chương: trữ lượng tài nguyên của một nước thường được bàn bằng khối lượng vật chất, nhưng phải tính tới chi phí, giá cả và giá trị hiện tại mới đi tới kết luận thực tế. Ngoài những báo động không cần thiết về cạn kiệt, cũng có những lời lạc quan vô căn cứ rằng một nước nghèo nào đó có "của cải thiên nhiên" trị giá hàng tỷ USD dưới dạng quặng sắt, bô-xít hay tài nguyên khác. Những lời đó ít ý nghĩa nếu không xét chi phí khai thác và xử lý, vốn khác nhau rất nhiều giữa các nơi. Chẳng hạn, khai thác dầu từ cát dầu Canada tốn kém đến mức cho tới vài năm gần đây số dầu đó còn không được tính vào trữ lượng dầu thế giới; nhưng khi giá dầu vượt 100 USD/thùng, Canada trở thành một trong những nước dẫn đầu thế giới về trữ lượng dầu.
+Chi phí trung bình để tìm một thùng dầu giảm từ 15 USD năm 1977 xuống 5 USD năm 1998; không lạ khi trữ lượng đã biết lớn hơn sau khi chi phí để biết giảm.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một người lao động cần vay gấp 2.000.000 đồng trong 14 ngày để trả viện phí, sẽ trả khi nhận lương. Với bên cho vay, khoản "lãi" phải bù ba thứ. Thứ nhất, chi phí xử lý hồ sơ (thẩm định, giải ngân, nhắc nợ), giả sử 60.000 đồng, gần như không đổi dù vay 2 triệu hay 20 triệu. Thứ hai, bù rủi ro: nếu khoảng 5% khoản vay loại này không đòi được, mỗi khoản phải gánh thêm khoảng 100.000 đồng. Thứ ba, bù thời gian chờ theo lãi suất 8%/năm: 2.000.000 × 8% × 14/365, khoảng 6.100 đồng. Tổng cộng khoảng 166.000 đồng, tức 8,3% cho 14 ngày; quy ra năm (cách tính đơn) là khoảng 217%/năm. Con số "217%/năm" nghe như cho vay nặng lãi, nhưng phần bù thời gian chờ chỉ khoảng 6.100 đồng; phần lớn còn lại là bù rủi ro (100.000 đồng) và chi phí xử lý hồ sơ (60.000 đồng), mà chi phí xử lý thì theo nghĩa chặt của kinh tế học không phải là lãi. Nếu luật đặt trần 20%/năm, bên cho vay chỉ được thu tối đa khoảng 15.300 đồng cho khoản vay này, không đủ cả phí xử lý hồ sơ, nên họ sẽ không cho vay. Người lao động khi đó không được "bảo vệ" mà phải tìm nguồn khác, có thể đắt hơn hoặc không hợp pháp. Đó là lập luận của Sowell về khoản vay đến ngày lĩnh lương ở Oregon.
+Niken cũng vậy. Khi giá niken tăng đầu thế kỷ 21, *Wall Street Journal* viết rằng vài năm trước khó tìm được ví dụ dự án khai khoáng thất bại nào rõ hơn Murrin Murrin, một mỏ niken khổng lồ gặp nhiều trắc trở sâu trong sa mạc Tây Úc; nay nó được nhà đầu tư ưa chuộng, cổ phiếu công ty vận hành tăng hơn ba lần trong một năm. Sự đảo chiều cho thấy một sự thật trung tâm của đợt bùng nổ hàng hoá: với giá cao như vậy, nhất là giá niken (dùng chủ yếu để làm thép không gỉ), ngay cả những dự án khó về kỹ thuật hay trục trặc kinh niên cũng trở nên hấp dẫn.
+
+Sowell kết chương: trữ lượng tài nguyên của một nước thường được bàn bằng khối lượng vật chất, nhưng phải tính tới chi phí, giá cả và giá trị hiện tại mới đi tới kết luận thực tế. Ngoài những báo động không cần thiết về cạn kiệt, cũng có những lời lạc quan vô căn cứ rằng một nước nghèo nào đó có "của cải thiên nhiên" trị giá hàng tỷ USD dưới dạng quặng sắt, bô-xít hay tài nguyên khác.
+
+Những lời đó ít ý nghĩa nếu không xét chi phí khai thác và xử lý, vốn khác nhau rất nhiều giữa các nơi. Chẳng hạn, khai thác dầu từ cát dầu Canada tốn kém đến mức cho tới vài năm gần đây số dầu đó còn không được tính vào trữ lượng dầu thế giới; nhưng khi giá dầu vượt 100 USD/thùng, Canada trở thành một trong những nước dẫn đầu thế giới về trữ lượng dầu.
+
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, mọi con số là giả định). Một người lao động cần vay gấp 2.000.000 đồng trong 14 ngày để trả viện phí, sẽ trả khi nhận lương. Với bên cho vay, khoản "lãi" phải bù ba thứ. Thứ nhất, chi phí xử lý hồ sơ (thẩm định, giải ngân, nhắc nợ), giả sử 60.000 đồng, gần như không đổi dù vay 2 triệu hay 20 triệu. Thứ hai, bù rủi ro: nếu khoảng 5% khoản vay loại này không đòi được, mỗi khoản phải gánh thêm khoảng 100.000 đồng. Thứ ba, bù thời gian chờ theo lãi suất 8%/năm: 2.000.000 × 8% × 14/365, khoảng 6.100 đồng.
+
+Tổng cộng khoảng 166.000 đồng, tức 8,3% cho 14 ngày; quy ra năm (cách tính đơn) là khoảng 217%/năm. Con số "217%/năm" nghe như cho vay nặng lãi, nhưng phần bù thời gian chờ chỉ khoảng 6.100 đồng; phần lớn còn lại là bù rủi ro (100.000 đồng) và chi phí xử lý hồ sơ (60.000 đồng), mà chi phí xử lý thì theo nghĩa chặt của kinh tế học không phải là lãi.
+
+Nếu luật đặt trần 20%/năm, bên cho vay chỉ được thu tối đa khoảng 15.300 đồng cho khoản vay này, không đủ cả phí xử lý hồ sơ, nên họ sẽ không cho vay. Người lao động khi đó không được "bảo vệ" mà phải tìm nguồn khác, có thể đắt hơn hoặc không hợp pháp. Đó là lập luận của Sowell về khoản vay đến ngày lĩnh lương ở Oregon.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -1000,7 +1085,9 @@ Câu chuyện người hoạ sĩ làm được điều mà nhiều giáo trình 
 
 ### Phần khoản vay đến ngày lĩnh lương có lập luận chặt, nhưng bỏ qua câu hỏi về hành vi người vay
 
-Phân tách "lãi" thành bù thời gian, bù rủi ro và chi phí xử lý là đúng và hữu ích; bằng chứng Oregon cho thấy trần lãi suất thật sự làm co nguồn cung. Nhưng Sowell giả định người vay luôn tính toán đúng ("họ đã tự thấy hậu quả khác tệ hơn, nếu không đã chẳng vay"). Những người ủng hộ quản lý loại cho vay này chủ yếu không lo về một lần vay mà về việc vay quay vòng: người vay không trả được sau 2 tuần, phải gia hạn nhiều lần, và tổng phí thật sự lớn so với khoản vay. Kinh tế học hành vi đặt câu hỏi liệu mọi người vay có đánh giá đúng khả năng trả của mình không. Sowell không bàn khía cạnh này. Lập luận của ông mạnh nhất khi chống lại trần lãi suất cứng, yếu hơn khi chống lại mọi hình thức quản lý (như yêu cầu công khai tổng chi phí hay hạn chế số lần gia hạn).
+Phân tách "lãi" thành bù thời gian, bù rủi ro và chi phí xử lý là đúng và hữu ích; bằng chứng Oregon cho thấy trần lãi suất thật sự làm co nguồn cung. Nhưng Sowell giả định người vay luôn tính toán đúng ("họ đã tự thấy hậu quả khác tệ hơn, nếu không đã chẳng vay"). Những người ủng hộ quản lý loại cho vay này chủ yếu không lo về một lần vay mà về việc vay quay vòng: người vay không trả được sau 2 tuần, phải gia hạn nhiều lần, và tổng phí thật sự lớn so với khoản vay.
+
+Kinh tế học hành vi đặt câu hỏi liệu mọi người vay có đánh giá đúng khả năng trả của mình không. Sowell không bàn khía cạnh này. Lập luận của ông mạnh nhất khi chống lại trần lãi suất cứng, yếu hơn khi chống lại mọi hình thức quản lý (như yêu cầu công khai tổng chi phí hay hạn chế số lần gia hạn).
 
 ### Lập luận về tỷ lệ từ chối vay theo chủng tộc là một phép thử gọn nhưng chưa đủ để loại trừ phân biệt đối xử
 
@@ -1008,7 +1095,11 @@ Quan sát rằng người cho vay (phần lớn là người da trắng) từ ch
 
 ### Về tài nguyên, diễn biến sau 2014 phần lớn ủng hộ Sowell, nhưng kết quả vụ cá cược Simon–Ehrlich phụ thuộc vào thập kỷ được chọn
 
-Vụ cá cược diễn ra trong giai đoạn 1980–1990, với năm kim loại là crom, đồng, niken, thiếc và vonfram, và Ehrlich đã thua, đúng như Sowell kể. Nhưng các nhà kinh tế sau này chỉ ra rằng nếu cùng vụ cược được đặt ở nhiều khoảng mười năm khác trong thế kỷ 20, Ehrlich sẽ thắng ở một số khoảng; giá tài nguyên dao động theo chu kỳ dài, và thập niên 1980 là giai đoạn giá giảm. Điều Simon đúng là về dài hạn, giá thực của nhiều tài nguyên không có xu hướng tăng bền vững nhờ thăm dò và công nghệ. Sau khi sách ra (2014), sản lượng dầu đá phiến ở Mỹ tiếp tục tăng mạnh và Mỹ trở thành nước sản xuất dầu lớn nhất thế giới, một minh chứng mạnh cho lập luận rằng giá cao kích thích công nghệ và làm tăng trữ lượng đã biết. Tuy nhiên, lập luận của Sowell chỉ xét tài nguyên có thị trường và có giá. Với những thứ không có giá như khả năng hấp thụ khí thải của khí quyển, cơ chế giá trị hiện tại không tự vận hành; đó là lý do cuộc tranh luận về tài nguyên đã chuyển trọng tâm từ "cạn dầu" sang biến đổi khí hậu, một chủ đề chương này không bàn.
+Vụ cá cược diễn ra trong giai đoạn 1980–1990, với năm kim loại là crom, đồng, niken, thiếc và vonfram, và Ehrlich đã thua, đúng như Sowell kể. Nhưng các nhà kinh tế sau này chỉ ra rằng nếu cùng vụ cược được đặt ở nhiều khoảng mười năm khác trong thế kỷ 20, Ehrlich sẽ thắng ở một số khoảng; giá tài nguyên dao động theo chu kỳ dài, và thập niên 1980 là giai đoạn giá giảm. Điều Simon đúng là về dài hạn, giá thực của nhiều tài nguyên không có xu hướng tăng bền vững nhờ thăm dò và công nghệ.
+
+Sau khi sách ra (2014), sản lượng dầu đá phiến ở Mỹ tiếp tục tăng mạnh và Mỹ trở thành nước sản xuất dầu lớn nhất thế giới, một minh chứng mạnh cho lập luận rằng giá cao kích thích công nghệ và làm tăng trữ lượng đã biết.
+
+Tuy nhiên, lập luận của Sowell chỉ xét tài nguyên có thị trường và có giá. Với những thứ không có giá như khả năng hấp thụ khí thải của khí quyển, cơ chế giá trị hiện tại không tự vận hành; đó là lý do cuộc tranh luận về tài nguyên đã chuyển trọng tâm từ "cạn dầu" sang biến đổi khí hậu, một chủ đề chương này không bàn.
 
 ### Nhận xét "vốn con người không bằng số năm đi học" sâu sắc, nhưng dễ bị đọc nhầm thành lời coi nhẹ việc đi học
 
@@ -1016,11 +1107,15 @@ Ví dụ Edison và anh em nhà Wright chỉ ra rằng kinh nghiệm thực tế
 
 ### Nhiều diễn biến sau 2014 tái hiện đúng các cơ chế Sowell mô tả
 
-Amazon từ ví dụ "tăng giá trước khi có lãi" trở thành một trong những công ty lãi lớn nhất thế giới, minh hoạ mặt thành công của đầu cơ; nhiều công ty Internet cùng thời đã phá sản, đúng với ý của Sowell rằng người quan sát chỉ thấy doanh nghiệp sống sót mà không thấy những doanh nghiệp tương tự đã thất bại. Đại dịch COVID-19 cho thấy bài học vòng găng piston 1,50 USD ở quy mô toàn cầu: thiếu chip bán dẫn đã làm ngừng nhiều dây chuyền ô tô, và nhiều doanh nghiệp chuyển từ chiến lược tồn kho tối thiểu sang giữ dự phòng nhiều hơn, đúng với nhận xét của Sowell rằng tồn kho thay cho kiến thức khi tương lai bất định. Lãi suất ở các nền kinh tế lớn ở mức rất thấp suốt thập niên 2010 rồi tăng mạnh từ 2022, tái hiện cơ chế Sowell mô tả: lãi suất thấp đẩy giá nhà lên, lãi suất cao kéo thị trường nhà đất và đầu tư chậm lại.
+Amazon từ ví dụ "tăng giá trước khi có lãi" trở thành một trong những công ty lãi lớn nhất thế giới, minh hoạ mặt thành công của đầu cơ; nhiều công ty Internet cùng thời đã phá sản, đúng với ý của Sowell rằng người quan sát chỉ thấy doanh nghiệp sống sót mà không thấy những doanh nghiệp tương tự đã thất bại.
+
+Đại dịch COVID-19 cho thấy bài học vòng găng piston 1,50 USD ở quy mô toàn cầu: thiếu chip bán dẫn đã làm ngừng nhiều dây chuyền ô tô, và nhiều doanh nghiệp chuyển từ chiến lược tồn kho tối thiểu sang giữ dự phòng nhiều hơn, đúng với nhận xét của Sowell rằng tồn kho thay cho kiến thức khi tương lai bất định. Lãi suất ở các nền kinh tế lớn ở mức rất thấp suốt thập niên 2010 rồi tăng mạnh từ 2022, tái hiện cơ chế Sowell mô tả: lãi suất thấp đẩy giá nhà lên, lãi suất cao kéo thị trường nhà đất và đầu tư chậm lại.
 
 ### Quan điểm trái chiều: thị trường tài chính cũng có thể tự tạo ra rủi ro
 
-Sowell trình bày đầu cơ và trung gian tài chính chủ yếu ở mặt giảm và phân bổ rủi ro. Những người chỉ trích, nhất là sau khủng hoảng 2008, cho rằng tài chính cũng có thể khuếch đại rủi ro: đầu cơ dùng đòn bẩy có thể đẩy giá xa khỏi giá trị cơ bản (chính vụ bạc năm 1980 là một vụ anh em nhà Hunt tìm cách thao túng thị trường, chứ không chỉ là đầu cơ đơn thuần), và trung gian tài chính có thể cho vay quá mức khi lãi suất thấp. Đáng chú ý là chính Sowell kể Fed hạ lãi suất đầu thế kỷ 21 làm giá nhà tăng; ông không nói tiếp ở chương này, nhưng nhiều nhà phân tích cho rằng chuỗi sự kiện đó góp phần dẫn tới bong bóng nhà đất và khủng hoảng 2008. Lập luận "đầu cơ ngược với cờ bạc" đúng với hợp đồng tương lai của nông dân, nhưng không tự động đúng với mọi hoạt động đầu cơ.
+Sowell trình bày đầu cơ và trung gian tài chính chủ yếu ở mặt giảm và phân bổ rủi ro. Những người chỉ trích, nhất là sau khủng hoảng 2008, cho rằng tài chính cũng có thể khuếch đại rủi ro: đầu cơ dùng đòn bẩy có thể đẩy giá xa khỏi giá trị cơ bản (chính vụ bạc năm 1980 là một vụ anh em nhà Hunt tìm cách thao túng thị trường, chứ không chỉ là đầu cơ đơn thuần), và trung gian tài chính có thể cho vay quá mức khi lãi suất thấp.
+
+Đáng chú ý là chính Sowell kể Fed hạ lãi suất đầu thế kỷ 21 làm giá nhà tăng; ông không nói tiếp ở chương này, nhưng nhiều nhà phân tích cho rằng chuỗi sự kiện đó góp phần dẫn tới bong bóng nhà đất và khủng hoảng 2008. Lập luận "đầu cơ ngược với cờ bạc" đúng với hợp đồng tương lai của nông dân, nhưng không tự động đúng với mọi hoạt động đầu cơ.
 
 ### Vận dụng: trước mỗi khoản "lãi" hay "lợi nhuận" bị coi là quá cao, hãy hỏi nó đang trả cho thời gian chờ, rủi ro hay chi phí nào
 
@@ -1028,3 +1123,161 @@ Sowell trình bày đầu cơ và trung gian tài chính chủ yếu ở mặt g
 - **Trong đầu tư.** Định giá mọi tài sản đều là tính giá trị hiện tại: khi lãi suất tăng, giá trị hiện tại của các lợi ích ở xa (cổ phiếu tăng trưởng, bất động sản cho thuê dài hạn) giảm mạnh nhất. Khi đọc các con số "trữ lượng" hay "tài nguyên trị giá hàng tỷ USD" của một dự án khai khoáng, hãy hỏi chi phí khai thác mỗi đơn vị so với giá hiện tại, như ví dụ cát dầu Canada và Murrin Murrin. Và nhớ thiên lệch người sống sót: những doanh nghiệp thành công bạn nhìn thấy không cho biết bao nhiêu doanh nghiệp tương tự đã thất bại.
 - **Trong nghề nghiệp.** Bằng cấp chỉ là một dạng vốn con người; kỹ năng mà thị trường cần và kinh nghiệm thực tế cũng là vốn. Theo Sowell, lương thấp và ít việc trong một ngành là tín hiệu thị trường đáng nghe trước khi bỏ thêm nhiều năm đầu tư vào ngành đó. Như người hoạ sĩ, giá trị của bạn trong năm phút là kết quả của nhiều năm tích luỹ.
 - **Khi đọc tin chính sách.** Ở Việt Nam, khi báo chí nêu lãi suất quy năm rất cao của các khoản vay tiêu dùng nhỏ, ngắn hạn, hay khi có đề xuất siết trần lãi suất, nên tách khoản "lãi" thành bù thời gian, bù rủi ro và chi phí xử lý, rồi hỏi: nếu trần thấp hơn chi phí thật, người vay thu nhập thấp sẽ đi đâu, liệu có phải sang tín dụng đen. Tương tự, khi có lời kêu gọi hạn chế đầu cơ (bất động sản, nông sản, vàng), nên phân biệt hoạt động chuyển rủi ro giúp người sản xuất với hoạt động dùng đòn bẩy để đẩy giá, vì Sowell bảo vệ loại thứ nhất chứ không nhất thiết bảo vệ loại thứ hai.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 13 trên một trang: sáu nhánh lớn đi theo các mục 1–9 của phần Nội dung chi tiết (định nghĩa đầu tư và vốn con người, đầu tư tài chính và thu nhập "không làm mà có", lãi suất và khoản vay đến ngày lĩnh lương, đầu cơ và hàng tồn kho, giá trị hiện tại, tài nguyên thiên nhiên), mỗi nhánh ghi cơ chế, ví dụ và con số then chốt của Sowell; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 13: đầu tư là hy sinh thứ có thật hôm nay để có nhiều hơn trong tương lai, và đền đáp cho nó là cái giá cần thiết`"]
+  n1["`Mục 1–2 — Đầu tư là gì và vốn con người`"]
+  n0 --- n1
+  n2["`Hoạ sĩ Greenwich Village vẽ chân dung 100 USD trong 5 phút: #quot;hai mươi năm và năm phút#quot;`"]
+  n1 --- n2
+  n3["`Với xã hội, đầu tư là chuyển lao động và vốn từ hàng tiêu dùng sang máy móc, nhà máy`"]
+  n1 --- n3
+  n4["`Hoàn lại khoản đầu tư là chuyện kinh tế, không phải đạo đức: lợi suất không đủ thì ít người đầu tư`"]
+  n1 --- n4
+  n5["`Lương thấp, ít việc là tín hiệu bảo người học ngành ít ai cần dừng loại đầu tư ấy`"]
+  n1 --- n5
+  n6["`Vốn con người không bằng số năm đi học: Edison chỉ học chính quy 3 tháng, hai thợ sửa xe đạp làm ra máy bay`"]
+  n1 --- n6
+  n7["`Giáo dục sai loại có thể có giá trị âm: thanh niên có bằng thất nghiệp, chính phủ phình bộ máy để thuê họ`"]
+  n1 --- n7
+  n8["`Ấn Độ: nhà Tata bị gạt cả 119 đề xuất (1960–1989), sau cải cách 1991 đầu tư nước ngoài tăng 20 lần`"]
+  n7 --- n8
+  n9["`Mục 3–4 — Trung gian tài chính và thu nhập #quot;không làm mà có#quot;`"]
+  n0 --- n9
+  n10["`Năm 2009 định chế tài chính thế giới nắm 60.000 tỷ USD tài sản, định chế Mỹ chiếm 45%`"]
+  n9 --- n10
+  n11["`Trung gian gom tiết kiệm nhỏ lẻ, đánh giá rủi ro, cho vay, giúp phân bổ tiêu dùng qua thời gian`"]
+  n9 --- n11
+  n12["`Tiết kiệm cao nhất ở nhóm 55–59 tuổi, nhóm dưới 30 tuổi tiết kiệm ròng âm ở Mỹ`"]
+  n11 --- n12
+  n13["`Nước nghèo giàu tài nguyên vẫn nghèo khi thiếu định chế, luật lệ đáng tin và quyền tài sản an toàn`"]
+  n9 --- n13
+  n14["`Ba Lan 2005: ngân hàng nước ngoài nắm 70% tài sản ngân hàng, chỉ 1/3 dân có tài khoản`"]
+  n13 --- n14
+  n15["`Đền đáp chậm bị gọi là không làm mà có vì người ta không thấy khoản đầu tư, rủi ro và doanh nghiệp đã phá sản`"]
+  n9 --- n15
+  n16["`Thiểu số làm tài chính bị trục xuất: Do Thái ở châu Âu, Hoa kiều, Chettiar#59; sau đó mức sống đi xuống`"]
+  n9 --- n16
+  n17["`Luật nới việc trả nợ để giúp người vay khiến ít khoản vay được cho ra hoặc lãi cao hơn`"]
+  n9 --- n17
+  n18["`Mục 5 — Lãi suất là giá và khoản vay đến ngày lĩnh lương`"]
+  n0 --- n18
+  n19["`Lãi suất là giá của vốn: thấp thì vay nhiều, tiết kiệm ít#59; cao thì ngược lại`"]
+  n18 --- n19
+  n20["`Fed hạ lãi suất đầu thế kỷ 21: giá nhà tăng, tiền thuê căn hộ giảm, động cơ tiết kiệm giảm`"]
+  n18 --- n20
+  n21["`Khoản thu gọi là lãi gồm bù thời gian chờ, bù rủi ro và chi phí xử lý gần như cố định`"]
+  n18 --- n21
+  n22["`Vay 2 tuần thu 15 USD trên 100 USD, báo chí gọi là lãi suất quy năm 312%`"]
+  n18 --- n22
+  n23["`Trần 36%/năm chỉ cho thu dưới 1,50 USD: ở Oregon 3/4 cơ sở cho vay đóng cửa`"]
+  n22 --- n23
+  n24["`Trần càng thấp chỉ người vay đáng tin mới vay được#59; người da trắng bị từ chối nhiều hơn người gốc Á`"]
+  n18 --- n24
+  n25["`Người cho vay có thế chấp như Pawngo: lãi có thể vượt 200%, khoản vay trung bình 10.000–15.000 USD`"]
+  n18 --- n25
+  n26["`Mục 6–7 — Đầu cơ và hàng tồn kho`"]
+  n0 --- n26
+  n27["`Đầu cơ là mua thứ chưa có hoặc chưa biết giá trị: Amazon lập 1994, có lãi lần đầu 2001`"]
+  n26 --- n27
+  n28["`Nhà đầu cơ gánh rủi ro giá thay nông dân qua hợp đồng tương lai, rủi ro giảm nhờ chuyển giao`"]
+  n26 --- n28
+  n29["`Đầu cơ ngược với cờ bạc: cờ bạc tạo ra rủi ro mới, đầu cơ xử lý rủi ro vốn có`"]
+  n28 --- n29
+  n30["`Nông dân kỳ vọng 1.000 USD/tấn, giá có thể 500 hoặc 1.500#59; nhận bảo đảm 900 USD/tấn để khỏi mất ngủ`"]
+  n28 --- n30
+  n31["`Rủi ro lớn với cá nhân: bạc từ 50,05 về 10,80 USD/ounce, anh em nhà Hunt mất hơn 1 tỷ USD`"]
+  n26 --- n31
+  n32["`Đầu cơ phân bổ kiến thức: người bạn của Sowell không kinh doanh đậu nành mà kinh doanh quản lý rủi ro`"]
+  n26 --- n32
+  n33["`Tồn kho là thứ thay thế cho kiến thức: quá lớn thì tốn chi phí, quá nhỏ thì mất doanh thu và khách`"]
+  n26 --- n33
+  n34["`Năm 2007 thiếu một vòng găng piston 1,50 USD làm gần 70% sản lượng ô tô Nhật tạm ngừng`"]
+  n33 --- n34
+  n35["`Quý III 2003 doanh nghiệp bán từ kho, tỷ lệ tồn kho trên doanh số thấp kỷ lục: phục hồi không việc làm`"]
+  n33 --- n35
+  n36["`Mục 8 — Giá trị hiện tại`"]
+  n0 --- n36
+  n37["`Giá trị hiện tại là tổng lợi ích tương lai dự kiến, đã chiết khấu vì chúng đến muộn`"]
+  n36 --- n37
+  n38["`Tin sắp xây trạm xử lý nước thải cạnh nhà làm giá nhà giảm ngay, trước khi đất bị động tới`"]
+  n37 --- n38
+  n39["`Ông già 90 tuổi trồng cây 20 năm mới có quả vẫn hợp lý vì đất tăng giá ngay`"]
+  n37 --- n39
+  n40["`Chính trị gia không có giá trị hiện tại buộc nhìn qua kỳ bầu cử, thị trường trái phiếu thì có`"]
+  n36 --- n40
+  n41["`Năm 2001 S#amp;P hạ hạng trái phiếu California dù bang chưa vỡ nợ và còn thặng dư`"]
+  n40 --- n41
+  n42["`Niên kim: nam 70 tuổi trả 100.000 USD nhận 772 USD/tháng suốt đời, nữ nhận 725 USD`"]
+  n36 --- n42
+  n43["`Rủi ro giảm nhờ tính dự báo được của số lớn: công ty bảo hiểm đoán tuổi thọ trung bình tốt hơn cá nhân`"]
+  n42 --- n43
+  n44["`Mục 9 — Tài nguyên thiên nhiên`"]
+  n0 --- n44
+  n45["`Giá trị hiện tại quyết định bao nhiêu dầu đáng bỏ tiền tìm, nên trữ lượng đã biết luôn có vẻ sắp cạn`"]
+  n44 --- n45
+  n46["`Năm 1960 dự báo Mỹ còn dầu 13 năm với gần 32 tỷ thùng#59; năm 1973 trữ lượng đã biết hơn 36 tỷ thùng`"]
+  n45 --- n46
+  n47["`Dự án Vịnh Mexico tốn 1,1 tỷ USD#59; lãi suất gấp đôi thì thăm dò ít hơn nhưng không gần cạn dầu hơn`"]
+  n45 --- n47
+  n48["`Trữ lượng dầu cuối thế kỷ 20 gấp hơn 10 lần giữa thế kỷ#59; đồng 100 triệu tấn năm 1945 tăng gấp 3 rồi gấp đôi`"]
+  n44 --- n48
+  n49["`Chi phí tìm một thùng dầu giảm từ 15 USD (1977) còn 5 USD (1998)#59; Kern River lên 85.000 thùng/ngày`"]
+  n48 --- n49
+  n50["`Cược Simon–Ehrlich: sau 10 năm giá thực của cả 5 tài nguyên được chọn đều giảm`"]
+  n44 --- n50
+  n51["`Giá quyết định nguồn cung: cát dầu Athabasca có lãi khi dầu trên 30 USD/thùng`"]
+  n44 --- n51
+  n52["`Mục đích của giá là ngăn dùng nguồn đắt khi còn nguồn rẻ của cùng tài nguyên`"]
+  n51 --- n52
+  n53["`Chính quyền Carter bác ước tính khí đốt Mỹ đủ dùng hơn 1.000 năm vì bất lợi về chính trị`"]
+  n44 --- n53
+  n54["`Thông điệp xuyên suốt`"]
+  n0 --- n54
+  n55["`Nhìn qua con số tiền để thấy nguồn lực thật được hy sinh qua thời gian`"]
+  n54 --- n55
+  n56["`Lãi, cổ tức, lợi nhuận đầu cơ trả cho chờ đợi và rủi ro#59; trần lãi suất và kỳ thị làm hại chính người cần vay`"]
+  n54 --- n56
+  n57["`Giá trị hiện tại tự buộc tiết kiệm tài nguyên sắp cạn, không cần hoảng loạn hay hô hào chính trị`"]
+  n54 --- n57
+  class n0 root
+  class n1,n9,n18,n26,n36,n44,n54 branch
+  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Phần IV "Time and Risk", Chương 13.
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần III (Chương 10 đến 12) bàn về lao động và tiền lương, trong đó Chương 10 đã giới thiệu ý tưởng rằng năng suất, và do đó tiền lương, phụ thuộc vào vốn con người mà người lao động tích luỹ được.
+
+Chương 13 mở đầu Phần IV "Thời gian và rủi ro" (Time and Risk): từ đây Sowell đưa thêm chiều thời gian vào phân tích giá cả của Phần I. Đầu tư là hy sinh thứ có thật hôm nay để có nhiều hơn trong tương lai; vì tương lai không biết trước nên đầu tư luôn đi kèm rủi ro. Chương này giới thiệu các công cụ mà nền kinh tế dùng để xử lý thời gian và rủi ro: lãi suất như một mức giá, đầu cơ, hàng tồn kho và giá trị hiện tại.
+
+Phần về trần lãi suất áp dụng lại logic kiểm soát giá ở Chương 3. Chương 14 sẽ đi tiếp vào cổ phiếu, trái phiếu và bảo hiểm (chương này đã nhắc trước rằng đầu cơ, bảo hiểm, cổ phiếu và trái phiếu là các cách xử lý rủi ro), và Chương 15 bàn các vấn đề đặc biệt của thời gian và rủi ro.
+
+## Lưu ý
+
+- Ấn bản thứ năm được viết khoảng 2013–2014, nhưng nhiều số liệu trong chương cũ hơn: Ấn Độ cải cách năm 1991, tài sản của các định chế tài chính năm 2009, ngân hàng Ba Lan và Bulgaria năm 2005, nông dân Ấn Độ dùng mạng năm 2003, giá bạc 1979–1980, khủng hoảng điện California 2001, dầu mỏ đến khoảng 2011.
+- Một số điều đã thay đổi từ đó:
+  - Amazon, ví dụ của Sowell về cổ phiếu tăng giá nhiều năm trước khi công ty có lãi, nay là một trong những công ty có lợi nhuận lớn nhất thế giới.
+  - Nhờ dầu đá phiến, Mỹ đã trở thành nước sản xuất dầu lớn nhất thế giới vào cuối thập niên 2010, củng cố lập luận của Sowell về trữ lượng đã biết.
+  - Đại dịch COVID-19 (2020–2022) làm gián đoạn chuỗi cung ứng, nhất là chip bán dẫn, và lặp lại trên quy mô lớn hơn bài học về sản xuất gần như không tồn kho của các hãng xe Nhật.
+  - Ở Ba Lan, việc dùng tài khoản ngân hàng và thanh toán bằng thẻ đã tăng mạnh.
+- Chương này không có chú thích chân trang nội dung (phần chú thích dạng chữ số La Mã ở cuối text gốc trống); các chú thích nguồn dạng số đã được bỏ qua theo quy ước.
+- Sowell có một chỗ nói chung chung về vụ cá cược Simon–Ehrlich (không nêu năm và tên năm kim loại); bản tổng hợp bổ sung các chi tiết đã biết rõ ở phần Đánh giá.
+- Các câu trích là bản dịch của người tổng hợp.

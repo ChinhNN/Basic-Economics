@@ -1,11 +1,16 @@
 # Chương 16 — Sản lượng quốc gia (National Output)
 
-**Nguồn:** Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Chương 16, chương mở đầu Phần V "The National Economy" (Nền kinh tế quốc gia).
-**Tác giả:** Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
-**Vị trí trong lập luận của cả cuốn sách:** Bốn phần đầu của sách xem xét từng thị trường riêng: giá cả và thị trường (Phần I), doanh nghiệp và ngành (Phần II), lao động và tiền lương (Phần III), đầu tư, thời gian và rủi ro (Phần IV, kết thúc ở Chương 15). Chương 16 chuyển từ từng thị trường sang nền kinh tế như một tổng thể. Chương này làm hai việc. Thứ nhất, nó cảnh báo rằng điều đúng với một phần chưa chắc đúng với cả nền kinh tế (nguỵ biện hợp thành), và giải thích vì sao tổng sản lượng không bao giờ "vượt quá" tổng thu nhập thực tế, nhưng tổng cầu bằng tiền thì có thể sụt giảm, như trong Đại suy thoái. Thứ hai, nó chỉ ra những cái bẫy khi đo sản lượng quốc gia bằng GDP: so sánh qua thời gian dài, so sánh giữa các nước, và chọn năm gốc cho "xu hướng". Chương này nhắc lại phân biệt thu nhập và của cải từ Chương 10, và mở đường cho Chương 17 (tiền và hệ thống ngân hàng, vì Sowell nói vai trò của tiền đã được Đại suy thoái chứng minh một cách đau đớn), Chương 18 và 19 (chức năng và tài chính của chính phủ, nhân tố lớn thứ ba trong nền kinh tế quốc gia).
-**Ý chính:** Sowell muốn người đọc hiểu hai điều. (1) **Tổng thu nhập thực tế của cả nước và tổng sản lượng quốc gia là một thứ**, nhìn từ hai phía, nên nỗi lo "sản xuất quá nhiều đến mức dân không đủ tiền mua" là vô căn cứ; điều có thể xảy ra là người ta ngần ngại chi tiêu hay đầu tư, làm tổng cầu bằng tiền giảm. Ví dụ trung tâm là Đại suy thoái: trong bốn năm sau cú sụp đổ chứng khoán năm 1929, cung tiền của Mỹ giảm một phần ba, giá và lương không giảm kịp, nên sản lượng thực tế năm 1933 thấp hơn năm 1929 một phần tư và thất nghiệp tăng từ 3% lên 25%. (2) **Số liệu sản lượng quốc gia chỉ đáng tin khi so những thứ giống nhau**: so năm nay với năm ngoái, hay so hai nước tương tự, thì có nghĩa; còn so năm 2000 với năm 1900, so Mỹ với Nhật theo tỷ giá chính thức, hay đo "xu hướng" từ một năm gốc chọn tuỳ ý, thì dễ dẫn tới kết luận sai. Ví dụ tiêu biểu: chỉ số giá tiêu dùng bị phóng đại khoảng 1 điểm phần trăm mỗi năm, nên sau 25 năm thu nhập bình quân đầu người của người Mỹ bị đánh giá thấp gần 9.000 USD mỗi năm, và chuyện "lương thực tế giảm" phần nhiều là sản phẩm của cách thống kê.
+## Ý chính
 
-> **Lưu ý:** Ấn bản thứ năm ra năm 2015, nhưng số liệu trong chương phần lớn dừng ở khoảng năm 2009 (GDP của Na Uy và Ý, năm nước có GDP lớn nhất) và năm 2003 (lợi suất quỹ S&P 500, báo cáo về xe SUV); một số ví dụ còn cũ hơn (máy ghi băng video, chiến dịch tranh cử năm 1960). Từ đó một số chi tiết đã thay đổi: theo GDP tính bằng sức mua, Trung Quốc đã vượt Mỹ vào khoảng giữa thập niên 2010, nên danh sách năm nước đứng đầu năm 2009 trong chương không còn đúng thứ tự; máy ghi băng video đã biến mất khỏi thị trường, một ví dụ khớp với chính lập luận của Sowell về cơ cấu sản lượng thay đổi. Chương có 2 chú thích chân trang của Sowell: chú thích về dòng và tồn lượng theo cách nhìn giải tích (đưa vào mục 4 phần Nội dung chi tiết và khối sơ đồ Phần 4), và chú thích về phép tính thu nhập bình quân ở nước nghèo (đưa vào mục 7 và khối sơ đồ Phần 7, kèm phép tính kiểm tra lại). Người tổng hợp có hai chỗ nghi ngờ về số liệu: Sowell nói GDP bình quân đầu người của Trung Quốc năm 2009 chưa bằng một phần mười của Nhật ngay sau danh sách xếp theo sức mua; tỷ lệ đó chỉ đúng nếu tính theo tỷ giá thị trường, còn theo sức mua thì khoảng cách nhỏ hơn nhiều. Câu "thà đúng một cách đại khái còn hơn sai một cách chính xác" Sowell gán cho Keynes, nhưng nguồn gốc câu này còn bị tranh cãi. Các câu trích là bản dịch của người tổng hợp.
+Sowell muốn người đọc hiểu hai điều.
+
+**Tổng thu nhập thực tế của cả nước và tổng sản lượng quốc gia là một thứ**, nhìn từ hai phía, nên nỗi lo "sản xuất quá nhiều đến mức dân không đủ tiền mua" là vô căn cứ. Điều có thể xảy ra là người ta ngần ngại chi tiêu hay đầu tư, làm tổng cầu bằng tiền giảm.
+
+Ví dụ trung tâm là Đại suy thoái: trong bốn năm sau cú sụp đổ chứng khoán năm 1929, cung tiền của Mỹ giảm một phần ba, giá và lương không giảm kịp, nên sản lượng thực tế năm 1933 thấp hơn năm 1929 một phần tư và thất nghiệp tăng từ 3% lên 25%.
+
+**Số liệu sản lượng quốc gia chỉ đáng tin khi so những thứ giống nhau**: so năm nay với năm ngoái, hay so hai nước tương tự, thì có nghĩa. Còn so năm 2000 với năm 1900, so Mỹ với Nhật theo tỷ giá chính thức, hay đo "xu hướng" từ một năm gốc chọn tuỳ ý, thì dễ dẫn tới kết luận sai.
+
+Ví dụ tiêu biểu: chỉ số giá tiêu dùng bị phóng đại khoảng 1 điểm phần trăm mỗi năm, nên sau 25 năm thu nhập bình quân đầu người của người Mỹ bị đánh giá thấp gần 9.000 USD mỗi năm, và chuyện "lương thực tế giảm" phần nhiều là sản phẩm của cách thống kê.
 
 ## Sơ đồ
 
@@ -540,7 +545,9 @@ Ví dụ thứ hai là cộng các khoản đầu tư cá nhân để ra tổng 
 
 Nguỵ biện này không riêng kinh tế học. Ở sân vận động, một người đứng dậy thì xem rõ hơn, nhưng mọi người cùng đứng thì không ai xem rõ hơn. Trong một toà nhà đang cháy, một người chạy thì ra nhanh hơn đi bộ, nhưng mọi người cùng chạy thì chen lấn gây tắc ở cửa, người ta giằng co nhau và có người chết oan. Vì vậy mới có diễn tập chữa cháy, để mọi người quen rời đi có trật tự khi khẩn cấp và cứu được nhiều người hơn. Theo Sowell, cốt lõi của nguỵ biện hợp thành là bỏ qua **tương tác** giữa các cá nhân, thứ khiến điều đúng với một người không còn đúng với tất cả.
 
-Ví dụ kinh tế phổ biến là các nỗ lực "cứu việc làm" trong một ngành đang có nguy cơ thất nghiệp. Một doanh nghiệp hay một ngành luôn có thể được cứu nếu chính phủ can thiệp đủ lớn: trợ cấp, cho cơ quan nhà nước mua sản phẩm, hay cách khác. Tương tác mà người ủng hộ bỏ qua là mọi thứ chính phủ chi đều lấy từ người khác. Sowell minh hoạ: 10.000 việc làm được cứu trong ngành "widget" (một sản phẩm giả định) có thể phải trả bằng 15.000 việc làm mất ở nơi khác, vì chính phủ đánh thuế lấy đi nguồn lực vốn để duy trì các việc làm đó. Sai lầm không nằm ở niềm tin rằng có thể cứu việc làm trong một ngành, mà ở niềm tin rằng đó là số việc làm cứu được ròng cho cả nền kinh tế.
+Ví dụ kinh tế phổ biến là các nỗ lực "cứu việc làm" trong một ngành đang có nguy cơ thất nghiệp. Một doanh nghiệp hay một ngành luôn có thể được cứu nếu chính phủ can thiệp đủ lớn: trợ cấp, cho cơ quan nhà nước mua sản phẩm, hay cách khác. Tương tác mà người ủng hộ bỏ qua là mọi thứ chính phủ chi đều lấy từ người khác.
+
+Sowell minh hoạ: 10.000 việc làm được cứu trong ngành "widget" (một sản phẩm giả định) có thể phải trả bằng 15.000 việc làm mất ở nơi khác, vì chính phủ đánh thuế lấy đi nguồn lực vốn để duy trì các việc làm đó. Sai lầm không nằm ở niềm tin rằng có thể cứu việc làm trong một ngành, mà ở niềm tin rằng đó là số việc làm cứu được ròng cho cả nền kinh tế.
 
 ### 3. Sản lượng và tổng cầu (Output and Demand)
 
@@ -559,11 +566,15 @@ Thế nhưng sản lượng ngày nay gấp nhiều lần thời Đại suy tho�
 
 **Câu trả lời: thu nhập thực tế và sản lượng là một.** Thu nhập thường đo bằng tiền, nhưng thu nhập thực tế đo bằng lượng hàng hoá, dịch vụ mà tiền mua được. Sản lượng quốc gia cũng là hàng hoá, dịch vụ thực. Vì vậy tổng thu nhập thực tế của mọi người trong nền kinh tế và tổng sản lượng quốc gia là một thứ. Chúng không chỉ tình cờ bằng nhau ở một nơi, một lúc, mà luôn bằng nhau, vì đó là cùng một thứ nhìn từ hai phía: phía thu nhập và phía sản lượng. Nỗi sợ một rào cản vĩnh viễn đối với tăng trưởng do sản lượng vượt thu nhập thực tế là vô căn cứ ngày nay, cũng như trong những thế kỷ trước khi sản lượng chỉ bằng một phần nhỏ hiện nay.
 
-**Vì sao ngộ nhận nghe có lý.** Sản lượng và thu nhập đều dao động, có khi rất tệ như trong Đại suy thoái. Vào một lúc nào đó, vì nhiều lý do, người tiêu dùng, doanh nghiệp hay cả hai có thể ngần ngại tiêu tiền. Vì thu nhập của mỗi người phụ thuộc vào chi tiêu của người khác, sự ngần ngại này làm giảm tổng thu nhập bằng tiền và cùng với nó là tổng cầu bằng tiền. Khi các chính sách của chính phủ gây bất định và lo âu, người dân và doanh nghiệp muốn giữ tiền cho tới khi thấy tình hình ngã ngũ. Khi hàng triệu người làm vậy cùng lúc, chính điều đó làm tình hình xấu đi, vì tổng cầu xuống dưới tổng thu nhập và tổng sản lượng. Nền kinh tế không thể tiếp tục sản xuất hết công suất nếu người ta không còn chi tiêu và đầu tư hết công suất, nên sản xuất và việc làm có thể bị cắt giảm cho tới khi mọi thứ tự ổn định lại.
+**Vì sao ngộ nhận nghe có lý.** Sản lượng và thu nhập đều dao động, có khi rất tệ như trong Đại suy thoái. Vào một lúc nào đó, vì nhiều lý do, người tiêu dùng, doanh nghiệp hay cả hai có thể ngần ngại tiêu tiền. Vì thu nhập của mỗi người phụ thuộc vào chi tiêu của người khác, sự ngần ngại này làm giảm tổng thu nhập bằng tiền và cùng với nó là tổng cầu bằng tiền.
+
+Khi các chính sách của chính phủ gây bất định và lo âu, người dân và doanh nghiệp muốn giữ tiền cho tới khi thấy tình hình ngã ngũ. Khi hàng triệu người làm vậy cùng lúc, chính điều đó làm tình hình xấu đi, vì tổng cầu xuống dưới tổng thu nhập và tổng sản lượng. Nền kinh tế không thể tiếp tục sản xuất hết công suất nếu người ta không còn chi tiêu và đầu tư hết công suất, nên sản xuất và việc làm có thể bị cắt giảm cho tới khi mọi thứ tự ổn định lại.
 
 Các trường phái kinh tế bất đồng về việc tình huống này xảy ra thế nào, bao lâu thì tự ổn định, và chính sách nào tốt nhất. Nhưng các nhà kinh tế nói chung đồng ý rằng nó khác hẳn tình huống mà những người lo "nền kinh tế ngập trong sản lượng vì dân thiếu thu nhập" hình dung. Thứ người ta có thể thiếu là mong muốn chi tiêu hay đầu tư toàn bộ thu nhập, không phải thu nhập.
 
-**Tiết kiệm và tổng cầu.** Chỉ tiết kiệm một phần thu nhập không nhất thiết làm giảm tổng cầu, vì tiền gửi vào ngân hàng hay tổ chức tài chính khác được cho vay hoặc đầu tư tiếp; người khác chi số tiền đó cho việc khác, như mua nhà hay xây nhà máy, nhưng nó vẫn được chi. Tổng cầu chỉ giảm khi người tiêu dùng, nhà đầu tư hay cả hai ngần ngại rời tay đồng tiền. Khi đó sản lượng hiện tại không bán hết, nhà sản xuất cắt sản xuất xuống mức bán được với giá đủ bù chi phí; khi điều này xảy ra khắp nền kinh tế, sản lượng quốc gia giảm và thất nghiệp tăng vì cần ít công nhân hơn. Trong Đại suy thoái, hàng nghìn ngân hàng phá sản khiến nhiều người mất lòng tin và cất tiền trong lọ hay dưới nệm; số tiền tiết kiệm ấy không được đầu tư nên tổng cầu giảm.
+**Tiết kiệm và tổng cầu.** Chỉ tiết kiệm một phần thu nhập không nhất thiết làm giảm tổng cầu, vì tiền gửi vào ngân hàng hay tổ chức tài chính khác được cho vay hoặc đầu tư tiếp; người khác chi số tiền đó cho việc khác, như mua nhà hay xây nhà máy, nhưng nó vẫn được chi.
+
+Tổng cầu chỉ giảm khi người tiêu dùng, nhà đầu tư hay cả hai ngần ngại rời tay đồng tiền. Khi đó sản lượng hiện tại không bán hết, nhà sản xuất cắt sản xuất xuống mức bán được với giá đủ bù chi phí; khi điều này xảy ra khắp nền kinh tế, sản lượng quốc gia giảm và thất nghiệp tăng vì cần ít công nhân hơn. Trong Đại suy thoái, hàng nghìn ngân hàng phá sản khiến nhiều người mất lòng tin và cất tiền trong lọ hay dưới nệm; số tiền tiết kiệm ấy không được đầu tư nên tổng cầu giảm.
 
 **Quy mô Đại suy thoái.**
 
@@ -583,7 +594,9 @@ Phân biệt thu nhập và của cải mà Sowell đã dùng cho cá nhân ở 
 
 **Dòng và tồn lượng.** Phân biệt thật sự cần làm là giữa sản lượng trong một năm (một dòng thu nhập thực tế) và tồn lượng của cải tích luỹ tại một thời điểm. Trong một chú thích, Sowell viết rằng người biết giải tích sẽ nhận ra dòng như một đạo hàm và tồn lượng như một tích phân (tức tồn lượng là phần cộng dồn của dòng qua thời gian, còn dòng là tốc độ thay đổi của tồn lượng). Ở một thời điểm, một nước có thể sống vượt sản lượng hiện tại bằng cách dùng dần tồn lượng của cải từ quá khứ.
 
-Chiến tranh Thế giới thứ hai là ví dụ. Mỹ ngừng sản xuất ô tô để nhà máy ô tô làm xe tăng, máy bay và khí tài. Ô tô hiện có cứ cũ dần mà không được thay; tủ lạnh, chung cư và phần lớn tồn lượng của cải quốc gia cũng vậy. Áp phích của chính phủ thời chiến kêu gọi: dùng cho hết, mặc tới rách, cố mà xoay xở, hoặc nhịn đi. Khi chiến tranh kết thúc, sản xuất ô tô, tủ lạnh, nhà ở và các phần khác của tồn lượng tăng vọt. Đồ dùng lâu bền của người tiêu dùng giảm giá trị thực từ 1944 sang 1945, năm cuối chiến tranh, rồi tăng hơn gấp đôi về giá trị thực trong năm năm sau đó khi tồn lượng bị hao hụt được bù lại, một tốc độ chưa từng có. Thiết bị lâu bền của doanh nghiệp cũng tăng nhanh sau chiến tranh.
+Chiến tranh Thế giới thứ hai là ví dụ. Mỹ ngừng sản xuất ô tô để nhà máy ô tô làm xe tăng, máy bay và khí tài. Ô tô hiện có cứ cũ dần mà không được thay; tủ lạnh, chung cư và phần lớn tồn lượng của cải quốc gia cũng vậy. Áp phích của chính phủ thời chiến kêu gọi: dùng cho hết, mặc tới rách, cố mà xoay xở, hoặc nhịn đi.
+
+Khi chiến tranh kết thúc, sản xuất ô tô, tủ lạnh, nhà ở và các phần khác của tồn lượng tăng vọt. Đồ dùng lâu bền của người tiêu dùng giảm giá trị thực từ 1944 sang 1945, năm cuối chiến tranh, rồi tăng hơn gấp đôi về giá trị thực trong năm năm sau đó khi tồn lượng bị hao hụt được bù lại, một tốc độ chưa từng có. Thiết bị lâu bền của doanh nghiệp cũng tăng nhanh sau chiến tranh.
 
 **Đo theo giá trị thực.** Cũng như thu nhập quốc gia không phải là tiền hay giấy tờ có giá, của cải quốc gia cũng không phải là những mảnh giấy đó mà là hàng hoá, dịch vụ thực tiền mua được; nếu không, nước nào cũng giàu ngay bằng cách in thêm tiền. Đôi khi sản lượng hay của cải được cộng theo giá hiện hành, nhưng phần lớn nghiên cứu dài hạn nghiêm túc đo theo giá trị thực, tức đã tính biến động giá. Việc này chắc chắn thiếu chính xác vì giá các thứ thay đổi khác nhau:
 
@@ -598,9 +611,15 @@ Không chỉ giá thay đổi; chính hàng hoá, dịch vụ tạo nên sản l
 
 Nhà ở cũng vậy. Ngôi nhà trung bình ở Mỹ cuối thế kỷ 20 rộng hơn nhiều, nhiều phòng tắm hơn và có điều hoà, tiện nghi khác thường xuyên hơn nhiều so với giữa thế kỷ. Chỉ trong giai đoạn 1983–2000, diện tích trung vị của một căn nhà đơn lập mới xây ở Mỹ tăng từ 1.565 lên 2.076 feet vuông (khoảng 145 lên 193 m²). Đếm số nhà ở hai thời điểm không cho biết sản xuất nhà ở tăng bao nhiêu. Sowell nói đây là việc của các nhà kinh tế và thống kê chuyên nghiệp, nhưng người khác cũng cần biết để không bị chính trị gia hay bình luận viên dùng số liệu đánh lừa: cùng một từ "ô tô" hay "nhà" không có nghĩa là cùng một thứ.
 
-**So sánh qua nhiều thế hệ.** Qua nhiều thế hệ, hàng hoá, dịch vụ tạo nên sản lượng thay đổi đến mức so sánh thống kê gần như vô nghĩa vì đang so táo với cam. Đầu thế kỷ 20, sản lượng Mỹ không có máy bay, tivi, máy tính hay nhà máy điện hạt nhân. Cuối thế kỷ đó, nó không còn máy đánh chữ, thước loga (slide rule, đồ nghề thiết yếu của kỹ sư trước khi có máy tính bỏ túi) hay vô số dụng cụ cho ngựa, phương tiện đi lại chính của nhiều xã hội trước kia. Nói GDP năm 2000 cao hơn năm 1900 bao nhiêu phần trăm có nghĩa gì, khi hai năm làm ra phần lớn những thứ khác hẳn nhau? Nói sản lượng năm nay cao hơn 5% hay thấp hơn 3% so với năm ngoái thì có nghĩa, vì hai năm làm ra gần như cùng những thứ; nhưng khoảng thời gian càng dài, con số càng gần vô nghĩa.
+**So sánh qua nhiều thế hệ.** Qua nhiều thế hệ, hàng hoá, dịch vụ tạo nên sản lượng thay đổi đến mức so sánh thống kê gần như vô nghĩa vì đang so táo với cam. Đầu thế kỷ 20, sản lượng Mỹ không có máy bay, tivi, máy tính hay nhà máy điện hạt nhân. Cuối thế kỷ đó, nó không còn máy đánh chữ, thước loga (slide rule, đồ nghề thiết yếu của kỹ sư trước khi có máy tính bỏ túi) hay vô số dụng cụ cho ngựa, phương tiện đi lại chính của nhiều xã hội trước kia.
 
-**Sai lệch phóng đại lạm phát của CPI.** Một khó khăn nữa là việc đo thu nhập thực tế dựa vào các điều chỉnh thống kê có sẵn sai lệch phóng đại lạm phát. Thu nhập bằng tiền được điều chỉnh theo chi phí sinh hoạt, đo bằng chi phí của một rổ hàng mà phần đông mọi người thường mua. Vấn đề là thứ người ta mua lại phụ thuộc vào giá. Máy ghi băng video (VCR) khi mới ra giá 30.000 USD một chiếc và bán ở chuỗi cửa hàng xa xỉ Neiman Marcus. Nhiều năm sau, khi giá xuống dưới 200 USD và máy được dùng phổ biến, nó mới vào rổ hàng dùng để tính chỉ số giá tiêu dùng; toàn bộ những năm giá giảm mạnh trước đó không ảnh hưởng gì tới CPI. Vô số hàng khác đi theo cùng con đường từ đồ xa xỉ hiếm hoi của người giàu thành đồ dùng phổ thông, và chỉ được đưa vào rổ khi đã phổ thông. Vì vậy nhiều hàng đang giảm giá không được tính, còn hàng phổ thông đang tăng giá thì được tính. Thêm nữa, nhiều hàng tăng giá vì cũng tăng chất lượng, nên giá cao hơn không nhất thiết là lạm phát như khi giá của cùng một món hàng y hệt tăng lên.
+Nói GDP năm 2000 cao hơn năm 1900 bao nhiêu phần trăm có nghĩa gì, khi hai năm làm ra phần lớn những thứ khác hẳn nhau? Nói sản lượng năm nay cao hơn 5% hay thấp hơn 3% so với năm ngoái thì có nghĩa, vì hai năm làm ra gần như cùng những thứ; nhưng khoảng thời gian càng dài, con số càng gần vô nghĩa.
+
+**Sai lệch phóng đại lạm phát của CPI.** Một khó khăn nữa là việc đo thu nhập thực tế dựa vào các điều chỉnh thống kê có sẵn sai lệch phóng đại lạm phát. Thu nhập bằng tiền được điều chỉnh theo chi phí sinh hoạt, đo bằng chi phí của một rổ hàng mà phần đông mọi người thường mua. Vấn đề là thứ người ta mua lại phụ thuộc vào giá.
+
+Máy ghi băng video (VCR) khi mới ra giá 30.000 USD một chiếc và bán ở chuỗi cửa hàng xa xỉ Neiman Marcus. Nhiều năm sau, khi giá xuống dưới 200 USD và máy được dùng phổ biến, nó mới vào rổ hàng dùng để tính chỉ số giá tiêu dùng; toàn bộ những năm giá giảm mạnh trước đó không ảnh hưởng gì tới CPI. Vô số hàng khác đi theo cùng con đường từ đồ xa xỉ hiếm hoi của người giàu thành đồ dùng phổ thông, và chỉ được đưa vào rổ khi đã phổ thông.
+
+Vì vậy nhiều hàng đang giảm giá không được tính, còn hàng phổ thông đang tăng giá thì được tính. Thêm nữa, nhiều hàng tăng giá vì cũng tăng chất lượng, nên giá cao hơn không nhất thiết là lạm phát như khi giá của cùng một món hàng y hệt tăng lên.
 
 **Hệ quả đối với lương thực tế.** Lương thực tế chỉ là lương bằng tiền điều chỉnh theo chi phí sinh hoạt đo bằng CPI; nếu CPI bị đẩy lên thì số liệu lương thực tế bị kéo xuống. Các ước tính của nhà kinh tế về mức phóng đại của CPI trung bình khoảng 1 điểm phần trăm trở lên, tức khi CPI báo lạm phát 3% mỗi năm thì thực chất gần 2%.
 
@@ -615,7 +634,9 @@ Vì vậy các báo động trên truyền thông và trong chính trị về "l
 
 Những khó khăn khi so một nước qua thời gian cũng xuất hiện khi so hai nước rất khác nhau ở cùng thời điểm. Nếu sản lượng của một nước vùng Caribe chủ yếu là chuối và cây nhiệt đới, còn một nước Bắc Âu làm hàng công nghiệp và cây vùng lạnh, làm sao so tổng của những thứ khác nhau như vậy? Theo Sowell, đây không chỉ là so táo với cam mà có khi là so ô tô với đường.
 
-**Chất lượng.** Thời Liên Xô, sản phẩm từ máy ảnh tới ô tô nổi tiếng kém chất lượng và thường lạc hậu về công nghệ, còn dịch vụ ở nhà hàng hay hãng hàng không quốc gia Aeroflot cũng nổi tiếng tệ. Khi đồng hồ sản xuất ở Ấn Độ thập niên 1980 phần lớn là đồng hồ cơ trong khi phần lớn thế giới đã dùng đồng hồ điện tử, so sánh sản lượng đồng hồ giữa các nước cũng sai lệch như so sản lượng Liên Xô với các nước công nghiệp phương Tây. Thêm nữa, số liệu thuần về số lượng sau khi Ấn Độ dỡ nhiều hạn chế kinh tế cuối thế kỷ 20 đánh giá thấp mức cải thiện, vì không đo được bước tiến chất lượng của đồng hồ, ô tô, tivi và dịch vụ điện thoại khi các ngành này phải cạnh tranh với doanh nghiệp trong và ngoài nước: từ tiến bộ công nghệ nhanh tới việc mua được ngay thay vì phải ghi tên chờ.
+**Chất lượng.** Thời Liên Xô, sản phẩm từ máy ảnh tới ô tô nổi tiếng kém chất lượng và thường lạc hậu về công nghệ, còn dịch vụ ở nhà hàng hay hãng hàng không quốc gia Aeroflot cũng nổi tiếng tệ. Khi đồng hồ sản xuất ở Ấn Độ thập niên 1980 phần lớn là đồng hồ cơ trong khi phần lớn thế giới đã dùng đồng hồ điện tử, so sánh sản lượng đồng hồ giữa các nước cũng sai lệch như so sản lượng Liên Xô với các nước công nghiệp phương Tây.
+
+Thêm nữa, số liệu thuần về số lượng sau khi Ấn Độ dỡ nhiều hạn chế kinh tế cuối thế kỷ 20 đánh giá thấp mức cải thiện, vì không đo được bước tiến chất lượng của đồng hồ, ô tô, tivi và dịch vụ điện thoại khi các ngành này phải cạnh tranh với doanh nghiệp trong và ngoài nước: từ tiến bộ công nghệ nhanh tới việc mua được ngay thay vì phải ghi tên chờ.
 
 **Cơ cấu tuổi.** Có số liệu đánh giá thấp khác biệt giữa các nước, nhưng cũng có số liệu phóng đại khác biệt. So sánh thu nhập giữa nước phương Tây và ngoài phương Tây chịu ảnh hưởng của khác biệt tuổi, giống như khác biệt tuổi giữa các nhóm trong một nước.
 
@@ -624,13 +645,19 @@ Những khó khăn khi so một nước qua thời gian cũng xuất hiện khi 
 | Nigeria, Afghanistan, Tanzania | Đều dưới 20 |
 | Nhật, Ý, Đức | Đều trên 40 |
 
-Sowell so sánh: thiên nhiên cho không hơi nóng để trồng dứa, chuối ở xứ nhiệt đới, trong khi nước khác phải trả hoá đơn sưởi khổng lồ để trồng chúng trong nhà kính; tương tự, thiên nhiên cho không người trẻ nhiều thứ rất tốn kém khi cung cấp cho người già. Thuốc men và điều trị đắt đỏ cho các bệnh tuổi già đều được tính vào sản lượng, nhưng nước dân số trẻ ít cần chúng. Vì vậy thu nhập thực tế bình quân đầu người phóng đại khoảng cách sung túc giữa người già ở nước phương Tây và người trẻ ở nước ngoài phương Tây. Nếu loại được khỏi số liệu những xe lăn, máy tạo nhịp tim, viện dưỡng lão và thuốc men (từ thuốc bổ Geritol tới Viagra) dùng để cung cấp cho người già những thứ thiên nhiên cho không người trẻ, so sánh sẽ phản ánh mức sống chính xác hơn. Một người già ngồi xe lăn sẵn lòng đổi chỗ cho một người trẻ không cần xe lăn, nên không thể nói người già khá giả hơn người trẻ bằng giá trị chiếc xe lăn, dù đó là điều các so sánh quốc tế thô ngụ ý.
+Sowell so sánh: thiên nhiên cho không hơi nóng để trồng dứa, chuối ở xứ nhiệt đới, trong khi nước khác phải trả hoá đơn sưởi khổng lồ để trồng chúng trong nhà kính; tương tự, thiên nhiên cho không người trẻ nhiều thứ rất tốn kém khi cung cấp cho người già. Thuốc men và điều trị đắt đỏ cho các bệnh tuổi già đều được tính vào sản lượng, nhưng nước dân số trẻ ít cần chúng. Vì vậy thu nhập thực tế bình quân đầu người phóng đại khoảng cách sung túc giữa người già ở nước phương Tây và người trẻ ở nước ngoài phương Tây.
 
-**Tỷ giá chính thức và sức mua.** Cách so sánh thường dùng là so tổng giá trị sản lượng bằng tiền, nhưng việc này vướng vào tỷ giá chính thức giữa các đồng tiền, vốn có thể không phản ánh sức mua thật. Chính phủ đặt tỷ giá ở đâu cũng được, nhưng sức mua thật phụ thuộc vào việc người bán chịu bán bao nhiêu hàng cho một số tiền. Đó là lý do có chợ đen ngoại tệ, nơi người đổi tiền không chính thức trả nhiều nội tệ hơn cho một đô la so với mức chính phủ quy định, khi tỷ giá chính thức định giá nội tệ cao hơn giá trị thị trường. Nước A có thể có sản lượng bình quân cao hơn nước B theo tỷ giá chính thức nhưng ngược lại theo sức mua; nếu B mua được toàn bộ sản lượng của A mà vẫn còn dư, rõ ràng B có tổng giá trị sản lượng lớn hơn. Sowell nhấn mạnh rằng vấn đề không nằm ở kinh tế học khó hiểu, mà ở sự nhầm lẫn ngôn từ do chính trị gia, truyền thông và những người muốn dùng số liệu để chứng minh một điều gì đó gây ra.
+Nếu loại được khỏi số liệu những xe lăn, máy tạo nhịp tim, viện dưỡng lão và thuốc men (từ thuốc bổ Geritol tới Viagra) dùng để cung cấp cho người già những thứ thiên nhiên cho không người trẻ, so sánh sẽ phản ánh mức sống chính xác hơn. Một người già ngồi xe lăn sẵn lòng đổi chỗ cho một người trẻ không cần xe lăn, nên không thể nói người già khá giả hơn người trẻ bằng giá trị chiếc xe lăn, dù đó là điều các so sánh quốc tế thô ngụ ý.
+
+**Tỷ giá chính thức và sức mua.** Cách so sánh thường dùng là so tổng giá trị sản lượng bằng tiền, nhưng việc này vướng vào tỷ giá chính thức giữa các đồng tiền, vốn có thể không phản ánh sức mua thật. Chính phủ đặt tỷ giá ở đâu cũng được, nhưng sức mua thật phụ thuộc vào việc người bán chịu bán bao nhiêu hàng cho một số tiền. Đó là lý do có chợ đen ngoại tệ, nơi người đổi tiền không chính thức trả nhiều nội tệ hơn cho một đô la so với mức chính phủ quy định, khi tỷ giá chính thức định giá nội tệ cao hơn giá trị thị trường.
+
+Nước A có thể có sản lượng bình quân cao hơn nước B theo tỷ giá chính thức nhưng ngược lại theo sức mua; nếu B mua được toàn bộ sản lượng của A mà vẫn còn dư, rõ ràng B có tổng giá trị sản lượng lớn hơn. Sowell nhấn mạnh rằng vấn đề không nằm ở kinh tế học khó hiểu, mà ở sự nhầm lẫn ngôn từ do chính trị gia, truyền thông và những người muốn dùng số liệu để chứng minh một điều gì đó gây ra.
 
 Ví dụ: có người khẳng định thu nhập bình quân đầu người của Nhật cao hơn Mỹ, dựa trên tỷ giá chính thức giữa đô la và yên. Theo tỷ giá đó, có năm người Nhật trung bình kiếm nhiều hơn người Mỹ trung bình hàng nghìn USD. Nhưng thực tế thu nhập năm của người Mỹ trung bình mua được mọi thứ mà thu nhập năm của người Nhật trung bình mua được và còn dư hàng nghìn USD, nên người Mỹ trung bình có mức sống cao hơn. Sức mua bình quân đầu người ở Nhật chỉ khoảng 71% của Mỹ.
 
-**Thị trường và hàng do chính phủ cung cấp.** Cách tính sản lượng làm phóng đại giá trị hàng do chính phủ cung cấp so với hàng bán trên thị trường. Một nước có thể bán phần lớn sản lượng qua thị trường, nước khác lại để chính phủ làm ra nhiều hàng rồi cho không hoặc bán dưới giá thành. Ở kinh tế thị trường, ô tô làm ra quá nhiều để bán có lãi phải bán với giá nào được giá đó, kể cả dưới giá thành, và được tính vào sản lượng theo giá bán thực. Ở nền kinh tế có nhiều hàng miễn phí hay trợ giá, hàng được tính theo chi phí chính phủ bỏ ra để làm. Cách tính này phóng đại giá trị hàng hoá, dịch vụ do chính phủ cung cấp, nhiều thứ trong đó do chính phủ làm chính vì chúng không bao giờ bù được chi phí nếu bán trên thị trường tự do. Với xu hướng tính cao sản lượng của kinh tế xã hội chủ nghĩa so với kinh tế tư bản như vậy, càng đáng chú ý là số liệu vẫn thường cho thấy sản lượng bình quân đầu người ở các nước tư bản cao hơn.
+**Thị trường và hàng do chính phủ cung cấp.** Cách tính sản lượng làm phóng đại giá trị hàng do chính phủ cung cấp so với hàng bán trên thị trường. Một nước có thể bán phần lớn sản lượng qua thị trường, nước khác lại để chính phủ làm ra nhiều hàng rồi cho không hoặc bán dưới giá thành.
+
+Ở kinh tế thị trường, ô tô làm ra quá nhiều để bán có lãi phải bán với giá nào được giá đó, kể cả dưới giá thành, và được tính vào sản lượng theo giá bán thực. Ở nền kinh tế có nhiều hàng miễn phí hay trợ giá, hàng được tính theo chi phí chính phủ bỏ ra để làm. Cách tính này phóng đại giá trị hàng hoá, dịch vụ do chính phủ cung cấp, nhiều thứ trong đó do chính phủ làm chính vì chúng không bao giờ bù được chi phí nếu bán trên thị trường tự do. Với xu hướng tính cao sản lượng của kinh tế xã hội chủ nghĩa so với kinh tế tư bản như vậy, càng đáng chú ý là số liệu vẫn thường cho thấy sản lượng bình quân đầu người ở các nước tư bản cao hơn.
 
 **GDP vẫn hữu ích khi so những nước tương tự.** Dù có những khó khăn trên, GDP vẫn là cơ sở hợp lý, dù thô, để so các nước tương tự cùng thời điểm, nhất là khi chia cho dân số thành GDP bình quân đầu người. Khi số liệu cho thấy GDP bình quân đầu người của Na Uy năm 2009 hơn gấp đôi Ý cùng năm, có thể kết luận hợp lý rằng người Na Uy có mức sống cao hơn đáng kể. Nhưng không cần giả vờ chính xác; Sowell dẫn câu ông gán cho Keynes: thà đúng một cách đại khái còn hơn sai một cách chính xác.
 
@@ -646,7 +673,9 @@ Lý tưởng là đo được cảm giác hạnh phúc của từng người, nh
 | 4 | Ấn Độ |
 | 5 | Đức |
 
-Trung Quốc đứng thứ hai về tổng GDP nhưng không hề nằm trong nhóm dẫn đầu về GDP bình quân đầu người, vì sản lượng chia cho dân số đông nhất thế giới; năm 2009, GDP bình quân đầu người của Trung Quốc chưa bằng một phần mười của Nhật. Không nước nào trong năm nước có tổng GDP lớn nhất lọt vào năm nước có GDP bình quân đầu người cao nhất; năm nước đó đều rất nhỏ và không hẳn so được với các nền kinh tế lớn. Một số nước nhỏ như Bermuda là nơi tránh thuế, thu hút của cải của người giàu nước khác, những người có thể có hoặc không có quốc tịch nhưng đăng ký cư trú chính thức ở đó. GDP bình quân đầu người của Bermuda cao hơn Mỹ không có nghĩa cư dân thường trú trung bình ở Bermuda sống sung túc hơn người Mỹ trung bình.
+Trung Quốc đứng thứ hai về tổng GDP nhưng không hề nằm trong nhóm dẫn đầu về GDP bình quân đầu người, vì sản lượng chia cho dân số đông nhất thế giới; năm 2009, GDP bình quân đầu người của Trung Quốc chưa bằng một phần mười của Nhật. Không nước nào trong năm nước có tổng GDP lớn nhất lọt vào năm nước có GDP bình quân đầu người cao nhất; năm nước đó đều rất nhỏ và không hẳn so được với các nền kinh tế lớn.
+
+Một số nước nhỏ như Bermuda là nơi tránh thuế, thu hút của cải của người giàu nước khác, những người có thể có hoặc không có quốc tịch nhưng đăng ký cư trú chính thức ở đó. GDP bình quân đầu người của Bermuda cao hơn Mỹ không có nghĩa cư dân thường trú trung bình ở Bermuda sống sung túc hơn người Mỹ trung bình.
 
 ### 7. Xu hướng thống kê (Statistical Trends)
 
@@ -663,9 +692,15 @@ Xu hướng ngoài kinh tế cũng dễ hiểu sai. Có người nói tỷ lệ 
 
 **Hoạt động không được tính.** Ở một số nước, nhất là Thế giới thứ ba, nhiều hoạt động kinh tế diễn ra "ngoài sổ sách" đến mức số liệu chính thức bỏ sót phần lớn, thậm chí hầu hết, hàng hoá, dịch vụ làm ra. Ở mọi nước, việc nhà không trả lương (nấu ăn, nuôi con, dọn nhà) không được tính. Nếu tỷ lệ bỏ sót không đổi giữa các thời kỳ, xu hướng không bị ảnh hưởng trực tiếp; nhưng thực tế các hoạt động trong gia đình đã thay đổi lớn theo thời gian ở nhiều nước và khác nhau rất nhiều giữa các xã hội.
 
-Khi phụ nữ đi làm nhiều hơn, nhiều việc nhà trước đây vợ và mẹ làm mà không tạo ra số liệu thu nhập nào nay do nhà trẻ, dịch vụ dọn nhà, nhà hàng hay hãng giao pizza làm để lấy tiền. Vì tiền nay đổi tay chính thức trên thị trường thay vì không chính thức giữa vợ và chồng trong nhà, số liệu ngày nay tính là sản lượng những thứ trước đây không được tính dù đã tồn tại. Xu hướng sản lượng vì vậy phản ánh cả phần tăng thật lẫn phần đếm thêm. Thời gian càng dài, sự dịch chuyển này càng làm số liệu khó so sánh. Trong nhiều thế kỷ trước, gia đình thường tự trồng lương thực trong vườn hay trang trại của mình và tự đóng lọ để dự trữ thay vì mua đồ hộp. Báo cáo *Report on Manufactures* năm 1791 của Alexander Hamilton ghi rằng bốn phần năm quần áo người Mỹ mặc là đồ nhà làm. Thời khai hoang ở Mỹ, hay ở một số nước nghèo ngày nay, gia đình có thể tự dựng nhà với sự giúp đỡ của bạn bè, hàng xóm. Khi những hoạt động này chuyển từ gia đình ra thị trường, tiền trả cho chúng đưa chúng vào số liệu chính thức, khiến khó biết bao nhiêu phần của xu hướng là tăng thật, bao nhiêu phần là do khác biệt trong việc ghi chép.
+Khi phụ nữ đi làm nhiều hơn, nhiều việc nhà trước đây vợ và mẹ làm mà không tạo ra số liệu thu nhập nào nay do nhà trẻ, dịch vụ dọn nhà, nhà hàng hay hãng giao pizza làm để lấy tiền. Vì tiền nay đổi tay chính thức trên thị trường thay vì không chính thức giữa vợ và chồng trong nhà, số liệu ngày nay tính là sản lượng những thứ trước đây không được tính dù đã tồn tại. Xu hướng sản lượng vì vậy phản ánh cả phần tăng thật lẫn phần đếm thêm.
 
-**Số liệu có thể đánh giá thấp tăng trưởng ở nước nghèo.** Số liệu sản lượng có thể phóng đại mức tăng theo thời gian, nhưng cũng có thể đánh giá thấp. Ở các nước rất nghèo, thịnh vượng tăng lên có thể trông như trì trệ trên số liệu. Nghèo cùng cực gây tử vong trẻ sơ sinh cao và rủi ro sức khoẻ cho người khác do thiếu ăn, thiếu nhà ở, thiếu dịch vụ y tế và xử lý nước thải. Khi thu nhập bình quân tăng, một trong những hệ quả đầu tiên là nhiều trẻ sơ sinh, trẻ nhỏ và người già yếu sống sót hơn nhờ ăn uống và chăm sóc y tế tốt hơn, nhất là ở nhóm thu nhập thấp. Khi đó người nghèo chiếm tỷ trọng lớn hơn trong dân số, cả về số tuyệt đối lẫn tương đối so với nhóm khá giả. Việc tính thêm nhiều người nghèo vào bình quân có thể làm mức tăng thu nhập bình quân thấp đi, thậm chí làm thu nhập bình quân giảm, dù mọi cá nhân trong nước đều có thu nhập cao hơn trước.
+Thời gian càng dài, sự dịch chuyển này càng làm số liệu khó so sánh. Trong nhiều thế kỷ trước, gia đình thường tự trồng lương thực trong vườn hay trang trại của mình và tự đóng lọ để dự trữ thay vì mua đồ hộp. Báo cáo *Report on Manufactures* năm 1791 của Alexander Hamilton ghi rằng bốn phần năm quần áo người Mỹ mặc là đồ nhà làm. Thời khai hoang ở Mỹ, hay ở một số nước nghèo ngày nay, gia đình có thể tự dựng nhà với sự giúp đỡ của bạn bè, hàng xóm.
+
+Khi những hoạt động này chuyển từ gia đình ra thị trường, tiền trả cho chúng đưa chúng vào số liệu chính thức, khiến khó biết bao nhiêu phần của xu hướng là tăng thật, bao nhiêu phần là do khác biệt trong việc ghi chép.
+
+**Số liệu có thể đánh giá thấp tăng trưởng ở nước nghèo.** Số liệu sản lượng có thể phóng đại mức tăng theo thời gian, nhưng cũng có thể đánh giá thấp. Ở các nước rất nghèo, thịnh vượng tăng lên có thể trông như trì trệ trên số liệu. Nghèo cùng cực gây tử vong trẻ sơ sinh cao và rủi ro sức khoẻ cho người khác do thiếu ăn, thiếu nhà ở, thiếu dịch vụ y tế và xử lý nước thải.
+
+Khi thu nhập bình quân tăng, một trong những hệ quả đầu tiên là nhiều trẻ sơ sinh, trẻ nhỏ và người già yếu sống sót hơn nhờ ăn uống và chăm sóc y tế tốt hơn, nhất là ở nhóm thu nhập thấp. Khi đó người nghèo chiếm tỷ trọng lớn hơn trong dân số, cả về số tuyệt đối lẫn tương đối so với nhóm khá giả. Việc tính thêm nhiều người nghèo vào bình quân có thể làm mức tăng thu nhập bình quân thấp đi, thậm chí làm thu nhập bình quân giảm, dù mọi cá nhân trong nước đều có thu nhập cao hơn trước.
 
 Sowell minh hoạ bằng một phép tính trong chú thích. Một nước Thế giới thứ ba có 100 triệu dân chia đều bốn nhóm; rồi (1) thu nhập của mọi người tăng 20%, và (2) hai nhóm nghèo nhất tăng gấp đôi số người nhờ giảm tử vong ở những người dễ tổn thương nhất trước suy dinh dưỡng và thiếu y tế, còn hai nhóm trên giữ nguyên số người.
 
@@ -679,7 +714,11 @@ Sowell minh hoạ bằng một phép tính trong chú thích. Một nước Th�
 
 Thu nhập bình quân của cả nước đứng yên ở 3.000 USD dù thu nhập của từng người tăng một phần năm. Sowell kết luận: nếu thu nhập tăng ít hơn một phần năm, thu nhập bình quân sẽ giảm, dù thu nhập của mỗi cá nhân đều tăng.
 
-**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một gia đình năm 2005 có thu nhập 100 triệu đồng/năm, người vợ ở nhà nấu ăn, chăm con. Năm 2025, cả hai vợ chồng đi làm, tổng thu nhập 300 triệu đồng/năm, nhưng phải trả 60 triệu đồng/năm cho nhà trẻ, 30 triệu đồng/năm cho cơm hàng và giao đồ ăn. Trên số liệu, GDP ghi nhận thêm 200 triệu đồng thu nhập của hai vợ chồng, và thêm 90 triệu đồng dịch vụ của nhà trẻ và quán ăn. Phần 200 triệu đồng phần lớn là công việc mới thật sự được làm ra; nhưng phần 90 triệu đồng là việc chăm con và nấu ăn vốn đã có từ năm 2005, chỉ là trước đây không ai trả tiền nên không được đếm. Cũng vậy, nếu một chiếc điện thoại năm 2025 giá gấp đôi chiếc năm 2015 nhưng chụp ảnh, xử lý và lưu trữ tốt gấp nhiều lần, coi toàn bộ phần tăng giá là lạm phát sẽ làm thu nhập thực tế trông thấp hơn thực chất. Đó là hai cái bẫy Sowell chỉ ra: GDP đếm thêm những thứ trước đây không được đếm, còn CPI coi cải tiến chất lượng là tăng giá.
+**Ví dụ hôm nay** (minh hoạ của người tổng hợp, con số giả định). Một gia đình năm 2005 có thu nhập 100 triệu đồng/năm, người vợ ở nhà nấu ăn, chăm con. Năm 2025, cả hai vợ chồng đi làm, tổng thu nhập 300 triệu đồng/năm, nhưng phải trả 60 triệu đồng/năm cho nhà trẻ, 30 triệu đồng/năm cho cơm hàng và giao đồ ăn.
+
+Trên số liệu, GDP ghi nhận thêm 200 triệu đồng thu nhập của hai vợ chồng, và thêm 90 triệu đồng dịch vụ của nhà trẻ và quán ăn. Phần 200 triệu đồng phần lớn là công việc mới thật sự được làm ra; nhưng phần 90 triệu đồng là việc chăm con và nấu ăn vốn đã có từ năm 2005, chỉ là trước đây không ai trả tiền nên không được đếm.
+
+Cũng vậy, nếu một chiếc điện thoại năm 2025 giá gấp đôi chiếc năm 2015 nhưng chụp ảnh, xử lý và lưu trữ tốt gấp nhiều lần, coi toàn bộ phần tăng giá là lạm phát sẽ làm thu nhập thực tế trông thấp hơn thực chất. Đó là hai cái bẫy Sowell chỉ ra: GDP đếm thêm những thứ trước đây không được đếm, còn CPI coi cải tiến chất lượng là tăng giá.
 
 ## Luận điểm kinh tế cốt lõi
 
@@ -792,15 +831,21 @@ Tổng thu nhập thực tế và tổng sản lượng của một nước là 
 
 ### Sức mạnh của chương là dạy người đọc nghi ngờ số liệu mà không vứt bỏ số liệu
 
-Phần lớn sách nhập môn trình bày GDP như một định nghĩa rồi chuyển sang mô hình. Sowell làm ngược lại: ông dành phần lớn chương cho những cách GDP và các chỉ số đi kèm có thể đánh lừa, mỗi cách có một ví dụ cụ thể (VCR, nhà mới rộng hơn, Nhật và Mỹ, Bermuda, Kennedy 1960, phép tính 100 triệu dân). Nhưng ông không kết luận rằng số liệu vô dụng: so Na Uy với Ý năm 2009 vẫn cho kết luận hợp lý. Người đọc ra khỏi chương với một danh sách câu hỏi dùng được ngay khi gặp một con số: giá trị thực hay danh nghĩa, chỉ số giá nào, tỷ giá hay sức mua, năm gốc nào, có phần nào là đếm thêm. Phép tính trong chú thích về nước nghèo đặc biệt hay, vì nó cho thấy một bình quân có thể đứng yên trong khi mọi cá nhân đều giàu lên.
+Phần lớn sách nhập môn trình bày GDP như một định nghĩa rồi chuyển sang mô hình. Sowell làm ngược lại: ông dành phần lớn chương cho những cách GDP và các chỉ số đi kèm có thể đánh lừa, mỗi cách có một ví dụ cụ thể (VCR, nhà mới rộng hơn, Nhật và Mỹ, Bermuda, Kennedy 1960, phép tính 100 triệu dân).
+
+Nhưng ông không kết luận rằng số liệu vô dụng: so Na Uy với Ý năm 2009 vẫn cho kết luận hợp lý. Người đọc ra khỏi chương với một danh sách câu hỏi dùng được ngay khi gặp một con số: giá trị thực hay danh nghĩa, chỉ số giá nào, tỷ giá hay sức mua, năm gốc nào, có phần nào là đếm thêm. Phép tính trong chú thích về nước nghèo đặc biệt hay, vì nó cho thấy một bình quân có thể đứng yên trong khi mọi cá nhân đều giàu lên.
 
 ### Phần giải thích Đại suy thoái ngắn gọn và chỉ nêu một phía
 
-Sowell đặt cung tiền giảm một phần ba ở trung tâm, gần với cách giải thích tiền tệ của Milton Friedman và Anna Schwartz. Ông có thừa nhận các trường phái bất đồng về nguyên nhân, thời gian và chính sách, nhưng không trình bày cách giải thích theo trường phái Keynes (sụt giảm tổng cầu do đầu tư và tiêu dùng sụp đổ, cần chính phủ bù vào), cũng không nhắc vai trò của bản vị vàng khiến suy thoái lan ra toàn cầu. Câu "chính sách của chính phủ gây bất định khiến người ta giữ tiền" phản ánh quan điểm riêng của Sowell (ông viết về đề tài này ở chỗ khác) chứ chưa phải đồng thuận. Ngoài ra, ý "tiết kiệm không nhất thiết làm giảm tổng cầu" đúng khi hệ thống tài chính vận hành tốt, nhưng chính trong suy thoái, khi ngân hàng ngại cho vay và doanh nghiệp ngại đầu tư, tiền tiết kiệm có thể không chuyển thành đầu tư; đó là trọng tâm của nghịch lý tiết kiệm mà Sowell không bàn.
+Sowell đặt cung tiền giảm một phần ba ở trung tâm, gần với cách giải thích tiền tệ của Milton Friedman và Anna Schwartz. Ông có thừa nhận các trường phái bất đồng về nguyên nhân, thời gian và chính sách, nhưng không trình bày cách giải thích theo trường phái Keynes (sụt giảm tổng cầu do đầu tư và tiêu dùng sụp đổ, cần chính phủ bù vào), cũng không nhắc vai trò của bản vị vàng khiến suy thoái lan ra toàn cầu.
+
+Câu "chính sách của chính phủ gây bất định khiến người ta giữ tiền" phản ánh quan điểm riêng của Sowell (ông viết về đề tài này ở chỗ khác) chứ chưa phải đồng thuận. Ngoài ra, ý "tiết kiệm không nhất thiết làm giảm tổng cầu" đúng khi hệ thống tài chính vận hành tốt, nhưng chính trong suy thoái, khi ngân hàng ngại cho vay và doanh nghiệp ngại đầu tư, tiền tiết kiệm có thể không chuyển thành đầu tư; đó là trọng tâm của nghịch lý tiết kiệm mà Sowell không bàn.
 
 ### Luận điểm CPI phóng đại lạm phát có cơ sở, nhưng không xoá được tranh luận về lương
 
-Con số khoảng 1 điểm phần trăm mà Sowell dẫn khớp với kết luận nổi tiếng của Uỷ ban Boskin năm 1996 (khoảng 1,1 điểm phần trăm). Sau đó cơ quan thống kê lao động Mỹ đã sửa phương pháp (cập nhật rổ hàng thường xuyên hơn, điều chỉnh chất lượng, thêm chỉ số CPI chuỗi), nên mức phóng đại ngày nay được cho là nhỏ hơn thời Sowell nói tới. Ý về phúc lợi gắn với công việc là đúng và quan trọng, nhưng phần lớn phần tăng phúc lợi ở Mỹ là chi phí bảo hiểm y tế tăng, không hẳn là mức sống tăng tương ứng. Nhiều nhà kinh tế vẫn cho rằng, kể cả khi đã điều chỉnh đúng chỉ số giá và tính cả phúc lợi, lương của lao động trung vị tăng chậm hơn năng suất trong nhiều thập kỷ. Sowell đúng rằng nhiều báo động "lương thực tế giảm" bị phóng đại, nhưng câu hỏi lương có theo kịp năng suất hay không vẫn là một tranh luận thật.
+Con số khoảng 1 điểm phần trăm mà Sowell dẫn khớp với kết luận nổi tiếng của Uỷ ban Boskin năm 1996 (khoảng 1,1 điểm phần trăm). Sau đó cơ quan thống kê lao động Mỹ đã sửa phương pháp (cập nhật rổ hàng thường xuyên hơn, điều chỉnh chất lượng, thêm chỉ số CPI chuỗi), nên mức phóng đại ngày nay được cho là nhỏ hơn thời Sowell nói tới.
+
+Ý về phúc lợi gắn với công việc là đúng và quan trọng, nhưng phần lớn phần tăng phúc lợi ở Mỹ là chi phí bảo hiểm y tế tăng, không hẳn là mức sống tăng tương ứng. Nhiều nhà kinh tế vẫn cho rằng, kể cả khi đã điều chỉnh đúng chỉ số giá và tính cả phúc lợi, lương của lao động trung vị tăng chậm hơn năng suất trong nhiều thập kỷ. Sowell đúng rằng nhiều báo động "lương thực tế giảm" bị phóng đại, nhưng câu hỏi lương có theo kịp năng suất hay không vẫn là một tranh luận thật.
 
 ### Lập luận về cơ cấu tuổi sắc sảo nhưng chỉ đúng một nửa
 
@@ -820,3 +865,165 @@ Sowell chỉ nói thịnh vượng và mức hài lòng có tương quan thô. �
 - **Trong đầu tư.** Lợi suất "trung bình" của một quỹ hay một thị trường phụ thuộc mạnh vào năm gốc: quỹ S&P 500 cuối 2003 cho gần 10,5%/năm nếu tính từ 1963 và gần 0% nếu tính từ 1998. Khi đọc tài liệu chào bán, hãy xem lợi suất được tính từ năm nào và thử tính lại từ vài năm gốc khác. Khi so lợi suất giữa các nước, hãy phân biệt lợi suất bằng nội tệ và lợi suất sau khi quy đổi theo tỷ giá.
 - **Trong nghề nghiệp.** Khi so mức lương giữa các năm hay giữa các nước, hãy so theo sức mua và tính cả phúc lợi (bảo hiểm, thưởng, ngày nghỉ), không chỉ so con số lương bằng tiền theo tỷ giá. Một mức lương cao hơn ở thành phố đắt đỏ có thể mua được ít hơn.
 - **Khi đọc tin chính sách.** Ở Việt Nam, khi đọc tin về tăng trưởng GDP, thu nhập bình quân hay so sánh với các nước trong khu vực, câu hỏi đáng đặt ra là: con số tính theo giá hiện hành hay giá so sánh, quy đổi theo tỷ giá hay sức mua, và năm gốc là năm nào. Khu vực kinh tế phi chính thức còn lớn và việc chuyển lao động từ nông nghiệp, từ việc nhà ra thị trường diễn ra nhanh, nên một phần tăng trưởng đo được có thể là phần "đếm thêm" mà Sowell mô tả; ngược lại, cải tiến chất lượng hàng hoá và dịch vụ có thể không hiện hết trong số liệu. Các lần đánh giá lại quy mô GDP theo phương pháp mới cũng là lời nhắc rằng con số GDP phụ thuộc vào cách đo.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 16 trên một trang: sáu nhánh lớn đi theo các mục 1–7 của phần Nội dung chi tiết (tổng cầu và Đại suy thoái, nguỵ biện hợp thành, sản lượng và tổng cầu, đo lường sản lượng cùng cơ cấu sản lượng thay đổi, so sánh quốc tế, xu hướng thống kê), mỗi nhánh ghi cơ chế, ví dụ lịch sử và con số then chốt Sowell dùng; nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 16: tổng thu nhập thực tế và tổng sản lượng là một thứ, còn số liệu GDP chỉ đáng tin khi so những thứ giống nhau`"]
+  n1["`Mục 1 — Tổng cầu bằng tiền có thể sụt giảm, như trong Đại suy thoái`"]
+  n0 --- n1
+  n2["`Có cầu đối với từng hàng hoá thì cũng có tổng cầu đối với toàn bộ sản lượng, và tổng cầu dao động`"]
+  n1 --- n2
+  n3["`Bốn năm sau cú sụp đổ chứng khoán năm 1929, cung tiền của Mỹ giảm một phần ba`"]
+  n1 --- n3
+  n4["`Nếu giá và lương cũng giảm ngay một phần ba, sản lượng thực tế và việc làm sẽ giữ nguyên`"]
+  n1 --- n4
+  n5["`Giá và lương không giảm kịp nên sản lượng thực tế năm 1933 thấp hơn năm 1929 một phần tư`"]
+  n1 --- n5
+  n6["`Thất nghiệp từ 3% (1929) lên 25% (1933), các công ty Mỹ tính chung lỗ hai năm liền`"]
+  n5 --- n6
+  n7["`Đức thất nghiệp 34% năm 1931, mở đường cho đảng Quốc xã thắng cử 1932 và Hitler lên nắm quyền 1933`"]
+  n1 --- n7
+  n8["`Mục 2 — Nguỵ biện hợp thành: điều đúng với một phần chưa chắc đúng với toàn thể`"]
+  n0 --- n8
+  n9["`Thập niên 1990 báo chí đầy tin sa thải, nhưng thất nghiệp cả nước thấp nhất nhiều năm và số việc làm kỷ lục`"]
+  n8 --- n9
+  n10["`Mua trái phiếu chính phủ là đầu tư của một người, nhưng cả nước không thêm nhà máy hay đập thuỷ điện nào`"]
+  n8 --- n10
+  n11["`Tài sản thêm của người mua bằng khoản nợ thêm của người nộp thuế tương lai, tính cho cả nước thì triệt tiêu`"]
+  n10 --- n11
+  n12["`Sân vận động: một người đứng dậy thì xem rõ hơn, mọi người cùng đứng thì không ai xem rõ hơn`"]
+  n8 --- n12
+  n13["`Cốt lõi của nguỵ biện hợp thành là bỏ qua tương tác giữa các cá nhân`"]
+  n8 --- n13
+  n14["`Cứu 10.000 việc làm ngành widget có thể làm mất 15.000 việc làm ở nơi khác vì thuế lấy đi nguồn lực`"]
+  n8 --- n14
+  n15["`Sai lầm là tin đó là số việc làm cứu được ròng cho cả nền kinh tế`"]
+  n14 --- n15
+  n16["`Mục 3 — Sản lượng không thể vượt thu nhập thực tế, thứ có thể thiếu là mong muốn chi tiêu`"]
+  n0 --- n16
+  n17["`Ngộ nhận sản xuất thừa lặp lại hơn hai thế kỷ: Seymour Harris, Vance Packard, Tổng thống Roosevelt`"]
+  n16 --- n17
+  n18["`Thu nhập thực tế đo bằng hàng hoá, dịch vụ tiền mua được, cũng chính là thứ tạo nên sản lượng`"]
+  n16 --- n18
+  n19["`Tổng thu nhập thực tế và tổng sản lượng không tình cờ bằng nhau mà luôn bằng nhau, nhìn từ hai phía`"]
+  n18 --- n19
+  n20["`Thu nhập của người này là chi tiêu của người khác, nên ngần ngại chi tiêu làm giảm tổng cầu bằng tiền`"]
+  n16 --- n20
+  n21["`Chính sách gây bất định khiến hàng triệu người giữ tiền, tổng cầu xuống dưới tổng sản lượng, sản xuất bị cắt`"]
+  n20 --- n21
+  n22["`Tiết kiệm gửi ngân hàng vẫn được cho vay, đầu tư tiếp nên không nhất thiết làm giảm tổng cầu`"]
+  n16 --- n22
+  n23["`Đại suy thoái: hàng nghìn ngân hàng phá sản, người dân cất tiền trong lọ, dưới nệm nên tổng cầu giảm`"]
+  n22 --- n23
+  n24["`Sản lượng Mỹ 104 tỷ USD (1929) xuống 56 tỷ USD (1933), tới 1936 mới về lại mức thực tế năm 1929`"]
+  n16 --- n24
+  n25["`Mục 4–5 — Đo sản lượng qua thời gian: cùng một tên gọi không phải cùng một thứ`"]
+  n0 --- n25
+  n26["`GDP đo mọi thứ làm ra trong biên giới, GNP đo thứ người dân một nước làm ra, ở Mỹ chênh chưa tới 1%`"]
+  n25 --- n26
+  n27["`Sản lượng một năm là dòng (như đạo hàm), của cải tích luỹ là tồn lượng (như tích phân)`"]
+  n25 --- n27
+  n28["`Chiến tranh Thế giới thứ hai: Mỹ ngừng làm ô tô, dùng dần ô tô, tủ lạnh, chung cư sẵn có`"]
+  n27 --- n28
+  n29["`Sau chiến tranh, đồ dùng lâu bền của người tiêu dùng tăng hơn gấp đôi về giá trị thực trong 5 năm`"]
+  n28 --- n29
+  n30["`Của cải là hàng hoá, dịch vụ thực, nếu là tiền thì nước nào cũng giàu ngay bằng cách in tiền`"]
+  n25 --- n30
+  n31["`Mỹ 1900–2000: giá thực của điện, trứng, xe đạp, quần áo giảm, của bánh mì, bia, khoai tây, thuốc lá tăng`"]
+  n30 --- n31
+  n32["`Nhà đơn lập mới ở Mỹ 1983–2000: diện tích trung vị từ 1.565 lên 2.076 feet vuông`"]
+  n25 --- n32
+  n33["`So GDP năm 2000 với năm 1900 gần như vô nghĩa, so với năm ngoái thì có nghĩa`"]
+  n25 --- n33
+  n34["`Máy ghi băng video giá 30.000 USD chỉ vào rổ CPI khi đã xuống dưới 200 USD`"]
+  n25 --- n34
+  n35["`CPI phóng đại lạm phát khoảng 1 điểm phần trăm: báo 3% thì thực chất gần 2%`"]
+  n34 --- n35
+  n36["`Sau 25 năm, thu nhập bình quân đầu người bị đánh giá thấp gần 9.000 USD/năm, gia đình ba người hơn 25.000 USD`"]
+  n35 --- n36
+  n37["`#quot;Lương thực tế giảm#quot; là sản phẩm của cách thống kê: tiêu dùng tăng mạnh, tài sản ròng tăng hơn gấp đôi`"]
+  n35 --- n37
+  n38["`Mục 6 — So sánh quốc tế: chất lượng, cơ cấu tuổi, tỷ giá và hàng chính phủ cung cấp làm lệch số liệu`"]
+  n0 --- n38
+  n39["`Hàng Liên Xô kém và lỗi thời, Ấn Độ thập niên 1980 vẫn làm chủ yếu đồng hồ cơ`"]
+  n38 --- n39
+  n40["`Tuổi trung vị Nigeria, Afghanistan, Tanzania dưới 20, của Nhật, Ý, Đức trên 40`"]
+  n38 --- n40
+  n41["`Xe lăn, máy tạo nhịp tim, thuốc tuổi già được tính vào GDP nên phóng đại khoảng cách sung túc`"]
+  n40 --- n41
+  n42["`Theo tỷ giá chính thức Nhật hơn Mỹ, nhưng sức mua bình quân đầu người của Nhật chỉ khoảng 71% của Mỹ`"]
+  n38 --- n42
+  n43["`Hàng chính phủ cung cấp tính theo chi phí, thổi phồng sản lượng nước xã hội chủ nghĩa, nước tư bản vẫn cao hơn`"]
+  n38 --- n43
+  n44["`Na Uy năm 2009 có GDP bình quân đầu người hơn gấp đôi Ý: kết luận mức sống cao hơn là hợp lý`"]
+  n38 --- n44
+  n45["`Thà đúng một cách đại khái còn hơn sai một cách chính xác (câu Sowell gán cho Keynes)`"]
+  n44 --- n45
+  n46["`Tổng GDP 2009 theo sức mua: Mỹ, Trung Quốc, Nhật, Ấn Độ, Đức, nhưng không nước nào vào top 5 bình quân`"]
+  n38 --- n46
+  n47["`Bermuda có GDP bình quân cao hơn Mỹ vì là nơi tránh thuế, không phải dân thường trú sống sung túc hơn`"]
+  n46 --- n47
+  n48["`Mục 7 — Xu hướng thống kê: năm gốc tuỳ ý và phần trước đây không được đếm`"]
+  n0 --- n48
+  n49["`Tăng trưởng GNP Mỹ tính tới 1960: 1,9%/năm từ 1945, 4,4%/năm từ 1958, dài hạn khoảng 3%`"]
+  n48 --- n49
+  n50["`Quỹ S#amp;P 500 cuối 2003: gần 10,5%/năm nếu tính từ 1963, gần 0% nếu tính từ 1998`"]
+  n48 --- n50
+  n51["`Tử vong do ô tô đã giảm hàng chục năm trước khi có quy định an toàn liên bang`"]
+  n48 --- n51
+  n52["`Việc nhà chuyển ra nhà trẻ, nhà hàng, giao pizza thì được đếm thêm, làm số liệu phóng đại tăng trưởng`"]
+  n48 --- n52
+  n53["`Năm 1791, bốn phần năm quần áo người Mỹ mặc là đồ nhà làm (báo cáo của Alexander Hamilton)`"]
+  n52 --- n53
+  n54["`Nước nghèo: giảm tử vong làm tỷ trọng người nghèo tăng, kéo thu nhập bình quân xuống`"]
+  n48 --- n54
+  n55["`100 triệu dân, mọi người tăng thu nhập 20%, hai nhóm nghèo gấp đôi số người: bình quân vẫn 3.000 USD`"]
+  n54 --- n55
+  n56["`Thông điệp xuyên suốt`"]
+  n0 --- n56
+  n57["`Đừng lo sản xuất quá nhiều, hãy chú ý tổng cầu, cung tiền và lòng tin của người dân, doanh nghiệp`"]
+  n56 --- n57
+  n58["`Chương trình cứu việc làm phải được đánh giá theo số việc làm ròng của cả nền kinh tế`"]
+  n56 --- n58
+  n59["`Trước mỗi con số hỏi: giá trị thực chưa, chỉ số giá nào, tỷ giá hay sức mua, năm gốc nào, có phần đếm thêm không`"]
+  n56 --- n59
+  n60["`GDP vẫn đáng dùng, nhưng như một thước đo thô`"]
+  n56 --- n60
+  class n0 root
+  class n1,n8,n16,n25,n38,n48,n56 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n54,n55,n57,n58,n59,n60 leaf
+```
+
+## Nguồn
+
+Thomas Sowell, *Basic Economics: A Common Sense Guide to the Economy*, ấn bản thứ năm (Basic Books, 2015), Chương 16, chương mở đầu Phần V "The National Economy" (Nền kinh tế quốc gia).
+
+## Tác giả
+
+Thomas Sowell (sinh 1930), nhà kinh tế Mỹ, nghiên cứu viên cao cấp tại Viện Hoover, Đại học Stanford.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Bốn phần đầu của sách xem xét từng thị trường riêng: giá cả và thị trường (Phần I), doanh nghiệp và ngành (Phần II), lao động và tiền lương (Phần III), đầu tư, thời gian và rủi ro (Phần IV, kết thúc ở Chương 15). Chương 16 chuyển từ từng thị trường sang nền kinh tế như một tổng thể.
+
+Chương này làm hai việc. Thứ nhất, nó cảnh báo rằng điều đúng với một phần chưa chắc đúng với cả nền kinh tế (nguỵ biện hợp thành), và giải thích vì sao tổng sản lượng không bao giờ "vượt quá" tổng thu nhập thực tế, nhưng tổng cầu bằng tiền thì có thể sụt giảm, như trong Đại suy thoái. Thứ hai, nó chỉ ra những cái bẫy khi đo sản lượng quốc gia bằng GDP: so sánh qua thời gian dài, so sánh giữa các nước, và chọn năm gốc cho "xu hướng".
+
+Chương này nhắc lại phân biệt thu nhập và của cải từ Chương 10, và mở đường cho Chương 17 (tiền và hệ thống ngân hàng, vì Sowell nói vai trò của tiền đã được Đại suy thoái chứng minh một cách đau đớn), Chương 18 và 19 (chức năng và tài chính của chính phủ, nhân tố lớn thứ ba trong nền kinh tế quốc gia).
+
+## Lưu ý
+
+- Ấn bản thứ năm ra năm 2015, nhưng số liệu trong chương phần lớn dừng ở khoảng năm 2009 (GDP của Na Uy và Ý, năm nước có GDP lớn nhất) và năm 2003 (lợi suất quỹ S&P 500, báo cáo về xe SUV). Một số ví dụ còn cũ hơn (máy ghi băng video, chiến dịch tranh cử năm 1960).
+- Từ đó một số chi tiết đã thay đổi: theo GDP tính bằng sức mua, Trung Quốc đã vượt Mỹ vào khoảng giữa thập niên 2010, nên danh sách năm nước đứng đầu năm 2009 trong chương không còn đúng thứ tự. Máy ghi băng video đã biến mất khỏi thị trường, một ví dụ khớp với chính lập luận của Sowell về cơ cấu sản lượng thay đổi.
+- Chương có 2 chú thích chân trang của Sowell: chú thích về dòng và tồn lượng theo cách nhìn giải tích (đưa vào mục 4 phần Nội dung chi tiết và khối sơ đồ Phần 4), và chú thích về phép tính thu nhập bình quân ở nước nghèo (đưa vào mục 7 và khối sơ đồ Phần 7, kèm phép tính kiểm tra lại).
+- Người tổng hợp có hai chỗ nghi ngờ về số liệu:
+  - Sowell nói GDP bình quân đầu người của Trung Quốc năm 2009 chưa bằng một phần mười của Nhật ngay sau danh sách xếp theo sức mua. Tỷ lệ đó chỉ đúng nếu tính theo tỷ giá thị trường, còn theo sức mua thì khoảng cách nhỏ hơn nhiều.
+  - Câu "thà đúng một cách đại khái còn hơn sai một cách chính xác" Sowell gán cho Keynes, nhưng nguồn gốc câu này còn bị tranh cãi.
+- Các câu trích là bản dịch của người tổng hợp.
