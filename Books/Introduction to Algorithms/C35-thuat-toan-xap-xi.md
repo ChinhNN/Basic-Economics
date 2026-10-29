@@ -2,11 +2,11 @@
 
 ## Ý chính
 
-Tác giả muốn người đọc hiểu rằng **NP-đầy đủ không có nghĩa là bó tay: với nhiều bài toán tối ưu NP-khó, ta có thuật toán thời gian đa thức trả về lời giải mà chi phí bị chặn trong một hệ số ρ(n) của chi phí tối ưu — dù ta không bao giờ biết chi phí tối ưu là bao nhiêu.
+Tác giả muốn người đọc hiểu rằng **NP-đầy đủ không có nghĩa là bó tay: với nhiều bài toán tối ưu NP-khó, ta có thuật toán thời gian đa thức trả về lời giải mà chi phí bị chặn trong một hệ số ρ(n) của chi phí tối ưu — dù ta không bao giờ biết chi phí tối ưu là bao nhiêu.**
 
-Bí quyết chung là tìm một CẬN của giá trị tối ưu tính được trong thời gian đa thức (một ghép cặp cực đại, một cây khung nhỏ nhất, giá trị của một quy hoạch tuyến tính nới lỏng, tổng số mệnh đề m) rồi so lời giải của mình với cận đó.
+**Bí quyết chung là tìm một CẬN của giá trị tối ưu tính được trong thời gian đa thức (một ghép cặp cực đại, một cây khung nhỏ nhất, giá trị của một quy hoạch tuyến tính nới lỏng, tổng số mệnh đề m) rồi so lời giải của mình với cận đó.**
 
-Nhưng khả năng xấp xỉ khác nhau rất xa giữa các bài toán: có bài xấp xỉ được tuỳ ý (tổng tập con có lược đồ xấp xỉ đa thức đầy đủ), có bài chỉ xấp xỉ được trong hệ số lôgarit (phủ tập hợp), và có bài không xấp xỉ được trong bất kỳ hệ số hằng nào trừ khi P = NP (TSP tổng quát).** Phần mở đầu định nghĩa tỷ số xấp xỉ ρ(n), thuật toán ρ(n)-xấp xỉ, lược đồ xấp xỉ (approximation scheme), lược đồ xấp xỉ thời gian đa thức (PTAS) và lược đồ xấp xỉ thời gian đa thức đầy đủ (FPTAS).
+**Nhưng khả năng xấp xỉ khác nhau rất xa giữa các bài toán: có bài xấp xỉ được tuỳ ý (tổng tập con có lược đồ xấp xỉ đa thức đầy đủ), có bài chỉ xấp xỉ được trong hệ số lôgarit (phủ tập hợp), và có bài không xấp xỉ được trong bất kỳ hệ số hằng nào trừ khi P = NP (TSP tổng quát).** Phần mở đầu định nghĩa tỷ số xấp xỉ ρ(n), thuật toán ρ(n)-xấp xỉ, lược đồ xấp xỉ (approximation scheme), lược đồ xấp xỉ thời gian đa thức (PTAS) và lược đồ xấp xỉ thời gian đa thức đầy đủ (FPTAS).
 
 Mục 35.1: APPROX-VERTEX-COVER lấy một cạnh bất kỳ, đưa cả hai đầu mút vào phủ, xoá mọi cạnh dính vào chúng; các cạnh được chọn tạo thành một ghép cặp, mà mọi phủ đỉnh phải chứa ít nhất một đầu mút của từng cạnh ghép, nên lời giải không quá 2 lần tối ưu.
 
@@ -267,9 +267,30 @@ Mục 35.5: thuật toán chính xác cho tổng tập con duy trì danh sách m
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Làm sao chứng minh một lời giải "không quá ρ lần tối ưu" khi ta không biết, và không tính được, giá trị tối ưu?** Bằng cách tìm một đại lượng tính được trong thời gian đa thức mà chắc chắn là cận của giá trị tối ưu, rồi chặn lời giải của thuật toán theo đại lượng đó. Chương dùng bốn loại cận. (a) Phủ đỉnh: các cạnh A mà APPROX-VERTEX-COVER chọn đôi một không chung đỉnh, nên mọi phủ đỉnh cần ít nhất |A| đỉnh, còn thuật toán lấy đúng 2|A| đỉnh: |C| = 2|A| ≤ 2|C*|. (b) TSP có bất đẳng thức tam giác: bỏ một cạnh của hành trình tối ưu được một cây khung, nên cây khung nhỏ nhất T có c(T) ≤ c(H*); đi vòng quanh T tốn 2c(T), bỏ các đỉnh lặp lại không làm tăng chi phí, nên c(H) ≤ 2c(T) ≤ 2c(H*). (c) Phủ đỉnh có trọng số: giá trị tối ưu z* của quy hoạch tuyến tính nới lỏng không vượt trọng số phủ tối ưu, và làm tròn ở ngưỡng 1/2 chỉ làm trọng số tăng tối đa gấp đôi: w(C) ≤ 2z* ≤ 2w(C*). (d) MAX-3-CNF: tối ưu không thể vượt tổng số mệnh đề m, còn phép gán ngẫu nhiên thoả kỳ vọng 7m/8 mệnh đề, nên tỷ số ≤ 8/7. Phủ tập hợp dùng một biến thể tinh tế hơn: chia chi phí cho từng phần tử và chứng minh mỗi tập S của lời giải tối ưu "gánh" tổng chi phí ≤ H(|S|).
-2. **Có phải bài toán NP-đầy đủ nào cũng xấp xỉ được tốt như nhau không?** Không — đây là thông điệp quan trọng thứ hai của chương. Ngay trong chương đã có bốn mức khác nhau: (i) tổng tập con có FPTAS — với mọi ε, đạt sai số 1 + ε trong thời gian đa thức theo n, lg t và 1/ε (danh sách tỉa có độ dài < 3n ln t / ε + 2); (ii) phủ đỉnh, TSP Euclid / có bất đẳng thức tam giác, phủ đỉnh có trọng số, xếp thùng, lập lịch máy có tỷ số hằng 2 (MAX-3-CNF 8/7); (iii) phủ tập hợp chỉ có bảo đảm H(max |S|) ≤ ln |X| + 1, tăng theo cỡ đầu vào; (iv) TSP tổng quát không có thuật toán ρ-xấp xỉ đa thức với bất kỳ hằng ρ nào trừ khi P = NP. Lý do của (iv): gán chi phí 1 cho cạnh của đồ thị gốc và ρ|V| + 1 cho cạnh không thuộc đồ thị; khi đó mọi hành trình không phải chu trình Hamilton tốn ít nhất ρ|V| + |V|, lớn hơn ρ lần chi phí |V| của chu trình Hamilton, nên một thuật toán ρ-xấp xỉ sẽ phân biệt được đồ thị có và không có chu trình Hamilton.
-3. **Đánh đổi giữa thời gian chạy và độ chính xác được thực hiện thế nào?** Bằng lược đồ xấp xỉ: thuật toán nhận thêm tham số ε và bảo đảm tỷ số 1 + ε. Với tổng tập con, ý tưởng là thuật toán chính xác (liệt kê mọi tổng con ≤ t, có thể tới 2ⁿ giá trị) được giữ nguyên nhưng sau mỗi bước, danh sách các tổng bị "tỉa": giá trị nào nằm trong hệ số 1 + δ của một giá trị nhỏ hơn đã giữ thì bỏ. Chọn δ = ε/2n để n lần tỉa liên tiếp tích luỹ sai số (1 + ε/2n)ⁿ ≤ e^(ε/2) ≤ 1 + ε. Sau khi tỉa, hai giá trị liền kề cách nhau ít nhất hệ số 1 + ε/2n, nên trong khoảng [1, t] chỉ chứa được khoảng log_{1+ε/2n} t ≈ (2n/ε) ln t giá trị. Ví dụ với S = ⟨104, 102, 201, 101⟩, t = 308, ε = 0,4: thuật toán trả về 302, tối ưu là 307, sai lệch 1,6% — tốt hơn nhiều so với 40% được bảo đảm.
+1. **Làm sao chứng minh một lời giải "không quá ρ lần tối ưu" khi ta không biết, và không tính được, giá trị tối ưu?** Bằng cách tìm một đại lượng tính được trong thời gian đa thức mà chắc chắn là cận của giá trị tối ưu, rồi chặn lời giải của thuật toán theo đại lượng đó. Chương dùng bốn loại cận.
+
+   (a) Phủ đỉnh: các cạnh A mà APPROX-VERTEX-COVER chọn đôi một không chung đỉnh, nên mọi phủ đỉnh cần ít nhất |A| đỉnh, còn thuật toán lấy đúng 2|A| đỉnh: |C| = 2|A| ≤ 2|C*|.
+
+   (b) TSP có bất đẳng thức tam giác: bỏ một cạnh của hành trình tối ưu được một cây khung, nên cây khung nhỏ nhất T có c(T) ≤ c(H*); đi vòng quanh T tốn 2c(T), bỏ các đỉnh lặp lại không làm tăng chi phí, nên c(H) ≤ 2c(T) ≤ 2c(H*).
+
+   (c) Phủ đỉnh có trọng số: giá trị tối ưu z* của quy hoạch tuyến tính nới lỏng không vượt trọng số phủ tối ưu, và làm tròn ở ngưỡng 1/2 chỉ làm trọng số tăng tối đa gấp đôi: w(C) ≤ 2z* ≤ 2w(C*).
+
+   (d) MAX-3-CNF: tối ưu không thể vượt tổng số mệnh đề m, còn phép gán ngẫu nhiên thoả kỳ vọng 7m/8 mệnh đề, nên tỷ số ≤ 8/7.
+
+   Phủ tập hợp dùng một biến thể tinh tế hơn: chia chi phí cho từng phần tử và chứng minh mỗi tập S của lời giải tối ưu "gánh" tổng chi phí ≤ H(|S|).
+2. **Có phải bài toán NP-đầy đủ nào cũng xấp xỉ được tốt như nhau không?** Không — đây là thông điệp quan trọng thứ hai của chương. Ngay trong chương đã có bốn mức khác nhau:
+
+   - (i) tổng tập con có FPTAS — với mọi ε, đạt sai số 1 + ε trong thời gian đa thức theo n, lg t và 1/ε (danh sách tỉa có độ dài < 3n ln t / ε + 2);
+   - (ii) phủ đỉnh, TSP Euclid / có bất đẳng thức tam giác, phủ đỉnh có trọng số, xếp thùng, lập lịch máy có tỷ số hằng 2 (MAX-3-CNF 8/7);
+   - (iii) phủ tập hợp chỉ có bảo đảm H(max |S|) ≤ ln |X| + 1, tăng theo cỡ đầu vào;
+   - (iv) TSP tổng quát không có thuật toán ρ-xấp xỉ đa thức với bất kỳ hằng ρ nào trừ khi P = NP.
+
+   Lý do của (iv): gán chi phí 1 cho cạnh của đồ thị gốc và ρ|V| + 1 cho cạnh không thuộc đồ thị; khi đó mọi hành trình không phải chu trình Hamilton tốn ít nhất ρ|V| + |V|, lớn hơn ρ lần chi phí |V| của chu trình Hamilton, nên một thuật toán ρ-xấp xỉ sẽ phân biệt được đồ thị có và không có chu trình Hamilton.
+3. **Đánh đổi giữa thời gian chạy và độ chính xác được thực hiện thế nào?** Bằng lược đồ xấp xỉ: thuật toán nhận thêm tham số ε và bảo đảm tỷ số 1 + ε. Với tổng tập con, ý tưởng là thuật toán chính xác (liệt kê mọi tổng con ≤ t, có thể tới 2ⁿ giá trị) được giữ nguyên nhưng sau mỗi bước, danh sách các tổng bị "tỉa": giá trị nào nằm trong hệ số 1 + δ của một giá trị nhỏ hơn đã giữ thì bỏ.
+
+   Chọn δ = ε/2n để n lần tỉa liên tiếp tích luỹ sai số (1 + ε/2n)ⁿ ≤ e^(ε/2) ≤ 1 + ε. Sau khi tỉa, hai giá trị liền kề cách nhau ít nhất hệ số 1 + ε/2n, nên trong khoảng [1, t] chỉ chứa được khoảng log_{1+ε/2n} t ≈ (2n/ε) ln t giá trị.
+
+   Ví dụ với S = ⟨104, 102, 201, 101⟩, t = 308, ε = 0,4: thuật toán trả về 302, tối ưu là 307, sai lệch 1,6% — tốt hơn nhiều so với 40% được bảo đảm.
 
 ## Khái niệm cần biết
 
@@ -1119,16 +1140,30 @@ Theo hiểu biết của người tổng hợp: kỹ thuật "làm tròn và t�
 
 - **35.1-1:** Cho ví dụ một đồ thị mà APPROX-VERTEX-COVER luôn cho lời giải không tối ưu. *Người tổng hợp:* đồ thị chỉ có một cạnh (u, v): thuật toán luôn lấy cả hai đỉnh (cỡ 2), tối ưu là 1. Tổng quát hơn, sao K₁,ₙ: cạnh nào được chọn cũng chứa tâm và một lá, thuật toán trả 2 đỉnh, tối ưu 1 (chỉ tâm). Bất kỳ đồ thị nào có phủ tối ưu nhỏ hơn 2 lần ghép cặp cực đại nhỏ nhất của nó đều được.
 - **35.1-2:** Chứng minh tập cạnh được chọn ở dòng 4 của APPROX-VERTEX-COVER là một ghép cặp cực đại theo bao hàm của G. *Người tổng hợp:* (i) là ghép cặp: khi chọn (u, v), dòng 6 xoá mọi cạnh dính u hoặc v, nên các cạnh chọn sau không chung đỉnh với (u, v). (ii) cực đại: mỗi cạnh e của G bị xoá khỏi E' tại một thời điểm, và chỉ bị xoá khi nó dính vào một đầu mút của một cạnh vừa chọn (hoặc chính nó được chọn); vậy mọi cạnh của G đều chung đỉnh với một cạnh của A (hoặc thuộc A), không thể thêm cạnh nào vào A mà vẫn là ghép cặp.
-- **35.1-3 ★:** Giáo sư Bündchen đề xuất heuristic: lặp lại chọn một đỉnh bậc cao nhất, bỏ mọi cạnh dính vào nó. Cho ví dụ chứng tỏ heuristic không có tỷ số 2. (Gợi ý: thử đồ thị hai phía, bên trái các đỉnh cùng bậc, bên phải bậc khác nhau.) *Lời giải của người tổng hợp:* bên trái L gồm n đỉnh ℓ₁, …, ℓₙ. Với mỗi i = 2, 3, …, n, thêm nhóm Rᵢ gồm ⌊n/i⌋ đỉnh bên phải; mỗi đỉnh của Rᵢ nối với i đỉnh trái khác nhau, các đỉnh trong cùng nhóm nối với các tập trái rời nhau. Mỗi đỉnh trái có bậc ≤ n − 1 (nhiều nhất một láng giềng mỗi nhóm), đỉnh của Rₙ có bậc n. L là một phủ đỉnh cỡ n (mọi cạnh nối trái với phải). Heuristic lần lượt lấy đỉnh của Rₙ, rồi Rₙ₋₁, … (sau khi xoá các nhóm bậc lớn, bậc mỗi đỉnh trái giảm theo, luôn không vượt bậc của nhóm phải kế tiếp), cuối cùng lấy hết mọi đỉnh phải: tổng Σᵢ₌₂ⁿ ⌊n/i⌋ ≈ n(ln n − 1) đỉnh — tỷ số Θ(lg n). Người tổng hợp đã mô phỏng: n = 6 cho 8 đỉnh (tỷ số 1,33), n = 12 cho 23, n = 20 cho 46 đỉnh so với tối ưu ≤ 20 (tỷ số ≥ 2,3 > 2), bất kể cách phá hoà.
+- **35.1-3 ★:** Giáo sư Bündchen đề xuất heuristic: lặp lại chọn một đỉnh bậc cao nhất, bỏ mọi cạnh dính vào nó. Cho ví dụ chứng tỏ heuristic không có tỷ số 2. (Gợi ý: thử đồ thị hai phía, bên trái các đỉnh cùng bậc, bên phải bậc khác nhau.)
+
+  *Lời giải của người tổng hợp:* bên trái L gồm n đỉnh ℓ₁, …, ℓₙ. Với mỗi i = 2, 3, …, n, thêm nhóm Rᵢ gồm ⌊n/i⌋ đỉnh bên phải; mỗi đỉnh của Rᵢ nối với i đỉnh trái khác nhau, các đỉnh trong cùng nhóm nối với các tập trái rời nhau. Mỗi đỉnh trái có bậc ≤ n − 1 (nhiều nhất một láng giềng mỗi nhóm), đỉnh của Rₙ có bậc n. L là một phủ đỉnh cỡ n (mọi cạnh nối trái với phải).
+
+  Heuristic lần lượt lấy đỉnh của Rₙ, rồi Rₙ₋₁, … (sau khi xoá các nhóm bậc lớn, bậc mỗi đỉnh trái giảm theo, luôn không vượt bậc của nhóm phải kế tiếp), cuối cùng lấy hết mọi đỉnh phải: tổng Σᵢ₌₂ⁿ ⌊n/i⌋ ≈ n(ln n − 1) đỉnh — tỷ số Θ(lg n).
+
+  Người tổng hợp đã mô phỏng: n = 6 cho 8 đỉnh (tỷ số 1,33), n = 12 cho 23, n = 20 cho 46 đỉnh so với tối ưu ≤ 20 (tỷ số ≥ 2,3 > 2), bất kể cách phá hoà.
 - **35.1-4:** Cho thuật toán tham lam hiệu quả tìm phủ đỉnh tối ưu cho cây trong thời gian tuyến tính. *Người tổng hợp:* luôn tồn tại phủ tối ưu không chứa lá nào (thay lá bằng cha của nó không làm tệ hơn). Vậy: lặp lại lấy một lá ℓ, đưa cha p của ℓ vào phủ, xoá p cùng mọi cạnh dính p (và các đỉnh cô lập). Cài đặt bằng DFS hậu thứ tự: một đỉnh được đưa vào phủ khi có ít nhất một con chưa được phủ (con không thuộc phủ). Thời gian O(V).
-- **35.1-5:** Từ chứng minh Định lý 34.12, phủ đỉnh và clique bù nhau: phủ đỉnh tối ưu là phần bù của clique lớn nhất trong đồ thị bù. Quan hệ này có kéo theo thuật toán xấp xỉ tỷ số hằng cho clique không? *Người tổng hợp:* không. Tỷ số không bảo toàn qua phép lấy phần bù. Nếu clique lớn nhất có k đỉnh thì phủ tối ưu của đồ thị bù có n − k đỉnh; phủ 2-xấp xỉ có thể có tới 2(n − k) đỉnh, phần bù của nó là clique cỡ n − 2(n − k) = 2k − n, có thể ≤ 0 khi k ≤ n/2. Ví dụ k = n/2: tối ưu n/2 nhưng ta có thể chỉ nhận được clique rỗng — không có tỷ số hằng nào. (Thực tế, theo hiểu biết của người tổng hợp, clique không xấp xỉ được trong hệ số n^(1−ε) trừ khi P = NP.)
+- **35.1-5:** Từ chứng minh Định lý 34.12, phủ đỉnh và clique bù nhau: phủ đỉnh tối ưu là phần bù của clique lớn nhất trong đồ thị bù. Quan hệ này có kéo theo thuật toán xấp xỉ tỷ số hằng cho clique không?
+
+  *Người tổng hợp:* không. Tỷ số không bảo toàn qua phép lấy phần bù. Nếu clique lớn nhất có k đỉnh thì phủ tối ưu của đồ thị bù có n − k đỉnh; phủ 2-xấp xỉ có thể có tới 2(n − k) đỉnh, phần bù của nó là clique cỡ n − 2(n − k) = 2k − n, có thể ≤ 0 khi k ≤ n/2. Ví dụ k = n/2: tối ưu n/2 nhưng ta có thể chỉ nhận được clique rỗng — không có tỷ số hằng nào. (Thực tế, theo hiểu biết của người tổng hợp, clique không xấp xỉ được trong hệ số n^(1−ε) trừ khi P = NP.)
 
 ### Bài tập Mục 35.2 (trang 1116–1117)
 
 - **35.2-1:** Cho đồ thị vô hướng đầy đủ có ít nhất 3 đỉnh với hàm chi phí thoả bất đẳng thức tam giác. Chứng minh c(u, v) ≥ 0 với mọi u, v. *Người tổng hợp:* lấy đỉnh thứ ba w. Bất đẳng thức tam giác cho c(u, w) ≤ c(u, v) + c(v, w) và c(v, w) ≤ c(v, u) + c(u, w). Cộng hai vế: c(u, w) + c(v, w) ≤ 2c(u, v) + c(u, w) + c(v, w), nên c(u, v) ≥ 0 (đồ thị vô hướng nên c(u, v) = c(v, u)). Bài chỉ có ý nghĩa khi bỏ giả định "chi phí không âm" của đầu mục (xem mục Lưu ý cuối chương).
-- **35.2-2:** Chỉ cách biến đổi trong đa thức một thể hiện TSP thành thể hiện có hàm chi phí thoả bất đẳng thức tam giác, hai thể hiện có cùng tập hành trình tối ưu. Giải thích vì sao điều này không mâu thuẫn Định lý 35.3 (giả sử P ≠ NP). *Người tổng hợp:* đặt M = max c(u, v), c'(u, v) = c(u, v) + M. Mọi hành trình có đúng |V| cạnh nên chi phí mới bằng chi phí cũ cộng |V|M — cùng thứ tự, cùng tập tối ưu. Bất đẳng thức tam giác: c'(u, w) ≤ 2M ≤ c'(u, v) + c'(v, w) vì mỗi c' ≥ M. Không mâu thuẫn vì phép cộng hằng chỉ bảo toàn chênh lệch, không bảo toàn TỶ SỐ: một hành trình 2-xấp xỉ cho c' (chi phí ≤ 2(OPT + |V|M)) có thể có chi phí gốc ≤ 2·OPT + |V|M, tệ hơn tối ưu gốc nhiều lần tuỳ ý.
-- **35.2-3:** Heuristic điểm gần nhất (closest-point heuristic): bắt đầu với chu trình tầm thường một đỉnh; mỗi bước tìm đỉnh u chưa thuộc chu trình mà khoảng cách tới chu trình nhỏ nhất, gọi v là đỉnh trên chu trình gần u nhất, chèn u ngay sau v; lặp tới khi mọi đỉnh thuộc chu trình. Chứng minh hành trình không quá 2 lần tối ưu (khi có bất đẳng thức tam giác). *Người tổng hợp:* các cặp (v, u) được chọn đúng là các cạnh mà thuật toán Prim thêm vào, nên tổng các c(v, u) bằng trọng số một cây khung nhỏ nhất c(T). Chèn u giữa v và v' (đỉnh sau v) thay cạnh (v, v') bằng (v, u), (u, v'): chi phí tăng c(v, u) + c(u, v') − c(v, v') ≤ 2c(v, u) theo bất đẳng thức tam giác (c(u, v') ≤ c(u, v) + c(v, v')). Cộng lại: hành trình ≤ 2c(T) ≤ 2c(H*).
-- **35.2-4:** Bài TSP nút cổ chai (bottleneck TSP): tìm chu trình Hamilton làm cực tiểu chi phí cạnh đắt nhất. Với bất đẳng thức tam giác, chứng minh có thuật toán đa thức tỷ số 3. (Gợi ý: chứng minh đệ quy rằng có thể thăm mọi nút của một cây khung nút cổ chai (Problem 23-3) đúng một lần bằng đường đi đầy đủ có bỏ nút, nhưng không bỏ quá hai nút trung gian liên tiếp; chứng minh cạnh đắt nhất của cây khung nút cổ chai không đắt hơn cạnh đắt nhất của chu trình Hamilton nút cổ chai.) *Người tổng hợp:* gọi B là trọng số cạnh lớn nhất trong cây khung nút cổ chai (cây khung nhỏ nhất là một cây như vậy). Bỏ một cạnh của chu trình tối ưu được cây khung, nên B ≤ cạnh lớn nhất của tối ưu. Theo gợi ý (phép "lập phương" của cây: mọi cây có chu trình Hamilton trong T³), mỗi cạnh của hành trình thay cho một đường đi ≤ 3 cạnh của cây, nên theo bất đẳng thức tam giác có giá ≤ 3B ≤ 3 · tối ưu.
+- **35.2-2:** Chỉ cách biến đổi trong đa thức một thể hiện TSP thành thể hiện có hàm chi phí thoả bất đẳng thức tam giác, hai thể hiện có cùng tập hành trình tối ưu. Giải thích vì sao điều này không mâu thuẫn Định lý 35.3 (giả sử P ≠ NP).
+
+  *Người tổng hợp:* đặt M = max c(u, v), c'(u, v) = c(u, v) + M. Mọi hành trình có đúng |V| cạnh nên chi phí mới bằng chi phí cũ cộng |V|M — cùng thứ tự, cùng tập tối ưu. Bất đẳng thức tam giác: c'(u, w) ≤ 2M ≤ c'(u, v) + c'(v, w) vì mỗi c' ≥ M. Không mâu thuẫn vì phép cộng hằng chỉ bảo toàn chênh lệch, không bảo toàn TỶ SỐ: một hành trình 2-xấp xỉ cho c' (chi phí ≤ 2(OPT + |V|M)) có thể có chi phí gốc ≤ 2·OPT + |V|M, tệ hơn tối ưu gốc nhiều lần tuỳ ý.
+- **35.2-3:** Heuristic điểm gần nhất (closest-point heuristic): bắt đầu với chu trình tầm thường một đỉnh; mỗi bước tìm đỉnh u chưa thuộc chu trình mà khoảng cách tới chu trình nhỏ nhất, gọi v là đỉnh trên chu trình gần u nhất, chèn u ngay sau v; lặp tới khi mọi đỉnh thuộc chu trình. Chứng minh hành trình không quá 2 lần tối ưu (khi có bất đẳng thức tam giác).
+
+  *Người tổng hợp:* các cặp (v, u) được chọn đúng là các cạnh mà thuật toán Prim thêm vào, nên tổng các c(v, u) bằng trọng số một cây khung nhỏ nhất c(T). Chèn u giữa v và v' (đỉnh sau v) thay cạnh (v, v') bằng (v, u), (u, v'): chi phí tăng c(v, u) + c(u, v') − c(v, v') ≤ 2c(v, u) theo bất đẳng thức tam giác (c(u, v') ≤ c(u, v) + c(v, v')). Cộng lại: hành trình ≤ 2c(T) ≤ 2c(H*).
+- **35.2-4:** Bài TSP nút cổ chai (bottleneck TSP): tìm chu trình Hamilton làm cực tiểu chi phí cạnh đắt nhất. Với bất đẳng thức tam giác, chứng minh có thuật toán đa thức tỷ số 3. (Gợi ý: chứng minh đệ quy rằng có thể thăm mọi nút của một cây khung nút cổ chai (Problem 23-3) đúng một lần bằng đường đi đầy đủ có bỏ nút, nhưng không bỏ quá hai nút trung gian liên tiếp; chứng minh cạnh đắt nhất của cây khung nút cổ chai không đắt hơn cạnh đắt nhất của chu trình Hamilton nút cổ chai.)
+
+  *Người tổng hợp:* gọi B là trọng số cạnh lớn nhất trong cây khung nút cổ chai (cây khung nhỏ nhất là một cây như vậy). Bỏ một cạnh của chu trình tối ưu được cây khung, nên B ≤ cạnh lớn nhất của tối ưu. Theo gợi ý (phép "lập phương" của cây: mọi cây có chu trình Hamilton trong T³), mỗi cạnh của hành trình thay cho một đường đi ≤ 3 cạnh của cây, nên theo bất đẳng thức tam giác có giá ≤ 3B ≤ 3 · tối ưu.
 - **35.2-5:** Các đỉnh là điểm trên mặt phẳng, chi phí là khoảng cách Euclid. Chứng minh hành trình tối ưu không bao giờ tự cắt. *Người tổng hợp:* nếu hai cạnh (a, b) và (c, d) của hành trình cắt nhau tại điểm p, thay chúng bằng (a, c) và (b, d) (đảo đoạn giữa — phép 2-opt) vẫn là một hành trình; theo bất đẳng thức tam giác |ac| ≤ |ap| + |pc| và |bd| ≤ |bp| + |pd|, tổng ≤ |ab| + |cd|, và bất đẳng thức chặt khi các điểm không thẳng hàng. Vậy hành trình tự cắt không thể tối ưu (trường hợp suy biến thẳng hàng xử lý riêng).
 
 ### Bài tập Mục 35.3 (trang 1122)
@@ -1156,7 +1191,11 @@ Theo hiểu biết của người tổng hợp: kỹ thuật "làm tròn và t�
 - **35.5-1:** Chứng minh (35.23); rồi chứng minh sau dòng 5 của EXACT-SUBSET-SUM, Lᵢ là danh sách đã sắp xếp chứa mọi phần tử của Pᵢ không vượt t. *Người tổng hợp:* tập con của {x₁, …, xᵢ} hoặc không chứa xᵢ (tổng thuộc Pᵢ₋₁) hoặc chứa xᵢ (tổng thuộc Pᵢ₋₁ + xᵢ), và ngược lại, nên (35.23) đúng. Quy nạp: L₀ = ⟨0⟩ = P₀. Giả sử Lᵢ₋₁ = {y ∈ Pᵢ₋₁ : y ≤ t} đã sắp xếp. Một y ∈ Pᵢ có y ≤ t: nếu y ∈ Pᵢ₋₁ thì y ∈ Lᵢ₋₁; nếu y = y' + xᵢ với y' ∈ Pᵢ₋₁ thì y' ≤ y ≤ t nên y' ∈ Lᵢ₋₁ và y ∈ Lᵢ₋₁ + xᵢ. MERGE-LISTS giữ thứ tự và mọi phần tử, dòng 5 bỏ các giá trị > t; không có giá trị nào ngoài Pᵢ được thêm.
 - **35.5-2:** Chứng minh (35.26) bằng quy nạp theo i. *Người tổng hợp:* đặt δ = ε/2n. i = 0: P₀ = L₀ = {0}. Bước quy nạp: lấy y ∈ Pᵢ, y ≤ t. Trường hợp y ∈ Pᵢ₋₁: theo giả thiết có z' ∈ Lᵢ₋₁ với y/(1+δ)ⁱ⁻¹ ≤ z' ≤ y. Trường hợp y = y' + xᵢ: có z'' ∈ Lᵢ₋₁ với y'/(1+δ)ⁱ⁻¹ ≤ z'' ≤ y', đặt z' = z'' + xᵢ ∈ Lᵢ₋₁ + xᵢ; khi đó z' ≤ y và z' ≥ y'/(1+δ)ⁱ⁻¹ + xᵢ ≥ (y' + xᵢ)/(1+δ)ⁱ⁻¹ = y/(1+δ)ⁱ⁻¹. Trong cả hai trường hợp z' có mặt trong danh sách trộn ở dòng 4. Sau TRIM, z' hoặc còn, hoặc có z với z'/(1+δ) ≤ z ≤ z'. Vậy y/(1+δ)ⁱ ≤ z ≤ y ≤ t, nên z không bị dòng 6 bỏ.
 - **35.5-3:** Chứng minh (35.29). *Người tổng hợp:* đặt a = ε/2 > 0, f(n) = n ln(1 + a/n). f'(n) = ln(1 + a/n) − (a/n)/(1 + a/n). Với x = a/n > 0, ln(1 + x) > x/(1 + x) (bất đẳng thức (3.17) chặt khi x ≠ 0), nên f'(n) > 0, và (1 + a/n)ⁿ = e^(f(n)) có đạo hàm e^(f(n)) f'(n) > 0.
-- **35.5-4:** Sửa lược đồ thế nào để xấp xỉ tốt giá trị nhỏ nhất KHÔNG NHỎ HƠN t là tổng của một tập con? *Người tổng hợp:* tỉa "từ trên xuống": duyệt danh sách tăng dần nhưng giữ đại diện lớn hơn — mỗi giá trị bị bỏ y có đại diện z với y ≤ z ≤ (1 + δ)y (quét từ phần tử lớn nhất xuống). Không bỏ các giá trị > t ở mỗi bước (chúng có thể là lời giải), nhưng có thể bỏ mọi giá trị lớn hơn giá trị nhỏ nhất đã ≥ t hiện có. Cuối cùng trả về giá trị nhỏ nhất ≥ t trong Lₙ. Phân tích đối xứng cho tỷ số (1 + ε/2n)ⁿ ≤ 1 + ε, và độ dài danh sách ≤ log_{1+δ}(Σxᵢ) + 2, vẫn đa thức. (Cách khác: dùng phần bù — tổng nhỏ nhất ≥ t bằng Σxᵢ trừ tổng lớn nhất ≤ Σxᵢ − t — nhưng phép trừ không bảo toàn tỷ số, nên cách trực tiếp tốt hơn.)
+- **35.5-4:** Sửa lược đồ thế nào để xấp xỉ tốt giá trị nhỏ nhất KHÔNG NHỎ HƠN t là tổng của một tập con?
+
+  *Người tổng hợp:* tỉa "từ trên xuống": duyệt danh sách tăng dần nhưng giữ đại diện lớn hơn — mỗi giá trị bị bỏ y có đại diện z với y ≤ z ≤ (1 + δ)y (quét từ phần tử lớn nhất xuống). Không bỏ các giá trị > t ở mỗi bước (chúng có thể là lời giải), nhưng có thể bỏ mọi giá trị lớn hơn giá trị nhỏ nhất đã ≥ t hiện có. Cuối cùng trả về giá trị nhỏ nhất ≥ t trong Lₙ.
+
+  Phân tích đối xứng cho tỷ số (1 + ε/2n)ⁿ ≤ 1 + ε, và độ dài danh sách ≤ log_{1+δ}(Σxᵢ) + 2, vẫn đa thức. (Cách khác: dùng phần bù — tổng nhỏ nhất ≥ t bằng Σxᵢ trừ tổng lớn nhất ≤ Σxᵢ − t — nhưng phép trừ không bảo toàn tỷ số, nên cách trực tiếp tốt hơn.)
 - **35.5-5:** Sửa APPROX-SUBSET-SUM để trả về cả tập con có tổng z*. *Người tổng hợp:* mỗi phần tử của Lᵢ lưu thêm con trỏ tới phần tử của Lᵢ₋₁ sinh ra nó và một bit "có cộng xᵢ hay không". Khi trộn, phần tử từ Lᵢ₋₁ có bit 0, phần tử từ Lᵢ₋₁ + xᵢ có bit 1; TRIM và dòng 6 chỉ xoá phần tử, không đổi con trỏ của phần tử còn lại. Cuối cùng lần ngược từ z* trong Lₙ về L₀, thu các xᵢ có bit 1. Thêm O(n) thời gian và bộ nhớ O(tổng độ dài các danh sách).
 
 ### Problem 35-1: Xếp thùng (Bin packing)
@@ -1456,7 +1495,7 @@ Phủ tập hợp tham lam là thuật toán tiêu chuẩn trong tối ưu bộ 
 
 ## Bản đồ tư duy
 
-Toàn cảnh Chương 35 trên một trang: 6 nhánh lớn theo phần mở đầu và năm mục của bản gốc (Mục 35.1–35.5), mỗi nhánh ghi thuật toán, cận của giá trị tối ưu được dùng, định lý và tỷ số xấp xỉ, kèm ví dụ số của sách, thêm một nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Chương 35 trên một trang: 7 nhánh lớn gồm phần mở đầu và năm mục của bản gốc (Mục 35.1–35.5), mỗi nhánh ghi thuật toán, cận của giá trị tối ưu được dùng, định lý và tỷ số xấp xỉ, kèm ví dụ số của sách; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -1469,131 +1508,143 @@ flowchart LR
   n0 --- n1
   n2["`Ba cách đi vòng NP-đầy đủ: đầu vào nhỏ, trường hợp riêng giải được, hoặc lời giải gần tối ưu`"]
   n1 --- n2
-  n3["`Tỷ số xấp xỉ ρ(n): max(C/C tối ưu, C tối ưu/C) ≤ ρ(n) với mọi đầu vào cỡ n (35.1)`"]
+  n3["`Tỷ số xấp xỉ ρ(n): max(C/C#42;, C#42;/C) ≤ ρ(n) với mọi đầu vào cỡ n (35.1)`"]
   n1 --- n3
-  n4["`Luôn ρ ≥ 1, thuật toán 1-xấp xỉ cho đúng lời giải tối ưu`"]
+  n4["`Luôn ρ ≥ 1 vì C/C#42; ≤ 1 kéo theo C#42;/C ≥ 1, thuật toán 1-xấp xỉ cho lời giải tối ưu`"]
   n1 --- n4
-  n5["`Lược đồ xấp xỉ nhận thêm tham số ε dương và là thuật toán (1 + ε)-xấp xỉ`"]
+  n5["`Lược đồ xấp xỉ nhận thêm ε #gt; 0 và với mỗi ε cố định là thuật toán (1 + ε)-xấp xỉ`"]
   n1 --- n5
-  n6["`PTAS đa thức theo n khi ε cố định, có thể tới O(n^(2/ε))`"]
+  n6["`PTAS đa thức theo n khi ε cố định, có thể là O(n^(2/ε)), với ε = 0,1 là O(n²⁰)`"]
   n1 --- n6
-  n7["`FPTAS đa thức theo cả n và 1/ε, ví dụ O((1/ε)² n³)`"]
+  n7["`FPTAS đa thức theo cả n và 1/ε, ví dụ O((1/ε)² n³): giảm ε 10 lần chỉ tăng thời gian 100 lần`"]
   n1 --- n7
   n8["`Mục 35.1 — Phủ đỉnh: APPROX-VERTEX-COVER là 2-xấp xỉ`"]
   n0 --- n8
-  n9["`Phủ đỉnh là tập đỉnh chạm mọi cạnh, tìm phủ nhỏ nhất là NP-khó`"]
+  n9["`Phủ đỉnh là tập V' ⊆ V chạm mọi cạnh, tìm phủ nhỏ nhất là NP-khó (Mục 34.5.2)`"]
   n8 --- n9
-  n10["`Thuật toán lấy cạnh bất kỳ, thêm cả hai đầu mút, xoá mọi cạnh dính vào chúng`"]
+  n10["`Thuật toán lấy cạnh (u, v) bất kỳ, thêm cả u và v vào C, xoá mọi cạnh dính u hoặc v`"]
   n8 --- n10
   n11["`Chạy O(V + E) với danh sách kề`"]
   n8 --- n11
-  n12["`Định lý 35.1: các cạnh được chọn tạo ghép cặp cực đại theo bao hàm A`"]
+  n12["`Định lý 35.1: APPROX-VERTEX-COVER là thuật toán 2-xấp xỉ thời gian đa thức`"]
   n8 --- n12
-  n13["`Mọi phủ đỉnh cần ít nhất một đầu mút mỗi cạnh của A nên phủ tối ưu ≥ |A|`"]
+  n13["`A = các cạnh chọn ở dòng 4, không hai cạnh nào chung đầu mút`"]
   n12 --- n13
-  n14["`Thuật toán lấy đúng 2|A| đỉnh nên |C| = 2|A| ≤ 2 lần phủ tối ưu`"]
+  n14["`Mọi phủ đỉnh, kể cả tối ưu C#42;, chứa một đầu mút mỗi cạnh của A: |C#42;| ≥ |A| (35.2)`"]
   n12 --- n14
-  n15["`Ví dụ đồ thị 7 đỉnh 8 cạnh: thuật toán cho 6 đỉnh, tối ưu {b, d, e} có 3 đỉnh, tỷ số đúng 2`"]
-  n8 --- n15
-  n16["`Bài học: không cần biết tối ưu, chỉ cần một cận dưới của nó`"]
+  n15["`Mỗi cạnh chọn thêm đúng 2 đỉnh mới: |C| = 2|A| (35.3), nên |C| ≤ 2|C#42;|`"]
+  n12 --- n15
+  n16["`Không cần biết |C#42;|, chỉ cần cận dưới: A là ghép cặp cực đại theo bao hàm (Exercise 35.1-2)`"]
   n8 --- n16
-  n17["`Mục 35.2 — TSP: xấp xỉ được khi có bất đẳng thức tam giác, không xấp xỉ được nếu thiếu`"]
-  n0 --- n17
-  n18["`Bất đẳng thức tam giác c(u, w) ≤ c(u, v) + c(v, w), TSP vẫn NP-đầy đủ dù có điều kiện này`"]
-  n17 --- n18
-  n19["`Mục 35.2.1 — APPROX-TSP-TOUR dựng cây khung nhỏ nhất bằng MST-PRIM rồi đi theo thứ tự trước, chạy Θ(V²)`"]
-  n17 --- n19
-  n20["`Bỏ một cạnh của hành trình tối ưu được cây khung nên cây khung nhỏ nhất ≤ tối ưu (35.4)`"]
-  n19 --- n20
-  n21["`Đường đi đầy đủ qua mỗi cạnh cây hai lần, chi phí 2c(T) (35.5)`"]
-  n19 --- n21
-  n22["`Đi tắt bỏ đỉnh lặp không tăng chi phí nhờ bất đẳng thức tam giác (35.7)`"]
-  n19 --- n22
-  n23["`Định lý 35.2: hành trình trả về không quá 2 lần tối ưu`"]
-  n19 --- n23
-  n24["`Ví dụ 8 điểm lưới: hành trình ≈ 19,074 so với tối ưu ≈ 14,715`"]
-  n19 --- n24
-  n25["`Mục 35.2.2 — Định lý 35.3: nếu P ≠ NP, TSP tổng quát không có ρ-xấp xỉ đa thức với mọi hằng ρ ≥ 1`"]
-  n17 --- n25
-  n26["`Cạnh thuộc G chi phí 1, cạnh không thuộc G chi phí ρ|V| + 1`"]
-  n25 --- n26
-  n27["`Có chu trình Hamilton thì tối ưu là |V|, không có thì mọi hành trình ≥ ρ|V| + |V|`"]
-  n25 --- n27
-  n28["`Kỹ thuật tạo khoảng cách: thể hiện “có” cho giá trị ≤ k, thể hiện “không” cho giá trị lớn hơn ρk`"]
-  n25 --- n28
-  n29["`Mục 35.3 — Phủ tập hợp: tham lam đạt tỷ số lôgarit`"]
-  n0 --- n29
-  n30["`Cho X và họ F các tập con, tìm ít tập nhất có hợp bằng X, tổng quát hoá phủ đỉnh nên NP-khó`"]
-  n29 --- n30
-  n31["`GREEDY-SET-COVER mỗi bước chọn tập phủ nhiều phần tử chưa phủ nhất`"]
-  n29 --- n31
-  n32["`Định lý 35.4: tỷ số H(max |S|), với H(d) = 1 + 1/2 + … + 1/d là số điều hoà`"]
-  n29 --- n32
-  n33["`Chi phí 1 của mỗi tập được chia đều cho các phần tử nó phủ lần đầu`"]
-  n32 --- n33
-  n34["`Bất đẳng thức then chốt (35.12): tổng chi phí phần tử của một tập S ≤ H(|S|)`"]
-  n32 --- n34
-  n35["`Hệ quả 35.5: tỷ số ln |X| + 1`"]
-  n29 --- n35
-  n36["`Ví dụ 12 điểm, 6 tập: tối ưu 3 tập, tham lam chọn 4 tập`"]
-  n29 --- n36
-  n37["`Khi tập nhỏ, như phủ đỉnh đồ thị bậc ≤ 3, tỷ số chỉ còn H(3) = 11/6`"]
-  n29 --- n37
-  n38["`Mục 35.4 — Ngẫu nhiên hoá và quy hoạch tuyến tính`"]
-  n0 --- n38
-  n39["`Thuật toán ngẫu nhiên ρ-xấp xỉ đo tỷ số trên chi phí kỳ vọng (35.13)`"]
-  n38 --- n39
-  n40["`MAX-3-CNF: gán mỗi biến 1 với xác suất 1/2, độc lập`"]
-  n38 --- n40
-  n41["`Mỗi mệnh đề 3 literal sai với xác suất 1/8, đúng với xác suất 7/8`"]
-  n40 --- n41
-  n42["`Tuyến tính của kỳ vọng cho trung bình 7m/8 mệnh đề đúng, mà tối ưu ≤ m`"]
-  n40 --- n42
-  n43["`Định lý 35.6: thuật toán ngẫu nhiên 8/7-xấp xỉ`"]
-  n40 --- n43
-  n44["`Phủ đỉnh có trọng số: thuật toán không trọng số có thể tệ tuỳ ý`"]
-  n38 --- n44
-  n45["`Viết thành quy hoạch nguyên 0-1, nới lỏng thành 0 ≤ x(v) ≤ 1 để giải trong đa thức`"]
-  n44 --- n45
-  n46["`Giá trị quy hoạch nới lỏng là cận dưới của trọng số phủ tối ưu (35.21)`"]
-  n44 --- n46
-  n47["`APPROX-MIN-WEIGHT-VC lấy mọi đỉnh có giá trị nghiệm ≥ 1/2, mỗi cạnh vẫn được phủ`"]
-  n44 --- n47
-  n48["`Định lý 35.7: trọng số phủ ≤ 2 lần giá trị nới lỏng ≤ 2 lần tối ưu`"]
-  n44 --- n48
-  n49["`Mục 35.5 — Tổng tập con: FPTAS bằng cách tỉa danh sách`"]
-  n0 --- n49
-  n50["`Bài tối ưu: tìm tổng tập con lớn nhất không vượt t, ví dụ chất hàng lên xe tải`"]
-  n49 --- n50
-  n51["`EXACT-SUBSET-SUM trộn Lᵢ₋₁ với Lᵢ₋₁ + xᵢ bằng MERGE-LISTS, danh sách có thể dài 2ⁱ nên thời gian mũ`"]
-  n49 --- n51
-  n52["`TRIM bỏ y nếu còn z giữ lại với y/(1 + δ) ≤ z ≤ y, chạy Θ(m)`"]
-  n49 --- n52
-  n53["`APPROX-SUBSET-SUM tỉa mỗi danh sách với δ = ε/2n trước khi bỏ phần tử vượt t`"]
-  n49 --- n53
-  n54["`Định lý 35.8: APPROX-SUBSET-SUM là FPTAS`"]
-  n49 --- n54
-  n55["`Sai số tích luỹ (1 + ε/2n)ⁿ ≤ e^(ε/2) ≤ 1 + ε`"]
-  n54 --- n55
-  n56["`Hai phần tử liền kề cách nhau hệ số lớn hơn 1 + ε/2n nên mỗi danh sách ít hơn 3n ln t/ε + 2 phần tử`"]
-  n54 --- n56
-  n57["`Ví dụ ⟨104, 102, 201, 101⟩, t = 308, ε = 0,4: trả 302, tối ưu 307, sai lệch ≈ 1,6%`"]
-  n49 --- n57
-  n58["`Thông điệp xuyên suốt`"]
-  n0 --- n58
-  n59["`Mọi chứng minh tỷ số đều so lời giải với một cận tính được: ghép cặp, cây khung, quy hoạch nới lỏng, số mệnh đề m`"]
-  n58 --- n59
-  n60["`Khả năng xấp xỉ khác xa nhau: FPTAS, hằng số 2 hoặc 8/7, lôgarit, đến không xấp xỉ được`"]
-  n58 --- n60
-  n61["`Một điều kiện như bất đẳng thức tam giác quyết định bài toán xấp xỉ được hay không`"]
-  n58 --- n61
-  n62["`Problems 35-1, 35-4, 35-5, 35-7 dùng cùng công thức cận dưới để có 2-xấp xỉ cho xếp thùng, ghép cặp, lập lịch, cái túi 0-1`"]
-  n58 --- n62
-  n63["`Bảo đảm xấu nhất thường bi quan: TSP ví dụ đạt 1,30 thay vì 2, tổng tập con 1,6% thay vì 40%`"]
-  n58 --- n63
+  n17["`Ví dụ đồ thị 7 đỉnh 8 cạnh: chọn (b, c), (e, f), (d, g) được 6 đỉnh, tối ưu {b, d, e}, tỷ số đúng 2`"]
+  n8 --- n17
+  n18["`Mục 35.2 — TSP: xấp xỉ được khi có bất đẳng thức tam giác, không xấp xỉ được nếu thiếu`"]
+  n0 --- n18
+  n19["`Bất đẳng thức tam giác c(u, w) ≤ c(u, v) + c(v, w), TSP vẫn NP-đầy đủ dù có điều kiện này`"]
+  n18 --- n19
+  n20["`Mục 35.2.1 — APPROX-TSP-TOUR dựng cây khung nhỏ nhất T bằng MST-PRIM rồi đi theo thứ tự trước, chạy Θ(V²)`"]
+  n18 --- n20
+  n21["`Bỏ một cạnh của hành trình tối ưu H#42; được cây khung nên c(T) ≤ c(H#42;) (35.4)`"]
+  n20 --- n21
+  n22["`Đường đi đầy đủ W qua mỗi cạnh của T hai lần: c(W) = 2c(T) ≤ 2c(H#42;) (35.5)–(35.6)`"]
+  n20 --- n22
+  n23["`Bỏ các lần thăm lặp không tăng chi phí nhờ bất đẳng thức tam giác: c(H) ≤ c(W) (35.7)`"]
+  n20 --- n23
+  n24["`Định lý 35.2: c(H) ≤ 2c(H#42;), thuật toán 2-xấp xỉ`"]
+  n20 --- n24
+  n25["`Ví dụ 8 điểm lưới: c(T) ≈ 11,892, hành trình H ≈ 19,074, tối ưu ≈ 14,715, tỷ số ≈ 1,30`"]
+  n20 --- n25
+  n26["`Mục 35.2.2 — Định lý 35.3: nếu P ≠ NP, TSP tổng quát không có ρ-xấp xỉ đa thức với mọi hằng ρ ≥ 1`"]
+  n18 --- n26
+  n27["`Từ G của bài chu trình Hamilton dựng đồ thị đầy đủ G': cạnh thuộc G chi phí 1, cạnh khác ρ|V| + 1`"]
+  n26 --- n27
+  n28["`G có chu trình Hamilton thì tối ưu là |V|, không có thì mọi hành trình ≥ ρ|V| + |V| #gt; ρ|V|`"]
+  n26 --- n28
+  n29["`So kết quả của thuật toán ρ-xấp xỉ với ρ|V| là giải được chu trình Hamilton, kéo theo P = NP`"]
+  n26 --- n29
+  n30["`Kỹ thuật tạo khoảng cách: thể hiện “có” cho giá trị ≤ k, thể hiện “không” cho giá trị #gt; ρk`"]
+  n26 --- n30
+  n31["`Mục 35.3 — Phủ tập hợp: tham lam đạt tỷ số lôgarit`"]
+  n0 --- n31
+  n32["`Cho X và họ F các tập con, tìm ít tập nhất có hợp bằng X (35.8), tổng quát hoá phủ đỉnh nên NP-khó`"]
+  n31 --- n32
+  n33["`GREEDY-SET-COVER mỗi bước chọn tập phủ nhiều phần tử chưa phủ nhất, cài đặt đơn giản O(|X| |F| min(|X|, |F|))`"]
+  n31 --- n33
+  n34["`Định lý 35.4: tỷ số H(max |S|), với H(d) = 1 + 1/2 + … + 1/d là số điều hoà`"]
+  n31 --- n34
+  n35["`Chi phí 1 của mỗi tập chia đều cho các phần tử nó phủ lần đầu: |C| = Σ c#95;x (35.9)`"]
+  n34 --- n35
+  n36["`Mỗi phần tử thuộc một tập của C#42; nên |C| ≤ tổng theo S ∈ C#42; của Σ c#95;x trên S (35.11)`"]
+  n34 --- n36
+  n37["`Bất đẳng thức then chốt (35.12): Σ c#95;x trên S ≤ H(|S|), chứng minh bằng tổng co rút`"]
+  n34 --- n37
+  n38["`Hệ quả 35.5: tỷ số ln |X| + 1, vì H(d) ≤ ln d + 1`"]
+  n31 --- n38
+  n39["`Ví dụ 12 điểm, 6 tập: tối ưu {S₃, S₄, S₅}, tham lam chọn S₁, S₄, S₅ rồi S₃ hoặc S₆`"]
+  n31 --- n39
+  n40["`Phủ đỉnh đồ thị bậc ≤ 3 bằng tham lam: tỷ số H(3) = 11/6 #lt; 2`"]
+  n31 --- n40
+  n41["`Mục 35.4 — Ngẫu nhiên hoá và quy hoạch tuyến tính`"]
+  n0 --- n41
+  n42["`Thuật toán ngẫu nhiên ρ(n)-xấp xỉ: chi phí kỳ vọng C thoả max(C/C#42;, C#42;/C) ≤ ρ(n) (35.13)`"]
+  n41 --- n42
+  n43["`MAX-3-CNF: gán mỗi biến bằng 1 với xác suất 1/2, độc lập`"]
+  n41 --- n43
+  n44["`Mệnh đề 3 literal khác nhau sai với xác suất (1/2)³ = 1/8, nên E[Yᵢ] = 7/8`"]
+  n43 --- n44
+  n45["`Tính tuyến tính của kỳ vọng cho E[Y] = 7m/8, mà tối ưu ≤ m`"]
+  n43 --- n45
+  n46["`Định lý 35.6: thuật toán ngẫu nhiên 8/7-xấp xỉ`"]
+  n43 --- n46
+  n47["`Phủ đỉnh trọng số nhỏ nhất: thuật toán không trọng số có thể tệ tuỳ ý, vd w(u) = 1, w(v) = 1000`"]
+  n41 --- n47
+  n48["`Quy hoạch nguyên 0-1 (35.14)–(35.16) nới lỏng thành 0 ≤ x(v) ≤ 1 (35.17)–(35.20), giải được trong đa thức`"]
+  n47 --- n48
+  n49["`Giá trị tối ưu z#42; của quy hoạch nới lỏng là cận dưới: z#42; ≤ w(C#42;) (35.21)`"]
+  n47 --- n49
+  n50["`APPROX-MIN-WEIGHT-VC lấy mọi v có x̄(v) ≥ 1/2, mỗi cạnh có một đầu ≥ 1/2 nên được phủ`"]
+  n47 --- n50
+  n51["`Định lý 35.7: z#42; ≥ w(C)/2 (35.22), nên w(C) ≤ 2z#42; ≤ 2w(C#42;)`"]
+  n47 --- n51
+  n52["`Ví dụ tam giác trọng số 1: z#42; = 1,5, làm tròn lấy cả ba đỉnh, w(C) = 3 = 2z#42;`"]
+  n47 --- n52
+  n53["`Mục 35.5 — Tổng tập con: FPTAS bằng cách tỉa danh sách`"]
+  n0 --- n53
+  n54["`Bài tối ưu: tìm tổng tập con lớn nhất không vượt t, ví dụ chất hàng lên xe tải`"]
+  n53 --- n54
+  n55["`EXACT-SUBSET-SUM: Lᵢ = MERGE-LISTS(Lᵢ₋₁, Lᵢ₋₁ + xᵢ) bỏ phần tử #gt; t, |Lᵢ| có thể tới 2ⁱ nên thời gian mũ`"]
+  n53 --- n55
+  n56["`TRIM bỏ y nếu còn z giữ lại với y/(1 + δ) ≤ z ≤ y (35.24), chạy Θ(m)`"]
+  n53 --- n56
+  n57["`Ví dụ δ = 0,1: ⟨10, 11, 12, 15, 20, 21, 22, 23, 24, 29⟩ tỉa còn ⟨10, 12, 15, 20, 23, 29⟩`"]
+  n53 --- n57
+  n58["`APPROX-SUBSET-SUM tỉa mỗi Lᵢ với δ = ε/2n trước khi bỏ phần tử #gt; t, trả z#42; = max Lₙ`"]
+  n53 --- n58
+  n59["`Định lý 35.8: APPROX-SUBSET-SUM là FPTAS`"]
+  n53 --- n59
+  n60["`Mỗi y ∈ Pᵢ, y ≤ t có z ∈ Lᵢ với y/(1 + ε/2n)ⁱ ≤ z ≤ y (35.26)`"]
+  n59 --- n60
+  n61["`Sai số tích luỹ y#42;/z#42; ≤ (1 + ε/2n)ⁿ ≤ e^(ε/2) ≤ 1 + ε`"]
+  n59 --- n61
+  n62["`Phần tử liền kề cách nhau hệ số #gt; 1 + ε/2n nên |Lᵢ| #lt; 3n ln t/ε + 2, đa thức theo n, lg t, 1/ε`"]
+  n59 --- n62
+  n63["`Ví dụ ⟨104, 102, 201, 101⟩, t = 308, ε = 0,4: trả z#42; = 302, tối ưu 307, sai lệch ≈ 1,6%`"]
+  n53 --- n63
+  n64["`Thông điệp xuyên suốt`"]
+  n0 --- n64
+  n65["`Mọi chứng minh tỷ số đều so lời giải với một cận tính được: ghép cặp, cây khung, z#42; của quy hoạch nới lỏng, số mệnh đề m`"]
+  n64 --- n65
+  n66["`Khả năng xấp xỉ khác xa nhau: FPTAS, hằng số 2 hoặc 8/7, lôgarit, đến không xấp xỉ được`"]
+  n64 --- n66
+  n67["`Bỏ bất đẳng thức tam giác biến TSP từ 2-xấp xỉ thành không xấp xỉ được với mọi hằng ρ`"]
+  n64 --- n67
+  n68["`Problems 35-1, 35-4, 35-5, 35-7 dùng cận dưới ⌈S⌉, ghép cặp, max p#95;k và Σp#95;k/m, nghiệm phân số để có 2-xấp xỉ`"]
+  n64 --- n68
+  n69["`Bảo đảm xấu nhất thường bi quan: TSP ví dụ đạt 1,30 thay vì 2, tổng tập con 1,6% thay vì 40%`"]
+  n64 --- n69
   class n0 root
-  class n1,n8,n17,n29,n38,n49,n58 branch
-  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61,n62,n63 leaf
+  class n1,n8,n18,n31,n41,n53,n64 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n52,n54,n55,n56,n57,n58,n59,n60,n61,n62,n63,n65,n66,n67,n68,n69 leaf
 ```
 
 ## Nguồn

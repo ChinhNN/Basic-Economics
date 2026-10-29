@@ -170,9 +170,17 @@ Bài toán A-1 yêu cầu cận chặt cho Σ kʳ, Σ lgˢ k và Σ kʳ lgˢ k.
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Những tổng nào hay gặp khi phân tích thuật toán, và giá trị đóng của chúng là gì?** Chuỗi số học Σₖ₌₁ⁿ k = n(n + 1)/2 = Θ(n²) — xuất hiện khi lần lặp thứ k tốn thời gian tỷ lệ với k (sắp xếp chèn, quicksort xấu nhất); với n = 100 là 5.050. Tổng bình phương n(n + 1)(2n + 1)/6 và lập phương n²(n + 1)²/4. Chuỗi hình học Σₖ₌₀ⁿ xᵏ = (x^(n+1) − 1)/(x − 1), và khi |x| < 1 thì chuỗi vô hạn bằng 1/(1 − x) — ví dụ 1 + 1/2 + 1/4 + … = 2; đây là lý do một cây đệ quy mà chi phí các tầng giảm theo cấp số nhân có tổng chi phí chỉ bằng hằng số lần chi phí tầng gốc. Số điều hoà Hₙ = Σ 1/k = ln n + O(1) — ví dụ H₄ = 25/12 ≈ 2,083. Lấy đạo hàm chuỗi hình học được Σ k xᵏ = x/(1 − x)², với x = 1/2 ra Σ k/2ᵏ = 2 (dùng cho BUILD-MAX-HEAP). Tổng lồng nhau Σ (aₖ − aₖ₋₁) = aₙ − a₀ (dùng cho phương pháp thế năng). Tích đổi thành tổng bằng logarit.
+1. **Những tổng nào hay gặp khi phân tích thuật toán, và giá trị đóng của chúng là gì?** Chuỗi số học Σₖ₌₁ⁿ k = n(n + 1)/2 = Θ(n²) — xuất hiện khi lần lặp thứ k tốn thời gian tỷ lệ với k (sắp xếp chèn, quicksort xấu nhất); với n = 100 là 5.050. Tổng bình phương n(n + 1)(2n + 1)/6 và lập phương n²(n + 1)²/4.
+
+   Chuỗi hình học Σₖ₌₀ⁿ xᵏ = (x^(n+1) − 1)/(x − 1), và khi |x| < 1 thì chuỗi vô hạn bằng 1/(1 − x) — ví dụ 1 + 1/2 + 1/4 + … = 2; đây là lý do một cây đệ quy mà chi phí các tầng giảm theo cấp số nhân có tổng chi phí chỉ bằng hằng số lần chi phí tầng gốc.
+
+   Số điều hoà Hₙ = Σ 1/k = ln n + O(1) — ví dụ H₄ = 25/12 ≈ 2,083. Lấy đạo hàm chuỗi hình học được Σ k xᵏ = x/(1 − x)², với x = 1/2 ra Σ k/2ᵏ = 2 (dùng cho BUILD-MAX-HEAP). Tổng lồng nhau Σ (aₖ − aₖ₋₁) = aₙ − a₀ (dùng cho phương pháp thế năng). Tích đổi thành tổng bằng logarit.
 2. **Khi không tính được chính xác một tổng, làm sao chặn nó?** Bốn cách chính. Quy nạp: đoán cận rồi chứng minh, nhưng phải giữ nguyên **một** hằng số cụ thể qua mọi bước (viết "O(n) + (n + 1) = O(n + 1)" là sai). Chặn từng số hạng: n lần số hạng lớn nhất, hoặc một chuỗi hình học khi tỷ số hai số hạng liên tiếp không vượt một hằng số r < 1 (Σ k/3ᵏ ≤ 1). Tách tổng: bỏ nửa đầu để chặn dưới (Σ k ≥ (n/2)²), bỏ hằng số số hạng đầu, hoặc chia thành các khúc theo lũy thừa của 2 (Hₙ ≤ lg n + 1). Tích phân: với f đơn điệu, tổng bị kẹp giữa hai tích phân lệch nhau một đơn vị.
-3. **Những lỗi nào hay gặp khi chặn tổng?** Hai lỗi được sách chỉ ra. Thứ nhất, dùng ký hiệu O trong bước quy nạp: "giả sử Σₖ₌₁ⁿ k = O(n), thì Σₖ₌₁ⁿ⁺¹ k = O(n) + (n + 1) = O(n + 1)" — sai, vì hằng số ẩn tăng sau mỗi bước (thực tế Σ k = Θ(n²)). Thứ hai, thấy tỷ số hai số hạng liên tiếp nhỏ hơn 1 rồi kết luận tổng bị chặn bởi chuỗi hình học: chuỗi điều hoà có tỷ số k/(k + 1) < 1 nhưng tổng Hₙ = Θ(lg n) tăng không giới hạn, vì tỷ số tiến sát 1 và không có hằng số r < 1 nào chặn được nó. Lỗi thứ ba được ngầm nhắc trong Bài tập A.2-5: áp dụng xấp xỉ tích phân (A.12) trực tiếp cho Σₖ₌₁ⁿ 1/k sẽ ra cận trên ∫₀ⁿ dx/x, một tích phân phân kỳ, nên phải tách số hạng k = 1 ra trước.
+3. **Những lỗi nào hay gặp khi chặn tổng?** Hai lỗi được sách chỉ ra. Thứ nhất, dùng ký hiệu O trong bước quy nạp: "giả sử Σₖ₌₁ⁿ k = O(n), thì Σₖ₌₁ⁿ⁺¹ k = O(n) + (n + 1) = O(n + 1)" — sai, vì hằng số ẩn tăng sau mỗi bước (thực tế Σ k = Θ(n²)).
+
+   Thứ hai, thấy tỷ số hai số hạng liên tiếp nhỏ hơn 1 rồi kết luận tổng bị chặn bởi chuỗi hình học: chuỗi điều hoà có tỷ số k/(k + 1) < 1 nhưng tổng Hₙ = Θ(lg n) tăng không giới hạn, vì tỷ số tiến sát 1 và không có hằng số r < 1 nào chặn được nó.
+
+   Lỗi thứ ba được ngầm nhắc trong Bài tập A.2-5: áp dụng xấp xỉ tích phân (A.12) trực tiếp cho Σₖ₌₁ⁿ 1/k sẽ ra cận trên ∫₀ⁿ dx/x, một tích phân phân kỳ, nên phải tách số hạng k = 1 ra trước.
 
 ## Khái niệm cần biết
 
@@ -942,7 +950,7 @@ Trong thực tế kỹ thuật, ít ai tính tổng chính xác; người ta dù
 
 ## Bản đồ tư duy
 
-Toàn cảnh Phụ lục A trên một trang: 6 nhánh lớn theo trình tự của bản gốc (lời giới thiệu Phần VIII, Mục A.1, Mục A.2, Bài toán A-1), mỗi nhánh ghi công thức, kỹ thuật, ví dụ và con số then chốt, thêm một nhánh cuối là thông điệp xuyên suốt.
+Toàn cảnh Phụ lục A trên một trang: 7 nhánh lớn – sáu nhánh đầu theo trình tự của bản gốc (lời giới thiệu Phần VIII và phần mở đầu Phụ lục A, hai nhánh cho Mục A.1, hai nhánh cho bốn nhóm kỹ thuật chặn tổng của Mục A.2, Bài toán A-1), mỗi nhánh ghi công thức, kỹ thuật, ví dụ và con số then chốt; nhánh cuối là thông điệp xuyên suốt.
 
 ```mermaid
 %%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
@@ -950,7 +958,7 @@ flowchart LR
   classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
   classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
   classDef leaf fill:#eef3fa,stroke:#333,color:#000
-  n0["`Phụ lục A: thời gian chạy của vòng lặp là một tổng – cần thuộc công thức tổng đóng và biết kỹ thuật chặn tổng`"]
+  n0["`Phụ lục A: thời gian chạy của vòng lặp là một tổng – cần thuộc công thức tổng đóng và biết bốn nhóm kỹ thuật chặn tổng`"]
   n1["`Phần VIII và mở đầu Phụ lục A — vì sao cần tính tổng`"]
   n0 --- n1
   n2["`Bốn phụ lục A–D gom công cụ toán còn lại, nên dùng như tài liệu tra cứu`"]
@@ -971,7 +979,7 @@ flowchart LR
   n8 --- n9
   n10["`Chuỗi vô hạn là giới hạn các tổng riêng: tồn tại thì hội tụ, không thì phân kỳ`"]
   n8 --- n10
-  n11["`Chỉ chuỗi hội tụ tuyệt đối (Σ của trị tuyệt đối hội tụ) mới được đổi thứ tự số hạng`"]
+  n11["`Chỉ chuỗi hội tụ tuyệt đối (Σ|aₖ| hội tụ) mới được tự do đổi thứ tự số hạng`"]
   n8 --- n11
   n12["`Tuyến tính: Σ (c·aₖ + bₖ) = c·Σ aₖ + Σ bₖ, đúng cả với chuỗi vô hạn hội tụ`"]
   n8 --- n12
@@ -983,91 +991,101 @@ flowchart LR
   n0 --- n15
   n16["`Chuỗi số học Σₖ₌₁ⁿ k = n(n + 1)/2 = Θ(n²) (A.1)–(A.2)`"]
   n15 --- n16
-  n17["`Tổng bình phương n(n + 1)(2n + 1)/6 (A.3), tổng lập phương n²(n + 1)²/4 (A.4)`"]
-  n15 --- n17
-  n18["`Chuỗi hình học Σₖ₌₀ⁿ xᵏ = (x^(n+1) − 1)/(x − 1) với x ≠ 1 (A.5)`"]
+  n17["`Bài tập A.1-1: tổng n số lẻ đầu tiên Σ (2k − 1) = n²`"]
+  n16 --- n17
+  n18["`Tổng bình phương n(n + 1)(2n + 1)/6 (A.3), tổng lập phương n²(n + 1)²/4 (A.4)`"]
   n15 --- n18
-  n19["`Khi trị tuyệt đối của x nhỏ hơn 1, chuỗi vô hạn Σ xᵏ = 1/(1 − x) (A.6)`"]
-  n18 --- n19
-  n20["`Số điều hoà Hₙ = Σₖ₌₁ⁿ 1/k = ln n + O(1) (A.7)`"]
-  n15 --- n20
-  n21["`Đạo hàm (A.6) rồi nhân x được Σ k xᵏ = x/(1 − x)² (A.8)`"]
+  n19["`Chuỗi hình học Σₖ₌₀ⁿ xᵏ = (x^(n+1) − 1)/(x − 1) với x ≠ 1 (A.5)`"]
+  n15 --- n19
+  n20["`Khi |x| #lt; 1, chuỗi hình học giảm vô hạn Σₖ₌₀^∞ xᵏ = 1/(1 − x) (A.6)`"]
+  n19 --- n20
+  n21["`Số điều hoà Hₙ = Σₖ₌₁ⁿ 1/k = ln n + O(1) (A.7)`"]
   n15 --- n21
-  n22["`Với x = 1/2 ra Σ k/2ᵏ = 2, dùng cho BUILD-MAX-HEAP chạy tuyến tính`"]
-  n21 --- n22
-  n23["`Tổng lồng nhau Σₖ₌₁ⁿ (aₖ − aₖ₋₁) = aₙ − a₀ (A.9)`"]
-  n15 --- n23
-  n24["`Ví dụ 1/(k(k + 1)) = 1/k − 1/(k + 1) nên Σₖ₌₁ⁿ⁻¹ 1/(k(k + 1)) = 1 − 1/n`"]
-  n23 --- n24
-  n25["`Mục A.2 — Chặn tổng bằng quy nạp và chặn từng số hạng`"]
-  n0 --- n25
-  n26["`Quy nạp chứng minh giá trị chính xác, ví dụ Σ k = n(n + 1)/2`"]
+  n22["`Đạo hàm (A.6) rồi nhân x được Σ k xᵏ = x/(1 − x)², |x| #lt; 1 (A.8)`"]
+  n15 --- n22
+  n23["`Với x = 1/2 ra Σ k/2ᵏ = 2, dùng cho BUILD-MAX-HEAP chạy tuyến tính`"]
+  n22 --- n23
+  n24["`Bài tập A.1-3: đạo hàm tiếp (A.8) được Σ k²xᵏ = x(1 + x)/(1 − x)³`"]
+  n22 --- n24
+  n25["`Tổng lồng nhau Σₖ₌₁ⁿ (aₖ − aₖ₋₁) = aₙ − a₀ (A.9)`"]
+  n15 --- n25
+  n26["`Ví dụ 1/(k(k + 1)) = 1/k − 1/(k + 1) nên Σₖ₌₁ⁿ⁻¹ 1/(k(k + 1)) = 1 − 1/n`"]
   n25 --- n26
-  n27["`Quy nạp chứng minh cận không cần biết giá trị: Σₖ₌₀ⁿ 3ᵏ ≤ c·3ⁿ khi c ≥ 3/2`"]
-  n25 --- n27
-  n28["`Cảnh báo: “chứng minh” sai Σ k = O(n) bằng O(n) + (n + 1) = O(n + 1)`"]
-  n25 --- n28
-  n29["`Lỗi: hằng số ẩn trong O tăng theo n, phải dùng cùng một hằng số cho mọi n`"]
-  n28 --- n29
-  n30["`Chặn bằng số hạng lớn nhất: Σ aₖ ≤ n nhân số hạng lớn nhất, ví dụ Σ k ≤ n²`"]
-  n25 --- n30
-  n31["`Chặn bằng chuỗi hình học: nếu aₖ₊₁/aₖ ≤ r với r hằng số nhỏ hơn 1 thì Σ aₖ ≤ a₀/(1 − r)`"]
-  n25 --- n31
-  n32["`Ví dụ Σ k/3ᵏ: a₀ = 1/3, r = 2/3 nên tổng ≤ 1 (giá trị thật 3/4)`"]
+  n27["`Mục A.2, nhóm (1)–(2) — Quy nạp toán học và chặn từng số hạng`"]
+  n0 --- n27
+  n28["`Quy nạp chứng minh giá trị chính xác, ví dụ Σ k = n(n + 1)/2`"]
+  n27 --- n28
+  n29["`Quy nạp chứng minh cận không cần biết giá trị: Σₖ₌₀ⁿ 3ᵏ ≤ c·3ⁿ`"]
+  n27 --- n29
+  n30["`Bước quy nạp cần (1/3 + 1/c) ≤ 1, tức c ≥ 3/2`"]
+  n29 --- n30
+  n31["`Cảnh báo: #quot;chứng minh#quot; sai Σ k = O(n) bằng O(n) + (n + 1) = O(n + 1)`"]
+  n27 --- n31
+  n32["`Lỗi: hằng số ẩn trong O tăng theo n, phải dùng cùng một hằng số cho mọi n`"]
   n31 --- n32
-  n33["`Cảnh báo: chuỗi điều hoà có tỷ số k/(k + 1) nhỏ hơn 1 nhưng vẫn phân kỳ`"]
-  n25 --- n33
-  n34["`Tỷ số tiến sát 1 tuỳ ý nên không có hằng số r nhỏ hơn 1 nào chặn được`"]
-  n33 --- n34
-  n35["`Mục A.2 — Tách tổng và xấp xỉ bằng tích phân`"]
-  n0 --- n35
-  n36["`Tách tổng để chặn dưới: bỏ nửa đầu, nửa sau mỗi số hạng ≥ n/2`"]
-  n35 --- n36
-  n37["`Σₖ₌₁ⁿ k ≥ (n/2)² = Ω(n²), cùng cận trên n² cho cận chặt Θ(n²)`"]
+  n33["`Chặn bằng số hạng lớn nhất: Σₖ₌₁ⁿ aₖ ≤ n·a#95;max, ví dụ Σ k ≤ n²`"]
+  n27 --- n33
+  n34["`Chặn bằng chuỗi hình học: aₖ₊₁/aₖ ≤ r với r #lt; 1 hằng số thì Σₖ₌₀ⁿ aₖ ≤ a₀/(1 − r)`"]
+  n27 --- n34
+  n35["`Ví dụ Σₖ₌₁^∞ k/3ᵏ: a₀ = 1/3, r = 2/3 nên tổng ≤ 1 (giá trị thật 3/4)`"]
+  n34 --- n35
+  n36["`Cảnh báo: chuỗi điều hoà có tỷ số k/(k + 1) #lt; 1 nhưng vẫn phân kỳ`"]
+  n27 --- n36
+  n37["`Tỷ số tiến sát 1 tuỳ ý nên không có r #lt; 1 cố định nào chặn được`"]
   n36 --- n37
-  n38["`Bỏ hằng số số hạng đầu không phụ thuộc n: chúng góp Θ(1)`"]
-  n35 --- n38
-  n39["`Σ k²/2ᵏ: từ k = 3 tỷ số ≤ 8/9, nên tổng = O(1)`"]
-  n38 --- n39
-  n40["`Chia dải 1..n thành ⌊lg n⌋ + 1 khúc theo lũy thừa của 2, mỗi khúc góp ≤ 1`"]
-  n35 --- n40
-  n41["`Kết quả Hₙ ≤ lg n + 1 (A.10), chỉ cần phép đếm`"]
+  n38["`Bài tập A.2-1: Σₖ₌₁ⁿ 1/k² bị chặn bởi hằng số (nhỏ hơn 2)`"]
+  n27 --- n38
+  n39["`Mục A.2, nhóm (3)–(4) — Tách tổng và xấp xỉ bằng tích phân`"]
+  n0 --- n39
+  n40["`Tách tổng để chặn dưới: bỏ nửa đầu, nửa sau mỗi số hạng ≥ n/2`"]
+  n39 --- n40
+  n41["`Σₖ₌₁ⁿ k ≥ (n/2)² = Ω(n²), cùng cận trên n² cho cận chặt Θ(n²)`"]
   n40 --- n41
-  n42["`f tăng đơn điệu: tích phân từ m − 1 tới n ≤ Σₖ₌ₘⁿ f(k) ≤ tích phân từ m tới n + 1 (A.11)`"]
-  n35 --- n42
-  n43["`Lý do: hình chữ nhật rộng 1 cao f(k) đặt trên đoạn k − 1 tới k cho cận dưới, đặt trên k tới k + 1 cho cận trên`"]
+  n42["`Bỏ hằng số số hạng đầu không phụ thuộc n: Σₖ₌₀ⁿ aₖ = Θ(1) + Σₖ₌ₖ₀ⁿ aₖ`"]
+  n39 --- n42
+  n43["`Σₖ₌₀^∞ k²/2ᵏ: từ k = 3 tỷ số ≤ 8/9, nên tổng = O(1)`"]
   n42 --- n43
-  n44["`f giảm đơn điệu thì đảo hai cận tích phân (A.12)`"]
-  n35 --- n44
-  n45["`Áp dụng cho số điều hoà: ln(n + 1) ≤ Hₙ ≤ ln n + 1 (A.13), (A.14)`"]
-  n35 --- n45
-  n46["`Cận trên phải tách số hạng k = 1, vì tích phân 1/x từ 0 phân kỳ (Bài tập A.2-5)`"]
-  n45 --- n46
-  n47["`Bài toán A-1 — Cận chặt cho ba họ tổng, r ≥ 0 và s ≥ 0 hằng số`"]
-  n0 --- n47
-  n48["`Σₖ₌₁ⁿ kʳ = Θ(n^(r+1))`"]
+  n44["`Chia dải 1..n thành ⌊lg n⌋ + 1 khúc theo lũy thừa của 2, mỗi khúc góp ≤ 1`"]
+  n39 --- n44
+  n45["`Kết quả Hₙ ≤ lg n + 1 (A.10), chỉ cần phép đếm`"]
+  n44 --- n45
+  n46["`Bài tập A.2-3: chia khúc theo chiều ngược lại được Hₙ = Ω(lg n)`"]
+  n44 --- n46
+  n47["`f tăng: ∫#95;{m−1}^{n} f(x)dx ≤ Σₖ₌ₘⁿ f(k) ≤ ∫#95;{m}^{n+1} f(x)dx (A.11)`"]
+  n39 --- n47
+  n48["`Hình chữ nhật cao f(k) đặt trên [k−1, k] cho cận dưới, trên [k, k+1] cho cận trên`"]
   n47 --- n48
-  n49["`Σₖ₌₁ⁿ lgˢ k = Θ(n lgˢ n), với s = 1 là lg(n!) = Θ(n lg n)`"]
-  n47 --- n49
-  n50["`Σₖ₌₁ⁿ kʳ lgˢ k = Θ(n^(r+1) lgˢ n)`"]
-  n47 --- n50
-  n51["`Cùng một khuôn: chặn trên bằng số hạng lớn nhất, chặn dưới bằng nửa sau của tổng`"]
-  n47 --- n51
-  n52["`Thông điệp xuyên suốt`"]
+  n49["`f giảm đơn điệu thì đảo hai cận tích phân (A.12)`"]
+  n39 --- n49
+  n50["`Áp dụng cho số điều hoà: ln(n + 1) ≤ Hₙ ≤ ln n + 1 (A.13), (A.14)`"]
+  n39 --- n50
+  n51["`Cận trên phải tách số hạng k = 1, vì ∫₀ⁿ dx/x phân kỳ (Bài tập A.2-5)`"]
+  n50 --- n51
+  n52["`Bài toán A-1 — Cận chặt cho ba họ tổng, r ≥ 0 và s ≥ 0 hằng số`"]
   n0 --- n52
-  n53["`Vòng lặp lồng có vòng trong chạy theo biến vòng ngoài là Θ(n²), hằng số 1/2 không đổi bậc`"]
+  n53["`Σₖ₌₁ⁿ kʳ = Θ(n^(r+1))`"]
   n52 --- n53
-  n54["`Chi phí giảm theo cấp số nhân cho tổng bằng hằng số lần số hạng đầu, tăng thì bằng hằng số lần số hạng cuối`"]
+  n54["`Σₖ₌₁ⁿ lgˢ k = Θ(n lgˢ n), với s = 1 là Σ lg k = lg(n!) = Θ(n lg n)`"]
   n52 --- n54
-  n55["`Tỷ số nhỏ hơn 1 chưa đủ, phải bị chặn bởi hằng số r nhỏ hơn 1`"]
+  n55["`Σₖ₌₁ⁿ kʳ lgˢ k = Θ(n^(r+1) lgˢ n)`"]
   n52 --- n55
-  n56["`Quy nạp với cận tiệm cận phải viết hằng số tường minh, không để O nuốt hằng số mới`"]
+  n56["`Cùng một khuôn: chặn trên bằng số hạng lớn nhất, chặn dưới bằng nửa sau của tổng`"]
   n52 --- n56
-  n57["`Ghép cận trên và cận dưới cùng bậc để có Θ – mục tiêu của mọi phép chặn tổng`"]
-  n52 --- n57
+  n57["`Thông điệp xuyên suốt`"]
+  n0 --- n57
+  n58["`Vòng lặp lồng có vòng trong chạy theo biến vòng ngoài là Θ(n²), hằng số 1/2 không đổi bậc`"]
+  n57 --- n58
+  n59["`Chi phí giảm theo cấp số nhân cho tổng bằng hằng số lần bước đầu, tăng thì bằng hằng số lần bước cuối`"]
+  n57 --- n59
+  n60["`Tỷ số nhỏ hơn 1 chưa đủ, phải bị chặn bởi một hằng số r #lt; 1`"]
+  n57 --- n60
+  n61["`Quy nạp với cận tiệm cận phải viết hằng số tường minh, không để O nuốt hằng số mới`"]
+  n57 --- n61
+  n62["`Ghép cận trên và cận dưới cùng bậc để có Θ – mục tiêu của mọi phép chặn tổng`"]
+  n57 --- n62
   class n0 root
-  class n1,n8,n15,n25,n35,n47,n52 branch
-  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n53,n54,n55,n56,n57 leaf
+  class n1,n8,n15,n27,n39,n52,n57 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n53,n54,n55,n56,n58,n59,n60,n61,n62 leaf
 ```
 
 ## Nguồn
@@ -1082,7 +1100,14 @@ Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (ba ngư�
 
 Phần I đã dựng hai công cụ toán chính của việc phân tích thuật toán: ký hiệu tiệm cận Θ, O, Ω ở Chương 3 ([C03-tang-truong-cua-ham.md](C03-tang-truong-cua-ham.md)) và cách giải truy hồi ở Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)). Phần VIII (bốn phụ lục A–D) gom các công cụ toán còn lại thành tài liệu tra cứu.
 
-Phụ lục A là phụ lục đầu tiên và được dùng nhiều nhất, vì hễ thuật toán có vòng lặp **while** hay **for** thì thời gian chạy là một tổng. Các chương dùng trực tiếp công thức của phụ lục này: Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)) cần chuỗi số học (A.1) để ra thời gian xấu nhất Θ(n²) của sắp xếp chèn; Chương 4 cần chuỗi hình học (A.5), (A.6) để cộng chi phí các tầng của cây đệ quy; Chương 6 ([C06-heapsort.md](C06-heapsort.md)) cần công thức đạo hàm (A.8) Σ k xᵏ = x/(1 − x)² để chứng minh BUILD-MAX-HEAP chạy tuyến tính; Chương 7 ([C07-quicksort.md](C07-quicksort.md)) cần chuỗi điều hoà (A.7) để chặn số phép so sánh kỳ vọng của quicksort ngẫu nhiên; Chương 11 ([C11-bang-bam.md](C11-bang-bam.md)) cần (A.1) và bất đẳng thức tích phân (A.12) cho phân tích địa chỉ mở; Chương 17 ([C17-phan-tich-khau-hao.md](C17-phan-tich-khau-hao.md)) cần chuỗi hình học (A.6) và tổng lồng nhau (A.9) cho phân tích khấu hao.
+Phụ lục A là phụ lục đầu tiên và được dùng nhiều nhất, vì hễ thuật toán có vòng lặp **while** hay **for** thì thời gian chạy là một tổng. Các chương dùng trực tiếp công thức của phụ lục này:
+
+- Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)) cần chuỗi số học (A.1) để ra thời gian xấu nhất Θ(n²) của sắp xếp chèn.
+- Chương 4 cần chuỗi hình học (A.5), (A.6) để cộng chi phí các tầng của cây đệ quy.
+- Chương 6 ([C06-heapsort.md](C06-heapsort.md)) cần công thức đạo hàm (A.8) Σ k xᵏ = x/(1 − x)² để chứng minh BUILD-MAX-HEAP chạy tuyến tính.
+- Chương 7 ([C07-quicksort.md](C07-quicksort.md)) cần chuỗi điều hoà (A.7) để chặn số phép so sánh kỳ vọng của quicksort ngẫu nhiên.
+- Chương 11 ([C11-bang-bam.md](C11-bang-bam.md)) cần (A.1) và bất đẳng thức tích phân (A.12) cho phân tích địa chỉ mở.
+- Chương 17 ([C17-phan-tich-khau-hao.md](C17-phan-tich-khau-hao.md)) cần chuỗi hình học (A.6) và tổng lồng nhau (A.9) cho phân tích khấu hao.
 
 Ba phụ lục còn lại của Phần VIII là Phụ lục B ([PB-tap-hop-va-cau-truc-roi-rac.md](PB-tap-hop-va-cau-truc-roi-rac.md): tập hợp, quan hệ, hàm, đồ thị, cây), Phụ lục C ([PC-dem-va-xac-suat.md](PC-dem-va-xac-suat.md): đếm và xác suất) và Phụ lục D ([PD-ma-tran.md](PD-ma-tran.md): ma trận).
 
@@ -1090,7 +1115,9 @@ Ba phụ lục còn lại của Phần VIII là Phụ lục B ([PB-tap-hop-va-ca
 
 - **Không có mục có dấu sao (★) trong phụ lục này.** Bốn bài tập có dấu sao, đều ở Mục A.1: A.1-2 (Σ 1/(2k − 1) = ln(√n) + O(1)), A.1-4 (Σ (k − 1)/2ᵏ = 0), A.1-5 (tính Σ (2k + 1)x²ᵏ) và A.1-8 (tính tích Πₖ₌₂ⁿ (1 − 1/k²)). Không bài tập nào của Mục A.2 có dấu sao; Bài toán A-1 cũng không có.
 - **Số trang Phần VIII:** trang 1140 là trang cuối Ghi chú Chương 35, trang 1141 trống. Trang tên "VIII Appendix: Mathematical Background" là trang 1142 (không in số), lời giới thiệu Phần VIII chiếm trang 1143 và vài dòng đầu trang 1144 (đoạn về Phụ lục D). Phụ lục A bắt đầu ở trang 1145, kết thúc ở trang 1157 (Bài toán A-1 ý c và Ghi chú phụ lục); trang 1158 đã là Phụ lục B. Đã kiểm tra trên ảnh trang.
-- **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của phụ lục:** dấu trừ bị trích thành `/NUL` (ví dụ `xnC1/NUL 1x/NUL 1` là (x^(n+1) − 1)/(x − 1)), dấu bằng thành `D` (`kD1` là k = 1), dấu cộng thành `C`, Θ thành `‚`, ≠ thành `¤`, ∞ thành `1` trong `1X` (là Σ đến ∞), mũi tên giới hạn `n!1` là n → ∞; chỉ số trên/dưới của mọi Σ, Π, ∫ bị tách thành dòng riêng; mất hoàn toàn các dấu ≤, ≥, ⌊ ⌋, ⌈ ⌉ trong các chuỗi bất đẳng thức của Mục A.2. Mọi công thức (A.1)–(A.14), mọi chuỗi bất đẳng thức, toàn bộ bài tập và Bài toán A-1 trong bản tổng hợp này được chép lại từ ảnh trang 1145–1157. Hình A.1 (trang 1155) chỉ có trên ảnh; người tổng hợp đọc hình và mô tả lại bằng chữ và sơ đồ text.
+- **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của phụ lục:** dấu trừ bị trích thành `/NUL` (ví dụ `xnC1/NUL 1x/NUL 1` là (x^(n+1) − 1)/(x − 1)), dấu bằng thành `D` (`kD1` là k = 1), dấu cộng thành `C`, Θ thành `‚`, ≠ thành `¤`, ∞ thành `1` trong `1X` (là Σ đến ∞), mũi tên giới hạn `n!1` là n → ∞; chỉ số trên/dưới của mọi Σ, Π, ∫ bị tách thành dòng riêng; mất hoàn toàn các dấu ≤, ≥, ⌊ ⌋, ⌈ ⌉ trong các chuỗi bất đẳng thức của Mục A.2.
+
+  Mọi công thức (A.1)–(A.14), mọi chuỗi bất đẳng thức, toàn bộ bài tập và Bài toán A-1 trong bản tổng hợp này được chép lại từ ảnh trang 1145–1157. Hình A.1 (trang 1155) chỉ có trên ảnh; người tổng hợp đọc hình và mô tả lại bằng chữ và sơ đồ text.
 - **Chỗ ký hiệu chưa chặt (nhận xét của người tổng hợp):**
   - Bài tập A.1-6 viết Σₖ₌₁ⁿ O(fₖ(i)) = O(Σₖ₌₁ⁿ fₖ(i)): biến tiệm cận ở đây là i (không phải n), và đẳng thức chỉ đúng khi các hằng số ẩn trong n ký hiệu O bị chặn chung (cùng một hằng c và cùng một ngưỡng i₀ cho mọi k). Nếu mỗi số hạng có hằng số riêng thì với n cố định vẫn đúng (lấy c lớn nhất), nhưng nếu n cũng tăng thì không còn đúng. Câu tương tự ở Mục A.1 — Σ Θ(f(k)) = Θ(Σ f(k)), "Θ ở vế trái áp dụng cho biến k, ở vế phải cho n" — ngầm hiểu Θ(f(k)) là **một** hàm ẩn duy nhất g(k) với c₁f(k) ≤ g(k) ≤ c₂f(k) cho mọi k đủ lớn.
   - Câu ở trang 1153–1154 mô tả khúc thứ i của chuỗi điều hoà là các số hạng "bắt đầu từ 1/2ⁱ và đi lên tới, nhưng không gồm, 1/2^(i+1)". Các số hạng trong khúc thực ra **giảm** dần từ 1/2ⁱ xuống gần 1/2^(i+1); "đi lên" chỉ đúng nếu hiểu là chỉ số tăng.

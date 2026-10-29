@@ -257,9 +257,15 @@ Mục 33.4 giải bài toán cặp điểm gần nhất bằng chia để trị:
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Làm sao trả lời các câu hỏi hình học cơ bản về đoạn thẳng một cách nhanh và chính xác, không cần tính góc hay phép chia?** Bằng dấu của tích có hướng p₁ × p₂ = x₁y₂ − x₂y₁. Với gốc chung p₀, (p₁ − p₀) × (p₂ − p₀) > 0 nghĩa là đoạn p₀p₁ nằm theo chiều kim đồng hồ so với p₀p₂. Đi từ p₀ tới p₁ rồi tới p₂ thì rẽ trái khi (p₂ − p₀) × (p₁ − p₀) < 0, rẽ phải khi > 0, thẳng hàng khi = 0. Ví dụ p₀ = (0, 0), p₁ = (2, 0), p₂ = (3, 2): (3, 2) × (2, 0) = 3·0 − 2·2 = −4 < 0 nên rẽ trái. Hai đoạn cắt nhau khi và chỉ khi mỗi đoạn vắt qua đường chứa đoạn kia (các cặp d₁, d₂ và d₃, d₄ trái dấu) hoặc một đầu mút nằm trên đoạn kia (một dₖ = 0 và điểm nằm trong hình chữ nhật bao của đoạn kia). Mọi phép tính chỉ gồm cộng, trừ, nhân, nên với toạ độ nguyên kết quả là chính xác tuyệt đối.
-2. **Có thể kiểm tra n đoạn thẳng có cặp nào cắt nhau nhanh hơn Θ(n²) không, và vì sao chỉ cần so các đoạn liền kề?** Có, O(n lg n), bằng kỹ thuật quét: đường quét thẳng đứng đi qua 2n đầu mút theo thứ tự trái sang phải, trạng thái đường quét là tiền thứ tự toàn phần "nằm trên tại x" lưu trong cây đỏ-đen. Chỉ cần kiểm tra đoạn vừa chèn với hai đoạn kề nó, và khi xoá một đoạn thì kiểm tra hai đoạn kề nó với nhau. Lý do: xét giao điểm trái nhất p của hai đoạn a, b; ngay trước p, a và b phải liền kề trong thứ tự (không ba đoạn nào cắt nhau tại một điểm), và chúng trở nên liền kề tại đúng một sự kiện — chèn một trong hai, hoặc xoá đoạn nằm giữa — mà ở đó thuật toán đã kiểm tra cặp (a, b). Mỗi sự kiện tốn O(lg n), tổng O(n lg n).
-3. **Làm sao tính bao lồi và cặp điểm gần nhất của n điểm trong O(n lg n)?** Bao lồi: quét Graham chọn điểm thấp nhất p₀, sắp các điểm còn lại theo góc cực quanh p₀ (so góc bằng tích có hướng), rồi đẩy lần lượt vào ngăn xếp, bật ra mọi điểm làm "không rẽ trái"; mỗi điểm vào ngăn xếp một lần, ra nhiều nhất một lần, nên ngoài bước sắp xếp chỉ tốn O(n). Hành quân Jarvis "gói quà" tốn O(nh), tốt hơn khi bao lồi có ít đỉnh. Ví dụ 9 điểm A(2,0), B(5,1), C(3,2), D(6,4), E(3,4), F(4,6), G(0,3), H(1,1), I(2,2) có bao lồi A, B, D, F, G, H (h = 6). Cặp gần nhất: chia đôi theo hoành độ, đệ quy, gọi δ là khoảng cách tốt nhất hai bên; chỉ xét các điểm trong dải rộng 2δ, theo thứ tự tung độ, mỗi điểm so với tối đa 7 điểm kế tiếp (một hình chữ nhật δ × 2δ chứa không quá 8 điểm). Sắp xếp trước một lần và tách mảng đã sắp trong thời gian tuyến tính cho T(n) = 2T(n/2) + O(n) = O(n lg n).
+1. **Làm sao trả lời các câu hỏi hình học cơ bản về đoạn thẳng một cách nhanh và chính xác, không cần tính góc hay phép chia?** Bằng dấu của tích có hướng p₁ × p₂ = x₁y₂ − x₂y₁. Với gốc chung p₀, (p₁ − p₀) × (p₂ − p₀) > 0 nghĩa là đoạn p₀p₁ nằm theo chiều kim đồng hồ so với p₀p₂. Đi từ p₀ tới p₁ rồi tới p₂ thì rẽ trái khi (p₂ − p₀) × (p₁ − p₀) < 0, rẽ phải khi > 0, thẳng hàng khi = 0. Ví dụ p₀ = (0, 0), p₁ = (2, 0), p₂ = (3, 2): (3, 2) × (2, 0) = 3·0 − 2·2 = −4 < 0 nên rẽ trái.
+
+   Hai đoạn cắt nhau khi và chỉ khi mỗi đoạn vắt qua đường chứa đoạn kia (các cặp d₁, d₂ và d₃, d₄ trái dấu) hoặc một đầu mút nằm trên đoạn kia (một dₖ = 0 và điểm nằm trong hình chữ nhật bao của đoạn kia). Mọi phép tính chỉ gồm cộng, trừ, nhân, nên với toạ độ nguyên kết quả là chính xác tuyệt đối.
+2. **Có thể kiểm tra n đoạn thẳng có cặp nào cắt nhau nhanh hơn Θ(n²) không, và vì sao chỉ cần so các đoạn liền kề?** Có, O(n lg n), bằng kỹ thuật quét: đường quét thẳng đứng đi qua 2n đầu mút theo thứ tự trái sang phải, trạng thái đường quét là tiền thứ tự toàn phần "nằm trên tại x" lưu trong cây đỏ-đen.
+
+   Chỉ cần kiểm tra đoạn vừa chèn với hai đoạn kề nó, và khi xoá một đoạn thì kiểm tra hai đoạn kề nó với nhau. Lý do: xét giao điểm trái nhất p của hai đoạn a, b; ngay trước p, a và b phải liền kề trong thứ tự (không ba đoạn nào cắt nhau tại một điểm), và chúng trở nên liền kề tại đúng một sự kiện — chèn một trong hai, hoặc xoá đoạn nằm giữa — mà ở đó thuật toán đã kiểm tra cặp (a, b). Mỗi sự kiện tốn O(lg n), tổng O(n lg n).
+3. **Làm sao tính bao lồi và cặp điểm gần nhất của n điểm trong O(n lg n)?** Bao lồi: quét Graham chọn điểm thấp nhất p₀, sắp các điểm còn lại theo góc cực quanh p₀ (so góc bằng tích có hướng), rồi đẩy lần lượt vào ngăn xếp, bật ra mọi điểm làm "không rẽ trái"; mỗi điểm vào ngăn xếp một lần, ra nhiều nhất một lần, nên ngoài bước sắp xếp chỉ tốn O(n). Hành quân Jarvis "gói quà" tốn O(nh), tốt hơn khi bao lồi có ít đỉnh. Ví dụ 9 điểm A(2,0), B(5,1), C(3,2), D(6,4), E(3,4), F(4,6), G(0,3), H(1,1), I(2,2) có bao lồi A, B, D, F, G, H (h = 6).
+
+   Cặp gần nhất: chia đôi theo hoành độ, đệ quy, gọi δ là khoảng cách tốt nhất hai bên; chỉ xét các điểm trong dải rộng 2δ, theo thứ tự tung độ, mỗi điểm so với tối đa 7 điểm kế tiếp (một hình chữ nhật δ × 2δ chứa không quá 8 điểm). Sắp xếp trước một lần và tách mảng đã sắp trong thời gian tuyến tính cho T(n) = 2T(n/2) + O(n) = O(n lg n).
 
 ## Khái niệm cần biết
 
@@ -915,7 +921,9 @@ Kết quả: cặp gần nhất là e(5,3) và f(6,4), khoảng cách √2 ≈ 1
 
 - **33.1-1:** Chứng minh nếu p₁ × p₂ dương thì vectơ p₁ nằm theo chiều kim đồng hồ so với p₂ quanh gốc (0, 0), và nếu âm thì ngược chiều kim đồng hồ. *Người tổng hợp:* viết p₁ = r₁(cos θ₁, sin θ₁), p₂ = r₂(cos θ₂, sin θ₂) với r₁, r₂ > 0. Khi đó p₁ × p₂ = r₁r₂(cos θ₁ sin θ₂ − cos θ₂ sin θ₁) = r₁r₂ sin(θ₂ − θ₁). Biểu thức dương khi và chỉ khi θ₂ − θ₁ (mod 2π) nằm trong (0, π), tức muốn đi từ hướng p₁ tới hướng p₂ phải quay ngược chiều kim đồng hồ một góc nhỏ hơn π: p₁ nằm theo chiều kim đồng hồ so với p₂. Âm thì ngược lại; bằng 0 khi θ₂ − θ₁ là 0 hoặc π (thẳng hàng).
 - **33.1-2:** Giáo sư van Pelt đề nghị chỉ cần kiểm tra chiều x ở dòng 1 của ON-SEGMENT. Chỉ ra vì sao ông sai. *Người tổng hợp:* phản ví dụ với đoạn **thẳng đứng**: pᵢ = (0, 0), pⱼ = (0, 4), pₖ = (0, 6). pₖ thẳng hàng với đoạn (DIRECTION bằng 0) và min(xᵢ, xⱼ) = 0 ≤ xₖ = 0 ≤ 0 = max(xᵢ, xⱼ), nên phép thử chỉ theo x trả về TRUE, nhưng pₖ nằm ngoài đoạn vì 6 > 4. Với đoạn không thẳng đứng, kiểm tra x là đủ; chỉ đoạn thẳng đứng mới cần chiều y.
-- **33.1-3:** **Góc cực** (polar angle) của p₁ so với gốc p₀ là góc của vectơ p₁ − p₀ trong hệ toạ độ cực thông thường. Ví dụ góc cực của (3, 5) so với (2, 4) là góc của vectơ (1, 1), tức 45° hay π/4; góc cực của (3, 3) so với (2, 4) là góc của (1, −1), tức 315° hay 7π/4. Viết mã giả sắp dãy ⟨p₁, …, pₙ⟩ theo góc cực quanh p₀, thời gian O(n lg n), dùng tích có hướng để so sánh góc. *Lời giải của người tổng hợp:* chia mặt phẳng thành nửa trên (góc trong [0, π): y > 0, hoặc y = 0 và x > 0) và nửa dưới (góc trong [π, 2π)). Hai vectơ khác nửa thì vectơ nửa trên đứng trước. Cùng nửa thì so bằng dấu tích có hướng. Dùng hàm so sánh này trong sắp xếp trộn hoặc heapsort.
+- **33.1-3:** **Góc cực** (polar angle) của p₁ so với gốc p₀ là góc của vectơ p₁ − p₀ trong hệ toạ độ cực thông thường. Ví dụ góc cực của (3, 5) so với (2, 4) là góc của vectơ (1, 1), tức 45° hay π/4; góc cực của (3, 3) so với (2, 4) là góc của (1, −1), tức 315° hay 7π/4. Viết mã giả sắp dãy ⟨p₁, …, pₙ⟩ theo góc cực quanh p₀, thời gian O(n lg n), dùng tích có hướng để so sánh góc.
+
+  *Lời giải của người tổng hợp:* chia mặt phẳng thành nửa trên (góc trong [0, π): y > 0, hoặc y = 0 và x > 0) và nửa dưới (góc trong [π, 2π)). Hai vectơ khác nửa thì vectơ nửa trên đứng trước. Cùng nửa thì so bằng dấu tích có hướng. Dùng hàm so sánh này trong sắp xếp trộn hoặc heapsort.
 
   ```text
   UPPER(v)                       // v = (x, y) ≠ (0, 0)
@@ -932,29 +940,63 @@ Kết quả: cặp gần nhất là e(5,3) và f(6,4), khoảng cách √2 ≈ 1
   ```
   Kiểm tra với hai ví dụ của đề: u = (1, 1) thuộc nửa trên, v = (1, −1) thuộc nửa dưới, nên (3, 5) đứng trước (3, 3) — đúng vì 45° < 315°.
 - **33.1-4:** Xác định trong O(n² lg n) có ba điểm nào trong n điểm thẳng hàng không. *Người tổng hợp:* với mỗi điểm p, chuẩn hoá các vectơ q − p (q ≠ p) về nửa trên (vectơ thuộc nửa dưới thì đổi dấu, để hai hướng ngược nhau trở thành một), sắp theo góc bằng POLAR-LESS trong O(n lg n), rồi kiểm tra hai vectơ kề nhau có tích có hướng bằng 0 không. Nếu có, p và hai điểm đó thẳng hàng. Tổng n · O(n lg n) = O(n² lg n).
-- **33.1-5:** Định nghĩa: **đa giác** (polygon) là một đường cong khép kín, tuyến tính từng khúc trên mặt phẳng — đường cong kết thúc tại điểm đầu, gồm một dãy đoạn thẳng gọi là **cạnh** (sides); điểm nối hai cạnh liên tiếp là **đỉnh** (vertex). Đa giác **đơn** (simple) nếu không tự cắt (sách thường giả định như vậy). Tập điểm được đa giác đơn bao quanh là **phần trong** (interior), tập điểm trên đa giác là **biên** (boundary), tập điểm bao quanh bên ngoài là **phần ngoài** (exterior). Đa giác đơn là **lồi** (convex) nếu với hai điểm bất kỳ trên biên hoặc trong phần trong, mọi điểm của đoạn nối chúng nằm trên biên hoặc trong phần trong. Một đỉnh của đa giác lồi không thể biểu diễn thành tổ hợp lồi của hai điểm phân biệt bất kỳ trên biên hoặc trong phần trong. Đề bài: giáo sư Amundsen đề nghị kiểm tra dãy ⟨p₀, …, pₙ₋₁⟩ có là các đỉnh liên tiếp của một đa giác lồi không như sau: trả lời "có" nếu tập góc {∠pᵢpᵢ₊₁pᵢ₊₂ : i = 0, 1, …, n − 1} (cộng chỉ số theo mod n) không chứa cả rẽ trái lẫn rẽ phải; ngược lại "không". Chứng minh phương pháp chạy tuyến tính nhưng không luôn đúng, và sửa để luôn đúng trong thời gian tuyến tính. *Người tổng hợp:* phản ví dụ là ngôi sao năm cánh: lấy năm đỉnh của một ngũ giác đều rồi đi theo thứ tự cách một đỉnh (0, 2, 4, 1, 3); mọi góc đều rẽ cùng một phía nhưng đường gấp khúc tự cắt, quấn quanh tâm hai vòng. Cách sửa: ngoài điều kiện mọi tích có hướng cùng dấu (và khác 0, vì đỉnh không được có góc bẹt), kiểm tra thêm dãy hướng các cạnh chỉ quay quanh đúng một vòng — chẳng hạn đếm số lần dấu của xᵢ₊₁ − xᵢ đổi (bỏ qua các bước bằng 0): đa giác lồi có nhiều nhất 2 lần đổi, ngôi sao năm cánh có 4. Cả hai kiểm tra đều O(n).
+- **33.1-5:** Định nghĩa: **đa giác** (polygon) là một đường cong khép kín, tuyến tính từng khúc trên mặt phẳng — đường cong kết thúc tại điểm đầu, gồm một dãy đoạn thẳng gọi là **cạnh** (sides); điểm nối hai cạnh liên tiếp là **đỉnh** (vertex). Đa giác **đơn** (simple) nếu không tự cắt (sách thường giả định như vậy). Tập điểm được đa giác đơn bao quanh là **phần trong** (interior), tập điểm trên đa giác là **biên** (boundary), tập điểm bao quanh bên ngoài là **phần ngoài** (exterior).
+
+  Đa giác đơn là **lồi** (convex) nếu với hai điểm bất kỳ trên biên hoặc trong phần trong, mọi điểm của đoạn nối chúng nằm trên biên hoặc trong phần trong. Một đỉnh của đa giác lồi không thể biểu diễn thành tổ hợp lồi của hai điểm phân biệt bất kỳ trên biên hoặc trong phần trong.
+
+  Đề bài: giáo sư Amundsen đề nghị kiểm tra dãy ⟨p₀, …, pₙ₋₁⟩ có là các đỉnh liên tiếp của một đa giác lồi không như sau: trả lời "có" nếu tập góc {∠pᵢpᵢ₊₁pᵢ₊₂ : i = 0, 1, …, n − 1} (cộng chỉ số theo mod n) không chứa cả rẽ trái lẫn rẽ phải; ngược lại "không". Chứng minh phương pháp chạy tuyến tính nhưng không luôn đúng, và sửa để luôn đúng trong thời gian tuyến tính.
+
+  *Người tổng hợp:* phản ví dụ là ngôi sao năm cánh: lấy năm đỉnh của một ngũ giác đều rồi đi theo thứ tự cách một đỉnh (0, 2, 4, 1, 3); mọi góc đều rẽ cùng một phía nhưng đường gấp khúc tự cắt, quấn quanh tâm hai vòng.
+
+  Cách sửa: ngoài điều kiện mọi tích có hướng cùng dấu (và khác 0, vì đỉnh không được có góc bẹt), kiểm tra thêm dãy hướng các cạnh chỉ quay quanh đúng một vòng — chẳng hạn đếm số lần dấu của xᵢ₊₁ − xᵢ đổi (bỏ qua các bước bằng 0): đa giác lồi có nhiều nhất 2 lần đổi, ngôi sao năm cánh có 4. Cả hai kiểm tra đều O(n).
 - **33.1-6:** **Tia ngang phải** (right horizontal ray) từ p₀ = (x₀, y₀) là tập điểm {pᵢ = (xᵢ, yᵢ) : xᵢ ≥ x₀ và yᵢ = y₀}, tức các điểm ở ngay bên phải p₀ cùng với chính p₀. Xác định trong O(1) tia ngang phải từ p₀ có cắt đoạn p₁p₂ không, bằng cách quy về bài toán hai đoạn thẳng cắt nhau. *Người tổng hợp:* thay tia bằng đoạn từ p₀ tới p₃ = (max(x₀, x₁, x₂) + 1, y₀); đoạn này chứa mọi điểm của tia có thể chạm p₁p₂, nên gọi SEGMENTS-INTERSECT(p₀, p₃, p₁, p₂).
-- **33.1-7:** Một cách xác định p₀ có nằm trong phần trong của đa giác đơn (không nhất thiết lồi) P không là xét một tia bất kỳ từ p₀ và kiểm tra tia cắt biên của P một số lẻ lần, đồng thời p₀ không nằm trên biên. Chỉ ra cách tính trong Θ(n). (Gợi ý: dùng Exercise 33.1-6; bảo đảm đúng khi tia cắt biên tại một đỉnh và khi tia chồng lên một cạnh.) *Lời giải của người tổng hợp:* (1) với mỗi cạnh, nếu DIRECTION bằng 0 và ON-SEGMENT đúng thì p₀ nằm trên biên: trả lời "không". (2) Đếm các cạnh (a, b) thoả (y_a > y₀) ≠ (y_b > y₀) — quy tắc "nửa mở" này tự động bỏ qua cạnh nằm ngang trên tia và đếm một đỉnh chạm tia đúng 0 hoặc 2 lần nếu tia chỉ chạm rồi quay lại, 1 lần nếu tia thật sự cắt qua — và có giao điểm ở bên phải p₀: định hướng cạnh từ đầu thấp a tới đầu cao b, giao điểm ở bên phải khi p₀ nằm bên trái đường thẳng có hướng từ a tới b, tức (b − a) × (p₀ − a) > 0. (3) Số đếm lẻ thì p₀ ở trong. Ví dụ: đa giác (0,0), (4,0), (4,3), (2,1), (0,3), p₀ = (1, 1). Cạnh (4,0)–(4,3): (0,3) × (−3,1) = 0 + 9 = 9 > 0, đếm. Cạnh (4,3)–(2,1): định hướng a = (2,1), b = (4,3): (2,2) × (−1,0) = 0 + 2 = 2 > 0, đếm. Cạnh (2,1)–(0,3): a = (2,1), b = (0,3): (−2,2) × (−1,0) = 0 + 2 = 2 > 0, đếm. Cạnh (0,3)–(0,0): a = (0,0), b = (0,3): (0,3) × (1,1) = 0 − 3 = −3 < 0, không đếm. Cạnh (0,0)–(4,0): cả hai đầu không cao hơn y₀ = 1, bỏ qua. Tổng 3, lẻ: p₀ ở trong — đúng (tại x = 1 đa giác chiếm 0 ≤ y ≤ 2). Tia đi qua đỉnh (2, 1) của "vết lõm" và được đếm 2 lần — đúng vì tia chỉ chạm rồi không đổi phía.
+- **33.1-7:** Một cách xác định p₀ có nằm trong phần trong của đa giác đơn (không nhất thiết lồi) P không là xét một tia bất kỳ từ p₀ và kiểm tra tia cắt biên của P một số lẻ lần, đồng thời p₀ không nằm trên biên. Chỉ ra cách tính trong Θ(n). (Gợi ý: dùng Exercise 33.1-6; bảo đảm đúng khi tia cắt biên tại một đỉnh và khi tia chồng lên một cạnh.)
+
+  *Lời giải của người tổng hợp:* (1) với mỗi cạnh, nếu DIRECTION bằng 0 và ON-SEGMENT đúng thì p₀ nằm trên biên: trả lời "không".
+
+  (2) Đếm các cạnh (a, b) thoả (y_a > y₀) ≠ (y_b > y₀) — quy tắc "nửa mở" này tự động bỏ qua cạnh nằm ngang trên tia và đếm một đỉnh chạm tia đúng 0 hoặc 2 lần nếu tia chỉ chạm rồi quay lại, 1 lần nếu tia thật sự cắt qua — và có giao điểm ở bên phải p₀: định hướng cạnh từ đầu thấp a tới đầu cao b, giao điểm ở bên phải khi p₀ nằm bên trái đường thẳng có hướng từ a tới b, tức (b − a) × (p₀ − a) > 0. (3) Số đếm lẻ thì p₀ ở trong.
+
+  Ví dụ: đa giác (0,0), (4,0), (4,3), (2,1), (0,3), p₀ = (1, 1). Cạnh (4,0)–(4,3): (0,3) × (−3,1) = 0 + 9 = 9 > 0, đếm. Cạnh (4,3)–(2,1): định hướng a = (2,1), b = (4,3): (2,2) × (−1,0) = 0 + 2 = 2 > 0, đếm. Cạnh (2,1)–(0,3): a = (2,1), b = (0,3): (−2,2) × (−1,0) = 0 + 2 = 2 > 0, đếm. Cạnh (0,3)–(0,0): a = (0,0), b = (0,3): (0,3) × (1,1) = 0 − 3 = −3 < 0, không đếm. Cạnh (0,0)–(4,0): cả hai đầu không cao hơn y₀ = 1, bỏ qua.
+
+  Tổng 3, lẻ: p₀ ở trong — đúng (tại x = 1 đa giác chiếm 0 ≤ y ≤ 2). Tia đi qua đỉnh (2, 1) của "vết lõm" và được đếm 2 lần — đúng vì tia chỉ chạm rồi không đổi phía.
 - **33.1-8:** Tính diện tích đa giác đơn (không nhất thiết lồi) n đỉnh trong Θ(n). *Người tổng hợp:* công thức dây giày (shoelace): diện tích = ½ |Σᵢ₌₀ⁿ⁻¹ pᵢ × pᵢ₊₁| (chỉ số mod n); mỗi số hạng là diện tích có dấu (nhân 2) của tam giác gốc, pᵢ, pᵢ₊₁, phần nằm ngoài đa giác bị trừ đi. Ví dụ (0,0), (4,0), (4,3), (2,1), (0,3): các tích 0·0 − 4·0 = 0; 4·3 − 4·0 = 12; 4·1 − 2·3 = −2; 2·3 − 0·1 = 6; 0·0 − 0·3 = 0; tổng 16, diện tích 8. Kiểm tra: hình chữ nhật 4 × 3 = 12 trừ tam giác lõm (4,3), (2,1), (0,3) có đáy 4, cao 2, diện tích 4: còn 8. Khớp.
 
 ### Bài tập Mục 33.2 (trang 1028–1029)
 
 - **33.2-1:** Chứng minh một tập n đoạn thẳng có thể có Θ(n²) giao điểm. *Người tổng hợp:* cận trên C(n, 2) hiển nhiên. Cận dưới: n/2 đoạn gần nằm ngang (độ dốc rất nhỏ, xếp chồng song song) và n/2 đoạn rất dốc (gần thẳng đứng, vì sách giả định không có đoạn thẳng đứng) cắt qua tất cả; mỗi đoạn dốc cắt mọi đoạn ngang, được (n/2)² = n²/4 giao điểm. Ví dụ n = 4: lưới 2 × 2 cho 4 giao điểm.
-- **33.2-2:** Cho hai đoạn a, b so sánh được tại x, chỉ ra cách xác định trong O(1) quan hệ a ≽ₓ b hay b ≽ₓ a. Giả định không đoạn nào thẳng đứng. (Gợi ý của sách: nếu a, b không cắt nhau thì chỉ cần tích có hướng; nếu cắt nhau — điều có thể biết chỉ bằng tích có hướng — vẫn có thể chỉ dùng cộng, trừ, nhân, tránh phép chia. Dĩ nhiên trong ứng dụng của quan hệ ≽ₓ ở mục này, nếu a, b cắt nhau thì có thể dừng ngay và báo đã tìm thấy giao điểm.) *Người tổng hợp:* định hướng mỗi đoạn từ đầu trái tới đầu phải. Nếu không cắt nhau: thứ tự không đổi trên toàn khoảng chung; lấy đoạn có đầu trái nằm xa hơn về bên phải, giả sử b, thì b₁ nằm trong khoảng x của a, và a ≽ₓ b khi b₁ nằm dưới đường a, tức (b₁ − a₁) × (a₂ − a₁) > 0. Trường hợp tổng quát không chia: tung độ của a tại x là a₁ᵧ + (x − a₁ₓ)(a₂ᵧ − a₁ᵧ)/(a₂ₓ − a₁ₓ); so sánh hai tung độ bằng cách nhân chéo với hai mẫu số dương (a₂ₓ − a₁ₓ) và (b₂ₓ − b₁ₓ): so sánh [a₁ᵧ(a₂ₓ − a₁ₓ) + (x − a₁ₓ)(a₂ᵧ − a₁ᵧ)] · (b₂ₓ − b₁ₓ) với biểu thức tương tự của b nhân (a₂ₓ − a₁ₓ).
-- **33.2-3:** Giáo sư Mason đề nghị sửa ANY-SEGMENTS-INTERSECT: thay vì trả về khi tìm thấy giao điểm thì in cặp đoạn cắt nhau rồi tiếp tục vòng for; ông gọi thủ tục mới là PRINT-INTERSECTING-SEGMENTS và khẳng định nó in mọi giao điểm, từ trái sang phải. Giáo sư Dixon phản đối. Ai đúng? Thủ tục có luôn tìm giao điểm trái nhất trước không? Có luôn tìm mọi giao điểm không? *Người tổng hợp:* Dixon đúng; câu trả lời cho cả hai câu hỏi là không. (1) Giao điểm được phát hiện khi hai đoạn trở nên liền kề, có thể rất lâu trước khi đường quét tới giao điểm; một cặp ở xa bên phải có thể được in trước một giao điểm ở bên trái. (2) Sau một giao điểm, thứ tự trong cây không còn khớp hình học (hai đoạn không được đổi chỗ), nên có thể bỏ sót. Phản ví dụ: a từ (0, 0) tới (10, 10), b từ (0, 10) tới (10, 0), c từ (6, 8) tới (9; 7,5). Khi chèn b, a và b liền kề, in (a, b). Tại x = 6, theo hình học c ở trên a (8 > 6), a ở trên b; nhưng cây vẫn ghi b trên a; c so với b (tung độ 4) nên được chèn trên b, thành thứ tự c, b, a — c không bao giờ kề a. Thế mà a và c cắt nhau tại x = 54/7 ≈ 7,71. Giao điểm này bị bỏ sót.
+- **33.2-2:** Cho hai đoạn a, b so sánh được tại x, chỉ ra cách xác định trong O(1) quan hệ a ≽ₓ b hay b ≽ₓ a. Giả định không đoạn nào thẳng đứng. (Gợi ý của sách: nếu a, b không cắt nhau thì chỉ cần tích có hướng; nếu cắt nhau — điều có thể biết chỉ bằng tích có hướng — vẫn có thể chỉ dùng cộng, trừ, nhân, tránh phép chia. Dĩ nhiên trong ứng dụng của quan hệ ≽ₓ ở mục này, nếu a, b cắt nhau thì có thể dừng ngay và báo đã tìm thấy giao điểm.)
+
+  *Người tổng hợp:* định hướng mỗi đoạn từ đầu trái tới đầu phải. Nếu không cắt nhau: thứ tự không đổi trên toàn khoảng chung; lấy đoạn có đầu trái nằm xa hơn về bên phải, giả sử b, thì b₁ nằm trong khoảng x của a, và a ≽ₓ b khi b₁ nằm dưới đường a, tức (b₁ − a₁) × (a₂ − a₁) > 0.
+
+  Trường hợp tổng quát không chia: tung độ của a tại x là a₁ᵧ + (x − a₁ₓ)(a₂ᵧ − a₁ᵧ)/(a₂ₓ − a₁ₓ); so sánh hai tung độ bằng cách nhân chéo với hai mẫu số dương (a₂ₓ − a₁ₓ) và (b₂ₓ − b₁ₓ): so sánh [a₁ᵧ(a₂ₓ − a₁ₓ) + (x − a₁ₓ)(a₂ᵧ − a₁ᵧ)] · (b₂ₓ − b₁ₓ) với biểu thức tương tự của b nhân (a₂ₓ − a₁ₓ).
+- **33.2-3:** Giáo sư Mason đề nghị sửa ANY-SEGMENTS-INTERSECT: thay vì trả về khi tìm thấy giao điểm thì in cặp đoạn cắt nhau rồi tiếp tục vòng for; ông gọi thủ tục mới là PRINT-INTERSECTING-SEGMENTS và khẳng định nó in mọi giao điểm, từ trái sang phải. Giáo sư Dixon phản đối. Ai đúng? Thủ tục có luôn tìm giao điểm trái nhất trước không? Có luôn tìm mọi giao điểm không?
+
+  *Người tổng hợp:* Dixon đúng; câu trả lời cho cả hai câu hỏi là không. (1) Giao điểm được phát hiện khi hai đoạn trở nên liền kề, có thể rất lâu trước khi đường quét tới giao điểm; một cặp ở xa bên phải có thể được in trước một giao điểm ở bên trái. (2) Sau một giao điểm, thứ tự trong cây không còn khớp hình học (hai đoạn không được đổi chỗ), nên có thể bỏ sót.
+
+  Phản ví dụ: a từ (0, 0) tới (10, 10), b từ (0, 10) tới (10, 0), c từ (6, 8) tới (9; 7,5). Khi chèn b, a và b liền kề, in (a, b). Tại x = 6, theo hình học c ở trên a (8 > 6), a ở trên b; nhưng cây vẫn ghi b trên a; c so với b (tung độ 4) nên được chèn trên b, thành thứ tự c, b, a — c không bao giờ kề a. Thế mà a và c cắt nhau tại x = 54/7 ≈ 7,71. Giao điểm này bị bỏ sót.
 - **33.2-4:** Cho thuật toán O(n lg n) xác định đa giác n đỉnh có đơn không. *Người tổng hợp:* chạy ANY-SEGMENTS-INTERSECT trên n cạnh, nhưng bỏ qua "giao điểm" giữa hai cạnh liên tiếp tại đỉnh chung của chúng (chỉ coi là cắt nếu hai cạnh liên tiếp chồng lên nhau, tức thẳng hàng và gập ngược). Đa giác đơn khi và chỉ khi không tìm thấy giao điểm nào khác.
 - **33.2-5:** Cho thuật toán O(n lg n) xác định hai đa giác đơn có tổng n đỉnh có giao nhau không. *Người tổng hợp:* hai đa giác giao nhau khi biên cắt nhau hoặc một đa giác nằm trọn trong đa giác kia. Chạy ANY-SEGMENTS-INTERSECT trên mọi cạnh của cả hai (bỏ qua cặp cạnh liên tiếp của cùng một đa giác); nếu không thấy giao điểm, kiểm tra một đỉnh của đa giác này có ở trong đa giác kia không (Exercise 33.1-7, O(n)) và ngược lại.
 - **33.2-6:** **Đĩa** (disk) là một đường tròn cùng phần trong của nó, biểu diễn bằng tâm và bán kính; hai đĩa giao nhau nếu có điểm chung. Cho thuật toán O(n lg n) xác định có hai đĩa nào trong n đĩa giao nhau không. *Người tổng hợp:* quét như ANY-SEGMENTS-INTERSECT với hai sự kiện cho mỗi đĩa: điểm trái nhất (cₓ − r) và phải nhất (cₓ + r). Trạng thái đường quét sắp các đĩa đang cắt đường quét theo tung độ tâm (các đĩa rời nhau không đổi thứ tự trên–dưới khi cùng cắt một đường thẳng đứng). Kiểm tra hai đĩa giao nhau bằng (cₓ − c′ₓ)² + (cᵧ − c′ᵧ)² ≤ (r + r′)², không cần căn. Chứng minh đúng giống Mục 33.2 với "giao điểm trái nhất".
 - **33.2-7:** Cho tập n đoạn thẳng có tổng cộng k giao điểm, chỉ ra cách in cả k giao điểm trong O((n + k) lg n). *Người tổng hợp* (thuật toán Bentley–Ottmann, theo hiểu biết của người tổng hợp): lịch điểm sự kiện là hàng đợi ưu tiên động gồm đầu mút và các giao điểm đã phát hiện. Mỗi khi hai đoạn trở nên liền kề và cắt nhau ở bên phải đường quét, thêm giao điểm vào hàng đợi (nếu chưa có). Tại sự kiện giao điểm: in ra, đổi chỗ hai đoạn trong T, kiểm tra mỗi đoạn với hàng xóm mới. Có 2n + k sự kiện, mỗi sự kiện O(lg n) (vì k ≤ n², lg(n + k) = O(lg n)).
 - **33.2-8:** Lập luận rằng ANY-SEGMENTS-INTERSECT vẫn đúng khi có ba hay nhiều đoạn cắt nhau tại cùng một điểm. *Người tổng hợp:* lấy p là giao điểm trái nhất (thấp nhất nếu hoà). Xét các đoạn đi qua p; trên các đường quét đủ gần bên trái p, mọi đoạn nằm giữa hai đoạn đi qua p đều phải tiến về p, nên cũng đi qua p (hoặc có đầu mút tại p, khi đó cũng chứa p). Vậy trong T, các đoạn đi qua p chiếm một khối liên tiếp, và hai đoạn kề nhau bất kỳ trong khối đó là một cặp a, b cắt nhau tại p và liền kề — lập luận của sách áp dụng nguyên vẹn.
-- **33.2-9:** Chứng minh ANY-SEGMENTS-INTERSECT vẫn đúng khi có đoạn thẳng đứng nếu coi đầu dưới của đoạn thẳng đứng là đầu trái và đầu trên là đầu phải. Câu trả lời của Exercise 33.2-2 thay đổi thế nào? *Người tổng hợp:* nhờ quy tắc hoà (đầu trái trước đầu phải, y nhỏ trước), đoạn thẳng đứng s được chèn tại đầu dưới và xoá tại đầu trên, và mọi đoạn bắt đầu trên đường thẳng đứng đó giữa hai đầu mút đều được chèn trước khi s bị xoá. Khi so sánh s với đoạn khác tại x, coi s như điểm (x, tung độ đầu dưới): mọi đoạn cắt s có tung độ trong [đầu dưới, đầu trên] nên đoạn ngay trên s trong T là đoạn gần nhất phía trên; nếu nó không cắt s thì không đoạn nào cắt s ở phía trên. Ở 33.2-2, khi một trong hai đoạn thẳng đứng, so sánh tung độ đầu dưới của nó với tung độ của đoạn kia tại x (không còn công thức nội suy cho đoạn thẳng đứng).
+- **33.2-9:** Chứng minh ANY-SEGMENTS-INTERSECT vẫn đúng khi có đoạn thẳng đứng nếu coi đầu dưới của đoạn thẳng đứng là đầu trái và đầu trên là đầu phải. Câu trả lời của Exercise 33.2-2 thay đổi thế nào?
+
+  *Người tổng hợp:* nhờ quy tắc hoà (đầu trái trước đầu phải, y nhỏ trước), đoạn thẳng đứng s được chèn tại đầu dưới và xoá tại đầu trên, và mọi đoạn bắt đầu trên đường thẳng đứng đó giữa hai đầu mút đều được chèn trước khi s bị xoá. Khi so sánh s với đoạn khác tại x, coi s như điểm (x, tung độ đầu dưới): mọi đoạn cắt s có tung độ trong [đầu dưới, đầu trên] nên đoạn ngay trên s trong T là đoạn gần nhất phía trên; nếu nó không cắt s thì không đoạn nào cắt s ở phía trên. Ở 33.2-2, khi một trong hai đoạn thẳng đứng, so sánh tung độ đầu dưới của nó với tung độ của đoạn kia tại x (không còn công thức nội suy cho đoạn thẳng đứng).
 
 ### Bài tập Mục 33.3 (trang 1038–1039)
 
 - **33.3-1:** Chứng minh trong GRAHAM-SCAN, p₁ và pₘ phải là đỉnh của CH(Q). *Người tổng hợp:* p₁ có góc cực nhỏ nhất θ trong [0, π). Mọi điểm của Q nằm trong nửa mặt phẳng đóng bên trái đường thẳng qua p₀ theo hướng θ (góc của chúng trong [θ, π) hoặc chính là p₀), nên đường này là đường tựa của bao lồi. Trên đường tựa, chỉ có p₀ và p₁ (các điểm cùng góc θ đã bị loại trừ điểm xa nhất là p₁; không có điểm ở góc θ + π ≥ π). Giao của bao lồi với đường tựa là đoạn p₀p₁, nên p₁ là đỉnh. Tương tự với pₘ (góc lớn nhất, đường tựa phía bên kia).
-- **33.3-2:** Xét mô hình tính toán hỗ trợ cộng, so sánh và nhân, trong đó sắp xếp n số có cận dưới Ω(n lg n). Chứng minh Ω(n lg n) là cận dưới để tính, theo thứ tự, các đỉnh bao lồi của n điểm trong mô hình đó. *Người tổng hợp:* quy sắp xếp về bao lồi. Cho n số x₁, …, xₙ (giả sử phân biệt), tạo n điểm (xᵢ, xᵢ²) bằng n phép nhân. Mọi điểm nằm trên parabol y = x² (lồi), nên đều là đỉnh của bao lồi, và đi ngược chiều kim đồng hồ từ điểm trái nhất (tìm trong O(n)) cho các xᵢ theo thứ tự tăng dần. Nếu tính bao lồi nhanh hơn Ω(n lg n) thì sắp xếp cũng nhanh hơn — mâu thuẫn. Ví dụ 3, 1, 2 cho (3, 9), (1, 1), (2, 4); bao lồi từ (1, 1) ngược chiều kim đồng hồ: (1, 1), (2, 4), (3, 9), tức 1, 2, 3.
+- **33.3-2:** Xét mô hình tính toán hỗ trợ cộng, so sánh và nhân, trong đó sắp xếp n số có cận dưới Ω(n lg n). Chứng minh Ω(n lg n) là cận dưới để tính, theo thứ tự, các đỉnh bao lồi của n điểm trong mô hình đó.
+
+  *Người tổng hợp:* quy sắp xếp về bao lồi. Cho n số x₁, …, xₙ (giả sử phân biệt), tạo n điểm (xᵢ, xᵢ²) bằng n phép nhân. Mọi điểm nằm trên parabol y = x² (lồi), nên đều là đỉnh của bao lồi, và đi ngược chiều kim đồng hồ từ điểm trái nhất (tìm trong O(n)) cho các xᵢ theo thứ tự tăng dần. Nếu tính bao lồi nhanh hơn Ω(n lg n) thì sắp xếp cũng nhanh hơn — mâu thuẫn. Ví dụ 3, 1, 2 cho (3, 9), (1, 1), (2, 4); bao lồi từ (1, 1) ngược chiều kim đồng hồ: (1, 1), (2, 4), (3, 9), tức 1, 2, 3.
 - **33.3-3:** Chứng minh cặp điểm xa nhau nhất của Q phải là đỉnh của CH(Q). *Người tổng hợp:* giả sử cặp xa nhất là p, q và p không phải đỉnh. Kéo dài tia từ q qua p; tia ra khỏi bao lồi tại một điểm biên p′ với |p′ − q| ≥ |p − q|, và nếu p nằm trong phần trong thì bất đẳng thức là chặt. p′ nằm trên một cạnh uw; hàm khoảng cách tới q là hàm lồi dọc đoạn uw nên đạt cực đại tại u hoặc w; vậy một đỉnh u hoặc w cách q xa hơn hẳn p (khi p không phải đỉnh, chặt vì khoảng cách tới q lồi chặt trên mọi đoạn không đi qua q). Mâu thuẫn.
-- **33.3-4:** Với đa giác P và điểm q trên biên, **bóng** (shadow) của q là tập điểm r sao cho đoạn qr nằm hoàn toàn trên biên hoặc trong phần trong của P. Đa giác P là **hình sao** (star-shaped) nếu tồn tại điểm p trong phần trong của P nằm trong bóng của mọi điểm trên biên của P; tập mọi điểm p như vậy là **nhân** (kernel) của P. Hình 33.10 của sách: (a) một đa giác hình sao với điểm p trong nhân — đoạn từ p tới mọi điểm q trên biên chỉ chạm biên tại q; (b) một đa giác không hình sao — bóng của q (miền tô xám bên trái) và bóng của q′ (miền tô xám bên phải) rời nhau, nên nhân rỗng. Đề: cho đa giác hình sao n đỉnh theo chiều ngược kim đồng hồ, chỉ ra cách tính CH(P) trong O(n). *Người tổng hợp:* các đỉnh đã được sắp theo góc cực quanh một điểm p của nhân (dù chưa biết p). Bắt đầu từ đỉnh thấp nhất (chắc chắn là đỉnh bao lồi), xoay vòng dãy đỉnh để nó đứng đầu, rồi chạy phần ngăn xếp của quét Graham (dòng 3–11) không cần sắp xếp, vòng quanh đủ 360° quanh điểm nhân; thời gian O(n). (Cơ sở: phiên bản gốc của Graham sắp các điểm theo góc quanh một điểm nằm bên trong chứ không quanh điểm thấp nhất, và bước ngăn xếp vẫn đúng — theo hiểu biết của người tổng hợp.)
+- **33.3-4:** Với đa giác P và điểm q trên biên, **bóng** (shadow) của q là tập điểm r sao cho đoạn qr nằm hoàn toàn trên biên hoặc trong phần trong của P. Đa giác P là **hình sao** (star-shaped) nếu tồn tại điểm p trong phần trong của P nằm trong bóng của mọi điểm trên biên của P; tập mọi điểm p như vậy là **nhân** (kernel) của P.
+
+  Hình 33.10 của sách: (a) một đa giác hình sao với điểm p trong nhân — đoạn từ p tới mọi điểm q trên biên chỉ chạm biên tại q; (b) một đa giác không hình sao — bóng của q (miền tô xám bên trái) và bóng của q′ (miền tô xám bên phải) rời nhau, nên nhân rỗng.
+
+  Đề: cho đa giác hình sao n đỉnh theo chiều ngược kim đồng hồ, chỉ ra cách tính CH(P) trong O(n).
+
+  *Người tổng hợp:* các đỉnh đã được sắp theo góc cực quanh một điểm p của nhân (dù chưa biết p). Bắt đầu từ đỉnh thấp nhất (chắc chắn là đỉnh bao lồi), xoay vòng dãy đỉnh để nó đứng đầu, rồi chạy phần ngăn xếp của quét Graham (dòng 3–11) không cần sắp xếp, vòng quanh đủ 360° quanh điểm nhân; thời gian O(n). (Cơ sở: phiên bản gốc của Graham sắp các điểm theo góc quanh một điểm nằm bên trong chứ không quanh điểm thấp nhất, và bước ngăn xếp vẫn đúng — theo hiểu biết của người tổng hợp.)
 - **33.3-5:** Trong **bài toán bao lồi trực tuyến** (on-line convex-hull problem), tập Q gồm n điểm được cho từng điểm một; sau mỗi điểm phải tính bao lồi của các điểm đã thấy. Hiển nhiên có thể chạy quét Graham sau mỗi điểm, tổng O(n² lg n). Chỉ ra cách giải trong tổng O(n²). *Người tổng hợp:* giữ bao lồi hiện tại dưới dạng danh sách vòng các đỉnh theo chiều ngược kim đồng hồ. Với điểm mới p: duyệt các cạnh O(h); nếu p nằm bên trái mọi cạnh thì p ở trong, bao lồi không đổi; nếu không, các cạnh mà p nằm bên phải tạo thành một dãy liên tiếp; xoá các đỉnh ở giữa dãy đó và chèn p giữa hai đỉnh tiếp xúc. Mỗi điểm O(h) = O(n), tổng O(n²).
 - **33.3-6 ★:** Chỉ ra cách cài đặt phương pháp gia tăng tính bao lồi của n điểm trong O(n lg n). *Người tổng hợp:* sắp các điểm theo (x, y) trong O(n lg n). Điểm thứ i luôn nằm ngoài bao lồi của i − 1 điểm trước (nó ở bên phải nhất), và điểm thứ i − 1 là một đỉnh của bao lồi cũ. Từ đỉnh đó, đi dọc chuỗi trên (và chuỗi dưới) của bao lồi cũ, xoá các đỉnh làm "không rẽ phải" (chuỗi trên) hoặc "không rẽ trái" (chuỗi dưới) khi nối tới điểm mới — giống vòng while của quét Graham. Mỗi đỉnh bị xoá nhiều nhất một lần, nên ngoài bước sắp xếp chỉ tốn O(n) theo phân tích gộp. (Đây chính là thuật toán "chuỗi đơn điệu" của Andrew — theo hiểu biết của người tổng hợp.)
 
@@ -982,7 +1024,9 @@ Giả sử Q có k lớp cực đại khác rỗng, gọi yᵢ là tung độ c�
 
 - **(a)** Chứng minh y₁ > y₂ > ⋯ > yₖ. *Người tổng hợp:* trong một lớp, không điểm nào trội điểm khác, nên sắp theo x tăng thì y giảm; điểm trái nhất của lớp có tung độ lớn nhất trong lớp. Điểm trái nhất q của Lᵢ (i > 1) không thuộc Lᵢ₋₁, nên bị một điểm r của Q − ⋃ⱼ<ᵢ₋₁ Lⱼ trội; có thể chọn r trong Lᵢ₋₁ (đi theo chuỗi trội tới một điểm cực đại). Khi đó yᵢ₋₁ ≥ yᵣ > y_q = yᵢ (các tung độ phân biệt).
 - Xét điểm (x, y) nằm bên trái mọi điểm của Q, với y khác mọi tung độ của Q. Đặt Q′ = Q ∪ {(x, y)}.
-- **(b)** Gọi j là chỉ số nhỏ nhất mà yⱼ < y, trừ khi y < yₖ, khi đó đặt j = k + 1. Chứng minh các lớp cực đại của Q′ như sau: nếu j ≤ k, các lớp của Q′ giống của Q, chỉ có Lⱼ thêm (x, y) làm điểm trái nhất mới; nếu j = k + 1, k lớp đầu của Q′ giống của Q, và Q′ có thêm lớp thứ k + 1 khác rỗng Lₖ₊₁ = {(x, y)}. *Người tổng hợp:* (x, y) không trội điểm nào (hoành độ nhỏ nhất), nên các lớp cũ không đổi thành phần. Nó bị điểm trái nhất của Lᵢ trội khi và chỉ khi yᵢ > y, tức với i < j; nó không bị điểm nào của Lⱼ trội (điểm có tung độ lớn nhất của Lⱼ là yⱼ < y). Vậy nó thuộc lớp j.
+- **(b)** Gọi j là chỉ số nhỏ nhất mà yⱼ < y, trừ khi y < yₖ, khi đó đặt j = k + 1. Chứng minh các lớp cực đại của Q′ như sau: nếu j ≤ k, các lớp của Q′ giống của Q, chỉ có Lⱼ thêm (x, y) làm điểm trái nhất mới; nếu j = k + 1, k lớp đầu của Q′ giống của Q, và Q′ có thêm lớp thứ k + 1 khác rỗng Lₖ₊₁ = {(x, y)}.
+
+  *Người tổng hợp:* (x, y) không trội điểm nào (hoành độ nhỏ nhất), nên các lớp cũ không đổi thành phần. Nó bị điểm trái nhất của Lᵢ trội khi và chỉ khi yᵢ > y, tức với i < j; nó không bị điểm nào của Lⱼ trội (điểm có tung độ lớn nhất của Lⱼ là yⱼ < y). Vậy nó thuộc lớp j.
 - **(c)** Mô tả thuật toán O(n lg n) tính các lớp cực đại của Q. (Gợi ý: di chuyển đường quét từ phải sang trái.) *Người tổng hợp:* sắp các điểm theo x giảm dần; giữ mảng tăng chỉ số y₁ > y₂ > ⋯ > yₖ của các lớp đã có. Mỗi điểm mới (đang ở bên trái mọi điểm đã xử lý) tìm j bằng tìm kiếm nhị phân O(lg n), gán vào lớp j và cập nhật yⱼ = y (hoặc tạo lớp k + 1). Tổng O(n lg n).
 - **(d)** Có khó khăn gì nếu cho phép hai điểm cùng hoành độ hoặc cùng tung độ? Đề xuất cách giải quyết. *Người tổng hợp:* với cùng hoành độ, điểm có tung độ lớn hơn trội điểm kia, nhưng thứ tự quét không xác định ai "ở bên trái"; với cùng tung độ, điều kiện "yⱼ < y" phải phân biệt ≤ với <. Cách giải: khi sắp, hoà hoành độ thì xử lý điểm có tung độ lớn hơn trước; và dùng đúng điều kiện chặt yⱼ < y (lớp có yⱼ = y thì điểm trái nhất của nó trội điểm mới, nên phải đi xuống lớp sau).
 
@@ -990,7 +1034,9 @@ Giả sử Q có k lớp cực đại khác rỗng, gọi yᵢ là tung độ c�
 
 Một nhóm n Ghostbuster chiến đấu với n con ma. Mỗi Ghostbuster mang một bộ phóng proton, bắn một luồng vào một con ma để tiêu diệt nó; luồng đi theo đường thẳng và dừng khi chạm con ma. Chiến lược: ghép mỗi Ghostbuster với một con ma thành n cặp, rồi đồng thời bắn. Để các luồng cắt nhau là rất nguy hiểm, nên phải chọn cách ghép sao cho không luồng nào cắt nhau. Giả định vị trí của mỗi Ghostbuster và mỗi con ma là một điểm cố định trên mặt phẳng và không có ba vị trí nào thẳng hàng.
 
-- **(a)** Lập luận rằng tồn tại một đường thẳng đi qua một Ghostbuster và một con ma sao cho số Ghostbuster ở một phía bằng số ma ở cùng phía đó. Mô tả cách tìm đường như vậy trong O(n lg n). *Người tổng hợp:* lấy điểm thấp nhất p trong 2n điểm (giả sử là Ghostbuster; trường hợp ma đối xứng). Sắp 2n − 1 điểm còn lại theo góc cực quanh p (mọi góc trong (0, π)). Duyệt theo thứ tự, giữ hiệu (số Ghostbuster − số ma) trong phần đã duyệt; tìm con ma q đầu tiên mà ngay trước nó hiệu bằng 0. Tồn tại vì tổng cộng có n − 1 Ghostbuster và n ma, hiệu thay đổi từng đơn vị và cuối cùng bằng −1. Các điểm đứng trước q đều nằm cùng một phía của đường pq. Sắp O(n lg n), duyệt O(n).
+- **(a)** Lập luận rằng tồn tại một đường thẳng đi qua một Ghostbuster và một con ma sao cho số Ghostbuster ở một phía bằng số ma ở cùng phía đó. Mô tả cách tìm đường như vậy trong O(n lg n).
+
+  *Người tổng hợp:* lấy điểm thấp nhất p trong 2n điểm (giả sử là Ghostbuster; trường hợp ma đối xứng). Sắp 2n − 1 điểm còn lại theo góc cực quanh p (mọi góc trong (0, π)). Duyệt theo thứ tự, giữ hiệu (số Ghostbuster − số ma) trong phần đã duyệt; tìm con ma q đầu tiên mà ngay trước nó hiệu bằng 0. Tồn tại vì tổng cộng có n − 1 Ghostbuster và n ma, hiệu thay đổi từng đơn vị và cuối cùng bằng −1. Các điểm đứng trước q đều nằm cùng một phía của đường pq. Sắp O(n lg n), duyệt O(n).
 - **(b)** Cho thuật toán O(n² lg n) ghép Ghostbuster với ma sao cho không luồng nào cắt nhau. *Người tổng hợp:* ghép p với q, rồi đệ quy riêng trên hai phía của đường pq (mỗi phía có số Ghostbuster bằng số ma). Các luồng ở hai phía không cắt nhau và không cắt pq. Mỗi bước loại 2 điểm và tốn O(n lg n), tổng O(n² lg n).
 
 ### Problem 33-4: Nhặt que (Picking up sticks)
@@ -1213,143 +1259,151 @@ flowchart LR
   n1 --- n2
   n3["`Tổ hợp lồi p₃ = αp₁ + (1 − α)p₂ với 0 ≤ α ≤ 1, đoạn thẳng là tập mọi tổ hợp lồi`"]
   n2 --- n3
-  n4["`Tích có hướng p₁ × p₂ = x₁y₂ − x₂y₁, bằng diện tích có dấu của hình bình hành`"]
+  n4["`Tích có hướng p₁ × p₂ = x₁y₂ − x₂y₁ = −(p₂ × p₁), bằng diện tích có dấu của hình bình hành`"]
   n2 --- n4
-  n5["`p₁ × p₂ dương thì p₁ theo chiều kim đồng hồ so với p₂, âm thì ngược chiều, bằng 0 là thẳng hàng`"]
+  n5["`p₁ × p₂ #gt; 0 thì p₁ theo chiều kim đồng hồ so với p₂, #lt; 0 thì ngược chiều, = 0 là thẳng hàng`"]
   n2 --- n5
   n6["`Ba câu hỏi về đoạn thẳng`"]
   n1 --- n6
-  n7["`Gốc chung p₀: xét dấu (p₁ − p₀) × (p₂ − p₀) để biết chiều kim đồng hồ`"]
+  n7["`Gốc chung p₀: dấu của (p₁ − p₀) × (p₂ − p₀) cho biết p₀p₁ theo chiều hay ngược chiều kim đồng hồ so với p₀p₂`"]
   n6 --- n7
-  n8["`Rẽ trái tại p₁ khi (p₂ − p₀) × (p₁ − p₀) âm, rẽ phải khi dương`"]
+  n8["`Rẽ trái tại p₁ khi (p₂ − p₀) × (p₁ − p₀) #lt; 0, rẽ phải khi #gt; 0, thẳng hàng khi = 0`"]
   n6 --- n8
   n9["`Hai đoạn cắt nhau khi mỗi đoạn vắt qua đường chứa đoạn kia, hoặc một đầu mút nằm trên đoạn kia`"]
   n6 --- n9
   n10["`SEGMENTS-INTERSECT`"]
   n1 --- n10
-  n11["`DIRECTION tính hướng bốn đầu mút, hai cặp d₁, d₂ và d₃, d₄ trái dấu thì cắt nhau`"]
+  n11["`DIRECTION(pᵢ, pⱼ, pₖ) = (pₖ − pᵢ) × (pⱼ − pᵢ), d₁, d₂ trái dấu và d₃, d₄ trái dấu thì trả về TRUE`"]
   n10 --- n11
   n12["`dₖ = 0 thì ON-SEGMENT kiểm tra điểm nằm trong hình chữ nhật bao của đoạn kia`"]
   n10 --- n12
-  n13["`Chỉ cộng, trừ, nhân: tránh phép chia vốn sai số lớn khi hai đoạn gần song song`"]
+  n13["`Chỉ cộng, trừ, nhân, so sánh: tránh phép chia vốn rất nhạy sai số khi hai đoạn gần song song`"]
   n10 --- n13
   n14["`Mục 33.2 — Kỹ thuật quét kiểm tra n đoạn có cặp nào cắt nhau trong O(n lg n)`"]
   n0 --- n14
   n15["`Thứ tự giữa các đoạn`"]
   n14 --- n15
-  n16["`Đường quét thẳng đứng đi từ trái sang phải, trục x đóng vai trò thời gian`"]
+  n16["`Giả định: không đoạn nào thẳng đứng, không ba đoạn nào cắt nhau tại cùng một điểm`"]
   n15 --- n16
-  n17["`s₁ ≽ₓ s₂ khi s₁ cắt đường quét tại x cao hơn s₂ hoặc hai đoạn cắt nhau ngay trên đường quét`"]
+  n17["`Đường quét thẳng đứng đi từ trái sang phải, trục x đóng vai trò thời gian`"]
   n15 --- n17
-  n18["`≽ₓ là tiền thứ tự toàn phần, hai đoạn đổi chỗ khi đường quét đi qua giao điểm`"]
+  n18["`s₁ ≽ₓ s₂ khi s₁ cắt đường quét x cao hơn s₂ hoặc hai đoạn cắt nhau ngay trên đường quét`"]
   n15 --- n18
-  n19["`Hai cấu trúc dữ liệu`"]
-  n14 --- n19
-  n20["`Trạng thái đường quét lưu trong cây đỏ-đen, INSERT, DELETE, ABOVE, BELOW mỗi thao tác O(lg n)`"]
-  n19 --- n20
-  n21["`Lịch điểm sự kiện là 2n đầu mút sắp theo bộ ba (x, e, y), đầu trái trước đầu phải`"]
-  n19 --- n21
-  n22["`ANY-SEGMENTS-INTERSECT`"]
-  n14 --- n22
-  n23["`Gặp đầu trái: chèn đoạn rồi so với đoạn ngay trên và ngay dưới`"]
-  n22 --- n23
-  n24["`Gặp đầu phải: so đoạn ngay trên với đoạn ngay dưới, rồi xoá đoạn`"]
-  n22 --- n24
-  n25["`Đúng vì tại giao điểm trái nhất, hai đoạn trở nên liền kề ở một sự kiện đã được kiểm tra`"]
-  n22 --- n25
-  n26["`Thời gian: sắp xếp O(n lg n) cộng 2n sự kiện × O(lg n)`"]
-  n22 --- n26
-  n27["`Liệt kê mọi giao điểm có thể cần Ω(n²) vì có thể có Θ(n²) giao điểm`"]
-  n22 --- n27
-  n28["`Mục 33.3 — Bao lồi bằng quét quay: Graham O(n lg n), Jarvis O(nh)`"]
-  n0 --- n28
-  n29["`Bao lồi và các phương pháp`"]
-  n28 --- n29
-  n30["`CH(Q) là đa giác lồi nhỏ nhất chứa mọi điểm của Q, mọi đỉnh của nó là điểm của Q`"]
-  n29 --- n30
-  n31["`Phương pháp gia tăng và chia để trị đều đạt O(n lg n)`"]
-  n29 --- n31
-  n32["`Tỉa-và-tìm của Kirkpatrick–Seidel chạy O(n lg h), nhanh nhất về tiệm cận`"]
-  n29 --- n32
-  n33["`GRAHAM-SCAN`"]
-  n28 --- n33
-  n34["`Chọn p₀ thấp nhất, sắp điểm còn lại theo góc cực quanh p₀, cùng góc chỉ giữ điểm xa nhất`"]
-  n33 --- n34
-  n35["`Mỗi điểm mới bật khỏi ngăn xếp mọi đỉnh tạo lần không rẽ trái, rồi được đẩy vào`"]
-  n33 --- n35
-  n36["`Định lý 33.1: bất biến ngăn xếp là đỉnh CH(Qᵢ₋₁) theo chiều ngược kim đồng hồ`"]
-  n33 --- n36
-  n37["`Phân tích gộp: nhiều nhất m − 2 lần POP, vòng while tổng O(n)`"]
-  n33 --- n37
-  n38["`Vết chạy 13 điểm của sách: 13 lần PUSH, 8 lần POP, bao lồi p₀, p₁, p₃, p₁₀, p₁₂`"]
-  n33 --- n38
-  n39["`Hành quân Jarvis (gói quà)`"]
-  n28 --- n39
-  n40["`Từ đỉnh hiện tại chọn điểm có góc cực nhỏ nhất làm đỉnh kế tiếp`"]
-  n39 --- n40
-  n41["`Chuỗi phải đo góc từ trục x dương tới điểm cao nhất, chuỗi trái đo từ trục x âm`"]
-  n39 --- n41
-  n42["`Mỗi đỉnh tốn O(n), tổng O(nh), nhanh hơn Graham khi h = o(lg n)`"]
-  n39 --- n42
-  n43["`Cận dưới`"]
-  n28 --- n43
-  n44["`Đặt xᵢ thành điểm (xᵢ, xᵢ²) trên parabol thì bao lồi cho thứ tự đã sắp`"]
-  n43 --- n44
-  n45["`Do đó bao lồi có thứ tự cần Ω(n lg n), Yao chứng minh trong mô hình cây quyết định`"]
-  n43 --- n45
-  n46["`Mục 33.4 — Cặp điểm gần nhất bằng chia để trị trong O(n lg n)`"]
-  n0 --- n46
-  n47["`Chia, trị, kết hợp`"]
+  n19["`≽ₓ là tiền thứ tự toàn phần, hai đoạn đổi chỗ khi đường quét đi qua giao điểm`"]
+  n15 --- n19
+  n20["`Hai cấu trúc dữ liệu`"]
+  n14 --- n20
+  n21["`Trạng thái đường quét T lưu trong cây đỏ-đen, INSERT, DELETE, ABOVE, BELOW mỗi thao tác O(lg n)`"]
+  n20 --- n21
+  n22["`Lịch điểm sự kiện là 2n đầu mút sắp theo bộ ba (x, e, y), đầu trái trước đầu phải, y nhỏ trước`"]
+  n20 --- n22
+  n23["`ANY-SEGMENTS-INTERSECT`"]
+  n14 --- n23
+  n24["`Gặp đầu trái của s: chèn s rồi kiểm tra s với ABOVE(T, s) và BELOW(T, s)`"]
+  n23 --- n24
+  n25["`Gặp đầu phải của s: kiểm tra ABOVE(T, s) với BELOW(T, s), rồi xoá s`"]
+  n23 --- n25
+  n26["`Đúng vì tại giao điểm trái nhất p, hai đoạn a, b trở nên liền kề ở một sự kiện đã được kiểm tra`"]
+  n23 --- n26
+  n27["`Ví dụ sáu đoạn a–f: tại đầu phải của c, d và b bao quanh c và cắt nhau, trả về TRUE trước khi quét tới giao điểm`"]
+  n23 --- n27
+  n28["`Thời gian: sắp xếp O(n lg n) cộng 2n sự kiện × O(lg n)`"]
+  n23 --- n28
+  n29["`Liệt kê mọi giao điểm có thể cần Ω(n²) vì có thể có Θ(n²) giao điểm`"]
+  n23 --- n29
+  n30["`Mục 33.3 — Bao lồi bằng quét quay: Graham O(n lg n), Jarvis O(nh)`"]
+  n0 --- n30
+  n31["`Bao lồi và các phương pháp`"]
+  n30 --- n31
+  n32["`CH(Q) là đa giác lồi nhỏ nhất chứa mọi điểm của Q, mọi đỉnh của nó là điểm của Q`"]
+  n31 --- n32
+  n33["`Phương pháp gia tăng và chia để trị đều đạt O(n lg n)`"]
+  n31 --- n33
+  n34["`Tỉa-và-tìm của Kirkpatrick–Seidel chạy O(n lg h), nhanh nhất về tiệm cận`"]
+  n31 --- n34
+  n35["`Cặp điểm xa nhất là hai đỉnh bao lồi, nên tìm được trong O(n lg n)`"]
+  n31 --- n35
+  n36["`GRAHAM-SCAN`"]
+  n30 --- n36
+  n37["`Chọn p₀ thấp nhất, sắp điểm còn lại theo góc cực quanh p₀, cùng góc chỉ giữ điểm xa nhất`"]
+  n36 --- n37
+  n38["`Mỗi pᵢ bật khỏi ngăn xếp mọi đỉnh tạo lần không rẽ trái (loại cả góc bẹt), rồi đẩy pᵢ vào`"]
+  n36 --- n38
+  n39["`Định lý 33.1: bất biến ngăn xếp là đỉnh CH(Qᵢ₋₁) theo chiều ngược kim đồng hồ`"]
+  n36 --- n39
+  n40["`Phân tích gộp: nhiều nhất m − 2 lần POP, vòng while tổng O(n)`"]
+  n36 --- n40
+  n41["`Vết chạy 13 điểm của sách: 13 lần PUSH, 8 lần POP, bao lồi p₀, p₁, p₃, p₁₀, p₁₂`"]
+  n36 --- n41
+  n42["`Hành quân Jarvis (gói quà)`"]
+  n30 --- n42
+  n43["`Từ đỉnh hiện tại chọn điểm có góc cực nhỏ nhất làm đỉnh kế tiếp, hoà thì lấy điểm xa nhất`"]
+  n42 --- n43
+  n44["`Chuỗi phải đo góc từ trục x dương tới điểm cao nhất, chuỗi trái đo từ trục x âm`"]
+  n42 --- n44
+  n45["`Mỗi đỉnh tốn O(n), tổng O(nh), nhanh hơn Graham khi h = o(lg n)`"]
+  n42 --- n45
+  n46["`Cận dưới`"]
+  n30 --- n46
+  n47["`Đặt xᵢ thành điểm (xᵢ, xᵢ²) trên parabol thì bao lồi cho thứ tự đã sắp`"]
   n46 --- n47
-  n48["`Vét cạn xét C(n,2) = Θ(n²) cặp, đệ quy dừng và vét cạn khi còn ≤ 3 điểm`"]
-  n47 --- n48
-  n49["`Đường thẳng đứng l chia đôi tập điểm, đệ quy hai nửa, δ là khoảng cách nhỏ hơn của hai nửa`"]
-  n47 --- n49
-  n50["`Cặp tốt hơn δ phải cắt ngang l và nằm trong dải rộng 2δ quanh l`"]
-  n47 --- n50
-  n51["`Trong dải sắp theo tung độ, mỗi điểm chỉ so với 7 điểm kế tiếp`"]
-  n47 --- n51
-  n52["`Vì sao 7 điểm là đủ`"]
-  n46 --- n52
-  n53["`Cặp cần tìm nằm trong hình chữ nhật δ × 2δ có tâm trên l`"]
-  n52 --- n53
-  n54["`Mỗi nửa vuông δ × δ chứa ≤ 4 điểm cùng phía vì chúng cách nhau ≥ δ`"]
-  n52 --- n54
-  n55["`Hình chữ nhật chứa ≤ 8 điểm, Exercise 33.4-2 hạ con số xuống 5`"]
-  n52 --- n55
-  n56["`Đạt O(n lg n)`"]
-  n46 --- n56
-  n57["`Sắp xếp trước theo x và theo y một lần, O(n lg n)`"]
+  n48["`Do đó bao lồi có thứ tự cần Ω(n lg n), Yao chứng minh trong mô hình cây quyết định`"]
+  n46 --- n48
+  n49["`Mục 33.4 — Cặp điểm gần nhất bằng chia để trị trong O(n lg n)`"]
+  n0 --- n49
+  n50["`Chia, trị, kết hợp`"]
+  n49 --- n50
+  n51["`Vét cạn xét C(n, 2) = Θ(n²) cặp, đệ quy dừng và vét cạn khi |P| ≤ 3`"]
+  n50 --- n51
+  n52["`Đường thẳng đứng l chia P thành P#95;L (⌈|P|/2⌉ điểm) và P#95;R (⌊|P|/2⌋ điểm)`"]
+  n50 --- n52
+  n53["`Đệ quy hai nửa được δ#95;L, δ#95;R, đặt δ = min(δ#95;L, δ#95;R)`"]
+  n50 --- n53
+  n54["`Cặp có khoảng cách #lt; δ phải có một điểm mỗi bên và nằm trong dải rộng 2δ quanh l`"]
+  n50 --- n54
+  n55["`Y′ là Y bỏ điểm ngoài dải, mỗi điểm trong Y′ chỉ so với 7 điểm kế sau`"]
+  n50 --- n55
+  n56["`Vì sao 7 điểm là đủ`"]
+  n49 --- n56
+  n57["`Cặp p#95;L, p#95;R cách nhau #lt; δ nằm trong hình chữ nhật δ × 2δ có tâm trên l`"]
   n56 --- n57
-  n58["`Tách mảng đã sắp thành hai mảng đã sắp trong O(n), ngược với MERGE`"]
+  n58["`Hình vuông δ × δ nửa trái chứa ≤ 4 điểm của P#95;L vì chúng cách nhau ≥ δ, nửa phải tương tự với P#95;R`"]
   n56 --- n58
-  n59["`T(n) = 2T(n/2) + O(n) cho O(n lg n), còn sắp lại mỗi lời gọi cho O(n lg² n)`"]
+  n59["`Hình chữ nhật chứa ≤ 8 điểm, Exercise 33.4-2 hạ con số xuống 5`"]
   n56 --- n59
-  n60["`Bài toán cuối chương 33-1 đến 33-5 — Mở rộng của quét, bao lồi và chia để trị`"]
-  n0 --- n60
-  n61["`Lớp lồi tính được trong O(n²) bằng Jarvis lặp lại, cận dưới Ω(n lg n)`"]
+  n60["`Đạt O(n lg n)`"]
+  n49 --- n60
+  n61["`Sắp xếp trước X theo x và Y theo y một lần, O(n lg n)`"]
   n60 --- n61
-  n62["`Lớp cực đại tính trong O(n lg n) bằng quét từ phải sang trái và tìm kiếm nhị phân`"]
+  n62["`Tách Y thành Y#95;L, Y#95;R vẫn sắp theo y trong O(n), ngược với MERGE`"]
   n60 --- n62
-  n63["`Ghép n người với n ma không cắt nhau trong O(n² lg n) bằng sắp góc cực đệ quy`"]
+  n63["`T(n) = 2T(n/2) + O(n) cho O(n lg n), còn sắp lại mỗi lời gọi cho O(n lg² n)`"]
   n60 --- n63
-  n64["`Nhặt que trong không gian 3 chiều quy về sắp xếp tô-pô đồ thị que nằm trên que`"]
-  n60 --- n64
-  n65["`Phân phối bao thưa: gộp hai đa giác lồi trong O(n₁ + n₂), chia để trị trung bình O(n)`"]
-  n60 --- n65
-  n66["`Thông điệp xuyên suốt`"]
-  n0 --- n66
-  n67["`Mọi so sánh hình học quy về dấu của tích có hướng, chính xác tuyệt đối với toạ độ nguyên`"]
-  n66 --- n67
-  n68["`Sắp thứ tự đúng thì chỉ cần xét cặp liền kề, hạ Θ(n²) xuống O(n lg n)`"]
-  n66 --- n68
-  n69["`O(n lg n) là tối ưu cho bao lồi và cặp gần nhất trong mô hình cây quyết định`"]
-  n66 --- n69
-  n70["`Trường hợp biên như thẳng hàng, đoạn thẳng đứng là phần khó nhất khi cài đặt và chứng minh`"]
-  n66 --- n70
+  n64["`Bài toán cuối chương 33-1 đến 33-5 — Mở rộng của quét, bao lồi và chia để trị`"]
+  n0 --- n64
+  n65["`Lớp lồi tính được trong O(n²) bằng Jarvis lặp lại, cận dưới Ω(n lg n)`"]
+  n64 --- n65
+  n66["`Lớp cực đại tính trong O(n lg n) bằng quét từ phải sang trái và tìm kiếm nhị phân`"]
+  n64 --- n66
+  n67["`Ghép n người với n ma không cắt nhau trong O(n² lg n) bằng sắp góc cực đệ quy`"]
+  n64 --- n67
+  n68["`Nhặt que trong không gian 3 chiều quy về sắp xếp tô-pô đồ thị que nằm trên que`"]
+  n64 --- n68
+  n69["`Phân phối bao thưa: gộp hai đa giác lồi trong O(n₁ + n₂), chia để trị trung bình O(n)`"]
+  n64 --- n69
+  n70["`Thông điệp xuyên suốt`"]
+  n0 --- n70
+  n71["`Mọi so sánh hình học quy về dấu của tích có hướng, chính xác tuyệt đối với toạ độ nguyên`"]
+  n70 --- n71
+  n72["`Sắp thứ tự đúng thì chỉ cần xét cặp liền kề, hạ Θ(n²) xuống O(n lg n)`"]
+  n70 --- n72
+  n73["`O(n lg n) là tối ưu cho bao lồi và cặp gần nhất trong mô hình cây quyết định`"]
+  n70 --- n73
+  n74["`Trường hợp biên như thẳng hàng, đoạn thẳng đứng là phần khó nhất khi cài đặt và chứng minh`"]
+  n70 --- n74
   class n0 root
-  class n1,n14,n28,n46,n60,n66 branch
-  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n61,n62,n63,n64,n65,n67,n68,n69,n70 leaf
+  class n1,n14,n30,n49,n64,n70 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n63,n65,n66,n67,n68,n69,n71,n72,n73,n74 leaf
 ```
 
 ## Nguồn
@@ -1369,8 +1423,16 @@ Chương này không đưa ra công cụ phân tích mới mà cho thấy các c
 ## Lưu ý
 
 - **Không có mục có dấu sao (★) trong chương này.** Dấu sao chỉ xuất hiện ở một bài tập: Exercise 33.3-6 (cài đặt phương pháp gia tăng tính bao lồi trong O(n lg n)).
-- **Lớp chữ PDF hỏng nhiều ký hiệu của chương:** dấu tích có hướng × mất hẳn (`p1 p2` là `p₁ × p₂`); dấu trừ thành `/NUL` (ví dụ `.p1/NUL p0/` là `(p₁ − p₀)`); mũi tên của đoạn có hướng thành `/NUL/NUL/NUL!p0p1`; ký hiệu quan hệ "nằm trên tại x" là `≽ₓ` (dấu "succeeds or equal" có chỉ số) bị lớp chữ biến thành `<x`, dễ đọc nhầm thành "nhỏ hơn"; `‚` là Θ, `.n2/` là (n²); các dấu ≤ trong ON-SEGMENT, trong định nghĩa tổ hợp lồi 0 ≤ α ≤ 1 và trong |P| ≤ 3 mất hẳn; δ (delta) thành `ı`; Ω thành `.`; ε trong Problem 33-5 mất. Mọi pseudocode (SEGMENTS-INTERSECT, DIRECTION, ON-SEGMENT, ANY-SEGMENTS-INTERSECT, GRAHAM-SCAN, đoạn mã tách mảng Y), công thức (33.1), truy hồi của Mục 33.4 và các Hình 33.1–33.11 trong bản tổng hợp này được đối chiếu với ảnh trang 1016–1019, 1022–1026, 1029, 1031–1033, 1035–1037, 1039–1043. Đã xem ảnh của tất cả các trang 1014–1047.
+- **Lớp chữ PDF hỏng nhiều ký hiệu của chương:** dấu tích có hướng × mất hẳn (`p1 p2` là `p₁ × p₂`); dấu trừ thành `/NUL` (ví dụ `.p1/NUL p0/` là `(p₁ − p₀)`); mũi tên của đoạn có hướng thành `/NUL/NUL/NUL!p0p1`; ký hiệu quan hệ "nằm trên tại x" là `≽ₓ` (dấu "succeeds or equal" có chỉ số) bị lớp chữ biến thành `<x`, dễ đọc nhầm thành "nhỏ hơn"; `‚` là Θ, `.n2/` là (n²); các dấu ≤ trong ON-SEGMENT, trong định nghĩa tổ hợp lồi 0 ≤ α ≤ 1 và trong |P| ≤ 3 mất hẳn; δ (delta) thành `ı`; Ω thành `.`; ε trong Problem 33-5 mất.
+
+  Mọi pseudocode (SEGMENTS-INTERSECT, DIRECTION, ON-SEGMENT, ANY-SEGMENTS-INTERSECT, GRAHAM-SCAN, đoạn mã tách mảng Y), công thức (33.1), truy hồi của Mục 33.4 và các Hình 33.1–33.11 trong bản tổng hợp này được đối chiếu với ảnh trang 1016–1019, 1022–1026, 1029, 1031–1033, 1035–1037, 1039–1043. Đã xem ảnh của tất cả các trang 1014–1047.
 - **Chỗ hở trong chứng minh Định lý 33.1 (nhận xét của người tổng hợp):** ở bước Duy trì, sách viết "Qᵢ − Pᵢ = Qⱼ ∪ {pᵢ}", với Pᵢ là tập điểm bị bật trong lần lặp i. Đẳng thức này sai theo nghĩa đen khi có điểm chỉ số giữa j và i bị bật ở lần lặp sớm hơn; phản ví dụ ngay trong vết chạy của sách (Hình 33.7(i)): ở lần lặp i = 10 có j = 3, P₁₀ = {p₅, p₆, p₉}, nhưng Q₁₀ − P₁₀ còn chứa p₄, p₇, p₈ (bị bật ở lần lặp 5 và 9). Kết luận của định lý vẫn đúng; cách sửa (thay Pᵢ bằng {pⱼ₊₁, …, pᵢ₋₁}) ghi ở phần Nội dung chi tiết.
-- **Chỗ ký hiệu dễ gây nhầm (nhận xét của người tổng hợp):** (1) thủ tục DIRECTION(pᵢ, pⱼ, pₖ) trả về (pₖ − pᵢ) × (pⱼ − pᵢ), tức thứ tự hai vectơ ngược với thứ tự tham số; giá trị âm nghĩa là đi từ pᵢ tới pⱼ rồi tới pₖ là **rẽ trái**. Người cài đặt quen quy ước "(pⱼ − pᵢ) × (pₖ − pᵢ) > 0 là rẽ trái" phải đổi dấu toàn bộ. (2) Sách viết "colinear" thay vì dạng chuẩn "collinear"; bản tổng hợp dịch là "thẳng hàng". (3) Mục 33.4 khẳng định "nhiều nhất 4 điểm của P_L nằm trong hình vuông δ × δ" chỉ bằng một hình minh hoạ, không chứng minh; người tổng hợp bổ sung chứng minh (chia hình vuông thành 4 ô δ/2 × δ/2) ở phần Nội dung chi tiết. (4) Đoạn mã tách mảng Y ở Mục 33.4 dùng phép thử "Y[i] ∈ P_L" mà không nói cách làm trong O(1) (cần đánh dấu từng điểm khi chia X); khi có nhiều điểm cùng hoành độ, việc phân định cũng không hiển nhiên — sách để cho Exercise 33.4-5. Ngoài chỗ hở ở Định lý 33.1, người tổng hợp không phát hiện lỗi số hay lỗi công thức rõ ràng nào trong chương; không chắc các điểm trên có trong danh sách lỗi chính thức (errata) hay không — theo hiểu biết của người tổng hợp, không tra cứu.
+- **Chỗ ký hiệu dễ gây nhầm (nhận xét của người tổng hợp):** (1) thủ tục DIRECTION(pᵢ, pⱼ, pₖ) trả về (pₖ − pᵢ) × (pⱼ − pᵢ), tức thứ tự hai vectơ ngược với thứ tự tham số; giá trị âm nghĩa là đi từ pᵢ tới pⱼ rồi tới pₖ là **rẽ trái**. Người cài đặt quen quy ước "(pⱼ − pᵢ) × (pₖ − pᵢ) > 0 là rẽ trái" phải đổi dấu toàn bộ.
+
+  (2) Sách viết "colinear" thay vì dạng chuẩn "collinear"; bản tổng hợp dịch là "thẳng hàng". (3) Mục 33.4 khẳng định "nhiều nhất 4 điểm của P_L nằm trong hình vuông δ × δ" chỉ bằng một hình minh hoạ, không chứng minh; người tổng hợp bổ sung chứng minh (chia hình vuông thành 4 ô δ/2 × δ/2) ở phần Nội dung chi tiết.
+
+  (4) Đoạn mã tách mảng Y ở Mục 33.4 dùng phép thử "Y[i] ∈ P_L" mà không nói cách làm trong O(1) (cần đánh dấu từng điểm khi chia X); khi có nhiều điểm cùng hoành độ, việc phân định cũng không hiển nhiên — sách để cho Exercise 33.4-5.
+
+  Ngoài chỗ hở ở Định lý 33.1, người tổng hợp không phát hiện lỗi số hay lỗi công thức rõ ràng nào trong chương; không chắc các điểm trên có trong danh sách lỗi chính thức (errata) hay không — theo hiểu biết của người tổng hợp, không tra cứu.
 - **Ví dụ chạy tay đã tự kiểm tra lại:** vết chạy của ANY-SEGMENTS-INTERSECT trên sáu đoạn a–f (Hình 33.5) và vết chạy của GRAHAM-SCAN trên 13 điểm p₀–p₁₂ (Hình 33.7(a)–(l), đọc từ ảnh trang 1032–1033) khớp với lời văn của sách (tổng 8 lần POP, không vượt cận m − 2 = 10). Các ví dụ có toạ độ cụ thể do người tổng hợp tự đặt — tích có hướng, ba trường hợp SEGMENTS-INTERSECT, GRAHAM-SCAN và hành quân Jarvis trên 9 điểm, cặp điểm gần nhất trên 10 điểm, diện tích đa giác và điểm trong đa giác — đều đã được tính lại bằng tay và đối chiếu bằng một chương trình nhỏ.
 - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương Computational Geometry **bị bỏ khỏi ấn bản 4** (cùng với các chương Fibonacci heap và cây van Emde Boas); số chương 33 ở ấn bản 4 dành cho chương mới về thuật toán học máy (Machine-Learning Algorithms). Người tổng hợp không nhớ chắc phần nào của chương này (ví dụ tích có hướng) được giữ lại ở chỗ khác, nên không liệt kê.

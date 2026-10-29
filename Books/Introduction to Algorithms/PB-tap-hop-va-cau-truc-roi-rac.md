@@ -271,9 +271,17 @@ Ba bài toán cuối phụ lục xét tô màu đồ thị, các mệnh đề "b
 
 ## Ba câu hỏi chương này trả lời
 
-1. **Các đối tượng toán rời rạc mà thuật toán thao tác được định nghĩa chính xác ra sao, và chúng dựng lên nhau thế nào?** Tập hợp là bộ các phần tử phân biệt, không thứ tự; từ đó có tích Descartes A × B gồm các cặp có thứ tự. Quan hệ hai ngôi là một tập con của A × B; hàm f : A → B là quan hệ mà mỗi a có đúng một ảnh; dãy độ dài n là hàm trên {0, …, n − 1}. Đồ thị có hướng là cặp (V, E) với E là một quan hệ trên V; đồ thị vô hướng dùng cặp không thứ tự. Cây tự do là đồ thị vô hướng liên thông không chu trình; cây có gốc thêm một đỉnh được chọn; cây nhị phân là định nghĩa đệ quy riêng (rỗng, hoặc gốc cùng hai cây nhị phân trái và phải). Ví dụ cụ thể: với A = {a, b} và B = {a, b, c}, |A × B| = 2 · 3 = 6; quan hệ "<" trên ℕ là tập {(a, b) : a < b}; hàm a ↦ a mod 2 cho 0, 1, 0, 1, …
-2. **Vì sao "quan hệ tương đương" và "phân hoạch" là một?** Định lý B.1: các lớp tương đương [a] = {b : a R b} khác rỗng (vì a ∈ [a] do tính phản xạ), phủ toàn bộ A, và hai lớp có phần tử chung c thì trùng nhau (đối xứng và bắc cầu cho a R b, rồi mọi x ∈ [a] cũng thuộc [b] và ngược lại). Ngược lại, từ một phân hoạch {Aᵢ}, định nghĩa a R b khi a, b cùng nằm trong một khối; quan hệ này phản xạ, đối xứng, bắc cầu và có các lớp tương đương đúng bằng các khối. Ví dụ: "a + b chẵn" trên ℕ chia ℕ thành hai lớp {0, 2, 4, …} và {1, 3, 5, …}; "đến được" trong đồ thị vô hướng chia đỉnh thành các thành phần liên thông (với đồ thị 6 đỉnh ví dụ của sách: {1, 2, 5}, {3, 6}, {4}).
-3. **Những tính chất nào đặc trưng cho cây, và đếm nút trong cây hoàn chỉnh ra sao?** Định lý B.2: với đồ thị vô hướng G = (V, E), sáu mệnh đề sau tương đương — G là cây tự do; mọi cặp đỉnh có đúng một đường đi đơn; G liên thông nhưng bỏ cạnh nào cũng mất liên thông; G liên thông và |E| = |V| − 1; G không chu trình và |E| = |V| − 1; G không chu trình nhưng thêm cạnh nào cũng tạo chu trình. Ví dụ: cây tự do 14 đỉnh mà sách vẽ có đúng 13 cạnh; rừng 14 đỉnh, 3 cây có 14 − 3 = 11 cạnh. Cây k-phân hoàn chỉnh độ cao h có kʰ lá và 1 + k + … + k^(h−1) = (kʰ − 1)/(k − 1) nút trong; với k = 2, h = 3: 8 lá, 7 nút trong, tổng 15 nút.
+1. **Các đối tượng toán rời rạc mà thuật toán thao tác được định nghĩa chính xác ra sao, và chúng dựng lên nhau thế nào?** Tập hợp là bộ các phần tử phân biệt, không thứ tự; từ đó có tích Descartes A × B gồm các cặp có thứ tự. Quan hệ hai ngôi là một tập con của A × B; hàm f : A → B là quan hệ mà mỗi a có đúng một ảnh; dãy độ dài n là hàm trên {0, …, n − 1}.
+
+   Đồ thị có hướng là cặp (V, E) với E là một quan hệ trên V; đồ thị vô hướng dùng cặp không thứ tự. Cây tự do là đồ thị vô hướng liên thông không chu trình; cây có gốc thêm một đỉnh được chọn; cây nhị phân là định nghĩa đệ quy riêng (rỗng, hoặc gốc cùng hai cây nhị phân trái và phải).
+
+   Ví dụ cụ thể: với A = {a, b} và B = {a, b, c}, |A × B| = 2 · 3 = 6; quan hệ "<" trên ℕ là tập {(a, b) : a < b}; hàm a ↦ a mod 2 cho 0, 1, 0, 1, …
+2. **Vì sao "quan hệ tương đương" và "phân hoạch" là một?** Định lý B.1: các lớp tương đương [a] = {b : a R b} khác rỗng (vì a ∈ [a] do tính phản xạ), phủ toàn bộ A, và hai lớp có phần tử chung c thì trùng nhau (đối xứng và bắc cầu cho a R b, rồi mọi x ∈ [a] cũng thuộc [b] và ngược lại).
+
+   Ngược lại, từ một phân hoạch {Aᵢ}, định nghĩa a R b khi a, b cùng nằm trong một khối; quan hệ này phản xạ, đối xứng, bắc cầu và có các lớp tương đương đúng bằng các khối. Ví dụ: "a + b chẵn" trên ℕ chia ℕ thành hai lớp {0, 2, 4, …} và {1, 3, 5, …}; "đến được" trong đồ thị vô hướng chia đỉnh thành các thành phần liên thông (với đồ thị 6 đỉnh ví dụ của sách: {1, 2, 5}, {3, 6}, {4}).
+3. **Những tính chất nào đặc trưng cho cây, và đếm nút trong cây hoàn chỉnh ra sao?** Định lý B.2: với đồ thị vô hướng G = (V, E), sáu mệnh đề sau tương đương — G là cây tự do; mọi cặp đỉnh có đúng một đường đi đơn; G liên thông nhưng bỏ cạnh nào cũng mất liên thông; G liên thông và |E| = |V| − 1; G không chu trình và |E| = |V| − 1; G không chu trình nhưng thêm cạnh nào cũng tạo chu trình.
+
+   Ví dụ: cây tự do 14 đỉnh mà sách vẽ có đúng 13 cạnh; rừng 14 đỉnh, 3 cây có 14 − 3 = 11 cạnh. Cây k-phân hoàn chỉnh độ cao h có kʰ lá và 1 + k + … + k^(h−1) = (kʰ − 1)/(k − 1) nút trong; với k = 2, h = 3: 8 lá, 7 nút trong, tổng 15 nút.
 
 ## Khái niệm cần biết
 
@@ -290,7 +298,9 @@ Ba bài toán cuối phụ lục xét tô màu đồ thị, các mệnh đề "b
 - **Quan hệ hai ngôi (binary relation):** tập con của A × B; trên A nghĩa là tập con của A × A. Ví dụ "<" trên {1, 2, 3} là {(1, 2), (1, 3), (2, 3)}. Quan trọng vì cạnh của đồ thị có hướng chính là một quan hệ trên tập đỉnh.
 - **Phản xạ, đối xứng, bắc cầu, phản đối xứng (reflexive, symmetric, transitive, antisymmetric):** bốn tính chất có thể có của R ⊆ A × A. Ví dụ "≤" phản xạ, bắc cầu, phản đối xứng nhưng không đối xứng; "=" có cả bốn; R = {(a, b) : a = b − 1} không bắc cầu vì 3 R 4 và 4 R 5 nhưng không có 3 R 5.
 - **Quan hệ tương đương, lớp tương đương (equivalence relation, equivalence class):** phản xạ + đối xứng + bắc cầu; [a] = {b ∈ A : a R b}. Ví dụ đồng dư theo môđun 3 trên ℤ có ba lớp [0] = {…, −3, 0, 3, …}, [1] = {…, −2, 1, 4, …}, [2] = {…, −1, 2, 5, …}.
-- **Thứ tự bộ phận, phần tử cực đại, thứ tự toàn phần, tiền thứ tự toàn phần (partial order, maximal element, total/linear order, total preorder):** thứ tự bộ phận là phản xạ + phản đối xứng + bắc cầu. Ví dụ "là ước của" trên {1, 2, 3, 4, 6}: 4 và 6 đều là phần tử cực đại (không số nào trong tập là bội thực sự của chúng) nhưng không có phần tử lớn nhất (4 không chia hết 6). Thứ tự toàn phần thêm điều kiện mọi cặp so sánh được (≤ trên ℕ). Tiền thứ tự toàn phần chỉ cần toàn phần và bắc cầu — ví dụ (người tổng hợp) "a nhẹ hơn hoặc nặng bằng b" giữa các kiện hàng: hai kiện khác nhau có thể nặng bằng nhau nên không phản đối xứng. Quan trọng vì sắp xếp (Phần II) cần khoá có thứ tự toàn phần, và sắp xếp topo (Chương 22) biến một thứ tự bộ phận thành thứ tự toàn phần.
+- **Thứ tự bộ phận, phần tử cực đại, thứ tự toàn phần, tiền thứ tự toàn phần (partial order, maximal element, total/linear order, total preorder):** thứ tự bộ phận là phản xạ + phản đối xứng + bắc cầu. Ví dụ "là ước của" trên {1, 2, 3, 4, 6}: 4 và 6 đều là phần tử cực đại (không số nào trong tập là bội thực sự của chúng) nhưng không có phần tử lớn nhất (4 không chia hết 6). Thứ tự toàn phần thêm điều kiện mọi cặp so sánh được (≤ trên ℕ).
+
+  Tiền thứ tự toàn phần chỉ cần toàn phần và bắc cầu — ví dụ (người tổng hợp) "a nhẹ hơn hoặc nặng bằng b" giữa các kiện hàng: hai kiện khác nhau có thể nặng bằng nhau nên không phản đối xứng. Quan trọng vì sắp xếp (Phần II) cần khoá có thứ tự toàn phần, và sắp xếp topo (Chương 22) biến một thứ tự bộ phận thành thứ tự toàn phần.
 - **Hàm, miền xác định, đối miền, ảnh, tập giá trị (function, domain, codomain, image, range):** f : A → B gán mỗi a đúng một f(a). Ví dụ f(n) = 2n trên ℕ → ℕ: đối miền ℕ, tập giá trị là {0, 2, 4, …}; ảnh của {1, 2, 3} là {2, 4, 6}.
 - **Toàn ánh, đơn ánh, song ánh, hoán vị, hàm ngược (surjection, injection, bijection, permutation, inverse):** toàn ánh: tập giá trị bằng đối miền (⌊n/2⌋ trên ℕ → ℕ). Đơn ánh: đối số khác cho giá trị khác (2n trên ℕ → ℕ). Song ánh: cả hai ((−1)ⁿ ⌈n/2⌉ từ ℕ sang ℤ). Hoán vị là song ánh từ một tập vào chính nó, ví dụ 1 ↦ 3, 2 ↦ 1, 3 ↦ 2 trên {1, 2, 3}, hàm ngược 3 ↦ 1, 1 ↦ 2, 2 ↦ 3.
 - **Dãy hữu hạn và vô hạn (finite / infinite sequence):** dãy độ dài n là hàm trên {0, 1, …, n − 1}; dãy vô hạn là hàm trên ℕ. Ví dụ Fibonacci ⟨0, 1, 1, 2, 3, 5, 8, 13, 21, …⟩ (truy hồi (3.22) của Chương 3). Một n-bộ cũng có thể coi là dãy độ dài n.
@@ -714,7 +724,9 @@ Một **đường đi con** (subpath) của đường đi p = ⟨v₀, v₁, …
 
 #### Chu trình
 
-- **Trong đồ thị có hướng**, đường đi ⟨v₀, v₁, …, v_k⟩ tạo thành một **chu trình** (cycle) nếu v₀ = v_k và đường đi chứa ít nhất một cạnh. Chu trình là **đơn** (simple) nếu thêm điều kiện v₁, v₂, …, v_k phân biệt. Khuyên là một chu trình độ dài 1. Hai đường đi ⟨v₀, v₁, v₂, …, v_{k−1}, v₀⟩ và ⟨v′₀, v′₁, v′₂, …, v′_{k−1}, v′₀⟩ tạo thành **cùng một chu trình** nếu tồn tại số nguyên j sao cho v′ᵢ = v_{(i+j) mod k} với i = 0, 1, …, k − 1 (tức một đường đi là phép "quay vòng" của đường đi kia). Trong (a), đường đi ⟨1, 2, 4, 1⟩ tạo thành cùng chu trình với ⟨2, 4, 1, 2⟩ và ⟨4, 1, 2, 4⟩. Chu trình này đơn, còn chu trình ⟨1, 2, 4, 5, 4, 1⟩ thì không (đỉnh 4 lặp). Chu trình ⟨2, 2⟩ tạo bởi cạnh (2, 2) là một khuyên. Một đồ thị có hướng không có khuyên là **đơn** (simple).
+- **Trong đồ thị có hướng**, đường đi ⟨v₀, v₁, …, v_k⟩ tạo thành một **chu trình** (cycle) nếu v₀ = v_k và đường đi chứa ít nhất một cạnh. Chu trình là **đơn** (simple) nếu thêm điều kiện v₁, v₂, …, v_k phân biệt. Khuyên là một chu trình độ dài 1. Hai đường đi ⟨v₀, v₁, v₂, …, v_{k−1}, v₀⟩ và ⟨v′₀, v′₁, v′₂, …, v′_{k−1}, v′₀⟩ tạo thành **cùng một chu trình** nếu tồn tại số nguyên j sao cho v′ᵢ = v_{(i+j) mod k} với i = 0, 1, …, k − 1 (tức một đường đi là phép "quay vòng" của đường đi kia).
+
+  Trong (a), đường đi ⟨1, 2, 4, 1⟩ tạo thành cùng chu trình với ⟨2, 4, 1, 2⟩ và ⟨4, 1, 2, 4⟩. Chu trình này đơn, còn chu trình ⟨1, 2, 4, 5, 4, 1⟩ thì không (đỉnh 4 lặp). Chu trình ⟨2, 2⟩ tạo bởi cạnh (2, 2) là một khuyên. Một đồ thị có hướng không có khuyên là **đơn** (simple).
 - **Trong đồ thị vô hướng**, đường đi ⟨v₀, v₁, …, v_k⟩ tạo thành **chu trình** nếu k ≥ 3 và v₀ = v_k; chu trình là **đơn** nếu v₁, v₂, …, v_k phân biệt. Ví dụ trong (b), đường đi ⟨1, 2, 5, 1⟩ là một chu trình đơn. (Điều kiện k ≥ 3 loại trừ "chu trình" giả ⟨u, v, u⟩ đi qua một cạnh rồi quay lại chính cạnh đó.)
 
 Một đồ thị không có chu trình nào là **không chu trình** (acyclic).
@@ -1083,7 +1095,11 @@ Theo hiểu biết của người tổng hợp: cây thư mục của hệ đi�
 ### Bài tập Mục B.2 (trang 1165–1166)
 
 - **B.2-1:** Chứng minh quan hệ tập con "⊆" trên mọi tập con của ℤ là thứ tự bộ phận nhưng không phải thứ tự toàn phần. *Người tổng hợp:* phản xạ: A ⊆ A; phản đối xứng: A ⊆ B và B ⊆ A kéo theo A = B (tính chất ở Mục B.1); bắc cầu: đã nêu ở Mục B.1. Không toàn phần: {1} và {2} không tập nào là tập con của tập kia.
-- **B.2-2:** Chứng minh với mọi số nguyên dương n, quan hệ "đồng dư theo môđun n" là quan hệ tương đương trên ℤ. (Ta nói a ≡ b (mod n) nếu tồn tại số nguyên q sao cho a − b = qn.) Quan hệ này phân hoạch ℤ thành những lớp tương đương nào? *Người tổng hợp:* phản xạ: a − a = 0 · n. Đối xứng: a − b = qn kéo theo b − a = (−q)n. Bắc cầu: a − b = qn, b − c = q′n kéo theo a − c = (q + q′)n. Có đúng n lớp [0], [1], …, [n − 1], lớp [r] = {…, r − 2n, r − n, r, r + n, r + 2n, …} (theo phép chia có dư, mỗi số nguyên có đúng một số dư r ∈ {0, …, n − 1}). Ví dụ n = 3: [0] = {…, −3, 0, 3, 6, …}, [1] = {…, −2, 1, 4, …}, [2] = {…, −1, 2, 5, …}.
+- **B.2-2:** Chứng minh với mọi số nguyên dương n, quan hệ "đồng dư theo môđun n" là quan hệ tương đương trên ℤ. (Ta nói a ≡ b (mod n) nếu tồn tại số nguyên q sao cho a − b = qn.) Quan hệ này phân hoạch ℤ thành những lớp tương đương nào?
+
+  *Người tổng hợp:* phản xạ: a − a = 0 · n. Đối xứng: a − b = qn kéo theo b − a = (−q)n. Bắc cầu: a − b = qn, b − c = q′n kéo theo a − c = (q + q′)n.
+
+  Có đúng n lớp [0], [1], …, [n − 1], lớp [r] = {…, r − 2n, r − n, r, r + n, r + 2n, …} (theo phép chia có dư, mỗi số nguyên có đúng một số dư r ∈ {0, …, n − 1}). Ví dụ n = 3: [0] = {…, −3, 0, 3, 6, …}, [1] = {…, −2, 1, 4, …}, [2] = {…, −1, 2, 5, …}.
 - **B.2-3:** Cho ví dụ quan hệ: (a) phản xạ và đối xứng nhưng không bắc cầu; (b) phản xạ và bắc cầu nhưng không đối xứng; (c) đối xứng và bắc cầu nhưng không phản xạ. *Người tổng hợp:* (a) "|a − b| ≤ 1" trên ℤ: 1 ~ 2, 2 ~ 3 nhưng không 1 ~ 3. (b) "≤" trên ℕ. (c) quan hệ R = {(1, 1)} trên A = {1, 2}: đối xứng và bắc cầu (hiển nhiên), không phản xạ vì thiếu (2, 2); hoặc quan hệ rỗng trên một tập khác rỗng.
 - **B.2-4:** Cho S là tập hữu hạn và R là một quan hệ tương đương trên S (sách viết "trên S × S", nghĩa là R ⊆ S × S). Chứng minh nếu R thêm tính phản đối xứng thì các lớp tương đương của S theo R là các tập đơn tử. *Người tổng hợp:* nếu b ∈ [a] thì a R b, theo đối xứng b R a, theo phản đối xứng a = b. Vậy [a] = {a}. (Giả thiết "hữu hạn" không cần dùng; R chính là quan hệ "=".)
 - **B.2-5:** Giáo sư Narcissus khẳng định: nếu quan hệ R đối xứng và bắc cầu thì nó cũng phản xạ. Ông đưa ra chứng minh: theo đối xứng, a R b kéo theo b R a; do đó theo bắc cầu, a R a. Giáo sư có đúng không? *Người tổng hợp:* sai. Lập luận chỉ áp dụng cho phần tử a **có ít nhất một** b với a R b. Phần tử không có quan hệ với ai thì không suy ra được a R a. Phản ví dụ: R = {(1, 1)} trên {1, 2} như ở B.2-3(c).
@@ -1103,11 +1119,15 @@ Theo hiểu biết của người tổng hợp: cây thư mục của hệ đi�
 ### Bài tập Mục B.4 (trang 1172–1173)
 
 - **B.4-1:** Trong một bữa tiệc, các giáo sư bắt tay chào nhau và mỗi người nhớ mình đã bắt tay bao nhiêu lần. Cuối buổi, trưởng khoa cộng số lần bắt tay của mọi giáo sư. Chứng minh kết quả là số chẵn bằng cách chứng minh **bổ đề bắt tay** (handshaking lemma): nếu G = (V, E) là đồ thị vô hướng thì Σ_{v ∈ V} degree(v) = 2|E|. *Người tổng hợp:* mỗi cạnh (u, v) đóng góp đúng 1 vào bậc của u và 1 vào bậc của v, tức 2 vào tổng. Đỉnh = giáo sư, cạnh = một cái bắt tay giữa hai người. Hệ quả: số đỉnh bậc lẻ luôn chẵn.
-- **B.4-2:** Chứng minh nếu một đồ thị có hướng hay vô hướng chứa một đường đi giữa hai đỉnh u và v thì nó chứa một đường đi đơn giữa u và v. Chứng minh nếu đồ thị có hướng chứa một chu trình thì nó chứa một chu trình đơn. *Người tổng hợp:* lấy đường đi u ⇝ v **ngắn nhất**; nếu nó có đỉnh lặp vᵢ = vⱼ (i < j), cắt bỏ đoạn vᵢ₊₁, …, vⱼ được đường đi ngắn hơn — mâu thuẫn. Với chu trình có hướng ⟨v₀, …, v_k = v₀⟩: chọn chu trình có ít cạnh nhất; nếu vᵢ = vⱼ với 1 ≤ i < j ≤ k thì đoạn ⟨vᵢ, …, vⱼ⟩ là một chu trình ngắn hơn có ít nhất một cạnh — mâu thuẫn; vậy chu trình ngắn nhất là đơn. (Với đồ thị vô hướng, khẳng định thứ hai cần cẩn thận hơn vì định nghĩa chu trình đòi k ≥ 3; sách chỉ hỏi trường hợp có hướng.)
+- **B.4-2:** Chứng minh nếu một đồ thị có hướng hay vô hướng chứa một đường đi giữa hai đỉnh u và v thì nó chứa một đường đi đơn giữa u và v. Chứng minh nếu đồ thị có hướng chứa một chu trình thì nó chứa một chu trình đơn. *Người tổng hợp:* lấy đường đi u ⇝ v **ngắn nhất**; nếu nó có đỉnh lặp vᵢ = vⱼ (i < j), cắt bỏ đoạn vᵢ₊₁, …, vⱼ được đường đi ngắn hơn — mâu thuẫn.
+
+  Với chu trình có hướng ⟨v₀, …, v_k = v₀⟩: chọn chu trình có ít cạnh nhất; nếu vᵢ = vⱼ với 1 ≤ i < j ≤ k thì đoạn ⟨vᵢ, …, vⱼ⟩ là một chu trình ngắn hơn có ít nhất một cạnh — mâu thuẫn; vậy chu trình ngắn nhất là đơn. (Với đồ thị vô hướng, khẳng định thứ hai cần cẩn thận hơn vì định nghĩa chu trình đòi k ≥ 3; sách chỉ hỏi trường hợp có hướng.)
 - **B.4-3:** Chứng minh mọi đồ thị vô hướng liên thông G = (V, E) thoả |E| ≥ |V| − 1. *Người tổng hợp:* bắt đầu từ đồ thị không cạnh trên V, có |V| thành phần liên thông. Thêm lần lượt các cạnh của E; mỗi cạnh giảm số thành phần nhiều nhất 1 (nó chỉ nối được hai thành phần). Để còn 1 thành phần cần ít nhất |V| − 1 cạnh.
 - **B.4-4:** Kiểm tra rằng trong đồ thị vô hướng, quan hệ "đến được từ" là quan hệ tương đương trên tập đỉnh. Trong đồ thị có hướng, tính chất nào trong ba tính chất của quan hệ tương đương còn đúng nói chung? *Người tổng hợp:* vô hướng: phản xạ (đường đi độ dài 0), đối xứng (đảo ngược đường đi), bắc cầu (nối hai đường đi). Có hướng: phản xạ và bắc cầu vẫn đúng; đối xứng không (trong đồ thị (a) của Mục B.4, đỉnh 3 đến được từ 6 nhưng 6 không đến được từ 3).
 - **B.4-5:** Phiên bản vô hướng của đồ thị có hướng (a) (V = {1, …, 6}, E = {(1,2), (2,2), (2,4), (2,5), (4,1), (4,5), (5,4), (6,3)}) là gì? Phiên bản có hướng của đồ thị vô hướng (b) (E = {(1,2), (1,5), (2,5), (3,6)}) là gì? *Người tổng hợp:* phiên bản vô hướng của (a): bỏ khuyên (2, 2), gộp (4, 5) và (5, 4): E′ = {(1, 2), (1, 4), (2, 4), (2, 5), (4, 5), (3, 6)}, 6 cạnh. Phiên bản có hướng của (b): E′ = {(1, 2), (2, 1), (1, 5), (5, 1), (2, 5), (5, 2), (3, 6), (6, 3)}, 8 cạnh.
-- **B.4-6 (★):** Chứng minh có thể biểu diễn một siêu đồ thị bằng một đồ thị hai phía nếu cho quan hệ liên thuộc trong siêu đồ thị tương ứng với quan hệ kề trong đồ thị hai phía. (Gợi ý: cho một tập đỉnh của đồ thị hai phía tương ứng với các đỉnh của siêu đồ thị, tập kia tương ứng với các siêu cạnh.) *Người tổng hợp:* với siêu đồ thị (V, E_H), dựng đồ thị hai phía có V₁ = V, V₂ = E_H, cạnh (v, e) khi và chỉ khi v ∈ e. Ánh xạ ngược: từ đồ thị hai phía như vậy, mỗi đỉnh e ∈ V₂ cho siêu cạnh {v : (v, e) là cạnh}. Hai phép dựng là ngược nhau nên biểu diễn là một-một. Ví dụ siêu cạnh {1, 2, 3} và {3, 4}: đồ thị hai phía có cạnh (1, e₁), (2, e₁), (3, e₁), (3, e₂), (4, e₂).
+- **B.4-6 (★):** Chứng minh có thể biểu diễn một siêu đồ thị bằng một đồ thị hai phía nếu cho quan hệ liên thuộc trong siêu đồ thị tương ứng với quan hệ kề trong đồ thị hai phía. (Gợi ý: cho một tập đỉnh của đồ thị hai phía tương ứng với các đỉnh của siêu đồ thị, tập kia tương ứng với các siêu cạnh.)
+
+  *Người tổng hợp:* với siêu đồ thị (V, E_H), dựng đồ thị hai phía có V₁ = V, V₂ = E_H, cạnh (v, e) khi và chỉ khi v ∈ e. Ánh xạ ngược: từ đồ thị hai phía như vậy, mỗi đỉnh e ∈ V₂ cho siêu cạnh {v : (v, e) là cạnh}. Hai phép dựng là ngược nhau nên biểu diễn là một-một. Ví dụ siêu cạnh {1, 2, 3} và {3, 4}: đồ thị hai phía có cạnh (1, e₁), (2, e₁), (3, e₁), (3, e₂), (4, e₂).
 
 ### Bài tập Mục B.5 (trang 1179–1180)
 
@@ -1137,10 +1157,18 @@ Theo hiểu biết của người tổng hợp: cây thư mục của hệ đi�
   ```
 
   (Kiểm tra: có 5 hình dạng cây nhị phân 3 nút, mỗi hình dạng có 2 cách gán y, z vào hai nút không phải gốc: 10.)
-- **B.5-2:** Cho G = (V, E) là một dag có đỉnh v₀ ∈ V sao cho có **duy nhất** một đường đi từ v₀ tới mọi đỉnh v ∈ V. Chứng minh phiên bản vô hướng của G là một cây. *Người tổng hợp:* (i) v₀ có bậc vào 0: một cạnh (u, v₀) cùng đường đi v₀ ⇝ u tạo chu trình, trái với G là dag. (ii) Mỗi v ≠ v₀ có bậc vào đúng 1: ít nhất 1 vì v đến được từ v₀ qua đường đi có cạnh cuối đi vào v; nếu có hai cạnh vào (u₁, v), (u₂, v) với u₁ ≠ u₂ thì v₀ ⇝ u₁ → v và v₀ ⇝ u₂ → v là hai đường đi khác nhau tới v (khác cạnh cuối) — mâu thuẫn. Vậy |E| = |V| − 1. (iii) Dag không có khuyên và không có cặp cạnh ngược chiều (u, v), (v, u) (đó là chu trình), nên phiên bản vô hướng cũng có |V| − 1 cạnh. (iv) Phiên bản vô hướng liên thông vì mọi đỉnh nối được với v₀. Theo Định lý B.2 (4) ⇒ (1), nó là cây.
-- **B.5-3:** Chứng minh bằng quy nạp rằng trong mọi cây nhị phân khác rỗng, số nút bậc 2 ít hơn số lá đúng 1. Suy ra số nút trong của cây nhị phân đầy đủ ít hơn số lá đúng 1. *Người tổng hợp:* gọi n₂ là số nút bậc 2, n₀ là số lá. Cây một nút: n₂ = 0, n₀ = 1. Bước quy nạp theo gốc: nếu gốc có một con, cây con khác rỗng duy nhất có cùng n₂, n₀ với cả cây. Nếu gốc có hai con: n₂ = n₂ᴸ + n₂ᴿ + 1 = (n₀ᴸ − 1) + (n₀ᴿ − 1) + 1 = n₀ − 1. Trong cây nhị phân đầy đủ mọi nút trong có bậc 2, nên số nút trong = n₀ − 1. Kiểm tra: cây nhị phân đầy đủ vẽ lại ở mục 6.3 (cây có các lá vuông ■) có 7 nút trong, 8 lá.
+- **B.5-2:** Cho G = (V, E) là một dag có đỉnh v₀ ∈ V sao cho có **duy nhất** một đường đi từ v₀ tới mọi đỉnh v ∈ V. Chứng minh phiên bản vô hướng của G là một cây. *Người tổng hợp:* (i) v₀ có bậc vào 0: một cạnh (u, v₀) cùng đường đi v₀ ⇝ u tạo chu trình, trái với G là dag.
+
+  (ii) Mỗi v ≠ v₀ có bậc vào đúng 1: ít nhất 1 vì v đến được từ v₀ qua đường đi có cạnh cuối đi vào v; nếu có hai cạnh vào (u₁, v), (u₂, v) với u₁ ≠ u₂ thì v₀ ⇝ u₁ → v và v₀ ⇝ u₂ → v là hai đường đi khác nhau tới v (khác cạnh cuối) — mâu thuẫn. Vậy |E| = |V| − 1.
+
+  (iii) Dag không có khuyên và không có cặp cạnh ngược chiều (u, v), (v, u) (đó là chu trình), nên phiên bản vô hướng cũng có |V| − 1 cạnh. (iv) Phiên bản vô hướng liên thông vì mọi đỉnh nối được với v₀. Theo Định lý B.2 (4) ⇒ (1), nó là cây.
+- **B.5-3:** Chứng minh bằng quy nạp rằng trong mọi cây nhị phân khác rỗng, số nút bậc 2 ít hơn số lá đúng 1. Suy ra số nút trong của cây nhị phân đầy đủ ít hơn số lá đúng 1.
+
+  *Người tổng hợp:* gọi n₂ là số nút bậc 2, n₀ là số lá. Cây một nút: n₂ = 0, n₀ = 1. Bước quy nạp theo gốc: nếu gốc có một con, cây con khác rỗng duy nhất có cùng n₂, n₀ với cả cây. Nếu gốc có hai con: n₂ = n₂ᴸ + n₂ᴿ + 1 = (n₀ᴸ − 1) + (n₀ᴿ − 1) + 1 = n₀ − 1. Trong cây nhị phân đầy đủ mọi nút trong có bậc 2, nên số nút trong = n₀ − 1. Kiểm tra: cây nhị phân đầy đủ vẽ lại ở mục 6.3 (cây có các lá vuông ■) có 7 nút trong, 8 lá.
 - **B.5-4:** Dùng quy nạp chứng minh cây nhị phân khác rỗng có n nút có độ cao ít nhất ⌊lg n⌋. *Người tổng hợp:* chứng minh quy nạp theo h rằng cây độ cao h có nhiều nhất 2^(h+1) − 1 nút (h = 0: 1 nút; cây độ cao h có gốc cộng hai cây con độ cao ≤ h − 1: ≤ 1 + 2(2ʰ − 1) = 2^(h+1) − 1). Khi đó n ≤ 2^(h+1) − 1 < 2^(h+1), nên lg n < h + 1, tức ⌊lg n⌋ ≤ h. Ví dụ n = 7: độ cao ≥ 2, đạt được bằng cây hoàn chỉnh.
-- **B.5-5 (★):** **Độ dài đường đi trong** (internal path length) của cây nhị phân đầy đủ là tổng độ sâu của mọi nút trong; **độ dài đường đi ngoài** (external path length) là tổng độ sâu của mọi lá. Xét cây nhị phân đầy đủ có n nút trong, độ dài đường đi trong i và độ dài đường đi ngoài e. Chứng minh e = i + 2n. *Người tổng hợp:* quy nạp theo n. n = 0 (một lá): e = i = 0. Mọi cây đầy đủ n + 1 nút trong có được từ một cây n nút trong bằng cách thay một lá ở độ sâu d bằng một nút trong có hai lá con: i tăng d, e giảm d rồi tăng 2(d + 1), tức e tăng d + 2. Khi đó e + d + 2 = (i + 2n) + d + 2 = (i + d) + 2(n + 1). Kiểm tra trên cây nhị phân hoàn chỉnh độ cao 2: n = 3, i = 0 + 1 + 1 = 2, e = 4 · 2 = 8 = 2 + 6.
+- **B.5-5 (★):** **Độ dài đường đi trong** (internal path length) của cây nhị phân đầy đủ là tổng độ sâu của mọi nút trong; **độ dài đường đi ngoài** (external path length) là tổng độ sâu của mọi lá. Xét cây nhị phân đầy đủ có n nút trong, độ dài đường đi trong i và độ dài đường đi ngoài e. Chứng minh e = i + 2n.
+
+  *Người tổng hợp:* quy nạp theo n. n = 0 (một lá): e = i = 0. Mọi cây đầy đủ n + 1 nút trong có được từ một cây n nút trong bằng cách thay một lá ở độ sâu d bằng một nút trong có hai lá con: i tăng d, e giảm d rồi tăng 2(d + 1), tức e tăng d + 2. Khi đó e + d + 2 = (i + 2n) + d + 2 = (i + d) + 2(n + 1). Kiểm tra trên cây nhị phân hoàn chỉnh độ cao 2: n = 3, i = 0 + 1 + 1 = 2, e = 4 · 2 = 8 = 2 + 6.
 - **B.5-6 (★):** Gán cho mỗi lá x ở độ sâu d của cây nhị phân T một "trọng số" w(x) = 2^(−d), và gọi L là tập lá của T. Chứng minh Σ_{x ∈ L} w(x) ≤ 1 (**bất đẳng thức Kraft**). *Người tổng hợp:* quy nạp theo cấu trúc: cây một nút: lá duy nhất ở độ sâu 0, tổng 1. Nếu gốc có cây con trái Tᴸ và phải Tᴿ (có thể rỗng), mỗi lá của Tᴸ có độ sâu trong T lớn hơn 1 so với trong Tᴸ nên tổng trọng số trong T là (1/2)Sᴸ + (1/2)Sᴿ ≤ 1/2 + 1/2 = 1 (cây con rỗng có tổng 0). Dấu bằng xảy ra khi và chỉ khi cây đầy đủ. Đây chính là bất đẳng thức cho độ dài mã tiền tố ở mã Huffman (Chương 16).
 - **B.5-7 (★):** Chứng minh nếu L ≥ 2 thì mọi cây nhị phân có L lá chứa một cây con có từ L/3 tới 2L/3 lá (kể cả hai đầu). *Người tổng hợp:* bắt đầu từ gốc (L lá > 2L/3). Lặp: đang ở nút có > 2L/3 lá thì đi xuống con có nhiều lá hơn. Dừng ở nút đầu tiên có ≤ 2L/3 lá (luôn dừng, vì một lá có 1 ≤ 2L/3 lá khi L ≥ 2). Cha của nút đó có > 2L/3 lá và nút đó là con có nhiều lá hơn, nên có ít nhất một nửa số lá của cha, tức > L/3. Vậy cây con tại nút dừng có từ L/3 tới 2L/3 lá.
 
@@ -1149,7 +1177,9 @@ Theo hiểu biết của người tổng hợp: cây thư mục của hệ đi�
 Cho đồ thị vô hướng G = (V, E), một **k-tô màu** (k-coloring) của G là hàm c : V → {0, 1, …, k − 1} sao cho c(u) ≠ c(v) với mọi cạnh (u, v) ∈ E. Nói cách khác, các số 0, 1, …, k − 1 biểu diễn k màu, và hai đỉnh kề nhau phải khác màu.
 
 - **(a)** Chứng minh mọi cây đều tô được bằng 2 màu. *Người tổng hợp:* chọn một gốc r, tô mỗi đỉnh màu (độ sâu mod 2). Mỗi cạnh nối cha (độ sâu d) với con (độ sâu d + 1) nên hai đầu khác màu.
-- **(b)** Chứng minh ba mệnh đề sau tương đương: (1) G hai phía; (2) G tô được bằng 2 màu; (3) G không có chu trình độ dài lẻ. *Người tổng hợp:* (1) ⇒ (2): tô V₁ màu 0, V₂ màu 1. (2) ⇒ (3): dọc một chu trình màu phải luân phiên 0, 1, 0, 1, …; quay về đỉnh đầu sau k bước nên k chẵn. (3) ⇒ (1): xét từng thành phần liên thông, chọn đỉnh s, đặt V₁ = các đỉnh có khoảng cách (số cạnh đường đi ngắn nhất) chẵn tới s, V₂ = lẻ. Nếu có cạnh (u, v) với u, v cùng tính chẵn lẻ, thì đường ngắn nhất s ⇝ u, cạnh (u, v), đường ngắn nhất v ⇝ s tạo một đường đi khép kín độ dài lẻ, và một đường đi khép kín độ dài lẻ luôn chứa một chu trình đơn độ dài lẻ — mâu thuẫn.
+- **(b)** Chứng minh ba mệnh đề sau tương đương: (1) G hai phía; (2) G tô được bằng 2 màu; (3) G không có chu trình độ dài lẻ. *Người tổng hợp:* (1) ⇒ (2): tô V₁ màu 0, V₂ màu 1. (2) ⇒ (3): dọc một chu trình màu phải luân phiên 0, 1, 0, 1, …; quay về đỉnh đầu sau k bước nên k chẵn.
+
+  (3) ⇒ (1): xét từng thành phần liên thông, chọn đỉnh s, đặt V₁ = các đỉnh có khoảng cách (số cạnh đường đi ngắn nhất) chẵn tới s, V₂ = lẻ. Nếu có cạnh (u, v) với u, v cùng tính chẵn lẻ, thì đường ngắn nhất s ⇝ u, cạnh (u, v), đường ngắn nhất v ⇝ s tạo một đường đi khép kín độ dài lẻ, và một đường đi khép kín độ dài lẻ luôn chứa một chu trình đơn độ dài lẻ — mâu thuẫn.
 - **(c)** Cho d là bậc lớn nhất của một đỉnh trong G. Chứng minh có thể tô G bằng d + 1 màu. *Người tổng hợp:* tô tham lam theo thứ tự bất kỳ: khi tô đỉnh v, các láng giềng đã tô dùng nhiều nhất d màu, nên còn ít nhất một màu trong d + 1 màu. Ví dụ đồ thị đầy đủ d + 1 đỉnh cần đúng d + 1 màu, nên cận này chặt.
 - **(d)** Chứng minh nếu G có O(|V|) cạnh thì có thể tô G bằng O(√|V|) màu. *Người tổng hợp:* gọi |E| ≤ c|V|. Đỉnh "nặng" là đỉnh có bậc ≥ √|V|; theo bổ đề bắt tay có nhiều nhất 2|E|/√|V| ≤ 2c√|V| đỉnh nặng — cho mỗi đỉnh nặng một màu riêng. Các đỉnh còn lại cảm sinh một đồ thị có bậc lớn nhất < √|V|, tô bằng √|V| màu khác theo (c). Tổng (2c + 1)√|V| = O(√|V|) màu.
 
@@ -1160,15 +1190,33 @@ Diễn đạt lại mỗi mệnh đề sau thành một định lý về đồ t
 - **(a)** Một nhóm ít nhất hai người luôn có ít nhất hai người có cùng số bạn trong nhóm. *Định lý:* mọi đồ thị vô hướng có n ≥ 2 đỉnh có hai đỉnh cùng bậc. *Người tổng hợp:* bậc nằm trong {0, 1, …, n − 1} (n giá trị), nhưng 0 và n − 1 không thể cùng xuất hiện (đỉnh bậc n − 1 kề mọi đỉnh khác, nên không có đỉnh bậc 0). Vậy n đỉnh nhận nhiều nhất n − 1 giá trị; theo nguyên lý chuồng bồ câu, hai đỉnh cùng bậc.
 - **(b)** Mọi nhóm sáu người đều có ít nhất ba người đôi một là bạn hoặc ít nhất ba người đôi một là người lạ. *Định lý:* mọi đồ thị 6 đỉnh chứa một tam giác hoặc một tập độc lập 3 đỉnh (số Ramsey R(3, 3) ≤ 6). *Người tổng hợp:* chọn đỉnh v; trong 5 người còn lại, v có ≥ 3 bạn hoặc ≥ 3 người lạ. Giả sử có 3 bạn a, b, c. Nếu hai người nào trong a, b, c là bạn, cùng với v họ tạo tam giác; nếu không, a, b, c đôi một lạ. Trường hợp 3 người lạ đối xứng. (Với 5 người khẳng định sai: chu trình 5 đỉnh là phản ví dụ.)
 - **(c)** Mọi nhóm người có thể chia thành hai nhóm con sao cho ít nhất một nửa số bạn của mỗi người thuộc nhóm con mà người đó **không** ở trong. *Định lý:* mọi đồ thị vô hướng có phân hoạch V = V₁ ∪ V₂ mà mỗi đỉnh có ít nhất một nửa láng giềng ở phía bên kia. *Người tổng hợp:* bắt đầu với phân hoạch bất kỳ. Nếu có đỉnh v có hơn một nửa láng giềng ở cùng phía, chuyển v sang phía kia: số cạnh đi giữa hai phía tăng ít nhất 1. Số cạnh đi giữa hai phía bị chặn bởi |E| nên quá trình dừng, và khi dừng mọi đỉnh thoả điều kiện. (Đây là thuật toán tìm kiếm cục bộ cho bài toán cắt cực đại, cho xấp xỉ 1/2 — theo hiểu biết của người tổng hợp.)
-- **(d)** Nếu mỗi người trong nhóm là bạn của ít nhất một nửa số người trong nhóm, thì có thể xếp cả nhóm ngồi quanh một bàn sao cho mỗi người ngồi giữa hai người bạn. *Định lý:* đồ thị n đỉnh (n ≥ 3) mà mọi đỉnh có bậc ≥ n/2 có một chu trình Hamilton (định lý Dirac, theo hiểu biết của người tổng hợp). *Phác thảo của người tổng hợp:* đồ thị liên thông (hai đỉnh không kề có ≥ n/2 + n/2 = n láng giềng trong n − 2 đỉnh còn lại nên có láng giềng chung). Lấy đường đi đơn dài nhất P = ⟨v₁, …, v_k⟩; mọi láng giềng của v₁ và v_k nằm trên P. Vì deg(v₁) + deg(v_k) ≥ n > k − 1, tồn tại i với v₁ kề vᵢ₊₁ và v_k kề vᵢ; khi đó ⟨v₁, …, vᵢ, v_k, v_{k−1}, …, vᵢ₊₁, v₁⟩ là chu trình qua cả k đỉnh. Nếu k < n, vì đồ thị liên thông, một đỉnh ngoài chu trình kề một đỉnh trên chu trình, mở chu trình ra được đường đi dài hơn P — mâu thuẫn. Vậy k = n và chu trình đó là cách xếp ghế. (Cần n ≥ 3, xem mục Lưu ý cuối phụ lục.)
+- **(d)** Nếu mỗi người trong nhóm là bạn của ít nhất một nửa số người trong nhóm, thì có thể xếp cả nhóm ngồi quanh một bàn sao cho mỗi người ngồi giữa hai người bạn. *Định lý:* đồ thị n đỉnh (n ≥ 3) mà mọi đỉnh có bậc ≥ n/2 có một chu trình Hamilton (định lý Dirac, theo hiểu biết của người tổng hợp).
+
+  *Phác thảo của người tổng hợp:* đồ thị liên thông (hai đỉnh không kề có ≥ n/2 + n/2 = n láng giềng trong n − 2 đỉnh còn lại nên có láng giềng chung). Lấy đường đi đơn dài nhất P = ⟨v₁, …, v_k⟩; mọi láng giềng của v₁ và v_k nằm trên P. Vì deg(v₁) + deg(v_k) ≥ n > k − 1, tồn tại i với v₁ kề vᵢ₊₁ và v_k kề vᵢ; khi đó ⟨v₁, …, vᵢ, v_k, v_{k−1}, …, vᵢ₊₁, v₁⟩ là chu trình qua cả k đỉnh.
+
+  Nếu k < n, vì đồ thị liên thông, một đỉnh ngoài chu trình kề một đỉnh trên chu trình, mở chu trình ra được đường đi dài hơn P — mâu thuẫn. Vậy k = n và chu trình đó là cách xếp ghế. (Cần n ≥ 3, xem mục Lưu ý cuối phụ lục.)
 
 ### Problem B-3: Chia đôi cây (Bisecting trees)
 
 Nhiều thuật toán chia để trị trên đồ thị cần **chia đôi** (bisect) đồ thị thành hai đồ thị con có kích thước gần bằng nhau, cảm sinh bởi một phân hoạch tập đỉnh. Bài toán khảo sát việc chia đôi cây bằng cách bỏ một số ít cạnh. Yêu cầu: hai đỉnh còn nằm cùng một cây con sau khi bỏ cạnh thì phải ở cùng một phần của phân hoạch.
 
-- **(a)** Chứng minh có thể phân hoạch các đỉnh của mọi cây nhị phân n đỉnh thành hai tập A và B với |A| ≤ 3n/4 và |B| ≤ 3n/4 bằng cách bỏ đúng một cạnh. *Người tổng hợp* (giả sử n ≥ 2): với mỗi nút x gọi s(x) là số nút của cây con gốc x. Từ gốc, đi xuống con có cây con lớn hơn chừng nào cây con đó còn có ít nhất n/4 nút; dừng ở nút x có s(x) ≥ n/4 mà mọi con của x có cây con < n/4 nút. Khi đó s(x) < 1 + 2 · (n/4) = n/2 + 1. Nếu x không phải gốc, bỏ cạnh từ x tới cha: A = cây con gốc x có n/4 ≤ |A| < n/2 + 1 ≤ 3n/4 (khi n ≥ 4), và |B| = n − |A| ≤ 3n/4. Nếu x là gốc thì n = s(x) < n/2 + 1, tức n < 2, loại. Trường hợp n = 2, 3 kiểm tra trực tiếp (cây đường đi: 1 | 1 và 1 | 2, đều ≤ 3n/4).
-- **(b)** Chứng minh hằng số 3/4 ở (a) tối ưu trong trường hợp xấu nhất bằng cách cho ví dụ một cây nhị phân đơn giản mà phân hoạch cân nhất khi bỏ một cạnh có |A| = 3n/4. *Người tổng hợp:* cây 4 nút: gốc r có một con c, c có hai con d, e (về mặt đồ thị là hình sao tâm c với ba lá r, d, e). Bỏ cạnh nào cũng tách một lá: phần còn lại có 3 = 3n/4 đỉnh. *Nhận xét của người tổng hợp (xem mục Lưu ý cuối phụ lục):* với n lớn, 3/4 không đạt được. Lấy một **trọng tâm** v của cây (đỉnh mà mọi thành phần của cây bỏ v có ≤ n/2 đỉnh); v có nhiều nhất 3 láng giềng (cha và hai con), nên ba thành phần có tổng n − 1 đỉnh và thành phần lớn nhất có s ≥ (n − 1)/3. Bỏ cạnh tới thành phần đó cho hai phần s ≤ n/2 và n − s ≤ (2n + 1)/3. Mà (2n + 1)/3 < 3n/4 khi n > 4. Như vậy 3/4 là tối ưu theo nghĩa "đúng cho mọi n và đạt được với n = 4", còn về tiệm cận hằng số đúng là 2/3 (đạt được bằng cây hình sao ba nhánh đều nhau).
-- **(c)** Chứng minh bằng cách bỏ nhiều nhất O(lg n) cạnh, có thể phân hoạch các đỉnh của mọi cây nhị phân n đỉnh thành hai tập A, B với |A| = ⌊n/2⌋ và |B| = ⌈n/2⌉. *Lời giải của người tổng hợp:* đặt r = ⌊n/2⌋ là số đỉnh còn phải đưa vào A. Lặp khi r > 0: trong cây còn lại T (luôn là một cây nhị phân có gốc là gốc ban đầu và có ít nhất r + 1 nút), đi từ gốc xuống con có cây con lớn hơn chừng nào cây con hiện tại còn có > r nút; dừng ở nút x đầu tiên có s(x) ≤ r. Cha của x có ≥ r + 1 nút và x là con lớn hơn nên s(x) ≥ r/2. Bỏ cạnh từ x tới cha, đưa cả cây con gốc x vào A, đặt r ← r − s(x) ≤ r/2. Vì r giảm ít nhất một nửa mỗi lần, sau nhiều nhất ⌊lg n⌋ + 1 lần thì r = 0; mỗi lần bỏ một cạnh. Mỗi mảnh đưa vào A là nguyên một cây con đã bị tách khỏi phần còn lại bằng cạnh vừa bỏ, nên sau khi bỏ các cạnh, mỗi cây con thu được nằm trọn trong A hoặc trọn trong B — đúng yêu cầu của đề. Bất biến "cây còn lại có ít nhất r + 1 nút" được giữ: ban đầu n ≥ ⌊n/2⌋ + 1, và mỗi lần cả số nút còn lại lẫn r cùng giảm s(x). Ví dụ n = 7 là đường đi 1–2–…–7 với gốc 1: r = 3, cắt cây con {5, 6, 7} (s = 3), xong với 1 cạnh.
+- **(a)** Chứng minh có thể phân hoạch các đỉnh của mọi cây nhị phân n đỉnh thành hai tập A và B với |A| ≤ 3n/4 và |B| ≤ 3n/4 bằng cách bỏ đúng một cạnh. *Người tổng hợp* (giả sử n ≥ 2): với mỗi nút x gọi s(x) là số nút của cây con gốc x. Từ gốc, đi xuống con có cây con lớn hơn chừng nào cây con đó còn có ít nhất n/4 nút; dừng ở nút x có s(x) ≥ n/4 mà mọi con của x có cây con < n/4 nút. Khi đó s(x) < 1 + 2 · (n/4) = n/2 + 1.
+
+  Nếu x không phải gốc, bỏ cạnh từ x tới cha: A = cây con gốc x có n/4 ≤ |A| < n/2 + 1 ≤ 3n/4 (khi n ≥ 4), và |B| = n − |A| ≤ 3n/4. Nếu x là gốc thì n = s(x) < n/2 + 1, tức n < 2, loại. Trường hợp n = 2, 3 kiểm tra trực tiếp (cây đường đi: 1 | 1 và 1 | 2, đều ≤ 3n/4).
+- **(b)** Chứng minh hằng số 3/4 ở (a) tối ưu trong trường hợp xấu nhất bằng cách cho ví dụ một cây nhị phân đơn giản mà phân hoạch cân nhất khi bỏ một cạnh có |A| = 3n/4. *Người tổng hợp:* cây 4 nút: gốc r có một con c, c có hai con d, e (về mặt đồ thị là hình sao tâm c với ba lá r, d, e). Bỏ cạnh nào cũng tách một lá: phần còn lại có 3 = 3n/4 đỉnh.
+
+  *Nhận xét của người tổng hợp (xem mục Lưu ý cuối phụ lục):* với n lớn, 3/4 không đạt được. Lấy một **trọng tâm** v của cây (đỉnh mà mọi thành phần của cây bỏ v có ≤ n/2 đỉnh); v có nhiều nhất 3 láng giềng (cha và hai con), nên ba thành phần có tổng n − 1 đỉnh và thành phần lớn nhất có s ≥ (n − 1)/3. Bỏ cạnh tới thành phần đó cho hai phần s ≤ n/2 và n − s ≤ (2n + 1)/3. Mà (2n + 1)/3 < 3n/4 khi n > 4.
+
+  Như vậy 3/4 là tối ưu theo nghĩa "đúng cho mọi n và đạt được với n = 4", còn về tiệm cận hằng số đúng là 2/3 (đạt được bằng cây hình sao ba nhánh đều nhau).
+- **(c)** Chứng minh bằng cách bỏ nhiều nhất O(lg n) cạnh, có thể phân hoạch các đỉnh của mọi cây nhị phân n đỉnh thành hai tập A, B với |A| = ⌊n/2⌋ và |B| = ⌈n/2⌉.
+
+  *Lời giải của người tổng hợp:* đặt r = ⌊n/2⌋ là số đỉnh còn phải đưa vào A. Lặp khi r > 0: trong cây còn lại T (luôn là một cây nhị phân có gốc là gốc ban đầu và có ít nhất r + 1 nút), đi từ gốc xuống con có cây con lớn hơn chừng nào cây con hiện tại còn có > r nút; dừng ở nút x đầu tiên có s(x) ≤ r. Cha của x có ≥ r + 1 nút và x là con lớn hơn nên s(x) ≥ r/2. Bỏ cạnh từ x tới cha, đưa cả cây con gốc x vào A, đặt r ← r − s(x) ≤ r/2.
+
+  Vì r giảm ít nhất một nửa mỗi lần, sau nhiều nhất ⌊lg n⌋ + 1 lần thì r = 0; mỗi lần bỏ một cạnh.
+
+  Mỗi mảnh đưa vào A là nguyên một cây con đã bị tách khỏi phần còn lại bằng cạnh vừa bỏ, nên sau khi bỏ các cạnh, mỗi cây con thu được nằm trọn trong A hoặc trọn trong B — đúng yêu cầu của đề. Bất biến "cây còn lại có ít nhất r + 1 nút" được giữ: ban đầu n ≥ ⌊n/2⌋ + 1, và mỗi lần cả số nút còn lại lẫn r cùng giảm s(x).
+
+  Ví dụ n = 7 là đường đi 1–2–…–7 với gốc 1: r = 3, cắt cây con {5, 6, 7} (s = 3), xong với 1 cạnh.
 
 ### Ghi chú phụ lục (Appendix notes, trang 1182)
 
@@ -1393,7 +1441,7 @@ flowchart LR
   n0["`Phụ lục B: tập hợp, quan hệ, hàm, đồ thị, cây được định nghĩa chồng lên nhau, khái niệm sau dựng từ khái niệm trước`"]
   n1["`Mục B.1 — Tập hợp: bộ phần tử phân biệt, không lặp, không thứ tự`"]
   n0 --- n1
-  n2["`Tập 1, 2, 3, 1 bằng tập 3, 2, 1 – ℕ của sách bắt đầu từ 0`"]
+  n2["`{1, 2, 3, 1} = {1, 2, 3} = {3, 2, 1}, ℕ = {0, 1, 2, …} bắt đầu từ 0`"]
   n1 --- n2
   n3["`A = B khi và chỉ khi A ⊆ B và B ⊆ A (bao hàm hai chiều)`"]
   n1 --- n3
@@ -1405,129 +1453,141 @@ flowchart LR
   n1 --- n6
   n7["`Các công thức đếm lực lượng`"]
   n1 --- n7
-  n8["`(B.3): số phần tử của A ∪ B = của A + của B − của A ∩ B`"]
+  n8["`(B.3): |A ∪ B| = |A| + |B| − |A ∩ B|, suy ra |A ∪ B| ≤ |A| + |B|`"]
   n7 --- n8
-  n9["`(B.4): A × B có số cặp bằng tích hai lực lượng, ví dụ 2 · 3 = 6`"]
+  n9["`(B.4): |A × B| = |A| · |B|, ví dụ {a, b} × {a, b, c} có 2 · 3 = 6 cặp`"]
   n7 --- n9
-  n10["`Tập n phần tử có 2ⁿ tập con (tập luỹ thừa)`"]
+  n10["`Tập luỹ thừa: |2^S| = 2^|S| (Exercise B.1-5)`"]
   n7 --- n10
   n11["`ℤ vô hạn đếm được (song ánh với ℕ), ℝ không đếm được`"]
   n7 --- n11
-  n12["`Mục B.2 — Quan hệ hai ngôi là tập con của tích Descartes A × B`"]
-  n0 --- n12
-  n13["`Bốn tính chất: phản xạ, đối xứng, bắc cầu, phản đối xứng`"]
-  n12 --- n13
-  n14["`≤ phản xạ, bắc cầu, phản đối xứng nhưng không đối xứng`"]
+  n12["`Cặp có thứ tự (a, b) = {a, {a, b}} khác (b, a), n-bộ là phần tử của A₁ × … × Aₙ`"]
+  n1 --- n12
+  n13["`Mục B.2 — Quan hệ hai ngôi là tập con của tích Descartes A × B`"]
+  n0 --- n13
+  n14["`Bốn tính chất: phản xạ, đối xứng, bắc cầu, phản đối xứng`"]
   n13 --- n14
-  n15["`Quan hệ a = b − 1 không bắc cầu: có 3 R 4, 4 R 5 nhưng không có 3 R 5`"]
-  n13 --- n15
-  n16["`Quan hệ tương đương = phản xạ + đối xứng + bắc cầu`"]
-  n12 --- n16
-  n17["`a + b chẵn trên ℕ có hai lớp tương đương: số chẵn và số lẻ`"]
-  n16 --- n17
-  n18["`Định lý B.1: các lớp tương đương tạo phân hoạch, mọi phân hoạch cho một quan hệ tương đương`"]
-  n16 --- n18
-  n19["`Thứ tự bộ phận = phản xạ + phản đối xứng + bắc cầu, ví dụ ⊆`"]
-  n12 --- n19
-  n20["`Có thể nhiều phần tử cực đại mà không có phần tử lớn nhất (các hộp lồng nhau)`"]
-  n19 --- n20
-  n21["`Thứ tự toàn phần: thêm mọi cặp so sánh được, ví dụ ≤ trên ℕ`"]
-  n19 --- n21
-  n22["`Tiền thứ tự toàn phần chỉ cần toàn phần và bắc cầu`"]
-  n19 --- n22
-  n23["`Mục B.3 — Hàm là quan hệ gán mỗi phần tử miền xác định đúng một ảnh`"]
-  n0 --- n23
-  n24["`a mod 2 là hàm ℕ → 0, 1, còn a + b chẵn không là hàm (1 đi với cả 3 và 5)`"]
-  n23 --- n24
-  n25["`Dãy độ dài n là hàm trên 0, …, n − 1, dãy vô hạn là hàm trên ℕ`"]
-  n23 --- n25
-  n26["`Toàn ánh: tập giá trị bằng đối miền, ví dụ ⌊n/2⌋ từ ℕ vào ℕ`"]
-  n23 --- n26
-  n27["`Đơn ánh: đối số khác cho giá trị khác, ví dụ 2n từ ℕ vào ℕ`"]
-  n23 --- n27
-  n28["`Song ánh = đơn ánh + toàn ánh, song ánh từ một tập vào chính nó là hoán vị`"]
-  n23 --- n28
-  n29["`f(n) = (−1)ⁿ⌈n/2⌉ là song ánh ℕ → ℤ: 0→0, 1→−1, 2→1, 3→−2`"]
-  n28 --- n29
-  n30["`Hàm ngược: f⁻¹(m) = 2m khi m ≥ 0, bằng −2m − 1 khi m âm`"]
-  n28 --- n30
-  n31["`Mục B.4 — Đồ thị: tập đỉnh hữu hạn V cùng một quan hệ cạnh E trên V`"]
-  n0 --- n31
-  n32["`Có hướng cho phép khuyên (u, u), vô hướng dùng cặp không thứ tự, không khuyên`"]
-  n31 --- n32
-  n33["`Bậc và đếm cạnh`"]
-  n31 --- n33
-  n34["`Có hướng: bậc = bậc vào + bậc ra, đỉnh 2 của sách có bậc vào 2, bậc ra 3`"]
+  n15["`≤ phản xạ, bắc cầu, phản đối xứng nhưng không đối xứng`"]
+  n14 --- n15
+  n16["`a = b − 1 không bắc cầu: có 3 R 4, 4 R 5 nhưng không có 3 R 5`"]
+  n14 --- n16
+  n17["`Quan hệ tương đương = phản xạ + đối xứng + bắc cầu, lớp [a] = {b : a R b}`"]
+  n13 --- n17
+  n18["`a + b chẵn trên ℕ: [4] = {0, 2, 4, …}, [3] = {1, 3, 5, …}`"]
+  n17 --- n18
+  n19["`Định lý B.1: các lớp tương đương tạo phân hoạch, mọi phân hoạch cho một quan hệ tương đương`"]
+  n17 --- n19
+  n20["`Thứ tự bộ phận = phản xạ + phản đối xứng + bắc cầu, ví dụ ⊆`"]
+  n13 --- n20
+  n21["`Có thể nhiều phần tử cực đại mà không có phần tử lớn nhất (các hộp lồng nhau)`"]
+  n20 --- n21
+  n22["`Thứ tự toàn phần: thêm mọi cặp so sánh được, ví dụ ≤ trên ℕ`"]
+  n20 --- n22
+  n23["`Tiền thứ tự toàn phần chỉ cần toàn phần và bắc cầu`"]
+  n20 --- n23
+  n24["`Mục B.3 — Hàm f : A → B là quan hệ gán mỗi a ∈ A đúng một ảnh f(a)`"]
+  n0 --- n24
+  n25["`a mod 2 là hàm ℕ → {0, 1}, còn a + b chẵn không là hàm vì có cả (1, 3) và (1, 5)`"]
+  n24 --- n25
+  n26["`Dãy độ dài n là hàm trên {0, 1, …, n − 1}, dãy vô hạn là hàm trên ℕ`"]
+  n24 --- n26
+  n27["`Toàn ánh: tập giá trị bằng đối miền, ví dụ ⌊n/2⌋ : ℕ → ℕ`"]
+  n24 --- n27
+  n28["`Đơn ánh: a ≠ a′ kéo theo f(a) ≠ f(a′), ví dụ 2n : ℕ → ℕ`"]
+  n24 --- n28
+  n29["`Song ánh = đơn ánh + toàn ánh, song ánh từ một tập vào chính nó là hoán vị`"]
+  n24 --- n29
+  n30["`f(n) = (−1)ⁿ⌈n/2⌉ là song ánh ℕ → ℤ: 0→0, 1→−1, 2→1, 3→−2`"]
+  n29 --- n30
+  n31["`Hàm ngược: f⁻¹(m) = 2m nếu m ≥ 0, −2m − 1 nếu m #lt; 0`"]
+  n29 --- n31
+  n32["`Exercise B.3-1: f đơn ánh thì |A| ≤ |B|, toàn ánh thì |A| ≥ |B|`"]
+  n24 --- n32
+  n33["`Mục B.4 — Đồ thị G = (V, E): V hữu hạn, E là quan hệ hai ngôi trên V`"]
+  n0 --- n33
+  n34["`Có hướng cho phép khuyên (u, u), vô hướng dùng cặp không thứ tự {u, v}, u ≠ v`"]
   n33 --- n34
-  n35["`Bổ đề bắt tay: tổng bậc đồ thị vô hướng bằng hai lần số cạnh`"]
+  n35["`Bậc và đếm cạnh`"]
   n33 --- n35
-  n36["`Đường đi đơn không lặp đỉnh, chu trình vô hướng cần ít nhất 3 cạnh`"]
-  n31 --- n36
-  n37["`Liên thông được định nghĩa bằng lớp tương đương`"]
-  n31 --- n37
-  n38["`Thành phần liên thông: lớp của quan hệ đến được, ví dụ 1, 2, 5 – 3, 6 – 4`"]
-  n37 --- n38
-  n39["`Thành phần liên thông mạnh: lớp của đến được lẫn nhau, ví dụ 1, 2, 4, 5 – 3 – 6`"]
-  n37 --- n39
-  n40["`Đẳng cấu là song ánh đỉnh giữ cạnh, khác dãy bậc thì không đẳng cấu`"]
-  n31 --- n40
-  n41["`Các loại có tên: đầy đủ, hai phía, rừng, cây, dag (có hướng không chu trình)`"]
-  n31 --- n41
-  n42["`Mục B.5 — Cây: từ cây tự do tới cây nhị phân và cây k-phân`"]
-  n0 --- n42
-  n43["`Cây tự do là đồ thị vô hướng liên thông không chu trình`"]
-  n42 --- n43
-  n44["`Định lý B.2: cây ⇔ mọi cặp đỉnh có đúng một đường đi đơn`"]
-  n43 --- n44
-  n45["`Cây ⇔ liên thông và số cạnh = số đỉnh − 1 ⇔ không chu trình và số cạnh = số đỉnh − 1`"]
-  n43 --- n45
-  n46["`Cây ⇔ bỏ cạnh nào cũng mất liên thông ⇔ thêm cạnh nào cũng tạo chu trình`"]
-  n43 --- n46
-  n47["`Rừng 14 đỉnh gồm 3 cây có 14 − 3 = 11 cạnh`"]
-  n43 --- n47
-  n48["`Cây có gốc: chọn một đỉnh làm gốc, có cha, con, tổ tiên, hậu duệ, lá`"]
-  n42 --- n48
-  n49["`Bậc của nút là số con (không tính cha), độ cao đếm số cạnh tới lá xa nhất`"]
-  n48 --- n49
-  n50["`Cây có thứ tự phân biệt thứ tự các con của mỗi nút`"]
-  n48 --- n50
-  n51["`Cây nhị phân: cây rỗng NIL hoặc gốc cùng cây con trái và cây con phải`"]
-  n42 --- n51
-  n52["`Khác cây có thứ tự bậc ≤ 2: con duy nhất vẫn phân biệt trái hay phải`"]
+  n36["`Có hướng: bậc = bậc vào + bậc ra, đỉnh 2 của sách có bậc vào 2, bậc ra 3, bậc 5`"]
+  n35 --- n36
+  n37["`Bổ đề bắt tay (B.4-1): tổng bậc đồ thị vô hướng bằng 2|E|`"]
+  n35 --- n37
+  n38["`Exercise B.4-3: đồ thị vô hướng liên thông có |E| ≥ |V| − 1`"]
+  n35 --- n38
+  n39["`Đường đi cho lặp đỉnh, đường đi đơn thì không, chu trình vô hướng cần k ≥ 3`"]
+  n33 --- n39
+  n40["`Liên thông được định nghĩa bằng lớp tương đương`"]
+  n33 --- n40
+  n41["`Thành phần liên thông: lớp của quan hệ đến được, ví dụ {1, 2, 5}, {3, 6}, {4}`"]
+  n40 --- n41
+  n42["`Thành phần liên thông mạnh: lớp của đến được lẫn nhau, ví dụ {1, 2, 4, 5}, {3}, {6}`"]
+  n40 --- n42
+  n43["`Đẳng cấu là song ánh đỉnh giữ cạnh, hai đồ thị 5 đỉnh 7 cạnh khác bậc thì không đẳng cấu`"]
+  n33 --- n43
+  n44["`Các loại có tên: đầy đủ, hai phía, rừng, cây, dag (có hướng không chu trình)`"]
+  n33 --- n44
+  n45["`Mục B.5 — Cây: từ cây tự do tới cây nhị phân và cây k-phân`"]
+  n0 --- n45
+  n46["`Cây tự do là đồ thị vô hướng liên thông không chu trình`"]
+  n45 --- n46
+  n47["`Định lý B.2: cây ⇔ mọi cặp đỉnh có đúng một đường đi đơn`"]
+  n46 --- n47
+  n48["`Cây ⇔ liên thông và |E| = |V| − 1 ⇔ không chu trình và |E| = |V| − 1`"]
+  n46 --- n48
+  n49["`Cây ⇔ bỏ cạnh nào cũng mất liên thông ⇔ thêm cạnh nào cũng tạo chu trình`"]
+  n46 --- n49
+  n50["`Cây 14 đỉnh có 13 cạnh, rừng 14 đỉnh gồm 3 cây có 14 − 3 = 11 cạnh`"]
+  n46 --- n50
+  n51["`Cây có gốc: chọn một đỉnh làm gốc, có cha, con, tổ tiên, hậu duệ, lá`"]
+  n45 --- n51
+  n52["`Bậc của nút là số con (không tính cha), độ cao đếm số cạnh tới lá xa nhất`"]
   n51 --- n52
-  n53["`Cây nhị phân đầy đủ: mỗi nút có 0 hoặc 2 con, số lá = số nút trong + 1`"]
+  n53["`Cây có gốc 7 của sách: 12 nút, 6 lá, độ cao 4`"]
   n51 --- n53
-  n54["`Cây k-phân hoàn chỉnh: mọi lá cùng độ sâu, mọi nút trong có đúng k con`"]
-  n42 --- n54
-  n55["`Độ cao h cho kʰ lá và (kʰ − 1)/(k − 1) nút trong, theo chuỗi hình học (A.5)`"]
-  n54 --- n55
-  n56["`Nhị phân độ cao 3 có 8 lá, 7 nút trong`"]
-  n54 --- n56
-  n57["`Bài toán B-1 đến B-3 — Tô màu, đồ thị bạn bè, chia đôi cây`"]
-  n0 --- n57
-  n58["`B-1: đồ thị hai phía ⇔ tô được 2 màu ⇔ không có chu trình độ dài lẻ`"]
-  n57 --- n58
-  n59["`B-1: bậc lớn nhất d thì tô được bằng d + 1 màu, mọi cây tô được bằng 2 màu`"]
-  n57 --- n59
-  n60["`B-2: nhóm 6 người luôn có 3 người đôi một là bạn hoặc 3 người đôi một lạ`"]
-  n57 --- n60
-  n61["`B-3: bỏ 1 cạnh chia cây nhị phân thành hai phần, mỗi phần ≤ 3n/4 đỉnh`"]
-  n57 --- n61
-  n62["`B-3: bỏ O(lg n) cạnh chia được đúng ⌊n/2⌋ và ⌈n/2⌉ đỉnh`"]
-  n57 --- n62
-  n63["`Thông điệp xuyên suốt`"]
-  n0 --- n63
-  n64["`Mọi cấu trúc rời rạc của sách định nghĩa được bằng tập hợp và tích Descartes`"]
-  n63 --- n64
-  n65["`Thành phần liên thông phân hoạch tập đỉnh nhờ Định lý B.1, là bài toán tập rời nhau Chương 21`"]
-  n63 --- n65
-  n66["`Định lý B.2 là nền của cây khung Chương 23: cây khung có số cạnh = số đỉnh − 1`"]
-  n63 --- n66
-  n67["`Phải nắm quy ước của sách: đường đi cho lặp đỉnh, độ cao đếm cạnh, complete là mọi lá cùng độ sâu`"]
-  n63 --- n67
+  n54["`Cây có thứ tự phân biệt thứ tự các con của mỗi nút`"]
+  n51 --- n54
+  n55["`Cây nhị phân: cây rỗng NIL hoặc gốc cùng cây con trái và cây con phải`"]
+  n45 --- n55
+  n56["`Khác cây có thứ tự bậc ≤ 2: con duy nhất vẫn phân biệt trái hay phải`"]
+  n55 --- n56
+  n57["`Cây nhị phân đầy đủ: mỗi nút có 0 hoặc 2 con, số lá = số nút trong + 1`"]
+  n55 --- n57
+  n58["`Cây nhị phân n nút có độ cao ≥ ⌊lg n⌋ (B.5-4), Kraft: Σ 2^(−độ sâu lá) ≤ 1 (B.5-6)`"]
+  n55 --- n58
+  n59["`Cây k-phân hoàn chỉnh: mọi lá cùng độ sâu, mọi nút trong có đúng k con`"]
+  n45 --- n59
+  n60["`Độ cao h cho kʰ lá và (kʰ − 1)/(k − 1) nút trong, theo chuỗi hình học (A.5)`"]
+  n59 --- n60
+  n61["`Nhị phân độ cao 3 có 8 lá, 7 nút trong`"]
+  n59 --- n61
+  n62["`Bài toán B-1 đến B-3 — Tô màu, đồ thị bạn bè, chia đôi cây`"]
+  n0 --- n62
+  n63["`B-1: đồ thị hai phía ⇔ tô được 2 màu ⇔ không có chu trình độ dài lẻ`"]
+  n62 --- n63
+  n64["`B-1: bậc lớn nhất d thì tô được bằng d + 1 màu, mọi cây tô được bằng 2 màu`"]
+  n62 --- n64
+  n65["`B-2: nhóm ≥ 2 người luôn có hai người cùng số bạn`"]
+  n62 --- n65
+  n66["`B-2: nhóm 6 người luôn có 3 người đôi một là bạn hoặc 3 người đôi một lạ`"]
+  n62 --- n66
+  n67["`B-3: bỏ 1 cạnh chia cây nhị phân thành hai phần, mỗi phần ≤ 3n/4 đỉnh`"]
+  n62 --- n67
+  n68["`B-3: bỏ O(lg n) cạnh chia được đúng ⌊n/2⌋ và ⌈n/2⌉ đỉnh`"]
+  n62 --- n68
+  n69["`Thông điệp xuyên suốt`"]
+  n0 --- n69
+  n70["`Mọi cấu trúc rời rạc của sách định nghĩa được bằng tập hợp và tích Descartes`"]
+  n69 --- n70
+  n71["`Thành phần liên thông phân hoạch tập đỉnh nhờ Định lý B.1, là bài toán tập rời nhau Chương 21`"]
+  n69 --- n71
+  n72["`Định lý B.2 là nền của cây khung Chương 23: cây khung có |V| − 1 cạnh`"]
+  n69 --- n72
+  n73["`Phải nắm quy ước của sách: đường đi cho lặp đỉnh, độ cao đếm cạnh, complete là mọi lá cùng độ sâu`"]
+  n69 --- n73
   class n0 root
-  class n1,n12,n23,n31,n42,n57,n63 branch
-  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n43,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n58,n59,n60,n61,n62,n64,n65,n66,n67 leaf
+  class n1,n13,n24,n33,n45,n62,n69 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n63,n64,n65,n66,n67,n68,n70,n71,n72,n73 leaf
 ```
 
 ## Nguồn
