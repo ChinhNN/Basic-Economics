@@ -1,23 +1,14 @@
 # Phụ lục D — Ma trận (Matrices)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VIII "Appendix: Mathematical Background", Phụ lục D "Matrices", trang 1217–1230 (phần mở đầu, Mục D.1, Mục D.2, Bài toán D-1 và D-2, Ghi chú phụ lục; trang 1230 để trống).
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (ba người đầu ở MIT, Stein ở Đại học Columbia); cuốn sách thường được gọi tắt là "CLRS" theo chữ cái đầu tên họ.
-**Vị trí trong lập luận của cả cuốn sách:** Phụ lục D là phụ lục cuối cùng của Phần VIII, bộ tài liệu tra cứu toán học của cuốn sách. Lời giới thiệu Phần VIII (tóm tắt trong [PA-tong.md](PA-tong.md)) nói về phụ lục này một câu: nó định nghĩa ma trận, các phép toán trên ma trận và vài tính chất cơ bản; người đã học đại số tuyến tính hầu như đã biết hết, nhưng nên có một chỗ để tra ký hiệu và định nghĩa của sách. Ba phụ lục còn lại là Phụ lục A ([PA-tong.md](PA-tong.md): tổng), Phụ lục B ([PB-tap-hop-va-cau-truc-roi-rac.md](PB-tap-hop-va-cau-truc-roi-rac.md): tập hợp, quan hệ, hàm, đồ thị, cây) và Phụ lục C ([PC-dem-va-xac-suat.md](PC-dem-va-xac-suat.md): đếm và xác suất). Các chương dùng trực tiếp nội dung phụ lục này: Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)) cài đặt công thức nhân ma trận (D.2) thành SQUARE-MATRIX-MULTIPLY chạy Θ(n³) rồi hạ xuống Θ(n^lg 7) bằng thuật toán Strassen; Chương 25 ([C25-duong-di-ngan-nhat-moi-cap-dinh.md](C25-duong-di-ngan-nhat-moi-cap-dinh.md)) dùng một phép "nhân ma trận" với min thay cho cộng và cộng thay cho nhân để tính đường đi ngắn nhất mọi cặp đỉnh; Chương 27 ([C27-thuat-toan-da-luong.md](C27-thuat-toan-da-luong.md)) song song hoá phép nhân ma trận; Chương 28 ([C28-phep-toan-ma-tran.md](C28-phep-toan-ma-tran.md)) là người dùng chính: phân rã LU và LUP dùng ma trận tam giác dưới đơn vị, tam giác trên, ma trận hoán vị; nghịch đảo ma trận dùng tính duy nhất của nghịch đảo và (BA)⁻¹ = A⁻¹B⁻¹; Mục 28.3 dùng ma trận đối xứng xác định dương và Định lý D.6 (AᵀA xác định dương khi A có hạng cột đầy đủ) cho bài toán bình phương tối thiểu; Chương 29 ([C29-quy-hoach-tuyen-tinh.md](C29-quy-hoach-tuyen-tinh.md)) viết quy hoạch tuyến tính dưới dạng ma trận Ax ≤ b; Chương 30 ([C30-da-thuc-va-fft.md](C30-da-thuc-va-fft.md)) dùng định thức Vandermonde (Bài toán D-1) và Định lý D.5 để chứng minh nội suy đa thức là duy nhất (Định lý 30.1).
-**Ý chính:** Phụ lục muốn người đọc nắm **bộ từ vựng và ký hiệu ma trận mà sách dùng ở các chương sau — ma trận, vectơ cột, chuyển vị, các loại ma trận vuông đặc biệt (đường chéo, đơn vị, ba đường chéo, tam giác trên/dưới, hoán vị, đối xứng), các phép cộng, nhân vô hướng, nhân ma trận; và các tính chất cơ bản: nghịch đảo, độc lập tuyến tính, hạng, định thức, ma trận xác định dương — cùng một chuỗi định lý nối các khái niệm này với nhau: hạng đầy đủ ⇔ không suy biến ⇔ không có vectơ không ⇔ định thức khác 0.** Phần mở đầu chỉ nói ma trận có mặt trong rất nhiều ứng dụng, không riêng tính toán khoa học. Mục D.1 định nghĩa ma trận m × n A = (aᵢⱼ), tập ℝ^(m×n) và S^(m×n), chuyển vị Aᵀ, vectơ (dạng chuẩn là vectơ cột, chuyển vị thành vectơ hàng), vectơ đơn vị eᵢ, ma trận không; bảy loại ma trận vuông đặc biệt; phép cộng theo từng phần tử, nhân vô hướng, ma trận đối, phép trừ; phép nhân cᵢⱼ = Σₖ aᵢₖbₖⱼ (D.2) với điều kiện tương thích, tốn n³ phép nhân và n²(n − 1) phép cộng với ma trận vuông; các luật: đơn vị, nhân với ma trận không, kết hợp, phân phối, và **không giao hoán** khi n > 1; tích trong xᵀy, tích ngoài xyᵀ, chuẩn Euclid ‖x‖ = (xᵀx)^(1/2). Mục D.2 định nghĩa nghịch đảo A⁻¹ (ma trận suy biến và không suy biến), (BA)⁻¹ = A⁻¹B⁻¹, (A⁻¹)ᵀ = (Aᵀ)⁻¹; phụ thuộc và độc lập tuyến tính; hạng cột, hạng hàng, hạng (hai cái luôn bằng nhau), định nghĩa tương đương "hạng là r nhỏ nhất để A = BC với B cỡ m × r, C cỡ r × n"; Định lý D.1 (vuông có hạng đầy đủ ⇔ không suy biến), Định lý D.2 (hạng cột đầy đủ ⇔ không có vectơ không) và Hệ quả D.3; định thức định nghĩa đệ quy bằng khai triển theo hàng đầu với các ma trận con (minor) và phần bù đại số (cofactor), Định lý D.4 (năm tính chất của định thức và det(AB) = det(A)det(B)), Định lý D.5 (suy biến ⇔ det = 0); ma trận xác định dương xᵀAx > 0 và Định lý D.6 kèm chứng minh. Bài toán D-1 chứng minh định thức Vandermonde bằng Π (xₖ − xⱼ); Bài toán D-2 nghiên cứu các hoán vị của {0, 1, …, 2ⁿ − 1} sinh bởi phép nhân ma trận 0-1 với vectơ bit trên trường GF(2), và chỉ ra rằng các "hoán vị tuyến tính" x ↦ Ax + c chỉ là một phần rất nhỏ của mọi hoán vị.
+## Ý chính
 
-> **Lưu ý:**
-> - **Không có mục có dấu sao (★) trong phụ lục này, và không bài tập hay bài toán nào có dấu sao.** Phụ lục gồm hai mục (D.1, D.2), 4 bài tập ở Mục D.1, 8 bài tập ở Mục D.2, 2 bài toán (D-1, D-2) và một ghi chú ngắn. Không có pseudocode và không có hình đánh số.
-> - **Số trang:** trang 1216 là Ghi chú của Phụ lục C. Phụ lục D bắt đầu ở trang 1217, Bài toán D-2 kết thúc và Ghi chú phụ lục nằm ở trang 1229, trang 1230 trống, trang 1231 đã là Tài liệu tham khảo (Bibliography). Đã kiểm tra trên ảnh trang.
-> - **Lớp chữ PDF hỏng gần như mọi ký hiệu toán của phụ lục:** dấu bằng thành `D` (`AD .aij/` là A = (aᵢⱼ)), dấu trừ thành `/NUL` (`A/NUL1` là A⁻¹, `.n/NUL1/` là (n − 1)), dấu cộng thành `C`, dấu nhân × mất hẳn (`2 3 matrix` là ma trận 2 × 3, `Rm/STXn` là ℝ^(m×n)), ≠ thành `¤`, Θ thành `‚`, λ mất hẳn (`If  is a number` là "Nếu λ là một số"), ≥ mất trong chứng minh Định lý D.6 (`kAxk2 0` là ‖Ax‖² ≥ 0), ≤ mất trong Exercise D.2-8 và trong chỉ số của tích Vandermonde (`0j< kn/NUL1` là 0 ≤ j < k ≤ n − 1), π mất trong Bài toán D-2 (`A.3/` là π_A(3)), ⊆ mất (`S  Sn` là S ⊆ Sₙ); mọi ma trận bị tách thành các dãy số dính liền (`123 456` là ma trận (1 2 3; 4 5 6); `41 19` là hàng (4 11 9)); dấu ngoặc lớn thành ký tự lạ `˙`, `/BEL`, `ˇ`, `‚`; chỉ số dưới A[ij] của ma trận con thành `AŒij`. Toàn bộ định nghĩa, công thức (D.1), (D.2), các ma trận ví dụ, Định lý D.1–D.6, bài tập và hai bài toán trong bản tổng hợp này được chép lại từ ảnh trang 1217–1229.
-> - **Chỗ diễn đạt chưa chặt (nhận xét của người tổng hợp):**
->   - Định nghĩa ma trận hoán vị (trang 1220) viết "có đúng một số 1 ở mỗi hàng **hoặc** cột" (exactly one 1 in each row or column). Phải là "mỗi hàng **và** mỗi cột": ma trận (1 0; 1 0) có đúng một số 1 ở mỗi hàng nhưng không phải ma trận hoán vị (nó suy biến, nhân với vectơ (a, b)ᵀ cho (a, a)ᵀ chứ không hoán vị gì cả).
->   - Trang 1221 nói SQUARE-MATRIX-MULTIPLY "thực hiện n³ phép nhân và n²(n − 1) phép cộng". Con số n²(n − 1) là số phép cộng **cần thiết** (mỗi cᵢⱼ là tổng n tích, cần n − 1 phép cộng). Còn pseudocode ở Mục 4.2 gán cᵢⱼ = 0 rồi thực hiện cᵢⱼ = cᵢⱼ + aᵢₖ · bₖⱼ đúng n lần, tức n³ phép cộng nếu đếm từng dòng. Không ảnh hưởng tới kết luận Θ(n³).
->   - Hạng cột và hạng hàng được định nghĩa cho "ma trận khác không" (nonzero matrix), sau đó sách nói thêm hạng của ma trận không là 0. Hai câu không mâu thuẫn, nhưng nếu coi tập rỗng là tập độc lập tuyến tính thì định nghĩa chung "kích thước tập cột độc lập lớn nhất" áp dụng được luôn cho ma trận không, khỏi cần trường hợp riêng.
->   - Định nghĩa ma trận xác định dương (trang 1225) chỉ đòi xᵀAx > 0, **không** đòi A đối xứng. Theo định nghĩa này, A = (1 1; −1 1) là xác định dương (xᵀAx = x₁² + x₂²) dù không đối xứng. Chương 28 luôn nói "ma trận đối xứng xác định dương" (symmetric positive-definite) nên không bị ảnh hưởng; nhiều sách đại số tuyến tính chỉ dùng thuật ngữ "xác định dương" cho ma trận đối xứng — theo hiểu biết của người tổng hợp.
->   - Exercise D.2-6, câu thứ hai ("nếu B là ma trận m × n bất kỳ thì BABᵀ đối xứng") chỉ đúng khi A đối xứng, giả thiết lấy từ câu thứ nhất; nếu A không đối xứng thì sai, ví dụ B = I₂, A = (0 1; 0 0).
->   - Bài toán D-2(a) yêu cầu kết luận "A định nghĩa một hoán vị **chỉ khi** A có hạng đầy đủ". Thực ra là **khi và chỉ khi** (hạng đầy đủ thì |R(A)| = 2ⁿ nên ánh xạ là toàn ánh trên tập hữu hạn, do đó song ánh). Không sai, chỉ yếu hơn mức có thể.
-> - **Mọi ví dụ số trong sách đã được tự kiểm tra lại và đúng:** chuyển vị của (1 2 3; 4 5 6); hai tích AB = (1 0; 0 0) và BA = (0 0; 0 1) trong ví dụ không giao hoán; nghịch đảo (1 1; 1 0)⁻¹ = (0 1; 1 −1); quan hệ phụ thuộc 2x₁ + 3x₂ − 2x₃ = 0 với x₁ = (1 2 3), x₂ = (2 6 4), x₃ = (4 11 9); hoán vị π_A(0) = 0, π_A(1) = 3, π_A(2) = 2, π_A(3) = 1 và π_{A,c}(0) = 2, π_{A,c}(1) = 1, π_{A,c}(2) = 0, π_{A,c}(3) = 3 trong Bài toán D-2; ví dụ khối B(S, m) với n = 3, m = 1, S = {1, 4, 5}. Không phát hiện lỗi số học.
-> - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** Phần VIII vẫn kết thúc bằng Phụ lục D "Matrices" với hai mục về định nghĩa/phép toán và tính chất cơ bản. Người tổng hợp không nhớ chắc các thay đổi về bài tập, bài toán hay lời văn nên không liệt kê.
+Phụ lục muốn người đọc nắm **bộ từ vựng và ký hiệu ma trận mà sách dùng ở các chương sau — ma trận, vectơ cột, chuyển vị, các loại ma trận vuông đặc biệt (đường chéo, đơn vị, ba đường chéo, tam giác trên/dưới, hoán vị, đối xứng), các phép cộng, nhân vô hướng, nhân ma trận; và các tính chất cơ bản: nghịch đảo, độc lập tuyến tính, hạng, định thức, ma trận xác định dương — cùng một chuỗi định lý nối các khái niệm này với nhau: hạng đầy đủ ⇔ không suy biến ⇔ không có vectơ không ⇔ định thức khác 0.**
+
+Phần mở đầu chỉ nói ma trận có mặt trong rất nhiều ứng dụng, không riêng tính toán khoa học. Mục D.1 định nghĩa ma trận m × n A = (aᵢⱼ), tập ℝ^(m×n) và S^(m×n), chuyển vị Aᵀ, vectơ (dạng chuẩn là vectơ cột, chuyển vị thành vectơ hàng), vectơ đơn vị eᵢ, ma trận không; bảy loại ma trận vuông đặc biệt; phép cộng theo từng phần tử, nhân vô hướng, ma trận đối, phép trừ; phép nhân cᵢⱼ = Σₖ aᵢₖbₖⱼ (D.2) với điều kiện tương thích, tốn n³ phép nhân và n²(n − 1) phép cộng với ma trận vuông; các luật: đơn vị, nhân với ma trận không, kết hợp, phân phối, và **không giao hoán** khi n > 1; tích trong xᵀy, tích ngoài xyᵀ, chuẩn Euclid ‖x‖ = (xᵀx)^(1/2).
+
+Mục D.2 định nghĩa nghịch đảo A⁻¹ (ma trận suy biến và không suy biến), (BA)⁻¹ = A⁻¹B⁻¹, (A⁻¹)ᵀ = (Aᵀ)⁻¹; phụ thuộc và độc lập tuyến tính; hạng cột, hạng hàng, hạng (hai cái luôn bằng nhau), định nghĩa tương đương "hạng là r nhỏ nhất để A = BC với B cỡ m × r, C cỡ r × n"; Định lý D.1 (vuông có hạng đầy đủ ⇔ không suy biến), Định lý D.2 (hạng cột đầy đủ ⇔ không có vectơ không) và Hệ quả D.3; định thức định nghĩa đệ quy bằng khai triển theo hàng đầu với các ma trận con (minor) và phần bù đại số (cofactor), Định lý D.4 (năm tính chất của định thức và det(AB) = det(A)det(B)), Định lý D.5 (suy biến ⇔ det = 0); ma trận xác định dương xᵀAx > 0 và Định lý D.6 kèm chứng minh.
+
+Bài toán D-1 chứng minh định thức Vandermonde bằng Π (xₖ − xⱼ); Bài toán D-2 nghiên cứu các hoán vị của {0, 1, …, 2ⁿ − 1} sinh bởi phép nhân ma trận 0-1 với vectơ bit trên trường GF(2), và chỉ ra rằng các "hoán vị tuyến tính" x ↦ Ax + c chỉ là một phần rất nhỏ của mọi hoán vị.
 
 ## Sơ đồ
 
@@ -329,7 +320,7 @@ L = ⎜ l₂₁  l₂₂  …   0  ⎟
 
 Ma trận tam giác dưới được gọi là **tam giác dưới đơn vị** (unit lower-triangular) nếu mọi phần tử trên đường chéo đều bằng 1. Ví dụ (người tổng hợp): (1 0 0; 2 1 0; 5 −3 1) là tam giác dưới đơn vị, còn (2 1 4; 0 3 −1; 0 0 7) là tam giác trên (không đơn vị).
 
-**6. Ma trận hoán vị** (permutation matrix) P có đúng một số 1 ở mỗi hàng và mỗi cột (sách in "mỗi hàng hoặc cột" — xem khối Lưu ý), và số 0 ở mọi chỗ khác. Ví dụ của sách:
+**6. Ma trận hoán vị** (permutation matrix) P có đúng một số 1 ở mỗi hàng và mỗi cột (sách in "mỗi hàng hoặc cột" — xem mục Lưu ý cuối phụ lục), và số 0 ở mọi chỗ khác. Ví dụ của sách:
 
 ```text
     ⎛ 0  1  0  0  0 ⎞
@@ -401,7 +392,7 @@ SQUARE-MATRIX-MULTIPLY(A, B)
 8  return C
 ```
 
-Ba vòng lặp lồng nhau, mỗi vòng n lần, nên dòng 7 chạy n³ lần. (Về số phép cộng n²(n − 1) so với n³ lần thực hiện dòng 7, xem khối Lưu ý.)
+Ba vòng lặp lồng nhau, mỗi vòng n lần, nên dòng 7 chạy n³ lần. (Về số phép cộng n²(n − 1) so với n³ lần thực hiện dòng 7, xem mục Lưu ý cuối phụ lục.)
 
 Ví dụ chạy tay (người tổng hợp), nhân ma trận (D.1) với chuyển vị của nó: A (2 × 3) nhân Aᵀ (3 × 2) cho ma trận 2 × 2:
 
@@ -695,7 +686,9 @@ Ví dụ thêm (kiểm bằng khai triển trực tiếp): x = (2, 3, 5, −1) c
 
 ### Problem D-2: Hoán vị định nghĩa bởi phép nhân ma trận–vectơ trên GF(2) (Permutations defined by matrix-vector multiplication over GF(2))
 
-Một lớp hoán vị của các số nguyên trong tập Sₙ = {0, 1, 2, …, 2ⁿ − 1} được định nghĩa bằng phép nhân ma trận trên GF(2). Với mỗi số nguyên x trong Sₙ, ta xem biểu diễn nhị phân của nó là một vectơ n bit (x₀, x₁, x₂, …, xₙ₋₁)ᵀ, với x = Σᵢ₌₀ⁿ⁻¹ xᵢ2ⁱ (x₀ là bit thấp nhất, đứng **đầu** vectơ). Nếu A là ma trận n × n mà mọi phần tử bằng 0 hoặc 1, ta có thể định nghĩa một ánh xạ biến mỗi giá trị x trong Sₙ thành số có biểu diễn nhị phân là tích ma trận–vectơ Ax. Mọi phép tính ở đây làm trên **GF(2)**: mọi giá trị là 0 hoặc 1, và các quy tắc cộng, nhân thông thường được áp dụng, với một ngoại lệ: 1 + 1 = 0. Có thể nghĩ số học trên GF(2) giống hệt số học số nguyên, chỉ khác là chỉ giữ bit thấp nhất.
+Một lớp hoán vị của các số nguyên trong tập Sₙ = {0, 1, 2, …, 2ⁿ − 1} được định nghĩa bằng phép nhân ma trận trên GF(2). Với mỗi số nguyên x trong Sₙ, ta xem biểu diễn nhị phân của nó là một vectơ n bit (x₀, x₁, x₂, …, xₙ₋₁)ᵀ, với x = Σᵢ₌₀ⁿ⁻¹ xᵢ2ⁱ (x₀ là bit thấp nhất, đứng **đầu** vectơ). Nếu A là ma trận n × n mà mọi phần tử bằng 0 hoặc 1, ta có thể định nghĩa một ánh xạ biến mỗi giá trị x trong Sₙ thành số có biểu diễn nhị phân là tích ma trận–vectơ Ax.
+
+Mọi phép tính ở đây làm trên **GF(2)**: mọi giá trị là 0 hoặc 1, và các quy tắc cộng, nhân thông thường được áp dụng, với một ngoại lệ: 1 + 1 = 0. Có thể nghĩ số học trên GF(2) giống hệt số học số nguyên, chỉ khác là chỉ giữ bit thấp nhất.
 
 Ví dụ, với S₂ = {0, 1, 2, 3}, ma trận A = (1 0; 1 1) định nghĩa hoán vị π_A: π_A(0) = 0, π_A(1) = 3, π_A(2) = 2, π_A(3) = 1. Để thấy vì sao π_A(3) = 1, trên GF(2):
 
@@ -892,12 +885,14 @@ Mười ba trang của phụ lục không cố dạy đại số tuyến tính; 
 - **Nhiều định lý không chứng minh:** hạng hàng bằng hạng cột, Định lý D.1, D.4, D.5 đều chỉ được phát biểu. Hợp lý với một phụ lục tra cứu, nhưng người chưa học đại số tuyến tính sẽ phải tin.
 - **Định nghĩa định thức chỉ bằng khai triển theo hàng 1** — dễ viết, nhưng nếu ai cài đặt nguyên văn sẽ được thuật toán Θ(n!) (truy hồi T(n) = nT(n − 1) + Θ(n)). Phụ lục không nhắc rằng thực tế tính định thức qua phân rã LU trong Θ(n³); điều này chỉ suy ra được gián tiếp từ Định lý D.4 và Exercise D.2-2.
 - **Không có trị riêng, vectơ riêng, không gian vectơ, cơ sở, phép chiếu.** Sách không cần chúng trong các chương chính, nhưng người đọc làm tiếp về đồ thị (ma trận kề, phổ), xác suất (xích Markov) sẽ phải tìm ở sách khác.
-- **Định nghĩa xác định dương không đòi đối xứng** (xem khối Lưu ý), lệch với cách dùng phổ biến; Chương 28 bù lại bằng cách luôn nói "đối xứng xác định dương".
+- **Định nghĩa xác định dương không đòi đối xứng** (xem mục Lưu ý cuối phụ lục), lệch với cách dùng phổ biến; Chương 28 bù lại bằng cách luôn nói "đối xứng xác định dương".
 - **Vài chỗ diễn đạt lỏng:** "mỗi hàng hoặc cột" ở định nghĩa ma trận hoán vị; Exercise D.2-6 câu hai thiếu giả thiết A đối xứng; số phép cộng n²(n − 1) không khớp từng dòng với pseudocode của Mục 4.2.
 
 ### So với cách làm thực tế
 
-Theo hiểu biết của người tổng hợp: phần mềm số không bao giờ tính A⁻¹ để giải Ax = b, mà dùng phân rã LU/QR/Cholesky (Chương 28 nói điều này); không dùng định thức để kiểm tra suy biến, mà dùng số điều kiện hoặc giá trị kỳ dị nhỏ nhất, vì trên số dấu phẩy động định thức có thể cực nhỏ với ma trận hoàn toàn bình thường (ví dụ 0,1·I₁₀₀ có định thức 10⁻¹⁰⁰) và không nhỏ với ma trận gần suy biến. Phép nhân ma trận thực tế được cài đặt bằng các thư viện BLAS tối ưu theo bộ nhớ đệm (chia khối), chạy cùng Θ(n³) phép tính như (D.2) nhưng nhanh hơn cài đặt ba vòng lặp ngây thơ hàng chục lần; thuật toán Strassen và các thuật toán tiệm cận nhanh hơn ít khi được dùng vì hằng số lớn và kém ổn định số. Ma trận thưa (đa số phần tử bằng 0, như ma trận ba đường chéo) được lưu riêng các phần tử khác 0.
+Theo hiểu biết của người tổng hợp: phần mềm số không bao giờ tính A⁻¹ để giải Ax = b, mà dùng phân rã LU/QR/Cholesky (Chương 28 nói điều này); không dùng định thức để kiểm tra suy biến, mà dùng số điều kiện hoặc giá trị kỳ dị nhỏ nhất, vì trên số dấu phẩy động định thức có thể cực nhỏ với ma trận hoàn toàn bình thường (ví dụ 0,1·I₁₀₀ có định thức 10⁻¹⁰⁰) và không nhỏ với ma trận gần suy biến.
+
+Phép nhân ma trận thực tế được cài đặt bằng các thư viện BLAS tối ưu theo bộ nhớ đệm (chia khối), chạy cùng Θ(n³) phép tính như (D.2) nhưng nhanh hơn cài đặt ba vòng lặp ngây thơ hàng chục lần; thuật toán Strassen và các thuật toán tiệm cận nhanh hơn ít khi được dùng vì hằng số lớn và kém ổn định số. Ma trận thưa (đa số phần tử bằng 0, như ma trận ba đường chéo) được lưu riêng các phần tử khác 0.
 
 ### Liên hệ các chương khác
 
@@ -915,3 +910,190 @@ Theo hiểu biết của người tổng hợp: phần mềm số không bao gi�
 - **Phỏng vấn:** cài đặt nhân hai ma trận (chú ý cỡ, thứ tự vòng lặp i-k-j thân thiện bộ nhớ đệm hơn i-j-k — theo hiểu biết của người tổng hợp); xoay ma trận ảnh 90° (chuyển vị rồi đảo thứ tự cột); nhân ma trận thưa; tính số Fibonacci thứ n trong O(lg n) bằng luỹ thừa ma trận (1 1; 1 0)ⁿ — chính ma trận mà sách dùng làm ví dụ nghịch đảo.
 - **Lập trình thi đấu:** luỹ thừa nhanh ma trận cho truy hồi tuyến tính và đếm đường đi độ dài k trong đồ thị (phần tử (i, j) của Aᵏ với A là ma trận kề); khử Gauss modulo số nguyên tố để tính định thức, hạng, nghịch đảo; khử Gauss trên GF(2) bằng bitset cho bài toán XOR (cơ sở tuyến tính của một tập số — "linear basis") — dùng đúng các kết quả |R(A)| = 2ʳ và |P(A, y)| = 2ⁿ⁻ʳ của Bài toán D-2(a)(b) để đếm số tập con có XOR bằng một giá trị cho trước; định thức Vandermonde và nội suy Lagrange.
 - **Kỹ thuật phần mềm:** dùng thư viện (NumPy/BLAS/LAPACK, Eigen) thay vì tự viết; không tính nghịch đảo khi chỉ cần giải hệ; lưu ma trận hoán vị bằng mảng; với dữ liệu có cột gần phụ thuộc tuyến tính (đa cộng tuyến), biết rằng AᵀA gần suy biến và cần chính quy hoá. Trong mật mã và mã sửa lỗi, ma trận trên GF(2) là công cụ hằng ngày: mã Hamming và mã kiểm tra chẵn lẻ là các ma trận 0-1, và các lớp trộn bit trong mã khối là các hoán vị tuyến tính hoặc affine theo đúng nghĩa của Bài toán D-2.
+
+## Bản đồ tư duy
+
+Toàn cảnh Phụ lục D trên một trang: 5 nhánh lớn theo các phần của bản gốc (Mục D.1, Mục D.2, Bài toán D-1 và D-2), mỗi nhánh ghi định nghĩa, định lý và ví dụ số then chốt, thêm một nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Phụ lục D: bộ từ vựng ma trận cho các chương sau, xoay quanh chuỗi khả nghịch ⇔ hạng đầy đủ ⇔ không có vectơ không ⇔ det ≠ 0`"]
+  n1["`Mục D.1 (phần đầu) — Ma trận, vectơ và bảy loại ma trận vuông đặc biệt`"]
+  n0 --- n1
+  n2["`Ma trận và vectơ`"]
+  n1 --- n2
+  n3["`Ma trận m × n viết A = (aᵢⱼ), aᵢⱼ nằm ở hàng i, cột j`"]
+  n2 --- n3
+  n4["`Ví dụ (D.1): hàng (1 2 3) và (4 5 6) tạo ma trận 2 × 3, chuyển vị Aᵀ đổi hàng thành cột`"]
+  n2 --- n4
+  n5["`Vectơ mặc định là vectơ cột n × 1, vectơ hàng là chuyển vị của nó`"]
+  n2 --- n5
+  n6["`Bảy loại ma trận vuông, nhận dạng bằng vị trí số 0 bắt buộc`"]
+  n1 --- n6
+  n7["`Đường chéo: aᵢⱼ = 0 khi i ≠ j, đơn vị Iₙ = diag(1, …, 1)`"]
+  n6 --- n7
+  n8["`Ba đường chéo: tᵢⱼ = 0 khi khoảng cách giữa i và j lớn hơn 1`"]
+  n6 --- n8
+  n9["`Tam giác trên: 0 dưới đường chéo, tam giác dưới: 0 trên đường chéo`"]
+  n6 --- n9
+  n10["`Hoán vị: đúng một số 1 trên mỗi hàng và mỗi cột, Px sắp lại phần tử của x`"]
+  n6 --- n10
+  n11["`Đối xứng: A = Aᵀ, ví dụ các hàng (1 2 3), (2 6 4), (3 4 5)`"]
+  n6 --- n11
+  n12["`Mục D.1 (phần sau) — Phép toán và luật đại số trên ma trận`"]
+  n0 --- n12
+  n13["`Cộng, nhân vô hướng, trừ`"]
+  n12 --- n13
+  n14["`Cộng theo từng phần tử cᵢⱼ = aᵢⱼ + bᵢⱼ, ma trận không là đơn vị của phép cộng`"]
+  n13 --- n14
+  n15["`Phép nhân ma trận (D.2)`"]
+  n12 --- n15
+  n16["`A cỡ m × n và B cỡ n × p tương thích khi số cột A bằng số hàng B`"]
+  n15 --- n16
+  n17["`C = AB cỡ m × p với cᵢⱼ = Σₖ aᵢₖbₖⱼ: hàng i của A nhân cột j của B`"]
+  n15 --- n17
+  n18["`SQUARE-MATRIX-MULTIPLY (Mục 4.2) tốn n³ phép nhân, n²(n − 1) phép cộng, Θ(n³)`"]
+  n15 --- n18
+  n19["`Luật đại số: nhiều nhưng không phải mọi luật của số`"]
+  n12 --- n19
+  n20["`Phép nhân kết hợp A(BC) = (AB)C và phân phối với phép cộng`"]
+  n19 --- n20
+  n21["`Không giao hoán khi n lớn hơn 1: A = (0 1 / 0 0), B = (0 0 / 1 0) cho AB ≠ BA`"]
+  n19 --- n21
+  n22["`Tích với vectơ`"]
+  n12 --- n22
+  n23["`Tích trong xᵀy = Σ xᵢyᵢ là một số, tích ngoài xyᵀ là ma trận n × n`"]
+  n22 --- n23
+  n24["`Chuẩn Euclid ‖x‖ = (xᵀx)^(1/2) là độ dài của x`"]
+  n22 --- n24
+  n25["`Mục D.2 (phần đầu) — Nghịch đảo, độc lập tuyến tính, hạng và vectơ không`"]
+  n0 --- n25
+  n26["`Nghịch đảo`"]
+  n25 --- n26
+  n27["`A⁻¹ thoả AA⁻¹ = Iₙ = A⁻¹A, nếu tồn tại thì duy nhất (Bài tập D.2-1)`"]
+  n26 --- n27
+  n28["`Có nghịch đảo gọi là không suy biến, không có gọi là suy biến`"]
+  n26 --- n28
+  n29["`Ví dụ: nghịch đảo của (1 1 / 1 0) là (0 1 / 1 −1), còn (1 0 / 1 0) suy biến`"]
+  n26 --- n29
+  n30["`(BA)⁻¹ = A⁻¹B⁻¹ đảo thứ tự, và (A⁻¹)ᵀ = (Aᵀ)⁻¹`"]
+  n26 --- n30
+  n31["`Độc lập tuyến tính và hạng`"]
+  n25 --- n31
+  n32["`Ví dụ: 2(1 2 3) + 3(2 6 4) − 2(4 11 9) = 0`"]
+  n31 --- n32
+  n33["`Hạng hàng luôn bằng hạng cột, gọi chung là hạng, nằm giữa 0 và min(m, n)`"]
+  n31 --- n33
+  n34["`Định nghĩa tương đương: hạng là r nhỏ nhất để A = BC, B cỡ m × r, C cỡ r × n`"]
+  n31 --- n34
+  n35["`Hạng cột đầy đủ: ma trận m × n có hạng n, mọi cột độc lập`"]
+  n31 --- n35
+  n36["`Chuỗi định lý`"]
+  n25 --- n36
+  n37["`Định lý D.1: ma trận vuông có hạng đầy đủ ⇔ không suy biến`"]
+  n36 --- n37
+  n38["`Định lý D.2: hạng cột đầy đủ ⇔ không có vectơ không (x ≠ 0 với Ax = 0)`"]
+  n36 --- n38
+  n39["`Hệ quả D.3: ma trận vuông suy biến ⇔ có vectơ không`"]
+  n36 --- n39
+  n40["`Mục D.2 (phần sau) — Định thức và ma trận xác định dương`"]
+  n0 --- n40
+  n41["`Định thức định nghĩa đệ quy`"]
+  n40 --- n41
+  n42["`Ma trận con A[ij] bỏ hàng i, cột j, còn cỡ (n − 1) × (n − 1)`"]
+  n41 --- n42
+  n43["`det(A) = Σⱼ (−1)^(1+j) a₁ⱼ det(A[1j]), khai triển theo hàng 1`"]
+  n41 --- n43
+  n44["`Tính theo đúng định nghĩa đệ quy tốn Θ(n!), qua phân rã LU chỉ Θ(n³)`"]
+  n41 --- n44
+  n45["`Định lý D.4 và D.5`"]
+  n40 --- n45
+  n46["`Hàng hay cột toàn 0 thì det = 0, nhân một hàng với λ thì det nhân λ`"]
+  n45 --- n46
+  n47["`Cộng một hàng vào hàng khác không đổi det, đổi chỗ hai hàng đổi dấu det`"]
+  n45 --- n47
+  n48["`det(A) = det(Aᵀ) và det(AB) = det(A)·det(B)`"]
+  n45 --- n48
+  n49["`Định lý D.5: A suy biến ⇔ det(A) = 0`"]
+  n45 --- n49
+  n50["`Ma trận xác định dương`"]
+  n40 --- n50
+  n51["`A xác định dương nếu xᵀAx lớn hơn 0 với mọi x ≠ 0, ví dụ Iₙ`"]
+  n50 --- n51
+  n52["`Định lý D.6: A có hạng cột đầy đủ thì AᵀA xác định dương`"]
+  n50 --- n52
+  n53["`Chứng minh: xᵀAᵀAx = ‖Ax‖² ≥ 0, bằng 0 kéo theo Ax = 0 nên x = 0`"]
+  n50 --- n53
+  n54["`Định lý D.6 bảo đảm bài toán bình phương tối thiểu ở Mục 28.3 giải được`"]
+  n50 --- n54
+  n55["`Bài toán D-1 và D-2 — Định thức Vandermonde và hoán vị bit trên GF(2)`"]
+  n0 --- n55
+  n56["`D-1: ma trận Vandermonde`"]
+  n55 --- n56
+  n57["`Hàng k của V là (1, xₖ, …, xₖⁿ⁻¹), det V bằng tích các hiệu (xₖ − xⱼ) với j nhỏ hơn k`"]
+  n56 --- n57
+  n58["`Chứng minh: trừ x₀ lần cột i khỏi cột i + 1 từ phải sang trái, rồi quy nạp`"]
+  n56 --- n58
+  n59["`det V ≠ 0 khi các xₖ đôi một khác nhau, nền của nội suy duy nhất (Định lý 30.1)`"]
+  n56 --- n59
+  n60["`D-2: phép nhân ma trận 0-1 với vectơ bit trên GF(2)`"]
+  n55 --- n60
+  n61["`Trên GF(2) có 1 + 1 = 0, ví dụ A = (1 0 / 1 1) cho hoán vị 0→0, 1→3, 2→2, 3→1`"]
+  n60 --- n61
+  n62["`(a) Hạng r thì ảnh R(A) có đúng 2ʳ phần tử, A cho hoán vị khi hạng đầy đủ`"]
+  n60 --- n62
+  n63["`(b) Mỗi giá trị y trong ảnh có đúng 2ⁿ⁻ʳ nghịch ảnh`"]
+  n60 --- n63
+  n64["`Hoán vị tuyến tính x ↦ Ax + c với A hạng đầy đủ, c là vectơ n bit`"]
+  n60 --- n64
+  n65["`(d) Không quá 2^(n² + n) hoán vị tuyến tính, rất ít so với (2ⁿ)!`"]
+  n60 --- n65
+  n66["`(e) Với n = 3, hoán vị chỉ đổi chỗ 3 và 5 không phải hoán vị tuyến tính`"]
+  n60 --- n66
+  n67["`Thông điệp xuyên suốt`"]
+  n0 --- n67
+  n68["`Với ma trận vuông, bốn điều tương đương: khả nghịch, hạng đầy đủ, không có vectơ không, det ≠ 0`"]
+  n67 --- n68
+  n69["`Nhân ma trận không giao hoán: luôn giữ thứ tự, đảo thứ tự khi chuyển vị hay nghịch đảo`"]
+  n67 --- n69
+  n70["`Chương 28 dùng ma trận tam giác, hoán vị và Định lý D.6 cho LUP và bình phương tối thiểu`"]
+  n67 --- n70
+  n71["`Chương 4, 25, 27 đều tìm cách làm phép nhân (D.2) nhanh hơn hoặc dùng lại cấu trúc của nó`"]
+  n67 --- n71
+  class n0 root
+  class n1,n12,n25,n40,n55,n67 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n54,n56,n57,n58,n59,n60,n61,n62,n63,n64,n65,n66,n68,n69,n70,n71 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VIII "Appendix: Mathematical Background", Phụ lục D "Matrices", trang 1217–1230 (phần mở đầu, Mục D.1, Mục D.2, Bài toán D-1 và D-2, Ghi chú phụ lục; trang 1230 để trống).
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (ba người đầu ở MIT, Stein ở Đại học Columbia); cuốn sách thường được gọi tắt là "CLRS" theo chữ cái đầu tên họ.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phụ lục D là phụ lục cuối cùng của Phần VIII, bộ tài liệu tra cứu toán học của cuốn sách. Lời giới thiệu Phần VIII (tóm tắt trong [PA-tong.md](PA-tong.md)) nói về phụ lục này một câu: nó định nghĩa ma trận, các phép toán trên ma trận và vài tính chất cơ bản; người đã học đại số tuyến tính hầu như đã biết hết, nhưng nên có một chỗ để tra ký hiệu và định nghĩa của sách. Ba phụ lục còn lại là Phụ lục A ([PA-tong.md](PA-tong.md): tổng), Phụ lục B ([PB-tap-hop-va-cau-truc-roi-rac.md](PB-tap-hop-va-cau-truc-roi-rac.md): tập hợp, quan hệ, hàm, đồ thị, cây) và Phụ lục C ([PC-dem-va-xac-suat.md](PC-dem-va-xac-suat.md): đếm và xác suất).
+
+Các chương dùng trực tiếp nội dung phụ lục này: Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)) cài đặt công thức nhân ma trận (D.2) thành SQUARE-MATRIX-MULTIPLY chạy Θ(n³) rồi hạ xuống Θ(n^lg 7) bằng thuật toán Strassen; Chương 25 ([C25-duong-di-ngan-nhat-moi-cap-dinh.md](C25-duong-di-ngan-nhat-moi-cap-dinh.md)) dùng một phép "nhân ma trận" với min thay cho cộng và cộng thay cho nhân để tính đường đi ngắn nhất mọi cặp đỉnh; Chương 27 ([C27-thuat-toan-da-luong.md](C27-thuat-toan-da-luong.md)) song song hoá phép nhân ma trận; Chương 28 ([C28-phep-toan-ma-tran.md](C28-phep-toan-ma-tran.md)) là người dùng chính: phân rã LU và LUP dùng ma trận tam giác dưới đơn vị, tam giác trên, ma trận hoán vị; nghịch đảo ma trận dùng tính duy nhất của nghịch đảo và (BA)⁻¹ = A⁻¹B⁻¹; Mục 28.3 dùng ma trận đối xứng xác định dương và Định lý D.6 (AᵀA xác định dương khi A có hạng cột đầy đủ) cho bài toán bình phương tối thiểu; Chương 29 ([C29-quy-hoach-tuyen-tinh.md](C29-quy-hoach-tuyen-tinh.md)) viết quy hoạch tuyến tính dưới dạng ma trận Ax ≤ b; Chương 30 ([C30-da-thuc-va-fft.md](C30-da-thuc-va-fft.md)) dùng định thức Vandermonde (Bài toán D-1) và Định lý D.5 để chứng minh nội suy đa thức là duy nhất (Định lý 30.1).
+
+## Lưu ý
+
+- **Không có mục có dấu sao (★) trong phụ lục này, và không bài tập hay bài toán nào có dấu sao.** Phụ lục gồm hai mục (D.1, D.2), 4 bài tập ở Mục D.1, 8 bài tập ở Mục D.2, 2 bài toán (D-1, D-2) và một ghi chú ngắn. Không có pseudocode và không có hình đánh số.
+- **Số trang:** trang 1216 là Ghi chú của Phụ lục C. Phụ lục D bắt đầu ở trang 1217, Bài toán D-2 kết thúc và Ghi chú phụ lục nằm ở trang 1229, trang 1230 trống, trang 1231 đã là Tài liệu tham khảo (Bibliography). Đã kiểm tra trên ảnh trang.
+- **Lớp chữ PDF hỏng gần như mọi ký hiệu toán của phụ lục:** dấu bằng thành `D` (`AD .aij/` là A = (aᵢⱼ)), dấu trừ thành `/NUL` (`A/NUL1` là A⁻¹, `.n/NUL1/` là (n − 1)), dấu cộng thành `C`, dấu nhân × mất hẳn (`2 3 matrix` là ma trận 2 × 3, `Rm/STXn` là ℝ^(m×n)), ≠ thành `¤`, Θ thành `‚`, λ mất hẳn (`If  is a number` là "Nếu λ là một số"), ≥ mất trong chứng minh Định lý D.6 (`kAxk2 0` là ‖Ax‖² ≥ 0), ≤ mất trong Exercise D.2-8 và trong chỉ số của tích Vandermonde (`0j< kn/NUL1` là 0 ≤ j < k ≤ n − 1), π mất trong Bài toán D-2 (`A.3/` là π_A(3)), ⊆ mất (`S  Sn` là S ⊆ Sₙ); mọi ma trận bị tách thành các dãy số dính liền (`123 456` là ma trận (1 2 3; 4 5 6); `41 19` là hàng (4 11 9)); dấu ngoặc lớn thành ký tự lạ `˙`, `/BEL`, `ˇ`, `‚`; chỉ số dưới A[ij] của ma trận con thành `AŒij`. Toàn bộ định nghĩa, công thức (D.1), (D.2), các ma trận ví dụ, Định lý D.1–D.6, bài tập và hai bài toán trong bản tổng hợp này được chép lại từ ảnh trang 1217–1229.
+- **Chỗ diễn đạt chưa chặt (nhận xét của người tổng hợp):**
+  - Định nghĩa ma trận hoán vị (trang 1220) viết "có đúng một số 1 ở mỗi hàng **hoặc** cột" (exactly one 1 in each row or column). Phải là "mỗi hàng **và** mỗi cột": ma trận (1 0; 1 0) có đúng một số 1 ở mỗi hàng nhưng không phải ma trận hoán vị (nó suy biến, nhân với vectơ (a, b)ᵀ cho (a, a)ᵀ chứ không hoán vị gì cả).
+  - Trang 1221 nói SQUARE-MATRIX-MULTIPLY "thực hiện n³ phép nhân và n²(n − 1) phép cộng". Con số n²(n − 1) là số phép cộng **cần thiết** (mỗi cᵢⱼ là tổng n tích, cần n − 1 phép cộng). Còn pseudocode ở Mục 4.2 gán cᵢⱼ = 0 rồi thực hiện cᵢⱼ = cᵢⱼ + aᵢₖ · bₖⱼ đúng n lần, tức n³ phép cộng nếu đếm từng dòng. Không ảnh hưởng tới kết luận Θ(n³).
+  - Hạng cột và hạng hàng được định nghĩa cho "ma trận khác không" (nonzero matrix), sau đó sách nói thêm hạng của ma trận không là 0. Hai câu không mâu thuẫn, nhưng nếu coi tập rỗng là tập độc lập tuyến tính thì định nghĩa chung "kích thước tập cột độc lập lớn nhất" áp dụng được luôn cho ma trận không, khỏi cần trường hợp riêng.
+  - Định nghĩa ma trận xác định dương (trang 1225) chỉ đòi xᵀAx > 0, **không** đòi A đối xứng. Theo định nghĩa này, A = (1 1; −1 1) là xác định dương (xᵀAx = x₁² + x₂²) dù không đối xứng. Chương 28 luôn nói "ma trận đối xứng xác định dương" (symmetric positive-definite) nên không bị ảnh hưởng; nhiều sách đại số tuyến tính chỉ dùng thuật ngữ "xác định dương" cho ma trận đối xứng — theo hiểu biết của người tổng hợp.
+  - Exercise D.2-6, câu thứ hai ("nếu B là ma trận m × n bất kỳ thì BABᵀ đối xứng") chỉ đúng khi A đối xứng, giả thiết lấy từ câu thứ nhất; nếu A không đối xứng thì sai, ví dụ B = I₂, A = (0 1; 0 0).
+  - Bài toán D-2(a) yêu cầu kết luận "A định nghĩa một hoán vị **chỉ khi** A có hạng đầy đủ". Thực ra là **khi và chỉ khi** (hạng đầy đủ thì |R(A)| = 2ⁿ nên ánh xạ là toàn ánh trên tập hữu hạn, do đó song ánh). Không sai, chỉ yếu hơn mức có thể.
+- **Mọi ví dụ số trong sách đã được tự kiểm tra lại và đúng:** chuyển vị của (1 2 3; 4 5 6); hai tích AB = (1 0; 0 0) và BA = (0 0; 0 1) trong ví dụ không giao hoán; nghịch đảo (1 1; 1 0)⁻¹ = (0 1; 1 −1); quan hệ phụ thuộc 2x₁ + 3x₂ − 2x₃ = 0 với x₁ = (1 2 3), x₂ = (2 6 4), x₃ = (4 11 9); hoán vị π_A(0) = 0, π_A(1) = 3, π_A(2) = 2, π_A(3) = 1 và π_{A,c}(0) = 2, π_{A,c}(1) = 1, π_{A,c}(2) = 0, π_{A,c}(3) = 3 trong Bài toán D-2; ví dụ khối B(S, m) với n = 3, m = 1, S = {1, 4, 5}. Không phát hiện lỗi số học.
+- **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** Phần VIII vẫn kết thúc bằng Phụ lục D "Matrices" với hai mục về định nghĩa/phép toán và tính chất cơ bản. Người tổng hợp không nhớ chắc các thay đổi về bài tập, bài toán hay lời văn nên không liệt kê.

@@ -1,21 +1,16 @@
 # Phụ lục A — Tổng (Summations)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009). Gồm hai phần: Phần VIII "Appendix: Mathematical Background" — trang tên phần (trang 1142, không in số), lời giới thiệu Phần VIII (Introduction, trang 1143–1144); và Phụ lục A "Summations", trang 1145–1157 (Mục A.1, Mục A.2, Bài toán A-1, Ghi chú phụ lục).
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (ba người đầu ở MIT, Stein ở Đại học Columbia); cuốn sách thường được gọi tắt là "CLRS" theo chữ cái đầu tên họ.
-**Vị trí trong lập luận của cả cuốn sách:** Phần I đã dựng hai công cụ toán chính của việc phân tích thuật toán: ký hiệu tiệm cận Θ, O, Ω ở Chương 3 ([C03-tang-truong-cua-ham.md](C03-tang-truong-cua-ham.md)) và cách giải truy hồi ở Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)). Phần VIII (bốn phụ lục A–D) gom các công cụ toán còn lại thành tài liệu tra cứu. Phụ lục A là phụ lục đầu tiên và được dùng nhiều nhất, vì hễ thuật toán có vòng lặp **while** hay **for** thì thời gian chạy là một tổng. Các chương dùng trực tiếp công thức của phụ lục này: Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)) cần chuỗi số học (A.1) để ra thời gian xấu nhất Θ(n²) của sắp xếp chèn; Chương 4 cần chuỗi hình học (A.5), (A.6) để cộng chi phí các tầng của cây đệ quy; Chương 6 ([C06-heapsort.md](C06-heapsort.md)) cần công thức đạo hàm (A.8) Σ k xᵏ = x/(1 − x)² để chứng minh BUILD-MAX-HEAP chạy tuyến tính; Chương 7 ([C07-quicksort.md](C07-quicksort.md)) cần chuỗi điều hoà (A.7) để chặn số phép so sánh kỳ vọng của quicksort ngẫu nhiên; Chương 11 ([C11-bang-bam.md](C11-bang-bam.md)) cần (A.1) và bất đẳng thức tích phân (A.12) cho phân tích địa chỉ mở; Chương 17 ([C17-phan-tich-khau-hao.md](C17-phan-tich-khau-hao.md)) cần chuỗi hình học (A.6) và tổng lồng nhau (A.9) cho phân tích khấu hao. Ba phụ lục còn lại của Phần VIII là Phụ lục B ([PB-tap-hop-va-cau-truc-roi-rac.md](PB-tap-hop-va-cau-truc-roi-rac.md): tập hợp, quan hệ, hàm, đồ thị, cây), Phụ lục C ([PC-dem-va-xac-suat.md](PC-dem-va-xac-suat.md): đếm và xác suất) và Phụ lục D ([PD-ma-tran.md](PD-ma-tran.md): ma trận).
-**Ý chính:** Lời giới thiệu Phần VIII nói rõ bốn phụ lục là **tài liệu tra cứu** (reference material): phần lớn người đọc đã gặp nội dung này trước đây, sách chỉ gom lại một chỗ với ký hiệu thống nhất, nhưng vẫn có bài tập để luyện kỹ năng. Phụ lục A muốn người đọc nắm hai việc: **biết sẵn một bộ công thức tổng đóng (closed form) cơ bản, và biết một bộ kỹ thuật để chặn trên, chặn dưới một tổng khi không tính được chính xác — vì thời gian chạy của mọi thuật toán có vòng lặp là tổng thời gian của các lần lặp.** Mục A.1 liệt kê không chứng minh: định nghĩa tổng hữu hạn và chuỗi vô hạn (hội tụ, phân kỳ, hội tụ tuyệt đối); tính tuyến tính, kể cả với ký hiệu Θ bên trong tổng; chuỗi số học Σₖ₌₁ⁿ k = n(n + 1)/2 = Θ(n²) (A.1)–(A.2); tổng bình phương n(n + 1)(2n + 1)/6 (A.3) và lập phương n²(n + 1)²/4 (A.4); chuỗi hình học (x^(n+1) − 1)/(x − 1) (A.5) và chuỗi hình học giảm vô hạn 1/(1 − x) khi |x| < 1 (A.6); số điều hoà Hₙ = ln n + O(1) (A.7); lấy đạo hàm chuỗi hình học được Σ k xᵏ = x/(1 − x)² (A.8); tổng lồng nhau Σ (aₖ − aₖ₋₁) = aₙ − a₀ (A.9); tích và đổi tích thành tổng bằng logarit. Mục A.2 trình bày năm kỹ thuật chặn tổng: (1) quy nạp toán học, để chứng minh giá trị chính xác hoặc một cận — kèm cảnh báo về lỗi "chứng minh" Σ k = O(n) khi dùng ký hiệu O trong bước quy nạp; (2) chặn từng số hạng, bằng số hạng lớn nhất hoặc bằng một chuỗi hình học khi tỷ số hai số hạng liên tiếp ≤ r < 1 hằng số — kèm cảnh báo chuỗi điều hoà có tỷ số < 1 nhưng vẫn phân kỳ; (3) tách tổng, bỏ một số hằng số hạng đầu hoặc chia dải chỉ số thành nhiều khúc, ví dụ chứng minh Hₙ ≤ lg n + 1 (A.10); (4) xấp xỉ bằng tích phân cho hàm đơn điệu (A.11), (A.12), cho ln(n + 1) ≤ Hₙ ≤ ln n + 1 (A.13), (A.14). Bài toán A-1 yêu cầu cận chặt cho Σ kʳ, Σ lgˢ k và Σ kʳ lgˢ k.
+## Ý chính
 
-> **Lưu ý:**
-> - **Không có mục có dấu sao (★) trong phụ lục này.** Bốn bài tập có dấu sao, đều ở Mục A.1: A.1-2 (Σ 1/(2k − 1) = ln(√n) + O(1)), A.1-4 (Σ (k − 1)/2ᵏ = 0), A.1-5 (tính Σ (2k + 1)x²ᵏ) và A.1-8 (tính tích Πₖ₌₂ⁿ (1 − 1/k²)). Không bài tập nào của Mục A.2 có dấu sao; Bài toán A-1 cũng không có.
-> - **Số trang Phần VIII:** trang 1140 là trang cuối Ghi chú Chương 35, trang 1141 trống. Trang tên "VIII Appendix: Mathematical Background" là trang 1142 (không in số), lời giới thiệu Phần VIII chiếm trang 1143 và vài dòng đầu trang 1144 (đoạn về Phụ lục D). Phụ lục A bắt đầu ở trang 1145, kết thúc ở trang 1157 (Bài toán A-1 ý c và Ghi chú phụ lục); trang 1158 đã là Phụ lục B. Đã kiểm tra trên ảnh trang.
-> - **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của phụ lục:** dấu trừ bị trích thành `/NUL` (ví dụ `xnC1/NUL 1x/NUL 1` là (x^(n+1) − 1)/(x − 1)), dấu bằng thành `D` (`kD1` là k = 1), dấu cộng thành `C`, Θ thành `‚`, ≠ thành `¤`, ∞ thành `1` trong `1X` (là Σ đến ∞), mũi tên giới hạn `n!1` là n → ∞; chỉ số trên/dưới của mọi Σ, Π, ∫ bị tách thành dòng riêng; mất hoàn toàn các dấu ≤, ≥, ⌊ ⌋, ⌈ ⌉ trong các chuỗi bất đẳng thức của Mục A.2. Mọi công thức (A.1)–(A.14), mọi chuỗi bất đẳng thức, toàn bộ bài tập và Bài toán A-1 trong bản tổng hợp này được chép lại từ ảnh trang 1145–1157. Hình A.1 (trang 1155) chỉ có trên ảnh; người tổng hợp đọc hình và mô tả lại bằng chữ và sơ đồ text.
-> - **Chỗ ký hiệu chưa chặt (nhận xét của người tổng hợp):**
->   - Bài tập A.1-6 viết Σₖ₌₁ⁿ O(fₖ(i)) = O(Σₖ₌₁ⁿ fₖ(i)): biến tiệm cận ở đây là i (không phải n), và đẳng thức chỉ đúng khi các hằng số ẩn trong n ký hiệu O bị chặn chung (cùng một hằng c và cùng một ngưỡng i₀ cho mọi k). Nếu mỗi số hạng có hằng số riêng thì với n cố định vẫn đúng (lấy c lớn nhất), nhưng nếu n cũng tăng thì không còn đúng. Câu tương tự ở Mục A.1 — Σ Θ(f(k)) = Θ(Σ f(k)), "Θ ở vế trái áp dụng cho biến k, ở vế phải cho n" — ngầm hiểu Θ(f(k)) là **một** hàm ẩn duy nhất g(k) với c₁f(k) ≤ g(k) ≤ c₂f(k) cho mọi k đủ lớn.
->   - Câu ở trang 1153–1154 mô tả khúc thứ i của chuỗi điều hoà là các số hạng "bắt đầu từ 1/2ⁱ và đi lên tới, nhưng không gồm, 1/2^(i+1)". Các số hạng trong khúc thực ra **giảm** dần từ 1/2ⁱ xuống gần 1/2^(i+1); "đi lên" chỉ đúng nếu hiểu là chỉ số tăng.
->   - Câu cuối của đoạn "Tách tổng" (trang 1152) nói kỹ thuật bỏ hằng số số hạng đầu "áp dụng khi mỗi số hạng aₖ độc lập với n". Ý là: khi aₖ không phụ thuộc n thì k₀ − 1 số hạng đầu là các hằng số thật, tổng của chúng là Θ(1). (Chính xác hơn thì là O(1); nếu các số hạng đầu đều bằng 0 thì không phải Θ(1).)
->   - Ví dụ chặn Σₖ₌₁^∞ k/3ᵏ ≤ 1 (trang 1151) đúng nhưng không chặt: giá trị chính xác là 3/4 (theo (A.8) với x = 1/3). Ví dụ chặn Σₖ₌₀^∞ k²/2ᵏ = O(1) (trang 1153) có giá trị chính xác là 6 (theo công thức của Bài tập A.1-3 với x = 1/2), còn cận sách dựng ra bằng 3/2 + 81/8 = 11,625. Đây không phải lỗi; sách chỉ cần cận tiệm cận.
-> - **Mọi phép tính và ví dụ trong sách đã được tự kiểm tra lại và đúng:** bước quy nạp của (A.1); cận Σₖ₌₀ⁿ 3ᵏ ≤ c·3ⁿ với c ≥ 3/2 (giá trị chính xác (3^(n+1) − 1)/2 < (3/2)·3ⁿ); tỷ số (1/3)(k + 2)/(k + 1) ≤ 2/3; tỷ số (k + 1)²/(2k²) ≤ 8/9 khi k ≥ 3 (bằng đúng 8/9 tại k = 3); tổng lồng nhau Σₖ₌₁ⁿ⁻¹ 1/(k(k + 1)) = 1 − 1/n; tách tổng Σ k ≥ (n/2)²; chuỗi bất đẳng thức (A.10); các cận tích phân (A.13), (A.14). Không phát hiện lỗi số học trong phụ lục.
-> - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** Phần VIII vẫn gồm bốn phụ lục A–D với cùng chủ đề; Phụ lục A vẫn có hai mục "Summation formulas and properties" và "Bounding summations" với cùng các kỹ thuật. Người tổng hợp không nhớ chắc các thay đổi về đánh số công thức, bài tập hay lời văn nên không liệt kê.
+Lời giới thiệu Phần VIII nói rõ bốn phụ lục là **tài liệu tra cứu** (reference material): phần lớn người đọc đã gặp nội dung này trước đây, sách chỉ gom lại một chỗ với ký hiệu thống nhất, nhưng vẫn có bài tập để luyện kỹ năng.
+
+Phụ lục A muốn người đọc nắm hai việc: **biết sẵn một bộ công thức tổng đóng (closed form) cơ bản, và biết một bộ kỹ thuật để chặn trên, chặn dưới một tổng khi không tính được chính xác — vì thời gian chạy của mọi thuật toán có vòng lặp là tổng thời gian của các lần lặp.**
+
+Mục A.1 liệt kê không chứng minh: định nghĩa tổng hữu hạn và chuỗi vô hạn (hội tụ, phân kỳ, hội tụ tuyệt đối); tính tuyến tính, kể cả với ký hiệu Θ bên trong tổng; chuỗi số học Σₖ₌₁ⁿ k = n(n + 1)/2 = Θ(n²) (A.1)–(A.2); tổng bình phương n(n + 1)(2n + 1)/6 (A.3) và lập phương n²(n + 1)²/4 (A.4); chuỗi hình học (x^(n+1) − 1)/(x − 1) (A.5) và chuỗi hình học giảm vô hạn 1/(1 − x) khi |x| < 1 (A.6); số điều hoà Hₙ = ln n + O(1) (A.7); lấy đạo hàm chuỗi hình học được Σ k xᵏ = x/(1 − x)² (A.8); tổng lồng nhau Σ (aₖ − aₖ₋₁) = aₙ − a₀ (A.9); tích và đổi tích thành tổng bằng logarit.
+
+Mục A.2 trình bày năm kỹ thuật chặn tổng: (1) quy nạp toán học, để chứng minh giá trị chính xác hoặc một cận — kèm cảnh báo về lỗi "chứng minh" Σ k = O(n) khi dùng ký hiệu O trong bước quy nạp; (2) chặn từng số hạng, bằng số hạng lớn nhất hoặc bằng một chuỗi hình học khi tỷ số hai số hạng liên tiếp ≤ r < 1 hằng số — kèm cảnh báo chuỗi điều hoà có tỷ số < 1 nhưng vẫn phân kỳ; (3) tách tổng, bỏ một số hằng số hạng đầu hoặc chia dải chỉ số thành nhiều khúc, ví dụ chứng minh Hₙ ≤ lg n + 1 (A.10); (4) xấp xỉ bằng tích phân cho hàm đơn điệu (A.11), (A.12), cho ln(n + 1) ≤ Hₙ ≤ ln n + 1 (A.13), (A.14).
+
+Bài toán A-1 yêu cầu cận chặt cho Σ kʳ, Σ lgˢ k và Σ kʳ lgˢ k.
 
 ## Sơ đồ
 
@@ -775,7 +770,7 @@ Phụ lục A có 8 bài tập ở Mục A.1, 5 bài tập ở Mục A.2 và m�
 - **A.1-3:** Chứng minh Σₖ₌₀^∞ k²xᵏ = x(1 + x)/(1 − x)³ với 0 < |x| < 1. *Lời giải:* lấy đạo hàm hai vế của (A.8): Σ k² xᵏ⁻¹ = d/dx [x/(1 − x)²] = [(1 − x)² + 2x(1 − x)]/(1 − x)⁴ = (1 − x + 2x)/(1 − x)³ = (1 + x)/(1 − x)³. Nhân hai vế với x. Kiểm tra x = 1/2: (1/2)(3/2)/(1/8) = 6; tổng riêng tới k = 10 là 0 + 0,5 + 1 + 1,125 + 1 + 0,781 + 0,5625 + 0,383 + 0,25 + 0,158 + 0,098 ≈ 5,86, đang tiến về 6.
 - **A.1-4 (★):** Chứng minh Σₖ₌₀^∞ (k − 1)/2ᵏ = 0. *Lời giải:* tách theo tuyến tính (cả hai chuỗi hội tụ): Σ k/2ᵏ − Σ 1/2ᵏ = 2 − 2 = 0, dùng (A.8) với x = 1/2 và (A.6) với x = 1/2. Kiểm tra trực giác: số hạng k = 0 là −1, các số hạng sau dương có tổng Σₖ₌₂^∞ (k − 1)/2ᵏ = Σⱼ₌₁^∞ j/2^(j+1) = 2/2 = 1.
 - **A.1-5 (★):** Tính Σₖ₌₁^∞ (2k + 1)x²ᵏ. *Lời giải:* đặt y = x² (cần |x| < 1 để hội tụ). Σₖ₌₁^∞ (2k + 1)yᵏ = 2Σ k yᵏ + Σₖ₌₁^∞ yᵏ = 2y/(1 − y)² + y/(1 − y) = [2y + y(1 − y)]/(1 − y)² = y(3 − y)/(1 − y)². Vậy tổng bằng x²(3 − x²)/(1 − x²)². Kiểm tra x² = 1/2: công thức cho (1/2)(5/2)/(1/4) = 5; tính trực tiếp 2·Σ k/2ᵏ + Σₖ₌₁^∞ 1/2ᵏ = 2·2 + 1 = 5.
-- **A.1-6:** Chứng minh Σₖ₌₁ⁿ O(fₖ(i)) = O(Σₖ₌₁ⁿ fₖ(i)) bằng tính tuyến tính của tổng. *Lời giải:* vế trái là Σ gₖ(i) với mỗi gₖ(i) ≤ c·fₖ(i) khi i ≥ i₀ (giả sử các hàm không âm và hằng số c, ngưỡng i₀ dùng chung cho mọi k — với n cố định có thể lấy c và i₀ là giá trị lớn nhất trong n cặp hằng số). Cộng n bất đẳng thức và dùng tuyến tính: Σ gₖ(i) ≤ Σ c·fₖ(i) = c·Σ fₖ(i), tức vế trái là O(Σ fₖ(i)). (Xem khối Lưu ý về điều kiện hằng số chung.)
+- **A.1-6:** Chứng minh Σₖ₌₁ⁿ O(fₖ(i)) = O(Σₖ₌₁ⁿ fₖ(i)) bằng tính tuyến tính của tổng. *Lời giải:* vế trái là Σ gₖ(i) với mỗi gₖ(i) ≤ c·fₖ(i) khi i ≥ i₀ (giả sử các hàm không âm và hằng số c, ngưỡng i₀ dùng chung cho mọi k — với n cố định có thể lấy c và i₀ là giá trị lớn nhất trong n cặp hằng số). Cộng n bất đẳng thức và dùng tuyến tính: Σ gₖ(i) ≤ Σ c·fₖ(i) = c·Σ fₖ(i), tức vế trái là O(Σ fₖ(i)). (Xem mục Lưu ý cuối phụ lục về điều kiện hằng số chung.)
 - **A.1-7:** Tính tích Πₖ₌₁ⁿ 2·4ᵏ. *Lời giải:* = 2ⁿ · 4^(Σₖ₌₁ⁿ k) = 2ⁿ · 4^(n(n+1)/2) = 2ⁿ · 2^(n(n+1)) = 2^(n² + 2n). Có thể làm qua logarit: lg Π = Σ (1 + 2k) = n + n(n + 1) = n² + 2n. Kiểm tra n = 2: (2·4)(2·16) = 8·32 = 256 = 2⁸.
 - **A.1-8 (★):** Tính tích Πₖ₌₂ⁿ (1 − 1/k²). *Lời giải:* 1 − 1/k² = (k − 1)(k + 1)/k² = [(k − 1)/k]·[(k + 1)/k]. Tích các thừa số (k − 1)/k với k = 2..n là 1/n (lồng nhau dạng nhân), tích các thừa số (k + 1)/k là (n + 1)/2. Vậy tích bằng (n + 1)/(2n). Kiểm tra n = 3: (3/4)(8/9) = 2/3 = 4/6. Khi n → ∞, tích tiến về 1/2.
 
@@ -920,7 +915,7 @@ Hai kỹ thuật "chặn bằng số hạng lớn nhất" và "bỏ nửa đầu
 ### Điểm yếu và chỗ đơn giản hoá
 
 - **Mục A.1 không chứng minh**, kể cả các công thức ngắn như (A.5) (nhân hai vế với x rồi trừ) hay (A.3); sách đẩy về "mọi sách giải tích". Với người đọc lâu không học toán, một dòng chứng minh cho mỗi công thức sẽ giúp nhớ lâu hơn.
-- **Ký hiệu tiệm cận bên trong tổng được nói lướt.** Câu "Θ ở vế trái áp dụng cho biến k, ở vế phải cho n" đúng nhưng không nêu điều kiện hằng số chung; Bài tập A.1-6 lại dùng biến i, dễ gây nhầm (nhận xét của người tổng hợp — xem khối Lưu ý).
+- **Ký hiệu tiệm cận bên trong tổng được nói lướt.** Câu "Θ ở vế trái áp dụng cho biến k, ở vế phải cho n" đúng nhưng không nêu điều kiện hằng số chung; Bài tập A.1-6 lại dùng biến i, dễ gây nhầm (nhận xét của người tổng hợp — xem mục Lưu ý cuối phụ lục).
 - **Thiếu một số công cụ hay dùng**: không có bất đẳng thức Σₖ₌₁ⁿ lg k = lg(n!) và công thức Stirling (nằm ở Chương 3), không có phép tổng từng phần (summation by parts), không có hàm sinh, không nhắc tới cách giải tổng bằng "nhiễu loạn" (perturbation) — những kỹ thuật mà tài liệu Knuth trong ghi chú trình bày. Với mục tiêu "tài liệu tra cứu tối thiểu" thì hợp lý, nhưng người đọc gặp tổng khó hơn phải tìm sách khác (theo hiểu biết của người tổng hợp).
 - **Hình A.1 chỉ vẽ trường hợp f tăng**; trường hợp f giảm (A.12) — trường hợp được dùng thật trong sách cho Hₙ và Chương 11 — để người đọc tự suy.
 
@@ -944,3 +939,162 @@ Trong thực tế kỹ thuật, ít ai tính tổng chính xác; người ta dù
 - **Phỏng vấn:** câu hỏi độ phức tạp hay quy về đúng các tổng của phụ lục: "vòng for i, for j từ i tới n" là Θ(n²) (chuỗi số học); "vòng for i, for j += i" là Σ n/i = n·Hₙ = Θ(n lg n) (chuỗi điều hoà); "mảng động nhân đôi" là O(1) khấu hao (chuỗi hình học); "vòng while n > 0: n /= 2, mỗi lần O(n)" là O(n) chứ không phải O(n lg n) (Bài tập A.2-2).
 - **Lập trình thi đấu:** mẫu "duyệt bội số" for d = 1..n, for bội của d tốn Θ(n lg n) nhờ chuỗi điều hoà — dùng cho sàng ước, tính hàm số học trên mọi số ≤ n. Nhận ra chuỗi hình học giúp ước lượng đúng chi phí của các cấu trúc chia đôi (cây phân đoạn có ≤ 2n nút vì n + n/2 + n/4 + … < 2n).
 - **Kỹ thuật phần mềm:** khi chọn chiến lược tăng dung lượng (nhân hệ số hay cộng hằng số), khi đặt lịch thử lại có lùi theo cấp số nhân (exponential backoff — tổng thời gian chờ chỉ bằng hằng số lần lần chờ cuối), hay khi ước lượng chi phí tổng hợp các tầng của hệ thống lưu trữ phân tầng, người kỹ sư đang dùng đúng các công thức (A.5), (A.6) (ví dụ ứng dụng là theo hiểu biết của người tổng hợp).
+
+## Bản đồ tư duy
+
+Toàn cảnh Phụ lục A trên một trang: 6 nhánh lớn theo trình tự của bản gốc (lời giới thiệu Phần VIII, Mục A.1, Mục A.2, Bài toán A-1), mỗi nhánh ghi công thức, kỹ thuật, ví dụ và con số then chốt, thêm một nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Phụ lục A: thời gian chạy của vòng lặp là một tổng – cần thuộc công thức tổng đóng và biết kỹ thuật chặn tổng`"]
+  n1["`Phần VIII và mở đầu Phụ lục A — vì sao cần tính tổng`"]
+  n0 --- n1
+  n2["`Bốn phụ lục A–D gom công cụ toán còn lại, nên dùng như tài liệu tra cứu`"]
+  n1 --- n2
+  n3["`A: tổng, B: tập hợp, quan hệ, hàm, đồ thị, cây, C: đếm và xác suất, D: ma trận`"]
+  n2 --- n3
+  n4["`Phần I đã dạy ký hiệu tiệm cận (Chương 3) và giải truy hồi (Chương 4)`"]
+  n2 --- n4
+  n5["`Vòng while hoặc for có thời gian chạy bằng tổng thời gian các lần lặp`"]
+  n1 --- n5
+  n6["`Lần lặp thứ j của sắp xếp chèn tốn thời gian tỷ lệ j, cộng lại Σⱼ₌₂ⁿ j = Θ(n²)`"]
+  n1 --- n6
+  n7["`Mục A.1 liệt kê công thức không chứng minh, Mục A.2 dạy kỹ thuật chặn tổng`"]
+  n1 --- n7
+  n8["`Mục A.1 — Định nghĩa, tính tuyến tính và tích`"]
+  n0 --- n8
+  n9["`Tổng hữu hạn luôn xác định, cộng theo thứ tự nào cũng được, n = 0 thì tổng bằng 0`"]
+  n8 --- n9
+  n10["`Chuỗi vô hạn là giới hạn các tổng riêng: tồn tại thì hội tụ, không thì phân kỳ`"]
+  n8 --- n10
+  n11["`Chỉ chuỗi hội tụ tuyệt đối (Σ của trị tuyệt đối hội tụ) mới được đổi thứ tự số hạng`"]
+  n8 --- n11
+  n12["`Tuyến tính: Σ (c·aₖ + bₖ) = c·Σ aₖ + Σ bₖ, đúng cả với chuỗi vô hạn hội tụ`"]
+  n8 --- n12
+  n13["`Đưa Θ ra ngoài tổng: Σ Θ(f(k)) = Θ(Σ f(k)), Θ vế trái theo k, vế phải theo n`"]
+  n12 --- n13
+  n14["`Tích rỗng bằng 1, đổi tích thành tổng: lg(Π aₖ) = Σ lg aₖ`"]
+  n8 --- n14
+  n15["`Mục A.1 — Các công thức tổng đóng (A.1)–(A.9)`"]
+  n0 --- n15
+  n16["`Chuỗi số học Σₖ₌₁ⁿ k = n(n + 1)/2 = Θ(n²) (A.1)–(A.2)`"]
+  n15 --- n16
+  n17["`Tổng bình phương n(n + 1)(2n + 1)/6 (A.3), tổng lập phương n²(n + 1)²/4 (A.4)`"]
+  n15 --- n17
+  n18["`Chuỗi hình học Σₖ₌₀ⁿ xᵏ = (x^(n+1) − 1)/(x − 1) với x ≠ 1 (A.5)`"]
+  n15 --- n18
+  n19["`Khi trị tuyệt đối của x nhỏ hơn 1, chuỗi vô hạn Σ xᵏ = 1/(1 − x) (A.6)`"]
+  n18 --- n19
+  n20["`Số điều hoà Hₙ = Σₖ₌₁ⁿ 1/k = ln n + O(1) (A.7)`"]
+  n15 --- n20
+  n21["`Đạo hàm (A.6) rồi nhân x được Σ k xᵏ = x/(1 − x)² (A.8)`"]
+  n15 --- n21
+  n22["`Với x = 1/2 ra Σ k/2ᵏ = 2, dùng cho BUILD-MAX-HEAP chạy tuyến tính`"]
+  n21 --- n22
+  n23["`Tổng lồng nhau Σₖ₌₁ⁿ (aₖ − aₖ₋₁) = aₙ − a₀ (A.9)`"]
+  n15 --- n23
+  n24["`Ví dụ 1/(k(k + 1)) = 1/k − 1/(k + 1) nên Σₖ₌₁ⁿ⁻¹ 1/(k(k + 1)) = 1 − 1/n`"]
+  n23 --- n24
+  n25["`Mục A.2 — Chặn tổng bằng quy nạp và chặn từng số hạng`"]
+  n0 --- n25
+  n26["`Quy nạp chứng minh giá trị chính xác, ví dụ Σ k = n(n + 1)/2`"]
+  n25 --- n26
+  n27["`Quy nạp chứng minh cận không cần biết giá trị: Σₖ₌₀ⁿ 3ᵏ ≤ c·3ⁿ khi c ≥ 3/2`"]
+  n25 --- n27
+  n28["`Cảnh báo: “chứng minh” sai Σ k = O(n) bằng O(n) + (n + 1) = O(n + 1)`"]
+  n25 --- n28
+  n29["`Lỗi: hằng số ẩn trong O tăng theo n, phải dùng cùng một hằng số cho mọi n`"]
+  n28 --- n29
+  n30["`Chặn bằng số hạng lớn nhất: Σ aₖ ≤ n nhân số hạng lớn nhất, ví dụ Σ k ≤ n²`"]
+  n25 --- n30
+  n31["`Chặn bằng chuỗi hình học: nếu aₖ₊₁/aₖ ≤ r với r hằng số nhỏ hơn 1 thì Σ aₖ ≤ a₀/(1 − r)`"]
+  n25 --- n31
+  n32["`Ví dụ Σ k/3ᵏ: a₀ = 1/3, r = 2/3 nên tổng ≤ 1 (giá trị thật 3/4)`"]
+  n31 --- n32
+  n33["`Cảnh báo: chuỗi điều hoà có tỷ số k/(k + 1) nhỏ hơn 1 nhưng vẫn phân kỳ`"]
+  n25 --- n33
+  n34["`Tỷ số tiến sát 1 tuỳ ý nên không có hằng số r nhỏ hơn 1 nào chặn được`"]
+  n33 --- n34
+  n35["`Mục A.2 — Tách tổng và xấp xỉ bằng tích phân`"]
+  n0 --- n35
+  n36["`Tách tổng để chặn dưới: bỏ nửa đầu, nửa sau mỗi số hạng ≥ n/2`"]
+  n35 --- n36
+  n37["`Σₖ₌₁ⁿ k ≥ (n/2)² = Ω(n²), cùng cận trên n² cho cận chặt Θ(n²)`"]
+  n36 --- n37
+  n38["`Bỏ hằng số số hạng đầu không phụ thuộc n: chúng góp Θ(1)`"]
+  n35 --- n38
+  n39["`Σ k²/2ᵏ: từ k = 3 tỷ số ≤ 8/9, nên tổng = O(1)`"]
+  n38 --- n39
+  n40["`Chia dải 1..n thành ⌊lg n⌋ + 1 khúc theo lũy thừa của 2, mỗi khúc góp ≤ 1`"]
+  n35 --- n40
+  n41["`Kết quả Hₙ ≤ lg n + 1 (A.10), chỉ cần phép đếm`"]
+  n40 --- n41
+  n42["`f tăng đơn điệu: tích phân từ m − 1 tới n ≤ Σₖ₌ₘⁿ f(k) ≤ tích phân từ m tới n + 1 (A.11)`"]
+  n35 --- n42
+  n43["`Lý do: hình chữ nhật rộng 1 cao f(k) đặt trên đoạn k − 1 tới k cho cận dưới, đặt trên k tới k + 1 cho cận trên`"]
+  n42 --- n43
+  n44["`f giảm đơn điệu thì đảo hai cận tích phân (A.12)`"]
+  n35 --- n44
+  n45["`Áp dụng cho số điều hoà: ln(n + 1) ≤ Hₙ ≤ ln n + 1 (A.13), (A.14)`"]
+  n35 --- n45
+  n46["`Cận trên phải tách số hạng k = 1, vì tích phân 1/x từ 0 phân kỳ (Bài tập A.2-5)`"]
+  n45 --- n46
+  n47["`Bài toán A-1 — Cận chặt cho ba họ tổng, r ≥ 0 và s ≥ 0 hằng số`"]
+  n0 --- n47
+  n48["`Σₖ₌₁ⁿ kʳ = Θ(n^(r+1))`"]
+  n47 --- n48
+  n49["`Σₖ₌₁ⁿ lgˢ k = Θ(n lgˢ n), với s = 1 là lg(n!) = Θ(n lg n)`"]
+  n47 --- n49
+  n50["`Σₖ₌₁ⁿ kʳ lgˢ k = Θ(n^(r+1) lgˢ n)`"]
+  n47 --- n50
+  n51["`Cùng một khuôn: chặn trên bằng số hạng lớn nhất, chặn dưới bằng nửa sau của tổng`"]
+  n47 --- n51
+  n52["`Thông điệp xuyên suốt`"]
+  n0 --- n52
+  n53["`Vòng lặp lồng có vòng trong chạy theo biến vòng ngoài là Θ(n²), hằng số 1/2 không đổi bậc`"]
+  n52 --- n53
+  n54["`Chi phí giảm theo cấp số nhân cho tổng bằng hằng số lần số hạng đầu, tăng thì bằng hằng số lần số hạng cuối`"]
+  n52 --- n54
+  n55["`Tỷ số nhỏ hơn 1 chưa đủ, phải bị chặn bởi hằng số r nhỏ hơn 1`"]
+  n52 --- n55
+  n56["`Quy nạp với cận tiệm cận phải viết hằng số tường minh, không để O nuốt hằng số mới`"]
+  n52 --- n56
+  n57["`Ghép cận trên và cận dưới cùng bậc để có Θ – mục tiêu của mọi phép chặn tổng`"]
+  n52 --- n57
+  class n0 root
+  class n1,n8,n15,n25,n35,n47,n52 branch
+  class n2,n3,n4,n5,n6,n7,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n48,n49,n50,n51,n53,n54,n55,n56,n57 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009). Gồm hai phần: Phần VIII "Appendix: Mathematical Background" — trang tên phần (trang 1142, không in số), lời giới thiệu Phần VIII (Introduction, trang 1143–1144); và Phụ lục A "Summations", trang 1145–1157 (Mục A.1, Mục A.2, Bài toán A-1, Ghi chú phụ lục).
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (ba người đầu ở MIT, Stein ở Đại học Columbia); cuốn sách thường được gọi tắt là "CLRS" theo chữ cái đầu tên họ.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần I đã dựng hai công cụ toán chính của việc phân tích thuật toán: ký hiệu tiệm cận Θ, O, Ω ở Chương 3 ([C03-tang-truong-cua-ham.md](C03-tang-truong-cua-ham.md)) và cách giải truy hồi ở Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)). Phần VIII (bốn phụ lục A–D) gom các công cụ toán còn lại thành tài liệu tra cứu.
+
+Phụ lục A là phụ lục đầu tiên và được dùng nhiều nhất, vì hễ thuật toán có vòng lặp **while** hay **for** thì thời gian chạy là một tổng. Các chương dùng trực tiếp công thức của phụ lục này: Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)) cần chuỗi số học (A.1) để ra thời gian xấu nhất Θ(n²) của sắp xếp chèn; Chương 4 cần chuỗi hình học (A.5), (A.6) để cộng chi phí các tầng của cây đệ quy; Chương 6 ([C06-heapsort.md](C06-heapsort.md)) cần công thức đạo hàm (A.8) Σ k xᵏ = x/(1 − x)² để chứng minh BUILD-MAX-HEAP chạy tuyến tính; Chương 7 ([C07-quicksort.md](C07-quicksort.md)) cần chuỗi điều hoà (A.7) để chặn số phép so sánh kỳ vọng của quicksort ngẫu nhiên; Chương 11 ([C11-bang-bam.md](C11-bang-bam.md)) cần (A.1) và bất đẳng thức tích phân (A.12) cho phân tích địa chỉ mở; Chương 17 ([C17-phan-tich-khau-hao.md](C17-phan-tich-khau-hao.md)) cần chuỗi hình học (A.6) và tổng lồng nhau (A.9) cho phân tích khấu hao.
+
+Ba phụ lục còn lại của Phần VIII là Phụ lục B ([PB-tap-hop-va-cau-truc-roi-rac.md](PB-tap-hop-va-cau-truc-roi-rac.md): tập hợp, quan hệ, hàm, đồ thị, cây), Phụ lục C ([PC-dem-va-xac-suat.md](PC-dem-va-xac-suat.md): đếm và xác suất) và Phụ lục D ([PD-ma-tran.md](PD-ma-tran.md): ma trận).
+
+## Lưu ý
+
+- **Không có mục có dấu sao (★) trong phụ lục này.** Bốn bài tập có dấu sao, đều ở Mục A.1: A.1-2 (Σ 1/(2k − 1) = ln(√n) + O(1)), A.1-4 (Σ (k − 1)/2ᵏ = 0), A.1-5 (tính Σ (2k + 1)x²ᵏ) và A.1-8 (tính tích Πₖ₌₂ⁿ (1 − 1/k²)). Không bài tập nào của Mục A.2 có dấu sao; Bài toán A-1 cũng không có.
+- **Số trang Phần VIII:** trang 1140 là trang cuối Ghi chú Chương 35, trang 1141 trống. Trang tên "VIII Appendix: Mathematical Background" là trang 1142 (không in số), lời giới thiệu Phần VIII chiếm trang 1143 và vài dòng đầu trang 1144 (đoạn về Phụ lục D). Phụ lục A bắt đầu ở trang 1145, kết thúc ở trang 1157 (Bài toán A-1 ý c và Ghi chú phụ lục); trang 1158 đã là Phụ lục B. Đã kiểm tra trên ảnh trang.
+- **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của phụ lục:** dấu trừ bị trích thành `/NUL` (ví dụ `xnC1/NUL 1x/NUL 1` là (x^(n+1) − 1)/(x − 1)), dấu bằng thành `D` (`kD1` là k = 1), dấu cộng thành `C`, Θ thành `‚`, ≠ thành `¤`, ∞ thành `1` trong `1X` (là Σ đến ∞), mũi tên giới hạn `n!1` là n → ∞; chỉ số trên/dưới của mọi Σ, Π, ∫ bị tách thành dòng riêng; mất hoàn toàn các dấu ≤, ≥, ⌊ ⌋, ⌈ ⌉ trong các chuỗi bất đẳng thức của Mục A.2. Mọi công thức (A.1)–(A.14), mọi chuỗi bất đẳng thức, toàn bộ bài tập và Bài toán A-1 trong bản tổng hợp này được chép lại từ ảnh trang 1145–1157. Hình A.1 (trang 1155) chỉ có trên ảnh; người tổng hợp đọc hình và mô tả lại bằng chữ và sơ đồ text.
+- **Chỗ ký hiệu chưa chặt (nhận xét của người tổng hợp):**
+  - Bài tập A.1-6 viết Σₖ₌₁ⁿ O(fₖ(i)) = O(Σₖ₌₁ⁿ fₖ(i)): biến tiệm cận ở đây là i (không phải n), và đẳng thức chỉ đúng khi các hằng số ẩn trong n ký hiệu O bị chặn chung (cùng một hằng c và cùng một ngưỡng i₀ cho mọi k). Nếu mỗi số hạng có hằng số riêng thì với n cố định vẫn đúng (lấy c lớn nhất), nhưng nếu n cũng tăng thì không còn đúng. Câu tương tự ở Mục A.1 — Σ Θ(f(k)) = Θ(Σ f(k)), "Θ ở vế trái áp dụng cho biến k, ở vế phải cho n" — ngầm hiểu Θ(f(k)) là **một** hàm ẩn duy nhất g(k) với c₁f(k) ≤ g(k) ≤ c₂f(k) cho mọi k đủ lớn.
+  - Câu ở trang 1153–1154 mô tả khúc thứ i của chuỗi điều hoà là các số hạng "bắt đầu từ 1/2ⁱ và đi lên tới, nhưng không gồm, 1/2^(i+1)". Các số hạng trong khúc thực ra **giảm** dần từ 1/2ⁱ xuống gần 1/2^(i+1); "đi lên" chỉ đúng nếu hiểu là chỉ số tăng.
+  - Câu cuối của đoạn "Tách tổng" (trang 1152) nói kỹ thuật bỏ hằng số số hạng đầu "áp dụng khi mỗi số hạng aₖ độc lập với n". Ý là: khi aₖ không phụ thuộc n thì k₀ − 1 số hạng đầu là các hằng số thật, tổng của chúng là Θ(1). (Chính xác hơn thì là O(1); nếu các số hạng đầu đều bằng 0 thì không phải Θ(1).)
+  - Ví dụ chặn Σₖ₌₁^∞ k/3ᵏ ≤ 1 (trang 1151) đúng nhưng không chặt: giá trị chính xác là 3/4 (theo (A.8) với x = 1/3). Ví dụ chặn Σₖ₌₀^∞ k²/2ᵏ = O(1) (trang 1153) có giá trị chính xác là 6 (theo công thức của Bài tập A.1-3 với x = 1/2), còn cận sách dựng ra bằng 3/2 + 81/8 = 11,625. Đây không phải lỗi; sách chỉ cần cận tiệm cận.
+- **Mọi phép tính và ví dụ trong sách đã được tự kiểm tra lại và đúng:** bước quy nạp của (A.1); cận Σₖ₌₀ⁿ 3ᵏ ≤ c·3ⁿ với c ≥ 3/2 (giá trị chính xác (3^(n+1) − 1)/2 < (3/2)·3ⁿ); tỷ số (1/3)(k + 2)/(k + 1) ≤ 2/3; tỷ số (k + 1)²/(2k²) ≤ 8/9 khi k ≥ 3 (bằng đúng 8/9 tại k = 3); tổng lồng nhau Σₖ₌₁ⁿ⁻¹ 1/(k(k + 1)) = 1 − 1/n; tách tổng Σ k ≥ (n/2)²; chuỗi bất đẳng thức (A.10); các cận tích phân (A.13), (A.14). Không phát hiện lỗi số học trong phụ lục.
+- **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** Phần VIII vẫn gồm bốn phụ lục A–D với cùng chủ đề; Phụ lục A vẫn có hai mục "Summation formulas and properties" và "Bounding summations" với cùng các kỹ thuật. Người tổng hợp không nhớ chắc các thay đổi về đánh số công thức, bài tập hay lời văn nên không liệt kê.

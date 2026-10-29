@@ -1,21 +1,20 @@
 # Chương 34 — NP-đầy đủ (NP-Completeness)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VII "Selected Topics", Chương 34 "NP-Completeness", trang 1048–1105 (phần mở đầu 1048–1053; Mục 34.1–34.5 trang 1053–1101; Problems 1101–1104; Chapter notes 1104–1105).
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
-**Vị trí trong lập luận của cả cuốn sách:** Gần như toàn bộ cuốn sách trước chương này dạy cách *thiết kế* thuật toán thời gian đa thức: sắp xếp (Chương 2, 6–8), tìm kiếm trên đồ thị và chu trình Euler (Chương 22, [C22-thuat-toan-do-thi-co-ban.md](C22-thuat-toan-do-thi-co-ban.md)), đường đi ngắn nhất (Chương 24, [C24-duong-di-ngan-nhat-tu-mot-nguon.md](C24-duong-di-ngan-nhat-tu-mot-nguon.md)), luồng và cặp ghép (Chương 26, [C26-luong-cuc-dai.md](C26-luong-cuc-dai.md)), quy hoạch tuyến tính (Chương 29, [C29-quy-hoach-tuyen-tinh.md](C29-quy-hoach-tuyen-tinh.md)). Chỉ có một lần sách chứng minh *cận dưới* — Ω(n lg n) cho sắp xếp bằng so sánh ở Chương 8 ([C08-sap-xep-thoi-gian-tuyen-tinh.md](C08-sap-xep-thoi-gian-tuyen-tinh.md)). Chương 34 đổi hướng: nó cho công cụ để chứng minh một bài toán *có lẽ không* có thuật toán nhanh, bằng cách xếp bài toán vào lớp NP-đầy đủ qua phép quy dẫn. Chương dùng lại nhiều thứ trước đó: BFS để quyết định PATH, thuật toán quy hoạch động ba lô 0-1 của Exercise 16.2-2 (Chương 16, [C16-thuat-toan-tham-lam.md](C16-thuat-toan-tham-lam.md)) làm ví dụ thuật toán "giả đa thức", thành phần liên thông mạnh cho 2-CNF-SAT (Chương 22), cặp ghép hai phía (Chương 26) cho tập độc lập trên đồ thị hai phía. Các khái niệm đồ thị (chu trình đơn, đồ thị hai phía, đồ thị đầy đủ) lấy từ Phụ lục B ([PB-tap-hop-va-cau-truc-roi-rac.md](PB-tap-hop-va-cau-truc-roi-rac.md)). Chương 35 ([C35-thuat-toan-xap-xi.md](C35-thuat-toan-xap-xi.md)) là hệ quả trực tiếp: khi bài toán đã được chứng minh NP-đầy đủ, ta chuyển sang thuật toán xấp xỉ cho chính các bài toán của chương này — phủ đỉnh, người bán hàng du lịch, tổng tập con.
-**Ý chính:** Tác giả muốn người đọc hiểu rằng **có một lớp lớn các bài toán quyết định — các bài toán NP-đầy đủ — mà lời giải kiểm chứng được nhanh nhưng chưa ai biết tìm được nhanh; chúng "khó ngang nhau" theo nghĩa chính xác: nếu một bài trong số đó giải được trong thời gian đa thức thì mọi bài trong NP đều vậy (P = NP); và cách chứng minh một bài toán mới thuộc lớp này là quy dẫn thời gian đa thức *từ* một bài đã biết NP-đầy đủ *sang* nó — một bằng chứng mạnh rằng nên tìm thuật toán xấp xỉ hay trường hợp đặc biệt thay vì thuật toán chính xác nhanh.** Phần mở đầu nêu ba cặp bài toán trông giống mà khác hẳn (đường ngắn nhất/dài nhất, chu trình Euler/Hamilton, 2-CNF/3-CNF), mô tả không hình thức P, NP, NPC, và ba công cụ: bài toán quyết định thay cho bài toán tối ưu, phép quy dẫn, bài toán NP-đầy đủ đầu tiên. Mục 34.1 hình thức hoá "bài toán" (quan hệ thể hiện–lời giải), mã hoá (mã một ngôi làm sai lệch khái niệm đa thức; các mã liên hệ đa thức thì tương đương — Bổ đề 34.1), khung ngôn ngữ hình thức, phân biệt "chấp nhận" và "quyết định", và định nghĩa P (Định lý 34.2: chấp nhận được trong thời gian đa thức cũng là quyết định được). Mục 34.2 định nghĩa thuật toán kiểm chứng, chứng chỉ, lớp NP (ngôn ngữ kiểm chứng được trong thời gian đa thức với chứng chỉ dài đa thức), chứng minh HAM-CYCLE ∈ NP và P ⊆ NP, giới thiệu co-NP và bốn khả năng quan hệ P, NP, co-NP. Mục 34.3 định nghĩa quy dẫn L₁ ≤ₚ L₂, NP-khó, NP-đầy đủ, chứng minh Định lý 34.4 (một bài NP-đầy đủ thuộc P thì P = NP), và phác thảo chứng minh CIRCUIT-SAT NP-đầy đủ bằng cách "dán" T(n) bản sao mạch phần cứng M mô phỏng thuật toán kiểm chứng. Mục 34.4 đưa phương pháp năm bước (Bổ đề 34.8) và chứng minh SAT (mỗi dây một biến) và 3-CNF-SAT (cây phân tích → bảng chân trị → bổ sung literal p, q) là NP-đầy đủ. Mục 34.5 dựng chuỗi quy dẫn 3-CNF-SAT → CLIQUE (bộ ba đỉnh, literal tương thích) → VERTEX-COVER (đồ thị bù) → HAM-CYCLE (cụm 12 đỉnh mỗi cạnh, đỉnh chọn) → TSP (chi phí 0/1), và 3-CNF-SAT → SUBSET-SUM (số thập phân với chữ số theo biến và mệnh đề).
+## Ý chính
 
-> **Lưu ý:**
-> - **Không có mục có dấu sao (★) trong chương này**, và trong ấn bản người tổng hợp đọc, không bài tập hay bài toán nào của Chương 34 được đánh dấu sao. Tuy vậy, một số bài có phần khó thật sự (Exercise 34.5-3 cần cận số bit của nghiệm quy hoạch nguyên; Problem 34-3 chứng minh 3-COLOR NP-đầy đủ).
-> - **Lớp chữ PDF hỏng nhiều ký hiệu của chương:** "P¤ NP" là P ≠ NP; "/NUL" là dấu trừ (ví dụ "NP/NUL P" là NP − P, "jVj/NUL k" là |V| − k); "‚.n100/" là Θ(n¹⁰⁰); ".pn/" là Ω(√n) và ".2pn/" là Ω(2^√n); "P" đứng một mình là ký hiệu quy dẫn ≤ₚ; ký hiệu đỉnh *v* (chữ nu) bị mất hẳn (ví dụ "hG; u; ; ki" là ⟨G, u, v, k⟩); "˛", "ˇ" là α, β; "" là φ (các φ′, φ″, φ‴ bị vỡ thành "0", "00", "000"); Σ trong định nghĩa SUBSET-SUM và trong cận số cạnh bị mất; các chỉ số trên u⁽ⁱ⁾, u⁽ᵈᵉᵍʳᵉᵉ⁽ᵘ⁾⁾ ở Mục 34.5.3 vỡ thành nhiều dòng. Người tổng hợp đã xem ảnh **tất cả** các trang 1048–1105; mọi công thức, định nghĩa ngôn ngữ, bảng chân trị và hình (Hình 34.1–34.20) được chép lại từ ảnh trang. Các hình có nối dây/cạnh phức tạp được dựng lại ở độ phân giải cao để đọc chính xác: Hình 34.8 (trang 1072, hai mạch thoả được/không thoả được), Hình 34.15 (trang 1090), Hình 34.16 (trang 1092, cụm 14 cạnh), Hình 34.18 (trang 1096, chi phí TSP). Cách nối dây của Hình 34.8(a) được đối chiếu với công thức của Hình 34.10 (trang 1081) và khớp hoàn toàn.
-> - **Chỗ sách chưa chặt (nhận xét của người tổng hợp):**
->   1. Trang 1051 định nghĩa PATH là "cho đồ thị *có hướng* G …", nhưng ngay trước đó SHORTEST-PATH được định nghĩa trên đồ thị *vô hướng*, và ngôn ngữ PATH ở trang 1058 lại ghi "G = (V, E) là đồ thị vô hướng". Bản tổng hợp dùng đồ thị vô hướng thống nhất. (Theo hiểu biết của người tổng hợp, không tra cứu, đây là một mục trong errata của ấn bản 3.)
->   2. Trang 1062: thuật toán vét cạn "kiểm tra mỗi hoán vị có phải *đường đi* Hamilton" — đúng ra là *chu trình* Hamilton (đường đi khép kín); và "m = Ω(√n)" thực ra là m = Θ(√n) với mã ma trận kề, nhưng cận Ω đủ cho lập luận.
->   3. Chú thích Hình 34.17 (trang 1093) viết "hamiltonian *path* corresponding to the vertex cover shaded", trong khi thứ được tô là một *chu trình* Hamilton.
->   4. Phép dựng của Định lý 34.13 ngầm giả định mọi đỉnh của G có bậc ít nhất 1: đỉnh cô lập u không có cụm nào nên đỉnh [u, u⁽¹⁾, 1] không tồn tại, và đẳng thức Σ_{u∈V}(degree(u) − 1) = 2|E| − |V| sai khi có đỉnh bậc 0 (đỉnh đó đóng góp −1 dù không có cạnh nào). Cách sửa đơn giản: xoá các đỉnh cô lập trước khi quy dẫn (chúng không bao giờ cần trong phủ đỉnh nhỏ nhất), và xử lý riêng trường hợp k lớn hơn số đỉnh còn lại.
->   5. Định nghĩa 3-CNF đòi "đúng ba literal khác nhau" và ví dụ ở trang 1082 có mệnh đề (x₁ ∨ ¬x₁ ∨ ¬x₂) chứa cả biến lẫn phủ định — hợp lệ vì x₁ và ¬x₁ là hai literal khác nhau; nhưng chứng minh SUBSET-SUM (trang 1098) phải giả định thêm không có mệnh đề như vậy. Hai chỗ không mâu thuẫn, chỉ cần đọc kỹ.
-> - **Mọi ví dụ chạy tay trong sách đã được tự kiểm tra lại và đúng:** công thức 2-CNF ở phần mở đầu với x₁ = 1, x₂ = 0, x₃ = 1; giá trị dây của mạch (a) với ⟨1, 1, 0⟩ và tính không thoả được của mạch (b); phép tính (34.2) cho φ = 1; công thức φ của Hình 34.10; bảng chân trị Hình 34.12 và công thức CNF φ″₁; đồ thị Hình 34.14 (21 cạnh) và clique {¬x₂, x₃, x₃}; Hình 34.15 (clique {u, v, x, y}, phủ đỉnh {w, z}); chu trình Hamilton 50 đỉnh của Hình 34.17; hành trình chi phí 7 của Hình 34.18 (hai hành trình còn lại chi phí 14 và 11); bảng Hình 34.19 (mỗi cột đạt 4) và chú thích 11 — đổi sang cơ số 7 cho đúng thể hiện ở đầu Mục 34.5.5 với tổng 138457.
-> - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương vẫn là Chương 34 "NP-Completeness", vẫn theo trình tự: lớp P; kiểm chứng và lớp NP; quy dẫn và CIRCUIT-SAT; SAT và 3-CNF-SAT; rồi các bài toán đồ thị và tổng tập con, và vẫn được tiếp nối bởi Chương 35 về thuật toán xấp xỉ. Các khác biệt cụ thể về bài tập và lời văn, người tổng hợp không nhớ chắc nên không liệt kê.
+Tác giả muốn người đọc hiểu rằng **có một lớp lớn các bài toán quyết định — các bài toán NP-đầy đủ — mà lời giải kiểm chứng được nhanh nhưng chưa ai biết tìm được nhanh; chúng "khó ngang nhau" theo nghĩa chính xác: nếu một bài trong số đó giải được trong thời gian đa thức thì mọi bài trong NP đều vậy (P = NP); và cách chứng minh một bài toán mới thuộc lớp này là quy dẫn thời gian đa thức *từ* một bài đã biết NP-đầy đủ *sang* nó — một bằng chứng mạnh rằng nên tìm thuật toán xấp xỉ hay trường hợp đặc biệt thay vì thuật toán chính xác nhanh.**
+
+Phần mở đầu nêu ba cặp bài toán trông giống mà khác hẳn (đường ngắn nhất/dài nhất, chu trình Euler/Hamilton, 2-CNF/3-CNF), mô tả không hình thức P, NP, NPC, và ba công cụ: bài toán quyết định thay cho bài toán tối ưu, phép quy dẫn, bài toán NP-đầy đủ đầu tiên.
+
+Mục 34.1 hình thức hoá "bài toán" (quan hệ thể hiện–lời giải), mã hoá (mã một ngôi làm sai lệch khái niệm đa thức; các mã liên hệ đa thức thì tương đương — Bổ đề 34.1), khung ngôn ngữ hình thức, phân biệt "chấp nhận" và "quyết định", và định nghĩa P (Định lý 34.2: chấp nhận được trong thời gian đa thức cũng là quyết định được).
+
+Mục 34.2 định nghĩa thuật toán kiểm chứng, chứng chỉ, lớp NP (ngôn ngữ kiểm chứng được trong thời gian đa thức với chứng chỉ dài đa thức), chứng minh HAM-CYCLE ∈ NP và P ⊆ NP, giới thiệu co-NP và bốn khả năng quan hệ P, NP, co-NP.
+
+Mục 34.3 định nghĩa quy dẫn L₁ ≤ₚ L₂, NP-khó, NP-đầy đủ, chứng minh Định lý 34.4 (một bài NP-đầy đủ thuộc P thì P = NP), và phác thảo chứng minh CIRCUIT-SAT NP-đầy đủ bằng cách "dán" T(n) bản sao mạch phần cứng M mô phỏng thuật toán kiểm chứng.
+
+Mục 34.4 đưa phương pháp năm bước (Bổ đề 34.8) và chứng minh SAT (mỗi dây một biến) và 3-CNF-SAT (cây phân tích → bảng chân trị → bổ sung literal p, q) là NP-đầy đủ.
+
+Mục 34.5 dựng chuỗi quy dẫn 3-CNF-SAT → CLIQUE (bộ ba đỉnh, literal tương thích) → VERTEX-COVER (đồ thị bù) → HAM-CYCLE (cụm 12 đỉnh mỗi cạnh, đỉnh chọn) → TSP (chi phí 0/1), và 3-CNF-SAT → SUBSET-SUM (số thập phân với chữ số theo biến và mệnh đề).
 
 ## Sơ đồ
 
@@ -458,7 +457,9 @@ Có ba khái niệm then chốt.
 
 **(1) Bài toán quyết định và bài toán tối ưu (Decision problems vs. optimization problems).** Nhiều bài toán đáng quan tâm là **bài toán tối ưu** (optimization problem): mỗi lời giải khả thi ("hợp lệ") có một giá trị, và ta muốn tìm lời giải khả thi có giá trị tốt nhất. Ví dụ, trong bài toán sách gọi là SHORTEST-PATH, cho đồ thị vô hướng G và hai đỉnh u, v, ta muốn tìm đường đi từ u tới v dùng ít cạnh nhất — tức bài toán đường đi ngắn nhất một cặp đỉnh trên đồ thị vô hướng không trọng số. Tuy nhiên, khái niệm NP-đầy đủ áp dụng trực tiếp không phải cho bài toán tối ưu mà cho **bài toán quyết định** (decision problem): câu trả lời chỉ là "có" hoặc "không" (hình thức hơn: "1" hoặc "0").
 
-Ta thường chuyển một bài toán tối ưu thành bài toán quyết định liên quan bằng cách đặt một cận cho giá trị cần tối ưu. Ví dụ, bài toán quyết định liên quan tới SHORTEST-PATH là PATH: cho đồ thị G, hai đỉnh u và v, và số nguyên k, có tồn tại đường đi từ u tới v gồm *nhiều nhất* k cạnh không? Quan hệ này có lợi khi ta muốn chứng minh bài toán tối ưu là "khó", vì bài toán quyết định theo một nghĩa nào đó "dễ hơn", hoặc ít nhất "không khó hơn". Cụ thể, giải được SHORTEST-PATH thì giải được PATH: so số cạnh của đường ngắn nhất tìm được với k. Tức là nếu bài toán tối ưu dễ thì bài toán quyết định liên quan cũng dễ. Phát biểu theo hướng có ích cho lý thuyết NP-đầy đủ: nếu có bằng chứng bài toán quyết định khó, ta cũng có bằng chứng bài toán tối ưu liên quan khó. Vì vậy, dù chỉ xét bài toán quyết định, lý thuyết NP-đầy đủ vẫn có hệ quả cho bài toán tối ưu.
+Ta thường chuyển một bài toán tối ưu thành bài toán quyết định liên quan bằng cách đặt một cận cho giá trị cần tối ưu. Ví dụ, bài toán quyết định liên quan tới SHORTEST-PATH là PATH: cho đồ thị G, hai đỉnh u và v, và số nguyên k, có tồn tại đường đi từ u tới v gồm *nhiều nhất* k cạnh không?
+
+Quan hệ này có lợi khi ta muốn chứng minh bài toán tối ưu là "khó", vì bài toán quyết định theo một nghĩa nào đó "dễ hơn", hoặc ít nhất "không khó hơn". Cụ thể, giải được SHORTEST-PATH thì giải được PATH: so số cạnh của đường ngắn nhất tìm được với k. Tức là nếu bài toán tối ưu dễ thì bài toán quyết định liên quan cũng dễ. Phát biểu theo hướng có ích cho lý thuyết NP-đầy đủ: nếu có bằng chứng bài toán quyết định khó, ta cũng có bằng chứng bài toán tối ưu liên quan khó. Vì vậy, dù chỉ xét bài toán quyết định, lý thuyết NP-đầy đủ vẫn có hệ quả cho bài toán tối ưu.
 
 Ví dụ của người tổng hợp: đồ thị vô hướng có các cạnh {u, a}, {a, b}, {b, v}, {u, c}, {c, v}. Đường ngắn nhất từ u tới v là u → c → v, 2 cạnh. Vậy PATH(G, u, v, 2) = 1 (có), PATH(G, u, v, 1) = 0 (không, vì không có cạnh {u, v}).
 
@@ -515,13 +516,17 @@ Lý thuyết NP-đầy đủ chỉ xét **bài toán quyết định**, có lờ
 
 #### Mã hoá (Encodings)
 
-Để chương trình máy tính giải một bài toán trừu tượng, các thể hiện phải được biểu diễn theo cách chương trình hiểu được. Một **mã hoá** (encoding) của tập S các đối tượng trừu tượng là một ánh xạ e từ S vào tập các xâu nhị phân. (Chú thích 2: tập đích không nhất thiết là xâu nhị phân; mọi tập xâu trên một bảng chữ cái hữu hạn có ít nhất 2 ký hiệu đều được.) Ví dụ quen thuộc: mã hoá các số tự nhiên ℕ = {0, 1, 2, 3, 4, …} thành các xâu {0, 1, 10, 11, 100, …}; với mã này, e(17) = 10001 (kiểm tra: 16 + 1 = 17). Bảng mã ASCII mã hoá ký tự A thành 1000001 (= 65). Một đối tượng phức hợp có thể mã hoá thành xâu nhị phân bằng cách ghép biểu diễn của các thành phần. Đa giác, đồ thị, hàm, cặp có thứ tự, chương trình — đều mã hoá được thành xâu nhị phân.
+Để chương trình máy tính giải một bài toán trừu tượng, các thể hiện phải được biểu diễn theo cách chương trình hiểu được. Một **mã hoá** (encoding) của tập S các đối tượng trừu tượng là một ánh xạ e từ S vào tập các xâu nhị phân. (Chú thích 2: tập đích không nhất thiết là xâu nhị phân; mọi tập xâu trên một bảng chữ cái hữu hạn có ít nhất 2 ký hiệu đều được.)
+
+Ví dụ quen thuộc: mã hoá các số tự nhiên ℕ = {0, 1, 2, 3, 4, …} thành các xâu {0, 1, 10, 11, 100, …}; với mã này, e(17) = 10001 (kiểm tra: 16 + 1 = 17). Bảng mã ASCII mã hoá ký tự A thành 1000001 (= 65). Một đối tượng phức hợp có thể mã hoá thành xâu nhị phân bằng cách ghép biểu diễn của các thành phần. Đa giác, đồ thị, hàm, cặp có thứ tự, chương trình — đều mã hoá được thành xâu nhị phân.
 
 Vậy một thuật toán "giải" bài toán quyết định trừu tượng thực ra nhận đầu vào là *mã hoá* của một thể hiện. Bài toán có tập thể hiện là tập các xâu nhị phân gọi là **bài toán cụ thể** (concrete problem). Thuật toán **giải** (solves) một bài toán cụ thể trong thời gian O(T(n)) nếu, được cho một thể hiện i có độ dài n = |i|, thuật toán đưa ra lời giải trong thời gian O(T(n)). (Chú thích 3: giả định đầu ra tách khỏi đầu vào; mỗi bit đầu ra tốn ít nhất một bước nên kích thước đầu ra là O(T(n)).) Bài toán cụ thể là **giải được trong thời gian đa thức** (polynomial-time solvable) nếu có thuật toán giải nó trong thời gian O(nᵏ) với hằng số k nào đó.
 
 Giờ định nghĩa hình thức: **lớp độ phức tạp P** (complexity class P) là tập các bài toán quyết định cụ thể giải được trong thời gian đa thức.
 
-Dùng mã hoá để đưa bài toán trừu tượng về bài toán cụ thể: cho bài toán quyết định trừu tượng Q ánh xạ tập thể hiện I vào {0, 1}, một mã hoá e : I → {0, 1}* sinh ra bài toán quyết định cụ thể ký hiệu e(Q). (Chú thích 4: {0, 1}* là tập mọi xâu gồm các ký hiệu 0 và 1.) Nếu lời giải của thể hiện trừu tượng i ∈ I là Q(i) ∈ {0, 1}, thì lời giải của thể hiện cụ thể e(i) ∈ {0, 1}* cũng là Q(i). Về kỹ thuật, có những xâu nhị phân không biểu diễn thể hiện trừu tượng nào; quy ước mọi xâu như vậy được ánh xạ tuỳ ý về 0. Như vậy bài toán cụ thể cho cùng lời giải với bài toán trừu tượng trên những xâu là mã hoá của thể hiện trừu tượng.
+Dùng mã hoá để đưa bài toán trừu tượng về bài toán cụ thể: cho bài toán quyết định trừu tượng Q ánh xạ tập thể hiện I vào {0, 1}, một mã hoá e : I → {0, 1}* sinh ra bài toán quyết định cụ thể ký hiệu e(Q). (Chú thích 4: {0, 1}* là tập mọi xâu gồm các ký hiệu 0 và 1.)
+
+Nếu lời giải của thể hiện trừu tượng i ∈ I là Q(i) ∈ {0, 1}, thì lời giải của thể hiện cụ thể e(i) ∈ {0, 1}* cũng là Q(i). Về kỹ thuật, có những xâu nhị phân không biểu diễn thể hiện trừu tượng nào; quy ước mọi xâu như vậy được ánh xạ tuỳ ý về 0. Như vậy bài toán cụ thể cho cùng lời giải với bài toán trừu tượng trên những xâu là mã hoá của thể hiện trừu tượng.
 
 #### Hiệu quả phụ thuộc vào cách mã hoá
 
@@ -534,13 +539,17 @@ Ví dụ số (người tổng hợp): k = 1.000.000. Mã một ngôi dài 1.000
 
 Cách mã hoá ảnh hưởng nhiều tới cách hiểu thời gian đa thức; không thể bàn chuyện giải một bài toán trừu tượng mà không chỉ định mã hoá trước. Tuy vậy, trong thực tế, nếu loại bỏ các mã hoá "đắt" như mã một ngôi, mã hoá cụ thể ít ảnh hưởng tới việc bài toán có giải được trong thời gian đa thức không. Ví dụ, biểu diễn số nguyên ở cơ số 3 thay cho nhị phân không ảnh hưởng, vì đổi số từ cơ số 3 sang cơ số 2 làm được trong thời gian đa thức.
 
-Hàm f : {0, 1}* → {0, 1}* là **tính được trong thời gian đa thức** (polynomial-time computable) nếu có thuật toán thời gian đa thức A cho ra f(x) với mọi đầu vào x ∈ {0, 1}*. Với một tập thể hiện I, hai mã hoá e₁ và e₂ là **liên hệ đa thức** (polynomially related) nếu có hai hàm tính được trong thời gian đa thức f₁₂ và f₂₁ sao cho với mọi i ∈ I, f₁₂(e₁(i)) = e₂(i) và f₂₁(e₂(i)) = e₁(i). Tức là một thuật toán thời gian đa thức tính được e₂(i) từ e₁(i) và ngược lại. (Chú thích 5: về kỹ thuật còn yêu cầu f₁₂ và f₂₁ "ánh xạ phi-thể-hiện thành phi-thể-hiện". Một **phi-thể-hiện** (noninstance) của mã hoá e là xâu x ∈ {0, 1}* mà không có thể hiện i nào với e(i) = x. Yêu cầu f₁₂(x) = y với mọi phi-thể-hiện x của e₁, trong đó y là một phi-thể-hiện nào đó của e₂; và f₂₁(x′) = y′ với mọi phi-thể-hiện x′ của e₂, y′ là một phi-thể-hiện nào đó của e₁.)
+Hàm f : {0, 1}* → {0, 1}* là **tính được trong thời gian đa thức** (polynomial-time computable) nếu có thuật toán thời gian đa thức A cho ra f(x) với mọi đầu vào x ∈ {0, 1}*. Với một tập thể hiện I, hai mã hoá e₁ và e₂ là **liên hệ đa thức** (polynomially related) nếu có hai hàm tính được trong thời gian đa thức f₁₂ và f₂₁ sao cho với mọi i ∈ I, f₁₂(e₁(i)) = e₂(i) và f₂₁(e₂(i)) = e₁(i). Tức là một thuật toán thời gian đa thức tính được e₂(i) từ e₁(i) và ngược lại.
+
+(Chú thích 5: về kỹ thuật còn yêu cầu f₁₂ và f₂₁ "ánh xạ phi-thể-hiện thành phi-thể-hiện". Một **phi-thể-hiện** (noninstance) của mã hoá e là xâu x ∈ {0, 1}* mà không có thể hiện i nào với e(i) = x. Yêu cầu f₁₂(x) = y với mọi phi-thể-hiện x của e₁, trong đó y là một phi-thể-hiện nào đó của e₂; và f₂₁(x′) = y′ với mọi phi-thể-hiện x′ của e₂, y′ là một phi-thể-hiện nào đó của e₁.)
 
 **Bổ đề 34.1.** Cho Q là một bài toán quyết định trừu tượng trên tập thể hiện I, và e₁, e₂ là hai mã hoá liên hệ đa thức trên I. Khi đó e₁(Q) ∈ P khi và chỉ khi e₂(Q) ∈ P.
 
 *Chứng minh.* Chỉ cần chứng minh chiều thuận, chiều ngược đối xứng. Giả sử e₁(Q) giải được trong thời gian O(nᵏ) với hằng số k, và với mọi thể hiện i, mã e₁(i) tính được từ e₂(i) trong thời gian O(nᶜ) với hằng số c, trong đó n = |e₂(i)|. Để giải e₂(Q) trên đầu vào e₂(i), trước hết tính e₁(i), rồi chạy thuật toán của e₁(Q) trên e₁(i). Đổi mã tốn O(nᶜ), do đó |e₁(i)| = O(nᶜ), vì đầu ra của máy tính tuần tự không thể dài hơn thời gian chạy của nó. Giải bài toán trên e₁(i) tốn O(|e₁(i)|ᵏ) = O(n^(ck)), là đa thức vì c và k là hằng số. ∎
 
-Như vậy, mã hoá thể hiện bằng nhị phân hay cơ số 3 không ảnh hưởng tới "độ phức tạp" (bài toán có giải được trong thời gian đa thức hay không), nhưng mã một ngôi thì có thể làm thay đổi. Để nói chuyện không phụ thuộc mã hoá, từ đây sách giả định thể hiện được mã hoá theo cách hợp lý, gọn, trừ khi nói khác. Chính xác: mã hoá của số nguyên liên hệ đa thức với biểu diễn nhị phân của nó, và mã hoá của một tập hữu hạn liên hệ đa thức với mã hoá của nó dưới dạng danh sách các phần tử đặt trong ngoặc nhọn, cách nhau bằng dấu phẩy (ASCII là một cách mã hoá như vậy). Từ mã hoá "chuẩn" này suy ra mã hoá hợp lý cho các đối tượng toán học khác như bộ, đồ thị, công thức. Ký hiệu mã hoá chuẩn của một đối tượng bằng cách đặt nó trong ngoặc nhọn: ⟨G⟩ là mã hoá chuẩn của đồ thị G.
+Như vậy, mã hoá thể hiện bằng nhị phân hay cơ số 3 không ảnh hưởng tới "độ phức tạp" (bài toán có giải được trong thời gian đa thức hay không), nhưng mã một ngôi thì có thể làm thay đổi. Để nói chuyện không phụ thuộc mã hoá, từ đây sách giả định thể hiện được mã hoá theo cách hợp lý, gọn, trừ khi nói khác.
+
+Chính xác: mã hoá của số nguyên liên hệ đa thức với biểu diễn nhị phân của nó, và mã hoá của một tập hữu hạn liên hệ đa thức với mã hoá của nó dưới dạng danh sách các phần tử đặt trong ngoặc nhọn, cách nhau bằng dấu phẩy (ASCII là một cách mã hoá như vậy). Từ mã hoá "chuẩn" này suy ra mã hoá hợp lý cho các đối tượng toán học khác như bộ, đồ thị, công thức. Ký hiệu mã hoá chuẩn của một đối tượng bằng cách đặt nó trong ngoặc nhọn: ⟨G⟩ là mã hoá chuẩn của đồ thị G.
 
 Miễn là ngầm dùng một mã hoá liên hệ đa thức với mã hoá chuẩn, ta có thể nói thẳng về bài toán trừu tượng mà không nhắc tới mã hoá cụ thể. Từ đây sách giả định mọi thể hiện là xâu nhị phân theo mã hoá chuẩn, trừ khi nói rõ khác, và thường bỏ qua phân biệt giữa bài toán trừu tượng và bài toán cụ thể. Nhưng cần cẩn thận với những bài toán thực tế mà mã hoá chuẩn không hiển nhiên và mã hoá có ảnh hưởng.
 
@@ -577,9 +586,13 @@ PATH = { ⟨G, u, v, k⟩ : G = (V, E) là đồ thị vô hướng,
 
 **Chấp nhận và quyết định.** Thuật toán A **chấp nhận** (accepts) xâu x ∈ {0, 1}* nếu với đầu vào x, đầu ra A(x) là 1. **Ngôn ngữ được chấp nhận bởi** A là tập L = {x ∈ {0, 1}* : A(x) = 1}, tức tập các xâu A chấp nhận. Thuật toán A **bác bỏ** (rejects) x nếu A(x) = 0.
 
-Ngay cả khi L được A chấp nhận, A chưa chắc bác bỏ một xâu x ∉ L; chẳng hạn A có thể chạy mãi. Ngôn ngữ L **được quyết định** (decided) bởi A nếu mọi xâu nhị phân thuộc L được A chấp nhận và mọi xâu nhị phân không thuộc L bị A bác bỏ. L **được chấp nhận trong thời gian đa thức** bởi A nếu A chấp nhận L và có hằng số k sao cho với mọi xâu x ∈ L độ dài n, A chấp nhận x trong thời gian O(nᵏ). L **được quyết định trong thời gian đa thức** bởi A nếu có hằng số k sao cho với mọi xâu x ∈ {0, 1}* độ dài n, A quyết định đúng x có thuộc L hay không trong thời gian O(nᵏ). Như vậy, để chấp nhận một ngôn ngữ, thuật toán chỉ cần cho câu trả lời khi được đưa một xâu thuộc L; để quyết định, nó phải chấp nhận hoặc bác bỏ đúng mọi xâu trong {0, 1}*.
+Ngay cả khi L được A chấp nhận, A chưa chắc bác bỏ một xâu x ∉ L; chẳng hạn A có thể chạy mãi. Ngôn ngữ L **được quyết định** (decided) bởi A nếu mọi xâu nhị phân thuộc L được A chấp nhận và mọi xâu nhị phân không thuộc L bị A bác bỏ.
 
-Ví dụ: PATH được chấp nhận trong thời gian đa thức. Một thuật toán chấp nhận: kiểm tra G mã hoá một đồ thị vô hướng, kiểm tra u, v là đỉnh của G, dùng tìm kiếm theo chiều rộng (BFS, Chương 22) tìm đường ngắn nhất từ u tới v, rồi so số cạnh với k. Nếu G mã hoá đồ thị vô hướng và đường tìm được có nhiều nhất k cạnh, xuất 1 và dừng; ngược lại, chạy mãi. Thuật toán này *không* quyết định PATH, vì nó không xuất 0 tường minh cho các thể hiện có đường ngắn nhất dài hơn k cạnh. Thuật toán quyết định PATH phải bác bỏ tường minh các xâu không thuộc PATH; với PATH điều này dễ: thay vì chạy mãi, xuất 0 và dừng (và cũng xuất 0 rồi dừng nếu mã hoá đầu vào sai). Với những bài toán khác, như Bài toán dừng của Turing, có thuật toán chấp nhận nhưng không có thuật toán quyết định.
+L **được chấp nhận trong thời gian đa thức** bởi A nếu A chấp nhận L và có hằng số k sao cho với mọi xâu x ∈ L độ dài n, A chấp nhận x trong thời gian O(nᵏ). L **được quyết định trong thời gian đa thức** bởi A nếu có hằng số k sao cho với mọi xâu x ∈ {0, 1}* độ dài n, A quyết định đúng x có thuộc L hay không trong thời gian O(nᵏ). Như vậy, để chấp nhận một ngôn ngữ, thuật toán chỉ cần cho câu trả lời khi được đưa một xâu thuộc L; để quyết định, nó phải chấp nhận hoặc bác bỏ đúng mọi xâu trong {0, 1}*.
+
+Ví dụ: PATH được chấp nhận trong thời gian đa thức. Một thuật toán chấp nhận: kiểm tra G mã hoá một đồ thị vô hướng, kiểm tra u, v là đỉnh của G, dùng tìm kiếm theo chiều rộng (BFS, Chương 22) tìm đường ngắn nhất từ u tới v, rồi so số cạnh với k. Nếu G mã hoá đồ thị vô hướng và đường tìm được có nhiều nhất k cạnh, xuất 1 và dừng; ngược lại, chạy mãi. Thuật toán này *không* quyết định PATH, vì nó không xuất 0 tường minh cho các thể hiện có đường ngắn nhất dài hơn k cạnh.
+
+Thuật toán quyết định PATH phải bác bỏ tường minh các xâu không thuộc PATH; với PATH điều này dễ: thay vì chạy mãi, xuất 0 và dừng (và cũng xuất 0 rồi dừng nếu mã hoá đầu vào sai). Với những bài toán khác, như Bài toán dừng của Turing, có thuật toán chấp nhận nhưng không có thuật toán quyết định.
 
 Một cách không hình thức, **lớp độ phức tạp** (complexity class) là một tập ngôn ngữ, mà việc một ngôn ngữ có thuộc lớp hay không được xác định bởi một **thước đo độ phức tạp** (complexity measure), như thời gian chạy, của thuật toán xác định một xâu x có thuộc L không. (Chú thích 6: định nghĩa thật sự kỹ thuật hơn; xem bài báo nền tảng của Hartmanis và Stearns.)
 
@@ -593,7 +606,9 @@ Thực ra P cũng là lớp các ngôn ngữ được *chấp nhận* trong th�
 
 **Định lý 34.2.** P = {L : L được chấp nhận bởi một thuật toán thời gian đa thức}.
 
-*Chứng minh.* Lớp ngôn ngữ được quyết định bởi thuật toán thời gian đa thức là tập con của lớp được chấp nhận bởi thuật toán thời gian đa thức, nên chỉ cần chứng minh: nếu L được chấp nhận bởi thuật toán thời gian đa thức thì L được quyết định bởi thuật toán thời gian đa thức. Gọi A là thuật toán thời gian đa thức chấp nhận L. Dùng lập luận "mô phỏng" kinh điển để dựng thuật toán thời gian đa thức A′ quyết định L. Vì A chấp nhận L trong thời gian O(nᵏ), có hằng số c sao cho A chấp nhận L trong nhiều nhất cnᵏ bước. Với mọi xâu đầu vào x, A′ mô phỏng cnᵏ bước của A. Sau cnᵏ bước, A′ xem A đã làm gì: nếu A đã chấp nhận x thì A′ chấp nhận x bằng cách xuất 1; nếu A chưa chấp nhận x thì A′ bác bỏ x bằng cách xuất 0. Chi phí phụ của việc mô phỏng không làm tăng thời gian quá một nhân tử đa thức, nên A′ là thuật toán thời gian đa thức quyết định L. ∎
+*Chứng minh.* Lớp ngôn ngữ được quyết định bởi thuật toán thời gian đa thức là tập con của lớp được chấp nhận bởi thuật toán thời gian đa thức, nên chỉ cần chứng minh: nếu L được chấp nhận bởi thuật toán thời gian đa thức thì L được quyết định bởi thuật toán thời gian đa thức. Gọi A là thuật toán thời gian đa thức chấp nhận L. Dùng lập luận "mô phỏng" kinh điển để dựng thuật toán thời gian đa thức A′ quyết định L.
+
+Vì A chấp nhận L trong thời gian O(nᵏ), có hằng số c sao cho A chấp nhận L trong nhiều nhất cnᵏ bước. Với mọi xâu đầu vào x, A′ mô phỏng cnᵏ bước của A. Sau cnᵏ bước, A′ xem A đã làm gì: nếu A đã chấp nhận x thì A′ chấp nhận x bằng cách xuất 1; nếu A chưa chấp nhận x thì A′ bác bỏ x bằng cách xuất 0. Chi phí phụ của việc mô phỏng không làm tăng thời gian quá một nhân tử đa thức, nên A′ là thuật toán thời gian đa thức quyết định L. ∎
 
 Chứng minh này **không kiến thiết** (nonconstructive): với một ngôn ngữ L ∈ P cho trước, có thể ta không thật sự biết cận thời gian của thuật toán A chấp nhận L. Dù vậy ta biết cận đó tồn tại, nên tồn tại thuật toán A′ kiểm tra được cận, dù có thể không dễ tìm ra A′.
 
@@ -606,7 +621,11 @@ Mục này xét các thuật toán *kiểm chứng* việc một xâu thuộc m�
 
 #### Chu trình Hamilton (Hamiltonian cycles)
 
-Bài toán tìm chu trình Hamilton trong đồ thị vô hướng đã được nghiên cứu hơn một trăm năm. Hình thức: một **chu trình Hamilton** (hamiltonian cycle) của đồ thị vô hướng G = (V, E) là một chu trình đơn chứa mọi đỉnh của V. Đồ thị có chu trình Hamilton gọi là **đồ thị Hamilton** (hamiltonian); ngược lại là **phi Hamilton** (nonhamiltonian). Tên gọi để vinh danh W. R. Hamilton, người mô tả một trò chơi toán học trên khối mười hai mặt đều (dodecahedron): một người cắm năm cái ghim vào năm đỉnh liên tiếp bất kỳ, người kia phải hoàn thành đường đi thành một chu trình chứa mọi đỉnh. (Chú thích 7 của sách trích thư Hamilton gửi bạn là John T. Graves, đề ngày 17/10/1856: "Tôi thấy một số bạn trẻ rất thích thú thử một trò chơi toán học mới mà khối Icosion cung cấp, một người cắm năm ghim vào năm điểm liên tiếp bất kỳ … và người chơi kia cố cắm, điều mà theo lý thuyết trong thư này luôn làm được, mười lăm ghim khác, nối tiếp vòng quanh, để phủ mọi điểm còn lại, và kết thúc ngay sát cái ghim mà đối thủ đã bắt đầu.")
+Bài toán tìm chu trình Hamilton trong đồ thị vô hướng đã được nghiên cứu hơn một trăm năm. Hình thức: một **chu trình Hamilton** (hamiltonian cycle) của đồ thị vô hướng G = (V, E) là một chu trình đơn chứa mọi đỉnh của V. Đồ thị có chu trình Hamilton gọi là **đồ thị Hamilton** (hamiltonian); ngược lại là **phi Hamilton** (nonhamiltonian).
+
+Tên gọi để vinh danh W. R. Hamilton, người mô tả một trò chơi toán học trên khối mười hai mặt đều (dodecahedron): một người cắm năm cái ghim vào năm đỉnh liên tiếp bất kỳ, người kia phải hoàn thành đường đi thành một chu trình chứa mọi đỉnh.
+
+(Chú thích 7 của sách trích thư Hamilton gửi bạn là John T. Graves, đề ngày 17/10/1856: "Tôi thấy một số bạn trẻ rất thích thú thử một trò chơi toán học mới mà khối Icosion cung cấp, một người cắm năm ghim vào năm điểm liên tiếp bất kỳ … và người chơi kia cố cắm, điều mà theo lý thuyết trong thư này luôn làm được, mười lăm ghim khác, nối tiếp vòng quanh, để phủ mọi điểm còn lại, và kết thúc ngay sát cái ghim mà đối thủ đã bắt đầu.")
 
 Hình minh hoạ của sách (Hình 34.2), mô tả lại bằng lời:
 
@@ -777,7 +796,9 @@ Các phần tử dùng trong bài toán thoả được mạch tính các hàm B
 
 Chẳng hạn bảng của cổng OR cho biết với x = 0, y = 1 thì z = 1. Ký hiệu ¬ cho NOT, ∧ cho AND, ∨ cho OR; ví dụ 0 ∨ 1 = 1. Có thể tổng quát cổng AND và OR cho nhiều hơn hai đầu vào: cổng AND cho 1 nếu mọi đầu vào là 1, ngược lại cho 0; cổng OR cho 1 nếu có đầu vào bằng 1, ngược lại cho 0.
 
-Một **mạch tổ hợp Boole** (boolean combinational circuit) gồm một hoặc nhiều phần tử tổ hợp Boole nối với nhau bằng **dây** (wires). Một dây có thể nối đầu ra của phần tử này vào đầu vào của phần tử khác, đưa giá trị đầu ra của phần tử thứ nhất làm giá trị đầu vào cho phần tử thứ hai. Một dây không được nối với quá một đầu ra phần tử, nhưng có thể cấp cho nhiều đầu vào phần tử; số đầu vào phần tử mà một dây cấp gọi là **độ toả ra** (fan-out) của dây. Dây không nối với đầu ra phần tử nào là **đầu vào mạch** (circuit input), nhận giá trị từ bên ngoài. Dây không nối với đầu vào phần tử nào là **đầu ra mạch** (circuit output), đưa kết quả tính toán ra ngoài. (Một dây bên trong cũng có thể toả ra tới một đầu ra mạch.) Để định nghĩa bài toán thoả được mạch, ta giới hạn số đầu ra mạch là 1, dù trong thiết kế phần cứng thật một mạch có thể có nhiều đầu ra.
+Một **mạch tổ hợp Boole** (boolean combinational circuit) gồm một hoặc nhiều phần tử tổ hợp Boole nối với nhau bằng **dây** (wires). Một dây có thể nối đầu ra của phần tử này vào đầu vào của phần tử khác, đưa giá trị đầu ra của phần tử thứ nhất làm giá trị đầu vào cho phần tử thứ hai. Một dây không được nối với quá một đầu ra phần tử, nhưng có thể cấp cho nhiều đầu vào phần tử; số đầu vào phần tử mà một dây cấp gọi là **độ toả ra** (fan-out) của dây.
+
+Dây không nối với đầu ra phần tử nào là **đầu vào mạch** (circuit input), nhận giá trị từ bên ngoài. Dây không nối với đầu vào phần tử nào là **đầu ra mạch** (circuit output), đưa kết quả tính toán ra ngoài. (Một dây bên trong cũng có thể toả ra tới một đầu ra mạch.) Để định nghĩa bài toán thoả được mạch, ta giới hạn số đầu ra mạch là 1, dù trong thiết kế phần cứng thật một mạch có thể có nhiều đầu ra.
 
 Mạch tổ hợp Boole không có chu trình. Nói cách khác, dựng đồ thị có hướng G = (V, E) với một đỉnh cho mỗi phần tử tổ hợp và k cạnh có hướng cho mỗi dây có độ toả ra k; G có cạnh (u, v) nếu một dây nối đầu ra của phần tử u với một đầu vào của phần tử v. Khi đó G phải không có chu trình.
 
@@ -810,7 +831,9 @@ CIRCUIT-SAT = { ⟨C⟩ : C là mạch tổ hợp Boole thoả được }
 
 Bài toán này nảy sinh trong tối ưu phần cứng có máy tính hỗ trợ: nếu một mạch con luôn cho 0 thì nó thừa, người thiết kế có thể thay nó bằng mạch con đơn giản hơn bỏ hết cổng logic và cho hằng số 0. Vì thế ta rất muốn có thuật toán thời gian đa thức cho bài toán này.
 
-Cách ngây thơ: thử mọi phép gán cho đầu vào. Nếu mạch có k đầu vào thì phải thử tới 2ᵏ phép gán. Khi kích thước mạch C là đa thức theo k, việc thử tốn Ω(2ᵏ), lớn hơn mọi đa thức theo kích thước mạch. (Chú thích 9: ngược lại, nếu kích thước mạch là Θ(2ᵏ) thì thuật toán O(2ᵏ) là đa thức theo kích thước mạch. Kể cả khi P ≠ NP, điều này không mâu thuẫn với tính NP-đầy đủ của bài toán: có thuật toán thời gian đa thức cho một trường hợp đặc biệt không kéo theo có thuật toán thời gian đa thức cho mọi trường hợp.) Như đã nói, có bằng chứng mạnh rằng không có thuật toán thời gian đa thức cho bài toán thoả được mạch, vì nó là NP-đầy đủ. Chứng minh chia hai phần theo hai phần của định nghĩa NP-đầy đủ.
+Cách ngây thơ: thử mọi phép gán cho đầu vào. Nếu mạch có k đầu vào thì phải thử tới 2ᵏ phép gán. Khi kích thước mạch C là đa thức theo k, việc thử tốn Ω(2ᵏ), lớn hơn mọi đa thức theo kích thước mạch. (Chú thích 9: ngược lại, nếu kích thước mạch là Θ(2ᵏ) thì thuật toán O(2ᵏ) là đa thức theo kích thước mạch. Kể cả khi P ≠ NP, điều này không mâu thuẫn với tính NP-đầy đủ của bài toán: có thuật toán thời gian đa thức cho một trường hợp đặc biệt không kéo theo có thuật toán thời gian đa thức cho mọi trường hợp.)
+
+Như đã nói, có bằng chứng mạnh rằng không có thuật toán thời gian đa thức cho bài toán thoả được mạch, vì nó là NP-đầy đủ. Chứng minh chia hai phần theo hai phần của định nghĩa NP-đầy đủ.
 
 **Bổ đề 34.5.** Bài toán thoả được mạch thuộc lớp NP.
 
@@ -873,7 +896,9 @@ Cần chứng minh hai tính chất.
 
 *F tính đúng một hàm quy dẫn* (C thoả được khi và chỉ khi có chứng chỉ y với A(x, y) = 1). Nếu có chứng chỉ y độ dài O(nᵏ) với A(x, y) = 1, đặt các bit của y vào đầu vào của C thì đầu ra là C(y) = A(x, y) = 1; vậy C thoả được. Ngược lại, nếu C thoả được thì có đầu vào y với C(y) = 1, suy ra A(x, y) = 1. Vậy F tính đúng hàm quy dẫn: x ∈ L ⇔ có y với A(x, y) = 1 ⇔ C thoả được.
 
-*F chạy trong thời gian đa thức theo n = |x|.* Số bit biểu diễn một cấu hình là đa thức theo n: chương trình của A có kích thước hằng, không phụ thuộc độ dài đầu vào x; x dài n; chứng chỉ y dài O(nᵏ); vì thuật toán chạy nhiều nhất O(nᵏ) bước, vùng nhớ làm việc A cần cũng là đa thức theo n. (Giả định vùng nhớ này liên tục; Exercise 34.3-5 yêu cầu mở rộng lập luận cho trường hợp các vị trí A truy cập rải rác trên một vùng nhớ lớn hơn nhiều, và cách rải có thể khác nhau với mỗi đầu vào x.) Mạch M cài đặt phần cứng có kích thước đa thức theo độ dài cấu hình, tức O(nᵏ); vậy kích thước M là đa thức theo n (phần lớn mạch này cài đặt logic của hệ thống bộ nhớ). Mạch C gồm nhiều nhất t = O(nᵏ) bản sao của M, nên kích thước đa thức theo n. F dựng được C từ x trong thời gian đa thức, vì mỗi bước dựng tốn thời gian đa thức. ∎
+*F chạy trong thời gian đa thức theo n = |x|.* Số bit biểu diễn một cấu hình là đa thức theo n: chương trình của A có kích thước hằng, không phụ thuộc độ dài đầu vào x; x dài n; chứng chỉ y dài O(nᵏ); vì thuật toán chạy nhiều nhất O(nᵏ) bước, vùng nhớ làm việc A cần cũng là đa thức theo n. (Giả định vùng nhớ này liên tục; Exercise 34.3-5 yêu cầu mở rộng lập luận cho trường hợp các vị trí A truy cập rải rác trên một vùng nhớ lớn hơn nhiều, và cách rải có thể khác nhau với mỗi đầu vào x.)
+
+Mạch M cài đặt phần cứng có kích thước đa thức theo độ dài cấu hình, tức O(nᵏ); vậy kích thước M là đa thức theo n (phần lớn mạch này cài đặt logic của hệ thống bộ nhớ). Mạch C gồm nhiều nhất t = O(nᵏ) bản sao của M, nên kích thước đa thức theo n. F dựng được C từ x trong thời gian đa thức, vì mỗi bước dựng tốn thời gian đa thức. ∎
 
 Vậy ngôn ngữ CIRCUIT-SAT khó ít nhất như mọi ngôn ngữ trong NP, và vì nó thuộc NP, nó là NP-đầy đủ.
 
@@ -1320,7 +1345,9 @@ Các cạnh này tạo thành một chu trình: bắt đầu từ s₁, thăm m�
 V* = { u ∈ V : (s_j, [u, u⁽¹⁾, 1]) ∈ C với một 1 ≤ j ≤ k }                (34.4)
 ```
 
-là phủ đỉnh của G. Chia C thành các đường cực đại bắt đầu tại một đỉnh chọn sᵢ, đi qua cạnh (sᵢ, [u, u⁽¹⁾, 1]) với một u ∈ V, và kết thúc tại một đỉnh chọn s_j mà không đi qua đỉnh chọn nào khác; gọi mỗi đường như vậy là một "**đường phủ**" (cover path). Theo cách dựng G′, mỗi đường phủ phải bắt đầu ở một sᵢ, đi cạnh (sᵢ, [u, u⁽¹⁾, 1]) với một u ∈ V, đi qua mọi cụm ứng với cạnh của E kề u, rồi kết thúc ở một s_j. Gọi đường phủ này là p_u; theo (34.4), u được đưa vào V*. Mỗi cụm mà p_u thăm phải là W_uv hoặc W_vu với một v ∈ V. Với mỗi cụm p_u thăm, các đỉnh của nó được một hoặc hai đường phủ thăm. Nếu một đường phủ, cạnh (u, v) ∈ E được u phủ trong G. Nếu hai, đường phủ kia phải là p_v, suy ra v ∈ V*, và cạnh (u, v) được cả u và v phủ. Vì mọi đỉnh trong mọi cụm đều được một đường phủ nào đó thăm, mọi cạnh trong E đều được một đỉnh nào đó của V* phủ. ∎
+là phủ đỉnh của G. Chia C thành các đường cực đại bắt đầu tại một đỉnh chọn sᵢ, đi qua cạnh (sᵢ, [u, u⁽¹⁾, 1]) với một u ∈ V, và kết thúc tại một đỉnh chọn s_j mà không đi qua đỉnh chọn nào khác; gọi mỗi đường như vậy là một "**đường phủ**" (cover path). Theo cách dựng G′, mỗi đường phủ phải bắt đầu ở một sᵢ, đi cạnh (sᵢ, [u, u⁽¹⁾, 1]) với một u ∈ V, đi qua mọi cụm ứng với cạnh của E kề u, rồi kết thúc ở một s_j. Gọi đường phủ này là p_u; theo (34.4), u được đưa vào V*.
+
+Mỗi cụm mà p_u thăm phải là W_uv hoặc W_vu với một v ∈ V. Với mỗi cụm p_u thăm, các đỉnh của nó được một hoặc hai đường phủ thăm. Nếu một đường phủ, cạnh (u, v) ∈ E được u phủ trong G. Nếu hai, đường phủ kia phải là p_v, suy ra v ∈ V*, và cạnh (u, v) được cả u và v phủ. Vì mọi đỉnh trong mọi cụm đều được một đường phủ nào đó thăm, mọi cạnh trong E đều được một đỉnh nào đó của V* phủ. ∎
 
 #### 34.5.4 Bài toán người bán hàng du lịch (The traveling-salesman problem, trang 1096–1097)
 
@@ -1427,11 +1454,19 @@ Một phép gán thoả mãn: ⟨x₁ = 0, x₂ = 0, x₃ = 1⟩. Bảng số (c
 
 Đọc từ trên xuống, S = {1001001, 1000110, 100001, 101110, 10011, 11100, 1000, 2000, 100, 200, 10, 20, 1, 2} (bỏ chữ số 0 đầu), đích t = 1114444. Tập con S′ gồm v′₁, v′₂, v₃ (ứng với phép gán thoả mãn) và các biến bù s₁, s′₁, s′₂, s₃, s₄, s′₄ để đạt 4 ở các vị trí C₁ tới C₄.
 
-Kiểm tra cộng theo cột (người tổng hợp): vị trí biến: v′₁ + v′₂ + v₃ cho 1, 1, 1. Vị trí mệnh đề từ v′₁, v′₂, v₃: C₁ = 0 + 1 + 0 = 1, C₂ = 1 + 1 + 0 = 2, C₃ = 1 + 1 + 1 = 3, C₄ = 0 + 0 + 1 = 1. Thêm biến bù: C₁ thêm s₁ + s′₁ = 3; C₂ thêm s′₂ = 2; C₃ thêm s₃ = 1; C₄ thêm s₄ + s′₄ = 3. Mỗi cột đều đạt 4. Đổi sang cơ số 7: 1001001₇ = 7⁶ + 7³ + 1 = 117993; 1000110₇ = 117705; 100001₇ = 16808; 101110₇ = 17206; 10011₇ = 2409; 11100₇ = 2793; 1000₇ = 343; 2000₇ = 686; 100₇ = 49; 200₇ = 98; 10₇ = 7; 20₇ = 14; 1; 2; và 1114444₇ = 138457 — đúng là thể hiện ở đầu tiểu mục, và S′ = {117705, 17206, 2409, 343, 686, 98, 7, 1, 2} đúng là lời giải đã cho.
+Kiểm tra cộng theo cột (người tổng hợp): vị trí biến: v′₁ + v′₂ + v₃ cho 1, 1, 1. Vị trí mệnh đề từ v′₁, v′₂, v₃: C₁ = 0 + 1 + 0 = 1, C₂ = 1 + 1 + 0 = 2, C₃ = 1 + 1 + 1 = 3, C₄ = 0 + 0 + 1 = 1. Thêm biến bù: C₁ thêm s₁ + s′₁ = 3; C₂ thêm s′₂ = 2; C₃ thêm s₃ = 1; C₄ thêm s₄ + s′₄ = 3. Mỗi cột đều đạt 4.
 
-**Chiều thuận: φ thoả được ⇒ có tập con tổng t.** Giả sử φ có phép gán thoả mãn. Với i = 1, 2, …, n: nếu xᵢ = 1 thì đưa vᵢ vào S′, ngược lại đưa v′ᵢ. Tức S′ chứa đúng những vᵢ, v′ᵢ ứng với literal có giá trị 1. Vì đưa vào đúng một trong vᵢ, v′ᵢ với mọi i, và các s_j, s′_j có chữ số 0 ở mọi vị trí nhãn biến, tổng ở mỗi vị trí nhãn biến là 1, khớp với t. Vì mỗi mệnh đề được thoả, nó chứa một literal có giá trị 1, nên mỗi vị trí nhãn mệnh đề nhận ít nhất một chữ số 1 từ một vᵢ hoặc v′ᵢ trong S′. Thực ra 1, 2 hoặc 3 literal có thể bằng 1 trong mỗi mệnh đề, nên mỗi vị trí nhãn mệnh đề có tổng 1, 2 hoặc 3 từ các vᵢ, v′ᵢ. (Trong ví dụ, ¬x₁, ¬x₂, x₃ có giá trị 1; C₁ và C₄ chứa đúng một trong các literal này nên v′₁, v′₂, v₃ góp 1 cho vị trí C₁ và C₄; C₂ chứa hai nên góp 2; C₃ chứa cả ba nên góp 3.) Đạt đích 4 ở mỗi vị trí C_j bằng cách thêm vào S′ tập con khác rỗng thích hợp của {s_j, s′_j} (thiếu 3 thì lấy cả hai, thiếu 2 lấy s′_j, thiếu 1 lấy s_j). Khớp t ở mọi chữ số và không có nhớ, nên tổng S′ là t.
+Đổi sang cơ số 7: 1001001₇ = 7⁶ + 7³ + 1 = 117993; 1000110₇ = 117705; 100001₇ = 16808; 101110₇ = 17206; 10011₇ = 2409; 11100₇ = 2793; 1000₇ = 343; 2000₇ = 686; 100₇ = 49; 200₇ = 98; 10₇ = 7; 20₇ = 14; 1; 2; và 1114444₇ = 138457 — đúng là thể hiện ở đầu tiểu mục, và S′ = {117705, 17206, 2409, 343, 686, 98, 7, 1, 2} đúng là lời giải đã cho.
 
-**Chiều nghịch: có tập con tổng t ⇒ φ thoả được.** Giả sử S′ ⊆ S có tổng t. S′ phải chứa đúng một trong vᵢ và v′ᵢ với mỗi i = 1, 2, …, n, nếu không các vị trí nhãn biến không có tổng 1 (không có nhớ nên các cột độc lập). Nếu vᵢ ∈ S′ đặt xᵢ = 1; ngược lại v′ᵢ ∈ S′, đặt xᵢ = 0. Khẳng định mọi mệnh đề C_j, j = 1, 2, …, k, được thoả bởi phép gán này. Để đạt tổng 4 ở vị trí C_j, S′ phải chứa ít nhất một vᵢ hoặc v′ᵢ có chữ số 1 ở vị trí C_j, vì s_j và s′_j cộng lại chỉ được nhiều nhất 3. Nếu S′ chứa một vᵢ có 1 ở vị trí C_j thì literal xᵢ xuất hiện trong C_j; vì đã đặt xᵢ = 1 khi vᵢ ∈ S′, C_j được thoả. Nếu S′ chứa một v′ᵢ có 1 ở vị trí đó thì literal ¬xᵢ xuất hiện trong C_j; vì đã đặt xᵢ = 0 khi v′ᵢ ∈ S′, C_j cũng được thoả. Vậy mọi mệnh đề của φ được thoả. ∎
+**Chiều thuận: φ thoả được ⇒ có tập con tổng t.** Giả sử φ có phép gán thoả mãn. Với i = 1, 2, …, n: nếu xᵢ = 1 thì đưa vᵢ vào S′, ngược lại đưa v′ᵢ. Tức S′ chứa đúng những vᵢ, v′ᵢ ứng với literal có giá trị 1. Vì đưa vào đúng một trong vᵢ, v′ᵢ với mọi i, và các s_j, s′_j có chữ số 0 ở mọi vị trí nhãn biến, tổng ở mỗi vị trí nhãn biến là 1, khớp với t.
+
+Vì mỗi mệnh đề được thoả, nó chứa một literal có giá trị 1, nên mỗi vị trí nhãn mệnh đề nhận ít nhất một chữ số 1 từ một vᵢ hoặc v′ᵢ trong S′. Thực ra 1, 2 hoặc 3 literal có thể bằng 1 trong mỗi mệnh đề, nên mỗi vị trí nhãn mệnh đề có tổng 1, 2 hoặc 3 từ các vᵢ, v′ᵢ. (Trong ví dụ, ¬x₁, ¬x₂, x₃ có giá trị 1; C₁ và C₄ chứa đúng một trong các literal này nên v′₁, v′₂, v₃ góp 1 cho vị trí C₁ và C₄; C₂ chứa hai nên góp 2; C₃ chứa cả ba nên góp 3.)
+
+Đạt đích 4 ở mỗi vị trí C_j bằng cách thêm vào S′ tập con khác rỗng thích hợp của {s_j, s′_j} (thiếu 3 thì lấy cả hai, thiếu 2 lấy s′_j, thiếu 1 lấy s_j). Khớp t ở mọi chữ số và không có nhớ, nên tổng S′ là t.
+
+**Chiều nghịch: có tập con tổng t ⇒ φ thoả được.** Giả sử S′ ⊆ S có tổng t. S′ phải chứa đúng một trong vᵢ và v′ᵢ với mỗi i = 1, 2, …, n, nếu không các vị trí nhãn biến không có tổng 1 (không có nhớ nên các cột độc lập). Nếu vᵢ ∈ S′ đặt xᵢ = 1; ngược lại v′ᵢ ∈ S′, đặt xᵢ = 0. Khẳng định mọi mệnh đề C_j, j = 1, 2, …, k, được thoả bởi phép gán này.
+
+Để đạt tổng 4 ở vị trí C_j, S′ phải chứa ít nhất một vᵢ hoặc v′ᵢ có chữ số 1 ở vị trí C_j, vì s_j và s′_j cộng lại chỉ được nhiều nhất 3. Nếu S′ chứa một vᵢ có 1 ở vị trí C_j thì literal xᵢ xuất hiện trong C_j; vì đã đặt xᵢ = 1 khi vᵢ ∈ S′, C_j được thoả. Nếu S′ chứa một v′ᵢ có 1 ở vị trí đó thì literal ¬xᵢ xuất hiện trong C_j; vì đã đặt xᵢ = 0 khi v′ᵢ ∈ S′, C_j cũng được thoả. Vậy mọi mệnh đề của φ được thoả. ∎
 
 ## Bài tập và bài toán cuối chương
 
@@ -1732,7 +1767,7 @@ Mỗi định lý của Mục 34.4–34.5 minh hoạ một mẹo dựng quy dẫ
 ### Điểm yếu và chỗ đơn giản hoá
 
 - **Chứng minh Cook–Levin chỉ là phác thảo.** Bổ đề 34.6 dựa trên "mạch M cài đặt phần cứng có kích thước đa thức theo độ dài cấu hình" mà không xây dựng M, và giả định bộ nhớ liên tục (Exercise 34.3-5). Người đọc muốn chứng minh chặt phải tìm ở sách lý thuyết tính toán (Sipser, Hopcroft–Motwani–Ullman) với máy Turing — theo hiểu biết của người tổng hợp.
-- **Phép dựng HAM-CYCLE dài và có chỗ hở nhỏ** (đỉnh cô lập, trường hợp k lớn — xem khối Lưu ý), và lời khẳng định "không có cách đi qua cụm nào khác" được nêu mà không chứng minh.
+- **Phép dựng HAM-CYCLE dài và có chỗ hở nhỏ** (đỉnh cô lập, trường hợp k lớn — xem mục Lưu ý cuối chương), và lời khẳng định "không có cách đi qua cụm nào khác" được nêu mà không chứng minh.
 - **Chỉ xét trường hợp xấu nhất và câu hỏi có/không.** Chương không bàn độ phức tạp trung bình, thuật toán mũ "khá tốt" (ví dụ quy hoạch động Held–Karp cho TSP O(n² 2ⁿ), theo hiểu biết của người tổng hợp), hay độ phức tạp tham số hoá — những công cụ mà người làm thực tế dùng hằng ngày khi gặp bài NP-khó.
 - **Không bàn tới các lớp giữa P và NPC.** Exercise 34.2-1 đưa GRAPH-ISOMORPHISM vào NP mà không nói rằng đây là ứng viên nổi tiếng của lớp "không thuộc P cũng không NP-đầy đủ" (định lý Ladner nói nếu P ≠ NP thì lớp này khác rỗng — theo hiểu biết của người tổng hợp).
 - **Ranh giới "đa thức = dễ" được thừa nhận là quy ước triết học**, nhưng ví dụ phản biện (thuật toán đa thức với hằng số hay số mũ khổng lồ; thuật toán mũ chạy tốt trong thực tế như simplex ở Chương 29) chỉ được nhắc lướt.
@@ -1757,3 +1792,177 @@ Theo hiểu biết của người tổng hợp: trong kỹ thuật phần mềm,
 - **Lập trình thi đấu:** khi đề bài là bài NP-khó, giới hạn đầu vào chính là gợi ý: n ≤ 20 thì nghĩ tới quy hoạch động trên tập con (bitmask); tổng giá trị nhỏ thì nghĩ tới quy hoạch động giả đa thức; đồ thị là cây, DAG hay hai phía thì tìm thuật toán đa thức đặc thù; mệnh đề chỉ có 2 literal (2-SAT) thì dùng thành phần liên thông mạnh.
 - **Kỹ thuật phần mềm:** gặp bài lập lịch, xếp lịch họp, phân bổ tài nguyên, định tuyến xe, kiểm tra phụ thuộc gói phần mềm (phiên bản tương thích là bài SAT — theo hiểu biết của người tổng hợp), hãy nghĩ ngay tới: mã hoá thành SAT/quy hoạch nguyên và dùng bộ giải có sẵn, heuristic có bảo đảm xấp xỉ, hoặc giới hạn kích thước đầu vào — thay vì tự viết thuật toán "chính xác và nhanh".
 
+## Bản đồ tư duy
+
+Toàn cảnh Chương 34 trên một trang: 5 nhánh lớn theo trình tự của bản gốc (phần mở đầu và Mục 34.1 đến 34.5), mỗi nhánh ghi định nghĩa, định lý, phép quy dẫn và ví dụ then chốt, thêm một nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 34: bài toán NP-đầy đủ kiểm chứng nhanh, chưa ai giải nhanh, và chứng minh bằng quy dẫn từ bài đã biết khó`"]
+  n1["`Phần mở đầu và Mục 34.1 — Thời gian đa thức và lớp P`"]
+  n0 --- n1
+  n2["`Đa thức O(nᵏ) được coi là dễ xử lý, lớn hơn mọi đa thức là khó xử lý`"]
+  n1 --- n2
+  n3["`Ba cặp trông giống mà khác hẳn: đường ngắn nhất/dài nhất, chu trình Euler/Hamilton, 2-CNF/3-CNF`"]
+  n1 --- n3
+  n4["`Chỉ xét bài toán quyết định có/không – quyết định khó thì bài toán tối ưu cũng khó`"]
+  n1 --- n4
+  n5["`Lý do coi đa thức là dễ: hiếm khi cần Θ(n¹⁰⁰), bất biến giữa các mô hình, đóng với cộng, nhân, hợp hàm`"]
+  n1 --- n5
+  n6["`Mã hoá ảnh hưởng: thuật toán Θ(k) là O(n) với mã một ngôi nhưng Θ(2ⁿ) với mã nhị phân`"]
+  n1 --- n6
+  n7["`Bổ đề 34.1: hai mã liên hệ đa thức cho cùng kết luận thuộc P hay không – loại mã một ngôi`"]
+  n1 --- n7
+  n8["`Bài toán quyết định đồng nhất với ngôn ngữ L gồm các thể hiện có câu trả lời “có”`"]
+  n1 --- n8
+  n9["`Quyết định L là trả lời đúng 1 hoặc 0 với mọi xâu, chấp nhận chỉ cần trả 1 với xâu thuộc L`"]
+  n1 --- n9
+  n10["`Định lý 34.2: P là lớp ngôn ngữ được chấp nhận (tương đương quyết định) trong thời gian đa thức`"]
+  n1 --- n10
+  n11["`Mục 34.2 — Kiểm chứng trong thời gian đa thức và lớp NP`"]
+  n0 --- n11
+  n12["`HAM-CYCLE: vét cạn mọi hoán vị tốn Ω(2^√n), nhưng kiểm một chu trình đưa sẵn chỉ O(n²)`"]
+  n11 --- n12
+  n13["`Đồ thị hai phía có số đỉnh lẻ không có chu trình Hamilton`"]
+  n11 --- n13
+  n14["`Thuật toán kiểm chứng A(x, y): x thuộc L khi và chỉ khi có chứng chỉ y làm A trả 1`"]
+  n11 --- n14
+  n15["`NP là các ngôn ngữ kiểm chứng được trong thời gian đa thức với chứng chỉ dài O(|x|ᶜ)`"]
+  n11 --- n15
+  n16["`HAM-CYCLE thuộc NP và P ⊆ NP – đa số tin P ≠ NP nhưng chưa ai chứng minh`"]
+  n11 --- n16
+  n17["`co-NP gồm các L có phần bù thuộc NP, P ⊆ NP ∩ co-NP, ví dụ TAUTOLOGY thuộc co-NP`"]
+  n11 --- n17
+  n18["`Bốn khả năng quan hệ P, NP, co-NP – nhiều khả năng nhất là NP ≠ co-NP và P ⊊ NP ∩ co-NP`"]
+  n11 --- n18
+  n19["`Mục 34.3 — Quy dẫn và bài NP-đầy đủ đầu tiên CIRCUIT-SAT`"]
+  n0 --- n19
+  n20["`Quy dẫn L₁ ≤ₚ L₂: hàm f tính trong thời gian đa thức, x ∈ L₁ khi và chỉ khi f(x) ∈ L₂`"]
+  n19 --- n20
+  n21["`Bổ đề 34.3: L₁ ≤ₚ L₂ và L₂ thuộc P thì L₁ thuộc P (chạy f rồi chạy thuật toán của L₂)`"]
+  n19 --- n21
+  n22["`L NP-đầy đủ khi thuộc NP và mọi ngôn ngữ trong NP quy dẫn về L – chỉ điều kiện sau là NP-khó`"]
+  n19 --- n22
+  n23["`Định lý 34.4: một bài NP-đầy đủ thuộc P thì P = NP`"]
+  n19 --- n23
+  n24["`CIRCUIT-SAT hỏi mạch Boole gồm cổng NOT, AND, OR có phép gán đầu vào làm đầu ra bằng 1 không`"]
+  n19 --- n24
+  n25["`Bổ đề 34.5: CIRCUIT-SAT thuộc NP – chứng chỉ là giá trị mọi dây, kiểm trong thời gian tuyến tính`"]
+  n19 --- n25
+  n26["`Bổ đề 34.6: dán T(n) bản sao mạch M mô phỏng từng bước kiểm chứng, chỉ chứng chỉ y làm đầu vào`"]
+  n19 --- n26
+  n27["`Định lý 34.7: CIRCUIT-SAT là NP-đầy đủ`"]
+  n19 --- n27
+  n28["`Mục 34.4 — Phương pháp chứng minh, SAT và 3-CNF-SAT`"]
+  n0 --- n28
+  n29["`Bổ đề 34.8: L thuộc NP và một bài NP-đầy đủ đã biết quy dẫn về L thì L NP-đầy đủ`"]
+  n28 --- n29
+  n30["`Năm bước: chứng minh thuộc NP, chọn bài đã biết, dựng f, chứng minh giữ câu trả lời, f đa thức`"]
+  n28 --- n30
+  n31["`Định lý 34.9: CIRCUIT-SAT ≤ₚ SAT bằng mỗi dây một biến, mỗi cổng một mệnh đề tương đương ↔`"]
+  n28 --- n31
+  n32["`Thay thẳng đầu vào cổng bằng công thức bị nổ mũ khi một dây toả ra từ 2 cổng trở lên`"]
+  n28 --- n32
+  n33["`Định lý 34.10: SAT ≤ₚ 3-CNF-SAT qua cây phân tích nhị phân, mỗi nút trong một biến yᵢ`"]
+  n28 --- n33
+  n34["`Mỗi mệnh đề nhỏ: bảng chân trị tối đa 8 hàng, lấy DNF của phủ định rồi De Morgan ra CNF`"]
+  n28 --- n34
+  n35["`Thêm biến phụ p, q để mọi mệnh đề có đúng 3 literal, kích thước chỉ tăng hằng số lần`"]
+  n28 --- n35
+  n36["`Mục 34.5 — Chuỗi quy dẫn tới các bài toán đồ thị và tổng tập con`"]
+  n0 --- n36
+  n37["`Mục 34.5.1 — CLIQUE`"]
+  n36 --- n37
+  n38["`CLIQUE hỏi đồ thị có đồ thị con đầy đủ k đỉnh không, vét cạn chỉ đa thức khi k là hằng`"]
+  n37 --- n38
+  n39["`Định lý 34.11: 3-CNF-SAT ≤ₚ CLIQUE, mỗi mệnh đề thành bộ ba đỉnh`"]
+  n37 --- n39
+  n40["`Nối hai đỉnh khác bộ ba khi hai literal không là phủ định của nhau, φ thoả được khi có clique cỡ số mệnh đề`"]
+  n37 --- n40
+  n41["`Ví dụ 3 mệnh đề cho đồ thị 9 đỉnh 21 cạnh`"]
+  n37 --- n41
+  n42["`Mục 34.5.2 — VERTEX-COVER`"]
+  n36 --- n42
+  n43["`Phủ đỉnh là tập đỉnh chạm mọi cạnh của đồ thị`"]
+  n42 --- n43
+  n44["`Định lý 34.12: CLIQUE ≤ₚ VERTEX-COVER qua đồ thị bù, ⟨G, k⟩ biến thành ⟨Ḡ, |V| − k⟩`"]
+  n42 --- n44
+  n45["`V′ là clique của G khi và chỉ khi V − V′ là phủ đỉnh của Ḡ`"]
+  n42 --- n45
+  n46["`Mục 34.5.3 — HAM-CYCLE`"]
+  n36 --- n46
+  n47["`Định lý 34.13: VERTEX-COVER ≤ₚ HAM-CYCLE, mỗi cạnh thành cụm 12 đỉnh 14 cạnh`"]
+  n46 --- n47
+  n48["`Cụm chỉ cho 3 cách đi qua: chỉ u phủ, cả u và v phủ, chỉ v phủ`"]
+  n46 --- n48
+  n49["`k đỉnh chọn s₁..sₖ chọn k đỉnh của phủ, |V′| = 12|E| + k`"]
+  n46 --- n49
+  n50["`Ví dụ đồ thị 4 cạnh với phủ {w, y} cho đồ thị G′ 50 đỉnh`"]
+  n46 --- n50
+  n51["`Mục 34.5.4 — TSP`"]
+  n36 --- n51
+  n52["`Định lý 34.14: HAM-CYCLE ≤ₚ TSP, chi phí 0 cho cạnh của G, 1 cho cạnh không có`"]
+  n51 --- n52
+  n53["`G có chu trình Hamilton khi và chỉ khi có hành trình chi phí 0`"]
+  n51 --- n53
+  n54["`Mục 34.5.5 — SUBSET-SUM`"]
+  n36 --- n54
+  n55["`Định lý 34.15: 3-CNF-SAT ≤ₚ SUBSET-SUM bằng số thập phân, chữ số cao theo biến, chữ số thấp theo mệnh đề`"]
+  n54 --- n55
+  n56["`Cột biến tổng bằng 1 là chọn đúng một trong vᵢ, v′ᵢ, tức một phép gán`"]
+  n54 --- n56
+  n57["`Cột mệnh đề tổng bằng 4, biến bù góp tối đa 3 nên cần ít nhất một literal đúng`"]
+  n54 --- n57
+  n58["`Mỗi cột tổng tối đa 6 nên không có nhớ, các cột độc lập`"]
+  n54 --- n58
+  n59["`Chỉ NP-đầy đủ khi số viết nhị phân, quy hoạch động O(|S| · t) là giả đa thức`"]
+  n54 --- n59
+  n60["`Thông điệp xuyên suốt`"]
+  n0 --- n60
+  n61["`Mọi bài NP-đầy đủ khó ngang nhau: hoặc tất cả giải nhanh (P = NP) hoặc không bài nào`"]
+  n60 --- n61
+  n62["`Quy dẫn từ bài đã biết khó sang bài mới, chiều ngược lại chỉ cho thấy bài mới không khó hơn`"]
+  n60 --- n62
+  n63["`Kỹ thuật lặp lại: một biến mỗi dây, bảng chân trị, cụm thiết bị, đồ thị bù, chi phí 0/1, chữ số không nhớ`"]
+  n60 --- n63
+  n64["`Lịch sử: Cook 1971 chứng minh SAT NP-đầy đủ, Karp 1972 thêm clique, phủ đỉnh, chu trình Hamilton`"]
+  n60 --- n64
+  n65["`Chứng minh được NP-đầy đủ thì chuyển sang thuật toán xấp xỉ (Chương 35) hoặc trường hợp đặc biệt`"]
+  n60 --- n65
+  class n0 root
+  class n1,n11,n19,n28,n36,n60 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n12,n13,n14,n15,n16,n17,n18,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n61,n62,n63,n64,n65 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VII "Selected Topics", Chương 34 "NP-Completeness", trang 1048–1105 (phần mở đầu 1048–1053; Mục 34.1–34.5 trang 1053–1101; Problems 1101–1104; Chapter notes 1104–1105).
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Gần như toàn bộ cuốn sách trước chương này dạy cách *thiết kế* thuật toán thời gian đa thức: sắp xếp (Chương 2, 6–8), tìm kiếm trên đồ thị và chu trình Euler (Chương 22, [C22-thuat-toan-do-thi-co-ban.md](C22-thuat-toan-do-thi-co-ban.md)), đường đi ngắn nhất (Chương 24, [C24-duong-di-ngan-nhat-tu-mot-nguon.md](C24-duong-di-ngan-nhat-tu-mot-nguon.md)), luồng và cặp ghép (Chương 26, [C26-luong-cuc-dai.md](C26-luong-cuc-dai.md)), quy hoạch tuyến tính (Chương 29, [C29-quy-hoach-tuyen-tinh.md](C29-quy-hoach-tuyen-tinh.md)). Chỉ có một lần sách chứng minh *cận dưới* — Ω(n lg n) cho sắp xếp bằng so sánh ở Chương 8 ([C08-sap-xep-thoi-gian-tuyen-tinh.md](C08-sap-xep-thoi-gian-tuyen-tinh.md)). Chương 34 đổi hướng: nó cho công cụ để chứng minh một bài toán *có lẽ không* có thuật toán nhanh, bằng cách xếp bài toán vào lớp NP-đầy đủ qua phép quy dẫn.
+
+Chương dùng lại nhiều thứ trước đó: BFS để quyết định PATH, thuật toán quy hoạch động ba lô 0-1 của Exercise 16.2-2 (Chương 16, [C16-thuat-toan-tham-lam.md](C16-thuat-toan-tham-lam.md)) làm ví dụ thuật toán "giả đa thức", thành phần liên thông mạnh cho 2-CNF-SAT (Chương 22), cặp ghép hai phía (Chương 26) cho tập độc lập trên đồ thị hai phía. Các khái niệm đồ thị (chu trình đơn, đồ thị hai phía, đồ thị đầy đủ) lấy từ Phụ lục B ([PB-tap-hop-va-cau-truc-roi-rac.md](PB-tap-hop-va-cau-truc-roi-rac.md)).
+
+Chương 35 ([C35-thuat-toan-xap-xi.md](C35-thuat-toan-xap-xi.md)) là hệ quả trực tiếp: khi bài toán đã được chứng minh NP-đầy đủ, ta chuyển sang thuật toán xấp xỉ cho chính các bài toán của chương này — phủ đỉnh, người bán hàng du lịch, tổng tập con.
+
+## Lưu ý
+
+- **Không có mục có dấu sao (★) trong chương này**, và trong ấn bản người tổng hợp đọc, không bài tập hay bài toán nào của Chương 34 được đánh dấu sao. Tuy vậy, một số bài có phần khó thật sự (Exercise 34.5-3 cần cận số bit của nghiệm quy hoạch nguyên; Problem 34-3 chứng minh 3-COLOR NP-đầy đủ).
+- **Lớp chữ PDF hỏng nhiều ký hiệu của chương:** "P¤ NP" là P ≠ NP; "/NUL" là dấu trừ (ví dụ "NP/NUL P" là NP − P, "jVj/NUL k" là |V| − k); "‚.n100/" là Θ(n¹⁰⁰); ".pn/" là Ω(√n) và ".2pn/" là Ω(2^√n); "P" đứng một mình là ký hiệu quy dẫn ≤ₚ; ký hiệu đỉnh *v* (chữ nu) bị mất hẳn (ví dụ "hG; u; ; ki" là ⟨G, u, v, k⟩); "˛", "ˇ" là α, β; "" là φ (các φ′, φ″, φ‴ bị vỡ thành "0", "00", "000"); Σ trong định nghĩa SUBSET-SUM và trong cận số cạnh bị mất; các chỉ số trên u⁽ⁱ⁾, u⁽ᵈᵉᵍʳᵉᵉ⁽ᵘ⁾⁾ ở Mục 34.5.3 vỡ thành nhiều dòng. Người tổng hợp đã xem ảnh **tất cả** các trang 1048–1105; mọi công thức, định nghĩa ngôn ngữ, bảng chân trị và hình (Hình 34.1–34.20) được chép lại từ ảnh trang. Các hình có nối dây/cạnh phức tạp được dựng lại ở độ phân giải cao để đọc chính xác: Hình 34.8 (trang 1072, hai mạch thoả được/không thoả được), Hình 34.15 (trang 1090), Hình 34.16 (trang 1092, cụm 14 cạnh), Hình 34.18 (trang 1096, chi phí TSP). Cách nối dây của Hình 34.8(a) được đối chiếu với công thức của Hình 34.10 (trang 1081) và khớp hoàn toàn.
+- **Chỗ sách chưa chặt (nhận xét của người tổng hợp):**
+  1. Trang 1051 định nghĩa PATH là "cho đồ thị *có hướng* G …", nhưng ngay trước đó SHORTEST-PATH được định nghĩa trên đồ thị *vô hướng*, và ngôn ngữ PATH ở trang 1058 lại ghi "G = (V, E) là đồ thị vô hướng". Bản tổng hợp dùng đồ thị vô hướng thống nhất. (Theo hiểu biết của người tổng hợp, không tra cứu, đây là một mục trong errata của ấn bản 3.)
+  2. Trang 1062: thuật toán vét cạn "kiểm tra mỗi hoán vị có phải *đường đi* Hamilton" — đúng ra là *chu trình* Hamilton (đường đi khép kín); và "m = Ω(√n)" thực ra là m = Θ(√n) với mã ma trận kề, nhưng cận Ω đủ cho lập luận.
+  3. Chú thích Hình 34.17 (trang 1093) viết "hamiltonian *path* corresponding to the vertex cover shaded", trong khi thứ được tô là một *chu trình* Hamilton.
+  4. Phép dựng của Định lý 34.13 ngầm giả định mọi đỉnh của G có bậc ít nhất 1: đỉnh cô lập u không có cụm nào nên đỉnh [u, u⁽¹⁾, 1] không tồn tại, và đẳng thức Σ_{u∈V}(degree(u) − 1) = 2|E| − |V| sai khi có đỉnh bậc 0 (đỉnh đó đóng góp −1 dù không có cạnh nào). Cách sửa đơn giản: xoá các đỉnh cô lập trước khi quy dẫn (chúng không bao giờ cần trong phủ đỉnh nhỏ nhất), và xử lý riêng trường hợp k lớn hơn số đỉnh còn lại.
+  5. Định nghĩa 3-CNF đòi "đúng ba literal khác nhau" và ví dụ ở trang 1082 có mệnh đề (x₁ ∨ ¬x₁ ∨ ¬x₂) chứa cả biến lẫn phủ định — hợp lệ vì x₁ và ¬x₁ là hai literal khác nhau; nhưng chứng minh SUBSET-SUM (trang 1098) phải giả định thêm không có mệnh đề như vậy. Hai chỗ không mâu thuẫn, chỉ cần đọc kỹ.
+- **Mọi ví dụ chạy tay trong sách đã được tự kiểm tra lại và đúng:** công thức 2-CNF ở phần mở đầu với x₁ = 1, x₂ = 0, x₃ = 1; giá trị dây của mạch (a) với ⟨1, 1, 0⟩ và tính không thoả được của mạch (b); phép tính (34.2) cho φ = 1; công thức φ của Hình 34.10; bảng chân trị Hình 34.12 và công thức CNF φ″₁; đồ thị Hình 34.14 (21 cạnh) và clique {¬x₂, x₃, x₃}; Hình 34.15 (clique {u, v, x, y}, phủ đỉnh {w, z}); chu trình Hamilton 50 đỉnh của Hình 34.17; hành trình chi phí 7 của Hình 34.18 (hai hành trình còn lại chi phí 14 và 11); bảng Hình 34.19 (mỗi cột đạt 4) và chú thích 11 — đổi sang cơ số 7 cho đúng thể hiện ở đầu Mục 34.5.5 với tổng 138457.
+- **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương vẫn là Chương 34 "NP-Completeness", vẫn theo trình tự: lớp P; kiểm chứng và lớp NP; quy dẫn và CIRCUIT-SAT; SAT và 3-CNF-SAT; rồi các bài toán đồ thị và tổng tập con, và vẫn được tiếp nối bởi Chương 35 về thuật toán xấp xỉ. Các khác biệt cụ thể về bài tập và lời văn, người tổng hợp không nhớ chắc nên không liệt kê.

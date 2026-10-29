@@ -1,21 +1,16 @@
 # Chương 32 — So khớp chuỗi (String Matching)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VII "Selected Topics", Chương 32 "String Matching", trang 985–1013.
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
-**Vị trí trong lập luận của cả cuốn sách:** Phần VII gom các chủ đề chọn lọc, mỗi chương dùng lại công cụ của các phần trước cho một miền bài toán cụ thể. Chương 32 dựa trên: phân tích thuật toán cơ bản và bất biến vòng lặp của Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)); băm bằng phép chia lấy dư và giả định "băm như ánh xạ ngẫu nhiên" của Chương 11 ([C11-bang-bam.md](C11-bang-bam.md)), là nền của thuật toán Rabin-Karp; phân tích khấu hao theo phương pháp gộp và phương pháp thế năng của Chương 17 ([C17-phan-tich-khau-hao.md](C17-phan-tich-khau-hao.md)), dùng để chứng minh KMP chạy tuyến tính; quy tắc Horner của Chương 30 ([C30-da-thuc-va-fft.md](C30-da-thuc-va-fft.md)); đồng dư, số nguyên tố và lũy thừa theo modulo của Chương 31 ([C31-thuat-toan-so-hoc.md](C31-thuat-toan-so-hoc.md)), ngay trước chương này. Chương 15 ([C15-quy-hoach-dong.md](C15-quy-hoach-dong.md)) đã gặp một bài toán khác trên chuỗi là dãy con chung dài nhất; Chương 32 thì tìm *chuỗi con liên tiếp* trùng khớp hoàn toàn. Chương 33 ([C33-hinh-hoc-tinh-toan.md](C33-hinh-hoc-tinh-toan.md)) chuyển sang hình học tính toán; Chương 34 ([C34-np-day-du.md](C34-np-day-du.md)) bàn tới các bài toán khó, trái ngược với so khớp chuỗi là bài toán giải được trong thời gian tuyến tính.
-**Ý chính:** Tác giả muốn người đọc hiểu rằng **bài toán tìm mọi vị trí xuất hiện của mẫu P độ dài m trong văn bản T độ dài n giải được trong thời gian tuyến tính Θ(n + m), và chìa khoá là tiền xử lý mẫu để không bao giờ phải đọc lại văn bản: thuật toán ngây thơ lãng phí vì quên mọi thông tin đã thu được khi chuyển sang độ dịch kế tiếp; ôtômat hữu hạn ghi nhớ thông tin đó dưới dạng một trạng thái duy nhất (độ dài của tiền tố dài nhất của P vừa khớp với phần cuối văn bản đã đọc); thuật toán Knuth-Morris-Pratt (KMP) đạt cùng hiệu quả mà chỉ cần một mảng π độ dài m thay cho bảng chuyển trạng thái cỡ m|Σ|.** Phần mở đầu định nghĩa bài toán (độ dịch hợp lệ s: T[s + 1..s + m] = P[1..m]), bảng so sánh bốn thuật toán, ký hiệu tiền tố ⊏ và hậu tố ⊐, và Bổ đề 32.1 về hai hậu tố của cùng một chuỗi. Mục 32.1 trình bày thuật toán ngây thơ O((n − m + 1)m), chặt trong trường hợp xấu nhất với T = aⁿ, P = aᵐ. Mục 32.2 trình bày Rabin-Karp: coi mỗi cửa sổ m ký tự là một số, cập nhật giá trị cửa sổ trong O(1) khi trượt, làm việc theo modulo một số nguyên tố q, chỉ kiểm tra từng ký tự khi giá trị băm trùng; xấu nhất vẫn Θ((n − m + 1)m), nhưng kỳ vọng O(n + m) khi có ít độ dịch hợp lệ và q ≥ m. Mục 32.3 xây ôtômat so khớp chuỗi với δ(q, a) = σ(P_q a), chứng minh qua Bổ đề 32.2, 32.3 và Định lý 32.4 rằng ôtômat luôn ở trạng thái σ(T_i); khớp Θ(n), tiền xử lý O(m³|Σ|) bằng cách tính trực tiếp (có thể giảm xuống O(m|Σ|)). Mục ★32.4 trình bày KMP: hàm tiền tố π[q] là độ dài tiền tố dài nhất của P đồng thời là hậu tố thực sự của P_q; COMPUTE-PREFIX-FUNCTION chạy Θ(m) và KMP-MATCHER chạy Θ(n) nhờ phân tích khấu hao; tính đúng được chứng minh qua Bổ đề 32.5, 32.6, Hệ quả 32.7 và lập luận rằng KMP mô phỏng chính xác ôtômat.
+## Ý chính
 
-> **Lưu ý:**
-> - **Mục có dấu sao (★):** Mục 32.4 "The Knuth-Morris-Pratt algorithm" có dấu sao trong sách (mục nâng cao, có thể bỏ qua khi đọc lần đầu). Bài tập có dấu sao: Exercise 32.3-4 và Exercise 32.4-8.
-> - **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của chương:** Σ thành `†`, Θ thành `‚`, dấu trừ thành `/NUL` (ví dụ `n/NUL m` là n − m), ký hiệu tiền tố ⊏ thành `❁`, ký hiệu hậu tố ⊐ thành `=` (rất dễ đọc nhầm thành dấu bằng), dấu ≤ và ≠ mất hẳn (`m  n` là m ≤ n), chữ σ, δ, φ, π lần lượt mất hoặc thành `ı`, `.`, ký tự lạ; `TŒ 1::n` là T[1..n]; chỉ số dưới như P_q, T_i, t_s bị vỡ thành chữ thường liền nhau. Mọi pseudocode (NAIVE-STRING-MATCHER, RABIN-KARP-MATCHER, FINITE-AUTOMATON-MATCHER, COMPUTE-TRANSITION-FUNCTION, KMP-MATCHER, COMPUTE-PREFIX-FUNCTION, REPETITION-MATCHER), công thức (32.1)–(32.9), các bổ đề và Hình 32.1–32.11 trong bản tổng hợp này được đối chiếu với ảnh trang 985–1013 (đã xem ảnh của tất cả các trang).
-> - **Chỗ sách viết chưa chặt (nhận xét của người tổng hợp):**
->   - Trang 1011, trường hợp σ(T_i) = 0 trong chứng minh tính đúng của KMP, sách viết "although P_q ⊐ T_i for every q ∈ π\*[q′]". Theo lập luận, điều đúng là P_q ⊐ T_{i−1} (vì q′ = σ(T_{i−1}) nên P_{q′} ⊐ T_{i−1}, và mọi P_q với q ∈ π\*[q′] là hậu tố của P_{q′}). Viết "T_i" ở đây là sai chỉ số; ý của câu (vòng while đi qua mọi trạng thái của π\*[q′] mà không tìm được q nào có P[q + 1] = T[i]) vẫn đúng.
->   - Định nghĩa π\*[q] (trang 1007) nói dãy "dừng khi gặp π^(t)[q] = 0", nhưng không nói rõ 0 có thuộc tập hay không; từ Bổ đề 32.5 và ví dụ π\*[5] = {3, 1, 0} thì 0 thuộc tập. Bản tổng hợp ghi rõ điều này.
->   - Chú thích Hình 32.6 viết "shown blackend" — lỗi chính tả của "blackened" (tô đen); không ảnh hưởng nội dung.
->   - Trong COMPUTE-TRANSITION-FUNCTION, dòng 4 gán k = min(m + 1, q + 2), còn lời giải thích nói giá trị lớn nhất có thể của k là min(m, q + 1). Hai cách viết khớp nhau vì vòng repeat giảm k trước khi kiểm tra; người đọc dễ tưởng mâu thuẫn.
->   - Người tổng hợp không chắc các chỗ trên có nằm trong danh sách lỗi chính thức (errata) của ấn bản 3 hay không — theo hiểu biết của người tổng hợp, không tra cứu.
-> - **Mọi ví dụ chạy tay trong sách đã được tự kiểm tra lại và đúng:** ví dụ P = abaa trong T = abcabaabcabac (độ dịch hợp lệ duy nhất s = 3); bốn lần đặt mẫu aab lên acaabc (hợp lệ ở s = 2); mười lăm giá trị cửa sổ theo modulo 13 của văn bản 2359023141526739921 (8, 9, 3, 11, 0, 1, 7, 8, 4, 5, 10, 11, 7, 9, 11) và phép tính 14152 ≡ (7 − 3·3)·10 + 2 ≡ 8 (mod 13); bảng chuyển trạng thái 8 × 3 của ôtômat cho ababaca và dãy trạng thái 0 1 2 3 4 5 4 5 6 7 2 3 trên abababacaba; ôtômat hai trạng thái trên abaaa và abbaa; hàm tiền tố 0 0 1 2 3 0 1 của ababaca và π\*[5] = {3, 1, 0}; ví dụ KMP chuyển từ trạng thái 5 với ký tự c, b, a.
-> - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương So khớp chuỗi vẫn là Chương 32, giữ bốn mục thuật toán ngây thơ, Rabin-Karp, ôtômat hữu hạn và KMP, và thêm một mục mới 32.5 về mảng hậu tố (suffix arrays) kèm mảng tiền tố chung dài nhất (LCP). Như ở cả cuốn ấn bản 4, thuộc tính `T.length`, `P.length` được bỏ, độ dài được truyền như tham số. Các khác biệt nhỏ hơn về bài tập và lời văn, người tổng hợp không nhớ chắc nên không liệt kê.
+Tác giả muốn người đọc hiểu rằng **bài toán tìm mọi vị trí xuất hiện của mẫu P độ dài m trong văn bản T độ dài n giải được trong thời gian tuyến tính Θ(n + m), và chìa khoá là tiền xử lý mẫu để không bao giờ phải đọc lại văn bản: thuật toán ngây thơ lãng phí vì quên mọi thông tin đã thu được khi chuyển sang độ dịch kế tiếp; ôtômat hữu hạn ghi nhớ thông tin đó dưới dạng một trạng thái duy nhất (độ dài của tiền tố dài nhất của P vừa khớp với phần cuối văn bản đã đọc); thuật toán Knuth-Morris-Pratt (KMP) đạt cùng hiệu quả mà chỉ cần một mảng π độ dài m thay cho bảng chuyển trạng thái cỡ m|Σ|.**
+
+Phần mở đầu định nghĩa bài toán (độ dịch hợp lệ s: T[s + 1..s + m] = P[1..m]), bảng so sánh bốn thuật toán, ký hiệu tiền tố ⊏ và hậu tố ⊐, và Bổ đề 32.1 về hai hậu tố của cùng một chuỗi. Mục 32.1 trình bày thuật toán ngây thơ O((n − m + 1)m), chặt trong trường hợp xấu nhất với T = aⁿ, P = aᵐ.
+
+Mục 32.2 trình bày Rabin-Karp: coi mỗi cửa sổ m ký tự là một số, cập nhật giá trị cửa sổ trong O(1) khi trượt, làm việc theo modulo một số nguyên tố q, chỉ kiểm tra từng ký tự khi giá trị băm trùng; xấu nhất vẫn Θ((n − m + 1)m), nhưng kỳ vọng O(n + m) khi có ít độ dịch hợp lệ và q ≥ m.
+
+Mục 32.3 xây ôtômat so khớp chuỗi với δ(q, a) = σ(P_q a), chứng minh qua Bổ đề 32.2, 32.3 và Định lý 32.4 rằng ôtômat luôn ở trạng thái σ(T_i); khớp Θ(n), tiền xử lý O(m³|Σ|) bằng cách tính trực tiếp (có thể giảm xuống O(m|Σ|)).
+
+Mục ★32.4 trình bày KMP: hàm tiền tố π[q] là độ dài tiền tố dài nhất của P đồng thời là hậu tố thực sự của P_q; COMPUTE-PREFIX-FUNCTION chạy Θ(m) và KMP-MATCHER chạy Θ(n) nhờ phân tích khấu hao; tính đúng được chứng minh qua Bổ đề 32.5, 32.6, Hệ quả 32.7 và lập luận rằng KMP mô phỏng chính xác ôtômat.
 
 ## Sơ đồ
 
@@ -490,7 +485,9 @@ Lưu ý cài đặt (người tổng hợp): ở dòng 14, biểu thức t_s −
 
 RABIN-KARP-MATCHER tốn Θ(m) tiền xử lý, và thời gian khớp xấu nhất là Θ((n − m + 1)m), vì (giống thuật toán ngây thơ) Rabin-Karp kiểm tra tường minh mọi độ dịch hợp lệ. Nếu P = aᵐ và T = aⁿ, việc kiểm tra tốn Θ((n − m + 1)m), vì cả n − m + 1 độ dịch đều hợp lệ.
 
-Trong nhiều ứng dụng, ta chờ đợi ít độ dịch hợp lệ — có thể chỉ một số hằng c. Khi đó thời gian khớp kỳ vọng chỉ là O((n − m + 1) + cm) = O(n + m), cộng thời gian xử lý các trúng giả. Có thể phân tích theo kiểu kinh nghiệm (heuristic) dựa trên giả định rằng phép lấy dư theo q hoạt động như một ánh xạ ngẫu nhiên từ Σ\* vào Z_q (xem phần bàn về băm bằng phép chia ở Mục 11.3.1). Giả định này khó hình thức hoá và chứng minh, dù một hướng khả thi là giả định q được chọn ngẫu nhiên trong các số nguyên có độ lớn thích hợp; sách không theo đuổi hướng này. Khi đó ta kỳ vọng số trúng giả là O(n/q), vì có thể ước lượng xác suất một t_s bất kỳ đồng dư với p theo modulo q là 1/q. Vì có O(n) vị trí mà phép thử ở dòng 10 thất bại và mỗi lần trúng tốn O(m), thời gian khớp kỳ vọng của Rabin-Karp là
+Trong nhiều ứng dụng, ta chờ đợi ít độ dịch hợp lệ — có thể chỉ một số hằng c. Khi đó thời gian khớp kỳ vọng chỉ là O((n − m + 1) + cm) = O(n + m), cộng thời gian xử lý các trúng giả.
+
+Có thể phân tích theo kiểu kinh nghiệm (heuristic) dựa trên giả định rằng phép lấy dư theo q hoạt động như một ánh xạ ngẫu nhiên từ Σ\* vào Z_q (xem phần bàn về băm bằng phép chia ở Mục 11.3.1). Giả định này khó hình thức hoá và chứng minh, dù một hướng khả thi là giả định q được chọn ngẫu nhiên trong các số nguyên có độ lớn thích hợp; sách không theo đuổi hướng này. Khi đó ta kỳ vọng số trúng giả là O(n/q), vì có thể ước lượng xác suất một t_s bất kỳ đồng dư với p theo modulo q là 1/q. Vì có O(n) vị trí mà phép thử ở dòng 10 thất bại và mỗi lần trúng tốn O(m), thời gian khớp kỳ vọng của Rabin-Karp là
 
 ```text
 O(n) + O(m (v + n/q))
@@ -571,7 +568,9 @@ Hàm σ được định nghĩa tốt vì chuỗi rỗng P₀ = ε là hậu t�
 δ(q, a) = σ(P_q a)                                                    (32.4)
 ```
 
-**Vì sao định nghĩa như vậy.** Ta muốn theo dõi tiền tố dài nhất của mẫu P đã khớp với văn bản T tới thời điểm hiện tại. Xét các ký tự vừa đọc gần nhất của T. Để một chuỗi con của T — chẳng hạn chuỗi con kết thúc tại T[i] — khớp với một tiền tố P_j nào đó của P, thì P_j phải là hậu tố của T_i. Giả sử q = φ(T_i), tức sau khi đọc T_i ôtômat ở trạng thái q. Ta thiết kế δ sao cho số hiệu trạng thái q này cho biết độ dài của tiền tố dài nhất của P khớp với một hậu tố của T_i. Nghĩa là, ở trạng thái q thì P_q ⊐ T_i và q = σ(T_i). (Mỗi khi q = m, cả m ký tự của P khớp với một hậu tố của T_i, tức đã tìm được một lần khớp.) Vì φ(T_i) và σ(T_i) đều bằng q, ta sẽ thấy (Định lý 32.4) ôtômat duy trì bất biến
+**Vì sao định nghĩa như vậy.** Ta muốn theo dõi tiền tố dài nhất của mẫu P đã khớp với văn bản T tới thời điểm hiện tại. Xét các ký tự vừa đọc gần nhất của T. Để một chuỗi con của T — chẳng hạn chuỗi con kết thúc tại T[i] — khớp với một tiền tố P_j nào đó của P, thì P_j phải là hậu tố của T_i.
+
+Giả sử q = φ(T_i), tức sau khi đọc T_i ôtômat ở trạng thái q. Ta thiết kế δ sao cho số hiệu trạng thái q này cho biết độ dài của tiền tố dài nhất của P khớp với một hậu tố của T_i. Nghĩa là, ở trạng thái q thì P_q ⊐ T_i và q = σ(T_i). (Mỗi khi q = m, cả m ký tự của P khớp với một hậu tố của T_i, tức đã tìm được một lần khớp.) Vì φ(T_i) và σ(T_i) đều bằng q, ta sẽ thấy (Định lý 32.4) ôtômat duy trì bất biến
 
 ```text
 φ(T_i) = σ(T_i)                                                       (32.5)
@@ -725,7 +724,9 @@ Theo hiểu biết của người tổng hợp: ý tưởng "dựng ôtômat t�
 
 ### 5. Thuật toán Knuth-Morris-Pratt (★32.4 The Knuth-Morris-Pratt algorithm, trang 1002–1012)
 
-Mục này (có dấu sao trong sách) trình bày thuật toán so khớp chuỗi thời gian tuyến tính của Knuth, Morris và Pratt. Thuật toán tránh hẳn việc tính hàm chuyển δ, và thời gian khớp của nó là Θ(n) chỉ nhờ một hàm phụ π, được tính trước từ mẫu trong Θ(m) và lưu trong mảng π[1..m]. Mảng π cho phép tính hàm chuyển δ một cách hiệu quả (theo nghĩa khấu hao) "ngay khi cần" (on the fly). Nói nôm na, với mọi trạng thái q = 0, 1, …, m và mọi ký tự a ∈ Σ, giá trị π[q] chứa thông tin cần thiết để tính δ(q, a) nhưng không phụ thuộc vào a. Vì mảng π chỉ có m phần tử trong khi δ có Θ(m|Σ|) phần tử, ta tiết kiệm một thừa số |Σ| ở thời gian tiền xử lý khi tính π thay vì δ.
+Mục này (có dấu sao trong sách) trình bày thuật toán so khớp chuỗi thời gian tuyến tính của Knuth, Morris và Pratt. Thuật toán tránh hẳn việc tính hàm chuyển δ, và thời gian khớp của nó là Θ(n) chỉ nhờ một hàm phụ π, được tính trước từ mẫu trong Θ(m) và lưu trong mảng π[1..m].
+
+Mảng π cho phép tính hàm chuyển δ một cách hiệu quả (theo nghĩa khấu hao) "ngay khi cần" (on the fly). Nói nôm na, với mọi trạng thái q = 0, 1, …, m và mọi ký tự a ∈ Σ, giá trị π[q] chứa thông tin cần thiết để tính δ(q, a) nhưng không phụ thuộc vào a. Vì mảng π chỉ có m phần tử trong khi δ có Θ(m|Σ|) phần tử, ta tiết kiệm một thừa số |Σ| ở thời gian tiền xử lý khi tính π thay vì δ.
 
 #### Hàm tiền tố của một mẫu (The prefix function for a pattern)
 
@@ -861,7 +862,9 @@ Gộp lại, tổng lượng giảm của k do vòng while bị chặn trên b�
 
 Exercise 32.4-4 yêu cầu chứng minh, bằng phân tích gộp tương tự, rằng thời gian khớp của KMP-MATCHER là Θ(n). (Lập luận tóm tắt của người tổng hợp: q chỉ tăng ở dòng 9, nhiều nhất một lần mỗi vòng for, tổng tăng ≤ n; mỗi lần dòng 7 hoặc dòng 12 thực hiện, q giảm hẳn vì π[q] < q; q ≥ 0; vậy tổng số lần thực hiện dòng 7 ≤ n, và thời gian Θ(n).)
 
-**Ví dụ minh hoạ khấu hao (người tổng hợp):** P = aaab (π = 0, 1, 2, 0), T = aaaaaaaab (n = 9). Ở i = 1, 2, 3, q tăng lên 3. Ở mỗi i = 4, 5, 6, 7, 8 (ký tự a), vòng while chạy đúng một lần (P[4] = b ≠ a, q = π[3] = 2) rồi dòng 9 đưa q về 3. Ở i = 9 (ký tự b), P[4] = b khớp, q = 4 = m: in độ dịch 5. Tổng số lần lặp while: 5 ≤ n. Một lần lặp for riêng lẻ có thể chạy while nhiều lần (ví dụ với P = ababaca, ở trạng thái 5 mà đọc ký tự a thì vòng while chạy 3 lần, xem ví dụ về δ(5, a) ở phần tính đúng bên dưới), nhưng tổng trên cả văn bản luôn bị chặn bởi n.
+**Ví dụ minh hoạ khấu hao (người tổng hợp):** P = aaab (π = 0, 1, 2, 0), T = aaaaaaaab (n = 9). Ở i = 1, 2, 3, q tăng lên 3. Ở mỗi i = 4, 5, 6, 7, 8 (ký tự a), vòng while chạy đúng một lần (P[4] = b ≠ a, q = π[3] = 2) rồi dòng 9 đưa q về 3. Ở i = 9 (ký tự b), P[4] = b khớp, q = 4 = m: in độ dịch 5. Tổng số lần lặp while: 5 ≤ n.
+
+Một lần lặp for riêng lẻ có thể chạy while nhiều lần (ví dụ với P = ababaca, ở trạng thái 5 mà đọc ký tự a thì vòng while chạy 3 lần, xem ví dụ về δ(5, a) ở phần tính đúng bên dưới), nhưng tổng trên cả văn bản luôn bị chặn bởi n.
 
 So với FINITE-AUTOMATON-MATCHER, dùng π thay cho δ giảm thời gian tiền xử lý mẫu từ O(m|Σ|) xuống Θ(m), trong khi vẫn giữ thời gian khớp thực sự trong Θ(n).
 
@@ -896,7 +899,9 @@ i ∈ π*[q]  kéo theo  P_i ⊐ P_q                                         (32
 
 Nếu i ∈ π\*[q] thì i = π^(u)[q] với u > 0 nào đó. Chứng minh (32.7) bằng quy nạp theo u. Với u = 1, i = π[q], và khẳng định đúng vì i < q và P_{π[q]} ⊐ P_q theo định nghĩa π. Dùng các quan hệ π[i] < i và P_{π[i]} ⊐ P_i cùng tính bắc cầu của < và ⊐, khẳng định đúng với mọi i trong π\*[q]. Vậy π\*[q] ⊆ {k : k < q và P_k ⊐ P_q}.
 
-Tiếp theo chứng minh {k : k < q và P_k ⊐ P_q} ⊆ π\*[q] bằng phản chứng. Giả sử ngược lại, tập {k : k < q và P_k ⊐ P_q} − π\*[q] khác rỗng, và gọi j là số lớn nhất trong tập đó. Vì π[q] là giá trị lớn nhất trong {k : k < q và P_k ⊐ P_q} và π[q] ∈ π\*[q], phải có j < π[q]. Gọi j′ là số nguyên nhỏ nhất trong π\*[q] lớn hơn j. (Có thể chọn j′ = π[q] nếu không có số nào khác trong π\*[q] lớn hơn j.) Ta có P_j ⊐ P_q vì j ∈ {k : k < q và P_k ⊐ P_q}, và từ j′ ∈ π\*[q] cùng (32.7) có P_{j′} ⊐ P_q. Do đó P_j ⊐ P_{j′} theo Bổ đề 32.1 (hai hậu tố của P_q, P_j ngắn hơn). Hơn nữa j là giá trị lớn nhất nhỏ hơn j′ có tính chất này (mọi k với j < k < j′ và P_k ⊐ P_{j′} thì cũng P_k ⊐ P_q, nên hoặc k thuộc π\*[q] — mâu thuẫn với cách chọn j′ là nhỏ nhất — hoặc k thuộc tập hiệu — mâu thuẫn với j lớn nhất). Vậy π[j′] = j, và vì j′ ∈ π\*[q] nên j = π[j′] ∈ π\*[q]. Mâu thuẫn này chứng minh bổ đề. ∎
+Tiếp theo chứng minh {k : k < q và P_k ⊐ P_q} ⊆ π\*[q] bằng phản chứng. Giả sử ngược lại, tập {k : k < q và P_k ⊐ P_q} − π\*[q] khác rỗng, và gọi j là số lớn nhất trong tập đó. Vì π[q] là giá trị lớn nhất trong {k : k < q và P_k ⊐ P_q} và π[q] ∈ π\*[q], phải có j < π[q]. Gọi j′ là số nguyên nhỏ nhất trong π\*[q] lớn hơn j. (Có thể chọn j′ = π[q] nếu không có số nào khác trong π\*[q] lớn hơn j.)
+
+Ta có P_j ⊐ P_q vì j ∈ {k : k < q và P_k ⊐ P_q}, và từ j′ ∈ π\*[q] cùng (32.7) có P_{j′} ⊐ P_q. Do đó P_j ⊐ P_{j′} theo Bổ đề 32.1 (hai hậu tố của P_q, P_j ngắn hơn). Hơn nữa j là giá trị lớn nhất nhỏ hơn j′ có tính chất này (mọi k với j < k < j′ và P_k ⊐ P_{j′} thì cũng P_k ⊐ P_q, nên hoặc k thuộc π\*[q] — mâu thuẫn với cách chọn j′ là nhỏ nhất — hoặc k thuộc tập hiệu — mâu thuẫn với j lớn nhất). Vậy π[j′] = j, và vì j′ ∈ π\*[q] nên j = π[j′] ∈ π\*[q]. Mâu thuẫn này chứng minh bổ đề. ∎
 
 (Phần giải thích trong ngoặc ở câu "j là giá trị lớn nhất nhỏ hơn j′ có tính chất này" là người tổng hợp viết rõ thêm; sách chỉ khẳng định.)
 
@@ -939,7 +944,9 @@ Lưu ý π[q] > 0. Đặt r = π[q] − 1, nên r + 1 = π[q] và do đó P_{r+1
 
 Kết hợp (32.8) và (32.9) hoàn tất chứng minh. ∎
 
-**Hoàn tất chứng minh COMPUTE-PREFIX-FUNCTION đúng.** Trong thủ tục, đầu mỗi vòng lặp for dòng 5–10, ta có k = π[q − 1]. Điều kiện này được bảo đảm bởi dòng 3 và 4 khi vào vòng lặp lần đầu (k = 0 = π[1] khi q = 2), và tiếp tục đúng ở mỗi vòng sau nhờ dòng 10. Dòng 6–9 điều chỉnh k để nó trở thành giá trị đúng của π[q]. Vòng while dòng 6–7 duyệt qua mọi giá trị k ∈ π\*[q − 1] (theo thứ tự giảm dần) cho tới khi gặp một giá trị k với P[k + 1] = P[q]; lúc đó k là giá trị lớn nhất trong E_{q−1}, nên theo Hệ quả 32.7 có thể gán π[q] = k + 1. Nếu vòng while không tìm được k ∈ π\*[q − 1] nào với P[k + 1] = P[q] thì k bằng 0 ở dòng 8. Nếu P[1] = P[q], cần gán cả k và π[q] bằng 1; ngược lại để nguyên k và gán π[q] = 0. Dòng 8–10 gán k và π[q] đúng trong cả hai trường hợp. Điều này hoàn tất chứng minh tính đúng của COMPUTE-PREFIX-FUNCTION.
+**Hoàn tất chứng minh COMPUTE-PREFIX-FUNCTION đúng.** Trong thủ tục, đầu mỗi vòng lặp for dòng 5–10, ta có k = π[q − 1]. Điều kiện này được bảo đảm bởi dòng 3 và 4 khi vào vòng lặp lần đầu (k = 0 = π[1] khi q = 2), và tiếp tục đúng ở mỗi vòng sau nhờ dòng 10. Dòng 6–9 điều chỉnh k để nó trở thành giá trị đúng của π[q].
+
+Vòng while dòng 6–7 duyệt qua mọi giá trị k ∈ π\*[q − 1] (theo thứ tự giảm dần) cho tới khi gặp một giá trị k với P[k + 1] = P[q]; lúc đó k là giá trị lớn nhất trong E_{q−1}, nên theo Hệ quả 32.7 có thể gán π[q] = k + 1. Nếu vòng while không tìm được k ∈ π\*[q − 1] nào với P[k + 1] = P[q] thì k bằng 0 ở dòng 8. Nếu P[1] = P[q], cần gán cả k và π[q] bằng 1; ngược lại để nguyên k và gán π[q] = 0. Dòng 8–10 gán k và π[q] đúng trong cả hai trường hợp. Điều này hoàn tất chứng minh tính đúng của COMPUTE-PREFIX-FUNCTION.
 
 Liên hệ với ví dụ chạy tay ở trên: ở q = 6 (P[6] = c), k = π[5] = 3; π\*[5] = {3, 1, 0}; vòng while thử k = 3 (P[4] = b ≠ c), k = 1 (P[2] = b ≠ c), dừng ở k = 0; P[1] = a ≠ c nên E₅ = ∅ và π[6] = 0.
 
@@ -963,7 +970,7 @@ Vậy trực giác là: KMP-MATCHER duyệt các trạng thái trong π\*[q] the
 
 Khi xét ký tự T[i], tiền tố dài nhất của P là hậu tố của T_i là P_{q′+1} (nếu P[q′ + 1] = T[i]) hoặc một tiền tố nào đó (không nhất thiết thực sự, có thể rỗng) của P_{q′}. Xét riêng ba trường hợp σ(T_i) = 0, σ(T_i) = q′ + 1 và 0 < σ(T_i) ≤ q′.
 
-- **Nếu σ(T_i) = 0**, thì P₀ = ε là tiền tố duy nhất của P là hậu tố của T_i. Vòng while dòng 6–7 duyệt các giá trị trong π\*[q′], nhưng dù P_q ⊐ T_{i−1} với mọi q ∈ π\*[q′] (sách in "P_q ⊐ T_i", xem khối Lưu ý), vòng lặp không bao giờ tìm được q nào với P[q + 1] = T[i] (nếu có thì P_{q+1} ⊐ T_i, trái với σ(T_i) = 0). Vòng lặp kết thúc khi q về 0, và tất nhiên dòng 9 không thực hiện (P[1] ≠ T[i], cũng vì σ(T_i) = 0). Vậy q = 0 ở dòng 10, tức q = σ(T_i).
+- **Nếu σ(T_i) = 0**, thì P₀ = ε là tiền tố duy nhất của P là hậu tố của T_i. Vòng while dòng 6–7 duyệt các giá trị trong π\*[q′], nhưng dù P_q ⊐ T_{i−1} với mọi q ∈ π\*[q′] (sách in "P_q ⊐ T_i", xem mục Lưu ý cuối chương), vòng lặp không bao giờ tìm được q nào với P[q + 1] = T[i] (nếu có thì P_{q+1} ⊐ T_i, trái với σ(T_i) = 0). Vòng lặp kết thúc khi q về 0, và tất nhiên dòng 9 không thực hiện (P[1] ≠ T[i], cũng vì σ(T_i) = 0). Vậy q = 0 ở dòng 10, tức q = σ(T_i).
 - **Nếu σ(T_i) = q′ + 1**, thì P[q′ + 1] = T[i], và phép thử vòng while ở dòng 6 sai ngay lần đầu. Dòng 9 thực hiện, tăng q nên sau đó q = q′ + 1 = σ(T_i).
 - **Nếu 0 < σ(T_i) ≤ q′**, thì vòng while dòng 6–7 lặp ít nhất một lần, kiểm tra theo thứ tự giảm từng giá trị q ∈ π\*[q′] cho tới khi dừng ở một q < q′ nào đó. Như vậy P_q là tiền tố dài nhất của P_{q′} mà P[q + 1] = T[i] (Bổ đề 32.5 bảo đảm vòng lặp không bỏ sót ứng viên nào), nên khi vòng while kết thúc, q + 1 = σ(P_{q′} T[i]). Vì q′ = σ(T_{i−1}), Bổ đề 32.3 cho σ(T_{i−1} T[i]) = σ(P_{q′} T[i]). Do đó
 
@@ -981,7 +988,9 @@ Ví dụ (người tổng hợp): với P = aa, T = aaa: sau i = 2, q = 2 = m, i
 
 #### Ví dụ hôm nay
 
-Theo hiểu biết của người tổng hợp: hàm tiền tố (thường gọi là "failure function" hay mảng "lps" — longest proper prefix which is also suffix) là một trong những công cụ chuỗi được dùng nhiều nhất trong lập trình thi đấu: tìm chu kỳ ngắn nhất của chuỗi (q − π[q], như Problem 32-1), đếm số lần xuất hiện của mọi tiền tố, nén chuỗi, và làm nền cho ôtômat Aho–Corasick (hàm thất bại trên cây trie là tổng quát hoá trực tiếp của π). Trong thư viện chuẩn, KMP thuần ít được dùng hơn các biến thể Boyer–Moore (bỏ qua nhiều ký tự trên văn bản tự nhiên) hay Two-Way; nhưng ý tưởng "không bao giờ lùi con trỏ văn bản" của KMP rất quý khi văn bản đến dạng luồng (stream) — gói tin mạng, tệp quá lớn để đọc lại — vì KMP chỉ cần giữ trạng thái q.
+Theo hiểu biết của người tổng hợp: hàm tiền tố (thường gọi là "failure function" hay mảng "lps" — longest proper prefix which is also suffix) là một trong những công cụ chuỗi được dùng nhiều nhất trong lập trình thi đấu: tìm chu kỳ ngắn nhất của chuỗi (q − π[q], như Problem 32-1), đếm số lần xuất hiện của mọi tiền tố, nén chuỗi, và làm nền cho ôtômat Aho–Corasick (hàm thất bại trên cây trie là tổng quát hoá trực tiếp của π).
+
+Trong thư viện chuẩn, KMP thuần ít được dùng hơn các biến thể Boyer–Moore (bỏ qua nhiều ký tự trên văn bản tự nhiên) hay Two-Way; nhưng ý tưởng "không bao giờ lùi con trỏ văn bản" của KMP rất quý khi văn bản đến dạng luồng (stream) — gói tin mạng, tệp quá lớn để đọc lại — vì KMP chỉ cần giữ trạng thái q.
 
 ## Bài tập và bài toán cuối chương
 
@@ -1249,7 +1258,9 @@ Lập luận "k tăng tối đa m − 1 lần, mỗi bước lùi làm k giảm,
 
 ### So với cách làm thực tế
 
-Theo hiểu biết của người tổng hợp: tìm chuỗi con trong thư viện chuẩn hiếm khi là KMP thuần. glibc `memmem`/`strstr`, Go `strings.Index`, Rust `str::find` dùng kết hợp: thuật toán Two-Way (Crochemore–Perrin, tuyến tính, O(1) bộ nhớ — cùng tinh thần với Galil–Seiferas ở ghi chú chương), biến thể Boyer–Moore–Horspool, Rabin-Karp cho mẫu ngắn, và lệnh SIMD để quét nhanh ký tự đầu. Công cụ `grep` dùng Boyer–Moore cho chuỗi cố định và DFA (đúng ý tưởng Mục 32.3) cho biểu thức chính quy. Tìm nhiều mẫu cùng lúc (lọc nội dung, quét virus, hệ thống phát hiện xâm nhập) dùng Aho–Corasick — tổng quát hoá của π lên cây trie. Trong tin sinh học, nơi văn bản (bộ gen) cố định và truy vấn rất nhiều, người ta dựng chỉ mục một lần: mảng hậu tố, chỉ mục FM (biến đổi Burrows–Wheeler). Rabin-Karp sống mạnh ở dạng băm cuộn: rsync, khử trùng lặp dữ liệu, phát hiện đạo văn.
+Theo hiểu biết của người tổng hợp: tìm chuỗi con trong thư viện chuẩn hiếm khi là KMP thuần. glibc `memmem`/`strstr`, Go `strings.Index`, Rust `str::find` dùng kết hợp: thuật toán Two-Way (Crochemore–Perrin, tuyến tính, O(1) bộ nhớ — cùng tinh thần với Galil–Seiferas ở ghi chú chương), biến thể Boyer–Moore–Horspool, Rabin-Karp cho mẫu ngắn, và lệnh SIMD để quét nhanh ký tự đầu. Công cụ `grep` dùng Boyer–Moore cho chuỗi cố định và DFA (đúng ý tưởng Mục 32.3) cho biểu thức chính quy.
+
+Tìm nhiều mẫu cùng lúc (lọc nội dung, quét virus, hệ thống phát hiện xâm nhập) dùng Aho–Corasick — tổng quát hoá của π lên cây trie. Trong tin sinh học, nơi văn bản (bộ gen) cố định và truy vấn rất nhiều, người ta dựng chỉ mục một lần: mảng hậu tố, chỉ mục FM (biến đổi Burrows–Wheeler). Rabin-Karp sống mạnh ở dạng băm cuộn: rsync, khử trùng lặp dữ liệu, phát hiện đạo văn.
 
 ### Liên hệ các chương khác
 
@@ -1267,3 +1278,200 @@ Theo hiểu biết của người tổng hợp: tìm chuỗi con trong thư vi�
 - **Phỏng vấn:** "cài strStr / indexOf" — biết lời giải ngây thơ và giới hạn Θ(nm), trình bày KMP với mảng π (đặc biệt viết đúng COMPUTE-PREFIX-FUNCTION và dòng 12); "chuỗi có phải phép quay vòng của chuỗi kia" (Exercise 32.4-7: tìm trong T′T′); "chuỗi có phải lặp lại của một chuỗi con" (Problem 32-1(a): kiểm tra n − π[n] chia hết n); "palindrome ngắn nhất bằng cách thêm ký tự vào đầu" (π của s#đảo(s)).
 - **Lập trình thi đấu:** hàm tiền tố và hàm Z cho mọi bài tìm chu kỳ, đếm lần xuất hiện, so khớp có điều kiện; băm chuỗi hai modulo (hoặc modulo 2⁶¹ − 1 với cơ số ngẫu nhiên) để so sánh chuỗi con O(1), kết hợp tìm kiếm nhị phân cho tiền tố chung dài nhất; Aho–Corasick cho nhiều mẫu; ôtômat KMP (Exercise 32.4-8) kết hợp quy hoạch động cho bài "đếm chuỗi độ dài N không chứa mẫu P". Luôn chọn cơ số/modulo ngẫu nhiên lúc chạy để tránh test chống băm.
 - **Kỹ thuật phần mềm:** dùng hàm tìm chuỗi của thư viện chuẩn thay vì tự viết; khi tự viết cho dữ liệu dạng luồng (giao thức mạng, phân tích log khổng lồ), KMP hoặc ôtômat cho phép xử lý từng khối mà không lưu đệm văn bản cũ; khi xử lý đầu vào không tin cậy (tìm kiếm do người dùng gửi), tránh thuật toán có trường hợp xấu Θ(nm) và tránh biểu thức chính quy có quay lui — dùng bộ máy dạng ôtômat bảo đảm tuyến tính.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 32 trên một trang: 6 nhánh lớn theo các phần của bản gốc (phần mở đầu, Mục 32.1–32.4, Problem 32-1 và ghi chú chương), mỗi nhánh ghi định nghĩa, thuật toán, thời gian chạy, bổ đề và ví dụ then chốt, thêm một nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 32: tìm mọi lần xuất hiện của mẫu P độ dài m trong văn bản T độ dài n trong Θ(n + m) nhờ tiền xử lý mẫu`"]
+  n1["`Phần mở đầu chương — bài toán, bốn thuật toán, ký hiệu`"]
+  n0 --- n1
+  n2["`Bài toán: văn bản T[1..n], mẫu P[1..m] với m ≤ n, ký tự thuộc bảng chữ hữu hạn Σ`"]
+  n1 --- n2
+  n3["`Độ dịch s hợp lệ khi 0 ≤ s ≤ n − m và T[s+1..s+m] = P[1..m], cần tìm mọi độ dịch hợp lệ`"]
+  n1 --- n3
+  n4["`Ví dụ: P = abaa trong T = abcabaabcabac chỉ có độ dịch hợp lệ s = 3`"]
+  n1 --- n4
+  n5["`Bốn thuật toán, tổng thời gian = tiền xử lý + khớp`"]
+  n1 --- n5
+  n6["`Ngây thơ: tiền xử lý 0, khớp O((n − m + 1)m)`"]
+  n5 --- n6
+  n7["`Rabin-Karp: tiền xử lý Θ(m), khớp O((n − m + 1)m)`"]
+  n5 --- n7
+  n8["`Ôtômat hữu hạn: tiền xử lý O(m|Σ|), khớp Θ(n)`"]
+  n5 --- n8
+  n9["`Knuth-Morris-Pratt: tiền xử lý Θ(m), khớp Θ(n)`"]
+  n5 --- n9
+  n10["`Ký hiệu: w ⊏ x là tiền tố, w ⊐ x là hậu tố, Pₖ là k ký tự đầu của P`"]
+  n1 --- n10
+  n11["`s hợp lệ khi và chỉ khi P là hậu tố của Tₛ₊ₘ (s + m ký tự đầu của T)`"]
+  n10 --- n11
+  n12["`Bổ đề 32.1: hai hậu tố của cùng một chuỗi thì chuỗi ngắn hơn là hậu tố của chuỗi dài hơn`"]
+  n1 --- n12
+  n13["`So sánh hai chuỗi cùng độ dài tốn Θ(t + 1), t là độ dài tiền tố chung dài nhất`"]
+  n1 --- n13
+  n14["`Mục 32.1 — Thuật toán ngây thơ thử mọi độ dịch`"]
+  n0 --- n14
+  n15["`NAIVE-STRING-MATCHER thử từng s = 0..n − m, so P[1..m] với T[s+1..s+m]`"]
+  n14 --- n15
+  n16["`Ví dụ P = aab, T = acaabc: chỉ s = 2 hợp lệ, tốn 8 phép so ký tự`"]
+  n14 --- n16
+  n17["`Thời gian O((n − m + 1)m), chặt khi T = aⁿ, P = aᵐ, với m = ⌊n/2⌋ là Θ(n²)`"]
+  n14 --- n17
+  n18["`Điểm yếu: quên thông tin về văn bản đã thu được khi chuyển sang độ dịch khác`"]
+  n14 --- n18
+  n19["`Ví dụ P = aaab, s = 0 hợp lệ thì T[4] = b nên s = 1, 2, 3 chắc chắn không hợp lệ`"]
+  n18 --- n19
+  n20["`Trên chuỗi ngẫu nhiên kỳ vọng ≤ 2(n − m + 1) phép so (Exercise 32.1-3)`"]
+  n14 --- n20
+  n21["`Mục 32.2 — Rabin-Karp coi mỗi cửa sổ m ký tự là một số`"]
+  n0 --- n21
+  n22["`Ký tự là chữ số cơ số d = |Σ|, s hợp lệ khi và chỉ khi giá trị cửa sổ tₛ bằng giá trị mẫu p`"]
+  n21 --- n22
+  n23["`Tính p và t₀ trong Θ(m) bằng quy tắc Horner`"]
+  n21 --- n23
+  n24["`Công thức (32.1) trượt cửa sổ trong O(1): bỏ chữ số đầu, dịch trái, thêm chữ số mới`"]
+  n21 --- n24
+  n25["`Ví dụ m = 5: 31415 bỏ chữ số 3, thêm chữ số 2 thành 14152`"]
+  n24 --- n25
+  n26["`Tính theo modulo số nguyên tố q với dq vừa một từ máy, h ≡ dᵐ⁻¹ (mod q), công thức (32.2)`"]
+  n21 --- n26
+  n27["`tₛ ≢ p (mod q) thì loại ngay, tₛ ≡ p (mod q) thì phải so từng ký tự`"]
+  n21 --- n27
+  n28["`Trùng theo mod q mà chuỗi khác nhau gọi là trúng giả (spurious hit)`"]
+  n27 --- n28
+  n29["`Ví dụ q = 13, P = 31415 ≡ 7: cửa sổ ở vị trí 7 khớp thật, 67399 ở vị trí 13 là trúng giả`"]
+  n27 --- n29
+  n30["`Xấu nhất Θ((n − m + 1)m), ví dụ P = aᵐ, T = aⁿ vì mọi độ dịch phải kiểm tra lại`"]
+  n21 --- n30
+  n31["`Kỳ vọng O(n) + O(m(v + n/q)), v là số độ dịch hợp lệ, số trúng giả O(n/q)`"]
+  n21 --- n31
+  n32["`Thành O(n + m) khi v = O(1) và q ≥ m, giả định mod q như ánh xạ ngẫu nhiên`"]
+  n31 --- n32
+  n33["`Tổng quát hoá dễ sang tìm nhiều mẫu cùng lúc và mẫu hai chiều`"]
+  n21 --- n33
+  n34["`Mục 32.3 — Ôtômat hữu hạn nhớ độ dài tiền tố của P đang khớp`"]
+  n0 --- n34
+  n35["`Ôtômat M = (Q, q₀, A, Σ, δ) chấp nhận chuỗi w khi trạng thái cuối φ(w) thuộc A`"]
+  n34 --- n35
+  n36["`Hàm trạng thái cuối: φ(ε) = q₀, φ(wa) = δ(φ(w), a)`"]
+  n35 --- n36
+  n37["`Hàm hậu tố σ(x) là độ dài tiền tố dài nhất của P đồng thời là hậu tố của x, công thức (32.3)`"]
+  n34 --- n37
+  n38["`Ví dụ P = ab: σ(ε) = 0, σ(ccaca) = 1, σ(ccab) = 2`"]
+  n37 --- n38
+  n39["`Ôtômat so khớp: Q = {0, 1, …, m}, q₀ = 0, A = {m}, δ(q, a) = σ(q ký tự đầu của P nối a)`"]
+  n34 --- n39
+  n40["`a = P[q+1] thì đi tiếp dọc xương sống tới q + 1, ngược lại lùi về tiền tố ngắn hơn`"]
+  n39 --- n40
+  n41["`Ví dụ ababaca: δ(5, c) = 6, δ(5, b) = 4 vì ababab có hậu tố abab`"]
+  n39 --- n41
+  n42["`FINITE-AUTOMATON-MATCHER khớp Θ(n), mỗi ký tự văn bản một lần tra bảng`"]
+  n34 --- n42
+  n43["`Trên abababacaba đi qua trạng thái 1 2 3 4 5 4 5 6 7 2 3, một lần khớp ở độ dịch 2`"]
+  n42 --- n43
+  n44["`Tính đúng của ôtômat`"]
+  n34 --- n44
+  n45["`Bổ đề 32.2: σ(xa) ≤ σ(x) + 1`"]
+  n44 --- n45
+  n46["`Bổ đề 32.3: nếu q = σ(x) thì σ(xa) = σ(q ký tự đầu của P nối a), không cần nhìn lại văn bản`"]
+  n44 --- n46
+  n47["`Định lý 32.4: φ(Tᵢ) = σ(Tᵢ) với mọi i, chứng minh bằng quy nạp theo i`"]
+  n44 --- n47
+  n48["`COMPUTE-TRANSITION-FUNCTION tính trực tiếp O(m³|Σ|), cải tiến được còn O(m|Σ|) (Exercise 32.4-8)`"]
+  n34 --- n48
+  n49["`Mục ★32.4 — Knuth-Morris-Pratt thay bảng δ bằng mảng π độ dài m`"]
+  n0 --- n49
+  n50["`Đã khớp q ký tự ở độ dịch s thì độ dịch có thể hợp lệ kế tiếp là s + (q − π[q])`"]
+  n49 --- n50
+  n51["`Ví dụ ababaca khớp 5 ký tự ở s = 4: π[5] = 3 nên nhảy tới s′ = 6, khỏi so lại 3 ký tự`"]
+  n50 --- n51
+  n52["`Hàm tiền tố π[q] là độ dài tiền tố dài nhất của P đồng thời là hậu tố thực sự của q ký tự đầu của P`"]
+  n49 --- n52
+  n53["`Ví dụ ababaca: π = 0 0 1 2 3 0 1`"]
+  n52 --- n53
+  n54["`KMP-MATCHER: ký tự không khớp thì lùi q = π[q], khớp thì q = q + 1`"]
+  n49 --- n54
+  n55["`Khi q = m in độ dịch i − m rồi gán q = π[q], tránh đọc P[m+1] và bắt được lần khớp chồng nhau`"]
+  n54 --- n55
+  n56["`COMPUTE-PREFIX-FUNCTION dùng cùng khuôn mẫu, khớp P với chính nó`"]
+  n54 --- n56
+  n57["`Phân tích gộp: q tăng tổng cộng ≤ n lần, mỗi bước lùi làm q giảm, q không âm`"]
+  n49 --- n57
+  n58["`COMPUTE-PREFIX-FUNCTION chạy Θ(m), KMP-MATCHER chạy Θ(n), không phụ thuộc |Σ|`"]
+  n57 --- n58
+  n59["`Tính đúng của hàm tiền tố`"]
+  n49 --- n59
+  n60["`π∗[q] = {π[q], π[π[q]], …, 0}, ví dụ π∗[5] = {3, 1, 0}`"]
+  n59 --- n60
+  n61["`Bổ đề 32.5: π∗[q] liệt kê đủ mọi k nhỏ hơn q mà Pₖ là hậu tố của q ký tự đầu của P`"]
+  n59 --- n61
+  n62["`Hệ quả 32.7 (dựa trên Bổ đề 32.6): π[q] = 1 + k lớn nhất trong π∗[q − 1] có P[k+1] = P[q], hoặc 0 nếu không có`"]
+  n59 --- n62
+  n63["`KMP mô phỏng đúng ôtômat: sau mỗi bước q = σ(Tᵢ), chứng minh qua ba trường hợp`"]
+  n49 --- n63
+  n64["`Ví dụ ở trạng thái 5 đọc a: lùi 3 → 1 → 0 rồi tiến lên 1 = δ(5, a)`"]
+  n63 --- n64
+  n65["`Problem 32-1 và Ghi chú chương — thừa số lặp và nguồn gốc thuật toán`"]
+  n0 --- n65
+  n66["`ρ(x) là r lớn nhất để x = yʳ (y nối với chính nó r lần), ví dụ ρ(ababab) = 3`"]
+  n65 --- n66
+  n67["`Tính mọi ρ(Pᵢ) trong Θ(m) nhờ hàm tiền tố`"]
+  n65 --- n67
+  n68["`P nhị phân ngẫu nhiên thì kỳ vọng của ρ∗(P) = max ρ(Pᵢ) là O(1)`"]
+  n65 --- n68
+  n69["`REPETITION-MATCHER (Galil–Seiferas) chạy O(ρ∗(P)·n + m), lệch thì dịch thêm max(1, ⌈q/k⌉)`"]
+  n65 --- n69
+  n70["`Galil và Seiferas có thuật toán tất định tuyến tính chỉ dùng O(1) bộ nhớ ngoài P và T`"]
+  n65 --- n70
+  n71["`KMP do Knuth và Pratt, và độc lập do Morris, phát minh, Rabin-Karp do Karp và Rabin đề xuất`"]
+  n65 --- n71
+  n72["`Thông điệp xuyên suốt`"]
+  n0 --- n72
+  n73["`Thuật toán ngây thơ chậm vì quên thông tin, các thuật toán sau tiền xử lý mẫu để không đọc lại văn bản`"]
+  n72 --- n73
+  n74["`Một con số σ(Tᵢ) tóm tắt đủ phần văn bản đã đọc: ôtômat tính sẵn mọi bước, KMP tính khi cần`"]
+  n72 --- n74
+  n75["`Đổi bộ nhớ lấy thời gian: bảng δ cỡ (m + 1)|Σ| so với mảng π chỉ m phần tử`"]
+  n72 --- n75
+  n76["`Phân tích khấu hao giải thích vì sao vòng while lồng trong vòng for vẫn cho tổng tuyến tính`"]
+  n72 --- n76
+  n77["`Rabin-Karp đổi phép so chuỗi O(m) thành phép so số O(1), nhưng phải kiểm tra lại khi giá trị trùng`"]
+  n72 --- n77
+  class n0 root
+  class n1,n14,n21,n34,n49,n65,n72 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n63,n64,n66,n67,n68,n69,n70,n71,n73,n74,n75,n76,n77 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VII "Selected Topics", Chương 32 "String Matching", trang 985–1013.
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phần VII gom các chủ đề chọn lọc, mỗi chương dùng lại công cụ của các phần trước cho một miền bài toán cụ thể. Chương 32 dựa trên: phân tích thuật toán cơ bản và bất biến vòng lặp của Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)); băm bằng phép chia lấy dư và giả định "băm như ánh xạ ngẫu nhiên" của Chương 11 ([C11-bang-bam.md](C11-bang-bam.md)), là nền của thuật toán Rabin-Karp; phân tích khấu hao theo phương pháp gộp và phương pháp thế năng của Chương 17 ([C17-phan-tich-khau-hao.md](C17-phan-tich-khau-hao.md)), dùng để chứng minh KMP chạy tuyến tính; quy tắc Horner của Chương 30 ([C30-da-thuc-va-fft.md](C30-da-thuc-va-fft.md)); đồng dư, số nguyên tố và lũy thừa theo modulo của Chương 31 ([C31-thuat-toan-so-hoc.md](C31-thuat-toan-so-hoc.md)), ngay trước chương này.
+
+Chương 15 ([C15-quy-hoach-dong.md](C15-quy-hoach-dong.md)) đã gặp một bài toán khác trên chuỗi là dãy con chung dài nhất; Chương 32 thì tìm *chuỗi con liên tiếp* trùng khớp hoàn toàn. Chương 33 ([C33-hinh-hoc-tinh-toan.md](C33-hinh-hoc-tinh-toan.md)) chuyển sang hình học tính toán; Chương 34 ([C34-np-day-du.md](C34-np-day-du.md)) bàn tới các bài toán khó, trái ngược với so khớp chuỗi là bài toán giải được trong thời gian tuyến tính.
+
+## Lưu ý
+
+- **Mục có dấu sao (★):** Mục 32.4 "The Knuth-Morris-Pratt algorithm" có dấu sao trong sách (mục nâng cao, có thể bỏ qua khi đọc lần đầu). Bài tập có dấu sao: Exercise 32.3-4 và Exercise 32.4-8.
+- **Lớp chữ PDF hỏng toàn bộ ký hiệu toán của chương:** Σ thành `†`, Θ thành `‚`, dấu trừ thành `/NUL` (ví dụ `n/NUL m` là n − m), ký hiệu tiền tố ⊏ thành `❁`, ký hiệu hậu tố ⊐ thành `=` (rất dễ đọc nhầm thành dấu bằng), dấu ≤ và ≠ mất hẳn (`m  n` là m ≤ n), chữ σ, δ, φ, π lần lượt mất hoặc thành `ı`, `.`, ký tự lạ; `TŒ 1::n` là T[1..n]; chỉ số dưới như P_q, T_i, t_s bị vỡ thành chữ thường liền nhau. Mọi pseudocode (NAIVE-STRING-MATCHER, RABIN-KARP-MATCHER, FINITE-AUTOMATON-MATCHER, COMPUTE-TRANSITION-FUNCTION, KMP-MATCHER, COMPUTE-PREFIX-FUNCTION, REPETITION-MATCHER), công thức (32.1)–(32.9), các bổ đề và Hình 32.1–32.11 trong bản tổng hợp này được đối chiếu với ảnh trang 985–1013 (đã xem ảnh của tất cả các trang).
+- **Chỗ sách viết chưa chặt (nhận xét của người tổng hợp):**
+  - Trang 1011, trường hợp σ(T_i) = 0 trong chứng minh tính đúng của KMP, sách viết "although P_q ⊐ T_i for every q ∈ π\*[q′]". Theo lập luận, điều đúng là P_q ⊐ T_{i−1} (vì q′ = σ(T_{i−1}) nên P_{q′} ⊐ T_{i−1}, và mọi P_q với q ∈ π\*[q′] là hậu tố của P_{q′}). Viết "T_i" ở đây là sai chỉ số; ý của câu (vòng while đi qua mọi trạng thái của π\*[q′] mà không tìm được q nào có P[q + 1] = T[i]) vẫn đúng.
+  - Định nghĩa π\*[q] (trang 1007) nói dãy "dừng khi gặp π^(t)[q] = 0", nhưng không nói rõ 0 có thuộc tập hay không; từ Bổ đề 32.5 và ví dụ π\*[5] = {3, 1, 0} thì 0 thuộc tập. Bản tổng hợp ghi rõ điều này.
+  - Chú thích Hình 32.6 viết "shown blackend" — lỗi chính tả của "blackened" (tô đen); không ảnh hưởng nội dung.
+  - Trong COMPUTE-TRANSITION-FUNCTION, dòng 4 gán k = min(m + 1, q + 2), còn lời giải thích nói giá trị lớn nhất có thể của k là min(m, q + 1). Hai cách viết khớp nhau vì vòng repeat giảm k trước khi kiểm tra; người đọc dễ tưởng mâu thuẫn.
+  - Người tổng hợp không chắc các chỗ trên có nằm trong danh sách lỗi chính thức (errata) của ấn bản 3 hay không — theo hiểu biết của người tổng hợp, không tra cứu.
+- **Mọi ví dụ chạy tay trong sách đã được tự kiểm tra lại và đúng:** ví dụ P = abaa trong T = abcabaabcabac (độ dịch hợp lệ duy nhất s = 3); bốn lần đặt mẫu aab lên acaabc (hợp lệ ở s = 2); mười lăm giá trị cửa sổ theo modulo 13 của văn bản 2359023141526739921 (8, 9, 3, 11, 0, 1, 7, 8, 4, 5, 10, 11, 7, 9, 11) và phép tính 14152 ≡ (7 − 3·3)·10 + 2 ≡ 8 (mod 13); bảng chuyển trạng thái 8 × 3 của ôtômat cho ababaca và dãy trạng thái 0 1 2 3 4 5 4 5 6 7 2 3 trên abababacaba; ôtômat hai trạng thái trên abaaa và abbaa; hàm tiền tố 0 0 1 2 3 0 1 của ababaca và π\*[5] = {3, 1, 0}; ví dụ KMP chuyển từ trạng thái 5 với ký tự c, b, a.
+- **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương So khớp chuỗi vẫn là Chương 32, giữ bốn mục thuật toán ngây thơ, Rabin-Karp, ôtômat hữu hạn và KMP, và thêm một mục mới 32.5 về mảng hậu tố (suffix arrays) kèm mảng tiền tố chung dài nhất (LCP). Như ở cả cuốn ấn bản 4, thuộc tính `T.length`, `P.length` được bỏ, độ dài được truyền như tham số. Các khác biệt nhỏ hơn về bài tập và lời văn, người tổng hợp không nhớ chắc nên không liệt kê.

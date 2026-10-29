@@ -1,17 +1,16 @@
 # Chương 33 — Hình học tính toán (Computational Geometry)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VII "Selected Topics", Chương 33 "Computational Geometry", trang 1014–1047.
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
-**Vị trí trong lập luận của cả cuốn sách:** Chương 33 là một chương "chủ đề chọn lọc" của Phần VII, đứng sau Chương 32 về so khớp chuỗi ([C32-so-khop-chuoi.md](C32-so-khop-chuoi.md)) và trước Chương 34 về NP-đầy đủ ([C34-np-day-du.md](C34-np-day-du.md)). Chương này không đưa ra công cụ phân tích mới mà cho thấy các công cụ của cả cuốn sách hoạt động trên dữ liệu hình học: bất biến vòng lặp và phương pháp chia để trị của Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)), truy hồi T(n) = 2T(n/2) + O(n) của Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)), sắp xếp O(n lg n) bằng heapsort hoặc sắp xếp trộn ([C06-heapsort.md](C06-heapsort.md), [C02-bat-dau.md](C02-bat-dau.md)) cùng cận dưới Ω(n lg n) cho sắp xếp bằng so sánh ([C08-sap-xep-thoi-gian-tuyen-tinh.md](C08-sap-xep-thoi-gian-tuyen-tinh.md)), tìm phần tử nhỏ nhất trong O(n) và thuật toán chọn tuyến tính của Chương 9 ([C09-trung-vi-va-thong-ke-thu-tu.md](C09-trung-vi-va-thong-ke-thu-tu.md)), ngăn xếp của Chương 10 ([C10-cau-truc-du-lieu-co-ban.md](C10-cau-truc-du-lieu-co-ban.md)), cây đỏ-đen của Chương 13 ([C13-cay-do-den.md](C13-cay-do-den.md)) dùng làm "trạng thái đường quét", và phân tích gộp (aggregate analysis) của Chương 17 ([C17-phan-tich-khau-hao.md](C17-phan-tich-khau-hao.md)) để chứng minh vòng lặp while của quét Graham chỉ tốn O(n). Khái niệm tiền thứ tự toàn phần (total preorder) lấy từ Phụ lục B ([PB-tap-hop-va-cau-truc-roi-rac.md](PB-tap-hop-va-cau-truc-roi-rac.md)).
-**Ý chính:** Tác giả muốn người đọc hiểu rằng **phần lớn bài toán hình học phẳng cơ bản giải được nhanh và chính xác nếu (1) thay mọi phép tính góc, độ dốc, phép chia bằng dấu của một phép tính tích có hướng (cross product) x₁y₂ − x₂y₁ chỉ gồm cộng, trừ, nhân; và (2) tổ chức thuật toán quanh một trật tự thông minh của dữ liệu — quét một đường thẳng từ trái sang phải, quét theo góc cực quanh một điểm, hoặc chia đôi tập điểm bằng một đường thẳng đứng — để từ Θ(n²) cặp phải xét chỉ còn O(n lg n) việc.** Phần mở đầu giới thiệu hình học tính toán, cách biểu diễn đối tượng bằng tập điểm (xᵢ, yᵢ) và đa giác bằng dãy đỉnh theo chiều ngược chiều kim đồng hồ. Mục 33.1 định nghĩa tổ hợp lồi, đoạn thẳng, đoạn có hướng; dùng tích có hướng để trả lời ba câu hỏi trong O(1): một đoạn có hướng nằm theo chiều kim đồng hồ hay ngược chiều so với đoạn kia, hai đoạn liên tiếp rẽ trái hay rẽ phải, hai đoạn thẳng có cắt nhau không (thủ tục SEGMENTS-INTERSECT với DIRECTION và ON-SEGMENT). Mục 33.2 trình bày kỹ thuật quét (sweeping) với đường quét thẳng đứng, quan hệ "nằm trên tại x" là một tiền thứ tự toàn phần, trạng thái đường quét lưu trong cây đỏ-đen, và thuật toán ANY-SEGMENTS-INTERSECT kiểm tra trong O(n lg n) xem n đoạn thẳng có cặp nào cắt nhau không, kèm chứng minh đúng dựa trên giao điểm trái nhất. Mục 33.3 định nghĩa bao lồi CH(Q), điểm qua ba phương pháp khác (gia tăng, chia để trị, tỉa-và-tìm O(n lg h)), rồi trình bày hai thuật toán quét quay: quét Graham (GRAHAM-SCAN, ngăn xếp các điểm ứng viên, O(n lg n), Định lý 33.1 chứng minh đúng bằng bất biến vòng lặp) và hành quân Jarvis (gói quà, O(nh) với h là số đỉnh bao lồi). Mục 33.4 giải bài toán cặp điểm gần nhất bằng chia để trị: chia theo đường thẳng đứng, đệ quy hai nửa, rồi chỉ xét dải rộng 2δ quanh đường chia và với mỗi điểm chỉ cần so với 7 điểm kế tiếp theo tung độ; nhờ sắp xếp trước (presorting) và tách mảng đã sắp thành hai mảng đã sắp trong thời gian tuyến tính, truy hồi là T(n) = 2T(n/2) + O(n) nên tổng thời gian O(n lg n).
+## Ý chính
 
-> **Lưu ý:**
-> - **Không có mục có dấu sao (★) trong chương này.** Dấu sao chỉ xuất hiện ở một bài tập: Exercise 33.3-6 (cài đặt phương pháp gia tăng tính bao lồi trong O(n lg n)).
-> - **Lớp chữ PDF hỏng nhiều ký hiệu của chương:** dấu tích có hướng × mất hẳn (`p1 p2` là `p₁ × p₂`); dấu trừ thành `/NUL` (ví dụ `.p1/NUL p0/` là `(p₁ − p₀)`); mũi tên của đoạn có hướng thành `/NUL/NUL/NUL!p0p1`; ký hiệu quan hệ "nằm trên tại x" là `≽ₓ` (dấu "succeeds or equal" có chỉ số) bị lớp chữ biến thành `<x`, dễ đọc nhầm thành "nhỏ hơn"; `‚` là Θ, `.n2/` là (n²); các dấu ≤ trong ON-SEGMENT, trong định nghĩa tổ hợp lồi 0 ≤ α ≤ 1 và trong |P| ≤ 3 mất hẳn; δ (delta) thành `ı`; Ω thành `.`; ε trong Problem 33-5 mất. Mọi pseudocode (SEGMENTS-INTERSECT, DIRECTION, ON-SEGMENT, ANY-SEGMENTS-INTERSECT, GRAHAM-SCAN, đoạn mã tách mảng Y), công thức (33.1), truy hồi của Mục 33.4 và các Hình 33.1–33.11 trong bản tổng hợp này được đối chiếu với ảnh trang 1016–1019, 1022–1026, 1029, 1031–1033, 1035–1037, 1039–1043. Đã xem ảnh của tất cả các trang 1014–1047.
-> - **Chỗ hở trong chứng minh Định lý 33.1 (nhận xét của người tổng hợp):** ở bước Duy trì, sách viết "Qᵢ − Pᵢ = Qⱼ ∪ {pᵢ}", với Pᵢ là tập điểm bị bật trong lần lặp i. Đẳng thức này sai theo nghĩa đen khi có điểm chỉ số giữa j và i bị bật ở lần lặp sớm hơn; phản ví dụ ngay trong vết chạy của sách (Hình 33.7(i)): ở lần lặp i = 10 có j = 3, P₁₀ = {p₅, p₆, p₉}, nhưng Q₁₀ − P₁₀ còn chứa p₄, p₇, p₈ (bị bật ở lần lặp 5 và 9). Kết luận của định lý vẫn đúng; cách sửa (thay Pᵢ bằng {pⱼ₊₁, …, pᵢ₋₁}) ghi ở phần Nội dung chi tiết.
-> - **Chỗ ký hiệu dễ gây nhầm (nhận xét của người tổng hợp):** (1) thủ tục DIRECTION(pᵢ, pⱼ, pₖ) trả về (pₖ − pᵢ) × (pⱼ − pᵢ), tức thứ tự hai vectơ ngược với thứ tự tham số; giá trị âm nghĩa là đi từ pᵢ tới pⱼ rồi tới pₖ là **rẽ trái**. Người cài đặt quen quy ước "(pⱼ − pᵢ) × (pₖ − pᵢ) > 0 là rẽ trái" phải đổi dấu toàn bộ. (2) Sách viết "colinear" thay vì dạng chuẩn "collinear"; bản tổng hợp dịch là "thẳng hàng". (3) Mục 33.4 khẳng định "nhiều nhất 4 điểm của P_L nằm trong hình vuông δ × δ" chỉ bằng một hình minh hoạ, không chứng minh; người tổng hợp bổ sung chứng minh (chia hình vuông thành 4 ô δ/2 × δ/2) ở phần Nội dung chi tiết. (4) Đoạn mã tách mảng Y ở Mục 33.4 dùng phép thử "Y[i] ∈ P_L" mà không nói cách làm trong O(1) (cần đánh dấu từng điểm khi chia X); khi có nhiều điểm cùng hoành độ, việc phân định cũng không hiển nhiên — sách để cho Exercise 33.4-5. Ngoài chỗ hở ở Định lý 33.1, người tổng hợp không phát hiện lỗi số hay lỗi công thức rõ ràng nào trong chương; không chắc các điểm trên có trong danh sách lỗi chính thức (errata) hay không — theo hiểu biết của người tổng hợp, không tra cứu.
-> - **Ví dụ chạy tay đã tự kiểm tra lại:** vết chạy của ANY-SEGMENTS-INTERSECT trên sáu đoạn a–f (Hình 33.5) và vết chạy của GRAHAM-SCAN trên 13 điểm p₀–p₁₂ (Hình 33.7(a)–(l), đọc từ ảnh trang 1032–1033) khớp với lời văn của sách (tổng 8 lần POP, không vượt cận m − 2 = 10). Các ví dụ có toạ độ cụ thể do người tổng hợp tự đặt — tích có hướng, ba trường hợp SEGMENTS-INTERSECT, GRAHAM-SCAN và hành quân Jarvis trên 9 điểm, cặp điểm gần nhất trên 10 điểm, diện tích đa giác và điểm trong đa giác — đều đã được tính lại bằng tay và đối chiếu bằng một chương trình nhỏ.
-> - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương Computational Geometry **bị bỏ khỏi ấn bản 4** (cùng với các chương Fibonacci heap và cây van Emde Boas); số chương 33 ở ấn bản 4 dành cho chương mới về thuật toán học máy (Machine-Learning Algorithms). Người tổng hợp không nhớ chắc phần nào của chương này (ví dụ tích có hướng) được giữ lại ở chỗ khác, nên không liệt kê.
+Tác giả muốn người đọc hiểu rằng **phần lớn bài toán hình học phẳng cơ bản giải được nhanh và chính xác nếu (1) thay mọi phép tính góc, độ dốc, phép chia bằng dấu của một phép tính tích có hướng (cross product) x₁y₂ − x₂y₁ chỉ gồm cộng, trừ, nhân; và (2) tổ chức thuật toán quanh một trật tự thông minh của dữ liệu — quét một đường thẳng từ trái sang phải, quét theo góc cực quanh một điểm, hoặc chia đôi tập điểm bằng một đường thẳng đứng — để từ Θ(n²) cặp phải xét chỉ còn O(n lg n) việc.** Phần mở đầu giới thiệu hình học tính toán, cách biểu diễn đối tượng bằng tập điểm (xᵢ, yᵢ) và đa giác bằng dãy đỉnh theo chiều ngược chiều kim đồng hồ.
+
+Mục 33.1 định nghĩa tổ hợp lồi, đoạn thẳng, đoạn có hướng; dùng tích có hướng để trả lời ba câu hỏi trong O(1): một đoạn có hướng nằm theo chiều kim đồng hồ hay ngược chiều so với đoạn kia, hai đoạn liên tiếp rẽ trái hay rẽ phải, hai đoạn thẳng có cắt nhau không (thủ tục SEGMENTS-INTERSECT với DIRECTION và ON-SEGMENT).
+
+Mục 33.2 trình bày kỹ thuật quét (sweeping) với đường quét thẳng đứng, quan hệ "nằm trên tại x" là một tiền thứ tự toàn phần, trạng thái đường quét lưu trong cây đỏ-đen, và thuật toán ANY-SEGMENTS-INTERSECT kiểm tra trong O(n lg n) xem n đoạn thẳng có cặp nào cắt nhau không, kèm chứng minh đúng dựa trên giao điểm trái nhất.
+
+Mục 33.3 định nghĩa bao lồi CH(Q), điểm qua ba phương pháp khác (gia tăng, chia để trị, tỉa-và-tìm O(n lg h)), rồi trình bày hai thuật toán quét quay: quét Graham (GRAHAM-SCAN, ngăn xếp các điểm ứng viên, O(n lg n), Định lý 33.1 chứng minh đúng bằng bất biến vòng lặp) và hành quân Jarvis (gói quà, O(nh) với h là số đỉnh bao lồi).
+
+Mục 33.4 giải bài toán cặp điểm gần nhất bằng chia để trị: chia theo đường thẳng đứng, đệ quy hai nửa, rồi chỉ xét dải rộng 2δ quanh đường chia và với mỗi điểm chỉ cần so với 7 điểm kế tiếp theo tung độ; nhờ sắp xếp trước (presorting) và tách mảng đã sắp thành hai mảng đã sắp trong thời gian tuyến tính, truy hồi là T(n) = 2T(n/2) + O(n) nên tổng thời gian O(n lg n).
 
 ## Sơ đồ
 
@@ -296,7 +295,9 @@
 
 ### 1. Phần mở đầu chương (trang 1014–1015)
 
-Hình học tính toán là nhánh của khoa học máy tính nghiên cứu thuật toán giải các bài toán hình học. Trong kỹ thuật và toán học hiện đại, nó có ứng dụng ở những lĩnh vực rất khác nhau: đồ hoạ máy tính, robot, thiết kế VLSI (mạch tích hợp cỡ rất lớn), thiết kế có máy tính hỗ trợ (CAD), mô hình hoá phân tử, luyện kim, sản xuất, bố trí cắt vải, lâm nghiệp và thống kê. Đầu vào của một bài toán hình học tính toán thường là mô tả một tập đối tượng hình học: một tập điểm, một tập đoạn thẳng, hay các đỉnh của một đa giác theo thứ tự ngược chiều kim đồng hồ. Đầu ra thường là câu trả lời cho một truy vấn về các đối tượng (chẳng hạn có hai đường nào cắt nhau không), hoặc một đối tượng hình học mới (chẳng hạn bao lồi — đa giác lồi nhỏ nhất bao quanh — của tập điểm).
+Hình học tính toán là nhánh của khoa học máy tính nghiên cứu thuật toán giải các bài toán hình học. Trong kỹ thuật và toán học hiện đại, nó có ứng dụng ở những lĩnh vực rất khác nhau: đồ hoạ máy tính, robot, thiết kế VLSI (mạch tích hợp cỡ rất lớn), thiết kế có máy tính hỗ trợ (CAD), mô hình hoá phân tử, luyện kim, sản xuất, bố trí cắt vải, lâm nghiệp và thống kê.
+
+Đầu vào của một bài toán hình học tính toán thường là mô tả một tập đối tượng hình học: một tập điểm, một tập đoạn thẳng, hay các đỉnh của một đa giác theo thứ tự ngược chiều kim đồng hồ. Đầu ra thường là câu trả lời cho một truy vấn về các đối tượng (chẳng hạn có hai đường nào cắt nhau không), hoặc một đối tượng hình học mới (chẳng hạn bao lồi — đa giác lồi nhỏ nhất bao quanh — của tập điểm).
 
 Chương xét một số thuật toán trong hai chiều, tức trên mặt phẳng. Mỗi đối tượng đầu vào được biểu diễn bằng một tập điểm {p₁, p₂, p₃, …}, mỗi pᵢ = (xᵢ, yᵢ) với xᵢ, yᵢ ∈ ℝ. Ví dụ, một đa giác n đỉnh P được biểu diễn bằng dãy ⟨p₀, p₁, p₂, …, pₙ₋₁⟩ các đỉnh theo thứ tự xuất hiện trên biên của P. Hình học tính toán cũng áp dụng cho không gian ba chiều hay nhiều chiều hơn, nhưng các bài toán đó và lời giải của chúng rất khó hình dung; ngay trong hai chiều đã có đủ mẫu mực tiêu biểu của các kỹ thuật hình học tính toán.
 
@@ -306,7 +307,9 @@ Trình tự chương: Mục 33.1 trả lời nhanh và chính xác các câu h�
 
 #### Các định nghĩa
 
-Nhiều thuật toán trong chương cần trả lời câu hỏi về tính chất của đoạn thẳng. **Tổ hợp lồi** (convex combination) của hai điểm phân biệt p₁ = (x₁, y₁) và p₂ = (x₂, y₂) là bất kỳ điểm p₃ = (x₃, y₃) nào mà với một α nào đó trong khoảng 0 ≤ α ≤ 1 ta có x₃ = αx₁ + (1 − α)x₂ và y₃ = αy₁ + (1 − α)y₂; viết gọn p₃ = αp₁ + (1 − α)p₂. Về trực giác, p₃ là một điểm bất kỳ nằm trên đường thẳng qua p₁, p₂ và nằm giữa (hoặc trùng với) p₁ và p₂. Với hai điểm phân biệt p₁, p₂, **đoạn thẳng** p₁p₂ là tập các tổ hợp lồi của p₁ và p₂; p₁, p₂ là hai **đầu mút** của đoạn. Đôi khi thứ tự của p₁, p₂ có ý nghĩa, khi đó ta nói tới **đoạn có hướng** từ p₁ tới p₂ (sách ký hiệu bằng mũi tên trên p₁p₂). Nếu p₁ là **gốc** (0, 0) thì có thể coi đoạn có hướng từ p₁ tới p₂ là **vectơ** p₂.
+Nhiều thuật toán trong chương cần trả lời câu hỏi về tính chất của đoạn thẳng. **Tổ hợp lồi** (convex combination) của hai điểm phân biệt p₁ = (x₁, y₁) và p₂ = (x₂, y₂) là bất kỳ điểm p₃ = (x₃, y₃) nào mà với một α nào đó trong khoảng 0 ≤ α ≤ 1 ta có x₃ = αx₁ + (1 − α)x₂ và y₃ = αy₁ + (1 − α)y₂; viết gọn p₃ = αp₁ + (1 − α)p₂. Về trực giác, p₃ là một điểm bất kỳ nằm trên đường thẳng qua p₁, p₂ và nằm giữa (hoặc trùng với) p₁ và p₂.
+
+Với hai điểm phân biệt p₁, p₂, **đoạn thẳng** p₁p₂ là tập các tổ hợp lồi của p₁ và p₂; p₁, p₂ là hai **đầu mút** của đoạn. Đôi khi thứ tự của p₁, p₂ có ý nghĩa, khi đó ta nói tới **đoạn có hướng** từ p₁ tới p₂ (sách ký hiệu bằng mũi tên trên p₁p₂). Nếu p₁ là **gốc** (0, 0) thì có thể coi đoạn có hướng từ p₁ tới p₂ là **vectơ** p₂.
 
 Mục này khám phá ba câu hỏi:
 
@@ -316,7 +319,9 @@ Mục này khám phá ba câu hỏi:
 
 Không có ràng buộc nào về các điểm cho trước.
 
-Mỗi câu hỏi trả lời được trong O(1) — không có gì lạ vì kích thước đầu vào của mỗi câu là O(1). Hơn nữa, các phương pháp ở đây chỉ dùng phép cộng, trừ, nhân và so sánh. Không cần phép chia hay hàm lượng giác — cả hai đều có thể tốn kém và dễ gặp sai số làm tròn. Chẳng hạn, cách "thẳng thắn" để kiểm tra hai đoạn có cắt nhau không — viết phương trình đường thẳng y = mx + b cho mỗi đoạn (m là hệ số góc, b là tung độ gốc), tìm giao điểm hai đường, rồi kiểm tra giao điểm có nằm trên cả hai đoạn không — dùng phép chia để tìm giao điểm. Khi hai đoạn gần song song, phương pháp này rất nhạy với độ chính xác của phép chia trên máy tính thật. Phương pháp của mục này tránh phép chia nên chính xác hơn nhiều.
+Mỗi câu hỏi trả lời được trong O(1) — không có gì lạ vì kích thước đầu vào của mỗi câu là O(1). Hơn nữa, các phương pháp ở đây chỉ dùng phép cộng, trừ, nhân và so sánh. Không cần phép chia hay hàm lượng giác — cả hai đều có thể tốn kém và dễ gặp sai số làm tròn.
+
+Chẳng hạn, cách "thẳng thắn" để kiểm tra hai đoạn có cắt nhau không — viết phương trình đường thẳng y = mx + b cho mỗi đoạn (m là hệ số góc, b là tung độ gốc), tìm giao điểm hai đường, rồi kiểm tra giao điểm có nằm trên cả hai đoạn không — dùng phép chia để tìm giao điểm. Khi hai đoạn gần song song, phương pháp này rất nhạy với độ chính xác của phép chia trên máy tính thật. Phương pháp của mục này tránh phép chia nên chính xác hơn nhiều.
 
 Minh hoạ (người tổng hợp) vì sao phép chia nguy hiểm: hai đường y = 1,0000001x và y = x + 10⁻⁷ gần song song; giao điểm có x = 10⁻⁷ / (1,0000001 − 1) = 1. Nhưng với số thực dấu phẩy động độ chính xác đơn (32 bit), 1,0000001 được lưu thành 1,00000011920929, nên hiệu với 1 là 1,192·10⁻⁷ thay vì 10⁻⁷, và phép chia cho x ≈ 0,839 thay vì 1 — sai 16%. Còn với toạ độ nguyên, tích có hướng là số nguyên và chính xác tuyệt đối.
 
@@ -427,7 +432,9 @@ ON-SEGMENT(pᵢ, pⱼ, pₖ)
  3  else return FALSE
 ```
 
-Cách SEGMENTS-INTERSECT hoạt động. Dòng 1–4 tính hướng tương đối dᵢ của mỗi đầu mút pᵢ so với đoạn kia. Nếu mọi hướng tương đối đều khác 0 thì dễ xác định hai đoạn có cắt nhau không: đoạn p₁p₂ vắt qua đường chứa p₃p₄ khi các đoạn có hướng từ p₃ tới p₁ và từ p₃ tới p₂ có hướng ngược nhau so với đoạn có hướng từ p₃ tới p₄ — lúc đó d₁ và d₂ trái dấu. Tương tự, p₃p₄ vắt qua đường chứa p₁p₂ khi d₃ và d₄ trái dấu. Nếu phép thử dòng 5 đúng thì hai đoạn vắt qua đường của nhau và thủ tục trả về TRUE. Nếu không, hai đoạn không vắt qua đường của nhau, dù trường hợp biên có thể xảy ra. Nếu mọi hướng tương đối khác 0 thì không có trường hợp biên: mọi phép thử với 0 ở dòng 7–13 thất bại và thủ tục trả về FALSE ở dòng 15.
+Cách SEGMENTS-INTERSECT hoạt động. Dòng 1–4 tính hướng tương đối dᵢ của mỗi đầu mút pᵢ so với đoạn kia. Nếu mọi hướng tương đối đều khác 0 thì dễ xác định hai đoạn có cắt nhau không: đoạn p₁p₂ vắt qua đường chứa p₃p₄ khi các đoạn có hướng từ p₃ tới p₁ và từ p₃ tới p₂ có hướng ngược nhau so với đoạn có hướng từ p₃ tới p₄ — lúc đó d₁ và d₂ trái dấu. Tương tự, p₃p₄ vắt qua đường chứa p₁p₂ khi d₃ và d₄ trái dấu.
+
+Nếu phép thử dòng 5 đúng thì hai đoạn vắt qua đường của nhau và thủ tục trả về TRUE. Nếu không, hai đoạn không vắt qua đường của nhau, dù trường hợp biên có thể xảy ra. Nếu mọi hướng tương đối khác 0 thì không có trường hợp biên: mọi phép thử với 0 ở dòng 7–13 thất bại và thủ tục trả về FALSE ở dòng 15.
 
 Trường hợp biên xảy ra khi một hướng tương đối dₖ bằng 0. Khi đó pₖ thẳng hàng với đoạn kia. Nó nằm đúng trên đoạn kia khi và chỉ khi nó nằm giữa hai đầu mút của đoạn kia. ON-SEGMENT trả về pₖ có nằm giữa hai đầu mút của đoạn pᵢpⱼ không (khi được gọi ở dòng 7–13, pᵢpⱼ là đoạn kia); thủ tục **giả định** pₖ đã thẳng hàng với pᵢpⱼ, nên chỉ cần kiểm tra pₖ nằm trong hình chữ nhật có hai góc đối là pᵢ, pⱼ.
 
@@ -460,7 +467,9 @@ Hình 33.3 của sách minh hoạ bốn trường hợp, mô tả lại:
 | Đầu mút nằm trên đoạn | (0,0), (4,4), (2,2), (5,0) | 10 | −10 | 0 | 20 | d₃ = 0 và ON-SEGMENT(p₁, p₂, p₃): 0 ≤ 2 ≤ 4 cả hai trục: TRUE ở dòng 12 |
 | Thẳng hàng nhưng ngoài đoạn | (0,0), (4,4), (6,6), (5,0) | 30 | 10 | 0 | 20 | d₃ = 0 nhưng 6 > 4: ON-SEGMENT sai; FALSE |
 
-Tính chi tiết dòng đầu: d₁ = DIRECTION(p₃, p₄, p₁) = (p₁ − p₃) × (p₄ − p₃) = (0, −4) × (4, −4) = 0·(−4) − (−4)·4 = 16; d₂ = (p₂ − p₃) × (p₄ − p₃) = (4, 0) × (4, −4) = 4·(−4) − 0·4 = −16; d₃ = (p₃ − p₁) × (p₂ − p₁) = (0, 4) × (4, 4) = 0·4 − 4·4 = −16; d₄ = (p₄ − p₁) × (p₂ − p₁) = (4, 0) × (4, 4) = 4·4 − 0·4 = 16. Hai cặp đều trái dấu; hai đoạn cắt nhau tại (2, 2). Dòng thứ hai: d₁ = (−4, 0) × (−1, 5) = −20, d₂ = (−2, 2) × (−1, 5) = −10 − (−2) = −8, cùng dấu âm — cả p₁ và p₂ nằm cùng một phía của đường qua (4, 0) và (3, 5); quả thật đoạn từ (0, 0) tới (2, 2) không chạm đoạn kia.
+Tính chi tiết dòng đầu: d₁ = DIRECTION(p₃, p₄, p₁) = (p₁ − p₃) × (p₄ − p₃) = (0, −4) × (4, −4) = 0·(−4) − (−4)·4 = 16; d₂ = (p₂ − p₃) × (p₄ − p₃) = (4, 0) × (4, −4) = 4·(−4) − 0·4 = −16; d₃ = (p₃ − p₁) × (p₂ − p₁) = (0, 4) × (4, 4) = 0·4 − 4·4 = −16; d₄ = (p₄ − p₁) × (p₂ − p₁) = (4, 0) × (4, 4) = 4·4 − 0·4 = 16. Hai cặp đều trái dấu; hai đoạn cắt nhau tại (2, 2).
+
+Dòng thứ hai: d₁ = (−4, 0) × (−1, 5) = −20, d₂ = (−2, 2) × (−1, 5) = −10 − (−2) = −8, cùng dấu âm — cả p₁ và p₂ nằm cùng một phía của đường qua (4, 0) và (3, 5); quả thật đoạn từ (0, 0) tới (2, 2) không chạm đoạn kia.
 
 #### Các ứng dụng khác của tích có hướng (Other applications of cross products)
 
@@ -502,7 +511,9 @@ Hình 33.4(a) của sách, mô tả lại: có bốn đoạn a, b, c, d và ba �
 
 Với mỗi x cố định, quan hệ ≽ₓ là một **tiền thứ tự toàn phần** (total preorder, xem Mục B.2) trên các đoạn cắt đường quét tại x. Tức là quan hệ có tính bắc cầu, và nếu s₁, s₂ đều cắt đường quét tại x thì s₁ ≽ₓ s₂ hoặc s₂ ≽ₓ s₁, hoặc cả hai (khi s₁ và s₂ cắt nhau trên đường quét). (Quan hệ ≽ₓ cũng phản xạ, nhưng không đối xứng, cũng không phản đối xứng.) Tuy nhiên, tiền thứ tự toàn phần có thể khác nhau với các x khác nhau, vì các đoạn đi vào và rời khỏi thứ tự: một đoạn **đi vào** thứ tự khi đường quét gặp đầu mút trái của nó, và **rời** thứ tự khi gặp đầu mút phải.
 
-Điều gì xảy ra khi đường quét đi qua giao điểm của hai đoạn? Như Hình 33.4(b) của sách cho thấy, hai đoạn **đổi vị trí** trong tiền thứ tự toàn phần. Mô tả lại: hai đoạn e (đi xuống từ trên-trái) và f (đi lên từ dưới-trái) cắt nhau; có thêm các đoạn g, h, i ở gần; ba đường quét v, z, w. Đường quét v ở bên trái giao điểm của e và f, w ở bên phải; ta có e ≽ᵥ f nhưng f ≽_w e. Vì giả định không có ba đoạn nào cắt nhau tại cùng một điểm, phải có một đường quét thẳng đứng x nào đó mà tại đó hai đoạn cắt nhau e và f là **liền kề** (consecutive) trong tiền thứ tự ≽ₓ. Trong hình, vùng tô xám là vùng nằm giữa e và f sát giao điểm của chúng (không có đoạn nào khác chen vào giữa e và f trong vùng này); mọi đường quét đi qua vùng tô xám, như z, đều có e và f liền kề trong tiền thứ tự của nó.
+Điều gì xảy ra khi đường quét đi qua giao điểm của hai đoạn? Như Hình 33.4(b) của sách cho thấy, hai đoạn **đổi vị trí** trong tiền thứ tự toàn phần. Mô tả lại: hai đoạn e (đi xuống từ trên-trái) và f (đi lên từ dưới-trái) cắt nhau; có thêm các đoạn g, h, i ở gần; ba đường quét v, z, w. Đường quét v ở bên trái giao điểm của e và f, w ở bên phải; ta có e ≽ᵥ f nhưng f ≽_w e.
+
+Vì giả định không có ba đoạn nào cắt nhau tại cùng một điểm, phải có một đường quét thẳng đứng x nào đó mà tại đó hai đoạn cắt nhau e và f là **liền kề** (consecutive) trong tiền thứ tự ≽ₓ. Trong hình, vùng tô xám là vùng nằm giữa e và f sát giao điểm của chúng (không có đoạn nào khác chen vào giữa e và f trong vùng này); mọi đường quét đi qua vùng tô xám, như z, đều có e và f liền kề trong tiền thứ tự của nó.
 
 ```text
   trái ─────────────────────────────────────────────────────▶ phải
@@ -525,7 +536,9 @@ Các thuật toán quét thường quản lý hai tập dữ liệu:
 1. **Trạng thái đường quét** (sweep-line status) cho biết quan hệ giữa các đối tượng mà đường quét đang cắt.
 2. **Lịch điểm sự kiện** (event-point schedule) là một dãy điểm, gọi là **điểm sự kiện** (event points), sắp từ trái sang phải theo hoành độ. Khi đường quét tiến từ trái sang phải, mỗi lần nó tới hoành độ của một điểm sự kiện thì dừng lại, xử lý điểm sự kiện, rồi tiếp tục. Trạng thái đường quét chỉ thay đổi tại các điểm sự kiện.
 
-Với một số thuật toán (ví dụ thuật toán mà Exercise 33.2-7 yêu cầu), lịch điểm sự kiện được bổ sung dần trong khi thuật toán chạy. Thuật toán đang xét thì xác định mọi điểm sự kiện trước khi quét, chỉ dựa vào tính chất đơn giản của dữ liệu đầu vào: mỗi đầu mút đoạn thẳng là một điểm sự kiện. Ta sắp các đầu mút theo hoành độ tăng dần và đi từ trái sang phải. (Nếu hai hay nhiều đầu mút **cùng hoành độ** — covertical — ta phá thế hoà bằng cách đặt mọi đầu mút trái cùng hoành độ trước các đầu mút phải cùng hoành độ. Trong nhóm các đầu mút trái cùng hoành độ, điểm có tung độ thấp hơn đứng trước; nhóm đầu mút phải cũng vậy.) Khi gặp đầu mút trái của một đoạn, ta chèn đoạn vào trạng thái đường quét; khi gặp đầu mút phải, ta xoá đoạn khỏi trạng thái đường quét. Mỗi khi hai đoạn **lần đầu trở nên liền kề** trong tiền thứ tự, ta kiểm tra chúng có cắt nhau không.
+Với một số thuật toán (ví dụ thuật toán mà Exercise 33.2-7 yêu cầu), lịch điểm sự kiện được bổ sung dần trong khi thuật toán chạy. Thuật toán đang xét thì xác định mọi điểm sự kiện trước khi quét, chỉ dựa vào tính chất đơn giản của dữ liệu đầu vào: mỗi đầu mút đoạn thẳng là một điểm sự kiện.
+
+Ta sắp các đầu mút theo hoành độ tăng dần và đi từ trái sang phải. (Nếu hai hay nhiều đầu mút **cùng hoành độ** — covertical — ta phá thế hoà bằng cách đặt mọi đầu mút trái cùng hoành độ trước các đầu mút phải cùng hoành độ. Trong nhóm các đầu mút trái cùng hoành độ, điểm có tung độ thấp hơn đứng trước; nhóm đầu mút phải cũng vậy.) Khi gặp đầu mút trái của một đoạn, ta chèn đoạn vào trạng thái đường quét; khi gặp đầu mút phải, ta xoá đoạn khỏi trạng thái đường quét. Mỗi khi hai đoạn **lần đầu trở nên liền kề** trong tiền thứ tự, ta kiểm tra chúng có cắt nhau không.
 
 Trạng thái đường quét là một tiền thứ tự toàn phần T, cần các thao tác:
 
@@ -567,7 +580,9 @@ ANY-SEGMENTS-INTERSECT(S)
 
 Giải thích. Dòng 1 khởi tạo tiền thứ tự rỗng. Dòng 2 xác định lịch điểm sự kiện bằng cách sắp 2n đầu mút từ trái sang phải, phá thế hoà như đã mô tả; một cách làm dòng 2 là sắp theo thứ tự từ điển bộ ba (x, e, y), trong đó x, y là toạ độ thường, e = 0 với đầu mút trái và e = 1 với đầu mút phải.
 
-Mỗi vòng lặp for ở dòng 3–11 xử lý một điểm sự kiện p. Nếu p là đầu mút trái của đoạn s, dòng 5 thêm s vào tiền thứ tự, và dòng 6–7 trả về TRUE nếu s cắt một trong hai đoạn liền kề nó trong tiền thứ tự xác định bởi đường quét qua p. (Điều kiện biên xảy ra nếu p nằm trên một đoạn khác s′; khi đó chỉ cần s và s′ được đặt liền kề nhau trong T.) Nếu p là đầu mút phải của đoạn s, ta cần xoá s khỏi tiền thứ tự. Nhưng trước đó, dòng 9–10 trả về TRUE nếu hai đoạn bao quanh s trong tiền thứ tự (ngay trên và ngay dưới s) cắt nhau. Nếu chúng không cắt nhau, dòng 11 xoá s. Nếu hai đoạn bao quanh s cắt nhau, chúng hẳn đã trở thành liền kề sau khi xoá s, nếu lệnh return ở dòng 10 không ngăn dòng 11 thực hiện. Phần chứng minh đúng sẽ làm rõ vì sao chỉ cần kiểm tra hai đoạn bao quanh s. Cuối cùng, nếu xử lý hết 2n điểm sự kiện mà không thấy giao điểm, dòng 12 trả về FALSE.
+Mỗi vòng lặp for ở dòng 3–11 xử lý một điểm sự kiện p. Nếu p là đầu mút trái của đoạn s, dòng 5 thêm s vào tiền thứ tự, và dòng 6–7 trả về TRUE nếu s cắt một trong hai đoạn liền kề nó trong tiền thứ tự xác định bởi đường quét qua p. (Điều kiện biên xảy ra nếu p nằm trên một đoạn khác s′; khi đó chỉ cần s và s′ được đặt liền kề nhau trong T.)
+
+Nếu p là đầu mút phải của đoạn s, ta cần xoá s khỏi tiền thứ tự. Nhưng trước đó, dòng 9–10 trả về TRUE nếu hai đoạn bao quanh s trong tiền thứ tự (ngay trên và ngay dưới s) cắt nhau. Nếu chúng không cắt nhau, dòng 11 xoá s. Nếu hai đoạn bao quanh s cắt nhau, chúng hẳn đã trở thành liền kề sau khi xoá s, nếu lệnh return ở dòng 10 không ngăn dòng 11 thực hiện. Phần chứng minh đúng sẽ làm rõ vì sao chỉ cần kiểm tra hai đoạn bao quanh s. Cuối cùng, nếu xử lý hết 2n điểm sự kiện mà không thấy giao điểm, dòng 12 trả về FALSE.
 
 #### Ví dụ chạy tay của sách (Hình 33.5)
 
@@ -591,7 +606,11 @@ Ta chứng minh ANY-SEGMENTS-INTERSECT(S) trả về TRUE khi và chỉ khi có 
 
 **Chiều "chỉ khi"** dễ thấy: thủ tục chỉ trả về TRUE (ở dòng 7 và 10) khi nó tìm thấy giao điểm giữa hai đoạn đầu vào. Vậy nếu trả về TRUE thì có giao điểm.
 
-**Chiều "khi"**: nếu có giao điểm thì thủ tục trả về TRUE. Giả sử có ít nhất một giao điểm. Gọi p là giao điểm **trái nhất**, phá thế hoà bằng cách chọn điểm có tung độ thấp nhất, và gọi a, b là hai đoạn cắt nhau tại p. Vì không có giao điểm nào bên trái p, thứ tự do T cho là đúng tại mọi điểm bên trái p. Vì không có ba đoạn nào cắt nhau tại một điểm, a và b trở nên liền kề trong tiền thứ tự tại một đường quét z nào đó. (Chú thích của sách: nếu cho phép ba đoạn cắt nhau tại một điểm, có thể có đoạn c chen giữa, cắt cả a và b tại p; tức có thể có a ≽_w c và c ≽_w b với mọi đường quét w bên trái p mà a ≽_w b. Exercise 33.2-8 yêu cầu chứng minh thủ tục vẫn đúng trong trường hợp này.) Hơn nữa, z ở bên trái p hoặc đi qua p. Có một đầu mút q nằm trên đường quét z là điểm sự kiện tại đó a và b trở nên liền kề. Nếu p nằm trên z thì q = p; nếu không thì q ở bên trái p. Trong cả hai trường hợp, thứ tự do T cho là đúng ngay trước khi gặp q.
+**Chiều "khi"**: nếu có giao điểm thì thủ tục trả về TRUE. Giả sử có ít nhất một giao điểm. Gọi p là giao điểm **trái nhất**, phá thế hoà bằng cách chọn điểm có tung độ thấp nhất, và gọi a, b là hai đoạn cắt nhau tại p. Vì không có giao điểm nào bên trái p, thứ tự do T cho là đúng tại mọi điểm bên trái p.
+
+Vì không có ba đoạn nào cắt nhau tại một điểm, a và b trở nên liền kề trong tiền thứ tự tại một đường quét z nào đó. (Chú thích của sách: nếu cho phép ba đoạn cắt nhau tại một điểm, có thể có đoạn c chen giữa, cắt cả a và b tại p; tức có thể có a ≽_w c và c ≽_w b với mọi đường quét w bên trái p mà a ≽_w b. Exercise 33.2-8 yêu cầu chứng minh thủ tục vẫn đúng trong trường hợp này.)
+
+Hơn nữa, z ở bên trái p hoặc đi qua p. Có một đầu mút q nằm trên đường quét z là điểm sự kiện tại đó a và b trở nên liền kề. Nếu p nằm trên z thì q = p; nếu không thì q ở bên trái p. Trong cả hai trường hợp, thứ tự do T cho là đúng ngay trước khi gặp q.
 
 (Đây là chỗ dùng thứ tự từ điển xử lý điểm sự kiện. Vì p là điểm thấp nhất trong các giao điểm trái nhất, ngay cả khi p nằm trên z và có giao điểm p′ khác cũng nằm trên z, điểm sự kiện q = p được xử lý trước khi p′ kịp làm rối tiền thứ tự T. Hơn nữa, ngay cả khi p là đầu mút trái của một đoạn, chẳng hạn a, và là đầu mút phải của đoạn kia, chẳng hạn b, thì vì sự kiện đầu trái xử lý trước sự kiện đầu phải, đoạn b vẫn còn trong T khi gặp đoạn a lần đầu.)
 
@@ -664,9 +683,13 @@ GRAHAM-SCAN(Q)
 
 (Dòng 1: "gọi p₀ là điểm có tung độ nhỏ nhất của Q, hoà thì lấy điểm trái nhất". Dòng 2: "gọi ⟨p₁, …, pₘ⟩ là các điểm còn lại, sắp theo góc cực ngược chiều kim đồng hồ quanh p₀; nếu nhiều điểm cùng góc thì bỏ hết, chỉ giữ điểm xa p₀ nhất". Dòng 8: "chừng nào góc tạo bởi NEXT-TO-TOP(S), TOP(S), pᵢ là một lần **không rẽ trái**".)
 
-Giải thích. Dòng 1 chọn p₀ là điểm có tung độ thấp nhất, hoà thì trái nhất. Vì không có điểm nào của Q thấp hơn p₀, và mọi điểm khác cùng tung độ đều nằm bên phải nó, p₀ phải là một đỉnh của CH(Q). Dòng 2 sắp các điểm còn lại theo góc cực quanh p₀, dùng cùng phương pháp so sánh tích có hướng như Exercise 33.1-3. Nếu nhiều điểm có cùng góc cực so với p₀, mọi điểm trừ điểm xa nhất đều là tổ hợp lồi của p₀ và điểm xa nhất, nên bị loại hẳn khỏi việc xét. Gọi m là số điểm khác p₀ còn lại. Góc cực (tính bằng radian) của mỗi điểm so với p₀ nằm trong nửa khoảng [0, π). Vì các điểm được sắp theo góc cực, chúng được sắp theo chiều ngược chiều kim đồng hồ quanh p₀; ký hiệu dãy đã sắp là ⟨p₁, p₂, …, pₘ⟩. Lưu ý p₁ và pₘ là đỉnh của CH(Q) (Exercise 33.3-1).
+Giải thích. Dòng 1 chọn p₀ là điểm có tung độ thấp nhất, hoà thì trái nhất. Vì không có điểm nào của Q thấp hơn p₀, và mọi điểm khác cùng tung độ đều nằm bên phải nó, p₀ phải là một đỉnh của CH(Q).
 
-Phần còn lại dùng ngăn xếp S. Dòng 3–6 khởi tạo ngăn xếp chứa, từ đáy lên, ba điểm đầu p₀, p₁, p₂. Vòng for dòng 7–10 lặp một lần cho mỗi điểm trong dãy con ⟨p₃, p₄, …, pₘ⟩. Ta sẽ thấy sau khi xử lý pᵢ, S chứa từ đáy lên các đỉnh của CH({p₀, p₁, …, pᵢ}) theo chiều ngược kim đồng hồ. Vòng while dòng 8–9 bật các điểm khỏi ngăn xếp khi phát hiện chúng không phải đỉnh bao lồi. Khi đi quanh bao lồi theo chiều ngược kim đồng hồ, ta phải rẽ trái tại mỗi đỉnh. Vì vậy mỗi lần vòng while thấy một đỉnh mà tại đó ta không rẽ trái, nó bật đỉnh đó ra. (Kiểm tra "không rẽ trái" thay vì chỉ "rẽ phải" loại trừ khả năng có góc bẹt 180° tại một đỉnh của bao lồi kết quả. Ta không muốn góc bẹt, vì không đỉnh nào của đa giác lồi được là tổ hợp lồi của các đỉnh khác.) Sau khi bật hết các đỉnh tạo lần không rẽ trái khi hướng về pᵢ, ta đẩy pᵢ vào ngăn xếp. Cuối cùng dòng 11 trả về S.
+Dòng 2 sắp các điểm còn lại theo góc cực quanh p₀, dùng cùng phương pháp so sánh tích có hướng như Exercise 33.1-3. Nếu nhiều điểm có cùng góc cực so với p₀, mọi điểm trừ điểm xa nhất đều là tổ hợp lồi của p₀ và điểm xa nhất, nên bị loại hẳn khỏi việc xét. Gọi m là số điểm khác p₀ còn lại. Góc cực (tính bằng radian) của mỗi điểm so với p₀ nằm trong nửa khoảng [0, π). Vì các điểm được sắp theo góc cực, chúng được sắp theo chiều ngược chiều kim đồng hồ quanh p₀; ký hiệu dãy đã sắp là ⟨p₁, p₂, …, pₘ⟩. Lưu ý p₁ và pₘ là đỉnh của CH(Q) (Exercise 33.3-1).
+
+Phần còn lại dùng ngăn xếp S. Dòng 3–6 khởi tạo ngăn xếp chứa, từ đáy lên, ba điểm đầu p₀, p₁, p₂. Vòng for dòng 7–10 lặp một lần cho mỗi điểm trong dãy con ⟨p₃, p₄, …, pₘ⟩. Ta sẽ thấy sau khi xử lý pᵢ, S chứa từ đáy lên các đỉnh của CH({p₀, p₁, …, pᵢ}) theo chiều ngược kim đồng hồ.
+
+Vòng while dòng 8–9 bật các điểm khỏi ngăn xếp khi phát hiện chúng không phải đỉnh bao lồi. Khi đi quanh bao lồi theo chiều ngược kim đồng hồ, ta phải rẽ trái tại mỗi đỉnh. Vì vậy mỗi lần vòng while thấy một đỉnh mà tại đó ta không rẽ trái, nó bật đỉnh đó ra. (Kiểm tra "không rẽ trái" thay vì chỉ "rẽ phải" loại trừ khả năng có góc bẹt 180° tại một đỉnh của bao lồi kết quả. Ta không muốn góc bẹt, vì không đỉnh nào của đa giác lồi được là tổ hợp lồi của các đỉnh khác.) Sau khi bật hết các đỉnh tạo lần không rẽ trái khi hướng về pᵢ, ta đẩy pᵢ vào ngăn xếp. Cuối cùng dòng 11 trả về S.
 
 Theo quy ước của Mục 33.1, góc NEXT-TO-TOP(S) = a, TOP(S) = b, pᵢ "không rẽ trái" khi (pᵢ − a) × (b − a) ≥ 0.
 
@@ -737,7 +760,9 @@ Ta đã chứng minh sau khi đẩy pᵢ, S chứa đúng các đỉnh của CH(
 
 **Kết thúc:** Khi vòng lặp kết thúc, i = m + 1, nên bất biến cho biết S gồm đúng các đỉnh của CH(Qₘ), tức CH(Q), theo chiều ngược kim đồng hồ từ đáy lên. ∎
 
-**Chỗ hở trong chứng minh của sách (nhận xét của người tổng hợp):** đẳng thức "Qᵢ − Pᵢ = Qⱼ ∪ {pᵢ}" nói chung **sai** nếu hiểu theo nghĩa đen, vì Pᵢ chỉ gồm các điểm bị bật **trong lần lặp i**, còn các điểm có chỉ số giữa j và i có thể đã bị bật ở lần lặp trước. Phản ví dụ ngay trong vết chạy của sách: ở lần lặp i = 10, sau vòng while đỉnh ngăn xếp là p₃ (j = 3) và P₁₀ = {p₅, p₆, p₉}; khi đó Q₁₀ − P₁₀ = {p₀, p₁, p₂, p₃, p₄, p₇, p₈, p₁₀}, còn Q₃ ∪ {p₁₀} = {p₀, p₁, p₂, p₃, p₁₀} — thiếu p₄, p₇, p₈ (bị bật ở các lần lặp 5 và 9). Cách sửa: thay Pᵢ bằng tập P′ᵢ = {pⱼ₊₁, …, pᵢ₋₁} gồm mọi điểm được đẩy sau pⱼ — tất cả đều đã bị bật, ở lần lặp i hoặc sớm hơn. Mỗi điểm pₜ trong P′ᵢ bị bật ở một lần lặp i′ ≤ i, khi đó nằm trong tam giác p₀, pᵣ, pᵢ′ gồm ba điểm khác của Qᵢ′ ⊆ Qᵢ, nên không là đỉnh của CH(Qᵢ). Áp dụng lặp lại (33.1) cho mọi điểm của P′ᵢ cho CH(Qᵢ − P′ᵢ) = CH(Qᵢ), và Qᵢ − P′ᵢ = Qⱼ ∪ {pᵢ} đúng theo nghĩa đen. Người tổng hợp không chắc chỗ này có trong danh sách lỗi chính thức hay không — theo hiểu biết của người tổng hợp, không tra cứu.
+**Chỗ hở trong chứng minh của sách (nhận xét của người tổng hợp):** đẳng thức "Qᵢ − Pᵢ = Qⱼ ∪ {pᵢ}" nói chung **sai** nếu hiểu theo nghĩa đen, vì Pᵢ chỉ gồm các điểm bị bật **trong lần lặp i**, còn các điểm có chỉ số giữa j và i có thể đã bị bật ở lần lặp trước. Phản ví dụ ngay trong vết chạy của sách: ở lần lặp i = 10, sau vòng while đỉnh ngăn xếp là p₃ (j = 3) và P₁₀ = {p₅, p₆, p₉}; khi đó Q₁₀ − P₁₀ = {p₀, p₁, p₂, p₃, p₄, p₇, p₈, p₁₀}, còn Q₃ ∪ {p₁₀} = {p₀, p₁, p₂, p₃, p₁₀} — thiếu p₄, p₇, p₈ (bị bật ở các lần lặp 5 và 9).
+
+Cách sửa: thay Pᵢ bằng tập P′ᵢ = {pⱼ₊₁, …, pᵢ₋₁} gồm mọi điểm được đẩy sau pⱼ — tất cả đều đã bị bật, ở lần lặp i hoặc sớm hơn. Mỗi điểm pₜ trong P′ᵢ bị bật ở một lần lặp i′ ≤ i, khi đó nằm trong tam giác p₀, pᵣ, pᵢ′ gồm ba điểm khác của Qᵢ′ ⊆ Qᵢ, nên không là đỉnh của CH(Qᵢ). Áp dụng lặp lại (33.1) cho mọi điểm của P′ᵢ cho CH(Qᵢ − P′ᵢ) = CH(Qᵢ), và Qᵢ − P′ᵢ = Qⱼ ∪ {pᵢ} đúng theo nghĩa đen. Người tổng hợp không chắc chỗ này có trong danh sách lỗi chính thức hay không — theo hiểu biết của người tổng hợp, không tra cứu.
 
 ##### Thời gian chạy của quét Graham
 
@@ -813,7 +838,9 @@ Giả sử ở một tầng đệ quy nào đó, cặp điểm gần nhất là 
 
 Hình 33.11(a) của sách, mô tả lại: các điểm rải trên mặt phẳng; đường thẳng đứng l ở giữa, mũi tên chỉ P_L bên trái, P_R bên phải; hai đường đứt nét song song cách l một khoảng δ giới hạn dải rộng 2δ; trong dải có một hình chữ nhật tô xám cao δ, rộng 2δ chứa p_L (bên trái l) và p_R (bên phải l).
 
-Tiếp theo, chứng minh **nhiều nhất 8 điểm của P** nằm trong hình chữ nhật δ × 2δ. Xét hình vuông δ × δ là nửa trái của hình chữ nhật. Vì mọi điểm trong P_L cách nhau ít nhất δ (vì δ ≤ δ_L), nhiều nhất 4 điểm nằm trong hình vuông này; Hình 33.11(b) của sách chỉ cách xếp 4 điểm: ở bốn góc của hình vuông. Tương tự, nhiều nhất 4 điểm của P_R nằm trong hình vuông δ × δ là nửa phải. Vậy nhiều nhất 8 điểm của P nằm trong hình chữ nhật δ × 2δ. (Lưu ý: vì điểm nằm trên l có thể thuộc P_L hoặc P_R, có thể có tới 4 điểm trên l. Giới hạn này đạt được khi có hai cặp điểm trùng nhau, mỗi cặp gồm một điểm của P_L và một điểm của P_R, một cặp ở giao của l với cạnh trên hình chữ nhật, cặp kia ở giao của l với cạnh dưới.)
+Tiếp theo, chứng minh **nhiều nhất 8 điểm của P** nằm trong hình chữ nhật δ × 2δ. Xét hình vuông δ × δ là nửa trái của hình chữ nhật. Vì mọi điểm trong P_L cách nhau ít nhất δ (vì δ ≤ δ_L), nhiều nhất 4 điểm nằm trong hình vuông này; Hình 33.11(b) của sách chỉ cách xếp 4 điểm: ở bốn góc của hình vuông. Tương tự, nhiều nhất 4 điểm của P_R nằm trong hình vuông δ × δ là nửa phải. Vậy nhiều nhất 8 điểm của P nằm trong hình chữ nhật δ × 2δ.
+
+(Lưu ý: vì điểm nằm trên l có thể thuộc P_L hoặc P_R, có thể có tới 4 điểm trên l. Giới hạn này đạt được khi có hai cặp điểm trùng nhau, mỗi cặp gồm một điểm của P_L và một điểm của P_R, một cặp ở giao của l với cạnh trên hình chữ nhật, cặp kia ở giao của l với cạnh dưới.)
 
 ```text
    Hình 33.11(b) mô tả lại: 8 điểm trong hình chữ nhật δ × 2δ
@@ -1147,7 +1174,9 @@ Quét (thứ tự + cấu trúc dữ liệu động), quét quay với ngăn x�
 
 ### So với cách làm thực tế
 
-Theo hiểu biết của người tổng hợp: trong lập trình thực tế, thuật toán bao lồi phổ biến nhất là "chuỗi đơn điệu" của Andrew (sắp theo x rồi dựng chuỗi trên, chuỗi dưới bằng ngăn xếp — chính là phương pháp gia tăng của Exercise 33.3-6), vì nó tránh sắp theo góc cực và xử lý điểm thẳng hàng đơn giản hơn quét Graham. Bài toán liệt kê mọi giao điểm dùng thuật toán Bentley–Ottmann (Exercise 33.2-7). Cặp điểm gần nhất trong thực tế thường giải bằng lưới băm hoặc cây k-d, hoặc thuật toán ngẫu nhiên kỳ vọng O(n) của Rabin; trong lập trình thi đấu, biến thể "quét theo x với tập sắp theo y" (đường quét + cây cân bằng) phổ biến hơn chia để trị. Các hệ thống GIS, CAD và đồ hoạ dùng thư viện hình học có vị từ chính xác thay vì tự cài.
+Theo hiểu biết của người tổng hợp: trong lập trình thực tế, thuật toán bao lồi phổ biến nhất là "chuỗi đơn điệu" của Andrew (sắp theo x rồi dựng chuỗi trên, chuỗi dưới bằng ngăn xếp — chính là phương pháp gia tăng của Exercise 33.3-6), vì nó tránh sắp theo góc cực và xử lý điểm thẳng hàng đơn giản hơn quét Graham. Bài toán liệt kê mọi giao điểm dùng thuật toán Bentley–Ottmann (Exercise 33.2-7).
+
+Cặp điểm gần nhất trong thực tế thường giải bằng lưới băm hoặc cây k-d, hoặc thuật toán ngẫu nhiên kỳ vọng O(n) của Rabin; trong lập trình thi đấu, biến thể "quét theo x với tập sắp theo y" (đường quét + cây cân bằng) phổ biến hơn chia để trị. Các hệ thống GIS, CAD và đồ hoạ dùng thư viện hình học có vị từ chính xác thay vì tự cài.
 
 ### Liên hệ các chương khác
 
@@ -1166,3 +1195,182 @@ Theo hiểu biết của người tổng hợp: trong lập trình thực tế, 
 - **Phỏng vấn:** viết hàm orientation và kiểm tra hai đoạn cắt nhau (đúng cả trường hợp thẳng hàng); điểm trong đa giác bằng đếm giao với tia; diện tích đa giác bằng công thức dây giày; bao lồi bằng Graham hoặc chuỗi đơn điệu; cặp điểm gần nhất bằng chia để trị và lý do "chỉ 7 điểm".
 - **Lập trình thi đấu:** dùng số nguyên (64 bit hoặc lớn hơn) cho tích có hướng; bao lồi chuỗi đơn điệu; thước kẹp xoay cho cặp xa nhất, đường kính, chiều rộng; quét đường thẳng với `std::set` cho giao đoạn thẳng và các bài "sự kiện trái–phải"; lớp cực đại (Problem 33-2) chính là dạng "dãy con tăng dài nhất" hai chiều với tìm kiếm nhị phân.
 - **Kỹ thuật phần mềm:** phát hiện va chạm trong game và robot (bao lồi, giao đoạn), kiểm tra quy tắc thiết kế mạch VLSI (giao các đoạn dây), GIS (điểm trong đa giác, giao đường), điều khiển giao thông (cặp gần nhất). Bài học chung: tách riêng các vị từ hình học nhỏ, kiểm thử kỹ trường hợp biên, và cân nhắc độ chính xác số học trước khi tối ưu tiệm cận.
+
+## Bản đồ tư duy
+
+Toàn cảnh Chương 33 trên một trang: 5 nhánh lớn theo các mục của bản gốc (Mục 33.1–33.4 và Bài toán cuối chương), mỗi nhánh ghi định nghĩa, thuật toán, thời gian chạy và lý do đúng, thêm một nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Chương 33: bài toán hình học phẳng giải nhanh, chính xác nhờ dấu tích có hướng và thứ tự xử lý khéo chọn`"]
+  n1["`Mục 33.1 — Tích có hướng trả lời mọi câu hỏi về đoạn thẳng trong O(1)`"]
+  n0 --- n1
+  n2["`Định nghĩa và ý nghĩa`"]
+  n1 --- n2
+  n3["`Tổ hợp lồi p₃ = αp₁ + (1 − α)p₂ với 0 ≤ α ≤ 1, đoạn thẳng là tập mọi tổ hợp lồi`"]
+  n2 --- n3
+  n4["`Tích có hướng p₁ × p₂ = x₁y₂ − x₂y₁, bằng diện tích có dấu của hình bình hành`"]
+  n2 --- n4
+  n5["`p₁ × p₂ dương thì p₁ theo chiều kim đồng hồ so với p₂, âm thì ngược chiều, bằng 0 là thẳng hàng`"]
+  n2 --- n5
+  n6["`Ba câu hỏi về đoạn thẳng`"]
+  n1 --- n6
+  n7["`Gốc chung p₀: xét dấu (p₁ − p₀) × (p₂ − p₀) để biết chiều kim đồng hồ`"]
+  n6 --- n7
+  n8["`Rẽ trái tại p₁ khi (p₂ − p₀) × (p₁ − p₀) âm, rẽ phải khi dương`"]
+  n6 --- n8
+  n9["`Hai đoạn cắt nhau khi mỗi đoạn vắt qua đường chứa đoạn kia, hoặc một đầu mút nằm trên đoạn kia`"]
+  n6 --- n9
+  n10["`SEGMENTS-INTERSECT`"]
+  n1 --- n10
+  n11["`DIRECTION tính hướng bốn đầu mút, hai cặp d₁, d₂ và d₃, d₄ trái dấu thì cắt nhau`"]
+  n10 --- n11
+  n12["`dₖ = 0 thì ON-SEGMENT kiểm tra điểm nằm trong hình chữ nhật bao của đoạn kia`"]
+  n10 --- n12
+  n13["`Chỉ cộng, trừ, nhân: tránh phép chia vốn sai số lớn khi hai đoạn gần song song`"]
+  n10 --- n13
+  n14["`Mục 33.2 — Kỹ thuật quét kiểm tra n đoạn có cặp nào cắt nhau trong O(n lg n)`"]
+  n0 --- n14
+  n15["`Thứ tự giữa các đoạn`"]
+  n14 --- n15
+  n16["`Đường quét thẳng đứng đi từ trái sang phải, trục x đóng vai trò thời gian`"]
+  n15 --- n16
+  n17["`s₁ ≽ₓ s₂ khi s₁ cắt đường quét tại x cao hơn s₂ hoặc hai đoạn cắt nhau ngay trên đường quét`"]
+  n15 --- n17
+  n18["`≽ₓ là tiền thứ tự toàn phần, hai đoạn đổi chỗ khi đường quét đi qua giao điểm`"]
+  n15 --- n18
+  n19["`Hai cấu trúc dữ liệu`"]
+  n14 --- n19
+  n20["`Trạng thái đường quét lưu trong cây đỏ-đen, INSERT, DELETE, ABOVE, BELOW mỗi thao tác O(lg n)`"]
+  n19 --- n20
+  n21["`Lịch điểm sự kiện là 2n đầu mút sắp theo bộ ba (x, e, y), đầu trái trước đầu phải`"]
+  n19 --- n21
+  n22["`ANY-SEGMENTS-INTERSECT`"]
+  n14 --- n22
+  n23["`Gặp đầu trái: chèn đoạn rồi so với đoạn ngay trên và ngay dưới`"]
+  n22 --- n23
+  n24["`Gặp đầu phải: so đoạn ngay trên với đoạn ngay dưới, rồi xoá đoạn`"]
+  n22 --- n24
+  n25["`Đúng vì tại giao điểm trái nhất, hai đoạn trở nên liền kề ở một sự kiện đã được kiểm tra`"]
+  n22 --- n25
+  n26["`Thời gian: sắp xếp O(n lg n) cộng 2n sự kiện × O(lg n)`"]
+  n22 --- n26
+  n27["`Liệt kê mọi giao điểm có thể cần Ω(n²) vì có thể có Θ(n²) giao điểm`"]
+  n22 --- n27
+  n28["`Mục 33.3 — Bao lồi bằng quét quay: Graham O(n lg n), Jarvis O(nh)`"]
+  n0 --- n28
+  n29["`Bao lồi và các phương pháp`"]
+  n28 --- n29
+  n30["`CH(Q) là đa giác lồi nhỏ nhất chứa mọi điểm của Q, mọi đỉnh của nó là điểm của Q`"]
+  n29 --- n30
+  n31["`Phương pháp gia tăng và chia để trị đều đạt O(n lg n)`"]
+  n29 --- n31
+  n32["`Tỉa-và-tìm của Kirkpatrick–Seidel chạy O(n lg h), nhanh nhất về tiệm cận`"]
+  n29 --- n32
+  n33["`GRAHAM-SCAN`"]
+  n28 --- n33
+  n34["`Chọn p₀ thấp nhất, sắp điểm còn lại theo góc cực quanh p₀, cùng góc chỉ giữ điểm xa nhất`"]
+  n33 --- n34
+  n35["`Mỗi điểm mới bật khỏi ngăn xếp mọi đỉnh tạo lần không rẽ trái, rồi được đẩy vào`"]
+  n33 --- n35
+  n36["`Định lý 33.1: bất biến ngăn xếp là đỉnh CH(Qᵢ₋₁) theo chiều ngược kim đồng hồ`"]
+  n33 --- n36
+  n37["`Phân tích gộp: nhiều nhất m − 2 lần POP, vòng while tổng O(n)`"]
+  n33 --- n37
+  n38["`Vết chạy 13 điểm của sách: 13 lần PUSH, 8 lần POP, bao lồi p₀, p₁, p₃, p₁₀, p₁₂`"]
+  n33 --- n38
+  n39["`Hành quân Jarvis (gói quà)`"]
+  n28 --- n39
+  n40["`Từ đỉnh hiện tại chọn điểm có góc cực nhỏ nhất làm đỉnh kế tiếp`"]
+  n39 --- n40
+  n41["`Chuỗi phải đo góc từ trục x dương tới điểm cao nhất, chuỗi trái đo từ trục x âm`"]
+  n39 --- n41
+  n42["`Mỗi đỉnh tốn O(n), tổng O(nh), nhanh hơn Graham khi h = o(lg n)`"]
+  n39 --- n42
+  n43["`Cận dưới`"]
+  n28 --- n43
+  n44["`Đặt xᵢ thành điểm (xᵢ, xᵢ²) trên parabol thì bao lồi cho thứ tự đã sắp`"]
+  n43 --- n44
+  n45["`Do đó bao lồi có thứ tự cần Ω(n lg n), Yao chứng minh trong mô hình cây quyết định`"]
+  n43 --- n45
+  n46["`Mục 33.4 — Cặp điểm gần nhất bằng chia để trị trong O(n lg n)`"]
+  n0 --- n46
+  n47["`Chia, trị, kết hợp`"]
+  n46 --- n47
+  n48["`Vét cạn xét C(n,2) = Θ(n²) cặp, đệ quy dừng và vét cạn khi còn ≤ 3 điểm`"]
+  n47 --- n48
+  n49["`Đường thẳng đứng l chia đôi tập điểm, đệ quy hai nửa, δ là khoảng cách nhỏ hơn của hai nửa`"]
+  n47 --- n49
+  n50["`Cặp tốt hơn δ phải cắt ngang l và nằm trong dải rộng 2δ quanh l`"]
+  n47 --- n50
+  n51["`Trong dải sắp theo tung độ, mỗi điểm chỉ so với 7 điểm kế tiếp`"]
+  n47 --- n51
+  n52["`Vì sao 7 điểm là đủ`"]
+  n46 --- n52
+  n53["`Cặp cần tìm nằm trong hình chữ nhật δ × 2δ có tâm trên l`"]
+  n52 --- n53
+  n54["`Mỗi nửa vuông δ × δ chứa ≤ 4 điểm cùng phía vì chúng cách nhau ≥ δ`"]
+  n52 --- n54
+  n55["`Hình chữ nhật chứa ≤ 8 điểm, Exercise 33.4-2 hạ con số xuống 5`"]
+  n52 --- n55
+  n56["`Đạt O(n lg n)`"]
+  n46 --- n56
+  n57["`Sắp xếp trước theo x và theo y một lần, O(n lg n)`"]
+  n56 --- n57
+  n58["`Tách mảng đã sắp thành hai mảng đã sắp trong O(n), ngược với MERGE`"]
+  n56 --- n58
+  n59["`T(n) = 2T(n/2) + O(n) cho O(n lg n), còn sắp lại mỗi lời gọi cho O(n lg² n)`"]
+  n56 --- n59
+  n60["`Bài toán cuối chương 33-1 đến 33-5 — Mở rộng của quét, bao lồi và chia để trị`"]
+  n0 --- n60
+  n61["`Lớp lồi tính được trong O(n²) bằng Jarvis lặp lại, cận dưới Ω(n lg n)`"]
+  n60 --- n61
+  n62["`Lớp cực đại tính trong O(n lg n) bằng quét từ phải sang trái và tìm kiếm nhị phân`"]
+  n60 --- n62
+  n63["`Ghép n người với n ma không cắt nhau trong O(n² lg n) bằng sắp góc cực đệ quy`"]
+  n60 --- n63
+  n64["`Nhặt que trong không gian 3 chiều quy về sắp xếp tô-pô đồ thị que nằm trên que`"]
+  n60 --- n64
+  n65["`Phân phối bao thưa: gộp hai đa giác lồi trong O(n₁ + n₂), chia để trị trung bình O(n)`"]
+  n60 --- n65
+  n66["`Thông điệp xuyên suốt`"]
+  n0 --- n66
+  n67["`Mọi so sánh hình học quy về dấu của tích có hướng, chính xác tuyệt đối với toạ độ nguyên`"]
+  n66 --- n67
+  n68["`Sắp thứ tự đúng thì chỉ cần xét cặp liền kề, hạ Θ(n²) xuống O(n lg n)`"]
+  n66 --- n68
+  n69["`O(n lg n) là tối ưu cho bao lồi và cặp gần nhất trong mô hình cây quyết định`"]
+  n66 --- n69
+  n70["`Trường hợp biên như thẳng hàng, đoạn thẳng đứng là phần khó nhất khi cài đặt và chứng minh`"]
+  n66 --- n70
+  class n0 root
+  class n1,n14,n28,n46,n60,n66 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n44,n45,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n61,n62,n63,n64,n65,n67,n68,n69,n70 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VII "Selected Topics", Chương 33 "Computational Geometry", trang 1014–1047.
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Chương 33 là một chương "chủ đề chọn lọc" của Phần VII, đứng sau Chương 32 về so khớp chuỗi ([C32-so-khop-chuoi.md](C32-so-khop-chuoi.md)) và trước Chương 34 về NP-đầy đủ ([C34-np-day-du.md](C34-np-day-du.md)).
+
+Chương này không đưa ra công cụ phân tích mới mà cho thấy các công cụ của cả cuốn sách hoạt động trên dữ liệu hình học: bất biến vòng lặp và phương pháp chia để trị của Chương 2 ([C02-bat-dau.md](C02-bat-dau.md)), truy hồi T(n) = 2T(n/2) + O(n) của Chương 4 ([C04-chia-de-tri.md](C04-chia-de-tri.md)), sắp xếp O(n lg n) bằng heapsort hoặc sắp xếp trộn ([C06-heapsort.md](C06-heapsort.md), [C02-bat-dau.md](C02-bat-dau.md)) cùng cận dưới Ω(n lg n) cho sắp xếp bằng so sánh ([C08-sap-xep-thoi-gian-tuyen-tinh.md](C08-sap-xep-thoi-gian-tuyen-tinh.md)), tìm phần tử nhỏ nhất trong O(n) và thuật toán chọn tuyến tính của Chương 9 ([C09-trung-vi-va-thong-ke-thu-tu.md](C09-trung-vi-va-thong-ke-thu-tu.md)), ngăn xếp của Chương 10 ([C10-cau-truc-du-lieu-co-ban.md](C10-cau-truc-du-lieu-co-ban.md)), cây đỏ-đen của Chương 13 ([C13-cay-do-den.md](C13-cay-do-den.md)) dùng làm "trạng thái đường quét", và phân tích gộp (aggregate analysis) của Chương 17 ([C17-phan-tich-khau-hao.md](C17-phan-tich-khau-hao.md)) để chứng minh vòng lặp while của quét Graham chỉ tốn O(n). Khái niệm tiền thứ tự toàn phần (total preorder) lấy từ Phụ lục B ([PB-tap-hop-va-cau-truc-roi-rac.md](PB-tap-hop-va-cau-truc-roi-rac.md)).
+
+## Lưu ý
+
+- **Không có mục có dấu sao (★) trong chương này.** Dấu sao chỉ xuất hiện ở một bài tập: Exercise 33.3-6 (cài đặt phương pháp gia tăng tính bao lồi trong O(n lg n)).
+- **Lớp chữ PDF hỏng nhiều ký hiệu của chương:** dấu tích có hướng × mất hẳn (`p1 p2` là `p₁ × p₂`); dấu trừ thành `/NUL` (ví dụ `.p1/NUL p0/` là `(p₁ − p₀)`); mũi tên của đoạn có hướng thành `/NUL/NUL/NUL!p0p1`; ký hiệu quan hệ "nằm trên tại x" là `≽ₓ` (dấu "succeeds or equal" có chỉ số) bị lớp chữ biến thành `<x`, dễ đọc nhầm thành "nhỏ hơn"; `‚` là Θ, `.n2/` là (n²); các dấu ≤ trong ON-SEGMENT, trong định nghĩa tổ hợp lồi 0 ≤ α ≤ 1 và trong |P| ≤ 3 mất hẳn; δ (delta) thành `ı`; Ω thành `.`; ε trong Problem 33-5 mất. Mọi pseudocode (SEGMENTS-INTERSECT, DIRECTION, ON-SEGMENT, ANY-SEGMENTS-INTERSECT, GRAHAM-SCAN, đoạn mã tách mảng Y), công thức (33.1), truy hồi của Mục 33.4 và các Hình 33.1–33.11 trong bản tổng hợp này được đối chiếu với ảnh trang 1016–1019, 1022–1026, 1029, 1031–1033, 1035–1037, 1039–1043. Đã xem ảnh của tất cả các trang 1014–1047.
+- **Chỗ hở trong chứng minh Định lý 33.1 (nhận xét của người tổng hợp):** ở bước Duy trì, sách viết "Qᵢ − Pᵢ = Qⱼ ∪ {pᵢ}", với Pᵢ là tập điểm bị bật trong lần lặp i. Đẳng thức này sai theo nghĩa đen khi có điểm chỉ số giữa j và i bị bật ở lần lặp sớm hơn; phản ví dụ ngay trong vết chạy của sách (Hình 33.7(i)): ở lần lặp i = 10 có j = 3, P₁₀ = {p₅, p₆, p₉}, nhưng Q₁₀ − P₁₀ còn chứa p₄, p₇, p₈ (bị bật ở lần lặp 5 và 9). Kết luận của định lý vẫn đúng; cách sửa (thay Pᵢ bằng {pⱼ₊₁, …, pᵢ₋₁}) ghi ở phần Nội dung chi tiết.
+- **Chỗ ký hiệu dễ gây nhầm (nhận xét của người tổng hợp):** (1) thủ tục DIRECTION(pᵢ, pⱼ, pₖ) trả về (pₖ − pᵢ) × (pⱼ − pᵢ), tức thứ tự hai vectơ ngược với thứ tự tham số; giá trị âm nghĩa là đi từ pᵢ tới pⱼ rồi tới pₖ là **rẽ trái**. Người cài đặt quen quy ước "(pⱼ − pᵢ) × (pₖ − pᵢ) > 0 là rẽ trái" phải đổi dấu toàn bộ. (2) Sách viết "colinear" thay vì dạng chuẩn "collinear"; bản tổng hợp dịch là "thẳng hàng". (3) Mục 33.4 khẳng định "nhiều nhất 4 điểm của P_L nằm trong hình vuông δ × δ" chỉ bằng một hình minh hoạ, không chứng minh; người tổng hợp bổ sung chứng minh (chia hình vuông thành 4 ô δ/2 × δ/2) ở phần Nội dung chi tiết. (4) Đoạn mã tách mảng Y ở Mục 33.4 dùng phép thử "Y[i] ∈ P_L" mà không nói cách làm trong O(1) (cần đánh dấu từng điểm khi chia X); khi có nhiều điểm cùng hoành độ, việc phân định cũng không hiển nhiên — sách để cho Exercise 33.4-5. Ngoài chỗ hở ở Định lý 33.1, người tổng hợp không phát hiện lỗi số hay lỗi công thức rõ ràng nào trong chương; không chắc các điểm trên có trong danh sách lỗi chính thức (errata) hay không — theo hiểu biết của người tổng hợp, không tra cứu.
+- **Ví dụ chạy tay đã tự kiểm tra lại:** vết chạy của ANY-SEGMENTS-INTERSECT trên sáu đoạn a–f (Hình 33.5) và vết chạy của GRAHAM-SCAN trên 13 điểm p₀–p₁₂ (Hình 33.7(a)–(l), đọc từ ảnh trang 1032–1033) khớp với lời văn của sách (tổng 8 lần POP, không vượt cận m − 2 = 10). Các ví dụ có toạ độ cụ thể do người tổng hợp tự đặt — tích có hướng, ba trường hợp SEGMENTS-INTERSECT, GRAHAM-SCAN và hành quân Jarvis trên 9 điểm, cặp điểm gần nhất trên 10 điểm, diện tích đa giác và điểm trong đa giác — đều đã được tính lại bằng tay và đối chiếu bằng một chương trình nhỏ.
+- **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** chương Computational Geometry **bị bỏ khỏi ấn bản 4** (cùng với các chương Fibonacci heap và cây van Emde Boas); số chương 33 ở ấn bản 4 dành cho chương mới về thuật toán học máy (Machine-Learning Algorithms). Người tổng hợp không nhớ chắc phần nào của chương này (ví dụ tích có hướng) được giữ lại ở chỗ khác, nên không liệt kê.

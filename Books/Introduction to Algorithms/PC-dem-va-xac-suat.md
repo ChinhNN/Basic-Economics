@@ -1,19 +1,18 @@
 # Phụ lục C — Đếm và xác suất (Counting and Probability)
 
-**Nguồn:** Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VIII "Appendix: Mathematical Background", Phụ lục C "Counting and Probability", trang 1183–1216 (C.1 Counting, C.2 Probability, C.3 Discrete random variables, C.4 The geometric and binomial distributions, ★C.5 The tails of the binomial distribution, Problems for Appendix C, Appendix notes).
-**Tác giả:** Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
-**Vị trí trong lập luận của cả cuốn sách:** Phụ lục C là kho công cụ tổ hợp và xác suất mà mọi phân tích xác suất và mọi thuật toán ngẫu nhiên trong sách dựa vào. Nó dựa trên hai phụ lục trước: Phụ lục A ([PA-tong.md](PA-tong.md)) cho chuỗi hình học và đạo hàm của nó (công thức (A.8), Exercise A.1-3) để tính kỳ vọng và phương sai của phân phối hình học; Phụ lục B ([PB-tap-hop-va-cau-truc-roi-rac.md](PB-tap-hop-va-cau-truc-roi-rac.md)) cho tập hợp, công thức |A ∪ B| = |A| + |B| − |A ∩ B| (B.3) và tích Descartes |A × B| = |A| · |B| (B.4) — chính là quy tắc cộng và quy tắc nhân ở Mục C.1. Chương 3 ([C03-tang-truong-cua-ham.md](C03-tang-truong-cua-ham.md)) cho công thức Stirling (3.18) và bất đẳng thức 1 + x ≤ eˣ (3.12) được dùng để chặn hệ số nhị thức và để chứng minh cận đuôi Định lý C.8. Ở chiều ngược lại, phụ lục này phục vụ: Chương 5 ([C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md](C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md)) — biến ngẫu nhiên chỉ thị, tính tuyến tính của kỳ vọng, bài toán ngày sinh, bóng và thùng, chuỗi mặt ngửa dài nhất; Chương 7 ([C07-quicksort.md](C07-quicksort.md)) — thời gian kỳ vọng của quicksort ngẫu nhiên; Chương 8 ([C08-sap-xep-thoi-gian-tuyen-tinh.md](C08-sap-xep-thoi-gian-tuyen-tinh.md)) — phân tích sắp xếp thùng dùng phương sai của phân phối nhị thức và công thức E[X²] = Var[X] + E²[X]; Chương 9 ([C09-trung-vi-va-thong-ke-thu-tu.md](C09-trung-vi-va-thong-ke-thu-tu.md)) — RANDOMIZED-SELECT; Chương 11 ([C11-bang-bam.md](C11-bang-bam.md)) — băm đều, băm phổ dụng, địa chỉ mở và độ dài chuỗi lớn nhất (Problem 11-2 dùng cận đuôi); Chương 12 ([C12-cay-tim-kiem-nhi-phan.md](C12-cay-tim-kiem-nhi-phan.md)) — chiều cao kỳ vọng của cây tìm kiếm nhị phân dựng ngẫu nhiên, dùng bất đẳng thức Jensen; Chương 31 ([C31-thuat-toan-so-hoc.md](C31-thuat-toan-so-hoc.md)) — kiểm tra nguyên tố ngẫu nhiên Miller–Rabin; Chương 35 ([C35-thuat-toan-xap-xi.md](C35-thuat-toan-xap-xi.md)) — thuật toán xấp xỉ ngẫu nhiên cho MAX-3-CNF và làm tròn ngẫu nhiên.
-**Ý chính:** Tác giả muốn người đọc có đủ **bộ công cụ tối thiểu để phân tích thuật toán ngẫu nhiên: đếm số cách bằng hoán vị, tổ hợp và hệ số nhị thức (kèm các cận trên, cận dưới của hệ số nhị thức); định nghĩa xác suất bằng ba tiên đề trên không gian mẫu; biến ngẫu nhiên rời rạc với kỳ vọng, phương sai và — quan trọng nhất — tính tuyến tính của kỳ vọng đúng cả khi các biến phụ thuộc nhau; hai phân phối sinh ra từ dãy phép thử Bernoulli (hình học: kỳ vọng 1/p; nhị thức: kỳ vọng np, phương sai npq); và các cận cho đuôi của phân phối nhị thức, cho biết xác suất lệch xa giá trị trung bình giảm theo hàm mũ.** Mục C.1 trình bày quy tắc cộng và quy tắc nhân, xâu (có |S|ᵏ xâu độ dài k), hoán vị (n!), k-hoán vị (n!/(n − k)!, công thức (C.1)), k-tổ hợp (n!/(k!(n − k)!), công thức (C.2)), hệ số nhị thức và khai triển nhị thức (C.4), các cận (n/k)ᵏ ≤ C(n, k) ≤ (en/k)ᵏ (C.5), cận C(n, k) ≤ nⁿ/(kᵏ(n − k)ⁿ⁻ᵏ) (C.6) và dạng entropy C(n, λn) ≤ 2^(nH(λ)) với hàm entropy nhị phân H(λ) (C.7). Mục C.2 định nghĩa không gian mẫu, biến cố, ba tiên đề xác suất, phân phối rời rạc và phân phối đều, phân phối đều liên tục trên đoạn [a, b], xác suất có điều kiện (C.14), sự độc lập (C.15), độc lập từng đôi và độc lập toàn thể, định lý Bayes (C.17)–(C.18). Mục C.3 định nghĩa biến ngẫu nhiên rời rạc, hàm phân phối xác suất và phân phối đồng thời, kỳ vọng (C.20), tính tuyến tính của kỳ vọng (C.21)–(C.23), kỳ vọng của tích các biến độc lập (C.24), công thức E[X] = Σᵢ≥₁ Pr{X ≥ i} cho biến nhận giá trị tự nhiên (C.25), bất đẳng thức Jensen (C.26), phương sai Var[X] = E[X²] − E²[X] (C.27), phương sai của tổng các biến độc lập từng đôi (C.29) và độ lệch chuẩn. Mục C.4 xét phép thử Bernoulli, phân phối hình học (Pr{X = k} = qᵏ⁻¹p, kỳ vọng 1/p, phương sai q/p²) và phân phối nhị thức b(k; n, p) = C(n, k)pᵏqⁿ⁻ᵏ (kỳ vọng np tính bằng hai cách, phương sai npq), tỷ số hai số hạng liên tiếp (C.41) cho thấy phân phối tăng tới khoảng np rồi giảm, và Bổ đề C.1 chặn trên b(k; n, p). Mục ★C.5 chứng minh các cận đuôi: Pr{X ≥ k} ≤ C(n, k)pᵏ (Định lý C.2, bằng bất đẳng thức Boole), cận đuôi trái bằng chuỗi hình học (Định lý C.4 và hệ quả: xa trung bình, mỗi bước lùi làm xác suất đuôi giảm hơn một nửa), và cận kiểu Chernoff Pr{X − μ ≥ r} ≤ (μe/r)ʳ cho tổng các phép thử Bernoulli với xác suất khác nhau (Định lý C.8), chứng minh bằng bất đẳng thức Markov áp dụng cho e^(α(X − μ)).
+## Ý chính
 
-> **Lưu ý:**
-> - **Mục có dấu sao (★):** Mục C.5 "The tails of the binomial distribution" là mục nâng cao. **Bài tập có dấu sao:** C.1-11, C.1-12, C.1-13, C.1-14, C.1-15; C.2-6, C.2-7, C.2-8, C.2-9, C.2-10; C.3-5, C.3-6, C.3-7; C.4-5, C.4-6, C.4-7, C.4-8, C.4-9; và toàn bộ bài tập Mục C.5 (C.5-1 tới C.5-7). Problem C-1 không có dấu sao.
-> - **Lớp chữ PDF hỏng gần như toàn bộ ký hiệu toán của phụ lục**: hệ số nhị thức C(n, k) mất hẳn dấu ngoặc và bị tách thành hai dòng, dấu ∪, ∩, ≤, ≥, ≠ bị mất hoặc biến thành ký tự lạ (ví dụ `jA[ BjDjAjCjBj` là |A ∪ B| = |A| + |B|), gạch ngang trên Ā (biến cố bù) mất hoàn toàn nên công thức Bayes (C.18) đọc từ lớp chữ là sai nghĩa, chỉ số và số mũ (qᵏ⁻¹p, e^(α(X − μ)), 2^(nH(λ))) bị dàn phẳng. Mọi công thức (C.1)–(C.47), Bổ đề C.1, Định lý C.2, C.4, C.8, các Hệ quả C.3, C.5, C.6, C.7, C.9 và hai hình (Hình C.1 phân phối hình học, Hình C.2 phân phối nhị thức) trong bản tổng hợp này được đối chiếu với ảnh của tất cả các trang 1183–1216; riêng trang 1210 và 1214 được dựng lại ở độ phân giải cao hơn để đọc chỉ số tổng.
-> - **Lỗi in trong chứng minh Định lý C.4 (trang 1210, nhận xét của người tổng hợp):** dòng thứ hai của chuỗi đánh giá viết "< b(k; n, p) Σᵢ₌₀^∞ xⁱ" rồi "= (x/(1 − x)) b(k; n, p)". Nhưng Σᵢ₌₀^∞ xⁱ = 1/(1 − x), không phải x/(1 − x). Đúng ra phải là Σᵢ₌₁^∞ xⁱ = x/(1 − x), vì Σᵢ₌₀ᵏ⁻¹ x^(k − i) = x + x² + … + xᵏ bắt đầu từ lũy thừa 1. Kết luận của định lý vẫn đúng; chỉ chỉ số dưới của tổng bị in sai. Người tổng hợp không chắc lỗi này đã có trong danh sách lỗi chính thức (errata) hay chưa — không tra cứu.
-> - **Chỗ đề bài lạ ở Exercise C.5-4 (nhận xét của người tổng hợp):** vế trái in là Σᵢ₌₀ᵏ⁻¹ pⁱqⁿ⁻ⁱ, không có hệ số nhị thức C(n, i). Có lẽ ý định là Σᵢ₌₀ᵏ⁻¹ C(n, i)pⁱqⁿ⁻ⁱ = Pr{X < k} (khi đó bài tập là ghép Định lý C.4 với Bổ đề C.1). Bất đẳng thức như in vẫn đúng (vì mỗi số hạng không lớn hơn số hạng có hệ số nhị thức), chỉ yếu hơn. Exercise C.5-5 phát biểu "các điều kiện của Định lý C.8 kéo theo Pr{μ − X ≥ r} ≤ ((n − μ)e/r)ʳ", trong khi khi áp dụng Định lý C.8 cho số lần thất bại, điều kiện đúng phải là r > n − μ chứ không phải r > μ. Exercise C.4-4 viết "Show that value of the maximum…" (thiếu "the") — lỗi chữ nhỏ.
-> - **Ký hiệu chưa chặt (nhận xét của người tổng hợp):** sách gọi f(x) = Pr{X = x} của biến ngẫu nhiên rời rạc là "probability density function" (hàm mật độ xác suất); tên chuẩn trong lý thuyết xác suất cho biến rời rạc là "probability mass function" (hàm khối xác suất), còn "mật độ" dành cho biến liên tục. Bản tổng hợp dùng "hàm phân phối xác suất" để tránh nhầm. Sách cũng nói số hạng b(k; n, p) là "số hạng thứ k" của khai triển (p + q)ⁿ; nếu đếm từ 1 thì đó là số hạng thứ k + 1 (k chạy từ 0).
-> - **Mọi ví dụ số trong sách đã được tự kiểm tra lại và đúng**: biển số xe 26 + 10 = 36; kem 28 · 4 = 112; 8 xâu nhị phân độ dài 3; 010 là 3-xâu con của 01101001 bắt đầu ở vị trí 4; 12 cách chọn 2-hoán vị và 6 cách chọn 2-tổ hợp của {a, b, c, d}; xác suất ít nhất một mặt ngửa 3/4; xác suất có điều kiện "hai mặt ngửa biết có ít nhất một mặt ngửa" 1/3; ví dụ Bayes với đồng xu lệch cho 4/5; Pr{max hai xúc xắc = 3} = 5/36; trò chơi tung hai đồng xu kỳ vọng thu 1 đô la; phân phối hình học với p = 2/9 (tung hai xúc xắc tới khi ra tổng 7 hoặc 11) cần trung bình 4,5 lần; phân phối nhị thức b(k; 15, 1/3) đạt cực đại tại k = 5 với giá trị ≈ 0,2143. Các giá trị dùng để vẽ lại Hình C.1 và Hình C.2 do người tổng hợp tự tính.
-> - **Một phát hiện khi giải Exercise C.5-1 (người tổng hợp tính chính xác bằng phân số):** câu hỏi "biến cố nào ít khả năng hơn: không có mặt ngửa nào khi tung n lần, hay ít hơn n mặt ngửa khi tung 4n lần?" không có một đáp án cho mọi n: với n ≤ 17, "ít hơn n mặt ngửa trong 4n lần" ít khả năng hơn; với n ≥ 18 thì "không có mặt ngửa trong n lần" ít khả năng hơn (tỷ số hai xác suất vượt 1 tại n = 18 và tăng theo hàm mũ sau đó). Chi tiết ở phần Bài tập.
-> - **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** Phụ lục C vẫn mang tên "Counting and Probability" với cùng năm mục, mục đuôi phân phối nhị thức vẫn có dấu sao. Người tổng hợp không nhớ chắc các thay đổi chi tiết về lời văn, ký hiệu hay bài tập nên không liệt kê.
+Tác giả muốn người đọc có đủ **bộ công cụ tối thiểu để phân tích thuật toán ngẫu nhiên: đếm số cách bằng hoán vị, tổ hợp và hệ số nhị thức (kèm các cận trên, cận dưới của hệ số nhị thức); định nghĩa xác suất bằng ba tiên đề trên không gian mẫu; biến ngẫu nhiên rời rạc với kỳ vọng, phương sai và — quan trọng nhất — tính tuyến tính của kỳ vọng đúng cả khi các biến phụ thuộc nhau; hai phân phối sinh ra từ dãy phép thử Bernoulli (hình học: kỳ vọng 1/p; nhị thức: kỳ vọng np, phương sai npq); và các cận cho đuôi của phân phối nhị thức, cho biết xác suất lệch xa giá trị trung bình giảm theo hàm mũ.**
+
+Mục C.1 trình bày quy tắc cộng và quy tắc nhân, xâu (có |S|ᵏ xâu độ dài k), hoán vị (n!), k-hoán vị (n!/(n − k)!, công thức (C.1)), k-tổ hợp (n!/(k!(n − k)!), công thức (C.2)), hệ số nhị thức và khai triển nhị thức (C.4), các cận (n/k)ᵏ ≤ C(n, k) ≤ (en/k)ᵏ (C.5), cận C(n, k) ≤ nⁿ/(kᵏ(n − k)ⁿ⁻ᵏ) (C.6) và dạng entropy C(n, λn) ≤ 2^(nH(λ)) với hàm entropy nhị phân H(λ) (C.7).
+
+Mục C.2 định nghĩa không gian mẫu, biến cố, ba tiên đề xác suất, phân phối rời rạc và phân phối đều, phân phối đều liên tục trên đoạn [a, b], xác suất có điều kiện (C.14), sự độc lập (C.15), độc lập từng đôi và độc lập toàn thể, định lý Bayes (C.17)–(C.18).
+
+Mục C.3 định nghĩa biến ngẫu nhiên rời rạc, hàm phân phối xác suất và phân phối đồng thời, kỳ vọng (C.20), tính tuyến tính của kỳ vọng (C.21)–(C.23), kỳ vọng của tích các biến độc lập (C.24), công thức E[X] = Σᵢ≥₁ Pr{X ≥ i} cho biến nhận giá trị tự nhiên (C.25), bất đẳng thức Jensen (C.26), phương sai Var[X] = E[X²] − E²[X] (C.27), phương sai của tổng các biến độc lập từng đôi (C.29) và độ lệch chuẩn.
+
+Mục C.4 xét phép thử Bernoulli, phân phối hình học (Pr{X = k} = qᵏ⁻¹p, kỳ vọng 1/p, phương sai q/p²) và phân phối nhị thức b(k; n, p) = C(n, k)pᵏqⁿ⁻ᵏ (kỳ vọng np tính bằng hai cách, phương sai npq), tỷ số hai số hạng liên tiếp (C.41) cho thấy phân phối tăng tới khoảng np rồi giảm, và Bổ đề C.1 chặn trên b(k; n, p).
+
+Mục ★C.5 chứng minh các cận đuôi: Pr{X ≥ k} ≤ C(n, k)pᵏ (Định lý C.2, bằng bất đẳng thức Boole), cận đuôi trái bằng chuỗi hình học (Định lý C.4 và hệ quả: xa trung bình, mỗi bước lùi làm xác suất đuôi giảm hơn một nửa), và cận kiểu Chernoff Pr{X − μ ≥ r} ≤ (μe/r)ʳ cho tổng các phép thử Bernoulli với xác suất khác nhau (Định lý C.8), chứng minh bằng bất đẳng thức Markov áp dụng cho e^(α(X − μ)).
 
 ## Sơ đồ
 
@@ -489,7 +488,9 @@ Xác suất được định nghĩa dựa trên **không gian mẫu** (sample sp
 S = {HH, HT, TH, TT}
 ```
 
-**Biến cố** (event) là một tập con của không gian mẫu S. (Chú thích của sách về khái niệm biến cố: với một phân phối xác suất tổng quát, có thể có những tập con của S không được coi là biến cố — thường xảy ra khi không gian mẫu vô hạn không đếm được. Yêu cầu chính với họ các biến cố là: đóng với phép lấy phần bù, với hợp của hữu hạn hoặc đếm được biến cố, và với giao của hữu hạn hoặc đếm được biến cố. Phần lớn phân phối trong sách là trên không gian mẫu hữu hạn hoặc đếm được, và nói chung coi mọi tập con là biến cố; ngoại lệ đáng kể là phân phối đều liên tục, sẽ gặp ngay sau đây.) Ví dụ, trong thí nghiệm tung hai xu, biến cố "được một ngửa và một sấp" là {HT, TH}. Biến cố S gọi là **biến cố chắc chắn** (certain event), biến cố ∅ gọi là **biến cố rỗng** (null event). Hai biến cố A và B **xung khắc** (mutually exclusive) nếu A ∩ B = ∅. Đôi khi coi một biến cố sơ cấp s ∈ S như biến cố {s}. Theo định nghĩa, mọi biến cố sơ cấp đôi một xung khắc.
+**Biến cố** (event) là một tập con của không gian mẫu S. (Chú thích của sách về khái niệm biến cố: với một phân phối xác suất tổng quát, có thể có những tập con của S không được coi là biến cố — thường xảy ra khi không gian mẫu vô hạn không đếm được. Yêu cầu chính với họ các biến cố là: đóng với phép lấy phần bù, với hợp của hữu hạn hoặc đếm được biến cố, và với giao của hữu hạn hoặc đếm được biến cố. Phần lớn phân phối trong sách là trên không gian mẫu hữu hạn hoặc đếm được, và nói chung coi mọi tập con là biến cố; ngoại lệ đáng kể là phân phối đều liên tục, sẽ gặp ngay sau đây.)
+
+Ví dụ, trong thí nghiệm tung hai xu, biến cố "được một ngửa và một sấp" là {HT, TH}. Biến cố S gọi là **biến cố chắc chắn** (certain event), biến cố ∅ gọi là **biến cố rỗng** (null event). Hai biến cố A và B **xung khắc** (mutually exclusive) nếu A ∩ B = ∅. Đôi khi coi một biến cố sơ cấp s ∈ S như biến cố {s}. Theo định nghĩa, mọi biến cố sơ cấp đôi một xung khắc.
 
 #### Tiên đề xác suất (Axioms of probability)
 
@@ -671,7 +672,7 @@ Hàm
 f(x) = Pr{X = x}
 ```
 
-là **hàm phân phối xác suất** của biến ngẫu nhiên X (sách gọi là *probability density function*; xem khối Lưu ý về tên gọi). Từ các tiên đề xác suất, Pr{X = x} ≥ 0 và Σₓ Pr{X = x} = 1.
+là **hàm phân phối xác suất** của biến ngẫu nhiên X (sách gọi là *probability density function*; xem mục Lưu ý cuối phụ lục về tên gọi). Từ các tiên đề xác suất, Pr{X = x} ≥ 0 và Σₓ Pr{X = x} = 1.
 
 Ví dụ: tung một cặp xúc xắc 6 mặt thông thường. Không gian mẫu có 36 biến cố sơ cấp. Giả định phân phối đều, mỗi biến cố sơ cấp s ∈ S có khả năng như nhau: Pr{s} = 1/36. Định nghĩa biến ngẫu nhiên X là *giá trị lớn hơn* trong hai mặt xúc xắc. Ta có Pr{X = 3} = 5/36, vì X gán giá trị 3 cho 5 trong 36 biến cố sơ cấp, cụ thể là (1, 3), (2, 3), (3, 3), (3, 2) và (3, 1). (Tổng quát, theo người tổng hợp: Pr{X = k} = (2k − 1)/36, vì có k² cặp với cả hai mặt ≤ k và (k − 1)² cặp với cả hai mặt ≤ k − 1; với k = 3: 9 − 4 = 5.)
 
@@ -1097,7 +1098,7 @@ và do đó
                    = (kq / (np − k)) · b(k; n, p)                    ∎
 ```
 
-Ghi chú về dòng thứ hai: sách in Σᵢ₌₀^∞ xⁱ; đúng ra phải là Σⱼ₌₁^∞ xʲ, vì Σᵢ₌₀ᵏ⁻¹ x^(k − i) = x + x² + … + xᵏ bắt đầu từ lũy thừa 1, và chỉ Σⱼ₌₁^∞ xʲ mới bằng x/(1 − x) (nhận xét của người tổng hợp, đã nêu trong khối Lưu ý). Dòng cuối: x/(1 − x) = kq / ((n − k)p − kq) = kq / (np − kp − kq) = kq / (np − k).
+Ghi chú về dòng thứ hai: sách in Σᵢ₌₀^∞ xⁱ; đúng ra phải là Σⱼ₌₁^∞ xʲ, vì Σᵢ₌₀ᵏ⁻¹ x^(k − i) = x + x² + … + xᵏ bắt đầu từ lũy thừa 1, và chỉ Σⱼ₌₁^∞ xʲ mới bằng x/(1 − x) (nhận xét của người tổng hợp, đã nêu trong mục Lưu ý cuối phụ lục). Dòng cuối: x/(1 − x) = kq / ((n − k)p − kq) = kq / (np − kp − kq) = kq / (np − k).
 
 Ví dụ (người tổng hợp): n = 15, p = 1/3, k = 3 (np = 5): kq/(np − k) = 3 · (2/3)/2 = 1, nên cận là b(3; 15, 1/3) ≈ 0,1299, còn giá trị thật Pr{X < 3} = 0,0023 + 0,0171 + 0,0599 ≈ 0,0794.
 
@@ -1371,8 +1372,8 @@ Cận đuôi là công cụ để nói "với xác suất cao" thay vì "trung b
   ```text
   Σᵢ₌₀ᵏ⁻¹ pⁱ qⁿ⁻ⁱ < (kq/(np − k)) (np/k)ᵏ (nq/(n − k))ⁿ⁻ᵏ
   ```
-  *Người tổng hợp:* ghép Định lý C.4 (Pr{X < k} < (kq/(np − k)) b(k; n, p)) với Bổ đề C.1 (b(k; n, p) ≤ (np/k)ᵏ(nq/(n − k))ⁿ⁻ᵏ). Như đã ghi ở khối Lưu ý, vế trái in thiếu C(n, i); vì pⁱqⁿ⁻ⁱ ≤ C(n, i)pⁱqⁿ⁻ⁱ nên bất đẳng thức như in cũng đúng.
-- **C.5-5 ★:** Chứng minh các điều kiện của Định lý C.8 kéo theo Pr{μ − X ≥ r} ≤ ((n − μ)e/r)ʳ; tương tự, các điều kiện của Hệ quả C.9 kéo theo Pr{np − X ≥ r} ≤ (nqe/r)ʳ. *Người tổng hợp:* áp dụng Định lý C.8 cho số thất bại X′ = n − X, là tổng các phép thử với xác suất qᵢ, kỳ vọng μ′ = n − μ; μ − X = X′ − μ′. Cần r > μ′ = n − μ (đề viết gọn "các điều kiện của Định lý C.8" — xem khối Lưu ý). Trường hợp cùng p: μ′ = nq.
+  *Người tổng hợp:* ghép Định lý C.4 (Pr{X < k} < (kq/(np − k)) b(k; n, p)) với Bổ đề C.1 (b(k; n, p) ≤ (np/k)ᵏ(nq/(n − k))ⁿ⁻ᵏ). Như đã ghi ở mục Lưu ý cuối phụ lục, vế trái in thiếu C(n, i); vì pⁱqⁿ⁻ⁱ ≤ C(n, i)pⁱqⁿ⁻ⁱ nên bất đẳng thức như in cũng đúng.
+- **C.5-5 ★:** Chứng minh các điều kiện của Định lý C.8 kéo theo Pr{μ − X ≥ r} ≤ ((n − μ)e/r)ʳ; tương tự, các điều kiện của Hệ quả C.9 kéo theo Pr{np − X ≥ r} ≤ (nqe/r)ʳ. *Người tổng hợp:* áp dụng Định lý C.8 cho số thất bại X′ = n − X, là tổng các phép thử với xác suất qᵢ, kỳ vọng μ′ = n − μ; μ − X = X′ − μ′. Cần r > μ′ = n − μ (đề viết gọn "các điều kiện của Định lý C.8" — xem mục Lưu ý cuối phụ lục). Trường hợp cùng p: μ′ = nq.
 - **C.5-6 ★:** Xét n phép thử Bernoulli, phép thử thứ i có xác suất thành công pᵢ và thất bại qᵢ = 1 − pᵢ. X là tổng số thành công, μ = E[X]. Chứng minh với r ≥ 0, Pr{X − μ ≥ r} ≤ e^(−r²/(2n)). (Gợi ý: chứng minh pᵢe^(αqᵢ) + qᵢe^(−αpᵢ) ≤ e^(α²/2), rồi làm theo khung chứng minh Định lý C.8, dùng bất đẳng thức này thay cho (C.45).) *Người tổng hợp:* đặt φ(α) = ln(pe^(αq) + qe^(−αp)); φ(0) = 0, φ′(0) = 0, và φ″(α) = u(1 − u) ≤ 1/4 với u = pe^(αq)/(pe^(αq) + qe^(−αp)) ∈ (0, 1); khai triển Taylor cho φ(α) ≤ α²/8 ≤ α²/2 (thực ra có cận mạnh hơn e^(α²/8) — bổ đề Hoeffding, theo hiểu biết của người tổng hợp). Khi đó E[e^(α(X − μ))] ≤ e^(nα²/2), Pr{X − μ ≥ r} ≤ exp(nα²/2 − αr); chọn α = r/n được e^(−r²/(2n)). Với r = 0 cận là 1, hiển nhiên đúng.
 - **C.5-7 ★:** Chứng minh chọn α = ln(r/μ) cực tiểu hoá vế phải của (C.47). *Người tổng hợp:* h(α) = μe^α − αr có h′(α) = μe^α − r = 0 khi α = ln(r/μ), và h″(α) = μe^α > 0 nên đó là cực tiểu; exp tăng nên cực tiểu h là cực tiểu vế phải.
 
@@ -1580,3 +1581,196 @@ Trong thực hành phân tích thuật toán hiện đại (theo hiểu biết c
 - **Phỏng vấn:** các câu kinh điển đều nằm trong phụ lục: sinh số ngẫu nhiên với xác suất a/b từ đồng xu cân đối (Exercise C.2-6), Monty Hall (C.2-9), kỳ vọng số lần tung tới khi được mẫu (phân phối hình học), kỳ vọng vị trí phần tử lớn nhất (C.3-2), số cách chia kẹo (bóng và thùng, Problem C-1), xác suất có điều kiện kiểu "biết có ít nhất một con trai".
 - **Lập trình thi đấu:** tổ hợp modulo số nguyên tố (C(n, k) qua n! và nghịch đảo), tam giác Pascal cho n nhỏ (Exercise C.1-8), "sao và vạch" (Problem C-1(c), (e)), quy hoạch động trên kỳ vọng với tuyến tính của kỳ vọng, công thức E[X] = Σ Pr{X ≥ i} (C.25) để tính kỳ vọng của max/min.
 - **Kỹ thuật phần mềm:** dùng cận Chernoff để định cỡ hệ thống (dung lượng mỗi máy khi phân tải ngẫu nhiên, kích thước bảng băm), Bayes để diễn giải cảnh báo (tỷ lệ báo động giả), và nhớ rằng giả định độc lập trong tính toán thường bị vi phạm trong thực tế (lỗi tương quan giữa các máy cùng rack, cùng phiên bản phần mềm) — khi đó các cận đuôi kiểu Chernoff không còn áp dụng được (theo hiểu biết của người tổng hợp).
+
+## Bản đồ tư duy
+
+Toàn cảnh Phụ lục C trên một trang: 5 nhánh lớn theo năm mục của bản gốc (Mục C.1–C.5), mỗi nhánh ghi công thức, định lý và ví dụ số then chốt, thêm một nhánh cuối là thông điệp xuyên suốt.
+
+```mermaid
+%%{init: {"flowchart": {"curve": "step", "nodeSpacing": 18, "rankSpacing": 50}}}%%
+flowchart LR
+  classDef root fill:#b4c7e7,stroke:#333,color:#000,font-weight:bold
+  classDef branch fill:#d4e0f0,stroke:#333,color:#000,font-weight:bold
+  classDef leaf fill:#eef3fa,stroke:#333,color:#000
+  n0["`Phụ lục C: đếm, xác suất, kỳ vọng tuyến tính và cận đuôi – bộ công cụ tối thiểu để phân tích thuật toán ngẫu nhiên`"]
+  n1["`Mục C.1 — Đếm: hoán vị, tổ hợp, hệ số nhị thức`"]
+  n0 --- n1
+  n2["`Quy tắc cộng và quy tắc nhân`"]
+  n1 --- n2
+  n3["`Tập rời nhau: |A ∪ B| = |A| + |B|, ví dụ ký tự biển số có 26 + 10 = 36 khả năng`"]
+  n2 --- n3
+  n4["`Cặp có thứ tự: |A × B| = |A|·|B|, ví dụ 28 vị kem × 4 loại phủ = 112 cách`"]
+  n2 --- n4
+  n5["`Có |S|ᵏ xâu độ dài k trên tập S, riêng xâu nhị phân độ dài k là 2ᵏ`"]
+  n1 --- n5
+  n6["`Đếm cách sắp xếp và cách chọn`"]
+  n1 --- n6
+  n7["`Tập n phần tử có n! hoán vị`"]
+  n6 --- n7
+  n8["`Số k-hoán vị (dãy k phần tử khác nhau, có thứ tự) là n!/(n − k)!, công thức C.1`"]
+  n6 --- n8
+  n9["`Số k-tổ hợp là n!/(k!(n − k)!) vì mỗi tập con ứng với k! thứ tự, công thức C.2`"]
+  n6 --- n9
+  n10["`Tập a, b, c, d có 12 dãy 2 phần tử có thứ tự nhưng chỉ 6 tập con 2 phần tử`"]
+  n6 --- n10
+  n11["`Hệ số nhị thức C(n, k), đọc là “n chọn k”`"]
+  n1 --- n11
+  n12["`Đối xứng C(n, k) = C(n, n − k) và khai triển (x + y)ⁿ = Σ C(n, k)xᵏyⁿ⁻ᵏ`"]
+  n11 --- n12
+  n13["`Đặt x = y = 1 được 2ⁿ = Σ C(n, k): đếm xâu nhị phân theo số bit 1`"]
+  n11 --- n13
+  n14["`Cận (n/k)ᵏ ≤ C(n, k) ≤ (en/k)ᵏ, công thức C.5, dùng k! ≥ (k/e)ᵏ từ Stirling`"]
+  n11 --- n14
+  n15["`Dạng entropy C(n, λn) ≤ 2^(nH(λ)) với H(λ) = −λ lg λ − (1 − λ) lg(1 − λ)`"]
+  n11 --- n15
+  n16["`Problem C-1: n bóng giống nhau vào b thùng có C(b + n − 1, n) cách, xếp bóng cùng b − 1 que ngăn thành hàng`"]
+  n1 --- n16
+  n17["`Mục C.2 — Xác suất: tiên đề, xác suất có điều kiện, độc lập, Bayes`"]
+  n0 --- n17
+  n18["`Không gian mẫu S là tập mọi kết quả, biến cố là tập con của S`"]
+  n17 --- n18
+  n19["`Ba tiên đề: Pr(A) ≥ 0, Pr(S) = 1, cộng tính trên các biến cố xung khắc`"]
+  n17 --- n19
+  n20["`Suy ra Pr(Ā) = 1 − Pr(A) và Pr(A ∪ B) = Pr(A) + Pr(B) − Pr(A ∩ B)`"]
+  n19 --- n20
+  n21["`Bất đẳng thức Boole (C.19): xác suất của hợp ≤ tổng các xác suất, không cần xung khắc`"]
+  n19 --- n21
+  n22["`Phân phối đều rời rạc: mỗi kết quả có xác suất 1/|S|, tung xu n lần được đúng k ngửa với xác suất C(n, k)/2ⁿ`"]
+  n17 --- n22
+  n23["`Phân phối đều liên tục trên [a, b]: Pr([c, d]) = (d − c)/(b − a), mỗi điểm có xác suất 0`"]
+  n17 --- n23
+  n24["`Xác suất có điều kiện Pr(A ∣ B) = Pr(A ∩ B)/Pr(B), công thức C.14`"]
+  n17 --- n24
+  n25["`Biết hai xu có ít nhất một mặt ngửa, xác suất cả hai ngửa là 1/3, không phải 1/2`"]
+  n24 --- n25
+  n26["`Độc lập: Pr(A ∩ B) = Pr(A)·Pr(B), công thức C.15`"]
+  n17 --- n26
+  n27["`Độc lập từng đôi không kéo theo độc lập toàn thể`"]
+  n26 --- n27
+  n28["`Xu 1 ngửa, xu 2 ngửa, hai xu khác nhau: từng đôi độc lập nhưng giao cả ba có xác suất 0 ≠ 1/8`"]
+  n26 --- n28
+  n29["`Định lý Bayes: Pr(A ∣ B) = Pr(A)·Pr(B ∣ A)/Pr(B), công thức C.17`"]
+  n17 --- n29
+  n30["`Chọn ngẫu nhiên xu cân đối hoặc xu luôn ngửa, tung hai lần đều ngửa thì xác suất là xu lệch bằng 4/5`"]
+  n29 --- n30
+  n31["`Mục C.3 — Biến ngẫu nhiên rời rạc: kỳ vọng và phương sai`"]
+  n0 --- n31
+  n32["`Biến ngẫu nhiên rời rạc là hàm từ không gian mẫu vào tập số thực`"]
+  n31 --- n32
+  n33["`Tung hai xúc xắc, X là mặt lớn hơn: Pr(X = 3) = 5/36`"]
+  n32 --- n33
+  n34["`Kỳ vọng E[X] = Σ x·Pr(X = x), công thức C.20`"]
+  n31 --- n34
+  n35["`Tính tuyến tính E[X + Y] = E[X] + E[Y] đúng cả khi X, Y phụ thuộc nhau, công thức C.21`"]
+  n31 --- n35
+  n36["`Là chìa khoá của phân tích bằng biến ngẫu nhiên chỉ thị ở Chương 5, 7, 8, 11, 12`"]
+  n35 --- n36
+  n37["`Kỳ vọng của tích bằng tích các kỳ vọng chỉ khi các biến độc lập, công thức C.24`"]
+  n35 --- n37
+  n38["`Với X nhận giá trị tự nhiên: E[X] = Σᵢ≥₁ Pr(X ≥ i), công thức C.25`"]
+  n31 --- n38
+  n39["`Bất đẳng thức Jensen: f lồi thì E[f(X)] ≥ f(E[X]), Chương 12 dùng với hàm 2ˣ`"]
+  n31 --- n39
+  n40["`Phương sai Var[X] = E[X²] − E²[X], công thức C.27, độ lệch chuẩn σ = √Var[X]`"]
+  n31 --- n40
+  n41["`Var[aX] = a²·Var[X]`"]
+  n40 --- n41
+  n42["`Các biến độc lập từng đôi thì phương sai của tổng bằng tổng các phương sai, công thức C.29`"]
+  n40 --- n42
+  n43["`Bất đẳng thức Markov (C.30): X không âm thì Pr(X ≥ t) ≤ E[X]/t`"]
+  n31 --- n43
+  n44["`Mục C.4 — Phép thử Bernoulli sinh ra phân phối hình học và phân phối nhị thức`"]
+  n0 --- n44
+  n45["`Phép thử Bernoulli: thành công xác suất p, thất bại q = 1 − p, các phép thử độc lập toàn thể`"]
+  n44 --- n45
+  n46["`Phân phối hình học: số phép thử tới lần thành công đầu tiên`"]
+  n44 --- n46
+  n47["`Pr(X = k) = qᵏ⁻¹p, kỳ vọng 1/p, phương sai q/p², công thức C.31–C.33`"]
+  n46 --- n47
+  n48["`Tung hai xúc xắc tới khi ra tổng 7 hoặc 11: p = 2/9, trung bình 4,5 lần`"]
+  n46 --- n48
+  n49["`Phân phối nhị thức: số thành công trong n phép thử`"]
+  n44 --- n49
+  n50["`b(k, n, p) = C(n, k)pᵏqⁿ⁻ᵏ, công thức C.35`"]
+  n49 --- n50
+  n51["`Kỳ vọng np tính hai cách: đại số qua C.8, hoặc ba dòng nhờ tuyến tính kỳ vọng`"]
+  n49 --- n51
+  n52["`Phương sai npq vì mỗi phép thử có phương sai pq và các phép thử độc lập`"]
+  n49 --- n52
+  n53["`Với n = 15, p = 1/3: kỳ vọng 5, đỉnh tại k = 5 với xác suất ≈ 0,2143`"]
+  n49 --- n53
+  n54["`Hình dạng: tỷ số b(k)/b(k − 1) = (n − k + 1)p/(kq), công thức C.41`"]
+  n44 --- n54
+  n55["`Phân phối tăng khi k nhỏ hơn (n + 1)p và giảm khi k lớn hơn (n + 1)p`"]
+  n54 --- n55
+  n56["`Cực đại tại số nguyên k duy nhất trong khoảng (np − q, (n + 1)p)`"]
+  n54 --- n56
+  n57["`Bổ đề C.1: b(k, n, p) ≤ (np/k)ᵏ·(nq/(n − k))ⁿ⁻ᵏ, suy từ cận C.6 của hệ số nhị thức`"]
+  n44 --- n57
+  n58["`Mục C.5 — Đuôi của phân phối nhị thức (mục nâng cao)`"]
+  n0 --- n58
+  n59["`Đuôi là tổng xác suất ở vùng k xa giá trị trung bình np`"]
+  n58 --- n59
+  n60["`Định lý C.2: Pr(X ≥ k) ≤ C(n, k)pᵏ`"]
+  n58 --- n60
+  n61["`Chứng minh bằng bất đẳng thức Boole trên C(n, k) biến cố “k phép thử cụ thể đều thành công”`"]
+  n60 --- n61
+  n62["`Hệ quả C.3 cho đuôi trái: Pr(X ≤ k) ≤ C(n, k)(1 − p)ⁿ⁻ᵏ`"]
+  n60 --- n62
+  n63["`Định lý C.4: khi 0 nhỏ hơn k nhỏ hơn np, Pr(X nhỏ hơn k) nhỏ hơn (kq/(np − k))·b(k, n, p)`"]
+  n58 --- n63
+  n64["`Tỷ số hai số hạng liên tiếp bị chặn bởi x = kq/((n − k)p) nhỏ hơn 1, nên đuôi bị chặn bởi chuỗi hình học`"]
+  n63 --- n64
+  n65["`Hệ quả C.5: khi k ≤ np/2, mỗi bước lùi xa trung bình làm đuôi trái giảm hơn một nửa`"]
+  n63 --- n65
+  n66["`Hệ quả C.6, C.7 phát biểu đối xứng cho đuôi phải`"]
+  n63 --- n66
+  n67["`Định lý C.8 (cận kiểu Chernoff): xác suất pᵢ khác nhau, r lớn hơn μ thì Pr(X − μ ≥ r) ≤ (μe/r)ʳ`"]
+  n58 --- n67
+  n68["`Chứng minh: áp bất đẳng thức Markov cho e^(α(X − μ)), tách kỳ vọng của tích nhờ độc lập, dùng 1 + x ≤ eˣ`"]
+  n67 --- n68
+  n69["`Chọn α = ln(r/μ) để cực tiểu hoá cận exp(μe^α − αr)`"]
+  n67 --- n69
+  n70["`Hệ quả C.9: cùng xác suất p, r lớn hơn np thì Pr(X − np ≥ r) ≤ (npe/r)ʳ`"]
+  n67 --- n70
+  n71["`Ném n bóng vào n thùng: Pr(một thùng có từ 11 bóng trở lên) ≤ (e/10)¹⁰ ≈ 2,2·10⁻⁶`"]
+  n58 --- n71
+  n72["`Thông điệp xuyên suốt`"]
+  n0 --- n72
+  n73["`Muốn tính kỳ vọng, viết đại lượng thành tổng biến chỉ thị rồi dùng tuyến tính của kỳ vọng`"]
+  n72 --- n73
+  n74["`Phương sai cộng được chỉ cần độc lập từng đôi, còn cận kiểu Chernoff cần độc lập toàn thể`"]
+  n72 --- n74
+  n75["`Cận đuôi cho phép nói “với xác suất cao” thay vì chỉ nói “trung bình”`"]
+  n72 --- n75
+  n76["`Trực giác xác suất dễ sai, như Monty Hall đổi màn thắng 2/3: hãy liệt kê không gian mẫu hoặc dùng Bayes`"]
+  n72 --- n76
+  class n0 root
+  class n1,n17,n31,n44,n58,n72 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n15,n16,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n28,n29,n30,n32,n33,n34,n35,n36,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n57,n59,n60,n61,n62,n63,n64,n65,n66,n67,n68,n69,n70,n71,n73,n74,n75,n76 leaf
+```
+
+## Nguồn
+
+Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein, *Introduction to Algorithms*, ấn bản thứ ba (MIT Press, 2009), Phần VIII "Appendix: Mathematical Background", Phụ lục C "Counting and Probability", trang 1183–1216 (C.1 Counting, C.2 Probability, C.3 Discrete random variables, C.4 The geometric and binomial distributions, ★C.5 The tails of the binomial distribution, Problems for Appendix C, Appendix notes).
+
+## Tác giả
+
+Cormen, Leiserson, Rivest, Stein — bốn nhà khoa học máy tính (Dartmouth, MIT, MIT, Columbia) viết cuốn giáo trình thuật toán được dùng rộng rãi nhất, thường gọi tắt là CLRS.
+
+## Vị trí trong lập luận của cả cuốn sách
+
+Phụ lục C là kho công cụ tổ hợp và xác suất mà mọi phân tích xác suất và mọi thuật toán ngẫu nhiên trong sách dựa vào. Nó dựa trên hai phụ lục trước: Phụ lục A ([PA-tong.md](PA-tong.md)) cho chuỗi hình học và đạo hàm của nó (công thức (A.8), Exercise A.1-3) để tính kỳ vọng và phương sai của phân phối hình học; Phụ lục B ([PB-tap-hop-va-cau-truc-roi-rac.md](PB-tap-hop-va-cau-truc-roi-rac.md)) cho tập hợp, công thức |A ∪ B| = |A| + |B| − |A ∩ B| (B.3) và tích Descartes |A × B| = |A| · |B| (B.4) — chính là quy tắc cộng và quy tắc nhân ở Mục C.1. Chương 3 ([C03-tang-truong-cua-ham.md](C03-tang-truong-cua-ham.md)) cho công thức Stirling (3.18) và bất đẳng thức 1 + x ≤ eˣ (3.12) được dùng để chặn hệ số nhị thức và để chứng minh cận đuôi Định lý C.8.
+
+Ở chiều ngược lại, phụ lục này phục vụ: Chương 5 ([C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md](C05-phan-tich-xac-suat-va-thuat-toan-ngau-nhien.md)) — biến ngẫu nhiên chỉ thị, tính tuyến tính của kỳ vọng, bài toán ngày sinh, bóng và thùng, chuỗi mặt ngửa dài nhất; Chương 7 ([C07-quicksort.md](C07-quicksort.md)) — thời gian kỳ vọng của quicksort ngẫu nhiên; Chương 8 ([C08-sap-xep-thoi-gian-tuyen-tinh.md](C08-sap-xep-thoi-gian-tuyen-tinh.md)) — phân tích sắp xếp thùng dùng phương sai của phân phối nhị thức và công thức E[X²] = Var[X] + E²[X]; Chương 9 ([C09-trung-vi-va-thong-ke-thu-tu.md](C09-trung-vi-va-thong-ke-thu-tu.md)) — RANDOMIZED-SELECT; Chương 11 ([C11-bang-bam.md](C11-bang-bam.md)) — băm đều, băm phổ dụng, địa chỉ mở và độ dài chuỗi lớn nhất (Problem 11-2 dùng cận đuôi); Chương 12 ([C12-cay-tim-kiem-nhi-phan.md](C12-cay-tim-kiem-nhi-phan.md)) — chiều cao kỳ vọng của cây tìm kiếm nhị phân dựng ngẫu nhiên, dùng bất đẳng thức Jensen; Chương 31 ([C31-thuat-toan-so-hoc.md](C31-thuat-toan-so-hoc.md)) — kiểm tra nguyên tố ngẫu nhiên Miller–Rabin; Chương 35 ([C35-thuat-toan-xap-xi.md](C35-thuat-toan-xap-xi.md)) — thuật toán xấp xỉ ngẫu nhiên cho MAX-3-CNF và làm tròn ngẫu nhiên.
+
+## Lưu ý
+
+- **Mục có dấu sao (★):** Mục C.5 "The tails of the binomial distribution" là mục nâng cao. **Bài tập có dấu sao:** C.1-11, C.1-12, C.1-13, C.1-14, C.1-15; C.2-6, C.2-7, C.2-8, C.2-9, C.2-10; C.3-5, C.3-6, C.3-7; C.4-5, C.4-6, C.4-7, C.4-8, C.4-9; và toàn bộ bài tập Mục C.5 (C.5-1 tới C.5-7). Problem C-1 không có dấu sao.
+- **Lớp chữ PDF hỏng gần như toàn bộ ký hiệu toán của phụ lục**: hệ số nhị thức C(n, k) mất hẳn dấu ngoặc và bị tách thành hai dòng, dấu ∪, ∩, ≤, ≥, ≠ bị mất hoặc biến thành ký tự lạ (ví dụ `jA[ BjDjAjCjBj` là |A ∪ B| = |A| + |B|), gạch ngang trên Ā (biến cố bù) mất hoàn toàn nên công thức Bayes (C.18) đọc từ lớp chữ là sai nghĩa, chỉ số và số mũ (qᵏ⁻¹p, e^(α(X − μ)), 2^(nH(λ))) bị dàn phẳng. Mọi công thức (C.1)–(C.47), Bổ đề C.1, Định lý C.2, C.4, C.8, các Hệ quả C.3, C.5, C.6, C.7, C.9 và hai hình (Hình C.1 phân phối hình học, Hình C.2 phân phối nhị thức) trong bản tổng hợp này được đối chiếu với ảnh của tất cả các trang 1183–1216; riêng trang 1210 và 1214 được dựng lại ở độ phân giải cao hơn để đọc chỉ số tổng.
+- **Lỗi in trong chứng minh Định lý C.4 (trang 1210, nhận xét của người tổng hợp):** dòng thứ hai của chuỗi đánh giá viết "< b(k; n, p) Σᵢ₌₀^∞ xⁱ" rồi "= (x/(1 − x)) b(k; n, p)". Nhưng Σᵢ₌₀^∞ xⁱ = 1/(1 − x), không phải x/(1 − x). Đúng ra phải là Σᵢ₌₁^∞ xⁱ = x/(1 − x), vì Σᵢ₌₀ᵏ⁻¹ x^(k − i) = x + x² + … + xᵏ bắt đầu từ lũy thừa 1. Kết luận của định lý vẫn đúng; chỉ chỉ số dưới của tổng bị in sai. Người tổng hợp không chắc lỗi này đã có trong danh sách lỗi chính thức (errata) hay chưa — không tra cứu.
+- **Chỗ đề bài lạ ở Exercise C.5-4 (nhận xét của người tổng hợp):** vế trái in là Σᵢ₌₀ᵏ⁻¹ pⁱqⁿ⁻ⁱ, không có hệ số nhị thức C(n, i). Có lẽ ý định là Σᵢ₌₀ᵏ⁻¹ C(n, i)pⁱqⁿ⁻ⁱ = Pr{X < k} (khi đó bài tập là ghép Định lý C.4 với Bổ đề C.1). Bất đẳng thức như in vẫn đúng (vì mỗi số hạng không lớn hơn số hạng có hệ số nhị thức), chỉ yếu hơn. Exercise C.5-5 phát biểu "các điều kiện của Định lý C.8 kéo theo Pr{μ − X ≥ r} ≤ ((n − μ)e/r)ʳ", trong khi khi áp dụng Định lý C.8 cho số lần thất bại, điều kiện đúng phải là r > n − μ chứ không phải r > μ. Exercise C.4-4 viết "Show that value of the maximum…" (thiếu "the") — lỗi chữ nhỏ.
+- **Ký hiệu chưa chặt (nhận xét của người tổng hợp):** sách gọi f(x) = Pr{X = x} của biến ngẫu nhiên rời rạc là "probability density function" (hàm mật độ xác suất); tên chuẩn trong lý thuyết xác suất cho biến rời rạc là "probability mass function" (hàm khối xác suất), còn "mật độ" dành cho biến liên tục. Bản tổng hợp dùng "hàm phân phối xác suất" để tránh nhầm. Sách cũng nói số hạng b(k; n, p) là "số hạng thứ k" của khai triển (p + q)ⁿ; nếu đếm từ 1 thì đó là số hạng thứ k + 1 (k chạy từ 0).
+- **Mọi ví dụ số trong sách đã được tự kiểm tra lại và đúng**: biển số xe 26 + 10 = 36; kem 28 · 4 = 112; 8 xâu nhị phân độ dài 3; 010 là 3-xâu con của 01101001 bắt đầu ở vị trí 4; 12 cách chọn 2-hoán vị và 6 cách chọn 2-tổ hợp của {a, b, c, d}; xác suất ít nhất một mặt ngửa 3/4; xác suất có điều kiện "hai mặt ngửa biết có ít nhất một mặt ngửa" 1/3; ví dụ Bayes với đồng xu lệch cho 4/5; Pr{max hai xúc xắc = 3} = 5/36; trò chơi tung hai đồng xu kỳ vọng thu 1 đô la; phân phối hình học với p = 2/9 (tung hai xúc xắc tới khi ra tổng 7 hoặc 11) cần trung bình 4,5 lần; phân phối nhị thức b(k; 15, 1/3) đạt cực đại tại k = 5 với giá trị ≈ 0,2143. Các giá trị dùng để vẽ lại Hình C.1 và Hình C.2 do người tổng hợp tự tính.
+- **Một phát hiện khi giải Exercise C.5-1 (người tổng hợp tính chính xác bằng phân số):** câu hỏi "biến cố nào ít khả năng hơn: không có mặt ngửa nào khi tung n lần, hay ít hơn n mặt ngửa khi tung 4n lần?" không có một đáp án cho mọi n: với n ≤ 17, "ít hơn n mặt ngửa trong 4n lần" ít khả năng hơn; với n ≥ 18 thì "không có mặt ngửa trong n lần" ít khả năng hơn (tỷ số hai xác suất vượt 1 tại n = 18 và tăng theo hàm mũ sau đó). Chi tiết ở phần Bài tập.
+- **Thay đổi ở ấn bản 4 (2022) — theo hiểu biết của người tổng hợp, không tra cứu:** Phụ lục C vẫn mang tên "Counting and Probability" với cùng năm mục, mục đuôi phân phối nhị thức vẫn có dấu sao. Người tổng hợp không nhớ chắc các thay đổi chi tiết về lời văn, ký hiệu hay bài tập nên không liệt kê.
