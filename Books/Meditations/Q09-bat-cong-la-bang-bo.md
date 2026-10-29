@@ -1,21 +1,16 @@
 # Quyển 9 — Bất công là báng bổ (Meditations, Book 9)
 
-**Nguồn:** Marcus Aurelius, *Suy tưởng* (*Meditations*, tiếng Hy Lạp *Ta eis heauton*, "Những điều viết cho chính mình", khoảng 170–180 SCN), Quyển 9. Bản dịch tiếng Việt của Andy Lương (dịch từ bản tiếng Anh của Gregory Hays), tr. 143–161.
-**Tác giả:** Marcus Aurelius (121–180), hoàng đế La Mã (trị vì 161–180), triết gia phái Khắc kỷ.
-**Vị trí trong tác phẩm:** Quyển 9 không có tiêu đề địa danh như Quyển 2 và Quyển 3; theo giới nghiên cứu, các quyển giữa và cuối được viết trong những năm chiến tranh liên miên ở biên giới sông Danube (chiến dịch chống người Marcomanni, Quadi, Sarmatae) và dịch bệnh Antonine. Giọng của quyển này mệt mỏi hơn các quyển đầu: Marcus thừa nhận ông chán sống giữa những người không chung nguyên tắc với mình (9.3), nhắc đến ông nội, mẹ và cha nuôi như những chặng đời đã khép lại (9.21). Về nội dung, đây là quyển nói nhiều nhất về **bản tính cộng đồng của sinh vật lý trí** và cách đối xử với người làm sai, mở đầu bằng một lập luận thần học dài hiếm thấy (9.1) và kết thúc bằng một trong những đoạn thực hành dài nhất của cả sách (9.42).
-**Ý chính:** Marcus tự nhắc mình năm điều. (1) **Bất công, dối trá, coi khoái lạc là thiện và đau khổ là ác đều là báng bổ**, vì chúng đi ngược ý chí của Tự nhiên, vị thần cổ xưa nhất, vốn tạo ra sinh vật lý trí để giúp nhau (9.1, 9.4, 9.5). (2) **Sinh vật lý trí bị hút về nhau** như đất về đất, lửa về lửa; con người có thể quên điều đó nhưng không thoát được (9.8, 9.9, 9.23). (3) **Mọi phiền nhiễu nằm trong nhận thức**, không ở ngoài cửa; sự vật tự chúng câm lặng (9.13, 9.15, 9.32). (4) **Cái chết là một quá trình tự nhiên** như mọc răng hay sinh nở, và đời người đã chứa sẵn nhiều "cái chết" nhỏ không đáng sợ (9.3, 9.21, 9.33). (5) **Kẻ làm sai là tất yếu trong thế giới**; ngạc nhiên vì họ là lỗi của ta, và giúp người là chức năng của ta, không phải món nợ để đòi trả (9.11, 9.27, 9.42). Lập luận của ông luôn quy về một cặp lựa chọn: vũ trụ do một trí tuệ điều hành hoặc chỉ là nguyên tử, và trong cả hai trường hợp, việc của ta vẫn là sống công chính và không lo âu (9.28, 9.39).
+## Ý chính
 
-> **Lưu ý:**
-> (1) **Dùng "Thượng đế", "Chúa" thay cho khái niệm Khắc kỷ.** Ở 9.1, "sắc lệnh cổ xưa của Thượng đế" là cách dịch chữ *pronoia* (Hays: *Providence*, "Thiên ý"), một khái niệm về trật tự hợp lý nội tại của vũ trụ, không phải một đấng sáng tạo đứng ngoài thế giới. Ở 9.28, "Nếu đó là Chúa/Thượng đế" dịch chữ *theos* (Hays: *God*); chữ "Chúa" mang sắc thái Kitô giáo không có trong nguyên tác. Cũng ở 9.1, "báng bổ những thần linh cổ xưa nhất" nên hiểu là báng bổ **Tự nhiên, vị thần cổ xưa nhất** (số ít).
-> (2) **9.2:** "có thể rời bỏ sự sống khi ta đã trải nghiệm và có đủ" dễ hiểu sai. Ý của nguyên tác: tốt nhất là chết mà chưa từng nếm sự dối trá, giả dối, xa hoa, kiêu căng; tốt nhì là chết khi đã **chán ngấy chúng**. Chữ "đủ" chỉ các thói xấu, không chỉ trải nghiệm sống nói chung.
-> (3) **9.21:** bản dịch viết "nghĩ về cuộc đời của ông ta, mẹ ta, cha nuôi ta", nhưng nguyên tác nói về **các chặng đời của chính Marcus khi sống dưới sự dạy dỗ của** ông nội, rồi mẹ, rồi cha nuôi. Lập luận là: mỗi chặng đời của chính ông đã "chết", và không có gì đáng sợ.
-> (4) **9.24:** câu "Odysseus ở Âm phủ còn thấy cuộc sống thật hơn" bị đảo nghĩa. Ý nguyên tác: đời sống con người (hờn dỗi trẻ con, trò chơi, những linh hồn nhỏ cõng xác chết) hư ảo đến mức cảnh Âm phủ trong *Odyssey* (khúc *Nekyia*) còn **sống động hơn**. "Cái vỏ thân xác đầy khiếm khuyết" đúng ra là xác chết, hình ảnh Marcus lấy từ Epictetus.
-> (5) **9.28:** "vòng luân hồi" gợi khái niệm Phật giáo; Marcus chỉ nói về các **chu kỳ** lên xuống của vũ trụ (thuyết Khắc kỷ về các chu kỳ thế giới), không có ý tái sinh của cá nhân.
-> (6) **9.35:** câu mở đầu trong nguyên tác là "mất mát chẳng gì khác ngoài biến đổi, và Tự nhiên **vui thích** trong biến đổi". Bản dịch thành "phân huỷ chính là tái tạo lại" và bỏ ý Tự nhiên vui thích.
-> (7) **9.36:** "máu sò huyết" là chọn từ sai: thuốc nhuộm tía La Mã làm từ dịch của **ốc gai** (họ Muricidae), không phải sò huyết.
-> (8) **9.39:** câu "Ngươi có phải là một cá nhân trong cộng đồng? Và ngươi có ăn uống như cách một cá nhân trong cộng đồng nên ăn uống?" lệch nghĩa. Nguyên tác là chuỗi câu hỏi trách móc: ngươi đã hoá thú vật chưa, đang giả vờ, đang **chạy theo bầy và gặm cỏ** như gia súc chăng? Bản dịch biến lời trách thành câu hỏi trung tính.
-> (9) **9.12:** "như cái lý trí toàn thể - logos - yêu cầu" đúng ra là "như **lý trí của người công dân** (*politikos logos*) đòi hỏi"; bản dịch đánh mất chữ "công dân", vốn là chủ đề của cả quyển. Hai dòng "Hoạt động" và "Sự bình thản, tĩnh lặng" là "hành động hay dừng lại" (chuyển động hay đứng yên).
-> (10) **Lỗi trích xuất:** ở 9.9, câu "Những vật đặc, nặng có thể được kéo lên khỏi mặt đất…" bị lặp hai lần; câu "Nếu không phải là cao hơn nữa" bị vỡ (ý là: sinh vật trí tuệ còn hướng về nhau **mạnh hơn** các vật kia). Ở 9.6 có lỗi gõ "bện ngoài" (bên ngoài).
+Marcus tự nhắc mình năm điều.
+
+- **Bất công, dối trá, coi khoái lạc là thiện và đau khổ là ác đều là báng bổ**, vì chúng đi ngược ý chí của Tự nhiên, vị thần cổ xưa nhất, vốn tạo ra sinh vật lý trí để giúp nhau (9.1, 9.4, 9.5).
+- **Sinh vật lý trí bị hút về nhau** như đất về đất, lửa về lửa; con người có thể quên điều đó nhưng không thoát được (9.8, 9.9, 9.23).
+- **Mọi phiền nhiễu nằm trong nhận thức**, không ở ngoài cửa; sự vật tự chúng câm lặng (9.13, 9.15, 9.32).
+- **Cái chết là một quá trình tự nhiên** như mọc răng hay sinh nở, và đời người đã chứa sẵn nhiều "cái chết" nhỏ không đáng sợ (9.3, 9.21, 9.33).
+- **Kẻ làm sai là tất yếu trong thế giới**; ngạc nhiên vì họ là lỗi của ta, và giúp người là chức năng của ta, không phải món nợ để đòi trả (9.11, 9.27, 9.42).
+
+Lập luận của ông luôn quy về một cặp lựa chọn: vũ trụ do một trí tuệ điều hành hoặc chỉ là nguyên tử, và trong cả hai trường hợp, việc của ta vẫn là sống công chính và không lo âu (9.28, 9.39).
 
 ## Sơ đồ
 
@@ -221,9 +216,13 @@ Suy tưởng không chia chủ đề mà chỉ có các mục đánh số. Phầ
 
 Với dạng thứ tư, Marcus nêu ba hệ quả. (a) Người như vậy sẽ luôn trách Tự nhiên phân phối bất công, vì họ thấy kẻ xấu thường được hưởng sướng còn người tốt thường chịu khổ. (b) Ai sợ đau thì sớm muộn sẽ sợ cả những điều tất yếu phải xảy ra trong thế giới. (c) Ai đuổi theo khoái lạc thì khó tránh khỏi làm điều sai để có nó.
 
-Lập luận kết thúc bằng một quy tắc: những gì Tự nhiên đối xử như nhau, như khoái lạc và đau, sống và chết, danh tiếng và vô danh, thì ta cũng phải đối xử như nhau nếu muốn sống thuận theo Tự nhiên. Nếu Tự nhiên thật sự ưa một bên, nó đã không tạo ra cả hai. "Tự nhiên đối xử như nhau" ở đây có nghĩa cụ thể: những điều ấy xảy đến cho mọi người, không phân biệt tốt xấu, theo chuỗi nối tiếp của những gì đang có và sẽ có. Chuỗi ấy bắt nguồn từ một xung lực ban đầu của Thiên ý (*pronoia*, trật tự hợp lý của vũ trụ), lúc nó khởi sự tạo trật tự cho thế giới, định ra mầm mống của mọi thứ sẽ có cùng sức sinh thành và biến đổi. Vì vậy khoái lạc hay đau đớn đến với một người không phải là phần thưởng hay hình phạt dành riêng cho người đó.
+Lập luận kết thúc bằng một quy tắc: những gì Tự nhiên đối xử như nhau, như khoái lạc và đau, sống và chết, danh tiếng và vô danh, thì ta cũng phải đối xử như nhau nếu muốn sống thuận theo Tự nhiên. Nếu Tự nhiên thật sự ưa một bên, nó đã không tạo ra cả hai.
 
-**9.2 Hai cách ra đi tốt.** Tốt nhất là rời cuộc đời mà chưa từng nếm sự gian dối, đạo đức giả, sa đoạ, kiêu căng. Tốt nhì là ra đi khi đã chán ngấy những thói ấy. Marcus dùng thành ngữ Hy Lạp *deuteros plous*, nghĩa đen là "chuyến đi thứ hai" (khi không có gió thì phải chèo), tức phương án tốt nhì. Chữ "đủ" trong bản dịch chỉ các thói xấu, không phải trải nghiệm sống nói chung. Rồi ông tự hỏi: hay ta định ở lại sống chung với cái ác? Kinh nghiệm chưa dạy ta tránh nó như tránh dịch bệnh sao? Sự hư hỏng của tâm trí là thứ dịch tệ hơn bất kỳ bầu không khí độc nào: dịch bệnh thân thể chỉ đe doạ sự sống của con vật trong ta, còn cái ác đe doạ chính tính người. Hình ảnh này có sức nặng riêng vì quyển được viết giữa thời dịch bệnh Antonine.
+"Tự nhiên đối xử như nhau" ở đây có nghĩa cụ thể: những điều ấy xảy đến cho mọi người, không phân biệt tốt xấu, theo chuỗi nối tiếp của những gì đang có và sẽ có. Chuỗi ấy bắt nguồn từ một xung lực ban đầu của Thiên ý (*pronoia*, trật tự hợp lý của vũ trụ), lúc nó khởi sự tạo trật tự cho thế giới, định ra mầm mống của mọi thứ sẽ có cùng sức sinh thành và biến đổi. Vì vậy khoái lạc hay đau đớn đến với một người không phải là phần thưởng hay hình phạt dành riêng cho người đó.
+
+**9.2 Hai cách ra đi tốt.** Tốt nhất là rời cuộc đời mà chưa từng nếm sự gian dối, đạo đức giả, sa đoạ, kiêu căng. Tốt nhì là ra đi khi đã chán ngấy những thói ấy. Marcus dùng thành ngữ Hy Lạp *deuteros plous*, nghĩa đen là "chuyến đi thứ hai" (khi không có gió thì phải chèo), tức phương án tốt nhì. Chữ "đủ" trong bản dịch chỉ các thói xấu, không phải trải nghiệm sống nói chung.
+
+Rồi ông tự hỏi: hay ta định ở lại sống chung với cái ác? Kinh nghiệm chưa dạy ta tránh nó như tránh dịch bệnh sao? Sự hư hỏng của tâm trí là thứ dịch tệ hơn bất kỳ bầu không khí độc nào: dịch bệnh thân thể chỉ đe doạ sự sống của con vật trong ta, còn cái ác đe doạ chính tính người. Hình ảnh này có sức nặng riêng vì quyển được viết giữa thời dịch bệnh Antonine.
 
 **9.3 Đón cái chết như một quá trình tự nhiên.** Marcus không khuyên khinh cái chết mà khuyên đón nhận nó, vì nó cũng là một trong những việc Tự nhiên muốn. Ông liệt kê các biến đổi tự nhiên của đời người: tuổi trẻ, tuổi già, lớn lên, trưởng thành, thay răng, mọc râu, bạc tóc, giao hợp, mang thai, sinh nở, và mọi biến đổi khác theo các mùa của đời. Sự tan rã của thân thể chỉ là một biến đổi nữa trong danh sách ấy.
 
@@ -358,7 +357,9 @@ Marcus đoán trước một lời phản bác: "thần linh đã đặt những
 
 Hãy hướng lời cầu như vậy rồi xem điều gì xảy ra. Ý tưởng ở đây là chuyển đối tượng của lời cầu từ thế giới bên ngoài, thứ ta không điều khiển được, vào thái độ bên trong, thứ thuộc quyền ta.
 
-**9.41 Bài học từ Epicurus.** Marcus kể lại lời của Epicurus, triết gia của một trường phái đối thủ. Khi ốm, Epicurus không nói chuyện về bệnh tật thân thể với khách tới thăm, mà tiếp tục bàn những vấn đề triết học cốt lõi, nhất là câu hỏi làm sao tâm trí vẫn dự phần vào các biến động của thân xác mà không bị xáo trộn, vẫn giữ được điều tốt của riêng nó. Ông cũng không để thầy thuốc ra vẻ quan trọng, và đời ông vẫn trôi đi tốt đẹp. Marcus tự dặn: hãy làm y như vậy khi ốm và trong mọi hoàn cảnh khác. Mọi trường phái triết học đều đồng ý ở mấy điểm: không bỏ triết học dù gặp chuyện gì, không tán gẫu với kẻ ngu dốt, chỉ chú tâm vào việc đang làm và công cụ để làm nó. Việc một nhà Khắc kỷ học từ Epicurus cho thấy Marcus lấy điều đúng từ bất cứ đâu.
+**9.41 Bài học từ Epicurus.** Marcus kể lại lời của Epicurus, triết gia của một trường phái đối thủ. Khi ốm, Epicurus không nói chuyện về bệnh tật thân thể với khách tới thăm, mà tiếp tục bàn những vấn đề triết học cốt lõi, nhất là câu hỏi làm sao tâm trí vẫn dự phần vào các biến động của thân xác mà không bị xáo trộn, vẫn giữ được điều tốt của riêng nó. Ông cũng không để thầy thuốc ra vẻ quan trọng, và đời ông vẫn trôi đi tốt đẹp.
+
+Marcus tự dặn: hãy làm y như vậy khi ốm và trong mọi hoàn cảnh khác. Mọi trường phái triết học đều đồng ý ở mấy điểm: không bỏ triết học dù gặp chuyện gì, không tán gẫu với kẻ ngu dốt, chỉ chú tâm vào việc đang làm và công cụ để làm nó. Việc một nhà Khắc kỷ học từ Epicurus cho thấy Marcus lấy điều đúng từ bất cứ đâu.
 
 **9.42 Khi gặp kẻ vô liêm sỉ.** Đây là một trong những đoạn thực hành dài nhất của cả sách. Nó có thể đọc như một quy trình năm bước:
 
@@ -639,3 +640,32 @@ flowchart LR
   class n1,n14,n23,n35,n45,n57,n66 branch
   class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n24,n25,n26,n27,n28,n29,n30,n31,n32,n33,n34,n36,n37,n38,n39,n40,n41,n42,n43,n44,n46,n47,n48,n49,n50,n51,n52,n53,n54,n55,n56,n58,n59,n60,n61,n62,n63,n64,n65,n67,n68,n69 leaf
 ```
+
+## Nguồn
+
+Marcus Aurelius, *Suy tưởng* (*Meditations*, tiếng Hy Lạp *Ta eis heauton*, "Những điều viết cho chính mình", khoảng 170–180 SCN), Quyển 9. Bản dịch tiếng Việt của Andy Lương (dịch từ bản tiếng Anh của Gregory Hays), tr. 143–161.
+
+## Tác giả
+
+Marcus Aurelius (121–180), hoàng đế La Mã (trị vì 161–180), triết gia phái Khắc kỷ.
+
+## Vị trí trong tác phẩm
+
+Quyển 9 không có tiêu đề địa danh như Quyển 2 và Quyển 3; theo giới nghiên cứu, các quyển giữa và cuối được viết trong những năm chiến tranh liên miên ở biên giới sông Danube (chiến dịch chống người Marcomanni, Quadi, Sarmatae) và dịch bệnh Antonine.
+
+Giọng của quyển này mệt mỏi hơn các quyển đầu: Marcus thừa nhận ông chán sống giữa những người không chung nguyên tắc với mình (9.3), nhắc đến ông nội, mẹ và cha nuôi như những chặng đời đã khép lại (9.21).
+
+Về nội dung, đây là quyển nói nhiều nhất về **bản tính cộng đồng của sinh vật lý trí** và cách đối xử với người làm sai, mở đầu bằng một lập luận thần học dài hiếm thấy (9.1) và kết thúc bằng một trong những đoạn thực hành dài nhất của cả sách (9.42).
+
+## Lưu ý
+
+- **Dùng "Thượng đế", "Chúa" thay cho khái niệm Khắc kỷ.** Ở 9.1, "sắc lệnh cổ xưa của Thượng đế" là cách dịch chữ *pronoia* (Hays: *Providence*, "Thiên ý"), một khái niệm về trật tự hợp lý nội tại của vũ trụ, không phải một đấng sáng tạo đứng ngoài thế giới. Ở 9.28, "Nếu đó là Chúa/Thượng đế" dịch chữ *theos* (Hays: *God*); chữ "Chúa" mang sắc thái Kitô giáo không có trong nguyên tác. Cũng ở 9.1, "báng bổ những thần linh cổ xưa nhất" nên hiểu là báng bổ **Tự nhiên, vị thần cổ xưa nhất** (số ít).
+- **9.2:** "có thể rời bỏ sự sống khi ta đã trải nghiệm và có đủ" dễ hiểu sai. Ý của nguyên tác: tốt nhất là chết mà chưa từng nếm sự dối trá, giả dối, xa hoa, kiêu căng; tốt nhì là chết khi đã **chán ngấy chúng**. Chữ "đủ" chỉ các thói xấu, không chỉ trải nghiệm sống nói chung.
+- **9.21:** bản dịch viết "nghĩ về cuộc đời của ông ta, mẹ ta, cha nuôi ta", nhưng nguyên tác nói về **các chặng đời của chính Marcus khi sống dưới sự dạy dỗ của** ông nội, rồi mẹ, rồi cha nuôi. Lập luận là: mỗi chặng đời của chính ông đã "chết", và không có gì đáng sợ.
+- **9.24:** câu "Odysseus ở Âm phủ còn thấy cuộc sống thật hơn" bị đảo nghĩa. Ý nguyên tác: đời sống con người (hờn dỗi trẻ con, trò chơi, những linh hồn nhỏ cõng xác chết) hư ảo đến mức cảnh Âm phủ trong *Odyssey* (khúc *Nekyia*) còn **sống động hơn**. "Cái vỏ thân xác đầy khiếm khuyết" đúng ra là xác chết, hình ảnh Marcus lấy từ Epictetus.
+- **9.28:** "vòng luân hồi" gợi khái niệm Phật giáo; Marcus chỉ nói về các **chu kỳ** lên xuống của vũ trụ (thuyết Khắc kỷ về các chu kỳ thế giới), không có ý tái sinh của cá nhân.
+- **9.35:** câu mở đầu trong nguyên tác là "mất mát chẳng gì khác ngoài biến đổi, và Tự nhiên **vui thích** trong biến đổi". Bản dịch thành "phân huỷ chính là tái tạo lại" và bỏ ý Tự nhiên vui thích.
+- **9.36:** "máu sò huyết" là chọn từ sai: thuốc nhuộm tía La Mã làm từ dịch của **ốc gai** (họ Muricidae), không phải sò huyết.
+- **9.39:** câu "Ngươi có phải là một cá nhân trong cộng đồng? Và ngươi có ăn uống như cách một cá nhân trong cộng đồng nên ăn uống?" lệch nghĩa. Nguyên tác là chuỗi câu hỏi trách móc: ngươi đã hoá thú vật chưa, đang giả vờ, đang **chạy theo bầy và gặm cỏ** như gia súc chăng? Bản dịch biến lời trách thành câu hỏi trung tính.
+- **9.12:** "như cái lý trí toàn thể - logos - yêu cầu" đúng ra là "như **lý trí của người công dân** (*politikos logos*) đòi hỏi"; bản dịch đánh mất chữ "công dân", vốn là chủ đề của cả quyển. Hai dòng "Hoạt động" và "Sự bình thản, tĩnh lặng" là "hành động hay dừng lại" (chuyển động hay đứng yên).
+- **Lỗi trích xuất:** ở 9.9, câu "Những vật đặc, nặng có thể được kéo lên khỏi mặt đất…" bị lặp hai lần; câu "Nếu không phải là cao hơn nữa" bị vỡ (ý là: sinh vật trí tuệ còn hướng về nhau **mạnh hơn** các vật kia). Ở 9.6 có lỗi gõ "bện ngoài" (bên ngoài).

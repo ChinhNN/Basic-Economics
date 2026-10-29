@@ -1,11 +1,14 @@
 # Quyển 12 — Sống ngay bây giờ và rời sân khấu thanh thản (Meditations, Book 12)
 
-**Nguồn:** Marcus Aurelius, *Suy tưởng* (*Meditations*, tiếng Hy Lạp *Ta eis heauton*, "Những điều viết cho chính mình", khoảng 170–180 SCN), Quyển 12. Bản dịch tiếng Việt của Andy Lương (dịch từ bản tiếng Anh của Gregory Hays), tr. 193–207.
-**Tác giả:** Marcus Aurelius (121–180), hoàng đế La Mã (trị vì 161–180), triết gia phái Khắc kỷ.
-**Vị trí trong tác phẩm:** Quyển cuối, không có tiêu đề địa danh và không định niên được chính xác; thường được coi là thuộc những năm cuối đời Marcus, có thể trong chiến dịch thứ hai ở biên giới Danube (178–180), không lâu trước khi ông mất ở vùng Danube năm 180. Không có bằng chứng rằng Marcus chủ ý viết quyển này như một lời kết, nhưng nó đọc như một bản tổng kết: gần như mọi chủ đề lớn của tác phẩm đều xuất hiện lại dưới dạng cô đọng (ba phần của con người, phân tích sự vật thành vật chất, nguyên nhân và mục đích, "thần linh hay nguyên tử", cái nhìn từ trên cao, cái chết là sự biến đổi tự nhiên), và tác phẩm khép lại bằng hình ảnh diễn viên bị gọi rời sân khấu sau màn thứ ba (12.36).
-**Ý chính:** Marcus tự nhắc rằng mọi điều ông đang tìm bằng đường vòng đều có ngay **trong hiện tại**, nếu ông buông quá khứ, giao tương lai cho trật tự thần linh, và dùng hiện tại cho sự kính trọng thần linh và công lý (12.1). Nền của lời hứa ấy là sự phân biệt **ba phần của con người**: thân thể và hơi thở chỉ được giao giữ, chỉ **tâm trí** là thật sự của mình; nếu tách được tâm trí khỏi những gì người khác làm, khỏi quá khứ và tương lai, ta thành "khối cầu" của Empedocles (12.3). Phần lớn quyển là các bài tập để tách như vậy: phân tích mọi vật thành nguyên nhân, vật chất, mục đích và thời hạn (12.8, 12.10, 12.18, 12.29); nhìn thế giới từ trên cao (12.24); nhớ những người nổi tiếng đã thành tro bụi (12.27); và lập luận rằng dù vũ trụ do định mệnh, do thần linh hay do hỗn loạn, ta vẫn có lý do để bình thản (12.14, 12.24). Quyển kết thúc bằng lập luận rằng cái chết không xấu, vì nó do tự nhiên ấn định, có ích cho toàn thể, và không làm vở kịch ngắn hơn thành dở hơn (12.23, 12.35, 12.36).
+## Ý chính
 
-> **Lưu ý:** (1) Bản dịch dùng **"Chúa/Thượng Đế"** ở nhiều chỗ (12.1, 12.2, 12.11, 12.14, 12.26, 12.27, 12.31), cả "tâm trí con người là (một phần của) Chúa" (12.26). Nguyên văn là *theos* (thần, cái thần thánh), "các thần", hoặc ở 12.1 là *pronoia* (sự quan phòng); với Marcus đó là Logos, lý trí thần thánh thấm khắp vũ trụ theo quan niệm phiếm thần Khắc kỷ, không phải Thiên Chúa ngôi vị của Cơ Đốc giáo. Chữ "Chúa" dễ khiến người đọc Việt hiểu lệch. (2) **12.14**: Marcus nêu ba khả năng: định mệnh tất yếu, **một sự quan phòng có thể được cầu khẩn, lay động** (*pronoia hilasimos*), hoặc hỗn loạn không người cai quản. Bản dịch đổi vế thứ hai thành "lệnh tối cao từ Thượng đế chí tôn... mà ta vẫn luôn tin tưởng cung kính thờ phụng", làm mất ý "có thể cầu khẩn". (3) **12.17**: câu thứ hai nguyên văn là "nếu điều đó **không thật** thì đừng nói" (bản dịch viết "không đúng đắn", lặp lại vế trước), và câu thứ ba bị cắt cụt thành "<...>" (đại ý là hãy giữ xung lực của mình dưới quyền mình). (4) **12.35**: "sự chín chắn" nên là **"cái đúng lúc, hợp thời"** (*to eukairon*): Marcus nói về người chỉ coi cái đến đúng thời của nó là tốt, nên không quan tâm đời dài hay ngắn. (5) **12.28**: cụm "thưa hoàng đế" là của dịch giả thêm vào. (6) **12.36**: các chú thích trong ngoặc ("ý Marcus là cả thế gian cũng có thể coi như một thành phố") là của dịch giả, không phải của Marcus. Cũng ở 12.12, đoạn giải thích trong ngoặc về lời dạy của Socrates là chú thích của dịch giả. (7) **12.30**: "lực hấp dẫn" là cách dịch hiện đại hoá; ý gốc là sức nặng tự nhiên kéo các phần vật chất lại với nhau. (8) Mục **12.11a** ("Nó được làm bằng thứ gì") là đoạn rời, theo đánh số của Hays.
+Marcus tự nhắc rằng mọi điều ông đang tìm bằng đường vòng đều có ngay **trong hiện tại**, nếu ông buông quá khứ, giao tương lai cho trật tự thần linh, và dùng hiện tại cho sự kính trọng thần linh và công lý (12.1).
+
+Nền của lời hứa ấy là sự phân biệt **ba phần của con người**: thân thể và hơi thở chỉ được giao giữ, chỉ **tâm trí** là thật sự của mình; nếu tách được tâm trí khỏi những gì người khác làm, khỏi quá khứ và tương lai, ta thành "khối cầu" của Empedocles (12.3).
+
+Phần lớn quyển là các bài tập để tách như vậy: phân tích mọi vật thành nguyên nhân, vật chất, mục đích và thời hạn (12.8, 12.10, 12.18, 12.29); nhìn thế giới từ trên cao (12.24); nhớ những người nổi tiếng đã thành tro bụi (12.27); và lập luận rằng dù vũ trụ do định mệnh, do thần linh hay do hỗn loạn, ta vẫn có lý do để bình thản (12.14, 12.24).
+
+Quyển kết thúc bằng lập luận rằng cái chết không xấu, vì nó do tự nhiên ấn định, có ích cho toàn thể, và không làm vở kịch ngắn hơn thành dở hơn (12.23, 12.35, 12.36).
 
 ## Sơ đồ
 
@@ -660,3 +663,28 @@ flowchart LR
   class n1,n15,n27,n38,n52,n64 branch
   class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n14,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n53,n54,n55,n56,n57,n58,n59,n60,n61,n62,n63,n65,n66,n67 leaf
 ```
+
+## Nguồn
+
+Marcus Aurelius, *Suy tưởng* (*Meditations*, tiếng Hy Lạp *Ta eis heauton*, "Những điều viết cho chính mình", khoảng 170–180 SCN), Quyển 12. Bản dịch tiếng Việt của Andy Lương (dịch từ bản tiếng Anh của Gregory Hays), tr. 193–207.
+
+## Tác giả
+
+Marcus Aurelius (121–180), hoàng đế La Mã (trị vì 161–180), triết gia phái Khắc kỷ.
+
+## Vị trí trong tác phẩm
+
+Quyển cuối, không có tiêu đề địa danh và không định niên được chính xác; thường được coi là thuộc những năm cuối đời Marcus, có thể trong chiến dịch thứ hai ở biên giới Danube (178–180), không lâu trước khi ông mất ở vùng Danube năm 180.
+
+Không có bằng chứng rằng Marcus chủ ý viết quyển này như một lời kết, nhưng nó đọc như một bản tổng kết: gần như mọi chủ đề lớn của tác phẩm đều xuất hiện lại dưới dạng cô đọng (ba phần của con người, phân tích sự vật thành vật chất, nguyên nhân và mục đích, "thần linh hay nguyên tử", cái nhìn từ trên cao, cái chết là sự biến đổi tự nhiên), và tác phẩm khép lại bằng hình ảnh diễn viên bị gọi rời sân khấu sau màn thứ ba (12.36).
+
+## Lưu ý
+
+- Bản dịch dùng **"Chúa/Thượng Đế"** ở nhiều chỗ (12.1, 12.2, 12.11, 12.14, 12.26, 12.27, 12.31), cả "tâm trí con người là (một phần của) Chúa" (12.26). Nguyên văn là *theos* (thần, cái thần thánh), "các thần", hoặc ở 12.1 là *pronoia* (sự quan phòng); với Marcus đó là Logos, lý trí thần thánh thấm khắp vũ trụ theo quan niệm phiếm thần Khắc kỷ, không phải Thiên Chúa ngôi vị của Cơ Đốc giáo. Chữ "Chúa" dễ khiến người đọc Việt hiểu lệch.
+- **12.14**: Marcus nêu ba khả năng: định mệnh tất yếu, **một sự quan phòng có thể được cầu khẩn, lay động** (*pronoia hilasimos*), hoặc hỗn loạn không người cai quản. Bản dịch đổi vế thứ hai thành "lệnh tối cao từ Thượng đế chí tôn... mà ta vẫn luôn tin tưởng cung kính thờ phụng", làm mất ý "có thể cầu khẩn".
+- **12.17**: câu thứ hai nguyên văn là "nếu điều đó **không thật** thì đừng nói" (bản dịch viết "không đúng đắn", lặp lại vế trước), và câu thứ ba bị cắt cụt thành "<...>" (đại ý là hãy giữ xung lực của mình dưới quyền mình).
+- **12.35**: "sự chín chắn" nên là **"cái đúng lúc, hợp thời"** (*to eukairon*): Marcus nói về người chỉ coi cái đến đúng thời của nó là tốt, nên không quan tâm đời dài hay ngắn.
+- **12.28**: cụm "thưa hoàng đế" là của dịch giả thêm vào.
+- **12.36**: các chú thích trong ngoặc ("ý Marcus là cả thế gian cũng có thể coi như một thành phố") là của dịch giả, không phải của Marcus. Cũng ở 12.12, đoạn giải thích trong ngoặc về lời dạy của Socrates là chú thích của dịch giả.
+- **12.30**: "lực hấp dẫn" là cách dịch hiện đại hoá; ý gốc là sức nặng tự nhiên kéo các phần vật chất lại với nhau.
+- Mục **12.11a** ("Nó được làm bằng thứ gì") là đoạn rời, theo đánh số của Hays.

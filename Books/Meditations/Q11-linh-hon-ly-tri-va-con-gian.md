@@ -1,11 +1,18 @@
 # Quyển 11 — Linh hồn lý trí, cành cây bị cắt và mười điều nhớ khi nổi giận (Meditations, Book 11)
 
-**Nguồn:** Marcus Aurelius, *Suy tưởng* (*Meditations*, tiếng Hy Lạp *Ta eis heauton*, "Những điều viết cho chính mình", khoảng 170–180 SCN), Quyển 11. Bản dịch tiếng Việt của Andy Lương (dịch từ bản tiếng Anh của Gregory Hays), tr. 174–192.
-**Tác giả:** Marcus Aurelius (121–180), hoàng đế La Mã (trị vì 161–180), triết gia phái Khắc kỷ.
-**Vị trí trong tác phẩm:** Quyển 11 không có tiêu đề địa danh như Quyển 2 hay Quyển 3, và không thể định niên chính xác; giới nghiên cứu thường xếp các quyển cuối vào những năm cuối đời Marcus, khi ông vẫn ở biên giới Danube, đã mất vợ (Faustina, năm 175) và nhiều con, và dịch bệnh Antonine vẫn hoành hành. Quyển này có hai nửa khác nhau rõ: nửa đầu (11.1–11.21) là những suy tưởng dài, có cấu trúc lập luận, xoay quanh bản chất của linh hồn lý trí và cách đối xử với người gây hại cho mình; nửa sau (11.22–11.39) là một cuốn sổ trích dẫn: giai thoại về Socrates, người Sparta, phái Pythagoras, thơ Homer, Hesiod, và một loạt câu của Epictetus. Mục 11.18, danh sách chín (cộng một) điều cần nhớ khi nổi giận, là đoạn có hệ thống nhất về cơn giận trong toàn bộ tác phẩm.
-**Ý chính:** Marcus tự nhắc ba điều. Thứ nhất, linh hồn lý trí là thứ **tự hoàn tất**: nó tự thu hoạch mùa màng của mình, và nó trọn vẹn ở bất cứ thời điểm nào cuộc đời bị cắt ngang, khác với một vở kịch bị dừng giữa chừng (11.1). Vì giá trị nằm trong nó, mọi thứ bên ngoài, từ bản nhạc hay đến của cải, đều có thể được **phân tích thành từng phần** để mất sức quyến rũ (11.2, 11.16). Thứ hai, con người là cành của một cái cây chung; kẻ nổi giận hay quay lưng với người khác là **tự cắt mình** khỏi toàn thể nhân loại, và giận dữ là một dạng **yếu đuối** chứ không phải sức mạnh (11.8, 11.9, 11.18). Lập luận chống giận dựa trên giáo lý Socrates "không ai cố ý làm sai": người gây hại cho ta làm vậy vì không biết, nên đáng được chỉ bảo chứ không đáng bị ghét. Thứ ba, mọi rối loạn đến từ **phán đoán của chính ta** chứ không từ sự vật: sự vật không tự áp đặt mình lên tâm trí, chính ta "viết" phán đoán lên mình và có thể xoá đi (11.11, 11.16), một luận điểm Marcus kết bằng các câu của Epictetus về "nghệ thuật chấp thuận" (11.37).
+## Ý chính
 
-> **Lưu ý:** (1) **11.3**, "phản ứng lại trước những sức mạnh bên ngoài (như những người Cơ Đốc)": cụm Hy Lạp *psilē parataxis* nghĩa là sự **đối kháng, ngoan cố thuần tuý** (như đứng vào hàng trận chỉ để chống lại), không phải "phản ứng trước sức mạnh bên ngoài". Marcus chê kiểu sẵn sàng chết vì bướng bỉnh, phô diễn, đối lập với cái chết được chọn qua suy xét. Đây là lần duy nhất Cơ Đốc nhân được nhắc trong tác phẩm, và nhiều học giả cho rằng cụm "(như những người Cơ Đốc)" là lời chú của người chép tay chèn vào. (2) **11.8**, "Một thân, hai đầu. Như cách nói của người trồng vườn": câu Hy Lạp là một lối chơi chữ, đại ý "mọc cùng một gốc, nhưng không nhất thiết cùng một học thuyết" (*homothamnein* / *homodogmatein*): ta vẫn gắn với người khác dù họ nghĩ khác ta. Câu dịch "Một thân, hai đầu" giữ được hình ảnh nhưng khó nhận ra lối chơi chữ này. (3) **11.10**, "mọi nghệ thuật đều tiến triển từ mục tiêu thấp đến mục tiêu cao hơn": đúng ý là mọi nghề làm ra cái thấp **vì** cái cao; từ đó Marcus suy ra tự nhiên làm cái thấp vì cái cao, và đó là gốc của công lý. (4) **11.18 (vii)**, cụm "những thứ có Chúa mới biết" là thành ngữ của dịch giả, không phải Marcus nhắc tới Chúa. (5) **11.26**, "ghi chép của Epicurean": bản chép tay ghi "của người Ephesus", "Epicurean" là cách sửa của một số nhà biên tập; bản dịch không báo điều này. (6) **11.28**: đoạn "Lời người dịch" dựng ra câu trả lời của Socrates (so sánh với ngựa, chó săn) là **hoàn toàn do dịch giả tưởng tượng**, dùng cả từ lóng thô tục; Marcus chỉ ghi gợi ý giai thoại, không ghi Socrates nói gì. (7) **11.30**: dịch "chẳng thể đòi hỏi gì ở cái lý trí toàn thể - logos" là sai. Câu thơ (của một bi kịch) nghĩa là "ngươi là nô lệ, ngươi không có quyền **lên tiếng**": *logos* ở đây là lời nói, quyền phát ngôn, không phải Logos vũ trụ. (8) **11.22**: dịch giả nói "chỉ có thể đoán ý", nhưng đây là ngụ ngôn Aesop quen thuộc về con chuột thành phố và con chuột đồng quê (chuột thành phố có nhiều đồ ăn nhưng sống trong sợ hãi). (9) Tiêu đề "(10 suy nghĩ...)" ở 11.18 là của dịch giả; Marcus đếm chín điều "như quà của chín nữ thần Muse", rồi thêm điều thứ mười "từ Apollo", vị thủ lĩnh các Muse. (10) Trong 11.6, "hài kịch Trung Đại (rồi hiện đại)" là Hài kịch Trung kỳ và Hài kịch Mới của Hy Lạp, không phải Trung cổ hay hiện đại.
+Marcus tự nhắc ba điều.
+
+Thứ nhất, linh hồn lý trí là thứ **tự hoàn tất**: nó tự thu hoạch mùa màng của mình, và nó trọn vẹn ở bất cứ thời điểm nào cuộc đời bị cắt ngang, khác với một vở kịch bị dừng giữa chừng (11.1).
+
+Vì giá trị nằm trong nó, mọi thứ bên ngoài, từ bản nhạc hay đến của cải, đều có thể được **phân tích thành từng phần** để mất sức quyến rũ (11.2, 11.16).
+
+Thứ hai, con người là cành của một cái cây chung; kẻ nổi giận hay quay lưng với người khác là **tự cắt mình** khỏi toàn thể nhân loại, và giận dữ là một dạng **yếu đuối** chứ không phải sức mạnh (11.8, 11.9, 11.18).
+
+Lập luận chống giận dựa trên giáo lý Socrates "không ai cố ý làm sai": người gây hại cho ta làm vậy vì không biết, nên đáng được chỉ bảo chứ không đáng bị ghét.
+
+Thứ ba, mọi rối loạn đến từ **phán đoán của chính ta** chứ không từ sự vật: sự vật không tự áp đặt mình lên tâm trí, chính ta "viết" phán đoán lên mình và có thể xoá đi (11.11, 11.16), một luận điểm Marcus kết bằng các câu của Epictetus về "nghệ thuật chấp thuận" (11.37).
 
 ## Sơ đồ
 
@@ -333,7 +340,9 @@ Một lời tự nhắc gồm bốn câu hỏi cho mỗi sự vật: nó từ đ
 
 **(viii) Giận và buồn hại ta hơn chính việc làm ta giận và buồn.** Lỗi của người kia là một thiệt hại; cơn giận của ta là thiệt hại thứ hai, và thường lớn hơn.
 
-**(ix) Lòng tốt là vô địch, với điều kiện nó chân thật, không cười nhạo, không giả vờ.** Kẻ hung hăng nhất làm được gì ta nếu ta vẫn tử tế với hắn, và khi có dịp thì ôn tồn khuyên bảo, sửa cho hắn đúng vào lúc hắn định làm hại ta? Marcus gợi ý một lời nói mẫu, đại ý: đừng làm vậy, chúng ta sinh ra không phải để làm thế; tôi không bị hại gì đâu, chính anh mới là người bị hại. Rồi chỉ cho hắn, nhẹ nhàng và khái quát, rằng loài ong và các loài sống thành bầy không đối xử với nhau như vậy. Cách nói phải có tình cảm thật, không oán hận, không mỉa mai, không lên lớp như thầy đồ, không nhằm để người đứng xem trầm trồ; phải nói riêng với hắn, kể cả khi có người khác ở đó.
+**(ix) Lòng tốt là vô địch, với điều kiện nó chân thật, không cười nhạo, không giả vờ.** Kẻ hung hăng nhất làm được gì ta nếu ta vẫn tử tế với hắn, và khi có dịp thì ôn tồn khuyên bảo, sửa cho hắn đúng vào lúc hắn định làm hại ta?
+
+Marcus gợi ý một lời nói mẫu, đại ý: đừng làm vậy, chúng ta sinh ra không phải để làm thế; tôi không bị hại gì đâu, chính anh mới là người bị hại. Rồi chỉ cho hắn, nhẹ nhàng và khái quát, rằng loài ong và các loài sống thành bầy không đối xử với nhau như vậy. Cách nói phải có tình cảm thật, không oán hận, không mỉa mai, không lên lớp như thầy đồ, không nhằm để người đứng xem trầm trồ; phải nói riêng với hắn, kể cả khi có người khác ở đó.
 
 Marcus dặn mình giữ chín điều này như quà tặng của chín Muse, và bắt đầu thật sự làm người trong quãng đời còn lại.
 
@@ -493,7 +502,9 @@ Nhưng luận đề này gặp khó với tâm lý học hiện đại. Có ngư
 
 ### Marcus tự đặt mình ở hai vị trí cùng lúc: người ngang hàng và người đứng đầu
 
-Điều (i) nói ta sinh ra vì nhau, rồi lập tức thêm rằng ta sinh ra để đứng đầu họ, như con đầu đàn. Điều (iv) nói ta cũng sai như họ. Điều (x) lại cảnh báo thái độ đòi kẻ xấu không làm hại mình là "cách suy nghĩ của một bạo chúa". Đây là tiếng nói của một người có quyền lực tuyệt đối đang tự kiềm chế: ông biết vị trí hoàng đế làm ông dễ giận hơn (vì ít ai được phép cãi lại) và dễ phạt hơn (vì không ai ngăn). Nhìn từ đó, danh sách 11.18 không chỉ là lời khuyên đạo đức mà là một **cơ chế tự giới hạn quyền lực** ở cấp tâm lý. Cũng vì thế, mục 11.14 (người ta khinh nhau mà vẫn nịnh nhau) và 11.15 (sự thẳng thắn không cần tuyên bố) đọc như quan sát của người sống giữa triều đình, nơi lời nói thật là của hiếm.
+Điều (i) nói ta sinh ra vì nhau, rồi lập tức thêm rằng ta sinh ra để đứng đầu họ, như con đầu đàn. Điều (iv) nói ta cũng sai như họ. Điều (x) lại cảnh báo thái độ đòi kẻ xấu không làm hại mình là "cách suy nghĩ của một bạo chúa".
+
+Đây là tiếng nói của một người có quyền lực tuyệt đối đang tự kiềm chế: ông biết vị trí hoàng đế làm ông dễ giận hơn (vì ít ai được phép cãi lại) và dễ phạt hơn (vì không ai ngăn). Nhìn từ đó, danh sách 11.18 không chỉ là lời khuyên đạo đức mà là một **cơ chế tự giới hạn quyền lực** ở cấp tâm lý. Cũng vì thế, mục 11.14 (người ta khinh nhau mà vẫn nịnh nhau) và 11.15 (sự thẳng thắn không cần tuyên bố) đọc như quan sát của người sống giữa triều đình, nơi lời nói thật là của hiếm.
 
 ### Nửa sau của quyển cho thấy Suy tưởng cũng là một cuốn sổ trích dẫn
 
@@ -662,3 +673,30 @@ flowchart LR
   class n1,n14,n25,n39,n55,n65 branch
   class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n54,n56,n57,n58,n59,n60,n61,n62,n63,n64,n66,n67,n68 leaf
 ```
+
+## Nguồn
+
+Marcus Aurelius, *Suy tưởng* (*Meditations*, tiếng Hy Lạp *Ta eis heauton*, "Những điều viết cho chính mình", khoảng 170–180 SCN), Quyển 11. Bản dịch tiếng Việt của Andy Lương (dịch từ bản tiếng Anh của Gregory Hays), tr. 174–192.
+
+## Tác giả
+
+Marcus Aurelius (121–180), hoàng đế La Mã (trị vì 161–180), triết gia phái Khắc kỷ.
+
+## Vị trí trong tác phẩm
+
+Quyển 11 không có tiêu đề địa danh như Quyển 2 hay Quyển 3, và không thể định niên chính xác; giới nghiên cứu thường xếp các quyển cuối vào những năm cuối đời Marcus, khi ông vẫn ở biên giới Danube, đã mất vợ (Faustina, năm 175) và nhiều con, và dịch bệnh Antonine vẫn hoành hành.
+
+Quyển này có hai nửa khác nhau rõ: nửa đầu (11.1–11.21) là những suy tưởng dài, có cấu trúc lập luận, xoay quanh bản chất của linh hồn lý trí và cách đối xử với người gây hại cho mình; nửa sau (11.22–11.39) là một cuốn sổ trích dẫn: giai thoại về Socrates, người Sparta, phái Pythagoras, thơ Homer, Hesiod, và một loạt câu của Epictetus. Mục 11.18, danh sách chín (cộng một) điều cần nhớ khi nổi giận, là đoạn có hệ thống nhất về cơn giận trong toàn bộ tác phẩm.
+
+## Lưu ý
+
+- **11.3**, "phản ứng lại trước những sức mạnh bên ngoài (như những người Cơ Đốc)": cụm Hy Lạp *psilē parataxis* nghĩa là sự **đối kháng, ngoan cố thuần tuý** (như đứng vào hàng trận chỉ để chống lại), không phải "phản ứng trước sức mạnh bên ngoài". Marcus chê kiểu sẵn sàng chết vì bướng bỉnh, phô diễn, đối lập với cái chết được chọn qua suy xét. Đây là lần duy nhất Cơ Đốc nhân được nhắc trong tác phẩm, và nhiều học giả cho rằng cụm "(như những người Cơ Đốc)" là lời chú của người chép tay chèn vào.
+- **11.8**, "Một thân, hai đầu. Như cách nói của người trồng vườn": câu Hy Lạp là một lối chơi chữ, đại ý "mọc cùng một gốc, nhưng không nhất thiết cùng một học thuyết" (*homothamnein* / *homodogmatein*): ta vẫn gắn với người khác dù họ nghĩ khác ta. Câu dịch "Một thân, hai đầu" giữ được hình ảnh nhưng khó nhận ra lối chơi chữ này.
+- **11.10**, "mọi nghệ thuật đều tiến triển từ mục tiêu thấp đến mục tiêu cao hơn": đúng ý là mọi nghề làm ra cái thấp **vì** cái cao; từ đó Marcus suy ra tự nhiên làm cái thấp vì cái cao, và đó là gốc của công lý.
+- **11.18 (vii)**, cụm "những thứ có Chúa mới biết" là thành ngữ của dịch giả, không phải Marcus nhắc tới Chúa.
+- **11.26**, "ghi chép của Epicurean": bản chép tay ghi "của người Ephesus", "Epicurean" là cách sửa của một số nhà biên tập; bản dịch không báo điều này.
+- **11.28**: đoạn "Lời người dịch" dựng ra câu trả lời của Socrates (so sánh với ngựa, chó săn) là **hoàn toàn do dịch giả tưởng tượng**, dùng cả từ lóng thô tục; Marcus chỉ ghi gợi ý giai thoại, không ghi Socrates nói gì.
+- **11.30**: dịch "chẳng thể đòi hỏi gì ở cái lý trí toàn thể - logos" là sai. Câu thơ (của một bi kịch) nghĩa là "ngươi là nô lệ, ngươi không có quyền **lên tiếng**": *logos* ở đây là lời nói, quyền phát ngôn, không phải Logos vũ trụ.
+- **11.22**: dịch giả nói "chỉ có thể đoán ý", nhưng đây là ngụ ngôn Aesop quen thuộc về con chuột thành phố và con chuột đồng quê (chuột thành phố có nhiều đồ ăn nhưng sống trong sợ hãi).
+- Tiêu đề "(10 suy nghĩ...)" ở 11.18 là của dịch giả; Marcus đếm chín điều "như quà của chín nữ thần Muse", rồi thêm điều thứ mười "từ Apollo", vị thủ lĩnh các Muse.
+- Trong 11.6, "hài kịch Trung Đại (rồi hiện đại)" là Hài kịch Trung kỳ và Hài kịch Mới của Hy Lạp, không phải Trung cổ hay hiện đại.

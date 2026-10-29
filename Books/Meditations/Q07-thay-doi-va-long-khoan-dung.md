@@ -1,11 +1,16 @@
 # Quyển 7 — Thay đổi, lòng khoan dung và tiếng nói của người xưa (Meditations, Book 7)
 
-**Nguồn:** Marcus Aurelius, *Suy tưởng* (*Meditations*, tiếng Hy Lạp *Ta eis heauton*, "Những điều viết cho chính mình", khoảng 170–180 SCN), Quyển 7. Bản dịch tiếng Việt của Andy Lương (dịch từ bản tiếng Anh của Gregory Hays), tr. 98–119.
-**Tác giả:** Marcus Aurelius (121–180), hoàng đế La Mã (trị vì 161–180), triết gia phái Khắc kỷ.
-**Vị trí trong tác phẩm:** Quyển 7 không có tiêu đề địa danh như Quyển 2 ("Bên dòng Gran") hay Quyển 3 ("Ở Carnuntum"), nhưng được viết trong cùng thập niên chiến tranh Marcomanni dọc sông Danube và dịch bệnh Antonine. Đây là quyển "lẫn lộn" nhất của tác phẩm: bên cạnh các mục Marcus tự viết, có một chuỗi dài (phần lớn các mục 7.35–7.51, cùng 7.63, 7.66) là **trích dẫn chép lại** từ Plato, Antisthenes, Euripides và các nhà bi kịch khác, nhiều khả năng lấy qua các bài giảng của Epictetus. Quyển này giống một cuốn sổ tay luyện tập: ông vừa nhắc lại các nguyên tắc nền (mọi thứ đổi thay, mọi thứ liên kết, tâm trí chỉ bị hại bởi chính phán đoán của nó), vừa chép những câu của người xưa để học thuộc. Chủ đề nổi bật nhất là **cách đối xử với người làm sai**: yêu thương, hiểu động cơ và tha thứ cho họ.
-**Ý chính:** Marcus tự nhắc mình năm điều. (1) **Không có gì mới**: cái ác, sự náo nhiệt, các đế chế đều lặp lại, nên quan sát bốn mươi năm cũng như một nghìn năm (7.1, 7.3, 7.49). (2) **Mọi thứ đổi thay và mọi thứ liên kết**: thay đổi là cách tự nhiên làm việc (tắm nước nóng thì phải đốt củi), mọi sinh vật lý trí là "chi" của một cơ thể chung (7.9, 7.13, 7.18, 7.23). (3) **Tâm trí chỉ bị hại bởi chính nó**: điều xảy đến chỉ có hại nếu ta diễn giải là có hại, và việc diễn giải thuộc quyền ta (7.2, 7.14, 7.16, 7.68). (4) **Người làm sai là người lầm lạc, không phải kẻ thù**: hãy hỏi họ nghĩ điều gì là tốt, rồi tha thứ hoặc thương họ; ai cũng bị tước chân lý ngoài ý muốn (7.22, 7.26, 7.62, 7.63, 7.70, 7.71). (5) **Cái chết và đau đớn không đáng sợ** với người chỉ quan tâm làm đúng hay sai, như Socrates trước toà (7.32, 7.33, 7.44–7.46, 7.64). Cách lập luận chủ yếu là đổi góc nhìn: nhìn từ trên cao xuống, nhìn theo dòng thời gian dài, đặt mình vào vị trí người kia, và mượn tiếng nói của người xưa.
+## Ý chính
 
-> **Lưu ý:** (1) **Mục 7.41 không phải lời Marcus viết khi hai con trai sinh đôi mất**, như lời người dịch chú thích. Đó là một câu thơ của Euripides (vở *Antiope*), nằm trong chuỗi trích dẫn bi kịch 7.38–7.51 (7.38 từ *Bellerophon*, 7.40 từ *Hypsipyle*, 7.50 từ *Chrysippus*, 7.51 từ *Những người cầu xin*). Marcus có thể chọn chép nó vì nỗi mất con, nhưng câu chữ là của Euripides. (2) **Mục 7.45 trích từ *Biện hộ* (*Apology*, 28d) của Plato, không phải *Gorgias*** như bản dịch ghi; cụm "thưa quý toà" chính là lời Socrates nói với bồi thẩm Athens. Mục 7.44 (*Apology* 28b) và 7.46 (*Gorgias* 512d–e) được ghi đúng. (3) Mục 7.29, vế cuối có nghĩa "lỗi của người khác thì để nó lại nơi nó khởi sinh" (tức ở chính người làm sai); bản dịch "để chúng cho vị thần tạo ra họ" lệch nghĩa. (4) Mục 7.31a là trích dẫn Democritus (phái nguyên tử): "mọi thứ là theo quy ước/luật (*nomos*), thực tại chỉ có nguyên tử". Marcus nói chỉ cần nhớ vế "mọi thứ theo luật". Bản dịch "tất cả đều liên đới" không đúng với chữ *nomos*. (5) "Tuân theo Chúa" (7.31, 7.67) dịch từ "theo thần" (*theos*, Hays: "God"): đây là thần-logos của Khắc kỷ, không phải Thiên Chúa Kitô giáo. Chữ "(Đấng tối cao)" ở 7.39 là do người dịch thêm; câu gốc là một mảnh thơ không rõ người được gọi. (6) Ở 7.9, "những sinh linh chia sẻ cùng ngày sinh" nên hiểu là "cùng nguồn gốc" (cùng dòng giống). (7) Ghi chú "(tư tưởng sau là của phái Epicureanism)" ở 7.75 là của người dịch; trong câu gốc, vế "mọi thứ đều ngẫu nhiên, kể cả những gì trí tuệ vũ trụ hướng tới" là một giả định phi lý Marcus đưa ra để bác, không phải trích Epicurus. (8) Văn bản Hy Lạp của 7.24 bị hỏng; người dịch đã thừa nhận khó hiểu. Theo cách đọc phổ biến, ý là: vẻ mặt giận dữ là trái tự nhiên; lặp lại nhiều lần thì vẻ đẹp tắt hẳn, không nhen lại được. (9) Mục 7.17 chơi chữ không dịch được: *eudaimonia* (hạnh phúc) = *eu* (tốt) + *daimon* (thần hộ mệnh, tức lý trí bên trong), nên "hạnh phúc là có một daimon tốt", hoặc là may mắn, hoặc là phẩm cách tốt. (10) Ở 7.68, câu mà "Lương tri" nói với hoàn cảnh nghĩa là "bản chất thật của *ngươi* là thế này, dù bề ngoài trông khác" (nguyên tác: lý trí nói với sự việc); bản dịch "Đây là con người thực của *ta*" đảo ngôi nên khó hiểu. (11) Các chú thích "Lời người dịch" ở 7.2, 7.13, 7.24, 7.35, 7.41, 7.66 được chèn giữa văn bản; không phải lời Marcus.
+Marcus tự nhắc mình năm điều.
+
+- **Không có gì mới**: cái ác, sự náo nhiệt, các đế chế đều lặp lại, nên quan sát bốn mươi năm cũng như một nghìn năm (7.1, 7.3, 7.49).
+- **Mọi thứ đổi thay và mọi thứ liên kết**: thay đổi là cách tự nhiên làm việc (tắm nước nóng thì phải đốt củi), mọi sinh vật lý trí là "chi" của một cơ thể chung (7.9, 7.13, 7.18, 7.23).
+- **Tâm trí chỉ bị hại bởi chính nó**: điều xảy đến chỉ có hại nếu ta diễn giải là có hại, và việc diễn giải thuộc quyền ta (7.2, 7.14, 7.16, 7.68).
+- **Người làm sai là người lầm lạc, không phải kẻ thù**: hãy hỏi họ nghĩ điều gì là tốt, rồi tha thứ hoặc thương họ; ai cũng bị tước chân lý ngoài ý muốn (7.22, 7.26, 7.62, 7.63, 7.70, 7.71).
+- **Cái chết và đau đớn không đáng sợ** với người chỉ quan tâm làm đúng hay sai, như Socrates trước toà (7.32, 7.33, 7.44–7.46, 7.64).
+
+Cách lập luận chủ yếu là đổi góc nhìn: nhìn từ trên cao xuống, nhìn theo dòng thời gian dài, đặt mình vào vị trí người kia, và mượn tiếng nói của người xưa.
 
 ## Sơ đồ
 
@@ -167,7 +172,9 @@ Suy tưởng không chia chủ đề mà chỉ có các mục đánh số. Phầ
 
 **Sự náo nhiệt vô nghĩa và thước đo giá trị (7.3).** Marcus liệt kê những cảnh ồn ào của đời sống: đám rước phô trương, những khúc hát nhạc kịch, đàn bò bầy cừu, các cuộc tập trận, khúc xương ném cho chó cảnh, mẩu thức ăn thả vào bể cá, đàn kiến khuân vác vất vả, lũ chuột chạy tán loạn, con rối bị giật dây. Giữa tất cả những thứ ấy, ông tự dặn phải tập **chấp nhận mà không khinh thị**: không cần coi thường người khác vì họ mải mê những việc ấy. Nhưng đồng thời phải nhớ rằng giá trị thật của một người được đo bằng giá trị của những gì người ấy dồn tâm huyết vào. Tức là chấp nhận thế giới như nó là, còn tiêu chuẩn thì áp cho chính mình.
 
-**Chú tâm và tự lượng sức (7.4, 7.5).** Khi nói thì để ý vào chính lời mình đang nói; khi làm thì để ý vào kết quả của từng việc. Với hành động, phải hiểu nó nhắm tới đâu; với lời nói, phải hiểu nó mang nghĩa gì. Mục 7.5 là một quy tắc làm việc rất thực tế. Marcus tự hỏi: trí tuệ của ta có đủ cho việc này không? Nếu đủ, hãy dùng nó như một công cụ tự nhiên trao cho. Nếu không đủ, có hai cách: nhường việc cho người làm tốt hơn (trừ khi không có lựa chọn nào khác), hoặc làm hết sức mình và phối hợp với người có thể dùng sức ta để làm điều cộng đồng đang cần. Dù làm một mình hay cùng người khác, chỉ có một mục tiêu: phục vụ lợi ích chung. Đây là lời của một hoàng đế, người có quyền ôm mọi việc, nhưng tự nhắc mình rằng cái tôi không phải là tiêu chí.
+**Chú tâm và tự lượng sức (7.4, 7.5).** Khi nói thì để ý vào chính lời mình đang nói; khi làm thì để ý vào kết quả của từng việc. Với hành động, phải hiểu nó nhắm tới đâu; với lời nói, phải hiểu nó mang nghĩa gì.
+
+Mục 7.5 là một quy tắc làm việc rất thực tế. Marcus tự hỏi: trí tuệ của ta có đủ cho việc này không? Nếu đủ, hãy dùng nó như một công cụ tự nhiên trao cho. Nếu không đủ, có hai cách: nhường việc cho người làm tốt hơn (trừ khi không có lựa chọn nào khác), hoặc làm hết sức mình và phối hợp với người có thể dùng sức ta để làm điều cộng đồng đang cần. Dù làm một mình hay cùng người khác, chỉ có một mục tiêu: phục vụ lợi ích chung. Đây là lời của một hoàng đế, người có quyền ôm mọi việc, nhưng tự nhắc mình rằng cái tôi không phải là tiêu chí.
 
 **Lãng quên, cần giúp đỡ và tương lai (7.6, 7.7, 7.8).** Ba mục ngắn đi liền nhau. Ở 7.6, Marcus nhắc rằng bao người từng lừng danh nay đã bị quên, và những người từng ca tụng họ cũng đã chết từ lâu. Ở 7.7, ông dùng hình ảnh người lính đang trèo tường thành trong một trận công thành: anh ta có nhiệm vụ phải hoàn thành; nếu bị thương không tự leo lên được mà cần đồng đội kéo, thì có gì đáng xấu hổ? Không xấu hổ khi cần được giúp là một ý ít người chờ đợi ở một nhà Khắc kỷ. Ở 7.8, ông dặn đừng lo về tương lai: nếu và khi nó đến, ta vẫn sẽ có đúng nguồn lực mà ta đang dùng cho hiện tại, đó là lý trí.
 
@@ -185,7 +192,9 @@ Câu cuối mục nói thêm: nếu quả thật có một đỉnh cao chung cho
 
 **Thuận tự nhiên là thuận lý trí (7.11, 7.12).** Với một sinh vật có lý trí, hành động thuận tự nhiên cũng chính là hành động thuận lý trí; vì vậy cái gì trái lý trí thì trái tự nhiên. Mục 7.12 chỉ một câu: hãy thẳng, chứ đừng là được nắn cho thẳng. Tức là tốt vì bản tính của mình, không phải vì người khác uốn nắn hay ép buộc.
 
-**Chi chứ không chỉ là phần (7.13).** Các sinh vật có lý trí, dù ở trong những cơ thể khác nhau, có quan hệ với nhau như tay chân trong một cơ thể: chúng được tạo ra để cùng hành động. Marcus đề nghị tự nhủ: "Ta là một chi (melos) của một cơ thể lớn hơn, một cơ thể có lý trí." Trong tiếng Hy Lạp, đổi một chữ cái thì "melos" (chi) thành "meros" (phần). Nếu ta chỉ nói mình là "một phần" rời, thì ta chưa thật sự coi người khác là một với mình. Khi đó, giúp người chưa phải là niềm vui tự thân; ta giúp chỉ vì đó là việc đúng phải làm, tức là làm bổn phận, và chưa nhận ra thật ra mình đang giúp ai, đó là giúp chính cơ thể chung mà mình là một chi. Người dịch có chú thích thêm để làm rõ ý này.
+**Chi chứ không chỉ là phần (7.13).** Các sinh vật có lý trí, dù ở trong những cơ thể khác nhau, có quan hệ với nhau như tay chân trong một cơ thể: chúng được tạo ra để cùng hành động. Marcus đề nghị tự nhủ: "Ta là một chi (melos) của một cơ thể lớn hơn, một cơ thể có lý trí." Trong tiếng Hy Lạp, đổi một chữ cái thì "melos" (chi) thành "meros" (phần).
+
+Nếu ta chỉ nói mình là "một phần" rời, thì ta chưa thật sự coi người khác là một với mình. Khi đó, giúp người chưa phải là niềm vui tự thân; ta giúp chỉ vì đó là việc đúng phải làm, tức là làm bổn phận, và chưa nhận ra thật ra mình đang giúp ai, đó là giúp chính cơ thể chung mà mình là một chi. Người dịch có chú thích thêm để làm rõ ý này.
 
 **Không diễn giải là có hại (7.14).** Đây là một trong những mục quan trọng nhất của quyển. Cứ để những gì bên ngoài xảy ra với những phần có thể bị chúng tác động; phần nào chịu tác động thì có thể than nếu muốn. Còn ta thì không bị hại chừng nào ta chưa phán rằng điều đó có hại. Và không phán như vậy là việc nằm trong quyền chọn của ta. Lập luận có hai bước: (a) cái hại thật chỉ có thể là cái hại cho phần chỉ huy; (b) phần chỉ huy chỉ bị hại khi chính nó chấp nhận phán đoán "đây là điều xấu". Cho nên điều xảy đến, tự nó, không đủ để làm hại ta.
 
@@ -330,7 +339,9 @@ Tức là đánh giá một người phải nhìn vào bên trong, không nhìn 
 
 **Có thể tốt mà không ai biết (7.67).** Tự nhiên không trộn ta vào cái toàn thể chặt tới mức không vạch được ranh giới quanh mình và giữ việc của mình trong tay. Hoàn toàn có thể là một người tốt mà không ai nhận ra. Sống hạnh phúc cần rất ít. Và đừng vì đã thôi hy vọng trở thành nhà biện chứng hay nhà nghiên cứu tự nhiên mà bỏ luôn hy vọng được tự do, khiêm tốn, phục vụ cộng đồng và vâng theo thần.
 
-**Hoàn cảnh là điều ta đang chờ (7.68).** Có thể sống không bị cưỡng ép, trong sự bình an sâu nhất, kể cả khi mọi người la ó đòi gì tuỳ thích, kể cả khi thú dữ xé nát thân thể này. Không gì trong những điều ấy ngăn được tâm trí giữ bình tĩnh, phán đoán đúng về những gì đang xảy ra quanh nó, và sẵn sàng dùng những gì đến tay. Marcus hình dung hai năng lực của tâm trí lên tiếng với hoàn cảnh. Khả năng phán đoán nói: "bản chất thật của *ngươi* là thế này, dù bề ngoài ngươi trông khác" (bản dịch đảo thành "con người thực của *ta*", nên khó hiểu). Khả năng sử dụng (bản dịch gọi là "khả năng thích nghi") nói thêm: "ngươi chính là thứ ta đang chờ". Hiện tại luôn là chất liệu cho đức hạnh của lý trí và của cộng đồng, tức là cho nghệ thuật chung của người và thần. Mọi điều xảy đến đều quen thuộc và xử lý được.
+**Hoàn cảnh là điều ta đang chờ (7.68).** Có thể sống không bị cưỡng ép, trong sự bình an sâu nhất, kể cả khi mọi người la ó đòi gì tuỳ thích, kể cả khi thú dữ xé nát thân thể này. Không gì trong những điều ấy ngăn được tâm trí giữ bình tĩnh, phán đoán đúng về những gì đang xảy ra quanh nó, và sẵn sàng dùng những gì đến tay.
+
+Marcus hình dung hai năng lực của tâm trí lên tiếng với hoàn cảnh. Khả năng phán đoán nói: "bản chất thật của *ngươi* là thế này, dù bề ngoài ngươi trông khác" (bản dịch đảo thành "con người thực của *ta*", nên khó hiểu). Khả năng sử dụng (bản dịch gọi là "khả năng thích nghi") nói thêm: "ngươi chính là thứ ta đang chờ". Hiện tại luôn là chất liệu cho đức hạnh của lý trí và của cộng đồng, tức là cho nghệ thuật chung của người và thần. Mọi điều xảy đến đều quen thuộc và xử lý được.
 
 **Sự hoàn thiện của tính cách (7.69).** Sống mỗi ngày như thể đó là ngày cuối cùng: không cuống cuồng, không uể oải, không giả vờ.
 
@@ -427,11 +438,17 @@ Tức là đánh giá một người phải nhìn vào bên trong, không nhìn 
 
 ### Quyển 7 là cuốn sổ chép tay của một người đang học, không phải một tác phẩm
 
-Gần một phần tư quyển là trích dẫn: Plato (7.35, 7.44–7.46, 7.48, 7.63), Antisthenes (7.36), Euripides và các nhà bi kịch (7.38–7.43, 7.50–7.51a), Democritus (7.31a), Epicurus (7.64). Nhiều câu trong số này xuất hiện trong các bài giảng của Epictetus mà Marcus đọc qua Arrian, nên có khả năng ông chép lại từ đó. Điều này cho thấy phương pháp luyện tập Khắc kỷ: học thuộc các câu ngắn (*chreiai*) để có sẵn "trong tay" khi cần, như Epictetus khuyên. Nó cũng giải thích vì sao người đọc dễ nhầm câu trích với lời Marcus, như chú thích của người dịch về 7.41. Đọc đúng thì 7.41 càng thấm hơn: một người cha từng mất nhiều con không viết ra nỗi đau của mình mà chép lại một câu thơ bi kịch về thần linh bỏ mặc người cha và hai đứa con. Nỗi đau được nói gián tiếp qua lời người khác, đúng tinh thần kiềm chế của ông.
+Gần một phần tư quyển là trích dẫn: Plato (7.35, 7.44–7.46, 7.48, 7.63), Antisthenes (7.36), Euripides và các nhà bi kịch (7.38–7.43, 7.50–7.51a), Democritus (7.31a), Epicurus (7.64). Nhiều câu trong số này xuất hiện trong các bài giảng của Epictetus mà Marcus đọc qua Arrian, nên có khả năng ông chép lại từ đó.
+
+Điều này cho thấy phương pháp luyện tập Khắc kỷ: học thuộc các câu ngắn (*chreiai*) để có sẵn "trong tay" khi cần, như Epictetus khuyên. Nó cũng giải thích vì sao người đọc dễ nhầm câu trích với lời Marcus, như chú thích của người dịch về 7.41. Đọc đúng thì 7.41 càng thấm hơn: một người cha từng mất nhiều con không viết ra nỗi đau của mình mà chép lại một câu thơ bi kịch về thần linh bỏ mặc người cha và hai đứa con. Nỗi đau được nói gián tiếp qua lời người khác, đúng tinh thần kiềm chế của ông.
 
 ### Lập luận tha thứ ở 7.26 mạnh hơn vẻ ngoài, nhưng nó dựa trên một giả định gây tranh cãi
 
-Lập luận hai nhánh của 7.26 rất chặt: nếu ta có cùng quan niệm về điều tốt với người làm hại ta, thì ta không có tư cách lên án họ, vì ở vị trí của họ ta cũng làm vậy; nếu ta có quan niệm khác (đúng hơn), thì họ là người thiếu hiểu biết, và giận người thiếu hiểu biết cũng như giận người mù vì đi lạc. Cả hai nhánh đều dẫn đến khoan dung. Nhưng lập luận dựa trên luận đề Socrates "không ai tự nguyện làm sai", tức là mọi sai trái đều là lỗi nhận thức. Nó bỏ qua trường hợp người biết rõ là sai mà vẫn làm (yếu ý chí, *akrasia*, mà Aristotle đã phản bác Socrates), và trường hợp người có giá trị khác hẳn ta một cách có ý thức. Dẫu vậy, về mặt thực hành, lập luận vẫn có giá trị: nó không đòi ta xoá ranh giới đúng sai, chỉ đòi ta bỏ cơn giận. Khắc kỷ vẫn cho phép, thậm chí đòi hỏi, ngăn chặn hay trừng phạt người làm sai vì lợi ích chung; điều họ loại bỏ là sự căm ghét.
+Lập luận hai nhánh của 7.26 rất chặt: nếu ta có cùng quan niệm về điều tốt với người làm hại ta, thì ta không có tư cách lên án họ, vì ở vị trí của họ ta cũng làm vậy; nếu ta có quan niệm khác (đúng hơn), thì họ là người thiếu hiểu biết, và giận người thiếu hiểu biết cũng như giận người mù vì đi lạc. Cả hai nhánh đều dẫn đến khoan dung.
+
+Nhưng lập luận dựa trên luận đề Socrates "không ai tự nguyện làm sai", tức là mọi sai trái đều là lỗi nhận thức. Nó bỏ qua trường hợp người biết rõ là sai mà vẫn làm (yếu ý chí, *akrasia*, mà Aristotle đã phản bác Socrates), và trường hợp người có giá trị khác hẳn ta một cách có ý thức.
+
+Dẫu vậy, về mặt thực hành, lập luận vẫn có giá trị: nó không đòi ta xoá ranh giới đúng sai, chỉ đòi ta bỏ cơn giận. Khắc kỷ vẫn cho phép, thậm chí đòi hỏi, ngăn chặn hay trừng phạt người làm sai vì lợi ích chung; điều họ loại bỏ là sự căm ghét.
 
 ### Khắc kỷ ở quyển này không phải vô cảm: Marcus cho phép thân thể kêu đau và cho phép mình cần người khác
 
@@ -443,7 +460,9 @@ Phần lớn kỹ thuật trong quyển được nghiên cứu ủng hộ: tái 
 
 ### Giả định ngầm: vũ trụ có trật tự hợp lý, và Marcus biết nó có thể sai
 
-Mục 7.32, 7.50 và 7.75 cho thấy Marcus vẫn giữ hai khả năng: vũ trụ là một thể thống nhất có lý trí (Khắc kỷ), hoặc chỉ là nguyên tử va chạm (Epicurus, Democritus). Ông cố làm cho lời khuyên đứng được trong cả hai trường hợp (cái chết hoặc tan rã hoặc đổi dạng, đều không đáng sợ). Nhưng ở 7.75 ông nghiêng hẳn: nếu ngay cả điều trí tuệ vũ trụ hướng tới cũng phi lý thì thật vô nghĩa, nên phải chấp nhận vế thứ nhất. Đây là chỗ đạo đức Khắc kỷ phụ thuộc vào vật lý Khắc kỷ: lời khuyên "yêu điều xảy đến" (7.57) chỉ thuyết phục nếu điều xảy đến là một phần của trật tự hợp lý. Với người hiện đại không tin vào logos vũ trụ, phần còn đứng vững là nửa tâm lý (phán đoán của ta quyết định khổ đau); phần "yêu định mệnh" cần được biện minh khác, chẳng hạn như một chiến lược để thôi lãng phí năng lượng vào điều không thể đổi.
+Mục 7.32, 7.50 và 7.75 cho thấy Marcus vẫn giữ hai khả năng: vũ trụ là một thể thống nhất có lý trí (Khắc kỷ), hoặc chỉ là nguyên tử va chạm (Epicurus, Democritus). Ông cố làm cho lời khuyên đứng được trong cả hai trường hợp (cái chết hoặc tan rã hoặc đổi dạng, đều không đáng sợ). Nhưng ở 7.75 ông nghiêng hẳn: nếu ngay cả điều trí tuệ vũ trụ hướng tới cũng phi lý thì thật vô nghĩa, nên phải chấp nhận vế thứ nhất.
+
+Đây là chỗ đạo đức Khắc kỷ phụ thuộc vào vật lý Khắc kỷ: lời khuyên "yêu điều xảy đến" (7.57) chỉ thuyết phục nếu điều xảy đến là một phần của trật tự hợp lý. Với người hiện đại không tin vào logos vũ trụ, phần còn đứng vững là nửa tâm lý (phán đoán của ta quyết định khổ đau); phần "yêu định mệnh" cần được biện minh khác, chẳng hạn như một chiến lược để thôi lãng phí năng lượng vào điều không thể đổi.
 
 ### Vận dụng: hỏi "họ nghĩ điều gì là tốt?" trước mọi xung đột trong công việc và đầu tư
 
@@ -598,3 +617,31 @@ flowchart LR
   class n1,n14,n26,n39,n51,n62 branch
   class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n52,n53,n54,n55,n56,n57,n58,n59,n60,n61,n63,n64,n65 leaf
 ```
+
+## Nguồn
+
+Marcus Aurelius, *Suy tưởng* (*Meditations*, tiếng Hy Lạp *Ta eis heauton*, "Những điều viết cho chính mình", khoảng 170–180 SCN), Quyển 7. Bản dịch tiếng Việt của Andy Lương (dịch từ bản tiếng Anh của Gregory Hays), tr. 98–119.
+
+## Tác giả
+
+Marcus Aurelius (121–180), hoàng đế La Mã (trị vì 161–180), triết gia phái Khắc kỷ.
+
+## Vị trí trong tác phẩm
+
+Quyển 7 không có tiêu đề địa danh như Quyển 2 ("Bên dòng Gran") hay Quyển 3 ("Ở Carnuntum"), nhưng được viết trong cùng thập niên chiến tranh Marcomanni dọc sông Danube và dịch bệnh Antonine.
+
+Đây là quyển "lẫn lộn" nhất của tác phẩm: bên cạnh các mục Marcus tự viết, có một chuỗi dài (phần lớn các mục 7.35–7.51, cùng 7.63, 7.66) là **trích dẫn chép lại** từ Plato, Antisthenes, Euripides và các nhà bi kịch khác, nhiều khả năng lấy qua các bài giảng của Epictetus. Quyển này giống một cuốn sổ tay luyện tập: ông vừa nhắc lại các nguyên tắc nền (mọi thứ đổi thay, mọi thứ liên kết, tâm trí chỉ bị hại bởi chính phán đoán của nó), vừa chép những câu của người xưa để học thuộc. Chủ đề nổi bật nhất là **cách đối xử với người làm sai**: yêu thương, hiểu động cơ và tha thứ cho họ.
+
+## Lưu ý
+
+- **Mục 7.41 không phải lời Marcus viết khi hai con trai sinh đôi mất**, như lời người dịch chú thích. Đó là một câu thơ của Euripides (vở *Antiope*), nằm trong chuỗi trích dẫn bi kịch 7.38–7.51 (7.38 từ *Bellerophon*, 7.40 từ *Hypsipyle*, 7.50 từ *Chrysippus*, 7.51 từ *Những người cầu xin*). Marcus có thể chọn chép nó vì nỗi mất con, nhưng câu chữ là của Euripides.
+- **Mục 7.45 trích từ *Biện hộ* (*Apology*, 28d) của Plato, không phải *Gorgias*** như bản dịch ghi; cụm "thưa quý toà" chính là lời Socrates nói với bồi thẩm Athens. Mục 7.44 (*Apology* 28b) và 7.46 (*Gorgias* 512d–e) được ghi đúng.
+- Mục 7.29, vế cuối có nghĩa "lỗi của người khác thì để nó lại nơi nó khởi sinh" (tức ở chính người làm sai); bản dịch "để chúng cho vị thần tạo ra họ" lệch nghĩa.
+- Mục 7.31a là trích dẫn Democritus (phái nguyên tử): "mọi thứ là theo quy ước/luật (*nomos*), thực tại chỉ có nguyên tử". Marcus nói chỉ cần nhớ vế "mọi thứ theo luật". Bản dịch "tất cả đều liên đới" không đúng với chữ *nomos*.
+- "Tuân theo Chúa" (7.31, 7.67) dịch từ "theo thần" (*theos*, Hays: "God"): đây là thần-logos của Khắc kỷ, không phải Thiên Chúa Kitô giáo. Chữ "(Đấng tối cao)" ở 7.39 là do người dịch thêm; câu gốc là một mảnh thơ không rõ người được gọi.
+- Ở 7.9, "những sinh linh chia sẻ cùng ngày sinh" nên hiểu là "cùng nguồn gốc" (cùng dòng giống).
+- Ghi chú "(tư tưởng sau là của phái Epicureanism)" ở 7.75 là của người dịch; trong câu gốc, vế "mọi thứ đều ngẫu nhiên, kể cả những gì trí tuệ vũ trụ hướng tới" là một giả định phi lý Marcus đưa ra để bác, không phải trích Epicurus.
+- Văn bản Hy Lạp của 7.24 bị hỏng; người dịch đã thừa nhận khó hiểu. Theo cách đọc phổ biến, ý là: vẻ mặt giận dữ là trái tự nhiên; lặp lại nhiều lần thì vẻ đẹp tắt hẳn, không nhen lại được.
+- Mục 7.17 chơi chữ không dịch được: *eudaimonia* (hạnh phúc) = *eu* (tốt) + *daimon* (thần hộ mệnh, tức lý trí bên trong), nên "hạnh phúc là có một daimon tốt", hoặc là may mắn, hoặc là phẩm cách tốt.
+- Ở 7.68, câu mà "Lương tri" nói với hoàn cảnh nghĩa là "bản chất thật của *ngươi* là thế này, dù bề ngoài trông khác" (nguyên tác: lý trí nói với sự việc); bản dịch "Đây là con người thực của *ta*" đảo ngôi nên khó hiểu.
+- Các chú thích "Lời người dịch" ở 7.2, 7.13, 7.24, 7.35, 7.41, 7.66 được chèn giữa văn bản; không phải lời Marcus.

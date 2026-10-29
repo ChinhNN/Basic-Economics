@@ -1,11 +1,16 @@
 # Quyển 8 — Tâm trí là pháo đài (Meditations, Book 8)
 
-**Nguồn:** Marcus Aurelius, *Suy tưởng* (*Meditations*, tiếng Hy Lạp *Ta eis heauton*, "Những điều viết cho chính mình", khoảng 170–180 SCN), Quyển 8. Bản dịch tiếng Việt của Andy Lương (dịch từ bản tiếng Anh của Gregory Hays), tr. 119–142.
-**Tác giả:** Marcus Aurelius (121–180), hoàng đế La Mã (trị vì 161–180), triết gia phái Khắc kỷ.
-**Vị trí trong tác phẩm:** Quyển 8 không có tiêu đề địa danh. Nó được viết sau năm 169, vì Marcus nhắc tới ngôi mộ của Lucius Verus, người đồng trị vì với ông, mất năm 169 (8.37). Đây là giai đoạn chiến tranh Marcomanni và dịch bệnh Antonine, khi Marcus ngoài năm mươi tuổi, bận việc triều chính đến mức tự nhủ "Không có thời gian để đọc nữa" (8.8). Quyển mở đầu bằng một lời tự thú hiếm có: ông chưa bao giờ sống được như một triết gia (8.1). Phần còn lại là bộ dụng cụ thực hành để sống tốt quãng đời còn lại: phân biệt ấn tượng đầu tiên với suy diễn, biến trở ngại thành nguyên liệu, và rút vào "pháo đài" của tâm trí (8.48). Đây cũng là quyển có danh sách dài nhất những người đã khuất trong gia đình và triều đình (8.25, 8.31, 8.37), dùng để tự nhắc về cái chết.
-**Ý chính:** Marcus tự nhắc mình năm điều. (1) **Khiêm tốn và bắt đầu lại**: ông chưa từng sống như triết gia, không tìm thấy cách sống trong tranh biện, của cải, danh tiếng hay khoái lạc; cách sống nằm ở việc làm điều bản tính con người đòi hỏi, theo quy tắc rằng chỉ công bằng, tự chủ, dũng cảm và tự do mới là tốt (8.1, 8.8, 8.22a). (2) **Vấn đề không nằm ở sự việc mà ở phán đoán**: giữ lấy ấn tượng đầu tiên, đừng suy diễn thêm; phán đoán thì ta xoá được ngay (8.47, 8.49, 8.40). (3) **Tâm trí không thể bị chạm tới**: không lửa, sắt, bạo chúa nào xâm phạm được nó; nó là một pháo đài, một dòng suối không vẩn đục (8.41, 8.48, 8.51). (4) **Trở ngại là nguyên liệu**: như tự nhiên thu nạp mọi thứ vỡ hỏng để làm cái mới, sinh vật lý trí biến chướng ngại thành phương tiện, và nếu bị chặn thì chọn hành động thay thế (8.32, 8.35, 8.50). (5) **Ta là một chi của cộng đồng**: tách mình ra là tự chặt tay mình, nhưng con người có đặc ân ghép lại; con người tồn tại vì nhau, hãy dạy họ hoặc chịu đựng họ (8.34, 8.59). Cái chết và danh tiếng được xử lý bằng các danh sách người đã khuất và hình ảnh trái bóng ném lên rồi rơi xuống (8.20, 8.25).
+## Ý chính
 
-> **Lưu ý:** (1) **Ở 8.4, lời người dịch đề xuất sửa "họ" thành hơi thở là không đúng.** Câu gốc tiếng Hy Lạp dùng động từ số nhiều chỉ người: "dù ngươi có tức đến vỡ tung, họ vẫn sẽ làm y như vậy". Hays dịch "they" là đúng; ý của Marcus là giận dữ không thay đổi được hành vi của người khác, khớp với các mục về sự vô ích của việc trách người (8.17). (2) Ở 8.41, cụm "một địa hạt ... tĩnh lặng hoàn hảo" là câu trích từ Empedocles về *quả cầu* (*sphairos*) tròn trịa, vui trong sự tĩnh tại của nó; "địa hạt" làm mất hình ảnh quả cầu. (3) Ở 8.21, "khi nó bị rao bán trên đường phố (ý chỉ những người nô lệ)" là cách hiểu của người dịch; chữ Hy Lạp (*porneusan*) chỉ thân xác sau khi bị dùng vào trác táng, mại dâm. (4) "Thượng Đế", "Chúa/Thượng đế ... Ngài" (8.2, 8.34, 8.56) dịch từ *theos* ("thần", Hays: "God"): thần-logos của Khắc kỷ, không phải Thiên Chúa Kitô giáo; cách gọi "Ngài ưu ái chúng ta" ở 8.34 làm văn bản mang màu thần học hữu ngã đậm hơn bản gốc. (5) Ở 8.2, "cùng chịu những luật lệ chi phối của Thượng Đế như thần thánh" nên hiểu là "cùng chung một luật với thần" (con người và thần cùng sống dưới logos). (6) Các "Lời người dịch" chen vào văn bản (8.3, 8.4, 8.13, 8.14, 8.20, 8.33, 8.41, 8.52) là bình luận riêng; các liên hệ với Trang Tử, Lão Tử (8.20, 8.52) là cảm nhận của người dịch, không có trong nguyên tác. (7) Ở 8.39 dấu ngoặc kép mở mà không đóng; ở 8.48 có chỗ đứt đoạn ("<...>") do văn bản gốc hỏng. (8) Lỗi chính tả: "tan biết" (8.18, đúng là "tan biến"), "thầnh thánh" (8.2), "kiếm soát" (8.17).
+Marcus tự nhắc mình năm điều.
+
+- **Khiêm tốn và bắt đầu lại**: ông chưa từng sống như triết gia, không tìm thấy cách sống trong tranh biện, của cải, danh tiếng hay khoái lạc; cách sống nằm ở việc làm điều bản tính con người đòi hỏi, theo quy tắc rằng chỉ công bằng, tự chủ, dũng cảm và tự do mới là tốt (8.1, 8.8, 8.22a).
+- **Vấn đề không nằm ở sự việc mà ở phán đoán**: giữ lấy ấn tượng đầu tiên, đừng suy diễn thêm; phán đoán thì ta xoá được ngay (8.47, 8.49, 8.40).
+- **Tâm trí không thể bị chạm tới**: không lửa, sắt, bạo chúa nào xâm phạm được nó; nó là một pháo đài, một dòng suối không vẩn đục (8.41, 8.48, 8.51).
+- **Trở ngại là nguyên liệu**: như tự nhiên thu nạp mọi thứ vỡ hỏng để làm cái mới, sinh vật lý trí biến chướng ngại thành phương tiện, và nếu bị chặn thì chọn hành động thay thế (8.32, 8.35, 8.50).
+- **Ta là một chi của cộng đồng**: tách mình ra là tự chặt tay mình, nhưng con người có đặc ân ghép lại; con người tồn tại vì nhau, hãy dạy họ hoặc chịu đựng họ (8.34, 8.59).
+
+Cái chết và danh tiếng được xử lý bằng các danh sách người đã khuất và hình ảnh trái bóng ném lên rồi rơi xuống (8.20, 8.25).
 
 ## Sơ đồ
 
@@ -324,9 +329,13 @@ Nếu dừng ở ấn tượng đầu và không thêm gì từ bên trong, thì
 
 **Dưa đắng và bụi gai (8.50).** Quả dưa đắng thì vứt đi; đường có gai thì đi vòng. Thế là đủ; đừng hỏi thêm "tại sao những thứ đó lại có thể tồn tại trên đời". Người hiểu tự nhiên sẽ cười ta, cũng như thợ mộc hay thợ giày sẽ cười nếu ta khó chịu vì thấy mạt cưa hay da vụn trong xưởng của họ. Nhưng có một khác biệt: thợ mộc và thợ giày còn có chỗ để đổ rác, còn tự nhiên thì không có gì nằm ngoài nó. Điều kỳ diệu trong nghệ thuật của tự nhiên là, trong giới hạn ấy, nó biến mọi thứ có vẻ hỏng, già, vô dụng thành chính nó rồi làm ra cái mới, không cần chất liệu từ bên ngoài và không cần chỗ đổ bỏ. Nó tự đủ về không gian, chất liệu và tay nghề.
 
-**Dòng suối (8.51).** Marcus mở đầu bằng một loạt điều cần tránh: đừng cẩu thả trong việc làm, rối rắm trong lời nói, mơ hồ trong ý nghĩ; đừng để linh hồn tự mãn hay sôi sục; đừng sống quá bận rộn. Rồi ông đưa giả định xấu nhất: giả sử họ giết ta, phanh thây ta, nguyền rủa ta. Những thứ ấy cản được gì việc tâm trí giữ mình trong sạch, minh mẫn, tự chủ và công bằng? Hình ảnh đi kèm: một người đứng bên dòng suối trong mà chửi rủa, đổ bùn, đổ phân vào; dòng suối vẫn trào lên, cuốn sạch mọi thứ và không vẩn đục. Câu hỏi cuối là làm sao để có một dòng suối chứ không chỉ một bể nước đứng, thứ bẩn là bẩn luôn. Trả lời: bằng cách giữ mình tự do từng giờ khắc, bằng sự kiên trì, trung thực và khiêm nhường.
+**Dòng suối (8.51).** Marcus mở đầu bằng một loạt điều cần tránh: đừng cẩu thả trong việc làm, rối rắm trong lời nói, mơ hồ trong ý nghĩ; đừng để linh hồn tự mãn hay sôi sục; đừng sống quá bận rộn.
 
-**Ba tầng hiểu biết và lời khen của ai (8.52, 8.53).** Không biết thế giới là gì thì không biết mình đang ở đâu; không biết thế giới tồn tại để làm gì thì không biết mình là ai và bản chất mình là gì; không biết những điều ấy thì không biết mình sống để làm gì. Vậy nên nghĩ gì về người chạy theo lời khen của những người không biết mình ở đâu và mình là ai? Mục 8.53 nói tiếp: ta muốn được khen bởi những người suốt ngày tự nguyền rủa mình, muốn được tán thành bởi những người tự ghét chính mình. Một người hối hận về gần như mọi việc mình làm thì có tự trọng không? Lời khen của người như vậy không đáng để theo đuổi. (Liên hệ với Trang Tử, Lão Tử ở 8.52 là cảm nhận của người dịch, không có trong nguyên tác.)
+Rồi ông đưa giả định xấu nhất: giả sử họ giết ta, phanh thây ta, nguyền rủa ta. Những thứ ấy cản được gì việc tâm trí giữ mình trong sạch, minh mẫn, tự chủ và công bằng? Hình ảnh đi kèm: một người đứng bên dòng suối trong mà chửi rủa, đổ bùn, đổ phân vào; dòng suối vẫn trào lên, cuốn sạch mọi thứ và không vẩn đục. Câu hỏi cuối là làm sao để có một dòng suối chứ không chỉ một bể nước đứng, thứ bẩn là bẩn luôn. Trả lời: bằng cách giữ mình tự do từng giờ khắc, bằng sự kiên trì, trung thực và khiêm nhường.
+
+**Ba tầng hiểu biết và lời khen của ai (8.52, 8.53).** Không biết thế giới là gì thì không biết mình đang ở đâu; không biết thế giới tồn tại để làm gì thì không biết mình là ai và bản chất mình là gì; không biết những điều ấy thì không biết mình sống để làm gì. Vậy nên nghĩ gì về người chạy theo lời khen của những người không biết mình ở đâu và mình là ai?
+
+Mục 8.53 nói tiếp: ta muốn được khen bởi những người suốt ngày tự nguyền rủa mình, muốn được tán thành bởi những người tự ghét chính mình. Một người hối hận về gần như mọi việc mình làm thì có tự trọng không? Lời khen của người như vậy không đáng để theo đuổi. (Liên hệ với Trang Tử, Lão Tử ở 8.52 là cảm nhận của người dịch, không có trong nguyên tác.)
 
 **Hít thở lý trí (8.54).** Đừng chỉ hít thở cùng không khí bao quanh ta, mà hãy suy nghĩ cùng lý trí bao trùm vạn vật. Lý trí lan khắp nơi và thấm vào người nào sẵn lòng đón nó, như không khí thấm vào người đang hít thở.
 
@@ -434,7 +443,9 @@ Marcus nói rõ ông chưa bao giờ sống như một triết gia và địa v�
 
 ### Lập luận "pháo đài" mạnh về tâm lý nhưng có giá: nó định nghĩa lại "cái hại" cho hẹp đi
 
-Khi nói không ai có thể hại ta, Marcus không phủ nhận rằng người khác có thể giết ta, phanh thây ta (8.51). Ông định nghĩa lại "hại" là "làm ta xấu đi", và với định nghĩa ấy thì chỉ ta mới hại được ta. Đây là chỗ mạnh và chỗ yếu cùng lúc. Mạnh vì nó trao lại quyền kiểm soát cho người trong hoàn cảnh không kiểm soát được (người tù, người bệnh, người lính). Yếu vì nếu áp dụng máy móc, nó có thể biện minh cho sự thờ ơ trước bất công người khác phải chịu: nếu nạn nhân "không bị hại" (8.55), sao phải bảo vệ họ? Marcus tự giữ thăng bằng bằng các mục cộng đồng (8.12, 8.34, 8.59) và bằng việc ông vẫn xét xử, ban luật, đánh trận. Khắc kỷ không phải chủ nghĩa thụ động: pháo đài là để trú về và giữ bình tĩnh, rồi từ đó đi ra hành động.
+Khi nói không ai có thể hại ta, Marcus không phủ nhận rằng người khác có thể giết ta, phanh thây ta (8.51). Ông định nghĩa lại "hại" là "làm ta xấu đi", và với định nghĩa ấy thì chỉ ta mới hại được ta.
+
+Đây là chỗ mạnh và chỗ yếu cùng lúc. Mạnh vì nó trao lại quyền kiểm soát cho người trong hoàn cảnh không kiểm soát được (người tù, người bệnh, người lính). Yếu vì nếu áp dụng máy móc, nó có thể biện minh cho sự thờ ơ trước bất công người khác phải chịu: nếu nạn nhân "không bị hại" (8.55), sao phải bảo vệ họ? Marcus tự giữ thăng bằng bằng các mục cộng đồng (8.12, 8.34, 8.59) và bằng việc ông vẫn xét xử, ban luật, đánh trận. Khắc kỷ không phải chủ nghĩa thụ động: pháo đài là để trú về và giữ bình tĩnh, rồi từ đó đi ra hành động.
 
 ### Kỹ thuật "ấn tượng đầu tiên" (8.49) là đóng góp tâm lý học thực dụng nhất của quyển, và nó đúng
 
@@ -599,3 +610,28 @@ flowchart LR
   class n1,n12,n25,n38,n48,n61 branch
   class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n13,n14,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n26,n27,n28,n29,n30,n31,n32,n33,n34,n35,n36,n37,n39,n40,n41,n42,n43,n44,n45,n46,n47,n49,n50,n51,n52,n53,n54,n55,n56,n57,n58,n59,n60,n62,n63,n64 leaf
 ```
+
+## Nguồn
+
+Marcus Aurelius, *Suy tưởng* (*Meditations*, tiếng Hy Lạp *Ta eis heauton*, "Những điều viết cho chính mình", khoảng 170–180 SCN), Quyển 8. Bản dịch tiếng Việt của Andy Lương (dịch từ bản tiếng Anh của Gregory Hays), tr. 119–142.
+
+## Tác giả
+
+Marcus Aurelius (121–180), hoàng đế La Mã (trị vì 161–180), triết gia phái Khắc kỷ.
+
+## Vị trí trong tác phẩm
+
+Quyển 8 không có tiêu đề địa danh. Nó được viết sau năm 169, vì Marcus nhắc tới ngôi mộ của Lucius Verus, người đồng trị vì với ông, mất năm 169 (8.37). Đây là giai đoạn chiến tranh Marcomanni và dịch bệnh Antonine, khi Marcus ngoài năm mươi tuổi, bận việc triều chính đến mức tự nhủ "Không có thời gian để đọc nữa" (8.8).
+
+Quyển mở đầu bằng một lời tự thú hiếm có: ông chưa bao giờ sống được như một triết gia (8.1). Phần còn lại là bộ dụng cụ thực hành để sống tốt quãng đời còn lại: phân biệt ấn tượng đầu tiên với suy diễn, biến trở ngại thành nguyên liệu, và rút vào "pháo đài" của tâm trí (8.48). Đây cũng là quyển có danh sách dài nhất những người đã khuất trong gia đình và triều đình (8.25, 8.31, 8.37), dùng để tự nhắc về cái chết.
+
+## Lưu ý
+
+- **Ở 8.4, lời người dịch đề xuất sửa "họ" thành hơi thở là không đúng.** Câu gốc tiếng Hy Lạp dùng động từ số nhiều chỉ người: "dù ngươi có tức đến vỡ tung, họ vẫn sẽ làm y như vậy". Hays dịch "they" là đúng; ý của Marcus là giận dữ không thay đổi được hành vi của người khác, khớp với các mục về sự vô ích của việc trách người (8.17).
+- Ở 8.41, cụm "một địa hạt ... tĩnh lặng hoàn hảo" là câu trích từ Empedocles về *quả cầu* (*sphairos*) tròn trịa, vui trong sự tĩnh tại của nó; "địa hạt" làm mất hình ảnh quả cầu.
+- Ở 8.21, "khi nó bị rao bán trên đường phố (ý chỉ những người nô lệ)" là cách hiểu của người dịch; chữ Hy Lạp (*porneusan*) chỉ thân xác sau khi bị dùng vào trác táng, mại dâm.
+- "Thượng Đế", "Chúa/Thượng đế ... Ngài" (8.2, 8.34, 8.56) dịch từ *theos* ("thần", Hays: "God"): thần-logos của Khắc kỷ, không phải Thiên Chúa Kitô giáo; cách gọi "Ngài ưu ái chúng ta" ở 8.34 làm văn bản mang màu thần học hữu ngã đậm hơn bản gốc.
+- Ở 8.2, "cùng chịu những luật lệ chi phối của Thượng Đế như thần thánh" nên hiểu là "cùng chung một luật với thần" (con người và thần cùng sống dưới logos).
+- Các "Lời người dịch" chen vào văn bản (8.3, 8.4, 8.13, 8.14, 8.20, 8.33, 8.41, 8.52) là bình luận riêng; các liên hệ với Trang Tử, Lão Tử (8.20, 8.52) là cảm nhận của người dịch, không có trong nguyên tác.
+- Ở 8.39 dấu ngoặc kép mở mà không đóng; ở 8.48 có chỗ đứt đoạn ("<...>") do văn bản gốc hỏng.
+- Lỗi chính tả: "tan biết" (8.18, đúng là "tan biến"), "thầnh thánh" (8.2), "kiếm soát" (8.17).

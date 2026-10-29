@@ -1,18 +1,15 @@
 # Quyển 10 — Tâm trí khoẻ mạnh (Meditations, Book 10)
 
-**Nguồn:** Marcus Aurelius, *Suy tưởng* (*Meditations*, tiếng Hy Lạp *Ta eis heauton*, "Những điều viết cho chính mình", khoảng 170–180 SCN), Quyển 10. Bản dịch tiếng Việt của Andy Lương (dịch từ bản tiếng Anh của Gregory Hays), tr. 162–174 (chỉ gồm các mục 11–38).
-**Tác giả:** Marcus Aurelius (121–180), hoàng đế La Mã (trị vì 161–180), triết gia phái Khắc kỷ.
-**Vị trí trong tác phẩm:** Quyển 10 không có tiêu đề địa danh. Theo nguyên tác, mục 10.10 (không có trong bản dịch này) có câu tự giễu về việc bắt được người Sarmatae, nên giới nghiên cứu thường xếp quyển này vào thời chiến dịch chống người Sarmatae ở trung lưu sông Danube, khoảng giữa thập niên 170. Đây là một trong những quyển nhiều suy tư về cái chết nhất: Marcus tưởng tượng giường bệnh của chính mình và những người sẽ thầm mừng khi ông đi (10.36), nhìn lại các triều đại Hadrian và Antoninus như một vở kịch đã diễn (10.27, 10.31). Đồng thời nó chứa những hình ảnh mạnh nhất của cả sách về **sức bền của lý trí**: cái dạ dày khoẻ tiêu hoá mọi thức ăn, ngọn lửa biến mọi thứ ném vào thành ánh sáng (10.31, 10.35), lý trí như hòn đá rơi hay khối trụ lăn trên dốc (10.33).
-**Ý chính:** Phần còn lại của quyển xoay quanh bốn lời tự nhắc. (1) **Tâm trí khoẻ mạnh phải chịu được mọi thứ**, như mắt khoẻ nhìn được mọi màu, dạ dày khoẻ tiêu được mọi món; cứ hỏi "Con cái ta vẫn ổn phải không?" hay đòi "Mọi người cần phải tán đồng với mình" là dấu hiệu của tâm trí bệnh (10.31, 10.35). (2) **Lý trí luôn tự mở được đường**: chướng ngại chặn được nước, lửa, khối trụ, nhưng không chặn được một tâm trí biết dùng chính chướng ngại để làm điều đúng; điều tệ đến với con người thậm chí có thể làm người đó tốt lên (10.33). (3) **Sống đúng, đừng bàn về sống đúng**: chỉ có hai câu hỏi đáng quan tâm, việc đang làm có đúng không và ta có đón nhận được điều được giao không; khen chê của người khác không đổi được gì (10.11a, 10.13, 10.16, 10.32). (4) **Cái chết là sự tháo nút tự nhiên**: đời người như lá cây, các triều đại lặp lại một kịch bản, và nên ra đi không giận dữ, như tự nhiên đã buộc thì tự nhiên cởi (10.27, 10.34, 10.36). Marcus lập luận chủ yếu bằng **phép so sánh với cơ thể và vật lý** (mắt, dạ dày, lửa, đá, khối trụ, nô lệ bỏ trốn) để chứng minh rằng phản ứng sai trước ngoại cảnh là một dạng bệnh hay một sự bỏ trốn khỏi luật tự nhiên.
+## Ý chính
 
-> **Lưu ý:**
-> (1) **Văn bản thiếu các mục 10.1–10.10.** Bản dịch đăng thành ba phần, PDF chỉ có phần (2) và (3), bắt đầu từ mục 11. Theo nguyên tác (không có trong bản dịch này, tóm tắt theo hiểu biết, không trích): **10.1** Marcus hỏi linh hồn mình bao giờ mới tốt, giản dị, trọn vẹn, trần trụi hơn thân xác bao quanh nó, bằng lòng với hiện tại và tin rằng mình có đủ mọi thứ từ thần linh. **10.2** Xét xem bản tính của ta như một sinh vật chỉ sống (như cây cỏ) đòi hỏi gì, rồi như một động vật, rồi như một sinh vật lý trí và sống cộng đồng; làm theo đòi hỏi của từng tầng, miễn là nó không làm tầng cao hơn xấu đi. **10.3** Điều xảy đến hoặc ta sinh ra để chịu được, hoặc không; nếu chịu được thì đừng than, nếu không thì cũng đừng than, vì nó sẽ huỷ ta rồi chính nó cũng mất; nhớ rằng ta chịu được mọi thứ mà phán đoán của ta làm cho chịu được. **10.4** Nếu ai lầm, hãy chỉ ra cho họ một cách nhẹ nhàng; nếu không làm được, hãy trách mình, hoặc không trách ai. **10.5** Mọi điều xảy đến với ta đã được chuẩn bị từ vĩnh cửu, sợi chỉ nhân quả đã dệt sự tồn tại của ta cùng với sự việc ấy. **10.6** Dù là nguyên tử hay tự nhiên: ta là phần của một toàn thể do tự nhiên điều hành và có quan hệ thân thuộc với các phần cùng loại; vì thế ta không phàn nàn điều gì được giao từ toàn thể và không làm gì trái lợi ích chung, như một công dân hoạt động vì đồng bào. **10.7** Các phần của toàn thể tất phải tan rã, tức là biến đổi; nếu điều đó là xấu thì toàn thể đã không vận hành tốt; chất liệu làm nên ta cũng chỉ mới đến từ thức ăn và không khí. **10.8** Hãy giữ cho xứng với vài cái tên: tốt, khiêm tốn, chân thật, sáng suốt, hoà hợp, cao thượng; nếu đánh mất chúng thì nhanh chóng tìm lại; đừng như võ sĩ giác đấu đã bị xé nát mà vẫn xin được sống đến hôm sau. **10.9** Những trò diễn, chiến tranh, sợ hãi, uể oải, nô lệ mỗi ngày đều xoá dần các nguyên tắc của ta; phải hành động sao cho vừa làm được việc trước mắt vừa rèn được năng lực suy xét. **10.10** Con nhện tự hào bắt được ruồi, người này bắt được thỏ, người kia cá, lợn rừng, gấu, người khác bắt được người Sarmatae; xét theo nguyên tắc, chẳng phải tất cả đều là kẻ cướp sao (Marcus tự giễu chính chiến dịch của mình).
-> (2) **Dùng "Chúa/Thượng đế", "Ngài".** Ở 10.11a, "đến với Chúa/Thượng đế, theo những quy luật" là cách dịch "đi theo thần" (*theos*) bằng con đường thẳng của luật; chữ "Chúa" mang sắc thái Kitô giáo không có trong nguyên tác. Ở 10.14, chủ thể "ban cho và lấy đi" là Tự nhiên (*physis*); gọi là "Ngài" làm nó giống một thần ngôi vị.
-> (3) **10.15:** câu "còn tốt hơn là sống thế này" nên hiểu là "thà bị họ giết còn hơn sống **như họ**".
-> (4) **10.17:** theo nguyên tác Hy Lạp, hình ảnh là **hạt sung** (không phải "hạt nho") và **một vòng xoay của mũi khoan** (*trypanon*), không phải "cái vặn nút chai", dụng cụ không tồn tại thời La Mã. Chú thích của người dịch đoán đây là "hình tượng hay dùng ở La Mã" là không có cơ sở.
-> (5) **10.21:** câu thơ trích từ Euripides; nguyên văn chơi chữ: động từ *philein* vừa có nghĩa "yêu, mong" vừa có nghĩa "thường, có xu hướng". Vì vậy Marcus nói thế giới "yêu" tạo ra những gì sẽ đến, và ta nói một điều "có xu hướng xảy ra" cũng chính là nói nó "yêu xảy ra". Bản dịch giữ được câu hỏi trong ngoặc nhưng người đọc tiếng Việt khó thấy lối chơi chữ này. Dấu "..." sau "bầu trời mong" là do bản dịch lược nửa câu thơ (bầu trời "mong" đổ mưa xuống).
-> (6) **10.33:** "cái xy lanh" là **khối trụ lăn**, hình ảnh nổi tiếng của Chrysippus về quan hệ giữa nhân quả bên ngoài và bản tính bên trong (cú đẩy làm khối trụ bắt đầu lăn, nhưng nó lăn vì nó tròn).
-> (7) **Phạm vi trang:** đoạn 10.38 tràn sang trang 174 của PDF.
+Phần còn lại của quyển xoay quanh bốn lời tự nhắc.
+
+- **Tâm trí khoẻ mạnh phải chịu được mọi thứ**, như mắt khoẻ nhìn được mọi màu, dạ dày khoẻ tiêu được mọi món; cứ hỏi "Con cái ta vẫn ổn phải không?" hay đòi "Mọi người cần phải tán đồng với mình" là dấu hiệu của tâm trí bệnh (10.31, 10.35).
+- **Lý trí luôn tự mở được đường**: chướng ngại chặn được nước, lửa, khối trụ, nhưng không chặn được một tâm trí biết dùng chính chướng ngại để làm điều đúng; điều tệ đến với con người thậm chí có thể làm người đó tốt lên (10.33).
+- **Sống đúng, đừng bàn về sống đúng**: chỉ có hai câu hỏi đáng quan tâm, việc đang làm có đúng không và ta có đón nhận được điều được giao không; khen chê của người khác không đổi được gì (10.11a, 10.13, 10.16, 10.32).
+- **Cái chết là sự tháo nút tự nhiên**: đời người như lá cây, các triều đại lặp lại một kịch bản, và nên ra đi không giận dữ, như tự nhiên đã buộc thì tự nhiên cởi (10.27, 10.34, 10.36).
+
+Marcus lập luận chủ yếu bằng **phép so sánh với cơ thể và vật lý** (mắt, dạ dày, lửa, đá, khối trụ, nô lệ bỏ trốn) để chứng minh rằng phản ứng sai trước ngoại cảnh là một dạng bệnh hay một sự bỏ trốn khỏi luật tự nhiên.
 
 ## Sơ đồ
 
@@ -194,7 +191,7 @@
 
 Suy tưởng không chia chủ đề mà chỉ có các mục đánh số. Phần dưới đi theo đúng thứ tự các mục, từ 10.11 đến 10.38, viết thành văn xuôi có giải thích, và gom thành bốn nhóm mục cho dễ theo dõi. Số mục (ví dụ 10.33) là số dùng chung trong mọi bản dịch.
 
-*(Các mục 10.1–10.10 không có trong bản dịch; xem khối Lưu ý ở đầu để biết nội dung theo nguyên tác.)* Bản dịch tiếng Việt đăng Quyển 10 thành ba phần, và tài liệu nguồn chỉ có phần (2) và (3), bắt đầu từ mục 11. Vì vậy nội dung dưới đây bắt đầu từ 10.11.
+*(Các mục 10.1–10.10 không có trong bản dịch; xem mục Lưu ý cuối quyển để biết nội dung theo nguyên tác.)* Bản dịch tiếng Việt đăng Quyển 10 thành ba phần, và tài liệu nguồn chỉ có phần (2) và (3), bắt đầu từ mục 11. Vì vậy nội dung dưới đây bắt đầu từ 10.11.
 
 ### Mục 10.11–10.16: thấy biến đổi, và chỉ còn hai câu hỏi
 
@@ -396,7 +393,11 @@ Tâm lý học hiện đại xác nhận một phần: nhiều người phát tr
 
 ### Phép so sánh "nô lệ bỏ trốn" cho thấy giới hạn của tự do Khắc kỷ
 
-10.25 gọi người buồn, giận, sợ là "nô lệ bỏ trốn" khỏi ông chủ là Luật. Hình ảnh này mạnh nhưng lộ ra một giả định: thế giới là một trật tự chính đáng mà ta có bổn phận phục tùng. Nó được viết bởi người đứng đầu một đế quốc chiếm hữu nô lệ, và Marcus dùng quan hệ chủ nô một cách tự nhiên như một mẫu hình đạo đức. Tự do Khắc kỷ (10.28: chỉ người lý trí mới tự nguyện đi theo điều tất yếu) là tự do bên trong, không phải tự do chính trị. Đó là lý do người ta phê phán Khắc kỷ là triết lý thích nghi chứ không thay đổi. Phản biện công bằng: Marcus phân biệt rõ điều tất yếu (cái chết, sự biến đổi) với điều có thể sửa (ông vẫn khuyên giúp người làm sai gỡ thôi thúc, vẫn giữ công lý trong hành động). Khắc kỷ đúng nghĩa không phải cam chịu bất công do người gây ra; nó là chấp nhận cái không thay đổi được và hành động ở cái thay đổi được.
+10.25 gọi người buồn, giận, sợ là "nô lệ bỏ trốn" khỏi ông chủ là Luật. Hình ảnh này mạnh nhưng lộ ra một giả định: thế giới là một trật tự chính đáng mà ta có bổn phận phục tùng. Nó được viết bởi người đứng đầu một đế quốc chiếm hữu nô lệ, và Marcus dùng quan hệ chủ nô một cách tự nhiên như một mẫu hình đạo đức.
+
+Tự do Khắc kỷ (10.28: chỉ người lý trí mới tự nguyện đi theo điều tất yếu) là tự do bên trong, không phải tự do chính trị. Đó là lý do người ta phê phán Khắc kỷ là triết lý thích nghi chứ không thay đổi.
+
+Phản biện công bằng: Marcus phân biệt rõ điều tất yếu (cái chết, sự biến đổi) với điều có thể sửa (ông vẫn khuyên giúp người làm sai gỡ thôi thúc, vẫn giữ công lý trong hành động). Khắc kỷ đúng nghĩa không phải cam chịu bất công do người gây ra; nó là chấp nhận cái không thay đổi được và hành động ở cái thay đổi được.
 
 ### Đoạn giường bệnh (10.36) là đoạn trung thực nhất về quyền lực
 
@@ -555,3 +556,37 @@ flowchart LR
   class n1,n14,n28,n41,n54,n60 branch
   class n2,n3,n4,n5,n6,n7,n8,n9,n10,n11,n12,n13,n15,n16,n17,n18,n19,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n34,n35,n36,n37,n38,n39,n40,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n52,n53,n55,n56,n57,n58,n59,n61,n62,n63 leaf
 ```
+
+## Nguồn
+
+Marcus Aurelius, *Suy tưởng* (*Meditations*, tiếng Hy Lạp *Ta eis heauton*, "Những điều viết cho chính mình", khoảng 170–180 SCN), Quyển 10. Bản dịch tiếng Việt của Andy Lương (dịch từ bản tiếng Anh của Gregory Hays), tr. 162–174 (chỉ gồm các mục 11–38).
+
+## Tác giả
+
+Marcus Aurelius (121–180), hoàng đế La Mã (trị vì 161–180), triết gia phái Khắc kỷ.
+
+## Vị trí trong tác phẩm
+
+Quyển 10 không có tiêu đề địa danh. Theo nguyên tác, mục 10.10 (không có trong bản dịch này) có câu tự giễu về việc bắt được người Sarmatae, nên giới nghiên cứu thường xếp quyển này vào thời chiến dịch chống người Sarmatae ở trung lưu sông Danube, khoảng giữa thập niên 170.
+
+Đây là một trong những quyển nhiều suy tư về cái chết nhất: Marcus tưởng tượng giường bệnh của chính mình và những người sẽ thầm mừng khi ông đi (10.36), nhìn lại các triều đại Hadrian và Antoninus như một vở kịch đã diễn (10.27, 10.31). Đồng thời nó chứa những hình ảnh mạnh nhất của cả sách về **sức bền của lý trí**: cái dạ dày khoẻ tiêu hoá mọi thức ăn, ngọn lửa biến mọi thứ ném vào thành ánh sáng (10.31, 10.35), lý trí như hòn đá rơi hay khối trụ lăn trên dốc (10.33).
+
+## Lưu ý
+
+- **Văn bản thiếu các mục 10.1–10.10.** Bản dịch đăng thành ba phần, PDF chỉ có phần (2) và (3), bắt đầu từ mục 11. Theo nguyên tác (không có trong bản dịch này, tóm tắt theo hiểu biết, không trích):
+  - **10.1** Marcus hỏi linh hồn mình bao giờ mới tốt, giản dị, trọn vẹn, trần trụi hơn thân xác bao quanh nó, bằng lòng với hiện tại và tin rằng mình có đủ mọi thứ từ thần linh.
+  - **10.2** Xét xem bản tính của ta như một sinh vật chỉ sống (như cây cỏ) đòi hỏi gì, rồi như một động vật, rồi như một sinh vật lý trí và sống cộng đồng; làm theo đòi hỏi của từng tầng, miễn là nó không làm tầng cao hơn xấu đi.
+  - **10.3** Điều xảy đến hoặc ta sinh ra để chịu được, hoặc không; nếu chịu được thì đừng than, nếu không thì cũng đừng than, vì nó sẽ huỷ ta rồi chính nó cũng mất; nhớ rằng ta chịu được mọi thứ mà phán đoán của ta làm cho chịu được.
+  - **10.4** Nếu ai lầm, hãy chỉ ra cho họ một cách nhẹ nhàng; nếu không làm được, hãy trách mình, hoặc không trách ai.
+  - **10.5** Mọi điều xảy đến với ta đã được chuẩn bị từ vĩnh cửu, sợi chỉ nhân quả đã dệt sự tồn tại của ta cùng với sự việc ấy.
+  - **10.6** Dù là nguyên tử hay tự nhiên: ta là phần của một toàn thể do tự nhiên điều hành và có quan hệ thân thuộc với các phần cùng loại; vì thế ta không phàn nàn điều gì được giao từ toàn thể và không làm gì trái lợi ích chung, như một công dân hoạt động vì đồng bào.
+  - **10.7** Các phần của toàn thể tất phải tan rã, tức là biến đổi; nếu điều đó là xấu thì toàn thể đã không vận hành tốt; chất liệu làm nên ta cũng chỉ mới đến từ thức ăn và không khí.
+  - **10.8** Hãy giữ cho xứng với vài cái tên: tốt, khiêm tốn, chân thật, sáng suốt, hoà hợp, cao thượng; nếu đánh mất chúng thì nhanh chóng tìm lại; đừng như võ sĩ giác đấu đã bị xé nát mà vẫn xin được sống đến hôm sau.
+  - **10.9** Những trò diễn, chiến tranh, sợ hãi, uể oải, nô lệ mỗi ngày đều xoá dần các nguyên tắc của ta; phải hành động sao cho vừa làm được việc trước mắt vừa rèn được năng lực suy xét.
+  - **10.10** Con nhện tự hào bắt được ruồi, người này bắt được thỏ, người kia cá, lợn rừng, gấu, người khác bắt được người Sarmatae; xét theo nguyên tắc, chẳng phải tất cả đều là kẻ cướp sao (Marcus tự giễu chính chiến dịch của mình).
+- **Dùng "Chúa/Thượng đế", "Ngài".** Ở 10.11a, "đến với Chúa/Thượng đế, theo những quy luật" là cách dịch "đi theo thần" (*theos*) bằng con đường thẳng của luật; chữ "Chúa" mang sắc thái Kitô giáo không có trong nguyên tác. Ở 10.14, chủ thể "ban cho và lấy đi" là Tự nhiên (*physis*); gọi là "Ngài" làm nó giống một thần ngôi vị.
+- **10.15:** câu "còn tốt hơn là sống thế này" nên hiểu là "thà bị họ giết còn hơn sống **như họ**".
+- **10.17:** theo nguyên tác Hy Lạp, hình ảnh là **hạt sung** (không phải "hạt nho") và **một vòng xoay của mũi khoan** (*trypanon*), không phải "cái vặn nút chai", dụng cụ không tồn tại thời La Mã. Chú thích của người dịch đoán đây là "hình tượng hay dùng ở La Mã" là không có cơ sở.
+- **10.21:** câu thơ trích từ Euripides; nguyên văn chơi chữ: động từ *philein* vừa có nghĩa "yêu, mong" vừa có nghĩa "thường, có xu hướng". Vì vậy Marcus nói thế giới "yêu" tạo ra những gì sẽ đến, và ta nói một điều "có xu hướng xảy ra" cũng chính là nói nó "yêu xảy ra". Bản dịch giữ được câu hỏi trong ngoặc nhưng người đọc tiếng Việt khó thấy lối chơi chữ này. Dấu "..." sau "bầu trời mong" là do bản dịch lược nửa câu thơ (bầu trời "mong" đổ mưa xuống).
+- **10.33:** "cái xy lanh" là **khối trụ lăn**, hình ảnh nổi tiếng của Chrysippus về quan hệ giữa nhân quả bên ngoài và bản tính bên trong (cú đẩy làm khối trụ bắt đầu lăn, nhưng nó lăn vì nó tròn).
+- **Phạm vi trang:** đoạn 10.38 tràn sang trang 174 của PDF.
