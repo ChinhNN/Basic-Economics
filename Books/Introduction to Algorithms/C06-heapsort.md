@@ -1364,109 +1364,135 @@ flowchart LR
   n1 --- n3
   n4["`Bản ghi lớn thì sắp xếp mảng con trỏ thay vì chép bản ghi`"]
   n3 --- n4
-  n5["`Năm lý do sắp xếp cơ bản nhất, trong đó có cận dưới Ω(n lg n) chứng minh được ở Chương 8`"]
+  n5["`Năm lý do sắp xếp cơ bản nhất: ứng dụng cần, thủ tục con then chốt, nhiều kỹ thuật, cận dưới chứng minh được, vấn đề kỹ thuật`"]
   n1 --- n5
-  n6["`Bảng bảy thuật toán: chèn Θ(n²), trộn Θ(n lg n), heapsort O(n lg n), quicksort xấu nhất Θ(n²)`"]
+  n6["`Bảng thời gian xấu nhất: chèn Θ(n²), trộn Θ(n lg n), heapsort O(n lg n), quicksort Θ(n²) nhưng kỳ vọng Θ(n lg n)`"]
   n1 --- n6
   n7["`Đếm Θ(k + n), cơ số Θ(d(n + k)), phân cụm O(n) trung bình vượt được cận so sánh`"]
   n6 --- n7
-  n8["`Thống kê thứ tự thứ i là số nhỏ thứ i, Chương 9 tìm trong O(n)`"]
+  n8["`Chèn, trộn, heapsort, quicksort là sắp xếp bằng so sánh, chịu cận dưới Ω(n lg n) của Chương 8, nên heapsort và trộn tối ưu tiệm cận`"]
   n1 --- n8
-  n9["`Phần mở đầu chương và Mục 6.1 — đống nhị phân`"]
-  n0 --- n9
-  n10["`Heapsort kết hợp O(n lg n) của sắp xếp trộn với tính tại chỗ của sắp xếp chèn`"]
-  n9 --- n10
-  n11["`Kỹ thuật thiết kế mới: dùng cấu trúc dữ liệu đống để quản lý thông tin`"]
-  n9 --- n11
-  n12["`Heap ở đây là cấu trúc dữ liệu, không phải vùng nhớ thu gom rác của Java, Lisp`"]
-  n11 --- n12
-  n13["`Đống là mảng A với A.heap-size ≤ A.length, chỉ A[1] tới A[heap-size] thuộc đống`"]
-  n9 --- n13
-  n14["`PARENT(i) = ⌊i/2⌋, LEFT(i) = 2i, RIGHT(i) = 2i + 1, tính bằng dịch bit`"]
-  n9 --- n14
-  n15["`Tính chất đống max: cha ≥ con nên max ở gốc, đống min ngược lại`"]
-  n9 --- n15
-  n16["`Chiều cao đống n phần tử là ⌊lg n⌋, nên phép toán cơ bản chạy O(lg n)`"]
-  n9 --- n16
-  n17["`Ví dụ 16 14 10 8 7 9 3 2 4 1 là đống max cao 3`"]
-  n16 --- n17
-  n18["`Mục 6.2–6.3 — MAX-HEAPIFY và BUILD-MAX-HEAP`"]
-  n0 --- n18
-  n19["`MAX-HEAPIFY cho A[i] chìm xuống bằng cách đổi với con lớn hơn, khi hai cây con đã là đống max`"]
-  n18 --- n19
-  n20["`Ví dụ MAX-HEAPIFY(A, 2): giá trị 4 đổi với 14 rồi với 8`"]
-  n19 --- n20
-  n21["`Cây con của một con có tối đa 2n/3 nút, nên T(n) ≤ T(2n/3) + Θ(1) = O(lg n)`"]
-  n18 --- n21
-  n22["`Tương đương O(h) trên nút có chiều cao h`"]
+  n9["`Thống kê thứ tự thứ i là số nhỏ thứ i: sắp xếp rồi lấy tốn Ω(n lg n), Chương 9 tìm trong O(n)`"]
+  n1 --- n9
+  n10["`Phần mở đầu chương và Mục 6.1 (trang 151–154) — đống nhị phân`"]
+  n0 --- n10
+  n11["`Heapsort kết hợp O(n lg n) của sắp xếp trộn với tính tại chỗ của sắp xếp chèn`"]
+  n10 --- n11
+  n12["`Kỹ thuật thiết kế mới: dùng cấu trúc dữ liệu đống để quản lý thông tin`"]
+  n10 --- n12
+  n13["`Heap ở đây là cấu trúc dữ liệu, không phải vùng nhớ thu gom rác của Java, Lisp`"]
+  n12 --- n13
+  n14["`Đống là mảng A với A.heap-size ≤ A.length, chỉ A[1] tới A[heap-size] thuộc đống`"]
+  n10 --- n14
+  n15["`PARENT(i) = ⌊i/2⌋, LEFT(i) = 2i, RIGHT(i) = 2i + 1, tính bằng dịch bit`"]
+  n10 --- n15
+  n16["`Tính chất đống max: cha ≥ con nên max ở gốc#59; heapsort dùng đống max, hàng đợi ưu tiên thường dùng đống min`"]
+  n10 --- n16
+  n17["`Chiều cao đống n phần tử là ⌊lg n⌋, nên phép toán cơ bản chạy O(lg n)`"]
+  n10 --- n17
+  n18["`Exercise 6.1-1: đống cao h có từ 2^h tới 2^(h+1) − 1 phần tử`"]
+  n17 --- n18
+  n19["`Ví dụ 16 14 10 8 7 9 3 2 4 1 là đống max cao 3, nút 4 (giá trị 8) cao 1`"]
+  n17 --- n19
+  n20["`Exercise 6.1-7: các lá là nút ⌊n/2⌋ + 1 tới n`"]
+  n10 --- n20
+  n21["`Mục 6.2–6.3 (trang 154–159) — MAX-HEAPIFY và BUILD-MAX-HEAP`"]
+  n0 --- n21
+  n22["`MAX-HEAPIFY cho A[i] chìm xuống bằng cách đổi với con lớn hơn, khi hai cây con đã là đống max`"]
   n21 --- n22
-  n23["`BUILD-MAX-HEAP gọi MAX-HEAPIFY từ nút ⌊n/2⌋ lùi về 1, vì các nút sau đều là lá`"]
-  n18 --- n23
-  n24["`Bất biến vòng lặp: mỗi nút i + 1 tới n là gốc một đống max`"]
-  n18 --- n24
-  n25["`Cận thô O(n lg n) đúng nhưng không chặt`"]
-  n18 --- n25
-  n26["`Cận chặt O(n): có tối đa ⌈n/2^(h+1)⌉ nút cao h và Σ h/2^h = 2`"]
-  n18 --- n26
-  n27["`Ví dụ 4 1 3 2 16 9 10 14 8 7 thành đống max sau 7 lần đổi chỗ`"]
+  n23["`Ví dụ MAX-HEAPIFY(A, 2) trên 16 4 10 14 7 9 3 2 8 1: giá trị 4 đổi với 14 rồi với 8`"]
+  n22 --- n23
+  n24["`Cây con của một con có tối đa 2n/3 nút (tầng đáy đầy một nửa), nên T(n) ≤ T(2n/3) + Θ(1) = O(lg n) theo định lý thợ`"]
+  n21 --- n24
+  n25["`Tương đương O(h) trên nút cao h#59; xấu nhất Ω(lg n) khi phần tử chìm từ gốc tới lá (Exercise 6.2-6)`"]
+  n24 --- n25
+  n26["`BUILD-MAX-HEAP gọi MAX-HEAPIFY từ nút ⌊n/2⌋ lùi về 1, vì các nút sau đều là lá`"]
+  n21 --- n26
+  n27["`Phải đi lùi vì MAX-HEAPIFY chỉ đúng khi hai cây con đã là đống max (Exercise 6.3-2)`"]
   n26 --- n27
-  n28["`Mục 6.4 — thuật toán heapsort`"]
-  n0 --- n28
-  n29["`Dựng đống max O(n), rồi n − 1 lần đổi A[1] với cuối vùng đống`"]
-  n28 --- n29
-  n30["`Giảm heap-size rồi gọi MAX-HEAPIFY(A, 1), mỗi lần O(lg n)`"]
-  n28 --- n30
-  n31["`Vùng đống bên trái và vùng đã sắp xếp bên phải dùng chung một mảng`"]
-  n28 --- n31
-  n32["`Tổng O(n lg n), tại chỗ, ví dụ cho 1 2 3 4 7 8 9 10 14 16 sau 9 lần lặp`"]
-  n28 --- n32
-  n33["`Ngay trường hợp tốt nhất với phần tử khác nhau cũng Ω(n lg n), Exercise 6.4-5`"]
-  n28 --- n33
-  n34["`Mục 6.5 — hàng đợi ưu tiên`"]
-  n0 --- n34
-  n35["`Quicksort tốt thường thắng heapsort, nhưng đống có ứng dụng riêng là hàng đợi ưu tiên`"]
-  n34 --- n35
-  n36["`Hàng đợi max có INSERT, MAXIMUM, EXTRACT-MAX, INCREASE-KEY, dùng lập lịch công việc`"]
-  n34 --- n36
-  n37["`Hàng đợi min có DECREASE-KEY, dùng mô phỏng hướng sự kiện và Chương 23, 24`"]
-  n34 --- n37
-  n38["`Tay cầm nối phần tử đống với đối tượng ứng dụng, phải cập nhật chỉ số khi đổi chỗ`"]
-  n34 --- n38
-  n39["`HEAP-MAXIMUM Θ(1), HEAP-EXTRACT-MAX đưa phần tử cuối lên gốc rồi cho chìm O(lg n)`"]
-  n34 --- n39
-  n40["`HEAP-INCREASE-KEY cho khoá nổi lên bằng cách đổi với cha, O(lg n)`"]
-  n34 --- n40
-  n41["`Ví dụ tăng A[9] từ 4 lên 15, nổi qua nút 4 và nút 2, dừng dưới 16`"]
-  n40 --- n41
-  n42["`MAX-HEAP-INSERT thêm lá khoá −∞ rồi tăng khoá, O(lg n)`"]
-  n34 --- n42
-  n43["`Exercise 6.5-8: HEAP-DELETE O(lg n), Exercise 6.5-9: trộn k danh sách đã sắp trong O(n lg k) bằng đống min`"]
-  n34 --- n43
-  n44["`Bài toán 6-1 tới 6-3 và Ghi chú chương`"]
-  n0 --- n44
-  n45["`6-1: dựng đống bằng chèn liên tiếp tốn Θ(n lg n) xấu nhất và có thể ra đống khác`"]
-  n44 --- n45
-  n46["`6-2: đống d-phân cao Θ(log#95;d n), EXTRACT-MAX O(d log#95;d n), INSERT và INCREASE-KEY O(log#95;d n)`"]
-  n44 --- n46
-  n47["`6-3: bảng Young m × n hỗ trợ EXTRACT-MIN, INSERT, tìm kiếm trong O(m + n)`"]
-  n44 --- n47
-  n48["`Williams phát minh heapsort, Floyd đề xuất BUILD-MAX-HEAP`"]
-  n44 --- n48
-  n49["`Hàng đợi nhanh hơn: đống Fibonacci Chương 19, van Emde Boas Chương 20, đống cơ số cho khoá nguyên`"]
-  n44 --- n49
-  n50["`Thông điệp xuyên suốt`"]
-  n0 --- n50
-  n51["`Thứ tự cục bộ cha ≥ con đủ để biết max mà rẻ hơn sắp xếp hoàn toàn`"]
-  n50 --- n51
-  n52["`Một cấu trúc dữ liệu cho cả thuật toán sắp xếp tối ưu lẫn hàng đợi ưu tiên dùng suốt Phần VI`"]
-  n50 --- n52
-  n53["`Đếm chi phí theo chiều cao nút thay vì nhân số lần gọi với chi phí lớn nhất cho cận chặt`"]
-  n50 --- n53
-  n54["`Heapsort bảo đảm xấu nhất O(n lg n), quicksort thường nhanh hơn ở trường hợp trung bình`"]
-  n50 --- n54
+  n28["`Bất biến vòng lặp: mỗi nút i + 1 tới n là gốc một đống max#59; kết thúc i = 0 nên cả mảng là đống max`"]
+  n21 --- n28
+  n29["`Cận thô O(n) lần gọi nhân O(lg n) cho O(n lg n), đúng nhưng không chặt`"]
+  n21 --- n29
+  n30["`Cận chặt O(n): có tối đa ⌈n/2^(h+1)⌉ nút cao h và Σ h/2^h = 2 theo công thức (A.8)`"]
+  n21 --- n30
+  n31["`Ví dụ 4 1 3 2 16 9 10 14 8 7 thành 16 14 10 8 7 9 3 2 4 1 sau 7 lần đổi chỗ`"]
+  n30 --- n31
+  n32["`BUILD-MIN-HEAP thay MAX-HEAPIFY bằng MIN-HEAPIFY, cũng chạy O(n)`"]
+  n21 --- n32
+  n33["`Mục 6.4 (trang 159–162) — thuật toán heapsort`"]
+  n0 --- n33
+  n34["`Dựng đống max O(n), rồi n − 1 lần đổi A[1] với cuối vùng đống`"]
+  n33 --- n34
+  n35["`Giảm heap-size rồi gọi MAX-HEAPIFY(A, 1), mỗi lần O(lg n)`"]
+  n33 --- n35
+  n36["`Bất biến (Exercise 6.4-2): A[1..i] là đống max của i phần tử nhỏ nhất, A[i + 1..n] là n − i phần tử lớn nhất đã sắp`"]
+  n33 --- n36
+  n37["`Tổng O(n lg n), tại chỗ, ví dụ cho 1 2 3 4 7 8 9 10 14 16 sau 9 lần lặp`"]
+  n33 --- n37
+  n38["`Ngay trường hợp tốt nhất với phần tử khác nhau cũng Ω(n lg n), nên xấu nhất là Θ(n lg n) (Exercise 6.4-4, 6.4-5)`"]
+  n33 --- n38
+  n39["`Mục 6.5 (trang 162–166) — hàng đợi ưu tiên`"]
+  n0 --- n39
+  n40["`Quicksort tốt thường thắng heapsort, nhưng đống có ứng dụng riêng là hàng đợi ưu tiên`"]
+  n39 --- n40
+  n41["`Hàng đợi max có INSERT, MAXIMUM, EXTRACT-MAX, INCREASE-KEY, dùng lập lịch công việc`"]
+  n39 --- n41
+  n42["`Hàng đợi min có DECREASE-KEY, dùng mô phỏng hướng sự kiện và Chương 23, 24`"]
+  n39 --- n42
+  n43["`Tay cầm nối phần tử đống với đối tượng ứng dụng, phải cập nhật chỉ số khi đổi chỗ`"]
+  n39 --- n43
+  n44["`HEAP-MAXIMUM trả về A[1] trong Θ(1)`"]
+  n39 --- n44
+  n45["`HEAP-EXTRACT-MAX đưa phần tử cuối lên gốc rồi cho chìm, như thân vòng lặp HEAPSORT, O(lg n)`"]
+  n39 --- n45
+  n46["`HEAP-INCREASE-KEY cho khoá nổi lên bằng cách đổi với cha, O(lg n)`"]
+  n39 --- n46
+  n47["`Ví dụ tăng A[9] từ 4 lên 15, nổi qua nút 4 và nút 2, dừng dưới 16`"]
+  n46 --- n47
+  n48["`MAX-HEAP-INSERT thêm lá khoá −∞ rồi tăng khoá, O(lg n)`"]
+  n39 --- n48
+  n49["`Khoá −∞ để thoả điều kiện khoá mới không nhỏ hơn khoá cũ (Exercise 6.5-4)`"]
+  n48 --- n49
+  n50["`Đống hỗ trợ mọi phép toán hàng đợi ưu tiên trên n phần tử trong O(lg n)`"]
+  n39 --- n50
+  n51["`Exercise 6.5-8: HEAP-DELETE O(lg n), phần tử cuối lấp chỗ trống có thể phải nổi lên hoặc chìm xuống`"]
+  n39 --- n51
+  n52["`Exercise 6.5-9: trộn k danh sách đã sắp trong O(n lg k) bằng đống min k phần tử`"]
+  n39 --- n52
+  n53["`Bài toán 6-1 tới 6-3 và Ghi chú chương (trang 166–169)`"]
+  n0 --- n53
+  n54["`6-1: dựng đống bằng chèn liên tiếp tốn Θ(n lg n) xấu nhất, so với O(n) của BUILD-MAX-HEAP`"]
+  n53 --- n54
+  n55["`Có thể ra đống khác: với 1 2 3, BUILD-MAX-HEAP cho 3 2 1, bản chèn cho 3 1 2`"]
+  n54 --- n55
+  n56["`6-2: đống d-phân cao Θ(log#95;d n), EXTRACT-MAX O(d log#95;d n), INSERT và INCREASE-KEY O(log#95;d n)`"]
+  n53 --- n56
+  n57["`6-3: bảng Young m × n hỗ trợ EXTRACT-MIN, INSERT, tìm kiếm trong O(m + n)`"]
+  n53 --- n57
+  n58["`Bảng Young n × n sắp xếp n² số trong O(n³)`"]
+  n57 --- n58
+  n59["`Williams phát minh heapsort, Floyd đề xuất BUILD-MAX-HEAP`"]
+  n53 --- n59
+  n60["`Hàng đợi nhanh hơn ở một số phép toán: đống Fibonacci Chương 19, van Emde Boas Chương 20`"]
+  n53 --- n60
+  n61["`Khoá nguyên b bit: Fredman–Willard INSERT, EXTRACT-MIN O(√lg n), Thorup cải thiện thành O(lg lg n)`"]
+  n53 --- n61
+  n62["`EXTRACT-MIN đơn điệu, khoá nguyên 1 tới C: đống cơ số cho O(lg C) khấu hao, DECREASE-KEY O(1)`"]
+  n53 --- n62
+  n63["`Thông điệp xuyên suốt`"]
+  n0 --- n63
+  n64["`Thứ tự cục bộ cha ≥ con đủ để biết max mà rẻ hơn sắp xếp hoàn toàn`"]
+  n63 --- n64
+  n65["`Một cấu trúc dữ liệu cho cả thuật toán sắp xếp tối ưu lẫn hàng đợi ưu tiên dùng suốt Phần VI`"]
+  n63 --- n65
+  n66["`Đếm chi phí theo chiều cao nút thay vì nhân số lần gọi với chi phí lớn nhất cho cận chặt`"]
+  n63 --- n66
+  n67["`Heapsort bảo đảm xấu nhất O(n lg n), quicksort thường nhanh hơn ở trường hợp trung bình`"]
+  n63 --- n67
   class n0 root
-  class n1,n9,n18,n28,n34,n44,n50 branch
-  class n2,n3,n4,n5,n6,n7,n8,n10,n11,n12,n13,n14,n15,n16,n17,n19,n20,n21,n22,n23,n24,n25,n26,n27,n29,n30,n31,n32,n33,n35,n36,n37,n38,n39,n40,n41,n42,n43,n45,n46,n47,n48,n49,n51,n52,n53,n54 leaf
+  class n1,n10,n21,n33,n39,n53,n63 branch
+  class n2,n3,n4,n5,n6,n7,n8,n9,n11,n12,n13,n14,n15,n16,n17,n18,n19,n20,n22,n23,n24,n25,n26,n27,n28,n29,n30,n31,n32,n34,n35,n36,n37,n38,n40,n41,n42,n43,n44,n45,n46,n47,n48,n49,n50,n51,n52,n54,n55,n56,n57,n58,n59,n60,n61,n62,n64,n65,n66,n67 leaf
 ```
 
 ## Nguồn
